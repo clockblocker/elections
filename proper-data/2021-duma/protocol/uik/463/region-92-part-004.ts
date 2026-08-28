@@ -11,8 +11,12 @@ export const duma_2021_uik_463_region_92_part_004 = [
     "ballot": "single-member",
     "uikNumber": 1921,
     "uikTvd": "4754010305070",
+    "uikName": "УИК №1921",
     "tikTvd": "27520001371128",
     "tikName": "Краснокаменская",
+    "regionCode": "92",
+    "regionTvd": "100100225883739",
+    "regionName": "Забайкальский край",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 458,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 450,
@@ -28,12 +32,12 @@ export const duma_2021_uik_463_region_92_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Григорьев Юрий Иннокентьевич": 45,
-      "Кулиева Василина Васильевна": 38,
-      "Михайлов Александр Николаевич": 7,
-      "Носов Дмитрий Юрьевич": 27,
-      "Синкевич Александр Иннокентьевич": 5,
-      "Фисун Екатерина Владимировна": 25
+      "27520001377668": 45,
+      "27520001376842": 38,
+      "27520001379333": 7,
+      "27520001377140": 27,
+      "27520001378564": 5,
+      "27520001379613": 25
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/zabkray?action=show&root=1000304&tvd=27520001371128&vrn=100100225883172&region=92&global=&sub_region=92&prver=0&pronetvd=null&vibid=27520001371128&type=464",
@@ -43,6 +47,10 @@ export const duma_2021_uik_463_region_92_part_004 = [
       "retrievedAt": "2026-08-26T08:10:24.558690+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/zabkray?action=show&root=1000304&tvd=27520001371128&vrn=100100225883172&region=92&global=&sub_region=92&prver=0&pronetvd=null&vibid=27520001371128&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 44,
+      "oikTvd": "100100225883741"
     }
   },
   {
@@ -52,8 +60,12 @@ export const duma_2021_uik_463_region_92_part_004 = [
     "ballot": "single-member",
     "uikNumber": 1922,
     "uikTvd": "4754010305071",
+    "uikName": "УИК №1922",
     "tikTvd": "27520001371128",
     "tikName": "Краснокаменская",
+    "regionCode": "92",
+    "regionTvd": "100100225883739",
+    "regionName": "Забайкальский край",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 823,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 800,
@@ -69,12 +81,12 @@ export const duma_2021_uik_463_region_92_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Григорьев Юрий Иннокентьевич": 94,
-      "Кулиева Василина Васильевна": 49,
-      "Михайлов Александр Николаевич": 29,
-      "Носов Дмитрий Юрьевич": 42,
-      "Синкевич Александр Иннокентьевич": 3,
-      "Фисун Екатерина Владимировна": 101
+      "27520001377668": 94,
+      "27520001376842": 49,
+      "27520001379333": 29,
+      "27520001377140": 42,
+      "27520001378564": 3,
+      "27520001379613": 101
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/zabkray?action=show&root=1000304&tvd=27520001371128&vrn=100100225883172&region=92&global=&sub_region=92&prver=0&pronetvd=null&vibid=27520001371128&type=464",
@@ -84,6 +96,10 @@ export const duma_2021_uik_463_region_92_part_004 = [
       "retrievedAt": "2026-08-26T08:10:24.558690+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/zabkray?action=show&root=1000304&tvd=27520001371128&vrn=100100225883172&region=92&global=&sub_region=92&prver=0&pronetvd=null&vibid=27520001371128&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 44,
+      "oikTvd": "100100225883741"
     }
   },
   {
@@ -93,8 +109,12 @@ export const duma_2021_uik_463_region_92_part_004 = [
     "ballot": "single-member",
     "uikNumber": 1923,
     "uikTvd": "4754010305072",
+    "uikName": "УИК №1923",
     "tikTvd": "27520001371128",
     "tikName": "Краснокаменская",
+    "regionCode": "92",
+    "regionTvd": "100100225883739",
+    "regionName": "Забайкальский край",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 1205,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 1200,
@@ -110,12 +130,12 @@ export const duma_2021_uik_463_region_92_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Григорьев Юрий Иннокентьевич": 127,
-      "Кулиева Василина Васильевна": 68,
-      "Михайлов Александр Николаевич": 33,
-      "Носов Дмитрий Юрьевич": 78,
-      "Синкевич Александр Иннокентьевич": 4,
-      "Фисун Екатерина Владимировна": 92
+      "27520001377668": 127,
+      "27520001376842": 68,
+      "27520001379333": 33,
+      "27520001377140": 78,
+      "27520001378564": 4,
+      "27520001379613": 92
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/zabkray?action=show&root=1000304&tvd=27520001371128&vrn=100100225883172&region=92&global=&sub_region=92&prver=0&pronetvd=null&vibid=27520001371128&type=464",
@@ -125,6 +145,10 @@ export const duma_2021_uik_463_region_92_part_004 = [
       "retrievedAt": "2026-08-26T08:10:24.558690+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/zabkray?action=show&root=1000304&tvd=27520001371128&vrn=100100225883172&region=92&global=&sub_region=92&prver=0&pronetvd=null&vibid=27520001371128&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 44,
+      "oikTvd": "100100225883741"
     }
   },
   {
@@ -134,8 +158,12 @@ export const duma_2021_uik_463_region_92_part_004 = [
     "ballot": "single-member",
     "uikNumber": 1924,
     "uikTvd": "4754010305073",
+    "uikName": "УИК №1924",
     "tikTvd": "27520001371128",
     "tikName": "Краснокаменская",
+    "regionCode": "92",
+    "regionTvd": "100100225883739",
+    "regionName": "Забайкальский край",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 731,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 700,
@@ -151,12 +179,12 @@ export const duma_2021_uik_463_region_92_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Григорьев Юрий Иннокентьевич": 98,
-      "Кулиева Василина Васильевна": 40,
-      "Михайлов Александр Николаевич": 30,
-      "Носов Дмитрий Юрьевич": 65,
-      "Синкевич Александр Иннокентьевич": 7,
-      "Фисун Екатерина Владимировна": 25
+      "27520001377668": 98,
+      "27520001376842": 40,
+      "27520001379333": 30,
+      "27520001377140": 65,
+      "27520001378564": 7,
+      "27520001379613": 25
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/zabkray?action=show&root=1000304&tvd=27520001371128&vrn=100100225883172&region=92&global=&sub_region=92&prver=0&pronetvd=null&vibid=27520001371128&type=464",
@@ -166,6 +194,10 @@ export const duma_2021_uik_463_region_92_part_004 = [
       "retrievedAt": "2026-08-26T08:10:24.558690+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/zabkray?action=show&root=1000304&tvd=27520001371128&vrn=100100225883172&region=92&global=&sub_region=92&prver=0&pronetvd=null&vibid=27520001371128&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 44,
+      "oikTvd": "100100225883741"
     }
   },
   {
@@ -175,8 +207,12 @@ export const duma_2021_uik_463_region_92_part_004 = [
     "ballot": "single-member",
     "uikNumber": 1925,
     "uikTvd": "4754010305074",
+    "uikName": "УИК №1925",
     "tikTvd": "27520001371128",
     "tikName": "Краснокаменская",
+    "regionCode": "92",
+    "regionTvd": "100100225883739",
+    "regionName": "Забайкальский край",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 486,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 500,
@@ -192,12 +228,12 @@ export const duma_2021_uik_463_region_92_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Григорьев Юрий Иннокентьевич": 39,
-      "Кулиева Василина Васильевна": 30,
-      "Михайлов Александр Николаевич": 17,
-      "Носов Дмитрий Юрьевич": 40,
-      "Синкевич Александр Иннокентьевич": 5,
-      "Фисун Екатерина Владимировна": 46
+      "27520001377668": 39,
+      "27520001376842": 30,
+      "27520001379333": 17,
+      "27520001377140": 40,
+      "27520001378564": 5,
+      "27520001379613": 46
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/zabkray?action=show&root=1000304&tvd=27520001371128&vrn=100100225883172&region=92&global=&sub_region=92&prver=0&pronetvd=null&vibid=27520001371128&type=464",
@@ -207,6 +243,10 @@ export const duma_2021_uik_463_region_92_part_004 = [
       "retrievedAt": "2026-08-26T08:10:24.558690+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/zabkray?action=show&root=1000304&tvd=27520001371128&vrn=100100225883172&region=92&global=&sub_region=92&prver=0&pronetvd=null&vibid=27520001371128&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 44,
+      "oikTvd": "100100225883741"
     }
   },
   {
@@ -216,8 +256,12 @@ export const duma_2021_uik_463_region_92_part_004 = [
     "ballot": "single-member",
     "uikNumber": 1926,
     "uikTvd": "4754010305075",
+    "uikName": "УИК №1926",
     "tikTvd": "27520001371128",
     "tikName": "Краснокаменская",
+    "regionCode": "92",
+    "regionTvd": "100100225883739",
+    "regionName": "Забайкальский край",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 227,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 200,
@@ -233,12 +277,12 @@ export const duma_2021_uik_463_region_92_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Григорьев Юрий Иннокентьевич": 20,
-      "Кулиева Василина Васильевна": 39,
-      "Михайлов Александр Николаевич": 14,
-      "Носов Дмитрий Юрьевич": 16,
-      "Синкевич Александр Иннокентьевич": 3,
-      "Фисун Екатерина Владимировна": 19
+      "27520001377668": 20,
+      "27520001376842": 39,
+      "27520001379333": 14,
+      "27520001377140": 16,
+      "27520001378564": 3,
+      "27520001379613": 19
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/zabkray?action=show&root=1000304&tvd=27520001371128&vrn=100100225883172&region=92&global=&sub_region=92&prver=0&pronetvd=null&vibid=27520001371128&type=464",
@@ -248,6 +292,10 @@ export const duma_2021_uik_463_region_92_part_004 = [
       "retrievedAt": "2026-08-26T08:10:24.558690+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/zabkray?action=show&root=1000304&tvd=27520001371128&vrn=100100225883172&region=92&global=&sub_region=92&prver=0&pronetvd=null&vibid=27520001371128&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 44,
+      "oikTvd": "100100225883741"
     }
   },
   {
@@ -257,8 +305,12 @@ export const duma_2021_uik_463_region_92_part_004 = [
     "ballot": "single-member",
     "uikNumber": 1927,
     "uikTvd": "4754010305076",
+    "uikName": "УИК №1927",
     "tikTvd": "27520001371128",
     "tikName": "Краснокаменская",
+    "regionCode": "92",
+    "regionTvd": "100100225883739",
+    "regionName": "Забайкальский край",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 421,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 400,
@@ -274,12 +326,12 @@ export const duma_2021_uik_463_region_92_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Григорьев Юрий Иннокентьевич": 65,
-      "Кулиева Василина Васильевна": 42,
-      "Михайлов Александр Николаевич": 13,
-      "Носов Дмитрий Юрьевич": 31,
-      "Синкевич Александр Иннокентьевич": 5,
-      "Фисун Екатерина Владимировна": 52
+      "27520001377668": 65,
+      "27520001376842": 42,
+      "27520001379333": 13,
+      "27520001377140": 31,
+      "27520001378564": 5,
+      "27520001379613": 52
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/zabkray?action=show&root=1000304&tvd=27520001371128&vrn=100100225883172&region=92&global=&sub_region=92&prver=0&pronetvd=null&vibid=27520001371128&type=464",
@@ -289,6 +341,10 @@ export const duma_2021_uik_463_region_92_part_004 = [
       "retrievedAt": "2026-08-26T08:10:24.558690+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/zabkray?action=show&root=1000304&tvd=27520001371128&vrn=100100225883172&region=92&global=&sub_region=92&prver=0&pronetvd=null&vibid=27520001371128&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 44,
+      "oikTvd": "100100225883741"
     }
   },
   {
@@ -298,8 +354,12 @@ export const duma_2021_uik_463_region_92_part_004 = [
     "ballot": "single-member",
     "uikNumber": 1928,
     "uikTvd": "4754010305077",
+    "uikName": "УИК №1928",
     "tikTvd": "27520001371128",
     "tikName": "Краснокаменская",
+    "regionCode": "92",
+    "regionTvd": "100100225883739",
+    "regionName": "Забайкальский край",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 362,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 300,
@@ -315,12 +375,12 @@ export const duma_2021_uik_463_region_92_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Григорьев Юрий Иннокентьевич": 21,
-      "Кулиева Василина Васильевна": 20,
-      "Михайлов Александр Николаевич": 12,
-      "Носов Дмитрий Юрьевич": 17,
-      "Синкевич Александр Иннокентьевич": 5,
-      "Фисун Екатерина Владимировна": 69
+      "27520001377668": 21,
+      "27520001376842": 20,
+      "27520001379333": 12,
+      "27520001377140": 17,
+      "27520001378564": 5,
+      "27520001379613": 69
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/zabkray?action=show&root=1000304&tvd=27520001371128&vrn=100100225883172&region=92&global=&sub_region=92&prver=0&pronetvd=null&vibid=27520001371128&type=464",
@@ -330,6 +390,10 @@ export const duma_2021_uik_463_region_92_part_004 = [
       "retrievedAt": "2026-08-26T08:10:24.558690+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/zabkray?action=show&root=1000304&tvd=27520001371128&vrn=100100225883172&region=92&global=&sub_region=92&prver=0&pronetvd=null&vibid=27520001371128&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 44,
+      "oikTvd": "100100225883741"
     }
   },
   {
@@ -339,8 +403,12 @@ export const duma_2021_uik_463_region_92_part_004 = [
     "ballot": "single-member",
     "uikNumber": 1929,
     "uikTvd": "4754010305078",
+    "uikName": "УИК №1929",
     "tikTvd": "27520001371128",
     "tikName": "Краснокаменская",
+    "regionCode": "92",
+    "regionTvd": "100100225883739",
+    "regionName": "Забайкальский край",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 547,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 500,
@@ -356,12 +424,12 @@ export const duma_2021_uik_463_region_92_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Григорьев Юрий Иннокентьевич": 77,
-      "Кулиева Василина Васильевна": 35,
-      "Михайлов Александр Николаевич": 24,
-      "Носов Дмитрий Юрьевич": 39,
-      "Синкевич Александр Иннокентьевич": 3,
-      "Фисун Екатерина Владимировна": 82
+      "27520001377668": 77,
+      "27520001376842": 35,
+      "27520001379333": 24,
+      "27520001377140": 39,
+      "27520001378564": 3,
+      "27520001379613": 82
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/zabkray?action=show&root=1000304&tvd=27520001371128&vrn=100100225883172&region=92&global=&sub_region=92&prver=0&pronetvd=null&vibid=27520001371128&type=464",
@@ -371,6 +439,10 @@ export const duma_2021_uik_463_region_92_part_004 = [
       "retrievedAt": "2026-08-26T08:10:24.558690+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/zabkray?action=show&root=1000304&tvd=27520001371128&vrn=100100225883172&region=92&global=&sub_region=92&prver=0&pronetvd=null&vibid=27520001371128&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 44,
+      "oikTvd": "100100225883741"
     }
   },
   {
@@ -380,8 +452,12 @@ export const duma_2021_uik_463_region_92_part_004 = [
     "ballot": "single-member",
     "uikNumber": 1930,
     "uikTvd": "4754010305079",
+    "uikName": "УИК №1930",
     "tikTvd": "27520001371128",
     "tikName": "Краснокаменская",
+    "regionCode": "92",
+    "regionTvd": "100100225883739",
+    "regionName": "Забайкальский край",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 217,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 200,
@@ -397,12 +473,12 @@ export const duma_2021_uik_463_region_92_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Григорьев Юрий Иннокентьевич": 41,
-      "Кулиева Василина Васильевна": 20,
-      "Михайлов Александр Николаевич": 10,
-      "Носов Дмитрий Юрьевич": 4,
-      "Синкевич Александр Иннокентьевич": 1,
-      "Фисун Екатерина Владимировна": 15
+      "27520001377668": 41,
+      "27520001376842": 20,
+      "27520001379333": 10,
+      "27520001377140": 4,
+      "27520001378564": 1,
+      "27520001379613": 15
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/zabkray?action=show&root=1000304&tvd=27520001371128&vrn=100100225883172&region=92&global=&sub_region=92&prver=0&pronetvd=null&vibid=27520001371128&type=464",
@@ -412,6 +488,10 @@ export const duma_2021_uik_463_region_92_part_004 = [
       "retrievedAt": "2026-08-26T08:10:24.558690+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/zabkray?action=show&root=1000304&tvd=27520001371128&vrn=100100225883172&region=92&global=&sub_region=92&prver=0&pronetvd=null&vibid=27520001371128&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 44,
+      "oikTvd": "100100225883741"
     }
   },
   {
@@ -421,8 +501,12 @@ export const duma_2021_uik_463_region_92_part_004 = [
     "ballot": "single-member",
     "uikNumber": 1931,
     "uikTvd": "4754010305080",
+    "uikName": "УИК №1931",
     "tikTvd": "27520001371128",
     "tikName": "Краснокаменская",
+    "regionCode": "92",
+    "regionTvd": "100100225883739",
+    "regionName": "Забайкальский край",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 80,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 80,
@@ -438,12 +522,12 @@ export const duma_2021_uik_463_region_92_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Григорьев Юрий Иннокентьевич": 8,
-      "Кулиева Василина Васильевна": 11,
-      "Михайлов Александр Николаевич": 1,
-      "Носов Дмитрий Юрьевич": 0,
-      "Синкевич Александр Иннокентьевич": 0,
-      "Фисун Екатерина Владимировна": 2
+      "27520001377668": 8,
+      "27520001376842": 11,
+      "27520001379333": 1,
+      "27520001377140": 0,
+      "27520001378564": 0,
+      "27520001379613": 2
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/zabkray?action=show&root=1000304&tvd=27520001371128&vrn=100100225883172&region=92&global=&sub_region=92&prver=0&pronetvd=null&vibid=27520001371128&type=464",
@@ -453,6 +537,10 @@ export const duma_2021_uik_463_region_92_part_004 = [
       "retrievedAt": "2026-08-26T08:10:24.558690+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/zabkray?action=show&root=1000304&tvd=27520001371128&vrn=100100225883172&region=92&global=&sub_region=92&prver=0&pronetvd=null&vibid=27520001371128&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 44,
+      "oikTvd": "100100225883741"
     }
   },
   {
@@ -462,8 +550,12 @@ export const duma_2021_uik_463_region_92_part_004 = [
     "ballot": "single-member",
     "uikNumber": 1501,
     "uikTvd": "4754006204983",
+    "uikName": "УИК №1501",
     "tikTvd": "27520001371129",
     "tikName": "Забайкальская",
+    "regionCode": "92",
+    "regionTvd": "100100225883739",
+    "regionName": "Забайкальский край",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 2781,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 2875,
@@ -479,12 +571,12 @@ export const duma_2021_uik_463_region_92_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Григорьев Юрий Иннокентьевич": 215,
-      "Кулиева Василина Васильевна": 175,
-      "Михайлов Александр Николаевич": 130,
-      "Носов Дмитрий Юрьевич": 334,
-      "Синкевич Александр Иннокентьевич": 46,
-      "Фисун Екатерина Владимировна": 240
+      "27520001377668": 215,
+      "27520001376842": 175,
+      "27520001379333": 130,
+      "27520001377140": 334,
+      "27520001378564": 46,
+      "27520001379613": 240
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/zabkray?action=show&root=1000304&tvd=27520001371129&vrn=100100225883172&region=92&global=&sub_region=92&prver=0&pronetvd=null&vibid=27520001371129&type=464",
@@ -494,6 +586,10 @@ export const duma_2021_uik_463_region_92_part_004 = [
       "retrievedAt": "2026-08-26T08:10:24.745289+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/zabkray?action=show&root=1000304&tvd=27520001371129&vrn=100100225883172&region=92&global=&sub_region=92&prver=0&pronetvd=null&vibid=27520001371129&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 44,
+      "oikTvd": "100100225883741"
     }
   },
   {
@@ -503,8 +599,12 @@ export const duma_2021_uik_463_region_92_part_004 = [
     "ballot": "single-member",
     "uikNumber": 1502,
     "uikTvd": "4754006204984",
+    "uikName": "УИК №1502",
     "tikTvd": "27520001371129",
     "tikName": "Забайкальская",
+    "regionCode": "92",
+    "regionTvd": "100100225883739",
+    "regionName": "Забайкальский край",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 1827,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 1700,
@@ -520,12 +620,12 @@ export const duma_2021_uik_463_region_92_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Григорьев Юрий Иннокентьевич": 162,
-      "Кулиева Василина Васильевна": 145,
-      "Михайлов Александр Николаевич": 69,
-      "Носов Дмитрий Юрьевич": 208,
-      "Синкевич Александр Иннокентьевич": 28,
-      "Фисун Екатерина Владимировна": 125
+      "27520001377668": 162,
+      "27520001376842": 145,
+      "27520001379333": 69,
+      "27520001377140": 208,
+      "27520001378564": 28,
+      "27520001379613": 125
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/zabkray?action=show&root=1000304&tvd=27520001371129&vrn=100100225883172&region=92&global=&sub_region=92&prver=0&pronetvd=null&vibid=27520001371129&type=464",
@@ -535,6 +635,10 @@ export const duma_2021_uik_463_region_92_part_004 = [
       "retrievedAt": "2026-08-26T08:10:24.745289+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/zabkray?action=show&root=1000304&tvd=27520001371129&vrn=100100225883172&region=92&global=&sub_region=92&prver=0&pronetvd=null&vibid=27520001371129&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 44,
+      "oikTvd": "100100225883741"
     }
   },
   {
@@ -544,8 +648,12 @@ export const duma_2021_uik_463_region_92_part_004 = [
     "ballot": "single-member",
     "uikNumber": 1503,
     "uikTvd": "4754006204985",
+    "uikName": "УИК №1503",
     "tikTvd": "27520001371129",
     "tikName": "Забайкальская",
+    "regionCode": "92",
+    "regionTvd": "100100225883739",
+    "regionName": "Забайкальский край",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 2426,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 2400,
@@ -561,12 +669,12 @@ export const duma_2021_uik_463_region_92_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Григорьев Юрий Иннокентьевич": 149,
-      "Кулиева Василина Васильевна": 174,
-      "Михайлов Александр Николаевич": 78,
-      "Носов Дмитрий Юрьевич": 257,
-      "Синкевич Александр Иннокентьевич": 24,
-      "Фисун Екатерина Владимировна": 173
+      "27520001377668": 149,
+      "27520001376842": 174,
+      "27520001379333": 78,
+      "27520001377140": 257,
+      "27520001378564": 24,
+      "27520001379613": 173
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/zabkray?action=show&root=1000304&tvd=27520001371129&vrn=100100225883172&region=92&global=&sub_region=92&prver=0&pronetvd=null&vibid=27520001371129&type=464",
@@ -576,6 +684,10 @@ export const duma_2021_uik_463_region_92_part_004 = [
       "retrievedAt": "2026-08-26T08:10:24.745289+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/zabkray?action=show&root=1000304&tvd=27520001371129&vrn=100100225883172&region=92&global=&sub_region=92&prver=0&pronetvd=null&vibid=27520001371129&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 44,
+      "oikTvd": "100100225883741"
     }
   },
   {
@@ -585,8 +697,12 @@ export const duma_2021_uik_463_region_92_part_004 = [
     "ballot": "single-member",
     "uikNumber": 1504,
     "uikTvd": "4754006204986",
+    "uikName": "УИК №1504",
     "tikTvd": "27520001371129",
     "tikName": "Забайкальская",
+    "regionCode": "92",
+    "regionTvd": "100100225883739",
+    "regionName": "Забайкальский край",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 1590,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 1600,
@@ -602,12 +718,12 @@ export const duma_2021_uik_463_region_92_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Григорьев Юрий Иннокентьевич": 113,
-      "Кулиева Василина Васильевна": 73,
-      "Михайлов Александр Николаевич": 49,
-      "Носов Дмитрий Юрьевич": 117,
-      "Синкевич Александр Иннокентьевич": 12,
-      "Фисун Екатерина Владимировна": 60
+      "27520001377668": 113,
+      "27520001376842": 73,
+      "27520001379333": 49,
+      "27520001377140": 117,
+      "27520001378564": 12,
+      "27520001379613": 60
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/zabkray?action=show&root=1000304&tvd=27520001371129&vrn=100100225883172&region=92&global=&sub_region=92&prver=0&pronetvd=null&vibid=27520001371129&type=464",
@@ -617,6 +733,10 @@ export const duma_2021_uik_463_region_92_part_004 = [
       "retrievedAt": "2026-08-26T08:10:24.745289+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/zabkray?action=show&root=1000304&tvd=27520001371129&vrn=100100225883172&region=92&global=&sub_region=92&prver=0&pronetvd=null&vibid=27520001371129&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 44,
+      "oikTvd": "100100225883741"
     }
   },
   {
@@ -626,8 +746,12 @@ export const duma_2021_uik_463_region_92_part_004 = [
     "ballot": "single-member",
     "uikNumber": 1505,
     "uikTvd": "4754006204987",
+    "uikName": "УИК №1505",
     "tikTvd": "27520001371129",
     "tikName": "Забайкальская",
+    "regionCode": "92",
+    "regionTvd": "100100225883739",
+    "regionName": "Забайкальский край",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 873,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 800,
@@ -643,12 +767,12 @@ export const duma_2021_uik_463_region_92_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Григорьев Юрий Иннокентьевич": 32,
-      "Кулиева Василина Васильевна": 52,
-      "Михайлов Александр Николаевич": 41,
-      "Носов Дмитрий Юрьевич": 134,
-      "Синкевич Александр Иннокентьевич": 7,
-      "Фисун Екатерина Владимировна": 58
+      "27520001377668": 32,
+      "27520001376842": 52,
+      "27520001379333": 41,
+      "27520001377140": 134,
+      "27520001378564": 7,
+      "27520001379613": 58
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/zabkray?action=show&root=1000304&tvd=27520001371129&vrn=100100225883172&region=92&global=&sub_region=92&prver=0&pronetvd=null&vibid=27520001371129&type=464",
@@ -658,6 +782,10 @@ export const duma_2021_uik_463_region_92_part_004 = [
       "retrievedAt": "2026-08-26T08:10:24.745289+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/zabkray?action=show&root=1000304&tvd=27520001371129&vrn=100100225883172&region=92&global=&sub_region=92&prver=0&pronetvd=null&vibid=27520001371129&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 44,
+      "oikTvd": "100100225883741"
     }
   },
   {
@@ -667,8 +795,12 @@ export const duma_2021_uik_463_region_92_part_004 = [
     "ballot": "single-member",
     "uikNumber": 1506,
     "uikTvd": "4754006204988",
+    "uikName": "УИК №1506",
     "tikTvd": "27520001371129",
     "tikName": "Забайкальская",
+    "regionCode": "92",
+    "regionTvd": "100100225883739",
+    "regionName": "Забайкальский край",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 667,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 650,
@@ -684,12 +816,12 @@ export const duma_2021_uik_463_region_92_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Григорьев Юрий Иннокентьевич": 54,
-      "Кулиева Василина Васильевна": 44,
-      "Михайлов Александр Николаевич": 23,
-      "Носов Дмитрий Юрьевич": 48,
-      "Синкевич Александр Иннокентьевич": 2,
-      "Фисун Екатерина Владимировна": 33
+      "27520001377668": 54,
+      "27520001376842": 44,
+      "27520001379333": 23,
+      "27520001377140": 48,
+      "27520001378564": 2,
+      "27520001379613": 33
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/zabkray?action=show&root=1000304&tvd=27520001371129&vrn=100100225883172&region=92&global=&sub_region=92&prver=0&pronetvd=null&vibid=27520001371129&type=464",
@@ -699,6 +831,10 @@ export const duma_2021_uik_463_region_92_part_004 = [
       "retrievedAt": "2026-08-26T08:10:24.745289+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/zabkray?action=show&root=1000304&tvd=27520001371129&vrn=100100225883172&region=92&global=&sub_region=92&prver=0&pronetvd=null&vibid=27520001371129&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 44,
+      "oikTvd": "100100225883741"
     }
   },
   {
@@ -708,8 +844,12 @@ export const duma_2021_uik_463_region_92_part_004 = [
     "ballot": "single-member",
     "uikNumber": 1507,
     "uikTvd": "4754006204989",
+    "uikName": "УИК №1507",
     "tikTvd": "27520001371129",
     "tikName": "Забайкальская",
+    "regionCode": "92",
+    "regionTvd": "100100225883739",
+    "regionName": "Забайкальский край",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 816,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 800,
@@ -725,12 +865,12 @@ export const duma_2021_uik_463_region_92_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Григорьев Юрий Иннокентьевич": 93,
-      "Кулиева Василина Васильевна": 33,
-      "Михайлов Александр Николаевич": 20,
-      "Носов Дмитрий Юрьевич": 31,
-      "Синкевич Александр Иннокентьевич": 6,
-      "Фисун Екатерина Владимировна": 28
+      "27520001377668": 93,
+      "27520001376842": 33,
+      "27520001379333": 20,
+      "27520001377140": 31,
+      "27520001378564": 6,
+      "27520001379613": 28
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/zabkray?action=show&root=1000304&tvd=27520001371129&vrn=100100225883172&region=92&global=&sub_region=92&prver=0&pronetvd=null&vibid=27520001371129&type=464",
@@ -740,6 +880,10 @@ export const duma_2021_uik_463_region_92_part_004 = [
       "retrievedAt": "2026-08-26T08:10:24.745289+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/zabkray?action=show&root=1000304&tvd=27520001371129&vrn=100100225883172&region=92&global=&sub_region=92&prver=0&pronetvd=null&vibid=27520001371129&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 44,
+      "oikTvd": "100100225883741"
     }
   },
   {
@@ -749,8 +893,12 @@ export const duma_2021_uik_463_region_92_part_004 = [
     "ballot": "single-member",
     "uikNumber": 1508,
     "uikTvd": "4754006204990",
+    "uikName": "УИК №1508",
     "tikTvd": "27520001371129",
     "tikName": "Забайкальская",
+    "regionCode": "92",
+    "regionTvd": "100100225883739",
+    "regionName": "Забайкальский край",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 904,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 950,
@@ -766,12 +914,12 @@ export const duma_2021_uik_463_region_92_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Григорьев Юрий Иннокентьевич": 96,
-      "Кулиева Василина Васильевна": 49,
-      "Михайлов Александр Николаевич": 35,
-      "Носов Дмитрий Юрьевич": 80,
-      "Синкевич Александр Иннокентьевич": 12,
-      "Фисун Екатерина Владимировна": 60
+      "27520001377668": 96,
+      "27520001376842": 49,
+      "27520001379333": 35,
+      "27520001377140": 80,
+      "27520001378564": 12,
+      "27520001379613": 60
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/zabkray?action=show&root=1000304&tvd=27520001371129&vrn=100100225883172&region=92&global=&sub_region=92&prver=0&pronetvd=null&vibid=27520001371129&type=464",
@@ -781,6 +929,10 @@ export const duma_2021_uik_463_region_92_part_004 = [
       "retrievedAt": "2026-08-26T08:10:24.745289+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/zabkray?action=show&root=1000304&tvd=27520001371129&vrn=100100225883172&region=92&global=&sub_region=92&prver=0&pronetvd=null&vibid=27520001371129&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 44,
+      "oikTvd": "100100225883741"
     }
   },
   {
@@ -790,8 +942,12 @@ export const duma_2021_uik_463_region_92_part_004 = [
     "ballot": "single-member",
     "uikNumber": 1509,
     "uikTvd": "4754006204991",
+    "uikName": "УИК №1509",
     "tikTvd": "27520001371129",
     "tikName": "Забайкальская",
+    "regionCode": "92",
+    "regionTvd": "100100225883739",
+    "regionName": "Забайкальский край",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 712,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 750,
@@ -807,12 +963,12 @@ export const duma_2021_uik_463_region_92_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Григорьев Юрий Иннокентьевич": 57,
-      "Кулиева Василина Васильевна": 57,
-      "Михайлов Александр Николаевич": 23,
-      "Носов Дмитрий Юрьевич": 71,
-      "Синкевич Александр Иннокентьевич": 9,
-      "Фисун Екатерина Владимировна": 38
+      "27520001377668": 57,
+      "27520001376842": 57,
+      "27520001379333": 23,
+      "27520001377140": 71,
+      "27520001378564": 9,
+      "27520001379613": 38
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/zabkray?action=show&root=1000304&tvd=27520001371129&vrn=100100225883172&region=92&global=&sub_region=92&prver=0&pronetvd=null&vibid=27520001371129&type=464",
@@ -822,6 +978,10 @@ export const duma_2021_uik_463_region_92_part_004 = [
       "retrievedAt": "2026-08-26T08:10:24.745289+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/zabkray?action=show&root=1000304&tvd=27520001371129&vrn=100100225883172&region=92&global=&sub_region=92&prver=0&pronetvd=null&vibid=27520001371129&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 44,
+      "oikTvd": "100100225883741"
     }
   },
   {
@@ -831,8 +991,12 @@ export const duma_2021_uik_463_region_92_part_004 = [
     "ballot": "single-member",
     "uikNumber": 1510,
     "uikTvd": "4754006204992",
+    "uikName": "УИК №1510",
     "tikTvd": "27520001371129",
     "tikName": "Забайкальская",
+    "regionCode": "92",
+    "regionTvd": "100100225883739",
+    "regionName": "Забайкальский край",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 365,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 350,
@@ -848,12 +1012,12 @@ export const duma_2021_uik_463_region_92_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Григорьев Юрий Иннокентьевич": 58,
-      "Кулиева Василина Васильевна": 18,
-      "Михайлов Александр Николаевич": 12,
-      "Носов Дмитрий Юрьевич": 21,
-      "Синкевич Александр Иннокентьевич": 2,
-      "Фисун Екатерина Владимировна": 46
+      "27520001377668": 58,
+      "27520001376842": 18,
+      "27520001379333": 12,
+      "27520001377140": 21,
+      "27520001378564": 2,
+      "27520001379613": 46
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/zabkray?action=show&root=1000304&tvd=27520001371129&vrn=100100225883172&region=92&global=&sub_region=92&prver=0&pronetvd=null&vibid=27520001371129&type=464",
@@ -863,6 +1027,10 @@ export const duma_2021_uik_463_region_92_part_004 = [
       "retrievedAt": "2026-08-26T08:10:24.745289+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/zabkray?action=show&root=1000304&tvd=27520001371129&vrn=100100225883172&region=92&global=&sub_region=92&prver=0&pronetvd=null&vibid=27520001371129&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 44,
+      "oikTvd": "100100225883741"
     }
   },
   {
@@ -872,8 +1040,12 @@ export const duma_2021_uik_463_region_92_part_004 = [
     "ballot": "single-member",
     "uikNumber": 1512,
     "uikTvd": "4754006204993",
+    "uikName": "УИК №1512",
     "tikTvd": "27520001371129",
     "tikName": "Забайкальская",
+    "regionCode": "92",
+    "regionTvd": "100100225883739",
+    "regionName": "Забайкальский край",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 108,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 110,
@@ -889,12 +1061,12 @@ export const duma_2021_uik_463_region_92_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Григорьев Юрий Иннокентьевич": 11,
-      "Кулиева Василина Васильевна": 11,
-      "Михайлов Александр Николаевич": 11,
-      "Носов Дмитрий Юрьевич": 20,
-      "Синкевич Александр Иннокентьевич": 1,
-      "Фисун Екатерина Владимировна": 14
+      "27520001377668": 11,
+      "27520001376842": 11,
+      "27520001379333": 11,
+      "27520001377140": 20,
+      "27520001378564": 1,
+      "27520001379613": 14
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/zabkray?action=show&root=1000304&tvd=27520001371129&vrn=100100225883172&region=92&global=&sub_region=92&prver=0&pronetvd=null&vibid=27520001371129&type=464",
@@ -904,6 +1076,10 @@ export const duma_2021_uik_463_region_92_part_004 = [
       "retrievedAt": "2026-08-26T08:10:24.745289+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/zabkray?action=show&root=1000304&tvd=27520001371129&vrn=100100225883172&region=92&global=&sub_region=92&prver=0&pronetvd=null&vibid=27520001371129&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 44,
+      "oikTvd": "100100225883741"
     }
   },
   {
@@ -913,8 +1089,12 @@ export const duma_2021_uik_463_region_92_part_004 = [
     "ballot": "single-member",
     "uikNumber": 1513,
     "uikTvd": "4754006204994",
+    "uikName": "УИК №1513",
     "tikTvd": "27520001371129",
     "tikName": "Забайкальская",
+    "regionCode": "92",
+    "regionTvd": "100100225883739",
+    "regionName": "Забайкальский край",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 369,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 380,
@@ -930,12 +1110,12 @@ export const duma_2021_uik_463_region_92_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Григорьев Юрий Иннокентьевич": 29,
-      "Кулиева Василина Васильевна": 29,
-      "Михайлов Александр Николаевич": 9,
-      "Носов Дмитрий Юрьевич": 14,
-      "Синкевич Александр Иннокентьевич": 2,
-      "Фисун Екатерина Владимировна": 30
+      "27520001377668": 29,
+      "27520001376842": 29,
+      "27520001379333": 9,
+      "27520001377140": 14,
+      "27520001378564": 2,
+      "27520001379613": 30
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/zabkray?action=show&root=1000304&tvd=27520001371129&vrn=100100225883172&region=92&global=&sub_region=92&prver=0&pronetvd=null&vibid=27520001371129&type=464",
@@ -945,6 +1125,10 @@ export const duma_2021_uik_463_region_92_part_004 = [
       "retrievedAt": "2026-08-26T08:10:24.745289+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/zabkray?action=show&root=1000304&tvd=27520001371129&vrn=100100225883172&region=92&global=&sub_region=92&prver=0&pronetvd=null&vibid=27520001371129&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 44,
+      "oikTvd": "100100225883741"
     }
   },
   {
@@ -954,8 +1138,12 @@ export const duma_2021_uik_463_region_92_part_004 = [
     "ballot": "single-member",
     "uikNumber": 1514,
     "uikTvd": "4754006204995",
+    "uikName": "УИК №1514",
     "tikTvd": "27520001371129",
     "tikName": "Забайкальская",
+    "regionCode": "92",
+    "regionTvd": "100100225883739",
+    "regionName": "Забайкальский край",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 234,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 230,
@@ -971,12 +1159,12 @@ export const duma_2021_uik_463_region_92_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Григорьев Юрий Иннокентьевич": 22,
-      "Кулиева Василина Васильевна": 16,
-      "Михайлов Александр Николаевич": 11,
-      "Носов Дмитрий Юрьевич": 12,
-      "Синкевич Александр Иннокентьевич": 3,
-      "Фисун Екатерина Владимировна": 9
+      "27520001377668": 22,
+      "27520001376842": 16,
+      "27520001379333": 11,
+      "27520001377140": 12,
+      "27520001378564": 3,
+      "27520001379613": 9
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/zabkray?action=show&root=1000304&tvd=27520001371129&vrn=100100225883172&region=92&global=&sub_region=92&prver=0&pronetvd=null&vibid=27520001371129&type=464",
@@ -986,6 +1174,10 @@ export const duma_2021_uik_463_region_92_part_004 = [
       "retrievedAt": "2026-08-26T08:10:24.745289+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/zabkray?action=show&root=1000304&tvd=27520001371129&vrn=100100225883172&region=92&global=&sub_region=92&prver=0&pronetvd=null&vibid=27520001371129&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 44,
+      "oikTvd": "100100225883741"
     }
   },
   {
@@ -995,8 +1187,12 @@ export const duma_2021_uik_463_region_92_part_004 = [
     "ballot": "single-member",
     "uikNumber": 1515,
     "uikTvd": "4754006204996",
+    "uikName": "УИК №1515",
     "tikTvd": "27520001371129",
     "tikName": "Забайкальская",
+    "regionCode": "92",
+    "regionTvd": "100100225883739",
+    "regionName": "Забайкальский край",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 483,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 480,
@@ -1012,12 +1208,12 @@ export const duma_2021_uik_463_region_92_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Григорьев Юрий Иннокентьевич": 22,
-      "Кулиева Василина Васильевна": 41,
-      "Михайлов Александр Николаевич": 16,
-      "Носов Дмитрий Юрьевич": 23,
-      "Синкевич Александр Иннокентьевич": 3,
-      "Фисун Екатерина Владимировна": 53
+      "27520001377668": 22,
+      "27520001376842": 41,
+      "27520001379333": 16,
+      "27520001377140": 23,
+      "27520001378564": 3,
+      "27520001379613": 53
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/zabkray?action=show&root=1000304&tvd=27520001371129&vrn=100100225883172&region=92&global=&sub_region=92&prver=0&pronetvd=null&vibid=27520001371129&type=464",
@@ -1027,6 +1223,10 @@ export const duma_2021_uik_463_region_92_part_004 = [
       "retrievedAt": "2026-08-26T08:10:24.745289+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/zabkray?action=show&root=1000304&tvd=27520001371129&vrn=100100225883172&region=92&global=&sub_region=92&prver=0&pronetvd=null&vibid=27520001371129&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 44,
+      "oikTvd": "100100225883741"
     }
   },
   {
@@ -1036,8 +1236,12 @@ export const duma_2021_uik_463_region_92_part_004 = [
     "ballot": "single-member",
     "uikNumber": 1401,
     "uikTvd": "4804002189165",
+    "uikName": "УИК №1401",
     "tikTvd": "27520001371130",
     "tikName": "Дульдургинская",
+    "regionCode": "92",
+    "regionTvd": "100100225883739",
+    "regionName": "Забайкальский край",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 910,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 922,
@@ -1053,12 +1257,12 @@ export const duma_2021_uik_463_region_92_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Григорьев Юрий Иннокентьевич": 93,
-      "Кулиева Василина Васильевна": 43,
-      "Михайлов Александр Николаевич": 23,
-      "Носов Дмитрий Юрьевич": 134,
-      "Синкевич Александр Иннокентьевич": 3,
-      "Фисун Екатерина Владимировна": 54
+      "27520001377668": 93,
+      "27520001376842": 43,
+      "27520001379333": 23,
+      "27520001377140": 134,
+      "27520001378564": 3,
+      "27520001379613": 54
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/zabkray?action=show&root=1000304&tvd=27520001371130&vrn=100100225883172&region=92&global=&sub_region=92&prver=0&pronetvd=null&vibid=27520001371130&type=464",
@@ -1068,6 +1272,10 @@ export const duma_2021_uik_463_region_92_part_004 = [
       "retrievedAt": "2026-08-26T08:10:26.533714+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/zabkray?action=show&root=1000304&tvd=27520001371130&vrn=100100225883172&region=92&global=&sub_region=92&prver=0&pronetvd=null&vibid=27520001371130&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 44,
+      "oikTvd": "100100225883741"
     }
   },
   {
@@ -1077,8 +1285,12 @@ export const duma_2021_uik_463_region_92_part_004 = [
     "ballot": "single-member",
     "uikNumber": 1402,
     "uikTvd": "4804002189167",
+    "uikName": "УИК №1402",
     "tikTvd": "27520001371130",
     "tikName": "Дульдургинская",
+    "regionCode": "92",
+    "regionTvd": "100100225883739",
+    "regionName": "Забайкальский край",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 2039,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 2039,
@@ -1094,12 +1306,12 @@ export const duma_2021_uik_463_region_92_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Григорьев Юрий Иннокентьевич": 150,
-      "Кулиева Василина Васильевна": 38,
-      "Михайлов Александр Николаевич": 33,
-      "Носов Дмитрий Юрьевич": 259,
-      "Синкевич Александр Иннокентьевич": 10,
-      "Фисун Екатерина Владимировна": 170
+      "27520001377668": 150,
+      "27520001376842": 38,
+      "27520001379333": 33,
+      "27520001377140": 259,
+      "27520001378564": 10,
+      "27520001379613": 170
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/zabkray?action=show&root=1000304&tvd=27520001371130&vrn=100100225883172&region=92&global=&sub_region=92&prver=0&pronetvd=null&vibid=27520001371130&type=464",
@@ -1109,6 +1321,10 @@ export const duma_2021_uik_463_region_92_part_004 = [
       "retrievedAt": "2026-08-26T08:10:26.533714+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/zabkray?action=show&root=1000304&tvd=27520001371130&vrn=100100225883172&region=92&global=&sub_region=92&prver=0&pronetvd=null&vibid=27520001371130&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 44,
+      "oikTvd": "100100225883741"
     }
   },
   {
@@ -1118,8 +1334,12 @@ export const duma_2021_uik_463_region_92_part_004 = [
     "ballot": "single-member",
     "uikNumber": 1403,
     "uikTvd": "4804002189168",
+    "uikName": "УИК №1403",
     "tikTvd": "27520001371130",
     "tikName": "Дульдургинская",
+    "regionCode": "92",
+    "regionTvd": "100100225883739",
+    "regionName": "Забайкальский край",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 2336,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 2375,
@@ -1135,12 +1355,12 @@ export const duma_2021_uik_463_region_92_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Григорьев Юрий Иннокентьевич": 159,
-      "Кулиева Василина Васильевна": 79,
-      "Михайлов Александр Николаевич": 54,
-      "Носов Дмитрий Юрьевич": 298,
-      "Синкевич Александр Иннокентьевич": 23,
-      "Фисун Екатерина Владимировна": 189
+      "27520001377668": 159,
+      "27520001376842": 79,
+      "27520001379333": 54,
+      "27520001377140": 298,
+      "27520001378564": 23,
+      "27520001379613": 189
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/zabkray?action=show&root=1000304&tvd=27520001371130&vrn=100100225883172&region=92&global=&sub_region=92&prver=0&pronetvd=null&vibid=27520001371130&type=464",
@@ -1150,6 +1370,10 @@ export const duma_2021_uik_463_region_92_part_004 = [
       "retrievedAt": "2026-08-26T08:10:26.533714+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/zabkray?action=show&root=1000304&tvd=27520001371130&vrn=100100225883172&region=92&global=&sub_region=92&prver=0&pronetvd=null&vibid=27520001371130&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 44,
+      "oikTvd": "100100225883741"
     }
   },
   {
@@ -1159,8 +1383,12 @@ export const duma_2021_uik_463_region_92_part_004 = [
     "ballot": "single-member",
     "uikNumber": 1404,
     "uikTvd": "4804002189169",
+    "uikName": "УИК №1404",
     "tikTvd": "27520001371130",
     "tikName": "Дульдургинская",
+    "regionCode": "92",
+    "regionTvd": "100100225883739",
+    "regionName": "Забайкальский край",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 661,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 687,
@@ -1176,12 +1404,12 @@ export const duma_2021_uik_463_region_92_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Григорьев Юрий Иннокентьевич": 94,
-      "Кулиева Василина Васильевна": 30,
-      "Михайлов Александр Николаевич": 28,
-      "Носов Дмитрий Юрьевич": 84,
-      "Синкевич Александр Иннокентьевич": 2,
-      "Фисун Екатерина Владимировна": 222
+      "27520001377668": 94,
+      "27520001376842": 30,
+      "27520001379333": 28,
+      "27520001377140": 84,
+      "27520001378564": 2,
+      "27520001379613": 222
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/zabkray?action=show&root=1000304&tvd=27520001371130&vrn=100100225883172&region=92&global=&sub_region=92&prver=0&pronetvd=null&vibid=27520001371130&type=464",
@@ -1191,6 +1419,10 @@ export const duma_2021_uik_463_region_92_part_004 = [
       "retrievedAt": "2026-08-26T08:10:26.533714+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/zabkray?action=show&root=1000304&tvd=27520001371130&vrn=100100225883172&region=92&global=&sub_region=92&prver=0&pronetvd=null&vibid=27520001371130&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 44,
+      "oikTvd": "100100225883741"
     }
   },
   {
@@ -1200,8 +1432,12 @@ export const duma_2021_uik_463_region_92_part_004 = [
     "ballot": "single-member",
     "uikNumber": 1405,
     "uikTvd": "4804002189170",
+    "uikName": "УИК №1405",
     "tikTvd": "27520001371130",
     "tikName": "Дульдургинская",
+    "regionCode": "92",
+    "regionTvd": "100100225883739",
+    "regionName": "Забайкальский край",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 199,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 199,
@@ -1217,12 +1453,12 @@ export const duma_2021_uik_463_region_92_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Григорьев Юрий Иннокентьевич": 33,
-      "Кулиева Василина Васильевна": 13,
-      "Михайлов Александр Николаевич": 5,
-      "Носов Дмитрий Юрьевич": 32,
-      "Синкевич Александр Иннокентьевич": 0,
-      "Фисун Екатерина Владимировна": 44
+      "27520001377668": 33,
+      "27520001376842": 13,
+      "27520001379333": 5,
+      "27520001377140": 32,
+      "27520001378564": 0,
+      "27520001379613": 44
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/zabkray?action=show&root=1000304&tvd=27520001371130&vrn=100100225883172&region=92&global=&sub_region=92&prver=0&pronetvd=null&vibid=27520001371130&type=464",
@@ -1232,6 +1468,10 @@ export const duma_2021_uik_463_region_92_part_004 = [
       "retrievedAt": "2026-08-26T08:10:26.533714+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/zabkray?action=show&root=1000304&tvd=27520001371130&vrn=100100225883172&region=92&global=&sub_region=92&prver=0&pronetvd=null&vibid=27520001371130&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 44,
+      "oikTvd": "100100225883741"
     }
   },
   {
@@ -1241,8 +1481,12 @@ export const duma_2021_uik_463_region_92_part_004 = [
     "ballot": "single-member",
     "uikNumber": 1406,
     "uikTvd": "4804002189171",
+    "uikName": "УИК №1406",
     "tikTvd": "27520001371130",
     "tikName": "Дульдургинская",
+    "regionCode": "92",
+    "regionTvd": "100100225883739",
+    "regionName": "Забайкальский край",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 559,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 562,
@@ -1258,12 +1502,12 @@ export const duma_2021_uik_463_region_92_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Григорьев Юрий Иннокентьевич": 37,
-      "Кулиева Василина Васильевна": 34,
-      "Михайлов Александр Николаевич": 9,
-      "Носов Дмитрий Юрьевич": 54,
-      "Синкевич Александр Иннокентьевич": 4,
-      "Фисун Екатерина Владимировна": 53
+      "27520001377668": 37,
+      "27520001376842": 34,
+      "27520001379333": 9,
+      "27520001377140": 54,
+      "27520001378564": 4,
+      "27520001379613": 53
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/zabkray?action=show&root=1000304&tvd=27520001371130&vrn=100100225883172&region=92&global=&sub_region=92&prver=0&pronetvd=null&vibid=27520001371130&type=464",
@@ -1273,6 +1517,10 @@ export const duma_2021_uik_463_region_92_part_004 = [
       "retrievedAt": "2026-08-26T08:10:26.533714+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/zabkray?action=show&root=1000304&tvd=27520001371130&vrn=100100225883172&region=92&global=&sub_region=92&prver=0&pronetvd=null&vibid=27520001371130&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 44,
+      "oikTvd": "100100225883741"
     }
   },
   {
@@ -1282,8 +1530,12 @@ export const duma_2021_uik_463_region_92_part_004 = [
     "ballot": "single-member",
     "uikNumber": 1407,
     "uikTvd": "4804002189172",
+    "uikName": "УИК №1407",
     "tikTvd": "27520001371130",
     "tikName": "Дульдургинская",
+    "regionCode": "92",
+    "regionTvd": "100100225883739",
+    "regionName": "Забайкальский край",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 139,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 138,
@@ -1299,12 +1551,12 @@ export const duma_2021_uik_463_region_92_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Григорьев Юрий Иннокентьевич": 29,
-      "Кулиева Василина Васильевна": 5,
-      "Михайлов Александр Николаевич": 3,
-      "Носов Дмитрий Юрьевич": 14,
-      "Синкевич Александр Иннокентьевич": 1,
-      "Фисун Екатерина Владимировна": 17
+      "27520001377668": 29,
+      "27520001376842": 5,
+      "27520001379333": 3,
+      "27520001377140": 14,
+      "27520001378564": 1,
+      "27520001379613": 17
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/zabkray?action=show&root=1000304&tvd=27520001371130&vrn=100100225883172&region=92&global=&sub_region=92&prver=0&pronetvd=null&vibid=27520001371130&type=464",
@@ -1314,6 +1566,10 @@ export const duma_2021_uik_463_region_92_part_004 = [
       "retrievedAt": "2026-08-26T08:10:26.533714+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/zabkray?action=show&root=1000304&tvd=27520001371130&vrn=100100225883172&region=92&global=&sub_region=92&prver=0&pronetvd=null&vibid=27520001371130&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 44,
+      "oikTvd": "100100225883741"
     }
   },
   {
@@ -1323,8 +1579,12 @@ export const duma_2021_uik_463_region_92_part_004 = [
     "ballot": "single-member",
     "uikNumber": 1408,
     "uikTvd": "4804002189173",
+    "uikName": "УИК №1408",
     "tikTvd": "27520001371130",
     "tikName": "Дульдургинская",
+    "regionCode": "92",
+    "regionTvd": "100100225883739",
+    "regionName": "Забайкальский край",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 192,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 219,
@@ -1340,12 +1600,12 @@ export const duma_2021_uik_463_region_92_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Григорьев Юрий Иннокентьевич": 55,
-      "Кулиева Василина Васильевна": 8,
-      "Михайлов Александр Николаевич": 4,
-      "Носов Дмитрий Юрьевич": 14,
-      "Синкевич Александр Иннокентьевич": 3,
-      "Фисун Екатерина Владимировна": 20
+      "27520001377668": 55,
+      "27520001376842": 8,
+      "27520001379333": 4,
+      "27520001377140": 14,
+      "27520001378564": 3,
+      "27520001379613": 20
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/zabkray?action=show&root=1000304&tvd=27520001371130&vrn=100100225883172&region=92&global=&sub_region=92&prver=0&pronetvd=null&vibid=27520001371130&type=464",
@@ -1355,6 +1615,10 @@ export const duma_2021_uik_463_region_92_part_004 = [
       "retrievedAt": "2026-08-26T08:10:26.533714+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/zabkray?action=show&root=1000304&tvd=27520001371130&vrn=100100225883172&region=92&global=&sub_region=92&prver=0&pronetvd=null&vibid=27520001371130&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 44,
+      "oikTvd": "100100225883741"
     }
   },
   {
@@ -1364,8 +1628,12 @@ export const duma_2021_uik_463_region_92_part_004 = [
     "ballot": "single-member",
     "uikNumber": 1409,
     "uikTvd": "4804002189174",
+    "uikName": "УИК №1409",
     "tikTvd": "27520001371130",
     "tikName": "Дульдургинская",
+    "regionCode": "92",
+    "regionTvd": "100100225883739",
+    "regionName": "Забайкальский край",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 513,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 549,
@@ -1381,12 +1649,12 @@ export const duma_2021_uik_463_region_92_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Григорьев Юрий Иннокентьевич": 46,
-      "Кулиева Василина Васильевна": 31,
-      "Михайлов Александр Николаевич": 13,
-      "Носов Дмитрий Юрьевич": 76,
-      "Синкевич Александр Иннокентьевич": 5,
-      "Фисун Екатерина Владимировна": 200
+      "27520001377668": 46,
+      "27520001376842": 31,
+      "27520001379333": 13,
+      "27520001377140": 76,
+      "27520001378564": 5,
+      "27520001379613": 200
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/zabkray?action=show&root=1000304&tvd=27520001371130&vrn=100100225883172&region=92&global=&sub_region=92&prver=0&pronetvd=null&vibid=27520001371130&type=464",
@@ -1396,6 +1664,10 @@ export const duma_2021_uik_463_region_92_part_004 = [
       "retrievedAt": "2026-08-26T08:10:26.533714+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/zabkray?action=show&root=1000304&tvd=27520001371130&vrn=100100225883172&region=92&global=&sub_region=92&prver=0&pronetvd=null&vibid=27520001371130&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 44,
+      "oikTvd": "100100225883741"
     }
   },
   {
@@ -1405,8 +1677,12 @@ export const duma_2021_uik_463_region_92_part_004 = [
     "ballot": "single-member",
     "uikNumber": 1410,
     "uikTvd": "4804002189175",
+    "uikName": "УИК №1410",
     "tikTvd": "27520001371130",
     "tikName": "Дульдургинская",
+    "regionCode": "92",
+    "regionTvd": "100100225883739",
+    "regionName": "Забайкальский край",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 1014,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 1038,
@@ -1422,12 +1698,12 @@ export const duma_2021_uik_463_region_92_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Григорьев Юрий Иннокентьевич": 76,
-      "Кулиева Василина Васильевна": 62,
-      "Михайлов Александр Николаевич": 42,
-      "Носов Дмитрий Юрьевич": 151,
-      "Синкевич Александр Иннокентьевич": 11,
-      "Фисун Екатерина Владимировна": 346
+      "27520001377668": 76,
+      "27520001376842": 62,
+      "27520001379333": 42,
+      "27520001377140": 151,
+      "27520001378564": 11,
+      "27520001379613": 346
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/zabkray?action=show&root=1000304&tvd=27520001371130&vrn=100100225883172&region=92&global=&sub_region=92&prver=0&pronetvd=null&vibid=27520001371130&type=464",
@@ -1437,6 +1713,10 @@ export const duma_2021_uik_463_region_92_part_004 = [
       "retrievedAt": "2026-08-26T08:10:26.533714+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/zabkray?action=show&root=1000304&tvd=27520001371130&vrn=100100225883172&region=92&global=&sub_region=92&prver=0&pronetvd=null&vibid=27520001371130&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 44,
+      "oikTvd": "100100225883741"
     }
   },
   {
@@ -1446,8 +1726,12 @@ export const duma_2021_uik_463_region_92_part_004 = [
     "ballot": "single-member",
     "uikNumber": 1411,
     "uikTvd": "4804002189176",
+    "uikName": "УИК №1411",
     "tikTvd": "27520001371130",
     "tikName": "Дульдургинская",
+    "regionCode": "92",
+    "regionTvd": "100100225883739",
+    "regionName": "Забайкальский край",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 669,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 715,
@@ -1463,12 +1747,12 @@ export const duma_2021_uik_463_region_92_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Григорьев Юрий Иннокентьевич": 34,
-      "Кулиева Василина Васильевна": 54,
-      "Михайлов Александр Николаевич": 15,
-      "Носов Дмитрий Юрьевич": 56,
-      "Синкевич Александр Иннокентьевич": 2,
-      "Фисун Екатерина Владимировна": 384
+      "27520001377668": 34,
+      "27520001376842": 54,
+      "27520001379333": 15,
+      "27520001377140": 56,
+      "27520001378564": 2,
+      "27520001379613": 384
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/zabkray?action=show&root=1000304&tvd=27520001371130&vrn=100100225883172&region=92&global=&sub_region=92&prver=0&pronetvd=null&vibid=27520001371130&type=464",
@@ -1478,6 +1762,10 @@ export const duma_2021_uik_463_region_92_part_004 = [
       "retrievedAt": "2026-08-26T08:10:26.533714+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/zabkray?action=show&root=1000304&tvd=27520001371130&vrn=100100225883172&region=92&global=&sub_region=92&prver=0&pronetvd=null&vibid=27520001371130&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 44,
+      "oikTvd": "100100225883741"
     }
   },
   {
@@ -1487,8 +1775,12 @@ export const duma_2021_uik_463_region_92_part_004 = [
     "ballot": "single-member",
     "uikNumber": 1412,
     "uikTvd": "4804002189177",
+    "uikName": "УИК №1412",
     "tikTvd": "27520001371130",
     "tikName": "Дульдургинская",
+    "regionCode": "92",
+    "regionTvd": "100100225883739",
+    "regionName": "Забайкальский край",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 635,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 677,
@@ -1504,12 +1796,12 @@ export const duma_2021_uik_463_region_92_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Григорьев Юрий Иннокентьевич": 69,
-      "Кулиева Василина Васильевна": 27,
-      "Михайлов Александр Николаевич": 23,
-      "Носов Дмитрий Юрьевич": 114,
-      "Синкевич Александр Иннокентьевич": 8,
-      "Фисун Екатерина Владимировна": 195
+      "27520001377668": 69,
+      "27520001376842": 27,
+      "27520001379333": 23,
+      "27520001377140": 114,
+      "27520001378564": 8,
+      "27520001379613": 195
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/zabkray?action=show&root=1000304&tvd=27520001371130&vrn=100100225883172&region=92&global=&sub_region=92&prver=0&pronetvd=null&vibid=27520001371130&type=464",
@@ -1519,6 +1811,10 @@ export const duma_2021_uik_463_region_92_part_004 = [
       "retrievedAt": "2026-08-26T08:10:26.533714+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/zabkray?action=show&root=1000304&tvd=27520001371130&vrn=100100225883172&region=92&global=&sub_region=92&prver=0&pronetvd=null&vibid=27520001371130&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 44,
+      "oikTvd": "100100225883741"
     }
   },
   {
@@ -1528,8 +1824,12 @@ export const duma_2021_uik_463_region_92_part_004 = [
     "ballot": "single-member",
     "uikNumber": 1413,
     "uikTvd": "4804002189178",
+    "uikName": "УИК №1413",
     "tikTvd": "27520001371130",
     "tikName": "Дульдургинская",
+    "regionCode": "92",
+    "regionTvd": "100100225883739",
+    "regionName": "Забайкальский край",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 741,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 780,
@@ -1545,12 +1845,12 @@ export const duma_2021_uik_463_region_92_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Григорьев Юрий Иннокентьевич": 59,
-      "Кулиева Василина Васильевна": 40,
-      "Михайлов Александр Николаевич": 33,
-      "Носов Дмитрий Юрьевич": 77,
-      "Синкевич Александр Иннокентьевич": 7,
-      "Фисун Екатерина Владимировна": 279
+      "27520001377668": 59,
+      "27520001376842": 40,
+      "27520001379333": 33,
+      "27520001377140": 77,
+      "27520001378564": 7,
+      "27520001379613": 279
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/zabkray?action=show&root=1000304&tvd=27520001371130&vrn=100100225883172&region=92&global=&sub_region=92&prver=0&pronetvd=null&vibid=27520001371130&type=464",
@@ -1560,6 +1860,10 @@ export const duma_2021_uik_463_region_92_part_004 = [
       "retrievedAt": "2026-08-26T08:10:26.533714+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/zabkray?action=show&root=1000304&tvd=27520001371130&vrn=100100225883172&region=92&global=&sub_region=92&prver=0&pronetvd=null&vibid=27520001371130&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 44,
+      "oikTvd": "100100225883741"
     }
   },
   {
@@ -1569,8 +1873,12 @@ export const duma_2021_uik_463_region_92_part_004 = [
     "ballot": "single-member",
     "uikNumber": 1201,
     "uikTvd": "4754004307798",
+    "uikName": "УИК №1201",
     "tikTvd": "27520001371131",
     "tikName": "Борзинская",
+    "regionCode": "92",
+    "regionTvd": "100100225883739",
+    "regionName": "Забайкальский край",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 260,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 210,
@@ -1586,12 +1894,12 @@ export const duma_2021_uik_463_region_92_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Григорьев Юрий Иннокентьевич": 53,
-      "Кулиева Василина Васильевна": 19,
-      "Михайлов Александр Николаевич": 10,
-      "Носов Дмитрий Юрьевич": 38,
-      "Синкевич Александр Иннокентьевич": 2,
-      "Фисун Екатерина Владимировна": 14
+      "27520001377668": 53,
+      "27520001376842": 19,
+      "27520001379333": 10,
+      "27520001377140": 38,
+      "27520001378564": 2,
+      "27520001379613": 14
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/zabkray?action=show&root=1000304&tvd=27520001371131&vrn=100100225883172&region=92&global=&sub_region=92&prver=0&pronetvd=null&vibid=27520001371131&type=464",
@@ -1601,6 +1909,10 @@ export const duma_2021_uik_463_region_92_part_004 = [
       "retrievedAt": "2026-08-26T08:10:26.732968+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/zabkray?action=show&root=1000304&tvd=27520001371131&vrn=100100225883172&region=92&global=&sub_region=92&prver=0&pronetvd=null&vibid=27520001371131&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 44,
+      "oikTvd": "100100225883741"
     }
   },
   {
@@ -1610,8 +1922,12 @@ export const duma_2021_uik_463_region_92_part_004 = [
     "ballot": "single-member",
     "uikNumber": 1202,
     "uikTvd": "4754004307799",
+    "uikName": "УИК №1202",
     "tikTvd": "27520001371131",
     "tikName": "Борзинская",
+    "regionCode": "92",
+    "regionTvd": "100100225883739",
+    "regionName": "Забайкальский край",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 212,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 180,
@@ -1627,12 +1943,12 @@ export const duma_2021_uik_463_region_92_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Григорьев Юрий Иннокентьевич": 14,
-      "Кулиева Василина Васильевна": 16,
-      "Михайлов Александр Николаевич": 8,
-      "Носов Дмитрий Юрьевич": 8,
-      "Синкевич Александр Иннокентьевич": 1,
-      "Фисун Екатерина Владимировна": 82
+      "27520001377668": 14,
+      "27520001376842": 16,
+      "27520001379333": 8,
+      "27520001377140": 8,
+      "27520001378564": 1,
+      "27520001379613": 82
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/zabkray?action=show&root=1000304&tvd=27520001371131&vrn=100100225883172&region=92&global=&sub_region=92&prver=0&pronetvd=null&vibid=27520001371131&type=464",
@@ -1642,6 +1958,10 @@ export const duma_2021_uik_463_region_92_part_004 = [
       "retrievedAt": "2026-08-26T08:10:26.732968+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/zabkray?action=show&root=1000304&tvd=27520001371131&vrn=100100225883172&region=92&global=&sub_region=92&prver=0&pronetvd=null&vibid=27520001371131&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 44,
+      "oikTvd": "100100225883741"
     }
   },
   {
@@ -1651,8 +1971,12 @@ export const duma_2021_uik_463_region_92_part_004 = [
     "ballot": "single-member",
     "uikNumber": 1203,
     "uikTvd": "4754004307800",
+    "uikName": "УИК №1203",
     "tikTvd": "27520001371131",
     "tikName": "Борзинская",
+    "regionCode": "92",
+    "regionTvd": "100100225883739",
+    "regionName": "Забайкальский край",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 200,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 170,
@@ -1668,12 +1992,12 @@ export const duma_2021_uik_463_region_92_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Григорьев Юрий Иннокентьевич": 19,
-      "Кулиева Василина Васильевна": 15,
-      "Михайлов Александр Николаевич": 5,
-      "Носов Дмитрий Юрьевич": 7,
-      "Синкевич Александр Иннокентьевич": 3,
-      "Фисун Екатерина Владимировна": 40
+      "27520001377668": 19,
+      "27520001376842": 15,
+      "27520001379333": 5,
+      "27520001377140": 7,
+      "27520001378564": 3,
+      "27520001379613": 40
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/zabkray?action=show&root=1000304&tvd=27520001371131&vrn=100100225883172&region=92&global=&sub_region=92&prver=0&pronetvd=null&vibid=27520001371131&type=464",
@@ -1683,6 +2007,10 @@ export const duma_2021_uik_463_region_92_part_004 = [
       "retrievedAt": "2026-08-26T08:10:26.732968+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/zabkray?action=show&root=1000304&tvd=27520001371131&vrn=100100225883172&region=92&global=&sub_region=92&prver=0&pronetvd=null&vibid=27520001371131&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 44,
+      "oikTvd": "100100225883741"
     }
   },
   {
@@ -1692,8 +2020,12 @@ export const duma_2021_uik_463_region_92_part_004 = [
     "ballot": "single-member",
     "uikNumber": 1204,
     "uikTvd": "4754004307801",
+    "uikName": "УИК №1204",
     "tikTvd": "27520001371131",
     "tikName": "Борзинская",
+    "regionCode": "92",
+    "regionTvd": "100100225883739",
+    "regionName": "Забайкальский край",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 463,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 380,
@@ -1709,12 +2041,12 @@ export const duma_2021_uik_463_region_92_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Григорьев Юрий Иннокентьевич": 24,
-      "Кулиева Василина Васильевна": 21,
-      "Михайлов Александр Николаевич": 24,
-      "Носов Дмитрий Юрьевич": 24,
-      "Синкевич Александр Иннокентьевич": 0,
-      "Фисун Екатерина Владимировна": 97
+      "27520001377668": 24,
+      "27520001376842": 21,
+      "27520001379333": 24,
+      "27520001377140": 24,
+      "27520001378564": 0,
+      "27520001379613": 97
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/zabkray?action=show&root=1000304&tvd=27520001371131&vrn=100100225883172&region=92&global=&sub_region=92&prver=0&pronetvd=null&vibid=27520001371131&type=464",
@@ -1724,6 +2056,10 @@ export const duma_2021_uik_463_region_92_part_004 = [
       "retrievedAt": "2026-08-26T08:10:26.732968+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/zabkray?action=show&root=1000304&tvd=27520001371131&vrn=100100225883172&region=92&global=&sub_region=92&prver=0&pronetvd=null&vibid=27520001371131&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 44,
+      "oikTvd": "100100225883741"
     }
   },
   {
@@ -1733,8 +2069,12 @@ export const duma_2021_uik_463_region_92_part_004 = [
     "ballot": "single-member",
     "uikNumber": 1205,
     "uikTvd": "4754004307802",
+    "uikName": "УИК №1205",
     "tikTvd": "27520001371131",
     "tikName": "Борзинская",
+    "regionCode": "92",
+    "regionTvd": "100100225883739",
+    "regionName": "Забайкальский край",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 259,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 220,
@@ -1750,12 +2090,12 @@ export const duma_2021_uik_463_region_92_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Григорьев Юрий Иннокентьевич": 19,
-      "Кулиева Василина Васильевна": 13,
-      "Михайлов Александр Николаевич": 12,
-      "Носов Дмитрий Юрьевич": 9,
-      "Синкевич Александр Иннокентьевич": 0,
-      "Фисун Екатерина Владимировна": 44
+      "27520001377668": 19,
+      "27520001376842": 13,
+      "27520001379333": 12,
+      "27520001377140": 9,
+      "27520001378564": 0,
+      "27520001379613": 44
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/zabkray?action=show&root=1000304&tvd=27520001371131&vrn=100100225883172&region=92&global=&sub_region=92&prver=0&pronetvd=null&vibid=27520001371131&type=464",
@@ -1765,6 +2105,10 @@ export const duma_2021_uik_463_region_92_part_004 = [
       "retrievedAt": "2026-08-26T08:10:26.732968+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/zabkray?action=show&root=1000304&tvd=27520001371131&vrn=100100225883172&region=92&global=&sub_region=92&prver=0&pronetvd=null&vibid=27520001371131&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 44,
+      "oikTvd": "100100225883741"
     }
   },
   {
@@ -1774,8 +2118,12 @@ export const duma_2021_uik_463_region_92_part_004 = [
     "ballot": "single-member",
     "uikNumber": 1207,
     "uikTvd": "4754004307803",
+    "uikName": "УИК №1207",
     "tikTvd": "27520001371131",
     "tikName": "Борзинская",
+    "regionCode": "92",
+    "regionTvd": "100100225883739",
+    "regionName": "Забайкальский край",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 267,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 220,
@@ -1791,12 +2139,12 @@ export const duma_2021_uik_463_region_92_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Григорьев Юрий Иннокентьевич": 17,
-      "Кулиева Василина Васильевна": 26,
-      "Михайлов Александр Николаевич": 3,
-      "Носов Дмитрий Юрьевич": 19,
-      "Синкевич Александр Иннокентьевич": 7,
-      "Фисун Екатерина Владимировна": 44
+      "27520001377668": 17,
+      "27520001376842": 26,
+      "27520001379333": 3,
+      "27520001377140": 19,
+      "27520001378564": 7,
+      "27520001379613": 44
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/zabkray?action=show&root=1000304&tvd=27520001371131&vrn=100100225883172&region=92&global=&sub_region=92&prver=0&pronetvd=null&vibid=27520001371131&type=464",
@@ -1806,6 +2154,10 @@ export const duma_2021_uik_463_region_92_part_004 = [
       "retrievedAt": "2026-08-26T08:10:26.732968+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/zabkray?action=show&root=1000304&tvd=27520001371131&vrn=100100225883172&region=92&global=&sub_region=92&prver=0&pronetvd=null&vibid=27520001371131&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 44,
+      "oikTvd": "100100225883741"
     }
   },
   {
@@ -1815,8 +2167,12 @@ export const duma_2021_uik_463_region_92_part_004 = [
     "ballot": "single-member",
     "uikNumber": 1208,
     "uikTvd": "4754004307804",
+    "uikName": "УИК №1208",
     "tikTvd": "27520001371131",
     "tikName": "Борзинская",
+    "regionCode": "92",
+    "regionTvd": "100100225883739",
+    "regionName": "Забайкальский край",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 452,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 410,
@@ -1832,12 +2188,12 @@ export const duma_2021_uik_463_region_92_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Григорьев Юрий Иннокентьевич": 53,
-      "Кулиева Василина Васильевна": 52,
-      "Михайлов Александр Николаевич": 16,
-      "Носов Дмитрий Юрьевич": 16,
-      "Синкевич Александр Иннокентьевич": 1,
-      "Фисун Екатерина Владимировна": 43
+      "27520001377668": 53,
+      "27520001376842": 52,
+      "27520001379333": 16,
+      "27520001377140": 16,
+      "27520001378564": 1,
+      "27520001379613": 43
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/zabkray?action=show&root=1000304&tvd=27520001371131&vrn=100100225883172&region=92&global=&sub_region=92&prver=0&pronetvd=null&vibid=27520001371131&type=464",
@@ -1847,6 +2203,10 @@ export const duma_2021_uik_463_region_92_part_004 = [
       "retrievedAt": "2026-08-26T08:10:26.732968+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/zabkray?action=show&root=1000304&tvd=27520001371131&vrn=100100225883172&region=92&global=&sub_region=92&prver=0&pronetvd=null&vibid=27520001371131&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 44,
+      "oikTvd": "100100225883741"
     }
   },
   {
@@ -1856,8 +2216,12 @@ export const duma_2021_uik_463_region_92_part_004 = [
     "ballot": "single-member",
     "uikNumber": 1209,
     "uikTvd": "4754004307805",
+    "uikName": "УИК №1209",
     "tikTvd": "27520001371131",
     "tikName": "Борзинская",
+    "regionCode": "92",
+    "regionTvd": "100100225883739",
+    "regionName": "Забайкальский край",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 306,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 250,
@@ -1873,12 +2237,12 @@ export const duma_2021_uik_463_region_92_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Григорьев Юрий Иннокентьевич": 43,
-      "Кулиева Василина Васильевна": 21,
-      "Михайлов Александр Николаевич": 23,
-      "Носов Дмитрий Юрьевич": 11,
-      "Синкевич Александр Иннокентьевич": 2,
-      "Фисун Екатерина Владимировна": 73
+      "27520001377668": 43,
+      "27520001376842": 21,
+      "27520001379333": 23,
+      "27520001377140": 11,
+      "27520001378564": 2,
+      "27520001379613": 73
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/zabkray?action=show&root=1000304&tvd=27520001371131&vrn=100100225883172&region=92&global=&sub_region=92&prver=0&pronetvd=null&vibid=27520001371131&type=464",
@@ -1888,6 +2252,10 @@ export const duma_2021_uik_463_region_92_part_004 = [
       "retrievedAt": "2026-08-26T08:10:26.732968+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/zabkray?action=show&root=1000304&tvd=27520001371131&vrn=100100225883172&region=92&global=&sub_region=92&prver=0&pronetvd=null&vibid=27520001371131&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 44,
+      "oikTvd": "100100225883741"
     }
   },
   {
@@ -1897,8 +2265,12 @@ export const duma_2021_uik_463_region_92_part_004 = [
     "ballot": "single-member",
     "uikNumber": 1210,
     "uikTvd": "4754004307806",
+    "uikName": "УИК №1210",
     "tikTvd": "27520001371131",
     "tikName": "Борзинская",
+    "regionCode": "92",
+    "regionTvd": "100100225883739",
+    "regionName": "Забайкальский край",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 400,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 330,
@@ -1914,12 +2286,12 @@ export const duma_2021_uik_463_region_92_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Григорьев Юрий Иннокентьевич": 13,
-      "Кулиева Василина Васильевна": 34,
-      "Михайлов Александр Николаевич": 16,
-      "Носов Дмитрий Юрьевич": 32,
-      "Синкевич Александр Иннокентьевич": 8,
-      "Фисун Екатерина Владимировна": 61
+      "27520001377668": 13,
+      "27520001376842": 34,
+      "27520001379333": 16,
+      "27520001377140": 32,
+      "27520001378564": 8,
+      "27520001379613": 61
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/zabkray?action=show&root=1000304&tvd=27520001371131&vrn=100100225883172&region=92&global=&sub_region=92&prver=0&pronetvd=null&vibid=27520001371131&type=464",
@@ -1929,6 +2301,10 @@ export const duma_2021_uik_463_region_92_part_004 = [
       "retrievedAt": "2026-08-26T08:10:26.732968+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/zabkray?action=show&root=1000304&tvd=27520001371131&vrn=100100225883172&region=92&global=&sub_region=92&prver=0&pronetvd=null&vibid=27520001371131&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 44,
+      "oikTvd": "100100225883741"
     }
   },
   {
@@ -1938,8 +2314,12 @@ export const duma_2021_uik_463_region_92_part_004 = [
     "ballot": "single-member",
     "uikNumber": 1211,
     "uikTvd": "4754004307807",
+    "uikName": "УИК №1211",
     "tikTvd": "27520001371131",
     "tikName": "Борзинская",
+    "regionCode": "92",
+    "regionTvd": "100100225883739",
+    "regionName": "Забайкальский край",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 295,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 250,
@@ -1955,12 +2335,12 @@ export const duma_2021_uik_463_region_92_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Григорьев Юрий Иннокентьевич": 33,
-      "Кулиева Василина Васильевна": 19,
-      "Михайлов Александр Николаевич": 21,
-      "Носов Дмитрий Юрьевич": 10,
-      "Синкевич Александр Иннокентьевич": 3,
-      "Фисун Екатерина Владимировна": 63
+      "27520001377668": 33,
+      "27520001376842": 19,
+      "27520001379333": 21,
+      "27520001377140": 10,
+      "27520001378564": 3,
+      "27520001379613": 63
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/zabkray?action=show&root=1000304&tvd=27520001371131&vrn=100100225883172&region=92&global=&sub_region=92&prver=0&pronetvd=null&vibid=27520001371131&type=464",
@@ -1970,6 +2350,10 @@ export const duma_2021_uik_463_region_92_part_004 = [
       "retrievedAt": "2026-08-26T08:10:26.732968+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/zabkray?action=show&root=1000304&tvd=27520001371131&vrn=100100225883172&region=92&global=&sub_region=92&prver=0&pronetvd=null&vibid=27520001371131&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 44,
+      "oikTvd": "100100225883741"
     }
   },
   {
@@ -1979,8 +2363,12 @@ export const duma_2021_uik_463_region_92_part_004 = [
     "ballot": "single-member",
     "uikNumber": 1212,
     "uikTvd": "4754004307808",
+    "uikName": "УИК №1212",
     "tikTvd": "27520001371131",
     "tikName": "Борзинская",
+    "regionCode": "92",
+    "regionTvd": "100100225883739",
+    "regionName": "Забайкальский край",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 517,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 420,
@@ -1996,12 +2384,12 @@ export const duma_2021_uik_463_region_92_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Григорьев Юрий Иннокентьевич": 48,
-      "Кулиева Василина Васильевна": 36,
-      "Михайлов Александр Николаевич": 8,
-      "Носов Дмитрий Юрьевич": 33,
-      "Синкевич Александр Иннокентьевич": 2,
-      "Фисун Екатерина Владимировна": 127
+      "27520001377668": 48,
+      "27520001376842": 36,
+      "27520001379333": 8,
+      "27520001377140": 33,
+      "27520001378564": 2,
+      "27520001379613": 127
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/zabkray?action=show&root=1000304&tvd=27520001371131&vrn=100100225883172&region=92&global=&sub_region=92&prver=0&pronetvd=null&vibid=27520001371131&type=464",
@@ -2011,6 +2399,10 @@ export const duma_2021_uik_463_region_92_part_004 = [
       "retrievedAt": "2026-08-26T08:10:26.732968+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/zabkray?action=show&root=1000304&tvd=27520001371131&vrn=100100225883172&region=92&global=&sub_region=92&prver=0&pronetvd=null&vibid=27520001371131&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 44,
+      "oikTvd": "100100225883741"
     }
   },
   {
@@ -2020,8 +2412,12 @@ export const duma_2021_uik_463_region_92_part_004 = [
     "ballot": "single-member",
     "uikNumber": 1213,
     "uikTvd": "4754004307809",
+    "uikName": "УИК №1213",
     "tikTvd": "27520001371131",
     "tikName": "Борзинская",
+    "regionCode": "92",
+    "regionTvd": "100100225883739",
+    "regionName": "Забайкальский край",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 572,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 470,
@@ -2037,12 +2433,12 @@ export const duma_2021_uik_463_region_92_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Григорьев Юрий Иннокентьевич": 32,
-      "Кулиева Василина Васильевна": 43,
-      "Михайлов Александр Николаевич": 10,
-      "Носов Дмитрий Юрьевич": 31,
-      "Синкевич Александр Иннокентьевич": 3,
-      "Фисун Екатерина Владимировна": 87
+      "27520001377668": 32,
+      "27520001376842": 43,
+      "27520001379333": 10,
+      "27520001377140": 31,
+      "27520001378564": 3,
+      "27520001379613": 87
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/zabkray?action=show&root=1000304&tvd=27520001371131&vrn=100100225883172&region=92&global=&sub_region=92&prver=0&pronetvd=null&vibid=27520001371131&type=464",
@@ -2052,6 +2448,10 @@ export const duma_2021_uik_463_region_92_part_004 = [
       "retrievedAt": "2026-08-26T08:10:26.732968+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/zabkray?action=show&root=1000304&tvd=27520001371131&vrn=100100225883172&region=92&global=&sub_region=92&prver=0&pronetvd=null&vibid=27520001371131&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 44,
+      "oikTvd": "100100225883741"
     }
   },
   {
@@ -2061,8 +2461,12 @@ export const duma_2021_uik_463_region_92_part_004 = [
     "ballot": "single-member",
     "uikNumber": 1214,
     "uikTvd": "4754004307810",
+    "uikName": "УИК №1214",
     "tikTvd": "27520001371131",
     "tikName": "Борзинская",
+    "regionCode": "92",
+    "regionTvd": "100100225883739",
+    "regionName": "Забайкальский край",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 503,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 420,
@@ -2078,12 +2482,12 @@ export const duma_2021_uik_463_region_92_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Григорьев Юрий Иннокентьевич": 60,
-      "Кулиева Василина Васильевна": 35,
-      "Михайлов Александр Николаевич": 8,
-      "Носов Дмитрий Юрьевич": 29,
-      "Синкевич Александр Иннокентьевич": 5,
-      "Фисун Екатерина Владимировна": 83
+      "27520001377668": 60,
+      "27520001376842": 35,
+      "27520001379333": 8,
+      "27520001377140": 29,
+      "27520001378564": 5,
+      "27520001379613": 83
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/zabkray?action=show&root=1000304&tvd=27520001371131&vrn=100100225883172&region=92&global=&sub_region=92&prver=0&pronetvd=null&vibid=27520001371131&type=464",
@@ -2093,6 +2497,10 @@ export const duma_2021_uik_463_region_92_part_004 = [
       "retrievedAt": "2026-08-26T08:10:26.732968+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/zabkray?action=show&root=1000304&tvd=27520001371131&vrn=100100225883172&region=92&global=&sub_region=92&prver=0&pronetvd=null&vibid=27520001371131&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 44,
+      "oikTvd": "100100225883741"
     }
   },
   {
@@ -2102,8 +2510,12 @@ export const duma_2021_uik_463_region_92_part_004 = [
     "ballot": "single-member",
     "uikNumber": 1215,
     "uikTvd": "4754004307811",
+    "uikName": "УИК №1215",
     "tikTvd": "27520001371131",
     "tikName": "Борзинская",
+    "regionCode": "92",
+    "regionTvd": "100100225883739",
+    "regionName": "Забайкальский край",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 201,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 170,
@@ -2119,12 +2531,12 @@ export const duma_2021_uik_463_region_92_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Григорьев Юрий Иннокентьевич": 26,
-      "Кулиева Василина Васильевна": 20,
-      "Михайлов Александр Николаевич": 14,
-      "Носов Дмитрий Юрьевич": 16,
-      "Синкевич Александр Иннокентьевич": 6,
-      "Фисун Екатерина Владимировна": 15
+      "27520001377668": 26,
+      "27520001376842": 20,
+      "27520001379333": 14,
+      "27520001377140": 16,
+      "27520001378564": 6,
+      "27520001379613": 15
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/zabkray?action=show&root=1000304&tvd=27520001371131&vrn=100100225883172&region=92&global=&sub_region=92&prver=0&pronetvd=null&vibid=27520001371131&type=464",
@@ -2134,6 +2546,10 @@ export const duma_2021_uik_463_region_92_part_004 = [
       "retrievedAt": "2026-08-26T08:10:26.732968+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/zabkray?action=show&root=1000304&tvd=27520001371131&vrn=100100225883172&region=92&global=&sub_region=92&prver=0&pronetvd=null&vibid=27520001371131&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 44,
+      "oikTvd": "100100225883741"
     }
   },
   {
@@ -2143,8 +2559,12 @@ export const duma_2021_uik_463_region_92_part_004 = [
     "ballot": "single-member",
     "uikNumber": 1216,
     "uikTvd": "4754004307812",
+    "uikName": "УИК №1216",
     "tikTvd": "27520001371131",
     "tikName": "Борзинская",
+    "regionCode": "92",
+    "regionTvd": "100100225883739",
+    "regionName": "Забайкальский край",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 422,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 350,
@@ -2160,12 +2580,12 @@ export const duma_2021_uik_463_region_92_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Григорьев Юрий Иннокентьевич": 27,
-      "Кулиева Василина Васильевна": 45,
-      "Михайлов Александр Николаевич": 10,
-      "Носов Дмитрий Юрьевич": 32,
-      "Синкевич Александр Иннокентьевич": 3,
-      "Фисун Екатерина Владимировна": 51
+      "27520001377668": 27,
+      "27520001376842": 45,
+      "27520001379333": 10,
+      "27520001377140": 32,
+      "27520001378564": 3,
+      "27520001379613": 51
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/zabkray?action=show&root=1000304&tvd=27520001371131&vrn=100100225883172&region=92&global=&sub_region=92&prver=0&pronetvd=null&vibid=27520001371131&type=464",
@@ -2175,6 +2595,10 @@ export const duma_2021_uik_463_region_92_part_004 = [
       "retrievedAt": "2026-08-26T08:10:26.732968+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/zabkray?action=show&root=1000304&tvd=27520001371131&vrn=100100225883172&region=92&global=&sub_region=92&prver=0&pronetvd=null&vibid=27520001371131&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 44,
+      "oikTvd": "100100225883741"
     }
   },
   {
@@ -2184,8 +2608,12 @@ export const duma_2021_uik_463_region_92_part_004 = [
     "ballot": "single-member",
     "uikNumber": 1217,
     "uikTvd": "4754004307813",
+    "uikName": "УИК №1217",
     "tikTvd": "27520001371131",
     "tikName": "Борзинская",
+    "regionCode": "92",
+    "regionTvd": "100100225883739",
+    "regionName": "Забайкальский край",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 895,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 820,
@@ -2201,12 +2629,12 @@ export const duma_2021_uik_463_region_92_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Григорьев Юрий Иннокентьевич": 76,
-      "Кулиева Василина Васильевна": 63,
-      "Михайлов Александр Николаевич": 30,
-      "Носов Дмитрий Юрьевич": 67,
-      "Синкевич Александр Иннокентьевич": 9,
-      "Фисун Екатерина Владимировна": 49
+      "27520001377668": 76,
+      "27520001376842": 63,
+      "27520001379333": 30,
+      "27520001377140": 67,
+      "27520001378564": 9,
+      "27520001379613": 49
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/zabkray?action=show&root=1000304&tvd=27520001371131&vrn=100100225883172&region=92&global=&sub_region=92&prver=0&pronetvd=null&vibid=27520001371131&type=464",
@@ -2216,6 +2644,10 @@ export const duma_2021_uik_463_region_92_part_004 = [
       "retrievedAt": "2026-08-26T08:10:26.732968+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/zabkray?action=show&root=1000304&tvd=27520001371131&vrn=100100225883172&region=92&global=&sub_region=92&prver=0&pronetvd=null&vibid=27520001371131&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 44,
+      "oikTvd": "100100225883741"
     }
   },
   {
@@ -2225,8 +2657,12 @@ export const duma_2021_uik_463_region_92_part_004 = [
     "ballot": "single-member",
     "uikNumber": 1218,
     "uikTvd": "4754004307814",
+    "uikName": "УИК №1218",
     "tikTvd": "27520001371131",
     "tikName": "Борзинская",
+    "regionCode": "92",
+    "regionTvd": "100100225883739",
+    "regionName": "Забайкальский край",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 1843,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 1700,
@@ -2242,12 +2678,12 @@ export const duma_2021_uik_463_region_92_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Григорьев Юрий Иннокентьевич": 183,
-      "Кулиева Василина Васильевна": 132,
-      "Михайлов Александр Николаевич": 75,
-      "Носов Дмитрий Юрьевич": 121,
-      "Синкевич Александр Иннокентьевич": 10,
-      "Фисун Екатерина Владимировна": 109
+      "27520001377668": 183,
+      "27520001376842": 132,
+      "27520001379333": 75,
+      "27520001377140": 121,
+      "27520001378564": 10,
+      "27520001379613": 109
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/zabkray?action=show&root=1000304&tvd=27520001371131&vrn=100100225883172&region=92&global=&sub_region=92&prver=0&pronetvd=null&vibid=27520001371131&type=464",
@@ -2257,6 +2693,10 @@ export const duma_2021_uik_463_region_92_part_004 = [
       "retrievedAt": "2026-08-26T08:10:26.732968+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/zabkray?action=show&root=1000304&tvd=27520001371131&vrn=100100225883172&region=92&global=&sub_region=92&prver=0&pronetvd=null&vibid=27520001371131&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 44,
+      "oikTvd": "100100225883741"
     }
   },
   {
@@ -2266,8 +2706,12 @@ export const duma_2021_uik_463_region_92_part_004 = [
     "ballot": "single-member",
     "uikNumber": 1219,
     "uikTvd": "4754004307815",
+    "uikName": "УИК №1219",
     "tikTvd": "27520001371131",
     "tikName": "Борзинская",
+    "regionCode": "92",
+    "regionTvd": "100100225883739",
+    "regionName": "Забайкальский край",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 1757,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 1620,
@@ -2283,12 +2727,12 @@ export const duma_2021_uik_463_region_92_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Григорьев Юрий Иннокентьевич": 164,
-      "Кулиева Василина Васильевна": 145,
-      "Михайлов Александр Николаевич": 70,
-      "Носов Дмитрий Юрьевич": 147,
-      "Синкевич Александр Иннокентьевич": 17,
-      "Фисун Екатерина Владимировна": 89
+      "27520001377668": 164,
+      "27520001376842": 145,
+      "27520001379333": 70,
+      "27520001377140": 147,
+      "27520001378564": 17,
+      "27520001379613": 89
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/zabkray?action=show&root=1000304&tvd=27520001371131&vrn=100100225883172&region=92&global=&sub_region=92&prver=0&pronetvd=null&vibid=27520001371131&type=464",
@@ -2298,6 +2742,10 @@ export const duma_2021_uik_463_region_92_part_004 = [
       "retrievedAt": "2026-08-26T08:10:26.732968+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/zabkray?action=show&root=1000304&tvd=27520001371131&vrn=100100225883172&region=92&global=&sub_region=92&prver=0&pronetvd=null&vibid=27520001371131&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 44,
+      "oikTvd": "100100225883741"
     }
   },
   {
@@ -2307,8 +2755,12 @@ export const duma_2021_uik_463_region_92_part_004 = [
     "ballot": "single-member",
     "uikNumber": 1220,
     "uikTvd": "4754004307816",
+    "uikName": "УИК №1220",
     "tikTvd": "27520001371131",
     "tikName": "Борзинская",
+    "regionCode": "92",
+    "regionTvd": "100100225883739",
+    "regionName": "Забайкальский край",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 1788,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 1650,
@@ -2324,12 +2776,12 @@ export const duma_2021_uik_463_region_92_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Григорьев Юрий Иннокентьевич": 126,
-      "Кулиева Василина Васильевна": 134,
-      "Михайлов Александр Николаевич": 73,
-      "Носов Дмитрий Юрьевич": 128,
-      "Синкевич Александр Иннокентьевич": 16,
-      "Фисун Екатерина Владимировна": 100
+      "27520001377668": 126,
+      "27520001376842": 134,
+      "27520001379333": 73,
+      "27520001377140": 128,
+      "27520001378564": 16,
+      "27520001379613": 100
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/zabkray?action=show&root=1000304&tvd=27520001371131&vrn=100100225883172&region=92&global=&sub_region=92&prver=0&pronetvd=null&vibid=27520001371131&type=464",
@@ -2339,6 +2791,10 @@ export const duma_2021_uik_463_region_92_part_004 = [
       "retrievedAt": "2026-08-26T08:10:26.732968+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/zabkray?action=show&root=1000304&tvd=27520001371131&vrn=100100225883172&region=92&global=&sub_region=92&prver=0&pronetvd=null&vibid=27520001371131&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 44,
+      "oikTvd": "100100225883741"
     }
   },
   {
@@ -2348,8 +2804,12 @@ export const duma_2021_uik_463_region_92_part_004 = [
     "ballot": "single-member",
     "uikNumber": 1221,
     "uikTvd": "4754004307817",
+    "uikName": "УИК №1221",
     "tikTvd": "27520001371131",
     "tikName": "Борзинская",
+    "regionCode": "92",
+    "regionTvd": "100100225883739",
+    "regionName": "Забайкальский край",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 771,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 700,
@@ -2365,12 +2825,12 @@ export const duma_2021_uik_463_region_92_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Григорьев Юрий Иннокентьевич": 66,
-      "Кулиева Василина Васильевна": 42,
-      "Михайлов Александр Николаевич": 15,
-      "Носов Дмитрий Юрьевич": 70,
-      "Синкевич Александр Иннокентьевич": 8,
-      "Фисун Екатерина Владимировна": 26
+      "27520001377668": 66,
+      "27520001376842": 42,
+      "27520001379333": 15,
+      "27520001377140": 70,
+      "27520001378564": 8,
+      "27520001379613": 26
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/zabkray?action=show&root=1000304&tvd=27520001371131&vrn=100100225883172&region=92&global=&sub_region=92&prver=0&pronetvd=null&vibid=27520001371131&type=464",
@@ -2380,6 +2840,10 @@ export const duma_2021_uik_463_region_92_part_004 = [
       "retrievedAt": "2026-08-26T08:10:26.732968+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/zabkray?action=show&root=1000304&tvd=27520001371131&vrn=100100225883172&region=92&global=&sub_region=92&prver=0&pronetvd=null&vibid=27520001371131&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 44,
+      "oikTvd": "100100225883741"
     }
   },
   {
@@ -2389,8 +2853,12 @@ export const duma_2021_uik_463_region_92_part_004 = [
     "ballot": "single-member",
     "uikNumber": 1222,
     "uikTvd": "4754004307818",
+    "uikName": "УИК №1222",
     "tikTvd": "27520001371131",
     "tikName": "Борзинская",
+    "regionCode": "92",
+    "regionTvd": "100100225883739",
+    "regionName": "Забайкальский край",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 1796,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 1650,
@@ -2406,12 +2874,12 @@ export const duma_2021_uik_463_region_92_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Григорьев Юрий Иннокентьевич": 129,
-      "Кулиева Василина Васильевна": 144,
-      "Михайлов Александр Николаевич": 74,
-      "Носов Дмитрий Юрьевич": 170,
-      "Синкевич Александр Иннокентьевич": 22,
-      "Фисун Екатерина Владимировна": 98
+      "27520001377668": 129,
+      "27520001376842": 144,
+      "27520001379333": 74,
+      "27520001377140": 170,
+      "27520001378564": 22,
+      "27520001379613": 98
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/zabkray?action=show&root=1000304&tvd=27520001371131&vrn=100100225883172&region=92&global=&sub_region=92&prver=0&pronetvd=null&vibid=27520001371131&type=464",
@@ -2421,6 +2889,10 @@ export const duma_2021_uik_463_region_92_part_004 = [
       "retrievedAt": "2026-08-26T08:10:26.732968+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/zabkray?action=show&root=1000304&tvd=27520001371131&vrn=100100225883172&region=92&global=&sub_region=92&prver=0&pronetvd=null&vibid=27520001371131&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 44,
+      "oikTvd": "100100225883741"
     }
   },
   {
@@ -2430,8 +2902,12 @@ export const duma_2021_uik_463_region_92_part_004 = [
     "ballot": "single-member",
     "uikNumber": 1223,
     "uikTvd": "4754004307819",
+    "uikName": "УИК №1223",
     "tikTvd": "27520001371131",
     "tikName": "Борзинская",
+    "regionCode": "92",
+    "regionTvd": "100100225883739",
+    "regionName": "Забайкальский край",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 234,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 210,
@@ -2447,12 +2923,12 @@ export const duma_2021_uik_463_region_92_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Григорьев Юрий Иннокентьевич": 13,
-      "Кулиева Василина Васильевна": 18,
-      "Михайлов Александр Николаевич": 6,
-      "Носов Дмитрий Юрьевич": 7,
-      "Синкевич Александр Иннокентьевич": 2,
-      "Фисун Екатерина Владимировна": 7
+      "27520001377668": 13,
+      "27520001376842": 18,
+      "27520001379333": 6,
+      "27520001377140": 7,
+      "27520001378564": 2,
+      "27520001379613": 7
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/zabkray?action=show&root=1000304&tvd=27520001371131&vrn=100100225883172&region=92&global=&sub_region=92&prver=0&pronetvd=null&vibid=27520001371131&type=464",
@@ -2462,6 +2938,10 @@ export const duma_2021_uik_463_region_92_part_004 = [
       "retrievedAt": "2026-08-26T08:10:26.732968+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/zabkray?action=show&root=1000304&tvd=27520001371131&vrn=100100225883172&region=92&global=&sub_region=92&prver=0&pronetvd=null&vibid=27520001371131&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 44,
+      "oikTvd": "100100225883741"
     }
   },
   {
@@ -2471,8 +2951,12 @@ export const duma_2021_uik_463_region_92_part_004 = [
     "ballot": "single-member",
     "uikNumber": 1224,
     "uikTvd": "4754004307820",
+    "uikName": "УИК №1224",
     "tikTvd": "27520001371131",
     "tikName": "Борзинская",
+    "regionCode": "92",
+    "regionTvd": "100100225883739",
+    "regionName": "Забайкальский край",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 2451,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 2300,
@@ -2488,12 +2972,12 @@ export const duma_2021_uik_463_region_92_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Григорьев Юрий Иннокентьевич": 221,
-      "Кулиева Василина Васильевна": 115,
-      "Михайлов Александр Николаевич": 44,
-      "Носов Дмитрий Юрьевич": 174,
-      "Синкевич Александр Иннокентьевич": 10,
-      "Фисун Екатерина Владимировна": 112
+      "27520001377668": 221,
+      "27520001376842": 115,
+      "27520001379333": 44,
+      "27520001377140": 174,
+      "27520001378564": 10,
+      "27520001379613": 112
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/zabkray?action=show&root=1000304&tvd=27520001371131&vrn=100100225883172&region=92&global=&sub_region=92&prver=0&pronetvd=null&vibid=27520001371131&type=464",
@@ -2503,6 +2987,10 @@ export const duma_2021_uik_463_region_92_part_004 = [
       "retrievedAt": "2026-08-26T08:10:26.732968+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/zabkray?action=show&root=1000304&tvd=27520001371131&vrn=100100225883172&region=92&global=&sub_region=92&prver=0&pronetvd=null&vibid=27520001371131&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 44,
+      "oikTvd": "100100225883741"
     }
   },
   {
@@ -2512,8 +3000,12 @@ export const duma_2021_uik_463_region_92_part_004 = [
     "ballot": "single-member",
     "uikNumber": 1225,
     "uikTvd": "4754004307821",
+    "uikName": "УИК №1225",
     "tikTvd": "27520001371131",
     "tikName": "Борзинская",
+    "regionCode": "92",
+    "regionTvd": "100100225883739",
+    "regionName": "Забайкальский край",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 832,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 770,
@@ -2529,12 +3021,12 @@ export const duma_2021_uik_463_region_92_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Григорьев Юрий Иннокентьевич": 67,
-      "Кулиева Василина Васильевна": 35,
-      "Михайлов Александр Николаевич": 14,
-      "Носов Дмитрий Юрьевич": 48,
-      "Синкевич Александр Иннокентьевич": 5,
-      "Фисун Екатерина Владимировна": 25
+      "27520001377668": 67,
+      "27520001376842": 35,
+      "27520001379333": 14,
+      "27520001377140": 48,
+      "27520001378564": 5,
+      "27520001379613": 25
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/zabkray?action=show&root=1000304&tvd=27520001371131&vrn=100100225883172&region=92&global=&sub_region=92&prver=0&pronetvd=null&vibid=27520001371131&type=464",
@@ -2544,6 +3036,10 @@ export const duma_2021_uik_463_region_92_part_004 = [
       "retrievedAt": "2026-08-26T08:10:26.732968+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/zabkray?action=show&root=1000304&tvd=27520001371131&vrn=100100225883172&region=92&global=&sub_region=92&prver=0&pronetvd=null&vibid=27520001371131&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 44,
+      "oikTvd": "100100225883741"
     }
   },
   {
@@ -2553,8 +3049,12 @@ export const duma_2021_uik_463_region_92_part_004 = [
     "ballot": "single-member",
     "uikNumber": 1226,
     "uikTvd": "4754004307822",
+    "uikName": "УИК №1226",
     "tikTvd": "27520001371131",
     "tikName": "Борзинская",
+    "regionCode": "92",
+    "regionTvd": "100100225883739",
+    "regionName": "Забайкальский край",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 1754,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 1570,
@@ -2570,12 +3070,12 @@ export const duma_2021_uik_463_region_92_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Григорьев Юрий Иннокентьевич": 147,
-      "Кулиева Василина Васильевна": 74,
-      "Михайлов Александр Николаевич": 40,
-      "Носов Дмитрий Юрьевич": 119,
-      "Синкевич Александр Иннокентьевич": 10,
-      "Фисун Екатерина Владимировна": 102
+      "27520001377668": 147,
+      "27520001376842": 74,
+      "27520001379333": 40,
+      "27520001377140": 119,
+      "27520001378564": 10,
+      "27520001379613": 102
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/zabkray?action=show&root=1000304&tvd=27520001371131&vrn=100100225883172&region=92&global=&sub_region=92&prver=0&pronetvd=null&vibid=27520001371131&type=464",
@@ -2585,6 +3085,10 @@ export const duma_2021_uik_463_region_92_part_004 = [
       "retrievedAt": "2026-08-26T08:10:26.732968+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/zabkray?action=show&root=1000304&tvd=27520001371131&vrn=100100225883172&region=92&global=&sub_region=92&prver=0&pronetvd=null&vibid=27520001371131&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 44,
+      "oikTvd": "100100225883741"
     }
   },
   {
@@ -2594,8 +3098,12 @@ export const duma_2021_uik_463_region_92_part_004 = [
     "ballot": "single-member",
     "uikNumber": 1227,
     "uikTvd": "4754004307823",
+    "uikName": "УИК №1227",
     "tikTvd": "27520001371131",
     "tikName": "Борзинская",
+    "regionCode": "92",
+    "regionTvd": "100100225883739",
+    "regionName": "Забайкальский край",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 1082,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 1000,
@@ -2611,12 +3119,12 @@ export const duma_2021_uik_463_region_92_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Григорьев Юрий Иннокентьевич": 72,
-      "Кулиева Василина Васильевна": 46,
-      "Михайлов Александр Николаевич": 25,
-      "Носов Дмитрий Юрьевич": 83,
-      "Синкевич Александр Иннокентьевич": 10,
-      "Фисун Екатерина Владимировна": 53
+      "27520001377668": 72,
+      "27520001376842": 46,
+      "27520001379333": 25,
+      "27520001377140": 83,
+      "27520001378564": 10,
+      "27520001379613": 53
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/zabkray?action=show&root=1000304&tvd=27520001371131&vrn=100100225883172&region=92&global=&sub_region=92&prver=0&pronetvd=null&vibid=27520001371131&type=464",
@@ -2626,6 +3134,10 @@ export const duma_2021_uik_463_region_92_part_004 = [
       "retrievedAt": "2026-08-26T08:10:26.732968+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/zabkray?action=show&root=1000304&tvd=27520001371131&vrn=100100225883172&region=92&global=&sub_region=92&prver=0&pronetvd=null&vibid=27520001371131&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 44,
+      "oikTvd": "100100225883741"
     }
   },
   {
@@ -2635,8 +3147,12 @@ export const duma_2021_uik_463_region_92_part_004 = [
     "ballot": "single-member",
     "uikNumber": 1228,
     "uikTvd": "4754004307824",
+    "uikName": "УИК №1228",
     "tikTvd": "27520001371131",
     "tikName": "Борзинская",
+    "regionCode": "92",
+    "regionTvd": "100100225883739",
+    "regionName": "Забайкальский край",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 943,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 860,
@@ -2652,12 +3168,12 @@ export const duma_2021_uik_463_region_92_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Григорьев Юрий Иннокентьевич": 73,
-      "Кулиева Василина Васильевна": 37,
-      "Михайлов Александр Николаевич": 33,
-      "Носов Дмитрий Юрьевич": 93,
-      "Синкевич Александр Иннокентьевич": 4,
-      "Фисун Екатерина Владимировна": 45
+      "27520001377668": 73,
+      "27520001376842": 37,
+      "27520001379333": 33,
+      "27520001377140": 93,
+      "27520001378564": 4,
+      "27520001379613": 45
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/zabkray?action=show&root=1000304&tvd=27520001371131&vrn=100100225883172&region=92&global=&sub_region=92&prver=0&pronetvd=null&vibid=27520001371131&type=464",
@@ -2667,6 +3183,10 @@ export const duma_2021_uik_463_region_92_part_004 = [
       "retrievedAt": "2026-08-26T08:10:26.732968+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/zabkray?action=show&root=1000304&tvd=27520001371131&vrn=100100225883172&region=92&global=&sub_region=92&prver=0&pronetvd=null&vibid=27520001371131&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 44,
+      "oikTvd": "100100225883741"
     }
   },
   {
@@ -2676,8 +3196,12 @@ export const duma_2021_uik_463_region_92_part_004 = [
     "ballot": "single-member",
     "uikNumber": 1229,
     "uikTvd": "4754004307825",
+    "uikName": "УИК №1229",
     "tikTvd": "27520001371131",
     "tikName": "Борзинская",
+    "regionCode": "92",
+    "regionTvd": "100100225883739",
+    "regionName": "Забайкальский край",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 1164,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 1080,
@@ -2693,12 +3217,12 @@ export const duma_2021_uik_463_region_92_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Григорьев Юрий Иннокентьевич": 89,
-      "Кулиева Василина Васильевна": 45,
-      "Михайлов Александр Николаевич": 24,
-      "Носов Дмитрий Юрьевич": 96,
-      "Синкевич Александр Иннокентьевич": 3,
-      "Фисун Екатерина Владимировна": 73
+      "27520001377668": 89,
+      "27520001376842": 45,
+      "27520001379333": 24,
+      "27520001377140": 96,
+      "27520001378564": 3,
+      "27520001379613": 73
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/zabkray?action=show&root=1000304&tvd=27520001371131&vrn=100100225883172&region=92&global=&sub_region=92&prver=0&pronetvd=null&vibid=27520001371131&type=464",
@@ -2708,6 +3232,10 @@ export const duma_2021_uik_463_region_92_part_004 = [
       "retrievedAt": "2026-08-26T08:10:26.732968+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/zabkray?action=show&root=1000304&tvd=27520001371131&vrn=100100225883172&region=92&global=&sub_region=92&prver=0&pronetvd=null&vibid=27520001371131&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 44,
+      "oikTvd": "100100225883741"
     }
   },
   {
@@ -2717,8 +3245,12 @@ export const duma_2021_uik_463_region_92_part_004 = [
     "ballot": "single-member",
     "uikNumber": 1230,
     "uikTvd": "4754004307826",
+    "uikName": "УИК №1230",
     "tikTvd": "27520001371131",
     "tikName": "Борзинская",
+    "regionCode": "92",
+    "regionTvd": "100100225883739",
+    "regionName": "Забайкальский край",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 1280,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 1030,
@@ -2734,12 +3266,12 @@ export const duma_2021_uik_463_region_92_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Григорьев Юрий Иннокентьевич": 93,
-      "Кулиева Василина Васильевна": 60,
-      "Михайлов Александр Николаевич": 26,
-      "Носов Дмитрий Юрьевич": 102,
-      "Синкевич Александр Иннокентьевич": 12,
-      "Фисун Екатерина Владимировна": 90
+      "27520001377668": 93,
+      "27520001376842": 60,
+      "27520001379333": 26,
+      "27520001377140": 102,
+      "27520001378564": 12,
+      "27520001379613": 90
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/zabkray?action=show&root=1000304&tvd=27520001371131&vrn=100100225883172&region=92&global=&sub_region=92&prver=0&pronetvd=null&vibid=27520001371131&type=464",
@@ -2749,6 +3281,10 @@ export const duma_2021_uik_463_region_92_part_004 = [
       "retrievedAt": "2026-08-26T08:10:26.732968+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/zabkray?action=show&root=1000304&tvd=27520001371131&vrn=100100225883172&region=92&global=&sub_region=92&prver=0&pronetvd=null&vibid=27520001371131&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 44,
+      "oikTvd": "100100225883741"
     }
   },
   {
@@ -2758,8 +3294,12 @@ export const duma_2021_uik_463_region_92_part_004 = [
     "ballot": "single-member",
     "uikNumber": 1231,
     "uikTvd": "4754004307827",
+    "uikName": "УИК №1231",
     "tikTvd": "27520001371131",
     "tikName": "Борзинская",
+    "regionCode": "92",
+    "regionTvd": "100100225883739",
+    "regionName": "Забайкальский край",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 983,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 880,
@@ -2775,12 +3315,12 @@ export const duma_2021_uik_463_region_92_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Григорьев Юрий Иннокентьевич": 76,
-      "Кулиева Василина Васильевна": 34,
-      "Михайлов Александр Николаевич": 28,
-      "Носов Дмитрий Юрьевич": 68,
-      "Синкевич Александр Иннокентьевич": 3,
-      "Фисун Екатерина Владимировна": 58
+      "27520001377668": 76,
+      "27520001376842": 34,
+      "27520001379333": 28,
+      "27520001377140": 68,
+      "27520001378564": 3,
+      "27520001379613": 58
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/zabkray?action=show&root=1000304&tvd=27520001371131&vrn=100100225883172&region=92&global=&sub_region=92&prver=0&pronetvd=null&vibid=27520001371131&type=464",
@@ -2790,6 +3330,10 @@ export const duma_2021_uik_463_region_92_part_004 = [
       "retrievedAt": "2026-08-26T08:10:26.732968+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/zabkray?action=show&root=1000304&tvd=27520001371131&vrn=100100225883172&region=92&global=&sub_region=92&prver=0&pronetvd=null&vibid=27520001371131&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 44,
+      "oikTvd": "100100225883741"
     }
   },
   {
@@ -2799,8 +3343,12 @@ export const duma_2021_uik_463_region_92_part_004 = [
     "ballot": "single-member",
     "uikNumber": 1232,
     "uikTvd": "4754004307828",
+    "uikName": "УИК №1232",
     "tikTvd": "27520001371131",
     "tikName": "Борзинская",
+    "regionCode": "92",
+    "regionTvd": "100100225883739",
+    "regionName": "Забайкальский край",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 1598,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 1520,
@@ -2816,12 +3364,12 @@ export const duma_2021_uik_463_region_92_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Григорьев Юрий Иннокентьевич": 97,
-      "Кулиева Василина Васильевна": 53,
-      "Михайлов Александр Николаевич": 31,
-      "Носов Дмитрий Юрьевич": 104,
-      "Синкевич Александр Иннокентьевич": 4,
-      "Фисун Екатерина Владимировна": 55
+      "27520001377668": 97,
+      "27520001376842": 53,
+      "27520001379333": 31,
+      "27520001377140": 104,
+      "27520001378564": 4,
+      "27520001379613": 55
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/zabkray?action=show&root=1000304&tvd=27520001371131&vrn=100100225883172&region=92&global=&sub_region=92&prver=0&pronetvd=null&vibid=27520001371131&type=464",
@@ -2831,6 +3379,10 @@ export const duma_2021_uik_463_region_92_part_004 = [
       "retrievedAt": "2026-08-26T08:10:26.732968+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/zabkray?action=show&root=1000304&tvd=27520001371131&vrn=100100225883172&region=92&global=&sub_region=92&prver=0&pronetvd=null&vibid=27520001371131&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 44,
+      "oikTvd": "100100225883741"
     }
   },
   {
@@ -2840,8 +3392,12 @@ export const duma_2021_uik_463_region_92_part_004 = [
     "ballot": "single-member",
     "uikNumber": 1233,
     "uikTvd": "4754004307829",
+    "uikName": "УИК №1233",
     "tikTvd": "27520001371131",
     "tikName": "Борзинская",
+    "regionCode": "92",
+    "regionTvd": "100100225883739",
+    "regionName": "Забайкальский край",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 1221,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 1090,
@@ -2857,12 +3413,12 @@ export const duma_2021_uik_463_region_92_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Григорьев Юрий Иннокентьевич": 91,
-      "Кулиева Василина Васильевна": 67,
-      "Михайлов Александр Николаевич": 25,
-      "Носов Дмитрий Юрьевич": 63,
-      "Синкевич Александр Иннокентьевич": 9,
-      "Фисун Екатерина Владимировна": 72
+      "27520001377668": 91,
+      "27520001376842": 67,
+      "27520001379333": 25,
+      "27520001377140": 63,
+      "27520001378564": 9,
+      "27520001379613": 72
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/zabkray?action=show&root=1000304&tvd=27520001371131&vrn=100100225883172&region=92&global=&sub_region=92&prver=0&pronetvd=null&vibid=27520001371131&type=464",
@@ -2872,6 +3428,10 @@ export const duma_2021_uik_463_region_92_part_004 = [
       "retrievedAt": "2026-08-26T08:10:26.732968+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/zabkray?action=show&root=1000304&tvd=27520001371131&vrn=100100225883172&region=92&global=&sub_region=92&prver=0&pronetvd=null&vibid=27520001371131&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 44,
+      "oikTvd": "100100225883741"
     }
   },
   {
@@ -2881,8 +3441,12 @@ export const duma_2021_uik_463_region_92_part_004 = [
     "ballot": "single-member",
     "uikNumber": 1234,
     "uikTvd": "4754004307830",
+    "uikName": "УИК №1234",
     "tikTvd": "27520001371131",
     "tikName": "Борзинская",
+    "regionCode": "92",
+    "regionTvd": "100100225883739",
+    "regionName": "Забайкальский край",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 1112,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 1050,
@@ -2898,12 +3462,12 @@ export const duma_2021_uik_463_region_92_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Григорьев Юрий Иннокентьевич": 70,
-      "Кулиева Василина Васильевна": 45,
-      "Михайлов Александр Николаевич": 31,
-      "Носов Дмитрий Юрьевич": 87,
-      "Синкевич Александр Иннокентьевич": 7,
-      "Фисун Екатерина Владимировна": 31
+      "27520001377668": 70,
+      "27520001376842": 45,
+      "27520001379333": 31,
+      "27520001377140": 87,
+      "27520001378564": 7,
+      "27520001379613": 31
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/zabkray?action=show&root=1000304&tvd=27520001371131&vrn=100100225883172&region=92&global=&sub_region=92&prver=0&pronetvd=null&vibid=27520001371131&type=464",
@@ -2913,6 +3477,10 @@ export const duma_2021_uik_463_region_92_part_004 = [
       "retrievedAt": "2026-08-26T08:10:26.732968+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/zabkray?action=show&root=1000304&tvd=27520001371131&vrn=100100225883172&region=92&global=&sub_region=92&prver=0&pronetvd=null&vibid=27520001371131&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 44,
+      "oikTvd": "100100225883741"
     }
   },
   {
@@ -2922,8 +3490,12 @@ export const duma_2021_uik_463_region_92_part_004 = [
     "ballot": "single-member",
     "uikNumber": 1235,
     "uikTvd": "4754004307831",
+    "uikName": "УИК №1235",
     "tikTvd": "27520001371131",
     "tikName": "Борзинская",
+    "regionCode": "92",
+    "regionTvd": "100100225883739",
+    "regionName": "Забайкальский край",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 1521,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 1430,
@@ -2939,12 +3511,12 @@ export const duma_2021_uik_463_region_92_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Григорьев Юрий Иннокентьевич": 87,
-      "Кулиева Василина Васильевна": 63,
-      "Михайлов Александр Николаевич": 42,
-      "Носов Дмитрий Юрьевич": 97,
-      "Синкевич Александр Иннокентьевич": 11,
-      "Фисун Екатерина Владимировна": 70
+      "27520001377668": 87,
+      "27520001376842": 63,
+      "27520001379333": 42,
+      "27520001377140": 97,
+      "27520001378564": 11,
+      "27520001379613": 70
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/zabkray?action=show&root=1000304&tvd=27520001371131&vrn=100100225883172&region=92&global=&sub_region=92&prver=0&pronetvd=null&vibid=27520001371131&type=464",
@@ -2954,6 +3526,10 @@ export const duma_2021_uik_463_region_92_part_004 = [
       "retrievedAt": "2026-08-26T08:10:26.732968+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/zabkray?action=show&root=1000304&tvd=27520001371131&vrn=100100225883172&region=92&global=&sub_region=92&prver=0&pronetvd=null&vibid=27520001371131&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 44,
+      "oikTvd": "100100225883741"
     }
   },
   {
@@ -2963,8 +3539,12 @@ export const duma_2021_uik_463_region_92_part_004 = [
     "ballot": "single-member",
     "uikNumber": 1236,
     "uikTvd": "4754004307832",
+    "uikName": "УИК №1236",
     "tikTvd": "27520001371131",
     "tikName": "Борзинская",
+    "regionCode": "92",
+    "regionTvd": "100100225883739",
+    "regionName": "Забайкальский край",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 2340,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 2170,
@@ -2980,12 +3560,12 @@ export const duma_2021_uik_463_region_92_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Григорьев Юрий Иннокентьевич": 132,
-      "Кулиева Василина Васильевна": 107,
-      "Михайлов Александр Николаевич": 40,
-      "Носов Дмитрий Юрьевич": 116,
-      "Синкевич Александр Иннокентьевич": 15,
-      "Фисун Екатерина Владимировна": 100
+      "27520001377668": 132,
+      "27520001376842": 107,
+      "27520001379333": 40,
+      "27520001377140": 116,
+      "27520001378564": 15,
+      "27520001379613": 100
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/zabkray?action=show&root=1000304&tvd=27520001371131&vrn=100100225883172&region=92&global=&sub_region=92&prver=0&pronetvd=null&vibid=27520001371131&type=464",
@@ -2995,6 +3575,10 @@ export const duma_2021_uik_463_region_92_part_004 = [
       "retrievedAt": "2026-08-26T08:10:26.732968+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/zabkray?action=show&root=1000304&tvd=27520001371131&vrn=100100225883172&region=92&global=&sub_region=92&prver=0&pronetvd=null&vibid=27520001371131&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 44,
+      "oikTvd": "100100225883741"
     }
   },
   {
@@ -3004,8 +3588,12 @@ export const duma_2021_uik_463_region_92_part_004 = [
     "ballot": "single-member",
     "uikNumber": 1237,
     "uikTvd": "4754004307833",
+    "uikName": "УИК №1237",
     "tikTvd": "27520001371131",
     "tikName": "Борзинская",
+    "regionCode": "92",
+    "regionTvd": "100100225883739",
+    "regionName": "Забайкальский край",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 3496,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 2900,
@@ -3021,12 +3609,12 @@ export const duma_2021_uik_463_region_92_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Григорьев Юрий Иннокентьевич": 266,
-      "Кулиева Василина Васильевна": 343,
-      "Михайлов Александр Николаевич": 169,
-      "Носов Дмитрий Юрьевич": 575,
-      "Синкевич Александр Иннокентьевич": 64,
-      "Фисун Екатерина Владимировна": 479
+      "27520001377668": 266,
+      "27520001376842": 343,
+      "27520001379333": 169,
+      "27520001377140": 575,
+      "27520001378564": 64,
+      "27520001379613": 479
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/zabkray?action=show&root=1000304&tvd=27520001371131&vrn=100100225883172&region=92&global=&sub_region=92&prver=0&pronetvd=null&vibid=27520001371131&type=464",
@@ -3036,6 +3624,10 @@ export const duma_2021_uik_463_region_92_part_004 = [
       "retrievedAt": "2026-08-26T08:10:26.732968+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/zabkray?action=show&root=1000304&tvd=27520001371131&vrn=100100225883172&region=92&global=&sub_region=92&prver=0&pronetvd=null&vibid=27520001371131&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 44,
+      "oikTvd": "100100225883741"
     }
   },
   {
@@ -3045,8 +3637,12 @@ export const duma_2021_uik_463_region_92_part_004 = [
     "ballot": "single-member",
     "uikNumber": 1239,
     "uikTvd": "4754004307834",
+    "uikName": "УИК №1239",
     "tikTvd": "27520001371131",
     "tikName": "Борзинская",
+    "regionCode": "92",
+    "regionTvd": "100100225883739",
+    "regionName": "Забайкальский край",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 861,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 800,
@@ -3062,12 +3658,12 @@ export const duma_2021_uik_463_region_92_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Григорьев Юрий Иннокентьевич": 50,
-      "Кулиева Василина Васильевна": 31,
-      "Михайлов Александр Николаевич": 14,
-      "Носов Дмитрий Юрьевич": 54,
-      "Синкевич Александр Иннокентьевич": 1,
-      "Фисун Екатерина Владимировна": 30
+      "27520001377668": 50,
+      "27520001376842": 31,
+      "27520001379333": 14,
+      "27520001377140": 54,
+      "27520001378564": 1,
+      "27520001379613": 30
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/zabkray?action=show&root=1000304&tvd=27520001371131&vrn=100100225883172&region=92&global=&sub_region=92&prver=0&pronetvd=null&vibid=27520001371131&type=464",
@@ -3077,6 +3673,10 @@ export const duma_2021_uik_463_region_92_part_004 = [
       "retrievedAt": "2026-08-26T08:10:26.732968+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/zabkray?action=show&root=1000304&tvd=27520001371131&vrn=100100225883172&region=92&global=&sub_region=92&prver=0&pronetvd=null&vibid=27520001371131&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 44,
+      "oikTvd": "100100225883741"
     }
   },
   {
@@ -3086,8 +3686,12 @@ export const duma_2021_uik_463_region_92_part_004 = [
     "ballot": "single-member",
     "uikNumber": 901,
     "uikTvd": "4754001206309",
+    "uikName": "УИК №901",
     "tikTvd": "27520001371132",
     "tikName": "Акшинская",
+    "regionCode": "92",
+    "regionTvd": "100100225883739",
+    "regionName": "Забайкальский край",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 1553,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 1644,
@@ -3103,12 +3707,12 @@ export const duma_2021_uik_463_region_92_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Григорьев Юрий Иннокентьевич": 126,
-      "Кулиева Василина Васильевна": 102,
-      "Михайлов Александр Николаевич": 45,
-      "Носов Дмитрий Юрьевич": 103,
-      "Синкевич Александр Иннокентьевич": 13,
-      "Фисун Екатерина Владимировна": 114
+      "27520001377668": 126,
+      "27520001376842": 102,
+      "27520001379333": 45,
+      "27520001377140": 103,
+      "27520001378564": 13,
+      "27520001379613": 114
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/zabkray?action=show&root=1000304&tvd=27520001371132&vrn=100100225883172&region=92&global=&sub_region=92&prver=0&pronetvd=null&vibid=27520001371132&type=464",
@@ -3118,6 +3722,10 @@ export const duma_2021_uik_463_region_92_part_004 = [
       "retrievedAt": "2026-08-26T08:10:26.745363+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/zabkray?action=show&root=1000304&tvd=27520001371132&vrn=100100225883172&region=92&global=&sub_region=92&prver=0&pronetvd=null&vibid=27520001371132&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 44,
+      "oikTvd": "100100225883741"
     }
   },
   {
@@ -3127,8 +3735,12 @@ export const duma_2021_uik_463_region_92_part_004 = [
     "ballot": "single-member",
     "uikNumber": 902,
     "uikTvd": "4754001206310",
+    "uikName": "УИК №902",
     "tikTvd": "27520001371132",
     "tikName": "Акшинская",
+    "regionCode": "92",
+    "regionTvd": "100100225883739",
+    "regionName": "Забайкальский край",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 1606,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 1614,
@@ -3144,12 +3756,12 @@ export const duma_2021_uik_463_region_92_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Григорьев Юрий Иннокентьевич": 134,
-      "Кулиева Василина Васильевна": 99,
-      "Михайлов Александр Николаевич": 55,
-      "Носов Дмитрий Юрьевич": 82,
-      "Синкевич Александр Иннокентьевич": 19,
-      "Фисун Екатерина Владимировна": 107
+      "27520001377668": 134,
+      "27520001376842": 99,
+      "27520001379333": 55,
+      "27520001377140": 82,
+      "27520001378564": 19,
+      "27520001379613": 107
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/zabkray?action=show&root=1000304&tvd=27520001371132&vrn=100100225883172&region=92&global=&sub_region=92&prver=0&pronetvd=null&vibid=27520001371132&type=464",
@@ -3159,6 +3771,10 @@ export const duma_2021_uik_463_region_92_part_004 = [
       "retrievedAt": "2026-08-26T08:10:26.745363+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/zabkray?action=show&root=1000304&tvd=27520001371132&vrn=100100225883172&region=92&global=&sub_region=92&prver=0&pronetvd=null&vibid=27520001371132&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 44,
+      "oikTvd": "100100225883741"
     }
   },
   {
@@ -3168,8 +3784,12 @@ export const duma_2021_uik_463_region_92_part_004 = [
     "ballot": "single-member",
     "uikNumber": 903,
     "uikTvd": "4754001206311",
+    "uikName": "УИК №903",
     "tikTvd": "27520001371132",
     "tikName": "Акшинская",
+    "regionCode": "92",
+    "regionTvd": "100100225883739",
+    "regionName": "Забайкальский край",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 305,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 306,
@@ -3185,12 +3805,12 @@ export const duma_2021_uik_463_region_92_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Григорьев Юрий Иннокентьевич": 63,
-      "Кулиева Василина Васильевна": 25,
-      "Михайлов Александр Николаевич": 13,
-      "Носов Дмитрий Юрьевич": 14,
-      "Синкевич Александр Иннокентьевич": 2,
-      "Фисун Екатерина Владимировна": 32
+      "27520001377668": 63,
+      "27520001376842": 25,
+      "27520001379333": 13,
+      "27520001377140": 14,
+      "27520001378564": 2,
+      "27520001379613": 32
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/zabkray?action=show&root=1000304&tvd=27520001371132&vrn=100100225883172&region=92&global=&sub_region=92&prver=0&pronetvd=null&vibid=27520001371132&type=464",
@@ -3200,6 +3820,10 @@ export const duma_2021_uik_463_region_92_part_004 = [
       "retrievedAt": "2026-08-26T08:10:26.745363+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/zabkray?action=show&root=1000304&tvd=27520001371132&vrn=100100225883172&region=92&global=&sub_region=92&prver=0&pronetvd=null&vibid=27520001371132&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 44,
+      "oikTvd": "100100225883741"
     }
   },
   {
@@ -3209,8 +3833,12 @@ export const duma_2021_uik_463_region_92_part_004 = [
     "ballot": "single-member",
     "uikNumber": 904,
     "uikTvd": "4754001206312",
+    "uikName": "УИК №904",
     "tikTvd": "27520001371132",
     "tikName": "Акшинская",
+    "regionCode": "92",
+    "regionTvd": "100100225883739",
+    "regionName": "Забайкальский край",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 125,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 126,
@@ -3226,12 +3854,12 @@ export const duma_2021_uik_463_region_92_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Григорьев Юрий Иннокентьевич": 19,
-      "Кулиева Василина Васильевна": 12,
-      "Михайлов Александр Николаевич": 13,
-      "Носов Дмитрий Юрьевич": 16,
-      "Синкевич Александр Иннокентьевич": 3,
-      "Фисун Екатерина Владимировна": 10
+      "27520001377668": 19,
+      "27520001376842": 12,
+      "27520001379333": 13,
+      "27520001377140": 16,
+      "27520001378564": 3,
+      "27520001379613": 10
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/zabkray?action=show&root=1000304&tvd=27520001371132&vrn=100100225883172&region=92&global=&sub_region=92&prver=0&pronetvd=null&vibid=27520001371132&type=464",
@@ -3241,6 +3869,10 @@ export const duma_2021_uik_463_region_92_part_004 = [
       "retrievedAt": "2026-08-26T08:10:26.745363+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/zabkray?action=show&root=1000304&tvd=27520001371132&vrn=100100225883172&region=92&global=&sub_region=92&prver=0&pronetvd=null&vibid=27520001371132&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 44,
+      "oikTvd": "100100225883741"
     }
   },
   {
@@ -3250,8 +3882,12 @@ export const duma_2021_uik_463_region_92_part_004 = [
     "ballot": "single-member",
     "uikNumber": 905,
     "uikTvd": "4754001206313",
+    "uikName": "УИК №905",
     "tikTvd": "27520001371132",
     "tikName": "Акшинская",
+    "regionCode": "92",
+    "regionTvd": "100100225883739",
+    "regionName": "Забайкальский край",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 220,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 224,
@@ -3267,12 +3903,12 @@ export const duma_2021_uik_463_region_92_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Григорьев Юрий Иннокентьевич": 26,
-      "Кулиева Василина Васильевна": 21,
-      "Михайлов Александр Николаевич": 20,
-      "Носов Дмитрий Юрьевич": 28,
-      "Синкевич Александр Иннокентьевич": 2,
-      "Фисун Екатерина Владимировна": 27
+      "27520001377668": 26,
+      "27520001376842": 21,
+      "27520001379333": 20,
+      "27520001377140": 28,
+      "27520001378564": 2,
+      "27520001379613": 27
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/zabkray?action=show&root=1000304&tvd=27520001371132&vrn=100100225883172&region=92&global=&sub_region=92&prver=0&pronetvd=null&vibid=27520001371132&type=464",
@@ -3282,6 +3918,10 @@ export const duma_2021_uik_463_region_92_part_004 = [
       "retrievedAt": "2026-08-26T08:10:26.745363+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/zabkray?action=show&root=1000304&tvd=27520001371132&vrn=100100225883172&region=92&global=&sub_region=92&prver=0&pronetvd=null&vibid=27520001371132&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 44,
+      "oikTvd": "100100225883741"
     }
   },
   {
@@ -3291,8 +3931,12 @@ export const duma_2021_uik_463_region_92_part_004 = [
     "ballot": "single-member",
     "uikNumber": 906,
     "uikTvd": "4754001206314",
+    "uikName": "УИК №906",
     "tikTvd": "27520001371132",
     "tikName": "Акшинская",
+    "regionCode": "92",
+    "regionTvd": "100100225883739",
+    "regionName": "Забайкальский край",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 562,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 571,
@@ -3308,12 +3952,12 @@ export const duma_2021_uik_463_region_92_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Григорьев Юрий Иннокентьевич": 71,
-      "Кулиева Василина Васильевна": 31,
-      "Михайлов Александр Николаевич": 24,
-      "Носов Дмитрий Юрьевич": 20,
-      "Синкевич Александр Иннокентьевич": 2,
-      "Фисун Екатерина Владимировна": 40
+      "27520001377668": 71,
+      "27520001376842": 31,
+      "27520001379333": 24,
+      "27520001377140": 20,
+      "27520001378564": 2,
+      "27520001379613": 40
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/zabkray?action=show&root=1000304&tvd=27520001371132&vrn=100100225883172&region=92&global=&sub_region=92&prver=0&pronetvd=null&vibid=27520001371132&type=464",
@@ -3323,6 +3967,10 @@ export const duma_2021_uik_463_region_92_part_004 = [
       "retrievedAt": "2026-08-26T08:10:26.745363+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/zabkray?action=show&root=1000304&tvd=27520001371132&vrn=100100225883172&region=92&global=&sub_region=92&prver=0&pronetvd=null&vibid=27520001371132&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 44,
+      "oikTvd": "100100225883741"
     }
   },
   {
@@ -3332,8 +3980,12 @@ export const duma_2021_uik_463_region_92_part_004 = [
     "ballot": "single-member",
     "uikNumber": 907,
     "uikTvd": "4754001206315",
+    "uikName": "УИК №907",
     "tikTvd": "27520001371132",
     "tikName": "Акшинская",
+    "regionCode": "92",
+    "regionTvd": "100100225883739",
+    "regionName": "Забайкальский край",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 650,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 655,
@@ -3349,12 +4001,12 @@ export const duma_2021_uik_463_region_92_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Григорьев Юрий Иннокентьевич": 113,
-      "Кулиева Василина Васильевна": 39,
-      "Михайлов Александр Николаевич": 21,
-      "Носов Дмитрий Юрьевич": 62,
-      "Синкевич Александр Иннокентьевич": 5,
-      "Фисун Екатерина Владимировна": 66
+      "27520001377668": 113,
+      "27520001376842": 39,
+      "27520001379333": 21,
+      "27520001377140": 62,
+      "27520001378564": 5,
+      "27520001379613": 66
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/zabkray?action=show&root=1000304&tvd=27520001371132&vrn=100100225883172&region=92&global=&sub_region=92&prver=0&pronetvd=null&vibid=27520001371132&type=464",
@@ -3364,6 +4016,10 @@ export const duma_2021_uik_463_region_92_part_004 = [
       "retrievedAt": "2026-08-26T08:10:26.745363+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/zabkray?action=show&root=1000304&tvd=27520001371132&vrn=100100225883172&region=92&global=&sub_region=92&prver=0&pronetvd=null&vibid=27520001371132&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 44,
+      "oikTvd": "100100225883741"
     }
   },
   {
@@ -3373,8 +4029,12 @@ export const duma_2021_uik_463_region_92_part_004 = [
     "ballot": "single-member",
     "uikNumber": 908,
     "uikTvd": "4754001206316",
+    "uikName": "УИК №908",
     "tikTvd": "27520001371132",
     "tikName": "Акшинская",
+    "regionCode": "92",
+    "regionTvd": "100100225883739",
+    "regionName": "Забайкальский край",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 106,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 106,
@@ -3390,12 +4050,12 @@ export const duma_2021_uik_463_region_92_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Григорьев Юрий Иннокентьевич": 21,
-      "Кулиева Василина Васильевна": 7,
-      "Михайлов Александр Николаевич": 6,
-      "Носов Дмитрий Юрьевич": 4,
-      "Синкевич Александр Иннокентьевич": 2,
-      "Фисун Екатерина Владимировна": 17
+      "27520001377668": 21,
+      "27520001376842": 7,
+      "27520001379333": 6,
+      "27520001377140": 4,
+      "27520001378564": 2,
+      "27520001379613": 17
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/zabkray?action=show&root=1000304&tvd=27520001371132&vrn=100100225883172&region=92&global=&sub_region=92&prver=0&pronetvd=null&vibid=27520001371132&type=464",
@@ -3405,6 +4065,10 @@ export const duma_2021_uik_463_region_92_part_004 = [
       "retrievedAt": "2026-08-26T08:10:26.745363+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/zabkray?action=show&root=1000304&tvd=27520001371132&vrn=100100225883172&region=92&global=&sub_region=92&prver=0&pronetvd=null&vibid=27520001371132&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 44,
+      "oikTvd": "100100225883741"
     }
   },
   {
@@ -3414,8 +4078,12 @@ export const duma_2021_uik_463_region_92_part_004 = [
     "ballot": "single-member",
     "uikNumber": 909,
     "uikTvd": "4754001206317",
+    "uikName": "УИК №909",
     "tikTvd": "27520001371132",
     "tikName": "Акшинская",
+    "regionCode": "92",
+    "regionTvd": "100100225883739",
+    "regionName": "Забайкальский край",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 457,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 460,
@@ -3431,12 +4099,12 @@ export const duma_2021_uik_463_region_92_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Григорьев Юрий Иннокентьевич": 36,
-      "Кулиева Василина Васильевна": 41,
-      "Михайлов Александр Николаевич": 10,
-      "Носов Дмитрий Юрьевич": 16,
-      "Синкевич Александр Иннокентьевич": 1,
-      "Фисун Екатерина Владимировна": 36
+      "27520001377668": 36,
+      "27520001376842": 41,
+      "27520001379333": 10,
+      "27520001377140": 16,
+      "27520001378564": 1,
+      "27520001379613": 36
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/zabkray?action=show&root=1000304&tvd=27520001371132&vrn=100100225883172&region=92&global=&sub_region=92&prver=0&pronetvd=null&vibid=27520001371132&type=464",
@@ -3446,6 +4114,10 @@ export const duma_2021_uik_463_region_92_part_004 = [
       "retrievedAt": "2026-08-26T08:10:26.745363+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/zabkray?action=show&root=1000304&tvd=27520001371132&vrn=100100225883172&region=92&global=&sub_region=92&prver=0&pronetvd=null&vibid=27520001371132&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 44,
+      "oikTvd": "100100225883741"
     }
   },
   {
@@ -3455,8 +4127,12 @@ export const duma_2021_uik_463_region_92_part_004 = [
     "ballot": "single-member",
     "uikNumber": 910,
     "uikTvd": "4754001206318",
+    "uikName": "УИК №910",
     "tikTvd": "27520001371132",
     "tikName": "Акшинская",
+    "regionCode": "92",
+    "regionTvd": "100100225883739",
+    "regionName": "Забайкальский край",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 296,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 299,
@@ -3472,12 +4148,12 @@ export const duma_2021_uik_463_region_92_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Григорьев Юрий Иннокентьевич": 41,
-      "Кулиева Василина Васильевна": 22,
-      "Михайлов Александр Николаевич": 16,
-      "Носов Дмитрий Юрьевич": 5,
-      "Синкевич Александр Иннокентьевич": 5,
-      "Фисун Екатерина Владимировна": 30
+      "27520001377668": 41,
+      "27520001376842": 22,
+      "27520001379333": 16,
+      "27520001377140": 5,
+      "27520001378564": 5,
+      "27520001379613": 30
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/zabkray?action=show&root=1000304&tvd=27520001371132&vrn=100100225883172&region=92&global=&sub_region=92&prver=0&pronetvd=null&vibid=27520001371132&type=464",
@@ -3487,6 +4163,10 @@ export const duma_2021_uik_463_region_92_part_004 = [
       "retrievedAt": "2026-08-26T08:10:26.745363+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/zabkray?action=show&root=1000304&tvd=27520001371132&vrn=100100225883172&region=92&global=&sub_region=92&prver=0&pronetvd=null&vibid=27520001371132&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 44,
+      "oikTvd": "100100225883741"
     }
   },
   {
@@ -3496,8 +4176,12 @@ export const duma_2021_uik_463_region_92_part_004 = [
     "ballot": "single-member",
     "uikNumber": 911,
     "uikTvd": "4754001206319",
+    "uikName": "УИК №911",
     "tikTvd": "27520001371132",
     "tikName": "Акшинская",
+    "regionCode": "92",
+    "regionTvd": "100100225883739",
+    "regionName": "Забайкальский край",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 159,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 159,
@@ -3513,12 +4197,12 @@ export const duma_2021_uik_463_region_92_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Григорьев Юрий Иннокентьевич": 18,
-      "Кулиева Василина Васильевна": 6,
-      "Михайлов Александр Николаевич": 14,
-      "Носов Дмитрий Юрьевич": 16,
-      "Синкевич Александр Иннокентьевич": 4,
-      "Фисун Екатерина Владимировна": 7
+      "27520001377668": 18,
+      "27520001376842": 6,
+      "27520001379333": 14,
+      "27520001377140": 16,
+      "27520001378564": 4,
+      "27520001379613": 7
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/zabkray?action=show&root=1000304&tvd=27520001371132&vrn=100100225883172&region=92&global=&sub_region=92&prver=0&pronetvd=null&vibid=27520001371132&type=464",
@@ -3528,6 +4212,10 @@ export const duma_2021_uik_463_region_92_part_004 = [
       "retrievedAt": "2026-08-26T08:10:26.745363+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/zabkray?action=show&root=1000304&tvd=27520001371132&vrn=100100225883172&region=92&global=&sub_region=92&prver=0&pronetvd=null&vibid=27520001371132&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 44,
+      "oikTvd": "100100225883741"
     }
   },
   {
@@ -3537,8 +4225,12 @@ export const duma_2021_uik_463_region_92_part_004 = [
     "ballot": "single-member",
     "uikNumber": 912,
     "uikTvd": "4754001206320",
+    "uikName": "УИК №912",
     "tikTvd": "27520001371132",
     "tikName": "Акшинская",
+    "regionCode": "92",
+    "regionTvd": "100100225883739",
+    "regionName": "Забайкальский край",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 274,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 239,
@@ -3554,12 +4246,12 @@ export const duma_2021_uik_463_region_92_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Григорьев Юрий Иннокентьевич": 29,
-      "Кулиева Василина Васильевна": 22,
-      "Михайлов Александр Николаевич": 16,
-      "Носов Дмитрий Юрьевич": 27,
-      "Синкевич Александр Иннокентьевич": 7,
-      "Фисун Екатерина Владимировна": 23
+      "27520001377668": 29,
+      "27520001376842": 22,
+      "27520001379333": 16,
+      "27520001377140": 27,
+      "27520001378564": 7,
+      "27520001379613": 23
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/zabkray?action=show&root=1000304&tvd=27520001371132&vrn=100100225883172&region=92&global=&sub_region=92&prver=0&pronetvd=null&vibid=27520001371132&type=464",
@@ -3569,6 +4261,10 @@ export const duma_2021_uik_463_region_92_part_004 = [
       "retrievedAt": "2026-08-26T08:10:26.745363+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/zabkray?action=show&root=1000304&tvd=27520001371132&vrn=100100225883172&region=92&global=&sub_region=92&prver=0&pronetvd=null&vibid=27520001371132&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 44,
+      "oikTvd": "100100225883741"
     }
   },
   {
@@ -3578,8 +4274,12 @@ export const duma_2021_uik_463_region_92_part_004 = [
     "ballot": "single-member",
     "uikNumber": 913,
     "uikTvd": "4754001206321",
+    "uikName": "УИК №913",
     "tikTvd": "27520001371132",
     "tikName": "Акшинская",
+    "regionCode": "92",
+    "regionTvd": "100100225883739",
+    "regionName": "Забайкальский край",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 159,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 150,
@@ -3595,12 +4295,12 @@ export const duma_2021_uik_463_region_92_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Григорьев Юрий Иннокентьевич": 32,
-      "Кулиева Василина Васильевна": 2,
-      "Михайлов Александр Николаевич": 2,
-      "Носов Дмитрий Юрьевич": 2,
-      "Синкевич Александр Иннокентьевич": 1,
-      "Фисун Екатерина Владимировна": 9
+      "27520001377668": 32,
+      "27520001376842": 2,
+      "27520001379333": 2,
+      "27520001377140": 2,
+      "27520001378564": 1,
+      "27520001379613": 9
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/zabkray?action=show&root=1000304&tvd=27520001371132&vrn=100100225883172&region=92&global=&sub_region=92&prver=0&pronetvd=null&vibid=27520001371132&type=464",
@@ -3610,6 +4310,10 @@ export const duma_2021_uik_463_region_92_part_004 = [
       "retrievedAt": "2026-08-26T08:10:26.745363+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/zabkray?action=show&root=1000304&tvd=27520001371132&vrn=100100225883172&region=92&global=&sub_region=92&prver=0&pronetvd=null&vibid=27520001371132&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 44,
+      "oikTvd": "100100225883741"
     }
   },
   {
@@ -3619,8 +4323,12 @@ export const duma_2021_uik_463_region_92_part_004 = [
     "ballot": "single-member",
     "uikNumber": 914,
     "uikTvd": "4754001206322",
+    "uikName": "УИК №914",
     "tikTvd": "27520001371132",
     "tikName": "Акшинская",
+    "regionCode": "92",
+    "regionTvd": "100100225883739",
+    "regionName": "Забайкальский край",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 249,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 254,
@@ -3636,12 +4344,12 @@ export const duma_2021_uik_463_region_92_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Григорьев Юрий Иннокентьевич": 36,
-      "Кулиева Василина Васильевна": 18,
-      "Михайлов Александр Николаевич": 17,
-      "Носов Дмитрий Юрьевич": 26,
-      "Синкевич Александр Иннокентьевич": 4,
-      "Фисун Екатерина Владимировна": 53
+      "27520001377668": 36,
+      "27520001376842": 18,
+      "27520001379333": 17,
+      "27520001377140": 26,
+      "27520001378564": 4,
+      "27520001379613": 53
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/zabkray?action=show&root=1000304&tvd=27520001371132&vrn=100100225883172&region=92&global=&sub_region=92&prver=0&pronetvd=null&vibid=27520001371132&type=464",
@@ -3651,6 +4359,10 @@ export const duma_2021_uik_463_region_92_part_004 = [
       "retrievedAt": "2026-08-26T08:10:26.745363+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/zabkray?action=show&root=1000304&tvd=27520001371132&vrn=100100225883172&region=92&global=&sub_region=92&prver=0&pronetvd=null&vibid=27520001371132&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 44,
+      "oikTvd": "100100225883741"
     }
   },
   {
@@ -3660,8 +4372,12 @@ export const duma_2021_uik_463_region_92_part_004 = [
     "ballot": "single-member",
     "uikNumber": 915,
     "uikTvd": "4754001206323",
+    "uikName": "УИК №915",
     "tikTvd": "27520001371132",
     "tikName": "Акшинская",
+    "regionCode": "92",
+    "regionTvd": "100100225883739",
+    "regionName": "Забайкальский край",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 710,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 720,
@@ -3677,12 +4393,12 @@ export const duma_2021_uik_463_region_92_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Григорьев Юрий Иннокентьевич": 83,
-      "Кулиева Василина Васильевна": 54,
-      "Михайлов Александр Николаевич": 35,
-      "Носов Дмитрий Юрьевич": 42,
-      "Синкевич Александр Иннокентьевич": 12,
-      "Фисун Екатерина Владимировна": 61
+      "27520001377668": 83,
+      "27520001376842": 54,
+      "27520001379333": 35,
+      "27520001377140": 42,
+      "27520001378564": 12,
+      "27520001379613": 61
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/zabkray?action=show&root=1000304&tvd=27520001371132&vrn=100100225883172&region=92&global=&sub_region=92&prver=0&pronetvd=null&vibid=27520001371132&type=464",
@@ -3692,6 +4408,10 @@ export const duma_2021_uik_463_region_92_part_004 = [
       "retrievedAt": "2026-08-26T08:10:26.745363+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/zabkray?action=show&root=1000304&tvd=27520001371132&vrn=100100225883172&region=92&global=&sub_region=92&prver=0&pronetvd=null&vibid=27520001371132&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 44,
+      "oikTvd": "100100225883741"
     }
   },
   {
@@ -3701,8 +4421,12 @@ export const duma_2021_uik_463_region_92_part_004 = [
     "ballot": "single-member",
     "uikNumber": 916,
     "uikTvd": "4754001206324",
+    "uikName": "УИК №916",
     "tikTvd": "27520001371132",
     "tikName": "Акшинская",
+    "regionCode": "92",
+    "regionTvd": "100100225883739",
+    "regionName": "Забайкальский край",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 379,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 383,
@@ -3718,12 +4442,12 @@ export const duma_2021_uik_463_region_92_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Григорьев Юрий Иннокентьевич": 47,
-      "Кулиева Василина Васильевна": 35,
-      "Михайлов Александр Николаевич": 28,
-      "Носов Дмитрий Юрьевич": 15,
-      "Синкевич Александр Иннокентьевич": 0,
-      "Фисун Екатерина Владимировна": 48
+      "27520001377668": 47,
+      "27520001376842": 35,
+      "27520001379333": 28,
+      "27520001377140": 15,
+      "27520001378564": 0,
+      "27520001379613": 48
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/zabkray?action=show&root=1000304&tvd=27520001371132&vrn=100100225883172&region=92&global=&sub_region=92&prver=0&pronetvd=null&vibid=27520001371132&type=464",
@@ -3733,6 +4457,10 @@ export const duma_2021_uik_463_region_92_part_004 = [
       "retrievedAt": "2026-08-26T08:10:26.745363+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/zabkray?action=show&root=1000304&tvd=27520001371132&vrn=100100225883172&region=92&global=&sub_region=92&prver=0&pronetvd=null&vibid=27520001371132&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 44,
+      "oikTvd": "100100225883741"
     }
   },
   {
@@ -3742,8 +4470,12 @@ export const duma_2021_uik_463_region_92_part_004 = [
     "ballot": "single-member",
     "uikNumber": 801,
     "uikTvd": "4804001222210",
+    "uikName": "УИК №801",
     "tikTvd": "27520001371133",
     "tikName": "Агинская",
+    "regionCode": "92",
+    "regionTvd": "100100225883739",
+    "regionName": "Забайкальский край",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 2129,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 2253,
@@ -3759,12 +4491,12 @@ export const duma_2021_uik_463_region_92_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Григорьев Юрий Иннокентьевич": 226,
-      "Кулиева Василина Васильевна": 90,
-      "Михайлов Александр Николаевич": 47,
-      "Носов Дмитрий Юрьевич": 126,
-      "Синкевич Александр Иннокентьевич": 25,
-      "Фисун Екатерина Владимировна": 248
+      "27520001377668": 226,
+      "27520001376842": 90,
+      "27520001379333": 47,
+      "27520001377140": 126,
+      "27520001378564": 25,
+      "27520001379613": 248
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/zabkray?action=show&root=1000304&tvd=27520001371133&vrn=100100225883172&region=92&global=&sub_region=92&prver=0&pronetvd=null&vibid=27520001371133&type=464",
@@ -3774,6 +4506,10 @@ export const duma_2021_uik_463_region_92_part_004 = [
       "retrievedAt": "2026-08-26T08:10:28.303460+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/zabkray?action=show&root=1000304&tvd=27520001371133&vrn=100100225883172&region=92&global=&sub_region=92&prver=0&pronetvd=null&vibid=27520001371133&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 44,
+      "oikTvd": "100100225883741"
     }
   },
   {
@@ -3783,8 +4519,12 @@ export const duma_2021_uik_463_region_92_part_004 = [
     "ballot": "single-member",
     "uikNumber": 802,
     "uikTvd": "4804001222211",
+    "uikName": "УИК №802",
     "tikTvd": "27520001371133",
     "tikName": "Агинская",
+    "regionCode": "92",
+    "regionTvd": "100100225883739",
+    "regionName": "Забайкальский край",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 457,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 496,
@@ -3800,12 +4540,12 @@ export const duma_2021_uik_463_region_92_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Григорьев Юрий Иннокентьевич": 56,
-      "Кулиева Василина Васильевна": 23,
-      "Михайлов Александр Николаевич": 22,
-      "Носов Дмитрий Юрьевич": 86,
-      "Синкевич Александр Иннокентьевич": 7,
-      "Фисун Екатерина Владимировна": 136
+      "27520001377668": 56,
+      "27520001376842": 23,
+      "27520001379333": 22,
+      "27520001377140": 86,
+      "27520001378564": 7,
+      "27520001379613": 136
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/zabkray?action=show&root=1000304&tvd=27520001371133&vrn=100100225883172&region=92&global=&sub_region=92&prver=0&pronetvd=null&vibid=27520001371133&type=464",
@@ -3815,6 +4555,10 @@ export const duma_2021_uik_463_region_92_part_004 = [
       "retrievedAt": "2026-08-26T08:10:28.303460+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/zabkray?action=show&root=1000304&tvd=27520001371133&vrn=100100225883172&region=92&global=&sub_region=92&prver=0&pronetvd=null&vibid=27520001371133&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 44,
+      "oikTvd": "100100225883741"
     }
   },
   {
@@ -3824,8 +4568,12 @@ export const duma_2021_uik_463_region_92_part_004 = [
     "ballot": "single-member",
     "uikNumber": 803,
     "uikTvd": "4804001222212",
+    "uikName": "УИК №803",
     "tikTvd": "27520001371133",
     "tikName": "Агинская",
+    "regionCode": "92",
+    "regionTvd": "100100225883739",
+    "regionName": "Забайкальский край",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 422,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 459,
@@ -3841,12 +4589,12 @@ export const duma_2021_uik_463_region_92_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Григорьев Юрий Иннокентьевич": 82,
-      "Кулиева Василина Васильевна": 24,
-      "Михайлов Александр Николаевич": 19,
-      "Носов Дмитрий Юрьевич": 26,
-      "Синкевич Александр Иннокентьевич": 6,
-      "Фисун Екатерина Владимировна": 116
+      "27520001377668": 82,
+      "27520001376842": 24,
+      "27520001379333": 19,
+      "27520001377140": 26,
+      "27520001378564": 6,
+      "27520001379613": 116
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/zabkray?action=show&root=1000304&tvd=27520001371133&vrn=100100225883172&region=92&global=&sub_region=92&prver=0&pronetvd=null&vibid=27520001371133&type=464",
@@ -3856,6 +4604,10 @@ export const duma_2021_uik_463_region_92_part_004 = [
       "retrievedAt": "2026-08-26T08:10:28.303460+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/zabkray?action=show&root=1000304&tvd=27520001371133&vrn=100100225883172&region=92&global=&sub_region=92&prver=0&pronetvd=null&vibid=27520001371133&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 44,
+      "oikTvd": "100100225883741"
     }
   },
   {
@@ -3865,8 +4617,12 @@ export const duma_2021_uik_463_region_92_part_004 = [
     "ballot": "single-member",
     "uikNumber": 804,
     "uikTvd": "4804001222213",
+    "uikName": "УИК №804",
     "tikTvd": "27520001371133",
     "tikName": "Агинская",
+    "regionCode": "92",
+    "regionTvd": "100100225883739",
+    "regionName": "Забайкальский край",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 542,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 579,
@@ -3882,12 +4638,12 @@ export const duma_2021_uik_463_region_92_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Григорьев Юрий Иннокентьевич": 72,
-      "Кулиева Василина Васильевна": 23,
-      "Михайлов Александр Николаевич": 10,
-      "Носов Дмитрий Юрьевич": 56,
-      "Синкевич Александр Иннокентьевич": 3,
-      "Фисун Екатерина Владимировна": 172
+      "27520001377668": 72,
+      "27520001376842": 23,
+      "27520001379333": 10,
+      "27520001377140": 56,
+      "27520001378564": 3,
+      "27520001379613": 172
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/zabkray?action=show&root=1000304&tvd=27520001371133&vrn=100100225883172&region=92&global=&sub_region=92&prver=0&pronetvd=null&vibid=27520001371133&type=464",
@@ -3897,6 +4653,10 @@ export const duma_2021_uik_463_region_92_part_004 = [
       "retrievedAt": "2026-08-26T08:10:28.303460+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/zabkray?action=show&root=1000304&tvd=27520001371133&vrn=100100225883172&region=92&global=&sub_region=92&prver=0&pronetvd=null&vibid=27520001371133&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 44,
+      "oikTvd": "100100225883741"
     }
   },
   {
@@ -3906,8 +4666,12 @@ export const duma_2021_uik_463_region_92_part_004 = [
     "ballot": "single-member",
     "uikNumber": 805,
     "uikTvd": "4804001222214",
+    "uikName": "УИК №805",
     "tikTvd": "27520001371133",
     "tikName": "Агинская",
+    "regionCode": "92",
+    "regionTvd": "100100225883739",
+    "regionName": "Забайкальский край",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 462,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 505,
@@ -3923,12 +4687,12 @@ export const duma_2021_uik_463_region_92_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Григорьев Юрий Иннокентьевич": 150,
-      "Кулиева Василина Васильевна": 30,
-      "Михайлов Александр Николаевич": 17,
-      "Носов Дмитрий Юрьевич": 37,
-      "Синкевич Александр Иннокентьевич": 1,
-      "Фисун Екатерина Владимировна": 69
+      "27520001377668": 150,
+      "27520001376842": 30,
+      "27520001379333": 17,
+      "27520001377140": 37,
+      "27520001378564": 1,
+      "27520001379613": 69
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/zabkray?action=show&root=1000304&tvd=27520001371133&vrn=100100225883172&region=92&global=&sub_region=92&prver=0&pronetvd=null&vibid=27520001371133&type=464",
@@ -3938,6 +4702,10 @@ export const duma_2021_uik_463_region_92_part_004 = [
       "retrievedAt": "2026-08-26T08:10:28.303460+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/zabkray?action=show&root=1000304&tvd=27520001371133&vrn=100100225883172&region=92&global=&sub_region=92&prver=0&pronetvd=null&vibid=27520001371133&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 44,
+      "oikTvd": "100100225883741"
     }
   },
   {
@@ -3947,8 +4715,12 @@ export const duma_2021_uik_463_region_92_part_004 = [
     "ballot": "single-member",
     "uikNumber": 806,
     "uikTvd": "4804001222215",
+    "uikName": "УИК №806",
     "tikTvd": "27520001371133",
     "tikName": "Агинская",
+    "regionCode": "92",
+    "regionTvd": "100100225883739",
+    "regionName": "Забайкальский край",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 761,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 810,
@@ -3964,12 +4736,12 @@ export const duma_2021_uik_463_region_92_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Григорьев Юрий Иннокентьевич": 65,
-      "Кулиева Василина Васильевна": 58,
-      "Михайлов Александр Николаевич": 32,
-      "Носов Дмитрий Юрьевич": 54,
-      "Синкевич Александр Иннокентьевич": 9,
-      "Фисун Екатерина Владимировна": 200
+      "27520001377668": 65,
+      "27520001376842": 58,
+      "27520001379333": 32,
+      "27520001377140": 54,
+      "27520001378564": 9,
+      "27520001379613": 200
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/zabkray?action=show&root=1000304&tvd=27520001371133&vrn=100100225883172&region=92&global=&sub_region=92&prver=0&pronetvd=null&vibid=27520001371133&type=464",
@@ -3979,6 +4751,10 @@ export const duma_2021_uik_463_region_92_part_004 = [
       "retrievedAt": "2026-08-26T08:10:28.303460+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/zabkray?action=show&root=1000304&tvd=27520001371133&vrn=100100225883172&region=92&global=&sub_region=92&prver=0&pronetvd=null&vibid=27520001371133&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 44,
+      "oikTvd": "100100225883741"
     }
   },
   {
@@ -3988,8 +4764,12 @@ export const duma_2021_uik_463_region_92_part_004 = [
     "ballot": "single-member",
     "uikNumber": 807,
     "uikTvd": "4804001222216",
+    "uikName": "УИК №807",
     "tikTvd": "27520001371133",
     "tikName": "Агинская",
+    "regionCode": "92",
+    "regionTvd": "100100225883739",
+    "regionName": "Забайкальский край",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 108,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 127,
@@ -4005,12 +4785,12 @@ export const duma_2021_uik_463_region_92_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Григорьев Юрий Иннокентьевич": 5,
-      "Кулиева Василина Васильевна": 9,
-      "Михайлов Александр Николаевич": 2,
-      "Носов Дмитрий Юрьевич": 5,
-      "Синкевич Александр Иннокентьевич": 1,
-      "Фисун Екатерина Владимировна": 63
+      "27520001377668": 5,
+      "27520001376842": 9,
+      "27520001379333": 2,
+      "27520001377140": 5,
+      "27520001378564": 1,
+      "27520001379613": 63
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/zabkray?action=show&root=1000304&tvd=27520001371133&vrn=100100225883172&region=92&global=&sub_region=92&prver=0&pronetvd=null&vibid=27520001371133&type=464",
@@ -4020,6 +4800,10 @@ export const duma_2021_uik_463_region_92_part_004 = [
       "retrievedAt": "2026-08-26T08:10:28.303460+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/zabkray?action=show&root=1000304&tvd=27520001371133&vrn=100100225883172&region=92&global=&sub_region=92&prver=0&pronetvd=null&vibid=27520001371133&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 44,
+      "oikTvd": "100100225883741"
     }
   },
   {
@@ -4029,8 +4813,12 @@ export const duma_2021_uik_463_region_92_part_004 = [
     "ballot": "single-member",
     "uikNumber": 808,
     "uikTvd": "4804001222217",
+    "uikName": "УИК №808",
     "tikTvd": "27520001371133",
     "tikName": "Агинская",
+    "regionCode": "92",
+    "regionTvd": "100100225883739",
+    "regionName": "Забайкальский край",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 89,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 94,
@@ -4046,12 +4834,12 @@ export const duma_2021_uik_463_region_92_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Григорьев Юрий Иннокентьевич": 10,
-      "Кулиева Василина Васильевна": 8,
-      "Михайлов Александр Николаевич": 0,
-      "Носов Дмитрий Юрьевич": 5,
-      "Синкевич Александр Иннокентьевич": 3,
-      "Фисун Екатерина Владимировна": 49
+      "27520001377668": 10,
+      "27520001376842": 8,
+      "27520001379333": 0,
+      "27520001377140": 5,
+      "27520001378564": 3,
+      "27520001379613": 49
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/zabkray?action=show&root=1000304&tvd=27520001371133&vrn=100100225883172&region=92&global=&sub_region=92&prver=0&pronetvd=null&vibid=27520001371133&type=464",
@@ -4061,6 +4849,10 @@ export const duma_2021_uik_463_region_92_part_004 = [
       "retrievedAt": "2026-08-26T08:10:28.303460+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/zabkray?action=show&root=1000304&tvd=27520001371133&vrn=100100225883172&region=92&global=&sub_region=92&prver=0&pronetvd=null&vibid=27520001371133&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 44,
+      "oikTvd": "100100225883741"
     }
   },
   {
@@ -4070,8 +4862,12 @@ export const duma_2021_uik_463_region_92_part_004 = [
     "ballot": "single-member",
     "uikNumber": 809,
     "uikTvd": "4804001222218",
+    "uikName": "УИК №809",
     "tikTvd": "27520001371133",
     "tikName": "Агинская",
+    "regionCode": "92",
+    "regionTvd": "100100225883739",
+    "regionName": "Забайкальский край",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 737,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 811,
@@ -4087,12 +4883,12 @@ export const duma_2021_uik_463_region_92_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Григорьев Юрий Иннокентьевич": 90,
-      "Кулиева Василина Васильевна": 36,
-      "Михайлов Александр Николаевич": 20,
-      "Носов Дмитрий Юрьевич": 49,
-      "Синкевич Александр Иннокентьевич": 7,
-      "Фисун Екатерина Владимировна": 217
+      "27520001377668": 90,
+      "27520001376842": 36,
+      "27520001379333": 20,
+      "27520001377140": 49,
+      "27520001378564": 7,
+      "27520001379613": 217
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/zabkray?action=show&root=1000304&tvd=27520001371133&vrn=100100225883172&region=92&global=&sub_region=92&prver=0&pronetvd=null&vibid=27520001371133&type=464",
@@ -4102,6 +4898,10 @@ export const duma_2021_uik_463_region_92_part_004 = [
       "retrievedAt": "2026-08-26T08:10:28.303460+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/zabkray?action=show&root=1000304&tvd=27520001371133&vrn=100100225883172&region=92&global=&sub_region=92&prver=0&pronetvd=null&vibid=27520001371133&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 44,
+      "oikTvd": "100100225883741"
     }
   },
   {
@@ -4111,8 +4911,12 @@ export const duma_2021_uik_463_region_92_part_004 = [
     "ballot": "single-member",
     "uikNumber": 810,
     "uikTvd": "4804001222219",
+    "uikName": "УИК №810",
     "tikTvd": "27520001371133",
     "tikName": "Агинская",
+    "regionCode": "92",
+    "regionTvd": "100100225883739",
+    "regionName": "Забайкальский край",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 649,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 693,
@@ -4128,12 +4932,12 @@ export const duma_2021_uik_463_region_92_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Григорьев Юрий Иннокентьевич": 52,
-      "Кулиева Василина Васильевна": 64,
-      "Михайлов Александр Николаевич": 39,
-      "Носов Дмитрий Юрьевич": 37,
-      "Синкевич Александр Иннокентьевич": 8,
-      "Фисун Екатерина Владимировна": 245
+      "27520001377668": 52,
+      "27520001376842": 64,
+      "27520001379333": 39,
+      "27520001377140": 37,
+      "27520001378564": 8,
+      "27520001379613": 245
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/zabkray?action=show&root=1000304&tvd=27520001371133&vrn=100100225883172&region=92&global=&sub_region=92&prver=0&pronetvd=null&vibid=27520001371133&type=464",
@@ -4143,6 +4947,10 @@ export const duma_2021_uik_463_region_92_part_004 = [
       "retrievedAt": "2026-08-26T08:10:28.303460+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/zabkray?action=show&root=1000304&tvd=27520001371133&vrn=100100225883172&region=92&global=&sub_region=92&prver=0&pronetvd=null&vibid=27520001371133&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 44,
+      "oikTvd": "100100225883741"
     }
   },
   {
@@ -4152,8 +4960,12 @@ export const duma_2021_uik_463_region_92_part_004 = [
     "ballot": "single-member",
     "uikNumber": 811,
     "uikTvd": "4804001222220",
+    "uikName": "УИК №811",
     "tikTvd": "27520001371133",
     "tikName": "Агинская",
+    "regionCode": "92",
+    "regionTvd": "100100225883739",
+    "regionName": "Забайкальский край",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 526,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 595,
@@ -4169,12 +4981,12 @@ export const duma_2021_uik_463_region_92_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Григорьев Юрий Иннокентьевич": 74,
-      "Кулиева Василина Васильевна": 26,
-      "Михайлов Александр Николаевич": 21,
-      "Носов Дмитрий Юрьевич": 44,
-      "Синкевич Александр Иннокентьевич": 11,
-      "Фисун Екатерина Владимировна": 199
+      "27520001377668": 74,
+      "27520001376842": 26,
+      "27520001379333": 21,
+      "27520001377140": 44,
+      "27520001378564": 11,
+      "27520001379613": 199
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/zabkray?action=show&root=1000304&tvd=27520001371133&vrn=100100225883172&region=92&global=&sub_region=92&prver=0&pronetvd=null&vibid=27520001371133&type=464",
@@ -4184,6 +4996,10 @@ export const duma_2021_uik_463_region_92_part_004 = [
       "retrievedAt": "2026-08-26T08:10:28.303460+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/zabkray?action=show&root=1000304&tvd=27520001371133&vrn=100100225883172&region=92&global=&sub_region=92&prver=0&pronetvd=null&vibid=27520001371133&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 44,
+      "oikTvd": "100100225883741"
     }
   },
   {
@@ -4193,8 +5009,12 @@ export const duma_2021_uik_463_region_92_part_004 = [
     "ballot": "single-member",
     "uikNumber": 812,
     "uikTvd": "4804001222221",
+    "uikName": "УИК №812",
     "tikTvd": "27520001371133",
     "tikName": "Агинская",
+    "regionCode": "92",
+    "regionTvd": "100100225883739",
+    "regionName": "Забайкальский край",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 469,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 493,
@@ -4210,12 +5030,12 @@ export const duma_2021_uik_463_region_92_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Григорьев Юрий Иннокентьевич": 73,
-      "Кулиева Василина Васильевна": 26,
-      "Михайлов Александр Николаевич": 20,
-      "Носов Дмитрий Юрьевич": 32,
-      "Синкевич Александр Иннокентьевич": 3,
-      "Фисун Екатерина Владимировна": 141
+      "27520001377668": 73,
+      "27520001376842": 26,
+      "27520001379333": 20,
+      "27520001377140": 32,
+      "27520001378564": 3,
+      "27520001379613": 141
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/zabkray?action=show&root=1000304&tvd=27520001371133&vrn=100100225883172&region=92&global=&sub_region=92&prver=0&pronetvd=null&vibid=27520001371133&type=464",
@@ -4225,6 +5045,10 @@ export const duma_2021_uik_463_region_92_part_004 = [
       "retrievedAt": "2026-08-26T08:10:28.303460+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/zabkray?action=show&root=1000304&tvd=27520001371133&vrn=100100225883172&region=92&global=&sub_region=92&prver=0&pronetvd=null&vibid=27520001371133&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 44,
+      "oikTvd": "100100225883741"
     }
   },
   {
@@ -4234,8 +5058,12 @@ export const duma_2021_uik_463_region_92_part_004 = [
     "ballot": "single-member",
     "uikNumber": 813,
     "uikTvd": "4804001222222",
+    "uikName": "УИК №813",
     "tikTvd": "27520001371133",
     "tikName": "Агинская",
+    "regionCode": "92",
+    "regionTvd": "100100225883739",
+    "regionName": "Забайкальский край",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 567,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 605,
@@ -4251,12 +5079,12 @@ export const duma_2021_uik_463_region_92_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Григорьев Юрий Иннокентьевич": 86,
-      "Кулиева Василина Васильевна": 40,
-      "Михайлов Александр Николаевич": 11,
-      "Носов Дмитрий Юрьевич": 41,
-      "Синкевич Александр Иннокентьевич": 8,
-      "Фисун Екатерина Владимировна": 214
+      "27520001377668": 86,
+      "27520001376842": 40,
+      "27520001379333": 11,
+      "27520001377140": 41,
+      "27520001378564": 8,
+      "27520001379613": 214
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/zabkray?action=show&root=1000304&tvd=27520001371133&vrn=100100225883172&region=92&global=&sub_region=92&prver=0&pronetvd=null&vibid=27520001371133&type=464",
@@ -4266,6 +5094,10 @@ export const duma_2021_uik_463_region_92_part_004 = [
       "retrievedAt": "2026-08-26T08:10:28.303460+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/zabkray?action=show&root=1000304&tvd=27520001371133&vrn=100100225883172&region=92&global=&sub_region=92&prver=0&pronetvd=null&vibid=27520001371133&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 44,
+      "oikTvd": "100100225883741"
     }
   },
   {
@@ -4275,8 +5107,12 @@ export const duma_2021_uik_463_region_92_part_004 = [
     "ballot": "single-member",
     "uikNumber": 814,
     "uikTvd": "4804001222223",
+    "uikName": "УИК №814",
     "tikTvd": "27520001371133",
     "tikName": "Агинская",
+    "regionCode": "92",
+    "regionTvd": "100100225883739",
+    "regionName": "Забайкальский край",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 652,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 669,
@@ -4292,12 +5128,12 @@ export const duma_2021_uik_463_region_92_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Григорьев Юрий Иннокентьевич": 31,
-      "Кулиева Василина Васильевна": 45,
-      "Михайлов Александр Николаевич": 18,
-      "Носов Дмитрий Юрьевич": 46,
-      "Синкевич Александр Иннокентьевич": 2,
-      "Фисун Екатерина Владимировна": 97
+      "27520001377668": 31,
+      "27520001376842": 45,
+      "27520001379333": 18,
+      "27520001377140": 46,
+      "27520001378564": 2,
+      "27520001379613": 97
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/zabkray?action=show&root=1000304&tvd=27520001371133&vrn=100100225883172&region=92&global=&sub_region=92&prver=0&pronetvd=null&vibid=27520001371133&type=464",
@@ -4307,6 +5143,10 @@ export const duma_2021_uik_463_region_92_part_004 = [
       "retrievedAt": "2026-08-26T08:10:28.303460+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/zabkray?action=show&root=1000304&tvd=27520001371133&vrn=100100225883172&region=92&global=&sub_region=92&prver=0&pronetvd=null&vibid=27520001371133&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 44,
+      "oikTvd": "100100225883741"
     }
   },
   {
@@ -4316,8 +5156,12 @@ export const duma_2021_uik_463_region_92_part_004 = [
     "ballot": "single-member",
     "uikNumber": 815,
     "uikTvd": "4804001222224",
+    "uikName": "УИК №815",
     "tikTvd": "27520001371133",
     "tikName": "Агинская",
+    "regionCode": "92",
+    "regionTvd": "100100225883739",
+    "regionName": "Забайкальский край",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 314,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 340,
@@ -4333,12 +5177,12 @@ export const duma_2021_uik_463_region_92_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Григорьев Юрий Иннокентьевич": 25,
-      "Кулиева Василина Васильевна": 18,
-      "Михайлов Александр Николаевич": 14,
-      "Носов Дмитрий Юрьевич": 30,
-      "Синкевич Александр Иннокентьевич": 1,
-      "Фисун Екатерина Владимировна": 68
+      "27520001377668": 25,
+      "27520001376842": 18,
+      "27520001379333": 14,
+      "27520001377140": 30,
+      "27520001378564": 1,
+      "27520001379613": 68
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/zabkray?action=show&root=1000304&tvd=27520001371133&vrn=100100225883172&region=92&global=&sub_region=92&prver=0&pronetvd=null&vibid=27520001371133&type=464",
@@ -4348,6 +5192,10 @@ export const duma_2021_uik_463_region_92_part_004 = [
       "retrievedAt": "2026-08-26T08:10:28.303460+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/zabkray?action=show&root=1000304&tvd=27520001371133&vrn=100100225883172&region=92&global=&sub_region=92&prver=0&pronetvd=null&vibid=27520001371133&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 44,
+      "oikTvd": "100100225883741"
     }
   },
   {
@@ -4357,8 +5205,12 @@ export const duma_2021_uik_463_region_92_part_004 = [
     "ballot": "single-member",
     "uikNumber": 816,
     "uikTvd": "4804001222225",
+    "uikName": "УИК №816",
     "tikTvd": "27520001371133",
     "tikName": "Агинская",
+    "regionCode": "92",
+    "regionTvd": "100100225883739",
+    "regionName": "Забайкальский край",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 358,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 368,
@@ -4374,12 +5226,12 @@ export const duma_2021_uik_463_region_92_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Григорьев Юрий Иннокентьевич": 24,
-      "Кулиева Василина Васильевна": 39,
-      "Михайлов Александр Николаевич": 11,
-      "Носов Дмитрий Юрьевич": 28,
-      "Синкевич Александр Иннокентьевич": 1,
-      "Фисун Екатерина Владимировна": 29
+      "27520001377668": 24,
+      "27520001376842": 39,
+      "27520001379333": 11,
+      "27520001377140": 28,
+      "27520001378564": 1,
+      "27520001379613": 29
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/zabkray?action=show&root=1000304&tvd=27520001371133&vrn=100100225883172&region=92&global=&sub_region=92&prver=0&pronetvd=null&vibid=27520001371133&type=464",
@@ -4389,6 +5241,10 @@ export const duma_2021_uik_463_region_92_part_004 = [
       "retrievedAt": "2026-08-26T08:10:28.303460+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/zabkray?action=show&root=1000304&tvd=27520001371133&vrn=100100225883172&region=92&global=&sub_region=92&prver=0&pronetvd=null&vibid=27520001371133&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 44,
+      "oikTvd": "100100225883741"
     }
   },
   {
@@ -4398,8 +5254,12 @@ export const duma_2021_uik_463_region_92_part_004 = [
     "ballot": "single-member",
     "uikNumber": 817,
     "uikTvd": "4804001222226",
+    "uikName": "УИК №817",
     "tikTvd": "27520001371133",
     "tikName": "Агинская",
+    "regionCode": "92",
+    "regionTvd": "100100225883739",
+    "regionName": "Забайкальский край",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 2135,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 2193,
@@ -4415,12 +5275,12 @@ export const duma_2021_uik_463_region_92_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Григорьев Юрий Иннокентьевич": 189,
-      "Кулиева Василина Васильевна": 128,
-      "Михайлов Александр Николаевич": 77,
-      "Носов Дмитрий Юрьевич": 192,
-      "Синкевич Александр Иннокентьевич": 22,
-      "Фисун Екатерина Владимировна": 153
+      "27520001377668": 189,
+      "27520001376842": 128,
+      "27520001379333": 77,
+      "27520001377140": 192,
+      "27520001378564": 22,
+      "27520001379613": 153
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/zabkray?action=show&root=1000304&tvd=27520001371133&vrn=100100225883172&region=92&global=&sub_region=92&prver=0&pronetvd=null&vibid=27520001371133&type=464",
@@ -4430,6 +5290,10 @@ export const duma_2021_uik_463_region_92_part_004 = [
       "retrievedAt": "2026-08-26T08:10:28.303460+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/zabkray?action=show&root=1000304&tvd=27520001371133&vrn=100100225883172&region=92&global=&sub_region=92&prver=0&pronetvd=null&vibid=27520001371133&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 44,
+      "oikTvd": "100100225883741"
     }
   },
   {
@@ -4439,8 +5303,12 @@ export const duma_2021_uik_463_region_92_part_004 = [
     "ballot": "single-member",
     "uikNumber": 701,
     "uikTvd": "4754036172213",
+    "uikName": "УИК №701",
     "tikTvd": "27520001371134",
     "tikName": "Петровск-Забайкальская городская",
+    "regionCode": "92",
+    "regionTvd": "100100225883739",
+    "regionName": "Забайкальский край",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 596,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 590,
@@ -4456,12 +5324,12 @@ export const duma_2021_uik_463_region_92_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Григорьев Юрий Иннокентьевич": 123,
-      "Кулиева Василина Васильевна": 54,
-      "Михайлов Александр Николаевич": 20,
-      "Носов Дмитрий Юрьевич": 62,
-      "Синкевич Александр Иннокентьевич": 11,
-      "Фисун Екатерина Владимировна": 64
+      "27520001377668": 123,
+      "27520001376842": 54,
+      "27520001379333": 20,
+      "27520001377140": 62,
+      "27520001378564": 11,
+      "27520001379613": 64
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/zabkray?action=show&root=1000304&tvd=27520001371134&vrn=100100225883172&region=92&global=&sub_region=92&prver=0&pronetvd=null&vibid=27520001371134&type=464",
@@ -4471,6 +5339,10 @@ export const duma_2021_uik_463_region_92_part_004 = [
       "retrievedAt": "2026-08-26T08:10:28.671095+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/zabkray?action=show&root=1000304&tvd=27520001371134&vrn=100100225883172&region=92&global=&sub_region=92&prver=0&pronetvd=null&vibid=27520001371134&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 44,
+      "oikTvd": "100100225883741"
     }
   },
   {
@@ -4480,8 +5352,12 @@ export const duma_2021_uik_463_region_92_part_004 = [
     "ballot": "single-member",
     "uikNumber": 702,
     "uikTvd": "4754036172214",
+    "uikName": "УИК №702",
     "tikTvd": "27520001371134",
     "tikName": "Петровск-Забайкальская городская",
+    "regionCode": "92",
+    "regionTvd": "100100225883739",
+    "regionName": "Забайкальский край",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 373,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 380,
@@ -4497,12 +5373,12 @@ export const duma_2021_uik_463_region_92_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Григорьев Юрий Иннокентьевич": 43,
-      "Кулиева Василина Васильевна": 24,
-      "Михайлов Александр Николаевич": 15,
-      "Носов Дмитрий Юрьевич": 25,
-      "Синкевич Александр Иннокентьевич": 3,
-      "Фисун Екатерина Владимировна": 29
+      "27520001377668": 43,
+      "27520001376842": 24,
+      "27520001379333": 15,
+      "27520001377140": 25,
+      "27520001378564": 3,
+      "27520001379613": 29
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/zabkray?action=show&root=1000304&tvd=27520001371134&vrn=100100225883172&region=92&global=&sub_region=92&prver=0&pronetvd=null&vibid=27520001371134&type=464",
@@ -4512,6 +5388,10 @@ export const duma_2021_uik_463_region_92_part_004 = [
       "retrievedAt": "2026-08-26T08:10:28.671095+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/zabkray?action=show&root=1000304&tvd=27520001371134&vrn=100100225883172&region=92&global=&sub_region=92&prver=0&pronetvd=null&vibid=27520001371134&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 44,
+      "oikTvd": "100100225883741"
     }
   },
   {
@@ -4521,8 +5401,12 @@ export const duma_2021_uik_463_region_92_part_004 = [
     "ballot": "single-member",
     "uikNumber": 703,
     "uikTvd": "4754036172215",
+    "uikName": "УИК №703",
     "tikTvd": "27520001371134",
     "tikName": "Петровск-Забайкальская городская",
+    "regionCode": "92",
+    "regionTvd": "100100225883739",
+    "regionName": "Забайкальский край",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 328,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 335,
@@ -4538,12 +5422,12 @@ export const duma_2021_uik_463_region_92_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Григорьев Юрий Иннокентьевич": 88,
-      "Кулиева Василина Васильевна": 30,
-      "Михайлов Александр Николаевич": 8,
-      "Носов Дмитрий Юрьевич": 30,
-      "Синкевич Александр Иннокентьевич": 3,
-      "Фисун Екатерина Владимировна": 42
+      "27520001377668": 88,
+      "27520001376842": 30,
+      "27520001379333": 8,
+      "27520001377140": 30,
+      "27520001378564": 3,
+      "27520001379613": 42
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/zabkray?action=show&root=1000304&tvd=27520001371134&vrn=100100225883172&region=92&global=&sub_region=92&prver=0&pronetvd=null&vibid=27520001371134&type=464",
@@ -4553,6 +5437,10 @@ export const duma_2021_uik_463_region_92_part_004 = [
       "retrievedAt": "2026-08-26T08:10:28.671095+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/zabkray?action=show&root=1000304&tvd=27520001371134&vrn=100100225883172&region=92&global=&sub_region=92&prver=0&pronetvd=null&vibid=27520001371134&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 44,
+      "oikTvd": "100100225883741"
     }
   },
   {
@@ -4562,8 +5450,12 @@ export const duma_2021_uik_463_region_92_part_004 = [
     "ballot": "single-member",
     "uikNumber": 704,
     "uikTvd": "4754036172216",
+    "uikName": "УИК №704",
     "tikTvd": "27520001371134",
     "tikName": "Петровск-Забайкальская городская",
+    "regionCode": "92",
+    "regionTvd": "100100225883739",
+    "regionName": "Забайкальский край",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 306,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 310,
@@ -4579,12 +5471,12 @@ export const duma_2021_uik_463_region_92_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Григорьев Юрий Иннокентьевич": 34,
-      "Кулиева Василина Васильевна": 12,
-      "Михайлов Александр Николаевич": 16,
-      "Носов Дмитрий Юрьевич": 21,
-      "Синкевич Александр Иннокентьевич": 0,
-      "Фисун Екатерина Владимировна": 25
+      "27520001377668": 34,
+      "27520001376842": 12,
+      "27520001379333": 16,
+      "27520001377140": 21,
+      "27520001378564": 0,
+      "27520001379613": 25
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/zabkray?action=show&root=1000304&tvd=27520001371134&vrn=100100225883172&region=92&global=&sub_region=92&prver=0&pronetvd=null&vibid=27520001371134&type=464",
@@ -4594,6 +5486,10 @@ export const duma_2021_uik_463_region_92_part_004 = [
       "retrievedAt": "2026-08-26T08:10:28.671095+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/zabkray?action=show&root=1000304&tvd=27520001371134&vrn=100100225883172&region=92&global=&sub_region=92&prver=0&pronetvd=null&vibid=27520001371134&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 44,
+      "oikTvd": "100100225883741"
     }
   },
   {
@@ -4603,8 +5499,12 @@ export const duma_2021_uik_463_region_92_part_004 = [
     "ballot": "single-member",
     "uikNumber": 705,
     "uikTvd": "4754036172217",
+    "uikName": "УИК №705",
     "tikTvd": "27520001371134",
     "tikName": "Петровск-Забайкальская городская",
+    "regionCode": "92",
+    "regionTvd": "100100225883739",
+    "regionName": "Забайкальский край",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 1297,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 1345,
@@ -4620,12 +5520,12 @@ export const duma_2021_uik_463_region_92_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Григорьев Юрий Иннокентьевич": 176,
-      "Кулиева Василина Васильевна": 69,
-      "Михайлов Александр Николаевич": 42,
-      "Носов Дмитрий Юрьевич": 96,
-      "Синкевич Александр Иннокентьевич": 21,
-      "Фисун Екатерина Владимировна": 97
+      "27520001377668": 176,
+      "27520001376842": 69,
+      "27520001379333": 42,
+      "27520001377140": 96,
+      "27520001378564": 21,
+      "27520001379613": 97
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/zabkray?action=show&root=1000304&tvd=27520001371134&vrn=100100225883172&region=92&global=&sub_region=92&prver=0&pronetvd=null&vibid=27520001371134&type=464",
@@ -4635,6 +5535,10 @@ export const duma_2021_uik_463_region_92_part_004 = [
       "retrievedAt": "2026-08-26T08:10:28.671095+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/zabkray?action=show&root=1000304&tvd=27520001371134&vrn=100100225883172&region=92&global=&sub_region=92&prver=0&pronetvd=null&vibid=27520001371134&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 44,
+      "oikTvd": "100100225883741"
     }
   },
   {
@@ -4644,8 +5548,12 @@ export const duma_2021_uik_463_region_92_part_004 = [
     "ballot": "single-member",
     "uikNumber": 706,
     "uikTvd": "4754036172218",
+    "uikName": "УИК №706",
     "tikTvd": "27520001371134",
     "tikName": "Петровск-Забайкальская городская",
+    "regionCode": "92",
+    "regionTvd": "100100225883739",
+    "regionName": "Забайкальский край",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 923,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 955,
@@ -4661,12 +5569,12 @@ export const duma_2021_uik_463_region_92_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Григорьев Юрий Иннокентьевич": 131,
-      "Кулиева Василина Васильевна": 38,
-      "Михайлов Александр Николаевич": 23,
-      "Носов Дмитрий Юрьевич": 65,
-      "Синкевич Александр Иннокентьевич": 10,
-      "Фисун Екатерина Владимировна": 58
+      "27520001377668": 131,
+      "27520001376842": 38,
+      "27520001379333": 23,
+      "27520001377140": 65,
+      "27520001378564": 10,
+      "27520001379613": 58
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/zabkray?action=show&root=1000304&tvd=27520001371134&vrn=100100225883172&region=92&global=&sub_region=92&prver=0&pronetvd=null&vibid=27520001371134&type=464",
@@ -4676,6 +5584,10 @@ export const duma_2021_uik_463_region_92_part_004 = [
       "retrievedAt": "2026-08-26T08:10:28.671095+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/zabkray?action=show&root=1000304&tvd=27520001371134&vrn=100100225883172&region=92&global=&sub_region=92&prver=0&pronetvd=null&vibid=27520001371134&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 44,
+      "oikTvd": "100100225883741"
     }
   },
   {
@@ -4685,8 +5597,12 @@ export const duma_2021_uik_463_region_92_part_004 = [
     "ballot": "single-member",
     "uikNumber": 707,
     "uikTvd": "4754036172219",
+    "uikName": "УИК №707",
     "tikTvd": "27520001371134",
     "tikName": "Петровск-Забайкальская городская",
+    "regionCode": "92",
+    "regionTvd": "100100225883739",
+    "regionName": "Забайкальский край",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 540,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 560,
@@ -4702,12 +5618,12 @@ export const duma_2021_uik_463_region_92_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Григорьев Юрий Иннокентьевич": 56,
-      "Кулиева Василина Васильевна": 26,
-      "Михайлов Александр Николаевич": 18,
-      "Носов Дмитрий Юрьевич": 45,
-      "Синкевич Александр Иннокентьевич": 9,
-      "Фисун Екатерина Владимировна": 82
+      "27520001377668": 56,
+      "27520001376842": 26,
+      "27520001379333": 18,
+      "27520001377140": 45,
+      "27520001378564": 9,
+      "27520001379613": 82
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/zabkray?action=show&root=1000304&tvd=27520001371134&vrn=100100225883172&region=92&global=&sub_region=92&prver=0&pronetvd=null&vibid=27520001371134&type=464",
@@ -4717,6 +5633,10 @@ export const duma_2021_uik_463_region_92_part_004 = [
       "retrievedAt": "2026-08-26T08:10:28.671095+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/zabkray?action=show&root=1000304&tvd=27520001371134&vrn=100100225883172&region=92&global=&sub_region=92&prver=0&pronetvd=null&vibid=27520001371134&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 44,
+      "oikTvd": "100100225883741"
     }
   },
   {
@@ -4726,8 +5646,12 @@ export const duma_2021_uik_463_region_92_part_004 = [
     "ballot": "single-member",
     "uikNumber": 708,
     "uikTvd": "4754036172220",
+    "uikName": "УИК №708",
     "tikTvd": "27520001371134",
     "tikName": "Петровск-Забайкальская городская",
+    "regionCode": "92",
+    "regionTvd": "100100225883739",
+    "regionName": "Забайкальский край",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 553,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 570,
@@ -4743,12 +5667,12 @@ export const duma_2021_uik_463_region_92_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Григорьев Юрий Иннокентьевич": 62,
-      "Кулиева Василина Васильевна": 33,
-      "Михайлов Александр Николаевич": 18,
-      "Носов Дмитрий Юрьевич": 59,
-      "Синкевич Александр Иннокентьевич": 11,
-      "Фисун Екатерина Владимировна": 25
+      "27520001377668": 62,
+      "27520001376842": 33,
+      "27520001379333": 18,
+      "27520001377140": 59,
+      "27520001378564": 11,
+      "27520001379613": 25
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/zabkray?action=show&root=1000304&tvd=27520001371134&vrn=100100225883172&region=92&global=&sub_region=92&prver=0&pronetvd=null&vibid=27520001371134&type=464",
@@ -4758,6 +5682,10 @@ export const duma_2021_uik_463_region_92_part_004 = [
       "retrievedAt": "2026-08-26T08:10:28.671095+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/zabkray?action=show&root=1000304&tvd=27520001371134&vrn=100100225883172&region=92&global=&sub_region=92&prver=0&pronetvd=null&vibid=27520001371134&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 44,
+      "oikTvd": "100100225883741"
     }
   },
   {
@@ -4767,8 +5695,12 @@ export const duma_2021_uik_463_region_92_part_004 = [
     "ballot": "single-member",
     "uikNumber": 709,
     "uikTvd": "4754036172221",
+    "uikName": "УИК №709",
     "tikTvd": "27520001371134",
     "tikName": "Петровск-Забайкальская городская",
+    "regionCode": "92",
+    "regionTvd": "100100225883739",
+    "regionName": "Забайкальский край",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 694,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 720,
@@ -4784,12 +5716,12 @@ export const duma_2021_uik_463_region_92_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Григорьев Юрий Иннокентьевич": 107,
-      "Кулиева Василина Васильевна": 45,
-      "Михайлов Александр Николаевич": 29,
-      "Носов Дмитрий Юрьевич": 69,
-      "Синкевич Александр Иннокентьевич": 9,
-      "Фисун Екатерина Владимировна": 44
+      "27520001377668": 107,
+      "27520001376842": 45,
+      "27520001379333": 29,
+      "27520001377140": 69,
+      "27520001378564": 9,
+      "27520001379613": 44
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/zabkray?action=show&root=1000304&tvd=27520001371134&vrn=100100225883172&region=92&global=&sub_region=92&prver=0&pronetvd=null&vibid=27520001371134&type=464",
@@ -4799,6 +5731,10 @@ export const duma_2021_uik_463_region_92_part_004 = [
       "retrievedAt": "2026-08-26T08:10:28.671095+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/zabkray?action=show&root=1000304&tvd=27520001371134&vrn=100100225883172&region=92&global=&sub_region=92&prver=0&pronetvd=null&vibid=27520001371134&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 44,
+      "oikTvd": "100100225883741"
     }
   },
   {
@@ -4808,8 +5744,12 @@ export const duma_2021_uik_463_region_92_part_004 = [
     "ballot": "single-member",
     "uikNumber": 710,
     "uikTvd": "4754036172222",
+    "uikName": "УИК №710",
     "tikTvd": "27520001371134",
     "tikName": "Петровск-Забайкальская городская",
+    "regionCode": "92",
+    "regionTvd": "100100225883739",
+    "regionName": "Забайкальский край",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 721,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 750,
@@ -4825,12 +5765,12 @@ export const duma_2021_uik_463_region_92_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Григорьев Юрий Иннокентьевич": 94,
-      "Кулиева Василина Васильевна": 31,
-      "Михайлов Александр Николаевич": 38,
-      "Носов Дмитрий Юрьевич": 86,
-      "Синкевич Александр Иннокентьевич": 26,
-      "Фисун Екатерина Владимировна": 42
+      "27520001377668": 94,
+      "27520001376842": 31,
+      "27520001379333": 38,
+      "27520001377140": 86,
+      "27520001378564": 26,
+      "27520001379613": 42
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/zabkray?action=show&root=1000304&tvd=27520001371134&vrn=100100225883172&region=92&global=&sub_region=92&prver=0&pronetvd=null&vibid=27520001371134&type=464",
@@ -4840,6 +5780,10 @@ export const duma_2021_uik_463_region_92_part_004 = [
       "retrievedAt": "2026-08-26T08:10:28.671095+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/zabkray?action=show&root=1000304&tvd=27520001371134&vrn=100100225883172&region=92&global=&sub_region=92&prver=0&pronetvd=null&vibid=27520001371134&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 44,
+      "oikTvd": "100100225883741"
     }
   },
   {
@@ -4849,8 +5793,12 @@ export const duma_2021_uik_463_region_92_part_004 = [
     "ballot": "single-member",
     "uikNumber": 711,
     "uikTvd": "4754036172223",
+    "uikName": "УИК №711",
     "tikTvd": "27520001371134",
     "tikName": "Петровск-Забайкальская городская",
+    "regionCode": "92",
+    "regionTvd": "100100225883739",
+    "regionName": "Забайкальский край",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 789,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 780,
@@ -4866,12 +5814,12 @@ export const duma_2021_uik_463_region_92_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Григорьев Юрий Иннокентьевич": 90,
-      "Кулиева Василина Васильевна": 38,
-      "Михайлов Александр Николаевич": 27,
-      "Носов Дмитрий Юрьевич": 63,
-      "Синкевич Александр Иннокентьевич": 8,
-      "Фисун Екатерина Владимировна": 35
+      "27520001377668": 90,
+      "27520001376842": 38,
+      "27520001379333": 27,
+      "27520001377140": 63,
+      "27520001378564": 8,
+      "27520001379613": 35
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/zabkray?action=show&root=1000304&tvd=27520001371134&vrn=100100225883172&region=92&global=&sub_region=92&prver=0&pronetvd=null&vibid=27520001371134&type=464",
@@ -4881,6 +5829,10 @@ export const duma_2021_uik_463_region_92_part_004 = [
       "retrievedAt": "2026-08-26T08:10:28.671095+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/zabkray?action=show&root=1000304&tvd=27520001371134&vrn=100100225883172&region=92&global=&sub_region=92&prver=0&pronetvd=null&vibid=27520001371134&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 44,
+      "oikTvd": "100100225883741"
     }
   },
   {
@@ -4890,8 +5842,12 @@ export const duma_2021_uik_463_region_92_part_004 = [
     "ballot": "single-member",
     "uikNumber": 712,
     "uikTvd": "4754036172224",
+    "uikName": "УИК №712",
     "tikTvd": "27520001371134",
     "tikName": "Петровск-Забайкальская городская",
+    "regionCode": "92",
+    "regionTvd": "100100225883739",
+    "regionName": "Забайкальский край",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 680,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 700,
@@ -4907,12 +5863,12 @@ export const duma_2021_uik_463_region_92_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Григорьев Юрий Иннокентьевич": 71,
-      "Кулиева Василина Васильевна": 42,
-      "Михайлов Александр Николаевич": 29,
-      "Носов Дмитрий Юрьевич": 64,
-      "Синкевич Александр Иннокентьевич": 14,
-      "Фисун Екатерина Владимировна": 45
+      "27520001377668": 71,
+      "27520001376842": 42,
+      "27520001379333": 29,
+      "27520001377140": 64,
+      "27520001378564": 14,
+      "27520001379613": 45
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/zabkray?action=show&root=1000304&tvd=27520001371134&vrn=100100225883172&region=92&global=&sub_region=92&prver=0&pronetvd=null&vibid=27520001371134&type=464",
@@ -4922,6 +5878,10 @@ export const duma_2021_uik_463_region_92_part_004 = [
       "retrievedAt": "2026-08-26T08:10:28.671095+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/zabkray?action=show&root=1000304&tvd=27520001371134&vrn=100100225883172&region=92&global=&sub_region=92&prver=0&pronetvd=null&vibid=27520001371134&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 44,
+      "oikTvd": "100100225883741"
     }
   },
   {
@@ -4931,8 +5891,12 @@ export const duma_2021_uik_463_region_92_part_004 = [
     "ballot": "single-member",
     "uikNumber": 713,
     "uikTvd": "4754036172225",
+    "uikName": "УИК №713",
     "tikTvd": "27520001371134",
     "tikName": "Петровск-Забайкальская городская",
+    "regionCode": "92",
+    "regionTvd": "100100225883739",
+    "regionName": "Забайкальский край",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 1092,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 920,
@@ -4948,12 +5912,12 @@ export const duma_2021_uik_463_region_92_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Григорьев Юрий Иннокентьевич": 136,
-      "Кулиева Василина Васильевна": 78,
-      "Михайлов Александр Николаевич": 51,
-      "Носов Дмитрий Юрьевич": 75,
-      "Синкевич Александр Иннокентьевич": 9,
-      "Фисун Екатерина Владимировна": 45
+      "27520001377668": 136,
+      "27520001376842": 78,
+      "27520001379333": 51,
+      "27520001377140": 75,
+      "27520001378564": 9,
+      "27520001379613": 45
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/zabkray?action=show&root=1000304&tvd=27520001371134&vrn=100100225883172&region=92&global=&sub_region=92&prver=0&pronetvd=null&vibid=27520001371134&type=464",
@@ -4963,6 +5927,10 @@ export const duma_2021_uik_463_region_92_part_004 = [
       "retrievedAt": "2026-08-26T08:10:28.671095+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/zabkray?action=show&root=1000304&tvd=27520001371134&vrn=100100225883172&region=92&global=&sub_region=92&prver=0&pronetvd=null&vibid=27520001371134&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 44,
+      "oikTvd": "100100225883741"
     }
   },
   {
@@ -4972,8 +5940,12 @@ export const duma_2021_uik_463_region_92_part_004 = [
     "ballot": "single-member",
     "uikNumber": 714,
     "uikTvd": "4754036172226",
+    "uikName": "УИК №714",
     "tikTvd": "27520001371134",
     "tikName": "Петровск-Забайкальская городская",
+    "regionCode": "92",
+    "regionTvd": "100100225883739",
+    "regionName": "Забайкальский край",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 200,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 225,
@@ -4989,12 +5961,12 @@ export const duma_2021_uik_463_region_92_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Григорьев Юрий Иннокентьевич": 34,
-      "Кулиева Василина Васильевна": 8,
-      "Михайлов Александр Николаевич": 10,
-      "Носов Дмитрий Юрьевич": 19,
-      "Синкевич Александр Иннокентьевич": 5,
-      "Фисун Екатерина Владимировна": 18
+      "27520001377668": 34,
+      "27520001376842": 8,
+      "27520001379333": 10,
+      "27520001377140": 19,
+      "27520001378564": 5,
+      "27520001379613": 18
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/zabkray?action=show&root=1000304&tvd=27520001371134&vrn=100100225883172&region=92&global=&sub_region=92&prver=0&pronetvd=null&vibid=27520001371134&type=464",
@@ -5004,6 +5976,10 @@ export const duma_2021_uik_463_region_92_part_004 = [
       "retrievedAt": "2026-08-26T08:10:28.671095+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/zabkray?action=show&root=1000304&tvd=27520001371134&vrn=100100225883172&region=92&global=&sub_region=92&prver=0&pronetvd=null&vibid=27520001371134&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 44,
+      "oikTvd": "100100225883741"
     }
   },
   {
@@ -5013,8 +5989,12 @@ export const duma_2021_uik_463_region_92_part_004 = [
     "ballot": "single-member",
     "uikNumber": 715,
     "uikTvd": "4754036172227",
+    "uikName": "УИК №715",
     "tikTvd": "27520001371134",
     "tikName": "Петровск-Забайкальская городская",
+    "regionCode": "92",
+    "regionTvd": "100100225883739",
+    "regionName": "Забайкальский край",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 506,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 520,
@@ -5030,12 +6010,12 @@ export const duma_2021_uik_463_region_92_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Григорьев Юрий Иннокентьевич": 85,
-      "Кулиева Василина Васильевна": 30,
-      "Михайлов Александр Николаевич": 13,
-      "Носов Дмитрий Юрьевич": 41,
-      "Синкевич Александр Иннокентьевич": 5,
-      "Фисун Екатерина Владимировна": 21
+      "27520001377668": 85,
+      "27520001376842": 30,
+      "27520001379333": 13,
+      "27520001377140": 41,
+      "27520001378564": 5,
+      "27520001379613": 21
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/zabkray?action=show&root=1000304&tvd=27520001371134&vrn=100100225883172&region=92&global=&sub_region=92&prver=0&pronetvd=null&vibid=27520001371134&type=464",
@@ -5045,6 +6025,10 @@ export const duma_2021_uik_463_region_92_part_004 = [
       "retrievedAt": "2026-08-26T08:10:28.671095+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/zabkray?action=show&root=1000304&tvd=27520001371134&vrn=100100225883172&region=92&global=&sub_region=92&prver=0&pronetvd=null&vibid=27520001371134&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 44,
+      "oikTvd": "100100225883741"
     }
   },
   {
@@ -5054,8 +6038,12 @@ export const duma_2021_uik_463_region_92_part_004 = [
     "ballot": "single-member",
     "uikNumber": 716,
     "uikTvd": "4754036172228",
+    "uikName": "УИК №716",
     "tikTvd": "27520001371134",
     "tikName": "Петровск-Забайкальская городская",
+    "regionCode": "92",
+    "regionTvd": "100100225883739",
+    "regionName": "Забайкальский край",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 783,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 730,
@@ -5071,12 +6059,12 @@ export const duma_2021_uik_463_region_92_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Григорьев Юрий Иннокентьевич": 138,
-      "Кулиева Василина Васильевна": 43,
-      "Михайлов Александр Николаевич": 27,
-      "Носов Дмитрий Юрьевич": 75,
-      "Синкевич Александр Иннокентьевич": 14,
-      "Фисун Екатерина Владимировна": 41
+      "27520001377668": 138,
+      "27520001376842": 43,
+      "27520001379333": 27,
+      "27520001377140": 75,
+      "27520001378564": 14,
+      "27520001379613": 41
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/zabkray?action=show&root=1000304&tvd=27520001371134&vrn=100100225883172&region=92&global=&sub_region=92&prver=0&pronetvd=null&vibid=27520001371134&type=464",
@@ -5086,6 +6074,10 @@ export const duma_2021_uik_463_region_92_part_004 = [
       "retrievedAt": "2026-08-26T08:10:28.671095+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/zabkray?action=show&root=1000304&tvd=27520001371134&vrn=100100225883172&region=92&global=&sub_region=92&prver=0&pronetvd=null&vibid=27520001371134&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 44,
+      "oikTvd": "100100225883741"
     }
   },
   {
@@ -5095,8 +6087,12 @@ export const duma_2021_uik_463_region_92_part_004 = [
     "ballot": "single-member",
     "uikNumber": 717,
     "uikTvd": "4754036172229",
+    "uikName": "УИК №717",
     "tikTvd": "27520001371134",
     "tikName": "Петровск-Забайкальская городская",
+    "regionCode": "92",
+    "regionTvd": "100100225883739",
+    "regionName": "Забайкальский край",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 471,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 495,
@@ -5112,12 +6108,12 @@ export const duma_2021_uik_463_region_92_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Григорьев Юрий Иннокентьевич": 48,
-      "Кулиева Василина Васильевна": 35,
-      "Михайлов Александр Николаевич": 14,
-      "Носов Дмитрий Юрьевич": 21,
-      "Синкевич Александр Иннокентьевич": 7,
-      "Фисун Екатерина Владимировна": 19
+      "27520001377668": 48,
+      "27520001376842": 35,
+      "27520001379333": 14,
+      "27520001377140": 21,
+      "27520001378564": 7,
+      "27520001379613": 19
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/zabkray?action=show&root=1000304&tvd=27520001371134&vrn=100100225883172&region=92&global=&sub_region=92&prver=0&pronetvd=null&vibid=27520001371134&type=464",
@@ -5127,6 +6123,10 @@ export const duma_2021_uik_463_region_92_part_004 = [
       "retrievedAt": "2026-08-26T08:10:28.671095+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/zabkray?action=show&root=1000304&tvd=27520001371134&vrn=100100225883172&region=92&global=&sub_region=92&prver=0&pronetvd=null&vibid=27520001371134&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 44,
+      "oikTvd": "100100225883741"
     }
   },
   {
@@ -5136,8 +6136,12 @@ export const duma_2021_uik_463_region_92_part_004 = [
     "ballot": "single-member",
     "uikNumber": 718,
     "uikTvd": "4754036172230",
+    "uikName": "УИК №718",
     "tikTvd": "27520001371134",
     "tikName": "Петровск-Забайкальская городская",
+    "regionCode": "92",
+    "regionTvd": "100100225883739",
+    "regionName": "Забайкальский край",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 653,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 660,
@@ -5153,12 +6157,12 @@ export const duma_2021_uik_463_region_92_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Григорьев Юрий Иннокентьевич": 64,
-      "Кулиева Василина Васильевна": 36,
-      "Михайлов Александр Николаевич": 10,
-      "Носов Дмитрий Юрьевич": 46,
-      "Синкевич Александр Иннокентьевич": 4,
-      "Фисун Екатерина Владимировна": 36
+      "27520001377668": 64,
+      "27520001376842": 36,
+      "27520001379333": 10,
+      "27520001377140": 46,
+      "27520001378564": 4,
+      "27520001379613": 36
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/zabkray?action=show&root=1000304&tvd=27520001371134&vrn=100100225883172&region=92&global=&sub_region=92&prver=0&pronetvd=null&vibid=27520001371134&type=464",
@@ -5168,6 +6172,10 @@ export const duma_2021_uik_463_region_92_part_004 = [
       "retrievedAt": "2026-08-26T08:10:28.671095+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/zabkray?action=show&root=1000304&tvd=27520001371134&vrn=100100225883172&region=92&global=&sub_region=92&prver=0&pronetvd=null&vibid=27520001371134&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 44,
+      "oikTvd": "100100225883741"
     }
   },
   {
@@ -5177,8 +6185,12 @@ export const duma_2021_uik_463_region_92_part_004 = [
     "ballot": "single-member",
     "uikNumber": 719,
     "uikTvd": "4754036172231",
+    "uikName": "УИК №719",
     "tikTvd": "27520001371134",
     "tikName": "Петровск-Забайкальская городская",
+    "regionCode": "92",
+    "regionTvd": "100100225883739",
+    "regionName": "Забайкальский край",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 401,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 420,
@@ -5194,12 +6206,12 @@ export const duma_2021_uik_463_region_92_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Григорьев Юрий Иннокентьевич": 92,
-      "Кулиева Василина Васильевна": 21,
-      "Михайлов Александр Николаевич": 13,
-      "Носов Дмитрий Юрьевич": 25,
-      "Синкевич Александр Иннокентьевич": 10,
-      "Фисун Екатерина Владимировна": 29
+      "27520001377668": 92,
+      "27520001376842": 21,
+      "27520001379333": 13,
+      "27520001377140": 25,
+      "27520001378564": 10,
+      "27520001379613": 29
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/zabkray?action=show&root=1000304&tvd=27520001371134&vrn=100100225883172&region=92&global=&sub_region=92&prver=0&pronetvd=null&vibid=27520001371134&type=464",
@@ -5209,6 +6221,10 @@ export const duma_2021_uik_463_region_92_part_004 = [
       "retrievedAt": "2026-08-26T08:10:28.671095+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/zabkray?action=show&root=1000304&tvd=27520001371134&vrn=100100225883172&region=92&global=&sub_region=92&prver=0&pronetvd=null&vibid=27520001371134&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 44,
+      "oikTvd": "100100225883741"
     }
   },
   {
@@ -5218,8 +6234,12 @@ export const duma_2021_uik_463_region_92_part_004 = [
     "ballot": "single-member",
     "uikNumber": 720,
     "uikTvd": "4754036172232",
+    "uikName": "УИК №720",
     "tikTvd": "27520001371134",
     "tikName": "Петровск-Забайкальская городская",
+    "regionCode": "92",
+    "regionTvd": "100100225883739",
+    "regionName": "Забайкальский край",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 494,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 505,
@@ -5235,12 +6255,12 @@ export const duma_2021_uik_463_region_92_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Григорьев Юрий Иннокентьевич": 58,
-      "Кулиева Василина Васильевна": 28,
-      "Михайлов Александр Николаевич": 28,
-      "Носов Дмитрий Юрьевич": 33,
-      "Синкевич Александр Иннокентьевич": 7,
-      "Фисун Екатерина Владимировна": 62
+      "27520001377668": 58,
+      "27520001376842": 28,
+      "27520001379333": 28,
+      "27520001377140": 33,
+      "27520001378564": 7,
+      "27520001379613": 62
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/zabkray?action=show&root=1000304&tvd=27520001371134&vrn=100100225883172&region=92&global=&sub_region=92&prver=0&pronetvd=null&vibid=27520001371134&type=464",
@@ -5250,6 +6270,10 @@ export const duma_2021_uik_463_region_92_part_004 = [
       "retrievedAt": "2026-08-26T08:10:28.671095+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/zabkray?action=show&root=1000304&tvd=27520001371134&vrn=100100225883172&region=92&global=&sub_region=92&prver=0&pronetvd=null&vibid=27520001371134&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 44,
+      "oikTvd": "100100225883741"
     }
   },
   {
@@ -5259,8 +6283,12 @@ export const duma_2021_uik_463_region_92_part_004 = [
     "ballot": "single-member",
     "uikNumber": 601,
     "uikTvd": "4754024132217",
+    "uikName": "УИК №601",
     "tikTvd": "27520001371135",
     "tikName": "ЗАТО п. Горный",
+    "regionCode": "92",
+    "regionTvd": "100100225883739",
+    "regionName": "Забайкальский край",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 2256,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 1700,
@@ -5276,12 +6304,12 @@ export const duma_2021_uik_463_region_92_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Григорьев Юрий Иннокентьевич": 122,
-      "Кулиева Василина Васильевна": 189,
-      "Михайлов Александр Николаевич": 68,
-      "Носов Дмитрий Юрьевич": 180,
-      "Синкевич Александр Иннокентьевич": 55,
-      "Фисун Екатерина Владимировна": 157
+      "27520001377668": 122,
+      "27520001376842": 189,
+      "27520001379333": 68,
+      "27520001377140": 180,
+      "27520001378564": 55,
+      "27520001379613": 157
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/zabkray?action=show&root=1000304&tvd=27520001371135&vrn=100100225883172&region=92&global=&sub_region=92&prver=0&pronetvd=null&vibid=27520001371135&type=464",
@@ -5291,6 +6319,10 @@ export const duma_2021_uik_463_region_92_part_004 = [
       "retrievedAt": "2026-08-26T08:15:45.228752+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/zabkray?action=show&root=1000304&tvd=27520001371135&vrn=100100225883172&region=92&global=&sub_region=92&prver=0&pronetvd=null&vibid=27520001371135&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 44,
+      "oikTvd": "100100225883741"
     }
   },
   {
@@ -5300,8 +6332,12 @@ export const duma_2021_uik_463_region_92_part_004 = [
     "ballot": "single-member",
     "uikNumber": 602,
     "uikTvd": "4754024132218",
+    "uikName": "УИК №602",
     "tikTvd": "27520001371135",
     "tikName": "ЗАТО п. Горный",
+    "regionCode": "92",
+    "regionTvd": "100100225883739",
+    "regionName": "Забайкальский край",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 2002,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 1700,
@@ -5317,12 +6353,12 @@ export const duma_2021_uik_463_region_92_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Григорьев Юрий Иннокентьевич": 119,
-      "Кулиева Василина Васильевна": 250,
-      "Михайлов Александр Николаевич": 76,
-      "Носов Дмитрий Юрьевич": 228,
-      "Синкевич Александр Иннокентьевич": 63,
-      "Фисун Екатерина Владимировна": 207
+      "27520001377668": 119,
+      "27520001376842": 250,
+      "27520001379333": 76,
+      "27520001377140": 228,
+      "27520001378564": 63,
+      "27520001379613": 207
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/zabkray?action=show&root=1000304&tvd=27520001371135&vrn=100100225883172&region=92&global=&sub_region=92&prver=0&pronetvd=null&vibid=27520001371135&type=464",
@@ -5332,6 +6368,10 @@ export const duma_2021_uik_463_region_92_part_004 = [
       "retrievedAt": "2026-08-26T08:15:45.228752+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/zabkray?action=show&root=1000304&tvd=27520001371135&vrn=100100225883172&region=92&global=&sub_region=92&prver=0&pronetvd=null&vibid=27520001371135&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 44,
+      "oikTvd": "100100225883741"
     }
   },
   {
@@ -5341,8 +6381,12 @@ export const duma_2021_uik_463_region_92_part_004 = [
     "ballot": "single-member",
     "uikNumber": 603,
     "uikTvd": "4754024132219",
+    "uikName": "УИК №603",
     "tikTvd": "27520001371135",
     "tikName": "ЗАТО п. Горный",
+    "regionCode": "92",
+    "regionTvd": "100100225883739",
+    "regionName": "Забайкальский край",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 399,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 400,
@@ -5358,12 +6402,12 @@ export const duma_2021_uik_463_region_92_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Григорьев Юрий Иннокентьевич": 13,
-      "Кулиева Василина Васильевна": 40,
-      "Михайлов Александр Николаевич": 9,
-      "Носов Дмитрий Юрьевич": 22,
-      "Синкевич Александр Иннокентьевич": 3,
-      "Фисун Екатерина Владимировна": 9
+      "27520001377668": 13,
+      "27520001376842": 40,
+      "27520001379333": 9,
+      "27520001377140": 22,
+      "27520001378564": 3,
+      "27520001379613": 9
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/zabkray?action=show&root=1000304&tvd=27520001371135&vrn=100100225883172&region=92&global=&sub_region=92&prver=0&pronetvd=null&vibid=27520001371135&type=464",
@@ -5373,6 +6417,10 @@ export const duma_2021_uik_463_region_92_part_004 = [
       "retrievedAt": "2026-08-26T08:15:45.228752+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/zabkray?action=show&root=1000304&tvd=27520001371135&vrn=100100225883172&region=92&global=&sub_region=92&prver=0&pronetvd=null&vibid=27520001371135&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 44,
+      "oikTvd": "100100225883741"
     }
   },
   {
@@ -5382,8 +6430,12 @@ export const duma_2021_uik_463_region_92_part_004 = [
     "ballot": "single-member",
     "uikNumber": 604,
     "uikTvd": "4754024133248",
+    "uikName": "УИК №604",
     "tikTvd": "27520001371135",
     "tikName": "ЗАТО п. Горный",
+    "regionCode": "92",
+    "regionTvd": "100100225883739",
+    "regionName": "Забайкальский край",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 245,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 350,
@@ -5399,12 +6451,12 @@ export const duma_2021_uik_463_region_92_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Григорьев Юрий Иннокентьевич": 15,
-      "Кулиева Василина Васильевна": 23,
-      "Михайлов Александр Николаевич": 8,
-      "Носов Дмитрий Юрьевич": 32,
-      "Синкевич Александр Иннокентьевич": 5,
-      "Фисун Екатерина Владимировна": 157
+      "27520001377668": 15,
+      "27520001376842": 23,
+      "27520001379333": 8,
+      "27520001377140": 32,
+      "27520001378564": 5,
+      "27520001379613": 157
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/zabkray?action=show&root=1000304&tvd=27520001371135&vrn=100100225883172&region=92&global=&sub_region=92&prver=0&pronetvd=null&vibid=27520001371135&type=464",
@@ -5414,6 +6466,10 @@ export const duma_2021_uik_463_region_92_part_004 = [
       "retrievedAt": "2026-08-26T08:15:45.228752+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/zabkray?action=show&root=1000304&tvd=27520001371135&vrn=100100225883172&region=92&global=&sub_region=92&prver=0&pronetvd=null&vibid=27520001371135&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 44,
+      "oikTvd": "100100225883741"
     }
   },
   {
@@ -5423,8 +6479,12 @@ export const duma_2021_uik_463_region_92_part_004 = [
     "ballot": "single-member",
     "uikNumber": 501,
     "uikTvd": "4804004191586",
+    "uikName": "УИК №501",
     "tikTvd": "27520001371136",
     "tikName": "Агинская городская",
+    "regionCode": "92",
+    "regionTvd": "100100225883739",
+    "regionName": "Забайкальский край",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 2019,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 1974,
@@ -5440,12 +6500,12 @@ export const duma_2021_uik_463_region_92_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Григорьев Юрий Иннокентьевич": 160,
-      "Кулиева Василина Васильевна": 93,
-      "Михайлов Александр Николаевич": 73,
-      "Носов Дмитрий Юрьевич": 173,
-      "Синкевич Александр Иннокентьевич": 25,
-      "Фисун Екатерина Владимировна": 225
+      "27520001377668": 160,
+      "27520001376842": 93,
+      "27520001379333": 73,
+      "27520001377140": 173,
+      "27520001378564": 25,
+      "27520001379613": 225
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/zabkray?action=show&root=1000304&tvd=27520001371136&vrn=100100225883172&region=92&global=&sub_region=92&prver=0&pronetvd=null&vibid=27520001371136&type=464",
@@ -5455,6 +6515,10 @@ export const duma_2021_uik_463_region_92_part_004 = [
       "retrievedAt": "2026-08-26T08:10:30.456996+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/zabkray?action=show&root=1000304&tvd=27520001371136&vrn=100100225883172&region=92&global=&sub_region=92&prver=0&pronetvd=null&vibid=27520001371136&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 44,
+      "oikTvd": "100100225883741"
     }
   },
   {
@@ -5464,8 +6528,12 @@ export const duma_2021_uik_463_region_92_part_004 = [
     "ballot": "single-member",
     "uikNumber": 502,
     "uikTvd": "4804004191587",
+    "uikName": "УИК №502",
     "tikTvd": "27520001371136",
     "tikName": "Агинская городская",
+    "regionCode": "92",
+    "regionTvd": "100100225883739",
+    "regionName": "Забайкальский край",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 2033,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 1953,
@@ -5481,12 +6549,12 @@ export const duma_2021_uik_463_region_92_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Григорьев Юрий Иннокентьевич": 145,
-      "Кулиева Василина Васильевна": 87,
-      "Михайлов Александр Николаевич": 85,
-      "Носов Дмитрий Юрьевич": 205,
-      "Синкевич Александр Иннокентьевич": 26,
-      "Фисун Екатерина Владимировна": 274
+      "27520001377668": 145,
+      "27520001376842": 87,
+      "27520001379333": 85,
+      "27520001377140": 205,
+      "27520001378564": 26,
+      "27520001379613": 274
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/zabkray?action=show&root=1000304&tvd=27520001371136&vrn=100100225883172&region=92&global=&sub_region=92&prver=0&pronetvd=null&vibid=27520001371136&type=464",
@@ -5496,6 +6564,10 @@ export const duma_2021_uik_463_region_92_part_004 = [
       "retrievedAt": "2026-08-26T08:10:30.456996+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/zabkray?action=show&root=1000304&tvd=27520001371136&vrn=100100225883172&region=92&global=&sub_region=92&prver=0&pronetvd=null&vibid=27520001371136&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 44,
+      "oikTvd": "100100225883741"
     }
   },
   {
@@ -5505,8 +6577,12 @@ export const duma_2021_uik_463_region_92_part_004 = [
     "ballot": "single-member",
     "uikNumber": 503,
     "uikTvd": "4804004191588",
+    "uikName": "УИК №503",
     "tikTvd": "27520001371136",
     "tikName": "Агинская городская",
+    "regionCode": "92",
+    "regionTvd": "100100225883739",
+    "regionName": "Забайкальский край",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 1690,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 1760,
@@ -5522,12 +6598,12 @@ export const duma_2021_uik_463_region_92_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Григорьев Юрий Иннокентьевич": 134,
-      "Кулиева Василина Васильевна": 74,
-      "Михайлов Александр Николаевич": 64,
-      "Носов Дмитрий Юрьевич": 134,
-      "Синкевич Александр Иннокентьевич": 21,
-      "Фисун Екатерина Владимировна": 204
+      "27520001377668": 134,
+      "27520001376842": 74,
+      "27520001379333": 64,
+      "27520001377140": 134,
+      "27520001378564": 21,
+      "27520001379613": 204
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/zabkray?action=show&root=1000304&tvd=27520001371136&vrn=100100225883172&region=92&global=&sub_region=92&prver=0&pronetvd=null&vibid=27520001371136&type=464",
@@ -5537,6 +6613,10 @@ export const duma_2021_uik_463_region_92_part_004 = [
       "retrievedAt": "2026-08-26T08:10:30.456996+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/zabkray?action=show&root=1000304&tvd=27520001371136&vrn=100100225883172&region=92&global=&sub_region=92&prver=0&pronetvd=null&vibid=27520001371136&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 44,
+      "oikTvd": "100100225883741"
     }
   },
   {
@@ -5546,8 +6626,12 @@ export const duma_2021_uik_463_region_92_part_004 = [
     "ballot": "single-member",
     "uikNumber": 504,
     "uikTvd": "4804004191589",
+    "uikName": "УИК №504",
     "tikTvd": "27520001371136",
     "tikName": "Агинская городская",
+    "regionCode": "92",
+    "regionTvd": "100100225883739",
+    "regionName": "Забайкальский край",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 1684,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 1688,
@@ -5563,12 +6647,12 @@ export const duma_2021_uik_463_region_92_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Григорьев Юрий Иннокентьевич": 125,
-      "Кулиева Василина Васильевна": 90,
-      "Михайлов Александр Николаевич": 52,
-      "Носов Дмитрий Юрьевич": 107,
-      "Синкевич Александр Иннокентьевич": 19,
-      "Фисун Екатерина Владимировна": 131
+      "27520001377668": 125,
+      "27520001376842": 90,
+      "27520001379333": 52,
+      "27520001377140": 107,
+      "27520001378564": 19,
+      "27520001379613": 131
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/zabkray?action=show&root=1000304&tvd=27520001371136&vrn=100100225883172&region=92&global=&sub_region=92&prver=0&pronetvd=null&vibid=27520001371136&type=464",
@@ -5578,6 +6662,10 @@ export const duma_2021_uik_463_region_92_part_004 = [
       "retrievedAt": "2026-08-26T08:10:30.456996+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/zabkray?action=show&root=1000304&tvd=27520001371136&vrn=100100225883172&region=92&global=&sub_region=92&prver=0&pronetvd=null&vibid=27520001371136&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 44,
+      "oikTvd": "100100225883741"
     }
   },
   {
@@ -5587,8 +6675,12 @@ export const duma_2021_uik_463_region_92_part_004 = [
     "ballot": "single-member",
     "uikNumber": 505,
     "uikTvd": "4804004191590",
+    "uikName": "УИК №505",
     "tikTvd": "27520001371136",
     "tikName": "Агинская городская",
+    "regionCode": "92",
+    "regionTvd": "100100225883739",
+    "regionName": "Забайкальский край",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 1859,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 1940,
@@ -5604,12 +6696,12 @@ export const duma_2021_uik_463_region_92_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Григорьев Юрий Иннокентьевич": 124,
-      "Кулиева Василина Васильевна": 97,
-      "Михайлов Александр Николаевич": 46,
-      "Носов Дмитрий Юрьевич": 155,
-      "Синкевич Александр Иннокентьевич": 29,
-      "Фисун Екатерина Владимировна": 148
+      "27520001377668": 124,
+      "27520001376842": 97,
+      "27520001379333": 46,
+      "27520001377140": 155,
+      "27520001378564": 29,
+      "27520001379613": 148
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/zabkray?action=show&root=1000304&tvd=27520001371136&vrn=100100225883172&region=92&global=&sub_region=92&prver=0&pronetvd=null&vibid=27520001371136&type=464",
@@ -5619,6 +6711,10 @@ export const duma_2021_uik_463_region_92_part_004 = [
       "retrievedAt": "2026-08-26T08:10:30.456996+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/zabkray?action=show&root=1000304&tvd=27520001371136&vrn=100100225883172&region=92&global=&sub_region=92&prver=0&pronetvd=null&vibid=27520001371136&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 44,
+      "oikTvd": "100100225883741"
     }
   },
   {
@@ -5628,8 +6724,12 @@ export const duma_2021_uik_463_region_92_part_004 = [
     "ballot": "single-member",
     "uikNumber": 506,
     "uikTvd": "4804004191591",
+    "uikName": "УИК №506",
     "tikTvd": "27520001371136",
     "tikName": "Агинская городская",
+    "regionCode": "92",
+    "regionTvd": "100100225883739",
+    "regionName": "Забайкальский край",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 1387,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 1452,
@@ -5645,12 +6745,12 @@ export const duma_2021_uik_463_region_92_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Григорьев Юрий Иннокентьевич": 92,
-      "Кулиева Василина Васильевна": 61,
-      "Михайлов Александр Николаевич": 47,
-      "Носов Дмитрий Юрьевич": 121,
-      "Синкевич Александр Иннокентьевич": 8,
-      "Фисун Екатерина Владимировна": 130
+      "27520001377668": 92,
+      "27520001376842": 61,
+      "27520001379333": 47,
+      "27520001377140": 121,
+      "27520001378564": 8,
+      "27520001379613": 130
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/zabkray?action=show&root=1000304&tvd=27520001371136&vrn=100100225883172&region=92&global=&sub_region=92&prver=0&pronetvd=null&vibid=27520001371136&type=464",
@@ -5660,6 +6760,10 @@ export const duma_2021_uik_463_region_92_part_004 = [
       "retrievedAt": "2026-08-26T08:10:30.456996+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/zabkray?action=show&root=1000304&tvd=27520001371136&vrn=100100225883172&region=92&global=&sub_region=92&prver=0&pronetvd=null&vibid=27520001371136&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 44,
+      "oikTvd": "100100225883741"
     }
   },
   {
@@ -5669,8 +6773,12 @@ export const duma_2021_uik_463_region_92_part_004 = [
     "ballot": "single-member",
     "uikNumber": 507,
     "uikTvd": "4804004191592",
+    "uikName": "УИК №507",
     "tikTvd": "27520001371136",
     "tikName": "Агинская городская",
+    "regionCode": "92",
+    "regionTvd": "100100225883739",
+    "regionName": "Забайкальский край",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 1477,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 1421,
@@ -5686,12 +6794,12 @@ export const duma_2021_uik_463_region_92_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Григорьев Юрий Иннокентьевич": 105,
-      "Кулиева Василина Васильевна": 58,
-      "Михайлов Александр Николаевич": 38,
-      "Носов Дмитрий Юрьевич": 166,
-      "Синкевич Александр Иннокентьевич": 6,
-      "Фисун Екатерина Владимировна": 177
+      "27520001377668": 105,
+      "27520001376842": 58,
+      "27520001379333": 38,
+      "27520001377140": 166,
+      "27520001378564": 6,
+      "27520001379613": 177
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/zabkray?action=show&root=1000304&tvd=27520001371136&vrn=100100225883172&region=92&global=&sub_region=92&prver=0&pronetvd=null&vibid=27520001371136&type=464",
@@ -5701,6 +6809,10 @@ export const duma_2021_uik_463_region_92_part_004 = [
       "retrievedAt": "2026-08-26T08:10:30.456996+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/zabkray?action=show&root=1000304&tvd=27520001371136&vrn=100100225883172&region=92&global=&sub_region=92&prver=0&pronetvd=null&vibid=27520001371136&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 44,
+      "oikTvd": "100100225883741"
     }
   },
   {
@@ -5710,8 +6822,12 @@ export const duma_2021_uik_463_region_92_part_004 = [
     "ballot": "single-member",
     "uikNumber": 401,
     "uikTvd": "4754030210259",
+    "uikName": "УИК №401",
     "tikTvd": "27520001371137",
     "tikName": "Чита, Черновская",
+    "regionCode": "92",
+    "regionTvd": "100100225883739",
+    "regionName": "Забайкальский край",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 2011,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 2050,
@@ -5727,12 +6843,12 @@ export const duma_2021_uik_463_region_92_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Григорьев Юрий Иннокентьевич": 98,
-      "Кулиева Василина Васильевна": 111,
-      "Михайлов Александр Николаевич": 79,
-      "Носов Дмитрий Юрьевич": 146,
-      "Синкевич Александр Иннокентьевич": 23,
-      "Фисун Екатерина Владимировна": 114
+      "27520001377668": 98,
+      "27520001376842": 111,
+      "27520001379333": 79,
+      "27520001377140": 146,
+      "27520001378564": 23,
+      "27520001379613": 114
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/zabkray?action=show&root=1000304&tvd=27520001371137&vrn=100100225883172&region=92&global=&sub_region=92&prver=0&pronetvd=null&vibid=27520001371137&type=464",
@@ -5742,6 +6858,10 @@ export const duma_2021_uik_463_region_92_part_004 = [
       "retrievedAt": "2026-08-26T08:10:30.634221+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/zabkray?action=show&root=1000304&tvd=27520001371137&vrn=100100225883172&region=92&global=&sub_region=92&prver=0&pronetvd=null&vibid=27520001371137&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 44,
+      "oikTvd": "100100225883741"
     }
   },
   {
@@ -5751,8 +6871,12 @@ export const duma_2021_uik_463_region_92_part_004 = [
     "ballot": "single-member",
     "uikNumber": 402,
     "uikTvd": "4754030210260",
+    "uikName": "УИК №402",
     "tikTvd": "27520001371137",
     "tikName": "Чита, Черновская",
+    "regionCode": "92",
+    "regionTvd": "100100225883739",
+    "regionName": "Забайкальский край",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 831,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 2100,
@@ -5768,12 +6892,12 @@ export const duma_2021_uik_463_region_92_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Григорьев Юрий Иннокентьевич": 144,
-      "Кулиева Василина Васильевна": 166,
-      "Михайлов Александр Николаевич": 89,
-      "Носов Дмитрий Юрьевич": 163,
-      "Синкевич Александр Иннокентьевич": 38,
-      "Фисун Екатерина Владимировна": 164
+      "27520001377668": 144,
+      "27520001376842": 166,
+      "27520001379333": 89,
+      "27520001377140": 163,
+      "27520001378564": 38,
+      "27520001379613": 164
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/zabkray?action=show&root=1000304&tvd=27520001371137&vrn=100100225883172&region=92&global=&sub_region=92&prver=0&pronetvd=null&vibid=27520001371137&type=464",
@@ -5783,6 +6907,10 @@ export const duma_2021_uik_463_region_92_part_004 = [
       "retrievedAt": "2026-08-26T08:10:30.634221+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/zabkray?action=show&root=1000304&tvd=27520001371137&vrn=100100225883172&region=92&global=&sub_region=92&prver=0&pronetvd=null&vibid=27520001371137&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 44,
+      "oikTvd": "100100225883741"
     }
   },
   {
@@ -5792,8 +6920,12 @@ export const duma_2021_uik_463_region_92_part_004 = [
     "ballot": "single-member",
     "uikNumber": 403,
     "uikTvd": "4754030210261",
+    "uikName": "УИК №403",
     "tikTvd": "27520001371137",
     "tikName": "Чита, Черновская",
+    "regionCode": "92",
+    "regionTvd": "100100225883739",
+    "regionName": "Забайкальский край",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 2538,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 2500,
@@ -5809,12 +6941,12 @@ export const duma_2021_uik_463_region_92_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Григорьев Юрий Иннокентьевич": 144,
-      "Кулиева Василина Васильевна": 138,
-      "Михайлов Александр Николаевич": 118,
-      "Носов Дмитрий Юрьевич": 213,
-      "Синкевич Александр Иннокентьевич": 41,
-      "Фисун Екатерина Владимировна": 184
+      "27520001377668": 144,
+      "27520001376842": 138,
+      "27520001379333": 118,
+      "27520001377140": 213,
+      "27520001378564": 41,
+      "27520001379613": 184
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/zabkray?action=show&root=1000304&tvd=27520001371137&vrn=100100225883172&region=92&global=&sub_region=92&prver=0&pronetvd=null&vibid=27520001371137&type=464",
@@ -5824,6 +6956,10 @@ export const duma_2021_uik_463_region_92_part_004 = [
       "retrievedAt": "2026-08-26T08:10:30.634221+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/zabkray?action=show&root=1000304&tvd=27520001371137&vrn=100100225883172&region=92&global=&sub_region=92&prver=0&pronetvd=null&vibid=27520001371137&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 44,
+      "oikTvd": "100100225883741"
     }
   },
   {
@@ -5833,8 +6969,12 @@ export const duma_2021_uik_463_region_92_part_004 = [
     "ballot": "single-member",
     "uikNumber": 404,
     "uikTvd": "4754030210262",
+    "uikName": "УИК №404",
     "tikTvd": "27520001371137",
     "tikName": "Чита, Черновская",
+    "regionCode": "92",
+    "regionTvd": "100100225883739",
+    "regionName": "Забайкальский край",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 2288,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 2350,
@@ -5850,12 +6990,12 @@ export const duma_2021_uik_463_region_92_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Григорьев Юрий Иннокентьевич": 113,
-      "Кулиева Василина Васильевна": 111,
-      "Михайлов Александр Николаевич": 92,
-      "Носов Дмитрий Юрьевич": 152,
-      "Синкевич Александр Иннокентьевич": 29,
-      "Фисун Екатерина Владимировна": 171
+      "27520001377668": 113,
+      "27520001376842": 111,
+      "27520001379333": 92,
+      "27520001377140": 152,
+      "27520001378564": 29,
+      "27520001379613": 171
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/zabkray?action=show&root=1000304&tvd=27520001371137&vrn=100100225883172&region=92&global=&sub_region=92&prver=0&pronetvd=null&vibid=27520001371137&type=464",
@@ -5865,6 +7005,10 @@ export const duma_2021_uik_463_region_92_part_004 = [
       "retrievedAt": "2026-08-26T08:10:30.634221+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/zabkray?action=show&root=1000304&tvd=27520001371137&vrn=100100225883172&region=92&global=&sub_region=92&prver=0&pronetvd=null&vibid=27520001371137&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 44,
+      "oikTvd": "100100225883741"
     }
   },
   {
@@ -5874,8 +7018,12 @@ export const duma_2021_uik_463_region_92_part_004 = [
     "ballot": "single-member",
     "uikNumber": 405,
     "uikTvd": "4754030210263",
+    "uikName": "УИК №405",
     "tikTvd": "27520001371137",
     "tikName": "Чита, Черновская",
+    "regionCode": "92",
+    "regionTvd": "100100225883739",
+    "regionName": "Забайкальский край",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 2302,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 2330,
@@ -5891,12 +7039,12 @@ export const duma_2021_uik_463_region_92_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Григорьев Юрий Иннокентьевич": 135,
-      "Кулиева Василина Васильевна": 128,
-      "Михайлов Александр Николаевич": 100,
-      "Носов Дмитрий Юрьевич": 176,
-      "Синкевич Александр Иннокентьевич": 29,
-      "Фисун Екатерина Владимировна": 147
+      "27520001377668": 135,
+      "27520001376842": 128,
+      "27520001379333": 100,
+      "27520001377140": 176,
+      "27520001378564": 29,
+      "27520001379613": 147
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/zabkray?action=show&root=1000304&tvd=27520001371137&vrn=100100225883172&region=92&global=&sub_region=92&prver=0&pronetvd=null&vibid=27520001371137&type=464",
@@ -5906,6 +7054,10 @@ export const duma_2021_uik_463_region_92_part_004 = [
       "retrievedAt": "2026-08-26T08:10:30.634221+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/zabkray?action=show&root=1000304&tvd=27520001371137&vrn=100100225883172&region=92&global=&sub_region=92&prver=0&pronetvd=null&vibid=27520001371137&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 44,
+      "oikTvd": "100100225883741"
     }
   },
   {
@@ -5915,8 +7067,12 @@ export const duma_2021_uik_463_region_92_part_004 = [
     "ballot": "single-member",
     "uikNumber": 406,
     "uikTvd": "4754030210264",
+    "uikName": "УИК №406",
     "tikTvd": "27520001371137",
     "tikName": "Чита, Черновская",
+    "regionCode": "92",
+    "regionTvd": "100100225883739",
+    "regionName": "Забайкальский край",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 2376,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 2340,
@@ -5932,12 +7088,12 @@ export const duma_2021_uik_463_region_92_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Григорьев Юрий Иннокентьевич": 223,
-      "Кулиева Василина Васильевна": 114,
-      "Михайлов Александр Николаевич": 93,
-      "Носов Дмитрий Юрьевич": 184,
-      "Синкевич Александр Иннокентьевич": 22,
-      "Фисун Екатерина Владимировна": 136
+      "27520001377668": 223,
+      "27520001376842": 114,
+      "27520001379333": 93,
+      "27520001377140": 184,
+      "27520001378564": 22,
+      "27520001379613": 136
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/zabkray?action=show&root=1000304&tvd=27520001371137&vrn=100100225883172&region=92&global=&sub_region=92&prver=0&pronetvd=null&vibid=27520001371137&type=464",
@@ -5947,6 +7103,10 @@ export const duma_2021_uik_463_region_92_part_004 = [
       "retrievedAt": "2026-08-26T08:10:30.634221+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/zabkray?action=show&root=1000304&tvd=27520001371137&vrn=100100225883172&region=92&global=&sub_region=92&prver=0&pronetvd=null&vibid=27520001371137&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 44,
+      "oikTvd": "100100225883741"
     }
   },
   {
@@ -5956,8 +7116,12 @@ export const duma_2021_uik_463_region_92_part_004 = [
     "ballot": "single-member",
     "uikNumber": 407,
     "uikTvd": "4754030210265",
+    "uikName": "УИК №407",
     "tikTvd": "27520001371137",
     "tikName": "Чита, Черновская",
+    "regionCode": "92",
+    "regionTvd": "100100225883739",
+    "regionName": "Забайкальский край",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 2413,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 2400,
@@ -5973,12 +7137,12 @@ export const duma_2021_uik_463_region_92_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Григорьев Юрий Иннокентьевич": 135,
-      "Кулиева Василина Васильевна": 134,
-      "Михайлов Александр Николаевич": 85,
-      "Носов Дмитрий Юрьевич": 186,
-      "Синкевич Александр Иннокентьевич": 32,
-      "Фисун Екатерина Владимировна": 144
+      "27520001377668": 135,
+      "27520001376842": 134,
+      "27520001379333": 85,
+      "27520001377140": 186,
+      "27520001378564": 32,
+      "27520001379613": 144
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/zabkray?action=show&root=1000304&tvd=27520001371137&vrn=100100225883172&region=92&global=&sub_region=92&prver=0&pronetvd=null&vibid=27520001371137&type=464",
@@ -5988,6 +7152,10 @@ export const duma_2021_uik_463_region_92_part_004 = [
       "retrievedAt": "2026-08-26T08:10:30.634221+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/zabkray?action=show&root=1000304&tvd=27520001371137&vrn=100100225883172&region=92&global=&sub_region=92&prver=0&pronetvd=null&vibid=27520001371137&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 44,
+      "oikTvd": "100100225883741"
     }
   },
   {
@@ -5997,8 +7165,12 @@ export const duma_2021_uik_463_region_92_part_004 = [
     "ballot": "single-member",
     "uikNumber": 408,
     "uikTvd": "4754030210266",
+    "uikName": "УИК №408",
     "tikTvd": "27520001371137",
     "tikName": "Чита, Черновская",
+    "regionCode": "92",
+    "regionTvd": "100100225883739",
+    "regionName": "Забайкальский край",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 1923,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 1900,
@@ -6014,12 +7186,12 @@ export const duma_2021_uik_463_region_92_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Григорьев Юрий Иннокентьевич": 213,
-      "Кулиева Василина Васильевна": 74,
-      "Михайлов Александр Николаевич": 41,
-      "Носов Дмитрий Юрьевич": 103,
-      "Синкевич Александр Иннокентьевич": 16,
-      "Фисун Екатерина Владимировна": 77
+      "27520001377668": 213,
+      "27520001376842": 74,
+      "27520001379333": 41,
+      "27520001377140": 103,
+      "27520001378564": 16,
+      "27520001379613": 77
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/zabkray?action=show&root=1000304&tvd=27520001371137&vrn=100100225883172&region=92&global=&sub_region=92&prver=0&pronetvd=null&vibid=27520001371137&type=464",
@@ -6029,6 +7201,10 @@ export const duma_2021_uik_463_region_92_part_004 = [
       "retrievedAt": "2026-08-26T08:10:30.634221+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/zabkray?action=show&root=1000304&tvd=27520001371137&vrn=100100225883172&region=92&global=&sub_region=92&prver=0&pronetvd=null&vibid=27520001371137&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 44,
+      "oikTvd": "100100225883741"
     }
   },
   {
@@ -6038,8 +7214,12 @@ export const duma_2021_uik_463_region_92_part_004 = [
     "ballot": "single-member",
     "uikNumber": 409,
     "uikTvd": "4754030210267",
+    "uikName": "УИК №409",
     "tikTvd": "27520001371137",
     "tikName": "Чита, Черновская",
+    "regionCode": "92",
+    "regionTvd": "100100225883739",
+    "regionName": "Забайкальский край",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 1851,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 1870,
@@ -6055,12 +7235,12 @@ export const duma_2021_uik_463_region_92_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Григорьев Юрий Иннокентьевич": 120,
-      "Кулиева Василина Васильевна": 103,
-      "Михайлов Александр Николаевич": 82,
-      "Носов Дмитрий Юрьевич": 126,
-      "Синкевич Александр Иннокентьевич": 23,
-      "Фисун Екатерина Владимировна": 125
+      "27520001377668": 120,
+      "27520001376842": 103,
+      "27520001379333": 82,
+      "27520001377140": 126,
+      "27520001378564": 23,
+      "27520001379613": 125
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/zabkray?action=show&root=1000304&tvd=27520001371137&vrn=100100225883172&region=92&global=&sub_region=92&prver=0&pronetvd=null&vibid=27520001371137&type=464",
@@ -6070,6 +7250,10 @@ export const duma_2021_uik_463_region_92_part_004 = [
       "retrievedAt": "2026-08-26T08:10:30.634221+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/zabkray?action=show&root=1000304&tvd=27520001371137&vrn=100100225883172&region=92&global=&sub_region=92&prver=0&pronetvd=null&vibid=27520001371137&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 44,
+      "oikTvd": "100100225883741"
     }
   },
   {
@@ -6079,8 +7263,12 @@ export const duma_2021_uik_463_region_92_part_004 = [
     "ballot": "single-member",
     "uikNumber": 410,
     "uikTvd": "4754030210268",
+    "uikName": "УИК №410",
     "tikTvd": "27520001371137",
     "tikName": "Чита, Черновская",
+    "regionCode": "92",
+    "regionTvd": "100100225883739",
+    "regionName": "Забайкальский край",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 2348,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 2400,
@@ -6096,12 +7284,12 @@ export const duma_2021_uik_463_region_92_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Григорьев Юрий Иннокентьевич": 169,
-      "Кулиева Василина Васильевна": 95,
-      "Михайлов Александр Николаевич": 69,
-      "Носов Дмитрий Юрьевич": 151,
-      "Синкевич Александр Иннокентьевич": 22,
-      "Фисун Екатерина Владимировна": 99
+      "27520001377668": 169,
+      "27520001376842": 95,
+      "27520001379333": 69,
+      "27520001377140": 151,
+      "27520001378564": 22,
+      "27520001379613": 99
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/zabkray?action=show&root=1000304&tvd=27520001371137&vrn=100100225883172&region=92&global=&sub_region=92&prver=0&pronetvd=null&vibid=27520001371137&type=464",
@@ -6111,6 +7299,10 @@ export const duma_2021_uik_463_region_92_part_004 = [
       "retrievedAt": "2026-08-26T08:10:30.634221+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/zabkray?action=show&root=1000304&tvd=27520001371137&vrn=100100225883172&region=92&global=&sub_region=92&prver=0&pronetvd=null&vibid=27520001371137&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 44,
+      "oikTvd": "100100225883741"
     }
   },
   {
@@ -6120,8 +7312,12 @@ export const duma_2021_uik_463_region_92_part_004 = [
     "ballot": "single-member",
     "uikNumber": 411,
     "uikTvd": "4754030210269",
+    "uikName": "УИК №411",
     "tikTvd": "27520001371137",
     "tikName": "Чита, Черновская",
+    "regionCode": "92",
+    "regionTvd": "100100225883739",
+    "regionName": "Забайкальский край",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 1866,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 1800,
@@ -6137,12 +7333,12 @@ export const duma_2021_uik_463_region_92_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Григорьев Юрий Иннокентьевич": 123,
-      "Кулиева Василина Васильевна": 110,
-      "Михайлов Александр Николаевич": 81,
-      "Носов Дмитрий Юрьевич": 147,
-      "Синкевич Александр Иннокентьевич": 27,
-      "Фисун Екатерина Владимировна": 95
+      "27520001377668": 123,
+      "27520001376842": 110,
+      "27520001379333": 81,
+      "27520001377140": 147,
+      "27520001378564": 27,
+      "27520001379613": 95
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/zabkray?action=show&root=1000304&tvd=27520001371137&vrn=100100225883172&region=92&global=&sub_region=92&prver=0&pronetvd=null&vibid=27520001371137&type=464",
@@ -6152,6 +7348,10 @@ export const duma_2021_uik_463_region_92_part_004 = [
       "retrievedAt": "2026-08-26T08:10:30.634221+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/zabkray?action=show&root=1000304&tvd=27520001371137&vrn=100100225883172&region=92&global=&sub_region=92&prver=0&pronetvd=null&vibid=27520001371137&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 44,
+      "oikTvd": "100100225883741"
     }
   },
   {
@@ -6161,8 +7361,12 @@ export const duma_2021_uik_463_region_92_part_004 = [
     "ballot": "single-member",
     "uikNumber": 412,
     "uikTvd": "4754030210270",
+    "uikName": "УИК №412",
     "tikTvd": "27520001371137",
     "tikName": "Чита, Черновская",
+    "regionCode": "92",
+    "regionTvd": "100100225883739",
+    "regionName": "Забайкальский край",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 2451,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 2500,
@@ -6178,12 +7382,12 @@ export const duma_2021_uik_463_region_92_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Григорьев Юрий Иннокентьевич": 90,
-      "Кулиева Василина Васильевна": 100,
-      "Михайлов Александр Николаевич": 69,
-      "Носов Дмитрий Юрьевич": 164,
-      "Синкевич Александр Иннокентьевич": 21,
-      "Фисун Екатерина Владимировна": 113
+      "27520001377668": 90,
+      "27520001376842": 100,
+      "27520001379333": 69,
+      "27520001377140": 164,
+      "27520001378564": 21,
+      "27520001379613": 113
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/zabkray?action=show&root=1000304&tvd=27520001371137&vrn=100100225883172&region=92&global=&sub_region=92&prver=0&pronetvd=null&vibid=27520001371137&type=464",
@@ -6193,6 +7397,10 @@ export const duma_2021_uik_463_region_92_part_004 = [
       "retrievedAt": "2026-08-26T08:10:30.634221+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/zabkray?action=show&root=1000304&tvd=27520001371137&vrn=100100225883172&region=92&global=&sub_region=92&prver=0&pronetvd=null&vibid=27520001371137&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 44,
+      "oikTvd": "100100225883741"
     }
   },
   {
@@ -6202,8 +7410,12 @@ export const duma_2021_uik_463_region_92_part_004 = [
     "ballot": "single-member",
     "uikNumber": 413,
     "uikTvd": "4754030210271",
+    "uikName": "УИК №413",
     "tikTvd": "27520001371137",
     "tikName": "Чита, Черновская",
+    "regionCode": "92",
+    "regionTvd": "100100225883739",
+    "regionName": "Забайкальский край",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 1564,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 1590,
@@ -6219,12 +7431,12 @@ export const duma_2021_uik_463_region_92_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Григорьев Юрий Иннокентьевич": 82,
-      "Кулиева Василина Васильевна": 68,
-      "Михайлов Александр Николаевич": 64,
-      "Носов Дмитрий Юрьевич": 150,
-      "Синкевич Александр Иннокентьевич": 14,
-      "Фисун Екатерина Владимировна": 116
+      "27520001377668": 82,
+      "27520001376842": 68,
+      "27520001379333": 64,
+      "27520001377140": 150,
+      "27520001378564": 14,
+      "27520001379613": 116
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/zabkray?action=show&root=1000304&tvd=27520001371137&vrn=100100225883172&region=92&global=&sub_region=92&prver=0&pronetvd=null&vibid=27520001371137&type=464",
@@ -6234,6 +7446,10 @@ export const duma_2021_uik_463_region_92_part_004 = [
       "retrievedAt": "2026-08-26T08:10:30.634221+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/zabkray?action=show&root=1000304&tvd=27520001371137&vrn=100100225883172&region=92&global=&sub_region=92&prver=0&pronetvd=null&vibid=27520001371137&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 44,
+      "oikTvd": "100100225883741"
     }
   },
   {
@@ -6243,8 +7459,12 @@ export const duma_2021_uik_463_region_92_part_004 = [
     "ballot": "single-member",
     "uikNumber": 414,
     "uikTvd": "4754030210272",
+    "uikName": "УИК №414",
     "tikTvd": "27520001371137",
     "tikName": "Чита, Черновская",
+    "regionCode": "92",
+    "regionTvd": "100100225883739",
+    "regionName": "Забайкальский край",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 1601,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 1630,
@@ -6260,12 +7480,12 @@ export const duma_2021_uik_463_region_92_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Григорьев Юрий Иннокентьевич": 76,
-      "Кулиева Василина Васильевна": 96,
-      "Михайлов Александр Николаевич": 63,
-      "Носов Дмитрий Юрьевич": 149,
-      "Синкевич Александр Иннокентьевич": 15,
-      "Фисун Екатерина Владимировна": 80
+      "27520001377668": 76,
+      "27520001376842": 96,
+      "27520001379333": 63,
+      "27520001377140": 149,
+      "27520001378564": 15,
+      "27520001379613": 80
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/zabkray?action=show&root=1000304&tvd=27520001371137&vrn=100100225883172&region=92&global=&sub_region=92&prver=0&pronetvd=null&vibid=27520001371137&type=464",
@@ -6275,6 +7495,10 @@ export const duma_2021_uik_463_region_92_part_004 = [
       "retrievedAt": "2026-08-26T08:10:30.634221+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/zabkray?action=show&root=1000304&tvd=27520001371137&vrn=100100225883172&region=92&global=&sub_region=92&prver=0&pronetvd=null&vibid=27520001371137&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 44,
+      "oikTvd": "100100225883741"
     }
   },
   {
@@ -6284,8 +7508,12 @@ export const duma_2021_uik_463_region_92_part_004 = [
     "ballot": "single-member",
     "uikNumber": 415,
     "uikTvd": "4754030210273",
+    "uikName": "УИК №415",
     "tikTvd": "27520001371137",
     "tikName": "Чита, Черновская",
+    "regionCode": "92",
+    "regionTvd": "100100225883739",
+    "regionName": "Забайкальский край",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 2275,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 2350,
@@ -6301,12 +7529,12 @@ export const duma_2021_uik_463_region_92_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Григорьев Юрий Иннокентьевич": 116,
-      "Кулиева Василина Васильевна": 100,
-      "Михайлов Александр Николаевич": 93,
-      "Носов Дмитрий Юрьевич": 207,
-      "Синкевич Александр Иннокентьевич": 35,
-      "Фисун Екатерина Владимировна": 130
+      "27520001377668": 116,
+      "27520001376842": 100,
+      "27520001379333": 93,
+      "27520001377140": 207,
+      "27520001378564": 35,
+      "27520001379613": 130
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/zabkray?action=show&root=1000304&tvd=27520001371137&vrn=100100225883172&region=92&global=&sub_region=92&prver=0&pronetvd=null&vibid=27520001371137&type=464",
@@ -6316,6 +7544,10 @@ export const duma_2021_uik_463_region_92_part_004 = [
       "retrievedAt": "2026-08-26T08:10:30.634221+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/zabkray?action=show&root=1000304&tvd=27520001371137&vrn=100100225883172&region=92&global=&sub_region=92&prver=0&pronetvd=null&vibid=27520001371137&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 44,
+      "oikTvd": "100100225883741"
     }
   },
   {
@@ -6325,8 +7557,12 @@ export const duma_2021_uik_463_region_92_part_004 = [
     "ballot": "single-member",
     "uikNumber": 416,
     "uikTvd": "4754030210274",
+    "uikName": "УИК №416",
     "tikTvd": "27520001371137",
     "tikName": "Чита, Черновская",
+    "regionCode": "92",
+    "regionTvd": "100100225883739",
+    "regionName": "Забайкальский край",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 2161,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 2170,
@@ -6342,12 +7578,12 @@ export const duma_2021_uik_463_region_92_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Григорьев Юрий Иннокентьевич": 137,
-      "Кулиева Василина Васильевна": 104,
-      "Михайлов Александр Николаевич": 61,
-      "Носов Дмитрий Юрьевич": 139,
-      "Синкевич Александр Иннокентьевич": 25,
-      "Фисун Екатерина Владимировна": 111
+      "27520001377668": 137,
+      "27520001376842": 104,
+      "27520001379333": 61,
+      "27520001377140": 139,
+      "27520001378564": 25,
+      "27520001379613": 111
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/zabkray?action=show&root=1000304&tvd=27520001371137&vrn=100100225883172&region=92&global=&sub_region=92&prver=0&pronetvd=null&vibid=27520001371137&type=464",
@@ -6357,6 +7593,10 @@ export const duma_2021_uik_463_region_92_part_004 = [
       "retrievedAt": "2026-08-26T08:10:30.634221+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/zabkray?action=show&root=1000304&tvd=27520001371137&vrn=100100225883172&region=92&global=&sub_region=92&prver=0&pronetvd=null&vibid=27520001371137&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 44,
+      "oikTvd": "100100225883741"
     }
   },
   {
@@ -6366,8 +7606,12 @@ export const duma_2021_uik_463_region_92_part_004 = [
     "ballot": "single-member",
     "uikNumber": 417,
     "uikTvd": "4754030210275",
+    "uikName": "УИК №417",
     "tikTvd": "27520001371137",
     "tikName": "Чита, Черновская",
+    "regionCode": "92",
+    "regionTvd": "100100225883739",
+    "regionName": "Забайкальский край",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 1626,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 1690,
@@ -6383,12 +7627,12 @@ export const duma_2021_uik_463_region_92_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Григорьев Юрий Иннокентьевич": 169,
-      "Кулиева Василина Васильевна": 95,
-      "Михайлов Александр Николаевич": 49,
-      "Носов Дмитрий Юрьевич": 136,
-      "Синкевич Александр Иннокентьевич": 21,
-      "Фисун Екатерина Владимировна": 94
+      "27520001377668": 169,
+      "27520001376842": 95,
+      "27520001379333": 49,
+      "27520001377140": 136,
+      "27520001378564": 21,
+      "27520001379613": 94
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/zabkray?action=show&root=1000304&tvd=27520001371137&vrn=100100225883172&region=92&global=&sub_region=92&prver=0&pronetvd=null&vibid=27520001371137&type=464",
@@ -6398,6 +7642,10 @@ export const duma_2021_uik_463_region_92_part_004 = [
       "retrievedAt": "2026-08-26T08:10:30.634221+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/zabkray?action=show&root=1000304&tvd=27520001371137&vrn=100100225883172&region=92&global=&sub_region=92&prver=0&pronetvd=null&vibid=27520001371137&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 44,
+      "oikTvd": "100100225883741"
     }
   },
   {
@@ -6407,8 +7655,12 @@ export const duma_2021_uik_463_region_92_part_004 = [
     "ballot": "single-member",
     "uikNumber": 418,
     "uikTvd": "4754030210276",
+    "uikName": "УИК №418",
     "tikTvd": "27520001371137",
     "tikName": "Чита, Черновская",
+    "regionCode": "92",
+    "regionTvd": "100100225883739",
+    "regionName": "Забайкальский край",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 2427,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 2450,
@@ -6424,12 +7676,12 @@ export const duma_2021_uik_463_region_92_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Григорьев Юрий Иннокентьевич": 159,
-      "Кулиева Василина Васильевна": 101,
-      "Михайлов Александр Николаевич": 62,
-      "Носов Дмитрий Юрьевич": 169,
-      "Синкевич Александр Иннокентьевич": 25,
-      "Фисун Екатерина Владимировна": 92
+      "27520001377668": 159,
+      "27520001376842": 101,
+      "27520001379333": 62,
+      "27520001377140": 169,
+      "27520001378564": 25,
+      "27520001379613": 92
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/zabkray?action=show&root=1000304&tvd=27520001371137&vrn=100100225883172&region=92&global=&sub_region=92&prver=0&pronetvd=null&vibid=27520001371137&type=464",
@@ -6439,6 +7691,10 @@ export const duma_2021_uik_463_region_92_part_004 = [
       "retrievedAt": "2026-08-26T08:10:30.634221+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/zabkray?action=show&root=1000304&tvd=27520001371137&vrn=100100225883172&region=92&global=&sub_region=92&prver=0&pronetvd=null&vibid=27520001371137&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 44,
+      "oikTvd": "100100225883741"
     }
   },
   {
@@ -6448,8 +7704,12 @@ export const duma_2021_uik_463_region_92_part_004 = [
     "ballot": "single-member",
     "uikNumber": 419,
     "uikTvd": "4754030210277",
+    "uikName": "УИК №419",
     "tikTvd": "27520001371137",
     "tikName": "Чита, Черновская",
+    "regionCode": "92",
+    "regionTvd": "100100225883739",
+    "regionName": "Забайкальский край",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 2217,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 2240,
@@ -6465,12 +7725,12 @@ export const duma_2021_uik_463_region_92_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Григорьев Юрий Иннокентьевич": 128,
-      "Кулиева Василина Васильевна": 111,
-      "Михайлов Александр Николаевич": 72,
-      "Носов Дмитрий Юрьевич": 147,
-      "Синкевич Александр Иннокентьевич": 28,
-      "Фисун Екатерина Владимировна": 90
+      "27520001377668": 128,
+      "27520001376842": 111,
+      "27520001379333": 72,
+      "27520001377140": 147,
+      "27520001378564": 28,
+      "27520001379613": 90
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/zabkray?action=show&root=1000304&tvd=27520001371137&vrn=100100225883172&region=92&global=&sub_region=92&prver=0&pronetvd=null&vibid=27520001371137&type=464",
@@ -6480,6 +7740,10 @@ export const duma_2021_uik_463_region_92_part_004 = [
       "retrievedAt": "2026-08-26T08:10:30.634221+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/zabkray?action=show&root=1000304&tvd=27520001371137&vrn=100100225883172&region=92&global=&sub_region=92&prver=0&pronetvd=null&vibid=27520001371137&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 44,
+      "oikTvd": "100100225883741"
     }
   },
   {
@@ -6489,8 +7753,12 @@ export const duma_2021_uik_463_region_92_part_004 = [
     "ballot": "single-member",
     "uikNumber": 420,
     "uikTvd": "4754030210278",
+    "uikName": "УИК №420",
     "tikTvd": "27520001371137",
     "tikName": "Чита, Черновская",
+    "regionCode": "92",
+    "regionTvd": "100100225883739",
+    "regionName": "Забайкальский край",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 1126,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 970,
@@ -6506,12 +7774,12 @@ export const duma_2021_uik_463_region_92_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Григорьев Юрий Иннокентьевич": 296,
-      "Кулиева Василина Васильевна": 48,
-      "Михайлов Александр Николаевич": 28,
-      "Носов Дмитрий Юрьевич": 55,
-      "Синкевич Александр Иннокентьевич": 3,
-      "Фисун Екатерина Владимировна": 33
+      "27520001377668": 296,
+      "27520001376842": 48,
+      "27520001379333": 28,
+      "27520001377140": 55,
+      "27520001378564": 3,
+      "27520001379613": 33
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/zabkray?action=show&root=1000304&tvd=27520001371137&vrn=100100225883172&region=92&global=&sub_region=92&prver=0&pronetvd=null&vibid=27520001371137&type=464",
@@ -6521,6 +7789,10 @@ export const duma_2021_uik_463_region_92_part_004 = [
       "retrievedAt": "2026-08-26T08:10:30.634221+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/zabkray?action=show&root=1000304&tvd=27520001371137&vrn=100100225883172&region=92&global=&sub_region=92&prver=0&pronetvd=null&vibid=27520001371137&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 44,
+      "oikTvd": "100100225883741"
     }
   },
   {
@@ -6530,8 +7802,12 @@ export const duma_2021_uik_463_region_92_part_004 = [
     "ballot": "single-member",
     "uikNumber": 421,
     "uikTvd": "4754030210279",
+    "uikName": "УИК №421",
     "tikTvd": "27520001371137",
     "tikName": "Чита, Черновская",
+    "regionCode": "92",
+    "regionTvd": "100100225883739",
+    "regionName": "Забайкальский край",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 1827,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 1800,
@@ -6547,12 +7823,12 @@ export const duma_2021_uik_463_region_92_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Григорьев Юрий Иннокентьевич": 189,
-      "Кулиева Василина Васильевна": 53,
-      "Михайлов Александр Николаевич": 41,
-      "Носов Дмитрий Юрьевич": 85,
-      "Синкевич Александр Иннокентьевич": 10,
-      "Фисун Екатерина Владимировна": 67
+      "27520001377668": 189,
+      "27520001376842": 53,
+      "27520001379333": 41,
+      "27520001377140": 85,
+      "27520001378564": 10,
+      "27520001379613": 67
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/zabkray?action=show&root=1000304&tvd=27520001371137&vrn=100100225883172&region=92&global=&sub_region=92&prver=0&pronetvd=null&vibid=27520001371137&type=464",
@@ -6562,6 +7838,10 @@ export const duma_2021_uik_463_region_92_part_004 = [
       "retrievedAt": "2026-08-26T08:10:30.634221+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/zabkray?action=show&root=1000304&tvd=27520001371137&vrn=100100225883172&region=92&global=&sub_region=92&prver=0&pronetvd=null&vibid=27520001371137&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 44,
+      "oikTvd": "100100225883741"
     }
   },
   {
@@ -6571,8 +7851,12 @@ export const duma_2021_uik_463_region_92_part_004 = [
     "ballot": "single-member",
     "uikNumber": 422,
     "uikTvd": "4754030210280",
+    "uikName": "УИК №422",
     "tikTvd": "27520001371137",
     "tikName": "Чита, Черновская",
+    "regionCode": "92",
+    "regionTvd": "100100225883739",
+    "regionName": "Забайкальский край",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 1730,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 1750,
@@ -6588,12 +7872,12 @@ export const duma_2021_uik_463_region_92_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Григорьев Юрий Иннокентьевич": 164,
-      "Кулиева Василина Васильевна": 72,
-      "Михайлов Александр Николаевич": 70,
-      "Носов Дмитрий Юрьевич": 129,
-      "Синкевич Александр Иннокентьевич": 25,
-      "Фисун Екатерина Владимировна": 68
+      "27520001377668": 164,
+      "27520001376842": 72,
+      "27520001379333": 70,
+      "27520001377140": 129,
+      "27520001378564": 25,
+      "27520001379613": 68
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/zabkray?action=show&root=1000304&tvd=27520001371137&vrn=100100225883172&region=92&global=&sub_region=92&prver=0&pronetvd=null&vibid=27520001371137&type=464",
@@ -6603,6 +7887,10 @@ export const duma_2021_uik_463_region_92_part_004 = [
       "retrievedAt": "2026-08-26T08:10:30.634221+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/zabkray?action=show&root=1000304&tvd=27520001371137&vrn=100100225883172&region=92&global=&sub_region=92&prver=0&pronetvd=null&vibid=27520001371137&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 44,
+      "oikTvd": "100100225883741"
     }
   },
   {
@@ -6612,8 +7900,12 @@ export const duma_2021_uik_463_region_92_part_004 = [
     "ballot": "single-member",
     "uikNumber": 423,
     "uikTvd": "4754030210281",
+    "uikName": "УИК №423",
     "tikTvd": "27520001371137",
     "tikName": "Чита, Черновская",
+    "regionCode": "92",
+    "regionTvd": "100100225883739",
+    "regionName": "Забайкальский край",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 2572,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 2590,
@@ -6629,12 +7921,12 @@ export const duma_2021_uik_463_region_92_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Григорьев Юрий Иннокентьевич": 171,
-      "Кулиева Василина Васильевна": 97,
-      "Михайлов Александр Николаевич": 47,
-      "Носов Дмитрий Юрьевич": 112,
-      "Синкевич Александр Иннокентьевич": 20,
-      "Фисун Екатерина Владимировна": 61
+      "27520001377668": 171,
+      "27520001376842": 97,
+      "27520001379333": 47,
+      "27520001377140": 112,
+      "27520001378564": 20,
+      "27520001379613": 61
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/zabkray?action=show&root=1000304&tvd=27520001371137&vrn=100100225883172&region=92&global=&sub_region=92&prver=0&pronetvd=null&vibid=27520001371137&type=464",
@@ -6644,6 +7936,10 @@ export const duma_2021_uik_463_region_92_part_004 = [
       "retrievedAt": "2026-08-26T08:10:30.634221+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/zabkray?action=show&root=1000304&tvd=27520001371137&vrn=100100225883172&region=92&global=&sub_region=92&prver=0&pronetvd=null&vibid=27520001371137&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 44,
+      "oikTvd": "100100225883741"
     }
   },
   {
@@ -6653,8 +7949,12 @@ export const duma_2021_uik_463_region_92_part_004 = [
     "ballot": "single-member",
     "uikNumber": 424,
     "uikTvd": "4754030210282",
+    "uikName": "УИК №424",
     "tikTvd": "27520001371137",
     "tikName": "Чита, Черновская",
+    "regionCode": "92",
+    "regionTvd": "100100225883739",
+    "regionName": "Забайкальский край",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 2093,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 2100,
@@ -6670,12 +7970,12 @@ export const duma_2021_uik_463_region_92_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Григорьев Юрий Иннокентьевич": 246,
-      "Кулиева Василина Васильевна": 100,
-      "Михайлов Александр Николаевич": 59,
-      "Носов Дмитрий Юрьевич": 119,
-      "Синкевич Александр Иннокентьевич": 16,
-      "Фисун Екатерина Владимировна": 93
+      "27520001377668": 246,
+      "27520001376842": 100,
+      "27520001379333": 59,
+      "27520001377140": 119,
+      "27520001378564": 16,
+      "27520001379613": 93
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/zabkray?action=show&root=1000304&tvd=27520001371137&vrn=100100225883172&region=92&global=&sub_region=92&prver=0&pronetvd=null&vibid=27520001371137&type=464",
@@ -6685,6 +7985,10 @@ export const duma_2021_uik_463_region_92_part_004 = [
       "retrievedAt": "2026-08-26T08:10:30.634221+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/zabkray?action=show&root=1000304&tvd=27520001371137&vrn=100100225883172&region=92&global=&sub_region=92&prver=0&pronetvd=null&vibid=27520001371137&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 44,
+      "oikTvd": "100100225883741"
     }
   },
   {
@@ -6694,8 +7998,12 @@ export const duma_2021_uik_463_region_92_part_004 = [
     "ballot": "single-member",
     "uikNumber": 425,
     "uikTvd": "4754030210283",
+    "uikName": "УИК №425",
     "tikTvd": "27520001371137",
     "tikName": "Чита, Черновская",
+    "regionCode": "92",
+    "regionTvd": "100100225883739",
+    "regionName": "Забайкальский край",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 878,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 900,
@@ -6711,12 +8019,12 @@ export const duma_2021_uik_463_region_92_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Григорьев Юрий Иннокентьевич": 73,
-      "Кулиева Василина Васильевна": 49,
-      "Михайлов Александр Николаевич": 22,
-      "Носов Дмитрий Юрьевич": 59,
-      "Синкевич Александр Иннокентьевич": 7,
-      "Фисун Екатерина Владимировна": 44
+      "27520001377668": 73,
+      "27520001376842": 49,
+      "27520001379333": 22,
+      "27520001377140": 59,
+      "27520001378564": 7,
+      "27520001379613": 44
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/zabkray?action=show&root=1000304&tvd=27520001371137&vrn=100100225883172&region=92&global=&sub_region=92&prver=0&pronetvd=null&vibid=27520001371137&type=464",
@@ -6726,6 +8034,10 @@ export const duma_2021_uik_463_region_92_part_004 = [
       "retrievedAt": "2026-08-26T08:10:30.634221+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/zabkray?action=show&root=1000304&tvd=27520001371137&vrn=100100225883172&region=92&global=&sub_region=92&prver=0&pronetvd=null&vibid=27520001371137&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 44,
+      "oikTvd": "100100225883741"
     }
   },
   {
@@ -6735,8 +8047,12 @@ export const duma_2021_uik_463_region_92_part_004 = [
     "ballot": "single-member",
     "uikNumber": 426,
     "uikTvd": "4754030210284",
+    "uikName": "УИК №426",
     "tikTvd": "27520001371137",
     "tikName": "Чита, Черновская",
+    "regionCode": "92",
+    "regionTvd": "100100225883739",
+    "regionName": "Забайкальский край",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 1700,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 1740,
@@ -6752,12 +8068,12 @@ export const duma_2021_uik_463_region_92_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Григорьев Юрий Иннокентьевич": 118,
-      "Кулиева Василина Васильевна": 83,
-      "Михайлов Александр Николаевич": 41,
-      "Носов Дмитрий Юрьевич": 121,
-      "Синкевич Александр Иннокентьевич": 6,
-      "Фисун Екатерина Владимировна": 60
+      "27520001377668": 118,
+      "27520001376842": 83,
+      "27520001379333": 41,
+      "27520001377140": 121,
+      "27520001378564": 6,
+      "27520001379613": 60
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/zabkray?action=show&root=1000304&tvd=27520001371137&vrn=100100225883172&region=92&global=&sub_region=92&prver=0&pronetvd=null&vibid=27520001371137&type=464",
@@ -6767,6 +8083,10 @@ export const duma_2021_uik_463_region_92_part_004 = [
       "retrievedAt": "2026-08-26T08:10:30.634221+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/zabkray?action=show&root=1000304&tvd=27520001371137&vrn=100100225883172&region=92&global=&sub_region=92&prver=0&pronetvd=null&vibid=27520001371137&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 44,
+      "oikTvd": "100100225883741"
     }
   },
   {
@@ -6776,8 +8096,12 @@ export const duma_2021_uik_463_region_92_part_004 = [
     "ballot": "single-member",
     "uikNumber": 427,
     "uikTvd": "4754030210285",
+    "uikName": "УИК №427",
     "tikTvd": "27520001371137",
     "tikName": "Чита, Черновская",
+    "regionCode": "92",
+    "regionTvd": "100100225883739",
+    "regionName": "Забайкальский край",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 1251,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 1260,
@@ -6793,12 +8117,12 @@ export const duma_2021_uik_463_region_92_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Григорьев Юрий Иннокентьевич": 213,
-      "Кулиева Василина Васильевна": 62,
-      "Михайлов Александр Николаевич": 48,
-      "Носов Дмитрий Юрьевич": 107,
-      "Синкевич Александр Иннокентьевич": 14,
-      "Фисун Екатерина Владимировна": 48
+      "27520001377668": 213,
+      "27520001376842": 62,
+      "27520001379333": 48,
+      "27520001377140": 107,
+      "27520001378564": 14,
+      "27520001379613": 48
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/zabkray?action=show&root=1000304&tvd=27520001371137&vrn=100100225883172&region=92&global=&sub_region=92&prver=0&pronetvd=null&vibid=27520001371137&type=464",
@@ -6808,6 +8132,10 @@ export const duma_2021_uik_463_region_92_part_004 = [
       "retrievedAt": "2026-08-26T08:10:30.634221+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/zabkray?action=show&root=1000304&tvd=27520001371137&vrn=100100225883172&region=92&global=&sub_region=92&prver=0&pronetvd=null&vibid=27520001371137&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 44,
+      "oikTvd": "100100225883741"
     }
   },
   {
@@ -6817,8 +8145,12 @@ export const duma_2021_uik_463_region_92_part_004 = [
     "ballot": "single-member",
     "uikNumber": 428,
     "uikTvd": "4754030210286",
+    "uikName": "УИК №428",
     "tikTvd": "27520001371137",
     "tikName": "Чита, Черновская",
+    "regionCode": "92",
+    "regionTvd": "100100225883739",
+    "regionName": "Забайкальский край",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 1595,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 1590,
@@ -6834,12 +8166,12 @@ export const duma_2021_uik_463_region_92_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Григорьев Юрий Иннокентьевич": 123,
-      "Кулиева Василина Васильевна": 63,
-      "Михайлов Александр Николаевич": 40,
-      "Носов Дмитрий Юрьевич": 94,
-      "Синкевич Александр Иннокентьевич": 11,
-      "Фисун Екатерина Владимировна": 37
+      "27520001377668": 123,
+      "27520001376842": 63,
+      "27520001379333": 40,
+      "27520001377140": 94,
+      "27520001378564": 11,
+      "27520001379613": 37
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/zabkray?action=show&root=1000304&tvd=27520001371137&vrn=100100225883172&region=92&global=&sub_region=92&prver=0&pronetvd=null&vibid=27520001371137&type=464",
@@ -6849,6 +8181,10 @@ export const duma_2021_uik_463_region_92_part_004 = [
       "retrievedAt": "2026-08-26T08:10:30.634221+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/zabkray?action=show&root=1000304&tvd=27520001371137&vrn=100100225883172&region=92&global=&sub_region=92&prver=0&pronetvd=null&vibid=27520001371137&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 44,
+      "oikTvd": "100100225883741"
     }
   },
   {
@@ -6858,8 +8194,12 @@ export const duma_2021_uik_463_region_92_part_004 = [
     "ballot": "single-member",
     "uikNumber": 429,
     "uikTvd": "4754030210287",
+    "uikName": "УИК №429",
     "tikTvd": "27520001371137",
     "tikName": "Чита, Черновская",
+    "regionCode": "92",
+    "regionTvd": "100100225883739",
+    "regionName": "Забайкальский край",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 972,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 950,
@@ -6875,12 +8215,12 @@ export const duma_2021_uik_463_region_92_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Григорьев Юрий Иннокентьевич": 209,
-      "Кулиева Василина Васильевна": 40,
-      "Михайлов Александр Николаевич": 38,
-      "Носов Дмитрий Юрьевич": 94,
-      "Синкевич Александр Иннокентьевич": 18,
-      "Фисун Екатерина Владимировна": 54
+      "27520001377668": 209,
+      "27520001376842": 40,
+      "27520001379333": 38,
+      "27520001377140": 94,
+      "27520001378564": 18,
+      "27520001379613": 54
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/zabkray?action=show&root=1000304&tvd=27520001371137&vrn=100100225883172&region=92&global=&sub_region=92&prver=0&pronetvd=null&vibid=27520001371137&type=464",
@@ -6890,6 +8230,10 @@ export const duma_2021_uik_463_region_92_part_004 = [
       "retrievedAt": "2026-08-26T08:10:30.634221+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/zabkray?action=show&root=1000304&tvd=27520001371137&vrn=100100225883172&region=92&global=&sub_region=92&prver=0&pronetvd=null&vibid=27520001371137&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 44,
+      "oikTvd": "100100225883741"
     }
   },
   {
@@ -6899,8 +8243,12 @@ export const duma_2021_uik_463_region_92_part_004 = [
     "ballot": "single-member",
     "uikNumber": 430,
     "uikTvd": "4754030210288",
+    "uikName": "УИК №430",
     "tikTvd": "27520001371137",
     "tikName": "Чита, Черновская",
+    "regionCode": "92",
+    "regionTvd": "100100225883739",
+    "regionName": "Забайкальский край",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 1787,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 1840,
@@ -6916,12 +8264,12 @@ export const duma_2021_uik_463_region_92_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Григорьев Юрий Иннокентьевич": 81,
-      "Кулиева Василина Васильевна": 73,
-      "Михайлов Александр Николаевич": 45,
-      "Носов Дмитрий Юрьевич": 129,
-      "Синкевич Александр Иннокентьевич": 21,
-      "Фисун Екатерина Владимировна": 92
+      "27520001377668": 81,
+      "27520001376842": 73,
+      "27520001379333": 45,
+      "27520001377140": 129,
+      "27520001378564": 21,
+      "27520001379613": 92
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/zabkray?action=show&root=1000304&tvd=27520001371137&vrn=100100225883172&region=92&global=&sub_region=92&prver=0&pronetvd=null&vibid=27520001371137&type=464",
@@ -6931,6 +8279,10 @@ export const duma_2021_uik_463_region_92_part_004 = [
       "retrievedAt": "2026-08-26T08:10:30.634221+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/zabkray?action=show&root=1000304&tvd=27520001371137&vrn=100100225883172&region=92&global=&sub_region=92&prver=0&pronetvd=null&vibid=27520001371137&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 44,
+      "oikTvd": "100100225883741"
     }
   },
   {
@@ -6940,8 +8292,12 @@ export const duma_2021_uik_463_region_92_part_004 = [
     "ballot": "single-member",
     "uikNumber": 431,
     "uikTvd": "4754030210289",
+    "uikName": "УИК №431",
     "tikTvd": "27520001371137",
     "tikName": "Чита, Черновская",
+    "regionCode": "92",
+    "regionTvd": "100100225883739",
+    "regionName": "Забайкальский край",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 1055,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 1100,
@@ -6957,12 +8313,12 @@ export const duma_2021_uik_463_region_92_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Григорьев Юрий Иннокентьевич": 115,
-      "Кулиева Василина Васильевна": 49,
-      "Михайлов Александр Николаевич": 19,
-      "Носов Дмитрий Юрьевич": 42,
-      "Синкевич Александр Иннокентьевич": 6,
-      "Фисун Екатерина Владимировна": 39
+      "27520001377668": 115,
+      "27520001376842": 49,
+      "27520001379333": 19,
+      "27520001377140": 42,
+      "27520001378564": 6,
+      "27520001379613": 39
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/zabkray?action=show&root=1000304&tvd=27520001371137&vrn=100100225883172&region=92&global=&sub_region=92&prver=0&pronetvd=null&vibid=27520001371137&type=464",
@@ -6972,6 +8328,10 @@ export const duma_2021_uik_463_region_92_part_004 = [
       "retrievedAt": "2026-08-26T08:10:30.634221+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/zabkray?action=show&root=1000304&tvd=27520001371137&vrn=100100225883172&region=92&global=&sub_region=92&prver=0&pronetvd=null&vibid=27520001371137&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 44,
+      "oikTvd": "100100225883741"
     }
   },
   {
@@ -6981,8 +8341,12 @@ export const duma_2021_uik_463_region_92_part_004 = [
     "ballot": "single-member",
     "uikNumber": 432,
     "uikTvd": "4754030210290",
+    "uikName": "УИК №432",
     "tikTvd": "27520001371137",
     "tikName": "Чита, Черновская",
+    "regionCode": "92",
+    "regionTvd": "100100225883739",
+    "regionName": "Забайкальский край",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 841,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 850,
@@ -6998,12 +8362,12 @@ export const duma_2021_uik_463_region_92_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Григорьев Юрий Иннокентьевич": 161,
-      "Кулиева Василина Васильевна": 50,
-      "Михайлов Александр Николаевич": 19,
-      "Носов Дмитрий Юрьевич": 38,
-      "Синкевич Александр Иннокентьевич": 7,
-      "Фисун Екатерина Владимировна": 34
+      "27520001377668": 161,
+      "27520001376842": 50,
+      "27520001379333": 19,
+      "27520001377140": 38,
+      "27520001378564": 7,
+      "27520001379613": 34
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/zabkray?action=show&root=1000304&tvd=27520001371137&vrn=100100225883172&region=92&global=&sub_region=92&prver=0&pronetvd=null&vibid=27520001371137&type=464",
@@ -7013,6 +8377,10 @@ export const duma_2021_uik_463_region_92_part_004 = [
       "retrievedAt": "2026-08-26T08:10:30.634221+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/zabkray?action=show&root=1000304&tvd=27520001371137&vrn=100100225883172&region=92&global=&sub_region=92&prver=0&pronetvd=null&vibid=27520001371137&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 44,
+      "oikTvd": "100100225883741"
     }
   },
   {
@@ -7022,8 +8390,12 @@ export const duma_2021_uik_463_region_92_part_004 = [
     "ballot": "single-member",
     "uikNumber": 433,
     "uikTvd": "4754030210291",
+    "uikName": "УИК №433",
     "tikTvd": "27520001371137",
     "tikName": "Чита, Черновская",
+    "regionCode": "92",
+    "regionTvd": "100100225883739",
+    "regionName": "Забайкальский край",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 614,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 600,
@@ -7039,12 +8411,12 @@ export const duma_2021_uik_463_region_92_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Григорьев Юрий Иннокентьевич": 155,
-      "Кулиева Василина Васильевна": 28,
-      "Михайлов Александр Николаевич": 24,
-      "Носов Дмитрий Юрьевич": 20,
-      "Синкевич Александр Иннокентьевич": 10,
-      "Фисун Екатерина Владимировна": 33
+      "27520001377668": 155,
+      "27520001376842": 28,
+      "27520001379333": 24,
+      "27520001377140": 20,
+      "27520001378564": 10,
+      "27520001379613": 33
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/zabkray?action=show&root=1000304&tvd=27520001371137&vrn=100100225883172&region=92&global=&sub_region=92&prver=0&pronetvd=null&vibid=27520001371137&type=464",
@@ -7054,6 +8426,10 @@ export const duma_2021_uik_463_region_92_part_004 = [
       "retrievedAt": "2026-08-26T08:10:30.634221+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/zabkray?action=show&root=1000304&tvd=27520001371137&vrn=100100225883172&region=92&global=&sub_region=92&prver=0&pronetvd=null&vibid=27520001371137&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 44,
+      "oikTvd": "100100225883741"
     }
   },
   {
@@ -7063,8 +8439,12 @@ export const duma_2021_uik_463_region_92_part_004 = [
     "ballot": "single-member",
     "uikNumber": 8000,
     "uikTvd": "4754030217791",
+    "uikName": "УИК №8000",
     "tikTvd": "27520001371137",
     "tikName": "Чита, Черновская",
+    "regionCode": "92",
+    "regionTvd": "100100225883739",
+    "regionName": "Забайкальский край",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 2545,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 12850,
@@ -7080,12 +8460,12 @@ export const duma_2021_uik_463_region_92_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Григорьев Юрий Иннокентьевич": 1511,
-      "Кулиева Василина Васильевна": 78,
-      "Михайлов Александр Николаевич": 71,
-      "Носов Дмитрий Юрьевич": 107,
-      "Синкевич Александр Иннокентьевич": 23,
-      "Фисун Екатерина Владимировна": 569
+      "27520001377668": 1511,
+      "27520001376842": 78,
+      "27520001379333": 71,
+      "27520001377140": 107,
+      "27520001378564": 23,
+      "27520001379613": 569
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/zabkray?action=show&root=1000304&tvd=27520001371137&vrn=100100225883172&region=92&global=&sub_region=92&prver=0&pronetvd=null&vibid=27520001371137&type=464",
@@ -7095,6 +8475,10 @@ export const duma_2021_uik_463_region_92_part_004 = [
       "retrievedAt": "2026-08-26T08:10:30.634221+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/zabkray?action=show&root=1000304&tvd=27520001371137&vrn=100100225883172&region=92&global=&sub_region=92&prver=0&pronetvd=null&vibid=27520001371137&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 44,
+      "oikTvd": "100100225883741"
     }
   },
   {
@@ -7104,8 +8488,12 @@ export const duma_2021_uik_463_region_92_part_004 = [
     "ballot": "single-member",
     "uikNumber": 301,
     "uikTvd": "4754027184071",
+    "uikName": "УИК №301",
     "tikTvd": "27520001371138",
     "tikName": "Чита, Железнодорожная",
+    "regionCode": "92",
+    "regionTvd": "100100225883739",
+    "regionName": "Забайкальский край",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 2236,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 2200,
@@ -7121,12 +8509,12 @@ export const duma_2021_uik_463_region_92_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Григорьев Юрий Иннокентьевич": 115,
-      "Кулиева Василина Васильевна": 121,
-      "Михайлов Александр Николаевич": 84,
-      "Носов Дмитрий Юрьевич": 156,
-      "Синкевич Александр Иннокентьевич": 26,
-      "Фисун Екатерина Владимировна": 80
+      "27520001377668": 115,
+      "27520001376842": 121,
+      "27520001379333": 84,
+      "27520001377140": 156,
+      "27520001378564": 26,
+      "27520001379613": 80
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/zabkray?action=show&root=1000304&tvd=27520001371138&vrn=100100225883172&region=92&global=&sub_region=92&prver=0&pronetvd=null&vibid=27520001371138&type=464",
@@ -7136,6 +8524,10 @@ export const duma_2021_uik_463_region_92_part_004 = [
       "retrievedAt": "2026-08-26T08:10:31.001152+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/zabkray?action=show&root=1000304&tvd=27520001371138&vrn=100100225883172&region=92&global=&sub_region=92&prver=0&pronetvd=null&vibid=27520001371138&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 44,
+      "oikTvd": "100100225883741"
     }
   },
   {
@@ -7145,8 +8537,12 @@ export const duma_2021_uik_463_region_92_part_004 = [
     "ballot": "single-member",
     "uikNumber": 302,
     "uikTvd": "4754027184073",
+    "uikName": "УИК №302",
     "tikTvd": "27520001371138",
     "tikName": "Чита, Железнодорожная",
+    "regionCode": "92",
+    "regionTvd": "100100225883739",
+    "regionName": "Забайкальский край",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 2613,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 2600,
@@ -7162,12 +8558,12 @@ export const duma_2021_uik_463_region_92_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Григорьев Юрий Иннокентьевич": 112,
-      "Кулиева Василина Васильевна": 105,
-      "Михайлов Александр Николаевич": 83,
-      "Носов Дмитрий Юрьевич": 171,
-      "Синкевич Александр Иннокентьевич": 25,
-      "Фисун Екатерина Владимировна": 144
+      "27520001377668": 112,
+      "27520001376842": 105,
+      "27520001379333": 83,
+      "27520001377140": 171,
+      "27520001378564": 25,
+      "27520001379613": 144
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/zabkray?action=show&root=1000304&tvd=27520001371138&vrn=100100225883172&region=92&global=&sub_region=92&prver=0&pronetvd=null&vibid=27520001371138&type=464",
@@ -7177,6 +8573,10 @@ export const duma_2021_uik_463_region_92_part_004 = [
       "retrievedAt": "2026-08-26T08:10:31.001152+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/zabkray?action=show&root=1000304&tvd=27520001371138&vrn=100100225883172&region=92&global=&sub_region=92&prver=0&pronetvd=null&vibid=27520001371138&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 44,
+      "oikTvd": "100100225883741"
     }
   },
   {
@@ -7186,8 +8586,12 @@ export const duma_2021_uik_463_region_92_part_004 = [
     "ballot": "single-member",
     "uikNumber": 303,
     "uikTvd": "4754027184074",
+    "uikName": "УИК №303",
     "tikTvd": "27520001371138",
     "tikName": "Чита, Железнодорожная",
+    "regionCode": "92",
+    "regionTvd": "100100225883739",
+    "regionName": "Забайкальский край",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 2619,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 2600,
@@ -7203,12 +8607,12 @@ export const duma_2021_uik_463_region_92_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Григорьев Юрий Иннокентьевич": 152,
-      "Кулиева Василина Васильевна": 129,
-      "Михайлов Александр Николаевич": 92,
-      "Носов Дмитрий Юрьевич": 181,
-      "Синкевич Александр Иннокентьевич": 38,
-      "Фисун Екатерина Владимировна": 127
+      "27520001377668": 152,
+      "27520001376842": 129,
+      "27520001379333": 92,
+      "27520001377140": 181,
+      "27520001378564": 38,
+      "27520001379613": 127
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/zabkray?action=show&root=1000304&tvd=27520001371138&vrn=100100225883172&region=92&global=&sub_region=92&prver=0&pronetvd=null&vibid=27520001371138&type=464",
@@ -7218,6 +8622,10 @@ export const duma_2021_uik_463_region_92_part_004 = [
       "retrievedAt": "2026-08-26T08:10:31.001152+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/zabkray?action=show&root=1000304&tvd=27520001371138&vrn=100100225883172&region=92&global=&sub_region=92&prver=0&pronetvd=null&vibid=27520001371138&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 44,
+      "oikTvd": "100100225883741"
     }
   },
   {
@@ -7227,8 +8635,12 @@ export const duma_2021_uik_463_region_92_part_004 = [
     "ballot": "single-member",
     "uikNumber": 304,
     "uikTvd": "4754027184075",
+    "uikName": "УИК №304",
     "tikTvd": "27520001371138",
     "tikName": "Чита, Железнодорожная",
+    "regionCode": "92",
+    "regionTvd": "100100225883739",
+    "regionName": "Забайкальский край",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 2786,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 2700,
@@ -7244,12 +8656,12 @@ export const duma_2021_uik_463_region_92_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Григорьев Юрий Иннокентьевич": 179,
-      "Кулиева Василина Васильевна": 124,
-      "Михайлов Александр Николаевич": 84,
-      "Носов Дмитрий Юрьевич": 211,
-      "Синкевич Александр Иннокентьевич": 33,
-      "Фисун Екатерина Владимировна": 172
+      "27520001377668": 179,
+      "27520001376842": 124,
+      "27520001379333": 84,
+      "27520001377140": 211,
+      "27520001378564": 33,
+      "27520001379613": 172
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/zabkray?action=show&root=1000304&tvd=27520001371138&vrn=100100225883172&region=92&global=&sub_region=92&prver=0&pronetvd=null&vibid=27520001371138&type=464",
@@ -7259,6 +8671,10 @@ export const duma_2021_uik_463_region_92_part_004 = [
       "retrievedAt": "2026-08-26T08:10:31.001152+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/zabkray?action=show&root=1000304&tvd=27520001371138&vrn=100100225883172&region=92&global=&sub_region=92&prver=0&pronetvd=null&vibid=27520001371138&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 44,
+      "oikTvd": "100100225883741"
     }
   },
   {
@@ -7268,8 +8684,12 @@ export const duma_2021_uik_463_region_92_part_004 = [
     "ballot": "single-member",
     "uikNumber": 305,
     "uikTvd": "4754027184076",
+    "uikName": "УИК №305",
     "tikTvd": "27520001371138",
     "tikName": "Чита, Железнодорожная",
+    "regionCode": "92",
+    "regionTvd": "100100225883739",
+    "regionName": "Забайкальский край",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 2402,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 2400,
@@ -7285,12 +8705,12 @@ export const duma_2021_uik_463_region_92_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Григорьев Юрий Иннокентьевич": 171,
-      "Кулиева Василина Васильевна": 124,
-      "Михайлов Александр Николаевич": 96,
-      "Носов Дмитрий Юрьевич": 198,
-      "Синкевич Александр Иннокентьевич": 22,
-      "Фисун Екатерина Владимировна": 153
+      "27520001377668": 171,
+      "27520001376842": 124,
+      "27520001379333": 96,
+      "27520001377140": 198,
+      "27520001378564": 22,
+      "27520001379613": 153
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/zabkray?action=show&root=1000304&tvd=27520001371138&vrn=100100225883172&region=92&global=&sub_region=92&prver=0&pronetvd=null&vibid=27520001371138&type=464",
@@ -7300,6 +8720,10 @@ export const duma_2021_uik_463_region_92_part_004 = [
       "retrievedAt": "2026-08-26T08:10:31.001152+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/zabkray?action=show&root=1000304&tvd=27520001371138&vrn=100100225883172&region=92&global=&sub_region=92&prver=0&pronetvd=null&vibid=27520001371138&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 44,
+      "oikTvd": "100100225883741"
     }
   },
   {
@@ -7309,8 +8733,12 @@ export const duma_2021_uik_463_region_92_part_004 = [
     "ballot": "single-member",
     "uikNumber": 306,
     "uikTvd": "4754027184077",
+    "uikName": "УИК №306",
     "tikTvd": "27520001371138",
     "tikName": "Чита, Железнодорожная",
+    "regionCode": "92",
+    "regionTvd": "100100225883739",
+    "regionName": "Забайкальский край",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 2585,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 2500,
@@ -7326,12 +8754,12 @@ export const duma_2021_uik_463_region_92_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Григорьев Юрий Иннокентьевич": 123,
-      "Кулиева Василина Васильевна": 127,
-      "Михайлов Александр Николаевич": 67,
-      "Носов Дмитрий Юрьевич": 170,
-      "Синкевич Александр Иннокентьевич": 27,
-      "Фисун Екатерина Владимировна": 95
+      "27520001377668": 123,
+      "27520001376842": 127,
+      "27520001379333": 67,
+      "27520001377140": 170,
+      "27520001378564": 27,
+      "27520001379613": 95
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/zabkray?action=show&root=1000304&tvd=27520001371138&vrn=100100225883172&region=92&global=&sub_region=92&prver=0&pronetvd=null&vibid=27520001371138&type=464",
@@ -7341,6 +8769,10 @@ export const duma_2021_uik_463_region_92_part_004 = [
       "retrievedAt": "2026-08-26T08:10:31.001152+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/zabkray?action=show&root=1000304&tvd=27520001371138&vrn=100100225883172&region=92&global=&sub_region=92&prver=0&pronetvd=null&vibid=27520001371138&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 44,
+      "oikTvd": "100100225883741"
     }
   },
   {
@@ -7350,8 +8782,12 @@ export const duma_2021_uik_463_region_92_part_004 = [
     "ballot": "single-member",
     "uikNumber": 307,
     "uikTvd": "4754027184078",
+    "uikName": "УИК №307",
     "tikTvd": "27520001371138",
     "tikName": "Чита, Железнодорожная",
+    "regionCode": "92",
+    "regionTvd": "100100225883739",
+    "regionName": "Забайкальский край",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 3032,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 2930,
@@ -7367,12 +8803,12 @@ export const duma_2021_uik_463_region_92_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Григорьев Юрий Иннокентьевич": 166,
-      "Кулиева Василина Васильевна": 146,
-      "Михайлов Александр Николаевич": 92,
-      "Носов Дмитрий Юрьевич": 242,
-      "Синкевич Александр Иннокентьевич": 35,
-      "Фисун Екатерина Владимировна": 247
+      "27520001377668": 166,
+      "27520001376842": 146,
+      "27520001379333": 92,
+      "27520001377140": 242,
+      "27520001378564": 35,
+      "27520001379613": 247
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/zabkray?action=show&root=1000304&tvd=27520001371138&vrn=100100225883172&region=92&global=&sub_region=92&prver=0&pronetvd=null&vibid=27520001371138&type=464",
@@ -7382,6 +8818,10 @@ export const duma_2021_uik_463_region_92_part_004 = [
       "retrievedAt": "2026-08-26T08:10:31.001152+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/zabkray?action=show&root=1000304&tvd=27520001371138&vrn=100100225883172&region=92&global=&sub_region=92&prver=0&pronetvd=null&vibid=27520001371138&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 44,
+      "oikTvd": "100100225883741"
     }
   },
   {
@@ -7391,8 +8831,12 @@ export const duma_2021_uik_463_region_92_part_004 = [
     "ballot": "single-member",
     "uikNumber": 308,
     "uikTvd": "4754027184079",
+    "uikName": "УИК №308",
     "tikTvd": "27520001371138",
     "tikName": "Чита, Железнодорожная",
+    "regionCode": "92",
+    "regionTvd": "100100225883739",
+    "regionName": "Забайкальский край",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 1780,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 1600,
@@ -7408,12 +8852,12 @@ export const duma_2021_uik_463_region_92_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Григорьев Юрий Иннокентьевич": 105,
-      "Кулиева Василина Васильевна": 74,
-      "Михайлов Александр Николаевич": 49,
-      "Носов Дмитрий Юрьевич": 109,
-      "Синкевич Александр Иннокентьевич": 14,
-      "Фисун Екатерина Владимировна": 75
+      "27520001377668": 105,
+      "27520001376842": 74,
+      "27520001379333": 49,
+      "27520001377140": 109,
+      "27520001378564": 14,
+      "27520001379613": 75
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/zabkray?action=show&root=1000304&tvd=27520001371138&vrn=100100225883172&region=92&global=&sub_region=92&prver=0&pronetvd=null&vibid=27520001371138&type=464",
@@ -7423,6 +8867,10 @@ export const duma_2021_uik_463_region_92_part_004 = [
       "retrievedAt": "2026-08-26T08:10:31.001152+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/zabkray?action=show&root=1000304&tvd=27520001371138&vrn=100100225883172&region=92&global=&sub_region=92&prver=0&pronetvd=null&vibid=27520001371138&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 44,
+      "oikTvd": "100100225883741"
     }
   },
   {
@@ -7432,8 +8880,12 @@ export const duma_2021_uik_463_region_92_part_004 = [
     "ballot": "single-member",
     "uikNumber": 309,
     "uikTvd": "4754027184080",
+    "uikName": "УИК №309",
     "tikTvd": "27520001371138",
     "tikName": "Чита, Железнодорожная",
+    "regionCode": "92",
+    "regionTvd": "100100225883739",
+    "regionName": "Забайкальский край",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 2183,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 2100,
@@ -7449,12 +8901,12 @@ export const duma_2021_uik_463_region_92_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Григорьев Юрий Иннокентьевич": 137,
-      "Кулиева Василина Васильевна": 67,
-      "Михайлов Александр Николаевич": 58,
-      "Носов Дмитрий Юрьевич": 149,
-      "Синкевич Александр Иннокентьевич": 20,
-      "Фисун Екатерина Владимировна": 83
+      "27520001377668": 137,
+      "27520001376842": 67,
+      "27520001379333": 58,
+      "27520001377140": 149,
+      "27520001378564": 20,
+      "27520001379613": 83
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/zabkray?action=show&root=1000304&tvd=27520001371138&vrn=100100225883172&region=92&global=&sub_region=92&prver=0&pronetvd=null&vibid=27520001371138&type=464",
@@ -7464,6 +8916,10 @@ export const duma_2021_uik_463_region_92_part_004 = [
       "retrievedAt": "2026-08-26T08:10:31.001152+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/zabkray?action=show&root=1000304&tvd=27520001371138&vrn=100100225883172&region=92&global=&sub_region=92&prver=0&pronetvd=null&vibid=27520001371138&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 44,
+      "oikTvd": "100100225883741"
     }
   },
   {
@@ -7473,8 +8929,12 @@ export const duma_2021_uik_463_region_92_part_004 = [
     "ballot": "single-member",
     "uikNumber": 310,
     "uikTvd": "4754027184081",
+    "uikName": "УИК №310",
     "tikTvd": "27520001371138",
     "tikName": "Чита, Железнодорожная",
+    "regionCode": "92",
+    "regionTvd": "100100225883739",
+    "regionName": "Забайкальский край",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 2603,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 2500,
@@ -7490,12 +8950,12 @@ export const duma_2021_uik_463_region_92_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Григорьев Юрий Иннокентьевич": 147,
-      "Кулиева Василина Васильевна": 126,
-      "Михайлов Александр Николаевич": 115,
-      "Носов Дмитрий Юрьевич": 147,
-      "Синкевич Александр Иннокентьевич": 20,
-      "Фисун Екатерина Владимировна": 105
+      "27520001377668": 147,
+      "27520001376842": 126,
+      "27520001379333": 115,
+      "27520001377140": 147,
+      "27520001378564": 20,
+      "27520001379613": 105
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/zabkray?action=show&root=1000304&tvd=27520001371138&vrn=100100225883172&region=92&global=&sub_region=92&prver=0&pronetvd=null&vibid=27520001371138&type=464",
@@ -7505,6 +8965,10 @@ export const duma_2021_uik_463_region_92_part_004 = [
       "retrievedAt": "2026-08-26T08:10:31.001152+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/zabkray?action=show&root=1000304&tvd=27520001371138&vrn=100100225883172&region=92&global=&sub_region=92&prver=0&pronetvd=null&vibid=27520001371138&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 44,
+      "oikTvd": "100100225883741"
     }
   },
   {
@@ -7514,8 +8978,12 @@ export const duma_2021_uik_463_region_92_part_004 = [
     "ballot": "single-member",
     "uikNumber": 311,
     "uikTvd": "4754027184082",
+    "uikName": "УИК №311",
     "tikTvd": "27520001371138",
     "tikName": "Чита, Железнодорожная",
+    "regionCode": "92",
+    "regionTvd": "100100225883739",
+    "regionName": "Забайкальский край",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 2844,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 2700,
@@ -7531,12 +8999,12 @@ export const duma_2021_uik_463_region_92_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Григорьев Юрий Иннокентьевич": 136,
-      "Кулиева Василина Васильевна": 180,
-      "Михайлов Александр Николаевич": 93,
-      "Носов Дмитрий Юрьевич": 255,
-      "Синкевич Александр Иннокентьевич": 42,
-      "Фисун Екатерина Владимировна": 261
+      "27520001377668": 136,
+      "27520001376842": 180,
+      "27520001379333": 93,
+      "27520001377140": 255,
+      "27520001378564": 42,
+      "27520001379613": 261
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/zabkray?action=show&root=1000304&tvd=27520001371138&vrn=100100225883172&region=92&global=&sub_region=92&prver=0&pronetvd=null&vibid=27520001371138&type=464",
@@ -7546,6 +9014,10 @@ export const duma_2021_uik_463_region_92_part_004 = [
       "retrievedAt": "2026-08-26T08:10:31.001152+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/zabkray?action=show&root=1000304&tvd=27520001371138&vrn=100100225883172&region=92&global=&sub_region=92&prver=0&pronetvd=null&vibid=27520001371138&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 44,
+      "oikTvd": "100100225883741"
     }
   },
   {
@@ -7555,8 +9027,12 @@ export const duma_2021_uik_463_region_92_part_004 = [
     "ballot": "single-member",
     "uikNumber": 312,
     "uikTvd": "4754027184083",
+    "uikName": "УИК №312",
     "tikTvd": "27520001371138",
     "tikName": "Чита, Железнодорожная",
+    "regionCode": "92",
+    "regionTvd": "100100225883739",
+    "regionName": "Забайкальский край",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 2927,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 2800,
@@ -7572,12 +9048,12 @@ export const duma_2021_uik_463_region_92_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Григорьев Юрий Иннокентьевич": 174,
-      "Кулиева Василина Васильевна": 147,
-      "Михайлов Александр Николаевич": 64,
-      "Носов Дмитрий Юрьевич": 194,
-      "Синкевич Александр Иннокентьевич": 25,
-      "Фисун Екатерина Владимировна": 118
+      "27520001377668": 174,
+      "27520001376842": 147,
+      "27520001379333": 64,
+      "27520001377140": 194,
+      "27520001378564": 25,
+      "27520001379613": 118
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/zabkray?action=show&root=1000304&tvd=27520001371138&vrn=100100225883172&region=92&global=&sub_region=92&prver=0&pronetvd=null&vibid=27520001371138&type=464",
@@ -7587,6 +9063,10 @@ export const duma_2021_uik_463_region_92_part_004 = [
       "retrievedAt": "2026-08-26T08:10:31.001152+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/zabkray?action=show&root=1000304&tvd=27520001371138&vrn=100100225883172&region=92&global=&sub_region=92&prver=0&pronetvd=null&vibid=27520001371138&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 44,
+      "oikTvd": "100100225883741"
     }
   },
   {
@@ -7596,8 +9076,12 @@ export const duma_2021_uik_463_region_92_part_004 = [
     "ballot": "single-member",
     "uikNumber": 313,
     "uikTvd": "4754027184084",
+    "uikName": "УИК №313",
     "tikTvd": "27520001371138",
     "tikName": "Чита, Железнодорожная",
+    "regionCode": "92",
+    "regionTvd": "100100225883739",
+    "regionName": "Забайкальский край",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 2801,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 2700,
@@ -7613,12 +9097,12 @@ export const duma_2021_uik_463_region_92_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Григорьев Юрий Иннокентьевич": 197,
-      "Кулиева Василина Васильевна": 144,
-      "Михайлов Александр Николаевич": 99,
-      "Носов Дмитрий Юрьевич": 177,
-      "Синкевич Александр Иннокентьевич": 39,
-      "Фисун Екатерина Владимировна": 137
+      "27520001377668": 197,
+      "27520001376842": 144,
+      "27520001379333": 99,
+      "27520001377140": 177,
+      "27520001378564": 39,
+      "27520001379613": 137
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/zabkray?action=show&root=1000304&tvd=27520001371138&vrn=100100225883172&region=92&global=&sub_region=92&prver=0&pronetvd=null&vibid=27520001371138&type=464",
@@ -7628,6 +9112,10 @@ export const duma_2021_uik_463_region_92_part_004 = [
       "retrievedAt": "2026-08-26T08:10:31.001152+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/zabkray?action=show&root=1000304&tvd=27520001371138&vrn=100100225883172&region=92&global=&sub_region=92&prver=0&pronetvd=null&vibid=27520001371138&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 44,
+      "oikTvd": "100100225883741"
     }
   },
   {
@@ -7637,8 +9125,12 @@ export const duma_2021_uik_463_region_92_part_004 = [
     "ballot": "single-member",
     "uikNumber": 314,
     "uikTvd": "4754027184085",
+    "uikName": "УИК №314",
     "tikTvd": "27520001371138",
     "tikName": "Чита, Железнодорожная",
+    "regionCode": "92",
+    "regionTvd": "100100225883739",
+    "regionName": "Забайкальский край",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 2108,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 2000,
@@ -7654,12 +9146,12 @@ export const duma_2021_uik_463_region_92_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Григорьев Юрий Иннокентьевич": 205,
-      "Кулиева Василина Васильевна": 84,
-      "Михайлов Александр Николаевич": 44,
-      "Носов Дмитрий Юрьевич": 122,
-      "Синкевич Александр Иннокентьевич": 21,
-      "Фисун Екатерина Владимировна": 135
+      "27520001377668": 205,
+      "27520001376842": 84,
+      "27520001379333": 44,
+      "27520001377140": 122,
+      "27520001378564": 21,
+      "27520001379613": 135
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/zabkray?action=show&root=1000304&tvd=27520001371138&vrn=100100225883172&region=92&global=&sub_region=92&prver=0&pronetvd=null&vibid=27520001371138&type=464",
@@ -7669,6 +9161,10 @@ export const duma_2021_uik_463_region_92_part_004 = [
       "retrievedAt": "2026-08-26T08:10:31.001152+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/zabkray?action=show&root=1000304&tvd=27520001371138&vrn=100100225883172&region=92&global=&sub_region=92&prver=0&pronetvd=null&vibid=27520001371138&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 44,
+      "oikTvd": "100100225883741"
     }
   },
   {
@@ -7678,8 +9174,12 @@ export const duma_2021_uik_463_region_92_part_004 = [
     "ballot": "single-member",
     "uikNumber": 315,
     "uikTvd": "4754027184086",
+    "uikName": "УИК №315",
     "tikTvd": "27520001371138",
     "tikName": "Чита, Железнодорожная",
+    "regionCode": "92",
+    "regionTvd": "100100225883739",
+    "regionName": "Забайкальский край",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 2219,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 2100,
@@ -7695,12 +9195,12 @@ export const duma_2021_uik_463_region_92_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Григорьев Юрий Иннокентьевич": 129,
-      "Кулиева Василина Васильевна": 120,
-      "Михайлов Александр Николаевич": 80,
-      "Носов Дмитрий Юрьевич": 202,
-      "Синкевич Александр Иннокентьевич": 25,
-      "Фисун Екатерина Владимировна": 255
+      "27520001377668": 129,
+      "27520001376842": 120,
+      "27520001379333": 80,
+      "27520001377140": 202,
+      "27520001378564": 25,
+      "27520001379613": 255
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/zabkray?action=show&root=1000304&tvd=27520001371138&vrn=100100225883172&region=92&global=&sub_region=92&prver=0&pronetvd=null&vibid=27520001371138&type=464",
@@ -7710,6 +9210,10 @@ export const duma_2021_uik_463_region_92_part_004 = [
       "retrievedAt": "2026-08-26T08:10:31.001152+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/zabkray?action=show&root=1000304&tvd=27520001371138&vrn=100100225883172&region=92&global=&sub_region=92&prver=0&pronetvd=null&vibid=27520001371138&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 44,
+      "oikTvd": "100100225883741"
     }
   }
 ] satisfies readonly UikProtocol[];

@@ -42,15 +42,15 @@ export const duma_2003_uik_428_region_77_part_011 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Андронова Ольга Александровна": 3,
-      "Вашуркин Игорь Олегович": 0,
-      "Гончар Николай Николаевич": 1,
-      "Карпухина Елена Алексеевна": 0,
-      "Кузнецов Александр Петрович": 0,
-      "Пашинцев Борис Анатольевич": 0,
-      "Плешаков Александр Петрович": 0,
-      "Русский Александр Васильевич": 0,
-      "Против всех": 0
+      "gas:candidate-vibid:1001000188026": 3,
+      "gas:candidate-vibid:1001000202345": 0,
+      "gas:candidate-vibid:377301270354": 1,
+      "gas:candidate-vibid:1001000121941": 0,
+      "gas:candidate-vibid:1001000195171": 0,
+      "gas:candidate-vibid:377301270533": 0,
+      "gas:candidate-vibid:377301270420": 0,
+      "gas:candidate-vibid:377301270360": 0,
+      "special:against-all": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=773012002&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=377301270385&region=0&sub_region=0&type=429",
@@ -100,15 +100,15 @@ export const duma_2003_uik_428_region_77_part_011 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Андронова Ольга Александровна": 116,
-      "Вашуркин Игорь Олегович": 11,
-      "Гончар Николай Николаевич": 586,
-      "Карпухина Елена Алексеевна": 86,
-      "Кузнецов Александр Петрович": 14,
-      "Пашинцев Борис Анатольевич": 17,
-      "Плешаков Александр Петрович": 152,
-      "Русский Александр Васильевич": 16,
-      "Против всех": 218
+      "gas:candidate-vibid:1001000188026": 116,
+      "gas:candidate-vibid:1001000202345": 11,
+      "gas:candidate-vibid:377301270354": 586,
+      "gas:candidate-vibid:1001000121941": 86,
+      "gas:candidate-vibid:1001000195171": 14,
+      "gas:candidate-vibid:377301270533": 17,
+      "gas:candidate-vibid:377301270420": 152,
+      "gas:candidate-vibid:377301270360": 16,
+      "special:against-all": 218
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=773012003&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=377301270387&region=0&sub_region=0&type=429",
@@ -158,15 +158,15 @@ export const duma_2003_uik_428_region_77_part_011 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Андронова Ольга Александровна": 131,
-      "Вашуркин Игорь Олегович": 9,
-      "Гончар Николай Николаевич": 438,
-      "Карпухина Елена Алексеевна": 105,
-      "Кузнецов Александр Петрович": 10,
-      "Пашинцев Борис Анатольевич": 27,
-      "Плешаков Александр Петрович": 170,
-      "Русский Александр Васильевич": 14,
-      "Против всех": 230
+      "gas:candidate-vibid:1001000188026": 131,
+      "gas:candidate-vibid:1001000202345": 9,
+      "gas:candidate-vibid:377301270354": 438,
+      "gas:candidate-vibid:1001000121941": 105,
+      "gas:candidate-vibid:1001000195171": 10,
+      "gas:candidate-vibid:377301270533": 27,
+      "gas:candidate-vibid:377301270420": 170,
+      "gas:candidate-vibid:377301270360": 14,
+      "special:against-all": 230
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=773012003&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=377301270387&region=0&sub_region=0&type=429",
@@ -216,15 +216,15 @@ export const duma_2003_uik_428_region_77_part_011 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Андронова Ольга Александровна": 123,
-      "Вашуркин Игорь Олегович": 10,
-      "Гончар Николай Николаевич": 494,
-      "Карпухина Елена Алексеевна": 92,
-      "Кузнецов Александр Петрович": 9,
-      "Пашинцев Борис Анатольевич": 16,
-      "Плешаков Александр Петрович": 99,
-      "Русский Александр Васильевич": 19,
-      "Против всех": 220
+      "gas:candidate-vibid:1001000188026": 123,
+      "gas:candidate-vibid:1001000202345": 10,
+      "gas:candidate-vibid:377301270354": 494,
+      "gas:candidate-vibid:1001000121941": 92,
+      "gas:candidate-vibid:1001000195171": 9,
+      "gas:candidate-vibid:377301270533": 16,
+      "gas:candidate-vibid:377301270420": 99,
+      "gas:candidate-vibid:377301270360": 19,
+      "special:against-all": 220
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=773012003&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=377301270387&region=0&sub_region=0&type=429",
@@ -274,15 +274,15 @@ export const duma_2003_uik_428_region_77_part_011 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Андронова Ольга Александровна": 84,
-      "Вашуркин Игорь Олегович": 6,
-      "Гончар Николай Николаевич": 397,
-      "Карпухина Елена Алексеевна": 78,
-      "Кузнецов Александр Петрович": 9,
-      "Пашинцев Борис Анатольевич": 12,
-      "Плешаков Александр Петрович": 100,
-      "Русский Александр Васильевич": 15,
-      "Против всех": 192
+      "gas:candidate-vibid:1001000188026": 84,
+      "gas:candidate-vibid:1001000202345": 6,
+      "gas:candidate-vibid:377301270354": 397,
+      "gas:candidate-vibid:1001000121941": 78,
+      "gas:candidate-vibid:1001000195171": 9,
+      "gas:candidate-vibid:377301270533": 12,
+      "gas:candidate-vibid:377301270420": 100,
+      "gas:candidate-vibid:377301270360": 15,
+      "special:against-all": 192
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=773012003&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=377301270387&region=0&sub_region=0&type=429",
@@ -332,15 +332,15 @@ export const duma_2003_uik_428_region_77_part_011 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Андронова Ольга Александровна": 107,
-      "Вашуркин Игорь Олегович": 5,
-      "Гончар Николай Николаевич": 337,
-      "Карпухина Елена Алексеевна": 49,
-      "Кузнецов Александр Петрович": 12,
-      "Пашинцев Борис Анатольевич": 7,
-      "Плешаков Александр Петрович": 79,
-      "Русский Александр Васильевич": 21,
-      "Против всех": 188
+      "gas:candidate-vibid:1001000188026": 107,
+      "gas:candidate-vibid:1001000202345": 5,
+      "gas:candidate-vibid:377301270354": 337,
+      "gas:candidate-vibid:1001000121941": 49,
+      "gas:candidate-vibid:1001000195171": 12,
+      "gas:candidate-vibid:377301270533": 7,
+      "gas:candidate-vibid:377301270420": 79,
+      "gas:candidate-vibid:377301270360": 21,
+      "special:against-all": 188
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=773012003&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=377301270387&region=0&sub_region=0&type=429",
@@ -390,15 +390,15 @@ export const duma_2003_uik_428_region_77_part_011 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Андронова Ольга Александровна": 211,
-      "Вашуркин Игорь Олегович": 18,
-      "Гончар Николай Николаевич": 441,
-      "Карпухина Елена Алексеевна": 154,
-      "Кузнецов Александр Петрович": 66,
-      "Пашинцев Борис Анатольевич": 14,
-      "Плешаков Александр Петрович": 147,
-      "Русский Александр Васильевич": 49,
-      "Против всех": 528
+      "gas:candidate-vibid:1001000188026": 211,
+      "gas:candidate-vibid:1001000202345": 18,
+      "gas:candidate-vibid:377301270354": 441,
+      "gas:candidate-vibid:1001000121941": 154,
+      "gas:candidate-vibid:1001000195171": 66,
+      "gas:candidate-vibid:377301270533": 14,
+      "gas:candidate-vibid:377301270420": 147,
+      "gas:candidate-vibid:377301270360": 49,
+      "special:against-all": 528
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=773012003&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=377301270387&region=0&sub_region=0&type=429",
@@ -448,15 +448,15 @@ export const duma_2003_uik_428_region_77_part_011 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Андронова Ольга Александровна": 129,
-      "Вашуркин Игорь Олегович": 8,
-      "Гончар Николай Николаевич": 575,
-      "Карпухина Елена Алексеевна": 108,
-      "Кузнецов Александр Петрович": 20,
-      "Пашинцев Борис Анатольевич": 16,
-      "Плешаков Александр Петрович": 185,
-      "Русский Александр Васильевич": 28,
-      "Против всех": 247
+      "gas:candidate-vibid:1001000188026": 129,
+      "gas:candidate-vibid:1001000202345": 8,
+      "gas:candidate-vibid:377301270354": 575,
+      "gas:candidate-vibid:1001000121941": 108,
+      "gas:candidate-vibid:1001000195171": 20,
+      "gas:candidate-vibid:377301270533": 16,
+      "gas:candidate-vibid:377301270420": 185,
+      "gas:candidate-vibid:377301270360": 28,
+      "special:against-all": 247
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=773012003&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=377301270387&region=0&sub_region=0&type=429",
@@ -506,15 +506,15 @@ export const duma_2003_uik_428_region_77_part_011 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Андронова Ольга Александровна": 103,
-      "Вашуркин Игорь Олегович": 6,
-      "Гончар Николай Николаевич": 379,
-      "Карпухина Елена Алексеевна": 94,
-      "Кузнецов Александр Петрович": 7,
-      "Пашинцев Борис Анатольевич": 20,
-      "Плешаков Александр Петрович": 81,
-      "Русский Александр Васильевич": 7,
-      "Против всех": 174
+      "gas:candidate-vibid:1001000188026": 103,
+      "gas:candidate-vibid:1001000202345": 6,
+      "gas:candidate-vibid:377301270354": 379,
+      "gas:candidate-vibid:1001000121941": 94,
+      "gas:candidate-vibid:1001000195171": 7,
+      "gas:candidate-vibid:377301270533": 20,
+      "gas:candidate-vibid:377301270420": 81,
+      "gas:candidate-vibid:377301270360": 7,
+      "special:against-all": 174
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=773012003&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=377301270387&region=0&sub_region=0&type=429",
@@ -564,15 +564,15 @@ export const duma_2003_uik_428_region_77_part_011 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Андронова Ольга Александровна": 130,
-      "Вашуркин Игорь Олегович": 14,
-      "Гончар Николай Николаевич": 568,
-      "Карпухина Елена Алексеевна": 128,
-      "Кузнецов Александр Петрович": 19,
-      "Пашинцев Борис Анатольевич": 14,
-      "Плешаков Александр Петрович": 153,
-      "Русский Александр Васильевич": 28,
-      "Против всех": 283
+      "gas:candidate-vibid:1001000188026": 130,
+      "gas:candidate-vibid:1001000202345": 14,
+      "gas:candidate-vibid:377301270354": 568,
+      "gas:candidate-vibid:1001000121941": 128,
+      "gas:candidate-vibid:1001000195171": 19,
+      "gas:candidate-vibid:377301270533": 14,
+      "gas:candidate-vibid:377301270420": 153,
+      "gas:candidate-vibid:377301270360": 28,
+      "special:against-all": 283
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=773012003&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=377301270387&region=0&sub_region=0&type=429",
@@ -622,15 +622,15 @@ export const duma_2003_uik_428_region_77_part_011 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Андронова Ольга Александровна": 59,
-      "Вашуркин Игорь Олегович": 9,
-      "Гончар Николай Николаевич": 145,
-      "Карпухина Елена Алексеевна": 42,
-      "Кузнецов Александр Петрович": 9,
-      "Пашинцев Борис Анатольевич": 3,
-      "Плешаков Александр Петрович": 53,
-      "Русский Александр Васильевич": 11,
-      "Против всех": 115
+      "gas:candidate-vibid:1001000188026": 59,
+      "gas:candidate-vibid:1001000202345": 9,
+      "gas:candidate-vibid:377301270354": 145,
+      "gas:candidate-vibid:1001000121941": 42,
+      "gas:candidate-vibid:1001000195171": 9,
+      "gas:candidate-vibid:377301270533": 3,
+      "gas:candidate-vibid:377301270420": 53,
+      "gas:candidate-vibid:377301270360": 11,
+      "special:against-all": 115
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=773012003&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=377301270387&region=0&sub_region=0&type=429",
@@ -680,15 +680,15 @@ export const duma_2003_uik_428_region_77_part_011 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Андронова Ольга Александровна": 134,
-      "Вашуркин Игорь Олегович": 15,
-      "Гончар Николай Николаевич": 580,
-      "Карпухина Елена Алексеевна": 125,
-      "Кузнецов Александр Петрович": 23,
-      "Пашинцев Борис Анатольевич": 16,
-      "Плешаков Александр Петрович": 130,
-      "Русский Александр Васильевич": 17,
-      "Против всех": 283
+      "gas:candidate-vibid:1001000188026": 134,
+      "gas:candidate-vibid:1001000202345": 15,
+      "gas:candidate-vibid:377301270354": 580,
+      "gas:candidate-vibid:1001000121941": 125,
+      "gas:candidate-vibid:1001000195171": 23,
+      "gas:candidate-vibid:377301270533": 16,
+      "gas:candidate-vibid:377301270420": 130,
+      "gas:candidate-vibid:377301270360": 17,
+      "special:against-all": 283
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=773012003&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=377301270387&region=0&sub_region=0&type=429",
@@ -738,15 +738,15 @@ export const duma_2003_uik_428_region_77_part_011 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Андронова Ольга Александровна": 122,
-      "Вашуркин Игорь Олегович": 10,
-      "Гончар Николай Николаевич": 392,
-      "Карпухина Елена Алексеевна": 110,
-      "Кузнецов Александр Петрович": 17,
-      "Пашинцев Борис Анатольевич": 9,
-      "Плешаков Александр Петрович": 132,
-      "Русский Александр Васильевич": 18,
-      "Против всех": 208
+      "gas:candidate-vibid:1001000188026": 122,
+      "gas:candidate-vibid:1001000202345": 10,
+      "gas:candidate-vibid:377301270354": 392,
+      "gas:candidate-vibid:1001000121941": 110,
+      "gas:candidate-vibid:1001000195171": 17,
+      "gas:candidate-vibid:377301270533": 9,
+      "gas:candidate-vibid:377301270420": 132,
+      "gas:candidate-vibid:377301270360": 18,
+      "special:against-all": 208
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=773012003&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=377301270387&region=0&sub_region=0&type=429",
@@ -796,15 +796,15 @@ export const duma_2003_uik_428_region_77_part_011 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Андронова Ольга Александровна": 112,
-      "Вашуркин Игорь Олегович": 13,
-      "Гончар Николай Николаевич": 562,
-      "Карпухина Елена Алексеевна": 75,
-      "Кузнецов Александр Петрович": 11,
-      "Пашинцев Борис Анатольевич": 13,
-      "Плешаков Александр Петрович": 113,
-      "Русский Александр Васильевич": 34,
-      "Против всех": 246
+      "gas:candidate-vibid:1001000188026": 112,
+      "gas:candidate-vibid:1001000202345": 13,
+      "gas:candidate-vibid:377301270354": 562,
+      "gas:candidate-vibid:1001000121941": 75,
+      "gas:candidate-vibid:1001000195171": 11,
+      "gas:candidate-vibid:377301270533": 13,
+      "gas:candidate-vibid:377301270420": 113,
+      "gas:candidate-vibid:377301270360": 34,
+      "special:against-all": 246
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=773012003&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=377301270387&region=0&sub_region=0&type=429",
@@ -854,15 +854,15 @@ export const duma_2003_uik_428_region_77_part_011 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Андронова Ольга Александровна": 92,
-      "Вашуркин Игорь Олегович": 19,
-      "Гончар Николай Николаевич": 281,
-      "Карпухина Елена Алексеевна": 70,
-      "Кузнецов Александр Петрович": 24,
-      "Пашинцев Борис Анатольевич": 14,
-      "Плешаков Александр Петрович": 110,
-      "Русский Александр Васильевич": 15,
-      "Против всех": 174
+      "gas:candidate-vibid:1001000188026": 92,
+      "gas:candidate-vibid:1001000202345": 19,
+      "gas:candidate-vibid:377301270354": 281,
+      "gas:candidate-vibid:1001000121941": 70,
+      "gas:candidate-vibid:1001000195171": 24,
+      "gas:candidate-vibid:377301270533": 14,
+      "gas:candidate-vibid:377301270420": 110,
+      "gas:candidate-vibid:377301270360": 15,
+      "special:against-all": 174
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=773012003&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=377301270387&region=0&sub_region=0&type=429",
@@ -912,15 +912,15 @@ export const duma_2003_uik_428_region_77_part_011 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Андронова Ольга Александровна": 60,
-      "Вашуркин Игорь Олегович": 7,
-      "Гончар Николай Николаевич": 258,
-      "Карпухина Елена Алексеевна": 51,
-      "Кузнецов Александр Петрович": 7,
-      "Пашинцев Борис Анатольевич": 7,
-      "Плешаков Александр Петрович": 81,
-      "Русский Александр Васильевич": 13,
-      "Против всех": 150
+      "gas:candidate-vibid:1001000188026": 60,
+      "gas:candidate-vibid:1001000202345": 7,
+      "gas:candidate-vibid:377301270354": 258,
+      "gas:candidate-vibid:1001000121941": 51,
+      "gas:candidate-vibid:1001000195171": 7,
+      "gas:candidate-vibid:377301270533": 7,
+      "gas:candidate-vibid:377301270420": 81,
+      "gas:candidate-vibid:377301270360": 13,
+      "special:against-all": 150
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=773012003&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=377301270387&region=0&sub_region=0&type=429",
@@ -970,15 +970,15 @@ export const duma_2003_uik_428_region_77_part_011 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Андронова Ольга Александровна": 142,
-      "Вашуркин Игорь Олегович": 14,
-      "Гончар Николай Николаевич": 481,
-      "Карпухина Елена Алексеевна": 98,
-      "Кузнецов Александр Петрович": 12,
-      "Пашинцев Борис Анатольевич": 15,
-      "Плешаков Александр Петрович": 110,
-      "Русский Александр Васильевич": 25,
-      "Против всех": 221
+      "gas:candidate-vibid:1001000188026": 142,
+      "gas:candidate-vibid:1001000202345": 14,
+      "gas:candidate-vibid:377301270354": 481,
+      "gas:candidate-vibid:1001000121941": 98,
+      "gas:candidate-vibid:1001000195171": 12,
+      "gas:candidate-vibid:377301270533": 15,
+      "gas:candidate-vibid:377301270420": 110,
+      "gas:candidate-vibid:377301270360": 25,
+      "special:against-all": 221
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=773012003&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=377301270387&region=0&sub_region=0&type=429",
@@ -1028,15 +1028,15 @@ export const duma_2003_uik_428_region_77_part_011 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Андронова Ольга Александровна": 154,
-      "Вашуркин Игорь Олегович": 11,
-      "Гончар Николай Николаевич": 761,
-      "Карпухина Елена Алексеевна": 148,
-      "Кузнецов Александр Петрович": 24,
-      "Пашинцев Борис Анатольевич": 17,
-      "Плешаков Александр Петрович": 97,
-      "Русский Александр Васильевич": 35,
-      "Против всех": 297
+      "gas:candidate-vibid:1001000188026": 154,
+      "gas:candidate-vibid:1001000202345": 11,
+      "gas:candidate-vibid:377301270354": 761,
+      "gas:candidate-vibid:1001000121941": 148,
+      "gas:candidate-vibid:1001000195171": 24,
+      "gas:candidate-vibid:377301270533": 17,
+      "gas:candidate-vibid:377301270420": 97,
+      "gas:candidate-vibid:377301270360": 35,
+      "special:against-all": 297
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=773012003&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=377301270387&region=0&sub_region=0&type=429",
@@ -1086,15 +1086,15 @@ export const duma_2003_uik_428_region_77_part_011 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Андронова Ольга Александровна": 2,
-      "Вашуркин Игорь Олегович": 0,
-      "Гончар Николай Николаевич": 7,
-      "Карпухина Елена Алексеевна": 1,
-      "Кузнецов Александр Петрович": 2,
-      "Пашинцев Борис Анатольевич": 0,
-      "Плешаков Александр Петрович": 0,
-      "Русский Александр Васильевич": 0,
-      "Против всех": 2
+      "gas:candidate-vibid:1001000188026": 2,
+      "gas:candidate-vibid:1001000202345": 0,
+      "gas:candidate-vibid:377301270354": 7,
+      "gas:candidate-vibid:1001000121941": 1,
+      "gas:candidate-vibid:1001000195171": 2,
+      "gas:candidate-vibid:377301270533": 0,
+      "gas:candidate-vibid:377301270420": 0,
+      "gas:candidate-vibid:377301270360": 0,
+      "special:against-all": 2
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=773012003&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=377301270387&region=0&sub_region=0&type=429",
@@ -1144,15 +1144,15 @@ export const duma_2003_uik_428_region_77_part_011 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Андронова Ольга Александровна": 1,
-      "Вашуркин Игорь Олегович": 0,
-      "Гончар Николай Николаевич": 6,
-      "Карпухина Елена Алексеевна": 1,
-      "Кузнецов Александр Петрович": 1,
-      "Пашинцев Борис Анатольевич": 0,
-      "Плешаков Александр Петрович": 0,
-      "Русский Александр Васильевич": 0,
-      "Против всех": 3
+      "gas:candidate-vibid:1001000188026": 1,
+      "gas:candidate-vibid:1001000202345": 0,
+      "gas:candidate-vibid:377301270354": 6,
+      "gas:candidate-vibid:1001000121941": 1,
+      "gas:candidate-vibid:1001000195171": 1,
+      "gas:candidate-vibid:377301270533": 0,
+      "gas:candidate-vibid:377301270420": 0,
+      "gas:candidate-vibid:377301270360": 0,
+      "special:against-all": 3
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=773012003&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=377301270387&region=0&sub_region=0&type=429",
@@ -1202,15 +1202,15 @@ export const duma_2003_uik_428_region_77_part_011 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Андронова Ольга Александровна": 1,
-      "Вашуркин Игорь Олегович": 0,
-      "Гончар Николай Николаевич": 0,
-      "Карпухина Елена Алексеевна": 0,
-      "Кузнецов Александр Петрович": 1,
-      "Пашинцев Борис Анатольевич": 0,
-      "Плешаков Александр Петрович": 0,
-      "Русский Александр Васильевич": 0,
-      "Против всех": 1
+      "gas:candidate-vibid:1001000188026": 1,
+      "gas:candidate-vibid:1001000202345": 0,
+      "gas:candidate-vibid:377301270354": 0,
+      "gas:candidate-vibid:1001000121941": 0,
+      "gas:candidate-vibid:1001000195171": 1,
+      "gas:candidate-vibid:377301270533": 0,
+      "gas:candidate-vibid:377301270420": 0,
+      "gas:candidate-vibid:377301270360": 0,
+      "special:against-all": 1
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=773012003&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=377301270387&region=0&sub_region=0&type=429",
@@ -1260,15 +1260,15 @@ export const duma_2003_uik_428_region_77_part_011 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Андронова Ольга Александровна": 143,
-      "Вашуркин Игорь Олегович": 9,
-      "Гончар Николай Николаевич": 449,
-      "Карпухина Елена Алексеевна": 113,
-      "Кузнецов Александр Петрович": 15,
-      "Пашинцев Борис Анатольевич": 16,
-      "Плешаков Александр Петрович": 123,
-      "Русский Александр Васильевич": 32,
-      "Против всех": 305
+      "gas:candidate-vibid:1001000188026": 143,
+      "gas:candidate-vibid:1001000202345": 9,
+      "gas:candidate-vibid:377301270354": 449,
+      "gas:candidate-vibid:1001000121941": 113,
+      "gas:candidate-vibid:1001000195171": 15,
+      "gas:candidate-vibid:377301270533": 16,
+      "gas:candidate-vibid:377301270420": 123,
+      "gas:candidate-vibid:377301270360": 32,
+      "special:against-all": 305
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=773012004&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=377301270389&region=0&sub_region=0&type=429",
@@ -1318,15 +1318,15 @@ export const duma_2003_uik_428_region_77_part_011 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Андронова Ольга Александровна": 140,
-      "Вашуркин Игорь Олегович": 12,
-      "Гончар Николай Николаевич": 411,
-      "Карпухина Елена Алексеевна": 106,
-      "Кузнецов Александр Петрович": 24,
-      "Пашинцев Борис Анатольевич": 17,
-      "Плешаков Александр Петрович": 105,
-      "Русский Александр Васильевич": 25,
-      "Против всех": 252
+      "gas:candidate-vibid:1001000188026": 140,
+      "gas:candidate-vibid:1001000202345": 12,
+      "gas:candidate-vibid:377301270354": 411,
+      "gas:candidate-vibid:1001000121941": 106,
+      "gas:candidate-vibid:1001000195171": 24,
+      "gas:candidate-vibid:377301270533": 17,
+      "gas:candidate-vibid:377301270420": 105,
+      "gas:candidate-vibid:377301270360": 25,
+      "special:against-all": 252
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=773012004&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=377301270389&region=0&sub_region=0&type=429",
@@ -1376,15 +1376,15 @@ export const duma_2003_uik_428_region_77_part_011 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Андронова Ольга Александровна": 162,
-      "Вашуркин Игорь Олегович": 12,
-      "Гончар Николай Николаевич": 543,
-      "Карпухина Елена Алексеевна": 163,
-      "Кузнецов Александр Петрович": 26,
-      "Пашинцев Борис Анатольевич": 37,
-      "Плешаков Александр Петрович": 271,
-      "Русский Александр Васильевич": 28,
-      "Против всех": 233
+      "gas:candidate-vibid:1001000188026": 162,
+      "gas:candidate-vibid:1001000202345": 12,
+      "gas:candidate-vibid:377301270354": 543,
+      "gas:candidate-vibid:1001000121941": 163,
+      "gas:candidate-vibid:1001000195171": 26,
+      "gas:candidate-vibid:377301270533": 37,
+      "gas:candidate-vibid:377301270420": 271,
+      "gas:candidate-vibid:377301270360": 28,
+      "special:against-all": 233
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=773012004&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=377301270389&region=0&sub_region=0&type=429",
@@ -1434,15 +1434,15 @@ export const duma_2003_uik_428_region_77_part_011 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Андронова Ольга Александровна": 143,
-      "Вашуркин Игорь Олегович": 6,
-      "Гончар Николай Николаевич": 407,
-      "Карпухина Елена Алексеевна": 161,
-      "Кузнецов Александр Петрович": 12,
-      "Пашинцев Борис Анатольевич": 28,
-      "Плешаков Александр Петрович": 150,
-      "Русский Александр Васильевич": 23,
-      "Против всех": 289
+      "gas:candidate-vibid:1001000188026": 143,
+      "gas:candidate-vibid:1001000202345": 6,
+      "gas:candidate-vibid:377301270354": 407,
+      "gas:candidate-vibid:1001000121941": 161,
+      "gas:candidate-vibid:1001000195171": 12,
+      "gas:candidate-vibid:377301270533": 28,
+      "gas:candidate-vibid:377301270420": 150,
+      "gas:candidate-vibid:377301270360": 23,
+      "special:against-all": 289
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=773012004&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=377301270389&region=0&sub_region=0&type=429",
@@ -1492,15 +1492,15 @@ export const duma_2003_uik_428_region_77_part_011 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Андронова Ольга Александровна": 102,
-      "Вашуркин Игорь Олегович": 10,
-      "Гончар Николай Николаевич": 306,
-      "Карпухина Елена Алексеевна": 172,
-      "Кузнецов Александр Петрович": 18,
-      "Пашинцев Борис Анатольевич": 13,
-      "Плешаков Александр Петрович": 118,
-      "Русский Александр Васильевич": 27,
-      "Против всех": 217
+      "gas:candidate-vibid:1001000188026": 102,
+      "gas:candidate-vibid:1001000202345": 10,
+      "gas:candidate-vibid:377301270354": 306,
+      "gas:candidate-vibid:1001000121941": 172,
+      "gas:candidate-vibid:1001000195171": 18,
+      "gas:candidate-vibid:377301270533": 13,
+      "gas:candidate-vibid:377301270420": 118,
+      "gas:candidate-vibid:377301270360": 27,
+      "special:against-all": 217
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=773012004&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=377301270389&region=0&sub_region=0&type=429",
@@ -1550,15 +1550,15 @@ export const duma_2003_uik_428_region_77_part_011 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Андронова Ольга Александровна": 69,
-      "Вашуркин Игорь Олегович": 5,
-      "Гончар Николай Николаевич": 249,
-      "Карпухина Елена Алексеевна": 97,
-      "Кузнецов Александр Петрович": 16,
-      "Пашинцев Борис Анатольевич": 8,
-      "Плешаков Александр Петрович": 83,
-      "Русский Александр Васильевич": 16,
-      "Против всех": 165
+      "gas:candidate-vibid:1001000188026": 69,
+      "gas:candidate-vibid:1001000202345": 5,
+      "gas:candidate-vibid:377301270354": 249,
+      "gas:candidate-vibid:1001000121941": 97,
+      "gas:candidate-vibid:1001000195171": 16,
+      "gas:candidate-vibid:377301270533": 8,
+      "gas:candidate-vibid:377301270420": 83,
+      "gas:candidate-vibid:377301270360": 16,
+      "special:against-all": 165
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=773012004&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=377301270389&region=0&sub_region=0&type=429",
@@ -1608,15 +1608,15 @@ export const duma_2003_uik_428_region_77_part_011 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Андронова Ольга Александровна": 90,
-      "Вашуркин Игорь Олегович": 7,
-      "Гончар Николай Николаевич": 354,
-      "Карпухина Елена Алексеевна": 87,
-      "Кузнецов Александр Петрович": 9,
-      "Пашинцев Борис Анатольевич": 10,
-      "Плешаков Александр Петрович": 185,
-      "Русский Александр Васильевич": 10,
-      "Против всех": 162
+      "gas:candidate-vibid:1001000188026": 90,
+      "gas:candidate-vibid:1001000202345": 7,
+      "gas:candidate-vibid:377301270354": 354,
+      "gas:candidate-vibid:1001000121941": 87,
+      "gas:candidate-vibid:1001000195171": 9,
+      "gas:candidate-vibid:377301270533": 10,
+      "gas:candidate-vibid:377301270420": 185,
+      "gas:candidate-vibid:377301270360": 10,
+      "special:against-all": 162
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=773012004&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=377301270389&region=0&sub_region=0&type=429",
@@ -1666,15 +1666,15 @@ export const duma_2003_uik_428_region_77_part_011 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Андронова Ольга Александровна": 81,
-      "Вашуркин Игорь Олегович": 4,
-      "Гончар Николай Николаевич": 255,
-      "Карпухина Елена Алексеевна": 74,
-      "Кузнецов Александр Петрович": 12,
-      "Пашинцев Борис Анатольевич": 18,
-      "Плешаков Александр Петрович": 109,
-      "Русский Александр Васильевич": 11,
-      "Против всех": 152
+      "gas:candidate-vibid:1001000188026": 81,
+      "gas:candidate-vibid:1001000202345": 4,
+      "gas:candidate-vibid:377301270354": 255,
+      "gas:candidate-vibid:1001000121941": 74,
+      "gas:candidate-vibid:1001000195171": 12,
+      "gas:candidate-vibid:377301270533": 18,
+      "gas:candidate-vibid:377301270420": 109,
+      "gas:candidate-vibid:377301270360": 11,
+      "special:against-all": 152
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=773012004&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=377301270389&region=0&sub_region=0&type=429",
@@ -1724,15 +1724,15 @@ export const duma_2003_uik_428_region_77_part_011 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Андронова Ольга Александровна": 116,
-      "Вашуркин Игорь Олегович": 16,
-      "Гончар Николай Николаевич": 308,
-      "Карпухина Елена Алексеевна": 75,
-      "Кузнецов Александр Петрович": 10,
-      "Пашинцев Борис Анатольевич": 13,
-      "Плешаков Александр Петрович": 220,
-      "Русский Александр Васильевич": 26,
-      "Против всех": 242
+      "gas:candidate-vibid:1001000188026": 116,
+      "gas:candidate-vibid:1001000202345": 16,
+      "gas:candidate-vibid:377301270354": 308,
+      "gas:candidate-vibid:1001000121941": 75,
+      "gas:candidate-vibid:1001000195171": 10,
+      "gas:candidate-vibid:377301270533": 13,
+      "gas:candidate-vibid:377301270420": 220,
+      "gas:candidate-vibid:377301270360": 26,
+      "special:against-all": 242
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=773012004&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=377301270389&region=0&sub_region=0&type=429",
@@ -1782,15 +1782,15 @@ export const duma_2003_uik_428_region_77_part_011 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Андронова Ольга Александровна": 65,
-      "Вашуркин Игорь Олегович": 10,
-      "Гончар Николай Николаевич": 238,
-      "Карпухина Елена Алексеевна": 88,
-      "Кузнецов Александр Петрович": 11,
-      "Пашинцев Борис Анатольевич": 5,
-      "Плешаков Александр Петрович": 33,
-      "Русский Александр Васильевич": 12,
-      "Против всех": 151
+      "gas:candidate-vibid:1001000188026": 65,
+      "gas:candidate-vibid:1001000202345": 10,
+      "gas:candidate-vibid:377301270354": 238,
+      "gas:candidate-vibid:1001000121941": 88,
+      "gas:candidate-vibid:1001000195171": 11,
+      "gas:candidate-vibid:377301270533": 5,
+      "gas:candidate-vibid:377301270420": 33,
+      "gas:candidate-vibid:377301270360": 12,
+      "special:against-all": 151
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=773012004&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=377301270389&region=0&sub_region=0&type=429",
@@ -1840,15 +1840,15 @@ export const duma_2003_uik_428_region_77_part_011 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Андронова Ольга Александровна": 130,
-      "Вашуркин Игорь Олегович": 13,
-      "Гончар Николай Николаевич": 447,
-      "Карпухина Елена Алексеевна": 190,
-      "Кузнецов Александр Петрович": 13,
-      "Пашинцев Борис Анатольевич": 32,
-      "Плешаков Александр Петрович": 200,
-      "Русский Александр Васильевич": 18,
-      "Против всех": 292
+      "gas:candidate-vibid:1001000188026": 130,
+      "gas:candidate-vibid:1001000202345": 13,
+      "gas:candidate-vibid:377301270354": 447,
+      "gas:candidate-vibid:1001000121941": 190,
+      "gas:candidate-vibid:1001000195171": 13,
+      "gas:candidate-vibid:377301270533": 32,
+      "gas:candidate-vibid:377301270420": 200,
+      "gas:candidate-vibid:377301270360": 18,
+      "special:against-all": 292
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=773012004&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=377301270389&region=0&sub_region=0&type=429",
@@ -1898,15 +1898,15 @@ export const duma_2003_uik_428_region_77_part_011 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Андронова Ольга Александровна": 160,
-      "Вашуркин Игорь Олегович": 9,
-      "Гончар Николай Николаевич": 419,
-      "Карпухина Елена Алексеевна": 164,
-      "Кузнецов Александр Петрович": 14,
-      "Пашинцев Борис Анатольевич": 13,
-      "Плешаков Александр Петрович": 149,
-      "Русский Александр Васильевич": 29,
-      "Против всех": 264
+      "gas:candidate-vibid:1001000188026": 160,
+      "gas:candidate-vibid:1001000202345": 9,
+      "gas:candidate-vibid:377301270354": 419,
+      "gas:candidate-vibid:1001000121941": 164,
+      "gas:candidate-vibid:1001000195171": 14,
+      "gas:candidate-vibid:377301270533": 13,
+      "gas:candidate-vibid:377301270420": 149,
+      "gas:candidate-vibid:377301270360": 29,
+      "special:against-all": 264
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=773012004&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=377301270389&region=0&sub_region=0&type=429",
@@ -1956,15 +1956,15 @@ export const duma_2003_uik_428_region_77_part_011 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Андронова Ольга Александровна": 128,
-      "Вашуркин Игорь Олегович": 11,
-      "Гончар Николай Николаевич": 296,
-      "Карпухина Елена Алексеевна": 79,
-      "Кузнецов Александр Петрович": 11,
-      "Пашинцев Борис Анатольевич": 20,
-      "Плешаков Александр Петрович": 118,
-      "Русский Александр Васильевич": 17,
-      "Против всех": 196
+      "gas:candidate-vibid:1001000188026": 128,
+      "gas:candidate-vibid:1001000202345": 11,
+      "gas:candidate-vibid:377301270354": 296,
+      "gas:candidate-vibid:1001000121941": 79,
+      "gas:candidate-vibid:1001000195171": 11,
+      "gas:candidate-vibid:377301270533": 20,
+      "gas:candidate-vibid:377301270420": 118,
+      "gas:candidate-vibid:377301270360": 17,
+      "special:against-all": 196
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=773012004&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=377301270389&region=0&sub_region=0&type=429",
@@ -2014,15 +2014,15 @@ export const duma_2003_uik_428_region_77_part_011 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Андронова Ольга Александровна": 78,
-      "Вашуркин Игорь Олегович": 10,
-      "Гончар Николай Николаевич": 220,
-      "Карпухина Елена Алексеевна": 57,
-      "Кузнецов Александр Петрович": 8,
-      "Пашинцев Борис Анатольевич": 4,
-      "Плешаков Александр Петрович": 80,
-      "Русский Александр Васильевич": 11,
-      "Против всех": 116
+      "gas:candidate-vibid:1001000188026": 78,
+      "gas:candidate-vibid:1001000202345": 10,
+      "gas:candidate-vibid:377301270354": 220,
+      "gas:candidate-vibid:1001000121941": 57,
+      "gas:candidate-vibid:1001000195171": 8,
+      "gas:candidate-vibid:377301270533": 4,
+      "gas:candidate-vibid:377301270420": 80,
+      "gas:candidate-vibid:377301270360": 11,
+      "special:against-all": 116
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=773012004&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=377301270389&region=0&sub_region=0&type=429",
@@ -2072,15 +2072,15 @@ export const duma_2003_uik_428_region_77_part_011 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Андронова Ольга Александровна": 85,
-      "Вашуркин Игорь Олегович": 4,
-      "Гончар Николай Николаевич": 95,
-      "Карпухина Елена Алексеевна": 32,
-      "Кузнецов Александр Петрович": 9,
-      "Пашинцев Борис Анатольевич": 6,
-      "Плешаков Александр Петрович": 39,
-      "Русский Александр Васильевич": 15,
-      "Против всех": 128
+      "gas:candidate-vibid:1001000188026": 85,
+      "gas:candidate-vibid:1001000202345": 4,
+      "gas:candidate-vibid:377301270354": 95,
+      "gas:candidate-vibid:1001000121941": 32,
+      "gas:candidate-vibid:1001000195171": 9,
+      "gas:candidate-vibid:377301270533": 6,
+      "gas:candidate-vibid:377301270420": 39,
+      "gas:candidate-vibid:377301270360": 15,
+      "special:against-all": 128
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=773012005&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=377301270391&region=0&sub_region=0&type=429",
@@ -2130,15 +2130,15 @@ export const duma_2003_uik_428_region_77_part_011 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Андронова Ольга Александровна": 123,
-      "Вашуркин Игорь Олегович": 11,
-      "Гончар Николай Николаевич": 265,
-      "Карпухина Елена Алексеевна": 123,
-      "Кузнецов Александр Петрович": 16,
-      "Пашинцев Борис Анатольевич": 53,
-      "Плешаков Александр Петрович": 138,
-      "Русский Александр Васильевич": 28,
-      "Против всех": 284
+      "gas:candidate-vibid:1001000188026": 123,
+      "gas:candidate-vibid:1001000202345": 11,
+      "gas:candidate-vibid:377301270354": 265,
+      "gas:candidate-vibid:1001000121941": 123,
+      "gas:candidate-vibid:1001000195171": 16,
+      "gas:candidate-vibid:377301270533": 53,
+      "gas:candidate-vibid:377301270420": 138,
+      "gas:candidate-vibid:377301270360": 28,
+      "special:against-all": 284
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=773012005&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=377301270391&region=0&sub_region=0&type=429",
@@ -2188,15 +2188,15 @@ export const duma_2003_uik_428_region_77_part_011 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Андронова Ольга Александровна": 135,
-      "Вашуркин Игорь Олегович": 15,
-      "Гончар Николай Николаевич": 253,
-      "Карпухина Елена Алексеевна": 115,
-      "Кузнецов Александр Петрович": 14,
-      "Пашинцев Борис Анатольевич": 29,
-      "Плешаков Александр Петрович": 124,
-      "Русский Александр Васильевич": 27,
-      "Против всех": 290
+      "gas:candidate-vibid:1001000188026": 135,
+      "gas:candidate-vibid:1001000202345": 15,
+      "gas:candidate-vibid:377301270354": 253,
+      "gas:candidate-vibid:1001000121941": 115,
+      "gas:candidate-vibid:1001000195171": 14,
+      "gas:candidate-vibid:377301270533": 29,
+      "gas:candidate-vibid:377301270420": 124,
+      "gas:candidate-vibid:377301270360": 27,
+      "special:against-all": 290
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=773012005&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=377301270391&region=0&sub_region=0&type=429",
@@ -2246,15 +2246,15 @@ export const duma_2003_uik_428_region_77_part_011 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Андронова Ольга Александровна": 183,
-      "Вашуркин Игорь Олегович": 16,
-      "Гончар Николай Николаевич": 444,
-      "Карпухина Елена Алексеевна": 311,
-      "Кузнецов Александр Петрович": 20,
-      "Пашинцев Борис Анатольевич": 24,
-      "Плешаков Александр Петрович": 197,
-      "Русский Александр Васильевич": 54,
-      "Против всех": 306
+      "gas:candidate-vibid:1001000188026": 183,
+      "gas:candidate-vibid:1001000202345": 16,
+      "gas:candidate-vibid:377301270354": 444,
+      "gas:candidate-vibid:1001000121941": 311,
+      "gas:candidate-vibid:1001000195171": 20,
+      "gas:candidate-vibid:377301270533": 24,
+      "gas:candidate-vibid:377301270420": 197,
+      "gas:candidate-vibid:377301270360": 54,
+      "special:against-all": 306
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=773012005&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=377301270391&region=0&sub_region=0&type=429",
@@ -2304,15 +2304,15 @@ export const duma_2003_uik_428_region_77_part_011 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Андронова Ольга Александровна": 115,
-      "Вашуркин Игорь Олегович": 15,
-      "Гончар Николай Николаевич": 381,
-      "Карпухина Елена Алексеевна": 176,
-      "Кузнецов Александр Петрович": 11,
-      "Пашинцев Борис Анатольевич": 16,
-      "Плешаков Александр Петрович": 214,
-      "Русский Александр Васильевич": 23,
-      "Против всех": 228
+      "gas:candidate-vibid:1001000188026": 115,
+      "gas:candidate-vibid:1001000202345": 15,
+      "gas:candidate-vibid:377301270354": 381,
+      "gas:candidate-vibid:1001000121941": 176,
+      "gas:candidate-vibid:1001000195171": 11,
+      "gas:candidate-vibid:377301270533": 16,
+      "gas:candidate-vibid:377301270420": 214,
+      "gas:candidate-vibid:377301270360": 23,
+      "special:against-all": 228
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=773012005&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=377301270391&region=0&sub_region=0&type=429",
@@ -2362,15 +2362,15 @@ export const duma_2003_uik_428_region_77_part_011 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Андронова Ольга Александровна": 156,
-      "Вашуркин Игорь Олегович": 23,
-      "Гончар Николай Николаевич": 525,
-      "Карпухина Елена Алексеевна": 149,
-      "Кузнецов Александр Петрович": 21,
-      "Пашинцев Борис Анатольевич": 25,
-      "Плешаков Александр Петрович": 198,
-      "Русский Александр Васильевич": 30,
-      "Против всех": 354
+      "gas:candidate-vibid:1001000188026": 156,
+      "gas:candidate-vibid:1001000202345": 23,
+      "gas:candidate-vibid:377301270354": 525,
+      "gas:candidate-vibid:1001000121941": 149,
+      "gas:candidate-vibid:1001000195171": 21,
+      "gas:candidate-vibid:377301270533": 25,
+      "gas:candidate-vibid:377301270420": 198,
+      "gas:candidate-vibid:377301270360": 30,
+      "special:against-all": 354
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=773012005&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=377301270391&region=0&sub_region=0&type=429",
@@ -2420,15 +2420,15 @@ export const duma_2003_uik_428_region_77_part_011 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Андронова Ольга Александровна": 144,
-      "Вашуркин Игорь Олегович": 14,
-      "Гончар Николай Николаевич": 413,
-      "Карпухина Елена Алексеевна": 227,
-      "Кузнецов Александр Петрович": 14,
-      "Пашинцев Борис Анатольевич": 26,
-      "Плешаков Александр Петрович": 163,
-      "Русский Александр Васильевич": 20,
-      "Против всех": 299
+      "gas:candidate-vibid:1001000188026": 144,
+      "gas:candidate-vibid:1001000202345": 14,
+      "gas:candidate-vibid:377301270354": 413,
+      "gas:candidate-vibid:1001000121941": 227,
+      "gas:candidate-vibid:1001000195171": 14,
+      "gas:candidate-vibid:377301270533": 26,
+      "gas:candidate-vibid:377301270420": 163,
+      "gas:candidate-vibid:377301270360": 20,
+      "special:against-all": 299
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=773012005&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=377301270391&region=0&sub_region=0&type=429",
@@ -2478,15 +2478,15 @@ export const duma_2003_uik_428_region_77_part_011 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Андронова Ольга Александровна": 138,
-      "Вашуркин Игорь Олегович": 17,
-      "Гончар Николай Николаевич": 363,
-      "Карпухина Елена Алексеевна": 153,
-      "Кузнецов Александр Петрович": 23,
-      "Пашинцев Борис Анатольевич": 16,
-      "Плешаков Александр Петрович": 154,
-      "Русский Александр Васильевич": 29,
-      "Против всех": 281
+      "gas:candidate-vibid:1001000188026": 138,
+      "gas:candidate-vibid:1001000202345": 17,
+      "gas:candidate-vibid:377301270354": 363,
+      "gas:candidate-vibid:1001000121941": 153,
+      "gas:candidate-vibid:1001000195171": 23,
+      "gas:candidate-vibid:377301270533": 16,
+      "gas:candidate-vibid:377301270420": 154,
+      "gas:candidate-vibid:377301270360": 29,
+      "special:against-all": 281
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=773012005&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=377301270391&region=0&sub_region=0&type=429",
@@ -2536,15 +2536,15 @@ export const duma_2003_uik_428_region_77_part_011 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Андронова Ольга Александровна": 109,
-      "Вашуркин Игорь Олегович": 9,
-      "Гончар Николай Николаевич": 203,
-      "Карпухина Елена Алексеевна": 123,
-      "Кузнецов Александр Петрович": 14,
-      "Пашинцев Борис Анатольевич": 11,
-      "Плешаков Александр Петрович": 148,
-      "Русский Александр Васильевич": 22,
-      "Против всех": 221
+      "gas:candidate-vibid:1001000188026": 109,
+      "gas:candidate-vibid:1001000202345": 9,
+      "gas:candidate-vibid:377301270354": 203,
+      "gas:candidate-vibid:1001000121941": 123,
+      "gas:candidate-vibid:1001000195171": 14,
+      "gas:candidate-vibid:377301270533": 11,
+      "gas:candidate-vibid:377301270420": 148,
+      "gas:candidate-vibid:377301270360": 22,
+      "special:against-all": 221
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=773012005&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=377301270391&region=0&sub_region=0&type=429",
@@ -2594,15 +2594,15 @@ export const duma_2003_uik_428_region_77_part_011 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Андронова Ольга Александровна": 187,
-      "Вашуркин Игорь Олегович": 7,
-      "Гончар Николай Николаевич": 409,
-      "Карпухина Елена Алексеевна": 211,
-      "Кузнецов Александр Петрович": 15,
-      "Пашинцев Борис Анатольевич": 20,
-      "Плешаков Александр Петрович": 191,
-      "Русский Александр Васильевич": 37,
-      "Против всех": 356
+      "gas:candidate-vibid:1001000188026": 187,
+      "gas:candidate-vibid:1001000202345": 7,
+      "gas:candidate-vibid:377301270354": 409,
+      "gas:candidate-vibid:1001000121941": 211,
+      "gas:candidate-vibid:1001000195171": 15,
+      "gas:candidate-vibid:377301270533": 20,
+      "gas:candidate-vibid:377301270420": 191,
+      "gas:candidate-vibid:377301270360": 37,
+      "special:against-all": 356
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=773012005&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=377301270391&region=0&sub_region=0&type=429",
@@ -2652,15 +2652,15 @@ export const duma_2003_uik_428_region_77_part_011 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Андронова Ольга Александровна": 203,
-      "Вашуркин Игорь Олегович": 21,
-      "Гончар Николай Николаевич": 441,
-      "Карпухина Елена Алексеевна": 172,
-      "Кузнецов Александр Петрович": 17,
-      "Пашинцев Борис Анатольевич": 19,
-      "Плешаков Александр Петрович": 319,
-      "Русский Александр Васильевич": 45,
-      "Против всех": 402
+      "gas:candidate-vibid:1001000188026": 203,
+      "gas:candidate-vibid:1001000202345": 21,
+      "gas:candidate-vibid:377301270354": 441,
+      "gas:candidate-vibid:1001000121941": 172,
+      "gas:candidate-vibid:1001000195171": 17,
+      "gas:candidate-vibid:377301270533": 19,
+      "gas:candidate-vibid:377301270420": 319,
+      "gas:candidate-vibid:377301270360": 45,
+      "special:against-all": 402
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=773012005&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=377301270391&region=0&sub_region=0&type=429",
@@ -2710,15 +2710,15 @@ export const duma_2003_uik_428_region_77_part_011 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Андронова Ольга Александровна": 143,
-      "Вашуркин Игорь Олегович": 14,
-      "Гончар Николай Николаевич": 390,
-      "Карпухина Елена Алексеевна": 157,
-      "Кузнецов Александр Петрович": 33,
-      "Пашинцев Борис Анатольевич": 28,
-      "Плешаков Александр Петрович": 331,
-      "Русский Александр Васильевич": 44,
-      "Против всех": 360
+      "gas:candidate-vibid:1001000188026": 143,
+      "gas:candidate-vibid:1001000202345": 14,
+      "gas:candidate-vibid:377301270354": 390,
+      "gas:candidate-vibid:1001000121941": 157,
+      "gas:candidate-vibid:1001000195171": 33,
+      "gas:candidate-vibid:377301270533": 28,
+      "gas:candidate-vibid:377301270420": 331,
+      "gas:candidate-vibid:377301270360": 44,
+      "special:against-all": 360
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=773012005&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=377301270391&region=0&sub_region=0&type=429",
@@ -2768,15 +2768,15 @@ export const duma_2003_uik_428_region_77_part_011 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Андронова Ольга Александровна": 196,
-      "Вашуркин Игорь Олегович": 22,
-      "Гончар Николай Николаевич": 509,
-      "Карпухина Елена Алексеевна": 219,
-      "Кузнецов Александр Петрович": 24,
-      "Пашинцев Борис Анатольевич": 52,
-      "Плешаков Александр Петрович": 159,
-      "Русский Александр Васильевич": 34,
-      "Против всех": 351
+      "gas:candidate-vibid:1001000188026": 196,
+      "gas:candidate-vibid:1001000202345": 22,
+      "gas:candidate-vibid:377301270354": 509,
+      "gas:candidate-vibid:1001000121941": 219,
+      "gas:candidate-vibid:1001000195171": 24,
+      "gas:candidate-vibid:377301270533": 52,
+      "gas:candidate-vibid:377301270420": 159,
+      "gas:candidate-vibid:377301270360": 34,
+      "special:against-all": 351
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=773012005&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=377301270391&region=0&sub_region=0&type=429",
@@ -2826,15 +2826,15 @@ export const duma_2003_uik_428_region_77_part_011 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Андронова Ольга Александровна": 170,
-      "Вашуркин Игорь Олегович": 26,
-      "Гончар Николай Николаевич": 411,
-      "Карпухина Елена Алексеевна": 145,
-      "Кузнецов Александр Петрович": 17,
-      "Пашинцев Борис Анатольевич": 36,
-      "Плешаков Александр Петрович": 148,
-      "Русский Александр Васильевич": 23,
-      "Против всех": 275
+      "gas:candidate-vibid:1001000188026": 170,
+      "gas:candidate-vibid:1001000202345": 26,
+      "gas:candidate-vibid:377301270354": 411,
+      "gas:candidate-vibid:1001000121941": 145,
+      "gas:candidate-vibid:1001000195171": 17,
+      "gas:candidate-vibid:377301270533": 36,
+      "gas:candidate-vibid:377301270420": 148,
+      "gas:candidate-vibid:377301270360": 23,
+      "special:against-all": 275
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=773012005&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=377301270391&region=0&sub_region=0&type=429",
@@ -2884,15 +2884,15 @@ export const duma_2003_uik_428_region_77_part_011 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Андронова Ольга Александровна": 191,
-      "Вашуркин Игорь Олегович": 15,
-      "Гончар Николай Николаевич": 482,
-      "Карпухина Елена Алексеевна": 158,
-      "Кузнецов Александр Петрович": 23,
-      "Пашинцев Борис Анатольевич": 28,
-      "Плешаков Александр Петрович": 199,
-      "Русский Александр Васильевич": 35,
-      "Против всех": 341
+      "gas:candidate-vibid:1001000188026": 191,
+      "gas:candidate-vibid:1001000202345": 15,
+      "gas:candidate-vibid:377301270354": 482,
+      "gas:candidate-vibid:1001000121941": 158,
+      "gas:candidate-vibid:1001000195171": 23,
+      "gas:candidate-vibid:377301270533": 28,
+      "gas:candidate-vibid:377301270420": 199,
+      "gas:candidate-vibid:377301270360": 35,
+      "special:against-all": 341
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=773012005&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=377301270391&region=0&sub_region=0&type=429",
@@ -2942,15 +2942,15 @@ export const duma_2003_uik_428_region_77_part_011 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Андронова Ольга Александровна": 61,
-      "Вашуркин Игорь Олегович": 12,
-      "Гончар Николай Николаевич": 193,
-      "Карпухина Елена Алексеевна": 66,
-      "Кузнецов Александр Петрович": 7,
-      "Пашинцев Борис Анатольевич": 7,
-      "Плешаков Александр Петрович": 70,
-      "Русский Александр Васильевич": 11,
-      "Против всех": 131
+      "gas:candidate-vibid:1001000188026": 61,
+      "gas:candidate-vibid:1001000202345": 12,
+      "gas:candidate-vibid:377301270354": 193,
+      "gas:candidate-vibid:1001000121941": 66,
+      "gas:candidate-vibid:1001000195171": 7,
+      "gas:candidate-vibid:377301270533": 7,
+      "gas:candidate-vibid:377301270420": 70,
+      "gas:candidate-vibid:377301270360": 11,
+      "special:against-all": 131
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=773012005&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=377301270391&region=0&sub_region=0&type=429",
@@ -3000,15 +3000,15 @@ export const duma_2003_uik_428_region_77_part_011 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Андронова Ольга Александровна": 146,
-      "Вашуркин Игорь Олегович": 13,
-      "Гончар Николай Николаевич": 416,
-      "Карпухина Елена Алексеевна": 105,
-      "Кузнецов Александр Петрович": 16,
-      "Пашинцев Борис Анатольевич": 21,
-      "Плешаков Александр Петрович": 163,
-      "Русский Александр Васильевич": 24,
-      "Против всех": 284
+      "gas:candidate-vibid:1001000188026": 146,
+      "gas:candidate-vibid:1001000202345": 13,
+      "gas:candidate-vibid:377301270354": 416,
+      "gas:candidate-vibid:1001000121941": 105,
+      "gas:candidate-vibid:1001000195171": 16,
+      "gas:candidate-vibid:377301270533": 21,
+      "gas:candidate-vibid:377301270420": 163,
+      "gas:candidate-vibid:377301270360": 24,
+      "special:against-all": 284
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=773012005&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=377301270391&region=0&sub_region=0&type=429",
@@ -3058,15 +3058,15 @@ export const duma_2003_uik_428_region_77_part_011 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Андронова Ольга Александровна": 0,
-      "Вашуркин Игорь Олегович": 0,
-      "Гончар Николай Николаевич": 0,
-      "Карпухина Елена Алексеевна": 0,
-      "Кузнецов Александр Петрович": 1,
-      "Пашинцев Борис Анатольевич": 0,
-      "Плешаков Александр Петрович": 0,
-      "Русский Александр Васильевич": 0,
-      "Против всех": 0
+      "gas:candidate-vibid:1001000188026": 0,
+      "gas:candidate-vibid:1001000202345": 0,
+      "gas:candidate-vibid:377301270354": 0,
+      "gas:candidate-vibid:1001000121941": 0,
+      "gas:candidate-vibid:1001000195171": 1,
+      "gas:candidate-vibid:377301270533": 0,
+      "gas:candidate-vibid:377301270420": 0,
+      "gas:candidate-vibid:377301270360": 0,
+      "special:against-all": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=773012005&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=377301270391&region=0&sub_region=0&type=429",
@@ -3116,15 +3116,15 @@ export const duma_2003_uik_428_region_77_part_011 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Андронова Ольга Александровна": 4,
-      "Вашуркин Игорь Олегович": 1,
-      "Гончар Николай Николаевич": 25,
-      "Карпухина Елена Алексеевна": 3,
-      "Кузнецов Александр Петрович": 2,
-      "Пашинцев Борис Анатольевич": 0,
-      "Плешаков Александр Петрович": 7,
-      "Русский Александр Васильевич": 0,
-      "Против всех": 14
+      "gas:candidate-vibid:1001000188026": 4,
+      "gas:candidate-vibid:1001000202345": 1,
+      "gas:candidate-vibid:377301270354": 25,
+      "gas:candidate-vibid:1001000121941": 3,
+      "gas:candidate-vibid:1001000195171": 2,
+      "gas:candidate-vibid:377301270533": 0,
+      "gas:candidate-vibid:377301270420": 7,
+      "gas:candidate-vibid:377301270360": 0,
+      "special:against-all": 14
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=773012005&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=377301270391&region=0&sub_region=0&type=429",
@@ -3174,15 +3174,15 @@ export const duma_2003_uik_428_region_77_part_011 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Андронова Ольга Александровна": 2,
-      "Вашуркин Игорь Олегович": 0,
-      "Гончар Николай Николаевич": 32,
-      "Карпухина Елена Алексеевна": 7,
-      "Кузнецов Александр Петрович": 1,
-      "Пашинцев Борис Анатольевич": 2,
-      "Плешаков Александр Петрович": 3,
-      "Русский Александр Васильевич": 2,
-      "Против всех": 10
+      "gas:candidate-vibid:1001000188026": 2,
+      "gas:candidate-vibid:1001000202345": 0,
+      "gas:candidate-vibid:377301270354": 32,
+      "gas:candidate-vibid:1001000121941": 7,
+      "gas:candidate-vibid:1001000195171": 1,
+      "gas:candidate-vibid:377301270533": 2,
+      "gas:candidate-vibid:377301270420": 3,
+      "gas:candidate-vibid:377301270360": 2,
+      "special:against-all": 10
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=773012005&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=377301270391&region=0&sub_region=0&type=429",
@@ -3232,15 +3232,15 @@ export const duma_2003_uik_428_region_77_part_011 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Андронова Ольга Александровна": 43,
-      "Вашуркин Игорь Олегович": 8,
-      "Гончар Николай Николаевич": 160,
-      "Карпухина Елена Алексеевна": 26,
-      "Кузнецов Александр Петрович": 6,
-      "Пашинцев Борис Анатольевич": 7,
-      "Плешаков Александр Петрович": 53,
-      "Русский Александр Васильевич": 2,
-      "Против всех": 80
+      "gas:candidate-vibid:1001000188026": 43,
+      "gas:candidate-vibid:1001000202345": 8,
+      "gas:candidate-vibid:377301270354": 160,
+      "gas:candidate-vibid:1001000121941": 26,
+      "gas:candidate-vibid:1001000195171": 6,
+      "gas:candidate-vibid:377301270533": 7,
+      "gas:candidate-vibid:377301270420": 53,
+      "gas:candidate-vibid:377301270360": 2,
+      "special:against-all": 80
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=773012006&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=377301270393&region=0&sub_region=0&type=429",
@@ -3290,15 +3290,15 @@ export const duma_2003_uik_428_region_77_part_011 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Андронова Ольга Александровна": 90,
-      "Вашуркин Игорь Олегович": 8,
-      "Гончар Николай Николаевич": 313,
-      "Карпухина Елена Алексеевна": 81,
-      "Кузнецов Александр Петрович": 8,
-      "Пашинцев Борис Анатольевич": 15,
-      "Плешаков Александр Петрович": 118,
-      "Русский Александр Васильевич": 14,
-      "Против всех": 159
+      "gas:candidate-vibid:1001000188026": 90,
+      "gas:candidate-vibid:1001000202345": 8,
+      "gas:candidate-vibid:377301270354": 313,
+      "gas:candidate-vibid:1001000121941": 81,
+      "gas:candidate-vibid:1001000195171": 8,
+      "gas:candidate-vibid:377301270533": 15,
+      "gas:candidate-vibid:377301270420": 118,
+      "gas:candidate-vibid:377301270360": 14,
+      "special:against-all": 159
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=773012006&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=377301270393&region=0&sub_region=0&type=429",
@@ -3348,15 +3348,15 @@ export const duma_2003_uik_428_region_77_part_011 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Андронова Ольга Александровна": 106,
-      "Вашуркин Игорь Олегович": 9,
-      "Гончар Николай Николаевич": 480,
-      "Карпухина Елена Алексеевна": 115,
-      "Кузнецов Александр Петрович": 9,
-      "Пашинцев Борис Анатольевич": 27,
-      "Плешаков Александр Петрович": 123,
-      "Русский Александр Васильевич": 18,
-      "Против всех": 204
+      "gas:candidate-vibid:1001000188026": 106,
+      "gas:candidate-vibid:1001000202345": 9,
+      "gas:candidate-vibid:377301270354": 480,
+      "gas:candidate-vibid:1001000121941": 115,
+      "gas:candidate-vibid:1001000195171": 9,
+      "gas:candidate-vibid:377301270533": 27,
+      "gas:candidate-vibid:377301270420": 123,
+      "gas:candidate-vibid:377301270360": 18,
+      "special:against-all": 204
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=773012006&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=377301270393&region=0&sub_region=0&type=429",
@@ -3406,15 +3406,15 @@ export const duma_2003_uik_428_region_77_part_011 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Андронова Ольга Александровна": 120,
-      "Вашуркин Игорь Олегович": 16,
-      "Гончар Николай Николаевич": 389,
-      "Карпухина Елена Алексеевна": 87,
-      "Кузнецов Александр Петрович": 6,
-      "Пашинцев Борис Анатольевич": 22,
-      "Плешаков Александр Петрович": 153,
-      "Русский Александр Васильевич": 22,
-      "Против всех": 172
+      "gas:candidate-vibid:1001000188026": 120,
+      "gas:candidate-vibid:1001000202345": 16,
+      "gas:candidate-vibid:377301270354": 389,
+      "gas:candidate-vibid:1001000121941": 87,
+      "gas:candidate-vibid:1001000195171": 6,
+      "gas:candidate-vibid:377301270533": 22,
+      "gas:candidate-vibid:377301270420": 153,
+      "gas:candidate-vibid:377301270360": 22,
+      "special:against-all": 172
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=773012006&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=377301270393&region=0&sub_region=0&type=429",
@@ -3464,15 +3464,15 @@ export const duma_2003_uik_428_region_77_part_011 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Андронова Ольга Александровна": 97,
-      "Вашуркин Игорь Олегович": 14,
-      "Гончар Николай Николаевич": 454,
-      "Карпухина Елена Алексеевна": 78,
-      "Кузнецов Александр Петрович": 17,
-      "Пашинцев Борис Анатольевич": 18,
-      "Плешаков Александр Петрович": 106,
-      "Русский Александр Васильевич": 8,
-      "Против всех": 171
+      "gas:candidate-vibid:1001000188026": 97,
+      "gas:candidate-vibid:1001000202345": 14,
+      "gas:candidate-vibid:377301270354": 454,
+      "gas:candidate-vibid:1001000121941": 78,
+      "gas:candidate-vibid:1001000195171": 17,
+      "gas:candidate-vibid:377301270533": 18,
+      "gas:candidate-vibid:377301270420": 106,
+      "gas:candidate-vibid:377301270360": 8,
+      "special:against-all": 171
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=773012006&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=377301270393&region=0&sub_region=0&type=429",
@@ -3522,15 +3522,15 @@ export const duma_2003_uik_428_region_77_part_011 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Андронова Ольга Александровна": 122,
-      "Вашуркин Игорь Олегович": 11,
-      "Гончар Николай Николаевич": 347,
-      "Карпухина Елена Алексеевна": 74,
-      "Кузнецов Александр Петрович": 14,
-      "Пашинцев Борис Анатольевич": 14,
-      "Плешаков Александр Петрович": 120,
-      "Русский Александр Васильевич": 22,
-      "Против всех": 235
+      "gas:candidate-vibid:1001000188026": 122,
+      "gas:candidate-vibid:1001000202345": 11,
+      "gas:candidate-vibid:377301270354": 347,
+      "gas:candidate-vibid:1001000121941": 74,
+      "gas:candidate-vibid:1001000195171": 14,
+      "gas:candidate-vibid:377301270533": 14,
+      "gas:candidate-vibid:377301270420": 120,
+      "gas:candidate-vibid:377301270360": 22,
+      "special:against-all": 235
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=773012006&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=377301270393&region=0&sub_region=0&type=429",
@@ -3580,15 +3580,15 @@ export const duma_2003_uik_428_region_77_part_011 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Андронова Ольга Александровна": 115,
-      "Вашуркин Игорь Олегович": 13,
-      "Гончар Николай Николаевич": 398,
-      "Карпухина Елена Алексеевна": 79,
-      "Кузнецов Александр Петрович": 12,
-      "Пашинцев Борис Анатольевич": 26,
-      "Плешаков Александр Петрович": 156,
-      "Русский Александр Васильевич": 27,
-      "Против всех": 177
+      "gas:candidate-vibid:1001000188026": 115,
+      "gas:candidate-vibid:1001000202345": 13,
+      "gas:candidate-vibid:377301270354": 398,
+      "gas:candidate-vibid:1001000121941": 79,
+      "gas:candidate-vibid:1001000195171": 12,
+      "gas:candidate-vibid:377301270533": 26,
+      "gas:candidate-vibid:377301270420": 156,
+      "gas:candidate-vibid:377301270360": 27,
+      "special:against-all": 177
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=773012006&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=377301270393&region=0&sub_region=0&type=429",
@@ -3638,15 +3638,15 @@ export const duma_2003_uik_428_region_77_part_011 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Андронова Ольга Александровна": 126,
-      "Вашуркин Игорь Олегович": 11,
-      "Гончар Николай Николаевич": 336,
-      "Карпухина Елена Алексеевна": 101,
-      "Кузнецов Александр Петрович": 19,
-      "Пашинцев Борис Анатольевич": 28,
-      "Плешаков Александр Петрович": 157,
-      "Русский Александр Васильевич": 21,
-      "Против всех": 287
+      "gas:candidate-vibid:1001000188026": 126,
+      "gas:candidate-vibid:1001000202345": 11,
+      "gas:candidate-vibid:377301270354": 336,
+      "gas:candidate-vibid:1001000121941": 101,
+      "gas:candidate-vibid:1001000195171": 19,
+      "gas:candidate-vibid:377301270533": 28,
+      "gas:candidate-vibid:377301270420": 157,
+      "gas:candidate-vibid:377301270360": 21,
+      "special:against-all": 287
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=773012006&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=377301270393&region=0&sub_region=0&type=429",
@@ -3696,15 +3696,15 @@ export const duma_2003_uik_428_region_77_part_011 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Андронова Ольга Александровна": 118,
-      "Вашуркин Игорь Олегович": 13,
-      "Гончар Николай Николаевич": 698,
-      "Карпухина Елена Алексеевна": 95,
-      "Кузнецов Александр Петрович": 22,
-      "Пашинцев Борис Анатольевич": 34,
-      "Плешаков Александр Петрович": 206,
-      "Русский Александр Васильевич": 29,
-      "Против всех": 324
+      "gas:candidate-vibid:1001000188026": 118,
+      "gas:candidate-vibid:1001000202345": 13,
+      "gas:candidate-vibid:377301270354": 698,
+      "gas:candidate-vibid:1001000121941": 95,
+      "gas:candidate-vibid:1001000195171": 22,
+      "gas:candidate-vibid:377301270533": 34,
+      "gas:candidate-vibid:377301270420": 206,
+      "gas:candidate-vibid:377301270360": 29,
+      "special:against-all": 324
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=773012006&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=377301270393&region=0&sub_region=0&type=429",
@@ -3754,15 +3754,15 @@ export const duma_2003_uik_428_region_77_part_011 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Андронова Ольга Александровна": 189,
-      "Вашуркин Игорь Олегович": 23,
-      "Гончар Николай Николаевич": 660,
-      "Карпухина Елена Алексеевна": 123,
-      "Кузнецов Александр Петрович": 22,
-      "Пашинцев Борис Анатольевич": 34,
-      "Плешаков Александр Петрович": 223,
-      "Русский Александр Васильевич": 26,
-      "Против всех": 342
+      "gas:candidate-vibid:1001000188026": 189,
+      "gas:candidate-vibid:1001000202345": 23,
+      "gas:candidate-vibid:377301270354": 660,
+      "gas:candidate-vibid:1001000121941": 123,
+      "gas:candidate-vibid:1001000195171": 22,
+      "gas:candidate-vibid:377301270533": 34,
+      "gas:candidate-vibid:377301270420": 223,
+      "gas:candidate-vibid:377301270360": 26,
+      "special:against-all": 342
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=773012006&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=377301270393&region=0&sub_region=0&type=429",
@@ -3812,15 +3812,15 @@ export const duma_2003_uik_428_region_77_part_011 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Андронова Ольга Александровна": 118,
-      "Вашуркин Игорь Олегович": 14,
-      "Гончар Николай Николаевич": 483,
-      "Карпухина Елена Алексеевна": 95,
-      "Кузнецов Александр Петрович": 15,
-      "Пашинцев Борис Анатольевич": 22,
-      "Плешаков Александр Петрович": 106,
-      "Русский Александр Васильевич": 17,
-      "Против всех": 192
+      "gas:candidate-vibid:1001000188026": 118,
+      "gas:candidate-vibid:1001000202345": 14,
+      "gas:candidate-vibid:377301270354": 483,
+      "gas:candidate-vibid:1001000121941": 95,
+      "gas:candidate-vibid:1001000195171": 15,
+      "gas:candidate-vibid:377301270533": 22,
+      "gas:candidate-vibid:377301270420": 106,
+      "gas:candidate-vibid:377301270360": 17,
+      "special:against-all": 192
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=773012006&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=377301270393&region=0&sub_region=0&type=429",
@@ -3870,15 +3870,15 @@ export const duma_2003_uik_428_region_77_part_011 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Андронова Ольга Александровна": 82,
-      "Вашуркин Игорь Олегович": 5,
-      "Гончар Николай Николаевич": 413,
-      "Карпухина Елена Алексеевна": 57,
-      "Кузнецов Александр Петрович": 7,
-      "Пашинцев Борис Анатольевич": 27,
-      "Плешаков Александр Петрович": 109,
-      "Русский Александр Васильевич": 25,
-      "Против всех": 151
+      "gas:candidate-vibid:1001000188026": 82,
+      "gas:candidate-vibid:1001000202345": 5,
+      "gas:candidate-vibid:377301270354": 413,
+      "gas:candidate-vibid:1001000121941": 57,
+      "gas:candidate-vibid:1001000195171": 7,
+      "gas:candidate-vibid:377301270533": 27,
+      "gas:candidate-vibid:377301270420": 109,
+      "gas:candidate-vibid:377301270360": 25,
+      "special:against-all": 151
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=773012006&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=377301270393&region=0&sub_region=0&type=429",
@@ -3928,15 +3928,15 @@ export const duma_2003_uik_428_region_77_part_011 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Андронова Ольга Александровна": 127,
-      "Вашуркин Игорь Олегович": 9,
-      "Гончар Николай Николаевич": 480,
-      "Карпухина Елена Алексеевна": 152,
-      "Кузнецов Александр Петрович": 10,
-      "Пашинцев Борис Анатольевич": 34,
-      "Плешаков Александр Петрович": 170,
-      "Русский Александр Васильевич": 21,
-      "Против всех": 252
+      "gas:candidate-vibid:1001000188026": 127,
+      "gas:candidate-vibid:1001000202345": 9,
+      "gas:candidate-vibid:377301270354": 480,
+      "gas:candidate-vibid:1001000121941": 152,
+      "gas:candidate-vibid:1001000195171": 10,
+      "gas:candidate-vibid:377301270533": 34,
+      "gas:candidate-vibid:377301270420": 170,
+      "gas:candidate-vibid:377301270360": 21,
+      "special:against-all": 252
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=773012006&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=377301270393&region=0&sub_region=0&type=429",
@@ -3986,15 +3986,15 @@ export const duma_2003_uik_428_region_77_part_011 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Андронова Ольга Александровна": 114,
-      "Вашуркин Игорь Олегович": 11,
-      "Гончар Николай Николаевич": 518,
-      "Карпухина Елена Алексеевна": 142,
-      "Кузнецов Александр Петрович": 10,
-      "Пашинцев Борис Анатольевич": 26,
-      "Плешаков Александр Петрович": 141,
-      "Русский Александр Васильевич": 24,
-      "Против всех": 240
+      "gas:candidate-vibid:1001000188026": 114,
+      "gas:candidate-vibid:1001000202345": 11,
+      "gas:candidate-vibid:377301270354": 518,
+      "gas:candidate-vibid:1001000121941": 142,
+      "gas:candidate-vibid:1001000195171": 10,
+      "gas:candidate-vibid:377301270533": 26,
+      "gas:candidate-vibid:377301270420": 141,
+      "gas:candidate-vibid:377301270360": 24,
+      "special:against-all": 240
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=773012006&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=377301270393&region=0&sub_region=0&type=429",
@@ -4044,15 +4044,15 @@ export const duma_2003_uik_428_region_77_part_011 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Андронова Ольга Александровна": 137,
-      "Вашуркин Игорь Олегович": 11,
-      "Гончар Николай Николаевич": 565,
-      "Карпухина Елена Алексеевна": 89,
-      "Кузнецов Александр Петрович": 13,
-      "Пашинцев Борис Анатольевич": 35,
-      "Плешаков Александр Петрович": 212,
-      "Русский Александр Васильевич": 26,
-      "Против всех": 274
+      "gas:candidate-vibid:1001000188026": 137,
+      "gas:candidate-vibid:1001000202345": 11,
+      "gas:candidate-vibid:377301270354": 565,
+      "gas:candidate-vibid:1001000121941": 89,
+      "gas:candidate-vibid:1001000195171": 13,
+      "gas:candidate-vibid:377301270533": 35,
+      "gas:candidate-vibid:377301270420": 212,
+      "gas:candidate-vibid:377301270360": 26,
+      "special:against-all": 274
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=773012006&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=377301270393&region=0&sub_region=0&type=429",
@@ -4102,15 +4102,15 @@ export const duma_2003_uik_428_region_77_part_011 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Андронова Ольга Александровна": 142,
-      "Вашуркин Игорь Олегович": 14,
-      "Гончар Николай Николаевич": 578,
-      "Карпухина Елена Алексеевна": 117,
-      "Кузнецов Александр Петрович": 12,
-      "Пашинцев Борис Анатольевич": 30,
-      "Плешаков Александр Петрович": 176,
-      "Русский Александр Васильевич": 25,
-      "Против всех": 212
+      "gas:candidate-vibid:1001000188026": 142,
+      "gas:candidate-vibid:1001000202345": 14,
+      "gas:candidate-vibid:377301270354": 578,
+      "gas:candidate-vibid:1001000121941": 117,
+      "gas:candidate-vibid:1001000195171": 12,
+      "gas:candidate-vibid:377301270533": 30,
+      "gas:candidate-vibid:377301270420": 176,
+      "gas:candidate-vibid:377301270360": 25,
+      "special:against-all": 212
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=773012006&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=377301270393&region=0&sub_region=0&type=429",
@@ -4160,15 +4160,15 @@ export const duma_2003_uik_428_region_77_part_011 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Андронова Ольга Александровна": 137,
-      "Вашуркин Игорь Олегович": 16,
-      "Гончар Николай Николаевич": 447,
-      "Карпухина Елена Алексеевна": 97,
-      "Кузнецов Александр Петрович": 26,
-      "Пашинцев Борис Анатольевич": 36,
-      "Плешаков Александр Петрович": 578,
-      "Русский Александр Васильевич": 25,
-      "Против всех": 290
+      "gas:candidate-vibid:1001000188026": 137,
+      "gas:candidate-vibid:1001000202345": 16,
+      "gas:candidate-vibid:377301270354": 447,
+      "gas:candidate-vibid:1001000121941": 97,
+      "gas:candidate-vibid:1001000195171": 26,
+      "gas:candidate-vibid:377301270533": 36,
+      "gas:candidate-vibid:377301270420": 578,
+      "gas:candidate-vibid:377301270360": 25,
+      "special:against-all": 290
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=773012006&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=377301270393&region=0&sub_region=0&type=429",
@@ -4218,15 +4218,15 @@ export const duma_2003_uik_428_region_77_part_011 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Андронова Ольга Александровна": 183,
-      "Вашуркин Игорь Олегович": 21,
-      "Гончар Николай Николаевич": 618,
-      "Карпухина Елена Алексеевна": 148,
-      "Кузнецов Александр Петрович": 19,
-      "Пашинцев Борис Анатольевич": 31,
-      "Плешаков Александр Петрович": 223,
-      "Русский Александр Васильевич": 34,
-      "Против всех": 299
+      "gas:candidate-vibid:1001000188026": 183,
+      "gas:candidate-vibid:1001000202345": 21,
+      "gas:candidate-vibid:377301270354": 618,
+      "gas:candidate-vibid:1001000121941": 148,
+      "gas:candidate-vibid:1001000195171": 19,
+      "gas:candidate-vibid:377301270533": 31,
+      "gas:candidate-vibid:377301270420": 223,
+      "gas:candidate-vibid:377301270360": 34,
+      "special:against-all": 299
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=773012006&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=377301270393&region=0&sub_region=0&type=429",
@@ -4276,15 +4276,15 @@ export const duma_2003_uik_428_region_77_part_011 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Андронова Ольга Александровна": 92,
-      "Вашуркин Игорь Олегович": 8,
-      "Гончар Николай Николаевич": 399,
-      "Карпухина Елена Алексеевна": 143,
-      "Кузнецов Александр Петрович": 16,
-      "Пашинцев Борис Анатольевич": 23,
-      "Плешаков Александр Петрович": 142,
-      "Русский Александр Васильевич": 25,
-      "Против всех": 264
+      "gas:candidate-vibid:1001000188026": 92,
+      "gas:candidate-vibid:1001000202345": 8,
+      "gas:candidate-vibid:377301270354": 399,
+      "gas:candidate-vibid:1001000121941": 143,
+      "gas:candidate-vibid:1001000195171": 16,
+      "gas:candidate-vibid:377301270533": 23,
+      "gas:candidate-vibid:377301270420": 142,
+      "gas:candidate-vibid:377301270360": 25,
+      "special:against-all": 264
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=773012006&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=377301270393&region=0&sub_region=0&type=429",
@@ -4334,15 +4334,15 @@ export const duma_2003_uik_428_region_77_part_011 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Андронова Ольга Александровна": 138,
-      "Вашуркин Игорь Олегович": 13,
-      "Гончар Николай Николаевич": 503,
-      "Карпухина Елена Алексеевна": 120,
-      "Кузнецов Александр Петрович": 15,
-      "Пашинцев Борис Анатольевич": 30,
-      "Плешаков Александр Петрович": 221,
-      "Русский Александр Васильевич": 27,
-      "Против всех": 310
+      "gas:candidate-vibid:1001000188026": 138,
+      "gas:candidate-vibid:1001000202345": 13,
+      "gas:candidate-vibid:377301270354": 503,
+      "gas:candidate-vibid:1001000121941": 120,
+      "gas:candidate-vibid:1001000195171": 15,
+      "gas:candidate-vibid:377301270533": 30,
+      "gas:candidate-vibid:377301270420": 221,
+      "gas:candidate-vibid:377301270360": 27,
+      "special:against-all": 310
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=773012006&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=377301270393&region=0&sub_region=0&type=429",
@@ -4392,15 +4392,15 @@ export const duma_2003_uik_428_region_77_part_011 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Андронова Ольга Александровна": 69,
-      "Вашуркин Игорь Олегович": 4,
-      "Гончар Николай Николаевич": 347,
-      "Карпухина Елена Алексеевна": 46,
-      "Кузнецов Александр Петрович": 6,
-      "Пашинцев Борис Анатольевич": 6,
-      "Плешаков Александр Петрович": 123,
-      "Русский Александр Васильевич": 14,
-      "Против всех": 156
+      "gas:candidate-vibid:1001000188026": 69,
+      "gas:candidate-vibid:1001000202345": 4,
+      "gas:candidate-vibid:377301270354": 347,
+      "gas:candidate-vibid:1001000121941": 46,
+      "gas:candidate-vibid:1001000195171": 6,
+      "gas:candidate-vibid:377301270533": 6,
+      "gas:candidate-vibid:377301270420": 123,
+      "gas:candidate-vibid:377301270360": 14,
+      "special:against-all": 156
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=773012006&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=377301270393&region=0&sub_region=0&type=429",
@@ -4450,15 +4450,15 @@ export const duma_2003_uik_428_region_77_part_011 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Андронова Ольга Александровна": 139,
-      "Вашуркин Игорь Олегович": 8,
-      "Гончар Николай Николаевич": 597,
-      "Карпухина Елена Алексеевна": 140,
-      "Кузнецов Александр Петрович": 19,
-      "Пашинцев Борис Анатольевич": 35,
-      "Плешаков Александр Петрович": 236,
-      "Русский Александр Васильевич": 13,
-      "Против всех": 355
+      "gas:candidate-vibid:1001000188026": 139,
+      "gas:candidate-vibid:1001000202345": 8,
+      "gas:candidate-vibid:377301270354": 597,
+      "gas:candidate-vibid:1001000121941": 140,
+      "gas:candidate-vibid:1001000195171": 19,
+      "gas:candidate-vibid:377301270533": 35,
+      "gas:candidate-vibid:377301270420": 236,
+      "gas:candidate-vibid:377301270360": 13,
+      "special:against-all": 355
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=773012006&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=377301270393&region=0&sub_region=0&type=429",
@@ -4508,15 +4508,15 @@ export const duma_2003_uik_428_region_77_part_011 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Андронова Ольга Александровна": 135,
-      "Вашуркин Игорь Олегович": 13,
-      "Гончар Николай Николаевич": 535,
-      "Карпухина Елена Алексеевна": 169,
-      "Кузнецов Александр Петрович": 12,
-      "Пашинцев Борис Анатольевич": 30,
-      "Плешаков Александр Петрович": 238,
-      "Русский Александр Васильевич": 33,
-      "Против всех": 248
+      "gas:candidate-vibid:1001000188026": 135,
+      "gas:candidate-vibid:1001000202345": 13,
+      "gas:candidate-vibid:377301270354": 535,
+      "gas:candidate-vibid:1001000121941": 169,
+      "gas:candidate-vibid:1001000195171": 12,
+      "gas:candidate-vibid:377301270533": 30,
+      "gas:candidate-vibid:377301270420": 238,
+      "gas:candidate-vibid:377301270360": 33,
+      "special:against-all": 248
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=773012006&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=377301270393&region=0&sub_region=0&type=429",
@@ -4566,15 +4566,15 @@ export const duma_2003_uik_428_region_77_part_011 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Андронова Ольга Александровна": 157,
-      "Вашуркин Игорь Олегович": 13,
-      "Гончар Николай Николаевич": 443,
-      "Карпухина Елена Алексеевна": 153,
-      "Кузнецов Александр Петрович": 18,
-      "Пашинцев Борис Анатольевич": 33,
-      "Плешаков Александр Петрович": 265,
-      "Русский Александр Васильевич": 21,
-      "Против всех": 321
+      "gas:candidate-vibid:1001000188026": 157,
+      "gas:candidate-vibid:1001000202345": 13,
+      "gas:candidate-vibid:377301270354": 443,
+      "gas:candidate-vibid:1001000121941": 153,
+      "gas:candidate-vibid:1001000195171": 18,
+      "gas:candidate-vibid:377301270533": 33,
+      "gas:candidate-vibid:377301270420": 265,
+      "gas:candidate-vibid:377301270360": 21,
+      "special:against-all": 321
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=773012006&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=377301270393&region=0&sub_region=0&type=429",
@@ -4624,15 +4624,15 @@ export const duma_2003_uik_428_region_77_part_011 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Андронова Ольга Александровна": 120,
-      "Вашуркин Игорь Олегович": 11,
-      "Гончар Николай Николаевич": 544,
-      "Карпухина Елена Алексеевна": 122,
-      "Кузнецов Александр Петрович": 9,
-      "Пашинцев Борис Анатольевич": 27,
-      "Плешаков Александр Петрович": 261,
-      "Русский Александр Васильевич": 23,
-      "Против всех": 252
+      "gas:candidate-vibid:1001000188026": 120,
+      "gas:candidate-vibid:1001000202345": 11,
+      "gas:candidate-vibid:377301270354": 544,
+      "gas:candidate-vibid:1001000121941": 122,
+      "gas:candidate-vibid:1001000195171": 9,
+      "gas:candidate-vibid:377301270533": 27,
+      "gas:candidate-vibid:377301270420": 261,
+      "gas:candidate-vibid:377301270360": 23,
+      "special:against-all": 252
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=773012006&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=377301270393&region=0&sub_region=0&type=429",
@@ -4682,15 +4682,15 @@ export const duma_2003_uik_428_region_77_part_011 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Андронова Ольга Александровна": 127,
-      "Вашуркин Игорь Олегович": 10,
-      "Гончар Николай Николаевич": 383,
-      "Карпухина Елена Алексеевна": 65,
-      "Кузнецов Александр Петрович": 12,
-      "Пашинцев Борис Анатольевич": 14,
-      "Плешаков Александр Петрович": 151,
-      "Русский Александр Васильевич": 29,
-      "Против всех": 221
+      "gas:candidate-vibid:1001000188026": 127,
+      "gas:candidate-vibid:1001000202345": 10,
+      "gas:candidate-vibid:377301270354": 383,
+      "gas:candidate-vibid:1001000121941": 65,
+      "gas:candidate-vibid:1001000195171": 12,
+      "gas:candidate-vibid:377301270533": 14,
+      "gas:candidate-vibid:377301270420": 151,
+      "gas:candidate-vibid:377301270360": 29,
+      "special:against-all": 221
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=773012006&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=377301270393&region=0&sub_region=0&type=429",
@@ -4740,15 +4740,15 @@ export const duma_2003_uik_428_region_77_part_011 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Андронова Ольга Александровна": 128,
-      "Вашуркин Игорь Олегович": 21,
-      "Гончар Николай Николаевич": 369,
-      "Карпухина Елена Алексеевна": 85,
-      "Кузнецов Александр Петрович": 11,
-      "Пашинцев Борис Анатольевич": 17,
-      "Плешаков Александр Петрович": 212,
-      "Русский Александр Васильевич": 28,
-      "Против всех": 267
+      "gas:candidate-vibid:1001000188026": 128,
+      "gas:candidate-vibid:1001000202345": 21,
+      "gas:candidate-vibid:377301270354": 369,
+      "gas:candidate-vibid:1001000121941": 85,
+      "gas:candidate-vibid:1001000195171": 11,
+      "gas:candidate-vibid:377301270533": 17,
+      "gas:candidate-vibid:377301270420": 212,
+      "gas:candidate-vibid:377301270360": 28,
+      "special:against-all": 267
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=773012006&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=377301270393&region=0&sub_region=0&type=429",
@@ -4798,15 +4798,15 @@ export const duma_2003_uik_428_region_77_part_011 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Андронова Ольга Александровна": 86,
-      "Вашуркин Игорь Олегович": 6,
-      "Гончар Николай Николаевич": 413,
-      "Карпухина Елена Алексеевна": 91,
-      "Кузнецов Александр Петрович": 11,
-      "Пашинцев Борис Анатольевич": 31,
-      "Плешаков Александр Петрович": 192,
-      "Русский Александр Васильевич": 22,
-      "Против всех": 175
+      "gas:candidate-vibid:1001000188026": 86,
+      "gas:candidate-vibid:1001000202345": 6,
+      "gas:candidate-vibid:377301270354": 413,
+      "gas:candidate-vibid:1001000121941": 91,
+      "gas:candidate-vibid:1001000195171": 11,
+      "gas:candidate-vibid:377301270533": 31,
+      "gas:candidate-vibid:377301270420": 192,
+      "gas:candidate-vibid:377301270360": 22,
+      "special:against-all": 175
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=773012006&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=377301270393&region=0&sub_region=0&type=429",
@@ -4856,15 +4856,15 @@ export const duma_2003_uik_428_region_77_part_011 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Андронова Ольга Александровна": 126,
-      "Вашуркин Игорь Олегович": 9,
-      "Гончар Николай Николаевич": 415,
-      "Карпухина Елена Алексеевна": 99,
-      "Кузнецов Александр Петрович": 12,
-      "Пашинцев Борис Анатольевич": 13,
-      "Плешаков Александр Петрович": 155,
-      "Русский Александр Васильевич": 11,
-      "Против всех": 264
+      "gas:candidate-vibid:1001000188026": 126,
+      "gas:candidate-vibid:1001000202345": 9,
+      "gas:candidate-vibid:377301270354": 415,
+      "gas:candidate-vibid:1001000121941": 99,
+      "gas:candidate-vibid:1001000195171": 12,
+      "gas:candidate-vibid:377301270533": 13,
+      "gas:candidate-vibid:377301270420": 155,
+      "gas:candidate-vibid:377301270360": 11,
+      "special:against-all": 264
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=773012006&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=377301270393&region=0&sub_region=0&type=429",
@@ -4914,15 +4914,15 @@ export const duma_2003_uik_428_region_77_part_011 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Андронова Ольга Александровна": 138,
-      "Вашуркин Игорь Олегович": 12,
-      "Гончар Николай Николаевич": 407,
-      "Карпухина Елена Алексеевна": 122,
-      "Кузнецов Александр Петрович": 24,
-      "Пашинцев Борис Анатольевич": 19,
-      "Плешаков Александр Петрович": 131,
-      "Русский Александр Васильевич": 26,
-      "Против всех": 290
+      "gas:candidate-vibid:1001000188026": 138,
+      "gas:candidate-vibid:1001000202345": 12,
+      "gas:candidate-vibid:377301270354": 407,
+      "gas:candidate-vibid:1001000121941": 122,
+      "gas:candidate-vibid:1001000195171": 24,
+      "gas:candidate-vibid:377301270533": 19,
+      "gas:candidate-vibid:377301270420": 131,
+      "gas:candidate-vibid:377301270360": 26,
+      "special:against-all": 290
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=773012006&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=377301270393&region=0&sub_region=0&type=429",
@@ -4972,15 +4972,15 @@ export const duma_2003_uik_428_region_77_part_011 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Андронова Ольга Александровна": 125,
-      "Вашуркин Игорь Олегович": 12,
-      "Гончар Николай Николаевич": 374,
-      "Карпухина Елена Алексеевна": 134,
-      "Кузнецов Александр Петрович": 14,
-      "Пашинцев Борис Анатольевич": 22,
-      "Плешаков Александр Петрович": 187,
-      "Русский Александр Васильевич": 16,
-      "Против всех": 300
+      "gas:candidate-vibid:1001000188026": 125,
+      "gas:candidate-vibid:1001000202345": 12,
+      "gas:candidate-vibid:377301270354": 374,
+      "gas:candidate-vibid:1001000121941": 134,
+      "gas:candidate-vibid:1001000195171": 14,
+      "gas:candidate-vibid:377301270533": 22,
+      "gas:candidate-vibid:377301270420": 187,
+      "gas:candidate-vibid:377301270360": 16,
+      "special:against-all": 300
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=773012006&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=377301270393&region=0&sub_region=0&type=429",
@@ -5030,15 +5030,15 @@ export const duma_2003_uik_428_region_77_part_011 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Андронова Ольга Александровна": 130,
-      "Вашуркин Игорь Олегович": 13,
-      "Гончар Николай Николаевич": 436,
-      "Карпухина Елена Алексеевна": 177,
-      "Кузнецов Александр Петрович": 11,
-      "Пашинцев Борис Анатольевич": 23,
-      "Плешаков Александр Петрович": 258,
-      "Русский Александр Васильевич": 16,
-      "Против всех": 274
+      "gas:candidate-vibid:1001000188026": 130,
+      "gas:candidate-vibid:1001000202345": 13,
+      "gas:candidate-vibid:377301270354": 436,
+      "gas:candidate-vibid:1001000121941": 177,
+      "gas:candidate-vibid:1001000195171": 11,
+      "gas:candidate-vibid:377301270533": 23,
+      "gas:candidate-vibid:377301270420": 258,
+      "gas:candidate-vibid:377301270360": 16,
+      "special:against-all": 274
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=773012006&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=377301270393&region=0&sub_region=0&type=429",
@@ -5088,15 +5088,15 @@ export const duma_2003_uik_428_region_77_part_011 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Андронова Ольга Александровна": 157,
-      "Вашуркин Игорь Олегович": 117,
-      "Гончар Николай Николаевич": 475,
-      "Карпухина Елена Алексеевна": 156,
-      "Кузнецов Александр Петрович": 18,
-      "Пашинцев Борис Анатольевич": 24,
-      "Плешаков Александр Петрович": 323,
-      "Русский Александр Васильевич": 30,
-      "Против всех": 203
+      "gas:candidate-vibid:1001000188026": 157,
+      "gas:candidate-vibid:1001000202345": 117,
+      "gas:candidate-vibid:377301270354": 475,
+      "gas:candidate-vibid:1001000121941": 156,
+      "gas:candidate-vibid:1001000195171": 18,
+      "gas:candidate-vibid:377301270533": 24,
+      "gas:candidate-vibid:377301270420": 323,
+      "gas:candidate-vibid:377301270360": 30,
+      "special:against-all": 203
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=773012006&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=377301270393&region=0&sub_region=0&type=429",
@@ -5146,15 +5146,15 @@ export const duma_2003_uik_428_region_77_part_011 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Андронова Ольга Александровна": 146,
-      "Вашуркин Игорь Олегович": 26,
-      "Гончар Николай Николаевич": 462,
-      "Карпухина Елена Алексеевна": 103,
-      "Кузнецов Александр Петрович": 21,
-      "Пашинцев Борис Анатольевич": 28,
-      "Плешаков Александр Петрович": 184,
-      "Русский Александр Васильевич": 26,
-      "Против всех": 263
+      "gas:candidate-vibid:1001000188026": 146,
+      "gas:candidate-vibid:1001000202345": 26,
+      "gas:candidate-vibid:377301270354": 462,
+      "gas:candidate-vibid:1001000121941": 103,
+      "gas:candidate-vibid:1001000195171": 21,
+      "gas:candidate-vibid:377301270533": 28,
+      "gas:candidate-vibid:377301270420": 184,
+      "gas:candidate-vibid:377301270360": 26,
+      "special:against-all": 263
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=773012006&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=377301270393&region=0&sub_region=0&type=429",
@@ -5204,15 +5204,15 @@ export const duma_2003_uik_428_region_77_part_011 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Андронова Ольга Александровна": 138,
-      "Вашуркин Игорь Олегович": 8,
-      "Гончар Николай Николаевич": 478,
-      "Карпухина Елена Алексеевна": 87,
-      "Кузнецов Александр Петрович": 21,
-      "Пашинцев Борис Анатольевич": 24,
-      "Плешаков Александр Петрович": 272,
-      "Русский Александр Васильевич": 38,
-      "Против всех": 259
+      "gas:candidate-vibid:1001000188026": 138,
+      "gas:candidate-vibid:1001000202345": 8,
+      "gas:candidate-vibid:377301270354": 478,
+      "gas:candidate-vibid:1001000121941": 87,
+      "gas:candidate-vibid:1001000195171": 21,
+      "gas:candidate-vibid:377301270533": 24,
+      "gas:candidate-vibid:377301270420": 272,
+      "gas:candidate-vibid:377301270360": 38,
+      "special:against-all": 259
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=773012006&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=377301270393&region=0&sub_region=0&type=429",
@@ -5262,15 +5262,15 @@ export const duma_2003_uik_428_region_77_part_011 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Андронова Ольга Александровна": 170,
-      "Вашуркин Игорь Олегович": 12,
-      "Гончар Николай Николаевич": 427,
-      "Карпухина Елена Алексеевна": 118,
-      "Кузнецов Александр Петрович": 15,
-      "Пашинцев Борис Анатольевич": 32,
-      "Плешаков Александр Петрович": 285,
-      "Русский Александр Васильевич": 49,
-      "Против всех": 291
+      "gas:candidate-vibid:1001000188026": 170,
+      "gas:candidate-vibid:1001000202345": 12,
+      "gas:candidate-vibid:377301270354": 427,
+      "gas:candidate-vibid:1001000121941": 118,
+      "gas:candidate-vibid:1001000195171": 15,
+      "gas:candidate-vibid:377301270533": 32,
+      "gas:candidate-vibid:377301270420": 285,
+      "gas:candidate-vibid:377301270360": 49,
+      "special:against-all": 291
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=773012006&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=377301270393&region=0&sub_region=0&type=429",
@@ -5320,15 +5320,15 @@ export const duma_2003_uik_428_region_77_part_011 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Андронова Ольга Александровна": 106,
-      "Вашуркин Игорь Олегович": 14,
-      "Гончар Николай Николаевич": 443,
-      "Карпухина Елена Алексеевна": 91,
-      "Кузнецов Александр Петрович": 19,
-      "Пашинцев Борис Анатольевич": 19,
-      "Плешаков Александр Петрович": 231,
-      "Русский Александр Васильевич": 38,
-      "Против всех": 246
+      "gas:candidate-vibid:1001000188026": 106,
+      "gas:candidate-vibid:1001000202345": 14,
+      "gas:candidate-vibid:377301270354": 443,
+      "gas:candidate-vibid:1001000121941": 91,
+      "gas:candidate-vibid:1001000195171": 19,
+      "gas:candidate-vibid:377301270533": 19,
+      "gas:candidate-vibid:377301270420": 231,
+      "gas:candidate-vibid:377301270360": 38,
+      "special:against-all": 246
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=773012006&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=377301270393&region=0&sub_region=0&type=429",
@@ -5378,15 +5378,15 @@ export const duma_2003_uik_428_region_77_part_011 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Андронова Ольга Александровна": 2,
-      "Вашуркин Игорь Олегович": 0,
-      "Гончар Николай Николаевич": 26,
-      "Карпухина Елена Алексеевна": 5,
-      "Кузнецов Александр Петрович": 5,
-      "Пашинцев Борис Анатольевич": 1,
-      "Плешаков Александр Петрович": 10,
-      "Русский Александр Васильевич": 1,
-      "Против всех": 12
+      "gas:candidate-vibid:1001000188026": 2,
+      "gas:candidate-vibid:1001000202345": 0,
+      "gas:candidate-vibid:377301270354": 26,
+      "gas:candidate-vibid:1001000121941": 5,
+      "gas:candidate-vibid:1001000195171": 5,
+      "gas:candidate-vibid:377301270533": 1,
+      "gas:candidate-vibid:377301270420": 10,
+      "gas:candidate-vibid:377301270360": 1,
+      "special:against-all": 12
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=773012006&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=377301270393&region=0&sub_region=0&type=429",
@@ -5436,15 +5436,15 @@ export const duma_2003_uik_428_region_77_part_011 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Андронова Ольга Александровна": 6,
-      "Вашуркин Игорь Олегович": 1,
-      "Гончар Николай Николаевич": 21,
-      "Карпухина Елена Алексеевна": 5,
-      "Кузнецов Александр Петрович": 0,
-      "Пашинцев Борис Анатольевич": 2,
-      "Плешаков Александр Петрович": 1,
-      "Русский Александр Васильевич": 2,
-      "Против всех": 5
+      "gas:candidate-vibid:1001000188026": 6,
+      "gas:candidate-vibid:1001000202345": 1,
+      "gas:candidate-vibid:377301270354": 21,
+      "gas:candidate-vibid:1001000121941": 5,
+      "gas:candidate-vibid:1001000195171": 0,
+      "gas:candidate-vibid:377301270533": 2,
+      "gas:candidate-vibid:377301270420": 1,
+      "gas:candidate-vibid:377301270360": 2,
+      "special:against-all": 5
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=773012006&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=377301270393&region=0&sub_region=0&type=429",
@@ -5494,15 +5494,15 @@ export const duma_2003_uik_428_region_77_part_011 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Андронова Ольга Александровна": 2,
-      "Вашуркин Игорь Олегович": 0,
-      "Гончар Николай Николаевич": 4,
-      "Карпухина Елена Алексеевна": 1,
-      "Кузнецов Александр Петрович": 0,
-      "Пашинцев Борис Анатольевич": 0,
-      "Плешаков Александр Петрович": 2,
-      "Русский Александр Васильевич": 0,
-      "Против всех": 9
+      "gas:candidate-vibid:1001000188026": 2,
+      "gas:candidate-vibid:1001000202345": 0,
+      "gas:candidate-vibid:377301270354": 4,
+      "gas:candidate-vibid:1001000121941": 1,
+      "gas:candidate-vibid:1001000195171": 0,
+      "gas:candidate-vibid:377301270533": 0,
+      "gas:candidate-vibid:377301270420": 2,
+      "gas:candidate-vibid:377301270360": 0,
+      "special:against-all": 9
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=773012006&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=377301270393&region=0&sub_region=0&type=429",
@@ -5552,15 +5552,15 @@ export const duma_2003_uik_428_region_77_part_011 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Андронова Ольга Александровна": 205,
-      "Вашуркин Игорь Олегович": 33,
-      "Гончар Николай Николаевич": 186,
-      "Карпухина Елена Алексеевна": 120,
-      "Кузнецов Александр Петрович": 59,
-      "Пашинцев Борис Анатольевич": 16,
-      "Плешаков Александр Петрович": 139,
-      "Русский Александр Васильевич": 60,
-      "Против всех": 587
+      "gas:candidate-vibid:1001000188026": 205,
+      "gas:candidate-vibid:1001000202345": 33,
+      "gas:candidate-vibid:377301270354": 186,
+      "gas:candidate-vibid:1001000121941": 120,
+      "gas:candidate-vibid:1001000195171": 59,
+      "gas:candidate-vibid:377301270533": 16,
+      "gas:candidate-vibid:377301270420": 139,
+      "gas:candidate-vibid:377301270360": 60,
+      "special:against-all": 587
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=773012007&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=377301270395&region=0&sub_region=0&type=429",
@@ -5610,15 +5610,15 @@ export const duma_2003_uik_428_region_77_part_011 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Андронова Ольга Александровна": 73,
-      "Вашуркин Игорь Олегович": 5,
-      "Гончар Николай Николаевич": 158,
-      "Карпухина Елена Алексеевна": 98,
-      "Кузнецов Александр Петрович": 10,
-      "Пашинцев Борис Анатольевич": 3,
-      "Плешаков Александр Петрович": 80,
-      "Русский Александр Васильевич": 9,
-      "Против всех": 132
+      "gas:candidate-vibid:1001000188026": 73,
+      "gas:candidate-vibid:1001000202345": 5,
+      "gas:candidate-vibid:377301270354": 158,
+      "gas:candidate-vibid:1001000121941": 98,
+      "gas:candidate-vibid:1001000195171": 10,
+      "gas:candidate-vibid:377301270533": 3,
+      "gas:candidate-vibid:377301270420": 80,
+      "gas:candidate-vibid:377301270360": 9,
+      "special:against-all": 132
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=773012007&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=377301270395&region=0&sub_region=0&type=429",
@@ -5668,15 +5668,15 @@ export const duma_2003_uik_428_region_77_part_011 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Андронова Ольга Александровна": 118,
-      "Вашуркин Игорь Олегович": 17,
-      "Гончар Николай Николаевич": 276,
-      "Карпухина Елена Алексеевна": 91,
-      "Кузнецов Александр Петрович": 12,
-      "Пашинцев Борис Анатольевич": 8,
-      "Плешаков Александр Петрович": 156,
-      "Русский Александр Васильевич": 16,
-      "Против всех": 237
+      "gas:candidate-vibid:1001000188026": 118,
+      "gas:candidate-vibid:1001000202345": 17,
+      "gas:candidate-vibid:377301270354": 276,
+      "gas:candidate-vibid:1001000121941": 91,
+      "gas:candidate-vibid:1001000195171": 12,
+      "gas:candidate-vibid:377301270533": 8,
+      "gas:candidate-vibid:377301270420": 156,
+      "gas:candidate-vibid:377301270360": 16,
+      "special:against-all": 237
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=773012007&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=377301270395&region=0&sub_region=0&type=429",
@@ -5726,15 +5726,15 @@ export const duma_2003_uik_428_region_77_part_011 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Андронова Ольга Александровна": 181,
-      "Вашуркин Игорь Олегович": 17,
-      "Гончар Николай Николаевич": 468,
-      "Карпухина Елена Алексеевна": 148,
-      "Кузнецов Александр Петрович": 19,
-      "Пашинцев Борис Анатольевич": 11,
-      "Плешаков Александр Петрович": 247,
-      "Русский Александр Васильевич": 26,
-      "Против всех": 341
+      "gas:candidate-vibid:1001000188026": 181,
+      "gas:candidate-vibid:1001000202345": 17,
+      "gas:candidate-vibid:377301270354": 468,
+      "gas:candidate-vibid:1001000121941": 148,
+      "gas:candidate-vibid:1001000195171": 19,
+      "gas:candidate-vibid:377301270533": 11,
+      "gas:candidate-vibid:377301270420": 247,
+      "gas:candidate-vibid:377301270360": 26,
+      "special:against-all": 341
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=773012007&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=377301270395&region=0&sub_region=0&type=429",
@@ -5784,15 +5784,15 @@ export const duma_2003_uik_428_region_77_part_011 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Андронова Ольга Александровна": 121,
-      "Вашуркин Игорь Олегович": 7,
-      "Гончар Николай Николаевич": 260,
-      "Карпухина Елена Алексеевна": 124,
-      "Кузнецов Александр Петрович": 14,
-      "Пашинцев Борис Анатольевич": 17,
-      "Плешаков Александр Петрович": 143,
-      "Русский Александр Васильевич": 13,
-      "Против всех": 219
+      "gas:candidate-vibid:1001000188026": 121,
+      "gas:candidate-vibid:1001000202345": 7,
+      "gas:candidate-vibid:377301270354": 260,
+      "gas:candidate-vibid:1001000121941": 124,
+      "gas:candidate-vibid:1001000195171": 14,
+      "gas:candidate-vibid:377301270533": 17,
+      "gas:candidate-vibid:377301270420": 143,
+      "gas:candidate-vibid:377301270360": 13,
+      "special:against-all": 219
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=773012007&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=377301270395&region=0&sub_region=0&type=429",
@@ -5842,15 +5842,15 @@ export const duma_2003_uik_428_region_77_part_011 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Андронова Ольга Александровна": 208,
-      "Вашуркин Игорь Олегович": 4,
-      "Гончар Николай Николаевич": 476,
-      "Карпухина Елена Алексеевна": 152,
-      "Кузнецов Александр Петрович": 22,
-      "Пашинцев Борис Анатольевич": 24,
-      "Плешаков Александр Петрович": 174,
-      "Русский Александр Васильевич": 41,
-      "Против всех": 394
+      "gas:candidate-vibid:1001000188026": 208,
+      "gas:candidate-vibid:1001000202345": 4,
+      "gas:candidate-vibid:377301270354": 476,
+      "gas:candidate-vibid:1001000121941": 152,
+      "gas:candidate-vibid:1001000195171": 22,
+      "gas:candidate-vibid:377301270533": 24,
+      "gas:candidate-vibid:377301270420": 174,
+      "gas:candidate-vibid:377301270360": 41,
+      "special:against-all": 394
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=773012007&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=377301270395&region=0&sub_region=0&type=429",
@@ -5900,15 +5900,15 @@ export const duma_2003_uik_428_region_77_part_011 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Андронова Ольга Александровна": 176,
-      "Вашуркин Игорь Олегович": 11,
-      "Гончар Николай Николаевич": 294,
-      "Карпухина Елена Алексеевна": 107,
-      "Кузнецов Александр Петрович": 22,
-      "Пашинцев Борис Анатольевич": 15,
-      "Плешаков Александр Петрович": 154,
-      "Русский Александр Васильевич": 39,
-      "Против всех": 290
+      "gas:candidate-vibid:1001000188026": 176,
+      "gas:candidate-vibid:1001000202345": 11,
+      "gas:candidate-vibid:377301270354": 294,
+      "gas:candidate-vibid:1001000121941": 107,
+      "gas:candidate-vibid:1001000195171": 22,
+      "gas:candidate-vibid:377301270533": 15,
+      "gas:candidate-vibid:377301270420": 154,
+      "gas:candidate-vibid:377301270360": 39,
+      "special:against-all": 290
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=773012007&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=377301270395&region=0&sub_region=0&type=429",
@@ -5958,15 +5958,15 @@ export const duma_2003_uik_428_region_77_part_011 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Андронова Ольга Александровна": 193,
-      "Вашуркин Игорь Олегович": 20,
-      "Гончар Николай Николаевич": 390,
-      "Карпухина Елена Алексеевна": 138,
-      "Кузнецов Александр Петрович": 14,
-      "Пашинцев Борис Анатольевич": 22,
-      "Плешаков Александр Петрович": 198,
-      "Русский Александр Васильевич": 41,
-      "Против всех": 349
+      "gas:candidate-vibid:1001000188026": 193,
+      "gas:candidate-vibid:1001000202345": 20,
+      "gas:candidate-vibid:377301270354": 390,
+      "gas:candidate-vibid:1001000121941": 138,
+      "gas:candidate-vibid:1001000195171": 14,
+      "gas:candidate-vibid:377301270533": 22,
+      "gas:candidate-vibid:377301270420": 198,
+      "gas:candidate-vibid:377301270360": 41,
+      "special:against-all": 349
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=773012007&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=377301270395&region=0&sub_region=0&type=429",
@@ -6016,15 +6016,15 @@ export const duma_2003_uik_428_region_77_part_011 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Андронова Ольга Александровна": 139,
-      "Вашуркин Игорь Олегович": 13,
-      "Гончар Николай Николаевич": 316,
-      "Карпухина Елена Алексеевна": 140,
-      "Кузнецов Александр Петрович": 18,
-      "Пашинцев Борис Анатольевич": 28,
-      "Плешаков Александр Петрович": 166,
-      "Русский Александр Васильевич": 28,
-      "Против всех": 338
+      "gas:candidate-vibid:1001000188026": 139,
+      "gas:candidate-vibid:1001000202345": 13,
+      "gas:candidate-vibid:377301270354": 316,
+      "gas:candidate-vibid:1001000121941": 140,
+      "gas:candidate-vibid:1001000195171": 18,
+      "gas:candidate-vibid:377301270533": 28,
+      "gas:candidate-vibid:377301270420": 166,
+      "gas:candidate-vibid:377301270360": 28,
+      "special:against-all": 338
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=773012007&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=377301270395&region=0&sub_region=0&type=429",
@@ -6074,15 +6074,15 @@ export const duma_2003_uik_428_region_77_part_011 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Андронова Ольга Александровна": 160,
-      "Вашуркин Игорь Олегович": 14,
-      "Гончар Николай Николаевич": 436,
-      "Карпухина Елена Алексеевна": 139,
-      "Кузнецов Александр Петрович": 19,
-      "Пашинцев Борис Анатольевич": 16,
-      "Плешаков Александр Петрович": 184,
-      "Русский Александр Васильевич": 45,
-      "Против всех": 277
+      "gas:candidate-vibid:1001000188026": 160,
+      "gas:candidate-vibid:1001000202345": 14,
+      "gas:candidate-vibid:377301270354": 436,
+      "gas:candidate-vibid:1001000121941": 139,
+      "gas:candidate-vibid:1001000195171": 19,
+      "gas:candidate-vibid:377301270533": 16,
+      "gas:candidate-vibid:377301270420": 184,
+      "gas:candidate-vibid:377301270360": 45,
+      "special:against-all": 277
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=773012007&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=377301270395&region=0&sub_region=0&type=429",
@@ -6132,15 +6132,15 @@ export const duma_2003_uik_428_region_77_part_011 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Андронова Ольга Александровна": 173,
-      "Вашуркин Игорь Олегович": 9,
-      "Гончар Николай Николаевич": 448,
-      "Карпухина Елена Алексеевна": 70,
-      "Кузнецов Александр Петрович": 23,
-      "Пашинцев Борис Анатольевич": 17,
-      "Плешаков Александр Петрович": 150,
-      "Русский Александр Васильевич": 35,
-      "Против всех": 284
+      "gas:candidate-vibid:1001000188026": 173,
+      "gas:candidate-vibid:1001000202345": 9,
+      "gas:candidate-vibid:377301270354": 448,
+      "gas:candidate-vibid:1001000121941": 70,
+      "gas:candidate-vibid:1001000195171": 23,
+      "gas:candidate-vibid:377301270533": 17,
+      "gas:candidate-vibid:377301270420": 150,
+      "gas:candidate-vibid:377301270360": 35,
+      "special:against-all": 284
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=773012007&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=377301270395&region=0&sub_region=0&type=429",
@@ -6190,15 +6190,15 @@ export const duma_2003_uik_428_region_77_part_011 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Андронова Ольга Александровна": 122,
-      "Вашуркин Игорь Олегович": 20,
-      "Гончар Николай Николаевич": 261,
-      "Карпухина Елена Алексеевна": 89,
-      "Кузнецов Александр Петрович": 15,
-      "Пашинцев Борис Анатольевич": 12,
-      "Плешаков Александр Петрович": 96,
-      "Русский Александр Васильевич": 17,
-      "Против всех": 230
+      "gas:candidate-vibid:1001000188026": 122,
+      "gas:candidate-vibid:1001000202345": 20,
+      "gas:candidate-vibid:377301270354": 261,
+      "gas:candidate-vibid:1001000121941": 89,
+      "gas:candidate-vibid:1001000195171": 15,
+      "gas:candidate-vibid:377301270533": 12,
+      "gas:candidate-vibid:377301270420": 96,
+      "gas:candidate-vibid:377301270360": 17,
+      "special:against-all": 230
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=773012007&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=377301270395&region=0&sub_region=0&type=429",
@@ -6248,15 +6248,15 @@ export const duma_2003_uik_428_region_77_part_011 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Андронова Ольга Александровна": 138,
-      "Вашуркин Игорь Олегович": 17,
-      "Гончар Николай Николаевич": 255,
-      "Карпухина Елена Алексеевна": 74,
-      "Кузнецов Александр Петрович": 21,
-      "Пашинцев Борис Анатольевич": 8,
-      "Плешаков Александр Петрович": 163,
-      "Русский Александр Васильевич": 26,
-      "Против всех": 212
+      "gas:candidate-vibid:1001000188026": 138,
+      "gas:candidate-vibid:1001000202345": 17,
+      "gas:candidate-vibid:377301270354": 255,
+      "gas:candidate-vibid:1001000121941": 74,
+      "gas:candidate-vibid:1001000195171": 21,
+      "gas:candidate-vibid:377301270533": 8,
+      "gas:candidate-vibid:377301270420": 163,
+      "gas:candidate-vibid:377301270360": 26,
+      "special:against-all": 212
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=773012007&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=377301270395&region=0&sub_region=0&type=429",
@@ -6306,15 +6306,15 @@ export const duma_2003_uik_428_region_77_part_011 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Андронова Ольга Александровна": 160,
-      "Вашуркин Игорь Олегович": 14,
-      "Гончар Николай Николаевич": 490,
-      "Карпухина Елена Алексеевна": 144,
-      "Кузнецов Александр Петрович": 19,
-      "Пашинцев Борис Анатольевич": 14,
-      "Плешаков Александр Петрович": 172,
-      "Русский Александр Васильевич": 45,
-      "Против всех": 333
+      "gas:candidate-vibid:1001000188026": 160,
+      "gas:candidate-vibid:1001000202345": 14,
+      "gas:candidate-vibid:377301270354": 490,
+      "gas:candidate-vibid:1001000121941": 144,
+      "gas:candidate-vibid:1001000195171": 19,
+      "gas:candidate-vibid:377301270533": 14,
+      "gas:candidate-vibid:377301270420": 172,
+      "gas:candidate-vibid:377301270360": 45,
+      "special:against-all": 333
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=773012007&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=377301270395&region=0&sub_region=0&type=429",
@@ -6364,15 +6364,15 @@ export const duma_2003_uik_428_region_77_part_011 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Андронова Ольга Александровна": 94,
-      "Вашуркин Игорь Олегович": 11,
-      "Гончар Николай Николаевич": 227,
-      "Карпухина Елена Алексеевна": 127,
-      "Кузнецов Александр Петрович": 8,
-      "Пашинцев Борис Анатольевич": 20,
-      "Плешаков Александр Петрович": 181,
-      "Русский Александр Васильевич": 20,
-      "Против всех": 215
+      "gas:candidate-vibid:1001000188026": 94,
+      "gas:candidate-vibid:1001000202345": 11,
+      "gas:candidate-vibid:377301270354": 227,
+      "gas:candidate-vibid:1001000121941": 127,
+      "gas:candidate-vibid:1001000195171": 8,
+      "gas:candidate-vibid:377301270533": 20,
+      "gas:candidate-vibid:377301270420": 181,
+      "gas:candidate-vibid:377301270360": 20,
+      "special:against-all": 215
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=773012007&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=377301270395&region=0&sub_region=0&type=429",
@@ -6422,15 +6422,15 @@ export const duma_2003_uik_428_region_77_part_011 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Андронова Ольга Александровна": 125,
-      "Вашуркин Игорь Олегович": 6,
-      "Гончар Николай Николаевич": 215,
-      "Карпухина Елена Алексеевна": 90,
-      "Кузнецов Александр Петрович": 13,
-      "Пашинцев Борис Анатольевич": 12,
-      "Плешаков Александр Петрович": 123,
-      "Русский Александр Васильевич": 25,
-      "Против всех": 212
+      "gas:candidate-vibid:1001000188026": 125,
+      "gas:candidate-vibid:1001000202345": 6,
+      "gas:candidate-vibid:377301270354": 215,
+      "gas:candidate-vibid:1001000121941": 90,
+      "gas:candidate-vibid:1001000195171": 13,
+      "gas:candidate-vibid:377301270533": 12,
+      "gas:candidate-vibid:377301270420": 123,
+      "gas:candidate-vibid:377301270360": 25,
+      "special:against-all": 212
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=773012007&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=377301270395&region=0&sub_region=0&type=429",
@@ -6480,15 +6480,15 @@ export const duma_2003_uik_428_region_77_part_011 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Андронова Ольга Александровна": 164,
-      "Вашуркин Игорь Олегович": 16,
-      "Гончар Николай Николаевич": 364,
-      "Карпухина Елена Алексеевна": 102,
-      "Кузнецов Александр Петрович": 28,
-      "Пашинцев Борис Анатольевич": 17,
-      "Плешаков Александр Петрович": 262,
-      "Русский Александр Васильевич": 37,
-      "Против всех": 324
+      "gas:candidate-vibid:1001000188026": 164,
+      "gas:candidate-vibid:1001000202345": 16,
+      "gas:candidate-vibid:377301270354": 364,
+      "gas:candidate-vibid:1001000121941": 102,
+      "gas:candidate-vibid:1001000195171": 28,
+      "gas:candidate-vibid:377301270533": 17,
+      "gas:candidate-vibid:377301270420": 262,
+      "gas:candidate-vibid:377301270360": 37,
+      "special:against-all": 324
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=773012007&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=377301270395&region=0&sub_region=0&type=429",
@@ -6538,15 +6538,15 @@ export const duma_2003_uik_428_region_77_part_011 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Андронова Ольга Александровна": 122,
-      "Вашуркин Игорь Олегович": 10,
-      "Гончар Николай Николаевич": 385,
-      "Карпухина Елена Алексеевна": 116,
-      "Кузнецов Александр Петрович": 18,
-      "Пашинцев Борис Анатольевич": 21,
-      "Плешаков Александр Петрович": 190,
-      "Русский Александр Васильевич": 36,
-      "Против всех": 329
+      "gas:candidate-vibid:1001000188026": 122,
+      "gas:candidate-vibid:1001000202345": 10,
+      "gas:candidate-vibid:377301270354": 385,
+      "gas:candidate-vibid:1001000121941": 116,
+      "gas:candidate-vibid:1001000195171": 18,
+      "gas:candidate-vibid:377301270533": 21,
+      "gas:candidate-vibid:377301270420": 190,
+      "gas:candidate-vibid:377301270360": 36,
+      "special:against-all": 329
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=773012007&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=377301270395&region=0&sub_region=0&type=429",
@@ -6596,15 +6596,15 @@ export const duma_2003_uik_428_region_77_part_011 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Андронова Ольга Александровна": 143,
-      "Вашуркин Игорь Олегович": 6,
-      "Гончар Николай Николаевич": 311,
-      "Карпухина Елена Алексеевна": 101,
-      "Кузнецов Александр Петрович": 14,
-      "Пашинцев Борис Анатольевич": 13,
-      "Плешаков Александр Петрович": 164,
-      "Русский Александр Васильевич": 62,
-      "Против всех": 274
+      "gas:candidate-vibid:1001000188026": 143,
+      "gas:candidate-vibid:1001000202345": 6,
+      "gas:candidate-vibid:377301270354": 311,
+      "gas:candidate-vibid:1001000121941": 101,
+      "gas:candidate-vibid:1001000195171": 14,
+      "gas:candidate-vibid:377301270533": 13,
+      "gas:candidate-vibid:377301270420": 164,
+      "gas:candidate-vibid:377301270360": 62,
+      "special:against-all": 274
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=773012007&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=377301270395&region=0&sub_region=0&type=429",
@@ -6654,15 +6654,15 @@ export const duma_2003_uik_428_region_77_part_011 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Андронова Ольга Александровна": 70,
-      "Вашуркин Игорь Олегович": 13,
-      "Гончар Николай Николаевич": 199,
-      "Карпухина Елена Алексеевна": 65,
-      "Кузнецов Александр Петрович": 7,
-      "Пашинцев Борис Анатольевич": 15,
-      "Плешаков Александр Петрович": 122,
-      "Русский Александр Васильевич": 20,
-      "Против всех": 154
+      "gas:candidate-vibid:1001000188026": 70,
+      "gas:candidate-vibid:1001000202345": 13,
+      "gas:candidate-vibid:377301270354": 199,
+      "gas:candidate-vibid:1001000121941": 65,
+      "gas:candidate-vibid:1001000195171": 7,
+      "gas:candidate-vibid:377301270533": 15,
+      "gas:candidate-vibid:377301270420": 122,
+      "gas:candidate-vibid:377301270360": 20,
+      "special:against-all": 154
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=773012007&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=377301270395&region=0&sub_region=0&type=429",
@@ -6712,15 +6712,15 @@ export const duma_2003_uik_428_region_77_part_011 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Андронова Ольга Александровна": 106,
-      "Вашуркин Игорь Олегович": 8,
-      "Гончар Николай Николаевич": 307,
-      "Карпухина Елена Алексеевна": 86,
-      "Кузнецов Александр Петрович": 9,
-      "Пашинцев Борис Анатольевич": 14,
-      "Плешаков Александр Петрович": 141,
-      "Русский Александр Васильевич": 17,
-      "Против всех": 223
+      "gas:candidate-vibid:1001000188026": 106,
+      "gas:candidate-vibid:1001000202345": 8,
+      "gas:candidate-vibid:377301270354": 307,
+      "gas:candidate-vibid:1001000121941": 86,
+      "gas:candidate-vibid:1001000195171": 9,
+      "gas:candidate-vibid:377301270533": 14,
+      "gas:candidate-vibid:377301270420": 141,
+      "gas:candidate-vibid:377301270360": 17,
+      "special:against-all": 223
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=773012007&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=377301270395&region=0&sub_region=0&type=429",
@@ -6770,15 +6770,15 @@ export const duma_2003_uik_428_region_77_part_011 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Андронова Ольга Александровна": 131,
-      "Вашуркин Игорь Олегович": 9,
-      "Гончар Николай Николаевич": 305,
-      "Карпухина Елена Алексеевна": 99,
-      "Кузнецов Александр Петрович": 14,
-      "Пашинцев Борис Анатольевич": 26,
-      "Плешаков Александр Петрович": 285,
-      "Русский Александр Васильевич": 20,
-      "Против всех": 249
+      "gas:candidate-vibid:1001000188026": 131,
+      "gas:candidate-vibid:1001000202345": 9,
+      "gas:candidate-vibid:377301270354": 305,
+      "gas:candidate-vibid:1001000121941": 99,
+      "gas:candidate-vibid:1001000195171": 14,
+      "gas:candidate-vibid:377301270533": 26,
+      "gas:candidate-vibid:377301270420": 285,
+      "gas:candidate-vibid:377301270360": 20,
+      "special:against-all": 249
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=773012007&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=377301270395&region=0&sub_region=0&type=429",
@@ -6828,15 +6828,15 @@ export const duma_2003_uik_428_region_77_part_011 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Андронова Ольга Александровна": 156,
-      "Вашуркин Игорь Олегович": 14,
-      "Гончар Николай Николаевич": 277,
-      "Карпухина Елена Алексеевна": 82,
-      "Кузнецов Александр Петрович": 24,
-      "Пашинцев Борис Анатольевич": 15,
-      "Плешаков Александр Петрович": 197,
-      "Русский Александр Васильевич": 26,
-      "Против всех": 262
+      "gas:candidate-vibid:1001000188026": 156,
+      "gas:candidate-vibid:1001000202345": 14,
+      "gas:candidate-vibid:377301270354": 277,
+      "gas:candidate-vibid:1001000121941": 82,
+      "gas:candidate-vibid:1001000195171": 24,
+      "gas:candidate-vibid:377301270533": 15,
+      "gas:candidate-vibid:377301270420": 197,
+      "gas:candidate-vibid:377301270360": 26,
+      "special:against-all": 262
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=773012007&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=377301270395&region=0&sub_region=0&type=429",
@@ -6886,15 +6886,15 @@ export const duma_2003_uik_428_region_77_part_011 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Андронова Ольга Александровна": 183,
-      "Вашуркин Игорь Олегович": 23,
-      "Гончар Николай Николаевич": 325,
-      "Карпухина Елена Алексеевна": 120,
-      "Кузнецов Александр Петрович": 25,
-      "Пашинцев Борис Анатольевич": 32,
-      "Плешаков Александр Петрович": 297,
-      "Русский Александр Васильевич": 22,
-      "Против всех": 363
+      "gas:candidate-vibid:1001000188026": 183,
+      "gas:candidate-vibid:1001000202345": 23,
+      "gas:candidate-vibid:377301270354": 325,
+      "gas:candidate-vibid:1001000121941": 120,
+      "gas:candidate-vibid:1001000195171": 25,
+      "gas:candidate-vibid:377301270533": 32,
+      "gas:candidate-vibid:377301270420": 297,
+      "gas:candidate-vibid:377301270360": 22,
+      "special:against-all": 363
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=773012007&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=377301270395&region=0&sub_region=0&type=429",
@@ -6944,15 +6944,15 @@ export const duma_2003_uik_428_region_77_part_011 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Андронова Ольга Александровна": 90,
-      "Вашуркин Игорь Олегович": 5,
-      "Гончар Николай Николаевич": 226,
-      "Карпухина Елена Алексеевна": 73,
-      "Кузнецов Александр Петрович": 13,
-      "Пашинцев Борис Анатольевич": 6,
-      "Плешаков Александр Петрович": 90,
-      "Русский Александр Васильевич": 19,
-      "Против всех": 181
+      "gas:candidate-vibid:1001000188026": 90,
+      "gas:candidate-vibid:1001000202345": 5,
+      "gas:candidate-vibid:377301270354": 226,
+      "gas:candidate-vibid:1001000121941": 73,
+      "gas:candidate-vibid:1001000195171": 13,
+      "gas:candidate-vibid:377301270533": 6,
+      "gas:candidate-vibid:377301270420": 90,
+      "gas:candidate-vibid:377301270360": 19,
+      "special:against-all": 181
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=773012007&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=377301270395&region=0&sub_region=0&type=429",
@@ -7002,15 +7002,15 @@ export const duma_2003_uik_428_region_77_part_011 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Андронова Ольга Александровна": 209,
-      "Вашуркин Игорь Олегович": 17,
-      "Гончар Николай Николаевич": 414,
-      "Карпухина Елена Алексеевна": 138,
-      "Кузнецов Александр Петрович": 36,
-      "Пашинцев Борис Анатольевич": 19,
-      "Плешаков Александр Петрович": 199,
-      "Русский Александр Васильевич": 39,
-      "Против всех": 330
+      "gas:candidate-vibid:1001000188026": 209,
+      "gas:candidate-vibid:1001000202345": 17,
+      "gas:candidate-vibid:377301270354": 414,
+      "gas:candidate-vibid:1001000121941": 138,
+      "gas:candidate-vibid:1001000195171": 36,
+      "gas:candidate-vibid:377301270533": 19,
+      "gas:candidate-vibid:377301270420": 199,
+      "gas:candidate-vibid:377301270360": 39,
+      "special:against-all": 330
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=773012007&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=377301270395&region=0&sub_region=0&type=429",
@@ -7060,15 +7060,15 @@ export const duma_2003_uik_428_region_77_part_011 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Андронова Ольга Александровна": 172,
-      "Вашуркин Игорь Олегович": 19,
-      "Гончар Николай Николаевич": 392,
-      "Карпухина Елена Алексеевна": 162,
-      "Кузнецов Александр Петрович": 20,
-      "Пашинцев Борис Анатольевич": 22,
-      "Плешаков Александр Петрович": 220,
-      "Русский Александр Васильевич": 20,
-      "Против всех": 330
+      "gas:candidate-vibid:1001000188026": 172,
+      "gas:candidate-vibid:1001000202345": 19,
+      "gas:candidate-vibid:377301270354": 392,
+      "gas:candidate-vibid:1001000121941": 162,
+      "gas:candidate-vibid:1001000195171": 20,
+      "gas:candidate-vibid:377301270533": 22,
+      "gas:candidate-vibid:377301270420": 220,
+      "gas:candidate-vibid:377301270360": 20,
+      "special:against-all": 330
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=773012007&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=377301270395&region=0&sub_region=0&type=429",
@@ -7118,15 +7118,15 @@ export const duma_2003_uik_428_region_77_part_011 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Андронова Ольга Александровна": 178,
-      "Вашуркин Игорь Олегович": 12,
-      "Гончар Николай Николаевич": 487,
-      "Карпухина Елена Алексеевна": 207,
-      "Кузнецов Александр Петрович": 19,
-      "Пашинцев Борис Анатольевич": 17,
-      "Плешаков Александр Петрович": 204,
-      "Русский Александр Васильевич": 27,
-      "Против всех": 358
+      "gas:candidate-vibid:1001000188026": 178,
+      "gas:candidate-vibid:1001000202345": 12,
+      "gas:candidate-vibid:377301270354": 487,
+      "gas:candidate-vibid:1001000121941": 207,
+      "gas:candidate-vibid:1001000195171": 19,
+      "gas:candidate-vibid:377301270533": 17,
+      "gas:candidate-vibid:377301270420": 204,
+      "gas:candidate-vibid:377301270360": 27,
+      "special:against-all": 358
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=773012007&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=377301270395&region=0&sub_region=0&type=429",
@@ -7176,15 +7176,15 @@ export const duma_2003_uik_428_region_77_part_011 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Андронова Ольга Александровна": 166,
-      "Вашуркин Игорь Олегович": 14,
-      "Гончар Николай Николаевич": 353,
-      "Карпухина Елена Алексеевна": 121,
-      "Кузнецов Александр Петрович": 20,
-      "Пашинцев Борис Анатольевич": 40,
-      "Плешаков Александр Петрович": 241,
-      "Русский Александр Васильевич": 44,
-      "Против всех": 385
+      "gas:candidate-vibid:1001000188026": 166,
+      "gas:candidate-vibid:1001000202345": 14,
+      "gas:candidate-vibid:377301270354": 353,
+      "gas:candidate-vibid:1001000121941": 121,
+      "gas:candidate-vibid:1001000195171": 20,
+      "gas:candidate-vibid:377301270533": 40,
+      "gas:candidate-vibid:377301270420": 241,
+      "gas:candidate-vibid:377301270360": 44,
+      "special:against-all": 385
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=773012007&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=377301270395&region=0&sub_region=0&type=429",
@@ -7234,15 +7234,15 @@ export const duma_2003_uik_428_region_77_part_011 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Андронова Ольга Александровна": 158,
-      "Вашуркин Игорь Олегович": 29,
-      "Гончар Николай Николаевич": 352,
-      "Карпухина Елена Алексеевна": 143,
-      "Кузнецов Александр Петрович": 20,
-      "Пашинцев Борис Анатольевич": 26,
-      "Плешаков Александр Петрович": 334,
-      "Русский Александр Васильевич": 26,
-      "Против всех": 372
+      "gas:candidate-vibid:1001000188026": 158,
+      "gas:candidate-vibid:1001000202345": 29,
+      "gas:candidate-vibid:377301270354": 352,
+      "gas:candidate-vibid:1001000121941": 143,
+      "gas:candidate-vibid:1001000195171": 20,
+      "gas:candidate-vibid:377301270533": 26,
+      "gas:candidate-vibid:377301270420": 334,
+      "gas:candidate-vibid:377301270360": 26,
+      "special:against-all": 372
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=773012007&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=377301270395&region=0&sub_region=0&type=429",
@@ -7292,15 +7292,15 @@ export const duma_2003_uik_428_region_77_part_011 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Андронова Ольга Александровна": 236,
-      "Вашуркин Игорь Олегович": 25,
-      "Гончар Николай Николаевич": 387,
-      "Карпухина Елена Алексеевна": 136,
-      "Кузнецов Александр Петрович": 28,
-      "Пашинцев Борис Анатольевич": 23,
-      "Плешаков Александр Петрович": 345,
-      "Русский Александр Васильевич": 40,
-      "Против всех": 443
+      "gas:candidate-vibid:1001000188026": 236,
+      "gas:candidate-vibid:1001000202345": 25,
+      "gas:candidate-vibid:377301270354": 387,
+      "gas:candidate-vibid:1001000121941": 136,
+      "gas:candidate-vibid:1001000195171": 28,
+      "gas:candidate-vibid:377301270533": 23,
+      "gas:candidate-vibid:377301270420": 345,
+      "gas:candidate-vibid:377301270360": 40,
+      "special:against-all": 443
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=773012007&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=377301270395&region=0&sub_region=0&type=429",
@@ -7350,15 +7350,15 @@ export const duma_2003_uik_428_region_77_part_011 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Андронова Ольга Александровна": 110,
-      "Вашуркин Игорь Олегович": 12,
-      "Гончар Николай Николаевич": 247,
-      "Карпухина Елена Алексеевна": 125,
-      "Кузнецов Александр Петрович": 13,
-      "Пашинцев Борис Анатольевич": 14,
-      "Плешаков Александр Петрович": 158,
-      "Русский Александр Васильевич": 16,
-      "Против всех": 253
+      "gas:candidate-vibid:1001000188026": 110,
+      "gas:candidate-vibid:1001000202345": 12,
+      "gas:candidate-vibid:377301270354": 247,
+      "gas:candidate-vibid:1001000121941": 125,
+      "gas:candidate-vibid:1001000195171": 13,
+      "gas:candidate-vibid:377301270533": 14,
+      "gas:candidate-vibid:377301270420": 158,
+      "gas:candidate-vibid:377301270360": 16,
+      "special:against-all": 253
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=773012007&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=377301270395&region=0&sub_region=0&type=429",
@@ -7408,15 +7408,15 @@ export const duma_2003_uik_428_region_77_part_011 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Андронова Ольга Александровна": 137,
-      "Вашуркин Игорь Олегович": 14,
-      "Гончар Николай Николаевич": 246,
-      "Карпухина Елена Алексеевна": 91,
-      "Кузнецов Александр Петрович": 19,
-      "Пашинцев Борис Анатольевич": 12,
-      "Плешаков Александр Петрович": 205,
-      "Русский Александр Васильевич": 28,
-      "Против всех": 233
+      "gas:candidate-vibid:1001000188026": 137,
+      "gas:candidate-vibid:1001000202345": 14,
+      "gas:candidate-vibid:377301270354": 246,
+      "gas:candidate-vibid:1001000121941": 91,
+      "gas:candidate-vibid:1001000195171": 19,
+      "gas:candidate-vibid:377301270533": 12,
+      "gas:candidate-vibid:377301270420": 205,
+      "gas:candidate-vibid:377301270360": 28,
+      "special:against-all": 233
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=773012007&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=377301270395&region=0&sub_region=0&type=429",
@@ -7466,15 +7466,15 @@ export const duma_2003_uik_428_region_77_part_011 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Андронова Ольга Александровна": 81,
-      "Вашуркин Игорь Олегович": 9,
-      "Гончар Николай Николаевич": 161,
-      "Карпухина Елена Алексеевна": 65,
-      "Кузнецов Александр Петрович": 8,
-      "Пашинцев Борис Анатольевич": 10,
-      "Плешаков Александр Петрович": 123,
-      "Русский Александр Васильевич": 15,
-      "Против всех": 152
+      "gas:candidate-vibid:1001000188026": 81,
+      "gas:candidate-vibid:1001000202345": 9,
+      "gas:candidate-vibid:377301270354": 161,
+      "gas:candidate-vibid:1001000121941": 65,
+      "gas:candidate-vibid:1001000195171": 8,
+      "gas:candidate-vibid:377301270533": 10,
+      "gas:candidate-vibid:377301270420": 123,
+      "gas:candidate-vibid:377301270360": 15,
+      "special:against-all": 152
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=773012007&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=377301270395&region=0&sub_region=0&type=429",
@@ -7524,15 +7524,15 @@ export const duma_2003_uik_428_region_77_part_011 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Андронова Ольга Александровна": 151,
-      "Вашуркин Игорь Олегович": 26,
-      "Гончар Николай Николаевич": 281,
-      "Карпухина Елена Алексеевна": 186,
-      "Кузнецов Александр Петрович": 10,
-      "Пашинцев Борис Анатольевич": 12,
-      "Плешаков Александр Петрович": 184,
-      "Русский Александр Васильевич": 32,
-      "Против всех": 242
+      "gas:candidate-vibid:1001000188026": 151,
+      "gas:candidate-vibid:1001000202345": 26,
+      "gas:candidate-vibid:377301270354": 281,
+      "gas:candidate-vibid:1001000121941": 186,
+      "gas:candidate-vibid:1001000195171": 10,
+      "gas:candidate-vibid:377301270533": 12,
+      "gas:candidate-vibid:377301270420": 184,
+      "gas:candidate-vibid:377301270360": 32,
+      "special:against-all": 242
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=773012007&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=377301270395&region=0&sub_region=0&type=429",
@@ -7582,15 +7582,15 @@ export const duma_2003_uik_428_region_77_part_011 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Андронова Ольга Александровна": 191,
-      "Вашуркин Игорь Олегович": 11,
-      "Гончар Николай Николаевич": 381,
-      "Карпухина Елена Алексеевна": 145,
-      "Кузнецов Александр Петрович": 13,
-      "Пашинцев Борис Анатольевич": 21,
-      "Плешаков Александр Петрович": 198,
-      "Русский Александр Васильевич": 26,
-      "Против всех": 367
+      "gas:candidate-vibid:1001000188026": 191,
+      "gas:candidate-vibid:1001000202345": 11,
+      "gas:candidate-vibid:377301270354": 381,
+      "gas:candidate-vibid:1001000121941": 145,
+      "gas:candidate-vibid:1001000195171": 13,
+      "gas:candidate-vibid:377301270533": 21,
+      "gas:candidate-vibid:377301270420": 198,
+      "gas:candidate-vibid:377301270360": 26,
+      "special:against-all": 367
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=773012007&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=377301270395&region=0&sub_region=0&type=429",
@@ -7640,15 +7640,15 @@ export const duma_2003_uik_428_region_77_part_011 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Андронова Ольга Александровна": 196,
-      "Вашуркин Игорь Олегович": 12,
-      "Гончар Николай Николаевич": 508,
-      "Карпухина Елена Алексеевна": 176,
-      "Кузнецов Александр Петрович": 14,
-      "Пашинцев Борис Анатольевич": 8,
-      "Плешаков Александр Петрович": 205,
-      "Русский Александр Васильевич": 16,
-      "Против всех": 305
+      "gas:candidate-vibid:1001000188026": 196,
+      "gas:candidate-vibid:1001000202345": 12,
+      "gas:candidate-vibid:377301270354": 508,
+      "gas:candidate-vibid:1001000121941": 176,
+      "gas:candidate-vibid:1001000195171": 14,
+      "gas:candidate-vibid:377301270533": 8,
+      "gas:candidate-vibid:377301270420": 205,
+      "gas:candidate-vibid:377301270360": 16,
+      "special:against-all": 305
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=773012007&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=377301270395&region=0&sub_region=0&type=429",
@@ -7698,15 +7698,15 @@ export const duma_2003_uik_428_region_77_part_011 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Андронова Ольга Александровна": 77,
-      "Вашуркин Игорь Олегович": 4,
-      "Гончар Николай Николаевич": 220,
-      "Карпухина Елена Алексеевна": 62,
-      "Кузнецов Александр Петрович": 11,
-      "Пашинцев Борис Анатольевич": 5,
-      "Плешаков Александр Петрович": 91,
-      "Русский Александр Васильевич": 11,
-      "Против всех": 120
+      "gas:candidate-vibid:1001000188026": 77,
+      "gas:candidate-vibid:1001000202345": 4,
+      "gas:candidate-vibid:377301270354": 220,
+      "gas:candidate-vibid:1001000121941": 62,
+      "gas:candidate-vibid:1001000195171": 11,
+      "gas:candidate-vibid:377301270533": 5,
+      "gas:candidate-vibid:377301270420": 91,
+      "gas:candidate-vibid:377301270360": 11,
+      "special:against-all": 120
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=773012007&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=377301270395&region=0&sub_region=0&type=429",
@@ -7756,15 +7756,15 @@ export const duma_2003_uik_428_region_77_part_011 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Андронова Ольга Александровна": 127,
-      "Вашуркин Игорь Олегович": 5,
-      "Гончар Николай Николаевич": 289,
-      "Карпухина Елена Алексеевна": 154,
-      "Кузнецов Александр Петрович": 22,
-      "Пашинцев Борис Анатольевич": 15,
-      "Плешаков Александр Петрович": 120,
-      "Русский Александр Васильевич": 21,
-      "Против всех": 208
+      "gas:candidate-vibid:1001000188026": 127,
+      "gas:candidate-vibid:1001000202345": 5,
+      "gas:candidate-vibid:377301270354": 289,
+      "gas:candidate-vibid:1001000121941": 154,
+      "gas:candidate-vibid:1001000195171": 22,
+      "gas:candidate-vibid:377301270533": 15,
+      "gas:candidate-vibid:377301270420": 120,
+      "gas:candidate-vibid:377301270360": 21,
+      "special:against-all": 208
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=773012007&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=377301270395&region=0&sub_region=0&type=429",
@@ -7814,15 +7814,15 @@ export const duma_2003_uik_428_region_77_part_011 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Андронова Ольга Александровна": 0,
-      "Вашуркин Игорь Олегович": 0,
-      "Гончар Николай Николаевич": 2,
-      "Карпухина Елена Алексеевна": 0,
-      "Кузнецов Александр Петрович": 1,
-      "Пашинцев Борис Анатольевич": 1,
-      "Плешаков Александр Петрович": 0,
-      "Русский Александр Васильевич": 0,
-      "Против всех": 0
+      "gas:candidate-vibid:1001000188026": 0,
+      "gas:candidate-vibid:1001000202345": 0,
+      "gas:candidate-vibid:377301270354": 2,
+      "gas:candidate-vibid:1001000121941": 0,
+      "gas:candidate-vibid:1001000195171": 1,
+      "gas:candidate-vibid:377301270533": 1,
+      "gas:candidate-vibid:377301270420": 0,
+      "gas:candidate-vibid:377301270360": 0,
+      "special:against-all": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=773012007&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=377301270395&region=0&sub_region=0&type=429",
@@ -7872,15 +7872,15 @@ export const duma_2003_uik_428_region_77_part_011 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Андронова Ольга Александровна": 7,
-      "Вашуркин Игорь Олегович": 2,
-      "Гончар Николай Николаевич": 29,
-      "Карпухина Елена Алексеевна": 2,
-      "Кузнецов Александр Петрович": 1,
-      "Пашинцев Борис Анатольевич": 1,
-      "Плешаков Александр Петрович": 6,
-      "Русский Александр Васильевич": 0,
-      "Против всех": 19
+      "gas:candidate-vibid:1001000188026": 7,
+      "gas:candidate-vibid:1001000202345": 2,
+      "gas:candidate-vibid:377301270354": 29,
+      "gas:candidate-vibid:1001000121941": 2,
+      "gas:candidate-vibid:1001000195171": 1,
+      "gas:candidate-vibid:377301270533": 1,
+      "gas:candidate-vibid:377301270420": 6,
+      "gas:candidate-vibid:377301270360": 0,
+      "special:against-all": 19
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=773012007&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=377301270395&region=0&sub_region=0&type=429",
@@ -7930,15 +7930,15 @@ export const duma_2003_uik_428_region_77_part_011 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Андронова Ольга Александровна": 0,
-      "Вашуркин Игорь Олегович": 0,
-      "Гончар Николай Николаевич": 1,
-      "Карпухина Елена Алексеевна": 0,
-      "Кузнецов Александр Петрович": 0,
-      "Пашинцев Борис Анатольевич": 0,
-      "Плешаков Александр Петрович": 0,
-      "Русский Александр Васильевич": 0,
-      "Против всех": 2
+      "gas:candidate-vibid:1001000188026": 0,
+      "gas:candidate-vibid:1001000202345": 0,
+      "gas:candidate-vibid:377301270354": 1,
+      "gas:candidate-vibid:1001000121941": 0,
+      "gas:candidate-vibid:1001000195171": 0,
+      "gas:candidate-vibid:377301270533": 0,
+      "gas:candidate-vibid:377301270420": 0,
+      "gas:candidate-vibid:377301270360": 0,
+      "special:against-all": 2
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=773012007&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=377301270395&region=0&sub_region=0&type=429",
@@ -7988,15 +7988,15 @@ export const duma_2003_uik_428_region_77_part_011 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Андронова Ольга Александровна": 8,
-      "Вашуркин Игорь Олегович": 5,
-      "Гончар Николай Николаевич": 119,
-      "Карпухина Елена Алексеевна": 18,
-      "Кузнецов Александр Петрович": 2,
-      "Пашинцев Борис Анатольевич": 3,
-      "Плешаков Александр Петрович": 12,
-      "Русский Александр Васильевич": 3,
-      "Против всех": 21
+      "gas:candidate-vibid:1001000188026": 8,
+      "gas:candidate-vibid:1001000202345": 5,
+      "gas:candidate-vibid:377301270354": 119,
+      "gas:candidate-vibid:1001000121941": 18,
+      "gas:candidate-vibid:1001000195171": 2,
+      "gas:candidate-vibid:377301270533": 3,
+      "gas:candidate-vibid:377301270420": 12,
+      "gas:candidate-vibid:377301270360": 3,
+      "special:against-all": 21
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=773012007&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=377301270395&region=0&sub_region=0&type=429",
@@ -8046,15 +8046,15 @@ export const duma_2003_uik_428_region_77_part_011 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Андронова Ольга Александровна": 1,
-      "Вашуркин Игорь Олегович": 0,
-      "Гончар Николай Николаевич": 2,
-      "Карпухина Елена Алексеевна": 1,
-      "Кузнецов Александр Петрович": 0,
-      "Пашинцев Борис Анатольевич": 0,
-      "Плешаков Александр Петрович": 1,
-      "Русский Александр Васильевич": 0,
-      "Против всех": 0
+      "gas:candidate-vibid:1001000188026": 1,
+      "gas:candidate-vibid:1001000202345": 0,
+      "gas:candidate-vibid:377301270354": 2,
+      "gas:candidate-vibid:1001000121941": 1,
+      "gas:candidate-vibid:1001000195171": 0,
+      "gas:candidate-vibid:377301270533": 0,
+      "gas:candidate-vibid:377301270420": 1,
+      "gas:candidate-vibid:377301270360": 0,
+      "special:against-all": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=773012007&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=377301270395&region=0&sub_region=0&type=429",
@@ -8104,15 +8104,15 @@ export const duma_2003_uik_428_region_77_part_011 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Андронова Ольга Александровна": 0,
-      "Вашуркин Игорь Олегович": 1,
-      "Гончар Николай Николаевич": 4,
-      "Карпухина Елена Алексеевна": 0,
-      "Кузнецов Александр Петрович": 0,
-      "Пашинцев Борис Анатольевич": 0,
-      "Плешаков Александр Петрович": 0,
-      "Русский Александр Васильевич": 0,
-      "Против всех": 0
+      "gas:candidate-vibid:1001000188026": 0,
+      "gas:candidate-vibid:1001000202345": 1,
+      "gas:candidate-vibid:377301270354": 4,
+      "gas:candidate-vibid:1001000121941": 0,
+      "gas:candidate-vibid:1001000195171": 0,
+      "gas:candidate-vibid:377301270533": 0,
+      "gas:candidate-vibid:377301270420": 0,
+      "gas:candidate-vibid:377301270360": 0,
+      "special:against-all": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=773012007&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=377301270395&region=0&sub_region=0&type=429",
@@ -8162,15 +8162,15 @@ export const duma_2003_uik_428_region_77_part_011 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Андронова Ольга Александровна": 0,
-      "Вашуркин Игорь Олегович": 0,
-      "Гончар Николай Николаевич": 1,
-      "Карпухина Елена Алексеевна": 0,
-      "Кузнецов Александр Петрович": 0,
-      "Пашинцев Борис Анатольевич": 1,
-      "Плешаков Александр Петрович": 1,
-      "Русский Александр Васильевич": 0,
-      "Против всех": 1
+      "gas:candidate-vibid:1001000188026": 0,
+      "gas:candidate-vibid:1001000202345": 0,
+      "gas:candidate-vibid:377301270354": 1,
+      "gas:candidate-vibid:1001000121941": 0,
+      "gas:candidate-vibid:1001000195171": 0,
+      "gas:candidate-vibid:377301270533": 1,
+      "gas:candidate-vibid:377301270420": 1,
+      "gas:candidate-vibid:377301270360": 0,
+      "special:against-all": 1
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=773012007&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=377301270395&region=0&sub_region=0&type=429",
@@ -8220,15 +8220,15 @@ export const duma_2003_uik_428_region_77_part_011 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Андронова Ольга Александровна": 239,
-      "Вашуркин Игорь Олегович": 48,
-      "Гончар Николай Николаевич": 224,
-      "Карпухина Елена Алексеевна": 89,
-      "Кузнецов Александр Петрович": 114,
-      "Пашинцев Борис Анатольевич": 28,
-      "Плешаков Александр Петрович": 67,
-      "Русский Александр Васильевич": 149,
-      "Против всех": 507
+      "gas:candidate-vibid:1001000188026": 239,
+      "gas:candidate-vibid:1001000202345": 48,
+      "gas:candidate-vibid:377301270354": 224,
+      "gas:candidate-vibid:1001000121941": 89,
+      "gas:candidate-vibid:1001000195171": 114,
+      "gas:candidate-vibid:377301270533": 28,
+      "gas:candidate-vibid:377301270420": 67,
+      "gas:candidate-vibid:377301270360": 149,
+      "special:against-all": 507
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=773012008&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=377301270397&region=0&sub_region=0&type=429",
@@ -8278,15 +8278,15 @@ export const duma_2003_uik_428_region_77_part_011 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Андронова Ольга Александровна": 102,
-      "Вашуркин Игорь Олегович": 11,
-      "Гончар Николай Николаевич": 632,
-      "Карпухина Елена Алексеевна": 108,
-      "Кузнецов Александр Петрович": 18,
-      "Пашинцев Борис Анатольевич": 52,
-      "Плешаков Александр Петрович": 123,
-      "Русский Александр Васильевич": 22,
-      "Против всех": 228
+      "gas:candidate-vibid:1001000188026": 102,
+      "gas:candidate-vibid:1001000202345": 11,
+      "gas:candidate-vibid:377301270354": 632,
+      "gas:candidate-vibid:1001000121941": 108,
+      "gas:candidate-vibid:1001000195171": 18,
+      "gas:candidate-vibid:377301270533": 52,
+      "gas:candidate-vibid:377301270420": 123,
+      "gas:candidate-vibid:377301270360": 22,
+      "special:against-all": 228
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=773012008&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=377301270397&region=0&sub_region=0&type=429",
@@ -8336,15 +8336,15 @@ export const duma_2003_uik_428_region_77_part_011 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Андронова Ольга Александровна": 72,
-      "Вашуркин Игорь Олегович": 7,
-      "Гончар Николай Николаевич": 312,
-      "Карпухина Елена Алексеевна": 56,
-      "Кузнецов Александр Петрович": 8,
-      "Пашинцев Борис Анатольевич": 21,
-      "Плешаков Александр Петрович": 47,
-      "Русский Александр Васильевич": 8,
-      "Против всех": 134
+      "gas:candidate-vibid:1001000188026": 72,
+      "gas:candidate-vibid:1001000202345": 7,
+      "gas:candidate-vibid:377301270354": 312,
+      "gas:candidate-vibid:1001000121941": 56,
+      "gas:candidate-vibid:1001000195171": 8,
+      "gas:candidate-vibid:377301270533": 21,
+      "gas:candidate-vibid:377301270420": 47,
+      "gas:candidate-vibid:377301270360": 8,
+      "special:against-all": 134
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=773012008&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=377301270397&region=0&sub_region=0&type=429",
@@ -8394,15 +8394,15 @@ export const duma_2003_uik_428_region_77_part_011 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Андронова Ольга Александровна": 94,
-      "Вашуркин Игорь Олегович": 8,
-      "Гончар Николай Николаевич": 537,
-      "Карпухина Елена Алексеевна": 133,
-      "Кузнецов Александр Петрович": 11,
-      "Пашинцев Борис Анатольевич": 57,
-      "Плешаков Александр Петрович": 121,
-      "Русский Александр Васильевич": 14,
-      "Против всех": 202
+      "gas:candidate-vibid:1001000188026": 94,
+      "gas:candidate-vibid:1001000202345": 8,
+      "gas:candidate-vibid:377301270354": 537,
+      "gas:candidate-vibid:1001000121941": 133,
+      "gas:candidate-vibid:1001000195171": 11,
+      "gas:candidate-vibid:377301270533": 57,
+      "gas:candidate-vibid:377301270420": 121,
+      "gas:candidate-vibid:377301270360": 14,
+      "special:against-all": 202
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=773012008&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=377301270397&region=0&sub_region=0&type=429",
@@ -8452,15 +8452,15 @@ export const duma_2003_uik_428_region_77_part_011 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Андронова Ольга Александровна": 109,
-      "Вашуркин Игорь Олегович": 26,
-      "Гончар Николай Николаевич": 652,
-      "Карпухина Елена Алексеевна": 120,
-      "Кузнецов Александр Петрович": 9,
-      "Пашинцев Борис Анатольевич": 54,
-      "Плешаков Александр Петрович": 167,
-      "Русский Александр Васильевич": 20,
-      "Против всех": 235
+      "gas:candidate-vibid:1001000188026": 109,
+      "gas:candidate-vibid:1001000202345": 26,
+      "gas:candidate-vibid:377301270354": 652,
+      "gas:candidate-vibid:1001000121941": 120,
+      "gas:candidate-vibid:1001000195171": 9,
+      "gas:candidate-vibid:377301270533": 54,
+      "gas:candidate-vibid:377301270420": 167,
+      "gas:candidate-vibid:377301270360": 20,
+      "special:against-all": 235
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=773012008&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=377301270397&region=0&sub_region=0&type=429",
@@ -8510,15 +8510,15 @@ export const duma_2003_uik_428_region_77_part_011 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Андронова Ольга Александровна": 116,
-      "Вашуркин Игорь Олегович": 11,
-      "Гончар Николай Николаевич": 563,
-      "Карпухина Елена Алексеевна": 70,
-      "Кузнецов Александр Петрович": 11,
-      "Пашинцев Борис Анатольевич": 55,
-      "Плешаков Александр Петрович": 147,
-      "Русский Александр Васильевич": 28,
-      "Против всех": 250
+      "gas:candidate-vibid:1001000188026": 116,
+      "gas:candidate-vibid:1001000202345": 11,
+      "gas:candidate-vibid:377301270354": 563,
+      "gas:candidate-vibid:1001000121941": 70,
+      "gas:candidate-vibid:1001000195171": 11,
+      "gas:candidate-vibid:377301270533": 55,
+      "gas:candidate-vibid:377301270420": 147,
+      "gas:candidate-vibid:377301270360": 28,
+      "special:against-all": 250
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=773012008&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=377301270397&region=0&sub_region=0&type=429",
@@ -8568,15 +8568,15 @@ export const duma_2003_uik_428_region_77_part_011 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Андронова Ольга Александровна": 61,
-      "Вашуркин Игорь Олегович": 7,
-      "Гончар Николай Николаевич": 290,
-      "Карпухина Елена Алексеевна": 48,
-      "Кузнецов Александр Петрович": 8,
-      "Пашинцев Борис Анатольевич": 29,
-      "Плешаков Александр Петрович": 83,
-      "Русский Александр Васильевич": 20,
-      "Против всех": 114
+      "gas:candidate-vibid:1001000188026": 61,
+      "gas:candidate-vibid:1001000202345": 7,
+      "gas:candidate-vibid:377301270354": 290,
+      "gas:candidate-vibid:1001000121941": 48,
+      "gas:candidate-vibid:1001000195171": 8,
+      "gas:candidate-vibid:377301270533": 29,
+      "gas:candidate-vibid:377301270420": 83,
+      "gas:candidate-vibid:377301270360": 20,
+      "special:against-all": 114
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=773012008&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=377301270397&region=0&sub_region=0&type=429",
@@ -8626,15 +8626,15 @@ export const duma_2003_uik_428_region_77_part_011 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Андронова Ольга Александровна": 92,
-      "Вашуркин Игорь Олегович": 10,
-      "Гончар Николай Николаевич": 478,
-      "Карпухина Елена Алексеевна": 178,
-      "Кузнецов Александр Петрович": 9,
-      "Пашинцев Борис Анатольевич": 36,
-      "Плешаков Александр Петрович": 121,
-      "Русский Александр Васильевич": 14,
-      "Против всех": 188
+      "gas:candidate-vibid:1001000188026": 92,
+      "gas:candidate-vibid:1001000202345": 10,
+      "gas:candidate-vibid:377301270354": 478,
+      "gas:candidate-vibid:1001000121941": 178,
+      "gas:candidate-vibid:1001000195171": 9,
+      "gas:candidate-vibid:377301270533": 36,
+      "gas:candidate-vibid:377301270420": 121,
+      "gas:candidate-vibid:377301270360": 14,
+      "special:against-all": 188
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=773012008&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=377301270397&region=0&sub_region=0&type=429",
@@ -8684,15 +8684,15 @@ export const duma_2003_uik_428_region_77_part_011 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Андронова Ольга Александровна": 89,
-      "Вашуркин Игорь Олегович": 5,
-      "Гончар Николай Николаевич": 494,
-      "Карпухина Елена Алексеевна": 74,
-      "Кузнецов Александр Петрович": 11,
-      "Пашинцев Борис Анатольевич": 50,
-      "Плешаков Александр Петрович": 114,
-      "Русский Александр Васильевич": 16,
-      "Против всех": 220
+      "gas:candidate-vibid:1001000188026": 89,
+      "gas:candidate-vibid:1001000202345": 5,
+      "gas:candidate-vibid:377301270354": 494,
+      "gas:candidate-vibid:1001000121941": 74,
+      "gas:candidate-vibid:1001000195171": 11,
+      "gas:candidate-vibid:377301270533": 50,
+      "gas:candidate-vibid:377301270420": 114,
+      "gas:candidate-vibid:377301270360": 16,
+      "special:against-all": 220
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=773012008&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=377301270397&region=0&sub_region=0&type=429",
@@ -8742,15 +8742,15 @@ export const duma_2003_uik_428_region_77_part_011 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Андронова Ольга Александровна": 103,
-      "Вашуркин Игорь Олегович": 6,
-      "Гончар Николай Николаевич": 408,
-      "Карпухина Елена Алексеевна": 66,
-      "Кузнецов Александр Петрович": 12,
-      "Пашинцев Борис Анатольевич": 46,
-      "Плешаков Александр Петрович": 127,
-      "Русский Александр Васильевич": 21,
-      "Против всех": 211
+      "gas:candidate-vibid:1001000188026": 103,
+      "gas:candidate-vibid:1001000202345": 6,
+      "gas:candidate-vibid:377301270354": 408,
+      "gas:candidate-vibid:1001000121941": 66,
+      "gas:candidate-vibid:1001000195171": 12,
+      "gas:candidate-vibid:377301270533": 46,
+      "gas:candidate-vibid:377301270420": 127,
+      "gas:candidate-vibid:377301270360": 21,
+      "special:against-all": 211
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=773012008&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=377301270397&region=0&sub_region=0&type=429",
@@ -8800,15 +8800,15 @@ export const duma_2003_uik_428_region_77_part_011 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Андронова Ольга Александровна": 58,
-      "Вашуркин Игорь Олегович": 2,
-      "Гончар Николай Николаевич": 357,
-      "Карпухина Елена Алексеевна": 42,
-      "Кузнецов Александр Петрович": 8,
-      "Пашинцев Борис Анатольевич": 23,
-      "Плешаков Александр Петрович": 62,
-      "Русский Александр Васильевич": 14,
-      "Против всех": 122
+      "gas:candidate-vibid:1001000188026": 58,
+      "gas:candidate-vibid:1001000202345": 2,
+      "gas:candidate-vibid:377301270354": 357,
+      "gas:candidate-vibid:1001000121941": 42,
+      "gas:candidate-vibid:1001000195171": 8,
+      "gas:candidate-vibid:377301270533": 23,
+      "gas:candidate-vibid:377301270420": 62,
+      "gas:candidate-vibid:377301270360": 14,
+      "special:against-all": 122
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=773012008&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=377301270397&region=0&sub_region=0&type=429",
@@ -8858,15 +8858,15 @@ export const duma_2003_uik_428_region_77_part_011 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Андронова Ольга Александровна": 94,
-      "Вашуркин Игорь Олегович": 12,
-      "Гончар Николай Николаевич": 390,
-      "Карпухина Елена Алексеевна": 72,
-      "Кузнецов Александр Петрович": 9,
-      "Пашинцев Борис Анатольевич": 20,
-      "Плешаков Александр Петрович": 116,
-      "Русский Александр Васильевич": 24,
-      "Против всех": 197
+      "gas:candidate-vibid:1001000188026": 94,
+      "gas:candidate-vibid:1001000202345": 12,
+      "gas:candidate-vibid:377301270354": 390,
+      "gas:candidate-vibid:1001000121941": 72,
+      "gas:candidate-vibid:1001000195171": 9,
+      "gas:candidate-vibid:377301270533": 20,
+      "gas:candidate-vibid:377301270420": 116,
+      "gas:candidate-vibid:377301270360": 24,
+      "special:against-all": 197
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=773012008&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=377301270397&region=0&sub_region=0&type=429",
@@ -8916,15 +8916,15 @@ export const duma_2003_uik_428_region_77_part_011 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Андронова Ольга Александровна": 91,
-      "Вашуркин Игорь Олегович": 6,
-      "Гончар Николай Николаевич": 398,
-      "Карпухина Елена Алексеевна": 60,
-      "Кузнецов Александр Петрович": 5,
-      "Пашинцев Борис Анатольевич": 36,
-      "Плешаков Александр Петрович": 129,
-      "Русский Александр Васильевич": 13,
-      "Против всех": 132
+      "gas:candidate-vibid:1001000188026": 91,
+      "gas:candidate-vibid:1001000202345": 6,
+      "gas:candidate-vibid:377301270354": 398,
+      "gas:candidate-vibid:1001000121941": 60,
+      "gas:candidate-vibid:1001000195171": 5,
+      "gas:candidate-vibid:377301270533": 36,
+      "gas:candidate-vibid:377301270420": 129,
+      "gas:candidate-vibid:377301270360": 13,
+      "special:against-all": 132
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=773012008&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=377301270397&region=0&sub_region=0&type=429",
@@ -8974,15 +8974,15 @@ export const duma_2003_uik_428_region_77_part_011 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Андронова Ольга Александровна": 159,
-      "Вашуркин Игорь Олегович": 12,
-      "Гончар Николай Николаевич": 670,
-      "Карпухина Елена Алексеевна": 204,
-      "Кузнецов Александр Петрович": 16,
-      "Пашинцев Борис Анатольевич": 49,
-      "Плешаков Александр Петрович": 144,
-      "Русский Александр Васильевич": 27,
-      "Против всех": 272
+      "gas:candidate-vibid:1001000188026": 159,
+      "gas:candidate-vibid:1001000202345": 12,
+      "gas:candidate-vibid:377301270354": 670,
+      "gas:candidate-vibid:1001000121941": 204,
+      "gas:candidate-vibid:1001000195171": 16,
+      "gas:candidate-vibid:377301270533": 49,
+      "gas:candidate-vibid:377301270420": 144,
+      "gas:candidate-vibid:377301270360": 27,
+      "special:against-all": 272
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=773012008&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=377301270397&region=0&sub_region=0&type=429",
@@ -9032,15 +9032,15 @@ export const duma_2003_uik_428_region_77_part_011 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Андронова Ольга Александровна": 71,
-      "Вашуркин Игорь Олегович": 2,
-      "Гончар Николай Николаевич": 416,
-      "Карпухина Елена Алексеевна": 93,
-      "Кузнецов Александр Петрович": 11,
-      "Пашинцев Борис Анатольевич": 60,
-      "Плешаков Александр Петрович": 92,
-      "Русский Александр Васильевич": 18,
-      "Против всех": 154
+      "gas:candidate-vibid:1001000188026": 71,
+      "gas:candidate-vibid:1001000202345": 2,
+      "gas:candidate-vibid:377301270354": 416,
+      "gas:candidate-vibid:1001000121941": 93,
+      "gas:candidate-vibid:1001000195171": 11,
+      "gas:candidate-vibid:377301270533": 60,
+      "gas:candidate-vibid:377301270420": 92,
+      "gas:candidate-vibid:377301270360": 18,
+      "special:against-all": 154
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=773012008&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=377301270397&region=0&sub_region=0&type=429",
@@ -9090,15 +9090,15 @@ export const duma_2003_uik_428_region_77_part_011 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Андронова Ольга Александровна": 116,
-      "Вашуркин Игорь Олегович": 7,
-      "Гончар Николай Николаевич": 538,
-      "Карпухина Елена Алексеевна": 147,
-      "Кузнецов Александр Петрович": 6,
-      "Пашинцев Борис Анатольевич": 29,
-      "Плешаков Александр Петрович": 113,
-      "Русский Александр Васильевич": 18,
-      "Против всех": 181
+      "gas:candidate-vibid:1001000188026": 116,
+      "gas:candidate-vibid:1001000202345": 7,
+      "gas:candidate-vibid:377301270354": 538,
+      "gas:candidate-vibid:1001000121941": 147,
+      "gas:candidate-vibid:1001000195171": 6,
+      "gas:candidate-vibid:377301270533": 29,
+      "gas:candidate-vibid:377301270420": 113,
+      "gas:candidate-vibid:377301270360": 18,
+      "special:against-all": 181
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=773012008&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=377301270397&region=0&sub_region=0&type=429",
@@ -9148,15 +9148,15 @@ export const duma_2003_uik_428_region_77_part_011 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Андронова Ольга Александровна": 116,
-      "Вашуркин Игорь Олегович": 5,
-      "Гончар Николай Николаевич": 528,
-      "Карпухина Елена Алексеевна": 166,
-      "Кузнецов Александр Петрович": 7,
-      "Пашинцев Борис Анатольевич": 28,
-      "Плешаков Александр Петрович": 92,
-      "Русский Александр Васильевич": 22,
-      "Против всех": 158
+      "gas:candidate-vibid:1001000188026": 116,
+      "gas:candidate-vibid:1001000202345": 5,
+      "gas:candidate-vibid:377301270354": 528,
+      "gas:candidate-vibid:1001000121941": 166,
+      "gas:candidate-vibid:1001000195171": 7,
+      "gas:candidate-vibid:377301270533": 28,
+      "gas:candidate-vibid:377301270420": 92,
+      "gas:candidate-vibid:377301270360": 22,
+      "special:against-all": 158
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=773012008&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=377301270397&region=0&sub_region=0&type=429",
@@ -9206,15 +9206,15 @@ export const duma_2003_uik_428_region_77_part_011 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Андронова Ольга Александровна": 112,
-      "Вашуркин Игорь Олегович": 4,
-      "Гончар Николай Николаевич": 545,
-      "Карпухина Елена Алексеевна": 212,
-      "Кузнецов Александр Петрович": 7,
-      "Пашинцев Борис Анатольевич": 12,
-      "Плешаков Александр Петрович": 151,
-      "Русский Александр Васильевич": 16,
-      "Против всех": 190
+      "gas:candidate-vibid:1001000188026": 112,
+      "gas:candidate-vibid:1001000202345": 4,
+      "gas:candidate-vibid:377301270354": 545,
+      "gas:candidate-vibid:1001000121941": 212,
+      "gas:candidate-vibid:1001000195171": 7,
+      "gas:candidate-vibid:377301270533": 12,
+      "gas:candidate-vibid:377301270420": 151,
+      "gas:candidate-vibid:377301270360": 16,
+      "special:against-all": 190
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=773012008&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=377301270397&region=0&sub_region=0&type=429",
@@ -9264,15 +9264,15 @@ export const duma_2003_uik_428_region_77_part_011 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Андронова Ольга Александровна": 158,
-      "Вашуркин Игорь Олегович": 17,
-      "Гончар Николай Николаевич": 571,
-      "Карпухина Елена Алексеевна": 180,
-      "Кузнецов Александр Петрович": 19,
-      "Пашинцев Борис Анатольевич": 29,
-      "Плешаков Александр Петрович": 152,
-      "Русский Александр Васильевич": 33,
-      "Против всех": 294
+      "gas:candidate-vibid:1001000188026": 158,
+      "gas:candidate-vibid:1001000202345": 17,
+      "gas:candidate-vibid:377301270354": 571,
+      "gas:candidate-vibid:1001000121941": 180,
+      "gas:candidate-vibid:1001000195171": 19,
+      "gas:candidate-vibid:377301270533": 29,
+      "gas:candidate-vibid:377301270420": 152,
+      "gas:candidate-vibid:377301270360": 33,
+      "special:against-all": 294
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=773012008&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=377301270397&region=0&sub_region=0&type=429",
@@ -9322,15 +9322,15 @@ export const duma_2003_uik_428_region_77_part_011 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Андронова Ольга Александровна": 164,
-      "Вашуркин Игорь Олегович": 11,
-      "Гончар Николай Николаевич": 582,
-      "Карпухина Елена Алексеевна": 143,
-      "Кузнецов Александр Петрович": 20,
-      "Пашинцев Борис Анатольевич": 42,
-      "Плешаков Александр Петрович": 293,
-      "Русский Александр Васильевич": 36,
-      "Против всех": 354
+      "gas:candidate-vibid:1001000188026": 164,
+      "gas:candidate-vibid:1001000202345": 11,
+      "gas:candidate-vibid:377301270354": 582,
+      "gas:candidate-vibid:1001000121941": 143,
+      "gas:candidate-vibid:1001000195171": 20,
+      "gas:candidate-vibid:377301270533": 42,
+      "gas:candidate-vibid:377301270420": 293,
+      "gas:candidate-vibid:377301270360": 36,
+      "special:against-all": 354
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=773012008&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=377301270397&region=0&sub_region=0&type=429",
@@ -9380,15 +9380,15 @@ export const duma_2003_uik_428_region_77_part_011 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Андронова Ольга Александровна": 99,
-      "Вашуркин Игорь Олегович": 10,
-      "Гончар Николай Николаевич": 511,
-      "Карпухина Елена Алексеевна": 110,
-      "Кузнецов Александр Петрович": 11,
-      "Пашинцев Борис Анатольевич": 39,
-      "Плешаков Александр Петрович": 165,
-      "Русский Александр Васильевич": 19,
-      "Против всех": 259
+      "gas:candidate-vibid:1001000188026": 99,
+      "gas:candidate-vibid:1001000202345": 10,
+      "gas:candidate-vibid:377301270354": 511,
+      "gas:candidate-vibid:1001000121941": 110,
+      "gas:candidate-vibid:1001000195171": 11,
+      "gas:candidate-vibid:377301270533": 39,
+      "gas:candidate-vibid:377301270420": 165,
+      "gas:candidate-vibid:377301270360": 19,
+      "special:against-all": 259
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=773012008&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=377301270397&region=0&sub_region=0&type=429",
@@ -9438,15 +9438,15 @@ export const duma_2003_uik_428_region_77_part_011 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Андронова Ольга Александровна": 140,
-      "Вашуркин Игорь Олегович": 6,
-      "Гончар Николай Николаевич": 530,
-      "Карпухина Елена Алексеевна": 88,
-      "Кузнецов Александр Петрович": 16,
-      "Пашинцев Борис Анатольевич": 34,
-      "Плешаков Александр Петрович": 108,
-      "Русский Александр Васильевич": 23,
-      "Против всех": 255
+      "gas:candidate-vibid:1001000188026": 140,
+      "gas:candidate-vibid:1001000202345": 6,
+      "gas:candidate-vibid:377301270354": 530,
+      "gas:candidate-vibid:1001000121941": 88,
+      "gas:candidate-vibid:1001000195171": 16,
+      "gas:candidate-vibid:377301270533": 34,
+      "gas:candidate-vibid:377301270420": 108,
+      "gas:candidate-vibid:377301270360": 23,
+      "special:against-all": 255
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=773012008&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=377301270397&region=0&sub_region=0&type=429",
@@ -9496,15 +9496,15 @@ export const duma_2003_uik_428_region_77_part_011 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Андронова Ольга Александровна": 85,
-      "Вашуркин Игорь Олегович": 16,
-      "Гончар Николай Николаевич": 473,
-      "Карпухина Елена Алексеевна": 171,
-      "Кузнецов Александр Петрович": 11,
-      "Пашинцев Борис Анатольевич": 59,
-      "Плешаков Александр Петрович": 101,
-      "Русский Александр Васильевич": 21,
-      "Против всех": 226
+      "gas:candidate-vibid:1001000188026": 85,
+      "gas:candidate-vibid:1001000202345": 16,
+      "gas:candidate-vibid:377301270354": 473,
+      "gas:candidate-vibid:1001000121941": 171,
+      "gas:candidate-vibid:1001000195171": 11,
+      "gas:candidate-vibid:377301270533": 59,
+      "gas:candidate-vibid:377301270420": 101,
+      "gas:candidate-vibid:377301270360": 21,
+      "special:against-all": 226
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=773012008&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=377301270397&region=0&sub_region=0&type=429",
@@ -9554,15 +9554,15 @@ export const duma_2003_uik_428_region_77_part_011 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Андронова Ольга Александровна": 144,
-      "Вашуркин Игорь Олегович": 12,
-      "Гончар Николай Николаевич": 665,
-      "Карпухина Елена Алексеевна": 135,
-      "Кузнецов Александр Петрович": 15,
-      "Пашинцев Борис Анатольевич": 44,
-      "Плешаков Александр Петрович": 193,
-      "Русский Александр Васильевич": 34,
-      "Против всех": 265
+      "gas:candidate-vibid:1001000188026": 144,
+      "gas:candidate-vibid:1001000202345": 12,
+      "gas:candidate-vibid:377301270354": 665,
+      "gas:candidate-vibid:1001000121941": 135,
+      "gas:candidate-vibid:1001000195171": 15,
+      "gas:candidate-vibid:377301270533": 44,
+      "gas:candidate-vibid:377301270420": 193,
+      "gas:candidate-vibid:377301270360": 34,
+      "special:against-all": 265
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=773012008&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=377301270397&region=0&sub_region=0&type=429",
@@ -9612,15 +9612,15 @@ export const duma_2003_uik_428_region_77_part_011 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Андронова Ольга Александровна": 152,
-      "Вашуркин Игорь Олегович": 11,
-      "Гончар Николай Николаевич": 652,
-      "Карпухина Елена Алексеевна": 109,
-      "Кузнецов Александр Петрович": 25,
-      "Пашинцев Борис Анатольевич": 48,
-      "Плешаков Александр Петрович": 145,
-      "Русский Александр Васильевич": 25,
-      "Против всех": 297
+      "gas:candidate-vibid:1001000188026": 152,
+      "gas:candidate-vibid:1001000202345": 11,
+      "gas:candidate-vibid:377301270354": 652,
+      "gas:candidate-vibid:1001000121941": 109,
+      "gas:candidate-vibid:1001000195171": 25,
+      "gas:candidate-vibid:377301270533": 48,
+      "gas:candidate-vibid:377301270420": 145,
+      "gas:candidate-vibid:377301270360": 25,
+      "special:against-all": 297
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=773012008&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=377301270397&region=0&sub_region=0&type=429",
@@ -9670,15 +9670,15 @@ export const duma_2003_uik_428_region_77_part_011 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Андронова Ольга Александровна": 4,
-      "Вашуркин Игорь Олегович": 0,
-      "Гончар Николай Николаевич": 2,
-      "Карпухина Елена Алексеевна": 0,
-      "Кузнецов Александр Петрович": 0,
-      "Пашинцев Борис Анатольевич": 1,
-      "Плешаков Александр Петрович": 1,
-      "Русский Александр Васильевич": 1,
-      "Против всех": 10
+      "gas:candidate-vibid:1001000188026": 4,
+      "gas:candidate-vibid:1001000202345": 0,
+      "gas:candidate-vibid:377301270354": 2,
+      "gas:candidate-vibid:1001000121941": 0,
+      "gas:candidate-vibid:1001000195171": 0,
+      "gas:candidate-vibid:377301270533": 1,
+      "gas:candidate-vibid:377301270420": 1,
+      "gas:candidate-vibid:377301270360": 1,
+      "special:against-all": 10
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=773012008&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=377301270397&region=0&sub_region=0&type=429",
@@ -9728,15 +9728,15 @@ export const duma_2003_uik_428_region_77_part_011 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Андронова Ольга Александровна": 4,
-      "Вашуркин Игорь Олегович": 0,
-      "Гончар Николай Николаевич": 1,
-      "Карпухина Елена Алексеевна": 2,
-      "Кузнецов Александр Петрович": 1,
-      "Пашинцев Борис Анатольевич": 0,
-      "Плешаков Александр Петрович": 1,
-      "Русский Александр Васильевич": 1,
-      "Против всех": 18
+      "gas:candidate-vibid:1001000188026": 4,
+      "gas:candidate-vibid:1001000202345": 0,
+      "gas:candidate-vibid:377301270354": 1,
+      "gas:candidate-vibid:1001000121941": 2,
+      "gas:candidate-vibid:1001000195171": 1,
+      "gas:candidate-vibid:377301270533": 0,
+      "gas:candidate-vibid:377301270420": 1,
+      "gas:candidate-vibid:377301270360": 1,
+      "special:against-all": 18
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=773012008&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=377301270397&region=0&sub_region=0&type=429",
@@ -9786,15 +9786,15 @@ export const duma_2003_uik_428_region_77_part_011 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Андронова Ольга Александровна": 0,
-      "Вашуркин Игорь Олегович": 0,
-      "Гончар Николай Николаевич": 1,
-      "Карпухина Елена Алексеевна": 1,
-      "Кузнецов Александр Петрович": 0,
-      "Пашинцев Борис Анатольевич": 0,
-      "Плешаков Александр Петрович": 2,
-      "Русский Александр Васильевич": 0,
-      "Против всех": 1
+      "gas:candidate-vibid:1001000188026": 0,
+      "gas:candidate-vibid:1001000202345": 0,
+      "gas:candidate-vibid:377301270354": 1,
+      "gas:candidate-vibid:1001000121941": 1,
+      "gas:candidate-vibid:1001000195171": 0,
+      "gas:candidate-vibid:377301270533": 0,
+      "gas:candidate-vibid:377301270420": 2,
+      "gas:candidate-vibid:377301270360": 0,
+      "special:against-all": 1
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=773012008&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=377301270397&region=0&sub_region=0&type=429",
@@ -9844,15 +9844,15 @@ export const duma_2003_uik_428_region_77_part_011 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Андронова Ольга Александровна": 0,
-      "Вашуркин Игорь Олегович": 0,
-      "Гончар Николай Николаевич": 20,
-      "Карпухина Елена Алексеевна": 2,
-      "Кузнецов Александр Петрович": 0,
-      "Пашинцев Борис Анатольевич": 0,
-      "Плешаков Александр Петрович": 2,
-      "Русский Александр Васильевич": 0,
-      "Против всех": 6
+      "gas:candidate-vibid:1001000188026": 0,
+      "gas:candidate-vibid:1001000202345": 0,
+      "gas:candidate-vibid:377301270354": 20,
+      "gas:candidate-vibid:1001000121941": 2,
+      "gas:candidate-vibid:1001000195171": 0,
+      "gas:candidate-vibid:377301270533": 0,
+      "gas:candidate-vibid:377301270420": 2,
+      "gas:candidate-vibid:377301270360": 0,
+      "special:against-all": 6
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=773012008&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=377301270397&region=0&sub_region=0&type=429",
@@ -9902,15 +9902,15 @@ export const duma_2003_uik_428_region_77_part_011 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Андронова Ольга Александровна": 0,
-      "Вашуркин Игорь Олегович": 0,
-      "Гончар Николай Николаевич": 1,
-      "Карпухина Елена Алексеевна": 0,
-      "Кузнецов Александр Петрович": 0,
-      "Пашинцев Борис Анатольевич": 0,
-      "Плешаков Александр Петрович": 0,
-      "Русский Александр Васильевич": 0,
-      "Против всех": 1
+      "gas:candidate-vibid:1001000188026": 0,
+      "gas:candidate-vibid:1001000202345": 0,
+      "gas:candidate-vibid:377301270354": 1,
+      "gas:candidate-vibid:1001000121941": 0,
+      "gas:candidate-vibid:1001000195171": 0,
+      "gas:candidate-vibid:377301270533": 0,
+      "gas:candidate-vibid:377301270420": 0,
+      "gas:candidate-vibid:377301270360": 0,
+      "special:against-all": 1
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=773012008&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=377301270397&region=0&sub_region=0&type=429",
@@ -9960,15 +9960,15 @@ export const duma_2003_uik_428_region_77_part_011 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Андронова Ольга Александровна": 0,
-      "Вашуркин Игорь Олегович": 1,
-      "Гончар Николай Николаевич": 8,
-      "Карпухина Елена Алексеевна": 0,
-      "Кузнецов Александр Петрович": 0,
-      "Пашинцев Борис Анатольевич": 0,
-      "Плешаков Александр Петрович": 2,
-      "Русский Александр Васильевич": 1,
-      "Против всех": 6
+      "gas:candidate-vibid:1001000188026": 0,
+      "gas:candidate-vibid:1001000202345": 1,
+      "gas:candidate-vibid:377301270354": 8,
+      "gas:candidate-vibid:1001000121941": 0,
+      "gas:candidate-vibid:1001000195171": 0,
+      "gas:candidate-vibid:377301270533": 0,
+      "gas:candidate-vibid:377301270420": 2,
+      "gas:candidate-vibid:377301270360": 1,
+      "special:against-all": 6
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=773012008&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=377301270397&region=0&sub_region=0&type=429",
@@ -10018,15 +10018,15 @@ export const duma_2003_uik_428_region_77_part_011 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Андронова Ольга Александровна": 6,
-      "Вашуркин Игорь Олегович": 1,
-      "Гончар Николай Николаевич": 6,
-      "Карпухина Елена Алексеевна": 3,
-      "Кузнецов Александр Петрович": 3,
-      "Пашинцев Борис Анатольевич": 0,
-      "Плешаков Александр Петрович": 2,
-      "Русский Александр Васильевич": 2,
-      "Против всех": 11
+      "gas:candidate-vibid:1001000188026": 6,
+      "gas:candidate-vibid:1001000202345": 1,
+      "gas:candidate-vibid:377301270354": 6,
+      "gas:candidate-vibid:1001000121941": 3,
+      "gas:candidate-vibid:1001000195171": 3,
+      "gas:candidate-vibid:377301270533": 0,
+      "gas:candidate-vibid:377301270420": 2,
+      "gas:candidate-vibid:377301270360": 2,
+      "special:against-all": 11
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=773012008&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=377301270397&region=0&sub_region=0&type=429",
@@ -10076,15 +10076,15 @@ export const duma_2003_uik_428_region_77_part_011 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Андронова Ольга Александровна": 2,
-      "Вашуркин Игорь Олегович": 0,
-      "Гончар Николай Николаевич": 9,
-      "Карпухина Елена Алексеевна": 1,
-      "Кузнецов Александр Петрович": 0,
-      "Пашинцев Борис Анатольевич": 0,
-      "Плешаков Александр Петрович": 0,
-      "Русский Александр Васильевич": 0,
-      "Против всех": 1
+      "gas:candidate-vibid:1001000188026": 2,
+      "gas:candidate-vibid:1001000202345": 0,
+      "gas:candidate-vibid:377301270354": 9,
+      "gas:candidate-vibid:1001000121941": 1,
+      "gas:candidate-vibid:1001000195171": 0,
+      "gas:candidate-vibid:377301270533": 0,
+      "gas:candidate-vibid:377301270420": 0,
+      "gas:candidate-vibid:377301270360": 0,
+      "special:against-all": 1
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=773012008&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=377301270397&region=0&sub_region=0&type=429",
@@ -10134,15 +10134,15 @@ export const duma_2003_uik_428_region_77_part_011 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Андронова Ольга Александровна": 104,
-      "Вашуркин Игорь Олегович": 322,
-      "Гончар Николай Николаевич": 5,
-      "Карпухина Елена Алексеевна": 125,
-      "Кузнецов Александр Петрович": 15,
-      "Пашинцев Борис Анатольевич": 64,
-      "Плешаков Александр Петрович": 5,
-      "Русский Александр Васильевич": 18,
-      "Против всех": 233
+      "gas:candidate-vibid:1001000188026": 104,
+      "gas:candidate-vibid:1001000202345": 322,
+      "gas:candidate-vibid:377301270354": 5,
+      "gas:candidate-vibid:1001000121941": 125,
+      "gas:candidate-vibid:1001000195171": 15,
+      "gas:candidate-vibid:377301270533": 64,
+      "gas:candidate-vibid:377301270420": 5,
+      "gas:candidate-vibid:377301270360": 18,
+      "special:against-all": 233
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=773012009&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=377301270399&region=0&sub_region=0&type=429",
@@ -10192,15 +10192,15 @@ export const duma_2003_uik_428_region_77_part_011 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Андронова Ольга Александровна": 136,
-      "Вашуркин Игорь Олегович": 13,
-      "Гончар Николай Николаевич": 425,
-      "Карпухина Елена Алексеевна": 84,
-      "Кузнецов Александр Петрович": 12,
-      "Пашинцев Борис Анатольевич": 8,
-      "Плешаков Александр Петрович": 117,
-      "Русский Александр Васильевич": 13,
-      "Против всех": 276
+      "gas:candidate-vibid:1001000188026": 136,
+      "gas:candidate-vibid:1001000202345": 13,
+      "gas:candidate-vibid:377301270354": 425,
+      "gas:candidate-vibid:1001000121941": 84,
+      "gas:candidate-vibid:1001000195171": 12,
+      "gas:candidate-vibid:377301270533": 8,
+      "gas:candidate-vibid:377301270420": 117,
+      "gas:candidate-vibid:377301270360": 13,
+      "special:against-all": 276
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=773012009&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=377301270399&region=0&sub_region=0&type=429",
@@ -10250,15 +10250,15 @@ export const duma_2003_uik_428_region_77_part_011 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Андронова Ольга Александровна": 148,
-      "Вашуркин Игорь Олегович": 7,
-      "Гончар Николай Николаевич": 585,
-      "Карпухина Елена Алексеевна": 221,
-      "Кузнецов Александр Петрович": 11,
-      "Пашинцев Борис Анатольевич": 21,
-      "Плешаков Александр Петрович": 168,
-      "Русский Александр Васильевич": 23,
-      "Против всех": 248
+      "gas:candidate-vibid:1001000188026": 148,
+      "gas:candidate-vibid:1001000202345": 7,
+      "gas:candidate-vibid:377301270354": 585,
+      "gas:candidate-vibid:1001000121941": 221,
+      "gas:candidate-vibid:1001000195171": 11,
+      "gas:candidate-vibid:377301270533": 21,
+      "gas:candidate-vibid:377301270420": 168,
+      "gas:candidate-vibid:377301270360": 23,
+      "special:against-all": 248
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=773012009&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=377301270399&region=0&sub_region=0&type=429",
@@ -10308,15 +10308,15 @@ export const duma_2003_uik_428_region_77_part_011 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Андронова Ольга Александровна": 133,
-      "Вашуркин Игорь Олегович": 14,
-      "Гончар Николай Николаевич": 567,
-      "Карпухина Елена Алексеевна": 225,
-      "Кузнецов Александр Петрович": 15,
-      "Пашинцев Борис Анатольевич": 20,
-      "Плешаков Александр Петрович": 134,
-      "Русский Александр Васильевич": 21,
-      "Против всех": 223
+      "gas:candidate-vibid:1001000188026": 133,
+      "gas:candidate-vibid:1001000202345": 14,
+      "gas:candidate-vibid:377301270354": 567,
+      "gas:candidate-vibid:1001000121941": 225,
+      "gas:candidate-vibid:1001000195171": 15,
+      "gas:candidate-vibid:377301270533": 20,
+      "gas:candidate-vibid:377301270420": 134,
+      "gas:candidate-vibid:377301270360": 21,
+      "special:against-all": 223
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=773012009&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=377301270399&region=0&sub_region=0&type=429",
@@ -10366,15 +10366,15 @@ export const duma_2003_uik_428_region_77_part_011 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Андронова Ольга Александровна": 142,
-      "Вашуркин Игорь Олегович": 4,
-      "Гончар Николай Николаевич": 597,
-      "Карпухина Елена Алексеевна": 140,
-      "Кузнецов Александр Петрович": 13,
-      "Пашинцев Борис Анатольевич": 28,
-      "Плешаков Александр Петрович": 177,
-      "Русский Александр Васильевич": 21,
-      "Против всех": 231
+      "gas:candidate-vibid:1001000188026": 142,
+      "gas:candidate-vibid:1001000202345": 4,
+      "gas:candidate-vibid:377301270354": 597,
+      "gas:candidate-vibid:1001000121941": 140,
+      "gas:candidate-vibid:1001000195171": 13,
+      "gas:candidate-vibid:377301270533": 28,
+      "gas:candidate-vibid:377301270420": 177,
+      "gas:candidate-vibid:377301270360": 21,
+      "special:against-all": 231
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=773012009&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=377301270399&region=0&sub_region=0&type=429",
@@ -10424,15 +10424,15 @@ export const duma_2003_uik_428_region_77_part_011 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Андронова Ольга Александровна": 138,
-      "Вашуркин Игорь Олегович": 10,
-      "Гончар Николай Николаевич": 425,
-      "Карпухина Елена Алексеевна": 126,
-      "Кузнецов Александр Петрович": 16,
-      "Пашинцев Борис Анатольевич": 9,
-      "Плешаков Александр Петрович": 230,
-      "Русский Александр Васильевич": 36,
-      "Против всех": 332
+      "gas:candidate-vibid:1001000188026": 138,
+      "gas:candidate-vibid:1001000202345": 10,
+      "gas:candidate-vibid:377301270354": 425,
+      "gas:candidate-vibid:1001000121941": 126,
+      "gas:candidate-vibid:1001000195171": 16,
+      "gas:candidate-vibid:377301270533": 9,
+      "gas:candidate-vibid:377301270420": 230,
+      "gas:candidate-vibid:377301270360": 36,
+      "special:against-all": 332
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=773012009&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=377301270399&region=0&sub_region=0&type=429",
@@ -10482,15 +10482,15 @@ export const duma_2003_uik_428_region_77_part_011 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Андронова Ольга Александровна": 107,
-      "Вашуркин Игорь Олегович": 12,
-      "Гончар Николай Николаевич": 428,
-      "Карпухина Елена Алексеевна": 134,
-      "Кузнецов Александр Петрович": 3,
-      "Пашинцев Борис Анатольевич": 12,
-      "Плешаков Александр Петрович": 159,
-      "Русский Александр Васильевич": 20,
-      "Против всех": 191
+      "gas:candidate-vibid:1001000188026": 107,
+      "gas:candidate-vibid:1001000202345": 12,
+      "gas:candidate-vibid:377301270354": 428,
+      "gas:candidate-vibid:1001000121941": 134,
+      "gas:candidate-vibid:1001000195171": 3,
+      "gas:candidate-vibid:377301270533": 12,
+      "gas:candidate-vibid:377301270420": 159,
+      "gas:candidate-vibid:377301270360": 20,
+      "special:against-all": 191
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=773012009&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=377301270399&region=0&sub_region=0&type=429",
@@ -10540,15 +10540,15 @@ export const duma_2003_uik_428_region_77_part_011 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Андронова Ольга Александровна": 94,
-      "Вашуркин Игорь Олегович": 11,
-      "Гончар Николай Николаевич": 585,
-      "Карпухина Елена Алексеевна": 160,
-      "Кузнецов Александр Петрович": 11,
-      "Пашинцев Борис Анатольевич": 19,
-      "Плешаков Александр Петрович": 142,
-      "Русский Александр Васильевич": 22,
-      "Против всех": 207
+      "gas:candidate-vibid:1001000188026": 94,
+      "gas:candidate-vibid:1001000202345": 11,
+      "gas:candidate-vibid:377301270354": 585,
+      "gas:candidate-vibid:1001000121941": 160,
+      "gas:candidate-vibid:1001000195171": 11,
+      "gas:candidate-vibid:377301270533": 19,
+      "gas:candidate-vibid:377301270420": 142,
+      "gas:candidate-vibid:377301270360": 22,
+      "special:against-all": 207
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=773012009&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=377301270399&region=0&sub_region=0&type=429",
@@ -10598,15 +10598,15 @@ export const duma_2003_uik_428_region_77_part_011 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Андронова Ольга Александровна": 94,
-      "Вашуркин Игорь Олегович": 19,
-      "Гончар Николай Николаевич": 491,
-      "Карпухина Елена Алексеевна": 110,
-      "Кузнецов Александр Петрович": 5,
-      "Пашинцев Борис Анатольевич": 11,
-      "Плешаков Александр Петрович": 133,
-      "Русский Александр Васильевич": 27,
-      "Против всех": 177
+      "gas:candidate-vibid:1001000188026": 94,
+      "gas:candidate-vibid:1001000202345": 19,
+      "gas:candidate-vibid:377301270354": 491,
+      "gas:candidate-vibid:1001000121941": 110,
+      "gas:candidate-vibid:1001000195171": 5,
+      "gas:candidate-vibid:377301270533": 11,
+      "gas:candidate-vibid:377301270420": 133,
+      "gas:candidate-vibid:377301270360": 27,
+      "special:against-all": 177
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=773012009&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=377301270399&region=0&sub_region=0&type=429",
@@ -10656,15 +10656,15 @@ export const duma_2003_uik_428_region_77_part_011 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Андронова Ольга Александровна": 105,
-      "Вашуркин Игорь Олегович": 14,
-      "Гончар Николай Николаевич": 476,
-      "Карпухина Елена Алексеевна": 53,
-      "Кузнецов Александр Петрович": 15,
-      "Пашинцев Борис Анатольевич": 16,
-      "Плешаков Александр Петрович": 100,
-      "Русский Александр Васильевич": 25,
-      "Против всех": 222
+      "gas:candidate-vibid:1001000188026": 105,
+      "gas:candidate-vibid:1001000202345": 14,
+      "gas:candidate-vibid:377301270354": 476,
+      "gas:candidate-vibid:1001000121941": 53,
+      "gas:candidate-vibid:1001000195171": 15,
+      "gas:candidate-vibid:377301270533": 16,
+      "gas:candidate-vibid:377301270420": 100,
+      "gas:candidate-vibid:377301270360": 25,
+      "special:against-all": 222
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=773012009&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=377301270399&region=0&sub_region=0&type=429",
@@ -10714,15 +10714,15 @@ export const duma_2003_uik_428_region_77_part_011 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Андронова Ольга Александровна": 68,
-      "Вашуркин Игорь Олегович": 6,
-      "Гончар Николай Николаевич": 350,
-      "Карпухина Елена Алексеевна": 85,
-      "Кузнецов Александр Петрович": 3,
-      "Пашинцев Борис Анатольевич": 5,
-      "Плешаков Александр Петрович": 110,
-      "Русский Александр Васильевич": 9,
-      "Против всех": 147
+      "gas:candidate-vibid:1001000188026": 68,
+      "gas:candidate-vibid:1001000202345": 6,
+      "gas:candidate-vibid:377301270354": 350,
+      "gas:candidate-vibid:1001000121941": 85,
+      "gas:candidate-vibid:1001000195171": 3,
+      "gas:candidate-vibid:377301270533": 5,
+      "gas:candidate-vibid:377301270420": 110,
+      "gas:candidate-vibid:377301270360": 9,
+      "special:against-all": 147
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=773012009&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=377301270399&region=0&sub_region=0&type=429",
@@ -10772,15 +10772,15 @@ export const duma_2003_uik_428_region_77_part_011 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Андронова Ольга Александровна": 124,
-      "Вашуркин Игорь Олегович": 12,
-      "Гончар Николай Николаевич": 616,
-      "Карпухина Елена Алексеевна": 90,
-      "Кузнецов Александр Петрович": 13,
-      "Пашинцев Борис Анатольевич": 30,
-      "Плешаков Александр Петрович": 131,
-      "Русский Александр Васильевич": 22,
-      "Против всех": 282
+      "gas:candidate-vibid:1001000188026": 124,
+      "gas:candidate-vibid:1001000202345": 12,
+      "gas:candidate-vibid:377301270354": 616,
+      "gas:candidate-vibid:1001000121941": 90,
+      "gas:candidate-vibid:1001000195171": 13,
+      "gas:candidate-vibid:377301270533": 30,
+      "gas:candidate-vibid:377301270420": 131,
+      "gas:candidate-vibid:377301270360": 22,
+      "special:against-all": 282
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=773012009&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=377301270399&region=0&sub_region=0&type=429",
@@ -10830,15 +10830,15 @@ export const duma_2003_uik_428_region_77_part_011 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Андронова Ольга Александровна": 166,
-      "Вашуркин Игорь Олегович": 13,
-      "Гончар Николай Николаевич": 457,
-      "Карпухина Елена Алексеевна": 155,
-      "Кузнецов Александр Петрович": 11,
-      "Пашинцев Борис Анатольевич": 13,
-      "Плешаков Александр Петрович": 107,
-      "Русский Александр Васильевич": 27,
-      "Против всех": 227
+      "gas:candidate-vibid:1001000188026": 166,
+      "gas:candidate-vibid:1001000202345": 13,
+      "gas:candidate-vibid:377301270354": 457,
+      "gas:candidate-vibid:1001000121941": 155,
+      "gas:candidate-vibid:1001000195171": 11,
+      "gas:candidate-vibid:377301270533": 13,
+      "gas:candidate-vibid:377301270420": 107,
+      "gas:candidate-vibid:377301270360": 27,
+      "special:against-all": 227
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=773012009&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=377301270399&region=0&sub_region=0&type=429",
@@ -10888,15 +10888,15 @@ export const duma_2003_uik_428_region_77_part_011 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Андронова Ольга Александровна": 165,
-      "Вашуркин Игорь Олегович": 14,
-      "Гончар Николай Николаевич": 472,
-      "Карпухина Елена Алексеевна": 131,
-      "Кузнецов Александр Петрович": 44,
-      "Пашинцев Борис Анатольевич": 36,
-      "Плешаков Александр Петрович": 169,
-      "Русский Александр Васильевич": 52,
-      "Против всех": 433
+      "gas:candidate-vibid:1001000188026": 165,
+      "gas:candidate-vibid:1001000202345": 14,
+      "gas:candidate-vibid:377301270354": 472,
+      "gas:candidate-vibid:1001000121941": 131,
+      "gas:candidate-vibid:1001000195171": 44,
+      "gas:candidate-vibid:377301270533": 36,
+      "gas:candidate-vibid:377301270420": 169,
+      "gas:candidate-vibid:377301270360": 52,
+      "special:against-all": 433
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=773012009&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=377301270399&region=0&sub_region=0&type=429",
@@ -10946,15 +10946,15 @@ export const duma_2003_uik_428_region_77_part_011 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Андронова Ольга Александровна": 197,
-      "Вашуркин Игорь Олегович": 14,
-      "Гончар Николай Николаевич": 232,
-      "Карпухина Елена Алексеевна": 183,
-      "Кузнецов Александр Петрович": 34,
-      "Пашинцев Борис Анатольевич": 22,
-      "Плешаков Александр Петрович": 107,
-      "Русский Александр Васильевич": 43,
-      "Против всех": 376
+      "gas:candidate-vibid:1001000188026": 197,
+      "gas:candidate-vibid:1001000202345": 14,
+      "gas:candidate-vibid:377301270354": 232,
+      "gas:candidate-vibid:1001000121941": 183,
+      "gas:candidate-vibid:1001000195171": 34,
+      "gas:candidate-vibid:377301270533": 22,
+      "gas:candidate-vibid:377301270420": 107,
+      "gas:candidate-vibid:377301270360": 43,
+      "special:against-all": 376
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=773012009&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=377301270399&region=0&sub_region=0&type=429",
@@ -11004,15 +11004,15 @@ export const duma_2003_uik_428_region_77_part_011 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Андронова Ольга Александровна": 135,
-      "Вашуркин Игорь Олегович": 9,
-      "Гончар Николай Николаевич": 664,
-      "Карпухина Елена Алексеевна": 177,
-      "Кузнецов Александр Петрович": 14,
-      "Пашинцев Борис Анатольевич": 19,
-      "Плешаков Александр Петрович": 154,
-      "Русский Александр Васильевич": 26,
-      "Против всех": 207
+      "gas:candidate-vibid:1001000188026": 135,
+      "gas:candidate-vibid:1001000202345": 9,
+      "gas:candidate-vibid:377301270354": 664,
+      "gas:candidate-vibid:1001000121941": 177,
+      "gas:candidate-vibid:1001000195171": 14,
+      "gas:candidate-vibid:377301270533": 19,
+      "gas:candidate-vibid:377301270420": 154,
+      "gas:candidate-vibid:377301270360": 26,
+      "special:against-all": 207
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=773012009&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=377301270399&region=0&sub_region=0&type=429",
@@ -11062,15 +11062,15 @@ export const duma_2003_uik_428_region_77_part_011 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Андронова Ольга Александровна": 129,
-      "Вашуркин Игорь Олегович": 8,
-      "Гончар Николай Николаевич": 620,
-      "Карпухина Елена Алексеевна": 136,
-      "Кузнецов Александр Петрович": 12,
-      "Пашинцев Борис Анатольевич": 24,
-      "Плешаков Александр Петрович": 152,
-      "Русский Александр Васильевич": 28,
-      "Против всех": 180
+      "gas:candidate-vibid:1001000188026": 129,
+      "gas:candidate-vibid:1001000202345": 8,
+      "gas:candidate-vibid:377301270354": 620,
+      "gas:candidate-vibid:1001000121941": 136,
+      "gas:candidate-vibid:1001000195171": 12,
+      "gas:candidate-vibid:377301270533": 24,
+      "gas:candidate-vibid:377301270420": 152,
+      "gas:candidate-vibid:377301270360": 28,
+      "special:against-all": 180
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=773012009&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=377301270399&region=0&sub_region=0&type=429",
@@ -11120,15 +11120,15 @@ export const duma_2003_uik_428_region_77_part_011 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Андронова Ольга Александровна": 112,
-      "Вашуркин Игорь Олегович": 10,
-      "Гончар Николай Николаевич": 638,
-      "Карпухина Елена Алексеевна": 160,
-      "Кузнецов Александр Петрович": 15,
-      "Пашинцев Борис Анатольевич": 13,
-      "Плешаков Александр Петрович": 186,
-      "Русский Александр Васильевич": 28,
-      "Против всех": 253
+      "gas:candidate-vibid:1001000188026": 112,
+      "gas:candidate-vibid:1001000202345": 10,
+      "gas:candidate-vibid:377301270354": 638,
+      "gas:candidate-vibid:1001000121941": 160,
+      "gas:candidate-vibid:1001000195171": 15,
+      "gas:candidate-vibid:377301270533": 13,
+      "gas:candidate-vibid:377301270420": 186,
+      "gas:candidate-vibid:377301270360": 28,
+      "special:against-all": 253
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=773012009&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=377301270399&region=0&sub_region=0&type=429",
@@ -11178,15 +11178,15 @@ export const duma_2003_uik_428_region_77_part_011 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Андронова Ольга Александровна": 118,
-      "Вашуркин Игорь Олегович": 12,
-      "Гончар Николай Николаевич": 716,
-      "Карпухина Елена Алексеевна": 163,
-      "Кузнецов Александр Петрович": 15,
-      "Пашинцев Борис Анатольевич": 10,
-      "Плешаков Александр Петрович": 160,
-      "Русский Александр Васильевич": 15,
-      "Против всех": 266
+      "gas:candidate-vibid:1001000188026": 118,
+      "gas:candidate-vibid:1001000202345": 12,
+      "gas:candidate-vibid:377301270354": 716,
+      "gas:candidate-vibid:1001000121941": 163,
+      "gas:candidate-vibid:1001000195171": 15,
+      "gas:candidate-vibid:377301270533": 10,
+      "gas:candidate-vibid:377301270420": 160,
+      "gas:candidate-vibid:377301270360": 15,
+      "special:against-all": 266
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=773012009&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=377301270399&region=0&sub_region=0&type=429",
@@ -11236,15 +11236,15 @@ export const duma_2003_uik_428_region_77_part_011 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Андронова Ольга Александровна": 142,
-      "Вашуркин Игорь Олегович": 759,
-      "Гончар Николай Николаевич": 20,
-      "Карпухина Елена Алексеевна": 157,
-      "Кузнецов Александр Петрович": 17,
-      "Пашинцев Борис Анатольевич": 150,
-      "Плешаков Александр Петрович": 24,
-      "Русский Александр Васильевич": 23,
-      "Против всех": 248
+      "gas:candidate-vibid:1001000188026": 142,
+      "gas:candidate-vibid:1001000202345": 759,
+      "gas:candidate-vibid:377301270354": 20,
+      "gas:candidate-vibid:1001000121941": 157,
+      "gas:candidate-vibid:1001000195171": 17,
+      "gas:candidate-vibid:377301270533": 150,
+      "gas:candidate-vibid:377301270420": 24,
+      "gas:candidate-vibid:377301270360": 23,
+      "special:against-all": 248
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=773012009&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=377301270399&region=0&sub_region=0&type=429",
@@ -11294,15 +11294,15 @@ export const duma_2003_uik_428_region_77_part_011 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Андронова Ольга Александровна": 127,
-      "Вашуркин Игорь Олегович": 13,
-      "Гончар Николай Николаевич": 747,
-      "Карпухина Елена Алексеевна": 124,
-      "Кузнецов Александр Петрович": 18,
-      "Пашинцев Борис Анатольевич": 16,
-      "Плешаков Александр Петрович": 218,
-      "Русский Александр Васильевич": 27,
-      "Против всех": 270
+      "gas:candidate-vibid:1001000188026": 127,
+      "gas:candidate-vibid:1001000202345": 13,
+      "gas:candidate-vibid:377301270354": 747,
+      "gas:candidate-vibid:1001000121941": 124,
+      "gas:candidate-vibid:1001000195171": 18,
+      "gas:candidate-vibid:377301270533": 16,
+      "gas:candidate-vibid:377301270420": 218,
+      "gas:candidate-vibid:377301270360": 27,
+      "special:against-all": 270
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=773012009&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=377301270399&region=0&sub_region=0&type=429",
@@ -11352,15 +11352,15 @@ export const duma_2003_uik_428_region_77_part_011 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Андронова Ольга Александровна": 131,
-      "Вашуркин Игорь Олегович": 11,
-      "Гончар Николай Николаевич": 584,
-      "Карпухина Елена Алексеевна": 88,
-      "Кузнецов Александр Петрович": 10,
-      "Пашинцев Борис Анатольевич": 15,
-      "Плешаков Александр Петрович": 142,
-      "Русский Александр Васильевич": 42,
-      "Против всех": 237
+      "gas:candidate-vibid:1001000188026": 131,
+      "gas:candidate-vibid:1001000202345": 11,
+      "gas:candidate-vibid:377301270354": 584,
+      "gas:candidate-vibid:1001000121941": 88,
+      "gas:candidate-vibid:1001000195171": 10,
+      "gas:candidate-vibid:377301270533": 15,
+      "gas:candidate-vibid:377301270420": 142,
+      "gas:candidate-vibid:377301270360": 42,
+      "special:against-all": 237
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=773012009&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=377301270399&region=0&sub_region=0&type=429",
@@ -11410,15 +11410,15 @@ export const duma_2003_uik_428_region_77_part_011 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Андронова Ольга Александровна": 113,
-      "Вашуркин Игорь Олегович": 8,
-      "Гончар Николай Николаевич": 595,
-      "Карпухина Елена Алексеевна": 98,
-      "Кузнецов Александр Петрович": 13,
-      "Пашинцев Борис Анатольевич": 15,
-      "Плешаков Александр Петрович": 119,
-      "Русский Александр Васильевич": 15,
-      "Против всех": 201
+      "gas:candidate-vibid:1001000188026": 113,
+      "gas:candidate-vibid:1001000202345": 8,
+      "gas:candidate-vibid:377301270354": 595,
+      "gas:candidate-vibid:1001000121941": 98,
+      "gas:candidate-vibid:1001000195171": 13,
+      "gas:candidate-vibid:377301270533": 15,
+      "gas:candidate-vibid:377301270420": 119,
+      "gas:candidate-vibid:377301270360": 15,
+      "special:against-all": 201
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=773012009&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=377301270399&region=0&sub_region=0&type=429",
@@ -11468,15 +11468,15 @@ export const duma_2003_uik_428_region_77_part_011 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Андронова Ольга Александровна": 107,
-      "Вашуркин Игорь Олегович": 11,
-      "Гончар Николай Николаевич": 501,
-      "Карпухина Елена Алексеевна": 99,
-      "Кузнецов Александр Петрович": 18,
-      "Пашинцев Борис Анатольевич": 17,
-      "Плешаков Александр Петрович": 97,
-      "Русский Александр Васильевич": 17,
-      "Против всех": 245
+      "gas:candidate-vibid:1001000188026": 107,
+      "gas:candidate-vibid:1001000202345": 11,
+      "gas:candidate-vibid:377301270354": 501,
+      "gas:candidate-vibid:1001000121941": 99,
+      "gas:candidate-vibid:1001000195171": 18,
+      "gas:candidate-vibid:377301270533": 17,
+      "gas:candidate-vibid:377301270420": 97,
+      "gas:candidate-vibid:377301270360": 17,
+      "special:against-all": 245
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=773012009&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=377301270399&region=0&sub_region=0&type=429",
@@ -11526,15 +11526,15 @@ export const duma_2003_uik_428_region_77_part_011 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Андронова Ольга Александровна": 137,
-      "Вашуркин Игорь Олегович": 15,
-      "Гончар Николай Николаевич": 697,
-      "Карпухина Елена Алексеевна": 105,
-      "Кузнецов Александр Петрович": 13,
-      "Пашинцев Борис Анатольевич": 20,
-      "Плешаков Александр Петрович": 138,
-      "Русский Александр Васильевич": 30,
-      "Против всех": 329
+      "gas:candidate-vibid:1001000188026": 137,
+      "gas:candidate-vibid:1001000202345": 15,
+      "gas:candidate-vibid:377301270354": 697,
+      "gas:candidate-vibid:1001000121941": 105,
+      "gas:candidate-vibid:1001000195171": 13,
+      "gas:candidate-vibid:377301270533": 20,
+      "gas:candidate-vibid:377301270420": 138,
+      "gas:candidate-vibid:377301270360": 30,
+      "special:against-all": 329
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=773012009&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=377301270399&region=0&sub_region=0&type=429",
@@ -11584,15 +11584,15 @@ export const duma_2003_uik_428_region_77_part_011 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Андронова Ольга Александровна": 118,
-      "Вашуркин Игорь Олегович": 10,
-      "Гончар Николай Николаевич": 666,
-      "Карпухина Елена Алексеевна": 100,
-      "Кузнецов Александр Петрович": 21,
-      "Пашинцев Борис Анатольевич": 14,
-      "Плешаков Александр Петрович": 150,
-      "Русский Александр Васильевич": 38,
-      "Против всех": 249
+      "gas:candidate-vibid:1001000188026": 118,
+      "gas:candidate-vibid:1001000202345": 10,
+      "gas:candidate-vibid:377301270354": 666,
+      "gas:candidate-vibid:1001000121941": 100,
+      "gas:candidate-vibid:1001000195171": 21,
+      "gas:candidate-vibid:377301270533": 14,
+      "gas:candidate-vibid:377301270420": 150,
+      "gas:candidate-vibid:377301270360": 38,
+      "special:against-all": 249
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=773012009&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=377301270399&region=0&sub_region=0&type=429",
@@ -11642,15 +11642,15 @@ export const duma_2003_uik_428_region_77_part_011 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Андронова Ольга Александровна": 165,
-      "Вашуркин Игорь Олегович": 12,
-      "Гончар Николай Николаевич": 532,
-      "Карпухина Елена Алексеевна": 135,
-      "Кузнецов Александр Петрович": 20,
-      "Пашинцев Борис Анатольевич": 17,
-      "Плешаков Александр Петрович": 192,
-      "Русский Александр Васильевич": 36,
-      "Против всех": 357
+      "gas:candidate-vibid:1001000188026": 165,
+      "gas:candidate-vibid:1001000202345": 12,
+      "gas:candidate-vibid:377301270354": 532,
+      "gas:candidate-vibid:1001000121941": 135,
+      "gas:candidate-vibid:1001000195171": 20,
+      "gas:candidate-vibid:377301270533": 17,
+      "gas:candidate-vibid:377301270420": 192,
+      "gas:candidate-vibid:377301270360": 36,
+      "special:against-all": 357
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=773012009&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=377301270399&region=0&sub_region=0&type=429",
@@ -11700,15 +11700,15 @@ export const duma_2003_uik_428_region_77_part_011 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Андронова Ольга Александровна": 93,
-      "Вашуркин Игорь Олегович": 8,
-      "Гончар Николай Николаевич": 475,
-      "Карпухина Елена Алексеевна": 50,
-      "Кузнецов Александр Петрович": 16,
-      "Пашинцев Борис Анатольевич": 17,
-      "Плешаков Александр Петрович": 131,
-      "Русский Александр Васильевич": 29,
-      "Против всех": 198
+      "gas:candidate-vibid:1001000188026": 93,
+      "gas:candidate-vibid:1001000202345": 8,
+      "gas:candidate-vibid:377301270354": 475,
+      "gas:candidate-vibid:1001000121941": 50,
+      "gas:candidate-vibid:1001000195171": 16,
+      "gas:candidate-vibid:377301270533": 17,
+      "gas:candidate-vibid:377301270420": 131,
+      "gas:candidate-vibid:377301270360": 29,
+      "special:against-all": 198
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=773012009&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=377301270399&region=0&sub_region=0&type=429",
@@ -11758,15 +11758,15 @@ export const duma_2003_uik_428_region_77_part_011 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Андронова Ольга Александровна": 1,
-      "Вашуркин Игорь Олегович": 0,
-      "Гончар Николай Николаевич": 3,
-      "Карпухина Елена Алексеевна": 0,
-      "Кузнецов Александр Петрович": 0,
-      "Пашинцев Борис Анатольевич": 0,
-      "Плешаков Александр Петрович": 1,
-      "Русский Александр Васильевич": 0,
-      "Против всех": 2
+      "gas:candidate-vibid:1001000188026": 1,
+      "gas:candidate-vibid:1001000202345": 0,
+      "gas:candidate-vibid:377301270354": 3,
+      "gas:candidate-vibid:1001000121941": 0,
+      "gas:candidate-vibid:1001000195171": 0,
+      "gas:candidate-vibid:377301270533": 0,
+      "gas:candidate-vibid:377301270420": 1,
+      "gas:candidate-vibid:377301270360": 0,
+      "special:against-all": 2
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=773012009&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=377301270399&region=0&sub_region=0&type=429",
@@ -11816,15 +11816,15 @@ export const duma_2003_uik_428_region_77_part_011 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Андронова Ольга Александровна": 4,
-      "Вашуркин Игорь Олегович": 0,
-      "Гончар Николай Николаевич": 31,
-      "Карпухина Елена Алексеевна": 2,
-      "Кузнецов Александр Петрович": 1,
-      "Пашинцев Борис Анатольевич": 2,
-      "Плешаков Александр Петрович": 9,
-      "Русский Александр Васильевич": 3,
-      "Против всех": 11
+      "gas:candidate-vibid:1001000188026": 4,
+      "gas:candidate-vibid:1001000202345": 0,
+      "gas:candidate-vibid:377301270354": 31,
+      "gas:candidate-vibid:1001000121941": 2,
+      "gas:candidate-vibid:1001000195171": 1,
+      "gas:candidate-vibid:377301270533": 2,
+      "gas:candidate-vibid:377301270420": 9,
+      "gas:candidate-vibid:377301270360": 3,
+      "special:against-all": 11
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=773012009&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=377301270399&region=0&sub_region=0&type=429",
@@ -11874,15 +11874,15 @@ export const duma_2003_uik_428_region_77_part_011 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Андронова Ольга Александровна": 1,
-      "Вашуркин Игорь Олегович": 0,
-      "Гончар Николай Николаевич": 0,
-      "Карпухина Елена Алексеевна": 1,
-      "Кузнецов Александр Петрович": 0,
-      "Пашинцев Борис Анатольевич": 0,
-      "Плешаков Александр Петрович": 1,
-      "Русский Александр Васильевич": 1,
-      "Против всех": 0
+      "gas:candidate-vibid:1001000188026": 1,
+      "gas:candidate-vibid:1001000202345": 0,
+      "gas:candidate-vibid:377301270354": 0,
+      "gas:candidate-vibid:1001000121941": 1,
+      "gas:candidate-vibid:1001000195171": 0,
+      "gas:candidate-vibid:377301270533": 0,
+      "gas:candidate-vibid:377301270420": 1,
+      "gas:candidate-vibid:377301270360": 1,
+      "special:against-all": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=773012009&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=377301270399&region=0&sub_region=0&type=429",
@@ -11932,15 +11932,15 @@ export const duma_2003_uik_428_region_77_part_011 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Андронова Ольга Александровна": 0,
-      "Вашуркин Игорь Олегович": 0,
-      "Гончар Николай Николаевич": 3,
-      "Карпухина Елена Алексеевна": 1,
-      "Кузнецов Александр Петрович": 0,
-      "Пашинцев Борис Анатольевич": 0,
-      "Плешаков Александр Петрович": 1,
-      "Русский Александр Васильевич": 0,
-      "Против всех": 0
+      "gas:candidate-vibid:1001000188026": 0,
+      "gas:candidate-vibid:1001000202345": 0,
+      "gas:candidate-vibid:377301270354": 3,
+      "gas:candidate-vibid:1001000121941": 1,
+      "gas:candidate-vibid:1001000195171": 0,
+      "gas:candidate-vibid:377301270533": 0,
+      "gas:candidate-vibid:377301270420": 1,
+      "gas:candidate-vibid:377301270360": 0,
+      "special:against-all": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=773012009&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=377301270399&region=0&sub_region=0&type=429",
@@ -11990,15 +11990,15 @@ export const duma_2003_uik_428_region_77_part_011 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Андронова Ольга Александровна": 0,
-      "Вашуркин Игорь Олегович": 0,
-      "Гончар Николай Николаевич": 2,
-      "Карпухина Елена Алексеевна": 1,
-      "Кузнецов Александр Петрович": 0,
-      "Пашинцев Борис Анатольевич": 0,
-      "Плешаков Александр Петрович": 1,
-      "Русский Александр Васильевич": 0,
-      "Против всех": 0
+      "gas:candidate-vibid:1001000188026": 0,
+      "gas:candidate-vibid:1001000202345": 0,
+      "gas:candidate-vibid:377301270354": 2,
+      "gas:candidate-vibid:1001000121941": 1,
+      "gas:candidate-vibid:1001000195171": 0,
+      "gas:candidate-vibid:377301270533": 0,
+      "gas:candidate-vibid:377301270420": 1,
+      "gas:candidate-vibid:377301270360": 0,
+      "special:against-all": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=773012009&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=377301270399&region=0&sub_region=0&type=429",
@@ -12048,15 +12048,15 @@ export const duma_2003_uik_428_region_77_part_011 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Андронова Ольга Александровна": 0,
-      "Вашуркин Игорь Олегович": 0,
-      "Гончар Николай Николаевич": 0,
-      "Карпухина Елена Алексеевна": 0,
-      "Кузнецов Александр Петрович": 0,
-      "Пашинцев Борис Анатольевич": 0,
-      "Плешаков Александр Петрович": 0,
-      "Русский Александр Васильевич": 0,
-      "Против всех": 1
+      "gas:candidate-vibid:1001000188026": 0,
+      "gas:candidate-vibid:1001000202345": 0,
+      "gas:candidate-vibid:377301270354": 0,
+      "gas:candidate-vibid:1001000121941": 0,
+      "gas:candidate-vibid:1001000195171": 0,
+      "gas:candidate-vibid:377301270533": 0,
+      "gas:candidate-vibid:377301270420": 0,
+      "gas:candidate-vibid:377301270360": 0,
+      "special:against-all": 1
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=773012009&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=377301270399&region=0&sub_region=0&type=429",
@@ -12106,15 +12106,15 @@ export const duma_2003_uik_428_region_77_part_011 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Андронова Ольга Александровна": 0,
-      "Вашуркин Игорь Олегович": 0,
-      "Гончар Николай Николаевич": 0,
-      "Карпухина Елена Алексеевна": 0,
-      "Кузнецов Александр Петрович": 0,
-      "Пашинцев Борис Анатольевич": 0,
-      "Плешаков Александр Петрович": 0,
-      "Русский Александр Васильевич": 0,
-      "Против всех": 0
+      "gas:candidate-vibid:1001000188026": 0,
+      "gas:candidate-vibid:1001000202345": 0,
+      "gas:candidate-vibid:377301270354": 0,
+      "gas:candidate-vibid:1001000121941": 0,
+      "gas:candidate-vibid:1001000195171": 0,
+      "gas:candidate-vibid:377301270533": 0,
+      "gas:candidate-vibid:377301270420": 0,
+      "gas:candidate-vibid:377301270360": 0,
+      "special:against-all": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=773012009&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=377301270399&region=0&sub_region=0&type=429",
@@ -12164,15 +12164,15 @@ export const duma_2003_uik_428_region_77_part_011 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Андронова Ольга Александровна": 71,
-      "Вашуркин Игорь Олегович": 15,
-      "Гончар Николай Николаевич": 245,
-      "Карпухина Елена Алексеевна": 121,
-      "Кузнецов Александр Петрович": 10,
-      "Пашинцев Борис Анатольевич": 6,
-      "Плешаков Александр Петрович": 86,
-      "Русский Александр Васильевич": 13,
-      "Против всех": 155
+      "gas:candidate-vibid:1001000188026": 71,
+      "gas:candidate-vibid:1001000202345": 15,
+      "gas:candidate-vibid:377301270354": 245,
+      "gas:candidate-vibid:1001000121941": 121,
+      "gas:candidate-vibid:1001000195171": 10,
+      "gas:candidate-vibid:377301270533": 6,
+      "gas:candidate-vibid:377301270420": 86,
+      "gas:candidate-vibid:377301270360": 13,
+      "special:against-all": 155
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=773012010&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=377301270401&region=0&sub_region=0&type=429",
@@ -12222,15 +12222,15 @@ export const duma_2003_uik_428_region_77_part_011 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Андронова Ольга Александровна": 95,
-      "Вашуркин Игорь Олегович": 12,
-      "Гончар Николай Николаевич": 304,
-      "Карпухина Елена Алексеевна": 74,
-      "Кузнецов Александр Петрович": 13,
-      "Пашинцев Борис Анатольевич": 13,
-      "Плешаков Александр Петрович": 141,
-      "Русский Александр Васильевич": 21,
-      "Против всех": 166
+      "gas:candidate-vibid:1001000188026": 95,
+      "gas:candidate-vibid:1001000202345": 12,
+      "gas:candidate-vibid:377301270354": 304,
+      "gas:candidate-vibid:1001000121941": 74,
+      "gas:candidate-vibid:1001000195171": 13,
+      "gas:candidate-vibid:377301270533": 13,
+      "gas:candidate-vibid:377301270420": 141,
+      "gas:candidate-vibid:377301270360": 21,
+      "special:against-all": 166
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=773012010&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=377301270401&region=0&sub_region=0&type=429",
@@ -12280,15 +12280,15 @@ export const duma_2003_uik_428_region_77_part_011 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Андронова Ольга Александровна": 172,
-      "Вашуркин Игорь Олегович": 11,
-      "Гончар Николай Николаевич": 495,
-      "Карпухина Елена Алексеевна": 151,
-      "Кузнецов Александр Петрович": 8,
-      "Пашинцев Борис Анатольевич": 24,
-      "Плешаков Александр Петрович": 220,
-      "Русский Александр Васильевич": 31,
-      "Против всех": 280
+      "gas:candidate-vibid:1001000188026": 172,
+      "gas:candidate-vibid:1001000202345": 11,
+      "gas:candidate-vibid:377301270354": 495,
+      "gas:candidate-vibid:1001000121941": 151,
+      "gas:candidate-vibid:1001000195171": 8,
+      "gas:candidate-vibid:377301270533": 24,
+      "gas:candidate-vibid:377301270420": 220,
+      "gas:candidate-vibid:377301270360": 31,
+      "special:against-all": 280
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=773012010&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=377301270401&region=0&sub_region=0&type=429",
@@ -12338,15 +12338,15 @@ export const duma_2003_uik_428_region_77_part_011 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Андронова Ольга Александровна": 74,
-      "Вашуркин Игорь Олегович": 9,
-      "Гончар Николай Николаевич": 254,
-      "Карпухина Елена Алексеевна": 52,
-      "Кузнецов Александр Петрович": 10,
-      "Пашинцев Борис Анатольевич": 11,
-      "Плешаков Александр Петрович": 101,
-      "Русский Александр Васильевич": 21,
-      "Против всех": 174
+      "gas:candidate-vibid:1001000188026": 74,
+      "gas:candidate-vibid:1001000202345": 9,
+      "gas:candidate-vibid:377301270354": 254,
+      "gas:candidate-vibid:1001000121941": 52,
+      "gas:candidate-vibid:1001000195171": 10,
+      "gas:candidate-vibid:377301270533": 11,
+      "gas:candidate-vibid:377301270420": 101,
+      "gas:candidate-vibid:377301270360": 21,
+      "special:against-all": 174
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=773012010&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=377301270401&region=0&sub_region=0&type=429",
@@ -12396,15 +12396,15 @@ export const duma_2003_uik_428_region_77_part_011 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Андронова Ольга Александровна": 153,
-      "Вашуркин Игорь Олегович": 16,
-      "Гончар Николай Николаевич": 399,
-      "Карпухина Елена Алексеевна": 212,
-      "Кузнецов Александр Петрович": 25,
-      "Пашинцев Борис Анатольевич": 20,
-      "Плешаков Александр Петрович": 162,
-      "Русский Александр Васильевич": 24,
-      "Против всех": 221
+      "gas:candidate-vibid:1001000188026": 153,
+      "gas:candidate-vibid:1001000202345": 16,
+      "gas:candidate-vibid:377301270354": 399,
+      "gas:candidate-vibid:1001000121941": 212,
+      "gas:candidate-vibid:1001000195171": 25,
+      "gas:candidate-vibid:377301270533": 20,
+      "gas:candidate-vibid:377301270420": 162,
+      "gas:candidate-vibid:377301270360": 24,
+      "special:against-all": 221
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=773012010&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=377301270401&region=0&sub_region=0&type=429",
@@ -12454,15 +12454,15 @@ export const duma_2003_uik_428_region_77_part_011 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Андронова Ольга Александровна": 148,
-      "Вашуркин Игорь Олегович": 21,
-      "Гончар Николай Николаевич": 495,
-      "Карпухина Елена Алексеевна": 169,
-      "Кузнецов Александр Петрович": 14,
-      "Пашинцев Борис Анатольевич": 17,
-      "Плешаков Александр Петрович": 164,
-      "Русский Александр Васильевич": 22,
-      "Против всех": 307
+      "gas:candidate-vibid:1001000188026": 148,
+      "gas:candidate-vibid:1001000202345": 21,
+      "gas:candidate-vibid:377301270354": 495,
+      "gas:candidate-vibid:1001000121941": 169,
+      "gas:candidate-vibid:1001000195171": 14,
+      "gas:candidate-vibid:377301270533": 17,
+      "gas:candidate-vibid:377301270420": 164,
+      "gas:candidate-vibid:377301270360": 22,
+      "special:against-all": 307
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=773012010&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=377301270401&region=0&sub_region=0&type=429",
@@ -12512,15 +12512,15 @@ export const duma_2003_uik_428_region_77_part_011 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Андронова Ольга Александровна": 170,
-      "Вашуркин Игорь Олегович": 8,
-      "Гончар Николай Николаевич": 505,
-      "Карпухина Елена Алексеевна": 120,
-      "Кузнецов Александр Петрович": 16,
-      "Пашинцев Борис Анатольевич": 19,
-      "Плешаков Александр Петрович": 173,
-      "Русский Александр Васильевич": 22,
-      "Против всех": 229
+      "gas:candidate-vibid:1001000188026": 170,
+      "gas:candidate-vibid:1001000202345": 8,
+      "gas:candidate-vibid:377301270354": 505,
+      "gas:candidate-vibid:1001000121941": 120,
+      "gas:candidate-vibid:1001000195171": 16,
+      "gas:candidate-vibid:377301270533": 19,
+      "gas:candidate-vibid:377301270420": 173,
+      "gas:candidate-vibid:377301270360": 22,
+      "special:against-all": 229
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=773012010&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=377301270401&region=0&sub_region=0&type=429",
@@ -12570,15 +12570,15 @@ export const duma_2003_uik_428_region_77_part_011 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Андронова Ольга Александровна": 133,
-      "Вашуркин Игорь Олегович": 13,
-      "Гончар Николай Николаевич": 444,
-      "Карпухина Елена Алексеевна": 111,
-      "Кузнецов Александр Петрович": 7,
-      "Пашинцев Борис Анатольевич": 21,
-      "Плешаков Александр Петрович": 171,
-      "Русский Александр Васильевич": 24,
-      "Против всех": 256
+      "gas:candidate-vibid:1001000188026": 133,
+      "gas:candidate-vibid:1001000202345": 13,
+      "gas:candidate-vibid:377301270354": 444,
+      "gas:candidate-vibid:1001000121941": 111,
+      "gas:candidate-vibid:1001000195171": 7,
+      "gas:candidate-vibid:377301270533": 21,
+      "gas:candidate-vibid:377301270420": 171,
+      "gas:candidate-vibid:377301270360": 24,
+      "special:against-all": 256
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=773012010&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=377301270401&region=0&sub_region=0&type=429",
@@ -12628,15 +12628,15 @@ export const duma_2003_uik_428_region_77_part_011 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Андронова Ольга Александровна": 2,
-      "Вашуркин Игорь Олегович": 0,
-      "Гончар Николай Николаевич": 15,
-      "Карпухина Елена Алексеевна": 2,
-      "Кузнецов Александр Петрович": 2,
-      "Пашинцев Борис Анатольевич": 0,
-      "Плешаков Александр Петрович": 2,
-      "Русский Александр Васильевич": 0,
-      "Против всех": 4
+      "gas:candidate-vibid:1001000188026": 2,
+      "gas:candidate-vibid:1001000202345": 0,
+      "gas:candidate-vibid:377301270354": 15,
+      "gas:candidate-vibid:1001000121941": 2,
+      "gas:candidate-vibid:1001000195171": 2,
+      "gas:candidate-vibid:377301270533": 0,
+      "gas:candidate-vibid:377301270420": 2,
+      "gas:candidate-vibid:377301270360": 0,
+      "special:against-all": 4
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=773012010&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=377301270401&region=0&sub_region=0&type=429",
@@ -12686,14 +12686,14 @@ export const duma_2003_uik_428_region_77_part_011 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Ковалев Вячеслав Валерьевич": 272,
-      "Лексаков Владимир Павлович": 24,
-      "Лутковский Александр Сергеевич": 33,
-      "Медведев Павел Алексеевич": 620,
-      "Орехов Андрей Васильевич": 83,
-      "Пономарев Юрий Анатольевич": 64,
-      "Черковец Олег Викторович": 166,
-      "Против всех": 438
+      "gas:candidate-vibid:1001000250033": 272,
+      "gas:candidate-vibid:1001000190457": 24,
+      "gas:candidate-vibid:1001000195172": 33,
+      "gas:candidate-vibid:1001000226014": 620,
+      "gas:candidate-vibid:377301370786": 83,
+      "gas:candidate-vibid:1001000136157": 64,
+      "gas:candidate-vibid:1001000121942": 166,
+      "special:against-all": 438
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=773013001&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=377301370529&region=0&sub_region=0&type=429",
@@ -12743,14 +12743,14 @@ export const duma_2003_uik_428_region_77_part_011 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Ковалев Вячеслав Валерьевич": 182,
-      "Лексаков Владимир Павлович": 11,
-      "Лутковский Александр Сергеевич": 14,
-      "Медведев Павел Алексеевич": 398,
-      "Орехов Андрей Васильевич": 40,
-      "Пономарев Юрий Анатольевич": 45,
-      "Черковец Олег Викторович": 77,
-      "Против всех": 257
+      "gas:candidate-vibid:1001000250033": 182,
+      "gas:candidate-vibid:1001000190457": 11,
+      "gas:candidate-vibid:1001000195172": 14,
+      "gas:candidate-vibid:1001000226014": 398,
+      "gas:candidate-vibid:377301370786": 40,
+      "gas:candidate-vibid:1001000136157": 45,
+      "gas:candidate-vibid:1001000121942": 77,
+      "special:against-all": 257
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=773013001&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=377301370529&region=0&sub_region=0&type=429",
@@ -12800,14 +12800,14 @@ export const duma_2003_uik_428_region_77_part_011 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Ковалев Вячеслав Валерьевич": 157,
-      "Лексаков Владимир Павлович": 14,
-      "Лутковский Александр Сергеевич": 14,
-      "Медведев Павел Алексеевич": 439,
-      "Орехов Андрей Васильевич": 23,
-      "Пономарев Юрий Анатольевич": 42,
-      "Черковец Олег Викторович": 82,
-      "Против всех": 255
+      "gas:candidate-vibid:1001000250033": 157,
+      "gas:candidate-vibid:1001000190457": 14,
+      "gas:candidate-vibid:1001000195172": 14,
+      "gas:candidate-vibid:1001000226014": 439,
+      "gas:candidate-vibid:377301370786": 23,
+      "gas:candidate-vibid:1001000136157": 42,
+      "gas:candidate-vibid:1001000121942": 82,
+      "special:against-all": 255
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=773013001&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=377301370529&region=0&sub_region=0&type=429",
@@ -12857,14 +12857,14 @@ export const duma_2003_uik_428_region_77_part_011 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Ковалев Вячеслав Валерьевич": 227,
-      "Лексаков Владимир Павлович": 18,
-      "Лутковский Александр Сергеевич": 15,
-      "Медведев Павел Алексеевич": 571,
-      "Орехов Андрей Васильевич": 35,
-      "Пономарев Юрий Анатольевич": 53,
-      "Черковец Олег Викторович": 73,
-      "Против всех": 311
+      "gas:candidate-vibid:1001000250033": 227,
+      "gas:candidate-vibid:1001000190457": 18,
+      "gas:candidate-vibid:1001000195172": 15,
+      "gas:candidate-vibid:1001000226014": 571,
+      "gas:candidate-vibid:377301370786": 35,
+      "gas:candidate-vibid:1001000136157": 53,
+      "gas:candidate-vibid:1001000121942": 73,
+      "special:against-all": 311
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=773013001&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=377301370529&region=0&sub_region=0&type=429",
@@ -12914,14 +12914,14 @@ export const duma_2003_uik_428_region_77_part_011 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Ковалев Вячеслав Валерьевич": 241,
-      "Лексаков Владимир Павлович": 19,
-      "Лутковский Александр Сергеевич": 30,
-      "Медведев Павел Алексеевич": 465,
-      "Орехов Андрей Васильевич": 54,
-      "Пономарев Юрий Анатольевич": 70,
-      "Черковец Олег Викторович": 143,
-      "Против всех": 354
+      "gas:candidate-vibid:1001000250033": 241,
+      "gas:candidate-vibid:1001000190457": 19,
+      "gas:candidate-vibid:1001000195172": 30,
+      "gas:candidate-vibid:1001000226014": 465,
+      "gas:candidate-vibid:377301370786": 54,
+      "gas:candidate-vibid:1001000136157": 70,
+      "gas:candidate-vibid:1001000121942": 143,
+      "special:against-all": 354
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=773013001&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=377301370529&region=0&sub_region=0&type=429",
@@ -12971,14 +12971,14 @@ export const duma_2003_uik_428_region_77_part_011 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Ковалев Вячеслав Валерьевич": 237,
-      "Лексаков Владимир Павлович": 22,
-      "Лутковский Александр Сергеевич": 21,
-      "Медведев Павел Алексеевич": 612,
-      "Орехов Андрей Васильевич": 50,
-      "Пономарев Юрий Анатольевич": 61,
-      "Черковец Олег Викторович": 120,
-      "Против всех": 316
+      "gas:candidate-vibid:1001000250033": 237,
+      "gas:candidate-vibid:1001000190457": 22,
+      "gas:candidate-vibid:1001000195172": 21,
+      "gas:candidate-vibid:1001000226014": 612,
+      "gas:candidate-vibid:377301370786": 50,
+      "gas:candidate-vibid:1001000136157": 61,
+      "gas:candidate-vibid:1001000121942": 120,
+      "special:against-all": 316
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=773013001&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=377301370529&region=0&sub_region=0&type=429",
@@ -13028,14 +13028,14 @@ export const duma_2003_uik_428_region_77_part_011 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Ковалев Вячеслав Валерьевич": 182,
-      "Лексаков Владимир Павлович": 17,
-      "Лутковский Александр Сергеевич": 16,
-      "Медведев Павел Алексеевич": 525,
-      "Орехов Андрей Васильевич": 39,
-      "Пономарев Юрий Анатольевич": 66,
-      "Черковец Олег Викторович": 96,
-      "Против всех": 312
+      "gas:candidate-vibid:1001000250033": 182,
+      "gas:candidate-vibid:1001000190457": 17,
+      "gas:candidate-vibid:1001000195172": 16,
+      "gas:candidate-vibid:1001000226014": 525,
+      "gas:candidate-vibid:377301370786": 39,
+      "gas:candidate-vibid:1001000136157": 66,
+      "gas:candidate-vibid:1001000121942": 96,
+      "special:against-all": 312
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=773013001&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=377301370529&region=0&sub_region=0&type=429",
@@ -13085,14 +13085,14 @@ export const duma_2003_uik_428_region_77_part_011 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Ковалев Вячеслав Валерьевич": 193,
-      "Лексаков Владимир Павлович": 20,
-      "Лутковский Александр Сергеевич": 20,
-      "Медведев Павел Алексеевич": 581,
-      "Орехов Андрей Васильевич": 31,
-      "Пономарев Юрий Анатольевич": 57,
-      "Черковец Олег Викторович": 55,
-      "Против всех": 283
+      "gas:candidate-vibid:1001000250033": 193,
+      "gas:candidate-vibid:1001000190457": 20,
+      "gas:candidate-vibid:1001000195172": 20,
+      "gas:candidate-vibid:1001000226014": 581,
+      "gas:candidate-vibid:377301370786": 31,
+      "gas:candidate-vibid:1001000136157": 57,
+      "gas:candidate-vibid:1001000121942": 55,
+      "special:against-all": 283
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=773013001&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=377301370529&region=0&sub_region=0&type=429",
@@ -13142,14 +13142,14 @@ export const duma_2003_uik_428_region_77_part_011 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Ковалев Вячеслав Валерьевич": 195,
-      "Лексаков Владимир Павлович": 11,
-      "Лутковский Александр Сергеевич": 20,
-      "Медведев Павел Алексеевич": 540,
-      "Орехов Андрей Васильевич": 34,
-      "Пономарев Юрий Анатольевич": 65,
-      "Черковец Олег Викторович": 138,
-      "Против всех": 213
+      "gas:candidate-vibid:1001000250033": 195,
+      "gas:candidate-vibid:1001000190457": 11,
+      "gas:candidate-vibid:1001000195172": 20,
+      "gas:candidate-vibid:1001000226014": 540,
+      "gas:candidate-vibid:377301370786": 34,
+      "gas:candidate-vibid:1001000136157": 65,
+      "gas:candidate-vibid:1001000121942": 138,
+      "special:against-all": 213
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=773013001&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=377301370529&region=0&sub_region=0&type=429",
@@ -13199,14 +13199,14 @@ export const duma_2003_uik_428_region_77_part_011 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Ковалев Вячеслав Валерьевич": 166,
-      "Лексаков Владимир Павлович": 17,
-      "Лутковский Александр Сергеевич": 19,
-      "Медведев Павел Алексеевич": 549,
-      "Орехов Андрей Васильевич": 22,
-      "Пономарев Юрий Анатольевич": 35,
-      "Черковец Олег Викторович": 51,
-      "Против всех": 241
+      "gas:candidate-vibid:1001000250033": 166,
+      "gas:candidate-vibid:1001000190457": 17,
+      "gas:candidate-vibid:1001000195172": 19,
+      "gas:candidate-vibid:1001000226014": 549,
+      "gas:candidate-vibid:377301370786": 22,
+      "gas:candidate-vibid:1001000136157": 35,
+      "gas:candidate-vibid:1001000121942": 51,
+      "special:against-all": 241
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=773013001&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=377301370529&region=0&sub_region=0&type=429",
@@ -13256,14 +13256,14 @@ export const duma_2003_uik_428_region_77_part_011 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Ковалев Вячеслав Валерьевич": 212,
-      "Лексаков Владимир Павлович": 20,
-      "Лутковский Александр Сергеевич": 14,
-      "Медведев Павел Алексеевич": 592,
-      "Орехов Андрей Васильевич": 30,
-      "Пономарев Юрий Анатольевич": 27,
-      "Черковец Олег Викторович": 67,
-      "Против всех": 285
+      "gas:candidate-vibid:1001000250033": 212,
+      "gas:candidate-vibid:1001000190457": 20,
+      "gas:candidate-vibid:1001000195172": 14,
+      "gas:candidate-vibid:1001000226014": 592,
+      "gas:candidate-vibid:377301370786": 30,
+      "gas:candidate-vibid:1001000136157": 27,
+      "gas:candidate-vibid:1001000121942": 67,
+      "special:against-all": 285
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=773013001&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=377301370529&region=0&sub_region=0&type=429",
@@ -13313,14 +13313,14 @@ export const duma_2003_uik_428_region_77_part_011 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Ковалев Вячеслав Валерьевич": 235,
-      "Лексаков Владимир Павлович": 25,
-      "Лутковский Александр Сергеевич": 9,
-      "Медведев Павел Алексеевич": 695,
-      "Орехов Андрей Васильевич": 27,
-      "Пономарев Юрий Анатольевич": 47,
-      "Черковец Олег Викторович": 149,
-      "Против всех": 306
+      "gas:candidate-vibid:1001000250033": 235,
+      "gas:candidate-vibid:1001000190457": 25,
+      "gas:candidate-vibid:1001000195172": 9,
+      "gas:candidate-vibid:1001000226014": 695,
+      "gas:candidate-vibid:377301370786": 27,
+      "gas:candidate-vibid:1001000136157": 47,
+      "gas:candidate-vibid:1001000121942": 149,
+      "special:against-all": 306
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=773013001&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=377301370529&region=0&sub_region=0&type=429",
@@ -13370,14 +13370,14 @@ export const duma_2003_uik_428_region_77_part_011 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Ковалев Вячеслав Валерьевич": 228,
-      "Лексаков Владимир Павлович": 24,
-      "Лутковский Александр Сергеевич": 20,
-      "Медведев Павел Алексеевич": 611,
-      "Орехов Андрей Васильевич": 41,
-      "Пономарев Юрий Анатольевич": 68,
-      "Черковец Олег Викторович": 127,
-      "Против всех": 357
+      "gas:candidate-vibid:1001000250033": 228,
+      "gas:candidate-vibid:1001000190457": 24,
+      "gas:candidate-vibid:1001000195172": 20,
+      "gas:candidate-vibid:1001000226014": 611,
+      "gas:candidate-vibid:377301370786": 41,
+      "gas:candidate-vibid:1001000136157": 68,
+      "gas:candidate-vibid:1001000121942": 127,
+      "special:against-all": 357
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=773013001&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=377301370529&region=0&sub_region=0&type=429",
@@ -13427,14 +13427,14 @@ export const duma_2003_uik_428_region_77_part_011 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Ковалев Вячеслав Валерьевич": 136,
-      "Лексаков Владимир Павлович": 10,
-      "Лутковский Александр Сергеевич": 19,
-      "Медведев Павел Алексеевич": 433,
-      "Орехов Андрей Васильевич": 24,
-      "Пономарев Юрий Анатольевич": 43,
-      "Черковец Олег Викторович": 54,
-      "Против всех": 210
+      "gas:candidate-vibid:1001000250033": 136,
+      "gas:candidate-vibid:1001000190457": 10,
+      "gas:candidate-vibid:1001000195172": 19,
+      "gas:candidate-vibid:1001000226014": 433,
+      "gas:candidate-vibid:377301370786": 24,
+      "gas:candidate-vibid:1001000136157": 43,
+      "gas:candidate-vibid:1001000121942": 54,
+      "special:against-all": 210
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=773013001&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=377301370529&region=0&sub_region=0&type=429",
@@ -13484,14 +13484,14 @@ export const duma_2003_uik_428_region_77_part_011 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Ковалев Вячеслав Валерьевич": 200,
-      "Лексаков Владимир Павлович": 18,
-      "Лутковский Александр Сергеевич": 19,
-      "Медведев Павел Алексеевич": 585,
-      "Орехов Андрей Васильевич": 42,
-      "Пономарев Юрий Анатольевич": 53,
-      "Черковец Олег Викторович": 58,
-      "Против всех": 281
+      "gas:candidate-vibid:1001000250033": 200,
+      "gas:candidate-vibid:1001000190457": 18,
+      "gas:candidate-vibid:1001000195172": 19,
+      "gas:candidate-vibid:1001000226014": 585,
+      "gas:candidate-vibid:377301370786": 42,
+      "gas:candidate-vibid:1001000136157": 53,
+      "gas:candidate-vibid:1001000121942": 58,
+      "special:against-all": 281
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=773013001&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=377301370529&region=0&sub_region=0&type=429",
@@ -13541,14 +13541,14 @@ export const duma_2003_uik_428_region_77_part_011 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Ковалев Вячеслав Валерьевич": 213,
-      "Лексаков Владимир Павлович": 14,
-      "Лутковский Александр Сергеевич": 11,
-      "Медведев Павел Алексеевич": 444,
-      "Орехов Андрей Васильевич": 40,
-      "Пономарев Юрий Анатольевич": 43,
-      "Черковец Олег Викторович": 105,
-      "Против всех": 215
+      "gas:candidate-vibid:1001000250033": 213,
+      "gas:candidate-vibid:1001000190457": 14,
+      "gas:candidate-vibid:1001000195172": 11,
+      "gas:candidate-vibid:1001000226014": 444,
+      "gas:candidate-vibid:377301370786": 40,
+      "gas:candidate-vibid:1001000136157": 43,
+      "gas:candidate-vibid:1001000121942": 105,
+      "special:against-all": 215
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=773013001&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=377301370529&region=0&sub_region=0&type=429",
@@ -13598,14 +13598,14 @@ export const duma_2003_uik_428_region_77_part_011 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Ковалев Вячеслав Валерьевич": 230,
-      "Лексаков Владимир Павлович": 26,
-      "Лутковский Александр Сергеевич": 22,
-      "Медведев Павел Алексеевич": 642,
-      "Орехов Андрей Васильевич": 32,
-      "Пономарев Юрий Анатольевич": 44,
-      "Черковец Олег Викторович": 124,
-      "Против всех": 318
+      "gas:candidate-vibid:1001000250033": 230,
+      "gas:candidate-vibid:1001000190457": 26,
+      "gas:candidate-vibid:1001000195172": 22,
+      "gas:candidate-vibid:1001000226014": 642,
+      "gas:candidate-vibid:377301370786": 32,
+      "gas:candidate-vibid:1001000136157": 44,
+      "gas:candidate-vibid:1001000121942": 124,
+      "special:against-all": 318
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=773013001&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=377301370529&region=0&sub_region=0&type=429",
@@ -13655,14 +13655,14 @@ export const duma_2003_uik_428_region_77_part_011 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Ковалев Вячеслав Валерьевич": 205,
-      "Лексаков Владимир Павлович": 20,
-      "Лутковский Александр Сергеевич": 14,
-      "Медведев Павел Алексеевич": 395,
-      "Орехов Андрей Васильевич": 43,
-      "Пономарев Юрий Анатольевич": 43,
-      "Черковец Олег Викторович": 79,
-      "Против всех": 230
+      "gas:candidate-vibid:1001000250033": 205,
+      "gas:candidate-vibid:1001000190457": 20,
+      "gas:candidate-vibid:1001000195172": 14,
+      "gas:candidate-vibid:1001000226014": 395,
+      "gas:candidate-vibid:377301370786": 43,
+      "gas:candidate-vibid:1001000136157": 43,
+      "gas:candidate-vibid:1001000121942": 79,
+      "special:against-all": 230
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=773013001&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=377301370529&region=0&sub_region=0&type=429",
@@ -13712,14 +13712,14 @@ export const duma_2003_uik_428_region_77_part_011 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Ковалев Вячеслав Валерьевич": 200,
-      "Лексаков Владимир Павлович": 19,
-      "Лутковский Александр Сергеевич": 24,
-      "Медведев Павел Алексеевич": 419,
-      "Орехов Андрей Васильевич": 41,
-      "Пономарев Юрий Анатольевич": 40,
-      "Черковец Олег Викторович": 110,
-      "Против всех": 287
+      "gas:candidate-vibid:1001000250033": 200,
+      "gas:candidate-vibid:1001000190457": 19,
+      "gas:candidate-vibid:1001000195172": 24,
+      "gas:candidate-vibid:1001000226014": 419,
+      "gas:candidate-vibid:377301370786": 41,
+      "gas:candidate-vibid:1001000136157": 40,
+      "gas:candidate-vibid:1001000121942": 110,
+      "special:against-all": 287
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=773013001&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=377301370529&region=0&sub_region=0&type=429",
@@ -13769,14 +13769,14 @@ export const duma_2003_uik_428_region_77_part_011 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Ковалев Вячеслав Валерьевич": 169,
-      "Лексаков Владимир Павлович": 18,
-      "Лутковский Александр Сергеевич": 14,
-      "Медведев Павел Алексеевич": 564,
-      "Орехов Андрей Васильевич": 44,
-      "Пономарев Юрий Анатольевич": 42,
-      "Черковец Олег Викторович": 87,
-      "Против всех": 282
+      "gas:candidate-vibid:1001000250033": 169,
+      "gas:candidate-vibid:1001000190457": 18,
+      "gas:candidate-vibid:1001000195172": 14,
+      "gas:candidate-vibid:1001000226014": 564,
+      "gas:candidate-vibid:377301370786": 44,
+      "gas:candidate-vibid:1001000136157": 42,
+      "gas:candidate-vibid:1001000121942": 87,
+      "special:against-all": 282
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=773013001&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=377301370529&region=0&sub_region=0&type=429",
@@ -13826,14 +13826,14 @@ export const duma_2003_uik_428_region_77_part_011 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Ковалев Вячеслав Валерьевич": 210,
-      "Лексаков Владимир Павлович": 18,
-      "Лутковский Александр Сергеевич": 11,
-      "Медведев Павел Алексеевич": 533,
-      "Орехов Андрей Васильевич": 33,
-      "Пономарев Юрий Анатольевич": 41,
-      "Черковец Олег Викторович": 84,
-      "Против всех": 281
+      "gas:candidate-vibid:1001000250033": 210,
+      "gas:candidate-vibid:1001000190457": 18,
+      "gas:candidate-vibid:1001000195172": 11,
+      "gas:candidate-vibid:1001000226014": 533,
+      "gas:candidate-vibid:377301370786": 33,
+      "gas:candidate-vibid:1001000136157": 41,
+      "gas:candidate-vibid:1001000121942": 84,
+      "special:against-all": 281
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=773013001&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=377301370529&region=0&sub_region=0&type=429",
@@ -13883,14 +13883,14 @@ export const duma_2003_uik_428_region_77_part_011 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Ковалев Вячеслав Валерьевич": 196,
-      "Лексаков Владимир Павлович": 5,
-      "Лутковский Александр Сергеевич": 14,
-      "Медведев Павел Алексеевич": 568,
-      "Орехов Андрей Васильевич": 28,
-      "Пономарев Юрий Анатольевич": 50,
-      "Черковец Олег Викторович": 87,
-      "Против всех": 254
+      "gas:candidate-vibid:1001000250033": 196,
+      "gas:candidate-vibid:1001000190457": 5,
+      "gas:candidate-vibid:1001000195172": 14,
+      "gas:candidate-vibid:1001000226014": 568,
+      "gas:candidate-vibid:377301370786": 28,
+      "gas:candidate-vibid:1001000136157": 50,
+      "gas:candidate-vibid:1001000121942": 87,
+      "special:against-all": 254
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=773013001&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=377301370529&region=0&sub_region=0&type=429",
@@ -13940,14 +13940,14 @@ export const duma_2003_uik_428_region_77_part_011 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Ковалев Вячеслав Валерьевич": 178,
-      "Лексаков Владимир Павлович": 20,
-      "Лутковский Александр Сергеевич": 14,
-      "Медведев Павел Алексеевич": 493,
-      "Орехов Андрей Васильевич": 38,
-      "Пономарев Юрий Анатольевич": 44,
-      "Черковец Олег Викторович": 89,
-      "Против всех": 245
+      "gas:candidate-vibid:1001000250033": 178,
+      "gas:candidate-vibid:1001000190457": 20,
+      "gas:candidate-vibid:1001000195172": 14,
+      "gas:candidate-vibid:1001000226014": 493,
+      "gas:candidate-vibid:377301370786": 38,
+      "gas:candidate-vibid:1001000136157": 44,
+      "gas:candidate-vibid:1001000121942": 89,
+      "special:against-all": 245
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=773013001&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=377301370529&region=0&sub_region=0&type=429",
@@ -13997,14 +13997,14 @@ export const duma_2003_uik_428_region_77_part_011 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Ковалев Вячеслав Валерьевич": 131,
-      "Лексаков Владимир Павлович": 8,
-      "Лутковский Александр Сергеевич": 17,
-      "Медведев Павел Алексеевич": 305,
-      "Орехов Андрей Васильевич": 35,
-      "Пономарев Юрий Анатольевич": 35,
-      "Черковец Олег Викторович": 72,
-      "Против всех": 199
+      "gas:candidate-vibid:1001000250033": 131,
+      "gas:candidate-vibid:1001000190457": 8,
+      "gas:candidate-vibid:1001000195172": 17,
+      "gas:candidate-vibid:1001000226014": 305,
+      "gas:candidate-vibid:377301370786": 35,
+      "gas:candidate-vibid:1001000136157": 35,
+      "gas:candidate-vibid:1001000121942": 72,
+      "special:against-all": 199
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=773013001&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=377301370529&region=0&sub_region=0&type=429",
@@ -14054,14 +14054,14 @@ export const duma_2003_uik_428_region_77_part_011 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Ковалев Вячеслав Валерьевич": 197,
-      "Лексаков Владимир Павлович": 14,
-      "Лутковский Александр Сергеевич": 14,
-      "Медведев Павел Алексеевич": 426,
-      "Орехов Андрей Васильевич": 50,
-      "Пономарев Юрий Анатольевич": 45,
-      "Черковец Олег Викторович": 131,
-      "Против всех": 218
+      "gas:candidate-vibid:1001000250033": 197,
+      "gas:candidate-vibid:1001000190457": 14,
+      "gas:candidate-vibid:1001000195172": 14,
+      "gas:candidate-vibid:1001000226014": 426,
+      "gas:candidate-vibid:377301370786": 50,
+      "gas:candidate-vibid:1001000136157": 45,
+      "gas:candidate-vibid:1001000121942": 131,
+      "special:against-all": 218
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=773013001&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=377301370529&region=0&sub_region=0&type=429",
@@ -14111,14 +14111,14 @@ export const duma_2003_uik_428_region_77_part_011 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Ковалев Вячеслав Валерьевич": 194,
-      "Лексаков Владимир Павлович": 16,
-      "Лутковский Александр Сергеевич": 24,
-      "Медведев Павел Алексеевич": 702,
-      "Орехов Андрей Васильевич": 38,
-      "Пономарев Юрий Анатольевич": 43,
-      "Черковец Олег Викторович": 103,
-      "Против всех": 268
+      "gas:candidate-vibid:1001000250033": 194,
+      "gas:candidate-vibid:1001000190457": 16,
+      "gas:candidate-vibid:1001000195172": 24,
+      "gas:candidate-vibid:1001000226014": 702,
+      "gas:candidate-vibid:377301370786": 38,
+      "gas:candidate-vibid:1001000136157": 43,
+      "gas:candidate-vibid:1001000121942": 103,
+      "special:against-all": 268
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=773013001&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=377301370529&region=0&sub_region=0&type=429",
@@ -14168,14 +14168,14 @@ export const duma_2003_uik_428_region_77_part_011 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Ковалев Вячеслав Валерьевич": 236,
-      "Лексаков Владимир Павлович": 16,
-      "Лутковский Александр Сергеевич": 30,
-      "Медведев Павел Алексеевич": 447,
-      "Орехов Андрей Васильевич": 34,
-      "Пономарев Юрий Анатольевич": 64,
-      "Черковец Олег Викторович": 83,
-      "Против всех": 301
+      "gas:candidate-vibid:1001000250033": 236,
+      "gas:candidate-vibid:1001000190457": 16,
+      "gas:candidate-vibid:1001000195172": 30,
+      "gas:candidate-vibid:1001000226014": 447,
+      "gas:candidate-vibid:377301370786": 34,
+      "gas:candidate-vibid:1001000136157": 64,
+      "gas:candidate-vibid:1001000121942": 83,
+      "special:against-all": 301
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=773013001&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=377301370529&region=0&sub_region=0&type=429",
@@ -14225,14 +14225,14 @@ export const duma_2003_uik_428_region_77_part_011 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Ковалев Вячеслав Валерьевич": 309,
-      "Лексаков Владимир Павлович": 15,
-      "Лутковский Александр Сергеевич": 19,
-      "Медведев Павел Алексеевич": 498,
-      "Орехов Андрей Васильевич": 46,
-      "Пономарев Юрий Анатольевич": 60,
-      "Черковец Олег Викторович": 100,
-      "Против всех": 325
+      "gas:candidate-vibid:1001000250033": 309,
+      "gas:candidate-vibid:1001000190457": 15,
+      "gas:candidate-vibid:1001000195172": 19,
+      "gas:candidate-vibid:1001000226014": 498,
+      "gas:candidate-vibid:377301370786": 46,
+      "gas:candidate-vibid:1001000136157": 60,
+      "gas:candidate-vibid:1001000121942": 100,
+      "special:against-all": 325
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=773013001&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=377301370529&region=0&sub_region=0&type=429",
@@ -14282,14 +14282,14 @@ export const duma_2003_uik_428_region_77_part_011 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Ковалев Вячеслав Валерьевич": 230,
-      "Лексаков Владимир Павлович": 17,
-      "Лутковский Александр Сергеевич": 27,
-      "Медведев Павел Алексеевич": 361,
-      "Орехов Андрей Васильевич": 39,
-      "Пономарев Юрий Анатольевич": 44,
-      "Черковец Олег Викторович": 137,
-      "Против всех": 236
+      "gas:candidate-vibid:1001000250033": 230,
+      "gas:candidate-vibid:1001000190457": 17,
+      "gas:candidate-vibid:1001000195172": 27,
+      "gas:candidate-vibid:1001000226014": 361,
+      "gas:candidate-vibid:377301370786": 39,
+      "gas:candidate-vibid:1001000136157": 44,
+      "gas:candidate-vibid:1001000121942": 137,
+      "special:against-all": 236
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=773013001&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=377301370529&region=0&sub_region=0&type=429",
@@ -14339,14 +14339,14 @@ export const duma_2003_uik_428_region_77_part_011 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Ковалев Вячеслав Валерьевич": 277,
-      "Лексаков Владимир Павлович": 15,
-      "Лутковский Александр Сергеевич": 11,
-      "Медведев Павел Алексеевич": 574,
-      "Орехов Андрей Васильевич": 35,
-      "Пономарев Юрий Анатольевич": 42,
-      "Черковец Олег Викторович": 54,
-      "Против всех": 315
+      "gas:candidate-vibid:1001000250033": 277,
+      "gas:candidate-vibid:1001000190457": 15,
+      "gas:candidate-vibid:1001000195172": 11,
+      "gas:candidate-vibid:1001000226014": 574,
+      "gas:candidate-vibid:377301370786": 35,
+      "gas:candidate-vibid:1001000136157": 42,
+      "gas:candidate-vibid:1001000121942": 54,
+      "special:against-all": 315
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=773013001&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=377301370529&region=0&sub_region=0&type=429",
@@ -14396,14 +14396,14 @@ export const duma_2003_uik_428_region_77_part_011 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Ковалев Вячеслав Валерьевич": 196,
-      "Лексаков Владимир Павлович": 31,
-      "Лутковский Александр Сергеевич": 27,
-      "Медведев Павел Алексеевич": 636,
-      "Орехов Андрей Васильевич": 49,
-      "Пономарев Юрий Анатольевич": 78,
-      "Черковец Олег Викторович": 142,
-      "Против всех": 374
+      "gas:candidate-vibid:1001000250033": 196,
+      "gas:candidate-vibid:1001000190457": 31,
+      "gas:candidate-vibid:1001000195172": 27,
+      "gas:candidate-vibid:1001000226014": 636,
+      "gas:candidate-vibid:377301370786": 49,
+      "gas:candidate-vibid:1001000136157": 78,
+      "gas:candidate-vibid:1001000121942": 142,
+      "special:against-all": 374
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=773013001&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=377301370529&region=0&sub_region=0&type=429",
@@ -14453,14 +14453,14 @@ export const duma_2003_uik_428_region_77_part_011 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Ковалев Вячеслав Валерьевич": 146,
-      "Лексаков Владимир Павлович": 20,
-      "Лутковский Александр Сергеевич": 10,
-      "Медведев Павел Алексеевич": 514,
-      "Орехов Андрей Васильевич": 31,
-      "Пономарев Юрий Анатольевич": 44,
-      "Черковец Олег Викторович": 81,
-      "Против всех": 207
+      "gas:candidate-vibid:1001000250033": 146,
+      "gas:candidate-vibid:1001000190457": 20,
+      "gas:candidate-vibid:1001000195172": 10,
+      "gas:candidate-vibid:1001000226014": 514,
+      "gas:candidate-vibid:377301370786": 31,
+      "gas:candidate-vibid:1001000136157": 44,
+      "gas:candidate-vibid:1001000121942": 81,
+      "special:against-all": 207
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=773013001&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=377301370529&region=0&sub_region=0&type=429",

@@ -43,15 +43,15 @@ export const duma_2016_uik_463_region_23_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Благодаров Александр Александрович": 34,
-      "Высич Александр Николаевич": 100,
-      "Гусейнова Виктория Сергеевна": 51,
-      "Дворников Денис Владимирович": 20,
-      "Закипнев Сергей Сергеевич": 50,
-      "Овечкин Андрей Владимирович": 75,
-      "Поздеев Евгений Любомирович": 11,
-      "Фролов Андрей Андреевич": 113,
-      "Харитонов Николай Михайлович": 200
+      "gas:candidate-vibid:4234003222496": 34,
+      "gas:candidate-vibid:4234003207414": 100,
+      "gas:candidate-vibid:4234003222274": 51,
+      "gas:candidate-vibid:4234003222873": 20,
+      "gas:candidate-vibid:4234003222689": 50,
+      "gas:candidate-vibid:4234003222419": 75,
+      "gas:candidate-vibid:4234003222625": 11,
+      "gas:candidate-vibid:4234003222198": 113,
+      "gas:candidate-vibid:4234003222353": 200
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/krasnodar?action=show&root=1000069&tvd=4234003206812&vrn=100100067795849&region=23&global=&sub_region=23&prver=0&pronetvd=null&vibid=4234003206812&type=464",
@@ -102,15 +102,15 @@ export const duma_2016_uik_463_region_23_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Благодаров Александр Александрович": 38,
-      "Высич Александр Николаевич": 158,
-      "Гусейнова Виктория Сергеевна": 56,
-      "Дворников Денис Владимирович": 24,
-      "Закипнев Сергей Сергеевич": 58,
-      "Овечкин Андрей Владимирович": 132,
-      "Поздеев Евгений Любомирович": 25,
-      "Фролов Андрей Андреевич": 151,
-      "Харитонов Николай Михайлович": 317
+      "gas:candidate-vibid:4234003222496": 38,
+      "gas:candidate-vibid:4234003207414": 158,
+      "gas:candidate-vibid:4234003222274": 56,
+      "gas:candidate-vibid:4234003222873": 24,
+      "gas:candidate-vibid:4234003222689": 58,
+      "gas:candidate-vibid:4234003222419": 132,
+      "gas:candidate-vibid:4234003222625": 25,
+      "gas:candidate-vibid:4234003222198": 151,
+      "gas:candidate-vibid:4234003222353": 317
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/krasnodar?action=show&root=1000069&tvd=4234003206812&vrn=100100067795849&region=23&global=&sub_region=23&prver=0&pronetvd=null&vibid=4234003206812&type=464",
@@ -161,15 +161,15 @@ export const duma_2016_uik_463_region_23_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Благодаров Александр Александрович": 33,
-      "Высич Александр Николаевич": 77,
-      "Гусейнова Виктория Сергеевна": 52,
-      "Дворников Денис Владимирович": 21,
-      "Закипнев Сергей Сергеевич": 25,
-      "Овечкин Андрей Владимирович": 41,
-      "Поздеев Евгений Любомирович": 3,
-      "Фролов Андрей Андреевич": 139,
-      "Харитонов Николай Михайлович": 183
+      "gas:candidate-vibid:4234003222496": 33,
+      "gas:candidate-vibid:4234003207414": 77,
+      "gas:candidate-vibid:4234003222274": 52,
+      "gas:candidate-vibid:4234003222873": 21,
+      "gas:candidate-vibid:4234003222689": 25,
+      "gas:candidate-vibid:4234003222419": 41,
+      "gas:candidate-vibid:4234003222625": 3,
+      "gas:candidate-vibid:4234003222198": 139,
+      "gas:candidate-vibid:4234003222353": 183
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/krasnodar?action=show&root=1000069&tvd=4234003206812&vrn=100100067795849&region=23&global=&sub_region=23&prver=0&pronetvd=null&vibid=4234003206812&type=464",
@@ -220,15 +220,15 @@ export const duma_2016_uik_463_region_23_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Благодаров Александр Александрович": 34,
-      "Высич Александр Николаевич": 65,
-      "Гусейнова Виктория Сергеевна": 74,
-      "Дворников Денис Владимирович": 30,
-      "Закипнев Сергей Сергеевич": 48,
-      "Овечкин Андрей Владимирович": 89,
-      "Поздеев Евгений Любомирович": 11,
-      "Фролов Андрей Андреевич": 114,
-      "Харитонов Николай Михайлович": 277
+      "gas:candidate-vibid:4234003222496": 34,
+      "gas:candidate-vibid:4234003207414": 65,
+      "gas:candidate-vibid:4234003222274": 74,
+      "gas:candidate-vibid:4234003222873": 30,
+      "gas:candidate-vibid:4234003222689": 48,
+      "gas:candidate-vibid:4234003222419": 89,
+      "gas:candidate-vibid:4234003222625": 11,
+      "gas:candidate-vibid:4234003222198": 114,
+      "gas:candidate-vibid:4234003222353": 277
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/krasnodar?action=show&root=1000069&tvd=4234003206812&vrn=100100067795849&region=23&global=&sub_region=23&prver=0&pronetvd=null&vibid=4234003206812&type=464",
@@ -279,15 +279,15 @@ export const duma_2016_uik_463_region_23_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Благодаров Александр Александрович": 8,
-      "Высич Александр Николаевич": 27,
-      "Гусейнова Виктория Сергеевна": 12,
-      "Дворников Денис Владимирович": 6,
-      "Закипнев Сергей Сергеевич": 9,
-      "Овечкин Андрей Владимирович": 15,
-      "Поздеев Евгений Любомирович": 1,
-      "Фролов Андрей Андреевич": 42,
-      "Харитонов Николай Михайлович": 79
+      "gas:candidate-vibid:4234003222496": 8,
+      "gas:candidate-vibid:4234003207414": 27,
+      "gas:candidate-vibid:4234003222274": 12,
+      "gas:candidate-vibid:4234003222873": 6,
+      "gas:candidate-vibid:4234003222689": 9,
+      "gas:candidate-vibid:4234003222419": 15,
+      "gas:candidate-vibid:4234003222625": 1,
+      "gas:candidate-vibid:4234003222198": 42,
+      "gas:candidate-vibid:4234003222353": 79
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/krasnodar?action=show&root=1000069&tvd=4234003206812&vrn=100100067795849&region=23&global=&sub_region=23&prver=0&pronetvd=null&vibid=4234003206812&type=464",
@@ -338,15 +338,15 @@ export const duma_2016_uik_463_region_23_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Благодаров Александр Александрович": 16,
-      "Высич Александр Николаевич": 42,
-      "Гусейнова Виктория Сергеевна": 25,
-      "Дворников Денис Владимирович": 15,
-      "Закипнев Сергей Сергеевич": 15,
-      "Овечкин Андрей Владимирович": 33,
-      "Поздеев Евгений Любомирович": 5,
-      "Фролов Андрей Андреевич": 205,
-      "Харитонов Николай Михайлович": 308
+      "gas:candidate-vibid:4234003222496": 16,
+      "gas:candidate-vibid:4234003207414": 42,
+      "gas:candidate-vibid:4234003222274": 25,
+      "gas:candidate-vibid:4234003222873": 15,
+      "gas:candidate-vibid:4234003222689": 15,
+      "gas:candidate-vibid:4234003222419": 33,
+      "gas:candidate-vibid:4234003222625": 5,
+      "gas:candidate-vibid:4234003222198": 205,
+      "gas:candidate-vibid:4234003222353": 308
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/krasnodar?action=show&root=1000069&tvd=4234003206812&vrn=100100067795849&region=23&global=&sub_region=23&prver=0&pronetvd=null&vibid=4234003206812&type=464",
@@ -397,15 +397,15 @@ export const duma_2016_uik_463_region_23_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Благодаров Александр Александрович": 19,
-      "Высич Александр Николаевич": 52,
-      "Гусейнова Виктория Сергеевна": 32,
-      "Дворников Денис Владимирович": 14,
-      "Закипнев Сергей Сергеевич": 29,
-      "Овечкин Андрей Владимирович": 25,
-      "Поздеев Евгений Любомирович": 7,
-      "Фролов Андрей Андреевич": 105,
-      "Харитонов Николай Михайлович": 438
+      "gas:candidate-vibid:4234003222496": 19,
+      "gas:candidate-vibid:4234003207414": 52,
+      "gas:candidate-vibid:4234003222274": 32,
+      "gas:candidate-vibid:4234003222873": 14,
+      "gas:candidate-vibid:4234003222689": 29,
+      "gas:candidate-vibid:4234003222419": 25,
+      "gas:candidate-vibid:4234003222625": 7,
+      "gas:candidate-vibid:4234003222198": 105,
+      "gas:candidate-vibid:4234003222353": 438
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/krasnodar?action=show&root=1000069&tvd=4234003206812&vrn=100100067795849&region=23&global=&sub_region=23&prver=0&pronetvd=null&vibid=4234003206812&type=464",
@@ -456,15 +456,15 @@ export const duma_2016_uik_463_region_23_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Благодаров Александр Александрович": 8,
-      "Высич Александр Николаевич": 26,
-      "Гусейнова Виктория Сергеевна": 17,
-      "Дворников Денис Владимирович": 9,
-      "Закипнев Сергей Сергеевич": 16,
-      "Овечкин Андрей Владимирович": 6,
-      "Поздеев Евгений Любомирович": 5,
-      "Фролов Андрей Андреевич": 341,
-      "Харитонов Николай Михайлович": 402
+      "gas:candidate-vibid:4234003222496": 8,
+      "gas:candidate-vibid:4234003207414": 26,
+      "gas:candidate-vibid:4234003222274": 17,
+      "gas:candidate-vibid:4234003222873": 9,
+      "gas:candidate-vibid:4234003222689": 16,
+      "gas:candidate-vibid:4234003222419": 6,
+      "gas:candidate-vibid:4234003222625": 5,
+      "gas:candidate-vibid:4234003222198": 341,
+      "gas:candidate-vibid:4234003222353": 402
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/krasnodar?action=show&root=1000069&tvd=4234003206812&vrn=100100067795849&region=23&global=&sub_region=23&prver=0&pronetvd=null&vibid=4234003206812&type=464",
@@ -515,15 +515,15 @@ export const duma_2016_uik_463_region_23_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Благодаров Александр Александрович": 28,
-      "Высич Александр Николаевич": 44,
-      "Гусейнова Виктория Сергеевна": 22,
-      "Дворников Денис Владимирович": 15,
-      "Закипнев Сергей Сергеевич": 17,
-      "Овечкин Андрей Владимирович": 40,
-      "Поздеев Евгений Любомирович": 18,
-      "Фролов Андрей Андреевич": 110,
-      "Харитонов Николай Михайлович": 237
+      "gas:candidate-vibid:4234003222496": 28,
+      "gas:candidate-vibid:4234003207414": 44,
+      "gas:candidate-vibid:4234003222274": 22,
+      "gas:candidate-vibid:4234003222873": 15,
+      "gas:candidate-vibid:4234003222689": 17,
+      "gas:candidate-vibid:4234003222419": 40,
+      "gas:candidate-vibid:4234003222625": 18,
+      "gas:candidate-vibid:4234003222198": 110,
+      "gas:candidate-vibid:4234003222353": 237
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/krasnodar?action=show&root=1000069&tvd=4234003206812&vrn=100100067795849&region=23&global=&sub_region=23&prver=0&pronetvd=null&vibid=4234003206812&type=464",
@@ -574,15 +574,15 @@ export const duma_2016_uik_463_region_23_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Благодаров Александр Александрович": 9,
-      "Высич Александр Николаевич": 37,
-      "Гусейнова Виктория Сергеевна": 18,
-      "Дворников Денис Владимирович": 7,
-      "Закипнев Сергей Сергеевич": 3,
-      "Овечкин Андрей Владимирович": 54,
-      "Поздеев Евгений Любомирович": 3,
-      "Фролов Андрей Андреевич": 57,
-      "Харитонов Николай Михайлович": 85
+      "gas:candidate-vibid:4234003222496": 9,
+      "gas:candidate-vibid:4234003207414": 37,
+      "gas:candidate-vibid:4234003222274": 18,
+      "gas:candidate-vibid:4234003222873": 7,
+      "gas:candidate-vibid:4234003222689": 3,
+      "gas:candidate-vibid:4234003222419": 54,
+      "gas:candidate-vibid:4234003222625": 3,
+      "gas:candidate-vibid:4234003222198": 57,
+      "gas:candidate-vibid:4234003222353": 85
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/krasnodar?action=show&root=1000069&tvd=4234003206812&vrn=100100067795849&region=23&global=&sub_region=23&prver=0&pronetvd=null&vibid=4234003206812&type=464",
@@ -633,15 +633,15 @@ export const duma_2016_uik_463_region_23_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Благодаров Александр Александрович": 19,
-      "Высич Александр Николаевич": 91,
-      "Гусейнова Виктория Сергеевна": 54,
-      "Дворников Денис Владимирович": 9,
-      "Закипнев Сергей Сергеевич": 16,
-      "Овечкин Андрей Владимирович": 67,
-      "Поздеев Евгений Любомирович": 4,
-      "Фролов Андрей Андреевич": 111,
-      "Харитонов Николай Михайлович": 355
+      "gas:candidate-vibid:4234003222496": 19,
+      "gas:candidate-vibid:4234003207414": 91,
+      "gas:candidate-vibid:4234003222274": 54,
+      "gas:candidate-vibid:4234003222873": 9,
+      "gas:candidate-vibid:4234003222689": 16,
+      "gas:candidate-vibid:4234003222419": 67,
+      "gas:candidate-vibid:4234003222625": 4,
+      "gas:candidate-vibid:4234003222198": 111,
+      "gas:candidate-vibid:4234003222353": 355
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/krasnodar?action=show&root=1000069&tvd=4234003206812&vrn=100100067795849&region=23&global=&sub_region=23&prver=0&pronetvd=null&vibid=4234003206812&type=464",
@@ -692,15 +692,15 @@ export const duma_2016_uik_463_region_23_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Благодаров Александр Александрович": 48,
-      "Высич Александр Николаевич": 67,
-      "Гусейнова Виктория Сергеевна": 64,
-      "Дворников Денис Владимирович": 33,
-      "Закипнев Сергей Сергеевич": 51,
-      "Овечкин Андрей Владимирович": 107,
-      "Поздеев Евгений Любомирович": 9,
-      "Фролов Андрей Андреевич": 182,
-      "Харитонов Николай Михайлович": 297
+      "gas:candidate-vibid:4234003222496": 48,
+      "gas:candidate-vibid:4234003207414": 67,
+      "gas:candidate-vibid:4234003222274": 64,
+      "gas:candidate-vibid:4234003222873": 33,
+      "gas:candidate-vibid:4234003222689": 51,
+      "gas:candidate-vibid:4234003222419": 107,
+      "gas:candidate-vibid:4234003222625": 9,
+      "gas:candidate-vibid:4234003222198": 182,
+      "gas:candidate-vibid:4234003222353": 297
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/krasnodar?action=show&root=1000069&tvd=4234003206812&vrn=100100067795849&region=23&global=&sub_region=23&prver=0&pronetvd=null&vibid=4234003206812&type=464",
@@ -751,15 +751,15 @@ export const duma_2016_uik_463_region_23_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Благодаров Александр Александрович": 5,
-      "Высич Александр Николаевич": 3,
-      "Гусейнова Виктория Сергеевна": 12,
-      "Дворников Денис Владимирович": 5,
-      "Закипнев Сергей Сергеевич": 3,
-      "Овечкин Андрей Владимирович": 15,
-      "Поздеев Евгений Любомирович": 1,
-      "Фролов Андрей Андреевич": 277,
-      "Харитонов Николай Михайлович": 248
+      "gas:candidate-vibid:4234003222496": 5,
+      "gas:candidate-vibid:4234003207414": 3,
+      "gas:candidate-vibid:4234003222274": 12,
+      "gas:candidate-vibid:4234003222873": 5,
+      "gas:candidate-vibid:4234003222689": 3,
+      "gas:candidate-vibid:4234003222419": 15,
+      "gas:candidate-vibid:4234003222625": 1,
+      "gas:candidate-vibid:4234003222198": 277,
+      "gas:candidate-vibid:4234003222353": 248
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/krasnodar?action=show&root=1000069&tvd=4234003206812&vrn=100100067795849&region=23&global=&sub_region=23&prver=0&pronetvd=null&vibid=4234003206812&type=464",
@@ -810,15 +810,15 @@ export const duma_2016_uik_463_region_23_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Благодаров Александр Александрович": 10,
-      "Высич Александр Николаевич": 42,
-      "Гусейнова Виктория Сергеевна": 34,
-      "Дворников Денис Владимирович": 1,
-      "Закипнев Сергей Сергеевич": 4,
-      "Овечкин Андрей Владимирович": 16,
-      "Поздеев Евгений Любомирович": 6,
-      "Фролов Андрей Андреевич": 144,
-      "Харитонов Николай Михайлович": 86
+      "gas:candidate-vibid:4234003222496": 10,
+      "gas:candidate-vibid:4234003207414": 42,
+      "gas:candidate-vibid:4234003222274": 34,
+      "gas:candidate-vibid:4234003222873": 1,
+      "gas:candidate-vibid:4234003222689": 4,
+      "gas:candidate-vibid:4234003222419": 16,
+      "gas:candidate-vibid:4234003222625": 6,
+      "gas:candidate-vibid:4234003222198": 144,
+      "gas:candidate-vibid:4234003222353": 86
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/krasnodar?action=show&root=1000069&tvd=4234003206812&vrn=100100067795849&region=23&global=&sub_region=23&prver=0&pronetvd=null&vibid=4234003206812&type=464",
@@ -869,15 +869,15 @@ export const duma_2016_uik_463_region_23_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Благодаров Александр Александрович": 7,
-      "Высич Александр Николаевич": 18,
-      "Гусейнова Виктория Сергеевна": 9,
-      "Дворников Денис Владимирович": 7,
-      "Закипнев Сергей Сергеевич": 3,
-      "Овечкин Андрей Владимирович": 22,
-      "Поздеев Евгений Любомирович": 2,
-      "Фролов Андрей Андреевич": 42,
-      "Харитонов Николай Михайлович": 39
+      "gas:candidate-vibid:4234003222496": 7,
+      "gas:candidate-vibid:4234003207414": 18,
+      "gas:candidate-vibid:4234003222274": 9,
+      "gas:candidate-vibid:4234003222873": 7,
+      "gas:candidate-vibid:4234003222689": 3,
+      "gas:candidate-vibid:4234003222419": 22,
+      "gas:candidate-vibid:4234003222625": 2,
+      "gas:candidate-vibid:4234003222198": 42,
+      "gas:candidate-vibid:4234003222353": 39
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/krasnodar?action=show&root=1000069&tvd=4234003206812&vrn=100100067795849&region=23&global=&sub_region=23&prver=0&pronetvd=null&vibid=4234003206812&type=464",
@@ -928,15 +928,15 @@ export const duma_2016_uik_463_region_23_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Благодаров Александр Александрович": 8,
-      "Высич Александр Николаевич": 30,
-      "Гусейнова Виктория Сергеевна": 24,
-      "Дворников Денис Владимирович": 7,
-      "Закипнев Сергей Сергеевич": 3,
-      "Овечкин Андрей Владимирович": 16,
-      "Поздеев Евгений Любомирович": 5,
-      "Фролов Андрей Андреевич": 58,
-      "Харитонов Николай Михайлович": 88
+      "gas:candidate-vibid:4234003222496": 8,
+      "gas:candidate-vibid:4234003207414": 30,
+      "gas:candidate-vibid:4234003222274": 24,
+      "gas:candidate-vibid:4234003222873": 7,
+      "gas:candidate-vibid:4234003222689": 3,
+      "gas:candidate-vibid:4234003222419": 16,
+      "gas:candidate-vibid:4234003222625": 5,
+      "gas:candidate-vibid:4234003222198": 58,
+      "gas:candidate-vibid:4234003222353": 88
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/krasnodar?action=show&root=1000069&tvd=4234003206812&vrn=100100067795849&region=23&global=&sub_region=23&prver=0&pronetvd=null&vibid=4234003206812&type=464",
@@ -987,15 +987,15 @@ export const duma_2016_uik_463_region_23_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Благодаров Александр Александрович": 38,
-      "Высич Александр Николаевич": 118,
-      "Гусейнова Виктория Сергеевна": 53,
-      "Дворников Денис Владимирович": 48,
-      "Закипнев Сергей Сергеевич": 60,
-      "Овечкин Андрей Владимирович": 86,
-      "Поздеев Евгений Любомирович": 7,
-      "Фролов Андрей Андреевич": 93,
-      "Харитонов Николай Михайлович": 669
+      "gas:candidate-vibid:4234003222496": 38,
+      "gas:candidate-vibid:4234003207414": 118,
+      "gas:candidate-vibid:4234003222274": 53,
+      "gas:candidate-vibid:4234003222873": 48,
+      "gas:candidate-vibid:4234003222689": 60,
+      "gas:candidate-vibid:4234003222419": 86,
+      "gas:candidate-vibid:4234003222625": 7,
+      "gas:candidate-vibid:4234003222198": 93,
+      "gas:candidate-vibid:4234003222353": 669
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/krasnodar?action=show&root=1000069&tvd=4234003206812&vrn=100100067795849&region=23&global=&sub_region=23&prver=0&pronetvd=null&vibid=4234003206812&type=464",
@@ -1046,15 +1046,15 @@ export const duma_2016_uik_463_region_23_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Благодаров Александр Александрович": 17,
-      "Высич Александр Николаевич": 81,
-      "Гусейнова Виктория Сергеевна": 29,
-      "Дворников Денис Владимирович": 9,
-      "Закипнев Сергей Сергеевич": 119,
-      "Овечкин Андрей Владимирович": 38,
-      "Поздеев Евгений Любомирович": 7,
-      "Фролов Андрей Андреевич": 80,
-      "Харитонов Николай Михайлович": 332
+      "gas:candidate-vibid:4234003222496": 17,
+      "gas:candidate-vibid:4234003207414": 81,
+      "gas:candidate-vibid:4234003222274": 29,
+      "gas:candidate-vibid:4234003222873": 9,
+      "gas:candidate-vibid:4234003222689": 119,
+      "gas:candidate-vibid:4234003222419": 38,
+      "gas:candidate-vibid:4234003222625": 7,
+      "gas:candidate-vibid:4234003222198": 80,
+      "gas:candidate-vibid:4234003222353": 332
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/krasnodar?action=show&root=1000069&tvd=4234003206812&vrn=100100067795849&region=23&global=&sub_region=23&prver=0&pronetvd=null&vibid=4234003206812&type=464",
@@ -1105,15 +1105,15 @@ export const duma_2016_uik_463_region_23_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Благодаров Александр Александрович": 3,
-      "Высич Александр Николаевич": 16,
-      "Гусейнова Виктория Сергеевна": 8,
-      "Дворников Денис Владимирович": 3,
-      "Закипнев Сергей Сергеевич": 5,
-      "Овечкин Андрей Владимирович": 6,
-      "Поздеев Евгений Любомирович": 0,
-      "Фролов Андрей Андреевич": 17,
-      "Харитонов Николай Михайлович": 76
+      "gas:candidate-vibid:4234003222496": 3,
+      "gas:candidate-vibid:4234003207414": 16,
+      "gas:candidate-vibid:4234003222274": 8,
+      "gas:candidate-vibid:4234003222873": 3,
+      "gas:candidate-vibid:4234003222689": 5,
+      "gas:candidate-vibid:4234003222419": 6,
+      "gas:candidate-vibid:4234003222625": 0,
+      "gas:candidate-vibid:4234003222198": 17,
+      "gas:candidate-vibid:4234003222353": 76
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/krasnodar?action=show&root=1000069&tvd=4234003206812&vrn=100100067795849&region=23&global=&sub_region=23&prver=0&pronetvd=null&vibid=4234003206812&type=464",
@@ -1164,15 +1164,15 @@ export const duma_2016_uik_463_region_23_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Благодаров Александр Александрович": 41,
-      "Высич Александр Николаевич": 91,
-      "Гусейнова Виктория Сергеевна": 36,
-      "Дворников Денис Владимирович": 11,
-      "Закипнев Сергей Сергеевич": 24,
-      "Овечкин Андрей Владимирович": 48,
-      "Поздеев Евгений Любомирович": 9,
-      "Фролов Андрей Андреевич": 146,
-      "Харитонов Николай Михайлович": 341
+      "gas:candidate-vibid:4234003222496": 41,
+      "gas:candidate-vibid:4234003207414": 91,
+      "gas:candidate-vibid:4234003222274": 36,
+      "gas:candidate-vibid:4234003222873": 11,
+      "gas:candidate-vibid:4234003222689": 24,
+      "gas:candidate-vibid:4234003222419": 48,
+      "gas:candidate-vibid:4234003222625": 9,
+      "gas:candidate-vibid:4234003222198": 146,
+      "gas:candidate-vibid:4234003222353": 341
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/krasnodar?action=show&root=1000069&tvd=4234003206812&vrn=100100067795849&region=23&global=&sub_region=23&prver=0&pronetvd=null&vibid=4234003206812&type=464",
@@ -1223,15 +1223,15 @@ export const duma_2016_uik_463_region_23_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Благодаров Александр Александрович": 10,
-      "Высич Александр Николаевич": 21,
-      "Гусейнова Виктория Сергеевна": 18,
-      "Дворников Денис Владимирович": 5,
-      "Закипнев Сергей Сергеевич": 10,
-      "Овечкин Андрей Владимирович": 23,
-      "Поздеев Евгений Любомирович": 5,
-      "Фролов Андрей Андреевич": 39,
-      "Харитонов Николай Михайлович": 180
+      "gas:candidate-vibid:4234003222496": 10,
+      "gas:candidate-vibid:4234003207414": 21,
+      "gas:candidate-vibid:4234003222274": 18,
+      "gas:candidate-vibid:4234003222873": 5,
+      "gas:candidate-vibid:4234003222689": 10,
+      "gas:candidate-vibid:4234003222419": 23,
+      "gas:candidate-vibid:4234003222625": 5,
+      "gas:candidate-vibid:4234003222198": 39,
+      "gas:candidate-vibid:4234003222353": 180
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/krasnodar?action=show&root=1000069&tvd=4234003206812&vrn=100100067795849&region=23&global=&sub_region=23&prver=0&pronetvd=null&vibid=4234003206812&type=464",
@@ -1282,15 +1282,15 @@ export const duma_2016_uik_463_region_23_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Благодаров Александр Александрович": 21,
-      "Высич Александр Николаевич": 32,
-      "Гусейнова Виктория Сергеевна": 22,
-      "Дворников Денис Владимирович": 14,
-      "Закипнев Сергей Сергеевич": 11,
-      "Овечкин Андрей Владимирович": 29,
-      "Поздеев Евгений Любомирович": 4,
-      "Фролов Андрей Андреевич": 24,
-      "Харитонов Николай Михайлович": 141
+      "gas:candidate-vibid:4234003222496": 21,
+      "gas:candidate-vibid:4234003207414": 32,
+      "gas:candidate-vibid:4234003222274": 22,
+      "gas:candidate-vibid:4234003222873": 14,
+      "gas:candidate-vibid:4234003222689": 11,
+      "gas:candidate-vibid:4234003222419": 29,
+      "gas:candidate-vibid:4234003222625": 4,
+      "gas:candidate-vibid:4234003222198": 24,
+      "gas:candidate-vibid:4234003222353": 141
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/krasnodar?action=show&root=1000069&tvd=4234003206812&vrn=100100067795849&region=23&global=&sub_region=23&prver=0&pronetvd=null&vibid=4234003206812&type=464",
@@ -1341,15 +1341,15 @@ export const duma_2016_uik_463_region_23_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Благодаров Александр Александрович": 10,
-      "Высич Александр Николаевич": 15,
-      "Гусейнова Виктория Сергеевна": 13,
-      "Дворников Денис Владимирович": 4,
-      "Закипнев Сергей Сергеевич": 7,
-      "Овечкин Андрей Владимирович": 13,
-      "Поздеев Евгений Любомирович": 0,
-      "Фролов Андрей Андреевич": 9,
-      "Харитонов Николай Михайлович": 100
+      "gas:candidate-vibid:4234003222496": 10,
+      "gas:candidate-vibid:4234003207414": 15,
+      "gas:candidate-vibid:4234003222274": 13,
+      "gas:candidate-vibid:4234003222873": 4,
+      "gas:candidate-vibid:4234003222689": 7,
+      "gas:candidate-vibid:4234003222419": 13,
+      "gas:candidate-vibid:4234003222625": 0,
+      "gas:candidate-vibid:4234003222198": 9,
+      "gas:candidate-vibid:4234003222353": 100
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/krasnodar?action=show&root=1000069&tvd=4234003206812&vrn=100100067795849&region=23&global=&sub_region=23&prver=0&pronetvd=null&vibid=4234003206812&type=464",
@@ -1400,15 +1400,15 @@ export const duma_2016_uik_463_region_23_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Благодаров Александр Александрович": 3,
-      "Высич Александр Николаевич": 11,
-      "Гусейнова Виктория Сергеевна": 11,
-      "Дворников Денис Владимирович": 4,
-      "Закипнев Сергей Сергеевич": 12,
-      "Овечкин Андрей Владимирович": 15,
-      "Поздеев Евгений Любомирович": 3,
-      "Фролов Андрей Андреевич": 46,
-      "Харитонов Николай Михайлович": 108
+      "gas:candidate-vibid:4234003222496": 3,
+      "gas:candidate-vibid:4234003207414": 11,
+      "gas:candidate-vibid:4234003222274": 11,
+      "gas:candidate-vibid:4234003222873": 4,
+      "gas:candidate-vibid:4234003222689": 12,
+      "gas:candidate-vibid:4234003222419": 15,
+      "gas:candidate-vibid:4234003222625": 3,
+      "gas:candidate-vibid:4234003222198": 46,
+      "gas:candidate-vibid:4234003222353": 108
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/krasnodar?action=show&root=1000069&tvd=4234003206812&vrn=100100067795849&region=23&global=&sub_region=23&prver=0&pronetvd=null&vibid=4234003206812&type=464",
@@ -1459,15 +1459,15 @@ export const duma_2016_uik_463_region_23_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Благодаров Александр Александрович": 18,
-      "Высич Александр Николаевич": 65,
-      "Гусейнова Виктория Сергеевна": 28,
-      "Дворников Денис Владимирович": 21,
-      "Закипнев Сергей Сергеевич": 14,
-      "Овечкин Андрей Владимирович": 112,
-      "Поздеев Евгений Любомирович": 5,
-      "Фролов Андрей Андреевич": 82,
-      "Харитонов Николай Михайлович": 423
+      "gas:candidate-vibid:4234003222496": 18,
+      "gas:candidate-vibid:4234003207414": 65,
+      "gas:candidate-vibid:4234003222274": 28,
+      "gas:candidate-vibid:4234003222873": 21,
+      "gas:candidate-vibid:4234003222689": 14,
+      "gas:candidate-vibid:4234003222419": 112,
+      "gas:candidate-vibid:4234003222625": 5,
+      "gas:candidate-vibid:4234003222198": 82,
+      "gas:candidate-vibid:4234003222353": 423
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/krasnodar?action=show&root=1000069&tvd=4234003206812&vrn=100100067795849&region=23&global=&sub_region=23&prver=0&pronetvd=null&vibid=4234003206812&type=464",
@@ -1518,15 +1518,15 @@ export const duma_2016_uik_463_region_23_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Благодаров Александр Александрович": 15,
-      "Высич Александр Николаевич": 32,
-      "Гусейнова Виктория Сергеевна": 17,
-      "Дворников Денис Владимирович": 10,
-      "Закипнев Сергей Сергеевич": 11,
-      "Овечкин Андрей Владимирович": 31,
-      "Поздеев Евгений Любомирович": 0,
-      "Фролов Андрей Андреевич": 53,
-      "Харитонов Николай Михайлович": 99
+      "gas:candidate-vibid:4234003222496": 15,
+      "gas:candidate-vibid:4234003207414": 32,
+      "gas:candidate-vibid:4234003222274": 17,
+      "gas:candidate-vibid:4234003222873": 10,
+      "gas:candidate-vibid:4234003222689": 11,
+      "gas:candidate-vibid:4234003222419": 31,
+      "gas:candidate-vibid:4234003222625": 0,
+      "gas:candidate-vibid:4234003222198": 53,
+      "gas:candidate-vibid:4234003222353": 99
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/krasnodar?action=show&root=1000069&tvd=4234003206812&vrn=100100067795849&region=23&global=&sub_region=23&prver=0&pronetvd=null&vibid=4234003206812&type=464",
@@ -1577,15 +1577,15 @@ export const duma_2016_uik_463_region_23_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Благодаров Александр Александрович": 18,
-      "Высич Александр Николаевич": 29,
-      "Гусейнова Виктория Сергеевна": 29,
-      "Дворников Денис Владимирович": 15,
-      "Закипнев Сергей Сергеевич": 18,
-      "Овечкин Андрей Владимирович": 16,
-      "Поздеев Евгений Любомирович": 2,
-      "Фролов Андрей Андреевич": 84,
-      "Харитонов Николай Михайлович": 223
+      "gas:candidate-vibid:4234003222496": 18,
+      "gas:candidate-vibid:4234003207414": 29,
+      "gas:candidate-vibid:4234003222274": 29,
+      "gas:candidate-vibid:4234003222873": 15,
+      "gas:candidate-vibid:4234003222689": 18,
+      "gas:candidate-vibid:4234003222419": 16,
+      "gas:candidate-vibid:4234003222625": 2,
+      "gas:candidate-vibid:4234003222198": 84,
+      "gas:candidate-vibid:4234003222353": 223
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/krasnodar?action=show&root=1000069&tvd=4234003206812&vrn=100100067795849&region=23&global=&sub_region=23&prver=0&pronetvd=null&vibid=4234003206812&type=464",
@@ -1636,15 +1636,15 @@ export const duma_2016_uik_463_region_23_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Благодаров Александр Александрович": 3,
-      "Высич Александр Николаевич": 15,
-      "Гусейнова Виктория Сергеевна": 3,
-      "Дворников Денис Владимирович": 1,
-      "Закипнев Сергей Сергеевич": 0,
-      "Овечкин Андрей Владимирович": 72,
-      "Поздеев Евгений Любомирович": 1,
-      "Фролов Андрей Андреевич": 14,
-      "Харитонов Николай Михайлович": 128
+      "gas:candidate-vibid:4234003222496": 3,
+      "gas:candidate-vibid:4234003207414": 15,
+      "gas:candidate-vibid:4234003222274": 3,
+      "gas:candidate-vibid:4234003222873": 1,
+      "gas:candidate-vibid:4234003222689": 0,
+      "gas:candidate-vibid:4234003222419": 72,
+      "gas:candidate-vibid:4234003222625": 1,
+      "gas:candidate-vibid:4234003222198": 14,
+      "gas:candidate-vibid:4234003222353": 128
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/krasnodar?action=show&root=1000069&tvd=4234003206812&vrn=100100067795849&region=23&global=&sub_region=23&prver=0&pronetvd=null&vibid=4234003206812&type=464",
@@ -1695,15 +1695,15 @@ export const duma_2016_uik_463_region_23_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Благодаров Александр Александрович": 12,
-      "Высич Александр Николаевич": 41,
-      "Гусейнова Виктория Сергеевна": 35,
-      "Дворников Денис Владимирович": 7,
-      "Закипнев Сергей Сергеевич": 10,
-      "Овечкин Андрей Владимирович": 183,
-      "Поздеев Евгений Любомирович": 2,
-      "Фролов Андрей Андреевич": 21,
-      "Харитонов Николай Михайлович": 452
+      "gas:candidate-vibid:4234003222496": 12,
+      "gas:candidate-vibid:4234003207414": 41,
+      "gas:candidate-vibid:4234003222274": 35,
+      "gas:candidate-vibid:4234003222873": 7,
+      "gas:candidate-vibid:4234003222689": 10,
+      "gas:candidate-vibid:4234003222419": 183,
+      "gas:candidate-vibid:4234003222625": 2,
+      "gas:candidate-vibid:4234003222198": 21,
+      "gas:candidate-vibid:4234003222353": 452
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/krasnodar?action=show&root=1000069&tvd=4234003206812&vrn=100100067795849&region=23&global=&sub_region=23&prver=0&pronetvd=null&vibid=4234003206812&type=464",
@@ -1754,15 +1754,15 @@ export const duma_2016_uik_463_region_23_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Благодаров Александр Александрович": 4,
-      "Высич Александр Николаевич": 11,
-      "Гусейнова Виктория Сергеевна": 11,
-      "Дворников Денис Владимирович": 3,
-      "Закипнев Сергей Сергеевич": 1,
-      "Овечкин Андрей Владимирович": 75,
-      "Поздеев Евгений Любомирович": 1,
-      "Фролов Андрей Андреевич": 11,
-      "Харитонов Николай Михайлович": 122
+      "gas:candidate-vibid:4234003222496": 4,
+      "gas:candidate-vibid:4234003207414": 11,
+      "gas:candidate-vibid:4234003222274": 11,
+      "gas:candidate-vibid:4234003222873": 3,
+      "gas:candidate-vibid:4234003222689": 1,
+      "gas:candidate-vibid:4234003222419": 75,
+      "gas:candidate-vibid:4234003222625": 1,
+      "gas:candidate-vibid:4234003222198": 11,
+      "gas:candidate-vibid:4234003222353": 122
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/krasnodar?action=show&root=1000069&tvd=4234003206812&vrn=100100067795849&region=23&global=&sub_region=23&prver=0&pronetvd=null&vibid=4234003206812&type=464",
@@ -1813,15 +1813,15 @@ export const duma_2016_uik_463_region_23_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Благодаров Александр Александрович": 9,
-      "Высич Александр Николаевич": 17,
-      "Гусейнова Виктория Сергеевна": 29,
-      "Дворников Денис Владимирович": 6,
-      "Закипнев Сергей Сергеевич": 10,
-      "Овечкин Андрей Владимирович": 19,
-      "Поздеев Евгений Любомирович": 2,
-      "Фролов Андрей Андреевич": 32,
-      "Харитонов Николай Михайлович": 120
+      "gas:candidate-vibid:4234003222496": 9,
+      "gas:candidate-vibid:4234003207414": 17,
+      "gas:candidate-vibid:4234003222274": 29,
+      "gas:candidate-vibid:4234003222873": 6,
+      "gas:candidate-vibid:4234003222689": 10,
+      "gas:candidate-vibid:4234003222419": 19,
+      "gas:candidate-vibid:4234003222625": 2,
+      "gas:candidate-vibid:4234003222198": 32,
+      "gas:candidate-vibid:4234003222353": 120
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/krasnodar?action=show&root=1000069&tvd=4234003206812&vrn=100100067795849&region=23&global=&sub_region=23&prver=0&pronetvd=null&vibid=4234003206812&type=464",
@@ -1872,15 +1872,15 @@ export const duma_2016_uik_463_region_23_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Благодаров Александр Александрович": 31,
-      "Высич Александр Николаевич": 102,
-      "Гусейнова Виктория Сергеевна": 48,
-      "Дворников Денис Владимирович": 25,
-      "Закипнев Сергей Сергеевич": 167,
-      "Овечкин Андрей Владимирович": 20,
-      "Поздеев Евгений Любомирович": 12,
-      "Фролов Андрей Андреевич": 55,
-      "Харитонов Николай Михайлович": 103
+      "gas:candidate-vibid:4234003222496": 31,
+      "gas:candidate-vibid:4234003207414": 102,
+      "gas:candidate-vibid:4234003222274": 48,
+      "gas:candidate-vibid:4234003222873": 25,
+      "gas:candidate-vibid:4234003222689": 167,
+      "gas:candidate-vibid:4234003222419": 20,
+      "gas:candidate-vibid:4234003222625": 12,
+      "gas:candidate-vibid:4234003222198": 55,
+      "gas:candidate-vibid:4234003222353": 103
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/krasnodar?action=show&root=1000069&tvd=4234003206813&vrn=100100067795849&region=23&global=&sub_region=23&prver=0&pronetvd=null&vibid=4234003206813&type=464",
@@ -1931,15 +1931,15 @@ export const duma_2016_uik_463_region_23_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Благодаров Александр Александрович": 18,
-      "Высич Александр Николаевич": 95,
-      "Гусейнова Виктория Сергеевна": 47,
-      "Дворников Денис Владимирович": 22,
-      "Закипнев Сергей Сергеевич": 149,
-      "Овечкин Андрей Владимирович": 18,
-      "Поздеев Евгений Любомирович": 9,
-      "Фролов Андрей Андреевич": 103,
-      "Харитонов Николай Михайлович": 171
+      "gas:candidate-vibid:4234003222496": 18,
+      "gas:candidate-vibid:4234003207414": 95,
+      "gas:candidate-vibid:4234003222274": 47,
+      "gas:candidate-vibid:4234003222873": 22,
+      "gas:candidate-vibid:4234003222689": 149,
+      "gas:candidate-vibid:4234003222419": 18,
+      "gas:candidate-vibid:4234003222625": 9,
+      "gas:candidate-vibid:4234003222198": 103,
+      "gas:candidate-vibid:4234003222353": 171
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/krasnodar?action=show&root=1000069&tvd=4234003206813&vrn=100100067795849&region=23&global=&sub_region=23&prver=0&pronetvd=null&vibid=4234003206813&type=464",
@@ -1990,15 +1990,15 @@ export const duma_2016_uik_463_region_23_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Благодаров Александр Александрович": 13,
-      "Высич Александр Николаевич": 55,
-      "Гусейнова Виктория Сергеевна": 34,
-      "Дворников Денис Владимирович": 6,
-      "Закипнев Сергей Сергеевич": 133,
-      "Овечкин Андрей Владимирович": 16,
-      "Поздеев Евгений Любомирович": 4,
-      "Фролов Андрей Андреевич": 69,
-      "Харитонов Николай Михайлович": 84
+      "gas:candidate-vibid:4234003222496": 13,
+      "gas:candidate-vibid:4234003207414": 55,
+      "gas:candidate-vibid:4234003222274": 34,
+      "gas:candidate-vibid:4234003222873": 6,
+      "gas:candidate-vibid:4234003222689": 133,
+      "gas:candidate-vibid:4234003222419": 16,
+      "gas:candidate-vibid:4234003222625": 4,
+      "gas:candidate-vibid:4234003222198": 69,
+      "gas:candidate-vibid:4234003222353": 84
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/krasnodar?action=show&root=1000069&tvd=4234003206813&vrn=100100067795849&region=23&global=&sub_region=23&prver=0&pronetvd=null&vibid=4234003206813&type=464",
@@ -2049,15 +2049,15 @@ export const duma_2016_uik_463_region_23_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Благодаров Александр Александрович": 38,
-      "Высич Александр Николаевич": 98,
-      "Гусейнова Виктория Сергеевна": 45,
-      "Дворников Денис Владимирович": 18,
-      "Закипнев Сергей Сергеевич": 196,
-      "Овечкин Андрей Владимирович": 34,
-      "Поздеев Евгений Любомирович": 11,
-      "Фролов Андрей Андреевич": 103,
-      "Харитонов Николай Михайлович": 182
+      "gas:candidate-vibid:4234003222496": 38,
+      "gas:candidate-vibid:4234003207414": 98,
+      "gas:candidate-vibid:4234003222274": 45,
+      "gas:candidate-vibid:4234003222873": 18,
+      "gas:candidate-vibid:4234003222689": 196,
+      "gas:candidate-vibid:4234003222419": 34,
+      "gas:candidate-vibid:4234003222625": 11,
+      "gas:candidate-vibid:4234003222198": 103,
+      "gas:candidate-vibid:4234003222353": 182
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/krasnodar?action=show&root=1000069&tvd=4234003206813&vrn=100100067795849&region=23&global=&sub_region=23&prver=0&pronetvd=null&vibid=4234003206813&type=464",
@@ -2108,15 +2108,15 @@ export const duma_2016_uik_463_region_23_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Благодаров Александр Александрович": 11,
-      "Высич Александр Николаевич": 65,
-      "Гусейнова Виктория Сергеевна": 36,
-      "Дворников Денис Владимирович": 13,
-      "Закипнев Сергей Сергеевич": 161,
-      "Овечкин Андрей Владимирович": 18,
-      "Поздеев Евгений Любомирович": 6,
-      "Фролов Андрей Андреевич": 65,
-      "Харитонов Николай Михайлович": 108
+      "gas:candidate-vibid:4234003222496": 11,
+      "gas:candidate-vibid:4234003207414": 65,
+      "gas:candidate-vibid:4234003222274": 36,
+      "gas:candidate-vibid:4234003222873": 13,
+      "gas:candidate-vibid:4234003222689": 161,
+      "gas:candidate-vibid:4234003222419": 18,
+      "gas:candidate-vibid:4234003222625": 6,
+      "gas:candidate-vibid:4234003222198": 65,
+      "gas:candidate-vibid:4234003222353": 108
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/krasnodar?action=show&root=1000069&tvd=4234003206813&vrn=100100067795849&region=23&global=&sub_region=23&prver=0&pronetvd=null&vibid=4234003206813&type=464",
@@ -2167,15 +2167,15 @@ export const duma_2016_uik_463_region_23_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Благодаров Александр Александрович": 13,
-      "Высич Александр Николаевич": 59,
-      "Гусейнова Виктория Сергеевна": 45,
-      "Дворников Денис Владимирович": 12,
-      "Закипнев Сергей Сергеевич": 123,
-      "Овечкин Андрей Владимирович": 22,
-      "Поздеев Евгений Любомирович": 7,
-      "Фролов Андрей Андреевич": 112,
-      "Харитонов Николай Михайлович": 97
+      "gas:candidate-vibid:4234003222496": 13,
+      "gas:candidate-vibid:4234003207414": 59,
+      "gas:candidate-vibid:4234003222274": 45,
+      "gas:candidate-vibid:4234003222873": 12,
+      "gas:candidate-vibid:4234003222689": 123,
+      "gas:candidate-vibid:4234003222419": 22,
+      "gas:candidate-vibid:4234003222625": 7,
+      "gas:candidate-vibid:4234003222198": 112,
+      "gas:candidate-vibid:4234003222353": 97
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/krasnodar?action=show&root=1000069&tvd=4234003206813&vrn=100100067795849&region=23&global=&sub_region=23&prver=0&pronetvd=null&vibid=4234003206813&type=464",
@@ -2226,15 +2226,15 @@ export const duma_2016_uik_463_region_23_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Благодаров Александр Александрович": 24,
-      "Высич Александр Николаевич": 61,
-      "Гусейнова Виктория Сергеевна": 57,
-      "Дворников Денис Владимирович": 20,
-      "Закипнев Сергей Сергеевич": 130,
-      "Овечкин Андрей Владимирович": 19,
-      "Поздеев Евгений Любомирович": 6,
-      "Фролов Андрей Андреевич": 49,
-      "Харитонов Николай Михайлович": 132
+      "gas:candidate-vibid:4234003222496": 24,
+      "gas:candidate-vibid:4234003207414": 61,
+      "gas:candidate-vibid:4234003222274": 57,
+      "gas:candidate-vibid:4234003222873": 20,
+      "gas:candidate-vibid:4234003222689": 130,
+      "gas:candidate-vibid:4234003222419": 19,
+      "gas:candidate-vibid:4234003222625": 6,
+      "gas:candidate-vibid:4234003222198": 49,
+      "gas:candidate-vibid:4234003222353": 132
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/krasnodar?action=show&root=1000069&tvd=4234003206813&vrn=100100067795849&region=23&global=&sub_region=23&prver=0&pronetvd=null&vibid=4234003206813&type=464",
@@ -2285,15 +2285,15 @@ export const duma_2016_uik_463_region_23_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Благодаров Александр Александрович": 20,
-      "Высич Александр Николаевич": 60,
-      "Гусейнова Виктория Сергеевна": 35,
-      "Дворников Денис Владимирович": 15,
-      "Закипнев Сергей Сергеевич": 127,
-      "Овечкин Андрей Владимирович": 14,
-      "Поздеев Евгений Любомирович": 3,
-      "Фролов Андрей Андреевич": 65,
-      "Харитонов Николай Михайлович": 68
+      "gas:candidate-vibid:4234003222496": 20,
+      "gas:candidate-vibid:4234003207414": 60,
+      "gas:candidate-vibid:4234003222274": 35,
+      "gas:candidate-vibid:4234003222873": 15,
+      "gas:candidate-vibid:4234003222689": 127,
+      "gas:candidate-vibid:4234003222419": 14,
+      "gas:candidate-vibid:4234003222625": 3,
+      "gas:candidate-vibid:4234003222198": 65,
+      "gas:candidate-vibid:4234003222353": 68
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/krasnodar?action=show&root=1000069&tvd=4234003206813&vrn=100100067795849&region=23&global=&sub_region=23&prver=0&pronetvd=null&vibid=4234003206813&type=464",
@@ -2344,15 +2344,15 @@ export const duma_2016_uik_463_region_23_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Благодаров Александр Александрович": 21,
-      "Высич Александр Николаевич": 85,
-      "Гусейнова Виктория Сергеевна": 68,
-      "Дворников Денис Владимирович": 29,
-      "Закипнев Сергей Сергеевич": 147,
-      "Овечкин Андрей Владимирович": 23,
-      "Поздеев Евгений Любомирович": 9,
-      "Фролов Андрей Андреевич": 91,
-      "Харитонов Николай Михайлович": 133
+      "gas:candidate-vibid:4234003222496": 21,
+      "gas:candidate-vibid:4234003207414": 85,
+      "gas:candidate-vibid:4234003222274": 68,
+      "gas:candidate-vibid:4234003222873": 29,
+      "gas:candidate-vibid:4234003222689": 147,
+      "gas:candidate-vibid:4234003222419": 23,
+      "gas:candidate-vibid:4234003222625": 9,
+      "gas:candidate-vibid:4234003222198": 91,
+      "gas:candidate-vibid:4234003222353": 133
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/krasnodar?action=show&root=1000069&tvd=4234003206813&vrn=100100067795849&region=23&global=&sub_region=23&prver=0&pronetvd=null&vibid=4234003206813&type=464",
@@ -2403,15 +2403,15 @@ export const duma_2016_uik_463_region_23_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Благодаров Александр Александрович": 15,
-      "Высич Александр Николаевич": 37,
-      "Гусейнова Виктория Сергеевна": 35,
-      "Дворников Денис Владимирович": 19,
-      "Закипнев Сергей Сергеевич": 83,
-      "Овечкин Андрей Владимирович": 17,
-      "Поздеев Евгений Любомирович": 12,
-      "Фролов Андрей Андреевич": 88,
-      "Харитонов Николай Михайлович": 86
+      "gas:candidate-vibid:4234003222496": 15,
+      "gas:candidate-vibid:4234003207414": 37,
+      "gas:candidate-vibid:4234003222274": 35,
+      "gas:candidate-vibid:4234003222873": 19,
+      "gas:candidate-vibid:4234003222689": 83,
+      "gas:candidate-vibid:4234003222419": 17,
+      "gas:candidate-vibid:4234003222625": 12,
+      "gas:candidate-vibid:4234003222198": 88,
+      "gas:candidate-vibid:4234003222353": 86
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/krasnodar?action=show&root=1000069&tvd=4234003206813&vrn=100100067795849&region=23&global=&sub_region=23&prver=0&pronetvd=null&vibid=4234003206813&type=464",
@@ -2462,15 +2462,15 @@ export const duma_2016_uik_463_region_23_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Благодаров Александр Александрович": 26,
-      "Высич Александр Николаевич": 64,
-      "Гусейнова Виктория Сергеевна": 47,
-      "Дворников Денис Владимирович": 15,
-      "Закипнев Сергей Сергеевич": 167,
-      "Овечкин Андрей Владимирович": 19,
-      "Поздеев Евгений Любомирович": 9,
-      "Фролов Андрей Андреевич": 118,
-      "Харитонов Николай Михайлович": 152
+      "gas:candidate-vibid:4234003222496": 26,
+      "gas:candidate-vibid:4234003207414": 64,
+      "gas:candidate-vibid:4234003222274": 47,
+      "gas:candidate-vibid:4234003222873": 15,
+      "gas:candidate-vibid:4234003222689": 167,
+      "gas:candidate-vibid:4234003222419": 19,
+      "gas:candidate-vibid:4234003222625": 9,
+      "gas:candidate-vibid:4234003222198": 118,
+      "gas:candidate-vibid:4234003222353": 152
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/krasnodar?action=show&root=1000069&tvd=4234003206813&vrn=100100067795849&region=23&global=&sub_region=23&prver=0&pronetvd=null&vibid=4234003206813&type=464",
@@ -2521,15 +2521,15 @@ export const duma_2016_uik_463_region_23_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Благодаров Александр Александрович": 14,
-      "Высич Александр Николаевич": 41,
-      "Гусейнова Виктория Сергеевна": 30,
-      "Дворников Денис Владимирович": 7,
-      "Закипнев Сергей Сергеевич": 75,
-      "Овечкин Андрей Владимирович": 13,
-      "Поздеев Евгений Любомирович": 7,
-      "Фролов Андрей Андреевич": 21,
-      "Харитонов Николай Михайлович": 87
+      "gas:candidate-vibid:4234003222496": 14,
+      "gas:candidate-vibid:4234003207414": 41,
+      "gas:candidate-vibid:4234003222274": 30,
+      "gas:candidate-vibid:4234003222873": 7,
+      "gas:candidate-vibid:4234003222689": 75,
+      "gas:candidate-vibid:4234003222419": 13,
+      "gas:candidate-vibid:4234003222625": 7,
+      "gas:candidate-vibid:4234003222198": 21,
+      "gas:candidate-vibid:4234003222353": 87
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/krasnodar?action=show&root=1000069&tvd=4234003206813&vrn=100100067795849&region=23&global=&sub_region=23&prver=0&pronetvd=null&vibid=4234003206813&type=464",
@@ -2580,15 +2580,15 @@ export const duma_2016_uik_463_region_23_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Благодаров Александр Александрович": 53,
-      "Высич Александр Николаевич": 116,
-      "Гусейнова Виктория Сергеевна": 67,
-      "Дворников Денис Владимирович": 33,
-      "Закипнев Сергей Сергеевич": 381,
-      "Овечкин Андрей Владимирович": 47,
-      "Поздеев Евгений Любомирович": 39,
-      "Фролов Андрей Андреевич": 59,
-      "Харитонов Николай Михайлович": 186
+      "gas:candidate-vibid:4234003222496": 53,
+      "gas:candidate-vibid:4234003207414": 116,
+      "gas:candidate-vibid:4234003222274": 67,
+      "gas:candidate-vibid:4234003222873": 33,
+      "gas:candidate-vibid:4234003222689": 381,
+      "gas:candidate-vibid:4234003222419": 47,
+      "gas:candidate-vibid:4234003222625": 39,
+      "gas:candidate-vibid:4234003222198": 59,
+      "gas:candidate-vibid:4234003222353": 186
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/krasnodar?action=show&root=1000069&tvd=4234003206813&vrn=100100067795849&region=23&global=&sub_region=23&prver=0&pronetvd=null&vibid=4234003206813&type=464",
@@ -2639,15 +2639,15 @@ export const duma_2016_uik_463_region_23_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Благодаров Александр Александрович": 11,
-      "Высич Александр Николаевич": 47,
-      "Гусейнова Виктория Сергеевна": 50,
-      "Дворников Денис Владимирович": 12,
-      "Закипнев Сергей Сергеевич": 239,
-      "Овечкин Андрей Владимирович": 13,
-      "Поздеев Евгений Любомирович": 6,
-      "Фролов Андрей Андреевич": 21,
-      "Харитонов Николай Михайлович": 137
+      "gas:candidate-vibid:4234003222496": 11,
+      "gas:candidate-vibid:4234003207414": 47,
+      "gas:candidate-vibid:4234003222274": 50,
+      "gas:candidate-vibid:4234003222873": 12,
+      "gas:candidate-vibid:4234003222689": 239,
+      "gas:candidate-vibid:4234003222419": 13,
+      "gas:candidate-vibid:4234003222625": 6,
+      "gas:candidate-vibid:4234003222198": 21,
+      "gas:candidate-vibid:4234003222353": 137
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/krasnodar?action=show&root=1000069&tvd=4234003206813&vrn=100100067795849&region=23&global=&sub_region=23&prver=0&pronetvd=null&vibid=4234003206813&type=464",
@@ -2698,15 +2698,15 @@ export const duma_2016_uik_463_region_23_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Благодаров Александр Александрович": 9,
-      "Высич Александр Николаевич": 43,
-      "Гусейнова Виктория Сергеевна": 29,
-      "Дворников Денис Владимирович": 8,
-      "Закипнев Сергей Сергеевич": 217,
-      "Овечкин Андрей Владимирович": 10,
-      "Поздеев Евгений Любомирович": 3,
-      "Фролов Андрей Андреевич": 16,
-      "Харитонов Николай Михайлович": 139
+      "gas:candidate-vibid:4234003222496": 9,
+      "gas:candidate-vibid:4234003207414": 43,
+      "gas:candidate-vibid:4234003222274": 29,
+      "gas:candidate-vibid:4234003222873": 8,
+      "gas:candidate-vibid:4234003222689": 217,
+      "gas:candidate-vibid:4234003222419": 10,
+      "gas:candidate-vibid:4234003222625": 3,
+      "gas:candidate-vibid:4234003222198": 16,
+      "gas:candidate-vibid:4234003222353": 139
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/krasnodar?action=show&root=1000069&tvd=4234003206813&vrn=100100067795849&region=23&global=&sub_region=23&prver=0&pronetvd=null&vibid=4234003206813&type=464",
@@ -2757,15 +2757,15 @@ export const duma_2016_uik_463_region_23_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Благодаров Александр Александрович": 16,
-      "Высич Александр Николаевич": 77,
-      "Гусейнова Виктория Сергеевна": 41,
-      "Дворников Денис Владимирович": 16,
-      "Закипнев Сергей Сергеевич": 297,
-      "Овечкин Андрей Владимирович": 28,
-      "Поздеев Евгений Любомирович": 18,
-      "Фролов Андрей Андреевич": 36,
-      "Харитонов Николай Михайлович": 230
+      "gas:candidate-vibid:4234003222496": 16,
+      "gas:candidate-vibid:4234003207414": 77,
+      "gas:candidate-vibid:4234003222274": 41,
+      "gas:candidate-vibid:4234003222873": 16,
+      "gas:candidate-vibid:4234003222689": 297,
+      "gas:candidate-vibid:4234003222419": 28,
+      "gas:candidate-vibid:4234003222625": 18,
+      "gas:candidate-vibid:4234003222198": 36,
+      "gas:candidate-vibid:4234003222353": 230
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/krasnodar?action=show&root=1000069&tvd=4234003206813&vrn=100100067795849&region=23&global=&sub_region=23&prver=0&pronetvd=null&vibid=4234003206813&type=464",
@@ -2816,15 +2816,15 @@ export const duma_2016_uik_463_region_23_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Благодаров Александр Александрович": 18,
-      "Высич Александр Николаевич": 45,
-      "Гусейнова Виктория Сергеевна": 26,
-      "Дворников Денис Владимирович": 20,
-      "Закипнев Сергей Сергеевич": 234,
-      "Овечкин Андрей Владимирович": 26,
-      "Поздеев Евгений Любомирович": 15,
-      "Фролов Андрей Андреевич": 31,
-      "Харитонов Николай Михайлович": 184
+      "gas:candidate-vibid:4234003222496": 18,
+      "gas:candidate-vibid:4234003207414": 45,
+      "gas:candidate-vibid:4234003222274": 26,
+      "gas:candidate-vibid:4234003222873": 20,
+      "gas:candidate-vibid:4234003222689": 234,
+      "gas:candidate-vibid:4234003222419": 26,
+      "gas:candidate-vibid:4234003222625": 15,
+      "gas:candidate-vibid:4234003222198": 31,
+      "gas:candidate-vibid:4234003222353": 184
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/krasnodar?action=show&root=1000069&tvd=4234003206813&vrn=100100067795849&region=23&global=&sub_region=23&prver=0&pronetvd=null&vibid=4234003206813&type=464",
@@ -2875,15 +2875,15 @@ export const duma_2016_uik_463_region_23_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Благодаров Александр Александрович": 26,
-      "Высич Александр Николаевич": 79,
-      "Гусейнова Виктория Сергеевна": 64,
-      "Дворников Денис Владимирович": 12,
-      "Закипнев Сергей Сергеевич": 236,
-      "Овечкин Андрей Владимирович": 25,
-      "Поздеев Евгений Любомирович": 17,
-      "Фролов Андрей Андреевич": 75,
-      "Харитонов Николай Михайлович": 116
+      "gas:candidate-vibid:4234003222496": 26,
+      "gas:candidate-vibid:4234003207414": 79,
+      "gas:candidate-vibid:4234003222274": 64,
+      "gas:candidate-vibid:4234003222873": 12,
+      "gas:candidate-vibid:4234003222689": 236,
+      "gas:candidate-vibid:4234003222419": 25,
+      "gas:candidate-vibid:4234003222625": 17,
+      "gas:candidate-vibid:4234003222198": 75,
+      "gas:candidate-vibid:4234003222353": 116
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/krasnodar?action=show&root=1000069&tvd=4234003206813&vrn=100100067795849&region=23&global=&sub_region=23&prver=0&pronetvd=null&vibid=4234003206813&type=464",
@@ -2934,15 +2934,15 @@ export const duma_2016_uik_463_region_23_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Благодаров Александр Александрович": 20,
-      "Высич Александр Николаевич": 64,
-      "Гусейнова Виктория Сергеевна": 31,
-      "Дворников Денис Владимирович": 11,
-      "Закипнев Сергей Сергеевич": 147,
-      "Овечкин Андрей Владимирович": 22,
-      "Поздеев Евгений Любомирович": 8,
-      "Фролов Андрей Андреевич": 109,
-      "Харитонов Николай Михайлович": 272
+      "gas:candidate-vibid:4234003222496": 20,
+      "gas:candidate-vibid:4234003207414": 64,
+      "gas:candidate-vibid:4234003222274": 31,
+      "gas:candidate-vibid:4234003222873": 11,
+      "gas:candidate-vibid:4234003222689": 147,
+      "gas:candidate-vibid:4234003222419": 22,
+      "gas:candidate-vibid:4234003222625": 8,
+      "gas:candidate-vibid:4234003222198": 109,
+      "gas:candidate-vibid:4234003222353": 272
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/krasnodar?action=show&root=1000069&tvd=4234003206813&vrn=100100067795849&region=23&global=&sub_region=23&prver=0&pronetvd=null&vibid=4234003206813&type=464",
@@ -2993,15 +2993,15 @@ export const duma_2016_uik_463_region_23_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Благодаров Александр Александрович": 13,
-      "Высич Александр Николаевич": 22,
-      "Гусейнова Виктория Сергеевна": 44,
-      "Дворников Денис Владимирович": 4,
-      "Закипнев Сергей Сергеевич": 92,
-      "Овечкин Андрей Владимирович": 9,
-      "Поздеев Евгений Любомирович": 5,
-      "Фролов Андрей Андреевич": 18,
-      "Харитонов Николай Михайлович": 30
+      "gas:candidate-vibid:4234003222496": 13,
+      "gas:candidate-vibid:4234003207414": 22,
+      "gas:candidate-vibid:4234003222274": 44,
+      "gas:candidate-vibid:4234003222873": 4,
+      "gas:candidate-vibid:4234003222689": 92,
+      "gas:candidate-vibid:4234003222419": 9,
+      "gas:candidate-vibid:4234003222625": 5,
+      "gas:candidate-vibid:4234003222198": 18,
+      "gas:candidate-vibid:4234003222353": 30
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/krasnodar?action=show&root=1000069&tvd=4234003206813&vrn=100100067795849&region=23&global=&sub_region=23&prver=0&pronetvd=null&vibid=4234003206813&type=464",
@@ -3052,15 +3052,15 @@ export const duma_2016_uik_463_region_23_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Благодаров Александр Александрович": 27,
-      "Высич Александр Николаевич": 103,
-      "Гусейнова Виктория Сергеевна": 46,
-      "Дворников Денис Владимирович": 17,
-      "Закипнев Сергей Сергеевич": 180,
-      "Овечкин Андрей Владимирович": 17,
-      "Поздеев Евгений Любомирович": 8,
-      "Фролов Андрей Андреевич": 41,
-      "Харитонов Николай Михайлович": 598
+      "gas:candidate-vibid:4234003222496": 27,
+      "gas:candidate-vibid:4234003207414": 103,
+      "gas:candidate-vibid:4234003222274": 46,
+      "gas:candidate-vibid:4234003222873": 17,
+      "gas:candidate-vibid:4234003222689": 180,
+      "gas:candidate-vibid:4234003222419": 17,
+      "gas:candidate-vibid:4234003222625": 8,
+      "gas:candidate-vibid:4234003222198": 41,
+      "gas:candidate-vibid:4234003222353": 598
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/krasnodar?action=show&root=1000069&tvd=4234003206813&vrn=100100067795849&region=23&global=&sub_region=23&prver=0&pronetvd=null&vibid=4234003206813&type=464",
@@ -3111,15 +3111,15 @@ export const duma_2016_uik_463_region_23_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Благодаров Александр Александрович": 18,
-      "Высич Александр Николаевич": 30,
-      "Гусейнова Виктория Сергеевна": 28,
-      "Дворников Денис Владимирович": 12,
-      "Закипнев Сергей Сергеевич": 62,
-      "Овечкин Андрей Владимирович": 14,
-      "Поздеев Евгений Любомирович": 10,
-      "Фролов Андрей Андреевич": 69,
-      "Харитонов Николай Михайлович": 127
+      "gas:candidate-vibid:4234003222496": 18,
+      "gas:candidate-vibid:4234003207414": 30,
+      "gas:candidate-vibid:4234003222274": 28,
+      "gas:candidate-vibid:4234003222873": 12,
+      "gas:candidate-vibid:4234003222689": 62,
+      "gas:candidate-vibid:4234003222419": 14,
+      "gas:candidate-vibid:4234003222625": 10,
+      "gas:candidate-vibid:4234003222198": 69,
+      "gas:candidate-vibid:4234003222353": 127
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/krasnodar?action=show&root=1000069&tvd=4234003206813&vrn=100100067795849&region=23&global=&sub_region=23&prver=0&pronetvd=null&vibid=4234003206813&type=464",
@@ -3170,15 +3170,15 @@ export const duma_2016_uik_463_region_23_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Благодаров Александр Александрович": 32,
-      "Высич Александр Николаевич": 102,
-      "Гусейнова Виктория Сергеевна": 49,
-      "Дворников Денис Владимирович": 18,
-      "Закипнев Сергей Сергеевич": 564,
-      "Овечкин Андрей Владимирович": 19,
-      "Поздеев Евгений Любомирович": 5,
-      "Фролов Андрей Андреевич": 47,
-      "Харитонов Николай Михайлович": 328
+      "gas:candidate-vibid:4234003222496": 32,
+      "gas:candidate-vibid:4234003207414": 102,
+      "gas:candidate-vibid:4234003222274": 49,
+      "gas:candidate-vibid:4234003222873": 18,
+      "gas:candidate-vibid:4234003222689": 564,
+      "gas:candidate-vibid:4234003222419": 19,
+      "gas:candidate-vibid:4234003222625": 5,
+      "gas:candidate-vibid:4234003222198": 47,
+      "gas:candidate-vibid:4234003222353": 328
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/krasnodar?action=show&root=1000069&tvd=4234003206813&vrn=100100067795849&region=23&global=&sub_region=23&prver=0&pronetvd=null&vibid=4234003206813&type=464",
@@ -3229,15 +3229,15 @@ export const duma_2016_uik_463_region_23_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Благодаров Александр Александрович": 37,
-      "Высич Александр Николаевич": 95,
-      "Гусейнова Виктория Сергеевна": 98,
-      "Дворников Денис Владимирович": 27,
-      "Закипнев Сергей Сергеевич": 620,
-      "Овечкин Андрей Владимирович": 24,
-      "Поздеев Евгений Любомирович": 14,
-      "Фролов Андрей Андреевич": 72,
-      "Харитонов Николай Михайлович": 229
+      "gas:candidate-vibid:4234003222496": 37,
+      "gas:candidate-vibid:4234003207414": 95,
+      "gas:candidate-vibid:4234003222274": 98,
+      "gas:candidate-vibid:4234003222873": 27,
+      "gas:candidate-vibid:4234003222689": 620,
+      "gas:candidate-vibid:4234003222419": 24,
+      "gas:candidate-vibid:4234003222625": 14,
+      "gas:candidate-vibid:4234003222198": 72,
+      "gas:candidate-vibid:4234003222353": 229
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/krasnodar?action=show&root=1000069&tvd=4234003206813&vrn=100100067795849&region=23&global=&sub_region=23&prver=0&pronetvd=null&vibid=4234003206813&type=464",
@@ -3288,15 +3288,15 @@ export const duma_2016_uik_463_region_23_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Благодаров Александр Александрович": 5,
-      "Высич Александр Николаевич": 30,
-      "Гусейнова Виктория Сергеевна": 21,
-      "Дворников Денис Владимирович": 15,
-      "Закипнев Сергей Сергеевич": 94,
-      "Овечкин Андрей Владимирович": 14,
-      "Поздеев Евгений Любомирович": 2,
-      "Фролов Андрей Андреевич": 13,
-      "Харитонов Николай Михайлович": 50
+      "gas:candidate-vibid:4234003222496": 5,
+      "gas:candidate-vibid:4234003207414": 30,
+      "gas:candidate-vibid:4234003222274": 21,
+      "gas:candidate-vibid:4234003222873": 15,
+      "gas:candidate-vibid:4234003222689": 94,
+      "gas:candidate-vibid:4234003222419": 14,
+      "gas:candidate-vibid:4234003222625": 2,
+      "gas:candidate-vibid:4234003222198": 13,
+      "gas:candidate-vibid:4234003222353": 50
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/krasnodar?action=show&root=1000069&tvd=4234003206813&vrn=100100067795849&region=23&global=&sub_region=23&prver=0&pronetvd=null&vibid=4234003206813&type=464",
@@ -3347,15 +3347,15 @@ export const duma_2016_uik_463_region_23_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Благодаров Александр Александрович": 7,
-      "Высич Александр Николаевич": 21,
-      "Гусейнова Виктория Сергеевна": 3,
-      "Дворников Денис Владимирович": 1,
-      "Закипнев Сергей Сергеевич": 12,
-      "Овечкин Андрей Владимирович": 4,
-      "Поздеев Евгений Любомирович": 5,
-      "Фролов Андрей Андреевич": 21,
-      "Харитонов Николай Михайлович": 47
+      "gas:candidate-vibid:4234003222496": 7,
+      "gas:candidate-vibid:4234003207414": 21,
+      "gas:candidate-vibid:4234003222274": 3,
+      "gas:candidate-vibid:4234003222873": 1,
+      "gas:candidate-vibid:4234003222689": 12,
+      "gas:candidate-vibid:4234003222419": 4,
+      "gas:candidate-vibid:4234003222625": 5,
+      "gas:candidate-vibid:4234003222198": 21,
+      "gas:candidate-vibid:4234003222353": 47
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/krasnodar?action=show&root=1000069&tvd=4234003206813&vrn=100100067795849&region=23&global=&sub_region=23&prver=0&pronetvd=null&vibid=4234003206813&type=464",
@@ -3406,15 +3406,15 @@ export const duma_2016_uik_463_region_23_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Благодаров Александр Александрович": 20,
-      "Высич Александр Николаевич": 54,
-      "Гусейнова Виктория Сергеевна": 64,
-      "Дворников Денис Владимирович": 14,
-      "Закипнев Сергей Сергеевич": 179,
-      "Овечкин Андрей Владимирович": 24,
-      "Поздеев Евгений Любомирович": 7,
-      "Фролов Андрей Андреевич": 56,
-      "Харитонов Николай Михайлович": 173
+      "gas:candidate-vibid:4234003222496": 20,
+      "gas:candidate-vibid:4234003207414": 54,
+      "gas:candidate-vibid:4234003222274": 64,
+      "gas:candidate-vibid:4234003222873": 14,
+      "gas:candidate-vibid:4234003222689": 179,
+      "gas:candidate-vibid:4234003222419": 24,
+      "gas:candidate-vibid:4234003222625": 7,
+      "gas:candidate-vibid:4234003222198": 56,
+      "gas:candidate-vibid:4234003222353": 173
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/krasnodar?action=show&root=1000069&tvd=4234003206813&vrn=100100067795849&region=23&global=&sub_region=23&prver=0&pronetvd=null&vibid=4234003206813&type=464",
@@ -3465,15 +3465,15 @@ export const duma_2016_uik_463_region_23_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Благодаров Александр Александрович": 26,
-      "Высич Александр Николаевич": 58,
-      "Гусейнова Виктория Сергеевна": 91,
-      "Дворников Денис Владимирович": 13,
-      "Закипнев Сергей Сергеевич": 112,
-      "Овечкин Андрей Владимирович": 30,
-      "Поздеев Евгений Любомирович": 2,
-      "Фролов Андрей Андреевич": 31,
-      "Харитонов Николай Михайлович": 110
+      "gas:candidate-vibid:4234003222496": 26,
+      "gas:candidate-vibid:4234003207414": 58,
+      "gas:candidate-vibid:4234003222274": 91,
+      "gas:candidate-vibid:4234003222873": 13,
+      "gas:candidate-vibid:4234003222689": 112,
+      "gas:candidate-vibid:4234003222419": 30,
+      "gas:candidate-vibid:4234003222625": 2,
+      "gas:candidate-vibid:4234003222198": 31,
+      "gas:candidate-vibid:4234003222353": 110
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/krasnodar?action=show&root=1000069&tvd=4234003206813&vrn=100100067795849&region=23&global=&sub_region=23&prver=0&pronetvd=null&vibid=4234003206813&type=464",
@@ -3524,15 +3524,15 @@ export const duma_2016_uik_463_region_23_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Благодаров Александр Александрович": 12,
-      "Высич Александр Николаевич": 16,
-      "Гусейнова Виктория Сергеевна": 16,
-      "Дворников Денис Владимирович": 7,
-      "Закипнев Сергей Сергеевич": 33,
-      "Овечкин Андрей Владимирович": 4,
-      "Поздеев Евгений Любомирович": 5,
-      "Фролов Андрей Андреевич": 6,
-      "Харитонов Николай Михайлович": 65
+      "gas:candidate-vibid:4234003222496": 12,
+      "gas:candidate-vibid:4234003207414": 16,
+      "gas:candidate-vibid:4234003222274": 16,
+      "gas:candidate-vibid:4234003222873": 7,
+      "gas:candidate-vibid:4234003222689": 33,
+      "gas:candidate-vibid:4234003222419": 4,
+      "gas:candidate-vibid:4234003222625": 5,
+      "gas:candidate-vibid:4234003222198": 6,
+      "gas:candidate-vibid:4234003222353": 65
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/krasnodar?action=show&root=1000069&tvd=4234003206813&vrn=100100067795849&region=23&global=&sub_region=23&prver=0&pronetvd=null&vibid=4234003206813&type=464",
@@ -3583,15 +3583,15 @@ export const duma_2016_uik_463_region_23_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Благодаров Александр Александрович": 16,
-      "Высич Александр Николаевич": 97,
-      "Гусейнова Виктория Сергеевна": 54,
-      "Дворников Денис Владимирович": 18,
-      "Закипнев Сергей Сергеевич": 103,
-      "Овечкин Андрей Владимирович": 24,
-      "Поздеев Евгений Любомирович": 6,
-      "Фролов Андрей Андреевич": 77,
-      "Харитонов Николай Михайлович": 138
+      "gas:candidate-vibid:4234003222496": 16,
+      "gas:candidate-vibid:4234003207414": 97,
+      "gas:candidate-vibid:4234003222274": 54,
+      "gas:candidate-vibid:4234003222873": 18,
+      "gas:candidate-vibid:4234003222689": 103,
+      "gas:candidate-vibid:4234003222419": 24,
+      "gas:candidate-vibid:4234003222625": 6,
+      "gas:candidate-vibid:4234003222198": 77,
+      "gas:candidate-vibid:4234003222353": 138
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/krasnodar?action=show&root=1000069&tvd=4234003206813&vrn=100100067795849&region=23&global=&sub_region=23&prver=0&pronetvd=null&vibid=4234003206813&type=464",
@@ -3642,15 +3642,15 @@ export const duma_2016_uik_463_region_23_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Благодаров Александр Александрович": 23,
-      "Высич Александр Николаевич": 149,
-      "Гусейнова Виктория Сергеевна": 71,
-      "Дворников Денис Владимирович": 27,
-      "Закипнев Сергей Сергеевич": 205,
-      "Овечкин Андрей Владимирович": 31,
-      "Поздеев Евгений Любомирович": 12,
-      "Фролов Андрей Андреевич": 103,
-      "Харитонов Николай Михайлович": 394
+      "gas:candidate-vibid:4234003222496": 23,
+      "gas:candidate-vibid:4234003207414": 149,
+      "gas:candidate-vibid:4234003222274": 71,
+      "gas:candidate-vibid:4234003222873": 27,
+      "gas:candidate-vibid:4234003222689": 205,
+      "gas:candidate-vibid:4234003222419": 31,
+      "gas:candidate-vibid:4234003222625": 12,
+      "gas:candidate-vibid:4234003222198": 103,
+      "gas:candidate-vibid:4234003222353": 394
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/krasnodar?action=show&root=1000069&tvd=4234003206813&vrn=100100067795849&region=23&global=&sub_region=23&prver=0&pronetvd=null&vibid=4234003206813&type=464",
@@ -3701,15 +3701,15 @@ export const duma_2016_uik_463_region_23_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Благодаров Александр Александрович": 3,
-      "Высич Александр Николаевич": 31,
-      "Гусейнова Виктория Сергеевна": 26,
-      "Дворников Денис Владимирович": 6,
-      "Закипнев Сергей Сергеевич": 136,
-      "Овечкин Андрей Владимирович": 6,
-      "Поздеев Евгений Любомирович": 1,
-      "Фролов Андрей Андреевич": 11,
-      "Харитонов Николай Михайлович": 23
+      "gas:candidate-vibid:4234003222496": 3,
+      "gas:candidate-vibid:4234003207414": 31,
+      "gas:candidate-vibid:4234003222274": 26,
+      "gas:candidate-vibid:4234003222873": 6,
+      "gas:candidate-vibid:4234003222689": 136,
+      "gas:candidate-vibid:4234003222419": 6,
+      "gas:candidate-vibid:4234003222625": 1,
+      "gas:candidate-vibid:4234003222198": 11,
+      "gas:candidate-vibid:4234003222353": 23
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/krasnodar?action=show&root=1000069&tvd=4234003206813&vrn=100100067795849&region=23&global=&sub_region=23&prver=0&pronetvd=null&vibid=4234003206813&type=464",
@@ -3760,15 +3760,15 @@ export const duma_2016_uik_463_region_23_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Благодаров Александр Александрович": 18,
-      "Высич Александр Николаевич": 95,
-      "Гусейнова Виктория Сергеевна": 62,
-      "Дворников Денис Владимирович": 15,
-      "Закипнев Сергей Сергеевич": 98,
-      "Овечкин Андрей Владимирович": 29,
-      "Поздеев Евгений Любомирович": 5,
-      "Фролов Андрей Андреевич": 41,
-      "Харитонов Николай Михайлович": 146
+      "gas:candidate-vibid:4234003222496": 18,
+      "gas:candidate-vibid:4234003207414": 95,
+      "gas:candidate-vibid:4234003222274": 62,
+      "gas:candidate-vibid:4234003222873": 15,
+      "gas:candidate-vibid:4234003222689": 98,
+      "gas:candidate-vibid:4234003222419": 29,
+      "gas:candidate-vibid:4234003222625": 5,
+      "gas:candidate-vibid:4234003222198": 41,
+      "gas:candidate-vibid:4234003222353": 146
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/krasnodar?action=show&root=1000069&tvd=4234003206813&vrn=100100067795849&region=23&global=&sub_region=23&prver=0&pronetvd=null&vibid=4234003206813&type=464",
@@ -3819,15 +3819,15 @@ export const duma_2016_uik_463_region_23_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Благодаров Александр Александрович": 25,
-      "Высич Александр Николаевич": 55,
-      "Гусейнова Виктория Сергеевна": 70,
-      "Дворников Денис Владимирович": 18,
-      "Закипнев Сергей Сергеевич": 41,
-      "Овечкин Андрей Владимирович": 31,
-      "Поздеев Евгений Любомирович": 5,
-      "Фролов Андрей Андреевич": 102,
-      "Харитонов Николай Михайлович": 75
+      "gas:candidate-vibid:4234003222496": 25,
+      "gas:candidate-vibid:4234003207414": 55,
+      "gas:candidate-vibid:4234003222274": 70,
+      "gas:candidate-vibid:4234003222873": 18,
+      "gas:candidate-vibid:4234003222689": 41,
+      "gas:candidate-vibid:4234003222419": 31,
+      "gas:candidate-vibid:4234003222625": 5,
+      "gas:candidate-vibid:4234003222198": 102,
+      "gas:candidate-vibid:4234003222353": 75
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/krasnodar?action=show&root=1000069&tvd=4234003206813&vrn=100100067795849&region=23&global=&sub_region=23&prver=0&pronetvd=null&vibid=4234003206813&type=464",
@@ -3878,15 +3878,15 @@ export const duma_2016_uik_463_region_23_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Благодаров Александр Александрович": 4,
-      "Высич Александр Николаевич": 10,
-      "Гусейнова Виктория Сергеевна": 15,
-      "Дворников Денис Владимирович": 3,
-      "Закипнев Сергей Сергеевич": 9,
-      "Овечкин Андрей Владимирович": 6,
-      "Поздеев Евгений Любомирович": 3,
-      "Фролов Андрей Андреевич": 7,
-      "Харитонов Николай Михайлович": 37
+      "gas:candidate-vibid:4234003222496": 4,
+      "gas:candidate-vibid:4234003207414": 10,
+      "gas:candidate-vibid:4234003222274": 15,
+      "gas:candidate-vibid:4234003222873": 3,
+      "gas:candidate-vibid:4234003222689": 9,
+      "gas:candidate-vibid:4234003222419": 6,
+      "gas:candidate-vibid:4234003222625": 3,
+      "gas:candidate-vibid:4234003222198": 7,
+      "gas:candidate-vibid:4234003222353": 37
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/krasnodar?action=show&root=1000069&tvd=4234003206813&vrn=100100067795849&region=23&global=&sub_region=23&prver=0&pronetvd=null&vibid=4234003206813&type=464",
@@ -3937,15 +3937,15 @@ export const duma_2016_uik_463_region_23_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Благодаров Александр Александрович": 3,
-      "Высич Александр Николаевич": 3,
-      "Гусейнова Виктория Сергеевна": 8,
-      "Дворников Денис Владимирович": 4,
-      "Закипнев Сергей Сергеевич": 8,
-      "Овечкин Андрей Владимирович": 16,
-      "Поздеев Евгений Любомирович": 4,
-      "Фролов Андрей Андреевич": 7,
-      "Харитонов Николай Михайлович": 53
+      "gas:candidate-vibid:4234003222496": 3,
+      "gas:candidate-vibid:4234003207414": 3,
+      "gas:candidate-vibid:4234003222274": 8,
+      "gas:candidate-vibid:4234003222873": 4,
+      "gas:candidate-vibid:4234003222689": 8,
+      "gas:candidate-vibid:4234003222419": 16,
+      "gas:candidate-vibid:4234003222625": 4,
+      "gas:candidate-vibid:4234003222198": 7,
+      "gas:candidate-vibid:4234003222353": 53
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/krasnodar?action=show&root=1000069&tvd=4234003206813&vrn=100100067795849&region=23&global=&sub_region=23&prver=0&pronetvd=null&vibid=4234003206813&type=464",
@@ -3996,15 +3996,15 @@ export const duma_2016_uik_463_region_23_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Благодаров Александр Александрович": 26,
-      "Высич Александр Николаевич": 59,
-      "Гусейнова Виктория Сергеевна": 61,
-      "Дворников Денис Владимирович": 27,
-      "Закипнев Сергей Сергеевич": 64,
-      "Овечкин Андрей Владимирович": 55,
-      "Поздеев Евгений Любомирович": 11,
-      "Фролов Андрей Андреевич": 40,
-      "Харитонов Николай Михайлович": 112
+      "gas:candidate-vibid:4234003222496": 26,
+      "gas:candidate-vibid:4234003207414": 59,
+      "gas:candidate-vibid:4234003222274": 61,
+      "gas:candidate-vibid:4234003222873": 27,
+      "gas:candidate-vibid:4234003222689": 64,
+      "gas:candidate-vibid:4234003222419": 55,
+      "gas:candidate-vibid:4234003222625": 11,
+      "gas:candidate-vibid:4234003222198": 40,
+      "gas:candidate-vibid:4234003222353": 112
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/krasnodar?action=show&root=1000069&tvd=4234003206813&vrn=100100067795849&region=23&global=&sub_region=23&prver=0&pronetvd=null&vibid=4234003206813&type=464",
@@ -4055,15 +4055,15 @@ export const duma_2016_uik_463_region_23_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Благодаров Александр Александрович": 24,
-      "Высич Александр Николаевич": 55,
-      "Гусейнова Виктория Сергеевна": 44,
-      "Дворников Денис Владимирович": 14,
-      "Закипнев Сергей Сергеевич": 45,
-      "Овечкин Андрей Владимирович": 23,
-      "Поздеев Евгений Любомирович": 3,
-      "Фролов Андрей Андреевич": 154,
-      "Харитонов Николай Михайлович": 300
+      "gas:candidate-vibid:4234003222496": 24,
+      "gas:candidate-vibid:4234003207414": 55,
+      "gas:candidate-vibid:4234003222274": 44,
+      "gas:candidate-vibid:4234003222873": 14,
+      "gas:candidate-vibid:4234003222689": 45,
+      "gas:candidate-vibid:4234003222419": 23,
+      "gas:candidate-vibid:4234003222625": 3,
+      "gas:candidate-vibid:4234003222198": 154,
+      "gas:candidate-vibid:4234003222353": 300
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/krasnodar?action=show&root=1000069&tvd=4234003206813&vrn=100100067795849&region=23&global=&sub_region=23&prver=0&pronetvd=null&vibid=4234003206813&type=464",
@@ -4114,15 +4114,15 @@ export const duma_2016_uik_463_region_23_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Благодаров Александр Александрович": 16,
-      "Высич Александр Николаевич": 27,
-      "Гусейнова Виктория Сергеевна": 46,
-      "Дворников Денис Владимирович": 21,
-      "Закипнев Сергей Сергеевич": 27,
-      "Овечкин Андрей Владимирович": 17,
-      "Поздеев Евгений Любомирович": 1,
-      "Фролов Андрей Андреевич": 31,
-      "Харитонов Николай Михайлович": 112
+      "gas:candidate-vibid:4234003222496": 16,
+      "gas:candidate-vibid:4234003207414": 27,
+      "gas:candidate-vibid:4234003222274": 46,
+      "gas:candidate-vibid:4234003222873": 21,
+      "gas:candidate-vibid:4234003222689": 27,
+      "gas:candidate-vibid:4234003222419": 17,
+      "gas:candidate-vibid:4234003222625": 1,
+      "gas:candidate-vibid:4234003222198": 31,
+      "gas:candidate-vibid:4234003222353": 112
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/krasnodar?action=show&root=1000069&tvd=4234003206813&vrn=100100067795849&region=23&global=&sub_region=23&prver=0&pronetvd=null&vibid=4234003206813&type=464",
@@ -4173,15 +4173,15 @@ export const duma_2016_uik_463_region_23_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Благодаров Александр Александрович": 27,
-      "Высич Александр Николаевич": 74,
-      "Гусейнова Виктория Сергеевна": 56,
-      "Дворников Денис Владимирович": 34,
-      "Закипнев Сергей Сергеевич": 42,
-      "Овечкин Андрей Владимирович": 34,
-      "Поздеев Евгений Любомирович": 18,
-      "Фролов Андрей Андреевич": 87,
-      "Харитонов Николай Михайлович": 156
+      "gas:candidate-vibid:4234003222496": 27,
+      "gas:candidate-vibid:4234003207414": 74,
+      "gas:candidate-vibid:4234003222274": 56,
+      "gas:candidate-vibid:4234003222873": 34,
+      "gas:candidate-vibid:4234003222689": 42,
+      "gas:candidate-vibid:4234003222419": 34,
+      "gas:candidate-vibid:4234003222625": 18,
+      "gas:candidate-vibid:4234003222198": 87,
+      "gas:candidate-vibid:4234003222353": 156
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/krasnodar?action=show&root=1000069&tvd=4234003206813&vrn=100100067795849&region=23&global=&sub_region=23&prver=0&pronetvd=null&vibid=4234003206813&type=464",
@@ -4232,15 +4232,15 @@ export const duma_2016_uik_463_region_23_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Благодаров Александр Александрович": 30,
-      "Высич Александр Николаевич": 73,
-      "Гусейнова Виктория Сергеевна": 77,
-      "Дворников Денис Владимирович": 30,
-      "Закипнев Сергей Сергеевич": 64,
-      "Овечкин Андрей Владимирович": 34,
-      "Поздеев Евгений Любомирович": 15,
-      "Фролов Андрей Андреевич": 92,
-      "Харитонов Николай Михайлович": 287
+      "gas:candidate-vibid:4234003222496": 30,
+      "gas:candidate-vibid:4234003207414": 73,
+      "gas:candidate-vibid:4234003222274": 77,
+      "gas:candidate-vibid:4234003222873": 30,
+      "gas:candidate-vibid:4234003222689": 64,
+      "gas:candidate-vibid:4234003222419": 34,
+      "gas:candidate-vibid:4234003222625": 15,
+      "gas:candidate-vibid:4234003222198": 92,
+      "gas:candidate-vibid:4234003222353": 287
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/krasnodar?action=show&root=1000069&tvd=4234003206813&vrn=100100067795849&region=23&global=&sub_region=23&prver=0&pronetvd=null&vibid=4234003206813&type=464",
@@ -4291,15 +4291,15 @@ export const duma_2016_uik_463_region_23_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Благодаров Александр Александрович": 9,
-      "Высич Александр Николаевич": 26,
-      "Гусейнова Виктория Сергеевна": 23,
-      "Дворников Денис Владимирович": 11,
-      "Закипнев Сергей Сергеевич": 67,
-      "Овечкин Андрей Владимирович": 11,
-      "Поздеев Евгений Любомирович": 4,
-      "Фролов Андрей Андреевич": 28,
-      "Харитонов Николай Михайлович": 117
+      "gas:candidate-vibid:4234003222496": 9,
+      "gas:candidate-vibid:4234003207414": 26,
+      "gas:candidate-vibid:4234003222274": 23,
+      "gas:candidate-vibid:4234003222873": 11,
+      "gas:candidate-vibid:4234003222689": 67,
+      "gas:candidate-vibid:4234003222419": 11,
+      "gas:candidate-vibid:4234003222625": 4,
+      "gas:candidate-vibid:4234003222198": 28,
+      "gas:candidate-vibid:4234003222353": 117
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/krasnodar?action=show&root=1000069&tvd=4234003206813&vrn=100100067795849&region=23&global=&sub_region=23&prver=0&pronetvd=null&vibid=4234003206813&type=464",
@@ -4350,15 +4350,15 @@ export const duma_2016_uik_463_region_23_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Благодаров Александр Александрович": 14,
-      "Высич Александр Николаевич": 8,
-      "Гусейнова Виктория Сергеевна": 8,
-      "Дворников Денис Владимирович": 1,
-      "Закипнев Сергей Сергеевич": 4,
-      "Овечкин Андрей Владимирович": 2,
-      "Поздеев Евгений Любомирович": 1,
-      "Фролов Андрей Андреевич": 35,
-      "Харитонов Николай Михайлович": 44
+      "gas:candidate-vibid:4234003222496": 14,
+      "gas:candidate-vibid:4234003207414": 8,
+      "gas:candidate-vibid:4234003222274": 8,
+      "gas:candidate-vibid:4234003222873": 1,
+      "gas:candidate-vibid:4234003222689": 4,
+      "gas:candidate-vibid:4234003222419": 2,
+      "gas:candidate-vibid:4234003222625": 1,
+      "gas:candidate-vibid:4234003222198": 35,
+      "gas:candidate-vibid:4234003222353": 44
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/krasnodar?action=show&root=1000069&tvd=4234003206814&vrn=100100067795849&region=23&global=&sub_region=23&prver=0&pronetvd=null&vibid=4234003206814&type=464",
@@ -4409,15 +4409,15 @@ export const duma_2016_uik_463_region_23_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Благодаров Александр Александрович": 10,
-      "Высич Александр Николаевич": 13,
-      "Гусейнова Виктория Сергеевна": 18,
-      "Дворников Денис Владимирович": 0,
-      "Закипнев Сергей Сергеевич": 4,
-      "Овечкин Андрей Владимирович": 3,
-      "Поздеев Евгений Любомирович": 2,
-      "Фролов Андрей Андреевич": 42,
-      "Харитонов Николай Михайлович": 39
+      "gas:candidate-vibid:4234003222496": 10,
+      "gas:candidate-vibid:4234003207414": 13,
+      "gas:candidate-vibid:4234003222274": 18,
+      "gas:candidate-vibid:4234003222873": 0,
+      "gas:candidate-vibid:4234003222689": 4,
+      "gas:candidate-vibid:4234003222419": 3,
+      "gas:candidate-vibid:4234003222625": 2,
+      "gas:candidate-vibid:4234003222198": 42,
+      "gas:candidate-vibid:4234003222353": 39
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/krasnodar?action=show&root=1000069&tvd=4234003206814&vrn=100100067795849&region=23&global=&sub_region=23&prver=0&pronetvd=null&vibid=4234003206814&type=464",
@@ -4468,15 +4468,15 @@ export const duma_2016_uik_463_region_23_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Благодаров Александр Александрович": 102,
-      "Высич Александр Николаевич": 165,
-      "Гусейнова Виктория Сергеевна": 104,
-      "Дворников Денис Владимирович": 24,
-      "Закипнев Сергей Сергеевич": 31,
-      "Овечкин Андрей Владимирович": 45,
-      "Поздеев Евгений Любомирович": 31,
-      "Фролов Андрей Андреевич": 202,
-      "Харитонов Николай Михайлович": 175
+      "gas:candidate-vibid:4234003222496": 102,
+      "gas:candidate-vibid:4234003207414": 165,
+      "gas:candidate-vibid:4234003222274": 104,
+      "gas:candidate-vibid:4234003222873": 24,
+      "gas:candidate-vibid:4234003222689": 31,
+      "gas:candidate-vibid:4234003222419": 45,
+      "gas:candidate-vibid:4234003222625": 31,
+      "gas:candidate-vibid:4234003222198": 202,
+      "gas:candidate-vibid:4234003222353": 175
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/krasnodar?action=show&root=1000069&tvd=4234003206814&vrn=100100067795849&region=23&global=&sub_region=23&prver=0&pronetvd=null&vibid=4234003206814&type=464",
@@ -4527,15 +4527,15 @@ export const duma_2016_uik_463_region_23_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Благодаров Александр Александрович": 74,
-      "Высич Александр Николаевич": 118,
-      "Гусейнова Виктория Сергеевна": 50,
-      "Дворников Денис Владимирович": 23,
-      "Закипнев Сергей Сергеевич": 23,
-      "Овечкин Андрей Владимирович": 28,
-      "Поздеев Евгений Любомирович": 15,
-      "Фролов Андрей Андреевич": 202,
-      "Харитонов Николай Михайлович": 191
+      "gas:candidate-vibid:4234003222496": 74,
+      "gas:candidate-vibid:4234003207414": 118,
+      "gas:candidate-vibid:4234003222274": 50,
+      "gas:candidate-vibid:4234003222873": 23,
+      "gas:candidate-vibid:4234003222689": 23,
+      "gas:candidate-vibid:4234003222419": 28,
+      "gas:candidate-vibid:4234003222625": 15,
+      "gas:candidate-vibid:4234003222198": 202,
+      "gas:candidate-vibid:4234003222353": 191
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/krasnodar?action=show&root=1000069&tvd=4234003206814&vrn=100100067795849&region=23&global=&sub_region=23&prver=0&pronetvd=null&vibid=4234003206814&type=464",
@@ -4586,15 +4586,15 @@ export const duma_2016_uik_463_region_23_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Благодаров Александр Александрович": 85,
-      "Высич Александр Николаевич": 169,
-      "Гусейнова Виктория Сергеевна": 96,
-      "Дворников Денис Владимирович": 16,
-      "Закипнев Сергей Сергеевич": 13,
-      "Овечкин Андрей Владимирович": 33,
-      "Поздеев Евгений Любомирович": 9,
-      "Фролов Андрей Андреевич": 193,
-      "Харитонов Николай Михайлович": 168
+      "gas:candidate-vibid:4234003222496": 85,
+      "gas:candidate-vibid:4234003207414": 169,
+      "gas:candidate-vibid:4234003222274": 96,
+      "gas:candidate-vibid:4234003222873": 16,
+      "gas:candidate-vibid:4234003222689": 13,
+      "gas:candidate-vibid:4234003222419": 33,
+      "gas:candidate-vibid:4234003222625": 9,
+      "gas:candidate-vibid:4234003222198": 193,
+      "gas:candidate-vibid:4234003222353": 168
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/krasnodar?action=show&root=1000069&tvd=4234003206814&vrn=100100067795849&region=23&global=&sub_region=23&prver=0&pronetvd=null&vibid=4234003206814&type=464",
@@ -4645,15 +4645,15 @@ export const duma_2016_uik_463_region_23_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Благодаров Александр Александрович": 13,
-      "Высич Александр Николаевич": 20,
-      "Гусейнова Виктория Сергеевна": 11,
-      "Дворников Денис Владимирович": 6,
-      "Закипнев Сергей Сергеевич": 2,
-      "Овечкин Андрей Владимирович": 7,
-      "Поздеев Евгений Любомирович": 2,
-      "Фролов Андрей Андреевич": 47,
-      "Харитонов Николай Михайлович": 68
+      "gas:candidate-vibid:4234003222496": 13,
+      "gas:candidate-vibid:4234003207414": 20,
+      "gas:candidate-vibid:4234003222274": 11,
+      "gas:candidate-vibid:4234003222873": 6,
+      "gas:candidate-vibid:4234003222689": 2,
+      "gas:candidate-vibid:4234003222419": 7,
+      "gas:candidate-vibid:4234003222625": 2,
+      "gas:candidate-vibid:4234003222198": 47,
+      "gas:candidate-vibid:4234003222353": 68
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/krasnodar?action=show&root=1000069&tvd=4234003206814&vrn=100100067795849&region=23&global=&sub_region=23&prver=0&pronetvd=null&vibid=4234003206814&type=464",
@@ -4704,15 +4704,15 @@ export const duma_2016_uik_463_region_23_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Благодаров Александр Александрович": 4,
-      "Высич Александр Николаевич": 3,
-      "Гусейнова Виктория Сергеевна": 3,
-      "Дворников Денис Владимирович": 2,
-      "Закипнев Сергей Сергеевич": 2,
-      "Овечкин Андрей Владимирович": 6,
-      "Поздеев Евгений Любомирович": 2,
-      "Фролов Андрей Андреевич": 10,
-      "Харитонов Николай Михайлович": 52
+      "gas:candidate-vibid:4234003222496": 4,
+      "gas:candidate-vibid:4234003207414": 3,
+      "gas:candidate-vibid:4234003222274": 3,
+      "gas:candidate-vibid:4234003222873": 2,
+      "gas:candidate-vibid:4234003222689": 2,
+      "gas:candidate-vibid:4234003222419": 6,
+      "gas:candidate-vibid:4234003222625": 2,
+      "gas:candidate-vibid:4234003222198": 10,
+      "gas:candidate-vibid:4234003222353": 52
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/krasnodar?action=show&root=1000069&tvd=4234003206814&vrn=100100067795849&region=23&global=&sub_region=23&prver=0&pronetvd=null&vibid=4234003206814&type=464",
@@ -4763,15 +4763,15 @@ export const duma_2016_uik_463_region_23_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Благодаров Александр Александрович": 46,
-      "Высич Александр Николаевич": 90,
-      "Гусейнова Виктория Сергеевна": 35,
-      "Дворников Денис Владимирович": 11,
-      "Закипнев Сергей Сергеевич": 11,
-      "Овечкин Андрей Владимирович": 22,
-      "Поздеев Евгений Любомирович": 8,
-      "Фролов Андрей Андреевич": 113,
-      "Харитонов Николай Михайлович": 105
+      "gas:candidate-vibid:4234003222496": 46,
+      "gas:candidate-vibid:4234003207414": 90,
+      "gas:candidate-vibid:4234003222274": 35,
+      "gas:candidate-vibid:4234003222873": 11,
+      "gas:candidate-vibid:4234003222689": 11,
+      "gas:candidate-vibid:4234003222419": 22,
+      "gas:candidate-vibid:4234003222625": 8,
+      "gas:candidate-vibid:4234003222198": 113,
+      "gas:candidate-vibid:4234003222353": 105
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/krasnodar?action=show&root=1000069&tvd=4234003206814&vrn=100100067795849&region=23&global=&sub_region=23&prver=0&pronetvd=null&vibid=4234003206814&type=464",
@@ -4822,15 +4822,15 @@ export const duma_2016_uik_463_region_23_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Благодаров Александр Александрович": 23,
-      "Высич Александр Николаевич": 32,
-      "Гусейнова Виктория Сергеевна": 16,
-      "Дворников Денис Владимирович": 13,
-      "Закипнев Сергей Сергеевич": 6,
-      "Овечкин Андрей Владимирович": 12,
-      "Поздеев Евгений Любомирович": 0,
-      "Фролов Андрей Андреевич": 55,
-      "Харитонов Николай Михайлович": 284
+      "gas:candidate-vibid:4234003222496": 23,
+      "gas:candidate-vibid:4234003207414": 32,
+      "gas:candidate-vibid:4234003222274": 16,
+      "gas:candidate-vibid:4234003222873": 13,
+      "gas:candidate-vibid:4234003222689": 6,
+      "gas:candidate-vibid:4234003222419": 12,
+      "gas:candidate-vibid:4234003222625": 0,
+      "gas:candidate-vibid:4234003222198": 55,
+      "gas:candidate-vibid:4234003222353": 284
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/krasnodar?action=show&root=1000069&tvd=4234003206814&vrn=100100067795849&region=23&global=&sub_region=23&prver=0&pronetvd=null&vibid=4234003206814&type=464",
@@ -4881,15 +4881,15 @@ export const duma_2016_uik_463_region_23_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Благодаров Александр Александрович": 5,
-      "Высич Александр Николаевич": 15,
-      "Гусейнова Виктория Сергеевна": 12,
-      "Дворников Денис Владимирович": 4,
-      "Закипнев Сергей Сергеевич": 3,
-      "Овечкин Андрей Владимирович": 3,
-      "Поздеев Евгений Любомирович": 3,
-      "Фролов Андрей Андреевич": 42,
-      "Харитонов Николай Михайлович": 53
+      "gas:candidate-vibid:4234003222496": 5,
+      "gas:candidate-vibid:4234003207414": 15,
+      "gas:candidate-vibid:4234003222274": 12,
+      "gas:candidate-vibid:4234003222873": 4,
+      "gas:candidate-vibid:4234003222689": 3,
+      "gas:candidate-vibid:4234003222419": 3,
+      "gas:candidate-vibid:4234003222625": 3,
+      "gas:candidate-vibid:4234003222198": 42,
+      "gas:candidate-vibid:4234003222353": 53
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/krasnodar?action=show&root=1000069&tvd=4234003206814&vrn=100100067795849&region=23&global=&sub_region=23&prver=0&pronetvd=null&vibid=4234003206814&type=464",
@@ -4940,15 +4940,15 @@ export const duma_2016_uik_463_region_23_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Благодаров Александр Александрович": 14,
-      "Высич Александр Николаевич": 12,
-      "Гусейнова Виктория Сергеевна": 23,
-      "Дворников Денис Владимирович": 4,
-      "Закипнев Сергей Сергеевич": 2,
-      "Овечкин Андрей Владимирович": 9,
-      "Поздеев Евгений Любомирович": 4,
-      "Фролов Андрей Андреевич": 48,
-      "Харитонов Николай Михайлович": 106
+      "gas:candidate-vibid:4234003222496": 14,
+      "gas:candidate-vibid:4234003207414": 12,
+      "gas:candidate-vibid:4234003222274": 23,
+      "gas:candidate-vibid:4234003222873": 4,
+      "gas:candidate-vibid:4234003222689": 2,
+      "gas:candidate-vibid:4234003222419": 9,
+      "gas:candidate-vibid:4234003222625": 4,
+      "gas:candidate-vibid:4234003222198": 48,
+      "gas:candidate-vibid:4234003222353": 106
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/krasnodar?action=show&root=1000069&tvd=4234003206814&vrn=100100067795849&region=23&global=&sub_region=23&prver=0&pronetvd=null&vibid=4234003206814&type=464",
@@ -4999,15 +4999,15 @@ export const duma_2016_uik_463_region_23_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Благодаров Александр Александрович": 15,
-      "Высич Александр Николаевич": 22,
-      "Гусейнова Виктория Сергеевна": 31,
-      "Дворников Денис Владимирович": 0,
-      "Закипнев Сергей Сергеевич": 1,
-      "Овечкин Андрей Владимирович": 6,
-      "Поздеев Евгений Любомирович": 4,
-      "Фролов Андрей Андреевич": 76,
-      "Харитонов Николай Михайлович": 86
+      "gas:candidate-vibid:4234003222496": 15,
+      "gas:candidate-vibid:4234003207414": 22,
+      "gas:candidate-vibid:4234003222274": 31,
+      "gas:candidate-vibid:4234003222873": 0,
+      "gas:candidate-vibid:4234003222689": 1,
+      "gas:candidate-vibid:4234003222419": 6,
+      "gas:candidate-vibid:4234003222625": 4,
+      "gas:candidate-vibid:4234003222198": 76,
+      "gas:candidate-vibid:4234003222353": 86
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/krasnodar?action=show&root=1000069&tvd=4234003206814&vrn=100100067795849&region=23&global=&sub_region=23&prver=0&pronetvd=null&vibid=4234003206814&type=464",
@@ -5058,15 +5058,15 @@ export const duma_2016_uik_463_region_23_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Благодаров Александр Александрович": 22,
-      "Высич Александр Николаевич": 41,
-      "Гусейнова Виктория Сергеевна": 18,
-      "Дворников Денис Владимирович": 8,
-      "Закипнев Сергей Сергеевич": 8,
-      "Овечкин Андрей Владимирович": 6,
-      "Поздеев Евгений Любомирович": 2,
-      "Фролов Андрей Андреевич": 49,
-      "Харитонов Николай Михайлович": 123
+      "gas:candidate-vibid:4234003222496": 22,
+      "gas:candidate-vibid:4234003207414": 41,
+      "gas:candidate-vibid:4234003222274": 18,
+      "gas:candidate-vibid:4234003222873": 8,
+      "gas:candidate-vibid:4234003222689": 8,
+      "gas:candidate-vibid:4234003222419": 6,
+      "gas:candidate-vibid:4234003222625": 2,
+      "gas:candidate-vibid:4234003222198": 49,
+      "gas:candidate-vibid:4234003222353": 123
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/krasnodar?action=show&root=1000069&tvd=4234003206814&vrn=100100067795849&region=23&global=&sub_region=23&prver=0&pronetvd=null&vibid=4234003206814&type=464",
@@ -5117,15 +5117,15 @@ export const duma_2016_uik_463_region_23_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Благодаров Александр Александрович": 14,
-      "Высич Александр Николаевич": 26,
-      "Гусейнова Виктория Сергеевна": 13,
-      "Дворников Денис Владимирович": 11,
-      "Закипнев Сергей Сергеевич": 7,
-      "Овечкин Андрей Владимирович": 3,
-      "Поздеев Евгений Любомирович": 1,
-      "Фролов Андрей Андреевич": 24,
-      "Харитонов Николай Михайлович": 153
+      "gas:candidate-vibid:4234003222496": 14,
+      "gas:candidate-vibid:4234003207414": 26,
+      "gas:candidate-vibid:4234003222274": 13,
+      "gas:candidate-vibid:4234003222873": 11,
+      "gas:candidate-vibid:4234003222689": 7,
+      "gas:candidate-vibid:4234003222419": 3,
+      "gas:candidate-vibid:4234003222625": 1,
+      "gas:candidate-vibid:4234003222198": 24,
+      "gas:candidate-vibid:4234003222353": 153
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/krasnodar?action=show&root=1000069&tvd=4234003206814&vrn=100100067795849&region=23&global=&sub_region=23&prver=0&pronetvd=null&vibid=4234003206814&type=464",
@@ -5176,15 +5176,15 @@ export const duma_2016_uik_463_region_23_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Благодаров Александр Александрович": 11,
-      "Высич Александр Николаевич": 20,
-      "Гусейнова Виктория Сергеевна": 6,
-      "Дворников Денис Владимирович": 7,
-      "Закипнев Сергей Сергеевич": 4,
-      "Овечкин Андрей Владимирович": 4,
-      "Поздеев Евгений Любомирович": 0,
-      "Фролов Андрей Андреевич": 24,
-      "Харитонов Николай Михайлович": 233
+      "gas:candidate-vibid:4234003222496": 11,
+      "gas:candidate-vibid:4234003207414": 20,
+      "gas:candidate-vibid:4234003222274": 6,
+      "gas:candidate-vibid:4234003222873": 7,
+      "gas:candidate-vibid:4234003222689": 4,
+      "gas:candidate-vibid:4234003222419": 4,
+      "gas:candidate-vibid:4234003222625": 0,
+      "gas:candidate-vibid:4234003222198": 24,
+      "gas:candidate-vibid:4234003222353": 233
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/krasnodar?action=show&root=1000069&tvd=4234003206814&vrn=100100067795849&region=23&global=&sub_region=23&prver=0&pronetvd=null&vibid=4234003206814&type=464",
@@ -5235,15 +5235,15 @@ export const duma_2016_uik_463_region_23_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Благодаров Александр Александрович": 4,
-      "Высич Александр Николаевич": 15,
-      "Гусейнова Виктория Сергеевна": 8,
-      "Дворников Денис Владимирович": 2,
-      "Закипнев Сергей Сергеевич": 1,
-      "Овечкин Андрей Владимирович": 0,
-      "Поздеев Евгений Любомирович": 0,
-      "Фролов Андрей Андреевич": 18,
-      "Харитонов Николай Михайлович": 74
+      "gas:candidate-vibid:4234003222496": 4,
+      "gas:candidate-vibid:4234003207414": 15,
+      "gas:candidate-vibid:4234003222274": 8,
+      "gas:candidate-vibid:4234003222873": 2,
+      "gas:candidate-vibid:4234003222689": 1,
+      "gas:candidate-vibid:4234003222419": 0,
+      "gas:candidate-vibid:4234003222625": 0,
+      "gas:candidate-vibid:4234003222198": 18,
+      "gas:candidate-vibid:4234003222353": 74
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/krasnodar?action=show&root=1000069&tvd=4234003206814&vrn=100100067795849&region=23&global=&sub_region=23&prver=0&pronetvd=null&vibid=4234003206814&type=464",
@@ -5294,15 +5294,15 @@ export const duma_2016_uik_463_region_23_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Благодаров Александр Александрович": 61,
-      "Высич Александр Николаевич": 90,
-      "Гусейнова Виктория Сергеевна": 39,
-      "Дворников Денис Владимирович": 15,
-      "Закипнев Сергей Сергеевич": 12,
-      "Овечкин Андрей Владимирович": 29,
-      "Поздеев Евгений Любомирович": 11,
-      "Фролов Андрей Андреевич": 143,
-      "Харитонов Николай Михайлович": 171
+      "gas:candidate-vibid:4234003222496": 61,
+      "gas:candidate-vibid:4234003207414": 90,
+      "gas:candidate-vibid:4234003222274": 39,
+      "gas:candidate-vibid:4234003222873": 15,
+      "gas:candidate-vibid:4234003222689": 12,
+      "gas:candidate-vibid:4234003222419": 29,
+      "gas:candidate-vibid:4234003222625": 11,
+      "gas:candidate-vibid:4234003222198": 143,
+      "gas:candidate-vibid:4234003222353": 171
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/krasnodar?action=show&root=1000069&tvd=4234003206814&vrn=100100067795849&region=23&global=&sub_region=23&prver=0&pronetvd=null&vibid=4234003206814&type=464",
@@ -5353,15 +5353,15 @@ export const duma_2016_uik_463_region_23_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Благодаров Александр Александрович": 54,
-      "Высич Александр Николаевич": 142,
-      "Гусейнова Виктория Сергеевна": 48,
-      "Дворников Денис Владимирович": 15,
-      "Закипнев Сергей Сергеевич": 24,
-      "Овечкин Андрей Владимирович": 19,
-      "Поздеев Евгений Любомирович": 16,
-      "Фролов Андрей Андреевич": 132,
-      "Харитонов Николай Михайлович": 136
+      "gas:candidate-vibid:4234003222496": 54,
+      "gas:candidate-vibid:4234003207414": 142,
+      "gas:candidate-vibid:4234003222274": 48,
+      "gas:candidate-vibid:4234003222873": 15,
+      "gas:candidate-vibid:4234003222689": 24,
+      "gas:candidate-vibid:4234003222419": 19,
+      "gas:candidate-vibid:4234003222625": 16,
+      "gas:candidate-vibid:4234003222198": 132,
+      "gas:candidate-vibid:4234003222353": 136
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/krasnodar?action=show&root=1000069&tvd=4234003206814&vrn=100100067795849&region=23&global=&sub_region=23&prver=0&pronetvd=null&vibid=4234003206814&type=464",
@@ -5412,15 +5412,15 @@ export const duma_2016_uik_463_region_23_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Благодаров Александр Александрович": 44,
-      "Высич Александр Николаевич": 100,
-      "Гусейнова Виктория Сергеевна": 36,
-      "Дворников Денис Владимирович": 10,
-      "Закипнев Сергей Сергеевич": 11,
-      "Овечкин Андрей Владимирович": 20,
-      "Поздеев Евгений Любомирович": 8,
-      "Фролов Андрей Андреевич": 84,
-      "Харитонов Николай Михайлович": 112
+      "gas:candidate-vibid:4234003222496": 44,
+      "gas:candidate-vibid:4234003207414": 100,
+      "gas:candidate-vibid:4234003222274": 36,
+      "gas:candidate-vibid:4234003222873": 10,
+      "gas:candidate-vibid:4234003222689": 11,
+      "gas:candidate-vibid:4234003222419": 20,
+      "gas:candidate-vibid:4234003222625": 8,
+      "gas:candidate-vibid:4234003222198": 84,
+      "gas:candidate-vibid:4234003222353": 112
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/krasnodar?action=show&root=1000069&tvd=4234003206814&vrn=100100067795849&region=23&global=&sub_region=23&prver=0&pronetvd=null&vibid=4234003206814&type=464",
@@ -5471,15 +5471,15 @@ export const duma_2016_uik_463_region_23_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Благодаров Александр Александрович": 61,
-      "Высич Александр Николаевич": 77,
-      "Гусейнова Виктория Сергеевна": 34,
-      "Дворников Денис Владимирович": 14,
-      "Закипнев Сергей Сергеевич": 19,
-      "Овечкин Андрей Владимирович": 15,
-      "Поздеев Евгений Любомирович": 3,
-      "Фролов Андрей Андреевич": 82,
-      "Харитонов Николай Михайлович": 137
+      "gas:candidate-vibid:4234003222496": 61,
+      "gas:candidate-vibid:4234003207414": 77,
+      "gas:candidate-vibid:4234003222274": 34,
+      "gas:candidate-vibid:4234003222873": 14,
+      "gas:candidate-vibid:4234003222689": 19,
+      "gas:candidate-vibid:4234003222419": 15,
+      "gas:candidate-vibid:4234003222625": 3,
+      "gas:candidate-vibid:4234003222198": 82,
+      "gas:candidate-vibid:4234003222353": 137
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/krasnodar?action=show&root=1000069&tvd=4234003206814&vrn=100100067795849&region=23&global=&sub_region=23&prver=0&pronetvd=null&vibid=4234003206814&type=464",
@@ -5530,15 +5530,15 @@ export const duma_2016_uik_463_region_23_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Благодаров Александр Александрович": 60,
-      "Высич Александр Николаевич": 122,
-      "Гусейнова Виктория Сергеевна": 42,
-      "Дворников Денис Владимирович": 20,
-      "Закипнев Сергей Сергеевич": 13,
-      "Овечкин Андрей Владимирович": 24,
-      "Поздеев Евгений Любомирович": 11,
-      "Фролов Андрей Андреевич": 85,
-      "Харитонов Николай Михайлович": 262
+      "gas:candidate-vibid:4234003222496": 60,
+      "gas:candidate-vibid:4234003207414": 122,
+      "gas:candidate-vibid:4234003222274": 42,
+      "gas:candidate-vibid:4234003222873": 20,
+      "gas:candidate-vibid:4234003222689": 13,
+      "gas:candidate-vibid:4234003222419": 24,
+      "gas:candidate-vibid:4234003222625": 11,
+      "gas:candidate-vibid:4234003222198": 85,
+      "gas:candidate-vibid:4234003222353": 262
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/krasnodar?action=show&root=1000069&tvd=4234003206814&vrn=100100067795849&region=23&global=&sub_region=23&prver=0&pronetvd=null&vibid=4234003206814&type=464",
@@ -5589,15 +5589,15 @@ export const duma_2016_uik_463_region_23_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Благодаров Александр Александрович": 76,
-      "Высич Александр Николаевич": 129,
-      "Гусейнова Виктория Сергеевна": 66,
-      "Дворников Денис Владимирович": 14,
-      "Закипнев Сергей Сергеевич": 28,
-      "Овечкин Андрей Владимирович": 26,
-      "Поздеев Евгений Любомирович": 18,
-      "Фролов Андрей Андреевич": 356,
-      "Харитонов Николай Михайлович": 220
+      "gas:candidate-vibid:4234003222496": 76,
+      "gas:candidate-vibid:4234003207414": 129,
+      "gas:candidate-vibid:4234003222274": 66,
+      "gas:candidate-vibid:4234003222873": 14,
+      "gas:candidate-vibid:4234003222689": 28,
+      "gas:candidate-vibid:4234003222419": 26,
+      "gas:candidate-vibid:4234003222625": 18,
+      "gas:candidate-vibid:4234003222198": 356,
+      "gas:candidate-vibid:4234003222353": 220
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/krasnodar?action=show&root=1000069&tvd=4234003206814&vrn=100100067795849&region=23&global=&sub_region=23&prver=0&pronetvd=null&vibid=4234003206814&type=464",
@@ -5648,15 +5648,15 @@ export const duma_2016_uik_463_region_23_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Благодаров Александр Александрович": 48,
-      "Высич Александр Николаевич": 109,
-      "Гусейнова Виктория Сергеевна": 51,
-      "Дворников Денис Владимирович": 30,
-      "Закипнев Сергей Сергеевич": 19,
-      "Овечкин Андрей Владимирович": 22,
-      "Поздеев Евгений Любомирович": 6,
-      "Фролов Андрей Андреевич": 93,
-      "Харитонов Николай Михайлович": 178
+      "gas:candidate-vibid:4234003222496": 48,
+      "gas:candidate-vibid:4234003207414": 109,
+      "gas:candidate-vibid:4234003222274": 51,
+      "gas:candidate-vibid:4234003222873": 30,
+      "gas:candidate-vibid:4234003222689": 19,
+      "gas:candidate-vibid:4234003222419": 22,
+      "gas:candidate-vibid:4234003222625": 6,
+      "gas:candidate-vibid:4234003222198": 93,
+      "gas:candidate-vibid:4234003222353": 178
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/krasnodar?action=show&root=1000069&tvd=4234003206814&vrn=100100067795849&region=23&global=&sub_region=23&prver=0&pronetvd=null&vibid=4234003206814&type=464",
@@ -5707,15 +5707,15 @@ export const duma_2016_uik_463_region_23_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Благодаров Александр Александрович": 33,
-      "Высич Александр Николаевич": 85,
-      "Гусейнова Виктория Сергеевна": 40,
-      "Дворников Денис Владимирович": 12,
-      "Закипнев Сергей Сергеевич": 19,
-      "Овечкин Андрей Владимирович": 13,
-      "Поздеев Евгений Любомирович": 5,
-      "Фролов Андрей Андреевич": 57,
-      "Харитонов Николай Михайлович": 264
+      "gas:candidate-vibid:4234003222496": 33,
+      "gas:candidate-vibid:4234003207414": 85,
+      "gas:candidate-vibid:4234003222274": 40,
+      "gas:candidate-vibid:4234003222873": 12,
+      "gas:candidate-vibid:4234003222689": 19,
+      "gas:candidate-vibid:4234003222419": 13,
+      "gas:candidate-vibid:4234003222625": 5,
+      "gas:candidate-vibid:4234003222198": 57,
+      "gas:candidate-vibid:4234003222353": 264
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/krasnodar?action=show&root=1000069&tvd=4234003206814&vrn=100100067795849&region=23&global=&sub_region=23&prver=0&pronetvd=null&vibid=4234003206814&type=464",
@@ -5766,15 +5766,15 @@ export const duma_2016_uik_463_region_23_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Благодаров Александр Александрович": 37,
-      "Высич Александр Николаевич": 56,
-      "Гусейнова Виктория Сергеевна": 31,
-      "Дворников Денис Владимирович": 9,
-      "Закипнев Сергей Сергеевич": 11,
-      "Овечкин Андрей Владимирович": 10,
-      "Поздеев Евгений Любомирович": 11,
-      "Фролов Андрей Андреевич": 55,
-      "Харитонов Николай Михайлович": 93
+      "gas:candidate-vibid:4234003222496": 37,
+      "gas:candidate-vibid:4234003207414": 56,
+      "gas:candidate-vibid:4234003222274": 31,
+      "gas:candidate-vibid:4234003222873": 9,
+      "gas:candidate-vibid:4234003222689": 11,
+      "gas:candidate-vibid:4234003222419": 10,
+      "gas:candidate-vibid:4234003222625": 11,
+      "gas:candidate-vibid:4234003222198": 55,
+      "gas:candidate-vibid:4234003222353": 93
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/krasnodar?action=show&root=1000069&tvd=4234003206814&vrn=100100067795849&region=23&global=&sub_region=23&prver=0&pronetvd=null&vibid=4234003206814&type=464",
@@ -5825,15 +5825,15 @@ export const duma_2016_uik_463_region_23_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Благодаров Александр Александрович": 55,
-      "Высич Александр Николаевич": 91,
-      "Гусейнова Виктория Сергеевна": 37,
-      "Дворников Денис Владимирович": 6,
-      "Закипнев Сергей Сергеевич": 24,
-      "Овечкин Андрей Владимирович": 10,
-      "Поздеев Евгений Любомирович": 11,
-      "Фролов Андрей Андреевич": 92,
-      "Харитонов Николай Михайлович": 92
+      "gas:candidate-vibid:4234003222496": 55,
+      "gas:candidate-vibid:4234003207414": 91,
+      "gas:candidate-vibid:4234003222274": 37,
+      "gas:candidate-vibid:4234003222873": 6,
+      "gas:candidate-vibid:4234003222689": 24,
+      "gas:candidate-vibid:4234003222419": 10,
+      "gas:candidate-vibid:4234003222625": 11,
+      "gas:candidate-vibid:4234003222198": 92,
+      "gas:candidate-vibid:4234003222353": 92
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/krasnodar?action=show&root=1000069&tvd=4234003206814&vrn=100100067795849&region=23&global=&sub_region=23&prver=0&pronetvd=null&vibid=4234003206814&type=464",
@@ -5884,15 +5884,15 @@ export const duma_2016_uik_463_region_23_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Благодаров Александр Александрович": 51,
-      "Высич Александр Николаевич": 96,
-      "Гусейнова Виктория Сергеевна": 30,
-      "Дворников Денис Владимирович": 11,
-      "Закипнев Сергей Сергеевич": 20,
-      "Овечкин Андрей Владимирович": 16,
-      "Поздеев Евгений Любомирович": 10,
-      "Фролов Андрей Андреевич": 70,
-      "Харитонов Николай Михайлович": 112
+      "gas:candidate-vibid:4234003222496": 51,
+      "gas:candidate-vibid:4234003207414": 96,
+      "gas:candidate-vibid:4234003222274": 30,
+      "gas:candidate-vibid:4234003222873": 11,
+      "gas:candidate-vibid:4234003222689": 20,
+      "gas:candidate-vibid:4234003222419": 16,
+      "gas:candidate-vibid:4234003222625": 10,
+      "gas:candidate-vibid:4234003222198": 70,
+      "gas:candidate-vibid:4234003222353": 112
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/krasnodar?action=show&root=1000069&tvd=4234003206814&vrn=100100067795849&region=23&global=&sub_region=23&prver=0&pronetvd=null&vibid=4234003206814&type=464",
@@ -5943,15 +5943,15 @@ export const duma_2016_uik_463_region_23_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Благодаров Александр Александрович": 29,
-      "Высич Александр Николаевич": 90,
-      "Гусейнова Виктория Сергеевна": 27,
-      "Дворников Денис Владимирович": 4,
-      "Закипнев Сергей Сергеевич": 7,
-      "Овечкин Андрей Владимирович": 10,
-      "Поздеев Евгений Любомирович": 1,
-      "Фролов Андрей Андреевич": 101,
-      "Харитонов Николай Михайлович": 101
+      "gas:candidate-vibid:4234003222496": 29,
+      "gas:candidate-vibid:4234003207414": 90,
+      "gas:candidate-vibid:4234003222274": 27,
+      "gas:candidate-vibid:4234003222873": 4,
+      "gas:candidate-vibid:4234003222689": 7,
+      "gas:candidate-vibid:4234003222419": 10,
+      "gas:candidate-vibid:4234003222625": 1,
+      "gas:candidate-vibid:4234003222198": 101,
+      "gas:candidate-vibid:4234003222353": 101
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/krasnodar?action=show&root=1000069&tvd=4234003206814&vrn=100100067795849&region=23&global=&sub_region=23&prver=0&pronetvd=null&vibid=4234003206814&type=464",
@@ -6002,15 +6002,15 @@ export const duma_2016_uik_463_region_23_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Благодаров Александр Александрович": 51,
-      "Высич Александр Николаевич": 98,
-      "Гусейнова Виктория Сергеевна": 40,
-      "Дворников Денис Владимирович": 16,
-      "Закипнев Сергей Сергеевич": 24,
-      "Овечкин Андрей Владимирович": 18,
-      "Поздеев Евгений Любомирович": 10,
-      "Фролов Андрей Андреевич": 141,
-      "Харитонов Николай Михайлович": 126
+      "gas:candidate-vibid:4234003222496": 51,
+      "gas:candidate-vibid:4234003207414": 98,
+      "gas:candidate-vibid:4234003222274": 40,
+      "gas:candidate-vibid:4234003222873": 16,
+      "gas:candidate-vibid:4234003222689": 24,
+      "gas:candidate-vibid:4234003222419": 18,
+      "gas:candidate-vibid:4234003222625": 10,
+      "gas:candidate-vibid:4234003222198": 141,
+      "gas:candidate-vibid:4234003222353": 126
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/krasnodar?action=show&root=1000069&tvd=4234003206814&vrn=100100067795849&region=23&global=&sub_region=23&prver=0&pronetvd=null&vibid=4234003206814&type=464",
@@ -6061,15 +6061,15 @@ export const duma_2016_uik_463_region_23_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Благодаров Александр Александрович": 48,
-      "Высич Александр Николаевич": 134,
-      "Гусейнова Виктория Сергеевна": 32,
-      "Дворников Денис Владимирович": 14,
-      "Закипнев Сергей Сергеевич": 16,
-      "Овечкин Андрей Владимирович": 36,
-      "Поздеев Евгений Любомирович": 5,
-      "Фролов Андрей Андреевич": 94,
-      "Харитонов Николай Михайлович": 171
+      "gas:candidate-vibid:4234003222496": 48,
+      "gas:candidate-vibid:4234003207414": 134,
+      "gas:candidate-vibid:4234003222274": 32,
+      "gas:candidate-vibid:4234003222873": 14,
+      "gas:candidate-vibid:4234003222689": 16,
+      "gas:candidate-vibid:4234003222419": 36,
+      "gas:candidate-vibid:4234003222625": 5,
+      "gas:candidate-vibid:4234003222198": 94,
+      "gas:candidate-vibid:4234003222353": 171
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/krasnodar?action=show&root=1000069&tvd=4234003206814&vrn=100100067795849&region=23&global=&sub_region=23&prver=0&pronetvd=null&vibid=4234003206814&type=464",
@@ -6120,15 +6120,15 @@ export const duma_2016_uik_463_region_23_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Благодаров Александр Александрович": 54,
-      "Высич Александр Николаевич": 178,
-      "Гусейнова Виктория Сергеевна": 67,
-      "Дворников Денис Владимирович": 27,
-      "Закипнев Сергей Сергеевич": 39,
-      "Овечкин Андрей Владимирович": 38,
-      "Поздеев Евгений Любомирович": 17,
-      "Фролов Андрей Андреевич": 164,
-      "Харитонов Николай Михайлович": 184
+      "gas:candidate-vibid:4234003222496": 54,
+      "gas:candidate-vibid:4234003207414": 178,
+      "gas:candidate-vibid:4234003222274": 67,
+      "gas:candidate-vibid:4234003222873": 27,
+      "gas:candidate-vibid:4234003222689": 39,
+      "gas:candidate-vibid:4234003222419": 38,
+      "gas:candidate-vibid:4234003222625": 17,
+      "gas:candidate-vibid:4234003222198": 164,
+      "gas:candidate-vibid:4234003222353": 184
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/krasnodar?action=show&root=1000069&tvd=4234003206814&vrn=100100067795849&region=23&global=&sub_region=23&prver=0&pronetvd=null&vibid=4234003206814&type=464",
@@ -6179,15 +6179,15 @@ export const duma_2016_uik_463_region_23_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Благодаров Александр Александрович": 32,
-      "Высич Александр Николаевич": 40,
-      "Гусейнова Виктория Сергеевна": 16,
-      "Дворников Денис Владимирович": 6,
-      "Закипнев Сергей Сергеевич": 11,
-      "Овечкин Андрей Владимирович": 2,
-      "Поздеев Евгений Любомирович": 11,
-      "Фролов Андрей Андреевич": 46,
-      "Харитонов Николай Михайлович": 132
+      "gas:candidate-vibid:4234003222496": 32,
+      "gas:candidate-vibid:4234003207414": 40,
+      "gas:candidate-vibid:4234003222274": 16,
+      "gas:candidate-vibid:4234003222873": 6,
+      "gas:candidate-vibid:4234003222689": 11,
+      "gas:candidate-vibid:4234003222419": 2,
+      "gas:candidate-vibid:4234003222625": 11,
+      "gas:candidate-vibid:4234003222198": 46,
+      "gas:candidate-vibid:4234003222353": 132
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/krasnodar?action=show&root=1000069&tvd=4234003206814&vrn=100100067795849&region=23&global=&sub_region=23&prver=0&pronetvd=null&vibid=4234003206814&type=464",
@@ -6238,15 +6238,15 @@ export const duma_2016_uik_463_region_23_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Благодаров Александр Александрович": 77,
-      "Высич Александр Николаевич": 93,
-      "Гусейнова Виктория Сергеевна": 47,
-      "Дворников Денис Владимирович": 15,
-      "Закипнев Сергей Сергеевич": 24,
-      "Овечкин Андрей Владимирович": 26,
-      "Поздеев Евгений Любомирович": 15,
-      "Фролов Андрей Андреевич": 108,
-      "Харитонов Николай Михайлович": 189
+      "gas:candidate-vibid:4234003222496": 77,
+      "gas:candidate-vibid:4234003207414": 93,
+      "gas:candidate-vibid:4234003222274": 47,
+      "gas:candidate-vibid:4234003222873": 15,
+      "gas:candidate-vibid:4234003222689": 24,
+      "gas:candidate-vibid:4234003222419": 26,
+      "gas:candidate-vibid:4234003222625": 15,
+      "gas:candidate-vibid:4234003222198": 108,
+      "gas:candidate-vibid:4234003222353": 189
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/krasnodar?action=show&root=1000069&tvd=4234003206814&vrn=100100067795849&region=23&global=&sub_region=23&prver=0&pronetvd=null&vibid=4234003206814&type=464",
@@ -6297,15 +6297,15 @@ export const duma_2016_uik_463_region_23_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Благодаров Александр Александрович": 33,
-      "Высич Александр Николаевич": 57,
-      "Гусейнова Виктория Сергеевна": 25,
-      "Дворников Денис Владимирович": 6,
-      "Закипнев Сергей Сергеевич": 14,
-      "Овечкин Андрей Владимирович": 7,
-      "Поздеев Евгений Любомирович": 8,
-      "Фролов Андрей Андреевич": 57,
-      "Харитонов Николай Михайлович": 98
+      "gas:candidate-vibid:4234003222496": 33,
+      "gas:candidate-vibid:4234003207414": 57,
+      "gas:candidate-vibid:4234003222274": 25,
+      "gas:candidate-vibid:4234003222873": 6,
+      "gas:candidate-vibid:4234003222689": 14,
+      "gas:candidate-vibid:4234003222419": 7,
+      "gas:candidate-vibid:4234003222625": 8,
+      "gas:candidate-vibid:4234003222198": 57,
+      "gas:candidate-vibid:4234003222353": 98
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/krasnodar?action=show&root=1000069&tvd=4234003206814&vrn=100100067795849&region=23&global=&sub_region=23&prver=0&pronetvd=null&vibid=4234003206814&type=464",
@@ -6356,15 +6356,15 @@ export const duma_2016_uik_463_region_23_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Благодаров Александр Александрович": 34,
-      "Высич Александр Николаевич": 49,
-      "Гусейнова Виктория Сергеевна": 40,
-      "Дворников Денис Владимирович": 11,
-      "Закипнев Сергей Сергеевич": 7,
-      "Овечкин Андрей Владимирович": 15,
-      "Поздеев Евгений Любомирович": 6,
-      "Фролов Андрей Андреевич": 85,
-      "Харитонов Николай Михайлович": 267
+      "gas:candidate-vibid:4234003222496": 34,
+      "gas:candidate-vibid:4234003207414": 49,
+      "gas:candidate-vibid:4234003222274": 40,
+      "gas:candidate-vibid:4234003222873": 11,
+      "gas:candidate-vibid:4234003222689": 7,
+      "gas:candidate-vibid:4234003222419": 15,
+      "gas:candidate-vibid:4234003222625": 6,
+      "gas:candidate-vibid:4234003222198": 85,
+      "gas:candidate-vibid:4234003222353": 267
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/krasnodar?action=show&root=1000069&tvd=4234003206814&vrn=100100067795849&region=23&global=&sub_region=23&prver=0&pronetvd=null&vibid=4234003206814&type=464",
@@ -6415,15 +6415,15 @@ export const duma_2016_uik_463_region_23_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Благодаров Александр Александрович": 7,
-      "Высич Александр Николаевич": 15,
-      "Гусейнова Виктория Сергеевна": 7,
-      "Дворников Денис Владимирович": 2,
-      "Закипнев Сергей Сергеевич": 0,
-      "Овечкин Андрей Владимирович": 1,
-      "Поздеев Евгений Любомирович": 1,
-      "Фролов Андрей Андреевич": 0,
-      "Харитонов Николай Михайлович": 148
+      "gas:candidate-vibid:4234003222496": 7,
+      "gas:candidate-vibid:4234003207414": 15,
+      "gas:candidate-vibid:4234003222274": 7,
+      "gas:candidate-vibid:4234003222873": 2,
+      "gas:candidate-vibid:4234003222689": 0,
+      "gas:candidate-vibid:4234003222419": 1,
+      "gas:candidate-vibid:4234003222625": 1,
+      "gas:candidate-vibid:4234003222198": 0,
+      "gas:candidate-vibid:4234003222353": 148
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/krasnodar?action=show&root=1000069&tvd=4234003206814&vrn=100100067795849&region=23&global=&sub_region=23&prver=0&pronetvd=null&vibid=4234003206814&type=464",
@@ -6474,15 +6474,15 @@ export const duma_2016_uik_463_region_23_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Благодаров Александр Александрович": 13,
-      "Высич Александр Николаевич": 14,
-      "Гусейнова Виктория Сергеевна": 11,
-      "Дворников Денис Владимирович": 3,
-      "Закипнев Сергей Сергеевич": 2,
-      "Овечкин Андрей Владимирович": 8,
-      "Поздеев Евгений Любомирович": 3,
-      "Фролов Андрей Андреевич": 39,
-      "Харитонов Николай Михайлович": 54
+      "gas:candidate-vibid:4234003222496": 13,
+      "gas:candidate-vibid:4234003207414": 14,
+      "gas:candidate-vibid:4234003222274": 11,
+      "gas:candidate-vibid:4234003222873": 3,
+      "gas:candidate-vibid:4234003222689": 2,
+      "gas:candidate-vibid:4234003222419": 8,
+      "gas:candidate-vibid:4234003222625": 3,
+      "gas:candidate-vibid:4234003222198": 39,
+      "gas:candidate-vibid:4234003222353": 54
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/krasnodar?action=show&root=1000069&tvd=4234003206814&vrn=100100067795849&region=23&global=&sub_region=23&prver=0&pronetvd=null&vibid=4234003206814&type=464",
@@ -6533,15 +6533,15 @@ export const duma_2016_uik_463_region_23_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Благодаров Александр Александрович": 79,
-      "Высич Александр Николаевич": 81,
-      "Гусейнова Виктория Сергеевна": 40,
-      "Дворников Денис Владимирович": 13,
-      "Закипнев Сергей Сергеевич": 19,
-      "Овечкин Андрей Владимирович": 19,
-      "Поздеев Евгений Любомирович": 7,
-      "Фролов Андрей Андреевич": 121,
-      "Харитонов Николай Михайлович": 138
+      "gas:candidate-vibid:4234003222496": 79,
+      "gas:candidate-vibid:4234003207414": 81,
+      "gas:candidate-vibid:4234003222274": 40,
+      "gas:candidate-vibid:4234003222873": 13,
+      "gas:candidate-vibid:4234003222689": 19,
+      "gas:candidate-vibid:4234003222419": 19,
+      "gas:candidate-vibid:4234003222625": 7,
+      "gas:candidate-vibid:4234003222198": 121,
+      "gas:candidate-vibid:4234003222353": 138
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/krasnodar?action=show&root=1000069&tvd=4234003206814&vrn=100100067795849&region=23&global=&sub_region=23&prver=0&pronetvd=null&vibid=4234003206814&type=464",
@@ -6592,15 +6592,15 @@ export const duma_2016_uik_463_region_23_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Благодаров Александр Александрович": 67,
-      "Высич Александр Николаевич": 73,
-      "Гусейнова Виктория Сергеевна": 25,
-      "Дворников Денис Владимирович": 9,
-      "Закипнев Сергей Сергеевич": 15,
-      "Овечкин Андрей Владимирович": 24,
-      "Поздеев Евгений Любомирович": 7,
-      "Фролов Андрей Андреевич": 118,
-      "Харитонов Николай Михайлович": 117
+      "gas:candidate-vibid:4234003222496": 67,
+      "gas:candidate-vibid:4234003207414": 73,
+      "gas:candidate-vibid:4234003222274": 25,
+      "gas:candidate-vibid:4234003222873": 9,
+      "gas:candidate-vibid:4234003222689": 15,
+      "gas:candidate-vibid:4234003222419": 24,
+      "gas:candidate-vibid:4234003222625": 7,
+      "gas:candidate-vibid:4234003222198": 118,
+      "gas:candidate-vibid:4234003222353": 117
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/krasnodar?action=show&root=1000069&tvd=4234003206814&vrn=100100067795849&region=23&global=&sub_region=23&prver=0&pronetvd=null&vibid=4234003206814&type=464",
@@ -6651,15 +6651,15 @@ export const duma_2016_uik_463_region_23_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Благодаров Александр Александрович": 88,
-      "Высич Александр Николаевич": 117,
-      "Гусейнова Виктория Сергеевна": 60,
-      "Дворников Денис Владимирович": 18,
-      "Закипнев Сергей Сергеевич": 34,
-      "Овечкин Андрей Владимирович": 22,
-      "Поздеев Евгений Любомирович": 12,
-      "Фролов Андрей Андреевич": 168,
-      "Харитонов Николай Михайлович": 353
+      "gas:candidate-vibid:4234003222496": 88,
+      "gas:candidate-vibid:4234003207414": 117,
+      "gas:candidate-vibid:4234003222274": 60,
+      "gas:candidate-vibid:4234003222873": 18,
+      "gas:candidate-vibid:4234003222689": 34,
+      "gas:candidate-vibid:4234003222419": 22,
+      "gas:candidate-vibid:4234003222625": 12,
+      "gas:candidate-vibid:4234003222198": 168,
+      "gas:candidate-vibid:4234003222353": 353
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/krasnodar?action=show&root=1000069&tvd=4234003206814&vrn=100100067795849&region=23&global=&sub_region=23&prver=0&pronetvd=null&vibid=4234003206814&type=464",
@@ -6710,15 +6710,15 @@ export const duma_2016_uik_463_region_23_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Благодаров Александр Александрович": 4,
-      "Высич Александр Николаевич": 16,
-      "Гусейнова Виктория Сергеевна": 16,
-      "Дворников Денис Владимирович": 4,
-      "Закипнев Сергей Сергеевич": 3,
-      "Овечкин Андрей Владимирович": 6,
-      "Поздеев Евгений Любомирович": 2,
-      "Фролов Андрей Андреевич": 30,
-      "Харитонов Николай Михайлович": 82
+      "gas:candidate-vibid:4234003222496": 4,
+      "gas:candidate-vibid:4234003207414": 16,
+      "gas:candidate-vibid:4234003222274": 16,
+      "gas:candidate-vibid:4234003222873": 4,
+      "gas:candidate-vibid:4234003222689": 3,
+      "gas:candidate-vibid:4234003222419": 6,
+      "gas:candidate-vibid:4234003222625": 2,
+      "gas:candidate-vibid:4234003222198": 30,
+      "gas:candidate-vibid:4234003222353": 82
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/krasnodar?action=show&root=1000069&tvd=4234003206814&vrn=100100067795849&region=23&global=&sub_region=23&prver=0&pronetvd=null&vibid=4234003206814&type=464",
@@ -6769,15 +6769,15 @@ export const duma_2016_uik_463_region_23_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Благодаров Александр Александрович": 13,
-      "Высич Александр Николаевич": 24,
-      "Гусейнова Виктория Сергеевна": 6,
-      "Дворников Денис Владимирович": 5,
-      "Закипнев Сергей Сергеевич": 1,
-      "Овечкин Андрей Владимирович": 2,
-      "Поздеев Евгений Любомирович": 3,
-      "Фролов Андрей Андреевич": 35,
-      "Харитонов Николай Михайлович": 223
+      "gas:candidate-vibid:4234003222496": 13,
+      "gas:candidate-vibid:4234003207414": 24,
+      "gas:candidate-vibid:4234003222274": 6,
+      "gas:candidate-vibid:4234003222873": 5,
+      "gas:candidate-vibid:4234003222689": 1,
+      "gas:candidate-vibid:4234003222419": 2,
+      "gas:candidate-vibid:4234003222625": 3,
+      "gas:candidate-vibid:4234003222198": 35,
+      "gas:candidate-vibid:4234003222353": 223
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/krasnodar?action=show&root=1000069&tvd=4234003206814&vrn=100100067795849&region=23&global=&sub_region=23&prver=0&pronetvd=null&vibid=4234003206814&type=464",
@@ -6828,15 +6828,15 @@ export const duma_2016_uik_463_region_23_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Благодаров Александр Александрович": 1,
-      "Высич Александр Николаевич": 0,
-      "Гусейнова Виктория Сергеевна": 2,
-      "Дворников Денис Владимирович": 0,
-      "Закипнев Сергей Сергеевич": 0,
-      "Овечкин Андрей Владимирович": 0,
-      "Поздеев Евгений Любомирович": 0,
-      "Фролов Андрей Андреевич": 10,
-      "Харитонов Николай Михайлович": 72
+      "gas:candidate-vibid:4234003222496": 1,
+      "gas:candidate-vibid:4234003207414": 0,
+      "gas:candidate-vibid:4234003222274": 2,
+      "gas:candidate-vibid:4234003222873": 0,
+      "gas:candidate-vibid:4234003222689": 0,
+      "gas:candidate-vibid:4234003222419": 0,
+      "gas:candidate-vibid:4234003222625": 0,
+      "gas:candidate-vibid:4234003222198": 10,
+      "gas:candidate-vibid:4234003222353": 72
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/krasnodar?action=show&root=1000069&tvd=4234003206814&vrn=100100067795849&region=23&global=&sub_region=23&prver=0&pronetvd=null&vibid=4234003206814&type=464",
@@ -6887,15 +6887,15 @@ export const duma_2016_uik_463_region_23_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Благодаров Александр Александрович": 11,
-      "Высич Александр Николаевич": 17,
-      "Гусейнова Виктория Сергеевна": 18,
-      "Дворников Денис Владимирович": 0,
-      "Закипнев Сергей Сергеевич": 5,
-      "Овечкин Андрей Владимирович": 1,
-      "Поздеев Евгений Любомирович": 1,
-      "Фролов Андрей Андреевич": 37,
-      "Харитонов Николай Михайлович": 109
+      "gas:candidate-vibid:4234003222496": 11,
+      "gas:candidate-vibid:4234003207414": 17,
+      "gas:candidate-vibid:4234003222274": 18,
+      "gas:candidate-vibid:4234003222873": 0,
+      "gas:candidate-vibid:4234003222689": 5,
+      "gas:candidate-vibid:4234003222419": 1,
+      "gas:candidate-vibid:4234003222625": 1,
+      "gas:candidate-vibid:4234003222198": 37,
+      "gas:candidate-vibid:4234003222353": 109
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/krasnodar?action=show&root=1000069&tvd=4234003206814&vrn=100100067795849&region=23&global=&sub_region=23&prver=0&pronetvd=null&vibid=4234003206814&type=464",
@@ -6946,15 +6946,15 @@ export const duma_2016_uik_463_region_23_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Благодаров Александр Александрович": 8,
-      "Высич Александр Николаевич": 12,
-      "Гусейнова Виктория Сергеевна": 6,
-      "Дворников Денис Владимирович": 4,
-      "Закипнев Сергей Сергеевич": 1,
-      "Овечкин Андрей Владимирович": 0,
-      "Поздеев Евгений Любомирович": 1,
-      "Фролов Андрей Андреевич": 17,
-      "Харитонов Николай Михайлович": 67
+      "gas:candidate-vibid:4234003222496": 8,
+      "gas:candidate-vibid:4234003207414": 12,
+      "gas:candidate-vibid:4234003222274": 6,
+      "gas:candidate-vibid:4234003222873": 4,
+      "gas:candidate-vibid:4234003222689": 1,
+      "gas:candidate-vibid:4234003222419": 0,
+      "gas:candidate-vibid:4234003222625": 1,
+      "gas:candidate-vibid:4234003222198": 17,
+      "gas:candidate-vibid:4234003222353": 67
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/krasnodar?action=show&root=1000069&tvd=4234003206814&vrn=100100067795849&region=23&global=&sub_region=23&prver=0&pronetvd=null&vibid=4234003206814&type=464",
@@ -7005,15 +7005,15 @@ export const duma_2016_uik_463_region_23_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Благодаров Александр Александрович": 77,
-      "Высич Александр Николаевич": 60,
-      "Гусейнова Виктория Сергеевна": 33,
-      "Дворников Денис Владимирович": 11,
-      "Закипнев Сергей Сергеевич": 13,
-      "Овечкин Андрей Владимирович": 18,
-      "Поздеев Евгений Любомирович": 9,
-      "Фролов Андрей Андреевич": 72,
-      "Харитонов Николай Михайлович": 113
+      "gas:candidate-vibid:4234003222496": 77,
+      "gas:candidate-vibid:4234003207414": 60,
+      "gas:candidate-vibid:4234003222274": 33,
+      "gas:candidate-vibid:4234003222873": 11,
+      "gas:candidate-vibid:4234003222689": 13,
+      "gas:candidate-vibid:4234003222419": 18,
+      "gas:candidate-vibid:4234003222625": 9,
+      "gas:candidate-vibid:4234003222198": 72,
+      "gas:candidate-vibid:4234003222353": 113
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/krasnodar?action=show&root=1000069&tvd=4234003206814&vrn=100100067795849&region=23&global=&sub_region=23&prver=0&pronetvd=null&vibid=4234003206814&type=464",
@@ -7064,15 +7064,15 @@ export const duma_2016_uik_463_region_23_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Благодаров Александр Александрович": 140,
-      "Высич Александр Николаевич": 185,
-      "Гусейнова Виктория Сергеевна": 160,
-      "Дворников Денис Владимирович": 32,
-      "Закипнев Сергей Сергеевич": 38,
-      "Овечкин Андрей Владимирович": 45,
-      "Поздеев Евгений Любомирович": 29,
-      "Фролов Андрей Андреевич": 200,
-      "Харитонов Николай Михайлович": 600
+      "gas:candidate-vibid:4234003222496": 140,
+      "gas:candidate-vibid:4234003207414": 185,
+      "gas:candidate-vibid:4234003222274": 160,
+      "gas:candidate-vibid:4234003222873": 32,
+      "gas:candidate-vibid:4234003222689": 38,
+      "gas:candidate-vibid:4234003222419": 45,
+      "gas:candidate-vibid:4234003222625": 29,
+      "gas:candidate-vibid:4234003222198": 200,
+      "gas:candidate-vibid:4234003222353": 600
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/krasnodar?action=show&root=1000069&tvd=4234003206814&vrn=100100067795849&region=23&global=&sub_region=23&prver=0&pronetvd=null&vibid=4234003206814&type=464",
@@ -7123,15 +7123,15 @@ export const duma_2016_uik_463_region_23_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Благодаров Александр Александрович": 17,
-      "Высич Александр Николаевич": 26,
-      "Гусейнова Виктория Сергеевна": 13,
-      "Дворников Денис Владимирович": 5,
-      "Закипнев Сергей Сергеевич": 8,
-      "Овечкин Андрей Владимирович": 6,
-      "Поздеев Евгений Любомирович": 5,
-      "Фролов Андрей Андреевич": 40,
-      "Харитонов Николай Михайлович": 94
+      "gas:candidate-vibid:4234003222496": 17,
+      "gas:candidate-vibid:4234003207414": 26,
+      "gas:candidate-vibid:4234003222274": 13,
+      "gas:candidate-vibid:4234003222873": 5,
+      "gas:candidate-vibid:4234003222689": 8,
+      "gas:candidate-vibid:4234003222419": 6,
+      "gas:candidate-vibid:4234003222625": 5,
+      "gas:candidate-vibid:4234003222198": 40,
+      "gas:candidate-vibid:4234003222353": 94
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/krasnodar?action=show&root=1000069&tvd=4234003206814&vrn=100100067795849&region=23&global=&sub_region=23&prver=0&pronetvd=null&vibid=4234003206814&type=464",
@@ -7182,15 +7182,15 @@ export const duma_2016_uik_463_region_23_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Благодаров Александр Александрович": 20,
-      "Высич Александр Николаевич": 28,
-      "Гусейнова Виктория Сергеевна": 28,
-      "Дворников Денис Владимирович": 7,
-      "Закипнев Сергей Сергеевич": 7,
-      "Овечкин Андрей Владимирович": 5,
-      "Поздеев Евгений Любомирович": 0,
-      "Фролов Андрей Андреевич": 42,
-      "Харитонов Николай Михайлович": 280
+      "gas:candidate-vibid:4234003222496": 20,
+      "gas:candidate-vibid:4234003207414": 28,
+      "gas:candidate-vibid:4234003222274": 28,
+      "gas:candidate-vibid:4234003222873": 7,
+      "gas:candidate-vibid:4234003222689": 7,
+      "gas:candidate-vibid:4234003222419": 5,
+      "gas:candidate-vibid:4234003222625": 0,
+      "gas:candidate-vibid:4234003222198": 42,
+      "gas:candidate-vibid:4234003222353": 280
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/krasnodar?action=show&root=1000069&tvd=4234003206814&vrn=100100067795849&region=23&global=&sub_region=23&prver=0&pronetvd=null&vibid=4234003206814&type=464",
@@ -7241,15 +7241,15 @@ export const duma_2016_uik_463_region_23_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Благодаров Александр Александрович": 69,
-      "Высич Александр Николаевич": 73,
-      "Гусейнова Виктория Сергеевна": 26,
-      "Дворников Денис Владимирович": 18,
-      "Закипнев Сергей Сергеевич": 14,
-      "Овечкин Андрей Владимирович": 12,
-      "Поздеев Евгений Любомирович": 13,
-      "Фролов Андрей Андреевич": 47,
-      "Харитонов Николай Михайлович": 431
+      "gas:candidate-vibid:4234003222496": 69,
+      "gas:candidate-vibid:4234003207414": 73,
+      "gas:candidate-vibid:4234003222274": 26,
+      "gas:candidate-vibid:4234003222873": 18,
+      "gas:candidate-vibid:4234003222689": 14,
+      "gas:candidate-vibid:4234003222419": 12,
+      "gas:candidate-vibid:4234003222625": 13,
+      "gas:candidate-vibid:4234003222198": 47,
+      "gas:candidate-vibid:4234003222353": 431
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/krasnodar?action=show&root=1000069&tvd=4234003206814&vrn=100100067795849&region=23&global=&sub_region=23&prver=0&pronetvd=null&vibid=4234003206814&type=464",
@@ -7300,15 +7300,15 @@ export const duma_2016_uik_463_region_23_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Благодаров Александр Александрович": 51,
-      "Высич Александр Николаевич": 72,
-      "Гусейнова Виктория Сергеевна": 47,
-      "Дворников Денис Владимирович": 16,
-      "Закипнев Сергей Сергеевич": 21,
-      "Овечкин Андрей Владимирович": 21,
-      "Поздеев Евгений Любомирович": 20,
-      "Фролов Андрей Андреевич": 77,
-      "Харитонов Николай Михайлович": 288
+      "gas:candidate-vibid:4234003222496": 51,
+      "gas:candidate-vibid:4234003207414": 72,
+      "gas:candidate-vibid:4234003222274": 47,
+      "gas:candidate-vibid:4234003222873": 16,
+      "gas:candidate-vibid:4234003222689": 21,
+      "gas:candidate-vibid:4234003222419": 21,
+      "gas:candidate-vibid:4234003222625": 20,
+      "gas:candidate-vibid:4234003222198": 77,
+      "gas:candidate-vibid:4234003222353": 288
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/krasnodar?action=show&root=1000069&tvd=4234003206814&vrn=100100067795849&region=23&global=&sub_region=23&prver=0&pronetvd=null&vibid=4234003206814&type=464",
@@ -7359,15 +7359,15 @@ export const duma_2016_uik_463_region_23_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Благодаров Александр Александрович": 52,
-      "Высич Александр Николаевич": 69,
-      "Гусейнова Виктория Сергеевна": 49,
-      "Дворников Денис Владимирович": 13,
-      "Закипнев Сергей Сергеевич": 14,
-      "Овечкин Андрей Владимирович": 20,
-      "Поздеев Евгений Любомирович": 7,
-      "Фролов Андрей Андреевич": 82,
-      "Харитонов Николай Михайлович": 117
+      "gas:candidate-vibid:4234003222496": 52,
+      "gas:candidate-vibid:4234003207414": 69,
+      "gas:candidate-vibid:4234003222274": 49,
+      "gas:candidate-vibid:4234003222873": 13,
+      "gas:candidate-vibid:4234003222689": 14,
+      "gas:candidate-vibid:4234003222419": 20,
+      "gas:candidate-vibid:4234003222625": 7,
+      "gas:candidate-vibid:4234003222198": 82,
+      "gas:candidate-vibid:4234003222353": 117
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/krasnodar?action=show&root=1000069&tvd=4234003206814&vrn=100100067795849&region=23&global=&sub_region=23&prver=0&pronetvd=null&vibid=4234003206814&type=464",
@@ -7418,15 +7418,15 @@ export const duma_2016_uik_463_region_23_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Благодаров Александр Александрович": 67,
-      "Высич Александр Николаевич": 63,
-      "Гусейнова Виктория Сергеевна": 49,
-      "Дворников Денис Владимирович": 19,
-      "Закипнев Сергей Сергеевич": 18,
-      "Овечкин Андрей Владимирович": 22,
-      "Поздеев Евгений Любомирович": 7,
-      "Фролов Андрей Андреевич": 74,
-      "Харитонов Николай Михайлович": 242
+      "gas:candidate-vibid:4234003222496": 67,
+      "gas:candidate-vibid:4234003207414": 63,
+      "gas:candidate-vibid:4234003222274": 49,
+      "gas:candidate-vibid:4234003222873": 19,
+      "gas:candidate-vibid:4234003222689": 18,
+      "gas:candidate-vibid:4234003222419": 22,
+      "gas:candidate-vibid:4234003222625": 7,
+      "gas:candidate-vibid:4234003222198": 74,
+      "gas:candidate-vibid:4234003222353": 242
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/krasnodar?action=show&root=1000069&tvd=4234003206814&vrn=100100067795849&region=23&global=&sub_region=23&prver=0&pronetvd=null&vibid=4234003206814&type=464",
@@ -7477,15 +7477,15 @@ export const duma_2016_uik_463_region_23_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Благодаров Александр Александрович": 41,
-      "Высич Александр Николаевич": 77,
-      "Гусейнова Виктория Сергеевна": 52,
-      "Дворников Денис Владимирович": 30,
-      "Закипнев Сергей Сергеевич": 21,
-      "Овечкин Андрей Владимирович": 21,
-      "Поздеев Евгений Любомирович": 15,
-      "Фролов Андрей Андреевич": 70,
-      "Харитонов Николай Михайлович": 241
+      "gas:candidate-vibid:4234003222496": 41,
+      "gas:candidate-vibid:4234003207414": 77,
+      "gas:candidate-vibid:4234003222274": 52,
+      "gas:candidate-vibid:4234003222873": 30,
+      "gas:candidate-vibid:4234003222689": 21,
+      "gas:candidate-vibid:4234003222419": 21,
+      "gas:candidate-vibid:4234003222625": 15,
+      "gas:candidate-vibid:4234003222198": 70,
+      "gas:candidate-vibid:4234003222353": 241
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/krasnodar?action=show&root=1000069&tvd=4234003206814&vrn=100100067795849&region=23&global=&sub_region=23&prver=0&pronetvd=null&vibid=4234003206814&type=464",
@@ -7536,15 +7536,15 @@ export const duma_2016_uik_463_region_23_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Благодаров Александр Александрович": 38,
-      "Высич Александр Николаевич": 65,
-      "Гусейнова Виктория Сергеевна": 26,
-      "Дворников Денис Владимирович": 12,
-      "Закипнев Сергей Сергеевич": 9,
-      "Овечкин Андрей Владимирович": 5,
-      "Поздеев Евгений Любомирович": 6,
-      "Фролов Андрей Андреевич": 108,
-      "Харитонов Николай Михайлович": 294
+      "gas:candidate-vibid:4234003222496": 38,
+      "gas:candidate-vibid:4234003207414": 65,
+      "gas:candidate-vibid:4234003222274": 26,
+      "gas:candidate-vibid:4234003222873": 12,
+      "gas:candidate-vibid:4234003222689": 9,
+      "gas:candidate-vibid:4234003222419": 5,
+      "gas:candidate-vibid:4234003222625": 6,
+      "gas:candidate-vibid:4234003222198": 108,
+      "gas:candidate-vibid:4234003222353": 294
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/krasnodar?action=show&root=1000069&tvd=4234003206814&vrn=100100067795849&region=23&global=&sub_region=23&prver=0&pronetvd=null&vibid=4234003206814&type=464",
@@ -7595,15 +7595,15 @@ export const duma_2016_uik_463_region_23_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Благодаров Александр Александрович": 59,
-      "Высич Александр Николаевич": 71,
-      "Гусейнова Виктория Сергеевна": 69,
-      "Дворников Денис Владимирович": 29,
-      "Закипнев Сергей Сергеевич": 19,
-      "Овечкин Андрей Владимирович": 21,
-      "Поздеев Евгений Любомирович": 7,
-      "Фролов Андрей Андреевич": 65,
-      "Харитонов Николай Михайлович": 67
+      "gas:candidate-vibid:4234003222496": 59,
+      "gas:candidate-vibid:4234003207414": 71,
+      "gas:candidate-vibid:4234003222274": 69,
+      "gas:candidate-vibid:4234003222873": 29,
+      "gas:candidate-vibid:4234003222689": 19,
+      "gas:candidate-vibid:4234003222419": 21,
+      "gas:candidate-vibid:4234003222625": 7,
+      "gas:candidate-vibid:4234003222198": 65,
+      "gas:candidate-vibid:4234003222353": 67
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/krasnodar?action=show&root=1000069&tvd=4234003206814&vrn=100100067795849&region=23&global=&sub_region=23&prver=0&pronetvd=null&vibid=4234003206814&type=464",
@@ -7654,15 +7654,15 @@ export const duma_2016_uik_463_region_23_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Благодаров Александр Александрович": 13,
-      "Высич Александр Николаевич": 8,
-      "Гусейнова Виктория Сергеевна": 20,
-      "Дворников Денис Владимирович": 6,
-      "Закипнев Сергей Сергеевич": 3,
-      "Овечкин Андрей Владимирович": 11,
-      "Поздеев Евгений Любомирович": 2,
-      "Фролов Андрей Андреевич": 13,
-      "Харитонов Николай Михайлович": 61
+      "gas:candidate-vibid:4234003222496": 13,
+      "gas:candidate-vibid:4234003207414": 8,
+      "gas:candidate-vibid:4234003222274": 20,
+      "gas:candidate-vibid:4234003222873": 6,
+      "gas:candidate-vibid:4234003222689": 3,
+      "gas:candidate-vibid:4234003222419": 11,
+      "gas:candidate-vibid:4234003222625": 2,
+      "gas:candidate-vibid:4234003222198": 13,
+      "gas:candidate-vibid:4234003222353": 61
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/krasnodar?action=show&root=1000069&tvd=4234003206814&vrn=100100067795849&region=23&global=&sub_region=23&prver=0&pronetvd=null&vibid=4234003206814&type=464",
@@ -7713,15 +7713,15 @@ export const duma_2016_uik_463_region_23_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Благодаров Александр Александрович": 67,
-      "Высич Александр Николаевич": 78,
-      "Гусейнова Виктория Сергеевна": 62,
-      "Дворников Денис Владимирович": 30,
-      "Закипнев Сергей Сергеевич": 70,
-      "Овечкин Андрей Владимирович": 19,
-      "Поздеев Евгений Любомирович": 42,
-      "Фролов Андрей Андреевич": 116,
-      "Харитонов Николай Михайлович": 511
+      "gas:candidate-vibid:4234003222496": 67,
+      "gas:candidate-vibid:4234003207414": 78,
+      "gas:candidate-vibid:4234003222274": 62,
+      "gas:candidate-vibid:4234003222873": 30,
+      "gas:candidate-vibid:4234003222689": 70,
+      "gas:candidate-vibid:4234003222419": 19,
+      "gas:candidate-vibid:4234003222625": 42,
+      "gas:candidate-vibid:4234003222198": 116,
+      "gas:candidate-vibid:4234003222353": 511
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/krasnodar?action=show&root=1000069&tvd=4234003206814&vrn=100100067795849&region=23&global=&sub_region=23&prver=0&pronetvd=null&vibid=4234003206814&type=464",
@@ -7772,15 +7772,15 @@ export const duma_2016_uik_463_region_23_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Благодаров Александр Александрович": 90,
-      "Высич Александр Николаевич": 146,
-      "Гусейнова Виктория Сергеевна": 87,
-      "Дворников Денис Владимирович": 22,
-      "Закипнев Сергей Сергеевич": 28,
-      "Овечкин Андрей Владимирович": 52,
-      "Поздеев Евгений Любомирович": 13,
-      "Фролов Андрей Андреевич": 272,
-      "Харитонов Николай Михайлович": 780
+      "gas:candidate-vibid:4234003222496": 90,
+      "gas:candidate-vibid:4234003207414": 146,
+      "gas:candidate-vibid:4234003222274": 87,
+      "gas:candidate-vibid:4234003222873": 22,
+      "gas:candidate-vibid:4234003222689": 28,
+      "gas:candidate-vibid:4234003222419": 52,
+      "gas:candidate-vibid:4234003222625": 13,
+      "gas:candidate-vibid:4234003222198": 272,
+      "gas:candidate-vibid:4234003222353": 780
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/krasnodar?action=show&root=1000069&tvd=4234003206814&vrn=100100067795849&region=23&global=&sub_region=23&prver=0&pronetvd=null&vibid=4234003206814&type=464",
@@ -7831,15 +7831,15 @@ export const duma_2016_uik_463_region_23_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Благодаров Александр Александрович": 36,
-      "Высич Александр Николаевич": 52,
-      "Гусейнова Виктория Сергеевна": 30,
-      "Дворников Денис Владимирович": 14,
-      "Закипнев Сергей Сергеевич": 9,
-      "Овечкин Андрей Владимирович": 10,
-      "Поздеев Евгений Любомирович": 4,
-      "Фролов Андрей Андреевич": 92,
-      "Харитонов Николай Михайлович": 323
+      "gas:candidate-vibid:4234003222496": 36,
+      "gas:candidate-vibid:4234003207414": 52,
+      "gas:candidate-vibid:4234003222274": 30,
+      "gas:candidate-vibid:4234003222873": 14,
+      "gas:candidate-vibid:4234003222689": 9,
+      "gas:candidate-vibid:4234003222419": 10,
+      "gas:candidate-vibid:4234003222625": 4,
+      "gas:candidate-vibid:4234003222198": 92,
+      "gas:candidate-vibid:4234003222353": 323
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/krasnodar?action=show&root=1000069&tvd=4234003206814&vrn=100100067795849&region=23&global=&sub_region=23&prver=0&pronetvd=null&vibid=4234003206814&type=464",
@@ -7890,15 +7890,15 @@ export const duma_2016_uik_463_region_23_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Благодаров Александр Александрович": 51,
-      "Высич Александр Николаевич": 66,
-      "Гусейнова Виктория Сергеевна": 66,
-      "Дворников Денис Владимирович": 12,
-      "Закипнев Сергей Сергеевич": 12,
-      "Овечкин Андрей Владимирович": 26,
-      "Поздеев Евгений Любомирович": 4,
-      "Фролов Андрей Андреевич": 141,
-      "Харитонов Николай Михайлович": 152
+      "gas:candidate-vibid:4234003222496": 51,
+      "gas:candidate-vibid:4234003207414": 66,
+      "gas:candidate-vibid:4234003222274": 66,
+      "gas:candidate-vibid:4234003222873": 12,
+      "gas:candidate-vibid:4234003222689": 12,
+      "gas:candidate-vibid:4234003222419": 26,
+      "gas:candidate-vibid:4234003222625": 4,
+      "gas:candidate-vibid:4234003222198": 141,
+      "gas:candidate-vibid:4234003222353": 152
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/krasnodar?action=show&root=1000069&tvd=4234003206815&vrn=100100067795849&region=23&global=&sub_region=23&prver=0&pronetvd=null&vibid=4234003206815&type=464",
@@ -7949,15 +7949,15 @@ export const duma_2016_uik_463_region_23_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Благодаров Александр Александрович": 49,
-      "Высич Александр Николаевич": 122,
-      "Гусейнова Виктория Сергеевна": 85,
-      "Дворников Денис Владимирович": 14,
-      "Закипнев Сергей Сергеевич": 25,
-      "Овечкин Андрей Владимирович": 27,
-      "Поздеев Евгений Любомирович": 13,
-      "Фролов Андрей Андреевич": 202,
-      "Харитонов Николай Михайлович": 259
+      "gas:candidate-vibid:4234003222496": 49,
+      "gas:candidate-vibid:4234003207414": 122,
+      "gas:candidate-vibid:4234003222274": 85,
+      "gas:candidate-vibid:4234003222873": 14,
+      "gas:candidate-vibid:4234003222689": 25,
+      "gas:candidate-vibid:4234003222419": 27,
+      "gas:candidate-vibid:4234003222625": 13,
+      "gas:candidate-vibid:4234003222198": 202,
+      "gas:candidate-vibid:4234003222353": 259
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/krasnodar?action=show&root=1000069&tvd=4234003206815&vrn=100100067795849&region=23&global=&sub_region=23&prver=0&pronetvd=null&vibid=4234003206815&type=464",
@@ -8008,15 +8008,15 @@ export const duma_2016_uik_463_region_23_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Благодаров Александр Александрович": 48,
-      "Высич Александр Николаевич": 113,
-      "Гусейнова Виктория Сергеевна": 77,
-      "Дворников Денис Владимирович": 22,
-      "Закипнев Сергей Сергеевич": 41,
-      "Овечкин Андрей Владимирович": 24,
-      "Поздеев Евгений Любомирович": 18,
-      "Фролов Андрей Андреевич": 188,
-      "Харитонов Николай Михайлович": 302
+      "gas:candidate-vibid:4234003222496": 48,
+      "gas:candidate-vibid:4234003207414": 113,
+      "gas:candidate-vibid:4234003222274": 77,
+      "gas:candidate-vibid:4234003222873": 22,
+      "gas:candidate-vibid:4234003222689": 41,
+      "gas:candidate-vibid:4234003222419": 24,
+      "gas:candidate-vibid:4234003222625": 18,
+      "gas:candidate-vibid:4234003222198": 188,
+      "gas:candidate-vibid:4234003222353": 302
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/krasnodar?action=show&root=1000069&tvd=4234003206815&vrn=100100067795849&region=23&global=&sub_region=23&prver=0&pronetvd=null&vibid=4234003206815&type=464",
@@ -8067,15 +8067,15 @@ export const duma_2016_uik_463_region_23_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Благодаров Александр Александрович": 44,
-      "Высич Александр Николаевич": 92,
-      "Гусейнова Виктория Сергеевна": 60,
-      "Дворников Денис Владимирович": 10,
-      "Закипнев Сергей Сергеевич": 33,
-      "Овечкин Андрей Владимирович": 39,
-      "Поздеев Евгений Любомирович": 16,
-      "Фролов Андрей Андреевич": 173,
-      "Харитонов Николай Михайлович": 246
+      "gas:candidate-vibid:4234003222496": 44,
+      "gas:candidate-vibid:4234003207414": 92,
+      "gas:candidate-vibid:4234003222274": 60,
+      "gas:candidate-vibid:4234003222873": 10,
+      "gas:candidate-vibid:4234003222689": 33,
+      "gas:candidate-vibid:4234003222419": 39,
+      "gas:candidate-vibid:4234003222625": 16,
+      "gas:candidate-vibid:4234003222198": 173,
+      "gas:candidate-vibid:4234003222353": 246
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/krasnodar?action=show&root=1000069&tvd=4234003206815&vrn=100100067795849&region=23&global=&sub_region=23&prver=0&pronetvd=null&vibid=4234003206815&type=464",
@@ -8126,15 +8126,15 @@ export const duma_2016_uik_463_region_23_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Благодаров Александр Александрович": 46,
-      "Высич Александр Николаевич": 121,
-      "Гусейнова Виктория Сергеевна": 70,
-      "Дворников Денис Владимирович": 19,
-      "Закипнев Сергей Сергеевич": 21,
-      "Овечкин Андрей Владимирович": 20,
-      "Поздеев Евгений Любомирович": 11,
-      "Фролов Андрей Андреевич": 181,
-      "Харитонов Николай Михайлович": 212
+      "gas:candidate-vibid:4234003222496": 46,
+      "gas:candidate-vibid:4234003207414": 121,
+      "gas:candidate-vibid:4234003222274": 70,
+      "gas:candidate-vibid:4234003222873": 19,
+      "gas:candidate-vibid:4234003222689": 21,
+      "gas:candidate-vibid:4234003222419": 20,
+      "gas:candidate-vibid:4234003222625": 11,
+      "gas:candidate-vibid:4234003222198": 181,
+      "gas:candidate-vibid:4234003222353": 212
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/krasnodar?action=show&root=1000069&tvd=4234003206815&vrn=100100067795849&region=23&global=&sub_region=23&prver=0&pronetvd=null&vibid=4234003206815&type=464",
@@ -8185,15 +8185,15 @@ export const duma_2016_uik_463_region_23_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Благодаров Александр Александрович": 65,
-      "Высич Александр Николаевич": 107,
-      "Гусейнова Виктория Сергеевна": 61,
-      "Дворников Денис Владимирович": 17,
-      "Закипнев Сергей Сергеевич": 30,
-      "Овечкин Андрей Владимирович": 32,
-      "Поздеев Евгений Любомирович": 9,
-      "Фролов Андрей Андреевич": 187,
-      "Харитонов Николай Михайлович": 228
+      "gas:candidate-vibid:4234003222496": 65,
+      "gas:candidate-vibid:4234003207414": 107,
+      "gas:candidate-vibid:4234003222274": 61,
+      "gas:candidate-vibid:4234003222873": 17,
+      "gas:candidate-vibid:4234003222689": 30,
+      "gas:candidate-vibid:4234003222419": 32,
+      "gas:candidate-vibid:4234003222625": 9,
+      "gas:candidate-vibid:4234003222198": 187,
+      "gas:candidate-vibid:4234003222353": 228
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/krasnodar?action=show&root=1000069&tvd=4234003206815&vrn=100100067795849&region=23&global=&sub_region=23&prver=0&pronetvd=null&vibid=4234003206815&type=464",
@@ -8244,15 +8244,15 @@ export const duma_2016_uik_463_region_23_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Благодаров Александр Александрович": 39,
-      "Высич Александр Николаевич": 129,
-      "Гусейнова Виктория Сергеевна": 79,
-      "Дворников Денис Владимирович": 20,
-      "Закипнев Сергей Сергеевич": 30,
-      "Овечкин Андрей Владимирович": 16,
-      "Поздеев Евгений Любомирович": 6,
-      "Фролов Андрей Андреевич": 147,
-      "Харитонов Николай Михайлович": 173
+      "gas:candidate-vibid:4234003222496": 39,
+      "gas:candidate-vibid:4234003207414": 129,
+      "gas:candidate-vibid:4234003222274": 79,
+      "gas:candidate-vibid:4234003222873": 20,
+      "gas:candidate-vibid:4234003222689": 30,
+      "gas:candidate-vibid:4234003222419": 16,
+      "gas:candidate-vibid:4234003222625": 6,
+      "gas:candidate-vibid:4234003222198": 147,
+      "gas:candidate-vibid:4234003222353": 173
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/krasnodar?action=show&root=1000069&tvd=4234003206815&vrn=100100067795849&region=23&global=&sub_region=23&prver=0&pronetvd=null&vibid=4234003206815&type=464",
@@ -8303,15 +8303,15 @@ export const duma_2016_uik_463_region_23_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Благодаров Александр Александрович": 45,
-      "Высич Александр Николаевич": 67,
-      "Гусейнова Виктория Сергеевна": 57,
-      "Дворников Денис Владимирович": 12,
-      "Закипнев Сергей Сергеевич": 17,
-      "Овечкин Андрей Владимирович": 24,
-      "Поздеев Евгений Любомирович": 12,
-      "Фролов Андрей Андреевич": 145,
-      "Харитонов Николай Михайлович": 153
+      "gas:candidate-vibid:4234003222496": 45,
+      "gas:candidate-vibid:4234003207414": 67,
+      "gas:candidate-vibid:4234003222274": 57,
+      "gas:candidate-vibid:4234003222873": 12,
+      "gas:candidate-vibid:4234003222689": 17,
+      "gas:candidate-vibid:4234003222419": 24,
+      "gas:candidate-vibid:4234003222625": 12,
+      "gas:candidate-vibid:4234003222198": 145,
+      "gas:candidate-vibid:4234003222353": 153
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/krasnodar?action=show&root=1000069&tvd=4234003206815&vrn=100100067795849&region=23&global=&sub_region=23&prver=0&pronetvd=null&vibid=4234003206815&type=464",
@@ -8362,15 +8362,15 @@ export const duma_2016_uik_463_region_23_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Благодаров Александр Александрович": 29,
-      "Высич Александр Николаевич": 47,
-      "Гусейнова Виктория Сергеевна": 29,
-      "Дворников Денис Владимирович": 11,
-      "Закипнев Сергей Сергеевич": 14,
-      "Овечкин Андрей Владимирович": 9,
-      "Поздеев Евгений Любомирович": 7,
-      "Фролов Андрей Андреевич": 95,
-      "Харитонов Николай Михайлович": 132
+      "gas:candidate-vibid:4234003222496": 29,
+      "gas:candidate-vibid:4234003207414": 47,
+      "gas:candidate-vibid:4234003222274": 29,
+      "gas:candidate-vibid:4234003222873": 11,
+      "gas:candidate-vibid:4234003222689": 14,
+      "gas:candidate-vibid:4234003222419": 9,
+      "gas:candidate-vibid:4234003222625": 7,
+      "gas:candidate-vibid:4234003222198": 95,
+      "gas:candidate-vibid:4234003222353": 132
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/krasnodar?action=show&root=1000069&tvd=4234003206815&vrn=100100067795849&region=23&global=&sub_region=23&prver=0&pronetvd=null&vibid=4234003206815&type=464",
@@ -8421,15 +8421,15 @@ export const duma_2016_uik_463_region_23_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Благодаров Александр Александрович": 7,
-      "Высич Александр Николаевич": 4,
-      "Гусейнова Виктория Сергеевна": 7,
-      "Дворников Денис Владимирович": 1,
-      "Закипнев Сергей Сергеевич": 4,
-      "Овечкин Андрей Владимирович": 6,
-      "Поздеев Евгений Любомирович": 1,
-      "Фролов Андрей Андреевич": 56,
-      "Харитонов Николай Михайлович": 26
+      "gas:candidate-vibid:4234003222496": 7,
+      "gas:candidate-vibid:4234003207414": 4,
+      "gas:candidate-vibid:4234003222274": 7,
+      "gas:candidate-vibid:4234003222873": 1,
+      "gas:candidate-vibid:4234003222689": 4,
+      "gas:candidate-vibid:4234003222419": 6,
+      "gas:candidate-vibid:4234003222625": 1,
+      "gas:candidate-vibid:4234003222198": 56,
+      "gas:candidate-vibid:4234003222353": 26
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/krasnodar?action=show&root=1000069&tvd=4234003206815&vrn=100100067795849&region=23&global=&sub_region=23&prver=0&pronetvd=null&vibid=4234003206815&type=464",
@@ -8480,15 +8480,15 @@ export const duma_2016_uik_463_region_23_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Благодаров Александр Александрович": 12,
-      "Высич Александр Николаевич": 19,
-      "Гусейнова Виктория Сергеевна": 20,
-      "Дворников Денис Владимирович": 4,
-      "Закипнев Сергей Сергеевич": 7,
-      "Овечкин Андрей Владимирович": 4,
-      "Поздеев Евгений Любомирович": 0,
-      "Фролов Андрей Андреевич": 60,
-      "Харитонов Николай Михайлович": 40
+      "gas:candidate-vibid:4234003222496": 12,
+      "gas:candidate-vibid:4234003207414": 19,
+      "gas:candidate-vibid:4234003222274": 20,
+      "gas:candidate-vibid:4234003222873": 4,
+      "gas:candidate-vibid:4234003222689": 7,
+      "gas:candidate-vibid:4234003222419": 4,
+      "gas:candidate-vibid:4234003222625": 0,
+      "gas:candidate-vibid:4234003222198": 60,
+      "gas:candidate-vibid:4234003222353": 40
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/krasnodar?action=show&root=1000069&tvd=4234003206815&vrn=100100067795849&region=23&global=&sub_region=23&prver=0&pronetvd=null&vibid=4234003206815&type=464",
@@ -8539,15 +8539,15 @@ export const duma_2016_uik_463_region_23_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Благодаров Александр Александрович": 6,
-      "Высич Александр Николаевич": 13,
-      "Гусейнова Виктория Сергеевна": 7,
-      "Дворников Денис Владимирович": 1,
-      "Закипнев Сергей Сергеевич": 2,
-      "Овечкин Андрей Владимирович": 3,
-      "Поздеев Евгений Любомирович": 2,
-      "Фролов Андрей Андреевич": 12,
-      "Харитонов Николай Михайлович": 169
+      "gas:candidate-vibid:4234003222496": 6,
+      "gas:candidate-vibid:4234003207414": 13,
+      "gas:candidate-vibid:4234003222274": 7,
+      "gas:candidate-vibid:4234003222873": 1,
+      "gas:candidate-vibid:4234003222689": 2,
+      "gas:candidate-vibid:4234003222419": 3,
+      "gas:candidate-vibid:4234003222625": 2,
+      "gas:candidate-vibid:4234003222198": 12,
+      "gas:candidate-vibid:4234003222353": 169
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/krasnodar?action=show&root=1000069&tvd=4234003206815&vrn=100100067795849&region=23&global=&sub_region=23&prver=0&pronetvd=null&vibid=4234003206815&type=464",
@@ -8598,15 +8598,15 @@ export const duma_2016_uik_463_region_23_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Благодаров Александр Александрович": 2,
-      "Высич Александр Николаевич": 5,
-      "Гусейнова Виктория Сергеевна": 5,
-      "Дворников Денис Владимирович": 0,
-      "Закипнев Сергей Сергеевич": 0,
-      "Овечкин Андрей Владимирович": 3,
-      "Поздеев Евгений Любомирович": 0,
-      "Фролов Андрей Андреевич": 22,
-      "Харитонов Николай Михайлович": 46
+      "gas:candidate-vibid:4234003222496": 2,
+      "gas:candidate-vibid:4234003207414": 5,
+      "gas:candidate-vibid:4234003222274": 5,
+      "gas:candidate-vibid:4234003222873": 0,
+      "gas:candidate-vibid:4234003222689": 0,
+      "gas:candidate-vibid:4234003222419": 3,
+      "gas:candidate-vibid:4234003222625": 0,
+      "gas:candidate-vibid:4234003222198": 22,
+      "gas:candidate-vibid:4234003222353": 46
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/krasnodar?action=show&root=1000069&tvd=4234003206815&vrn=100100067795849&region=23&global=&sub_region=23&prver=0&pronetvd=null&vibid=4234003206815&type=464",
@@ -8657,15 +8657,15 @@ export const duma_2016_uik_463_region_23_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Благодаров Александр Александрович": 29,
-      "Высич Александр Николаевич": 47,
-      "Гусейнова Виктория Сергеевна": 31,
-      "Дворников Денис Владимирович": 7,
-      "Закипнев Сергей Сергеевич": 11,
-      "Овечкин Андрей Владимирович": 13,
-      "Поздеев Евгений Любомирович": 3,
-      "Фролов Андрей Андреевич": 119,
-      "Харитонов Николай Михайлович": 136
+      "gas:candidate-vibid:4234003222496": 29,
+      "gas:candidate-vibid:4234003207414": 47,
+      "gas:candidate-vibid:4234003222274": 31,
+      "gas:candidate-vibid:4234003222873": 7,
+      "gas:candidate-vibid:4234003222689": 11,
+      "gas:candidate-vibid:4234003222419": 13,
+      "gas:candidate-vibid:4234003222625": 3,
+      "gas:candidate-vibid:4234003222198": 119,
+      "gas:candidate-vibid:4234003222353": 136
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/krasnodar?action=show&root=1000069&tvd=4234003206815&vrn=100100067795849&region=23&global=&sub_region=23&prver=0&pronetvd=null&vibid=4234003206815&type=464",
@@ -8716,15 +8716,15 @@ export const duma_2016_uik_463_region_23_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Благодаров Александр Александрович": 27,
-      "Высич Александр Николаевич": 36,
-      "Гусейнова Виктория Сергеевна": 45,
-      "Дворников Денис Владимирович": 3,
-      "Закипнев Сергей Сергеевич": 9,
-      "Овечкин Андрей Владимирович": 6,
-      "Поздеев Евгений Любомирович": 6,
-      "Фролов Андрей Андреевич": 127,
-      "Харитонов Николай Михайлович": 138
+      "gas:candidate-vibid:4234003222496": 27,
+      "gas:candidate-vibid:4234003207414": 36,
+      "gas:candidate-vibid:4234003222274": 45,
+      "gas:candidate-vibid:4234003222873": 3,
+      "gas:candidate-vibid:4234003222689": 9,
+      "gas:candidate-vibid:4234003222419": 6,
+      "gas:candidate-vibid:4234003222625": 6,
+      "gas:candidate-vibid:4234003222198": 127,
+      "gas:candidate-vibid:4234003222353": 138
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/krasnodar?action=show&root=1000069&tvd=4234003206815&vrn=100100067795849&region=23&global=&sub_region=23&prver=0&pronetvd=null&vibid=4234003206815&type=464",
@@ -8775,15 +8775,15 @@ export const duma_2016_uik_463_region_23_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Благодаров Александр Александрович": 26,
-      "Высич Александр Николаевич": 71,
-      "Гусейнова Виктория Сергеевна": 30,
-      "Дворников Денис Владимирович": 5,
-      "Закипнев Сергей Сергеевич": 23,
-      "Овечкин Андрей Владимирович": 7,
-      "Поздеев Евгений Любомирович": 5,
-      "Фролов Андрей Андреевич": 143,
-      "Харитонов Николай Михайлович": 116
+      "gas:candidate-vibid:4234003222496": 26,
+      "gas:candidate-vibid:4234003207414": 71,
+      "gas:candidate-vibid:4234003222274": 30,
+      "gas:candidate-vibid:4234003222873": 5,
+      "gas:candidate-vibid:4234003222689": 23,
+      "gas:candidate-vibid:4234003222419": 7,
+      "gas:candidate-vibid:4234003222625": 5,
+      "gas:candidate-vibid:4234003222198": 143,
+      "gas:candidate-vibid:4234003222353": 116
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/krasnodar?action=show&root=1000069&tvd=4234003206815&vrn=100100067795849&region=23&global=&sub_region=23&prver=0&pronetvd=null&vibid=4234003206815&type=464",
@@ -8834,15 +8834,15 @@ export const duma_2016_uik_463_region_23_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Благодаров Александр Александрович": 23,
-      "Высич Александр Николаевич": 52,
-      "Гусейнова Виктория Сергеевна": 22,
-      "Дворников Денис Владимирович": 9,
-      "Закипнев Сергей Сергеевич": 17,
-      "Овечкин Андрей Владимирович": 6,
-      "Поздеев Евгений Любомирович": 1,
-      "Фролов Андрей Андреевич": 120,
-      "Харитонов Николай Михайлович": 173
+      "gas:candidate-vibid:4234003222496": 23,
+      "gas:candidate-vibid:4234003207414": 52,
+      "gas:candidate-vibid:4234003222274": 22,
+      "gas:candidate-vibid:4234003222873": 9,
+      "gas:candidate-vibid:4234003222689": 17,
+      "gas:candidate-vibid:4234003222419": 6,
+      "gas:candidate-vibid:4234003222625": 1,
+      "gas:candidate-vibid:4234003222198": 120,
+      "gas:candidate-vibid:4234003222353": 173
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/krasnodar?action=show&root=1000069&tvd=4234003206815&vrn=100100067795849&region=23&global=&sub_region=23&prver=0&pronetvd=null&vibid=4234003206815&type=464",
@@ -8893,15 +8893,15 @@ export const duma_2016_uik_463_region_23_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Благодаров Александр Александрович": 11,
-      "Высич Александр Николаевич": 38,
-      "Гусейнова Виктория Сергеевна": 11,
-      "Дворников Денис Владимирович": 3,
-      "Закипнев Сергей Сергеевич": 0,
-      "Овечкин Андрей Владимирович": 6,
-      "Поздеев Евгений Любомирович": 6,
-      "Фролов Андрей Андреевич": 38,
-      "Харитонов Николай Михайлович": 146
+      "gas:candidate-vibid:4234003222496": 11,
+      "gas:candidate-vibid:4234003207414": 38,
+      "gas:candidate-vibid:4234003222274": 11,
+      "gas:candidate-vibid:4234003222873": 3,
+      "gas:candidate-vibid:4234003222689": 0,
+      "gas:candidate-vibid:4234003222419": 6,
+      "gas:candidate-vibid:4234003222625": 6,
+      "gas:candidate-vibid:4234003222198": 38,
+      "gas:candidate-vibid:4234003222353": 146
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/krasnodar?action=show&root=1000069&tvd=4234003206815&vrn=100100067795849&region=23&global=&sub_region=23&prver=0&pronetvd=null&vibid=4234003206815&type=464",
@@ -8952,15 +8952,15 @@ export const duma_2016_uik_463_region_23_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Благодаров Александр Александрович": 6,
-      "Высич Александр Николаевич": 2,
-      "Гусейнова Виктория Сергеевна": 2,
-      "Дворников Денис Владимирович": 2,
-      "Закипнев Сергей Сергеевич": 0,
-      "Овечкин Андрей Владимирович": 0,
-      "Поздеев Евгений Любомирович": 0,
-      "Фролов Андрей Андреевич": 22,
-      "Харитонов Николай Михайлович": 87
+      "gas:candidate-vibid:4234003222496": 6,
+      "gas:candidate-vibid:4234003207414": 2,
+      "gas:candidate-vibid:4234003222274": 2,
+      "gas:candidate-vibid:4234003222873": 2,
+      "gas:candidate-vibid:4234003222689": 0,
+      "gas:candidate-vibid:4234003222419": 0,
+      "gas:candidate-vibid:4234003222625": 0,
+      "gas:candidate-vibid:4234003222198": 22,
+      "gas:candidate-vibid:4234003222353": 87
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/krasnodar?action=show&root=1000069&tvd=4234003206815&vrn=100100067795849&region=23&global=&sub_region=23&prver=0&pronetvd=null&vibid=4234003206815&type=464",
@@ -9011,15 +9011,15 @@ export const duma_2016_uik_463_region_23_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Благодаров Александр Александрович": 11,
-      "Высич Александр Николаевич": 7,
-      "Гусейнова Виктория Сергеевна": 5,
-      "Дворников Денис Владимирович": 5,
-      "Закипнев Сергей Сергеевич": 4,
-      "Овечкин Андрей Владимирович": 2,
-      "Поздеев Евгений Любомирович": 3,
-      "Фролов Андрей Андреевич": 26,
-      "Харитонов Николай Михайлович": 102
+      "gas:candidate-vibid:4234003222496": 11,
+      "gas:candidate-vibid:4234003207414": 7,
+      "gas:candidate-vibid:4234003222274": 5,
+      "gas:candidate-vibid:4234003222873": 5,
+      "gas:candidate-vibid:4234003222689": 4,
+      "gas:candidate-vibid:4234003222419": 2,
+      "gas:candidate-vibid:4234003222625": 3,
+      "gas:candidate-vibid:4234003222198": 26,
+      "gas:candidate-vibid:4234003222353": 102
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/krasnodar?action=show&root=1000069&tvd=4234003206815&vrn=100100067795849&region=23&global=&sub_region=23&prver=0&pronetvd=null&vibid=4234003206815&type=464",
@@ -9070,15 +9070,15 @@ export const duma_2016_uik_463_region_23_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Благодаров Александр Александрович": 30,
-      "Высич Александр Николаевич": 42,
-      "Гусейнова Виктория Сергеевна": 60,
-      "Дворников Денис Владимирович": 7,
-      "Закипнев Сергей Сергеевич": 17,
-      "Овечкин Андрей Владимирович": 11,
-      "Поздеев Евгений Любомирович": 4,
-      "Фролов Андрей Андреевич": 135,
-      "Харитонов Николай Михайлович": 424
+      "gas:candidate-vibid:4234003222496": 30,
+      "gas:candidate-vibid:4234003207414": 42,
+      "gas:candidate-vibid:4234003222274": 60,
+      "gas:candidate-vibid:4234003222873": 7,
+      "gas:candidate-vibid:4234003222689": 17,
+      "gas:candidate-vibid:4234003222419": 11,
+      "gas:candidate-vibid:4234003222625": 4,
+      "gas:candidate-vibid:4234003222198": 135,
+      "gas:candidate-vibid:4234003222353": 424
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/krasnodar?action=show&root=1000069&tvd=4234003206815&vrn=100100067795849&region=23&global=&sub_region=23&prver=0&pronetvd=null&vibid=4234003206815&type=464",
@@ -9129,15 +9129,15 @@ export const duma_2016_uik_463_region_23_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Благодаров Александр Александрович": 13,
-      "Высич Александр Николаевич": 18,
-      "Гусейнова Виктория Сергеевна": 7,
-      "Дворников Денис Владимирович": 2,
-      "Закипнев Сергей Сергеевич": 2,
-      "Овечкин Андрей Владимирович": 2,
-      "Поздеев Евгений Любомирович": 6,
-      "Фролов Андрей Андреевич": 62,
-      "Харитонов Николай Михайлович": 98
+      "gas:candidate-vibid:4234003222496": 13,
+      "gas:candidate-vibid:4234003207414": 18,
+      "gas:candidate-vibid:4234003222274": 7,
+      "gas:candidate-vibid:4234003222873": 2,
+      "gas:candidate-vibid:4234003222689": 2,
+      "gas:candidate-vibid:4234003222419": 2,
+      "gas:candidate-vibid:4234003222625": 6,
+      "gas:candidate-vibid:4234003222198": 62,
+      "gas:candidate-vibid:4234003222353": 98
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/krasnodar?action=show&root=1000069&tvd=4234003206815&vrn=100100067795849&region=23&global=&sub_region=23&prver=0&pronetvd=null&vibid=4234003206815&type=464",
@@ -9188,15 +9188,15 @@ export const duma_2016_uik_463_region_23_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Благодаров Александр Александрович": 23,
-      "Высич Александр Николаевич": 32,
-      "Гусейнова Виктория Сергеевна": 27,
-      "Дворников Денис Владимирович": 11,
-      "Закипнев Сергей Сергеевич": 12,
-      "Овечкин Андрей Владимирович": 13,
-      "Поздеев Евгений Любомирович": 4,
-      "Фролов Андрей Андреевич": 176,
-      "Харитонов Николай Михайлович": 103
+      "gas:candidate-vibid:4234003222496": 23,
+      "gas:candidate-vibid:4234003207414": 32,
+      "gas:candidate-vibid:4234003222274": 27,
+      "gas:candidate-vibid:4234003222873": 11,
+      "gas:candidate-vibid:4234003222689": 12,
+      "gas:candidate-vibid:4234003222419": 13,
+      "gas:candidate-vibid:4234003222625": 4,
+      "gas:candidate-vibid:4234003222198": 176,
+      "gas:candidate-vibid:4234003222353": 103
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/krasnodar?action=show&root=1000069&tvd=4234003206815&vrn=100100067795849&region=23&global=&sub_region=23&prver=0&pronetvd=null&vibid=4234003206815&type=464",
@@ -9247,15 +9247,15 @@ export const duma_2016_uik_463_region_23_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Благодаров Александр Александрович": 16,
-      "Высич Александр Николаевич": 42,
-      "Гусейнова Виктория Сергеевна": 25,
-      "Дворников Денис Владимирович": 11,
-      "Закипнев Сергей Сергеевич": 5,
-      "Овечкин Андрей Владимирович": 17,
-      "Поздеев Евгений Любомирович": 8,
-      "Фролов Андрей Андреевич": 85,
-      "Харитонов Николай Михайлович": 128
+      "gas:candidate-vibid:4234003222496": 16,
+      "gas:candidate-vibid:4234003207414": 42,
+      "gas:candidate-vibid:4234003222274": 25,
+      "gas:candidate-vibid:4234003222873": 11,
+      "gas:candidate-vibid:4234003222689": 5,
+      "gas:candidate-vibid:4234003222419": 17,
+      "gas:candidate-vibid:4234003222625": 8,
+      "gas:candidate-vibid:4234003222198": 85,
+      "gas:candidate-vibid:4234003222353": 128
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/krasnodar?action=show&root=1000069&tvd=4234003206815&vrn=100100067795849&region=23&global=&sub_region=23&prver=0&pronetvd=null&vibid=4234003206815&type=464",
@@ -9306,15 +9306,15 @@ export const duma_2016_uik_463_region_23_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Благодаров Александр Александрович": 6,
-      "Высич Александр Николаевич": 7,
-      "Гусейнова Виктория Сергеевна": 2,
-      "Дворников Денис Владимирович": 0,
-      "Закипнев Сергей Сергеевич": 2,
-      "Овечкин Андрей Владимирович": 0,
-      "Поздеев Евгений Любомирович": 1,
-      "Фролов Андрей Андреевич": 91,
-      "Харитонов Николай Михайлович": 44
+      "gas:candidate-vibid:4234003222496": 6,
+      "gas:candidate-vibid:4234003207414": 7,
+      "gas:candidate-vibid:4234003222274": 2,
+      "gas:candidate-vibid:4234003222873": 0,
+      "gas:candidate-vibid:4234003222689": 2,
+      "gas:candidate-vibid:4234003222419": 0,
+      "gas:candidate-vibid:4234003222625": 1,
+      "gas:candidate-vibid:4234003222198": 91,
+      "gas:candidate-vibid:4234003222353": 44
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/krasnodar?action=show&root=1000069&tvd=4234003206815&vrn=100100067795849&region=23&global=&sub_region=23&prver=0&pronetvd=null&vibid=4234003206815&type=464",
@@ -9365,15 +9365,15 @@ export const duma_2016_uik_463_region_23_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Благодаров Александр Александрович": 10,
-      "Высич Александр Николаевич": 14,
-      "Гусейнова Виктория Сергеевна": 5,
-      "Дворников Денис Владимирович": 1,
-      "Закипнев Сергей Сергеевич": 5,
-      "Овечкин Андрей Владимирович": 3,
-      "Поздеев Евгений Любомирович": 1,
-      "Фролов Андрей Андреевич": 65,
-      "Харитонов Николай Михайлович": 57
+      "gas:candidate-vibid:4234003222496": 10,
+      "gas:candidate-vibid:4234003207414": 14,
+      "gas:candidate-vibid:4234003222274": 5,
+      "gas:candidate-vibid:4234003222873": 1,
+      "gas:candidate-vibid:4234003222689": 5,
+      "gas:candidate-vibid:4234003222419": 3,
+      "gas:candidate-vibid:4234003222625": 1,
+      "gas:candidate-vibid:4234003222198": 65,
+      "gas:candidate-vibid:4234003222353": 57
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/krasnodar?action=show&root=1000069&tvd=4234003206815&vrn=100100067795849&region=23&global=&sub_region=23&prver=0&pronetvd=null&vibid=4234003206815&type=464",
@@ -9424,15 +9424,15 @@ export const duma_2016_uik_463_region_23_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Благодаров Александр Александрович": 26,
-      "Высич Александр Николаевич": 56,
-      "Гусейнова Виктория Сергеевна": 50,
-      "Дворников Денис Владимирович": 14,
-      "Закипнев Сергей Сергеевич": 20,
-      "Овечкин Андрей Владимирович": 20,
-      "Поздеев Евгений Любомирович": 7,
-      "Фролов Андрей Андреевич": 156,
-      "Харитонов Николай Михайлович": 118
+      "gas:candidate-vibid:4234003222496": 26,
+      "gas:candidate-vibid:4234003207414": 56,
+      "gas:candidate-vibid:4234003222274": 50,
+      "gas:candidate-vibid:4234003222873": 14,
+      "gas:candidate-vibid:4234003222689": 20,
+      "gas:candidate-vibid:4234003222419": 20,
+      "gas:candidate-vibid:4234003222625": 7,
+      "gas:candidate-vibid:4234003222198": 156,
+      "gas:candidate-vibid:4234003222353": 118
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/krasnodar?action=show&root=1000069&tvd=4234003206815&vrn=100100067795849&region=23&global=&sub_region=23&prver=0&pronetvd=null&vibid=4234003206815&type=464",
@@ -9483,15 +9483,15 @@ export const duma_2016_uik_463_region_23_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Благодаров Александр Александрович": 20,
-      "Высич Александр Николаевич": 40,
-      "Гусейнова Виктория Сергеевна": 20,
-      "Дворников Денис Владимирович": 5,
-      "Закипнев Сергей Сергеевич": 12,
-      "Овечкин Андрей Владимирович": 8,
-      "Поздеев Евгений Любомирович": 5,
-      "Фролов Андрей Андреевич": 90,
-      "Харитонов Николай Михайлович": 299
+      "gas:candidate-vibid:4234003222496": 20,
+      "gas:candidate-vibid:4234003207414": 40,
+      "gas:candidate-vibid:4234003222274": 20,
+      "gas:candidate-vibid:4234003222873": 5,
+      "gas:candidate-vibid:4234003222689": 12,
+      "gas:candidate-vibid:4234003222419": 8,
+      "gas:candidate-vibid:4234003222625": 5,
+      "gas:candidate-vibid:4234003222198": 90,
+      "gas:candidate-vibid:4234003222353": 299
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/krasnodar?action=show&root=1000069&tvd=4234003206815&vrn=100100067795849&region=23&global=&sub_region=23&prver=0&pronetvd=null&vibid=4234003206815&type=464",
@@ -9542,15 +9542,15 @@ export const duma_2016_uik_463_region_23_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Благодаров Александр Александрович": 7,
-      "Высич Александр Николаевич": 9,
-      "Гусейнова Виктория Сергеевна": 7,
-      "Дворников Денис Владимирович": 1,
-      "Закипнев Сергей Сергеевич": 1,
-      "Овечкин Андрей Владимирович": 2,
-      "Поздеев Евгений Любомирович": 3,
-      "Фролов Андрей Андреевич": 49,
-      "Харитонов Николай Михайлович": 201
+      "gas:candidate-vibid:4234003222496": 7,
+      "gas:candidate-vibid:4234003207414": 9,
+      "gas:candidate-vibid:4234003222274": 7,
+      "gas:candidate-vibid:4234003222873": 1,
+      "gas:candidate-vibid:4234003222689": 1,
+      "gas:candidate-vibid:4234003222419": 2,
+      "gas:candidate-vibid:4234003222625": 3,
+      "gas:candidate-vibid:4234003222198": 49,
+      "gas:candidate-vibid:4234003222353": 201
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/krasnodar?action=show&root=1000069&tvd=4234003206815&vrn=100100067795849&region=23&global=&sub_region=23&prver=0&pronetvd=null&vibid=4234003206815&type=464",
@@ -9601,15 +9601,15 @@ export const duma_2016_uik_463_region_23_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Благодаров Александр Александрович": 21,
-      "Высич Александр Николаевич": 50,
-      "Гусейнова Виктория Сергеевна": 24,
-      "Дворников Денис Владимирович": 8,
-      "Закипнев Сергей Сергеевич": 12,
-      "Овечкин Андрей Владимирович": 6,
-      "Поздеев Евгений Любомирович": 7,
-      "Фролов Андрей Андреевич": 94,
-      "Харитонов Николай Михайлович": 98
+      "gas:candidate-vibid:4234003222496": 21,
+      "gas:candidate-vibid:4234003207414": 50,
+      "gas:candidate-vibid:4234003222274": 24,
+      "gas:candidate-vibid:4234003222873": 8,
+      "gas:candidate-vibid:4234003222689": 12,
+      "gas:candidate-vibid:4234003222419": 6,
+      "gas:candidate-vibid:4234003222625": 7,
+      "gas:candidate-vibid:4234003222198": 94,
+      "gas:candidate-vibid:4234003222353": 98
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/krasnodar?action=show&root=1000069&tvd=4234003206815&vrn=100100067795849&region=23&global=&sub_region=23&prver=0&pronetvd=null&vibid=4234003206815&type=464",
@@ -9660,15 +9660,15 @@ export const duma_2016_uik_463_region_23_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Благодаров Александр Александрович": 19,
-      "Высич Александр Николаевич": 44,
-      "Гусейнова Виктория Сергеевна": 32,
-      "Дворников Денис Владимирович": 5,
-      "Закипнев Сергей Сергеевич": 13,
-      "Овечкин Андрей Владимирович": 12,
-      "Поздеев Евгений Любомирович": 7,
-      "Фролов Андрей Андреевич": 148,
-      "Харитонов Николай Михайлович": 110
+      "gas:candidate-vibid:4234003222496": 19,
+      "gas:candidate-vibid:4234003207414": 44,
+      "gas:candidate-vibid:4234003222274": 32,
+      "gas:candidate-vibid:4234003222873": 5,
+      "gas:candidate-vibid:4234003222689": 13,
+      "gas:candidate-vibid:4234003222419": 12,
+      "gas:candidate-vibid:4234003222625": 7,
+      "gas:candidate-vibid:4234003222198": 148,
+      "gas:candidate-vibid:4234003222353": 110
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/krasnodar?action=show&root=1000069&tvd=4234003206815&vrn=100100067795849&region=23&global=&sub_region=23&prver=0&pronetvd=null&vibid=4234003206815&type=464",
@@ -9719,15 +9719,15 @@ export const duma_2016_uik_463_region_23_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Благодаров Александр Александрович": 40,
-      "Высич Александр Николаевич": 62,
-      "Гусейнова Виктория Сергеевна": 41,
-      "Дворников Денис Владимирович": 9,
-      "Закипнев Сергей Сергеевич": 16,
-      "Овечкин Андрей Владимирович": 21,
-      "Поздеев Евгений Любомирович": 6,
-      "Фролов Андрей Андреевич": 227,
-      "Харитонов Николай Михайлович": 158
+      "gas:candidate-vibid:4234003222496": 40,
+      "gas:candidate-vibid:4234003207414": 62,
+      "gas:candidate-vibid:4234003222274": 41,
+      "gas:candidate-vibid:4234003222873": 9,
+      "gas:candidate-vibid:4234003222689": 16,
+      "gas:candidate-vibid:4234003222419": 21,
+      "gas:candidate-vibid:4234003222625": 6,
+      "gas:candidate-vibid:4234003222198": 227,
+      "gas:candidate-vibid:4234003222353": 158
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/krasnodar?action=show&root=1000069&tvd=4234003206815&vrn=100100067795849&region=23&global=&sub_region=23&prver=0&pronetvd=null&vibid=4234003206815&type=464",
@@ -9778,15 +9778,15 @@ export const duma_2016_uik_463_region_23_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Благодаров Александр Александрович": 34,
-      "Высич Александр Николаевич": 69,
-      "Гусейнова Виктория Сергеевна": 49,
-      "Дворников Денис Владимирович": 10,
-      "Закипнев Сергей Сергеевич": 18,
-      "Овечкин Андрей Владимирович": 28,
-      "Поздеев Евгений Любомирович": 10,
-      "Фролов Андрей Андреевич": 194,
-      "Харитонов Николай Михайлович": 132
+      "gas:candidate-vibid:4234003222496": 34,
+      "gas:candidate-vibid:4234003207414": 69,
+      "gas:candidate-vibid:4234003222274": 49,
+      "gas:candidate-vibid:4234003222873": 10,
+      "gas:candidate-vibid:4234003222689": 18,
+      "gas:candidate-vibid:4234003222419": 28,
+      "gas:candidate-vibid:4234003222625": 10,
+      "gas:candidate-vibid:4234003222198": 194,
+      "gas:candidate-vibid:4234003222353": 132
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/krasnodar?action=show&root=1000069&tvd=4234003206815&vrn=100100067795849&region=23&global=&sub_region=23&prver=0&pronetvd=null&vibid=4234003206815&type=464",
@@ -9837,15 +9837,15 @@ export const duma_2016_uik_463_region_23_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Благодаров Александр Александрович": 2,
-      "Высич Александр Николаевич": 7,
-      "Гусейнова Виктория Сергеевна": 3,
-      "Дворников Денис Владимирович": 0,
-      "Закипнев Сергей Сергеевич": 1,
-      "Овечкин Андрей Владимирович": 0,
-      "Поздеев Евгений Любомирович": 3,
-      "Фролов Андрей Андреевич": 62,
-      "Харитонов Николай Михайлович": 13
+      "gas:candidate-vibid:4234003222496": 2,
+      "gas:candidate-vibid:4234003207414": 7,
+      "gas:candidate-vibid:4234003222274": 3,
+      "gas:candidate-vibid:4234003222873": 0,
+      "gas:candidate-vibid:4234003222689": 1,
+      "gas:candidate-vibid:4234003222419": 0,
+      "gas:candidate-vibid:4234003222625": 3,
+      "gas:candidate-vibid:4234003222198": 62,
+      "gas:candidate-vibid:4234003222353": 13
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/krasnodar?action=show&root=1000069&tvd=4234003206815&vrn=100100067795849&region=23&global=&sub_region=23&prver=0&pronetvd=null&vibid=4234003206815&type=464",
@@ -9896,15 +9896,15 @@ export const duma_2016_uik_463_region_23_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Благодаров Александр Александрович": 0,
-      "Высич Александр Николаевич": 10,
-      "Гусейнова Виктория Сергеевна": 3,
-      "Дворников Денис Владимирович": 0,
-      "Закипнев Сергей Сергеевич": 1,
-      "Овечкин Андрей Владимирович": 1,
-      "Поздеев Евгений Любомирович": 0,
-      "Фролов Андрей Андреевич": 38,
-      "Харитонов Николай Михайлович": 6
+      "gas:candidate-vibid:4234003222496": 0,
+      "gas:candidate-vibid:4234003207414": 10,
+      "gas:candidate-vibid:4234003222274": 3,
+      "gas:candidate-vibid:4234003222873": 0,
+      "gas:candidate-vibid:4234003222689": 1,
+      "gas:candidate-vibid:4234003222419": 1,
+      "gas:candidate-vibid:4234003222625": 0,
+      "gas:candidate-vibid:4234003222198": 38,
+      "gas:candidate-vibid:4234003222353": 6
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/krasnodar?action=show&root=1000069&tvd=4234003206815&vrn=100100067795849&region=23&global=&sub_region=23&prver=0&pronetvd=null&vibid=4234003206815&type=464",
@@ -9955,15 +9955,15 @@ export const duma_2016_uik_463_region_23_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Благодаров Александр Александрович": 7,
-      "Высич Александр Николаевич": 7,
-      "Гусейнова Виктория Сергеевна": 7,
-      "Дворников Денис Владимирович": 0,
-      "Закипнев Сергей Сергеевич": 0,
-      "Овечкин Андрей Владимирович": 2,
-      "Поздеев Евгений Любомирович": 0,
-      "Фролов Андрей Андреевич": 21,
-      "Харитонов Николай Михайлович": 72
+      "gas:candidate-vibid:4234003222496": 7,
+      "gas:candidate-vibid:4234003207414": 7,
+      "gas:candidate-vibid:4234003222274": 7,
+      "gas:candidate-vibid:4234003222873": 0,
+      "gas:candidate-vibid:4234003222689": 0,
+      "gas:candidate-vibid:4234003222419": 2,
+      "gas:candidate-vibid:4234003222625": 0,
+      "gas:candidate-vibid:4234003222198": 21,
+      "gas:candidate-vibid:4234003222353": 72
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/krasnodar?action=show&root=1000069&tvd=4234003206815&vrn=100100067795849&region=23&global=&sub_region=23&prver=0&pronetvd=null&vibid=4234003206815&type=464",
@@ -10014,15 +10014,15 @@ export const duma_2016_uik_463_region_23_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Благодаров Александр Александрович": 6,
-      "Высич Александр Николаевич": 20,
-      "Гусейнова Виктория Сергеевна": 12,
-      "Дворников Денис Владимирович": 23,
-      "Закипнев Сергей Сергеевич": 17,
-      "Овечкин Андрей Владимирович": 4,
-      "Поздеев Евгений Любомирович": 8,
-      "Фролов Андрей Андреевич": 115,
-      "Харитонов Николай Михайлович": 44
+      "gas:candidate-vibid:4234003222496": 6,
+      "gas:candidate-vibid:4234003207414": 20,
+      "gas:candidate-vibid:4234003222274": 12,
+      "gas:candidate-vibid:4234003222873": 23,
+      "gas:candidate-vibid:4234003222689": 17,
+      "gas:candidate-vibid:4234003222419": 4,
+      "gas:candidate-vibid:4234003222625": 8,
+      "gas:candidate-vibid:4234003222198": 115,
+      "gas:candidate-vibid:4234003222353": 44
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/krasnodar?action=show&root=1000069&tvd=4234003206815&vrn=100100067795849&region=23&global=&sub_region=23&prver=0&pronetvd=null&vibid=4234003206815&type=464",
@@ -10073,15 +10073,15 @@ export const duma_2016_uik_463_region_23_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Благодаров Александр Александрович": 61,
-      "Высич Александр Николаевич": 116,
-      "Гусейнова Виктория Сергеевна": 96,
-      "Дворников Денис Владимирович": 15,
-      "Закипнев Сергей Сергеевич": 35,
-      "Овечкин Андрей Владимирович": 24,
-      "Поздеев Евгений Любомирович": 11,
-      "Фролов Андрей Андреевич": 338,
-      "Харитонов Николай Михайлович": 201
+      "gas:candidate-vibid:4234003222496": 61,
+      "gas:candidate-vibid:4234003207414": 116,
+      "gas:candidate-vibid:4234003222274": 96,
+      "gas:candidate-vibid:4234003222873": 15,
+      "gas:candidate-vibid:4234003222689": 35,
+      "gas:candidate-vibid:4234003222419": 24,
+      "gas:candidate-vibid:4234003222625": 11,
+      "gas:candidate-vibid:4234003222198": 338,
+      "gas:candidate-vibid:4234003222353": 201
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/krasnodar?action=show&root=1000069&tvd=4234003206815&vrn=100100067795849&region=23&global=&sub_region=23&prver=0&pronetvd=null&vibid=4234003206815&type=464",
@@ -10132,15 +10132,15 @@ export const duma_2016_uik_463_region_23_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Благодаров Александр Александрович": 23,
-      "Высич Александр Николаевич": 80,
-      "Гусейнова Виктория Сергеевна": 47,
-      "Дворников Денис Владимирович": 9,
-      "Закипнев Сергей Сергеевич": 27,
-      "Овечкин Андрей Владимирович": 14,
-      "Поздеев Евгений Любомирович": 11,
-      "Фролов Андрей Андреевич": 238,
-      "Харитонов Николай Михайлович": 143
+      "gas:candidate-vibid:4234003222496": 23,
+      "gas:candidate-vibid:4234003207414": 80,
+      "gas:candidate-vibid:4234003222274": 47,
+      "gas:candidate-vibid:4234003222873": 9,
+      "gas:candidate-vibid:4234003222689": 27,
+      "gas:candidate-vibid:4234003222419": 14,
+      "gas:candidate-vibid:4234003222625": 11,
+      "gas:candidate-vibid:4234003222198": 238,
+      "gas:candidate-vibid:4234003222353": 143
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/krasnodar?action=show&root=1000069&tvd=4234003206815&vrn=100100067795849&region=23&global=&sub_region=23&prver=0&pronetvd=null&vibid=4234003206815&type=464",
@@ -10191,15 +10191,15 @@ export const duma_2016_uik_463_region_23_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Благодаров Александр Александрович": 7,
-      "Высич Александр Николаевич": 11,
-      "Гусейнова Виктория Сергеевна": 9,
-      "Дворников Денис Владимирович": 3,
-      "Закипнев Сергей Сергеевич": 5,
-      "Овечкин Андрей Владимирович": 3,
-      "Поздеев Евгений Любомирович": 1,
-      "Фролов Андрей Андреевич": 28,
-      "Харитонов Николай Михайлович": 34
+      "gas:candidate-vibid:4234003222496": 7,
+      "gas:candidate-vibid:4234003207414": 11,
+      "gas:candidate-vibid:4234003222274": 9,
+      "gas:candidate-vibid:4234003222873": 3,
+      "gas:candidate-vibid:4234003222689": 5,
+      "gas:candidate-vibid:4234003222419": 3,
+      "gas:candidate-vibid:4234003222625": 1,
+      "gas:candidate-vibid:4234003222198": 28,
+      "gas:candidate-vibid:4234003222353": 34
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/krasnodar?action=show&root=1000069&tvd=4234003206815&vrn=100100067795849&region=23&global=&sub_region=23&prver=0&pronetvd=null&vibid=4234003206815&type=464",
@@ -10250,15 +10250,15 @@ export const duma_2016_uik_463_region_23_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Благодаров Александр Александрович": 22,
-      "Высич Александр Николаевич": 33,
-      "Гусейнова Виктория Сергеевна": 29,
-      "Дворников Денис Владимирович": 9,
-      "Закипнев Сергей Сергеевич": 24,
-      "Овечкин Андрей Владимирович": 10,
-      "Поздеев Евгений Любомирович": 4,
-      "Фролов Андрей Андреевич": 103,
-      "Харитонов Николай Михайлович": 63
+      "gas:candidate-vibid:4234003222496": 22,
+      "gas:candidate-vibid:4234003207414": 33,
+      "gas:candidate-vibid:4234003222274": 29,
+      "gas:candidate-vibid:4234003222873": 9,
+      "gas:candidate-vibid:4234003222689": 24,
+      "gas:candidate-vibid:4234003222419": 10,
+      "gas:candidate-vibid:4234003222625": 4,
+      "gas:candidate-vibid:4234003222198": 103,
+      "gas:candidate-vibid:4234003222353": 63
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/krasnodar?action=show&root=1000069&tvd=4234003206815&vrn=100100067795849&region=23&global=&sub_region=23&prver=0&pronetvd=null&vibid=4234003206815&type=464",
@@ -10309,15 +10309,15 @@ export const duma_2016_uik_463_region_23_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Благодаров Александр Александрович": 136,
-      "Высич Александр Николаевич": 112,
-      "Гусейнова Виктория Сергеевна": 97,
-      "Дворников Денис Владимирович": 26,
-      "Закипнев Сергей Сергеевич": 73,
-      "Овечкин Андрей Владимирович": 25,
-      "Поздеев Евгений Любомирович": 11,
-      "Фролов Андрей Андреевич": 172,
-      "Харитонов Николай Михайлович": 238
+      "gas:candidate-vibid:4234003222496": 136,
+      "gas:candidate-vibid:4234003207414": 112,
+      "gas:candidate-vibid:4234003222274": 97,
+      "gas:candidate-vibid:4234003222873": 26,
+      "gas:candidate-vibid:4234003222689": 73,
+      "gas:candidate-vibid:4234003222419": 25,
+      "gas:candidate-vibid:4234003222625": 11,
+      "gas:candidate-vibid:4234003222198": 172,
+      "gas:candidate-vibid:4234003222353": 238
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/krasnodar?action=show&root=1000069&tvd=4234003206815&vrn=100100067795849&region=23&global=&sub_region=23&prver=0&pronetvd=null&vibid=4234003206815&type=464",
@@ -10368,15 +10368,15 @@ export const duma_2016_uik_463_region_23_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Благодаров Александр Александрович": 46,
-      "Высич Александр Николаевич": 72,
-      "Гусейнова Виктория Сергеевна": 57,
-      "Дворников Денис Владимирович": 24,
-      "Закипнев Сергей Сергеевич": 26,
-      "Овечкин Андрей Владимирович": 27,
-      "Поздеев Евгений Любомирович": 4,
-      "Фролов Андрей Андреевич": 370,
-      "Харитонов Николай Михайлович": 122
+      "gas:candidate-vibid:4234003222496": 46,
+      "gas:candidate-vibid:4234003207414": 72,
+      "gas:candidate-vibid:4234003222274": 57,
+      "gas:candidate-vibid:4234003222873": 24,
+      "gas:candidate-vibid:4234003222689": 26,
+      "gas:candidate-vibid:4234003222419": 27,
+      "gas:candidate-vibid:4234003222625": 4,
+      "gas:candidate-vibid:4234003222198": 370,
+      "gas:candidate-vibid:4234003222353": 122
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/krasnodar?action=show&root=1000069&tvd=4234003206815&vrn=100100067795849&region=23&global=&sub_region=23&prver=0&pronetvd=null&vibid=4234003206815&type=464",
@@ -10427,15 +10427,15 @@ export const duma_2016_uik_463_region_23_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Благодаров Александр Александрович": 10,
-      "Высич Александр Николаевич": 18,
-      "Гусейнова Виктория Сергеевна": 14,
-      "Дворников Денис Владимирович": 7,
-      "Закипнев Сергей Сергеевич": 3,
-      "Овечкин Андрей Владимирович": 0,
-      "Поздеев Евгений Любомирович": 0,
-      "Фролов Андрей Андреевич": 66,
-      "Харитонов Николай Михайлович": 31
+      "gas:candidate-vibid:4234003222496": 10,
+      "gas:candidate-vibid:4234003207414": 18,
+      "gas:candidate-vibid:4234003222274": 14,
+      "gas:candidate-vibid:4234003222873": 7,
+      "gas:candidate-vibid:4234003222689": 3,
+      "gas:candidate-vibid:4234003222419": 0,
+      "gas:candidate-vibid:4234003222625": 0,
+      "gas:candidate-vibid:4234003222198": 66,
+      "gas:candidate-vibid:4234003222353": 31
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/krasnodar?action=show&root=1000069&tvd=4234003206815&vrn=100100067795849&region=23&global=&sub_region=23&prver=0&pronetvd=null&vibid=4234003206815&type=464",
@@ -10486,15 +10486,15 @@ export const duma_2016_uik_463_region_23_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Благодаров Александр Александрович": 5,
-      "Высич Александр Николаевич": 8,
-      "Гусейнова Виктория Сергеевна": 13,
-      "Дворников Денис Владимирович": 1,
-      "Закипнев Сергей Сергеевич": 8,
-      "Овечкин Андрей Владимирович": 4,
-      "Поздеев Евгений Любомирович": 4,
-      "Фролов Андрей Андреевич": 39,
-      "Харитонов Николай Михайлович": 63
+      "gas:candidate-vibid:4234003222496": 5,
+      "gas:candidate-vibid:4234003207414": 8,
+      "gas:candidate-vibid:4234003222274": 13,
+      "gas:candidate-vibid:4234003222873": 1,
+      "gas:candidate-vibid:4234003222689": 8,
+      "gas:candidate-vibid:4234003222419": 4,
+      "gas:candidate-vibid:4234003222625": 4,
+      "gas:candidate-vibid:4234003222198": 39,
+      "gas:candidate-vibid:4234003222353": 63
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/krasnodar?action=show&root=1000069&tvd=4234003206815&vrn=100100067795849&region=23&global=&sub_region=23&prver=0&pronetvd=null&vibid=4234003206815&type=464",
@@ -10545,15 +10545,15 @@ export const duma_2016_uik_463_region_23_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Благодаров Александр Александрович": 23,
-      "Высич Александр Николаевич": 49,
-      "Гусейнова Виктория Сергеевна": 31,
-      "Дворников Денис Владимирович": 9,
-      "Закипнев Сергей Сергеевич": 12,
-      "Овечкин Андрей Владимирович": 10,
-      "Поздеев Евгений Любомирович": 3,
-      "Фролов Андрей Андреевич": 90,
-      "Харитонов Николай Михайлович": 189
+      "gas:candidate-vibid:4234003222496": 23,
+      "gas:candidate-vibid:4234003207414": 49,
+      "gas:candidate-vibid:4234003222274": 31,
+      "gas:candidate-vibid:4234003222873": 9,
+      "gas:candidate-vibid:4234003222689": 12,
+      "gas:candidate-vibid:4234003222419": 10,
+      "gas:candidate-vibid:4234003222625": 3,
+      "gas:candidate-vibid:4234003222198": 90,
+      "gas:candidate-vibid:4234003222353": 189
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/krasnodar?action=show&root=1000069&tvd=4234003206815&vrn=100100067795849&region=23&global=&sub_region=23&prver=0&pronetvd=null&vibid=4234003206815&type=464",
@@ -10604,15 +10604,15 @@ export const duma_2016_uik_463_region_23_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Благодаров Александр Александрович": 5,
-      "Высич Александр Николаевич": 4,
-      "Гусейнова Виктория Сергеевна": 10,
-      "Дворников Денис Владимирович": 3,
-      "Закипнев Сергей Сергеевич": 5,
-      "Овечкин Андрей Владимирович": 4,
-      "Поздеев Евгений Любомирович": 1,
-      "Фролов Андрей Андреевич": 96,
-      "Харитонов Николай Михайлович": 13
+      "gas:candidate-vibid:4234003222496": 5,
+      "gas:candidate-vibid:4234003207414": 4,
+      "gas:candidate-vibid:4234003222274": 10,
+      "gas:candidate-vibid:4234003222873": 3,
+      "gas:candidate-vibid:4234003222689": 5,
+      "gas:candidate-vibid:4234003222419": 4,
+      "gas:candidate-vibid:4234003222625": 1,
+      "gas:candidate-vibid:4234003222198": 96,
+      "gas:candidate-vibid:4234003222353": 13
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/krasnodar?action=show&root=1000069&tvd=4234003206815&vrn=100100067795849&region=23&global=&sub_region=23&prver=0&pronetvd=null&vibid=4234003206815&type=464",
@@ -10663,15 +10663,15 @@ export const duma_2016_uik_463_region_23_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Благодаров Александр Александрович": 32,
-      "Высич Александр Николаевич": 26,
-      "Гусейнова Виктория Сергеевна": 30,
-      "Дворников Денис Владимирович": 8,
-      "Закипнев Сергей Сергеевич": 29,
-      "Овечкин Андрей Владимирович": 12,
-      "Поздеев Евгений Любомирович": 5,
-      "Фролов Андрей Андреевич": 164,
-      "Харитонов Николай Михайлович": 163
+      "gas:candidate-vibid:4234003222496": 32,
+      "gas:candidate-vibid:4234003207414": 26,
+      "gas:candidate-vibid:4234003222274": 30,
+      "gas:candidate-vibid:4234003222873": 8,
+      "gas:candidate-vibid:4234003222689": 29,
+      "gas:candidate-vibid:4234003222419": 12,
+      "gas:candidate-vibid:4234003222625": 5,
+      "gas:candidate-vibid:4234003222198": 164,
+      "gas:candidate-vibid:4234003222353": 163
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/krasnodar?action=show&root=1000069&tvd=4234003206815&vrn=100100067795849&region=23&global=&sub_region=23&prver=0&pronetvd=null&vibid=4234003206815&type=464",
@@ -10722,15 +10722,15 @@ export const duma_2016_uik_463_region_23_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Благодаров Александр Александрович": 14,
-      "Высич Александр Николаевич": 14,
-      "Гусейнова Виктория Сергеевна": 15,
-      "Дворников Денис Владимирович": 5,
-      "Закипнев Сергей Сергеевич": 11,
-      "Овечкин Андрей Владимирович": 6,
-      "Поздеев Евгений Любомирович": 7,
-      "Фролов Андрей Андреевич": 73,
-      "Харитонов Николай Михайлович": 58
+      "gas:candidate-vibid:4234003222496": 14,
+      "gas:candidate-vibid:4234003207414": 14,
+      "gas:candidate-vibid:4234003222274": 15,
+      "gas:candidate-vibid:4234003222873": 5,
+      "gas:candidate-vibid:4234003222689": 11,
+      "gas:candidate-vibid:4234003222419": 6,
+      "gas:candidate-vibid:4234003222625": 7,
+      "gas:candidate-vibid:4234003222198": 73,
+      "gas:candidate-vibid:4234003222353": 58
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/krasnodar?action=show&root=1000069&tvd=4234003206815&vrn=100100067795849&region=23&global=&sub_region=23&prver=0&pronetvd=null&vibid=4234003206815&type=464",
@@ -10781,15 +10781,15 @@ export const duma_2016_uik_463_region_23_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Благодаров Александр Александрович": 15,
-      "Высич Александр Николаевич": 8,
-      "Гусейнова Виктория Сергеевна": 12,
-      "Дворников Денис Владимирович": 2,
-      "Закипнев Сергей Сергеевич": 16,
-      "Овечкин Андрей Владимирович": 11,
-      "Поздеев Евгений Любомирович": 1,
-      "Фролов Андрей Андреевич": 29,
-      "Харитонов Николай Михайлович": 127
+      "gas:candidate-vibid:4234003222496": 15,
+      "gas:candidate-vibid:4234003207414": 8,
+      "gas:candidate-vibid:4234003222274": 12,
+      "gas:candidate-vibid:4234003222873": 2,
+      "gas:candidate-vibid:4234003222689": 16,
+      "gas:candidate-vibid:4234003222419": 11,
+      "gas:candidate-vibid:4234003222625": 1,
+      "gas:candidate-vibid:4234003222198": 29,
+      "gas:candidate-vibid:4234003222353": 127
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/krasnodar?action=show&root=1000069&tvd=4234003206815&vrn=100100067795849&region=23&global=&sub_region=23&prver=0&pronetvd=null&vibid=4234003206815&type=464",
@@ -10840,15 +10840,15 @@ export const duma_2016_uik_463_region_23_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Благодаров Александр Александрович": 4,
-      "Высич Александр Николаевич": 7,
-      "Гусейнова Виктория Сергеевна": 2,
-      "Дворников Денис Владимирович": 1,
-      "Закипнев Сергей Сергеевич": 1,
-      "Овечкин Андрей Владимирович": 4,
-      "Поздеев Евгений Любомирович": 0,
-      "Фролов Андрей Андреевич": 39,
-      "Харитонов Николай Михайлович": 50
+      "gas:candidate-vibid:4234003222496": 4,
+      "gas:candidate-vibid:4234003207414": 7,
+      "gas:candidate-vibid:4234003222274": 2,
+      "gas:candidate-vibid:4234003222873": 1,
+      "gas:candidate-vibid:4234003222689": 1,
+      "gas:candidate-vibid:4234003222419": 4,
+      "gas:candidate-vibid:4234003222625": 0,
+      "gas:candidate-vibid:4234003222198": 39,
+      "gas:candidate-vibid:4234003222353": 50
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/krasnodar?action=show&root=1000069&tvd=4234003206815&vrn=100100067795849&region=23&global=&sub_region=23&prver=0&pronetvd=null&vibid=4234003206815&type=464",
@@ -10899,15 +10899,15 @@ export const duma_2016_uik_463_region_23_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Благодаров Александр Александрович": 116,
-      "Высич Александр Николаевич": 75,
-      "Гусейнова Виктория Сергеевна": 280,
-      "Дворников Денис Владимирович": 43,
-      "Закипнев Сергей Сергеевич": 15,
-      "Овечкин Андрей Владимирович": 87,
-      "Поздеев Евгений Любомирович": 58,
-      "Фролов Андрей Андреевич": 246,
-      "Харитонов Николай Михайлович": 529
+      "gas:candidate-vibid:4234003222496": 116,
+      "gas:candidate-vibid:4234003207414": 75,
+      "gas:candidate-vibid:4234003222274": 280,
+      "gas:candidate-vibid:4234003222873": 43,
+      "gas:candidate-vibid:4234003222689": 15,
+      "gas:candidate-vibid:4234003222419": 87,
+      "gas:candidate-vibid:4234003222625": 58,
+      "gas:candidate-vibid:4234003222198": 246,
+      "gas:candidate-vibid:4234003222353": 529
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/krasnodar?action=show&root=1000069&tvd=4234003206816&vrn=100100067795849&region=23&global=&sub_region=23&prver=0&pronetvd=null&vibid=4234003206816&type=464",
@@ -10958,15 +10958,15 @@ export const duma_2016_uik_463_region_23_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Благодаров Александр Александрович": 59,
-      "Высич Александр Николаевич": 118,
-      "Гусейнова Виктория Сергеевна": 354,
-      "Дворников Денис Владимирович": 78,
-      "Закипнев Сергей Сергеевич": 78,
-      "Овечкин Андрей Владимирович": 138,
-      "Поздеев Евгений Любомирович": 98,
-      "Фролов Андрей Андреевич": 296,
-      "Харитонов Николай Михайлович": 752
+      "gas:candidate-vibid:4234003222496": 59,
+      "gas:candidate-vibid:4234003207414": 118,
+      "gas:candidate-vibid:4234003222274": 354,
+      "gas:candidate-vibid:4234003222873": 78,
+      "gas:candidate-vibid:4234003222689": 78,
+      "gas:candidate-vibid:4234003222419": 138,
+      "gas:candidate-vibid:4234003222625": 98,
+      "gas:candidate-vibid:4234003222198": 296,
+      "gas:candidate-vibid:4234003222353": 752
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/krasnodar?action=show&root=1000069&tvd=4234003206816&vrn=100100067795849&region=23&global=&sub_region=23&prver=0&pronetvd=null&vibid=4234003206816&type=464",
@@ -11017,15 +11017,15 @@ export const duma_2016_uik_463_region_23_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Благодаров Александр Александрович": 184,
-      "Высич Александр Николаевич": 236,
-      "Гусейнова Виктория Сергеевна": 278,
-      "Дворников Денис Владимирович": 104,
-      "Закипнев Сергей Сергеевич": 141,
-      "Овечкин Андрей Владимирович": 87,
-      "Поздеев Евгений Любомирович": 74,
-      "Фролов Андрей Андреевич": 183,
-      "Харитонов Николай Михайлович": 444
+      "gas:candidate-vibid:4234003222496": 184,
+      "gas:candidate-vibid:4234003207414": 236,
+      "gas:candidate-vibid:4234003222274": 278,
+      "gas:candidate-vibid:4234003222873": 104,
+      "gas:candidate-vibid:4234003222689": 141,
+      "gas:candidate-vibid:4234003222419": 87,
+      "gas:candidate-vibid:4234003222625": 74,
+      "gas:candidate-vibid:4234003222198": 183,
+      "gas:candidate-vibid:4234003222353": 444
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/krasnodar?action=show&root=1000069&tvd=4234003206816&vrn=100100067795849&region=23&global=&sub_region=23&prver=0&pronetvd=null&vibid=4234003206816&type=464",
@@ -11076,15 +11076,15 @@ export const duma_2016_uik_463_region_23_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Благодаров Александр Александрович": 115,
-      "Высич Александр Николаевич": 153,
-      "Гусейнова Виктория Сергеевна": 364,
-      "Дворников Денис Владимирович": 96,
-      "Закипнев Сергей Сергеевич": 134,
-      "Овечкин Андрей Владимирович": 115,
-      "Поздеев Евгений Любомирович": 96,
-      "Фролов Андрей Андреевич": 211,
-      "Харитонов Николай Михайлович": 632
+      "gas:candidate-vibid:4234003222496": 115,
+      "gas:candidate-vibid:4234003207414": 153,
+      "gas:candidate-vibid:4234003222274": 364,
+      "gas:candidate-vibid:4234003222873": 96,
+      "gas:candidate-vibid:4234003222689": 134,
+      "gas:candidate-vibid:4234003222419": 115,
+      "gas:candidate-vibid:4234003222625": 96,
+      "gas:candidate-vibid:4234003222198": 211,
+      "gas:candidate-vibid:4234003222353": 632
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/krasnodar?action=show&root=1000069&tvd=4234003206816&vrn=100100067795849&region=23&global=&sub_region=23&prver=0&pronetvd=null&vibid=4234003206816&type=464",
@@ -11135,15 +11135,15 @@ export const duma_2016_uik_463_region_23_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Благодаров Александр Александрович": 89,
-      "Высич Александр Николаевич": 57,
-      "Гусейнова Виктория Сергеевна": 62,
-      "Дворников Денис Владимирович": 27,
-      "Закипнев Сергей Сергеевич": 17,
-      "Овечкин Андрей Владимирович": 25,
-      "Поздеев Евгений Любомирович": 10,
-      "Фролов Андрей Андреевич": 297,
-      "Харитонов Николай Михайлович": 427
+      "gas:candidate-vibid:4234003222496": 89,
+      "gas:candidate-vibid:4234003207414": 57,
+      "gas:candidate-vibid:4234003222274": 62,
+      "gas:candidate-vibid:4234003222873": 27,
+      "gas:candidate-vibid:4234003222689": 17,
+      "gas:candidate-vibid:4234003222419": 25,
+      "gas:candidate-vibid:4234003222625": 10,
+      "gas:candidate-vibid:4234003222198": 297,
+      "gas:candidate-vibid:4234003222353": 427
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/krasnodar?action=show&root=1000069&tvd=4234003206816&vrn=100100067795849&region=23&global=&sub_region=23&prver=0&pronetvd=null&vibid=4234003206816&type=464",
@@ -11194,15 +11194,15 @@ export const duma_2016_uik_463_region_23_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Благодаров Александр Александрович": 21,
-      "Высич Александр Николаевич": 23,
-      "Гусейнова Виктория Сергеевна": 26,
-      "Дворников Денис Владимирович": 8,
-      "Закипнев Сергей Сергеевич": 5,
-      "Овечкин Андрей Владимирович": 8,
-      "Поздеев Евгений Любомирович": 2,
-      "Фролов Андрей Андреевич": 39,
-      "Харитонов Николай Михайлович": 123
+      "gas:candidate-vibid:4234003222496": 21,
+      "gas:candidate-vibid:4234003207414": 23,
+      "gas:candidate-vibid:4234003222274": 26,
+      "gas:candidate-vibid:4234003222873": 8,
+      "gas:candidate-vibid:4234003222689": 5,
+      "gas:candidate-vibid:4234003222419": 8,
+      "gas:candidate-vibid:4234003222625": 2,
+      "gas:candidate-vibid:4234003222198": 39,
+      "gas:candidate-vibid:4234003222353": 123
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/krasnodar?action=show&root=1000069&tvd=4234003206816&vrn=100100067795849&region=23&global=&sub_region=23&prver=0&pronetvd=null&vibid=4234003206816&type=464",
@@ -11253,15 +11253,15 @@ export const duma_2016_uik_463_region_23_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Благодаров Александр Александрович": 91,
-      "Высич Александр Николаевич": 115,
-      "Гусейнова Виктория Сергеевна": 23,
-      "Дворников Денис Владимирович": 27,
-      "Закипнев Сергей Сергеевич": 20,
-      "Овечкин Андрей Владимирович": 23,
-      "Поздеев Евгений Любомирович": 82,
-      "Фролов Андрей Андреевич": 235,
-      "Харитонов Николай Михайлович": 569
+      "gas:candidate-vibid:4234003222496": 91,
+      "gas:candidate-vibid:4234003207414": 115,
+      "gas:candidate-vibid:4234003222274": 23,
+      "gas:candidate-vibid:4234003222873": 27,
+      "gas:candidate-vibid:4234003222689": 20,
+      "gas:candidate-vibid:4234003222419": 23,
+      "gas:candidate-vibid:4234003222625": 82,
+      "gas:candidate-vibid:4234003222198": 235,
+      "gas:candidate-vibid:4234003222353": 569
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/krasnodar?action=show&root=1000069&tvd=4234003206816&vrn=100100067795849&region=23&global=&sub_region=23&prver=0&pronetvd=null&vibid=4234003206816&type=464",
@@ -11312,15 +11312,15 @@ export const duma_2016_uik_463_region_23_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Благодаров Александр Александрович": 74,
-      "Высич Александр Николаевич": 139,
-      "Гусейнова Виктория Сергеевна": 71,
-      "Дворников Денис Владимирович": 20,
-      "Закипнев Сергей Сергеевич": 31,
-      "Овечкин Андрей Владимирович": 28,
-      "Поздеев Евгений Любомирович": 16,
-      "Фролов Андрей Андреевич": 141,
-      "Харитонов Николай Михайлович": 695
+      "gas:candidate-vibid:4234003222496": 74,
+      "gas:candidate-vibid:4234003207414": 139,
+      "gas:candidate-vibid:4234003222274": 71,
+      "gas:candidate-vibid:4234003222873": 20,
+      "gas:candidate-vibid:4234003222689": 31,
+      "gas:candidate-vibid:4234003222419": 28,
+      "gas:candidate-vibid:4234003222625": 16,
+      "gas:candidate-vibid:4234003222198": 141,
+      "gas:candidate-vibid:4234003222353": 695
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/krasnodar?action=show&root=1000069&tvd=4234003206816&vrn=100100067795849&region=23&global=&sub_region=23&prver=0&pronetvd=null&vibid=4234003206816&type=464",
@@ -11371,15 +11371,15 @@ export const duma_2016_uik_463_region_23_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Благодаров Александр Александрович": 87,
-      "Высич Александр Николаевич": 88,
-      "Гусейнова Виктория Сергеевна": 324,
-      "Дворников Денис Владимирович": 44,
-      "Закипнев Сергей Сергеевич": 29,
-      "Овечкин Андрей Владимирович": 78,
-      "Поздеев Евгений Любомирович": 91,
-      "Фролов Андрей Андреевич": 92,
-      "Харитонов Николай Михайлович": 618
+      "gas:candidate-vibid:4234003222496": 87,
+      "gas:candidate-vibid:4234003207414": 88,
+      "gas:candidate-vibid:4234003222274": 324,
+      "gas:candidate-vibid:4234003222873": 44,
+      "gas:candidate-vibid:4234003222689": 29,
+      "gas:candidate-vibid:4234003222419": 78,
+      "gas:candidate-vibid:4234003222625": 91,
+      "gas:candidate-vibid:4234003222198": 92,
+      "gas:candidate-vibid:4234003222353": 618
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/krasnodar?action=show&root=1000069&tvd=4234003206816&vrn=100100067795849&region=23&global=&sub_region=23&prver=0&pronetvd=null&vibid=4234003206816&type=464",
@@ -11430,15 +11430,15 @@ export const duma_2016_uik_463_region_23_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Благодаров Александр Александрович": 65,
-      "Высич Александр Николаевич": 64,
-      "Гусейнова Виктория Сергеевна": 243,
-      "Дворников Денис Владимирович": 51,
-      "Закипнев Сергей Сергеевич": 13,
-      "Овечкин Андрей Владимирович": 77,
-      "Поздеев Евгений Любомирович": 64,
-      "Фролов Андрей Андреевич": 134,
-      "Харитонов Николай Михайлович": 560
+      "gas:candidate-vibid:4234003222496": 65,
+      "gas:candidate-vibid:4234003207414": 64,
+      "gas:candidate-vibid:4234003222274": 243,
+      "gas:candidate-vibid:4234003222873": 51,
+      "gas:candidate-vibid:4234003222689": 13,
+      "gas:candidate-vibid:4234003222419": 77,
+      "gas:candidate-vibid:4234003222625": 64,
+      "gas:candidate-vibid:4234003222198": 134,
+      "gas:candidate-vibid:4234003222353": 560
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/krasnodar?action=show&root=1000069&tvd=4234003206816&vrn=100100067795849&region=23&global=&sub_region=23&prver=0&pronetvd=null&vibid=4234003206816&type=464",
@@ -11489,15 +11489,15 @@ export const duma_2016_uik_463_region_23_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Благодаров Александр Александрович": 78,
-      "Высич Александр Николаевич": 115,
-      "Гусейнова Виктория Сергеевна": 48,
-      "Дворников Денис Владимирович": 27,
-      "Закипнев Сергей Сергеевич": 26,
-      "Овечкин Андрей Владимирович": 21,
-      "Поздеев Евгений Любомирович": 13,
-      "Фролов Андрей Андреевич": 84,
-      "Харитонов Николай Михайлович": 216
+      "gas:candidate-vibid:4234003222496": 78,
+      "gas:candidate-vibid:4234003207414": 115,
+      "gas:candidate-vibid:4234003222274": 48,
+      "gas:candidate-vibid:4234003222873": 27,
+      "gas:candidate-vibid:4234003222689": 26,
+      "gas:candidate-vibid:4234003222419": 21,
+      "gas:candidate-vibid:4234003222625": 13,
+      "gas:candidate-vibid:4234003222198": 84,
+      "gas:candidate-vibid:4234003222353": 216
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/krasnodar?action=show&root=1000069&tvd=4234003206816&vrn=100100067795849&region=23&global=&sub_region=23&prver=0&pronetvd=null&vibid=4234003206816&type=464",
@@ -11548,15 +11548,15 @@ export const duma_2016_uik_463_region_23_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Благодаров Александр Александрович": 32,
-      "Высич Александр Николаевич": 24,
-      "Гусейнова Виктория Сергеевна": 45,
-      "Дворников Денис Владимирович": 12,
-      "Закипнев Сергей Сергеевич": 4,
-      "Овечкин Андрей Владимирович": 28,
-      "Поздеев Евгений Любомирович": 20,
-      "Фролов Андрей Андреевич": 48,
-      "Харитонов Николай Михайлович": 144
+      "gas:candidate-vibid:4234003222496": 32,
+      "gas:candidate-vibid:4234003207414": 24,
+      "gas:candidate-vibid:4234003222274": 45,
+      "gas:candidate-vibid:4234003222873": 12,
+      "gas:candidate-vibid:4234003222689": 4,
+      "gas:candidate-vibid:4234003222419": 28,
+      "gas:candidate-vibid:4234003222625": 20,
+      "gas:candidate-vibid:4234003222198": 48,
+      "gas:candidate-vibid:4234003222353": 144
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/krasnodar?action=show&root=1000069&tvd=4234003206816&vrn=100100067795849&region=23&global=&sub_region=23&prver=0&pronetvd=null&vibid=4234003206816&type=464",
@@ -11607,15 +11607,15 @@ export const duma_2016_uik_463_region_23_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Благодаров Александр Александрович": 20,
-      "Высич Александр Николаевич": 39,
-      "Гусейнова Виктория Сергеевна": 48,
-      "Дворников Денис Владимирович": 12,
-      "Закипнев Сергей Сергеевич": 7,
-      "Овечкин Андрей Владимирович": 16,
-      "Поздеев Евгений Любомирович": 6,
-      "Фролов Андрей Андреевич": 50,
-      "Харитонов Николай Михайлович": 110
+      "gas:candidate-vibid:4234003222496": 20,
+      "gas:candidate-vibid:4234003207414": 39,
+      "gas:candidate-vibid:4234003222274": 48,
+      "gas:candidate-vibid:4234003222873": 12,
+      "gas:candidate-vibid:4234003222689": 7,
+      "gas:candidate-vibid:4234003222419": 16,
+      "gas:candidate-vibid:4234003222625": 6,
+      "gas:candidate-vibid:4234003222198": 50,
+      "gas:candidate-vibid:4234003222353": 110
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/krasnodar?action=show&root=1000069&tvd=4234003206816&vrn=100100067795849&region=23&global=&sub_region=23&prver=0&pronetvd=null&vibid=4234003206816&type=464",
@@ -11666,15 +11666,15 @@ export const duma_2016_uik_463_region_23_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Благодаров Александр Александрович": 6,
-      "Высич Александр Николаевич": 10,
-      "Гусейнова Виктория Сергеевна": 11,
-      "Дворников Денис Владимирович": 6,
-      "Закипнев Сергей Сергеевич": 2,
-      "Овечкин Андрей Владимирович": 3,
-      "Поздеев Евгений Любомирович": 2,
-      "Фролов Андрей Андреевич": 31,
-      "Харитонов Николай Михайлович": 28
+      "gas:candidate-vibid:4234003222496": 6,
+      "gas:candidate-vibid:4234003207414": 10,
+      "gas:candidate-vibid:4234003222274": 11,
+      "gas:candidate-vibid:4234003222873": 6,
+      "gas:candidate-vibid:4234003222689": 2,
+      "gas:candidate-vibid:4234003222419": 3,
+      "gas:candidate-vibid:4234003222625": 2,
+      "gas:candidate-vibid:4234003222198": 31,
+      "gas:candidate-vibid:4234003222353": 28
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/krasnodar?action=show&root=1000069&tvd=4234003206816&vrn=100100067795849&region=23&global=&sub_region=23&prver=0&pronetvd=null&vibid=4234003206816&type=464",
@@ -11725,15 +11725,15 @@ export const duma_2016_uik_463_region_23_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Благодаров Александр Александрович": 12,
-      "Высич Александр Николаевич": 21,
-      "Гусейнова Виктория Сергеевна": 12,
-      "Дворников Денис Владимирович": 6,
-      "Закипнев Сергей Сергеевич": 3,
-      "Овечкин Андрей Владимирович": 6,
-      "Поздеев Евгений Любомирович": 1,
-      "Фролов Андрей Андреевич": 30,
-      "Харитонов Николай Михайлович": 26
+      "gas:candidate-vibid:4234003222496": 12,
+      "gas:candidate-vibid:4234003207414": 21,
+      "gas:candidate-vibid:4234003222274": 12,
+      "gas:candidate-vibid:4234003222873": 6,
+      "gas:candidate-vibid:4234003222689": 3,
+      "gas:candidate-vibid:4234003222419": 6,
+      "gas:candidate-vibid:4234003222625": 1,
+      "gas:candidate-vibid:4234003222198": 30,
+      "gas:candidate-vibid:4234003222353": 26
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/krasnodar?action=show&root=1000069&tvd=4234003206816&vrn=100100067795849&region=23&global=&sub_region=23&prver=0&pronetvd=null&vibid=4234003206816&type=464",
@@ -11784,15 +11784,15 @@ export const duma_2016_uik_463_region_23_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Благодаров Александр Александрович": 21,
-      "Высич Александр Николаевич": 26,
-      "Гусейнова Виктория Сергеевна": 29,
-      "Дворников Денис Владимирович": 11,
-      "Закипнев Сергей Сергеевич": 8,
-      "Овечкин Андрей Владимирович": 10,
-      "Поздеев Евгений Любомирович": 3,
-      "Фролов Андрей Андреевич": 36,
-      "Харитонов Николай Михайлович": 43
+      "gas:candidate-vibid:4234003222496": 21,
+      "gas:candidate-vibid:4234003207414": 26,
+      "gas:candidate-vibid:4234003222274": 29,
+      "gas:candidate-vibid:4234003222873": 11,
+      "gas:candidate-vibid:4234003222689": 8,
+      "gas:candidate-vibid:4234003222419": 10,
+      "gas:candidate-vibid:4234003222625": 3,
+      "gas:candidate-vibid:4234003222198": 36,
+      "gas:candidate-vibid:4234003222353": 43
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/krasnodar?action=show&root=1000069&tvd=4234003206816&vrn=100100067795849&region=23&global=&sub_region=23&prver=0&pronetvd=null&vibid=4234003206816&type=464",
@@ -11843,15 +11843,15 @@ export const duma_2016_uik_463_region_23_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Благодаров Александр Александрович": 60,
-      "Высич Александр Николаевич": 76,
-      "Гусейнова Виктория Сергеевна": 70,
-      "Дворников Денис Владимирович": 16,
-      "Закипнев Сергей Сергеевич": 14,
-      "Овечкин Андрей Владимирович": 22,
-      "Поздеев Евгений Любомирович": 12,
-      "Фролов Андрей Андреевич": 121,
-      "Харитонов Николай Михайлович": 403
+      "gas:candidate-vibid:4234003222496": 60,
+      "gas:candidate-vibid:4234003207414": 76,
+      "gas:candidate-vibid:4234003222274": 70,
+      "gas:candidate-vibid:4234003222873": 16,
+      "gas:candidate-vibid:4234003222689": 14,
+      "gas:candidate-vibid:4234003222419": 22,
+      "gas:candidate-vibid:4234003222625": 12,
+      "gas:candidate-vibid:4234003222198": 121,
+      "gas:candidate-vibid:4234003222353": 403
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/krasnodar?action=show&root=1000069&tvd=4234003206816&vrn=100100067795849&region=23&global=&sub_region=23&prver=0&pronetvd=null&vibid=4234003206816&type=464",
@@ -11902,15 +11902,15 @@ export const duma_2016_uik_463_region_23_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Благодаров Александр Александрович": 72,
-      "Высич Александр Николаевич": 128,
-      "Гусейнова Виктория Сергеевна": 102,
-      "Дворников Денис Владимирович": 39,
-      "Закипнев Сергей Сергеевич": 31,
-      "Овечкин Андрей Владимирович": 38,
-      "Поздеев Евгений Любомирович": 37,
-      "Фролов Андрей Андреевич": 133,
-      "Харитонов Николай Михайлович": 273
+      "gas:candidate-vibid:4234003222496": 72,
+      "gas:candidate-vibid:4234003207414": 128,
+      "gas:candidate-vibid:4234003222274": 102,
+      "gas:candidate-vibid:4234003222873": 39,
+      "gas:candidate-vibid:4234003222689": 31,
+      "gas:candidate-vibid:4234003222419": 38,
+      "gas:candidate-vibid:4234003222625": 37,
+      "gas:candidate-vibid:4234003222198": 133,
+      "gas:candidate-vibid:4234003222353": 273
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/krasnodar?action=show&root=1000069&tvd=4234003206816&vrn=100100067795849&region=23&global=&sub_region=23&prver=0&pronetvd=null&vibid=4234003206816&type=464",
@@ -11961,15 +11961,15 @@ export const duma_2016_uik_463_region_23_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Благодаров Александр Александрович": 88,
-      "Высич Александр Николаевич": 68,
-      "Гусейнова Виктория Сергеевна": 304,
-      "Дворников Денис Владимирович": 50,
-      "Закипнев Сергей Сергеевич": 50,
-      "Овечкин Андрей Владимирович": 116,
-      "Поздеев Евгений Любомирович": 50,
-      "Фролов Андрей Андреевич": 143,
-      "Харитонов Николай Михайлович": 387
+      "gas:candidate-vibid:4234003222496": 88,
+      "gas:candidate-vibid:4234003207414": 68,
+      "gas:candidate-vibid:4234003222274": 304,
+      "gas:candidate-vibid:4234003222873": 50,
+      "gas:candidate-vibid:4234003222689": 50,
+      "gas:candidate-vibid:4234003222419": 116,
+      "gas:candidate-vibid:4234003222625": 50,
+      "gas:candidate-vibid:4234003222198": 143,
+      "gas:candidate-vibid:4234003222353": 387
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/krasnodar?action=show&root=1000069&tvd=4234003206816&vrn=100100067795849&region=23&global=&sub_region=23&prver=0&pronetvd=null&vibid=4234003206816&type=464",
@@ -12020,15 +12020,15 @@ export const duma_2016_uik_463_region_23_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Благодаров Александр Александрович": 48,
-      "Высич Александр Николаевич": 30,
-      "Гусейнова Виктория Сергеевна": 27,
-      "Дворников Денис Владимирович": 11,
-      "Закипнев Сергей Сергеевич": 7,
-      "Овечкин Андрей Владимирович": 13,
-      "Поздеев Евгений Любомирович": 5,
-      "Фролов Андрей Андреевич": 60,
-      "Харитонов Николай Михайлович": 268
+      "gas:candidate-vibid:4234003222496": 48,
+      "gas:candidate-vibid:4234003207414": 30,
+      "gas:candidate-vibid:4234003222274": 27,
+      "gas:candidate-vibid:4234003222873": 11,
+      "gas:candidate-vibid:4234003222689": 7,
+      "gas:candidate-vibid:4234003222419": 13,
+      "gas:candidate-vibid:4234003222625": 5,
+      "gas:candidate-vibid:4234003222198": 60,
+      "gas:candidate-vibid:4234003222353": 268
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/krasnodar?action=show&root=1000069&tvd=4234003206816&vrn=100100067795849&region=23&global=&sub_region=23&prver=0&pronetvd=null&vibid=4234003206816&type=464",
@@ -12079,15 +12079,15 @@ export const duma_2016_uik_463_region_23_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Благодаров Александр Александрович": 22,
-      "Высич Александр Николаевич": 33,
-      "Гусейнова Виктория Сергеевна": 64,
-      "Дворников Денис Владимирович": 10,
-      "Закипнев Сергей Сергеевич": 59,
-      "Овечкин Андрей Владимирович": 37,
-      "Поздеев Евгений Любомирович": 3,
-      "Фролов Андрей Андреевич": 37,
-      "Харитонов Николай Михайлович": 133
+      "gas:candidate-vibid:4234003222496": 22,
+      "gas:candidate-vibid:4234003207414": 33,
+      "gas:candidate-vibid:4234003222274": 64,
+      "gas:candidate-vibid:4234003222873": 10,
+      "gas:candidate-vibid:4234003222689": 59,
+      "gas:candidate-vibid:4234003222419": 37,
+      "gas:candidate-vibid:4234003222625": 3,
+      "gas:candidate-vibid:4234003222198": 37,
+      "gas:candidate-vibid:4234003222353": 133
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/krasnodar?action=show&root=1000069&tvd=4234003206816&vrn=100100067795849&region=23&global=&sub_region=23&prver=0&pronetvd=null&vibid=4234003206816&type=464",
@@ -12138,15 +12138,15 @@ export const duma_2016_uik_463_region_23_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Благодаров Александр Александрович": 138,
-      "Высич Александр Николаевич": 178,
-      "Гусейнова Виктория Сергеевна": 107,
-      "Дворников Денис Владимирович": 45,
-      "Закипнев Сергей Сергеевич": 32,
-      "Овечкин Андрей Владимирович": 46,
-      "Поздеев Евгений Любомирович": 32,
-      "Фролов Андрей Андреевич": 125,
-      "Харитонов Николай Михайлович": 319
+      "gas:candidate-vibid:4234003222496": 138,
+      "gas:candidate-vibid:4234003207414": 178,
+      "gas:candidate-vibid:4234003222274": 107,
+      "gas:candidate-vibid:4234003222873": 45,
+      "gas:candidate-vibid:4234003222689": 32,
+      "gas:candidate-vibid:4234003222419": 46,
+      "gas:candidate-vibid:4234003222625": 32,
+      "gas:candidate-vibid:4234003222198": 125,
+      "gas:candidate-vibid:4234003222353": 319
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/krasnodar?action=show&root=1000069&tvd=4234003206816&vrn=100100067795849&region=23&global=&sub_region=23&prver=0&pronetvd=null&vibid=4234003206816&type=464",
@@ -12197,15 +12197,15 @@ export const duma_2016_uik_463_region_23_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Благодаров Александр Александрович": 104,
-      "Высич Александр Николаевич": 113,
-      "Гусейнова Виктория Сергеевна": 119,
-      "Дворников Денис Владимирович": 32,
-      "Закипнев Сергей Сергеевич": 19,
-      "Овечкин Андрей Владимирович": 45,
-      "Поздеев Евгений Любомирович": 16,
-      "Фролов Андрей Андреевич": 116,
-      "Харитонов Николай Михайлович": 560
+      "gas:candidate-vibid:4234003222496": 104,
+      "gas:candidate-vibid:4234003207414": 113,
+      "gas:candidate-vibid:4234003222274": 119,
+      "gas:candidate-vibid:4234003222873": 32,
+      "gas:candidate-vibid:4234003222689": 19,
+      "gas:candidate-vibid:4234003222419": 45,
+      "gas:candidate-vibid:4234003222625": 16,
+      "gas:candidate-vibid:4234003222198": 116,
+      "gas:candidate-vibid:4234003222353": 560
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/krasnodar?action=show&root=1000069&tvd=4234003206816&vrn=100100067795849&region=23&global=&sub_region=23&prver=0&pronetvd=null&vibid=4234003206816&type=464",
@@ -12256,15 +12256,15 @@ export const duma_2016_uik_463_region_23_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Благодаров Александр Александрович": 77,
-      "Высич Александр Николаевич": 90,
-      "Гусейнова Виктория Сергеевна": 84,
-      "Дворников Денис Владимирович": 35,
-      "Закипнев Сергей Сергеевич": 28,
-      "Овечкин Андрей Владимирович": 24,
-      "Поздеев Евгений Любомирович": 23,
-      "Фролов Андрей Андреевич": 184,
-      "Харитонов Николай Михайлович": 186
+      "gas:candidate-vibid:4234003222496": 77,
+      "gas:candidate-vibid:4234003207414": 90,
+      "gas:candidate-vibid:4234003222274": 84,
+      "gas:candidate-vibid:4234003222873": 35,
+      "gas:candidate-vibid:4234003222689": 28,
+      "gas:candidate-vibid:4234003222419": 24,
+      "gas:candidate-vibid:4234003222625": 23,
+      "gas:candidate-vibid:4234003222198": 184,
+      "gas:candidate-vibid:4234003222353": 186
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/krasnodar?action=show&root=1000069&tvd=4234003206816&vrn=100100067795849&region=23&global=&sub_region=23&prver=0&pronetvd=null&vibid=4234003206816&type=464",
@@ -12315,15 +12315,15 @@ export const duma_2016_uik_463_region_23_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Благодаров Александр Александрович": 17,
-      "Высич Александр Николаевич": 27,
-      "Гусейнова Виктория Сергеевна": 46,
-      "Дворников Денис Владимирович": 6,
-      "Закипнев Сергей Сергеевич": 7,
-      "Овечкин Андрей Владимирович": 12,
-      "Поздеев Евгений Любомирович": 3,
-      "Фролов Андрей Андреевич": 47,
-      "Харитонов Николай Михайлович": 183
+      "gas:candidate-vibid:4234003222496": 17,
+      "gas:candidate-vibid:4234003207414": 27,
+      "gas:candidate-vibid:4234003222274": 46,
+      "gas:candidate-vibid:4234003222873": 6,
+      "gas:candidate-vibid:4234003222689": 7,
+      "gas:candidate-vibid:4234003222419": 12,
+      "gas:candidate-vibid:4234003222625": 3,
+      "gas:candidate-vibid:4234003222198": 47,
+      "gas:candidate-vibid:4234003222353": 183
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/krasnodar?action=show&root=1000069&tvd=4234003206816&vrn=100100067795849&region=23&global=&sub_region=23&prver=0&pronetvd=null&vibid=4234003206816&type=464",
@@ -12374,15 +12374,15 @@ export const duma_2016_uik_463_region_23_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Батуринец Александр Алексеевич": 17,
-      "Боева Наталья Дмитриевна": 368,
-      "Василевский Станислав Иванович": 87,
-      "Зверев Владимир Константинович": 30,
-      "Керимов Олег Юрьевич": 9,
-      "Руденко Андрей Викторович": 57,
-      "Соколенко Павел Васильевич": 77,
-      "Тумин Андрей Николаевич": 8,
-      "Туренко Александр Анатольевич": 195
+      "gas:candidate-vibid:4234015230343": 17,
+      "gas:candidate-vibid:4234015230147": 368,
+      "gas:candidate-vibid:4234015230019": 87,
+      "gas:candidate-vibid:4234015230258": 30,
+      "gas:candidate-vibid:4234015230559": 9,
+      "gas:candidate-vibid:4234015229959": 57,
+      "gas:candidate-vibid:4234015218878": 77,
+      "gas:candidate-vibid:4234015230623": 8,
+      "gas:candidate-vibid:4234015218802": 195
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/krasnodar?action=show&root=1000070&tvd=4234015217737&vrn=100100067795849&region=23&global=&sub_region=23&prver=0&pronetvd=null&vibid=4234015217737&type=464",
@@ -12433,15 +12433,15 @@ export const duma_2016_uik_463_region_23_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Батуринец Александр Алексеевич": 17,
-      "Боева Наталья Дмитриевна": 376,
-      "Василевский Станислав Иванович": 112,
-      "Зверев Владимир Константинович": 26,
-      "Керимов Олег Юрьевич": 9,
-      "Руденко Андрей Викторович": 59,
-      "Соколенко Павел Васильевич": 97,
-      "Тумин Андрей Николаевич": 9,
-      "Туренко Александр Анатольевич": 199
+      "gas:candidate-vibid:4234015230343": 17,
+      "gas:candidate-vibid:4234015230147": 376,
+      "gas:candidate-vibid:4234015230019": 112,
+      "gas:candidate-vibid:4234015230258": 26,
+      "gas:candidate-vibid:4234015230559": 9,
+      "gas:candidate-vibid:4234015229959": 59,
+      "gas:candidate-vibid:4234015218878": 97,
+      "gas:candidate-vibid:4234015230623": 9,
+      "gas:candidate-vibid:4234015218802": 199
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/krasnodar?action=show&root=1000070&tvd=4234015217737&vrn=100100067795849&region=23&global=&sub_region=23&prver=0&pronetvd=null&vibid=4234015217737&type=464",
@@ -12492,15 +12492,15 @@ export const duma_2016_uik_463_region_23_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Батуринец Александр Алексеевич": 29,
-      "Боева Наталья Дмитриевна": 364,
-      "Василевский Станислав Иванович": 94,
-      "Зверев Владимир Константинович": 19,
-      "Керимов Олег Юрьевич": 12,
-      "Руденко Андрей Викторович": 53,
-      "Соколенко Павел Васильевич": 95,
-      "Тумин Андрей Николаевич": 17,
-      "Туренко Александр Анатольевич": 170
+      "gas:candidate-vibid:4234015230343": 29,
+      "gas:candidate-vibid:4234015230147": 364,
+      "gas:candidate-vibid:4234015230019": 94,
+      "gas:candidate-vibid:4234015230258": 19,
+      "gas:candidate-vibid:4234015230559": 12,
+      "gas:candidate-vibid:4234015229959": 53,
+      "gas:candidate-vibid:4234015218878": 95,
+      "gas:candidate-vibid:4234015230623": 17,
+      "gas:candidate-vibid:4234015218802": 170
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/krasnodar?action=show&root=1000070&tvd=4234015217737&vrn=100100067795849&region=23&global=&sub_region=23&prver=0&pronetvd=null&vibid=4234015217737&type=464",
@@ -12551,15 +12551,15 @@ export const duma_2016_uik_463_region_23_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Батуринец Александр Алексеевич": 10,
-      "Боева Наталья Дмитриевна": 260,
-      "Василевский Станислав Иванович": 64,
-      "Зверев Владимир Константинович": 23,
-      "Керимов Олег Юрьевич": 4,
-      "Руденко Андрей Викторович": 37,
-      "Соколенко Павел Васильевич": 49,
-      "Тумин Андрей Николаевич": 6,
-      "Туренко Александр Анатольевич": 117
+      "gas:candidate-vibid:4234015230343": 10,
+      "gas:candidate-vibid:4234015230147": 260,
+      "gas:candidate-vibid:4234015230019": 64,
+      "gas:candidate-vibid:4234015230258": 23,
+      "gas:candidate-vibid:4234015230559": 4,
+      "gas:candidate-vibid:4234015229959": 37,
+      "gas:candidate-vibid:4234015218878": 49,
+      "gas:candidate-vibid:4234015230623": 6,
+      "gas:candidate-vibid:4234015218802": 117
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/krasnodar?action=show&root=1000070&tvd=4234015217737&vrn=100100067795849&region=23&global=&sub_region=23&prver=0&pronetvd=null&vibid=4234015217737&type=464",
@@ -12610,15 +12610,15 @@ export const duma_2016_uik_463_region_23_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Батуринец Александр Алексеевич": 21,
-      "Боева Наталья Дмитриевна": 404,
-      "Василевский Станислав Иванович": 86,
-      "Зверев Владимир Константинович": 25,
-      "Керимов Олег Юрьевич": 19,
-      "Руденко Андрей Викторович": 42,
-      "Соколенко Павел Васильевич": 99,
-      "Тумин Андрей Николаевич": 14,
-      "Туренко Александр Анатольевич": 168
+      "gas:candidate-vibid:4234015230343": 21,
+      "gas:candidate-vibid:4234015230147": 404,
+      "gas:candidate-vibid:4234015230019": 86,
+      "gas:candidate-vibid:4234015230258": 25,
+      "gas:candidate-vibid:4234015230559": 19,
+      "gas:candidate-vibid:4234015229959": 42,
+      "gas:candidate-vibid:4234015218878": 99,
+      "gas:candidate-vibid:4234015230623": 14,
+      "gas:candidate-vibid:4234015218802": 168
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/krasnodar?action=show&root=1000070&tvd=4234015217737&vrn=100100067795849&region=23&global=&sub_region=23&prver=0&pronetvd=null&vibid=4234015217737&type=464",
@@ -12669,15 +12669,15 @@ export const duma_2016_uik_463_region_23_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Батуринец Александр Алексеевич": 19,
-      "Боева Наталья Дмитриевна": 367,
-      "Василевский Станислав Иванович": 108,
-      "Зверев Владимир Константинович": 29,
-      "Керимов Олег Юрьевич": 16,
-      "Руденко Андрей Викторович": 53,
-      "Соколенко Павел Васильевич": 106,
-      "Тумин Андрей Николаевич": 10,
-      "Туренко Александр Анатольевич": 218
+      "gas:candidate-vibid:4234015230343": 19,
+      "gas:candidate-vibid:4234015230147": 367,
+      "gas:candidate-vibid:4234015230019": 108,
+      "gas:candidate-vibid:4234015230258": 29,
+      "gas:candidate-vibid:4234015230559": 16,
+      "gas:candidate-vibid:4234015229959": 53,
+      "gas:candidate-vibid:4234015218878": 106,
+      "gas:candidate-vibid:4234015230623": 10,
+      "gas:candidate-vibid:4234015218802": 218
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/krasnodar?action=show&root=1000070&tvd=4234015217737&vrn=100100067795849&region=23&global=&sub_region=23&prver=0&pronetvd=null&vibid=4234015217737&type=464",
@@ -12728,15 +12728,15 @@ export const duma_2016_uik_463_region_23_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Батуринец Александр Алексеевич": 6,
-      "Боева Наталья Дмитриевна": 260,
-      "Василевский Станислав Иванович": 90,
-      "Зверев Владимир Константинович": 18,
-      "Керимов Олег Юрьевич": 6,
-      "Руденко Андрей Викторович": 21,
-      "Соколенко Павел Васильевич": 68,
-      "Тумин Андрей Николаевич": 10,
-      "Туренко Александр Анатольевич": 137
+      "gas:candidate-vibid:4234015230343": 6,
+      "gas:candidate-vibid:4234015230147": 260,
+      "gas:candidate-vibid:4234015230019": 90,
+      "gas:candidate-vibid:4234015230258": 18,
+      "gas:candidate-vibid:4234015230559": 6,
+      "gas:candidate-vibid:4234015229959": 21,
+      "gas:candidate-vibid:4234015218878": 68,
+      "gas:candidate-vibid:4234015230623": 10,
+      "gas:candidate-vibid:4234015218802": 137
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/krasnodar?action=show&root=1000070&tvd=4234015217737&vrn=100100067795849&region=23&global=&sub_region=23&prver=0&pronetvd=null&vibid=4234015217737&type=464",
@@ -12787,15 +12787,15 @@ export const duma_2016_uik_463_region_23_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Батуринец Александр Алексеевич": 11,
-      "Боева Наталья Дмитриевна": 232,
-      "Василевский Станислав Иванович": 79,
-      "Зверев Владимир Константинович": 21,
-      "Керимов Олег Юрьевич": 7,
-      "Руденко Андрей Викторович": 61,
-      "Соколенко Павел Васильевич": 60,
-      "Тумин Андрей Николаевич": 2,
-      "Туренко Александр Анатольевич": 103
+      "gas:candidate-vibid:4234015230343": 11,
+      "gas:candidate-vibid:4234015230147": 232,
+      "gas:candidate-vibid:4234015230019": 79,
+      "gas:candidate-vibid:4234015230258": 21,
+      "gas:candidate-vibid:4234015230559": 7,
+      "gas:candidate-vibid:4234015229959": 61,
+      "gas:candidate-vibid:4234015218878": 60,
+      "gas:candidate-vibid:4234015230623": 2,
+      "gas:candidate-vibid:4234015218802": 103
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/krasnodar?action=show&root=1000070&tvd=4234015217737&vrn=100100067795849&region=23&global=&sub_region=23&prver=0&pronetvd=null&vibid=4234015217737&type=464",
@@ -12846,15 +12846,15 @@ export const duma_2016_uik_463_region_23_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Батуринец Александр Алексеевич": 27,
-      "Боева Наталья Дмитриевна": 356,
-      "Василевский Станислав Иванович": 150,
-      "Зверев Владимир Константинович": 34,
-      "Керимов Олег Юрьевич": 16,
-      "Руденко Андрей Викторович": 58,
-      "Соколенко Павел Васильевич": 79,
-      "Тумин Андрей Николаевич": 36,
-      "Туренко Александр Анатольевич": 104
+      "gas:candidate-vibid:4234015230343": 27,
+      "gas:candidate-vibid:4234015230147": 356,
+      "gas:candidate-vibid:4234015230019": 150,
+      "gas:candidate-vibid:4234015230258": 34,
+      "gas:candidate-vibid:4234015230559": 16,
+      "gas:candidate-vibid:4234015229959": 58,
+      "gas:candidate-vibid:4234015218878": 79,
+      "gas:candidate-vibid:4234015230623": 36,
+      "gas:candidate-vibid:4234015218802": 104
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/krasnodar?action=show&root=1000070&tvd=4234015217737&vrn=100100067795849&region=23&global=&sub_region=23&prver=0&pronetvd=null&vibid=4234015217737&type=464",
@@ -12905,15 +12905,15 @@ export const duma_2016_uik_463_region_23_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Батуринец Александр Алексеевич": 24,
-      "Боева Наталья Дмитриевна": 406,
-      "Василевский Станислав Иванович": 108,
-      "Зверев Владимир Константинович": 30,
-      "Керимов Олег Юрьевич": 18,
-      "Руденко Андрей Викторович": 60,
-      "Соколенко Павел Васильевич": 140,
-      "Тумин Андрей Николаевич": 16,
-      "Туренко Александр Анатольевич": 204
+      "gas:candidate-vibid:4234015230343": 24,
+      "gas:candidate-vibid:4234015230147": 406,
+      "gas:candidate-vibid:4234015230019": 108,
+      "gas:candidate-vibid:4234015230258": 30,
+      "gas:candidate-vibid:4234015230559": 18,
+      "gas:candidate-vibid:4234015229959": 60,
+      "gas:candidate-vibid:4234015218878": 140,
+      "gas:candidate-vibid:4234015230623": 16,
+      "gas:candidate-vibid:4234015218802": 204
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/krasnodar?action=show&root=1000070&tvd=4234015217737&vrn=100100067795849&region=23&global=&sub_region=23&prver=0&pronetvd=null&vibid=4234015217737&type=464",
@@ -12964,15 +12964,15 @@ export const duma_2016_uik_463_region_23_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Батуринец Александр Алексеевич": 28,
-      "Боева Наталья Дмитриевна": 509,
-      "Василевский Станислав Иванович": 122,
-      "Зверев Владимир Константинович": 26,
-      "Керимов Олег Юрьевич": 19,
-      "Руденко Андрей Викторович": 65,
-      "Соколенко Павел Васильевич": 129,
-      "Тумин Андрей Николаевич": 12,
-      "Туренко Александр Анатольевич": 211
+      "gas:candidate-vibid:4234015230343": 28,
+      "gas:candidate-vibid:4234015230147": 509,
+      "gas:candidate-vibid:4234015230019": 122,
+      "gas:candidate-vibid:4234015230258": 26,
+      "gas:candidate-vibid:4234015230559": 19,
+      "gas:candidate-vibid:4234015229959": 65,
+      "gas:candidate-vibid:4234015218878": 129,
+      "gas:candidate-vibid:4234015230623": 12,
+      "gas:candidate-vibid:4234015218802": 211
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/krasnodar?action=show&root=1000070&tvd=4234015217737&vrn=100100067795849&region=23&global=&sub_region=23&prver=0&pronetvd=null&vibid=4234015217737&type=464",
@@ -13023,15 +13023,15 @@ export const duma_2016_uik_463_region_23_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Батуринец Александр Алексеевич": 4,
-      "Боева Наталья Дмитриевна": 68,
-      "Василевский Станислав Иванович": 21,
-      "Зверев Владимир Константинович": 4,
-      "Керимов Олег Юрьевич": 1,
-      "Руденко Андрей Викторович": 15,
-      "Соколенко Павел Васильевич": 14,
-      "Тумин Андрей Николаевич": 2,
-      "Туренко Александр Анатольевич": 18
+      "gas:candidate-vibid:4234015230343": 4,
+      "gas:candidate-vibid:4234015230147": 68,
+      "gas:candidate-vibid:4234015230019": 21,
+      "gas:candidate-vibid:4234015230258": 4,
+      "gas:candidate-vibid:4234015230559": 1,
+      "gas:candidate-vibid:4234015229959": 15,
+      "gas:candidate-vibid:4234015218878": 14,
+      "gas:candidate-vibid:4234015230623": 2,
+      "gas:candidate-vibid:4234015218802": 18
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/krasnodar?action=show&root=1000070&tvd=4234015217737&vrn=100100067795849&region=23&global=&sub_region=23&prver=0&pronetvd=null&vibid=4234015217737&type=464",
@@ -13082,15 +13082,15 @@ export const duma_2016_uik_463_region_23_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Батуринец Александр Алексеевич": 4,
-      "Боева Наталья Дмитриевна": 135,
-      "Василевский Станислав Иванович": 34,
-      "Зверев Владимир Константинович": 16,
-      "Керимов Олег Юрьевич": 3,
-      "Руденко Андрей Викторович": 5,
-      "Соколенко Павел Васильевич": 28,
-      "Тумин Андрей Николаевич": 4,
-      "Туренко Александр Анатольевич": 43
+      "gas:candidate-vibid:4234015230343": 4,
+      "gas:candidate-vibid:4234015230147": 135,
+      "gas:candidate-vibid:4234015230019": 34,
+      "gas:candidate-vibid:4234015230258": 16,
+      "gas:candidate-vibid:4234015230559": 3,
+      "gas:candidate-vibid:4234015229959": 5,
+      "gas:candidate-vibid:4234015218878": 28,
+      "gas:candidate-vibid:4234015230623": 4,
+      "gas:candidate-vibid:4234015218802": 43
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/krasnodar?action=show&root=1000070&tvd=4234015217737&vrn=100100067795849&region=23&global=&sub_region=23&prver=0&pronetvd=null&vibid=4234015217737&type=464",
@@ -13141,15 +13141,15 @@ export const duma_2016_uik_463_region_23_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Батуринец Александр Алексеевич": 1,
-      "Боева Наталья Дмитриевна": 82,
-      "Василевский Станислав Иванович": 3,
-      "Зверев Владимир Константинович": 1,
-      "Керимов Олег Юрьевич": 3,
-      "Руденко Андрей Викторович": 10,
-      "Соколенко Павел Васильевич": 2,
-      "Тумин Андрей Николаевич": 1,
-      "Туренко Александр Анатольевич": 3
+      "gas:candidate-vibid:4234015230343": 1,
+      "gas:candidate-vibid:4234015230147": 82,
+      "gas:candidate-vibid:4234015230019": 3,
+      "gas:candidate-vibid:4234015230258": 1,
+      "gas:candidate-vibid:4234015230559": 3,
+      "gas:candidate-vibid:4234015229959": 10,
+      "gas:candidate-vibid:4234015218878": 2,
+      "gas:candidate-vibid:4234015230623": 1,
+      "gas:candidate-vibid:4234015218802": 3
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/krasnodar?action=show&root=1000070&tvd=4234015217737&vrn=100100067795849&region=23&global=&sub_region=23&prver=0&pronetvd=null&vibid=4234015217737&type=464",
@@ -13200,15 +13200,15 @@ export const duma_2016_uik_463_region_23_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Батуринец Александр Алексеевич": 2,
-      "Боева Наталья Дмитриевна": 87,
-      "Василевский Станислав Иванович": 16,
-      "Зверев Владимир Константинович": 4,
-      "Керимов Олег Юрьевич": 4,
-      "Руденко Андрей Викторович": 13,
-      "Соколенко Павел Васильевич": 20,
-      "Тумин Андрей Николаевич": 0,
-      "Туренко Александр Анатольевич": 27
+      "gas:candidate-vibid:4234015230343": 2,
+      "gas:candidate-vibid:4234015230147": 87,
+      "gas:candidate-vibid:4234015230019": 16,
+      "gas:candidate-vibid:4234015230258": 4,
+      "gas:candidate-vibid:4234015230559": 4,
+      "gas:candidate-vibid:4234015229959": 13,
+      "gas:candidate-vibid:4234015218878": 20,
+      "gas:candidate-vibid:4234015230623": 0,
+      "gas:candidate-vibid:4234015218802": 27
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/krasnodar?action=show&root=1000070&tvd=4234015217737&vrn=100100067795849&region=23&global=&sub_region=23&prver=0&pronetvd=null&vibid=4234015217737&type=464",
@@ -13259,15 +13259,15 @@ export const duma_2016_uik_463_region_23_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Батуринец Александр Алексеевич": 4,
-      "Боева Наталья Дмитриевна": 70,
-      "Василевский Станислав Иванович": 3,
-      "Зверев Владимир Константинович": 7,
-      "Керимов Олег Юрьевич": 1,
-      "Руденко Андрей Викторович": 19,
-      "Соколенко Павел Васильевич": 6,
-      "Тумин Андрей Николаевич": 1,
-      "Туренко Александр Анатольевич": 23
+      "gas:candidate-vibid:4234015230343": 4,
+      "gas:candidate-vibid:4234015230147": 70,
+      "gas:candidate-vibid:4234015230019": 3,
+      "gas:candidate-vibid:4234015230258": 7,
+      "gas:candidate-vibid:4234015230559": 1,
+      "gas:candidate-vibid:4234015229959": 19,
+      "gas:candidate-vibid:4234015218878": 6,
+      "gas:candidate-vibid:4234015230623": 1,
+      "gas:candidate-vibid:4234015218802": 23
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/krasnodar?action=show&root=1000070&tvd=4234015217737&vrn=100100067795849&region=23&global=&sub_region=23&prver=0&pronetvd=null&vibid=4234015217737&type=464",
@@ -13318,15 +13318,15 @@ export const duma_2016_uik_463_region_23_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Батуринец Александр Алексеевич": 1,
-      "Боева Наталья Дмитриевна": 54,
-      "Василевский Станислав Иванович": 3,
-      "Зверев Владимир Константинович": 2,
-      "Керимов Олег Юрьевич": 1,
-      "Руденко Андрей Викторович": 7,
-      "Соколенко Павел Васильевич": 7,
-      "Тумин Андрей Николаевич": 1,
-      "Туренко Александр Анатольевич": 7
+      "gas:candidate-vibid:4234015230343": 1,
+      "gas:candidate-vibid:4234015230147": 54,
+      "gas:candidate-vibid:4234015230019": 3,
+      "gas:candidate-vibid:4234015230258": 2,
+      "gas:candidate-vibid:4234015230559": 1,
+      "gas:candidate-vibid:4234015229959": 7,
+      "gas:candidate-vibid:4234015218878": 7,
+      "gas:candidate-vibid:4234015230623": 1,
+      "gas:candidate-vibid:4234015218802": 7
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/krasnodar?action=show&root=1000070&tvd=4234015217737&vrn=100100067795849&region=23&global=&sub_region=23&prver=0&pronetvd=null&vibid=4234015217737&type=464",
@@ -13377,15 +13377,15 @@ export const duma_2016_uik_463_region_23_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Батуринец Александр Алексеевич": 3,
-      "Боева Наталья Дмитриевна": 105,
-      "Василевский Станислав Иванович": 16,
-      "Зверев Владимир Константинович": 5,
-      "Керимов Олег Юрьевич": 1,
-      "Руденко Андрей Викторович": 13,
-      "Соколенко Павел Васильевич": 31,
-      "Тумин Андрей Николаевич": 2,
-      "Туренко Александр Анатольевич": 21
+      "gas:candidate-vibid:4234015230343": 3,
+      "gas:candidate-vibid:4234015230147": 105,
+      "gas:candidate-vibid:4234015230019": 16,
+      "gas:candidate-vibid:4234015230258": 5,
+      "gas:candidate-vibid:4234015230559": 1,
+      "gas:candidate-vibid:4234015229959": 13,
+      "gas:candidate-vibid:4234015218878": 31,
+      "gas:candidate-vibid:4234015230623": 2,
+      "gas:candidate-vibid:4234015218802": 21
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/krasnodar?action=show&root=1000070&tvd=4234015217737&vrn=100100067795849&region=23&global=&sub_region=23&prver=0&pronetvd=null&vibid=4234015217737&type=464",
@@ -13436,15 +13436,15 @@ export const duma_2016_uik_463_region_23_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Батуринец Александр Алексеевич": 8,
-      "Боева Наталья Дмитриевна": 191,
-      "Василевский Станислав Иванович": 63,
-      "Зверев Владимир Константинович": 13,
-      "Керимов Олег Юрьевич": 3,
-      "Руденко Андрей Викторович": 22,
-      "Соколенко Павел Васильевич": 66,
-      "Тумин Андрей Николаевич": 5,
-      "Туренко Александр Анатольевич": 46
+      "gas:candidate-vibid:4234015230343": 8,
+      "gas:candidate-vibid:4234015230147": 191,
+      "gas:candidate-vibid:4234015230019": 63,
+      "gas:candidate-vibid:4234015230258": 13,
+      "gas:candidate-vibid:4234015230559": 3,
+      "gas:candidate-vibid:4234015229959": 22,
+      "gas:candidate-vibid:4234015218878": 66,
+      "gas:candidate-vibid:4234015230623": 5,
+      "gas:candidate-vibid:4234015218802": 46
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/krasnodar?action=show&root=1000070&tvd=4234015217737&vrn=100100067795849&region=23&global=&sub_region=23&prver=0&pronetvd=null&vibid=4234015217737&type=464",
@@ -13495,15 +13495,15 @@ export const duma_2016_uik_463_region_23_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Батуринец Александр Алексеевич": 0,
-      "Боева Наталья Дмитриевна": 43,
-      "Василевский Станислав Иванович": 10,
-      "Зверев Владимир Константинович": 0,
-      "Керимов Олег Юрьевич": 0,
-      "Руденко Андрей Викторович": 5,
-      "Соколенко Павел Васильевич": 4,
-      "Тумин Андрей Николаевич": 0,
-      "Туренко Александр Анатольевич": 6
+      "gas:candidate-vibid:4234015230343": 0,
+      "gas:candidate-vibid:4234015230147": 43,
+      "gas:candidate-vibid:4234015230019": 10,
+      "gas:candidate-vibid:4234015230258": 0,
+      "gas:candidate-vibid:4234015230559": 0,
+      "gas:candidate-vibid:4234015229959": 5,
+      "gas:candidate-vibid:4234015218878": 4,
+      "gas:candidate-vibid:4234015230623": 0,
+      "gas:candidate-vibid:4234015218802": 6
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/krasnodar?action=show&root=1000070&tvd=4234015217737&vrn=100100067795849&region=23&global=&sub_region=23&prver=0&pronetvd=null&vibid=4234015217737&type=464",
@@ -13554,15 +13554,15 @@ export const duma_2016_uik_463_region_23_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Батуринец Александр Алексеевич": 4,
-      "Боева Наталья Дмитриевна": 311,
-      "Василевский Станислав Иванович": 32,
-      "Зверев Владимир Константинович": 15,
-      "Керимов Олег Юрьевич": 1,
-      "Руденко Андрей Викторович": 18,
-      "Соколенко Павел Васильевич": 51,
-      "Тумин Андрей Николаевич": 3,
-      "Туренко Александр Анатольевич": 30
+      "gas:candidate-vibid:4234015230343": 4,
+      "gas:candidate-vibid:4234015230147": 311,
+      "gas:candidate-vibid:4234015230019": 32,
+      "gas:candidate-vibid:4234015230258": 15,
+      "gas:candidate-vibid:4234015230559": 1,
+      "gas:candidate-vibid:4234015229959": 18,
+      "gas:candidate-vibid:4234015218878": 51,
+      "gas:candidate-vibid:4234015230623": 3,
+      "gas:candidate-vibid:4234015218802": 30
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/krasnodar?action=show&root=1000070&tvd=4234015217737&vrn=100100067795849&region=23&global=&sub_region=23&prver=0&pronetvd=null&vibid=4234015217737&type=464",
@@ -13613,15 +13613,15 @@ export const duma_2016_uik_463_region_23_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Батуринец Александр Алексеевич": 19,
-      "Боева Наталья Дмитриевна": 634,
-      "Василевский Станислав Иванович": 96,
-      "Зверев Владимир Константинович": 16,
-      "Керимов Олег Юрьевич": 10,
-      "Руденко Андрей Викторович": 92,
-      "Соколенко Павел Васильевич": 103,
-      "Тумин Андрей Николаевич": 4,
-      "Туренко Александр Анатольевич": 117
+      "gas:candidate-vibid:4234015230343": 19,
+      "gas:candidate-vibid:4234015230147": 634,
+      "gas:candidate-vibid:4234015230019": 96,
+      "gas:candidate-vibid:4234015230258": 16,
+      "gas:candidate-vibid:4234015230559": 10,
+      "gas:candidate-vibid:4234015229959": 92,
+      "gas:candidate-vibid:4234015218878": 103,
+      "gas:candidate-vibid:4234015230623": 4,
+      "gas:candidate-vibid:4234015218802": 117
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/krasnodar?action=show&root=1000070&tvd=4234015217737&vrn=100100067795849&region=23&global=&sub_region=23&prver=0&pronetvd=null&vibid=4234015217737&type=464",
@@ -13672,15 +13672,15 @@ export const duma_2016_uik_463_region_23_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Батуринец Александр Алексеевич": 18,
-      "Боева Наталья Дмитриевна": 242,
-      "Василевский Станислав Иванович": 31,
-      "Зверев Владимир Константинович": 18,
-      "Керимов Олег Юрьевич": 3,
-      "Руденко Андрей Викторович": 37,
-      "Соколенко Павел Васильевич": 60,
-      "Тумин Андрей Николаевич": 4,
-      "Туренко Александр Анатольевич": 52
+      "gas:candidate-vibid:4234015230343": 18,
+      "gas:candidate-vibid:4234015230147": 242,
+      "gas:candidate-vibid:4234015230019": 31,
+      "gas:candidate-vibid:4234015230258": 18,
+      "gas:candidate-vibid:4234015230559": 3,
+      "gas:candidate-vibid:4234015229959": 37,
+      "gas:candidate-vibid:4234015218878": 60,
+      "gas:candidate-vibid:4234015230623": 4,
+      "gas:candidate-vibid:4234015218802": 52
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/krasnodar?action=show&root=1000070&tvd=4234015217737&vrn=100100067795849&region=23&global=&sub_region=23&prver=0&pronetvd=null&vibid=4234015217737&type=464",
@@ -13731,15 +13731,15 @@ export const duma_2016_uik_463_region_23_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Батуринец Александр Алексеевич": 4,
-      "Боева Наталья Дмитриевна": 36,
-      "Василевский Станислав Иванович": 13,
-      "Зверев Владимир Константинович": 4,
-      "Керимов Олег Юрьевич": 1,
-      "Руденко Андрей Викторович": 25,
-      "Соколенко Павел Васильевич": 6,
-      "Тумин Андрей Николаевич": 3,
-      "Туренко Александр Анатольевич": 9
+      "gas:candidate-vibid:4234015230343": 4,
+      "gas:candidate-vibid:4234015230147": 36,
+      "gas:candidate-vibid:4234015230019": 13,
+      "gas:candidate-vibid:4234015230258": 4,
+      "gas:candidate-vibid:4234015230559": 1,
+      "gas:candidate-vibid:4234015229959": 25,
+      "gas:candidate-vibid:4234015218878": 6,
+      "gas:candidate-vibid:4234015230623": 3,
+      "gas:candidate-vibid:4234015218802": 9
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/krasnodar?action=show&root=1000070&tvd=4234015217737&vrn=100100067795849&region=23&global=&sub_region=23&prver=0&pronetvd=null&vibid=4234015217737&type=464",
@@ -13790,15 +13790,15 @@ export const duma_2016_uik_463_region_23_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Батуринец Александр Алексеевич": 12,
-      "Боева Наталья Дмитриевна": 284,
-      "Василевский Станислав Иванович": 39,
-      "Зверев Владимир Константинович": 6,
-      "Керимов Олег Юрьевич": 7,
-      "Руденко Андрей Викторович": 47,
-      "Соколенко Павел Васильевич": 41,
-      "Тумин Андрей Николаевич": 6,
-      "Туренко Александр Анатольевич": 17
+      "gas:candidate-vibid:4234015230343": 12,
+      "gas:candidate-vibid:4234015230147": 284,
+      "gas:candidate-vibid:4234015230019": 39,
+      "gas:candidate-vibid:4234015230258": 6,
+      "gas:candidate-vibid:4234015230559": 7,
+      "gas:candidate-vibid:4234015229959": 47,
+      "gas:candidate-vibid:4234015218878": 41,
+      "gas:candidate-vibid:4234015230623": 6,
+      "gas:candidate-vibid:4234015218802": 17
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/krasnodar?action=show&root=1000070&tvd=4234015217737&vrn=100100067795849&region=23&global=&sub_region=23&prver=0&pronetvd=null&vibid=4234015217737&type=464",
@@ -13849,15 +13849,15 @@ export const duma_2016_uik_463_region_23_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Батуринец Александр Алексеевич": 22,
-      "Боева Наталья Дмитриевна": 343,
-      "Василевский Станислав Иванович": 66,
-      "Зверев Владимир Константинович": 40,
-      "Керимов Олег Юрьевич": 11,
-      "Руденко Андрей Викторович": 89,
-      "Соколенко Павел Васильевич": 64,
-      "Тумин Андрей Николаевич": 16,
-      "Туренко Александр Анатольевич": 61
+      "gas:candidate-vibid:4234015230343": 22,
+      "gas:candidate-vibid:4234015230147": 343,
+      "gas:candidate-vibid:4234015230019": 66,
+      "gas:candidate-vibid:4234015230258": 40,
+      "gas:candidate-vibid:4234015230559": 11,
+      "gas:candidate-vibid:4234015229959": 89,
+      "gas:candidate-vibid:4234015218878": 64,
+      "gas:candidate-vibid:4234015230623": 16,
+      "gas:candidate-vibid:4234015218802": 61
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/krasnodar?action=show&root=1000070&tvd=4234015217737&vrn=100100067795849&region=23&global=&sub_region=23&prver=0&pronetvd=null&vibid=4234015217737&type=464",
@@ -13908,15 +13908,15 @@ export const duma_2016_uik_463_region_23_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Батуринец Александр Алексеевич": 13,
-      "Боева Наталья Дмитриевна": 227,
-      "Василевский Станислав Иванович": 55,
-      "Зверев Владимир Константинович": 17,
-      "Керимов Олег Юрьевич": 3,
-      "Руденко Андрей Викторович": 92,
-      "Соколенко Павел Васильевич": 49,
-      "Тумин Андрей Николаевич": 11,
-      "Туренко Александр Анатольевич": 53
+      "gas:candidate-vibid:4234015230343": 13,
+      "gas:candidate-vibid:4234015230147": 227,
+      "gas:candidate-vibid:4234015230019": 55,
+      "gas:candidate-vibid:4234015230258": 17,
+      "gas:candidate-vibid:4234015230559": 3,
+      "gas:candidate-vibid:4234015229959": 92,
+      "gas:candidate-vibid:4234015218878": 49,
+      "gas:candidate-vibid:4234015230623": 11,
+      "gas:candidate-vibid:4234015218802": 53
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/krasnodar?action=show&root=1000070&tvd=4234015217737&vrn=100100067795849&region=23&global=&sub_region=23&prver=0&pronetvd=null&vibid=4234015217737&type=464",
@@ -13967,15 +13967,15 @@ export const duma_2016_uik_463_region_23_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Батуринец Александр Алексеевич": 5,
-      "Боева Наталья Дмитриевна": 103,
-      "Василевский Станислав Иванович": 7,
-      "Зверев Владимир Константинович": 6,
-      "Керимов Олег Юрьевич": 1,
-      "Руденко Андрей Викторович": 3,
-      "Соколенко Павел Васильевич": 7,
-      "Тумин Андрей Николаевич": 2,
-      "Туренко Александр Анатольевич": 10
+      "gas:candidate-vibid:4234015230343": 5,
+      "gas:candidate-vibid:4234015230147": 103,
+      "gas:candidate-vibid:4234015230019": 7,
+      "gas:candidate-vibid:4234015230258": 6,
+      "gas:candidate-vibid:4234015230559": 1,
+      "gas:candidate-vibid:4234015229959": 3,
+      "gas:candidate-vibid:4234015218878": 7,
+      "gas:candidate-vibid:4234015230623": 2,
+      "gas:candidate-vibid:4234015218802": 10
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/krasnodar?action=show&root=1000070&tvd=4234015217737&vrn=100100067795849&region=23&global=&sub_region=23&prver=0&pronetvd=null&vibid=4234015217737&type=464",
@@ -14026,15 +14026,15 @@ export const duma_2016_uik_463_region_23_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Батуринец Александр Алексеевич": 5,
-      "Боева Наталья Дмитриевна": 254,
-      "Василевский Станислав Иванович": 32,
-      "Зверев Владимир Константинович": 4,
-      "Керимов Олег Юрьевич": 4,
-      "Руденко Андрей Викторович": 27,
-      "Соколенко Павел Васильевич": 35,
-      "Тумин Андрей Николаевич": 8,
-      "Туренко Александр Анатольевич": 35
+      "gas:candidate-vibid:4234015230343": 5,
+      "gas:candidate-vibid:4234015230147": 254,
+      "gas:candidate-vibid:4234015230019": 32,
+      "gas:candidate-vibid:4234015230258": 4,
+      "gas:candidate-vibid:4234015230559": 4,
+      "gas:candidate-vibid:4234015229959": 27,
+      "gas:candidate-vibid:4234015218878": 35,
+      "gas:candidate-vibid:4234015230623": 8,
+      "gas:candidate-vibid:4234015218802": 35
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/krasnodar?action=show&root=1000070&tvd=4234015217737&vrn=100100067795849&region=23&global=&sub_region=23&prver=0&pronetvd=null&vibid=4234015217737&type=464",
@@ -14085,15 +14085,15 @@ export const duma_2016_uik_463_region_23_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Батуринец Александр Алексеевич": 9,
-      "Боева Наталья Дмитриевна": 98,
-      "Василевский Станислав Иванович": 12,
-      "Зверев Владимир Константинович": 7,
-      "Керимов Олег Юрьевич": 4,
-      "Руденко Андрей Викторович": 14,
-      "Соколенко Павел Васильевич": 24,
-      "Тумин Андрей Николаевич": 1,
-      "Туренко Александр Анатольевич": 15
+      "gas:candidate-vibid:4234015230343": 9,
+      "gas:candidate-vibid:4234015230147": 98,
+      "gas:candidate-vibid:4234015230019": 12,
+      "gas:candidate-vibid:4234015230258": 7,
+      "gas:candidate-vibid:4234015230559": 4,
+      "gas:candidate-vibid:4234015229959": 14,
+      "gas:candidate-vibid:4234015218878": 24,
+      "gas:candidate-vibid:4234015230623": 1,
+      "gas:candidate-vibid:4234015218802": 15
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/krasnodar?action=show&root=1000070&tvd=4234015217737&vrn=100100067795849&region=23&global=&sub_region=23&prver=0&pronetvd=null&vibid=4234015217737&type=464",
@@ -14144,15 +14144,15 @@ export const duma_2016_uik_463_region_23_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Батуринец Александр Алексеевич": 17,
-      "Боева Наталья Дмитриевна": 422,
-      "Василевский Станислав Иванович": 93,
-      "Зверев Владимир Константинович": 12,
-      "Керимов Олег Юрьевич": 10,
-      "Руденко Андрей Викторович": 66,
-      "Соколенко Павел Васильевич": 85,
-      "Тумин Андрей Николаевич": 6,
-      "Туренко Александр Анатольевич": 88
+      "gas:candidate-vibid:4234015230343": 17,
+      "gas:candidate-vibid:4234015230147": 422,
+      "gas:candidate-vibid:4234015230019": 93,
+      "gas:candidate-vibid:4234015230258": 12,
+      "gas:candidate-vibid:4234015230559": 10,
+      "gas:candidate-vibid:4234015229959": 66,
+      "gas:candidate-vibid:4234015218878": 85,
+      "gas:candidate-vibid:4234015230623": 6,
+      "gas:candidate-vibid:4234015218802": 88
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/krasnodar?action=show&root=1000070&tvd=4234015217737&vrn=100100067795849&region=23&global=&sub_region=23&prver=0&pronetvd=null&vibid=4234015217737&type=464",
@@ -14203,15 +14203,15 @@ export const duma_2016_uik_463_region_23_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Батуринец Александр Алексеевич": 9,
-      "Боева Наталья Дмитриевна": 162,
-      "Василевский Станислав Иванович": 35,
-      "Зверев Владимир Константинович": 13,
-      "Керимов Олег Юрьевич": 5,
-      "Руденко Андрей Викторович": 41,
-      "Соколенко Павел Васильевич": 50,
-      "Тумин Андрей Николаевич": 6,
-      "Туренко Александр Анатольевич": 46
+      "gas:candidate-vibid:4234015230343": 9,
+      "gas:candidate-vibid:4234015230147": 162,
+      "gas:candidate-vibid:4234015230019": 35,
+      "gas:candidate-vibid:4234015230258": 13,
+      "gas:candidate-vibid:4234015230559": 5,
+      "gas:candidate-vibid:4234015229959": 41,
+      "gas:candidate-vibid:4234015218878": 50,
+      "gas:candidate-vibid:4234015230623": 6,
+      "gas:candidate-vibid:4234015218802": 46
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/krasnodar?action=show&root=1000070&tvd=4234015217737&vrn=100100067795849&region=23&global=&sub_region=23&prver=0&pronetvd=null&vibid=4234015217737&type=464",
@@ -14262,15 +14262,15 @@ export const duma_2016_uik_463_region_23_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Батуринец Александр Алексеевич": 7,
-      "Боева Наталья Дмитриевна": 250,
-      "Василевский Станислав Иванович": 23,
-      "Зверев Владимир Константинович": 8,
-      "Керимов Олег Юрьевич": 7,
-      "Руденко Андрей Викторович": 17,
-      "Соколенко Павел Васильевич": 32,
-      "Тумин Андрей Николаевич": 5,
-      "Туренко Александр Анатольевич": 14
+      "gas:candidate-vibid:4234015230343": 7,
+      "gas:candidate-vibid:4234015230147": 250,
+      "gas:candidate-vibid:4234015230019": 23,
+      "gas:candidate-vibid:4234015230258": 8,
+      "gas:candidate-vibid:4234015230559": 7,
+      "gas:candidate-vibid:4234015229959": 17,
+      "gas:candidate-vibid:4234015218878": 32,
+      "gas:candidate-vibid:4234015230623": 5,
+      "gas:candidate-vibid:4234015218802": 14
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/krasnodar?action=show&root=1000070&tvd=4234015217737&vrn=100100067795849&region=23&global=&sub_region=23&prver=0&pronetvd=null&vibid=4234015217737&type=464",
@@ -14321,15 +14321,15 @@ export const duma_2016_uik_463_region_23_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Батуринец Александр Алексеевич": 10,
-      "Боева Наталья Дмитриевна": 273,
-      "Василевский Станислав Иванович": 30,
-      "Зверев Владимир Константинович": 7,
-      "Керимов Олег Юрьевич": 8,
-      "Руденко Андрей Викторович": 23,
-      "Соколенко Павел Васильевич": 39,
-      "Тумин Андрей Николаевич": 4,
-      "Туренко Александр Анатольевич": 37
+      "gas:candidate-vibid:4234015230343": 10,
+      "gas:candidate-vibid:4234015230147": 273,
+      "gas:candidate-vibid:4234015230019": 30,
+      "gas:candidate-vibid:4234015230258": 7,
+      "gas:candidate-vibid:4234015230559": 8,
+      "gas:candidate-vibid:4234015229959": 23,
+      "gas:candidate-vibid:4234015218878": 39,
+      "gas:candidate-vibid:4234015230623": 4,
+      "gas:candidate-vibid:4234015218802": 37
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/krasnodar?action=show&root=1000070&tvd=4234015217737&vrn=100100067795849&region=23&global=&sub_region=23&prver=0&pronetvd=null&vibid=4234015217737&type=464",
@@ -14380,15 +14380,15 @@ export const duma_2016_uik_463_region_23_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Батуринец Александр Алексеевич": 13,
-      "Боева Наталья Дмитриевна": 233,
-      "Василевский Станислав Иванович": 21,
-      "Зверев Владимир Константинович": 7,
-      "Керимов Олег Юрьевич": 7,
-      "Руденко Андрей Викторович": 15,
-      "Соколенко Павел Васильевич": 43,
-      "Тумин Андрей Николаевич": 3,
-      "Туренко Александр Анатольевич": 40
+      "gas:candidate-vibid:4234015230343": 13,
+      "gas:candidate-vibid:4234015230147": 233,
+      "gas:candidate-vibid:4234015230019": 21,
+      "gas:candidate-vibid:4234015230258": 7,
+      "gas:candidate-vibid:4234015230559": 7,
+      "gas:candidate-vibid:4234015229959": 15,
+      "gas:candidate-vibid:4234015218878": 43,
+      "gas:candidate-vibid:4234015230623": 3,
+      "gas:candidate-vibid:4234015218802": 40
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/krasnodar?action=show&root=1000070&tvd=4234015217737&vrn=100100067795849&region=23&global=&sub_region=23&prver=0&pronetvd=null&vibid=4234015217737&type=464",
@@ -14439,15 +14439,15 @@ export const duma_2016_uik_463_region_23_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Батуринец Александр Алексеевич": 4,
-      "Боева Наталья Дмитриевна": 38,
-      "Василевский Станислав Иванович": 7,
-      "Зверев Владимир Константинович": 1,
-      "Керимов Олег Юрьевич": 0,
-      "Руденко Андрей Викторович": 11,
-      "Соколенко Павел Васильевич": 4,
-      "Тумин Андрей Николаевич": 0,
-      "Туренко Александр Анатольевич": 5
+      "gas:candidate-vibid:4234015230343": 4,
+      "gas:candidate-vibid:4234015230147": 38,
+      "gas:candidate-vibid:4234015230019": 7,
+      "gas:candidate-vibid:4234015230258": 1,
+      "gas:candidate-vibid:4234015230559": 0,
+      "gas:candidate-vibid:4234015229959": 11,
+      "gas:candidate-vibid:4234015218878": 4,
+      "gas:candidate-vibid:4234015230623": 0,
+      "gas:candidate-vibid:4234015218802": 5
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/krasnodar?action=show&root=1000070&tvd=4234015217737&vrn=100100067795849&region=23&global=&sub_region=23&prver=0&pronetvd=null&vibid=4234015217737&type=464",
@@ -14498,15 +14498,15 @@ export const duma_2016_uik_463_region_23_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Батуринец Александр Алексеевич": 4,
-      "Боева Наталья Дмитриевна": 39,
-      "Василевский Станислав Иванович": 13,
-      "Зверев Владимир Константинович": 5,
-      "Керимов Олег Юрьевич": 2,
-      "Руденко Андрей Викторович": 36,
-      "Соколенко Павел Васильевич": 7,
-      "Тумин Андрей Николаевич": 1,
-      "Туренко Александр Анатольевич": 9
+      "gas:candidate-vibid:4234015230343": 4,
+      "gas:candidate-vibid:4234015230147": 39,
+      "gas:candidate-vibid:4234015230019": 13,
+      "gas:candidate-vibid:4234015230258": 5,
+      "gas:candidate-vibid:4234015230559": 2,
+      "gas:candidate-vibid:4234015229959": 36,
+      "gas:candidate-vibid:4234015218878": 7,
+      "gas:candidate-vibid:4234015230623": 1,
+      "gas:candidate-vibid:4234015218802": 9
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/krasnodar?action=show&root=1000070&tvd=4234015217737&vrn=100100067795849&region=23&global=&sub_region=23&prver=0&pronetvd=null&vibid=4234015217737&type=464",
@@ -14557,15 +14557,15 @@ export const duma_2016_uik_463_region_23_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Батуринец Александр Алексеевич": 3,
-      "Боева Наталья Дмитриевна": 37,
-      "Василевский Станислав Иванович": 7,
-      "Зверев Владимир Константинович": 6,
-      "Керимов Олег Юрьевич": 1,
-      "Руденко Андрей Викторович": 16,
-      "Соколенко Павел Васильевич": 6,
-      "Тумин Андрей Николаевич": 2,
-      "Туренко Александр Анатольевич": 8
+      "gas:candidate-vibid:4234015230343": 3,
+      "gas:candidate-vibid:4234015230147": 37,
+      "gas:candidate-vibid:4234015230019": 7,
+      "gas:candidate-vibid:4234015230258": 6,
+      "gas:candidate-vibid:4234015230559": 1,
+      "gas:candidate-vibid:4234015229959": 16,
+      "gas:candidate-vibid:4234015218878": 6,
+      "gas:candidate-vibid:4234015230623": 2,
+      "gas:candidate-vibid:4234015218802": 8
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/krasnodar?action=show&root=1000070&tvd=4234015217737&vrn=100100067795849&region=23&global=&sub_region=23&prver=0&pronetvd=null&vibid=4234015217737&type=464",
@@ -14616,15 +14616,15 @@ export const duma_2016_uik_463_region_23_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Батуринец Александр Алексеевич": 4,
-      "Боева Наталья Дмитриевна": 78,
-      "Василевский Станислав Иванович": 11,
-      "Зверев Владимир Константинович": 5,
-      "Керимов Олег Юрьевич": 1,
-      "Руденко Андрей Викторович": 9,
-      "Соколенко Павел Васильевич": 23,
-      "Тумин Андрей Николаевич": 3,
-      "Туренко Александр Анатольевич": 9
+      "gas:candidate-vibid:4234015230343": 4,
+      "gas:candidate-vibid:4234015230147": 78,
+      "gas:candidate-vibid:4234015230019": 11,
+      "gas:candidate-vibid:4234015230258": 5,
+      "gas:candidate-vibid:4234015230559": 1,
+      "gas:candidate-vibid:4234015229959": 9,
+      "gas:candidate-vibid:4234015218878": 23,
+      "gas:candidate-vibid:4234015230623": 3,
+      "gas:candidate-vibid:4234015218802": 9
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/krasnodar?action=show&root=1000070&tvd=4234015217737&vrn=100100067795849&region=23&global=&sub_region=23&prver=0&pronetvd=null&vibid=4234015217737&type=464",
@@ -14675,15 +14675,15 @@ export const duma_2016_uik_463_region_23_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Батуринец Александр Алексеевич": 1,
-      "Боева Наталья Дмитриевна": 73,
-      "Василевский Станислав Иванович": 13,
-      "Зверев Владимир Константинович": 3,
-      "Керимов Олег Юрьевич": 1,
-      "Руденко Андрей Викторович": 7,
-      "Соколенко Павел Васильевич": 12,
-      "Тумин Андрей Николаевич": 1,
-      "Туренко Александр Анатольевич": 20
+      "gas:candidate-vibid:4234015230343": 1,
+      "gas:candidate-vibid:4234015230147": 73,
+      "gas:candidate-vibid:4234015230019": 13,
+      "gas:candidate-vibid:4234015230258": 3,
+      "gas:candidate-vibid:4234015230559": 1,
+      "gas:candidate-vibid:4234015229959": 7,
+      "gas:candidate-vibid:4234015218878": 12,
+      "gas:candidate-vibid:4234015230623": 1,
+      "gas:candidate-vibid:4234015218802": 20
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/krasnodar?action=show&root=1000070&tvd=4234015217737&vrn=100100067795849&region=23&global=&sub_region=23&prver=0&pronetvd=null&vibid=4234015217737&type=464",
@@ -14734,15 +14734,15 @@ export const duma_2016_uik_463_region_23_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Батуринец Александр Алексеевич": 5,
-      "Боева Наталья Дмитриевна": 128,
-      "Василевский Станислав Иванович": 21,
-      "Зверев Владимир Константинович": 10,
-      "Керимов Олег Юрьевич": 3,
-      "Руденко Андрей Викторович": 16,
-      "Соколенко Павел Васильевич": 22,
-      "Тумин Андрей Николаевич": 2,
-      "Туренко Александр Анатольевич": 22
+      "gas:candidate-vibid:4234015230343": 5,
+      "gas:candidate-vibid:4234015230147": 128,
+      "gas:candidate-vibid:4234015230019": 21,
+      "gas:candidate-vibid:4234015230258": 10,
+      "gas:candidate-vibid:4234015230559": 3,
+      "gas:candidate-vibid:4234015229959": 16,
+      "gas:candidate-vibid:4234015218878": 22,
+      "gas:candidate-vibid:4234015230623": 2,
+      "gas:candidate-vibid:4234015218802": 22
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/krasnodar?action=show&root=1000070&tvd=4234015217737&vrn=100100067795849&region=23&global=&sub_region=23&prver=0&pronetvd=null&vibid=4234015217737&type=464",

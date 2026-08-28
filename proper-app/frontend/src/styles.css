@@ -96,9 +96,11 @@ button:disabled { cursor: default; opacity: .45; }
 .plot-tools { display: flex; align-items: center; gap: 12px; color: var(--muted); font: 9px var(--mono); }
 .plot-tools span { white-space: nowrap; }
 .legend-dot { display: inline-block; width: 6px; height: 6px; margin-right: 4px; border-radius: 50%; }
+.legend-line { display: inline-block; width: 13px; height: 0; margin: 0 4px 2px 0; border-top: 2px solid var(--green); }
 .legend-dot.ordinary { opacity: .55; }
-.legend-dot.elevated { background: #c88732; }
-.legend-dot.excess { background: var(--red); }
+.legend-dot.p1 { background: #c79633; }
+.legend-dot.p2 { background: #cc652a; }
+.legend-dot.p3 { background: var(--red); }
 .plot-shell { position: relative; height: min(58vh, 610px); min-height: 440px; overflow: hidden; cursor: crosshair; touch-action: none; user-select: none; }
 .plot-shell:active { cursor: grabbing; }
 .plot-shell canvas { display: block; width: 100%; height: 100%; }

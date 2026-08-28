@@ -42,15 +42,15 @@ export const duma_2003_uik_428_region_66_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Артюх Евгений Петрович": 7,
-      "Баков Антон Алексеевич": 152,
-      "Воротников Валерий Павлович": 15,
-      "Глацких Артем Вячеславович": 1,
-      "Канисев Иван Иванович": 3,
-      "Мелехин Валерий Иванович": 1,
-      "Миллеров Всеволод Борисович": 5,
-      "Селиванов Андрей Владимирович": 64,
-      "Против всех": 46
+      "gas:candidate-vibid:1001000220845": 7,
+      "gas:candidate-vibid:1001000214170": 152,
+      "gas:candidate-vibid:1001000131415": 15,
+      "gas:candidate-vibid:366300566753": 1,
+      "gas:candidate-vibid:1001000121913": 3,
+      "gas:candidate-vibid:366300566736": 1,
+      "gas:candidate-vibid:1001000136126": 5,
+      "gas:candidate-vibid:1001000113982": 64,
+      "special:against-all": 46
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=662000061&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=266200066925&region=0&sub_region=0&type=429",
@@ -100,15 +100,15 @@ export const duma_2003_uik_428_region_66_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Артюх Евгений Петрович": 19,
-      "Баков Антон Алексеевич": 412,
-      "Воротников Валерий Павлович": 47,
-      "Глацких Артем Вячеславович": 2,
-      "Канисев Иван Иванович": 5,
-      "Мелехин Валерий Иванович": 2,
-      "Миллеров Всеволод Борисович": 8,
-      "Селиванов Андрей Владимирович": 232,
-      "Против всех": 70
+      "gas:candidate-vibid:1001000220845": 19,
+      "gas:candidate-vibid:1001000214170": 412,
+      "gas:candidate-vibid:1001000131415": 47,
+      "gas:candidate-vibid:366300566753": 2,
+      "gas:candidate-vibid:1001000121913": 5,
+      "gas:candidate-vibid:366300566736": 2,
+      "gas:candidate-vibid:1001000136126": 8,
+      "gas:candidate-vibid:1001000113982": 232,
+      "special:against-all": 70
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=662000061&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=266200066925&region=0&sub_region=0&type=429",
@@ -158,15 +158,15 @@ export const duma_2003_uik_428_region_66_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Артюх Евгений Петрович": 19,
-      "Баков Антон Алексеевич": 309,
-      "Воротников Валерий Павлович": 44,
-      "Глацких Артем Вячеславович": 3,
-      "Канисев Иван Иванович": 6,
-      "Мелехин Валерий Иванович": 1,
-      "Миллеров Всеволод Борисович": 9,
-      "Селиванов Андрей Владимирович": 172,
-      "Против всех": 46
+      "gas:candidate-vibid:1001000220845": 19,
+      "gas:candidate-vibid:1001000214170": 309,
+      "gas:candidate-vibid:1001000131415": 44,
+      "gas:candidate-vibid:366300566753": 3,
+      "gas:candidate-vibid:1001000121913": 6,
+      "gas:candidate-vibid:366300566736": 1,
+      "gas:candidate-vibid:1001000136126": 9,
+      "gas:candidate-vibid:1001000113982": 172,
+      "special:against-all": 46
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=662000061&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=266200066925&region=0&sub_region=0&type=429",
@@ -216,15 +216,15 @@ export const duma_2003_uik_428_region_66_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Артюх Евгений Петрович": 31,
-      "Баков Антон Алексеевич": 203,
-      "Воротников Валерий Павлович": 32,
-      "Глацких Артем Вячеславович": 0,
-      "Канисев Иван Иванович": 9,
-      "Мелехин Валерий Иванович": 2,
-      "Миллеров Всеволод Борисович": 6,
-      "Селиванов Андрей Владимирович": 151,
-      "Против всех": 51
+      "gas:candidate-vibid:1001000220845": 31,
+      "gas:candidate-vibid:1001000214170": 203,
+      "gas:candidate-vibid:1001000131415": 32,
+      "gas:candidate-vibid:366300566753": 0,
+      "gas:candidate-vibid:1001000121913": 9,
+      "gas:candidate-vibid:366300566736": 2,
+      "gas:candidate-vibid:1001000136126": 6,
+      "gas:candidate-vibid:1001000113982": 151,
+      "special:against-all": 51
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=662000061&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=266200066925&region=0&sub_region=0&type=429",
@@ -274,15 +274,15 @@ export const duma_2003_uik_428_region_66_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Артюх Евгений Петрович": 46,
-      "Баков Антон Алексеевич": 258,
-      "Воротников Валерий Павлович": 25,
-      "Глацких Артем Вячеславович": 1,
-      "Канисев Иван Иванович": 11,
-      "Мелехин Валерий Иванович": 4,
-      "Миллеров Всеволод Борисович": 10,
-      "Селиванов Андрей Владимирович": 196,
-      "Против всех": 43
+      "gas:candidate-vibid:1001000220845": 46,
+      "gas:candidate-vibid:1001000214170": 258,
+      "gas:candidate-vibid:1001000131415": 25,
+      "gas:candidate-vibid:366300566753": 1,
+      "gas:candidate-vibid:1001000121913": 11,
+      "gas:candidate-vibid:366300566736": 4,
+      "gas:candidate-vibid:1001000136126": 10,
+      "gas:candidate-vibid:1001000113982": 196,
+      "special:against-all": 43
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=662000061&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=266200066925&region=0&sub_region=0&type=429",
@@ -332,15 +332,15 @@ export const duma_2003_uik_428_region_66_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Артюх Евгений Петрович": 12,
-      "Баков Антон Алексеевич": 212,
-      "Воротников Валерий Павлович": 51,
-      "Глацких Артем Вячеславович": 4,
-      "Канисев Иван Иванович": 5,
-      "Мелехин Валерий Иванович": 3,
-      "Миллеров Всеволод Борисович": 12,
-      "Селиванов Андрей Владимирович": 164,
-      "Против всех": 50
+      "gas:candidate-vibid:1001000220845": 12,
+      "gas:candidate-vibid:1001000214170": 212,
+      "gas:candidate-vibid:1001000131415": 51,
+      "gas:candidate-vibid:366300566753": 4,
+      "gas:candidate-vibid:1001000121913": 5,
+      "gas:candidate-vibid:366300566736": 3,
+      "gas:candidate-vibid:1001000136126": 12,
+      "gas:candidate-vibid:1001000113982": 164,
+      "special:against-all": 50
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=662000061&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=266200066925&region=0&sub_region=0&type=429",
@@ -390,15 +390,15 @@ export const duma_2003_uik_428_region_66_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Артюх Евгений Петрович": 11,
-      "Баков Антон Алексеевич": 229,
-      "Воротников Валерий Павлович": 30,
-      "Глацких Артем Вячеславович": 4,
-      "Канисев Иван Иванович": 7,
-      "Мелехин Валерий Иванович": 3,
-      "Миллеров Всеволод Борисович": 8,
-      "Селиванов Андрей Владимирович": 127,
-      "Против всех": 47
+      "gas:candidate-vibid:1001000220845": 11,
+      "gas:candidate-vibid:1001000214170": 229,
+      "gas:candidate-vibid:1001000131415": 30,
+      "gas:candidate-vibid:366300566753": 4,
+      "gas:candidate-vibid:1001000121913": 7,
+      "gas:candidate-vibid:366300566736": 3,
+      "gas:candidate-vibid:1001000136126": 8,
+      "gas:candidate-vibid:1001000113982": 127,
+      "special:against-all": 47
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=662000061&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=266200066925&region=0&sub_region=0&type=429",
@@ -448,15 +448,15 @@ export const duma_2003_uik_428_region_66_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Артюх Евгений Петрович": 21,
-      "Баков Антон Алексеевич": 253,
-      "Воротников Валерий Павлович": 30,
-      "Глацких Артем Вячеславович": 3,
-      "Канисев Иван Иванович": 8,
-      "Мелехин Валерий Иванович": 3,
-      "Миллеров Всеволод Борисович": 10,
-      "Селиванов Андрей Владимирович": 131,
-      "Против всех": 45
+      "gas:candidate-vibid:1001000220845": 21,
+      "gas:candidate-vibid:1001000214170": 253,
+      "gas:candidate-vibid:1001000131415": 30,
+      "gas:candidate-vibid:366300566753": 3,
+      "gas:candidate-vibid:1001000121913": 8,
+      "gas:candidate-vibid:366300566736": 3,
+      "gas:candidate-vibid:1001000136126": 10,
+      "gas:candidate-vibid:1001000113982": 131,
+      "special:against-all": 45
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=662000061&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=266200066925&region=0&sub_region=0&type=429",
@@ -506,15 +506,15 @@ export const duma_2003_uik_428_region_66_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Артюх Евгений Петрович": 17,
-      "Баков Антон Алексеевич": 218,
-      "Воротников Валерий Павлович": 30,
-      "Глацких Артем Вячеславович": 6,
-      "Канисев Иван Иванович": 5,
-      "Мелехин Валерий Иванович": 3,
-      "Миллеров Всеволод Борисович": 10,
-      "Селиванов Андрей Владимирович": 225,
-      "Против всех": 43
+      "gas:candidate-vibid:1001000220845": 17,
+      "gas:candidate-vibid:1001000214170": 218,
+      "gas:candidate-vibid:1001000131415": 30,
+      "gas:candidate-vibid:366300566753": 6,
+      "gas:candidate-vibid:1001000121913": 5,
+      "gas:candidate-vibid:366300566736": 3,
+      "gas:candidate-vibid:1001000136126": 10,
+      "gas:candidate-vibid:1001000113982": 225,
+      "special:against-all": 43
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=662000061&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=266200066925&region=0&sub_region=0&type=429",
@@ -564,15 +564,15 @@ export const duma_2003_uik_428_region_66_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Артюх Евгений Петрович": 42,
-      "Баков Антон Алексеевич": 400,
-      "Воротников Валерий Павлович": 42,
-      "Глацких Артем Вячеславович": 1,
-      "Канисев Иван Иванович": 19,
-      "Мелехин Валерий Иванович": 4,
-      "Миллеров Всеволод Борисович": 16,
-      "Селиванов Андрей Владимирович": 192,
-      "Против всех": 54
+      "gas:candidate-vibid:1001000220845": 42,
+      "gas:candidate-vibid:1001000214170": 400,
+      "gas:candidate-vibid:1001000131415": 42,
+      "gas:candidate-vibid:366300566753": 1,
+      "gas:candidate-vibid:1001000121913": 19,
+      "gas:candidate-vibid:366300566736": 4,
+      "gas:candidate-vibid:1001000136126": 16,
+      "gas:candidate-vibid:1001000113982": 192,
+      "special:against-all": 54
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=662000061&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=266200066925&region=0&sub_region=0&type=429",
@@ -622,15 +622,15 @@ export const duma_2003_uik_428_region_66_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Артюх Евгений Петрович": 27,
-      "Баков Антон Алексеевич": 269,
-      "Воротников Валерий Павлович": 47,
-      "Глацких Артем Вячеславович": 1,
-      "Канисев Иван Иванович": 13,
-      "Мелехин Валерий Иванович": 4,
-      "Миллеров Всеволод Борисович": 16,
-      "Селиванов Андрей Владимирович": 210,
-      "Против всех": 66
+      "gas:candidate-vibid:1001000220845": 27,
+      "gas:candidate-vibid:1001000214170": 269,
+      "gas:candidate-vibid:1001000131415": 47,
+      "gas:candidate-vibid:366300566753": 1,
+      "gas:candidate-vibid:1001000121913": 13,
+      "gas:candidate-vibid:366300566736": 4,
+      "gas:candidate-vibid:1001000136126": 16,
+      "gas:candidate-vibid:1001000113982": 210,
+      "special:against-all": 66
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=662000061&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=266200066925&region=0&sub_region=0&type=429",
@@ -680,15 +680,15 @@ export const duma_2003_uik_428_region_66_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Артюх Евгений Петрович": 24,
-      "Баков Антон Алексеевич": 297,
-      "Воротников Валерий Павлович": 42,
-      "Глацких Артем Вячеславович": 1,
-      "Канисев Иван Иванович": 6,
-      "Мелехин Валерий Иванович": 2,
-      "Миллеров Всеволод Борисович": 16,
-      "Селиванов Андрей Владимирович": 150,
-      "Против всех": 50
+      "gas:candidate-vibid:1001000220845": 24,
+      "gas:candidate-vibid:1001000214170": 297,
+      "gas:candidate-vibid:1001000131415": 42,
+      "gas:candidate-vibid:366300566753": 1,
+      "gas:candidate-vibid:1001000121913": 6,
+      "gas:candidate-vibid:366300566736": 2,
+      "gas:candidate-vibid:1001000136126": 16,
+      "gas:candidate-vibid:1001000113982": 150,
+      "special:against-all": 50
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=662000061&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=266200066925&region=0&sub_region=0&type=429",
@@ -738,15 +738,15 @@ export const duma_2003_uik_428_region_66_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Артюх Евгений Петрович": 34,
-      "Баков Антон Алексеевич": 370,
-      "Воротников Валерий Павлович": 36,
-      "Глацких Артем Вячеславович": 1,
-      "Канисев Иван Иванович": 13,
-      "Мелехин Валерий Иванович": 1,
-      "Миллеров Всеволод Борисович": 13,
-      "Селиванов Андрей Владимирович": 205,
-      "Против всех": 100
+      "gas:candidate-vibid:1001000220845": 34,
+      "gas:candidate-vibid:1001000214170": 370,
+      "gas:candidate-vibid:1001000131415": 36,
+      "gas:candidate-vibid:366300566753": 1,
+      "gas:candidate-vibid:1001000121913": 13,
+      "gas:candidate-vibid:366300566736": 1,
+      "gas:candidate-vibid:1001000136126": 13,
+      "gas:candidate-vibid:1001000113982": 205,
+      "special:against-all": 100
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=662000061&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=266200066925&region=0&sub_region=0&type=429",
@@ -796,15 +796,15 @@ export const duma_2003_uik_428_region_66_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Артюх Евгений Петрович": 45,
-      "Баков Антон Алексеевич": 447,
-      "Воротников Валерий Павлович": 28,
-      "Глацких Артем Вячеславович": 3,
-      "Канисев Иван Иванович": 9,
-      "Мелехин Валерий Иванович": 2,
-      "Миллеров Всеволод Борисович": 16,
-      "Селиванов Андрей Владимирович": 252,
-      "Против всех": 87
+      "gas:candidate-vibid:1001000220845": 45,
+      "gas:candidate-vibid:1001000214170": 447,
+      "gas:candidate-vibid:1001000131415": 28,
+      "gas:candidate-vibid:366300566753": 3,
+      "gas:candidate-vibid:1001000121913": 9,
+      "gas:candidate-vibid:366300566736": 2,
+      "gas:candidate-vibid:1001000136126": 16,
+      "gas:candidate-vibid:1001000113982": 252,
+      "special:against-all": 87
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=662000061&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=266200066925&region=0&sub_region=0&type=429",
@@ -854,15 +854,15 @@ export const duma_2003_uik_428_region_66_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Артюх Евгений Петрович": 33,
-      "Баков Антон Алексеевич": 339,
-      "Воротников Валерий Павлович": 32,
-      "Глацких Артем Вячеславович": 5,
-      "Канисев Иван Иванович": 13,
-      "Мелехин Валерий Иванович": 0,
-      "Миллеров Всеволод Борисович": 20,
-      "Селиванов Андрей Владимирович": 199,
-      "Против всех": 75
+      "gas:candidate-vibid:1001000220845": 33,
+      "gas:candidate-vibid:1001000214170": 339,
+      "gas:candidate-vibid:1001000131415": 32,
+      "gas:candidate-vibid:366300566753": 5,
+      "gas:candidate-vibid:1001000121913": 13,
+      "gas:candidate-vibid:366300566736": 0,
+      "gas:candidate-vibid:1001000136126": 20,
+      "gas:candidate-vibid:1001000113982": 199,
+      "special:against-all": 75
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=662000061&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=266200066925&region=0&sub_region=0&type=429",
@@ -912,15 +912,15 @@ export const duma_2003_uik_428_region_66_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Артюх Евгений Петрович": 31,
-      "Баков Антон Алексеевич": 392,
-      "Воротников Валерий Павлович": 51,
-      "Глацких Артем Вячеславович": 1,
-      "Канисев Иван Иванович": 8,
-      "Мелехин Валерий Иванович": 9,
-      "Миллеров Всеволод Борисович": 7,
-      "Селиванов Андрей Владимирович": 211,
-      "Против всех": 53
+      "gas:candidate-vibid:1001000220845": 31,
+      "gas:candidate-vibid:1001000214170": 392,
+      "gas:candidate-vibid:1001000131415": 51,
+      "gas:candidate-vibid:366300566753": 1,
+      "gas:candidate-vibid:1001000121913": 8,
+      "gas:candidate-vibid:366300566736": 9,
+      "gas:candidate-vibid:1001000136126": 7,
+      "gas:candidate-vibid:1001000113982": 211,
+      "special:against-all": 53
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=662000061&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=266200066925&region=0&sub_region=0&type=429",
@@ -970,15 +970,15 @@ export const duma_2003_uik_428_region_66_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Артюх Евгений Петрович": 45,
-      "Баков Антон Алексеевич": 487,
-      "Воротников Валерий Павлович": 64,
-      "Глацких Артем Вячеславович": 1,
-      "Канисев Иван Иванович": 22,
-      "Мелехин Валерий Иванович": 10,
-      "Миллеров Всеволод Борисович": 9,
-      "Селиванов Андрей Владимирович": 316,
-      "Против всех": 95
+      "gas:candidate-vibid:1001000220845": 45,
+      "gas:candidate-vibid:1001000214170": 487,
+      "gas:candidate-vibid:1001000131415": 64,
+      "gas:candidate-vibid:366300566753": 1,
+      "gas:candidate-vibid:1001000121913": 22,
+      "gas:candidate-vibid:366300566736": 10,
+      "gas:candidate-vibid:1001000136126": 9,
+      "gas:candidate-vibid:1001000113982": 316,
+      "special:against-all": 95
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=662000061&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=266200066925&region=0&sub_region=0&type=429",
@@ -1028,15 +1028,15 @@ export const duma_2003_uik_428_region_66_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Артюх Евгений Петрович": 42,
-      "Баков Антон Алексеевич": 463,
-      "Воротников Валерий Павлович": 40,
-      "Глацких Артем Вячеславович": 0,
-      "Канисев Иван Иванович": 21,
-      "Мелехин Валерий Иванович": 5,
-      "Миллеров Всеволод Борисович": 14,
-      "Селиванов Андрей Владимирович": 225,
-      "Против всех": 83
+      "gas:candidate-vibid:1001000220845": 42,
+      "gas:candidate-vibid:1001000214170": 463,
+      "gas:candidate-vibid:1001000131415": 40,
+      "gas:candidate-vibid:366300566753": 0,
+      "gas:candidate-vibid:1001000121913": 21,
+      "gas:candidate-vibid:366300566736": 5,
+      "gas:candidate-vibid:1001000136126": 14,
+      "gas:candidate-vibid:1001000113982": 225,
+      "special:against-all": 83
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=662000061&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=266200066925&region=0&sub_region=0&type=429",
@@ -1086,15 +1086,15 @@ export const duma_2003_uik_428_region_66_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Артюх Евгений Петрович": 30,
-      "Баков Антон Алексеевич": 374,
-      "Воротников Валерий Павлович": 26,
-      "Глацких Артем Вячеславович": 0,
-      "Канисев Иван Иванович": 8,
-      "Мелехин Валерий Иванович": 3,
-      "Миллеров Всеволод Борисович": 12,
-      "Селиванов Андрей Владимирович": 194,
-      "Против всех": 50
+      "gas:candidate-vibid:1001000220845": 30,
+      "gas:candidate-vibid:1001000214170": 374,
+      "gas:candidate-vibid:1001000131415": 26,
+      "gas:candidate-vibid:366300566753": 0,
+      "gas:candidate-vibid:1001000121913": 8,
+      "gas:candidate-vibid:366300566736": 3,
+      "gas:candidate-vibid:1001000136126": 12,
+      "gas:candidate-vibid:1001000113982": 194,
+      "special:against-all": 50
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=662000061&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=266200066925&region=0&sub_region=0&type=429",
@@ -1144,15 +1144,15 @@ export const duma_2003_uik_428_region_66_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Артюх Евгений Петрович": 40,
-      "Баков Антон Алексеевич": 343,
-      "Воротников Валерий Павлович": 41,
-      "Глацких Артем Вячеславович": 1,
-      "Канисев Иван Иванович": 9,
-      "Мелехин Валерий Иванович": 4,
-      "Миллеров Всеволод Борисович": 16,
-      "Селиванов Андрей Владимирович": 211,
-      "Против всех": 70
+      "gas:candidate-vibid:1001000220845": 40,
+      "gas:candidate-vibid:1001000214170": 343,
+      "gas:candidate-vibid:1001000131415": 41,
+      "gas:candidate-vibid:366300566753": 1,
+      "gas:candidate-vibid:1001000121913": 9,
+      "gas:candidate-vibid:366300566736": 4,
+      "gas:candidate-vibid:1001000136126": 16,
+      "gas:candidate-vibid:1001000113982": 211,
+      "special:against-all": 70
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=662000061&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=266200066925&region=0&sub_region=0&type=429",
@@ -1202,15 +1202,15 @@ export const duma_2003_uik_428_region_66_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Артюх Евгений Петрович": 32,
-      "Баков Антон Алексеевич": 374,
-      "Воротников Валерий Павлович": 48,
-      "Глацких Артем Вячеславович": 2,
-      "Канисев Иван Иванович": 9,
-      "Мелехин Валерий Иванович": 3,
-      "Миллеров Всеволод Борисович": 16,
-      "Селиванов Андрей Владимирович": 179,
-      "Против всех": 43
+      "gas:candidate-vibid:1001000220845": 32,
+      "gas:candidate-vibid:1001000214170": 374,
+      "gas:candidate-vibid:1001000131415": 48,
+      "gas:candidate-vibid:366300566753": 2,
+      "gas:candidate-vibid:1001000121913": 9,
+      "gas:candidate-vibid:366300566736": 3,
+      "gas:candidate-vibid:1001000136126": 16,
+      "gas:candidate-vibid:1001000113982": 179,
+      "special:against-all": 43
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=662000061&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=266200066925&region=0&sub_region=0&type=429",
@@ -1260,15 +1260,15 @@ export const duma_2003_uik_428_region_66_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Артюх Евгений Петрович": 22,
-      "Баков Антон Алексеевич": 535,
-      "Воротников Валерий Павлович": 39,
-      "Глацких Артем Вячеславович": 3,
-      "Канисев Иван Иванович": 9,
-      "Мелехин Валерий Иванович": 8,
-      "Миллеров Всеволод Борисович": 8,
-      "Селиванов Андрей Владимирович": 283,
-      "Против всех": 84
+      "gas:candidate-vibid:1001000220845": 22,
+      "gas:candidate-vibid:1001000214170": 535,
+      "gas:candidate-vibid:1001000131415": 39,
+      "gas:candidate-vibid:366300566753": 3,
+      "gas:candidate-vibid:1001000121913": 9,
+      "gas:candidate-vibid:366300566736": 8,
+      "gas:candidate-vibid:1001000136126": 8,
+      "gas:candidate-vibid:1001000113982": 283,
+      "special:against-all": 84
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=662000061&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=266200066925&region=0&sub_region=0&type=429",
@@ -1318,15 +1318,15 @@ export const duma_2003_uik_428_region_66_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Артюх Евгений Петрович": 43,
-      "Баков Антон Алексеевич": 434,
-      "Воротников Валерий Павлович": 33,
-      "Глацких Артем Вячеславович": 2,
-      "Канисев Иван Иванович": 23,
-      "Мелехин Валерий Иванович": 5,
-      "Миллеров Всеволод Борисович": 8,
-      "Селиванов Андрей Владимирович": 276,
-      "Против всех": 80
+      "gas:candidate-vibid:1001000220845": 43,
+      "gas:candidate-vibid:1001000214170": 434,
+      "gas:candidate-vibid:1001000131415": 33,
+      "gas:candidate-vibid:366300566753": 2,
+      "gas:candidate-vibid:1001000121913": 23,
+      "gas:candidate-vibid:366300566736": 5,
+      "gas:candidate-vibid:1001000136126": 8,
+      "gas:candidate-vibid:1001000113982": 276,
+      "special:against-all": 80
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=662000061&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=266200066925&region=0&sub_region=0&type=429",
@@ -1376,15 +1376,15 @@ export const duma_2003_uik_428_region_66_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Артюх Евгений Петрович": 31,
-      "Баков Антон Алексеевич": 465,
-      "Воротников Валерий Павлович": 31,
-      "Глацких Артем Вячеславович": 0,
-      "Канисев Иван Иванович": 15,
-      "Мелехин Валерий Иванович": 2,
-      "Миллеров Всеволод Борисович": 11,
-      "Селиванов Андрей Владимирович": 258,
-      "Против всех": 57
+      "gas:candidate-vibid:1001000220845": 31,
+      "gas:candidate-vibid:1001000214170": 465,
+      "gas:candidate-vibid:1001000131415": 31,
+      "gas:candidate-vibid:366300566753": 0,
+      "gas:candidate-vibid:1001000121913": 15,
+      "gas:candidate-vibid:366300566736": 2,
+      "gas:candidate-vibid:1001000136126": 11,
+      "gas:candidate-vibid:1001000113982": 258,
+      "special:against-all": 57
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=662000061&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=266200066925&region=0&sub_region=0&type=429",
@@ -1434,15 +1434,15 @@ export const duma_2003_uik_428_region_66_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Артюх Евгений Петрович": 15,
-      "Баков Антон Алексеевич": 505,
-      "Воротников Валерий Павлович": 39,
-      "Глацких Артем Вячеславович": 2,
-      "Канисев Иван Иванович": 10,
-      "Мелехин Валерий Иванович": 4,
-      "Миллеров Всеволод Борисович": 10,
-      "Селиванов Андрей Владимирович": 233,
-      "Против всех": 95
+      "gas:candidate-vibid:1001000220845": 15,
+      "gas:candidate-vibid:1001000214170": 505,
+      "gas:candidate-vibid:1001000131415": 39,
+      "gas:candidate-vibid:366300566753": 2,
+      "gas:candidate-vibid:1001000121913": 10,
+      "gas:candidate-vibid:366300566736": 4,
+      "gas:candidate-vibid:1001000136126": 10,
+      "gas:candidate-vibid:1001000113982": 233,
+      "special:against-all": 95
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=662000061&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=266200066925&region=0&sub_region=0&type=429",
@@ -1492,15 +1492,15 @@ export const duma_2003_uik_428_region_66_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Артюх Евгений Петрович": 23,
-      "Баков Антон Алексеевич": 510,
-      "Воротников Валерий Павлович": 34,
-      "Глацких Артем Вячеславович": 2,
-      "Канисев Иван Иванович": 12,
-      "Мелехин Валерий Иванович": 1,
-      "Миллеров Всеволод Борисович": 18,
-      "Селиванов Андрей Владимирович": 218,
-      "Против всех": 66
+      "gas:candidate-vibid:1001000220845": 23,
+      "gas:candidate-vibid:1001000214170": 510,
+      "gas:candidate-vibid:1001000131415": 34,
+      "gas:candidate-vibid:366300566753": 2,
+      "gas:candidate-vibid:1001000121913": 12,
+      "gas:candidate-vibid:366300566736": 1,
+      "gas:candidate-vibid:1001000136126": 18,
+      "gas:candidate-vibid:1001000113982": 218,
+      "special:against-all": 66
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=662000061&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=266200066925&region=0&sub_region=0&type=429",
@@ -1550,15 +1550,15 @@ export const duma_2003_uik_428_region_66_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Артюх Евгений Петрович": 28,
-      "Баков Антон Алексеевич": 530,
-      "Воротников Валерий Павлович": 64,
-      "Глацких Артем Вячеславович": 5,
-      "Канисев Иван Иванович": 8,
-      "Мелехин Валерий Иванович": 1,
-      "Миллеров Всеволод Борисович": 12,
-      "Селиванов Андрей Владимирович": 257,
-      "Против всех": 80
+      "gas:candidate-vibid:1001000220845": 28,
+      "gas:candidate-vibid:1001000214170": 530,
+      "gas:candidate-vibid:1001000131415": 64,
+      "gas:candidate-vibid:366300566753": 5,
+      "gas:candidate-vibid:1001000121913": 8,
+      "gas:candidate-vibid:366300566736": 1,
+      "gas:candidate-vibid:1001000136126": 12,
+      "gas:candidate-vibid:1001000113982": 257,
+      "special:against-all": 80
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=662000061&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=266200066925&region=0&sub_region=0&type=429",
@@ -1608,15 +1608,15 @@ export const duma_2003_uik_428_region_66_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Артюх Евгений Петрович": 40,
-      "Баков Антон Алексеевич": 407,
-      "Воротников Валерий Павлович": 61,
-      "Глацких Артем Вячеславович": 3,
-      "Канисев Иван Иванович": 13,
-      "Мелехин Валерий Иванович": 4,
-      "Миллеров Всеволод Борисович": 10,
-      "Селиванов Андрей Владимирович": 249,
-      "Против всех": 70
+      "gas:candidate-vibid:1001000220845": 40,
+      "gas:candidate-vibid:1001000214170": 407,
+      "gas:candidate-vibid:1001000131415": 61,
+      "gas:candidate-vibid:366300566753": 3,
+      "gas:candidate-vibid:1001000121913": 13,
+      "gas:candidate-vibid:366300566736": 4,
+      "gas:candidate-vibid:1001000136126": 10,
+      "gas:candidate-vibid:1001000113982": 249,
+      "special:against-all": 70
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=662000061&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=266200066925&region=0&sub_region=0&type=429",
@@ -1666,15 +1666,15 @@ export const duma_2003_uik_428_region_66_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Артюх Евгений Петрович": 34,
-      "Баков Антон Алексеевич": 395,
-      "Воротников Валерий Павлович": 37,
-      "Глацких Артем Вячеславович": 3,
-      "Канисев Иван Иванович": 8,
-      "Мелехин Валерий Иванович": 2,
-      "Миллеров Всеволод Борисович": 15,
-      "Селиванов Андрей Владимирович": 295,
-      "Против всех": 88
+      "gas:candidate-vibid:1001000220845": 34,
+      "gas:candidate-vibid:1001000214170": 395,
+      "gas:candidate-vibid:1001000131415": 37,
+      "gas:candidate-vibid:366300566753": 3,
+      "gas:candidate-vibid:1001000121913": 8,
+      "gas:candidate-vibid:366300566736": 2,
+      "gas:candidate-vibid:1001000136126": 15,
+      "gas:candidate-vibid:1001000113982": 295,
+      "special:against-all": 88
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=662000061&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=266200066925&region=0&sub_region=0&type=429",
@@ -1724,15 +1724,15 @@ export const duma_2003_uik_428_region_66_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Артюх Евгений Петрович": 35,
-      "Баков Антон Алексеевич": 356,
-      "Воротников Валерий Павлович": 44,
-      "Глацких Артем Вячеславович": 0,
-      "Канисев Иван Иванович": 18,
-      "Мелехин Валерий Иванович": 1,
-      "Миллеров Всеволод Борисович": 7,
-      "Селиванов Андрей Владимирович": 255,
-      "Против всех": 62
+      "gas:candidate-vibid:1001000220845": 35,
+      "gas:candidate-vibid:1001000214170": 356,
+      "gas:candidate-vibid:1001000131415": 44,
+      "gas:candidate-vibid:366300566753": 0,
+      "gas:candidate-vibid:1001000121913": 18,
+      "gas:candidate-vibid:366300566736": 1,
+      "gas:candidate-vibid:1001000136126": 7,
+      "gas:candidate-vibid:1001000113982": 255,
+      "special:against-all": 62
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=662000061&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=266200066925&region=0&sub_region=0&type=429",
@@ -1782,15 +1782,15 @@ export const duma_2003_uik_428_region_66_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Артюх Евгений Петрович": 36,
-      "Баков Антон Алексеевич": 442,
-      "Воротников Валерий Павлович": 37,
-      "Глацких Артем Вячеславович": 5,
-      "Канисев Иван Иванович": 14,
-      "Мелехин Валерий Иванович": 4,
-      "Миллеров Всеволод Борисович": 7,
-      "Селиванов Андрей Владимирович": 322,
-      "Против всех": 75
+      "gas:candidate-vibid:1001000220845": 36,
+      "gas:candidate-vibid:1001000214170": 442,
+      "gas:candidate-vibid:1001000131415": 37,
+      "gas:candidate-vibid:366300566753": 5,
+      "gas:candidate-vibid:1001000121913": 14,
+      "gas:candidate-vibid:366300566736": 4,
+      "gas:candidate-vibid:1001000136126": 7,
+      "gas:candidate-vibid:1001000113982": 322,
+      "special:against-all": 75
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=662000061&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=266200066925&region=0&sub_region=0&type=429",
@@ -1840,15 +1840,15 @@ export const duma_2003_uik_428_region_66_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Артюх Евгений Петрович": 24,
-      "Баков Антон Алексеевич": 658,
-      "Воротников Валерий Павлович": 42,
-      "Глацких Артем Вячеславович": 2,
-      "Канисев Иван Иванович": 6,
-      "Мелехин Валерий Иванович": 2,
-      "Миллеров Всеволод Борисович": 12,
-      "Селиванов Андрей Владимирович": 227,
-      "Против всех": 92
+      "gas:candidate-vibid:1001000220845": 24,
+      "gas:candidate-vibid:1001000214170": 658,
+      "gas:candidate-vibid:1001000131415": 42,
+      "gas:candidate-vibid:366300566753": 2,
+      "gas:candidate-vibid:1001000121913": 6,
+      "gas:candidate-vibid:366300566736": 2,
+      "gas:candidate-vibid:1001000136126": 12,
+      "gas:candidate-vibid:1001000113982": 227,
+      "special:against-all": 92
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=662000061&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=266200066925&region=0&sub_region=0&type=429",
@@ -1898,15 +1898,15 @@ export const duma_2003_uik_428_region_66_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Артюх Евгений Петрович": 26,
-      "Баков Антон Алексеевич": 210,
-      "Воротников Валерий Павлович": 10,
-      "Глацких Артем Вячеславович": 0,
-      "Канисев Иван Иванович": 5,
-      "Мелехин Валерий Иванович": 0,
-      "Миллеров Всеволод Борисович": 7,
-      "Селиванов Андрей Владимирович": 129,
-      "Против всех": 39
+      "gas:candidate-vibid:1001000220845": 26,
+      "gas:candidate-vibid:1001000214170": 210,
+      "gas:candidate-vibid:1001000131415": 10,
+      "gas:candidate-vibid:366300566753": 0,
+      "gas:candidate-vibid:1001000121913": 5,
+      "gas:candidate-vibid:366300566736": 0,
+      "gas:candidate-vibid:1001000136126": 7,
+      "gas:candidate-vibid:1001000113982": 129,
+      "special:against-all": 39
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=662000061&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=266200066925&region=0&sub_region=0&type=429",
@@ -1956,15 +1956,15 @@ export const duma_2003_uik_428_region_66_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Артюх Евгений Петрович": 25,
-      "Баков Антон Алексеевич": 422,
-      "Воротников Валерий Павлович": 27,
-      "Глацких Артем Вячеславович": 0,
-      "Канисев Иван Иванович": 9,
-      "Мелехин Валерий Иванович": 2,
-      "Миллеров Всеволод Борисович": 15,
-      "Селиванов Андрей Владимирович": 277,
-      "Против всех": 56
+      "gas:candidate-vibid:1001000220845": 25,
+      "gas:candidate-vibid:1001000214170": 422,
+      "gas:candidate-vibid:1001000131415": 27,
+      "gas:candidate-vibid:366300566753": 0,
+      "gas:candidate-vibid:1001000121913": 9,
+      "gas:candidate-vibid:366300566736": 2,
+      "gas:candidate-vibid:1001000136126": 15,
+      "gas:candidate-vibid:1001000113982": 277,
+      "special:against-all": 56
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=662000061&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=266200066925&region=0&sub_region=0&type=429",
@@ -2014,15 +2014,15 @@ export const duma_2003_uik_428_region_66_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Артюх Евгений Петрович": 12,
-      "Баков Антон Алексеевич": 276,
-      "Воротников Валерий Павлович": 32,
-      "Глацких Артем Вячеславович": 0,
-      "Канисев Иван Иванович": 5,
-      "Мелехин Валерий Иванович": 2,
-      "Миллеров Всеволод Борисович": 6,
-      "Селиванов Андрей Владимирович": 96,
-      "Против всех": 31
+      "gas:candidate-vibid:1001000220845": 12,
+      "gas:candidate-vibid:1001000214170": 276,
+      "gas:candidate-vibid:1001000131415": 32,
+      "gas:candidate-vibid:366300566753": 0,
+      "gas:candidate-vibid:1001000121913": 5,
+      "gas:candidate-vibid:366300566736": 2,
+      "gas:candidate-vibid:1001000136126": 6,
+      "gas:candidate-vibid:1001000113982": 96,
+      "special:against-all": 31
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=662000061&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=266200066925&region=0&sub_region=0&type=429",
@@ -2072,15 +2072,15 @@ export const duma_2003_uik_428_region_66_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Артюх Евгений Петрович": 21,
-      "Баков Антон Алексеевич": 333,
-      "Воротников Валерий Павлович": 27,
-      "Глацких Артем Вячеславович": 4,
-      "Канисев Иван Иванович": 8,
-      "Мелехин Валерий Иванович": 2,
-      "Миллеров Всеволод Борисович": 13,
-      "Селиванов Андрей Владимирович": 198,
-      "Против всех": 52
+      "gas:candidate-vibid:1001000220845": 21,
+      "gas:candidate-vibid:1001000214170": 333,
+      "gas:candidate-vibid:1001000131415": 27,
+      "gas:candidate-vibid:366300566753": 4,
+      "gas:candidate-vibid:1001000121913": 8,
+      "gas:candidate-vibid:366300566736": 2,
+      "gas:candidate-vibid:1001000136126": 13,
+      "gas:candidate-vibid:1001000113982": 198,
+      "special:against-all": 52
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=662000061&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=266200066925&region=0&sub_region=0&type=429",
@@ -2130,15 +2130,15 @@ export const duma_2003_uik_428_region_66_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Артюх Евгений Петрович": 13,
-      "Баков Антон Алексеевич": 199,
-      "Воротников Валерий Павлович": 24,
-      "Глацких Артем Вячеславович": 0,
-      "Канисев Иван Иванович": 3,
-      "Мелехин Валерий Иванович": 2,
-      "Миллеров Всеволод Борисович": 6,
-      "Селиванов Андрей Владимирович": 141,
-      "Против всех": 40
+      "gas:candidate-vibid:1001000220845": 13,
+      "gas:candidate-vibid:1001000214170": 199,
+      "gas:candidate-vibid:1001000131415": 24,
+      "gas:candidate-vibid:366300566753": 0,
+      "gas:candidate-vibid:1001000121913": 3,
+      "gas:candidate-vibid:366300566736": 2,
+      "gas:candidate-vibid:1001000136126": 6,
+      "gas:candidate-vibid:1001000113982": 141,
+      "special:against-all": 40
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=662000061&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=266200066925&region=0&sub_region=0&type=429",
@@ -2188,15 +2188,15 @@ export const duma_2003_uik_428_region_66_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Артюх Евгений Петрович": 7,
-      "Баков Антон Алексеевич": 190,
-      "Воротников Валерий Павлович": 20,
-      "Глацких Артем Вячеславович": 0,
-      "Канисев Иван Иванович": 3,
-      "Мелехин Валерий Иванович": 3,
-      "Миллеров Всеволод Борисович": 6,
-      "Селиванов Андрей Владимирович": 59,
-      "Против всех": 16
+      "gas:candidate-vibid:1001000220845": 7,
+      "gas:candidate-vibid:1001000214170": 190,
+      "gas:candidate-vibid:1001000131415": 20,
+      "gas:candidate-vibid:366300566753": 0,
+      "gas:candidate-vibid:1001000121913": 3,
+      "gas:candidate-vibid:366300566736": 3,
+      "gas:candidate-vibid:1001000136126": 6,
+      "gas:candidate-vibid:1001000113982": 59,
+      "special:against-all": 16
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=662000061&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=266200066925&region=0&sub_region=0&type=429",
@@ -2246,15 +2246,15 @@ export const duma_2003_uik_428_region_66_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Артюх Евгений Петрович": 3,
-      "Баков Антон Алексеевич": 147,
-      "Воротников Валерий Павлович": 3,
-      "Глацких Артем Вячеславович": 2,
-      "Канисев Иван Иванович": 6,
-      "Мелехин Валерий Иванович": 0,
-      "Миллеров Всеволод Борисович": 4,
-      "Селиванов Андрей Владимирович": 34,
-      "Против всех": 24
+      "gas:candidate-vibid:1001000220845": 3,
+      "gas:candidate-vibid:1001000214170": 147,
+      "gas:candidate-vibid:1001000131415": 3,
+      "gas:candidate-vibid:366300566753": 2,
+      "gas:candidate-vibid:1001000121913": 6,
+      "gas:candidate-vibid:366300566736": 0,
+      "gas:candidate-vibid:1001000136126": 4,
+      "gas:candidate-vibid:1001000113982": 34,
+      "special:against-all": 24
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=662000061&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=266200066925&region=0&sub_region=0&type=429",
@@ -2304,15 +2304,15 @@ export const duma_2003_uik_428_region_66_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Артюх Евгений Петрович": 16,
-      "Баков Антон Алексеевич": 259,
-      "Воротников Валерий Павлович": 15,
-      "Глацких Артем Вячеславович": 2,
-      "Канисев Иван Иванович": 3,
-      "Мелехин Валерий Иванович": 0,
-      "Миллеров Всеволод Борисович": 6,
-      "Селиванов Андрей Владимирович": 67,
-      "Против всех": 17
+      "gas:candidate-vibid:1001000220845": 16,
+      "gas:candidate-vibid:1001000214170": 259,
+      "gas:candidate-vibid:1001000131415": 15,
+      "gas:candidate-vibid:366300566753": 2,
+      "gas:candidate-vibid:1001000121913": 3,
+      "gas:candidate-vibid:366300566736": 0,
+      "gas:candidate-vibid:1001000136126": 6,
+      "gas:candidate-vibid:1001000113982": 67,
+      "special:against-all": 17
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=662000061&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=266200066925&region=0&sub_region=0&type=429",
@@ -2362,15 +2362,15 @@ export const duma_2003_uik_428_region_66_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Артюх Евгений Петрович": 2,
-      "Баков Антон Алексеевич": 51,
-      "Воротников Валерий Павлович": 6,
-      "Глацких Артем Вячеславович": 1,
-      "Канисев Иван Иванович": 0,
-      "Мелехин Валерий Иванович": 0,
-      "Миллеров Всеволод Борисович": 1,
-      "Селиванов Андрей Владимирович": 40,
-      "Против всех": 2
+      "gas:candidate-vibid:1001000220845": 2,
+      "gas:candidate-vibid:1001000214170": 51,
+      "gas:candidate-vibid:1001000131415": 6,
+      "gas:candidate-vibid:366300566753": 1,
+      "gas:candidate-vibid:1001000121913": 0,
+      "gas:candidate-vibid:366300566736": 0,
+      "gas:candidate-vibid:1001000136126": 1,
+      "gas:candidate-vibid:1001000113982": 40,
+      "special:against-all": 2
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=662000061&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=266200066925&region=0&sub_region=0&type=429",
@@ -2420,15 +2420,15 @@ export const duma_2003_uik_428_region_66_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Артюх Евгений Петрович": 25,
-      "Баков Антон Алексеевич": 378,
-      "Воротников Валерий Павлович": 38,
-      "Глацких Артем Вячеславович": 1,
-      "Канисев Иван Иванович": 14,
-      "Мелехин Валерий Иванович": 5,
-      "Миллеров Всеволод Борисович": 22,
-      "Селиванов Андрей Владимирович": 281,
-      "Против всех": 96
+      "gas:candidate-vibid:1001000220845": 25,
+      "gas:candidate-vibid:1001000214170": 378,
+      "gas:candidate-vibid:1001000131415": 38,
+      "gas:candidate-vibid:366300566753": 1,
+      "gas:candidate-vibid:1001000121913": 14,
+      "gas:candidate-vibid:366300566736": 5,
+      "gas:candidate-vibid:1001000136126": 22,
+      "gas:candidate-vibid:1001000113982": 281,
+      "special:against-all": 96
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=662000061&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=266200066925&region=0&sub_region=0&type=429",
@@ -2478,15 +2478,15 @@ export const duma_2003_uik_428_region_66_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Артюх Евгений Петрович": 25,
-      "Баков Антон Алексеевич": 352,
-      "Воротников Валерий Павлович": 19,
-      "Глацких Артем Вячеславович": 5,
-      "Канисев Иван Иванович": 11,
-      "Мелехин Валерий Иванович": 2,
-      "Миллеров Всеволод Борисович": 20,
-      "Селиванов Андрей Владимирович": 278,
-      "Против всех": 65
+      "gas:candidate-vibid:1001000220845": 25,
+      "gas:candidate-vibid:1001000214170": 352,
+      "gas:candidate-vibid:1001000131415": 19,
+      "gas:candidate-vibid:366300566753": 5,
+      "gas:candidate-vibid:1001000121913": 11,
+      "gas:candidate-vibid:366300566736": 2,
+      "gas:candidate-vibid:1001000136126": 20,
+      "gas:candidate-vibid:1001000113982": 278,
+      "special:against-all": 65
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=662000061&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=266200066925&region=0&sub_region=0&type=429",
@@ -2536,15 +2536,15 @@ export const duma_2003_uik_428_region_66_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Артюх Евгений Петрович": 41,
-      "Баков Антон Алексеевич": 457,
-      "Воротников Валерий Павлович": 49,
-      "Глацких Артем Вячеславович": 5,
-      "Канисев Иван Иванович": 14,
-      "Мелехин Валерий Иванович": 3,
-      "Миллеров Всеволод Борисович": 12,
-      "Селиванов Андрей Владимирович": 205,
-      "Против всех": 87
+      "gas:candidate-vibid:1001000220845": 41,
+      "gas:candidate-vibid:1001000214170": 457,
+      "gas:candidate-vibid:1001000131415": 49,
+      "gas:candidate-vibid:366300566753": 5,
+      "gas:candidate-vibid:1001000121913": 14,
+      "gas:candidate-vibid:366300566736": 3,
+      "gas:candidate-vibid:1001000136126": 12,
+      "gas:candidate-vibid:1001000113982": 205,
+      "special:against-all": 87
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=662000061&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=266200066925&region=0&sub_region=0&type=429",
@@ -2594,15 +2594,15 @@ export const duma_2003_uik_428_region_66_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Артюх Евгений Петрович": 40,
-      "Баков Антон Алексеевич": 346,
-      "Воротников Валерий Павлович": 23,
-      "Глацких Артем Вячеславович": 0,
-      "Канисев Иван Иванович": 9,
-      "Мелехин Валерий Иванович": 3,
-      "Миллеров Всеволод Борисович": 15,
-      "Селиванов Андрей Владимирович": 268,
-      "Против всех": 86
+      "gas:candidate-vibid:1001000220845": 40,
+      "gas:candidate-vibid:1001000214170": 346,
+      "gas:candidate-vibid:1001000131415": 23,
+      "gas:candidate-vibid:366300566753": 0,
+      "gas:candidate-vibid:1001000121913": 9,
+      "gas:candidate-vibid:366300566736": 3,
+      "gas:candidate-vibid:1001000136126": 15,
+      "gas:candidate-vibid:1001000113982": 268,
+      "special:against-all": 86
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=662000061&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=266200066925&region=0&sub_region=0&type=429",
@@ -2652,15 +2652,15 @@ export const duma_2003_uik_428_region_66_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Артюх Евгений Петрович": 20,
-      "Баков Антон Алексеевич": 157,
-      "Воротников Валерий Павлович": 25,
-      "Глацких Артем Вячеславович": 2,
-      "Канисев Иван Иванович": 2,
-      "Мелехин Валерий Иванович": 0,
-      "Миллеров Всеволод Борисович": 15,
-      "Селиванов Андрей Владимирович": 265,
-      "Против всех": 27
+      "gas:candidate-vibid:1001000220845": 20,
+      "gas:candidate-vibid:1001000214170": 157,
+      "gas:candidate-vibid:1001000131415": 25,
+      "gas:candidate-vibid:366300566753": 2,
+      "gas:candidate-vibid:1001000121913": 2,
+      "gas:candidate-vibid:366300566736": 0,
+      "gas:candidate-vibid:1001000136126": 15,
+      "gas:candidate-vibid:1001000113982": 265,
+      "special:against-all": 27
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=662000061&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=266200066925&region=0&sub_region=0&type=429",
@@ -2710,15 +2710,15 @@ export const duma_2003_uik_428_region_66_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Артюх Евгений Петрович": 22,
-      "Баков Антон Алексеевич": 164,
-      "Воротников Валерий Павлович": 42,
-      "Глацких Артем Вячеславович": 2,
-      "Канисев Иван Иванович": 5,
-      "Мелехин Валерий Иванович": 0,
-      "Миллеров Всеволод Борисович": 2,
-      "Селиванов Андрей Владимирович": 155,
-      "Против всех": 37
+      "gas:candidate-vibid:1001000220845": 22,
+      "gas:candidate-vibid:1001000214170": 164,
+      "gas:candidate-vibid:1001000131415": 42,
+      "gas:candidate-vibid:366300566753": 2,
+      "gas:candidate-vibid:1001000121913": 5,
+      "gas:candidate-vibid:366300566736": 0,
+      "gas:candidate-vibid:1001000136126": 2,
+      "gas:candidate-vibid:1001000113982": 155,
+      "special:against-all": 37
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=662000061&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=266200066925&region=0&sub_region=0&type=429",
@@ -2768,15 +2768,15 @@ export const duma_2003_uik_428_region_66_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Артюх Евгений Петрович": 0,
-      "Баков Антон Алексеевич": 31,
-      "Воротников Валерий Павлович": 6,
-      "Глацких Артем Вячеславович": 1,
-      "Канисев Иван Иванович": 2,
-      "Мелехин Валерий Иванович": 0,
-      "Миллеров Всеволод Борисович": 0,
-      "Селиванов Андрей Владимирович": 36,
-      "Против всех": 3
+      "gas:candidate-vibid:1001000220845": 0,
+      "gas:candidate-vibid:1001000214170": 31,
+      "gas:candidate-vibid:1001000131415": 6,
+      "gas:candidate-vibid:366300566753": 1,
+      "gas:candidate-vibid:1001000121913": 2,
+      "gas:candidate-vibid:366300566736": 0,
+      "gas:candidate-vibid:1001000136126": 0,
+      "gas:candidate-vibid:1001000113982": 36,
+      "special:against-all": 3
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=662000061&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=266200066925&region=0&sub_region=0&type=429",
@@ -2826,15 +2826,15 @@ export const duma_2003_uik_428_region_66_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Артюх Евгений Петрович": 17,
-      "Баков Антон Алексеевич": 150,
-      "Воротников Валерий Павлович": 31,
-      "Глацких Артем Вячеславович": 3,
-      "Канисев Иван Иванович": 22,
-      "Мелехин Валерий Иванович": 7,
-      "Миллеров Всеволод Борисович": 23,
-      "Селиванов Андрей Владимирович": 181,
-      "Против всех": 64
+      "gas:candidate-vibid:1001000220845": 17,
+      "gas:candidate-vibid:1001000214170": 150,
+      "gas:candidate-vibid:1001000131415": 31,
+      "gas:candidate-vibid:366300566753": 3,
+      "gas:candidate-vibid:1001000121913": 22,
+      "gas:candidate-vibid:366300566736": 7,
+      "gas:candidate-vibid:1001000136126": 23,
+      "gas:candidate-vibid:1001000113982": 181,
+      "special:against-all": 64
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=662000062&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=266200066926&region=0&sub_region=0&type=429",
@@ -2884,15 +2884,15 @@ export const duma_2003_uik_428_region_66_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Артюх Евгений Петрович": 42,
-      "Баков Антон Алексеевич": 157,
-      "Воротников Валерий Павлович": 76,
-      "Глацких Артем Вячеславович": 2,
-      "Канисев Иван Иванович": 28,
-      "Мелехин Валерий Иванович": 8,
-      "Миллеров Всеволод Борисович": 14,
-      "Селиванов Андрей Владимирович": 155,
-      "Против всех": 78
+      "gas:candidate-vibid:1001000220845": 42,
+      "gas:candidate-vibid:1001000214170": 157,
+      "gas:candidate-vibid:1001000131415": 76,
+      "gas:candidate-vibid:366300566753": 2,
+      "gas:candidate-vibid:1001000121913": 28,
+      "gas:candidate-vibid:366300566736": 8,
+      "gas:candidate-vibid:1001000136126": 14,
+      "gas:candidate-vibid:1001000113982": 155,
+      "special:against-all": 78
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=662000062&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=266200066926&region=0&sub_region=0&type=429",
@@ -2942,15 +2942,15 @@ export const duma_2003_uik_428_region_66_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Артюх Евгений Петрович": 7,
-      "Баков Антон Алексеевич": 117,
-      "Воротников Валерий Павлович": 44,
-      "Глацких Артем Вячеславович": 0,
-      "Канисев Иван Иванович": 13,
-      "Мелехин Валерий Иванович": 1,
-      "Миллеров Всеволод Борисович": 8,
-      "Селиванов Андрей Владимирович": 211,
-      "Против всех": 47
+      "gas:candidate-vibid:1001000220845": 7,
+      "gas:candidate-vibid:1001000214170": 117,
+      "gas:candidate-vibid:1001000131415": 44,
+      "gas:candidate-vibid:366300566753": 0,
+      "gas:candidate-vibid:1001000121913": 13,
+      "gas:candidate-vibid:366300566736": 1,
+      "gas:candidate-vibid:1001000136126": 8,
+      "gas:candidate-vibid:1001000113982": 211,
+      "special:against-all": 47
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=662000062&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=266200066926&region=0&sub_region=0&type=429",
@@ -3000,15 +3000,15 @@ export const duma_2003_uik_428_region_66_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Артюх Евгений Петрович": 13,
-      "Баков Антон Алексеевич": 121,
-      "Воротников Валерий Павлович": 26,
-      "Глацких Артем Вячеславович": 5,
-      "Канисев Иван Иванович": 17,
-      "Мелехин Валерий Иванович": 3,
-      "Миллеров Всеволод Борисович": 14,
-      "Селиванов Андрей Владимирович": 139,
-      "Против всех": 60
+      "gas:candidate-vibid:1001000220845": 13,
+      "gas:candidate-vibid:1001000214170": 121,
+      "gas:candidate-vibid:1001000131415": 26,
+      "gas:candidate-vibid:366300566753": 5,
+      "gas:candidate-vibid:1001000121913": 17,
+      "gas:candidate-vibid:366300566736": 3,
+      "gas:candidate-vibid:1001000136126": 14,
+      "gas:candidate-vibid:1001000113982": 139,
+      "special:against-all": 60
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=662000062&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=266200066926&region=0&sub_region=0&type=429",
@@ -3058,15 +3058,15 @@ export const duma_2003_uik_428_region_66_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Артюх Евгений Петрович": 47,
-      "Баков Антон Алексеевич": 108,
-      "Воротников Валерий Павлович": 87,
-      "Глацких Артем Вячеславович": 2,
-      "Канисев Иван Иванович": 29,
-      "Мелехин Валерий Иванович": 6,
-      "Миллеров Всеволод Борисович": 16,
-      "Селиванов Андрей Владимирович": 253,
-      "Против всех": 91
+      "gas:candidate-vibid:1001000220845": 47,
+      "gas:candidate-vibid:1001000214170": 108,
+      "gas:candidate-vibid:1001000131415": 87,
+      "gas:candidate-vibid:366300566753": 2,
+      "gas:candidate-vibid:1001000121913": 29,
+      "gas:candidate-vibid:366300566736": 6,
+      "gas:candidate-vibid:1001000136126": 16,
+      "gas:candidate-vibid:1001000113982": 253,
+      "special:against-all": 91
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=662000062&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=266200066926&region=0&sub_region=0&type=429",
@@ -3116,15 +3116,15 @@ export const duma_2003_uik_428_region_66_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Артюх Евгений Петрович": 2,
-      "Баков Антон Алексеевич": 238,
-      "Воротников Валерий Павлович": 46,
-      "Глацких Артем Вячеславович": 3,
-      "Канисев Иван Иванович": 4,
-      "Мелехин Валерий Иванович": 6,
-      "Миллеров Всеволод Борисович": 10,
-      "Селиванов Андрей Владимирович": 84,
-      "Против всех": 30
+      "gas:candidate-vibid:1001000220845": 2,
+      "gas:candidate-vibid:1001000214170": 238,
+      "gas:candidate-vibid:1001000131415": 46,
+      "gas:candidate-vibid:366300566753": 3,
+      "gas:candidate-vibid:1001000121913": 4,
+      "gas:candidate-vibid:366300566736": 6,
+      "gas:candidate-vibid:1001000136126": 10,
+      "gas:candidate-vibid:1001000113982": 84,
+      "special:against-all": 30
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=662000062&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=266200066926&region=0&sub_region=0&type=429",
@@ -3174,15 +3174,15 @@ export const duma_2003_uik_428_region_66_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Артюх Евгений Петрович": 17,
-      "Баков Антон Алексеевич": 276,
-      "Воротников Валерий Павлович": 34,
-      "Глацких Артем Вячеславович": 1,
-      "Канисев Иван Иванович": 12,
-      "Мелехин Валерий Иванович": 1,
-      "Миллеров Всеволод Борисович": 15,
-      "Селиванов Андрей Владимирович": 121,
-      "Против всех": 37
+      "gas:candidate-vibid:1001000220845": 17,
+      "gas:candidate-vibid:1001000214170": 276,
+      "gas:candidate-vibid:1001000131415": 34,
+      "gas:candidate-vibid:366300566753": 1,
+      "gas:candidate-vibid:1001000121913": 12,
+      "gas:candidate-vibid:366300566736": 1,
+      "gas:candidate-vibid:1001000136126": 15,
+      "gas:candidate-vibid:1001000113982": 121,
+      "special:against-all": 37
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=662000062&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=266200066926&region=0&sub_region=0&type=429",
@@ -3232,15 +3232,15 @@ export const duma_2003_uik_428_region_66_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Артюх Евгений Петрович": 27,
-      "Баков Антон Алексеевич": 173,
-      "Воротников Валерий Павлович": 44,
-      "Глацких Артем Вячеславович": 0,
-      "Канисев Иван Иванович": 13,
-      "Мелехин Валерий Иванович": 2,
-      "Миллеров Всеволод Борисович": 7,
-      "Селиванов Андрей Владимирович": 220,
-      "Против всех": 43
+      "gas:candidate-vibid:1001000220845": 27,
+      "gas:candidate-vibid:1001000214170": 173,
+      "gas:candidate-vibid:1001000131415": 44,
+      "gas:candidate-vibid:366300566753": 0,
+      "gas:candidate-vibid:1001000121913": 13,
+      "gas:candidate-vibid:366300566736": 2,
+      "gas:candidate-vibid:1001000136126": 7,
+      "gas:candidate-vibid:1001000113982": 220,
+      "special:against-all": 43
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=662000062&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=266200066926&region=0&sub_region=0&type=429",
@@ -3290,15 +3290,15 @@ export const duma_2003_uik_428_region_66_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Артюх Евгений Петрович": 20,
-      "Баков Антон Алексеевич": 202,
-      "Воротников Валерий Павлович": 15,
-      "Глацких Артем Вячеславович": 0,
-      "Канисев Иван Иванович": 10,
-      "Мелехин Валерий Иванович": 1,
-      "Миллеров Всеволод Борисович": 22,
-      "Селиванов Андрей Владимирович": 217,
-      "Против всех": 28
+      "gas:candidate-vibid:1001000220845": 20,
+      "gas:candidate-vibid:1001000214170": 202,
+      "gas:candidate-vibid:1001000131415": 15,
+      "gas:candidate-vibid:366300566753": 0,
+      "gas:candidate-vibid:1001000121913": 10,
+      "gas:candidate-vibid:366300566736": 1,
+      "gas:candidate-vibid:1001000136126": 22,
+      "gas:candidate-vibid:1001000113982": 217,
+      "special:against-all": 28
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=662000062&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=266200066926&region=0&sub_region=0&type=429",
@@ -3348,15 +3348,15 @@ export const duma_2003_uik_428_region_66_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Артюх Евгений Петрович": 6,
-      "Баков Антон Алексеевич": 92,
-      "Воротников Валерий Павлович": 4,
-      "Глацких Артем Вячеславович": 0,
-      "Канисев Иван Иванович": 2,
-      "Мелехин Валерий Иванович": 2,
-      "Миллеров Всеволод Борисович": 1,
-      "Селиванов Андрей Владимирович": 184,
-      "Против всех": 12
+      "gas:candidate-vibid:1001000220845": 6,
+      "gas:candidate-vibid:1001000214170": 92,
+      "gas:candidate-vibid:1001000131415": 4,
+      "gas:candidate-vibid:366300566753": 0,
+      "gas:candidate-vibid:1001000121913": 2,
+      "gas:candidate-vibid:366300566736": 2,
+      "gas:candidate-vibid:1001000136126": 1,
+      "gas:candidate-vibid:1001000113982": 184,
+      "special:against-all": 12
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=662000062&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=266200066926&region=0&sub_region=0&type=429",
@@ -3406,15 +3406,15 @@ export const duma_2003_uik_428_region_66_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Артюх Евгений Петрович": 7,
-      "Баков Антон Алексеевич": 208,
-      "Воротников Валерий Павлович": 109,
-      "Глацких Артем Вячеславович": 1,
-      "Канисев Иван Иванович": 2,
-      "Мелехин Валерий Иванович": 4,
-      "Миллеров Всеволод Борисович": 3,
-      "Селиванов Андрей Владимирович": 207,
-      "Против всех": 47
+      "gas:candidate-vibid:1001000220845": 7,
+      "gas:candidate-vibid:1001000214170": 208,
+      "gas:candidate-vibid:1001000131415": 109,
+      "gas:candidate-vibid:366300566753": 1,
+      "gas:candidate-vibid:1001000121913": 2,
+      "gas:candidate-vibid:366300566736": 4,
+      "gas:candidate-vibid:1001000136126": 3,
+      "gas:candidate-vibid:1001000113982": 207,
+      "special:against-all": 47
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=662000062&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=266200066926&region=0&sub_region=0&type=429",
@@ -3464,15 +3464,15 @@ export const duma_2003_uik_428_region_66_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Артюх Евгений Петрович": 3,
-      "Баков Антон Алексеевич": 50,
-      "Воротников Валерий Павлович": 1,
-      "Глацких Артем Вячеславович": 1,
-      "Канисев Иван Иванович": 0,
-      "Мелехин Валерий Иванович": 0,
-      "Миллеров Всеволод Борисович": 0,
-      "Селиванов Андрей Владимирович": 28,
-      "Против всех": 5
+      "gas:candidate-vibid:1001000220845": 3,
+      "gas:candidate-vibid:1001000214170": 50,
+      "gas:candidate-vibid:1001000131415": 1,
+      "gas:candidate-vibid:366300566753": 1,
+      "gas:candidate-vibid:1001000121913": 0,
+      "gas:candidate-vibid:366300566736": 0,
+      "gas:candidate-vibid:1001000136126": 0,
+      "gas:candidate-vibid:1001000113982": 28,
+      "special:against-all": 5
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=662000062&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=266200066926&region=0&sub_region=0&type=429",
@@ -3522,15 +3522,15 @@ export const duma_2003_uik_428_region_66_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Артюх Евгений Петрович": 19,
-      "Баков Антон Алексеевич": 285,
-      "Воротников Валерий Павлович": 22,
-      "Глацких Артем Вячеславович": 1,
-      "Канисев Иван Иванович": 3,
-      "Мелехин Валерий Иванович": 0,
-      "Миллеров Всеволод Борисович": 16,
-      "Селиванов Андрей Владимирович": 93,
-      "Против всех": 54
+      "gas:candidate-vibid:1001000220845": 19,
+      "gas:candidate-vibid:1001000214170": 285,
+      "gas:candidate-vibid:1001000131415": 22,
+      "gas:candidate-vibid:366300566753": 1,
+      "gas:candidate-vibid:1001000121913": 3,
+      "gas:candidate-vibid:366300566736": 0,
+      "gas:candidate-vibid:1001000136126": 16,
+      "gas:candidate-vibid:1001000113982": 93,
+      "special:against-all": 54
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=662000062&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=266200066926&region=0&sub_region=0&type=429",
@@ -3580,15 +3580,15 @@ export const duma_2003_uik_428_region_66_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Артюх Евгений Петрович": 20,
-      "Баков Антон Алексеевич": 210,
-      "Воротников Валерий Павлович": 27,
-      "Глацких Артем Вячеславович": 3,
-      "Канисев Иван Иванович": 6,
-      "Мелехин Валерий Иванович": 3,
-      "Миллеров Всеволод Борисович": 8,
-      "Селиванов Андрей Владимирович": 157,
-      "Против всех": 35
+      "gas:candidate-vibid:1001000220845": 20,
+      "gas:candidate-vibid:1001000214170": 210,
+      "gas:candidate-vibid:1001000131415": 27,
+      "gas:candidate-vibid:366300566753": 3,
+      "gas:candidate-vibid:1001000121913": 6,
+      "gas:candidate-vibid:366300566736": 3,
+      "gas:candidate-vibid:1001000136126": 8,
+      "gas:candidate-vibid:1001000113982": 157,
+      "special:against-all": 35
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=662000062&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=266200066926&region=0&sub_region=0&type=429",
@@ -3638,15 +3638,15 @@ export const duma_2003_uik_428_region_66_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Артюх Евгений Петрович": 4,
-      "Баков Антон Алексеевич": 62,
-      "Воротников Валерий Павлович": 24,
-      "Глацких Артем Вячеславович": 1,
-      "Канисев Иван Иванович": 3,
-      "Мелехин Валерий Иванович": 0,
-      "Миллеров Всеволод Борисович": 1,
-      "Селиванов Андрей Владимирович": 54,
-      "Против всех": 7
+      "gas:candidate-vibid:1001000220845": 4,
+      "gas:candidate-vibid:1001000214170": 62,
+      "gas:candidate-vibid:1001000131415": 24,
+      "gas:candidate-vibid:366300566753": 1,
+      "gas:candidate-vibid:1001000121913": 3,
+      "gas:candidate-vibid:366300566736": 0,
+      "gas:candidate-vibid:1001000136126": 1,
+      "gas:candidate-vibid:1001000113982": 54,
+      "special:against-all": 7
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=662000062&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=266200066926&region=0&sub_region=0&type=429",
@@ -3696,15 +3696,15 @@ export const duma_2003_uik_428_region_66_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Артюх Евгений Петрович": 0,
-      "Баков Антон Алексеевич": 18,
-      "Воротников Валерий Павлович": 13,
-      "Глацких Артем Вячеславович": 0,
-      "Канисев Иван Иванович": 0,
-      "Мелехин Валерий Иванович": 0,
-      "Миллеров Всеволод Борисович": 0,
-      "Селиванов Андрей Владимирович": 26,
-      "Против всех": 4
+      "gas:candidate-vibid:1001000220845": 0,
+      "gas:candidate-vibid:1001000214170": 18,
+      "gas:candidate-vibid:1001000131415": 13,
+      "gas:candidate-vibid:366300566753": 0,
+      "gas:candidate-vibid:1001000121913": 0,
+      "gas:candidate-vibid:366300566736": 0,
+      "gas:candidate-vibid:1001000136126": 0,
+      "gas:candidate-vibid:1001000113982": 26,
+      "special:against-all": 4
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=662000062&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=266200066926&region=0&sub_region=0&type=429",
@@ -3754,15 +3754,15 @@ export const duma_2003_uik_428_region_66_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Артюх Евгений Петрович": 15,
-      "Баков Антон Алексеевич": 99,
-      "Воротников Валерий Павлович": 50,
-      "Глацких Артем Вячеславович": 2,
-      "Канисев Иван Иванович": 5,
-      "Мелехин Валерий Иванович": 0,
-      "Миллеров Всеволод Борисович": 19,
-      "Селиванов Андрей Владимирович": 146,
-      "Против всех": 43
+      "gas:candidate-vibid:1001000220845": 15,
+      "gas:candidate-vibid:1001000214170": 99,
+      "gas:candidate-vibid:1001000131415": 50,
+      "gas:candidate-vibid:366300566753": 2,
+      "gas:candidate-vibid:1001000121913": 5,
+      "gas:candidate-vibid:366300566736": 0,
+      "gas:candidate-vibid:1001000136126": 19,
+      "gas:candidate-vibid:1001000113982": 146,
+      "special:against-all": 43
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=662000062&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=266200066926&region=0&sub_region=0&type=429",
@@ -3812,15 +3812,15 @@ export const duma_2003_uik_428_region_66_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Артюх Евгений Петрович": 3,
-      "Баков Антон Алексеевич": 132,
-      "Воротников Валерий Павлович": 12,
-      "Глацких Артем Вячеславович": 0,
-      "Канисев Иван Иванович": 3,
-      "Мелехин Валерий Иванович": 3,
-      "Миллеров Всеволод Борисович": 1,
-      "Селиванов Андрей Владимирович": 118,
-      "Против всех": 30
+      "gas:candidate-vibid:1001000220845": 3,
+      "gas:candidate-vibid:1001000214170": 132,
+      "gas:candidate-vibid:1001000131415": 12,
+      "gas:candidate-vibid:366300566753": 0,
+      "gas:candidate-vibid:1001000121913": 3,
+      "gas:candidate-vibid:366300566736": 3,
+      "gas:candidate-vibid:1001000136126": 1,
+      "gas:candidate-vibid:1001000113982": 118,
+      "special:against-all": 30
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=662000062&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=266200066926&region=0&sub_region=0&type=429",
@@ -3870,15 +3870,15 @@ export const duma_2003_uik_428_region_66_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Артюх Евгений Петрович": 4,
-      "Баков Антон Алексеевич": 48,
-      "Воротников Валерий Павлович": 33,
-      "Глацких Артем Вячеславович": 0,
-      "Канисев Иван Иванович": 3,
-      "Мелехин Валерий Иванович": 0,
-      "Миллеров Всеволод Борисович": 0,
-      "Селиванов Андрей Владимирович": 51,
-      "Против всех": 2
+      "gas:candidate-vibid:1001000220845": 4,
+      "gas:candidate-vibid:1001000214170": 48,
+      "gas:candidate-vibid:1001000131415": 33,
+      "gas:candidate-vibid:366300566753": 0,
+      "gas:candidate-vibid:1001000121913": 3,
+      "gas:candidate-vibid:366300566736": 0,
+      "gas:candidate-vibid:1001000136126": 0,
+      "gas:candidate-vibid:1001000113982": 51,
+      "special:against-all": 2
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=662000062&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=266200066926&region=0&sub_region=0&type=429",
@@ -3928,15 +3928,15 @@ export const duma_2003_uik_428_region_66_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Артюх Евгений Петрович": 5,
-      "Баков Антон Алексеевич": 41,
-      "Воротников Валерий Павлович": 11,
-      "Глацких Артем Вячеславович": 0,
-      "Канисев Иван Иванович": 3,
-      "Мелехин Валерий Иванович": 1,
-      "Миллеров Всеволод Борисович": 1,
-      "Селиванов Андрей Владимирович": 31,
-      "Против всех": 7
+      "gas:candidate-vibid:1001000220845": 5,
+      "gas:candidate-vibid:1001000214170": 41,
+      "gas:candidate-vibid:1001000131415": 11,
+      "gas:candidate-vibid:366300566753": 0,
+      "gas:candidate-vibid:1001000121913": 3,
+      "gas:candidate-vibid:366300566736": 1,
+      "gas:candidate-vibid:1001000136126": 1,
+      "gas:candidate-vibid:1001000113982": 31,
+      "special:against-all": 7
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=662000062&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=266200066926&region=0&sub_region=0&type=429",
@@ -3986,15 +3986,15 @@ export const duma_2003_uik_428_region_66_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Артюх Евгений Петрович": 6,
-      "Баков Антон Алексеевич": 61,
-      "Воротников Валерий Павлович": 11,
-      "Глацких Артем Вячеславович": 0,
-      "Канисев Иван Иванович": 1,
-      "Мелехин Валерий Иванович": 0,
-      "Миллеров Всеволод Борисович": 2,
-      "Селиванов Андрей Владимирович": 21,
-      "Против всех": 11
+      "gas:candidate-vibid:1001000220845": 6,
+      "gas:candidate-vibid:1001000214170": 61,
+      "gas:candidate-vibid:1001000131415": 11,
+      "gas:candidate-vibid:366300566753": 0,
+      "gas:candidate-vibid:1001000121913": 1,
+      "gas:candidate-vibid:366300566736": 0,
+      "gas:candidate-vibid:1001000136126": 2,
+      "gas:candidate-vibid:1001000113982": 21,
+      "special:against-all": 11
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=662000062&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=266200066926&region=0&sub_region=0&type=429",
@@ -4044,15 +4044,15 @@ export const duma_2003_uik_428_region_66_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Артюх Евгений Петрович": 5,
-      "Баков Антон Алексеевич": 20,
-      "Воротников Валерий Павлович": 26,
-      "Глацких Артем Вячеславович": 1,
-      "Канисев Иван Иванович": 0,
-      "Мелехин Валерий Иванович": 0,
-      "Миллеров Всеволод Борисович": 1,
-      "Селиванов Андрей Владимирович": 33,
-      "Против всех": 2
+      "gas:candidate-vibid:1001000220845": 5,
+      "gas:candidate-vibid:1001000214170": 20,
+      "gas:candidate-vibid:1001000131415": 26,
+      "gas:candidate-vibid:366300566753": 1,
+      "gas:candidate-vibid:1001000121913": 0,
+      "gas:candidate-vibid:366300566736": 0,
+      "gas:candidate-vibid:1001000136126": 1,
+      "gas:candidate-vibid:1001000113982": 33,
+      "special:against-all": 2
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=662000062&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=266200066926&region=0&sub_region=0&type=429",
@@ -4102,15 +4102,15 @@ export const duma_2003_uik_428_region_66_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Артюх Евгений Петрович": 2,
-      "Баков Антон Алексеевич": 48,
-      "Воротников Валерий Павлович": 17,
-      "Глацких Артем Вячеславович": 2,
-      "Канисев Иван Иванович": 0,
-      "Мелехин Валерий Иванович": 0,
-      "Миллеров Всеволод Борисович": 0,
-      "Селиванов Андрей Владимирович": 35,
-      "Против всех": 11
+      "gas:candidate-vibid:1001000220845": 2,
+      "gas:candidate-vibid:1001000214170": 48,
+      "gas:candidate-vibid:1001000131415": 17,
+      "gas:candidate-vibid:366300566753": 2,
+      "gas:candidate-vibid:1001000121913": 0,
+      "gas:candidate-vibid:366300566736": 0,
+      "gas:candidate-vibid:1001000136126": 0,
+      "gas:candidate-vibid:1001000113982": 35,
+      "special:against-all": 11
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=662000062&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=266200066926&region=0&sub_region=0&type=429",
@@ -4160,15 +4160,15 @@ export const duma_2003_uik_428_region_66_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Артюх Евгений Петрович": 0,
-      "Баков Антон Алексеевич": 29,
-      "Воротников Валерий Павлович": 10,
-      "Глацких Артем Вячеславович": 0,
-      "Канисев Иван Иванович": 2,
-      "Мелехин Валерий Иванович": 0,
-      "Миллеров Всеволод Борисович": 1,
-      "Селиванов Андрей Владимирович": 24,
-      "Против всех": 4
+      "gas:candidate-vibid:1001000220845": 0,
+      "gas:candidate-vibid:1001000214170": 29,
+      "gas:candidate-vibid:1001000131415": 10,
+      "gas:candidate-vibid:366300566753": 0,
+      "gas:candidate-vibid:1001000121913": 2,
+      "gas:candidate-vibid:366300566736": 0,
+      "gas:candidate-vibid:1001000136126": 1,
+      "gas:candidate-vibid:1001000113982": 24,
+      "special:against-all": 4
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=662000062&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=266200066926&region=0&sub_region=0&type=429",
@@ -4218,15 +4218,15 @@ export const duma_2003_uik_428_region_66_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Артюх Евгений Петрович": 1,
-      "Баков Антон Алексеевич": 25,
-      "Воротников Валерий Павлович": 8,
-      "Глацких Артем Вячеславович": 0,
-      "Канисев Иван Иванович": 1,
-      "Мелехин Валерий Иванович": 0,
-      "Миллеров Всеволод Борисович": 0,
-      "Селиванов Андрей Владимирович": 53,
-      "Против всех": 7
+      "gas:candidate-vibid:1001000220845": 1,
+      "gas:candidate-vibid:1001000214170": 25,
+      "gas:candidate-vibid:1001000131415": 8,
+      "gas:candidate-vibid:366300566753": 0,
+      "gas:candidate-vibid:1001000121913": 1,
+      "gas:candidate-vibid:366300566736": 0,
+      "gas:candidate-vibid:1001000136126": 0,
+      "gas:candidate-vibid:1001000113982": 53,
+      "special:against-all": 7
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=662000062&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=266200066926&region=0&sub_region=0&type=429",
@@ -4276,15 +4276,15 @@ export const duma_2003_uik_428_region_66_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Артюх Евгений Петрович": 116,
-      "Баков Антон Алексеевич": 346,
-      "Воротников Валерий Павлович": 267,
-      "Глацких Артем Вячеславович": 6,
-      "Канисев Иван Иванович": 22,
-      "Мелехин Валерий Иванович": 20,
-      "Миллеров Всеволод Борисович": 23,
-      "Селиванов Андрей Владимирович": 376,
-      "Против всех": 156
+      "gas:candidate-vibid:1001000220845": 116,
+      "gas:candidate-vibid:1001000214170": 346,
+      "gas:candidate-vibid:1001000131415": 267,
+      "gas:candidate-vibid:366300566753": 6,
+      "gas:candidate-vibid:1001000121913": 22,
+      "gas:candidate-vibid:366300566736": 20,
+      "gas:candidate-vibid:1001000136126": 23,
+      "gas:candidate-vibid:1001000113982": 376,
+      "special:against-all": 156
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=662000063&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=266200066927&region=0&sub_region=0&type=429",
@@ -4334,15 +4334,15 @@ export const duma_2003_uik_428_region_66_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Артюх Евгений Петрович": 119,
-      "Баков Антон Алексеевич": 474,
-      "Воротников Валерий Павлович": 205,
-      "Глацких Артем Вячеславович": 8,
-      "Канисев Иван Иванович": 21,
-      "Мелехин Валерий Иванович": 19,
-      "Миллеров Всеволод Борисович": 26,
-      "Селиванов Андрей Владимирович": 325,
-      "Против всех": 190
+      "gas:candidate-vibid:1001000220845": 119,
+      "gas:candidate-vibid:1001000214170": 474,
+      "gas:candidate-vibid:1001000131415": 205,
+      "gas:candidate-vibid:366300566753": 8,
+      "gas:candidate-vibid:1001000121913": 21,
+      "gas:candidate-vibid:366300566736": 19,
+      "gas:candidate-vibid:1001000136126": 26,
+      "gas:candidate-vibid:1001000113982": 325,
+      "special:against-all": 190
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=662000063&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=266200066927&region=0&sub_region=0&type=429",
@@ -4392,15 +4392,15 @@ export const duma_2003_uik_428_region_66_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Артюх Евгений Петрович": 160,
-      "Баков Антон Алексеевич": 381,
-      "Воротников Валерий Павлович": 188,
-      "Глацких Артем Вячеславович": 5,
-      "Канисев Иван Иванович": 29,
-      "Мелехин Валерий Иванович": 15,
-      "Миллеров Всеволод Борисович": 14,
-      "Селиванов Андрей Владимирович": 290,
-      "Против всех": 143
+      "gas:candidate-vibid:1001000220845": 160,
+      "gas:candidate-vibid:1001000214170": 381,
+      "gas:candidate-vibid:1001000131415": 188,
+      "gas:candidate-vibid:366300566753": 5,
+      "gas:candidate-vibid:1001000121913": 29,
+      "gas:candidate-vibid:366300566736": 15,
+      "gas:candidate-vibid:1001000136126": 14,
+      "gas:candidate-vibid:1001000113982": 290,
+      "special:against-all": 143
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=662000063&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=266200066927&region=0&sub_region=0&type=429",
@@ -4450,15 +4450,15 @@ export const duma_2003_uik_428_region_66_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Артюх Евгений Петрович": 142,
-      "Баков Антон Алексеевич": 457,
-      "Воротников Валерий Павлович": 163,
-      "Глацких Артем Вячеславович": 4,
-      "Канисев Иван Иванович": 28,
-      "Мелехин Валерий Иванович": 33,
-      "Миллеров Всеволод Борисович": 21,
-      "Селиванов Андрей Владимирович": 315,
-      "Против всех": 165
+      "gas:candidate-vibid:1001000220845": 142,
+      "gas:candidate-vibid:1001000214170": 457,
+      "gas:candidate-vibid:1001000131415": 163,
+      "gas:candidate-vibid:366300566753": 4,
+      "gas:candidate-vibid:1001000121913": 28,
+      "gas:candidate-vibid:366300566736": 33,
+      "gas:candidate-vibid:1001000136126": 21,
+      "gas:candidate-vibid:1001000113982": 315,
+      "special:against-all": 165
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=662000063&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=266200066927&region=0&sub_region=0&type=429",
@@ -4508,15 +4508,15 @@ export const duma_2003_uik_428_region_66_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Артюх Евгений Петрович": 147,
-      "Баков Антон Алексеевич": 442,
-      "Воротников Валерий Павлович": 179,
-      "Глацких Артем Вячеславович": 4,
-      "Канисев Иван Иванович": 26,
-      "Мелехин Валерий Иванович": 15,
-      "Миллеров Всеволод Борисович": 21,
-      "Селиванов Андрей Владимирович": 290,
-      "Против всех": 170
+      "gas:candidate-vibid:1001000220845": 147,
+      "gas:candidate-vibid:1001000214170": 442,
+      "gas:candidate-vibid:1001000131415": 179,
+      "gas:candidate-vibid:366300566753": 4,
+      "gas:candidate-vibid:1001000121913": 26,
+      "gas:candidate-vibid:366300566736": 15,
+      "gas:candidate-vibid:1001000136126": 21,
+      "gas:candidate-vibid:1001000113982": 290,
+      "special:against-all": 170
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=662000063&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=266200066927&region=0&sub_region=0&type=429",
@@ -4566,15 +4566,15 @@ export const duma_2003_uik_428_region_66_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Артюх Евгений Петрович": 133,
-      "Баков Антон Алексеевич": 381,
-      "Воротников Валерий Павлович": 163,
-      "Глацких Артем Вячеславович": 4,
-      "Канисев Иван Иванович": 27,
-      "Мелехин Валерий Иванович": 16,
-      "Миллеров Всеволод Борисович": 25,
-      "Селиванов Андрей Владимирович": 325,
-      "Против всех": 151
+      "gas:candidate-vibid:1001000220845": 133,
+      "gas:candidate-vibid:1001000214170": 381,
+      "gas:candidate-vibid:1001000131415": 163,
+      "gas:candidate-vibid:366300566753": 4,
+      "gas:candidate-vibid:1001000121913": 27,
+      "gas:candidate-vibid:366300566736": 16,
+      "gas:candidate-vibid:1001000136126": 25,
+      "gas:candidate-vibid:1001000113982": 325,
+      "special:against-all": 151
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=662000063&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=266200066927&region=0&sub_region=0&type=429",
@@ -4624,15 +4624,15 @@ export const duma_2003_uik_428_region_66_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Артюх Евгений Петрович": 115,
-      "Баков Антон Алексеевич": 421,
-      "Воротников Валерий Павлович": 174,
-      "Глацких Артем Вячеславович": 6,
-      "Канисев Иван Иванович": 33,
-      "Мелехин Валерий Иванович": 22,
-      "Миллеров Всеволод Борисович": 18,
-      "Селиванов Андрей Владимирович": 253,
-      "Против всех": 154
+      "gas:candidate-vibid:1001000220845": 115,
+      "gas:candidate-vibid:1001000214170": 421,
+      "gas:candidate-vibid:1001000131415": 174,
+      "gas:candidate-vibid:366300566753": 6,
+      "gas:candidate-vibid:1001000121913": 33,
+      "gas:candidate-vibid:366300566736": 22,
+      "gas:candidate-vibid:1001000136126": 18,
+      "gas:candidate-vibid:1001000113982": 253,
+      "special:against-all": 154
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=662000063&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=266200066927&region=0&sub_region=0&type=429",
@@ -4682,15 +4682,15 @@ export const duma_2003_uik_428_region_66_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Артюх Евгений Петрович": 122,
-      "Баков Антон Алексеевич": 348,
-      "Воротников Валерий Павлович": 159,
-      "Глацких Артем Вячеславович": 2,
-      "Канисев Иван Иванович": 34,
-      "Мелехин Валерий Иванович": 16,
-      "Миллеров Всеволод Борисович": 22,
-      "Селиванов Андрей Владимирович": 249,
-      "Против всех": 191
+      "gas:candidate-vibid:1001000220845": 122,
+      "gas:candidate-vibid:1001000214170": 348,
+      "gas:candidate-vibid:1001000131415": 159,
+      "gas:candidate-vibid:366300566753": 2,
+      "gas:candidate-vibid:1001000121913": 34,
+      "gas:candidate-vibid:366300566736": 16,
+      "gas:candidate-vibid:1001000136126": 22,
+      "gas:candidate-vibid:1001000113982": 249,
+      "special:against-all": 191
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=662000063&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=266200066927&region=0&sub_region=0&type=429",
@@ -4740,15 +4740,15 @@ export const duma_2003_uik_428_region_66_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Артюх Евгений Петрович": 148,
-      "Баков Антон Алексеевич": 355,
-      "Воротников Валерий Павлович": 166,
-      "Глацких Артем Вячеславович": 10,
-      "Канисев Иван Иванович": 16,
-      "Мелехин Валерий Иванович": 35,
-      "Миллеров Всеволод Борисович": 37,
-      "Селиванов Андрей Владимирович": 331,
-      "Против всех": 170
+      "gas:candidate-vibid:1001000220845": 148,
+      "gas:candidate-vibid:1001000214170": 355,
+      "gas:candidate-vibid:1001000131415": 166,
+      "gas:candidate-vibid:366300566753": 10,
+      "gas:candidate-vibid:1001000121913": 16,
+      "gas:candidate-vibid:366300566736": 35,
+      "gas:candidate-vibid:1001000136126": 37,
+      "gas:candidate-vibid:1001000113982": 331,
+      "special:against-all": 170
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=662000063&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=266200066927&region=0&sub_region=0&type=429",
@@ -4798,15 +4798,15 @@ export const duma_2003_uik_428_region_66_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Артюх Евгений Петрович": 102,
-      "Баков Антон Алексеевич": 375,
-      "Воротников Валерий Павлович": 157,
-      "Глацких Артем Вячеславович": 11,
-      "Канисев Иван Иванович": 35,
-      "Мелехин Валерий Иванович": 25,
-      "Миллеров Всеволод Борисович": 20,
-      "Селиванов Андрей Владимирович": 333,
-      "Против всех": 194
+      "gas:candidate-vibid:1001000220845": 102,
+      "gas:candidate-vibid:1001000214170": 375,
+      "gas:candidate-vibid:1001000131415": 157,
+      "gas:candidate-vibid:366300566753": 11,
+      "gas:candidate-vibid:1001000121913": 35,
+      "gas:candidate-vibid:366300566736": 25,
+      "gas:candidate-vibid:1001000136126": 20,
+      "gas:candidate-vibid:1001000113982": 333,
+      "special:against-all": 194
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=662000063&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=266200066927&region=0&sub_region=0&type=429",
@@ -4856,15 +4856,15 @@ export const duma_2003_uik_428_region_66_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Артюх Евгений Петрович": 63,
-      "Баков Антон Алексеевич": 240,
-      "Воротников Валерий Павлович": 111,
-      "Глацких Артем Вячеславович": 0,
-      "Канисев Иван Иванович": 11,
-      "Мелехин Валерий Иванович": 4,
-      "Миллеров Всеволод Борисович": 3,
-      "Селиванов Андрей Владимирович": 62,
-      "Против всех": 37
+      "gas:candidate-vibid:1001000220845": 63,
+      "gas:candidate-vibid:1001000214170": 240,
+      "gas:candidate-vibid:1001000131415": 111,
+      "gas:candidate-vibid:366300566753": 0,
+      "gas:candidate-vibid:1001000121913": 11,
+      "gas:candidate-vibid:366300566736": 4,
+      "gas:candidate-vibid:1001000136126": 3,
+      "gas:candidate-vibid:1001000113982": 62,
+      "special:against-all": 37
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=662000063&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=266200066927&region=0&sub_region=0&type=429",
@@ -4914,15 +4914,15 @@ export const duma_2003_uik_428_region_66_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Артюх Евгений Петрович": 42,
-      "Баков Антон Алексеевич": 82,
-      "Воротников Валерий Павлович": 64,
-      "Глацких Артем Вячеславович": 1,
-      "Канисев Иван Иванович": 4,
-      "Мелехин Валерий Иванович": 3,
-      "Миллеров Всеволод Борисович": 4,
-      "Селиванов Андрей Владимирович": 23,
-      "Против всех": 21
+      "gas:candidate-vibid:1001000220845": 42,
+      "gas:candidate-vibid:1001000214170": 82,
+      "gas:candidate-vibid:1001000131415": 64,
+      "gas:candidate-vibid:366300566753": 1,
+      "gas:candidate-vibid:1001000121913": 4,
+      "gas:candidate-vibid:366300566736": 3,
+      "gas:candidate-vibid:1001000136126": 4,
+      "gas:candidate-vibid:1001000113982": 23,
+      "special:against-all": 21
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=662000063&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=266200066927&region=0&sub_region=0&type=429",
@@ -4972,15 +4972,15 @@ export const duma_2003_uik_428_region_66_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Артюх Евгений Петрович": 64,
-      "Баков Антон Алексеевич": 366,
-      "Воротников Валерий Павлович": 122,
-      "Глацких Артем Вячеславович": 2,
-      "Канисев Иван Иванович": 8,
-      "Мелехин Валерий Иванович": 2,
-      "Миллеров Всеволод Борисович": 12,
-      "Селиванов Андрей Владимирович": 125,
-      "Против всех": 96
+      "gas:candidate-vibid:1001000220845": 64,
+      "gas:candidate-vibid:1001000214170": 366,
+      "gas:candidate-vibid:1001000131415": 122,
+      "gas:candidate-vibid:366300566753": 2,
+      "gas:candidate-vibid:1001000121913": 8,
+      "gas:candidate-vibid:366300566736": 2,
+      "gas:candidate-vibid:1001000136126": 12,
+      "gas:candidate-vibid:1001000113982": 125,
+      "special:against-all": 96
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=662000063&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=266200066927&region=0&sub_region=0&type=429",
@@ -5030,15 +5030,15 @@ export const duma_2003_uik_428_region_66_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Артюх Евгений Петрович": 74,
-      "Баков Антон Алексеевич": 402,
-      "Воротников Валерий Павлович": 219,
-      "Глацких Артем Вячеславович": 4,
-      "Канисев Иван Иванович": 20,
-      "Мелехин Валерий Иванович": 9,
-      "Миллеров Всеволод Борисович": 22,
-      "Селиванов Андрей Владимирович": 349,
-      "Против всех": 164
+      "gas:candidate-vibid:1001000220845": 74,
+      "gas:candidate-vibid:1001000214170": 402,
+      "gas:candidate-vibid:1001000131415": 219,
+      "gas:candidate-vibid:366300566753": 4,
+      "gas:candidate-vibid:1001000121913": 20,
+      "gas:candidate-vibid:366300566736": 9,
+      "gas:candidate-vibid:1001000136126": 22,
+      "gas:candidate-vibid:1001000113982": 349,
+      "special:against-all": 164
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=662000063&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=266200066927&region=0&sub_region=0&type=429",
@@ -5088,15 +5088,15 @@ export const duma_2003_uik_428_region_66_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Артюх Евгений Петрович": 112,
-      "Баков Антон Алексеевич": 416,
-      "Воротников Валерий Павлович": 180,
-      "Глацких Артем Вячеславович": 2,
-      "Канисев Иван Иванович": 32,
-      "Мелехин Валерий Иванович": 19,
-      "Миллеров Всеволод Борисович": 23,
-      "Селиванов Андрей Владимирович": 348,
-      "Против всех": 199
+      "gas:candidate-vibid:1001000220845": 112,
+      "gas:candidate-vibid:1001000214170": 416,
+      "gas:candidate-vibid:1001000131415": 180,
+      "gas:candidate-vibid:366300566753": 2,
+      "gas:candidate-vibid:1001000121913": 32,
+      "gas:candidate-vibid:366300566736": 19,
+      "gas:candidate-vibid:1001000136126": 23,
+      "gas:candidate-vibid:1001000113982": 348,
+      "special:against-all": 199
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=662000063&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=266200066927&region=0&sub_region=0&type=429",
@@ -5146,15 +5146,15 @@ export const duma_2003_uik_428_region_66_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Артюх Евгений Петрович": 167,
-      "Баков Антон Алексеевич": 464,
-      "Воротников Валерий Павлович": 138,
-      "Глацких Артем Вячеславович": 5,
-      "Канисев Иван Иванович": 31,
-      "Мелехин Валерий Иванович": 46,
-      "Миллеров Всеволод Борисович": 33,
-      "Селиванов Андрей Владимирович": 457,
-      "Против всех": 216
+      "gas:candidate-vibid:1001000220845": 167,
+      "gas:candidate-vibid:1001000214170": 464,
+      "gas:candidate-vibid:1001000131415": 138,
+      "gas:candidate-vibid:366300566753": 5,
+      "gas:candidate-vibid:1001000121913": 31,
+      "gas:candidate-vibid:366300566736": 46,
+      "gas:candidate-vibid:1001000136126": 33,
+      "gas:candidate-vibid:1001000113982": 457,
+      "special:against-all": 216
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=662000063&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=266200066927&region=0&sub_region=0&type=429",
@@ -5204,15 +5204,15 @@ export const duma_2003_uik_428_region_66_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Артюх Евгений Петрович": 129,
-      "Баков Антон Алексеевич": 385,
-      "Воротников Валерий Павлович": 172,
-      "Глацких Артем Вячеславович": 5,
-      "Канисев Иван Иванович": 30,
-      "Мелехин Валерий Иванович": 50,
-      "Миллеров Всеволод Борисович": 25,
-      "Селиванов Андрей Владимирович": 375,
-      "Против всех": 164
+      "gas:candidate-vibid:1001000220845": 129,
+      "gas:candidate-vibid:1001000214170": 385,
+      "gas:candidate-vibid:1001000131415": 172,
+      "gas:candidate-vibid:366300566753": 5,
+      "gas:candidate-vibid:1001000121913": 30,
+      "gas:candidate-vibid:366300566736": 50,
+      "gas:candidate-vibid:1001000136126": 25,
+      "gas:candidate-vibid:1001000113982": 375,
+      "special:against-all": 164
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=662000063&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=266200066927&region=0&sub_region=0&type=429",
@@ -5262,15 +5262,15 @@ export const duma_2003_uik_428_region_66_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Артюх Евгений Петрович": 4,
-      "Баков Антон Алексеевич": 69,
-      "Воротников Валерий Павлович": 51,
-      "Глацких Артем Вячеславович": 0,
-      "Канисев Иван Иванович": 3,
-      "Мелехин Валерий Иванович": 1,
-      "Миллеров Всеволод Борисович": 0,
-      "Селиванов Андрей Владимирович": 38,
-      "Против всех": 10
+      "gas:candidate-vibid:1001000220845": 4,
+      "gas:candidate-vibid:1001000214170": 69,
+      "gas:candidate-vibid:1001000131415": 51,
+      "gas:candidate-vibid:366300566753": 0,
+      "gas:candidate-vibid:1001000121913": 3,
+      "gas:candidate-vibid:366300566736": 1,
+      "gas:candidate-vibid:1001000136126": 0,
+      "gas:candidate-vibid:1001000113982": 38,
+      "special:against-all": 10
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=662000063&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=266200066927&region=0&sub_region=0&type=429",
@@ -5320,15 +5320,15 @@ export const duma_2003_uik_428_region_66_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Артюх Евгений Петрович": 5,
-      "Баков Антон Алексеевич": 22,
-      "Воротников Валерий Павлович": 48,
-      "Глацких Артем Вячеславович": 0,
-      "Канисев Иван Иванович": 0,
-      "Мелехин Валерий Иванович": 1,
-      "Миллеров Всеволод Борисович": 1,
-      "Селиванов Андрей Владимирович": 21,
-      "Против всех": 10
+      "gas:candidate-vibid:1001000220845": 5,
+      "gas:candidate-vibid:1001000214170": 22,
+      "gas:candidate-vibid:1001000131415": 48,
+      "gas:candidate-vibid:366300566753": 0,
+      "gas:candidate-vibid:1001000121913": 0,
+      "gas:candidate-vibid:366300566736": 1,
+      "gas:candidate-vibid:1001000136126": 1,
+      "gas:candidate-vibid:1001000113982": 21,
+      "special:against-all": 10
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=662000063&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=266200066927&region=0&sub_region=0&type=429",
@@ -5378,15 +5378,15 @@ export const duma_2003_uik_428_region_66_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Артюх Евгений Петрович": 38,
-      "Баков Антон Алексеевич": 170,
-      "Воротников Валерий Павлович": 97,
-      "Глацких Артем Вячеславович": 4,
-      "Канисев Иван Иванович": 23,
-      "Мелехин Валерий Иванович": 6,
-      "Миллеров Всеволод Борисович": 6,
-      "Селиванов Андрей Владимирович": 131,
-      "Против всех": 40
+      "gas:candidate-vibid:1001000220845": 38,
+      "gas:candidate-vibid:1001000214170": 170,
+      "gas:candidate-vibid:1001000131415": 97,
+      "gas:candidate-vibid:366300566753": 4,
+      "gas:candidate-vibid:1001000121913": 23,
+      "gas:candidate-vibid:366300566736": 6,
+      "gas:candidate-vibid:1001000136126": 6,
+      "gas:candidate-vibid:1001000113982": 131,
+      "special:against-all": 40
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=662000064&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=266200066928&region=0&sub_region=0&type=429",
@@ -5436,15 +5436,15 @@ export const duma_2003_uik_428_region_66_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Артюх Евгений Петрович": 95,
-      "Баков Антон Алексеевич": 364,
-      "Воротников Валерий Павлович": 202,
-      "Глацких Артем Вячеславович": 5,
-      "Канисев Иван Иванович": 38,
-      "Мелехин Валерий Иванович": 12,
-      "Миллеров Всеволод Борисович": 17,
-      "Селиванов Андрей Владимирович": 170,
-      "Против всех": 112
+      "gas:candidate-vibid:1001000220845": 95,
+      "gas:candidate-vibid:1001000214170": 364,
+      "gas:candidate-vibid:1001000131415": 202,
+      "gas:candidate-vibid:366300566753": 5,
+      "gas:candidate-vibid:1001000121913": 38,
+      "gas:candidate-vibid:366300566736": 12,
+      "gas:candidate-vibid:1001000136126": 17,
+      "gas:candidate-vibid:1001000113982": 170,
+      "special:against-all": 112
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=662000064&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=266200066928&region=0&sub_region=0&type=429",
@@ -5494,15 +5494,15 @@ export const duma_2003_uik_428_region_66_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Артюх Евгений Петрович": 100,
-      "Баков Антон Алексеевич": 262,
-      "Воротников Валерий Павлович": 144,
-      "Глацких Артем Вячеславович": 5,
-      "Канисев Иван Иванович": 18,
-      "Мелехин Валерий Иванович": 12,
-      "Миллеров Всеволод Борисович": 11,
-      "Селиванов Андрей Владимирович": 104,
-      "Против всех": 63
+      "gas:candidate-vibid:1001000220845": 100,
+      "gas:candidate-vibid:1001000214170": 262,
+      "gas:candidate-vibid:1001000131415": 144,
+      "gas:candidate-vibid:366300566753": 5,
+      "gas:candidate-vibid:1001000121913": 18,
+      "gas:candidate-vibid:366300566736": 12,
+      "gas:candidate-vibid:1001000136126": 11,
+      "gas:candidate-vibid:1001000113982": 104,
+      "special:against-all": 63
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=662000064&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=266200066928&region=0&sub_region=0&type=429",
@@ -5552,15 +5552,15 @@ export const duma_2003_uik_428_region_66_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Артюх Евгений Петрович": 40,
-      "Баков Антон Алексеевич": 201,
-      "Воротников Валерий Павлович": 51,
-      "Глацких Артем Вячеславович": 3,
-      "Канисев Иван Иванович": 8,
-      "Мелехин Валерий Иванович": 3,
-      "Миллеров Всеволод Борисович": 5,
-      "Селиванов Андрей Владимирович": 149,
-      "Против всех": 26
+      "gas:candidate-vibid:1001000220845": 40,
+      "gas:candidate-vibid:1001000214170": 201,
+      "gas:candidate-vibid:1001000131415": 51,
+      "gas:candidate-vibid:366300566753": 3,
+      "gas:candidate-vibid:1001000121913": 8,
+      "gas:candidate-vibid:366300566736": 3,
+      "gas:candidate-vibid:1001000136126": 5,
+      "gas:candidate-vibid:1001000113982": 149,
+      "special:against-all": 26
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=662000064&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=266200066928&region=0&sub_region=0&type=429",
@@ -5610,15 +5610,15 @@ export const duma_2003_uik_428_region_66_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Артюх Евгений Петрович": 24,
-      "Баков Антон Алексеевич": 177,
-      "Воротников Валерий Павлович": 73,
-      "Глацких Артем Вячеславович": 1,
-      "Канисев Иван Иванович": 15,
-      "Мелехин Валерий Иванович": 7,
-      "Миллеров Всеволод Борисович": 4,
-      "Селиванов Андрей Владимирович": 96,
-      "Против всех": 24
+      "gas:candidate-vibid:1001000220845": 24,
+      "gas:candidate-vibid:1001000214170": 177,
+      "gas:candidate-vibid:1001000131415": 73,
+      "gas:candidate-vibid:366300566753": 1,
+      "gas:candidate-vibid:1001000121913": 15,
+      "gas:candidate-vibid:366300566736": 7,
+      "gas:candidate-vibid:1001000136126": 4,
+      "gas:candidate-vibid:1001000113982": 96,
+      "special:against-all": 24
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=662000064&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=266200066928&region=0&sub_region=0&type=429",
@@ -5668,15 +5668,15 @@ export const duma_2003_uik_428_region_66_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Артюх Евгений Петрович": 22,
-      "Баков Антон Алексеевич": 279,
-      "Воротников Валерий Павлович": 85,
-      "Глацких Артем Вячеславович": 2,
-      "Канисев Иван Иванович": 11,
-      "Мелехин Валерий Иванович": 3,
-      "Миллеров Всеволод Борисович": 4,
-      "Селиванов Андрей Владимирович": 81,
-      "Против всех": 47
+      "gas:candidate-vibid:1001000220845": 22,
+      "gas:candidate-vibid:1001000214170": 279,
+      "gas:candidate-vibid:1001000131415": 85,
+      "gas:candidate-vibid:366300566753": 2,
+      "gas:candidate-vibid:1001000121913": 11,
+      "gas:candidate-vibid:366300566736": 3,
+      "gas:candidate-vibid:1001000136126": 4,
+      "gas:candidate-vibid:1001000113982": 81,
+      "special:against-all": 47
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=662000064&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=266200066928&region=0&sub_region=0&type=429",
@@ -5726,15 +5726,15 @@ export const duma_2003_uik_428_region_66_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Артюх Евгений Петрович": 14,
-      "Баков Антон Алексеевич": 144,
-      "Воротников Валерий Павлович": 17,
-      "Глацких Артем Вячеславович": 0,
-      "Канисев Иван Иванович": 5,
-      "Мелехин Валерий Иванович": 1,
-      "Миллеров Всеволод Борисович": 2,
-      "Селиванов Андрей Владимирович": 45,
-      "Против всех": 18
+      "gas:candidate-vibid:1001000220845": 14,
+      "gas:candidate-vibid:1001000214170": 144,
+      "gas:candidate-vibid:1001000131415": 17,
+      "gas:candidate-vibid:366300566753": 0,
+      "gas:candidate-vibid:1001000121913": 5,
+      "gas:candidate-vibid:366300566736": 1,
+      "gas:candidate-vibid:1001000136126": 2,
+      "gas:candidate-vibid:1001000113982": 45,
+      "special:against-all": 18
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=662000064&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=266200066928&region=0&sub_region=0&type=429",
@@ -5784,15 +5784,15 @@ export const duma_2003_uik_428_region_66_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Артюх Евгений Петрович": 35,
-      "Баков Антон Алексеевич": 141,
-      "Воротников Валерий Павлович": 99,
-      "Глацких Артем Вячеславович": 2,
-      "Канисев Иван Иванович": 16,
-      "Мелехин Валерий Иванович": 2,
-      "Миллеров Всеволод Борисович": 9,
-      "Селиванов Андрей Владимирович": 70,
-      "Против всех": 43
+      "gas:candidate-vibid:1001000220845": 35,
+      "gas:candidate-vibid:1001000214170": 141,
+      "gas:candidate-vibid:1001000131415": 99,
+      "gas:candidate-vibid:366300566753": 2,
+      "gas:candidate-vibid:1001000121913": 16,
+      "gas:candidate-vibid:366300566736": 2,
+      "gas:candidate-vibid:1001000136126": 9,
+      "gas:candidate-vibid:1001000113982": 70,
+      "special:against-all": 43
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=662000064&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=266200066928&region=0&sub_region=0&type=429",
@@ -5842,15 +5842,15 @@ export const duma_2003_uik_428_region_66_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Артюх Евгений Петрович": 38,
-      "Баков Антон Алексеевич": 161,
-      "Воротников Валерий Павлович": 112,
-      "Глацких Артем Вячеславович": 2,
-      "Канисев Иван Иванович": 1,
-      "Мелехин Валерий Иванович": 3,
-      "Миллеров Всеволод Борисович": 4,
-      "Селиванов Андрей Владимирович": 42,
-      "Против всех": 17
+      "gas:candidate-vibid:1001000220845": 38,
+      "gas:candidate-vibid:1001000214170": 161,
+      "gas:candidate-vibid:1001000131415": 112,
+      "gas:candidate-vibid:366300566753": 2,
+      "gas:candidate-vibid:1001000121913": 1,
+      "gas:candidate-vibid:366300566736": 3,
+      "gas:candidate-vibid:1001000136126": 4,
+      "gas:candidate-vibid:1001000113982": 42,
+      "special:against-all": 17
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=662000064&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=266200066928&region=0&sub_region=0&type=429",
@@ -5900,15 +5900,15 @@ export const duma_2003_uik_428_region_66_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Артюх Евгений Петрович": 28,
-      "Баков Антон Алексеевич": 177,
-      "Воротников Валерий Павлович": 115,
-      "Глацких Артем Вячеславович": 0,
-      "Канисев Иван Иванович": 6,
-      "Мелехин Валерий Иванович": 0,
-      "Миллеров Всеволод Борисович": 11,
-      "Селиванов Андрей Владимирович": 40,
-      "Против всех": 19
+      "gas:candidate-vibid:1001000220845": 28,
+      "gas:candidate-vibid:1001000214170": 177,
+      "gas:candidate-vibid:1001000131415": 115,
+      "gas:candidate-vibid:366300566753": 0,
+      "gas:candidate-vibid:1001000121913": 6,
+      "gas:candidate-vibid:366300566736": 0,
+      "gas:candidate-vibid:1001000136126": 11,
+      "gas:candidate-vibid:1001000113982": 40,
+      "special:against-all": 19
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=662000064&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=266200066928&region=0&sub_region=0&type=429",
@@ -5958,15 +5958,15 @@ export const duma_2003_uik_428_region_66_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Артюх Евгений Петрович": 75,
-      "Баков Антон Алексеевич": 463,
-      "Воротников Валерий Павлович": 61,
-      "Глацких Артем Вячеславович": 2,
-      "Канисев Иван Иванович": 8,
-      "Мелехин Валерий Иванович": 1,
-      "Миллеров Всеволод Борисович": 16,
-      "Селиванов Андрей Владимирович": 44,
-      "Против всех": 39
+      "gas:candidate-vibid:1001000220845": 75,
+      "gas:candidate-vibid:1001000214170": 463,
+      "gas:candidate-vibid:1001000131415": 61,
+      "gas:candidate-vibid:366300566753": 2,
+      "gas:candidate-vibid:1001000121913": 8,
+      "gas:candidate-vibid:366300566736": 1,
+      "gas:candidate-vibid:1001000136126": 16,
+      "gas:candidate-vibid:1001000113982": 44,
+      "special:against-all": 39
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=662000064&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=266200066928&region=0&sub_region=0&type=429",
@@ -6016,15 +6016,15 @@ export const duma_2003_uik_428_region_66_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Артюх Евгений Петрович": 136,
-      "Баков Антон Алексеевич": 320,
-      "Воротников Валерий Павлович": 178,
-      "Глацких Артем Вячеславович": 4,
-      "Канисев Иван Иванович": 6,
-      "Мелехин Валерий Иванович": 2,
-      "Миллеров Всеволод Борисович": 17,
-      "Селиванов Андрей Владимирович": 88,
-      "Против всех": 66
+      "gas:candidate-vibid:1001000220845": 136,
+      "gas:candidate-vibid:1001000214170": 320,
+      "gas:candidate-vibid:1001000131415": 178,
+      "gas:candidate-vibid:366300566753": 4,
+      "gas:candidate-vibid:1001000121913": 6,
+      "gas:candidate-vibid:366300566736": 2,
+      "gas:candidate-vibid:1001000136126": 17,
+      "gas:candidate-vibid:1001000113982": 88,
+      "special:against-all": 66
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=662000064&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=266200066928&region=0&sub_region=0&type=429",
@@ -6074,15 +6074,15 @@ export const duma_2003_uik_428_region_66_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Артюх Евгений Петрович": 38,
-      "Баков Антон Алексеевич": 92,
-      "Воротников Валерий Павлович": 56,
-      "Глацких Артем Вячеславович": 0,
-      "Канисев Иван Иванович": 0,
-      "Мелехин Валерий Иванович": 1,
-      "Миллеров Всеволод Борисович": 2,
-      "Селиванов Андрей Владимирович": 33,
-      "Против всех": 12
+      "gas:candidate-vibid:1001000220845": 38,
+      "gas:candidate-vibid:1001000214170": 92,
+      "gas:candidate-vibid:1001000131415": 56,
+      "gas:candidate-vibid:366300566753": 0,
+      "gas:candidate-vibid:1001000121913": 0,
+      "gas:candidate-vibid:366300566736": 1,
+      "gas:candidate-vibid:1001000136126": 2,
+      "gas:candidate-vibid:1001000113982": 33,
+      "special:against-all": 12
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=662000064&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=266200066928&region=0&sub_region=0&type=429",
@@ -6132,15 +6132,15 @@ export const duma_2003_uik_428_region_66_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Артюх Евгений Петрович": 77,
-      "Баков Антон Алексеевич": 160,
-      "Воротников Валерий Павлович": 100,
-      "Глацких Артем Вячеславович": 0,
-      "Канисев Иван Иванович": 7,
-      "Мелехин Валерий Иванович": 0,
-      "Миллеров Всеволод Борисович": 14,
-      "Селиванов Андрей Владимирович": 31,
-      "Против всех": 11
+      "gas:candidate-vibid:1001000220845": 77,
+      "gas:candidate-vibid:1001000214170": 160,
+      "gas:candidate-vibid:1001000131415": 100,
+      "gas:candidate-vibid:366300566753": 0,
+      "gas:candidate-vibid:1001000121913": 7,
+      "gas:candidate-vibid:366300566736": 0,
+      "gas:candidate-vibid:1001000136126": 14,
+      "gas:candidate-vibid:1001000113982": 31,
+      "special:against-all": 11
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=662000064&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=266200066928&region=0&sub_region=0&type=429",
@@ -6190,15 +6190,15 @@ export const duma_2003_uik_428_region_66_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Артюх Евгений Петрович": 8,
-      "Баков Антон Алексеевич": 85,
-      "Воротников Валерий Павлович": 81,
-      "Глацких Артем Вячеславович": 0,
-      "Канисев Иван Иванович": 10,
-      "Мелехин Валерий Иванович": 1,
-      "Миллеров Всеволод Борисович": 2,
-      "Селиванов Андрей Владимирович": 82,
-      "Против всех": 16
+      "gas:candidate-vibid:1001000220845": 8,
+      "gas:candidate-vibid:1001000214170": 85,
+      "gas:candidate-vibid:1001000131415": 81,
+      "gas:candidate-vibid:366300566753": 0,
+      "gas:candidate-vibid:1001000121913": 10,
+      "gas:candidate-vibid:366300566736": 1,
+      "gas:candidate-vibid:1001000136126": 2,
+      "gas:candidate-vibid:1001000113982": 82,
+      "special:against-all": 16
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=662000064&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=266200066928&region=0&sub_region=0&type=429",
@@ -6248,15 +6248,15 @@ export const duma_2003_uik_428_region_66_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Артюх Евгений Петрович": 0,
-      "Баков Антон Алексеевич": 35,
-      "Воротников Валерий Павлович": 43,
-      "Глацких Артем Вячеславович": 0,
-      "Канисев Иван Иванович": 0,
-      "Мелехин Валерий Иванович": 1,
-      "Миллеров Всеволод Борисович": 0,
-      "Селиванов Андрей Владимирович": 17,
-      "Против всех": 3
+      "gas:candidate-vibid:1001000220845": 0,
+      "gas:candidate-vibid:1001000214170": 35,
+      "gas:candidate-vibid:1001000131415": 43,
+      "gas:candidate-vibid:366300566753": 0,
+      "gas:candidate-vibid:1001000121913": 0,
+      "gas:candidate-vibid:366300566736": 1,
+      "gas:candidate-vibid:1001000136126": 0,
+      "gas:candidate-vibid:1001000113982": 17,
+      "special:against-all": 3
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=662000064&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=266200066928&region=0&sub_region=0&type=429",
@@ -6306,15 +6306,15 @@ export const duma_2003_uik_428_region_66_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Артюх Евгений Петрович": 1,
-      "Баков Антон Алексеевич": 21,
-      "Воротников Валерий Павлович": 28,
-      "Глацких Артем Вячеславович": 0,
-      "Канисев Иван Иванович": 0,
-      "Мелехин Валерий Иванович": 0,
-      "Миллеров Всеволод Борисович": 2,
-      "Селиванов Андрей Владимирович": 5,
-      "Против всех": 2
+      "gas:candidate-vibid:1001000220845": 1,
+      "gas:candidate-vibid:1001000214170": 21,
+      "gas:candidate-vibid:1001000131415": 28,
+      "gas:candidate-vibid:366300566753": 0,
+      "gas:candidate-vibid:1001000121913": 0,
+      "gas:candidate-vibid:366300566736": 0,
+      "gas:candidate-vibid:1001000136126": 2,
+      "gas:candidate-vibid:1001000113982": 5,
+      "special:against-all": 2
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=662000064&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=266200066928&region=0&sub_region=0&type=429",
@@ -6364,15 +6364,15 @@ export const duma_2003_uik_428_region_66_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Артюх Евгений Петрович": 2,
-      "Баков Антон Алексеевич": 45,
-      "Воротников Валерий Павлович": 32,
-      "Глацких Артем Вячеславович": 0,
-      "Канисев Иван Иванович": 2,
-      "Мелехин Валерий Иванович": 2,
-      "Миллеров Всеволод Борисович": 5,
-      "Селиванов Андрей Владимирович": 102,
-      "Против всех": 8
+      "gas:candidate-vibid:1001000220845": 2,
+      "gas:candidate-vibid:1001000214170": 45,
+      "gas:candidate-vibid:1001000131415": 32,
+      "gas:candidate-vibid:366300566753": 0,
+      "gas:candidate-vibid:1001000121913": 2,
+      "gas:candidate-vibid:366300566736": 2,
+      "gas:candidate-vibid:1001000136126": 5,
+      "gas:candidate-vibid:1001000113982": 102,
+      "special:against-all": 8
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=662000064&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=266200066928&region=0&sub_region=0&type=429",
@@ -6422,15 +6422,15 @@ export const duma_2003_uik_428_region_66_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Артюх Евгений Петрович": 1,
-      "Баков Антон Алексеевич": 7,
-      "Воротников Валерий Павлович": 24,
-      "Глацких Артем Вячеславович": 0,
-      "Канисев Иван Иванович": 0,
-      "Мелехин Валерий Иванович": 0,
-      "Миллеров Всеволод Борисович": 0,
-      "Селиванов Андрей Владимирович": 8,
-      "Против всех": 0
+      "gas:candidate-vibid:1001000220845": 1,
+      "gas:candidate-vibid:1001000214170": 7,
+      "gas:candidate-vibid:1001000131415": 24,
+      "gas:candidate-vibid:366300566753": 0,
+      "gas:candidate-vibid:1001000121913": 0,
+      "gas:candidate-vibid:366300566736": 0,
+      "gas:candidate-vibid:1001000136126": 0,
+      "gas:candidate-vibid:1001000113982": 8,
+      "special:against-all": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=662000064&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=266200066928&region=0&sub_region=0&type=429",
@@ -6480,15 +6480,15 @@ export const duma_2003_uik_428_region_66_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Артюх Евгений Петрович": 2,
-      "Баков Антон Алексеевич": 51,
-      "Воротников Валерий Павлович": 32,
-      "Глацких Артем Вячеславович": 0,
-      "Канисев Иван Иванович": 2,
-      "Мелехин Валерий Иванович": 1,
-      "Миллеров Всеволод Борисович": 1,
-      "Селиванов Андрей Владимирович": 30,
-      "Против всех": 2
+      "gas:candidate-vibid:1001000220845": 2,
+      "gas:candidate-vibid:1001000214170": 51,
+      "gas:candidate-vibid:1001000131415": 32,
+      "gas:candidate-vibid:366300566753": 0,
+      "gas:candidate-vibid:1001000121913": 2,
+      "gas:candidate-vibid:366300566736": 1,
+      "gas:candidate-vibid:1001000136126": 1,
+      "gas:candidate-vibid:1001000113982": 30,
+      "special:against-all": 2
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=662000064&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=266200066928&region=0&sub_region=0&type=429",
@@ -6538,15 +6538,15 @@ export const duma_2003_uik_428_region_66_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Артюх Евгений Петрович": 1,
-      "Баков Антон Алексеевич": 37,
-      "Воротников Валерий Павлович": 21,
-      "Глацких Артем Вячеславович": 1,
-      "Канисев Иван Иванович": 2,
-      "Мелехин Валерий Иванович": 0,
-      "Миллеров Всеволод Борисович": 3,
-      "Селиванов Андрей Владимирович": 21,
-      "Против всех": 10
+      "gas:candidate-vibid:1001000220845": 1,
+      "gas:candidate-vibid:1001000214170": 37,
+      "gas:candidate-vibid:1001000131415": 21,
+      "gas:candidate-vibid:366300566753": 1,
+      "gas:candidate-vibid:1001000121913": 2,
+      "gas:candidate-vibid:366300566736": 0,
+      "gas:candidate-vibid:1001000136126": 3,
+      "gas:candidate-vibid:1001000113982": 21,
+      "special:against-all": 10
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=662000064&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=266200066928&region=0&sub_region=0&type=429",
@@ -6596,15 +6596,15 @@ export const duma_2003_uik_428_region_66_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Артюх Евгений Петрович": 5,
-      "Баков Антон Алексеевич": 26,
-      "Воротников Валерий Павлович": 52,
-      "Глацких Артем Вячеславович": 0,
-      "Канисев Иван Иванович": 0,
-      "Мелехин Валерий Иванович": 0,
-      "Миллеров Всеволод Борисович": 0,
-      "Селиванов Андрей Владимирович": 10,
-      "Против всех": 10
+      "gas:candidate-vibid:1001000220845": 5,
+      "gas:candidate-vibid:1001000214170": 26,
+      "gas:candidate-vibid:1001000131415": 52,
+      "gas:candidate-vibid:366300566753": 0,
+      "gas:candidate-vibid:1001000121913": 0,
+      "gas:candidate-vibid:366300566736": 0,
+      "gas:candidate-vibid:1001000136126": 0,
+      "gas:candidate-vibid:1001000113982": 10,
+      "special:against-all": 10
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=662000064&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=266200066928&region=0&sub_region=0&type=429",
@@ -6654,15 +6654,15 @@ export const duma_2003_uik_428_region_66_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Артюх Евгений Петрович": 4,
-      "Баков Антон Алексеевич": 47,
-      "Воротников Валерий Павлович": 28,
-      "Глацких Артем Вячеславович": 0,
-      "Канисев Иван Иванович": 1,
-      "Мелехин Валерий Иванович": 0,
-      "Миллеров Всеволод Борисович": 0,
-      "Селиванов Андрей Владимирович": 10,
-      "Против всех": 9
+      "gas:candidate-vibid:1001000220845": 4,
+      "gas:candidate-vibid:1001000214170": 47,
+      "gas:candidate-vibid:1001000131415": 28,
+      "gas:candidate-vibid:366300566753": 0,
+      "gas:candidate-vibid:1001000121913": 1,
+      "gas:candidate-vibid:366300566736": 0,
+      "gas:candidate-vibid:1001000136126": 0,
+      "gas:candidate-vibid:1001000113982": 10,
+      "special:against-all": 9
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=662000064&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=266200066928&region=0&sub_region=0&type=429",
@@ -6712,15 +6712,15 @@ export const duma_2003_uik_428_region_66_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Артюх Евгений Петрович": 0,
-      "Баков Антон Алексеевич": 32,
-      "Воротников Валерий Павлович": 32,
-      "Глацких Артем Вячеславович": 0,
-      "Канисев Иван Иванович": 0,
-      "Мелехин Валерий Иванович": 0,
-      "Миллеров Всеволод Борисович": 4,
-      "Селиванов Андрей Владимирович": 2,
-      "Против всех": 5
+      "gas:candidate-vibid:1001000220845": 0,
+      "gas:candidate-vibid:1001000214170": 32,
+      "gas:candidate-vibid:1001000131415": 32,
+      "gas:candidate-vibid:366300566753": 0,
+      "gas:candidate-vibid:1001000121913": 0,
+      "gas:candidate-vibid:366300566736": 0,
+      "gas:candidate-vibid:1001000136126": 4,
+      "gas:candidate-vibid:1001000113982": 2,
+      "special:against-all": 5
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=662000064&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=266200066928&region=0&sub_region=0&type=429",
@@ -6770,15 +6770,15 @@ export const duma_2003_uik_428_region_66_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Артюх Евгений Петрович": 3,
-      "Баков Антон Алексеевич": 68,
-      "Воротников Валерий Павлович": 80,
-      "Глацких Артем Вячеславович": 2,
-      "Канисев Иван Иванович": 1,
-      "Мелехин Валерий Иванович": 1,
-      "Миллеров Всеволод Борисович": 2,
-      "Селиванов Андрей Владимирович": 56,
-      "Против всех": 14
+      "gas:candidate-vibid:1001000220845": 3,
+      "gas:candidate-vibid:1001000214170": 68,
+      "gas:candidate-vibid:1001000131415": 80,
+      "gas:candidate-vibid:366300566753": 2,
+      "gas:candidate-vibid:1001000121913": 1,
+      "gas:candidate-vibid:366300566736": 1,
+      "gas:candidate-vibid:1001000136126": 2,
+      "gas:candidate-vibid:1001000113982": 56,
+      "special:against-all": 14
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=662000064&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=266200066928&region=0&sub_region=0&type=429",
@@ -6828,15 +6828,15 @@ export const duma_2003_uik_428_region_66_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Артюх Евгений Петрович": 0,
-      "Баков Антон Алексеевич": 26,
-      "Воротников Валерий Павлович": 4,
-      "Глацких Артем Вячеславович": 0,
-      "Канисев Иван Иванович": 0,
-      "Мелехин Валерий Иванович": 2,
-      "Миллеров Всеволод Борисович": 1,
-      "Селиванов Андрей Владимирович": 23,
-      "Против всех": 4
+      "gas:candidate-vibid:1001000220845": 0,
+      "gas:candidate-vibid:1001000214170": 26,
+      "gas:candidate-vibid:1001000131415": 4,
+      "gas:candidate-vibid:366300566753": 0,
+      "gas:candidate-vibid:1001000121913": 0,
+      "gas:candidate-vibid:366300566736": 2,
+      "gas:candidate-vibid:1001000136126": 1,
+      "gas:candidate-vibid:1001000113982": 23,
+      "special:against-all": 4
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=662000064&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=266200066928&region=0&sub_region=0&type=429",
@@ -6886,15 +6886,15 @@ export const duma_2003_uik_428_region_66_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Артюх Евгений Петрович": 20,
-      "Баков Антон Алексеевич": 281,
-      "Воротников Валерий Павлович": 146,
-      "Глацких Артем Вячеславович": 6,
-      "Канисев Иван Иванович": 13,
-      "Мелехин Валерий Иванович": 7,
-      "Миллеров Всеволод Борисович": 15,
-      "Селиванов Андрей Владимирович": 82,
-      "Против всех": 80
+      "gas:candidate-vibid:1001000220845": 20,
+      "gas:candidate-vibid:1001000214170": 281,
+      "gas:candidate-vibid:1001000131415": 146,
+      "gas:candidate-vibid:366300566753": 6,
+      "gas:candidate-vibid:1001000121913": 13,
+      "gas:candidate-vibid:366300566736": 7,
+      "gas:candidate-vibid:1001000136126": 15,
+      "gas:candidate-vibid:1001000113982": 82,
+      "special:against-all": 80
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=662000065&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=266200066929&region=0&sub_region=0&type=429",
@@ -6944,15 +6944,15 @@ export const duma_2003_uik_428_region_66_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Артюх Евгений Петрович": 16,
-      "Баков Антон Алексеевич": 371,
-      "Воротников Валерий Павлович": 138,
-      "Глацких Артем Вячеславович": 3,
-      "Канисев Иван Иванович": 13,
-      "Мелехин Валерий Иванович": 10,
-      "Миллеров Всеволод Борисович": 16,
-      "Селиванов Андрей Владимирович": 99,
-      "Против всех": 61
+      "gas:candidate-vibid:1001000220845": 16,
+      "gas:candidate-vibid:1001000214170": 371,
+      "gas:candidate-vibid:1001000131415": 138,
+      "gas:candidate-vibid:366300566753": 3,
+      "gas:candidate-vibid:1001000121913": 13,
+      "gas:candidate-vibid:366300566736": 10,
+      "gas:candidate-vibid:1001000136126": 16,
+      "gas:candidate-vibid:1001000113982": 99,
+      "special:against-all": 61
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=662000065&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=266200066929&region=0&sub_region=0&type=429",
@@ -7002,15 +7002,15 @@ export const duma_2003_uik_428_region_66_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Артюх Евгений Петрович": 53,
-      "Баков Антон Алексеевич": 662,
-      "Воротников Валерий Павлович": 153,
-      "Глацких Артем Вячеславович": 10,
-      "Канисев Иван Иванович": 44,
-      "Мелехин Валерий Иванович": 28,
-      "Миллеров Всеволод Борисович": 26,
-      "Селиванов Андрей Владимирович": 272,
-      "Против всех": 188
+      "gas:candidate-vibid:1001000220845": 53,
+      "gas:candidate-vibid:1001000214170": 662,
+      "gas:candidate-vibid:1001000131415": 153,
+      "gas:candidate-vibid:366300566753": 10,
+      "gas:candidate-vibid:1001000121913": 44,
+      "gas:candidate-vibid:366300566736": 28,
+      "gas:candidate-vibid:1001000136126": 26,
+      "gas:candidate-vibid:1001000113982": 272,
+      "special:against-all": 188
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=662000065&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=266200066929&region=0&sub_region=0&type=429",
@@ -7060,15 +7060,15 @@ export const duma_2003_uik_428_region_66_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Артюх Евгений Петрович": 33,
-      "Баков Антон Алексеевич": 606,
-      "Воротников Валерий Павлович": 197,
-      "Глацких Артем Вячеславович": 10,
-      "Канисев Иван Иванович": 22,
-      "Мелехин Валерий Иванович": 26,
-      "Миллеров Всеволод Борисович": 32,
-      "Селиванов Андрей Владимирович": 201,
-      "Против всех": 124
+      "gas:candidate-vibid:1001000220845": 33,
+      "gas:candidate-vibid:1001000214170": 606,
+      "gas:candidate-vibid:1001000131415": 197,
+      "gas:candidate-vibid:366300566753": 10,
+      "gas:candidate-vibid:1001000121913": 22,
+      "gas:candidate-vibid:366300566736": 26,
+      "gas:candidate-vibid:1001000136126": 32,
+      "gas:candidate-vibid:1001000113982": 201,
+      "special:against-all": 124
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=662000065&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=266200066929&region=0&sub_region=0&type=429",
@@ -7118,15 +7118,15 @@ export const duma_2003_uik_428_region_66_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Артюх Евгений Петрович": 47,
-      "Баков Антон Алексеевич": 612,
-      "Воротников Валерий Павлович": 214,
-      "Глацких Артем Вячеславович": 13,
-      "Канисев Иван Иванович": 32,
-      "Мелехин Валерий Иванович": 12,
-      "Миллеров Всеволод Борисович": 21,
-      "Селиванов Андрей Владимирович": 239,
-      "Против всех": 157
+      "gas:candidate-vibid:1001000220845": 47,
+      "gas:candidate-vibid:1001000214170": 612,
+      "gas:candidate-vibid:1001000131415": 214,
+      "gas:candidate-vibid:366300566753": 13,
+      "gas:candidate-vibid:1001000121913": 32,
+      "gas:candidate-vibid:366300566736": 12,
+      "gas:candidate-vibid:1001000136126": 21,
+      "gas:candidate-vibid:1001000113982": 239,
+      "special:against-all": 157
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=662000065&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=266200066929&region=0&sub_region=0&type=429",
@@ -7176,15 +7176,15 @@ export const duma_2003_uik_428_region_66_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Артюх Евгений Петрович": 47,
-      "Баков Антон Алексеевич": 605,
-      "Воротников Валерий Павлович": 177,
-      "Глацких Артем Вячеславович": 6,
-      "Канисев Иван Иванович": 38,
-      "Мелехин Валерий Иванович": 18,
-      "Миллеров Всеволод Борисович": 25,
-      "Селиванов Андрей Владимирович": 182,
-      "Против всех": 140
+      "gas:candidate-vibid:1001000220845": 47,
+      "gas:candidate-vibid:1001000214170": 605,
+      "gas:candidate-vibid:1001000131415": 177,
+      "gas:candidate-vibid:366300566753": 6,
+      "gas:candidate-vibid:1001000121913": 38,
+      "gas:candidate-vibid:366300566736": 18,
+      "gas:candidate-vibid:1001000136126": 25,
+      "gas:candidate-vibid:1001000113982": 182,
+      "special:against-all": 140
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=662000065&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=266200066929&region=0&sub_region=0&type=429",
@@ -7234,15 +7234,15 @@ export const duma_2003_uik_428_region_66_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Артюх Евгений Петрович": 53,
-      "Баков Антон Алексеевич": 616,
-      "Воротников Валерий Павлович": 165,
-      "Глацких Артем Вячеславович": 9,
-      "Канисев Иван Иванович": 28,
-      "Мелехин Валерий Иванович": 23,
-      "Миллеров Всеволод Борисович": 19,
-      "Селиванов Андрей Владимирович": 199,
-      "Против всех": 171
+      "gas:candidate-vibid:1001000220845": 53,
+      "gas:candidate-vibid:1001000214170": 616,
+      "gas:candidate-vibid:1001000131415": 165,
+      "gas:candidate-vibid:366300566753": 9,
+      "gas:candidate-vibid:1001000121913": 28,
+      "gas:candidate-vibid:366300566736": 23,
+      "gas:candidate-vibid:1001000136126": 19,
+      "gas:candidate-vibid:1001000113982": 199,
+      "special:against-all": 171
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=662000065&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=266200066929&region=0&sub_region=0&type=429",
@@ -7292,15 +7292,15 @@ export const duma_2003_uik_428_region_66_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Артюх Евгений Петрович": 54,
-      "Баков Антон Алексеевич": 488,
-      "Воротников Валерий Павлович": 187,
-      "Глацких Артем Вячеславович": 14,
-      "Канисев Иван Иванович": 47,
-      "Мелехин Валерий Иванович": 9,
-      "Миллеров Всеволод Борисович": 16,
-      "Селиванов Андрей Владимирович": 168,
-      "Против всех": 159
+      "gas:candidate-vibid:1001000220845": 54,
+      "gas:candidate-vibid:1001000214170": 488,
+      "gas:candidate-vibid:1001000131415": 187,
+      "gas:candidate-vibid:366300566753": 14,
+      "gas:candidate-vibid:1001000121913": 47,
+      "gas:candidate-vibid:366300566736": 9,
+      "gas:candidate-vibid:1001000136126": 16,
+      "gas:candidate-vibid:1001000113982": 168,
+      "special:against-all": 159
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=662000065&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=266200066929&region=0&sub_region=0&type=429",
@@ -7350,15 +7350,15 @@ export const duma_2003_uik_428_region_66_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Артюх Евгений Петрович": 39,
-      "Баков Антон Алексеевич": 396,
-      "Воротников Валерий Павлович": 135,
-      "Глацких Артем Вячеславович": 11,
-      "Канисев Иван Иванович": 24,
-      "Мелехин Валерий Иванович": 12,
-      "Миллеров Всеволод Борисович": 27,
-      "Селиванов Андрей Владимирович": 160,
-      "Против всех": 163
+      "gas:candidate-vibid:1001000220845": 39,
+      "gas:candidate-vibid:1001000214170": 396,
+      "gas:candidate-vibid:1001000131415": 135,
+      "gas:candidate-vibid:366300566753": 11,
+      "gas:candidate-vibid:1001000121913": 24,
+      "gas:candidate-vibid:366300566736": 12,
+      "gas:candidate-vibid:1001000136126": 27,
+      "gas:candidate-vibid:1001000113982": 160,
+      "special:against-all": 163
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=662000065&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=266200066929&region=0&sub_region=0&type=429",
@@ -7408,15 +7408,15 @@ export const duma_2003_uik_428_region_66_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Артюх Евгений Петрович": 6,
-      "Баков Антон Алексеевич": 96,
-      "Воротников Валерий Павлович": 39,
-      "Глацких Артем Вячеславович": 1,
-      "Канисев Иван Иванович": 9,
-      "Мелехин Валерий Иванович": 4,
-      "Миллеров Всеволод Борисович": 16,
-      "Селиванов Андрей Владимирович": 117,
-      "Против всех": 42
+      "gas:candidate-vibid:1001000220845": 6,
+      "gas:candidate-vibid:1001000214170": 96,
+      "gas:candidate-vibid:1001000131415": 39,
+      "gas:candidate-vibid:366300566753": 1,
+      "gas:candidate-vibid:1001000121913": 9,
+      "gas:candidate-vibid:366300566736": 4,
+      "gas:candidate-vibid:1001000136126": 16,
+      "gas:candidate-vibid:1001000113982": 117,
+      "special:against-all": 42
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=662000065&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=266200066929&region=0&sub_region=0&type=429",
@@ -7466,15 +7466,15 @@ export const duma_2003_uik_428_region_66_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Артюх Евгений Петрович": 34,
-      "Баков Антон Алексеевич": 622,
-      "Воротников Валерий Павлович": 158,
-      "Глацких Артем Вячеславович": 13,
-      "Канисев Иван Иванович": 72,
-      "Мелехин Валерий Иванович": 6,
-      "Миллеров Всеволод Борисович": 17,
-      "Селиванов Андрей Владимирович": 377,
-      "Против всех": 116
+      "gas:candidate-vibid:1001000220845": 34,
+      "gas:candidate-vibid:1001000214170": 622,
+      "gas:candidate-vibid:1001000131415": 158,
+      "gas:candidate-vibid:366300566753": 13,
+      "gas:candidate-vibid:1001000121913": 72,
+      "gas:candidate-vibid:366300566736": 6,
+      "gas:candidate-vibid:1001000136126": 17,
+      "gas:candidate-vibid:1001000113982": 377,
+      "special:against-all": 116
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=662000065&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=266200066929&region=0&sub_region=0&type=429",
@@ -7524,15 +7524,15 @@ export const duma_2003_uik_428_region_66_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Артюх Евгений Петрович": 0,
-      "Баков Антон Алексеевич": 69,
-      "Воротников Валерий Павлович": 1,
-      "Глацких Артем Вячеславович": 0,
-      "Канисев Иван Иванович": 2,
-      "Мелехин Валерий Иванович": 0,
-      "Миллеров Всеволод Борисович": 1,
-      "Селиванов Андрей Владимирович": 6,
-      "Против всех": 7
+      "gas:candidate-vibid:1001000220845": 0,
+      "gas:candidate-vibid:1001000214170": 69,
+      "gas:candidate-vibid:1001000131415": 1,
+      "gas:candidate-vibid:366300566753": 0,
+      "gas:candidate-vibid:1001000121913": 2,
+      "gas:candidate-vibid:366300566736": 0,
+      "gas:candidate-vibid:1001000136126": 1,
+      "gas:candidate-vibid:1001000113982": 6,
+      "special:against-all": 7
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=662000065&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=266200066929&region=0&sub_region=0&type=429",
@@ -7582,15 +7582,15 @@ export const duma_2003_uik_428_region_66_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Артюх Евгений Петрович": 5,
-      "Баков Антон Алексеевич": 94,
-      "Воротников Валерий Павлович": 13,
-      "Глацких Артем Вячеславович": 3,
-      "Канисев Иван Иванович": 3,
-      "Мелехин Валерий Иванович": 3,
-      "Миллеров Всеволод Борисович": 12,
-      "Селиванов Андрей Владимирович": 143,
-      "Против всех": 63
+      "gas:candidate-vibid:1001000220845": 5,
+      "gas:candidate-vibid:1001000214170": 94,
+      "gas:candidate-vibid:1001000131415": 13,
+      "gas:candidate-vibid:366300566753": 3,
+      "gas:candidate-vibid:1001000121913": 3,
+      "gas:candidate-vibid:366300566736": 3,
+      "gas:candidate-vibid:1001000136126": 12,
+      "gas:candidate-vibid:1001000113982": 143,
+      "special:against-all": 63
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=662000065&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=266200066929&region=0&sub_region=0&type=429",
@@ -7640,15 +7640,15 @@ export const duma_2003_uik_428_region_66_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Артюх Евгений Петрович": 2,
-      "Баков Антон Алексеевич": 48,
-      "Воротников Валерий Павлович": 20,
-      "Глацких Артем Вячеславович": 2,
-      "Канисев Иван Иванович": 0,
-      "Мелехин Валерий Иванович": 2,
-      "Миллеров Всеволод Борисович": 2,
-      "Селиванов Андрей Владимирович": 139,
-      "Против всех": 24
+      "gas:candidate-vibid:1001000220845": 2,
+      "gas:candidate-vibid:1001000214170": 48,
+      "gas:candidate-vibid:1001000131415": 20,
+      "gas:candidate-vibid:366300566753": 2,
+      "gas:candidate-vibid:1001000121913": 0,
+      "gas:candidate-vibid:366300566736": 2,
+      "gas:candidate-vibid:1001000136126": 2,
+      "gas:candidate-vibid:1001000113982": 139,
+      "special:against-all": 24
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=662000065&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=266200066929&region=0&sub_region=0&type=429",
@@ -7698,15 +7698,15 @@ export const duma_2003_uik_428_region_66_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Артюх Евгений Петрович": 6,
-      "Баков Антон Алексеевич": 57,
-      "Воротников Валерий Павлович": 12,
-      "Глацких Артем Вячеславович": 1,
-      "Канисев Иван Иванович": 4,
-      "Мелехин Валерий Иванович": 4,
-      "Миллеров Всеволод Борисович": 4,
-      "Селиванов Андрей Владимирович": 32,
-      "Против всех": 11
+      "gas:candidate-vibid:1001000220845": 6,
+      "gas:candidate-vibid:1001000214170": 57,
+      "gas:candidate-vibid:1001000131415": 12,
+      "gas:candidate-vibid:366300566753": 1,
+      "gas:candidate-vibid:1001000121913": 4,
+      "gas:candidate-vibid:366300566736": 4,
+      "gas:candidate-vibid:1001000136126": 4,
+      "gas:candidate-vibid:1001000113982": 32,
+      "special:against-all": 11
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=662000065&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=266200066929&region=0&sub_region=0&type=429",
@@ -7756,15 +7756,15 @@ export const duma_2003_uik_428_region_66_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Артюх Евгений Петрович": 1,
-      "Баков Антон Алексеевич": 50,
-      "Воротников Валерий Павлович": 29,
-      "Глацких Артем Вячеславович": 1,
-      "Канисев Иван Иванович": 5,
-      "Мелехин Валерий Иванович": 0,
-      "Миллеров Всеволод Борисович": 2,
-      "Селиванов Андрей Владимирович": 13,
-      "Против всех": 5
+      "gas:candidate-vibid:1001000220845": 1,
+      "gas:candidate-vibid:1001000214170": 50,
+      "gas:candidate-vibid:1001000131415": 29,
+      "gas:candidate-vibid:366300566753": 1,
+      "gas:candidate-vibid:1001000121913": 5,
+      "gas:candidate-vibid:366300566736": 0,
+      "gas:candidate-vibid:1001000136126": 2,
+      "gas:candidate-vibid:1001000113982": 13,
+      "special:against-all": 5
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=662000065&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=266200066929&region=0&sub_region=0&type=429",
@@ -7814,15 +7814,15 @@ export const duma_2003_uik_428_region_66_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Артюх Евгений Петрович": 3,
-      "Баков Антон Алексеевич": 21,
-      "Воротников Валерий Павлович": 26,
-      "Глацких Артем Вячеславович": 1,
-      "Канисев Иван Иванович": 3,
-      "Мелехин Валерий Иванович": 0,
-      "Миллеров Всеволод Борисович": 0,
-      "Селиванов Андрей Владимирович": 45,
-      "Против всех": 7
+      "gas:candidate-vibid:1001000220845": 3,
+      "gas:candidate-vibid:1001000214170": 21,
+      "gas:candidate-vibid:1001000131415": 26,
+      "gas:candidate-vibid:366300566753": 1,
+      "gas:candidate-vibid:1001000121913": 3,
+      "gas:candidate-vibid:366300566736": 0,
+      "gas:candidate-vibid:1001000136126": 0,
+      "gas:candidate-vibid:1001000113982": 45,
+      "special:against-all": 7
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=662000065&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=266200066929&region=0&sub_region=0&type=429",
@@ -7872,15 +7872,15 @@ export const duma_2003_uik_428_region_66_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Артюх Евгений Петрович": 3,
-      "Баков Антон Алексеевич": 36,
-      "Воротников Валерий Павлович": 3,
-      "Глацких Артем Вячеславович": 1,
-      "Канисев Иван Иванович": 2,
-      "Мелехин Валерий Иванович": 0,
-      "Миллеров Всеволод Борисович": 0,
-      "Селиванов Андрей Владимирович": 102,
-      "Против всех": 18
+      "gas:candidate-vibid:1001000220845": 3,
+      "gas:candidate-vibid:1001000214170": 36,
+      "gas:candidate-vibid:1001000131415": 3,
+      "gas:candidate-vibid:366300566753": 1,
+      "gas:candidate-vibid:1001000121913": 2,
+      "gas:candidate-vibid:366300566736": 0,
+      "gas:candidate-vibid:1001000136126": 0,
+      "gas:candidate-vibid:1001000113982": 102,
+      "special:against-all": 18
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=662000065&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=266200066929&region=0&sub_region=0&type=429",
@@ -7930,15 +7930,15 @@ export const duma_2003_uik_428_region_66_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Артюх Евгений Петрович": 46,
-      "Баков Антон Алексеевич": 365,
-      "Воротников Валерий Павлович": 134,
-      "Глацких Артем Вячеславович": 28,
-      "Канисев Иван Иванович": 34,
-      "Мелехин Валерий Иванович": 11,
-      "Миллеров Всеволод Борисович": 25,
-      "Селиванов Андрей Владимирович": 139,
-      "Против всех": 109
+      "gas:candidate-vibid:1001000220845": 46,
+      "gas:candidate-vibid:1001000214170": 365,
+      "gas:candidate-vibid:1001000131415": 134,
+      "gas:candidate-vibid:366300566753": 28,
+      "gas:candidate-vibid:1001000121913": 34,
+      "gas:candidate-vibid:366300566736": 11,
+      "gas:candidate-vibid:1001000136126": 25,
+      "gas:candidate-vibid:1001000113982": 139,
+      "special:against-all": 109
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=662000066&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=266200066930&region=0&sub_region=0&type=429",
@@ -7988,15 +7988,15 @@ export const duma_2003_uik_428_region_66_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Артюх Евгений Петрович": 67,
-      "Баков Антон Алексеевич": 471,
-      "Воротников Валерий Павлович": 143,
-      "Глацких Артем Вячеславович": 54,
-      "Канисев Иван Иванович": 39,
-      "Мелехин Валерий Иванович": 18,
-      "Миллеров Всеволод Борисович": 44,
-      "Селиванов Андрей Владимирович": 165,
-      "Против всех": 216
+      "gas:candidate-vibid:1001000220845": 67,
+      "gas:candidate-vibid:1001000214170": 471,
+      "gas:candidate-vibid:1001000131415": 143,
+      "gas:candidate-vibid:366300566753": 54,
+      "gas:candidate-vibid:1001000121913": 39,
+      "gas:candidate-vibid:366300566736": 18,
+      "gas:candidate-vibid:1001000136126": 44,
+      "gas:candidate-vibid:1001000113982": 165,
+      "special:against-all": 216
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=662000066&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=266200066930&region=0&sub_region=0&type=429",
@@ -8046,15 +8046,15 @@ export const duma_2003_uik_428_region_66_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Артюх Евгений Петрович": 39,
-      "Баков Антон Алексеевич": 396,
-      "Воротников Валерий Павлович": 161,
-      "Глацких Артем Вячеславович": 42,
-      "Канисев Иван Иванович": 26,
-      "Мелехин Валерий Иванович": 17,
-      "Миллеров Всеволод Борисович": 33,
-      "Селиванов Андрей Владимирович": 197,
-      "Против всех": 206
+      "gas:candidate-vibid:1001000220845": 39,
+      "gas:candidate-vibid:1001000214170": 396,
+      "gas:candidate-vibid:1001000131415": 161,
+      "gas:candidate-vibid:366300566753": 42,
+      "gas:candidate-vibid:1001000121913": 26,
+      "gas:candidate-vibid:366300566736": 17,
+      "gas:candidate-vibid:1001000136126": 33,
+      "gas:candidate-vibid:1001000113982": 197,
+      "special:against-all": 206
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=662000066&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=266200066930&region=0&sub_region=0&type=429",
@@ -8104,15 +8104,15 @@ export const duma_2003_uik_428_region_66_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Артюх Евгений Петрович": 43,
-      "Баков Антон Алексеевич": 342,
-      "Воротников Валерий Павлович": 117,
-      "Глацких Артем Вячеславович": 21,
-      "Канисев Иван Иванович": 24,
-      "Мелехин Валерий Иванович": 9,
-      "Миллеров Всеволод Борисович": 16,
-      "Селиванов Андрей Владимирович": 152,
-      "Против всех": 123
+      "gas:candidate-vibid:1001000220845": 43,
+      "gas:candidate-vibid:1001000214170": 342,
+      "gas:candidate-vibid:1001000131415": 117,
+      "gas:candidate-vibid:366300566753": 21,
+      "gas:candidate-vibid:1001000121913": 24,
+      "gas:candidate-vibid:366300566736": 9,
+      "gas:candidate-vibid:1001000136126": 16,
+      "gas:candidate-vibid:1001000113982": 152,
+      "special:against-all": 123
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=662000066&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=266200066930&region=0&sub_region=0&type=429",
@@ -8162,15 +8162,15 @@ export const duma_2003_uik_428_region_66_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Артюх Евгений Петрович": 51,
-      "Баков Антон Алексеевич": 469,
-      "Воротников Валерий Павлович": 367,
-      "Глацких Артем Вячеславович": 49,
-      "Канисев Иван Иванович": 49,
-      "Мелехин Валерий Иванович": 54,
-      "Миллеров Всеволод Борисович": 92,
-      "Селиванов Андрей Владимирович": 230,
-      "Против всех": 334
+      "gas:candidate-vibid:1001000220845": 51,
+      "gas:candidate-vibid:1001000214170": 469,
+      "gas:candidate-vibid:1001000131415": 367,
+      "gas:candidate-vibid:366300566753": 49,
+      "gas:candidate-vibid:1001000121913": 49,
+      "gas:candidate-vibid:366300566736": 54,
+      "gas:candidate-vibid:1001000136126": 92,
+      "gas:candidate-vibid:1001000113982": 230,
+      "special:against-all": 334
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=662000066&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=266200066930&region=0&sub_region=0&type=429",
@@ -8220,15 +8220,15 @@ export const duma_2003_uik_428_region_66_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Артюх Евгений Петрович": 34,
-      "Баков Антон Алексеевич": 274,
-      "Воротников Валерий Павлович": 144,
-      "Глацких Артем Вячеславович": 34,
-      "Канисев Иван Иванович": 45,
-      "Мелехин Валерий Иванович": 13,
-      "Миллеров Всеволод Борисович": 18,
-      "Селиванов Андрей Владимирович": 171,
-      "Против всех": 131
+      "gas:candidate-vibid:1001000220845": 34,
+      "gas:candidate-vibid:1001000214170": 274,
+      "gas:candidate-vibid:1001000131415": 144,
+      "gas:candidate-vibid:366300566753": 34,
+      "gas:candidate-vibid:1001000121913": 45,
+      "gas:candidate-vibid:366300566736": 13,
+      "gas:candidate-vibid:1001000136126": 18,
+      "gas:candidate-vibid:1001000113982": 171,
+      "special:against-all": 131
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=662000066&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=266200066930&region=0&sub_region=0&type=429",
@@ -8278,15 +8278,15 @@ export const duma_2003_uik_428_region_66_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Артюх Евгений Петрович": 44,
-      "Баков Антон Алексеевич": 313,
-      "Воротников Валерий Павлович": 167,
-      "Глацких Артем Вячеславович": 48,
-      "Канисев Иван Иванович": 43,
-      "Мелехин Валерий Иванович": 19,
-      "Миллеров Всеволод Борисович": 26,
-      "Селиванов Андрей Владимирович": 183,
-      "Против всех": 187
+      "gas:candidate-vibid:1001000220845": 44,
+      "gas:candidate-vibid:1001000214170": 313,
+      "gas:candidate-vibid:1001000131415": 167,
+      "gas:candidate-vibid:366300566753": 48,
+      "gas:candidate-vibid:1001000121913": 43,
+      "gas:candidate-vibid:366300566736": 19,
+      "gas:candidate-vibid:1001000136126": 26,
+      "gas:candidate-vibid:1001000113982": 183,
+      "special:against-all": 187
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=662000066&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=266200066930&region=0&sub_region=0&type=429",
@@ -8336,15 +8336,15 @@ export const duma_2003_uik_428_region_66_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Артюх Евгений Петрович": 46,
-      "Баков Антон Алексеевич": 447,
-      "Воротников Валерий Павлович": 208,
-      "Глацких Артем Вячеславович": 40,
-      "Канисев Иван Иванович": 42,
-      "Мелехин Валерий Иванович": 22,
-      "Миллеров Всеволод Борисович": 20,
-      "Селиванов Андрей Владимирович": 225,
-      "Против всех": 207
+      "gas:candidate-vibid:1001000220845": 46,
+      "gas:candidate-vibid:1001000214170": 447,
+      "gas:candidate-vibid:1001000131415": 208,
+      "gas:candidate-vibid:366300566753": 40,
+      "gas:candidate-vibid:1001000121913": 42,
+      "gas:candidate-vibid:366300566736": 22,
+      "gas:candidate-vibid:1001000136126": 20,
+      "gas:candidate-vibid:1001000113982": 225,
+      "special:against-all": 207
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=662000066&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=266200066930&region=0&sub_region=0&type=429",
@@ -8394,15 +8394,15 @@ export const duma_2003_uik_428_region_66_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Артюх Евгений Петрович": 32,
-      "Баков Антон Алексеевич": 295,
-      "Воротников Валерий Павлович": 141,
-      "Глацких Артем Вячеславович": 14,
-      "Канисев Иван Иванович": 50,
-      "Мелехин Валерий Иванович": 5,
-      "Миллеров Всеволод Борисович": 10,
-      "Селиванов Андрей Владимирович": 175,
-      "Против всех": 112
+      "gas:candidate-vibid:1001000220845": 32,
+      "gas:candidate-vibid:1001000214170": 295,
+      "gas:candidate-vibid:1001000131415": 141,
+      "gas:candidate-vibid:366300566753": 14,
+      "gas:candidate-vibid:1001000121913": 50,
+      "gas:candidate-vibid:366300566736": 5,
+      "gas:candidate-vibid:1001000136126": 10,
+      "gas:candidate-vibid:1001000113982": 175,
+      "special:against-all": 112
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=662000066&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=266200066930&region=0&sub_region=0&type=429",
@@ -8452,15 +8452,15 @@ export const duma_2003_uik_428_region_66_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Артюх Евгений Петрович": 66,
-      "Баков Антон Алексеевич": 465,
-      "Воротников Валерий Павлович": 236,
-      "Глацких Артем Вячеславович": 43,
-      "Канисев Иван Иванович": 70,
-      "Мелехин Валерий Иванович": 24,
-      "Миллеров Всеволод Борисович": 25,
-      "Селиванов Андрей Владимирович": 287,
-      "Против всех": 235
+      "gas:candidate-vibid:1001000220845": 66,
+      "gas:candidate-vibid:1001000214170": 465,
+      "gas:candidate-vibid:1001000131415": 236,
+      "gas:candidate-vibid:366300566753": 43,
+      "gas:candidate-vibid:1001000121913": 70,
+      "gas:candidate-vibid:366300566736": 24,
+      "gas:candidate-vibid:1001000136126": 25,
+      "gas:candidate-vibid:1001000113982": 287,
+      "special:against-all": 235
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=662000066&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=266200066930&region=0&sub_region=0&type=429",
@@ -8510,15 +8510,15 @@ export const duma_2003_uik_428_region_66_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Артюх Евгений Петрович": 64,
-      "Баков Антон Алексеевич": 448,
-      "Воротников Валерий Павлович": 229,
-      "Глацких Артем Вячеславович": 36,
-      "Канисев Иван Иванович": 56,
-      "Мелехин Валерий Иванович": 15,
-      "Миллеров Всеволод Борисович": 32,
-      "Селиванов Андрей Владимирович": 235,
-      "Против всех": 220
+      "gas:candidate-vibid:1001000220845": 64,
+      "gas:candidate-vibid:1001000214170": 448,
+      "gas:candidate-vibid:1001000131415": 229,
+      "gas:candidate-vibid:366300566753": 36,
+      "gas:candidate-vibid:1001000121913": 56,
+      "gas:candidate-vibid:366300566736": 15,
+      "gas:candidate-vibid:1001000136126": 32,
+      "gas:candidate-vibid:1001000113982": 235,
+      "special:against-all": 220
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=662000066&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=266200066930&region=0&sub_region=0&type=429",
@@ -8568,15 +8568,15 @@ export const duma_2003_uik_428_region_66_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Артюх Евгений Петрович": 43,
-      "Баков Антон Алексеевич": 228,
-      "Воротников Валерий Павлович": 107,
-      "Глацких Артем Вячеславович": 37,
-      "Канисев Иван Иванович": 53,
-      "Мелехин Валерий Иванович": 15,
-      "Миллеров Всеволод Борисович": 34,
-      "Селиванов Андрей Владимирович": 126,
-      "Против всех": 179
+      "gas:candidate-vibid:1001000220845": 43,
+      "gas:candidate-vibid:1001000214170": 228,
+      "gas:candidate-vibid:1001000131415": 107,
+      "gas:candidate-vibid:366300566753": 37,
+      "gas:candidate-vibid:1001000121913": 53,
+      "gas:candidate-vibid:366300566736": 15,
+      "gas:candidate-vibid:1001000136126": 34,
+      "gas:candidate-vibid:1001000113982": 126,
+      "special:against-all": 179
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=662000066&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=266200066930&region=0&sub_region=0&type=429",
@@ -8626,15 +8626,15 @@ export const duma_2003_uik_428_region_66_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Артюх Евгений Петрович": 26,
-      "Баков Антон Алексеевич": 347,
-      "Воротников Валерий Павлович": 108,
-      "Глацких Артем Вячеславович": 23,
-      "Канисев Иван Иванович": 20,
-      "Мелехин Валерий Иванович": 9,
-      "Миллеров Всеволод Борисович": 16,
-      "Селиванов Андрей Владимирович": 113,
-      "Против всех": 125
+      "gas:candidate-vibid:1001000220845": 26,
+      "gas:candidate-vibid:1001000214170": 347,
+      "gas:candidate-vibid:1001000131415": 108,
+      "gas:candidate-vibid:366300566753": 23,
+      "gas:candidate-vibid:1001000121913": 20,
+      "gas:candidate-vibid:366300566736": 9,
+      "gas:candidate-vibid:1001000136126": 16,
+      "gas:candidate-vibid:1001000113982": 113,
+      "special:against-all": 125
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=662000066&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=266200066930&region=0&sub_region=0&type=429",
@@ -8684,15 +8684,15 @@ export const duma_2003_uik_428_region_66_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Артюх Евгений Петрович": 33,
-      "Баков Антон Алексеевич": 368,
-      "Воротников Валерий Павлович": 121,
-      "Глацких Артем Вячеславович": 27,
-      "Канисев Иван Иванович": 20,
-      "Мелехин Валерий Иванович": 9,
-      "Миллеров Всеволод Борисович": 30,
-      "Селиванов Андрей Владимирович": 128,
-      "Против всех": 138
+      "gas:candidate-vibid:1001000220845": 33,
+      "gas:candidate-vibid:1001000214170": 368,
+      "gas:candidate-vibid:1001000131415": 121,
+      "gas:candidate-vibid:366300566753": 27,
+      "gas:candidate-vibid:1001000121913": 20,
+      "gas:candidate-vibid:366300566736": 9,
+      "gas:candidate-vibid:1001000136126": 30,
+      "gas:candidate-vibid:1001000113982": 128,
+      "special:against-all": 138
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=662000066&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=266200066930&region=0&sub_region=0&type=429",
@@ -8742,15 +8742,15 @@ export const duma_2003_uik_428_region_66_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Артюх Евгений Петрович": 62,
-      "Баков Антон Алексеевич": 307,
-      "Воротников Валерий Павлович": 169,
-      "Глацких Артем Вячеславович": 47,
-      "Канисев Иван Иванович": 60,
-      "Мелехин Валерий Иванович": 9,
-      "Миллеров Всеволод Борисович": 35,
-      "Селиванов Андрей Владимирович": 229,
-      "Против всех": 167
+      "gas:candidate-vibid:1001000220845": 62,
+      "gas:candidate-vibid:1001000214170": 307,
+      "gas:candidate-vibid:1001000131415": 169,
+      "gas:candidate-vibid:366300566753": 47,
+      "gas:candidate-vibid:1001000121913": 60,
+      "gas:candidate-vibid:366300566736": 9,
+      "gas:candidate-vibid:1001000136126": 35,
+      "gas:candidate-vibid:1001000113982": 229,
+      "special:against-all": 167
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=662000066&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=266200066930&region=0&sub_region=0&type=429",
@@ -8800,15 +8800,15 @@ export const duma_2003_uik_428_region_66_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Артюх Евгений Петрович": 39,
-      "Баков Антон Алексеевич": 449,
-      "Воротников Валерий Павлович": 121,
-      "Глацких Артем Вячеславович": 34,
-      "Канисев Иван Иванович": 53,
-      "Мелехин Валерий Иванович": 17,
-      "Миллеров Всеволод Борисович": 19,
-      "Селиванов Андрей Владимирович": 162,
-      "Против всех": 164
+      "gas:candidate-vibid:1001000220845": 39,
+      "gas:candidate-vibid:1001000214170": 449,
+      "gas:candidate-vibid:1001000131415": 121,
+      "gas:candidate-vibid:366300566753": 34,
+      "gas:candidate-vibid:1001000121913": 53,
+      "gas:candidate-vibid:366300566736": 17,
+      "gas:candidate-vibid:1001000136126": 19,
+      "gas:candidate-vibid:1001000113982": 162,
+      "special:against-all": 164
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=662000066&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=266200066930&region=0&sub_region=0&type=429",
@@ -8858,15 +8858,15 @@ export const duma_2003_uik_428_region_66_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Артюх Евгений Петрович": 39,
-      "Баков Антон Алексеевич": 310,
-      "Воротников Валерий Павлович": 144,
-      "Глацких Артем Вячеславович": 28,
-      "Канисев Иван Иванович": 41,
-      "Мелехин Валерий Иванович": 19,
-      "Миллеров Всеволод Борисович": 33,
-      "Селиванов Андрей Владимирович": 168,
-      "Против всех": 200
+      "gas:candidate-vibid:1001000220845": 39,
+      "gas:candidate-vibid:1001000214170": 310,
+      "gas:candidate-vibid:1001000131415": 144,
+      "gas:candidate-vibid:366300566753": 28,
+      "gas:candidate-vibid:1001000121913": 41,
+      "gas:candidate-vibid:366300566736": 19,
+      "gas:candidate-vibid:1001000136126": 33,
+      "gas:candidate-vibid:1001000113982": 168,
+      "special:against-all": 200
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=662000066&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=266200066930&region=0&sub_region=0&type=429",
@@ -8916,15 +8916,15 @@ export const duma_2003_uik_428_region_66_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Артюх Евгений Петрович": 63,
-      "Баков Антон Алексеевич": 437,
-      "Воротников Валерий Павлович": 200,
-      "Глацких Артем Вячеславович": 46,
-      "Канисев Иван Иванович": 26,
-      "Мелехин Валерий Иванович": 25,
-      "Миллеров Всеволод Борисович": 45,
-      "Селиванов Андрей Владимирович": 181,
-      "Против всех": 209
+      "gas:candidate-vibid:1001000220845": 63,
+      "gas:candidate-vibid:1001000214170": 437,
+      "gas:candidate-vibid:1001000131415": 200,
+      "gas:candidate-vibid:366300566753": 46,
+      "gas:candidate-vibid:1001000121913": 26,
+      "gas:candidate-vibid:366300566736": 25,
+      "gas:candidate-vibid:1001000136126": 45,
+      "gas:candidate-vibid:1001000113982": 181,
+      "special:against-all": 209
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=662000066&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=266200066930&region=0&sub_region=0&type=429",
@@ -8974,15 +8974,15 @@ export const duma_2003_uik_428_region_66_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Артюх Евгений Петрович": 59,
-      "Баков Антон Алексеевич": 399,
-      "Воротников Валерий Павлович": 182,
-      "Глацких Артем Вячеславович": 76,
-      "Канисев Иван Иванович": 42,
-      "Мелехин Валерий Иванович": 24,
-      "Миллеров Всеволод Борисович": 42,
-      "Селиванов Андрей Владимирович": 219,
-      "Против всех": 264
+      "gas:candidate-vibid:1001000220845": 59,
+      "gas:candidate-vibid:1001000214170": 399,
+      "gas:candidate-vibid:1001000131415": 182,
+      "gas:candidate-vibid:366300566753": 76,
+      "gas:candidate-vibid:1001000121913": 42,
+      "gas:candidate-vibid:366300566736": 24,
+      "gas:candidate-vibid:1001000136126": 42,
+      "gas:candidate-vibid:1001000113982": 219,
+      "special:against-all": 264
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=662000066&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=266200066930&region=0&sub_region=0&type=429",
@@ -9032,15 +9032,15 @@ export const duma_2003_uik_428_region_66_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Артюх Евгений Петрович": 14,
-      "Баков Антон Алексеевич": 247,
-      "Воротников Валерий Павлович": 87,
-      "Глацких Артем Вячеславович": 20,
-      "Канисев Иван Иванович": 19,
-      "Мелехин Валерий Иванович": 1,
-      "Миллеров Всеволод Борисович": 7,
-      "Селиванов Андрей Владимирович": 66,
-      "Против всех": 82
+      "gas:candidate-vibid:1001000220845": 14,
+      "gas:candidate-vibid:1001000214170": 247,
+      "gas:candidate-vibid:1001000131415": 87,
+      "gas:candidate-vibid:366300566753": 20,
+      "gas:candidate-vibid:1001000121913": 19,
+      "gas:candidate-vibid:366300566736": 1,
+      "gas:candidate-vibid:1001000136126": 7,
+      "gas:candidate-vibid:1001000113982": 66,
+      "special:against-all": 82
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=662000066&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=266200066930&region=0&sub_region=0&type=429",
@@ -9090,15 +9090,15 @@ export const duma_2003_uik_428_region_66_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Артюх Евгений Петрович": 32,
-      "Баков Антон Алексеевич": 306,
-      "Воротников Валерий Павлович": 98,
-      "Глацких Артем Вячеславович": 43,
-      "Канисев Иван Иванович": 24,
-      "Мелехин Валерий Иванович": 16,
-      "Миллеров Всеволод Борисович": 53,
-      "Селиванов Андрей Владимирович": 387,
-      "Против всех": 315
+      "gas:candidate-vibid:1001000220845": 32,
+      "gas:candidate-vibid:1001000214170": 306,
+      "gas:candidate-vibid:1001000131415": 98,
+      "gas:candidate-vibid:366300566753": 43,
+      "gas:candidate-vibid:1001000121913": 24,
+      "gas:candidate-vibid:366300566736": 16,
+      "gas:candidate-vibid:1001000136126": 53,
+      "gas:candidate-vibid:1001000113982": 387,
+      "special:against-all": 315
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=662000066&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=266200066930&region=0&sub_region=0&type=429",
@@ -9148,15 +9148,15 @@ export const duma_2003_uik_428_region_66_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Артюх Евгений Петрович": 46,
-      "Баков Антон Алексеевич": 344,
-      "Воротников Валерий Павлович": 168,
-      "Глацких Артем Вячеславович": 52,
-      "Канисев Иван Иванович": 43,
-      "Мелехин Валерий Иванович": 13,
-      "Миллеров Всеволод Борисович": 64,
-      "Селиванов Андрей Владимирович": 289,
-      "Против всех": 280
+      "gas:candidate-vibid:1001000220845": 46,
+      "gas:candidate-vibid:1001000214170": 344,
+      "gas:candidate-vibid:1001000131415": 168,
+      "gas:candidate-vibid:366300566753": 52,
+      "gas:candidate-vibid:1001000121913": 43,
+      "gas:candidate-vibid:366300566736": 13,
+      "gas:candidate-vibid:1001000136126": 64,
+      "gas:candidate-vibid:1001000113982": 289,
+      "special:against-all": 280
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=662000066&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=266200066930&region=0&sub_region=0&type=429",
@@ -9206,15 +9206,15 @@ export const duma_2003_uik_428_region_66_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Артюх Евгений Петрович": 6,
-      "Баков Антон Алексеевич": 55,
-      "Воротников Валерий Павлович": 61,
-      "Глацких Артем Вячеславович": 12,
-      "Канисев Иван Иванович": 11,
-      "Мелехин Валерий Иванович": 2,
-      "Миллеров Всеволод Борисович": 8,
-      "Селиванов Андрей Владимирович": 132,
-      "Против всех": 35
+      "gas:candidate-vibid:1001000220845": 6,
+      "gas:candidate-vibid:1001000214170": 55,
+      "gas:candidate-vibid:1001000131415": 61,
+      "gas:candidate-vibid:366300566753": 12,
+      "gas:candidate-vibid:1001000121913": 11,
+      "gas:candidate-vibid:366300566736": 2,
+      "gas:candidate-vibid:1001000136126": 8,
+      "gas:candidate-vibid:1001000113982": 132,
+      "special:against-all": 35
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=662000066&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=266200066930&region=0&sub_region=0&type=429",
@@ -9264,15 +9264,15 @@ export const duma_2003_uik_428_region_66_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Артюх Евгений Петрович": 8,
-      "Баков Антон Алексеевич": 138,
-      "Воротников Валерий Павлович": 65,
-      "Глацких Артем Вячеславович": 5,
-      "Канисев Иван Иванович": 7,
-      "Мелехин Валерий Иванович": 5,
-      "Миллеров Всеволод Борисович": 6,
-      "Селиванов Андрей Владимирович": 113,
-      "Против всех": 40
+      "gas:candidate-vibid:1001000220845": 8,
+      "gas:candidate-vibid:1001000214170": 138,
+      "gas:candidate-vibid:1001000131415": 65,
+      "gas:candidate-vibid:366300566753": 5,
+      "gas:candidate-vibid:1001000121913": 7,
+      "gas:candidate-vibid:366300566736": 5,
+      "gas:candidate-vibid:1001000136126": 6,
+      "gas:candidate-vibid:1001000113982": 113,
+      "special:against-all": 40
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=662000066&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=266200066930&region=0&sub_region=0&type=429",
@@ -9322,15 +9322,15 @@ export const duma_2003_uik_428_region_66_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Артюх Евгений Петрович": 67,
-      "Баков Антон Алексеевич": 159,
-      "Воротников Валерий Павлович": 107,
-      "Глацких Артем Вячеславович": 5,
-      "Канисев Иван Иванович": 22,
-      "Мелехин Валерий Иванович": 3,
-      "Миллеров Всеволод Борисович": 8,
-      "Селиванов Андрей Владимирович": 145,
-      "Против всех": 128
+      "gas:candidate-vibid:1001000220845": 67,
+      "gas:candidate-vibid:1001000214170": 159,
+      "gas:candidate-vibid:1001000131415": 107,
+      "gas:candidate-vibid:366300566753": 5,
+      "gas:candidate-vibid:1001000121913": 22,
+      "gas:candidate-vibid:366300566736": 3,
+      "gas:candidate-vibid:1001000136126": 8,
+      "gas:candidate-vibid:1001000113982": 145,
+      "special:against-all": 128
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=662000067&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=266200066931&region=0&sub_region=0&type=429",
@@ -9380,15 +9380,15 @@ export const duma_2003_uik_428_region_66_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Артюх Евгений Петрович": 43,
-      "Баков Антон Алексеевич": 148,
-      "Воротников Валерий Павлович": 44,
-      "Глацких Артем Вячеславович": 1,
-      "Канисев Иван Иванович": 8,
-      "Мелехин Валерий Иванович": 3,
-      "Миллеров Всеволод Борисович": 10,
-      "Селиванов Андрей Владимирович": 27,
-      "Против всех": 54
+      "gas:candidate-vibid:1001000220845": 43,
+      "gas:candidate-vibid:1001000214170": 148,
+      "gas:candidate-vibid:1001000131415": 44,
+      "gas:candidate-vibid:366300566753": 1,
+      "gas:candidate-vibid:1001000121913": 8,
+      "gas:candidate-vibid:366300566736": 3,
+      "gas:candidate-vibid:1001000136126": 10,
+      "gas:candidate-vibid:1001000113982": 27,
+      "special:against-all": 54
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=662000067&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=266200066931&region=0&sub_region=0&type=429",
@@ -9438,15 +9438,15 @@ export const duma_2003_uik_428_region_66_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Артюх Евгений Петрович": 54,
-      "Баков Антон Алексеевич": 63,
-      "Воротников Валерий Павлович": 59,
-      "Глацких Артем Вячеславович": 1,
-      "Канисев Иван Иванович": 4,
-      "Мелехин Валерий Иванович": 0,
-      "Миллеров Всеволод Борисович": 5,
-      "Селиванов Андрей Владимирович": 32,
-      "Против всех": 40
+      "gas:candidate-vibid:1001000220845": 54,
+      "gas:candidate-vibid:1001000214170": 63,
+      "gas:candidate-vibid:1001000131415": 59,
+      "gas:candidate-vibid:366300566753": 1,
+      "gas:candidate-vibid:1001000121913": 4,
+      "gas:candidate-vibid:366300566736": 0,
+      "gas:candidate-vibid:1001000136126": 5,
+      "gas:candidate-vibid:1001000113982": 32,
+      "special:against-all": 40
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=662000067&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=266200066931&region=0&sub_region=0&type=429",
@@ -9496,15 +9496,15 @@ export const duma_2003_uik_428_region_66_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Артюх Евгений Петрович": 214,
-      "Баков Антон Алексеевич": 365,
-      "Воротников Валерий Павлович": 207,
-      "Глацких Артем Вячеславович": 4,
-      "Канисев Иван Иванович": 30,
-      "Мелехин Валерий Иванович": 5,
-      "Миллеров Всеволод Борисович": 31,
-      "Селиванов Андрей Владимирович": 183,
-      "Против всех": 294
+      "gas:candidate-vibid:1001000220845": 214,
+      "gas:candidate-vibid:1001000214170": 365,
+      "gas:candidate-vibid:1001000131415": 207,
+      "gas:candidate-vibid:366300566753": 4,
+      "gas:candidate-vibid:1001000121913": 30,
+      "gas:candidate-vibid:366300566736": 5,
+      "gas:candidate-vibid:1001000136126": 31,
+      "gas:candidate-vibid:1001000113982": 183,
+      "special:against-all": 294
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=662000067&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=266200066931&region=0&sub_region=0&type=429",
@@ -9554,15 +9554,15 @@ export const duma_2003_uik_428_region_66_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Артюх Евгений Петрович": 180,
-      "Баков Антон Алексеевич": 304,
-      "Воротников Валерий Павлович": 137,
-      "Глацких Артем Вячеславович": 8,
-      "Канисев Иван Иванович": 35,
-      "Мелехин Валерий Иванович": 14,
-      "Миллеров Всеволод Борисович": 32,
-      "Селиванов Андрей Владимирович": 240,
-      "Против всех": 242
+      "gas:candidate-vibid:1001000220845": 180,
+      "gas:candidate-vibid:1001000214170": 304,
+      "gas:candidate-vibid:1001000131415": 137,
+      "gas:candidate-vibid:366300566753": 8,
+      "gas:candidate-vibid:1001000121913": 35,
+      "gas:candidate-vibid:366300566736": 14,
+      "gas:candidate-vibid:1001000136126": 32,
+      "gas:candidate-vibid:1001000113982": 240,
+      "special:against-all": 242
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=662000067&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=266200066931&region=0&sub_region=0&type=429",
@@ -9612,15 +9612,15 @@ export const duma_2003_uik_428_region_66_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Артюх Евгений Петрович": 244,
-      "Баков Антон Алексеевич": 374,
-      "Воротников Валерий Павлович": 115,
-      "Глацких Артем Вячеславович": 13,
-      "Канисев Иван Иванович": 32,
-      "Мелехин Валерий Иванович": 5,
-      "Миллеров Всеволод Борисович": 18,
-      "Селиванов Андрей Владимирович": 273,
-      "Против всех": 204
+      "gas:candidate-vibid:1001000220845": 244,
+      "gas:candidate-vibid:1001000214170": 374,
+      "gas:candidate-vibid:1001000131415": 115,
+      "gas:candidate-vibid:366300566753": 13,
+      "gas:candidate-vibid:1001000121913": 32,
+      "gas:candidate-vibid:366300566736": 5,
+      "gas:candidate-vibid:1001000136126": 18,
+      "gas:candidate-vibid:1001000113982": 273,
+      "special:against-all": 204
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=662000067&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=266200066931&region=0&sub_region=0&type=429",
@@ -9670,15 +9670,15 @@ export const duma_2003_uik_428_region_66_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Артюх Евгений Петрович": 171,
-      "Баков Антон Алексеевич": 404,
-      "Воротников Валерий Павлович": 138,
-      "Глацких Артем Вячеславович": 9,
-      "Канисев Иван Иванович": 54,
-      "Мелехин Валерий Иванович": 7,
-      "Миллеров Всеволод Борисович": 32,
-      "Селиванов Андрей Владимирович": 193,
-      "Против всех": 252
+      "gas:candidate-vibid:1001000220845": 171,
+      "gas:candidate-vibid:1001000214170": 404,
+      "gas:candidate-vibid:1001000131415": 138,
+      "gas:candidate-vibid:366300566753": 9,
+      "gas:candidate-vibid:1001000121913": 54,
+      "gas:candidate-vibid:366300566736": 7,
+      "gas:candidate-vibid:1001000136126": 32,
+      "gas:candidate-vibid:1001000113982": 193,
+      "special:against-all": 252
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=662000067&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=266200066931&region=0&sub_region=0&type=429",
@@ -9728,15 +9728,15 @@ export const duma_2003_uik_428_region_66_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Артюх Евгений Петрович": 198,
-      "Баков Антон Алексеевич": 388,
-      "Воротников Валерий Павлович": 150,
-      "Глацких Артем Вячеславович": 7,
-      "Канисев Иван Иванович": 33,
-      "Мелехин Валерий Иванович": 6,
-      "Миллеров Всеволод Борисович": 26,
-      "Селиванов Андрей Владимирович": 219,
-      "Против всех": 205
+      "gas:candidate-vibid:1001000220845": 198,
+      "gas:candidate-vibid:1001000214170": 388,
+      "gas:candidate-vibid:1001000131415": 150,
+      "gas:candidate-vibid:366300566753": 7,
+      "gas:candidate-vibid:1001000121913": 33,
+      "gas:candidate-vibid:366300566736": 6,
+      "gas:candidate-vibid:1001000136126": 26,
+      "gas:candidate-vibid:1001000113982": 219,
+      "special:against-all": 205
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=662000067&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=266200066931&region=0&sub_region=0&type=429",
@@ -9786,15 +9786,15 @@ export const duma_2003_uik_428_region_66_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Артюх Евгений Петрович": 9,
-      "Баков Антон Алексеевич": 20,
-      "Воротников Валерий Павлович": 15,
-      "Глацких Артем Вячеславович": 0,
-      "Канисев Иван Иванович": 1,
-      "Мелехин Валерий Иванович": 0,
-      "Миллеров Всеволод Борисович": 0,
-      "Селиванов Андрей Владимирович": 11,
-      "Против всех": 7
+      "gas:candidate-vibid:1001000220845": 9,
+      "gas:candidate-vibid:1001000214170": 20,
+      "gas:candidate-vibid:1001000131415": 15,
+      "gas:candidate-vibid:366300566753": 0,
+      "gas:candidate-vibid:1001000121913": 1,
+      "gas:candidate-vibid:366300566736": 0,
+      "gas:candidate-vibid:1001000136126": 0,
+      "gas:candidate-vibid:1001000113982": 11,
+      "special:against-all": 7
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=662000067&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=266200066931&region=0&sub_region=0&type=429",
@@ -9844,15 +9844,15 @@ export const duma_2003_uik_428_region_66_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Артюх Евгений Петрович": 134,
-      "Баков Антон Алексеевич": 163,
-      "Воротников Валерий Павлович": 107,
-      "Глацких Артем Вячеславович": 3,
-      "Канисев Иван Иванович": 23,
-      "Мелехин Валерий Иванович": 5,
-      "Миллеров Всеволод Борисович": 14,
-      "Селиванов Андрей Владимирович": 108,
-      "Против всех": 131
+      "gas:candidate-vibid:1001000220845": 134,
+      "gas:candidate-vibid:1001000214170": 163,
+      "gas:candidate-vibid:1001000131415": 107,
+      "gas:candidate-vibid:366300566753": 3,
+      "gas:candidate-vibid:1001000121913": 23,
+      "gas:candidate-vibid:366300566736": 5,
+      "gas:candidate-vibid:1001000136126": 14,
+      "gas:candidate-vibid:1001000113982": 108,
+      "special:against-all": 131
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=662000067&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=266200066931&region=0&sub_region=0&type=429",
@@ -9902,15 +9902,15 @@ export const duma_2003_uik_428_region_66_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Артюх Евгений Петрович": 71,
-      "Баков Антон Алексеевич": 131,
-      "Воротников Валерий Павлович": 55,
-      "Глацких Артем Вячеславович": 4,
-      "Канисев Иван Иванович": 17,
-      "Мелехин Валерий Иванович": 4,
-      "Миллеров Всеволод Борисович": 23,
-      "Селиванов Андрей Владимирович": 144,
-      "Против всех": 99
+      "gas:candidate-vibid:1001000220845": 71,
+      "gas:candidate-vibid:1001000214170": 131,
+      "gas:candidate-vibid:1001000131415": 55,
+      "gas:candidate-vibid:366300566753": 4,
+      "gas:candidate-vibid:1001000121913": 17,
+      "gas:candidate-vibid:366300566736": 4,
+      "gas:candidate-vibid:1001000136126": 23,
+      "gas:candidate-vibid:1001000113982": 144,
+      "special:against-all": 99
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=662000067&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=266200066931&region=0&sub_region=0&type=429",
@@ -9960,15 +9960,15 @@ export const duma_2003_uik_428_region_66_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Артюх Евгений Петрович": 185,
-      "Баков Антон Алексеевич": 390,
-      "Воротников Валерий Павлович": 143,
-      "Глацких Артем Вячеславович": 15,
-      "Канисев Иван Иванович": 31,
-      "Мелехин Валерий Иванович": 12,
-      "Миллеров Всеволод Борисович": 29,
-      "Селиванов Андрей Владимирович": 186,
-      "Против всех": 350
+      "gas:candidate-vibid:1001000220845": 185,
+      "gas:candidate-vibid:1001000214170": 390,
+      "gas:candidate-vibid:1001000131415": 143,
+      "gas:candidate-vibid:366300566753": 15,
+      "gas:candidate-vibid:1001000121913": 31,
+      "gas:candidate-vibid:366300566736": 12,
+      "gas:candidate-vibid:1001000136126": 29,
+      "gas:candidate-vibid:1001000113982": 186,
+      "special:against-all": 350
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=662000067&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=266200066931&region=0&sub_region=0&type=429",
@@ -10018,15 +10018,15 @@ export const duma_2003_uik_428_region_66_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Артюх Евгений Петрович": 80,
-      "Баков Антон Алексеевич": 125,
-      "Воротников Валерий Павлович": 52,
-      "Глацких Артем Вячеславович": 4,
-      "Канисев Иван Иванович": 9,
-      "Мелехин Валерий Иванович": 1,
-      "Миллеров Всеволод Борисович": 7,
-      "Селиванов Андрей Владимирович": 89,
-      "Против всех": 94
+      "gas:candidate-vibid:1001000220845": 80,
+      "gas:candidate-vibid:1001000214170": 125,
+      "gas:candidate-vibid:1001000131415": 52,
+      "gas:candidate-vibid:366300566753": 4,
+      "gas:candidate-vibid:1001000121913": 9,
+      "gas:candidate-vibid:366300566736": 1,
+      "gas:candidate-vibid:1001000136126": 7,
+      "gas:candidate-vibid:1001000113982": 89,
+      "special:against-all": 94
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=662000067&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=266200066931&region=0&sub_region=0&type=429",
@@ -10076,15 +10076,15 @@ export const duma_2003_uik_428_region_66_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Артюх Евгений Петрович": 43,
-      "Баков Антон Алексеевич": 185,
-      "Воротников Валерий Павлович": 52,
-      "Глацких Артем Вячеславович": 3,
-      "Канисев Иван Иванович": 12,
-      "Мелехин Валерий Иванович": 4,
-      "Миллеров Всеволод Борисович": 12,
-      "Селиванов Андрей Владимирович": 75,
-      "Против всех": 117
+      "gas:candidate-vibid:1001000220845": 43,
+      "gas:candidate-vibid:1001000214170": 185,
+      "gas:candidate-vibid:1001000131415": 52,
+      "gas:candidate-vibid:366300566753": 3,
+      "gas:candidate-vibid:1001000121913": 12,
+      "gas:candidate-vibid:366300566736": 4,
+      "gas:candidate-vibid:1001000136126": 12,
+      "gas:candidate-vibid:1001000113982": 75,
+      "special:against-all": 117
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=662000067&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=266200066931&region=0&sub_region=0&type=429",
@@ -10134,15 +10134,15 @@ export const duma_2003_uik_428_region_66_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Артюх Евгений Петрович": 53,
-      "Баков Антон Алексеевич": 123,
-      "Воротников Валерий Павлович": 88,
-      "Глацких Артем Вячеславович": 0,
-      "Канисев Иван Иванович": 11,
-      "Мелехин Валерий Иванович": 6,
-      "Миллеров Всеволод Борисович": 12,
-      "Селиванов Андрей Владимирович": 124,
-      "Против всех": 85
+      "gas:candidate-vibid:1001000220845": 53,
+      "gas:candidate-vibid:1001000214170": 123,
+      "gas:candidate-vibid:1001000131415": 88,
+      "gas:candidate-vibid:366300566753": 0,
+      "gas:candidate-vibid:1001000121913": 11,
+      "gas:candidate-vibid:366300566736": 6,
+      "gas:candidate-vibid:1001000136126": 12,
+      "gas:candidate-vibid:1001000113982": 124,
+      "special:against-all": 85
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=662000067&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=266200066931&region=0&sub_region=0&type=429",
@@ -10192,15 +10192,15 @@ export const duma_2003_uik_428_region_66_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Артюх Евгений Петрович": 57,
-      "Баков Антон Алексеевич": 117,
-      "Воротников Валерий Павлович": 62,
-      "Глацких Артем Вячеславович": 5,
-      "Канисев Иван Иванович": 4,
-      "Мелехин Валерий Иванович": 1,
-      "Миллеров Всеволод Борисович": 11,
-      "Селиванов Андрей Владимирович": 46,
-      "Против всех": 99
+      "gas:candidate-vibid:1001000220845": 57,
+      "gas:candidate-vibid:1001000214170": 117,
+      "gas:candidate-vibid:1001000131415": 62,
+      "gas:candidate-vibid:366300566753": 5,
+      "gas:candidate-vibid:1001000121913": 4,
+      "gas:candidate-vibid:366300566736": 1,
+      "gas:candidate-vibid:1001000136126": 11,
+      "gas:candidate-vibid:1001000113982": 46,
+      "special:against-all": 99
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=662000067&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=266200066931&region=0&sub_region=0&type=429",
@@ -10250,15 +10250,15 @@ export const duma_2003_uik_428_region_66_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Артюх Евгений Петрович": 181,
-      "Баков Антон Алексеевич": 219,
-      "Воротников Валерий Павлович": 176,
-      "Глацких Артем Вячеславович": 9,
-      "Канисев Иван Иванович": 29,
-      "Мелехин Валерий Иванович": 17,
-      "Миллеров Всеволод Борисович": 29,
-      "Селиванов Андрей Владимирович": 130,
-      "Против всех": 211
+      "gas:candidate-vibid:1001000220845": 181,
+      "gas:candidate-vibid:1001000214170": 219,
+      "gas:candidate-vibid:1001000131415": 176,
+      "gas:candidate-vibid:366300566753": 9,
+      "gas:candidate-vibid:1001000121913": 29,
+      "gas:candidate-vibid:366300566736": 17,
+      "gas:candidate-vibid:1001000136126": 29,
+      "gas:candidate-vibid:1001000113982": 130,
+      "special:against-all": 211
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=662000067&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=266200066931&region=0&sub_region=0&type=429",
@@ -10308,15 +10308,15 @@ export const duma_2003_uik_428_region_66_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Артюх Евгений Петрович": 54,
-      "Баков Антон Алексеевич": 130,
-      "Воротников Валерий Павлович": 73,
-      "Глацких Артем Вячеславович": 2,
-      "Канисев Иван Иванович": 11,
-      "Мелехин Валерий Иванович": 4,
-      "Миллеров Всеволод Борисович": 19,
-      "Селиванов Андрей Владимирович": 130,
-      "Против всех": 98
+      "gas:candidate-vibid:1001000220845": 54,
+      "gas:candidate-vibid:1001000214170": 130,
+      "gas:candidate-vibid:1001000131415": 73,
+      "gas:candidate-vibid:366300566753": 2,
+      "gas:candidate-vibid:1001000121913": 11,
+      "gas:candidate-vibid:366300566736": 4,
+      "gas:candidate-vibid:1001000136126": 19,
+      "gas:candidate-vibid:1001000113982": 130,
+      "special:against-all": 98
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=662000067&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=266200066931&region=0&sub_region=0&type=429",
@@ -10366,15 +10366,15 @@ export const duma_2003_uik_428_region_66_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Артюх Евгений Петрович": 32,
-      "Баков Антон Алексеевич": 159,
-      "Воротников Валерий Павлович": 28,
-      "Глацких Артем Вячеславович": 1,
-      "Канисев Иван Иванович": 6,
-      "Мелехин Валерий Иванович": 0,
-      "Миллеров Всеволод Борисович": 5,
-      "Селиванов Андрей Владимирович": 31,
-      "Против всех": 44
+      "gas:candidate-vibid:1001000220845": 32,
+      "gas:candidate-vibid:1001000214170": 159,
+      "gas:candidate-vibid:1001000131415": 28,
+      "gas:candidate-vibid:366300566753": 1,
+      "gas:candidate-vibid:1001000121913": 6,
+      "gas:candidate-vibid:366300566736": 0,
+      "gas:candidate-vibid:1001000136126": 5,
+      "gas:candidate-vibid:1001000113982": 31,
+      "special:against-all": 44
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=662000067&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=266200066931&region=0&sub_region=0&type=429",
@@ -10424,15 +10424,15 @@ export const duma_2003_uik_428_region_66_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Артюх Евгений Петрович": 7,
-      "Баков Антон Алексеевич": 23,
-      "Воротников Валерий Павлович": 24,
-      "Глацких Артем Вячеславович": 0,
-      "Канисев Иван Иванович": 0,
-      "Мелехин Валерий Иванович": 0,
-      "Миллеров Всеволод Борисович": 1,
-      "Селиванов Андрей Владимирович": 17,
-      "Против всех": 18
+      "gas:candidate-vibid:1001000220845": 7,
+      "gas:candidate-vibid:1001000214170": 23,
+      "gas:candidate-vibid:1001000131415": 24,
+      "gas:candidate-vibid:366300566753": 0,
+      "gas:candidate-vibid:1001000121913": 0,
+      "gas:candidate-vibid:366300566736": 0,
+      "gas:candidate-vibid:1001000136126": 1,
+      "gas:candidate-vibid:1001000113982": 17,
+      "special:against-all": 18
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=662000067&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=266200066931&region=0&sub_region=0&type=429",
@@ -10482,15 +10482,15 @@ export const duma_2003_uik_428_region_66_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Артюх Евгений Петрович": 114,
-      "Баков Антон Алексеевич": 301,
-      "Воротников Валерий Павлович": 75,
-      "Глацких Артем Вячеславович": 4,
-      "Канисев Иван Иванович": 31,
-      "Мелехин Валерий Иванович": 8,
-      "Миллеров Всеволод Борисович": 19,
-      "Селиванов Андрей Владимирович": 65,
-      "Против всех": 150
+      "gas:candidate-vibid:1001000220845": 114,
+      "gas:candidate-vibid:1001000214170": 301,
+      "gas:candidate-vibid:1001000131415": 75,
+      "gas:candidate-vibid:366300566753": 4,
+      "gas:candidate-vibid:1001000121913": 31,
+      "gas:candidate-vibid:366300566736": 8,
+      "gas:candidate-vibid:1001000136126": 19,
+      "gas:candidate-vibid:1001000113982": 65,
+      "special:against-all": 150
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=662000067&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=266200066931&region=0&sub_region=0&type=429",
@@ -10540,15 +10540,15 @@ export const duma_2003_uik_428_region_66_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Артюх Евгений Петрович": 142,
-      "Баков Антон Алексеевич": 348,
-      "Воротников Валерий Павлович": 99,
-      "Глацких Артем Вячеславович": 8,
-      "Канисев Иван Иванович": 33,
-      "Мелехин Валерий Иванович": 24,
-      "Миллеров Всеволод Борисович": 11,
-      "Селиванов Андрей Владимирович": 84,
-      "Против всех": 209
+      "gas:candidate-vibid:1001000220845": 142,
+      "gas:candidate-vibid:1001000214170": 348,
+      "gas:candidate-vibid:1001000131415": 99,
+      "gas:candidate-vibid:366300566753": 8,
+      "gas:candidate-vibid:1001000121913": 33,
+      "gas:candidate-vibid:366300566736": 24,
+      "gas:candidate-vibid:1001000136126": 11,
+      "gas:candidate-vibid:1001000113982": 84,
+      "special:against-all": 209
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=662000067&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=266200066931&region=0&sub_region=0&type=429",
@@ -10598,15 +10598,15 @@ export const duma_2003_uik_428_region_66_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Артюх Евгений Петрович": 133,
-      "Баков Антон Алексеевич": 385,
-      "Воротников Валерий Павлович": 123,
-      "Глацких Артем Вячеславович": 4,
-      "Канисев Иван Иванович": 33,
-      "Мелехин Валерий Иванович": 15,
-      "Миллеров Всеволод Борисович": 37,
-      "Селиванов Андрей Владимирович": 122,
-      "Против всех": 199
+      "gas:candidate-vibid:1001000220845": 133,
+      "gas:candidate-vibid:1001000214170": 385,
+      "gas:candidate-vibid:1001000131415": 123,
+      "gas:candidate-vibid:366300566753": 4,
+      "gas:candidate-vibid:1001000121913": 33,
+      "gas:candidate-vibid:366300566736": 15,
+      "gas:candidate-vibid:1001000136126": 37,
+      "gas:candidate-vibid:1001000113982": 122,
+      "special:against-all": 199
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=662000067&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=266200066931&region=0&sub_region=0&type=429",
@@ -10656,15 +10656,15 @@ export const duma_2003_uik_428_region_66_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Артюх Евгений Петрович": 91,
-      "Баков Антон Алексеевич": 422,
-      "Воротников Валерий Павлович": 136,
-      "Глацких Артем Вячеславович": 3,
-      "Канисев Иван Иванович": 36,
-      "Мелехин Валерий Иванович": 19,
-      "Миллеров Всеволод Борисович": 25,
-      "Селиванов Андрей Владимирович": 107,
-      "Против всех": 202
+      "gas:candidate-vibid:1001000220845": 91,
+      "gas:candidate-vibid:1001000214170": 422,
+      "gas:candidate-vibid:1001000131415": 136,
+      "gas:candidate-vibid:366300566753": 3,
+      "gas:candidate-vibid:1001000121913": 36,
+      "gas:candidate-vibid:366300566736": 19,
+      "gas:candidate-vibid:1001000136126": 25,
+      "gas:candidate-vibid:1001000113982": 107,
+      "special:against-all": 202
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=662000067&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=266200066931&region=0&sub_region=0&type=429",
@@ -10714,15 +10714,15 @@ export const duma_2003_uik_428_region_66_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Артюх Евгений Петрович": 31,
-      "Баков Антон Алексеевич": 159,
-      "Воротников Валерий Павлович": 21,
-      "Глацких Артем Вячеславович": 2,
-      "Канисев Иван Иванович": 5,
-      "Мелехин Валерий Иванович": 0,
-      "Миллеров Всеволод Борисович": 3,
-      "Селиванов Андрей Владимирович": 75,
-      "Против всех": 38
+      "gas:candidate-vibid:1001000220845": 31,
+      "gas:candidate-vibid:1001000214170": 159,
+      "gas:candidate-vibid:1001000131415": 21,
+      "gas:candidate-vibid:366300566753": 2,
+      "gas:candidate-vibid:1001000121913": 5,
+      "gas:candidate-vibid:366300566736": 0,
+      "gas:candidate-vibid:1001000136126": 3,
+      "gas:candidate-vibid:1001000113982": 75,
+      "special:against-all": 38
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=662000068&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=266200066932&region=0&sub_region=0&type=429",
@@ -10772,15 +10772,15 @@ export const duma_2003_uik_428_region_66_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Артюх Евгений Петрович": 56,
-      "Баков Антон Алексеевич": 263,
-      "Воротников Валерий Павлович": 34,
-      "Глацких Артем Вячеславович": 6,
-      "Канисев Иван Иванович": 15,
-      "Мелехин Валерий Иванович": 1,
-      "Миллеров Всеволод Борисович": 5,
-      "Селиванов Андрей Владимирович": 200,
-      "Против всех": 74
+      "gas:candidate-vibid:1001000220845": 56,
+      "gas:candidate-vibid:1001000214170": 263,
+      "gas:candidate-vibid:1001000131415": 34,
+      "gas:candidate-vibid:366300566753": 6,
+      "gas:candidate-vibid:1001000121913": 15,
+      "gas:candidate-vibid:366300566736": 1,
+      "gas:candidate-vibid:1001000136126": 5,
+      "gas:candidate-vibid:1001000113982": 200,
+      "special:against-all": 74
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=662000068&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=266200066932&region=0&sub_region=0&type=429",
@@ -10830,15 +10830,15 @@ export const duma_2003_uik_428_region_66_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Артюх Евгений Петрович": 51,
-      "Баков Антон Алексеевич": 119,
-      "Воротников Валерий Павлович": 23,
-      "Глацких Артем Вячеславович": 4,
-      "Канисев Иван Иванович": 12,
-      "Мелехин Валерий Иванович": 3,
-      "Миллеров Всеволод Борисович": 8,
-      "Селиванов Андрей Владимирович": 101,
-      "Против всех": 53
+      "gas:candidate-vibid:1001000220845": 51,
+      "gas:candidate-vibid:1001000214170": 119,
+      "gas:candidate-vibid:1001000131415": 23,
+      "gas:candidate-vibid:366300566753": 4,
+      "gas:candidate-vibid:1001000121913": 12,
+      "gas:candidate-vibid:366300566736": 3,
+      "gas:candidate-vibid:1001000136126": 8,
+      "gas:candidate-vibid:1001000113982": 101,
+      "special:against-all": 53
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=662000068&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=266200066932&region=0&sub_region=0&type=429",
@@ -10888,15 +10888,15 @@ export const duma_2003_uik_428_region_66_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Артюх Евгений Петрович": 69,
-      "Баков Антон Алексеевич": 234,
-      "Воротников Валерий Павлович": 57,
-      "Глацких Артем Вячеславович": 4,
-      "Канисев Иван Иванович": 7,
-      "Мелехин Валерий Иванович": 3,
-      "Миллеров Всеволод Борисович": 16,
-      "Селиванов Андрей Владимирович": 173,
-      "Против всех": 104
+      "gas:candidate-vibid:1001000220845": 69,
+      "gas:candidate-vibid:1001000214170": 234,
+      "gas:candidate-vibid:1001000131415": 57,
+      "gas:candidate-vibid:366300566753": 4,
+      "gas:candidate-vibid:1001000121913": 7,
+      "gas:candidate-vibid:366300566736": 3,
+      "gas:candidate-vibid:1001000136126": 16,
+      "gas:candidate-vibid:1001000113982": 173,
+      "special:against-all": 104
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=662000068&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=266200066932&region=0&sub_region=0&type=429",
@@ -10946,15 +10946,15 @@ export const duma_2003_uik_428_region_66_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Артюх Евгений Петрович": 106,
-      "Баков Антон Алексеевич": 518,
-      "Воротников Валерий Павлович": 122,
-      "Глацких Артем Вячеславович": 7,
-      "Канисев Иван Иванович": 25,
-      "Мелехин Валерий Иванович": 10,
-      "Миллеров Всеволод Борисович": 22,
-      "Селиванов Андрей Владимирович": 317,
-      "Против всех": 203
+      "gas:candidate-vibid:1001000220845": 106,
+      "gas:candidate-vibid:1001000214170": 518,
+      "gas:candidate-vibid:1001000131415": 122,
+      "gas:candidate-vibid:366300566753": 7,
+      "gas:candidate-vibid:1001000121913": 25,
+      "gas:candidate-vibid:366300566736": 10,
+      "gas:candidate-vibid:1001000136126": 22,
+      "gas:candidate-vibid:1001000113982": 317,
+      "special:against-all": 203
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=662000068&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=266200066932&region=0&sub_region=0&type=429",
@@ -11004,15 +11004,15 @@ export const duma_2003_uik_428_region_66_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Артюх Евгений Петрович": 104,
-      "Баков Антон Алексеевич": 512,
-      "Воротников Валерий Павлович": 80,
-      "Глацких Артем Вячеславович": 4,
-      "Канисев Иван Иванович": 21,
-      "Мелехин Валерий Иванович": 2,
-      "Миллеров Всеволод Борисович": 19,
-      "Селиванов Андрей Владимирович": 309,
-      "Против всех": 161
+      "gas:candidate-vibid:1001000220845": 104,
+      "gas:candidate-vibid:1001000214170": 512,
+      "gas:candidate-vibid:1001000131415": 80,
+      "gas:candidate-vibid:366300566753": 4,
+      "gas:candidate-vibid:1001000121913": 21,
+      "gas:candidate-vibid:366300566736": 2,
+      "gas:candidate-vibid:1001000136126": 19,
+      "gas:candidate-vibid:1001000113982": 309,
+      "special:against-all": 161
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=662000068&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=266200066932&region=0&sub_region=0&type=429",
@@ -11062,15 +11062,15 @@ export const duma_2003_uik_428_region_66_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Артюх Евгений Петрович": 126,
-      "Баков Антон Алексеевич": 327,
-      "Воротников Валерий Павлович": 80,
-      "Глацких Артем Вячеславович": 7,
-      "Канисев Иван Иванович": 25,
-      "Мелехин Валерий Иванович": 8,
-      "Миллеров Всеволод Борисович": 14,
-      "Селиванов Андрей Владимирович": 268,
-      "Против всех": 108
+      "gas:candidate-vibid:1001000220845": 126,
+      "gas:candidate-vibid:1001000214170": 327,
+      "gas:candidate-vibid:1001000131415": 80,
+      "gas:candidate-vibid:366300566753": 7,
+      "gas:candidate-vibid:1001000121913": 25,
+      "gas:candidate-vibid:366300566736": 8,
+      "gas:candidate-vibid:1001000136126": 14,
+      "gas:candidate-vibid:1001000113982": 268,
+      "special:against-all": 108
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=662000068&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=266200066932&region=0&sub_region=0&type=429",
@@ -11120,15 +11120,15 @@ export const duma_2003_uik_428_region_66_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Артюх Евгений Петрович": 69,
-      "Баков Антон Алексеевич": 321,
-      "Воротников Валерий Павлович": 56,
-      "Глацких Артем Вячеславович": 4,
-      "Канисев Иван Иванович": 18,
-      "Мелехин Валерий Иванович": 4,
-      "Миллеров Всеволод Борисович": 8,
-      "Селиванов Андрей Владимирович": 173,
-      "Против всех": 96
+      "gas:candidate-vibid:1001000220845": 69,
+      "gas:candidate-vibid:1001000214170": 321,
+      "gas:candidate-vibid:1001000131415": 56,
+      "gas:candidate-vibid:366300566753": 4,
+      "gas:candidate-vibid:1001000121913": 18,
+      "gas:candidate-vibid:366300566736": 4,
+      "gas:candidate-vibid:1001000136126": 8,
+      "gas:candidate-vibid:1001000113982": 173,
+      "special:against-all": 96
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=662000068&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=266200066932&region=0&sub_region=0&type=429",
@@ -11178,15 +11178,15 @@ export const duma_2003_uik_428_region_66_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Артюх Евгений Петрович": 54,
-      "Баков Антон Алексеевич": 391,
-      "Воротников Валерий Павлович": 161,
-      "Глацких Артем Вячеславович": 2,
-      "Канисев Иван Иванович": 14,
-      "Мелехин Валерий Иванович": 4,
-      "Миллеров Всеволод Борисович": 27,
-      "Селиванов Андрей Владимирович": 319,
-      "Против всех": 191
+      "gas:candidate-vibid:1001000220845": 54,
+      "gas:candidate-vibid:1001000214170": 391,
+      "gas:candidate-vibid:1001000131415": 161,
+      "gas:candidate-vibid:366300566753": 2,
+      "gas:candidate-vibid:1001000121913": 14,
+      "gas:candidate-vibid:366300566736": 4,
+      "gas:candidate-vibid:1001000136126": 27,
+      "gas:candidate-vibid:1001000113982": 319,
+      "special:against-all": 191
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=662000068&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=266200066932&region=0&sub_region=0&type=429",
@@ -11236,15 +11236,15 @@ export const duma_2003_uik_428_region_66_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Артюх Евгений Петрович": 95,
-      "Баков Антон Алексеевич": 549,
-      "Воротников Валерий Павлович": 126,
-      "Глацких Артем Вячеславович": 5,
-      "Канисев Иван Иванович": 33,
-      "Мелехин Валерий Иванович": 7,
-      "Миллеров Всеволод Борисович": 17,
-      "Селиванов Андрей Владимирович": 286,
-      "Против всех": 183
+      "gas:candidate-vibid:1001000220845": 95,
+      "gas:candidate-vibid:1001000214170": 549,
+      "gas:candidate-vibid:1001000131415": 126,
+      "gas:candidate-vibid:366300566753": 5,
+      "gas:candidate-vibid:1001000121913": 33,
+      "gas:candidate-vibid:366300566736": 7,
+      "gas:candidate-vibid:1001000136126": 17,
+      "gas:candidate-vibid:1001000113982": 286,
+      "special:against-all": 183
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=662000068&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=266200066932&region=0&sub_region=0&type=429",
@@ -11294,15 +11294,15 @@ export const duma_2003_uik_428_region_66_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Артюх Евгений Петрович": 37,
-      "Баков Антон Алексеевич": 218,
-      "Воротников Валерий Павлович": 43,
-      "Глацких Артем Вячеславович": 4,
-      "Канисев Иван Иванович": 10,
-      "Мелехин Валерий Иванович": 2,
-      "Миллеров Всеволод Борисович": 4,
-      "Селиванов Андрей Владимирович": 103,
-      "Против всех": 64
+      "gas:candidate-vibid:1001000220845": 37,
+      "gas:candidate-vibid:1001000214170": 218,
+      "gas:candidate-vibid:1001000131415": 43,
+      "gas:candidate-vibid:366300566753": 4,
+      "gas:candidate-vibid:1001000121913": 10,
+      "gas:candidate-vibid:366300566736": 2,
+      "gas:candidate-vibid:1001000136126": 4,
+      "gas:candidate-vibid:1001000113982": 103,
+      "special:against-all": 64
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=662000068&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=266200066932&region=0&sub_region=0&type=429",
@@ -11352,15 +11352,15 @@ export const duma_2003_uik_428_region_66_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Артюх Евгений Петрович": 25,
-      "Баков Антон Алексеевич": 225,
-      "Воротников Валерий Павлович": 47,
-      "Глацких Артем Вячеславович": 2,
-      "Канисев Иван Иванович": 4,
-      "Мелехин Валерий Иванович": 1,
-      "Миллеров Всеволод Борисович": 9,
-      "Селиванов Андрей Владимирович": 119,
-      "Против всех": 54
+      "gas:candidate-vibid:1001000220845": 25,
+      "gas:candidate-vibid:1001000214170": 225,
+      "gas:candidate-vibid:1001000131415": 47,
+      "gas:candidate-vibid:366300566753": 2,
+      "gas:candidate-vibid:1001000121913": 4,
+      "gas:candidate-vibid:366300566736": 1,
+      "gas:candidate-vibid:1001000136126": 9,
+      "gas:candidate-vibid:1001000113982": 119,
+      "special:against-all": 54
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=662000068&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=266200066932&region=0&sub_region=0&type=429",
@@ -11410,15 +11410,15 @@ export const duma_2003_uik_428_region_66_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Артюх Евгений Петрович": 87,
-      "Баков Антон Алексеевич": 391,
-      "Воротников Валерий Павлович": 60,
-      "Глацких Артем Вячеславович": 7,
-      "Канисев Иван Иванович": 13,
-      "Мелехин Валерий Иванович": 3,
-      "Миллеров Всеволод Борисович": 12,
-      "Селиванов Андрей Владимирович": 199,
-      "Против всех": 90
+      "gas:candidate-vibid:1001000220845": 87,
+      "gas:candidate-vibid:1001000214170": 391,
+      "gas:candidate-vibid:1001000131415": 60,
+      "gas:candidate-vibid:366300566753": 7,
+      "gas:candidate-vibid:1001000121913": 13,
+      "gas:candidate-vibid:366300566736": 3,
+      "gas:candidate-vibid:1001000136126": 12,
+      "gas:candidate-vibid:1001000113982": 199,
+      "special:against-all": 90
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=662000068&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=266200066932&region=0&sub_region=0&type=429",
@@ -11468,15 +11468,15 @@ export const duma_2003_uik_428_region_66_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Артюх Евгений Петрович": 159,
-      "Баков Антон Алексеевич": 453,
-      "Воротников Валерий Павлович": 44,
-      "Глацких Артем Вячеславович": 1,
-      "Канисев Иван Иванович": 40,
-      "Мелехин Валерий Иванович": 0,
-      "Миллеров Всеволод Борисович": 19,
-      "Селиванов Андрей Владимирович": 192,
-      "Против всех": 131
+      "gas:candidate-vibid:1001000220845": 159,
+      "gas:candidate-vibid:1001000214170": 453,
+      "gas:candidate-vibid:1001000131415": 44,
+      "gas:candidate-vibid:366300566753": 1,
+      "gas:candidate-vibid:1001000121913": 40,
+      "gas:candidate-vibid:366300566736": 0,
+      "gas:candidate-vibid:1001000136126": 19,
+      "gas:candidate-vibid:1001000113982": 192,
+      "special:against-all": 131
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=662000068&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=266200066932&region=0&sub_region=0&type=429",
@@ -11526,15 +11526,15 @@ export const duma_2003_uik_428_region_66_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Артюх Евгений Петрович": 39,
-      "Баков Антон Алексеевич": 74,
-      "Воротников Валерий Павлович": 35,
-      "Глацких Артем Вячеславович": 2,
-      "Канисев Иван Иванович": 4,
-      "Мелехин Валерий Иванович": 0,
-      "Миллеров Всеволод Борисович": 4,
-      "Селиванов Андрей Владимирович": 109,
-      "Против всех": 34
+      "gas:candidate-vibid:1001000220845": 39,
+      "gas:candidate-vibid:1001000214170": 74,
+      "gas:candidate-vibid:1001000131415": 35,
+      "gas:candidate-vibid:366300566753": 2,
+      "gas:candidate-vibid:1001000121913": 4,
+      "gas:candidate-vibid:366300566736": 0,
+      "gas:candidate-vibid:1001000136126": 4,
+      "gas:candidate-vibid:1001000113982": 109,
+      "special:against-all": 34
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=662000068&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=266200066932&region=0&sub_region=0&type=429",
@@ -11584,15 +11584,15 @@ export const duma_2003_uik_428_region_66_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Артюх Евгений Петрович": 1,
-      "Баков Антон Алексеевич": 14,
-      "Воротников Валерий Павлович": 4,
-      "Глацких Артем Вячеславович": 0,
-      "Канисев Иван Иванович": 1,
-      "Мелехин Валерий Иванович": 1,
-      "Миллеров Всеволод Борисович": 0,
-      "Селиванов Андрей Владимирович": 21,
-      "Против всех": 6
+      "gas:candidate-vibid:1001000220845": 1,
+      "gas:candidate-vibid:1001000214170": 14,
+      "gas:candidate-vibid:1001000131415": 4,
+      "gas:candidate-vibid:366300566753": 0,
+      "gas:candidate-vibid:1001000121913": 1,
+      "gas:candidate-vibid:366300566736": 1,
+      "gas:candidate-vibid:1001000136126": 0,
+      "gas:candidate-vibid:1001000113982": 21,
+      "special:against-all": 6
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=662000068&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=266200066932&region=0&sub_region=0&type=429",
@@ -11642,15 +11642,15 @@ export const duma_2003_uik_428_region_66_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Артюх Евгений Петрович": 4,
-      "Баков Антон Алексеевич": 25,
-      "Воротников Валерий Павлович": 5,
-      "Глацких Артем Вячеславович": 0,
-      "Канисев Иван Иванович": 0,
-      "Мелехин Валерий Иванович": 0,
-      "Миллеров Всеволод Борисович": 1,
-      "Селиванов Андрей Владимирович": 51,
-      "Против всех": 8
+      "gas:candidate-vibid:1001000220845": 4,
+      "gas:candidate-vibid:1001000214170": 25,
+      "gas:candidate-vibid:1001000131415": 5,
+      "gas:candidate-vibid:366300566753": 0,
+      "gas:candidate-vibid:1001000121913": 0,
+      "gas:candidate-vibid:366300566736": 0,
+      "gas:candidate-vibid:1001000136126": 1,
+      "gas:candidate-vibid:1001000113982": 51,
+      "special:against-all": 8
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=662000068&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=266200066932&region=0&sub_region=0&type=429",
@@ -11700,15 +11700,15 @@ export const duma_2003_uik_428_region_66_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Артюх Евгений Петрович": 7,
-      "Баков Антон Алексеевич": 51,
-      "Воротников Валерий Павлович": 19,
-      "Глацких Артем Вячеславович": 1,
-      "Канисев Иван Иванович": 6,
-      "Мелехин Валерий Иванович": 0,
-      "Миллеров Всеволод Борисович": 5,
-      "Селиванов Андрей Владимирович": 109,
-      "Против всех": 16
+      "gas:candidate-vibid:1001000220845": 7,
+      "gas:candidate-vibid:1001000214170": 51,
+      "gas:candidate-vibid:1001000131415": 19,
+      "gas:candidate-vibid:366300566753": 1,
+      "gas:candidate-vibid:1001000121913": 6,
+      "gas:candidate-vibid:366300566736": 0,
+      "gas:candidate-vibid:1001000136126": 5,
+      "gas:candidate-vibid:1001000113982": 109,
+      "special:against-all": 16
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=662000068&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=266200066932&region=0&sub_region=0&type=429",
@@ -11758,15 +11758,15 @@ export const duma_2003_uik_428_region_66_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Артюх Евгений Петрович": 2,
-      "Баков Антон Алексеевич": 13,
-      "Воротников Валерий Павлович": 1,
-      "Глацких Артем Вячеславович": 0,
-      "Канисев Иван Иванович": 2,
-      "Мелехин Валерий Иванович": 0,
-      "Миллеров Всеволод Борисович": 0,
-      "Селиванов Андрей Владимирович": 41,
-      "Против всех": 0
+      "gas:candidate-vibid:1001000220845": 2,
+      "gas:candidate-vibid:1001000214170": 13,
+      "gas:candidate-vibid:1001000131415": 1,
+      "gas:candidate-vibid:366300566753": 0,
+      "gas:candidate-vibid:1001000121913": 2,
+      "gas:candidate-vibid:366300566736": 0,
+      "gas:candidate-vibid:1001000136126": 0,
+      "gas:candidate-vibid:1001000113982": 41,
+      "special:against-all": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=662000068&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=266200066932&region=0&sub_region=0&type=429",
@@ -11816,15 +11816,15 @@ export const duma_2003_uik_428_region_66_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Артюх Евгений Петрович": 15,
-      "Баков Антон Алексеевич": 41,
-      "Воротников Валерий Павлович": 30,
-      "Глацких Артем Вячеславович": 0,
-      "Канисев Иван Иванович": 13,
-      "Мелехин Валерий Иванович": 2,
-      "Миллеров Всеволод Борисович": 5,
-      "Селиванов Андрей Владимирович": 123,
-      "Против всех": 44
+      "gas:candidate-vibid:1001000220845": 15,
+      "gas:candidate-vibid:1001000214170": 41,
+      "gas:candidate-vibid:1001000131415": 30,
+      "gas:candidate-vibid:366300566753": 0,
+      "gas:candidate-vibid:1001000121913": 13,
+      "gas:candidate-vibid:366300566736": 2,
+      "gas:candidate-vibid:1001000136126": 5,
+      "gas:candidate-vibid:1001000113982": 123,
+      "special:against-all": 44
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=662000069&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=266200066933&region=0&sub_region=0&type=429",
@@ -11874,15 +11874,15 @@ export const duma_2003_uik_428_region_66_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Артюх Евгений Петрович": 11,
-      "Баков Антон Алексеевич": 20,
-      "Воротников Валерий Павлович": 13,
-      "Глацких Артем Вячеславович": 1,
-      "Канисев Иван Иванович": 6,
-      "Мелехин Валерий Иванович": 3,
-      "Миллеров Всеволод Борисович": 6,
-      "Селиванов Андрей Владимирович": 111,
-      "Против всех": 39
+      "gas:candidate-vibid:1001000220845": 11,
+      "gas:candidate-vibid:1001000214170": 20,
+      "gas:candidate-vibid:1001000131415": 13,
+      "gas:candidate-vibid:366300566753": 1,
+      "gas:candidate-vibid:1001000121913": 6,
+      "gas:candidate-vibid:366300566736": 3,
+      "gas:candidate-vibid:1001000136126": 6,
+      "gas:candidate-vibid:1001000113982": 111,
+      "special:against-all": 39
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=662000069&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=266200066933&region=0&sub_region=0&type=429",
@@ -11932,15 +11932,15 @@ export const duma_2003_uik_428_region_66_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Артюх Евгений Петрович": 29,
-      "Баков Антон Алексеевич": 165,
-      "Воротников Валерий Павлович": 28,
-      "Глацких Артем Вячеславович": 5,
-      "Канисев Иван Иванович": 7,
-      "Мелехин Валерий Иванович": 7,
-      "Миллеров Всеволод Борисович": 11,
-      "Селиванов Андрей Владимирович": 144,
-      "Против всех": 79
+      "gas:candidate-vibid:1001000220845": 29,
+      "gas:candidate-vibid:1001000214170": 165,
+      "gas:candidate-vibid:1001000131415": 28,
+      "gas:candidate-vibid:366300566753": 5,
+      "gas:candidate-vibid:1001000121913": 7,
+      "gas:candidate-vibid:366300566736": 7,
+      "gas:candidate-vibid:1001000136126": 11,
+      "gas:candidate-vibid:1001000113982": 144,
+      "special:against-all": 79
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=662000069&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=266200066933&region=0&sub_region=0&type=429",
@@ -11990,15 +11990,15 @@ export const duma_2003_uik_428_region_66_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Артюх Евгений Петрович": 60,
-      "Баков Антон Алексеевич": 199,
-      "Воротников Валерий Павлович": 64,
-      "Глацких Артем Вячеславович": 4,
-      "Канисев Иван Иванович": 16,
-      "Мелехин Валерий Иванович": 6,
-      "Миллеров Всеволод Борисович": 12,
-      "Селиванов Андрей Владимирович": 294,
-      "Против всех": 100
+      "gas:candidate-vibid:1001000220845": 60,
+      "gas:candidate-vibid:1001000214170": 199,
+      "gas:candidate-vibid:1001000131415": 64,
+      "gas:candidate-vibid:366300566753": 4,
+      "gas:candidate-vibid:1001000121913": 16,
+      "gas:candidate-vibid:366300566736": 6,
+      "gas:candidate-vibid:1001000136126": 12,
+      "gas:candidate-vibid:1001000113982": 294,
+      "special:against-all": 100
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=662000069&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=266200066933&region=0&sub_region=0&type=429",
@@ -12048,15 +12048,15 @@ export const duma_2003_uik_428_region_66_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Артюх Евгений Петрович": 115,
-      "Баков Антон Алексеевич": 262,
-      "Воротников Валерий Павлович": 21,
-      "Глацких Артем Вячеславович": 2,
-      "Канисев Иван Иванович": 13,
-      "Мелехин Валерий Иванович": 8,
-      "Миллеров Всеволод Борисович": 15,
-      "Селиванов Андрей Владимирович": 217,
-      "Против всех": 119
+      "gas:candidate-vibid:1001000220845": 115,
+      "gas:candidate-vibid:1001000214170": 262,
+      "gas:candidate-vibid:1001000131415": 21,
+      "gas:candidate-vibid:366300566753": 2,
+      "gas:candidate-vibid:1001000121913": 13,
+      "gas:candidate-vibid:366300566736": 8,
+      "gas:candidate-vibid:1001000136126": 15,
+      "gas:candidate-vibid:1001000113982": 217,
+      "special:against-all": 119
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=662000069&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=266200066933&region=0&sub_region=0&type=429",
@@ -12106,15 +12106,15 @@ export const duma_2003_uik_428_region_66_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Артюх Евгений Петрович": 18,
-      "Баков Антон Алексеевич": 54,
-      "Воротников Валерий Павлович": 14,
-      "Глацких Артем Вячеславович": 2,
-      "Канисев Иван Иванович": 2,
-      "Мелехин Валерий Иванович": 2,
-      "Миллеров Всеволод Борисович": 13,
-      "Селиванов Андрей Владимирович": 122,
-      "Против всех": 37
+      "gas:candidate-vibid:1001000220845": 18,
+      "gas:candidate-vibid:1001000214170": 54,
+      "gas:candidate-vibid:1001000131415": 14,
+      "gas:candidate-vibid:366300566753": 2,
+      "gas:candidate-vibid:1001000121913": 2,
+      "gas:candidate-vibid:366300566736": 2,
+      "gas:candidate-vibid:1001000136126": 13,
+      "gas:candidate-vibid:1001000113982": 122,
+      "special:against-all": 37
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=662000069&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=266200066933&region=0&sub_region=0&type=429",
@@ -12164,15 +12164,15 @@ export const duma_2003_uik_428_region_66_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Артюх Евгений Петрович": 12,
-      "Баков Антон Алексеевич": 50,
-      "Воротников Валерий Павлович": 19,
-      "Глацких Артем Вячеславович": 0,
-      "Канисев Иван Иванович": 1,
-      "Мелехин Валерий Иванович": 0,
-      "Миллеров Всеволод Борисович": 4,
-      "Селиванов Андрей Владимирович": 124,
-      "Против всех": 35
+      "gas:candidate-vibid:1001000220845": 12,
+      "gas:candidate-vibid:1001000214170": 50,
+      "gas:candidate-vibid:1001000131415": 19,
+      "gas:candidate-vibid:366300566753": 0,
+      "gas:candidate-vibid:1001000121913": 1,
+      "gas:candidate-vibid:366300566736": 0,
+      "gas:candidate-vibid:1001000136126": 4,
+      "gas:candidate-vibid:1001000113982": 124,
+      "special:against-all": 35
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=662000069&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=266200066933&region=0&sub_region=0&type=429",
@@ -12222,15 +12222,15 @@ export const duma_2003_uik_428_region_66_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Артюх Евгений Петрович": 70,
-      "Баков Антон Алексеевич": 203,
-      "Воротников Валерий Павлович": 28,
-      "Глацких Артем Вячеславович": 7,
-      "Канисев Иван Иванович": 11,
-      "Мелехин Валерий Иванович": 18,
-      "Миллеров Всеволод Борисович": 19,
-      "Селиванов Андрей Владимирович": 344,
-      "Против всех": 241
+      "gas:candidate-vibid:1001000220845": 70,
+      "gas:candidate-vibid:1001000214170": 203,
+      "gas:candidate-vibid:1001000131415": 28,
+      "gas:candidate-vibid:366300566753": 7,
+      "gas:candidate-vibid:1001000121913": 11,
+      "gas:candidate-vibid:366300566736": 18,
+      "gas:candidate-vibid:1001000136126": 19,
+      "gas:candidate-vibid:1001000113982": 344,
+      "special:against-all": 241
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=662000069&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=266200066933&region=0&sub_region=0&type=429",
@@ -12280,15 +12280,15 @@ export const duma_2003_uik_428_region_66_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Артюх Евгений Петрович": 105,
-      "Баков Антон Алексеевич": 272,
-      "Воротников Валерий Павлович": 58,
-      "Глацких Артем Вячеславович": 14,
-      "Канисев Иван Иванович": 19,
-      "Мелехин Валерий Иванович": 23,
-      "Миллеров Всеволод Борисович": 33,
-      "Селиванов Андрей Владимирович": 512,
-      "Против всех": 391
+      "gas:candidate-vibid:1001000220845": 105,
+      "gas:candidate-vibid:1001000214170": 272,
+      "gas:candidate-vibid:1001000131415": 58,
+      "gas:candidate-vibid:366300566753": 14,
+      "gas:candidate-vibid:1001000121913": 19,
+      "gas:candidate-vibid:366300566736": 23,
+      "gas:candidate-vibid:1001000136126": 33,
+      "gas:candidate-vibid:1001000113982": 512,
+      "special:against-all": 391
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=662000069&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=266200066933&region=0&sub_region=0&type=429",
@@ -12338,15 +12338,15 @@ export const duma_2003_uik_428_region_66_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Артюх Евгений Петрович": 21,
-      "Баков Антон Алексеевич": 61,
-      "Воротников Валерий Павлович": 7,
-      "Глацких Артем Вячеславович": 1,
-      "Канисев Иван Иванович": 0,
-      "Мелехин Валерий Иванович": 3,
-      "Миллеров Всеволод Борисович": 5,
-      "Селиванов Андрей Владимирович": 75,
-      "Против всех": 41
+      "gas:candidate-vibid:1001000220845": 21,
+      "gas:candidate-vibid:1001000214170": 61,
+      "gas:candidate-vibid:1001000131415": 7,
+      "gas:candidate-vibid:366300566753": 1,
+      "gas:candidate-vibid:1001000121913": 0,
+      "gas:candidate-vibid:366300566736": 3,
+      "gas:candidate-vibid:1001000136126": 5,
+      "gas:candidate-vibid:1001000113982": 75,
+      "special:against-all": 41
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=662000069&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=266200066933&region=0&sub_region=0&type=429",
@@ -12396,15 +12396,15 @@ export const duma_2003_uik_428_region_66_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Артюх Евгений Петрович": 9,
-      "Баков Антон Алексеевич": 108,
-      "Воротников Валерий Павлович": 6,
-      "Глацких Артем Вячеславович": 4,
-      "Канисев Иван Иванович": 6,
-      "Мелехин Валерий Иванович": 3,
-      "Миллеров Всеволод Борисович": 7,
-      "Селиванов Андрей Владимирович": 55,
-      "Против всех": 26
+      "gas:candidate-vibid:1001000220845": 9,
+      "gas:candidate-vibid:1001000214170": 108,
+      "gas:candidate-vibid:1001000131415": 6,
+      "gas:candidate-vibid:366300566753": 4,
+      "gas:candidate-vibid:1001000121913": 6,
+      "gas:candidate-vibid:366300566736": 3,
+      "gas:candidate-vibid:1001000136126": 7,
+      "gas:candidate-vibid:1001000113982": 55,
+      "special:against-all": 26
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=662000069&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=266200066933&region=0&sub_region=0&type=429",
@@ -12454,15 +12454,15 @@ export const duma_2003_uik_428_region_66_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Артюх Евгений Петрович": 56,
-      "Баков Антон Алексеевич": 158,
-      "Воротников Валерий Павлович": 71,
-      "Глацких Артем Вячеславович": 3,
-      "Канисев Иван Иванович": 13,
-      "Мелехин Валерий Иванович": 14,
-      "Миллеров Всеволод Борисович": 9,
-      "Селиванов Андрей Владимирович": 272,
-      "Против всех": 161
+      "gas:candidate-vibid:1001000220845": 56,
+      "gas:candidate-vibid:1001000214170": 158,
+      "gas:candidate-vibid:1001000131415": 71,
+      "gas:candidate-vibid:366300566753": 3,
+      "gas:candidate-vibid:1001000121913": 13,
+      "gas:candidate-vibid:366300566736": 14,
+      "gas:candidate-vibid:1001000136126": 9,
+      "gas:candidate-vibid:1001000113982": 272,
+      "special:against-all": 161
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=662000069&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=266200066933&region=0&sub_region=0&type=429",
@@ -12512,15 +12512,15 @@ export const duma_2003_uik_428_region_66_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Артюх Евгений Петрович": 74,
-      "Баков Антон Алексеевич": 355,
-      "Воротников Валерий Павлович": 63,
-      "Глацких Артем Вячеславович": 20,
-      "Канисев Иван Иванович": 21,
-      "Мелехин Валерий Иванович": 21,
-      "Миллеров Всеволод Борисович": 39,
-      "Селиванов Андрей Владимирович": 464,
-      "Против всех": 397
+      "gas:candidate-vibid:1001000220845": 74,
+      "gas:candidate-vibid:1001000214170": 355,
+      "gas:candidate-vibid:1001000131415": 63,
+      "gas:candidate-vibid:366300566753": 20,
+      "gas:candidate-vibid:1001000121913": 21,
+      "gas:candidate-vibid:366300566736": 21,
+      "gas:candidate-vibid:1001000136126": 39,
+      "gas:candidate-vibid:1001000113982": 464,
+      "special:against-all": 397
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=662000069&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=266200066933&region=0&sub_region=0&type=429",
@@ -12570,15 +12570,15 @@ export const duma_2003_uik_428_region_66_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Артюх Евгений Петрович": 115,
-      "Баков Антон Алексеевич": 275,
-      "Воротников Валерий Павлович": 72,
-      "Глацких Артем Вячеславович": 2,
-      "Канисев Иван Иванович": 25,
-      "Мелехин Валерий Иванович": 22,
-      "Миллеров Всеволод Борисович": 18,
-      "Селиванов Андрей Владимирович": 402,
-      "Против всех": 289
+      "gas:candidate-vibid:1001000220845": 115,
+      "gas:candidate-vibid:1001000214170": 275,
+      "gas:candidate-vibid:1001000131415": 72,
+      "gas:candidate-vibid:366300566753": 2,
+      "gas:candidate-vibid:1001000121913": 25,
+      "gas:candidate-vibid:366300566736": 22,
+      "gas:candidate-vibid:1001000136126": 18,
+      "gas:candidate-vibid:1001000113982": 402,
+      "special:against-all": 289
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=662000069&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=266200066933&region=0&sub_region=0&type=429",
@@ -12628,15 +12628,15 @@ export const duma_2003_uik_428_region_66_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Артюх Евгений Петрович": 167,
-      "Баков Антон Алексеевич": 142,
-      "Воротников Валерий Павлович": 57,
-      "Глацких Артем Вячеславович": 10,
-      "Канисев Иван Иванович": 6,
-      "Мелехин Валерий Иванович": 23,
-      "Миллеров Всеволод Борисович": 16,
-      "Селиванов Андрей Владимирович": 386,
-      "Против всех": 239
+      "gas:candidate-vibid:1001000220845": 167,
+      "gas:candidate-vibid:1001000214170": 142,
+      "gas:candidate-vibid:1001000131415": 57,
+      "gas:candidate-vibid:366300566753": 10,
+      "gas:candidate-vibid:1001000121913": 6,
+      "gas:candidate-vibid:366300566736": 23,
+      "gas:candidate-vibid:1001000136126": 16,
+      "gas:candidate-vibid:1001000113982": 386,
+      "special:against-all": 239
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=662000069&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=266200066933&region=0&sub_region=0&type=429",
@@ -12686,15 +12686,15 @@ export const duma_2003_uik_428_region_66_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Артюх Евгений Петрович": 82,
-      "Баков Антон Алексеевич": 359,
-      "Воротников Валерий Павлович": 52,
-      "Глацких Артем Вячеславович": 10,
-      "Канисев Иван Иванович": 15,
-      "Мелехин Валерий Иванович": 28,
-      "Миллеров Всеволод Борисович": 30,
-      "Селиванов Андрей Владимирович": 423,
-      "Против всех": 288
+      "gas:candidate-vibid:1001000220845": 82,
+      "gas:candidate-vibid:1001000214170": 359,
+      "gas:candidate-vibid:1001000131415": 52,
+      "gas:candidate-vibid:366300566753": 10,
+      "gas:candidate-vibid:1001000121913": 15,
+      "gas:candidate-vibid:366300566736": 28,
+      "gas:candidate-vibid:1001000136126": 30,
+      "gas:candidate-vibid:1001000113982": 423,
+      "special:against-all": 288
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=662000069&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=266200066933&region=0&sub_region=0&type=429",
@@ -12744,15 +12744,15 @@ export const duma_2003_uik_428_region_66_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Артюх Евгений Петрович": 12,
-      "Баков Антон Алексеевич": 55,
-      "Воротников Валерий Павлович": 8,
-      "Глацких Артем Вячеславович": 0,
-      "Канисев Иван Иванович": 2,
-      "Мелехин Валерий Иванович": 2,
-      "Миллеров Всеволод Борисович": 7,
-      "Селиванов Андрей Владимирович": 273,
-      "Против всех": 37
+      "gas:candidate-vibid:1001000220845": 12,
+      "gas:candidate-vibid:1001000214170": 55,
+      "gas:candidate-vibid:1001000131415": 8,
+      "gas:candidate-vibid:366300566753": 0,
+      "gas:candidate-vibid:1001000121913": 2,
+      "gas:candidate-vibid:366300566736": 2,
+      "gas:candidate-vibid:1001000136126": 7,
+      "gas:candidate-vibid:1001000113982": 273,
+      "special:against-all": 37
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=662000069&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=266200066933&region=0&sub_region=0&type=429",
@@ -12802,15 +12802,15 @@ export const duma_2003_uik_428_region_66_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Артюх Евгений Петрович": 78,
-      "Баков Антон Алексеевич": 313,
-      "Воротников Валерий Павлович": 35,
-      "Глацких Артем Вячеславович": 4,
-      "Канисев Иван Иванович": 25,
-      "Мелехин Валерий Иванович": 10,
-      "Миллеров Всеволод Борисович": 20,
-      "Селиванов Андрей Владимирович": 367,
-      "Против всех": 193
+      "gas:candidate-vibid:1001000220845": 78,
+      "gas:candidate-vibid:1001000214170": 313,
+      "gas:candidate-vibid:1001000131415": 35,
+      "gas:candidate-vibid:366300566753": 4,
+      "gas:candidate-vibid:1001000121913": 25,
+      "gas:candidate-vibid:366300566736": 10,
+      "gas:candidate-vibid:1001000136126": 20,
+      "gas:candidate-vibid:1001000113982": 367,
+      "special:against-all": 193
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=662000069&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=266200066933&region=0&sub_region=0&type=429",
@@ -12860,15 +12860,15 @@ export const duma_2003_uik_428_region_66_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Артюх Евгений Петрович": 83,
-      "Баков Антон Алексеевич": 170,
-      "Воротников Валерий Павлович": 40,
-      "Глацких Артем Вячеславович": 8,
-      "Канисев Иван Иванович": 16,
-      "Мелехин Валерий Иванович": 20,
-      "Миллеров Всеволод Борисович": 17,
-      "Селиванов Андрей Владимирович": 250,
-      "Против всех": 171
+      "gas:candidate-vibid:1001000220845": 83,
+      "gas:candidate-vibid:1001000214170": 170,
+      "gas:candidate-vibid:1001000131415": 40,
+      "gas:candidate-vibid:366300566753": 8,
+      "gas:candidate-vibid:1001000121913": 16,
+      "gas:candidate-vibid:366300566736": 20,
+      "gas:candidate-vibid:1001000136126": 17,
+      "gas:candidate-vibid:1001000113982": 250,
+      "special:against-all": 171
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=662000069&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=266200066933&region=0&sub_region=0&type=429",
@@ -12918,15 +12918,15 @@ export const duma_2003_uik_428_region_66_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Артюх Евгений Петрович": 106,
-      "Баков Антон Алексеевич": 162,
-      "Воротников Валерий Павлович": 43,
-      "Глацких Артем Вячеславович": 9,
-      "Канисев Иван Иванович": 19,
-      "Мелехин Валерий Иванович": 11,
-      "Миллеров Всеволод Борисович": 23,
-      "Селиванов Андрей Владимирович": 281,
-      "Против всех": 180
+      "gas:candidate-vibid:1001000220845": 106,
+      "gas:candidate-vibid:1001000214170": 162,
+      "gas:candidate-vibid:1001000131415": 43,
+      "gas:candidate-vibid:366300566753": 9,
+      "gas:candidate-vibid:1001000121913": 19,
+      "gas:candidate-vibid:366300566736": 11,
+      "gas:candidate-vibid:1001000136126": 23,
+      "gas:candidate-vibid:1001000113982": 281,
+      "special:against-all": 180
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=662000069&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=266200066933&region=0&sub_region=0&type=429",
@@ -12976,15 +12976,15 @@ export const duma_2003_uik_428_region_66_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Артюх Евгений Петрович": 96,
-      "Баков Антон Алексеевич": 221,
-      "Воротников Валерий Павлович": 43,
-      "Глацких Артем Вячеславович": 5,
-      "Канисев Иван Иванович": 18,
-      "Мелехин Валерий Иванович": 14,
-      "Миллеров Всеволод Борисович": 14,
-      "Селиванов Андрей Владимирович": 309,
-      "Против всех": 176
+      "gas:candidate-vibid:1001000220845": 96,
+      "gas:candidate-vibid:1001000214170": 221,
+      "gas:candidate-vibid:1001000131415": 43,
+      "gas:candidate-vibid:366300566753": 5,
+      "gas:candidate-vibid:1001000121913": 18,
+      "gas:candidate-vibid:366300566736": 14,
+      "gas:candidate-vibid:1001000136126": 14,
+      "gas:candidate-vibid:1001000113982": 309,
+      "special:against-all": 176
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=662000069&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=266200066933&region=0&sub_region=0&type=429",
@@ -13034,15 +13034,15 @@ export const duma_2003_uik_428_region_66_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Артюх Евгений Петрович": 59,
-      "Баков Антон Алексеевич": 227,
-      "Воротников Валерий Павлович": 45,
-      "Глацких Артем Вячеславович": 4,
-      "Канисев Иван Иванович": 17,
-      "Мелехин Валерий Иванович": 13,
-      "Миллеров Всеволод Борисович": 13,
-      "Селиванов Андрей Владимирович": 239,
-      "Против всех": 154
+      "gas:candidate-vibid:1001000220845": 59,
+      "gas:candidate-vibid:1001000214170": 227,
+      "gas:candidate-vibid:1001000131415": 45,
+      "gas:candidate-vibid:366300566753": 4,
+      "gas:candidate-vibid:1001000121913": 17,
+      "gas:candidate-vibid:366300566736": 13,
+      "gas:candidate-vibid:1001000136126": 13,
+      "gas:candidate-vibid:1001000113982": 239,
+      "special:against-all": 154
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=662000069&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=266200066933&region=0&sub_region=0&type=429",
@@ -13092,15 +13092,15 @@ export const duma_2003_uik_428_region_66_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Артюх Евгений Петрович": 92,
-      "Баков Антон Алексеевич": 237,
-      "Воротников Валерий Павлович": 41,
-      "Глацких Артем Вячеславович": 4,
-      "Канисев Иван Иванович": 15,
-      "Мелехин Валерий Иванович": 14,
-      "Миллеров Всеволод Борисович": 13,
-      "Селиванов Андрей Владимирович": 227,
-      "Против всех": 108
+      "gas:candidate-vibid:1001000220845": 92,
+      "gas:candidate-vibid:1001000214170": 237,
+      "gas:candidate-vibid:1001000131415": 41,
+      "gas:candidate-vibid:366300566753": 4,
+      "gas:candidate-vibid:1001000121913": 15,
+      "gas:candidate-vibid:366300566736": 14,
+      "gas:candidate-vibid:1001000136126": 13,
+      "gas:candidate-vibid:1001000113982": 227,
+      "special:against-all": 108
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=662000069&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=266200066933&region=0&sub_region=0&type=429",
@@ -13150,15 +13150,15 @@ export const duma_2003_uik_428_region_66_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Артюх Евгений Петрович": 49,
-      "Баков Антон Алексеевич": 189,
-      "Воротников Валерий Павлович": 25,
-      "Глацких Артем Вячеславович": 3,
-      "Канисев Иван Иванович": 8,
-      "Мелехин Валерий Иванович": 15,
-      "Миллеров Всеволод Борисович": 10,
-      "Селиванов Андрей Владимирович": 190,
-      "Против всех": 143
+      "gas:candidate-vibid:1001000220845": 49,
+      "gas:candidate-vibid:1001000214170": 189,
+      "gas:candidate-vibid:1001000131415": 25,
+      "gas:candidate-vibid:366300566753": 3,
+      "gas:candidate-vibid:1001000121913": 8,
+      "gas:candidate-vibid:366300566736": 15,
+      "gas:candidate-vibid:1001000136126": 10,
+      "gas:candidate-vibid:1001000113982": 190,
+      "special:against-all": 143
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=662000069&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=266200066933&region=0&sub_region=0&type=429",
@@ -13208,15 +13208,15 @@ export const duma_2003_uik_428_region_66_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Артюх Евгений Петрович": 21,
-      "Баков Антон Алексеевич": 77,
-      "Воротников Валерий Павлович": 7,
-      "Глацких Артем Вячеславович": 1,
-      "Канисев Иван Иванович": 4,
-      "Мелехин Валерий Иванович": 9,
-      "Миллеров Всеволод Борисович": 8,
-      "Селиванов Андрей Владимирович": 140,
-      "Против всех": 94
+      "gas:candidate-vibid:1001000220845": 21,
+      "gas:candidate-vibid:1001000214170": 77,
+      "gas:candidate-vibid:1001000131415": 7,
+      "gas:candidate-vibid:366300566753": 1,
+      "gas:candidate-vibid:1001000121913": 4,
+      "gas:candidate-vibid:366300566736": 9,
+      "gas:candidate-vibid:1001000136126": 8,
+      "gas:candidate-vibid:1001000113982": 140,
+      "special:against-all": 94
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=662000069&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=266200066933&region=0&sub_region=0&type=429",
@@ -13266,15 +13266,15 @@ export const duma_2003_uik_428_region_66_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Артюх Евгений Петрович": 61,
-      "Баков Антон Алексеевич": 162,
-      "Воротников Валерий Павлович": 23,
-      "Глацких Артем Вячеславович": 4,
-      "Канисев Иван Иванович": 8,
-      "Мелехин Валерий Иванович": 10,
-      "Миллеров Всеволод Борисович": 11,
-      "Селиванов Андрей Владимирович": 179,
-      "Против всех": 134
+      "gas:candidate-vibid:1001000220845": 61,
+      "gas:candidate-vibid:1001000214170": 162,
+      "gas:candidate-vibid:1001000131415": 23,
+      "gas:candidate-vibid:366300566753": 4,
+      "gas:candidate-vibid:1001000121913": 8,
+      "gas:candidate-vibid:366300566736": 10,
+      "gas:candidate-vibid:1001000136126": 11,
+      "gas:candidate-vibid:1001000113982": 179,
+      "special:against-all": 134
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=662000069&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=266200066933&region=0&sub_region=0&type=429",
@@ -13324,15 +13324,15 @@ export const duma_2003_uik_428_region_66_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Артюх Евгений Петрович": 81,
-      "Баков Антон Алексеевич": 188,
-      "Воротников Валерий Павлович": 29,
-      "Глацких Артем Вячеславович": 2,
-      "Канисев Иван Иванович": 22,
-      "Мелехин Валерий Иванович": 8,
-      "Миллеров Всеволод Борисович": 17,
-      "Селиванов Андрей Владимирович": 228,
-      "Против всех": 125
+      "gas:candidate-vibid:1001000220845": 81,
+      "gas:candidate-vibid:1001000214170": 188,
+      "gas:candidate-vibid:1001000131415": 29,
+      "gas:candidate-vibid:366300566753": 2,
+      "gas:candidate-vibid:1001000121913": 22,
+      "gas:candidate-vibid:366300566736": 8,
+      "gas:candidate-vibid:1001000136126": 17,
+      "gas:candidate-vibid:1001000113982": 228,
+      "special:against-all": 125
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=662000069&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=266200066933&region=0&sub_region=0&type=429",
@@ -13382,15 +13382,15 @@ export const duma_2003_uik_428_region_66_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Артюх Евгений Петрович": 29,
-      "Баков Антон Алексеевич": 56,
-      "Воротников Валерий Павлович": 7,
-      "Глацких Артем Вячеславович": 1,
-      "Канисев Иван Иванович": 5,
-      "Мелехин Валерий Иванович": 1,
-      "Миллеров Всеволод Борисович": 7,
-      "Селиванов Андрей Владимирович": 186,
-      "Против всех": 57
+      "gas:candidate-vibid:1001000220845": 29,
+      "gas:candidate-vibid:1001000214170": 56,
+      "gas:candidate-vibid:1001000131415": 7,
+      "gas:candidate-vibid:366300566753": 1,
+      "gas:candidate-vibid:1001000121913": 5,
+      "gas:candidate-vibid:366300566736": 1,
+      "gas:candidate-vibid:1001000136126": 7,
+      "gas:candidate-vibid:1001000113982": 186,
+      "special:against-all": 57
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=662000069&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=266200066933&region=0&sub_region=0&type=429",
@@ -13440,15 +13440,15 @@ export const duma_2003_uik_428_region_66_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Артюх Евгений Петрович": 37,
-      "Баков Антон Алексеевич": 76,
-      "Воротников Валерий Павлович": 8,
-      "Глацких Артем Вячеславович": 1,
-      "Канисев Иван Иванович": 5,
-      "Мелехин Валерий Иванович": 4,
-      "Миллеров Всеволод Борисович": 6,
-      "Селиванов Андрей Владимирович": 124,
-      "Против всех": 59
+      "gas:candidate-vibid:1001000220845": 37,
+      "gas:candidate-vibid:1001000214170": 76,
+      "gas:candidate-vibid:1001000131415": 8,
+      "gas:candidate-vibid:366300566753": 1,
+      "gas:candidate-vibid:1001000121913": 5,
+      "gas:candidate-vibid:366300566736": 4,
+      "gas:candidate-vibid:1001000136126": 6,
+      "gas:candidate-vibid:1001000113982": 124,
+      "special:against-all": 59
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=662000069&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=266200066933&region=0&sub_region=0&type=429",
@@ -13498,15 +13498,15 @@ export const duma_2003_uik_428_region_66_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Артюх Евгений Петрович": 52,
-      "Баков Антон Алексеевич": 138,
-      "Воротников Валерий Павлович": 33,
-      "Глацких Артем Вячеславович": 0,
-      "Канисев Иван Иванович": 22,
-      "Мелехин Валерий Иванович": 9,
-      "Миллеров Всеволод Борисович": 4,
-      "Селиванов Андрей Владимирович": 222,
-      "Против всех": 105
+      "gas:candidate-vibid:1001000220845": 52,
+      "gas:candidate-vibid:1001000214170": 138,
+      "gas:candidate-vibid:1001000131415": 33,
+      "gas:candidate-vibid:366300566753": 0,
+      "gas:candidate-vibid:1001000121913": 22,
+      "gas:candidate-vibid:366300566736": 9,
+      "gas:candidate-vibid:1001000136126": 4,
+      "gas:candidate-vibid:1001000113982": 222,
+      "special:against-all": 105
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=662000069&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=266200066933&region=0&sub_region=0&type=429",
@@ -13556,15 +13556,15 @@ export const duma_2003_uik_428_region_66_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Артюх Евгений Петрович": 63,
-      "Баков Антон Алексеевич": 202,
-      "Воротников Валерий Павлович": 40,
-      "Глацких Артем Вячеславович": 5,
-      "Канисев Иван Иванович": 13,
-      "Мелехин Валерий Иванович": 14,
-      "Миллеров Всеволод Борисович": 18,
-      "Селиванов Андрей Владимирович": 291,
-      "Против всех": 151
+      "gas:candidate-vibid:1001000220845": 63,
+      "gas:candidate-vibid:1001000214170": 202,
+      "gas:candidate-vibid:1001000131415": 40,
+      "gas:candidate-vibid:366300566753": 5,
+      "gas:candidate-vibid:1001000121913": 13,
+      "gas:candidate-vibid:366300566736": 14,
+      "gas:candidate-vibid:1001000136126": 18,
+      "gas:candidate-vibid:1001000113982": 291,
+      "special:against-all": 151
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=662000069&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=266200066933&region=0&sub_region=0&type=429",
@@ -13614,15 +13614,15 @@ export const duma_2003_uik_428_region_66_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Артюх Евгений Петрович": 43,
-      "Баков Антон Алексеевич": 134,
-      "Воротников Валерий Павлович": 18,
-      "Глацких Артем Вячеславович": 1,
-      "Канисев Иван Иванович": 12,
-      "Мелехин Валерий Иванович": 9,
-      "Миллеров Всеволод Борисович": 11,
-      "Селиванов Андрей Владимирович": 199,
-      "Против всех": 94
+      "gas:candidate-vibid:1001000220845": 43,
+      "gas:candidate-vibid:1001000214170": 134,
+      "gas:candidate-vibid:1001000131415": 18,
+      "gas:candidate-vibid:366300566753": 1,
+      "gas:candidate-vibid:1001000121913": 12,
+      "gas:candidate-vibid:366300566736": 9,
+      "gas:candidate-vibid:1001000136126": 11,
+      "gas:candidate-vibid:1001000113982": 199,
+      "special:against-all": 94
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=662000069&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=266200066933&region=0&sub_region=0&type=429",
@@ -13672,15 +13672,15 @@ export const duma_2003_uik_428_region_66_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Артюх Евгений Петрович": 46,
-      "Баков Антон Алексеевич": 219,
-      "Воротников Валерий Павлович": 35,
-      "Глацких Артем Вячеславович": 3,
-      "Канисев Иван Иванович": 7,
-      "Мелехин Валерий Иванович": 11,
-      "Миллеров Всеволод Борисович": 10,
-      "Селиванов Андрей Владимирович": 228,
-      "Против всех": 154
+      "gas:candidate-vibid:1001000220845": 46,
+      "gas:candidate-vibid:1001000214170": 219,
+      "gas:candidate-vibid:1001000131415": 35,
+      "gas:candidate-vibid:366300566753": 3,
+      "gas:candidate-vibid:1001000121913": 7,
+      "gas:candidate-vibid:366300566736": 11,
+      "gas:candidate-vibid:1001000136126": 10,
+      "gas:candidate-vibid:1001000113982": 228,
+      "special:against-all": 154
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=662000069&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=266200066933&region=0&sub_region=0&type=429",
@@ -13730,15 +13730,15 @@ export const duma_2003_uik_428_region_66_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Артюх Евгений Петрович": 76,
-      "Баков Антон Алексеевич": 275,
-      "Воротников Валерий Павлович": 47,
-      "Глацких Артем Вячеславович": 3,
-      "Канисев Иван Иванович": 7,
-      "Мелехин Валерий Иванович": 16,
-      "Миллеров Всеволод Борисович": 30,
-      "Селиванов Андрей Владимирович": 426,
-      "Против всех": 210
+      "gas:candidate-vibid:1001000220845": 76,
+      "gas:candidate-vibid:1001000214170": 275,
+      "gas:candidate-vibid:1001000131415": 47,
+      "gas:candidate-vibid:366300566753": 3,
+      "gas:candidate-vibid:1001000121913": 7,
+      "gas:candidate-vibid:366300566736": 16,
+      "gas:candidate-vibid:1001000136126": 30,
+      "gas:candidate-vibid:1001000113982": 426,
+      "special:against-all": 210
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=662000069&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=266200066933&region=0&sub_region=0&type=429",
@@ -13788,15 +13788,15 @@ export const duma_2003_uik_428_region_66_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Артюх Евгений Петрович": 93,
-      "Баков Антон Алексеевич": 261,
-      "Воротников Валерий Павлович": 38,
-      "Глацких Артем Вячеславович": 7,
-      "Канисев Иван Иванович": 19,
-      "Мелехин Валерий Иванович": 17,
-      "Миллеров Всеволод Борисович": 29,
-      "Селиванов Андрей Владимирович": 412,
-      "Против всех": 292
+      "gas:candidate-vibid:1001000220845": 93,
+      "gas:candidate-vibid:1001000214170": 261,
+      "gas:candidate-vibid:1001000131415": 38,
+      "gas:candidate-vibid:366300566753": 7,
+      "gas:candidate-vibid:1001000121913": 19,
+      "gas:candidate-vibid:366300566736": 17,
+      "gas:candidate-vibid:1001000136126": 29,
+      "gas:candidate-vibid:1001000113982": 412,
+      "special:against-all": 292
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=662000069&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=266200066933&region=0&sub_region=0&type=429",
@@ -13846,15 +13846,15 @@ export const duma_2003_uik_428_region_66_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Артюх Евгений Петрович": 51,
-      "Баков Антон Алексеевич": 173,
-      "Воротников Валерий Павлович": 44,
-      "Глацких Артем Вячеславович": 8,
-      "Канисев Иван Иванович": 11,
-      "Мелехин Валерий Иванович": 8,
-      "Миллеров Всеволод Борисович": 10,
-      "Селиванов Андрей Владимирович": 326,
-      "Против всех": 202
+      "gas:candidate-vibid:1001000220845": 51,
+      "gas:candidate-vibid:1001000214170": 173,
+      "gas:candidate-vibid:1001000131415": 44,
+      "gas:candidate-vibid:366300566753": 8,
+      "gas:candidate-vibid:1001000121913": 11,
+      "gas:candidate-vibid:366300566736": 8,
+      "gas:candidate-vibid:1001000136126": 10,
+      "gas:candidate-vibid:1001000113982": 326,
+      "special:against-all": 202
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=662000069&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=266200066933&region=0&sub_region=0&type=429",
@@ -13904,15 +13904,15 @@ export const duma_2003_uik_428_region_66_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Артюх Евгений Петрович": 60,
-      "Баков Антон Алексеевич": 135,
-      "Воротников Валерий Павлович": 46,
-      "Глацких Артем Вячеславович": 2,
-      "Канисев Иван Иванович": 13,
-      "Мелехин Валерий Иванович": 9,
-      "Миллеров Всеволод Борисович": 15,
-      "Селиванов Андрей Владимирович": 267,
-      "Против всех": 167
+      "gas:candidate-vibid:1001000220845": 60,
+      "gas:candidate-vibid:1001000214170": 135,
+      "gas:candidate-vibid:1001000131415": 46,
+      "gas:candidate-vibid:366300566753": 2,
+      "gas:candidate-vibid:1001000121913": 13,
+      "gas:candidate-vibid:366300566736": 9,
+      "gas:candidate-vibid:1001000136126": 15,
+      "gas:candidate-vibid:1001000113982": 267,
+      "special:against-all": 167
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=662000069&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=266200066933&region=0&sub_region=0&type=429",
@@ -13962,15 +13962,15 @@ export const duma_2003_uik_428_region_66_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Артюх Евгений Петрович": 5,
-      "Баков Антон Алексеевич": 22,
-      "Воротников Валерий Павлович": 5,
-      "Глацких Артем Вячеславович": 0,
-      "Канисев Иван Иванович": 1,
-      "Мелехин Валерий Иванович": 2,
-      "Миллеров Всеволод Борисович": 2,
-      "Селиванов Андрей Владимирович": 37,
-      "Против всех": 35
+      "gas:candidate-vibid:1001000220845": 5,
+      "gas:candidate-vibid:1001000214170": 22,
+      "gas:candidate-vibid:1001000131415": 5,
+      "gas:candidate-vibid:366300566753": 0,
+      "gas:candidate-vibid:1001000121913": 1,
+      "gas:candidate-vibid:366300566736": 2,
+      "gas:candidate-vibid:1001000136126": 2,
+      "gas:candidate-vibid:1001000113982": 37,
+      "special:against-all": 35
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=662000069&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=266200066933&region=0&sub_region=0&type=429",
@@ -14020,15 +14020,15 @@ export const duma_2003_uik_428_region_66_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Артюх Евгений Петрович": 42,
-      "Баков Антон Алексеевич": 61,
-      "Воротников Валерий Павлович": 20,
-      "Глацких Артем Вячеславович": 0,
-      "Канисев Иван Иванович": 6,
-      "Мелехин Валерий Иванович": 4,
-      "Миллеров Всеволод Борисович": 6,
-      "Селиванов Андрей Владимирович": 151,
-      "Против всех": 95
+      "gas:candidate-vibid:1001000220845": 42,
+      "gas:candidate-vibid:1001000214170": 61,
+      "gas:candidate-vibid:1001000131415": 20,
+      "gas:candidate-vibid:366300566753": 0,
+      "gas:candidate-vibid:1001000121913": 6,
+      "gas:candidate-vibid:366300566736": 4,
+      "gas:candidate-vibid:1001000136126": 6,
+      "gas:candidate-vibid:1001000113982": 151,
+      "special:against-all": 95
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=662000069&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=266200066933&region=0&sub_region=0&type=429",
@@ -14078,15 +14078,15 @@ export const duma_2003_uik_428_region_66_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Артюх Евгений Петрович": 9,
-      "Баков Антон Алексеевич": 18,
-      "Воротников Валерий Павлович": 5,
-      "Глацких Артем Вячеславович": 0,
-      "Канисев Иван Иванович": 1,
-      "Мелехин Валерий Иванович": 0,
-      "Миллеров Всеволод Борисович": 0,
-      "Селиванов Андрей Владимирович": 87,
-      "Против всех": 17
+      "gas:candidate-vibid:1001000220845": 9,
+      "gas:candidate-vibid:1001000214170": 18,
+      "gas:candidate-vibid:1001000131415": 5,
+      "gas:candidate-vibid:366300566753": 0,
+      "gas:candidate-vibid:1001000121913": 1,
+      "gas:candidate-vibid:366300566736": 0,
+      "gas:candidate-vibid:1001000136126": 0,
+      "gas:candidate-vibid:1001000113982": 87,
+      "special:against-all": 17
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=662000069&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=266200066933&region=0&sub_region=0&type=429",
@@ -14136,15 +14136,15 @@ export const duma_2003_uik_428_region_66_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Артюх Евгений Петрович": 1,
-      "Баков Антон Алексеевич": 16,
-      "Воротников Валерий Павлович": 2,
-      "Глацких Артем Вячеславович": 0,
-      "Канисев Иван Иванович": 3,
-      "Мелехин Валерий Иванович": 2,
-      "Миллеров Всеволод Борисович": 1,
-      "Селиванов Андрей Владимирович": 92,
-      "Против всех": 16
+      "gas:candidate-vibid:1001000220845": 1,
+      "gas:candidate-vibid:1001000214170": 16,
+      "gas:candidate-vibid:1001000131415": 2,
+      "gas:candidate-vibid:366300566753": 0,
+      "gas:candidate-vibid:1001000121913": 3,
+      "gas:candidate-vibid:366300566736": 2,
+      "gas:candidate-vibid:1001000136126": 1,
+      "gas:candidate-vibid:1001000113982": 92,
+      "special:against-all": 16
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=662000069&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=266200066933&region=0&sub_region=0&type=429",
@@ -14194,15 +14194,15 @@ export const duma_2003_uik_428_region_66_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Артюх Евгений Петрович": 62,
-      "Баков Антон Алексеевич": 339,
-      "Воротников Валерий Павлович": 23,
-      "Глацких Артем Вячеславович": 5,
-      "Канисев Иван Иванович": 67,
-      "Мелехин Валерий Иванович": 10,
-      "Миллеров Всеволод Борисович": 16,
-      "Селиванов Андрей Владимирович": 285,
-      "Против всех": 122
+      "gas:candidate-vibid:1001000220845": 62,
+      "gas:candidate-vibid:1001000214170": 339,
+      "gas:candidate-vibid:1001000131415": 23,
+      "gas:candidate-vibid:366300566753": 5,
+      "gas:candidate-vibid:1001000121913": 67,
+      "gas:candidate-vibid:366300566736": 10,
+      "gas:candidate-vibid:1001000136126": 16,
+      "gas:candidate-vibid:1001000113982": 285,
+      "special:against-all": 122
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=662000070&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=266200066934&region=0&sub_region=0&type=429",
@@ -14252,15 +14252,15 @@ export const duma_2003_uik_428_region_66_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Артюх Евгений Петрович": 67,
-      "Баков Антон Алексеевич": 374,
-      "Воротников Валерий Павлович": 38,
-      "Глацких Артем Вячеславович": 13,
-      "Канисев Иван Иванович": 91,
-      "Мелехин Валерий Иванович": 12,
-      "Миллеров Всеволод Борисович": 26,
-      "Селиванов Андрей Владимирович": 295,
-      "Против всех": 145
+      "gas:candidate-vibid:1001000220845": 67,
+      "gas:candidate-vibid:1001000214170": 374,
+      "gas:candidate-vibid:1001000131415": 38,
+      "gas:candidate-vibid:366300566753": 13,
+      "gas:candidate-vibid:1001000121913": 91,
+      "gas:candidate-vibid:366300566736": 12,
+      "gas:candidate-vibid:1001000136126": 26,
+      "gas:candidate-vibid:1001000113982": 295,
+      "special:against-all": 145
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=662000070&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=266200066934&region=0&sub_region=0&type=429",
@@ -14310,15 +14310,15 @@ export const duma_2003_uik_428_region_66_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Артюх Евгений Петрович": 86,
-      "Баков Антон Алексеевич": 323,
-      "Воротников Валерий Павлович": 41,
-      "Глацких Артем Вячеславович": 16,
-      "Канисев Иван Иванович": 100,
-      "Мелехин Валерий Иванович": 8,
-      "Миллеров Всеволод Борисович": 24,
-      "Селиванов Андрей Владимирович": 300,
-      "Против всех": 141
+      "gas:candidate-vibid:1001000220845": 86,
+      "gas:candidate-vibid:1001000214170": 323,
+      "gas:candidate-vibid:1001000131415": 41,
+      "gas:candidate-vibid:366300566753": 16,
+      "gas:candidate-vibid:1001000121913": 100,
+      "gas:candidate-vibid:366300566736": 8,
+      "gas:candidate-vibid:1001000136126": 24,
+      "gas:candidate-vibid:1001000113982": 300,
+      "special:against-all": 141
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=662000070&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=266200066934&region=0&sub_region=0&type=429",
@@ -14368,15 +14368,15 @@ export const duma_2003_uik_428_region_66_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Артюх Евгений Петрович": 60,
-      "Баков Антон Алексеевич": 263,
-      "Воротников Валерий Павлович": 29,
-      "Глацких Артем Вячеславович": 7,
-      "Канисев Иван Иванович": 143,
-      "Мелехин Валерий Иванович": 10,
-      "Миллеров Всеволод Борисович": 18,
-      "Селиванов Андрей Владимирович": 349,
-      "Против всех": 143
+      "gas:candidate-vibid:1001000220845": 60,
+      "gas:candidate-vibid:1001000214170": 263,
+      "gas:candidate-vibid:1001000131415": 29,
+      "gas:candidate-vibid:366300566753": 7,
+      "gas:candidate-vibid:1001000121913": 143,
+      "gas:candidate-vibid:366300566736": 10,
+      "gas:candidate-vibid:1001000136126": 18,
+      "gas:candidate-vibid:1001000113982": 349,
+      "special:against-all": 143
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=662000070&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=266200066934&region=0&sub_region=0&type=429",
@@ -14426,15 +14426,15 @@ export const duma_2003_uik_428_region_66_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Артюх Евгений Петрович": 31,
-      "Баков Антон Алексеевич": 241,
-      "Воротников Валерий Павлович": 23,
-      "Глацких Артем Вячеславович": 5,
-      "Канисев Иван Иванович": 64,
-      "Мелехин Валерий Иванович": 5,
-      "Миллеров Всеволод Борисович": 17,
-      "Селиванов Андрей Владимирович": 205,
-      "Против всех": 87
+      "gas:candidate-vibid:1001000220845": 31,
+      "gas:candidate-vibid:1001000214170": 241,
+      "gas:candidate-vibid:1001000131415": 23,
+      "gas:candidate-vibid:366300566753": 5,
+      "gas:candidate-vibid:1001000121913": 64,
+      "gas:candidate-vibid:366300566736": 5,
+      "gas:candidate-vibid:1001000136126": 17,
+      "gas:candidate-vibid:1001000113982": 205,
+      "special:against-all": 87
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=662000070&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=266200066934&region=0&sub_region=0&type=429",
@@ -14484,15 +14484,15 @@ export const duma_2003_uik_428_region_66_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Артюх Евгений Петрович": 70,
-      "Баков Антон Алексеевич": 307,
-      "Воротников Валерий Павлович": 27,
-      "Глацких Артем Вячеславович": 6,
-      "Канисев Иван Иванович": 94,
-      "Мелехин Валерий Иванович": 11,
-      "Миллеров Всеволод Борисович": 32,
-      "Селиванов Андрей Владимирович": 314,
-      "Против всех": 164
+      "gas:candidate-vibid:1001000220845": 70,
+      "gas:candidate-vibid:1001000214170": 307,
+      "gas:candidate-vibid:1001000131415": 27,
+      "gas:candidate-vibid:366300566753": 6,
+      "gas:candidate-vibid:1001000121913": 94,
+      "gas:candidate-vibid:366300566736": 11,
+      "gas:candidate-vibid:1001000136126": 32,
+      "gas:candidate-vibid:1001000113982": 314,
+      "special:against-all": 164
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=662000070&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=266200066934&region=0&sub_region=0&type=429",

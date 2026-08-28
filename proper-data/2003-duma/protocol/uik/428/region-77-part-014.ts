@@ -42,15 +42,15 @@ export const duma_2003_uik_428_region_77_part_014 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Анисимов Георгий Александрович": 24,
-      "Антоненко Евгений Романович": 159,
-      "Зуев Сергей Васильевич": 123,
-      "Кобозев Андрей Владимирович": 17,
-      "Никитин Сергей Викторович": 174,
-      "Осадчий Сергей Юрьевич": 581,
-      "Попов Александр Александрович": 47,
-      "Рубахин Сергей Владимирович": 36,
-      "Против всех": 352
+      "gas:candidate-vibid:1001000195174": 24,
+      "gas:candidate-vibid:1001000114000": 159,
+      "gas:candidate-vibid:377301570743": 123,
+      "gas:candidate-vibid:377301570819": 17,
+      "gas:candidate-vibid:1001000121944": 174,
+      "gas:candidate-vibid:1001000226016": 581,
+      "gas:candidate-vibid:1001000136159": 47,
+      "gas:candidate-vibid:1001000190460": 36,
+      "special:against-all": 352
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=773015005&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=377301570558&region=0&sub_region=0&type=429",
@@ -100,15 +100,15 @@ export const duma_2003_uik_428_region_77_part_014 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Анисимов Георгий Александрович": 27,
-      "Антоненко Евгений Романович": 112,
-      "Зуев Сергей Васильевич": 102,
-      "Кобозев Андрей Владимирович": 17,
-      "Никитин Сергей Викторович": 74,
-      "Осадчий Сергей Юрьевич": 418,
-      "Попов Александр Александрович": 21,
-      "Рубахин Сергей Владимирович": 21,
-      "Против всех": 231
+      "gas:candidate-vibid:1001000195174": 27,
+      "gas:candidate-vibid:1001000114000": 112,
+      "gas:candidate-vibid:377301570743": 102,
+      "gas:candidate-vibid:377301570819": 17,
+      "gas:candidate-vibid:1001000121944": 74,
+      "gas:candidate-vibid:1001000226016": 418,
+      "gas:candidate-vibid:1001000136159": 21,
+      "gas:candidate-vibid:1001000190460": 21,
+      "special:against-all": 231
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=773015005&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=377301570558&region=0&sub_region=0&type=429",
@@ -158,15 +158,15 @@ export const duma_2003_uik_428_region_77_part_014 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Анисимов Георгий Александрович": 36,
-      "Антоненко Евгений Романович": 275,
-      "Зуев Сергей Васильевич": 145,
-      "Кобозев Андрей Владимирович": 25,
-      "Никитин Сергей Викторович": 177,
-      "Осадчий Сергей Юрьевич": 527,
-      "Попов Александр Александрович": 43,
-      "Рубахин Сергей Владимирович": 37,
-      "Против всех": 322
+      "gas:candidate-vibid:1001000195174": 36,
+      "gas:candidate-vibid:1001000114000": 275,
+      "gas:candidate-vibid:377301570743": 145,
+      "gas:candidate-vibid:377301570819": 25,
+      "gas:candidate-vibid:1001000121944": 177,
+      "gas:candidate-vibid:1001000226016": 527,
+      "gas:candidate-vibid:1001000136159": 43,
+      "gas:candidate-vibid:1001000190460": 37,
+      "special:against-all": 322
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=773015005&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=377301570558&region=0&sub_region=0&type=429",
@@ -216,15 +216,15 @@ export const duma_2003_uik_428_region_77_part_014 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Анисимов Георгий Александрович": 24,
-      "Антоненко Евгений Романович": 227,
-      "Зуев Сергей Васильевич": 153,
-      "Кобозев Андрей Владимирович": 1,
-      "Никитин Сергей Викторович": 146,
-      "Осадчий Сергей Юрьевич": 597,
-      "Попов Александр Александрович": 47,
-      "Рубахин Сергей Владимирович": 54,
-      "Против всех": 336
+      "gas:candidate-vibid:1001000195174": 24,
+      "gas:candidate-vibid:1001000114000": 227,
+      "gas:candidate-vibid:377301570743": 153,
+      "gas:candidate-vibid:377301570819": 1,
+      "gas:candidate-vibid:1001000121944": 146,
+      "gas:candidate-vibid:1001000226016": 597,
+      "gas:candidate-vibid:1001000136159": 47,
+      "gas:candidate-vibid:1001000190460": 54,
+      "special:against-all": 336
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=773015005&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=377301570558&region=0&sub_region=0&type=429",
@@ -274,15 +274,15 @@ export const duma_2003_uik_428_region_77_part_014 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Анисимов Георгий Александрович": 41,
-      "Антоненко Евгений Романович": 226,
-      "Зуев Сергей Васильевич": 116,
-      "Кобозев Андрей Владимирович": 11,
-      "Никитин Сергей Викторович": 141,
-      "Осадчий Сергей Юрьевич": 485,
-      "Попов Александр Александрович": 65,
-      "Рубахин Сергей Владимирович": 63,
-      "Против всех": 362
+      "gas:candidate-vibid:1001000195174": 41,
+      "gas:candidate-vibid:1001000114000": 226,
+      "gas:candidate-vibid:377301570743": 116,
+      "gas:candidate-vibid:377301570819": 11,
+      "gas:candidate-vibid:1001000121944": 141,
+      "gas:candidate-vibid:1001000226016": 485,
+      "gas:candidate-vibid:1001000136159": 65,
+      "gas:candidate-vibid:1001000190460": 63,
+      "special:against-all": 362
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=773015005&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=377301570558&region=0&sub_region=0&type=429",
@@ -332,15 +332,15 @@ export const duma_2003_uik_428_region_77_part_014 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Анисимов Георгий Александрович": 0,
-      "Антоненко Евгений Романович": 4,
-      "Зуев Сергей Васильевич": 0,
-      "Кобозев Андрей Владимирович": 6,
-      "Никитин Сергей Викторович": 1,
-      "Осадчий Сергей Юрьевич": 0,
-      "Попов Александр Александрович": 0,
-      "Рубахин Сергей Владимирович": 1,
-      "Против всех": 2
+      "gas:candidate-vibid:1001000195174": 0,
+      "gas:candidate-vibid:1001000114000": 4,
+      "gas:candidate-vibid:377301570743": 0,
+      "gas:candidate-vibid:377301570819": 6,
+      "gas:candidate-vibid:1001000121944": 1,
+      "gas:candidate-vibid:1001000226016": 0,
+      "gas:candidate-vibid:1001000136159": 0,
+      "gas:candidate-vibid:1001000190460": 1,
+      "special:against-all": 2
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=773015005&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=377301570558&region=0&sub_region=0&type=429",
@@ -390,15 +390,15 @@ export const duma_2003_uik_428_region_77_part_014 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Анисимов Георгий Александрович": 8,
-      "Антоненко Евгений Романович": 28,
-      "Зуев Сергей Васильевич": 27,
-      "Кобозев Андрей Владимирович": 11,
-      "Никитин Сергей Викторович": 47,
-      "Осадчий Сергей Юрьевич": 377,
-      "Попов Александр Александрович": 15,
-      "Рубахин Сергей Владимирович": 31,
-      "Против всех": 150
+      "gas:candidate-vibid:1001000195174": 8,
+      "gas:candidate-vibid:1001000114000": 28,
+      "gas:candidate-vibid:377301570743": 27,
+      "gas:candidate-vibid:377301570819": 11,
+      "gas:candidate-vibid:1001000121944": 47,
+      "gas:candidate-vibid:1001000226016": 377,
+      "gas:candidate-vibid:1001000136159": 15,
+      "gas:candidate-vibid:1001000190460": 31,
+      "special:against-all": 150
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=773015005&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=377301570558&region=0&sub_region=0&type=429",
@@ -448,15 +448,15 @@ export const duma_2003_uik_428_region_77_part_014 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Анисимов Георгий Александрович": 60,
-      "Антоненко Евгений Романович": 583,
-      "Зуев Сергей Васильевич": 104,
-      "Кобозев Андрей Владимирович": 24,
-      "Никитин Сергей Викторович": 193,
-      "Осадчий Сергей Юрьевич": 425,
-      "Попов Александр Александрович": 57,
-      "Рубахин Сергей Владимирович": 62,
-      "Против всех": 396
+      "gas:candidate-vibid:1001000195174": 60,
+      "gas:candidate-vibid:1001000114000": 583,
+      "gas:candidate-vibid:377301570743": 104,
+      "gas:candidate-vibid:377301570819": 24,
+      "gas:candidate-vibid:1001000121944": 193,
+      "gas:candidate-vibid:1001000226016": 425,
+      "gas:candidate-vibid:1001000136159": 57,
+      "gas:candidate-vibid:1001000190460": 62,
+      "special:against-all": 396
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=773015005&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=377301570558&region=0&sub_region=0&type=429",
@@ -506,15 +506,15 @@ export const duma_2003_uik_428_region_77_part_014 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Анисимов Георгий Александрович": 24,
-      "Антоненко Евгений Романович": 106,
-      "Зуев Сергей Васильевич": 74,
-      "Кобозев Андрей Владимирович": 12,
-      "Никитин Сергей Викторович": 135,
-      "Осадчий Сергей Юрьевич": 882,
-      "Попов Александр Александрович": 32,
-      "Рубахин Сергей Владимирович": 31,
-      "Против всех": 268
+      "gas:candidate-vibid:1001000195174": 24,
+      "gas:candidate-vibid:1001000114000": 106,
+      "gas:candidate-vibid:377301570743": 74,
+      "gas:candidate-vibid:377301570819": 12,
+      "gas:candidate-vibid:1001000121944": 135,
+      "gas:candidate-vibid:1001000226016": 882,
+      "gas:candidate-vibid:1001000136159": 32,
+      "gas:candidate-vibid:1001000190460": 31,
+      "special:against-all": 268
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=773015006&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=377301570559&region=0&sub_region=0&type=429",
@@ -564,15 +564,15 @@ export const duma_2003_uik_428_region_77_part_014 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Анисимов Георгий Александрович": 13,
-      "Антоненко Евгений Романович": 95,
-      "Зуев Сергей Васильевич": 91,
-      "Кобозев Андрей Владимирович": 13,
-      "Никитин Сергей Викторович": 69,
-      "Осадчий Сергей Юрьевич": 988,
-      "Попов Александр Александрович": 31,
-      "Рубахин Сергей Владимирович": 26,
-      "Против всех": 243
+      "gas:candidate-vibid:1001000195174": 13,
+      "gas:candidate-vibid:1001000114000": 95,
+      "gas:candidate-vibid:377301570743": 91,
+      "gas:candidate-vibid:377301570819": 13,
+      "gas:candidate-vibid:1001000121944": 69,
+      "gas:candidate-vibid:1001000226016": 988,
+      "gas:candidate-vibid:1001000136159": 31,
+      "gas:candidate-vibid:1001000190460": 26,
+      "special:against-all": 243
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=773015006&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=377301570559&region=0&sub_region=0&type=429",
@@ -622,15 +622,15 @@ export const duma_2003_uik_428_region_77_part_014 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Анисимов Георгий Александрович": 20,
-      "Антоненко Евгений Романович": 105,
-      "Зуев Сергей Васильевич": 80,
-      "Кобозев Андрей Владимирович": 7,
-      "Никитин Сергей Викторович": 84,
-      "Осадчий Сергей Юрьевич": 939,
-      "Попов Александр Александрович": 29,
-      "Рубахин Сергей Владимирович": 28,
-      "Против всех": 212
+      "gas:candidate-vibid:1001000195174": 20,
+      "gas:candidate-vibid:1001000114000": 105,
+      "gas:candidate-vibid:377301570743": 80,
+      "gas:candidate-vibid:377301570819": 7,
+      "gas:candidate-vibid:1001000121944": 84,
+      "gas:candidate-vibid:1001000226016": 939,
+      "gas:candidate-vibid:1001000136159": 29,
+      "gas:candidate-vibid:1001000190460": 28,
+      "special:against-all": 212
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=773015006&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=377301570559&region=0&sub_region=0&type=429",
@@ -680,15 +680,15 @@ export const duma_2003_uik_428_region_77_part_014 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Анисимов Георгий Александрович": 17,
-      "Антоненко Евгений Романович": 114,
-      "Зуев Сергей Васильевич": 85,
-      "Кобозев Андрей Владимирович": 0,
-      "Никитин Сергей Викторович": 102,
-      "Осадчий Сергей Юрьевич": 956,
-      "Попов Александр Александрович": 39,
-      "Рубахин Сергей Владимирович": 40,
-      "Против всех": 223
+      "gas:candidate-vibid:1001000195174": 17,
+      "gas:candidate-vibid:1001000114000": 114,
+      "gas:candidate-vibid:377301570743": 85,
+      "gas:candidate-vibid:377301570819": 0,
+      "gas:candidate-vibid:1001000121944": 102,
+      "gas:candidate-vibid:1001000226016": 956,
+      "gas:candidate-vibid:1001000136159": 39,
+      "gas:candidate-vibid:1001000190460": 40,
+      "special:against-all": 223
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=773015006&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=377301570559&region=0&sub_region=0&type=429",
@@ -738,15 +738,15 @@ export const duma_2003_uik_428_region_77_part_014 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Анисимов Георгий Александрович": 26,
-      "Антоненко Евгений Романович": 93,
-      "Зуев Сергей Васильевич": 51,
-      "Кобозев Андрей Владимирович": 7,
-      "Никитин Сергей Викторович": 85,
-      "Осадчий Сергей Юрьевич": 778,
-      "Попов Александр Александрович": 22,
-      "Рубахин Сергей Владимирович": 26,
-      "Против всех": 237
+      "gas:candidate-vibid:1001000195174": 26,
+      "gas:candidate-vibid:1001000114000": 93,
+      "gas:candidate-vibid:377301570743": 51,
+      "gas:candidate-vibid:377301570819": 7,
+      "gas:candidate-vibid:1001000121944": 85,
+      "gas:candidate-vibid:1001000226016": 778,
+      "gas:candidate-vibid:1001000136159": 22,
+      "gas:candidate-vibid:1001000190460": 26,
+      "special:against-all": 237
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=773015006&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=377301570559&region=0&sub_region=0&type=429",
@@ -796,15 +796,15 @@ export const duma_2003_uik_428_region_77_part_014 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Анисимов Георгий Александрович": 18,
-      "Антоненко Евгений Романович": 131,
-      "Зуев Сергей Васильевич": 67,
-      "Кобозев Андрей Владимирович": 10,
-      "Никитин Сергей Викторович": 87,
-      "Осадчий Сергей Юрьевич": 504,
-      "Попов Александр Александрович": 32,
-      "Рубахин Сергей Владимирович": 26,
-      "Против всех": 192
+      "gas:candidate-vibid:1001000195174": 18,
+      "gas:candidate-vibid:1001000114000": 131,
+      "gas:candidate-vibid:377301570743": 67,
+      "gas:candidate-vibid:377301570819": 10,
+      "gas:candidate-vibid:1001000121944": 87,
+      "gas:candidate-vibid:1001000226016": 504,
+      "gas:candidate-vibid:1001000136159": 32,
+      "gas:candidate-vibid:1001000190460": 26,
+      "special:against-all": 192
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=773015006&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=377301570559&region=0&sub_region=0&type=429",
@@ -854,15 +854,15 @@ export const duma_2003_uik_428_region_77_part_014 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Анисимов Георгий Александрович": 23,
-      "Антоненко Евгений Романович": 137,
-      "Зуев Сергей Васильевич": 84,
-      "Кобозев Андрей Владимирович": 9,
-      "Никитин Сергей Викторович": 109,
-      "Осадчий Сергей Юрьевич": 723,
-      "Попов Александр Александрович": 27,
-      "Рубахин Сергей Владимирович": 27,
-      "Против всех": 297
+      "gas:candidate-vibid:1001000195174": 23,
+      "gas:candidate-vibid:1001000114000": 137,
+      "gas:candidate-vibid:377301570743": 84,
+      "gas:candidate-vibid:377301570819": 9,
+      "gas:candidate-vibid:1001000121944": 109,
+      "gas:candidate-vibid:1001000226016": 723,
+      "gas:candidate-vibid:1001000136159": 27,
+      "gas:candidate-vibid:1001000190460": 27,
+      "special:against-all": 297
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=773015006&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=377301570559&region=0&sub_region=0&type=429",
@@ -912,15 +912,15 @@ export const duma_2003_uik_428_region_77_part_014 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Анисимов Георгий Александрович": 22,
-      "Антоненко Евгений Романович": 163,
-      "Зуев Сергей Васильевич": 101,
-      "Кобозев Андрей Владимирович": 13,
-      "Никитин Сергей Викторович": 97,
-      "Осадчий Сергей Юрьевич": 713,
-      "Попов Александр Александрович": 35,
-      "Рубахин Сергей Владимирович": 45,
-      "Против всех": 312
+      "gas:candidate-vibid:1001000195174": 22,
+      "gas:candidate-vibid:1001000114000": 163,
+      "gas:candidate-vibid:377301570743": 101,
+      "gas:candidate-vibid:377301570819": 13,
+      "gas:candidate-vibid:1001000121944": 97,
+      "gas:candidate-vibid:1001000226016": 713,
+      "gas:candidate-vibid:1001000136159": 35,
+      "gas:candidate-vibid:1001000190460": 45,
+      "special:against-all": 312
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=773015006&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=377301570559&region=0&sub_region=0&type=429",
@@ -970,15 +970,15 @@ export const duma_2003_uik_428_region_77_part_014 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Анисимов Георгий Александрович": 28,
-      "Антоненко Евгений Романович": 101,
-      "Зуев Сергей Васильевич": 95,
-      "Кобозев Андрей Владимирович": 27,
-      "Никитин Сергей Викторович": 92,
-      "Осадчий Сергей Юрьевич": 681,
-      "Попов Александр Александрович": 40,
-      "Рубахин Сергей Владимирович": 42,
-      "Против всех": 196
+      "gas:candidate-vibid:1001000195174": 28,
+      "gas:candidate-vibid:1001000114000": 101,
+      "gas:candidate-vibid:377301570743": 95,
+      "gas:candidate-vibid:377301570819": 27,
+      "gas:candidate-vibid:1001000121944": 92,
+      "gas:candidate-vibid:1001000226016": 681,
+      "gas:candidate-vibid:1001000136159": 40,
+      "gas:candidate-vibid:1001000190460": 42,
+      "special:against-all": 196
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=773015006&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=377301570559&region=0&sub_region=0&type=429",
@@ -1028,15 +1028,15 @@ export const duma_2003_uik_428_region_77_part_014 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Анисимов Георгий Александрович": 28,
-      "Антоненко Евгений Романович": 157,
-      "Зуев Сергей Васильевич": 103,
-      "Кобозев Андрей Владимирович": 13,
-      "Никитин Сергей Викторович": 81,
-      "Осадчий Сергей Юрьевич": 841,
-      "Попов Александр Александрович": 46,
-      "Рубахин Сергей Владимирович": 34,
-      "Против всех": 330
+      "gas:candidate-vibid:1001000195174": 28,
+      "gas:candidate-vibid:1001000114000": 157,
+      "gas:candidate-vibid:377301570743": 103,
+      "gas:candidate-vibid:377301570819": 13,
+      "gas:candidate-vibid:1001000121944": 81,
+      "gas:candidate-vibid:1001000226016": 841,
+      "gas:candidate-vibid:1001000136159": 46,
+      "gas:candidate-vibid:1001000190460": 34,
+      "special:against-all": 330
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=773015006&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=377301570559&region=0&sub_region=0&type=429",
@@ -1086,15 +1086,15 @@ export const duma_2003_uik_428_region_77_part_014 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Анисимов Георгий Александрович": 14,
-      "Антоненко Евгений Романович": 130,
-      "Зуев Сергей Васильевич": 80,
-      "Кобозев Андрей Владимирович": 11,
-      "Никитин Сергей Викторович": 91,
-      "Осадчий Сергей Юрьевич": 750,
-      "Попов Александр Александрович": 47,
-      "Рубахин Сергей Владимирович": 47,
-      "Против всех": 297
+      "gas:candidate-vibid:1001000195174": 14,
+      "gas:candidate-vibid:1001000114000": 130,
+      "gas:candidate-vibid:377301570743": 80,
+      "gas:candidate-vibid:377301570819": 11,
+      "gas:candidate-vibid:1001000121944": 91,
+      "gas:candidate-vibid:1001000226016": 750,
+      "gas:candidate-vibid:1001000136159": 47,
+      "gas:candidate-vibid:1001000190460": 47,
+      "special:against-all": 297
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=773015006&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=377301570559&region=0&sub_region=0&type=429",
@@ -1144,15 +1144,15 @@ export const duma_2003_uik_428_region_77_part_014 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Анисимов Георгий Александрович": 22,
-      "Антоненко Евгений Романович": 136,
-      "Зуев Сергей Васильевич": 136,
-      "Кобозев Андрей Владимирович": 20,
-      "Никитин Сергей Викторович": 116,
-      "Осадчий Сергей Юрьевич": 775,
-      "Попов Александр Александрович": 34,
-      "Рубахин Сергей Владимирович": 41,
-      "Против всех": 313
+      "gas:candidate-vibid:1001000195174": 22,
+      "gas:candidate-vibid:1001000114000": 136,
+      "gas:candidate-vibid:377301570743": 136,
+      "gas:candidate-vibid:377301570819": 20,
+      "gas:candidate-vibid:1001000121944": 116,
+      "gas:candidate-vibid:1001000226016": 775,
+      "gas:candidate-vibid:1001000136159": 34,
+      "gas:candidate-vibid:1001000190460": 41,
+      "special:against-all": 313
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=773015006&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=377301570559&region=0&sub_region=0&type=429",
@@ -1202,15 +1202,15 @@ export const duma_2003_uik_428_region_77_part_014 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Анисимов Георгий Александрович": 15,
-      "Антоненко Евгений Романович": 102,
-      "Зуев Сергей Васильевич": 78,
-      "Кобозев Андрей Владимирович": 12,
-      "Никитин Сергей Викторович": 70,
-      "Осадчий Сергей Юрьевич": 802,
-      "Попов Александр Александрович": 32,
-      "Рубахин Сергей Владимирович": 21,
-      "Против всех": 205
+      "gas:candidate-vibid:1001000195174": 15,
+      "gas:candidate-vibid:1001000114000": 102,
+      "gas:candidate-vibid:377301570743": 78,
+      "gas:candidate-vibid:377301570819": 12,
+      "gas:candidate-vibid:1001000121944": 70,
+      "gas:candidate-vibid:1001000226016": 802,
+      "gas:candidate-vibid:1001000136159": 32,
+      "gas:candidate-vibid:1001000190460": 21,
+      "special:against-all": 205
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=773015006&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=377301570559&region=0&sub_region=0&type=429",
@@ -1260,15 +1260,15 @@ export const duma_2003_uik_428_region_77_part_014 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Анисимов Георгий Александрович": 20,
-      "Антоненко Евгений Романович": 74,
-      "Зуев Сергей Васильевич": 47,
-      "Кобозев Андрей Владимирович": 10,
-      "Никитин Сергей Викторович": 93,
-      "Осадчий Сергей Юрьевич": 876,
-      "Попов Александр Александрович": 39,
-      "Рубахин Сергей Владимирович": 29,
-      "Против всех": 254
+      "gas:candidate-vibid:1001000195174": 20,
+      "gas:candidate-vibid:1001000114000": 74,
+      "gas:candidate-vibid:377301570743": 47,
+      "gas:candidate-vibid:377301570819": 10,
+      "gas:candidate-vibid:1001000121944": 93,
+      "gas:candidate-vibid:1001000226016": 876,
+      "gas:candidate-vibid:1001000136159": 39,
+      "gas:candidate-vibid:1001000190460": 29,
+      "special:against-all": 254
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=773015006&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=377301570559&region=0&sub_region=0&type=429",
@@ -1318,15 +1318,15 @@ export const duma_2003_uik_428_region_77_part_014 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Анисимов Георгий Александрович": 19,
-      "Антоненко Евгений Романович": 203,
-      "Зуев Сергей Васильевич": 73,
-      "Кобозев Андрей Владимирович": 3,
-      "Никитин Сергей Викторович": 109,
-      "Осадчий Сергей Юрьевич": 687,
-      "Попов Александр Александрович": 52,
-      "Рубахин Сергей Владимирович": 31,
-      "Против всех": 329
+      "gas:candidate-vibid:1001000195174": 19,
+      "gas:candidate-vibid:1001000114000": 203,
+      "gas:candidate-vibid:377301570743": 73,
+      "gas:candidate-vibid:377301570819": 3,
+      "gas:candidate-vibid:1001000121944": 109,
+      "gas:candidate-vibid:1001000226016": 687,
+      "gas:candidate-vibid:1001000136159": 52,
+      "gas:candidate-vibid:1001000190460": 31,
+      "special:against-all": 329
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=773015006&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=377301570559&region=0&sub_region=0&type=429",
@@ -1376,15 +1376,15 @@ export const duma_2003_uik_428_region_77_part_014 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Анисимов Георгий Александрович": 17,
-      "Антоненко Евгений Романович": 181,
-      "Зуев Сергей Васильевич": 85,
-      "Кобозев Андрей Владимирович": 7,
-      "Никитин Сергей Викторович": 96,
-      "Осадчий Сергей Юрьевич": 698,
-      "Попов Александр Александрович": 29,
-      "Рубахин Сергей Владимирович": 25,
-      "Против всех": 354
+      "gas:candidate-vibid:1001000195174": 17,
+      "gas:candidate-vibid:1001000114000": 181,
+      "gas:candidate-vibid:377301570743": 85,
+      "gas:candidate-vibid:377301570819": 7,
+      "gas:candidate-vibid:1001000121944": 96,
+      "gas:candidate-vibid:1001000226016": 698,
+      "gas:candidate-vibid:1001000136159": 29,
+      "gas:candidate-vibid:1001000190460": 25,
+      "special:against-all": 354
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=773015006&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=377301570559&region=0&sub_region=0&type=429",
@@ -1434,15 +1434,15 @@ export const duma_2003_uik_428_region_77_part_014 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Анисимов Георгий Александрович": 18,
-      "Антоненко Евгений Романович": 128,
-      "Зуев Сергей Васильевич": 80,
-      "Кобозев Андрей Владимирович": 7,
-      "Никитин Сергей Викторович": 66,
-      "Осадчий Сергей Юрьевич": 720,
-      "Попов Александр Александрович": 26,
-      "Рубахин Сергей Владимирович": 23,
-      "Против всех": 314
+      "gas:candidate-vibid:1001000195174": 18,
+      "gas:candidate-vibid:1001000114000": 128,
+      "gas:candidate-vibid:377301570743": 80,
+      "gas:candidate-vibid:377301570819": 7,
+      "gas:candidate-vibid:1001000121944": 66,
+      "gas:candidate-vibid:1001000226016": 720,
+      "gas:candidate-vibid:1001000136159": 26,
+      "gas:candidate-vibid:1001000190460": 23,
+      "special:against-all": 314
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=773015006&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=377301570559&region=0&sub_region=0&type=429",
@@ -1492,15 +1492,15 @@ export const duma_2003_uik_428_region_77_part_014 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Анисимов Георгий Александрович": 16,
-      "Антоненко Евгений Романович": 87,
-      "Зуев Сергей Васильевич": 69,
-      "Кобозев Андрей Владимирович": 55,
-      "Никитин Сергей Викторович": 9,
-      "Осадчий Сергей Юрьевич": 762,
-      "Попов Александр Александрович": 27,
-      "Рубахин Сергей Владимирович": 29,
-      "Против всех": 333
+      "gas:candidate-vibid:1001000195174": 16,
+      "gas:candidate-vibid:1001000114000": 87,
+      "gas:candidate-vibid:377301570743": 69,
+      "gas:candidate-vibid:377301570819": 55,
+      "gas:candidate-vibid:1001000121944": 9,
+      "gas:candidate-vibid:1001000226016": 762,
+      "gas:candidate-vibid:1001000136159": 27,
+      "gas:candidate-vibid:1001000190460": 29,
+      "special:against-all": 333
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=773015006&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=377301570559&region=0&sub_region=0&type=429",
@@ -1550,15 +1550,15 @@ export const duma_2003_uik_428_region_77_part_014 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Анисимов Георгий Александрович": 1,
-      "Антоненко Евгений Романович": 1,
-      "Зуев Сергей Васильевич": 2,
-      "Кобозев Андрей Владимирович": 1,
-      "Никитин Сергей Викторович": 0,
-      "Осадчий Сергей Юрьевич": 16,
-      "Попов Александр Александрович": 1,
-      "Рубахин Сергей Владимирович": 0,
-      "Против всех": 7
+      "gas:candidate-vibid:1001000195174": 1,
+      "gas:candidate-vibid:1001000114000": 1,
+      "gas:candidate-vibid:377301570743": 2,
+      "gas:candidate-vibid:377301570819": 1,
+      "gas:candidate-vibid:1001000121944": 0,
+      "gas:candidate-vibid:1001000226016": 16,
+      "gas:candidate-vibid:1001000136159": 1,
+      "gas:candidate-vibid:1001000190460": 0,
+      "special:against-all": 7
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=773015006&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=377301570559&region=0&sub_region=0&type=429",
@@ -1608,15 +1608,15 @@ export const duma_2003_uik_428_region_77_part_014 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Анисимов Георгий Александрович": 0,
-      "Антоненко Евгений Романович": 0,
-      "Зуев Сергей Васильевич": 0,
-      "Кобозев Андрей Владимирович": 0,
-      "Никитин Сергей Викторович": 0,
-      "Осадчий Сергей Юрьевич": 65,
-      "Попов Александр Александрович": 0,
-      "Рубахин Сергей Владимирович": 0,
-      "Против всех": 0
+      "gas:candidate-vibid:1001000195174": 0,
+      "gas:candidate-vibid:1001000114000": 0,
+      "gas:candidate-vibid:377301570743": 0,
+      "gas:candidate-vibid:377301570819": 0,
+      "gas:candidate-vibid:1001000121944": 0,
+      "gas:candidate-vibid:1001000226016": 65,
+      "gas:candidate-vibid:1001000136159": 0,
+      "gas:candidate-vibid:1001000190460": 0,
+      "special:against-all": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=773015006&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=377301570559&region=0&sub_region=0&type=429",
@@ -1666,15 +1666,15 @@ export const duma_2003_uik_428_region_77_part_014 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Анисимов Георгий Александрович": 13,
-      "Антоненко Евгений Романович": 125,
-      "Зуев Сергей Васильевич": 48,
-      "Кобозев Андрей Владимирович": 10,
-      "Никитин Сергей Викторович": 76,
-      "Осадчий Сергей Юрьевич": 623,
-      "Попов Александр Александрович": 18,
-      "Рубахин Сергей Владимирович": 23,
-      "Против всех": 218
+      "gas:candidate-vibid:1001000195174": 13,
+      "gas:candidate-vibid:1001000114000": 125,
+      "gas:candidate-vibid:377301570743": 48,
+      "gas:candidate-vibid:377301570819": 10,
+      "gas:candidate-vibid:1001000121944": 76,
+      "gas:candidate-vibid:1001000226016": 623,
+      "gas:candidate-vibid:1001000136159": 18,
+      "gas:candidate-vibid:1001000190460": 23,
+      "special:against-all": 218
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=773015007&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=377301570560&region=0&sub_region=0&type=429",
@@ -1724,15 +1724,15 @@ export const duma_2003_uik_428_region_77_part_014 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Анисимов Георгий Александрович": 15,
-      "Антоненко Евгений Романович": 134,
-      "Зуев Сергей Васильевич": 45,
-      "Кобозев Андрей Владимирович": 10,
-      "Никитин Сергей Викторович": 60,
-      "Осадчий Сергей Юрьевич": 709,
-      "Попов Александр Александрович": 24,
-      "Рубахин Сергей Владимирович": 18,
-      "Против всех": 229
+      "gas:candidate-vibid:1001000195174": 15,
+      "gas:candidate-vibid:1001000114000": 134,
+      "gas:candidate-vibid:377301570743": 45,
+      "gas:candidate-vibid:377301570819": 10,
+      "gas:candidate-vibid:1001000121944": 60,
+      "gas:candidate-vibid:1001000226016": 709,
+      "gas:candidate-vibid:1001000136159": 24,
+      "gas:candidate-vibid:1001000190460": 18,
+      "special:against-all": 229
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=773015007&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=377301570560&region=0&sub_region=0&type=429",
@@ -1782,15 +1782,15 @@ export const duma_2003_uik_428_region_77_part_014 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Анисимов Георгий Александрович": 15,
-      "Антоненко Евгений Романович": 152,
-      "Зуев Сергей Васильевич": 48,
-      "Кобозев Андрей Владимирович": 10,
-      "Никитин Сергей Викторович": 105,
-      "Осадчий Сергей Юрьевич": 709,
-      "Попов Александр Александрович": 34,
-      "Рубахин Сергей Владимирович": 18,
-      "Против всех": 189
+      "gas:candidate-vibid:1001000195174": 15,
+      "gas:candidate-vibid:1001000114000": 152,
+      "gas:candidate-vibid:377301570743": 48,
+      "gas:candidate-vibid:377301570819": 10,
+      "gas:candidate-vibid:1001000121944": 105,
+      "gas:candidate-vibid:1001000226016": 709,
+      "gas:candidate-vibid:1001000136159": 34,
+      "gas:candidate-vibid:1001000190460": 18,
+      "special:against-all": 189
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=773015007&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=377301570560&region=0&sub_region=0&type=429",
@@ -1840,15 +1840,15 @@ export const duma_2003_uik_428_region_77_part_014 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Анисимов Георгий Александрович": 17,
-      "Антоненко Евгений Романович": 207,
-      "Зуев Сергей Васильевич": 56,
-      "Кобозев Андрей Владимирович": 1,
-      "Никитин Сергей Викторович": 115,
-      "Осадчий Сергей Юрьевич": 595,
-      "Попов Александр Александрович": 25,
-      "Рубахин Сергей Владимирович": 16,
-      "Против всех": 180
+      "gas:candidate-vibid:1001000195174": 17,
+      "gas:candidate-vibid:1001000114000": 207,
+      "gas:candidate-vibid:377301570743": 56,
+      "gas:candidate-vibid:377301570819": 1,
+      "gas:candidate-vibid:1001000121944": 115,
+      "gas:candidate-vibid:1001000226016": 595,
+      "gas:candidate-vibid:1001000136159": 25,
+      "gas:candidate-vibid:1001000190460": 16,
+      "special:against-all": 180
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=773015007&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=377301570560&region=0&sub_region=0&type=429",
@@ -1898,15 +1898,15 @@ export const duma_2003_uik_428_region_77_part_014 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Анисимов Георгий Александрович": 16,
-      "Антоненко Евгений Романович": 164,
-      "Зуев Сергей Васильевич": 36,
-      "Кобозев Андрей Владимирович": 4,
-      "Никитин Сергей Викторович": 84,
-      "Осадчий Сергей Юрьевич": 667,
-      "Попов Александр Александрович": 16,
-      "Рубахин Сергей Владимирович": 36,
-      "Против всех": 180
+      "gas:candidate-vibid:1001000195174": 16,
+      "gas:candidate-vibid:1001000114000": 164,
+      "gas:candidate-vibid:377301570743": 36,
+      "gas:candidate-vibid:377301570819": 4,
+      "gas:candidate-vibid:1001000121944": 84,
+      "gas:candidate-vibid:1001000226016": 667,
+      "gas:candidate-vibid:1001000136159": 16,
+      "gas:candidate-vibid:1001000190460": 36,
+      "special:against-all": 180
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=773015007&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=377301570560&region=0&sub_region=0&type=429",
@@ -1956,15 +1956,15 @@ export const duma_2003_uik_428_region_77_part_014 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Анисимов Георгий Александрович": 20,
-      "Антоненко Евгений Романович": 221,
-      "Зуев Сергей Васильевич": 63,
-      "Кобозев Андрей Владимирович": 13,
-      "Никитин Сергей Викторович": 57,
-      "Осадчий Сергей Юрьевич": 612,
-      "Попов Александр Александрович": 27,
-      "Рубахин Сергей Владимирович": 30,
-      "Против всех": 252
+      "gas:candidate-vibid:1001000195174": 20,
+      "gas:candidate-vibid:1001000114000": 221,
+      "gas:candidate-vibid:377301570743": 63,
+      "gas:candidate-vibid:377301570819": 13,
+      "gas:candidate-vibid:1001000121944": 57,
+      "gas:candidate-vibid:1001000226016": 612,
+      "gas:candidate-vibid:1001000136159": 27,
+      "gas:candidate-vibid:1001000190460": 30,
+      "special:against-all": 252
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=773015007&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=377301570560&region=0&sub_region=0&type=429",
@@ -2014,15 +2014,15 @@ export const duma_2003_uik_428_region_77_part_014 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Анисимов Георгий Александрович": 18,
-      "Антоненко Евгений Романович": 220,
-      "Зуев Сергей Васильевич": 71,
-      "Кобозев Андрей Владимирович": 1,
-      "Никитин Сергей Викторович": 59,
-      "Осадчий Сергей Юрьевич": 564,
-      "Попов Александр Александрович": 21,
-      "Рубахин Сергей Владимирович": 19,
-      "Против всех": 233
+      "gas:candidate-vibid:1001000195174": 18,
+      "gas:candidate-vibid:1001000114000": 220,
+      "gas:candidate-vibid:377301570743": 71,
+      "gas:candidate-vibid:377301570819": 1,
+      "gas:candidate-vibid:1001000121944": 59,
+      "gas:candidate-vibid:1001000226016": 564,
+      "gas:candidate-vibid:1001000136159": 21,
+      "gas:candidate-vibid:1001000190460": 19,
+      "special:against-all": 233
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=773015007&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=377301570560&region=0&sub_region=0&type=429",
@@ -2072,15 +2072,15 @@ export const duma_2003_uik_428_region_77_part_014 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Анисимов Георгий Александрович": 13,
-      "Антоненко Евгений Романович": 142,
-      "Зуев Сергей Васильевич": 36,
-      "Кобозев Андрей Владимирович": 2,
-      "Никитин Сергей Викторович": 32,
-      "Осадчий Сергей Юрьевич": 522,
-      "Попов Александр Александрович": 18,
-      "Рубахин Сергей Владимирович": 11,
-      "Против всех": 144
+      "gas:candidate-vibid:1001000195174": 13,
+      "gas:candidate-vibid:1001000114000": 142,
+      "gas:candidate-vibid:377301570743": 36,
+      "gas:candidate-vibid:377301570819": 2,
+      "gas:candidate-vibid:1001000121944": 32,
+      "gas:candidate-vibid:1001000226016": 522,
+      "gas:candidate-vibid:1001000136159": 18,
+      "gas:candidate-vibid:1001000190460": 11,
+      "special:against-all": 144
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=773015007&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=377301570560&region=0&sub_region=0&type=429",
@@ -2130,15 +2130,15 @@ export const duma_2003_uik_428_region_77_part_014 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Анисимов Георгий Александрович": 11,
-      "Антоненко Евгений Романович": 391,
-      "Зуев Сергей Васильевич": 59,
-      "Кобозев Андрей Владимирович": 12,
-      "Никитин Сергей Викторович": 119,
-      "Осадчий Сергей Юрьевич": 576,
-      "Попов Александр Александрович": 22,
-      "Рубахин Сергей Владимирович": 26,
-      "Против всех": 247
+      "gas:candidate-vibid:1001000195174": 11,
+      "gas:candidate-vibid:1001000114000": 391,
+      "gas:candidate-vibid:377301570743": 59,
+      "gas:candidate-vibid:377301570819": 12,
+      "gas:candidate-vibid:1001000121944": 119,
+      "gas:candidate-vibid:1001000226016": 576,
+      "gas:candidate-vibid:1001000136159": 22,
+      "gas:candidate-vibid:1001000190460": 26,
+      "special:against-all": 247
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=773015007&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=377301570560&region=0&sub_region=0&type=429",
@@ -2188,15 +2188,15 @@ export const duma_2003_uik_428_region_77_part_014 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Анисимов Георгий Александрович": 10,
-      "Антоненко Евгений Романович": 247,
-      "Зуев Сергей Васильевич": 159,
-      "Кобозев Андрей Владимирович": 7,
-      "Никитин Сергей Викторович": 76,
-      "Осадчий Сергей Юрьевич": 621,
-      "Попов Александр Александрович": 32,
-      "Рубахин Сергей Владимирович": 27,
-      "Против всех": 274
+      "gas:candidate-vibid:1001000195174": 10,
+      "gas:candidate-vibid:1001000114000": 247,
+      "gas:candidate-vibid:377301570743": 159,
+      "gas:candidate-vibid:377301570819": 7,
+      "gas:candidate-vibid:1001000121944": 76,
+      "gas:candidate-vibid:1001000226016": 621,
+      "gas:candidate-vibid:1001000136159": 32,
+      "gas:candidate-vibid:1001000190460": 27,
+      "special:against-all": 274
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=773015007&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=377301570560&region=0&sub_region=0&type=429",
@@ -2246,15 +2246,15 @@ export const duma_2003_uik_428_region_77_part_014 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Анисимов Георгий Александрович": 11,
-      "Антоненко Евгений Романович": 189,
-      "Зуев Сергей Васильевич": 80,
-      "Кобозев Андрей Владимирович": 4,
-      "Никитин Сергей Викторович": 80,
-      "Осадчий Сергей Юрьевич": 568,
-      "Попов Александр Александрович": 24,
-      "Рубахин Сергей Владимирович": 18,
-      "Против всех": 221
+      "gas:candidate-vibid:1001000195174": 11,
+      "gas:candidate-vibid:1001000114000": 189,
+      "gas:candidate-vibid:377301570743": 80,
+      "gas:candidate-vibid:377301570819": 4,
+      "gas:candidate-vibid:1001000121944": 80,
+      "gas:candidate-vibid:1001000226016": 568,
+      "gas:candidate-vibid:1001000136159": 24,
+      "gas:candidate-vibid:1001000190460": 18,
+      "special:against-all": 221
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=773015007&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=377301570560&region=0&sub_region=0&type=429",
@@ -2304,15 +2304,15 @@ export const duma_2003_uik_428_region_77_part_014 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Анисимов Георгий Александрович": 19,
-      "Антоненко Евгений Романович": 235,
-      "Зуев Сергей Васильевич": 126,
-      "Кобозев Андрей Владимирович": 8,
-      "Никитин Сергей Викторович": 72,
-      "Осадчий Сергей Юрьевич": 690,
-      "Попов Александр Александрович": 13,
-      "Рубахин Сергей Владимирович": 27,
-      "Против всех": 244
+      "gas:candidate-vibid:1001000195174": 19,
+      "gas:candidate-vibid:1001000114000": 235,
+      "gas:candidate-vibid:377301570743": 126,
+      "gas:candidate-vibid:377301570819": 8,
+      "gas:candidate-vibid:1001000121944": 72,
+      "gas:candidate-vibid:1001000226016": 690,
+      "gas:candidate-vibid:1001000136159": 13,
+      "gas:candidate-vibid:1001000190460": 27,
+      "special:against-all": 244
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=773015007&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=377301570560&region=0&sub_region=0&type=429",
@@ -2362,15 +2362,15 @@ export const duma_2003_uik_428_region_77_part_014 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Анисимов Георгий Александрович": 28,
-      "Антоненко Евгений Романович": 160,
-      "Зуев Сергей Васильевич": 113,
-      "Кобозев Андрей Владимирович": 6,
-      "Никитин Сергей Викторович": 79,
-      "Осадчий Сергей Юрьевич": 739,
-      "Попов Александр Александрович": 28,
-      "Рубахин Сергей Владимирович": 26,
-      "Против всех": 310
+      "gas:candidate-vibid:1001000195174": 28,
+      "gas:candidate-vibid:1001000114000": 160,
+      "gas:candidate-vibid:377301570743": 113,
+      "gas:candidate-vibid:377301570819": 6,
+      "gas:candidate-vibid:1001000121944": 79,
+      "gas:candidate-vibid:1001000226016": 739,
+      "gas:candidate-vibid:1001000136159": 28,
+      "gas:candidate-vibid:1001000190460": 26,
+      "special:against-all": 310
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=773015007&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=377301570560&region=0&sub_region=0&type=429",
@@ -2420,15 +2420,15 @@ export const duma_2003_uik_428_region_77_part_014 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Анисимов Георгий Александрович": 15,
-      "Антоненко Евгений Романович": 177,
-      "Зуев Сергей Васильевич": 81,
-      "Кобозев Андрей Владимирович": 11,
-      "Никитин Сергей Викторович": 71,
-      "Осадчий Сергей Юрьевич": 608,
-      "Попов Александр Александрович": 29,
-      "Рубахин Сергей Владимирович": 35,
-      "Против всех": 203
+      "gas:candidate-vibid:1001000195174": 15,
+      "gas:candidate-vibid:1001000114000": 177,
+      "gas:candidate-vibid:377301570743": 81,
+      "gas:candidate-vibid:377301570819": 11,
+      "gas:candidate-vibid:1001000121944": 71,
+      "gas:candidate-vibid:1001000226016": 608,
+      "gas:candidate-vibid:1001000136159": 29,
+      "gas:candidate-vibid:1001000190460": 35,
+      "special:against-all": 203
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=773015007&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=377301570560&region=0&sub_region=0&type=429",
@@ -2478,15 +2478,15 @@ export const duma_2003_uik_428_region_77_part_014 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Анисимов Георгий Александрович": 26,
-      "Антоненко Евгений Романович": 215,
-      "Зуев Сергей Васильевич": 112,
-      "Кобозев Андрей Владимирович": 8,
-      "Никитин Сергей Викторович": 117,
-      "Осадчий Сергей Юрьевич": 658,
-      "Попов Александр Александрович": 35,
-      "Рубахин Сергей Владимирович": 30,
-      "Против всех": 243
+      "gas:candidate-vibid:1001000195174": 26,
+      "gas:candidate-vibid:1001000114000": 215,
+      "gas:candidate-vibid:377301570743": 112,
+      "gas:candidate-vibid:377301570819": 8,
+      "gas:candidate-vibid:1001000121944": 117,
+      "gas:candidate-vibid:1001000226016": 658,
+      "gas:candidate-vibid:1001000136159": 35,
+      "gas:candidate-vibid:1001000190460": 30,
+      "special:against-all": 243
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=773015007&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=377301570560&region=0&sub_region=0&type=429",
@@ -2536,15 +2536,15 @@ export const duma_2003_uik_428_region_77_part_014 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Анисимов Георгий Александрович": 26,
-      "Антоненко Евгений Романович": 195,
-      "Зуев Сергей Васильевич": 101,
-      "Кобозев Андрей Владимирович": 4,
-      "Никитин Сергей Викторович": 93,
-      "Осадчий Сергей Юрьевич": 628,
-      "Попов Александр Александрович": 38,
-      "Рубахин Сергей Владимирович": 20,
-      "Против всех": 238
+      "gas:candidate-vibid:1001000195174": 26,
+      "gas:candidate-vibid:1001000114000": 195,
+      "gas:candidate-vibid:377301570743": 101,
+      "gas:candidate-vibid:377301570819": 4,
+      "gas:candidate-vibid:1001000121944": 93,
+      "gas:candidate-vibid:1001000226016": 628,
+      "gas:candidate-vibid:1001000136159": 38,
+      "gas:candidate-vibid:1001000190460": 20,
+      "special:against-all": 238
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=773015007&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=377301570560&region=0&sub_region=0&type=429",
@@ -2594,15 +2594,15 @@ export const duma_2003_uik_428_region_77_part_014 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Анисимов Георгий Александрович": 22,
-      "Антоненко Евгений Романович": 200,
-      "Зуев Сергей Васильевич": 86,
-      "Кобозев Андрей Владимирович": 8,
-      "Никитин Сергей Викторович": 79,
-      "Осадчий Сергей Юрьевич": 533,
-      "Попов Александр Александрович": 21,
-      "Рубахин Сергей Владимирович": 27,
-      "Против всех": 263
+      "gas:candidate-vibid:1001000195174": 22,
+      "gas:candidate-vibid:1001000114000": 200,
+      "gas:candidate-vibid:377301570743": 86,
+      "gas:candidate-vibid:377301570819": 8,
+      "gas:candidate-vibid:1001000121944": 79,
+      "gas:candidate-vibid:1001000226016": 533,
+      "gas:candidate-vibid:1001000136159": 21,
+      "gas:candidate-vibid:1001000190460": 27,
+      "special:against-all": 263
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=773015007&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=377301570560&region=0&sub_region=0&type=429",
@@ -2652,15 +2652,15 @@ export const duma_2003_uik_428_region_77_part_014 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Анисимов Георгий Александрович": 31,
-      "Антоненко Евгений Романович": 212,
-      "Зуев Сергей Васильевич": 107,
-      "Кобозев Андрей Владимирович": 11,
-      "Никитин Сергей Викторович": 109,
-      "Осадчий Сергей Юрьевич": 663,
-      "Попов Александр Александрович": 30,
-      "Рубахин Сергей Владимирович": 39,
-      "Против всех": 281
+      "gas:candidate-vibid:1001000195174": 31,
+      "gas:candidate-vibid:1001000114000": 212,
+      "gas:candidate-vibid:377301570743": 107,
+      "gas:candidate-vibid:377301570819": 11,
+      "gas:candidate-vibid:1001000121944": 109,
+      "gas:candidate-vibid:1001000226016": 663,
+      "gas:candidate-vibid:1001000136159": 30,
+      "gas:candidate-vibid:1001000190460": 39,
+      "special:against-all": 281
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=773015007&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=377301570560&region=0&sub_region=0&type=429",
@@ -2710,15 +2710,15 @@ export const duma_2003_uik_428_region_77_part_014 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Анисимов Георгий Александрович": 22,
-      "Антоненко Евгений Романович": 222,
-      "Зуев Сергей Васильевич": 92,
-      "Кобозев Андрей Владимирович": 12,
-      "Никитин Сергей Викторович": 105,
-      "Осадчий Сергей Юрьевич": 572,
-      "Попов Александр Александрович": 27,
-      "Рубахин Сергей Владимирович": 36,
-      "Против всех": 250
+      "gas:candidate-vibid:1001000195174": 22,
+      "gas:candidate-vibid:1001000114000": 222,
+      "gas:candidate-vibid:377301570743": 92,
+      "gas:candidate-vibid:377301570819": 12,
+      "gas:candidate-vibid:1001000121944": 105,
+      "gas:candidate-vibid:1001000226016": 572,
+      "gas:candidate-vibid:1001000136159": 27,
+      "gas:candidate-vibid:1001000190460": 36,
+      "special:against-all": 250
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=773015007&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=377301570560&region=0&sub_region=0&type=429",
@@ -2768,15 +2768,15 @@ export const duma_2003_uik_428_region_77_part_014 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Анисимов Георгий Александрович": 42,
-      "Антоненко Евгений Романович": 188,
-      "Зуев Сергей Васильевич": 100,
-      "Кобозев Андрей Владимирович": 9,
-      "Никитин Сергей Викторович": 87,
-      "Осадчий Сергей Юрьевич": 718,
-      "Попов Александр Александрович": 28,
-      "Рубахин Сергей Владимирович": 28,
-      "Против всех": 237
+      "gas:candidate-vibid:1001000195174": 42,
+      "gas:candidate-vibid:1001000114000": 188,
+      "gas:candidate-vibid:377301570743": 100,
+      "gas:candidate-vibid:377301570819": 9,
+      "gas:candidate-vibid:1001000121944": 87,
+      "gas:candidate-vibid:1001000226016": 718,
+      "gas:candidate-vibid:1001000136159": 28,
+      "gas:candidate-vibid:1001000190460": 28,
+      "special:against-all": 237
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=773015007&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=377301570560&region=0&sub_region=0&type=429",
@@ -2826,15 +2826,15 @@ export const duma_2003_uik_428_region_77_part_014 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Анисимов Георгий Александрович": 45,
-      "Антоненко Евгений Романович": 186,
-      "Зуев Сергей Васильевич": 60,
-      "Кобозев Андрей Владимирович": 14,
-      "Никитин Сергей Викторович": 106,
-      "Осадчий Сергей Юрьевич": 779,
-      "Попов Александр Александрович": 43,
-      "Рубахин Сергей Владимирович": 48,
-      "Против всех": 232
+      "gas:candidate-vibid:1001000195174": 45,
+      "gas:candidate-vibid:1001000114000": 186,
+      "gas:candidate-vibid:377301570743": 60,
+      "gas:candidate-vibid:377301570819": 14,
+      "gas:candidate-vibid:1001000121944": 106,
+      "gas:candidate-vibid:1001000226016": 779,
+      "gas:candidate-vibid:1001000136159": 43,
+      "gas:candidate-vibid:1001000190460": 48,
+      "special:against-all": 232
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=773015007&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=377301570560&region=0&sub_region=0&type=429",
@@ -2884,15 +2884,15 @@ export const duma_2003_uik_428_region_77_part_014 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Анисимов Георгий Александрович": 19,
-      "Антоненко Евгений Романович": 118,
-      "Зуев Сергей Васильевич": 43,
-      "Кобозев Андрей Владимирович": 7,
-      "Никитин Сергей Викторович": 63,
-      "Осадчий Сергей Юрьевич": 612,
-      "Попов Александр Александрович": 25,
-      "Рубахин Сергей Владимирович": 14,
-      "Против всех": 184
+      "gas:candidate-vibid:1001000195174": 19,
+      "gas:candidate-vibid:1001000114000": 118,
+      "gas:candidate-vibid:377301570743": 43,
+      "gas:candidate-vibid:377301570819": 7,
+      "gas:candidate-vibid:1001000121944": 63,
+      "gas:candidate-vibid:1001000226016": 612,
+      "gas:candidate-vibid:1001000136159": 25,
+      "gas:candidate-vibid:1001000190460": 14,
+      "special:against-all": 184
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=773015007&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=377301570560&region=0&sub_region=0&type=429",
@@ -2942,15 +2942,15 @@ export const duma_2003_uik_428_region_77_part_014 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Анисимов Георгий Александрович": 4,
-      "Антоненко Евгений Романович": 24,
-      "Зуев Сергей Васильевич": 14,
-      "Кобозев Андрей Владимирович": 3,
-      "Никитин Сергей Викторович": 10,
-      "Осадчий Сергей Юрьевич": 77,
-      "Попов Александр Александрович": 1,
-      "Рубахин Сергей Владимирович": 2,
-      "Против всех": 34
+      "gas:candidate-vibid:1001000195174": 4,
+      "gas:candidate-vibid:1001000114000": 24,
+      "gas:candidate-vibid:377301570743": 14,
+      "gas:candidate-vibid:377301570819": 3,
+      "gas:candidate-vibid:1001000121944": 10,
+      "gas:candidate-vibid:1001000226016": 77,
+      "gas:candidate-vibid:1001000136159": 1,
+      "gas:candidate-vibid:1001000190460": 2,
+      "special:against-all": 34
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=773015007&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=377301570560&region=0&sub_region=0&type=429",
@@ -3000,15 +3000,15 @@ export const duma_2003_uik_428_region_77_part_014 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Анисимов Георгий Александрович": 0,
-      "Антоненко Евгений Романович": 2,
-      "Зуев Сергей Васильевич": 0,
-      "Кобозев Андрей Владимирович": 0,
-      "Никитин Сергей Викторович": 0,
-      "Осадчий Сергей Юрьевич": 4,
-      "Попов Александр Александрович": 1,
-      "Рубахин Сергей Владимирович": 0,
-      "Против всех": 0
+      "gas:candidate-vibid:1001000195174": 0,
+      "gas:candidate-vibid:1001000114000": 2,
+      "gas:candidate-vibid:377301570743": 0,
+      "gas:candidate-vibid:377301570819": 0,
+      "gas:candidate-vibid:1001000121944": 0,
+      "gas:candidate-vibid:1001000226016": 4,
+      "gas:candidate-vibid:1001000136159": 1,
+      "gas:candidate-vibid:1001000190460": 0,
+      "special:against-all": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=773015007&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=377301570560&region=0&sub_region=0&type=429",
@@ -3058,15 +3058,15 @@ export const duma_2003_uik_428_region_77_part_014 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Анисимов Георгий Александрович": 17,
-      "Антоненко Евгений Романович": 190,
-      "Зуев Сергей Васильевич": 114,
-      "Кобозев Андрей Владимирович": 11,
-      "Никитин Сергей Викторович": 114,
-      "Осадчий Сергей Юрьевич": 685,
-      "Попов Александр Александрович": 37,
-      "Рубахин Сергей Владимирович": 41,
-      "Против всех": 285
+      "gas:candidate-vibid:1001000195174": 17,
+      "gas:candidate-vibid:1001000114000": 190,
+      "gas:candidate-vibid:377301570743": 114,
+      "gas:candidate-vibid:377301570819": 11,
+      "gas:candidate-vibid:1001000121944": 114,
+      "gas:candidate-vibid:1001000226016": 685,
+      "gas:candidate-vibid:1001000136159": 37,
+      "gas:candidate-vibid:1001000190460": 41,
+      "special:against-all": 285
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=773015008&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=377301570561&region=0&sub_region=0&type=429",
@@ -3116,15 +3116,15 @@ export const duma_2003_uik_428_region_77_part_014 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Анисимов Георгий Александрович": 19,
-      "Антоненко Евгений Романович": 110,
-      "Зуев Сергей Васильевич": 79,
-      "Кобозев Андрей Владимирович": 16,
-      "Никитин Сергей Викторович": 73,
-      "Осадчий Сергей Юрьевич": 707,
-      "Попов Александр Александрович": 31,
-      "Рубахин Сергей Владимирович": 51,
-      "Против всех": 268
+      "gas:candidate-vibid:1001000195174": 19,
+      "gas:candidate-vibid:1001000114000": 110,
+      "gas:candidate-vibid:377301570743": 79,
+      "gas:candidate-vibid:377301570819": 16,
+      "gas:candidate-vibid:1001000121944": 73,
+      "gas:candidate-vibid:1001000226016": 707,
+      "gas:candidate-vibid:1001000136159": 31,
+      "gas:candidate-vibid:1001000190460": 51,
+      "special:against-all": 268
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=773015008&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=377301570561&region=0&sub_region=0&type=429",
@@ -3174,15 +3174,15 @@ export const duma_2003_uik_428_region_77_part_014 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Анисимов Георгий Александрович": 22,
-      "Антоненко Евгений Романович": 136,
-      "Зуев Сергей Васильевич": 87,
-      "Кобозев Андрей Владимирович": 4,
-      "Никитин Сергей Викторович": 113,
-      "Осадчий Сергей Юрьевич": 812,
-      "Попов Александр Александрович": 48,
-      "Рубахин Сергей Владимирович": 43,
-      "Против всех": 302
+      "gas:candidate-vibid:1001000195174": 22,
+      "gas:candidate-vibid:1001000114000": 136,
+      "gas:candidate-vibid:377301570743": 87,
+      "gas:candidate-vibid:377301570819": 4,
+      "gas:candidate-vibid:1001000121944": 113,
+      "gas:candidate-vibid:1001000226016": 812,
+      "gas:candidate-vibid:1001000136159": 48,
+      "gas:candidate-vibid:1001000190460": 43,
+      "special:against-all": 302
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=773015008&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=377301570561&region=0&sub_region=0&type=429",
@@ -3232,15 +3232,15 @@ export const duma_2003_uik_428_region_77_part_014 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Анисимов Георгий Александрович": 28,
-      "Антоненко Евгений Романович": 113,
-      "Зуев Сергей Васильевич": 117,
-      "Кобозев Андрей Владимирович": 15,
-      "Никитин Сергей Викторович": 121,
-      "Осадчий Сергей Юрьевич": 745,
-      "Попов Александр Александрович": 43,
-      "Рубахин Сергей Владимирович": 46,
-      "Против всех": 334
+      "gas:candidate-vibid:1001000195174": 28,
+      "gas:candidate-vibid:1001000114000": 113,
+      "gas:candidate-vibid:377301570743": 117,
+      "gas:candidate-vibid:377301570819": 15,
+      "gas:candidate-vibid:1001000121944": 121,
+      "gas:candidate-vibid:1001000226016": 745,
+      "gas:candidate-vibid:1001000136159": 43,
+      "gas:candidate-vibid:1001000190460": 46,
+      "special:against-all": 334
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=773015008&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=377301570561&region=0&sub_region=0&type=429",
@@ -3290,15 +3290,15 @@ export const duma_2003_uik_428_region_77_part_014 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Анисимов Георгий Александрович": 15,
-      "Антоненко Евгений Романович": 156,
-      "Зуев Сергей Васильевич": 94,
-      "Кобозев Андрей Владимирович": 3,
-      "Никитин Сергей Викторович": 94,
-      "Осадчий Сергей Юрьевич": 683,
-      "Попов Александр Александрович": 19,
-      "Рубахин Сергей Владимирович": 27,
-      "Против всех": 248
+      "gas:candidate-vibid:1001000195174": 15,
+      "gas:candidate-vibid:1001000114000": 156,
+      "gas:candidate-vibid:377301570743": 94,
+      "gas:candidate-vibid:377301570819": 3,
+      "gas:candidate-vibid:1001000121944": 94,
+      "gas:candidate-vibid:1001000226016": 683,
+      "gas:candidate-vibid:1001000136159": 19,
+      "gas:candidate-vibid:1001000190460": 27,
+      "special:against-all": 248
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=773015008&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=377301570561&region=0&sub_region=0&type=429",
@@ -3348,15 +3348,15 @@ export const duma_2003_uik_428_region_77_part_014 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Анисимов Георгий Александрович": 23,
-      "Антоненко Евгений Романович": 119,
-      "Зуев Сергей Васильевич": 63,
-      "Кобозев Андрей Владимирович": 6,
-      "Никитин Сергей Викторович": 61,
-      "Осадчий Сергей Юрьевич": 803,
-      "Попов Александр Александрович": 25,
-      "Рубахин Сергей Владимирович": 26,
-      "Против всех": 240
+      "gas:candidate-vibid:1001000195174": 23,
+      "gas:candidate-vibid:1001000114000": 119,
+      "gas:candidate-vibid:377301570743": 63,
+      "gas:candidate-vibid:377301570819": 6,
+      "gas:candidate-vibid:1001000121944": 61,
+      "gas:candidate-vibid:1001000226016": 803,
+      "gas:candidate-vibid:1001000136159": 25,
+      "gas:candidate-vibid:1001000190460": 26,
+      "special:against-all": 240
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=773015008&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=377301570561&region=0&sub_region=0&type=429",
@@ -3406,15 +3406,15 @@ export const duma_2003_uik_428_region_77_part_014 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Анисимов Георгий Александрович": 26,
-      "Антоненко Евгений Романович": 148,
-      "Зуев Сергей Васильевич": 100,
-      "Кобозев Андрей Владимирович": 13,
-      "Никитин Сергей Викторович": 99,
-      "Осадчий Сергей Юрьевич": 721,
-      "Попов Александр Александрович": 30,
-      "Рубахин Сергей Владимирович": 26,
-      "Против всех": 272
+      "gas:candidate-vibid:1001000195174": 26,
+      "gas:candidate-vibid:1001000114000": 148,
+      "gas:candidate-vibid:377301570743": 100,
+      "gas:candidate-vibid:377301570819": 13,
+      "gas:candidate-vibid:1001000121944": 99,
+      "gas:candidate-vibid:1001000226016": 721,
+      "gas:candidate-vibid:1001000136159": 30,
+      "gas:candidate-vibid:1001000190460": 26,
+      "special:against-all": 272
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=773015008&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=377301570561&region=0&sub_region=0&type=429",
@@ -3464,15 +3464,15 @@ export const duma_2003_uik_428_region_77_part_014 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Анисимов Георгий Александрович": 23,
-      "Антоненко Евгений Романович": 87,
-      "Зуев Сергей Васильевич": 94,
-      "Кобозев Андрей Владимирович": 11,
-      "Никитин Сергей Викторович": 66,
-      "Осадчий Сергей Юрьевич": 761,
-      "Попов Александр Александрович": 33,
-      "Рубахин Сергей Владимирович": 26,
-      "Против всех": 312
+      "gas:candidate-vibid:1001000195174": 23,
+      "gas:candidate-vibid:1001000114000": 87,
+      "gas:candidate-vibid:377301570743": 94,
+      "gas:candidate-vibid:377301570819": 11,
+      "gas:candidate-vibid:1001000121944": 66,
+      "gas:candidate-vibid:1001000226016": 761,
+      "gas:candidate-vibid:1001000136159": 33,
+      "gas:candidate-vibid:1001000190460": 26,
+      "special:against-all": 312
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=773015008&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=377301570561&region=0&sub_region=0&type=429",
@@ -3522,15 +3522,15 @@ export const duma_2003_uik_428_region_77_part_014 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Анисимов Георгий Александрович": 4,
-      "Антоненко Евгений Романович": 73,
-      "Зуев Сергей Васильевич": 58,
-      "Кобозев Андрей Владимирович": 16,
-      "Никитин Сергей Викторович": 70,
-      "Осадчий Сергей Юрьевич": 843,
-      "Попов Александр Александрович": 31,
-      "Рубахин Сергей Владимирович": 32,
-      "Против всех": 219
+      "gas:candidate-vibid:1001000195174": 4,
+      "gas:candidate-vibid:1001000114000": 73,
+      "gas:candidate-vibid:377301570743": 58,
+      "gas:candidate-vibid:377301570819": 16,
+      "gas:candidate-vibid:1001000121944": 70,
+      "gas:candidate-vibid:1001000226016": 843,
+      "gas:candidate-vibid:1001000136159": 31,
+      "gas:candidate-vibid:1001000190460": 32,
+      "special:against-all": 219
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=773015008&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=377301570561&region=0&sub_region=0&type=429",
@@ -3580,15 +3580,15 @@ export const duma_2003_uik_428_region_77_part_014 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Анисимов Георгий Александрович": 26,
-      "Антоненко Евгений Романович": 151,
-      "Зуев Сергей Васильевич": 68,
-      "Кобозев Андрей Владимирович": 16,
-      "Никитин Сергей Викторович": 129,
-      "Осадчий Сергей Юрьевич": 790,
-      "Попов Александр Александрович": 48,
-      "Рубахин Сергей Владимирович": 39,
-      "Против всех": 348
+      "gas:candidate-vibid:1001000195174": 26,
+      "gas:candidate-vibid:1001000114000": 151,
+      "gas:candidate-vibid:377301570743": 68,
+      "gas:candidate-vibid:377301570819": 16,
+      "gas:candidate-vibid:1001000121944": 129,
+      "gas:candidate-vibid:1001000226016": 790,
+      "gas:candidate-vibid:1001000136159": 48,
+      "gas:candidate-vibid:1001000190460": 39,
+      "special:against-all": 348
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=773015008&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=377301570561&region=0&sub_region=0&type=429",
@@ -3638,15 +3638,15 @@ export const duma_2003_uik_428_region_77_part_014 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Анисимов Георгий Александрович": 20,
-      "Антоненко Евгений Романович": 132,
-      "Зуев Сергей Васильевич": 80,
-      "Кобозев Андрей Владимирович": 4,
-      "Никитин Сергей Викторович": 96,
-      "Осадчий Сергей Юрьевич": 880,
-      "Попов Александр Александрович": 30,
-      "Рубахин Сергей Владимирович": 25,
-      "Против всех": 324
+      "gas:candidate-vibid:1001000195174": 20,
+      "gas:candidate-vibid:1001000114000": 132,
+      "gas:candidate-vibid:377301570743": 80,
+      "gas:candidate-vibid:377301570819": 4,
+      "gas:candidate-vibid:1001000121944": 96,
+      "gas:candidate-vibid:1001000226016": 880,
+      "gas:candidate-vibid:1001000136159": 30,
+      "gas:candidate-vibid:1001000190460": 25,
+      "special:against-all": 324
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=773015008&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=377301570561&region=0&sub_region=0&type=429",
@@ -3696,15 +3696,15 @@ export const duma_2003_uik_428_region_77_part_014 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Анисимов Георгий Александрович": 29,
-      "Антоненко Евгений Романович": 128,
-      "Зуев Сергей Васильевич": 90,
-      "Кобозев Андрей Владимирович": 11,
-      "Никитин Сергей Викторович": 143,
-      "Осадчий Сергей Юрьевич": 835,
-      "Попов Александр Александрович": 50,
-      "Рубахин Сергей Владимирович": 52,
-      "Против всех": 345
+      "gas:candidate-vibid:1001000195174": 29,
+      "gas:candidate-vibid:1001000114000": 128,
+      "gas:candidate-vibid:377301570743": 90,
+      "gas:candidate-vibid:377301570819": 11,
+      "gas:candidate-vibid:1001000121944": 143,
+      "gas:candidate-vibid:1001000226016": 835,
+      "gas:candidate-vibid:1001000136159": 50,
+      "gas:candidate-vibid:1001000190460": 52,
+      "special:against-all": 345
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=773015008&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=377301570561&region=0&sub_region=0&type=429",
@@ -3754,15 +3754,15 @@ export const duma_2003_uik_428_region_77_part_014 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Анисимов Георгий Александрович": 25,
-      "Антоненко Евгений Романович": 166,
-      "Зуев Сергей Васильевич": 78,
-      "Кобозев Андрей Владимирович": 9,
-      "Никитин Сергей Викторович": 137,
-      "Осадчий Сергей Юрьевич": 855,
-      "Попов Александр Александрович": 40,
-      "Рубахин Сергей Владимирович": 41,
-      "Против всех": 331
+      "gas:candidate-vibid:1001000195174": 25,
+      "gas:candidate-vibid:1001000114000": 166,
+      "gas:candidate-vibid:377301570743": 78,
+      "gas:candidate-vibid:377301570819": 9,
+      "gas:candidate-vibid:1001000121944": 137,
+      "gas:candidate-vibid:1001000226016": 855,
+      "gas:candidate-vibid:1001000136159": 40,
+      "gas:candidate-vibid:1001000190460": 41,
+      "special:against-all": 331
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=773015008&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=377301570561&region=0&sub_region=0&type=429",
@@ -3812,15 +3812,15 @@ export const duma_2003_uik_428_region_77_part_014 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Анисимов Георгий Александрович": 28,
-      "Антоненко Евгений Романович": 166,
-      "Зуев Сергей Васильевич": 84,
-      "Кобозев Андрей Владимирович": 6,
-      "Никитин Сергей Викторович": 89,
-      "Осадчий Сергей Юрьевич": 633,
-      "Попов Александр Александрович": 33,
-      "Рубахин Сергей Владимирович": 40,
-      "Против всех": 238
+      "gas:candidate-vibid:1001000195174": 28,
+      "gas:candidate-vibid:1001000114000": 166,
+      "gas:candidate-vibid:377301570743": 84,
+      "gas:candidate-vibid:377301570819": 6,
+      "gas:candidate-vibid:1001000121944": 89,
+      "gas:candidate-vibid:1001000226016": 633,
+      "gas:candidate-vibid:1001000136159": 33,
+      "gas:candidate-vibid:1001000190460": 40,
+      "special:against-all": 238
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=773015008&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=377301570561&region=0&sub_region=0&type=429",
@@ -3870,15 +3870,15 @@ export const duma_2003_uik_428_region_77_part_014 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Анисимов Георгий Александрович": 30,
-      "Антоненко Евгений Романович": 127,
-      "Зуев Сергей Васильевич": 98,
-      "Кобозев Андрей Владимирович": 8,
-      "Никитин Сергей Викторович": 169,
-      "Осадчий Сергей Юрьевич": 759,
-      "Попов Александр Александрович": 42,
-      "Рубахин Сергей Владимирович": 44,
-      "Против всех": 313
+      "gas:candidate-vibid:1001000195174": 30,
+      "gas:candidate-vibid:1001000114000": 127,
+      "gas:candidate-vibid:377301570743": 98,
+      "gas:candidate-vibid:377301570819": 8,
+      "gas:candidate-vibid:1001000121944": 169,
+      "gas:candidate-vibid:1001000226016": 759,
+      "gas:candidate-vibid:1001000136159": 42,
+      "gas:candidate-vibid:1001000190460": 44,
+      "special:against-all": 313
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=773015008&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=377301570561&region=0&sub_region=0&type=429",
@@ -3928,15 +3928,15 @@ export const duma_2003_uik_428_region_77_part_014 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Анисимов Георгий Александрович": 27,
-      "Антоненко Евгений Романович": 140,
-      "Зуев Сергей Васильевич": 84,
-      "Кобозев Андрей Владимирович": 11,
-      "Никитин Сергей Викторович": 130,
-      "Осадчий Сергей Юрьевич": 804,
-      "Попов Александр Александрович": 46,
-      "Рубахин Сергей Владимирович": 33,
-      "Против всех": 290
+      "gas:candidate-vibid:1001000195174": 27,
+      "gas:candidate-vibid:1001000114000": 140,
+      "gas:candidate-vibid:377301570743": 84,
+      "gas:candidate-vibid:377301570819": 11,
+      "gas:candidate-vibid:1001000121944": 130,
+      "gas:candidate-vibid:1001000226016": 804,
+      "gas:candidate-vibid:1001000136159": 46,
+      "gas:candidate-vibid:1001000190460": 33,
+      "special:against-all": 290
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=773015008&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=377301570561&region=0&sub_region=0&type=429",
@@ -3986,15 +3986,15 @@ export const duma_2003_uik_428_region_77_part_014 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Анисимов Георгий Александрович": 28,
-      "Антоненко Евгений Романович": 122,
-      "Зуев Сергей Васильевич": 124,
-      "Кобозев Андрей Владимирович": 9,
-      "Никитин Сергей Викторович": 105,
-      "Осадчий Сергей Юрьевич": 726,
-      "Попов Александр Александрович": 40,
-      "Рубахин Сергей Владимирович": 43,
-      "Против всех": 296
+      "gas:candidate-vibid:1001000195174": 28,
+      "gas:candidate-vibid:1001000114000": 122,
+      "gas:candidate-vibid:377301570743": 124,
+      "gas:candidate-vibid:377301570819": 9,
+      "gas:candidate-vibid:1001000121944": 105,
+      "gas:candidate-vibid:1001000226016": 726,
+      "gas:candidate-vibid:1001000136159": 40,
+      "gas:candidate-vibid:1001000190460": 43,
+      "special:against-all": 296
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=773015008&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=377301570561&region=0&sub_region=0&type=429",
@@ -4044,15 +4044,15 @@ export const duma_2003_uik_428_region_77_part_014 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Анисимов Георгий Александрович": 27,
-      "Антоненко Евгений Романович": 98,
-      "Зуев Сергей Васильевич": 92,
-      "Кобозев Андрей Владимирович": 17,
-      "Никитин Сергей Викторович": 116,
-      "Осадчий Сергей Юрьевич": 743,
-      "Попов Александр Александрович": 46,
-      "Рубахин Сергей Владимирович": 35,
-      "Против всех": 282
+      "gas:candidate-vibid:1001000195174": 27,
+      "gas:candidate-vibid:1001000114000": 98,
+      "gas:candidate-vibid:377301570743": 92,
+      "gas:candidate-vibid:377301570819": 17,
+      "gas:candidate-vibid:1001000121944": 116,
+      "gas:candidate-vibid:1001000226016": 743,
+      "gas:candidate-vibid:1001000136159": 46,
+      "gas:candidate-vibid:1001000190460": 35,
+      "special:against-all": 282
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=773015008&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=377301570561&region=0&sub_region=0&type=429",
@@ -4102,15 +4102,15 @@ export const duma_2003_uik_428_region_77_part_014 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Анисимов Георгий Александрович": 36,
-      "Антоненко Евгений Романович": 154,
-      "Зуев Сергей Васильевич": 110,
-      "Кобозев Андрей Владимирович": 18,
-      "Никитин Сергей Викторович": 144,
-      "Осадчий Сергей Юрьевич": 553,
-      "Попов Александр Александрович": 34,
-      "Рубахин Сергей Владимирович": 43,
-      "Против всех": 365
+      "gas:candidate-vibid:1001000195174": 36,
+      "gas:candidate-vibid:1001000114000": 154,
+      "gas:candidate-vibid:377301570743": 110,
+      "gas:candidate-vibid:377301570819": 18,
+      "gas:candidate-vibid:1001000121944": 144,
+      "gas:candidate-vibid:1001000226016": 553,
+      "gas:candidate-vibid:1001000136159": 34,
+      "gas:candidate-vibid:1001000190460": 43,
+      "special:against-all": 365
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=773015008&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=377301570561&region=0&sub_region=0&type=429",
@@ -4160,15 +4160,15 @@ export const duma_2003_uik_428_region_77_part_014 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Анисимов Георгий Александрович": 16,
-      "Антоненко Евгений Романович": 113,
-      "Зуев Сергей Васильевич": 112,
-      "Кобозев Андрей Владимирович": 12,
-      "Никитин Сергей Викторович": 88,
-      "Осадчий Сергей Юрьевич": 698,
-      "Попов Александр Александрович": 35,
-      "Рубахин Сергей Владимирович": 37,
-      "Против всех": 348
+      "gas:candidate-vibid:1001000195174": 16,
+      "gas:candidate-vibid:1001000114000": 113,
+      "gas:candidate-vibid:377301570743": 112,
+      "gas:candidate-vibid:377301570819": 12,
+      "gas:candidate-vibid:1001000121944": 88,
+      "gas:candidate-vibid:1001000226016": 698,
+      "gas:candidate-vibid:1001000136159": 35,
+      "gas:candidate-vibid:1001000190460": 37,
+      "special:against-all": 348
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=773015008&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=377301570561&region=0&sub_region=0&type=429",
@@ -4218,15 +4218,15 @@ export const duma_2003_uik_428_region_77_part_014 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Анисимов Георгий Александрович": 22,
-      "Антоненко Евгений Романович": 101,
-      "Зуев Сергей Васильевич": 108,
-      "Кобозев Андрей Владимирович": 8,
-      "Никитин Сергей Викторович": 107,
-      "Осадчий Сергей Юрьевич": 790,
-      "Попов Александр Александрович": 34,
-      "Рубахин Сергей Владимирович": 31,
-      "Против всех": 317
+      "gas:candidate-vibid:1001000195174": 22,
+      "gas:candidate-vibid:1001000114000": 101,
+      "gas:candidate-vibid:377301570743": 108,
+      "gas:candidate-vibid:377301570819": 8,
+      "gas:candidate-vibid:1001000121944": 107,
+      "gas:candidate-vibid:1001000226016": 790,
+      "gas:candidate-vibid:1001000136159": 34,
+      "gas:candidate-vibid:1001000190460": 31,
+      "special:against-all": 317
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=773015008&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=377301570561&region=0&sub_region=0&type=429",
@@ -4276,15 +4276,15 @@ export const duma_2003_uik_428_region_77_part_014 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Анисимов Георгий Александрович": 23,
-      "Антоненко Евгений Романович": 144,
-      "Зуев Сергей Васильевич": 177,
-      "Кобозев Андрей Владимирович": 9,
-      "Никитин Сергей Викторович": 146,
-      "Осадчий Сергей Юрьевич": 714,
-      "Попов Александр Александрович": 54,
-      "Рубахин Сергей Владимирович": 45,
-      "Против всех": 384
+      "gas:candidate-vibid:1001000195174": 23,
+      "gas:candidate-vibid:1001000114000": 144,
+      "gas:candidate-vibid:377301570743": 177,
+      "gas:candidate-vibid:377301570819": 9,
+      "gas:candidate-vibid:1001000121944": 146,
+      "gas:candidate-vibid:1001000226016": 714,
+      "gas:candidate-vibid:1001000136159": 54,
+      "gas:candidate-vibid:1001000190460": 45,
+      "special:against-all": 384
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=773015008&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=377301570561&region=0&sub_region=0&type=429",
@@ -4334,15 +4334,15 @@ export const duma_2003_uik_428_region_77_part_014 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Анисимов Георгий Александрович": 1,
-      "Антоненко Евгений Романович": 0,
-      "Зуев Сергей Васильевич": 0,
-      "Кобозев Андрей Владимирович": 0,
-      "Никитин Сергей Викторович": 1,
-      "Осадчий Сергей Юрьевич": 8,
-      "Попов Александр Александрович": 0,
-      "Рубахин Сергей Владимирович": 1,
-      "Против всех": 3
+      "gas:candidate-vibid:1001000195174": 1,
+      "gas:candidate-vibid:1001000114000": 0,
+      "gas:candidate-vibid:377301570743": 0,
+      "gas:candidate-vibid:377301570819": 0,
+      "gas:candidate-vibid:1001000121944": 1,
+      "gas:candidate-vibid:1001000226016": 8,
+      "gas:candidate-vibid:1001000136159": 0,
+      "gas:candidate-vibid:1001000190460": 1,
+      "special:against-all": 3
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=773015008&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=377301570561&region=0&sub_region=0&type=429",
@@ -4392,15 +4392,15 @@ export const duma_2003_uik_428_region_77_part_014 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Анисимов Георгий Александрович": 14,
-      "Антоненко Евгений Романович": 216,
-      "Зуев Сергей Васильевич": 95,
-      "Кобозев Андрей Владимирович": 12,
-      "Никитин Сергей Викторович": 93,
-      "Осадчий Сергей Юрьевич": 818,
-      "Попов Александр Александрович": 30,
-      "Рубахин Сергей Владимирович": 53,
-      "Против всех": 326
+      "gas:candidate-vibid:1001000195174": 14,
+      "gas:candidate-vibid:1001000114000": 216,
+      "gas:candidate-vibid:377301570743": 95,
+      "gas:candidate-vibid:377301570819": 12,
+      "gas:candidate-vibid:1001000121944": 93,
+      "gas:candidate-vibid:1001000226016": 818,
+      "gas:candidate-vibid:1001000136159": 30,
+      "gas:candidate-vibid:1001000190460": 53,
+      "special:against-all": 326
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=773015009&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=377301570562&region=0&sub_region=0&type=429",
@@ -4450,15 +4450,15 @@ export const duma_2003_uik_428_region_77_part_014 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Анисимов Георгий Александрович": 18,
-      "Антоненко Евгений Романович": 75,
-      "Зуев Сергей Васильевич": 59,
-      "Кобозев Андрей Владимирович": 13,
-      "Никитин Сергей Викторович": 62,
-      "Осадчий Сергей Юрьевич": 760,
-      "Попов Александр Александрович": 31,
-      "Рубахин Сергей Владимирович": 32,
-      "Против всех": 248
+      "gas:candidate-vibid:1001000195174": 18,
+      "gas:candidate-vibid:1001000114000": 75,
+      "gas:candidate-vibid:377301570743": 59,
+      "gas:candidate-vibid:377301570819": 13,
+      "gas:candidate-vibid:1001000121944": 62,
+      "gas:candidate-vibid:1001000226016": 760,
+      "gas:candidate-vibid:1001000136159": 31,
+      "gas:candidate-vibid:1001000190460": 32,
+      "special:against-all": 248
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=773015009&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=377301570562&region=0&sub_region=0&type=429",
@@ -4508,15 +4508,15 @@ export const duma_2003_uik_428_region_77_part_014 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Анисимов Георгий Александрович": 17,
-      "Антоненко Евгений Романович": 126,
-      "Зуев Сергей Васильевич": 73,
-      "Кобозев Андрей Владимирович": 7,
-      "Никитин Сергей Викторович": 88,
-      "Осадчий Сергей Юрьевич": 838,
-      "Попов Александр Александрович": 24,
-      "Рубахин Сергей Владимирович": 19,
-      "Против всех": 242
+      "gas:candidate-vibid:1001000195174": 17,
+      "gas:candidate-vibid:1001000114000": 126,
+      "gas:candidate-vibid:377301570743": 73,
+      "gas:candidate-vibid:377301570819": 7,
+      "gas:candidate-vibid:1001000121944": 88,
+      "gas:candidate-vibid:1001000226016": 838,
+      "gas:candidate-vibid:1001000136159": 24,
+      "gas:candidate-vibid:1001000190460": 19,
+      "special:against-all": 242
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=773015009&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=377301570562&region=0&sub_region=0&type=429",
@@ -4566,15 +4566,15 @@ export const duma_2003_uik_428_region_77_part_014 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Анисимов Георгий Александрович": 14,
-      "Антоненко Евгений Романович": 142,
-      "Зуев Сергей Васильевич": 78,
-      "Кобозев Андрей Владимирович": 12,
-      "Никитин Сергей Викторович": 101,
-      "Осадчий Сергей Юрьевич": 802,
-      "Попов Александр Александрович": 28,
-      "Рубахин Сергей Владимирович": 24,
-      "Против всех": 232
+      "gas:candidate-vibid:1001000195174": 14,
+      "gas:candidate-vibid:1001000114000": 142,
+      "gas:candidate-vibid:377301570743": 78,
+      "gas:candidate-vibid:377301570819": 12,
+      "gas:candidate-vibid:1001000121944": 101,
+      "gas:candidate-vibid:1001000226016": 802,
+      "gas:candidate-vibid:1001000136159": 28,
+      "gas:candidate-vibid:1001000190460": 24,
+      "special:against-all": 232
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=773015009&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=377301570562&region=0&sub_region=0&type=429",
@@ -4624,15 +4624,15 @@ export const duma_2003_uik_428_region_77_part_014 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Анисимов Георгий Александрович": 23,
-      "Антоненко Евгений Романович": 99,
-      "Зуев Сергей Васильевич": 86,
-      "Кобозев Андрей Владимирович": 17,
-      "Никитин Сергей Викторович": 61,
-      "Осадчий Сергей Юрьевич": 796,
-      "Попов Александр Александрович": 29,
-      "Рубахин Сергей Владимирович": 17,
-      "Против всех": 262
+      "gas:candidate-vibid:1001000195174": 23,
+      "gas:candidate-vibid:1001000114000": 99,
+      "gas:candidate-vibid:377301570743": 86,
+      "gas:candidate-vibid:377301570819": 17,
+      "gas:candidate-vibid:1001000121944": 61,
+      "gas:candidate-vibid:1001000226016": 796,
+      "gas:candidate-vibid:1001000136159": 29,
+      "gas:candidate-vibid:1001000190460": 17,
+      "special:against-all": 262
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=773015009&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=377301570562&region=0&sub_region=0&type=429",
@@ -4682,15 +4682,15 @@ export const duma_2003_uik_428_region_77_part_014 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Анисимов Георгий Александрович": 25,
-      "Антоненко Евгений Романович": 100,
-      "Зуев Сергей Васильевич": 61,
-      "Кобозев Андрей Владимирович": 9,
-      "Никитин Сергей Викторович": 107,
-      "Осадчий Сергей Юрьевич": 867,
-      "Попов Александр Александрович": 31,
-      "Рубахин Сергей Владимирович": 34,
-      "Против всех": 283
+      "gas:candidate-vibid:1001000195174": 25,
+      "gas:candidate-vibid:1001000114000": 100,
+      "gas:candidate-vibid:377301570743": 61,
+      "gas:candidate-vibid:377301570819": 9,
+      "gas:candidate-vibid:1001000121944": 107,
+      "gas:candidate-vibid:1001000226016": 867,
+      "gas:candidate-vibid:1001000136159": 31,
+      "gas:candidate-vibid:1001000190460": 34,
+      "special:against-all": 283
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=773015009&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=377301570562&region=0&sub_region=0&type=429",
@@ -4740,15 +4740,15 @@ export const duma_2003_uik_428_region_77_part_014 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Анисимов Георгий Александрович": 13,
-      "Антоненко Евгений Романович": 84,
-      "Зуев Сергей Васильевич": 81,
-      "Кобозев Андрей Владимирович": 8,
-      "Никитин Сергей Викторович": 93,
-      "Осадчий Сергей Юрьевич": 774,
-      "Попов Александр Александрович": 20,
-      "Рубахин Сергей Владимирович": 26,
-      "Против всех": 252
+      "gas:candidate-vibid:1001000195174": 13,
+      "gas:candidate-vibid:1001000114000": 84,
+      "gas:candidate-vibid:377301570743": 81,
+      "gas:candidate-vibid:377301570819": 8,
+      "gas:candidate-vibid:1001000121944": 93,
+      "gas:candidate-vibid:1001000226016": 774,
+      "gas:candidate-vibid:1001000136159": 20,
+      "gas:candidate-vibid:1001000190460": 26,
+      "special:against-all": 252
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=773015009&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=377301570562&region=0&sub_region=0&type=429",
@@ -4798,15 +4798,15 @@ export const duma_2003_uik_428_region_77_part_014 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Анисимов Георгий Александрович": 21,
-      "Антоненко Евгений Романович": 105,
-      "Зуев Сергей Васильевич": 71,
-      "Кобозев Андрей Владимирович": 7,
-      "Никитин Сергей Викторович": 74,
-      "Осадчий Сергей Юрьевич": 904,
-      "Попов Александр Александрович": 25,
-      "Рубахин Сергей Владимирович": 30,
-      "Против всех": 236
+      "gas:candidate-vibid:1001000195174": 21,
+      "gas:candidate-vibid:1001000114000": 105,
+      "gas:candidate-vibid:377301570743": 71,
+      "gas:candidate-vibid:377301570819": 7,
+      "gas:candidate-vibid:1001000121944": 74,
+      "gas:candidate-vibid:1001000226016": 904,
+      "gas:candidate-vibid:1001000136159": 25,
+      "gas:candidate-vibid:1001000190460": 30,
+      "special:against-all": 236
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=773015009&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=377301570562&region=0&sub_region=0&type=429",
@@ -4856,15 +4856,15 @@ export const duma_2003_uik_428_region_77_part_014 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Анисимов Георгий Александрович": 8,
-      "Антоненко Евгений Романович": 130,
-      "Зуев Сергей Васильевич": 95,
-      "Кобозев Андрей Владимирович": 6,
-      "Никитин Сергей Викторович": 82,
-      "Осадчий Сергей Юрьевич": 856,
-      "Попов Александр Александрович": 20,
-      "Рубахин Сергей Владимирович": 30,
-      "Против всех": 206
+      "gas:candidate-vibid:1001000195174": 8,
+      "gas:candidate-vibid:1001000114000": 130,
+      "gas:candidate-vibid:377301570743": 95,
+      "gas:candidate-vibid:377301570819": 6,
+      "gas:candidate-vibid:1001000121944": 82,
+      "gas:candidate-vibid:1001000226016": 856,
+      "gas:candidate-vibid:1001000136159": 20,
+      "gas:candidate-vibid:1001000190460": 30,
+      "special:against-all": 206
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=773015009&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=377301570562&region=0&sub_region=0&type=429",
@@ -4914,15 +4914,15 @@ export const duma_2003_uik_428_region_77_part_014 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Анисимов Георгий Александрович": 23,
-      "Антоненко Евгений Романович": 141,
-      "Зуев Сергей Васильевич": 90,
-      "Кобозев Андрей Владимирович": 14,
-      "Никитин Сергей Викторович": 107,
-      "Осадчий Сергей Юрьевич": 854,
-      "Попов Александр Александрович": 34,
-      "Рубахин Сергей Владимирович": 34,
-      "Против всех": 292
+      "gas:candidate-vibid:1001000195174": 23,
+      "gas:candidate-vibid:1001000114000": 141,
+      "gas:candidate-vibid:377301570743": 90,
+      "gas:candidate-vibid:377301570819": 14,
+      "gas:candidate-vibid:1001000121944": 107,
+      "gas:candidate-vibid:1001000226016": 854,
+      "gas:candidate-vibid:1001000136159": 34,
+      "gas:candidate-vibid:1001000190460": 34,
+      "special:against-all": 292
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=773015009&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=377301570562&region=0&sub_region=0&type=429",
@@ -4972,15 +4972,15 @@ export const duma_2003_uik_428_region_77_part_014 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Анисимов Георгий Александрович": 19,
-      "Антоненко Евгений Романович": 104,
-      "Зуев Сергей Васильевич": 51,
-      "Кобозев Андрей Владимирович": 8,
-      "Никитин Сергей Викторович": 73,
-      "Осадчий Сергей Юрьевич": 924,
-      "Попов Александр Александрович": 30,
-      "Рубахин Сергей Владимирович": 17,
-      "Против всех": 220
+      "gas:candidate-vibid:1001000195174": 19,
+      "gas:candidate-vibid:1001000114000": 104,
+      "gas:candidate-vibid:377301570743": 51,
+      "gas:candidate-vibid:377301570819": 8,
+      "gas:candidate-vibid:1001000121944": 73,
+      "gas:candidate-vibid:1001000226016": 924,
+      "gas:candidate-vibid:1001000136159": 30,
+      "gas:candidate-vibid:1001000190460": 17,
+      "special:against-all": 220
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=773015009&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=377301570562&region=0&sub_region=0&type=429",
@@ -5030,15 +5030,15 @@ export const duma_2003_uik_428_region_77_part_014 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Анисимов Георгий Александрович": 40,
-      "Антоненко Евгений Романович": 128,
-      "Зуев Сергей Васильевич": 82,
-      "Кобозев Андрей Владимирович": 14,
-      "Никитин Сергей Викторович": 121,
-      "Осадчий Сергей Юрьевич": 825,
-      "Попов Александр Александрович": 34,
-      "Рубахин Сергей Владимирович": 35,
-      "Против всех": 338
+      "gas:candidate-vibid:1001000195174": 40,
+      "gas:candidate-vibid:1001000114000": 128,
+      "gas:candidate-vibid:377301570743": 82,
+      "gas:candidate-vibid:377301570819": 14,
+      "gas:candidate-vibid:1001000121944": 121,
+      "gas:candidate-vibid:1001000226016": 825,
+      "gas:candidate-vibid:1001000136159": 34,
+      "gas:candidate-vibid:1001000190460": 35,
+      "special:against-all": 338
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=773015009&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=377301570562&region=0&sub_region=0&type=429",
@@ -5088,15 +5088,15 @@ export const duma_2003_uik_428_region_77_part_014 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Анисимов Георгий Александрович": 26,
-      "Антоненко Евгений Романович": 118,
-      "Зуев Сергей Васильевич": 105,
-      "Кобозев Андрей Владимирович": 14,
-      "Никитин Сергей Викторович": 110,
-      "Осадчий Сергей Юрьевич": 838,
-      "Попов Александр Александрович": 33,
-      "Рубахин Сергей Владимирович": 32,
-      "Против всех": 253
+      "gas:candidate-vibid:1001000195174": 26,
+      "gas:candidate-vibid:1001000114000": 118,
+      "gas:candidate-vibid:377301570743": 105,
+      "gas:candidate-vibid:377301570819": 14,
+      "gas:candidate-vibid:1001000121944": 110,
+      "gas:candidate-vibid:1001000226016": 838,
+      "gas:candidate-vibid:1001000136159": 33,
+      "gas:candidate-vibid:1001000190460": 32,
+      "special:against-all": 253
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=773015009&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=377301570562&region=0&sub_region=0&type=429",
@@ -5146,15 +5146,15 @@ export const duma_2003_uik_428_region_77_part_014 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Анисимов Георгий Александрович": 15,
-      "Антоненко Евгений Романович": 118,
-      "Зуев Сергей Васильевич": 57,
-      "Кобозев Андрей Владимирович": 9,
-      "Никитин Сергей Викторович": 85,
-      "Осадчий Сергей Юрьевич": 924,
-      "Попов Александр Александрович": 34,
-      "Рубахин Сергей Владимирович": 33,
-      "Против всех": 253
+      "gas:candidate-vibid:1001000195174": 15,
+      "gas:candidate-vibid:1001000114000": 118,
+      "gas:candidate-vibid:377301570743": 57,
+      "gas:candidate-vibid:377301570819": 9,
+      "gas:candidate-vibid:1001000121944": 85,
+      "gas:candidate-vibid:1001000226016": 924,
+      "gas:candidate-vibid:1001000136159": 34,
+      "gas:candidate-vibid:1001000190460": 33,
+      "special:against-all": 253
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=773015009&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=377301570562&region=0&sub_region=0&type=429",
@@ -5204,15 +5204,15 @@ export const duma_2003_uik_428_region_77_part_014 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Анисимов Георгий Александрович": 19,
-      "Антоненко Евгений Романович": 130,
-      "Зуев Сергей Васильевич": 68,
-      "Кобозев Андрей Владимирович": 8,
-      "Никитин Сергей Викторович": 101,
-      "Осадчий Сергей Юрьевич": 904,
-      "Попов Александр Александрович": 27,
-      "Рубахин Сергей Владимирович": 34,
-      "Против всех": 227
+      "gas:candidate-vibid:1001000195174": 19,
+      "gas:candidate-vibid:1001000114000": 130,
+      "gas:candidate-vibid:377301570743": 68,
+      "gas:candidate-vibid:377301570819": 8,
+      "gas:candidate-vibid:1001000121944": 101,
+      "gas:candidate-vibid:1001000226016": 904,
+      "gas:candidate-vibid:1001000136159": 27,
+      "gas:candidate-vibid:1001000190460": 34,
+      "special:against-all": 227
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=773015009&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=377301570562&region=0&sub_region=0&type=429",
@@ -5262,15 +5262,15 @@ export const duma_2003_uik_428_region_77_part_014 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Анисимов Георгий Александрович": 22,
-      "Антоненко Евгений Романович": 135,
-      "Зуев Сергей Васильевич": 86,
-      "Кобозев Андрей Владимирович": 15,
-      "Никитин Сергей Викторович": 94,
-      "Осадчий Сергей Юрьевич": 874,
-      "Попов Александр Александрович": 30,
-      "Рубахин Сергей Владимирович": 24,
-      "Против всех": 210
+      "gas:candidate-vibid:1001000195174": 22,
+      "gas:candidate-vibid:1001000114000": 135,
+      "gas:candidate-vibid:377301570743": 86,
+      "gas:candidate-vibid:377301570819": 15,
+      "gas:candidate-vibid:1001000121944": 94,
+      "gas:candidate-vibid:1001000226016": 874,
+      "gas:candidate-vibid:1001000136159": 30,
+      "gas:candidate-vibid:1001000190460": 24,
+      "special:against-all": 210
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=773015009&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=377301570562&region=0&sub_region=0&type=429",
@@ -5320,15 +5320,15 @@ export const duma_2003_uik_428_region_77_part_014 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Анисимов Георгий Александрович": 15,
-      "Антоненко Евгений Романович": 126,
-      "Зуев Сергей Васильевич": 109,
-      "Кобозев Андрей Владимирович": 15,
-      "Никитин Сергей Викторович": 87,
-      "Осадчий Сергей Юрьевич": 769,
-      "Попов Александр Александрович": 37,
-      "Рубахин Сергей Владимирович": 40,
-      "Против всех": 258
+      "gas:candidate-vibid:1001000195174": 15,
+      "gas:candidate-vibid:1001000114000": 126,
+      "gas:candidate-vibid:377301570743": 109,
+      "gas:candidate-vibid:377301570819": 15,
+      "gas:candidate-vibid:1001000121944": 87,
+      "gas:candidate-vibid:1001000226016": 769,
+      "gas:candidate-vibid:1001000136159": 37,
+      "gas:candidate-vibid:1001000190460": 40,
+      "special:against-all": 258
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=773015009&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=377301570562&region=0&sub_region=0&type=429",
@@ -5378,15 +5378,15 @@ export const duma_2003_uik_428_region_77_part_014 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Анисимов Георгий Александрович": 26,
-      "Антоненко Евгений Романович": 142,
-      "Зуев Сергей Васильевич": 106,
-      "Кобозев Андрей Владимирович": 15,
-      "Никитин Сергей Викторович": 92,
-      "Осадчий Сергей Юрьевич": 617,
-      "Попов Александр Александрович": 32,
-      "Рубахин Сергей Владимирович": 50,
-      "Против всех": 323
+      "gas:candidate-vibid:1001000195174": 26,
+      "gas:candidate-vibid:1001000114000": 142,
+      "gas:candidate-vibid:377301570743": 106,
+      "gas:candidate-vibid:377301570819": 15,
+      "gas:candidate-vibid:1001000121944": 92,
+      "gas:candidate-vibid:1001000226016": 617,
+      "gas:candidate-vibid:1001000136159": 32,
+      "gas:candidate-vibid:1001000190460": 50,
+      "special:against-all": 323
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=773015009&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=377301570562&region=0&sub_region=0&type=429",
@@ -5436,15 +5436,15 @@ export const duma_2003_uik_428_region_77_part_014 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Анисимов Георгий Александрович": 1,
-      "Антоненко Евгений Романович": 0,
-      "Зуев Сергей Васильевич": 5,
-      "Кобозев Андрей Владимирович": 1,
-      "Никитин Сергей Викторович": 2,
-      "Осадчий Сергей Юрьевич": 27,
-      "Попов Александр Александрович": 0,
-      "Рубахин Сергей Владимирович": 1,
-      "Против всех": 7
+      "gas:candidate-vibid:1001000195174": 1,
+      "gas:candidate-vibid:1001000114000": 0,
+      "gas:candidate-vibid:377301570743": 5,
+      "gas:candidate-vibid:377301570819": 1,
+      "gas:candidate-vibid:1001000121944": 2,
+      "gas:candidate-vibid:1001000226016": 27,
+      "gas:candidate-vibid:1001000136159": 0,
+      "gas:candidate-vibid:1001000190460": 1,
+      "special:against-all": 7
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=773015009&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=377301570562&region=0&sub_region=0&type=429",

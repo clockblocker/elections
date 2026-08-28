@@ -42,12 +42,12 @@ export const duma_2003_uik_428_region_34_part_005 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Волков Николай Валентинович": 19,
-      "Елисеев Александр Николаевич": 0,
-      "Кузнецова Мария Анатольевна": 2,
-      "Лосев Александр Дмитриевич": 1,
-      "Плотников Владимир Николаевич": 34,
-      "Против всех": 7
+      "gas:candidate-vibid:1001000113925": 19,
+      "gas:candidate-vibid:1001000254934": 0,
+      "gas:candidate-vibid:1001000195065": 2,
+      "gas:candidate-vibid:334300370433": 1,
+      "gas:candidate-vibid:1001000217918": 34,
+      "special:against-all": 7
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=343003007&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=334300370867&region=0&sub_region=0&type=429",
@@ -97,12 +97,12 @@ export const duma_2003_uik_428_region_34_part_005 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Волков Николай Валентинович": 63,
-      "Елисеев Александр Николаевич": 8,
-      "Кузнецова Мария Анатольевна": 36,
-      "Лосев Александр Дмитриевич": 3,
-      "Плотников Владимир Николаевич": 239,
-      "Против всех": 40
+      "gas:candidate-vibid:1001000113925": 63,
+      "gas:candidate-vibid:1001000254934": 8,
+      "gas:candidate-vibid:1001000195065": 36,
+      "gas:candidate-vibid:334300370433": 3,
+      "gas:candidate-vibid:1001000217918": 239,
+      "special:against-all": 40
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=343003007&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=334300370867&region=0&sub_region=0&type=429",
@@ -152,12 +152,12 @@ export const duma_2003_uik_428_region_34_part_005 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Волков Николай Валентинович": 14,
-      "Елисеев Александр Николаевич": 0,
-      "Кузнецова Мария Анатольевна": 7,
-      "Лосев Александр Дмитриевич": 0,
-      "Плотников Владимир Николаевич": 28,
-      "Против всех": 2
+      "gas:candidate-vibid:1001000113925": 14,
+      "gas:candidate-vibid:1001000254934": 0,
+      "gas:candidate-vibid:1001000195065": 7,
+      "gas:candidate-vibid:334300370433": 0,
+      "gas:candidate-vibid:1001000217918": 28,
+      "special:against-all": 2
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=343003007&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=334300370867&region=0&sub_region=0&type=429",
@@ -207,12 +207,12 @@ export const duma_2003_uik_428_region_34_part_005 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Волков Николай Валентинович": 9,
-      "Елисеев Александр Николаевич": 2,
-      "Кузнецова Мария Анатольевна": 6,
-      "Лосев Александр Дмитриевич": 0,
-      "Плотников Владимир Николаевич": 20,
-      "Против всех": 5
+      "gas:candidate-vibid:1001000113925": 9,
+      "gas:candidate-vibid:1001000254934": 2,
+      "gas:candidate-vibid:1001000195065": 6,
+      "gas:candidate-vibid:334300370433": 0,
+      "gas:candidate-vibid:1001000217918": 20,
+      "special:against-all": 5
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=343003007&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=334300370867&region=0&sub_region=0&type=429",
@@ -262,12 +262,12 @@ export const duma_2003_uik_428_region_34_part_005 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Волков Николай Валентинович": 50,
-      "Елисеев Александр Николаевич": 10,
-      "Кузнецова Мария Анатольевна": 28,
-      "Лосев Александр Дмитриевич": 5,
-      "Плотников Владимир Николаевич": 267,
-      "Против всех": 46
+      "gas:candidate-vibid:1001000113925": 50,
+      "gas:candidate-vibid:1001000254934": 10,
+      "gas:candidate-vibid:1001000195065": 28,
+      "gas:candidate-vibid:334300370433": 5,
+      "gas:candidate-vibid:1001000217918": 267,
+      "special:against-all": 46
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=343003007&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=334300370867&region=0&sub_region=0&type=429",
@@ -317,12 +317,12 @@ export const duma_2003_uik_428_region_34_part_005 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Волков Николай Валентинович": 7,
-      "Елисеев Александр Николаевич": 0,
-      "Кузнецова Мария Анатольевна": 6,
-      "Лосев Александр Дмитриевич": 0,
-      "Плотников Владимир Николаевич": 113,
-      "Против всех": 13
+      "gas:candidate-vibid:1001000113925": 7,
+      "gas:candidate-vibid:1001000254934": 0,
+      "gas:candidate-vibid:1001000195065": 6,
+      "gas:candidate-vibid:334300370433": 0,
+      "gas:candidate-vibid:1001000217918": 113,
+      "special:against-all": 13
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=343003007&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=334300370867&region=0&sub_region=0&type=429",
@@ -372,12 +372,12 @@ export const duma_2003_uik_428_region_34_part_005 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Волков Николай Валентинович": 10,
-      "Елисеев Александр Николаевич": 1,
-      "Кузнецова Мария Анатольевна": 8,
-      "Лосев Александр Дмитриевич": 0,
-      "Плотников Владимир Николаевич": 55,
-      "Против всех": 7
+      "gas:candidate-vibid:1001000113925": 10,
+      "gas:candidate-vibid:1001000254934": 1,
+      "gas:candidate-vibid:1001000195065": 8,
+      "gas:candidate-vibid:334300370433": 0,
+      "gas:candidate-vibid:1001000217918": 55,
+      "special:against-all": 7
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=343003007&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=334300370867&region=0&sub_region=0&type=429",
@@ -427,12 +427,12 @@ export const duma_2003_uik_428_region_34_part_005 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Волков Николай Валентинович": 66,
-      "Елисеев Александр Николаевич": 8,
-      "Кузнецова Мария Анатольевна": 31,
-      "Лосев Александр Дмитриевич": 7,
-      "Плотников Владимир Николаевич": 200,
-      "Против всех": 69
+      "gas:candidate-vibid:1001000113925": 66,
+      "gas:candidate-vibid:1001000254934": 8,
+      "gas:candidate-vibid:1001000195065": 31,
+      "gas:candidate-vibid:334300370433": 7,
+      "gas:candidate-vibid:1001000217918": 200,
+      "special:against-all": 69
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=343003007&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=334300370867&region=0&sub_region=0&type=429",
@@ -482,12 +482,12 @@ export const duma_2003_uik_428_region_34_part_005 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Волков Николай Валентинович": 27,
-      "Елисеев Александр Николаевич": 3,
-      "Кузнецова Мария Анатольевна": 15,
-      "Лосев Александр Дмитриевич": 3,
-      "Плотников Владимир Николаевич": 102,
-      "Против всех": 24
+      "gas:candidate-vibid:1001000113925": 27,
+      "gas:candidate-vibid:1001000254934": 3,
+      "gas:candidate-vibid:1001000195065": 15,
+      "gas:candidate-vibid:334300370433": 3,
+      "gas:candidate-vibid:1001000217918": 102,
+      "special:against-all": 24
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=343003007&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=334300370867&region=0&sub_region=0&type=429",
@@ -537,12 +537,12 @@ export const duma_2003_uik_428_region_34_part_005 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Волков Николай Валентинович": 21,
-      "Елисеев Александр Николаевич": 2,
-      "Кузнецова Мария Анатольевна": 8,
-      "Лосев Александр Дмитриевич": 1,
-      "Плотников Владимир Николаевич": 48,
-      "Против всех": 15
+      "gas:candidate-vibid:1001000113925": 21,
+      "gas:candidate-vibid:1001000254934": 2,
+      "gas:candidate-vibid:1001000195065": 8,
+      "gas:candidate-vibid:334300370433": 1,
+      "gas:candidate-vibid:1001000217918": 48,
+      "special:against-all": 15
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=343003007&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=334300370867&region=0&sub_region=0&type=429",
@@ -592,12 +592,12 @@ export const duma_2003_uik_428_region_34_part_005 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Волков Николай Валентинович": 5,
-      "Елисеев Александр Николаевич": 0,
-      "Кузнецова Мария Анатольевна": 2,
-      "Лосев Александр Дмитриевич": 0,
-      "Плотников Владимир Николаевич": 24,
-      "Против всех": 7
+      "gas:candidate-vibid:1001000113925": 5,
+      "gas:candidate-vibid:1001000254934": 0,
+      "gas:candidate-vibid:1001000195065": 2,
+      "gas:candidate-vibid:334300370433": 0,
+      "gas:candidate-vibid:1001000217918": 24,
+      "special:against-all": 7
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=343003007&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=334300370867&region=0&sub_region=0&type=429",
@@ -647,12 +647,12 @@ export const duma_2003_uik_428_region_34_part_005 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Волков Николай Валентинович": 30,
-      "Елисеев Александр Николаевич": 8,
-      "Кузнецова Мария Анатольевна": 8,
-      "Лосев Александр Дмитриевич": 5,
-      "Плотников Владимир Николаевич": 44,
-      "Против всех": 16
+      "gas:candidate-vibid:1001000113925": 30,
+      "gas:candidate-vibid:1001000254934": 8,
+      "gas:candidate-vibid:1001000195065": 8,
+      "gas:candidate-vibid:334300370433": 5,
+      "gas:candidate-vibid:1001000217918": 44,
+      "special:against-all": 16
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=343003007&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=334300370867&region=0&sub_region=0&type=429",
@@ -702,12 +702,12 @@ export const duma_2003_uik_428_region_34_part_005 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Волков Николай Валентинович": 104,
-      "Елисеев Александр Николаевич": 9,
-      "Кузнецова Мария Анатольевна": 32,
-      "Лосев Александр Дмитриевич": 9,
-      "Плотников Владимир Николаевич": 189,
-      "Против всех": 52
+      "gas:candidate-vibid:1001000113925": 104,
+      "gas:candidate-vibid:1001000254934": 9,
+      "gas:candidate-vibid:1001000195065": 32,
+      "gas:candidate-vibid:334300370433": 9,
+      "gas:candidate-vibid:1001000217918": 189,
+      "special:against-all": 52
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=343003007&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=334300370867&region=0&sub_region=0&type=429",
@@ -757,12 +757,12 @@ export const duma_2003_uik_428_region_34_part_005 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Волков Николай Валентинович": 18,
-      "Елисеев Александр Николаевич": 0,
-      "Кузнецова Мария Анатольевна": 2,
-      "Лосев Александр Дмитриевич": 0,
-      "Плотников Владимир Николаевич": 45,
-      "Против всех": 2
+      "gas:candidate-vibid:1001000113925": 18,
+      "gas:candidate-vibid:1001000254934": 0,
+      "gas:candidate-vibid:1001000195065": 2,
+      "gas:candidate-vibid:334300370433": 0,
+      "gas:candidate-vibid:1001000217918": 45,
+      "special:against-all": 2
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=343003007&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=334300370867&region=0&sub_region=0&type=429",
@@ -812,12 +812,12 @@ export const duma_2003_uik_428_region_34_part_005 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Волков Николай Валентинович": 24,
-      "Елисеев Александр Николаевич": 0,
-      "Кузнецова Мария Анатольевна": 8,
-      "Лосев Александр Дмитриевич": 0,
-      "Плотников Владимир Николаевич": 56,
-      "Против всех": 19
+      "gas:candidate-vibid:1001000113925": 24,
+      "gas:candidate-vibid:1001000254934": 0,
+      "gas:candidate-vibid:1001000195065": 8,
+      "gas:candidate-vibid:334300370433": 0,
+      "gas:candidate-vibid:1001000217918": 56,
+      "special:against-all": 19
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=343003007&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=334300370867&region=0&sub_region=0&type=429",
@@ -867,12 +867,12 @@ export const duma_2003_uik_428_region_34_part_005 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Волков Николай Валентинович": 10,
-      "Елисеев Александр Николаевич": 1,
-      "Кузнецова Мария Анатольевна": 5,
-      "Лосев Александр Дмитриевич": 1,
-      "Плотников Владимир Николаевич": 25,
-      "Против всех": 14
+      "gas:candidate-vibid:1001000113925": 10,
+      "gas:candidate-vibid:1001000254934": 1,
+      "gas:candidate-vibid:1001000195065": 5,
+      "gas:candidate-vibid:334300370433": 1,
+      "gas:candidate-vibid:1001000217918": 25,
+      "special:against-all": 14
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=343003007&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=334300370867&region=0&sub_region=0&type=429",
@@ -922,12 +922,12 @@ export const duma_2003_uik_428_region_34_part_005 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Волков Николай Валентинович": 36,
-      "Елисеев Александр Николаевич": 7,
-      "Кузнецова Мария Анатольевна": 25,
-      "Лосев Александр Дмитриевич": 3,
-      "Плотников Владимир Николаевич": 213,
-      "Против всех": 30
+      "gas:candidate-vibid:1001000113925": 36,
+      "gas:candidate-vibid:1001000254934": 7,
+      "gas:candidate-vibid:1001000195065": 25,
+      "gas:candidate-vibid:334300370433": 3,
+      "gas:candidate-vibid:1001000217918": 213,
+      "special:against-all": 30
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=343003007&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=334300370867&region=0&sub_region=0&type=429",
@@ -977,12 +977,12 @@ export const duma_2003_uik_428_region_34_part_005 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Волков Николай Валентинович": 25,
-      "Елисеев Александр Николаевич": 1,
-      "Кузнецова Мария Анатольевна": 4,
-      "Лосев Александр Дмитриевич": 2,
-      "Плотников Владимир Николаевич": 48,
-      "Против всех": 13
+      "gas:candidate-vibid:1001000113925": 25,
+      "gas:candidate-vibid:1001000254934": 1,
+      "gas:candidate-vibid:1001000195065": 4,
+      "gas:candidate-vibid:334300370433": 2,
+      "gas:candidate-vibid:1001000217918": 48,
+      "special:against-all": 13
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=343003007&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=334300370867&region=0&sub_region=0&type=429",
@@ -1032,12 +1032,12 @@ export const duma_2003_uik_428_region_34_part_005 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Волков Николай Валентинович": 20,
-      "Елисеев Александр Николаевич": 1,
-      "Кузнецова Мария Анатольевна": 2,
-      "Лосев Александр Дмитриевич": 2,
-      "Плотников Владимир Николаевич": 12,
-      "Против всех": 7
+      "gas:candidate-vibid:1001000113925": 20,
+      "gas:candidate-vibid:1001000254934": 1,
+      "gas:candidate-vibid:1001000195065": 2,
+      "gas:candidate-vibid:334300370433": 2,
+      "gas:candidate-vibid:1001000217918": 12,
+      "special:against-all": 7
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=343003007&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=334300370867&region=0&sub_region=0&type=429",
@@ -1087,12 +1087,12 @@ export const duma_2003_uik_428_region_34_part_005 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Волков Николай Валентинович": 64,
-      "Елисеев Александр Николаевич": 3,
-      "Кузнецова Мария Анатольевна": 34,
-      "Лосев Александр Дмитриевич": 7,
-      "Плотников Владимир Николаевич": 343,
-      "Против всех": 33
+      "gas:candidate-vibid:1001000113925": 64,
+      "gas:candidate-vibid:1001000254934": 3,
+      "gas:candidate-vibid:1001000195065": 34,
+      "gas:candidate-vibid:334300370433": 7,
+      "gas:candidate-vibid:1001000217918": 343,
+      "special:against-all": 33
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=343003007&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=334300370867&region=0&sub_region=0&type=429",
@@ -1142,12 +1142,12 @@ export const duma_2003_uik_428_region_34_part_005 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Волков Николай Валентинович": 48,
-      "Елисеев Александр Николаевич": 7,
-      "Кузнецова Мария Анатольевна": 24,
-      "Лосев Александр Дмитриевич": 6,
-      "Плотников Владимир Николаевич": 158,
-      "Против всех": 49
+      "gas:candidate-vibid:1001000113925": 48,
+      "gas:candidate-vibid:1001000254934": 7,
+      "gas:candidate-vibid:1001000195065": 24,
+      "gas:candidate-vibid:334300370433": 6,
+      "gas:candidate-vibid:1001000217918": 158,
+      "special:against-all": 49
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=343003007&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=334300370867&region=0&sub_region=0&type=429",
@@ -1197,12 +1197,12 @@ export const duma_2003_uik_428_region_34_part_005 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Волков Николай Валентинович": 54,
-      "Елисеев Александр Николаевич": 5,
-      "Кузнецова Мария Анатольевна": 18,
-      "Лосев Александр Дмитриевич": 5,
-      "Плотников Владимир Николаевич": 109,
-      "Против всех": 26
+      "gas:candidate-vibid:1001000113925": 54,
+      "gas:candidate-vibid:1001000254934": 5,
+      "gas:candidate-vibid:1001000195065": 18,
+      "gas:candidate-vibid:334300370433": 5,
+      "gas:candidate-vibid:1001000217918": 109,
+      "special:against-all": 26
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=343003007&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=334300370867&region=0&sub_region=0&type=429",
@@ -1252,12 +1252,12 @@ export const duma_2003_uik_428_region_34_part_005 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Волков Николай Валентинович": 25,
-      "Елисеев Александр Николаевич": 6,
-      "Кузнецова Мария Анатольевна": 12,
-      "Лосев Александр Дмитриевич": 3,
-      "Плотников Владимир Николаевич": 82,
-      "Против всех": 33
+      "gas:candidate-vibid:1001000113925": 25,
+      "gas:candidate-vibid:1001000254934": 6,
+      "gas:candidate-vibid:1001000195065": 12,
+      "gas:candidate-vibid:334300370433": 3,
+      "gas:candidate-vibid:1001000217918": 82,
+      "special:against-all": 33
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=343003007&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=334300370867&region=0&sub_region=0&type=429",
@@ -1307,12 +1307,12 @@ export const duma_2003_uik_428_region_34_part_005 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Волков Николай Валентинович": 28,
-      "Елисеев Александр Николаевич": 0,
-      "Кузнецова Мария Анатольевна": 5,
-      "Лосев Александр Дмитриевич": 0,
-      "Плотников Владимир Николаевич": 66,
-      "Против всех": 6
+      "gas:candidate-vibid:1001000113925": 28,
+      "gas:candidate-vibid:1001000254934": 0,
+      "gas:candidate-vibid:1001000195065": 5,
+      "gas:candidate-vibid:334300370433": 0,
+      "gas:candidate-vibid:1001000217918": 66,
+      "special:against-all": 6
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=343003007&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=334300370867&region=0&sub_region=0&type=429",
@@ -1362,12 +1362,12 @@ export const duma_2003_uik_428_region_34_part_005 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Волков Николай Валентинович": 67,
-      "Елисеев Александр Николаевич": 8,
-      "Кузнецова Мария Анатольевна": 31,
-      "Лосев Александр Дмитриевич": 10,
-      "Плотников Владимир Николаевич": 214,
-      "Против всех": 38
+      "gas:candidate-vibid:1001000113925": 67,
+      "gas:candidate-vibid:1001000254934": 8,
+      "gas:candidate-vibid:1001000195065": 31,
+      "gas:candidate-vibid:334300370433": 10,
+      "gas:candidate-vibid:1001000217918": 214,
+      "special:against-all": 38
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=343003007&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=334300370867&region=0&sub_region=0&type=429",
@@ -1417,12 +1417,12 @@ export const duma_2003_uik_428_region_34_part_005 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Волков Николай Валентинович": 29,
-      "Елисеев Александр Николаевич": 7,
-      "Кузнецова Мария Анатольевна": 11,
-      "Лосев Александр Дмитриевич": 3,
-      "Плотников Владимир Николаевич": 46,
-      "Против всех": 24
+      "gas:candidate-vibid:1001000113925": 29,
+      "gas:candidate-vibid:1001000254934": 7,
+      "gas:candidate-vibid:1001000195065": 11,
+      "gas:candidate-vibid:334300370433": 3,
+      "gas:candidate-vibid:1001000217918": 46,
+      "special:against-all": 24
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=343003007&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=334300370867&region=0&sub_region=0&type=429",
@@ -1472,12 +1472,12 @@ export const duma_2003_uik_428_region_34_part_005 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Волков Николай Валентинович": 4,
-      "Елисеев Александр Николаевич": 2,
-      "Кузнецова Мария Анатольевна": 7,
-      "Лосев Александр Дмитриевич": 0,
-      "Плотников Владимир Николаевич": 55,
-      "Против всех": 11
+      "gas:candidate-vibid:1001000113925": 4,
+      "gas:candidate-vibid:1001000254934": 2,
+      "gas:candidate-vibid:1001000195065": 7,
+      "gas:candidate-vibid:334300370433": 0,
+      "gas:candidate-vibid:1001000217918": 55,
+      "special:against-all": 11
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=343003007&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=334300370867&region=0&sub_region=0&type=429",
@@ -1527,12 +1527,12 @@ export const duma_2003_uik_428_region_34_part_005 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Волков Николай Валентинович": 393,
-      "Елисеев Александр Николаевич": 11,
-      "Кузнецова Мария Анатольевна": 50,
-      "Лосев Александр Дмитриевич": 34,
-      "Плотников Владимир Николаевич": 726,
-      "Против всех": 226
+      "gas:candidate-vibid:1001000113925": 393,
+      "gas:candidate-vibid:1001000254934": 11,
+      "gas:candidate-vibid:1001000195065": 50,
+      "gas:candidate-vibid:334300370433": 34,
+      "gas:candidate-vibid:1001000217918": 726,
+      "special:against-all": 226
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=343003008&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=334300370868&region=0&sub_region=0&type=429",
@@ -1582,12 +1582,12 @@ export const duma_2003_uik_428_region_34_part_005 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Волков Николай Валентинович": 392,
-      "Елисеев Александр Николаевич": 22,
-      "Кузнецова Мария Анатольевна": 59,
-      "Лосев Александр Дмитриевич": 35,
-      "Плотников Владимир Николаевич": 784,
-      "Против всех": 231
+      "gas:candidate-vibid:1001000113925": 392,
+      "gas:candidate-vibid:1001000254934": 22,
+      "gas:candidate-vibid:1001000195065": 59,
+      "gas:candidate-vibid:334300370433": 35,
+      "gas:candidate-vibid:1001000217918": 784,
+      "special:against-all": 231
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=343003008&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=334300370868&region=0&sub_region=0&type=429",
@@ -1637,12 +1637,12 @@ export const duma_2003_uik_428_region_34_part_005 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Волков Николай Валентинович": 411,
-      "Елисеев Александр Николаевич": 21,
-      "Кузнецова Мария Анатольевна": 61,
-      "Лосев Александр Дмитриевич": 40,
-      "Плотников Владимир Николаевич": 792,
-      "Против всех": 247
+      "gas:candidate-vibid:1001000113925": 411,
+      "gas:candidate-vibid:1001000254934": 21,
+      "gas:candidate-vibid:1001000195065": 61,
+      "gas:candidate-vibid:334300370433": 40,
+      "gas:candidate-vibid:1001000217918": 792,
+      "special:against-all": 247
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=343003008&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=334300370868&region=0&sub_region=0&type=429",
@@ -1692,12 +1692,12 @@ export const duma_2003_uik_428_region_34_part_005 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Волков Николай Валентинович": 453,
-      "Елисеев Александр Николаевич": 17,
-      "Кузнецова Мария Анатольевна": 59,
-      "Лосев Александр Дмитриевич": 35,
-      "Плотников Владимир Николаевич": 916,
-      "Против всех": 281
+      "gas:candidate-vibid:1001000113925": 453,
+      "gas:candidate-vibid:1001000254934": 17,
+      "gas:candidate-vibid:1001000195065": 59,
+      "gas:candidate-vibid:334300370433": 35,
+      "gas:candidate-vibid:1001000217918": 916,
+      "special:against-all": 281
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=343003008&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=334300370868&region=0&sub_region=0&type=429",
@@ -1747,12 +1747,12 @@ export const duma_2003_uik_428_region_34_part_005 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Волков Николай Валентинович": 499,
-      "Елисеев Александр Николаевич": 16,
-      "Кузнецова Мария Анатольевна": 67,
-      "Лосев Александр Дмитриевич": 36,
-      "Плотников Владимир Николаевич": 789,
-      "Против всех": 282
+      "gas:candidate-vibid:1001000113925": 499,
+      "gas:candidate-vibid:1001000254934": 16,
+      "gas:candidate-vibid:1001000195065": 67,
+      "gas:candidate-vibid:334300370433": 36,
+      "gas:candidate-vibid:1001000217918": 789,
+      "special:against-all": 282
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=343003008&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=334300370868&region=0&sub_region=0&type=429",
@@ -1802,12 +1802,12 @@ export const duma_2003_uik_428_region_34_part_005 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Волков Николай Валентинович": 463,
-      "Елисеев Александр Николаевич": 18,
-      "Кузнецова Мария Анатольевна": 68,
-      "Лосев Александр Дмитриевич": 26,
-      "Плотников Владимир Николаевич": 690,
-      "Против всех": 279
+      "gas:candidate-vibid:1001000113925": 463,
+      "gas:candidate-vibid:1001000254934": 18,
+      "gas:candidate-vibid:1001000195065": 68,
+      "gas:candidate-vibid:334300370433": 26,
+      "gas:candidate-vibid:1001000217918": 690,
+      "special:against-all": 279
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=343003008&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=334300370868&region=0&sub_region=0&type=429",
@@ -1857,12 +1857,12 @@ export const duma_2003_uik_428_region_34_part_005 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Волков Николай Валентинович": 475,
-      "Елисеев Александр Николаевич": 14,
-      "Кузнецова Мария Анатольевна": 53,
-      "Лосев Александр Дмитриевич": 32,
-      "Плотников Владимир Николаевич": 640,
-      "Против всех": 234
+      "gas:candidate-vibid:1001000113925": 475,
+      "gas:candidate-vibid:1001000254934": 14,
+      "gas:candidate-vibid:1001000195065": 53,
+      "gas:candidate-vibid:334300370433": 32,
+      "gas:candidate-vibid:1001000217918": 640,
+      "special:against-all": 234
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=343003008&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=334300370868&region=0&sub_region=0&type=429",
@@ -1912,12 +1912,12 @@ export const duma_2003_uik_428_region_34_part_005 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Волков Николай Валентинович": 109,
-      "Елисеев Александр Николаевич": 5,
-      "Кузнецова Мария Анатольевна": 17,
-      "Лосев Александр Дмитриевич": 1,
-      "Плотников Владимир Николаевич": 246,
-      "Против всех": 47
+      "gas:candidate-vibid:1001000113925": 109,
+      "gas:candidate-vibid:1001000254934": 5,
+      "gas:candidate-vibid:1001000195065": 17,
+      "gas:candidate-vibid:334300370433": 1,
+      "gas:candidate-vibid:1001000217918": 246,
+      "special:against-all": 47
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=343003008&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=334300370868&region=0&sub_region=0&type=429",
@@ -1967,12 +1967,12 @@ export const duma_2003_uik_428_region_34_part_005 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Волков Николай Валентинович": 23,
-      "Елисеев Александр Николаевич": 1,
-      "Кузнецова Мария Анатольевна": 1,
-      "Лосев Александр Дмитриевич": 2,
-      "Плотников Владимир Николаевич": 76,
-      "Против всех": 4
+      "gas:candidate-vibid:1001000113925": 23,
+      "gas:candidate-vibid:1001000254934": 1,
+      "gas:candidate-vibid:1001000195065": 1,
+      "gas:candidate-vibid:334300370433": 2,
+      "gas:candidate-vibid:1001000217918": 76,
+      "special:against-all": 4
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=343003008&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=334300370868&region=0&sub_region=0&type=429",
@@ -2022,12 +2022,12 @@ export const duma_2003_uik_428_region_34_part_005 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Волков Николай Валентинович": 96,
-      "Елисеев Александр Николаевич": 2,
-      "Кузнецова Мария Анатольевна": 5,
-      "Лосев Александр Дмитриевич": 3,
-      "Плотников Владимир Николаевич": 187,
-      "Против всех": 20
+      "gas:candidate-vibid:1001000113925": 96,
+      "gas:candidate-vibid:1001000254934": 2,
+      "gas:candidate-vibid:1001000195065": 5,
+      "gas:candidate-vibid:334300370433": 3,
+      "gas:candidate-vibid:1001000217918": 187,
+      "special:against-all": 20
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=343003008&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=334300370868&region=0&sub_region=0&type=429",
@@ -2077,12 +2077,12 @@ export const duma_2003_uik_428_region_34_part_005 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Волков Николай Валентинович": 65,
-      "Елисеев Александр Николаевич": 3,
-      "Кузнецова Мария Анатольевна": 2,
-      "Лосев Александр Дмитриевич": 1,
-      "Плотников Владимир Николаевич": 42,
-      "Против всех": 16
+      "gas:candidate-vibid:1001000113925": 65,
+      "gas:candidate-vibid:1001000254934": 3,
+      "gas:candidate-vibid:1001000195065": 2,
+      "gas:candidate-vibid:334300370433": 1,
+      "gas:candidate-vibid:1001000217918": 42,
+      "special:against-all": 16
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=343003008&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=334300370868&region=0&sub_region=0&type=429",
@@ -2132,12 +2132,12 @@ export const duma_2003_uik_428_region_34_part_005 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Волков Николай Валентинович": 57,
-      "Елисеев Александр Николаевич": 0,
-      "Кузнецова Мария Анатольевна": 7,
-      "Лосев Александр Дмитриевич": 3,
-      "Плотников Владимир Николаевич": 166,
-      "Против всех": 43
+      "gas:candidate-vibid:1001000113925": 57,
+      "gas:candidate-vibid:1001000254934": 0,
+      "gas:candidate-vibid:1001000195065": 7,
+      "gas:candidate-vibid:334300370433": 3,
+      "gas:candidate-vibid:1001000217918": 166,
+      "special:against-all": 43
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=343003008&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=334300370868&region=0&sub_region=0&type=429",
@@ -2187,12 +2187,12 @@ export const duma_2003_uik_428_region_34_part_005 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Волков Николай Валентинович": 58,
-      "Елисеев Александр Николаевич": 2,
-      "Кузнецова Мария Анатольевна": 14,
-      "Лосев Александр Дмитриевич": 1,
-      "Плотников Владимир Николаевич": 130,
-      "Против всех": 21
+      "gas:candidate-vibid:1001000113925": 58,
+      "gas:candidate-vibid:1001000254934": 2,
+      "gas:candidate-vibid:1001000195065": 14,
+      "gas:candidate-vibid:334300370433": 1,
+      "gas:candidate-vibid:1001000217918": 130,
+      "special:against-all": 21
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=343003008&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=334300370868&region=0&sub_region=0&type=429",
@@ -2242,12 +2242,12 @@ export const duma_2003_uik_428_region_34_part_005 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Волков Николай Валентинович": 19,
-      "Елисеев Александр Николаевич": 0,
-      "Кузнецова Мария Анатольевна": 2,
-      "Лосев Александр Дмитриевич": 0,
-      "Плотников Владимир Николаевич": 23,
-      "Против всех": 5
+      "gas:candidate-vibid:1001000113925": 19,
+      "gas:candidate-vibid:1001000254934": 0,
+      "gas:candidate-vibid:1001000195065": 2,
+      "gas:candidate-vibid:334300370433": 0,
+      "gas:candidate-vibid:1001000217918": 23,
+      "special:against-all": 5
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=343003008&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=334300370868&region=0&sub_region=0&type=429",
@@ -2297,12 +2297,12 @@ export const duma_2003_uik_428_region_34_part_005 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Волков Николай Валентинович": 97,
-      "Елисеев Александр Николаевич": 2,
-      "Кузнецова Мария Анатольевна": 13,
-      "Лосев Александр Дмитриевич": 7,
-      "Плотников Владимир Николаевич": 201,
-      "Против всех": 32
+      "gas:candidate-vibid:1001000113925": 97,
+      "gas:candidate-vibid:1001000254934": 2,
+      "gas:candidate-vibid:1001000195065": 13,
+      "gas:candidate-vibid:334300370433": 7,
+      "gas:candidate-vibid:1001000217918": 201,
+      "special:against-all": 32
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=343003008&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=334300370868&region=0&sub_region=0&type=429",
@@ -2352,12 +2352,12 @@ export const duma_2003_uik_428_region_34_part_005 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Волков Николай Валентинович": 102,
-      "Елисеев Александр Николаевич": 3,
-      "Кузнецова Мария Анатольевна": 12,
-      "Лосев Александр Дмитриевич": 1,
-      "Плотников Владимир Николаевич": 270,
-      "Против всех": 45
+      "gas:candidate-vibid:1001000113925": 102,
+      "gas:candidate-vibid:1001000254934": 3,
+      "gas:candidate-vibid:1001000195065": 12,
+      "gas:candidate-vibid:334300370433": 1,
+      "gas:candidate-vibid:1001000217918": 270,
+      "special:against-all": 45
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=343003008&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=334300370868&region=0&sub_region=0&type=429",
@@ -2407,12 +2407,12 @@ export const duma_2003_uik_428_region_34_part_005 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Волков Николай Валентинович": 148,
-      "Елисеев Александр Николаевич": 10,
-      "Кузнецова Мария Анатольевна": 14,
-      "Лосев Александр Дмитриевич": 11,
-      "Плотников Владимир Николаевич": 331,
-      "Против всех": 40
+      "gas:candidate-vibid:1001000113925": 148,
+      "gas:candidate-vibid:1001000254934": 10,
+      "gas:candidate-vibid:1001000195065": 14,
+      "gas:candidate-vibid:334300370433": 11,
+      "gas:candidate-vibid:1001000217918": 331,
+      "special:against-all": 40
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=343003008&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=334300370868&region=0&sub_region=0&type=429",
@@ -2462,12 +2462,12 @@ export const duma_2003_uik_428_region_34_part_005 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Волков Николай Валентинович": 71,
-      "Елисеев Александр Николаевич": 1,
-      "Кузнецова Мария Анатольевна": 3,
-      "Лосев Александр Дмитриевич": 2,
-      "Плотников Владимир Николаевич": 81,
-      "Против всех": 11
+      "gas:candidate-vibid:1001000113925": 71,
+      "gas:candidate-vibid:1001000254934": 1,
+      "gas:candidate-vibid:1001000195065": 3,
+      "gas:candidate-vibid:334300370433": 2,
+      "gas:candidate-vibid:1001000217918": 81,
+      "special:against-all": 11
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=343003008&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=334300370868&region=0&sub_region=0&type=429",
@@ -2517,12 +2517,12 @@ export const duma_2003_uik_428_region_34_part_005 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Волков Николай Валентинович": 194,
-      "Елисеев Александр Николаевич": 9,
-      "Кузнецова Мария Анатольевна": 14,
-      "Лосев Александр Дмитриевич": 4,
-      "Плотников Владимир Николаевич": 271,
-      "Против всех": 66
+      "gas:candidate-vibid:1001000113925": 194,
+      "gas:candidate-vibid:1001000254934": 9,
+      "gas:candidate-vibid:1001000195065": 14,
+      "gas:candidate-vibid:334300370433": 4,
+      "gas:candidate-vibid:1001000217918": 271,
+      "special:against-all": 66
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=343003008&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=334300370868&region=0&sub_region=0&type=429",
@@ -2572,12 +2572,12 @@ export const duma_2003_uik_428_region_34_part_005 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Волков Николай Валентинович": 22,
-      "Елисеев Александр Николаевич": 3,
-      "Кузнецова Мария Анатольевна": 2,
-      "Лосев Александр Дмитриевич": 1,
-      "Плотников Владимир Николаевич": 45,
-      "Против всех": 12
+      "gas:candidate-vibid:1001000113925": 22,
+      "gas:candidate-vibid:1001000254934": 3,
+      "gas:candidate-vibid:1001000195065": 2,
+      "gas:candidate-vibid:334300370433": 1,
+      "gas:candidate-vibid:1001000217918": 45,
+      "special:against-all": 12
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=343003008&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=334300370868&region=0&sub_region=0&type=429",
@@ -2627,12 +2627,12 @@ export const duma_2003_uik_428_region_34_part_005 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Волков Николай Валентинович": 86,
-      "Елисеев Александр Николаевич": 1,
-      "Кузнецова Мария Анатольевна": 5,
-      "Лосев Александр Дмитриевич": 4,
-      "Плотников Владимир Николаевич": 33,
-      "Против всех": 24
+      "gas:candidate-vibid:1001000113925": 86,
+      "gas:candidate-vibid:1001000254934": 1,
+      "gas:candidate-vibid:1001000195065": 5,
+      "gas:candidate-vibid:334300370433": 4,
+      "gas:candidate-vibid:1001000217918": 33,
+      "special:against-all": 24
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=343003008&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=334300370868&region=0&sub_region=0&type=429",
@@ -2682,12 +2682,12 @@ export const duma_2003_uik_428_region_34_part_005 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Волков Николай Валентинович": 48,
-      "Елисеев Александр Николаевич": 0,
-      "Кузнецова Мария Анатольевна": 3,
-      "Лосев Александр Дмитриевич": 2,
-      "Плотников Владимир Николаевич": 35,
-      "Против всех": 10
+      "gas:candidate-vibid:1001000113925": 48,
+      "gas:candidate-vibid:1001000254934": 0,
+      "gas:candidate-vibid:1001000195065": 3,
+      "gas:candidate-vibid:334300370433": 2,
+      "gas:candidate-vibid:1001000217918": 35,
+      "special:against-all": 10
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=343003008&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=334300370868&region=0&sub_region=0&type=429",
@@ -2737,12 +2737,12 @@ export const duma_2003_uik_428_region_34_part_005 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Волков Николай Валентинович": 165,
-      "Елисеев Александр Николаевич": 8,
-      "Кузнецова Мария Анатольевна": 28,
-      "Лосев Александр Дмитриевич": 9,
-      "Плотников Владимир Николаевич": 150,
-      "Против всех": 68
+      "gas:candidate-vibid:1001000113925": 165,
+      "gas:candidate-vibid:1001000254934": 8,
+      "gas:candidate-vibid:1001000195065": 28,
+      "gas:candidate-vibid:334300370433": 9,
+      "gas:candidate-vibid:1001000217918": 150,
+      "special:against-all": 68
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=343003008&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=334300370868&region=0&sub_region=0&type=429",
@@ -2792,12 +2792,12 @@ export const duma_2003_uik_428_region_34_part_005 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Волков Николай Валентинович": 98,
-      "Елисеев Александр Николаевич": 4,
-      "Кузнецова Мария Анатольевна": 16,
-      "Лосев Александр Дмитриевич": 2,
-      "Плотников Владимир Николаевич": 252,
-      "Против всех": 17
+      "gas:candidate-vibid:1001000113925": 98,
+      "gas:candidate-vibid:1001000254934": 4,
+      "gas:candidate-vibid:1001000195065": 16,
+      "gas:candidate-vibid:334300370433": 2,
+      "gas:candidate-vibid:1001000217918": 252,
+      "special:against-all": 17
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=343003008&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=334300370868&region=0&sub_region=0&type=429",
@@ -2847,12 +2847,12 @@ export const duma_2003_uik_428_region_34_part_005 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Волков Николай Валентинович": 51,
-      "Елисеев Александр Николаевич": 2,
-      "Кузнецова Мария Анатольевна": 4,
-      "Лосев Александр Дмитриевич": 1,
-      "Плотников Владимир Николаевич": 48,
-      "Против всех": 8
+      "gas:candidate-vibid:1001000113925": 51,
+      "gas:candidate-vibid:1001000254934": 2,
+      "gas:candidate-vibid:1001000195065": 4,
+      "gas:candidate-vibid:334300370433": 1,
+      "gas:candidate-vibid:1001000217918": 48,
+      "special:against-all": 8
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=343003008&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=334300370868&region=0&sub_region=0&type=429",
@@ -2902,12 +2902,12 @@ export const duma_2003_uik_428_region_34_part_005 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Волков Николай Валентинович": 120,
-      "Елисеев Александр Николаевич": 2,
-      "Кузнецова Мария Анатольевна": 9,
-      "Лосев Александр Дмитриевич": 3,
-      "Плотников Владимир Николаевич": 275,
-      "Против всех": 59
+      "gas:candidate-vibid:1001000113925": 120,
+      "gas:candidate-vibid:1001000254934": 2,
+      "gas:candidate-vibid:1001000195065": 9,
+      "gas:candidate-vibid:334300370433": 3,
+      "gas:candidate-vibid:1001000217918": 275,
+      "special:against-all": 59
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=343003008&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=334300370868&region=0&sub_region=0&type=429",
@@ -2957,12 +2957,12 @@ export const duma_2003_uik_428_region_34_part_005 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Волков Николай Валентинович": 45,
-      "Елисеев Александр Николаевич": 5,
-      "Кузнецова Мария Анатольевна": 6,
-      "Лосев Александр Дмитриевич": 2,
-      "Плотников Владимир Николаевич": 85,
-      "Против всех": 13
+      "gas:candidate-vibid:1001000113925": 45,
+      "gas:candidate-vibid:1001000254934": 5,
+      "gas:candidate-vibid:1001000195065": 6,
+      "gas:candidate-vibid:334300370433": 2,
+      "gas:candidate-vibid:1001000217918": 85,
+      "special:against-all": 13
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=343003008&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=334300370868&region=0&sub_region=0&type=429",
@@ -3012,12 +3012,12 @@ export const duma_2003_uik_428_region_34_part_005 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Волков Николай Валентинович": 42,
-      "Елисеев Александр Николаевич": 0,
-      "Кузнецова Мария Анатольевна": 1,
-      "Лосев Александр Дмитриевич": 0,
-      "Плотников Владимир Николаевич": 57,
-      "Против всех": 7
+      "gas:candidate-vibid:1001000113925": 42,
+      "gas:candidate-vibid:1001000254934": 0,
+      "gas:candidate-vibid:1001000195065": 1,
+      "gas:candidate-vibid:334300370433": 0,
+      "gas:candidate-vibid:1001000217918": 57,
+      "special:against-all": 7
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=343003008&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=334300370868&region=0&sub_region=0&type=429",
@@ -3067,12 +3067,12 @@ export const duma_2003_uik_428_region_34_part_005 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Волков Николай Валентинович": 187,
-      "Елисеев Александр Николаевич": 10,
-      "Кузнецова Мария Анатольевна": 60,
-      "Лосев Александр Дмитриевич": 13,
-      "Плотников Владимир Николаевич": 655,
-      "Против всех": 117
+      "gas:candidate-vibid:1001000113925": 187,
+      "gas:candidate-vibid:1001000254934": 10,
+      "gas:candidate-vibid:1001000195065": 60,
+      "gas:candidate-vibid:334300370433": 13,
+      "gas:candidate-vibid:1001000217918": 655,
+      "special:against-all": 117
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=343003009&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=334300370869&region=0&sub_region=0&type=429",
@@ -3122,12 +3122,12 @@ export const duma_2003_uik_428_region_34_part_005 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Волков Николай Валентинович": 109,
-      "Елисеев Александр Николаевич": 7,
-      "Кузнецова Мария Анатольевна": 28,
-      "Лосев Александр Дмитриевич": 13,
-      "Плотников Владимир Николаевич": 453,
-      "Против всех": 94
+      "gas:candidate-vibid:1001000113925": 109,
+      "gas:candidate-vibid:1001000254934": 7,
+      "gas:candidate-vibid:1001000195065": 28,
+      "gas:candidate-vibid:334300370433": 13,
+      "gas:candidate-vibid:1001000217918": 453,
+      "special:against-all": 94
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=343003009&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=334300370869&region=0&sub_region=0&type=429",
@@ -3177,12 +3177,12 @@ export const duma_2003_uik_428_region_34_part_005 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Волков Николай Валентинович": 141,
-      "Елисеев Александр Николаевич": 6,
-      "Кузнецова Мария Анатольевна": 35,
-      "Лосев Александр Дмитриевич": 7,
-      "Плотников Владимир Николаевич": 369,
-      "Против всех": 55
+      "gas:candidate-vibid:1001000113925": 141,
+      "gas:candidate-vibid:1001000254934": 6,
+      "gas:candidate-vibid:1001000195065": 35,
+      "gas:candidate-vibid:334300370433": 7,
+      "gas:candidate-vibid:1001000217918": 369,
+      "special:against-all": 55
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=343003009&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=334300370869&region=0&sub_region=0&type=429",
@@ -3232,12 +3232,12 @@ export const duma_2003_uik_428_region_34_part_005 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Волков Николай Валентинович": 136,
-      "Елисеев Александр Николаевич": 4,
-      "Кузнецова Мария Анатольевна": 50,
-      "Лосев Александр Дмитриевич": 8,
-      "Плотников Владимир Николаевич": 481,
-      "Против всех": 78
+      "gas:candidate-vibid:1001000113925": 136,
+      "gas:candidate-vibid:1001000254934": 4,
+      "gas:candidate-vibid:1001000195065": 50,
+      "gas:candidate-vibid:334300370433": 8,
+      "gas:candidate-vibid:1001000217918": 481,
+      "special:against-all": 78
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=343003009&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=334300370869&region=0&sub_region=0&type=429",
@@ -3287,12 +3287,12 @@ export const duma_2003_uik_428_region_34_part_005 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Волков Николай Валентинович": 25,
-      "Елисеев Александр Николаевич": 1,
-      "Кузнецова Мария Анатольевна": 10,
-      "Лосев Александр Дмитриевич": 1,
-      "Плотников Владимир Николаевич": 64,
-      "Против всех": 7
+      "gas:candidate-vibid:1001000113925": 25,
+      "gas:candidate-vibid:1001000254934": 1,
+      "gas:candidate-vibid:1001000195065": 10,
+      "gas:candidate-vibid:334300370433": 1,
+      "gas:candidate-vibid:1001000217918": 64,
+      "special:against-all": 7
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=343003009&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=334300370869&region=0&sub_region=0&type=429",
@@ -3342,12 +3342,12 @@ export const duma_2003_uik_428_region_34_part_005 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Волков Николай Валентинович": 49,
-      "Елисеев Александр Николаевич": 1,
-      "Кузнецова Мария Анатольевна": 8,
-      "Лосев Александр Дмитриевич": 5,
-      "Плотников Владимир Николаевич": 92,
-      "Против всех": 18
+      "gas:candidate-vibid:1001000113925": 49,
+      "gas:candidate-vibid:1001000254934": 1,
+      "gas:candidate-vibid:1001000195065": 8,
+      "gas:candidate-vibid:334300370433": 5,
+      "gas:candidate-vibid:1001000217918": 92,
+      "special:against-all": 18
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=343003009&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=334300370869&region=0&sub_region=0&type=429",
@@ -3397,12 +3397,12 @@ export const duma_2003_uik_428_region_34_part_005 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Волков Николай Валентинович": 21,
-      "Елисеев Александр Николаевич": 0,
-      "Кузнецова Мария Анатольевна": 5,
-      "Лосев Александр Дмитриевич": 3,
-      "Плотников Владимир Николаевич": 99,
-      "Против всех": 10
+      "gas:candidate-vibid:1001000113925": 21,
+      "gas:candidate-vibid:1001000254934": 0,
+      "gas:candidate-vibid:1001000195065": 5,
+      "gas:candidate-vibid:334300370433": 3,
+      "gas:candidate-vibid:1001000217918": 99,
+      "special:against-all": 10
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=343003009&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=334300370869&region=0&sub_region=0&type=429",
@@ -3452,12 +3452,12 @@ export const duma_2003_uik_428_region_34_part_005 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Волков Николай Валентинович": 33,
-      "Елисеев Александр Николаевич": 5,
-      "Кузнецова Мария Анатольевна": 11,
-      "Лосев Александр Дмитриевич": 8,
-      "Плотников Владимир Николаевич": 149,
-      "Против всех": 23
+      "gas:candidate-vibid:1001000113925": 33,
+      "gas:candidate-vibid:1001000254934": 5,
+      "gas:candidate-vibid:1001000195065": 11,
+      "gas:candidate-vibid:334300370433": 8,
+      "gas:candidate-vibid:1001000217918": 149,
+      "special:against-all": 23
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=343003009&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=334300370869&region=0&sub_region=0&type=429",
@@ -3507,12 +3507,12 @@ export const duma_2003_uik_428_region_34_part_005 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Волков Николай Валентинович": 114,
-      "Елисеев Александр Николаевич": 4,
-      "Кузнецова Мария Анатольевна": 51,
-      "Лосев Александр Дмитриевич": 11,
-      "Плотников Владимир Николаевич": 217,
-      "Против всех": 33
+      "gas:candidate-vibid:1001000113925": 114,
+      "gas:candidate-vibid:1001000254934": 4,
+      "gas:candidate-vibid:1001000195065": 51,
+      "gas:candidate-vibid:334300370433": 11,
+      "gas:candidate-vibid:1001000217918": 217,
+      "special:against-all": 33
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=343003009&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=334300370869&region=0&sub_region=0&type=429",
@@ -3562,12 +3562,12 @@ export const duma_2003_uik_428_region_34_part_005 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Волков Николай Валентинович": 46,
-      "Елисеев Александр Николаевич": 7,
-      "Кузнецова Мария Анатольевна": 22,
-      "Лосев Александр Дмитриевич": 1,
-      "Плотников Владимир Николаевич": 153,
-      "Против всех": 27
+      "gas:candidate-vibid:1001000113925": 46,
+      "gas:candidate-vibid:1001000254934": 7,
+      "gas:candidate-vibid:1001000195065": 22,
+      "gas:candidate-vibid:334300370433": 1,
+      "gas:candidate-vibid:1001000217918": 153,
+      "special:against-all": 27
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=343003009&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=334300370869&region=0&sub_region=0&type=429",
@@ -3617,12 +3617,12 @@ export const duma_2003_uik_428_region_34_part_005 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Волков Николай Валентинович": 137,
-      "Елисеев Александр Николаевич": 12,
-      "Кузнецова Мария Анатольевна": 55,
-      "Лосев Александр Дмитриевич": 8,
-      "Плотников Владимир Николаевич": 289,
-      "Против всех": 52
+      "gas:candidate-vibid:1001000113925": 137,
+      "gas:candidate-vibid:1001000254934": 12,
+      "gas:candidate-vibid:1001000195065": 55,
+      "gas:candidate-vibid:334300370433": 8,
+      "gas:candidate-vibid:1001000217918": 289,
+      "special:against-all": 52
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=343003009&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=334300370869&region=0&sub_region=0&type=429",
@@ -3672,12 +3672,12 @@ export const duma_2003_uik_428_region_34_part_005 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Волков Николай Валентинович": 43,
-      "Елисеев Александр Николаевич": 2,
-      "Кузнецова Мария Анатольевна": 17,
-      "Лосев Александр Дмитриевич": 5,
-      "Плотников Владимир Николаевич": 228,
-      "Против всех": 18
+      "gas:candidate-vibid:1001000113925": 43,
+      "gas:candidate-vibid:1001000254934": 2,
+      "gas:candidate-vibid:1001000195065": 17,
+      "gas:candidate-vibid:334300370433": 5,
+      "gas:candidate-vibid:1001000217918": 228,
+      "special:against-all": 18
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=343003009&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=334300370869&region=0&sub_region=0&type=429",
@@ -3727,12 +3727,12 @@ export const duma_2003_uik_428_region_34_part_005 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Волков Николай Валентинович": 34,
-      "Елисеев Александр Николаевич": 3,
-      "Кузнецова Мария Анатольевна": 8,
-      "Лосев Александр Дмитриевич": 2,
-      "Плотников Владимир Николаевич": 34,
-      "Против всех": 11
+      "gas:candidate-vibid:1001000113925": 34,
+      "gas:candidate-vibid:1001000254934": 3,
+      "gas:candidate-vibid:1001000195065": 8,
+      "gas:candidate-vibid:334300370433": 2,
+      "gas:candidate-vibid:1001000217918": 34,
+      "special:against-all": 11
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=343003009&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=334300370869&region=0&sub_region=0&type=429",
@@ -3782,12 +3782,12 @@ export const duma_2003_uik_428_region_34_part_005 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Волков Николай Валентинович": 41,
-      "Елисеев Александр Николаевич": 3,
-      "Кузнецова Мария Анатольевна": 10,
-      "Лосев Александр Дмитриевич": 1,
-      "Плотников Владимир Николаевич": 126,
-      "Против всех": 12
+      "gas:candidate-vibid:1001000113925": 41,
+      "gas:candidate-vibid:1001000254934": 3,
+      "gas:candidate-vibid:1001000195065": 10,
+      "gas:candidate-vibid:334300370433": 1,
+      "gas:candidate-vibid:1001000217918": 126,
+      "special:against-all": 12
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=343003009&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=334300370869&region=0&sub_region=0&type=429",
@@ -3837,12 +3837,12 @@ export const duma_2003_uik_428_region_34_part_005 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Волков Николай Валентинович": 31,
-      "Елисеев Александр Николаевич": 4,
-      "Кузнецова Мария Анатольевна": 13,
-      "Лосев Александр Дмитриевич": 0,
-      "Плотников Владимир Николаевич": 137,
-      "Против всех": 20
+      "gas:candidate-vibid:1001000113925": 31,
+      "gas:candidate-vibid:1001000254934": 4,
+      "gas:candidate-vibid:1001000195065": 13,
+      "gas:candidate-vibid:334300370433": 0,
+      "gas:candidate-vibid:1001000217918": 137,
+      "special:against-all": 20
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=343003009&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=334300370869&region=0&sub_region=0&type=429",
@@ -3892,12 +3892,12 @@ export const duma_2003_uik_428_region_34_part_005 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Волков Николай Валентинович": 61,
-      "Елисеев Александр Николаевич": 0,
-      "Кузнецова Мария Анатольевна": 12,
-      "Лосев Александр Дмитриевич": 0,
-      "Плотников Владимир Николаевич": 46,
-      "Против всех": 4
+      "gas:candidate-vibid:1001000113925": 61,
+      "gas:candidate-vibid:1001000254934": 0,
+      "gas:candidate-vibid:1001000195065": 12,
+      "gas:candidate-vibid:334300370433": 0,
+      "gas:candidate-vibid:1001000217918": 46,
+      "special:against-all": 4
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=343003009&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=334300370869&region=0&sub_region=0&type=429",
@@ -3947,12 +3947,12 @@ export const duma_2003_uik_428_region_34_part_005 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Волков Николай Валентинович": 62,
-      "Елисеев Александр Николаевич": 2,
-      "Кузнецова Мария Анатольевна": 19,
-      "Лосев Александр Дмитриевич": 4,
-      "Плотников Владимир Николаевич": 177,
-      "Против всех": 27
+      "gas:candidate-vibid:1001000113925": 62,
+      "gas:candidate-vibid:1001000254934": 2,
+      "gas:candidate-vibid:1001000195065": 19,
+      "gas:candidate-vibid:334300370433": 4,
+      "gas:candidate-vibid:1001000217918": 177,
+      "special:against-all": 27
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=343003009&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=334300370869&region=0&sub_region=0&type=429",
@@ -4002,12 +4002,12 @@ export const duma_2003_uik_428_region_34_part_005 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Волков Николай Валентинович": 126,
-      "Елисеев Александр Николаевич": 5,
-      "Кузнецова Мария Анатольевна": 38,
-      "Лосев Александр Дмитриевич": 10,
-      "Плотников Владимир Николаевич": 311,
-      "Против всех": 61
+      "gas:candidate-vibid:1001000113925": 126,
+      "gas:candidate-vibid:1001000254934": 5,
+      "gas:candidate-vibid:1001000195065": 38,
+      "gas:candidate-vibid:334300370433": 10,
+      "gas:candidate-vibid:1001000217918": 311,
+      "special:against-all": 61
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=343003009&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=334300370869&region=0&sub_region=0&type=429",
@@ -4057,12 +4057,12 @@ export const duma_2003_uik_428_region_34_part_005 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Волков Николай Валентинович": 10,
-      "Елисеев Александр Николаевич": 0,
-      "Кузнецова Мария Анатольевна": 5,
-      "Лосев Александр Дмитриевич": 2,
-      "Плотников Владимир Николаевич": 30,
-      "Против всех": 6
+      "gas:candidate-vibid:1001000113925": 10,
+      "gas:candidate-vibid:1001000254934": 0,
+      "gas:candidate-vibid:1001000195065": 5,
+      "gas:candidate-vibid:334300370433": 2,
+      "gas:candidate-vibid:1001000217918": 30,
+      "special:against-all": 6
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=343003009&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=334300370869&region=0&sub_region=0&type=429",
@@ -4112,12 +4112,12 @@ export const duma_2003_uik_428_region_34_part_005 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Волков Николай Валентинович": 9,
-      "Елисеев Александр Николаевич": 0,
-      "Кузнецова Мария Анатольевна": 3,
-      "Лосев Александр Дмитриевич": 0,
-      "Плотников Владимир Николаевич": 30,
-      "Против всех": 9
+      "gas:candidate-vibid:1001000113925": 9,
+      "gas:candidate-vibid:1001000254934": 0,
+      "gas:candidate-vibid:1001000195065": 3,
+      "gas:candidate-vibid:334300370433": 0,
+      "gas:candidate-vibid:1001000217918": 30,
+      "special:against-all": 9
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=343003009&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=334300370869&region=0&sub_region=0&type=429",
@@ -4167,12 +4167,12 @@ export const duma_2003_uik_428_region_34_part_005 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Волков Николай Валентинович": 40,
-      "Елисеев Александр Николаевич": 8,
-      "Кузнецова Мария Анатольевна": 11,
-      "Лосев Александр Дмитриевич": 5,
-      "Плотников Владимир Николаевич": 180,
-      "Против всех": 21
+      "gas:candidate-vibid:1001000113925": 40,
+      "gas:candidate-vibid:1001000254934": 8,
+      "gas:candidate-vibid:1001000195065": 11,
+      "gas:candidate-vibid:334300370433": 5,
+      "gas:candidate-vibid:1001000217918": 180,
+      "special:against-all": 21
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=343003009&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=334300370869&region=0&sub_region=0&type=429",
@@ -4222,12 +4222,12 @@ export const duma_2003_uik_428_region_34_part_005 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Волков Николай Валентинович": 12,
-      "Елисеев Александр Николаевич": 0,
-      "Кузнецова Мария Анатольевна": 4,
-      "Лосев Александр Дмитриевич": 1,
-      "Плотников Владимир Николаевич": 68,
-      "Против всех": 3
+      "gas:candidate-vibid:1001000113925": 12,
+      "gas:candidate-vibid:1001000254934": 0,
+      "gas:candidate-vibid:1001000195065": 4,
+      "gas:candidate-vibid:334300370433": 1,
+      "gas:candidate-vibid:1001000217918": 68,
+      "special:against-all": 3
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=343003009&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=334300370869&region=0&sub_region=0&type=429",
@@ -4277,12 +4277,12 @@ export const duma_2003_uik_428_region_34_part_005 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Волков Николай Валентинович": 60,
-      "Елисеев Александр Николаевич": 7,
-      "Кузнецова Мария Анатольевна": 49,
-      "Лосев Александр Дмитриевич": 5,
-      "Плотников Владимир Николаевич": 224,
-      "Против всех": 37
+      "gas:candidate-vibid:1001000113925": 60,
+      "gas:candidate-vibid:1001000254934": 7,
+      "gas:candidate-vibid:1001000195065": 49,
+      "gas:candidate-vibid:334300370433": 5,
+      "gas:candidate-vibid:1001000217918": 224,
+      "special:against-all": 37
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=343003009&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=334300370869&region=0&sub_region=0&type=429",
@@ -4332,12 +4332,12 @@ export const duma_2003_uik_428_region_34_part_005 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Волков Николай Валентинович": 89,
-      "Елисеев Александр Николаевич": 5,
-      "Кузнецова Мария Анатольевна": 18,
-      "Лосев Александр Дмитриевич": 4,
-      "Плотников Владимир Николаевич": 205,
-      "Против всех": 24
+      "gas:candidate-vibid:1001000113925": 89,
+      "gas:candidate-vibid:1001000254934": 5,
+      "gas:candidate-vibid:1001000195065": 18,
+      "gas:candidate-vibid:334300370433": 4,
+      "gas:candidate-vibid:1001000217918": 205,
+      "special:against-all": 24
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=343003009&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=334300370869&region=0&sub_region=0&type=429",
@@ -4387,12 +4387,12 @@ export const duma_2003_uik_428_region_34_part_005 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Волков Николай Валентинович": 16,
-      "Елисеев Александр Николаевич": 2,
-      "Кузнецова Мария Анатольевна": 2,
-      "Лосев Александр Дмитриевич": 1,
-      "Плотников Владимир Николаевич": 38,
-      "Против всех": 4
+      "gas:candidate-vibid:1001000113925": 16,
+      "gas:candidate-vibid:1001000254934": 2,
+      "gas:candidate-vibid:1001000195065": 2,
+      "gas:candidate-vibid:334300370433": 1,
+      "gas:candidate-vibid:1001000217918": 38,
+      "special:against-all": 4
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=343003009&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=334300370869&region=0&sub_region=0&type=429",
@@ -4442,12 +4442,12 @@ export const duma_2003_uik_428_region_34_part_005 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Волков Николай Валентинович": 7,
-      "Елисеев Александр Николаевич": 3,
-      "Кузнецова Мария Анатольевна": 23,
-      "Лосев Александр Дмитриевич": 1,
-      "Плотников Владимир Николаевич": 124,
-      "Против всех": 10
+      "gas:candidate-vibid:1001000113925": 7,
+      "gas:candidate-vibid:1001000254934": 3,
+      "gas:candidate-vibid:1001000195065": 23,
+      "gas:candidate-vibid:334300370433": 1,
+      "gas:candidate-vibid:1001000217918": 124,
+      "special:against-all": 10
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=343003009&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=334300370869&region=0&sub_region=0&type=429",
@@ -4497,12 +4497,12 @@ export const duma_2003_uik_428_region_34_part_005 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Волков Николай Валентинович": 11,
-      "Елисеев Александр Николаевич": 0,
-      "Кузнецова Мария Анатольевна": 7,
-      "Лосев Александр Дмитриевич": 0,
-      "Плотников Владимир Николаевич": 3,
-      "Против всех": 5
+      "gas:candidate-vibid:1001000113925": 11,
+      "gas:candidate-vibid:1001000254934": 0,
+      "gas:candidate-vibid:1001000195065": 7,
+      "gas:candidate-vibid:334300370433": 0,
+      "gas:candidate-vibid:1001000217918": 3,
+      "special:against-all": 5
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=343003009&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=334300370869&region=0&sub_region=0&type=429",
@@ -4552,12 +4552,12 @@ export const duma_2003_uik_428_region_34_part_005 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Волков Николай Валентинович": 60,
-      "Елисеев Александр Николаевич": 7,
-      "Кузнецова Мария Анатольевна": 51,
-      "Лосев Александр Дмитриевич": 0,
-      "Плотников Владимир Николаевич": 364,
-      "Против всех": 37
+      "gas:candidate-vibid:1001000113925": 60,
+      "gas:candidate-vibid:1001000254934": 7,
+      "gas:candidate-vibid:1001000195065": 51,
+      "gas:candidate-vibid:334300370433": 0,
+      "gas:candidate-vibid:1001000217918": 364,
+      "special:against-all": 37
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=343003009&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=334300370869&region=0&sub_region=0&type=429",
@@ -4607,12 +4607,12 @@ export const duma_2003_uik_428_region_34_part_005 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Волков Николай Валентинович": 9,
-      "Елисеев Александр Николаевич": 1,
-      "Кузнецова Мария Анатольевна": 5,
-      "Лосев Александр Дмитриевич": 1,
-      "Плотников Владимир Николаевич": 65,
-      "Против всех": 10
+      "gas:candidate-vibid:1001000113925": 9,
+      "gas:candidate-vibid:1001000254934": 1,
+      "gas:candidate-vibid:1001000195065": 5,
+      "gas:candidate-vibid:334300370433": 1,
+      "gas:candidate-vibid:1001000217918": 65,
+      "special:against-all": 10
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=343003009&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=334300370869&region=0&sub_region=0&type=429",
@@ -4662,12 +4662,12 @@ export const duma_2003_uik_428_region_34_part_005 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Волков Николай Валентинович": 4,
-      "Елисеев Александр Николаевич": 1,
-      "Кузнецова Мария Анатольевна": 5,
-      "Лосев Александр Дмитриевич": 0,
-      "Плотников Владимир Николаевич": 46,
-      "Против всех": 3
+      "gas:candidate-vibid:1001000113925": 4,
+      "gas:candidate-vibid:1001000254934": 1,
+      "gas:candidate-vibid:1001000195065": 5,
+      "gas:candidate-vibid:334300370433": 0,
+      "gas:candidate-vibid:1001000217918": 46,
+      "special:against-all": 3
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=343003009&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=334300370869&region=0&sub_region=0&type=429",
@@ -4717,12 +4717,12 @@ export const duma_2003_uik_428_region_34_part_005 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Волков Николай Валентинович": 27,
-      "Елисеев Александр Николаевич": 1,
-      "Кузнецова Мария Анатольевна": 12,
-      "Лосев Александр Дмитриевич": 3,
-      "Плотников Владимир Николаевич": 108,
-      "Против всех": 12
+      "gas:candidate-vibid:1001000113925": 27,
+      "gas:candidate-vibid:1001000254934": 1,
+      "gas:candidate-vibid:1001000195065": 12,
+      "gas:candidate-vibid:334300370433": 3,
+      "gas:candidate-vibid:1001000217918": 108,
+      "special:against-all": 12
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=343003009&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=334300370869&region=0&sub_region=0&type=429",
@@ -4772,12 +4772,12 @@ export const duma_2003_uik_428_region_34_part_005 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Волков Николай Валентинович": 136,
-      "Елисеев Александр Николаевич": 12,
-      "Кузнецова Мария Анатольевна": 47,
-      "Лосев Александр Дмитриевич": 16,
-      "Плотников Владимир Николаевич": 204,
-      "Против всех": 68
+      "gas:candidate-vibid:1001000113925": 136,
+      "gas:candidate-vibid:1001000254934": 12,
+      "gas:candidate-vibid:1001000195065": 47,
+      "gas:candidate-vibid:334300370433": 16,
+      "gas:candidate-vibid:1001000217918": 204,
+      "special:against-all": 68
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=343003010&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=334300370870&region=0&sub_region=0&type=429",
@@ -4827,12 +4827,12 @@ export const duma_2003_uik_428_region_34_part_005 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Волков Николай Валентинович": 14,
-      "Елисеев Александр Николаевич": 2,
-      "Кузнецова Мария Анатольевна": 2,
-      "Лосев Александр Дмитриевич": 2,
-      "Плотников Владимир Николаевич": 42,
-      "Против всех": 2
+      "gas:candidate-vibid:1001000113925": 14,
+      "gas:candidate-vibid:1001000254934": 2,
+      "gas:candidate-vibid:1001000195065": 2,
+      "gas:candidate-vibid:334300370433": 2,
+      "gas:candidate-vibid:1001000217918": 42,
+      "special:against-all": 2
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=343003010&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=334300370870&region=0&sub_region=0&type=429",
@@ -4882,12 +4882,12 @@ export const duma_2003_uik_428_region_34_part_005 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Волков Николай Валентинович": 18,
-      "Елисеев Александр Николаевич": 4,
-      "Кузнецова Мария Анатольевна": 12,
-      "Лосев Александр Дмитриевич": 3,
-      "Плотников Владимир Николаевич": 50,
-      "Против всех": 5
+      "gas:candidate-vibid:1001000113925": 18,
+      "gas:candidate-vibid:1001000254934": 4,
+      "gas:candidate-vibid:1001000195065": 12,
+      "gas:candidate-vibid:334300370433": 3,
+      "gas:candidate-vibid:1001000217918": 50,
+      "special:against-all": 5
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=343003010&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=334300370870&region=0&sub_region=0&type=429",
@@ -4937,12 +4937,12 @@ export const duma_2003_uik_428_region_34_part_005 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Волков Николай Валентинович": 15,
-      "Елисеев Александр Николаевич": 1,
-      "Кузнецова Мария Анатольевна": 8,
-      "Лосев Александр Дмитриевич": 2,
-      "Плотников Владимир Николаевич": 52,
-      "Против всех": 18
+      "gas:candidate-vibid:1001000113925": 15,
+      "gas:candidate-vibid:1001000254934": 1,
+      "gas:candidate-vibid:1001000195065": 8,
+      "gas:candidate-vibid:334300370433": 2,
+      "gas:candidate-vibid:1001000217918": 52,
+      "special:against-all": 18
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=343003010&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=334300370870&region=0&sub_region=0&type=429",
@@ -4992,12 +4992,12 @@ export const duma_2003_uik_428_region_34_part_005 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Волков Николай Валентинович": 34,
-      "Елисеев Александр Николаевич": 4,
-      "Кузнецова Мария Анатольевна": 13,
-      "Лосев Александр Дмитриевич": 3,
-      "Плотников Владимир Николаевич": 56,
-      "Против всех": 22
+      "gas:candidate-vibid:1001000113925": 34,
+      "gas:candidate-vibid:1001000254934": 4,
+      "gas:candidate-vibid:1001000195065": 13,
+      "gas:candidate-vibid:334300370433": 3,
+      "gas:candidate-vibid:1001000217918": 56,
+      "special:against-all": 22
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=343003010&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=334300370870&region=0&sub_region=0&type=429",
@@ -5047,12 +5047,12 @@ export const duma_2003_uik_428_region_34_part_005 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Волков Николай Валентинович": 101,
-      "Елисеев Александр Николаевич": 30,
-      "Кузнецова Мария Анатольевна": 42,
-      "Лосев Александр Дмитриевич": 5,
-      "Плотников Владимир Николаевич": 161,
-      "Против всех": 53
+      "gas:candidate-vibid:1001000113925": 101,
+      "gas:candidate-vibid:1001000254934": 30,
+      "gas:candidate-vibid:1001000195065": 42,
+      "gas:candidate-vibid:334300370433": 5,
+      "gas:candidate-vibid:1001000217918": 161,
+      "special:against-all": 53
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=343003010&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=334300370870&region=0&sub_region=0&type=429",
@@ -5102,12 +5102,12 @@ export const duma_2003_uik_428_region_34_part_005 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Волков Николай Валентинович": 104,
-      "Елисеев Александр Николаевич": 12,
-      "Кузнецова Мария Анатольевна": 52,
-      "Лосев Александр Дмитриевич": 4,
-      "Плотников Владимир Николаевич": 133,
-      "Против всех": 51
+      "gas:candidate-vibid:1001000113925": 104,
+      "gas:candidate-vibid:1001000254934": 12,
+      "gas:candidate-vibid:1001000195065": 52,
+      "gas:candidate-vibid:334300370433": 4,
+      "gas:candidate-vibid:1001000217918": 133,
+      "special:against-all": 51
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=343003010&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=334300370870&region=0&sub_region=0&type=429",
@@ -5157,12 +5157,12 @@ export const duma_2003_uik_428_region_34_part_005 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Волков Николай Валентинович": 106,
-      "Елисеев Александр Николаевич": 27,
-      "Кузнецова Мария Анатольевна": 23,
-      "Лосев Александр Дмитриевич": 6,
-      "Плотников Владимир Николаевич": 110,
-      "Против всех": 39
+      "gas:candidate-vibid:1001000113925": 106,
+      "gas:candidate-vibid:1001000254934": 27,
+      "gas:candidate-vibid:1001000195065": 23,
+      "gas:candidate-vibid:334300370433": 6,
+      "gas:candidate-vibid:1001000217918": 110,
+      "special:against-all": 39
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=343003010&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=334300370870&region=0&sub_region=0&type=429",
@@ -5212,12 +5212,12 @@ export const duma_2003_uik_428_region_34_part_005 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Волков Николай Валентинович": 17,
-      "Елисеев Александр Николаевич": 0,
-      "Кузнецова Мария Анатольевна": 6,
-      "Лосев Александр Дмитриевич": 4,
-      "Плотников Владимир Николаевич": 33,
-      "Против всех": 16
+      "gas:candidate-vibid:1001000113925": 17,
+      "gas:candidate-vibid:1001000254934": 0,
+      "gas:candidate-vibid:1001000195065": 6,
+      "gas:candidate-vibid:334300370433": 4,
+      "gas:candidate-vibid:1001000217918": 33,
+      "special:against-all": 16
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=343003010&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=334300370870&region=0&sub_region=0&type=429",
@@ -5267,12 +5267,12 @@ export const duma_2003_uik_428_region_34_part_005 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Волков Николай Валентинович": 113,
-      "Елисеев Александр Николаевич": 14,
-      "Кузнецова Мария Анатольевна": 42,
-      "Лосев Александр Дмитриевич": 6,
-      "Плотников Владимир Николаевич": 307,
-      "Против всех": 67
+      "gas:candidate-vibid:1001000113925": 113,
+      "gas:candidate-vibid:1001000254934": 14,
+      "gas:candidate-vibid:1001000195065": 42,
+      "gas:candidate-vibid:334300370433": 6,
+      "gas:candidate-vibid:1001000217918": 307,
+      "special:against-all": 67
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=343003010&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=334300370870&region=0&sub_region=0&type=429",
@@ -5322,12 +5322,12 @@ export const duma_2003_uik_428_region_34_part_005 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Волков Николай Валентинович": 34,
-      "Елисеев Александр Николаевич": 7,
-      "Кузнецова Мария Анатольевна": 4,
-      "Лосев Александр Дмитриевич": 1,
-      "Плотников Владимир Николаевич": 124,
-      "Против всех": 19
+      "gas:candidate-vibid:1001000113925": 34,
+      "gas:candidate-vibid:1001000254934": 7,
+      "gas:candidate-vibid:1001000195065": 4,
+      "gas:candidate-vibid:334300370433": 1,
+      "gas:candidate-vibid:1001000217918": 124,
+      "special:against-all": 19
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=343003010&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=334300370870&region=0&sub_region=0&type=429",
@@ -5377,12 +5377,12 @@ export const duma_2003_uik_428_region_34_part_005 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Волков Николай Валентинович": 50,
-      "Елисеев Александр Николаевич": 5,
-      "Кузнецова Мария Анатольевна": 17,
-      "Лосев Александр Дмитриевич": 2,
-      "Плотников Владимир Николаевич": 150,
-      "Против всех": 43
+      "gas:candidate-vibid:1001000113925": 50,
+      "gas:candidate-vibid:1001000254934": 5,
+      "gas:candidate-vibid:1001000195065": 17,
+      "gas:candidate-vibid:334300370433": 2,
+      "gas:candidate-vibid:1001000217918": 150,
+      "special:against-all": 43
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=343003010&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=334300370870&region=0&sub_region=0&type=429",
@@ -5432,12 +5432,12 @@ export const duma_2003_uik_428_region_34_part_005 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Волков Николай Валентинович": 15,
-      "Елисеев Александр Николаевич": 7,
-      "Кузнецова Мария Анатольевна": 12,
-      "Лосев Александр Дмитриевич": 1,
-      "Плотников Владимир Николаевич": 120,
-      "Против всех": 13
+      "gas:candidate-vibid:1001000113925": 15,
+      "gas:candidate-vibid:1001000254934": 7,
+      "gas:candidate-vibid:1001000195065": 12,
+      "gas:candidate-vibid:334300370433": 1,
+      "gas:candidate-vibid:1001000217918": 120,
+      "special:against-all": 13
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=343003010&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=334300370870&region=0&sub_region=0&type=429",
@@ -5487,12 +5487,12 @@ export const duma_2003_uik_428_region_34_part_005 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Волков Николай Валентинович": 148,
-      "Елисеев Александр Николаевич": 23,
-      "Кузнецова Мария Анатольевна": 45,
-      "Лосев Александр Дмитриевич": 10,
-      "Плотников Владимир Николаевич": 238,
-      "Против всех": 55
+      "gas:candidate-vibid:1001000113925": 148,
+      "gas:candidate-vibid:1001000254934": 23,
+      "gas:candidate-vibid:1001000195065": 45,
+      "gas:candidate-vibid:334300370433": 10,
+      "gas:candidate-vibid:1001000217918": 238,
+      "special:against-all": 55
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=343003010&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=334300370870&region=0&sub_region=0&type=429",
@@ -5542,12 +5542,12 @@ export const duma_2003_uik_428_region_34_part_005 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Волков Николай Валентинович": 28,
-      "Елисеев Александр Николаевич": 4,
-      "Кузнецова Мария Анатольевна": 4,
-      "Лосев Александр Дмитриевич": 0,
-      "Плотников Владимир Николаевич": 49,
-      "Против всех": 14
+      "gas:candidate-vibid:1001000113925": 28,
+      "gas:candidate-vibid:1001000254934": 4,
+      "gas:candidate-vibid:1001000195065": 4,
+      "gas:candidate-vibid:334300370433": 0,
+      "gas:candidate-vibid:1001000217918": 49,
+      "special:against-all": 14
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=343003010&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=334300370870&region=0&sub_region=0&type=429",
@@ -5597,12 +5597,12 @@ export const duma_2003_uik_428_region_34_part_005 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Волков Николай Валентинович": 9,
-      "Елисеев Александр Николаевич": 4,
-      "Кузнецова Мария Анатольевна": 3,
-      "Лосев Александр Дмитриевич": 2,
-      "Плотников Владимир Николаевич": 14,
-      "Против всех": 4
+      "gas:candidate-vibid:1001000113925": 9,
+      "gas:candidate-vibid:1001000254934": 4,
+      "gas:candidate-vibid:1001000195065": 3,
+      "gas:candidate-vibid:334300370433": 2,
+      "gas:candidate-vibid:1001000217918": 14,
+      "special:against-all": 4
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=343003010&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=334300370870&region=0&sub_region=0&type=429",
@@ -5652,12 +5652,12 @@ export const duma_2003_uik_428_region_34_part_005 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Волков Николай Валентинович": 52,
-      "Елисеев Александр Николаевич": 11,
-      "Кузнецова Мария Анатольевна": 19,
-      "Лосев Александр Дмитриевич": 1,
-      "Плотников Владимир Николаевич": 100,
-      "Против всех": 15
+      "gas:candidate-vibid:1001000113925": 52,
+      "gas:candidate-vibid:1001000254934": 11,
+      "gas:candidate-vibid:1001000195065": 19,
+      "gas:candidate-vibid:334300370433": 1,
+      "gas:candidate-vibid:1001000217918": 100,
+      "special:against-all": 15
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=343003010&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=334300370870&region=0&sub_region=0&type=429",
@@ -5707,12 +5707,12 @@ export const duma_2003_uik_428_region_34_part_005 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Волков Николай Валентинович": 31,
-      "Елисеев Александр Николаевич": 4,
-      "Кузнецова Мария Анатольевна": 10,
-      "Лосев Александр Дмитриевич": 2,
-      "Плотников Владимир Николаевич": 94,
-      "Против всех": 32
+      "gas:candidate-vibid:1001000113925": 31,
+      "gas:candidate-vibid:1001000254934": 4,
+      "gas:candidate-vibid:1001000195065": 10,
+      "gas:candidate-vibid:334300370433": 2,
+      "gas:candidate-vibid:1001000217918": 94,
+      "special:against-all": 32
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=343003010&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=334300370870&region=0&sub_region=0&type=429",
@@ -5762,12 +5762,12 @@ export const duma_2003_uik_428_region_34_part_005 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Волков Николай Валентинович": 39,
-      "Елисеев Александр Николаевич": 2,
-      "Кузнецова Мария Анатольевна": 6,
-      "Лосев Александр Дмитриевич": 1,
-      "Плотников Владимир Николаевич": 27,
-      "Против всех": 14
+      "gas:candidate-vibid:1001000113925": 39,
+      "gas:candidate-vibid:1001000254934": 2,
+      "gas:candidate-vibid:1001000195065": 6,
+      "gas:candidate-vibid:334300370433": 1,
+      "gas:candidate-vibid:1001000217918": 27,
+      "special:against-all": 14
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=343003010&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=334300370870&region=0&sub_region=0&type=429",
@@ -5817,12 +5817,12 @@ export const duma_2003_uik_428_region_34_part_005 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Волков Николай Валентинович": 81,
-      "Елисеев Александр Николаевич": 17,
-      "Кузнецова Мария Анатольевна": 18,
-      "Лосев Александр Дмитриевич": 4,
-      "Плотников Владимир Николаевич": 222,
-      "Против всех": 31
+      "gas:candidate-vibid:1001000113925": 81,
+      "gas:candidate-vibid:1001000254934": 17,
+      "gas:candidate-vibid:1001000195065": 18,
+      "gas:candidate-vibid:334300370433": 4,
+      "gas:candidate-vibid:1001000217918": 222,
+      "special:against-all": 31
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=343003010&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=334300370870&region=0&sub_region=0&type=429",
@@ -5872,12 +5872,12 @@ export const duma_2003_uik_428_region_34_part_005 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Волков Николай Валентинович": 43,
-      "Елисеев Александр Николаевич": 2,
-      "Кузнецова Мария Анатольевна": 12,
-      "Лосев Александр Дмитриевич": 1,
-      "Плотников Владимир Николаевич": 25,
-      "Против всех": 14
+      "gas:candidate-vibid:1001000113925": 43,
+      "gas:candidate-vibid:1001000254934": 2,
+      "gas:candidate-vibid:1001000195065": 12,
+      "gas:candidate-vibid:334300370433": 1,
+      "gas:candidate-vibid:1001000217918": 25,
+      "special:against-all": 14
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=343003010&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=334300370870&region=0&sub_region=0&type=429",
@@ -5927,12 +5927,12 @@ export const duma_2003_uik_428_region_34_part_005 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Волков Николай Валентинович": 32,
-      "Елисеев Александр Николаевич": 2,
-      "Кузнецова Мария Анатольевна": 12,
-      "Лосев Александр Дмитриевич": 0,
-      "Плотников Владимир Николаевич": 48,
-      "Против всех": 21
+      "gas:candidate-vibid:1001000113925": 32,
+      "gas:candidate-vibid:1001000254934": 2,
+      "gas:candidate-vibid:1001000195065": 12,
+      "gas:candidate-vibid:334300370433": 0,
+      "gas:candidate-vibid:1001000217918": 48,
+      "special:against-all": 21
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=343003010&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=334300370870&region=0&sub_region=0&type=429",
@@ -5982,12 +5982,12 @@ export const duma_2003_uik_428_region_34_part_005 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Волков Николай Валентинович": 168,
-      "Елисеев Александр Николаевич": 29,
-      "Кузнецова Мария Анатольевна": 62,
-      "Лосев Александр Дмитриевич": 11,
-      "Плотников Владимир Николаевич": 330,
-      "Против всех": 96
+      "gas:candidate-vibid:1001000113925": 168,
+      "gas:candidate-vibid:1001000254934": 29,
+      "gas:candidate-vibid:1001000195065": 62,
+      "gas:candidate-vibid:334300370433": 11,
+      "gas:candidate-vibid:1001000217918": 330,
+      "special:against-all": 96
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=343003010&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=334300370870&region=0&sub_region=0&type=429",
@@ -6037,12 +6037,12 @@ export const duma_2003_uik_428_region_34_part_005 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Волков Николай Валентинович": 51,
-      "Елисеев Александр Николаевич": 0,
-      "Кузнецова Мария Анатольевна": 12,
-      "Лосев Александр Дмитриевич": 2,
-      "Плотников Владимир Николаевич": 39,
-      "Против всех": 17
+      "gas:candidate-vibid:1001000113925": 51,
+      "gas:candidate-vibid:1001000254934": 0,
+      "gas:candidate-vibid:1001000195065": 12,
+      "gas:candidate-vibid:334300370433": 2,
+      "gas:candidate-vibid:1001000217918": 39,
+      "special:against-all": 17
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=343003010&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=334300370870&region=0&sub_region=0&type=429",
@@ -6092,12 +6092,12 @@ export const duma_2003_uik_428_region_34_part_005 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Волков Николай Валентинович": 90,
-      "Елисеев Александр Николаевич": 20,
-      "Кузнецова Мария Анатольевна": 53,
-      "Лосев Александр Дмитриевич": 12,
-      "Плотников Владимир Николаевич": 183,
-      "Против всех": 64
+      "gas:candidate-vibid:1001000113925": 90,
+      "gas:candidate-vibid:1001000254934": 20,
+      "gas:candidate-vibid:1001000195065": 53,
+      "gas:candidate-vibid:334300370433": 12,
+      "gas:candidate-vibid:1001000217918": 183,
+      "special:against-all": 64
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=343003010&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=334300370870&region=0&sub_region=0&type=429",
@@ -6147,12 +6147,12 @@ export const duma_2003_uik_428_region_34_part_005 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Волков Николай Валентинович": 9,
-      "Елисеев Александр Николаевич": 3,
-      "Кузнецова Мария Анатольевна": 4,
-      "Лосев Александр Дмитриевич": 1,
-      "Плотников Владимир Николаевич": 10,
-      "Против всех": 3
+      "gas:candidate-vibid:1001000113925": 9,
+      "gas:candidate-vibid:1001000254934": 3,
+      "gas:candidate-vibid:1001000195065": 4,
+      "gas:candidate-vibid:334300370433": 1,
+      "gas:candidate-vibid:1001000217918": 10,
+      "special:against-all": 3
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=343003010&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=334300370870&region=0&sub_region=0&type=429",
@@ -6202,12 +6202,12 @@ export const duma_2003_uik_428_region_34_part_005 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Волков Николай Валентинович": 17,
-      "Елисеев Александр Николаевич": 4,
-      "Кузнецова Мария Анатольевна": 11,
-      "Лосев Александр Дмитриевич": 6,
-      "Плотников Владимир Николаевич": 57,
-      "Против всех": 13
+      "gas:candidate-vibid:1001000113925": 17,
+      "gas:candidate-vibid:1001000254934": 4,
+      "gas:candidate-vibid:1001000195065": 11,
+      "gas:candidate-vibid:334300370433": 6,
+      "gas:candidate-vibid:1001000217918": 57,
+      "special:against-all": 13
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=343003010&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=334300370870&region=0&sub_region=0&type=429",
@@ -6257,12 +6257,12 @@ export const duma_2003_uik_428_region_34_part_005 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Волков Николай Валентинович": 26,
-      "Елисеев Александр Николаевич": 4,
-      "Кузнецова Мария Анатольевна": 10,
-      "Лосев Александр Дмитриевич": 0,
-      "Плотников Владимир Николаевич": 138,
-      "Против всех": 31
+      "gas:candidate-vibid:1001000113925": 26,
+      "gas:candidate-vibid:1001000254934": 4,
+      "gas:candidate-vibid:1001000195065": 10,
+      "gas:candidate-vibid:334300370433": 0,
+      "gas:candidate-vibid:1001000217918": 138,
+      "special:against-all": 31
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=343003010&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=334300370870&region=0&sub_region=0&type=429",
@@ -6312,12 +6312,12 @@ export const duma_2003_uik_428_region_34_part_005 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Волков Николай Валентинович": 30,
-      "Елисеев Александр Николаевич": 11,
-      "Кузнецова Мария Анатольевна": 14,
-      "Лосев Александр Дмитриевич": 2,
-      "Плотников Владимир Николаевич": 61,
-      "Против всех": 9
+      "gas:candidate-vibid:1001000113925": 30,
+      "gas:candidate-vibid:1001000254934": 11,
+      "gas:candidate-vibid:1001000195065": 14,
+      "gas:candidate-vibid:334300370433": 2,
+      "gas:candidate-vibid:1001000217918": 61,
+      "special:against-all": 9
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=343003010&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=334300370870&region=0&sub_region=0&type=429",
@@ -6367,12 +6367,12 @@ export const duma_2003_uik_428_region_34_part_005 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Волков Николай Валентинович": 84,
-      "Елисеев Александр Николаевич": 10,
-      "Кузнецова Мария Анатольевна": 20,
-      "Лосев Александр Дмитриевич": 4,
-      "Плотников Владимир Николаевич": 133,
-      "Против всех": 34
+      "gas:candidate-vibid:1001000113925": 84,
+      "gas:candidate-vibid:1001000254934": 10,
+      "gas:candidate-vibid:1001000195065": 20,
+      "gas:candidate-vibid:334300370433": 4,
+      "gas:candidate-vibid:1001000217918": 133,
+      "special:against-all": 34
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=343003010&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=334300370870&region=0&sub_region=0&type=429",
@@ -6422,12 +6422,12 @@ export const duma_2003_uik_428_region_34_part_005 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Волков Николай Валентинович": 81,
-      "Елисеев Александр Николаевич": 20,
-      "Кузнецова Мария Анатольевна": 23,
-      "Лосев Александр Дмитриевич": 3,
-      "Плотников Владимир Николаевич": 214,
-      "Против всех": 61
+      "gas:candidate-vibid:1001000113925": 81,
+      "gas:candidate-vibid:1001000254934": 20,
+      "gas:candidate-vibid:1001000195065": 23,
+      "gas:candidate-vibid:334300370433": 3,
+      "gas:candidate-vibid:1001000217918": 214,
+      "special:against-all": 61
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=343003010&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=334300370870&region=0&sub_region=0&type=429",
@@ -6477,12 +6477,12 @@ export const duma_2003_uik_428_region_34_part_005 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Волков Николай Валентинович": 29,
-      "Елисеев Александр Николаевич": 8,
-      "Кузнецова Мария Анатольевна": 11,
-      "Лосев Александр Дмитриевич": 2,
-      "Плотников Владимир Николаевич": 78,
-      "Против всех": 21
+      "gas:candidate-vibid:1001000113925": 29,
+      "gas:candidate-vibid:1001000254934": 8,
+      "gas:candidate-vibid:1001000195065": 11,
+      "gas:candidate-vibid:334300370433": 2,
+      "gas:candidate-vibid:1001000217918": 78,
+      "special:against-all": 21
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=343003010&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=334300370870&region=0&sub_region=0&type=429",
@@ -6532,12 +6532,12 @@ export const duma_2003_uik_428_region_34_part_005 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Волков Николай Валентинович": 75,
-      "Елисеев Александр Николаевич": 14,
-      "Кузнецова Мария Анатольевна": 40,
-      "Лосев Александр Дмитриевич": 10,
-      "Плотников Владимир Николаевич": 216,
-      "Против всех": 68
+      "gas:candidate-vibid:1001000113925": 75,
+      "gas:candidate-vibid:1001000254934": 14,
+      "gas:candidate-vibid:1001000195065": 40,
+      "gas:candidate-vibid:334300370433": 10,
+      "gas:candidate-vibid:1001000217918": 216,
+      "special:against-all": 68
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=343003010&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=334300370870&region=0&sub_region=0&type=429",
@@ -6587,12 +6587,12 @@ export const duma_2003_uik_428_region_34_part_005 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Волков Николай Валентинович": 112,
-      "Елисеев Александр Николаевич": 7,
-      "Кузнецова Мария Анатольевна": 39,
-      "Лосев Александр Дмитриевич": 4,
-      "Плотников Владимир Николаевич": 257,
-      "Против всех": 46
+      "gas:candidate-vibid:1001000113925": 112,
+      "gas:candidate-vibid:1001000254934": 7,
+      "gas:candidate-vibid:1001000195065": 39,
+      "gas:candidate-vibid:334300370433": 4,
+      "gas:candidate-vibid:1001000217918": 257,
+      "special:against-all": 46
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=343003010&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=334300370870&region=0&sub_region=0&type=429",
@@ -6642,12 +6642,12 @@ export const duma_2003_uik_428_region_34_part_005 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Волков Николай Валентинович": 35,
-      "Елисеев Александр Николаевич": 7,
-      "Кузнецова Мария Анатольевна": 14,
-      "Лосев Александр Дмитриевич": 1,
-      "Плотников Владимир Николаевич": 84,
-      "Против всех": 13
+      "gas:candidate-vibid:1001000113925": 35,
+      "gas:candidate-vibid:1001000254934": 7,
+      "gas:candidate-vibid:1001000195065": 14,
+      "gas:candidate-vibid:334300370433": 1,
+      "gas:candidate-vibid:1001000217918": 84,
+      "special:against-all": 13
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=343003010&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=334300370870&region=0&sub_region=0&type=429",
@@ -6697,12 +6697,12 @@ export const duma_2003_uik_428_region_34_part_005 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Волков Николай Валентинович": 96,
-      "Елисеев Александр Николаевич": 26,
-      "Кузнецова Мария Анатольевна": 33,
-      "Лосев Александр Дмитриевич": 6,
-      "Плотников Владимир Николаевич": 336,
-      "Против всех": 65
+      "gas:candidate-vibid:1001000113925": 96,
+      "gas:candidate-vibid:1001000254934": 26,
+      "gas:candidate-vibid:1001000195065": 33,
+      "gas:candidate-vibid:334300370433": 6,
+      "gas:candidate-vibid:1001000217918": 336,
+      "special:against-all": 65
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=343003010&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=334300370870&region=0&sub_region=0&type=429",
@@ -6752,12 +6752,12 @@ export const duma_2003_uik_428_region_34_part_005 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Волков Николай Валентинович": 24,
-      "Елисеев Александр Николаевич": 4,
-      "Кузнецова Мария Анатольевна": 15,
-      "Лосев Александр Дмитриевич": 1,
-      "Плотников Владимир Николаевич": 73,
-      "Против всех": 16
+      "gas:candidate-vibid:1001000113925": 24,
+      "gas:candidate-vibid:1001000254934": 4,
+      "gas:candidate-vibid:1001000195065": 15,
+      "gas:candidate-vibid:334300370433": 1,
+      "gas:candidate-vibid:1001000217918": 73,
+      "special:against-all": 16
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=343003010&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=334300370870&region=0&sub_region=0&type=429",
@@ -6807,12 +6807,12 @@ export const duma_2003_uik_428_region_34_part_005 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Волков Николай Валентинович": 26,
-      "Елисеев Александр Николаевич": 0,
-      "Кузнецова Мария Анатольевна": 2,
-      "Лосев Александр Дмитриевич": 4,
-      "Плотников Владимир Николаевич": 47,
-      "Против всех": 3
+      "gas:candidate-vibid:1001000113925": 26,
+      "gas:candidate-vibid:1001000254934": 0,
+      "gas:candidate-vibid:1001000195065": 2,
+      "gas:candidate-vibid:334300370433": 4,
+      "gas:candidate-vibid:1001000217918": 47,
+      "special:against-all": 3
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=343003010&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=334300370870&region=0&sub_region=0&type=429",
@@ -6862,12 +6862,12 @@ export const duma_2003_uik_428_region_34_part_005 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Волков Николай Валентинович": 141,
-      "Елисеев Александр Николаевич": 17,
-      "Кузнецова Мария Анатольевна": 48,
-      "Лосев Александр Дмитриевич": 5,
-      "Плотников Владимир Николаевич": 369,
-      "Против всех": 80
+      "gas:candidate-vibid:1001000113925": 141,
+      "gas:candidate-vibid:1001000254934": 17,
+      "gas:candidate-vibid:1001000195065": 48,
+      "gas:candidate-vibid:334300370433": 5,
+      "gas:candidate-vibid:1001000217918": 369,
+      "special:against-all": 80
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=343003010&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=334300370870&region=0&sub_region=0&type=429",
@@ -6917,12 +6917,12 @@ export const duma_2003_uik_428_region_34_part_005 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Волков Николай Валентинович": 32,
-      "Елисеев Александр Николаевич": 12,
-      "Кузнецова Мария Анатольевна": 14,
-      "Лосев Александр Дмитриевич": 3,
-      "Плотников Владимир Николаевич": 87,
-      "Против всех": 20
+      "gas:candidate-vibid:1001000113925": 32,
+      "gas:candidate-vibid:1001000254934": 12,
+      "gas:candidate-vibid:1001000195065": 14,
+      "gas:candidate-vibid:334300370433": 3,
+      "gas:candidate-vibid:1001000217918": 87,
+      "special:against-all": 20
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=343003010&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=334300370870&region=0&sub_region=0&type=429",
@@ -6972,12 +6972,12 @@ export const duma_2003_uik_428_region_34_part_005 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Волков Николай Валентинович": 260,
-      "Елисеев Александр Николаевич": 42,
-      "Кузнецова Мария Анатольевна": 65,
-      "Лосев Александр Дмитриевич": 18,
-      "Плотников Владимир Николаевич": 445,
-      "Против всех": 177
+      "gas:candidate-vibid:1001000113925": 260,
+      "gas:candidate-vibid:1001000254934": 42,
+      "gas:candidate-vibid:1001000195065": 65,
+      "gas:candidate-vibid:334300370433": 18,
+      "gas:candidate-vibid:1001000217918": 445,
+      "special:against-all": 177
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=343003011&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=334300370871&region=0&sub_region=0&type=429",
@@ -7027,12 +7027,12 @@ export const duma_2003_uik_428_region_34_part_005 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Волков Николай Валентинович": 214,
-      "Елисеев Александр Николаевич": 30,
-      "Кузнецова Мария Анатольевна": 67,
-      "Лосев Александр Дмитриевич": 15,
-      "Плотников Владимир Николаевич": 413,
-      "Против всех": 176
+      "gas:candidate-vibid:1001000113925": 214,
+      "gas:candidate-vibid:1001000254934": 30,
+      "gas:candidate-vibid:1001000195065": 67,
+      "gas:candidate-vibid:334300370433": 15,
+      "gas:candidate-vibid:1001000217918": 413,
+      "special:against-all": 176
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=343003011&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=334300370871&region=0&sub_region=0&type=429",
@@ -7082,12 +7082,12 @@ export const duma_2003_uik_428_region_34_part_005 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Волков Николай Валентинович": 248,
-      "Елисеев Александр Николаевич": 32,
-      "Кузнецова Мария Анатольевна": 48,
-      "Лосев Александр Дмитриевич": 26,
-      "Плотников Владимир Николаевич": 381,
-      "Против всех": 166
+      "gas:candidate-vibid:1001000113925": 248,
+      "gas:candidate-vibid:1001000254934": 32,
+      "gas:candidate-vibid:1001000195065": 48,
+      "gas:candidate-vibid:334300370433": 26,
+      "gas:candidate-vibid:1001000217918": 381,
+      "special:against-all": 166
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=343003011&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=334300370871&region=0&sub_region=0&type=429",
@@ -7137,12 +7137,12 @@ export const duma_2003_uik_428_region_34_part_005 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Волков Николай Валентинович": 268,
-      "Елисеев Александр Николаевич": 47,
-      "Кузнецова Мария Анатольевна": 80,
-      "Лосев Александр Дмитриевич": 15,
-      "Плотников Владимир Николаевич": 612,
-      "Против всех": 187
+      "gas:candidate-vibid:1001000113925": 268,
+      "gas:candidate-vibid:1001000254934": 47,
+      "gas:candidate-vibid:1001000195065": 80,
+      "gas:candidate-vibid:334300370433": 15,
+      "gas:candidate-vibid:1001000217918": 612,
+      "special:against-all": 187
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=343003011&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=334300370871&region=0&sub_region=0&type=429",
@@ -7192,12 +7192,12 @@ export const duma_2003_uik_428_region_34_part_005 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Волков Николай Валентинович": 159,
-      "Елисеев Александр Николаевич": 21,
-      "Кузнецова Мария Анатольевна": 25,
-      "Лосев Александр Дмитриевич": 17,
-      "Плотников Владимир Николаевич": 231,
-      "Против всех": 76
+      "gas:candidate-vibid:1001000113925": 159,
+      "gas:candidate-vibid:1001000254934": 21,
+      "gas:candidate-vibid:1001000195065": 25,
+      "gas:candidate-vibid:334300370433": 17,
+      "gas:candidate-vibid:1001000217918": 231,
+      "special:against-all": 76
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=343003011&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=334300370871&region=0&sub_region=0&type=429",
@@ -7247,12 +7247,12 @@ export const duma_2003_uik_428_region_34_part_005 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Волков Николай Валентинович": 159,
-      "Елисеев Александр Николаевич": 40,
-      "Кузнецова Мария Анатольевна": 50,
-      "Лосев Александр Дмитриевич": 18,
-      "Плотников Владимир Николаевич": 425,
-      "Против всех": 129
+      "gas:candidate-vibid:1001000113925": 159,
+      "gas:candidate-vibid:1001000254934": 40,
+      "gas:candidate-vibid:1001000195065": 50,
+      "gas:candidate-vibid:334300370433": 18,
+      "gas:candidate-vibid:1001000217918": 425,
+      "special:against-all": 129
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=343003011&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=334300370871&region=0&sub_region=0&type=429",
@@ -7302,12 +7302,12 @@ export const duma_2003_uik_428_region_34_part_005 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Волков Николай Валентинович": 123,
-      "Елисеев Александр Николаевич": 21,
-      "Кузнецова Мария Анатольевна": 41,
-      "Лосев Александр Дмитриевич": 10,
-      "Плотников Владимир Николаевич": 221,
-      "Против всех": 85
+      "gas:candidate-vibid:1001000113925": 123,
+      "gas:candidate-vibid:1001000254934": 21,
+      "gas:candidate-vibid:1001000195065": 41,
+      "gas:candidate-vibid:334300370433": 10,
+      "gas:candidate-vibid:1001000217918": 221,
+      "special:against-all": 85
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=343003011&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=334300370871&region=0&sub_region=0&type=429",
@@ -7357,12 +7357,12 @@ export const duma_2003_uik_428_region_34_part_005 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Волков Николай Валентинович": 254,
-      "Елисеев Александр Николаевич": 22,
-      "Кузнецова Мария Анатольевна": 101,
-      "Лосев Александр Дмитриевич": 16,
-      "Плотников Владимир Николаевич": 420,
-      "Против всех": 157
+      "gas:candidate-vibid:1001000113925": 254,
+      "gas:candidate-vibid:1001000254934": 22,
+      "gas:candidate-vibid:1001000195065": 101,
+      "gas:candidate-vibid:334300370433": 16,
+      "gas:candidate-vibid:1001000217918": 420,
+      "special:against-all": 157
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=343003011&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=334300370871&region=0&sub_region=0&type=429",
@@ -7412,12 +7412,12 @@ export const duma_2003_uik_428_region_34_part_005 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Волков Николай Валентинович": 196,
-      "Елисеев Александр Николаевич": 32,
-      "Кузнецова Мария Анатольевна": 95,
-      "Лосев Александр Дмитриевич": 18,
-      "Плотников Владимир Николаевич": 388,
-      "Против всех": 232
+      "gas:candidate-vibid:1001000113925": 196,
+      "gas:candidate-vibid:1001000254934": 32,
+      "gas:candidate-vibid:1001000195065": 95,
+      "gas:candidate-vibid:334300370433": 18,
+      "gas:candidate-vibid:1001000217918": 388,
+      "special:against-all": 232
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=343003011&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=334300370871&region=0&sub_region=0&type=429",
@@ -7467,12 +7467,12 @@ export const duma_2003_uik_428_region_34_part_005 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Волков Николай Валентинович": 93,
-      "Елисеев Александр Николаевич": 12,
-      "Кузнецова Мария Анатольевна": 37,
-      "Лосев Александр Дмитриевич": 1,
-      "Плотников Владимир Николаевич": 176,
-      "Против всех": 47
+      "gas:candidate-vibid:1001000113925": 93,
+      "gas:candidate-vibid:1001000254934": 12,
+      "gas:candidate-vibid:1001000195065": 37,
+      "gas:candidate-vibid:334300370433": 1,
+      "gas:candidate-vibid:1001000217918": 176,
+      "special:against-all": 47
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=343003011&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=334300370871&region=0&sub_region=0&type=429",
@@ -7522,12 +7522,12 @@ export const duma_2003_uik_428_region_34_part_005 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Волков Николай Валентинович": 133,
-      "Елисеев Александр Николаевич": 19,
-      "Кузнецова Мария Анатольевна": 56,
-      "Лосев Александр Дмитриевич": 16,
-      "Плотников Владимир Николаевич": 200,
-      "Против всех": 78
+      "gas:candidate-vibid:1001000113925": 133,
+      "gas:candidate-vibid:1001000254934": 19,
+      "gas:candidate-vibid:1001000195065": 56,
+      "gas:candidate-vibid:334300370433": 16,
+      "gas:candidate-vibid:1001000217918": 200,
+      "special:against-all": 78
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=343003011&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=334300370871&region=0&sub_region=0&type=429",
@@ -7577,12 +7577,12 @@ export const duma_2003_uik_428_region_34_part_005 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Волков Николай Валентинович": 112,
-      "Елисеев Александр Николаевич": 13,
-      "Кузнецова Мария Анатольевна": 51,
-      "Лосев Александр Дмитриевич": 6,
-      "Плотников Владимир Николаевич": 236,
-      "Против всех": 85
+      "gas:candidate-vibid:1001000113925": 112,
+      "gas:candidate-vibid:1001000254934": 13,
+      "gas:candidate-vibid:1001000195065": 51,
+      "gas:candidate-vibid:334300370433": 6,
+      "gas:candidate-vibid:1001000217918": 236,
+      "special:against-all": 85
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=343003011&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=334300370871&region=0&sub_region=0&type=429",
@@ -7632,12 +7632,12 @@ export const duma_2003_uik_428_region_34_part_005 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Волков Николай Валентинович": 94,
-      "Елисеев Александр Николаевич": 22,
-      "Кузнецова Мария Анатольевна": 30,
-      "Лосев Александр Дмитриевич": 7,
-      "Плотников Владимир Николаевич": 164,
-      "Против всех": 72
+      "gas:candidate-vibid:1001000113925": 94,
+      "gas:candidate-vibid:1001000254934": 22,
+      "gas:candidate-vibid:1001000195065": 30,
+      "gas:candidate-vibid:334300370433": 7,
+      "gas:candidate-vibid:1001000217918": 164,
+      "special:against-all": 72
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=343003011&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=334300370871&region=0&sub_region=0&type=429",
@@ -7687,12 +7687,12 @@ export const duma_2003_uik_428_region_34_part_005 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Волков Николай Валентинович": 84,
-      "Елисеев Александр Николаевич": 19,
-      "Кузнецова Мария Анатольевна": 19,
-      "Лосев Александр Дмитриевич": 3,
-      "Плотников Владимир Николаевич": 130,
-      "Против всех": 44
+      "gas:candidate-vibid:1001000113925": 84,
+      "gas:candidate-vibid:1001000254934": 19,
+      "gas:candidate-vibid:1001000195065": 19,
+      "gas:candidate-vibid:334300370433": 3,
+      "gas:candidate-vibid:1001000217918": 130,
+      "special:against-all": 44
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=343003011&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=334300370871&region=0&sub_region=0&type=429",
@@ -7742,12 +7742,12 @@ export const duma_2003_uik_428_region_34_part_005 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Волков Николай Валентинович": 157,
-      "Елисеев Александр Николаевич": 32,
-      "Кузнецова Мария Анатольевна": 54,
-      "Лосев Александр Дмитриевич": 20,
-      "Плотников Владимир Николаевич": 382,
-      "Против всех": 116
+      "gas:candidate-vibid:1001000113925": 157,
+      "gas:candidate-vibid:1001000254934": 32,
+      "gas:candidate-vibid:1001000195065": 54,
+      "gas:candidate-vibid:334300370433": 20,
+      "gas:candidate-vibid:1001000217918": 382,
+      "special:against-all": 116
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=343003011&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=334300370871&region=0&sub_region=0&type=429",
@@ -7797,12 +7797,12 @@ export const duma_2003_uik_428_region_34_part_005 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Волков Николай Валентинович": 181,
-      "Елисеев Александр Николаевич": 45,
-      "Кузнецова Мария Анатольевна": 76,
-      "Лосев Александр Дмитриевич": 14,
-      "Плотников Владимир Николаевич": 409,
-      "Против всех": 122
+      "gas:candidate-vibid:1001000113925": 181,
+      "gas:candidate-vibid:1001000254934": 45,
+      "gas:candidate-vibid:1001000195065": 76,
+      "gas:candidate-vibid:334300370433": 14,
+      "gas:candidate-vibid:1001000217918": 409,
+      "special:against-all": 122
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=343003011&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=334300370871&region=0&sub_region=0&type=429",
@@ -7852,12 +7852,12 @@ export const duma_2003_uik_428_region_34_part_005 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Волков Николай Валентинович": 199,
-      "Елисеев Александр Николаевич": 20,
-      "Кузнецова Мария Анатольевна": 52,
-      "Лосев Александр Дмитриевич": 12,
-      "Плотников Владимир Николаевич": 350,
-      "Против всех": 130
+      "gas:candidate-vibid:1001000113925": 199,
+      "gas:candidate-vibid:1001000254934": 20,
+      "gas:candidate-vibid:1001000195065": 52,
+      "gas:candidate-vibid:334300370433": 12,
+      "gas:candidate-vibid:1001000217918": 350,
+      "special:against-all": 130
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=343003011&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=334300370871&region=0&sub_region=0&type=429",
@@ -7907,12 +7907,12 @@ export const duma_2003_uik_428_region_34_part_005 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Волков Николай Валентинович": 226,
-      "Елисеев Александр Николаевич": 41,
-      "Кузнецова Мария Анатольевна": 54,
-      "Лосев Александр Дмитриевич": 6,
-      "Плотников Владимир Николаевич": 426,
-      "Против всех": 157
+      "gas:candidate-vibid:1001000113925": 226,
+      "gas:candidate-vibid:1001000254934": 41,
+      "gas:candidate-vibid:1001000195065": 54,
+      "gas:candidate-vibid:334300370433": 6,
+      "gas:candidate-vibid:1001000217918": 426,
+      "special:against-all": 157
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=343003011&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=334300370871&region=0&sub_region=0&type=429",
@@ -7962,12 +7962,12 @@ export const duma_2003_uik_428_region_34_part_005 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Волков Николай Валентинович": 202,
-      "Елисеев Александр Николаевич": 39,
-      "Кузнецова Мария Анатольевна": 67,
-      "Лосев Александр Дмитриевич": 16,
-      "Плотников Владимир Николаевич": 426,
-      "Против всех": 205
+      "gas:candidate-vibid:1001000113925": 202,
+      "gas:candidate-vibid:1001000254934": 39,
+      "gas:candidate-vibid:1001000195065": 67,
+      "gas:candidate-vibid:334300370433": 16,
+      "gas:candidate-vibid:1001000217918": 426,
+      "special:against-all": 205
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=343003011&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=334300370871&region=0&sub_region=0&type=429",
@@ -8017,12 +8017,12 @@ export const duma_2003_uik_428_region_34_part_005 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Волков Николай Валентинович": 202,
-      "Елисеев Александр Николаевич": 49,
-      "Кузнецова Мария Анатольевна": 73,
-      "Лосев Александр Дмитриевич": 14,
-      "Плотников Владимир Николаевич": 384,
-      "Против всех": 203
+      "gas:candidate-vibid:1001000113925": 202,
+      "gas:candidate-vibid:1001000254934": 49,
+      "gas:candidate-vibid:1001000195065": 73,
+      "gas:candidate-vibid:334300370433": 14,
+      "gas:candidate-vibid:1001000217918": 384,
+      "special:against-all": 203
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=343003011&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=334300370871&region=0&sub_region=0&type=429",
@@ -8072,12 +8072,12 @@ export const duma_2003_uik_428_region_34_part_005 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Волков Николай Валентинович": 194,
-      "Елисеев Александр Николаевич": 34,
-      "Кузнецова Мария Анатольевна": 57,
-      "Лосев Александр Дмитриевич": 20,
-      "Плотников Владимир Николаевич": 339,
-      "Против всех": 179
+      "gas:candidate-vibid:1001000113925": 194,
+      "gas:candidate-vibid:1001000254934": 34,
+      "gas:candidate-vibid:1001000195065": 57,
+      "gas:candidate-vibid:334300370433": 20,
+      "gas:candidate-vibid:1001000217918": 339,
+      "special:against-all": 179
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=343003011&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=334300370871&region=0&sub_region=0&type=429",
@@ -8127,12 +8127,12 @@ export const duma_2003_uik_428_region_34_part_005 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Волков Николай Валентинович": 164,
-      "Елисеев Александр Николаевич": 38,
-      "Кузнецова Мария Анатольевна": 69,
-      "Лосев Александр Дмитриевич": 14,
-      "Плотников Владимир Николаевич": 460,
-      "Против всех": 95
+      "gas:candidate-vibid:1001000113925": 164,
+      "gas:candidate-vibid:1001000254934": 38,
+      "gas:candidate-vibid:1001000195065": 69,
+      "gas:candidate-vibid:334300370433": 14,
+      "gas:candidate-vibid:1001000217918": 460,
+      "special:against-all": 95
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=343003011&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=334300370871&region=0&sub_region=0&type=429",
@@ -8182,12 +8182,12 @@ export const duma_2003_uik_428_region_34_part_005 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Волков Николай Валентинович": 116,
-      "Елисеев Александр Николаевич": 18,
-      "Кузнецова Мария Анатольевна": 37,
-      "Лосев Александр Дмитриевич": 13,
-      "Плотников Владимир Николаевич": 204,
-      "Против всех": 86
+      "gas:candidate-vibid:1001000113925": 116,
+      "gas:candidate-vibid:1001000254934": 18,
+      "gas:candidate-vibid:1001000195065": 37,
+      "gas:candidate-vibid:334300370433": 13,
+      "gas:candidate-vibid:1001000217918": 204,
+      "special:against-all": 86
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=343003011&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=334300370871&region=0&sub_region=0&type=429",
@@ -8237,12 +8237,12 @@ export const duma_2003_uik_428_region_34_part_005 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Волков Николай Валентинович": 112,
-      "Елисеев Александр Николаевич": 24,
-      "Кузнецова Мария Анатольевна": 34,
-      "Лосев Александр Дмитриевич": 11,
-      "Плотников Владимир Николаевич": 246,
-      "Против всех": 86
+      "gas:candidate-vibid:1001000113925": 112,
+      "gas:candidate-vibid:1001000254934": 24,
+      "gas:candidate-vibid:1001000195065": 34,
+      "gas:candidate-vibid:334300370433": 11,
+      "gas:candidate-vibid:1001000217918": 246,
+      "special:against-all": 86
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=343003011&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=334300370871&region=0&sub_region=0&type=429",
@@ -8292,12 +8292,12 @@ export const duma_2003_uik_428_region_34_part_005 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Волков Николай Валентинович": 163,
-      "Елисеев Александр Николаевич": 43,
-      "Кузнецова Мария Анатольевна": 71,
-      "Лосев Александр Дмитриевич": 12,
-      "Плотников Владимир Николаевич": 386,
-      "Против всех": 127
+      "gas:candidate-vibid:1001000113925": 163,
+      "gas:candidate-vibid:1001000254934": 43,
+      "gas:candidate-vibid:1001000195065": 71,
+      "gas:candidate-vibid:334300370433": 12,
+      "gas:candidate-vibid:1001000217918": 386,
+      "special:against-all": 127
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=343003011&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=334300370871&region=0&sub_region=0&type=429",
@@ -8347,12 +8347,12 @@ export const duma_2003_uik_428_region_34_part_005 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Волков Николай Валентинович": 227,
-      "Елисеев Александр Николаевич": 34,
-      "Кузнецова Мария Анатольевна": 80,
-      "Лосев Александр Дмитриевич": 22,
-      "Плотников Владимир Николаевич": 370,
-      "Против всех": 137
+      "gas:candidate-vibid:1001000113925": 227,
+      "gas:candidate-vibid:1001000254934": 34,
+      "gas:candidate-vibid:1001000195065": 80,
+      "gas:candidate-vibid:334300370433": 22,
+      "gas:candidate-vibid:1001000217918": 370,
+      "special:against-all": 137
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=343003011&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=334300370871&region=0&sub_region=0&type=429",
@@ -8402,12 +8402,12 @@ export const duma_2003_uik_428_region_34_part_005 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Волков Николай Валентинович": 315,
-      "Елисеев Александр Николаевич": 9,
-      "Кузнецова Мария Анатольевна": 15,
-      "Лосев Александр Дмитриевич": 23,
-      "Плотников Владимир Николаевич": 921,
-      "Против всех": 97
+      "gas:candidate-vibid:1001000113925": 315,
+      "gas:candidate-vibid:1001000254934": 9,
+      "gas:candidate-vibid:1001000195065": 15,
+      "gas:candidate-vibid:334300370433": 23,
+      "gas:candidate-vibid:1001000217918": 921,
+      "special:against-all": 97
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=343003012&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=334300370872&region=0&sub_region=0&type=429",
@@ -8457,12 +8457,12 @@ export const duma_2003_uik_428_region_34_part_005 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Волков Николай Валентинович": 152,
-      "Елисеев Александр Николаевич": 6,
-      "Кузнецова Мария Анатольевна": 8,
-      "Лосев Александр Дмитриевич": 9,
-      "Плотников Владимир Николаевич": 334,
-      "Против всех": 33
+      "gas:candidate-vibid:1001000113925": 152,
+      "gas:candidate-vibid:1001000254934": 6,
+      "gas:candidate-vibid:1001000195065": 8,
+      "gas:candidate-vibid:334300370433": 9,
+      "gas:candidate-vibid:1001000217918": 334,
+      "special:against-all": 33
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=343003012&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=334300370872&region=0&sub_region=0&type=429",
@@ -8512,12 +8512,12 @@ export const duma_2003_uik_428_region_34_part_005 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Волков Николай Валентинович": 47,
-      "Елисеев Александр Николаевич": 1,
-      "Кузнецова Мария Анатольевна": 5,
-      "Лосев Александр Дмитриевич": 2,
-      "Плотников Владимир Николаевич": 91,
-      "Против всех": 3
+      "gas:candidate-vibid:1001000113925": 47,
+      "gas:candidate-vibid:1001000254934": 1,
+      "gas:candidate-vibid:1001000195065": 5,
+      "gas:candidate-vibid:334300370433": 2,
+      "gas:candidate-vibid:1001000217918": 91,
+      "special:against-all": 3
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=343003012&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=334300370872&region=0&sub_region=0&type=429",
@@ -8567,12 +8567,12 @@ export const duma_2003_uik_428_region_34_part_005 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Волков Николай Валентинович": 51,
-      "Елисеев Александр Николаевич": 0,
-      "Кузнецова Мария Анатольевна": 1,
-      "Лосев Александр Дмитриевич": 1,
-      "Плотников Владимир Николаевич": 128,
-      "Против всех": 15
+      "gas:candidate-vibid:1001000113925": 51,
+      "gas:candidate-vibid:1001000254934": 0,
+      "gas:candidate-vibid:1001000195065": 1,
+      "gas:candidate-vibid:334300370433": 1,
+      "gas:candidate-vibid:1001000217918": 128,
+      "special:against-all": 15
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=343003012&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=334300370872&region=0&sub_region=0&type=429",
@@ -8622,12 +8622,12 @@ export const duma_2003_uik_428_region_34_part_005 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Волков Николай Валентинович": 102,
-      "Елисеев Александр Николаевич": 2,
-      "Кузнецова Мария Анатольевна": 2,
-      "Лосев Александр Дмитриевич": 1,
-      "Плотников Владимир Николаевич": 146,
-      "Против всех": 19
+      "gas:candidate-vibid:1001000113925": 102,
+      "gas:candidate-vibid:1001000254934": 2,
+      "gas:candidate-vibid:1001000195065": 2,
+      "gas:candidate-vibid:334300370433": 1,
+      "gas:candidate-vibid:1001000217918": 146,
+      "special:against-all": 19
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=343003012&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=334300370872&region=0&sub_region=0&type=429",
@@ -8677,12 +8677,12 @@ export const duma_2003_uik_428_region_34_part_005 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Волков Николай Валентинович": 25,
-      "Елисеев Александр Николаевич": 3,
-      "Кузнецова Мария Анатольевна": 2,
-      "Лосев Александр Дмитриевич": 0,
-      "Плотников Владимир Николаевич": 95,
-      "Против всех": 9
+      "gas:candidate-vibid:1001000113925": 25,
+      "gas:candidate-vibid:1001000254934": 3,
+      "gas:candidate-vibid:1001000195065": 2,
+      "gas:candidate-vibid:334300370433": 0,
+      "gas:candidate-vibid:1001000217918": 95,
+      "special:against-all": 9
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=343003012&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=334300370872&region=0&sub_region=0&type=429",
@@ -8732,12 +8732,12 @@ export const duma_2003_uik_428_region_34_part_005 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Волков Николай Валентинович": 94,
-      "Елисеев Александр Николаевич": 2,
-      "Кузнецова Мария Анатольевна": 8,
-      "Лосев Александр Дмитриевич": 8,
-      "Плотников Владимир Николаевич": 173,
-      "Против всех": 27
+      "gas:candidate-vibid:1001000113925": 94,
+      "gas:candidate-vibid:1001000254934": 2,
+      "gas:candidate-vibid:1001000195065": 8,
+      "gas:candidate-vibid:334300370433": 8,
+      "gas:candidate-vibid:1001000217918": 173,
+      "special:against-all": 27
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=343003012&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=334300370872&region=0&sub_region=0&type=429",
@@ -8787,12 +8787,12 @@ export const duma_2003_uik_428_region_34_part_005 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Волков Николай Валентинович": 101,
-      "Елисеев Александр Николаевич": 3,
-      "Кузнецова Мария Анатольевна": 7,
-      "Лосев Александр Дмитриевич": 7,
-      "Плотников Владимир Николаевич": 198,
-      "Против всех": 20
+      "gas:candidate-vibid:1001000113925": 101,
+      "gas:candidate-vibid:1001000254934": 3,
+      "gas:candidate-vibid:1001000195065": 7,
+      "gas:candidate-vibid:334300370433": 7,
+      "gas:candidate-vibid:1001000217918": 198,
+      "special:against-all": 20
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=343003012&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=334300370872&region=0&sub_region=0&type=429",
@@ -8842,12 +8842,12 @@ export const duma_2003_uik_428_region_34_part_005 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Волков Николай Валентинович": 31,
-      "Елисеев Александр Николаевич": 1,
-      "Кузнецова Мария Анатольевна": 1,
-      "Лосев Александр Дмитриевич": 2,
-      "Плотников Владимир Николаевич": 14,
-      "Против всех": 3
+      "gas:candidate-vibid:1001000113925": 31,
+      "gas:candidate-vibid:1001000254934": 1,
+      "gas:candidate-vibid:1001000195065": 1,
+      "gas:candidate-vibid:334300370433": 2,
+      "gas:candidate-vibid:1001000217918": 14,
+      "special:against-all": 3
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=343003012&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=334300370872&region=0&sub_region=0&type=429",
@@ -8897,12 +8897,12 @@ export const duma_2003_uik_428_region_34_part_005 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Волков Николай Валентинович": 120,
-      "Елисеев Александр Николаевич": 2,
-      "Кузнецова Мария Анатольевна": 5,
-      "Лосев Александр Дмитриевич": 6,
-      "Плотников Владимир Николаевич": 157,
-      "Против всех": 21
+      "gas:candidate-vibid:1001000113925": 120,
+      "gas:candidate-vibid:1001000254934": 2,
+      "gas:candidate-vibid:1001000195065": 5,
+      "gas:candidate-vibid:334300370433": 6,
+      "gas:candidate-vibid:1001000217918": 157,
+      "special:against-all": 21
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=343003012&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=334300370872&region=0&sub_region=0&type=429",
@@ -8952,12 +8952,12 @@ export const duma_2003_uik_428_region_34_part_005 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Волков Николай Валентинович": 64,
-      "Елисеев Александр Николаевич": 2,
-      "Кузнецова Мария Анатольевна": 4,
-      "Лосев Александр Дмитриевич": 1,
-      "Плотников Владимир Николаевич": 230,
-      "Против всех": 10
+      "gas:candidate-vibid:1001000113925": 64,
+      "gas:candidate-vibid:1001000254934": 2,
+      "gas:candidate-vibid:1001000195065": 4,
+      "gas:candidate-vibid:334300370433": 1,
+      "gas:candidate-vibid:1001000217918": 230,
+      "special:against-all": 10
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=343003012&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=334300370872&region=0&sub_region=0&type=429",
@@ -9007,12 +9007,12 @@ export const duma_2003_uik_428_region_34_part_005 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Волков Николай Валентинович": 131,
-      "Елисеев Александр Николаевич": 5,
-      "Кузнецова Мария Анатольевна": 15,
-      "Лосев Александр Дмитриевич": 4,
-      "Плотников Владимир Николаевич": 205,
-      "Против всех": 40
+      "gas:candidate-vibid:1001000113925": 131,
+      "gas:candidate-vibid:1001000254934": 5,
+      "gas:candidate-vibid:1001000195065": 15,
+      "gas:candidate-vibid:334300370433": 4,
+      "gas:candidate-vibid:1001000217918": 205,
+      "special:against-all": 40
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=343003012&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=334300370872&region=0&sub_region=0&type=429",
@@ -9062,12 +9062,12 @@ export const duma_2003_uik_428_region_34_part_005 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Волков Николай Валентинович": 26,
-      "Елисеев Александр Николаевич": 1,
-      "Кузнецова Мария Анатольевна": 2,
-      "Лосев Александр Дмитриевич": 1,
-      "Плотников Владимир Николаевич": 74,
-      "Против всех": 7
+      "gas:candidate-vibid:1001000113925": 26,
+      "gas:candidate-vibid:1001000254934": 1,
+      "gas:candidate-vibid:1001000195065": 2,
+      "gas:candidate-vibid:334300370433": 1,
+      "gas:candidate-vibid:1001000217918": 74,
+      "special:against-all": 7
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=343003012&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=334300370872&region=0&sub_region=0&type=429",
@@ -9117,12 +9117,12 @@ export const duma_2003_uik_428_region_34_part_005 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Волков Николай Валентинович": 44,
-      "Елисеев Александр Николаевич": 1,
-      "Кузнецова Мария Анатольевна": 2,
-      "Лосев Александр Дмитриевич": 1,
-      "Плотников Владимир Николаевич": 49,
-      "Против всех": 9
+      "gas:candidate-vibid:1001000113925": 44,
+      "gas:candidate-vibid:1001000254934": 1,
+      "gas:candidate-vibid:1001000195065": 2,
+      "gas:candidate-vibid:334300370433": 1,
+      "gas:candidate-vibid:1001000217918": 49,
+      "special:against-all": 9
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=343003012&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=334300370872&region=0&sub_region=0&type=429",
@@ -9172,12 +9172,12 @@ export const duma_2003_uik_428_region_34_part_005 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Волков Николай Валентинович": 171,
-      "Елисеев Александр Николаевич": 7,
-      "Кузнецова Мария Анатольевна": 12,
-      "Лосев Александр Дмитриевич": 7,
-      "Плотников Владимир Николаевич": 326,
-      "Против всех": 44
+      "gas:candidate-vibid:1001000113925": 171,
+      "gas:candidate-vibid:1001000254934": 7,
+      "gas:candidate-vibid:1001000195065": 12,
+      "gas:candidate-vibid:334300370433": 7,
+      "gas:candidate-vibid:1001000217918": 326,
+      "special:against-all": 44
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=343003012&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=334300370872&region=0&sub_region=0&type=429",
@@ -9227,12 +9227,12 @@ export const duma_2003_uik_428_region_34_part_005 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Волков Николай Валентинович": 10,
-      "Елисеев Александр Николаевич": 0,
-      "Кузнецова Мария Анатольевна": 1,
-      "Лосев Александр Дмитриевич": 3,
-      "Плотников Владимир Николаевич": 50,
-      "Против всех": 4
+      "gas:candidate-vibid:1001000113925": 10,
+      "gas:candidate-vibid:1001000254934": 0,
+      "gas:candidate-vibid:1001000195065": 1,
+      "gas:candidate-vibid:334300370433": 3,
+      "gas:candidate-vibid:1001000217918": 50,
+      "special:against-all": 4
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=343003012&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=334300370872&region=0&sub_region=0&type=429",
@@ -9282,12 +9282,12 @@ export const duma_2003_uik_428_region_34_part_005 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Волков Николай Валентинович": 32,
-      "Елисеев Александр Николаевич": 1,
-      "Кузнецова Мария Анатольевна": 0,
-      "Лосев Александр Дмитриевич": 1,
-      "Плотников Владимир Николаевич": 66,
-      "Против всех": 8
+      "gas:candidate-vibid:1001000113925": 32,
+      "gas:candidate-vibid:1001000254934": 1,
+      "gas:candidate-vibid:1001000195065": 0,
+      "gas:candidate-vibid:334300370433": 1,
+      "gas:candidate-vibid:1001000217918": 66,
+      "special:against-all": 8
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=343003012&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=334300370872&region=0&sub_region=0&type=429",
@@ -9337,12 +9337,12 @@ export const duma_2003_uik_428_region_34_part_005 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Волков Николай Валентинович": 123,
-      "Елисеев Александр Николаевич": 13,
-      "Кузнецова Мария Анатольевна": 18,
-      "Лосев Александр Дмитриевич": 57,
-      "Плотников Владимир Николаевич": 328,
-      "Против всех": 49
+      "gas:candidate-vibid:1001000113925": 123,
+      "gas:candidate-vibid:1001000254934": 13,
+      "gas:candidate-vibid:1001000195065": 18,
+      "gas:candidate-vibid:334300370433": 57,
+      "gas:candidate-vibid:1001000217918": 328,
+      "special:against-all": 49
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=343003012&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=334300370872&region=0&sub_region=0&type=429",
@@ -9392,12 +9392,12 @@ export const duma_2003_uik_428_region_34_part_005 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Волков Николай Валентинович": 26,
-      "Елисеев Александр Николаевич": 1,
-      "Кузнецова Мария Анатольевна": 1,
-      "Лосев Александр Дмитриевич": 3,
-      "Плотников Владимир Николаевич": 61,
-      "Против всех": 8
+      "gas:candidate-vibid:1001000113925": 26,
+      "gas:candidate-vibid:1001000254934": 1,
+      "gas:candidate-vibid:1001000195065": 1,
+      "gas:candidate-vibid:334300370433": 3,
+      "gas:candidate-vibid:1001000217918": 61,
+      "special:against-all": 8
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=343003012&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=334300370872&region=0&sub_region=0&type=429",
@@ -9447,12 +9447,12 @@ export const duma_2003_uik_428_region_34_part_005 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Волков Николай Валентинович": 44,
-      "Елисеев Александр Николаевич": 2,
-      "Кузнецова Мария Анатольевна": 3,
-      "Лосев Александр Дмитриевич": 1,
-      "Плотников Владимир Николаевич": 140,
-      "Против всех": 27
+      "gas:candidate-vibid:1001000113925": 44,
+      "gas:candidate-vibid:1001000254934": 2,
+      "gas:candidate-vibid:1001000195065": 3,
+      "gas:candidate-vibid:334300370433": 1,
+      "gas:candidate-vibid:1001000217918": 140,
+      "special:against-all": 27
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=343003012&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=334300370872&region=0&sub_region=0&type=429",
@@ -9502,12 +9502,12 @@ export const duma_2003_uik_428_region_34_part_005 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Волков Николай Валентинович": 33,
-      "Елисеев Александр Николаевич": 1,
-      "Кузнецова Мария Анатольевна": 1,
-      "Лосев Александр Дмитриевич": 1,
-      "Плотников Владимир Николаевич": 162,
-      "Против всех": 15
+      "gas:candidate-vibid:1001000113925": 33,
+      "gas:candidate-vibid:1001000254934": 1,
+      "gas:candidate-vibid:1001000195065": 1,
+      "gas:candidate-vibid:334300370433": 1,
+      "gas:candidate-vibid:1001000217918": 162,
+      "special:against-all": 15
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=343003012&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=334300370872&region=0&sub_region=0&type=429",
@@ -9557,12 +9557,12 @@ export const duma_2003_uik_428_region_34_part_005 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Волков Николай Валентинович": 18,
-      "Елисеев Александр Николаевич": 0,
-      "Кузнецова Мария Анатольевна": 2,
-      "Лосев Александр Дмитриевич": 1,
-      "Плотников Владимир Николаевич": 63,
-      "Против всех": 6
+      "gas:candidate-vibid:1001000113925": 18,
+      "gas:candidate-vibid:1001000254934": 0,
+      "gas:candidate-vibid:1001000195065": 2,
+      "gas:candidate-vibid:334300370433": 1,
+      "gas:candidate-vibid:1001000217918": 63,
+      "special:against-all": 6
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=343003012&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=334300370872&region=0&sub_region=0&type=429",
@@ -9612,12 +9612,12 @@ export const duma_2003_uik_428_region_34_part_005 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Волков Николай Валентинович": 127,
-      "Елисеев Александр Николаевич": 7,
-      "Кузнецова Мария Анатольевна": 12,
-      "Лосев Александр Дмитриевич": 1,
-      "Плотников Владимир Николаевич": 285,
-      "Против всех": 30
+      "gas:candidate-vibid:1001000113925": 127,
+      "gas:candidate-vibid:1001000254934": 7,
+      "gas:candidate-vibid:1001000195065": 12,
+      "gas:candidate-vibid:334300370433": 1,
+      "gas:candidate-vibid:1001000217918": 285,
+      "special:against-all": 30
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=343003012&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=334300370872&region=0&sub_region=0&type=429",
@@ -9667,12 +9667,12 @@ export const duma_2003_uik_428_region_34_part_005 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Волков Николай Валентинович": 16,
-      "Елисеев Александр Николаевич": 0,
-      "Кузнецова Мария Анатольевна": 1,
-      "Лосев Александр Дмитриевич": 2,
-      "Плотников Владимир Николаевич": 62,
-      "Против всех": 7
+      "gas:candidate-vibid:1001000113925": 16,
+      "gas:candidate-vibid:1001000254934": 0,
+      "gas:candidate-vibid:1001000195065": 1,
+      "gas:candidate-vibid:334300370433": 2,
+      "gas:candidate-vibid:1001000217918": 62,
+      "special:against-all": 7
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=343003012&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=334300370872&region=0&sub_region=0&type=429",
@@ -9722,12 +9722,12 @@ export const duma_2003_uik_428_region_34_part_005 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Волков Николай Валентинович": 106,
-      "Елисеев Александр Николаевич": 3,
-      "Кузнецова Мария Анатольевна": 9,
-      "Лосев Александр Дмитриевич": 4,
-      "Плотников Владимир Николаевич": 215,
-      "Против всех": 63
+      "gas:candidate-vibid:1001000113925": 106,
+      "gas:candidate-vibid:1001000254934": 3,
+      "gas:candidate-vibid:1001000195065": 9,
+      "gas:candidate-vibid:334300370433": 4,
+      "gas:candidate-vibid:1001000217918": 215,
+      "special:against-all": 63
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=343003012&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=334300370872&region=0&sub_region=0&type=429",
@@ -9777,12 +9777,12 @@ export const duma_2003_uik_428_region_34_part_005 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Волков Николай Валентинович": 19,
-      "Елисеев Александр Николаевич": 1,
-      "Кузнецова Мария Анатольевна": 3,
-      "Лосев Александр Дмитриевич": 0,
-      "Плотников Владимир Николаевич": 25,
-      "Против всех": 2
+      "gas:candidate-vibid:1001000113925": 19,
+      "gas:candidate-vibid:1001000254934": 1,
+      "gas:candidate-vibid:1001000195065": 3,
+      "gas:candidate-vibid:334300370433": 0,
+      "gas:candidate-vibid:1001000217918": 25,
+      "special:against-all": 2
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=343003012&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=334300370872&region=0&sub_region=0&type=429",
@@ -9832,12 +9832,12 @@ export const duma_2003_uik_428_region_34_part_005 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Волков Николай Валентинович": 66,
-      "Елисеев Александр Николаевич": 0,
-      "Кузнецова Мария Анатольевна": 13,
-      "Лосев Александр Дмитриевич": 3,
-      "Плотников Владимир Николаевич": 447,
-      "Против всех": 21
+      "gas:candidate-vibid:1001000113925": 66,
+      "gas:candidate-vibid:1001000254934": 0,
+      "gas:candidate-vibid:1001000195065": 13,
+      "gas:candidate-vibid:334300370433": 3,
+      "gas:candidate-vibid:1001000217918": 447,
+      "special:against-all": 21
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=343003012&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=334300370872&region=0&sub_region=0&type=429",
@@ -9887,12 +9887,12 @@ export const duma_2003_uik_428_region_34_part_005 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Волков Николай Валентинович": 227,
-      "Елисеев Александр Николаевич": 8,
-      "Кузнецова Мария Анатольевна": 29,
-      "Лосев Александр Дмитриевич": 8,
-      "Плотников Владимир Николаевич": 392,
-      "Против всех": 85
+      "gas:candidate-vibid:1001000113925": 227,
+      "gas:candidate-vibid:1001000254934": 8,
+      "gas:candidate-vibid:1001000195065": 29,
+      "gas:candidate-vibid:334300370433": 8,
+      "gas:candidate-vibid:1001000217918": 392,
+      "special:against-all": 85
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=343003013&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=334300370873&region=0&sub_region=0&type=429",
@@ -9942,12 +9942,12 @@ export const duma_2003_uik_428_region_34_part_005 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Волков Николай Валентинович": 158,
-      "Елисеев Александр Николаевич": 11,
-      "Кузнецова Мария Анатольевна": 35,
-      "Лосев Александр Дмитриевич": 10,
-      "Плотников Владимир Николаевич": 403,
-      "Против всех": 66
+      "gas:candidate-vibid:1001000113925": 158,
+      "gas:candidate-vibid:1001000254934": 11,
+      "gas:candidate-vibid:1001000195065": 35,
+      "gas:candidate-vibid:334300370433": 10,
+      "gas:candidate-vibid:1001000217918": 403,
+      "special:against-all": 66
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=343003013&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=334300370873&region=0&sub_region=0&type=429",
@@ -9997,12 +9997,12 @@ export const duma_2003_uik_428_region_34_part_005 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Волков Николай Валентинович": 150,
-      "Елисеев Александр Николаевич": 9,
-      "Кузнецова Мария Анатольевна": 20,
-      "Лосев Александр Дмитриевич": 9,
-      "Плотников Владимир Николаевич": 291,
-      "Против всех": 64
+      "gas:candidate-vibid:1001000113925": 150,
+      "gas:candidate-vibid:1001000254934": 9,
+      "gas:candidate-vibid:1001000195065": 20,
+      "gas:candidate-vibid:334300370433": 9,
+      "gas:candidate-vibid:1001000217918": 291,
+      "special:against-all": 64
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=343003013&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=334300370873&region=0&sub_region=0&type=429",
@@ -10052,12 +10052,12 @@ export const duma_2003_uik_428_region_34_part_005 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Волков Николай Валентинович": 143,
-      "Елисеев Александр Николаевич": 6,
-      "Кузнецова Мария Анатольевна": 22,
-      "Лосев Александр Дмитриевич": 4,
-      "Плотников Владимир Николаевич": 243,
-      "Против всех": 67
+      "gas:candidate-vibid:1001000113925": 143,
+      "gas:candidate-vibid:1001000254934": 6,
+      "gas:candidate-vibid:1001000195065": 22,
+      "gas:candidate-vibid:334300370433": 4,
+      "gas:candidate-vibid:1001000217918": 243,
+      "special:against-all": 67
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=343003013&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=334300370873&region=0&sub_region=0&type=429",
@@ -10107,12 +10107,12 @@ export const duma_2003_uik_428_region_34_part_005 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Волков Николай Валентинович": 158,
-      "Елисеев Александр Николаевич": 6,
-      "Кузнецова Мария Анатольевна": 17,
-      "Лосев Александр Дмитриевич": 7,
-      "Плотников Владимир Николаевич": 416,
-      "Против всех": 74
+      "gas:candidate-vibid:1001000113925": 158,
+      "gas:candidate-vibid:1001000254934": 6,
+      "gas:candidate-vibid:1001000195065": 17,
+      "gas:candidate-vibid:334300370433": 7,
+      "gas:candidate-vibid:1001000217918": 416,
+      "special:against-all": 74
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=343003013&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=334300370873&region=0&sub_region=0&type=429",
@@ -10162,12 +10162,12 @@ export const duma_2003_uik_428_region_34_part_005 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Волков Николай Валентинович": 181,
-      "Елисеев Александр Николаевич": 9,
-      "Кузнецова Мария Анатольевна": 27,
-      "Лосев Александр Дмитриевич": 5,
-      "Плотников Владимир Николаевич": 363,
-      "Против всех": 85
+      "gas:candidate-vibid:1001000113925": 181,
+      "gas:candidate-vibid:1001000254934": 9,
+      "gas:candidate-vibid:1001000195065": 27,
+      "gas:candidate-vibid:334300370433": 5,
+      "gas:candidate-vibid:1001000217918": 363,
+      "special:against-all": 85
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=343003013&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=334300370873&region=0&sub_region=0&type=429",
@@ -10217,12 +10217,12 @@ export const duma_2003_uik_428_region_34_part_005 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Волков Николай Валентинович": 222,
-      "Елисеев Александр Николаевич": 13,
-      "Кузнецова Мария Анатольевна": 34,
-      "Лосев Александр Дмитриевич": 22,
-      "Плотников Владимир Николаевич": 486,
-      "Против всех": 95
+      "gas:candidate-vibid:1001000113925": 222,
+      "gas:candidate-vibid:1001000254934": 13,
+      "gas:candidate-vibid:1001000195065": 34,
+      "gas:candidate-vibid:334300370433": 22,
+      "gas:candidate-vibid:1001000217918": 486,
+      "special:against-all": 95
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=343003013&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=334300370873&region=0&sub_region=0&type=429",
@@ -10272,12 +10272,12 @@ export const duma_2003_uik_428_region_34_part_005 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Волков Николай Валентинович": 182,
-      "Елисеев Александр Николаевич": 8,
-      "Кузнецова Мария Анатольевна": 16,
-      "Лосев Александр Дмитриевич": 13,
-      "Плотников Владимир Николаевич": 525,
-      "Против всех": 96
+      "gas:candidate-vibid:1001000113925": 182,
+      "gas:candidate-vibid:1001000254934": 8,
+      "gas:candidate-vibid:1001000195065": 16,
+      "gas:candidate-vibid:334300370433": 13,
+      "gas:candidate-vibid:1001000217918": 525,
+      "special:against-all": 96
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=343003013&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=334300370873&region=0&sub_region=0&type=429",
@@ -10327,12 +10327,12 @@ export const duma_2003_uik_428_region_34_part_005 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Волков Николай Валентинович": 126,
-      "Елисеев Александр Николаевич": 10,
-      "Кузнецова Мария Анатольевна": 20,
-      "Лосев Александр Дмитриевич": 7,
-      "Плотников Владимир Николаевич": 262,
-      "Против всех": 53
+      "gas:candidate-vibid:1001000113925": 126,
+      "gas:candidate-vibid:1001000254934": 10,
+      "gas:candidate-vibid:1001000195065": 20,
+      "gas:candidate-vibid:334300370433": 7,
+      "gas:candidate-vibid:1001000217918": 262,
+      "special:against-all": 53
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=343003013&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=334300370873&region=0&sub_region=0&type=429",
@@ -10382,12 +10382,12 @@ export const duma_2003_uik_428_region_34_part_005 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Волков Николай Валентинович": 295,
-      "Елисеев Александр Николаевич": 9,
-      "Кузнецова Мария Анатольевна": 26,
-      "Лосев Александр Дмитриевич": 18,
-      "Плотников Владимир Николаевич": 612,
-      "Против всех": 119
+      "gas:candidate-vibid:1001000113925": 295,
+      "gas:candidate-vibid:1001000254934": 9,
+      "gas:candidate-vibid:1001000195065": 26,
+      "gas:candidate-vibid:334300370433": 18,
+      "gas:candidate-vibid:1001000217918": 612,
+      "special:against-all": 119
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=343003013&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=334300370873&region=0&sub_region=0&type=429",
@@ -10437,12 +10437,12 @@ export const duma_2003_uik_428_region_34_part_005 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Волков Николай Валентинович": 118,
-      "Елисеев Александр Николаевич": 5,
-      "Кузнецова Мария Анатольевна": 9,
-      "Лосев Александр Дмитриевич": 5,
-      "Плотников Владимир Николаевич": 319,
-      "Против всех": 42
+      "gas:candidate-vibid:1001000113925": 118,
+      "gas:candidate-vibid:1001000254934": 5,
+      "gas:candidate-vibid:1001000195065": 9,
+      "gas:candidate-vibid:334300370433": 5,
+      "gas:candidate-vibid:1001000217918": 319,
+      "special:against-all": 42
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=343003013&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=334300370873&region=0&sub_region=0&type=429",
@@ -10492,12 +10492,12 @@ export const duma_2003_uik_428_region_34_part_005 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Волков Николай Валентинович": 30,
-      "Елисеев Александр Николаевич": 0,
-      "Кузнецова Мария Анатольевна": 2,
-      "Лосев Александр Дмитриевич": 3,
-      "Плотников Владимир Николаевич": 23,
-      "Против всех": 7
+      "gas:candidate-vibid:1001000113925": 30,
+      "gas:candidate-vibid:1001000254934": 0,
+      "gas:candidate-vibid:1001000195065": 2,
+      "gas:candidate-vibid:334300370433": 3,
+      "gas:candidate-vibid:1001000217918": 23,
+      "special:against-all": 7
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=343003013&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=334300370873&region=0&sub_region=0&type=429",
@@ -10547,12 +10547,12 @@ export const duma_2003_uik_428_region_34_part_005 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Волков Николай Валентинович": 38,
-      "Елисеев Александр Николаевич": 1,
-      "Кузнецова Мария Анатольевна": 5,
-      "Лосев Александр Дмитриевич": 1,
-      "Плотников Владимир Николаевич": 49,
-      "Против всех": 8
+      "gas:candidate-vibid:1001000113925": 38,
+      "gas:candidate-vibid:1001000254934": 1,
+      "gas:candidate-vibid:1001000195065": 5,
+      "gas:candidate-vibid:334300370433": 1,
+      "gas:candidate-vibid:1001000217918": 49,
+      "special:against-all": 8
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=343003013&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=334300370873&region=0&sub_region=0&type=429",
@@ -10602,12 +10602,12 @@ export const duma_2003_uik_428_region_34_part_005 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Волков Николай Валентинович": 66,
-      "Елисеев Александр Николаевич": 2,
-      "Кузнецова Мария Анатольевна": 6,
-      "Лосев Александр Дмитриевич": 3,
-      "Плотников Владимир Николаевич": 210,
-      "Против всех": 33
+      "gas:candidate-vibid:1001000113925": 66,
+      "gas:candidate-vibid:1001000254934": 2,
+      "gas:candidate-vibid:1001000195065": 6,
+      "gas:candidate-vibid:334300370433": 3,
+      "gas:candidate-vibid:1001000217918": 210,
+      "special:against-all": 33
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=343003013&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=334300370873&region=0&sub_region=0&type=429",
@@ -10657,12 +10657,12 @@ export const duma_2003_uik_428_region_34_part_005 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Волков Николай Валентинович": 46,
-      "Елисеев Александр Николаевич": 0,
-      "Кузнецова Мария Анатольевна": 2,
-      "Лосев Александр Дмитриевич": 0,
-      "Плотников Владимир Николаевич": 70,
-      "Против всех": 20
+      "gas:candidate-vibid:1001000113925": 46,
+      "gas:candidate-vibid:1001000254934": 0,
+      "gas:candidate-vibid:1001000195065": 2,
+      "gas:candidate-vibid:334300370433": 0,
+      "gas:candidate-vibid:1001000217918": 70,
+      "special:against-all": 20
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=343003013&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=334300370873&region=0&sub_region=0&type=429",
@@ -10712,12 +10712,12 @@ export const duma_2003_uik_428_region_34_part_005 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Волков Николай Валентинович": 17,
-      "Елисеев Александр Николаевич": 2,
-      "Кузнецова Мария Анатольевна": 1,
-      "Лосев Александр Дмитриевич": 0,
-      "Плотников Владимир Николаевич": 64,
-      "Против всех": 13
+      "gas:candidate-vibid:1001000113925": 17,
+      "gas:candidate-vibid:1001000254934": 2,
+      "gas:candidate-vibid:1001000195065": 1,
+      "gas:candidate-vibid:334300370433": 0,
+      "gas:candidate-vibid:1001000217918": 64,
+      "special:against-all": 13
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=343003013&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=334300370873&region=0&sub_region=0&type=429",
@@ -10767,12 +10767,12 @@ export const duma_2003_uik_428_region_34_part_005 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Волков Николай Валентинович": 12,
-      "Елисеев Александр Николаевич": 0,
-      "Кузнецова Мария Анатольевна": 8,
-      "Лосев Александр Дмитриевич": 0,
-      "Плотников Владимир Николаевич": 42,
-      "Против всех": 13
+      "gas:candidate-vibid:1001000113925": 12,
+      "gas:candidate-vibid:1001000254934": 0,
+      "gas:candidate-vibid:1001000195065": 8,
+      "gas:candidate-vibid:334300370433": 0,
+      "gas:candidate-vibid:1001000217918": 42,
+      "special:against-all": 13
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=343003013&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=334300370873&region=0&sub_region=0&type=429",
@@ -10822,12 +10822,12 @@ export const duma_2003_uik_428_region_34_part_005 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Волков Николай Валентинович": 77,
-      "Елисеев Александр Николаевич": 3,
-      "Кузнецова Мария Анатольевна": 8,
-      "Лосев Александр Дмитриевич": 1,
-      "Плотников Владимир Николаевич": 125,
-      "Против всех": 16
+      "gas:candidate-vibid:1001000113925": 77,
+      "gas:candidate-vibid:1001000254934": 3,
+      "gas:candidate-vibid:1001000195065": 8,
+      "gas:candidate-vibid:334300370433": 1,
+      "gas:candidate-vibid:1001000217918": 125,
+      "special:against-all": 16
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=343003013&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=334300370873&region=0&sub_region=0&type=429",
@@ -10877,12 +10877,12 @@ export const duma_2003_uik_428_region_34_part_005 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Волков Николай Валентинович": 53,
-      "Елисеев Александр Николаевич": 3,
-      "Кузнецова Мария Анатольевна": 4,
-      "Лосев Александр Дмитриевич": 2,
-      "Плотников Владимир Николаевич": 57,
-      "Против всех": 10
+      "gas:candidate-vibid:1001000113925": 53,
+      "gas:candidate-vibid:1001000254934": 3,
+      "gas:candidate-vibid:1001000195065": 4,
+      "gas:candidate-vibid:334300370433": 2,
+      "gas:candidate-vibid:1001000217918": 57,
+      "special:against-all": 10
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=343003013&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=334300370873&region=0&sub_region=0&type=429",
@@ -10932,12 +10932,12 @@ export const duma_2003_uik_428_region_34_part_005 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Волков Николай Валентинович": 97,
-      "Елисеев Александр Николаевич": 2,
-      "Кузнецова Мария Анатольевна": 6,
-      "Лосев Александр Дмитриевич": 0,
-      "Плотников Владимир Николаевич": 91,
-      "Против всех": 13
+      "gas:candidate-vibid:1001000113925": 97,
+      "gas:candidate-vibid:1001000254934": 2,
+      "gas:candidate-vibid:1001000195065": 6,
+      "gas:candidate-vibid:334300370433": 0,
+      "gas:candidate-vibid:1001000217918": 91,
+      "special:against-all": 13
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=343003013&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=334300370873&region=0&sub_region=0&type=429",
@@ -10987,12 +10987,12 @@ export const duma_2003_uik_428_region_34_part_005 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Волков Николай Валентинович": 83,
-      "Елисеев Александр Николаевич": 3,
-      "Кузнецова Мария Анатольевна": 26,
-      "Лосев Александр Дмитриевич": 2,
-      "Плотников Владимир Николаевич": 301,
-      "Против всех": 35
+      "gas:candidate-vibid:1001000113925": 83,
+      "gas:candidate-vibid:1001000254934": 3,
+      "gas:candidate-vibid:1001000195065": 26,
+      "gas:candidate-vibid:334300370433": 2,
+      "gas:candidate-vibid:1001000217918": 301,
+      "special:against-all": 35
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=343003013&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=334300370873&region=0&sub_region=0&type=429",
@@ -11042,12 +11042,12 @@ export const duma_2003_uik_428_region_34_part_005 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Волков Николай Валентинович": 28,
-      "Елисеев Александр Николаевич": 0,
-      "Кузнецова Мария Анатольевна": 2,
-      "Лосев Александр Дмитриевич": 2,
-      "Плотников Владимир Николаевич": 112,
-      "Против всех": 20
+      "gas:candidate-vibid:1001000113925": 28,
+      "gas:candidate-vibid:1001000254934": 0,
+      "gas:candidate-vibid:1001000195065": 2,
+      "gas:candidate-vibid:334300370433": 2,
+      "gas:candidate-vibid:1001000217918": 112,
+      "special:against-all": 20
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=343003013&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=334300370873&region=0&sub_region=0&type=429",
@@ -11097,12 +11097,12 @@ export const duma_2003_uik_428_region_34_part_005 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Волков Николай Валентинович": 129,
-      "Елисеев Александр Николаевич": 9,
-      "Кузнецова Мария Анатольевна": 6,
-      "Лосев Александр Дмитриевич": 6,
-      "Плотников Владимир Николаевич": 317,
-      "Против всех": 43
+      "gas:candidate-vibid:1001000113925": 129,
+      "gas:candidate-vibid:1001000254934": 9,
+      "gas:candidate-vibid:1001000195065": 6,
+      "gas:candidate-vibid:334300370433": 6,
+      "gas:candidate-vibid:1001000217918": 317,
+      "special:against-all": 43
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=343003013&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=334300370873&region=0&sub_region=0&type=429",
@@ -11152,12 +11152,12 @@ export const duma_2003_uik_428_region_34_part_005 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Волков Николай Валентинович": 52,
-      "Елисеев Александр Николаевич": 0,
-      "Кузнецова Мария Анатольевна": 6,
-      "Лосев Александр Дмитриевич": 3,
-      "Плотников Владимир Николаевич": 81,
-      "Против всех": 2
+      "gas:candidate-vibid:1001000113925": 52,
+      "gas:candidate-vibid:1001000254934": 0,
+      "gas:candidate-vibid:1001000195065": 6,
+      "gas:candidate-vibid:334300370433": 3,
+      "gas:candidate-vibid:1001000217918": 81,
+      "special:against-all": 2
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=343003013&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=334300370873&region=0&sub_region=0&type=429",
@@ -11207,12 +11207,12 @@ export const duma_2003_uik_428_region_34_part_005 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Волков Николай Валентинович": 83,
-      "Елисеев Александр Николаевич": 0,
-      "Кузнецова Мария Анатольевна": 3,
-      "Лосев Александр Дмитриевич": 0,
-      "Плотников Владимир Николаевич": 74,
-      "Против всех": 18
+      "gas:candidate-vibid:1001000113925": 83,
+      "gas:candidate-vibid:1001000254934": 0,
+      "gas:candidate-vibid:1001000195065": 3,
+      "gas:candidate-vibid:334300370433": 0,
+      "gas:candidate-vibid:1001000217918": 74,
+      "special:against-all": 18
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=343003013&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=334300370873&region=0&sub_region=0&type=429",
@@ -11262,12 +11262,12 @@ export const duma_2003_uik_428_region_34_part_005 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Волков Николай Валентинович": 51,
-      "Елисеев Александр Николаевич": 1,
-      "Кузнецова Мария Анатольевна": 9,
-      "Лосев Александр Дмитриевич": 2,
-      "Плотников Владимир Николаевич": 64,
-      "Против всех": 18
+      "gas:candidate-vibid:1001000113925": 51,
+      "gas:candidate-vibid:1001000254934": 1,
+      "gas:candidate-vibid:1001000195065": 9,
+      "gas:candidate-vibid:334300370433": 2,
+      "gas:candidate-vibid:1001000217918": 64,
+      "special:against-all": 18
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=343003013&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=334300370873&region=0&sub_region=0&type=429",
@@ -11317,12 +11317,12 @@ export const duma_2003_uik_428_region_34_part_005 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Волков Николай Валентинович": 81,
-      "Елисеев Александр Николаевич": 3,
-      "Кузнецова Мария Анатольевна": 4,
-      "Лосев Александр Дмитриевич": 1,
-      "Плотников Владимир Николаевич": 206,
-      "Против всех": 23
+      "gas:candidate-vibid:1001000113925": 81,
+      "gas:candidate-vibid:1001000254934": 3,
+      "gas:candidate-vibid:1001000195065": 4,
+      "gas:candidate-vibid:334300370433": 1,
+      "gas:candidate-vibid:1001000217918": 206,
+      "special:against-all": 23
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=343003013&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=334300370873&region=0&sub_region=0&type=429",
@@ -11372,12 +11372,12 @@ export const duma_2003_uik_428_region_34_part_005 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Волков Николай Валентинович": 59,
-      "Елисеев Александр Николаевич": 6,
-      "Кузнецова Мария Анатольевна": 4,
-      "Лосев Александр Дмитриевич": 3,
-      "Плотников Владимир Николаевич": 116,
-      "Против всех": 16
+      "gas:candidate-vibid:1001000113925": 59,
+      "gas:candidate-vibid:1001000254934": 6,
+      "gas:candidate-vibid:1001000195065": 4,
+      "gas:candidate-vibid:334300370433": 3,
+      "gas:candidate-vibid:1001000217918": 116,
+      "special:against-all": 16
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=343003013&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=334300370873&region=0&sub_region=0&type=429",
@@ -11427,12 +11427,12 @@ export const duma_2003_uik_428_region_34_part_005 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Волков Николай Валентинович": 82,
-      "Елисеев Александр Николаевич": 7,
-      "Кузнецова Мария Анатольевна": 23,
-      "Лосев Александр Дмитриевич": 1,
-      "Плотников Владимир Николаевич": 176,
-      "Против всех": 44
+      "gas:candidate-vibid:1001000113925": 82,
+      "gas:candidate-vibid:1001000254934": 7,
+      "gas:candidate-vibid:1001000195065": 23,
+      "gas:candidate-vibid:334300370433": 1,
+      "gas:candidate-vibid:1001000217918": 176,
+      "special:against-all": 44
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=343003013&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=334300370873&region=0&sub_region=0&type=429",
@@ -11482,12 +11482,12 @@ export const duma_2003_uik_428_region_34_part_005 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Волков Николай Валентинович": 78,
-      "Елисеев Александр Николаевич": 2,
-      "Кузнецова Мария Анатольевна": 8,
-      "Лосев Александр Дмитриевич": 2,
-      "Плотников Владимир Николаевич": 82,
-      "Против всех": 15
+      "gas:candidate-vibid:1001000113925": 78,
+      "gas:candidate-vibid:1001000254934": 2,
+      "gas:candidate-vibid:1001000195065": 8,
+      "gas:candidate-vibid:334300370433": 2,
+      "gas:candidate-vibid:1001000217918": 82,
+      "special:against-all": 15
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=343003013&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=334300370873&region=0&sub_region=0&type=429",
@@ -11537,12 +11537,12 @@ export const duma_2003_uik_428_region_34_part_005 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Волков Николай Валентинович": 13,
-      "Елисеев Александр Николаевич": 1,
-      "Кузнецова Мария Анатольевна": 3,
-      "Лосев Александр Дмитриевич": 0,
-      "Плотников Владимир Николаевич": 26,
-      "Против всех": 3
+      "gas:candidate-vibid:1001000113925": 13,
+      "gas:candidate-vibid:1001000254934": 1,
+      "gas:candidate-vibid:1001000195065": 3,
+      "gas:candidate-vibid:334300370433": 0,
+      "gas:candidate-vibid:1001000217918": 26,
+      "special:against-all": 3
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=343003013&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=334300370873&region=0&sub_region=0&type=429",
@@ -11592,12 +11592,12 @@ export const duma_2003_uik_428_region_34_part_005 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Волков Николай Валентинович": 219,
-      "Елисеев Александр Николаевич": 12,
-      "Кузнецова Мария Анатольевна": 15,
-      "Лосев Александр Дмитриевич": 9,
-      "Плотников Владимир Николаевич": 500,
-      "Против всех": 39
+      "gas:candidate-vibid:1001000113925": 219,
+      "gas:candidate-vibid:1001000254934": 12,
+      "gas:candidate-vibid:1001000195065": 15,
+      "gas:candidate-vibid:334300370433": 9,
+      "gas:candidate-vibid:1001000217918": 500,
+      "special:against-all": 39
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=343003013&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=334300370873&region=0&sub_region=0&type=429",
@@ -11647,12 +11647,12 @@ export const duma_2003_uik_428_region_34_part_005 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Волков Николай Валентинович": 72,
-      "Елисеев Александр Николаевич": 2,
-      "Кузнецова Мария Анатольевна": 10,
-      "Лосев Александр Дмитриевич": 6,
-      "Плотников Владимир Николаевич": 80,
-      "Против всех": 28
+      "gas:candidate-vibid:1001000113925": 72,
+      "gas:candidate-vibid:1001000254934": 2,
+      "gas:candidate-vibid:1001000195065": 10,
+      "gas:candidate-vibid:334300370433": 6,
+      "gas:candidate-vibid:1001000217918": 80,
+      "special:against-all": 28
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=343003013&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=334300370873&region=0&sub_region=0&type=429",
@@ -11702,12 +11702,12 @@ export const duma_2003_uik_428_region_34_part_005 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Волков Николай Валентинович": 19,
-      "Елисеев Александр Николаевич": 0,
-      "Кузнецова Мария Анатольевна": 3,
-      "Лосев Александр Дмитриевич": 0,
-      "Плотников Владимир Николаевич": 25,
-      "Против всех": 8
+      "gas:candidate-vibid:1001000113925": 19,
+      "gas:candidate-vibid:1001000254934": 0,
+      "gas:candidate-vibid:1001000195065": 3,
+      "gas:candidate-vibid:334300370433": 0,
+      "gas:candidate-vibid:1001000217918": 25,
+      "special:against-all": 8
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=343003013&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=334300370873&region=0&sub_region=0&type=429",
@@ -11757,12 +11757,12 @@ export const duma_2003_uik_428_region_34_part_005 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Волков Николай Валентинович": 30,
-      "Елисеев Александр Николаевич": 2,
-      "Кузнецова Мария Анатольевна": 13,
-      "Лосев Александр Дмитриевич": 0,
-      "Плотников Владимир Николаевич": 44,
-      "Против всех": 7
+      "gas:candidate-vibid:1001000113925": 30,
+      "gas:candidate-vibid:1001000254934": 2,
+      "gas:candidate-vibid:1001000195065": 13,
+      "gas:candidate-vibid:334300370433": 0,
+      "gas:candidate-vibid:1001000217918": 44,
+      "special:against-all": 7
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=343003013&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=334300370873&region=0&sub_region=0&type=429",
@@ -11812,12 +11812,12 @@ export const duma_2003_uik_428_region_34_part_005 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Волков Николай Валентинович": 68,
-      "Елисеев Александр Николаевич": 10,
-      "Кузнецова Мария Анатольевна": 17,
-      "Лосев Александр Дмитриевич": 4,
-      "Плотников Владимир Николаевич": 161,
-      "Против всех": 28
+      "gas:candidate-vibid:1001000113925": 68,
+      "gas:candidate-vibid:1001000254934": 10,
+      "gas:candidate-vibid:1001000195065": 17,
+      "gas:candidate-vibid:334300370433": 4,
+      "gas:candidate-vibid:1001000217918": 161,
+      "special:against-all": 28
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=343003013&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=334300370873&region=0&sub_region=0&type=429",
@@ -11867,12 +11867,12 @@ export const duma_2003_uik_428_region_34_part_005 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Волков Николай Валентинович": 58,
-      "Елисеев Александр Николаевич": 2,
-      "Кузнецова Мария Анатольевна": 23,
-      "Лосев Александр Дмитриевич": 3,
-      "Плотников Владимир Николаевич": 218,
-      "Против всех": 26
+      "gas:candidate-vibid:1001000113925": 58,
+      "gas:candidate-vibid:1001000254934": 2,
+      "gas:candidate-vibid:1001000195065": 23,
+      "gas:candidate-vibid:334300370433": 3,
+      "gas:candidate-vibid:1001000217918": 218,
+      "special:against-all": 26
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=343003013&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=334300370873&region=0&sub_region=0&type=429",
@@ -11922,12 +11922,12 @@ export const duma_2003_uik_428_region_34_part_005 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Волков Николай Валентинович": 108,
-      "Елисеев Александр Николаевич": 8,
-      "Кузнецова Мария Анатольевна": 16,
-      "Лосев Александр Дмитриевич": 3,
-      "Плотников Владимир Николаевич": 300,
-      "Против всех": 45
+      "gas:candidate-vibid:1001000113925": 108,
+      "gas:candidate-vibid:1001000254934": 8,
+      "gas:candidate-vibid:1001000195065": 16,
+      "gas:candidate-vibid:334300370433": 3,
+      "gas:candidate-vibid:1001000217918": 300,
+      "special:against-all": 45
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=343003013&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=334300370873&region=0&sub_region=0&type=429",
@@ -11977,12 +11977,12 @@ export const duma_2003_uik_428_region_34_part_005 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Волков Николай Валентинович": 28,
-      "Елисеев Александр Николаевич": 0,
-      "Кузнецова Мария Анатольевна": 4,
-      "Лосев Александр Дмитриевич": 1,
-      "Плотников Владимир Николаевич": 57,
-      "Против всех": 11
+      "gas:candidate-vibid:1001000113925": 28,
+      "gas:candidate-vibid:1001000254934": 0,
+      "gas:candidate-vibid:1001000195065": 4,
+      "gas:candidate-vibid:334300370433": 1,
+      "gas:candidate-vibid:1001000217918": 57,
+      "special:against-all": 11
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=343003013&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=334300370873&region=0&sub_region=0&type=429",
@@ -12032,12 +12032,12 @@ export const duma_2003_uik_428_region_34_part_005 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Волков Николай Валентинович": 18,
-      "Елисеев Александр Николаевич": 0,
-      "Кузнецова Мария Анатольевна": 2,
-      "Лосев Александр Дмитриевич": 0,
-      "Плотников Владимир Николаевич": 111,
-      "Против всех": 4
+      "gas:candidate-vibid:1001000113925": 18,
+      "gas:candidate-vibid:1001000254934": 0,
+      "gas:candidate-vibid:1001000195065": 2,
+      "gas:candidate-vibid:334300370433": 0,
+      "gas:candidate-vibid:1001000217918": 111,
+      "special:against-all": 4
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=343003013&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=334300370873&region=0&sub_region=0&type=429",
@@ -12087,12 +12087,12 @@ export const duma_2003_uik_428_region_34_part_005 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Волков Николай Валентинович": 45,
-      "Елисеев Александр Николаевич": 5,
-      "Кузнецова Мария Анатольевна": 5,
-      "Лосев Александр Дмитриевич": 2,
-      "Плотников Владимир Николаевич": 179,
-      "Против всех": 20
+      "gas:candidate-vibid:1001000113925": 45,
+      "gas:candidate-vibid:1001000254934": 5,
+      "gas:candidate-vibid:1001000195065": 5,
+      "gas:candidate-vibid:334300370433": 2,
+      "gas:candidate-vibid:1001000217918": 179,
+      "special:against-all": 20
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=343003013&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=334300370873&region=0&sub_region=0&type=429",
@@ -12142,12 +12142,12 @@ export const duma_2003_uik_428_region_34_part_005 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Волков Николай Валентинович": 170,
-      "Елисеев Александр Николаевич": 5,
-      "Кузнецова Мария Анатольевна": 15,
-      "Лосев Александр Дмитриевич": 2,
-      "Плотников Владимир Николаевич": 208,
-      "Против всех": 39
+      "gas:candidate-vibid:1001000113925": 170,
+      "gas:candidate-vibid:1001000254934": 5,
+      "gas:candidate-vibid:1001000195065": 15,
+      "gas:candidate-vibid:334300370433": 2,
+      "gas:candidate-vibid:1001000217918": 208,
+      "special:against-all": 39
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=343003013&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=334300370873&region=0&sub_region=0&type=429",
@@ -12197,12 +12197,12 @@ export const duma_2003_uik_428_region_34_part_005 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Волков Николай Валентинович": 57,
-      "Елисеев Александр Николаевич": 3,
-      "Кузнецова Мария Анатольевна": 3,
-      "Лосев Александр Дмитриевич": 2,
-      "Плотников Владимир Николаевич": 86,
-      "Против всех": 14
+      "gas:candidate-vibid:1001000113925": 57,
+      "gas:candidate-vibid:1001000254934": 3,
+      "gas:candidate-vibid:1001000195065": 3,
+      "gas:candidate-vibid:334300370433": 2,
+      "gas:candidate-vibid:1001000217918": 86,
+      "special:against-all": 14
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=343003013&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=334300370873&region=0&sub_region=0&type=429",
@@ -12252,12 +12252,12 @@ export const duma_2003_uik_428_region_34_part_005 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Волков Николай Валентинович": 166,
-      "Елисеев Александр Николаевич": 2,
-      "Кузнецова Мария Анатольевна": 13,
-      "Лосев Александр Дмитриевич": 3,
-      "Плотников Владимир Николаевич": 292,
-      "Против всех": 57
+      "gas:candidate-vibid:1001000113925": 166,
+      "gas:candidate-vibid:1001000254934": 2,
+      "gas:candidate-vibid:1001000195065": 13,
+      "gas:candidate-vibid:334300370433": 3,
+      "gas:candidate-vibid:1001000217918": 292,
+      "special:against-all": 57
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=343003013&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=334300370873&region=0&sub_region=0&type=429",
@@ -12307,12 +12307,12 @@ export const duma_2003_uik_428_region_34_part_005 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Волков Николай Валентинович": 22,
-      "Елисеев Александр Николаевич": 1,
-      "Кузнецова Мария Анатольевна": 3,
-      "Лосев Александр Дмитриевич": 3,
-      "Плотников Владимир Николаевич": 136,
-      "Против всех": 4
+      "gas:candidate-vibid:1001000113925": 22,
+      "gas:candidate-vibid:1001000254934": 1,
+      "gas:candidate-vibid:1001000195065": 3,
+      "gas:candidate-vibid:334300370433": 3,
+      "gas:candidate-vibid:1001000217918": 136,
+      "special:against-all": 4
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=343003013&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=334300370873&region=0&sub_region=0&type=429",
@@ -12362,12 +12362,12 @@ export const duma_2003_uik_428_region_34_part_005 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Волков Николай Валентинович": 23,
-      "Елисеев Александр Николаевич": 2,
-      "Кузнецова Мария Анатольевна": 5,
-      "Лосев Александр Дмитриевич": 1,
-      "Плотников Владимир Николаевич": 127,
-      "Против всех": 7
+      "gas:candidate-vibid:1001000113925": 23,
+      "gas:candidate-vibid:1001000254934": 2,
+      "gas:candidate-vibid:1001000195065": 5,
+      "gas:candidate-vibid:334300370433": 1,
+      "gas:candidate-vibid:1001000217918": 127,
+      "special:against-all": 7
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=343003013&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=334300370873&region=0&sub_region=0&type=429",
@@ -12417,12 +12417,12 @@ export const duma_2003_uik_428_region_34_part_005 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Волков Николай Валентинович": 107,
-      "Елисеев Александр Николаевич": 3,
-      "Кузнецова Мария Анатольевна": 18,
-      "Лосев Александр Дмитриевич": 8,
-      "Плотников Владимир Николаевич": 400,
-      "Против всех": 65
+      "gas:candidate-vibid:1001000113925": 107,
+      "gas:candidate-vibid:1001000254934": 3,
+      "gas:candidate-vibid:1001000195065": 18,
+      "gas:candidate-vibid:334300370433": 8,
+      "gas:candidate-vibid:1001000217918": 400,
+      "special:against-all": 65
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=343003013&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=334300370873&region=0&sub_region=0&type=429",
@@ -12472,12 +12472,12 @@ export const duma_2003_uik_428_region_34_part_005 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Волков Николай Валентинович": 19,
-      "Елисеев Александр Николаевич": 1,
-      "Кузнецова Мария Анатольевна": 0,
-      "Лосев Александр Дмитриевич": 0,
-      "Плотников Владимир Николаевич": 23,
-      "Против всех": 2
+      "gas:candidate-vibid:1001000113925": 19,
+      "gas:candidate-vibid:1001000254934": 1,
+      "gas:candidate-vibid:1001000195065": 0,
+      "gas:candidate-vibid:334300370433": 0,
+      "gas:candidate-vibid:1001000217918": 23,
+      "special:against-all": 2
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=343003013&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=334300370873&region=0&sub_region=0&type=429",
@@ -12527,12 +12527,12 @@ export const duma_2003_uik_428_region_34_part_005 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Волков Николай Валентинович": 25,
-      "Елисеев Александр Николаевич": 0,
-      "Кузнецова Мария Анатольевна": 3,
-      "Лосев Александр Дмитриевич": 1,
-      "Плотников Владимир Николаевич": 28,
-      "Против всех": 3
+      "gas:candidate-vibid:1001000113925": 25,
+      "gas:candidate-vibid:1001000254934": 0,
+      "gas:candidate-vibid:1001000195065": 3,
+      "gas:candidate-vibid:334300370433": 1,
+      "gas:candidate-vibid:1001000217918": 28,
+      "special:against-all": 3
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=343003013&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=334300370873&region=0&sub_region=0&type=429",
@@ -12582,12 +12582,12 @@ export const duma_2003_uik_428_region_34_part_005 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Волков Николай Валентинович": 30,
-      "Елисеев Александр Николаевич": 2,
-      "Кузнецова Мария Анатольевна": 4,
-      "Лосев Александр Дмитриевич": 0,
-      "Плотников Владимир Николаевич": 48,
-      "Против всех": 7
+      "gas:candidate-vibid:1001000113925": 30,
+      "gas:candidate-vibid:1001000254934": 2,
+      "gas:candidate-vibid:1001000195065": 4,
+      "gas:candidate-vibid:334300370433": 0,
+      "gas:candidate-vibid:1001000217918": 48,
+      "special:against-all": 7
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=343003013&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=334300370873&region=0&sub_region=0&type=429",
@@ -12637,12 +12637,12 @@ export const duma_2003_uik_428_region_34_part_005 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Волков Николай Валентинович": 51,
-      "Елисеев Александр Николаевич": 25,
-      "Кузнецова Мария Анатольевна": 9,
-      "Лосев Александр Дмитриевич": 6,
-      "Плотников Владимир Николаевич": 194,
-      "Против всех": 66
+      "gas:candidate-vibid:1001000113925": 51,
+      "gas:candidate-vibid:1001000254934": 25,
+      "gas:candidate-vibid:1001000195065": 9,
+      "gas:candidate-vibid:334300370433": 6,
+      "gas:candidate-vibid:1001000217918": 194,
+      "special:against-all": 66
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=343003014&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=334300370874&region=0&sub_region=0&type=429",
@@ -12692,12 +12692,12 @@ export const duma_2003_uik_428_region_34_part_005 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Волков Николай Валентинович": 79,
-      "Елисеев Александр Николаевич": 7,
-      "Кузнецова Мария Анатольевна": 18,
-      "Лосев Александр Дмитриевич": 14,
-      "Плотников Владимир Николаевич": 262,
-      "Против всех": 75
+      "gas:candidate-vibid:1001000113925": 79,
+      "gas:candidate-vibid:1001000254934": 7,
+      "gas:candidate-vibid:1001000195065": 18,
+      "gas:candidate-vibid:334300370433": 14,
+      "gas:candidate-vibid:1001000217918": 262,
+      "special:against-all": 75
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=343003014&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=334300370874&region=0&sub_region=0&type=429",
@@ -12747,12 +12747,12 @@ export const duma_2003_uik_428_region_34_part_005 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Волков Николай Валентинович": 94,
-      "Елисеев Александр Николаевич": 18,
-      "Кузнецова Мария Анатольевна": 66,
-      "Лосев Александр Дмитриевич": 12,
-      "Плотников Владимир Николаевич": 573,
-      "Против всех": 135
+      "gas:candidate-vibid:1001000113925": 94,
+      "gas:candidate-vibid:1001000254934": 18,
+      "gas:candidate-vibid:1001000195065": 66,
+      "gas:candidate-vibid:334300370433": 12,
+      "gas:candidate-vibid:1001000217918": 573,
+      "special:against-all": 135
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=343003014&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=334300370874&region=0&sub_region=0&type=429",
@@ -12802,12 +12802,12 @@ export const duma_2003_uik_428_region_34_part_005 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Волков Николай Валентинович": 85,
-      "Елисеев Александр Николаевич": 9,
-      "Кузнецова Мария Анатольевна": 27,
-      "Лосев Александр Дмитриевич": 11,
-      "Плотников Владимир Николаевич": 274,
-      "Против всех": 67
+      "gas:candidate-vibid:1001000113925": 85,
+      "gas:candidate-vibid:1001000254934": 9,
+      "gas:candidate-vibid:1001000195065": 27,
+      "gas:candidate-vibid:334300370433": 11,
+      "gas:candidate-vibid:1001000217918": 274,
+      "special:against-all": 67
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=343003014&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=334300370874&region=0&sub_region=0&type=429",
@@ -12857,12 +12857,12 @@ export const duma_2003_uik_428_region_34_part_005 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Волков Николай Валентинович": 47,
-      "Елисеев Александр Николаевич": 13,
-      "Кузнецова Мария Анатольевна": 19,
-      "Лосев Александр Дмитриевич": 9,
-      "Плотников Владимир Николаевич": 357,
-      "Против всех": 87
+      "gas:candidate-vibid:1001000113925": 47,
+      "gas:candidate-vibid:1001000254934": 13,
+      "gas:candidate-vibid:1001000195065": 19,
+      "gas:candidate-vibid:334300370433": 9,
+      "gas:candidate-vibid:1001000217918": 357,
+      "special:against-all": 87
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=343003014&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=334300370874&region=0&sub_region=0&type=429",
@@ -12912,12 +12912,12 @@ export const duma_2003_uik_428_region_34_part_005 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Волков Николай Валентинович": 51,
-      "Елисеев Александр Николаевич": 8,
-      "Кузнецова Мария Анатольевна": 25,
-      "Лосев Александр Дмитриевич": 10,
-      "Плотников Владимир Николаевич": 220,
-      "Против всех": 55
+      "gas:candidate-vibid:1001000113925": 51,
+      "gas:candidate-vibid:1001000254934": 8,
+      "gas:candidate-vibid:1001000195065": 25,
+      "gas:candidate-vibid:334300370433": 10,
+      "gas:candidate-vibid:1001000217918": 220,
+      "special:against-all": 55
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=343003014&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=334300370874&region=0&sub_region=0&type=429",
@@ -12967,12 +12967,12 @@ export const duma_2003_uik_428_region_34_part_005 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Волков Николай Валентинович": 96,
-      "Елисеев Александр Николаевич": 9,
-      "Кузнецова Мария Анатольевна": 36,
-      "Лосев Александр Дмитриевич": 21,
-      "Плотников Владимир Николаевич": 357,
-      "Против всех": 65
+      "gas:candidate-vibid:1001000113925": 96,
+      "gas:candidate-vibid:1001000254934": 9,
+      "gas:candidate-vibid:1001000195065": 36,
+      "gas:candidate-vibid:334300370433": 21,
+      "gas:candidate-vibid:1001000217918": 357,
+      "special:against-all": 65
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=343003014&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=334300370874&region=0&sub_region=0&type=429",
@@ -13022,12 +13022,12 @@ export const duma_2003_uik_428_region_34_part_005 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Волков Николай Валентинович": 49,
-      "Елисеев Александр Николаевич": 6,
-      "Кузнецова Мария Анатольевна": 6,
-      "Лосев Александр Дмитриевич": 5,
-      "Плотников Владимир Николаевич": 57,
-      "Против всех": 18
+      "gas:candidate-vibid:1001000113925": 49,
+      "gas:candidate-vibid:1001000254934": 6,
+      "gas:candidate-vibid:1001000195065": 6,
+      "gas:candidate-vibid:334300370433": 5,
+      "gas:candidate-vibid:1001000217918": 57,
+      "special:against-all": 18
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=343003014&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=334300370874&region=0&sub_region=0&type=429",
@@ -13077,12 +13077,12 @@ export const duma_2003_uik_428_region_34_part_005 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Волков Николай Валентинович": 38,
-      "Елисеев Александр Николаевич": 2,
-      "Кузнецова Мария Анатольевна": 24,
-      "Лосев Александр Дмитриевич": 6,
-      "Плотников Владимир Николаевич": 90,
-      "Против всех": 15
+      "gas:candidate-vibid:1001000113925": 38,
+      "gas:candidate-vibid:1001000254934": 2,
+      "gas:candidate-vibid:1001000195065": 24,
+      "gas:candidate-vibid:334300370433": 6,
+      "gas:candidate-vibid:1001000217918": 90,
+      "special:against-all": 15
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=343003014&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=334300370874&region=0&sub_region=0&type=429",
@@ -13132,12 +13132,12 @@ export const duma_2003_uik_428_region_34_part_005 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Волков Николай Валентинович": 17,
-      "Елисеев Александр Николаевич": 0,
-      "Кузнецова Мария Анатольевна": 0,
-      "Лосев Александр Дмитриевич": 0,
-      "Плотников Владимир Николаевич": 18,
-      "Против всех": 8
+      "gas:candidate-vibid:1001000113925": 17,
+      "gas:candidate-vibid:1001000254934": 0,
+      "gas:candidate-vibid:1001000195065": 0,
+      "gas:candidate-vibid:334300370433": 0,
+      "gas:candidate-vibid:1001000217918": 18,
+      "special:against-all": 8
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=343003014&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=334300370874&region=0&sub_region=0&type=429",
@@ -13187,12 +13187,12 @@ export const duma_2003_uik_428_region_34_part_005 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Волков Николай Валентинович": 87,
-      "Елисеев Александр Николаевич": 4,
-      "Кузнецова Мария Анатольевна": 35,
-      "Лосев Александр Дмитриевич": 18,
-      "Плотников Владимир Николаевич": 252,
-      "Против всех": 62
+      "gas:candidate-vibid:1001000113925": 87,
+      "gas:candidate-vibid:1001000254934": 4,
+      "gas:candidate-vibid:1001000195065": 35,
+      "gas:candidate-vibid:334300370433": 18,
+      "gas:candidate-vibid:1001000217918": 252,
+      "special:against-all": 62
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=343003014&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=334300370874&region=0&sub_region=0&type=429",
@@ -13242,12 +13242,12 @@ export const duma_2003_uik_428_region_34_part_005 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Волков Николай Валентинович": 38,
-      "Елисеев Александр Николаевич": 3,
-      "Кузнецова Мария Анатольевна": 17,
-      "Лосев Александр Дмитриевич": 5,
-      "Плотников Владимир Николаевич": 105,
-      "Против всех": 14
+      "gas:candidate-vibid:1001000113925": 38,
+      "gas:candidate-vibid:1001000254934": 3,
+      "gas:candidate-vibid:1001000195065": 17,
+      "gas:candidate-vibid:334300370433": 5,
+      "gas:candidate-vibid:1001000217918": 105,
+      "special:against-all": 14
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=343003014&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=334300370874&region=0&sub_region=0&type=429",
@@ -13297,12 +13297,12 @@ export const duma_2003_uik_428_region_34_part_005 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Волков Николай Валентинович": 145,
-      "Елисеев Александр Николаевич": 8,
-      "Кузнецова Мария Анатольевна": 20,
-      "Лосев Александр Дмитриевич": 5,
-      "Плотников Владимир Николаевич": 229,
-      "Против всех": 53
+      "gas:candidate-vibid:1001000113925": 145,
+      "gas:candidate-vibid:1001000254934": 8,
+      "gas:candidate-vibid:1001000195065": 20,
+      "gas:candidate-vibid:334300370433": 5,
+      "gas:candidate-vibid:1001000217918": 229,
+      "special:against-all": 53
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=343003014&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=334300370874&region=0&sub_region=0&type=429",
@@ -13352,12 +13352,12 @@ export const duma_2003_uik_428_region_34_part_005 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Волков Николай Валентинович": 63,
-      "Елисеев Александр Николаевич": 4,
-      "Кузнецова Мария Анатольевна": 8,
-      "Лосев Александр Дмитриевич": 1,
-      "Плотников Владимир Николаевич": 46,
-      "Против всех": 17
+      "gas:candidate-vibid:1001000113925": 63,
+      "gas:candidate-vibid:1001000254934": 4,
+      "gas:candidate-vibid:1001000195065": 8,
+      "gas:candidate-vibid:334300370433": 1,
+      "gas:candidate-vibid:1001000217918": 46,
+      "special:against-all": 17
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=343003014&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=334300370874&region=0&sub_region=0&type=429",
@@ -13407,12 +13407,12 @@ export const duma_2003_uik_428_region_34_part_005 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Волков Николай Валентинович": 39,
-      "Елисеев Александр Николаевич": 7,
-      "Кузнецова Мария Анатольевна": 28,
-      "Лосев Александр Дмитриевич": 8,
-      "Плотников Владимир Николаевич": 243,
-      "Против всех": 44
+      "gas:candidate-vibid:1001000113925": 39,
+      "gas:candidate-vibid:1001000254934": 7,
+      "gas:candidate-vibid:1001000195065": 28,
+      "gas:candidate-vibid:334300370433": 8,
+      "gas:candidate-vibid:1001000217918": 243,
+      "special:against-all": 44
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=343003014&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=334300370874&region=0&sub_region=0&type=429",
@@ -13462,12 +13462,12 @@ export const duma_2003_uik_428_region_34_part_005 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Волков Николай Валентинович": 57,
-      "Елисеев Александр Николаевич": 12,
-      "Кузнецова Мария Анатольевна": 20,
-      "Лосев Александр Дмитриевич": 6,
-      "Плотников Владимир Николаевич": 168,
-      "Против всех": 70
+      "gas:candidate-vibid:1001000113925": 57,
+      "gas:candidate-vibid:1001000254934": 12,
+      "gas:candidate-vibid:1001000195065": 20,
+      "gas:candidate-vibid:334300370433": 6,
+      "gas:candidate-vibid:1001000217918": 168,
+      "special:against-all": 70
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=343003014&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=334300370874&region=0&sub_region=0&type=429",
@@ -13517,12 +13517,12 @@ export const duma_2003_uik_428_region_34_part_005 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Волков Николай Валентинович": 3,
-      "Елисеев Александр Николаевич": 1,
-      "Кузнецова Мария Анатольевна": 1,
-      "Лосев Александр Дмитриевич": 1,
-      "Плотников Владимир Николаевич": 53,
-      "Против всех": 18
+      "gas:candidate-vibid:1001000113925": 3,
+      "gas:candidate-vibid:1001000254934": 1,
+      "gas:candidate-vibid:1001000195065": 1,
+      "gas:candidate-vibid:334300370433": 1,
+      "gas:candidate-vibid:1001000217918": 53,
+      "special:against-all": 18
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=343003014&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=334300370874&region=0&sub_region=0&type=429",
@@ -13572,12 +13572,12 @@ export const duma_2003_uik_428_region_34_part_005 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Волков Николай Валентинович": 58,
-      "Елисеев Александр Николаевич": 14,
-      "Кузнецова Мария Анатольевна": 24,
-      "Лосев Александр Дмитриевич": 9,
-      "Плотников Владимир Николаевич": 285,
-      "Против всех": 64
+      "gas:candidate-vibid:1001000113925": 58,
+      "gas:candidate-vibid:1001000254934": 14,
+      "gas:candidate-vibid:1001000195065": 24,
+      "gas:candidate-vibid:334300370433": 9,
+      "gas:candidate-vibid:1001000217918": 285,
+      "special:against-all": 64
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=343003014&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=334300370874&region=0&sub_region=0&type=429",
@@ -13627,12 +13627,12 @@ export const duma_2003_uik_428_region_34_part_005 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Волков Николай Валентинович": 46,
-      "Елисеев Александр Николаевич": 4,
-      "Кузнецова Мария Анатольевна": 10,
-      "Лосев Александр Дмитриевич": 3,
-      "Плотников Владимир Николаевич": 66,
-      "Против всех": 12
+      "gas:candidate-vibid:1001000113925": 46,
+      "gas:candidate-vibid:1001000254934": 4,
+      "gas:candidate-vibid:1001000195065": 10,
+      "gas:candidate-vibid:334300370433": 3,
+      "gas:candidate-vibid:1001000217918": 66,
+      "special:against-all": 12
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=343003014&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=334300370874&region=0&sub_region=0&type=429",
@@ -13682,12 +13682,12 @@ export const duma_2003_uik_428_region_34_part_005 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Волков Николай Валентинович": 57,
-      "Елисеев Александр Николаевич": 6,
-      "Кузнецова Мария Анатольевна": 26,
-      "Лосев Александр Дмитриевич": 4,
-      "Плотников Владимир Николаевич": 313,
-      "Против всех": 63
+      "gas:candidate-vibid:1001000113925": 57,
+      "gas:candidate-vibid:1001000254934": 6,
+      "gas:candidate-vibid:1001000195065": 26,
+      "gas:candidate-vibid:334300370433": 4,
+      "gas:candidate-vibid:1001000217918": 313,
+      "special:against-all": 63
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=343003014&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=334300370874&region=0&sub_region=0&type=429",
@@ -13737,12 +13737,12 @@ export const duma_2003_uik_428_region_34_part_005 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Волков Николай Валентинович": 1,
-      "Елисеев Александр Николаевич": 2,
-      "Кузнецова Мария Анатольевна": 3,
-      "Лосев Александр Дмитриевич": 0,
-      "Плотников Владимир Николаевич": 86,
-      "Против всех": 7
+      "gas:candidate-vibid:1001000113925": 1,
+      "gas:candidate-vibid:1001000254934": 2,
+      "gas:candidate-vibid:1001000195065": 3,
+      "gas:candidate-vibid:334300370433": 0,
+      "gas:candidate-vibid:1001000217918": 86,
+      "special:against-all": 7
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=343003014&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=334300370874&region=0&sub_region=0&type=429",

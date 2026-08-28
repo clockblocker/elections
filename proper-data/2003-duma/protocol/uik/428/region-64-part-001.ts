@@ -42,16 +42,16 @@ export const duma_2003_uik_428_region_64_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Алимова Ольга Николаевна": 74,
-      "Большаков Иван Петрович": 0,
-      "Володин Вячеслав Викторович": 1046,
-      "Граф Юрий Валентинович": 0,
-      "Караман Наталья Леонидовна": 1,
-      "Смирнов Владимир Сергеевич": 0,
-      "Смирнов Вячеслав Николаевич": 1,
-      "Тагунов Александр Васильевич": 1,
-      "Чирков Евгений Петрович": 0,
-      "Против всех": 6
+      "gas:candidate-vibid:1001000121904": 74,
+      "gas:candidate-vibid:1001000112252": 0,
+      "gas:candidate-vibid:1001000225982": 1046,
+      "gas:candidate-vibid:364300170375": 0,
+      "gas:candidate-vibid:1001000121286": 1,
+      "gas:candidate-vibid:1001000113976": 0,
+      "gas:candidate-vibid:1001000195138": 1,
+      "gas:candidate-vibid:1001000136117": 1,
+      "gas:candidate-vibid:364300170488": 0,
+      "special:against-all": 6
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=643001002&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=364300170819&region=0&sub_region=0&type=429",
@@ -101,16 +101,16 @@ export const duma_2003_uik_428_region_64_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Алимова Ольга Николаевна": 44,
-      "Большаков Иван Петрович": 7,
-      "Володин Вячеслав Викторович": 725,
-      "Граф Юрий Валентинович": 1,
-      "Караман Наталья Леонидовна": 2,
-      "Смирнов Владимир Сергеевич": 0,
-      "Смирнов Вячеслав Николаевич": 0,
-      "Тагунов Александр Васильевич": 0,
-      "Чирков Евгений Петрович": 2,
-      "Против всех": 5
+      "gas:candidate-vibid:1001000121904": 44,
+      "gas:candidate-vibid:1001000112252": 7,
+      "gas:candidate-vibid:1001000225982": 725,
+      "gas:candidate-vibid:364300170375": 1,
+      "gas:candidate-vibid:1001000121286": 2,
+      "gas:candidate-vibid:1001000113976": 0,
+      "gas:candidate-vibid:1001000195138": 0,
+      "gas:candidate-vibid:1001000136117": 0,
+      "gas:candidate-vibid:364300170488": 2,
+      "special:against-all": 5
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=643001002&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=364300170819&region=0&sub_region=0&type=429",
@@ -160,16 +160,16 @@ export const duma_2003_uik_428_region_64_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Алимова Ольга Николаевна": 24,
-      "Большаков Иван Петрович": 0,
-      "Володин Вячеслав Викторович": 682,
-      "Граф Юрий Валентинович": 1,
-      "Караман Наталья Леонидовна": 0,
-      "Смирнов Владимир Сергеевич": 0,
-      "Смирнов Вячеслав Николаевич": 0,
-      "Тагунов Александр Васильевич": 0,
-      "Чирков Евгений Петрович": 1,
-      "Против всех": 10
+      "gas:candidate-vibid:1001000121904": 24,
+      "gas:candidate-vibid:1001000112252": 0,
+      "gas:candidate-vibid:1001000225982": 682,
+      "gas:candidate-vibid:364300170375": 1,
+      "gas:candidate-vibid:1001000121286": 0,
+      "gas:candidate-vibid:1001000113976": 0,
+      "gas:candidate-vibid:1001000195138": 0,
+      "gas:candidate-vibid:1001000136117": 0,
+      "gas:candidate-vibid:364300170488": 1,
+      "special:against-all": 10
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=643001002&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=364300170819&region=0&sub_region=0&type=429",
@@ -219,16 +219,16 @@ export const duma_2003_uik_428_region_64_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Алимова Ольга Николаевна": 77,
-      "Большаков Иван Петрович": 6,
-      "Володин Вячеслав Викторович": 620,
-      "Граф Юрий Валентинович": 1,
-      "Караман Наталья Леонидовна": 1,
-      "Смирнов Владимир Сергеевич": 1,
-      "Смирнов Вячеслав Николаевич": 2,
-      "Тагунов Александр Васильевич": 3,
-      "Чирков Евгений Петрович": 7,
-      "Против всех": 24
+      "gas:candidate-vibid:1001000121904": 77,
+      "gas:candidate-vibid:1001000112252": 6,
+      "gas:candidate-vibid:1001000225982": 620,
+      "gas:candidate-vibid:364300170375": 1,
+      "gas:candidate-vibid:1001000121286": 1,
+      "gas:candidate-vibid:1001000113976": 1,
+      "gas:candidate-vibid:1001000195138": 2,
+      "gas:candidate-vibid:1001000136117": 3,
+      "gas:candidate-vibid:364300170488": 7,
+      "special:against-all": 24
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=643001002&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=364300170819&region=0&sub_region=0&type=429",
@@ -278,16 +278,16 @@ export const duma_2003_uik_428_region_64_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Алимова Ольга Николаевна": 10,
-      "Большаков Иван Петрович": 0,
-      "Володин Вячеслав Викторович": 790,
-      "Граф Юрий Валентинович": 1,
-      "Караман Наталья Леонидовна": 0,
-      "Смирнов Владимир Сергеевич": 0,
-      "Смирнов Вячеслав Николаевич": 0,
-      "Тагунов Александр Васильевич": 0,
-      "Чирков Евгений Петрович": 1,
-      "Против всех": 4
+      "gas:candidate-vibid:1001000121904": 10,
+      "gas:candidate-vibid:1001000112252": 0,
+      "gas:candidate-vibid:1001000225982": 790,
+      "gas:candidate-vibid:364300170375": 1,
+      "gas:candidate-vibid:1001000121286": 0,
+      "gas:candidate-vibid:1001000113976": 0,
+      "gas:candidate-vibid:1001000195138": 0,
+      "gas:candidate-vibid:1001000136117": 0,
+      "gas:candidate-vibid:364300170488": 1,
+      "special:against-all": 4
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=643001002&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=364300170819&region=0&sub_region=0&type=429",
@@ -337,16 +337,16 @@ export const duma_2003_uik_428_region_64_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Алимова Ольга Николаевна": 49,
-      "Большаков Иван Петрович": 5,
-      "Володин Вячеслав Викторович": 726,
-      "Граф Юрий Валентинович": 1,
-      "Караман Наталья Леонидовна": 0,
-      "Смирнов Владимир Сергеевич": 0,
-      "Смирнов Вячеслав Николаевич": 1,
-      "Тагунов Александр Васильевич": 2,
-      "Чирков Евгений Петрович": 4,
-      "Против всех": 14
+      "gas:candidate-vibid:1001000121904": 49,
+      "gas:candidate-vibid:1001000112252": 5,
+      "gas:candidate-vibid:1001000225982": 726,
+      "gas:candidate-vibid:364300170375": 1,
+      "gas:candidate-vibid:1001000121286": 0,
+      "gas:candidate-vibid:1001000113976": 0,
+      "gas:candidate-vibid:1001000195138": 1,
+      "gas:candidate-vibid:1001000136117": 2,
+      "gas:candidate-vibid:364300170488": 4,
+      "special:against-all": 14
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=643001002&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=364300170819&region=0&sub_region=0&type=429",
@@ -396,16 +396,16 @@ export const duma_2003_uik_428_region_64_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Алимова Ольга Николаевна": 34,
-      "Большаков Иван Петрович": 2,
-      "Володин Вячеслав Викторович": 234,
-      "Граф Юрий Валентинович": 1,
-      "Караман Наталья Леонидовна": 0,
-      "Смирнов Владимир Сергеевич": 1,
-      "Смирнов Вячеслав Николаевич": 0,
-      "Тагунов Александр Васильевич": 4,
-      "Чирков Евгений Петрович": 0,
-      "Против всех": 11
+      "gas:candidate-vibid:1001000121904": 34,
+      "gas:candidate-vibid:1001000112252": 2,
+      "gas:candidate-vibid:1001000225982": 234,
+      "gas:candidate-vibid:364300170375": 1,
+      "gas:candidate-vibid:1001000121286": 0,
+      "gas:candidate-vibid:1001000113976": 1,
+      "gas:candidate-vibid:1001000195138": 0,
+      "gas:candidate-vibid:1001000136117": 4,
+      "gas:candidate-vibid:364300170488": 0,
+      "special:against-all": 11
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=643001002&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=364300170819&region=0&sub_region=0&type=429",
@@ -455,16 +455,16 @@ export const duma_2003_uik_428_region_64_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Алимова Ольга Николаевна": 9,
-      "Большаков Иван Петрович": 0,
-      "Володин Вячеслав Викторович": 166,
-      "Граф Юрий Валентинович": 0,
-      "Караман Наталья Леонидовна": 0,
-      "Смирнов Владимир Сергеевич": 0,
-      "Смирнов Вячеслав Николаевич": 0,
-      "Тагунов Александр Васильевич": 1,
-      "Чирков Евгений Петрович": 0,
-      "Против всех": 5
+      "gas:candidate-vibid:1001000121904": 9,
+      "gas:candidate-vibid:1001000112252": 0,
+      "gas:candidate-vibid:1001000225982": 166,
+      "gas:candidate-vibid:364300170375": 0,
+      "gas:candidate-vibid:1001000121286": 0,
+      "gas:candidate-vibid:1001000113976": 0,
+      "gas:candidate-vibid:1001000195138": 0,
+      "gas:candidate-vibid:1001000136117": 1,
+      "gas:candidate-vibid:364300170488": 0,
+      "special:against-all": 5
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=643001002&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=364300170819&region=0&sub_region=0&type=429",
@@ -514,16 +514,16 @@ export const duma_2003_uik_428_region_64_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Алимова Ольга Николаевна": 4,
-      "Большаков Иван Петрович": 0,
-      "Володин Вячеслав Викторович": 94,
-      "Граф Юрий Валентинович": 0,
-      "Караман Наталья Леонидовна": 0,
-      "Смирнов Владимир Сергеевич": 0,
-      "Смирнов Вячеслав Николаевич": 0,
-      "Тагунов Александр Васильевич": 0,
-      "Чирков Евгений Петрович": 0,
-      "Против всех": 0
+      "gas:candidate-vibid:1001000121904": 4,
+      "gas:candidate-vibid:1001000112252": 0,
+      "gas:candidate-vibid:1001000225982": 94,
+      "gas:candidate-vibid:364300170375": 0,
+      "gas:candidate-vibid:1001000121286": 0,
+      "gas:candidate-vibid:1001000113976": 0,
+      "gas:candidate-vibid:1001000195138": 0,
+      "gas:candidate-vibid:1001000136117": 0,
+      "gas:candidate-vibid:364300170488": 0,
+      "special:against-all": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=643001002&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=364300170819&region=0&sub_region=0&type=429",
@@ -573,16 +573,16 @@ export const duma_2003_uik_428_region_64_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Алимова Ольга Николаевна": 6,
-      "Большаков Иван Петрович": 0,
-      "Володин Вячеслав Викторович": 188,
-      "Граф Юрий Валентинович": 1,
-      "Караман Наталья Леонидовна": 0,
-      "Смирнов Владимир Сергеевич": 0,
-      "Смирнов Вячеслав Николаевич": 0,
-      "Тагунов Александр Васильевич": 0,
-      "Чирков Евгений Петрович": 0,
-      "Против всех": 2
+      "gas:candidate-vibid:1001000121904": 6,
+      "gas:candidate-vibid:1001000112252": 0,
+      "gas:candidate-vibid:1001000225982": 188,
+      "gas:candidate-vibid:364300170375": 1,
+      "gas:candidate-vibid:1001000121286": 0,
+      "gas:candidate-vibid:1001000113976": 0,
+      "gas:candidate-vibid:1001000195138": 0,
+      "gas:candidate-vibid:1001000136117": 0,
+      "gas:candidate-vibid:364300170488": 0,
+      "special:against-all": 2
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=643001002&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=364300170819&region=0&sub_region=0&type=429",
@@ -632,16 +632,16 @@ export const duma_2003_uik_428_region_64_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Алимова Ольга Николаевна": 45,
-      "Большаков Иван Петрович": 5,
-      "Володин Вячеслав Викторович": 545,
-      "Граф Юрий Валентинович": 0,
-      "Караман Наталья Леонидовна": 0,
-      "Смирнов Владимир Сергеевич": 0,
-      "Смирнов Вячеслав Николаевич": 0,
-      "Тагунов Александр Васильевич": 1,
-      "Чирков Евгений Петрович": 2,
-      "Против всех": 17
+      "gas:candidate-vibid:1001000121904": 45,
+      "gas:candidate-vibid:1001000112252": 5,
+      "gas:candidate-vibid:1001000225982": 545,
+      "gas:candidate-vibid:364300170375": 0,
+      "gas:candidate-vibid:1001000121286": 0,
+      "gas:candidate-vibid:1001000113976": 0,
+      "gas:candidate-vibid:1001000195138": 0,
+      "gas:candidate-vibid:1001000136117": 1,
+      "gas:candidate-vibid:364300170488": 2,
+      "special:against-all": 17
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=643001002&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=364300170819&region=0&sub_region=0&type=429",
@@ -691,16 +691,16 @@ export const duma_2003_uik_428_region_64_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Алимова Ольга Николаевна": 5,
-      "Большаков Иван Петрович": 2,
-      "Володин Вячеслав Викторович": 118,
-      "Граф Юрий Валентинович": 0,
-      "Караман Наталья Леонидовна": 0,
-      "Смирнов Владимир Сергеевич": 0,
-      "Смирнов Вячеслав Николаевич": 0,
-      "Тагунов Александр Васильевич": 0,
-      "Чирков Евгений Петрович": 1,
-      "Против всех": 3
+      "gas:candidate-vibid:1001000121904": 5,
+      "gas:candidate-vibid:1001000112252": 2,
+      "gas:candidate-vibid:1001000225982": 118,
+      "gas:candidate-vibid:364300170375": 0,
+      "gas:candidate-vibid:1001000121286": 0,
+      "gas:candidate-vibid:1001000113976": 0,
+      "gas:candidate-vibid:1001000195138": 0,
+      "gas:candidate-vibid:1001000136117": 0,
+      "gas:candidate-vibid:364300170488": 1,
+      "special:against-all": 3
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=643001002&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=364300170819&region=0&sub_region=0&type=429",
@@ -750,16 +750,16 @@ export const duma_2003_uik_428_region_64_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Алимова Ольга Николаевна": 42,
-      "Большаков Иван Петрович": 1,
-      "Володин Вячеслав Викторович": 285,
-      "Граф Юрий Валентинович": 0,
-      "Караман Наталья Леонидовна": 0,
-      "Смирнов Владимир Сергеевич": 1,
-      "Смирнов Вячеслав Николаевич": 0,
-      "Тагунов Александр Васильевич": 1,
-      "Чирков Евгений Петрович": 5,
-      "Против всех": 10
+      "gas:candidate-vibid:1001000121904": 42,
+      "gas:candidate-vibid:1001000112252": 1,
+      "gas:candidate-vibid:1001000225982": 285,
+      "gas:candidate-vibid:364300170375": 0,
+      "gas:candidate-vibid:1001000121286": 0,
+      "gas:candidate-vibid:1001000113976": 1,
+      "gas:candidate-vibid:1001000195138": 0,
+      "gas:candidate-vibid:1001000136117": 1,
+      "gas:candidate-vibid:364300170488": 5,
+      "special:against-all": 10
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=643001002&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=364300170819&region=0&sub_region=0&type=429",
@@ -809,16 +809,16 @@ export const duma_2003_uik_428_region_64_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Алимова Ольга Николаевна": 1,
-      "Большаков Иван Петрович": 0,
-      "Володин Вячеслав Викторович": 117,
-      "Граф Юрий Валентинович": 0,
-      "Караман Наталья Леонидовна": 0,
-      "Смирнов Владимир Сергеевич": 0,
-      "Смирнов Вячеслав Николаевич": 0,
-      "Тагунов Александр Васильевич": 0,
-      "Чирков Евгений Петрович": 0,
-      "Против всех": 3
+      "gas:candidate-vibid:1001000121904": 1,
+      "gas:candidate-vibid:1001000112252": 0,
+      "gas:candidate-vibid:1001000225982": 117,
+      "gas:candidate-vibid:364300170375": 0,
+      "gas:candidate-vibid:1001000121286": 0,
+      "gas:candidate-vibid:1001000113976": 0,
+      "gas:candidate-vibid:1001000195138": 0,
+      "gas:candidate-vibid:1001000136117": 0,
+      "gas:candidate-vibid:364300170488": 0,
+      "special:against-all": 3
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=643001002&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=364300170819&region=0&sub_region=0&type=429",
@@ -868,16 +868,16 @@ export const duma_2003_uik_428_region_64_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Алимова Ольга Николаевна": 13,
-      "Большаков Иван Петрович": 1,
-      "Володин Вячеслав Викторович": 407,
-      "Граф Юрий Валентинович": 0,
-      "Караман Наталья Леонидовна": 0,
-      "Смирнов Владимир Сергеевич": 1,
-      "Смирнов Вячеслав Николаевич": 2,
-      "Тагунов Александр Васильевич": 1,
-      "Чирков Евгений Петрович": 4,
-      "Против всех": 4
+      "gas:candidate-vibid:1001000121904": 13,
+      "gas:candidate-vibid:1001000112252": 1,
+      "gas:candidate-vibid:1001000225982": 407,
+      "gas:candidate-vibid:364300170375": 0,
+      "gas:candidate-vibid:1001000121286": 0,
+      "gas:candidate-vibid:1001000113976": 1,
+      "gas:candidate-vibid:1001000195138": 2,
+      "gas:candidate-vibid:1001000136117": 1,
+      "gas:candidate-vibid:364300170488": 4,
+      "special:against-all": 4
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=643001002&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=364300170819&region=0&sub_region=0&type=429",
@@ -927,16 +927,16 @@ export const duma_2003_uik_428_region_64_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Алимова Ольга Николаевна": 9,
-      "Большаков Иван Петрович": 0,
-      "Володин Вячеслав Викторович": 109,
-      "Граф Юрий Валентинович": 0,
-      "Караман Наталья Леонидовна": 0,
-      "Смирнов Владимир Сергеевич": 0,
-      "Смирнов Вячеслав Николаевич": 0,
-      "Тагунов Александр Васильевич": 0,
-      "Чирков Евгений Петрович": 0,
-      "Против всех": 0
+      "gas:candidate-vibid:1001000121904": 9,
+      "gas:candidate-vibid:1001000112252": 0,
+      "gas:candidate-vibid:1001000225982": 109,
+      "gas:candidate-vibid:364300170375": 0,
+      "gas:candidate-vibid:1001000121286": 0,
+      "gas:candidate-vibid:1001000113976": 0,
+      "gas:candidate-vibid:1001000195138": 0,
+      "gas:candidate-vibid:1001000136117": 0,
+      "gas:candidate-vibid:364300170488": 0,
+      "special:against-all": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=643001002&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=364300170819&region=0&sub_region=0&type=429",
@@ -986,16 +986,16 @@ export const duma_2003_uik_428_region_64_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Алимова Ольга Николаевна": 24,
-      "Большаков Иван Петрович": 3,
-      "Володин Вячеслав Викторович": 282,
-      "Граф Юрий Валентинович": 0,
-      "Караман Наталья Леонидовна": 1,
-      "Смирнов Владимир Сергеевич": 0,
-      "Смирнов Вячеслав Николаевич": 2,
-      "Тагунов Александр Васильевич": 1,
-      "Чирков Евгений Петрович": 2,
-      "Против всех": 17
+      "gas:candidate-vibid:1001000121904": 24,
+      "gas:candidate-vibid:1001000112252": 3,
+      "gas:candidate-vibid:1001000225982": 282,
+      "gas:candidate-vibid:364300170375": 0,
+      "gas:candidate-vibid:1001000121286": 1,
+      "gas:candidate-vibid:1001000113976": 0,
+      "gas:candidate-vibid:1001000195138": 2,
+      "gas:candidate-vibid:1001000136117": 1,
+      "gas:candidate-vibid:364300170488": 2,
+      "special:against-all": 17
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=643001002&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=364300170819&region=0&sub_region=0&type=429",
@@ -1045,16 +1045,16 @@ export const duma_2003_uik_428_region_64_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Алимова Ольга Николаевна": 2,
-      "Большаков Иван Петрович": 0,
-      "Володин Вячеслав Викторович": 70,
-      "Граф Юрий Валентинович": 0,
-      "Караман Наталья Леонидовна": 0,
-      "Смирнов Владимир Сергеевич": 0,
-      "Смирнов Вячеслав Николаевич": 0,
-      "Тагунов Александр Васильевич": 0,
-      "Чирков Евгений Петрович": 1,
-      "Против всех": 2
+      "gas:candidate-vibid:1001000121904": 2,
+      "gas:candidate-vibid:1001000112252": 0,
+      "gas:candidate-vibid:1001000225982": 70,
+      "gas:candidate-vibid:364300170375": 0,
+      "gas:candidate-vibid:1001000121286": 0,
+      "gas:candidate-vibid:1001000113976": 0,
+      "gas:candidate-vibid:1001000195138": 0,
+      "gas:candidate-vibid:1001000136117": 0,
+      "gas:candidate-vibid:364300170488": 1,
+      "special:against-all": 2
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=643001002&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=364300170819&region=0&sub_region=0&type=429",
@@ -1104,16 +1104,16 @@ export const duma_2003_uik_428_region_64_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Алимова Ольга Николаевна": 0,
-      "Большаков Иван Петрович": 0,
-      "Володин Вячеслав Викторович": 105,
-      "Граф Юрий Валентинович": 0,
-      "Караман Наталья Леонидовна": 0,
-      "Смирнов Владимир Сергеевич": 0,
-      "Смирнов Вячеслав Николаевич": 0,
-      "Тагунов Александр Васильевич": 0,
-      "Чирков Евгений Петрович": 0,
-      "Против всех": 0
+      "gas:candidate-vibid:1001000121904": 0,
+      "gas:candidate-vibid:1001000112252": 0,
+      "gas:candidate-vibid:1001000225982": 105,
+      "gas:candidate-vibid:364300170375": 0,
+      "gas:candidate-vibid:1001000121286": 0,
+      "gas:candidate-vibid:1001000113976": 0,
+      "gas:candidate-vibid:1001000195138": 0,
+      "gas:candidate-vibid:1001000136117": 0,
+      "gas:candidate-vibid:364300170488": 0,
+      "special:against-all": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=643001002&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=364300170819&region=0&sub_region=0&type=429",
@@ -1163,16 +1163,16 @@ export const duma_2003_uik_428_region_64_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Алимова Ольга Николаевна": 73,
-      "Большаков Иван Петрович": 1,
-      "Володин Вячеслав Викторович": 315,
-      "Граф Юрий Валентинович": 1,
-      "Караман Наталья Леонидовна": 0,
-      "Смирнов Владимир Сергеевич": 3,
-      "Смирнов Вячеслав Николаевич": 0,
-      "Тагунов Александр Васильевич": 2,
-      "Чирков Евгений Петрович": 0,
-      "Против всех": 13
+      "gas:candidate-vibid:1001000121904": 73,
+      "gas:candidate-vibid:1001000112252": 1,
+      "gas:candidate-vibid:1001000225982": 315,
+      "gas:candidate-vibid:364300170375": 1,
+      "gas:candidate-vibid:1001000121286": 0,
+      "gas:candidate-vibid:1001000113976": 3,
+      "gas:candidate-vibid:1001000195138": 0,
+      "gas:candidate-vibid:1001000136117": 2,
+      "gas:candidate-vibid:364300170488": 0,
+      "special:against-all": 13
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=643001002&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=364300170819&region=0&sub_region=0&type=429",
@@ -1222,16 +1222,16 @@ export const duma_2003_uik_428_region_64_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Алимова Ольга Николаевна": 9,
-      "Большаков Иван Петрович": 0,
-      "Володин Вячеслав Викторович": 79,
-      "Граф Юрий Валентинович": 0,
-      "Караман Наталья Леонидовна": 0,
-      "Смирнов Владимир Сергеевич": 1,
-      "Смирнов Вячеслав Николаевич": 0,
-      "Тагунов Александр Васильевич": 0,
-      "Чирков Евгений Петрович": 1,
-      "Против всех": 8
+      "gas:candidate-vibid:1001000121904": 9,
+      "gas:candidate-vibid:1001000112252": 0,
+      "gas:candidate-vibid:1001000225982": 79,
+      "gas:candidate-vibid:364300170375": 0,
+      "gas:candidate-vibid:1001000121286": 0,
+      "gas:candidate-vibid:1001000113976": 1,
+      "gas:candidate-vibid:1001000195138": 0,
+      "gas:candidate-vibid:1001000136117": 0,
+      "gas:candidate-vibid:364300170488": 1,
+      "special:against-all": 8
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=643001002&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=364300170819&region=0&sub_region=0&type=429",
@@ -1281,16 +1281,16 @@ export const duma_2003_uik_428_region_64_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Алимова Ольга Николаевна": 38,
-      "Большаков Иван Петрович": 4,
-      "Володин Вячеслав Викторович": 587,
-      "Граф Юрий Валентинович": 2,
-      "Караман Наталья Леонидовна": 2,
-      "Смирнов Владимир Сергеевич": 0,
-      "Смирнов Вячеслав Николаевич": 0,
-      "Тагунов Александр Васильевич": 0,
-      "Чирков Евгений Петрович": 2,
-      "Против всех": 8
+      "gas:candidate-vibid:1001000121904": 38,
+      "gas:candidate-vibid:1001000112252": 4,
+      "gas:candidate-vibid:1001000225982": 587,
+      "gas:candidate-vibid:364300170375": 2,
+      "gas:candidate-vibid:1001000121286": 2,
+      "gas:candidate-vibid:1001000113976": 0,
+      "gas:candidate-vibid:1001000195138": 0,
+      "gas:candidate-vibid:1001000136117": 0,
+      "gas:candidate-vibid:364300170488": 2,
+      "special:against-all": 8
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=643001002&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=364300170819&region=0&sub_region=0&type=429",
@@ -1340,16 +1340,16 @@ export const duma_2003_uik_428_region_64_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Алимова Ольга Николаевна": 128,
-      "Большаков Иван Петрович": 2,
-      "Володин Вячеслав Викторович": 1413,
-      "Граф Юрий Валентинович": 2,
-      "Караман Наталья Леонидовна": 0,
-      "Смирнов Владимир Сергеевич": 0,
-      "Смирнов Вячеслав Николаевич": 1,
-      "Тагунов Александр Васильевич": 17,
-      "Чирков Евгений Петрович": 0,
-      "Против всех": 42
+      "gas:candidate-vibid:1001000121904": 128,
+      "gas:candidate-vibid:1001000112252": 2,
+      "gas:candidate-vibid:1001000225982": 1413,
+      "gas:candidate-vibid:364300170375": 2,
+      "gas:candidate-vibid:1001000121286": 0,
+      "gas:candidate-vibid:1001000113976": 0,
+      "gas:candidate-vibid:1001000195138": 1,
+      "gas:candidate-vibid:1001000136117": 17,
+      "gas:candidate-vibid:364300170488": 0,
+      "special:against-all": 42
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=643001003&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=364300170820&region=0&sub_region=0&type=429",
@@ -1399,16 +1399,16 @@ export const duma_2003_uik_428_region_64_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Алимова Ольга Николаевна": 18,
-      "Большаков Иван Петрович": 2,
-      "Володин Вячеслав Викторович": 439,
-      "Граф Юрий Валентинович": 0,
-      "Караман Наталья Леонидовна": 1,
-      "Смирнов Владимир Сергеевич": 0,
-      "Смирнов Вячеслав Николаевич": 1,
-      "Тагунов Александр Васильевич": 1,
-      "Чирков Евгений Петрович": 0,
-      "Против всех": 15
+      "gas:candidate-vibid:1001000121904": 18,
+      "gas:candidate-vibid:1001000112252": 2,
+      "gas:candidate-vibid:1001000225982": 439,
+      "gas:candidate-vibid:364300170375": 0,
+      "gas:candidate-vibid:1001000121286": 1,
+      "gas:candidate-vibid:1001000113976": 0,
+      "gas:candidate-vibid:1001000195138": 1,
+      "gas:candidate-vibid:1001000136117": 1,
+      "gas:candidate-vibid:364300170488": 0,
+      "special:against-all": 15
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=643001003&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=364300170820&region=0&sub_region=0&type=429",
@@ -1458,16 +1458,16 @@ export const duma_2003_uik_428_region_64_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Алимова Ольга Николаевна": 40,
-      "Большаков Иван Петрович": 3,
-      "Володин Вячеслав Викторович": 397,
-      "Граф Юрий Валентинович": 0,
-      "Караман Наталья Леонидовна": 0,
-      "Смирнов Владимир Сергеевич": 2,
-      "Смирнов Вячеслав Николаевич": 0,
-      "Тагунов Александр Васильевич": 4,
-      "Чирков Евгений Петрович": 0,
-      "Против всех": 10
+      "gas:candidate-vibid:1001000121904": 40,
+      "gas:candidate-vibid:1001000112252": 3,
+      "gas:candidate-vibid:1001000225982": 397,
+      "gas:candidate-vibid:364300170375": 0,
+      "gas:candidate-vibid:1001000121286": 0,
+      "gas:candidate-vibid:1001000113976": 2,
+      "gas:candidate-vibid:1001000195138": 0,
+      "gas:candidate-vibid:1001000136117": 4,
+      "gas:candidate-vibid:364300170488": 0,
+      "special:against-all": 10
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=643001003&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=364300170820&region=0&sub_region=0&type=429",
@@ -1517,16 +1517,16 @@ export const duma_2003_uik_428_region_64_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Алимова Ольга Николаевна": 132,
-      "Большаков Иван Петрович": 8,
-      "Володин Вячеслав Викторович": 1131,
-      "Граф Юрий Валентинович": 4,
-      "Караман Наталья Леонидовна": 3,
-      "Смирнов Владимир Сергеевич": 3,
-      "Смирнов Вячеслав Николаевич": 0,
-      "Тагунов Александр Васильевич": 16,
-      "Чирков Евгений Петрович": 0,
-      "Против всех": 42
+      "gas:candidate-vibid:1001000121904": 132,
+      "gas:candidate-vibid:1001000112252": 8,
+      "gas:candidate-vibid:1001000225982": 1131,
+      "gas:candidate-vibid:364300170375": 4,
+      "gas:candidate-vibid:1001000121286": 3,
+      "gas:candidate-vibid:1001000113976": 3,
+      "gas:candidate-vibid:1001000195138": 0,
+      "gas:candidate-vibid:1001000136117": 16,
+      "gas:candidate-vibid:364300170488": 0,
+      "special:against-all": 42
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=643001003&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=364300170820&region=0&sub_region=0&type=429",
@@ -1576,16 +1576,16 @@ export const duma_2003_uik_428_region_64_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Алимова Ольга Николаевна": 59,
-      "Большаков Иван Петрович": 2,
-      "Володин Вячеслав Викторович": 594,
-      "Граф Юрий Валентинович": 1,
-      "Караман Наталья Леонидовна": 2,
-      "Смирнов Владимир Сергеевич": 1,
-      "Смирнов Вячеслав Николаевич": 0,
-      "Тагунов Александр Васильевич": 14,
-      "Чирков Евгений Петрович": 0,
-      "Против всех": 22
+      "gas:candidate-vibid:1001000121904": 59,
+      "gas:candidate-vibid:1001000112252": 2,
+      "gas:candidate-vibid:1001000225982": 594,
+      "gas:candidate-vibid:364300170375": 1,
+      "gas:candidate-vibid:1001000121286": 2,
+      "gas:candidate-vibid:1001000113976": 1,
+      "gas:candidate-vibid:1001000195138": 0,
+      "gas:candidate-vibid:1001000136117": 14,
+      "gas:candidate-vibid:364300170488": 0,
+      "special:against-all": 22
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=643001003&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=364300170820&region=0&sub_region=0&type=429",
@@ -1635,16 +1635,16 @@ export const duma_2003_uik_428_region_64_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Алимова Ольга Николаевна": 11,
-      "Большаков Иван Петрович": 2,
-      "Володин Вячеслав Викторович": 156,
-      "Граф Юрий Валентинович": 0,
-      "Караман Наталья Леонидовна": 1,
-      "Смирнов Владимир Сергеевич": 1,
-      "Смирнов Вячеслав Николаевич": 0,
-      "Тагунов Александр Васильевич": 3,
-      "Чирков Евгений Петрович": 0,
-      "Против всех": 5
+      "gas:candidate-vibid:1001000121904": 11,
+      "gas:candidate-vibid:1001000112252": 2,
+      "gas:candidate-vibid:1001000225982": 156,
+      "gas:candidate-vibid:364300170375": 0,
+      "gas:candidate-vibid:1001000121286": 1,
+      "gas:candidate-vibid:1001000113976": 1,
+      "gas:candidate-vibid:1001000195138": 0,
+      "gas:candidate-vibid:1001000136117": 3,
+      "gas:candidate-vibid:364300170488": 0,
+      "special:against-all": 5
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=643001003&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=364300170820&region=0&sub_region=0&type=429",
@@ -1694,16 +1694,16 @@ export const duma_2003_uik_428_region_64_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Алимова Ольга Николаевна": 29,
-      "Большаков Иван Петрович": 0,
-      "Володин Вячеслав Викторович": 141,
-      "Граф Юрий Валентинович": 0,
-      "Караман Наталья Леонидовна": 0,
-      "Смирнов Владимир Сергеевич": 0,
-      "Смирнов Вячеслав Николаевич": 0,
-      "Тагунов Александр Васильевич": 3,
-      "Чирков Евгений Петрович": 0,
-      "Против всех": 1
+      "gas:candidate-vibid:1001000121904": 29,
+      "gas:candidate-vibid:1001000112252": 0,
+      "gas:candidate-vibid:1001000225982": 141,
+      "gas:candidate-vibid:364300170375": 0,
+      "gas:candidate-vibid:1001000121286": 0,
+      "gas:candidate-vibid:1001000113976": 0,
+      "gas:candidate-vibid:1001000195138": 0,
+      "gas:candidate-vibid:1001000136117": 3,
+      "gas:candidate-vibid:364300170488": 0,
+      "special:against-all": 1
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=643001003&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=364300170820&region=0&sub_region=0&type=429",
@@ -1753,16 +1753,16 @@ export const duma_2003_uik_428_region_64_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Алимова Ольга Николаевна": 21,
-      "Большаков Иван Петрович": 2,
-      "Володин Вячеслав Викторович": 138,
-      "Граф Юрий Валентинович": 0,
-      "Караман Наталья Леонидовна": 0,
-      "Смирнов Владимир Сергеевич": 0,
-      "Смирнов Вячеслав Николаевич": 0,
-      "Тагунов Александр Васильевич": 2,
-      "Чирков Евгений Петрович": 0,
-      "Против всех": 3
+      "gas:candidate-vibid:1001000121904": 21,
+      "gas:candidate-vibid:1001000112252": 2,
+      "gas:candidate-vibid:1001000225982": 138,
+      "gas:candidate-vibid:364300170375": 0,
+      "gas:candidate-vibid:1001000121286": 0,
+      "gas:candidate-vibid:1001000113976": 0,
+      "gas:candidate-vibid:1001000195138": 0,
+      "gas:candidate-vibid:1001000136117": 2,
+      "gas:candidate-vibid:364300170488": 0,
+      "special:against-all": 3
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=643001003&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=364300170820&region=0&sub_region=0&type=429",
@@ -1812,16 +1812,16 @@ export const duma_2003_uik_428_region_64_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Алимова Ольга Николаевна": 20,
-      "Большаков Иван Петрович": 2,
-      "Володин Вячеслав Викторович": 363,
-      "Граф Юрий Валентинович": 0,
-      "Караман Наталья Леонидовна": 0,
-      "Смирнов Владимир Сергеевич": 0,
-      "Смирнов Вячеслав Николаевич": 0,
-      "Тагунов Александр Васильевич": 2,
-      "Чирков Евгений Петрович": 0,
-      "Против всех": 11
+      "gas:candidate-vibid:1001000121904": 20,
+      "gas:candidate-vibid:1001000112252": 2,
+      "gas:candidate-vibid:1001000225982": 363,
+      "gas:candidate-vibid:364300170375": 0,
+      "gas:candidate-vibid:1001000121286": 0,
+      "gas:candidate-vibid:1001000113976": 0,
+      "gas:candidate-vibid:1001000195138": 0,
+      "gas:candidate-vibid:1001000136117": 2,
+      "gas:candidate-vibid:364300170488": 0,
+      "special:against-all": 11
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=643001003&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=364300170820&region=0&sub_region=0&type=429",
@@ -1871,16 +1871,16 @@ export const duma_2003_uik_428_region_64_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Алимова Ольга Николаевна": 87,
-      "Большаков Иван Петрович": 6,
-      "Володин Вячеслав Викторович": 595,
-      "Граф Юрий Валентинович": 3,
-      "Караман Наталья Леонидовна": 1,
-      "Смирнов Владимир Сергеевич": 3,
-      "Смирнов Вячеслав Николаевич": 0,
-      "Тагунов Александр Васильевич": 11,
-      "Чирков Евгений Петрович": 2,
-      "Против всех": 27
+      "gas:candidate-vibid:1001000121904": 87,
+      "gas:candidate-vibid:1001000112252": 6,
+      "gas:candidate-vibid:1001000225982": 595,
+      "gas:candidate-vibid:364300170375": 3,
+      "gas:candidate-vibid:1001000121286": 1,
+      "gas:candidate-vibid:1001000113976": 3,
+      "gas:candidate-vibid:1001000195138": 0,
+      "gas:candidate-vibid:1001000136117": 11,
+      "gas:candidate-vibid:364300170488": 2,
+      "special:against-all": 27
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=643001003&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=364300170820&region=0&sub_region=0&type=429",
@@ -1930,16 +1930,16 @@ export const duma_2003_uik_428_region_64_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Алимова Ольга Николаевна": 60,
-      "Большаков Иван Петрович": 1,
-      "Володин Вячеслав Викторович": 434,
-      "Граф Юрий Валентинович": 0,
-      "Караман Наталья Леонидовна": 0,
-      "Смирнов Владимир Сергеевич": 3,
-      "Смирнов Вячеслав Николаевич": 1,
-      "Тагунов Александр Васильевич": 4,
-      "Чирков Евгений Петрович": 0,
-      "Против всех": 18
+      "gas:candidate-vibid:1001000121904": 60,
+      "gas:candidate-vibid:1001000112252": 1,
+      "gas:candidate-vibid:1001000225982": 434,
+      "gas:candidate-vibid:364300170375": 0,
+      "gas:candidate-vibid:1001000121286": 0,
+      "gas:candidate-vibid:1001000113976": 3,
+      "gas:candidate-vibid:1001000195138": 1,
+      "gas:candidate-vibid:1001000136117": 4,
+      "gas:candidate-vibid:364300170488": 0,
+      "special:against-all": 18
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=643001003&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=364300170820&region=0&sub_region=0&type=429",
@@ -1989,16 +1989,16 @@ export const duma_2003_uik_428_region_64_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Алимова Ольга Николаевна": 102,
-      "Большаков Иван Петрович": 4,
-      "Володин Вячеслав Викторович": 401,
-      "Граф Юрий Валентинович": 1,
-      "Караман Наталья Леонидовна": 1,
-      "Смирнов Владимир Сергеевич": 3,
-      "Смирнов Вячеслав Николаевич": 0,
-      "Тагунов Александр Васильевич": 9,
-      "Чирков Евгений Петрович": 1,
-      "Против всех": 11
+      "gas:candidate-vibid:1001000121904": 102,
+      "gas:candidate-vibid:1001000112252": 4,
+      "gas:candidate-vibid:1001000225982": 401,
+      "gas:candidate-vibid:364300170375": 1,
+      "gas:candidate-vibid:1001000121286": 1,
+      "gas:candidate-vibid:1001000113976": 3,
+      "gas:candidate-vibid:1001000195138": 0,
+      "gas:candidate-vibid:1001000136117": 9,
+      "gas:candidate-vibid:364300170488": 1,
+      "special:against-all": 11
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=643001003&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=364300170820&region=0&sub_region=0&type=429",
@@ -2048,16 +2048,16 @@ export const duma_2003_uik_428_region_64_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Алимова Ольга Николаевна": 37,
-      "Большаков Иван Петрович": 1,
-      "Володин Вячеслав Викторович": 180,
-      "Граф Юрий Валентинович": 1,
-      "Караман Наталья Леонидовна": 2,
-      "Смирнов Владимир Сергеевич": 0,
-      "Смирнов Вячеслав Николаевич": 0,
-      "Тагунов Александр Васильевич": 5,
-      "Чирков Евгений Петрович": 1,
-      "Против всех": 12
+      "gas:candidate-vibid:1001000121904": 37,
+      "gas:candidate-vibid:1001000112252": 1,
+      "gas:candidate-vibid:1001000225982": 180,
+      "gas:candidate-vibid:364300170375": 1,
+      "gas:candidate-vibid:1001000121286": 2,
+      "gas:candidate-vibid:1001000113976": 0,
+      "gas:candidate-vibid:1001000195138": 0,
+      "gas:candidate-vibid:1001000136117": 5,
+      "gas:candidate-vibid:364300170488": 1,
+      "special:against-all": 12
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=643001003&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=364300170820&region=0&sub_region=0&type=429",
@@ -2107,16 +2107,16 @@ export const duma_2003_uik_428_region_64_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Алимова Ольга Николаевна": 106,
-      "Большаков Иван Петрович": 10,
-      "Володин Вячеслав Викторович": 453,
-      "Граф Юрий Валентинович": 5,
-      "Караман Наталья Леонидовна": 0,
-      "Смирнов Владимир Сергеевич": 0,
-      "Смирнов Вячеслав Николаевич": 0,
-      "Тагунов Александр Васильевич": 3,
-      "Чирков Евгений Петрович": 4,
-      "Против всех": 25
+      "gas:candidate-vibid:1001000121904": 106,
+      "gas:candidate-vibid:1001000112252": 10,
+      "gas:candidate-vibid:1001000225982": 453,
+      "gas:candidate-vibid:364300170375": 5,
+      "gas:candidate-vibid:1001000121286": 0,
+      "gas:candidate-vibid:1001000113976": 0,
+      "gas:candidate-vibid:1001000195138": 0,
+      "gas:candidate-vibid:1001000136117": 3,
+      "gas:candidate-vibid:364300170488": 4,
+      "special:against-all": 25
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=643001003&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=364300170820&region=0&sub_region=0&type=429",
@@ -2166,16 +2166,16 @@ export const duma_2003_uik_428_region_64_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Алимова Ольга Николаевна": 0,
-      "Большаков Иван Петрович": 0,
-      "Володин Вячеслав Викторович": 38,
-      "Граф Юрий Валентинович": 0,
-      "Караман Наталья Леонидовна": 0,
-      "Смирнов Владимир Сергеевич": 0,
-      "Смирнов Вячеслав Николаевич": 0,
-      "Тагунов Александр Васильевич": 0,
-      "Чирков Евгений Петрович": 0,
-      "Против всех": 1
+      "gas:candidate-vibid:1001000121904": 0,
+      "gas:candidate-vibid:1001000112252": 0,
+      "gas:candidate-vibid:1001000225982": 38,
+      "gas:candidate-vibid:364300170375": 0,
+      "gas:candidate-vibid:1001000121286": 0,
+      "gas:candidate-vibid:1001000113976": 0,
+      "gas:candidate-vibid:1001000195138": 0,
+      "gas:candidate-vibid:1001000136117": 0,
+      "gas:candidate-vibid:364300170488": 0,
+      "special:against-all": 1
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=643001003&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=364300170820&region=0&sub_region=0&type=429",
@@ -2225,16 +2225,16 @@ export const duma_2003_uik_428_region_64_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Алимова Ольга Николаевна": 184,
-      "Большаков Иван Петрович": 6,
-      "Володин Вячеслав Викторович": 631,
-      "Граф Юрий Валентинович": 2,
-      "Караман Наталья Леонидовна": 2,
-      "Смирнов Владимир Сергеевич": 2,
-      "Смирнов Вячеслав Николаевич": 1,
-      "Тагунов Александр Васильевич": 10,
-      "Чирков Евгений Петрович": 1,
-      "Против всех": 33
+      "gas:candidate-vibid:1001000121904": 184,
+      "gas:candidate-vibid:1001000112252": 6,
+      "gas:candidate-vibid:1001000225982": 631,
+      "gas:candidate-vibid:364300170375": 2,
+      "gas:candidate-vibid:1001000121286": 2,
+      "gas:candidate-vibid:1001000113976": 2,
+      "gas:candidate-vibid:1001000195138": 1,
+      "gas:candidate-vibid:1001000136117": 10,
+      "gas:candidate-vibid:364300170488": 1,
+      "special:against-all": 33
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=643001003&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=364300170820&region=0&sub_region=0&type=429",
@@ -2284,16 +2284,16 @@ export const duma_2003_uik_428_region_64_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Алимова Ольга Николаевна": 55,
-      "Большаков Иван Петрович": 4,
-      "Володин Вячеслав Викторович": 798,
-      "Граф Юрий Валентинович": 11,
-      "Караман Наталья Леонидовна": 0,
-      "Смирнов Владимир Сергеевич": 0,
-      "Смирнов Вячеслав Николаевич": 4,
-      "Тагунов Александр Васильевич": 19,
-      "Чирков Евгений Петрович": 1,
-      "Против всех": 26
+      "gas:candidate-vibid:1001000121904": 55,
+      "gas:candidate-vibid:1001000112252": 4,
+      "gas:candidate-vibid:1001000225982": 798,
+      "gas:candidate-vibid:364300170375": 11,
+      "gas:candidate-vibid:1001000121286": 0,
+      "gas:candidate-vibid:1001000113976": 0,
+      "gas:candidate-vibid:1001000195138": 4,
+      "gas:candidate-vibid:1001000136117": 19,
+      "gas:candidate-vibid:364300170488": 1,
+      "special:against-all": 26
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=643001003&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=364300170820&region=0&sub_region=0&type=429",
@@ -2343,16 +2343,16 @@ export const duma_2003_uik_428_region_64_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Алимова Ольга Николаевна": 46,
-      "Большаков Иван Петрович": 3,
-      "Володин Вячеслав Викторович": 270,
-      "Граф Юрий Валентинович": 2,
-      "Караман Наталья Леонидовна": 0,
-      "Смирнов Владимир Сергеевич": 2,
-      "Смирнов Вячеслав Николаевич": 0,
-      "Тагунов Александр Васильевич": 6,
-      "Чирков Евгений Петрович": 0,
-      "Против всех": 9
+      "gas:candidate-vibid:1001000121904": 46,
+      "gas:candidate-vibid:1001000112252": 3,
+      "gas:candidate-vibid:1001000225982": 270,
+      "gas:candidate-vibid:364300170375": 2,
+      "gas:candidate-vibid:1001000121286": 0,
+      "gas:candidate-vibid:1001000113976": 2,
+      "gas:candidate-vibid:1001000195138": 0,
+      "gas:candidate-vibid:1001000136117": 6,
+      "gas:candidate-vibid:364300170488": 0,
+      "special:against-all": 9
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=643001003&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=364300170820&region=0&sub_region=0&type=429",
@@ -2402,16 +2402,16 @@ export const duma_2003_uik_428_region_64_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Алимова Ольга Николаевна": 172,
-      "Большаков Иван Петрович": 6,
-      "Володин Вячеслав Викторович": 755,
-      "Граф Юрий Валентинович": 3,
-      "Караман Наталья Леонидовна": 1,
-      "Смирнов Владимир Сергеевич": 1,
-      "Смирнов Вячеслав Николаевич": 2,
-      "Тагунов Александр Васильевич": 9,
-      "Чирков Евгений Петрович": 0,
-      "Против всех": 40
+      "gas:candidate-vibid:1001000121904": 172,
+      "gas:candidate-vibid:1001000112252": 6,
+      "gas:candidate-vibid:1001000225982": 755,
+      "gas:candidate-vibid:364300170375": 3,
+      "gas:candidate-vibid:1001000121286": 1,
+      "gas:candidate-vibid:1001000113976": 1,
+      "gas:candidate-vibid:1001000195138": 2,
+      "gas:candidate-vibid:1001000136117": 9,
+      "gas:candidate-vibid:364300170488": 0,
+      "special:against-all": 40
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=643001003&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=364300170820&region=0&sub_region=0&type=429",
@@ -2461,16 +2461,16 @@ export const duma_2003_uik_428_region_64_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Алимова Ольга Николаевна": 139,
-      "Большаков Иван Петрович": 7,
-      "Володин Вячеслав Викторович": 739,
-      "Граф Юрий Валентинович": 1,
-      "Караман Наталья Леонидовна": 1,
-      "Смирнов Владимир Сергеевич": 2,
-      "Смирнов Вячеслав Николаевич": 1,
-      "Тагунов Александр Васильевич": 7,
-      "Чирков Евгений Петрович": 1,
-      "Против всех": 35
+      "gas:candidate-vibid:1001000121904": 139,
+      "gas:candidate-vibid:1001000112252": 7,
+      "gas:candidate-vibid:1001000225982": 739,
+      "gas:candidate-vibid:364300170375": 1,
+      "gas:candidate-vibid:1001000121286": 1,
+      "gas:candidate-vibid:1001000113976": 2,
+      "gas:candidate-vibid:1001000195138": 1,
+      "gas:candidate-vibid:1001000136117": 7,
+      "gas:candidate-vibid:364300170488": 1,
+      "special:against-all": 35
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=643001003&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=364300170820&region=0&sub_region=0&type=429",
@@ -2520,16 +2520,16 @@ export const duma_2003_uik_428_region_64_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Алимова Ольга Николаевна": 136,
-      "Большаков Иван Петрович": 6,
-      "Володин Вячеслав Викторович": 732,
-      "Граф Юрий Валентинович": 0,
-      "Караман Наталья Леонидовна": 3,
-      "Смирнов Владимир Сергеевич": 1,
-      "Смирнов Вячеслав Николаевич": 0,
-      "Тагунов Александр Васильевич": 14,
-      "Чирков Евгений Петрович": 2,
-      "Против всех": 29
+      "gas:candidate-vibid:1001000121904": 136,
+      "gas:candidate-vibid:1001000112252": 6,
+      "gas:candidate-vibid:1001000225982": 732,
+      "gas:candidate-vibid:364300170375": 0,
+      "gas:candidate-vibid:1001000121286": 3,
+      "gas:candidate-vibid:1001000113976": 1,
+      "gas:candidate-vibid:1001000195138": 0,
+      "gas:candidate-vibid:1001000136117": 14,
+      "gas:candidate-vibid:364300170488": 2,
+      "special:against-all": 29
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=643001003&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=364300170820&region=0&sub_region=0&type=429",
@@ -2579,16 +2579,16 @@ export const duma_2003_uik_428_region_64_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Алимова Ольга Николаевна": 112,
-      "Большаков Иван Петрович": 4,
-      "Володин Вячеслав Викторович": 536,
-      "Граф Юрий Валентинович": 0,
-      "Караман Наталья Леонидовна": 2,
-      "Смирнов Владимир Сергеевич": 1,
-      "Смирнов Вячеслав Николаевич": 0,
-      "Тагунов Александр Васильевич": 4,
-      "Чирков Евгений Петрович": 1,
-      "Против всех": 23
+      "gas:candidate-vibid:1001000121904": 112,
+      "gas:candidate-vibid:1001000112252": 4,
+      "gas:candidate-vibid:1001000225982": 536,
+      "gas:candidate-vibid:364300170375": 0,
+      "gas:candidate-vibid:1001000121286": 2,
+      "gas:candidate-vibid:1001000113976": 1,
+      "gas:candidate-vibid:1001000195138": 0,
+      "gas:candidate-vibid:1001000136117": 4,
+      "gas:candidate-vibid:364300170488": 1,
+      "special:against-all": 23
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=643001003&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=364300170820&region=0&sub_region=0&type=429",
@@ -2638,16 +2638,16 @@ export const duma_2003_uik_428_region_64_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Алимова Ольга Николаевна": 149,
-      "Большаков Иван Петрович": 30,
-      "Володин Вячеслав Викторович": 1759,
-      "Граф Юрий Валентинович": 21,
-      "Караман Наталья Леонидовна": 14,
-      "Смирнов Владимир Сергеевич": 33,
-      "Смирнов Вячеслав Николаевич": 19,
-      "Тагунов Александр Васильевич": 95,
-      "Чирков Евгений Петрович": 7,
-      "Против всех": 211
+      "gas:candidate-vibid:1001000121904": 149,
+      "gas:candidate-vibid:1001000112252": 30,
+      "gas:candidate-vibid:1001000225982": 1759,
+      "gas:candidate-vibid:364300170375": 21,
+      "gas:candidate-vibid:1001000121286": 14,
+      "gas:candidate-vibid:1001000113976": 33,
+      "gas:candidate-vibid:1001000195138": 19,
+      "gas:candidate-vibid:1001000136117": 95,
+      "gas:candidate-vibid:364300170488": 7,
+      "special:against-all": 211
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=643001003&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=364300170820&region=0&sub_region=0&type=429",
@@ -2697,16 +2697,16 @@ export const duma_2003_uik_428_region_64_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Алимова Ольга Николаевна": 171,
-      "Большаков Иван Петрович": 7,
-      "Володин Вячеслав Викторович": 1076,
-      "Граф Юрий Валентинович": 2,
-      "Караман Наталья Леонидовна": 2,
-      "Смирнов Владимир Сергеевич": 3,
-      "Смирнов Вячеслав Николаевич": 0,
-      "Тагунов Александр Васильевич": 19,
-      "Чирков Евгений Петрович": 2,
-      "Против всех": 47
+      "gas:candidate-vibid:1001000121904": 171,
+      "gas:candidate-vibid:1001000112252": 7,
+      "gas:candidate-vibid:1001000225982": 1076,
+      "gas:candidate-vibid:364300170375": 2,
+      "gas:candidate-vibid:1001000121286": 2,
+      "gas:candidate-vibid:1001000113976": 3,
+      "gas:candidate-vibid:1001000195138": 0,
+      "gas:candidate-vibid:1001000136117": 19,
+      "gas:candidate-vibid:364300170488": 2,
+      "special:against-all": 47
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=643001003&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=364300170820&region=0&sub_region=0&type=429",
@@ -2756,16 +2756,16 @@ export const duma_2003_uik_428_region_64_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Алимова Ольга Николаевна": 129,
-      "Большаков Иван Петрович": 5,
-      "Володин Вячеслав Викторович": 775,
-      "Граф Юрий Валентинович": 1,
-      "Караман Наталья Леонидовна": 1,
-      "Смирнов Владимир Сергеевич": 2,
-      "Смирнов Вячеслав Николаевич": 1,
-      "Тагунов Александр Васильевич": 6,
-      "Чирков Евгений Петрович": 2,
-      "Против всех": 55
+      "gas:candidate-vibid:1001000121904": 129,
+      "gas:candidate-vibid:1001000112252": 5,
+      "gas:candidate-vibid:1001000225982": 775,
+      "gas:candidate-vibid:364300170375": 1,
+      "gas:candidate-vibid:1001000121286": 1,
+      "gas:candidate-vibid:1001000113976": 2,
+      "gas:candidate-vibid:1001000195138": 1,
+      "gas:candidate-vibid:1001000136117": 6,
+      "gas:candidate-vibid:364300170488": 2,
+      "special:against-all": 55
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=643001003&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=364300170820&region=0&sub_region=0&type=429",
@@ -2815,16 +2815,16 @@ export const duma_2003_uik_428_region_64_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Алимова Ольга Николаевна": 1,
-      "Большаков Иван Петрович": 0,
-      "Володин Вячеслав Викторович": 329,
-      "Граф Юрий Валентинович": 0,
-      "Караман Наталья Леонидовна": 0,
-      "Смирнов Владимир Сергеевич": 0,
-      "Смирнов Вячеслав Николаевич": 0,
-      "Тагунов Александр Васильевич": 0,
-      "Чирков Евгений Петрович": 0,
-      "Против всех": 3
+      "gas:candidate-vibid:1001000121904": 1,
+      "gas:candidate-vibid:1001000112252": 0,
+      "gas:candidate-vibid:1001000225982": 329,
+      "gas:candidate-vibid:364300170375": 0,
+      "gas:candidate-vibid:1001000121286": 0,
+      "gas:candidate-vibid:1001000113976": 0,
+      "gas:candidate-vibid:1001000195138": 0,
+      "gas:candidate-vibid:1001000136117": 0,
+      "gas:candidate-vibid:364300170488": 0,
+      "special:against-all": 3
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=643001003&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=364300170820&region=0&sub_region=0&type=429",
@@ -2874,16 +2874,16 @@ export const duma_2003_uik_428_region_64_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Алимова Ольга Николаевна": 102,
-      "Большаков Иван Петрович": 8,
-      "Володин Вячеслав Викторович": 599,
-      "Граф Юрий Валентинович": 6,
-      "Караман Наталья Леонидовна": 4,
-      "Смирнов Владимир Сергеевич": 6,
-      "Смирнов Вячеслав Николаевич": 7,
-      "Тагунов Александр Васильевич": 13,
-      "Чирков Евгений Петрович": 1,
-      "Против всех": 60
+      "gas:candidate-vibid:1001000121904": 102,
+      "gas:candidate-vibid:1001000112252": 8,
+      "gas:candidate-vibid:1001000225982": 599,
+      "gas:candidate-vibid:364300170375": 6,
+      "gas:candidate-vibid:1001000121286": 4,
+      "gas:candidate-vibid:1001000113976": 6,
+      "gas:candidate-vibid:1001000195138": 7,
+      "gas:candidate-vibid:1001000136117": 13,
+      "gas:candidate-vibid:364300170488": 1,
+      "special:against-all": 60
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=643001003&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=364300170820&region=0&sub_region=0&type=429",
@@ -2933,16 +2933,16 @@ export const duma_2003_uik_428_region_64_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Алимова Ольга Николаевна": 116,
-      "Большаков Иван Петрович": 5,
-      "Володин Вячеслав Викторович": 825,
-      "Граф Юрий Валентинович": 0,
-      "Караман Наталья Леонидовна": 0,
-      "Смирнов Владимир Сергеевич": 1,
-      "Смирнов Вячеслав Николаевич": 0,
-      "Тагунов Александр Васильевич": 10,
-      "Чирков Евгений Петрович": 1,
-      "Против всех": 32
+      "gas:candidate-vibid:1001000121904": 116,
+      "gas:candidate-vibid:1001000112252": 5,
+      "gas:candidate-vibid:1001000225982": 825,
+      "gas:candidate-vibid:364300170375": 0,
+      "gas:candidate-vibid:1001000121286": 0,
+      "gas:candidate-vibid:1001000113976": 1,
+      "gas:candidate-vibid:1001000195138": 0,
+      "gas:candidate-vibid:1001000136117": 10,
+      "gas:candidate-vibid:364300170488": 1,
+      "special:against-all": 32
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=643001003&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=364300170820&region=0&sub_region=0&type=429",
@@ -2992,16 +2992,16 @@ export const duma_2003_uik_428_region_64_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Алимова Ольга Николаевна": 119,
-      "Большаков Иван Петрович": 13,
-      "Володин Вячеслав Викторович": 1186,
-      "Граф Юрий Валентинович": 1,
-      "Караман Наталья Леонидовна": 1,
-      "Смирнов Владимир Сергеевич": 1,
-      "Смирнов Вячеслав Николаевич": 3,
-      "Тагунов Александр Васильевич": 13,
-      "Чирков Евгений Петрович": 0,
-      "Против всех": 25
+      "gas:candidate-vibid:1001000121904": 119,
+      "gas:candidate-vibid:1001000112252": 13,
+      "gas:candidate-vibid:1001000225982": 1186,
+      "gas:candidate-vibid:364300170375": 1,
+      "gas:candidate-vibid:1001000121286": 1,
+      "gas:candidate-vibid:1001000113976": 1,
+      "gas:candidate-vibid:1001000195138": 3,
+      "gas:candidate-vibid:1001000136117": 13,
+      "gas:candidate-vibid:364300170488": 0,
+      "special:against-all": 25
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=643001003&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=364300170820&region=0&sub_region=0&type=429",
@@ -3051,16 +3051,16 @@ export const duma_2003_uik_428_region_64_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Алимова Ольга Николаевна": 69,
-      "Большаков Иван Петрович": 0,
-      "Володин Вячеслав Викторович": 590,
-      "Граф Юрий Валентинович": 0,
-      "Караман Наталья Леонидовна": 0,
-      "Смирнов Владимир Сергеевич": 3,
-      "Смирнов Вячеслав Николаевич": 0,
-      "Тагунов Александр Васильевич": 7,
-      "Чирков Евгений Петрович": 0,
-      "Против всех": 15
+      "gas:candidate-vibid:1001000121904": 69,
+      "gas:candidate-vibid:1001000112252": 0,
+      "gas:candidate-vibid:1001000225982": 590,
+      "gas:candidate-vibid:364300170375": 0,
+      "gas:candidate-vibid:1001000121286": 0,
+      "gas:candidate-vibid:1001000113976": 3,
+      "gas:candidate-vibid:1001000195138": 0,
+      "gas:candidate-vibid:1001000136117": 7,
+      "gas:candidate-vibid:364300170488": 0,
+      "special:against-all": 15
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=643001003&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=364300170820&region=0&sub_region=0&type=429",
@@ -3110,16 +3110,16 @@ export const duma_2003_uik_428_region_64_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Алимова Ольга Николаевна": 107,
-      "Большаков Иван Петрович": 5,
-      "Володин Вячеслав Викторович": 679,
-      "Граф Юрий Валентинович": 0,
-      "Караман Наталья Леонидовна": 0,
-      "Смирнов Владимир Сергеевич": 0,
-      "Смирнов Вячеслав Николаевич": 1,
-      "Тагунов Александр Васильевич": 4,
-      "Чирков Евгений Петрович": 2,
-      "Против всех": 34
+      "gas:candidate-vibid:1001000121904": 107,
+      "gas:candidate-vibid:1001000112252": 5,
+      "gas:candidate-vibid:1001000225982": 679,
+      "gas:candidate-vibid:364300170375": 0,
+      "gas:candidate-vibid:1001000121286": 0,
+      "gas:candidate-vibid:1001000113976": 0,
+      "gas:candidate-vibid:1001000195138": 1,
+      "gas:candidate-vibid:1001000136117": 4,
+      "gas:candidate-vibid:364300170488": 2,
+      "special:against-all": 34
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=643001003&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=364300170820&region=0&sub_region=0&type=429",
@@ -3169,16 +3169,16 @@ export const duma_2003_uik_428_region_64_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Алимова Ольга Николаевна": 136,
-      "Большаков Иван Петрович": 4,
-      "Володин Вячеслав Викторович": 565,
-      "Граф Юрий Валентинович": 3,
-      "Караман Наталья Леонидовна": 0,
-      "Смирнов Владимир Сергеевич": 1,
-      "Смирнов Вячеслав Николаевич": 0,
-      "Тагунов Александр Васильевич": 10,
-      "Чирков Евгений Петрович": 0,
-      "Против всех": 19
+      "gas:candidate-vibid:1001000121904": 136,
+      "gas:candidate-vibid:1001000112252": 4,
+      "gas:candidate-vibid:1001000225982": 565,
+      "gas:candidate-vibid:364300170375": 3,
+      "gas:candidate-vibid:1001000121286": 0,
+      "gas:candidate-vibid:1001000113976": 1,
+      "gas:candidate-vibid:1001000195138": 0,
+      "gas:candidate-vibid:1001000136117": 10,
+      "gas:candidate-vibid:364300170488": 0,
+      "special:against-all": 19
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=643001003&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=364300170820&region=0&sub_region=0&type=429",
@@ -3228,16 +3228,16 @@ export const duma_2003_uik_428_region_64_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Алимова Ольга Николаевна": 57,
-      "Большаков Иван Петрович": 3,
-      "Володин Вячеслав Викторович": 406,
-      "Граф Юрий Валентинович": 0,
-      "Караман Наталья Леонидовна": 0,
-      "Смирнов Владимир Сергеевич": 1,
-      "Смирнов Вячеслав Николаевич": 2,
-      "Тагунов Александр Васильевич": 9,
-      "Чирков Евгений Петрович": 0,
-      "Против всех": 13
+      "gas:candidate-vibid:1001000121904": 57,
+      "gas:candidate-vibid:1001000112252": 3,
+      "gas:candidate-vibid:1001000225982": 406,
+      "gas:candidate-vibid:364300170375": 0,
+      "gas:candidate-vibid:1001000121286": 0,
+      "gas:candidate-vibid:1001000113976": 1,
+      "gas:candidate-vibid:1001000195138": 2,
+      "gas:candidate-vibid:1001000136117": 9,
+      "gas:candidate-vibid:364300170488": 0,
+      "special:against-all": 13
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=643001003&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=364300170820&region=0&sub_region=0&type=429",
@@ -3287,16 +3287,16 @@ export const duma_2003_uik_428_region_64_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Алимова Ольга Николаевна": 46,
-      "Большаков Иван Петрович": 3,
-      "Володин Вячеслав Викторович": 332,
-      "Граф Юрий Валентинович": 0,
-      "Караман Наталья Леонидовна": 0,
-      "Смирнов Владимир Сергеевич": 2,
-      "Смирнов Вячеслав Николаевич": 0,
-      "Тагунов Александр Васильевич": 5,
-      "Чирков Евгений Петрович": 0,
-      "Против всех": 18
+      "gas:candidate-vibid:1001000121904": 46,
+      "gas:candidate-vibid:1001000112252": 3,
+      "gas:candidate-vibid:1001000225982": 332,
+      "gas:candidate-vibid:364300170375": 0,
+      "gas:candidate-vibid:1001000121286": 0,
+      "gas:candidate-vibid:1001000113976": 2,
+      "gas:candidate-vibid:1001000195138": 0,
+      "gas:candidate-vibid:1001000136117": 5,
+      "gas:candidate-vibid:364300170488": 0,
+      "special:against-all": 18
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=643001003&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=364300170820&region=0&sub_region=0&type=429",
@@ -3346,16 +3346,16 @@ export const duma_2003_uik_428_region_64_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Алимова Ольга Николаевна": 42,
-      "Большаков Иван Петрович": 1,
-      "Володин Вячеслав Викторович": 318,
-      "Граф Юрий Валентинович": 0,
-      "Караман Наталья Леонидовна": 1,
-      "Смирнов Владимир Сергеевич": 1,
-      "Смирнов Вячеслав Николаевич": 1,
-      "Тагунов Александр Васильевич": 1,
-      "Чирков Евгений Петрович": 1,
-      "Против всех": 2
+      "gas:candidate-vibid:1001000121904": 42,
+      "gas:candidate-vibid:1001000112252": 1,
+      "gas:candidate-vibid:1001000225982": 318,
+      "gas:candidate-vibid:364300170375": 0,
+      "gas:candidate-vibid:1001000121286": 1,
+      "gas:candidate-vibid:1001000113976": 1,
+      "gas:candidate-vibid:1001000195138": 1,
+      "gas:candidate-vibid:1001000136117": 1,
+      "gas:candidate-vibid:364300170488": 1,
+      "special:against-all": 2
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=643001003&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=364300170820&region=0&sub_region=0&type=429",
@@ -3405,16 +3405,16 @@ export const duma_2003_uik_428_region_64_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Алимова Ольга Николаевна": 0,
-      "Большаков Иван Петрович": 0,
-      "Володин Вячеслав Викторович": 42,
-      "Граф Юрий Валентинович": 0,
-      "Караман Наталья Леонидовна": 0,
-      "Смирнов Владимир Сергеевич": 0,
-      "Смирнов Вячеслав Николаевич": 0,
-      "Тагунов Александр Васильевич": 0,
-      "Чирков Евгений Петрович": 0,
-      "Против всех": 0
+      "gas:candidate-vibid:1001000121904": 0,
+      "gas:candidate-vibid:1001000112252": 0,
+      "gas:candidate-vibid:1001000225982": 42,
+      "gas:candidate-vibid:364300170375": 0,
+      "gas:candidate-vibid:1001000121286": 0,
+      "gas:candidate-vibid:1001000113976": 0,
+      "gas:candidate-vibid:1001000195138": 0,
+      "gas:candidate-vibid:1001000136117": 0,
+      "gas:candidate-vibid:364300170488": 0,
+      "special:against-all": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=643001003&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=364300170820&region=0&sub_region=0&type=429",
@@ -3464,16 +3464,16 @@ export const duma_2003_uik_428_region_64_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Алимова Ольга Николаевна": 12,
-      "Большаков Иван Петрович": 1,
-      "Володин Вячеслав Викторович": 235,
-      "Граф Юрий Валентинович": 0,
-      "Караман Наталья Леонидовна": 0,
-      "Смирнов Владимир Сергеевич": 0,
-      "Смирнов Вячеслав Николаевич": 0,
-      "Тагунов Александр Васильевич": 5,
-      "Чирков Евгений Петрович": 0,
-      "Против всех": 6
+      "gas:candidate-vibid:1001000121904": 12,
+      "gas:candidate-vibid:1001000112252": 1,
+      "gas:candidate-vibid:1001000225982": 235,
+      "gas:candidate-vibid:364300170375": 0,
+      "gas:candidate-vibid:1001000121286": 0,
+      "gas:candidate-vibid:1001000113976": 0,
+      "gas:candidate-vibid:1001000195138": 0,
+      "gas:candidate-vibid:1001000136117": 5,
+      "gas:candidate-vibid:364300170488": 0,
+      "special:against-all": 6
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=643001003&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=364300170820&region=0&sub_region=0&type=429",
@@ -3523,16 +3523,16 @@ export const duma_2003_uik_428_region_64_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Алимова Ольга Николаевна": 100,
-      "Большаков Иван Петрович": 2,
-      "Володин Вячеслав Викторович": 393,
-      "Граф Юрий Валентинович": 1,
-      "Караман Наталья Леонидовна": 1,
-      "Смирнов Владимир Сергеевич": 0,
-      "Смирнов Вячеслав Николаевич": 1,
-      "Тагунов Александр Васильевич": 2,
-      "Чирков Евгений Петрович": 4,
-      "Против всех": 18
+      "gas:candidate-vibid:1001000121904": 100,
+      "gas:candidate-vibid:1001000112252": 2,
+      "gas:candidate-vibid:1001000225982": 393,
+      "gas:candidate-vibid:364300170375": 1,
+      "gas:candidate-vibid:1001000121286": 1,
+      "gas:candidate-vibid:1001000113976": 0,
+      "gas:candidate-vibid:1001000195138": 1,
+      "gas:candidate-vibid:1001000136117": 2,
+      "gas:candidate-vibid:364300170488": 4,
+      "special:against-all": 18
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=643001003&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=364300170820&region=0&sub_region=0&type=429",
@@ -3582,16 +3582,16 @@ export const duma_2003_uik_428_region_64_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Алимова Ольга Николаевна": 122,
-      "Большаков Иван Петрович": 11,
-      "Володин Вячеслав Викторович": 484,
-      "Граф Юрий Валентинович": 0,
-      "Караман Наталья Леонидовна": 3,
-      "Смирнов Владимир Сергеевич": 1,
-      "Смирнов Вячеслав Николаевич": 1,
-      "Тагунов Александр Васильевич": 19,
-      "Чирков Евгений Петрович": 2,
-      "Против всех": 29
+      "gas:candidate-vibid:1001000121904": 122,
+      "gas:candidate-vibid:1001000112252": 11,
+      "gas:candidate-vibid:1001000225982": 484,
+      "gas:candidate-vibid:364300170375": 0,
+      "gas:candidate-vibid:1001000121286": 3,
+      "gas:candidate-vibid:1001000113976": 1,
+      "gas:candidate-vibid:1001000195138": 1,
+      "gas:candidate-vibid:1001000136117": 19,
+      "gas:candidate-vibid:364300170488": 2,
+      "special:against-all": 29
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=643001003&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=364300170820&region=0&sub_region=0&type=429",
@@ -3641,16 +3641,16 @@ export const duma_2003_uik_428_region_64_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Алимова Ольга Николаевна": 318,
-      "Большаков Иван Петрович": 13,
-      "Володин Вячеслав Викторович": 1094,
-      "Граф Юрий Валентинович": 7,
-      "Караман Наталья Леонидовна": 1,
-      "Смирнов Владимир Сергеевич": 3,
-      "Смирнов Вячеслав Николаевич": 3,
-      "Тагунов Александр Васильевич": 33,
-      "Чирков Евгений Петрович": 2,
-      "Против всех": 66
+      "gas:candidate-vibid:1001000121904": 318,
+      "gas:candidate-vibid:1001000112252": 13,
+      "gas:candidate-vibid:1001000225982": 1094,
+      "gas:candidate-vibid:364300170375": 7,
+      "gas:candidate-vibid:1001000121286": 1,
+      "gas:candidate-vibid:1001000113976": 3,
+      "gas:candidate-vibid:1001000195138": 3,
+      "gas:candidate-vibid:1001000136117": 33,
+      "gas:candidate-vibid:364300170488": 2,
+      "special:against-all": 66
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=643001003&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=364300170820&region=0&sub_region=0&type=429",
@@ -3700,16 +3700,16 @@ export const duma_2003_uik_428_region_64_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Алимова Ольга Николаевна": 49,
-      "Большаков Иван Петрович": 3,
-      "Володин Вячеслав Викторович": 244,
-      "Граф Юрий Валентинович": 0,
-      "Караман Наталья Леонидовна": 0,
-      "Смирнов Владимир Сергеевич": 0,
-      "Смирнов Вячеслав Николаевич": 0,
-      "Тагунов Александр Васильевич": 2,
-      "Чирков Евгений Петрович": 0,
-      "Против всех": 8
+      "gas:candidate-vibid:1001000121904": 49,
+      "gas:candidate-vibid:1001000112252": 3,
+      "gas:candidate-vibid:1001000225982": 244,
+      "gas:candidate-vibid:364300170375": 0,
+      "gas:candidate-vibid:1001000121286": 0,
+      "gas:candidate-vibid:1001000113976": 0,
+      "gas:candidate-vibid:1001000195138": 0,
+      "gas:candidate-vibid:1001000136117": 2,
+      "gas:candidate-vibid:364300170488": 0,
+      "special:against-all": 8
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=643001003&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=364300170820&region=0&sub_region=0&type=429",
@@ -3759,16 +3759,16 @@ export const duma_2003_uik_428_region_64_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Алимова Ольга Николаевна": 25,
-      "Большаков Иван Петрович": 3,
-      "Володин Вячеслав Викторович": 146,
-      "Граф Юрий Валентинович": 0,
-      "Караман Наталья Леонидовна": 1,
-      "Смирнов Владимир Сергеевич": 0,
-      "Смирнов Вячеслав Николаевич": 0,
-      "Тагунов Александр Васильевич": 2,
-      "Чирков Евгений Петрович": 0,
-      "Против всех": 13
+      "gas:candidate-vibid:1001000121904": 25,
+      "gas:candidate-vibid:1001000112252": 3,
+      "gas:candidate-vibid:1001000225982": 146,
+      "gas:candidate-vibid:364300170375": 0,
+      "gas:candidate-vibid:1001000121286": 1,
+      "gas:candidate-vibid:1001000113976": 0,
+      "gas:candidate-vibid:1001000195138": 0,
+      "gas:candidate-vibid:1001000136117": 2,
+      "gas:candidate-vibid:364300170488": 0,
+      "special:against-all": 13
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=643001003&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=364300170820&region=0&sub_region=0&type=429",
@@ -3818,16 +3818,16 @@ export const duma_2003_uik_428_region_64_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Алимова Ольга Николаевна": 48,
-      "Большаков Иван Петрович": 2,
-      "Володин Вячеслав Викторович": 425,
-      "Граф Юрий Валентинович": 2,
-      "Караман Наталья Леонидовна": 0,
-      "Смирнов Владимир Сергеевич": 0,
-      "Смирнов Вячеслав Николаевич": 0,
-      "Тагунов Александр Васильевич": 9,
-      "Чирков Евгений Петрович": 0,
-      "Против всех": 10
+      "gas:candidate-vibid:1001000121904": 48,
+      "gas:candidate-vibid:1001000112252": 2,
+      "gas:candidate-vibid:1001000225982": 425,
+      "gas:candidate-vibid:364300170375": 2,
+      "gas:candidate-vibid:1001000121286": 0,
+      "gas:candidate-vibid:1001000113976": 0,
+      "gas:candidate-vibid:1001000195138": 0,
+      "gas:candidate-vibid:1001000136117": 9,
+      "gas:candidate-vibid:364300170488": 0,
+      "special:against-all": 10
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=643001003&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=364300170820&region=0&sub_region=0&type=429",
@@ -3877,16 +3877,16 @@ export const duma_2003_uik_428_region_64_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Алимова Ольга Николаевна": 14,
-      "Большаков Иван Петрович": 3,
-      "Володин Вячеслав Викторович": 112,
-      "Граф Юрий Валентинович": 0,
-      "Караман Наталья Леонидовна": 0,
-      "Смирнов Владимир Сергеевич": 1,
-      "Смирнов Вячеслав Николаевич": 0,
-      "Тагунов Александр Васильевич": 1,
-      "Чирков Евгений Петрович": 0,
-      "Против всех": 5
+      "gas:candidate-vibid:1001000121904": 14,
+      "gas:candidate-vibid:1001000112252": 3,
+      "gas:candidate-vibid:1001000225982": 112,
+      "gas:candidate-vibid:364300170375": 0,
+      "gas:candidate-vibid:1001000121286": 0,
+      "gas:candidate-vibid:1001000113976": 1,
+      "gas:candidate-vibid:1001000195138": 0,
+      "gas:candidate-vibid:1001000136117": 1,
+      "gas:candidate-vibid:364300170488": 0,
+      "special:against-all": 5
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=643001003&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=364300170820&region=0&sub_region=0&type=429",
@@ -3936,16 +3936,16 @@ export const duma_2003_uik_428_region_64_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Алимова Ольга Николаевна": 0,
-      "Большаков Иван Петрович": 0,
-      "Володин Вячеслав Викторович": 95,
-      "Граф Юрий Валентинович": 0,
-      "Караман Наталья Леонидовна": 0,
-      "Смирнов Владимир Сергеевич": 0,
-      "Смирнов Вячеслав Николаевич": 0,
-      "Тагунов Александр Васильевич": 0,
-      "Чирков Евгений Петрович": 0,
-      "Против всех": 0
+      "gas:candidate-vibid:1001000121904": 0,
+      "gas:candidate-vibid:1001000112252": 0,
+      "gas:candidate-vibid:1001000225982": 95,
+      "gas:candidate-vibid:364300170375": 0,
+      "gas:candidate-vibid:1001000121286": 0,
+      "gas:candidate-vibid:1001000113976": 0,
+      "gas:candidate-vibid:1001000195138": 0,
+      "gas:candidate-vibid:1001000136117": 0,
+      "gas:candidate-vibid:364300170488": 0,
+      "special:against-all": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=643001003&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=364300170820&region=0&sub_region=0&type=429",
@@ -3995,16 +3995,16 @@ export const duma_2003_uik_428_region_64_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Алимова Ольга Николаевна": 36,
-      "Большаков Иван Петрович": 2,
-      "Володин Вячеслав Викторович": 264,
-      "Граф Юрий Валентинович": 0,
-      "Караман Наталья Леонидовна": 1,
-      "Смирнов Владимир Сергеевич": 2,
-      "Смирнов Вячеслав Николаевич": 1,
-      "Тагунов Александр Васильевич": 5,
-      "Чирков Евгений Петрович": 0,
-      "Против всех": 49
+      "gas:candidate-vibid:1001000121904": 36,
+      "gas:candidate-vibid:1001000112252": 2,
+      "gas:candidate-vibid:1001000225982": 264,
+      "gas:candidate-vibid:364300170375": 0,
+      "gas:candidate-vibid:1001000121286": 1,
+      "gas:candidate-vibid:1001000113976": 2,
+      "gas:candidate-vibid:1001000195138": 1,
+      "gas:candidate-vibid:1001000136117": 5,
+      "gas:candidate-vibid:364300170488": 0,
+      "special:against-all": 49
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=643001003&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=364300170820&region=0&sub_region=0&type=429",
@@ -4054,16 +4054,16 @@ export const duma_2003_uik_428_region_64_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Алимова Ольга Николаевна": 146,
-      "Большаков Иван Петрович": 24,
-      "Володин Вячеслав Викторович": 1352,
-      "Граф Юрий Валентинович": 5,
-      "Караман Наталья Леонидовна": 11,
-      "Смирнов Владимир Сергеевич": 8,
-      "Смирнов Вячеслав Николаевич": 11,
-      "Тагунов Александр Васильевич": 51,
-      "Чирков Евгений Петрович": 6,
-      "Против всех": 184
+      "gas:candidate-vibid:1001000121904": 146,
+      "gas:candidate-vibid:1001000112252": 24,
+      "gas:candidate-vibid:1001000225982": 1352,
+      "gas:candidate-vibid:364300170375": 5,
+      "gas:candidate-vibid:1001000121286": 11,
+      "gas:candidate-vibid:1001000113976": 8,
+      "gas:candidate-vibid:1001000195138": 11,
+      "gas:candidate-vibid:1001000136117": 51,
+      "gas:candidate-vibid:364300170488": 6,
+      "special:against-all": 184
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=643001003&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=364300170820&region=0&sub_region=0&type=429",
@@ -4113,16 +4113,16 @@ export const duma_2003_uik_428_region_64_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Алимова Ольга Николаевна": 74,
-      "Большаков Иван Петрович": 12,
-      "Володин Вячеслав Викторович": 826,
-      "Граф Юрий Валентинович": 13,
-      "Караман Наталья Леонидовна": 8,
-      "Смирнов Владимир Сергеевич": 26,
-      "Смирнов Вячеслав Николаевич": 15,
-      "Тагунов Александр Васильевич": 72,
-      "Чирков Евгений Петрович": 1,
-      "Против всех": 177
+      "gas:candidate-vibid:1001000121904": 74,
+      "gas:candidate-vibid:1001000112252": 12,
+      "gas:candidate-vibid:1001000225982": 826,
+      "gas:candidate-vibid:364300170375": 13,
+      "gas:candidate-vibid:1001000121286": 8,
+      "gas:candidate-vibid:1001000113976": 26,
+      "gas:candidate-vibid:1001000195138": 15,
+      "gas:candidate-vibid:1001000136117": 72,
+      "gas:candidate-vibid:364300170488": 1,
+      "special:against-all": 177
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=643001003&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=364300170820&region=0&sub_region=0&type=429",
@@ -4172,16 +4172,16 @@ export const duma_2003_uik_428_region_64_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Алимова Ольга Николаевна": 2,
-      "Большаков Иван Петрович": 0,
-      "Володин Вячеслав Викторович": 113,
-      "Граф Юрий Валентинович": 0,
-      "Караман Наталья Леонидовна": 0,
-      "Смирнов Владимир Сергеевич": 0,
-      "Смирнов Вячеслав Николаевич": 0,
-      "Тагунов Александр Васильевич": 0,
-      "Чирков Евгений Петрович": 0,
-      "Против всех": 2
+      "gas:candidate-vibid:1001000121904": 2,
+      "gas:candidate-vibid:1001000112252": 0,
+      "gas:candidate-vibid:1001000225982": 113,
+      "gas:candidate-vibid:364300170375": 0,
+      "gas:candidate-vibid:1001000121286": 0,
+      "gas:candidate-vibid:1001000113976": 0,
+      "gas:candidate-vibid:1001000195138": 0,
+      "gas:candidate-vibid:1001000136117": 0,
+      "gas:candidate-vibid:364300170488": 0,
+      "special:against-all": 2
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=643001003&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=364300170820&region=0&sub_region=0&type=429",
@@ -4231,16 +4231,16 @@ export const duma_2003_uik_428_region_64_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Алимова Ольга Николаевна": 46,
-      "Большаков Иван Петрович": 5,
-      "Володин Вячеслав Викторович": 611,
-      "Граф Юрий Валентинович": 0,
-      "Караман Наталья Леонидовна": 0,
-      "Смирнов Владимир Сергеевич": 3,
-      "Смирнов Вячеслав Николаевич": 1,
-      "Тагунов Александр Васильевич": 4,
-      "Чирков Евгений Петрович": 1,
-      "Против всех": 14
+      "gas:candidate-vibid:1001000121904": 46,
+      "gas:candidate-vibid:1001000112252": 5,
+      "gas:candidate-vibid:1001000225982": 611,
+      "gas:candidate-vibid:364300170375": 0,
+      "gas:candidate-vibid:1001000121286": 0,
+      "gas:candidate-vibid:1001000113976": 3,
+      "gas:candidate-vibid:1001000195138": 1,
+      "gas:candidate-vibid:1001000136117": 4,
+      "gas:candidate-vibid:364300170488": 1,
+      "special:against-all": 14
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=643001003&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=364300170820&region=0&sub_region=0&type=429",
@@ -4290,16 +4290,16 @@ export const duma_2003_uik_428_region_64_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Алимова Ольга Николаевна": 2,
-      "Большаков Иван Петрович": 2,
-      "Володин Вячеслав Викторович": 495,
-      "Граф Юрий Валентинович": 0,
-      "Караман Наталья Леонидовна": 0,
-      "Смирнов Владимир Сергеевич": 0,
-      "Смирнов Вячеслав Николаевич": 0,
-      "Тагунов Александр Васильевич": 0,
-      "Чирков Евгений Петрович": 0,
-      "Против всех": 0
+      "gas:candidate-vibid:1001000121904": 2,
+      "gas:candidate-vibid:1001000112252": 2,
+      "gas:candidate-vibid:1001000225982": 495,
+      "gas:candidate-vibid:364300170375": 0,
+      "gas:candidate-vibid:1001000121286": 0,
+      "gas:candidate-vibid:1001000113976": 0,
+      "gas:candidate-vibid:1001000195138": 0,
+      "gas:candidate-vibid:1001000136117": 0,
+      "gas:candidate-vibid:364300170488": 0,
+      "special:against-all": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=643001003&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=364300170820&region=0&sub_region=0&type=429",
@@ -4349,16 +4349,16 @@ export const duma_2003_uik_428_region_64_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Алимова Ольга Николаевна": 2,
-      "Большаков Иван Петрович": 0,
-      "Володин Вячеслав Викторович": 132,
-      "Граф Юрий Валентинович": 2,
-      "Караман Наталья Леонидовна": 0,
-      "Смирнов Владимир Сергеевич": 6,
-      "Смирнов Вячеслав Николаевич": 0,
-      "Тагунов Александр Васильевич": 0,
-      "Чирков Евгений Петрович": 0,
-      "Против всех": 2
+      "gas:candidate-vibid:1001000121904": 2,
+      "gas:candidate-vibid:1001000112252": 0,
+      "gas:candidate-vibid:1001000225982": 132,
+      "gas:candidate-vibid:364300170375": 2,
+      "gas:candidate-vibid:1001000121286": 0,
+      "gas:candidate-vibid:1001000113976": 6,
+      "gas:candidate-vibid:1001000195138": 0,
+      "gas:candidate-vibid:1001000136117": 0,
+      "gas:candidate-vibid:364300170488": 0,
+      "special:against-all": 2
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=643001003&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=364300170820&region=0&sub_region=0&type=429",
@@ -4408,16 +4408,16 @@ export const duma_2003_uik_428_region_64_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Алимова Ольга Николаевна": 1,
-      "Большаков Иван Петрович": 0,
-      "Володин Вячеслав Викторович": 292,
-      "Граф Юрий Валентинович": 0,
-      "Караман Наталья Леонидовна": 0,
-      "Смирнов Владимир Сергеевич": 0,
-      "Смирнов Вячеслав Николаевич": 0,
-      "Тагунов Александр Васильевич": 1,
-      "Чирков Евгений Петрович": 0,
-      "Против всех": 1
+      "gas:candidate-vibid:1001000121904": 1,
+      "gas:candidate-vibid:1001000112252": 0,
+      "gas:candidate-vibid:1001000225982": 292,
+      "gas:candidate-vibid:364300170375": 0,
+      "gas:candidate-vibid:1001000121286": 0,
+      "gas:candidate-vibid:1001000113976": 0,
+      "gas:candidate-vibid:1001000195138": 0,
+      "gas:candidate-vibid:1001000136117": 1,
+      "gas:candidate-vibid:364300170488": 0,
+      "special:against-all": 1
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=643001003&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=364300170820&region=0&sub_region=0&type=429",
@@ -4467,16 +4467,16 @@ export const duma_2003_uik_428_region_64_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Алимова Ольга Николаевна": 35,
-      "Большаков Иван Петрович": 4,
-      "Володин Вячеслав Викторович": 584,
-      "Граф Юрий Валентинович": 0,
-      "Караман Наталья Леонидовна": 0,
-      "Смирнов Владимир Сергеевич": 0,
-      "Смирнов Вячеслав Николаевич": 0,
-      "Тагунов Александр Васильевич": 2,
-      "Чирков Евгений Петрович": 0,
-      "Против всех": 12
+      "gas:candidate-vibid:1001000121904": 35,
+      "gas:candidate-vibid:1001000112252": 4,
+      "gas:candidate-vibid:1001000225982": 584,
+      "gas:candidate-vibid:364300170375": 0,
+      "gas:candidate-vibid:1001000121286": 0,
+      "gas:candidate-vibid:1001000113976": 0,
+      "gas:candidate-vibid:1001000195138": 0,
+      "gas:candidate-vibid:1001000136117": 2,
+      "gas:candidate-vibid:364300170488": 0,
+      "special:against-all": 12
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=643001003&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=364300170820&region=0&sub_region=0&type=429",
@@ -4526,16 +4526,16 @@ export const duma_2003_uik_428_region_64_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Алимова Ольга Николаевна": 53,
-      "Большаков Иван Петрович": 1,
-      "Володин Вячеслав Викторович": 310,
-      "Граф Юрий Валентинович": 1,
-      "Караман Наталья Леонидовна": 0,
-      "Смирнов Владимир Сергеевич": 1,
-      "Смирнов Вячеслав Николаевич": 1,
-      "Тагунов Александр Васильевич": 7,
-      "Чирков Евгений Петрович": 0,
-      "Против всех": 2
+      "gas:candidate-vibid:1001000121904": 53,
+      "gas:candidate-vibid:1001000112252": 1,
+      "gas:candidate-vibid:1001000225982": 310,
+      "gas:candidate-vibid:364300170375": 1,
+      "gas:candidate-vibid:1001000121286": 0,
+      "gas:candidate-vibid:1001000113976": 1,
+      "gas:candidate-vibid:1001000195138": 1,
+      "gas:candidate-vibid:1001000136117": 7,
+      "gas:candidate-vibid:364300170488": 0,
+      "special:against-all": 2
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=643001003&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=364300170820&region=0&sub_region=0&type=429",
@@ -4585,16 +4585,16 @@ export const duma_2003_uik_428_region_64_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Алимова Ольга Николаевна": 15,
-      "Большаков Иван Петрович": 1,
-      "Володин Вячеслав Викторович": 420,
-      "Граф Юрий Валентинович": 0,
-      "Караман Наталья Леонидовна": 1,
-      "Смирнов Владимир Сергеевич": 0,
-      "Смирнов Вячеслав Николаевич": 0,
-      "Тагунов Александр Васильевич": 4,
-      "Чирков Евгений Петрович": 1,
-      "Против всех": 8
+      "gas:candidate-vibid:1001000121904": 15,
+      "gas:candidate-vibid:1001000112252": 1,
+      "gas:candidate-vibid:1001000225982": 420,
+      "gas:candidate-vibid:364300170375": 0,
+      "gas:candidate-vibid:1001000121286": 1,
+      "gas:candidate-vibid:1001000113976": 0,
+      "gas:candidate-vibid:1001000195138": 0,
+      "gas:candidate-vibid:1001000136117": 4,
+      "gas:candidate-vibid:364300170488": 1,
+      "special:against-all": 8
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=643001003&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=364300170820&region=0&sub_region=0&type=429",
@@ -4644,16 +4644,16 @@ export const duma_2003_uik_428_region_64_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Алимова Ольга Николаевна": 23,
-      "Большаков Иван Петрович": 3,
-      "Володин Вячеслав Викторович": 626,
-      "Граф Юрий Валентинович": 1,
-      "Караман Наталья Леонидовна": 0,
-      "Смирнов Владимир Сергеевич": 0,
-      "Смирнов Вячеслав Николаевич": 0,
-      "Тагунов Александр Васильевич": 4,
-      "Чирков Евгений Петрович": 0,
-      "Против всех": 6
+      "gas:candidate-vibid:1001000121904": 23,
+      "gas:candidate-vibid:1001000112252": 3,
+      "gas:candidate-vibid:1001000225982": 626,
+      "gas:candidate-vibid:364300170375": 1,
+      "gas:candidate-vibid:1001000121286": 0,
+      "gas:candidate-vibid:1001000113976": 0,
+      "gas:candidate-vibid:1001000195138": 0,
+      "gas:candidate-vibid:1001000136117": 4,
+      "gas:candidate-vibid:364300170488": 0,
+      "special:against-all": 6
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=643001003&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=364300170820&region=0&sub_region=0&type=429",
@@ -4703,16 +4703,16 @@ export const duma_2003_uik_428_region_64_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Алимова Ольга Николаевна": 9,
-      "Большаков Иван Петрович": 0,
-      "Володин Вячеслав Викторович": 131,
-      "Граф Юрий Валентинович": 0,
-      "Караман Наталья Леонидовна": 0,
-      "Смирнов Владимир Сергеевич": 0,
-      "Смирнов Вячеслав Николаевич": 0,
-      "Тагунов Александр Васильевич": 1,
-      "Чирков Евгений Петрович": 0,
-      "Против всех": 1
+      "gas:candidate-vibid:1001000121904": 9,
+      "gas:candidate-vibid:1001000112252": 0,
+      "gas:candidate-vibid:1001000225982": 131,
+      "gas:candidate-vibid:364300170375": 0,
+      "gas:candidate-vibid:1001000121286": 0,
+      "gas:candidate-vibid:1001000113976": 0,
+      "gas:candidate-vibid:1001000195138": 0,
+      "gas:candidate-vibid:1001000136117": 1,
+      "gas:candidate-vibid:364300170488": 0,
+      "special:against-all": 1
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=643001003&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=364300170820&region=0&sub_region=0&type=429",
@@ -4762,16 +4762,16 @@ export const duma_2003_uik_428_region_64_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Алимова Ольга Николаевна": 2,
-      "Большаков Иван Петрович": 0,
-      "Володин Вячеслав Викторович": 52,
-      "Граф Юрий Валентинович": 0,
-      "Караман Наталья Леонидовна": 0,
-      "Смирнов Владимир Сергеевич": 0,
-      "Смирнов Вячеслав Николаевич": 0,
-      "Тагунов Александр Васильевич": 0,
-      "Чирков Евгений Петрович": 0,
-      "Против всех": 0
+      "gas:candidate-vibid:1001000121904": 2,
+      "gas:candidate-vibid:1001000112252": 0,
+      "gas:candidate-vibid:1001000225982": 52,
+      "gas:candidate-vibid:364300170375": 0,
+      "gas:candidate-vibid:1001000121286": 0,
+      "gas:candidate-vibid:1001000113976": 0,
+      "gas:candidate-vibid:1001000195138": 0,
+      "gas:candidate-vibid:1001000136117": 0,
+      "gas:candidate-vibid:364300170488": 0,
+      "special:against-all": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=643001003&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=364300170820&region=0&sub_region=0&type=429",
@@ -4821,16 +4821,16 @@ export const duma_2003_uik_428_region_64_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Алимова Ольга Николаевна": 3,
-      "Большаков Иван Петрович": 0,
-      "Володин Вячеслав Викторович": 349,
-      "Граф Юрий Валентинович": 1,
-      "Караман Наталья Леонидовна": 0,
-      "Смирнов Владимир Сергеевич": 0,
-      "Смирнов Вячеслав Николаевич": 0,
-      "Тагунов Александр Васильевич": 0,
-      "Чирков Евгений Петрович": 0,
-      "Против всех": 6
+      "gas:candidate-vibid:1001000121904": 3,
+      "gas:candidate-vibid:1001000112252": 0,
+      "gas:candidate-vibid:1001000225982": 349,
+      "gas:candidate-vibid:364300170375": 1,
+      "gas:candidate-vibid:1001000121286": 0,
+      "gas:candidate-vibid:1001000113976": 0,
+      "gas:candidate-vibid:1001000195138": 0,
+      "gas:candidate-vibid:1001000136117": 0,
+      "gas:candidate-vibid:364300170488": 0,
+      "special:against-all": 6
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=643001003&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=364300170820&region=0&sub_region=0&type=429",
@@ -4880,16 +4880,16 @@ export const duma_2003_uik_428_region_64_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Алимова Ольга Николаевна": 0,
-      "Большаков Иван Петрович": 1,
-      "Володин Вячеслав Викторович": 240,
-      "Граф Юрий Валентинович": 0,
-      "Караман Наталья Леонидовна": 0,
-      "Смирнов Владимир Сергеевич": 0,
-      "Смирнов Вячеслав Николаевич": 0,
-      "Тагунов Александр Васильевич": 0,
-      "Чирков Евгений Петрович": 0,
-      "Против всех": 3
+      "gas:candidate-vibid:1001000121904": 0,
+      "gas:candidate-vibid:1001000112252": 1,
+      "gas:candidate-vibid:1001000225982": 240,
+      "gas:candidate-vibid:364300170375": 0,
+      "gas:candidate-vibid:1001000121286": 0,
+      "gas:candidate-vibid:1001000113976": 0,
+      "gas:candidate-vibid:1001000195138": 0,
+      "gas:candidate-vibid:1001000136117": 0,
+      "gas:candidate-vibid:364300170488": 0,
+      "special:against-all": 3
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=643001003&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=364300170820&region=0&sub_region=0&type=429",
@@ -4939,16 +4939,16 @@ export const duma_2003_uik_428_region_64_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Алимова Ольга Николаевна": 14,
-      "Большаков Иван Петрович": 1,
-      "Володин Вячеслав Викторович": 506,
-      "Граф Юрий Валентинович": 0,
-      "Караман Наталья Леонидовна": 0,
-      "Смирнов Владимир Сергеевич": 0,
-      "Смирнов Вячеслав Николаевич": 0,
-      "Тагунов Александр Васильевич": 3,
-      "Чирков Евгений Петрович": 0,
-      "Против всех": 5
+      "gas:candidate-vibid:1001000121904": 14,
+      "gas:candidate-vibid:1001000112252": 1,
+      "gas:candidate-vibid:1001000225982": 506,
+      "gas:candidate-vibid:364300170375": 0,
+      "gas:candidate-vibid:1001000121286": 0,
+      "gas:candidate-vibid:1001000113976": 0,
+      "gas:candidate-vibid:1001000195138": 0,
+      "gas:candidate-vibid:1001000136117": 3,
+      "gas:candidate-vibid:364300170488": 0,
+      "special:against-all": 5
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=643001003&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=364300170820&region=0&sub_region=0&type=429",
@@ -4998,16 +4998,16 @@ export const duma_2003_uik_428_region_64_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Алимова Ольга Николаевна": 2,
-      "Большаков Иван Петрович": 0,
-      "Володин Вячеслав Викторович": 120,
-      "Граф Юрий Валентинович": 0,
-      "Караман Наталья Леонидовна": 0,
-      "Смирнов Владимир Сергеевич": 0,
-      "Смирнов Вячеслав Николаевич": 0,
-      "Тагунов Александр Васильевич": 1,
-      "Чирков Евгений Петрович": 0,
-      "Против всех": 1
+      "gas:candidate-vibid:1001000121904": 2,
+      "gas:candidate-vibid:1001000112252": 0,
+      "gas:candidate-vibid:1001000225982": 120,
+      "gas:candidate-vibid:364300170375": 0,
+      "gas:candidate-vibid:1001000121286": 0,
+      "gas:candidate-vibid:1001000113976": 0,
+      "gas:candidate-vibid:1001000195138": 0,
+      "gas:candidate-vibid:1001000136117": 1,
+      "gas:candidate-vibid:364300170488": 0,
+      "special:against-all": 1
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=643001003&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=364300170820&region=0&sub_region=0&type=429",
@@ -5057,16 +5057,16 @@ export const duma_2003_uik_428_region_64_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Алимова Ольга Николаевна": 1,
-      "Большаков Иван Петрович": 0,
-      "Володин Вячеслав Викторович": 172,
-      "Граф Юрий Валентинович": 1,
-      "Караман Наталья Леонидовна": 0,
-      "Смирнов Владимир Сергеевич": 0,
-      "Смирнов Вячеслав Николаевич": 0,
-      "Тагунов Александр Васильевич": 0,
-      "Чирков Евгений Петрович": 0,
-      "Против всех": 4
+      "gas:candidate-vibid:1001000121904": 1,
+      "gas:candidate-vibid:1001000112252": 0,
+      "gas:candidate-vibid:1001000225982": 172,
+      "gas:candidate-vibid:364300170375": 1,
+      "gas:candidate-vibid:1001000121286": 0,
+      "gas:candidate-vibid:1001000113976": 0,
+      "gas:candidate-vibid:1001000195138": 0,
+      "gas:candidate-vibid:1001000136117": 0,
+      "gas:candidate-vibid:364300170488": 0,
+      "special:against-all": 4
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=643001003&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=364300170820&region=0&sub_region=0&type=429",
@@ -5116,16 +5116,16 @@ export const duma_2003_uik_428_region_64_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Алимова Ольга Николаевна": 1,
-      "Большаков Иван Петрович": 0,
-      "Володин Вячеслав Викторович": 176,
-      "Граф Юрий Валентинович": 0,
-      "Караман Наталья Леонидовна": 0,
-      "Смирнов Владимир Сергеевич": 0,
-      "Смирнов Вячеслав Николаевич": 0,
-      "Тагунов Александр Васильевич": 0,
-      "Чирков Евгений Петрович": 0,
-      "Против всех": 1
+      "gas:candidate-vibid:1001000121904": 1,
+      "gas:candidate-vibid:1001000112252": 0,
+      "gas:candidate-vibid:1001000225982": 176,
+      "gas:candidate-vibid:364300170375": 0,
+      "gas:candidate-vibid:1001000121286": 0,
+      "gas:candidate-vibid:1001000113976": 0,
+      "gas:candidate-vibid:1001000195138": 0,
+      "gas:candidate-vibid:1001000136117": 0,
+      "gas:candidate-vibid:364300170488": 0,
+      "special:against-all": 1
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=643001003&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=364300170820&region=0&sub_region=0&type=429",
@@ -5175,16 +5175,16 @@ export const duma_2003_uik_428_region_64_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Алимова Ольга Николаевна": 4,
-      "Большаков Иван Петрович": 1,
-      "Володин Вячеслав Викторович": 431,
-      "Граф Юрий Валентинович": 1,
-      "Караман Наталья Леонидовна": 0,
-      "Смирнов Владимир Сергеевич": 0,
-      "Смирнов Вячеслав Николаевич": 0,
-      "Тагунов Александр Васильевич": 2,
-      "Чирков Евгений Петрович": 0,
-      "Против всех": 2
+      "gas:candidate-vibid:1001000121904": 4,
+      "gas:candidate-vibid:1001000112252": 1,
+      "gas:candidate-vibid:1001000225982": 431,
+      "gas:candidate-vibid:364300170375": 1,
+      "gas:candidate-vibid:1001000121286": 0,
+      "gas:candidate-vibid:1001000113976": 0,
+      "gas:candidate-vibid:1001000195138": 0,
+      "gas:candidate-vibid:1001000136117": 2,
+      "gas:candidate-vibid:364300170488": 0,
+      "special:against-all": 2
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=643001003&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=364300170820&region=0&sub_region=0&type=429",
@@ -5234,16 +5234,16 @@ export const duma_2003_uik_428_region_64_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Алимова Ольга Николаевна": 20,
-      "Большаков Иван Петрович": 2,
-      "Володин Вячеслав Викторович": 824,
-      "Граф Юрий Валентинович": 0,
-      "Караман Наталья Леонидовна": 0,
-      "Смирнов Владимир Сергеевич": 0,
-      "Смирнов Вячеслав Николаевич": 0,
-      "Тагунов Александр Васильевич": 0,
-      "Чирков Евгений Петрович": 0,
-      "Против всех": 5
+      "gas:candidate-vibid:1001000121904": 20,
+      "gas:candidate-vibid:1001000112252": 2,
+      "gas:candidate-vibid:1001000225982": 824,
+      "gas:candidate-vibid:364300170375": 0,
+      "gas:candidate-vibid:1001000121286": 0,
+      "gas:candidate-vibid:1001000113976": 0,
+      "gas:candidate-vibid:1001000195138": 0,
+      "gas:candidate-vibid:1001000136117": 0,
+      "gas:candidate-vibid:364300170488": 0,
+      "special:against-all": 5
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=643001003&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=364300170820&region=0&sub_region=0&type=429",
@@ -5293,16 +5293,16 @@ export const duma_2003_uik_428_region_64_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Алимова Ольга Николаевна": 15,
-      "Большаков Иван Петрович": 3,
-      "Володин Вячеслав Викторович": 388,
-      "Граф Юрий Валентинович": 0,
-      "Караман Наталья Леонидовна": 0,
-      "Смирнов Владимир Сергеевич": 0,
-      "Смирнов Вячеслав Николаевич": 1,
-      "Тагунов Александр Васильевич": 0,
-      "Чирков Евгений Петрович": 1,
-      "Против всех": 2
+      "gas:candidate-vibid:1001000121904": 15,
+      "gas:candidate-vibid:1001000112252": 3,
+      "gas:candidate-vibid:1001000225982": 388,
+      "gas:candidate-vibid:364300170375": 0,
+      "gas:candidate-vibid:1001000121286": 0,
+      "gas:candidate-vibid:1001000113976": 0,
+      "gas:candidate-vibid:1001000195138": 1,
+      "gas:candidate-vibid:1001000136117": 0,
+      "gas:candidate-vibid:364300170488": 1,
+      "special:against-all": 2
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=643001003&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=364300170820&region=0&sub_region=0&type=429",
@@ -5352,16 +5352,16 @@ export const duma_2003_uik_428_region_64_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Алимова Ольга Николаевна": 12,
-      "Большаков Иван Петрович": 1,
-      "Володин Вячеслав Викторович": 308,
-      "Граф Юрий Валентинович": 0,
-      "Караман Наталья Леонидовна": 0,
-      "Смирнов Владимир Сергеевич": 1,
-      "Смирнов Вячеслав Николаевич": 1,
-      "Тагунов Александр Васильевич": 4,
-      "Чирков Евгений Петрович": 1,
-      "Против всех": 5
+      "gas:candidate-vibid:1001000121904": 12,
+      "gas:candidate-vibid:1001000112252": 1,
+      "gas:candidate-vibid:1001000225982": 308,
+      "gas:candidate-vibid:364300170375": 0,
+      "gas:candidate-vibid:1001000121286": 0,
+      "gas:candidate-vibid:1001000113976": 1,
+      "gas:candidate-vibid:1001000195138": 1,
+      "gas:candidate-vibid:1001000136117": 4,
+      "gas:candidate-vibid:364300170488": 1,
+      "special:against-all": 5
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=643001003&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=364300170820&region=0&sub_region=0&type=429",
@@ -5411,16 +5411,16 @@ export const duma_2003_uik_428_region_64_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Алимова Ольга Николаевна": 3,
-      "Большаков Иван Петрович": 1,
-      "Володин Вячеслав Викторович": 139,
-      "Граф Юрий Валентинович": 1,
-      "Караман Наталья Леонидовна": 0,
-      "Смирнов Владимир Сергеевич": 0,
-      "Смирнов Вячеслав Николаевич": 0,
-      "Тагунов Александр Васильевич": 0,
-      "Чирков Евгений Петрович": 0,
-      "Против всех": 2
+      "gas:candidate-vibid:1001000121904": 3,
+      "gas:candidate-vibid:1001000112252": 1,
+      "gas:candidate-vibid:1001000225982": 139,
+      "gas:candidate-vibid:364300170375": 1,
+      "gas:candidate-vibid:1001000121286": 0,
+      "gas:candidate-vibid:1001000113976": 0,
+      "gas:candidate-vibid:1001000195138": 0,
+      "gas:candidate-vibid:1001000136117": 0,
+      "gas:candidate-vibid:364300170488": 0,
+      "special:against-all": 2
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=643001003&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=364300170820&region=0&sub_region=0&type=429",
@@ -5470,16 +5470,16 @@ export const duma_2003_uik_428_region_64_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Алимова Ольга Николаевна": 5,
-      "Большаков Иван Петрович": 0,
-      "Володин Вячеслав Викторович": 100,
-      "Граф Юрий Валентинович": 1,
-      "Караман Наталья Леонидовна": 0,
-      "Смирнов Владимир Сергеевич": 0,
-      "Смирнов Вячеслав Николаевич": 0,
-      "Тагунов Александр Васильевич": 0,
-      "Чирков Евгений Петрович": 0,
-      "Против всех": 0
+      "gas:candidate-vibid:1001000121904": 5,
+      "gas:candidate-vibid:1001000112252": 0,
+      "gas:candidate-vibid:1001000225982": 100,
+      "gas:candidate-vibid:364300170375": 1,
+      "gas:candidate-vibid:1001000121286": 0,
+      "gas:candidate-vibid:1001000113976": 0,
+      "gas:candidate-vibid:1001000195138": 0,
+      "gas:candidate-vibid:1001000136117": 0,
+      "gas:candidate-vibid:364300170488": 0,
+      "special:against-all": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=643001003&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=364300170820&region=0&sub_region=0&type=429",
@@ -5529,16 +5529,16 @@ export const duma_2003_uik_428_region_64_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Алимова Ольга Николаевна": 56,
-      "Большаков Иван Петрович": 1,
-      "Володин Вячеслав Викторович": 343,
-      "Граф Юрий Валентинович": 0,
-      "Караман Наталья Леонидовна": 1,
-      "Смирнов Владимир Сергеевич": 0,
-      "Смирнов Вячеслав Николаевич": 1,
-      "Тагунов Александр Васильевич": 4,
-      "Чирков Евгений Петрович": 1,
-      "Против всех": 8
+      "gas:candidate-vibid:1001000121904": 56,
+      "gas:candidate-vibid:1001000112252": 1,
+      "gas:candidate-vibid:1001000225982": 343,
+      "gas:candidate-vibid:364300170375": 0,
+      "gas:candidate-vibid:1001000121286": 1,
+      "gas:candidate-vibid:1001000113976": 0,
+      "gas:candidate-vibid:1001000195138": 1,
+      "gas:candidate-vibid:1001000136117": 4,
+      "gas:candidate-vibid:364300170488": 1,
+      "special:against-all": 8
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=643001003&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=364300170820&region=0&sub_region=0&type=429",
@@ -5588,16 +5588,16 @@ export const duma_2003_uik_428_region_64_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Алимова Ольга Николаевна": 76,
-      "Большаков Иван Петрович": 0,
-      "Володин Вячеслав Викторович": 1570,
-      "Граф Юрий Валентинович": 0,
-      "Караман Наталья Леонидовна": 0,
-      "Смирнов Владимир Сергеевич": 0,
-      "Смирнов Вячеслав Николаевич": 0,
-      "Тагунов Александр Васильевич": 4,
-      "Чирков Евгений Петрович": 0,
-      "Против всех": 47
+      "gas:candidate-vibid:1001000121904": 76,
+      "gas:candidate-vibid:1001000112252": 0,
+      "gas:candidate-vibid:1001000225982": 1570,
+      "gas:candidate-vibid:364300170375": 0,
+      "gas:candidate-vibid:1001000121286": 0,
+      "gas:candidate-vibid:1001000113976": 0,
+      "gas:candidate-vibid:1001000195138": 0,
+      "gas:candidate-vibid:1001000136117": 4,
+      "gas:candidate-vibid:364300170488": 0,
+      "special:against-all": 47
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=643001003&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=364300170820&region=0&sub_region=0&type=429",
@@ -5647,16 +5647,16 @@ export const duma_2003_uik_428_region_64_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Алимова Ольга Николаевна": 74,
-      "Большаков Иван Петрович": 9,
-      "Володин Вячеслав Викторович": 1464,
-      "Граф Юрий Валентинович": 3,
-      "Караман Наталья Леонидовна": 5,
-      "Смирнов Владимир Сергеевич": 6,
-      "Смирнов Вячеслав Николаевич": 4,
-      "Тагунов Александр Васильевич": 29,
-      "Чирков Евгений Петрович": 1,
-      "Против всех": 93
+      "gas:candidate-vibid:1001000121904": 74,
+      "gas:candidate-vibid:1001000112252": 9,
+      "gas:candidate-vibid:1001000225982": 1464,
+      "gas:candidate-vibid:364300170375": 3,
+      "gas:candidate-vibid:1001000121286": 5,
+      "gas:candidate-vibid:1001000113976": 6,
+      "gas:candidate-vibid:1001000195138": 4,
+      "gas:candidate-vibid:1001000136117": 29,
+      "gas:candidate-vibid:364300170488": 1,
+      "special:against-all": 93
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=643001003&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=364300170820&region=0&sub_region=0&type=429",
@@ -5706,16 +5706,16 @@ export const duma_2003_uik_428_region_64_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Алимова Ольга Николаевна": 5,
-      "Большаков Иван Петрович": 0,
-      "Володин Вячеслав Викторович": 343,
-      "Граф Юрий Валентинович": 0,
-      "Караман Наталья Леонидовна": 0,
-      "Смирнов Владимир Сергеевич": 0,
-      "Смирнов Вячеслав Николаевич": 0,
-      "Тагунов Александр Васильевич": 0,
-      "Чирков Евгений Петрович": 0,
-      "Против всех": 4
+      "gas:candidate-vibid:1001000121904": 5,
+      "gas:candidate-vibid:1001000112252": 0,
+      "gas:candidate-vibid:1001000225982": 343,
+      "gas:candidate-vibid:364300170375": 0,
+      "gas:candidate-vibid:1001000121286": 0,
+      "gas:candidate-vibid:1001000113976": 0,
+      "gas:candidate-vibid:1001000195138": 0,
+      "gas:candidate-vibid:1001000136117": 0,
+      "gas:candidate-vibid:364300170488": 0,
+      "special:against-all": 4
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=643001003&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=364300170820&region=0&sub_region=0&type=429",
@@ -5765,16 +5765,16 @@ export const duma_2003_uik_428_region_64_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Алимова Ольга Николаевна": 8,
-      "Большаков Иван Петрович": 1,
-      "Володин Вячеслав Викторович": 370,
-      "Граф Юрий Валентинович": 0,
-      "Караман Наталья Леонидовна": 0,
-      "Смирнов Владимир Сергеевич": 0,
-      "Смирнов Вячеслав Николаевич": 0,
-      "Тагунов Александр Васильевич": 1,
-      "Чирков Евгений Петрович": 0,
-      "Против всех": 5
+      "gas:candidate-vibid:1001000121904": 8,
+      "gas:candidate-vibid:1001000112252": 1,
+      "gas:candidate-vibid:1001000225982": 370,
+      "gas:candidate-vibid:364300170375": 0,
+      "gas:candidate-vibid:1001000121286": 0,
+      "gas:candidate-vibid:1001000113976": 0,
+      "gas:candidate-vibid:1001000195138": 0,
+      "gas:candidate-vibid:1001000136117": 1,
+      "gas:candidate-vibid:364300170488": 0,
+      "special:against-all": 5
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=643001003&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=364300170820&region=0&sub_region=0&type=429",
@@ -5824,16 +5824,16 @@ export const duma_2003_uik_428_region_64_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Алимова Ольга Николаевна": 26,
-      "Большаков Иван Петрович": 10,
-      "Володин Вячеслав Викторович": 562,
-      "Граф Юрий Валентинович": 2,
-      "Караман Наталья Леонидовна": 1,
-      "Смирнов Владимир Сергеевич": 1,
-      "Смирнов Вячеслав Николаевич": 3,
-      "Тагунов Александр Васильевич": 8,
-      "Чирков Евгений Петрович": 0,
-      "Против всех": 14
+      "gas:candidate-vibid:1001000121904": 26,
+      "gas:candidate-vibid:1001000112252": 10,
+      "gas:candidate-vibid:1001000225982": 562,
+      "gas:candidate-vibid:364300170375": 2,
+      "gas:candidate-vibid:1001000121286": 1,
+      "gas:candidate-vibid:1001000113976": 1,
+      "gas:candidate-vibid:1001000195138": 3,
+      "gas:candidate-vibid:1001000136117": 8,
+      "gas:candidate-vibid:364300170488": 0,
+      "special:against-all": 14
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=643001003&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=364300170820&region=0&sub_region=0&type=429",
@@ -5883,16 +5883,16 @@ export const duma_2003_uik_428_region_64_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Алимова Ольга Николаевна": 24,
-      "Большаков Иван Петрович": 0,
-      "Володин Вячеслав Викторович": 418,
-      "Граф Юрий Валентинович": 0,
-      "Караман Наталья Леонидовна": 2,
-      "Смирнов Владимир Сергеевич": 2,
-      "Смирнов Вячеслав Николаевич": 0,
-      "Тагунов Александр Васильевич": 2,
-      "Чирков Евгений Петрович": 3,
-      "Против всех": 4
+      "gas:candidate-vibid:1001000121904": 24,
+      "gas:candidate-vibid:1001000112252": 0,
+      "gas:candidate-vibid:1001000225982": 418,
+      "gas:candidate-vibid:364300170375": 0,
+      "gas:candidate-vibid:1001000121286": 2,
+      "gas:candidate-vibid:1001000113976": 2,
+      "gas:candidate-vibid:1001000195138": 0,
+      "gas:candidate-vibid:1001000136117": 2,
+      "gas:candidate-vibid:364300170488": 3,
+      "special:against-all": 4
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=643001003&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=364300170820&region=0&sub_region=0&type=429",
@@ -5942,16 +5942,16 @@ export const duma_2003_uik_428_region_64_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Алимова Ольга Николаевна": 20,
-      "Большаков Иван Петрович": 0,
-      "Володин Вячеслав Викторович": 270,
-      "Граф Юрий Валентинович": 0,
-      "Караман Наталья Леонидовна": 0,
-      "Смирнов Владимир Сергеевич": 0,
-      "Смирнов Вячеслав Николаевич": 1,
-      "Тагунов Александр Васильевич": 4,
-      "Чирков Евгений Петрович": 0,
-      "Против всех": 3
+      "gas:candidate-vibid:1001000121904": 20,
+      "gas:candidate-vibid:1001000112252": 0,
+      "gas:candidate-vibid:1001000225982": 270,
+      "gas:candidate-vibid:364300170375": 0,
+      "gas:candidate-vibid:1001000121286": 0,
+      "gas:candidate-vibid:1001000113976": 0,
+      "gas:candidate-vibid:1001000195138": 1,
+      "gas:candidate-vibid:1001000136117": 4,
+      "gas:candidate-vibid:364300170488": 0,
+      "special:against-all": 3
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=643001003&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=364300170820&region=0&sub_region=0&type=429",
@@ -6001,16 +6001,16 @@ export const duma_2003_uik_428_region_64_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Алимова Ольга Николаевна": 7,
-      "Большаков Иван Петрович": 0,
-      "Володин Вячеслав Викторович": 181,
-      "Граф Юрий Валентинович": 1,
-      "Караман Наталья Леонидовна": 1,
-      "Смирнов Владимир Сергеевич": 0,
-      "Смирнов Вячеслав Николаевич": 0,
-      "Тагунов Александр Васильевич": 2,
-      "Чирков Евгений Петрович": 0,
-      "Против всех": 4
+      "gas:candidate-vibid:1001000121904": 7,
+      "gas:candidate-vibid:1001000112252": 0,
+      "gas:candidate-vibid:1001000225982": 181,
+      "gas:candidate-vibid:364300170375": 1,
+      "gas:candidate-vibid:1001000121286": 1,
+      "gas:candidate-vibid:1001000113976": 0,
+      "gas:candidate-vibid:1001000195138": 0,
+      "gas:candidate-vibid:1001000136117": 2,
+      "gas:candidate-vibid:364300170488": 0,
+      "special:against-all": 4
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=643001003&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=364300170820&region=0&sub_region=0&type=429",
@@ -6060,16 +6060,16 @@ export const duma_2003_uik_428_region_64_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Алимова Ольга Николаевна": 2,
-      "Большаков Иван Петрович": 2,
-      "Володин Вячеслав Викторович": 102,
-      "Граф Юрий Валентинович": 0,
-      "Караман Наталья Леонидовна": 0,
-      "Смирнов Владимир Сергеевич": 0,
-      "Смирнов Вячеслав Николаевич": 0,
-      "Тагунов Александр Васильевич": 0,
-      "Чирков Евгений Петрович": 0,
-      "Против всех": 1
+      "gas:candidate-vibid:1001000121904": 2,
+      "gas:candidate-vibid:1001000112252": 2,
+      "gas:candidate-vibid:1001000225982": 102,
+      "gas:candidate-vibid:364300170375": 0,
+      "gas:candidate-vibid:1001000121286": 0,
+      "gas:candidate-vibid:1001000113976": 0,
+      "gas:candidate-vibid:1001000195138": 0,
+      "gas:candidate-vibid:1001000136117": 0,
+      "gas:candidate-vibid:364300170488": 0,
+      "special:against-all": 1
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=643001003&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=364300170820&region=0&sub_region=0&type=429",
@@ -6119,16 +6119,16 @@ export const duma_2003_uik_428_region_64_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Алимова Ольга Николаевна": 11,
-      "Большаков Иван Петрович": 0,
-      "Володин Вячеслав Викторович": 165,
-      "Граф Юрий Валентинович": 0,
-      "Караман Наталья Леонидовна": 0,
-      "Смирнов Владимир Сергеевич": 0,
-      "Смирнов Вячеслав Николаевич": 0,
-      "Тагунов Александр Васильевич": 2,
-      "Чирков Евгений Петрович": 0,
-      "Против всех": 8
+      "gas:candidate-vibid:1001000121904": 11,
+      "gas:candidate-vibid:1001000112252": 0,
+      "gas:candidate-vibid:1001000225982": 165,
+      "gas:candidate-vibid:364300170375": 0,
+      "gas:candidate-vibid:1001000121286": 0,
+      "gas:candidate-vibid:1001000113976": 0,
+      "gas:candidate-vibid:1001000195138": 0,
+      "gas:candidate-vibid:1001000136117": 2,
+      "gas:candidate-vibid:364300170488": 0,
+      "special:against-all": 8
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=643001003&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=364300170820&region=0&sub_region=0&type=429",
@@ -6178,16 +6178,16 @@ export const duma_2003_uik_428_region_64_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Алимова Ольга Николаевна": 118,
-      "Большаков Иван Петрович": 4,
-      "Володин Вячеслав Викторович": 1758,
-      "Граф Юрий Валентинович": 0,
-      "Караман Наталья Леонидовна": 0,
-      "Смирнов Владимир Сергеевич": 0,
-      "Смирнов Вячеслав Николаевич": 0,
-      "Тагунов Александр Васильевич": 7,
-      "Чирков Евгений Петрович": 0,
-      "Против всех": 32
+      "gas:candidate-vibid:1001000121904": 118,
+      "gas:candidate-vibid:1001000112252": 4,
+      "gas:candidate-vibid:1001000225982": 1758,
+      "gas:candidate-vibid:364300170375": 0,
+      "gas:candidate-vibid:1001000121286": 0,
+      "gas:candidate-vibid:1001000113976": 0,
+      "gas:candidate-vibid:1001000195138": 0,
+      "gas:candidate-vibid:1001000136117": 7,
+      "gas:candidate-vibid:364300170488": 0,
+      "special:against-all": 32
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=643001003&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=364300170820&region=0&sub_region=0&type=429",
@@ -6237,16 +6237,16 @@ export const duma_2003_uik_428_region_64_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Алимова Ольга Николаевна": 27,
-      "Большаков Иван Петрович": 3,
-      "Володин Вячеслав Викторович": 491,
-      "Граф Юрий Валентинович": 1,
-      "Караман Наталья Леонидовна": 1,
-      "Смирнов Владимир Сергеевич": 1,
-      "Смирнов Вячеслав Николаевич": 0,
-      "Тагунов Александр Васильевич": 3,
-      "Чирков Евгений Петрович": 0,
-      "Против всех": 5
+      "gas:candidate-vibid:1001000121904": 27,
+      "gas:candidate-vibid:1001000112252": 3,
+      "gas:candidate-vibid:1001000225982": 491,
+      "gas:candidate-vibid:364300170375": 1,
+      "gas:candidate-vibid:1001000121286": 1,
+      "gas:candidate-vibid:1001000113976": 1,
+      "gas:candidate-vibid:1001000195138": 0,
+      "gas:candidate-vibid:1001000136117": 3,
+      "gas:candidate-vibid:364300170488": 0,
+      "special:against-all": 5
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=643001003&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=364300170820&region=0&sub_region=0&type=429",
@@ -6296,16 +6296,16 @@ export const duma_2003_uik_428_region_64_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Алимова Ольга Николаевна": 7,
-      "Большаков Иван Петрович": 2,
-      "Володин Вячеслав Викторович": 177,
-      "Граф Юрий Валентинович": 0,
-      "Караман Наталья Леонидовна": 0,
-      "Смирнов Владимир Сергеевич": 0,
-      "Смирнов Вячеслав Николаевич": 0,
-      "Тагунов Александр Васильевич": 0,
-      "Чирков Евгений Петрович": 2,
-      "Против всех": 4
+      "gas:candidate-vibid:1001000121904": 7,
+      "gas:candidate-vibid:1001000112252": 2,
+      "gas:candidate-vibid:1001000225982": 177,
+      "gas:candidate-vibid:364300170375": 0,
+      "gas:candidate-vibid:1001000121286": 0,
+      "gas:candidate-vibid:1001000113976": 0,
+      "gas:candidate-vibid:1001000195138": 0,
+      "gas:candidate-vibid:1001000136117": 0,
+      "gas:candidate-vibid:364300170488": 2,
+      "special:against-all": 4
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=643001003&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=364300170820&region=0&sub_region=0&type=429",
@@ -6355,16 +6355,16 @@ export const duma_2003_uik_428_region_64_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Алимова Ольга Николаевна": 15,
-      "Большаков Иван Петрович": 2,
-      "Володин Вячеслав Викторович": 252,
-      "Граф Юрий Валентинович": 1,
-      "Караман Наталья Леонидовна": 1,
-      "Смирнов Владимир Сергеевич": 0,
-      "Смирнов Вячеслав Николаевич": 0,
-      "Тагунов Александр Васильевич": 4,
-      "Чирков Евгений Петрович": 0,
-      "Против всех": 22
+      "gas:candidate-vibid:1001000121904": 15,
+      "gas:candidate-vibid:1001000112252": 2,
+      "gas:candidate-vibid:1001000225982": 252,
+      "gas:candidate-vibid:364300170375": 1,
+      "gas:candidate-vibid:1001000121286": 1,
+      "gas:candidate-vibid:1001000113976": 0,
+      "gas:candidate-vibid:1001000195138": 0,
+      "gas:candidate-vibid:1001000136117": 4,
+      "gas:candidate-vibid:364300170488": 0,
+      "special:against-all": 22
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=643001004&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=364300170821&region=0&sub_region=0&type=429",
@@ -6414,16 +6414,16 @@ export const duma_2003_uik_428_region_64_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Алимова Ольга Николаевна": 51,
-      "Большаков Иван Петрович": 6,
-      "Володин Вячеслав Викторович": 305,
-      "Граф Юрий Валентинович": 0,
-      "Караман Наталья Леонидовна": 0,
-      "Смирнов Владимир Сергеевич": 3,
-      "Смирнов Вячеслав Николаевич": 0,
-      "Тагунов Александр Васильевич": 1,
-      "Чирков Евгений Петрович": 0,
-      "Против всех": 20
+      "gas:candidate-vibid:1001000121904": 51,
+      "gas:candidate-vibid:1001000112252": 6,
+      "gas:candidate-vibid:1001000225982": 305,
+      "gas:candidate-vibid:364300170375": 0,
+      "gas:candidate-vibid:1001000121286": 0,
+      "gas:candidate-vibid:1001000113976": 3,
+      "gas:candidate-vibid:1001000195138": 0,
+      "gas:candidate-vibid:1001000136117": 1,
+      "gas:candidate-vibid:364300170488": 0,
+      "special:against-all": 20
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=643001004&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=364300170821&region=0&sub_region=0&type=429",
@@ -6473,16 +6473,16 @@ export const duma_2003_uik_428_region_64_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Алимова Ольга Николаевна": 105,
-      "Большаков Иван Петрович": 10,
-      "Володин Вячеслав Викторович": 766,
-      "Граф Юрий Валентинович": 6,
-      "Караман Наталья Леонидовна": 1,
-      "Смирнов Владимир Сергеевич": 3,
-      "Смирнов Вячеслав Николаевич": 2,
-      "Тагунов Александр Васильевич": 22,
-      "Чирков Евгений Петрович": 1,
-      "Против всех": 84
+      "gas:candidate-vibid:1001000121904": 105,
+      "gas:candidate-vibid:1001000112252": 10,
+      "gas:candidate-vibid:1001000225982": 766,
+      "gas:candidate-vibid:364300170375": 6,
+      "gas:candidate-vibid:1001000121286": 1,
+      "gas:candidate-vibid:1001000113976": 3,
+      "gas:candidate-vibid:1001000195138": 2,
+      "gas:candidate-vibid:1001000136117": 22,
+      "gas:candidate-vibid:364300170488": 1,
+      "special:against-all": 84
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=643001004&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=364300170821&region=0&sub_region=0&type=429",
@@ -6532,16 +6532,16 @@ export const duma_2003_uik_428_region_64_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Алимова Ольга Николаевна": 9,
-      "Большаков Иван Петрович": 0,
-      "Володин Вячеслав Викторович": 142,
-      "Граф Юрий Валентинович": 2,
-      "Караман Наталья Леонидовна": 1,
-      "Смирнов Владимир Сергеевич": 0,
-      "Смирнов Вячеслав Николаевич": 0,
-      "Тагунов Александр Васильевич": 0,
-      "Чирков Евгений Петрович": 0,
-      "Против всех": 6
+      "gas:candidate-vibid:1001000121904": 9,
+      "gas:candidate-vibid:1001000112252": 0,
+      "gas:candidate-vibid:1001000225982": 142,
+      "gas:candidate-vibid:364300170375": 2,
+      "gas:candidate-vibid:1001000121286": 1,
+      "gas:candidate-vibid:1001000113976": 0,
+      "gas:candidate-vibid:1001000195138": 0,
+      "gas:candidate-vibid:1001000136117": 0,
+      "gas:candidate-vibid:364300170488": 0,
+      "special:against-all": 6
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=643001004&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=364300170821&region=0&sub_region=0&type=429",
@@ -6591,16 +6591,16 @@ export const duma_2003_uik_428_region_64_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Алимова Ольга Николаевна": 22,
-      "Большаков Иван Петрович": 3,
-      "Володин Вячеслав Викторович": 245,
-      "Граф Юрий Валентинович": 0,
-      "Караман Наталья Леонидовна": 0,
-      "Смирнов Владимир Сергеевич": 1,
-      "Смирнов Вячеслав Николаевич": 0,
-      "Тагунов Александр Васильевич": 6,
-      "Чирков Евгений Петрович": 0,
-      "Против всех": 8
+      "gas:candidate-vibid:1001000121904": 22,
+      "gas:candidate-vibid:1001000112252": 3,
+      "gas:candidate-vibid:1001000225982": 245,
+      "gas:candidate-vibid:364300170375": 0,
+      "gas:candidate-vibid:1001000121286": 0,
+      "gas:candidate-vibid:1001000113976": 1,
+      "gas:candidate-vibid:1001000195138": 0,
+      "gas:candidate-vibid:1001000136117": 6,
+      "gas:candidate-vibid:364300170488": 0,
+      "special:against-all": 8
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=643001004&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=364300170821&region=0&sub_region=0&type=429",
@@ -6650,16 +6650,16 @@ export const duma_2003_uik_428_region_64_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Алимова Ольга Николаевна": 11,
-      "Большаков Иван Петрович": 1,
-      "Володин Вячеслав Викторович": 205,
-      "Граф Юрий Валентинович": 2,
-      "Караман Наталья Леонидовна": 0,
-      "Смирнов Владимир Сергеевич": 2,
-      "Смирнов Вячеслав Николаевич": 0,
-      "Тагунов Александр Васильевич": 5,
-      "Чирков Евгений Петрович": 0,
-      "Против всех": 5
+      "gas:candidate-vibid:1001000121904": 11,
+      "gas:candidate-vibid:1001000112252": 1,
+      "gas:candidate-vibid:1001000225982": 205,
+      "gas:candidate-vibid:364300170375": 2,
+      "gas:candidate-vibid:1001000121286": 0,
+      "gas:candidate-vibid:1001000113976": 2,
+      "gas:candidate-vibid:1001000195138": 0,
+      "gas:candidate-vibid:1001000136117": 5,
+      "gas:candidate-vibid:364300170488": 0,
+      "special:against-all": 5
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=643001004&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=364300170821&region=0&sub_region=0&type=429",
@@ -6709,16 +6709,16 @@ export const duma_2003_uik_428_region_64_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Алимова Ольга Николаевна": 19,
-      "Большаков Иван Петрович": 0,
-      "Володин Вячеслав Викторович": 174,
-      "Граф Юрий Валентинович": 0,
-      "Караман Наталья Леонидовна": 1,
-      "Смирнов Владимир Сергеевич": 0,
-      "Смирнов Вячеслав Николаевич": 0,
-      "Тагунов Александр Васильевич": 0,
-      "Чирков Евгений Петрович": 0,
-      "Против всех": 2
+      "gas:candidate-vibid:1001000121904": 19,
+      "gas:candidate-vibid:1001000112252": 0,
+      "gas:candidate-vibid:1001000225982": 174,
+      "gas:candidate-vibid:364300170375": 0,
+      "gas:candidate-vibid:1001000121286": 1,
+      "gas:candidate-vibid:1001000113976": 0,
+      "gas:candidate-vibid:1001000195138": 0,
+      "gas:candidate-vibid:1001000136117": 0,
+      "gas:candidate-vibid:364300170488": 0,
+      "special:against-all": 2
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=643001004&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=364300170821&region=0&sub_region=0&type=429",
@@ -6768,16 +6768,16 @@ export const duma_2003_uik_428_region_64_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Алимова Ольга Николаевна": 39,
-      "Большаков Иван Петрович": 11,
-      "Володин Вячеслав Викторович": 418,
-      "Граф Юрий Валентинович": 2,
-      "Караман Наталья Леонидовна": 2,
-      "Смирнов Владимир Сергеевич": 1,
-      "Смирнов Вячеслав Николаевич": 0,
-      "Тагунов Александр Васильевич": 11,
-      "Чирков Евгений Петрович": 1,
-      "Против всех": 16
+      "gas:candidate-vibid:1001000121904": 39,
+      "gas:candidate-vibid:1001000112252": 11,
+      "gas:candidate-vibid:1001000225982": 418,
+      "gas:candidate-vibid:364300170375": 2,
+      "gas:candidate-vibid:1001000121286": 2,
+      "gas:candidate-vibid:1001000113976": 1,
+      "gas:candidate-vibid:1001000195138": 0,
+      "gas:candidate-vibid:1001000136117": 11,
+      "gas:candidate-vibid:364300170488": 1,
+      "special:against-all": 16
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=643001004&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=364300170821&region=0&sub_region=0&type=429",
@@ -6827,16 +6827,16 @@ export const duma_2003_uik_428_region_64_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Алимова Ольга Николаевна": 17,
-      "Большаков Иван Петрович": 5,
-      "Володин Вячеслав Викторович": 243,
-      "Граф Юрий Валентинович": 0,
-      "Караман Наталья Леонидовна": 2,
-      "Смирнов Владимир Сергеевич": 0,
-      "Смирнов Вячеслав Николаевич": 1,
-      "Тагунов Александр Васильевич": 5,
-      "Чирков Евгений Петрович": 0,
-      "Против всех": 12
+      "gas:candidate-vibid:1001000121904": 17,
+      "gas:candidate-vibid:1001000112252": 5,
+      "gas:candidate-vibid:1001000225982": 243,
+      "gas:candidate-vibid:364300170375": 0,
+      "gas:candidate-vibid:1001000121286": 2,
+      "gas:candidate-vibid:1001000113976": 0,
+      "gas:candidate-vibid:1001000195138": 1,
+      "gas:candidate-vibid:1001000136117": 5,
+      "gas:candidate-vibid:364300170488": 0,
+      "special:against-all": 12
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=643001004&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=364300170821&region=0&sub_region=0&type=429",
@@ -6886,16 +6886,16 @@ export const duma_2003_uik_428_region_64_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Алимова Ольга Николаевна": 22,
-      "Большаков Иван Петрович": 1,
-      "Володин Вячеслав Викторович": 211,
-      "Граф Юрий Валентинович": 0,
-      "Караман Наталья Леонидовна": 0,
-      "Смирнов Владимир Сергеевич": 0,
-      "Смирнов Вячеслав Николаевич": 0,
-      "Тагунов Александр Васильевич": 1,
-      "Чирков Евгений Петрович": 0,
-      "Против всех": 9
+      "gas:candidate-vibid:1001000121904": 22,
+      "gas:candidate-vibid:1001000112252": 1,
+      "gas:candidate-vibid:1001000225982": 211,
+      "gas:candidate-vibid:364300170375": 0,
+      "gas:candidate-vibid:1001000121286": 0,
+      "gas:candidate-vibid:1001000113976": 0,
+      "gas:candidate-vibid:1001000195138": 0,
+      "gas:candidate-vibid:1001000136117": 1,
+      "gas:candidate-vibid:364300170488": 0,
+      "special:against-all": 9
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=643001004&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=364300170821&region=0&sub_region=0&type=429",
@@ -6945,16 +6945,16 @@ export const duma_2003_uik_428_region_64_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Алимова Ольга Николаевна": 8,
-      "Большаков Иван Петрович": 0,
-      "Володин Вячеслав Викторович": 141,
-      "Граф Юрий Валентинович": 0,
-      "Караман Наталья Леонидовна": 0,
-      "Смирнов Владимир Сергеевич": 0,
-      "Смирнов Вячеслав Николаевич": 1,
-      "Тагунов Александр Васильевич": 3,
-      "Чирков Евгений Петрович": 0,
-      "Против всех": 8
+      "gas:candidate-vibid:1001000121904": 8,
+      "gas:candidate-vibid:1001000112252": 0,
+      "gas:candidate-vibid:1001000225982": 141,
+      "gas:candidate-vibid:364300170375": 0,
+      "gas:candidate-vibid:1001000121286": 0,
+      "gas:candidate-vibid:1001000113976": 0,
+      "gas:candidate-vibid:1001000195138": 1,
+      "gas:candidate-vibid:1001000136117": 3,
+      "gas:candidate-vibid:364300170488": 0,
+      "special:against-all": 8
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=643001004&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=364300170821&region=0&sub_region=0&type=429",
@@ -7004,16 +7004,16 @@ export const duma_2003_uik_428_region_64_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Алимова Ольга Николаевна": 36,
-      "Большаков Иван Петрович": 0,
-      "Володин Вячеслав Викторович": 196,
-      "Граф Юрий Валентинович": 0,
-      "Караман Наталья Леонидовна": 0,
-      "Смирнов Владимир Сергеевич": 2,
-      "Смирнов Вячеслав Николаевич": 1,
-      "Тагунов Александр Васильевич": 4,
-      "Чирков Евгений Петрович": 0,
-      "Против всех": 11
+      "gas:candidate-vibid:1001000121904": 36,
+      "gas:candidate-vibid:1001000112252": 0,
+      "gas:candidate-vibid:1001000225982": 196,
+      "gas:candidate-vibid:364300170375": 0,
+      "gas:candidate-vibid:1001000121286": 0,
+      "gas:candidate-vibid:1001000113976": 2,
+      "gas:candidate-vibid:1001000195138": 1,
+      "gas:candidate-vibid:1001000136117": 4,
+      "gas:candidate-vibid:364300170488": 0,
+      "special:against-all": 11
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=643001004&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=364300170821&region=0&sub_region=0&type=429",
@@ -7063,16 +7063,16 @@ export const duma_2003_uik_428_region_64_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Алимова Ольга Николаевна": 14,
-      "Большаков Иван Петрович": 4,
-      "Володин Вячеслав Викторович": 271,
-      "Граф Юрий Валентинович": 1,
-      "Караман Наталья Леонидовна": 0,
-      "Смирнов Владимир Сергеевич": 0,
-      "Смирнов Вячеслав Николаевич": 0,
-      "Тагунов Александр Васильевич": 1,
-      "Чирков Евгений Петрович": 0,
-      "Против всех": 8
+      "gas:candidate-vibid:1001000121904": 14,
+      "gas:candidate-vibid:1001000112252": 4,
+      "gas:candidate-vibid:1001000225982": 271,
+      "gas:candidate-vibid:364300170375": 1,
+      "gas:candidate-vibid:1001000121286": 0,
+      "gas:candidate-vibid:1001000113976": 0,
+      "gas:candidate-vibid:1001000195138": 0,
+      "gas:candidate-vibid:1001000136117": 1,
+      "gas:candidate-vibid:364300170488": 0,
+      "special:against-all": 8
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=643001004&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=364300170821&region=0&sub_region=0&type=429",
@@ -7122,16 +7122,16 @@ export const duma_2003_uik_428_region_64_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Алимова Ольга Николаевна": 0,
-      "Большаков Иван Петрович": 0,
-      "Володин Вячеслав Викторович": 53,
-      "Граф Юрий Валентинович": 0,
-      "Караман Наталья Леонидовна": 0,
-      "Смирнов Владимир Сергеевич": 0,
-      "Смирнов Вячеслав Николаевич": 0,
-      "Тагунов Александр Васильевич": 0,
-      "Чирков Евгений Петрович": 0,
-      "Против всех": 0
+      "gas:candidate-vibid:1001000121904": 0,
+      "gas:candidate-vibid:1001000112252": 0,
+      "gas:candidate-vibid:1001000225982": 53,
+      "gas:candidate-vibid:364300170375": 0,
+      "gas:candidate-vibid:1001000121286": 0,
+      "gas:candidate-vibid:1001000113976": 0,
+      "gas:candidate-vibid:1001000195138": 0,
+      "gas:candidate-vibid:1001000136117": 0,
+      "gas:candidate-vibid:364300170488": 0,
+      "special:against-all": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=643001004&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=364300170821&region=0&sub_region=0&type=429",
@@ -7181,16 +7181,16 @@ export const duma_2003_uik_428_region_64_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Алимова Ольга Николаевна": 1,
-      "Большаков Иван Петрович": 0,
-      "Володин Вячеслав Викторович": 89,
-      "Граф Юрий Валентинович": 0,
-      "Караман Наталья Леонидовна": 0,
-      "Смирнов Владимир Сергеевич": 0,
-      "Смирнов Вячеслав Николаевич": 0,
-      "Тагунов Александр Васильевич": 0,
-      "Чирков Евгений Петрович": 0,
-      "Против всех": 1
+      "gas:candidate-vibid:1001000121904": 1,
+      "gas:candidate-vibid:1001000112252": 0,
+      "gas:candidate-vibid:1001000225982": 89,
+      "gas:candidate-vibid:364300170375": 0,
+      "gas:candidate-vibid:1001000121286": 0,
+      "gas:candidate-vibid:1001000113976": 0,
+      "gas:candidate-vibid:1001000195138": 0,
+      "gas:candidate-vibid:1001000136117": 0,
+      "gas:candidate-vibid:364300170488": 0,
+      "special:against-all": 1
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=643001004&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=364300170821&region=0&sub_region=0&type=429",
@@ -7240,16 +7240,16 @@ export const duma_2003_uik_428_region_64_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Алимова Ольга Николаевна": 22,
-      "Большаков Иван Петрович": 2,
-      "Володин Вячеслав Викторович": 176,
-      "Граф Юрий Валентинович": 1,
-      "Караман Наталья Леонидовна": 2,
-      "Смирнов Владимир Сергеевич": 5,
-      "Смирнов Вячеслав Николаевич": 0,
-      "Тагунов Александр Васильевич": 2,
-      "Чирков Евгений Петрович": 2,
-      "Против всех": 12
+      "gas:candidate-vibid:1001000121904": 22,
+      "gas:candidate-vibid:1001000112252": 2,
+      "gas:candidate-vibid:1001000225982": 176,
+      "gas:candidate-vibid:364300170375": 1,
+      "gas:candidate-vibid:1001000121286": 2,
+      "gas:candidate-vibid:1001000113976": 5,
+      "gas:candidate-vibid:1001000195138": 0,
+      "gas:candidate-vibid:1001000136117": 2,
+      "gas:candidate-vibid:364300170488": 2,
+      "special:against-all": 12
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=643001004&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=364300170821&region=0&sub_region=0&type=429",
@@ -7299,16 +7299,16 @@ export const duma_2003_uik_428_region_64_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Алимова Ольга Николаевна": 7,
-      "Большаков Иван Петрович": 1,
-      "Володин Вячеслав Викторович": 196,
-      "Граф Юрий Валентинович": 0,
-      "Караман Наталья Леонидовна": 0,
-      "Смирнов Владимир Сергеевич": 0,
-      "Смирнов Вячеслав Николаевич": 0,
-      "Тагунов Александр Васильевич": 0,
-      "Чирков Евгений Петрович": 1,
-      "Против всех": 1
+      "gas:candidate-vibid:1001000121904": 7,
+      "gas:candidate-vibid:1001000112252": 1,
+      "gas:candidate-vibid:1001000225982": 196,
+      "gas:candidate-vibid:364300170375": 0,
+      "gas:candidate-vibid:1001000121286": 0,
+      "gas:candidate-vibid:1001000113976": 0,
+      "gas:candidate-vibid:1001000195138": 0,
+      "gas:candidate-vibid:1001000136117": 0,
+      "gas:candidate-vibid:364300170488": 1,
+      "special:against-all": 1
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=643001004&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=364300170821&region=0&sub_region=0&type=429",
@@ -7358,16 +7358,16 @@ export const duma_2003_uik_428_region_64_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Алимова Ольга Николаевна": 96,
-      "Большаков Иван Петрович": 0,
-      "Володин Вячеслав Викторович": 701,
-      "Граф Юрий Валентинович": 3,
-      "Караман Наталья Леонидовна": 0,
-      "Смирнов Владимир Сергеевич": 3,
-      "Смирнов Вячеслав Николаевич": 0,
-      "Тагунов Александр Васильевич": 13,
-      "Чирков Евгений Петрович": 1,
-      "Против всех": 43
+      "gas:candidate-vibid:1001000121904": 96,
+      "gas:candidate-vibid:1001000112252": 0,
+      "gas:candidate-vibid:1001000225982": 701,
+      "gas:candidate-vibid:364300170375": 3,
+      "gas:candidate-vibid:1001000121286": 0,
+      "gas:candidate-vibid:1001000113976": 3,
+      "gas:candidate-vibid:1001000195138": 0,
+      "gas:candidate-vibid:1001000136117": 13,
+      "gas:candidate-vibid:364300170488": 1,
+      "special:against-all": 43
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=643001004&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=364300170821&region=0&sub_region=0&type=429",
@@ -7417,16 +7417,16 @@ export const duma_2003_uik_428_region_64_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Алимова Ольга Николаевна": 107,
-      "Большаков Иван Петрович": 6,
-      "Володин Вячеслав Викторович": 525,
-      "Граф Юрий Валентинович": 2,
-      "Караман Наталья Леонидовна": 2,
-      "Смирнов Владимир Сергеевич": 2,
-      "Смирнов Вячеслав Николаевич": 3,
-      "Тагунов Александр Васильевич": 10,
-      "Чирков Евгений Петрович": 0,
-      "Против всех": 27
+      "gas:candidate-vibid:1001000121904": 107,
+      "gas:candidate-vibid:1001000112252": 6,
+      "gas:candidate-vibid:1001000225982": 525,
+      "gas:candidate-vibid:364300170375": 2,
+      "gas:candidate-vibid:1001000121286": 2,
+      "gas:candidate-vibid:1001000113976": 2,
+      "gas:candidate-vibid:1001000195138": 3,
+      "gas:candidate-vibid:1001000136117": 10,
+      "gas:candidate-vibid:364300170488": 0,
+      "special:against-all": 27
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=643001004&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=364300170821&region=0&sub_region=0&type=429",
@@ -7476,16 +7476,16 @@ export const duma_2003_uik_428_region_64_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Алимова Ольга Николаевна": 68,
-      "Большаков Иван Петрович": 7,
-      "Володин Вячеслав Викторович": 422,
-      "Граф Юрий Валентинович": 0,
-      "Караман Наталья Леонидовна": 1,
-      "Смирнов Владимир Сергеевич": 2,
-      "Смирнов Вячеслав Николаевич": 0,
-      "Тагунов Александр Васильевич": 3,
-      "Чирков Евгений Петрович": 0,
-      "Против всех": 20
+      "gas:candidate-vibid:1001000121904": 68,
+      "gas:candidate-vibid:1001000112252": 7,
+      "gas:candidate-vibid:1001000225982": 422,
+      "gas:candidate-vibid:364300170375": 0,
+      "gas:candidate-vibid:1001000121286": 1,
+      "gas:candidate-vibid:1001000113976": 2,
+      "gas:candidate-vibid:1001000195138": 0,
+      "gas:candidate-vibid:1001000136117": 3,
+      "gas:candidate-vibid:364300170488": 0,
+      "special:against-all": 20
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=643001005&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=364300170822&region=0&sub_region=0&type=429",
@@ -7535,16 +7535,16 @@ export const duma_2003_uik_428_region_64_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Алимова Ольга Николаевна": 107,
-      "Большаков Иван Петрович": 3,
-      "Володин Вячеслав Викторович": 493,
-      "Граф Юрий Валентинович": 1,
-      "Караман Наталья Леонидовна": 0,
-      "Смирнов Владимир Сергеевич": 1,
-      "Смирнов Вячеслав Николаевич": 3,
-      "Тагунов Александр Васильевич": 4,
-      "Чирков Евгений Петрович": 1,
-      "Против всех": 33
+      "gas:candidate-vibid:1001000121904": 107,
+      "gas:candidate-vibid:1001000112252": 3,
+      "gas:candidate-vibid:1001000225982": 493,
+      "gas:candidate-vibid:364300170375": 1,
+      "gas:candidate-vibid:1001000121286": 0,
+      "gas:candidate-vibid:1001000113976": 1,
+      "gas:candidate-vibid:1001000195138": 3,
+      "gas:candidate-vibid:1001000136117": 4,
+      "gas:candidate-vibid:364300170488": 1,
+      "special:against-all": 33
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=643001005&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=364300170822&region=0&sub_region=0&type=429",
@@ -7594,16 +7594,16 @@ export const duma_2003_uik_428_region_64_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Алимова Ольга Николаевна": 127,
-      "Большаков Иван Петрович": 1,
-      "Володин Вячеслав Викторович": 441,
-      "Граф Юрий Валентинович": 0,
-      "Караман Наталья Леонидовна": 1,
-      "Смирнов Владимир Сергеевич": 3,
-      "Смирнов Вячеслав Николаевич": 2,
-      "Тагунов Александр Васильевич": 8,
-      "Чирков Евгений Петрович": 1,
-      "Против всех": 14
+      "gas:candidate-vibid:1001000121904": 127,
+      "gas:candidate-vibid:1001000112252": 1,
+      "gas:candidate-vibid:1001000225982": 441,
+      "gas:candidate-vibid:364300170375": 0,
+      "gas:candidate-vibid:1001000121286": 1,
+      "gas:candidate-vibid:1001000113976": 3,
+      "gas:candidate-vibid:1001000195138": 2,
+      "gas:candidate-vibid:1001000136117": 8,
+      "gas:candidate-vibid:364300170488": 1,
+      "special:against-all": 14
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=643001005&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=364300170822&region=0&sub_region=0&type=429",
@@ -7653,16 +7653,16 @@ export const duma_2003_uik_428_region_64_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Алимова Ольга Николаевна": 106,
-      "Большаков Иван Петрович": 3,
-      "Володин Вячеслав Викторович": 350,
-      "Граф Юрий Валентинович": 0,
-      "Караман Наталья Леонидовна": 0,
-      "Смирнов Владимир Сергеевич": 3,
-      "Смирнов Вячеслав Николаевич": 1,
-      "Тагунов Александр Васильевич": 8,
-      "Чирков Евгений Петрович": 2,
-      "Против всех": 24
+      "gas:candidate-vibid:1001000121904": 106,
+      "gas:candidate-vibid:1001000112252": 3,
+      "gas:candidate-vibid:1001000225982": 350,
+      "gas:candidate-vibid:364300170375": 0,
+      "gas:candidate-vibid:1001000121286": 0,
+      "gas:candidate-vibid:1001000113976": 3,
+      "gas:candidate-vibid:1001000195138": 1,
+      "gas:candidate-vibid:1001000136117": 8,
+      "gas:candidate-vibid:364300170488": 2,
+      "special:against-all": 24
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=643001005&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=364300170822&region=0&sub_region=0&type=429",
@@ -7712,16 +7712,16 @@ export const duma_2003_uik_428_region_64_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Алимова Ольга Николаевна": 51,
-      "Большаков Иван Петрович": 2,
-      "Володин Вячеслав Викторович": 331,
-      "Граф Юрий Валентинович": 1,
-      "Караман Наталья Леонидовна": 0,
-      "Смирнов Владимир Сергеевич": 0,
-      "Смирнов Вячеслав Николаевич": 0,
-      "Тагунов Александр Васильевич": 13,
-      "Чирков Евгений Петрович": 0,
-      "Против всех": 21
+      "gas:candidate-vibid:1001000121904": 51,
+      "gas:candidate-vibid:1001000112252": 2,
+      "gas:candidate-vibid:1001000225982": 331,
+      "gas:candidate-vibid:364300170375": 1,
+      "gas:candidate-vibid:1001000121286": 0,
+      "gas:candidate-vibid:1001000113976": 0,
+      "gas:candidate-vibid:1001000195138": 0,
+      "gas:candidate-vibid:1001000136117": 13,
+      "gas:candidate-vibid:364300170488": 0,
+      "special:against-all": 21
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=643001005&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=364300170822&region=0&sub_region=0&type=429",
@@ -7771,16 +7771,16 @@ export const duma_2003_uik_428_region_64_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Алимова Ольга Николаевна": 92,
-      "Большаков Иван Петрович": 6,
-      "Володин Вячеслав Викторович": 462,
-      "Граф Юрий Валентинович": 1,
-      "Караман Наталья Леонидовна": 1,
-      "Смирнов Владимир Сергеевич": 2,
-      "Смирнов Вячеслав Николаевич": 0,
-      "Тагунов Александр Васильевич": 3,
-      "Чирков Евгений Петрович": 0,
-      "Против всех": 23
+      "gas:candidate-vibid:1001000121904": 92,
+      "gas:candidate-vibid:1001000112252": 6,
+      "gas:candidate-vibid:1001000225982": 462,
+      "gas:candidate-vibid:364300170375": 1,
+      "gas:candidate-vibid:1001000121286": 1,
+      "gas:candidate-vibid:1001000113976": 2,
+      "gas:candidate-vibid:1001000195138": 0,
+      "gas:candidate-vibid:1001000136117": 3,
+      "gas:candidate-vibid:364300170488": 0,
+      "special:against-all": 23
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=643001005&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=364300170822&region=0&sub_region=0&type=429",
@@ -7830,16 +7830,16 @@ export const duma_2003_uik_428_region_64_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Алимова Ольга Николаевна": 91,
-      "Большаков Иван Петрович": 2,
-      "Володин Вячеслав Викторович": 288,
-      "Граф Юрий Валентинович": 1,
-      "Караман Наталья Леонидовна": 0,
-      "Смирнов Владимир Сергеевич": 1,
-      "Смирнов Вячеслав Николаевич": 1,
-      "Тагунов Александр Васильевич": 0,
-      "Чирков Евгений Петрович": 3,
-      "Против всех": 8
+      "gas:candidate-vibid:1001000121904": 91,
+      "gas:candidate-vibid:1001000112252": 2,
+      "gas:candidate-vibid:1001000225982": 288,
+      "gas:candidate-vibid:364300170375": 1,
+      "gas:candidate-vibid:1001000121286": 0,
+      "gas:candidate-vibid:1001000113976": 1,
+      "gas:candidate-vibid:1001000195138": 1,
+      "gas:candidate-vibid:1001000136117": 0,
+      "gas:candidate-vibid:364300170488": 3,
+      "special:against-all": 8
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=643001005&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=364300170822&region=0&sub_region=0&type=429",
@@ -7889,16 +7889,16 @@ export const duma_2003_uik_428_region_64_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Алимова Ольга Николаевна": 160,
-      "Большаков Иван Петрович": 5,
-      "Володин Вячеслав Викторович": 561,
-      "Граф Юрий Валентинович": 0,
-      "Караман Наталья Леонидовна": 0,
-      "Смирнов Владимир Сергеевич": 3,
-      "Смирнов Вячеслав Николаевич": 0,
-      "Тагунов Александр Васильевич": 5,
-      "Чирков Евгений Петрович": 0,
-      "Против всех": 14
+      "gas:candidate-vibid:1001000121904": 160,
+      "gas:candidate-vibid:1001000112252": 5,
+      "gas:candidate-vibid:1001000225982": 561,
+      "gas:candidate-vibid:364300170375": 0,
+      "gas:candidate-vibid:1001000121286": 0,
+      "gas:candidate-vibid:1001000113976": 3,
+      "gas:candidate-vibid:1001000195138": 0,
+      "gas:candidate-vibid:1001000136117": 5,
+      "gas:candidate-vibid:364300170488": 0,
+      "special:against-all": 14
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=643001005&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=364300170822&region=0&sub_region=0&type=429",
@@ -7948,16 +7948,16 @@ export const duma_2003_uik_428_region_64_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Алимова Ольга Николаевна": 21,
-      "Большаков Иван Петрович": 2,
-      "Володин Вячеслав Викторович": 196,
-      "Граф Юрий Валентинович": 3,
-      "Караман Наталья Леонидовна": 0,
-      "Смирнов Владимир Сергеевич": 0,
-      "Смирнов Вячеслав Николаевич": 0,
-      "Тагунов Александр Васильевич": 4,
-      "Чирков Евгений Петрович": 3,
-      "Против всех": 6
+      "gas:candidate-vibid:1001000121904": 21,
+      "gas:candidate-vibid:1001000112252": 2,
+      "gas:candidate-vibid:1001000225982": 196,
+      "gas:candidate-vibid:364300170375": 3,
+      "gas:candidate-vibid:1001000121286": 0,
+      "gas:candidate-vibid:1001000113976": 0,
+      "gas:candidate-vibid:1001000195138": 0,
+      "gas:candidate-vibid:1001000136117": 4,
+      "gas:candidate-vibid:364300170488": 3,
+      "special:against-all": 6
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=643001005&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=364300170822&region=0&sub_region=0&type=429",
@@ -8007,16 +8007,16 @@ export const duma_2003_uik_428_region_64_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Алимова Ольга Николаевна": 23,
-      "Большаков Иван Петрович": 0,
-      "Володин Вячеслав Викторович": 461,
-      "Граф Юрий Валентинович": 0,
-      "Караман Наталья Леонидовна": 0,
-      "Смирнов Владимир Сергеевич": 0,
-      "Смирнов Вячеслав Николаевич": 0,
-      "Тагунов Александр Васильевич": 0,
-      "Чирков Евгений Петрович": 0,
-      "Против всех": 4
+      "gas:candidate-vibid:1001000121904": 23,
+      "gas:candidate-vibid:1001000112252": 0,
+      "gas:candidate-vibid:1001000225982": 461,
+      "gas:candidate-vibid:364300170375": 0,
+      "gas:candidate-vibid:1001000121286": 0,
+      "gas:candidate-vibid:1001000113976": 0,
+      "gas:candidate-vibid:1001000195138": 0,
+      "gas:candidate-vibid:1001000136117": 0,
+      "gas:candidate-vibid:364300170488": 0,
+      "special:against-all": 4
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=643001005&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=364300170822&region=0&sub_region=0&type=429",
@@ -8066,16 +8066,16 @@ export const duma_2003_uik_428_region_64_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Алимова Ольга Николаевна": 37,
-      "Большаков Иван Петрович": 0,
-      "Володин Вячеслав Викторович": 328,
-      "Граф Юрий Валентинович": 0,
-      "Караман Наталья Леонидовна": 0,
-      "Смирнов Владимир Сергеевич": 0,
-      "Смирнов Вячеслав Николаевич": 0,
-      "Тагунов Александр Васильевич": 2,
-      "Чирков Евгений Петрович": 1,
-      "Против всех": 3
+      "gas:candidate-vibid:1001000121904": 37,
+      "gas:candidate-vibid:1001000112252": 0,
+      "gas:candidate-vibid:1001000225982": 328,
+      "gas:candidate-vibid:364300170375": 0,
+      "gas:candidate-vibid:1001000121286": 0,
+      "gas:candidate-vibid:1001000113976": 0,
+      "gas:candidate-vibid:1001000195138": 0,
+      "gas:candidate-vibid:1001000136117": 2,
+      "gas:candidate-vibid:364300170488": 1,
+      "special:against-all": 3
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=643001005&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=364300170822&region=0&sub_region=0&type=429",
@@ -8125,16 +8125,16 @@ export const duma_2003_uik_428_region_64_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Алимова Ольга Николаевна": 33,
-      "Большаков Иван Петрович": 3,
-      "Володин Вячеслав Викторович": 645,
-      "Граф Юрий Валентинович": 0,
-      "Караман Наталья Леонидовна": 0,
-      "Смирнов Владимир Сергеевич": 0,
-      "Смирнов Вячеслав Николаевич": 0,
-      "Тагунов Александр Васильевич": 2,
-      "Чирков Евгений Петрович": 0,
-      "Против всех": 4
+      "gas:candidate-vibid:1001000121904": 33,
+      "gas:candidate-vibid:1001000112252": 3,
+      "gas:candidate-vibid:1001000225982": 645,
+      "gas:candidate-vibid:364300170375": 0,
+      "gas:candidate-vibid:1001000121286": 0,
+      "gas:candidate-vibid:1001000113976": 0,
+      "gas:candidate-vibid:1001000195138": 0,
+      "gas:candidate-vibid:1001000136117": 2,
+      "gas:candidate-vibid:364300170488": 0,
+      "special:against-all": 4
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=643001005&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=364300170822&region=0&sub_region=0&type=429",
@@ -8184,16 +8184,16 @@ export const duma_2003_uik_428_region_64_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Алимова Ольга Николаевна": 23,
-      "Большаков Иван Петрович": 0,
-      "Володин Вячеслав Викторович": 509,
-      "Граф Юрий Валентинович": 0,
-      "Караман Наталья Леонидовна": 0,
-      "Смирнов Владимир Сергеевич": 0,
-      "Смирнов Вячеслав Николаевич": 0,
-      "Тагунов Александр Васильевич": 0,
-      "Чирков Евгений Петрович": 0,
-      "Против всех": 10
+      "gas:candidate-vibid:1001000121904": 23,
+      "gas:candidate-vibid:1001000112252": 0,
+      "gas:candidate-vibid:1001000225982": 509,
+      "gas:candidate-vibid:364300170375": 0,
+      "gas:candidate-vibid:1001000121286": 0,
+      "gas:candidate-vibid:1001000113976": 0,
+      "gas:candidate-vibid:1001000195138": 0,
+      "gas:candidate-vibid:1001000136117": 0,
+      "gas:candidate-vibid:364300170488": 0,
+      "special:against-all": 10
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=643001005&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=364300170822&region=0&sub_region=0&type=429",
@@ -8243,16 +8243,16 @@ export const duma_2003_uik_428_region_64_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Алимова Ольга Николаевна": 33,
-      "Большаков Иван Петрович": 2,
-      "Володин Вячеслав Викторович": 634,
-      "Граф Юрий Валентинович": 0,
-      "Караман Наталья Леонидовна": 0,
-      "Смирнов Владимир Сергеевич": 4,
-      "Смирнов Вячеслав Николаевич": 0,
-      "Тагунов Александр Васильевич": 2,
-      "Чирков Евгений Петрович": 0,
-      "Против всех": 8
+      "gas:candidate-vibid:1001000121904": 33,
+      "gas:candidate-vibid:1001000112252": 2,
+      "gas:candidate-vibid:1001000225982": 634,
+      "gas:candidate-vibid:364300170375": 0,
+      "gas:candidate-vibid:1001000121286": 0,
+      "gas:candidate-vibid:1001000113976": 4,
+      "gas:candidate-vibid:1001000195138": 0,
+      "gas:candidate-vibid:1001000136117": 2,
+      "gas:candidate-vibid:364300170488": 0,
+      "special:against-all": 8
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=643001005&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=364300170822&region=0&sub_region=0&type=429",
@@ -8302,16 +8302,16 @@ export const duma_2003_uik_428_region_64_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Алимова Ольга Николаевна": 4,
-      "Большаков Иван Петрович": 0,
-      "Володин Вячеслав Викторович": 194,
-      "Граф Юрий Валентинович": 1,
-      "Караман Наталья Леонидовна": 1,
-      "Смирнов Владимир Сергеевич": 1,
-      "Смирнов Вячеслав Николаевич": 0,
-      "Тагунов Александр Васильевич": 4,
-      "Чирков Евгений Петрович": 0,
-      "Против всех": 6
+      "gas:candidate-vibid:1001000121904": 4,
+      "gas:candidate-vibid:1001000112252": 0,
+      "gas:candidate-vibid:1001000225982": 194,
+      "gas:candidate-vibid:364300170375": 1,
+      "gas:candidate-vibid:1001000121286": 1,
+      "gas:candidate-vibid:1001000113976": 1,
+      "gas:candidate-vibid:1001000195138": 0,
+      "gas:candidate-vibid:1001000136117": 4,
+      "gas:candidate-vibid:364300170488": 0,
+      "special:against-all": 6
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=643001005&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=364300170822&region=0&sub_region=0&type=429",
@@ -8361,16 +8361,16 @@ export const duma_2003_uik_428_region_64_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Алимова Ольга Николаевна": 13,
-      "Большаков Иван Петрович": 1,
-      "Володин Вячеслав Викторович": 120,
-      "Граф Юрий Валентинович": 1,
-      "Караман Наталья Леонидовна": 0,
-      "Смирнов Владимир Сергеевич": 1,
-      "Смирнов Вячеслав Николаевич": 1,
-      "Тагунов Александр Васильевич": 0,
-      "Чирков Евгений Петрович": 0,
-      "Против всех": 4
+      "gas:candidate-vibid:1001000121904": 13,
+      "gas:candidate-vibid:1001000112252": 1,
+      "gas:candidate-vibid:1001000225982": 120,
+      "gas:candidate-vibid:364300170375": 1,
+      "gas:candidate-vibid:1001000121286": 0,
+      "gas:candidate-vibid:1001000113976": 1,
+      "gas:candidate-vibid:1001000195138": 1,
+      "gas:candidate-vibid:1001000136117": 0,
+      "gas:candidate-vibid:364300170488": 0,
+      "special:against-all": 4
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=643001005&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=364300170822&region=0&sub_region=0&type=429",
@@ -8420,16 +8420,16 @@ export const duma_2003_uik_428_region_64_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Алимова Ольга Николаевна": 18,
-      "Большаков Иван Петрович": 0,
-      "Володин Вячеслав Викторович": 340,
-      "Граф Юрий Валентинович": 0,
-      "Караман Наталья Леонидовна": 0,
-      "Смирнов Владимир Сергеевич": 0,
-      "Смирнов Вячеслав Николаевич": 0,
-      "Тагунов Александр Васильевич": 1,
-      "Чирков Евгений Петрович": 0,
-      "Против всех": 4
+      "gas:candidate-vibid:1001000121904": 18,
+      "gas:candidate-vibid:1001000112252": 0,
+      "gas:candidate-vibid:1001000225982": 340,
+      "gas:candidate-vibid:364300170375": 0,
+      "gas:candidate-vibid:1001000121286": 0,
+      "gas:candidate-vibid:1001000113976": 0,
+      "gas:candidate-vibid:1001000195138": 0,
+      "gas:candidate-vibid:1001000136117": 1,
+      "gas:candidate-vibid:364300170488": 0,
+      "special:against-all": 4
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=643001005&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=364300170822&region=0&sub_region=0&type=429",
@@ -8479,16 +8479,16 @@ export const duma_2003_uik_428_region_64_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Алимова Ольга Николаевна": 57,
-      "Большаков Иван Петрович": 4,
-      "Володин Вячеслав Викторович": 524,
-      "Граф Юрий Валентинович": 0,
-      "Караман Наталья Леонидовна": 0,
-      "Смирнов Владимир Сергеевич": 2,
-      "Смирнов Вячеслав Николаевич": 0,
-      "Тагунов Александр Васильевич": 6,
-      "Чирков Евгений Петрович": 1,
-      "Против всех": 7
+      "gas:candidate-vibid:1001000121904": 57,
+      "gas:candidate-vibid:1001000112252": 4,
+      "gas:candidate-vibid:1001000225982": 524,
+      "gas:candidate-vibid:364300170375": 0,
+      "gas:candidate-vibid:1001000121286": 0,
+      "gas:candidate-vibid:1001000113976": 2,
+      "gas:candidate-vibid:1001000195138": 0,
+      "gas:candidate-vibid:1001000136117": 6,
+      "gas:candidate-vibid:364300170488": 1,
+      "special:against-all": 7
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=643001005&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=364300170822&region=0&sub_region=0&type=429",
@@ -8538,16 +8538,16 @@ export const duma_2003_uik_428_region_64_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Алимова Ольга Николаевна": 68,
-      "Большаков Иван Петрович": 3,
-      "Володин Вячеслав Викторович": 299,
-      "Граф Юрий Валентинович": 0,
-      "Караман Наталья Леонидовна": 0,
-      "Смирнов Владимир Сергеевич": 0,
-      "Смирнов Вячеслав Николаевич": 0,
-      "Тагунов Александр Васильевич": 3,
-      "Чирков Евгений Петрович": 2,
-      "Против всех": 8
+      "gas:candidate-vibid:1001000121904": 68,
+      "gas:candidate-vibid:1001000112252": 3,
+      "gas:candidate-vibid:1001000225982": 299,
+      "gas:candidate-vibid:364300170375": 0,
+      "gas:candidate-vibid:1001000121286": 0,
+      "gas:candidate-vibid:1001000113976": 0,
+      "gas:candidate-vibid:1001000195138": 0,
+      "gas:candidate-vibid:1001000136117": 3,
+      "gas:candidate-vibid:364300170488": 2,
+      "special:against-all": 8
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=643001005&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=364300170822&region=0&sub_region=0&type=429",
@@ -8597,16 +8597,16 @@ export const duma_2003_uik_428_region_64_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Алимова Ольга Николаевна": 70,
-      "Большаков Иван Петрович": 0,
-      "Володин Вячеслав Викторович": 412,
-      "Граф Юрий Валентинович": 0,
-      "Караман Наталья Леонидовна": 0,
-      "Смирнов Владимир Сергеевич": 3,
-      "Смирнов Вячеслав Николаевич": 0,
-      "Тагунов Александр Васильевич": 0,
-      "Чирков Евгений Петрович": 1,
-      "Против всех": 0
+      "gas:candidate-vibid:1001000121904": 70,
+      "gas:candidate-vibid:1001000112252": 0,
+      "gas:candidate-vibid:1001000225982": 412,
+      "gas:candidate-vibid:364300170375": 0,
+      "gas:candidate-vibid:1001000121286": 0,
+      "gas:candidate-vibid:1001000113976": 3,
+      "gas:candidate-vibid:1001000195138": 0,
+      "gas:candidate-vibid:1001000136117": 0,
+      "gas:candidate-vibid:364300170488": 1,
+      "special:against-all": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=643001005&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=364300170822&region=0&sub_region=0&type=429",
@@ -8656,16 +8656,16 @@ export const duma_2003_uik_428_region_64_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Алимова Ольга Николаевна": 24,
-      "Большаков Иван Петрович": 2,
-      "Володин Вячеслав Викторович": 682,
-      "Граф Юрий Валентинович": 0,
-      "Караман Наталья Леонидовна": 0,
-      "Смирнов Владимир Сергеевич": 0,
-      "Смирнов Вячеслав Николаевич": 0,
-      "Тагунов Александр Васильевич": 1,
-      "Чирков Евгений Петрович": 2,
-      "Против всех": 6
+      "gas:candidate-vibid:1001000121904": 24,
+      "gas:candidate-vibid:1001000112252": 2,
+      "gas:candidate-vibid:1001000225982": 682,
+      "gas:candidate-vibid:364300170375": 0,
+      "gas:candidate-vibid:1001000121286": 0,
+      "gas:candidate-vibid:1001000113976": 0,
+      "gas:candidate-vibid:1001000195138": 0,
+      "gas:candidate-vibid:1001000136117": 1,
+      "gas:candidate-vibid:364300170488": 2,
+      "special:against-all": 6
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=643001005&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=364300170822&region=0&sub_region=0&type=429",
@@ -8715,16 +8715,16 @@ export const duma_2003_uik_428_region_64_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Алимова Ольга Николаевна": 46,
-      "Большаков Иван Петрович": 1,
-      "Володин Вячеслав Викторович": 290,
-      "Граф Юрий Валентинович": 1,
-      "Караман Наталья Леонидовна": 0,
-      "Смирнов Владимир Сергеевич": 0,
-      "Смирнов Вячеслав Николаевич": 1,
-      "Тагунов Александр Васильевич": 4,
-      "Чирков Евгений Петрович": 0,
-      "Против всех": 11
+      "gas:candidate-vibid:1001000121904": 46,
+      "gas:candidate-vibid:1001000112252": 1,
+      "gas:candidate-vibid:1001000225982": 290,
+      "gas:candidate-vibid:364300170375": 1,
+      "gas:candidate-vibid:1001000121286": 0,
+      "gas:candidate-vibid:1001000113976": 0,
+      "gas:candidate-vibid:1001000195138": 1,
+      "gas:candidate-vibid:1001000136117": 4,
+      "gas:candidate-vibid:364300170488": 0,
+      "special:against-all": 11
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=643001005&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=364300170822&region=0&sub_region=0&type=429",
@@ -8774,16 +8774,16 @@ export const duma_2003_uik_428_region_64_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Алимова Ольга Николаевна": 71,
-      "Большаков Иван Петрович": 3,
-      "Володин Вячеслав Викторович": 412,
-      "Граф Юрий Валентинович": 0,
-      "Караман Наталья Леонидовна": 0,
-      "Смирнов Владимир Сергеевич": 3,
-      "Смирнов Вячеслав Николаевич": 1,
-      "Тагунов Александр Васильевич": 1,
-      "Чирков Евгений Петрович": 0,
-      "Против всех": 13
+      "gas:candidate-vibid:1001000121904": 71,
+      "gas:candidate-vibid:1001000112252": 3,
+      "gas:candidate-vibid:1001000225982": 412,
+      "gas:candidate-vibid:364300170375": 0,
+      "gas:candidate-vibid:1001000121286": 0,
+      "gas:candidate-vibid:1001000113976": 3,
+      "gas:candidate-vibid:1001000195138": 1,
+      "gas:candidate-vibid:1001000136117": 1,
+      "gas:candidate-vibid:364300170488": 0,
+      "special:against-all": 13
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=643001005&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=364300170822&region=0&sub_region=0&type=429",
@@ -8833,16 +8833,16 @@ export const duma_2003_uik_428_region_64_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Алимова Ольга Николаевна": 27,
-      "Большаков Иван Петрович": 0,
-      "Володин Вячеслав Викторович": 696,
-      "Граф Юрий Валентинович": 1,
-      "Караман Наталья Леонидовна": 0,
-      "Смирнов Владимир Сергеевич": 3,
-      "Смирнов Вячеслав Николаевич": 1,
-      "Тагунов Александр Васильевич": 6,
-      "Чирков Евгений Петрович": 2,
-      "Против всех": 4
+      "gas:candidate-vibid:1001000121904": 27,
+      "gas:candidate-vibid:1001000112252": 0,
+      "gas:candidate-vibid:1001000225982": 696,
+      "gas:candidate-vibid:364300170375": 1,
+      "gas:candidate-vibid:1001000121286": 0,
+      "gas:candidate-vibid:1001000113976": 3,
+      "gas:candidate-vibid:1001000195138": 1,
+      "gas:candidate-vibid:1001000136117": 6,
+      "gas:candidate-vibid:364300170488": 2,
+      "special:against-all": 4
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=643001005&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=364300170822&region=0&sub_region=0&type=429",
@@ -8892,16 +8892,16 @@ export const duma_2003_uik_428_region_64_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Алимова Ольга Николаевна": 38,
-      "Большаков Иван Петрович": 3,
-      "Володин Вячеслав Викторович": 651,
-      "Граф Юрий Валентинович": 3,
-      "Караман Наталья Леонидовна": 0,
-      "Смирнов Владимир Сергеевич": 1,
-      "Смирнов Вячеслав Николаевич": 0,
-      "Тагунов Александр Васильевич": 4,
-      "Чирков Евгений Петрович": 0,
-      "Против всех": 11
+      "gas:candidate-vibid:1001000121904": 38,
+      "gas:candidate-vibid:1001000112252": 3,
+      "gas:candidate-vibid:1001000225982": 651,
+      "gas:candidate-vibid:364300170375": 3,
+      "gas:candidate-vibid:1001000121286": 0,
+      "gas:candidate-vibid:1001000113976": 1,
+      "gas:candidate-vibid:1001000195138": 0,
+      "gas:candidate-vibid:1001000136117": 4,
+      "gas:candidate-vibid:364300170488": 0,
+      "special:against-all": 11
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=643001005&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=364300170822&region=0&sub_region=0&type=429",
@@ -8951,16 +8951,16 @@ export const duma_2003_uik_428_region_64_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Алимова Ольга Николаевна": 4,
-      "Большаков Иван Петрович": 2,
-      "Володин Вячеслав Викторович": 84,
-      "Граф Юрий Валентинович": 0,
-      "Караман Наталья Леонидовна": 0,
-      "Смирнов Владимир Сергеевич": 0,
-      "Смирнов Вячеслав Николаевич": 1,
-      "Тагунов Александр Васильевич": 1,
-      "Чирков Евгений Петрович": 0,
-      "Против всех": 6
+      "gas:candidate-vibid:1001000121904": 4,
+      "gas:candidate-vibid:1001000112252": 2,
+      "gas:candidate-vibid:1001000225982": 84,
+      "gas:candidate-vibid:364300170375": 0,
+      "gas:candidate-vibid:1001000121286": 0,
+      "gas:candidate-vibid:1001000113976": 0,
+      "gas:candidate-vibid:1001000195138": 1,
+      "gas:candidate-vibid:1001000136117": 1,
+      "gas:candidate-vibid:364300170488": 0,
+      "special:against-all": 6
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=643001005&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=364300170822&region=0&sub_region=0&type=429",
@@ -9010,16 +9010,16 @@ export const duma_2003_uik_428_region_64_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Алимова Ольга Николаевна": 38,
-      "Большаков Иван Петрович": 0,
-      "Володин Вячеслав Викторович": 362,
-      "Граф Юрий Валентинович": 0,
-      "Караман Наталья Леонидовна": 0,
-      "Смирнов Владимир Сергеевич": 2,
-      "Смирнов Вячеслав Николаевич": 0,
-      "Тагунов Александр Васильевич": 2,
-      "Чирков Евгений Петрович": 0,
-      "Против всех": 5
+      "gas:candidate-vibid:1001000121904": 38,
+      "gas:candidate-vibid:1001000112252": 0,
+      "gas:candidate-vibid:1001000225982": 362,
+      "gas:candidate-vibid:364300170375": 0,
+      "gas:candidate-vibid:1001000121286": 0,
+      "gas:candidate-vibid:1001000113976": 2,
+      "gas:candidate-vibid:1001000195138": 0,
+      "gas:candidate-vibid:1001000136117": 2,
+      "gas:candidate-vibid:364300170488": 0,
+      "special:against-all": 5
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=643001005&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=364300170822&region=0&sub_region=0&type=429",
@@ -9069,16 +9069,16 @@ export const duma_2003_uik_428_region_64_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Алимова Ольга Николаевна": 21,
-      "Большаков Иван Петрович": 3,
-      "Володин Вячеслав Викторович": 575,
-      "Граф Юрий Валентинович": 0,
-      "Караман Наталья Леонидовна": 0,
-      "Смирнов Владимир Сергеевич": 0,
-      "Смирнов Вячеслав Николаевич": 0,
-      "Тагунов Александр Васильевич": 0,
-      "Чирков Евгений Петрович": 0,
-      "Против всех": 2
+      "gas:candidate-vibid:1001000121904": 21,
+      "gas:candidate-vibid:1001000112252": 3,
+      "gas:candidate-vibid:1001000225982": 575,
+      "gas:candidate-vibid:364300170375": 0,
+      "gas:candidate-vibid:1001000121286": 0,
+      "gas:candidate-vibid:1001000113976": 0,
+      "gas:candidate-vibid:1001000195138": 0,
+      "gas:candidate-vibid:1001000136117": 0,
+      "gas:candidate-vibid:364300170488": 0,
+      "special:against-all": 2
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=643001005&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=364300170822&region=0&sub_region=0&type=429",
@@ -9128,16 +9128,16 @@ export const duma_2003_uik_428_region_64_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Алимова Ольга Николаевна": 88,
-      "Большаков Иван Петрович": 2,
-      "Володин Вячеслав Викторович": 601,
-      "Граф Юрий Валентинович": 3,
-      "Караман Наталья Леонидовна": 0,
-      "Смирнов Владимир Сергеевич": 2,
-      "Смирнов Вячеслав Николаевич": 1,
-      "Тагунов Александр Васильевич": 4,
-      "Чирков Евгений Петрович": 3,
-      "Против всех": 23
+      "gas:candidate-vibid:1001000121904": 88,
+      "gas:candidate-vibid:1001000112252": 2,
+      "gas:candidate-vibid:1001000225982": 601,
+      "gas:candidate-vibid:364300170375": 3,
+      "gas:candidate-vibid:1001000121286": 0,
+      "gas:candidate-vibid:1001000113976": 2,
+      "gas:candidate-vibid:1001000195138": 1,
+      "gas:candidate-vibid:1001000136117": 4,
+      "gas:candidate-vibid:364300170488": 3,
+      "special:against-all": 23
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=643001005&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=364300170822&region=0&sub_region=0&type=429",
@@ -9187,16 +9187,16 @@ export const duma_2003_uik_428_region_64_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Алимова Ольга Николаевна": 130,
-      "Большаков Иван Петрович": 51,
-      "Володин Вячеслав Викторович": 595,
-      "Граф Юрий Валентинович": 1,
-      "Караман Наталья Леонидовна": 0,
-      "Смирнов Владимир Сергеевич": 0,
-      "Смирнов Вячеслав Николаевич": 0,
-      "Тагунов Александр Васильевич": 12,
-      "Чирков Евгений Петрович": 1,
-      "Против всех": 43
+      "gas:candidate-vibid:1001000121904": 130,
+      "gas:candidate-vibid:1001000112252": 51,
+      "gas:candidate-vibid:1001000225982": 595,
+      "gas:candidate-vibid:364300170375": 1,
+      "gas:candidate-vibid:1001000121286": 0,
+      "gas:candidate-vibid:1001000113976": 0,
+      "gas:candidate-vibid:1001000195138": 0,
+      "gas:candidate-vibid:1001000136117": 12,
+      "gas:candidate-vibid:364300170488": 1,
+      "special:against-all": 43
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=643001006&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=364300170823&region=0&sub_region=0&type=429",
@@ -9246,16 +9246,16 @@ export const duma_2003_uik_428_region_64_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Алимова Ольга Николаевна": 149,
-      "Большаков Иван Петрович": 36,
-      "Володин Вячеслав Викторович": 574,
-      "Граф Юрий Валентинович": 1,
-      "Караман Наталья Леонидовна": 1,
-      "Смирнов Владимир Сергеевич": 4,
-      "Смирнов Вячеслав Николаевич": 0,
-      "Тагунов Александр Васильевич": 8,
-      "Чирков Евгений Петрович": 0,
-      "Против всех": 28
+      "gas:candidate-vibid:1001000121904": 149,
+      "gas:candidate-vibid:1001000112252": 36,
+      "gas:candidate-vibid:1001000225982": 574,
+      "gas:candidate-vibid:364300170375": 1,
+      "gas:candidate-vibid:1001000121286": 1,
+      "gas:candidate-vibid:1001000113976": 4,
+      "gas:candidate-vibid:1001000195138": 0,
+      "gas:candidate-vibid:1001000136117": 8,
+      "gas:candidate-vibid:364300170488": 0,
+      "special:against-all": 28
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=643001006&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=364300170823&region=0&sub_region=0&type=429",
@@ -9305,16 +9305,16 @@ export const duma_2003_uik_428_region_64_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Алимова Ольга Николаевна": 115,
-      "Большаков Иван Петрович": 30,
-      "Володин Вячеслав Викторович": 478,
-      "Граф Юрий Валентинович": 0,
-      "Караман Наталья Леонидовна": 2,
-      "Смирнов Владимир Сергеевич": 1,
-      "Смирнов Вячеслав Николаевич": 0,
-      "Тагунов Александр Васильевич": 7,
-      "Чирков Евгений Петрович": 1,
-      "Против всех": 20
+      "gas:candidate-vibid:1001000121904": 115,
+      "gas:candidate-vibid:1001000112252": 30,
+      "gas:candidate-vibid:1001000225982": 478,
+      "gas:candidate-vibid:364300170375": 0,
+      "gas:candidate-vibid:1001000121286": 2,
+      "gas:candidate-vibid:1001000113976": 1,
+      "gas:candidate-vibid:1001000195138": 0,
+      "gas:candidate-vibid:1001000136117": 7,
+      "gas:candidate-vibid:364300170488": 1,
+      "special:against-all": 20
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=643001006&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=364300170823&region=0&sub_region=0&type=429",
@@ -9364,16 +9364,16 @@ export const duma_2003_uik_428_region_64_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Алимова Ольга Николаевна": 104,
-      "Большаков Иван Петрович": 40,
-      "Володин Вячеслав Викторович": 561,
-      "Граф Юрий Валентинович": 1,
-      "Караман Наталья Леонидовна": 2,
-      "Смирнов Владимир Сергеевич": 0,
-      "Смирнов Вячеслав Николаевич": 3,
-      "Тагунов Александр Васильевич": 11,
-      "Чирков Евгений Петрович": 0,
-      "Против всех": 26
+      "gas:candidate-vibid:1001000121904": 104,
+      "gas:candidate-vibid:1001000112252": 40,
+      "gas:candidate-vibid:1001000225982": 561,
+      "gas:candidate-vibid:364300170375": 1,
+      "gas:candidate-vibid:1001000121286": 2,
+      "gas:candidate-vibid:1001000113976": 0,
+      "gas:candidate-vibid:1001000195138": 3,
+      "gas:candidate-vibid:1001000136117": 11,
+      "gas:candidate-vibid:364300170488": 0,
+      "special:against-all": 26
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=643001006&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=364300170823&region=0&sub_region=0&type=429",
@@ -9423,16 +9423,16 @@ export const duma_2003_uik_428_region_64_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Алимова Ольга Николаевна": 33,
-      "Большаков Иван Петрович": 6,
-      "Володин Вячеслав Викторович": 290,
-      "Граф Юрий Валентинович": 0,
-      "Караман Наталья Леонидовна": 0,
-      "Смирнов Владимир Сергеевич": 2,
-      "Смирнов Вячеслав Николаевич": 1,
-      "Тагунов Александр Васильевич": 3,
-      "Чирков Евгений Петрович": 0,
-      "Против всех": 8
+      "gas:candidate-vibid:1001000121904": 33,
+      "gas:candidate-vibid:1001000112252": 6,
+      "gas:candidate-vibid:1001000225982": 290,
+      "gas:candidate-vibid:364300170375": 0,
+      "gas:candidate-vibid:1001000121286": 0,
+      "gas:candidate-vibid:1001000113976": 2,
+      "gas:candidate-vibid:1001000195138": 1,
+      "gas:candidate-vibid:1001000136117": 3,
+      "gas:candidate-vibid:364300170488": 0,
+      "special:against-all": 8
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=643001006&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=364300170823&region=0&sub_region=0&type=429",
@@ -9482,16 +9482,16 @@ export const duma_2003_uik_428_region_64_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Алимова Ольга Николаевна": 18,
-      "Большаков Иван Петрович": 8,
-      "Володин Вячеслав Викторович": 470,
-      "Граф Юрий Валентинович": 1,
-      "Караман Наталья Леонидовна": 0,
-      "Смирнов Владимир Сергеевич": 0,
-      "Смирнов Вячеслав Николаевич": 0,
-      "Тагунов Александр Васильевич": 1,
-      "Чирков Евгений Петрович": 0,
-      "Против всех": 20
+      "gas:candidate-vibid:1001000121904": 18,
+      "gas:candidate-vibid:1001000112252": 8,
+      "gas:candidate-vibid:1001000225982": 470,
+      "gas:candidate-vibid:364300170375": 1,
+      "gas:candidate-vibid:1001000121286": 0,
+      "gas:candidate-vibid:1001000113976": 0,
+      "gas:candidate-vibid:1001000195138": 0,
+      "gas:candidate-vibid:1001000136117": 1,
+      "gas:candidate-vibid:364300170488": 0,
+      "special:against-all": 20
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=643001006&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=364300170823&region=0&sub_region=0&type=429",
@@ -9541,16 +9541,16 @@ export const duma_2003_uik_428_region_64_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Алимова Ольга Николаевна": 54,
-      "Большаков Иван Петрович": 8,
-      "Володин Вячеслав Викторович": 652,
-      "Граф Юрий Валентинович": 1,
-      "Караман Наталья Леонидовна": 1,
-      "Смирнов Владимир Сергеевич": 0,
-      "Смирнов Вячеслав Николаевич": 0,
-      "Тагунов Александр Васильевич": 2,
-      "Чирков Евгений Петрович": 1,
-      "Против всех": 8
+      "gas:candidate-vibid:1001000121904": 54,
+      "gas:candidate-vibid:1001000112252": 8,
+      "gas:candidate-vibid:1001000225982": 652,
+      "gas:candidate-vibid:364300170375": 1,
+      "gas:candidate-vibid:1001000121286": 1,
+      "gas:candidate-vibid:1001000113976": 0,
+      "gas:candidate-vibid:1001000195138": 0,
+      "gas:candidate-vibid:1001000136117": 2,
+      "gas:candidate-vibid:364300170488": 1,
+      "special:against-all": 8
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=643001006&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=364300170823&region=0&sub_region=0&type=429",
@@ -9600,16 +9600,16 @@ export const duma_2003_uik_428_region_64_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Алимова Ольга Николаевна": 13,
-      "Большаков Иван Петрович": 2,
-      "Володин Вячеслав Викторович": 239,
-      "Граф Юрий Валентинович": 0,
-      "Караман Наталья Леонидовна": 0,
-      "Смирнов Владимир Сергеевич": 0,
-      "Смирнов Вячеслав Николаевич": 1,
-      "Тагунов Александр Васильевич": 3,
-      "Чирков Евгений Петрович": 0,
-      "Против всех": 16
+      "gas:candidate-vibid:1001000121904": 13,
+      "gas:candidate-vibid:1001000112252": 2,
+      "gas:candidate-vibid:1001000225982": 239,
+      "gas:candidate-vibid:364300170375": 0,
+      "gas:candidate-vibid:1001000121286": 0,
+      "gas:candidate-vibid:1001000113976": 0,
+      "gas:candidate-vibid:1001000195138": 1,
+      "gas:candidate-vibid:1001000136117": 3,
+      "gas:candidate-vibid:364300170488": 0,
+      "special:against-all": 16
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=643001006&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=364300170823&region=0&sub_region=0&type=429",
@@ -9659,16 +9659,16 @@ export const duma_2003_uik_428_region_64_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Алимова Ольга Николаевна": 27,
-      "Большаков Иван Петрович": 13,
-      "Володин Вячеслав Викторович": 377,
-      "Граф Юрий Валентинович": 0,
-      "Караман Наталья Леонидовна": 1,
-      "Смирнов Владимир Сергеевич": 0,
-      "Смирнов Вячеслав Николаевич": 0,
-      "Тагунов Александр Васильевич": 1,
-      "Чирков Евгений Петрович": 2,
-      "Против всех": 13
+      "gas:candidate-vibid:1001000121904": 27,
+      "gas:candidate-vibid:1001000112252": 13,
+      "gas:candidate-vibid:1001000225982": 377,
+      "gas:candidate-vibid:364300170375": 0,
+      "gas:candidate-vibid:1001000121286": 1,
+      "gas:candidate-vibid:1001000113976": 0,
+      "gas:candidate-vibid:1001000195138": 0,
+      "gas:candidate-vibid:1001000136117": 1,
+      "gas:candidate-vibid:364300170488": 2,
+      "special:against-all": 13
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=643001006&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=364300170823&region=0&sub_region=0&type=429",
@@ -9718,16 +9718,16 @@ export const duma_2003_uik_428_region_64_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Алимова Ольга Николаевна": 4,
-      "Большаков Иван Петрович": 2,
-      "Володин Вячеслав Викторович": 283,
-      "Граф Юрий Валентинович": 0,
-      "Караман Наталья Леонидовна": 1,
-      "Смирнов Владимир Сергеевич": 0,
-      "Смирнов Вячеслав Николаевич": 1,
-      "Тагунов Александр Васильевич": 2,
-      "Чирков Евгений Петрович": 0,
-      "Против всех": 4
+      "gas:candidate-vibid:1001000121904": 4,
+      "gas:candidate-vibid:1001000112252": 2,
+      "gas:candidate-vibid:1001000225982": 283,
+      "gas:candidate-vibid:364300170375": 0,
+      "gas:candidate-vibid:1001000121286": 1,
+      "gas:candidate-vibid:1001000113976": 0,
+      "gas:candidate-vibid:1001000195138": 1,
+      "gas:candidate-vibid:1001000136117": 2,
+      "gas:candidate-vibid:364300170488": 0,
+      "special:against-all": 4
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=643001006&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=364300170823&region=0&sub_region=0&type=429",
@@ -9777,16 +9777,16 @@ export const duma_2003_uik_428_region_64_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Алимова Ольга Николаевна": 14,
-      "Большаков Иван Петрович": 2,
-      "Володин Вячеслав Викторович": 273,
-      "Граф Юрий Валентинович": 0,
-      "Караман Наталья Леонидовна": 0,
-      "Смирнов Владимир Сергеевич": 1,
-      "Смирнов Вячеслав Николаевич": 0,
-      "Тагунов Александр Васильевич": 1,
-      "Чирков Евгений Петрович": 0,
-      "Против всех": 7
+      "gas:candidate-vibid:1001000121904": 14,
+      "gas:candidate-vibid:1001000112252": 2,
+      "gas:candidate-vibid:1001000225982": 273,
+      "gas:candidate-vibid:364300170375": 0,
+      "gas:candidate-vibid:1001000121286": 0,
+      "gas:candidate-vibid:1001000113976": 1,
+      "gas:candidate-vibid:1001000195138": 0,
+      "gas:candidate-vibid:1001000136117": 1,
+      "gas:candidate-vibid:364300170488": 0,
+      "special:against-all": 7
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=643001006&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=364300170823&region=0&sub_region=0&type=429",
@@ -9836,16 +9836,16 @@ export const duma_2003_uik_428_region_64_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Алимова Ольга Николаевна": 10,
-      "Большаков Иван Петрович": 3,
-      "Володин Вячеслав Викторович": 251,
-      "Граф Юрий Валентинович": 0,
-      "Караман Наталья Леонидовна": 0,
-      "Смирнов Владимир Сергеевич": 1,
-      "Смирнов Вячеслав Николаевич": 0,
-      "Тагунов Александр Васильевич": 4,
-      "Чирков Евгений Петрович": 0,
-      "Против всех": 7
+      "gas:candidate-vibid:1001000121904": 10,
+      "gas:candidate-vibid:1001000112252": 3,
+      "gas:candidate-vibid:1001000225982": 251,
+      "gas:candidate-vibid:364300170375": 0,
+      "gas:candidate-vibid:1001000121286": 0,
+      "gas:candidate-vibid:1001000113976": 1,
+      "gas:candidate-vibid:1001000195138": 0,
+      "gas:candidate-vibid:1001000136117": 4,
+      "gas:candidate-vibid:364300170488": 0,
+      "special:against-all": 7
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=643001006&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=364300170823&region=0&sub_region=0&type=429",
@@ -9895,16 +9895,16 @@ export const duma_2003_uik_428_region_64_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Алимова Ольга Николаевна": 31,
-      "Большаков Иван Петрович": 0,
-      "Володин Вячеслав Викторович": 372,
-      "Граф Юрий Валентинович": 0,
-      "Караман Наталья Леонидовна": 1,
-      "Смирнов Владимир Сергеевич": 0,
-      "Смирнов Вячеслав Николаевич": 0,
-      "Тагунов Александр Васильевич": 1,
-      "Чирков Евгений Петрович": 0,
-      "Против всех": 5
+      "gas:candidate-vibid:1001000121904": 31,
+      "gas:candidate-vibid:1001000112252": 0,
+      "gas:candidate-vibid:1001000225982": 372,
+      "gas:candidate-vibid:364300170375": 0,
+      "gas:candidate-vibid:1001000121286": 1,
+      "gas:candidate-vibid:1001000113976": 0,
+      "gas:candidate-vibid:1001000195138": 0,
+      "gas:candidate-vibid:1001000136117": 1,
+      "gas:candidate-vibid:364300170488": 0,
+      "special:against-all": 5
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=643001006&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=364300170823&region=0&sub_region=0&type=429",
@@ -9954,16 +9954,16 @@ export const duma_2003_uik_428_region_64_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Алимова Ольга Николаевна": 12,
-      "Большаков Иван Петрович": 7,
-      "Володин Вячеслав Викторович": 325,
-      "Граф Юрий Валентинович": 0,
-      "Караман Наталья Леонидовна": 0,
-      "Смирнов Владимир Сергеевич": 2,
-      "Смирнов Вячеслав Николаевич": 2,
-      "Тагунов Александр Васильевич": 4,
-      "Чирков Евгений Петрович": 0,
-      "Против всех": 8
+      "gas:candidate-vibid:1001000121904": 12,
+      "gas:candidate-vibid:1001000112252": 7,
+      "gas:candidate-vibid:1001000225982": 325,
+      "gas:candidate-vibid:364300170375": 0,
+      "gas:candidate-vibid:1001000121286": 0,
+      "gas:candidate-vibid:1001000113976": 2,
+      "gas:candidate-vibid:1001000195138": 2,
+      "gas:candidate-vibid:1001000136117": 4,
+      "gas:candidate-vibid:364300170488": 0,
+      "special:against-all": 8
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=643001006&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=364300170823&region=0&sub_region=0&type=429",
@@ -10013,16 +10013,16 @@ export const duma_2003_uik_428_region_64_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Алимова Ольга Николаевна": 15,
-      "Большаков Иван Петрович": 5,
-      "Володин Вячеслав Викторович": 171,
-      "Граф Юрий Валентинович": 1,
-      "Караман Наталья Леонидовна": 1,
-      "Смирнов Владимир Сергеевич": 0,
-      "Смирнов Вячеслав Николаевич": 0,
-      "Тагунов Александр Васильевич": 3,
-      "Чирков Евгений Петрович": 2,
-      "Против всех": 2
+      "gas:candidate-vibid:1001000121904": 15,
+      "gas:candidate-vibid:1001000112252": 5,
+      "gas:candidate-vibid:1001000225982": 171,
+      "gas:candidate-vibid:364300170375": 1,
+      "gas:candidate-vibid:1001000121286": 1,
+      "gas:candidate-vibid:1001000113976": 0,
+      "gas:candidate-vibid:1001000195138": 0,
+      "gas:candidate-vibid:1001000136117": 3,
+      "gas:candidate-vibid:364300170488": 2,
+      "special:against-all": 2
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=643001006&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=364300170823&region=0&sub_region=0&type=429",
@@ -10072,16 +10072,16 @@ export const duma_2003_uik_428_region_64_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Алимова Ольга Николаевна": 21,
-      "Большаков Иван Петрович": 6,
-      "Володин Вячеслав Викторович": 455,
-      "Граф Юрий Валентинович": 0,
-      "Караман Наталья Леонидовна": 0,
-      "Смирнов Владимир Сергеевич": 1,
-      "Смирнов Вячеслав Николаевич": 0,
-      "Тагунов Александр Васильевич": 4,
-      "Чирков Евгений Петрович": 1,
-      "Против всех": 17
+      "gas:candidate-vibid:1001000121904": 21,
+      "gas:candidate-vibid:1001000112252": 6,
+      "gas:candidate-vibid:1001000225982": 455,
+      "gas:candidate-vibid:364300170375": 0,
+      "gas:candidate-vibid:1001000121286": 0,
+      "gas:candidate-vibid:1001000113976": 1,
+      "gas:candidate-vibid:1001000195138": 0,
+      "gas:candidate-vibid:1001000136117": 4,
+      "gas:candidate-vibid:364300170488": 1,
+      "special:against-all": 17
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=643001006&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=364300170823&region=0&sub_region=0&type=429",
@@ -10131,16 +10131,16 @@ export const duma_2003_uik_428_region_64_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Алимова Ольга Николаевна": 3,
-      "Большаков Иван Петрович": 0,
-      "Володин Вячеслав Викторович": 152,
-      "Граф Юрий Валентинович": 0,
-      "Караман Наталья Леонидовна": 0,
-      "Смирнов Владимир Сергеевич": 0,
-      "Смирнов Вячеслав Николаевич": 1,
-      "Тагунов Александр Васильевич": 0,
-      "Чирков Евгений Петрович": 0,
-      "Против всех": 3
+      "gas:candidate-vibid:1001000121904": 3,
+      "gas:candidate-vibid:1001000112252": 0,
+      "gas:candidate-vibid:1001000225982": 152,
+      "gas:candidate-vibid:364300170375": 0,
+      "gas:candidate-vibid:1001000121286": 0,
+      "gas:candidate-vibid:1001000113976": 0,
+      "gas:candidate-vibid:1001000195138": 1,
+      "gas:candidate-vibid:1001000136117": 0,
+      "gas:candidate-vibid:364300170488": 0,
+      "special:against-all": 3
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=643001006&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=364300170823&region=0&sub_region=0&type=429",
@@ -10190,16 +10190,16 @@ export const duma_2003_uik_428_region_64_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Алимова Ольга Николаевна": 14,
-      "Большаков Иван Петрович": 2,
-      "Володин Вячеслав Викторович": 266,
-      "Граф Юрий Валентинович": 0,
-      "Караман Наталья Леонидовна": 0,
-      "Смирнов Владимир Сергеевич": 2,
-      "Смирнов Вячеслав Николаевич": 0,
-      "Тагунов Александр Васильевич": 5,
-      "Чирков Евгений Петрович": 0,
-      "Против всех": 11
+      "gas:candidate-vibid:1001000121904": 14,
+      "gas:candidate-vibid:1001000112252": 2,
+      "gas:candidate-vibid:1001000225982": 266,
+      "gas:candidate-vibid:364300170375": 0,
+      "gas:candidate-vibid:1001000121286": 0,
+      "gas:candidate-vibid:1001000113976": 2,
+      "gas:candidate-vibid:1001000195138": 0,
+      "gas:candidate-vibid:1001000136117": 5,
+      "gas:candidate-vibid:364300170488": 0,
+      "special:against-all": 11
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=643001006&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=364300170823&region=0&sub_region=0&type=429",
@@ -10249,16 +10249,16 @@ export const duma_2003_uik_428_region_64_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Алимова Ольга Николаевна": 7,
-      "Большаков Иван Петрович": 0,
-      "Володин Вячеслав Викторович": 283,
-      "Граф Юрий Валентинович": 1,
-      "Караман Наталья Леонидовна": 0,
-      "Смирнов Владимир Сергеевич": 0,
-      "Смирнов Вячеслав Николаевич": 0,
-      "Тагунов Александр Васильевич": 0,
-      "Чирков Евгений Петрович": 0,
-      "Против всех": 8
+      "gas:candidate-vibid:1001000121904": 7,
+      "gas:candidate-vibid:1001000112252": 0,
+      "gas:candidate-vibid:1001000225982": 283,
+      "gas:candidate-vibid:364300170375": 1,
+      "gas:candidate-vibid:1001000121286": 0,
+      "gas:candidate-vibid:1001000113976": 0,
+      "gas:candidate-vibid:1001000195138": 0,
+      "gas:candidate-vibid:1001000136117": 0,
+      "gas:candidate-vibid:364300170488": 0,
+      "special:against-all": 8
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=643001006&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=364300170823&region=0&sub_region=0&type=429",
@@ -10308,16 +10308,16 @@ export const duma_2003_uik_428_region_64_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Алимова Ольга Николаевна": 4,
-      "Большаков Иван Петрович": 0,
-      "Володин Вячеслав Викторович": 89,
-      "Граф Юрий Валентинович": 1,
-      "Караман Наталья Леонидовна": 0,
-      "Смирнов Владимир Сергеевич": 1,
-      "Смирнов Вячеслав Николаевич": 0,
-      "Тагунов Александр Васильевич": 0,
-      "Чирков Евгений Петрович": 0,
-      "Против всех": 2
+      "gas:candidate-vibid:1001000121904": 4,
+      "gas:candidate-vibid:1001000112252": 0,
+      "gas:candidate-vibid:1001000225982": 89,
+      "gas:candidate-vibid:364300170375": 1,
+      "gas:candidate-vibid:1001000121286": 0,
+      "gas:candidate-vibid:1001000113976": 1,
+      "gas:candidate-vibid:1001000195138": 0,
+      "gas:candidate-vibid:1001000136117": 0,
+      "gas:candidate-vibid:364300170488": 0,
+      "special:against-all": 2
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=643001006&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=364300170823&region=0&sub_region=0&type=429",
@@ -10367,16 +10367,16 @@ export const duma_2003_uik_428_region_64_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Алимова Ольга Николаевна": 45,
-      "Большаков Иван Петрович": 5,
-      "Володин Вячеслав Викторович": 340,
-      "Граф Юрий Валентинович": 1,
-      "Караман Наталья Леонидовна": 0,
-      "Смирнов Владимир Сергеевич": 2,
-      "Смирнов Вячеслав Николаевич": 1,
-      "Тагунов Александр Васильевич": 9,
-      "Чирков Евгений Петрович": 3,
-      "Против всех": 10
+      "gas:candidate-vibid:1001000121904": 45,
+      "gas:candidate-vibid:1001000112252": 5,
+      "gas:candidate-vibid:1001000225982": 340,
+      "gas:candidate-vibid:364300170375": 1,
+      "gas:candidate-vibid:1001000121286": 0,
+      "gas:candidate-vibid:1001000113976": 2,
+      "gas:candidate-vibid:1001000195138": 1,
+      "gas:candidate-vibid:1001000136117": 9,
+      "gas:candidate-vibid:364300170488": 3,
+      "special:against-all": 10
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=643001006&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=364300170823&region=0&sub_region=0&type=429",
@@ -10426,16 +10426,16 @@ export const duma_2003_uik_428_region_64_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Алимова Ольга Николаевна": 23,
-      "Большаков Иван Петрович": 1,
-      "Володин Вячеслав Викторович": 490,
-      "Граф Юрий Валентинович": 0,
-      "Караман Наталья Леонидовна": 0,
-      "Смирнов Владимир Сергеевич": 6,
-      "Смирнов Вячеслав Николаевич": 0,
-      "Тагунов Александр Васильевич": 7,
-      "Чирков Евгений Петрович": 1,
-      "Против всех": 16
+      "gas:candidate-vibid:1001000121904": 23,
+      "gas:candidate-vibid:1001000112252": 1,
+      "gas:candidate-vibid:1001000225982": 490,
+      "gas:candidate-vibid:364300170375": 0,
+      "gas:candidate-vibid:1001000121286": 0,
+      "gas:candidate-vibid:1001000113976": 6,
+      "gas:candidate-vibid:1001000195138": 0,
+      "gas:candidate-vibid:1001000136117": 7,
+      "gas:candidate-vibid:364300170488": 1,
+      "special:against-all": 16
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=643001006&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=364300170823&region=0&sub_region=0&type=429",
@@ -10485,16 +10485,16 @@ export const duma_2003_uik_428_region_64_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Алимова Ольга Николаевна": 172,
-      "Большаков Иван Петрович": 6,
-      "Володин Вячеслав Викторович": 794,
-      "Граф Юрий Валентинович": 3,
-      "Караман Наталья Леонидовна": 0,
-      "Смирнов Владимир Сергеевич": 4,
-      "Смирнов Вячеслав Николаевич": 2,
-      "Тагунов Александр Васильевич": 26,
-      "Чирков Евгений Петрович": 0,
-      "Против всех": 36
+      "gas:candidate-vibid:1001000121904": 172,
+      "gas:candidate-vibid:1001000112252": 6,
+      "gas:candidate-vibid:1001000225982": 794,
+      "gas:candidate-vibid:364300170375": 3,
+      "gas:candidate-vibid:1001000121286": 0,
+      "gas:candidate-vibid:1001000113976": 4,
+      "gas:candidate-vibid:1001000195138": 2,
+      "gas:candidate-vibid:1001000136117": 26,
+      "gas:candidate-vibid:364300170488": 0,
+      "special:against-all": 36
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=643001007&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=364300170824&region=0&sub_region=0&type=429",
@@ -10544,16 +10544,16 @@ export const duma_2003_uik_428_region_64_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Алимова Ольга Николаевна": 161,
-      "Большаков Иван Петрович": 4,
-      "Володин Вячеслав Викторович": 939,
-      "Граф Юрий Валентинович": 2,
-      "Караман Наталья Леонидовна": 1,
-      "Смирнов Владимир Сергеевич": 2,
-      "Смирнов Вячеслав Николаевич": 0,
-      "Тагунов Александр Васильевич": 18,
-      "Чирков Евгений Петрович": 5,
-      "Против всех": 45
+      "gas:candidate-vibid:1001000121904": 161,
+      "gas:candidate-vibid:1001000112252": 4,
+      "gas:candidate-vibid:1001000225982": 939,
+      "gas:candidate-vibid:364300170375": 2,
+      "gas:candidate-vibid:1001000121286": 1,
+      "gas:candidate-vibid:1001000113976": 2,
+      "gas:candidate-vibid:1001000195138": 0,
+      "gas:candidate-vibid:1001000136117": 18,
+      "gas:candidate-vibid:364300170488": 5,
+      "special:against-all": 45
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=643001007&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=364300170824&region=0&sub_region=0&type=429",
@@ -10603,16 +10603,16 @@ export const duma_2003_uik_428_region_64_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Алимова Ольга Николаевна": 122,
-      "Большаков Иван Петрович": 4,
-      "Володин Вячеслав Викторович": 416,
-      "Граф Юрий Валентинович": 0,
-      "Караман Наталья Леонидовна": 2,
-      "Смирнов Владимир Сергеевич": 2,
-      "Смирнов Вячеслав Николаевич": 3,
-      "Тагунов Александр Васильевич": 22,
-      "Чирков Евгений Петрович": 0,
-      "Против всех": 15
+      "gas:candidate-vibid:1001000121904": 122,
+      "gas:candidate-vibid:1001000112252": 4,
+      "gas:candidate-vibid:1001000225982": 416,
+      "gas:candidate-vibid:364300170375": 0,
+      "gas:candidate-vibid:1001000121286": 2,
+      "gas:candidate-vibid:1001000113976": 2,
+      "gas:candidate-vibid:1001000195138": 3,
+      "gas:candidate-vibid:1001000136117": 22,
+      "gas:candidate-vibid:364300170488": 0,
+      "special:against-all": 15
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=643001007&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=364300170824&region=0&sub_region=0&type=429",
@@ -10662,16 +10662,16 @@ export const duma_2003_uik_428_region_64_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Алимова Ольга Николаевна": 79,
-      "Большаков Иван Петрович": 4,
-      "Володин Вячеслав Викторович": 467,
-      "Граф Юрий Валентинович": 1,
-      "Караман Наталья Леонидовна": 2,
-      "Смирнов Владимир Сергеевич": 2,
-      "Смирнов Вячеслав Николаевич": 2,
-      "Тагунов Александр Васильевич": 8,
-      "Чирков Евгений Петрович": 0,
-      "Против всех": 0
+      "gas:candidate-vibid:1001000121904": 79,
+      "gas:candidate-vibid:1001000112252": 4,
+      "gas:candidate-vibid:1001000225982": 467,
+      "gas:candidate-vibid:364300170375": 1,
+      "gas:candidate-vibid:1001000121286": 2,
+      "gas:candidate-vibid:1001000113976": 2,
+      "gas:candidate-vibid:1001000195138": 2,
+      "gas:candidate-vibid:1001000136117": 8,
+      "gas:candidate-vibid:364300170488": 0,
+      "special:against-all": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=643001007&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=364300170824&region=0&sub_region=0&type=429",
@@ -10721,16 +10721,16 @@ export const duma_2003_uik_428_region_64_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Алимова Ольга Николаевна": 351,
-      "Большаков Иван Петрович": 9,
-      "Володин Вячеслав Викторович": 1016,
-      "Граф Юрий Валентинович": 1,
-      "Караман Наталья Леонидовна": 5,
-      "Смирнов Владимир Сергеевич": 6,
-      "Смирнов Вячеслав Николаевич": 3,
-      "Тагунов Александр Васильевич": 25,
-      "Чирков Евгений Петрович": 6,
-      "Против всех": 68
+      "gas:candidate-vibid:1001000121904": 351,
+      "gas:candidate-vibid:1001000112252": 9,
+      "gas:candidate-vibid:1001000225982": 1016,
+      "gas:candidate-vibid:364300170375": 1,
+      "gas:candidate-vibid:1001000121286": 5,
+      "gas:candidate-vibid:1001000113976": 6,
+      "gas:candidate-vibid:1001000195138": 3,
+      "gas:candidate-vibid:1001000136117": 25,
+      "gas:candidate-vibid:364300170488": 6,
+      "special:against-all": 68
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=643001007&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=364300170824&region=0&sub_region=0&type=429",
@@ -10780,16 +10780,16 @@ export const duma_2003_uik_428_region_64_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Алимова Ольга Николаевна": 192,
-      "Большаков Иван Петрович": 0,
-      "Володин Вячеслав Викторович": 821,
-      "Граф Юрий Валентинович": 1,
-      "Караман Наталья Леонидовна": 1,
-      "Смирнов Владимир Сергеевич": 3,
-      "Смирнов Вячеслав Николаевич": 0,
-      "Тагунов Александр Васильевич": 21,
-      "Чирков Евгений Петрович": 1,
-      "Против всех": 44
+      "gas:candidate-vibid:1001000121904": 192,
+      "gas:candidate-vibid:1001000112252": 0,
+      "gas:candidate-vibid:1001000225982": 821,
+      "gas:candidate-vibid:364300170375": 1,
+      "gas:candidate-vibid:1001000121286": 1,
+      "gas:candidate-vibid:1001000113976": 3,
+      "gas:candidate-vibid:1001000195138": 0,
+      "gas:candidate-vibid:1001000136117": 21,
+      "gas:candidate-vibid:364300170488": 1,
+      "special:against-all": 44
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=643001007&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=364300170824&region=0&sub_region=0&type=429",
@@ -10839,16 +10839,16 @@ export const duma_2003_uik_428_region_64_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Алимова Ольга Николаевна": 213,
-      "Большаков Иван Петрович": 6,
-      "Володин Вячеслав Викторович": 849,
-      "Граф Юрий Валентинович": 2,
-      "Караман Наталья Леонидовна": 1,
-      "Смирнов Владимир Сергеевич": 1,
-      "Смирнов Вячеслав Николаевич": 1,
-      "Тагунов Александр Васильевич": 18,
-      "Чирков Евгений Петрович": 2,
-      "Против всех": 37
+      "gas:candidate-vibid:1001000121904": 213,
+      "gas:candidate-vibid:1001000112252": 6,
+      "gas:candidate-vibid:1001000225982": 849,
+      "gas:candidate-vibid:364300170375": 2,
+      "gas:candidate-vibid:1001000121286": 1,
+      "gas:candidate-vibid:1001000113976": 1,
+      "gas:candidate-vibid:1001000195138": 1,
+      "gas:candidate-vibid:1001000136117": 18,
+      "gas:candidate-vibid:364300170488": 2,
+      "special:against-all": 37
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=643001007&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=364300170824&region=0&sub_region=0&type=429",
@@ -10898,16 +10898,16 @@ export const duma_2003_uik_428_region_64_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Алимова Ольга Николаевна": 283,
-      "Большаков Иван Петрович": 17,
-      "Володин Вячеслав Викторович": 1129,
-      "Граф Юрий Валентинович": 2,
-      "Караман Наталья Леонидовна": 3,
-      "Смирнов Владимир Сергеевич": 3,
-      "Смирнов Вячеслав Николаевич": 2,
-      "Тагунов Александр Васильевич": 34,
-      "Чирков Евгений Петрович": 1,
-      "Против всех": 60
+      "gas:candidate-vibid:1001000121904": 283,
+      "gas:candidate-vibid:1001000112252": 17,
+      "gas:candidate-vibid:1001000225982": 1129,
+      "gas:candidate-vibid:364300170375": 2,
+      "gas:candidate-vibid:1001000121286": 3,
+      "gas:candidate-vibid:1001000113976": 3,
+      "gas:candidate-vibid:1001000195138": 2,
+      "gas:candidate-vibid:1001000136117": 34,
+      "gas:candidate-vibid:364300170488": 1,
+      "special:against-all": 60
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=643001007&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=364300170824&region=0&sub_region=0&type=429",
@@ -10957,16 +10957,16 @@ export const duma_2003_uik_428_region_64_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Алимова Ольга Николаевна": 211,
-      "Большаков Иван Петрович": 7,
-      "Володин Вячеслав Викторович": 897,
-      "Граф Юрий Валентинович": 0,
-      "Караман Наталья Леонидовна": 3,
-      "Смирнов Владимир Сергеевич": 5,
-      "Смирнов Вячеслав Николаевич": 5,
-      "Тагунов Александр Васильевич": 21,
-      "Чирков Евгений Петрович": 1,
-      "Против всех": 54
+      "gas:candidate-vibid:1001000121904": 211,
+      "gas:candidate-vibid:1001000112252": 7,
+      "gas:candidate-vibid:1001000225982": 897,
+      "gas:candidate-vibid:364300170375": 0,
+      "gas:candidate-vibid:1001000121286": 3,
+      "gas:candidate-vibid:1001000113976": 5,
+      "gas:candidate-vibid:1001000195138": 5,
+      "gas:candidate-vibid:1001000136117": 21,
+      "gas:candidate-vibid:364300170488": 1,
+      "special:against-all": 54
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=643001007&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=364300170824&region=0&sub_region=0&type=429",
@@ -11016,16 +11016,16 @@ export const duma_2003_uik_428_region_64_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Алимова Ольга Николаевна": 29,
-      "Большаков Иван Петрович": 1,
-      "Володин Вячеслав Викторович": 264,
-      "Граф Юрий Валентинович": 3,
-      "Караман Наталья Леонидовна": 0,
-      "Смирнов Владимир Сергеевич": 1,
-      "Смирнов Вячеслав Николаевич": 1,
-      "Тагунов Александр Васильевич": 4,
-      "Чирков Евгений Петрович": 1,
-      "Против всех": 26
+      "gas:candidate-vibid:1001000121904": 29,
+      "gas:candidate-vibid:1001000112252": 1,
+      "gas:candidate-vibid:1001000225982": 264,
+      "gas:candidate-vibid:364300170375": 3,
+      "gas:candidate-vibid:1001000121286": 0,
+      "gas:candidate-vibid:1001000113976": 1,
+      "gas:candidate-vibid:1001000195138": 1,
+      "gas:candidate-vibid:1001000136117": 4,
+      "gas:candidate-vibid:364300170488": 1,
+      "special:against-all": 26
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=643001007&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=364300170824&region=0&sub_region=0&type=429",
@@ -11075,16 +11075,16 @@ export const duma_2003_uik_428_region_64_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Алимова Ольга Николаевна": 143,
-      "Большаков Иван Петрович": 3,
-      "Володин Вячеслав Викторович": 401,
-      "Граф Юрий Валентинович": 1,
-      "Караман Наталья Леонидовна": 0,
-      "Смирнов Владимир Сергеевич": 2,
-      "Смирнов Вячеслав Николаевич": 0,
-      "Тагунов Александр Васильевич": 3,
-      "Чирков Евгений Петрович": 0,
-      "Против всех": 8
+      "gas:candidate-vibid:1001000121904": 143,
+      "gas:candidate-vibid:1001000112252": 3,
+      "gas:candidate-vibid:1001000225982": 401,
+      "gas:candidate-vibid:364300170375": 1,
+      "gas:candidate-vibid:1001000121286": 0,
+      "gas:candidate-vibid:1001000113976": 2,
+      "gas:candidate-vibid:1001000195138": 0,
+      "gas:candidate-vibid:1001000136117": 3,
+      "gas:candidate-vibid:364300170488": 0,
+      "special:against-all": 8
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=643001007&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=364300170824&region=0&sub_region=0&type=429",
@@ -11134,16 +11134,16 @@ export const duma_2003_uik_428_region_64_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Алимова Ольга Николаевна": 19,
-      "Большаков Иван Петрович": 4,
-      "Володин Вячеслав Викторович": 181,
-      "Граф Юрий Валентинович": 0,
-      "Караман Наталья Леонидовна": 1,
-      "Смирнов Владимир Сергеевич": 0,
-      "Смирнов Вячеслав Николаевич": 0,
-      "Тагунов Александр Васильевич": 3,
-      "Чирков Евгений Петрович": 1,
-      "Против всех": 17
+      "gas:candidate-vibid:1001000121904": 19,
+      "gas:candidate-vibid:1001000112252": 4,
+      "gas:candidate-vibid:1001000225982": 181,
+      "gas:candidate-vibid:364300170375": 0,
+      "gas:candidate-vibid:1001000121286": 1,
+      "gas:candidate-vibid:1001000113976": 0,
+      "gas:candidate-vibid:1001000195138": 0,
+      "gas:candidate-vibid:1001000136117": 3,
+      "gas:candidate-vibid:364300170488": 1,
+      "special:against-all": 17
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=643001007&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=364300170824&region=0&sub_region=0&type=429",
@@ -11193,16 +11193,16 @@ export const duma_2003_uik_428_region_64_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Алимова Ольга Николаевна": 30,
-      "Большаков Иван Петрович": 1,
-      "Володин Вячеслав Викторович": 179,
-      "Граф Юрий Валентинович": 0,
-      "Караман Наталья Леонидовна": 0,
-      "Смирнов Владимир Сергеевич": 0,
-      "Смирнов Вячеслав Николаевич": 1,
-      "Тагунов Александр Васильевич": 1,
-      "Чирков Евгений Петрович": 0,
-      "Против всех": 2
+      "gas:candidate-vibid:1001000121904": 30,
+      "gas:candidate-vibid:1001000112252": 1,
+      "gas:candidate-vibid:1001000225982": 179,
+      "gas:candidate-vibid:364300170375": 0,
+      "gas:candidate-vibid:1001000121286": 0,
+      "gas:candidate-vibid:1001000113976": 0,
+      "gas:candidate-vibid:1001000195138": 1,
+      "gas:candidate-vibid:1001000136117": 1,
+      "gas:candidate-vibid:364300170488": 0,
+      "special:against-all": 2
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=643001007&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=364300170824&region=0&sub_region=0&type=429",
@@ -11252,16 +11252,16 @@ export const duma_2003_uik_428_region_64_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Алимова Ольга Николаевна": 26,
-      "Большаков Иван Петрович": 2,
-      "Володин Вячеслав Викторович": 170,
-      "Граф Юрий Валентинович": 1,
-      "Караман Наталья Леонидовна": 1,
-      "Смирнов Владимир Сергеевич": 0,
-      "Смирнов Вячеслав Николаевич": 1,
-      "Тагунов Александр Васильевич": 5,
-      "Чирков Евгений Петрович": 1,
-      "Против всех": 3
+      "gas:candidate-vibid:1001000121904": 26,
+      "gas:candidate-vibid:1001000112252": 2,
+      "gas:candidate-vibid:1001000225982": 170,
+      "gas:candidate-vibid:364300170375": 1,
+      "gas:candidate-vibid:1001000121286": 1,
+      "gas:candidate-vibid:1001000113976": 0,
+      "gas:candidate-vibid:1001000195138": 1,
+      "gas:candidate-vibid:1001000136117": 5,
+      "gas:candidate-vibid:364300170488": 1,
+      "special:against-all": 3
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=643001007&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=364300170824&region=0&sub_region=0&type=429",
@@ -11311,16 +11311,16 @@ export const duma_2003_uik_428_region_64_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Алимова Ольга Николаевна": 164,
-      "Большаков Иван Петрович": 6,
-      "Володин Вячеслав Викторович": 559,
-      "Граф Юрий Валентинович": 0,
-      "Караман Наталья Леонидовна": 0,
-      "Смирнов Владимир Сергеевич": 2,
-      "Смирнов Вячеслав Николаевич": 0,
-      "Тагунов Александр Васильевич": 8,
-      "Чирков Евгений Петрович": 1,
-      "Против всех": 33
+      "gas:candidate-vibid:1001000121904": 164,
+      "gas:candidate-vibid:1001000112252": 6,
+      "gas:candidate-vibid:1001000225982": 559,
+      "gas:candidate-vibid:364300170375": 0,
+      "gas:candidate-vibid:1001000121286": 0,
+      "gas:candidate-vibid:1001000113976": 2,
+      "gas:candidate-vibid:1001000195138": 0,
+      "gas:candidate-vibid:1001000136117": 8,
+      "gas:candidate-vibid:364300170488": 1,
+      "special:against-all": 33
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=643001007&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=364300170824&region=0&sub_region=0&type=429",
@@ -11370,16 +11370,16 @@ export const duma_2003_uik_428_region_64_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Алимова Ольга Николаевна": 46,
-      "Большаков Иван Петрович": 1,
-      "Володин Вячеслав Викторович": 180,
-      "Граф Юрий Валентинович": 0,
-      "Караман Наталья Леонидовна": 2,
-      "Смирнов Владимир Сергеевич": 0,
-      "Смирнов Вячеслав Николаевич": 0,
-      "Тагунов Александр Васильевич": 3,
-      "Чирков Евгений Петрович": 0,
-      "Против всех": 12
+      "gas:candidate-vibid:1001000121904": 46,
+      "gas:candidate-vibid:1001000112252": 1,
+      "gas:candidate-vibid:1001000225982": 180,
+      "gas:candidate-vibid:364300170375": 0,
+      "gas:candidate-vibid:1001000121286": 2,
+      "gas:candidate-vibid:1001000113976": 0,
+      "gas:candidate-vibid:1001000195138": 0,
+      "gas:candidate-vibid:1001000136117": 3,
+      "gas:candidate-vibid:364300170488": 0,
+      "special:against-all": 12
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=643001007&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=364300170824&region=0&sub_region=0&type=429",
@@ -11429,16 +11429,16 @@ export const duma_2003_uik_428_region_64_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Алимова Ольга Николаевна": 41,
-      "Большаков Иван Петрович": 2,
-      "Володин Вячеслав Викторович": 406,
-      "Граф Юрий Валентинович": 1,
-      "Караман Наталья Леонидовна": 0,
-      "Смирнов Владимир Сергеевич": 0,
-      "Смирнов Вячеслав Николаевич": 0,
-      "Тагунов Александр Васильевич": 1,
-      "Чирков Евгений Петрович": 0,
-      "Против всех": 16
+      "gas:candidate-vibid:1001000121904": 41,
+      "gas:candidate-vibid:1001000112252": 2,
+      "gas:candidate-vibid:1001000225982": 406,
+      "gas:candidate-vibid:364300170375": 1,
+      "gas:candidate-vibid:1001000121286": 0,
+      "gas:candidate-vibid:1001000113976": 0,
+      "gas:candidate-vibid:1001000195138": 0,
+      "gas:candidate-vibid:1001000136117": 1,
+      "gas:candidate-vibid:364300170488": 0,
+      "special:against-all": 16
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=643001007&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=364300170824&region=0&sub_region=0&type=429",
@@ -11488,16 +11488,16 @@ export const duma_2003_uik_428_region_64_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Алимова Ольга Николаевна": 34,
-      "Большаков Иван Петрович": 0,
-      "Володин Вячеслав Викторович": 468,
-      "Граф Юрий Валентинович": 0,
-      "Караман Наталья Леонидовна": 0,
-      "Смирнов Владимир Сергеевич": 0,
-      "Смирнов Вячеслав Николаевич": 0,
-      "Тагунов Александр Васильевич": 0,
-      "Чирков Евгений Петрович": 0,
-      "Против всех": 0
+      "gas:candidate-vibid:1001000121904": 34,
+      "gas:candidate-vibid:1001000112252": 0,
+      "gas:candidate-vibid:1001000225982": 468,
+      "gas:candidate-vibid:364300170375": 0,
+      "gas:candidate-vibid:1001000121286": 0,
+      "gas:candidate-vibid:1001000113976": 0,
+      "gas:candidate-vibid:1001000195138": 0,
+      "gas:candidate-vibid:1001000136117": 0,
+      "gas:candidate-vibid:364300170488": 0,
+      "special:against-all": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=643001007&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=364300170824&region=0&sub_region=0&type=429",
@@ -11547,16 +11547,16 @@ export const duma_2003_uik_428_region_64_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Алимова Ольга Николаевна": 10,
-      "Большаков Иван Петрович": 0,
-      "Володин Вячеслав Викторович": 100,
-      "Граф Юрий Валентинович": 0,
-      "Караман Наталья Леонидовна": 0,
-      "Смирнов Владимир Сергеевич": 0,
-      "Смирнов Вячеслав Николаевич": 0,
-      "Тагунов Александр Васильевич": 0,
-      "Чирков Евгений Петрович": 0,
-      "Против всех": 0
+      "gas:candidate-vibid:1001000121904": 10,
+      "gas:candidate-vibid:1001000112252": 0,
+      "gas:candidate-vibid:1001000225982": 100,
+      "gas:candidate-vibid:364300170375": 0,
+      "gas:candidate-vibid:1001000121286": 0,
+      "gas:candidate-vibid:1001000113976": 0,
+      "gas:candidate-vibid:1001000195138": 0,
+      "gas:candidate-vibid:1001000136117": 0,
+      "gas:candidate-vibid:364300170488": 0,
+      "special:against-all": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=643001007&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=364300170824&region=0&sub_region=0&type=429",
@@ -11606,16 +11606,16 @@ export const duma_2003_uik_428_region_64_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Алимова Ольга Николаевна": 61,
-      "Большаков Иван Петрович": 5,
-      "Володин Вячеслав Викторович": 533,
-      "Граф Юрий Валентинович": 1,
-      "Караман Наталья Леонидовна": 1,
-      "Смирнов Владимир Сергеевич": 1,
-      "Смирнов Вячеслав Николаевич": 1,
-      "Тагунов Александр Васильевич": 7,
-      "Чирков Евгений Петрович": 1,
-      "Против всех": 15
+      "gas:candidate-vibid:1001000121904": 61,
+      "gas:candidate-vibid:1001000112252": 5,
+      "gas:candidate-vibid:1001000225982": 533,
+      "gas:candidate-vibid:364300170375": 1,
+      "gas:candidate-vibid:1001000121286": 1,
+      "gas:candidate-vibid:1001000113976": 1,
+      "gas:candidate-vibid:1001000195138": 1,
+      "gas:candidate-vibid:1001000136117": 7,
+      "gas:candidate-vibid:364300170488": 1,
+      "special:against-all": 15
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=643001007&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=364300170824&region=0&sub_region=0&type=429",
@@ -11665,16 +11665,16 @@ export const duma_2003_uik_428_region_64_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Алимова Ольга Николаевна": 46,
-      "Большаков Иван Петрович": 0,
-      "Володин Вячеслав Викторович": 161,
-      "Граф Юрий Валентинович": 0,
-      "Караман Наталья Леонидовна": 0,
-      "Смирнов Владимир Сергеевич": 1,
-      "Смирнов Вячеслав Николаевич": 0,
-      "Тагунов Александр Васильевич": 1,
-      "Чирков Евгений Петрович": 0,
-      "Против всех": 6
+      "gas:candidate-vibid:1001000121904": 46,
+      "gas:candidate-vibid:1001000112252": 0,
+      "gas:candidate-vibid:1001000225982": 161,
+      "gas:candidate-vibid:364300170375": 0,
+      "gas:candidate-vibid:1001000121286": 0,
+      "gas:candidate-vibid:1001000113976": 1,
+      "gas:candidate-vibid:1001000195138": 0,
+      "gas:candidate-vibid:1001000136117": 1,
+      "gas:candidate-vibid:364300170488": 0,
+      "special:against-all": 6
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=643001007&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=364300170824&region=0&sub_region=0&type=429",
@@ -11724,16 +11724,16 @@ export const duma_2003_uik_428_region_64_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Алимова Ольга Николаевна": 23,
-      "Большаков Иван Петрович": 0,
-      "Володин Вячеслав Викторович": 133,
-      "Граф Юрий Валентинович": 0,
-      "Караман Наталья Леонидовна": 0,
-      "Смирнов Владимир Сергеевич": 0,
-      "Смирнов Вячеслав Николаевич": 0,
-      "Тагунов Александр Васильевич": 0,
-      "Чирков Евгений Петрович": 1,
-      "Против всех": 1
+      "gas:candidate-vibid:1001000121904": 23,
+      "gas:candidate-vibid:1001000112252": 0,
+      "gas:candidate-vibid:1001000225982": 133,
+      "gas:candidate-vibid:364300170375": 0,
+      "gas:candidate-vibid:1001000121286": 0,
+      "gas:candidate-vibid:1001000113976": 0,
+      "gas:candidate-vibid:1001000195138": 0,
+      "gas:candidate-vibid:1001000136117": 0,
+      "gas:candidate-vibid:364300170488": 1,
+      "special:against-all": 1
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=643001007&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=364300170824&region=0&sub_region=0&type=429",
@@ -11783,16 +11783,16 @@ export const duma_2003_uik_428_region_64_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Алимова Ольга Николаевна": 32,
-      "Большаков Иван Петрович": 0,
-      "Володин Вячеслав Викторович": 222,
-      "Граф Юрий Валентинович": 0,
-      "Караман Наталья Леонидовна": 0,
-      "Смирнов Владимир Сергеевич": 0,
-      "Смирнов Вячеслав Николаевич": 0,
-      "Тагунов Александр Васильевич": 0,
-      "Чирков Евгений Петрович": 0,
-      "Против всех": 0
+      "gas:candidate-vibid:1001000121904": 32,
+      "gas:candidate-vibid:1001000112252": 0,
+      "gas:candidate-vibid:1001000225982": 222,
+      "gas:candidate-vibid:364300170375": 0,
+      "gas:candidate-vibid:1001000121286": 0,
+      "gas:candidate-vibid:1001000113976": 0,
+      "gas:candidate-vibid:1001000195138": 0,
+      "gas:candidate-vibid:1001000136117": 0,
+      "gas:candidate-vibid:364300170488": 0,
+      "special:against-all": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=643001007&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=364300170824&region=0&sub_region=0&type=429",
@@ -11842,16 +11842,16 @@ export const duma_2003_uik_428_region_64_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Алимова Ольга Николаевна": 65,
-      "Большаков Иван Петрович": 1,
-      "Володин Вячеслав Викторович": 264,
-      "Граф Юрий Валентинович": 2,
-      "Караман Наталья Леонидовна": 1,
-      "Смирнов Владимир Сергеевич": 1,
-      "Смирнов Вячеслав Николаевич": 0,
-      "Тагунов Александр Васильевич": 0,
-      "Чирков Евгений Петрович": 0,
-      "Против всех": 3
+      "gas:candidate-vibid:1001000121904": 65,
+      "gas:candidate-vibid:1001000112252": 1,
+      "gas:candidate-vibid:1001000225982": 264,
+      "gas:candidate-vibid:364300170375": 2,
+      "gas:candidate-vibid:1001000121286": 1,
+      "gas:candidate-vibid:1001000113976": 1,
+      "gas:candidate-vibid:1001000195138": 0,
+      "gas:candidate-vibid:1001000136117": 0,
+      "gas:candidate-vibid:364300170488": 0,
+      "special:against-all": 3
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=643001007&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=364300170824&region=0&sub_region=0&type=429",
@@ -11901,16 +11901,16 @@ export const duma_2003_uik_428_region_64_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Алимова Ольга Николаевна": 26,
-      "Большаков Иван Петрович": 0,
-      "Володин Вячеслав Викторович": 192,
-      "Граф Юрий Валентинович": 0,
-      "Караман Наталья Леонидовна": 0,
-      "Смирнов Владимир Сергеевич": 0,
-      "Смирнов Вячеслав Николаевич": 2,
-      "Тагунов Александр Васильевич": 0,
-      "Чирков Евгений Петрович": 0,
-      "Против всех": 0
+      "gas:candidate-vibid:1001000121904": 26,
+      "gas:candidate-vibid:1001000112252": 0,
+      "gas:candidate-vibid:1001000225982": 192,
+      "gas:candidate-vibid:364300170375": 0,
+      "gas:candidate-vibid:1001000121286": 0,
+      "gas:candidate-vibid:1001000113976": 0,
+      "gas:candidate-vibid:1001000195138": 2,
+      "gas:candidate-vibid:1001000136117": 0,
+      "gas:candidate-vibid:364300170488": 0,
+      "special:against-all": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=643001007&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=364300170824&region=0&sub_region=0&type=429",
@@ -11960,16 +11960,16 @@ export const duma_2003_uik_428_region_64_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Алимова Ольга Николаевна": 1,
-      "Большаков Иван Петрович": 1,
-      "Володин Вячеслав Викторович": 47,
-      "Граф Юрий Валентинович": 2,
-      "Караман Наталья Леонидовна": 1,
-      "Смирнов Владимир Сергеевич": 0,
-      "Смирнов Вячеслав Николаевич": 0,
-      "Тагунов Александр Васильевич": 0,
-      "Чирков Евгений Петрович": 0,
-      "Против всех": 0
+      "gas:candidate-vibid:1001000121904": 1,
+      "gas:candidate-vibid:1001000112252": 1,
+      "gas:candidate-vibid:1001000225982": 47,
+      "gas:candidate-vibid:364300170375": 2,
+      "gas:candidate-vibid:1001000121286": 1,
+      "gas:candidate-vibid:1001000113976": 0,
+      "gas:candidate-vibid:1001000195138": 0,
+      "gas:candidate-vibid:1001000136117": 0,
+      "gas:candidate-vibid:364300170488": 0,
+      "special:against-all": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=643001007&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=364300170824&region=0&sub_region=0&type=429",
@@ -12019,16 +12019,16 @@ export const duma_2003_uik_428_region_64_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Алимова Ольга Николаевна": 5,
-      "Большаков Иван Петрович": 0,
-      "Володин Вячеслав Викторович": 538,
-      "Граф Юрий Валентинович": 0,
-      "Караман Наталья Леонидовна": 0,
-      "Смирнов Владимир Сергеевич": 0,
-      "Смирнов Вячеслав Николаевич": 0,
-      "Тагунов Александр Васильевич": 0,
-      "Чирков Евгений Петрович": 0,
-      "Против всех": 0
+      "gas:candidate-vibid:1001000121904": 5,
+      "gas:candidate-vibid:1001000112252": 0,
+      "gas:candidate-vibid:1001000225982": 538,
+      "gas:candidate-vibid:364300170375": 0,
+      "gas:candidate-vibid:1001000121286": 0,
+      "gas:candidate-vibid:1001000113976": 0,
+      "gas:candidate-vibid:1001000195138": 0,
+      "gas:candidate-vibid:1001000136117": 0,
+      "gas:candidate-vibid:364300170488": 0,
+      "special:against-all": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=643001007&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=364300170824&region=0&sub_region=0&type=429",
@@ -12078,16 +12078,16 @@ export const duma_2003_uik_428_region_64_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Алимова Ольга Николаевна": 52,
-      "Большаков Иван Петрович": 0,
-      "Володин Вячеслав Викторович": 460,
-      "Граф Юрий Валентинович": 0,
-      "Караман Наталья Леонидовна": 0,
-      "Смирнов Владимир Сергеевич": 0,
-      "Смирнов Вячеслав Николаевич": 0,
-      "Тагунов Александр Васильевич": 0,
-      "Чирков Евгений Петрович": 0,
-      "Против всех": 0
+      "gas:candidate-vibid:1001000121904": 52,
+      "gas:candidate-vibid:1001000112252": 0,
+      "gas:candidate-vibid:1001000225982": 460,
+      "gas:candidate-vibid:364300170375": 0,
+      "gas:candidate-vibid:1001000121286": 0,
+      "gas:candidate-vibid:1001000113976": 0,
+      "gas:candidate-vibid:1001000195138": 0,
+      "gas:candidate-vibid:1001000136117": 0,
+      "gas:candidate-vibid:364300170488": 0,
+      "special:against-all": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=643001007&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=364300170824&region=0&sub_region=0&type=429",
@@ -12137,16 +12137,16 @@ export const duma_2003_uik_428_region_64_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Алимова Ольга Николаевна": 11,
-      "Большаков Иван Петрович": 0,
-      "Володин Вячеслав Викторович": 82,
-      "Граф Юрий Валентинович": 0,
-      "Караман Наталья Леонидовна": 0,
-      "Смирнов Владимир Сергеевич": 0,
-      "Смирнов Вячеслав Николаевич": 0,
-      "Тагунов Александр Васильевич": 4,
-      "Чирков Евгений Петрович": 1,
-      "Против всех": 1
+      "gas:candidate-vibid:1001000121904": 11,
+      "gas:candidate-vibid:1001000112252": 0,
+      "gas:candidate-vibid:1001000225982": 82,
+      "gas:candidate-vibid:364300170375": 0,
+      "gas:candidate-vibid:1001000121286": 0,
+      "gas:candidate-vibid:1001000113976": 0,
+      "gas:candidate-vibid:1001000195138": 0,
+      "gas:candidate-vibid:1001000136117": 4,
+      "gas:candidate-vibid:364300170488": 1,
+      "special:against-all": 1
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=643001007&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=364300170824&region=0&sub_region=0&type=429",
@@ -12196,16 +12196,16 @@ export const duma_2003_uik_428_region_64_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Алимова Ольга Николаевна": 101,
-      "Большаков Иван Петрович": 3,
-      "Володин Вячеслав Викторович": 493,
-      "Граф Юрий Валентинович": 2,
-      "Караман Наталья Леонидовна": 2,
-      "Смирнов Владимир Сергеевич": 4,
-      "Смирнов Вячеслав Николаевич": 2,
-      "Тагунов Александр Васильевич": 8,
-      "Чирков Евгений Петрович": 2,
-      "Против всех": 14
+      "gas:candidate-vibid:1001000121904": 101,
+      "gas:candidate-vibid:1001000112252": 3,
+      "gas:candidate-vibid:1001000225982": 493,
+      "gas:candidate-vibid:364300170375": 2,
+      "gas:candidate-vibid:1001000121286": 2,
+      "gas:candidate-vibid:1001000113976": 4,
+      "gas:candidate-vibid:1001000195138": 2,
+      "gas:candidate-vibid:1001000136117": 8,
+      "gas:candidate-vibid:364300170488": 2,
+      "special:against-all": 14
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=643001007&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=364300170824&region=0&sub_region=0&type=429",
@@ -12255,16 +12255,16 @@ export const duma_2003_uik_428_region_64_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Алимова Ольга Николаевна": 64,
-      "Большаков Иван Петрович": 0,
-      "Володин Вячеслав Викторович": 123,
-      "Граф Юрий Валентинович": 0,
-      "Караман Наталья Леонидовна": 0,
-      "Смирнов Владимир Сергеевич": 0,
-      "Смирнов Вячеслав Николаевич": 0,
-      "Тагунов Александр Васильевич": 1,
-      "Чирков Евгений Петрович": 0,
-      "Против всех": 12
+      "gas:candidate-vibid:1001000121904": 64,
+      "gas:candidate-vibid:1001000112252": 0,
+      "gas:candidate-vibid:1001000225982": 123,
+      "gas:candidate-vibid:364300170375": 0,
+      "gas:candidate-vibid:1001000121286": 0,
+      "gas:candidate-vibid:1001000113976": 0,
+      "gas:candidate-vibid:1001000195138": 0,
+      "gas:candidate-vibid:1001000136117": 1,
+      "gas:candidate-vibid:364300170488": 0,
+      "special:against-all": 12
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=643001007&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=364300170824&region=0&sub_region=0&type=429",
@@ -12314,16 +12314,16 @@ export const duma_2003_uik_428_region_64_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Алимова Ольга Николаевна": 16,
-      "Большаков Иван Петрович": 0,
-      "Володин Вячеслав Викторович": 90,
-      "Граф Юрий Валентинович": 0,
-      "Караман Наталья Леонидовна": 0,
-      "Смирнов Владимир Сергеевич": 0,
-      "Смирнов Вячеслав Николаевич": 0,
-      "Тагунов Александр Васильевич": 1,
-      "Чирков Евгений Петрович": 0,
-      "Против всех": 2
+      "gas:candidate-vibid:1001000121904": 16,
+      "gas:candidate-vibid:1001000112252": 0,
+      "gas:candidate-vibid:1001000225982": 90,
+      "gas:candidate-vibid:364300170375": 0,
+      "gas:candidate-vibid:1001000121286": 0,
+      "gas:candidate-vibid:1001000113976": 0,
+      "gas:candidate-vibid:1001000195138": 0,
+      "gas:candidate-vibid:1001000136117": 1,
+      "gas:candidate-vibid:364300170488": 0,
+      "special:against-all": 2
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=643001007&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=364300170824&region=0&sub_region=0&type=429",
@@ -12373,16 +12373,16 @@ export const duma_2003_uik_428_region_64_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Алимова Ольга Николаевна": 13,
-      "Большаков Иван Петрович": 0,
-      "Володин Вячеслав Викторович": 87,
-      "Граф Юрий Валентинович": 0,
-      "Караман Наталья Леонидовна": 0,
-      "Смирнов Владимир Сергеевич": 0,
-      "Смирнов Вячеслав Николаевич": 2,
-      "Тагунов Александр Васильевич": 1,
-      "Чирков Евгений Петрович": 0,
-      "Против всех": 2
+      "gas:candidate-vibid:1001000121904": 13,
+      "gas:candidate-vibid:1001000112252": 0,
+      "gas:candidate-vibid:1001000225982": 87,
+      "gas:candidate-vibid:364300170375": 0,
+      "gas:candidate-vibid:1001000121286": 0,
+      "gas:candidate-vibid:1001000113976": 0,
+      "gas:candidate-vibid:1001000195138": 2,
+      "gas:candidate-vibid:1001000136117": 1,
+      "gas:candidate-vibid:364300170488": 0,
+      "special:against-all": 2
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=643001007&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=364300170824&region=0&sub_region=0&type=429",
@@ -12432,16 +12432,16 @@ export const duma_2003_uik_428_region_64_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Алимова Ольга Николаевна": 20,
-      "Большаков Иван Петрович": 0,
-      "Володин Вячеслав Викторович": 305,
-      "Граф Юрий Валентинович": 0,
-      "Караман Наталья Леонидовна": 0,
-      "Смирнов Владимир Сергеевич": 0,
-      "Смирнов Вячеслав Николаевич": 0,
-      "Тагунов Александр Васильевич": 0,
-      "Чирков Евгений Петрович": 0,
-      "Против всех": 6
+      "gas:candidate-vibid:1001000121904": 20,
+      "gas:candidate-vibid:1001000112252": 0,
+      "gas:candidate-vibid:1001000225982": 305,
+      "gas:candidate-vibid:364300170375": 0,
+      "gas:candidate-vibid:1001000121286": 0,
+      "gas:candidate-vibid:1001000113976": 0,
+      "gas:candidate-vibid:1001000195138": 0,
+      "gas:candidate-vibid:1001000136117": 0,
+      "gas:candidate-vibid:364300170488": 0,
+      "special:against-all": 6
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=643001007&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=364300170824&region=0&sub_region=0&type=429",
@@ -12491,16 +12491,16 @@ export const duma_2003_uik_428_region_64_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Алимова Ольга Николаевна": 13,
-      "Большаков Иван Петрович": 0,
-      "Володин Вячеслав Викторович": 312,
-      "Граф Юрий Валентинович": 0,
-      "Караман Наталья Леонидовна": 0,
-      "Смирнов Владимир Сергеевич": 0,
-      "Смирнов Вячеслав Николаевич": 2,
-      "Тагунов Александр Васильевич": 2,
-      "Чирков Евгений Петрович": 0,
-      "Против всех": 1
+      "gas:candidate-vibid:1001000121904": 13,
+      "gas:candidate-vibid:1001000112252": 0,
+      "gas:candidate-vibid:1001000225982": 312,
+      "gas:candidate-vibid:364300170375": 0,
+      "gas:candidate-vibid:1001000121286": 0,
+      "gas:candidate-vibid:1001000113976": 0,
+      "gas:candidate-vibid:1001000195138": 2,
+      "gas:candidate-vibid:1001000136117": 2,
+      "gas:candidate-vibid:364300170488": 0,
+      "special:against-all": 1
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=643001007&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=364300170824&region=0&sub_region=0&type=429",
@@ -12550,16 +12550,16 @@ export const duma_2003_uik_428_region_64_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Алимова Ольга Николаевна": 11,
-      "Большаков Иван Петрович": 1,
-      "Володин Вячеслав Викторович": 291,
-      "Граф Юрий Валентинович": 0,
-      "Караман Наталья Леонидовна": 0,
-      "Смирнов Владимир Сергеевич": 0,
-      "Смирнов Вячеслав Николаевич": 1,
-      "Тагунов Александр Васильевич": 0,
-      "Чирков Евгений Петрович": 0,
-      "Против всех": 1
+      "gas:candidate-vibid:1001000121904": 11,
+      "gas:candidate-vibid:1001000112252": 1,
+      "gas:candidate-vibid:1001000225982": 291,
+      "gas:candidate-vibid:364300170375": 0,
+      "gas:candidate-vibid:1001000121286": 0,
+      "gas:candidate-vibid:1001000113976": 0,
+      "gas:candidate-vibid:1001000195138": 1,
+      "gas:candidate-vibid:1001000136117": 0,
+      "gas:candidate-vibid:364300170488": 0,
+      "special:against-all": 1
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=643001007&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=364300170824&region=0&sub_region=0&type=429",
@@ -12609,16 +12609,16 @@ export const duma_2003_uik_428_region_64_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Алимова Ольга Николаевна": 18,
-      "Большаков Иван Петрович": 0,
-      "Володин Вячеслав Викторович": 52,
-      "Граф Юрий Валентинович": 0,
-      "Караман Наталья Леонидовна": 0,
-      "Смирнов Владимир Сергеевич": 1,
-      "Смирнов Вячеслав Николаевич": 0,
-      "Тагунов Александр Васильевич": 0,
-      "Чирков Евгений Петрович": 0,
-      "Против всех": 0
+      "gas:candidate-vibid:1001000121904": 18,
+      "gas:candidate-vibid:1001000112252": 0,
+      "gas:candidate-vibid:1001000225982": 52,
+      "gas:candidate-vibid:364300170375": 0,
+      "gas:candidate-vibid:1001000121286": 0,
+      "gas:candidate-vibid:1001000113976": 1,
+      "gas:candidate-vibid:1001000195138": 0,
+      "gas:candidate-vibid:1001000136117": 0,
+      "gas:candidate-vibid:364300170488": 0,
+      "special:against-all": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=643001007&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=364300170824&region=0&sub_region=0&type=429",
@@ -12668,16 +12668,16 @@ export const duma_2003_uik_428_region_64_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Алимова Ольга Николаевна": 23,
-      "Большаков Иван Петрович": 0,
-      "Володин Вячеслав Викторович": 440,
-      "Граф Юрий Валентинович": 0,
-      "Караман Наталья Леонидовна": 0,
-      "Смирнов Владимир Сергеевич": 0,
-      "Смирнов Вячеслав Николаевич": 0,
-      "Тагунов Александр Васильевич": 5,
-      "Чирков Евгений Петрович": 1,
-      "Против всех": 4
+      "gas:candidate-vibid:1001000121904": 23,
+      "gas:candidate-vibid:1001000112252": 0,
+      "gas:candidate-vibid:1001000225982": 440,
+      "gas:candidate-vibid:364300170375": 0,
+      "gas:candidate-vibid:1001000121286": 0,
+      "gas:candidate-vibid:1001000113976": 0,
+      "gas:candidate-vibid:1001000195138": 0,
+      "gas:candidate-vibid:1001000136117": 5,
+      "gas:candidate-vibid:364300170488": 1,
+      "special:against-all": 4
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=643001007&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=364300170824&region=0&sub_region=0&type=429",
@@ -12727,16 +12727,16 @@ export const duma_2003_uik_428_region_64_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Алимова Ольга Николаевна": 84,
-      "Большаков Иван Петрович": 0,
-      "Володин Вячеслав Викторович": 416,
-      "Граф Юрий Валентинович": 0,
-      "Караман Наталья Леонидовна": 0,
-      "Смирнов Владимир Сергеевич": 0,
-      "Смирнов Вячеслав Николаевич": 0,
-      "Тагунов Александр Васильевич": 0,
-      "Чирков Евгений Петрович": 0,
-      "Против всех": 14
+      "gas:candidate-vibid:1001000121904": 84,
+      "gas:candidate-vibid:1001000112252": 0,
+      "gas:candidate-vibid:1001000225982": 416,
+      "gas:candidate-vibid:364300170375": 0,
+      "gas:candidate-vibid:1001000121286": 0,
+      "gas:candidate-vibid:1001000113976": 0,
+      "gas:candidate-vibid:1001000195138": 0,
+      "gas:candidate-vibid:1001000136117": 0,
+      "gas:candidate-vibid:364300170488": 0,
+      "special:against-all": 14
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=643001007&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=364300170824&region=0&sub_region=0&type=429",
@@ -12786,16 +12786,16 @@ export const duma_2003_uik_428_region_64_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Алимова Ольга Николаевна": 22,
-      "Большаков Иван Петрович": 0,
-      "Володин Вячеслав Викторович": 333,
-      "Граф Юрий Валентинович": 0,
-      "Караман Наталья Леонидовна": 0,
-      "Смирнов Владимир Сергеевич": 0,
-      "Смирнов Вячеслав Николаевич": 0,
-      "Тагунов Александр Васильевич": 0,
-      "Чирков Евгений Петрович": 0,
-      "Против всех": 5
+      "gas:candidate-vibid:1001000121904": 22,
+      "gas:candidate-vibid:1001000112252": 0,
+      "gas:candidate-vibid:1001000225982": 333,
+      "gas:candidate-vibid:364300170375": 0,
+      "gas:candidate-vibid:1001000121286": 0,
+      "gas:candidate-vibid:1001000113976": 0,
+      "gas:candidate-vibid:1001000195138": 0,
+      "gas:candidate-vibid:1001000136117": 0,
+      "gas:candidate-vibid:364300170488": 0,
+      "special:against-all": 5
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=643001007&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=364300170824&region=0&sub_region=0&type=429",
@@ -12845,16 +12845,16 @@ export const duma_2003_uik_428_region_64_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Алимова Ольга Николаевна": 30,
-      "Большаков Иван Петрович": 1,
-      "Володин Вячеслав Викторович": 416,
-      "Граф Юрий Валентинович": 0,
-      "Караман Наталья Леонидовна": 0,
-      "Смирнов Владимир Сергеевич": 2,
-      "Смирнов Вячеслав Николаевич": 0,
-      "Тагунов Александр Васильевич": 3,
-      "Чирков Евгений Петрович": 0,
-      "Против всех": 4
+      "gas:candidate-vibid:1001000121904": 30,
+      "gas:candidate-vibid:1001000112252": 1,
+      "gas:candidate-vibid:1001000225982": 416,
+      "gas:candidate-vibid:364300170375": 0,
+      "gas:candidate-vibid:1001000121286": 0,
+      "gas:candidate-vibid:1001000113976": 2,
+      "gas:candidate-vibid:1001000195138": 0,
+      "gas:candidate-vibid:1001000136117": 3,
+      "gas:candidate-vibid:364300170488": 0,
+      "special:against-all": 4
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=643001007&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=364300170824&region=0&sub_region=0&type=429",
@@ -12904,16 +12904,16 @@ export const duma_2003_uik_428_region_64_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Алимова Ольга Николаевна": 5,
-      "Большаков Иван Петрович": 0,
-      "Володин Вячеслав Викторович": 109,
-      "Граф Юрий Валентинович": 0,
-      "Караман Наталья Леонидовна": 0,
-      "Смирнов Владимир Сергеевич": 0,
-      "Смирнов Вячеслав Николаевич": 0,
-      "Тагунов Александр Васильевич": 0,
-      "Чирков Евгений Петрович": 0,
-      "Против всех": 1
+      "gas:candidate-vibid:1001000121904": 5,
+      "gas:candidate-vibid:1001000112252": 0,
+      "gas:candidate-vibid:1001000225982": 109,
+      "gas:candidate-vibid:364300170375": 0,
+      "gas:candidate-vibid:1001000121286": 0,
+      "gas:candidate-vibid:1001000113976": 0,
+      "gas:candidate-vibid:1001000195138": 0,
+      "gas:candidate-vibid:1001000136117": 0,
+      "gas:candidate-vibid:364300170488": 0,
+      "special:against-all": 1
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=643001007&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=364300170824&region=0&sub_region=0&type=429",
@@ -12963,16 +12963,16 @@ export const duma_2003_uik_428_region_64_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Алимова Ольга Николаевна": 9,
-      "Большаков Иван Петрович": 0,
-      "Володин Вячеслав Викторович": 250,
-      "Граф Юрий Валентинович": 0,
-      "Караман Наталья Леонидовна": 0,
-      "Смирнов Владимир Сергеевич": 0,
-      "Смирнов Вячеслав Николаевич": 0,
-      "Тагунов Александр Васильевич": 1,
-      "Чирков Евгений Петрович": 0,
-      "Против всех": 0
+      "gas:candidate-vibid:1001000121904": 9,
+      "gas:candidate-vibid:1001000112252": 0,
+      "gas:candidate-vibid:1001000225982": 250,
+      "gas:candidate-vibid:364300170375": 0,
+      "gas:candidate-vibid:1001000121286": 0,
+      "gas:candidate-vibid:1001000113976": 0,
+      "gas:candidate-vibid:1001000195138": 0,
+      "gas:candidate-vibid:1001000136117": 1,
+      "gas:candidate-vibid:364300170488": 0,
+      "special:against-all": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=643001007&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=364300170824&region=0&sub_region=0&type=429",
@@ -13022,16 +13022,16 @@ export const duma_2003_uik_428_region_64_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Алимова Ольга Николаевна": 0,
-      "Большаков Иван Петрович": 0,
-      "Володин Вячеслав Викторович": 79,
-      "Граф Юрий Валентинович": 0,
-      "Караман Наталья Леонидовна": 0,
-      "Смирнов Владимир Сергеевич": 0,
-      "Смирнов Вячеслав Николаевич": 0,
-      "Тагунов Александр Васильевич": 0,
-      "Чирков Евгений Петрович": 0,
-      "Против всех": 0
+      "gas:candidate-vibid:1001000121904": 0,
+      "gas:candidate-vibid:1001000112252": 0,
+      "gas:candidate-vibid:1001000225982": 79,
+      "gas:candidate-vibid:364300170375": 0,
+      "gas:candidate-vibid:1001000121286": 0,
+      "gas:candidate-vibid:1001000113976": 0,
+      "gas:candidate-vibid:1001000195138": 0,
+      "gas:candidate-vibid:1001000136117": 0,
+      "gas:candidate-vibid:364300170488": 0,
+      "special:against-all": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=643001007&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=364300170824&region=0&sub_region=0&type=429",
@@ -13081,16 +13081,16 @@ export const duma_2003_uik_428_region_64_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Алимова Ольга Николаевна": 31,
-      "Большаков Иван Петрович": 1,
-      "Володин Вячеслав Викторович": 224,
-      "Граф Юрий Валентинович": 1,
-      "Караман Наталья Леонидовна": 0,
-      "Смирнов Владимир Сергеевич": 0,
-      "Смирнов Вячеслав Николаевич": 0,
-      "Тагунов Александр Васильевич": 0,
-      "Чирков Евгений Петрович": 0,
-      "Против всех": 3
+      "gas:candidate-vibid:1001000121904": 31,
+      "gas:candidate-vibid:1001000112252": 1,
+      "gas:candidate-vibid:1001000225982": 224,
+      "gas:candidate-vibid:364300170375": 1,
+      "gas:candidate-vibid:1001000121286": 0,
+      "gas:candidate-vibid:1001000113976": 0,
+      "gas:candidate-vibid:1001000195138": 0,
+      "gas:candidate-vibid:1001000136117": 0,
+      "gas:candidate-vibid:364300170488": 0,
+      "special:against-all": 3
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=643001007&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=364300170824&region=0&sub_region=0&type=429",
@@ -13140,16 +13140,16 @@ export const duma_2003_uik_428_region_64_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Алимова Ольга Николаевна": 87,
-      "Большаков Иван Петрович": 0,
-      "Володин Вячеслав Викторович": 522,
-      "Граф Юрий Валентинович": 0,
-      "Караман Наталья Леонидовна": 0,
-      "Смирнов Владимир Сергеевич": 0,
-      "Смирнов Вячеслав Николаевич": 0,
-      "Тагунов Александр Васильевич": 0,
-      "Чирков Евгений Петрович": 0,
-      "Против всех": 0
+      "gas:candidate-vibid:1001000121904": 87,
+      "gas:candidate-vibid:1001000112252": 0,
+      "gas:candidate-vibid:1001000225982": 522,
+      "gas:candidate-vibid:364300170375": 0,
+      "gas:candidate-vibid:1001000121286": 0,
+      "gas:candidate-vibid:1001000113976": 0,
+      "gas:candidate-vibid:1001000195138": 0,
+      "gas:candidate-vibid:1001000136117": 0,
+      "gas:candidate-vibid:364300170488": 0,
+      "special:against-all": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=643001007&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=364300170824&region=0&sub_region=0&type=429",
@@ -13199,16 +13199,16 @@ export const duma_2003_uik_428_region_64_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Алимова Ольга Николаевна": 31,
-      "Большаков Иван Петрович": 0,
-      "Володин Вячеслав Викторович": 312,
-      "Граф Юрий Валентинович": 0,
-      "Караман Наталья Леонидовна": 0,
-      "Смирнов Владимир Сергеевич": 0,
-      "Смирнов Вячеслав Николаевич": 0,
-      "Тагунов Александр Васильевич": 0,
-      "Чирков Евгений Петрович": 0,
-      "Против всех": 2
+      "gas:candidate-vibid:1001000121904": 31,
+      "gas:candidate-vibid:1001000112252": 0,
+      "gas:candidate-vibid:1001000225982": 312,
+      "gas:candidate-vibid:364300170375": 0,
+      "gas:candidate-vibid:1001000121286": 0,
+      "gas:candidate-vibid:1001000113976": 0,
+      "gas:candidate-vibid:1001000195138": 0,
+      "gas:candidate-vibid:1001000136117": 0,
+      "gas:candidate-vibid:364300170488": 0,
+      "special:against-all": 2
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=643001007&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=364300170824&region=0&sub_region=0&type=429",
@@ -13258,16 +13258,16 @@ export const duma_2003_uik_428_region_64_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Алимова Ольга Николаевна": 51,
-      "Большаков Иван Петрович": 0,
-      "Володин Вячеслав Викторович": 379,
-      "Граф Юрий Валентинович": 1,
-      "Караман Наталья Леонидовна": 0,
-      "Смирнов Владимир Сергеевич": 0,
-      "Смирнов Вячеслав Николаевич": 0,
-      "Тагунов Александр Васильевич": 4,
-      "Чирков Евгений Петрович": 2,
-      "Против всех": 3
+      "gas:candidate-vibid:1001000121904": 51,
+      "gas:candidate-vibid:1001000112252": 0,
+      "gas:candidate-vibid:1001000225982": 379,
+      "gas:candidate-vibid:364300170375": 1,
+      "gas:candidate-vibid:1001000121286": 0,
+      "gas:candidate-vibid:1001000113976": 0,
+      "gas:candidate-vibid:1001000195138": 0,
+      "gas:candidate-vibid:1001000136117": 4,
+      "gas:candidate-vibid:364300170488": 2,
+      "special:against-all": 3
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=643001007&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=364300170824&region=0&sub_region=0&type=429",
@@ -13317,16 +13317,16 @@ export const duma_2003_uik_428_region_64_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Алимова Ольга Николаевна": 60,
-      "Большаков Иван Петрович": 2,
-      "Володин Вячеслав Викторович": 375,
-      "Граф Юрий Валентинович": 0,
-      "Караман Наталья Леонидовна": 0,
-      "Смирнов Владимир Сергеевич": 1,
-      "Смирнов Вячеслав Николаевич": 0,
-      "Тагунов Александр Васильевич": 4,
-      "Чирков Евгений Петрович": 0,
-      "Против всех": 13
+      "gas:candidate-vibid:1001000121904": 60,
+      "gas:candidate-vibid:1001000112252": 2,
+      "gas:candidate-vibid:1001000225982": 375,
+      "gas:candidate-vibid:364300170375": 0,
+      "gas:candidate-vibid:1001000121286": 0,
+      "gas:candidate-vibid:1001000113976": 1,
+      "gas:candidate-vibid:1001000195138": 0,
+      "gas:candidate-vibid:1001000136117": 4,
+      "gas:candidate-vibid:364300170488": 0,
+      "special:against-all": 13
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=643001007&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=364300170824&region=0&sub_region=0&type=429",
@@ -13376,16 +13376,16 @@ export const duma_2003_uik_428_region_64_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Алимова Ольга Николаевна": 37,
-      "Большаков Иван Петрович": 0,
-      "Володин Вячеслав Викторович": 316,
-      "Граф Юрий Валентинович": 2,
-      "Караман Наталья Леонидовна": 0,
-      "Смирнов Владимир Сергеевич": 0,
-      "Смирнов Вячеслав Николаевич": 0,
-      "Тагунов Александр Васильевич": 0,
-      "Чирков Евгений Петрович": 0,
-      "Против всех": 4
+      "gas:candidate-vibid:1001000121904": 37,
+      "gas:candidate-vibid:1001000112252": 0,
+      "gas:candidate-vibid:1001000225982": 316,
+      "gas:candidate-vibid:364300170375": 2,
+      "gas:candidate-vibid:1001000121286": 0,
+      "gas:candidate-vibid:1001000113976": 0,
+      "gas:candidate-vibid:1001000195138": 0,
+      "gas:candidate-vibid:1001000136117": 0,
+      "gas:candidate-vibid:364300170488": 0,
+      "special:against-all": 4
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=643001007&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=364300170824&region=0&sub_region=0&type=429",
@@ -13435,16 +13435,16 @@ export const duma_2003_uik_428_region_64_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Алимова Ольга Николаевна": 8,
-      "Большаков Иван Петрович": 0,
-      "Володин Вячеслав Викторович": 292,
-      "Граф Юрий Валентинович": 0,
-      "Караман Наталья Леонидовна": 0,
-      "Смирнов Владимир Сергеевич": 0,
-      "Смирнов Вячеслав Николаевич": 1,
-      "Тагунов Александр Васильевич": 1,
-      "Чирков Евгений Петрович": 0,
-      "Против всех": 1
+      "gas:candidate-vibid:1001000121904": 8,
+      "gas:candidate-vibid:1001000112252": 0,
+      "gas:candidate-vibid:1001000225982": 292,
+      "gas:candidate-vibid:364300170375": 0,
+      "gas:candidate-vibid:1001000121286": 0,
+      "gas:candidate-vibid:1001000113976": 0,
+      "gas:candidate-vibid:1001000195138": 1,
+      "gas:candidate-vibid:1001000136117": 1,
+      "gas:candidate-vibid:364300170488": 0,
+      "special:against-all": 1
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=643001007&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=364300170824&region=0&sub_region=0&type=429",
@@ -13494,16 +13494,16 @@ export const duma_2003_uik_428_region_64_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Алимова Ольга Николаевна": 35,
-      "Большаков Иван Петрович": 1,
-      "Володин Вячеслав Викторович": 365,
-      "Граф Юрий Валентинович": 0,
-      "Караман Наталья Леонидовна": 0,
-      "Смирнов Владимир Сергеевич": 0,
-      "Смирнов Вячеслав Николаевич": 0,
-      "Тагунов Александр Васильевич": 0,
-      "Чирков Евгений Петрович": 0,
-      "Против всех": 10
+      "gas:candidate-vibid:1001000121904": 35,
+      "gas:candidate-vibid:1001000112252": 1,
+      "gas:candidate-vibid:1001000225982": 365,
+      "gas:candidate-vibid:364300170375": 0,
+      "gas:candidate-vibid:1001000121286": 0,
+      "gas:candidate-vibid:1001000113976": 0,
+      "gas:candidate-vibid:1001000195138": 0,
+      "gas:candidate-vibid:1001000136117": 0,
+      "gas:candidate-vibid:364300170488": 0,
+      "special:against-all": 10
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=643001007&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=364300170824&region=0&sub_region=0&type=429",
@@ -13553,16 +13553,16 @@ export const duma_2003_uik_428_region_64_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Алимова Ольга Николаевна": 32,
-      "Большаков Иван Петрович": 1,
-      "Володин Вячеслав Викторович": 249,
-      "Граф Юрий Валентинович": 2,
-      "Караман Наталья Леонидовна": 2,
-      "Смирнов Владимир Сергеевич": 0,
-      "Смирнов Вячеслав Николаевич": 1,
-      "Тагунов Александр Васильевич": 7,
-      "Чирков Евгений Петрович": 0,
-      "Против всех": 4
+      "gas:candidate-vibid:1001000121904": 32,
+      "gas:candidate-vibid:1001000112252": 1,
+      "gas:candidate-vibid:1001000225982": 249,
+      "gas:candidate-vibid:364300170375": 2,
+      "gas:candidate-vibid:1001000121286": 2,
+      "gas:candidate-vibid:1001000113976": 0,
+      "gas:candidate-vibid:1001000195138": 1,
+      "gas:candidate-vibid:1001000136117": 7,
+      "gas:candidate-vibid:364300170488": 0,
+      "special:against-all": 4
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=643001007&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=364300170824&region=0&sub_region=0&type=429",
@@ -13612,16 +13612,16 @@ export const duma_2003_uik_428_region_64_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Алимова Ольга Николаевна": 35,
-      "Большаков Иван Петрович": 0,
-      "Володин Вячеслав Викторович": 269,
-      "Граф Юрий Валентинович": 0,
-      "Караман Наталья Леонидовна": 0,
-      "Смирнов Владимир Сергеевич": 0,
-      "Смирнов Вячеслав Николаевич": 0,
-      "Тагунов Александр Васильевич": 0,
-      "Чирков Евгений Петрович": 0,
-      "Против всех": 7
+      "gas:candidate-vibid:1001000121904": 35,
+      "gas:candidate-vibid:1001000112252": 0,
+      "gas:candidate-vibid:1001000225982": 269,
+      "gas:candidate-vibid:364300170375": 0,
+      "gas:candidate-vibid:1001000121286": 0,
+      "gas:candidate-vibid:1001000113976": 0,
+      "gas:candidate-vibid:1001000195138": 0,
+      "gas:candidate-vibid:1001000136117": 0,
+      "gas:candidate-vibid:364300170488": 0,
+      "special:against-all": 7
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=643001007&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=364300170824&region=0&sub_region=0&type=429",
@@ -13671,16 +13671,16 @@ export const duma_2003_uik_428_region_64_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Алимова Ольга Николаевна": 11,
-      "Большаков Иван Петрович": 1,
-      "Володин Вячеслав Викторович": 91,
-      "Граф Юрий Валентинович": 0,
-      "Караман Наталья Леонидовна": 0,
-      "Смирнов Владимир Сергеевич": 0,
-      "Смирнов Вячеслав Николаевич": 0,
-      "Тагунов Александр Васильевич": 0,
-      "Чирков Евгений Петрович": 0,
-      "Против всех": 0
+      "gas:candidate-vibid:1001000121904": 11,
+      "gas:candidate-vibid:1001000112252": 1,
+      "gas:candidate-vibid:1001000225982": 91,
+      "gas:candidate-vibid:364300170375": 0,
+      "gas:candidate-vibid:1001000121286": 0,
+      "gas:candidate-vibid:1001000113976": 0,
+      "gas:candidate-vibid:1001000195138": 0,
+      "gas:candidate-vibid:1001000136117": 0,
+      "gas:candidate-vibid:364300170488": 0,
+      "special:against-all": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=643001007&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=364300170824&region=0&sub_region=0&type=429",
@@ -13730,16 +13730,16 @@ export const duma_2003_uik_428_region_64_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Алимова Ольга Николаевна": 43,
-      "Большаков Иван Петрович": 3,
-      "Володин Вячеслав Викторович": 216,
-      "Граф Юрий Валентинович": 0,
-      "Караман Наталья Леонидовна": 0,
-      "Смирнов Владимир Сергеевич": 0,
-      "Смирнов Вячеслав Николаевич": 1,
-      "Тагунов Александр Васильевич": 5,
-      "Чирков Евгений Петрович": 0,
-      "Против всех": 12
+      "gas:candidate-vibid:1001000121904": 43,
+      "gas:candidate-vibid:1001000112252": 3,
+      "gas:candidate-vibid:1001000225982": 216,
+      "gas:candidate-vibid:364300170375": 0,
+      "gas:candidate-vibid:1001000121286": 0,
+      "gas:candidate-vibid:1001000113976": 0,
+      "gas:candidate-vibid:1001000195138": 1,
+      "gas:candidate-vibid:1001000136117": 5,
+      "gas:candidate-vibid:364300170488": 0,
+      "special:against-all": 12
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=643001007&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=364300170824&region=0&sub_region=0&type=429",
@@ -13789,16 +13789,16 @@ export const duma_2003_uik_428_region_64_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Алимова Ольга Николаевна": 5,
-      "Большаков Иван Петрович": 0,
-      "Володин Вячеслав Викторович": 92,
-      "Граф Юрий Валентинович": 0,
-      "Караман Наталья Леонидовна": 0,
-      "Смирнов Владимир Сергеевич": 0,
-      "Смирнов Вячеслав Николаевич": 0,
-      "Тагунов Александр Васильевич": 0,
-      "Чирков Евгений Петрович": 0,
-      "Против всех": 2
+      "gas:candidate-vibid:1001000121904": 5,
+      "gas:candidate-vibid:1001000112252": 0,
+      "gas:candidate-vibid:1001000225982": 92,
+      "gas:candidate-vibid:364300170375": 0,
+      "gas:candidate-vibid:1001000121286": 0,
+      "gas:candidate-vibid:1001000113976": 0,
+      "gas:candidate-vibid:1001000195138": 0,
+      "gas:candidate-vibid:1001000136117": 0,
+      "gas:candidate-vibid:364300170488": 0,
+      "special:against-all": 2
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=643001007&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=364300170824&region=0&sub_region=0&type=429",
@@ -13848,16 +13848,16 @@ export const duma_2003_uik_428_region_64_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Алимова Ольга Николаевна": 7,
-      "Большаков Иван Петрович": 1,
-      "Володин Вячеслав Викторович": 372,
-      "Граф Юрий Валентинович": 0,
-      "Караман Наталья Леонидовна": 0,
-      "Смирнов Владимир Сергеевич": 0,
-      "Смирнов Вячеслав Николаевич": 0,
-      "Тагунов Александр Васильевич": 1,
-      "Чирков Евгений Петрович": 0,
-      "Против всех": 10
+      "gas:candidate-vibid:1001000121904": 7,
+      "gas:candidate-vibid:1001000112252": 1,
+      "gas:candidate-vibid:1001000225982": 372,
+      "gas:candidate-vibid:364300170375": 0,
+      "gas:candidate-vibid:1001000121286": 0,
+      "gas:candidate-vibid:1001000113976": 0,
+      "gas:candidate-vibid:1001000195138": 0,
+      "gas:candidate-vibid:1001000136117": 1,
+      "gas:candidate-vibid:364300170488": 0,
+      "special:against-all": 10
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=643001008&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=364300170825&region=0&sub_region=0&type=429",
@@ -13907,16 +13907,16 @@ export const duma_2003_uik_428_region_64_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Алимова Ольга Николаевна": 60,
-      "Большаков Иван Петрович": 7,
-      "Володин Вячеслав Викторович": 529,
-      "Граф Юрий Валентинович": 0,
-      "Караман Наталья Леонидовна": 2,
-      "Смирнов Владимир Сергеевич": 0,
-      "Смирнов Вячеслав Николаевич": 4,
-      "Тагунов Александр Васильевич": 2,
-      "Чирков Евгений Петрович": 0,
-      "Против всех": 30
+      "gas:candidate-vibid:1001000121904": 60,
+      "gas:candidate-vibid:1001000112252": 7,
+      "gas:candidate-vibid:1001000225982": 529,
+      "gas:candidate-vibid:364300170375": 0,
+      "gas:candidate-vibid:1001000121286": 2,
+      "gas:candidate-vibid:1001000113976": 0,
+      "gas:candidate-vibid:1001000195138": 4,
+      "gas:candidate-vibid:1001000136117": 2,
+      "gas:candidate-vibid:364300170488": 0,
+      "special:against-all": 30
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=643001008&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=364300170825&region=0&sub_region=0&type=429",
@@ -13966,16 +13966,16 @@ export const duma_2003_uik_428_region_64_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Алимова Ольга Николаевна": 2,
-      "Большаков Иван Петрович": 1,
-      "Володин Вячеслав Викторович": 199,
-      "Граф Юрий Валентинович": 0,
-      "Караман Наталья Леонидовна": 0,
-      "Смирнов Владимир Сергеевич": 2,
-      "Смирнов Вячеслав Николаевич": 0,
-      "Тагунов Александр Васильевич": 3,
-      "Чирков Евгений Петрович": 0,
-      "Против всех": 5
+      "gas:candidate-vibid:1001000121904": 2,
+      "gas:candidate-vibid:1001000112252": 1,
+      "gas:candidate-vibid:1001000225982": 199,
+      "gas:candidate-vibid:364300170375": 0,
+      "gas:candidate-vibid:1001000121286": 0,
+      "gas:candidate-vibid:1001000113976": 2,
+      "gas:candidate-vibid:1001000195138": 0,
+      "gas:candidate-vibid:1001000136117": 3,
+      "gas:candidate-vibid:364300170488": 0,
+      "special:against-all": 5
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=643001008&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=364300170825&region=0&sub_region=0&type=429",
@@ -14025,16 +14025,16 @@ export const duma_2003_uik_428_region_64_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Алимова Ольга Николаевна": 51,
-      "Большаков Иван Петрович": 1,
-      "Володин Вячеслав Викторович": 559,
-      "Граф Юрий Валентинович": 0,
-      "Караман Наталья Леонидовна": 1,
-      "Смирнов Владимир Сергеевич": 2,
-      "Смирнов Вячеслав Николаевич": 2,
-      "Тагунов Александр Васильевич": 7,
-      "Чирков Евгений Петрович": 0,
-      "Против всех": 27
+      "gas:candidate-vibid:1001000121904": 51,
+      "gas:candidate-vibid:1001000112252": 1,
+      "gas:candidate-vibid:1001000225982": 559,
+      "gas:candidate-vibid:364300170375": 0,
+      "gas:candidate-vibid:1001000121286": 1,
+      "gas:candidate-vibid:1001000113976": 2,
+      "gas:candidate-vibid:1001000195138": 2,
+      "gas:candidate-vibid:1001000136117": 7,
+      "gas:candidate-vibid:364300170488": 0,
+      "special:against-all": 27
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=643001008&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=364300170825&region=0&sub_region=0&type=429",
@@ -14084,16 +14084,16 @@ export const duma_2003_uik_428_region_64_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Алимова Ольга Николаевна": 17,
-      "Большаков Иван Петрович": 6,
-      "Володин Вячеслав Викторович": 182,
-      "Граф Юрий Валентинович": 2,
-      "Караман Наталья Леонидовна": 0,
-      "Смирнов Владимир Сергеевич": 0,
-      "Смирнов Вячеслав Николаевич": 1,
-      "Тагунов Александр Васильевич": 9,
-      "Чирков Евгений Петрович": 2,
-      "Против всех": 18
+      "gas:candidate-vibid:1001000121904": 17,
+      "gas:candidate-vibid:1001000112252": 6,
+      "gas:candidate-vibid:1001000225982": 182,
+      "gas:candidate-vibid:364300170375": 2,
+      "gas:candidate-vibid:1001000121286": 0,
+      "gas:candidate-vibid:1001000113976": 0,
+      "gas:candidate-vibid:1001000195138": 1,
+      "gas:candidate-vibid:1001000136117": 9,
+      "gas:candidate-vibid:364300170488": 2,
+      "special:against-all": 18
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=643001008&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=364300170825&region=0&sub_region=0&type=429",
@@ -14143,16 +14143,16 @@ export const duma_2003_uik_428_region_64_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Алимова Ольга Николаевна": 51,
-      "Большаков Иван Петрович": 2,
-      "Володин Вячеслав Викторович": 518,
-      "Граф Юрий Валентинович": 0,
-      "Караман Наталья Леонидовна": 1,
-      "Смирнов Владимир Сергеевич": 1,
-      "Смирнов Вячеслав Николаевич": 0,
-      "Тагунов Александр Васильевич": 3,
-      "Чирков Евгений Петрович": 0,
-      "Против всех": 8
+      "gas:candidate-vibid:1001000121904": 51,
+      "gas:candidate-vibid:1001000112252": 2,
+      "gas:candidate-vibid:1001000225982": 518,
+      "gas:candidate-vibid:364300170375": 0,
+      "gas:candidate-vibid:1001000121286": 1,
+      "gas:candidate-vibid:1001000113976": 1,
+      "gas:candidate-vibid:1001000195138": 0,
+      "gas:candidate-vibid:1001000136117": 3,
+      "gas:candidate-vibid:364300170488": 0,
+      "special:against-all": 8
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=643001008&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=364300170825&region=0&sub_region=0&type=429",
@@ -14202,16 +14202,16 @@ export const duma_2003_uik_428_region_64_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Алимова Ольга Николаевна": 111,
-      "Большаков Иван Петрович": 8,
-      "Володин Вячеслав Викторович": 1006,
-      "Граф Юрий Валентинович": 3,
-      "Караман Наталья Леонидовна": 0,
-      "Смирнов Владимир Сергеевич": 2,
-      "Смирнов Вячеслав Николаевич": 0,
-      "Тагунов Александр Васильевич": 18,
-      "Чирков Евгений Петрович": 1,
-      "Против всех": 50
+      "gas:candidate-vibid:1001000121904": 111,
+      "gas:candidate-vibid:1001000112252": 8,
+      "gas:candidate-vibid:1001000225982": 1006,
+      "gas:candidate-vibid:364300170375": 3,
+      "gas:candidate-vibid:1001000121286": 0,
+      "gas:candidate-vibid:1001000113976": 2,
+      "gas:candidate-vibid:1001000195138": 0,
+      "gas:candidate-vibid:1001000136117": 18,
+      "gas:candidate-vibid:364300170488": 1,
+      "special:against-all": 50
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=643001008&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=364300170825&region=0&sub_region=0&type=429",
@@ -14261,16 +14261,16 @@ export const duma_2003_uik_428_region_64_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Алимова Ольга Николаевна": 109,
-      "Большаков Иван Петрович": 10,
-      "Володин Вячеслав Викторович": 790,
-      "Граф Юрий Валентинович": 4,
-      "Караман Наталья Леонидовна": 3,
-      "Смирнов Владимир Сергеевич": 0,
-      "Смирнов Вячеслав Николаевич": 2,
-      "Тагунов Александр Васильевич": 7,
-      "Чирков Евгений Петрович": 1,
-      "Против всех": 36
+      "gas:candidate-vibid:1001000121904": 109,
+      "gas:candidate-vibid:1001000112252": 10,
+      "gas:candidate-vibid:1001000225982": 790,
+      "gas:candidate-vibid:364300170375": 4,
+      "gas:candidate-vibid:1001000121286": 3,
+      "gas:candidate-vibid:1001000113976": 0,
+      "gas:candidate-vibid:1001000195138": 2,
+      "gas:candidate-vibid:1001000136117": 7,
+      "gas:candidate-vibid:364300170488": 1,
+      "special:against-all": 36
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=643001008&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=364300170825&region=0&sub_region=0&type=429",
@@ -14320,16 +14320,16 @@ export const duma_2003_uik_428_region_64_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Алимова Ольга Николаевна": 157,
-      "Большаков Иван Петрович": 11,
-      "Володин Вячеслав Викторович": 1052,
-      "Граф Юрий Валентинович": 3,
-      "Караман Наталья Леонидовна": 2,
-      "Смирнов Владимир Сергеевич": 8,
-      "Смирнов Вячеслав Николаевич": 0,
-      "Тагунов Александр Васильевич": 22,
-      "Чирков Евгений Петрович": 4,
-      "Против всех": 48
+      "gas:candidate-vibid:1001000121904": 157,
+      "gas:candidate-vibid:1001000112252": 11,
+      "gas:candidate-vibid:1001000225982": 1052,
+      "gas:candidate-vibid:364300170375": 3,
+      "gas:candidate-vibid:1001000121286": 2,
+      "gas:candidate-vibid:1001000113976": 8,
+      "gas:candidate-vibid:1001000195138": 0,
+      "gas:candidate-vibid:1001000136117": 22,
+      "gas:candidate-vibid:364300170488": 4,
+      "special:against-all": 48
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=643001008&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=364300170825&region=0&sub_region=0&type=429",
@@ -14379,16 +14379,16 @@ export const duma_2003_uik_428_region_64_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Алимова Ольга Николаевна": 8,
-      "Большаков Иван Петрович": 1,
-      "Володин Вячеслав Викторович": 118,
-      "Граф Юрий Валентинович": 1,
-      "Караман Наталья Леонидовна": 0,
-      "Смирнов Владимир Сергеевич": 0,
-      "Смирнов Вячеслав Николаевич": 0,
-      "Тагунов Александр Васильевич": 2,
-      "Чирков Евгений Петрович": 0,
-      "Против всех": 13
+      "gas:candidate-vibid:1001000121904": 8,
+      "gas:candidate-vibid:1001000112252": 1,
+      "gas:candidate-vibid:1001000225982": 118,
+      "gas:candidate-vibid:364300170375": 1,
+      "gas:candidate-vibid:1001000121286": 0,
+      "gas:candidate-vibid:1001000113976": 0,
+      "gas:candidate-vibid:1001000195138": 0,
+      "gas:candidate-vibid:1001000136117": 2,
+      "gas:candidate-vibid:364300170488": 0,
+      "special:against-all": 13
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=643001008&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=364300170825&region=0&sub_region=0&type=429",
@@ -14438,16 +14438,16 @@ export const duma_2003_uik_428_region_64_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Алимова Ольга Николаевна": 40,
-      "Большаков Иван Петрович": 1,
-      "Володин Вячеслав Викторович": 574,
-      "Граф Юрий Валентинович": 2,
-      "Караман Наталья Леонидовна": 0,
-      "Смирнов Владимир Сергеевич": 1,
-      "Смирнов Вячеслав Николаевич": 0,
-      "Тагунов Александр Васильевич": 5,
-      "Чирков Евгений Петрович": 4,
-      "Против всех": 5
+      "gas:candidate-vibid:1001000121904": 40,
+      "gas:candidate-vibid:1001000112252": 1,
+      "gas:candidate-vibid:1001000225982": 574,
+      "gas:candidate-vibid:364300170375": 2,
+      "gas:candidate-vibid:1001000121286": 0,
+      "gas:candidate-vibid:1001000113976": 1,
+      "gas:candidate-vibid:1001000195138": 0,
+      "gas:candidate-vibid:1001000136117": 5,
+      "gas:candidate-vibid:364300170488": 4,
+      "special:against-all": 5
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=643001008&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=364300170825&region=0&sub_region=0&type=429",
@@ -14497,16 +14497,16 @@ export const duma_2003_uik_428_region_64_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Алимова Ольга Николаевна": 41,
-      "Большаков Иван Петрович": 3,
-      "Володин Вячеслав Викторович": 243,
-      "Граф Юрий Валентинович": 1,
-      "Караман Наталья Леонидовна": 0,
-      "Смирнов Владимир Сергеевич": 1,
-      "Смирнов Вячеслав Николаевич": 0,
-      "Тагунов Александр Васильевич": 0,
-      "Чирков Евгений Петрович": 1,
-      "Против всех": 8
+      "gas:candidate-vibid:1001000121904": 41,
+      "gas:candidate-vibid:1001000112252": 3,
+      "gas:candidate-vibid:1001000225982": 243,
+      "gas:candidate-vibid:364300170375": 1,
+      "gas:candidate-vibid:1001000121286": 0,
+      "gas:candidate-vibid:1001000113976": 1,
+      "gas:candidate-vibid:1001000195138": 0,
+      "gas:candidate-vibid:1001000136117": 0,
+      "gas:candidate-vibid:364300170488": 1,
+      "special:against-all": 8
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=643001008&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=364300170825&region=0&sub_region=0&type=429",
@@ -14556,16 +14556,16 @@ export const duma_2003_uik_428_region_64_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Алимова Ольга Николаевна": 30,
-      "Большаков Иван Петрович": 0,
-      "Володин Вячеслав Викторович": 370,
-      "Граф Юрий Валентинович": 0,
-      "Караман Наталья Леонидовна": 0,
-      "Смирнов Владимир Сергеевич": 0,
-      "Смирнов Вячеслав Николаевич": 0,
-      "Тагунов Александр Васильевич": 9,
-      "Чирков Евгений Петрович": 0,
-      "Против всех": 8
+      "gas:candidate-vibid:1001000121904": 30,
+      "gas:candidate-vibid:1001000112252": 0,
+      "gas:candidate-vibid:1001000225982": 370,
+      "gas:candidate-vibid:364300170375": 0,
+      "gas:candidate-vibid:1001000121286": 0,
+      "gas:candidate-vibid:1001000113976": 0,
+      "gas:candidate-vibid:1001000195138": 0,
+      "gas:candidate-vibid:1001000136117": 9,
+      "gas:candidate-vibid:364300170488": 0,
+      "special:against-all": 8
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=643001008&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=364300170825&region=0&sub_region=0&type=429",
@@ -14615,16 +14615,16 @@ export const duma_2003_uik_428_region_64_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Алимова Ольга Николаевна": 7,
-      "Большаков Иван Петрович": 1,
-      "Володин Вячеслав Викторович": 288,
-      "Граф Юрий Валентинович": 2,
-      "Караман Наталья Леонидовна": 1,
-      "Смирнов Владимир Сергеевич": 0,
-      "Смирнов Вячеслав Николаевич": 0,
-      "Тагунов Александр Васильевич": 2,
-      "Чирков Евгений Петрович": 0,
-      "Против всех": 2
+      "gas:candidate-vibid:1001000121904": 7,
+      "gas:candidate-vibid:1001000112252": 1,
+      "gas:candidate-vibid:1001000225982": 288,
+      "gas:candidate-vibid:364300170375": 2,
+      "gas:candidate-vibid:1001000121286": 1,
+      "gas:candidate-vibid:1001000113976": 0,
+      "gas:candidate-vibid:1001000195138": 0,
+      "gas:candidate-vibid:1001000136117": 2,
+      "gas:candidate-vibid:364300170488": 0,
+      "special:against-all": 2
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=643001008&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=364300170825&region=0&sub_region=0&type=429",
@@ -14674,16 +14674,16 @@ export const duma_2003_uik_428_region_64_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Алимова Ольга Николаевна": 41,
-      "Большаков Иван Петрович": 6,
-      "Володин Вячеслав Викторович": 302,
-      "Граф Юрий Валентинович": 1,
-      "Караман Наталья Леонидовна": 0,
-      "Смирнов Владимир Сергеевич": 0,
-      "Смирнов Вячеслав Николаевич": 0,
-      "Тагунов Александр Васильевич": 6,
-      "Чирков Евгений Петрович": 1,
-      "Против всех": 15
+      "gas:candidate-vibid:1001000121904": 41,
+      "gas:candidate-vibid:1001000112252": 6,
+      "gas:candidate-vibid:1001000225982": 302,
+      "gas:candidate-vibid:364300170375": 1,
+      "gas:candidate-vibid:1001000121286": 0,
+      "gas:candidate-vibid:1001000113976": 0,
+      "gas:candidate-vibid:1001000195138": 0,
+      "gas:candidate-vibid:1001000136117": 6,
+      "gas:candidate-vibid:364300170488": 1,
+      "special:against-all": 15
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=643001008&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=364300170825&region=0&sub_region=0&type=429",
@@ -14733,16 +14733,16 @@ export const duma_2003_uik_428_region_64_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Алимова Ольга Николаевна": 94,
-      "Большаков Иван Петрович": 8,
-      "Володин Вячеслав Викторович": 396,
-      "Граф Юрий Валентинович": 0,
-      "Караман Наталья Леонидовна": 1,
-      "Смирнов Владимир Сергеевич": 0,
-      "Смирнов Вячеслав Николаевич": 0,
-      "Тагунов Александр Васильевич": 5,
-      "Чирков Евгений Петрович": 0,
-      "Против всех": 18
+      "gas:candidate-vibid:1001000121904": 94,
+      "gas:candidate-vibid:1001000112252": 8,
+      "gas:candidate-vibid:1001000225982": 396,
+      "gas:candidate-vibid:364300170375": 0,
+      "gas:candidate-vibid:1001000121286": 1,
+      "gas:candidate-vibid:1001000113976": 0,
+      "gas:candidate-vibid:1001000195138": 0,
+      "gas:candidate-vibid:1001000136117": 5,
+      "gas:candidate-vibid:364300170488": 0,
+      "special:against-all": 18
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=643001008&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=364300170825&region=0&sub_region=0&type=429",

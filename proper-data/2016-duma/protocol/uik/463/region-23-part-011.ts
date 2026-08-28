@@ -43,13 +43,13 @@ export const duma_2016_uik_463_region_23_part_011 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Витишко Евгений Геннадиевич": 0,
-      "Ерохин Михаил Викторович": 46,
-      "Заруба Ольга Александровна": 11,
-      "Синяговский Владимир Ильич": 657,
-      "Тренин Алексей Николаевич": 141,
-      "Хот Валерий Владимирович": 64,
-      "Штуркин Владимир Николаевич": 6
+      "gas:candidate-vibid:4234056238349": 0,
+      "gas:candidate-vibid:4234056238140": 46,
+      "gas:candidate-vibid:4234056226051": 11,
+      "gas:candidate-vibid:4234056238639": 657,
+      "gas:candidate-vibid:4234056238262": 141,
+      "gas:candidate-vibid:4234056225742": 64,
+      "gas:candidate-vibid:4234056238794": 6
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/krasnodar?action=show&root=1000066&tvd=4234056224473&vrn=100100067795849&region=23&global=&sub_region=23&prver=0&pronetvd=null&vibid=4234056224473&type=464",
@@ -100,13 +100,13 @@ export const duma_2016_uik_463_region_23_part_011 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Витишко Евгений Геннадиевич": 15,
-      "Ерохин Михаил Викторович": 38,
-      "Заруба Ольга Александровна": 41,
-      "Синяговский Владимир Ильич": 497,
-      "Тренин Алексей Николаевич": 34,
-      "Хот Валерий Владимирович": 49,
-      "Штуркин Владимир Николаевич": 20
+      "gas:candidate-vibid:4234056238349": 15,
+      "gas:candidate-vibid:4234056238140": 38,
+      "gas:candidate-vibid:4234056226051": 41,
+      "gas:candidate-vibid:4234056238639": 497,
+      "gas:candidate-vibid:4234056238262": 34,
+      "gas:candidate-vibid:4234056225742": 49,
+      "gas:candidate-vibid:4234056238794": 20
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/krasnodar?action=show&root=1000066&tvd=4234056224473&vrn=100100067795849&region=23&global=&sub_region=23&prver=0&pronetvd=null&vibid=4234056224473&type=464",
@@ -157,13 +157,13 @@ export const duma_2016_uik_463_region_23_part_011 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Витишко Евгений Геннадиевич": 12,
-      "Ерохин Михаил Викторович": 69,
-      "Заруба Ольга Александровна": 12,
-      "Синяговский Владимир Ильич": 882,
-      "Тренин Алексей Николаевич": 116,
-      "Хот Валерий Владимирович": 46,
-      "Штуркин Владимир Николаевич": 23
+      "gas:candidate-vibid:4234056238349": 12,
+      "gas:candidate-vibid:4234056238140": 69,
+      "gas:candidate-vibid:4234056226051": 12,
+      "gas:candidate-vibid:4234056238639": 882,
+      "gas:candidate-vibid:4234056238262": 116,
+      "gas:candidate-vibid:4234056225742": 46,
+      "gas:candidate-vibid:4234056238794": 23
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/krasnodar?action=show&root=1000066&tvd=4234056224473&vrn=100100067795849&region=23&global=&sub_region=23&prver=0&pronetvd=null&vibid=4234056224473&type=464",
@@ -214,13 +214,13 @@ export const duma_2016_uik_463_region_23_part_011 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Витишко Евгений Геннадиевич": 16,
-      "Ерохин Михаил Викторович": 53,
-      "Заруба Ольга Александровна": 15,
-      "Синяговский Владимир Ильич": 634,
-      "Тренин Алексей Николаевич": 91,
-      "Хот Валерий Владимирович": 62,
-      "Штуркин Владимир Николаевич": 10
+      "gas:candidate-vibid:4234056238349": 16,
+      "gas:candidate-vibid:4234056238140": 53,
+      "gas:candidate-vibid:4234056226051": 15,
+      "gas:candidate-vibid:4234056238639": 634,
+      "gas:candidate-vibid:4234056238262": 91,
+      "gas:candidate-vibid:4234056225742": 62,
+      "gas:candidate-vibid:4234056238794": 10
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/krasnodar?action=show&root=1000066&tvd=4234056224473&vrn=100100067795849&region=23&global=&sub_region=23&prver=0&pronetvd=null&vibid=4234056224473&type=464",
@@ -271,13 +271,13 @@ export const duma_2016_uik_463_region_23_part_011 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Витишко Евгений Геннадиевич": 25,
-      "Ерохин Михаил Викторович": 75,
-      "Заруба Ольга Александровна": 25,
-      "Синяговский Владимир Ильич": 826,
-      "Тренин Алексей Николаевич": 188,
-      "Хот Валерий Владимирович": 87,
-      "Штуркин Владимир Николаевич": 25
+      "gas:candidate-vibid:4234056238349": 25,
+      "gas:candidate-vibid:4234056238140": 75,
+      "gas:candidate-vibid:4234056226051": 25,
+      "gas:candidate-vibid:4234056238639": 826,
+      "gas:candidate-vibid:4234056238262": 188,
+      "gas:candidate-vibid:4234056225742": 87,
+      "gas:candidate-vibid:4234056238794": 25
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/krasnodar?action=show&root=1000066&tvd=4234056224473&vrn=100100067795849&region=23&global=&sub_region=23&prver=0&pronetvd=null&vibid=4234056224473&type=464",
@@ -328,13 +328,13 @@ export const duma_2016_uik_463_region_23_part_011 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Витишко Евгений Геннадиевич": 0,
-      "Ерохин Михаил Викторович": 66,
-      "Заруба Ольга Александровна": 12,
-      "Синяговский Владимир Ильич": 936,
-      "Тренин Алексей Николаевич": 204,
-      "Хот Валерий Владимирович": 94,
-      "Штуркин Владимир Николаевич": 6
+      "gas:candidate-vibid:4234056238349": 0,
+      "gas:candidate-vibid:4234056238140": 66,
+      "gas:candidate-vibid:4234056226051": 12,
+      "gas:candidate-vibid:4234056238639": 936,
+      "gas:candidate-vibid:4234056238262": 204,
+      "gas:candidate-vibid:4234056225742": 94,
+      "gas:candidate-vibid:4234056238794": 6
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/krasnodar?action=show&root=1000066&tvd=4234056224473&vrn=100100067795849&region=23&global=&sub_region=23&prver=0&pronetvd=null&vibid=4234056224473&type=464",
@@ -385,13 +385,13 @@ export const duma_2016_uik_463_region_23_part_011 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Витишко Евгений Геннадиевич": 8,
-      "Ерохин Михаил Викторович": 52,
-      "Заруба Ольга Александровна": 8,
-      "Синяговский Владимир Ильич": 703,
-      "Тренин Алексей Николаевич": 67,
-      "Хот Валерий Владимирович": 26,
-      "Штуркин Владимир Николаевич": 2
+      "gas:candidate-vibid:4234056238349": 8,
+      "gas:candidate-vibid:4234056238140": 52,
+      "gas:candidate-vibid:4234056226051": 8,
+      "gas:candidate-vibid:4234056238639": 703,
+      "gas:candidate-vibid:4234056238262": 67,
+      "gas:candidate-vibid:4234056225742": 26,
+      "gas:candidate-vibid:4234056238794": 2
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/krasnodar?action=show&root=1000066&tvd=4234056224473&vrn=100100067795849&region=23&global=&sub_region=23&prver=0&pronetvd=null&vibid=4234056224473&type=464",
@@ -442,13 +442,13 @@ export const duma_2016_uik_463_region_23_part_011 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Витишко Евгений Геннадиевич": 28,
-      "Ерохин Михаил Викторович": 84,
-      "Заруба Ольга Александровна": 28,
-      "Синяговский Владимир Ильич": 972,
-      "Тренин Алексей Николаевич": 180,
-      "Хот Валерий Владимирович": 69,
-      "Штуркин Владимир Николаевич": 27
+      "gas:candidate-vibid:4234056238349": 28,
+      "gas:candidate-vibid:4234056238140": 84,
+      "gas:candidate-vibid:4234056226051": 28,
+      "gas:candidate-vibid:4234056238639": 972,
+      "gas:candidate-vibid:4234056238262": 180,
+      "gas:candidate-vibid:4234056225742": 69,
+      "gas:candidate-vibid:4234056238794": 27
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/krasnodar?action=show&root=1000066&tvd=4234056224473&vrn=100100067795849&region=23&global=&sub_region=23&prver=0&pronetvd=null&vibid=4234056224473&type=464",
@@ -499,13 +499,13 @@ export const duma_2016_uik_463_region_23_part_011 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Витишко Евгений Геннадиевич": 0,
-      "Ерохин Михаил Викторович": 74,
-      "Заруба Ольга Александровна": 0,
-      "Синяговский Владимир Ильич": 827,
-      "Тренин Алексей Николаевич": 159,
-      "Хот Валерий Владимирович": 0,
-      "Штуркин Владимир Николаевич": 0
+      "gas:candidate-vibid:4234056238349": 0,
+      "gas:candidate-vibid:4234056238140": 74,
+      "gas:candidate-vibid:4234056226051": 0,
+      "gas:candidate-vibid:4234056238639": 827,
+      "gas:candidate-vibid:4234056238262": 159,
+      "gas:candidate-vibid:4234056225742": 0,
+      "gas:candidate-vibid:4234056238794": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/krasnodar?action=show&root=1000066&tvd=4234056224473&vrn=100100067795849&region=23&global=&sub_region=23&prver=0&pronetvd=null&vibid=4234056224473&type=464",
@@ -556,13 +556,13 @@ export const duma_2016_uik_463_region_23_part_011 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Витишко Евгений Геннадиевич": 9,
-      "Ерохин Михаил Викторович": 48,
-      "Заруба Ольга Александровна": 22,
-      "Синяговский Владимир Ильич": 790,
-      "Тренин Алексей Николаевич": 44,
-      "Хот Валерий Владимирович": 67,
-      "Штуркин Владимир Николаевич": 23
+      "gas:candidate-vibid:4234056238349": 9,
+      "gas:candidate-vibid:4234056238140": 48,
+      "gas:candidate-vibid:4234056226051": 22,
+      "gas:candidate-vibid:4234056238639": 790,
+      "gas:candidate-vibid:4234056238262": 44,
+      "gas:candidate-vibid:4234056225742": 67,
+      "gas:candidate-vibid:4234056238794": 23
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/krasnodar?action=show&root=1000066&tvd=4234056224473&vrn=100100067795849&region=23&global=&sub_region=23&prver=0&pronetvd=null&vibid=4234056224473&type=464",
@@ -613,13 +613,13 @@ export const duma_2016_uik_463_region_23_part_011 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Витишко Евгений Геннадиевич": 0,
-      "Ерохин Михаил Викторович": 48,
-      "Заруба Ольга Александровна": 0,
-      "Синяговский Владимир Ильич": 584,
-      "Тренин Алексей Николаевич": 120,
-      "Хот Валерий Владимирович": 47,
-      "Штуркин Владимир Николаевич": 0
+      "gas:candidate-vibid:4234056238349": 0,
+      "gas:candidate-vibid:4234056238140": 48,
+      "gas:candidate-vibid:4234056226051": 0,
+      "gas:candidate-vibid:4234056238639": 584,
+      "gas:candidate-vibid:4234056238262": 120,
+      "gas:candidate-vibid:4234056225742": 47,
+      "gas:candidate-vibid:4234056238794": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/krasnodar?action=show&root=1000066&tvd=4234056224473&vrn=100100067795849&region=23&global=&sub_region=23&prver=0&pronetvd=null&vibid=4234056224473&type=464",
@@ -670,13 +670,13 @@ export const duma_2016_uik_463_region_23_part_011 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Витишко Евгений Геннадиевич": 0,
-      "Ерохин Михаил Викторович": 2,
-      "Заруба Ольга Александровна": 1,
-      "Синяговский Владимир Ильич": 4,
-      "Тренин Алексей Николаевич": 3,
-      "Хот Валерий Владимирович": 1,
-      "Штуркин Владимир Николаевич": 1
+      "gas:candidate-vibid:4234056238349": 0,
+      "gas:candidate-vibid:4234056238140": 2,
+      "gas:candidate-vibid:4234056226051": 1,
+      "gas:candidate-vibid:4234056238639": 4,
+      "gas:candidate-vibid:4234056238262": 3,
+      "gas:candidate-vibid:4234056225742": 1,
+      "gas:candidate-vibid:4234056238794": 1
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/krasnodar?action=show&root=1000066&tvd=4234056224474&vrn=100100067795849&region=23&global=&sub_region=23&prver=0&pronetvd=null&vibid=4234056224474&type=464",
@@ -727,13 +727,13 @@ export const duma_2016_uik_463_region_23_part_011 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Витишко Евгений Геннадиевич": 12,
-      "Ерохин Михаил Викторович": 28,
-      "Заруба Ольга Александровна": 29,
-      "Синяговский Владимир Ильич": 615,
-      "Тренин Алексей Николаевич": 32,
-      "Хот Валерий Владимирович": 33,
-      "Штуркин Владимир Николаевич": 16
+      "gas:candidate-vibid:4234056238349": 12,
+      "gas:candidate-vibid:4234056238140": 28,
+      "gas:candidate-vibid:4234056226051": 29,
+      "gas:candidate-vibid:4234056238639": 615,
+      "gas:candidate-vibid:4234056238262": 32,
+      "gas:candidate-vibid:4234056225742": 33,
+      "gas:candidate-vibid:4234056238794": 16
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/krasnodar?action=show&root=1000066&tvd=4234056224475&vrn=100100067795849&region=23&global=&sub_region=23&prver=0&pronetvd=null&vibid=4234056224475&type=464",
@@ -784,13 +784,13 @@ export const duma_2016_uik_463_region_23_part_011 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Витишко Евгений Геннадиевич": 26,
-      "Ерохин Михаил Викторович": 30,
-      "Заруба Ольга Александровна": 57,
-      "Синяговский Владимир Ильич": 1242,
-      "Тренин Алексей Николаевич": 104,
-      "Хот Валерий Владимирович": 46,
-      "Штуркин Владимир Николаевич": 18
+      "gas:candidate-vibid:4234056238349": 26,
+      "gas:candidate-vibid:4234056238140": 30,
+      "gas:candidate-vibid:4234056226051": 57,
+      "gas:candidate-vibid:4234056238639": 1242,
+      "gas:candidate-vibid:4234056238262": 104,
+      "gas:candidate-vibid:4234056225742": 46,
+      "gas:candidate-vibid:4234056238794": 18
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/krasnodar?action=show&root=1000066&tvd=4234056224475&vrn=100100067795849&region=23&global=&sub_region=23&prver=0&pronetvd=null&vibid=4234056224475&type=464",
@@ -841,13 +841,13 @@ export const duma_2016_uik_463_region_23_part_011 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Витишко Евгений Геннадиевич": 13,
-      "Ерохин Михаил Викторович": 50,
-      "Заруба Ольга Александровна": 82,
-      "Синяговский Владимир Ильич": 1004,
-      "Тренин Алексей Николаевич": 88,
-      "Хот Валерий Владимирович": 87,
-      "Штуркин Владимир Николаевич": 34
+      "gas:candidate-vibid:4234056238349": 13,
+      "gas:candidate-vibid:4234056238140": 50,
+      "gas:candidate-vibid:4234056226051": 82,
+      "gas:candidate-vibid:4234056238639": 1004,
+      "gas:candidate-vibid:4234056238262": 88,
+      "gas:candidate-vibid:4234056225742": 87,
+      "gas:candidate-vibid:4234056238794": 34
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/krasnodar?action=show&root=1000066&tvd=4234056224475&vrn=100100067795849&region=23&global=&sub_region=23&prver=0&pronetvd=null&vibid=4234056224475&type=464",
@@ -898,13 +898,13 @@ export const duma_2016_uik_463_region_23_part_011 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Витишко Евгений Геннадиевич": 18,
-      "Ерохин Михаил Викторович": 93,
-      "Заруба Ольга Александровна": 43,
-      "Синяговский Владимир Ильич": 1152,
-      "Тренин Алексей Николаевич": 171,
-      "Хот Валерий Владимирович": 92,
-      "Штуркин Владимир Николаевич": 20
+      "gas:candidate-vibid:4234056238349": 18,
+      "gas:candidate-vibid:4234056238140": 93,
+      "gas:candidate-vibid:4234056226051": 43,
+      "gas:candidate-vibid:4234056238639": 1152,
+      "gas:candidate-vibid:4234056238262": 171,
+      "gas:candidate-vibid:4234056225742": 92,
+      "gas:candidate-vibid:4234056238794": 20
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/krasnodar?action=show&root=1000066&tvd=4234056224475&vrn=100100067795849&region=23&global=&sub_region=23&prver=0&pronetvd=null&vibid=4234056224475&type=464",
@@ -955,13 +955,13 @@ export const duma_2016_uik_463_region_23_part_011 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Витишко Евгений Геннадиевич": 21,
-      "Ерохин Михаил Викторович": 56,
-      "Заруба Ольга Александровна": 14,
-      "Синяговский Владимир Ильич": 1276,
-      "Тренин Алексей Николаевич": 51,
-      "Хот Валерий Владимирович": 33,
-      "Штуркин Владимир Николаевич": 20
+      "gas:candidate-vibid:4234056238349": 21,
+      "gas:candidate-vibid:4234056238140": 56,
+      "gas:candidate-vibid:4234056226051": 14,
+      "gas:candidate-vibid:4234056238639": 1276,
+      "gas:candidate-vibid:4234056238262": 51,
+      "gas:candidate-vibid:4234056225742": 33,
+      "gas:candidate-vibid:4234056238794": 20
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/krasnodar?action=show&root=1000066&tvd=4234056224475&vrn=100100067795849&region=23&global=&sub_region=23&prver=0&pronetvd=null&vibid=4234056224475&type=464",
@@ -1012,13 +1012,13 @@ export const duma_2016_uik_463_region_23_part_011 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Витишко Евгений Геннадиевич": 76,
-      "Ерохин Михаил Викторович": 149,
-      "Заруба Ольга Александровна": 172,
-      "Синяговский Владимир Ильич": 1167,
-      "Тренин Алексей Николаевич": 176,
-      "Хот Валерий Владимирович": 142,
-      "Штуркин Владимир Николаевич": 59
+      "gas:candidate-vibid:4234056238349": 76,
+      "gas:candidate-vibid:4234056238140": 149,
+      "gas:candidate-vibid:4234056226051": 172,
+      "gas:candidate-vibid:4234056238639": 1167,
+      "gas:candidate-vibid:4234056238262": 176,
+      "gas:candidate-vibid:4234056225742": 142,
+      "gas:candidate-vibid:4234056238794": 59
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/krasnodar?action=show&root=1000066&tvd=4234056224475&vrn=100100067795849&region=23&global=&sub_region=23&prver=0&pronetvd=null&vibid=4234056224475&type=464",
@@ -1069,13 +1069,13 @@ export const duma_2016_uik_463_region_23_part_011 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Витишко Евгений Геннадиевич": 20,
-      "Ерохин Михаил Викторович": 33,
-      "Заруба Ольга Александровна": 47,
-      "Синяговский Владимир Ильич": 277,
-      "Тренин Алексей Николаевич": 25,
-      "Хот Валерий Владимирович": 11,
-      "Штуркин Владимир Николаевич": 8
+      "gas:candidate-vibid:4234056238349": 20,
+      "gas:candidate-vibid:4234056238140": 33,
+      "gas:candidate-vibid:4234056226051": 47,
+      "gas:candidate-vibid:4234056238639": 277,
+      "gas:candidate-vibid:4234056238262": 25,
+      "gas:candidate-vibid:4234056225742": 11,
+      "gas:candidate-vibid:4234056238794": 8
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/krasnodar?action=show&root=1000066&tvd=4234056224475&vrn=100100067795849&region=23&global=&sub_region=23&prver=0&pronetvd=null&vibid=4234056224475&type=464",
@@ -1126,13 +1126,13 @@ export const duma_2016_uik_463_region_23_part_011 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Витишко Евгений Геннадиевич": 13,
-      "Ерохин Михаил Викторович": 23,
-      "Заруба Ольга Александровна": 32,
-      "Синяговский Владимир Ильич": 833,
-      "Тренин Алексей Николаевич": 42,
-      "Хот Валерий Владимирович": 37,
-      "Штуркин Владимир Николаевич": 24
+      "gas:candidate-vibid:4234056238349": 13,
+      "gas:candidate-vibid:4234056238140": 23,
+      "gas:candidate-vibid:4234056226051": 32,
+      "gas:candidate-vibid:4234056238639": 833,
+      "gas:candidate-vibid:4234056238262": 42,
+      "gas:candidate-vibid:4234056225742": 37,
+      "gas:candidate-vibid:4234056238794": 24
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/krasnodar?action=show&root=1000066&tvd=4234056224475&vrn=100100067795849&region=23&global=&sub_region=23&prver=0&pronetvd=null&vibid=4234056224475&type=464",
@@ -1183,13 +1183,13 @@ export const duma_2016_uik_463_region_23_part_011 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Витишко Евгений Геннадиевич": 1,
-      "Ерохин Михаил Викторович": 90,
-      "Заруба Ольга Александровна": 54,
-      "Синяговский Владимир Ильич": 1259,
-      "Тренин Алексей Николаевич": 32,
-      "Хот Валерий Владимирович": 92,
-      "Штуркин Владимир Николаевич": 33
+      "gas:candidate-vibid:4234056238349": 1,
+      "gas:candidate-vibid:4234056238140": 90,
+      "gas:candidate-vibid:4234056226051": 54,
+      "gas:candidate-vibid:4234056238639": 1259,
+      "gas:candidate-vibid:4234056238262": 32,
+      "gas:candidate-vibid:4234056225742": 92,
+      "gas:candidate-vibid:4234056238794": 33
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/krasnodar?action=show&root=1000066&tvd=4234056224475&vrn=100100067795849&region=23&global=&sub_region=23&prver=0&pronetvd=null&vibid=4234056224475&type=464",
@@ -1240,13 +1240,13 @@ export const duma_2016_uik_463_region_23_part_011 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Витишко Евгений Геннадиевич": 13,
-      "Ерохин Михаил Викторович": 32,
-      "Заруба Ольга Александровна": 75,
-      "Синяговский Владимир Ильич": 877,
-      "Тренин Алексей Николаевич": 63,
-      "Хот Валерий Владимирович": 81,
-      "Штуркин Владимир Николаевич": 30
+      "gas:candidate-vibid:4234056238349": 13,
+      "gas:candidate-vibid:4234056238140": 32,
+      "gas:candidate-vibid:4234056226051": 75,
+      "gas:candidate-vibid:4234056238639": 877,
+      "gas:candidate-vibid:4234056238262": 63,
+      "gas:candidate-vibid:4234056225742": 81,
+      "gas:candidate-vibid:4234056238794": 30
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/krasnodar?action=show&root=1000066&tvd=4234056224475&vrn=100100067795849&region=23&global=&sub_region=23&prver=0&pronetvd=null&vibid=4234056224475&type=464",
@@ -1297,13 +1297,13 @@ export const duma_2016_uik_463_region_23_part_011 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Витишко Евгений Геннадиевич": 2,
-      "Ерохин Михаил Викторович": 20,
-      "Заруба Ольга Александровна": 22,
-      "Синяговский Владимир Ильич": 153,
-      "Тренин Алексей Николаевич": 19,
-      "Хот Валерий Владимирович": 22,
-      "Штуркин Владимир Николаевич": 7
+      "gas:candidate-vibid:4234056238349": 2,
+      "gas:candidate-vibid:4234056238140": 20,
+      "gas:candidate-vibid:4234056226051": 22,
+      "gas:candidate-vibid:4234056238639": 153,
+      "gas:candidate-vibid:4234056238262": 19,
+      "gas:candidate-vibid:4234056225742": 22,
+      "gas:candidate-vibid:4234056238794": 7
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/krasnodar?action=show&root=1000066&tvd=4234056224475&vrn=100100067795849&region=23&global=&sub_region=23&prver=0&pronetvd=null&vibid=4234056224475&type=464",
@@ -1354,13 +1354,13 @@ export const duma_2016_uik_463_region_23_part_011 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Витишко Евгений Геннадиевич": 28,
-      "Ерохин Михаил Викторович": 46,
-      "Заруба Ольга Александровна": 76,
-      "Синяговский Владимир Ильич": 934,
-      "Тренин Алексей Николаевич": 83,
-      "Хот Валерий Владимирович": 63,
-      "Штуркин Владимир Николаевич": 31
+      "gas:candidate-vibid:4234056238349": 28,
+      "gas:candidate-vibid:4234056238140": 46,
+      "gas:candidate-vibid:4234056226051": 76,
+      "gas:candidate-vibid:4234056238639": 934,
+      "gas:candidate-vibid:4234056238262": 83,
+      "gas:candidate-vibid:4234056225742": 63,
+      "gas:candidate-vibid:4234056238794": 31
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/krasnodar?action=show&root=1000066&tvd=4234056224475&vrn=100100067795849&region=23&global=&sub_region=23&prver=0&pronetvd=null&vibid=4234056224475&type=464",
@@ -1411,13 +1411,13 @@ export const duma_2016_uik_463_region_23_part_011 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Витишко Евгений Геннадиевич": 17,
-      "Ерохин Михаил Викторович": 30,
-      "Заруба Ольга Александровна": 47,
-      "Синяговский Владимир Ильич": 776,
-      "Тренин Алексей Николаевич": 16,
-      "Хот Валерий Владимирович": 16,
-      "Штуркин Владимир Николаевич": 38
+      "gas:candidate-vibid:4234056238349": 17,
+      "gas:candidate-vibid:4234056238140": 30,
+      "gas:candidate-vibid:4234056226051": 47,
+      "gas:candidate-vibid:4234056238639": 776,
+      "gas:candidate-vibid:4234056238262": 16,
+      "gas:candidate-vibid:4234056225742": 16,
+      "gas:candidate-vibid:4234056238794": 38
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/krasnodar?action=show&root=1000066&tvd=4234056224475&vrn=100100067795849&region=23&global=&sub_region=23&prver=0&pronetvd=null&vibid=4234056224475&type=464",
@@ -1468,13 +1468,13 @@ export const duma_2016_uik_463_region_23_part_011 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Витишко Евгений Геннадиевич": 6,
-      "Ерохин Михаил Викторович": 2,
-      "Заруба Ольга Александровна": 10,
-      "Синяговский Владимир Ильич": 198,
-      "Тренин Алексей Николаевич": 5,
-      "Хот Валерий Владимирович": 6,
-      "Штуркин Владимир Николаевич": 4
+      "gas:candidate-vibid:4234056238349": 6,
+      "gas:candidate-vibid:4234056238140": 2,
+      "gas:candidate-vibid:4234056226051": 10,
+      "gas:candidate-vibid:4234056238639": 198,
+      "gas:candidate-vibid:4234056238262": 5,
+      "gas:candidate-vibid:4234056225742": 6,
+      "gas:candidate-vibid:4234056238794": 4
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/krasnodar?action=show&root=1000066&tvd=4234056224475&vrn=100100067795849&region=23&global=&sub_region=23&prver=0&pronetvd=null&vibid=4234056224475&type=464",
@@ -1525,13 +1525,13 @@ export const duma_2016_uik_463_region_23_part_011 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Витишко Евгений Геннадиевич": 6,
-      "Ерохин Михаил Викторович": 10,
-      "Заруба Ольга Александровна": 5,
-      "Синяговский Владимир Ильич": 142,
-      "Тренин Алексей Николаевич": 2,
-      "Хот Валерий Владимирович": 4,
-      "Штуркин Владимир Николаевич": 0
+      "gas:candidate-vibid:4234056238349": 6,
+      "gas:candidate-vibid:4234056238140": 10,
+      "gas:candidate-vibid:4234056226051": 5,
+      "gas:candidate-vibid:4234056238639": 142,
+      "gas:candidate-vibid:4234056238262": 2,
+      "gas:candidate-vibid:4234056225742": 4,
+      "gas:candidate-vibid:4234056238794": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/krasnodar?action=show&root=1000066&tvd=4234056224475&vrn=100100067795849&region=23&global=&sub_region=23&prver=0&pronetvd=null&vibid=4234056224475&type=464",
@@ -1582,13 +1582,13 @@ export const duma_2016_uik_463_region_23_part_011 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Витишко Евгений Геннадиевич": 25,
-      "Ерохин Михаил Викторович": 37,
-      "Заруба Ольга Александровна": 41,
-      "Синяговский Владимир Ильич": 633,
-      "Тренин Алексей Николаевич": 42,
-      "Хот Валерий Владимирович": 56,
-      "Штуркин Владимир Николаевич": 16
+      "gas:candidate-vibid:4234056238349": 25,
+      "gas:candidate-vibid:4234056238140": 37,
+      "gas:candidate-vibid:4234056226051": 41,
+      "gas:candidate-vibid:4234056238639": 633,
+      "gas:candidate-vibid:4234056238262": 42,
+      "gas:candidate-vibid:4234056225742": 56,
+      "gas:candidate-vibid:4234056238794": 16
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/krasnodar?action=show&root=1000066&tvd=4234056224475&vrn=100100067795849&region=23&global=&sub_region=23&prver=0&pronetvd=null&vibid=4234056224475&type=464",
@@ -1639,13 +1639,13 @@ export const duma_2016_uik_463_region_23_part_011 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Витишко Евгений Геннадиевич": 9,
-      "Ерохин Михаил Викторович": 13,
-      "Заруба Ольга Александровна": 31,
-      "Синяговский Владимир Ильич": 386,
-      "Тренин Алексей Николаевич": 17,
-      "Хот Валерий Владимирович": 12,
-      "Штуркин Владимир Николаевич": 4
+      "gas:candidate-vibid:4234056238349": 9,
+      "gas:candidate-vibid:4234056238140": 13,
+      "gas:candidate-vibid:4234056226051": 31,
+      "gas:candidate-vibid:4234056238639": 386,
+      "gas:candidate-vibid:4234056238262": 17,
+      "gas:candidate-vibid:4234056225742": 12,
+      "gas:candidate-vibid:4234056238794": 4
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/krasnodar?action=show&root=1000066&tvd=4234056224475&vrn=100100067795849&region=23&global=&sub_region=23&prver=0&pronetvd=null&vibid=4234056224475&type=464",
@@ -1696,13 +1696,13 @@ export const duma_2016_uik_463_region_23_part_011 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Витишко Евгений Геннадиевич": 13,
-      "Ерохин Михаил Викторович": 37,
-      "Заруба Ольга Александровна": 54,
-      "Синяговский Владимир Ильич": 1160,
-      "Тренин Алексей Николаевич": 70,
-      "Хот Валерий Владимирович": 65,
-      "Штуркин Владимир Николаевич": 24
+      "gas:candidate-vibid:4234056238349": 13,
+      "gas:candidate-vibid:4234056238140": 37,
+      "gas:candidate-vibid:4234056226051": 54,
+      "gas:candidate-vibid:4234056238639": 1160,
+      "gas:candidate-vibid:4234056238262": 70,
+      "gas:candidate-vibid:4234056225742": 65,
+      "gas:candidate-vibid:4234056238794": 24
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/krasnodar?action=show&root=1000066&tvd=4234056224475&vrn=100100067795849&region=23&global=&sub_region=23&prver=0&pronetvd=null&vibid=4234056224475&type=464",
@@ -1753,13 +1753,13 @@ export const duma_2016_uik_463_region_23_part_011 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Витишко Евгений Геннадиевич": 21,
-      "Ерохин Михаил Викторович": 41,
-      "Заруба Ольга Александровна": 65,
-      "Синяговский Владимир Ильич": 864,
-      "Тренин Алексей Николаевич": 75,
-      "Хот Валерий Владимирович": 73,
-      "Штуркин Владимир Николаевич": 32
+      "gas:candidate-vibid:4234056238349": 21,
+      "gas:candidate-vibid:4234056238140": 41,
+      "gas:candidate-vibid:4234056226051": 65,
+      "gas:candidate-vibid:4234056238639": 864,
+      "gas:candidate-vibid:4234056238262": 75,
+      "gas:candidate-vibid:4234056225742": 73,
+      "gas:candidate-vibid:4234056238794": 32
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/krasnodar?action=show&root=1000066&tvd=4234056224475&vrn=100100067795849&region=23&global=&sub_region=23&prver=0&pronetvd=null&vibid=4234056224475&type=464",
@@ -1810,13 +1810,13 @@ export const duma_2016_uik_463_region_23_part_011 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Витишко Евгений Геннадиевич": 8,
-      "Ерохин Михаил Викторович": 11,
-      "Заруба Ольга Александровна": 43,
-      "Синяговский Владимир Ильич": 899,
-      "Тренин Алексей Николаевич": 86,
-      "Хот Валерий Владимирович": 44,
-      "Штуркин Владимир Николаевич": 21
+      "gas:candidate-vibid:4234056238349": 8,
+      "gas:candidate-vibid:4234056238140": 11,
+      "gas:candidate-vibid:4234056226051": 43,
+      "gas:candidate-vibid:4234056238639": 899,
+      "gas:candidate-vibid:4234056238262": 86,
+      "gas:candidate-vibid:4234056225742": 44,
+      "gas:candidate-vibid:4234056238794": 21
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/krasnodar?action=show&root=1000066&tvd=4234056224475&vrn=100100067795849&region=23&global=&sub_region=23&prver=0&pronetvd=null&vibid=4234056224475&type=464",
@@ -1867,13 +1867,13 @@ export const duma_2016_uik_463_region_23_part_011 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Витишко Евгений Геннадиевич": 15,
-      "Ерохин Михаил Викторович": 45,
-      "Заруба Ольга Александровна": 71,
-      "Синяговский Владимир Ильич": 966,
-      "Тренин Алексей Николаевич": 79,
-      "Хот Валерий Владимирович": 69,
-      "Штуркин Владимир Николаевич": 15
+      "gas:candidate-vibid:4234056238349": 15,
+      "gas:candidate-vibid:4234056238140": 45,
+      "gas:candidate-vibid:4234056226051": 71,
+      "gas:candidate-vibid:4234056238639": 966,
+      "gas:candidate-vibid:4234056238262": 79,
+      "gas:candidate-vibid:4234056225742": 69,
+      "gas:candidate-vibid:4234056238794": 15
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/krasnodar?action=show&root=1000066&tvd=4234056224475&vrn=100100067795849&region=23&global=&sub_region=23&prver=0&pronetvd=null&vibid=4234056224475&type=464",
@@ -1924,13 +1924,13 @@ export const duma_2016_uik_463_region_23_part_011 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Витишко Евгений Геннадиевич": 10,
-      "Ерохин Михаил Викторович": 35,
-      "Заруба Ольга Александровна": 35,
-      "Синяговский Владимир Ильич": 823,
-      "Тренин Алексей Николаевич": 74,
-      "Хот Валерий Владимирович": 70,
-      "Штуркин Владимир Николаевич": 19
+      "gas:candidate-vibid:4234056238349": 10,
+      "gas:candidate-vibid:4234056238140": 35,
+      "gas:candidate-vibid:4234056226051": 35,
+      "gas:candidate-vibid:4234056238639": 823,
+      "gas:candidate-vibid:4234056238262": 74,
+      "gas:candidate-vibid:4234056225742": 70,
+      "gas:candidate-vibid:4234056238794": 19
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/krasnodar?action=show&root=1000066&tvd=4234056224475&vrn=100100067795849&region=23&global=&sub_region=23&prver=0&pronetvd=null&vibid=4234056224475&type=464",
@@ -1981,13 +1981,13 @@ export const duma_2016_uik_463_region_23_part_011 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Витишко Евгений Геннадиевич": 19,
-      "Ерохин Михаил Викторович": 42,
-      "Заруба Ольга Александровна": 56,
-      "Синяговский Владимир Ильич": 891,
-      "Тренин Алексей Николаевич": 76,
-      "Хот Валерий Владимирович": 63,
-      "Штуркин Владимир Николаевич": 41
+      "gas:candidate-vibid:4234056238349": 19,
+      "gas:candidate-vibid:4234056238140": 42,
+      "gas:candidate-vibid:4234056226051": 56,
+      "gas:candidate-vibid:4234056238639": 891,
+      "gas:candidate-vibid:4234056238262": 76,
+      "gas:candidate-vibid:4234056225742": 63,
+      "gas:candidate-vibid:4234056238794": 41
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/krasnodar?action=show&root=1000066&tvd=4234056224475&vrn=100100067795849&region=23&global=&sub_region=23&prver=0&pronetvd=null&vibid=4234056224475&type=464",
@@ -2038,13 +2038,13 @@ export const duma_2016_uik_463_region_23_part_011 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Витишко Евгений Геннадиевич": 21,
-      "Ерохин Михаил Викторович": 33,
-      "Заруба Ольга Александровна": 55,
-      "Синяговский Владимир Ильич": 630,
-      "Тренин Алексей Николаевич": 71,
-      "Хот Валерий Владимирович": 62,
-      "Штуркин Владимир Николаевич": 29
+      "gas:candidate-vibid:4234056238349": 21,
+      "gas:candidate-vibid:4234056238140": 33,
+      "gas:candidate-vibid:4234056226051": 55,
+      "gas:candidate-vibid:4234056238639": 630,
+      "gas:candidate-vibid:4234056238262": 71,
+      "gas:candidate-vibid:4234056225742": 62,
+      "gas:candidate-vibid:4234056238794": 29
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/krasnodar?action=show&root=1000066&tvd=4234056224475&vrn=100100067795849&region=23&global=&sub_region=23&prver=0&pronetvd=null&vibid=4234056224475&type=464",
@@ -2095,13 +2095,13 @@ export const duma_2016_uik_463_region_23_part_011 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Витишко Евгений Геннадиевич": 19,
-      "Ерохин Михаил Викторович": 47,
-      "Заруба Ольга Александровна": 72,
-      "Синяговский Владимир Ильич": 306,
-      "Тренин Алексей Николаевич": 96,
-      "Хот Валерий Владимирович": 85,
-      "Штуркин Владимир Николаевич": 25
+      "gas:candidate-vibid:4234056238349": 19,
+      "gas:candidate-vibid:4234056238140": 47,
+      "gas:candidate-vibid:4234056226051": 72,
+      "gas:candidate-vibid:4234056238639": 306,
+      "gas:candidate-vibid:4234056238262": 96,
+      "gas:candidate-vibid:4234056225742": 85,
+      "gas:candidate-vibid:4234056238794": 25
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/krasnodar?action=show&root=1000066&tvd=4234056224475&vrn=100100067795849&region=23&global=&sub_region=23&prver=0&pronetvd=null&vibid=4234056224475&type=464",
@@ -2152,13 +2152,13 @@ export const duma_2016_uik_463_region_23_part_011 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Витишко Евгений Геннадиевич": 7,
-      "Ерохин Михаил Викторович": 29,
-      "Заруба Ольга Александровна": 60,
-      "Синяговский Владимир Ильич": 482,
-      "Тренин Алексей Николаевич": 70,
-      "Хот Валерий Владимирович": 52,
-      "Штуркин Владимир Николаевич": 21
+      "gas:candidate-vibid:4234056238349": 7,
+      "gas:candidate-vibid:4234056238140": 29,
+      "gas:candidate-vibid:4234056226051": 60,
+      "gas:candidate-vibid:4234056238639": 482,
+      "gas:candidate-vibid:4234056238262": 70,
+      "gas:candidate-vibid:4234056225742": 52,
+      "gas:candidate-vibid:4234056238794": 21
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/krasnodar?action=show&root=1000066&tvd=4234056224475&vrn=100100067795849&region=23&global=&sub_region=23&prver=0&pronetvd=null&vibid=4234056224475&type=464",
@@ -2209,13 +2209,13 @@ export const duma_2016_uik_463_region_23_part_011 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Витишко Евгений Геннадиевич": 13,
-      "Ерохин Михаил Викторович": 24,
-      "Заруба Ольга Александровна": 35,
-      "Синяговский Владимир Ильич": 468,
-      "Тренин Алексей Николаевич": 80,
-      "Хот Валерий Владимирович": 85,
-      "Штуркин Владимир Николаевич": 17
+      "gas:candidate-vibid:4234056238349": 13,
+      "gas:candidate-vibid:4234056238140": 24,
+      "gas:candidate-vibid:4234056226051": 35,
+      "gas:candidate-vibid:4234056238639": 468,
+      "gas:candidate-vibid:4234056238262": 80,
+      "gas:candidate-vibid:4234056225742": 85,
+      "gas:candidate-vibid:4234056238794": 17
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/krasnodar?action=show&root=1000066&tvd=4234056224475&vrn=100100067795849&region=23&global=&sub_region=23&prver=0&pronetvd=null&vibid=4234056224475&type=464",
@@ -2266,13 +2266,13 @@ export const duma_2016_uik_463_region_23_part_011 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Витишко Евгений Геннадиевич": 17,
-      "Ерохин Михаил Викторович": 25,
-      "Заруба Ольга Александровна": 34,
-      "Синяговский Владимир Ильич": 300,
-      "Тренин Алексей Николаевич": 78,
-      "Хот Валерий Владимирович": 39,
-      "Штуркин Владимир Николаевич": 24
+      "gas:candidate-vibid:4234056238349": 17,
+      "gas:candidate-vibid:4234056238140": 25,
+      "gas:candidate-vibid:4234056226051": 34,
+      "gas:candidate-vibid:4234056238639": 300,
+      "gas:candidate-vibid:4234056238262": 78,
+      "gas:candidate-vibid:4234056225742": 39,
+      "gas:candidate-vibid:4234056238794": 24
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/krasnodar?action=show&root=1000066&tvd=4234056224475&vrn=100100067795849&region=23&global=&sub_region=23&prver=0&pronetvd=null&vibid=4234056224475&type=464",
@@ -2323,13 +2323,13 @@ export const duma_2016_uik_463_region_23_part_011 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Витишко Евгений Геннадиевич": 9,
-      "Ерохин Михаил Викторович": 38,
-      "Заруба Ольга Александровна": 36,
-      "Синяговский Владимир Ильич": 763,
-      "Тренин Алексей Николаевич": 70,
-      "Хот Валерий Владимирович": 49,
-      "Штуркин Владимир Николаевич": 19
+      "gas:candidate-vibid:4234056238349": 9,
+      "gas:candidate-vibid:4234056238140": 38,
+      "gas:candidate-vibid:4234056226051": 36,
+      "gas:candidate-vibid:4234056238639": 763,
+      "gas:candidate-vibid:4234056238262": 70,
+      "gas:candidate-vibid:4234056225742": 49,
+      "gas:candidate-vibid:4234056238794": 19
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/krasnodar?action=show&root=1000066&tvd=4234056224475&vrn=100100067795849&region=23&global=&sub_region=23&prver=0&pronetvd=null&vibid=4234056224475&type=464",
@@ -2380,13 +2380,13 @@ export const duma_2016_uik_463_region_23_part_011 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Витишко Евгений Геннадиевич": 12,
-      "Ерохин Михаил Викторович": 11,
-      "Заруба Ольга Александровна": 29,
-      "Синяговский Владимир Ильич": 230,
-      "Тренин Алексей Николаевич": 31,
-      "Хот Валерий Владимирович": 26,
-      "Штуркин Владимир Николаевич": 7
+      "gas:candidate-vibid:4234056238349": 12,
+      "gas:candidate-vibid:4234056238140": 11,
+      "gas:candidate-vibid:4234056226051": 29,
+      "gas:candidate-vibid:4234056238639": 230,
+      "gas:candidate-vibid:4234056238262": 31,
+      "gas:candidate-vibid:4234056225742": 26,
+      "gas:candidate-vibid:4234056238794": 7
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/krasnodar?action=show&root=1000066&tvd=4234056224475&vrn=100100067795849&region=23&global=&sub_region=23&prver=0&pronetvd=null&vibid=4234056224475&type=464",
@@ -2437,13 +2437,13 @@ export const duma_2016_uik_463_region_23_part_011 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Витишко Евгений Геннадиевич": 5,
-      "Ерохин Михаил Викторович": 12,
-      "Заруба Ольга Александровна": 34,
-      "Синяговский Владимир Ильич": 794,
-      "Тренин Алексей Николаевич": 44,
-      "Хот Валерий Владимирович": 40,
-      "Штуркин Владимир Николаевич": 13
+      "gas:candidate-vibid:4234056238349": 5,
+      "gas:candidate-vibid:4234056238140": 12,
+      "gas:candidate-vibid:4234056226051": 34,
+      "gas:candidate-vibid:4234056238639": 794,
+      "gas:candidate-vibid:4234056238262": 44,
+      "gas:candidate-vibid:4234056225742": 40,
+      "gas:candidate-vibid:4234056238794": 13
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/krasnodar?action=show&root=1000066&tvd=4234056224475&vrn=100100067795849&region=23&global=&sub_region=23&prver=0&pronetvd=null&vibid=4234056224475&type=464",
@@ -2494,13 +2494,13 @@ export const duma_2016_uik_463_region_23_part_011 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Витишко Евгений Геннадиевич": 2,
-      "Ерохин Михаил Викторович": 22,
-      "Заруба Ольга Александровна": 30,
-      "Синяговский Владимир Ильич": 692,
-      "Тренин Алексей Николаевич": 30,
-      "Хот Валерий Владимирович": 45,
-      "Штуркин Владимир Николаевич": 13
+      "gas:candidate-vibid:4234056238349": 2,
+      "gas:candidate-vibid:4234056238140": 22,
+      "gas:candidate-vibid:4234056226051": 30,
+      "gas:candidate-vibid:4234056238639": 692,
+      "gas:candidate-vibid:4234056238262": 30,
+      "gas:candidate-vibid:4234056225742": 45,
+      "gas:candidate-vibid:4234056238794": 13
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/krasnodar?action=show&root=1000066&tvd=4234056224475&vrn=100100067795849&region=23&global=&sub_region=23&prver=0&pronetvd=null&vibid=4234056224475&type=464",
@@ -2551,13 +2551,13 @@ export const duma_2016_uik_463_region_23_part_011 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Витишко Евгений Геннадиевич": 17,
-      "Ерохин Михаил Викторович": 36,
-      "Заруба Ольга Александровна": 59,
-      "Синяговский Владимир Ильич": 659,
-      "Тренин Алексей Николаевич": 159,
-      "Хот Валерий Владимирович": 110,
-      "Штуркин Владимир Николаевич": 20
+      "gas:candidate-vibid:4234056238349": 17,
+      "gas:candidate-vibid:4234056238140": 36,
+      "gas:candidate-vibid:4234056226051": 59,
+      "gas:candidate-vibid:4234056238639": 659,
+      "gas:candidate-vibid:4234056238262": 159,
+      "gas:candidate-vibid:4234056225742": 110,
+      "gas:candidate-vibid:4234056238794": 20
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/krasnodar?action=show&root=1000066&tvd=4234056224475&vrn=100100067795849&region=23&global=&sub_region=23&prver=0&pronetvd=null&vibid=4234056224475&type=464",
@@ -2608,13 +2608,13 @@ export const duma_2016_uik_463_region_23_part_011 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Витишко Евгений Геннадиевич": 6,
-      "Ерохин Михаил Викторович": 12,
-      "Заруба Ольга Александровна": 23,
-      "Синяговский Владимир Ильич": 346,
-      "Тренин Алексей Николаевич": 40,
-      "Хот Валерий Владимирович": 49,
-      "Штуркин Владимир Николаевич": 11
+      "gas:candidate-vibid:4234056238349": 6,
+      "gas:candidate-vibid:4234056238140": 12,
+      "gas:candidate-vibid:4234056226051": 23,
+      "gas:candidate-vibid:4234056238639": 346,
+      "gas:candidate-vibid:4234056238262": 40,
+      "gas:candidate-vibid:4234056225742": 49,
+      "gas:candidate-vibid:4234056238794": 11
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/krasnodar?action=show&root=1000066&tvd=4234056224475&vrn=100100067795849&region=23&global=&sub_region=23&prver=0&pronetvd=null&vibid=4234056224475&type=464",
@@ -2665,13 +2665,13 @@ export const duma_2016_uik_463_region_23_part_011 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Витишко Евгений Геннадиевич": 23,
-      "Ерохин Михаил Викторович": 28,
-      "Заруба Ольга Александровна": 60,
-      "Синяговский Владимир Ильич": 117,
-      "Тренин Алексей Николаевич": 69,
-      "Хот Валерий Владимирович": 18,
-      "Штуркин Владимир Николаевич": 30
+      "gas:candidate-vibid:4234056238349": 23,
+      "gas:candidate-vibid:4234056238140": 28,
+      "gas:candidate-vibid:4234056226051": 60,
+      "gas:candidate-vibid:4234056238639": 117,
+      "gas:candidate-vibid:4234056238262": 69,
+      "gas:candidate-vibid:4234056225742": 18,
+      "gas:candidate-vibid:4234056238794": 30
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/krasnodar?action=show&root=1000066&tvd=4234056224475&vrn=100100067795849&region=23&global=&sub_region=23&prver=0&pronetvd=null&vibid=4234056224475&type=464",
@@ -2722,13 +2722,13 @@ export const duma_2016_uik_463_region_23_part_011 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Витишко Евгений Геннадиевич": 0,
-      "Ерохин Михаил Викторович": 4,
-      "Заруба Ольга Александровна": 4,
-      "Синяговский Владимир Ильич": 99,
-      "Тренин Алексей Николаевич": 9,
-      "Хот Валерий Владимирович": 4,
-      "Штуркин Владимир Николаевич": 3
+      "gas:candidate-vibid:4234056238349": 0,
+      "gas:candidate-vibid:4234056238140": 4,
+      "gas:candidate-vibid:4234056226051": 4,
+      "gas:candidate-vibid:4234056238639": 99,
+      "gas:candidate-vibid:4234056238262": 9,
+      "gas:candidate-vibid:4234056225742": 4,
+      "gas:candidate-vibid:4234056238794": 3
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/krasnodar?action=show&root=1000066&tvd=4234056224475&vrn=100100067795849&region=23&global=&sub_region=23&prver=0&pronetvd=null&vibid=4234056224475&type=464",
@@ -2779,13 +2779,13 @@ export const duma_2016_uik_463_region_23_part_011 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Витишко Евгений Геннадиевич": 3,
-      "Ерохин Михаил Викторович": 10,
-      "Заруба Ольга Александровна": 13,
-      "Синяговский Владимир Ильич": 158,
-      "Тренин Алексей Николаевич": 8,
-      "Хот Валерий Владимирович": 26,
-      "Штуркин Владимир Николаевич": 3
+      "gas:candidate-vibid:4234056238349": 3,
+      "gas:candidate-vibid:4234056238140": 10,
+      "gas:candidate-vibid:4234056226051": 13,
+      "gas:candidate-vibid:4234056238639": 158,
+      "gas:candidate-vibid:4234056238262": 8,
+      "gas:candidate-vibid:4234056225742": 26,
+      "gas:candidate-vibid:4234056238794": 3
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/krasnodar?action=show&root=1000066&tvd=4234056224475&vrn=100100067795849&region=23&global=&sub_region=23&prver=0&pronetvd=null&vibid=4234056224475&type=464",
@@ -2836,13 +2836,13 @@ export const duma_2016_uik_463_region_23_part_011 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Витишко Евгений Геннадиевич": 8,
-      "Ерохин Михаил Викторович": 53,
-      "Заруба Ольга Александровна": 52,
-      "Синяговский Владимир Ильич": 776,
-      "Тренин Алексей Николаевич": 39,
-      "Хот Валерий Владимирович": 37,
-      "Штуркин Владимир Николаевич": 10
+      "gas:candidate-vibid:4234056238349": 8,
+      "gas:candidate-vibid:4234056238140": 53,
+      "gas:candidate-vibid:4234056226051": 52,
+      "gas:candidate-vibid:4234056238639": 776,
+      "gas:candidate-vibid:4234056238262": 39,
+      "gas:candidate-vibid:4234056225742": 37,
+      "gas:candidate-vibid:4234056238794": 10
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/krasnodar?action=show&root=1000066&tvd=4234056224475&vrn=100100067795849&region=23&global=&sub_region=23&prver=0&pronetvd=null&vibid=4234056224475&type=464",
@@ -2893,13 +2893,13 @@ export const duma_2016_uik_463_region_23_part_011 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Витишко Евгений Геннадиевич": 2,
-      "Ерохин Михаил Викторович": 7,
-      "Заруба Ольга Александровна": 6,
-      "Синяговский Владимир Ильич": 154,
-      "Тренин Алексей Николаевич": 11,
-      "Хот Валерий Владимирович": 2,
-      "Штуркин Владимир Николаевич": 1
+      "gas:candidate-vibid:4234056238349": 2,
+      "gas:candidate-vibid:4234056238140": 7,
+      "gas:candidate-vibid:4234056226051": 6,
+      "gas:candidate-vibid:4234056238639": 154,
+      "gas:candidate-vibid:4234056238262": 11,
+      "gas:candidate-vibid:4234056225742": 2,
+      "gas:candidate-vibid:4234056238794": 1
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/krasnodar?action=show&root=1000066&tvd=4234056224475&vrn=100100067795849&region=23&global=&sub_region=23&prver=0&pronetvd=null&vibid=4234056224475&type=464",
@@ -2950,13 +2950,13 @@ export const duma_2016_uik_463_region_23_part_011 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Витишко Евгений Геннадиевич": 29,
-      "Ерохин Михаил Викторович": 48,
-      "Заруба Ольга Александровна": 80,
-      "Синяговский Владимир Ильич": 416,
-      "Тренин Алексей Николаевич": 179,
-      "Хот Валерий Владимирович": 117,
-      "Штуркин Владимир Николаевич": 58
+      "gas:candidate-vibid:4234056238349": 29,
+      "gas:candidate-vibid:4234056238140": 48,
+      "gas:candidate-vibid:4234056226051": 80,
+      "gas:candidate-vibid:4234056238639": 416,
+      "gas:candidate-vibid:4234056238262": 179,
+      "gas:candidate-vibid:4234056225742": 117,
+      "gas:candidate-vibid:4234056238794": 58
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/krasnodar?action=show&root=1000066&tvd=4234056224475&vrn=100100067795849&region=23&global=&sub_region=23&prver=0&pronetvd=null&vibid=4234056224475&type=464",
@@ -3007,13 +3007,13 @@ export const duma_2016_uik_463_region_23_part_011 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Витишко Евгений Геннадиевич": 14,
-      "Ерохин Михаил Викторович": 52,
-      "Заруба Ольга Александровна": 88,
-      "Синяговский Владимир Ильич": 794,
-      "Тренин Алексей Николаевич": 175,
-      "Хот Валерий Владимирович": 81,
-      "Штуркин Владимир Николаевич": 33
+      "gas:candidate-vibid:4234056238349": 14,
+      "gas:candidate-vibid:4234056238140": 52,
+      "gas:candidate-vibid:4234056226051": 88,
+      "gas:candidate-vibid:4234056238639": 794,
+      "gas:candidate-vibid:4234056238262": 175,
+      "gas:candidate-vibid:4234056225742": 81,
+      "gas:candidate-vibid:4234056238794": 33
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/krasnodar?action=show&root=1000066&tvd=4234056224475&vrn=100100067795849&region=23&global=&sub_region=23&prver=0&pronetvd=null&vibid=4234056224475&type=464",
@@ -3064,13 +3064,13 @@ export const duma_2016_uik_463_region_23_part_011 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Витишко Евгений Геннадиевич": 13,
-      "Ерохин Михаил Викторович": 3,
-      "Заруба Ольга Александровна": 20,
-      "Синяговский Владимир Ильич": 161,
-      "Тренин Алексей Николаевич": 46,
-      "Хот Валерий Владимирович": 29,
-      "Штуркин Владимир Николаевич": 3
+      "gas:candidate-vibid:4234056238349": 13,
+      "gas:candidate-vibid:4234056238140": 3,
+      "gas:candidate-vibid:4234056226051": 20,
+      "gas:candidate-vibid:4234056238639": 161,
+      "gas:candidate-vibid:4234056238262": 46,
+      "gas:candidate-vibid:4234056225742": 29,
+      "gas:candidate-vibid:4234056238794": 3
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/krasnodar?action=show&root=1000066&tvd=4234056224475&vrn=100100067795849&region=23&global=&sub_region=23&prver=0&pronetvd=null&vibid=4234056224475&type=464",
@@ -3121,13 +3121,13 @@ export const duma_2016_uik_463_region_23_part_011 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Витишко Евгений Геннадиевич": 217,
-      "Ерохин Михаил Викторович": 141,
-      "Заруба Ольга Александровна": 95,
-      "Синяговский Владимир Ильич": 1113,
-      "Тренин Алексей Николаевич": 313,
-      "Хот Валерий Владимирович": 105,
-      "Штуркин Владимир Николаевич": 42
+      "gas:candidate-vibid:4234056238349": 217,
+      "gas:candidate-vibid:4234056238140": 141,
+      "gas:candidate-vibid:4234056226051": 95,
+      "gas:candidate-vibid:4234056238639": 1113,
+      "gas:candidate-vibid:4234056238262": 313,
+      "gas:candidate-vibid:4234056225742": 105,
+      "gas:candidate-vibid:4234056238794": 42
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/krasnodar?action=show&root=1000066&tvd=4234056224475&vrn=100100067795849&region=23&global=&sub_region=23&prver=0&pronetvd=null&vibid=4234056224475&type=464",
@@ -3178,13 +3178,13 @@ export const duma_2016_uik_463_region_23_part_011 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Витишко Евгений Геннадиевич": 46,
-      "Ерохин Михаил Викторович": 70,
-      "Заруба Ольга Александровна": 112,
-      "Синяговский Владимир Ильич": 1170,
-      "Тренин Алексей Николаевич": 151,
-      "Хот Валерий Владимирович": 130,
-      "Штуркин Владимир Николаевич": 200
+      "gas:candidate-vibid:4234056238349": 46,
+      "gas:candidate-vibid:4234056238140": 70,
+      "gas:candidate-vibid:4234056226051": 112,
+      "gas:candidate-vibid:4234056238639": 1170,
+      "gas:candidate-vibid:4234056238262": 151,
+      "gas:candidate-vibid:4234056225742": 130,
+      "gas:candidate-vibid:4234056238794": 200
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/krasnodar?action=show&root=1000066&tvd=4234056224475&vrn=100100067795849&region=23&global=&sub_region=23&prver=0&pronetvd=null&vibid=4234056224475&type=464",
@@ -3235,13 +3235,13 @@ export const duma_2016_uik_463_region_23_part_011 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Витишко Евгений Геннадиевич": 140,
-      "Ерохин Михаил Викторович": 74,
-      "Заруба Ольга Александровна": 243,
-      "Синяговский Владимир Ильич": 360,
-      "Тренин Алексей Николаевич": 158,
-      "Хот Валерий Владимирович": 159,
-      "Штуркин Владимир Николаевич": 52
+      "gas:candidate-vibid:4234056238349": 140,
+      "gas:candidate-vibid:4234056238140": 74,
+      "gas:candidate-vibid:4234056226051": 243,
+      "gas:candidate-vibid:4234056238639": 360,
+      "gas:candidate-vibid:4234056238262": 158,
+      "gas:candidate-vibid:4234056225742": 159,
+      "gas:candidate-vibid:4234056238794": 52
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/krasnodar?action=show&root=1000066&tvd=4234056224475&vrn=100100067795849&region=23&global=&sub_region=23&prver=0&pronetvd=null&vibid=4234056224475&type=464",
@@ -3292,13 +3292,13 @@ export const duma_2016_uik_463_region_23_part_011 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Витишко Евгений Геннадиевич": 9,
-      "Ерохин Михаил Викторович": 38,
-      "Заруба Ольга Александровна": 59,
-      "Синяговский Владимир Ильич": 606,
-      "Тренин Алексей Николаевич": 80,
-      "Хот Валерий Владимирович": 63,
-      "Штуркин Владимир Николаевич": 24
+      "gas:candidate-vibid:4234056238349": 9,
+      "gas:candidate-vibid:4234056238140": 38,
+      "gas:candidate-vibid:4234056226051": 59,
+      "gas:candidate-vibid:4234056238639": 606,
+      "gas:candidate-vibid:4234056238262": 80,
+      "gas:candidate-vibid:4234056225742": 63,
+      "gas:candidate-vibid:4234056238794": 24
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/krasnodar?action=show&root=1000066&tvd=4234056224475&vrn=100100067795849&region=23&global=&sub_region=23&prver=0&pronetvd=null&vibid=4234056224475&type=464",
@@ -3349,13 +3349,13 @@ export const duma_2016_uik_463_region_23_part_011 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Витишко Евгений Геннадиевич": 20,
-      "Ерохин Михаил Викторович": 59,
-      "Заруба Ольга Александровна": 49,
-      "Синяговский Владимир Ильич": 1026,
-      "Тренин Алексей Николаевич": 103,
-      "Хот Валерий Владимирович": 72,
-      "Штуркин Владимир Николаевич": 25
+      "gas:candidate-vibid:4234056238349": 20,
+      "gas:candidate-vibid:4234056238140": 59,
+      "gas:candidate-vibid:4234056226051": 49,
+      "gas:candidate-vibid:4234056238639": 1026,
+      "gas:candidate-vibid:4234056238262": 103,
+      "gas:candidate-vibid:4234056225742": 72,
+      "gas:candidate-vibid:4234056238794": 25
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/krasnodar?action=show&root=1000066&tvd=4234056224475&vrn=100100067795849&region=23&global=&sub_region=23&prver=0&pronetvd=null&vibid=4234056224475&type=464",
@@ -3406,13 +3406,13 @@ export const duma_2016_uik_463_region_23_part_011 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Витишко Евгений Геннадиевич": 20,
-      "Ерохин Михаил Викторович": 42,
-      "Заруба Ольга Александровна": 59,
-      "Синяговский Владимир Ильич": 659,
-      "Тренин Алексей Николаевич": 97,
-      "Хот Валерий Владимирович": 81,
-      "Штуркин Владимир Николаевич": 24
+      "gas:candidate-vibid:4234056238349": 20,
+      "gas:candidate-vibid:4234056238140": 42,
+      "gas:candidate-vibid:4234056226051": 59,
+      "gas:candidate-vibid:4234056238639": 659,
+      "gas:candidate-vibid:4234056238262": 97,
+      "gas:candidate-vibid:4234056225742": 81,
+      "gas:candidate-vibid:4234056238794": 24
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/krasnodar?action=show&root=1000066&tvd=4234056224475&vrn=100100067795849&region=23&global=&sub_region=23&prver=0&pronetvd=null&vibid=4234056224475&type=464",
@@ -3463,13 +3463,13 @@ export const duma_2016_uik_463_region_23_part_011 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Витишко Евгений Геннадиевич": 13,
-      "Ерохин Михаил Викторович": 27,
-      "Заруба Ольга Александровна": 74,
-      "Синяговский Владимир Ильич": 328,
-      "Тренин Алексей Николаевич": 106,
-      "Хот Валерий Владимирович": 78,
-      "Штуркин Владимир Николаевич": 32
+      "gas:candidate-vibid:4234056238349": 13,
+      "gas:candidate-vibid:4234056238140": 27,
+      "gas:candidate-vibid:4234056226051": 74,
+      "gas:candidate-vibid:4234056238639": 328,
+      "gas:candidate-vibid:4234056238262": 106,
+      "gas:candidate-vibid:4234056225742": 78,
+      "gas:candidate-vibid:4234056238794": 32
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/krasnodar?action=show&root=1000066&tvd=4234056224475&vrn=100100067795849&region=23&global=&sub_region=23&prver=0&pronetvd=null&vibid=4234056224475&type=464",
@@ -3520,13 +3520,13 @@ export const duma_2016_uik_463_region_23_part_011 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Витишко Евгений Геннадиевич": 21,
-      "Ерохин Михаил Викторович": 29,
-      "Заруба Ольга Александровна": 53,
-      "Синяговский Владимир Ильич": 194,
-      "Тренин Алексей Николаевич": 97,
-      "Хот Валерий Владимирович": 76,
-      "Штуркин Владимир Николаевич": 30
+      "gas:candidate-vibid:4234056238349": 21,
+      "gas:candidate-vibid:4234056238140": 29,
+      "gas:candidate-vibid:4234056226051": 53,
+      "gas:candidate-vibid:4234056238639": 194,
+      "gas:candidate-vibid:4234056238262": 97,
+      "gas:candidate-vibid:4234056225742": 76,
+      "gas:candidate-vibid:4234056238794": 30
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/krasnodar?action=show&root=1000066&tvd=4234056224475&vrn=100100067795849&region=23&global=&sub_region=23&prver=0&pronetvd=null&vibid=4234056224475&type=464",
@@ -3577,13 +3577,13 @@ export const duma_2016_uik_463_region_23_part_011 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Витишко Евгений Геннадиевич": 13,
-      "Ерохин Михаил Викторович": 35,
-      "Заруба Ольга Александровна": 58,
-      "Синяговский Владимир Ильич": 571,
-      "Тренин Алексей Николаевич": 85,
-      "Хот Валерий Владимирович": 95,
-      "Штуркин Владимир Николаевич": 31
+      "gas:candidate-vibid:4234056238349": 13,
+      "gas:candidate-vibid:4234056238140": 35,
+      "gas:candidate-vibid:4234056226051": 58,
+      "gas:candidate-vibid:4234056238639": 571,
+      "gas:candidate-vibid:4234056238262": 85,
+      "gas:candidate-vibid:4234056225742": 95,
+      "gas:candidate-vibid:4234056238794": 31
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/krasnodar?action=show&root=1000066&tvd=4234056224475&vrn=100100067795849&region=23&global=&sub_region=23&prver=0&pronetvd=null&vibid=4234056224475&type=464",
@@ -3634,13 +3634,13 @@ export const duma_2016_uik_463_region_23_part_011 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Витишко Евгений Геннадиевич": 20,
-      "Ерохин Михаил Викторович": 93,
-      "Заруба Ольга Александровна": 82,
-      "Синяговский Владимир Ильич": 1091,
-      "Тренин Алексей Николаевич": 154,
-      "Хот Валерий Владимирович": 204,
-      "Штуркин Владимир Николаевич": 57
+      "gas:candidate-vibid:4234056238349": 20,
+      "gas:candidate-vibid:4234056238140": 93,
+      "gas:candidate-vibid:4234056226051": 82,
+      "gas:candidate-vibid:4234056238639": 1091,
+      "gas:candidate-vibid:4234056238262": 154,
+      "gas:candidate-vibid:4234056225742": 204,
+      "gas:candidate-vibid:4234056238794": 57
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/krasnodar?action=show&root=1000066&tvd=4234056224475&vrn=100100067795849&region=23&global=&sub_region=23&prver=0&pronetvd=null&vibid=4234056224475&type=464",
@@ -3691,13 +3691,13 @@ export const duma_2016_uik_463_region_23_part_011 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Витишко Евгений Геннадиевич": 16,
-      "Ерохин Михаил Викторович": 33,
-      "Заруба Ольга Александровна": 52,
-      "Синяговский Владимир Ильич": 710,
-      "Тренин Алексей Николаевич": 62,
-      "Хот Валерий Владимирович": 60,
-      "Штуркин Владимир Николаевич": 20
+      "gas:candidate-vibid:4234056238349": 16,
+      "gas:candidate-vibid:4234056238140": 33,
+      "gas:candidate-vibid:4234056226051": 52,
+      "gas:candidate-vibid:4234056238639": 710,
+      "gas:candidate-vibid:4234056238262": 62,
+      "gas:candidate-vibid:4234056225742": 60,
+      "gas:candidate-vibid:4234056238794": 20
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/krasnodar?action=show&root=1000066&tvd=4234056224475&vrn=100100067795849&region=23&global=&sub_region=23&prver=0&pronetvd=null&vibid=4234056224475&type=464",
@@ -3748,13 +3748,13 @@ export const duma_2016_uik_463_region_23_part_011 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Витишко Евгений Геннадиевич": 3,
-      "Ерохин Михаил Викторович": 10,
-      "Заруба Ольга Александровна": 14,
-      "Синяговский Владимир Ильич": 173,
-      "Тренин Алексей Николаевич": 11,
-      "Хот Валерий Владимирович": 11,
-      "Штуркин Владимир Николаевич": 3
+      "gas:candidate-vibid:4234056238349": 3,
+      "gas:candidate-vibid:4234056238140": 10,
+      "gas:candidate-vibid:4234056226051": 14,
+      "gas:candidate-vibid:4234056238639": 173,
+      "gas:candidate-vibid:4234056238262": 11,
+      "gas:candidate-vibid:4234056225742": 11,
+      "gas:candidate-vibid:4234056238794": 3
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/krasnodar?action=show&root=1000066&tvd=4234056224475&vrn=100100067795849&region=23&global=&sub_region=23&prver=0&pronetvd=null&vibid=4234056224475&type=464",
@@ -3805,13 +3805,13 @@ export const duma_2016_uik_463_region_23_part_011 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Витишко Евгений Геннадиевич": 17,
-      "Ерохин Михаил Викторович": 45,
-      "Заруба Ольга Александровна": 72,
-      "Синяговский Владимир Ильич": 1100,
-      "Тренин Алексей Николаевич": 61,
-      "Хот Валерий Владимирович": 92,
-      "Штуркин Владимир Николаевич": 40
+      "gas:candidate-vibid:4234056238349": 17,
+      "gas:candidate-vibid:4234056238140": 45,
+      "gas:candidate-vibid:4234056226051": 72,
+      "gas:candidate-vibid:4234056238639": 1100,
+      "gas:candidate-vibid:4234056238262": 61,
+      "gas:candidate-vibid:4234056225742": 92,
+      "gas:candidate-vibid:4234056238794": 40
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/krasnodar?action=show&root=1000066&tvd=4234056224475&vrn=100100067795849&region=23&global=&sub_region=23&prver=0&pronetvd=null&vibid=4234056224475&type=464",
@@ -3862,13 +3862,13 @@ export const duma_2016_uik_463_region_23_part_011 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Витишко Евгений Геннадиевич": 14,
-      "Ерохин Михаил Викторович": 28,
-      "Заруба Ольга Александровна": 29,
-      "Синяговский Владимир Ильич": 715,
-      "Тренин Алексей Николаевич": 66,
-      "Хот Валерий Владимирович": 62,
-      "Штуркин Владимир Николаевич": 14
+      "gas:candidate-vibid:4234056238349": 14,
+      "gas:candidate-vibid:4234056238140": 28,
+      "gas:candidate-vibid:4234056226051": 29,
+      "gas:candidate-vibid:4234056238639": 715,
+      "gas:candidate-vibid:4234056238262": 66,
+      "gas:candidate-vibid:4234056225742": 62,
+      "gas:candidate-vibid:4234056238794": 14
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/krasnodar?action=show&root=1000066&tvd=4234056224475&vrn=100100067795849&region=23&global=&sub_region=23&prver=0&pronetvd=null&vibid=4234056224475&type=464",
@@ -3919,13 +3919,13 @@ export const duma_2016_uik_463_region_23_part_011 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Витишко Евгений Геннадиевич": 29,
-      "Ерохин Михаил Викторович": 31,
-      "Заруба Ольга Александровна": 58,
-      "Синяговский Владимир Ильич": 922,
-      "Тренин Алексей Николаевич": 103,
-      "Хот Валерий Владимирович": 117,
-      "Штуркин Владимир Николаевич": 29
+      "gas:candidate-vibid:4234056238349": 29,
+      "gas:candidate-vibid:4234056238140": 31,
+      "gas:candidate-vibid:4234056226051": 58,
+      "gas:candidate-vibid:4234056238639": 922,
+      "gas:candidate-vibid:4234056238262": 103,
+      "gas:candidate-vibid:4234056225742": 117,
+      "gas:candidate-vibid:4234056238794": 29
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/krasnodar?action=show&root=1000066&tvd=4234056224475&vrn=100100067795849&region=23&global=&sub_region=23&prver=0&pronetvd=null&vibid=4234056224475&type=464",
@@ -3976,13 +3976,13 @@ export const duma_2016_uik_463_region_23_part_011 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Витишко Евгений Геннадиевич": 24,
-      "Ерохин Михаил Викторович": 10,
-      "Заруба Ольга Александровна": 38,
-      "Синяговский Владимир Ильич": 771,
-      "Тренин Алексей Николаевич": 43,
-      "Хот Валерий Владимирович": 50,
-      "Штуркин Владимир Николаевич": 13
+      "gas:candidate-vibid:4234056238349": 24,
+      "gas:candidate-vibid:4234056238140": 10,
+      "gas:candidate-vibid:4234056226051": 38,
+      "gas:candidate-vibid:4234056238639": 771,
+      "gas:candidate-vibid:4234056238262": 43,
+      "gas:candidate-vibid:4234056225742": 50,
+      "gas:candidate-vibid:4234056238794": 13
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/krasnodar?action=show&root=1000066&tvd=4234056224475&vrn=100100067795849&region=23&global=&sub_region=23&prver=0&pronetvd=null&vibid=4234056224475&type=464",
@@ -4033,13 +4033,13 @@ export const duma_2016_uik_463_region_23_part_011 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Витишко Евгений Геннадиевич": 20,
-      "Ерохин Михаил Викторович": 10,
-      "Заруба Ольга Александровна": 40,
-      "Синяговский Владимир Ильич": 211,
-      "Тренин Алексей Николаевич": 21,
-      "Хот Валерий Владимирович": 37,
-      "Штуркин Владимир Николаевич": 10
+      "gas:candidate-vibid:4234056238349": 20,
+      "gas:candidate-vibid:4234056238140": 10,
+      "gas:candidate-vibid:4234056226051": 40,
+      "gas:candidate-vibid:4234056238639": 211,
+      "gas:candidate-vibid:4234056238262": 21,
+      "gas:candidate-vibid:4234056225742": 37,
+      "gas:candidate-vibid:4234056238794": 10
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/krasnodar?action=show&root=1000066&tvd=4234056224475&vrn=100100067795849&region=23&global=&sub_region=23&prver=0&pronetvd=null&vibid=4234056224475&type=464",
@@ -4090,13 +4090,13 @@ export const duma_2016_uik_463_region_23_part_011 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Витишко Евгений Геннадиевич": 2,
-      "Ерохин Михаил Викторович": 0,
-      "Заруба Ольга Александровна": 0,
-      "Синяговский Владимир Ильич": 57,
-      "Тренин Алексей Николаевич": 22,
-      "Хот Валерий Владимирович": 4,
-      "Штуркин Владимир Николаевич": 0
+      "gas:candidate-vibid:4234056238349": 2,
+      "gas:candidate-vibid:4234056238140": 0,
+      "gas:candidate-vibid:4234056226051": 0,
+      "gas:candidate-vibid:4234056238639": 57,
+      "gas:candidate-vibid:4234056238262": 22,
+      "gas:candidate-vibid:4234056225742": 4,
+      "gas:candidate-vibid:4234056238794": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/krasnodar?action=show&root=1000066&tvd=4234056224475&vrn=100100067795849&region=23&global=&sub_region=23&prver=0&pronetvd=null&vibid=4234056224475&type=464",
@@ -4147,13 +4147,13 @@ export const duma_2016_uik_463_region_23_part_011 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Витишко Евгений Геннадиевич": 22,
-      "Ерохин Михаил Викторович": 52,
-      "Заруба Ольга Александровна": 61,
-      "Синяговский Владимир Ильич": 479,
-      "Тренин Алексей Николаевич": 72,
-      "Хот Валерий Владимирович": 61,
-      "Штуркин Владимир Николаевич": 40
+      "gas:candidate-vibid:4234056238349": 22,
+      "gas:candidate-vibid:4234056238140": 52,
+      "gas:candidate-vibid:4234056226051": 61,
+      "gas:candidate-vibid:4234056238639": 479,
+      "gas:candidate-vibid:4234056238262": 72,
+      "gas:candidate-vibid:4234056225742": 61,
+      "gas:candidate-vibid:4234056238794": 40
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/krasnodar?action=show&root=1000066&tvd=4234056224475&vrn=100100067795849&region=23&global=&sub_region=23&prver=0&pronetvd=null&vibid=4234056224475&type=464",
@@ -4204,13 +4204,13 @@ export const duma_2016_uik_463_region_23_part_011 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Витишко Евгений Геннадиевич": 19,
-      "Ерохин Михаил Викторович": 45,
-      "Заруба Ольга Александровна": 42,
-      "Синяговский Владимир Ильич": 560,
-      "Тренин Алексей Николаевич": 51,
-      "Хот Валерий Владимирович": 62,
-      "Штуркин Владимир Николаевич": 26
+      "gas:candidate-vibid:4234056238349": 19,
+      "gas:candidate-vibid:4234056238140": 45,
+      "gas:candidate-vibid:4234056226051": 42,
+      "gas:candidate-vibid:4234056238639": 560,
+      "gas:candidate-vibid:4234056238262": 51,
+      "gas:candidate-vibid:4234056225742": 62,
+      "gas:candidate-vibid:4234056238794": 26
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/krasnodar?action=show&root=1000066&tvd=4234056224475&vrn=100100067795849&region=23&global=&sub_region=23&prver=0&pronetvd=null&vibid=4234056224475&type=464",
@@ -4261,13 +4261,13 @@ export const duma_2016_uik_463_region_23_part_011 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Витишко Евгений Геннадиевич": 19,
-      "Ерохин Михаил Викторович": 59,
-      "Заруба Ольга Александровна": 60,
-      "Синяговский Владимир Ильич": 459,
-      "Тренин Алексей Николаевич": 54,
-      "Хот Валерий Владимирович": 46,
-      "Штуркин Владимир Николаевич": 23
+      "gas:candidate-vibid:4234056238349": 19,
+      "gas:candidate-vibid:4234056238140": 59,
+      "gas:candidate-vibid:4234056226051": 60,
+      "gas:candidate-vibid:4234056238639": 459,
+      "gas:candidate-vibid:4234056238262": 54,
+      "gas:candidate-vibid:4234056225742": 46,
+      "gas:candidate-vibid:4234056238794": 23
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/krasnodar?action=show&root=1000066&tvd=4234056224475&vrn=100100067795849&region=23&global=&sub_region=23&prver=0&pronetvd=null&vibid=4234056224475&type=464",
@@ -4318,13 +4318,13 @@ export const duma_2016_uik_463_region_23_part_011 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Витишко Евгений Геннадиевич": 18,
-      "Ерохин Михаил Викторович": 36,
-      "Заруба Ольга Александровна": 39,
-      "Синяговский Владимир Ильич": 473,
-      "Тренин Алексей Николаевич": 34,
-      "Хот Валерий Владимирович": 39,
-      "Штуркин Владимир Николаевич": 28
+      "gas:candidate-vibid:4234056238349": 18,
+      "gas:candidate-vibid:4234056238140": 36,
+      "gas:candidate-vibid:4234056226051": 39,
+      "gas:candidate-vibid:4234056238639": 473,
+      "gas:candidate-vibid:4234056238262": 34,
+      "gas:candidate-vibid:4234056225742": 39,
+      "gas:candidate-vibid:4234056238794": 28
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/krasnodar?action=show&root=1000066&tvd=4234056224475&vrn=100100067795849&region=23&global=&sub_region=23&prver=0&pronetvd=null&vibid=4234056224475&type=464",
@@ -4375,13 +4375,13 @@ export const duma_2016_uik_463_region_23_part_011 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Витишко Евгений Геннадиевич": 14,
-      "Ерохин Михаил Викторович": 44,
-      "Заруба Ольга Александровна": 57,
-      "Синяговский Владимир Ильич": 522,
-      "Тренин Алексей Николаевич": 91,
-      "Хот Валерий Владимирович": 43,
-      "Штуркин Владимир Николаевич": 16
+      "gas:candidate-vibid:4234056238349": 14,
+      "gas:candidate-vibid:4234056238140": 44,
+      "gas:candidate-vibid:4234056226051": 57,
+      "gas:candidate-vibid:4234056238639": 522,
+      "gas:candidate-vibid:4234056238262": 91,
+      "gas:candidate-vibid:4234056225742": 43,
+      "gas:candidate-vibid:4234056238794": 16
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/krasnodar?action=show&root=1000066&tvd=4234056224475&vrn=100100067795849&region=23&global=&sub_region=23&prver=0&pronetvd=null&vibid=4234056224475&type=464",
@@ -4432,13 +4432,13 @@ export const duma_2016_uik_463_region_23_part_011 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Витишко Евгений Геннадиевич": 8,
-      "Ерохин Михаил Викторович": 30,
-      "Заруба Ольга Александровна": 77,
-      "Синяговский Владимир Ильич": 476,
-      "Тренин Алексей Николаевич": 111,
-      "Хот Валерий Владимирович": 67,
-      "Штуркин Владимир Николаевич": 11
+      "gas:candidate-vibid:4234056238349": 8,
+      "gas:candidate-vibid:4234056238140": 30,
+      "gas:candidate-vibid:4234056226051": 77,
+      "gas:candidate-vibid:4234056238639": 476,
+      "gas:candidate-vibid:4234056238262": 111,
+      "gas:candidate-vibid:4234056225742": 67,
+      "gas:candidate-vibid:4234056238794": 11
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/krasnodar?action=show&root=1000066&tvd=4234056224475&vrn=100100067795849&region=23&global=&sub_region=23&prver=0&pronetvd=null&vibid=4234056224475&type=464",
@@ -4489,13 +4489,13 @@ export const duma_2016_uik_463_region_23_part_011 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Витишко Евгений Геннадиевич": 9,
-      "Ерохин Михаил Викторович": 24,
-      "Заруба Ольга Александровна": 17,
-      "Синяговский Владимир Ильич": 167,
-      "Тренин Алексей Николаевич": 25,
-      "Хот Валерий Владимирович": 27,
-      "Штуркин Владимир Николаевич": 12
+      "gas:candidate-vibid:4234056238349": 9,
+      "gas:candidate-vibid:4234056238140": 24,
+      "gas:candidate-vibid:4234056226051": 17,
+      "gas:candidate-vibid:4234056238639": 167,
+      "gas:candidate-vibid:4234056238262": 25,
+      "gas:candidate-vibid:4234056225742": 27,
+      "gas:candidate-vibid:4234056238794": 12
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/krasnodar?action=show&root=1000066&tvd=4234056224475&vrn=100100067795849&region=23&global=&sub_region=23&prver=0&pronetvd=null&vibid=4234056224475&type=464",
@@ -4546,13 +4546,13 @@ export const duma_2016_uik_463_region_23_part_011 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Витишко Евгений Геннадиевич": 2,
-      "Ерохин Михаил Викторович": 8,
-      "Заруба Ольга Александровна": 14,
-      "Синяговский Владимир Ильич": 135,
-      "Тренин Алексей Николаевич": 12,
-      "Хот Валерий Владимирович": 9,
-      "Штуркин Владимир Николаевич": 1
+      "gas:candidate-vibid:4234056238349": 2,
+      "gas:candidate-vibid:4234056238140": 8,
+      "gas:candidate-vibid:4234056226051": 14,
+      "gas:candidate-vibid:4234056238639": 135,
+      "gas:candidate-vibid:4234056238262": 12,
+      "gas:candidate-vibid:4234056225742": 9,
+      "gas:candidate-vibid:4234056238794": 1
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/krasnodar?action=show&root=1000066&tvd=4234056224475&vrn=100100067795849&region=23&global=&sub_region=23&prver=0&pronetvd=null&vibid=4234056224475&type=464",
@@ -4603,13 +4603,13 @@ export const duma_2016_uik_463_region_23_part_011 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Витишко Евгений Геннадиевич": 5,
-      "Ерохин Михаил Викторович": 6,
-      "Заруба Ольга Александровна": 10,
-      "Синяговский Владимир Ильич": 144,
-      "Тренин Алексей Николаевич": 13,
-      "Хот Валерий Владимирович": 2,
-      "Штуркин Владимир Николаевич": 13
+      "gas:candidate-vibid:4234056238349": 5,
+      "gas:candidate-vibid:4234056238140": 6,
+      "gas:candidate-vibid:4234056226051": 10,
+      "gas:candidate-vibid:4234056238639": 144,
+      "gas:candidate-vibid:4234056238262": 13,
+      "gas:candidate-vibid:4234056225742": 2,
+      "gas:candidate-vibid:4234056238794": 13
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/krasnodar?action=show&root=1000066&tvd=4234056224475&vrn=100100067795849&region=23&global=&sub_region=23&prver=0&pronetvd=null&vibid=4234056224475&type=464",
@@ -4660,13 +4660,13 @@ export const duma_2016_uik_463_region_23_part_011 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Витишко Евгений Геннадиевич": 13,
-      "Ерохин Михаил Викторович": 68,
-      "Заруба Ольга Александровна": 33,
-      "Синяговский Владимир Ильич": 916,
-      "Тренин Алексей Николаевич": 147,
-      "Хот Валерий Владимирович": 14,
-      "Штуркин Владимир Николаевич": 17
+      "gas:candidate-vibid:4234056238349": 13,
+      "gas:candidate-vibid:4234056238140": 68,
+      "gas:candidate-vibid:4234056226051": 33,
+      "gas:candidate-vibid:4234056238639": 916,
+      "gas:candidate-vibid:4234056238262": 147,
+      "gas:candidate-vibid:4234056225742": 14,
+      "gas:candidate-vibid:4234056238794": 17
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/krasnodar?action=show&root=1000066&tvd=4234056224476&vrn=100100067795849&region=23&global=&sub_region=23&prver=0&pronetvd=null&vibid=4234056224476&type=464",
@@ -4717,13 +4717,13 @@ export const duma_2016_uik_463_region_23_part_011 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Витишко Евгений Геннадиевич": 21,
-      "Ерохин Михаил Викторович": 74,
-      "Заруба Ольга Александровна": 39,
-      "Синяговский Владимир Ильич": 422,
-      "Тренин Алексей Николаевич": 33,
-      "Хот Валерий Владимирович": 44,
-      "Штуркин Владимир Николаевич": 22
+      "gas:candidate-vibid:4234056238349": 21,
+      "gas:candidate-vibid:4234056238140": 74,
+      "gas:candidate-vibid:4234056226051": 39,
+      "gas:candidate-vibid:4234056238639": 422,
+      "gas:candidate-vibid:4234056238262": 33,
+      "gas:candidate-vibid:4234056225742": 44,
+      "gas:candidate-vibid:4234056238794": 22
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/krasnodar?action=show&root=1000066&tvd=4234056224476&vrn=100100067795849&region=23&global=&sub_region=23&prver=0&pronetvd=null&vibid=4234056224476&type=464",
@@ -4774,13 +4774,13 @@ export const duma_2016_uik_463_region_23_part_011 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Витишко Евгений Геннадиевич": 19,
-      "Ерохин Михаил Викторович": 74,
-      "Заруба Ольга Александровна": 36,
-      "Синяговский Владимир Ильич": 804,
-      "Тренин Алексей Николаевич": 106,
-      "Хот Валерий Владимирович": 49,
-      "Штуркин Владимир Николаевич": 20
+      "gas:candidate-vibid:4234056238349": 19,
+      "gas:candidate-vibid:4234056238140": 74,
+      "gas:candidate-vibid:4234056226051": 36,
+      "gas:candidate-vibid:4234056238639": 804,
+      "gas:candidate-vibid:4234056238262": 106,
+      "gas:candidate-vibid:4234056225742": 49,
+      "gas:candidate-vibid:4234056238794": 20
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/krasnodar?action=show&root=1000066&tvd=4234056224476&vrn=100100067795849&region=23&global=&sub_region=23&prver=0&pronetvd=null&vibid=4234056224476&type=464",
@@ -4831,13 +4831,13 @@ export const duma_2016_uik_463_region_23_part_011 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Витишко Евгений Геннадиевич": 10,
-      "Ерохин Михаил Викторович": 25,
-      "Заруба Ольга Александровна": 14,
-      "Синяговский Владимир Ильич": 557,
-      "Тренин Алексей Николаевич": 21,
-      "Хот Валерий Владимирович": 5,
-      "Штуркин Владимир Николаевич": 9
+      "gas:candidate-vibid:4234056238349": 10,
+      "gas:candidate-vibid:4234056238140": 25,
+      "gas:candidate-vibid:4234056226051": 14,
+      "gas:candidate-vibid:4234056238639": 557,
+      "gas:candidate-vibid:4234056238262": 21,
+      "gas:candidate-vibid:4234056225742": 5,
+      "gas:candidate-vibid:4234056238794": 9
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/krasnodar?action=show&root=1000066&tvd=4234056224476&vrn=100100067795849&region=23&global=&sub_region=23&prver=0&pronetvd=null&vibid=4234056224476&type=464",
@@ -4888,13 +4888,13 @@ export const duma_2016_uik_463_region_23_part_011 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Витишко Евгений Геннадиевич": 9,
-      "Ерохин Михаил Викторович": 83,
-      "Заруба Ольга Александровна": 30,
-      "Синяговский Владимир Ильич": 781,
-      "Тренин Алексей Николаевич": 45,
-      "Хот Валерий Владимирович": 52,
-      "Штуркин Владимир Николаевич": 10
+      "gas:candidate-vibid:4234056238349": 9,
+      "gas:candidate-vibid:4234056238140": 83,
+      "gas:candidate-vibid:4234056226051": 30,
+      "gas:candidate-vibid:4234056238639": 781,
+      "gas:candidate-vibid:4234056238262": 45,
+      "gas:candidate-vibid:4234056225742": 52,
+      "gas:candidate-vibid:4234056238794": 10
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/krasnodar?action=show&root=1000066&tvd=4234056224476&vrn=100100067795849&region=23&global=&sub_region=23&prver=0&pronetvd=null&vibid=4234056224476&type=464",
@@ -4945,13 +4945,13 @@ export const duma_2016_uik_463_region_23_part_011 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Витишко Евгений Геннадиевич": 25,
-      "Ерохин Михаил Викторович": 89,
-      "Заруба Ольга Александровна": 40,
-      "Синяговский Владимир Ильич": 956,
-      "Тренин Алексей Николаевич": 66,
-      "Хот Валерий Владимирович": 68,
-      "Штуркин Владимир Николаевич": 26
+      "gas:candidate-vibid:4234056238349": 25,
+      "gas:candidate-vibid:4234056238140": 89,
+      "gas:candidate-vibid:4234056226051": 40,
+      "gas:candidate-vibid:4234056238639": 956,
+      "gas:candidate-vibid:4234056238262": 66,
+      "gas:candidate-vibid:4234056225742": 68,
+      "gas:candidate-vibid:4234056238794": 26
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/krasnodar?action=show&root=1000066&tvd=4234056224476&vrn=100100067795849&region=23&global=&sub_region=23&prver=0&pronetvd=null&vibid=4234056224476&type=464",
@@ -5002,13 +5002,13 @@ export const duma_2016_uik_463_region_23_part_011 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Витишко Евгений Геннадиевич": 15,
-      "Ерохин Михаил Викторович": 21,
-      "Заруба Ольга Александровна": 18,
-      "Синяговский Владимир Ильич": 938,
-      "Тренин Алексей Николаевич": 108,
-      "Хот Валерий Владимирович": 16,
-      "Штуркин Владимир Николаевич": 25
+      "gas:candidate-vibid:4234056238349": 15,
+      "gas:candidate-vibid:4234056238140": 21,
+      "gas:candidate-vibid:4234056226051": 18,
+      "gas:candidate-vibid:4234056238639": 938,
+      "gas:candidate-vibid:4234056238262": 108,
+      "gas:candidate-vibid:4234056225742": 16,
+      "gas:candidate-vibid:4234056238794": 25
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/krasnodar?action=show&root=1000066&tvd=4234056224476&vrn=100100067795849&region=23&global=&sub_region=23&prver=0&pronetvd=null&vibid=4234056224476&type=464",
@@ -5059,13 +5059,13 @@ export const duma_2016_uik_463_region_23_part_011 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Витишко Евгений Геннадиевич": 25,
-      "Ерохин Михаил Викторович": 107,
-      "Заруба Ольга Александровна": 71,
-      "Синяговский Владимир Ильич": 1004,
-      "Тренин Алексей Николаевич": 173,
-      "Хот Валерий Владимирович": 101,
-      "Штуркин Владимир Николаевич": 38
+      "gas:candidate-vibid:4234056238349": 25,
+      "gas:candidate-vibid:4234056238140": 107,
+      "gas:candidate-vibid:4234056226051": 71,
+      "gas:candidate-vibid:4234056238639": 1004,
+      "gas:candidate-vibid:4234056238262": 173,
+      "gas:candidate-vibid:4234056225742": 101,
+      "gas:candidate-vibid:4234056238794": 38
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/krasnodar?action=show&root=1000066&tvd=4234056224476&vrn=100100067795849&region=23&global=&sub_region=23&prver=0&pronetvd=null&vibid=4234056224476&type=464",
@@ -5116,13 +5116,13 @@ export const duma_2016_uik_463_region_23_part_011 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Витишко Евгений Геннадиевич": 32,
-      "Ерохин Михаил Викторович": 87,
-      "Заруба Ольга Александровна": 41,
-      "Синяговский Владимир Ильич": 598,
-      "Тренин Алексей Николаевич": 112,
-      "Хот Валерий Владимирович": 52,
-      "Штуркин Владимир Николаевич": 50
+      "gas:candidate-vibid:4234056238349": 32,
+      "gas:candidate-vibid:4234056238140": 87,
+      "gas:candidate-vibid:4234056226051": 41,
+      "gas:candidate-vibid:4234056238639": 598,
+      "gas:candidate-vibid:4234056238262": 112,
+      "gas:candidate-vibid:4234056225742": 52,
+      "gas:candidate-vibid:4234056238794": 50
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/krasnodar?action=show&root=1000066&tvd=4234056224476&vrn=100100067795849&region=23&global=&sub_region=23&prver=0&pronetvd=null&vibid=4234056224476&type=464",
@@ -5173,13 +5173,13 @@ export const duma_2016_uik_463_region_23_part_011 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Витишко Евгений Геннадиевич": 18,
-      "Ерохин Михаил Викторович": 52,
-      "Заруба Ольга Александровна": 41,
-      "Синяговский Владимир Ильич": 877,
-      "Тренин Алексей Николаевич": 96,
-      "Хот Валерий Владимирович": 58,
-      "Штуркин Владимир Николаевич": 18
+      "gas:candidate-vibid:4234056238349": 18,
+      "gas:candidate-vibid:4234056238140": 52,
+      "gas:candidate-vibid:4234056226051": 41,
+      "gas:candidate-vibid:4234056238639": 877,
+      "gas:candidate-vibid:4234056238262": 96,
+      "gas:candidate-vibid:4234056225742": 58,
+      "gas:candidate-vibid:4234056238794": 18
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/krasnodar?action=show&root=1000066&tvd=4234056224476&vrn=100100067795849&region=23&global=&sub_region=23&prver=0&pronetvd=null&vibid=4234056224476&type=464",
@@ -5230,13 +5230,13 @@ export const duma_2016_uik_463_region_23_part_011 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Витишко Евгений Геннадиевич": 8,
-      "Ерохин Михаил Викторович": 23,
-      "Заруба Ольга Александровна": 15,
-      "Синяговский Владимир Ильич": 658,
-      "Тренин Алексей Николаевич": 94,
-      "Хот Валерий Владимирович": 49,
-      "Штуркин Владимир Николаевич": 15
+      "gas:candidate-vibid:4234056238349": 8,
+      "gas:candidate-vibid:4234056238140": 23,
+      "gas:candidate-vibid:4234056226051": 15,
+      "gas:candidate-vibid:4234056238639": 658,
+      "gas:candidate-vibid:4234056238262": 94,
+      "gas:candidate-vibid:4234056225742": 49,
+      "gas:candidate-vibid:4234056238794": 15
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/krasnodar?action=show&root=1000066&tvd=4234056224476&vrn=100100067795849&region=23&global=&sub_region=23&prver=0&pronetvd=null&vibid=4234056224476&type=464",
@@ -5287,13 +5287,13 @@ export const duma_2016_uik_463_region_23_part_011 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Витишко Евгений Геннадиевич": 28,
-      "Ерохин Михаил Викторович": 94,
-      "Заруба Ольга Александровна": 44,
-      "Синяговский Владимир Ильич": 1070,
-      "Тренин Алексей Николаевич": 27,
-      "Хот Валерий Владимирович": 40,
-      "Штуркин Владимир Николаевич": 34
+      "gas:candidate-vibid:4234056238349": 28,
+      "gas:candidate-vibid:4234056238140": 94,
+      "gas:candidate-vibid:4234056226051": 44,
+      "gas:candidate-vibid:4234056238639": 1070,
+      "gas:candidate-vibid:4234056238262": 27,
+      "gas:candidate-vibid:4234056225742": 40,
+      "gas:candidate-vibid:4234056238794": 34
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/krasnodar?action=show&root=1000066&tvd=4234056224476&vrn=100100067795849&region=23&global=&sub_region=23&prver=0&pronetvd=null&vibid=4234056224476&type=464",
@@ -5344,13 +5344,13 @@ export const duma_2016_uik_463_region_23_part_011 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Витишко Евгений Геннадиевич": 15,
-      "Ерохин Михаил Викторович": 94,
-      "Заруба Ольга Александровна": 46,
-      "Синяговский Владимир Ильич": 1074,
-      "Тренин Алексей Николаевич": 66,
-      "Хот Валерий Владимирович": 56,
-      "Штуркин Владимир Николаевич": 29
+      "gas:candidate-vibid:4234056238349": 15,
+      "gas:candidate-vibid:4234056238140": 94,
+      "gas:candidate-vibid:4234056226051": 46,
+      "gas:candidate-vibid:4234056238639": 1074,
+      "gas:candidate-vibid:4234056238262": 66,
+      "gas:candidate-vibid:4234056225742": 56,
+      "gas:candidate-vibid:4234056238794": 29
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/krasnodar?action=show&root=1000066&tvd=4234056224476&vrn=100100067795849&region=23&global=&sub_region=23&prver=0&pronetvd=null&vibid=4234056224476&type=464",
@@ -5401,13 +5401,13 @@ export const duma_2016_uik_463_region_23_part_011 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Витишко Евгений Геннадиевич": 12,
-      "Ерохин Михаил Викторович": 104,
-      "Заруба Ольга Александровна": 13,
-      "Синяговский Владимир Ильич": 999,
-      "Тренин Алексей Николаевич": 154,
-      "Хот Валерий Владимирович": 11,
-      "Штуркин Владимир Николаевич": 5
+      "gas:candidate-vibid:4234056238349": 12,
+      "gas:candidate-vibid:4234056238140": 104,
+      "gas:candidate-vibid:4234056226051": 13,
+      "gas:candidate-vibid:4234056238639": 999,
+      "gas:candidate-vibid:4234056238262": 154,
+      "gas:candidate-vibid:4234056225742": 11,
+      "gas:candidate-vibid:4234056238794": 5
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/krasnodar?action=show&root=1000066&tvd=4234056224476&vrn=100100067795849&region=23&global=&sub_region=23&prver=0&pronetvd=null&vibid=4234056224476&type=464",
@@ -5458,13 +5458,13 @@ export const duma_2016_uik_463_region_23_part_011 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Витишко Евгений Геннадиевич": 41,
-      "Ерохин Михаил Викторович": 137,
-      "Заруба Ольга Александровна": 77,
-      "Синяговский Владимир Ильич": 960,
-      "Тренин Алексей Николаевич": 145,
-      "Хот Валерий Владимирович": 100,
-      "Штуркин Владимир Николаевич": 40
+      "gas:candidate-vibid:4234056238349": 41,
+      "gas:candidate-vibid:4234056238140": 137,
+      "gas:candidate-vibid:4234056226051": 77,
+      "gas:candidate-vibid:4234056238639": 960,
+      "gas:candidate-vibid:4234056238262": 145,
+      "gas:candidate-vibid:4234056225742": 100,
+      "gas:candidate-vibid:4234056238794": 40
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/krasnodar?action=show&root=1000066&tvd=4234056224476&vrn=100100067795849&region=23&global=&sub_region=23&prver=0&pronetvd=null&vibid=4234056224476&type=464",
@@ -5515,13 +5515,13 @@ export const duma_2016_uik_463_region_23_part_011 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Витишко Евгений Геннадиевич": 26,
-      "Ерохин Михаил Викторович": 101,
-      "Заруба Ольга Александровна": 28,
-      "Синяговский Владимир Ильич": 944,
-      "Тренин Алексей Николаевич": 101,
-      "Хот Валерий Владимирович": 44,
-      "Штуркин Владимир Николаевич": 19
+      "gas:candidate-vibid:4234056238349": 26,
+      "gas:candidate-vibid:4234056238140": 101,
+      "gas:candidate-vibid:4234056226051": 28,
+      "gas:candidate-vibid:4234056238639": 944,
+      "gas:candidate-vibid:4234056238262": 101,
+      "gas:candidate-vibid:4234056225742": 44,
+      "gas:candidate-vibid:4234056238794": 19
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/krasnodar?action=show&root=1000066&tvd=4234056224476&vrn=100100067795849&region=23&global=&sub_region=23&prver=0&pronetvd=null&vibid=4234056224476&type=464",
@@ -5572,13 +5572,13 @@ export const duma_2016_uik_463_region_23_part_011 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Витишко Евгений Геннадиевич": 6,
-      "Ерохин Михаил Викторович": 50,
-      "Заруба Ольга Александровна": 3,
-      "Синяговский Владимир Ильич": 867,
-      "Тренин Алексей Николаевич": 202,
-      "Хот Валерий Владимирович": 10,
-      "Штуркин Владимир Николаевич": 18
+      "gas:candidate-vibid:4234056238349": 6,
+      "gas:candidate-vibid:4234056238140": 50,
+      "gas:candidate-vibid:4234056226051": 3,
+      "gas:candidate-vibid:4234056238639": 867,
+      "gas:candidate-vibid:4234056238262": 202,
+      "gas:candidate-vibid:4234056225742": 10,
+      "gas:candidate-vibid:4234056238794": 18
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/krasnodar?action=show&root=1000066&tvd=4234056224476&vrn=100100067795849&region=23&global=&sub_region=23&prver=0&pronetvd=null&vibid=4234056224476&type=464",
@@ -5629,13 +5629,13 @@ export const duma_2016_uik_463_region_23_part_011 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Витишко Евгений Геннадиевич": 38,
-      "Ерохин Михаил Викторович": 43,
-      "Заруба Ольга Александровна": 64,
-      "Синяговский Владимир Ильич": 1616,
-      "Тренин Алексей Николаевич": 157,
-      "Хот Валерий Владимирович": 53,
-      "Штуркин Владимир Николаевич": 24
+      "gas:candidate-vibid:4234056238349": 38,
+      "gas:candidate-vibid:4234056238140": 43,
+      "gas:candidate-vibid:4234056226051": 64,
+      "gas:candidate-vibid:4234056238639": 1616,
+      "gas:candidate-vibid:4234056238262": 157,
+      "gas:candidate-vibid:4234056225742": 53,
+      "gas:candidate-vibid:4234056238794": 24
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/krasnodar?action=show&root=1000066&tvd=4234056224476&vrn=100100067795849&region=23&global=&sub_region=23&prver=0&pronetvd=null&vibid=4234056224476&type=464",
@@ -5686,13 +5686,13 @@ export const duma_2016_uik_463_region_23_part_011 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Витишко Евгений Геннадиевич": 52,
-      "Ерохин Михаил Викторович": 25,
-      "Заруба Ольга Александровна": 56,
-      "Синяговский Владимир Ильич": 1198,
-      "Тренин Алексей Николаевич": 107,
-      "Хот Валерий Владимирович": 53,
-      "Штуркин Владимир Николаевич": 56
+      "gas:candidate-vibid:4234056238349": 52,
+      "gas:candidate-vibid:4234056238140": 25,
+      "gas:candidate-vibid:4234056226051": 56,
+      "gas:candidate-vibid:4234056238639": 1198,
+      "gas:candidate-vibid:4234056238262": 107,
+      "gas:candidate-vibid:4234056225742": 53,
+      "gas:candidate-vibid:4234056238794": 56
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/krasnodar?action=show&root=1000066&tvd=4234056224476&vrn=100100067795849&region=23&global=&sub_region=23&prver=0&pronetvd=null&vibid=4234056224476&type=464",
@@ -5743,13 +5743,13 @@ export const duma_2016_uik_463_region_23_part_011 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Витишко Евгений Геннадиевич": 12,
-      "Ерохин Михаил Викторович": 71,
-      "Заруба Ольга Александровна": 18,
-      "Синяговский Владимир Ильич": 1284,
-      "Тренин Алексей Николаевич": 105,
-      "Хот Валерий Владимирович": 69,
-      "Штуркин Владимир Николаевич": 13
+      "gas:candidate-vibid:4234056238349": 12,
+      "gas:candidate-vibid:4234056238140": 71,
+      "gas:candidate-vibid:4234056226051": 18,
+      "gas:candidate-vibid:4234056238639": 1284,
+      "gas:candidate-vibid:4234056238262": 105,
+      "gas:candidate-vibid:4234056225742": 69,
+      "gas:candidate-vibid:4234056238794": 13
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/krasnodar?action=show&root=1000066&tvd=4234056224476&vrn=100100067795849&region=23&global=&sub_region=23&prver=0&pronetvd=null&vibid=4234056224476&type=464",
@@ -5800,13 +5800,13 @@ export const duma_2016_uik_463_region_23_part_011 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Витишко Евгений Геннадиевич": 9,
-      "Ерохин Михаил Викторович": 11,
-      "Заруба Ольга Александровна": 5,
-      "Синяговский Владимир Ильич": 2129,
-      "Тренин Алексей Николаевич": 60,
-      "Хот Валерий Владимирович": 31,
-      "Штуркин Владимир Николаевич": 5
+      "gas:candidate-vibid:4234056238349": 9,
+      "gas:candidate-vibid:4234056238140": 11,
+      "gas:candidate-vibid:4234056226051": 5,
+      "gas:candidate-vibid:4234056238639": 2129,
+      "gas:candidate-vibid:4234056238262": 60,
+      "gas:candidate-vibid:4234056225742": 31,
+      "gas:candidate-vibid:4234056238794": 5
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/krasnodar?action=show&root=1000066&tvd=4234056224476&vrn=100100067795849&region=23&global=&sub_region=23&prver=0&pronetvd=null&vibid=4234056224476&type=464",
@@ -5857,13 +5857,13 @@ export const duma_2016_uik_463_region_23_part_011 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Витишко Евгений Геннадиевич": 23,
-      "Ерохин Михаил Викторович": 68,
-      "Заруба Ольга Александровна": 48,
-      "Синяговский Владимир Ильич": 837,
-      "Тренин Алексей Николаевич": 92,
-      "Хот Валерий Владимирович": 20,
-      "Штуркин Владимир Николаевич": 17
+      "gas:candidate-vibid:4234056238349": 23,
+      "gas:candidate-vibid:4234056238140": 68,
+      "gas:candidate-vibid:4234056226051": 48,
+      "gas:candidate-vibid:4234056238639": 837,
+      "gas:candidate-vibid:4234056238262": 92,
+      "gas:candidate-vibid:4234056225742": 20,
+      "gas:candidate-vibid:4234056238794": 17
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/krasnodar?action=show&root=1000066&tvd=4234056224476&vrn=100100067795849&region=23&global=&sub_region=23&prver=0&pronetvd=null&vibid=4234056224476&type=464",
@@ -5914,13 +5914,13 @@ export const duma_2016_uik_463_region_23_part_011 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Витишко Евгений Геннадиевич": 18,
-      "Ерохин Михаил Викторович": 73,
-      "Заруба Ольга Александровна": 24,
-      "Синяговский Владимир Ильич": 936,
-      "Тренин Алексей Николаевич": 146,
-      "Хот Валерий Владимирович": 13,
-      "Штуркин Владимир Николаевич": 5
+      "gas:candidate-vibid:4234056238349": 18,
+      "gas:candidate-vibid:4234056238140": 73,
+      "gas:candidate-vibid:4234056226051": 24,
+      "gas:candidate-vibid:4234056238639": 936,
+      "gas:candidate-vibid:4234056238262": 146,
+      "gas:candidate-vibid:4234056225742": 13,
+      "gas:candidate-vibid:4234056238794": 5
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/krasnodar?action=show&root=1000066&tvd=4234056224476&vrn=100100067795849&region=23&global=&sub_region=23&prver=0&pronetvd=null&vibid=4234056224476&type=464",
@@ -5971,13 +5971,13 @@ export const duma_2016_uik_463_region_23_part_011 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Витишко Евгений Геннадиевич": 41,
-      "Ерохин Михаил Викторович": 103,
-      "Заруба Ольга Александровна": 65,
-      "Синяговский Владимир Ильич": 1162,
-      "Тренин Алексей Николаевич": 207,
-      "Хот Валерий Владимирович": 42,
-      "Штуркин Владимир Николаевич": 59
+      "gas:candidate-vibid:4234056238349": 41,
+      "gas:candidate-vibid:4234056238140": 103,
+      "gas:candidate-vibid:4234056226051": 65,
+      "gas:candidate-vibid:4234056238639": 1162,
+      "gas:candidate-vibid:4234056238262": 207,
+      "gas:candidate-vibid:4234056225742": 42,
+      "gas:candidate-vibid:4234056238794": 59
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/krasnodar?action=show&root=1000066&tvd=4234056224476&vrn=100100067795849&region=23&global=&sub_region=23&prver=0&pronetvd=null&vibid=4234056224476&type=464",
@@ -6028,13 +6028,13 @@ export const duma_2016_uik_463_region_23_part_011 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Витишко Евгений Геннадиевич": 25,
-      "Ерохин Михаил Викторович": 85,
-      "Заруба Ольга Александровна": 24,
-      "Синяговский Владимир Ильич": 1107,
-      "Тренин Алексей Николаевич": 115,
-      "Хот Валерий Владимирович": 74,
-      "Штуркин Владимир Николаевич": 42
+      "gas:candidate-vibid:4234056238349": 25,
+      "gas:candidate-vibid:4234056238140": 85,
+      "gas:candidate-vibid:4234056226051": 24,
+      "gas:candidate-vibid:4234056238639": 1107,
+      "gas:candidate-vibid:4234056238262": 115,
+      "gas:candidate-vibid:4234056225742": 74,
+      "gas:candidate-vibid:4234056238794": 42
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/krasnodar?action=show&root=1000066&tvd=4234056224476&vrn=100100067795849&region=23&global=&sub_region=23&prver=0&pronetvd=null&vibid=4234056224476&type=464",
@@ -6085,13 +6085,13 @@ export const duma_2016_uik_463_region_23_part_011 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Витишко Евгений Геннадиевич": 4,
-      "Ерохин Михаил Викторович": 21,
-      "Заруба Ольга Александровна": 12,
-      "Синяговский Владимир Ильич": 614,
-      "Тренин Алексей Николаевич": 53,
-      "Хот Валерий Владимирович": 7,
-      "Штуркин Владимир Николаевич": 4
+      "gas:candidate-vibid:4234056238349": 4,
+      "gas:candidate-vibid:4234056238140": 21,
+      "gas:candidate-vibid:4234056226051": 12,
+      "gas:candidate-vibid:4234056238639": 614,
+      "gas:candidate-vibid:4234056238262": 53,
+      "gas:candidate-vibid:4234056225742": 7,
+      "gas:candidate-vibid:4234056238794": 4
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/krasnodar?action=show&root=1000066&tvd=4234056224477&vrn=100100067795849&region=23&global=&sub_region=23&prver=0&pronetvd=null&vibid=4234056224477&type=464",
@@ -6142,13 +6142,13 @@ export const duma_2016_uik_463_region_23_part_011 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Витишко Евгений Геннадиевич": 24,
-      "Ерохин Михаил Викторович": 54,
-      "Заруба Ольга Александровна": 49,
-      "Синяговский Владимир Ильич": 893,
-      "Тренин Алексей Николаевич": 74,
-      "Хот Валерий Владимирович": 66,
-      "Штуркин Владимир Николаевич": 34
+      "gas:candidate-vibid:4234056238349": 24,
+      "gas:candidate-vibid:4234056238140": 54,
+      "gas:candidate-vibid:4234056226051": 49,
+      "gas:candidate-vibid:4234056238639": 893,
+      "gas:candidate-vibid:4234056238262": 74,
+      "gas:candidate-vibid:4234056225742": 66,
+      "gas:candidate-vibid:4234056238794": 34
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/krasnodar?action=show&root=1000066&tvd=4234056224477&vrn=100100067795849&region=23&global=&sub_region=23&prver=0&pronetvd=null&vibid=4234056224477&type=464",
@@ -6199,13 +6199,13 @@ export const duma_2016_uik_463_region_23_part_011 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Витишко Евгений Геннадиевич": 8,
-      "Ерохин Михаил Викторович": 20,
-      "Заруба Ольга Александровна": 0,
-      "Синяговский Владимир Ильич": 603,
-      "Тренин Алексей Николаевич": 47,
-      "Хот Валерий Владимирович": 0,
-      "Штуркин Владимир Николаевич": 0
+      "gas:candidate-vibid:4234056238349": 8,
+      "gas:candidate-vibid:4234056238140": 20,
+      "gas:candidate-vibid:4234056226051": 0,
+      "gas:candidate-vibid:4234056238639": 603,
+      "gas:candidate-vibid:4234056238262": 47,
+      "gas:candidate-vibid:4234056225742": 0,
+      "gas:candidate-vibid:4234056238794": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/krasnodar?action=show&root=1000066&tvd=4234056224477&vrn=100100067795849&region=23&global=&sub_region=23&prver=0&pronetvd=null&vibid=4234056224477&type=464",
@@ -6256,13 +6256,13 @@ export const duma_2016_uik_463_region_23_part_011 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Витишко Евгений Геннадиевич": 0,
-      "Ерохин Михаил Викторович": 6,
-      "Заруба Ольга Александровна": 4,
-      "Синяговский Владимир Ильич": 602,
-      "Тренин Алексей Николаевич": 29,
-      "Хот Валерий Владимирович": 13,
-      "Штуркин Владимир Николаевич": 0
+      "gas:candidate-vibid:4234056238349": 0,
+      "gas:candidate-vibid:4234056238140": 6,
+      "gas:candidate-vibid:4234056226051": 4,
+      "gas:candidate-vibid:4234056238639": 602,
+      "gas:candidate-vibid:4234056238262": 29,
+      "gas:candidate-vibid:4234056225742": 13,
+      "gas:candidate-vibid:4234056238794": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/krasnodar?action=show&root=1000066&tvd=4234056224477&vrn=100100067795849&region=23&global=&sub_region=23&prver=0&pronetvd=null&vibid=4234056224477&type=464",
@@ -6313,13 +6313,13 @@ export const duma_2016_uik_463_region_23_part_011 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Витишко Евгений Геннадиевич": 5,
-      "Ерохин Михаил Викторович": 10,
-      "Заруба Ольга Александровна": 9,
-      "Синяговский Владимир Ильич": 410,
-      "Тренин Алексей Николаевич": 11,
-      "Хот Валерий Владимирович": 11,
-      "Штуркин Владимир Николаевич": 8
+      "gas:candidate-vibid:4234056238349": 5,
+      "gas:candidate-vibid:4234056238140": 10,
+      "gas:candidate-vibid:4234056226051": 9,
+      "gas:candidate-vibid:4234056238639": 410,
+      "gas:candidate-vibid:4234056238262": 11,
+      "gas:candidate-vibid:4234056225742": 11,
+      "gas:candidate-vibid:4234056238794": 8
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/krasnodar?action=show&root=1000066&tvd=4234056224477&vrn=100100067795849&region=23&global=&sub_region=23&prver=0&pronetvd=null&vibid=4234056224477&type=464",
@@ -6370,13 +6370,13 @@ export const duma_2016_uik_463_region_23_part_011 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Витишко Евгений Геннадиевич": 0,
-      "Ерохин Михаил Викторович": 18,
-      "Заруба Ольга Александровна": 0,
-      "Синяговский Владимир Ильич": 864,
-      "Тренин Алексей Николаевич": 28,
-      "Хот Валерий Владимирович": 6,
-      "Штуркин Владимир Николаевич": 0
+      "gas:candidate-vibid:4234056238349": 0,
+      "gas:candidate-vibid:4234056238140": 18,
+      "gas:candidate-vibid:4234056226051": 0,
+      "gas:candidate-vibid:4234056238639": 864,
+      "gas:candidate-vibid:4234056238262": 28,
+      "gas:candidate-vibid:4234056225742": 6,
+      "gas:candidate-vibid:4234056238794": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/krasnodar?action=show&root=1000066&tvd=4234056224477&vrn=100100067795849&region=23&global=&sub_region=23&prver=0&pronetvd=null&vibid=4234056224477&type=464",
@@ -6427,13 +6427,13 @@ export const duma_2016_uik_463_region_23_part_011 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Витишко Евгений Геннадиевич": 5,
-      "Ерохин Михаил Викторович": 17,
-      "Заруба Ольга Александровна": 14,
-      "Синяговский Владимир Ильич": 342,
-      "Тренин Алексей Николаевич": 18,
-      "Хот Валерий Владимирович": 14,
-      "Штуркин Владимир Николаевич": 5
+      "gas:candidate-vibid:4234056238349": 5,
+      "gas:candidate-vibid:4234056238140": 17,
+      "gas:candidate-vibid:4234056226051": 14,
+      "gas:candidate-vibid:4234056238639": 342,
+      "gas:candidate-vibid:4234056238262": 18,
+      "gas:candidate-vibid:4234056225742": 14,
+      "gas:candidate-vibid:4234056238794": 5
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/krasnodar?action=show&root=1000066&tvd=4234056224477&vrn=100100067795849&region=23&global=&sub_region=23&prver=0&pronetvd=null&vibid=4234056224477&type=464",
@@ -6484,13 +6484,13 @@ export const duma_2016_uik_463_region_23_part_011 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Витишко Евгений Геннадиевич": 52,
-      "Ерохин Михаил Викторович": 11,
-      "Заруба Ольга Александровна": 2,
-      "Синяговский Владимир Ильич": 1382,
-      "Тренин Алексей Николаевич": 98,
-      "Хот Валерий Владимирович": 65,
-      "Штуркин Владимир Николаевич": 16
+      "gas:candidate-vibid:4234056238349": 52,
+      "gas:candidate-vibid:4234056238140": 11,
+      "gas:candidate-vibid:4234056226051": 2,
+      "gas:candidate-vibid:4234056238639": 1382,
+      "gas:candidate-vibid:4234056238262": 98,
+      "gas:candidate-vibid:4234056225742": 65,
+      "gas:candidate-vibid:4234056238794": 16
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/krasnodar?action=show&root=1000066&tvd=4234056224477&vrn=100100067795849&region=23&global=&sub_region=23&prver=0&pronetvd=null&vibid=4234056224477&type=464",
@@ -6541,13 +6541,13 @@ export const duma_2016_uik_463_region_23_part_011 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Витишко Евгений Геннадиевич": 8,
-      "Ерохин Михаил Викторович": 72,
-      "Заруба Ольга Александровна": 40,
-      "Синяговский Владимир Ильич": 997,
-      "Тренин Алексей Николаевич": 97,
-      "Хот Валерий Владимирович": 59,
-      "Штуркин Владимир Николаевич": 26
+      "gas:candidate-vibid:4234056238349": 8,
+      "gas:candidate-vibid:4234056238140": 72,
+      "gas:candidate-vibid:4234056226051": 40,
+      "gas:candidate-vibid:4234056238639": 997,
+      "gas:candidate-vibid:4234056238262": 97,
+      "gas:candidate-vibid:4234056225742": 59,
+      "gas:candidate-vibid:4234056238794": 26
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/krasnodar?action=show&root=1000066&tvd=4234056224477&vrn=100100067795849&region=23&global=&sub_region=23&prver=0&pronetvd=null&vibid=4234056224477&type=464",
@@ -6598,13 +6598,13 @@ export const duma_2016_uik_463_region_23_part_011 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Витишко Евгений Геннадиевич": 4,
-      "Ерохин Михаил Викторович": 23,
-      "Заруба Ольга Александровна": 13,
-      "Синяговский Владимир Ильич": 1552,
-      "Тренин Алексей Николаевич": 33,
-      "Хот Валерий Владимирович": 21,
-      "Штуркин Владимир Николаевич": 4
+      "gas:candidate-vibid:4234056238349": 4,
+      "gas:candidate-vibid:4234056238140": 23,
+      "gas:candidate-vibid:4234056226051": 13,
+      "gas:candidate-vibid:4234056238639": 1552,
+      "gas:candidate-vibid:4234056238262": 33,
+      "gas:candidate-vibid:4234056225742": 21,
+      "gas:candidate-vibid:4234056238794": 4
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/krasnodar?action=show&root=1000066&tvd=4234056224477&vrn=100100067795849&region=23&global=&sub_region=23&prver=0&pronetvd=null&vibid=4234056224477&type=464",
@@ -6655,13 +6655,13 @@ export const duma_2016_uik_463_region_23_part_011 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Витишко Евгений Геннадиевич": 0,
-      "Ерохин Михаил Викторович": 0,
-      "Заруба Ольга Александровна": 0,
-      "Синяговский Владимир Ильич": 646,
-      "Тренин Алексей Николаевич": 61,
-      "Хот Валерий Владимирович": 27,
-      "Штуркин Владимир Николаевич": 0
+      "gas:candidate-vibid:4234056238349": 0,
+      "gas:candidate-vibid:4234056238140": 0,
+      "gas:candidate-vibid:4234056226051": 0,
+      "gas:candidate-vibid:4234056238639": 646,
+      "gas:candidate-vibid:4234056238262": 61,
+      "gas:candidate-vibid:4234056225742": 27,
+      "gas:candidate-vibid:4234056238794": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/krasnodar?action=show&root=1000066&tvd=4234056224477&vrn=100100067795849&region=23&global=&sub_region=23&prver=0&pronetvd=null&vibid=4234056224477&type=464",
@@ -6712,13 +6712,13 @@ export const duma_2016_uik_463_region_23_part_011 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Витишко Евгений Геннадиевич": 11,
-      "Ерохин Михаил Викторович": 34,
-      "Заруба Ольга Александровна": 37,
-      "Синяговский Владимир Ильич": 1206,
-      "Тренин Алексей Николаевич": 43,
-      "Хот Валерий Владимирович": 63,
-      "Штуркин Владимир Николаевич": 8
+      "gas:candidate-vibid:4234056238349": 11,
+      "gas:candidate-vibid:4234056238140": 34,
+      "gas:candidate-vibid:4234056226051": 37,
+      "gas:candidate-vibid:4234056238639": 1206,
+      "gas:candidate-vibid:4234056238262": 43,
+      "gas:candidate-vibid:4234056225742": 63,
+      "gas:candidate-vibid:4234056238794": 8
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/krasnodar?action=show&root=1000066&tvd=4234056224477&vrn=100100067795849&region=23&global=&sub_region=23&prver=0&pronetvd=null&vibid=4234056224477&type=464",
@@ -6769,13 +6769,13 @@ export const duma_2016_uik_463_region_23_part_011 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Витишко Евгений Геннадиевич": 14,
-      "Ерохин Михаил Викторович": 28,
-      "Заруба Ольга Александровна": 34,
-      "Синяговский Владимир Ильич": 960,
-      "Тренин Алексей Николаевич": 68,
-      "Хот Валерий Владимирович": 51,
-      "Штуркин Владимир Николаевич": 8
+      "gas:candidate-vibid:4234056238349": 14,
+      "gas:candidate-vibid:4234056238140": 28,
+      "gas:candidate-vibid:4234056226051": 34,
+      "gas:candidate-vibid:4234056238639": 960,
+      "gas:candidate-vibid:4234056238262": 68,
+      "gas:candidate-vibid:4234056225742": 51,
+      "gas:candidate-vibid:4234056238794": 8
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/krasnodar?action=show&root=1000066&tvd=4234056224477&vrn=100100067795849&region=23&global=&sub_region=23&prver=0&pronetvd=null&vibid=4234056224477&type=464",
@@ -6826,13 +6826,13 @@ export const duma_2016_uik_463_region_23_part_011 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Витишко Евгений Геннадиевич": 7,
-      "Ерохин Михаил Викторович": 20,
-      "Заруба Ольга Александровна": 27,
-      "Синяговский Владимир Ильич": 1037,
-      "Тренин Алексей Николаевич": 57,
-      "Хот Валерий Владимирович": 50,
-      "Штуркин Владимир Николаевич": 11
+      "gas:candidate-vibid:4234056238349": 7,
+      "gas:candidate-vibid:4234056238140": 20,
+      "gas:candidate-vibid:4234056226051": 27,
+      "gas:candidate-vibid:4234056238639": 1037,
+      "gas:candidate-vibid:4234056238262": 57,
+      "gas:candidate-vibid:4234056225742": 50,
+      "gas:candidate-vibid:4234056238794": 11
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/krasnodar?action=show&root=1000066&tvd=4234056224477&vrn=100100067795849&region=23&global=&sub_region=23&prver=0&pronetvd=null&vibid=4234056224477&type=464",
@@ -6883,13 +6883,13 @@ export const duma_2016_uik_463_region_23_part_011 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Витишко Евгений Геннадиевич": 0,
-      "Ерохин Михаил Викторович": 9,
-      "Заруба Ольга Александровна": 6,
-      "Синяговский Владимир Ильич": 197,
-      "Тренин Алексей Николаевич": 13,
-      "Хот Валерий Владимирович": 7,
-      "Штуркин Владимир Николаевич": 2
+      "gas:candidate-vibid:4234056238349": 0,
+      "gas:candidate-vibid:4234056238140": 9,
+      "gas:candidate-vibid:4234056226051": 6,
+      "gas:candidate-vibid:4234056238639": 197,
+      "gas:candidate-vibid:4234056238262": 13,
+      "gas:candidate-vibid:4234056225742": 7,
+      "gas:candidate-vibid:4234056238794": 2
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/krasnodar?action=show&root=1000066&tvd=4234056224477&vrn=100100067795849&region=23&global=&sub_region=23&prver=0&pronetvd=null&vibid=4234056224477&type=464",
@@ -6940,13 +6940,13 @@ export const duma_2016_uik_463_region_23_part_011 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Витишко Евгений Геннадиевич": 0,
-      "Ерохин Михаил Викторович": 9,
-      "Заруба Ольга Александровна": 0,
-      "Синяговский Владимир Ильич": 299,
-      "Тренин Алексей Николаевич": 13,
-      "Хот Валерий Владимирович": 9,
-      "Штуркин Владимир Николаевич": 0
+      "gas:candidate-vibid:4234056238349": 0,
+      "gas:candidate-vibid:4234056238140": 9,
+      "gas:candidate-vibid:4234056226051": 0,
+      "gas:candidate-vibid:4234056238639": 299,
+      "gas:candidate-vibid:4234056238262": 13,
+      "gas:candidate-vibid:4234056225742": 9,
+      "gas:candidate-vibid:4234056238794": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/krasnodar?action=show&root=1000066&tvd=4234056224477&vrn=100100067795849&region=23&global=&sub_region=23&prver=0&pronetvd=null&vibid=4234056224477&type=464",
@@ -6997,13 +6997,13 @@ export const duma_2016_uik_463_region_23_part_011 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Витишко Евгений Геннадиевич": 19,
-      "Ерохин Михаил Викторович": 37,
-      "Заруба Ольга Александровна": 41,
-      "Синяговский Владимир Ильич": 986,
-      "Тренин Алексей Николаевич": 44,
-      "Хот Валерий Владимирович": 40,
-      "Штуркин Владимир Николаевич": 14
+      "gas:candidate-vibid:4234056238349": 19,
+      "gas:candidate-vibid:4234056238140": 37,
+      "gas:candidate-vibid:4234056226051": 41,
+      "gas:candidate-vibid:4234056238639": 986,
+      "gas:candidate-vibid:4234056238262": 44,
+      "gas:candidate-vibid:4234056225742": 40,
+      "gas:candidate-vibid:4234056238794": 14
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/krasnodar?action=show&root=1000066&tvd=4234056224477&vrn=100100067795849&region=23&global=&sub_region=23&prver=0&pronetvd=null&vibid=4234056224477&type=464",
@@ -7054,13 +7054,13 @@ export const duma_2016_uik_463_region_23_part_011 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Витишко Евгений Геннадиевич": 19,
-      "Ерохин Михаил Викторович": 25,
-      "Заруба Ольга Александровна": 40,
-      "Синяговский Владимир Ильич": 972,
-      "Тренин Алексей Николаевич": 89,
-      "Хот Валерий Владимирович": 58,
-      "Штуркин Владимир Николаевич": 14
+      "gas:candidate-vibid:4234056238349": 19,
+      "gas:candidate-vibid:4234056238140": 25,
+      "gas:candidate-vibid:4234056226051": 40,
+      "gas:candidate-vibid:4234056238639": 972,
+      "gas:candidate-vibid:4234056238262": 89,
+      "gas:candidate-vibid:4234056225742": 58,
+      "gas:candidate-vibid:4234056238794": 14
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/krasnodar?action=show&root=1000066&tvd=4234056224477&vrn=100100067795849&region=23&global=&sub_region=23&prver=0&pronetvd=null&vibid=4234056224477&type=464",
@@ -7111,13 +7111,13 @@ export const duma_2016_uik_463_region_23_part_011 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Витишко Евгений Геннадиевич": 8,
-      "Ерохин Михаил Викторович": 14,
-      "Заруба Ольга Александровна": 11,
-      "Синяговский Владимир Ильич": 1754,
-      "Тренин Алексей Николаевич": 137,
-      "Хот Валерий Владимирович": 16,
-      "Штуркин Владимир Николаевич": 9
+      "gas:candidate-vibid:4234056238349": 8,
+      "gas:candidate-vibid:4234056238140": 14,
+      "gas:candidate-vibid:4234056226051": 11,
+      "gas:candidate-vibid:4234056238639": 1754,
+      "gas:candidate-vibid:4234056238262": 137,
+      "gas:candidate-vibid:4234056225742": 16,
+      "gas:candidate-vibid:4234056238794": 9
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/krasnodar?action=show&root=1000066&tvd=4234056224477&vrn=100100067795849&region=23&global=&sub_region=23&prver=0&pronetvd=null&vibid=4234056224477&type=464",
@@ -7168,13 +7168,13 @@ export const duma_2016_uik_463_region_23_part_011 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Витишко Евгений Геннадиевич": 2,
-      "Ерохин Михаил Викторович": 2,
-      "Заруба Ольга Александровна": 4,
-      "Синяговский Владимир Ильич": 181,
-      "Тренин Алексей Николаевич": 5,
-      "Хот Валерий Владимирович": 2,
-      "Штуркин Владимир Николаевич": 1
+      "gas:candidate-vibid:4234056238349": 2,
+      "gas:candidate-vibid:4234056238140": 2,
+      "gas:candidate-vibid:4234056226051": 4,
+      "gas:candidate-vibid:4234056238639": 181,
+      "gas:candidate-vibid:4234056238262": 5,
+      "gas:candidate-vibid:4234056225742": 2,
+      "gas:candidate-vibid:4234056238794": 1
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/krasnodar?action=show&root=1000066&tvd=4234056224477&vrn=100100067795849&region=23&global=&sub_region=23&prver=0&pronetvd=null&vibid=4234056224477&type=464",
@@ -7225,13 +7225,13 @@ export const duma_2016_uik_463_region_23_part_011 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Витишко Евгений Геннадиевич": 10,
-      "Ерохин Михаил Викторович": 0,
-      "Заруба Ольга Александровна": 0,
-      "Синяговский Владимир Ильич": 1373,
-      "Тренин Алексей Николаевич": 260,
-      "Хот Валерий Владимирович": 5,
-      "Штуркин Владимир Николаевич": 5
+      "gas:candidate-vibid:4234056238349": 10,
+      "gas:candidate-vibid:4234056238140": 0,
+      "gas:candidate-vibid:4234056226051": 0,
+      "gas:candidate-vibid:4234056238639": 1373,
+      "gas:candidate-vibid:4234056238262": 260,
+      "gas:candidate-vibid:4234056225742": 5,
+      "gas:candidate-vibid:4234056238794": 5
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/krasnodar?action=show&root=1000066&tvd=4234056224477&vrn=100100067795849&region=23&global=&sub_region=23&prver=0&pronetvd=null&vibid=4234056224477&type=464",
@@ -7282,13 +7282,13 @@ export const duma_2016_uik_463_region_23_part_011 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Витишко Евгений Геннадиевич": 11,
-      "Ерохин Михаил Викторович": 53,
-      "Заруба Ольга Александровна": 35,
-      "Синяговский Владимир Ильич": 1459,
-      "Тренин Алексей Николаевич": 58,
-      "Хот Валерий Владимирович": 54,
-      "Штуркин Владимир Николаевич": 10
+      "gas:candidate-vibid:4234056238349": 11,
+      "gas:candidate-vibid:4234056238140": 53,
+      "gas:candidate-vibid:4234056226051": 35,
+      "gas:candidate-vibid:4234056238639": 1459,
+      "gas:candidate-vibid:4234056238262": 58,
+      "gas:candidate-vibid:4234056225742": 54,
+      "gas:candidate-vibid:4234056238794": 10
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/krasnodar?action=show&root=1000066&tvd=4234056224477&vrn=100100067795849&region=23&global=&sub_region=23&prver=0&pronetvd=null&vibid=4234056224477&type=464",
@@ -7339,13 +7339,13 @@ export const duma_2016_uik_463_region_23_part_011 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Витишко Евгений Геннадиевич": 13,
-      "Ерохин Михаил Викторович": 23,
-      "Заруба Ольга Александровна": 19,
-      "Синяговский Владимир Ильич": 1216,
-      "Тренин Алексей Николаевич": 99,
-      "Хот Валерий Владимирович": 16,
-      "Штуркин Владимир Николаевич": 14
+      "gas:candidate-vibid:4234056238349": 13,
+      "gas:candidate-vibid:4234056238140": 23,
+      "gas:candidate-vibid:4234056226051": 19,
+      "gas:candidate-vibid:4234056238639": 1216,
+      "gas:candidate-vibid:4234056238262": 99,
+      "gas:candidate-vibid:4234056225742": 16,
+      "gas:candidate-vibid:4234056238794": 14
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/krasnodar?action=show&root=1000066&tvd=4234056224477&vrn=100100067795849&region=23&global=&sub_region=23&prver=0&pronetvd=null&vibid=4234056224477&type=464",
@@ -7396,13 +7396,13 @@ export const duma_2016_uik_463_region_23_part_011 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Витишко Евгений Геннадиевич": 15,
-      "Ерохин Михаил Викторович": 22,
-      "Заруба Ольга Александровна": 44,
-      "Синяговский Владимир Ильич": 1665,
-      "Тренин Алексей Николаевич": 185,
-      "Хот Валерий Владимирович": 68,
-      "Штуркин Владимир Николаевич": 8
+      "gas:candidate-vibid:4234056238349": 15,
+      "gas:candidate-vibid:4234056238140": 22,
+      "gas:candidate-vibid:4234056226051": 44,
+      "gas:candidate-vibid:4234056238639": 1665,
+      "gas:candidate-vibid:4234056238262": 185,
+      "gas:candidate-vibid:4234056225742": 68,
+      "gas:candidate-vibid:4234056238794": 8
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/krasnodar?action=show&root=1000066&tvd=4234056224477&vrn=100100067795849&region=23&global=&sub_region=23&prver=0&pronetvd=null&vibid=4234056224477&type=464",
@@ -7453,13 +7453,13 @@ export const duma_2016_uik_463_region_23_part_011 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Витишко Евгений Геннадиевич": 11,
-      "Ерохин Михаил Викторович": 70,
-      "Заруба Ольга Александровна": 37,
-      "Синяговский Владимир Ильич": 1003,
-      "Тренин Алексей Николаевич": 101,
-      "Хот Валерий Владимирович": 37,
-      "Штуркин Владимир Николаевич": 6
+      "gas:candidate-vibid:4234056238349": 11,
+      "gas:candidate-vibid:4234056238140": 70,
+      "gas:candidate-vibid:4234056226051": 37,
+      "gas:candidate-vibid:4234056238639": 1003,
+      "gas:candidate-vibid:4234056238262": 101,
+      "gas:candidate-vibid:4234056225742": 37,
+      "gas:candidate-vibid:4234056238794": 6
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/krasnodar?action=show&root=1000066&tvd=4234056224477&vrn=100100067795849&region=23&global=&sub_region=23&prver=0&pronetvd=null&vibid=4234056224477&type=464",
@@ -7510,13 +7510,13 @@ export const duma_2016_uik_463_region_23_part_011 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Витишко Евгений Геннадиевич": 28,
-      "Ерохин Михаил Викторович": 58,
-      "Заруба Ольга Александровна": 48,
-      "Синяговский Владимир Ильич": 1639,
-      "Тренин Алексей Николаевич": 87,
-      "Хот Валерий Владимирович": 79,
-      "Штуркин Владимир Николаевич": 37
+      "gas:candidate-vibid:4234056238349": 28,
+      "gas:candidate-vibid:4234056238140": 58,
+      "gas:candidate-vibid:4234056226051": 48,
+      "gas:candidate-vibid:4234056238639": 1639,
+      "gas:candidate-vibid:4234056238262": 87,
+      "gas:candidate-vibid:4234056225742": 79,
+      "gas:candidate-vibid:4234056238794": 37
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/krasnodar?action=show&root=1000066&tvd=4234056224477&vrn=100100067795849&region=23&global=&sub_region=23&prver=0&pronetvd=null&vibid=4234056224477&type=464",
@@ -7567,13 +7567,13 @@ export const duma_2016_uik_463_region_23_part_011 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Витишко Евгений Геннадиевич": 18,
-      "Ерохин Михаил Викторович": 42,
-      "Заруба Ольга Александровна": 39,
-      "Синяговский Владимир Ильич": 940,
-      "Тренин Алексей Николаевич": 48,
-      "Хот Валерий Владимирович": 41,
-      "Штуркин Владимир Николаевич": 24
+      "gas:candidate-vibid:4234056238349": 18,
+      "gas:candidate-vibid:4234056238140": 42,
+      "gas:candidate-vibid:4234056226051": 39,
+      "gas:candidate-vibid:4234056238639": 940,
+      "gas:candidate-vibid:4234056238262": 48,
+      "gas:candidate-vibid:4234056225742": 41,
+      "gas:candidate-vibid:4234056238794": 24
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/krasnodar?action=show&root=1000066&tvd=4234056224477&vrn=100100067795849&region=23&global=&sub_region=23&prver=0&pronetvd=null&vibid=4234056224477&type=464",
@@ -7624,13 +7624,13 @@ export const duma_2016_uik_463_region_23_part_011 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Витишко Евгений Геннадиевич": 71,
-      "Ерохин Михаил Викторович": 53,
-      "Заруба Ольга Александровна": 50,
-      "Синяговский Владимир Ильич": 723,
-      "Тренин Алексей Николаевич": 75,
-      "Хот Валерий Владимирович": 122,
-      "Штуркин Владимир Николаевич": 27
+      "gas:candidate-vibid:4234056238349": 71,
+      "gas:candidate-vibid:4234056238140": 53,
+      "gas:candidate-vibid:4234056226051": 50,
+      "gas:candidate-vibid:4234056238639": 723,
+      "gas:candidate-vibid:4234056238262": 75,
+      "gas:candidate-vibid:4234056225742": 122,
+      "gas:candidate-vibid:4234056238794": 27
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/krasnodar?action=show&root=1000066&tvd=4234056224478&vrn=100100067795849&region=23&global=&sub_region=23&prver=0&pronetvd=null&vibid=4234056224478&type=464",
@@ -7681,13 +7681,13 @@ export const duma_2016_uik_463_region_23_part_011 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Витишко Евгений Геннадиевич": 56,
-      "Ерохин Михаил Викторович": 33,
-      "Заруба Ольга Александровна": 42,
-      "Синяговский Владимир Ильич": 559,
-      "Тренин Алексей Николаевич": 77,
-      "Хот Валерий Владимирович": 109,
-      "Штуркин Владимир Николаевич": 27
+      "gas:candidate-vibid:4234056238349": 56,
+      "gas:candidate-vibid:4234056238140": 33,
+      "gas:candidate-vibid:4234056226051": 42,
+      "gas:candidate-vibid:4234056238639": 559,
+      "gas:candidate-vibid:4234056238262": 77,
+      "gas:candidate-vibid:4234056225742": 109,
+      "gas:candidate-vibid:4234056238794": 27
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/krasnodar?action=show&root=1000066&tvd=4234056224478&vrn=100100067795849&region=23&global=&sub_region=23&prver=0&pronetvd=null&vibid=4234056224478&type=464",
@@ -7738,13 +7738,13 @@ export const duma_2016_uik_463_region_23_part_011 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Витишко Евгений Геннадиевич": 52,
-      "Ерохин Михаил Викторович": 32,
-      "Заруба Ольга Александровна": 51,
-      "Синяговский Владимир Ильич": 790,
-      "Тренин Алексей Николаевич": 70,
-      "Хот Валерий Владимирович": 224,
-      "Штуркин Владимир Николаевич": 11
+      "gas:candidate-vibid:4234056238349": 52,
+      "gas:candidate-vibid:4234056238140": 32,
+      "gas:candidate-vibid:4234056226051": 51,
+      "gas:candidate-vibid:4234056238639": 790,
+      "gas:candidate-vibid:4234056238262": 70,
+      "gas:candidate-vibid:4234056225742": 224,
+      "gas:candidate-vibid:4234056238794": 11
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/krasnodar?action=show&root=1000066&tvd=4234056224478&vrn=100100067795849&region=23&global=&sub_region=23&prver=0&pronetvd=null&vibid=4234056224478&type=464",
@@ -7795,13 +7795,13 @@ export const duma_2016_uik_463_region_23_part_011 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Витишко Евгений Геннадиевич": 52,
-      "Ерохин Михаил Викторович": 58,
-      "Заруба Ольга Александровна": 72,
-      "Синяговский Владимир Ильич": 404,
-      "Тренин Алексей Николаевич": 150,
-      "Хот Валерий Владимирович": 183,
-      "Штуркин Владимир Николаевич": 36
+      "gas:candidate-vibid:4234056238349": 52,
+      "gas:candidate-vibid:4234056238140": 58,
+      "gas:candidate-vibid:4234056226051": 72,
+      "gas:candidate-vibid:4234056238639": 404,
+      "gas:candidate-vibid:4234056238262": 150,
+      "gas:candidate-vibid:4234056225742": 183,
+      "gas:candidate-vibid:4234056238794": 36
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/krasnodar?action=show&root=1000066&tvd=4234056224478&vrn=100100067795849&region=23&global=&sub_region=23&prver=0&pronetvd=null&vibid=4234056224478&type=464",
@@ -7852,13 +7852,13 @@ export const duma_2016_uik_463_region_23_part_011 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Витишко Евгений Геннадиевич": 47,
-      "Ерохин Михаил Викторович": 68,
-      "Заруба Ольга Александровна": 80,
-      "Синяговский Владимир Ильич": 854,
-      "Тренин Алексей Николаевич": 121,
-      "Хот Валерий Владимирович": 158,
-      "Штуркин Владимир Николаевич": 23
+      "gas:candidate-vibid:4234056238349": 47,
+      "gas:candidate-vibid:4234056238140": 68,
+      "gas:candidate-vibid:4234056226051": 80,
+      "gas:candidate-vibid:4234056238639": 854,
+      "gas:candidate-vibid:4234056238262": 121,
+      "gas:candidate-vibid:4234056225742": 158,
+      "gas:candidate-vibid:4234056238794": 23
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/krasnodar?action=show&root=1000066&tvd=4234056224478&vrn=100100067795849&region=23&global=&sub_region=23&prver=0&pronetvd=null&vibid=4234056224478&type=464",
@@ -7909,13 +7909,13 @@ export const duma_2016_uik_463_region_23_part_011 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Витишко Евгений Геннадиевич": 23,
-      "Ерохин Михаил Викторович": 31,
-      "Заруба Ольга Александровна": 33,
-      "Синяговский Владимир Ильич": 394,
-      "Тренин Алексей Николаевич": 55,
-      "Хот Валерий Владимирович": 100,
-      "Штуркин Владимир Николаевич": 13
+      "gas:candidate-vibid:4234056238349": 23,
+      "gas:candidate-vibid:4234056238140": 31,
+      "gas:candidate-vibid:4234056226051": 33,
+      "gas:candidate-vibid:4234056238639": 394,
+      "gas:candidate-vibid:4234056238262": 55,
+      "gas:candidate-vibid:4234056225742": 100,
+      "gas:candidate-vibid:4234056238794": 13
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/krasnodar?action=show&root=1000066&tvd=4234056224478&vrn=100100067795849&region=23&global=&sub_region=23&prver=0&pronetvd=null&vibid=4234056224478&type=464",
@@ -7966,13 +7966,13 @@ export const duma_2016_uik_463_region_23_part_011 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Витишко Евгений Геннадиевич": 26,
-      "Ерохин Михаил Викторович": 48,
-      "Заруба Ольга Александровна": 35,
-      "Синяговский Владимир Ильич": 815,
-      "Тренин Алексей Николаевич": 81,
-      "Хот Валерий Владимирович": 105,
-      "Штуркин Владимир Николаевич": 21
+      "gas:candidate-vibid:4234056238349": 26,
+      "gas:candidate-vibid:4234056238140": 48,
+      "gas:candidate-vibid:4234056226051": 35,
+      "gas:candidate-vibid:4234056238639": 815,
+      "gas:candidate-vibid:4234056238262": 81,
+      "gas:candidate-vibid:4234056225742": 105,
+      "gas:candidate-vibid:4234056238794": 21
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/krasnodar?action=show&root=1000066&tvd=4234056224478&vrn=100100067795849&region=23&global=&sub_region=23&prver=0&pronetvd=null&vibid=4234056224478&type=464",
@@ -8023,13 +8023,13 @@ export const duma_2016_uik_463_region_23_part_011 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Витишко Евгений Геннадиевич": 58,
-      "Ерохин Михаил Викторович": 44,
-      "Заруба Ольга Александровна": 58,
-      "Синяговский Владимир Ильич": 708,
-      "Тренин Алексей Николаевич": 79,
-      "Хот Валерий Владимирович": 192,
-      "Штуркин Владимир Николаевич": 21
+      "gas:candidate-vibid:4234056238349": 58,
+      "gas:candidate-vibid:4234056238140": 44,
+      "gas:candidate-vibid:4234056226051": 58,
+      "gas:candidate-vibid:4234056238639": 708,
+      "gas:candidate-vibid:4234056238262": 79,
+      "gas:candidate-vibid:4234056225742": 192,
+      "gas:candidate-vibid:4234056238794": 21
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/krasnodar?action=show&root=1000066&tvd=4234056224478&vrn=100100067795849&region=23&global=&sub_region=23&prver=0&pronetvd=null&vibid=4234056224478&type=464",
@@ -8080,13 +8080,13 @@ export const duma_2016_uik_463_region_23_part_011 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Витишко Евгений Геннадиевич": 61,
-      "Ерохин Михаил Викторович": 53,
-      "Заруба Ольга Александровна": 50,
-      "Синяговский Владимир Ильич": 504,
-      "Тренин Алексей Николаевич": 70,
-      "Хот Валерий Владимирович": 135,
-      "Штуркин Владимир Николаевич": 33
+      "gas:candidate-vibid:4234056238349": 61,
+      "gas:candidate-vibid:4234056238140": 53,
+      "gas:candidate-vibid:4234056226051": 50,
+      "gas:candidate-vibid:4234056238639": 504,
+      "gas:candidate-vibid:4234056238262": 70,
+      "gas:candidate-vibid:4234056225742": 135,
+      "gas:candidate-vibid:4234056238794": 33
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/krasnodar?action=show&root=1000066&tvd=4234056224478&vrn=100100067795849&region=23&global=&sub_region=23&prver=0&pronetvd=null&vibid=4234056224478&type=464",
@@ -8137,13 +8137,13 @@ export const duma_2016_uik_463_region_23_part_011 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Витишко Евгений Геннадиевич": 57,
-      "Ерохин Михаил Викторович": 43,
-      "Заруба Ольга Александровна": 57,
-      "Синяговский Владимир Ильич": 611,
-      "Тренин Алексей Николаевич": 78,
-      "Хот Валерий Владимирович": 167,
-      "Штуркин Владимир Николаевич": 26
+      "gas:candidate-vibid:4234056238349": 57,
+      "gas:candidate-vibid:4234056238140": 43,
+      "gas:candidate-vibid:4234056226051": 57,
+      "gas:candidate-vibid:4234056238639": 611,
+      "gas:candidate-vibid:4234056238262": 78,
+      "gas:candidate-vibid:4234056225742": 167,
+      "gas:candidate-vibid:4234056238794": 26
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/krasnodar?action=show&root=1000066&tvd=4234056224478&vrn=100100067795849&region=23&global=&sub_region=23&prver=0&pronetvd=null&vibid=4234056224478&type=464",
@@ -8194,13 +8194,13 @@ export const duma_2016_uik_463_region_23_part_011 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Витишко Евгений Геннадиевич": 45,
-      "Ерохин Михаил Викторович": 26,
-      "Заруба Ольга Александровна": 44,
-      "Синяговский Владимир Ильич": 818,
-      "Тренин Алексей Николаевич": 83,
-      "Хот Валерий Владимирович": 102,
-      "Штуркин Владимир Николаевич": 20
+      "gas:candidate-vibid:4234056238349": 45,
+      "gas:candidate-vibid:4234056238140": 26,
+      "gas:candidate-vibid:4234056226051": 44,
+      "gas:candidate-vibid:4234056238639": 818,
+      "gas:candidate-vibid:4234056238262": 83,
+      "gas:candidate-vibid:4234056225742": 102,
+      "gas:candidate-vibid:4234056238794": 20
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/krasnodar?action=show&root=1000066&tvd=4234056224478&vrn=100100067795849&region=23&global=&sub_region=23&prver=0&pronetvd=null&vibid=4234056224478&type=464",
@@ -8251,13 +8251,13 @@ export const duma_2016_uik_463_region_23_part_011 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Витишко Евгений Геннадиевич": 39,
-      "Ерохин Михаил Викторович": 47,
-      "Заруба Ольга Александровна": 29,
-      "Синяговский Владимир Ильич": 495,
-      "Тренин Алексей Николаевич": 66,
-      "Хот Валерий Владимирович": 113,
-      "Штуркин Владимир Николаевич": 28
+      "gas:candidate-vibid:4234056238349": 39,
+      "gas:candidate-vibid:4234056238140": 47,
+      "gas:candidate-vibid:4234056226051": 29,
+      "gas:candidate-vibid:4234056238639": 495,
+      "gas:candidate-vibid:4234056238262": 66,
+      "gas:candidate-vibid:4234056225742": 113,
+      "gas:candidate-vibid:4234056238794": 28
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/krasnodar?action=show&root=1000066&tvd=4234056224478&vrn=100100067795849&region=23&global=&sub_region=23&prver=0&pronetvd=null&vibid=4234056224478&type=464",
@@ -8308,13 +8308,13 @@ export const duma_2016_uik_463_region_23_part_011 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Витишко Евгений Геннадиевич": 25,
-      "Ерохин Михаил Викторович": 28,
-      "Заруба Ольга Александровна": 39,
-      "Синяговский Владимир Ильич": 246,
-      "Тренин Алексей Николаевич": 43,
-      "Хот Валерий Владимирович": 70,
-      "Штуркин Владимир Николаевич": 12
+      "gas:candidate-vibid:4234056238349": 25,
+      "gas:candidate-vibid:4234056238140": 28,
+      "gas:candidate-vibid:4234056226051": 39,
+      "gas:candidate-vibid:4234056238639": 246,
+      "gas:candidate-vibid:4234056238262": 43,
+      "gas:candidate-vibid:4234056225742": 70,
+      "gas:candidate-vibid:4234056238794": 12
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/krasnodar?action=show&root=1000066&tvd=4234056224478&vrn=100100067795849&region=23&global=&sub_region=23&prver=0&pronetvd=null&vibid=4234056224478&type=464",
@@ -8365,13 +8365,13 @@ export const duma_2016_uik_463_region_23_part_011 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Витишко Евгений Геннадиевич": 53,
-      "Ерохин Михаил Викторович": 41,
-      "Заруба Ольга Александровна": 47,
-      "Синяговский Владимир Ильич": 504,
-      "Тренин Алексей Николаевич": 113,
-      "Хот Валерий Владимирович": 150,
-      "Штуркин Владимир Николаевич": 34
+      "gas:candidate-vibid:4234056238349": 53,
+      "gas:candidate-vibid:4234056238140": 41,
+      "gas:candidate-vibid:4234056226051": 47,
+      "gas:candidate-vibid:4234056238639": 504,
+      "gas:candidate-vibid:4234056238262": 113,
+      "gas:candidate-vibid:4234056225742": 150,
+      "gas:candidate-vibid:4234056238794": 34
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/krasnodar?action=show&root=1000066&tvd=4234056224478&vrn=100100067795849&region=23&global=&sub_region=23&prver=0&pronetvd=null&vibid=4234056224478&type=464",
@@ -8422,13 +8422,13 @@ export const duma_2016_uik_463_region_23_part_011 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Витишко Евгений Геннадиевич": 49,
-      "Ерохин Михаил Викторович": 46,
-      "Заруба Ольга Александровна": 53,
-      "Синяговский Владимир Ильич": 599,
-      "Тренин Алексей Николаевич": 70,
-      "Хот Валерий Владимирович": 103,
-      "Штуркин Владимир Николаевич": 29
+      "gas:candidate-vibid:4234056238349": 49,
+      "gas:candidate-vibid:4234056238140": 46,
+      "gas:candidate-vibid:4234056226051": 53,
+      "gas:candidate-vibid:4234056238639": 599,
+      "gas:candidate-vibid:4234056238262": 70,
+      "gas:candidate-vibid:4234056225742": 103,
+      "gas:candidate-vibid:4234056238794": 29
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/krasnodar?action=show&root=1000066&tvd=4234056224478&vrn=100100067795849&region=23&global=&sub_region=23&prver=0&pronetvd=null&vibid=4234056224478&type=464",
@@ -8479,13 +8479,13 @@ export const duma_2016_uik_463_region_23_part_011 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Витишко Евгений Геннадиевич": 53,
-      "Ерохин Михаил Викторович": 57,
-      "Заруба Ольга Александровна": 59,
-      "Синяговский Владимир Ильич": 575,
-      "Тренин Алексей Николаевич": 123,
-      "Хот Валерий Владимирович": 163,
-      "Штуркин Владимир Николаевич": 29
+      "gas:candidate-vibid:4234056238349": 53,
+      "gas:candidate-vibid:4234056238140": 57,
+      "gas:candidate-vibid:4234056226051": 59,
+      "gas:candidate-vibid:4234056238639": 575,
+      "gas:candidate-vibid:4234056238262": 123,
+      "gas:candidate-vibid:4234056225742": 163,
+      "gas:candidate-vibid:4234056238794": 29
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/krasnodar?action=show&root=1000066&tvd=4234056224478&vrn=100100067795849&region=23&global=&sub_region=23&prver=0&pronetvd=null&vibid=4234056224478&type=464",
@@ -8536,13 +8536,13 @@ export const duma_2016_uik_463_region_23_part_011 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Витишко Евгений Геннадиевич": 43,
-      "Ерохин Михаил Викторович": 53,
-      "Заруба Ольга Александровна": 52,
-      "Синяговский Владимир Ильич": 1008,
-      "Тренин Алексей Николаевич": 115,
-      "Хот Валерий Владимирович": 140,
-      "Штуркин Владимир Николаевич": 16
+      "gas:candidate-vibid:4234056238349": 43,
+      "gas:candidate-vibid:4234056238140": 53,
+      "gas:candidate-vibid:4234056226051": 52,
+      "gas:candidate-vibid:4234056238639": 1008,
+      "gas:candidate-vibid:4234056238262": 115,
+      "gas:candidate-vibid:4234056225742": 140,
+      "gas:candidate-vibid:4234056238794": 16
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/krasnodar?action=show&root=1000066&tvd=4234056224478&vrn=100100067795849&region=23&global=&sub_region=23&prver=0&pronetvd=null&vibid=4234056224478&type=464",
@@ -8593,13 +8593,13 @@ export const duma_2016_uik_463_region_23_part_011 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Витишко Евгений Геннадиевич": 53,
-      "Ерохин Михаил Викторович": 95,
-      "Заруба Ольга Александровна": 65,
-      "Синяговский Владимир Ильич": 622,
-      "Тренин Алексей Николаевич": 84,
-      "Хот Валерий Владимирович": 215,
-      "Штуркин Владимир Николаевич": 82
+      "gas:candidate-vibid:4234056238349": 53,
+      "gas:candidate-vibid:4234056238140": 95,
+      "gas:candidate-vibid:4234056226051": 65,
+      "gas:candidate-vibid:4234056238639": 622,
+      "gas:candidate-vibid:4234056238262": 84,
+      "gas:candidate-vibid:4234056225742": 215,
+      "gas:candidate-vibid:4234056238794": 82
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/krasnodar?action=show&root=1000066&tvd=4234056224478&vrn=100100067795849&region=23&global=&sub_region=23&prver=0&pronetvd=null&vibid=4234056224478&type=464",
@@ -8650,13 +8650,13 @@ export const duma_2016_uik_463_region_23_part_011 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Витишко Евгений Геннадиевич": 16,
-      "Ерохин Михаил Викторович": 16,
-      "Заруба Ольга Александровна": 22,
-      "Синяговский Владимир Ильич": 480,
-      "Тренин Алексей Николаевич": 53,
-      "Хот Валерий Владимирович": 96,
-      "Штуркин Владимир Николаевич": 20
+      "gas:candidate-vibid:4234056238349": 16,
+      "gas:candidate-vibid:4234056238140": 16,
+      "gas:candidate-vibid:4234056226051": 22,
+      "gas:candidate-vibid:4234056238639": 480,
+      "gas:candidate-vibid:4234056238262": 53,
+      "gas:candidate-vibid:4234056225742": 96,
+      "gas:candidate-vibid:4234056238794": 20
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/krasnodar?action=show&root=1000066&tvd=4234056224478&vrn=100100067795849&region=23&global=&sub_region=23&prver=0&pronetvd=null&vibid=4234056224478&type=464",
@@ -8707,13 +8707,13 @@ export const duma_2016_uik_463_region_23_part_011 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Витишко Евгений Геннадиевич": 57,
-      "Ерохин Михаил Викторович": 57,
-      "Заруба Ольга Александровна": 52,
-      "Синяговский Владимир Ильич": 802,
-      "Тренин Алексей Николаевич": 114,
-      "Хот Валерий Владимирович": 150,
-      "Штуркин Владимир Николаевич": 39
+      "gas:candidate-vibid:4234056238349": 57,
+      "gas:candidate-vibid:4234056238140": 57,
+      "gas:candidate-vibid:4234056226051": 52,
+      "gas:candidate-vibid:4234056238639": 802,
+      "gas:candidate-vibid:4234056238262": 114,
+      "gas:candidate-vibid:4234056225742": 150,
+      "gas:candidate-vibid:4234056238794": 39
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/krasnodar?action=show&root=1000066&tvd=4234056224478&vrn=100100067795849&region=23&global=&sub_region=23&prver=0&pronetvd=null&vibid=4234056224478&type=464",
@@ -8764,13 +8764,13 @@ export const duma_2016_uik_463_region_23_part_011 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Витишко Евгений Геннадиевич": 38,
-      "Ерохин Михаил Викторович": 42,
-      "Заруба Ольга Александровна": 42,
-      "Синяговский Владимир Ильич": 686,
-      "Тренин Алексей Николаевич": 85,
-      "Хот Валерий Владимирович": 156,
-      "Штуркин Владимир Николаевич": 36
+      "gas:candidate-vibid:4234056238349": 38,
+      "gas:candidate-vibid:4234056238140": 42,
+      "gas:candidate-vibid:4234056226051": 42,
+      "gas:candidate-vibid:4234056238639": 686,
+      "gas:candidate-vibid:4234056238262": 85,
+      "gas:candidate-vibid:4234056225742": 156,
+      "gas:candidate-vibid:4234056238794": 36
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/krasnodar?action=show&root=1000066&tvd=4234056224478&vrn=100100067795849&region=23&global=&sub_region=23&prver=0&pronetvd=null&vibid=4234056224478&type=464",
@@ -8821,13 +8821,13 @@ export const duma_2016_uik_463_region_23_part_011 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Витишко Евгений Геннадиевич": 22,
-      "Ерохин Михаил Викторович": 42,
-      "Заруба Ольга Александровна": 41,
-      "Синяговский Владимир Ильич": 667,
-      "Тренин Алексей Николаевич": 74,
-      "Хот Валерий Владимирович": 50,
-      "Штуркин Владимир Николаевич": 29
+      "gas:candidate-vibid:4234056238349": 22,
+      "gas:candidate-vibid:4234056238140": 42,
+      "gas:candidate-vibid:4234056226051": 41,
+      "gas:candidate-vibid:4234056238639": 667,
+      "gas:candidate-vibid:4234056238262": 74,
+      "gas:candidate-vibid:4234056225742": 50,
+      "gas:candidate-vibid:4234056238794": 29
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/krasnodar?action=show&root=1000066&tvd=4234056224478&vrn=100100067795849&region=23&global=&sub_region=23&prver=0&pronetvd=null&vibid=4234056224478&type=464",
@@ -8878,13 +8878,13 @@ export const duma_2016_uik_463_region_23_part_011 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Витишко Евгений Геннадиевич": 15,
-      "Ерохин Михаил Викторович": 5,
-      "Заруба Ольга Александровна": 24,
-      "Синяговский Владимир Ильич": 110,
-      "Тренин Алексей Николаевич": 18,
-      "Хот Валерий Владимирович": 29,
-      "Штуркин Владимир Николаевич": 7
+      "gas:candidate-vibid:4234056238349": 15,
+      "gas:candidate-vibid:4234056238140": 5,
+      "gas:candidate-vibid:4234056226051": 24,
+      "gas:candidate-vibid:4234056238639": 110,
+      "gas:candidate-vibid:4234056238262": 18,
+      "gas:candidate-vibid:4234056225742": 29,
+      "gas:candidate-vibid:4234056238794": 7
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/krasnodar?action=show&root=1000066&tvd=4234056224478&vrn=100100067795849&region=23&global=&sub_region=23&prver=0&pronetvd=null&vibid=4234056224478&type=464",
@@ -8935,13 +8935,13 @@ export const duma_2016_uik_463_region_23_part_011 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Витишко Евгений Геннадиевич": 60,
-      "Ерохин Михаил Викторович": 32,
-      "Заруба Ольга Александровна": 43,
-      "Синяговский Владимир Ильич": 509,
-      "Тренин Алексей Николаевич": 49,
-      "Хот Валерий Владимирович": 117,
-      "Штуркин Владимир Николаевич": 22
+      "gas:candidate-vibid:4234056238349": 60,
+      "gas:candidate-vibid:4234056238140": 32,
+      "gas:candidate-vibid:4234056226051": 43,
+      "gas:candidate-vibid:4234056238639": 509,
+      "gas:candidate-vibid:4234056238262": 49,
+      "gas:candidate-vibid:4234056225742": 117,
+      "gas:candidate-vibid:4234056238794": 22
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/krasnodar?action=show&root=1000066&tvd=4234056224478&vrn=100100067795849&region=23&global=&sub_region=23&prver=0&pronetvd=null&vibid=4234056224478&type=464",
@@ -8992,13 +8992,13 @@ export const duma_2016_uik_463_region_23_part_011 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Витишко Евгений Геннадиевич": 33,
-      "Ерохин Михаил Викторович": 21,
-      "Заруба Ольга Александровна": 27,
-      "Синяговский Владимир Ильич": 455,
-      "Тренин Алексей Николаевич": 51,
-      "Хот Валерий Владимирович": 86,
-      "Штуркин Владимир Николаевич": 14
+      "gas:candidate-vibid:4234056238349": 33,
+      "gas:candidate-vibid:4234056238140": 21,
+      "gas:candidate-vibid:4234056226051": 27,
+      "gas:candidate-vibid:4234056238639": 455,
+      "gas:candidate-vibid:4234056238262": 51,
+      "gas:candidate-vibid:4234056225742": 86,
+      "gas:candidate-vibid:4234056238794": 14
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/krasnodar?action=show&root=1000066&tvd=4234056224478&vrn=100100067795849&region=23&global=&sub_region=23&prver=0&pronetvd=null&vibid=4234056224478&type=464",
@@ -9049,13 +9049,13 @@ export const duma_2016_uik_463_region_23_part_011 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Витишко Евгений Геннадиевич": 7,
-      "Ерохин Михаил Викторович": 16,
-      "Заруба Ольга Александровна": 13,
-      "Синяговский Владимир Ильич": 203,
-      "Тренин Алексей Николаевич": 24,
-      "Хот Валерий Владимирович": 49,
-      "Штуркин Владимир Николаевич": 9
+      "gas:candidate-vibid:4234056238349": 7,
+      "gas:candidate-vibid:4234056238140": 16,
+      "gas:candidate-vibid:4234056226051": 13,
+      "gas:candidate-vibid:4234056238639": 203,
+      "gas:candidate-vibid:4234056238262": 24,
+      "gas:candidate-vibid:4234056225742": 49,
+      "gas:candidate-vibid:4234056238794": 9
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/krasnodar?action=show&root=1000066&tvd=4234056224478&vrn=100100067795849&region=23&global=&sub_region=23&prver=0&pronetvd=null&vibid=4234056224478&type=464",
@@ -9106,13 +9106,13 @@ export const duma_2016_uik_463_region_23_part_011 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Витишко Евгений Геннадиевич": 25,
-      "Ерохин Михаил Викторович": 12,
-      "Заруба Ольга Александровна": 8,
-      "Синяговский Владимир Ильич": 486,
-      "Тренин Алексей Николаевич": 38,
-      "Хот Валерий Владимирович": 40,
-      "Штуркин Владимир Николаевич": 8
+      "gas:candidate-vibid:4234056238349": 25,
+      "gas:candidate-vibid:4234056238140": 12,
+      "gas:candidate-vibid:4234056226051": 8,
+      "gas:candidate-vibid:4234056238639": 486,
+      "gas:candidate-vibid:4234056238262": 38,
+      "gas:candidate-vibid:4234056225742": 40,
+      "gas:candidate-vibid:4234056238794": 8
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/krasnodar?action=show&root=1000066&tvd=4234056224478&vrn=100100067795849&region=23&global=&sub_region=23&prver=0&pronetvd=null&vibid=4234056224478&type=464",
@@ -9163,13 +9163,13 @@ export const duma_2016_uik_463_region_23_part_011 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Витишко Евгений Геннадиевич": 17,
-      "Ерохин Михаил Викторович": 19,
-      "Заруба Ольга Александровна": 40,
-      "Синяговский Владимир Ильич": 137,
-      "Тренин Алексей Николаевич": 31,
-      "Хот Валерий Владимирович": 53,
-      "Штуркин Владимир Николаевич": 14
+      "gas:candidate-vibid:4234056238349": 17,
+      "gas:candidate-vibid:4234056238140": 19,
+      "gas:candidate-vibid:4234056226051": 40,
+      "gas:candidate-vibid:4234056238639": 137,
+      "gas:candidate-vibid:4234056238262": 31,
+      "gas:candidate-vibid:4234056225742": 53,
+      "gas:candidate-vibid:4234056238794": 14
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/krasnodar?action=show&root=1000066&tvd=4234056224478&vrn=100100067795849&region=23&global=&sub_region=23&prver=0&pronetvd=null&vibid=4234056224478&type=464",
@@ -9220,13 +9220,13 @@ export const duma_2016_uik_463_region_23_part_011 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Витишко Евгений Геннадиевич": 8,
-      "Ерохин Михаил Викторович": 15,
-      "Заруба Ольга Александровна": 21,
-      "Синяговский Владимир Ильич": 289,
-      "Тренин Алексей Николаевич": 22,
-      "Хот Валерий Владимирович": 22,
-      "Штуркин Владимир Николаевич": 7
+      "gas:candidate-vibid:4234056238349": 8,
+      "gas:candidate-vibid:4234056238140": 15,
+      "gas:candidate-vibid:4234056226051": 21,
+      "gas:candidate-vibid:4234056238639": 289,
+      "gas:candidate-vibid:4234056238262": 22,
+      "gas:candidate-vibid:4234056225742": 22,
+      "gas:candidate-vibid:4234056238794": 7
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/krasnodar?action=show&root=1000066&tvd=4234056224479&vrn=100100067795849&region=23&global=&sub_region=23&prver=0&pronetvd=null&vibid=4234056224479&type=464",
@@ -9277,13 +9277,13 @@ export const duma_2016_uik_463_region_23_part_011 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Витишко Евгений Геннадиевич": 20,
-      "Ерохин Михаил Викторович": 27,
-      "Заруба Ольга Александровна": 41,
-      "Синяговский Владимир Ильич": 645,
-      "Тренин Алексей Николаевич": 71,
-      "Хот Валерий Владимирович": 64,
-      "Штуркин Владимир Николаевич": 12
+      "gas:candidate-vibid:4234056238349": 20,
+      "gas:candidate-vibid:4234056238140": 27,
+      "gas:candidate-vibid:4234056226051": 41,
+      "gas:candidate-vibid:4234056238639": 645,
+      "gas:candidate-vibid:4234056238262": 71,
+      "gas:candidate-vibid:4234056225742": 64,
+      "gas:candidate-vibid:4234056238794": 12
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/krasnodar?action=show&root=1000066&tvd=4234056224479&vrn=100100067795849&region=23&global=&sub_region=23&prver=0&pronetvd=null&vibid=4234056224479&type=464",
@@ -9334,13 +9334,13 @@ export const duma_2016_uik_463_region_23_part_011 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Витишко Евгений Геннадиевич": 6,
-      "Ерохин Михаил Викторович": 18,
-      "Заруба Ольга Александровна": 16,
-      "Синяговский Владимир Ильич": 207,
-      "Тренин Алексей Николаевич": 15,
-      "Хот Валерий Владимирович": 21,
-      "Штуркин Владимир Николаевич": 5
+      "gas:candidate-vibid:4234056238349": 6,
+      "gas:candidate-vibid:4234056238140": 18,
+      "gas:candidate-vibid:4234056226051": 16,
+      "gas:candidate-vibid:4234056238639": 207,
+      "gas:candidate-vibid:4234056238262": 15,
+      "gas:candidate-vibid:4234056225742": 21,
+      "gas:candidate-vibid:4234056238794": 5
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/krasnodar?action=show&root=1000066&tvd=4234056224479&vrn=100100067795849&region=23&global=&sub_region=23&prver=0&pronetvd=null&vibid=4234056224479&type=464",
@@ -9391,13 +9391,13 @@ export const duma_2016_uik_463_region_23_part_011 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Витишко Евгений Геннадиевич": 4,
-      "Ерохин Михаил Викторович": 9,
-      "Заруба Ольга Александровна": 9,
-      "Синяговский Владимир Ильич": 226,
-      "Тренин Алексей Николаевич": 44,
-      "Хот Валерий Владимирович": 22,
-      "Штуркин Владимир Николаевич": 7
+      "gas:candidate-vibid:4234056238349": 4,
+      "gas:candidate-vibid:4234056238140": 9,
+      "gas:candidate-vibid:4234056226051": 9,
+      "gas:candidate-vibid:4234056238639": 226,
+      "gas:candidate-vibid:4234056238262": 44,
+      "gas:candidate-vibid:4234056225742": 22,
+      "gas:candidate-vibid:4234056238794": 7
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/krasnodar?action=show&root=1000066&tvd=4234056224479&vrn=100100067795849&region=23&global=&sub_region=23&prver=0&pronetvd=null&vibid=4234056224479&type=464",
@@ -9448,13 +9448,13 @@ export const duma_2016_uik_463_region_23_part_011 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Витишко Евгений Геннадиевич": 22,
-      "Ерохин Михаил Викторович": 43,
-      "Заруба Ольга Александровна": 27,
-      "Синяговский Владимир Ильич": 580,
-      "Тренин Алексей Николаевич": 73,
-      "Хот Валерий Владимирович": 67,
-      "Штуркин Владимир Николаевич": 17
+      "gas:candidate-vibid:4234056238349": 22,
+      "gas:candidate-vibid:4234056238140": 43,
+      "gas:candidate-vibid:4234056226051": 27,
+      "gas:candidate-vibid:4234056238639": 580,
+      "gas:candidate-vibid:4234056238262": 73,
+      "gas:candidate-vibid:4234056225742": 67,
+      "gas:candidate-vibid:4234056238794": 17
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/krasnodar?action=show&root=1000066&tvd=4234056224479&vrn=100100067795849&region=23&global=&sub_region=23&prver=0&pronetvd=null&vibid=4234056224479&type=464",
@@ -9505,13 +9505,13 @@ export const duma_2016_uik_463_region_23_part_011 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Витишко Евгений Геннадиевич": 10,
-      "Ерохин Михаил Викторович": 31,
-      "Заруба Ольга Александровна": 25,
-      "Синяговский Владимир Ильич": 343,
-      "Тренин Алексей Николаевич": 51,
-      "Хот Валерий Владимирович": 27,
-      "Штуркин Владимир Николаевич": 3
+      "gas:candidate-vibid:4234056238349": 10,
+      "gas:candidate-vibid:4234056238140": 31,
+      "gas:candidate-vibid:4234056226051": 25,
+      "gas:candidate-vibid:4234056238639": 343,
+      "gas:candidate-vibid:4234056238262": 51,
+      "gas:candidate-vibid:4234056225742": 27,
+      "gas:candidate-vibid:4234056238794": 3
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/krasnodar?action=show&root=1000066&tvd=4234056224479&vrn=100100067795849&region=23&global=&sub_region=23&prver=0&pronetvd=null&vibid=4234056224479&type=464",
@@ -9562,13 +9562,13 @@ export const duma_2016_uik_463_region_23_part_011 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Витишко Евгений Геннадиевич": 28,
-      "Ерохин Михаил Викторович": 36,
-      "Заруба Ольга Александровна": 45,
-      "Синяговский Владимир Ильич": 866,
-      "Тренин Алексей Николаевич": 74,
-      "Хот Валерий Владимирович": 54,
-      "Штуркин Владимир Николаевич": 11
+      "gas:candidate-vibid:4234056238349": 28,
+      "gas:candidate-vibid:4234056238140": 36,
+      "gas:candidate-vibid:4234056226051": 45,
+      "gas:candidate-vibid:4234056238639": 866,
+      "gas:candidate-vibid:4234056238262": 74,
+      "gas:candidate-vibid:4234056225742": 54,
+      "gas:candidate-vibid:4234056238794": 11
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/krasnodar?action=show&root=1000066&tvd=4234056224479&vrn=100100067795849&region=23&global=&sub_region=23&prver=0&pronetvd=null&vibid=4234056224479&type=464",
@@ -9619,13 +9619,13 @@ export const duma_2016_uik_463_region_23_part_011 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Витишко Евгений Геннадиевич": 32,
-      "Ерохин Михаил Викторович": 45,
-      "Заруба Ольга Александровна": 0,
-      "Синяговский Владимир Ильич": 515,
-      "Тренин Алексей Николаевич": 50,
-      "Хот Валерий Владимирович": 41,
-      "Штуркин Владимир Николаевич": 0
+      "gas:candidate-vibid:4234056238349": 32,
+      "gas:candidate-vibid:4234056238140": 45,
+      "gas:candidate-vibid:4234056226051": 0,
+      "gas:candidate-vibid:4234056238639": 515,
+      "gas:candidate-vibid:4234056238262": 50,
+      "gas:candidate-vibid:4234056225742": 41,
+      "gas:candidate-vibid:4234056238794": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/krasnodar?action=show&root=1000066&tvd=4234056224479&vrn=100100067795849&region=23&global=&sub_region=23&prver=0&pronetvd=null&vibid=4234056224479&type=464",
@@ -9676,13 +9676,13 @@ export const duma_2016_uik_463_region_23_part_011 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Витишко Евгений Геннадиевич": 11,
-      "Ерохин Михаил Викторович": 45,
-      "Заруба Ольга Александровна": 77,
-      "Синяговский Владимир Ильич": 282,
-      "Тренин Алексей Николаевич": 61,
-      "Хот Валерий Владимирович": 45,
-      "Штуркин Владимир Николаевич": 16
+      "gas:candidate-vibid:4234056238349": 11,
+      "gas:candidate-vibid:4234056238140": 45,
+      "gas:candidate-vibid:4234056226051": 77,
+      "gas:candidate-vibid:4234056238639": 282,
+      "gas:candidate-vibid:4234056238262": 61,
+      "gas:candidate-vibid:4234056225742": 45,
+      "gas:candidate-vibid:4234056238794": 16
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/krasnodar?action=show&root=1000066&tvd=4234056224479&vrn=100100067795849&region=23&global=&sub_region=23&prver=0&pronetvd=null&vibid=4234056224479&type=464",
@@ -9733,13 +9733,13 @@ export const duma_2016_uik_463_region_23_part_011 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Витишко Евгений Геннадиевич": 14,
-      "Ерохин Михаил Викторович": 37,
-      "Заруба Ольга Александровна": 27,
-      "Синяговский Владимир Ильич": 426,
-      "Тренин Алексей Николаевич": 79,
-      "Хот Валерий Владимирович": 16,
-      "Штуркин Владимир Николаевич": 9
+      "gas:candidate-vibid:4234056238349": 14,
+      "gas:candidate-vibid:4234056238140": 37,
+      "gas:candidate-vibid:4234056226051": 27,
+      "gas:candidate-vibid:4234056238639": 426,
+      "gas:candidate-vibid:4234056238262": 79,
+      "gas:candidate-vibid:4234056225742": 16,
+      "gas:candidate-vibid:4234056238794": 9
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/krasnodar?action=show&root=1000066&tvd=4234056224479&vrn=100100067795849&region=23&global=&sub_region=23&prver=0&pronetvd=null&vibid=4234056224479&type=464",
@@ -9790,13 +9790,13 @@ export const duma_2016_uik_463_region_23_part_011 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Витишко Евгений Геннадиевич": 15,
-      "Ерохин Михаил Викторович": 16,
-      "Заруба Ольга Александровна": 18,
-      "Синяговский Владимир Ильич": 414,
-      "Тренин Алексей Николаевич": 38,
-      "Хот Валерий Владимирович": 18,
-      "Штуркин Владимир Николаевич": 7
+      "gas:candidate-vibid:4234056238349": 15,
+      "gas:candidate-vibid:4234056238140": 16,
+      "gas:candidate-vibid:4234056226051": 18,
+      "gas:candidate-vibid:4234056238639": 414,
+      "gas:candidate-vibid:4234056238262": 38,
+      "gas:candidate-vibid:4234056225742": 18,
+      "gas:candidate-vibid:4234056238794": 7
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/krasnodar?action=show&root=1000066&tvd=4234056224479&vrn=100100067795849&region=23&global=&sub_region=23&prver=0&pronetvd=null&vibid=4234056224479&type=464",
@@ -9847,13 +9847,13 @@ export const duma_2016_uik_463_region_23_part_011 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Витишко Евгений Геннадиевич": 12,
-      "Ерохин Михаил Викторович": 31,
-      "Заруба Ольга Александровна": 27,
-      "Синяговский Владимир Ильич": 697,
-      "Тренин Алексей Николаевич": 90,
-      "Хот Валерий Владимирович": 48,
-      "Штуркин Владимир Николаевич": 19
+      "gas:candidate-vibid:4234056238349": 12,
+      "gas:candidate-vibid:4234056238140": 31,
+      "gas:candidate-vibid:4234056226051": 27,
+      "gas:candidate-vibid:4234056238639": 697,
+      "gas:candidate-vibid:4234056238262": 90,
+      "gas:candidate-vibid:4234056225742": 48,
+      "gas:candidate-vibid:4234056238794": 19
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/krasnodar?action=show&root=1000066&tvd=4234056224479&vrn=100100067795849&region=23&global=&sub_region=23&prver=0&pronetvd=null&vibid=4234056224479&type=464",
@@ -9904,13 +9904,13 @@ export const duma_2016_uik_463_region_23_part_011 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Витишко Евгений Геннадиевич": 56,
-      "Ерохин Михаил Викторович": 85,
-      "Заруба Ольга Александровна": 103,
-      "Синяговский Владимир Ильич": 377,
-      "Тренин Алексей Николаевич": 125,
-      "Хот Валерий Владимирович": 121,
-      "Штуркин Владимир Николаевич": 29
+      "gas:candidate-vibid:4234056238349": 56,
+      "gas:candidate-vibid:4234056238140": 85,
+      "gas:candidate-vibid:4234056226051": 103,
+      "gas:candidate-vibid:4234056238639": 377,
+      "gas:candidate-vibid:4234056238262": 125,
+      "gas:candidate-vibid:4234056225742": 121,
+      "gas:candidate-vibid:4234056238794": 29
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/krasnodar?action=show&root=1000066&tvd=4234056224479&vrn=100100067795849&region=23&global=&sub_region=23&prver=0&pronetvd=null&vibid=4234056224479&type=464",
@@ -9961,13 +9961,13 @@ export const duma_2016_uik_463_region_23_part_011 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Витишко Евгений Геннадиевич": 40,
-      "Ерохин Михаил Викторович": 30,
-      "Заруба Ольга Александровна": 52,
-      "Синяговский Владимир Ильич": 659,
-      "Тренин Алексей Николаевич": 96,
-      "Хот Валерий Владимирович": 63,
-      "Штуркин Владимир Николаевич": 24
+      "gas:candidate-vibid:4234056238349": 40,
+      "gas:candidate-vibid:4234056238140": 30,
+      "gas:candidate-vibid:4234056226051": 52,
+      "gas:candidate-vibid:4234056238639": 659,
+      "gas:candidate-vibid:4234056238262": 96,
+      "gas:candidate-vibid:4234056225742": 63,
+      "gas:candidate-vibid:4234056238794": 24
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/krasnodar?action=show&root=1000066&tvd=4234056224479&vrn=100100067795849&region=23&global=&sub_region=23&prver=0&pronetvd=null&vibid=4234056224479&type=464",
@@ -10018,13 +10018,13 @@ export const duma_2016_uik_463_region_23_part_011 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Витишко Евгений Геннадиевич": 48,
-      "Ерохин Михаил Викторович": 44,
-      "Заруба Ольга Александровна": 51,
-      "Синяговский Владимир Ильич": 442,
-      "Тренин Алексей Николаевич": 76,
-      "Хот Валерий Владимирович": 91,
-      "Штуркин Владимир Николаевич": 23
+      "gas:candidate-vibid:4234056238349": 48,
+      "gas:candidate-vibid:4234056238140": 44,
+      "gas:candidate-vibid:4234056226051": 51,
+      "gas:candidate-vibid:4234056238639": 442,
+      "gas:candidate-vibid:4234056238262": 76,
+      "gas:candidate-vibid:4234056225742": 91,
+      "gas:candidate-vibid:4234056238794": 23
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/krasnodar?action=show&root=1000066&tvd=4234056224479&vrn=100100067795849&region=23&global=&sub_region=23&prver=0&pronetvd=null&vibid=4234056224479&type=464",
@@ -10075,13 +10075,13 @@ export const duma_2016_uik_463_region_23_part_011 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Витишко Евгений Геннадиевич": 17,
-      "Ерохин Михаил Викторович": 7,
-      "Заруба Ольга Александровна": 19,
-      "Синяговский Владимир Ильич": 73,
-      "Тренин Алексей Николаевич": 25,
-      "Хот Валерий Владимирович": 4,
-      "Штуркин Владимир Николаевич": 0
+      "gas:candidate-vibid:4234056238349": 17,
+      "gas:candidate-vibid:4234056238140": 7,
+      "gas:candidate-vibid:4234056226051": 19,
+      "gas:candidate-vibid:4234056238639": 73,
+      "gas:candidate-vibid:4234056238262": 25,
+      "gas:candidate-vibid:4234056225742": 4,
+      "gas:candidate-vibid:4234056238794": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/krasnodar?action=show&root=1000066&tvd=4234056224479&vrn=100100067795849&region=23&global=&sub_region=23&prver=0&pronetvd=null&vibid=4234056224479&type=464",
@@ -10132,13 +10132,13 @@ export const duma_2016_uik_463_region_23_part_011 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Витишко Евгений Геннадиевич": 16,
-      "Ерохин Михаил Викторович": 33,
-      "Заруба Ольга Александровна": 36,
-      "Синяговский Владимир Ильич": 537,
-      "Тренин Алексей Николаевич": 41,
-      "Хот Валерий Владимирович": 36,
-      "Штуркин Владимир Николаевич": 12
+      "gas:candidate-vibid:4234056238349": 16,
+      "gas:candidate-vibid:4234056238140": 33,
+      "gas:candidate-vibid:4234056226051": 36,
+      "gas:candidate-vibid:4234056238639": 537,
+      "gas:candidate-vibid:4234056238262": 41,
+      "gas:candidate-vibid:4234056225742": 36,
+      "gas:candidate-vibid:4234056238794": 12
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/krasnodar?action=show&root=1000066&tvd=4234056224479&vrn=100100067795849&region=23&global=&sub_region=23&prver=0&pronetvd=null&vibid=4234056224479&type=464",
@@ -10189,13 +10189,13 @@ export const duma_2016_uik_463_region_23_part_011 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Витишко Евгений Геннадиевич": 23,
-      "Ерохин Михаил Викторович": 38,
-      "Заруба Ольга Александровна": 64,
-      "Синяговский Владимир Ильич": 198,
-      "Тренин Алексей Николаевич": 67,
-      "Хот Валерий Владимирович": 88,
-      "Штуркин Владимир Николаевич": 16
+      "gas:candidate-vibid:4234056238349": 23,
+      "gas:candidate-vibid:4234056238140": 38,
+      "gas:candidate-vibid:4234056226051": 64,
+      "gas:candidate-vibid:4234056238639": 198,
+      "gas:candidate-vibid:4234056238262": 67,
+      "gas:candidate-vibid:4234056225742": 88,
+      "gas:candidate-vibid:4234056238794": 16
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/krasnodar?action=show&root=1000066&tvd=4234056224479&vrn=100100067795849&region=23&global=&sub_region=23&prver=0&pronetvd=null&vibid=4234056224479&type=464",
@@ -10246,13 +10246,13 @@ export const duma_2016_uik_463_region_23_part_011 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Витишко Евгений Геннадиевич": 4,
-      "Ерохин Михаил Викторович": 17,
-      "Заруба Ольга Александровна": 13,
-      "Синяговский Владимир Ильич": 99,
-      "Тренин Алексей Николаевич": 57,
-      "Хот Валерий Владимирович": 31,
-      "Штуркин Владимир Николаевич": 5
+      "gas:candidate-vibid:4234056238349": 4,
+      "gas:candidate-vibid:4234056238140": 17,
+      "gas:candidate-vibid:4234056226051": 13,
+      "gas:candidate-vibid:4234056238639": 99,
+      "gas:candidate-vibid:4234056238262": 57,
+      "gas:candidate-vibid:4234056225742": 31,
+      "gas:candidate-vibid:4234056238794": 5
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/krasnodar?action=show&root=1000066&tvd=4234056224479&vrn=100100067795849&region=23&global=&sub_region=23&prver=0&pronetvd=null&vibid=4234056224479&type=464",
@@ -10303,13 +10303,13 @@ export const duma_2016_uik_463_region_23_part_011 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Витишко Евгений Геннадиевич": 15,
-      "Ерохин Михаил Викторович": 22,
-      "Заруба Ольга Александровна": 14,
-      "Синяговский Владимир Ильич": 162,
-      "Тренин Алексей Николаевич": 28,
-      "Хот Валерий Владимирович": 32,
-      "Штуркин Владимир Николаевич": 8
+      "gas:candidate-vibid:4234056238349": 15,
+      "gas:candidate-vibid:4234056238140": 22,
+      "gas:candidate-vibid:4234056226051": 14,
+      "gas:candidate-vibid:4234056238639": 162,
+      "gas:candidate-vibid:4234056238262": 28,
+      "gas:candidate-vibid:4234056225742": 32,
+      "gas:candidate-vibid:4234056238794": 8
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/krasnodar?action=show&root=1000066&tvd=4234056224479&vrn=100100067795849&region=23&global=&sub_region=23&prver=0&pronetvd=null&vibid=4234056224479&type=464",
@@ -10360,13 +10360,13 @@ export const duma_2016_uik_463_region_23_part_011 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Витишко Евгений Геннадиевич": 34,
-      "Ерохин Михаил Викторович": 30,
-      "Заруба Ольга Александровна": 38,
-      "Синяговский Владимир Ильич": 501,
-      "Тренин Алексей Николаевич": 60,
-      "Хот Валерий Владимирович": 96,
-      "Штуркин Владимир Николаевич": 22
+      "gas:candidate-vibid:4234056238349": 34,
+      "gas:candidate-vibid:4234056238140": 30,
+      "gas:candidate-vibid:4234056226051": 38,
+      "gas:candidate-vibid:4234056238639": 501,
+      "gas:candidate-vibid:4234056238262": 60,
+      "gas:candidate-vibid:4234056225742": 96,
+      "gas:candidate-vibid:4234056238794": 22
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/krasnodar?action=show&root=1000066&tvd=4234056224479&vrn=100100067795849&region=23&global=&sub_region=23&prver=0&pronetvd=null&vibid=4234056224479&type=464",
@@ -10417,13 +10417,13 @@ export const duma_2016_uik_463_region_23_part_011 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Витишко Евгений Геннадиевич": 40,
-      "Ерохин Михаил Викторович": 36,
-      "Заруба Ольга Александровна": 64,
-      "Синяговский Владимир Ильич": 554,
-      "Тренин Алексей Николаевич": 101,
-      "Хот Валерий Владимирович": 169,
-      "Штуркин Владимир Николаевич": 31
+      "gas:candidate-vibid:4234056238349": 40,
+      "gas:candidate-vibid:4234056238140": 36,
+      "gas:candidate-vibid:4234056226051": 64,
+      "gas:candidate-vibid:4234056238639": 554,
+      "gas:candidate-vibid:4234056238262": 101,
+      "gas:candidate-vibid:4234056225742": 169,
+      "gas:candidate-vibid:4234056238794": 31
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/krasnodar?action=show&root=1000066&tvd=4234056224479&vrn=100100067795849&region=23&global=&sub_region=23&prver=0&pronetvd=null&vibid=4234056224479&type=464",
@@ -10474,13 +10474,13 @@ export const duma_2016_uik_463_region_23_part_011 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Витишко Евгений Геннадиевич": 53,
-      "Ерохин Михаил Викторович": 36,
-      "Заруба Ольга Александровна": 21,
-      "Синяговский Владимир Ильич": 753,
-      "Тренин Алексей Николаевич": 63,
-      "Хот Валерий Владимирович": 202,
-      "Штуркин Владимир Николаевич": 9
+      "gas:candidate-vibid:4234056238349": 53,
+      "gas:candidate-vibid:4234056238140": 36,
+      "gas:candidate-vibid:4234056226051": 21,
+      "gas:candidate-vibid:4234056238639": 753,
+      "gas:candidate-vibid:4234056238262": 63,
+      "gas:candidate-vibid:4234056225742": 202,
+      "gas:candidate-vibid:4234056238794": 9
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/krasnodar?action=show&root=1000066&tvd=4234056224479&vrn=100100067795849&region=23&global=&sub_region=23&prver=0&pronetvd=null&vibid=4234056224479&type=464",
@@ -10531,13 +10531,13 @@ export const duma_2016_uik_463_region_23_part_011 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Витишко Евгений Геннадиевич": 34,
-      "Ерохин Михаил Викторович": 43,
-      "Заруба Ольга Александровна": 41,
-      "Синяговский Владимир Ильич": 857,
-      "Тренин Алексей Николаевич": 103,
-      "Хот Валерий Владимирович": 39,
-      "Штуркин Владимир Николаевич": 23
+      "gas:candidate-vibid:4234056238349": 34,
+      "gas:candidate-vibid:4234056238140": 43,
+      "gas:candidate-vibid:4234056226051": 41,
+      "gas:candidate-vibid:4234056238639": 857,
+      "gas:candidate-vibid:4234056238262": 103,
+      "gas:candidate-vibid:4234056225742": 39,
+      "gas:candidate-vibid:4234056238794": 23
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/krasnodar?action=show&root=1000066&tvd=4234056224479&vrn=100100067795849&region=23&global=&sub_region=23&prver=0&pronetvd=null&vibid=4234056224479&type=464",
@@ -10588,13 +10588,13 @@ export const duma_2016_uik_463_region_23_part_011 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Витишко Евгений Геннадиевич": 20,
-      "Ерохин Михаил Викторович": 30,
-      "Заруба Ольга Александровна": 17,
-      "Синяговский Владимир Ильич": 676,
-      "Тренин Алексей Николаевич": 249,
-      "Хот Валерий Владимирович": 95,
-      "Штуркин Владимир Николаевич": 11
+      "gas:candidate-vibid:4234056238349": 20,
+      "gas:candidate-vibid:4234056238140": 30,
+      "gas:candidate-vibid:4234056226051": 17,
+      "gas:candidate-vibid:4234056238639": 676,
+      "gas:candidate-vibid:4234056238262": 249,
+      "gas:candidate-vibid:4234056225742": 95,
+      "gas:candidate-vibid:4234056238794": 11
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/krasnodar?action=show&root=1000066&tvd=4234056224479&vrn=100100067795849&region=23&global=&sub_region=23&prver=0&pronetvd=null&vibid=4234056224479&type=464",
@@ -10645,13 +10645,13 @@ export const duma_2016_uik_463_region_23_part_011 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Витишко Евгений Геннадиевич": 30,
-      "Ерохин Михаил Викторович": 28,
-      "Заруба Ольга Александровна": 45,
-      "Синяговский Владимир Ильич": 410,
-      "Тренин Алексей Николаевич": 75,
-      "Хот Валерий Владимирович": 72,
-      "Штуркин Владимир Николаевич": 14
+      "gas:candidate-vibid:4234056238349": 30,
+      "gas:candidate-vibid:4234056238140": 28,
+      "gas:candidate-vibid:4234056226051": 45,
+      "gas:candidate-vibid:4234056238639": 410,
+      "gas:candidate-vibid:4234056238262": 75,
+      "gas:candidate-vibid:4234056225742": 72,
+      "gas:candidate-vibid:4234056238794": 14
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/krasnodar?action=show&root=1000066&tvd=4234056224479&vrn=100100067795849&region=23&global=&sub_region=23&prver=0&pronetvd=null&vibid=4234056224479&type=464",
@@ -10702,13 +10702,13 @@ export const duma_2016_uik_463_region_23_part_011 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Витишко Евгений Геннадиевич": 25,
-      "Ерохин Михаил Викторович": 24,
-      "Заруба Ольга Александровна": 37,
-      "Синяговский Владимир Ильич": 396,
-      "Тренин Алексей Николаевич": 48,
-      "Хот Валерий Владимирович": 50,
-      "Штуркин Владимир Николаевич": 16
+      "gas:candidate-vibid:4234056238349": 25,
+      "gas:candidate-vibid:4234056238140": 24,
+      "gas:candidate-vibid:4234056226051": 37,
+      "gas:candidate-vibid:4234056238639": 396,
+      "gas:candidate-vibid:4234056238262": 48,
+      "gas:candidate-vibid:4234056225742": 50,
+      "gas:candidate-vibid:4234056238794": 16
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/krasnodar?action=show&root=1000066&tvd=4234056224479&vrn=100100067795849&region=23&global=&sub_region=23&prver=0&pronetvd=null&vibid=4234056224479&type=464",
@@ -10759,13 +10759,13 @@ export const duma_2016_uik_463_region_23_part_011 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Витишко Евгений Геннадиевич": 21,
-      "Ерохин Михаил Викторович": 13,
-      "Заруба Ольга Александровна": 13,
-      "Синяговский Владимир Ильич": 208,
-      "Тренин Алексей Николаевич": 21,
-      "Хот Валерий Владимирович": 31,
-      "Штуркин Владимир Николаевич": 9
+      "gas:candidate-vibid:4234056238349": 21,
+      "gas:candidate-vibid:4234056238140": 13,
+      "gas:candidate-vibid:4234056226051": 13,
+      "gas:candidate-vibid:4234056238639": 208,
+      "gas:candidate-vibid:4234056238262": 21,
+      "gas:candidate-vibid:4234056225742": 31,
+      "gas:candidate-vibid:4234056238794": 9
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/krasnodar?action=show&root=1000066&tvd=4234056224479&vrn=100100067795849&region=23&global=&sub_region=23&prver=0&pronetvd=null&vibid=4234056224479&type=464",
@@ -10816,13 +10816,13 @@ export const duma_2016_uik_463_region_23_part_011 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Витишко Евгений Геннадиевич": 4,
-      "Ерохин Михаил Викторович": 7,
-      "Заруба Ольга Александровна": 13,
-      "Синяговский Владимир Ильич": 143,
-      "Тренин Алексей Николаевич": 19,
-      "Хот Валерий Владимирович": 26,
-      "Штуркин Владимир Николаевич": 9
+      "gas:candidate-vibid:4234056238349": 4,
+      "gas:candidate-vibid:4234056238140": 7,
+      "gas:candidate-vibid:4234056226051": 13,
+      "gas:candidate-vibid:4234056238639": 143,
+      "gas:candidate-vibid:4234056238262": 19,
+      "gas:candidate-vibid:4234056225742": 26,
+      "gas:candidate-vibid:4234056238794": 9
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/krasnodar?action=show&root=1000066&tvd=4234056224479&vrn=100100067795849&region=23&global=&sub_region=23&prver=0&pronetvd=null&vibid=4234056224479&type=464",
@@ -10873,13 +10873,13 @@ export const duma_2016_uik_463_region_23_part_011 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Витишко Евгений Геннадиевич": 19,
-      "Ерохин Михаил Викторович": 11,
-      "Заруба Ольга Александровна": 10,
-      "Синяговский Владимир Ильич": 101,
-      "Тренин Алексей Николаевич": 25,
-      "Хот Валерий Владимирович": 37,
-      "Штуркин Владимир Николаевич": 17
+      "gas:candidate-vibid:4234056238349": 19,
+      "gas:candidate-vibid:4234056238140": 11,
+      "gas:candidate-vibid:4234056226051": 10,
+      "gas:candidate-vibid:4234056238639": 101,
+      "gas:candidate-vibid:4234056238262": 25,
+      "gas:candidate-vibid:4234056225742": 37,
+      "gas:candidate-vibid:4234056238794": 17
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/krasnodar?action=show&root=1000066&tvd=4234056224479&vrn=100100067795849&region=23&global=&sub_region=23&prver=0&pronetvd=null&vibid=4234056224479&type=464",
@@ -10930,13 +10930,13 @@ export const duma_2016_uik_463_region_23_part_011 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Витишко Евгений Геннадиевич": 4,
-      "Ерохин Михаил Викторович": 2,
-      "Заруба Ольга Александровна": 4,
-      "Синяговский Владимир Ильич": 46,
-      "Тренин Алексей Николаевич": 4,
-      "Хот Валерий Владимирович": 16,
-      "Штуркин Владимир Николаевич": 0
+      "gas:candidate-vibid:4234056238349": 4,
+      "gas:candidate-vibid:4234056238140": 2,
+      "gas:candidate-vibid:4234056226051": 4,
+      "gas:candidate-vibid:4234056238639": 46,
+      "gas:candidate-vibid:4234056238262": 4,
+      "gas:candidate-vibid:4234056225742": 16,
+      "gas:candidate-vibid:4234056238794": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/krasnodar?action=show&root=1000066&tvd=4234056224479&vrn=100100067795849&region=23&global=&sub_region=23&prver=0&pronetvd=null&vibid=4234056224479&type=464",
@@ -10987,13 +10987,13 @@ export const duma_2016_uik_463_region_23_part_011 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Витишко Евгений Геннадиевич": 5,
-      "Ерохин Михаил Викторович": 12,
-      "Заруба Ольга Александровна": 2,
-      "Синяговский Владимир Ильич": 71,
-      "Тренин Алексей Николаевич": 8,
-      "Хот Валерий Владимирович": 20,
-      "Штуркин Владимир Николаевич": 0
+      "gas:candidate-vibid:4234056238349": 5,
+      "gas:candidate-vibid:4234056238140": 12,
+      "gas:candidate-vibid:4234056226051": 2,
+      "gas:candidate-vibid:4234056238639": 71,
+      "gas:candidate-vibid:4234056238262": 8,
+      "gas:candidate-vibid:4234056225742": 20,
+      "gas:candidate-vibid:4234056238794": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/krasnodar?action=show&root=1000066&tvd=4234056224479&vrn=100100067795849&region=23&global=&sub_region=23&prver=0&pronetvd=null&vibid=4234056224479&type=464",
@@ -11044,13 +11044,13 @@ export const duma_2016_uik_463_region_23_part_011 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Витишко Евгений Геннадиевич": 19,
-      "Ерохин Михаил Викторович": 14,
-      "Заруба Ольга Александровна": 12,
-      "Синяговский Владимир Ильич": 218,
-      "Тренин Алексей Николаевич": 15,
-      "Хот Валерий Владимирович": 26,
-      "Штуркин Владимир Николаевич": 4
+      "gas:candidate-vibid:4234056238349": 19,
+      "gas:candidate-vibid:4234056238140": 14,
+      "gas:candidate-vibid:4234056226051": 12,
+      "gas:candidate-vibid:4234056238639": 218,
+      "gas:candidate-vibid:4234056238262": 15,
+      "gas:candidate-vibid:4234056225742": 26,
+      "gas:candidate-vibid:4234056238794": 4
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/krasnodar?action=show&root=1000066&tvd=4234056224479&vrn=100100067795849&region=23&global=&sub_region=23&prver=0&pronetvd=null&vibid=4234056224479&type=464",
@@ -11101,13 +11101,13 @@ export const duma_2016_uik_463_region_23_part_011 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Витишко Евгений Геннадиевич": 49,
-      "Ерохин Михаил Викторович": 18,
-      "Заруба Ольга Александровна": 25,
-      "Синяговский Владимир Ильич": 134,
-      "Тренин Алексей Николаевич": 24,
-      "Хот Валерий Владимирович": 69,
-      "Штуркин Владимир Николаевич": 14
+      "gas:candidate-vibid:4234056238349": 49,
+      "gas:candidate-vibid:4234056238140": 18,
+      "gas:candidate-vibid:4234056226051": 25,
+      "gas:candidate-vibid:4234056238639": 134,
+      "gas:candidate-vibid:4234056238262": 24,
+      "gas:candidate-vibid:4234056225742": 69,
+      "gas:candidate-vibid:4234056238794": 14
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/krasnodar?action=show&root=1000066&tvd=4234056224479&vrn=100100067795849&region=23&global=&sub_region=23&prver=0&pronetvd=null&vibid=4234056224479&type=464",
@@ -11158,13 +11158,13 @@ export const duma_2016_uik_463_region_23_part_011 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Витишко Евгений Геннадиевич": 12,
-      "Ерохин Михаил Викторович": 13,
-      "Заруба Ольга Александровна": 25,
-      "Синяговский Владимир Ильич": 568,
-      "Тренин Алексей Николаевич": 104,
-      "Хот Валерий Владимирович": 83,
-      "Штуркин Владимир Николаевич": 7
+      "gas:candidate-vibid:4234056238349": 12,
+      "gas:candidate-vibid:4234056238140": 13,
+      "gas:candidate-vibid:4234056226051": 25,
+      "gas:candidate-vibid:4234056238639": 568,
+      "gas:candidate-vibid:4234056238262": 104,
+      "gas:candidate-vibid:4234056225742": 83,
+      "gas:candidate-vibid:4234056238794": 7
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/krasnodar?action=show&root=1000066&tvd=4234056224479&vrn=100100067795849&region=23&global=&sub_region=23&prver=0&pronetvd=null&vibid=4234056224479&type=464",
@@ -11215,13 +11215,13 @@ export const duma_2016_uik_463_region_23_part_011 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Витишко Евгений Геннадиевич": 14,
-      "Ерохин Михаил Викторович": 15,
-      "Заруба Ольга Александровна": 29,
-      "Синяговский Владимир Ильич": 65,
-      "Тренин Алексей Николаевич": 36,
-      "Хот Валерий Владимирович": 55,
-      "Штуркин Владимир Николаевич": 1
+      "gas:candidate-vibid:4234056238349": 14,
+      "gas:candidate-vibid:4234056238140": 15,
+      "gas:candidate-vibid:4234056226051": 29,
+      "gas:candidate-vibid:4234056238639": 65,
+      "gas:candidate-vibid:4234056238262": 36,
+      "gas:candidate-vibid:4234056225742": 55,
+      "gas:candidate-vibid:4234056238794": 1
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/krasnodar?action=show&root=1000066&tvd=4234056224479&vrn=100100067795849&region=23&global=&sub_region=23&prver=0&pronetvd=null&vibid=4234056224479&type=464",
@@ -11272,13 +11272,13 @@ export const duma_2016_uik_463_region_23_part_011 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Витишко Евгений Геннадиевич": 5,
-      "Ерохин Михаил Викторович": 68,
-      "Заруба Ольга Александровна": 2,
-      "Синяговский Владимир Ильич": 573,
-      "Тренин Алексей Николаевич": 86,
-      "Хот Валерий Владимирович": 81,
-      "Штуркин Владимир Николаевич": 0
+      "gas:candidate-vibid:4234056238349": 5,
+      "gas:candidate-vibid:4234056238140": 68,
+      "gas:candidate-vibid:4234056226051": 2,
+      "gas:candidate-vibid:4234056238639": 573,
+      "gas:candidate-vibid:4234056238262": 86,
+      "gas:candidate-vibid:4234056225742": 81,
+      "gas:candidate-vibid:4234056238794": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/krasnodar?action=show&root=1000066&tvd=4234056224479&vrn=100100067795849&region=23&global=&sub_region=23&prver=0&pronetvd=null&vibid=4234056224479&type=464",
@@ -11329,13 +11329,13 @@ export const duma_2016_uik_463_region_23_part_011 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Витишко Евгений Геннадиевич": 2,
-      "Ерохин Михаил Викторович": 13,
-      "Заруба Ольга Александровна": 15,
-      "Синяговский Владимир Ильич": 112,
-      "Тренин Алексей Николаевич": 11,
-      "Хот Валерий Владимирович": 17,
-      "Штуркин Владимир Николаевич": 2
+      "gas:candidate-vibid:4234056238349": 2,
+      "gas:candidate-vibid:4234056238140": 13,
+      "gas:candidate-vibid:4234056226051": 15,
+      "gas:candidate-vibid:4234056238639": 112,
+      "gas:candidate-vibid:4234056238262": 11,
+      "gas:candidate-vibid:4234056225742": 17,
+      "gas:candidate-vibid:4234056238794": 2
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/krasnodar?action=show&root=1000066&tvd=4234056224479&vrn=100100067795849&region=23&global=&sub_region=23&prver=0&pronetvd=null&vibid=4234056224479&type=464",
@@ -11386,13 +11386,13 @@ export const duma_2016_uik_463_region_23_part_011 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Витишко Евгений Геннадиевич": 0,
-      "Ерохин Михаил Викторович": 13,
-      "Заруба Ольга Александровна": 6,
-      "Синяговский Владимир Ильич": 106,
-      "Тренин Алексей Николаевич": 15,
-      "Хот Валерий Владимирович": 15,
-      "Штуркин Владимир Николаевич": 0
+      "gas:candidate-vibid:4234056238349": 0,
+      "gas:candidate-vibid:4234056238140": 13,
+      "gas:candidate-vibid:4234056226051": 6,
+      "gas:candidate-vibid:4234056238639": 106,
+      "gas:candidate-vibid:4234056238262": 15,
+      "gas:candidate-vibid:4234056225742": 15,
+      "gas:candidate-vibid:4234056238794": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/krasnodar?action=show&root=1000066&tvd=4234056224479&vrn=100100067795849&region=23&global=&sub_region=23&prver=0&pronetvd=null&vibid=4234056224479&type=464",
@@ -11443,13 +11443,13 @@ export const duma_2016_uik_463_region_23_part_011 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Витишко Евгений Геннадиевич": 15,
-      "Ерохин Михаил Викторович": 35,
-      "Заруба Ольга Александровна": 47,
-      "Синяговский Владимир Ильич": 473,
-      "Тренин Алексей Николаевич": 30,
-      "Хот Валерий Владимирович": 50,
-      "Штуркин Владимир Николаевич": 26
+      "gas:candidate-vibid:4234056238349": 15,
+      "gas:candidate-vibid:4234056238140": 35,
+      "gas:candidate-vibid:4234056226051": 47,
+      "gas:candidate-vibid:4234056238639": 473,
+      "gas:candidate-vibid:4234056238262": 30,
+      "gas:candidate-vibid:4234056225742": 50,
+      "gas:candidate-vibid:4234056238794": 26
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/krasnodar?action=show&root=1000066&tvd=4234056224479&vrn=100100067795849&region=23&global=&sub_region=23&prver=0&pronetvd=null&vibid=4234056224479&type=464",
@@ -11500,13 +11500,13 @@ export const duma_2016_uik_463_region_23_part_011 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Витишко Евгений Геннадиевич": 8,
-      "Ерохин Михаил Викторович": 9,
-      "Заруба Ольга Александровна": 22,
-      "Синяговский Владимир Ильич": 314,
-      "Тренин Алексей Николаевич": 11,
-      "Хот Валерий Владимирович": 29,
-      "Штуркин Владимир Николаевич": 7
+      "gas:candidate-vibid:4234056238349": 8,
+      "gas:candidate-vibid:4234056238140": 9,
+      "gas:candidate-vibid:4234056226051": 22,
+      "gas:candidate-vibid:4234056238639": 314,
+      "gas:candidate-vibid:4234056238262": 11,
+      "gas:candidate-vibid:4234056225742": 29,
+      "gas:candidate-vibid:4234056238794": 7
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/krasnodar?action=show&root=1000066&tvd=4234056224479&vrn=100100067795849&region=23&global=&sub_region=23&prver=0&pronetvd=null&vibid=4234056224479&type=464",
@@ -11557,13 +11557,13 @@ export const duma_2016_uik_463_region_23_part_011 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Витишко Евгений Геннадиевич": 0,
-      "Ерохин Михаил Викторович": 3,
-      "Заруба Ольга Александровна": 4,
-      "Синяговский Владимир Ильич": 51,
-      "Тренин Алексей Николаевич": 5,
-      "Хот Валерий Владимирович": 6,
-      "Штуркин Владимир Николаевич": 0
+      "gas:candidate-vibid:4234056238349": 0,
+      "gas:candidate-vibid:4234056238140": 3,
+      "gas:candidate-vibid:4234056226051": 4,
+      "gas:candidate-vibid:4234056238639": 51,
+      "gas:candidate-vibid:4234056238262": 5,
+      "gas:candidate-vibid:4234056225742": 6,
+      "gas:candidate-vibid:4234056238794": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/krasnodar?action=show&root=1000066&tvd=4234056224479&vrn=100100067795849&region=23&global=&sub_region=23&prver=0&pronetvd=null&vibid=4234056224479&type=464",
@@ -11614,13 +11614,13 @@ export const duma_2016_uik_463_region_23_part_011 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Витишко Евгений Геннадиевич": 19,
-      "Ерохин Михаил Викторович": 28,
-      "Заруба Ольга Александровна": 49,
-      "Синяговский Владимир Ильич": 313,
-      "Тренин Алексей Николаевич": 42,
-      "Хот Валерий Владимирович": 64,
-      "Штуркин Владимир Николаевич": 5
+      "gas:candidate-vibid:4234056238349": 19,
+      "gas:candidate-vibid:4234056238140": 28,
+      "gas:candidate-vibid:4234056226051": 49,
+      "gas:candidate-vibid:4234056238639": 313,
+      "gas:candidate-vibid:4234056238262": 42,
+      "gas:candidate-vibid:4234056225742": 64,
+      "gas:candidate-vibid:4234056238794": 5
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/krasnodar?action=show&root=1000066&tvd=4234056224479&vrn=100100067795849&region=23&global=&sub_region=23&prver=0&pronetvd=null&vibid=4234056224479&type=464",
@@ -11671,13 +11671,13 @@ export const duma_2016_uik_463_region_23_part_011 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Витишко Евгений Геннадиевич": 12,
-      "Ерохин Михаил Викторович": 17,
-      "Заруба Ольга Александровна": 15,
-      "Синяговский Владимир Ильич": 139,
-      "Тренин Алексей Николаевич": 9,
-      "Хот Валерий Владимирович": 2,
-      "Штуркин Владимир Николаевич": 4
+      "gas:candidate-vibid:4234056238349": 12,
+      "gas:candidate-vibid:4234056238140": 17,
+      "gas:candidate-vibid:4234056226051": 15,
+      "gas:candidate-vibid:4234056238639": 139,
+      "gas:candidate-vibid:4234056238262": 9,
+      "gas:candidate-vibid:4234056225742": 2,
+      "gas:candidate-vibid:4234056238794": 4
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/krasnodar?action=show&root=1000066&tvd=4234056224479&vrn=100100067795849&region=23&global=&sub_region=23&prver=0&pronetvd=null&vibid=4234056224479&type=464",
@@ -11728,13 +11728,13 @@ export const duma_2016_uik_463_region_23_part_011 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Витишко Евгений Геннадиевич": 11,
-      "Ерохин Михаил Викторович": 12,
-      "Заруба Ольга Александровна": 17,
-      "Синяговский Владимир Ильич": 201,
-      "Тренин Алексей Николаевич": 29,
-      "Хот Валерий Владимирович": 17,
-      "Штуркин Владимир Николаевич": 3
+      "gas:candidate-vibid:4234056238349": 11,
+      "gas:candidate-vibid:4234056238140": 12,
+      "gas:candidate-vibid:4234056226051": 17,
+      "gas:candidate-vibid:4234056238639": 201,
+      "gas:candidate-vibid:4234056238262": 29,
+      "gas:candidate-vibid:4234056225742": 17,
+      "gas:candidate-vibid:4234056238794": 3
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/krasnodar?action=show&root=1000066&tvd=4234056224479&vrn=100100067795849&region=23&global=&sub_region=23&prver=0&pronetvd=null&vibid=4234056224479&type=464",
@@ -11785,13 +11785,13 @@ export const duma_2016_uik_463_region_23_part_011 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Витишко Евгений Геннадиевич": 2,
-      "Ерохин Михаил Викторович": 7,
-      "Заруба Ольга Александровна": 10,
-      "Синяговский Владимир Ильич": 128,
-      "Тренин Алексей Николаевич": 10,
-      "Хот Валерий Владимирович": 23,
-      "Штуркин Владимир Николаевич": 2
+      "gas:candidate-vibid:4234056238349": 2,
+      "gas:candidate-vibid:4234056238140": 7,
+      "gas:candidate-vibid:4234056226051": 10,
+      "gas:candidate-vibid:4234056238639": 128,
+      "gas:candidate-vibid:4234056238262": 10,
+      "gas:candidate-vibid:4234056225742": 23,
+      "gas:candidate-vibid:4234056238794": 2
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/krasnodar?action=show&root=1000066&tvd=4234056224479&vrn=100100067795849&region=23&global=&sub_region=23&prver=0&pronetvd=null&vibid=4234056224479&type=464",
@@ -11842,13 +11842,13 @@ export const duma_2016_uik_463_region_23_part_011 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Витишко Евгений Геннадиевич": 12,
-      "Ерохин Михаил Викторович": 32,
-      "Заруба Ольга Александровна": 18,
-      "Синяговский Владимир Ильич": 349,
-      "Тренин Алексей Николаевич": 38,
-      "Хот Валерий Владимирович": 32,
-      "Штуркин Владимир Николаевич": 7
+      "gas:candidate-vibid:4234056238349": 12,
+      "gas:candidate-vibid:4234056238140": 32,
+      "gas:candidate-vibid:4234056226051": 18,
+      "gas:candidate-vibid:4234056238639": 349,
+      "gas:candidate-vibid:4234056238262": 38,
+      "gas:candidate-vibid:4234056225742": 32,
+      "gas:candidate-vibid:4234056238794": 7
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/krasnodar?action=show&root=1000066&tvd=4234056224479&vrn=100100067795849&region=23&global=&sub_region=23&prver=0&pronetvd=null&vibid=4234056224479&type=464",
@@ -11899,13 +11899,13 @@ export const duma_2016_uik_463_region_23_part_011 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Витишко Евгений Геннадиевич": 0,
-      "Ерохин Михаил Викторович": 0,
-      "Заруба Ольга Александровна": 0,
-      "Синяговский Владимир Ильич": 70,
-      "Тренин Алексей Николаевич": 19,
-      "Хот Валерий Владимирович": 5,
-      "Штуркин Владимир Николаевич": 0
+      "gas:candidate-vibid:4234056238349": 0,
+      "gas:candidate-vibid:4234056238140": 0,
+      "gas:candidate-vibid:4234056226051": 0,
+      "gas:candidate-vibid:4234056238639": 70,
+      "gas:candidate-vibid:4234056238262": 19,
+      "gas:candidate-vibid:4234056225742": 5,
+      "gas:candidate-vibid:4234056238794": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/krasnodar?action=show&root=1000066&tvd=4234056224479&vrn=100100067795849&region=23&global=&sub_region=23&prver=0&pronetvd=null&vibid=4234056224479&type=464",
@@ -11956,13 +11956,13 @@ export const duma_2016_uik_463_region_23_part_011 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Витишко Евгений Геннадиевич": 0,
-      "Ерохин Михаил Викторович": 4,
-      "Заруба Ольга Александровна": 0,
-      "Синяговский Владимир Ильич": 72,
-      "Тренин Алексей Николаевич": 5,
-      "Хот Валерий Владимирович": 6,
-      "Штуркин Владимир Николаевич": 0
+      "gas:candidate-vibid:4234056238349": 0,
+      "gas:candidate-vibid:4234056238140": 4,
+      "gas:candidate-vibid:4234056226051": 0,
+      "gas:candidate-vibid:4234056238639": 72,
+      "gas:candidate-vibid:4234056238262": 5,
+      "gas:candidate-vibid:4234056225742": 6,
+      "gas:candidate-vibid:4234056238794": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/krasnodar?action=show&root=1000066&tvd=4234056224479&vrn=100100067795849&region=23&global=&sub_region=23&prver=0&pronetvd=null&vibid=4234056224479&type=464",
@@ -12013,13 +12013,13 @@ export const duma_2016_uik_463_region_23_part_011 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Витишко Евгений Геннадиевич": 2,
-      "Ерохин Михаил Викторович": 5,
-      "Заруба Ольга Александровна": 5,
-      "Синяговский Владимир Ильич": 88,
-      "Тренин Алексей Николаевич": 5,
-      "Хот Валерий Владимирович": 7,
-      "Штуркин Владимир Николаевич": 0
+      "gas:candidate-vibid:4234056238349": 2,
+      "gas:candidate-vibid:4234056238140": 5,
+      "gas:candidate-vibid:4234056226051": 5,
+      "gas:candidate-vibid:4234056238639": 88,
+      "gas:candidate-vibid:4234056238262": 5,
+      "gas:candidate-vibid:4234056225742": 7,
+      "gas:candidate-vibid:4234056238794": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/krasnodar?action=show&root=1000066&tvd=4234056224479&vrn=100100067795849&region=23&global=&sub_region=23&prver=0&pronetvd=null&vibid=4234056224479&type=464",
@@ -12070,13 +12070,13 @@ export const duma_2016_uik_463_region_23_part_011 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Витишко Евгений Геннадиевич": 8,
-      "Ерохин Михаил Викторович": 6,
-      "Заруба Ольга Александровна": 12,
-      "Синяговский Владимир Ильич": 227,
-      "Тренин Алексей Николаевич": 7,
-      "Хот Валерий Владимирович": 6,
-      "Штуркин Владимир Николаевич": 2
+      "gas:candidate-vibid:4234056238349": 8,
+      "gas:candidate-vibid:4234056238140": 6,
+      "gas:candidate-vibid:4234056226051": 12,
+      "gas:candidate-vibid:4234056238639": 227,
+      "gas:candidate-vibid:4234056238262": 7,
+      "gas:candidate-vibid:4234056225742": 6,
+      "gas:candidate-vibid:4234056238794": 2
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/krasnodar?action=show&root=1000066&tvd=4234056224479&vrn=100100067795849&region=23&global=&sub_region=23&prver=0&pronetvd=null&vibid=4234056224479&type=464",
@@ -12127,13 +12127,13 @@ export const duma_2016_uik_463_region_23_part_011 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Витишко Евгений Геннадиевич": 10,
-      "Ерохин Михаил Викторович": 25,
-      "Заруба Ольга Александровна": 19,
-      "Синяговский Владимир Ильич": 349,
-      "Тренин Алексей Николаевич": 31,
-      "Хот Валерий Владимирович": 21,
-      "Штуркин Владимир Николаевич": 6
+      "gas:candidate-vibid:4234056238349": 10,
+      "gas:candidate-vibid:4234056238140": 25,
+      "gas:candidate-vibid:4234056226051": 19,
+      "gas:candidate-vibid:4234056238639": 349,
+      "gas:candidate-vibid:4234056238262": 31,
+      "gas:candidate-vibid:4234056225742": 21,
+      "gas:candidate-vibid:4234056238794": 6
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/krasnodar?action=show&root=1000066&tvd=4234056224479&vrn=100100067795849&region=23&global=&sub_region=23&prver=0&pronetvd=null&vibid=4234056224479&type=464",
@@ -12184,13 +12184,13 @@ export const duma_2016_uik_463_region_23_part_011 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Витишко Евгений Геннадиевич": 8,
-      "Ерохин Михаил Викторович": 8,
-      "Заруба Ольга Александровна": 21,
-      "Синяговский Владимир Ильич": 263,
-      "Тренин Алексей Николаевич": 35,
-      "Хот Валерий Владимирович": 33,
-      "Штуркин Владимир Николаевич": 7
+      "gas:candidate-vibid:4234056238349": 8,
+      "gas:candidate-vibid:4234056238140": 8,
+      "gas:candidate-vibid:4234056226051": 21,
+      "gas:candidate-vibid:4234056238639": 263,
+      "gas:candidate-vibid:4234056238262": 35,
+      "gas:candidate-vibid:4234056225742": 33,
+      "gas:candidate-vibid:4234056238794": 7
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/krasnodar?action=show&root=1000066&tvd=4234056224479&vrn=100100067795849&region=23&global=&sub_region=23&prver=0&pronetvd=null&vibid=4234056224479&type=464",
@@ -12241,13 +12241,13 @@ export const duma_2016_uik_463_region_23_part_011 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Витишко Евгений Геннадиевич": 11,
-      "Ерохин Михаил Викторович": 22,
-      "Заруба Ольга Александровна": 21,
-      "Синяговский Владимир Ильич": 323,
-      "Тренин Алексей Николаевич": 30,
-      "Хот Валерий Владимирович": 47,
-      "Штуркин Владимир Николаевич": 8
+      "gas:candidate-vibid:4234056238349": 11,
+      "gas:candidate-vibid:4234056238140": 22,
+      "gas:candidate-vibid:4234056226051": 21,
+      "gas:candidate-vibid:4234056238639": 323,
+      "gas:candidate-vibid:4234056238262": 30,
+      "gas:candidate-vibid:4234056225742": 47,
+      "gas:candidate-vibid:4234056238794": 8
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/krasnodar?action=show&root=1000066&tvd=4234056224479&vrn=100100067795849&region=23&global=&sub_region=23&prver=0&pronetvd=null&vibid=4234056224479&type=464",
@@ -12298,13 +12298,13 @@ export const duma_2016_uik_463_region_23_part_011 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Витишко Евгений Геннадиевич": 5,
-      "Ерохин Михаил Викторович": 27,
-      "Заруба Ольга Александровна": 17,
-      "Синяговский Владимир Ильич": 256,
-      "Тренин Алексей Николаевич": 17,
-      "Хот Валерий Владимирович": 49,
-      "Штуркин Владимир Николаевич": 3
+      "gas:candidate-vibid:4234056238349": 5,
+      "gas:candidate-vibid:4234056238140": 27,
+      "gas:candidate-vibid:4234056226051": 17,
+      "gas:candidate-vibid:4234056238639": 256,
+      "gas:candidate-vibid:4234056238262": 17,
+      "gas:candidate-vibid:4234056225742": 49,
+      "gas:candidate-vibid:4234056238794": 3
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/krasnodar?action=show&root=1000066&tvd=4234056224479&vrn=100100067795849&region=23&global=&sub_region=23&prver=0&pronetvd=null&vibid=4234056224479&type=464",
@@ -12355,13 +12355,13 @@ export const duma_2016_uik_463_region_23_part_011 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Витишко Евгений Геннадиевич": 7,
-      "Ерохин Михаил Викторович": 41,
-      "Заруба Ольга Александровна": 4,
-      "Синяговский Владимир Ильич": 293,
-      "Тренин Алексей Николаевич": 30,
-      "Хот Валерий Владимирович": 20,
-      "Штуркин Владимир Николаевич": 7
+      "gas:candidate-vibid:4234056238349": 7,
+      "gas:candidate-vibid:4234056238140": 41,
+      "gas:candidate-vibid:4234056226051": 4,
+      "gas:candidate-vibid:4234056238639": 293,
+      "gas:candidate-vibid:4234056238262": 30,
+      "gas:candidate-vibid:4234056225742": 20,
+      "gas:candidate-vibid:4234056238794": 7
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/krasnodar?action=show&root=1000066&tvd=4234056224479&vrn=100100067795849&region=23&global=&sub_region=23&prver=0&pronetvd=null&vibid=4234056224479&type=464",
@@ -12412,13 +12412,13 @@ export const duma_2016_uik_463_region_23_part_011 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Витишко Евгений Геннадиевич": 10,
-      "Ерохин Михаил Викторович": 20,
-      "Заруба Ольга Александровна": 21,
-      "Синяговский Владимир Ильич": 284,
-      "Тренин Алексей Николаевич": 38,
-      "Хот Валерий Владимирович": 42,
-      "Штуркин Владимир Николаевич": 13
+      "gas:candidate-vibid:4234056238349": 10,
+      "gas:candidate-vibid:4234056238140": 20,
+      "gas:candidate-vibid:4234056226051": 21,
+      "gas:candidate-vibid:4234056238639": 284,
+      "gas:candidate-vibid:4234056238262": 38,
+      "gas:candidate-vibid:4234056225742": 42,
+      "gas:candidate-vibid:4234056238794": 13
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/krasnodar?action=show&root=1000066&tvd=4234056224479&vrn=100100067795849&region=23&global=&sub_region=23&prver=0&pronetvd=null&vibid=4234056224479&type=464",
@@ -12469,13 +12469,13 @@ export const duma_2016_uik_463_region_23_part_011 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Витишко Евгений Геннадиевич": 19,
-      "Ерохин Михаил Викторович": 47,
-      "Заруба Ольга Александровна": 25,
-      "Синяговский Владимир Ильич": 402,
-      "Тренин Алексей Николаевич": 33,
-      "Хот Валерий Владимирович": 28,
-      "Штуркин Владимир Николаевич": 14
+      "gas:candidate-vibid:4234056238349": 19,
+      "gas:candidate-vibid:4234056238140": 47,
+      "gas:candidate-vibid:4234056226051": 25,
+      "gas:candidate-vibid:4234056238639": 402,
+      "gas:candidate-vibid:4234056238262": 33,
+      "gas:candidate-vibid:4234056225742": 28,
+      "gas:candidate-vibid:4234056238794": 14
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/krasnodar?action=show&root=1000066&tvd=4234056224585&vrn=100100067795849&region=23&global=&sub_region=23&prver=0&pronetvd=null&vibid=4234056224585&type=464",
@@ -12526,13 +12526,13 @@ export const duma_2016_uik_463_region_23_part_011 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Витишко Евгений Геннадиевич": 25,
-      "Ерохин Михаил Викторович": 60,
-      "Заруба Ольга Александровна": 37,
-      "Синяговский Владимир Ильич": 936,
-      "Тренин Алексей Николаевич": 44,
-      "Хот Валерий Владимирович": 69,
-      "Штуркин Владимир Николаевич": 29
+      "gas:candidate-vibid:4234056238349": 25,
+      "gas:candidate-vibid:4234056238140": 60,
+      "gas:candidate-vibid:4234056226051": 37,
+      "gas:candidate-vibid:4234056238639": 936,
+      "gas:candidate-vibid:4234056238262": 44,
+      "gas:candidate-vibid:4234056225742": 69,
+      "gas:candidate-vibid:4234056238794": 29
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/krasnodar?action=show&root=1000066&tvd=4234056224585&vrn=100100067795849&region=23&global=&sub_region=23&prver=0&pronetvd=null&vibid=4234056224585&type=464",
@@ -12583,13 +12583,13 @@ export const duma_2016_uik_463_region_23_part_011 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Витишко Евгений Геннадиевич": 21,
-      "Ерохин Михаил Викторович": 42,
-      "Заруба Ольга Александровна": 25,
-      "Синяговский Владимир Ильич": 1001,
-      "Тренин Алексей Николаевич": 21,
-      "Хот Валерий Владимирович": 28,
-      "Штуркин Владимир Николаевич": 18
+      "gas:candidate-vibid:4234056238349": 21,
+      "gas:candidate-vibid:4234056238140": 42,
+      "gas:candidate-vibid:4234056226051": 25,
+      "gas:candidate-vibid:4234056238639": 1001,
+      "gas:candidate-vibid:4234056238262": 21,
+      "gas:candidate-vibid:4234056225742": 28,
+      "gas:candidate-vibid:4234056238794": 18
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/krasnodar?action=show&root=1000066&tvd=4234056224585&vrn=100100067795849&region=23&global=&sub_region=23&prver=0&pronetvd=null&vibid=4234056224585&type=464",
@@ -12640,13 +12640,13 @@ export const duma_2016_uik_463_region_23_part_011 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Витишко Евгений Геннадиевич": 16,
-      "Ерохин Михаил Викторович": 67,
-      "Заруба Ольга Александровна": 18,
-      "Синяговский Владимир Ильич": 488,
-      "Тренин Алексей Николаевич": 44,
-      "Хот Валерий Владимирович": 46,
-      "Штуркин Владимир Николаевич": 13
+      "gas:candidate-vibid:4234056238349": 16,
+      "gas:candidate-vibid:4234056238140": 67,
+      "gas:candidate-vibid:4234056226051": 18,
+      "gas:candidate-vibid:4234056238639": 488,
+      "gas:candidate-vibid:4234056238262": 44,
+      "gas:candidate-vibid:4234056225742": 46,
+      "gas:candidate-vibid:4234056238794": 13
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/krasnodar?action=show&root=1000066&tvd=4234056224585&vrn=100100067795849&region=23&global=&sub_region=23&prver=0&pronetvd=null&vibid=4234056224585&type=464",
@@ -12697,13 +12697,13 @@ export const duma_2016_uik_463_region_23_part_011 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Витишко Евгений Геннадиевич": 19,
-      "Ерохин Михаил Викторович": 51,
-      "Заруба Ольга Александровна": 16,
-      "Синяговский Владимир Ильич": 534,
-      "Тренин Алексей Николаевич": 44,
-      "Хот Валерий Владимирович": 43,
-      "Штуркин Владимир Николаевич": 20
+      "gas:candidate-vibid:4234056238349": 19,
+      "gas:candidate-vibid:4234056238140": 51,
+      "gas:candidate-vibid:4234056226051": 16,
+      "gas:candidate-vibid:4234056238639": 534,
+      "gas:candidate-vibid:4234056238262": 44,
+      "gas:candidate-vibid:4234056225742": 43,
+      "gas:candidate-vibid:4234056238794": 20
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/krasnodar?action=show&root=1000066&tvd=4234056224585&vrn=100100067795849&region=23&global=&sub_region=23&prver=0&pronetvd=null&vibid=4234056224585&type=464",
@@ -12754,13 +12754,13 @@ export const duma_2016_uik_463_region_23_part_011 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Витишко Евгений Геннадиевич": 18,
-      "Ерохин Михаил Викторович": 66,
-      "Заруба Ольга Александровна": 47,
-      "Синяговский Владимир Ильич": 1012,
-      "Тренин Алексей Николаевич": 97,
-      "Хот Валерий Владимирович": 61,
-      "Штуркин Владимир Николаевич": 40
+      "gas:candidate-vibid:4234056238349": 18,
+      "gas:candidate-vibid:4234056238140": 66,
+      "gas:candidate-vibid:4234056226051": 47,
+      "gas:candidate-vibid:4234056238639": 1012,
+      "gas:candidate-vibid:4234056238262": 97,
+      "gas:candidate-vibid:4234056225742": 61,
+      "gas:candidate-vibid:4234056238794": 40
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/krasnodar?action=show&root=1000066&tvd=4234056224585&vrn=100100067795849&region=23&global=&sub_region=23&prver=0&pronetvd=null&vibid=4234056224585&type=464",
@@ -12811,13 +12811,13 @@ export const duma_2016_uik_463_region_23_part_011 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Витишко Евгений Геннадиевич": 11,
-      "Ерохин Михаил Викторович": 52,
-      "Заруба Ольга Александровна": 31,
-      "Синяговский Владимир Ильич": 527,
-      "Тренин Алексей Николаевич": 54,
-      "Хот Валерий Владимирович": 58,
-      "Штуркин Владимир Николаевич": 8
+      "gas:candidate-vibid:4234056238349": 11,
+      "gas:candidate-vibid:4234056238140": 52,
+      "gas:candidate-vibid:4234056226051": 31,
+      "gas:candidate-vibid:4234056238639": 527,
+      "gas:candidate-vibid:4234056238262": 54,
+      "gas:candidate-vibid:4234056225742": 58,
+      "gas:candidate-vibid:4234056238794": 8
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/krasnodar?action=show&root=1000066&tvd=4234056224585&vrn=100100067795849&region=23&global=&sub_region=23&prver=0&pronetvd=null&vibid=4234056224585&type=464",
@@ -12868,13 +12868,13 @@ export const duma_2016_uik_463_region_23_part_011 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Витишко Евгений Геннадиевич": 5,
-      "Ерохин Михаил Викторович": 15,
-      "Заруба Ольга Александровна": 9,
-      "Синяговский Владимир Ильич": 647,
-      "Тренин Алексей Николаевич": 14,
-      "Хот Валерий Владимирович": 81,
-      "Штуркин Владимир Николаевич": 9
+      "gas:candidate-vibid:4234056238349": 5,
+      "gas:candidate-vibid:4234056238140": 15,
+      "gas:candidate-vibid:4234056226051": 9,
+      "gas:candidate-vibid:4234056238639": 647,
+      "gas:candidate-vibid:4234056238262": 14,
+      "gas:candidate-vibid:4234056225742": 81,
+      "gas:candidate-vibid:4234056238794": 9
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/krasnodar?action=show&root=1000066&tvd=4234056224585&vrn=100100067795849&region=23&global=&sub_region=23&prver=0&pronetvd=null&vibid=4234056224585&type=464",
@@ -12925,13 +12925,13 @@ export const duma_2016_uik_463_region_23_part_011 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Витишко Евгений Геннадиевич": 50,
-      "Ерохин Михаил Викторович": 70,
-      "Заруба Ольга Александровна": 42,
-      "Синяговский Владимир Ильич": 694,
-      "Тренин Алексей Николаевич": 120,
-      "Хот Валерий Владимирович": 60,
-      "Штуркин Владимир Николаевич": 48
+      "gas:candidate-vibid:4234056238349": 50,
+      "gas:candidate-vibid:4234056238140": 70,
+      "gas:candidate-vibid:4234056226051": 42,
+      "gas:candidate-vibid:4234056238639": 694,
+      "gas:candidate-vibid:4234056238262": 120,
+      "gas:candidate-vibid:4234056225742": 60,
+      "gas:candidate-vibid:4234056238794": 48
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/krasnodar?action=show&root=1000066&tvd=4234056224585&vrn=100100067795849&region=23&global=&sub_region=23&prver=0&pronetvd=null&vibid=4234056224585&type=464",
@@ -12982,13 +12982,13 @@ export const duma_2016_uik_463_region_23_part_011 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Витишко Евгений Геннадиевич": 30,
-      "Ерохин Михаил Викторович": 97,
-      "Заруба Ольга Александровна": 32,
-      "Синяговский Владимир Ильич": 609,
-      "Тренин Алексей Николаевич": 80,
-      "Хот Валерий Владимирович": 56,
-      "Штуркин Владимир Николаевич": 39
+      "gas:candidate-vibid:4234056238349": 30,
+      "gas:candidate-vibid:4234056238140": 97,
+      "gas:candidate-vibid:4234056226051": 32,
+      "gas:candidate-vibid:4234056238639": 609,
+      "gas:candidate-vibid:4234056238262": 80,
+      "gas:candidate-vibid:4234056225742": 56,
+      "gas:candidate-vibid:4234056238794": 39
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/krasnodar?action=show&root=1000066&tvd=4234056224585&vrn=100100067795849&region=23&global=&sub_region=23&prver=0&pronetvd=null&vibid=4234056224585&type=464",
@@ -13039,13 +13039,13 @@ export const duma_2016_uik_463_region_23_part_011 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Витишко Евгений Геннадиевич": 11,
-      "Ерохин Михаил Викторович": 51,
-      "Заруба Ольга Александровна": 24,
-      "Синяговский Владимир Ильич": 748,
-      "Тренин Алексей Николаевич": 62,
-      "Хот Валерий Владимирович": 24,
-      "Штуркин Владимир Николаевич": 15
+      "gas:candidate-vibid:4234056238349": 11,
+      "gas:candidate-vibid:4234056238140": 51,
+      "gas:candidate-vibid:4234056226051": 24,
+      "gas:candidate-vibid:4234056238639": 748,
+      "gas:candidate-vibid:4234056238262": 62,
+      "gas:candidate-vibid:4234056225742": 24,
+      "gas:candidate-vibid:4234056238794": 15
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/krasnodar?action=show&root=1000066&tvd=4234056224585&vrn=100100067795849&region=23&global=&sub_region=23&prver=0&pronetvd=null&vibid=4234056224585&type=464",
@@ -13096,13 +13096,13 @@ export const duma_2016_uik_463_region_23_part_011 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Витишко Евгений Геннадиевич": 24,
-      "Ерохин Михаил Викторович": 63,
-      "Заруба Ольга Александровна": 32,
-      "Синяговский Владимир Ильич": 412,
-      "Тренин Алексей Николаевич": 51,
-      "Хот Валерий Владимирович": 40,
-      "Штуркин Владимир Николаевич": 16
+      "gas:candidate-vibid:4234056238349": 24,
+      "gas:candidate-vibid:4234056238140": 63,
+      "gas:candidate-vibid:4234056226051": 32,
+      "gas:candidate-vibid:4234056238639": 412,
+      "gas:candidate-vibid:4234056238262": 51,
+      "gas:candidate-vibid:4234056225742": 40,
+      "gas:candidate-vibid:4234056238794": 16
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/krasnodar?action=show&root=1000066&tvd=4234056224585&vrn=100100067795849&region=23&global=&sub_region=23&prver=0&pronetvd=null&vibid=4234056224585&type=464",
@@ -13153,13 +13153,13 @@ export const duma_2016_uik_463_region_23_part_011 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Витишко Евгений Геннадиевич": 0,
-      "Ерохин Михаил Викторович": 71,
-      "Заруба Ольга Александровна": 12,
-      "Синяговский Владимир Ильич": 1125,
-      "Тренин Алексей Николаевич": 80,
-      "Хот Валерий Владимирович": 17,
-      "Штуркин Владимир Николаевич": 14
+      "gas:candidate-vibid:4234056238349": 0,
+      "gas:candidate-vibid:4234056238140": 71,
+      "gas:candidate-vibid:4234056226051": 12,
+      "gas:candidate-vibid:4234056238639": 1125,
+      "gas:candidate-vibid:4234056238262": 80,
+      "gas:candidate-vibid:4234056225742": 17,
+      "gas:candidate-vibid:4234056238794": 14
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/krasnodar?action=show&root=1000066&tvd=4234056224585&vrn=100100067795849&region=23&global=&sub_region=23&prver=0&pronetvd=null&vibid=4234056224585&type=464",
@@ -13210,13 +13210,13 @@ export const duma_2016_uik_463_region_23_part_011 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Витишко Евгений Геннадиевич": 37,
-      "Ерохин Михаил Викторович": 143,
-      "Заруба Ольга Александровна": 64,
-      "Синяговский Владимир Ильич": 397,
-      "Тренин Алексей Николаевич": 128,
-      "Хот Валерий Владимирович": 59,
-      "Штуркин Владимир Николаевич": 31
+      "gas:candidate-vibid:4234056238349": 37,
+      "gas:candidate-vibid:4234056238140": 143,
+      "gas:candidate-vibid:4234056226051": 64,
+      "gas:candidate-vibid:4234056238639": 397,
+      "gas:candidate-vibid:4234056238262": 128,
+      "gas:candidate-vibid:4234056225742": 59,
+      "gas:candidate-vibid:4234056238794": 31
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/krasnodar?action=show&root=1000066&tvd=4234056224585&vrn=100100067795849&region=23&global=&sub_region=23&prver=0&pronetvd=null&vibid=4234056224585&type=464",
@@ -13267,13 +13267,13 @@ export const duma_2016_uik_463_region_23_part_011 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Витишко Евгений Геннадиевич": 14,
-      "Ерохин Михаил Викторович": 40,
-      "Заруба Ольга Александровна": 20,
-      "Синяговский Владимир Ильич": 1121,
-      "Тренин Алексей Николаевич": 77,
-      "Хот Валерий Владимирович": 38,
-      "Штуркин Владимир Николаевич": 34
+      "gas:candidate-vibid:4234056238349": 14,
+      "gas:candidate-vibid:4234056238140": 40,
+      "gas:candidate-vibid:4234056226051": 20,
+      "gas:candidate-vibid:4234056238639": 1121,
+      "gas:candidate-vibid:4234056238262": 77,
+      "gas:candidate-vibid:4234056225742": 38,
+      "gas:candidate-vibid:4234056238794": 34
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/krasnodar?action=show&root=1000066&tvd=4234056224585&vrn=100100067795849&region=23&global=&sub_region=23&prver=0&pronetvd=null&vibid=4234056224585&type=464",
@@ -13324,13 +13324,13 @@ export const duma_2016_uik_463_region_23_part_011 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Витишко Евгений Геннадиевич": 21,
-      "Ерохин Михаил Викторович": 101,
-      "Заруба Ольга Александровна": 49,
-      "Синяговский Владимир Ильич": 352,
-      "Тренин Алексей Николаевич": 65,
-      "Хот Валерий Владимирович": 75,
-      "Штуркин Владимир Николаевич": 37
+      "gas:candidate-vibid:4234056238349": 21,
+      "gas:candidate-vibid:4234056238140": 101,
+      "gas:candidate-vibid:4234056226051": 49,
+      "gas:candidate-vibid:4234056238639": 352,
+      "gas:candidate-vibid:4234056238262": 65,
+      "gas:candidate-vibid:4234056225742": 75,
+      "gas:candidate-vibid:4234056238794": 37
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/krasnodar?action=show&root=1000066&tvd=4234056224585&vrn=100100067795849&region=23&global=&sub_region=23&prver=0&pronetvd=null&vibid=4234056224585&type=464",
@@ -13381,13 +13381,13 @@ export const duma_2016_uik_463_region_23_part_011 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Витишко Евгений Геннадиевич": 15,
-      "Ерохин Михаил Викторович": 102,
-      "Заруба Ольга Александровна": 43,
-      "Синяговский Владимир Ильич": 865,
-      "Тренин Алексей Николаевич": 68,
-      "Хот Валерий Владимирович": 62,
-      "Штуркин Владимир Николаевич": 18
+      "gas:candidate-vibid:4234056238349": 15,
+      "gas:candidate-vibid:4234056238140": 102,
+      "gas:candidate-vibid:4234056226051": 43,
+      "gas:candidate-vibid:4234056238639": 865,
+      "gas:candidate-vibid:4234056238262": 68,
+      "gas:candidate-vibid:4234056225742": 62,
+      "gas:candidate-vibid:4234056238794": 18
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/krasnodar?action=show&root=1000066&tvd=4234056224585&vrn=100100067795849&region=23&global=&sub_region=23&prver=0&pronetvd=null&vibid=4234056224585&type=464",
@@ -13438,13 +13438,13 @@ export const duma_2016_uik_463_region_23_part_011 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Витишко Евгений Геннадиевич": 32,
-      "Ерохин Михаил Викторович": 109,
-      "Заруба Ольга Александровна": 43,
-      "Синяговский Владимир Ильич": 425,
-      "Тренин Алексей Николаевич": 101,
-      "Хот Валерий Владимирович": 82,
-      "Штуркин Владимир Николаевич": 32
+      "gas:candidate-vibid:4234056238349": 32,
+      "gas:candidate-vibid:4234056238140": 109,
+      "gas:candidate-vibid:4234056226051": 43,
+      "gas:candidate-vibid:4234056238639": 425,
+      "gas:candidate-vibid:4234056238262": 101,
+      "gas:candidate-vibid:4234056225742": 82,
+      "gas:candidate-vibid:4234056238794": 32
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/krasnodar?action=show&root=1000066&tvd=4234056224585&vrn=100100067795849&region=23&global=&sub_region=23&prver=0&pronetvd=null&vibid=4234056224585&type=464",
@@ -13495,13 +13495,13 @@ export const duma_2016_uik_463_region_23_part_011 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Витишко Евгений Геннадиевич": 12,
-      "Ерохин Михаил Викторович": 42,
-      "Заруба Ольга Александровна": 8,
-      "Синяговский Владимир Ильич": 1126,
-      "Тренин Алексей Николаевич": 47,
-      "Хот Валерий Владимирович": 22,
-      "Штуркин Владимир Николаевич": 8
+      "gas:candidate-vibid:4234056238349": 12,
+      "gas:candidate-vibid:4234056238140": 42,
+      "gas:candidate-vibid:4234056226051": 8,
+      "gas:candidate-vibid:4234056238639": 1126,
+      "gas:candidate-vibid:4234056238262": 47,
+      "gas:candidate-vibid:4234056225742": 22,
+      "gas:candidate-vibid:4234056238794": 8
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/krasnodar?action=show&root=1000066&tvd=4234056224585&vrn=100100067795849&region=23&global=&sub_region=23&prver=0&pronetvd=null&vibid=4234056224585&type=464",
@@ -13552,13 +13552,13 @@ export const duma_2016_uik_463_region_23_part_011 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Витишко Евгений Геннадиевич": 21,
-      "Ерохин Михаил Викторович": 43,
-      "Заруба Ольга Александровна": 23,
-      "Синяговский Владимир Ильич": 912,
-      "Тренин Алексей Николаевич": 41,
-      "Хот Валерий Владимирович": 41,
-      "Штуркин Владимир Николаевич": 33
+      "gas:candidate-vibid:4234056238349": 21,
+      "gas:candidate-vibid:4234056238140": 43,
+      "gas:candidate-vibid:4234056226051": 23,
+      "gas:candidate-vibid:4234056238639": 912,
+      "gas:candidate-vibid:4234056238262": 41,
+      "gas:candidate-vibid:4234056225742": 41,
+      "gas:candidate-vibid:4234056238794": 33
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/krasnodar?action=show&root=1000066&tvd=4234056224585&vrn=100100067795849&region=23&global=&sub_region=23&prver=0&pronetvd=null&vibid=4234056224585&type=464",
@@ -13609,13 +13609,13 @@ export const duma_2016_uik_463_region_23_part_011 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Витишко Евгений Геннадиевич": 41,
-      "Ерохин Михаил Викторович": 120,
-      "Заруба Ольга Александровна": 28,
-      "Синяговский Владимир Ильич": 1123,
-      "Тренин Алексей Николаевич": 77,
-      "Хот Валерий Владимирович": 52,
-      "Штуркин Владимир Николаевич": 16
+      "gas:candidate-vibid:4234056238349": 41,
+      "gas:candidate-vibid:4234056238140": 120,
+      "gas:candidate-vibid:4234056226051": 28,
+      "gas:candidate-vibid:4234056238639": 1123,
+      "gas:candidate-vibid:4234056238262": 77,
+      "gas:candidate-vibid:4234056225742": 52,
+      "gas:candidate-vibid:4234056238794": 16
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/krasnodar?action=show&root=1000066&tvd=4234056224585&vrn=100100067795849&region=23&global=&sub_region=23&prver=0&pronetvd=null&vibid=4234056224585&type=464",
@@ -13666,13 +13666,13 @@ export const duma_2016_uik_463_region_23_part_011 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Витишко Евгений Геннадиевич": 12,
-      "Ерохин Михаил Викторович": 64,
-      "Заруба Ольга Александровна": 23,
-      "Синяговский Владимир Ильич": 1029,
-      "Тренин Алексей Николаевич": 91,
-      "Хот Валерий Владимирович": 23,
-      "Штуркин Владимир Николаевич": 29
+      "gas:candidate-vibid:4234056238349": 12,
+      "gas:candidate-vibid:4234056238140": 64,
+      "gas:candidate-vibid:4234056226051": 23,
+      "gas:candidate-vibid:4234056238639": 1029,
+      "gas:candidate-vibid:4234056238262": 91,
+      "gas:candidate-vibid:4234056225742": 23,
+      "gas:candidate-vibid:4234056238794": 29
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/krasnodar?action=show&root=1000066&tvd=4234056224585&vrn=100100067795849&region=23&global=&sub_region=23&prver=0&pronetvd=null&vibid=4234056224585&type=464",
@@ -13723,13 +13723,13 @@ export const duma_2016_uik_463_region_23_part_011 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Витишко Евгений Геннадиевич": 29,
-      "Ерохин Михаил Викторович": 115,
-      "Заруба Ольга Александровна": 46,
-      "Синяговский Владимир Ильич": 798,
-      "Тренин Алексей Николаевич": 88,
-      "Хот Валерий Владимирович": 64,
-      "Штуркин Владимир Николаевич": 36
+      "gas:candidate-vibid:4234056238349": 29,
+      "gas:candidate-vibid:4234056238140": 115,
+      "gas:candidate-vibid:4234056226051": 46,
+      "gas:candidate-vibid:4234056238639": 798,
+      "gas:candidate-vibid:4234056238262": 88,
+      "gas:candidate-vibid:4234056225742": 64,
+      "gas:candidate-vibid:4234056238794": 36
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/krasnodar?action=show&root=1000066&tvd=4234056224585&vrn=100100067795849&region=23&global=&sub_region=23&prver=0&pronetvd=null&vibid=4234056224585&type=464",
@@ -13780,13 +13780,13 @@ export const duma_2016_uik_463_region_23_part_011 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Витишко Евгений Геннадиевич": 13,
-      "Ерохин Михаил Викторович": 34,
-      "Заруба Ольга Александровна": 15,
-      "Синяговский Владимир Ильич": 779,
-      "Тренин Алексей Николаевич": 27,
-      "Хот Валерий Владимирович": 56,
-      "Штуркин Владимир Николаевич": 21
+      "gas:candidate-vibid:4234056238349": 13,
+      "gas:candidate-vibid:4234056238140": 34,
+      "gas:candidate-vibid:4234056226051": 15,
+      "gas:candidate-vibid:4234056238639": 779,
+      "gas:candidate-vibid:4234056238262": 27,
+      "gas:candidate-vibid:4234056225742": 56,
+      "gas:candidate-vibid:4234056238794": 21
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/krasnodar?action=show&root=1000066&tvd=4234056224585&vrn=100100067795849&region=23&global=&sub_region=23&prver=0&pronetvd=null&vibid=4234056224585&type=464",
@@ -13837,13 +13837,13 @@ export const duma_2016_uik_463_region_23_part_011 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Витишко Евгений Геннадиевич": 23,
-      "Ерохин Михаил Викторович": 73,
-      "Заруба Ольга Александровна": 26,
-      "Синяговский Владимир Ильич": 399,
-      "Тренин Алексей Николаевич": 80,
-      "Хот Валерий Владимирович": 39,
-      "Штуркин Владимир Николаевич": 19
+      "gas:candidate-vibid:4234056238349": 23,
+      "gas:candidate-vibid:4234056238140": 73,
+      "gas:candidate-vibid:4234056226051": 26,
+      "gas:candidate-vibid:4234056238639": 399,
+      "gas:candidate-vibid:4234056238262": 80,
+      "gas:candidate-vibid:4234056225742": 39,
+      "gas:candidate-vibid:4234056238794": 19
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/krasnodar?action=show&root=1000066&tvd=4234056224585&vrn=100100067795849&region=23&global=&sub_region=23&prver=0&pronetvd=null&vibid=4234056224585&type=464",
@@ -13894,13 +13894,13 @@ export const duma_2016_uik_463_region_23_part_011 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Витишко Евгений Геннадиевич": 15,
-      "Ерохин Михаил Викторович": 103,
-      "Заруба Ольга Александровна": 24,
-      "Синяговский Владимир Ильич": 1404,
-      "Тренин Алексей Николаевич": 127,
-      "Хот Валерий Владимирович": 36,
-      "Штуркин Владимир Николаевич": 16
+      "gas:candidate-vibid:4234056238349": 15,
+      "gas:candidate-vibid:4234056238140": 103,
+      "gas:candidate-vibid:4234056226051": 24,
+      "gas:candidate-vibid:4234056238639": 1404,
+      "gas:candidate-vibid:4234056238262": 127,
+      "gas:candidate-vibid:4234056225742": 36,
+      "gas:candidate-vibid:4234056238794": 16
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/krasnodar?action=show&root=1000066&tvd=4234056224585&vrn=100100067795849&region=23&global=&sub_region=23&prver=0&pronetvd=null&vibid=4234056224585&type=464",
@@ -13951,13 +13951,13 @@ export const duma_2016_uik_463_region_23_part_011 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Витишко Евгений Геннадиевич": 1,
-      "Ерохин Михаил Викторович": 6,
-      "Заруба Ольга Александровна": 12,
-      "Синяговский Владимир Ильич": 207,
-      "Тренин Алексей Николаевич": 5,
-      "Хот Валерий Владимирович": 5,
-      "Штуркин Владимир Николаевич": 3
+      "gas:candidate-vibid:4234056238349": 1,
+      "gas:candidate-vibid:4234056238140": 6,
+      "gas:candidate-vibid:4234056226051": 12,
+      "gas:candidate-vibid:4234056238639": 207,
+      "gas:candidate-vibid:4234056238262": 5,
+      "gas:candidate-vibid:4234056225742": 5,
+      "gas:candidate-vibid:4234056238794": 3
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/krasnodar?action=show&root=1000066&tvd=4234056224585&vrn=100100067795849&region=23&global=&sub_region=23&prver=0&pronetvd=null&vibid=4234056224585&type=464",
@@ -14008,13 +14008,13 @@ export const duma_2016_uik_463_region_23_part_011 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Витишко Евгений Геннадиевич": 5,
-      "Ерохин Михаил Викторович": 20,
-      "Заруба Ольга Александровна": 16,
-      "Синяговский Владимир Ильич": 1210,
-      "Тренин Алексей Николаевич": 24,
-      "Хот Валерий Владимирович": 32,
-      "Штуркин Владимир Николаевич": 6
+      "gas:candidate-vibid:4234056238349": 5,
+      "gas:candidate-vibid:4234056238140": 20,
+      "gas:candidate-vibid:4234056226051": 16,
+      "gas:candidate-vibid:4234056238639": 1210,
+      "gas:candidate-vibid:4234056238262": 24,
+      "gas:candidate-vibid:4234056225742": 32,
+      "gas:candidate-vibid:4234056238794": 6
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/krasnodar?action=show&root=1000066&tvd=4234056224585&vrn=100100067795849&region=23&global=&sub_region=23&prver=0&pronetvd=null&vibid=4234056224585&type=464",
@@ -14065,13 +14065,13 @@ export const duma_2016_uik_463_region_23_part_011 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Витишко Евгений Геннадиевич": 3,
-      "Ерохин Михаил Викторович": 62,
-      "Заруба Ольга Александровна": 6,
-      "Синяговский Владимир Ильич": 994,
-      "Тренин Алексей Николаевич": 99,
-      "Хот Валерий Владимирович": 9,
-      "Штуркин Владимир Николаевич": 10
+      "gas:candidate-vibid:4234056238349": 3,
+      "gas:candidate-vibid:4234056238140": 62,
+      "gas:candidate-vibid:4234056226051": 6,
+      "gas:candidate-vibid:4234056238639": 994,
+      "gas:candidate-vibid:4234056238262": 99,
+      "gas:candidate-vibid:4234056225742": 9,
+      "gas:candidate-vibid:4234056238794": 10
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/krasnodar?action=show&root=1000066&tvd=4234056224585&vrn=100100067795849&region=23&global=&sub_region=23&prver=0&pronetvd=null&vibid=4234056224585&type=464",
@@ -14122,13 +14122,13 @@ export const duma_2016_uik_463_region_23_part_011 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Витишко Евгений Геннадиевич": 3,
-      "Ерохин Михаил Викторович": 0,
-      "Заруба Ольга Александровна": 5,
-      "Синяговский Владимир Ильич": 88,
-      "Тренин Алексей Николаевич": 16,
-      "Хот Валерий Владимирович": 0,
-      "Штуркин Владимир Николаевич": 0
+      "gas:candidate-vibid:4234056238349": 3,
+      "gas:candidate-vibid:4234056238140": 0,
+      "gas:candidate-vibid:4234056226051": 5,
+      "gas:candidate-vibid:4234056238639": 88,
+      "gas:candidate-vibid:4234056238262": 16,
+      "gas:candidate-vibid:4234056225742": 0,
+      "gas:candidate-vibid:4234056238794": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/krasnodar?action=show&root=1000066&tvd=4234056224585&vrn=100100067795849&region=23&global=&sub_region=23&prver=0&pronetvd=null&vibid=4234056224585&type=464",
@@ -14179,13 +14179,13 @@ export const duma_2016_uik_463_region_23_part_011 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Витишко Евгений Геннадиевич": 1,
-      "Ерохин Михаил Викторович": 3,
-      "Заруба Ольга Александровна": 9,
-      "Синяговский Владимир Ильич": 99,
-      "Тренин Алексей Николаевич": 6,
-      "Хот Валерий Владимирович": 3,
-      "Штуркин Владимир Николаевич": 3
+      "gas:candidate-vibid:4234056238349": 1,
+      "gas:candidate-vibid:4234056238140": 3,
+      "gas:candidate-vibid:4234056226051": 9,
+      "gas:candidate-vibid:4234056238639": 99,
+      "gas:candidate-vibid:4234056238262": 6,
+      "gas:candidate-vibid:4234056225742": 3,
+      "gas:candidate-vibid:4234056238794": 3
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/krasnodar?action=show&root=1000066&tvd=4234056224585&vrn=100100067795849&region=23&global=&sub_region=23&prver=0&pronetvd=null&vibid=4234056224585&type=464",
@@ -14236,13 +14236,13 @@ export const duma_2016_uik_463_region_23_part_011 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Витишко Евгений Геннадиевич": 9,
-      "Ерохин Михаил Викторович": 22,
-      "Заруба Ольга Александровна": 19,
-      "Синяговский Владимир Ильич": 406,
-      "Тренин Алексей Николаевич": 12,
-      "Хот Валерий Владимирович": 21,
-      "Штуркин Владимир Николаевич": 5
+      "gas:candidate-vibid:4234056238349": 9,
+      "gas:candidate-vibid:4234056238140": 22,
+      "gas:candidate-vibid:4234056226051": 19,
+      "gas:candidate-vibid:4234056238639": 406,
+      "gas:candidate-vibid:4234056238262": 12,
+      "gas:candidate-vibid:4234056225742": 21,
+      "gas:candidate-vibid:4234056238794": 5
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/krasnodar?action=show&root=1000066&tvd=4234056224585&vrn=100100067795849&region=23&global=&sub_region=23&prver=0&pronetvd=null&vibid=4234056224585&type=464",

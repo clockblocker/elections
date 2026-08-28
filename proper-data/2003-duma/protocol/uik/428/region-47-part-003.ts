@@ -42,14 +42,14 @@ export const duma_2003_uik_428_region_47_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Водопьянов Михаил Павлович": 144,
-      "Григорьев Валерий Юрьевич": 89,
-      "Кучеров Николай Михайлович": 83,
-      "Лупеко Александр Афанасьевич": 23,
-      "Матвеев Олег Валентинович": 33,
-      "Силецкий Андрей Романович": 330,
-      "Шиманов Александр Алексеевич": 278,
-      "Против всех": 181
+      "gas:candidate-vibid:1001000131399": 144,
+      "gas:candidate-vibid:1001000136070": 89,
+      "gas:candidate-vibid:347300170586": 83,
+      "gas:candidate-vibid:1001000290473": 23,
+      "gas:candidate-vibid:1001000112222": 33,
+      "gas:candidate-vibid:347300170542": 330,
+      "gas:candidate-vibid:1001000225949": 278,
+      "special:against-all": 181
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=473001001&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=347300171054&region=0&sub_region=0&type=429",
@@ -99,14 +99,14 @@ export const duma_2003_uik_428_region_47_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Водопьянов Михаил Павлович": 92,
-      "Григорьев Валерий Юрьевич": 57,
-      "Кучеров Николай Михайлович": 45,
-      "Лупеко Александр Афанасьевич": 10,
-      "Матвеев Олег Валентинович": 23,
-      "Силецкий Андрей Романович": 249,
-      "Шиманов Александр Алексеевич": 219,
-      "Против всех": 114
+      "gas:candidate-vibid:1001000131399": 92,
+      "gas:candidate-vibid:1001000136070": 57,
+      "gas:candidate-vibid:347300170586": 45,
+      "gas:candidate-vibid:1001000290473": 10,
+      "gas:candidate-vibid:1001000112222": 23,
+      "gas:candidate-vibid:347300170542": 249,
+      "gas:candidate-vibid:1001000225949": 219,
+      "special:against-all": 114
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=473001001&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=347300171054&region=0&sub_region=0&type=429",
@@ -156,14 +156,14 @@ export const duma_2003_uik_428_region_47_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Водопьянов Михаил Павлович": 151,
-      "Григорьев Валерий Юрьевич": 67,
-      "Кучеров Николай Михайлович": 71,
-      "Лупеко Александр Афанасьевич": 25,
-      "Матвеев Олег Валентинович": 35,
-      "Силецкий Андрей Романович": 373,
-      "Шиманов Александр Алексеевич": 254,
-      "Против всех": 216
+      "gas:candidate-vibid:1001000131399": 151,
+      "gas:candidate-vibid:1001000136070": 67,
+      "gas:candidate-vibid:347300170586": 71,
+      "gas:candidate-vibid:1001000290473": 25,
+      "gas:candidate-vibid:1001000112222": 35,
+      "gas:candidate-vibid:347300170542": 373,
+      "gas:candidate-vibid:1001000225949": 254,
+      "special:against-all": 216
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=473001001&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=347300171054&region=0&sub_region=0&type=429",
@@ -213,14 +213,14 @@ export const duma_2003_uik_428_region_47_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Водопьянов Михаил Павлович": 115,
-      "Григорьев Валерий Юрьевич": 71,
-      "Кучеров Николай Михайлович": 36,
-      "Лупеко Александр Афанасьевич": 13,
-      "Матвеев Олег Валентинович": 29,
-      "Силецкий Андрей Романович": 292,
-      "Шиманов Александр Алексеевич": 215,
-      "Против всех": 170
+      "gas:candidate-vibid:1001000131399": 115,
+      "gas:candidate-vibid:1001000136070": 71,
+      "gas:candidate-vibid:347300170586": 36,
+      "gas:candidate-vibid:1001000290473": 13,
+      "gas:candidate-vibid:1001000112222": 29,
+      "gas:candidate-vibid:347300170542": 292,
+      "gas:candidate-vibid:1001000225949": 215,
+      "special:against-all": 170
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=473001001&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=347300171054&region=0&sub_region=0&type=429",
@@ -270,14 +270,14 @@ export const duma_2003_uik_428_region_47_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Водопьянов Михаил Павлович": 194,
-      "Григорьев Валерий Юрьевич": 84,
-      "Кучеров Николай Михайлович": 56,
-      "Лупеко Александр Афанасьевич": 17,
-      "Матвеев Олег Валентинович": 45,
-      "Силецкий Андрей Романович": 314,
-      "Шиманов Александр Алексеевич": 194,
-      "Против всех": 192
+      "gas:candidate-vibid:1001000131399": 194,
+      "gas:candidate-vibid:1001000136070": 84,
+      "gas:candidate-vibid:347300170586": 56,
+      "gas:candidate-vibid:1001000290473": 17,
+      "gas:candidate-vibid:1001000112222": 45,
+      "gas:candidate-vibid:347300170542": 314,
+      "gas:candidate-vibid:1001000225949": 194,
+      "special:against-all": 192
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=473001001&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=347300171054&region=0&sub_region=0&type=429",
@@ -327,14 +327,14 @@ export const duma_2003_uik_428_region_47_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Водопьянов Михаил Павлович": 22,
-      "Григорьев Валерий Юрьевич": 23,
-      "Кучеров Николай Михайлович": 14,
-      "Лупеко Александр Афанасьевич": 8,
-      "Матвеев Олег Валентинович": 7,
-      "Силецкий Андрей Романович": 338,
-      "Шиманов Александр Алексеевич": 72,
-      "Против всех": 40
+      "gas:candidate-vibid:1001000131399": 22,
+      "gas:candidate-vibid:1001000136070": 23,
+      "gas:candidate-vibid:347300170586": 14,
+      "gas:candidate-vibid:1001000290473": 8,
+      "gas:candidate-vibid:1001000112222": 7,
+      "gas:candidate-vibid:347300170542": 338,
+      "gas:candidate-vibid:1001000225949": 72,
+      "special:against-all": 40
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=473001001&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=347300171054&region=0&sub_region=0&type=429",
@@ -384,14 +384,14 @@ export const duma_2003_uik_428_region_47_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Водопьянов Михаил Павлович": 4,
-      "Григорьев Валерий Юрьевич": 13,
-      "Кучеров Николай Михайлович": 4,
-      "Лупеко Александр Афанасьевич": 3,
-      "Матвеев Олег Валентинович": 6,
-      "Силецкий Андрей Романович": 59,
-      "Шиманов Александр Алексеевич": 69,
-      "Против всех": 19
+      "gas:candidate-vibid:1001000131399": 4,
+      "gas:candidate-vibid:1001000136070": 13,
+      "gas:candidate-vibid:347300170586": 4,
+      "gas:candidate-vibid:1001000290473": 3,
+      "gas:candidate-vibid:1001000112222": 6,
+      "gas:candidate-vibid:347300170542": 59,
+      "gas:candidate-vibid:1001000225949": 69,
+      "special:against-all": 19
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=473001001&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=347300171054&region=0&sub_region=0&type=429",
@@ -441,14 +441,14 @@ export const duma_2003_uik_428_region_47_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Водопьянов Михаил Павлович": 116,
-      "Григорьев Валерий Юрьевич": 81,
-      "Кучеров Николай Михайлович": 76,
-      "Лупеко Александр Афанасьевич": 20,
-      "Матвеев Олег Валентинович": 42,
-      "Силецкий Андрей Романович": 405,
-      "Шиманов Александр Алексеевич": 224,
-      "Против всех": 204
+      "gas:candidate-vibid:1001000131399": 116,
+      "gas:candidate-vibid:1001000136070": 81,
+      "gas:candidate-vibid:347300170586": 76,
+      "gas:candidate-vibid:1001000290473": 20,
+      "gas:candidate-vibid:1001000112222": 42,
+      "gas:candidate-vibid:347300170542": 405,
+      "gas:candidate-vibid:1001000225949": 224,
+      "special:against-all": 204
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=473001001&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=347300171054&region=0&sub_region=0&type=429",
@@ -498,14 +498,14 @@ export const duma_2003_uik_428_region_47_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Водопьянов Михаил Павлович": 139,
-      "Григорьев Валерий Юрьевич": 73,
-      "Кучеров Николай Михайлович": 93,
-      "Лупеко Александр Афанасьевич": 28,
-      "Матвеев Олег Валентинович": 44,
-      "Силецкий Андрей Романович": 427,
-      "Шиманов Александр Алексеевич": 266,
-      "Против всех": 191
+      "gas:candidate-vibid:1001000131399": 139,
+      "gas:candidate-vibid:1001000136070": 73,
+      "gas:candidate-vibid:347300170586": 93,
+      "gas:candidate-vibid:1001000290473": 28,
+      "gas:candidate-vibid:1001000112222": 44,
+      "gas:candidate-vibid:347300170542": 427,
+      "gas:candidate-vibid:1001000225949": 266,
+      "special:against-all": 191
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=473001001&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=347300171054&region=0&sub_region=0&type=429",
@@ -555,14 +555,14 @@ export const duma_2003_uik_428_region_47_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Водопьянов Михаил Павлович": 104,
-      "Григорьев Валерий Юрьевич": 39,
-      "Кучеров Николай Михайлович": 57,
-      "Лупеко Александр Афанасьевич": 11,
-      "Матвеев Олег Валентинович": 36,
-      "Силецкий Андрей Романович": 334,
-      "Шиманов Александр Алексеевич": 127,
-      "Против всех": 106
+      "gas:candidate-vibid:1001000131399": 104,
+      "gas:candidate-vibid:1001000136070": 39,
+      "gas:candidate-vibid:347300170586": 57,
+      "gas:candidate-vibid:1001000290473": 11,
+      "gas:candidate-vibid:1001000112222": 36,
+      "gas:candidate-vibid:347300170542": 334,
+      "gas:candidate-vibid:1001000225949": 127,
+      "special:against-all": 106
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=473001001&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=347300171054&region=0&sub_region=0&type=429",
@@ -612,14 +612,14 @@ export const duma_2003_uik_428_region_47_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Водопьянов Михаил Павлович": 115,
-      "Григорьев Валерий Юрьевич": 46,
-      "Кучеров Николай Михайлович": 65,
-      "Лупеко Александр Афанасьевич": 8,
-      "Матвеев Олег Валентинович": 31,
-      "Силецкий Андрей Романович": 279,
-      "Шиманов Александр Алексеевич": 162,
-      "Против всех": 104
+      "gas:candidate-vibid:1001000131399": 115,
+      "gas:candidate-vibid:1001000136070": 46,
+      "gas:candidate-vibid:347300170586": 65,
+      "gas:candidate-vibid:1001000290473": 8,
+      "gas:candidate-vibid:1001000112222": 31,
+      "gas:candidate-vibid:347300170542": 279,
+      "gas:candidate-vibid:1001000225949": 162,
+      "special:against-all": 104
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=473001001&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=347300171054&region=0&sub_region=0&type=429",
@@ -669,14 +669,14 @@ export const duma_2003_uik_428_region_47_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Водопьянов Михаил Павлович": 113,
-      "Григорьев Валерий Юрьевич": 59,
-      "Кучеров Николай Михайлович": 71,
-      "Лупеко Александр Афанасьевич": 18,
-      "Матвеев Олег Валентинович": 25,
-      "Силецкий Андрей Романович": 383,
-      "Шиманов Александр Алексеевич": 216,
-      "Против всех": 123
+      "gas:candidate-vibid:1001000131399": 113,
+      "gas:candidate-vibid:1001000136070": 59,
+      "gas:candidate-vibid:347300170586": 71,
+      "gas:candidate-vibid:1001000290473": 18,
+      "gas:candidate-vibid:1001000112222": 25,
+      "gas:candidate-vibid:347300170542": 383,
+      "gas:candidate-vibid:1001000225949": 216,
+      "special:against-all": 123
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=473001001&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=347300171054&region=0&sub_region=0&type=429",
@@ -726,14 +726,14 @@ export const duma_2003_uik_428_region_47_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Водопьянов Михаил Павлович": 96,
-      "Григорьев Валерий Юрьевич": 52,
-      "Кучеров Николай Михайлович": 69,
-      "Лупеко Александр Афанасьевич": 12,
-      "Матвеев Олег Валентинович": 25,
-      "Силецкий Андрей Романович": 326,
-      "Шиманов Александр Алексеевич": 158,
-      "Против всех": 147
+      "gas:candidate-vibid:1001000131399": 96,
+      "gas:candidate-vibid:1001000136070": 52,
+      "gas:candidate-vibid:347300170586": 69,
+      "gas:candidate-vibid:1001000290473": 12,
+      "gas:candidate-vibid:1001000112222": 25,
+      "gas:candidate-vibid:347300170542": 326,
+      "gas:candidate-vibid:1001000225949": 158,
+      "special:against-all": 147
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=473001001&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=347300171054&region=0&sub_region=0&type=429",
@@ -783,14 +783,14 @@ export const duma_2003_uik_428_region_47_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Водопьянов Михаил Павлович": 101,
-      "Григорьев Валерий Юрьевич": 56,
-      "Кучеров Николай Михайлович": 97,
-      "Лупеко Александр Афанасьевич": 15,
-      "Матвеев Олег Валентинович": 24,
-      "Силецкий Андрей Романович": 431,
-      "Шиманов Александр Алексеевич": 229,
-      "Против всех": 168
+      "gas:candidate-vibid:1001000131399": 101,
+      "gas:candidate-vibid:1001000136070": 56,
+      "gas:candidate-vibid:347300170586": 97,
+      "gas:candidate-vibid:1001000290473": 15,
+      "gas:candidate-vibid:1001000112222": 24,
+      "gas:candidate-vibid:347300170542": 431,
+      "gas:candidate-vibid:1001000225949": 229,
+      "special:against-all": 168
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=473001001&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=347300171054&region=0&sub_region=0&type=429",
@@ -840,14 +840,14 @@ export const duma_2003_uik_428_region_47_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Водопьянов Михаил Павлович": 130,
-      "Григорьев Валерий Юрьевич": 80,
-      "Кучеров Николай Михайлович": 103,
-      "Лупеко Александр Афанасьевич": 25,
-      "Матвеев Олег Валентинович": 47,
-      "Силецкий Андрей Романович": 479,
-      "Шиманов Александр Алексеевич": 243,
-      "Против всех": 191
+      "gas:candidate-vibid:1001000131399": 130,
+      "gas:candidate-vibid:1001000136070": 80,
+      "gas:candidate-vibid:347300170586": 103,
+      "gas:candidate-vibid:1001000290473": 25,
+      "gas:candidate-vibid:1001000112222": 47,
+      "gas:candidate-vibid:347300170542": 479,
+      "gas:candidate-vibid:1001000225949": 243,
+      "special:against-all": 191
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=473001001&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=347300171054&region=0&sub_region=0&type=429",
@@ -897,14 +897,14 @@ export const duma_2003_uik_428_region_47_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Водопьянов Михаил Павлович": 107,
-      "Григорьев Валерий Юрьевич": 76,
-      "Кучеров Николай Михайлович": 68,
-      "Лупеко Александр Афанасьевич": 26,
-      "Матвеев Олег Валентинович": 35,
-      "Силецкий Андрей Романович": 472,
-      "Шиманов Александр Алексеевич": 230,
-      "Против всех": 200
+      "gas:candidate-vibid:1001000131399": 107,
+      "gas:candidate-vibid:1001000136070": 76,
+      "gas:candidate-vibid:347300170586": 68,
+      "gas:candidate-vibid:1001000290473": 26,
+      "gas:candidate-vibid:1001000112222": 35,
+      "gas:candidate-vibid:347300170542": 472,
+      "gas:candidate-vibid:1001000225949": 230,
+      "special:against-all": 200
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=473001001&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=347300171054&region=0&sub_region=0&type=429",
@@ -954,14 +954,14 @@ export const duma_2003_uik_428_region_47_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Водопьянов Михаил Павлович": 240,
-      "Григорьев Валерий Юрьевич": 211,
-      "Кучеров Николай Михайлович": 423,
-      "Лупеко Александр Афанасьевич": 64,
-      "Матвеев Олег Валентинович": 113,
-      "Силецкий Андрей Романович": 203,
-      "Шиманов Александр Алексеевич": 958,
-      "Против всех": 167
+      "gas:candidate-vibid:1001000131399": 240,
+      "gas:candidate-vibid:1001000136070": 211,
+      "gas:candidate-vibid:347300170586": 423,
+      "gas:candidate-vibid:1001000290473": 64,
+      "gas:candidate-vibid:1001000112222": 113,
+      "gas:candidate-vibid:347300170542": 203,
+      "gas:candidate-vibid:1001000225949": 958,
+      "special:against-all": 167
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=473001001&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=347300171054&region=0&sub_region=0&type=429",
@@ -1011,14 +1011,14 @@ export const duma_2003_uik_428_region_47_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Водопьянов Михаил Павлович": 279,
-      "Григорьев Валерий Юрьевич": 184,
-      "Кучеров Николай Михайлович": 461,
-      "Лупеко Александр Афанасьевич": 63,
-      "Матвеев Олег Валентинович": 102,
-      "Силецкий Андрей Романович": 167,
-      "Шиманов Александр Алексеевич": 1181,
-      "Против всех": 148
+      "gas:candidate-vibid:1001000131399": 279,
+      "gas:candidate-vibid:1001000136070": 184,
+      "gas:candidate-vibid:347300170586": 461,
+      "gas:candidate-vibid:1001000290473": 63,
+      "gas:candidate-vibid:1001000112222": 102,
+      "gas:candidate-vibid:347300170542": 167,
+      "gas:candidate-vibid:1001000225949": 1181,
+      "special:against-all": 148
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=473001001&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=347300171054&region=0&sub_region=0&type=429",
@@ -1068,14 +1068,14 @@ export const duma_2003_uik_428_region_47_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Водопьянов Михаил Павлович": 112,
-      "Григорьев Валерий Юрьевич": 58,
-      "Кучеров Николай Михайлович": 141,
-      "Лупеко Александр Афанасьевич": 21,
-      "Матвеев Олег Валентинович": 81,
-      "Силецкий Андрей Романович": 361,
-      "Шиманов Александр Алексеевич": 356,
-      "Против всех": 225
+      "gas:candidate-vibid:1001000131399": 112,
+      "gas:candidate-vibid:1001000136070": 58,
+      "gas:candidate-vibid:347300170586": 141,
+      "gas:candidate-vibid:1001000290473": 21,
+      "gas:candidate-vibid:1001000112222": 81,
+      "gas:candidate-vibid:347300170542": 361,
+      "gas:candidate-vibid:1001000225949": 356,
+      "special:against-all": 225
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=473001002&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=347300171055&region=0&sub_region=0&type=429",
@@ -1125,14 +1125,14 @@ export const duma_2003_uik_428_region_47_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Водопьянов Михаил Павлович": 154,
-      "Григорьев Валерий Юрьевич": 55,
-      "Кучеров Николай Михайлович": 112,
-      "Лупеко Александр Афанасьевич": 21,
-      "Матвеев Олег Валентинович": 80,
-      "Силецкий Андрей Романович": 332,
-      "Шиманов Александр Алексеевич": 418,
-      "Против всех": 291
+      "gas:candidate-vibid:1001000131399": 154,
+      "gas:candidate-vibid:1001000136070": 55,
+      "gas:candidate-vibid:347300170586": 112,
+      "gas:candidate-vibid:1001000290473": 21,
+      "gas:candidate-vibid:1001000112222": 80,
+      "gas:candidate-vibid:347300170542": 332,
+      "gas:candidate-vibid:1001000225949": 418,
+      "special:against-all": 291
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=473001002&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=347300171055&region=0&sub_region=0&type=429",
@@ -1182,14 +1182,14 @@ export const duma_2003_uik_428_region_47_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Водопьянов Михаил Павлович": 123,
-      "Григорьев Валерий Юрьевич": 38,
-      "Кучеров Николай Михайлович": 47,
-      "Лупеко Александр Афанасьевич": 10,
-      "Матвеев Олег Валентинович": 69,
-      "Силецкий Андрей Романович": 256,
-      "Шиманов Александр Алексеевич": 270,
-      "Против всех": 189
+      "gas:candidate-vibid:1001000131399": 123,
+      "gas:candidate-vibid:1001000136070": 38,
+      "gas:candidate-vibid:347300170586": 47,
+      "gas:candidate-vibid:1001000290473": 10,
+      "gas:candidate-vibid:1001000112222": 69,
+      "gas:candidate-vibid:347300170542": 256,
+      "gas:candidate-vibid:1001000225949": 270,
+      "special:against-all": 189
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=473001002&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=347300171055&region=0&sub_region=0&type=429",
@@ -1239,14 +1239,14 @@ export const duma_2003_uik_428_region_47_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Водопьянов Михаил Павлович": 117,
-      "Григорьев Валерий Юрьевич": 80,
-      "Кучеров Николай Михайлович": 92,
-      "Лупеко Александр Афанасьевич": 19,
-      "Матвеев Олег Валентинович": 84,
-      "Силецкий Андрей Романович": 438,
-      "Шиманов Александр Алексеевич": 335,
-      "Против всех": 278
+      "gas:candidate-vibid:1001000131399": 117,
+      "gas:candidate-vibid:1001000136070": 80,
+      "gas:candidate-vibid:347300170586": 92,
+      "gas:candidate-vibid:1001000290473": 19,
+      "gas:candidate-vibid:1001000112222": 84,
+      "gas:candidate-vibid:347300170542": 438,
+      "gas:candidate-vibid:1001000225949": 335,
+      "special:against-all": 278
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=473001002&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=347300171055&region=0&sub_region=0&type=429",
@@ -1296,14 +1296,14 @@ export const duma_2003_uik_428_region_47_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Водопьянов Михаил Павлович": 105,
-      "Григорьев Валерий Юрьевич": 62,
-      "Кучеров Николай Михайлович": 80,
-      "Лупеко Александр Афанасьевич": 12,
-      "Матвеев Олег Валентинович": 82,
-      "Силецкий Андрей Романович": 351,
-      "Шиманов Александр Алексеевич": 318,
-      "Против всех": 185
+      "gas:candidate-vibid:1001000131399": 105,
+      "gas:candidate-vibid:1001000136070": 62,
+      "gas:candidate-vibid:347300170586": 80,
+      "gas:candidate-vibid:1001000290473": 12,
+      "gas:candidate-vibid:1001000112222": 82,
+      "gas:candidate-vibid:347300170542": 351,
+      "gas:candidate-vibid:1001000225949": 318,
+      "special:against-all": 185
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=473001002&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=347300171055&region=0&sub_region=0&type=429",
@@ -1353,14 +1353,14 @@ export const duma_2003_uik_428_region_47_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Водопьянов Михаил Павлович": 120,
-      "Григорьев Валерий Юрьевич": 62,
-      "Кучеров Николай Михайлович": 92,
-      "Лупеко Александр Афанасьевич": 21,
-      "Матвеев Олег Валентинович": 74,
-      "Силецкий Андрей Романович": 379,
-      "Шиманов Александр Алексеевич": 321,
-      "Против всех": 209
+      "gas:candidate-vibid:1001000131399": 120,
+      "gas:candidate-vibid:1001000136070": 62,
+      "gas:candidate-vibid:347300170586": 92,
+      "gas:candidate-vibid:1001000290473": 21,
+      "gas:candidate-vibid:1001000112222": 74,
+      "gas:candidate-vibid:347300170542": 379,
+      "gas:candidate-vibid:1001000225949": 321,
+      "special:against-all": 209
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=473001002&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=347300171055&region=0&sub_region=0&type=429",
@@ -1410,14 +1410,14 @@ export const duma_2003_uik_428_region_47_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Водопьянов Михаил Павлович": 56,
-      "Григорьев Валерий Юрьевич": 22,
-      "Кучеров Николай Михайлович": 28,
-      "Лупеко Александр Афанасьевич": 5,
-      "Матвеев Олег Валентинович": 24,
-      "Силецкий Андрей Романович": 194,
-      "Шиманов Александр Алексеевич": 185,
-      "Против всех": 99
+      "gas:candidate-vibid:1001000131399": 56,
+      "gas:candidate-vibid:1001000136070": 22,
+      "gas:candidate-vibid:347300170586": 28,
+      "gas:candidate-vibid:1001000290473": 5,
+      "gas:candidate-vibid:1001000112222": 24,
+      "gas:candidate-vibid:347300170542": 194,
+      "gas:candidate-vibid:1001000225949": 185,
+      "special:against-all": 99
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=473001002&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=347300171055&region=0&sub_region=0&type=429",
@@ -1467,14 +1467,14 @@ export const duma_2003_uik_428_region_47_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Водопьянов Михаил Павлович": 9,
-      "Григорьев Валерий Юрьевич": 2,
-      "Кучеров Николай Михайлович": 1,
-      "Лупеко Александр Афанасьевич": 1,
-      "Матвеев Олег Валентинович": 6,
-      "Силецкий Андрей Романович": 53,
-      "Шиманов Александр Алексеевич": 10,
-      "Против всех": 7
+      "gas:candidate-vibid:1001000131399": 9,
+      "gas:candidate-vibid:1001000136070": 2,
+      "gas:candidate-vibid:347300170586": 1,
+      "gas:candidate-vibid:1001000290473": 1,
+      "gas:candidate-vibid:1001000112222": 6,
+      "gas:candidate-vibid:347300170542": 53,
+      "gas:candidate-vibid:1001000225949": 10,
+      "special:against-all": 7
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=473001002&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=347300171055&region=0&sub_region=0&type=429",
@@ -1524,14 +1524,14 @@ export const duma_2003_uik_428_region_47_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Водопьянов Михаил Павлович": 5,
-      "Григорьев Валерий Юрьевич": 10,
-      "Кучеров Николай Михайлович": 1,
-      "Лупеко Александр Афанасьевич": 2,
-      "Матвеев Олег Валентинович": 1,
-      "Силецкий Андрей Романович": 63,
-      "Шиманов Александр Алексеевич": 12,
-      "Против всех": 4
+      "gas:candidate-vibid:1001000131399": 5,
+      "gas:candidate-vibid:1001000136070": 10,
+      "gas:candidate-vibid:347300170586": 1,
+      "gas:candidate-vibid:1001000290473": 2,
+      "gas:candidate-vibid:1001000112222": 1,
+      "gas:candidate-vibid:347300170542": 63,
+      "gas:candidate-vibid:1001000225949": 12,
+      "special:against-all": 4
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=473001002&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=347300171055&region=0&sub_region=0&type=429",
@@ -1581,14 +1581,14 @@ export const duma_2003_uik_428_region_47_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Водопьянов Михаил Павлович": 20,
-      "Григорьев Валерий Юрьевич": 5,
-      "Кучеров Николай Михайлович": 5,
-      "Лупеко Александр Афанасьевич": 6,
-      "Матвеев Олег Валентинович": 13,
-      "Силецкий Андрей Романович": 62,
-      "Шиманов Александр Алексеевич": 52,
-      "Против всех": 35
+      "gas:candidate-vibid:1001000131399": 20,
+      "gas:candidate-vibid:1001000136070": 5,
+      "gas:candidate-vibid:347300170586": 5,
+      "gas:candidate-vibid:1001000290473": 6,
+      "gas:candidate-vibid:1001000112222": 13,
+      "gas:candidate-vibid:347300170542": 62,
+      "gas:candidate-vibid:1001000225949": 52,
+      "special:against-all": 35
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=473001002&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=347300171055&region=0&sub_region=0&type=429",
@@ -1638,14 +1638,14 @@ export const duma_2003_uik_428_region_47_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Водопьянов Михаил Павлович": 22,
-      "Григорьев Валерий Юрьевич": 5,
-      "Кучеров Николай Михайлович": 15,
-      "Лупеко Александр Афанасьевич": 2,
-      "Матвеев Олег Валентинович": 14,
-      "Силецкий Андрей Романович": 63,
-      "Шиманов Александр Алексеевич": 127,
-      "Против всех": 21
+      "gas:candidate-vibid:1001000131399": 22,
+      "gas:candidate-vibid:1001000136070": 5,
+      "gas:candidate-vibid:347300170586": 15,
+      "gas:candidate-vibid:1001000290473": 2,
+      "gas:candidate-vibid:1001000112222": 14,
+      "gas:candidate-vibid:347300170542": 63,
+      "gas:candidate-vibid:1001000225949": 127,
+      "special:against-all": 21
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=473001002&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=347300171055&region=0&sub_region=0&type=429",
@@ -1695,14 +1695,14 @@ export const duma_2003_uik_428_region_47_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Водопьянов Михаил Павлович": 2,
-      "Григорьев Валерий Юрьевич": 0,
-      "Кучеров Николай Михайлович": 1,
-      "Лупеко Александр Афанасьевич": 0,
-      "Матвеев Олег Валентинович": 0,
-      "Силецкий Андрей Романович": 8,
-      "Шиманов Александр Алексеевич": 25,
-      "Против всех": 2
+      "gas:candidate-vibid:1001000131399": 2,
+      "gas:candidate-vibid:1001000136070": 0,
+      "gas:candidate-vibid:347300170586": 1,
+      "gas:candidate-vibid:1001000290473": 0,
+      "gas:candidate-vibid:1001000112222": 0,
+      "gas:candidate-vibid:347300170542": 8,
+      "gas:candidate-vibid:1001000225949": 25,
+      "special:against-all": 2
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=473001002&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=347300171055&region=0&sub_region=0&type=429",
@@ -1752,14 +1752,14 @@ export const duma_2003_uik_428_region_47_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Водопьянов Михаил Павлович": 19,
-      "Григорьев Валерий Юрьевич": 8,
-      "Кучеров Николай Михайлович": 2,
-      "Лупеко Александр Афанасьевич": 1,
-      "Матвеев Олег Валентинович": 3,
-      "Силецкий Андрей Романович": 4,
-      "Шиманов Александр Алексеевич": 16,
-      "Против всех": 0
+      "gas:candidate-vibid:1001000131399": 19,
+      "gas:candidate-vibid:1001000136070": 8,
+      "gas:candidate-vibid:347300170586": 2,
+      "gas:candidate-vibid:1001000290473": 1,
+      "gas:candidate-vibid:1001000112222": 3,
+      "gas:candidate-vibid:347300170542": 4,
+      "gas:candidate-vibid:1001000225949": 16,
+      "special:against-all": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=473001002&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=347300171055&region=0&sub_region=0&type=429",
@@ -1809,14 +1809,14 @@ export const duma_2003_uik_428_region_47_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Водопьянов Михаил Павлович": 9,
-      "Григорьев Валерий Юрьевич": 3,
-      "Кучеров Николай Михайлович": 19,
-      "Лупеко Александр Афанасьевич": 1,
-      "Матвеев Олег Валентинович": 2,
-      "Силецкий Андрей Романович": 23,
-      "Шиманов Александр Алексеевич": 13,
-      "Против всех": 4
+      "gas:candidate-vibid:1001000131399": 9,
+      "gas:candidate-vibid:1001000136070": 3,
+      "gas:candidate-vibid:347300170586": 19,
+      "gas:candidate-vibid:1001000290473": 1,
+      "gas:candidate-vibid:1001000112222": 2,
+      "gas:candidate-vibid:347300170542": 23,
+      "gas:candidate-vibid:1001000225949": 13,
+      "special:against-all": 4
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=473001002&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=347300171055&region=0&sub_region=0&type=429",
@@ -1866,14 +1866,14 @@ export const duma_2003_uik_428_region_47_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Водопьянов Михаил Павлович": 49,
-      "Григорьев Валерий Юрьевич": 29,
-      "Кучеров Николай Михайлович": 26,
-      "Лупеко Александр Афанасьевич": 7,
-      "Матвеев Олег Валентинович": 21,
-      "Силецкий Андрей Романович": 124,
-      "Шиманов Александр Алексеевич": 200,
-      "Против всех": 67
+      "gas:candidate-vibid:1001000131399": 49,
+      "gas:candidate-vibid:1001000136070": 29,
+      "gas:candidate-vibid:347300170586": 26,
+      "gas:candidate-vibid:1001000290473": 7,
+      "gas:candidate-vibid:1001000112222": 21,
+      "gas:candidate-vibid:347300170542": 124,
+      "gas:candidate-vibid:1001000225949": 200,
+      "special:against-all": 67
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=473001002&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=347300171055&region=0&sub_region=0&type=429",
@@ -1923,14 +1923,14 @@ export const duma_2003_uik_428_region_47_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Водопьянов Михаил Павлович": 5,
-      "Григорьев Валерий Юрьевич": 3,
-      "Кучеров Николай Михайлович": 1,
-      "Лупеко Александр Афанасьевич": 1,
-      "Матвеев Олег Валентинович": 6,
-      "Силецкий Андрей Романович": 22,
-      "Шиманов Александр Алексеевич": 29,
-      "Против всех": 6
+      "gas:candidate-vibid:1001000131399": 5,
+      "gas:candidate-vibid:1001000136070": 3,
+      "gas:candidate-vibid:347300170586": 1,
+      "gas:candidate-vibid:1001000290473": 1,
+      "gas:candidate-vibid:1001000112222": 6,
+      "gas:candidate-vibid:347300170542": 22,
+      "gas:candidate-vibid:1001000225949": 29,
+      "special:against-all": 6
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=473001002&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=347300171055&region=0&sub_region=0&type=429",
@@ -1980,14 +1980,14 @@ export const duma_2003_uik_428_region_47_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Водопьянов Михаил Павлович": 8,
-      "Григорьев Валерий Юрьевич": 3,
-      "Кучеров Николай Михайлович": 7,
-      "Лупеко Александр Афанасьевич": 2,
-      "Матвеев Олег Валентинович": 2,
-      "Силецкий Андрей Романович": 14,
-      "Шиманов Александр Алексеевич": 17,
-      "Против всех": 14
+      "gas:candidate-vibid:1001000131399": 8,
+      "gas:candidate-vibid:1001000136070": 3,
+      "gas:candidate-vibid:347300170586": 7,
+      "gas:candidate-vibid:1001000290473": 2,
+      "gas:candidate-vibid:1001000112222": 2,
+      "gas:candidate-vibid:347300170542": 14,
+      "gas:candidate-vibid:1001000225949": 17,
+      "special:against-all": 14
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=473001002&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=347300171055&region=0&sub_region=0&type=429",
@@ -2037,14 +2037,14 @@ export const duma_2003_uik_428_region_47_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Водопьянов Михаил Павлович": 4,
-      "Григорьев Валерий Юрьевич": 0,
-      "Кучеров Николай Михайлович": 0,
-      "Лупеко Александр Афанасьевич": 0,
-      "Матвеев Олег Валентинович": 0,
-      "Силецкий Андрей Романович": 22,
-      "Шиманов Александр Алексеевич": 39,
-      "Против всех": 0
+      "gas:candidate-vibid:1001000131399": 4,
+      "gas:candidate-vibid:1001000136070": 0,
+      "gas:candidate-vibid:347300170586": 0,
+      "gas:candidate-vibid:1001000290473": 0,
+      "gas:candidate-vibid:1001000112222": 0,
+      "gas:candidate-vibid:347300170542": 22,
+      "gas:candidate-vibid:1001000225949": 39,
+      "special:against-all": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=473001002&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=347300171055&region=0&sub_region=0&type=429",
@@ -2094,14 +2094,14 @@ export const duma_2003_uik_428_region_47_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Водопьянов Михаил Павлович": 14,
-      "Григорьев Валерий Юрьевич": 6,
-      "Кучеров Николай Михайлович": 2,
-      "Лупеко Александр Афанасьевич": 1,
-      "Матвеев Олег Валентинович": 3,
-      "Силецкий Андрей Романович": 81,
-      "Шиманов Александр Алексеевич": 95,
-      "Против всех": 14
+      "gas:candidate-vibid:1001000131399": 14,
+      "gas:candidate-vibid:1001000136070": 6,
+      "gas:candidate-vibid:347300170586": 2,
+      "gas:candidate-vibid:1001000290473": 1,
+      "gas:candidate-vibid:1001000112222": 3,
+      "gas:candidate-vibid:347300170542": 81,
+      "gas:candidate-vibid:1001000225949": 95,
+      "special:against-all": 14
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=473001002&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=347300171055&region=0&sub_region=0&type=429",
@@ -2151,14 +2151,14 @@ export const duma_2003_uik_428_region_47_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Водопьянов Михаил Павлович": 26,
-      "Григорьев Валерий Юрьевич": 13,
-      "Кучеров Николай Михайлович": 13,
-      "Лупеко Александр Афанасьевич": 4,
-      "Матвеев Олег Валентинович": 8,
-      "Силецкий Андрей Романович": 117,
-      "Шиманов Александр Алексеевич": 143,
-      "Против всех": 28
+      "gas:candidate-vibid:1001000131399": 26,
+      "gas:candidate-vibid:1001000136070": 13,
+      "gas:candidate-vibid:347300170586": 13,
+      "gas:candidate-vibid:1001000290473": 4,
+      "gas:candidate-vibid:1001000112222": 8,
+      "gas:candidate-vibid:347300170542": 117,
+      "gas:candidate-vibid:1001000225949": 143,
+      "special:against-all": 28
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=473001002&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=347300171055&region=0&sub_region=0&type=429",
@@ -2208,14 +2208,14 @@ export const duma_2003_uik_428_region_47_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Водопьянов Михаил Павлович": 10,
-      "Григорьев Валерий Юрьевич": 2,
-      "Кучеров Николай Михайлович": 3,
-      "Лупеко Александр Афанасьевич": 1,
-      "Матвеев Олег Валентинович": 7,
-      "Силецкий Андрей Романович": 19,
-      "Шиманов Александр Алексеевич": 20,
-      "Против всех": 5
+      "gas:candidate-vibid:1001000131399": 10,
+      "gas:candidate-vibid:1001000136070": 2,
+      "gas:candidate-vibid:347300170586": 3,
+      "gas:candidate-vibid:1001000290473": 1,
+      "gas:candidate-vibid:1001000112222": 7,
+      "gas:candidate-vibid:347300170542": 19,
+      "gas:candidate-vibid:1001000225949": 20,
+      "special:against-all": 5
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=473001002&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=347300171055&region=0&sub_region=0&type=429",
@@ -2265,14 +2265,14 @@ export const duma_2003_uik_428_region_47_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Водопьянов Михаил Павлович": 37,
-      "Григорьев Валерий Юрьевич": 13,
-      "Кучеров Николай Михайлович": 8,
-      "Лупеко Александр Афанасьевич": 8,
-      "Матвеев Олег Валентинович": 18,
-      "Силецкий Андрей Романович": 180,
-      "Шиманов Александр Алексеевич": 141,
-      "Против всех": 44
+      "gas:candidate-vibid:1001000131399": 37,
+      "gas:candidate-vibid:1001000136070": 13,
+      "gas:candidate-vibid:347300170586": 8,
+      "gas:candidate-vibid:1001000290473": 8,
+      "gas:candidate-vibid:1001000112222": 18,
+      "gas:candidate-vibid:347300170542": 180,
+      "gas:candidate-vibid:1001000225949": 141,
+      "special:against-all": 44
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=473001002&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=347300171055&region=0&sub_region=0&type=429",
@@ -2322,14 +2322,14 @@ export const duma_2003_uik_428_region_47_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Водопьянов Михаил Павлович": 106,
-      "Григорьев Валерий Юрьевич": 14,
-      "Кучеров Николай Михайлович": 17,
-      "Лупеко Александр Афанасьевич": 4,
-      "Матвеев Олег Валентинович": 31,
-      "Силецкий Андрей Романович": 205,
-      "Шиманов Александр Алексеевич": 127,
-      "Против всех": 81
+      "gas:candidate-vibid:1001000131399": 106,
+      "gas:candidate-vibid:1001000136070": 14,
+      "gas:candidate-vibid:347300170586": 17,
+      "gas:candidate-vibid:1001000290473": 4,
+      "gas:candidate-vibid:1001000112222": 31,
+      "gas:candidate-vibid:347300170542": 205,
+      "gas:candidate-vibid:1001000225949": 127,
+      "special:against-all": 81
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=473001002&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=347300171055&region=0&sub_region=0&type=429",
@@ -2379,14 +2379,14 @@ export const duma_2003_uik_428_region_47_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Водопьянов Михаил Павлович": 68,
-      "Григорьев Валерий Юрьевич": 1,
-      "Кучеров Николай Михайлович": 8,
-      "Лупеко Александр Афанасьевич": 1,
-      "Матвеев Олег Валентинович": 5,
-      "Силецкий Андрей Романович": 40,
-      "Шиманов Александр Алексеевич": 30,
-      "Против всех": 22
+      "gas:candidate-vibid:1001000131399": 68,
+      "gas:candidate-vibid:1001000136070": 1,
+      "gas:candidate-vibid:347300170586": 8,
+      "gas:candidate-vibid:1001000290473": 1,
+      "gas:candidate-vibid:1001000112222": 5,
+      "gas:candidate-vibid:347300170542": 40,
+      "gas:candidate-vibid:1001000225949": 30,
+      "special:against-all": 22
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=473001002&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=347300171055&region=0&sub_region=0&type=429",
@@ -2436,14 +2436,14 @@ export const duma_2003_uik_428_region_47_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Водопьянов Михаил Павлович": 11,
-      "Григорьев Валерий Юрьевич": 3,
-      "Кучеров Николай Михайлович": 0,
-      "Лупеко Александр Афанасьевич": 0,
-      "Матвеев Олег Валентинович": 2,
-      "Силецкий Андрей Романович": 21,
-      "Шиманов Александр Алексеевич": 9,
-      "Против всех": 0
+      "gas:candidate-vibid:1001000131399": 11,
+      "gas:candidate-vibid:1001000136070": 3,
+      "gas:candidate-vibid:347300170586": 0,
+      "gas:candidate-vibid:1001000290473": 0,
+      "gas:candidate-vibid:1001000112222": 2,
+      "gas:candidate-vibid:347300170542": 21,
+      "gas:candidate-vibid:1001000225949": 9,
+      "special:against-all": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=473001002&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=347300171055&region=0&sub_region=0&type=429",
@@ -2493,14 +2493,14 @@ export const duma_2003_uik_428_region_47_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Водопьянов Михаил Павлович": 31,
-      "Григорьев Валерий Юрьевич": 1,
-      "Кучеров Николай Михайлович": 0,
-      "Лупеко Александр Афанасьевич": 1,
-      "Матвеев Олег Валентинович": 3,
-      "Силецкий Андрей Романович": 8,
-      "Шиманов Александр Алексеевич": 15,
-      "Против всех": 2
+      "gas:candidate-vibid:1001000131399": 31,
+      "gas:candidate-vibid:1001000136070": 1,
+      "gas:candidate-vibid:347300170586": 0,
+      "gas:candidate-vibid:1001000290473": 1,
+      "gas:candidate-vibid:1001000112222": 3,
+      "gas:candidate-vibid:347300170542": 8,
+      "gas:candidate-vibid:1001000225949": 15,
+      "special:against-all": 2
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=473001002&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=347300171055&region=0&sub_region=0&type=429",
@@ -2550,14 +2550,14 @@ export const duma_2003_uik_428_region_47_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Водопьянов Михаил Павлович": 31,
-      "Григорьев Валерий Юрьевич": 8,
-      "Кучеров Николай Михайлович": 10,
-      "Лупеко Александр Афанасьевич": 1,
-      "Матвеев Олег Валентинович": 9,
-      "Силецкий Андрей Романович": 50,
-      "Шиманов Александр Алексеевич": 35,
-      "Против всех": 23
+      "gas:candidate-vibid:1001000131399": 31,
+      "gas:candidate-vibid:1001000136070": 8,
+      "gas:candidate-vibid:347300170586": 10,
+      "gas:candidate-vibid:1001000290473": 1,
+      "gas:candidate-vibid:1001000112222": 9,
+      "gas:candidate-vibid:347300170542": 50,
+      "gas:candidate-vibid:1001000225949": 35,
+      "special:against-all": 23
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=473001002&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=347300171055&region=0&sub_region=0&type=429",
@@ -2607,14 +2607,14 @@ export const duma_2003_uik_428_region_47_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Водопьянов Михаил Павлович": 33,
-      "Григорьев Валерий Юрьевич": 13,
-      "Кучеров Николай Михайлович": 33,
-      "Лупеко Александр Афанасьевич": 3,
-      "Матвеев Олег Валентинович": 13,
-      "Силецкий Андрей Романович": 71,
-      "Шиманов Александр Алексеевич": 96,
-      "Против всех": 22
+      "gas:candidate-vibid:1001000131399": 33,
+      "gas:candidate-vibid:1001000136070": 13,
+      "gas:candidate-vibid:347300170586": 33,
+      "gas:candidate-vibid:1001000290473": 3,
+      "gas:candidate-vibid:1001000112222": 13,
+      "gas:candidate-vibid:347300170542": 71,
+      "gas:candidate-vibid:1001000225949": 96,
+      "special:against-all": 22
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=473001002&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=347300171055&region=0&sub_region=0&type=429",
@@ -2664,14 +2664,14 @@ export const duma_2003_uik_428_region_47_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Водопьянов Михаил Павлович": 7,
-      "Григорьев Валерий Юрьевич": 1,
-      "Кучеров Николай Михайлович": 7,
-      "Лупеко Александр Афанасьевич": 3,
-      "Матвеев Олег Валентинович": 4,
-      "Силецкий Андрей Романович": 8,
-      "Шиманов Александр Алексеевич": 18,
-      "Против всех": 2
+      "gas:candidate-vibid:1001000131399": 7,
+      "gas:candidate-vibid:1001000136070": 1,
+      "gas:candidate-vibid:347300170586": 7,
+      "gas:candidate-vibid:1001000290473": 3,
+      "gas:candidate-vibid:1001000112222": 4,
+      "gas:candidate-vibid:347300170542": 8,
+      "gas:candidate-vibid:1001000225949": 18,
+      "special:against-all": 2
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=473001002&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=347300171055&region=0&sub_region=0&type=429",
@@ -2721,14 +2721,14 @@ export const duma_2003_uik_428_region_47_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Водопьянов Михаил Павлович": 26,
-      "Григорьев Валерий Юрьевич": 2,
-      "Кучеров Николай Михайлович": 31,
-      "Лупеко Александр Афанасьевич": 0,
-      "Матвеев Олег Валентинович": 0,
-      "Силецкий Андрей Романович": 9,
-      "Шиманов Александр Алексеевич": 11,
-      "Против всех": 5
+      "gas:candidate-vibid:1001000131399": 26,
+      "gas:candidate-vibid:1001000136070": 2,
+      "gas:candidate-vibid:347300170586": 31,
+      "gas:candidate-vibid:1001000290473": 0,
+      "gas:candidate-vibid:1001000112222": 0,
+      "gas:candidate-vibid:347300170542": 9,
+      "gas:candidate-vibid:1001000225949": 11,
+      "special:against-all": 5
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=473001002&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=347300171055&region=0&sub_region=0&type=429",
@@ -2778,14 +2778,14 @@ export const duma_2003_uik_428_region_47_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Водопьянов Михаил Павлович": 26,
-      "Григорьев Валерий Юрьевич": 3,
-      "Кучеров Николай Михайлович": 11,
-      "Лупеко Александр Афанасьевич": 0,
-      "Матвеев Олег Валентинович": 1,
-      "Силецкий Андрей Романович": 24,
-      "Шиманов Александр Алексеевич": 90,
-      "Против всех": 17
+      "gas:candidate-vibid:1001000131399": 26,
+      "gas:candidate-vibid:1001000136070": 3,
+      "gas:candidate-vibid:347300170586": 11,
+      "gas:candidate-vibid:1001000290473": 0,
+      "gas:candidate-vibid:1001000112222": 1,
+      "gas:candidate-vibid:347300170542": 24,
+      "gas:candidate-vibid:1001000225949": 90,
+      "special:against-all": 17
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=473001002&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=347300171055&region=0&sub_region=0&type=429",
@@ -2835,14 +2835,14 @@ export const duma_2003_uik_428_region_47_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Водопьянов Михаил Павлович": 0,
-      "Григорьев Валерий Юрьевич": 7,
-      "Кучеров Николай Михайлович": 1,
-      "Лупеко Александр Афанасьевич": 3,
-      "Матвеев Олег Валентинович": 7,
-      "Силецкий Андрей Романович": 12,
-      "Шиманов Александр Алексеевич": 42,
-      "Против всех": 4
+      "gas:candidate-vibid:1001000131399": 0,
+      "gas:candidate-vibid:1001000136070": 7,
+      "gas:candidate-vibid:347300170586": 1,
+      "gas:candidate-vibid:1001000290473": 3,
+      "gas:candidate-vibid:1001000112222": 7,
+      "gas:candidate-vibid:347300170542": 12,
+      "gas:candidate-vibid:1001000225949": 42,
+      "special:against-all": 4
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=473001002&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=347300171055&region=0&sub_region=0&type=429",
@@ -2892,14 +2892,14 @@ export const duma_2003_uik_428_region_47_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Водопьянов Михаил Павлович": 7,
-      "Григорьев Валерий Юрьевич": 3,
-      "Кучеров Николай Михайлович": 4,
-      "Лупеко Александр Афанасьевич": 0,
-      "Матвеев Олег Валентинович": 6,
-      "Силецкий Андрей Романович": 20,
-      "Шиманов Александр Алексеевич": 62,
-      "Против всех": 9
+      "gas:candidate-vibid:1001000131399": 7,
+      "gas:candidate-vibid:1001000136070": 3,
+      "gas:candidate-vibid:347300170586": 4,
+      "gas:candidate-vibid:1001000290473": 0,
+      "gas:candidate-vibid:1001000112222": 6,
+      "gas:candidate-vibid:347300170542": 20,
+      "gas:candidate-vibid:1001000225949": 62,
+      "special:against-all": 9
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=473001002&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=347300171055&region=0&sub_region=0&type=429",
@@ -2949,14 +2949,14 @@ export const duma_2003_uik_428_region_47_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Водопьянов Михаил Павлович": 11,
-      "Григорьев Валерий Юрьевич": 4,
-      "Кучеров Николай Михайлович": 0,
-      "Лупеко Александр Афанасьевич": 1,
-      "Матвеев Олег Валентинович": 1,
-      "Силецкий Андрей Романович": 3,
-      "Шиманов Александр Алексеевич": 30,
-      "Против всех": 2
+      "gas:candidate-vibid:1001000131399": 11,
+      "gas:candidate-vibid:1001000136070": 4,
+      "gas:candidate-vibid:347300170586": 0,
+      "gas:candidate-vibid:1001000290473": 1,
+      "gas:candidate-vibid:1001000112222": 1,
+      "gas:candidate-vibid:347300170542": 3,
+      "gas:candidate-vibid:1001000225949": 30,
+      "special:against-all": 2
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=473001002&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=347300171055&region=0&sub_region=0&type=429",
@@ -3006,14 +3006,14 @@ export const duma_2003_uik_428_region_47_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Водопьянов Михаил Павлович": 26,
-      "Григорьев Валерий Юрьевич": 6,
-      "Кучеров Николай Михайлович": 1,
-      "Лупеко Александр Афанасьевич": 1,
-      "Матвеев Олег Валентинович": 5,
-      "Силецкий Андрей Романович": 33,
-      "Шиманов Александр Алексеевич": 53,
-      "Против всех": 11
+      "gas:candidate-vibid:1001000131399": 26,
+      "gas:candidate-vibid:1001000136070": 6,
+      "gas:candidate-vibid:347300170586": 1,
+      "gas:candidate-vibid:1001000290473": 1,
+      "gas:candidate-vibid:1001000112222": 5,
+      "gas:candidate-vibid:347300170542": 33,
+      "gas:candidate-vibid:1001000225949": 53,
+      "special:against-all": 11
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=473001002&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=347300171055&region=0&sub_region=0&type=429",
@@ -3063,14 +3063,14 @@ export const duma_2003_uik_428_region_47_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Водопьянов Михаил Павлович": 22,
-      "Григорьев Валерий Юрьевич": 4,
-      "Кучеров Николай Михайлович": 2,
-      "Лупеко Александр Афанасьевич": 0,
-      "Матвеев Олег Валентинович": 8,
-      "Силецкий Андрей Романович": 10,
-      "Шиманов Александр Алексеевич": 18,
-      "Против всех": 1
+      "gas:candidate-vibid:1001000131399": 22,
+      "gas:candidate-vibid:1001000136070": 4,
+      "gas:candidate-vibid:347300170586": 2,
+      "gas:candidate-vibid:1001000290473": 0,
+      "gas:candidate-vibid:1001000112222": 8,
+      "gas:candidate-vibid:347300170542": 10,
+      "gas:candidate-vibid:1001000225949": 18,
+      "special:against-all": 1
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=473001002&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=347300171055&region=0&sub_region=0&type=429",
@@ -3120,14 +3120,14 @@ export const duma_2003_uik_428_region_47_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Водопьянов Михаил Павлович": 4,
-      "Григорьев Валерий Юрьевич": 0,
-      "Кучеров Николай Михайлович": 0,
-      "Лупеко Александр Афанасьевич": 0,
-      "Матвеев Олег Валентинович": 0,
-      "Силецкий Андрей Романович": 0,
-      "Шиманов Александр Алексеевич": 62,
-      "Против всех": 2
+      "gas:candidate-vibid:1001000131399": 4,
+      "gas:candidate-vibid:1001000136070": 0,
+      "gas:candidate-vibid:347300170586": 0,
+      "gas:candidate-vibid:1001000290473": 0,
+      "gas:candidate-vibid:1001000112222": 0,
+      "gas:candidate-vibid:347300170542": 0,
+      "gas:candidate-vibid:1001000225949": 62,
+      "special:against-all": 2
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=473001002&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=347300171055&region=0&sub_region=0&type=429",
@@ -3177,14 +3177,14 @@ export const duma_2003_uik_428_region_47_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Водопьянов Михаил Павлович": 2,
-      "Григорьев Валерий Юрьевич": 0,
-      "Кучеров Николай Михайлович": 0,
-      "Лупеко Александр Афанасьевич": 0,
-      "Матвеев Олег Валентинович": 0,
-      "Силецкий Андрей Романович": 1,
-      "Шиманов Александр Алексеевич": 44,
-      "Против всех": 2
+      "gas:candidate-vibid:1001000131399": 2,
+      "gas:candidate-vibid:1001000136070": 0,
+      "gas:candidate-vibid:347300170586": 0,
+      "gas:candidate-vibid:1001000290473": 0,
+      "gas:candidate-vibid:1001000112222": 0,
+      "gas:candidate-vibid:347300170542": 1,
+      "gas:candidate-vibid:1001000225949": 44,
+      "special:against-all": 2
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=473001002&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=347300171055&region=0&sub_region=0&type=429",
@@ -3234,14 +3234,14 @@ export const duma_2003_uik_428_region_47_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Водопьянов Михаил Павлович": 113,
-      "Григорьев Валерий Юрьевич": 21,
-      "Кучеров Николай Михайлович": 11,
-      "Лупеко Александр Афанасьевич": 1,
-      "Матвеев Олег Валентинович": 17,
-      "Силецкий Андрей Романович": 16,
-      "Шиманов Александр Алексеевич": 132,
-      "Против всех": 51
+      "gas:candidate-vibid:1001000131399": 113,
+      "gas:candidate-vibid:1001000136070": 21,
+      "gas:candidate-vibid:347300170586": 11,
+      "gas:candidate-vibid:1001000290473": 1,
+      "gas:candidate-vibid:1001000112222": 17,
+      "gas:candidate-vibid:347300170542": 16,
+      "gas:candidate-vibid:1001000225949": 132,
+      "special:against-all": 51
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=473001002&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=347300171055&region=0&sub_region=0&type=429",
@@ -3291,14 +3291,14 @@ export const duma_2003_uik_428_region_47_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Водопьянов Михаил Павлович": 15,
-      "Григорьев Валерий Юрьевич": 4,
-      "Кучеров Николай Михайлович": 2,
-      "Лупеко Александр Афанасьевич": 2,
-      "Матвеев Олег Валентинович": 3,
-      "Силецкий Андрей Романович": 25,
-      "Шиманов Александр Алексеевич": 32,
-      "Против всех": 12
+      "gas:candidate-vibid:1001000131399": 15,
+      "gas:candidate-vibid:1001000136070": 4,
+      "gas:candidate-vibid:347300170586": 2,
+      "gas:candidate-vibid:1001000290473": 2,
+      "gas:candidate-vibid:1001000112222": 3,
+      "gas:candidate-vibid:347300170542": 25,
+      "gas:candidate-vibid:1001000225949": 32,
+      "special:against-all": 12
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=473001002&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=347300171055&region=0&sub_region=0&type=429",
@@ -3348,14 +3348,14 @@ export const duma_2003_uik_428_region_47_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Водопьянов Михаил Павлович": 14,
-      "Григорьев Валерий Юрьевич": 4,
-      "Кучеров Николай Михайлович": 1,
-      "Лупеко Александр Афанасьевич": 1,
-      "Матвеев Олег Валентинович": 6,
-      "Силецкий Андрей Романович": 20,
-      "Шиманов Александр Алексеевич": 37,
-      "Против всех": 6
+      "gas:candidate-vibid:1001000131399": 14,
+      "gas:candidate-vibid:1001000136070": 4,
+      "gas:candidate-vibid:347300170586": 1,
+      "gas:candidate-vibid:1001000290473": 1,
+      "gas:candidate-vibid:1001000112222": 6,
+      "gas:candidate-vibid:347300170542": 20,
+      "gas:candidate-vibid:1001000225949": 37,
+      "special:against-all": 6
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=473001002&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=347300171055&region=0&sub_region=0&type=429",
@@ -3405,14 +3405,14 @@ export const duma_2003_uik_428_region_47_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Водопьянов Михаил Павлович": 19,
-      "Григорьев Валерий Юрьевич": 1,
-      "Кучеров Николай Михайлович": 3,
-      "Лупеко Александр Афанасьевич": 2,
-      "Матвеев Олег Валентинович": 8,
-      "Силецкий Андрей Романович": 20,
-      "Шиманов Александр Алексеевич": 95,
-      "Против всех": 12
+      "gas:candidate-vibid:1001000131399": 19,
+      "gas:candidate-vibid:1001000136070": 1,
+      "gas:candidate-vibid:347300170586": 3,
+      "gas:candidate-vibid:1001000290473": 2,
+      "gas:candidate-vibid:1001000112222": 8,
+      "gas:candidate-vibid:347300170542": 20,
+      "gas:candidate-vibid:1001000225949": 95,
+      "special:against-all": 12
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=473001002&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=347300171055&region=0&sub_region=0&type=429",
@@ -3462,14 +3462,14 @@ export const duma_2003_uik_428_region_47_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Водопьянов Михаил Павлович": 15,
-      "Григорьев Валерий Юрьевич": 7,
-      "Кучеров Николай Михайлович": 5,
-      "Лупеко Александр Афанасьевич": 1,
-      "Матвеев Олег Валентинович": 7,
-      "Силецкий Андрей Романович": 12,
-      "Шиманов Александр Алексеевич": 48,
-      "Против всех": 14
+      "gas:candidate-vibid:1001000131399": 15,
+      "gas:candidate-vibid:1001000136070": 7,
+      "gas:candidate-vibid:347300170586": 5,
+      "gas:candidate-vibid:1001000290473": 1,
+      "gas:candidate-vibid:1001000112222": 7,
+      "gas:candidate-vibid:347300170542": 12,
+      "gas:candidate-vibid:1001000225949": 48,
+      "special:against-all": 14
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=473001002&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=347300171055&region=0&sub_region=0&type=429",
@@ -3519,14 +3519,14 @@ export const duma_2003_uik_428_region_47_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Водопьянов Михаил Павлович": 4,
-      "Григорьев Валерий Юрьевич": 7,
-      "Кучеров Николай Михайлович": 1,
-      "Лупеко Александр Афанасьевич": 0,
-      "Матвеев Олег Валентинович": 1,
-      "Силецкий Андрей Романович": 3,
-      "Шиманов Александр Алексеевич": 13,
-      "Против всех": 27
+      "gas:candidate-vibid:1001000131399": 4,
+      "gas:candidate-vibid:1001000136070": 7,
+      "gas:candidate-vibid:347300170586": 1,
+      "gas:candidate-vibid:1001000290473": 0,
+      "gas:candidate-vibid:1001000112222": 1,
+      "gas:candidate-vibid:347300170542": 3,
+      "gas:candidate-vibid:1001000225949": 13,
+      "special:against-all": 27
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=473001002&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=347300171055&region=0&sub_region=0&type=429",
@@ -3576,14 +3576,14 @@ export const duma_2003_uik_428_region_47_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Водопьянов Михаил Павлович": 46,
-      "Григорьев Валерий Юрьевич": 5,
-      "Кучеров Николай Михайлович": 5,
-      "Лупеко Александр Афанасьевич": 2,
-      "Матвеев Олег Валентинович": 6,
-      "Силецкий Андрей Романович": 18,
-      "Шиманов Александр Алексеевич": 99,
-      "Против всех": 30
+      "gas:candidate-vibid:1001000131399": 46,
+      "gas:candidate-vibid:1001000136070": 5,
+      "gas:candidate-vibid:347300170586": 5,
+      "gas:candidate-vibid:1001000290473": 2,
+      "gas:candidate-vibid:1001000112222": 6,
+      "gas:candidate-vibid:347300170542": 18,
+      "gas:candidate-vibid:1001000225949": 99,
+      "special:against-all": 30
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=473001002&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=347300171055&region=0&sub_region=0&type=429",
@@ -3633,14 +3633,14 @@ export const duma_2003_uik_428_region_47_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Водопьянов Михаил Павлович": 74,
-      "Григорьев Валерий Юрьевич": 8,
-      "Кучеров Николай Михайлович": 11,
-      "Лупеко Александр Афанасьевич": 3,
-      "Матвеев Олег Валентинович": 10,
-      "Силецкий Андрей Романович": 36,
-      "Шиманов Александр Алексеевич": 88,
-      "Против всех": 6
+      "gas:candidate-vibid:1001000131399": 74,
+      "gas:candidate-vibid:1001000136070": 8,
+      "gas:candidate-vibid:347300170586": 11,
+      "gas:candidate-vibid:1001000290473": 3,
+      "gas:candidate-vibid:1001000112222": 10,
+      "gas:candidate-vibid:347300170542": 36,
+      "gas:candidate-vibid:1001000225949": 88,
+      "special:against-all": 6
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=473001002&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=347300171055&region=0&sub_region=0&type=429",
@@ -3690,14 +3690,14 @@ export const duma_2003_uik_428_region_47_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Водопьянов Михаил Павлович": 1,
-      "Григорьев Валерий Юрьевич": 7,
-      "Кучеров Николай Михайлович": 0,
-      "Лупеко Александр Афанасьевич": 1,
-      "Матвеев Олег Валентинович": 0,
-      "Силецкий Андрей Романович": 0,
-      "Шиманов Александр Алексеевич": 15,
-      "Против всех": 1
+      "gas:candidate-vibid:1001000131399": 1,
+      "gas:candidate-vibid:1001000136070": 7,
+      "gas:candidate-vibid:347300170586": 0,
+      "gas:candidate-vibid:1001000290473": 1,
+      "gas:candidate-vibid:1001000112222": 0,
+      "gas:candidate-vibid:347300170542": 0,
+      "gas:candidate-vibid:1001000225949": 15,
+      "special:against-all": 1
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=473001002&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=347300171055&region=0&sub_region=0&type=429",
@@ -3747,14 +3747,14 @@ export const duma_2003_uik_428_region_47_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Водопьянов Михаил Павлович": 92,
-      "Григорьев Валерий Юрьевич": 77,
-      "Кучеров Николай Михайлович": 49,
-      "Лупеко Александр Афанасьевич": 39,
-      "Матвеев Олег Валентинович": 59,
-      "Силецкий Андрей Романович": 211,
-      "Шиманов Александр Алексеевич": 449,
-      "Против всех": 333
+      "gas:candidate-vibid:1001000131399": 92,
+      "gas:candidate-vibid:1001000136070": 77,
+      "gas:candidate-vibid:347300170586": 49,
+      "gas:candidate-vibid:1001000290473": 39,
+      "gas:candidate-vibid:1001000112222": 59,
+      "gas:candidate-vibid:347300170542": 211,
+      "gas:candidate-vibid:1001000225949": 449,
+      "special:against-all": 333
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=473001003&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=347300171056&region=0&sub_region=0&type=429",
@@ -3804,14 +3804,14 @@ export const duma_2003_uik_428_region_47_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Водопьянов Михаил Павлович": 122,
-      "Григорьев Валерий Юрьевич": 79,
-      "Кучеров Николай Михайлович": 65,
-      "Лупеко Александр Афанасьевич": 35,
-      "Матвеев Олег Валентинович": 60,
-      "Силецкий Андрей Романович": 237,
-      "Шиманов Александр Алексеевич": 354,
-      "Против всех": 307
+      "gas:candidate-vibid:1001000131399": 122,
+      "gas:candidate-vibid:1001000136070": 79,
+      "gas:candidate-vibid:347300170586": 65,
+      "gas:candidate-vibid:1001000290473": 35,
+      "gas:candidate-vibid:1001000112222": 60,
+      "gas:candidate-vibid:347300170542": 237,
+      "gas:candidate-vibid:1001000225949": 354,
+      "special:against-all": 307
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=473001003&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=347300171056&region=0&sub_region=0&type=429",
@@ -3861,14 +3861,14 @@ export const duma_2003_uik_428_region_47_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Водопьянов Михаил Павлович": 107,
-      "Григорьев Валерий Юрьевич": 64,
-      "Кучеров Николай Михайлович": 141,
-      "Лупеко Александр Афанасьевич": 36,
-      "Матвеев Олег Валентинович": 59,
-      "Силецкий Андрей Романович": 272,
-      "Шиманов Александр Алексеевич": 372,
-      "Против всех": 257
+      "gas:candidate-vibid:1001000131399": 107,
+      "gas:candidate-vibid:1001000136070": 64,
+      "gas:candidate-vibid:347300170586": 141,
+      "gas:candidate-vibid:1001000290473": 36,
+      "gas:candidate-vibid:1001000112222": 59,
+      "gas:candidate-vibid:347300170542": 272,
+      "gas:candidate-vibid:1001000225949": 372,
+      "special:against-all": 257
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=473001003&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=347300171056&region=0&sub_region=0&type=429",
@@ -3918,14 +3918,14 @@ export const duma_2003_uik_428_region_47_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Водопьянов Михаил Павлович": 106,
-      "Григорьев Валерий Юрьевич": 68,
-      "Кучеров Николай Михайлович": 106,
-      "Лупеко Александр Афанасьевич": 23,
-      "Матвеев Олег Валентинович": 39,
-      "Силецкий Андрей Романович": 245,
-      "Шиманов Александр Алексеевич": 322,
-      "Против всех": 270
+      "gas:candidate-vibid:1001000131399": 106,
+      "gas:candidate-vibid:1001000136070": 68,
+      "gas:candidate-vibid:347300170586": 106,
+      "gas:candidate-vibid:1001000290473": 23,
+      "gas:candidate-vibid:1001000112222": 39,
+      "gas:candidate-vibid:347300170542": 245,
+      "gas:candidate-vibid:1001000225949": 322,
+      "special:against-all": 270
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=473001003&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=347300171056&region=0&sub_region=0&type=429",
@@ -3975,14 +3975,14 @@ export const duma_2003_uik_428_region_47_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Водопьянов Михаил Павлович": 84,
-      "Григорьев Валерий Юрьевич": 74,
-      "Кучеров Николай Михайлович": 66,
-      "Лупеко Александр Афанасьевич": 22,
-      "Матвеев Олег Валентинович": 28,
-      "Силецкий Андрей Романович": 161,
-      "Шиманов Александр Алексеевич": 339,
-      "Против всех": 276
+      "gas:candidate-vibid:1001000131399": 84,
+      "gas:candidate-vibid:1001000136070": 74,
+      "gas:candidate-vibid:347300170586": 66,
+      "gas:candidate-vibid:1001000290473": 22,
+      "gas:candidate-vibid:1001000112222": 28,
+      "gas:candidate-vibid:347300170542": 161,
+      "gas:candidate-vibid:1001000225949": 339,
+      "special:against-all": 276
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=473001003&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=347300171056&region=0&sub_region=0&type=429",
@@ -4032,14 +4032,14 @@ export const duma_2003_uik_428_region_47_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Водопьянов Михаил Павлович": 75,
-      "Григорьев Валерий Юрьевич": 43,
-      "Кучеров Николай Михайлович": 96,
-      "Лупеко Александр Афанасьевич": 19,
-      "Матвеев Олег Валентинович": 47,
-      "Силецкий Андрей Романович": 224,
-      "Шиманов Александр Алексеевич": 371,
-      "Против всех": 207
+      "gas:candidate-vibid:1001000131399": 75,
+      "gas:candidate-vibid:1001000136070": 43,
+      "gas:candidate-vibid:347300170586": 96,
+      "gas:candidate-vibid:1001000290473": 19,
+      "gas:candidate-vibid:1001000112222": 47,
+      "gas:candidate-vibid:347300170542": 224,
+      "gas:candidate-vibid:1001000225949": 371,
+      "special:against-all": 207
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=473001003&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=347300171056&region=0&sub_region=0&type=429",
@@ -4089,14 +4089,14 @@ export const duma_2003_uik_428_region_47_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Водопьянов Михаил Павлович": 92,
-      "Григорьев Валерий Юрьевич": 47,
-      "Кучеров Николай Михайлович": 93,
-      "Лупеко Александр Афанасьевич": 35,
-      "Матвеев Олег Валентинович": 54,
-      "Силецкий Андрей Романович": 202,
-      "Шиманов Александр Алексеевич": 417,
-      "Против всех": 263
+      "gas:candidate-vibid:1001000131399": 92,
+      "gas:candidate-vibid:1001000136070": 47,
+      "gas:candidate-vibid:347300170586": 93,
+      "gas:candidate-vibid:1001000290473": 35,
+      "gas:candidate-vibid:1001000112222": 54,
+      "gas:candidate-vibid:347300170542": 202,
+      "gas:candidate-vibid:1001000225949": 417,
+      "special:against-all": 263
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=473001003&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=347300171056&region=0&sub_region=0&type=429",
@@ -4146,14 +4146,14 @@ export const duma_2003_uik_428_region_47_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Водопьянов Михаил Павлович": 106,
-      "Григорьев Валерий Юрьевич": 49,
-      "Кучеров Николай Михайлович": 89,
-      "Лупеко Александр Афанасьевич": 29,
-      "Матвеев Олег Валентинович": 57,
-      "Силецкий Андрей Романович": 193,
-      "Шиманов Александр Алексеевич": 285,
-      "Против всех": 253
+      "gas:candidate-vibid:1001000131399": 106,
+      "gas:candidate-vibid:1001000136070": 49,
+      "gas:candidate-vibid:347300170586": 89,
+      "gas:candidate-vibid:1001000290473": 29,
+      "gas:candidate-vibid:1001000112222": 57,
+      "gas:candidate-vibid:347300170542": 193,
+      "gas:candidate-vibid:1001000225949": 285,
+      "special:against-all": 253
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=473001003&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=347300171056&region=0&sub_region=0&type=429",
@@ -4203,14 +4203,14 @@ export const duma_2003_uik_428_region_47_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Водопьянов Михаил Павлович": 91,
-      "Григорьев Валерий Юрьевич": 61,
-      "Кучеров Николай Михайлович": 100,
-      "Лупеко Александр Афанасьевич": 28,
-      "Матвеев Олег Валентинович": 61,
-      "Силецкий Андрей Романович": 228,
-      "Шиманов Александр Алексеевич": 322,
-      "Против всех": 225
+      "gas:candidate-vibid:1001000131399": 91,
+      "gas:candidate-vibid:1001000136070": 61,
+      "gas:candidate-vibid:347300170586": 100,
+      "gas:candidate-vibid:1001000290473": 28,
+      "gas:candidate-vibid:1001000112222": 61,
+      "gas:candidate-vibid:347300170542": 228,
+      "gas:candidate-vibid:1001000225949": 322,
+      "special:against-all": 225
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=473001003&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=347300171056&region=0&sub_region=0&type=429",
@@ -4260,14 +4260,14 @@ export const duma_2003_uik_428_region_47_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Водопьянов Михаил Павлович": 178,
-      "Григорьев Валерий Юрьевич": 80,
-      "Кучеров Николай Михайлович": 176,
-      "Лупеко Александр Афанасьевич": 43,
-      "Матвеев Олег Валентинович": 69,
-      "Силецкий Андрей Романович": 305,
-      "Шиманов Александр Алексеевич": 339,
-      "Против всех": 276
+      "gas:candidate-vibid:1001000131399": 178,
+      "gas:candidate-vibid:1001000136070": 80,
+      "gas:candidate-vibid:347300170586": 176,
+      "gas:candidate-vibid:1001000290473": 43,
+      "gas:candidate-vibid:1001000112222": 69,
+      "gas:candidate-vibid:347300170542": 305,
+      "gas:candidate-vibid:1001000225949": 339,
+      "special:against-all": 276
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=473001003&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=347300171056&region=0&sub_region=0&type=429",
@@ -4317,14 +4317,14 @@ export const duma_2003_uik_428_region_47_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Водопьянов Михаил Павлович": 117,
-      "Григорьев Валерий Юрьевич": 66,
-      "Кучеров Николай Михайлович": 111,
-      "Лупеко Александр Афанасьевич": 26,
-      "Матвеев Олег Валентинович": 72,
-      "Силецкий Андрей Романович": 298,
-      "Шиманов Александр Алексеевич": 310,
-      "Против всех": 280
+      "gas:candidate-vibid:1001000131399": 117,
+      "gas:candidate-vibid:1001000136070": 66,
+      "gas:candidate-vibid:347300170586": 111,
+      "gas:candidate-vibid:1001000290473": 26,
+      "gas:candidate-vibid:1001000112222": 72,
+      "gas:candidate-vibid:347300170542": 298,
+      "gas:candidate-vibid:1001000225949": 310,
+      "special:against-all": 280
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=473001003&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=347300171056&region=0&sub_region=0&type=429",
@@ -4374,14 +4374,14 @@ export const duma_2003_uik_428_region_47_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Водопьянов Михаил Павлович": 110,
-      "Григорьев Валерий Юрьевич": 54,
-      "Кучеров Николай Михайлович": 95,
-      "Лупеко Александр Афанасьевич": 30,
-      "Матвеев Олег Валентинович": 56,
-      "Силецкий Андрей Романович": 263,
-      "Шиманов Александр Алексеевич": 224,
-      "Против всех": 183
+      "gas:candidate-vibid:1001000131399": 110,
+      "gas:candidate-vibid:1001000136070": 54,
+      "gas:candidate-vibid:347300170586": 95,
+      "gas:candidate-vibid:1001000290473": 30,
+      "gas:candidate-vibid:1001000112222": 56,
+      "gas:candidate-vibid:347300170542": 263,
+      "gas:candidate-vibid:1001000225949": 224,
+      "special:against-all": 183
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=473001003&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=347300171056&region=0&sub_region=0&type=429",
@@ -4431,14 +4431,14 @@ export const duma_2003_uik_428_region_47_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Водопьянов Михаил Павлович": 137,
-      "Григорьев Валерий Юрьевич": 75,
-      "Кучеров Николай Михайлович": 167,
-      "Лупеко Александр Афанасьевич": 33,
-      "Матвеев Олег Валентинович": 60,
-      "Силецкий Андрей Романович": 287,
-      "Шиманов Александр Алексеевич": 274,
-      "Против всех": 221
+      "gas:candidate-vibid:1001000131399": 137,
+      "gas:candidate-vibid:1001000136070": 75,
+      "gas:candidate-vibid:347300170586": 167,
+      "gas:candidate-vibid:1001000290473": 33,
+      "gas:candidate-vibid:1001000112222": 60,
+      "gas:candidate-vibid:347300170542": 287,
+      "gas:candidate-vibid:1001000225949": 274,
+      "special:against-all": 221
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=473001003&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=347300171056&region=0&sub_region=0&type=429",
@@ -4488,14 +4488,14 @@ export const duma_2003_uik_428_region_47_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Водопьянов Михаил Павлович": 70,
-      "Григорьев Валерий Юрьевич": 70,
-      "Кучеров Николай Михайлович": 155,
-      "Лупеко Александр Афанасьевич": 27,
-      "Матвеев Олег Валентинович": 52,
-      "Силецкий Андрей Романович": 184,
-      "Шиманов Александр Алексеевич": 321,
-      "Против всех": 235
+      "gas:candidate-vibid:1001000131399": 70,
+      "gas:candidate-vibid:1001000136070": 70,
+      "gas:candidate-vibid:347300170586": 155,
+      "gas:candidate-vibid:1001000290473": 27,
+      "gas:candidate-vibid:1001000112222": 52,
+      "gas:candidate-vibid:347300170542": 184,
+      "gas:candidate-vibid:1001000225949": 321,
+      "special:against-all": 235
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=473001003&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=347300171056&region=0&sub_region=0&type=429",
@@ -4545,14 +4545,14 @@ export const duma_2003_uik_428_region_47_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Водопьянов Михаил Павлович": 115,
-      "Григорьев Валерий Юрьевич": 57,
-      "Кучеров Николай Михайлович": 109,
-      "Лупеко Александр Афанасьевич": 23,
-      "Матвеев Олег Валентинович": 36,
-      "Силецкий Андрей Романович": 291,
-      "Шиманов Александр Алексеевич": 264,
-      "Против всех": 272
+      "gas:candidate-vibid:1001000131399": 115,
+      "gas:candidate-vibid:1001000136070": 57,
+      "gas:candidate-vibid:347300170586": 109,
+      "gas:candidate-vibid:1001000290473": 23,
+      "gas:candidate-vibid:1001000112222": 36,
+      "gas:candidate-vibid:347300170542": 291,
+      "gas:candidate-vibid:1001000225949": 264,
+      "special:against-all": 272
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=473001003&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=347300171056&region=0&sub_region=0&type=429",
@@ -4602,14 +4602,14 @@ export const duma_2003_uik_428_region_47_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Водопьянов Михаил Павлович": 161,
-      "Григорьев Валерий Юрьевич": 63,
-      "Кучеров Николай Михайлович": 143,
-      "Лупеко Александр Афанасьевич": 37,
-      "Матвеев Олег Валентинович": 47,
-      "Силецкий Андрей Романович": 228,
-      "Шиманов Александр Алексеевич": 273,
-      "Против всех": 246
+      "gas:candidate-vibid:1001000131399": 161,
+      "gas:candidate-vibid:1001000136070": 63,
+      "gas:candidate-vibid:347300170586": 143,
+      "gas:candidate-vibid:1001000290473": 37,
+      "gas:candidate-vibid:1001000112222": 47,
+      "gas:candidate-vibid:347300170542": 228,
+      "gas:candidate-vibid:1001000225949": 273,
+      "special:against-all": 246
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=473001003&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=347300171056&region=0&sub_region=0&type=429",
@@ -4659,14 +4659,14 @@ export const duma_2003_uik_428_region_47_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Водопьянов Михаил Павлович": 111,
-      "Григорьев Валерий Юрьевич": 57,
-      "Кучеров Николай Михайлович": 121,
-      "Лупеко Александр Афанасьевич": 29,
-      "Матвеев Олег Валентинович": 67,
-      "Силецкий Андрей Романович": 314,
-      "Шиманов Александр Алексеевич": 329,
-      "Против всех": 284
+      "gas:candidate-vibid:1001000131399": 111,
+      "gas:candidate-vibid:1001000136070": 57,
+      "gas:candidate-vibid:347300170586": 121,
+      "gas:candidate-vibid:1001000290473": 29,
+      "gas:candidate-vibid:1001000112222": 67,
+      "gas:candidate-vibid:347300170542": 314,
+      "gas:candidate-vibid:1001000225949": 329,
+      "special:against-all": 284
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=473001003&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=347300171056&region=0&sub_region=0&type=429",
@@ -4716,14 +4716,14 @@ export const duma_2003_uik_428_region_47_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Водопьянов Михаил Павлович": 101,
-      "Григорьев Валерий Юрьевич": 70,
-      "Кучеров Николай Михайлович": 157,
-      "Лупеко Александр Афанасьевич": 32,
-      "Матвеев Олег Валентинович": 77,
-      "Силецкий Андрей Романович": 251,
-      "Шиманов Александр Алексеевич": 387,
-      "Против всех": 303
+      "gas:candidate-vibid:1001000131399": 101,
+      "gas:candidate-vibid:1001000136070": 70,
+      "gas:candidate-vibid:347300170586": 157,
+      "gas:candidate-vibid:1001000290473": 32,
+      "gas:candidate-vibid:1001000112222": 77,
+      "gas:candidate-vibid:347300170542": 251,
+      "gas:candidate-vibid:1001000225949": 387,
+      "special:against-all": 303
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=473001003&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=347300171056&region=0&sub_region=0&type=429",
@@ -4773,14 +4773,14 @@ export const duma_2003_uik_428_region_47_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Водопьянов Михаил Павлович": 7,
-      "Григорьев Валерий Юрьевич": 11,
-      "Кучеров Николай Михайлович": 26,
-      "Лупеко Александр Афанасьевич": 7,
-      "Матвеев Олег Валентинович": 10,
-      "Силецкий Андрей Романович": 77,
-      "Шиманов Александр Алексеевич": 152,
-      "Против всех": 32
+      "gas:candidate-vibid:1001000131399": 7,
+      "gas:candidate-vibid:1001000136070": 11,
+      "gas:candidate-vibid:347300170586": 26,
+      "gas:candidate-vibid:1001000290473": 7,
+      "gas:candidate-vibid:1001000112222": 10,
+      "gas:candidate-vibid:347300170542": 77,
+      "gas:candidate-vibid:1001000225949": 152,
+      "special:against-all": 32
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=473001003&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=347300171056&region=0&sub_region=0&type=429",
@@ -4830,14 +4830,14 @@ export const duma_2003_uik_428_region_47_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Водопьянов Михаил Павлович": 17,
-      "Григорьев Валерий Юрьевич": 15,
-      "Кучеров Николай Михайлович": 18,
-      "Лупеко Александр Афанасьевич": 7,
-      "Матвеев Олег Валентинович": 10,
-      "Силецкий Андрей Романович": 133,
-      "Шиманов Александр Алексеевич": 110,
-      "Против всех": 47
+      "gas:candidate-vibid:1001000131399": 17,
+      "gas:candidate-vibid:1001000136070": 15,
+      "gas:candidate-vibid:347300170586": 18,
+      "gas:candidate-vibid:1001000290473": 7,
+      "gas:candidate-vibid:1001000112222": 10,
+      "gas:candidate-vibid:347300170542": 133,
+      "gas:candidate-vibid:1001000225949": 110,
+      "special:against-all": 47
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=473001003&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=347300171056&region=0&sub_region=0&type=429",
@@ -4887,14 +4887,14 @@ export const duma_2003_uik_428_region_47_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Водопьянов Михаил Павлович": 18,
-      "Григорьев Валерий Юрьевич": 14,
-      "Кучеров Николай Михайлович": 36,
-      "Лупеко Александр Афанасьевич": 9,
-      "Матвеев Олег Валентинович": 12,
-      "Силецкий Андрей Романович": 197,
-      "Шиманов Александр Алексеевич": 252,
-      "Против всех": 74
+      "gas:candidate-vibid:1001000131399": 18,
+      "gas:candidate-vibid:1001000136070": 14,
+      "gas:candidate-vibid:347300170586": 36,
+      "gas:candidate-vibid:1001000290473": 9,
+      "gas:candidate-vibid:1001000112222": 12,
+      "gas:candidate-vibid:347300170542": 197,
+      "gas:candidate-vibid:1001000225949": 252,
+      "special:against-all": 74
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=473001003&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=347300171056&region=0&sub_region=0&type=429",
@@ -4944,14 +4944,14 @@ export const duma_2003_uik_428_region_47_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Водопьянов Михаил Павлович": 22,
-      "Григорьев Валерий Юрьевич": 18,
-      "Кучеров Николай Михайлович": 17,
-      "Лупеко Александр Афанасьевич": 14,
-      "Матвеев Олег Валентинович": 14,
-      "Силецкий Андрей Романович": 15,
-      "Шиманов Александр Алексеевич": 49,
-      "Против всех": 2
+      "gas:candidate-vibid:1001000131399": 22,
+      "gas:candidate-vibid:1001000136070": 18,
+      "gas:candidate-vibid:347300170586": 17,
+      "gas:candidate-vibid:1001000290473": 14,
+      "gas:candidate-vibid:1001000112222": 14,
+      "gas:candidate-vibid:347300170542": 15,
+      "gas:candidate-vibid:1001000225949": 49,
+      "special:against-all": 2
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=473001003&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=347300171056&region=0&sub_region=0&type=429",
@@ -5001,14 +5001,14 @@ export const duma_2003_uik_428_region_47_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Водопьянов Михаил Павлович": 6,
-      "Григорьев Валерий Юрьевич": 3,
-      "Кучеров Николай Михайлович": 3,
-      "Лупеко Александр Афанасьевич": 1,
-      "Матвеев Олег Валентинович": 0,
-      "Силецкий Андрей Романович": 17,
-      "Шиманов Александр Алексеевич": 49,
-      "Против всех": 11
+      "gas:candidate-vibid:1001000131399": 6,
+      "gas:candidate-vibid:1001000136070": 3,
+      "gas:candidate-vibid:347300170586": 3,
+      "gas:candidate-vibid:1001000290473": 1,
+      "gas:candidate-vibid:1001000112222": 0,
+      "gas:candidate-vibid:347300170542": 17,
+      "gas:candidate-vibid:1001000225949": 49,
+      "special:against-all": 11
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=473001003&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=347300171056&region=0&sub_region=0&type=429",
@@ -5058,14 +5058,14 @@ export const duma_2003_uik_428_region_47_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Водопьянов Михаил Павлович": 8,
-      "Григорьев Валерий Юрьевич": 4,
-      "Кучеров Николай Михайлович": 12,
-      "Лупеко Александр Афанасьевич": 0,
-      "Матвеев Олег Валентинович": 3,
-      "Силецкий Андрей Романович": 32,
-      "Шиманов Александр Алексеевич": 46,
-      "Против всех": 11
+      "gas:candidate-vibid:1001000131399": 8,
+      "gas:candidate-vibid:1001000136070": 4,
+      "gas:candidate-vibid:347300170586": 12,
+      "gas:candidate-vibid:1001000290473": 0,
+      "gas:candidate-vibid:1001000112222": 3,
+      "gas:candidate-vibid:347300170542": 32,
+      "gas:candidate-vibid:1001000225949": 46,
+      "special:against-all": 11
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=473001003&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=347300171056&region=0&sub_region=0&type=429",
@@ -5115,14 +5115,14 @@ export const duma_2003_uik_428_region_47_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Водопьянов Михаил Павлович": 13,
-      "Григорьев Валерий Юрьевич": 9,
-      "Кучеров Николай Михайлович": 13,
-      "Лупеко Александр Афанасьевич": 1,
-      "Матвеев Олег Валентинович": 6,
-      "Силецкий Андрей Романович": 13,
-      "Шиманов Александр Алексеевич": 54,
-      "Против всех": 6
+      "gas:candidate-vibid:1001000131399": 13,
+      "gas:candidate-vibid:1001000136070": 9,
+      "gas:candidate-vibid:347300170586": 13,
+      "gas:candidate-vibid:1001000290473": 1,
+      "gas:candidate-vibid:1001000112222": 6,
+      "gas:candidate-vibid:347300170542": 13,
+      "gas:candidate-vibid:1001000225949": 54,
+      "special:against-all": 6
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=473001003&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=347300171056&region=0&sub_region=0&type=429",
@@ -5172,14 +5172,14 @@ export const duma_2003_uik_428_region_47_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Водопьянов Михаил Павлович": 1,
-      "Григорьев Валерий Юрьевич": 4,
-      "Кучеров Николай Михайлович": 2,
-      "Лупеко Александр Афанасьевич": 0,
-      "Матвеев Олег Валентинович": 1,
-      "Силецкий Андрей Романович": 22,
-      "Шиманов Александр Алексеевич": 37,
-      "Против всех": 9
+      "gas:candidate-vibid:1001000131399": 1,
+      "gas:candidate-vibid:1001000136070": 4,
+      "gas:candidate-vibid:347300170586": 2,
+      "gas:candidate-vibid:1001000290473": 0,
+      "gas:candidate-vibid:1001000112222": 1,
+      "gas:candidate-vibid:347300170542": 22,
+      "gas:candidate-vibid:1001000225949": 37,
+      "special:against-all": 9
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=473001003&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=347300171056&region=0&sub_region=0&type=429",
@@ -5229,14 +5229,14 @@ export const duma_2003_uik_428_region_47_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Водопьянов Михаил Павлович": 26,
-      "Григорьев Валерий Юрьевич": 31,
-      "Кучеров Николай Михайлович": 25,
-      "Лупеко Александр Афанасьевич": 6,
-      "Матвеев Олег Валентинович": 11,
-      "Силецкий Андрей Романович": 129,
-      "Шиманов Александр Алексеевич": 234,
-      "Против всех": 64
+      "gas:candidate-vibid:1001000131399": 26,
+      "gas:candidate-vibid:1001000136070": 31,
+      "gas:candidate-vibid:347300170586": 25,
+      "gas:candidate-vibid:1001000290473": 6,
+      "gas:candidate-vibid:1001000112222": 11,
+      "gas:candidate-vibid:347300170542": 129,
+      "gas:candidate-vibid:1001000225949": 234,
+      "special:against-all": 64
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=473001003&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=347300171056&region=0&sub_region=0&type=429",
@@ -5286,14 +5286,14 @@ export const duma_2003_uik_428_region_47_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Водопьянов Михаил Павлович": 4,
-      "Григорьев Валерий Юрьевич": 6,
-      "Кучеров Николай Михайлович": 2,
-      "Лупеко Александр Афанасьевич": 4,
-      "Матвеев Олег Валентинович": 4,
-      "Силецкий Андрей Романович": 16,
-      "Шиманов Александр Алексеевич": 35,
-      "Против всех": 9
+      "gas:candidate-vibid:1001000131399": 4,
+      "gas:candidate-vibid:1001000136070": 6,
+      "gas:candidate-vibid:347300170586": 2,
+      "gas:candidate-vibid:1001000290473": 4,
+      "gas:candidate-vibid:1001000112222": 4,
+      "gas:candidate-vibid:347300170542": 16,
+      "gas:candidate-vibid:1001000225949": 35,
+      "special:against-all": 9
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=473001003&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=347300171056&region=0&sub_region=0&type=429",
@@ -5343,14 +5343,14 @@ export const duma_2003_uik_428_region_47_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Водопьянов Михаил Павлович": 10,
-      "Григорьев Валерий Юрьевич": 0,
-      "Кучеров Николай Михайлович": 9,
-      "Лупеко Александр Афанасьевич": 5,
-      "Матвеев Олег Валентинович": 1,
-      "Силецкий Андрей Романович": 20,
-      "Шиманов Александр Алексеевич": 74,
-      "Против всех": 10
+      "gas:candidate-vibid:1001000131399": 10,
+      "gas:candidate-vibid:1001000136070": 0,
+      "gas:candidate-vibid:347300170586": 9,
+      "gas:candidate-vibid:1001000290473": 5,
+      "gas:candidate-vibid:1001000112222": 1,
+      "gas:candidate-vibid:347300170542": 20,
+      "gas:candidate-vibid:1001000225949": 74,
+      "special:against-all": 10
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=473001003&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=347300171056&region=0&sub_region=0&type=429",
@@ -5400,14 +5400,14 @@ export const duma_2003_uik_428_region_47_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Водопьянов Михаил Павлович": 24,
-      "Григорьев Валерий Юрьевич": 16,
-      "Кучеров Николай Михайлович": 23,
-      "Лупеко Александр Афанасьевич": 8,
-      "Матвеев Олег Валентинович": 12,
-      "Силецкий Андрей Романович": 100,
-      "Шиманов Александр Алексеевич": 173,
-      "Против всех": 55
+      "gas:candidate-vibid:1001000131399": 24,
+      "gas:candidate-vibid:1001000136070": 16,
+      "gas:candidate-vibid:347300170586": 23,
+      "gas:candidate-vibid:1001000290473": 8,
+      "gas:candidate-vibid:1001000112222": 12,
+      "gas:candidate-vibid:347300170542": 100,
+      "gas:candidate-vibid:1001000225949": 173,
+      "special:against-all": 55
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=473001003&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=347300171056&region=0&sub_region=0&type=429",
@@ -5457,14 +5457,14 @@ export const duma_2003_uik_428_region_47_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Водопьянов Михаил Павлович": 2,
-      "Григорьев Валерий Юрьевич": 9,
-      "Кучеров Николай Михайлович": 2,
-      "Лупеко Александр Афанасьевич": 1,
-      "Матвеев Олег Валентинович": 4,
-      "Силецкий Андрей Романович": 23,
-      "Шиманов Александр Алексеевич": 51,
-      "Против всех": 8
+      "gas:candidate-vibid:1001000131399": 2,
+      "gas:candidate-vibid:1001000136070": 9,
+      "gas:candidate-vibid:347300170586": 2,
+      "gas:candidate-vibid:1001000290473": 1,
+      "gas:candidate-vibid:1001000112222": 4,
+      "gas:candidate-vibid:347300170542": 23,
+      "gas:candidate-vibid:1001000225949": 51,
+      "special:against-all": 8
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=473001003&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=347300171056&region=0&sub_region=0&type=429",
@@ -5514,14 +5514,14 @@ export const duma_2003_uik_428_region_47_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Водопьянов Михаил Павлович": 9,
-      "Григорьев Валерий Юрьевич": 12,
-      "Кучеров Николай Михайлович": 14,
-      "Лупеко Александр Афанасьевич": 2,
-      "Матвеев Олег Валентинович": 4,
-      "Силецкий Андрей Романович": 37,
-      "Шиманов Александр Алексеевич": 117,
-      "Против всех": 38
+      "gas:candidate-vibid:1001000131399": 9,
+      "gas:candidate-vibid:1001000136070": 12,
+      "gas:candidate-vibid:347300170586": 14,
+      "gas:candidate-vibid:1001000290473": 2,
+      "gas:candidate-vibid:1001000112222": 4,
+      "gas:candidate-vibid:347300170542": 37,
+      "gas:candidate-vibid:1001000225949": 117,
+      "special:against-all": 38
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=473001003&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=347300171056&region=0&sub_region=0&type=429",
@@ -5571,14 +5571,14 @@ export const duma_2003_uik_428_region_47_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Водопьянов Михаил Павлович": 64,
-      "Григорьев Валерий Юрьевич": 33,
-      "Кучеров Николай Михайлович": 39,
-      "Лупеко Александр Афанасьевич": 6,
-      "Матвеев Олег Валентинович": 25,
-      "Силецкий Андрей Романович": 252,
-      "Шиманов Александр Алексеевич": 425,
-      "Против всех": 123
+      "gas:candidate-vibid:1001000131399": 64,
+      "gas:candidate-vibid:1001000136070": 33,
+      "gas:candidate-vibid:347300170586": 39,
+      "gas:candidate-vibid:1001000290473": 6,
+      "gas:candidate-vibid:1001000112222": 25,
+      "gas:candidate-vibid:347300170542": 252,
+      "gas:candidate-vibid:1001000225949": 425,
+      "special:against-all": 123
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=473001003&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=347300171056&region=0&sub_region=0&type=429",
@@ -5628,14 +5628,14 @@ export const duma_2003_uik_428_region_47_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Водопьянов Михаил Павлович": 14,
-      "Григорьев Валерий Юрьевич": 18,
-      "Кучеров Николай Михайлович": 28,
-      "Лупеко Александр Афанасьевич": 5,
-      "Матвеев Олег Валентинович": 6,
-      "Силецкий Андрей Романович": 162,
-      "Шиманов Александр Алексеевич": 95,
-      "Против всех": 52
+      "gas:candidate-vibid:1001000131399": 14,
+      "gas:candidate-vibid:1001000136070": 18,
+      "gas:candidate-vibid:347300170586": 28,
+      "gas:candidate-vibid:1001000290473": 5,
+      "gas:candidate-vibid:1001000112222": 6,
+      "gas:candidate-vibid:347300170542": 162,
+      "gas:candidate-vibid:1001000225949": 95,
+      "special:against-all": 52
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=473001003&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=347300171056&region=0&sub_region=0&type=429",
@@ -5685,14 +5685,14 @@ export const duma_2003_uik_428_region_47_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Водопьянов Михаил Павлович": 11,
-      "Григорьев Валерий Юрьевич": 8,
-      "Кучеров Николай Михайлович": 13,
-      "Лупеко Александр Афанасьевич": 6,
-      "Матвеев Олег Валентинович": 9,
-      "Силецкий Андрей Романович": 43,
-      "Шиманов Александр Алексеевич": 73,
-      "Против всех": 72
+      "gas:candidate-vibid:1001000131399": 11,
+      "gas:candidate-vibid:1001000136070": 8,
+      "gas:candidate-vibid:347300170586": 13,
+      "gas:candidate-vibid:1001000290473": 6,
+      "gas:candidate-vibid:1001000112222": 9,
+      "gas:candidate-vibid:347300170542": 43,
+      "gas:candidate-vibid:1001000225949": 73,
+      "special:against-all": 72
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=473001003&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=347300171056&region=0&sub_region=0&type=429",
@@ -5742,14 +5742,14 @@ export const duma_2003_uik_428_region_47_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Водопьянов Михаил Павлович": 64,
-      "Григорьев Валерий Юрьевич": 52,
-      "Кучеров Николай Михайлович": 58,
-      "Лупеко Александр Афанасьевич": 19,
-      "Матвеев Олег Валентинович": 49,
-      "Силецкий Андрей Романович": 331,
-      "Шиманов Александр Алексеевич": 709,
-      "Против всех": 181
+      "gas:candidate-vibid:1001000131399": 64,
+      "gas:candidate-vibid:1001000136070": 52,
+      "gas:candidate-vibid:347300170586": 58,
+      "gas:candidate-vibid:1001000290473": 19,
+      "gas:candidate-vibid:1001000112222": 49,
+      "gas:candidate-vibid:347300170542": 331,
+      "gas:candidate-vibid:1001000225949": 709,
+      "special:against-all": 181
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=473001004&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=347300171057&region=0&sub_region=0&type=429",
@@ -5799,14 +5799,14 @@ export const duma_2003_uik_428_region_47_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Водопьянов Михаил Павлович": 63,
-      "Григорьев Валерий Юрьевич": 40,
-      "Кучеров Николай Михайлович": 85,
-      "Лупеко Александр Афанасьевич": 16,
-      "Матвеев Олег Валентинович": 39,
-      "Силецкий Андрей Романович": 337,
-      "Шиманов Александр Алексеевич": 638,
-      "Против всех": 148
+      "gas:candidate-vibid:1001000131399": 63,
+      "gas:candidate-vibid:1001000136070": 40,
+      "gas:candidate-vibid:347300170586": 85,
+      "gas:candidate-vibid:1001000290473": 16,
+      "gas:candidate-vibid:1001000112222": 39,
+      "gas:candidate-vibid:347300170542": 337,
+      "gas:candidate-vibid:1001000225949": 638,
+      "special:against-all": 148
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=473001004&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=347300171057&region=0&sub_region=0&type=429",
@@ -5856,14 +5856,14 @@ export const duma_2003_uik_428_region_47_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Водопьянов Михаил Павлович": 128,
-      "Григорьев Валерий Юрьевич": 61,
-      "Кучеров Николай Михайлович": 100,
-      "Лупеко Александр Афанасьевич": 20,
-      "Матвеев Олег Валентинович": 61,
-      "Силецкий Андрей Романович": 455,
-      "Шиманов Александр Алексеевич": 567,
-      "Против всех": 161
+      "gas:candidate-vibid:1001000131399": 128,
+      "gas:candidate-vibid:1001000136070": 61,
+      "gas:candidate-vibid:347300170586": 100,
+      "gas:candidate-vibid:1001000290473": 20,
+      "gas:candidate-vibid:1001000112222": 61,
+      "gas:candidate-vibid:347300170542": 455,
+      "gas:candidate-vibid:1001000225949": 567,
+      "special:against-all": 161
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=473001004&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=347300171057&region=0&sub_region=0&type=429",
@@ -5913,14 +5913,14 @@ export const duma_2003_uik_428_region_47_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Водопьянов Михаил Павлович": 83,
-      "Григорьев Валерий Юрьевич": 52,
-      "Кучеров Николай Михайлович": 27,
-      "Лупеко Александр Афанасьевич": 31,
-      "Матвеев Олег Валентинович": 46,
-      "Силецкий Андрей Романович": 405,
-      "Шиманов Александр Алексеевич": 653,
-      "Против всех": 265
+      "gas:candidate-vibid:1001000131399": 83,
+      "gas:candidate-vibid:1001000136070": 52,
+      "gas:candidate-vibid:347300170586": 27,
+      "gas:candidate-vibid:1001000290473": 31,
+      "gas:candidate-vibid:1001000112222": 46,
+      "gas:candidate-vibid:347300170542": 405,
+      "gas:candidate-vibid:1001000225949": 653,
+      "special:against-all": 265
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=473001004&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=347300171057&region=0&sub_region=0&type=429",
@@ -5970,14 +5970,14 @@ export const duma_2003_uik_428_region_47_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Водопьянов Михаил Павлович": 86,
-      "Григорьев Валерий Юрьевич": 40,
-      "Кучеров Николай Михайлович": 70,
-      "Лупеко Александр Афанасьевич": 24,
-      "Матвеев Олег Валентинович": 50,
-      "Силецкий Андрей Романович": 321,
-      "Шиманов Александр Алексеевич": 666,
-      "Против всех": 186
+      "gas:candidate-vibid:1001000131399": 86,
+      "gas:candidate-vibid:1001000136070": 40,
+      "gas:candidate-vibid:347300170586": 70,
+      "gas:candidate-vibid:1001000290473": 24,
+      "gas:candidate-vibid:1001000112222": 50,
+      "gas:candidate-vibid:347300170542": 321,
+      "gas:candidate-vibid:1001000225949": 666,
+      "special:against-all": 186
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=473001004&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=347300171057&region=0&sub_region=0&type=429",
@@ -6027,14 +6027,14 @@ export const duma_2003_uik_428_region_47_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Водопьянов Михаил Павлович": 82,
-      "Григорьев Валерий Юрьевич": 45,
-      "Кучеров Николай Михайлович": 46,
-      "Лупеко Александр Афанасьевич": 19,
-      "Матвеев Олег Валентинович": 39,
-      "Силецкий Андрей Романович": 263,
-      "Шиманов Александр Алексеевич": 610,
-      "Против всех": 167
+      "gas:candidate-vibid:1001000131399": 82,
+      "gas:candidate-vibid:1001000136070": 45,
+      "gas:candidate-vibid:347300170586": 46,
+      "gas:candidate-vibid:1001000290473": 19,
+      "gas:candidate-vibid:1001000112222": 39,
+      "gas:candidate-vibid:347300170542": 263,
+      "gas:candidate-vibid:1001000225949": 610,
+      "special:against-all": 167
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=473001004&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=347300171057&region=0&sub_region=0&type=429",
@@ -6084,14 +6084,14 @@ export const duma_2003_uik_428_region_47_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Водопьянов Михаил Павлович": 78,
-      "Григорьев Валерий Юрьевич": 46,
-      "Кучеров Николай Михайлович": 42,
-      "Лупеко Александр Афанасьевич": 18,
-      "Матвеев Олег Валентинович": 49,
-      "Силецкий Андрей Романович": 425,
-      "Шиманов Александр Алексеевич": 642,
-      "Против всех": 215
+      "gas:candidate-vibid:1001000131399": 78,
+      "gas:candidate-vibid:1001000136070": 46,
+      "gas:candidate-vibid:347300170586": 42,
+      "gas:candidate-vibid:1001000290473": 18,
+      "gas:candidate-vibid:1001000112222": 49,
+      "gas:candidate-vibid:347300170542": 425,
+      "gas:candidate-vibid:1001000225949": 642,
+      "special:against-all": 215
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=473001004&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=347300171057&region=0&sub_region=0&type=429",
@@ -6141,14 +6141,14 @@ export const duma_2003_uik_428_region_47_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Водопьянов Михаил Павлович": 94,
-      "Григорьев Валерий Юрьевич": 55,
-      "Кучеров Николай Михайлович": 42,
-      "Лупеко Александр Афанасьевич": 17,
-      "Матвеев Олег Валентинович": 58,
-      "Силецкий Андрей Романович": 378,
-      "Шиманов Александр Алексеевич": 595,
-      "Против всех": 192
+      "gas:candidate-vibid:1001000131399": 94,
+      "gas:candidate-vibid:1001000136070": 55,
+      "gas:candidate-vibid:347300170586": 42,
+      "gas:candidate-vibid:1001000290473": 17,
+      "gas:candidate-vibid:1001000112222": 58,
+      "gas:candidate-vibid:347300170542": 378,
+      "gas:candidate-vibid:1001000225949": 595,
+      "special:against-all": 192
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=473001004&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=347300171057&region=0&sub_region=0&type=429",
@@ -6198,14 +6198,14 @@ export const duma_2003_uik_428_region_47_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Водопьянов Михаил Павлович": 12,
-      "Григорьев Валерий Юрьевич": 17,
-      "Кучеров Николай Михайлович": 13,
-      "Лупеко Александр Афанасьевич": 8,
-      "Матвеев Олег Валентинович": 9,
-      "Силецкий Андрей Романович": 66,
-      "Шиманов Александр Алексеевич": 111,
-      "Против всех": 35
+      "gas:candidate-vibid:1001000131399": 12,
+      "gas:candidate-vibid:1001000136070": 17,
+      "gas:candidate-vibid:347300170586": 13,
+      "gas:candidate-vibid:1001000290473": 8,
+      "gas:candidate-vibid:1001000112222": 9,
+      "gas:candidate-vibid:347300170542": 66,
+      "gas:candidate-vibid:1001000225949": 111,
+      "special:against-all": 35
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=473001005&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=347300171058&region=0&sub_region=0&type=429",
@@ -6255,14 +6255,14 @@ export const duma_2003_uik_428_region_47_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Водопьянов Михаил Павлович": 66,
-      "Григорьев Валерий Юрьевич": 40,
-      "Кучеров Николай Михайлович": 40,
-      "Лупеко Александр Афанасьевич": 20,
-      "Матвеев Олег Валентинович": 12,
-      "Силецкий Андрей Романович": 157,
-      "Шиманов Александр Алексеевич": 256,
-      "Против всех": 85
+      "gas:candidate-vibid:1001000131399": 66,
+      "gas:candidate-vibid:1001000136070": 40,
+      "gas:candidate-vibid:347300170586": 40,
+      "gas:candidate-vibid:1001000290473": 20,
+      "gas:candidate-vibid:1001000112222": 12,
+      "gas:candidate-vibid:347300170542": 157,
+      "gas:candidate-vibid:1001000225949": 256,
+      "special:against-all": 85
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=473001005&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=347300171058&region=0&sub_region=0&type=429",
@@ -6312,14 +6312,14 @@ export const duma_2003_uik_428_region_47_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Водопьянов Михаил Павлович": 19,
-      "Григорьев Валерий Юрьевич": 15,
-      "Кучеров Николай Михайлович": 11,
-      "Лупеко Александр Афанасьевич": 10,
-      "Матвеев Олег Валентинович": 9,
-      "Силецкий Андрей Романович": 85,
-      "Шиманов Александр Алексеевич": 116,
-      "Против всех": 56
+      "gas:candidate-vibid:1001000131399": 19,
+      "gas:candidate-vibid:1001000136070": 15,
+      "gas:candidate-vibid:347300170586": 11,
+      "gas:candidate-vibid:1001000290473": 10,
+      "gas:candidate-vibid:1001000112222": 9,
+      "gas:candidate-vibid:347300170542": 85,
+      "gas:candidate-vibid:1001000225949": 116,
+      "special:against-all": 56
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=473001005&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=347300171058&region=0&sub_region=0&type=429",
@@ -6369,14 +6369,14 @@ export const duma_2003_uik_428_region_47_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Водопьянов Михаил Павлович": 72,
-      "Григорьев Валерий Юрьевич": 31,
-      "Кучеров Николай Михайлович": 64,
-      "Лупеко Александр Афанасьевич": 12,
-      "Матвеев Олег Валентинович": 14,
-      "Силецкий Андрей Романович": 172,
-      "Шиманов Александр Алексеевич": 322,
-      "Против всех": 113
+      "gas:candidate-vibid:1001000131399": 72,
+      "gas:candidate-vibid:1001000136070": 31,
+      "gas:candidate-vibid:347300170586": 64,
+      "gas:candidate-vibid:1001000290473": 12,
+      "gas:candidate-vibid:1001000112222": 14,
+      "gas:candidate-vibid:347300170542": 172,
+      "gas:candidate-vibid:1001000225949": 322,
+      "special:against-all": 113
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=473001005&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=347300171058&region=0&sub_region=0&type=429",
@@ -6426,14 +6426,14 @@ export const duma_2003_uik_428_region_47_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Водопьянов Михаил Павлович": 82,
-      "Григорьев Валерий Юрьевич": 43,
-      "Кучеров Николай Михайлович": 66,
-      "Лупеко Александр Афанасьевич": 7,
-      "Матвеев Олег Валентинович": 28,
-      "Силецкий Андрей Романович": 191,
-      "Шиманов Александр Алексеевич": 284,
-      "Против всех": 102
+      "gas:candidate-vibid:1001000131399": 82,
+      "gas:candidate-vibid:1001000136070": 43,
+      "gas:candidate-vibid:347300170586": 66,
+      "gas:candidate-vibid:1001000290473": 7,
+      "gas:candidate-vibid:1001000112222": 28,
+      "gas:candidate-vibid:347300170542": 191,
+      "gas:candidate-vibid:1001000225949": 284,
+      "special:against-all": 102
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=473001005&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=347300171058&region=0&sub_region=0&type=429",
@@ -6483,14 +6483,14 @@ export const duma_2003_uik_428_region_47_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Водопьянов Михаил Павлович": 72,
-      "Григорьев Валерий Юрьевич": 17,
-      "Кучеров Николай Михайлович": 46,
-      "Лупеко Александр Афанасьевич": 10,
-      "Матвеев Олег Валентинович": 21,
-      "Силецкий Андрей Романович": 156,
-      "Шиманов Александр Алексеевич": 248,
-      "Против всех": 67
+      "gas:candidate-vibid:1001000131399": 72,
+      "gas:candidate-vibid:1001000136070": 17,
+      "gas:candidate-vibid:347300170586": 46,
+      "gas:candidate-vibid:1001000290473": 10,
+      "gas:candidate-vibid:1001000112222": 21,
+      "gas:candidate-vibid:347300170542": 156,
+      "gas:candidate-vibid:1001000225949": 248,
+      "special:against-all": 67
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=473001005&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=347300171058&region=0&sub_region=0&type=429",
@@ -6540,14 +6540,14 @@ export const duma_2003_uik_428_region_47_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Водопьянов Михаил Павлович": 109,
-      "Григорьев Валерий Юрьевич": 33,
-      "Кучеров Николай Михайлович": 62,
-      "Лупеко Александр Афанасьевич": 7,
-      "Матвеев Олег Валентинович": 14,
-      "Силецкий Андрей Романович": 199,
-      "Шиманов Александр Алексеевич": 263,
-      "Против всех": 93
+      "gas:candidate-vibid:1001000131399": 109,
+      "gas:candidate-vibid:1001000136070": 33,
+      "gas:candidate-vibid:347300170586": 62,
+      "gas:candidate-vibid:1001000290473": 7,
+      "gas:candidate-vibid:1001000112222": 14,
+      "gas:candidate-vibid:347300170542": 199,
+      "gas:candidate-vibid:1001000225949": 263,
+      "special:against-all": 93
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=473001005&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=347300171058&region=0&sub_region=0&type=429",
@@ -6597,14 +6597,14 @@ export const duma_2003_uik_428_region_47_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Водопьянов Михаил Павлович": 98,
-      "Григорьев Валерий Юрьевич": 28,
-      "Кучеров Николай Михайлович": 99,
-      "Лупеко Александр Афанасьевич": 7,
-      "Матвеев Олег Валентинович": 26,
-      "Силецкий Андрей Романович": 167,
-      "Шиманов Александр Алексеевич": 280,
-      "Против всех": 109
+      "gas:candidate-vibid:1001000131399": 98,
+      "gas:candidate-vibid:1001000136070": 28,
+      "gas:candidate-vibid:347300170586": 99,
+      "gas:candidate-vibid:1001000290473": 7,
+      "gas:candidate-vibid:1001000112222": 26,
+      "gas:candidate-vibid:347300170542": 167,
+      "gas:candidate-vibid:1001000225949": 280,
+      "special:against-all": 109
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=473001005&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=347300171058&region=0&sub_region=0&type=429",
@@ -6654,14 +6654,14 @@ export const duma_2003_uik_428_region_47_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Водопьянов Михаил Павлович": 164,
-      "Григорьев Валерий Юрьевич": 30,
-      "Кучеров Николай Михайлович": 82,
-      "Лупеко Александр Афанасьевич": 21,
-      "Матвеев Олег Валентинович": 32,
-      "Силецкий Андрей Романович": 310,
-      "Шиманов Александр Алексеевич": 307,
-      "Против всех": 139
+      "gas:candidate-vibid:1001000131399": 164,
+      "gas:candidate-vibid:1001000136070": 30,
+      "gas:candidate-vibid:347300170586": 82,
+      "gas:candidate-vibid:1001000290473": 21,
+      "gas:candidate-vibid:1001000112222": 32,
+      "gas:candidate-vibid:347300170542": 310,
+      "gas:candidate-vibid:1001000225949": 307,
+      "special:against-all": 139
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=473001005&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=347300171058&region=0&sub_region=0&type=429",
@@ -6711,14 +6711,14 @@ export const duma_2003_uik_428_region_47_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Водопьянов Михаил Павлович": 98,
-      "Григорьев Валерий Юрьевич": 28,
-      "Кучеров Николай Михайлович": 68,
-      "Лупеко Александр Афанасьевич": 12,
-      "Матвеев Олег Валентинович": 21,
-      "Силецкий Андрей Романович": 164,
-      "Шиманов Александр Алексеевич": 267,
-      "Против всех": 71
+      "gas:candidate-vibid:1001000131399": 98,
+      "gas:candidate-vibid:1001000136070": 28,
+      "gas:candidate-vibid:347300170586": 68,
+      "gas:candidate-vibid:1001000290473": 12,
+      "gas:candidate-vibid:1001000112222": 21,
+      "gas:candidate-vibid:347300170542": 164,
+      "gas:candidate-vibid:1001000225949": 267,
+      "special:against-all": 71
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=473001005&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=347300171058&region=0&sub_region=0&type=429",
@@ -6768,14 +6768,14 @@ export const duma_2003_uik_428_region_47_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Водопьянов Михаил Павлович": 27,
-      "Григорьев Валерий Юрьевич": 30,
-      "Кучеров Николай Михайлович": 29,
-      "Лупеко Александр Афанасьевич": 9,
-      "Матвеев Олег Валентинович": 8,
-      "Силецкий Андрей Романович": 110,
-      "Шиманов Александр Алексеевич": 174,
-      "Против всех": 61
+      "gas:candidate-vibid:1001000131399": 27,
+      "gas:candidate-vibid:1001000136070": 30,
+      "gas:candidate-vibid:347300170586": 29,
+      "gas:candidate-vibid:1001000290473": 9,
+      "gas:candidate-vibid:1001000112222": 8,
+      "gas:candidate-vibid:347300170542": 110,
+      "gas:candidate-vibid:1001000225949": 174,
+      "special:against-all": 61
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=473001005&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=347300171058&region=0&sub_region=0&type=429",
@@ -6825,14 +6825,14 @@ export const duma_2003_uik_428_region_47_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Водопьянов Михаил Павлович": 19,
-      "Григорьев Валерий Юрьевич": 22,
-      "Кучеров Николай Михайлович": 7,
-      "Лупеко Александр Афанасьевич": 8,
-      "Матвеев Олег Валентинович": 2,
-      "Силецкий Андрей Романович": 89,
-      "Шиманов Александр Алексеевич": 168,
-      "Против всех": 31
+      "gas:candidate-vibid:1001000131399": 19,
+      "gas:candidate-vibid:1001000136070": 22,
+      "gas:candidate-vibid:347300170586": 7,
+      "gas:candidate-vibid:1001000290473": 8,
+      "gas:candidate-vibid:1001000112222": 2,
+      "gas:candidate-vibid:347300170542": 89,
+      "gas:candidate-vibid:1001000225949": 168,
+      "special:against-all": 31
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=473001005&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=347300171058&region=0&sub_region=0&type=429",
@@ -6882,14 +6882,14 @@ export const duma_2003_uik_428_region_47_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Водопьянов Михаил Павлович": 8,
-      "Григорьев Валерий Юрьевич": 22,
-      "Кучеров Николай Михайлович": 17,
-      "Лупеко Александр Афанасьевич": 3,
-      "Матвеев Олег Валентинович": 6,
-      "Силецкий Андрей Романович": 138,
-      "Шиманов Александр Алексеевич": 141,
-      "Против всех": 29
+      "gas:candidate-vibid:1001000131399": 8,
+      "gas:candidate-vibid:1001000136070": 22,
+      "gas:candidate-vibid:347300170586": 17,
+      "gas:candidate-vibid:1001000290473": 3,
+      "gas:candidate-vibid:1001000112222": 6,
+      "gas:candidate-vibid:347300170542": 138,
+      "gas:candidate-vibid:1001000225949": 141,
+      "special:against-all": 29
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=473001005&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=347300171058&region=0&sub_region=0&type=429",
@@ -6939,14 +6939,14 @@ export const duma_2003_uik_428_region_47_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Водопьянов Михаил Павлович": 45,
-      "Григорьев Валерий Юрьевич": 22,
-      "Кучеров Николай Михайлович": 55,
-      "Лупеко Александр Афанасьевич": 22,
-      "Матвеев Олег Валентинович": 24,
-      "Силецкий Андрей Романович": 242,
-      "Шиманов Александр Алексеевич": 314,
-      "Против всех": 91
+      "gas:candidate-vibid:1001000131399": 45,
+      "gas:candidate-vibid:1001000136070": 22,
+      "gas:candidate-vibid:347300170586": 55,
+      "gas:candidate-vibid:1001000290473": 22,
+      "gas:candidate-vibid:1001000112222": 24,
+      "gas:candidate-vibid:347300170542": 242,
+      "gas:candidate-vibid:1001000225949": 314,
+      "special:against-all": 91
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=473001005&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=347300171058&region=0&sub_region=0&type=429",
@@ -6996,14 +6996,14 @@ export const duma_2003_uik_428_region_47_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Водопьянов Михаил Павлович": 50,
-      "Григорьев Валерий Юрьевич": 26,
-      "Кучеров Николай Михайлович": 49,
-      "Лупеко Александр Афанасьевич": 11,
-      "Матвеев Олег Валентинович": 8,
-      "Силецкий Андрей Романович": 199,
-      "Шиманов Александр Алексеевич": 334,
-      "Против всех": 83
+      "gas:candidate-vibid:1001000131399": 50,
+      "gas:candidate-vibid:1001000136070": 26,
+      "gas:candidate-vibid:347300170586": 49,
+      "gas:candidate-vibid:1001000290473": 11,
+      "gas:candidate-vibid:1001000112222": 8,
+      "gas:candidate-vibid:347300170542": 199,
+      "gas:candidate-vibid:1001000225949": 334,
+      "special:against-all": 83
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=473001005&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=347300171058&region=0&sub_region=0&type=429",
@@ -7053,14 +7053,14 @@ export const duma_2003_uik_428_region_47_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Водопьянов Михаил Павлович": 28,
-      "Григорьев Валерий Юрьевич": 20,
-      "Кучеров Николай Михайлович": 19,
-      "Лупеко Александр Афанасьевич": 5,
-      "Матвеев Олег Валентинович": 4,
-      "Силецкий Андрей Романович": 154,
-      "Шиманов Александр Алексеевич": 251,
-      "Против всех": 51
+      "gas:candidate-vibid:1001000131399": 28,
+      "gas:candidate-vibid:1001000136070": 20,
+      "gas:candidate-vibid:347300170586": 19,
+      "gas:candidate-vibid:1001000290473": 5,
+      "gas:candidate-vibid:1001000112222": 4,
+      "gas:candidate-vibid:347300170542": 154,
+      "gas:candidate-vibid:1001000225949": 251,
+      "special:against-all": 51
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=473001005&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=347300171058&region=0&sub_region=0&type=429",
@@ -7110,14 +7110,14 @@ export const duma_2003_uik_428_region_47_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Водопьянов Михаил Павлович": 3,
-      "Григорьев Валерий Юрьевич": 4,
-      "Кучеров Николай Михайлович": 5,
-      "Лупеко Александр Афанасьевич": 1,
-      "Матвеев Олег Валентинович": 2,
-      "Силецкий Андрей Романович": 31,
-      "Шиманов Александр Алексеевич": 42,
-      "Против всех": 4
+      "gas:candidate-vibid:1001000131399": 3,
+      "gas:candidate-vibid:1001000136070": 4,
+      "gas:candidate-vibid:347300170586": 5,
+      "gas:candidate-vibid:1001000290473": 1,
+      "gas:candidate-vibid:1001000112222": 2,
+      "gas:candidate-vibid:347300170542": 31,
+      "gas:candidate-vibid:1001000225949": 42,
+      "special:against-all": 4
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=473001005&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=347300171058&region=0&sub_region=0&type=429",
@@ -7167,14 +7167,14 @@ export const duma_2003_uik_428_region_47_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Водопьянов Михаил Павлович": 5,
-      "Григорьев Валерий Юрьевич": 2,
-      "Кучеров Николай Михайлович": 3,
-      "Лупеко Александр Афанасьевич": 0,
-      "Матвеев Олег Валентинович": 2,
-      "Силецкий Андрей Романович": 34,
-      "Шиманов Александр Алексеевич": 52,
-      "Против всех": 5
+      "gas:candidate-vibid:1001000131399": 5,
+      "gas:candidate-vibid:1001000136070": 2,
+      "gas:candidate-vibid:347300170586": 3,
+      "gas:candidate-vibid:1001000290473": 0,
+      "gas:candidate-vibid:1001000112222": 2,
+      "gas:candidate-vibid:347300170542": 34,
+      "gas:candidate-vibid:1001000225949": 52,
+      "special:against-all": 5
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=473001005&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=347300171058&region=0&sub_region=0&type=429",
@@ -7224,14 +7224,14 @@ export const duma_2003_uik_428_region_47_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Водопьянов Михаил Павлович": 19,
-      "Григорьев Валерий Юрьевич": 6,
-      "Кучеров Николай Михайлович": 3,
-      "Лупеко Александр Афанасьевич": 1,
-      "Матвеев Олег Валентинович": 2,
-      "Силецкий Андрей Романович": 25,
-      "Шиманов Александр Алексеевич": 44,
-      "Против всех": 10
+      "gas:candidate-vibid:1001000131399": 19,
+      "gas:candidate-vibid:1001000136070": 6,
+      "gas:candidate-vibid:347300170586": 3,
+      "gas:candidate-vibid:1001000290473": 1,
+      "gas:candidate-vibid:1001000112222": 2,
+      "gas:candidate-vibid:347300170542": 25,
+      "gas:candidate-vibid:1001000225949": 44,
+      "special:against-all": 10
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=473001005&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=347300171058&region=0&sub_region=0&type=429",
@@ -7281,14 +7281,14 @@ export const duma_2003_uik_428_region_47_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Водопьянов Михаил Павлович": 3,
-      "Григорьев Валерий Юрьевич": 0,
-      "Кучеров Николай Михайлович": 1,
-      "Лупеко Александр Афанасьевич": 0,
-      "Матвеев Олег Валентинович": 3,
-      "Силецкий Андрей Романович": 21,
-      "Шиманов Александр Алексеевич": 29,
-      "Против всех": 2
+      "gas:candidate-vibid:1001000131399": 3,
+      "gas:candidate-vibid:1001000136070": 0,
+      "gas:candidate-vibid:347300170586": 1,
+      "gas:candidate-vibid:1001000290473": 0,
+      "gas:candidate-vibid:1001000112222": 3,
+      "gas:candidate-vibid:347300170542": 21,
+      "gas:candidate-vibid:1001000225949": 29,
+      "special:against-all": 2
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=473001005&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=347300171058&region=0&sub_region=0&type=429",
@@ -7338,14 +7338,14 @@ export const duma_2003_uik_428_region_47_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Водопьянов Михаил Павлович": 9,
-      "Григорьев Валерий Юрьевич": 1,
-      "Кучеров Николай Михайлович": 3,
-      "Лупеко Александр Афанасьевич": 0,
-      "Матвеев Олег Валентинович": 0,
-      "Силецкий Андрей Романович": 20,
-      "Шиманов Александр Алексеевич": 75,
-      "Против всех": 4
+      "gas:candidate-vibid:1001000131399": 9,
+      "gas:candidate-vibid:1001000136070": 1,
+      "gas:candidate-vibid:347300170586": 3,
+      "gas:candidate-vibid:1001000290473": 0,
+      "gas:candidate-vibid:1001000112222": 0,
+      "gas:candidate-vibid:347300170542": 20,
+      "gas:candidate-vibid:1001000225949": 75,
+      "special:against-all": 4
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=473001005&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=347300171058&region=0&sub_region=0&type=429",
@@ -7395,14 +7395,14 @@ export const duma_2003_uik_428_region_47_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Водопьянов Михаил Павлович": 1,
-      "Григорьев Валерий Юрьевич": 0,
-      "Кучеров Николай Михайлович": 1,
-      "Лупеко Александр Афанасьевич": 0,
-      "Матвеев Олег Валентинович": 1,
-      "Силецкий Андрей Романович": 29,
-      "Шиманов Александр Алексеевич": 18,
-      "Против всех": 6
+      "gas:candidate-vibid:1001000131399": 1,
+      "gas:candidate-vibid:1001000136070": 0,
+      "gas:candidate-vibid:347300170586": 1,
+      "gas:candidate-vibid:1001000290473": 0,
+      "gas:candidate-vibid:1001000112222": 1,
+      "gas:candidate-vibid:347300170542": 29,
+      "gas:candidate-vibid:1001000225949": 18,
+      "special:against-all": 6
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=473001005&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=347300171058&region=0&sub_region=0&type=429",
@@ -7452,14 +7452,14 @@ export const duma_2003_uik_428_region_47_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Водопьянов Михаил Павлович": 72,
-      "Григорьев Валерий Юрьевич": 24,
-      "Кучеров Николай Михайлович": 54,
-      "Лупеко Александр Афанасьевич": 11,
-      "Матвеев Олег Валентинович": 9,
-      "Силецкий Андрей Романович": 265,
-      "Шиманов Александр Алексеевич": 379,
-      "Против всех": 91
+      "gas:candidate-vibid:1001000131399": 72,
+      "gas:candidate-vibid:1001000136070": 24,
+      "gas:candidate-vibid:347300170586": 54,
+      "gas:candidate-vibid:1001000290473": 11,
+      "gas:candidate-vibid:1001000112222": 9,
+      "gas:candidate-vibid:347300170542": 265,
+      "gas:candidate-vibid:1001000225949": 379,
+      "special:against-all": 91
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=473001005&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=347300171058&region=0&sub_region=0&type=429",
@@ -7509,14 +7509,14 @@ export const duma_2003_uik_428_region_47_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Водопьянов Михаил Павлович": 11,
-      "Григорьев Валерий Юрьевич": 2,
-      "Кучеров Николай Михайлович": 14,
-      "Лупеко Александр Афанасьевич": 3,
-      "Матвеев Олег Валентинович": 1,
-      "Силецкий Андрей Романович": 60,
-      "Шиманов Александр Алексеевич": 68,
-      "Против всех": 15
+      "gas:candidate-vibid:1001000131399": 11,
+      "gas:candidate-vibid:1001000136070": 2,
+      "gas:candidate-vibid:347300170586": 14,
+      "gas:candidate-vibid:1001000290473": 3,
+      "gas:candidate-vibid:1001000112222": 1,
+      "gas:candidate-vibid:347300170542": 60,
+      "gas:candidate-vibid:1001000225949": 68,
+      "special:against-all": 15
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=473001005&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=347300171058&region=0&sub_region=0&type=429",
@@ -7566,14 +7566,14 @@ export const duma_2003_uik_428_region_47_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Водопьянов Михаил Павлович": 18,
-      "Григорьев Валерий Юрьевич": 7,
-      "Кучеров Николай Михайлович": 11,
-      "Лупеко Александр Афанасьевич": 1,
-      "Матвеев Олег Валентинович": 0,
-      "Силецкий Андрей Романович": 33,
-      "Шиманов Александр Алексеевич": 49,
-      "Против всех": 14
+      "gas:candidate-vibid:1001000131399": 18,
+      "gas:candidate-vibid:1001000136070": 7,
+      "gas:candidate-vibid:347300170586": 11,
+      "gas:candidate-vibid:1001000290473": 1,
+      "gas:candidate-vibid:1001000112222": 0,
+      "gas:candidate-vibid:347300170542": 33,
+      "gas:candidate-vibid:1001000225949": 49,
+      "special:against-all": 14
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=473001005&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=347300171058&region=0&sub_region=0&type=429",
@@ -7623,14 +7623,14 @@ export const duma_2003_uik_428_region_47_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Водопьянов Михаил Павлович": 55,
-      "Григорьев Валерий Юрьевич": 21,
-      "Кучеров Николай Михайлович": 89,
-      "Лупеко Александр Афанасьевич": 2,
-      "Матвеев Олег Валентинович": 4,
-      "Силецкий Андрей Романович": 175,
-      "Шиманов Александр Алексеевич": 307,
-      "Против всех": 41
+      "gas:candidate-vibid:1001000131399": 55,
+      "gas:candidate-vibid:1001000136070": 21,
+      "gas:candidate-vibid:347300170586": 89,
+      "gas:candidate-vibid:1001000290473": 2,
+      "gas:candidate-vibid:1001000112222": 4,
+      "gas:candidate-vibid:347300170542": 175,
+      "gas:candidate-vibid:1001000225949": 307,
+      "special:against-all": 41
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=473001005&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=347300171058&region=0&sub_region=0&type=429",
@@ -7680,14 +7680,14 @@ export const duma_2003_uik_428_region_47_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Водопьянов Михаил Павлович": 20,
-      "Григорьев Валерий Юрьевич": 6,
-      "Кучеров Николай Михайлович": 16,
-      "Лупеко Александр Афанасьевич": 0,
-      "Матвеев Олег Валентинович": 3,
-      "Силецкий Андрей Романович": 105,
-      "Шиманов Александр Алексеевич": 42,
-      "Против всех": 16
+      "gas:candidate-vibid:1001000131399": 20,
+      "gas:candidate-vibid:1001000136070": 6,
+      "gas:candidate-vibid:347300170586": 16,
+      "gas:candidate-vibid:1001000290473": 0,
+      "gas:candidate-vibid:1001000112222": 3,
+      "gas:candidate-vibid:347300170542": 105,
+      "gas:candidate-vibid:1001000225949": 42,
+      "special:against-all": 16
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=473001005&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=347300171058&region=0&sub_region=0&type=429",
@@ -7737,14 +7737,14 @@ export const duma_2003_uik_428_region_47_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Водопьянов Михаил Павлович": 8,
-      "Григорьев Валерий Юрьевич": 10,
-      "Кучеров Николай Михайлович": 17,
-      "Лупеко Александр Афанасьевич": 2,
-      "Матвеев Олег Валентинович": 1,
-      "Силецкий Андрей Романович": 43,
-      "Шиманов Александр Алексеевич": 34,
-      "Против всех": 9
+      "gas:candidate-vibid:1001000131399": 8,
+      "gas:candidate-vibid:1001000136070": 10,
+      "gas:candidate-vibid:347300170586": 17,
+      "gas:candidate-vibid:1001000290473": 2,
+      "gas:candidate-vibid:1001000112222": 1,
+      "gas:candidate-vibid:347300170542": 43,
+      "gas:candidate-vibid:1001000225949": 34,
+      "special:against-all": 9
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=473001005&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=347300171058&region=0&sub_region=0&type=429",
@@ -7794,14 +7794,14 @@ export const duma_2003_uik_428_region_47_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Водопьянов Михаил Павлович": 1,
-      "Григорьев Валерий Юрьевич": 6,
-      "Кучеров Николай Михайлович": 8,
-      "Лупеко Александр Афанасьевич": 1,
-      "Матвеев Олег Валентинович": 1,
-      "Силецкий Андрей Романович": 20,
-      "Шиманов Александр Алексеевич": 23,
-      "Против всех": 2
+      "gas:candidate-vibid:1001000131399": 1,
+      "gas:candidate-vibid:1001000136070": 6,
+      "gas:candidate-vibid:347300170586": 8,
+      "gas:candidate-vibid:1001000290473": 1,
+      "gas:candidate-vibid:1001000112222": 1,
+      "gas:candidate-vibid:347300170542": 20,
+      "gas:candidate-vibid:1001000225949": 23,
+      "special:against-all": 2
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=473001005&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=347300171058&region=0&sub_region=0&type=429",
@@ -7851,14 +7851,14 @@ export const duma_2003_uik_428_region_47_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Водопьянов Михаил Павлович": 24,
-      "Григорьев Валерий Юрьевич": 7,
-      "Кучеров Николай Михайлович": 10,
-      "Лупеко Александр Афанасьевич": 1,
-      "Матвеев Олег Валентинович": 1,
-      "Силецкий Андрей Романович": 20,
-      "Шиманов Александр Алексеевич": 132,
-      "Против всех": 17
+      "gas:candidate-vibid:1001000131399": 24,
+      "gas:candidate-vibid:1001000136070": 7,
+      "gas:candidate-vibid:347300170586": 10,
+      "gas:candidate-vibid:1001000290473": 1,
+      "gas:candidate-vibid:1001000112222": 1,
+      "gas:candidate-vibid:347300170542": 20,
+      "gas:candidate-vibid:1001000225949": 132,
+      "special:against-all": 17
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=473001005&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=347300171058&region=0&sub_region=0&type=429",
@@ -7908,14 +7908,14 @@ export const duma_2003_uik_428_region_47_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Водопьянов Михаил Павлович": 5,
-      "Григорьев Валерий Юрьевич": 0,
-      "Кучеров Николай Михайлович": 3,
-      "Лупеко Александр Афанасьевич": 1,
-      "Матвеев Олег Валентинович": 2,
-      "Силецкий Андрей Романович": 15,
-      "Шиманов Александр Алексеевич": 68,
-      "Против всех": 3
+      "gas:candidate-vibid:1001000131399": 5,
+      "gas:candidate-vibid:1001000136070": 0,
+      "gas:candidate-vibid:347300170586": 3,
+      "gas:candidate-vibid:1001000290473": 1,
+      "gas:candidate-vibid:1001000112222": 2,
+      "gas:candidate-vibid:347300170542": 15,
+      "gas:candidate-vibid:1001000225949": 68,
+      "special:against-all": 3
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=473001005&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=347300171058&region=0&sub_region=0&type=429",
@@ -7965,14 +7965,14 @@ export const duma_2003_uik_428_region_47_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Водопьянов Михаил Павлович": 4,
-      "Григорьев Валерий Юрьевич": 11,
-      "Кучеров Николай Михайлович": 9,
-      "Лупеко Александр Афанасьевич": 1,
-      "Матвеев Олег Валентинович": 4,
-      "Силецкий Андрей Романович": 62,
-      "Шиманов Александр Алексеевич": 68,
-      "Против всех": 8
+      "gas:candidate-vibid:1001000131399": 4,
+      "gas:candidate-vibid:1001000136070": 11,
+      "gas:candidate-vibid:347300170586": 9,
+      "gas:candidate-vibid:1001000290473": 1,
+      "gas:candidate-vibid:1001000112222": 4,
+      "gas:candidate-vibid:347300170542": 62,
+      "gas:candidate-vibid:1001000225949": 68,
+      "special:against-all": 8
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=473001005&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=347300171058&region=0&sub_region=0&type=429",
@@ -8022,14 +8022,14 @@ export const duma_2003_uik_428_region_47_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Водопьянов Михаил Павлович": 3,
-      "Григорьев Валерий Юрьевич": 4,
-      "Кучеров Николай Михайлович": 9,
-      "Лупеко Александр Афанасьевич": 0,
-      "Матвеев Олег Валентинович": 0,
-      "Силецкий Андрей Романович": 13,
-      "Шиманов Александр Алексеевич": 62,
-      "Против всех": 4
+      "gas:candidate-vibid:1001000131399": 3,
+      "gas:candidate-vibid:1001000136070": 4,
+      "gas:candidate-vibid:347300170586": 9,
+      "gas:candidate-vibid:1001000290473": 0,
+      "gas:candidate-vibid:1001000112222": 0,
+      "gas:candidate-vibid:347300170542": 13,
+      "gas:candidate-vibid:1001000225949": 62,
+      "special:against-all": 4
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=473001005&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=347300171058&region=0&sub_region=0&type=429",
@@ -8079,14 +8079,14 @@ export const duma_2003_uik_428_region_47_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Водопьянов Михаил Павлович": 0,
-      "Григорьев Валерий Юрьевич": 1,
-      "Кучеров Николай Михайлович": 2,
-      "Лупеко Александр Афанасьевич": 0,
-      "Матвеев Олег Валентинович": 0,
-      "Силецкий Андрей Романович": 13,
-      "Шиманов Александр Алексеевич": 34,
-      "Против всех": 3
+      "gas:candidate-vibid:1001000131399": 0,
+      "gas:candidate-vibid:1001000136070": 1,
+      "gas:candidate-vibid:347300170586": 2,
+      "gas:candidate-vibid:1001000290473": 0,
+      "gas:candidate-vibid:1001000112222": 0,
+      "gas:candidate-vibid:347300170542": 13,
+      "gas:candidate-vibid:1001000225949": 34,
+      "special:against-all": 3
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=473001005&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=347300171058&region=0&sub_region=0&type=429",
@@ -8136,14 +8136,14 @@ export const duma_2003_uik_428_region_47_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Водопьянов Михаил Павлович": 8,
-      "Григорьев Валерий Юрьевич": 2,
-      "Кучеров Николай Михайлович": 16,
-      "Лупеко Александр Афанасьевич": 3,
-      "Матвеев Олег Валентинович": 1,
-      "Силецкий Андрей Романович": 20,
-      "Шиманов Александр Алексеевич": 133,
-      "Против всех": 6
+      "gas:candidate-vibid:1001000131399": 8,
+      "gas:candidate-vibid:1001000136070": 2,
+      "gas:candidate-vibid:347300170586": 16,
+      "gas:candidate-vibid:1001000290473": 3,
+      "gas:candidate-vibid:1001000112222": 1,
+      "gas:candidate-vibid:347300170542": 20,
+      "gas:candidate-vibid:1001000225949": 133,
+      "special:against-all": 6
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=473001005&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=347300171058&region=0&sub_region=0&type=429",
@@ -8193,14 +8193,14 @@ export const duma_2003_uik_428_region_47_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Водопьянов Михаил Павлович": 13,
-      "Григорьев Валерий Юрьевич": 8,
-      "Кучеров Николай Михайлович": 4,
-      "Лупеко Александр Афанасьевич": 0,
-      "Матвеев Олег Валентинович": 0,
-      "Силецкий Андрей Романович": 9,
-      "Шиманов Александр Алексеевич": 19,
-      "Против всех": 3
+      "gas:candidate-vibid:1001000131399": 13,
+      "gas:candidate-vibid:1001000136070": 8,
+      "gas:candidate-vibid:347300170586": 4,
+      "gas:candidate-vibid:1001000290473": 0,
+      "gas:candidate-vibid:1001000112222": 0,
+      "gas:candidate-vibid:347300170542": 9,
+      "gas:candidate-vibid:1001000225949": 19,
+      "special:against-all": 3
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=473001005&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=347300171058&region=0&sub_region=0&type=429",
@@ -8250,14 +8250,14 @@ export const duma_2003_uik_428_region_47_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Водопьянов Михаил Павлович": 11,
-      "Григорьев Валерий Юрьевич": 3,
-      "Кучеров Николай Михайлович": 4,
-      "Лупеко Александр Афанасьевич": 0,
-      "Матвеев Олег Валентинович": 0,
-      "Силецкий Андрей Романович": 21,
-      "Шиманов Александр Алексеевич": 34,
-      "Против всех": 7
+      "gas:candidate-vibid:1001000131399": 11,
+      "gas:candidate-vibid:1001000136070": 3,
+      "gas:candidate-vibid:347300170586": 4,
+      "gas:candidate-vibid:1001000290473": 0,
+      "gas:candidate-vibid:1001000112222": 0,
+      "gas:candidate-vibid:347300170542": 21,
+      "gas:candidate-vibid:1001000225949": 34,
+      "special:against-all": 7
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=473001005&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=347300171058&region=0&sub_region=0&type=429",
@@ -8307,14 +8307,14 @@ export const duma_2003_uik_428_region_47_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Водопьянов Михаил Павлович": 150,
-      "Григорьев Валерий Юрьевич": 34,
-      "Кучеров Николай Михайлович": 51,
-      "Лупеко Александр Афанасьевич": 8,
-      "Матвеев Олег Валентинович": 28,
-      "Силецкий Андрей Романович": 196,
-      "Шиманов Александр Алексеевич": 198,
-      "Против всех": 134
+      "gas:candidate-vibid:1001000131399": 150,
+      "gas:candidate-vibid:1001000136070": 34,
+      "gas:candidate-vibid:347300170586": 51,
+      "gas:candidate-vibid:1001000290473": 8,
+      "gas:candidate-vibid:1001000112222": 28,
+      "gas:candidate-vibid:347300170542": 196,
+      "gas:candidate-vibid:1001000225949": 198,
+      "special:against-all": 134
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=473001006&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=347300171059&region=0&sub_region=0&type=429",
@@ -8364,14 +8364,14 @@ export const duma_2003_uik_428_region_47_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Водопьянов Михаил Павлович": 220,
-      "Григорьев Валерий Юрьевич": 41,
-      "Кучеров Николай Михайлович": 77,
-      "Лупеко Александр Афанасьевич": 6,
-      "Матвеев Олег Валентинович": 36,
-      "Силецкий Андрей Романович": 206,
-      "Шиманов Александр Алексеевич": 201,
-      "Против всех": 148
+      "gas:candidate-vibid:1001000131399": 220,
+      "gas:candidate-vibid:1001000136070": 41,
+      "gas:candidate-vibid:347300170586": 77,
+      "gas:candidate-vibid:1001000290473": 6,
+      "gas:candidate-vibid:1001000112222": 36,
+      "gas:candidate-vibid:347300170542": 206,
+      "gas:candidate-vibid:1001000225949": 201,
+      "special:against-all": 148
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=473001006&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=347300171059&region=0&sub_region=0&type=429",
@@ -8421,14 +8421,14 @@ export const duma_2003_uik_428_region_47_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Водопьянов Михаил Павлович": 203,
-      "Григорьев Валерий Юрьевич": 30,
-      "Кучеров Николай Михайлович": 60,
-      "Лупеко Александр Афанасьевич": 10,
-      "Матвеев Олег Валентинович": 24,
-      "Силецкий Андрей Романович": 233,
-      "Шиманов Александр Алексеевич": 221,
-      "Против всех": 118
+      "gas:candidate-vibid:1001000131399": 203,
+      "gas:candidate-vibid:1001000136070": 30,
+      "gas:candidate-vibid:347300170586": 60,
+      "gas:candidate-vibid:1001000290473": 10,
+      "gas:candidate-vibid:1001000112222": 24,
+      "gas:candidate-vibid:347300170542": 233,
+      "gas:candidate-vibid:1001000225949": 221,
+      "special:against-all": 118
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=473001006&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=347300171059&region=0&sub_region=0&type=429",
@@ -8478,14 +8478,14 @@ export const duma_2003_uik_428_region_47_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Водопьянов Михаил Павлович": 215,
-      "Григорьев Валерий Юрьевич": 23,
-      "Кучеров Николай Михайлович": 62,
-      "Лупеко Александр Афанасьевич": 3,
-      "Матвеев Олег Валентинович": 29,
-      "Силецкий Андрей Романович": 203,
-      "Шиманов Александр Алексеевич": 174,
-      "Против всех": 99
+      "gas:candidate-vibid:1001000131399": 215,
+      "gas:candidate-vibid:1001000136070": 23,
+      "gas:candidate-vibid:347300170586": 62,
+      "gas:candidate-vibid:1001000290473": 3,
+      "gas:candidate-vibid:1001000112222": 29,
+      "gas:candidate-vibid:347300170542": 203,
+      "gas:candidate-vibid:1001000225949": 174,
+      "special:against-all": 99
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=473001006&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=347300171059&region=0&sub_region=0&type=429",
@@ -8535,14 +8535,14 @@ export const duma_2003_uik_428_region_47_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Водопьянов Михаил Павлович": 222,
-      "Григорьев Валерий Юрьевич": 52,
-      "Кучеров Николай Михайлович": 58,
-      "Лупеко Александр Афанасьевич": 12,
-      "Матвеев Олег Валентинович": 35,
-      "Силецкий Андрей Романович": 291,
-      "Шиманов Александр Алексеевич": 219,
-      "Против всех": 184
+      "gas:candidate-vibid:1001000131399": 222,
+      "gas:candidate-vibid:1001000136070": 52,
+      "gas:candidate-vibid:347300170586": 58,
+      "gas:candidate-vibid:1001000290473": 12,
+      "gas:candidate-vibid:1001000112222": 35,
+      "gas:candidate-vibid:347300170542": 291,
+      "gas:candidate-vibid:1001000225949": 219,
+      "special:against-all": 184
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=473001006&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=347300171059&region=0&sub_region=0&type=429",
@@ -8592,14 +8592,14 @@ export const duma_2003_uik_428_region_47_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Водопьянов Михаил Павлович": 194,
-      "Григорьев Валерий Юрьевич": 35,
-      "Кучеров Николай Михайлович": 47,
-      "Лупеко Александр Афанасьевич": 8,
-      "Матвеев Олег Валентинович": 33,
-      "Силецкий Андрей Романович": 318,
-      "Шиманов Александр Алексеевич": 145,
-      "Против всех": 172
+      "gas:candidate-vibid:1001000131399": 194,
+      "gas:candidate-vibid:1001000136070": 35,
+      "gas:candidate-vibid:347300170586": 47,
+      "gas:candidate-vibid:1001000290473": 8,
+      "gas:candidate-vibid:1001000112222": 33,
+      "gas:candidate-vibid:347300170542": 318,
+      "gas:candidate-vibid:1001000225949": 145,
+      "special:against-all": 172
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=473001006&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=347300171059&region=0&sub_region=0&type=429",
@@ -8649,14 +8649,14 @@ export const duma_2003_uik_428_region_47_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Водопьянов Михаил Павлович": 210,
-      "Григорьев Валерий Юрьевич": 26,
-      "Кучеров Николай Михайлович": 34,
-      "Лупеко Александр Афанасьевич": 7,
-      "Матвеев Олег Валентинович": 24,
-      "Силецкий Андрей Романович": 185,
-      "Шиманов Александр Алексеевич": 159,
-      "Против всех": 90
+      "gas:candidate-vibid:1001000131399": 210,
+      "gas:candidate-vibid:1001000136070": 26,
+      "gas:candidate-vibid:347300170586": 34,
+      "gas:candidate-vibid:1001000290473": 7,
+      "gas:candidate-vibid:1001000112222": 24,
+      "gas:candidate-vibid:347300170542": 185,
+      "gas:candidate-vibid:1001000225949": 159,
+      "special:against-all": 90
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=473001006&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=347300171059&region=0&sub_region=0&type=429",
@@ -8706,14 +8706,14 @@ export const duma_2003_uik_428_region_47_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Водопьянов Михаил Павлович": 175,
-      "Григорьев Валерий Юрьевич": 21,
-      "Кучеров Николай Михайлович": 32,
-      "Лупеко Александр Афанасьевич": 3,
-      "Матвеев Олег Валентинович": 17,
-      "Силецкий Андрей Романович": 191,
-      "Шиманов Александр Алексеевич": 101,
-      "Против всех": 95
+      "gas:candidate-vibid:1001000131399": 175,
+      "gas:candidate-vibid:1001000136070": 21,
+      "gas:candidate-vibid:347300170586": 32,
+      "gas:candidate-vibid:1001000290473": 3,
+      "gas:candidate-vibid:1001000112222": 17,
+      "gas:candidate-vibid:347300170542": 191,
+      "gas:candidate-vibid:1001000225949": 101,
+      "special:against-all": 95
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=473001006&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=347300171059&region=0&sub_region=0&type=429",
@@ -8763,14 +8763,14 @@ export const duma_2003_uik_428_region_47_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Водопьянов Михаил Павлович": 281,
-      "Григорьев Валерий Юрьевич": 37,
-      "Кучеров Николай Михайлович": 58,
-      "Лупеко Александр Афанасьевич": 7,
-      "Матвеев Олег Валентинович": 49,
-      "Силецкий Андрей Романович": 169,
-      "Шиманов Александр Алексеевич": 298,
-      "Против всех": 193
+      "gas:candidate-vibid:1001000131399": 281,
+      "gas:candidate-vibid:1001000136070": 37,
+      "gas:candidate-vibid:347300170586": 58,
+      "gas:candidate-vibid:1001000290473": 7,
+      "gas:candidate-vibid:1001000112222": 49,
+      "gas:candidate-vibid:347300170542": 169,
+      "gas:candidate-vibid:1001000225949": 298,
+      "special:against-all": 193
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=473001006&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=347300171059&region=0&sub_region=0&type=429",
@@ -8820,14 +8820,14 @@ export const duma_2003_uik_428_region_47_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Водопьянов Михаил Павлович": 265,
-      "Григорьев Валерий Юрьевич": 49,
-      "Кучеров Николай Михайлович": 82,
-      "Лупеко Александр Афанасьевич": 9,
-      "Матвеев Олег Валентинович": 31,
-      "Силецкий Андрей Романович": 245,
-      "Шиманов Александр Алексеевич": 185,
-      "Против всех": 184
+      "gas:candidate-vibid:1001000131399": 265,
+      "gas:candidate-vibid:1001000136070": 49,
+      "gas:candidate-vibid:347300170586": 82,
+      "gas:candidate-vibid:1001000290473": 9,
+      "gas:candidate-vibid:1001000112222": 31,
+      "gas:candidate-vibid:347300170542": 245,
+      "gas:candidate-vibid:1001000225949": 185,
+      "special:against-all": 184
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=473001006&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=347300171059&region=0&sub_region=0&type=429",
@@ -8877,14 +8877,14 @@ export const duma_2003_uik_428_region_47_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Водопьянов Михаил Павлович": 272,
-      "Григорьев Валерий Юрьевич": 52,
-      "Кучеров Николай Михайлович": 77,
-      "Лупеко Александр Афанасьевич": 25,
-      "Матвеев Олег Валентинович": 40,
-      "Силецкий Андрей Романович": 249,
-      "Шиманов Александр Алексеевич": 203,
-      "Против всех": 179
+      "gas:candidate-vibid:1001000131399": 272,
+      "gas:candidate-vibid:1001000136070": 52,
+      "gas:candidate-vibid:347300170586": 77,
+      "gas:candidate-vibid:1001000290473": 25,
+      "gas:candidate-vibid:1001000112222": 40,
+      "gas:candidate-vibid:347300170542": 249,
+      "gas:candidate-vibid:1001000225949": 203,
+      "special:against-all": 179
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=473001006&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=347300171059&region=0&sub_region=0&type=429",
@@ -8934,14 +8934,14 @@ export const duma_2003_uik_428_region_47_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Водопьянов Михаил Павлович": 220,
-      "Григорьев Валерий Юрьевич": 40,
-      "Кучеров Николай Михайлович": 63,
-      "Лупеко Александр Афанасьевич": 16,
-      "Матвеев Олег Валентинович": 34,
-      "Силецкий Андрей Романович": 293,
-      "Шиманов Александр Алексеевич": 164,
-      "Против всех": 161
+      "gas:candidate-vibid:1001000131399": 220,
+      "gas:candidate-vibid:1001000136070": 40,
+      "gas:candidate-vibid:347300170586": 63,
+      "gas:candidate-vibid:1001000290473": 16,
+      "gas:candidate-vibid:1001000112222": 34,
+      "gas:candidate-vibid:347300170542": 293,
+      "gas:candidate-vibid:1001000225949": 164,
+      "special:against-all": 161
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=473001006&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=347300171059&region=0&sub_region=0&type=429",
@@ -8991,14 +8991,14 @@ export const duma_2003_uik_428_region_47_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Водопьянов Михаил Павлович": 149,
-      "Григорьев Валерий Юрьевич": 39,
-      "Кучеров Николай Михайлович": 69,
-      "Лупеко Александр Афанасьевич": 5,
-      "Матвеев Олег Валентинович": 22,
-      "Силецкий Андрей Романович": 250,
-      "Шиманов Александр Алексеевич": 173,
-      "Против всех": 132
+      "gas:candidate-vibid:1001000131399": 149,
+      "gas:candidate-vibid:1001000136070": 39,
+      "gas:candidate-vibid:347300170586": 69,
+      "gas:candidate-vibid:1001000290473": 5,
+      "gas:candidate-vibid:1001000112222": 22,
+      "gas:candidate-vibid:347300170542": 250,
+      "gas:candidate-vibid:1001000225949": 173,
+      "special:against-all": 132
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=473001006&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=347300171059&region=0&sub_region=0&type=429",
@@ -9048,14 +9048,14 @@ export const duma_2003_uik_428_region_47_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Водопьянов Михаил Павлович": 189,
-      "Григорьев Валерий Юрьевич": 49,
-      "Кучеров Николай Михайлович": 100,
-      "Лупеко Александр Афанасьевич": 16,
-      "Матвеев Олег Валентинович": 39,
-      "Силецкий Андрей Романович": 190,
-      "Шиманов Александр Алексеевич": 215,
-      "Против всех": 146
+      "gas:candidate-vibid:1001000131399": 189,
+      "gas:candidate-vibid:1001000136070": 49,
+      "gas:candidate-vibid:347300170586": 100,
+      "gas:candidate-vibid:1001000290473": 16,
+      "gas:candidate-vibid:1001000112222": 39,
+      "gas:candidate-vibid:347300170542": 190,
+      "gas:candidate-vibid:1001000225949": 215,
+      "special:against-all": 146
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=473001006&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=347300171059&region=0&sub_region=0&type=429",
@@ -9105,14 +9105,14 @@ export const duma_2003_uik_428_region_47_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Водопьянов Михаил Павлович": 197,
-      "Григорьев Валерий Юрьевич": 31,
-      "Кучеров Николай Михайлович": 50,
-      "Лупеко Александр Афанасьевич": 6,
-      "Матвеев Олег Валентинович": 28,
-      "Силецкий Андрей Романович": 310,
-      "Шиманов Александр Алексеевич": 151,
-      "Против всех": 130
+      "gas:candidate-vibid:1001000131399": 197,
+      "gas:candidate-vibid:1001000136070": 31,
+      "gas:candidate-vibid:347300170586": 50,
+      "gas:candidate-vibid:1001000290473": 6,
+      "gas:candidate-vibid:1001000112222": 28,
+      "gas:candidate-vibid:347300170542": 310,
+      "gas:candidate-vibid:1001000225949": 151,
+      "special:against-all": 130
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=473001006&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=347300171059&region=0&sub_region=0&type=429",
@@ -9162,14 +9162,14 @@ export const duma_2003_uik_428_region_47_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Водопьянов Михаил Павлович": 190,
-      "Григорьев Валерий Юрьевич": 41,
-      "Кучеров Николай Михайлович": 66,
-      "Лупеко Александр Афанасьевич": 14,
-      "Матвеев Олег Валентинович": 26,
-      "Силецкий Андрей Романович": 229,
-      "Шиманов Александр Алексеевич": 180,
-      "Против всех": 140
+      "gas:candidate-vibid:1001000131399": 190,
+      "gas:candidate-vibid:1001000136070": 41,
+      "gas:candidate-vibid:347300170586": 66,
+      "gas:candidate-vibid:1001000290473": 14,
+      "gas:candidate-vibid:1001000112222": 26,
+      "gas:candidate-vibid:347300170542": 229,
+      "gas:candidate-vibid:1001000225949": 180,
+      "special:against-all": 140
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=473001006&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=347300171059&region=0&sub_region=0&type=429",
@@ -9219,14 +9219,14 @@ export const duma_2003_uik_428_region_47_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Водопьянов Михаил Павлович": 154,
-      "Григорьев Валерий Юрьевич": 22,
-      "Кучеров Николай Михайлович": 82,
-      "Лупеко Александр Афанасьевич": 20,
-      "Матвеев Олег Валентинович": 34,
-      "Силецкий Андрей Романович": 241,
-      "Шиманов Александр Алексеевич": 179,
-      "Против всех": 141
+      "gas:candidate-vibid:1001000131399": 154,
+      "gas:candidate-vibid:1001000136070": 22,
+      "gas:candidate-vibid:347300170586": 82,
+      "gas:candidate-vibid:1001000290473": 20,
+      "gas:candidate-vibid:1001000112222": 34,
+      "gas:candidate-vibid:347300170542": 241,
+      "gas:candidate-vibid:1001000225949": 179,
+      "special:against-all": 141
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=473001006&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=347300171059&region=0&sub_region=0&type=429",
@@ -9276,14 +9276,14 @@ export const duma_2003_uik_428_region_47_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Водопьянов Михаил Павлович": 192,
-      "Григорьев Валерий Юрьевич": 48,
-      "Кучеров Николай Михайлович": 41,
-      "Лупеко Александр Афанасьевич": 6,
-      "Матвеев Олег Валентинович": 18,
-      "Силецкий Андрей Романович": 265,
-      "Шиманов Александр Алексеевич": 135,
-      "Против всех": 108
+      "gas:candidate-vibid:1001000131399": 192,
+      "gas:candidate-vibid:1001000136070": 48,
+      "gas:candidate-vibid:347300170586": 41,
+      "gas:candidate-vibid:1001000290473": 6,
+      "gas:candidate-vibid:1001000112222": 18,
+      "gas:candidate-vibid:347300170542": 265,
+      "gas:candidate-vibid:1001000225949": 135,
+      "special:against-all": 108
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=473001006&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=347300171059&region=0&sub_region=0&type=429",
@@ -9333,14 +9333,14 @@ export const duma_2003_uik_428_region_47_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Водопьянов Михаил Павлович": 197,
-      "Григорьев Валерий Юрьевич": 56,
-      "Кучеров Николай Михайлович": 44,
-      "Лупеко Александр Афанасьевич": 6,
-      "Матвеев Олег Валентинович": 43,
-      "Силецкий Андрей Романович": 233,
-      "Шиманов Александр Алексеевич": 185,
-      "Против всех": 152
+      "gas:candidate-vibid:1001000131399": 197,
+      "gas:candidate-vibid:1001000136070": 56,
+      "gas:candidate-vibid:347300170586": 44,
+      "gas:candidate-vibid:1001000290473": 6,
+      "gas:candidate-vibid:1001000112222": 43,
+      "gas:candidate-vibid:347300170542": 233,
+      "gas:candidate-vibid:1001000225949": 185,
+      "special:against-all": 152
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=473001006&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=347300171059&region=0&sub_region=0&type=429",
@@ -9390,14 +9390,14 @@ export const duma_2003_uik_428_region_47_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Водопьянов Михаил Павлович": 178,
-      "Григорьев Валерий Юрьевич": 49,
-      "Кучеров Николай Михайлович": 90,
-      "Лупеко Александр Афанасьевич": 14,
-      "Матвеев Олег Валентинович": 40,
-      "Силецкий Андрей Романович": 227,
-      "Шиманов Александр Алексеевич": 233,
-      "Против всех": 159
+      "gas:candidate-vibid:1001000131399": 178,
+      "gas:candidate-vibid:1001000136070": 49,
+      "gas:candidate-vibid:347300170586": 90,
+      "gas:candidate-vibid:1001000290473": 14,
+      "gas:candidate-vibid:1001000112222": 40,
+      "gas:candidate-vibid:347300170542": 227,
+      "gas:candidate-vibid:1001000225949": 233,
+      "special:against-all": 159
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=473001006&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=347300171059&region=0&sub_region=0&type=429",
@@ -9447,14 +9447,14 @@ export const duma_2003_uik_428_region_47_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Водопьянов Михаил Павлович": 131,
-      "Григорьев Валерий Юрьевич": 43,
-      "Кучеров Николай Михайлович": 47,
-      "Лупеко Александр Афанасьевич": 6,
-      "Матвеев Олег Валентинович": 27,
-      "Силецкий Андрей Романович": 261,
-      "Шиманов Александр Алексеевич": 160,
-      "Против всех": 144
+      "gas:candidate-vibid:1001000131399": 131,
+      "gas:candidate-vibid:1001000136070": 43,
+      "gas:candidate-vibid:347300170586": 47,
+      "gas:candidate-vibid:1001000290473": 6,
+      "gas:candidate-vibid:1001000112222": 27,
+      "gas:candidate-vibid:347300170542": 261,
+      "gas:candidate-vibid:1001000225949": 160,
+      "special:against-all": 144
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=473001006&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=347300171059&region=0&sub_region=0&type=429",
@@ -9504,14 +9504,14 @@ export const duma_2003_uik_428_region_47_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Водопьянов Михаил Павлович": 155,
-      "Григорьев Валерий Юрьевич": 59,
-      "Кучеров Николай Михайлович": 51,
-      "Лупеко Александр Афанасьевич": 5,
-      "Матвеев Олег Валентинович": 26,
-      "Силецкий Андрей Романович": 267,
-      "Шиманов Александр Алексеевич": 183,
-      "Против всех": 174
+      "gas:candidate-vibid:1001000131399": 155,
+      "gas:candidate-vibid:1001000136070": 59,
+      "gas:candidate-vibid:347300170586": 51,
+      "gas:candidate-vibid:1001000290473": 5,
+      "gas:candidate-vibid:1001000112222": 26,
+      "gas:candidate-vibid:347300170542": 267,
+      "gas:candidate-vibid:1001000225949": 183,
+      "special:against-all": 174
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=473001006&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=347300171059&region=0&sub_region=0&type=429",
@@ -9561,14 +9561,14 @@ export const duma_2003_uik_428_region_47_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Водопьянов Михаил Павлович": 187,
-      "Григорьев Валерий Юрьевич": 67,
-      "Кучеров Николай Михайлович": 64,
-      "Лупеко Александр Афанасьевич": 8,
-      "Матвеев Олег Валентинович": 34,
-      "Силецкий Андрей Романович": 286,
-      "Шиманов Александр Алексеевич": 251,
-      "Против всех": 194
+      "gas:candidate-vibid:1001000131399": 187,
+      "gas:candidate-vibid:1001000136070": 67,
+      "gas:candidate-vibid:347300170586": 64,
+      "gas:candidate-vibid:1001000290473": 8,
+      "gas:candidate-vibid:1001000112222": 34,
+      "gas:candidate-vibid:347300170542": 286,
+      "gas:candidate-vibid:1001000225949": 251,
+      "special:against-all": 194
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=473001006&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=347300171059&region=0&sub_region=0&type=429",
@@ -9618,14 +9618,14 @@ export const duma_2003_uik_428_region_47_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Водопьянов Михаил Павлович": 205,
-      "Григорьев Валерий Юрьевич": 47,
-      "Кучеров Николай Михайлович": 52,
-      "Лупеко Александр Афанасьевич": 13,
-      "Матвеев Олег Валентинович": 34,
-      "Силецкий Андрей Романович": 234,
-      "Шиманов Александр Алексеевич": 178,
-      "Против всех": 162
+      "gas:candidate-vibid:1001000131399": 205,
+      "gas:candidate-vibid:1001000136070": 47,
+      "gas:candidate-vibid:347300170586": 52,
+      "gas:candidate-vibid:1001000290473": 13,
+      "gas:candidate-vibid:1001000112222": 34,
+      "gas:candidate-vibid:347300170542": 234,
+      "gas:candidate-vibid:1001000225949": 178,
+      "special:against-all": 162
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=473001006&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=347300171059&region=0&sub_region=0&type=429",
@@ -9675,14 +9675,14 @@ export const duma_2003_uik_428_region_47_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Водопьянов Михаил Павлович": 221,
-      "Григорьев Валерий Юрьевич": 53,
-      "Кучеров Николай Михайлович": 56,
-      "Лупеко Александр Афанасьевич": 12,
-      "Матвеев Олег Валентинович": 40,
-      "Силецкий Андрей Романович": 343,
-      "Шиманов Александр Алексеевич": 198,
-      "Против всех": 178
+      "gas:candidate-vibid:1001000131399": 221,
+      "gas:candidate-vibid:1001000136070": 53,
+      "gas:candidate-vibid:347300170586": 56,
+      "gas:candidate-vibid:1001000290473": 12,
+      "gas:candidate-vibid:1001000112222": 40,
+      "gas:candidate-vibid:347300170542": 343,
+      "gas:candidate-vibid:1001000225949": 198,
+      "special:against-all": 178
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=473001006&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=347300171059&region=0&sub_region=0&type=429",
@@ -9732,14 +9732,14 @@ export const duma_2003_uik_428_region_47_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Водопьянов Михаил Павлович": 58,
-      "Григорьев Валерий Юрьевич": 12,
-      "Кучеров Николай Михайлович": 17,
-      "Лупеко Александр Афанасьевич": 0,
-      "Матвеев Олег Валентинович": 12,
-      "Силецкий Андрей Романович": 83,
-      "Шиманов Александр Алексеевич": 104,
-      "Против всех": 46
+      "gas:candidate-vibid:1001000131399": 58,
+      "gas:candidate-vibid:1001000136070": 12,
+      "gas:candidate-vibid:347300170586": 17,
+      "gas:candidate-vibid:1001000290473": 0,
+      "gas:candidate-vibid:1001000112222": 12,
+      "gas:candidate-vibid:347300170542": 83,
+      "gas:candidate-vibid:1001000225949": 104,
+      "special:against-all": 46
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=473001006&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=347300171059&region=0&sub_region=0&type=429",
@@ -9789,14 +9789,14 @@ export const duma_2003_uik_428_region_47_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Водопьянов Михаил Павлович": 98,
-      "Григорьев Валерий Юрьевич": 7,
-      "Кучеров Николай Михайлович": 40,
-      "Лупеко Александр Афанасьевич": 3,
-      "Матвеев Олег Валентинович": 14,
-      "Силецкий Андрей Романович": 96,
-      "Шиманов Александр Алексеевич": 129,
-      "Против всех": 66
+      "gas:candidate-vibid:1001000131399": 98,
+      "gas:candidate-vibid:1001000136070": 7,
+      "gas:candidate-vibid:347300170586": 40,
+      "gas:candidate-vibid:1001000290473": 3,
+      "gas:candidate-vibid:1001000112222": 14,
+      "gas:candidate-vibid:347300170542": 96,
+      "gas:candidate-vibid:1001000225949": 129,
+      "special:against-all": 66
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=473001006&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=347300171059&region=0&sub_region=0&type=429",
@@ -9846,14 +9846,14 @@ export const duma_2003_uik_428_region_47_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Водопьянов Михаил Павлович": 120,
-      "Григорьев Валерий Юрьевич": 17,
-      "Кучеров Николай Михайлович": 29,
-      "Лупеко Александр Афанасьевич": 11,
-      "Матвеев Олег Валентинович": 14,
-      "Силецкий Андрей Романович": 187,
-      "Шиманов Александр Алексеевич": 128,
-      "Против всех": 63
+      "gas:candidate-vibid:1001000131399": 120,
+      "gas:candidate-vibid:1001000136070": 17,
+      "gas:candidate-vibid:347300170586": 29,
+      "gas:candidate-vibid:1001000290473": 11,
+      "gas:candidate-vibid:1001000112222": 14,
+      "gas:candidate-vibid:347300170542": 187,
+      "gas:candidate-vibid:1001000225949": 128,
+      "special:against-all": 63
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=473001006&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=347300171059&region=0&sub_region=0&type=429",
@@ -9903,14 +9903,14 @@ export const duma_2003_uik_428_region_47_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Водопьянов Михаил Павлович": 34,
-      "Григорьев Валерий Юрьевич": 12,
-      "Кучеров Николай Михайлович": 39,
-      "Лупеко Александр Афанасьевич": 1,
-      "Матвеев Олег Валентинович": 12,
-      "Силецкий Андрей Романович": 63,
-      "Шиманов Александр Алексеевич": 99,
-      "Против всех": 29
+      "gas:candidate-vibid:1001000131399": 34,
+      "gas:candidate-vibid:1001000136070": 12,
+      "gas:candidate-vibid:347300170586": 39,
+      "gas:candidate-vibid:1001000290473": 1,
+      "gas:candidate-vibid:1001000112222": 12,
+      "gas:candidate-vibid:347300170542": 63,
+      "gas:candidate-vibid:1001000225949": 99,
+      "special:against-all": 29
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=473001006&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=347300171059&region=0&sub_region=0&type=429",
@@ -9960,14 +9960,14 @@ export const duma_2003_uik_428_region_47_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Водопьянов Михаил Павлович": 48,
-      "Григорьев Валерий Юрьевич": 10,
-      "Кучеров Николай Михайлович": 7,
-      "Лупеко Александр Афанасьевич": 1,
-      "Матвеев Олег Валентинович": 3,
-      "Силецкий Андрей Романович": 39,
-      "Шиманов Александр Алексеевич": 51,
-      "Против всех": 45
+      "gas:candidate-vibid:1001000131399": 48,
+      "gas:candidate-vibid:1001000136070": 10,
+      "gas:candidate-vibid:347300170586": 7,
+      "gas:candidate-vibid:1001000290473": 1,
+      "gas:candidate-vibid:1001000112222": 3,
+      "gas:candidate-vibid:347300170542": 39,
+      "gas:candidate-vibid:1001000225949": 51,
+      "special:against-all": 45
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=473001006&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=347300171059&region=0&sub_region=0&type=429",
@@ -10017,14 +10017,14 @@ export const duma_2003_uik_428_region_47_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Водопьянов Михаил Павлович": 14,
-      "Григорьев Валерий Юрьевич": 13,
-      "Кучеров Николай Михайлович": 1,
-      "Лупеко Александр Афанасьевич": 0,
-      "Матвеев Олег Валентинович": 9,
-      "Силецкий Андрей Романович": 116,
-      "Шиманов Александр Алексеевич": 15,
-      "Против всех": 31
+      "gas:candidate-vibid:1001000131399": 14,
+      "gas:candidate-vibid:1001000136070": 13,
+      "gas:candidate-vibid:347300170586": 1,
+      "gas:candidate-vibid:1001000290473": 0,
+      "gas:candidate-vibid:1001000112222": 9,
+      "gas:candidate-vibid:347300170542": 116,
+      "gas:candidate-vibid:1001000225949": 15,
+      "special:against-all": 31
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=473001006&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=347300171059&region=0&sub_region=0&type=429",
@@ -10074,14 +10074,14 @@ export const duma_2003_uik_428_region_47_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Водопьянов Михаил Павлович": 14,
-      "Григорьев Валерий Юрьевич": 4,
-      "Кучеров Николай Михайлович": 3,
-      "Лупеко Александр Афанасьевич": 2,
-      "Матвеев Олег Валентинович": 2,
-      "Силецкий Андрей Романович": 4,
-      "Шиманов Александр Алексеевич": 10,
-      "Против всех": 10
+      "gas:candidate-vibid:1001000131399": 14,
+      "gas:candidate-vibid:1001000136070": 4,
+      "gas:candidate-vibid:347300170586": 3,
+      "gas:candidate-vibid:1001000290473": 2,
+      "gas:candidate-vibid:1001000112222": 2,
+      "gas:candidate-vibid:347300170542": 4,
+      "gas:candidate-vibid:1001000225949": 10,
+      "special:against-all": 10
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=473001006&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=347300171059&region=0&sub_region=0&type=429",
@@ -10131,14 +10131,14 @@ export const duma_2003_uik_428_region_47_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Водопьянов Михаил Павлович": 12,
-      "Григорьев Валерий Юрьевич": 1,
-      "Кучеров Николай Михайлович": 3,
-      "Лупеко Александр Афанасьевич": 1,
-      "Матвеев Олег Валентинович": 5,
-      "Силецкий Андрей Романович": 44,
-      "Шиманов Александр Алексеевич": 10,
-      "Против всех": 4
+      "gas:candidate-vibid:1001000131399": 12,
+      "gas:candidate-vibid:1001000136070": 1,
+      "gas:candidate-vibid:347300170586": 3,
+      "gas:candidate-vibid:1001000290473": 1,
+      "gas:candidate-vibid:1001000112222": 5,
+      "gas:candidate-vibid:347300170542": 44,
+      "gas:candidate-vibid:1001000225949": 10,
+      "special:against-all": 4
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=473001006&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=347300171059&region=0&sub_region=0&type=429",
@@ -10188,14 +10188,14 @@ export const duma_2003_uik_428_region_47_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Водопьянов Михаил Павлович": 92,
-      "Григорьев Валерий Юрьевич": 14,
-      "Кучеров Николай Михайлович": 14,
-      "Лупеко Александр Афанасьевич": 2,
-      "Матвеев Олег Валентинович": 4,
-      "Силецкий Андрей Романович": 166,
-      "Шиманов Александр Алексеевич": 132,
-      "Против всех": 53
+      "gas:candidate-vibid:1001000131399": 92,
+      "gas:candidate-vibid:1001000136070": 14,
+      "gas:candidate-vibid:347300170586": 14,
+      "gas:candidate-vibid:1001000290473": 2,
+      "gas:candidate-vibid:1001000112222": 4,
+      "gas:candidate-vibid:347300170542": 166,
+      "gas:candidate-vibid:1001000225949": 132,
+      "special:against-all": 53
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=473001006&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=347300171059&region=0&sub_region=0&type=429",
@@ -10245,14 +10245,14 @@ export const duma_2003_uik_428_region_47_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Водопьянов Михаил Павлович": 86,
-      "Григорьев Валерий Юрьевич": 6,
-      "Кучеров Николай Михайлович": 13,
-      "Лупеко Александр Афанасьевич": 0,
-      "Матвеев Олег Валентинович": 3,
-      "Силецкий Андрей Романович": 54,
-      "Шиманов Александр Алексеевич": 34,
-      "Против всех": 13
+      "gas:candidate-vibid:1001000131399": 86,
+      "gas:candidate-vibid:1001000136070": 6,
+      "gas:candidate-vibid:347300170586": 13,
+      "gas:candidate-vibid:1001000290473": 0,
+      "gas:candidate-vibid:1001000112222": 3,
+      "gas:candidate-vibid:347300170542": 54,
+      "gas:candidate-vibid:1001000225949": 34,
+      "special:against-all": 13
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=473001006&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=347300171059&region=0&sub_region=0&type=429",
@@ -10302,14 +10302,14 @@ export const duma_2003_uik_428_region_47_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Водопьянов Михаил Павлович": 110,
-      "Григорьев Валерий Юрьевич": 15,
-      "Кучеров Николай Михайлович": 24,
-      "Лупеко Александр Афанасьевич": 5,
-      "Матвеев Олег Валентинович": 12,
-      "Силецкий Андрей Романович": 185,
-      "Шиманов Александр Алексеевич": 206,
-      "Против всех": 55
+      "gas:candidate-vibid:1001000131399": 110,
+      "gas:candidate-vibid:1001000136070": 15,
+      "gas:candidate-vibid:347300170586": 24,
+      "gas:candidate-vibid:1001000290473": 5,
+      "gas:candidate-vibid:1001000112222": 12,
+      "gas:candidate-vibid:347300170542": 185,
+      "gas:candidate-vibid:1001000225949": 206,
+      "special:against-all": 55
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=473001006&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=347300171059&region=0&sub_region=0&type=429",
@@ -10359,14 +10359,14 @@ export const duma_2003_uik_428_region_47_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Водопьянов Михаил Павлович": 16,
-      "Григорьев Валерий Юрьевич": 3,
-      "Кучеров Николай Михайлович": 1,
-      "Лупеко Александр Афанасьевич": 1,
-      "Матвеев Олег Валентинович": 0,
-      "Силецкий Андрей Романович": 50,
-      "Шиманов Александр Алексеевич": 49,
-      "Против всех": 14
+      "gas:candidate-vibid:1001000131399": 16,
+      "gas:candidate-vibid:1001000136070": 3,
+      "gas:candidate-vibid:347300170586": 1,
+      "gas:candidate-vibid:1001000290473": 1,
+      "gas:candidate-vibid:1001000112222": 0,
+      "gas:candidate-vibid:347300170542": 50,
+      "gas:candidate-vibid:1001000225949": 49,
+      "special:against-all": 14
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=473001006&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=347300171059&region=0&sub_region=0&type=429",
@@ -10416,14 +10416,14 @@ export const duma_2003_uik_428_region_47_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Водопьянов Михаил Павлович": 84,
-      "Григорьев Валерий Юрьевич": 9,
-      "Кучеров Николай Михайлович": 13,
-      "Лупеко Александр Афанасьевич": 0,
-      "Матвеев Олег Валентинович": 10,
-      "Силецкий Андрей Романович": 77,
-      "Шиманов Александр Алексеевич": 80,
-      "Против всех": 28
+      "gas:candidate-vibid:1001000131399": 84,
+      "gas:candidate-vibid:1001000136070": 9,
+      "gas:candidate-vibid:347300170586": 13,
+      "gas:candidate-vibid:1001000290473": 0,
+      "gas:candidate-vibid:1001000112222": 10,
+      "gas:candidate-vibid:347300170542": 77,
+      "gas:candidate-vibid:1001000225949": 80,
+      "special:against-all": 28
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=473001006&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=347300171059&region=0&sub_region=0&type=429",
@@ -10473,14 +10473,14 @@ export const duma_2003_uik_428_region_47_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Водопьянов Михаил Павлович": 59,
-      "Григорьев Валерий Юрьевич": 7,
-      "Кучеров Николай Михайлович": 9,
-      "Лупеко Александр Афанасьевич": 1,
-      "Матвеев Олег Валентинович": 4,
-      "Силецкий Андрей Романович": 85,
-      "Шиманов Александр Алексеевич": 67,
-      "Против всех": 16
+      "gas:candidate-vibid:1001000131399": 59,
+      "gas:candidate-vibid:1001000136070": 7,
+      "gas:candidate-vibid:347300170586": 9,
+      "gas:candidate-vibid:1001000290473": 1,
+      "gas:candidate-vibid:1001000112222": 4,
+      "gas:candidate-vibid:347300170542": 85,
+      "gas:candidate-vibid:1001000225949": 67,
+      "special:against-all": 16
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=473001006&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=347300171059&region=0&sub_region=0&type=429",
@@ -10530,14 +10530,14 @@ export const duma_2003_uik_428_region_47_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Водопьянов Михаил Павлович": 67,
-      "Григорьев Валерий Юрьевич": 13,
-      "Кучеров Николай Михайлович": 13,
-      "Лупеко Александр Афанасьевич": 4,
-      "Матвеев Олег Валентинович": 9,
-      "Силецкий Андрей Романович": 105,
-      "Шиманов Александр Алексеевич": 97,
-      "Против всех": 48
+      "gas:candidate-vibid:1001000131399": 67,
+      "gas:candidate-vibid:1001000136070": 13,
+      "gas:candidate-vibid:347300170586": 13,
+      "gas:candidate-vibid:1001000290473": 4,
+      "gas:candidate-vibid:1001000112222": 9,
+      "gas:candidate-vibid:347300170542": 105,
+      "gas:candidate-vibid:1001000225949": 97,
+      "special:against-all": 48
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=473001006&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=347300171059&region=0&sub_region=0&type=429",
@@ -10587,14 +10587,14 @@ export const duma_2003_uik_428_region_47_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Водопьянов Михаил Павлович": 130,
-      "Григорьев Валерий Юрьевич": 14,
-      "Кучеров Николай Михайлович": 11,
-      "Лупеко Александр Афанасьевич": 3,
-      "Матвеев Олег Валентинович": 8,
-      "Силецкий Андрей Романович": 250,
-      "Шиманов Александр Алексеевич": 136,
-      "Против всех": 64
+      "gas:candidate-vibid:1001000131399": 130,
+      "gas:candidate-vibid:1001000136070": 14,
+      "gas:candidate-vibid:347300170586": 11,
+      "gas:candidate-vibid:1001000290473": 3,
+      "gas:candidate-vibid:1001000112222": 8,
+      "gas:candidate-vibid:347300170542": 250,
+      "gas:candidate-vibid:1001000225949": 136,
+      "special:against-all": 64
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=473001006&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=347300171059&region=0&sub_region=0&type=429",
@@ -10644,14 +10644,14 @@ export const duma_2003_uik_428_region_47_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Водопьянов Михаил Павлович": 42,
-      "Григорьев Валерий Юрьевич": 21,
-      "Кучеров Николай Михайлович": 10,
-      "Лупеко Александр Афанасьевич": 3,
-      "Матвеев Олег Валентинович": 12,
-      "Силецкий Андрей Романович": 90,
-      "Шиманов Александр Алексеевич": 78,
-      "Против всех": 38
+      "gas:candidate-vibid:1001000131399": 42,
+      "gas:candidate-vibid:1001000136070": 21,
+      "gas:candidate-vibid:347300170586": 10,
+      "gas:candidate-vibid:1001000290473": 3,
+      "gas:candidate-vibid:1001000112222": 12,
+      "gas:candidate-vibid:347300170542": 90,
+      "gas:candidate-vibid:1001000225949": 78,
+      "special:against-all": 38
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=473001006&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=347300171059&region=0&sub_region=0&type=429",
@@ -10701,14 +10701,14 @@ export const duma_2003_uik_428_region_47_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Водопьянов Михаил Павлович": 11,
-      "Григорьев Валерий Юрьевич": 3,
-      "Кучеров Николай Михайлович": 4,
-      "Лупеко Александр Афанасьевич": 4,
-      "Матвеев Олег Валентинович": 1,
-      "Силецкий Андрей Романович": 20,
-      "Шиманов Александр Алексеевич": 23,
-      "Против всех": 3
+      "gas:candidate-vibid:1001000131399": 11,
+      "gas:candidate-vibid:1001000136070": 3,
+      "gas:candidate-vibid:347300170586": 4,
+      "gas:candidate-vibid:1001000290473": 4,
+      "gas:candidate-vibid:1001000112222": 1,
+      "gas:candidate-vibid:347300170542": 20,
+      "gas:candidate-vibid:1001000225949": 23,
+      "special:against-all": 3
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=473001006&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=347300171059&region=0&sub_region=0&type=429",
@@ -10758,14 +10758,14 @@ export const duma_2003_uik_428_region_47_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Водопьянов Михаил Павлович": 47,
-      "Григорьев Валерий Юрьевич": 2,
-      "Кучеров Николай Михайлович": 13,
-      "Лупеко Александр Афанасьевич": 2,
-      "Матвеев Олег Валентинович": 4,
-      "Силецкий Андрей Романович": 88,
-      "Шиманов Александр Алексеевич": 33,
-      "Против всех": 23
+      "gas:candidate-vibid:1001000131399": 47,
+      "gas:candidate-vibid:1001000136070": 2,
+      "gas:candidate-vibid:347300170586": 13,
+      "gas:candidate-vibid:1001000290473": 2,
+      "gas:candidate-vibid:1001000112222": 4,
+      "gas:candidate-vibid:347300170542": 88,
+      "gas:candidate-vibid:1001000225949": 33,
+      "special:against-all": 23
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=473001006&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=347300171059&region=0&sub_region=0&type=429",
@@ -10815,14 +10815,14 @@ export const duma_2003_uik_428_region_47_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Водопьянов Михаил Павлович": 33,
-      "Григорьев Валерий Юрьевич": 3,
-      "Кучеров Николай Михайлович": 0,
-      "Лупеко Александр Афанасьевич": 1,
-      "Матвеев Олег Валентинович": 3,
-      "Силецкий Андрей Романович": 61,
-      "Шиманов Александр Алексеевич": 16,
-      "Против всех": 5
+      "gas:candidate-vibid:1001000131399": 33,
+      "gas:candidate-vibid:1001000136070": 3,
+      "gas:candidate-vibid:347300170586": 0,
+      "gas:candidate-vibid:1001000290473": 1,
+      "gas:candidate-vibid:1001000112222": 3,
+      "gas:candidate-vibid:347300170542": 61,
+      "gas:candidate-vibid:1001000225949": 16,
+      "special:against-all": 5
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=473001006&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=347300171059&region=0&sub_region=0&type=429",
@@ -10872,14 +10872,14 @@ export const duma_2003_uik_428_region_47_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Водопьянов Михаил Павлович": 129,
-      "Григорьев Валерий Юрьевич": 10,
-      "Кучеров Николай Михайлович": 18,
-      "Лупеко Александр Афанасьевич": 1,
-      "Матвеев Олег Валентинович": 5,
-      "Силецкий Андрей Романович": 120,
-      "Шиманов Александр Алексеевич": 55,
-      "Против всех": 31
+      "gas:candidate-vibid:1001000131399": 129,
+      "gas:candidate-vibid:1001000136070": 10,
+      "gas:candidate-vibid:347300170586": 18,
+      "gas:candidate-vibid:1001000290473": 1,
+      "gas:candidate-vibid:1001000112222": 5,
+      "gas:candidate-vibid:347300170542": 120,
+      "gas:candidate-vibid:1001000225949": 55,
+      "special:against-all": 31
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=473001006&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=347300171059&region=0&sub_region=0&type=429",
@@ -10929,14 +10929,14 @@ export const duma_2003_uik_428_region_47_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Водопьянов Михаил Павлович": 93,
-      "Григорьев Валерий Юрьевич": 14,
-      "Кучеров Николай Михайлович": 35,
-      "Лупеко Александр Афанасьевич": 5,
-      "Матвеев Олег Валентинович": 9,
-      "Силецкий Андрей Романович": 64,
-      "Шиманов Александр Алексеевич": 52,
-      "Против всех": 36
+      "gas:candidate-vibid:1001000131399": 93,
+      "gas:candidate-vibid:1001000136070": 14,
+      "gas:candidate-vibid:347300170586": 35,
+      "gas:candidate-vibid:1001000290473": 5,
+      "gas:candidate-vibid:1001000112222": 9,
+      "gas:candidate-vibid:347300170542": 64,
+      "gas:candidate-vibid:1001000225949": 52,
+      "special:against-all": 36
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=473001006&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=347300171059&region=0&sub_region=0&type=429",
@@ -10986,14 +10986,14 @@ export const duma_2003_uik_428_region_47_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Водопьянов Михаил Павлович": 215,
-      "Григорьев Валерий Юрьевич": 8,
-      "Кучеров Николай Михайлович": 33,
-      "Лупеко Александр Афанасьевич": 1,
-      "Матвеев Олег Валентинович": 11,
-      "Силецкий Андрей Романович": 170,
-      "Шиманов Александр Алексеевич": 101,
-      "Против всех": 44
+      "gas:candidate-vibid:1001000131399": 215,
+      "gas:candidate-vibid:1001000136070": 8,
+      "gas:candidate-vibid:347300170586": 33,
+      "gas:candidate-vibid:1001000290473": 1,
+      "gas:candidate-vibid:1001000112222": 11,
+      "gas:candidate-vibid:347300170542": 170,
+      "gas:candidate-vibid:1001000225949": 101,
+      "special:against-all": 44
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=473001006&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=347300171059&region=0&sub_region=0&type=429",
@@ -11043,14 +11043,14 @@ export const duma_2003_uik_428_region_47_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Водопьянов Михаил Павлович": 168,
-      "Григорьев Валерий Юрьевич": 18,
-      "Кучеров Николай Михайлович": 57,
-      "Лупеко Александр Афанасьевич": 4,
-      "Матвеев Олег Валентинович": 10,
-      "Силецкий Андрей Романович": 137,
-      "Шиманов Александр Алексеевич": 142,
-      "Против всех": 41
+      "gas:candidate-vibid:1001000131399": 168,
+      "gas:candidate-vibid:1001000136070": 18,
+      "gas:candidate-vibid:347300170586": 57,
+      "gas:candidate-vibid:1001000290473": 4,
+      "gas:candidate-vibid:1001000112222": 10,
+      "gas:candidate-vibid:347300170542": 137,
+      "gas:candidate-vibid:1001000225949": 142,
+      "special:against-all": 41
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=473001006&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=347300171059&region=0&sub_region=0&type=429",
@@ -11100,14 +11100,14 @@ export const duma_2003_uik_428_region_47_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Водопьянов Михаил Павлович": 66,
-      "Григорьев Валерий Юрьевич": 5,
-      "Кучеров Николай Михайлович": 9,
-      "Лупеко Александр Афанасьевич": 1,
-      "Матвеев Олег Валентинович": 3,
-      "Силецкий Андрей Романович": 34,
-      "Шиманов Александр Алексеевич": 56,
-      "Против всех": 8
+      "gas:candidate-vibid:1001000131399": 66,
+      "gas:candidate-vibid:1001000136070": 5,
+      "gas:candidate-vibid:347300170586": 9,
+      "gas:candidate-vibid:1001000290473": 1,
+      "gas:candidate-vibid:1001000112222": 3,
+      "gas:candidate-vibid:347300170542": 34,
+      "gas:candidate-vibid:1001000225949": 56,
+      "special:against-all": 8
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=473001006&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=347300171059&region=0&sub_region=0&type=429",
@@ -11157,14 +11157,14 @@ export const duma_2003_uik_428_region_47_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Водопьянов Михаил Павлович": 106,
-      "Григорьев Валерий Юрьевич": 8,
-      "Кучеров Николай Михайлович": 5,
-      "Лупеко Александр Афанасьевич": 5,
-      "Матвеев Олег Валентинович": 4,
-      "Силецкий Андрей Романович": 87,
-      "Шиманов Александр Алексеевич": 92,
-      "Против всех": 20
+      "gas:candidate-vibid:1001000131399": 106,
+      "gas:candidate-vibid:1001000136070": 8,
+      "gas:candidate-vibid:347300170586": 5,
+      "gas:candidate-vibid:1001000290473": 5,
+      "gas:candidate-vibid:1001000112222": 4,
+      "gas:candidate-vibid:347300170542": 87,
+      "gas:candidate-vibid:1001000225949": 92,
+      "special:against-all": 20
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=473001006&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=347300171059&region=0&sub_region=0&type=429",
@@ -11214,14 +11214,14 @@ export const duma_2003_uik_428_region_47_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Водопьянов Михаил Павлович": 14,
-      "Григорьев Валерий Юрьевич": 1,
-      "Кучеров Николай Михайлович": 8,
-      "Лупеко Александр Афанасьевич": 1,
-      "Матвеев Олег Валентинович": 0,
-      "Силецкий Андрей Романович": 14,
-      "Шиманов Александр Алексеевич": 27,
-      "Против всех": 4
+      "gas:candidate-vibid:1001000131399": 14,
+      "gas:candidate-vibid:1001000136070": 1,
+      "gas:candidate-vibid:347300170586": 8,
+      "gas:candidate-vibid:1001000290473": 1,
+      "gas:candidate-vibid:1001000112222": 0,
+      "gas:candidate-vibid:347300170542": 14,
+      "gas:candidate-vibid:1001000225949": 27,
+      "special:against-all": 4
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=473001006&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=347300171059&region=0&sub_region=0&type=429",
@@ -11271,14 +11271,14 @@ export const duma_2003_uik_428_region_47_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Водопьянов Михаил Павлович": 66,
-      "Григорьев Валерий Юрьевич": 78,
-      "Кучеров Николай Михайлович": 73,
-      "Лупеко Александр Афанасьевич": 24,
-      "Матвеев Олег Валентинович": 45,
-      "Силецкий Андрей Романович": 272,
-      "Шиманов Александр Алексеевич": 203,
-      "Против всех": 149
+      "gas:candidate-vibid:1001000131399": 66,
+      "gas:candidate-vibid:1001000136070": 78,
+      "gas:candidate-vibid:347300170586": 73,
+      "gas:candidate-vibid:1001000290473": 24,
+      "gas:candidate-vibid:1001000112222": 45,
+      "gas:candidate-vibid:347300170542": 272,
+      "gas:candidate-vibid:1001000225949": 203,
+      "special:against-all": 149
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=473001007&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=347300171060&region=0&sub_region=0&type=429",
@@ -11328,14 +11328,14 @@ export const duma_2003_uik_428_region_47_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Водопьянов Михаил Павлович": 69,
-      "Григорьев Валерий Юрьевич": 82,
-      "Кучеров Николай Михайлович": 148,
-      "Лупеко Александр Афанасьевич": 43,
-      "Матвеев Олег Валентинович": 44,
-      "Силецкий Андрей Романович": 212,
-      "Шиманов Александр Алексеевич": 288,
-      "Против всех": 223
+      "gas:candidate-vibid:1001000131399": 69,
+      "gas:candidate-vibid:1001000136070": 82,
+      "gas:candidate-vibid:347300170586": 148,
+      "gas:candidate-vibid:1001000290473": 43,
+      "gas:candidate-vibid:1001000112222": 44,
+      "gas:candidate-vibid:347300170542": 212,
+      "gas:candidate-vibid:1001000225949": 288,
+      "special:against-all": 223
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=473001007&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=347300171060&region=0&sub_region=0&type=429",
@@ -11385,14 +11385,14 @@ export const duma_2003_uik_428_region_47_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Водопьянов Михаил Павлович": 109,
-      "Григорьев Валерий Юрьевич": 90,
-      "Кучеров Николай Михайлович": 109,
-      "Лупеко Александр Афанасьевич": 22,
-      "Матвеев Олег Валентинович": 54,
-      "Силецкий Андрей Романович": 144,
-      "Шиманов Александр Алексеевич": 308,
-      "Против всех": 230
+      "gas:candidate-vibid:1001000131399": 109,
+      "gas:candidate-vibid:1001000136070": 90,
+      "gas:candidate-vibid:347300170586": 109,
+      "gas:candidate-vibid:1001000290473": 22,
+      "gas:candidate-vibid:1001000112222": 54,
+      "gas:candidate-vibid:347300170542": 144,
+      "gas:candidate-vibid:1001000225949": 308,
+      "special:against-all": 230
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=473001007&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=347300171060&region=0&sub_region=0&type=429",
@@ -11442,14 +11442,14 @@ export const duma_2003_uik_428_region_47_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Водопьянов Михаил Павлович": 16,
-      "Григорьев Валерий Юрьевич": 15,
-      "Кучеров Николай Михайлович": 14,
-      "Лупеко Александр Афанасьевич": 2,
-      "Матвеев Олег Валентинович": 7,
-      "Силецкий Андрей Романович": 52,
-      "Шиманов Александр Алексеевич": 104,
-      "Против всех": 18
+      "gas:candidate-vibid:1001000131399": 16,
+      "gas:candidate-vibid:1001000136070": 15,
+      "gas:candidate-vibid:347300170586": 14,
+      "gas:candidate-vibid:1001000290473": 2,
+      "gas:candidate-vibid:1001000112222": 7,
+      "gas:candidate-vibid:347300170542": 52,
+      "gas:candidate-vibid:1001000225949": 104,
+      "special:against-all": 18
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=473001007&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=347300171060&region=0&sub_region=0&type=429",
@@ -11499,14 +11499,14 @@ export const duma_2003_uik_428_region_47_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Водопьянов Михаил Павлович": 100,
-      "Григорьев Валерий Юрьевич": 77,
-      "Кучеров Николай Михайлович": 76,
-      "Лупеко Александр Афанасьевич": 42,
-      "Матвеев Олег Валентинович": 46,
-      "Силецкий Андрей Романович": 114,
-      "Шиманов Александр Алексеевич": 337,
-      "Против всех": 156
+      "gas:candidate-vibid:1001000131399": 100,
+      "gas:candidate-vibid:1001000136070": 77,
+      "gas:candidate-vibid:347300170586": 76,
+      "gas:candidate-vibid:1001000290473": 42,
+      "gas:candidate-vibid:1001000112222": 46,
+      "gas:candidate-vibid:347300170542": 114,
+      "gas:candidate-vibid:1001000225949": 337,
+      "special:against-all": 156
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=473001007&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=347300171060&region=0&sub_region=0&type=429",
@@ -11556,14 +11556,14 @@ export const duma_2003_uik_428_region_47_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Водопьянов Михаил Павлович": 21,
-      "Григорьев Валерий Юрьевич": 22,
-      "Кучеров Николай Михайлович": 17,
-      "Лупеко Александр Афанасьевич": 6,
-      "Матвеев Олег Валентинович": 16,
-      "Силецкий Андрей Романович": 57,
-      "Шиманов Александр Алексеевич": 125,
-      "Против всех": 40
+      "gas:candidate-vibid:1001000131399": 21,
+      "gas:candidate-vibid:1001000136070": 22,
+      "gas:candidate-vibid:347300170586": 17,
+      "gas:candidate-vibid:1001000290473": 6,
+      "gas:candidate-vibid:1001000112222": 16,
+      "gas:candidate-vibid:347300170542": 57,
+      "gas:candidate-vibid:1001000225949": 125,
+      "special:against-all": 40
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=473001007&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=347300171060&region=0&sub_region=0&type=429",
@@ -11613,14 +11613,14 @@ export const duma_2003_uik_428_region_47_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Водопьянов Михаил Павлович": 66,
-      "Григорьев Валерий Юрьевич": 39,
-      "Кучеров Николай Михайлович": 67,
-      "Лупеко Александр Афанасьевич": 25,
-      "Матвеев Олег Валентинович": 29,
-      "Силецкий Андрей Романович": 136,
-      "Шиманов Александр Алексеевич": 212,
-      "Против всех": 125
+      "gas:candidate-vibid:1001000131399": 66,
+      "gas:candidate-vibid:1001000136070": 39,
+      "gas:candidate-vibid:347300170586": 67,
+      "gas:candidate-vibid:1001000290473": 25,
+      "gas:candidate-vibid:1001000112222": 29,
+      "gas:candidate-vibid:347300170542": 136,
+      "gas:candidate-vibid:1001000225949": 212,
+      "special:against-all": 125
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=473001007&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=347300171060&region=0&sub_region=0&type=429",
@@ -11670,14 +11670,14 @@ export const duma_2003_uik_428_region_47_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Водопьянов Михаил Павлович": 51,
-      "Григорьев Валерий Юрьевич": 40,
-      "Кучеров Николай Михайлович": 52,
-      "Лупеко Александр Афанасьевич": 14,
-      "Матвеев Олег Валентинович": 17,
-      "Силецкий Андрей Романович": 71,
-      "Шиманов Александр Алексеевич": 189,
-      "Против всех": 89
+      "gas:candidate-vibid:1001000131399": 51,
+      "gas:candidate-vibid:1001000136070": 40,
+      "gas:candidate-vibid:347300170586": 52,
+      "gas:candidate-vibid:1001000290473": 14,
+      "gas:candidate-vibid:1001000112222": 17,
+      "gas:candidate-vibid:347300170542": 71,
+      "gas:candidate-vibid:1001000225949": 189,
+      "special:against-all": 89
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=473001007&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=347300171060&region=0&sub_region=0&type=429",
@@ -11727,14 +11727,14 @@ export const duma_2003_uik_428_region_47_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Водопьянов Михаил Павлович": 116,
-      "Григорьев Валерий Юрьевич": 93,
-      "Кучеров Николай Михайлович": 100,
-      "Лупеко Александр Афанасьевич": 33,
-      "Матвеев Олег Валентинович": 45,
-      "Силецкий Андрей Романович": 189,
-      "Шиманов Александр Алексеевич": 344,
-      "Против всех": 262
+      "gas:candidate-vibid:1001000131399": 116,
+      "gas:candidate-vibid:1001000136070": 93,
+      "gas:candidate-vibid:347300170586": 100,
+      "gas:candidate-vibid:1001000290473": 33,
+      "gas:candidate-vibid:1001000112222": 45,
+      "gas:candidate-vibid:347300170542": 189,
+      "gas:candidate-vibid:1001000225949": 344,
+      "special:against-all": 262
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=473001007&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=347300171060&region=0&sub_region=0&type=429",
@@ -11784,14 +11784,14 @@ export const duma_2003_uik_428_region_47_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Водопьянов Михаил Павлович": 109,
-      "Григорьев Валерий Юрьевич": 81,
-      "Кучеров Николай Михайлович": 115,
-      "Лупеко Александр Афанасьевич": 33,
-      "Матвеев Олег Валентинович": 52,
-      "Силецкий Андрей Романович": 177,
-      "Шиманов Александр Алексеевич": 403,
-      "Против всех": 225
+      "gas:candidate-vibid:1001000131399": 109,
+      "gas:candidate-vibid:1001000136070": 81,
+      "gas:candidate-vibid:347300170586": 115,
+      "gas:candidate-vibid:1001000290473": 33,
+      "gas:candidate-vibid:1001000112222": 52,
+      "gas:candidate-vibid:347300170542": 177,
+      "gas:candidate-vibid:1001000225949": 403,
+      "special:against-all": 225
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=473001007&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=347300171060&region=0&sub_region=0&type=429",
@@ -11841,14 +11841,14 @@ export const duma_2003_uik_428_region_47_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Водопьянов Михаил Павлович": 76,
-      "Григорьев Валерий Юрьевич": 91,
-      "Кучеров Николай Михайлович": 112,
-      "Лупеко Александр Афанасьевич": 41,
-      "Матвеев Олег Валентинович": 48,
-      "Силецкий Андрей Романович": 209,
-      "Шиманов Александр Алексеевич": 371,
-      "Против всех": 220
+      "gas:candidate-vibid:1001000131399": 76,
+      "gas:candidate-vibid:1001000136070": 91,
+      "gas:candidate-vibid:347300170586": 112,
+      "gas:candidate-vibid:1001000290473": 41,
+      "gas:candidate-vibid:1001000112222": 48,
+      "gas:candidate-vibid:347300170542": 209,
+      "gas:candidate-vibid:1001000225949": 371,
+      "special:against-all": 220
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=473001007&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=347300171060&region=0&sub_region=0&type=429",
@@ -11898,14 +11898,14 @@ export const duma_2003_uik_428_region_47_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Водопьянов Михаил Павлович": 66,
-      "Григорьев Валерий Юрьевич": 70,
-      "Кучеров Николай Михайлович": 87,
-      "Лупеко Александр Афанасьевич": 28,
-      "Матвеев Олег Валентинович": 41,
-      "Силецкий Андрей Романович": 205,
-      "Шиманов Александр Алексеевич": 267,
-      "Против всех": 193
+      "gas:candidate-vibid:1001000131399": 66,
+      "gas:candidate-vibid:1001000136070": 70,
+      "gas:candidate-vibid:347300170586": 87,
+      "gas:candidate-vibid:1001000290473": 28,
+      "gas:candidate-vibid:1001000112222": 41,
+      "gas:candidate-vibid:347300170542": 205,
+      "gas:candidate-vibid:1001000225949": 267,
+      "special:against-all": 193
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=473001007&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=347300171060&region=0&sub_region=0&type=429",
@@ -11955,14 +11955,14 @@ export const duma_2003_uik_428_region_47_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Водопьянов Михаил Павлович": 76,
-      "Григорьев Валерий Юрьевич": 101,
-      "Кучеров Николай Михайлович": 144,
-      "Лупеко Александр Афанасьевич": 41,
-      "Матвеев Олег Валентинович": 54,
-      "Силецкий Андрей Романович": 188,
-      "Шиманов Александр Алексеевич": 327,
-      "Против всех": 257
+      "gas:candidate-vibid:1001000131399": 76,
+      "gas:candidate-vibid:1001000136070": 101,
+      "gas:candidate-vibid:347300170586": 144,
+      "gas:candidate-vibid:1001000290473": 41,
+      "gas:candidate-vibid:1001000112222": 54,
+      "gas:candidate-vibid:347300170542": 188,
+      "gas:candidate-vibid:1001000225949": 327,
+      "special:against-all": 257
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=473001007&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=347300171060&region=0&sub_region=0&type=429",
@@ -12012,14 +12012,14 @@ export const duma_2003_uik_428_region_47_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Водопьянов Михаил Павлович": 77,
-      "Григорьев Валерий Юрьевич": 71,
-      "Кучеров Николай Михайлович": 83,
-      "Лупеко Александр Афанасьевич": 49,
-      "Матвеев Олег Валентинович": 35,
-      "Силецкий Андрей Романович": 197,
-      "Шиманов Александр Алексеевич": 247,
-      "Против всех": 210
+      "gas:candidate-vibid:1001000131399": 77,
+      "gas:candidate-vibid:1001000136070": 71,
+      "gas:candidate-vibid:347300170586": 83,
+      "gas:candidate-vibid:1001000290473": 49,
+      "gas:candidate-vibid:1001000112222": 35,
+      "gas:candidate-vibid:347300170542": 197,
+      "gas:candidate-vibid:1001000225949": 247,
+      "special:against-all": 210
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=473001007&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=347300171060&region=0&sub_region=0&type=429",
@@ -12069,14 +12069,14 @@ export const duma_2003_uik_428_region_47_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Водопьянов Михаил Павлович": 26,
-      "Григорьев Валерий Юрьевич": 20,
-      "Кучеров Николай Михайлович": 22,
-      "Лупеко Александр Афанасьевич": 6,
-      "Матвеев Олег Валентинович": 8,
-      "Силецкий Андрей Романович": 125,
-      "Шиманов Александр Алексеевич": 105,
-      "Против всех": 52
+      "gas:candidate-vibid:1001000131399": 26,
+      "gas:candidate-vibid:1001000136070": 20,
+      "gas:candidate-vibid:347300170586": 22,
+      "gas:candidate-vibid:1001000290473": 6,
+      "gas:candidate-vibid:1001000112222": 8,
+      "gas:candidate-vibid:347300170542": 125,
+      "gas:candidate-vibid:1001000225949": 105,
+      "special:against-all": 52
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=473001007&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=347300171060&region=0&sub_region=0&type=429",
@@ -12126,14 +12126,14 @@ export const duma_2003_uik_428_region_47_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Водопьянов Михаил Павлович": 38,
-      "Григорьев Валерий Юрьевич": 16,
-      "Кучеров Николай Михайлович": 20,
-      "Лупеко Александр Афанасьевич": 5,
-      "Матвеев Олег Валентинович": 14,
-      "Силецкий Андрей Романович": 89,
-      "Шиманов Александр Алексеевич": 147,
-      "Против всех": 52
+      "gas:candidate-vibid:1001000131399": 38,
+      "gas:candidate-vibid:1001000136070": 16,
+      "gas:candidate-vibid:347300170586": 20,
+      "gas:candidate-vibid:1001000290473": 5,
+      "gas:candidate-vibid:1001000112222": 14,
+      "gas:candidate-vibid:347300170542": 89,
+      "gas:candidate-vibid:1001000225949": 147,
+      "special:against-all": 52
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=473001007&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=347300171060&region=0&sub_region=0&type=429",
@@ -12183,14 +12183,14 @@ export const duma_2003_uik_428_region_47_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Водопьянов Михаил Павлович": 13,
-      "Григорьев Валерий Юрьевич": 15,
-      "Кучеров Николай Михайлович": 21,
-      "Лупеко Александр Афанасьевич": 7,
-      "Матвеев Олег Валентинович": 8,
-      "Силецкий Андрей Романович": 92,
-      "Шиманов Александр Алексеевич": 102,
-      "Против всех": 27
+      "gas:candidate-vibid:1001000131399": 13,
+      "gas:candidate-vibid:1001000136070": 15,
+      "gas:candidate-vibid:347300170586": 21,
+      "gas:candidate-vibid:1001000290473": 7,
+      "gas:candidate-vibid:1001000112222": 8,
+      "gas:candidate-vibid:347300170542": 92,
+      "gas:candidate-vibid:1001000225949": 102,
+      "special:against-all": 27
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=473001007&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=347300171060&region=0&sub_region=0&type=429",
@@ -12240,14 +12240,14 @@ export const duma_2003_uik_428_region_47_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Водопьянов Михаил Павлович": 32,
-      "Григорьев Валерий Юрьевич": 13,
-      "Кучеров Николай Михайлович": 23,
-      "Лупеко Александр Афанасьевич": 12,
-      "Матвеев Олег Валентинович": 11,
-      "Силецкий Андрей Романович": 94,
-      "Шиманов Александр Алексеевич": 169,
-      "Против всех": 50
+      "gas:candidate-vibid:1001000131399": 32,
+      "gas:candidate-vibid:1001000136070": 13,
+      "gas:candidate-vibid:347300170586": 23,
+      "gas:candidate-vibid:1001000290473": 12,
+      "gas:candidate-vibid:1001000112222": 11,
+      "gas:candidate-vibid:347300170542": 94,
+      "gas:candidate-vibid:1001000225949": 169,
+      "special:against-all": 50
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=473001007&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=347300171060&region=0&sub_region=0&type=429",
@@ -12297,14 +12297,14 @@ export const duma_2003_uik_428_region_47_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Водопьянов Михаил Павлович": 117,
-      "Григорьев Валерий Юрьевич": 85,
-      "Кучеров Николай Михайлович": 66,
-      "Лупеко Александр Афанасьевич": 41,
-      "Матвеев Олег Валентинович": 55,
-      "Силецкий Андрей Романович": 138,
-      "Шиманов Александр Алексеевич": 399,
-      "Против всех": 258
+      "gas:candidate-vibid:1001000131399": 117,
+      "gas:candidate-vibid:1001000136070": 85,
+      "gas:candidate-vibid:347300170586": 66,
+      "gas:candidate-vibid:1001000290473": 41,
+      "gas:candidate-vibid:1001000112222": 55,
+      "gas:candidate-vibid:347300170542": 138,
+      "gas:candidate-vibid:1001000225949": 399,
+      "special:against-all": 258
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=473001007&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=347300171060&region=0&sub_region=0&type=429",
@@ -12354,14 +12354,14 @@ export const duma_2003_uik_428_region_47_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Водопьянов Михаил Павлович": 59,
-      "Григорьев Валерий Юрьевич": 56,
-      "Кучеров Николай Михайлович": 114,
-      "Лупеко Александр Афанасьевич": 27,
-      "Матвеев Олег Валентинович": 40,
-      "Силецкий Андрей Романович": 171,
-      "Шиманов Александр Алексеевич": 388,
-      "Против всех": 144
+      "gas:candidate-vibid:1001000131399": 59,
+      "gas:candidate-vibid:1001000136070": 56,
+      "gas:candidate-vibid:347300170586": 114,
+      "gas:candidate-vibid:1001000290473": 27,
+      "gas:candidate-vibid:1001000112222": 40,
+      "gas:candidate-vibid:347300170542": 171,
+      "gas:candidate-vibid:1001000225949": 388,
+      "special:against-all": 144
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=473001007&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=347300171060&region=0&sub_region=0&type=429",
@@ -12411,14 +12411,14 @@ export const duma_2003_uik_428_region_47_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Водопьянов Михаил Павлович": 44,
-      "Григорьев Валерий Юрьевич": 40,
-      "Кучеров Николай Михайлович": 39,
-      "Лупеко Александр Афанасьевич": 16,
-      "Матвеев Олег Валентинович": 25,
-      "Силецкий Андрей Романович": 47,
-      "Шиманов Александр Алексеевич": 228,
-      "Против всех": 126
+      "gas:candidate-vibid:1001000131399": 44,
+      "gas:candidate-vibid:1001000136070": 40,
+      "gas:candidate-vibid:347300170586": 39,
+      "gas:candidate-vibid:1001000290473": 16,
+      "gas:candidate-vibid:1001000112222": 25,
+      "gas:candidate-vibid:347300170542": 47,
+      "gas:candidate-vibid:1001000225949": 228,
+      "special:against-all": 126
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=473001007&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=347300171060&region=0&sub_region=0&type=429",
@@ -12468,14 +12468,14 @@ export const duma_2003_uik_428_region_47_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Водопьянов Михаил Павлович": 78,
-      "Григорьев Валерий Юрьевич": 46,
-      "Кучеров Николай Михайлович": 78,
-      "Лупеко Александр Афанасьевич": 28,
-      "Матвеев Олег Валентинович": 36,
-      "Силецкий Андрей Романович": 117,
-      "Шиманов Александр Алексеевич": 250,
-      "Против всех": 169
+      "gas:candidate-vibid:1001000131399": 78,
+      "gas:candidate-vibid:1001000136070": 46,
+      "gas:candidate-vibid:347300170586": 78,
+      "gas:candidate-vibid:1001000290473": 28,
+      "gas:candidate-vibid:1001000112222": 36,
+      "gas:candidate-vibid:347300170542": 117,
+      "gas:candidate-vibid:1001000225949": 250,
+      "special:against-all": 169
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=473001007&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=347300171060&region=0&sub_region=0&type=429",
@@ -12525,14 +12525,14 @@ export const duma_2003_uik_428_region_47_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Водопьянов Михаил Павлович": 99,
-      "Григорьев Валерий Юрьевич": 73,
-      "Кучеров Николай Михайлович": 51,
-      "Лупеко Александр Афанасьевич": 22,
-      "Матвеев Олег Валентинович": 50,
-      "Силецкий Андрей Романович": 132,
-      "Шиманов Александр Алексеевич": 360,
-      "Против всех": 201
+      "gas:candidate-vibid:1001000131399": 99,
+      "gas:candidate-vibid:1001000136070": 73,
+      "gas:candidate-vibid:347300170586": 51,
+      "gas:candidate-vibid:1001000290473": 22,
+      "gas:candidate-vibid:1001000112222": 50,
+      "gas:candidate-vibid:347300170542": 132,
+      "gas:candidate-vibid:1001000225949": 360,
+      "special:against-all": 201
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=473001007&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=347300171060&region=0&sub_region=0&type=429",
@@ -12582,14 +12582,14 @@ export const duma_2003_uik_428_region_47_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Водопьянов Михаил Павлович": 52,
-      "Григорьев Валерий Юрьевич": 17,
-      "Кучеров Николай Михайлович": 17,
-      "Лупеко Александр Афанасьевич": 7,
-      "Матвеев Олег Валентинович": 15,
-      "Силецкий Андрей Романович": 44,
-      "Шиманов Александр Алексеевич": 245,
-      "Против всех": 59
+      "gas:candidate-vibid:1001000131399": 52,
+      "gas:candidate-vibid:1001000136070": 17,
+      "gas:candidate-vibid:347300170586": 17,
+      "gas:candidate-vibid:1001000290473": 7,
+      "gas:candidate-vibid:1001000112222": 15,
+      "gas:candidate-vibid:347300170542": 44,
+      "gas:candidate-vibid:1001000225949": 245,
+      "special:against-all": 59
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=473001007&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=347300171060&region=0&sub_region=0&type=429",
@@ -12639,14 +12639,14 @@ export const duma_2003_uik_428_region_47_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Водопьянов Михаил Павлович": 44,
-      "Григорьев Валерий Юрьевич": 41,
-      "Кучеров Николай Михайлович": 41,
-      "Лупеко Александр Афанасьевич": 27,
-      "Матвеев Олег Валентинович": 27,
-      "Силецкий Андрей Романович": 37,
-      "Шиманов Александр Алексеевич": 250,
-      "Против всех": 115
+      "gas:candidate-vibid:1001000131399": 44,
+      "gas:candidate-vibid:1001000136070": 41,
+      "gas:candidate-vibid:347300170586": 41,
+      "gas:candidate-vibid:1001000290473": 27,
+      "gas:candidate-vibid:1001000112222": 27,
+      "gas:candidate-vibid:347300170542": 37,
+      "gas:candidate-vibid:1001000225949": 250,
+      "special:against-all": 115
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=473001007&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=347300171060&region=0&sub_region=0&type=429",
@@ -12696,14 +12696,14 @@ export const duma_2003_uik_428_region_47_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Водопьянов Михаил Павлович": 30,
-      "Григорьев Валерий Юрьевич": 28,
-      "Кучеров Николай Михайлович": 12,
-      "Лупеко Александр Афанасьевич": 12,
-      "Матвеев Олег Валентинович": 14,
-      "Силецкий Андрей Романович": 17,
-      "Шиманов Александр Алексеевич": 132,
-      "Против всех": 51
+      "gas:candidate-vibid:1001000131399": 30,
+      "gas:candidate-vibid:1001000136070": 28,
+      "gas:candidate-vibid:347300170586": 12,
+      "gas:candidate-vibid:1001000290473": 12,
+      "gas:candidate-vibid:1001000112222": 14,
+      "gas:candidate-vibid:347300170542": 17,
+      "gas:candidate-vibid:1001000225949": 132,
+      "special:against-all": 51
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=473001007&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=347300171060&region=0&sub_region=0&type=429",
@@ -12753,14 +12753,14 @@ export const duma_2003_uik_428_region_47_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Водопьянов Михаил Павлович": 78,
-      "Григорьев Валерий Юрьевич": 44,
-      "Кучеров Николай Михайлович": 46,
-      "Лупеко Александр Афанасьевич": 23,
-      "Матвеев Олег Валентинович": 36,
-      "Силецкий Андрей Романович": 104,
-      "Шиманов Александр Алексеевич": 189,
-      "Против всех": 134
+      "gas:candidate-vibid:1001000131399": 78,
+      "gas:candidate-vibid:1001000136070": 44,
+      "gas:candidate-vibid:347300170586": 46,
+      "gas:candidate-vibid:1001000290473": 23,
+      "gas:candidate-vibid:1001000112222": 36,
+      "gas:candidate-vibid:347300170542": 104,
+      "gas:candidate-vibid:1001000225949": 189,
+      "special:against-all": 134
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=473001007&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=347300171060&region=0&sub_region=0&type=429",
@@ -12810,14 +12810,14 @@ export const duma_2003_uik_428_region_47_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Водопьянов Михаил Павлович": 21,
-      "Григорьев Валерий Юрьевич": 34,
-      "Кучеров Николай Михайлович": 22,
-      "Лупеко Александр Афанасьевич": 13,
-      "Матвеев Олег Валентинович": 14,
-      "Силецкий Андрей Романович": 66,
-      "Шиманов Александр Алексеевич": 132,
-      "Против всех": 38
+      "gas:candidate-vibid:1001000131399": 21,
+      "gas:candidate-vibid:1001000136070": 34,
+      "gas:candidate-vibid:347300170586": 22,
+      "gas:candidate-vibid:1001000290473": 13,
+      "gas:candidate-vibid:1001000112222": 14,
+      "gas:candidate-vibid:347300170542": 66,
+      "gas:candidate-vibid:1001000225949": 132,
+      "special:against-all": 38
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=473001007&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=347300171060&region=0&sub_region=0&type=429",
@@ -12867,14 +12867,14 @@ export const duma_2003_uik_428_region_47_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Водопьянов Михаил Павлович": 29,
-      "Григорьев Валерий Юрьевич": 23,
-      "Кучеров Николай Михайлович": 27,
-      "Лупеко Александр Афанасьевич": 12,
-      "Матвеев Олег Валентинович": 22,
-      "Силецкий Андрей Романович": 86,
-      "Шиманов Александр Алексеевич": 150,
-      "Против всех": 31
+      "gas:candidate-vibid:1001000131399": 29,
+      "gas:candidate-vibid:1001000136070": 23,
+      "gas:candidate-vibid:347300170586": 27,
+      "gas:candidate-vibid:1001000290473": 12,
+      "gas:candidate-vibid:1001000112222": 22,
+      "gas:candidate-vibid:347300170542": 86,
+      "gas:candidate-vibid:1001000225949": 150,
+      "special:against-all": 31
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=473001007&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=347300171060&region=0&sub_region=0&type=429",
@@ -12924,14 +12924,14 @@ export const duma_2003_uik_428_region_47_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Водопьянов Михаил Павлович": 19,
-      "Григорьев Валерий Юрьевич": 20,
-      "Кучеров Николай Михайлович": 13,
-      "Лупеко Александр Афанасьевич": 3,
-      "Матвеев Олег Валентинович": 11,
-      "Силецкий Андрей Романович": 93,
-      "Шиманов Александр Алексеевич": 203,
-      "Против всех": 45
+      "gas:candidate-vibid:1001000131399": 19,
+      "gas:candidate-vibid:1001000136070": 20,
+      "gas:candidate-vibid:347300170586": 13,
+      "gas:candidate-vibid:1001000290473": 3,
+      "gas:candidate-vibid:1001000112222": 11,
+      "gas:candidate-vibid:347300170542": 93,
+      "gas:candidate-vibid:1001000225949": 203,
+      "special:against-all": 45
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=473001007&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=347300171060&region=0&sub_region=0&type=429",
@@ -12981,14 +12981,14 @@ export const duma_2003_uik_428_region_47_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Водопьянов Михаил Павлович": 12,
-      "Григорьев Валерий Юрьевич": 9,
-      "Кучеров Николай Михайлович": 10,
-      "Лупеко Александр Афанасьевич": 3,
-      "Матвеев Олег Валентинович": 5,
-      "Силецкий Андрей Романович": 133,
-      "Шиманов Александр Алексеевич": 68,
-      "Против всех": 18
+      "gas:candidate-vibid:1001000131399": 12,
+      "gas:candidate-vibid:1001000136070": 9,
+      "gas:candidate-vibid:347300170586": 10,
+      "gas:candidate-vibid:1001000290473": 3,
+      "gas:candidate-vibid:1001000112222": 5,
+      "gas:candidate-vibid:347300170542": 133,
+      "gas:candidate-vibid:1001000225949": 68,
+      "special:against-all": 18
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=473001007&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=347300171060&region=0&sub_region=0&type=429",
@@ -13038,14 +13038,14 @@ export const duma_2003_uik_428_region_47_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Водопьянов Михаил Павлович": 24,
-      "Григорьев Валерий Юрьевич": 22,
-      "Кучеров Николай Михайлович": 56,
-      "Лупеко Александр Афанасьевич": 6,
-      "Матвеев Олег Валентинович": 13,
-      "Силецкий Андрей Романович": 214,
-      "Шиманов Александр Алексеевич": 125,
-      "Против всех": 42
+      "gas:candidate-vibid:1001000131399": 24,
+      "gas:candidate-vibid:1001000136070": 22,
+      "gas:candidate-vibid:347300170586": 56,
+      "gas:candidate-vibid:1001000290473": 6,
+      "gas:candidate-vibid:1001000112222": 13,
+      "gas:candidate-vibid:347300170542": 214,
+      "gas:candidate-vibid:1001000225949": 125,
+      "special:against-all": 42
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=473001007&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=347300171060&region=0&sub_region=0&type=429",
@@ -13095,14 +13095,14 @@ export const duma_2003_uik_428_region_47_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Водопьянов Михаил Павлович": 19,
-      "Григорьев Валерий Юрьевич": 22,
-      "Кучеров Николай Михайлович": 20,
-      "Лупеко Александр Афанасьевич": 6,
-      "Матвеев Олег Валентинович": 17,
-      "Силецкий Андрей Романович": 27,
-      "Шиманов Александр Алексеевич": 147,
-      "Против всех": 32
+      "gas:candidate-vibid:1001000131399": 19,
+      "gas:candidate-vibid:1001000136070": 22,
+      "gas:candidate-vibid:347300170586": 20,
+      "gas:candidate-vibid:1001000290473": 6,
+      "gas:candidate-vibid:1001000112222": 17,
+      "gas:candidate-vibid:347300170542": 27,
+      "gas:candidate-vibid:1001000225949": 147,
+      "special:against-all": 32
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=473001007&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=347300171060&region=0&sub_region=0&type=429",
@@ -13152,14 +13152,14 @@ export const duma_2003_uik_428_region_47_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Водопьянов Михаил Павлович": 10,
-      "Григорьев Валерий Юрьевич": 16,
-      "Кучеров Николай Михайлович": 15,
-      "Лупеко Александр Афанасьевич": 4,
-      "Матвеев Олег Валентинович": 8,
-      "Силецкий Андрей Романович": 41,
-      "Шиманов Александр Алексеевич": 210,
-      "Против всех": 37
+      "gas:candidate-vibid:1001000131399": 10,
+      "gas:candidate-vibid:1001000136070": 16,
+      "gas:candidate-vibid:347300170586": 15,
+      "gas:candidate-vibid:1001000290473": 4,
+      "gas:candidate-vibid:1001000112222": 8,
+      "gas:candidate-vibid:347300170542": 41,
+      "gas:candidate-vibid:1001000225949": 210,
+      "special:against-all": 37
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=473001007&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=347300171060&region=0&sub_region=0&type=429",
@@ -13209,14 +13209,14 @@ export const duma_2003_uik_428_region_47_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Водопьянов Михаил Павлович": 29,
-      "Григорьев Валерий Юрьевич": 24,
-      "Кучеров Николай Михайлович": 27,
-      "Лупеко Александр Афанасьевич": 16,
-      "Матвеев Олег Валентинович": 17,
-      "Силецкий Андрей Романович": 38,
-      "Шиманов Александр Алексеевич": 182,
-      "Против всех": 37
+      "gas:candidate-vibid:1001000131399": 29,
+      "gas:candidate-vibid:1001000136070": 24,
+      "gas:candidate-vibid:347300170586": 27,
+      "gas:candidate-vibid:1001000290473": 16,
+      "gas:candidate-vibid:1001000112222": 17,
+      "gas:candidate-vibid:347300170542": 38,
+      "gas:candidate-vibid:1001000225949": 182,
+      "special:against-all": 37
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=473001007&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=347300171060&region=0&sub_region=0&type=429",
@@ -13266,14 +13266,14 @@ export const duma_2003_uik_428_region_47_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Водопьянов Михаил Павлович": 37,
-      "Григорьев Валерий Юрьевич": 32,
-      "Кучеров Николай Михайлович": 36,
-      "Лупеко Александр Афанасьевич": 22,
-      "Матвеев Олег Валентинович": 32,
-      "Силецкий Андрей Романович": 47,
-      "Шиманов Александр Алексеевич": 186,
-      "Против всех": 76
+      "gas:candidate-vibid:1001000131399": 37,
+      "gas:candidate-vibid:1001000136070": 32,
+      "gas:candidate-vibid:347300170586": 36,
+      "gas:candidate-vibid:1001000290473": 22,
+      "gas:candidate-vibid:1001000112222": 32,
+      "gas:candidate-vibid:347300170542": 47,
+      "gas:candidate-vibid:1001000225949": 186,
+      "special:against-all": 76
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=473001007&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=347300171060&region=0&sub_region=0&type=429",
@@ -13323,14 +13323,14 @@ export const duma_2003_uik_428_region_47_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Водопьянов Михаил Павлович": 33,
-      "Григорьев Валерий Юрьевич": 32,
-      "Кучеров Николай Михайлович": 53,
-      "Лупеко Александр Афанасьевич": 22,
-      "Матвеев Олег Валентинович": 25,
-      "Силецкий Андрей Романович": 101,
-      "Шиманов Александр Алексеевич": 164,
-      "Против всех": 98
+      "gas:candidate-vibid:1001000131399": 33,
+      "gas:candidate-vibid:1001000136070": 32,
+      "gas:candidate-vibid:347300170586": 53,
+      "gas:candidate-vibid:1001000290473": 22,
+      "gas:candidate-vibid:1001000112222": 25,
+      "gas:candidate-vibid:347300170542": 101,
+      "gas:candidate-vibid:1001000225949": 164,
+      "special:against-all": 98
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=473001007&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=347300171060&region=0&sub_region=0&type=429",
@@ -13380,14 +13380,14 @@ export const duma_2003_uik_428_region_47_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Водопьянов Михаил Павлович": 20,
-      "Григорьев Валерий Юрьевич": 10,
-      "Кучеров Николай Михайлович": 20,
-      "Лупеко Александр Афанасьевич": 7,
-      "Матвеев Олег Валентинович": 20,
-      "Силецкий Андрей Романович": 110,
-      "Шиманов Александр Алексеевич": 104,
-      "Против всех": 41
+      "gas:candidate-vibid:1001000131399": 20,
+      "gas:candidate-vibid:1001000136070": 10,
+      "gas:candidate-vibid:347300170586": 20,
+      "gas:candidate-vibid:1001000290473": 7,
+      "gas:candidate-vibid:1001000112222": 20,
+      "gas:candidate-vibid:347300170542": 110,
+      "gas:candidate-vibid:1001000225949": 104,
+      "special:against-all": 41
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=473001007&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=347300171060&region=0&sub_region=0&type=429",
@@ -13437,14 +13437,14 @@ export const duma_2003_uik_428_region_47_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Водопьянов Михаил Павлович": 47,
-      "Григорьев Валерий Юрьевич": 53,
-      "Кучеров Николай Михайлович": 69,
-      "Лупеко Александр Афанасьевич": 19,
-      "Матвеев Олег Валентинович": 40,
-      "Силецкий Андрей Романович": 35,
-      "Шиманов Александр Алексеевич": 420,
-      "Против всех": 160
+      "gas:candidate-vibid:1001000131399": 47,
+      "gas:candidate-vibid:1001000136070": 53,
+      "gas:candidate-vibid:347300170586": 69,
+      "gas:candidate-vibid:1001000290473": 19,
+      "gas:candidate-vibid:1001000112222": 40,
+      "gas:candidate-vibid:347300170542": 35,
+      "gas:candidate-vibid:1001000225949": 420,
+      "special:against-all": 160
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=473001007&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=347300171060&region=0&sub_region=0&type=429",
@@ -13494,14 +13494,14 @@ export const duma_2003_uik_428_region_47_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Водопьянов Михаил Павлович": 15,
-      "Григорьев Валерий Юрьевич": 28,
-      "Кучеров Николай Михайлович": 38,
-      "Лупеко Александр Афанасьевич": 1,
-      "Матвеев Олег Валентинович": 15,
-      "Силецкий Андрей Романович": 182,
-      "Шиманов Александр Алексеевич": 152,
-      "Против всех": 56
+      "gas:candidate-vibid:1001000131399": 15,
+      "gas:candidate-vibid:1001000136070": 28,
+      "gas:candidate-vibid:347300170586": 38,
+      "gas:candidate-vibid:1001000290473": 1,
+      "gas:candidate-vibid:1001000112222": 15,
+      "gas:candidate-vibid:347300170542": 182,
+      "gas:candidate-vibid:1001000225949": 152,
+      "special:against-all": 56
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=473001007&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=347300171060&region=0&sub_region=0&type=429",
@@ -13551,14 +13551,14 @@ export const duma_2003_uik_428_region_47_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Водопьянов Михаил Павлович": 60,
-      "Григорьев Валерий Юрьевич": 19,
-      "Кучеров Николай Михайлович": 20,
-      "Лупеко Александр Афанасьевич": 18,
-      "Матвеев Олег Валентинович": 16,
-      "Силецкий Андрей Романович": 155,
-      "Шиманов Александр Алексеевич": 238,
-      "Против всех": 73
+      "gas:candidate-vibid:1001000131399": 60,
+      "gas:candidate-vibid:1001000136070": 19,
+      "gas:candidate-vibid:347300170586": 20,
+      "gas:candidate-vibid:1001000290473": 18,
+      "gas:candidate-vibid:1001000112222": 16,
+      "gas:candidate-vibid:347300170542": 155,
+      "gas:candidate-vibid:1001000225949": 238,
+      "special:against-all": 73
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=473001007&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=347300171060&region=0&sub_region=0&type=429",
@@ -13608,14 +13608,14 @@ export const duma_2003_uik_428_region_47_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Водопьянов Михаил Павлович": 5,
-      "Григорьев Валерий Юрьевич": 8,
-      "Кучеров Николай Михайлович": 5,
-      "Лупеко Александр Афанасьевич": 4,
-      "Матвеев Олег Валентинович": 4,
-      "Силецкий Андрей Романович": 8,
-      "Шиманов Александр Алексеевич": 54,
-      "Против всех": 16
+      "gas:candidate-vibid:1001000131399": 5,
+      "gas:candidate-vibid:1001000136070": 8,
+      "gas:candidate-vibid:347300170586": 5,
+      "gas:candidate-vibid:1001000290473": 4,
+      "gas:candidate-vibid:1001000112222": 4,
+      "gas:candidate-vibid:347300170542": 8,
+      "gas:candidate-vibid:1001000225949": 54,
+      "special:against-all": 16
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=473001007&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=347300171060&region=0&sub_region=0&type=429",
@@ -13665,14 +13665,14 @@ export const duma_2003_uik_428_region_47_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Водопьянов Михаил Павлович": 19,
-      "Григорьев Валерий Юрьевич": 29,
-      "Кучеров Николай Михайлович": 14,
-      "Лупеко Александр Афанасьевич": 14,
-      "Матвеев Олег Валентинович": 17,
-      "Силецкий Андрей Романович": 199,
-      "Шиманов Александр Алексеевич": 152,
-      "Против всех": 95
+      "gas:candidate-vibid:1001000131399": 19,
+      "gas:candidate-vibid:1001000136070": 29,
+      "gas:candidate-vibid:347300170586": 14,
+      "gas:candidate-vibid:1001000290473": 14,
+      "gas:candidate-vibid:1001000112222": 17,
+      "gas:candidate-vibid:347300170542": 199,
+      "gas:candidate-vibid:1001000225949": 152,
+      "special:against-all": 95
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=473001007&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=347300171060&region=0&sub_region=0&type=429",
@@ -13722,14 +13722,14 @@ export const duma_2003_uik_428_region_47_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Водопьянов Михаил Павлович": 20,
-      "Григорьев Валерий Юрьевич": 15,
-      "Кучеров Николай Михайлович": 15,
-      "Лупеко Александр Афанасьевич": 7,
-      "Матвеев Олег Валентинович": 17,
-      "Силецкий Андрей Романович": 93,
-      "Шиманов Александр Алексеевич": 107,
-      "Против всех": 30
+      "gas:candidate-vibid:1001000131399": 20,
+      "gas:candidate-vibid:1001000136070": 15,
+      "gas:candidate-vibid:347300170586": 15,
+      "gas:candidate-vibid:1001000290473": 7,
+      "gas:candidate-vibid:1001000112222": 17,
+      "gas:candidate-vibid:347300170542": 93,
+      "gas:candidate-vibid:1001000225949": 107,
+      "special:against-all": 30
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=473001007&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=347300171060&region=0&sub_region=0&type=429",
@@ -13779,14 +13779,14 @@ export const duma_2003_uik_428_region_47_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Водопьянов Михаил Павлович": 57,
-      "Григорьев Валерий Юрьевич": 61,
-      "Кучеров Николай Михайлович": 35,
-      "Лупеко Александр Афанасьевич": 17,
-      "Матвеев Олег Валентинович": 28,
-      "Силецкий Андрей Романович": 271,
-      "Шиманов Александр Алексеевич": 326,
-      "Против всех": 115
+      "gas:candidate-vibid:1001000131399": 57,
+      "gas:candidate-vibid:1001000136070": 61,
+      "gas:candidate-vibid:347300170586": 35,
+      "gas:candidate-vibid:1001000290473": 17,
+      "gas:candidate-vibid:1001000112222": 28,
+      "gas:candidate-vibid:347300170542": 271,
+      "gas:candidate-vibid:1001000225949": 326,
+      "special:against-all": 115
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=473001007&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=347300171060&region=0&sub_region=0&type=429",
@@ -13836,14 +13836,14 @@ export const duma_2003_uik_428_region_47_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Водопьянов Михаил Павлович": 8,
-      "Григорьев Валерий Юрьевич": 8,
-      "Кучеров Николай Михайлович": 2,
-      "Лупеко Александр Афанасьевич": 0,
-      "Матвеев Олег Валентинович": 4,
-      "Силецкий Андрей Романович": 51,
-      "Шиманов Александр Алексеевич": 45,
-      "Против всех": 10
+      "gas:candidate-vibid:1001000131399": 8,
+      "gas:candidate-vibid:1001000136070": 8,
+      "gas:candidate-vibid:347300170586": 2,
+      "gas:candidate-vibid:1001000290473": 0,
+      "gas:candidate-vibid:1001000112222": 4,
+      "gas:candidate-vibid:347300170542": 51,
+      "gas:candidate-vibid:1001000225949": 45,
+      "special:against-all": 10
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=473001007&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=347300171060&region=0&sub_region=0&type=429",
@@ -13893,14 +13893,14 @@ export const duma_2003_uik_428_region_47_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Водопьянов Михаил Павлович": 25,
-      "Григорьев Валерий Юрьевич": 41,
-      "Кучеров Николай Михайлович": 10,
-      "Лупеко Александр Афанасьевич": 7,
-      "Матвеев Олег Валентинович": 10,
-      "Силецкий Андрей Романович": 122,
-      "Шиманов Александр Алексеевич": 166,
-      "Против всех": 81
+      "gas:candidate-vibid:1001000131399": 25,
+      "gas:candidate-vibid:1001000136070": 41,
+      "gas:candidate-vibid:347300170586": 10,
+      "gas:candidate-vibid:1001000290473": 7,
+      "gas:candidate-vibid:1001000112222": 10,
+      "gas:candidate-vibid:347300170542": 122,
+      "gas:candidate-vibid:1001000225949": 166,
+      "special:against-all": 81
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=473001007&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=347300171060&region=0&sub_region=0&type=429",
@@ -13950,14 +13950,14 @@ export const duma_2003_uik_428_region_47_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Водопьянов Михаил Павлович": 68,
-      "Григорьев Валерий Юрьевич": 59,
-      "Кучеров Николай Михайлович": 36,
-      "Лупеко Александр Афанасьевич": 24,
-      "Матвеев Олег Валентинович": 35,
-      "Силецкий Андрей Романович": 38,
-      "Шиманов Александр Алексеевич": 186,
-      "Против всех": 126
+      "gas:candidate-vibid:1001000131399": 68,
+      "gas:candidate-vibid:1001000136070": 59,
+      "gas:candidate-vibid:347300170586": 36,
+      "gas:candidate-vibid:1001000290473": 24,
+      "gas:candidate-vibid:1001000112222": 35,
+      "gas:candidate-vibid:347300170542": 38,
+      "gas:candidate-vibid:1001000225949": 186,
+      "special:against-all": 126
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=473001007&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=347300171060&region=0&sub_region=0&type=429",
@@ -14007,14 +14007,14 @@ export const duma_2003_uik_428_region_47_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Водопьянов Михаил Павлович": 138,
-      "Григорьев Валерий Юрьевич": 61,
-      "Кучеров Николай Михайлович": 34,
-      "Лупеко Александр Афанасьевич": 27,
-      "Матвеев Олег Валентинович": 38,
-      "Силецкий Андрей Романович": 157,
-      "Шиманов Александр Алексеевич": 283,
-      "Против всех": 136
+      "gas:candidate-vibid:1001000131399": 138,
+      "gas:candidate-vibid:1001000136070": 61,
+      "gas:candidate-vibid:347300170586": 34,
+      "gas:candidate-vibid:1001000290473": 27,
+      "gas:candidate-vibid:1001000112222": 38,
+      "gas:candidate-vibid:347300170542": 157,
+      "gas:candidate-vibid:1001000225949": 283,
+      "special:against-all": 136
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=473001007&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=347300171060&region=0&sub_region=0&type=429",
@@ -14064,14 +14064,14 @@ export const duma_2003_uik_428_region_47_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Водопьянов Михаил Павлович": 90,
-      "Григорьев Валерий Юрьевич": 66,
-      "Кучеров Николай Михайлович": 78,
-      "Лупеко Александр Афанасьевич": 38,
-      "Матвеев Олег Валентинович": 61,
-      "Силецкий Андрей Романович": 120,
-      "Шиманов Александр Алексеевич": 306,
-      "Против всех": 200
+      "gas:candidate-vibid:1001000131399": 90,
+      "gas:candidate-vibid:1001000136070": 66,
+      "gas:candidate-vibid:347300170586": 78,
+      "gas:candidate-vibid:1001000290473": 38,
+      "gas:candidate-vibid:1001000112222": 61,
+      "gas:candidate-vibid:347300170542": 120,
+      "gas:candidate-vibid:1001000225949": 306,
+      "special:against-all": 200
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=473001007&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=347300171060&region=0&sub_region=0&type=429",
@@ -14121,14 +14121,14 @@ export const duma_2003_uik_428_region_47_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Водопьянов Михаил Павлович": 4,
-      "Григорьев Валерий Юрьевич": 5,
-      "Кучеров Николай Михайлович": 2,
-      "Лупеко Александр Афанасьевич": 1,
-      "Матвеев Олег Валентинович": 4,
-      "Силецкий Андрей Романович": 11,
-      "Шиманов Александр Алексеевич": 157,
-      "Против всех": 14
+      "gas:candidate-vibid:1001000131399": 4,
+      "gas:candidate-vibid:1001000136070": 5,
+      "gas:candidate-vibid:347300170586": 2,
+      "gas:candidate-vibid:1001000290473": 1,
+      "gas:candidate-vibid:1001000112222": 4,
+      "gas:candidate-vibid:347300170542": 11,
+      "gas:candidate-vibid:1001000225949": 157,
+      "special:against-all": 14
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=473001007&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=347300171060&region=0&sub_region=0&type=429",
@@ -14178,14 +14178,14 @@ export const duma_2003_uik_428_region_47_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Водопьянов Михаил Павлович": 26,
-      "Григорьев Валерий Юрьевич": 31,
-      "Кучеров Николай Михайлович": 19,
-      "Лупеко Александр Афанасьевич": 7,
-      "Матвеев Олег Валентинович": 9,
-      "Силецкий Андрей Романович": 40,
-      "Шиманов Александр Алексеевич": 143,
-      "Против всех": 33
+      "gas:candidate-vibid:1001000131399": 26,
+      "gas:candidate-vibid:1001000136070": 31,
+      "gas:candidate-vibid:347300170586": 19,
+      "gas:candidate-vibid:1001000290473": 7,
+      "gas:candidate-vibid:1001000112222": 9,
+      "gas:candidate-vibid:347300170542": 40,
+      "gas:candidate-vibid:1001000225949": 143,
+      "special:against-all": 33
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=473001007&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=347300171060&region=0&sub_region=0&type=429",
@@ -14235,14 +14235,14 @@ export const duma_2003_uik_428_region_47_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Водопьянов Михаил Павлович": 76,
-      "Григорьев Валерий Юрьевич": 31,
-      "Кучеров Николай Михайлович": 59,
-      "Лупеко Александр Афанасьевич": 18,
-      "Матвеев Олег Валентинович": 21,
-      "Силецкий Андрей Романович": 92,
-      "Шиманов Александр Алексеевич": 226,
-      "Против всех": 129
+      "gas:candidate-vibid:1001000131399": 76,
+      "gas:candidate-vibid:1001000136070": 31,
+      "gas:candidate-vibid:347300170586": 59,
+      "gas:candidate-vibid:1001000290473": 18,
+      "gas:candidate-vibid:1001000112222": 21,
+      "gas:candidate-vibid:347300170542": 92,
+      "gas:candidate-vibid:1001000225949": 226,
+      "special:against-all": 129
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=473001007&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=347300171060&region=0&sub_region=0&type=429",

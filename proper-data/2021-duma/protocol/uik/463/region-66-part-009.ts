@@ -11,8 +11,12 @@ export const duma_2021_uik_463_region_66_part_009 = [
     "ballot": "single-member",
     "uikNumber": 2073,
     "uikTvd": "4664035229475",
+    "uikName": "УИК №2073",
     "tikTvd": "26620002596975",
     "tikName": "Красноуфимская городская",
+    "regionCode": "66",
+    "regionTvd": "100100225883658",
+    "regionName": "Свердловская область",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 771,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 750,
@@ -28,12 +32,12 @@ export const duma_2021_uik_463_region_66_part_009 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Александров Николай Викторович": 23,
-      "Исаков Тарас Мамаджанович": 134,
-      "Куделькин Александр Владимирович": 20,
-      "Муцоев Зелимхан Аликоевич": 154,
-      "Панасенко Александр Владимирович": 25,
-      "Самутин Николай Михайлович": 50
+      "4664048237718": 23,
+      "4664048237415": 134,
+      "4664048238454": 20,
+      "4664048237325": 154,
+      "4664048237145": 25,
+      "4664048237639": 50
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/sverdlovsk?action=show&root=1000227&tvd=26620002596975&vrn=100100225883172&region=66&global=&sub_region=66&prver=0&pronetvd=null&vibid=26620002596975&type=464",
@@ -43,6 +47,10 @@ export const duma_2021_uik_463_region_66_part_009 = [
       "retrievedAt": "2026-08-26T08:06:38.790248+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/sverdlovsk?action=show&root=1000227&tvd=26620002596975&vrn=100100225883172&region=66&global=&sub_region=66&prver=0&pronetvd=null&vibid=26620002596975&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 173,
+      "oikTvd": "100100225883664"
     }
   },
   {
@@ -52,8 +60,12 @@ export const duma_2021_uik_463_region_66_part_009 = [
     "ballot": "single-member",
     "uikNumber": 2074,
     "uikTvd": "4664035229476",
+    "uikName": "УИК №2074",
     "tikTvd": "26620002596975",
     "tikName": "Красноуфимская городская",
+    "regionCode": "66",
+    "regionTvd": "100100225883658",
+    "regionName": "Свердловская область",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 1392,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 1400,
@@ -69,12 +81,12 @@ export const duma_2021_uik_463_region_66_part_009 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Александров Николай Викторович": 68,
-      "Исаков Тарас Мамаджанович": 178,
-      "Куделькин Александр Владимирович": 15,
-      "Муцоев Зелимхан Аликоевич": 256,
-      "Панасенко Александр Владимирович": 47,
-      "Самутин Николай Михайлович": 83
+      "4664048237718": 68,
+      "4664048237415": 178,
+      "4664048238454": 15,
+      "4664048237325": 256,
+      "4664048237145": 47,
+      "4664048237639": 83
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/sverdlovsk?action=show&root=1000227&tvd=26620002596975&vrn=100100225883172&region=66&global=&sub_region=66&prver=0&pronetvd=null&vibid=26620002596975&type=464",
@@ -84,6 +96,10 @@ export const duma_2021_uik_463_region_66_part_009 = [
       "retrievedAt": "2026-08-26T08:06:38.790248+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/sverdlovsk?action=show&root=1000227&tvd=26620002596975&vrn=100100225883172&region=66&global=&sub_region=66&prver=0&pronetvd=null&vibid=26620002596975&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 173,
+      "oikTvd": "100100225883664"
     }
   },
   {
@@ -93,8 +109,12 @@ export const duma_2021_uik_463_region_66_part_009 = [
     "ballot": "single-member",
     "uikNumber": 2075,
     "uikTvd": "4664035229477",
+    "uikName": "УИК №2075",
     "tikTvd": "26620002596975",
     "tikName": "Красноуфимская городская",
+    "regionCode": "66",
+    "regionTvd": "100100225883658",
+    "regionName": "Свердловская область",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 748,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 750,
@@ -110,12 +130,12 @@ export const duma_2021_uik_463_region_66_part_009 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Александров Николай Викторович": 28,
-      "Исаков Тарас Мамаджанович": 124,
-      "Куделькин Александр Владимирович": 11,
-      "Муцоев Зелимхан Аликоевич": 159,
-      "Панасенко Александр Владимирович": 24,
-      "Самутин Николай Михайлович": 40
+      "4664048237718": 28,
+      "4664048237415": 124,
+      "4664048238454": 11,
+      "4664048237325": 159,
+      "4664048237145": 24,
+      "4664048237639": 40
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/sverdlovsk?action=show&root=1000227&tvd=26620002596975&vrn=100100225883172&region=66&global=&sub_region=66&prver=0&pronetvd=null&vibid=26620002596975&type=464",
@@ -125,6 +145,10 @@ export const duma_2021_uik_463_region_66_part_009 = [
       "retrievedAt": "2026-08-26T08:06:38.790248+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/sverdlovsk?action=show&root=1000227&tvd=26620002596975&vrn=100100225883172&region=66&global=&sub_region=66&prver=0&pronetvd=null&vibid=26620002596975&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 173,
+      "oikTvd": "100100225883664"
     }
   },
   {
@@ -134,8 +158,12 @@ export const duma_2021_uik_463_region_66_part_009 = [
     "ballot": "single-member",
     "uikNumber": 2076,
     "uikTvd": "4664035229478",
+    "uikName": "УИК №2076",
     "tikTvd": "26620002596975",
     "tikName": "Красноуфимская городская",
+    "regionCode": "66",
+    "regionTvd": "100100225883658",
+    "regionName": "Свердловская область",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 481,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 450,
@@ -151,12 +179,12 @@ export const duma_2021_uik_463_region_66_part_009 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Александров Николай Викторович": 12,
-      "Исаков Тарас Мамаджанович": 88,
-      "Куделькин Александр Владимирович": 12,
-      "Муцоев Зелимхан Аликоевич": 91,
-      "Панасенко Александр Владимирович": 32,
-      "Самутин Николай Михайлович": 14
+      "4664048237718": 12,
+      "4664048237415": 88,
+      "4664048238454": 12,
+      "4664048237325": 91,
+      "4664048237145": 32,
+      "4664048237639": 14
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/sverdlovsk?action=show&root=1000227&tvd=26620002596975&vrn=100100225883172&region=66&global=&sub_region=66&prver=0&pronetvd=null&vibid=26620002596975&type=464",
@@ -166,6 +194,10 @@ export const duma_2021_uik_463_region_66_part_009 = [
       "retrievedAt": "2026-08-26T08:06:38.790248+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/sverdlovsk?action=show&root=1000227&tvd=26620002596975&vrn=100100225883172&region=66&global=&sub_region=66&prver=0&pronetvd=null&vibid=26620002596975&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 173,
+      "oikTvd": "100100225883664"
     }
   },
   {
@@ -175,8 +207,12 @@ export const duma_2021_uik_463_region_66_part_009 = [
     "ballot": "single-member",
     "uikNumber": 151,
     "uikTvd": "4664005184337",
+    "uikName": "УИК №151",
     "tikTvd": "26620002596976",
     "tikName": "Ачитская",
+    "regionCode": "66",
+    "regionTvd": "100100225883658",
+    "regionName": "Свердловская область",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 1996,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 1900,
@@ -192,12 +228,12 @@ export const duma_2021_uik_463_region_66_part_009 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Александров Николай Викторович": 80,
-      "Исаков Тарас Мамаджанович": 167,
-      "Куделькин Александр Владимирович": 25,
-      "Муцоев Зелимхан Аликоевич": 503,
-      "Панасенко Александр Владимирович": 104,
-      "Самутин Николай Михайлович": 95
+      "4664048237718": 80,
+      "4664048237415": 167,
+      "4664048238454": 25,
+      "4664048237325": 503,
+      "4664048237145": 104,
+      "4664048237639": 95
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/sverdlovsk?action=show&root=1000227&tvd=26620002596976&vrn=100100225883172&region=66&global=&sub_region=66&prver=0&pronetvd=null&vibid=26620002596976&type=464",
@@ -207,6 +243,10 @@ export const duma_2021_uik_463_region_66_part_009 = [
       "retrievedAt": "2026-08-26T08:15:28.124846+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/sverdlovsk?action=show&root=1000227&tvd=26620002596976&vrn=100100225883172&region=66&global=&sub_region=66&prver=0&pronetvd=null&vibid=26620002596976&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 173,
+      "oikTvd": "100100225883664"
     }
   },
   {
@@ -216,8 +256,12 @@ export const duma_2021_uik_463_region_66_part_009 = [
     "ballot": "single-member",
     "uikNumber": 152,
     "uikTvd": "4664005184338",
+    "uikName": "УИК №152",
     "tikTvd": "26620002596976",
     "tikName": "Ачитская",
+    "regionCode": "66",
+    "regionTvd": "100100225883658",
+    "regionName": "Свердловская область",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 2002,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 2000,
@@ -233,12 +277,12 @@ export const duma_2021_uik_463_region_66_part_009 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Александров Николай Викторович": 77,
-      "Исаков Тарас Мамаджанович": 179,
-      "Куделькин Александр Владимирович": 23,
-      "Муцоев Зелимхан Аликоевич": 454,
-      "Панасенко Александр Владимирович": 103,
-      "Самутин Николай Михайлович": 71
+      "4664048237718": 77,
+      "4664048237415": 179,
+      "4664048238454": 23,
+      "4664048237325": 454,
+      "4664048237145": 103,
+      "4664048237639": 71
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/sverdlovsk?action=show&root=1000227&tvd=26620002596976&vrn=100100225883172&region=66&global=&sub_region=66&prver=0&pronetvd=null&vibid=26620002596976&type=464",
@@ -248,6 +292,10 @@ export const duma_2021_uik_463_region_66_part_009 = [
       "retrievedAt": "2026-08-26T08:15:28.124846+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/sverdlovsk?action=show&root=1000227&tvd=26620002596976&vrn=100100225883172&region=66&global=&sub_region=66&prver=0&pronetvd=null&vibid=26620002596976&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 173,
+      "oikTvd": "100100225883664"
     }
   },
   {
@@ -257,8 +305,12 @@ export const duma_2021_uik_463_region_66_part_009 = [
     "ballot": "single-member",
     "uikNumber": 154,
     "uikTvd": "4664005184339",
+    "uikName": "УИК №154",
     "tikTvd": "26620002596976",
     "tikName": "Ачитская",
+    "regionCode": "66",
+    "regionTvd": "100100225883658",
+    "regionName": "Свердловская область",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 525,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 500,
@@ -274,12 +326,12 @@ export const duma_2021_uik_463_region_66_part_009 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Александров Николай Викторович": 28,
-      "Исаков Тарас Мамаджанович": 54,
-      "Куделькин Александр Владимирович": 4,
-      "Муцоев Зелимхан Аликоевич": 128,
-      "Панасенко Александр Владимирович": 27,
-      "Самутин Николай Михайлович": 28
+      "4664048237718": 28,
+      "4664048237415": 54,
+      "4664048238454": 4,
+      "4664048237325": 128,
+      "4664048237145": 27,
+      "4664048237639": 28
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/sverdlovsk?action=show&root=1000227&tvd=26620002596976&vrn=100100225883172&region=66&global=&sub_region=66&prver=0&pronetvd=null&vibid=26620002596976&type=464",
@@ -289,6 +341,10 @@ export const duma_2021_uik_463_region_66_part_009 = [
       "retrievedAt": "2026-08-26T08:15:28.124846+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/sverdlovsk?action=show&root=1000227&tvd=26620002596976&vrn=100100225883172&region=66&global=&sub_region=66&prver=0&pronetvd=null&vibid=26620002596976&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 173,
+      "oikTvd": "100100225883664"
     }
   },
   {
@@ -298,8 +354,12 @@ export const duma_2021_uik_463_region_66_part_009 = [
     "ballot": "single-member",
     "uikNumber": 155,
     "uikTvd": "4664005184340",
+    "uikName": "УИК №155",
     "tikTvd": "26620002596976",
     "tikName": "Ачитская",
+    "regionCode": "66",
+    "regionTvd": "100100225883658",
+    "regionName": "Свердловская область",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 186,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 170,
@@ -315,12 +375,12 @@ export const duma_2021_uik_463_region_66_part_009 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Александров Николай Викторович": 19,
-      "Исаков Тарас Мамаджанович": 11,
-      "Куделькин Александр Владимирович": 2,
-      "Муцоев Зелимхан Аликоевич": 45,
-      "Панасенко Александр Владимирович": 6,
-      "Самутин Николай Михайлович": 12
+      "4664048237718": 19,
+      "4664048237415": 11,
+      "4664048238454": 2,
+      "4664048237325": 45,
+      "4664048237145": 6,
+      "4664048237639": 12
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/sverdlovsk?action=show&root=1000227&tvd=26620002596976&vrn=100100225883172&region=66&global=&sub_region=66&prver=0&pronetvd=null&vibid=26620002596976&type=464",
@@ -330,6 +390,10 @@ export const duma_2021_uik_463_region_66_part_009 = [
       "retrievedAt": "2026-08-26T08:15:28.124846+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/sverdlovsk?action=show&root=1000227&tvd=26620002596976&vrn=100100225883172&region=66&global=&sub_region=66&prver=0&pronetvd=null&vibid=26620002596976&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 173,
+      "oikTvd": "100100225883664"
     }
   },
   {
@@ -339,8 +403,12 @@ export const duma_2021_uik_463_region_66_part_009 = [
     "ballot": "single-member",
     "uikNumber": 156,
     "uikTvd": "4664005184341",
+    "uikName": "УИК №156",
     "tikTvd": "26620002596976",
     "tikName": "Ачитская",
+    "regionCode": "66",
+    "regionTvd": "100100225883658",
+    "regionName": "Свердловская область",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 194,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 170,
@@ -356,12 +424,12 @@ export const duma_2021_uik_463_region_66_part_009 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Александров Николай Викторович": 12,
-      "Исаков Тарас Мамаджанович": 18,
-      "Куделькин Александр Владимирович": 3,
-      "Муцоев Зелимхан Аликоевич": 57,
-      "Панасенко Александр Владимирович": 11,
-      "Самутин Николай Михайлович": 13
+      "4664048237718": 12,
+      "4664048237415": 18,
+      "4664048238454": 3,
+      "4664048237325": 57,
+      "4664048237145": 11,
+      "4664048237639": 13
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/sverdlovsk?action=show&root=1000227&tvd=26620002596976&vrn=100100225883172&region=66&global=&sub_region=66&prver=0&pronetvd=null&vibid=26620002596976&type=464",
@@ -371,6 +439,10 @@ export const duma_2021_uik_463_region_66_part_009 = [
       "retrievedAt": "2026-08-26T08:15:28.124846+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/sverdlovsk?action=show&root=1000227&tvd=26620002596976&vrn=100100225883172&region=66&global=&sub_region=66&prver=0&pronetvd=null&vibid=26620002596976&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 173,
+      "oikTvd": "100100225883664"
     }
   },
   {
@@ -380,8 +452,12 @@ export const duma_2021_uik_463_region_66_part_009 = [
     "ballot": "single-member",
     "uikNumber": 157,
     "uikTvd": "4664005184342",
+    "uikName": "УИК №157",
     "tikTvd": "26620002596976",
     "tikName": "Ачитская",
+    "regionCode": "66",
+    "regionTvd": "100100225883658",
+    "regionName": "Свердловская область",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 176,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 160,
@@ -397,12 +473,12 @@ export const duma_2021_uik_463_region_66_part_009 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Александров Николай Викторович": 7,
-      "Исаков Тарас Мамаджанович": 22,
-      "Куделькин Александр Владимирович": 6,
-      "Муцоев Зелимхан Аликоевич": 42,
-      "Панасенко Александр Владимирович": 11,
-      "Самутин Николай Михайлович": 10
+      "4664048237718": 7,
+      "4664048237415": 22,
+      "4664048238454": 6,
+      "4664048237325": 42,
+      "4664048237145": 11,
+      "4664048237639": 10
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/sverdlovsk?action=show&root=1000227&tvd=26620002596976&vrn=100100225883172&region=66&global=&sub_region=66&prver=0&pronetvd=null&vibid=26620002596976&type=464",
@@ -412,6 +488,10 @@ export const duma_2021_uik_463_region_66_part_009 = [
       "retrievedAt": "2026-08-26T08:15:28.124846+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/sverdlovsk?action=show&root=1000227&tvd=26620002596976&vrn=100100225883172&region=66&global=&sub_region=66&prver=0&pronetvd=null&vibid=26620002596976&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 173,
+      "oikTvd": "100100225883664"
     }
   },
   {
@@ -421,8 +501,12 @@ export const duma_2021_uik_463_region_66_part_009 = [
     "ballot": "single-member",
     "uikNumber": 158,
     "uikTvd": "4664005184343",
+    "uikName": "УИК №158",
     "tikTvd": "26620002596976",
     "tikName": "Ачитская",
+    "regionCode": "66",
+    "regionTvd": "100100225883658",
+    "regionName": "Свердловская область",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 823,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 800,
@@ -438,12 +522,12 @@ export const duma_2021_uik_463_region_66_part_009 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Александров Николай Викторович": 37,
-      "Исаков Тарас Мамаджанович": 90,
-      "Куделькин Александр Владимирович": 12,
-      "Муцоев Зелимхан Аликоевич": 163,
-      "Панасенко Александр Владимирович": 74,
-      "Самутин Николай Михайлович": 49
+      "4664048237718": 37,
+      "4664048237415": 90,
+      "4664048238454": 12,
+      "4664048237325": 163,
+      "4664048237145": 74,
+      "4664048237639": 49
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/sverdlovsk?action=show&root=1000227&tvd=26620002596976&vrn=100100225883172&region=66&global=&sub_region=66&prver=0&pronetvd=null&vibid=26620002596976&type=464",
@@ -453,6 +537,10 @@ export const duma_2021_uik_463_region_66_part_009 = [
       "retrievedAt": "2026-08-26T08:15:28.124846+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/sverdlovsk?action=show&root=1000227&tvd=26620002596976&vrn=100100225883172&region=66&global=&sub_region=66&prver=0&pronetvd=null&vibid=26620002596976&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 173,
+      "oikTvd": "100100225883664"
     }
   },
   {
@@ -462,8 +550,12 @@ export const duma_2021_uik_463_region_66_part_009 = [
     "ballot": "single-member",
     "uikNumber": 159,
     "uikTvd": "4664005184344",
+    "uikName": "УИК №159",
     "tikTvd": "26620002596976",
     "tikName": "Ачитская",
+    "regionCode": "66",
+    "regionTvd": "100100225883658",
+    "regionName": "Свердловская область",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 224,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 200,
@@ -479,12 +571,12 @@ export const duma_2021_uik_463_region_66_part_009 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Александров Николай Викторович": 15,
-      "Исаков Тарас Мамаджанович": 19,
-      "Куделькин Александр Владимирович": 3,
-      "Муцоев Зелимхан Аликоевич": 60,
-      "Панасенко Александр Владимирович": 8,
-      "Самутин Николай Михайлович": 9
+      "4664048237718": 15,
+      "4664048237415": 19,
+      "4664048238454": 3,
+      "4664048237325": 60,
+      "4664048237145": 8,
+      "4664048237639": 9
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/sverdlovsk?action=show&root=1000227&tvd=26620002596976&vrn=100100225883172&region=66&global=&sub_region=66&prver=0&pronetvd=null&vibid=26620002596976&type=464",
@@ -494,6 +586,10 @@ export const duma_2021_uik_463_region_66_part_009 = [
       "retrievedAt": "2026-08-26T08:15:28.124846+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/sverdlovsk?action=show&root=1000227&tvd=26620002596976&vrn=100100225883172&region=66&global=&sub_region=66&prver=0&pronetvd=null&vibid=26620002596976&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 173,
+      "oikTvd": "100100225883664"
     }
   },
   {
@@ -503,8 +599,12 @@ export const duma_2021_uik_463_region_66_part_009 = [
     "ballot": "single-member",
     "uikNumber": 160,
     "uikTvd": "4664005184345",
+    "uikName": "УИК №160",
     "tikTvd": "26620002596976",
     "tikName": "Ачитская",
+    "regionCode": "66",
+    "regionTvd": "100100225883658",
+    "regionName": "Свердловская область",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 246,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 250,
@@ -520,12 +620,12 @@ export const duma_2021_uik_463_region_66_part_009 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Александров Николай Викторович": 11,
-      "Исаков Тарас Мамаджанович": 25,
-      "Куделькин Александр Владимирович": 4,
-      "Муцоев Зелимхан Аликоевич": 71,
-      "Панасенко Александр Владимирович": 6,
-      "Самутин Николай Михайлович": 10
+      "4664048237718": 11,
+      "4664048237415": 25,
+      "4664048238454": 4,
+      "4664048237325": 71,
+      "4664048237145": 6,
+      "4664048237639": 10
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/sverdlovsk?action=show&root=1000227&tvd=26620002596976&vrn=100100225883172&region=66&global=&sub_region=66&prver=0&pronetvd=null&vibid=26620002596976&type=464",
@@ -535,6 +635,10 @@ export const duma_2021_uik_463_region_66_part_009 = [
       "retrievedAt": "2026-08-26T08:15:28.124846+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/sverdlovsk?action=show&root=1000227&tvd=26620002596976&vrn=100100225883172&region=66&global=&sub_region=66&prver=0&pronetvd=null&vibid=26620002596976&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 173,
+      "oikTvd": "100100225883664"
     }
   },
   {
@@ -544,8 +648,12 @@ export const duma_2021_uik_463_region_66_part_009 = [
     "ballot": "single-member",
     "uikNumber": 161,
     "uikTvd": "4664005184346",
+    "uikName": "УИК №161",
     "tikTvd": "26620002596976",
     "tikName": "Ачитская",
+    "regionCode": "66",
+    "regionTvd": "100100225883658",
+    "regionName": "Свердловская область",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 90,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 80,
@@ -561,12 +669,12 @@ export const duma_2021_uik_463_region_66_part_009 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Александров Николай Викторович": 6,
-      "Исаков Тарас Мамаджанович": 6,
-      "Куделькин Александр Владимирович": 4,
-      "Муцоев Зелимхан Аликоевич": 23,
-      "Панасенко Александр Владимирович": 5,
-      "Самутин Николай Михайлович": 2
+      "4664048237718": 6,
+      "4664048237415": 6,
+      "4664048238454": 4,
+      "4664048237325": 23,
+      "4664048237145": 5,
+      "4664048237639": 2
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/sverdlovsk?action=show&root=1000227&tvd=26620002596976&vrn=100100225883172&region=66&global=&sub_region=66&prver=0&pronetvd=null&vibid=26620002596976&type=464",
@@ -576,6 +684,10 @@ export const duma_2021_uik_463_region_66_part_009 = [
       "retrievedAt": "2026-08-26T08:15:28.124846+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/sverdlovsk?action=show&root=1000227&tvd=26620002596976&vrn=100100225883172&region=66&global=&sub_region=66&prver=0&pronetvd=null&vibid=26620002596976&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 173,
+      "oikTvd": "100100225883664"
     }
   },
   {
@@ -585,8 +697,12 @@ export const duma_2021_uik_463_region_66_part_009 = [
     "ballot": "single-member",
     "uikNumber": 162,
     "uikTvd": "4664005184347",
+    "uikName": "УИК №162",
     "tikTvd": "26620002596976",
     "tikName": "Ачитская",
+    "regionCode": "66",
+    "regionTvd": "100100225883658",
+    "regionName": "Свердловская область",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 510,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 500,
@@ -602,12 +718,12 @@ export const duma_2021_uik_463_region_66_part_009 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Александров Николай Викторович": 25,
-      "Исаков Тарас Мамаджанович": 55,
-      "Куделькин Александр Владимирович": 11,
-      "Муцоев Зелимхан Аликоевич": 131,
-      "Панасенко Александр Владимирович": 23,
-      "Самутин Николай Михайлович": 23
+      "4664048237718": 25,
+      "4664048237415": 55,
+      "4664048238454": 11,
+      "4664048237325": 131,
+      "4664048237145": 23,
+      "4664048237639": 23
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/sverdlovsk?action=show&root=1000227&tvd=26620002596976&vrn=100100225883172&region=66&global=&sub_region=66&prver=0&pronetvd=null&vibid=26620002596976&type=464",
@@ -617,6 +733,10 @@ export const duma_2021_uik_463_region_66_part_009 = [
       "retrievedAt": "2026-08-26T08:15:28.124846+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/sverdlovsk?action=show&root=1000227&tvd=26620002596976&vrn=100100225883172&region=66&global=&sub_region=66&prver=0&pronetvd=null&vibid=26620002596976&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 173,
+      "oikTvd": "100100225883664"
     }
   },
   {
@@ -626,8 +746,12 @@ export const duma_2021_uik_463_region_66_part_009 = [
     "ballot": "single-member",
     "uikNumber": 164,
     "uikTvd": "4664005184348",
+    "uikName": "УИК №164",
     "tikTvd": "26620002596976",
     "tikName": "Ачитская",
+    "regionCode": "66",
+    "regionTvd": "100100225883658",
+    "regionName": "Свердловская область",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 124,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 120,
@@ -643,12 +767,12 @@ export const duma_2021_uik_463_region_66_part_009 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Александров Николай Викторович": 9,
-      "Исаков Тарас Мамаджанович": 10,
-      "Куделькин Александр Владимирович": 1,
-      "Муцоев Зелимхан Аликоевич": 57,
-      "Панасенко Александр Владимирович": 1,
-      "Самутин Николай Михайлович": 7
+      "4664048237718": 9,
+      "4664048237415": 10,
+      "4664048238454": 1,
+      "4664048237325": 57,
+      "4664048237145": 1,
+      "4664048237639": 7
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/sverdlovsk?action=show&root=1000227&tvd=26620002596976&vrn=100100225883172&region=66&global=&sub_region=66&prver=0&pronetvd=null&vibid=26620002596976&type=464",
@@ -658,6 +782,10 @@ export const duma_2021_uik_463_region_66_part_009 = [
       "retrievedAt": "2026-08-26T08:15:28.124846+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/sverdlovsk?action=show&root=1000227&tvd=26620002596976&vrn=100100225883172&region=66&global=&sub_region=66&prver=0&pronetvd=null&vibid=26620002596976&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 173,
+      "oikTvd": "100100225883664"
     }
   },
   {
@@ -667,8 +795,12 @@ export const duma_2021_uik_463_region_66_part_009 = [
     "ballot": "single-member",
     "uikNumber": 165,
     "uikTvd": "4664005184349",
+    "uikName": "УИК №165",
     "tikTvd": "26620002596976",
     "tikName": "Ачитская",
+    "regionCode": "66",
+    "regionTvd": "100100225883658",
+    "regionName": "Свердловская область",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 200,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 200,
@@ -684,12 +816,12 @@ export const duma_2021_uik_463_region_66_part_009 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Александров Николай Викторович": 8,
-      "Исаков Тарас Мамаджанович": 17,
-      "Куделькин Александр Владимирович": 3,
-      "Муцоев Зелимхан Аликоевич": 51,
-      "Панасенко Александр Владимирович": 9,
-      "Самутин Николай Михайлович": 8
+      "4664048237718": 8,
+      "4664048237415": 17,
+      "4664048238454": 3,
+      "4664048237325": 51,
+      "4664048237145": 9,
+      "4664048237639": 8
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/sverdlovsk?action=show&root=1000227&tvd=26620002596976&vrn=100100225883172&region=66&global=&sub_region=66&prver=0&pronetvd=null&vibid=26620002596976&type=464",
@@ -699,6 +831,10 @@ export const duma_2021_uik_463_region_66_part_009 = [
       "retrievedAt": "2026-08-26T08:15:28.124846+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/sverdlovsk?action=show&root=1000227&tvd=26620002596976&vrn=100100225883172&region=66&global=&sub_region=66&prver=0&pronetvd=null&vibid=26620002596976&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 173,
+      "oikTvd": "100100225883664"
     }
   },
   {
@@ -708,8 +844,12 @@ export const duma_2021_uik_463_region_66_part_009 = [
     "ballot": "single-member",
     "uikNumber": 166,
     "uikTvd": "4664005184350",
+    "uikName": "УИК №166",
     "tikTvd": "26620002596976",
     "tikName": "Ачитская",
+    "regionCode": "66",
+    "regionTvd": "100100225883658",
+    "regionName": "Свердловская область",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 752,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 750,
@@ -725,12 +865,12 @@ export const duma_2021_uik_463_region_66_part_009 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Александров Николай Викторович": 50,
-      "Исаков Тарас Мамаджанович": 81,
-      "Куделькин Александр Владимирович": 10,
-      "Муцоев Зелимхан Аликоевич": 108,
-      "Панасенко Александр Владимирович": 44,
-      "Самутин Николай Михайлович": 37
+      "4664048237718": 50,
+      "4664048237415": 81,
+      "4664048238454": 10,
+      "4664048237325": 108,
+      "4664048237145": 44,
+      "4664048237639": 37
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/sverdlovsk?action=show&root=1000227&tvd=26620002596976&vrn=100100225883172&region=66&global=&sub_region=66&prver=0&pronetvd=null&vibid=26620002596976&type=464",
@@ -740,6 +880,10 @@ export const duma_2021_uik_463_region_66_part_009 = [
       "retrievedAt": "2026-08-26T08:15:28.124846+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/sverdlovsk?action=show&root=1000227&tvd=26620002596976&vrn=100100225883172&region=66&global=&sub_region=66&prver=0&pronetvd=null&vibid=26620002596976&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 173,
+      "oikTvd": "100100225883664"
     }
   },
   {
@@ -749,8 +893,12 @@ export const duma_2021_uik_463_region_66_part_009 = [
     "ballot": "single-member",
     "uikNumber": 167,
     "uikTvd": "4664005184351",
+    "uikName": "УИК №167",
     "tikTvd": "26620002596976",
     "tikName": "Ачитская",
+    "regionCode": "66",
+    "regionTvd": "100100225883658",
+    "regionName": "Свердловская область",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 185,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 170,
@@ -766,12 +914,12 @@ export const duma_2021_uik_463_region_66_part_009 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Александров Николай Викторович": 7,
-      "Исаков Тарас Мамаджанович": 20,
-      "Куделькин Александр Владимирович": 7,
-      "Муцоев Зелимхан Аликоевич": 36,
-      "Панасенко Александр Владимирович": 11,
-      "Самутин Николай Михайлович": 11
+      "4664048237718": 7,
+      "4664048237415": 20,
+      "4664048238454": 7,
+      "4664048237325": 36,
+      "4664048237145": 11,
+      "4664048237639": 11
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/sverdlovsk?action=show&root=1000227&tvd=26620002596976&vrn=100100225883172&region=66&global=&sub_region=66&prver=0&pronetvd=null&vibid=26620002596976&type=464",
@@ -781,6 +929,10 @@ export const duma_2021_uik_463_region_66_part_009 = [
       "retrievedAt": "2026-08-26T08:15:28.124846+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/sverdlovsk?action=show&root=1000227&tvd=26620002596976&vrn=100100225883172&region=66&global=&sub_region=66&prver=0&pronetvd=null&vibid=26620002596976&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 173,
+      "oikTvd": "100100225883664"
     }
   },
   {
@@ -790,8 +942,12 @@ export const duma_2021_uik_463_region_66_part_009 = [
     "ballot": "single-member",
     "uikNumber": 170,
     "uikTvd": "4664005184352",
+    "uikName": "УИК №170",
     "tikTvd": "26620002596976",
     "tikName": "Ачитская",
+    "regionCode": "66",
+    "regionTvd": "100100225883658",
+    "regionName": "Свердловская область",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 161,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 150,
@@ -807,12 +963,12 @@ export const duma_2021_uik_463_region_66_part_009 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Александров Николай Викторович": 5,
-      "Исаков Тарас Мамаджанович": 18,
-      "Куделькин Александр Владимирович": 2,
-      "Муцоев Зелимхан Аликоевич": 35,
-      "Панасенко Александр Владимирович": 6,
-      "Самутин Николай Михайлович": 5
+      "4664048237718": 5,
+      "4664048237415": 18,
+      "4664048238454": 2,
+      "4664048237325": 35,
+      "4664048237145": 6,
+      "4664048237639": 5
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/sverdlovsk?action=show&root=1000227&tvd=26620002596976&vrn=100100225883172&region=66&global=&sub_region=66&prver=0&pronetvd=null&vibid=26620002596976&type=464",
@@ -822,6 +978,10 @@ export const duma_2021_uik_463_region_66_part_009 = [
       "retrievedAt": "2026-08-26T08:15:28.124846+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/sverdlovsk?action=show&root=1000227&tvd=26620002596976&vrn=100100225883172&region=66&global=&sub_region=66&prver=0&pronetvd=null&vibid=26620002596976&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 173,
+      "oikTvd": "100100225883664"
     }
   },
   {
@@ -831,8 +991,12 @@ export const duma_2021_uik_463_region_66_part_009 = [
     "ballot": "single-member",
     "uikNumber": 171,
     "uikTvd": "4664005184353",
+    "uikName": "УИК №171",
     "tikTvd": "26620002596976",
     "tikName": "Ачитская",
+    "regionCode": "66",
+    "regionTvd": "100100225883658",
+    "regionName": "Свердловская область",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 540,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 550,
@@ -848,12 +1012,12 @@ export const duma_2021_uik_463_region_66_part_009 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Александров Николай Викторович": 24,
-      "Исаков Тарас Мамаджанович": 63,
-      "Куделькин Александр Владимирович": 10,
-      "Муцоев Зелимхан Аликоевич": 140,
-      "Панасенко Александр Владимирович": 30,
-      "Самутин Николай Михайлович": 28
+      "4664048237718": 24,
+      "4664048237415": 63,
+      "4664048238454": 10,
+      "4664048237325": 140,
+      "4664048237145": 30,
+      "4664048237639": 28
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/sverdlovsk?action=show&root=1000227&tvd=26620002596976&vrn=100100225883172&region=66&global=&sub_region=66&prver=0&pronetvd=null&vibid=26620002596976&type=464",
@@ -863,6 +1027,10 @@ export const duma_2021_uik_463_region_66_part_009 = [
       "retrievedAt": "2026-08-26T08:15:28.124846+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/sverdlovsk?action=show&root=1000227&tvd=26620002596976&vrn=100100225883172&region=66&global=&sub_region=66&prver=0&pronetvd=null&vibid=26620002596976&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 173,
+      "oikTvd": "100100225883664"
     }
   },
   {
@@ -872,8 +1040,12 @@ export const duma_2021_uik_463_region_66_part_009 = [
     "ballot": "single-member",
     "uikNumber": 172,
     "uikTvd": "4664005184354",
+    "uikName": "УИК №172",
     "tikTvd": "26620002596976",
     "tikName": "Ачитская",
+    "regionCode": "66",
+    "regionTvd": "100100225883658",
+    "regionName": "Свердловская область",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 157,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 150,
@@ -889,12 +1061,12 @@ export const duma_2021_uik_463_region_66_part_009 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Александров Николай Викторович": 13,
-      "Исаков Тарас Мамаджанович": 21,
-      "Куделькин Александр Владимирович": 3,
-      "Муцоев Зелимхан Аликоевич": 31,
-      "Панасенко Александр Владимирович": 9,
-      "Самутин Николай Михайлович": 2
+      "4664048237718": 13,
+      "4664048237415": 21,
+      "4664048238454": 3,
+      "4664048237325": 31,
+      "4664048237145": 9,
+      "4664048237639": 2
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/sverdlovsk?action=show&root=1000227&tvd=26620002596976&vrn=100100225883172&region=66&global=&sub_region=66&prver=0&pronetvd=null&vibid=26620002596976&type=464",
@@ -904,6 +1076,10 @@ export const duma_2021_uik_463_region_66_part_009 = [
       "retrievedAt": "2026-08-26T08:15:28.124846+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/sverdlovsk?action=show&root=1000227&tvd=26620002596976&vrn=100100225883172&region=66&global=&sub_region=66&prver=0&pronetvd=null&vibid=26620002596976&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 173,
+      "oikTvd": "100100225883664"
     }
   },
   {
@@ -913,8 +1089,12 @@ export const duma_2021_uik_463_region_66_part_009 = [
     "ballot": "single-member",
     "uikNumber": 173,
     "uikTvd": "4664005184355",
+    "uikName": "УИК №173",
     "tikTvd": "26620002596976",
     "tikName": "Ачитская",
+    "regionCode": "66",
+    "regionTvd": "100100225883658",
+    "regionName": "Свердловская область",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 332,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 300,
@@ -930,12 +1110,12 @@ export const duma_2021_uik_463_region_66_part_009 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Александров Николай Викторович": 17,
-      "Исаков Тарас Мамаджанович": 48,
-      "Куделькин Александр Владимирович": 3,
-      "Муцоев Зелимхан Аликоевич": 76,
-      "Панасенко Александр Владимирович": 13,
-      "Самутин Николай Михайлович": 25
+      "4664048237718": 17,
+      "4664048237415": 48,
+      "4664048238454": 3,
+      "4664048237325": 76,
+      "4664048237145": 13,
+      "4664048237639": 25
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/sverdlovsk?action=show&root=1000227&tvd=26620002596976&vrn=100100225883172&region=66&global=&sub_region=66&prver=0&pronetvd=null&vibid=26620002596976&type=464",
@@ -945,6 +1125,10 @@ export const duma_2021_uik_463_region_66_part_009 = [
       "retrievedAt": "2026-08-26T08:15:28.124846+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/sverdlovsk?action=show&root=1000227&tvd=26620002596976&vrn=100100225883172&region=66&global=&sub_region=66&prver=0&pronetvd=null&vibid=26620002596976&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 173,
+      "oikTvd": "100100225883664"
     }
   },
   {
@@ -954,8 +1138,12 @@ export const duma_2021_uik_463_region_66_part_009 = [
     "ballot": "single-member",
     "uikNumber": 174,
     "uikTvd": "4664005184356",
+    "uikName": "УИК №174",
     "tikTvd": "26620002596976",
     "tikName": "Ачитская",
+    "regionCode": "66",
+    "regionTvd": "100100225883658",
+    "regionName": "Свердловская область",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 397,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 350,
@@ -971,12 +1159,12 @@ export const duma_2021_uik_463_region_66_part_009 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Александров Николай Викторович": 13,
-      "Исаков Тарас Мамаджанович": 63,
-      "Куделькин Александр Владимирович": 13,
-      "Муцоев Зелимхан Аликоевич": 111,
-      "Панасенко Александр Владимирович": 16,
-      "Самутин Николай Михайлович": 18
+      "4664048237718": 13,
+      "4664048237415": 63,
+      "4664048238454": 13,
+      "4664048237325": 111,
+      "4664048237145": 16,
+      "4664048237639": 18
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/sverdlovsk?action=show&root=1000227&tvd=26620002596976&vrn=100100225883172&region=66&global=&sub_region=66&prver=0&pronetvd=null&vibid=26620002596976&type=464",
@@ -986,6 +1174,10 @@ export const duma_2021_uik_463_region_66_part_009 = [
       "retrievedAt": "2026-08-26T08:15:28.124846+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/sverdlovsk?action=show&root=1000227&tvd=26620002596976&vrn=100100225883172&region=66&global=&sub_region=66&prver=0&pronetvd=null&vibid=26620002596976&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 173,
+      "oikTvd": "100100225883664"
     }
   },
   {
@@ -995,8 +1187,12 @@ export const duma_2021_uik_463_region_66_part_009 = [
     "ballot": "single-member",
     "uikNumber": 176,
     "uikTvd": "4664005184357",
+    "uikName": "УИК №176",
     "tikTvd": "26620002596976",
     "tikName": "Ачитская",
+    "regionCode": "66",
+    "regionTvd": "100100225883658",
+    "regionName": "Свердловская область",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 263,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 250,
@@ -1012,12 +1208,12 @@ export const duma_2021_uik_463_region_66_part_009 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Александров Николай Викторович": 13,
-      "Исаков Тарас Мамаджанович": 54,
-      "Куделькин Александр Владимирович": 1,
-      "Муцоев Зелимхан Аликоевич": 64,
-      "Панасенко Александр Владимирович": 6,
-      "Самутин Николай Михайлович": 9
+      "4664048237718": 13,
+      "4664048237415": 54,
+      "4664048238454": 1,
+      "4664048237325": 64,
+      "4664048237145": 6,
+      "4664048237639": 9
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/sverdlovsk?action=show&root=1000227&tvd=26620002596976&vrn=100100225883172&region=66&global=&sub_region=66&prver=0&pronetvd=null&vibid=26620002596976&type=464",
@@ -1027,6 +1223,10 @@ export const duma_2021_uik_463_region_66_part_009 = [
       "retrievedAt": "2026-08-26T08:15:28.124846+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/sverdlovsk?action=show&root=1000227&tvd=26620002596976&vrn=100100225883172&region=66&global=&sub_region=66&prver=0&pronetvd=null&vibid=26620002596976&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 173,
+      "oikTvd": "100100225883664"
     }
   },
   {
@@ -1036,8 +1236,12 @@ export const duma_2021_uik_463_region_66_part_009 = [
     "ballot": "single-member",
     "uikNumber": 177,
     "uikTvd": "4664005184358",
+    "uikName": "УИК №177",
     "tikTvd": "26620002596976",
     "tikName": "Ачитская",
+    "regionCode": "66",
+    "regionTvd": "100100225883658",
+    "regionName": "Свердловская область",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 101,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 100,
@@ -1053,12 +1257,12 @@ export const duma_2021_uik_463_region_66_part_009 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Александров Николай Викторович": 6,
-      "Исаков Тарас Мамаджанович": 14,
-      "Куделькин Александр Владимирович": 1,
-      "Муцоев Зелимхан Аликоевич": 20,
-      "Панасенко Александр Владимирович": 4,
-      "Самутин Николай Михайлович": 5
+      "4664048237718": 6,
+      "4664048237415": 14,
+      "4664048238454": 1,
+      "4664048237325": 20,
+      "4664048237145": 4,
+      "4664048237639": 5
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/sverdlovsk?action=show&root=1000227&tvd=26620002596976&vrn=100100225883172&region=66&global=&sub_region=66&prver=0&pronetvd=null&vibid=26620002596976&type=464",
@@ -1068,6 +1272,10 @@ export const duma_2021_uik_463_region_66_part_009 = [
       "retrievedAt": "2026-08-26T08:15:28.124846+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/sverdlovsk?action=show&root=1000227&tvd=26620002596976&vrn=100100225883172&region=66&global=&sub_region=66&prver=0&pronetvd=null&vibid=26620002596976&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 173,
+      "oikTvd": "100100225883664"
     }
   },
   {
@@ -1077,8 +1285,12 @@ export const duma_2021_uik_463_region_66_part_009 = [
     "ballot": "single-member",
     "uikNumber": 178,
     "uikTvd": "4664005184359",
+    "uikName": "УИК №178",
     "tikTvd": "26620002596976",
     "tikName": "Ачитская",
+    "regionCode": "66",
+    "regionTvd": "100100225883658",
+    "regionName": "Свердловская область",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 72,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 65,
@@ -1094,12 +1306,12 @@ export const duma_2021_uik_463_region_66_part_009 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Александров Николай Викторович": 7,
-      "Исаков Тарас Мамаджанович": 11,
-      "Куделькин Александр Владимирович": 1,
-      "Муцоев Зелимхан Аликоевич": 19,
-      "Панасенко Александр Владимирович": 3,
-      "Самутин Николай Михайлович": 1
+      "4664048237718": 7,
+      "4664048237415": 11,
+      "4664048238454": 1,
+      "4664048237325": 19,
+      "4664048237145": 3,
+      "4664048237639": 1
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/sverdlovsk?action=show&root=1000227&tvd=26620002596976&vrn=100100225883172&region=66&global=&sub_region=66&prver=0&pronetvd=null&vibid=26620002596976&type=464",
@@ -1109,6 +1321,10 @@ export const duma_2021_uik_463_region_66_part_009 = [
       "retrievedAt": "2026-08-26T08:15:28.124846+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/sverdlovsk?action=show&root=1000227&tvd=26620002596976&vrn=100100225883172&region=66&global=&sub_region=66&prver=0&pronetvd=null&vibid=26620002596976&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 173,
+      "oikTvd": "100100225883664"
     }
   },
   {
@@ -1118,8 +1334,12 @@ export const duma_2021_uik_463_region_66_part_009 = [
     "ballot": "single-member",
     "uikNumber": 179,
     "uikTvd": "4664005184360",
+    "uikName": "УИК №179",
     "tikTvd": "26620002596976",
     "tikName": "Ачитская",
+    "regionCode": "66",
+    "regionTvd": "100100225883658",
+    "regionName": "Свердловская область",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 292,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 275,
@@ -1135,12 +1355,12 @@ export const duma_2021_uik_463_region_66_part_009 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Александров Николай Викторович": 12,
-      "Исаков Тарас Мамаджанович": 42,
-      "Куделькин Александр Владимирович": 6,
-      "Муцоев Зелимхан Аликоевич": 57,
-      "Панасенко Александр Владимирович": 22,
-      "Самутин Николай Михайлович": 26
+      "4664048237718": 12,
+      "4664048237415": 42,
+      "4664048238454": 6,
+      "4664048237325": 57,
+      "4664048237145": 22,
+      "4664048237639": 26
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/sverdlovsk?action=show&root=1000227&tvd=26620002596976&vrn=100100225883172&region=66&global=&sub_region=66&prver=0&pronetvd=null&vibid=26620002596976&type=464",
@@ -1150,6 +1370,10 @@ export const duma_2021_uik_463_region_66_part_009 = [
       "retrievedAt": "2026-08-26T08:15:28.124846+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/sverdlovsk?action=show&root=1000227&tvd=26620002596976&vrn=100100225883172&region=66&global=&sub_region=66&prver=0&pronetvd=null&vibid=26620002596976&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 173,
+      "oikTvd": "100100225883664"
     }
   },
   {
@@ -1159,8 +1383,12 @@ export const duma_2021_uik_463_region_66_part_009 = [
     "ballot": "single-member",
     "uikNumber": 181,
     "uikTvd": "4664005184361",
+    "uikName": "УИК №181",
     "tikTvd": "26620002596976",
     "tikName": "Ачитская",
+    "regionCode": "66",
+    "regionTvd": "100100225883658",
+    "regionName": "Свердловская область",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 70,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 70,
@@ -1176,12 +1404,12 @@ export const duma_2021_uik_463_region_66_part_009 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Александров Николай Викторович": 2,
-      "Исаков Тарас Мамаджанович": 7,
-      "Куделькин Александр Владимирович": 0,
-      "Муцоев Зелимхан Аликоевич": 31,
-      "Панасенко Александр Владимирович": 3,
-      "Самутин Николай Михайлович": 2
+      "4664048237718": 2,
+      "4664048237415": 7,
+      "4664048238454": 0,
+      "4664048237325": 31,
+      "4664048237145": 3,
+      "4664048237639": 2
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/sverdlovsk?action=show&root=1000227&tvd=26620002596976&vrn=100100225883172&region=66&global=&sub_region=66&prver=0&pronetvd=null&vibid=26620002596976&type=464",
@@ -1191,6 +1419,10 @@ export const duma_2021_uik_463_region_66_part_009 = [
       "retrievedAt": "2026-08-26T08:15:28.124846+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/sverdlovsk?action=show&root=1000227&tvd=26620002596976&vrn=100100225883172&region=66&global=&sub_region=66&prver=0&pronetvd=null&vibid=26620002596976&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 173,
+      "oikTvd": "100100225883664"
     }
   },
   {
@@ -1200,8 +1432,12 @@ export const duma_2021_uik_463_region_66_part_009 = [
     "ballot": "single-member",
     "uikNumber": 182,
     "uikTvd": "4664005184362",
+    "uikName": "УИК №182",
     "tikTvd": "26620002596976",
     "tikName": "Ачитская",
+    "regionCode": "66",
+    "regionTvd": "100100225883658",
+    "regionName": "Свердловская область",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 73,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 70,
@@ -1217,12 +1453,12 @@ export const duma_2021_uik_463_region_66_part_009 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Александров Николай Викторович": 2,
-      "Исаков Тарас Мамаджанович": 7,
-      "Куделькин Александр Владимирович": 1,
-      "Муцоев Зелимхан Аликоевич": 29,
-      "Панасенко Александр Владимирович": 4,
-      "Самутин Николай Михайлович": 7
+      "4664048237718": 2,
+      "4664048237415": 7,
+      "4664048238454": 1,
+      "4664048237325": 29,
+      "4664048237145": 4,
+      "4664048237639": 7
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/sverdlovsk?action=show&root=1000227&tvd=26620002596976&vrn=100100225883172&region=66&global=&sub_region=66&prver=0&pronetvd=null&vibid=26620002596976&type=464",
@@ -1232,6 +1468,10 @@ export const duma_2021_uik_463_region_66_part_009 = [
       "retrievedAt": "2026-08-26T08:15:28.124846+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/sverdlovsk?action=show&root=1000227&tvd=26620002596976&vrn=100100225883172&region=66&global=&sub_region=66&prver=0&pronetvd=null&vibid=26620002596976&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 173,
+      "oikTvd": "100100225883664"
     }
   },
   {
@@ -1241,8 +1481,12 @@ export const duma_2021_uik_463_region_66_part_009 = [
     "ballot": "single-member",
     "uikNumber": 183,
     "uikTvd": "4664005184363",
+    "uikName": "УИК №183",
     "tikTvd": "26620002596976",
     "tikName": "Ачитская",
+    "regionCode": "66",
+    "regionTvd": "100100225883658",
+    "regionName": "Свердловская область",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 830,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 800,
@@ -1258,12 +1502,12 @@ export const duma_2021_uik_463_region_66_part_009 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Александров Николай Викторович": 42,
-      "Исаков Тарас Мамаджанович": 98,
-      "Куделькин Александр Владимирович": 14,
-      "Муцоев Зелимхан Аликоевич": 158,
-      "Панасенко Александр Владимирович": 44,
-      "Самутин Николай Михайлович": 60
+      "4664048237718": 42,
+      "4664048237415": 98,
+      "4664048238454": 14,
+      "4664048237325": 158,
+      "4664048237145": 44,
+      "4664048237639": 60
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/sverdlovsk?action=show&root=1000227&tvd=26620002596976&vrn=100100225883172&region=66&global=&sub_region=66&prver=0&pronetvd=null&vibid=26620002596976&type=464",
@@ -1273,6 +1517,10 @@ export const duma_2021_uik_463_region_66_part_009 = [
       "retrievedAt": "2026-08-26T08:15:28.124846+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/sverdlovsk?action=show&root=1000227&tvd=26620002596976&vrn=100100225883172&region=66&global=&sub_region=66&prver=0&pronetvd=null&vibid=26620002596976&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 173,
+      "oikTvd": "100100225883664"
     }
   },
   {
@@ -1282,8 +1530,12 @@ export const duma_2021_uik_463_region_66_part_009 = [
     "ballot": "single-member",
     "uikNumber": 184,
     "uikTvd": "4664005184364",
+    "uikName": "УИК №184",
     "tikTvd": "26620002596976",
     "tikName": "Ачитская",
+    "regionCode": "66",
+    "regionTvd": "100100225883658",
+    "regionName": "Свердловская область",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 1417,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 1400,
@@ -1299,12 +1551,12 @@ export const duma_2021_uik_463_region_66_part_009 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Александров Николай Викторович": 81,
-      "Исаков Тарас Мамаджанович": 174,
-      "Куделькин Александр Владимирович": 26,
-      "Муцоев Зелимхан Аликоевич": 261,
-      "Панасенко Александр Владимирович": 65,
-      "Самутин Николай Михайлович": 65
+      "4664048237718": 81,
+      "4664048237415": 174,
+      "4664048238454": 26,
+      "4664048237325": 261,
+      "4664048237145": 65,
+      "4664048237639": 65
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/sverdlovsk?action=show&root=1000227&tvd=26620002596976&vrn=100100225883172&region=66&global=&sub_region=66&prver=0&pronetvd=null&vibid=26620002596976&type=464",
@@ -1314,6 +1566,10 @@ export const duma_2021_uik_463_region_66_part_009 = [
       "retrievedAt": "2026-08-26T08:15:28.124846+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/sverdlovsk?action=show&root=1000227&tvd=26620002596976&vrn=100100225883172&region=66&global=&sub_region=66&prver=0&pronetvd=null&vibid=26620002596976&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 173,
+      "oikTvd": "100100225883664"
     }
   },
   {
@@ -1323,8 +1579,12 @@ export const duma_2021_uik_463_region_66_part_009 = [
     "ballot": "single-member",
     "uikNumber": 97,
     "uikTvd": "4664003205686",
+    "uikName": "УИК №97",
     "tikTvd": "26620002596977",
     "tikName": "Артинская",
+    "regionCode": "66",
+    "regionTvd": "100100225883658",
+    "regionName": "Свердловская область",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 1237,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 1000,
@@ -1340,12 +1600,12 @@ export const duma_2021_uik_463_region_66_part_009 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Александров Николай Викторович": 53,
-      "Исаков Тарас Мамаджанович": 111,
-      "Куделькин Александр Владимирович": 18,
-      "Муцоев Зелимхан Аликоевич": 263,
-      "Панасенко Александр Владимирович": 43,
-      "Самутин Николай Михайлович": 98
+      "4664048237718": 53,
+      "4664048237415": 111,
+      "4664048238454": 18,
+      "4664048237325": 263,
+      "4664048237145": 43,
+      "4664048237639": 98
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/sverdlovsk?action=show&root=1000227&tvd=26620002596977&vrn=100100225883172&region=66&global=&sub_region=66&prver=0&pronetvd=null&vibid=26620002596977&type=464",
@@ -1355,6 +1615,10 @@ export const duma_2021_uik_463_region_66_part_009 = [
       "retrievedAt": "2026-08-26T08:06:39.133314+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/sverdlovsk?action=show&root=1000227&tvd=26620002596977&vrn=100100225883172&region=66&global=&sub_region=66&prver=0&pronetvd=null&vibid=26620002596977&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 173,
+      "oikTvd": "100100225883664"
     }
   },
   {
@@ -1364,8 +1628,12 @@ export const duma_2021_uik_463_region_66_part_009 = [
     "ballot": "single-member",
     "uikNumber": 98,
     "uikTvd": "4664003205687",
+    "uikName": "УИК №98",
     "tikTvd": "26620002596977",
     "tikName": "Артинская",
+    "regionCode": "66",
+    "regionTvd": "100100225883658",
+    "regionName": "Свердловская область",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 1158,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 1000,
@@ -1381,12 +1649,12 @@ export const duma_2021_uik_463_region_66_part_009 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Александров Николай Викторович": 29,
-      "Исаков Тарас Мамаджанович": 116,
-      "Куделькин Александр Владимирович": 15,
-      "Муцоев Зелимхан Аликоевич": 319,
-      "Панасенко Александр Владимирович": 43,
-      "Самутин Николай Михайлович": 107
+      "4664048237718": 29,
+      "4664048237415": 116,
+      "4664048238454": 15,
+      "4664048237325": 319,
+      "4664048237145": 43,
+      "4664048237639": 107
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/sverdlovsk?action=show&root=1000227&tvd=26620002596977&vrn=100100225883172&region=66&global=&sub_region=66&prver=0&pronetvd=null&vibid=26620002596977&type=464",
@@ -1396,6 +1664,10 @@ export const duma_2021_uik_463_region_66_part_009 = [
       "retrievedAt": "2026-08-26T08:06:39.133314+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/sverdlovsk?action=show&root=1000227&tvd=26620002596977&vrn=100100225883172&region=66&global=&sub_region=66&prver=0&pronetvd=null&vibid=26620002596977&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 173,
+      "oikTvd": "100100225883664"
     }
   },
   {
@@ -1405,8 +1677,12 @@ export const duma_2021_uik_463_region_66_part_009 = [
     "ballot": "single-member",
     "uikNumber": 99,
     "uikTvd": "4664003205688",
+    "uikName": "УИК №99",
     "tikTvd": "26620002596977",
     "tikName": "Артинская",
+    "regionCode": "66",
+    "regionTvd": "100100225883658",
+    "regionName": "Свердловская область",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 1195,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 1000,
@@ -1422,12 +1698,12 @@ export const duma_2021_uik_463_region_66_part_009 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Александров Николай Викторович": 29,
-      "Исаков Тарас Мамаджанович": 121,
-      "Куделькин Александр Владимирович": 18,
-      "Муцоев Зелимхан Аликоевич": 266,
-      "Панасенко Александр Владимирович": 55,
-      "Самутин Николай Михайлович": 101
+      "4664048237718": 29,
+      "4664048237415": 121,
+      "4664048238454": 18,
+      "4664048237325": 266,
+      "4664048237145": 55,
+      "4664048237639": 101
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/sverdlovsk?action=show&root=1000227&tvd=26620002596977&vrn=100100225883172&region=66&global=&sub_region=66&prver=0&pronetvd=null&vibid=26620002596977&type=464",
@@ -1437,6 +1713,10 @@ export const duma_2021_uik_463_region_66_part_009 = [
       "retrievedAt": "2026-08-26T08:06:39.133314+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/sverdlovsk?action=show&root=1000227&tvd=26620002596977&vrn=100100225883172&region=66&global=&sub_region=66&prver=0&pronetvd=null&vibid=26620002596977&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 173,
+      "oikTvd": "100100225883664"
     }
   },
   {
@@ -1446,8 +1726,12 @@ export const duma_2021_uik_463_region_66_part_009 = [
     "ballot": "single-member",
     "uikNumber": 100,
     "uikTvd": "4664003205689",
+    "uikName": "УИК №100",
     "tikTvd": "26620002596977",
     "tikName": "Артинская",
+    "regionCode": "66",
+    "regionTvd": "100100225883658",
+    "regionName": "Свердловская область",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 1448,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 1200,
@@ -1463,12 +1747,12 @@ export const duma_2021_uik_463_region_66_part_009 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Александров Николай Викторович": 46,
-      "Исаков Тарас Мамаджанович": 138,
-      "Куделькин Александр Владимирович": 17,
-      "Муцоев Зелимхан Аликоевич": 307,
-      "Панасенко Александр Владимирович": 47,
-      "Самутин Николай Михайлович": 116
+      "4664048237718": 46,
+      "4664048237415": 138,
+      "4664048238454": 17,
+      "4664048237325": 307,
+      "4664048237145": 47,
+      "4664048237639": 116
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/sverdlovsk?action=show&root=1000227&tvd=26620002596977&vrn=100100225883172&region=66&global=&sub_region=66&prver=0&pronetvd=null&vibid=26620002596977&type=464",
@@ -1478,6 +1762,10 @@ export const duma_2021_uik_463_region_66_part_009 = [
       "retrievedAt": "2026-08-26T08:06:39.133314+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/sverdlovsk?action=show&root=1000227&tvd=26620002596977&vrn=100100225883172&region=66&global=&sub_region=66&prver=0&pronetvd=null&vibid=26620002596977&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 173,
+      "oikTvd": "100100225883664"
     }
   },
   {
@@ -1487,8 +1775,12 @@ export const duma_2021_uik_463_region_66_part_009 = [
     "ballot": "single-member",
     "uikNumber": 101,
     "uikTvd": "4664003205690",
+    "uikName": "УИК №101",
     "tikTvd": "26620002596977",
     "tikName": "Артинская",
+    "regionCode": "66",
+    "regionTvd": "100100225883658",
+    "regionName": "Свердловская область",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 1364,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 1000,
@@ -1504,12 +1796,12 @@ export const duma_2021_uik_463_region_66_part_009 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Александров Николай Викторович": 49,
-      "Исаков Тарас Мамаджанович": 146,
-      "Куделькин Александр Владимирович": 22,
-      "Муцоев Зелимхан Аликоевич": 380,
-      "Панасенко Александр Владимирович": 46,
-      "Самутин Николай Михайлович": 94
+      "4664048237718": 49,
+      "4664048237415": 146,
+      "4664048238454": 22,
+      "4664048237325": 380,
+      "4664048237145": 46,
+      "4664048237639": 94
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/sverdlovsk?action=show&root=1000227&tvd=26620002596977&vrn=100100225883172&region=66&global=&sub_region=66&prver=0&pronetvd=null&vibid=26620002596977&type=464",
@@ -1519,6 +1811,10 @@ export const duma_2021_uik_463_region_66_part_009 = [
       "retrievedAt": "2026-08-26T08:06:39.133314+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/sverdlovsk?action=show&root=1000227&tvd=26620002596977&vrn=100100225883172&region=66&global=&sub_region=66&prver=0&pronetvd=null&vibid=26620002596977&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 173,
+      "oikTvd": "100100225883664"
     }
   },
   {
@@ -1528,8 +1824,12 @@ export const duma_2021_uik_463_region_66_part_009 = [
     "ballot": "single-member",
     "uikNumber": 102,
     "uikTvd": "4664003205691",
+    "uikName": "УИК №102",
     "tikTvd": "26620002596977",
     "tikName": "Артинская",
+    "regionCode": "66",
+    "regionTvd": "100100225883658",
+    "regionName": "Свердловская область",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 1332,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 1000,
@@ -1545,12 +1845,12 @@ export const duma_2021_uik_463_region_66_part_009 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Александров Николай Викторович": 47,
-      "Исаков Тарас Мамаджанович": 134,
-      "Куделькин Александр Владимирович": 19,
-      "Муцоев Зелимхан Аликоевич": 277,
-      "Панасенко Александр Владимирович": 43,
-      "Самутин Николай Михайлович": 82
+      "4664048237718": 47,
+      "4664048237415": 134,
+      "4664048238454": 19,
+      "4664048237325": 277,
+      "4664048237145": 43,
+      "4664048237639": 82
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/sverdlovsk?action=show&root=1000227&tvd=26620002596977&vrn=100100225883172&region=66&global=&sub_region=66&prver=0&pronetvd=null&vibid=26620002596977&type=464",
@@ -1560,6 +1860,10 @@ export const duma_2021_uik_463_region_66_part_009 = [
       "retrievedAt": "2026-08-26T08:06:39.133314+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/sverdlovsk?action=show&root=1000227&tvd=26620002596977&vrn=100100225883172&region=66&global=&sub_region=66&prver=0&pronetvd=null&vibid=26620002596977&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 173,
+      "oikTvd": "100100225883664"
     }
   },
   {
@@ -1569,8 +1873,12 @@ export const duma_2021_uik_463_region_66_part_009 = [
     "ballot": "single-member",
     "uikNumber": 103,
     "uikTvd": "4664003205692",
+    "uikName": "УИК №103",
     "tikTvd": "26620002596977",
     "tikName": "Артинская",
+    "regionCode": "66",
+    "regionTvd": "100100225883658",
+    "regionName": "Свердловская область",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 243,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 230,
@@ -1586,12 +1894,12 @@ export const duma_2021_uik_463_region_66_part_009 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Александров Николай Викторович": 18,
-      "Исаков Тарас Мамаджанович": 21,
-      "Куделькин Александр Владимирович": 2,
-      "Муцоев Зелимхан Аликоевич": 55,
-      "Панасенко Александр Владимирович": 17,
-      "Самутин Николай Михайлович": 10
+      "4664048237718": 18,
+      "4664048237415": 21,
+      "4664048238454": 2,
+      "4664048237325": 55,
+      "4664048237145": 17,
+      "4664048237639": 10
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/sverdlovsk?action=show&root=1000227&tvd=26620002596977&vrn=100100225883172&region=66&global=&sub_region=66&prver=0&pronetvd=null&vibid=26620002596977&type=464",
@@ -1601,6 +1909,10 @@ export const duma_2021_uik_463_region_66_part_009 = [
       "retrievedAt": "2026-08-26T08:06:39.133314+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/sverdlovsk?action=show&root=1000227&tvd=26620002596977&vrn=100100225883172&region=66&global=&sub_region=66&prver=0&pronetvd=null&vibid=26620002596977&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 173,
+      "oikTvd": "100100225883664"
     }
   },
   {
@@ -1610,8 +1922,12 @@ export const duma_2021_uik_463_region_66_part_009 = [
     "ballot": "single-member",
     "uikNumber": 104,
     "uikTvd": "4664003205693",
+    "uikName": "УИК №104",
     "tikTvd": "26620002596977",
     "tikName": "Артинская",
+    "regionCode": "66",
+    "regionTvd": "100100225883658",
+    "regionName": "Свердловская область",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 558,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 500,
@@ -1627,12 +1943,12 @@ export const duma_2021_uik_463_region_66_part_009 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Александров Николай Викторович": 28,
-      "Исаков Тарас Мамаджанович": 132,
-      "Куделькин Александр Владимирович": 7,
-      "Муцоев Зелимхан Аликоевич": 190,
-      "Панасенко Александр Владимирович": 15,
-      "Самутин Николай Михайлович": 13
+      "4664048237718": 28,
+      "4664048237415": 132,
+      "4664048238454": 7,
+      "4664048237325": 190,
+      "4664048237145": 15,
+      "4664048237639": 13
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/sverdlovsk?action=show&root=1000227&tvd=26620002596977&vrn=100100225883172&region=66&global=&sub_region=66&prver=0&pronetvd=null&vibid=26620002596977&type=464",
@@ -1642,6 +1958,10 @@ export const duma_2021_uik_463_region_66_part_009 = [
       "retrievedAt": "2026-08-26T08:06:39.133314+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/sverdlovsk?action=show&root=1000227&tvd=26620002596977&vrn=100100225883172&region=66&global=&sub_region=66&prver=0&pronetvd=null&vibid=26620002596977&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 173,
+      "oikTvd": "100100225883664"
     }
   },
   {
@@ -1651,8 +1971,12 @@ export const duma_2021_uik_463_region_66_part_009 = [
     "ballot": "single-member",
     "uikNumber": 106,
     "uikTvd": "4664003205694",
+    "uikName": "УИК №106",
     "tikTvd": "26620002596977",
     "tikName": "Артинская",
+    "regionCode": "66",
+    "regionTvd": "100100225883658",
+    "regionName": "Свердловская область",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 1299,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 1000,
@@ -1668,12 +1992,12 @@ export const duma_2021_uik_463_region_66_part_009 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Александров Николай Викторович": 48,
-      "Исаков Тарас Мамаджанович": 139,
-      "Куделькин Александр Владимирович": 12,
-      "Муцоев Зелимхан Аликоевич": 304,
-      "Панасенко Александр Владимирович": 39,
-      "Самутин Николай Михайлович": 84
+      "4664048237718": 48,
+      "4664048237415": 139,
+      "4664048238454": 12,
+      "4664048237325": 304,
+      "4664048237145": 39,
+      "4664048237639": 84
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/sverdlovsk?action=show&root=1000227&tvd=26620002596977&vrn=100100225883172&region=66&global=&sub_region=66&prver=0&pronetvd=null&vibid=26620002596977&type=464",
@@ -1683,6 +2007,10 @@ export const duma_2021_uik_463_region_66_part_009 = [
       "retrievedAt": "2026-08-26T08:06:39.133314+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/sverdlovsk?action=show&root=1000227&tvd=26620002596977&vrn=100100225883172&region=66&global=&sub_region=66&prver=0&pronetvd=null&vibid=26620002596977&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 173,
+      "oikTvd": "100100225883664"
     }
   },
   {
@@ -1692,8 +2020,12 @@ export const duma_2021_uik_463_region_66_part_009 = [
     "ballot": "single-member",
     "uikNumber": 107,
     "uikTvd": "4664003205695",
+    "uikName": "УИК №107",
     "tikTvd": "26620002596977",
     "tikName": "Артинская",
+    "regionCode": "66",
+    "regionTvd": "100100225883658",
+    "regionName": "Свердловская область",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 146,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 140,
@@ -1709,12 +2041,12 @@ export const duma_2021_uik_463_region_66_part_009 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Александров Николай Викторович": 6,
-      "Исаков Тарас Мамаджанович": 28,
-      "Куделькин Александр Владимирович": 4,
-      "Муцоев Зелимхан Аликоевич": 37,
-      "Панасенко Александр Владимирович": 6,
-      "Самутин Николай Михайлович": 7
+      "4664048237718": 6,
+      "4664048237415": 28,
+      "4664048238454": 4,
+      "4664048237325": 37,
+      "4664048237145": 6,
+      "4664048237639": 7
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/sverdlovsk?action=show&root=1000227&tvd=26620002596977&vrn=100100225883172&region=66&global=&sub_region=66&prver=0&pronetvd=null&vibid=26620002596977&type=464",
@@ -1724,6 +2056,10 @@ export const duma_2021_uik_463_region_66_part_009 = [
       "retrievedAt": "2026-08-26T08:06:39.133314+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/sverdlovsk?action=show&root=1000227&tvd=26620002596977&vrn=100100225883172&region=66&global=&sub_region=66&prver=0&pronetvd=null&vibid=26620002596977&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 173,
+      "oikTvd": "100100225883664"
     }
   },
   {
@@ -1733,8 +2069,12 @@ export const duma_2021_uik_463_region_66_part_009 = [
     "ballot": "single-member",
     "uikNumber": 108,
     "uikTvd": "4664003205696",
+    "uikName": "УИК №108",
     "tikTvd": "26620002596977",
     "tikName": "Артинская",
+    "regionCode": "66",
+    "regionTvd": "100100225883658",
+    "regionName": "Свердловская область",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 514,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 450,
@@ -1750,12 +2090,12 @@ export const duma_2021_uik_463_region_66_part_009 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Александров Николай Викторович": 13,
-      "Исаков Тарас Мамаджанович": 92,
-      "Куделькин Александр Владимирович": 14,
-      "Муцоев Зелимхан Аликоевич": 117,
-      "Панасенко Александр Владимирович": 21,
-      "Самутин Николай Михайлович": 24
+      "4664048237718": 13,
+      "4664048237415": 92,
+      "4664048238454": 14,
+      "4664048237325": 117,
+      "4664048237145": 21,
+      "4664048237639": 24
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/sverdlovsk?action=show&root=1000227&tvd=26620002596977&vrn=100100225883172&region=66&global=&sub_region=66&prver=0&pronetvd=null&vibid=26620002596977&type=464",
@@ -1765,6 +2105,10 @@ export const duma_2021_uik_463_region_66_part_009 = [
       "retrievedAt": "2026-08-26T08:06:39.133314+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/sverdlovsk?action=show&root=1000227&tvd=26620002596977&vrn=100100225883172&region=66&global=&sub_region=66&prver=0&pronetvd=null&vibid=26620002596977&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 173,
+      "oikTvd": "100100225883664"
     }
   },
   {
@@ -1774,8 +2118,12 @@ export const duma_2021_uik_463_region_66_part_009 = [
     "ballot": "single-member",
     "uikNumber": 111,
     "uikTvd": "4664003205697",
+    "uikName": "УИК №111",
     "tikTvd": "26620002596977",
     "tikName": "Артинская",
+    "regionCode": "66",
+    "regionTvd": "100100225883658",
+    "regionName": "Свердловская область",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 128,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 125,
@@ -1791,12 +2139,12 @@ export const duma_2021_uik_463_region_66_part_009 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Александров Николай Викторович": 4,
-      "Исаков Тарас Мамаджанович": 23,
-      "Куделькин Александр Владимирович": 4,
-      "Муцоев Зелимхан Аликоевич": 34,
-      "Панасенко Александр Владимирович": 3,
-      "Самутин Николай Михайлович": 6
+      "4664048237718": 4,
+      "4664048237415": 23,
+      "4664048238454": 4,
+      "4664048237325": 34,
+      "4664048237145": 3,
+      "4664048237639": 6
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/sverdlovsk?action=show&root=1000227&tvd=26620002596977&vrn=100100225883172&region=66&global=&sub_region=66&prver=0&pronetvd=null&vibid=26620002596977&type=464",
@@ -1806,6 +2154,10 @@ export const duma_2021_uik_463_region_66_part_009 = [
       "retrievedAt": "2026-08-26T08:06:39.133314+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/sverdlovsk?action=show&root=1000227&tvd=26620002596977&vrn=100100225883172&region=66&global=&sub_region=66&prver=0&pronetvd=null&vibid=26620002596977&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 173,
+      "oikTvd": "100100225883664"
     }
   },
   {
@@ -1815,8 +2167,12 @@ export const duma_2021_uik_463_region_66_part_009 = [
     "ballot": "single-member",
     "uikNumber": 113,
     "uikTvd": "4664003205698",
+    "uikName": "УИК №113",
     "tikTvd": "26620002596977",
     "tikName": "Артинская",
+    "regionCode": "66",
+    "regionTvd": "100100225883658",
+    "regionName": "Свердловская область",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 348,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 350,
@@ -1832,12 +2188,12 @@ export const duma_2021_uik_463_region_66_part_009 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Александров Николай Викторович": 14,
-      "Исаков Тарас Мамаджанович": 39,
-      "Куделькин Александр Владимирович": 3,
-      "Муцоев Зелимхан Аликоевич": 136,
-      "Панасенко Александр Владимирович": 6,
-      "Самутин Николай Михайлович": 15
+      "4664048237718": 14,
+      "4664048237415": 39,
+      "4664048238454": 3,
+      "4664048237325": 136,
+      "4664048237145": 6,
+      "4664048237639": 15
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/sverdlovsk?action=show&root=1000227&tvd=26620002596977&vrn=100100225883172&region=66&global=&sub_region=66&prver=0&pronetvd=null&vibid=26620002596977&type=464",
@@ -1847,6 +2203,10 @@ export const duma_2021_uik_463_region_66_part_009 = [
       "retrievedAt": "2026-08-26T08:06:39.133314+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/sverdlovsk?action=show&root=1000227&tvd=26620002596977&vrn=100100225883172&region=66&global=&sub_region=66&prver=0&pronetvd=null&vibid=26620002596977&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 173,
+      "oikTvd": "100100225883664"
     }
   },
   {
@@ -1856,8 +2216,12 @@ export const duma_2021_uik_463_region_66_part_009 = [
     "ballot": "single-member",
     "uikNumber": 114,
     "uikTvd": "4664003205699",
+    "uikName": "УИК №114",
     "tikTvd": "26620002596977",
     "tikName": "Артинская",
+    "regionCode": "66",
+    "regionTvd": "100100225883658",
+    "regionName": "Свердловская область",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 630,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 570,
@@ -1873,12 +2237,12 @@ export const duma_2021_uik_463_region_66_part_009 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Александров Николай Викторович": 30,
-      "Исаков Тарас Мамаджанович": 83,
-      "Куделькин Александр Владимирович": 4,
-      "Муцоев Зелимхан Аликоевич": 189,
-      "Панасенко Александр Владимирович": 35,
-      "Самутин Николай Михайлович": 24
+      "4664048237718": 30,
+      "4664048237415": 83,
+      "4664048238454": 4,
+      "4664048237325": 189,
+      "4664048237145": 35,
+      "4664048237639": 24
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/sverdlovsk?action=show&root=1000227&tvd=26620002596977&vrn=100100225883172&region=66&global=&sub_region=66&prver=0&pronetvd=null&vibid=26620002596977&type=464",
@@ -1888,6 +2252,10 @@ export const duma_2021_uik_463_region_66_part_009 = [
       "retrievedAt": "2026-08-26T08:06:39.133314+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/sverdlovsk?action=show&root=1000227&tvd=26620002596977&vrn=100100225883172&region=66&global=&sub_region=66&prver=0&pronetvd=null&vibid=26620002596977&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 173,
+      "oikTvd": "100100225883664"
     }
   },
   {
@@ -1897,8 +2265,12 @@ export const duma_2021_uik_463_region_66_part_009 = [
     "ballot": "single-member",
     "uikNumber": 115,
     "uikTvd": "4664003205700",
+    "uikName": "УИК №115",
     "tikTvd": "26620002596977",
     "tikName": "Артинская",
+    "regionCode": "66",
+    "regionTvd": "100100225883658",
+    "regionName": "Свердловская область",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 1468,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 1200,
@@ -1914,12 +2286,12 @@ export const duma_2021_uik_463_region_66_part_009 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Александров Николай Викторович": 58,
-      "Исаков Тарас Мамаджанович": 233,
-      "Куделькин Александр Владимирович": 17,
-      "Муцоев Зелимхан Аликоевич": 317,
-      "Панасенко Александр Владимирович": 54,
-      "Самутин Николай Михайлович": 79
+      "4664048237718": 58,
+      "4664048237415": 233,
+      "4664048238454": 17,
+      "4664048237325": 317,
+      "4664048237145": 54,
+      "4664048237639": 79
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/sverdlovsk?action=show&root=1000227&tvd=26620002596977&vrn=100100225883172&region=66&global=&sub_region=66&prver=0&pronetvd=null&vibid=26620002596977&type=464",
@@ -1929,6 +2301,10 @@ export const duma_2021_uik_463_region_66_part_009 = [
       "retrievedAt": "2026-08-26T08:06:39.133314+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/sverdlovsk?action=show&root=1000227&tvd=26620002596977&vrn=100100225883172&region=66&global=&sub_region=66&prver=0&pronetvd=null&vibid=26620002596977&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 173,
+      "oikTvd": "100100225883664"
     }
   },
   {
@@ -1938,8 +2314,12 @@ export const duma_2021_uik_463_region_66_part_009 = [
     "ballot": "single-member",
     "uikNumber": 116,
     "uikTvd": "4664003205701",
+    "uikName": "УИК №116",
     "tikTvd": "26620002596977",
     "tikName": "Артинская",
+    "regionCode": "66",
+    "regionTvd": "100100225883658",
+    "regionName": "Свердловская область",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 473,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 430,
@@ -1955,12 +2335,12 @@ export const duma_2021_uik_463_region_66_part_009 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Александров Николай Викторович": 14,
-      "Исаков Тарас Мамаджанович": 136,
-      "Куделькин Александр Владимирович": 4,
-      "Муцоев Зелимхан Аликоевич": 74,
-      "Панасенко Александр Владимирович": 11,
-      "Самутин Николай Михайлович": 6
+      "4664048237718": 14,
+      "4664048237415": 136,
+      "4664048238454": 4,
+      "4664048237325": 74,
+      "4664048237145": 11,
+      "4664048237639": 6
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/sverdlovsk?action=show&root=1000227&tvd=26620002596977&vrn=100100225883172&region=66&global=&sub_region=66&prver=0&pronetvd=null&vibid=26620002596977&type=464",
@@ -1970,6 +2350,10 @@ export const duma_2021_uik_463_region_66_part_009 = [
       "retrievedAt": "2026-08-26T08:06:39.133314+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/sverdlovsk?action=show&root=1000227&tvd=26620002596977&vrn=100100225883172&region=66&global=&sub_region=66&prver=0&pronetvd=null&vibid=26620002596977&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 173,
+      "oikTvd": "100100225883664"
     }
   },
   {
@@ -1979,8 +2363,12 @@ export const duma_2021_uik_463_region_66_part_009 = [
     "ballot": "single-member",
     "uikNumber": 117,
     "uikTvd": "4664003205702",
+    "uikName": "УИК №117",
     "tikTvd": "26620002596977",
     "tikName": "Артинская",
+    "regionCode": "66",
+    "regionTvd": "100100225883658",
+    "regionName": "Свердловская область",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 308,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 300,
@@ -1996,12 +2384,12 @@ export const duma_2021_uik_463_region_66_part_009 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Александров Николай Викторович": 15,
-      "Исаков Тарас Мамаджанович": 78,
-      "Куделькин Александр Владимирович": 6,
-      "Муцоев Зелимхан Аликоевич": 53,
-      "Панасенко Александр Владимирович": 24,
-      "Самутин Николай Михайлович": 24
+      "4664048237718": 15,
+      "4664048237415": 78,
+      "4664048238454": 6,
+      "4664048237325": 53,
+      "4664048237145": 24,
+      "4664048237639": 24
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/sverdlovsk?action=show&root=1000227&tvd=26620002596977&vrn=100100225883172&region=66&global=&sub_region=66&prver=0&pronetvd=null&vibid=26620002596977&type=464",
@@ -2011,6 +2399,10 @@ export const duma_2021_uik_463_region_66_part_009 = [
       "retrievedAt": "2026-08-26T08:06:39.133314+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/sverdlovsk?action=show&root=1000227&tvd=26620002596977&vrn=100100225883172&region=66&global=&sub_region=66&prver=0&pronetvd=null&vibid=26620002596977&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 173,
+      "oikTvd": "100100225883664"
     }
   },
   {
@@ -2020,8 +2412,12 @@ export const duma_2021_uik_463_region_66_part_009 = [
     "ballot": "single-member",
     "uikNumber": 119,
     "uikTvd": "4664003205703",
+    "uikName": "УИК №119",
     "tikTvd": "26620002596977",
     "tikName": "Артинская",
+    "regionCode": "66",
+    "regionTvd": "100100225883658",
+    "regionName": "Свердловская область",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 975,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 890,
@@ -2037,12 +2433,12 @@ export const duma_2021_uik_463_region_66_part_009 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Александров Николай Викторович": 56,
-      "Исаков Тарас Мамаджанович": 226,
-      "Куделькин Александр Владимирович": 15,
-      "Муцоев Зелимхан Аликоевич": 158,
-      "Панасенко Александр Владимирович": 44,
-      "Самутин Николай Михайлович": 74
+      "4664048237718": 56,
+      "4664048237415": 226,
+      "4664048238454": 15,
+      "4664048237325": 158,
+      "4664048237145": 44,
+      "4664048237639": 74
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/sverdlovsk?action=show&root=1000227&tvd=26620002596977&vrn=100100225883172&region=66&global=&sub_region=66&prver=0&pronetvd=null&vibid=26620002596977&type=464",
@@ -2052,6 +2448,10 @@ export const duma_2021_uik_463_region_66_part_009 = [
       "retrievedAt": "2026-08-26T08:06:39.133314+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/sverdlovsk?action=show&root=1000227&tvd=26620002596977&vrn=100100225883172&region=66&global=&sub_region=66&prver=0&pronetvd=null&vibid=26620002596977&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 173,
+      "oikTvd": "100100225883664"
     }
   },
   {
@@ -2061,8 +2461,12 @@ export const duma_2021_uik_463_region_66_part_009 = [
     "ballot": "single-member",
     "uikNumber": 121,
     "uikTvd": "4664003205704",
+    "uikName": "УИК №121",
     "tikTvd": "26620002596977",
     "tikName": "Артинская",
+    "regionCode": "66",
+    "regionTvd": "100100225883658",
+    "regionName": "Свердловская область",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 110,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 110,
@@ -2078,12 +2482,12 @@ export const duma_2021_uik_463_region_66_part_009 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Александров Николай Викторович": 8,
-      "Исаков Тарас Мамаджанович": 31,
-      "Куделькин Александр Владимирович": 7,
-      "Муцоев Зелимхан Аликоевич": 32,
-      "Панасенко Александр Владимирович": 5,
-      "Самутин Николай Михайлович": 5
+      "4664048237718": 8,
+      "4664048237415": 31,
+      "4664048238454": 7,
+      "4664048237325": 32,
+      "4664048237145": 5,
+      "4664048237639": 5
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/sverdlovsk?action=show&root=1000227&tvd=26620002596977&vrn=100100225883172&region=66&global=&sub_region=66&prver=0&pronetvd=null&vibid=26620002596977&type=464",
@@ -2093,6 +2497,10 @@ export const duma_2021_uik_463_region_66_part_009 = [
       "retrievedAt": "2026-08-26T08:06:39.133314+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/sverdlovsk?action=show&root=1000227&tvd=26620002596977&vrn=100100225883172&region=66&global=&sub_region=66&prver=0&pronetvd=null&vibid=26620002596977&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 173,
+      "oikTvd": "100100225883664"
     }
   },
   {
@@ -2102,8 +2510,12 @@ export const duma_2021_uik_463_region_66_part_009 = [
     "ballot": "single-member",
     "uikNumber": 122,
     "uikTvd": "4664003205705",
+    "uikName": "УИК №122",
     "tikTvd": "26620002596977",
     "tikName": "Артинская",
+    "regionCode": "66",
+    "regionTvd": "100100225883658",
+    "regionName": "Свердловская область",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 198,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 200,
@@ -2119,12 +2531,12 @@ export const duma_2021_uik_463_region_66_part_009 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Александров Николай Викторович": 15,
-      "Исаков Тарас Мамаджанович": 18,
-      "Куделькин Александр Владимирович": 4,
-      "Муцоев Зелимхан Аликоевич": 77,
-      "Панасенко Александр Владимирович": 7,
-      "Самутин Николай Михайлович": 15
+      "4664048237718": 15,
+      "4664048237415": 18,
+      "4664048238454": 4,
+      "4664048237325": 77,
+      "4664048237145": 7,
+      "4664048237639": 15
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/sverdlovsk?action=show&root=1000227&tvd=26620002596977&vrn=100100225883172&region=66&global=&sub_region=66&prver=0&pronetvd=null&vibid=26620002596977&type=464",
@@ -2134,6 +2546,10 @@ export const duma_2021_uik_463_region_66_part_009 = [
       "retrievedAt": "2026-08-26T08:06:39.133314+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/sverdlovsk?action=show&root=1000227&tvd=26620002596977&vrn=100100225883172&region=66&global=&sub_region=66&prver=0&pronetvd=null&vibid=26620002596977&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 173,
+      "oikTvd": "100100225883664"
     }
   },
   {
@@ -2143,8 +2559,12 @@ export const duma_2021_uik_463_region_66_part_009 = [
     "ballot": "single-member",
     "uikNumber": 123,
     "uikTvd": "4664003205706",
+    "uikName": "УИК №123",
     "tikTvd": "26620002596977",
     "tikName": "Артинская",
+    "regionCode": "66",
+    "regionTvd": "100100225883658",
+    "regionName": "Свердловская область",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 425,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 370,
@@ -2160,12 +2580,12 @@ export const duma_2021_uik_463_region_66_part_009 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Александров Николай Викторович": 14,
-      "Исаков Тарас Мамаджанович": 107,
-      "Куделькин Александр Владимирович": 8,
-      "Муцоев Зелимхан Аликоевич": 66,
-      "Панасенко Александр Владимирович": 17,
-      "Самутин Николай Михайлович": 22
+      "4664048237718": 14,
+      "4664048237415": 107,
+      "4664048238454": 8,
+      "4664048237325": 66,
+      "4664048237145": 17,
+      "4664048237639": 22
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/sverdlovsk?action=show&root=1000227&tvd=26620002596977&vrn=100100225883172&region=66&global=&sub_region=66&prver=0&pronetvd=null&vibid=26620002596977&type=464",
@@ -2175,6 +2595,10 @@ export const duma_2021_uik_463_region_66_part_009 = [
       "retrievedAt": "2026-08-26T08:06:39.133314+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/sverdlovsk?action=show&root=1000227&tvd=26620002596977&vrn=100100225883172&region=66&global=&sub_region=66&prver=0&pronetvd=null&vibid=26620002596977&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 173,
+      "oikTvd": "100100225883664"
     }
   },
   {
@@ -2184,8 +2608,12 @@ export const duma_2021_uik_463_region_66_part_009 = [
     "ballot": "single-member",
     "uikNumber": 125,
     "uikTvd": "4664003205707",
+    "uikName": "УИК №125",
     "tikTvd": "26620002596977",
     "tikName": "Артинская",
+    "regionCode": "66",
+    "regionTvd": "100100225883658",
+    "regionName": "Свердловская область",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 317,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 310,
@@ -2201,12 +2629,12 @@ export const duma_2021_uik_463_region_66_part_009 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Александров Николай Викторович": 14,
-      "Исаков Тарас Мамаджанович": 24,
-      "Куделькин Александр Владимирович": 6,
-      "Муцоев Зелимхан Аликоевич": 96,
-      "Панасенко Александр Владимирович": 19,
-      "Самутин Николай Михайлович": 20
+      "4664048237718": 14,
+      "4664048237415": 24,
+      "4664048238454": 6,
+      "4664048237325": 96,
+      "4664048237145": 19,
+      "4664048237639": 20
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/sverdlovsk?action=show&root=1000227&tvd=26620002596977&vrn=100100225883172&region=66&global=&sub_region=66&prver=0&pronetvd=null&vibid=26620002596977&type=464",
@@ -2216,6 +2644,10 @@ export const duma_2021_uik_463_region_66_part_009 = [
       "retrievedAt": "2026-08-26T08:06:39.133314+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/sverdlovsk?action=show&root=1000227&tvd=26620002596977&vrn=100100225883172&region=66&global=&sub_region=66&prver=0&pronetvd=null&vibid=26620002596977&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 173,
+      "oikTvd": "100100225883664"
     }
   },
   {
@@ -2225,8 +2657,12 @@ export const duma_2021_uik_463_region_66_part_009 = [
     "ballot": "single-member",
     "uikNumber": 126,
     "uikTvd": "4664003205708",
+    "uikName": "УИК №126",
     "tikTvd": "26620002596977",
     "tikName": "Артинская",
+    "regionCode": "66",
+    "regionTvd": "100100225883658",
+    "regionName": "Свердловская область",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 504,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 460,
@@ -2242,12 +2678,12 @@ export const duma_2021_uik_463_region_66_part_009 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Александров Николай Викторович": 23,
-      "Исаков Тарас Мамаджанович": 131,
-      "Куделькин Александр Владимирович": 5,
-      "Муцоев Зелимхан Аликоевич": 102,
-      "Панасенко Александр Владимирович": 19,
-      "Самутин Николай Михайлович": 30
+      "4664048237718": 23,
+      "4664048237415": 131,
+      "4664048238454": 5,
+      "4664048237325": 102,
+      "4664048237145": 19,
+      "4664048237639": 30
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/sverdlovsk?action=show&root=1000227&tvd=26620002596977&vrn=100100225883172&region=66&global=&sub_region=66&prver=0&pronetvd=null&vibid=26620002596977&type=464",
@@ -2257,6 +2693,10 @@ export const duma_2021_uik_463_region_66_part_009 = [
       "retrievedAt": "2026-08-26T08:06:39.133314+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/sverdlovsk?action=show&root=1000227&tvd=26620002596977&vrn=100100225883172&region=66&global=&sub_region=66&prver=0&pronetvd=null&vibid=26620002596977&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 173,
+      "oikTvd": "100100225883664"
     }
   },
   {
@@ -2266,8 +2706,12 @@ export const duma_2021_uik_463_region_66_part_009 = [
     "ballot": "single-member",
     "uikNumber": 127,
     "uikTvd": "4664003205709",
+    "uikName": "УИК №127",
     "tikTvd": "26620002596977",
     "tikName": "Артинская",
+    "regionCode": "66",
+    "regionTvd": "100100225883658",
+    "regionName": "Свердловская область",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 235,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 230,
@@ -2283,12 +2727,12 @@ export const duma_2021_uik_463_region_66_part_009 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Александров Николай Викторович": 11,
-      "Исаков Тарас Мамаджанович": 45,
-      "Куделькин Александр Владимирович": 3,
-      "Муцоев Зелимхан Аликоевич": 79,
-      "Панасенко Александр Владимирович": 7,
-      "Самутин Николай Михайлович": 15
+      "4664048237718": 11,
+      "4664048237415": 45,
+      "4664048238454": 3,
+      "4664048237325": 79,
+      "4664048237145": 7,
+      "4664048237639": 15
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/sverdlovsk?action=show&root=1000227&tvd=26620002596977&vrn=100100225883172&region=66&global=&sub_region=66&prver=0&pronetvd=null&vibid=26620002596977&type=464",
@@ -2298,6 +2742,10 @@ export const duma_2021_uik_463_region_66_part_009 = [
       "retrievedAt": "2026-08-26T08:06:39.133314+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/sverdlovsk?action=show&root=1000227&tvd=26620002596977&vrn=100100225883172&region=66&global=&sub_region=66&prver=0&pronetvd=null&vibid=26620002596977&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 173,
+      "oikTvd": "100100225883664"
     }
   },
   {
@@ -2307,8 +2755,12 @@ export const duma_2021_uik_463_region_66_part_009 = [
     "ballot": "single-member",
     "uikNumber": 128,
     "uikTvd": "4664003205710",
+    "uikName": "УИК №128",
     "tikTvd": "26620002596977",
     "tikName": "Артинская",
+    "regionCode": "66",
+    "regionTvd": "100100225883658",
+    "regionName": "Свердловская область",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 419,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 400,
@@ -2324,12 +2776,12 @@ export const duma_2021_uik_463_region_66_part_009 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Александров Николай Викторович": 7,
-      "Исаков Тарас Мамаджанович": 68,
-      "Куделькин Александр Владимирович": 5,
-      "Муцоев Зелимхан Аликоевич": 171,
-      "Панасенко Александр Владимирович": 22,
-      "Самутин Николай Михайлович": 23
+      "4664048237718": 7,
+      "4664048237415": 68,
+      "4664048238454": 5,
+      "4664048237325": 171,
+      "4664048237145": 22,
+      "4664048237639": 23
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/sverdlovsk?action=show&root=1000227&tvd=26620002596977&vrn=100100225883172&region=66&global=&sub_region=66&prver=0&pronetvd=null&vibid=26620002596977&type=464",
@@ -2339,6 +2791,10 @@ export const duma_2021_uik_463_region_66_part_009 = [
       "retrievedAt": "2026-08-26T08:06:39.133314+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/sverdlovsk?action=show&root=1000227&tvd=26620002596977&vrn=100100225883172&region=66&global=&sub_region=66&prver=0&pronetvd=null&vibid=26620002596977&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 173,
+      "oikTvd": "100100225883664"
     }
   },
   {
@@ -2348,8 +2804,12 @@ export const duma_2021_uik_463_region_66_part_009 = [
     "ballot": "single-member",
     "uikNumber": 129,
     "uikTvd": "4664003205711",
+    "uikName": "УИК №129",
     "tikTvd": "26620002596977",
     "tikName": "Артинская",
+    "regionCode": "66",
+    "regionTvd": "100100225883658",
+    "regionName": "Свердловская область",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 803,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 700,
@@ -2365,12 +2825,12 @@ export const duma_2021_uik_463_region_66_part_009 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Александров Николай Викторович": 26,
-      "Исаков Тарас Мамаджанович": 97,
-      "Куделькин Александр Владимирович": 14,
-      "Муцоев Зелимхан Аликоевич": 186,
-      "Панасенко Александр Владимирович": 51,
-      "Самутин Николай Михайлович": 49
+      "4664048237718": 26,
+      "4664048237415": 97,
+      "4664048238454": 14,
+      "4664048237325": 186,
+      "4664048237145": 51,
+      "4664048237639": 49
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/sverdlovsk?action=show&root=1000227&tvd=26620002596977&vrn=100100225883172&region=66&global=&sub_region=66&prver=0&pronetvd=null&vibid=26620002596977&type=464",
@@ -2380,6 +2840,10 @@ export const duma_2021_uik_463_region_66_part_009 = [
       "retrievedAt": "2026-08-26T08:06:39.133314+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/sverdlovsk?action=show&root=1000227&tvd=26620002596977&vrn=100100225883172&region=66&global=&sub_region=66&prver=0&pronetvd=null&vibid=26620002596977&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 173,
+      "oikTvd": "100100225883664"
     }
   },
   {
@@ -2389,8 +2853,12 @@ export const duma_2021_uik_463_region_66_part_009 = [
     "ballot": "single-member",
     "uikNumber": 132,
     "uikTvd": "4664003205712",
+    "uikName": "УИК №132",
     "tikTvd": "26620002596977",
     "tikName": "Артинская",
+    "regionCode": "66",
+    "regionTvd": "100100225883658",
+    "regionName": "Свердловская область",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 189,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 170,
@@ -2406,12 +2874,12 @@ export const duma_2021_uik_463_region_66_part_009 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Александров Николай Викторович": 16,
-      "Исаков Тарас Мамаджанович": 18,
-      "Куделькин Александр Владимирович": 8,
-      "Муцоев Зелимхан Аликоевич": 50,
-      "Панасенко Александр Владимирович": 8,
-      "Самутин Николай Михайлович": 7
+      "4664048237718": 16,
+      "4664048237415": 18,
+      "4664048238454": 8,
+      "4664048237325": 50,
+      "4664048237145": 8,
+      "4664048237639": 7
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/sverdlovsk?action=show&root=1000227&tvd=26620002596977&vrn=100100225883172&region=66&global=&sub_region=66&prver=0&pronetvd=null&vibid=26620002596977&type=464",
@@ -2421,6 +2889,10 @@ export const duma_2021_uik_463_region_66_part_009 = [
       "retrievedAt": "2026-08-26T08:06:39.133314+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/sverdlovsk?action=show&root=1000227&tvd=26620002596977&vrn=100100225883172&region=66&global=&sub_region=66&prver=0&pronetvd=null&vibid=26620002596977&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 173,
+      "oikTvd": "100100225883664"
     }
   },
   {
@@ -2430,8 +2902,12 @@ export const duma_2021_uik_463_region_66_part_009 = [
     "ballot": "single-member",
     "uikNumber": 133,
     "uikTvd": "4664003205713",
+    "uikName": "УИК №133",
     "tikTvd": "26620002596977",
     "tikName": "Артинская",
+    "regionCode": "66",
+    "regionTvd": "100100225883658",
+    "regionName": "Свердловская область",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 1027,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 915,
@@ -2447,12 +2923,12 @@ export const duma_2021_uik_463_region_66_part_009 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Александров Николай Викторович": 48,
-      "Исаков Тарас Мамаджанович": 100,
-      "Куделькин Александр Владимирович": 20,
-      "Муцоев Зелимхан Аликоевич": 281,
-      "Панасенко Александр Владимирович": 70,
-      "Самутин Николай Михайлович": 60
+      "4664048237718": 48,
+      "4664048237415": 100,
+      "4664048238454": 20,
+      "4664048237325": 281,
+      "4664048237145": 70,
+      "4664048237639": 60
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/sverdlovsk?action=show&root=1000227&tvd=26620002596977&vrn=100100225883172&region=66&global=&sub_region=66&prver=0&pronetvd=null&vibid=26620002596977&type=464",
@@ -2462,6 +2938,10 @@ export const duma_2021_uik_463_region_66_part_009 = [
       "retrievedAt": "2026-08-26T08:06:39.133314+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/sverdlovsk?action=show&root=1000227&tvd=26620002596977&vrn=100100225883172&region=66&global=&sub_region=66&prver=0&pronetvd=null&vibid=26620002596977&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 173,
+      "oikTvd": "100100225883664"
     }
   },
   {
@@ -2471,8 +2951,12 @@ export const duma_2021_uik_463_region_66_part_009 = [
     "ballot": "single-member",
     "uikNumber": 134,
     "uikTvd": "4664003205714",
+    "uikName": "УИК №134",
     "tikTvd": "26620002596977",
     "tikName": "Артинская",
+    "regionCode": "66",
+    "regionTvd": "100100225883658",
+    "regionName": "Свердловская область",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 175,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 180,
@@ -2488,12 +2972,12 @@ export const duma_2021_uik_463_region_66_part_009 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Александров Николай Викторович": 10,
-      "Исаков Тарас Мамаджанович": 12,
-      "Куделькин Александр Владимирович": 4,
-      "Муцоев Зелимхан Аликоевич": 62,
-      "Панасенко Александр Владимирович": 8,
-      "Самутин Николай Михайлович": 20
+      "4664048237718": 10,
+      "4664048237415": 12,
+      "4664048238454": 4,
+      "4664048237325": 62,
+      "4664048237145": 8,
+      "4664048237639": 20
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/sverdlovsk?action=show&root=1000227&tvd=26620002596977&vrn=100100225883172&region=66&global=&sub_region=66&prver=0&pronetvd=null&vibid=26620002596977&type=464",
@@ -2503,6 +2987,10 @@ export const duma_2021_uik_463_region_66_part_009 = [
       "retrievedAt": "2026-08-26T08:06:39.133314+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/sverdlovsk?action=show&root=1000227&tvd=26620002596977&vrn=100100225883172&region=66&global=&sub_region=66&prver=0&pronetvd=null&vibid=26620002596977&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 173,
+      "oikTvd": "100100225883664"
     }
   },
   {
@@ -2512,8 +3000,12 @@ export const duma_2021_uik_463_region_66_part_009 = [
     "ballot": "single-member",
     "uikNumber": 135,
     "uikTvd": "4664003205715",
+    "uikName": "УИК №135",
     "tikTvd": "26620002596977",
     "tikName": "Артинская",
+    "regionCode": "66",
+    "regionTvd": "100100225883658",
+    "regionName": "Свердловская область",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 86,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 85,
@@ -2529,12 +3021,12 @@ export const duma_2021_uik_463_region_66_part_009 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Александров Николай Викторович": 3,
-      "Исаков Тарас Мамаджанович": 4,
-      "Куделькин Александр Владимирович": 1,
-      "Муцоев Зелимхан Аликоевич": 43,
-      "Панасенко Александр Владимирович": 7,
-      "Самутин Николай Михайлович": 4
+      "4664048237718": 3,
+      "4664048237415": 4,
+      "4664048238454": 1,
+      "4664048237325": 43,
+      "4664048237145": 7,
+      "4664048237639": 4
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/sverdlovsk?action=show&root=1000227&tvd=26620002596977&vrn=100100225883172&region=66&global=&sub_region=66&prver=0&pronetvd=null&vibid=26620002596977&type=464",
@@ -2544,6 +3036,10 @@ export const duma_2021_uik_463_region_66_part_009 = [
       "retrievedAt": "2026-08-26T08:06:39.133314+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/sverdlovsk?action=show&root=1000227&tvd=26620002596977&vrn=100100225883172&region=66&global=&sub_region=66&prver=0&pronetvd=null&vibid=26620002596977&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 173,
+      "oikTvd": "100100225883664"
     }
   },
   {
@@ -2553,8 +3049,12 @@ export const duma_2021_uik_463_region_66_part_009 = [
     "ballot": "single-member",
     "uikNumber": 137,
     "uikTvd": "4664003205716",
+    "uikName": "УИК №137",
     "tikTvd": "26620002596977",
     "tikName": "Артинская",
+    "regionCode": "66",
+    "regionTvd": "100100225883658",
+    "regionName": "Свердловская область",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 722,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 600,
@@ -2570,12 +3070,12 @@ export const duma_2021_uik_463_region_66_part_009 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Александров Николай Викторович": 24,
-      "Исаков Тарас Мамаджанович": 117,
-      "Куделькин Александр Владимирович": 14,
-      "Муцоев Зелимхан Аликоевич": 185,
-      "Панасенко Александр Владимирович": 24,
-      "Самутин Николай Михайлович": 33
+      "4664048237718": 24,
+      "4664048237415": 117,
+      "4664048238454": 14,
+      "4664048237325": 185,
+      "4664048237145": 24,
+      "4664048237639": 33
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/sverdlovsk?action=show&root=1000227&tvd=26620002596977&vrn=100100225883172&region=66&global=&sub_region=66&prver=0&pronetvd=null&vibid=26620002596977&type=464",
@@ -2585,6 +3085,10 @@ export const duma_2021_uik_463_region_66_part_009 = [
       "retrievedAt": "2026-08-26T08:06:39.133314+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/sverdlovsk?action=show&root=1000227&tvd=26620002596977&vrn=100100225883172&region=66&global=&sub_region=66&prver=0&pronetvd=null&vibid=26620002596977&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 173,
+      "oikTvd": "100100225883664"
     }
   },
   {
@@ -2594,8 +3098,12 @@ export const duma_2021_uik_463_region_66_part_009 = [
     "ballot": "single-member",
     "uikNumber": 138,
     "uikTvd": "4664003205717",
+    "uikName": "УИК №138",
     "tikTvd": "26620002596977",
     "tikName": "Артинская",
+    "regionCode": "66",
+    "regionTvd": "100100225883658",
+    "regionName": "Свердловская область",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 209,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 200,
@@ -2611,12 +3119,12 @@ export const duma_2021_uik_463_region_66_part_009 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Александров Николай Викторович": 14,
-      "Исаков Тарас Мамаджанович": 29,
-      "Куделькин Александр Владимирович": 2,
-      "Муцоев Зелимхан Аликоевич": 48,
-      "Панасенко Александр Владимирович": 8,
-      "Самутин Николай Михайлович": 11
+      "4664048237718": 14,
+      "4664048237415": 29,
+      "4664048238454": 2,
+      "4664048237325": 48,
+      "4664048237145": 8,
+      "4664048237639": 11
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/sverdlovsk?action=show&root=1000227&tvd=26620002596977&vrn=100100225883172&region=66&global=&sub_region=66&prver=0&pronetvd=null&vibid=26620002596977&type=464",
@@ -2626,6 +3134,10 @@ export const duma_2021_uik_463_region_66_part_009 = [
       "retrievedAt": "2026-08-26T08:06:39.133314+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/sverdlovsk?action=show&root=1000227&tvd=26620002596977&vrn=100100225883172&region=66&global=&sub_region=66&prver=0&pronetvd=null&vibid=26620002596977&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 173,
+      "oikTvd": "100100225883664"
     }
   },
   {
@@ -2635,8 +3147,12 @@ export const duma_2021_uik_463_region_66_part_009 = [
     "ballot": "single-member",
     "uikNumber": 139,
     "uikTvd": "4664003205718",
+    "uikName": "УИК №139",
     "tikTvd": "26620002596977",
     "tikName": "Артинская",
+    "regionCode": "66",
+    "regionTvd": "100100225883658",
+    "regionName": "Свердловская область",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 250,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 240,
@@ -2652,12 +3168,12 @@ export const duma_2021_uik_463_region_66_part_009 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Александров Николай Викторович": 15,
-      "Исаков Тарас Мамаджанович": 32,
-      "Куделькин Александр Владимирович": 6,
-      "Муцоев Зелимхан Аликоевич": 67,
-      "Панасенко Александр Владимирович": 9,
-      "Самутин Николай Михайлович": 16
+      "4664048237718": 15,
+      "4664048237415": 32,
+      "4664048238454": 6,
+      "4664048237325": 67,
+      "4664048237145": 9,
+      "4664048237639": 16
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/sverdlovsk?action=show&root=1000227&tvd=26620002596977&vrn=100100225883172&region=66&global=&sub_region=66&prver=0&pronetvd=null&vibid=26620002596977&type=464",
@@ -2667,6 +3183,10 @@ export const duma_2021_uik_463_region_66_part_009 = [
       "retrievedAt": "2026-08-26T08:06:39.133314+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/sverdlovsk?action=show&root=1000227&tvd=26620002596977&vrn=100100225883172&region=66&global=&sub_region=66&prver=0&pronetvd=null&vibid=26620002596977&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 173,
+      "oikTvd": "100100225883664"
     }
   },
   {
@@ -2676,8 +3196,12 @@ export const duma_2021_uik_463_region_66_part_009 = [
     "ballot": "single-member",
     "uikNumber": 140,
     "uikTvd": "4664003205719",
+    "uikName": "УИК №140",
     "tikTvd": "26620002596977",
     "tikName": "Артинская",
+    "regionCode": "66",
+    "regionTvd": "100100225883658",
+    "regionName": "Свердловская область",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 184,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 190,
@@ -2693,12 +3217,12 @@ export const duma_2021_uik_463_region_66_part_009 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Александров Николай Викторович": 10,
-      "Исаков Тарас Мамаджанович": 36,
-      "Куделькин Александр Владимирович": 3,
-      "Муцоев Зелимхан Аликоевич": 51,
-      "Панасенко Александр Владимирович": 10,
-      "Самутин Николай Михайлович": 10
+      "4664048237718": 10,
+      "4664048237415": 36,
+      "4664048238454": 3,
+      "4664048237325": 51,
+      "4664048237145": 10,
+      "4664048237639": 10
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/sverdlovsk?action=show&root=1000227&tvd=26620002596977&vrn=100100225883172&region=66&global=&sub_region=66&prver=0&pronetvd=null&vibid=26620002596977&type=464",
@@ -2708,6 +3232,10 @@ export const duma_2021_uik_463_region_66_part_009 = [
       "retrievedAt": "2026-08-26T08:06:39.133314+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/sverdlovsk?action=show&root=1000227&tvd=26620002596977&vrn=100100225883172&region=66&global=&sub_region=66&prver=0&pronetvd=null&vibid=26620002596977&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 173,
+      "oikTvd": "100100225883664"
     }
   },
   {
@@ -2717,8 +3245,12 @@ export const duma_2021_uik_463_region_66_part_009 = [
     "ballot": "single-member",
     "uikNumber": 141,
     "uikTvd": "4664003205720",
+    "uikName": "УИК №141",
     "tikTvd": "26620002596977",
     "tikName": "Артинская",
+    "regionCode": "66",
+    "regionTvd": "100100225883658",
+    "regionName": "Свердловская область",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 232,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 220,
@@ -2734,12 +3266,12 @@ export const duma_2021_uik_463_region_66_part_009 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Александров Николай Викторович": 7,
-      "Исаков Тарас Мамаджанович": 50,
-      "Куделькин Александр Владимирович": 2,
-      "Муцоев Зелимхан Аликоевич": 71,
-      "Панасенко Александр Владимирович": 8,
-      "Самутин Николай Михайлович": 9
+      "4664048237718": 7,
+      "4664048237415": 50,
+      "4664048238454": 2,
+      "4664048237325": 71,
+      "4664048237145": 8,
+      "4664048237639": 9
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/sverdlovsk?action=show&root=1000227&tvd=26620002596977&vrn=100100225883172&region=66&global=&sub_region=66&prver=0&pronetvd=null&vibid=26620002596977&type=464",
@@ -2749,6 +3281,10 @@ export const duma_2021_uik_463_region_66_part_009 = [
       "retrievedAt": "2026-08-26T08:06:39.133314+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/sverdlovsk?action=show&root=1000227&tvd=26620002596977&vrn=100100225883172&region=66&global=&sub_region=66&prver=0&pronetvd=null&vibid=26620002596977&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 173,
+      "oikTvd": "100100225883664"
     }
   },
   {
@@ -2758,8 +3294,12 @@ export const duma_2021_uik_463_region_66_part_009 = [
     "ballot": "single-member",
     "uikNumber": 142,
     "uikTvd": "4664003205721",
+    "uikName": "УИК №142",
     "tikTvd": "26620002596977",
     "tikName": "Артинская",
+    "regionCode": "66",
+    "regionTvd": "100100225883658",
+    "regionName": "Свердловская область",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 587,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 590,
@@ -2775,12 +3315,12 @@ export const duma_2021_uik_463_region_66_part_009 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Александров Николай Викторович": 38,
-      "Исаков Тарас Мамаджанович": 85,
-      "Куделькин Александр Владимирович": 7,
-      "Муцоев Зелимхан Аликоевич": 145,
-      "Панасенко Александр Владимирович": 38,
-      "Самутин Николай Михайлович": 52
+      "4664048237718": 38,
+      "4664048237415": 85,
+      "4664048238454": 7,
+      "4664048237325": 145,
+      "4664048237145": 38,
+      "4664048237639": 52
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/sverdlovsk?action=show&root=1000227&tvd=26620002596977&vrn=100100225883172&region=66&global=&sub_region=66&prver=0&pronetvd=null&vibid=26620002596977&type=464",
@@ -2790,6 +3330,10 @@ export const duma_2021_uik_463_region_66_part_009 = [
       "retrievedAt": "2026-08-26T08:06:39.133314+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/sverdlovsk?action=show&root=1000227&tvd=26620002596977&vrn=100100225883172&region=66&global=&sub_region=66&prver=0&pronetvd=null&vibid=26620002596977&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 173,
+      "oikTvd": "100100225883664"
     }
   },
   {
@@ -2799,8 +3343,12 @@ export const duma_2021_uik_463_region_66_part_009 = [
     "ballot": "single-member",
     "uikNumber": 144,
     "uikTvd": "4664003205722",
+    "uikName": "УИК №144",
     "tikTvd": "26620002596977",
     "tikName": "Артинская",
+    "regionCode": "66",
+    "regionTvd": "100100225883658",
+    "regionName": "Свердловская область",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 92,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 85,
@@ -2816,12 +3364,12 @@ export const duma_2021_uik_463_region_66_part_009 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Александров Николай Викторович": 6,
-      "Исаков Тарас Мамаджанович": 6,
-      "Куделькин Александр Владимирович": 2,
-      "Муцоев Зелимхан Аликоевич": 32,
-      "Панасенко Александр Владимирович": 8,
-      "Самутин Николай Михайлович": 2
+      "4664048237718": 6,
+      "4664048237415": 6,
+      "4664048238454": 2,
+      "4664048237325": 32,
+      "4664048237145": 8,
+      "4664048237639": 2
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/sverdlovsk?action=show&root=1000227&tvd=26620002596977&vrn=100100225883172&region=66&global=&sub_region=66&prver=0&pronetvd=null&vibid=26620002596977&type=464",
@@ -2831,6 +3379,10 @@ export const duma_2021_uik_463_region_66_part_009 = [
       "retrievedAt": "2026-08-26T08:06:39.133314+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/sverdlovsk?action=show&root=1000227&tvd=26620002596977&vrn=100100225883172&region=66&global=&sub_region=66&prver=0&pronetvd=null&vibid=26620002596977&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 173,
+      "oikTvd": "100100225883664"
     }
   },
   {
@@ -2840,8 +3392,12 @@ export const duma_2021_uik_463_region_66_part_009 = [
     "ballot": "single-member",
     "uikNumber": 145,
     "uikTvd": "4664003205723",
+    "uikName": "УИК №145",
     "tikTvd": "26620002596977",
     "tikName": "Артинская",
+    "regionCode": "66",
+    "regionTvd": "100100225883658",
+    "regionName": "Свердловская область",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 447,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 500,
@@ -2857,12 +3413,12 @@ export const duma_2021_uik_463_region_66_part_009 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Александров Николай Викторович": 25,
-      "Исаков Тарас Мамаджанович": 77,
-      "Куделькин Александр Владимирович": 21,
-      "Муцоев Зелимхан Аликоевич": 126,
-      "Панасенко Александр Владимирович": 31,
-      "Самутин Николай Михайлович": 32
+      "4664048237718": 25,
+      "4664048237415": 77,
+      "4664048238454": 21,
+      "4664048237325": 126,
+      "4664048237145": 31,
+      "4664048237639": 32
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/sverdlovsk?action=show&root=1000227&tvd=26620002596977&vrn=100100225883172&region=66&global=&sub_region=66&prver=0&pronetvd=null&vibid=26620002596977&type=464",
@@ -2872,6 +3428,10 @@ export const duma_2021_uik_463_region_66_part_009 = [
       "retrievedAt": "2026-08-26T08:06:39.133314+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/sverdlovsk?action=show&root=1000227&tvd=26620002596977&vrn=100100225883172&region=66&global=&sub_region=66&prver=0&pronetvd=null&vibid=26620002596977&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 173,
+      "oikTvd": "100100225883664"
     }
   },
   {
@@ -2881,8 +3441,12 @@ export const duma_2021_uik_463_region_66_part_009 = [
     "ballot": "single-member",
     "uikNumber": 146,
     "uikTvd": "4664003205724",
+    "uikName": "УИК №146",
     "tikTvd": "26620002596977",
     "tikName": "Артинская",
+    "regionCode": "66",
+    "regionTvd": "100100225883658",
+    "regionName": "Свердловская область",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 95,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 100,
@@ -2898,12 +3462,12 @@ export const duma_2021_uik_463_region_66_part_009 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Александров Николай Викторович": 10,
-      "Исаков Тарас Мамаджанович": 14,
-      "Куделькин Александр Владимирович": 3,
-      "Муцоев Зелимхан Аликоевич": 29,
-      "Панасенко Александр Владимирович": 6,
-      "Самутин Николай Михайлович": 10
+      "4664048237718": 10,
+      "4664048237415": 14,
+      "4664048238454": 3,
+      "4664048237325": 29,
+      "4664048237145": 6,
+      "4664048237639": 10
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/sverdlovsk?action=show&root=1000227&tvd=26620002596977&vrn=100100225883172&region=66&global=&sub_region=66&prver=0&pronetvd=null&vibid=26620002596977&type=464",
@@ -2913,6 +3477,10 @@ export const duma_2021_uik_463_region_66_part_009 = [
       "retrievedAt": "2026-08-26T08:06:39.133314+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/sverdlovsk?action=show&root=1000227&tvd=26620002596977&vrn=100100225883172&region=66&global=&sub_region=66&prver=0&pronetvd=null&vibid=26620002596977&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 173,
+      "oikTvd": "100100225883664"
     }
   },
   {
@@ -2922,8 +3490,12 @@ export const duma_2021_uik_463_region_66_part_009 = [
     "ballot": "single-member",
     "uikNumber": 147,
     "uikTvd": "4664003205725",
+    "uikName": "УИК №147",
     "tikTvd": "26620002596977",
     "tikName": "Артинская",
+    "regionCode": "66",
+    "regionTvd": "100100225883658",
+    "regionName": "Свердловская область",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 176,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 180,
@@ -2939,12 +3511,12 @@ export const duma_2021_uik_463_region_66_part_009 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Александров Николай Викторович": 6,
-      "Исаков Тарас Мамаджанович": 37,
-      "Куделькин Александр Владимирович": 2,
-      "Муцоев Зелимхан Аликоевич": 52,
-      "Панасенко Александр Владимирович": 3,
-      "Самутин Николай Михайлович": 6
+      "4664048237718": 6,
+      "4664048237415": 37,
+      "4664048238454": 2,
+      "4664048237325": 52,
+      "4664048237145": 3,
+      "4664048237639": 6
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/sverdlovsk?action=show&root=1000227&tvd=26620002596977&vrn=100100225883172&region=66&global=&sub_region=66&prver=0&pronetvd=null&vibid=26620002596977&type=464",
@@ -2954,6 +3526,10 @@ export const duma_2021_uik_463_region_66_part_009 = [
       "retrievedAt": "2026-08-26T08:06:39.133314+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/sverdlovsk?action=show&root=1000227&tvd=26620002596977&vrn=100100225883172&region=66&global=&sub_region=66&prver=0&pronetvd=null&vibid=26620002596977&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 173,
+      "oikTvd": "100100225883664"
     }
   },
   {
@@ -2963,8 +3539,12 @@ export const duma_2021_uik_463_region_66_part_009 = [
     "ballot": "single-member",
     "uikNumber": 148,
     "uikTvd": "4664003205726",
+    "uikName": "УИК №148",
     "tikTvd": "26620002596977",
     "tikName": "Артинская",
+    "regionCode": "66",
+    "regionTvd": "100100225883658",
+    "regionName": "Свердловская область",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 189,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 180,
@@ -2980,12 +3560,12 @@ export const duma_2021_uik_463_region_66_part_009 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Александров Николай Викторович": 8,
-      "Исаков Тарас Мамаджанович": 47,
-      "Куделькин Александр Владимирович": 4,
-      "Муцоев Зелимхан Аликоевич": 45,
-      "Панасенко Александр Владимирович": 1,
-      "Самутин Николай Михайлович": 13
+      "4664048237718": 8,
+      "4664048237415": 47,
+      "4664048238454": 4,
+      "4664048237325": 45,
+      "4664048237145": 1,
+      "4664048237639": 13
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/sverdlovsk?action=show&root=1000227&tvd=26620002596977&vrn=100100225883172&region=66&global=&sub_region=66&prver=0&pronetvd=null&vibid=26620002596977&type=464",
@@ -2995,6 +3575,10 @@ export const duma_2021_uik_463_region_66_part_009 = [
       "retrievedAt": "2026-08-26T08:06:39.133314+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/sverdlovsk?action=show&root=1000227&tvd=26620002596977&vrn=100100225883172&region=66&global=&sub_region=66&prver=0&pronetvd=null&vibid=26620002596977&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 173,
+      "oikTvd": "100100225883664"
     }
   },
   {
@@ -3004,8 +3588,12 @@ export const duma_2021_uik_463_region_66_part_009 = [
     "ballot": "single-member",
     "uikNumber": 2291,
     "uikTvd": "4664038276656",
+    "uikName": "УИК №2291",
     "tikTvd": "26620002596978",
     "tikName": "Новоуральская городская",
+    "regionCode": "66",
+    "regionTvd": "100100225883658",
+    "regionName": "Свердловская область",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 2036,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 1800,
@@ -3021,12 +3609,12 @@ export const duma_2021_uik_463_region_66_part_009 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Александров Николай Викторович": 79,
-      "Исаков Тарас Мамаджанович": 279,
-      "Куделькин Александр Владимирович": 33,
-      "Муцоев Зелимхан Аликоевич": 338,
-      "Панасенко Александр Владимирович": 92,
-      "Самутин Николай Михайлович": 109
+      "4664048237718": 79,
+      "4664048237415": 279,
+      "4664048238454": 33,
+      "4664048237325": 338,
+      "4664048237145": 92,
+      "4664048237639": 109
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/sverdlovsk?action=show&root=1000227&tvd=26620002596978&vrn=100100225883172&region=66&global=&sub_region=66&prver=0&pronetvd=null&vibid=26620002596978&type=464",
@@ -3036,6 +3624,10 @@ export const duma_2021_uik_463_region_66_part_009 = [
       "retrievedAt": "2026-08-26T08:06:40.811559+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/sverdlovsk?action=show&root=1000227&tvd=26620002596978&vrn=100100225883172&region=66&global=&sub_region=66&prver=0&pronetvd=null&vibid=26620002596978&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 173,
+      "oikTvd": "100100225883664"
     }
   },
   {
@@ -3045,8 +3637,12 @@ export const duma_2021_uik_463_region_66_part_009 = [
     "ballot": "single-member",
     "uikNumber": 2292,
     "uikTvd": "4664038276657",
+    "uikName": "УИК №2292",
     "tikTvd": "26620002596978",
     "tikName": "Новоуральская городская",
+    "regionCode": "66",
+    "regionTvd": "100100225883658",
+    "regionName": "Свердловская область",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 1631,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 1500,
@@ -3062,12 +3658,12 @@ export const duma_2021_uik_463_region_66_part_009 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Александров Николай Викторович": 69,
-      "Исаков Тарас Мамаджанович": 194,
-      "Куделькин Александр Владимирович": 27,
-      "Муцоев Зелимхан Аликоевич": 251,
-      "Панасенко Александр Владимирович": 116,
-      "Самутин Николай Михайлович": 105
+      "4664048237718": 69,
+      "4664048237415": 194,
+      "4664048238454": 27,
+      "4664048237325": 251,
+      "4664048237145": 116,
+      "4664048237639": 105
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/sverdlovsk?action=show&root=1000227&tvd=26620002596978&vrn=100100225883172&region=66&global=&sub_region=66&prver=0&pronetvd=null&vibid=26620002596978&type=464",
@@ -3077,6 +3673,10 @@ export const duma_2021_uik_463_region_66_part_009 = [
       "retrievedAt": "2026-08-26T08:06:40.811559+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/sverdlovsk?action=show&root=1000227&tvd=26620002596978&vrn=100100225883172&region=66&global=&sub_region=66&prver=0&pronetvd=null&vibid=26620002596978&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 173,
+      "oikTvd": "100100225883664"
     }
   },
   {
@@ -3086,8 +3686,12 @@ export const duma_2021_uik_463_region_66_part_009 = [
     "ballot": "single-member",
     "uikNumber": 2293,
     "uikTvd": "4664038276658",
+    "uikName": "УИК №2293",
     "tikTvd": "26620002596978",
     "tikName": "Новоуральская городская",
+    "regionCode": "66",
+    "regionTvd": "100100225883658",
+    "regionName": "Свердловская область",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 1760,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 1600,
@@ -3103,12 +3707,12 @@ export const duma_2021_uik_463_region_66_part_009 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Александров Николай Викторович": 62,
-      "Исаков Тарас Мамаджанович": 231,
-      "Куделькин Александр Владимирович": 35,
-      "Муцоев Зелимхан Аликоевич": 304,
-      "Панасенко Александр Владимирович": 86,
-      "Самутин Николай Михайлович": 109
+      "4664048237718": 62,
+      "4664048237415": 231,
+      "4664048238454": 35,
+      "4664048237325": 304,
+      "4664048237145": 86,
+      "4664048237639": 109
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/sverdlovsk?action=show&root=1000227&tvd=26620002596978&vrn=100100225883172&region=66&global=&sub_region=66&prver=0&pronetvd=null&vibid=26620002596978&type=464",
@@ -3118,6 +3722,10 @@ export const duma_2021_uik_463_region_66_part_009 = [
       "retrievedAt": "2026-08-26T08:06:40.811559+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/sverdlovsk?action=show&root=1000227&tvd=26620002596978&vrn=100100225883172&region=66&global=&sub_region=66&prver=0&pronetvd=null&vibid=26620002596978&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 173,
+      "oikTvd": "100100225883664"
     }
   },
   {
@@ -3127,8 +3735,12 @@ export const duma_2021_uik_463_region_66_part_009 = [
     "ballot": "single-member",
     "uikNumber": 2294,
     "uikTvd": "4664038276659",
+    "uikName": "УИК №2294",
     "tikTvd": "26620002596978",
     "tikName": "Новоуральская городская",
+    "regionCode": "66",
+    "regionTvd": "100100225883658",
+    "regionName": "Свердловская область",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 1837,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 1600,
@@ -3144,12 +3756,12 @@ export const duma_2021_uik_463_region_66_part_009 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Александров Николай Викторович": 84,
-      "Исаков Тарас Мамаджанович": 280,
-      "Куделькин Александр Владимирович": 38,
-      "Муцоев Зелимхан Аликоевич": 336,
-      "Панасенко Александр Владимирович": 98,
-      "Самутин Николай Михайлович": 134
+      "4664048237718": 84,
+      "4664048237415": 280,
+      "4664048238454": 38,
+      "4664048237325": 336,
+      "4664048237145": 98,
+      "4664048237639": 134
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/sverdlovsk?action=show&root=1000227&tvd=26620002596978&vrn=100100225883172&region=66&global=&sub_region=66&prver=0&pronetvd=null&vibid=26620002596978&type=464",
@@ -3159,6 +3771,10 @@ export const duma_2021_uik_463_region_66_part_009 = [
       "retrievedAt": "2026-08-26T08:06:40.811559+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/sverdlovsk?action=show&root=1000227&tvd=26620002596978&vrn=100100225883172&region=66&global=&sub_region=66&prver=0&pronetvd=null&vibid=26620002596978&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 173,
+      "oikTvd": "100100225883664"
     }
   },
   {
@@ -3168,8 +3784,12 @@ export const duma_2021_uik_463_region_66_part_009 = [
     "ballot": "single-member",
     "uikNumber": 2295,
     "uikTvd": "4664038276660",
+    "uikName": "УИК №2295",
     "tikTvd": "26620002596978",
     "tikName": "Новоуральская городская",
+    "regionCode": "66",
+    "regionTvd": "100100225883658",
+    "regionName": "Свердловская область",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 1057,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 1000,
@@ -3185,12 +3805,12 @@ export const duma_2021_uik_463_region_66_part_009 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Александров Николай Викторович": 62,
-      "Исаков Тарас Мамаджанович": 135,
-      "Куделькин Александр Владимирович": 17,
-      "Муцоев Зелимхан Аликоевич": 203,
-      "Панасенко Александр Владимирович": 39,
-      "Самутин Николай Михайлович": 67
+      "4664048237718": 62,
+      "4664048237415": 135,
+      "4664048238454": 17,
+      "4664048237325": 203,
+      "4664048237145": 39,
+      "4664048237639": 67
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/sverdlovsk?action=show&root=1000227&tvd=26620002596978&vrn=100100225883172&region=66&global=&sub_region=66&prver=0&pronetvd=null&vibid=26620002596978&type=464",
@@ -3200,6 +3820,10 @@ export const duma_2021_uik_463_region_66_part_009 = [
       "retrievedAt": "2026-08-26T08:06:40.811559+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/sverdlovsk?action=show&root=1000227&tvd=26620002596978&vrn=100100225883172&region=66&global=&sub_region=66&prver=0&pronetvd=null&vibid=26620002596978&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 173,
+      "oikTvd": "100100225883664"
     }
   },
   {
@@ -3209,8 +3833,12 @@ export const duma_2021_uik_463_region_66_part_009 = [
     "ballot": "single-member",
     "uikNumber": 2296,
     "uikTvd": "4664038276661",
+    "uikName": "УИК №2296",
     "tikTvd": "26620002596978",
     "tikName": "Новоуральская городская",
+    "regionCode": "66",
+    "regionTvd": "100100225883658",
+    "regionName": "Свердловская область",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 2188,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 1900,
@@ -3226,12 +3854,12 @@ export const duma_2021_uik_463_region_66_part_009 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Александров Николай Викторович": 78,
-      "Исаков Тарас Мамаджанович": 280,
-      "Куделькин Александр Владимирович": 35,
-      "Муцоев Зелимхан Аликоевич": 378,
-      "Панасенко Александр Владимирович": 122,
-      "Самутин Николай Михайлович": 170
+      "4664048237718": 78,
+      "4664048237415": 280,
+      "4664048238454": 35,
+      "4664048237325": 378,
+      "4664048237145": 122,
+      "4664048237639": 170
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/sverdlovsk?action=show&root=1000227&tvd=26620002596978&vrn=100100225883172&region=66&global=&sub_region=66&prver=0&pronetvd=null&vibid=26620002596978&type=464",
@@ -3241,6 +3869,10 @@ export const duma_2021_uik_463_region_66_part_009 = [
       "retrievedAt": "2026-08-26T08:06:40.811559+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/sverdlovsk?action=show&root=1000227&tvd=26620002596978&vrn=100100225883172&region=66&global=&sub_region=66&prver=0&pronetvd=null&vibid=26620002596978&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 173,
+      "oikTvd": "100100225883664"
     }
   },
   {
@@ -3250,8 +3882,12 @@ export const duma_2021_uik_463_region_66_part_009 = [
     "ballot": "single-member",
     "uikNumber": 2297,
     "uikTvd": "4664038276662",
+    "uikName": "УИК №2297",
     "tikTvd": "26620002596978",
     "tikName": "Новоуральская городская",
+    "regionCode": "66",
+    "regionTvd": "100100225883658",
+    "regionName": "Свердловская область",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 2290,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 2000,
@@ -3267,12 +3903,12 @@ export const duma_2021_uik_463_region_66_part_009 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Александров Николай Викторович": 71,
-      "Исаков Тарас Мамаджанович": 295,
-      "Куделькин Александр Владимирович": 26,
-      "Муцоев Зелимхан Аликоевич": 359,
-      "Панасенко Александр Владимирович": 136,
-      "Самутин Николай Михайлович": 124
+      "4664048237718": 71,
+      "4664048237415": 295,
+      "4664048238454": 26,
+      "4664048237325": 359,
+      "4664048237145": 136,
+      "4664048237639": 124
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/sverdlovsk?action=show&root=1000227&tvd=26620002596978&vrn=100100225883172&region=66&global=&sub_region=66&prver=0&pronetvd=null&vibid=26620002596978&type=464",
@@ -3282,6 +3918,10 @@ export const duma_2021_uik_463_region_66_part_009 = [
       "retrievedAt": "2026-08-26T08:06:40.811559+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/sverdlovsk?action=show&root=1000227&tvd=26620002596978&vrn=100100225883172&region=66&global=&sub_region=66&prver=0&pronetvd=null&vibid=26620002596978&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 173,
+      "oikTvd": "100100225883664"
     }
   },
   {
@@ -3291,8 +3931,12 @@ export const duma_2021_uik_463_region_66_part_009 = [
     "ballot": "single-member",
     "uikNumber": 2298,
     "uikTvd": "4664038276663",
+    "uikName": "УИК №2298",
     "tikTvd": "26620002596978",
     "tikName": "Новоуральская городская",
+    "regionCode": "66",
+    "regionTvd": "100100225883658",
+    "regionName": "Свердловская область",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 927,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 1000,
@@ -3308,12 +3952,12 @@ export const duma_2021_uik_463_region_66_part_009 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Александров Николай Викторович": 32,
-      "Исаков Тарас Мамаджанович": 141,
-      "Куделькин Александр Владимирович": 16,
-      "Муцоев Зелимхан Аликоевич": 119,
-      "Панасенко Александр Владимирович": 40,
-      "Самутин Николай Михайлович": 51
+      "4664048237718": 32,
+      "4664048237415": 141,
+      "4664048238454": 16,
+      "4664048237325": 119,
+      "4664048237145": 40,
+      "4664048237639": 51
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/sverdlovsk?action=show&root=1000227&tvd=26620002596978&vrn=100100225883172&region=66&global=&sub_region=66&prver=0&pronetvd=null&vibid=26620002596978&type=464",
@@ -3323,6 +3967,10 @@ export const duma_2021_uik_463_region_66_part_009 = [
       "retrievedAt": "2026-08-26T08:06:40.811559+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/sverdlovsk?action=show&root=1000227&tvd=26620002596978&vrn=100100225883172&region=66&global=&sub_region=66&prver=0&pronetvd=null&vibid=26620002596978&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 173,
+      "oikTvd": "100100225883664"
     }
   },
   {
@@ -3332,8 +3980,12 @@ export const duma_2021_uik_463_region_66_part_009 = [
     "ballot": "single-member",
     "uikNumber": 2299,
     "uikTvd": "4664038276664",
+    "uikName": "УИК №2299",
     "tikTvd": "26620002596978",
     "tikName": "Новоуральская городская",
+    "regionCode": "66",
+    "regionTvd": "100100225883658",
+    "regionName": "Свердловская область",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 1348,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 1100,
@@ -3349,12 +4001,12 @@ export const duma_2021_uik_463_region_66_part_009 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Александров Николай Викторович": 55,
-      "Исаков Тарас Мамаджанович": 181,
-      "Куделькин Александр Владимирович": 19,
-      "Муцоев Зелимхан Аликоевич": 227,
-      "Панасенко Александр Владимирович": 74,
-      "Самутин Николай Михайлович": 85
+      "4664048237718": 55,
+      "4664048237415": 181,
+      "4664048238454": 19,
+      "4664048237325": 227,
+      "4664048237145": 74,
+      "4664048237639": 85
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/sverdlovsk?action=show&root=1000227&tvd=26620002596978&vrn=100100225883172&region=66&global=&sub_region=66&prver=0&pronetvd=null&vibid=26620002596978&type=464",
@@ -3364,6 +4016,10 @@ export const duma_2021_uik_463_region_66_part_009 = [
       "retrievedAt": "2026-08-26T08:06:40.811559+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/sverdlovsk?action=show&root=1000227&tvd=26620002596978&vrn=100100225883172&region=66&global=&sub_region=66&prver=0&pronetvd=null&vibid=26620002596978&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 173,
+      "oikTvd": "100100225883664"
     }
   },
   {
@@ -3373,8 +4029,12 @@ export const duma_2021_uik_463_region_66_part_009 = [
     "ballot": "single-member",
     "uikNumber": 2300,
     "uikTvd": "4664038276665",
+    "uikName": "УИК №2300",
     "tikTvd": "26620002596978",
     "tikName": "Новоуральская городская",
+    "regionCode": "66",
+    "regionTvd": "100100225883658",
+    "regionName": "Свердловская область",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 1979,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 1700,
@@ -3390,12 +4050,12 @@ export const duma_2021_uik_463_region_66_part_009 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Александров Николай Викторович": 69,
-      "Исаков Тарас Мамаджанович": 265,
-      "Куделькин Александр Владимирович": 29,
-      "Муцоев Зелимхан Аликоевич": 292,
-      "Панасенко Александр Владимирович": 118,
-      "Самутин Николай Михайлович": 110
+      "4664048237718": 69,
+      "4664048237415": 265,
+      "4664048238454": 29,
+      "4664048237325": 292,
+      "4664048237145": 118,
+      "4664048237639": 110
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/sverdlovsk?action=show&root=1000227&tvd=26620002596978&vrn=100100225883172&region=66&global=&sub_region=66&prver=0&pronetvd=null&vibid=26620002596978&type=464",
@@ -3405,6 +4065,10 @@ export const duma_2021_uik_463_region_66_part_009 = [
       "retrievedAt": "2026-08-26T08:06:40.811559+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/sverdlovsk?action=show&root=1000227&tvd=26620002596978&vrn=100100225883172&region=66&global=&sub_region=66&prver=0&pronetvd=null&vibid=26620002596978&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 173,
+      "oikTvd": "100100225883664"
     }
   },
   {
@@ -3414,8 +4078,12 @@ export const duma_2021_uik_463_region_66_part_009 = [
     "ballot": "single-member",
     "uikNumber": 2301,
     "uikTvd": "4664038276666",
+    "uikName": "УИК №2301",
     "tikTvd": "26620002596978",
     "tikName": "Новоуральская городская",
+    "regionCode": "66",
+    "regionTvd": "100100225883658",
+    "regionName": "Свердловская область",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 772,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 600,
@@ -3431,12 +4099,12 @@ export const duma_2021_uik_463_region_66_part_009 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Александров Николай Викторович": 26,
-      "Исаков Тарас Мамаджанович": 103,
-      "Куделькин Александр Владимирович": 8,
-      "Муцоев Зелимхан Аликоевич": 140,
-      "Панасенко Александр Владимирович": 40,
-      "Самутин Николай Михайлович": 38
+      "4664048237718": 26,
+      "4664048237415": 103,
+      "4664048238454": 8,
+      "4664048237325": 140,
+      "4664048237145": 40,
+      "4664048237639": 38
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/sverdlovsk?action=show&root=1000227&tvd=26620002596978&vrn=100100225883172&region=66&global=&sub_region=66&prver=0&pronetvd=null&vibid=26620002596978&type=464",
@@ -3446,6 +4114,10 @@ export const duma_2021_uik_463_region_66_part_009 = [
       "retrievedAt": "2026-08-26T08:06:40.811559+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/sverdlovsk?action=show&root=1000227&tvd=26620002596978&vrn=100100225883172&region=66&global=&sub_region=66&prver=0&pronetvd=null&vibid=26620002596978&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 173,
+      "oikTvd": "100100225883664"
     }
   },
   {
@@ -3455,8 +4127,12 @@ export const duma_2021_uik_463_region_66_part_009 = [
     "ballot": "single-member",
     "uikNumber": 2302,
     "uikTvd": "4664038282775",
+    "uikName": "УИК №2302",
     "tikTvd": "26620002596978",
     "tikName": "Новоуральская городская",
+    "regionCode": "66",
+    "regionTvd": "100100225883658",
+    "regionName": "Свердловская область",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 131,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 500,
@@ -3472,12 +4148,12 @@ export const duma_2021_uik_463_region_66_part_009 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Александров Николай Викторович": 17,
-      "Исаков Тарас Мамаджанович": 33,
-      "Куделькин Александр Владимирович": 6,
-      "Муцоев Зелимхан Аликоевич": 42,
-      "Панасенко Александр Владимирович": 12,
-      "Самутин Николай Михайлович": 15
+      "4664048237718": 17,
+      "4664048237415": 33,
+      "4664048238454": 6,
+      "4664048237325": 42,
+      "4664048237145": 12,
+      "4664048237639": 15
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/sverdlovsk?action=show&root=1000227&tvd=26620002596978&vrn=100100225883172&region=66&global=&sub_region=66&prver=0&pronetvd=null&vibid=26620002596978&type=464",
@@ -3487,6 +4163,10 @@ export const duma_2021_uik_463_region_66_part_009 = [
       "retrievedAt": "2026-08-26T08:06:40.811559+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/sverdlovsk?action=show&root=1000227&tvd=26620002596978&vrn=100100225883172&region=66&global=&sub_region=66&prver=0&pronetvd=null&vibid=26620002596978&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 173,
+      "oikTvd": "100100225883664"
     }
   },
   {
@@ -3496,8 +4176,12 @@ export const duma_2021_uik_463_region_66_part_009 = [
     "ballot": "single-member",
     "uikNumber": 2303,
     "uikTvd": "4664038276667",
+    "uikName": "УИК №2303",
     "tikTvd": "26620002596978",
     "tikName": "Новоуральская городская",
+    "regionCode": "66",
+    "regionTvd": "100100225883658",
+    "regionName": "Свердловская область",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 1896,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 1700,
@@ -3513,12 +4197,12 @@ export const duma_2021_uik_463_region_66_part_009 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Александров Николай Викторович": 80,
-      "Исаков Тарас Мамаджанович": 273,
-      "Куделькин Александр Владимирович": 26,
-      "Муцоев Зелимхан Аликоевич": 349,
-      "Панасенко Александр Владимирович": 89,
-      "Самутин Николай Михайлович": 125
+      "4664048237718": 80,
+      "4664048237415": 273,
+      "4664048238454": 26,
+      "4664048237325": 349,
+      "4664048237145": 89,
+      "4664048237639": 125
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/sverdlovsk?action=show&root=1000227&tvd=26620002596978&vrn=100100225883172&region=66&global=&sub_region=66&prver=0&pronetvd=null&vibid=26620002596978&type=464",
@@ -3528,6 +4212,10 @@ export const duma_2021_uik_463_region_66_part_009 = [
       "retrievedAt": "2026-08-26T08:06:40.811559+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/sverdlovsk?action=show&root=1000227&tvd=26620002596978&vrn=100100225883172&region=66&global=&sub_region=66&prver=0&pronetvd=null&vibid=26620002596978&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 173,
+      "oikTvd": "100100225883664"
     }
   },
   {
@@ -3537,8 +4225,12 @@ export const duma_2021_uik_463_region_66_part_009 = [
     "ballot": "single-member",
     "uikNumber": 2304,
     "uikTvd": "4664038276668",
+    "uikName": "УИК №2304",
     "tikTvd": "26620002596978",
     "tikName": "Новоуральская городская",
+    "regionCode": "66",
+    "regionTvd": "100100225883658",
+    "regionName": "Свердловская область",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 1828,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 1600,
@@ -3554,12 +4246,12 @@ export const duma_2021_uik_463_region_66_part_009 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Александров Николай Викторович": 66,
-      "Исаков Тарас Мамаджанович": 259,
-      "Куделькин Александр Владимирович": 31,
-      "Муцоев Зелимхан Аликоевич": 298,
-      "Панасенко Александр Владимирович": 106,
-      "Самутин Николай Михайлович": 119
+      "4664048237718": 66,
+      "4664048237415": 259,
+      "4664048238454": 31,
+      "4664048237325": 298,
+      "4664048237145": 106,
+      "4664048237639": 119
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/sverdlovsk?action=show&root=1000227&tvd=26620002596978&vrn=100100225883172&region=66&global=&sub_region=66&prver=0&pronetvd=null&vibid=26620002596978&type=464",
@@ -3569,6 +4261,10 @@ export const duma_2021_uik_463_region_66_part_009 = [
       "retrievedAt": "2026-08-26T08:06:40.811559+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/sverdlovsk?action=show&root=1000227&tvd=26620002596978&vrn=100100225883172&region=66&global=&sub_region=66&prver=0&pronetvd=null&vibid=26620002596978&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 173,
+      "oikTvd": "100100225883664"
     }
   },
   {
@@ -3578,8 +4274,12 @@ export const duma_2021_uik_463_region_66_part_009 = [
     "ballot": "single-member",
     "uikNumber": 2305,
     "uikTvd": "4664038276669",
+    "uikName": "УИК №2305",
     "tikTvd": "26620002596978",
     "tikName": "Новоуральская городская",
+    "regionCode": "66",
+    "regionTvd": "100100225883658",
+    "regionName": "Свердловская область",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 1290,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 1100,
@@ -3595,12 +4295,12 @@ export const duma_2021_uik_463_region_66_part_009 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Александров Николай Викторович": 52,
-      "Исаков Тарас Мамаджанович": 180,
-      "Куделькин Александр Владимирович": 22,
-      "Муцоев Зелимхан Аликоевич": 199,
-      "Панасенко Александр Владимирович": 75,
-      "Самутин Николай Михайлович": 63
+      "4664048237718": 52,
+      "4664048237415": 180,
+      "4664048238454": 22,
+      "4664048237325": 199,
+      "4664048237145": 75,
+      "4664048237639": 63
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/sverdlovsk?action=show&root=1000227&tvd=26620002596978&vrn=100100225883172&region=66&global=&sub_region=66&prver=0&pronetvd=null&vibid=26620002596978&type=464",
@@ -3610,6 +4310,10 @@ export const duma_2021_uik_463_region_66_part_009 = [
       "retrievedAt": "2026-08-26T08:06:40.811559+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/sverdlovsk?action=show&root=1000227&tvd=26620002596978&vrn=100100225883172&region=66&global=&sub_region=66&prver=0&pronetvd=null&vibid=26620002596978&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 173,
+      "oikTvd": "100100225883664"
     }
   },
   {
@@ -3619,8 +4323,12 @@ export const duma_2021_uik_463_region_66_part_009 = [
     "ballot": "single-member",
     "uikNumber": 2306,
     "uikTvd": "4664038276670",
+    "uikName": "УИК №2306",
     "tikTvd": "26620002596978",
     "tikName": "Новоуральская городская",
+    "regionCode": "66",
+    "regionTvd": "100100225883658",
+    "regionName": "Свердловская область",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 2050,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 1800,
@@ -3636,12 +4344,12 @@ export const duma_2021_uik_463_region_66_part_009 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Александров Николай Викторович": 73,
-      "Исаков Тарас Мамаджанович": 272,
-      "Куделькин Александр Владимирович": 36,
-      "Муцоев Зелимхан Аликоевич": 320,
-      "Панасенко Александр Владимирович": 137,
-      "Самутин Николай Михайлович": 123
+      "4664048237718": 73,
+      "4664048237415": 272,
+      "4664048238454": 36,
+      "4664048237325": 320,
+      "4664048237145": 137,
+      "4664048237639": 123
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/sverdlovsk?action=show&root=1000227&tvd=26620002596978&vrn=100100225883172&region=66&global=&sub_region=66&prver=0&pronetvd=null&vibid=26620002596978&type=464",
@@ -3651,6 +4359,10 @@ export const duma_2021_uik_463_region_66_part_009 = [
       "retrievedAt": "2026-08-26T08:06:40.811559+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/sverdlovsk?action=show&root=1000227&tvd=26620002596978&vrn=100100225883172&region=66&global=&sub_region=66&prver=0&pronetvd=null&vibid=26620002596978&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 173,
+      "oikTvd": "100100225883664"
     }
   },
   {
@@ -3660,8 +4372,12 @@ export const duma_2021_uik_463_region_66_part_009 = [
     "ballot": "single-member",
     "uikNumber": 2307,
     "uikTvd": "4664038276671",
+    "uikName": "УИК №2307",
     "tikTvd": "26620002596978",
     "tikName": "Новоуральская городская",
+    "regionCode": "66",
+    "regionTvd": "100100225883658",
+    "regionName": "Свердловская область",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 1626,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 1500,
@@ -3677,12 +4393,12 @@ export const duma_2021_uik_463_region_66_part_009 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Александров Николай Викторович": 69,
-      "Исаков Тарас Мамаджанович": 194,
-      "Куделькин Александр Владимирович": 21,
-      "Муцоев Зелимхан Аликоевич": 245,
-      "Панасенко Александр Владимирович": 68,
-      "Самутин Николай Михайлович": 80
+      "4664048237718": 69,
+      "4664048237415": 194,
+      "4664048238454": 21,
+      "4664048237325": 245,
+      "4664048237145": 68,
+      "4664048237639": 80
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/sverdlovsk?action=show&root=1000227&tvd=26620002596978&vrn=100100225883172&region=66&global=&sub_region=66&prver=0&pronetvd=null&vibid=26620002596978&type=464",
@@ -3692,6 +4408,10 @@ export const duma_2021_uik_463_region_66_part_009 = [
       "retrievedAt": "2026-08-26T08:06:40.811559+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/sverdlovsk?action=show&root=1000227&tvd=26620002596978&vrn=100100225883172&region=66&global=&sub_region=66&prver=0&pronetvd=null&vibid=26620002596978&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 173,
+      "oikTvd": "100100225883664"
     }
   },
   {
@@ -3701,8 +4421,12 @@ export const duma_2021_uik_463_region_66_part_009 = [
     "ballot": "single-member",
     "uikNumber": 2308,
     "uikTvd": "4664038276672",
+    "uikName": "УИК №2308",
     "tikTvd": "26620002596978",
     "tikName": "Новоуральская городская",
+    "regionCode": "66",
+    "regionTvd": "100100225883658",
+    "regionName": "Свердловская область",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 2042,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 1800,
@@ -3718,12 +4442,12 @@ export const duma_2021_uik_463_region_66_part_009 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Александров Николай Викторович": 70,
-      "Исаков Тарас Мамаджанович": 257,
-      "Куделькин Александр Владимирович": 24,
-      "Муцоев Зелимхан Аликоевич": 295,
-      "Панасенко Александр Владимирович": 94,
-      "Самутин Николай Михайлович": 113
+      "4664048237718": 70,
+      "4664048237415": 257,
+      "4664048238454": 24,
+      "4664048237325": 295,
+      "4664048237145": 94,
+      "4664048237639": 113
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/sverdlovsk?action=show&root=1000227&tvd=26620002596978&vrn=100100225883172&region=66&global=&sub_region=66&prver=0&pronetvd=null&vibid=26620002596978&type=464",
@@ -3733,6 +4457,10 @@ export const duma_2021_uik_463_region_66_part_009 = [
       "retrievedAt": "2026-08-26T08:06:40.811559+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/sverdlovsk?action=show&root=1000227&tvd=26620002596978&vrn=100100225883172&region=66&global=&sub_region=66&prver=0&pronetvd=null&vibid=26620002596978&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 173,
+      "oikTvd": "100100225883664"
     }
   },
   {
@@ -3742,8 +4470,12 @@ export const duma_2021_uik_463_region_66_part_009 = [
     "ballot": "single-member",
     "uikNumber": 2309,
     "uikTvd": "4664038276673",
+    "uikName": "УИК №2309",
     "tikTvd": "26620002596978",
     "tikName": "Новоуральская городская",
+    "regionCode": "66",
+    "regionTvd": "100100225883658",
+    "regionName": "Свердловская область",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 1460,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 1300,
@@ -3759,12 +4491,12 @@ export const duma_2021_uik_463_region_66_part_009 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Александров Николай Викторович": 56,
-      "Исаков Тарас Мамаджанович": 215,
-      "Куделькин Александр Владимирович": 14,
-      "Муцоев Зелимхан Аликоевич": 228,
-      "Панасенко Александр Владимирович": 73,
-      "Самутин Николай Михайлович": 79
+      "4664048237718": 56,
+      "4664048237415": 215,
+      "4664048238454": 14,
+      "4664048237325": 228,
+      "4664048237145": 73,
+      "4664048237639": 79
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/sverdlovsk?action=show&root=1000227&tvd=26620002596978&vrn=100100225883172&region=66&global=&sub_region=66&prver=0&pronetvd=null&vibid=26620002596978&type=464",
@@ -3774,6 +4506,10 @@ export const duma_2021_uik_463_region_66_part_009 = [
       "retrievedAt": "2026-08-26T08:06:40.811559+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/sverdlovsk?action=show&root=1000227&tvd=26620002596978&vrn=100100225883172&region=66&global=&sub_region=66&prver=0&pronetvd=null&vibid=26620002596978&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 173,
+      "oikTvd": "100100225883664"
     }
   },
   {
@@ -3783,8 +4519,12 @@ export const duma_2021_uik_463_region_66_part_009 = [
     "ballot": "single-member",
     "uikNumber": 2310,
     "uikTvd": "4664038276674",
+    "uikName": "УИК №2310",
     "tikTvd": "26620002596978",
     "tikName": "Новоуральская городская",
+    "regionCode": "66",
+    "regionTvd": "100100225883658",
+    "regionName": "Свердловская область",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 1949,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 1700,
@@ -3800,12 +4540,12 @@ export const duma_2021_uik_463_region_66_part_009 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Александров Николай Викторович": 69,
-      "Исаков Тарас Мамаджанович": 266,
-      "Куделькин Александр Владимирович": 25,
-      "Муцоев Зелимхан Аликоевич": 341,
-      "Панасенко Александр Владимирович": 101,
-      "Самутин Николай Михайлович": 116
+      "4664048237718": 69,
+      "4664048237415": 266,
+      "4664048238454": 25,
+      "4664048237325": 341,
+      "4664048237145": 101,
+      "4664048237639": 116
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/sverdlovsk?action=show&root=1000227&tvd=26620002596978&vrn=100100225883172&region=66&global=&sub_region=66&prver=0&pronetvd=null&vibid=26620002596978&type=464",
@@ -3815,6 +4555,10 @@ export const duma_2021_uik_463_region_66_part_009 = [
       "retrievedAt": "2026-08-26T08:06:40.811559+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/sverdlovsk?action=show&root=1000227&tvd=26620002596978&vrn=100100225883172&region=66&global=&sub_region=66&prver=0&pronetvd=null&vibid=26620002596978&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 173,
+      "oikTvd": "100100225883664"
     }
   },
   {
@@ -3824,8 +4568,12 @@ export const duma_2021_uik_463_region_66_part_009 = [
     "ballot": "single-member",
     "uikNumber": 2311,
     "uikTvd": "4664038276675",
+    "uikName": "УИК №2311",
     "tikTvd": "26620002596978",
     "tikName": "Новоуральская городская",
+    "regionCode": "66",
+    "regionTvd": "100100225883658",
+    "regionName": "Свердловская область",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 1836,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 1600,
@@ -3841,12 +4589,12 @@ export const duma_2021_uik_463_region_66_part_009 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Александров Николай Викторович": 71,
-      "Исаков Тарас Мамаджанович": 270,
-      "Куделькин Александр Владимирович": 21,
-      "Муцоев Зелимхан Аликоевич": 310,
-      "Панасенко Александр Владимирович": 87,
-      "Самутин Николай Михайлович": 105
+      "4664048237718": 71,
+      "4664048237415": 270,
+      "4664048238454": 21,
+      "4664048237325": 310,
+      "4664048237145": 87,
+      "4664048237639": 105
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/sverdlovsk?action=show&root=1000227&tvd=26620002596978&vrn=100100225883172&region=66&global=&sub_region=66&prver=0&pronetvd=null&vibid=26620002596978&type=464",
@@ -3856,6 +4604,10 @@ export const duma_2021_uik_463_region_66_part_009 = [
       "retrievedAt": "2026-08-26T08:06:40.811559+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/sverdlovsk?action=show&root=1000227&tvd=26620002596978&vrn=100100225883172&region=66&global=&sub_region=66&prver=0&pronetvd=null&vibid=26620002596978&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 173,
+      "oikTvd": "100100225883664"
     }
   },
   {
@@ -3865,8 +4617,12 @@ export const duma_2021_uik_463_region_66_part_009 = [
     "ballot": "single-member",
     "uikNumber": 2312,
     "uikTvd": "4664038276676",
+    "uikName": "УИК №2312",
     "tikTvd": "26620002596978",
     "tikName": "Новоуральская городская",
+    "regionCode": "66",
+    "regionTvd": "100100225883658",
+    "regionName": "Свердловская область",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 1795,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 1600,
@@ -3882,12 +4638,12 @@ export const duma_2021_uik_463_region_66_part_009 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Александров Николай Викторович": 72,
-      "Исаков Тарас Мамаджанович": 286,
-      "Куделькин Александр Владимирович": 34,
-      "Муцоев Зелимхан Аликоевич": 309,
-      "Панасенко Александр Владимирович": 90,
-      "Самутин Николай Михайлович": 117
+      "4664048237718": 72,
+      "4664048237415": 286,
+      "4664048238454": 34,
+      "4664048237325": 309,
+      "4664048237145": 90,
+      "4664048237639": 117
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/sverdlovsk?action=show&root=1000227&tvd=26620002596978&vrn=100100225883172&region=66&global=&sub_region=66&prver=0&pronetvd=null&vibid=26620002596978&type=464",
@@ -3897,6 +4653,10 @@ export const duma_2021_uik_463_region_66_part_009 = [
       "retrievedAt": "2026-08-26T08:06:40.811559+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/sverdlovsk?action=show&root=1000227&tvd=26620002596978&vrn=100100225883172&region=66&global=&sub_region=66&prver=0&pronetvd=null&vibid=26620002596978&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 173,
+      "oikTvd": "100100225883664"
     }
   },
   {
@@ -3906,8 +4666,12 @@ export const duma_2021_uik_463_region_66_part_009 = [
     "ballot": "single-member",
     "uikNumber": 2313,
     "uikTvd": "4664038276677",
+    "uikName": "УИК №2313",
     "tikTvd": "26620002596978",
     "tikName": "Новоуральская городская",
+    "regionCode": "66",
+    "regionTvd": "100100225883658",
+    "regionName": "Свердловская область",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 1791,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 1600,
@@ -3923,12 +4687,12 @@ export const duma_2021_uik_463_region_66_part_009 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Александров Николай Викторович": 95,
-      "Исаков Тарас Мамаджанович": 297,
-      "Куделькин Александр Владимирович": 24,
-      "Муцоев Зелимхан Аликоевич": 278,
-      "Панасенко Александр Владимирович": 101,
-      "Самутин Николай Михайлович": 136
+      "4664048237718": 95,
+      "4664048237415": 297,
+      "4664048238454": 24,
+      "4664048237325": 278,
+      "4664048237145": 101,
+      "4664048237639": 136
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/sverdlovsk?action=show&root=1000227&tvd=26620002596978&vrn=100100225883172&region=66&global=&sub_region=66&prver=0&pronetvd=null&vibid=26620002596978&type=464",
@@ -3938,6 +4702,10 @@ export const duma_2021_uik_463_region_66_part_009 = [
       "retrievedAt": "2026-08-26T08:06:40.811559+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/sverdlovsk?action=show&root=1000227&tvd=26620002596978&vrn=100100225883172&region=66&global=&sub_region=66&prver=0&pronetvd=null&vibid=26620002596978&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 173,
+      "oikTvd": "100100225883664"
     }
   },
   {
@@ -3947,8 +4715,12 @@ export const duma_2021_uik_463_region_66_part_009 = [
     "ballot": "single-member",
     "uikNumber": 2314,
     "uikTvd": "4664038276678",
+    "uikName": "УИК №2314",
     "tikTvd": "26620002596978",
     "tikName": "Новоуральская городская",
+    "regionCode": "66",
+    "regionTvd": "100100225883658",
+    "regionName": "Свердловская область",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 1933,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 1700,
@@ -3964,12 +4736,12 @@ export const duma_2021_uik_463_region_66_part_009 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Александров Николай Викторович": 90,
-      "Исаков Тарас Мамаджанович": 274,
-      "Куделькин Александр Владимирович": 30,
-      "Муцоев Зелимхан Аликоевич": 323,
-      "Панасенко Александр Владимирович": 114,
-      "Самутин Николай Михайлович": 119
+      "4664048237718": 90,
+      "4664048237415": 274,
+      "4664048238454": 30,
+      "4664048237325": 323,
+      "4664048237145": 114,
+      "4664048237639": 119
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/sverdlovsk?action=show&root=1000227&tvd=26620002596978&vrn=100100225883172&region=66&global=&sub_region=66&prver=0&pronetvd=null&vibid=26620002596978&type=464",
@@ -3979,6 +4751,10 @@ export const duma_2021_uik_463_region_66_part_009 = [
       "retrievedAt": "2026-08-26T08:06:40.811559+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/sverdlovsk?action=show&root=1000227&tvd=26620002596978&vrn=100100225883172&region=66&global=&sub_region=66&prver=0&pronetvd=null&vibid=26620002596978&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 173,
+      "oikTvd": "100100225883664"
     }
   },
   {
@@ -3988,8 +4764,12 @@ export const duma_2021_uik_463_region_66_part_009 = [
     "ballot": "single-member",
     "uikNumber": 2315,
     "uikTvd": "4664038276679",
+    "uikName": "УИК №2315",
     "tikTvd": "26620002596978",
     "tikName": "Новоуральская городская",
+    "regionCode": "66",
+    "regionTvd": "100100225883658",
+    "regionName": "Свердловская область",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 1704,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 1600,
@@ -4005,12 +4785,12 @@ export const duma_2021_uik_463_region_66_part_009 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Александров Николай Викторович": 61,
-      "Исаков Тарас Мамаджанович": 261,
-      "Куделькин Александр Владимирович": 25,
-      "Муцоев Зелимхан Аликоевич": 305,
-      "Панасенко Александр Владимирович": 83,
-      "Самутин Николай Михайлович": 106
+      "4664048237718": 61,
+      "4664048237415": 261,
+      "4664048238454": 25,
+      "4664048237325": 305,
+      "4664048237145": 83,
+      "4664048237639": 106
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/sverdlovsk?action=show&root=1000227&tvd=26620002596978&vrn=100100225883172&region=66&global=&sub_region=66&prver=0&pronetvd=null&vibid=26620002596978&type=464",
@@ -4020,6 +4800,10 @@ export const duma_2021_uik_463_region_66_part_009 = [
       "retrievedAt": "2026-08-26T08:06:40.811559+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/sverdlovsk?action=show&root=1000227&tvd=26620002596978&vrn=100100225883172&region=66&global=&sub_region=66&prver=0&pronetvd=null&vibid=26620002596978&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 173,
+      "oikTvd": "100100225883664"
     }
   },
   {
@@ -4029,8 +4813,12 @@ export const duma_2021_uik_463_region_66_part_009 = [
     "ballot": "single-member",
     "uikNumber": 2316,
     "uikTvd": "4664038276680",
+    "uikName": "УИК №2316",
     "tikTvd": "26620002596978",
     "tikName": "Новоуральская городская",
+    "regionCode": "66",
+    "regionTvd": "100100225883658",
+    "regionName": "Свердловская область",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 1848,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 1600,
@@ -4046,12 +4834,12 @@ export const duma_2021_uik_463_region_66_part_009 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Александров Николай Викторович": 89,
-      "Исаков Тарас Мамаджанович": 282,
-      "Куделькин Александр Владимирович": 23,
-      "Муцоев Зелимхан Аликоевич": 292,
-      "Панасенко Александр Владимирович": 87,
-      "Самутин Николай Михайлович": 109
+      "4664048237718": 89,
+      "4664048237415": 282,
+      "4664048238454": 23,
+      "4664048237325": 292,
+      "4664048237145": 87,
+      "4664048237639": 109
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/sverdlovsk?action=show&root=1000227&tvd=26620002596978&vrn=100100225883172&region=66&global=&sub_region=66&prver=0&pronetvd=null&vibid=26620002596978&type=464",
@@ -4061,6 +4849,10 @@ export const duma_2021_uik_463_region_66_part_009 = [
       "retrievedAt": "2026-08-26T08:06:40.811559+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/sverdlovsk?action=show&root=1000227&tvd=26620002596978&vrn=100100225883172&region=66&global=&sub_region=66&prver=0&pronetvd=null&vibid=26620002596978&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 173,
+      "oikTvd": "100100225883664"
     }
   },
   {
@@ -4070,8 +4862,12 @@ export const duma_2021_uik_463_region_66_part_009 = [
     "ballot": "single-member",
     "uikNumber": 2317,
     "uikTvd": "4664038276681",
+    "uikName": "УИК №2317",
     "tikTvd": "26620002596978",
     "tikName": "Новоуральская городская",
+    "regionCode": "66",
+    "regionTvd": "100100225883658",
+    "regionName": "Свердловская область",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 1935,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 1700,
@@ -4087,12 +4883,12 @@ export const duma_2021_uik_463_region_66_part_009 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Александров Николай Викторович": 75,
-      "Исаков Тарас Мамаджанович": 269,
-      "Куделькин Александр Владимирович": 31,
-      "Муцоев Зелимхан Аликоевич": 325,
-      "Панасенко Александр Владимирович": 111,
-      "Самутин Николай Михайлович": 104
+      "4664048237718": 75,
+      "4664048237415": 269,
+      "4664048238454": 31,
+      "4664048237325": 325,
+      "4664048237145": 111,
+      "4664048237639": 104
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/sverdlovsk?action=show&root=1000227&tvd=26620002596978&vrn=100100225883172&region=66&global=&sub_region=66&prver=0&pronetvd=null&vibid=26620002596978&type=464",
@@ -4102,6 +4898,10 @@ export const duma_2021_uik_463_region_66_part_009 = [
       "retrievedAt": "2026-08-26T08:06:40.811559+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/sverdlovsk?action=show&root=1000227&tvd=26620002596978&vrn=100100225883172&region=66&global=&sub_region=66&prver=0&pronetvd=null&vibid=26620002596978&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 173,
+      "oikTvd": "100100225883664"
     }
   },
   {
@@ -4111,8 +4911,12 @@ export const duma_2021_uik_463_region_66_part_009 = [
     "ballot": "single-member",
     "uikNumber": 2318,
     "uikTvd": "4664038276682",
+    "uikName": "УИК №2318",
     "tikTvd": "26620002596978",
     "tikName": "Новоуральская городская",
+    "regionCode": "66",
+    "regionTvd": "100100225883658",
+    "regionName": "Свердловская область",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 1758,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 1600,
@@ -4128,12 +4932,12 @@ export const duma_2021_uik_463_region_66_part_009 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Александров Николай Викторович": 71,
-      "Исаков Тарас Мамаджанович": 271,
-      "Куделькин Александр Владимирович": 34,
-      "Муцоев Зелимхан Аликоевич": 261,
-      "Панасенко Александр Владимирович": 94,
-      "Самутин Николай Михайлович": 105
+      "4664048237718": 71,
+      "4664048237415": 271,
+      "4664048238454": 34,
+      "4664048237325": 261,
+      "4664048237145": 94,
+      "4664048237639": 105
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/sverdlovsk?action=show&root=1000227&tvd=26620002596978&vrn=100100225883172&region=66&global=&sub_region=66&prver=0&pronetvd=null&vibid=26620002596978&type=464",
@@ -4143,6 +4947,10 @@ export const duma_2021_uik_463_region_66_part_009 = [
       "retrievedAt": "2026-08-26T08:06:40.811559+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/sverdlovsk?action=show&root=1000227&tvd=26620002596978&vrn=100100225883172&region=66&global=&sub_region=66&prver=0&pronetvd=null&vibid=26620002596978&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 173,
+      "oikTvd": "100100225883664"
     }
   },
   {
@@ -4152,8 +4960,12 @@ export const duma_2021_uik_463_region_66_part_009 = [
     "ballot": "single-member",
     "uikNumber": 2319,
     "uikTvd": "4664038276683",
+    "uikName": "УИК №2319",
     "tikTvd": "26620002596978",
     "tikName": "Новоуральская городская",
+    "regionCode": "66",
+    "regionTvd": "100100225883658",
+    "regionName": "Свердловская область",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 830,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 700,
@@ -4169,12 +4981,12 @@ export const duma_2021_uik_463_region_66_part_009 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Александров Николай Викторович": 19,
-      "Исаков Тарас Мамаджанович": 111,
-      "Куделькин Александр Владимирович": 17,
-      "Муцоев Зелимхан Аликоевич": 122,
-      "Панасенко Александр Владимирович": 34,
-      "Самутин Николай Михайлович": 46
+      "4664048237718": 19,
+      "4664048237415": 111,
+      "4664048238454": 17,
+      "4664048237325": 122,
+      "4664048237145": 34,
+      "4664048237639": 46
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/sverdlovsk?action=show&root=1000227&tvd=26620002596978&vrn=100100225883172&region=66&global=&sub_region=66&prver=0&pronetvd=null&vibid=26620002596978&type=464",
@@ -4184,6 +4996,10 @@ export const duma_2021_uik_463_region_66_part_009 = [
       "retrievedAt": "2026-08-26T08:06:40.811559+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/sverdlovsk?action=show&root=1000227&tvd=26620002596978&vrn=100100225883172&region=66&global=&sub_region=66&prver=0&pronetvd=null&vibid=26620002596978&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 173,
+      "oikTvd": "100100225883664"
     }
   },
   {
@@ -4193,8 +5009,12 @@ export const duma_2021_uik_463_region_66_part_009 = [
     "ballot": "single-member",
     "uikNumber": 2320,
     "uikTvd": "4664038276684",
+    "uikName": "УИК №2320",
     "tikTvd": "26620002596978",
     "tikName": "Новоуральская городская",
+    "regionCode": "66",
+    "regionTvd": "100100225883658",
+    "regionName": "Свердловская область",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 1119,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 1000,
@@ -4210,12 +5030,12 @@ export const duma_2021_uik_463_region_66_part_009 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Александров Николай Викторович": 50,
-      "Исаков Тарас Мамаджанович": 168,
-      "Куделькин Александр Владимирович": 24,
-      "Муцоев Зелимхан Аликоевич": 160,
-      "Панасенко Александр Владимирович": 69,
-      "Самутин Николай Михайлович": 60
+      "4664048237718": 50,
+      "4664048237415": 168,
+      "4664048238454": 24,
+      "4664048237325": 160,
+      "4664048237145": 69,
+      "4664048237639": 60
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/sverdlovsk?action=show&root=1000227&tvd=26620002596978&vrn=100100225883172&region=66&global=&sub_region=66&prver=0&pronetvd=null&vibid=26620002596978&type=464",
@@ -4225,6 +5045,10 @@ export const duma_2021_uik_463_region_66_part_009 = [
       "retrievedAt": "2026-08-26T08:06:40.811559+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/sverdlovsk?action=show&root=1000227&tvd=26620002596978&vrn=100100225883172&region=66&global=&sub_region=66&prver=0&pronetvd=null&vibid=26620002596978&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 173,
+      "oikTvd": "100100225883664"
     }
   },
   {
@@ -4234,8 +5058,12 @@ export const duma_2021_uik_463_region_66_part_009 = [
     "ballot": "single-member",
     "uikNumber": 2321,
     "uikTvd": "4664038276685",
+    "uikName": "УИК №2321",
     "tikTvd": "26620002596978",
     "tikName": "Новоуральская городская",
+    "regionCode": "66",
+    "regionTvd": "100100225883658",
+    "regionName": "Свердловская область",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 1930,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 1700,
@@ -4251,12 +5079,12 @@ export const duma_2021_uik_463_region_66_part_009 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Александров Николай Викторович": 65,
-      "Исаков Тарас Мамаджанович": 288,
-      "Куделькин Александр Владимирович": 24,
-      "Муцоев Зелимхан Аликоевич": 309,
-      "Панасенко Александр Владимирович": 113,
-      "Самутин Николай Михайлович": 82
+      "4664048237718": 65,
+      "4664048237415": 288,
+      "4664048238454": 24,
+      "4664048237325": 309,
+      "4664048237145": 113,
+      "4664048237639": 82
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/sverdlovsk?action=show&root=1000227&tvd=26620002596978&vrn=100100225883172&region=66&global=&sub_region=66&prver=0&pronetvd=null&vibid=26620002596978&type=464",
@@ -4266,6 +5094,10 @@ export const duma_2021_uik_463_region_66_part_009 = [
       "retrievedAt": "2026-08-26T08:06:40.811559+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/sverdlovsk?action=show&root=1000227&tvd=26620002596978&vrn=100100225883172&region=66&global=&sub_region=66&prver=0&pronetvd=null&vibid=26620002596978&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 173,
+      "oikTvd": "100100225883664"
     }
   },
   {
@@ -4275,8 +5107,12 @@ export const duma_2021_uik_463_region_66_part_009 = [
     "ballot": "single-member",
     "uikNumber": 2322,
     "uikTvd": "4664038276686",
+    "uikName": "УИК №2322",
     "tikTvd": "26620002596978",
     "tikName": "Новоуральская городская",
+    "regionCode": "66",
+    "regionTvd": "100100225883658",
+    "regionName": "Свердловская область",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 2483,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 2300,
@@ -4292,12 +5128,12 @@ export const duma_2021_uik_463_region_66_part_009 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Александров Николай Викторович": 86,
-      "Исаков Тарас Мамаджанович": 354,
-      "Куделькин Александр Владимирович": 45,
-      "Муцоев Зелимхан Аликоевич": 415,
-      "Панасенко Александр Владимирович": 136,
-      "Самутин Николай Михайлович": 135
+      "4664048237718": 86,
+      "4664048237415": 354,
+      "4664048238454": 45,
+      "4664048237325": 415,
+      "4664048237145": 136,
+      "4664048237639": 135
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/sverdlovsk?action=show&root=1000227&tvd=26620002596978&vrn=100100225883172&region=66&global=&sub_region=66&prver=0&pronetvd=null&vibid=26620002596978&type=464",
@@ -4307,6 +5143,10 @@ export const duma_2021_uik_463_region_66_part_009 = [
       "retrievedAt": "2026-08-26T08:06:40.811559+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/sverdlovsk?action=show&root=1000227&tvd=26620002596978&vrn=100100225883172&region=66&global=&sub_region=66&prver=0&pronetvd=null&vibid=26620002596978&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 173,
+      "oikTvd": "100100225883664"
     }
   },
   {
@@ -4316,8 +5156,12 @@ export const duma_2021_uik_463_region_66_part_009 = [
     "ballot": "single-member",
     "uikNumber": 2323,
     "uikTvd": "4664038276687",
+    "uikName": "УИК №2323",
     "tikTvd": "26620002596978",
     "tikName": "Новоуральская городская",
+    "regionCode": "66",
+    "regionTvd": "100100225883658",
+    "regionName": "Свердловская область",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 1822,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 1600,
@@ -4333,12 +5177,12 @@ export const duma_2021_uik_463_region_66_part_009 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Александров Николай Викторович": 70,
-      "Исаков Тарас Мамаджанович": 296,
-      "Куделькин Александр Владимирович": 27,
-      "Муцоев Зелимхан Аликоевич": 300,
-      "Панасенко Александр Владимирович": 108,
-      "Самутин Николай Михайлович": 114
+      "4664048237718": 70,
+      "4664048237415": 296,
+      "4664048238454": 27,
+      "4664048237325": 300,
+      "4664048237145": 108,
+      "4664048237639": 114
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/sverdlovsk?action=show&root=1000227&tvd=26620002596978&vrn=100100225883172&region=66&global=&sub_region=66&prver=0&pronetvd=null&vibid=26620002596978&type=464",
@@ -4348,6 +5192,10 @@ export const duma_2021_uik_463_region_66_part_009 = [
       "retrievedAt": "2026-08-26T08:06:40.811559+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/sverdlovsk?action=show&root=1000227&tvd=26620002596978&vrn=100100225883172&region=66&global=&sub_region=66&prver=0&pronetvd=null&vibid=26620002596978&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 173,
+      "oikTvd": "100100225883664"
     }
   },
   {
@@ -4357,8 +5205,12 @@ export const duma_2021_uik_463_region_66_part_009 = [
     "ballot": "single-member",
     "uikNumber": 2324,
     "uikTvd": "4664038276688",
+    "uikName": "УИК №2324",
     "tikTvd": "26620002596978",
     "tikName": "Новоуральская городская",
+    "regionCode": "66",
+    "regionTvd": "100100225883658",
+    "regionName": "Свердловская область",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 1775,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 1600,
@@ -4374,12 +5226,12 @@ export const duma_2021_uik_463_region_66_part_009 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Александров Николай Викторович": 70,
-      "Исаков Тарас Мамаджанович": 264,
-      "Куделькин Александр Владимирович": 24,
-      "Муцоев Зелимхан Аликоевич": 281,
-      "Панасенко Александр Владимирович": 106,
-      "Самутин Николай Михайлович": 80
+      "4664048237718": 70,
+      "4664048237415": 264,
+      "4664048238454": 24,
+      "4664048237325": 281,
+      "4664048237145": 106,
+      "4664048237639": 80
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/sverdlovsk?action=show&root=1000227&tvd=26620002596978&vrn=100100225883172&region=66&global=&sub_region=66&prver=0&pronetvd=null&vibid=26620002596978&type=464",
@@ -4389,6 +5241,10 @@ export const duma_2021_uik_463_region_66_part_009 = [
       "retrievedAt": "2026-08-26T08:06:40.811559+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/sverdlovsk?action=show&root=1000227&tvd=26620002596978&vrn=100100225883172&region=66&global=&sub_region=66&prver=0&pronetvd=null&vibid=26620002596978&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 173,
+      "oikTvd": "100100225883664"
     }
   },
   {
@@ -4398,8 +5254,12 @@ export const duma_2021_uik_463_region_66_part_009 = [
     "ballot": "single-member",
     "uikNumber": 2325,
     "uikTvd": "4664038276689",
+    "uikName": "УИК №2325",
     "tikTvd": "26620002596978",
     "tikName": "Новоуральская городская",
+    "regionCode": "66",
+    "regionTvd": "100100225883658",
+    "regionName": "Свердловская область",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 2538,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 2300,
@@ -4415,12 +5275,12 @@ export const duma_2021_uik_463_region_66_part_009 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Александров Николай Викторович": 111,
-      "Исаков Тарас Мамаджанович": 392,
-      "Куделькин Александр Владимирович": 39,
-      "Муцоев Зелимхан Аликоевич": 415,
-      "Панасенко Александр Владимирович": 148,
-      "Самутин Николай Михайлович": 161
+      "4664048237718": 111,
+      "4664048237415": 392,
+      "4664048238454": 39,
+      "4664048237325": 415,
+      "4664048237145": 148,
+      "4664048237639": 161
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/sverdlovsk?action=show&root=1000227&tvd=26620002596978&vrn=100100225883172&region=66&global=&sub_region=66&prver=0&pronetvd=null&vibid=26620002596978&type=464",
@@ -4430,6 +5290,10 @@ export const duma_2021_uik_463_region_66_part_009 = [
       "retrievedAt": "2026-08-26T08:06:40.811559+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/sverdlovsk?action=show&root=1000227&tvd=26620002596978&vrn=100100225883172&region=66&global=&sub_region=66&prver=0&pronetvd=null&vibid=26620002596978&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 173,
+      "oikTvd": "100100225883664"
     }
   },
   {
@@ -4439,8 +5303,12 @@ export const duma_2021_uik_463_region_66_part_009 = [
     "ballot": "single-member",
     "uikNumber": 2326,
     "uikTvd": "4664038276690",
+    "uikName": "УИК №2326",
     "tikTvd": "26620002596978",
     "tikName": "Новоуральская городская",
+    "regionCode": "66",
+    "regionTvd": "100100225883658",
+    "regionName": "Свердловская область",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 1747,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 1600,
@@ -4456,12 +5324,12 @@ export const duma_2021_uik_463_region_66_part_009 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Александров Николай Викторович": 79,
-      "Исаков Тарас Мамаджанович": 267,
-      "Куделькин Александр Владимирович": 36,
-      "Муцоев Зелимхан Аликоевич": 272,
-      "Панасенко Александр Владимирович": 84,
-      "Самутин Николай Михайлович": 105
+      "4664048237718": 79,
+      "4664048237415": 267,
+      "4664048238454": 36,
+      "4664048237325": 272,
+      "4664048237145": 84,
+      "4664048237639": 105
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/sverdlovsk?action=show&root=1000227&tvd=26620002596978&vrn=100100225883172&region=66&global=&sub_region=66&prver=0&pronetvd=null&vibid=26620002596978&type=464",
@@ -4471,6 +5339,10 @@ export const duma_2021_uik_463_region_66_part_009 = [
       "retrievedAt": "2026-08-26T08:06:40.811559+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/sverdlovsk?action=show&root=1000227&tvd=26620002596978&vrn=100100225883172&region=66&global=&sub_region=66&prver=0&pronetvd=null&vibid=26620002596978&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 173,
+      "oikTvd": "100100225883664"
     }
   },
   {
@@ -4480,8 +5352,12 @@ export const duma_2021_uik_463_region_66_part_009 = [
     "ballot": "single-member",
     "uikNumber": 2327,
     "uikTvd": "4664038276691",
+    "uikName": "УИК №2327",
     "tikTvd": "26620002596978",
     "tikName": "Новоуральская городская",
+    "regionCode": "66",
+    "regionTvd": "100100225883658",
+    "regionName": "Свердловская область",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 2108,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 1900,
@@ -4497,12 +5373,12 @@ export const duma_2021_uik_463_region_66_part_009 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Александров Николай Викторович": 100,
-      "Исаков Тарас Мамаджанович": 315,
-      "Куделькин Александр Владимирович": 36,
-      "Муцоев Зелимхан Аликоевич": 308,
-      "Панасенко Александр Владимирович": 113,
-      "Самутин Николай Михайлович": 132
+      "4664048237718": 100,
+      "4664048237415": 315,
+      "4664048238454": 36,
+      "4664048237325": 308,
+      "4664048237145": 113,
+      "4664048237639": 132
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/sverdlovsk?action=show&root=1000227&tvd=26620002596978&vrn=100100225883172&region=66&global=&sub_region=66&prver=0&pronetvd=null&vibid=26620002596978&type=464",
@@ -4512,6 +5388,10 @@ export const duma_2021_uik_463_region_66_part_009 = [
       "retrievedAt": "2026-08-26T08:06:40.811559+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/sverdlovsk?action=show&root=1000227&tvd=26620002596978&vrn=100100225883172&region=66&global=&sub_region=66&prver=0&pronetvd=null&vibid=26620002596978&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 173,
+      "oikTvd": "100100225883664"
     }
   },
   {
@@ -4521,8 +5401,12 @@ export const duma_2021_uik_463_region_66_part_009 = [
     "ballot": "single-member",
     "uikNumber": 2328,
     "uikTvd": "4664038276692",
+    "uikName": "УИК №2328",
     "tikTvd": "26620002596978",
     "tikName": "Новоуральская городская",
+    "regionCode": "66",
+    "regionTvd": "100100225883658",
+    "regionName": "Свердловская область",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 267,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 200,
@@ -4538,12 +5422,12 @@ export const duma_2021_uik_463_region_66_part_009 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Александров Николай Викторович": 8,
-      "Исаков Тарас Мамаджанович": 35,
-      "Куделькин Александр Владимирович": 6,
-      "Муцоев Зелимхан Аликоевич": 37,
-      "Панасенко Александр Владимирович": 23,
-      "Самутин Николай Михайлович": 16
+      "4664048237718": 8,
+      "4664048237415": 35,
+      "4664048238454": 6,
+      "4664048237325": 37,
+      "4664048237145": 23,
+      "4664048237639": 16
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/sverdlovsk?action=show&root=1000227&tvd=26620002596978&vrn=100100225883172&region=66&global=&sub_region=66&prver=0&pronetvd=null&vibid=26620002596978&type=464",
@@ -4553,6 +5437,10 @@ export const duma_2021_uik_463_region_66_part_009 = [
       "retrievedAt": "2026-08-26T08:06:40.811559+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/sverdlovsk?action=show&root=1000227&tvd=26620002596978&vrn=100100225883172&region=66&global=&sub_region=66&prver=0&pronetvd=null&vibid=26620002596978&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 173,
+      "oikTvd": "100100225883664"
     }
   },
   {
@@ -4562,8 +5450,12 @@ export const duma_2021_uik_463_region_66_part_009 = [
     "ballot": "single-member",
     "uikNumber": 2329,
     "uikTvd": "4664038276693",
+    "uikName": "УИК №2329",
     "tikTvd": "26620002596978",
     "tikName": "Новоуральская городская",
+    "regionCode": "66",
+    "regionTvd": "100100225883658",
+    "regionName": "Свердловская область",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 1212,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 1100,
@@ -4579,12 +5471,12 @@ export const duma_2021_uik_463_region_66_part_009 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Александров Николай Викторович": 42,
-      "Исаков Тарас Мамаджанович": 187,
-      "Куделькин Александр Владимирович": 22,
-      "Муцоев Зелимхан Аликоевич": 187,
-      "Панасенко Александр Владимирович": 49,
-      "Самутин Николай Михайлович": 64
+      "4664048237718": 42,
+      "4664048237415": 187,
+      "4664048238454": 22,
+      "4664048237325": 187,
+      "4664048237145": 49,
+      "4664048237639": 64
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/sverdlovsk?action=show&root=1000227&tvd=26620002596978&vrn=100100225883172&region=66&global=&sub_region=66&prver=0&pronetvd=null&vibid=26620002596978&type=464",
@@ -4594,6 +5486,10 @@ export const duma_2021_uik_463_region_66_part_009 = [
       "retrievedAt": "2026-08-26T08:06:40.811559+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/sverdlovsk?action=show&root=1000227&tvd=26620002596978&vrn=100100225883172&region=66&global=&sub_region=66&prver=0&pronetvd=null&vibid=26620002596978&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 173,
+      "oikTvd": "100100225883664"
     }
   },
   {
@@ -4603,8 +5499,12 @@ export const duma_2021_uik_463_region_66_part_009 = [
     "ballot": "single-member",
     "uikNumber": 2330,
     "uikTvd": "4664038276694",
+    "uikName": "УИК №2330",
     "tikTvd": "26620002596978",
     "tikName": "Новоуральская городская",
+    "regionCode": "66",
+    "regionTvd": "100100225883658",
+    "regionName": "Свердловская область",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 175,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 150,
@@ -4620,12 +5520,12 @@ export const duma_2021_uik_463_region_66_part_009 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Александров Николай Викторович": 6,
-      "Исаков Тарас Мамаджанович": 16,
-      "Куделькин Александр Владимирович": 2,
-      "Муцоев Зелимхан Аликоевич": 20,
-      "Панасенко Александр Владимирович": 8,
-      "Самутин Николай Михайлович": 7
+      "4664048237718": 6,
+      "4664048237415": 16,
+      "4664048238454": 2,
+      "4664048237325": 20,
+      "4664048237145": 8,
+      "4664048237639": 7
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/sverdlovsk?action=show&root=1000227&tvd=26620002596978&vrn=100100225883172&region=66&global=&sub_region=66&prver=0&pronetvd=null&vibid=26620002596978&type=464",
@@ -4635,6 +5535,10 @@ export const duma_2021_uik_463_region_66_part_009 = [
       "retrievedAt": "2026-08-26T08:06:40.811559+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/sverdlovsk?action=show&root=1000227&tvd=26620002596978&vrn=100100225883172&region=66&global=&sub_region=66&prver=0&pronetvd=null&vibid=26620002596978&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 173,
+      "oikTvd": "100100225883664"
     }
   },
   {
@@ -4644,8 +5548,12 @@ export const duma_2021_uik_463_region_66_part_009 = [
     "ballot": "single-member",
     "uikNumber": 2331,
     "uikTvd": "4664038276695",
+    "uikName": "УИК №2331",
     "tikTvd": "26620002596978",
     "tikName": "Новоуральская городская",
+    "regionCode": "66",
+    "regionTvd": "100100225883658",
+    "regionName": "Свердловская область",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 871,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 850,
@@ -4661,12 +5569,12 @@ export const duma_2021_uik_463_region_66_part_009 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Александров Николай Викторович": 26,
-      "Исаков Тарас Мамаджанович": 110,
-      "Куделькин Александр Владимирович": 10,
-      "Муцоев Зелимхан Аликоевич": 108,
-      "Панасенко Александр Владимирович": 28,
-      "Самутин Николай Михайлович": 49
+      "4664048237718": 26,
+      "4664048237415": 110,
+      "4664048238454": 10,
+      "4664048237325": 108,
+      "4664048237145": 28,
+      "4664048237639": 49
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/sverdlovsk?action=show&root=1000227&tvd=26620002596978&vrn=100100225883172&region=66&global=&sub_region=66&prver=0&pronetvd=null&vibid=26620002596978&type=464",
@@ -4676,6 +5584,10 @@ export const duma_2021_uik_463_region_66_part_009 = [
       "retrievedAt": "2026-08-26T08:06:40.811559+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/sverdlovsk?action=show&root=1000227&tvd=26620002596978&vrn=100100225883172&region=66&global=&sub_region=66&prver=0&pronetvd=null&vibid=26620002596978&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 173,
+      "oikTvd": "100100225883664"
     }
   },
   {
@@ -4685,8 +5597,12 @@ export const duma_2021_uik_463_region_66_part_009 = [
     "ballot": "single-member",
     "uikNumber": 2332,
     "uikTvd": "4664038276696",
+    "uikName": "УИК №2332",
     "tikTvd": "26620002596978",
     "tikName": "Новоуральская городская",
+    "regionCode": "66",
+    "regionTvd": "100100225883658",
+    "regionName": "Свердловская область",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 1094,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 1000,
@@ -4702,12 +5618,12 @@ export const duma_2021_uik_463_region_66_part_009 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Александров Николай Викторович": 48,
-      "Исаков Тарас Мамаджанович": 206,
-      "Куделькин Александр Владимирович": 14,
-      "Муцоев Зелимхан Аликоевич": 181,
-      "Панасенко Александр Владимирович": 55,
-      "Самутин Николай Михайлович": 70
+      "4664048237718": 48,
+      "4664048237415": 206,
+      "4664048238454": 14,
+      "4664048237325": 181,
+      "4664048237145": 55,
+      "4664048237639": 70
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/sverdlovsk?action=show&root=1000227&tvd=26620002596978&vrn=100100225883172&region=66&global=&sub_region=66&prver=0&pronetvd=null&vibid=26620002596978&type=464",
@@ -4717,6 +5633,10 @@ export const duma_2021_uik_463_region_66_part_009 = [
       "retrievedAt": "2026-08-26T08:06:40.811559+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/sverdlovsk?action=show&root=1000227&tvd=26620002596978&vrn=100100225883172&region=66&global=&sub_region=66&prver=0&pronetvd=null&vibid=26620002596978&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 173,
+      "oikTvd": "100100225883664"
     }
   },
   {
@@ -4726,8 +5646,12 @@ export const duma_2021_uik_463_region_66_part_009 = [
     "ballot": "single-member",
     "uikNumber": 2333,
     "uikTvd": "4664038276697",
+    "uikName": "УИК №2333",
     "tikTvd": "26620002596978",
     "tikName": "Новоуральская городская",
+    "regionCode": "66",
+    "regionTvd": "100100225883658",
+    "regionName": "Свердловская область",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 1634,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 1500,
@@ -4743,12 +5667,12 @@ export const duma_2021_uik_463_region_66_part_009 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Александров Николай Викторович": 64,
-      "Исаков Тарас Мамаджанович": 252,
-      "Куделькин Александр Владимирович": 21,
-      "Муцоев Зелимхан Аликоевич": 251,
-      "Панасенко Александр Владимирович": 88,
-      "Самутин Николай Михайлович": 96
+      "4664048237718": 64,
+      "4664048237415": 252,
+      "4664048238454": 21,
+      "4664048237325": 251,
+      "4664048237145": 88,
+      "4664048237639": 96
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/sverdlovsk?action=show&root=1000227&tvd=26620002596978&vrn=100100225883172&region=66&global=&sub_region=66&prver=0&pronetvd=null&vibid=26620002596978&type=464",
@@ -4758,6 +5682,10 @@ export const duma_2021_uik_463_region_66_part_009 = [
       "retrievedAt": "2026-08-26T08:06:40.811559+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/sverdlovsk?action=show&root=1000227&tvd=26620002596978&vrn=100100225883172&region=66&global=&sub_region=66&prver=0&pronetvd=null&vibid=26620002596978&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 173,
+      "oikTvd": "100100225883664"
     }
   },
   {
@@ -4767,8 +5695,12 @@ export const duma_2021_uik_463_region_66_part_009 = [
     "ballot": "single-member",
     "uikNumber": 2614,
     "uikTvd": "4664038276698",
+    "uikName": "УИК №2614",
     "tikTvd": "26620002596978",
     "tikName": "Новоуральская городская",
+    "regionCode": "66",
+    "regionTvd": "100100225883658",
+    "regionName": "Свердловская область",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 2651,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 2400,
@@ -4784,12 +5716,12 @@ export const duma_2021_uik_463_region_66_part_009 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Александров Николай Викторович": 85,
-      "Исаков Тарас Мамаджанович": 412,
-      "Куделькин Александр Владимирович": 38,
-      "Муцоев Зелимхан Аликоевич": 358,
-      "Панасенко Александр Владимирович": 143,
-      "Самутин Николай Михайлович": 143
+      "4664048237718": 85,
+      "4664048237415": 412,
+      "4664048238454": 38,
+      "4664048237325": 358,
+      "4664048237145": 143,
+      "4664048237639": 143
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/sverdlovsk?action=show&root=1000227&tvd=26620002596978&vrn=100100225883172&region=66&global=&sub_region=66&prver=0&pronetvd=null&vibid=26620002596978&type=464",
@@ -4799,6 +5731,10 @@ export const duma_2021_uik_463_region_66_part_009 = [
       "retrievedAt": "2026-08-26T08:06:40.811559+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/sverdlovsk?action=show&root=1000227&tvd=26620002596978&vrn=100100225883172&region=66&global=&sub_region=66&prver=0&pronetvd=null&vibid=26620002596978&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 173,
+      "oikTvd": "100100225883664"
     }
   },
   {
@@ -4808,8 +5744,12 @@ export const duma_2021_uik_463_region_66_part_009 = [
     "ballot": "single-member",
     "uikNumber": 789,
     "uikTvd": "4664068221433",
+    "uikName": "УИК №789",
     "tikTvd": "26620002596979",
     "tikName": "Серовская",
+    "regionCode": "66",
+    "regionTvd": "100100225883658",
+    "regionName": "Свердловская область",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 578,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 604,
@@ -4825,15 +5765,15 @@ export const duma_2021_uik_463_region_66_part_009 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бородин Ярослав Викторович": 20,
-      "Даутов Габбас Фанзовиевич": 59,
-      "Калинин Дмитрий Григорьевич": 12,
-      "Коровкин Алексей Сергеевич": 34,
-      "Мельник Сергей Евгеньевич": 8,
-      "Мякишев Павел Викторович": 56,
-      "Рабинович Анатолий Евгеньевич": 6,
-      "Хвостов Валерий Владимирович": 1,
-      "Шипулин Антон Владимирович": 144
+      "4664067248316": 20,
+      "4664067248264": 59,
+      "4664067248554": 12,
+      "4664067247967": 34,
+      "4664067247999": 8,
+      "4664067247158": 56,
+      "4664067248514": 6,
+      "4664067248304": 1,
+      "4664067248131": 144
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/sverdlovsk?action=show&root=1000228&tvd=26620002596979&vrn=100100225883172&region=66&global=&sub_region=66&prver=0&pronetvd=null&vibid=26620002596979&type=464",
@@ -4843,6 +5783,10 @@ export const duma_2021_uik_463_region_66_part_009 = [
       "retrievedAt": "2026-08-26T08:06:40.993464+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/sverdlovsk?action=show&root=1000228&tvd=26620002596979&vrn=100100225883172&region=66&global=&sub_region=66&prver=0&pronetvd=null&vibid=26620002596979&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 174,
+      "oikTvd": "100100225883665"
     }
   },
   {
@@ -4852,8 +5796,12 @@ export const duma_2021_uik_463_region_66_part_009 = [
     "ballot": "single-member",
     "uikNumber": 790,
     "uikTvd": "4664068221434",
+    "uikName": "УИК №790",
     "tikTvd": "26620002596979",
     "tikName": "Серовская",
+    "regionCode": "66",
+    "regionTvd": "100100225883658",
+    "regionName": "Свердловская область",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 565,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 564,
@@ -4869,15 +5817,15 @@ export const duma_2021_uik_463_region_66_part_009 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бородин Ярослав Викторович": 14,
-      "Даутов Габбас Фанзовиевич": 31,
-      "Калинин Дмитрий Григорьевич": 3,
-      "Коровкин Алексей Сергеевич": 21,
-      "Мельник Сергей Евгеньевич": 10,
-      "Мякишев Павел Викторович": 39,
-      "Рабинович Анатолий Евгеньевич": 7,
-      "Хвостов Валерий Владимирович": 2,
-      "Шипулин Антон Владимирович": 112
+      "4664067248316": 14,
+      "4664067248264": 31,
+      "4664067248554": 3,
+      "4664067247967": 21,
+      "4664067247999": 10,
+      "4664067247158": 39,
+      "4664067248514": 7,
+      "4664067248304": 2,
+      "4664067248131": 112
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/sverdlovsk?action=show&root=1000228&tvd=26620002596979&vrn=100100225883172&region=66&global=&sub_region=66&prver=0&pronetvd=null&vibid=26620002596979&type=464",
@@ -4887,6 +5835,10 @@ export const duma_2021_uik_463_region_66_part_009 = [
       "retrievedAt": "2026-08-26T08:06:40.993464+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/sverdlovsk?action=show&root=1000228&tvd=26620002596979&vrn=100100225883172&region=66&global=&sub_region=66&prver=0&pronetvd=null&vibid=26620002596979&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 174,
+      "oikTvd": "100100225883665"
     }
   },
   {
@@ -4896,8 +5848,12 @@ export const duma_2021_uik_463_region_66_part_009 = [
     "ballot": "single-member",
     "uikNumber": 791,
     "uikTvd": "4664068221435",
+    "uikName": "УИК №791",
     "tikTvd": "26620002596979",
     "tikName": "Серовская",
+    "regionCode": "66",
+    "regionTvd": "100100225883658",
+    "regionName": "Свердловская область",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 605,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 604,
@@ -4913,15 +5869,15 @@ export const duma_2021_uik_463_region_66_part_009 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бородин Ярослав Викторович": 9,
-      "Даутов Габбас Фанзовиевич": 37,
-      "Калинин Дмитрий Григорьевич": 5,
-      "Коровкин Алексей Сергеевич": 19,
-      "Мельник Сергей Евгеньевич": 12,
-      "Мякишев Павел Викторович": 47,
-      "Рабинович Анатолий Евгеньевич": 6,
-      "Хвостов Валерий Владимирович": 2,
-      "Шипулин Антон Владимирович": 122
+      "4664067248316": 9,
+      "4664067248264": 37,
+      "4664067248554": 5,
+      "4664067247967": 19,
+      "4664067247999": 12,
+      "4664067247158": 47,
+      "4664067248514": 6,
+      "4664067248304": 2,
+      "4664067248131": 122
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/sverdlovsk?action=show&root=1000228&tvd=26620002596979&vrn=100100225883172&region=66&global=&sub_region=66&prver=0&pronetvd=null&vibid=26620002596979&type=464",
@@ -4931,6 +5887,10 @@ export const duma_2021_uik_463_region_66_part_009 = [
       "retrievedAt": "2026-08-26T08:06:40.993464+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/sverdlovsk?action=show&root=1000228&tvd=26620002596979&vrn=100100225883172&region=66&global=&sub_region=66&prver=0&pronetvd=null&vibid=26620002596979&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 174,
+      "oikTvd": "100100225883665"
     }
   },
   {
@@ -4940,8 +5900,12 @@ export const duma_2021_uik_463_region_66_part_009 = [
     "ballot": "single-member",
     "uikNumber": 792,
     "uikTvd": "4664068221436",
+    "uikName": "УИК №792",
     "tikTvd": "26620002596979",
     "tikName": "Серовская",
+    "regionCode": "66",
+    "regionTvd": "100100225883658",
+    "regionName": "Свердловская область",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 593,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 573,
@@ -4957,15 +5921,15 @@ export const duma_2021_uik_463_region_66_part_009 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бородин Ярослав Викторович": 16,
-      "Даутов Габбас Фанзовиевич": 40,
-      "Калинин Дмитрий Григорьевич": 6,
-      "Коровкин Алексей Сергеевич": 22,
-      "Мельник Сергей Евгеньевич": 7,
-      "Мякишев Павел Викторович": 38,
-      "Рабинович Анатолий Евгеньевич": 7,
-      "Хвостов Валерий Владимирович": 3,
-      "Шипулин Антон Владимирович": 108
+      "4664067248316": 16,
+      "4664067248264": 40,
+      "4664067248554": 6,
+      "4664067247967": 22,
+      "4664067247999": 7,
+      "4664067247158": 38,
+      "4664067248514": 7,
+      "4664067248304": 3,
+      "4664067248131": 108
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/sverdlovsk?action=show&root=1000228&tvd=26620002596979&vrn=100100225883172&region=66&global=&sub_region=66&prver=0&pronetvd=null&vibid=26620002596979&type=464",
@@ -4975,6 +5939,10 @@ export const duma_2021_uik_463_region_66_part_009 = [
       "retrievedAt": "2026-08-26T08:06:40.993464+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/sverdlovsk?action=show&root=1000228&tvd=26620002596979&vrn=100100225883172&region=66&global=&sub_region=66&prver=0&pronetvd=null&vibid=26620002596979&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 174,
+      "oikTvd": "100100225883665"
     }
   },
   {
@@ -4984,8 +5952,12 @@ export const duma_2021_uik_463_region_66_part_009 = [
     "ballot": "single-member",
     "uikNumber": 793,
     "uikTvd": "4664068221437",
+    "uikName": "УИК №793",
     "tikTvd": "26620002596979",
     "tikName": "Серовская",
+    "regionCode": "66",
+    "regionTvd": "100100225883658",
+    "regionName": "Свердловская область",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 622,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 564,
@@ -5001,15 +5973,15 @@ export const duma_2021_uik_463_region_66_part_009 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бородин Ярослав Викторович": 17,
-      "Даутов Габбас Фанзовиевич": 39,
-      "Калинин Дмитрий Григорьевич": 8,
-      "Коровкин Алексей Сергеевич": 8,
-      "Мельник Сергей Евгеньевич": 27,
-      "Мякишев Павел Викторович": 73,
-      "Рабинович Анатолий Евгеньевич": 4,
-      "Хвостов Валерий Владимирович": 3,
-      "Шипулин Антон Владимирович": 134
+      "4664067248316": 17,
+      "4664067248264": 39,
+      "4664067248554": 8,
+      "4664067247967": 8,
+      "4664067247999": 27,
+      "4664067247158": 73,
+      "4664067248514": 4,
+      "4664067248304": 3,
+      "4664067248131": 134
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/sverdlovsk?action=show&root=1000228&tvd=26620002596979&vrn=100100225883172&region=66&global=&sub_region=66&prver=0&pronetvd=null&vibid=26620002596979&type=464",
@@ -5019,6 +5991,10 @@ export const duma_2021_uik_463_region_66_part_009 = [
       "retrievedAt": "2026-08-26T08:06:40.993464+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/sverdlovsk?action=show&root=1000228&tvd=26620002596979&vrn=100100225883172&region=66&global=&sub_region=66&prver=0&pronetvd=null&vibid=26620002596979&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 174,
+      "oikTvd": "100100225883665"
     }
   },
   {
@@ -5028,8 +6004,12 @@ export const duma_2021_uik_463_region_66_part_009 = [
     "ballot": "single-member",
     "uikNumber": 794,
     "uikTvd": "4664068221438",
+    "uikName": "УИК №794",
     "tikTvd": "26620002596979",
     "tikName": "Серовская",
+    "regionCode": "66",
+    "regionTvd": "100100225883658",
+    "regionName": "Свердловская область",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 575,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 584,
@@ -5045,15 +6025,15 @@ export const duma_2021_uik_463_region_66_part_009 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бородин Ярослав Викторович": 25,
-      "Даутов Габбас Фанзовиевич": 30,
-      "Калинин Дмитрий Григорьевич": 4,
-      "Коровкин Алексей Сергеевич": 29,
-      "Мельник Сергей Евгеньевич": 9,
-      "Мякишев Павел Викторович": 31,
-      "Рабинович Анатолий Евгеньевич": 8,
-      "Хвостов Валерий Владимирович": 5,
-      "Шипулин Антон Владимирович": 92
+      "4664067248316": 25,
+      "4664067248264": 30,
+      "4664067248554": 4,
+      "4664067247967": 29,
+      "4664067247999": 9,
+      "4664067247158": 31,
+      "4664067248514": 8,
+      "4664067248304": 5,
+      "4664067248131": 92
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/sverdlovsk?action=show&root=1000228&tvd=26620002596979&vrn=100100225883172&region=66&global=&sub_region=66&prver=0&pronetvd=null&vibid=26620002596979&type=464",
@@ -5063,6 +6043,10 @@ export const duma_2021_uik_463_region_66_part_009 = [
       "retrievedAt": "2026-08-26T08:06:40.993464+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/sverdlovsk?action=show&root=1000228&tvd=26620002596979&vrn=100100225883172&region=66&global=&sub_region=66&prver=0&pronetvd=null&vibid=26620002596979&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 174,
+      "oikTvd": "100100225883665"
     }
   },
   {
@@ -5072,8 +6056,12 @@ export const duma_2021_uik_463_region_66_part_009 = [
     "ballot": "single-member",
     "uikNumber": 795,
     "uikTvd": "4664068221439",
+    "uikName": "УИК №795",
     "tikTvd": "26620002596979",
     "tikName": "Серовская",
+    "regionCode": "66",
+    "regionTvd": "100100225883658",
+    "regionName": "Свердловская область",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 552,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 564,
@@ -5089,15 +6077,15 @@ export const duma_2021_uik_463_region_66_part_009 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бородин Ярослав Викторович": 17,
-      "Даутов Габбас Фанзовиевич": 34,
-      "Калинин Дмитрий Григорьевич": 6,
-      "Коровкин Алексей Сергеевич": 41,
-      "Мельник Сергей Евгеньевич": 10,
-      "Мякишев Павел Викторович": 40,
-      "Рабинович Анатолий Евгеньевич": 12,
-      "Хвостов Валерий Владимирович": 4,
-      "Шипулин Антон Владимирович": 103
+      "4664067248316": 17,
+      "4664067248264": 34,
+      "4664067248554": 6,
+      "4664067247967": 41,
+      "4664067247999": 10,
+      "4664067247158": 40,
+      "4664067248514": 12,
+      "4664067248304": 4,
+      "4664067248131": 103
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/sverdlovsk?action=show&root=1000228&tvd=26620002596979&vrn=100100225883172&region=66&global=&sub_region=66&prver=0&pronetvd=null&vibid=26620002596979&type=464",
@@ -5107,6 +6095,10 @@ export const duma_2021_uik_463_region_66_part_009 = [
       "retrievedAt": "2026-08-26T08:06:40.993464+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/sverdlovsk?action=show&root=1000228&tvd=26620002596979&vrn=100100225883172&region=66&global=&sub_region=66&prver=0&pronetvd=null&vibid=26620002596979&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 174,
+      "oikTvd": "100100225883665"
     }
   },
   {
@@ -5116,8 +6108,12 @@ export const duma_2021_uik_463_region_66_part_009 = [
     "ballot": "single-member",
     "uikNumber": 796,
     "uikTvd": "4664068221440",
+    "uikName": "УИК №796",
     "tikTvd": "26620002596979",
     "tikName": "Серовская",
+    "regionCode": "66",
+    "regionTvd": "100100225883658",
+    "regionName": "Свердловская область",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 640,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 594,
@@ -5133,15 +6129,15 @@ export const duma_2021_uik_463_region_66_part_009 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бородин Ярослав Викторович": 11,
-      "Даутов Габбас Фанзовиевич": 43,
-      "Калинин Дмитрий Григорьевич": 6,
-      "Коровкин Алексей Сергеевич": 62,
-      "Мельник Сергей Евгеньевич": 11,
-      "Мякишев Павел Викторович": 34,
-      "Рабинович Анатолий Евгеньевич": 10,
-      "Хвостов Валерий Владимирович": 5,
-      "Шипулин Антон Владимирович": 148
+      "4664067248316": 11,
+      "4664067248264": 43,
+      "4664067248554": 6,
+      "4664067247967": 62,
+      "4664067247999": 11,
+      "4664067247158": 34,
+      "4664067248514": 10,
+      "4664067248304": 5,
+      "4664067248131": 148
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/sverdlovsk?action=show&root=1000228&tvd=26620002596979&vrn=100100225883172&region=66&global=&sub_region=66&prver=0&pronetvd=null&vibid=26620002596979&type=464",
@@ -5151,6 +6147,10 @@ export const duma_2021_uik_463_region_66_part_009 = [
       "retrievedAt": "2026-08-26T08:06:40.993464+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/sverdlovsk?action=show&root=1000228&tvd=26620002596979&vrn=100100225883172&region=66&global=&sub_region=66&prver=0&pronetvd=null&vibid=26620002596979&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 174,
+      "oikTvd": "100100225883665"
     }
   },
   {
@@ -5160,8 +6160,12 @@ export const duma_2021_uik_463_region_66_part_009 = [
     "ballot": "single-member",
     "uikNumber": 797,
     "uikTvd": "4664068221441",
+    "uikName": "УИК №797",
     "tikTvd": "26620002596979",
     "tikName": "Серовская",
+    "regionCode": "66",
+    "regionTvd": "100100225883658",
+    "regionName": "Свердловская область",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 614,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 603,
@@ -5177,15 +6181,15 @@ export const duma_2021_uik_463_region_66_part_009 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бородин Ярослав Викторович": 22,
-      "Даутов Габбас Фанзовиевич": 56,
-      "Калинин Дмитрий Григорьевич": 10,
-      "Коровкин Алексей Сергеевич": 42,
-      "Мельник Сергей Евгеньевич": 8,
-      "Мякишев Павел Викторович": 29,
-      "Рабинович Анатолий Евгеньевич": 10,
-      "Хвостов Валерий Владимирович": 6,
-      "Шипулин Антон Владимирович": 133
+      "4664067248316": 22,
+      "4664067248264": 56,
+      "4664067248554": 10,
+      "4664067247967": 42,
+      "4664067247999": 8,
+      "4664067247158": 29,
+      "4664067248514": 10,
+      "4664067248304": 6,
+      "4664067248131": 133
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/sverdlovsk?action=show&root=1000228&tvd=26620002596979&vrn=100100225883172&region=66&global=&sub_region=66&prver=0&pronetvd=null&vibid=26620002596979&type=464",
@@ -5195,6 +6199,10 @@ export const duma_2021_uik_463_region_66_part_009 = [
       "retrievedAt": "2026-08-26T08:06:40.993464+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/sverdlovsk?action=show&root=1000228&tvd=26620002596979&vrn=100100225883172&region=66&global=&sub_region=66&prver=0&pronetvd=null&vibid=26620002596979&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 174,
+      "oikTvd": "100100225883665"
     }
   },
   {
@@ -5204,8 +6212,12 @@ export const duma_2021_uik_463_region_66_part_009 = [
     "ballot": "single-member",
     "uikNumber": 805,
     "uikTvd": "4664068221442",
+    "uikName": "УИК №805",
     "tikTvd": "26620002596979",
     "tikName": "Серовская",
+    "regionCode": "66",
+    "regionTvd": "100100225883658",
+    "regionName": "Свердловская область",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 457,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 430,
@@ -5221,15 +6233,15 @@ export const duma_2021_uik_463_region_66_part_009 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бородин Ярослав Викторович": 15,
-      "Даутов Габбас Фанзовиевич": 55,
-      "Калинин Дмитрий Григорьевич": 6,
-      "Коровкин Алексей Сергеевич": 19,
-      "Мельник Сергей Евгеньевич": 7,
-      "Мякишев Павел Викторович": 40,
-      "Рабинович Анатолий Евгеньевич": 8,
-      "Хвостов Валерий Владимирович": 2,
-      "Шипулин Антон Владимирович": 110
+      "4664067248316": 15,
+      "4664067248264": 55,
+      "4664067248554": 6,
+      "4664067247967": 19,
+      "4664067247999": 7,
+      "4664067247158": 40,
+      "4664067248514": 8,
+      "4664067248304": 2,
+      "4664067248131": 110
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/sverdlovsk?action=show&root=1000228&tvd=26620002596979&vrn=100100225883172&region=66&global=&sub_region=66&prver=0&pronetvd=null&vibid=26620002596979&type=464",
@@ -5239,6 +6251,10 @@ export const duma_2021_uik_463_region_66_part_009 = [
       "retrievedAt": "2026-08-26T08:06:40.993464+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/sverdlovsk?action=show&root=1000228&tvd=26620002596979&vrn=100100225883172&region=66&global=&sub_region=66&prver=0&pronetvd=null&vibid=26620002596979&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 174,
+      "oikTvd": "100100225883665"
     }
   },
   {
@@ -5248,8 +6264,12 @@ export const duma_2021_uik_463_region_66_part_009 = [
     "ballot": "single-member",
     "uikNumber": 806,
     "uikTvd": "4664068221443",
+    "uikName": "УИК №806",
     "tikTvd": "26620002596979",
     "tikName": "Серовская",
+    "regionCode": "66",
+    "regionTvd": "100100225883658",
+    "regionName": "Свердловская область",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 317,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 270,
@@ -5265,15 +6285,15 @@ export const duma_2021_uik_463_region_66_part_009 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бородин Ярослав Викторович": 24,
-      "Даутов Габбас Фанзовиевич": 17,
-      "Калинин Дмитрий Григорьевич": 4,
-      "Коровкин Алексей Сергеевич": 31,
-      "Мельник Сергей Евгеньевич": 7,
-      "Мякишев Павел Викторович": 21,
-      "Рабинович Анатолий Евгеньевич": 3,
-      "Хвостов Валерий Владимирович": 2,
-      "Шипулин Антон Владимирович": 87
+      "4664067248316": 24,
+      "4664067248264": 17,
+      "4664067248554": 4,
+      "4664067247967": 31,
+      "4664067247999": 7,
+      "4664067247158": 21,
+      "4664067248514": 3,
+      "4664067248304": 2,
+      "4664067248131": 87
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/sverdlovsk?action=show&root=1000228&tvd=26620002596979&vrn=100100225883172&region=66&global=&sub_region=66&prver=0&pronetvd=null&vibid=26620002596979&type=464",
@@ -5283,6 +6303,10 @@ export const duma_2021_uik_463_region_66_part_009 = [
       "retrievedAt": "2026-08-26T08:06:40.993464+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/sverdlovsk?action=show&root=1000228&tvd=26620002596979&vrn=100100225883172&region=66&global=&sub_region=66&prver=0&pronetvd=null&vibid=26620002596979&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 174,
+      "oikTvd": "100100225883665"
     }
   },
   {
@@ -5292,8 +6316,12 @@ export const duma_2021_uik_463_region_66_part_009 = [
     "ballot": "single-member",
     "uikNumber": 807,
     "uikTvd": "4664068221444",
+    "uikName": "УИК №807",
     "tikTvd": "26620002596979",
     "tikName": "Серовская",
+    "regionCode": "66",
+    "regionTvd": "100100225883658",
+    "regionName": "Свердловская область",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 86,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 90,
@@ -5309,15 +6337,15 @@ export const duma_2021_uik_463_region_66_part_009 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бородин Ярослав Викторович": 3,
-      "Даутов Габбас Фанзовиевич": 6,
-      "Калинин Дмитрий Григорьевич": 3,
-      "Коровкин Алексей Сергеевич": 3,
-      "Мельник Сергей Евгеньевич": 1,
-      "Мякишев Павел Викторович": 5,
-      "Рабинович Анатолий Евгеньевич": 4,
-      "Хвостов Валерий Владимирович": 1,
-      "Шипулин Антон Владимирович": 29
+      "4664067248316": 3,
+      "4664067248264": 6,
+      "4664067248554": 3,
+      "4664067247967": 3,
+      "4664067247999": 1,
+      "4664067247158": 5,
+      "4664067248514": 4,
+      "4664067248304": 1,
+      "4664067248131": 29
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/sverdlovsk?action=show&root=1000228&tvd=26620002596979&vrn=100100225883172&region=66&global=&sub_region=66&prver=0&pronetvd=null&vibid=26620002596979&type=464",
@@ -5327,6 +6355,10 @@ export const duma_2021_uik_463_region_66_part_009 = [
       "retrievedAt": "2026-08-26T08:06:40.993464+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/sverdlovsk?action=show&root=1000228&tvd=26620002596979&vrn=100100225883172&region=66&global=&sub_region=66&prver=0&pronetvd=null&vibid=26620002596979&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 174,
+      "oikTvd": "100100225883665"
     }
   },
   {
@@ -5336,8 +6368,12 @@ export const duma_2021_uik_463_region_66_part_009 = [
     "ballot": "single-member",
     "uikNumber": 811,
     "uikTvd": "4664068221445",
+    "uikName": "УИК №811",
     "tikTvd": "26620002596979",
     "tikName": "Серовская",
+    "regionCode": "66",
+    "regionTvd": "100100225883658",
+    "regionName": "Свердловская область",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 111,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 100,
@@ -5353,15 +6389,15 @@ export const duma_2021_uik_463_region_66_part_009 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бородин Ярослав Викторович": 5,
-      "Даутов Габбас Фанзовиевич": 3,
-      "Калинин Дмитрий Григорьевич": 1,
-      "Коровкин Алексей Сергеевич": 5,
-      "Мельник Сергей Евгеньевич": 0,
-      "Мякишев Павел Викторович": 3,
-      "Рабинович Анатолий Евгеньевич": 3,
-      "Хвостов Валерий Владимирович": 1,
-      "Шипулин Антон Владимирович": 49
+      "4664067248316": 5,
+      "4664067248264": 3,
+      "4664067248554": 1,
+      "4664067247967": 5,
+      "4664067247999": 0,
+      "4664067247158": 3,
+      "4664067248514": 3,
+      "4664067248304": 1,
+      "4664067248131": 49
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/sverdlovsk?action=show&root=1000228&tvd=26620002596979&vrn=100100225883172&region=66&global=&sub_region=66&prver=0&pronetvd=null&vibid=26620002596979&type=464",
@@ -5371,6 +6407,10 @@ export const duma_2021_uik_463_region_66_part_009 = [
       "retrievedAt": "2026-08-26T08:06:40.993464+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/sverdlovsk?action=show&root=1000228&tvd=26620002596979&vrn=100100225883172&region=66&global=&sub_region=66&prver=0&pronetvd=null&vibid=26620002596979&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 174,
+      "oikTvd": "100100225883665"
     }
   },
   {
@@ -5380,8 +6420,12 @@ export const duma_2021_uik_463_region_66_part_009 = [
     "ballot": "single-member",
     "uikNumber": 2515,
     "uikTvd": "4664068221446",
+    "uikName": "УИК №2515",
     "tikTvd": "26620002596979",
     "tikName": "Серовская",
+    "regionCode": "66",
+    "regionTvd": "100100225883658",
+    "regionName": "Свердловская область",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 592,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 564,
@@ -5397,15 +6441,15 @@ export const duma_2021_uik_463_region_66_part_009 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бородин Ярослав Викторович": 13,
-      "Даутов Габбас Фанзовиевич": 41,
-      "Калинин Дмитрий Григорьевич": 5,
-      "Коровкин Алексей Сергеевич": 22,
-      "Мельник Сергей Евгеньевич": 7,
-      "Мякишев Павел Викторович": 41,
-      "Рабинович Анатолий Евгеньевич": 4,
-      "Хвостов Валерий Владимирович": 5,
-      "Шипулин Антон Владимирович": 112
+      "4664067248316": 13,
+      "4664067248264": 41,
+      "4664067248554": 5,
+      "4664067247967": 22,
+      "4664067247999": 7,
+      "4664067247158": 41,
+      "4664067248514": 4,
+      "4664067248304": 5,
+      "4664067248131": 112
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/sverdlovsk?action=show&root=1000228&tvd=26620002596979&vrn=100100225883172&region=66&global=&sub_region=66&prver=0&pronetvd=null&vibid=26620002596979&type=464",
@@ -5415,6 +6459,10 @@ export const duma_2021_uik_463_region_66_part_009 = [
       "retrievedAt": "2026-08-26T08:06:40.993464+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/sverdlovsk?action=show&root=1000228&tvd=26620002596979&vrn=100100225883172&region=66&global=&sub_region=66&prver=0&pronetvd=null&vibid=26620002596979&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 174,
+      "oikTvd": "100100225883665"
     }
   },
   {
@@ -5424,8 +6472,12 @@ export const duma_2021_uik_463_region_66_part_009 = [
     "ballot": "single-member",
     "uikNumber": 2516,
     "uikTvd": "4664068221447",
+    "uikName": "УИК №2516",
     "tikTvd": "26620002596979",
     "tikName": "Серовская",
+    "regionCode": "66",
+    "regionTvd": "100100225883658",
+    "regionName": "Свердловская область",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 604,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 604,
@@ -5441,15 +6493,15 @@ export const duma_2021_uik_463_region_66_part_009 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бородин Ярослав Викторович": 15,
-      "Даутов Габбас Фанзовиевич": 48,
-      "Калинин Дмитрий Григорьевич": 11,
-      "Коровкин Алексей Сергеевич": 39,
-      "Мельник Сергей Евгеньевич": 8,
-      "Мякишев Павел Викторович": 37,
-      "Рабинович Анатолий Евгеньевич": 7,
-      "Хвостов Валерий Владимирович": 2,
-      "Шипулин Антон Владимирович": 100
+      "4664067248316": 15,
+      "4664067248264": 48,
+      "4664067248554": 11,
+      "4664067247967": 39,
+      "4664067247999": 8,
+      "4664067247158": 37,
+      "4664067248514": 7,
+      "4664067248304": 2,
+      "4664067248131": 100
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/sverdlovsk?action=show&root=1000228&tvd=26620002596979&vrn=100100225883172&region=66&global=&sub_region=66&prver=0&pronetvd=null&vibid=26620002596979&type=464",
@@ -5459,6 +6511,10 @@ export const duma_2021_uik_463_region_66_part_009 = [
       "retrievedAt": "2026-08-26T08:06:40.993464+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/sverdlovsk?action=show&root=1000228&tvd=26620002596979&vrn=100100225883172&region=66&global=&sub_region=66&prver=0&pronetvd=null&vibid=26620002596979&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 174,
+      "oikTvd": "100100225883665"
     }
   },
   {
@@ -5468,8 +6524,12 @@ export const duma_2021_uik_463_region_66_part_009 = [
     "ballot": "single-member",
     "uikNumber": 2730,
     "uikTvd": "4664068221448",
+    "uikName": "УИК №2730",
     "tikTvd": "26620002596979",
     "tikName": "Серовская",
+    "regionCode": "66",
+    "regionTvd": "100100225883658",
+    "regionName": "Свердловская область",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 617,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 574,
@@ -5485,15 +6545,15 @@ export const duma_2021_uik_463_region_66_part_009 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бородин Ярослав Викторович": 11,
-      "Даутов Габбас Фанзовиевич": 45,
-      "Калинин Дмитрий Григорьевич": 1,
-      "Коровкин Алексей Сергеевич": 30,
-      "Мельник Сергей Евгеньевич": 10,
-      "Мякишев Павел Викторович": 60,
-      "Рабинович Анатолий Евгеньевич": 7,
-      "Хвостов Валерий Владимирович": 2,
-      "Шипулин Антон Владимирович": 118
+      "4664067248316": 11,
+      "4664067248264": 45,
+      "4664067248554": 1,
+      "4664067247967": 30,
+      "4664067247999": 10,
+      "4664067247158": 60,
+      "4664067248514": 7,
+      "4664067248304": 2,
+      "4664067248131": 118
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/sverdlovsk?action=show&root=1000228&tvd=26620002596979&vrn=100100225883172&region=66&global=&sub_region=66&prver=0&pronetvd=null&vibid=26620002596979&type=464",
@@ -5503,6 +6563,10 @@ export const duma_2021_uik_463_region_66_part_009 = [
       "retrievedAt": "2026-08-26T08:06:40.993464+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/sverdlovsk?action=show&root=1000228&tvd=26620002596979&vrn=100100225883172&region=66&global=&sub_region=66&prver=0&pronetvd=null&vibid=26620002596979&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 174,
+      "oikTvd": "100100225883665"
     }
   },
   {
@@ -5512,8 +6576,12 @@ export const duma_2021_uik_463_region_66_part_009 = [
     "ballot": "single-member",
     "uikNumber": 2731,
     "uikTvd": "4664068221449",
+    "uikName": "УИК №2731",
     "tikTvd": "26620002596979",
     "tikName": "Серовская",
+    "regionCode": "66",
+    "regionTvd": "100100225883658",
+    "regionName": "Свердловская область",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 621,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 564,
@@ -5529,15 +6597,15 @@ export const duma_2021_uik_463_region_66_part_009 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бородин Ярослав Викторович": 10,
-      "Даутов Габбас Фанзовиевич": 48,
-      "Калинин Дмитрий Григорьевич": 4,
-      "Коровкин Алексей Сергеевич": 31,
-      "Мельник Сергей Евгеньевич": 9,
-      "Мякишев Павел Викторович": 54,
-      "Рабинович Анатолий Евгеньевич": 11,
-      "Хвостов Валерий Владимирович": 2,
-      "Шипулин Антон Владимирович": 151
+      "4664067248316": 10,
+      "4664067248264": 48,
+      "4664067248554": 4,
+      "4664067247967": 31,
+      "4664067247999": 9,
+      "4664067247158": 54,
+      "4664067248514": 11,
+      "4664067248304": 2,
+      "4664067248131": 151
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/sverdlovsk?action=show&root=1000228&tvd=26620002596979&vrn=100100225883172&region=66&global=&sub_region=66&prver=0&pronetvd=null&vibid=26620002596979&type=464",
@@ -5547,6 +6615,10 @@ export const duma_2021_uik_463_region_66_part_009 = [
       "retrievedAt": "2026-08-26T08:06:40.993464+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/sverdlovsk?action=show&root=1000228&tvd=26620002596979&vrn=100100225883172&region=66&global=&sub_region=66&prver=0&pronetvd=null&vibid=26620002596979&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 174,
+      "oikTvd": "100100225883665"
     }
   },
   {
@@ -5556,8 +6628,12 @@ export const duma_2021_uik_463_region_66_part_009 = [
     "ballot": "single-member",
     "uikNumber": 2732,
     "uikTvd": "4664068221450",
+    "uikName": "УИК №2732",
     "tikTvd": "26620002596979",
     "tikName": "Серовская",
+    "regionCode": "66",
+    "regionTvd": "100100225883658",
+    "regionName": "Свердловская область",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 168,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 160,
@@ -5573,15 +6649,15 @@ export const duma_2021_uik_463_region_66_part_009 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бородин Ярослав Викторович": 7,
-      "Даутов Габбас Фанзовиевич": 14,
-      "Калинин Дмитрий Григорьевич": 6,
-      "Коровкин Алексей Сергеевич": 10,
-      "Мельник Сергей Евгеньевич": 0,
-      "Мякишев Павел Викторович": 11,
-      "Рабинович Анатолий Евгеньевич": 0,
-      "Хвостов Валерий Владимирович": 1,
-      "Шипулин Антон Владимирович": 47
+      "4664067248316": 7,
+      "4664067248264": 14,
+      "4664067248554": 6,
+      "4664067247967": 10,
+      "4664067247999": 0,
+      "4664067247158": 11,
+      "4664067248514": 0,
+      "4664067248304": 1,
+      "4664067248131": 47
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/sverdlovsk?action=show&root=1000228&tvd=26620002596979&vrn=100100225883172&region=66&global=&sub_region=66&prver=0&pronetvd=null&vibid=26620002596979&type=464",
@@ -5591,6 +6667,10 @@ export const duma_2021_uik_463_region_66_part_009 = [
       "retrievedAt": "2026-08-26T08:06:40.993464+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/sverdlovsk?action=show&root=1000228&tvd=26620002596979&vrn=100100225883172&region=66&global=&sub_region=66&prver=0&pronetvd=null&vibid=26620002596979&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 174,
+      "oikTvd": "100100225883665"
     }
   },
   {
@@ -5600,8 +6680,12 @@ export const duma_2021_uik_463_region_66_part_009 = [
     "ballot": "single-member",
     "uikNumber": 798,
     "uikTvd": "4664067244147",
+    "uikName": "УИК №798",
     "tikTvd": "26620002596980",
     "tikName": "Серовская городская",
+    "regionCode": "66",
+    "regionTvd": "100100225883658",
+    "regionName": "Свердловская область",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 275,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 250,
@@ -5617,15 +6701,15 @@ export const duma_2021_uik_463_region_66_part_009 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бородин Ярослав Викторович": 12,
-      "Даутов Габбас Фанзовиевич": 20,
-      "Калинин Дмитрий Григорьевич": 11,
-      "Коровкин Алексей Сергеевич": 19,
-      "Мельник Сергей Евгеньевич": 6,
-      "Мякишев Павел Викторович": 21,
-      "Рабинович Анатолий Евгеньевич": 7,
-      "Хвостов Валерий Владимирович": 1,
-      "Шипулин Антон Владимирович": 87
+      "4664067248316": 12,
+      "4664067248264": 20,
+      "4664067248554": 11,
+      "4664067247967": 19,
+      "4664067247999": 6,
+      "4664067247158": 21,
+      "4664067248514": 7,
+      "4664067248304": 1,
+      "4664067248131": 87
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/sverdlovsk?action=show&root=1000228&tvd=26620002596980&vrn=100100225883172&region=66&global=&sub_region=66&prver=0&pronetvd=null&vibid=26620002596980&type=464",
@@ -5635,6 +6719,10 @@ export const duma_2021_uik_463_region_66_part_009 = [
       "retrievedAt": "2026-08-26T08:06:41.345938+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/sverdlovsk?action=show&root=1000228&tvd=26620002596980&vrn=100100225883172&region=66&global=&sub_region=66&prver=0&pronetvd=null&vibid=26620002596980&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 174,
+      "oikTvd": "100100225883665"
     }
   },
   {
@@ -5644,8 +6732,12 @@ export const duma_2021_uik_463_region_66_part_009 = [
     "ballot": "single-member",
     "uikNumber": 799,
     "uikTvd": "4664067244148",
+    "uikName": "УИК №799",
     "tikTvd": "26620002596980",
     "tikName": "Серовская городская",
+    "regionCode": "66",
+    "regionTvd": "100100225883658",
+    "regionName": "Свердловская область",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 1112,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 1050,
@@ -5661,15 +6753,15 @@ export const duma_2021_uik_463_region_66_part_009 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бородин Ярослав Викторович": 39,
-      "Даутов Габбас Фанзовиевич": 62,
-      "Калинин Дмитрий Григорьевич": 19,
-      "Коровкин Алексей Сергеевич": 71,
-      "Мельник Сергей Евгеньевич": 25,
-      "Мякишев Павел Викторович": 60,
-      "Рабинович Анатолий Евгеньевич": 17,
-      "Хвостов Валерий Владимирович": 5,
-      "Шипулин Антон Владимирович": 163
+      "4664067248316": 39,
+      "4664067248264": 62,
+      "4664067248554": 19,
+      "4664067247967": 71,
+      "4664067247999": 25,
+      "4664067247158": 60,
+      "4664067248514": 17,
+      "4664067248304": 5,
+      "4664067248131": 163
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/sverdlovsk?action=show&root=1000228&tvd=26620002596980&vrn=100100225883172&region=66&global=&sub_region=66&prver=0&pronetvd=null&vibid=26620002596980&type=464",
@@ -5679,6 +6771,10 @@ export const duma_2021_uik_463_region_66_part_009 = [
       "retrievedAt": "2026-08-26T08:06:41.345938+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/sverdlovsk?action=show&root=1000228&tvd=26620002596980&vrn=100100225883172&region=66&global=&sub_region=66&prver=0&pronetvd=null&vibid=26620002596980&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 174,
+      "oikTvd": "100100225883665"
     }
   },
   {
@@ -5688,8 +6784,12 @@ export const duma_2021_uik_463_region_66_part_009 = [
     "ballot": "single-member",
     "uikNumber": 801,
     "uikTvd": "4664067244149",
+    "uikName": "УИК №801",
     "tikTvd": "26620002596980",
     "tikName": "Серовская городская",
+    "regionCode": "66",
+    "regionTvd": "100100225883658",
+    "regionName": "Свердловская область",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 1118,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 1050,
@@ -5705,15 +6805,15 @@ export const duma_2021_uik_463_region_66_part_009 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бородин Ярослав Викторович": 30,
-      "Даутов Габбас Фанзовиевич": 96,
-      "Калинин Дмитрий Григорьевич": 10,
-      "Коровкин Алексей Сергеевич": 54,
-      "Мельник Сергей Евгеньевич": 55,
-      "Мякишев Павел Викторович": 79,
-      "Рабинович Анатолий Евгеньевич": 12,
-      "Хвостов Валерий Владимирович": 1,
-      "Шипулин Антон Владимирович": 233
+      "4664067248316": 30,
+      "4664067248264": 96,
+      "4664067248554": 10,
+      "4664067247967": 54,
+      "4664067247999": 55,
+      "4664067247158": 79,
+      "4664067248514": 12,
+      "4664067248304": 1,
+      "4664067248131": 233
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/sverdlovsk?action=show&root=1000228&tvd=26620002596980&vrn=100100225883172&region=66&global=&sub_region=66&prver=0&pronetvd=null&vibid=26620002596980&type=464",
@@ -5723,6 +6823,10 @@ export const duma_2021_uik_463_region_66_part_009 = [
       "retrievedAt": "2026-08-26T08:06:41.345938+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/sverdlovsk?action=show&root=1000228&tvd=26620002596980&vrn=100100225883172&region=66&global=&sub_region=66&prver=0&pronetvd=null&vibid=26620002596980&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 174,
+      "oikTvd": "100100225883665"
     }
   },
   {
@@ -5732,8 +6836,12 @@ export const duma_2021_uik_463_region_66_part_009 = [
     "ballot": "single-member",
     "uikNumber": 802,
     "uikTvd": "4664067244150",
+    "uikName": "УИК №802",
     "tikTvd": "26620002596980",
     "tikName": "Серовская городская",
+    "regionCode": "66",
+    "regionTvd": "100100225883658",
+    "regionName": "Свердловская область",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 853,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 850,
@@ -5749,15 +6857,15 @@ export const duma_2021_uik_463_region_66_part_009 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бородин Ярослав Викторович": 12,
-      "Даутов Габбас Фанзовиевич": 40,
-      "Калинин Дмитрий Григорьевич": 9,
-      "Коровкин Алексей Сергеевич": 60,
-      "Мельник Сергей Евгеньевич": 21,
-      "Мякишев Павел Викторович": 54,
-      "Рабинович Анатолий Евгеньевич": 18,
-      "Хвостов Валерий Владимирович": 5,
-      "Шипулин Антон Владимирович": 149
+      "4664067248316": 12,
+      "4664067248264": 40,
+      "4664067248554": 9,
+      "4664067247967": 60,
+      "4664067247999": 21,
+      "4664067247158": 54,
+      "4664067248514": 18,
+      "4664067248304": 5,
+      "4664067248131": 149
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/sverdlovsk?action=show&root=1000228&tvd=26620002596980&vrn=100100225883172&region=66&global=&sub_region=66&prver=0&pronetvd=null&vibid=26620002596980&type=464",
@@ -5767,6 +6875,10 @@ export const duma_2021_uik_463_region_66_part_009 = [
       "retrievedAt": "2026-08-26T08:06:41.345938+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/sverdlovsk?action=show&root=1000228&tvd=26620002596980&vrn=100100225883172&region=66&global=&sub_region=66&prver=0&pronetvd=null&vibid=26620002596980&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 174,
+      "oikTvd": "100100225883665"
     }
   },
   {
@@ -5776,8 +6888,12 @@ export const duma_2021_uik_463_region_66_part_009 = [
     "ballot": "single-member",
     "uikNumber": 803,
     "uikTvd": "4664067244151",
+    "uikName": "УИК №803",
     "tikTvd": "26620002596980",
     "tikName": "Серовская городская",
+    "regionCode": "66",
+    "regionTvd": "100100225883658",
+    "regionName": "Свердловская область",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 150,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 150,
@@ -5793,15 +6909,15 @@ export const duma_2021_uik_463_region_66_part_009 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бородин Ярослав Викторович": 3,
-      "Даутов Габбас Фанзовиевич": 7,
-      "Калинин Дмитрий Григорьевич": 0,
-      "Коровкин Алексей Сергеевич": 3,
-      "Мельник Сергей Евгеньевич": 24,
-      "Мякишев Павел Викторович": 6,
-      "Рабинович Анатолий Евгеньевич": 1,
-      "Хвостов Валерий Владимирович": 0,
-      "Шипулин Антон Владимирович": 29
+      "4664067248316": 3,
+      "4664067248264": 7,
+      "4664067248554": 0,
+      "4664067247967": 3,
+      "4664067247999": 24,
+      "4664067247158": 6,
+      "4664067248514": 1,
+      "4664067248304": 0,
+      "4664067248131": 29
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/sverdlovsk?action=show&root=1000228&tvd=26620002596980&vrn=100100225883172&region=66&global=&sub_region=66&prver=0&pronetvd=null&vibid=26620002596980&type=464",
@@ -5811,6 +6927,10 @@ export const duma_2021_uik_463_region_66_part_009 = [
       "retrievedAt": "2026-08-26T08:06:41.345938+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/sverdlovsk?action=show&root=1000228&tvd=26620002596980&vrn=100100225883172&region=66&global=&sub_region=66&prver=0&pronetvd=null&vibid=26620002596980&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 174,
+      "oikTvd": "100100225883665"
     }
   },
   {
@@ -5820,8 +6940,12 @@ export const duma_2021_uik_463_region_66_part_009 = [
     "ballot": "single-member",
     "uikNumber": 808,
     "uikTvd": "4664067244152",
+    "uikName": "УИК №808",
     "tikTvd": "26620002596980",
     "tikName": "Серовская городская",
+    "regionCode": "66",
+    "regionTvd": "100100225883658",
+    "regionName": "Свердловская область",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 103,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 90,
@@ -5837,15 +6961,15 @@ export const duma_2021_uik_463_region_66_part_009 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бородин Ярослав Викторович": 0,
-      "Даутов Габбас Фанзовиевич": 9,
-      "Калинин Дмитрий Григорьевич": 3,
-      "Коровкин Алексей Сергеевич": 8,
-      "Мельник Сергей Евгеньевич": 3,
-      "Мякишев Павел Викторович": 5,
-      "Рабинович Анатолий Евгеньевич": 1,
-      "Хвостов Валерий Владимирович": 2,
-      "Шипулин Антон Владимирович": 22
+      "4664067248316": 0,
+      "4664067248264": 9,
+      "4664067248554": 3,
+      "4664067247967": 8,
+      "4664067247999": 3,
+      "4664067247158": 5,
+      "4664067248514": 1,
+      "4664067248304": 2,
+      "4664067248131": 22
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/sverdlovsk?action=show&root=1000228&tvd=26620002596980&vrn=100100225883172&region=66&global=&sub_region=66&prver=0&pronetvd=null&vibid=26620002596980&type=464",
@@ -5855,6 +6979,10 @@ export const duma_2021_uik_463_region_66_part_009 = [
       "retrievedAt": "2026-08-26T08:06:41.345938+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/sverdlovsk?action=show&root=1000228&tvd=26620002596980&vrn=100100225883172&region=66&global=&sub_region=66&prver=0&pronetvd=null&vibid=26620002596980&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 174,
+      "oikTvd": "100100225883665"
     }
   },
   {
@@ -5864,8 +6992,12 @@ export const duma_2021_uik_463_region_66_part_009 = [
     "ballot": "single-member",
     "uikNumber": 809,
     "uikTvd": "4664067244153",
+    "uikName": "УИК №809",
     "tikTvd": "26620002596980",
     "tikName": "Серовская городская",
+    "regionCode": "66",
+    "regionTvd": "100100225883658",
+    "regionName": "Свердловская область",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 144,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 130,
@@ -5881,15 +7013,15 @@ export const duma_2021_uik_463_region_66_part_009 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бородин Ярослав Викторович": 4,
-      "Даутов Габбас Фанзовиевич": 13,
-      "Калинин Дмитрий Григорьевич": 1,
-      "Коровкин Алексей Сергеевич": 6,
-      "Мельник Сергей Евгеньевич": 3,
-      "Мякишев Павел Викторович": 5,
-      "Рабинович Анатолий Евгеньевич": 4,
-      "Хвостов Валерий Владимирович": 1,
-      "Шипулин Антон Владимирович": 53
+      "4664067248316": 4,
+      "4664067248264": 13,
+      "4664067248554": 1,
+      "4664067247967": 6,
+      "4664067247999": 3,
+      "4664067247158": 5,
+      "4664067248514": 4,
+      "4664067248304": 1,
+      "4664067248131": 53
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/sverdlovsk?action=show&root=1000228&tvd=26620002596980&vrn=100100225883172&region=66&global=&sub_region=66&prver=0&pronetvd=null&vibid=26620002596980&type=464",
@@ -5899,6 +7031,10 @@ export const duma_2021_uik_463_region_66_part_009 = [
       "retrievedAt": "2026-08-26T08:06:41.345938+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/sverdlovsk?action=show&root=1000228&tvd=26620002596980&vrn=100100225883172&region=66&global=&sub_region=66&prver=0&pronetvd=null&vibid=26620002596980&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 174,
+      "oikTvd": "100100225883665"
     }
   },
   {
@@ -5908,8 +7044,12 @@ export const duma_2021_uik_463_region_66_part_009 = [
     "ballot": "single-member",
     "uikNumber": 810,
     "uikTvd": "4664067244154",
+    "uikName": "УИК №810",
     "tikTvd": "26620002596980",
     "tikName": "Серовская городская",
+    "regionCode": "66",
+    "regionTvd": "100100225883658",
+    "regionName": "Свердловская область",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 125,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 110,
@@ -5925,15 +7065,15 @@ export const duma_2021_uik_463_region_66_part_009 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бородин Ярослав Викторович": 4,
-      "Даутов Габбас Фанзовиевич": 12,
-      "Калинин Дмитрий Григорьевич": 3,
-      "Коровкин Алексей Сергеевич": 8,
-      "Мельник Сергей Евгеньевич": 6,
-      "Мякишев Павел Викторович": 6,
-      "Рабинович Анатолий Евгеньевич": 2,
-      "Хвостов Валерий Владимирович": 1,
-      "Шипулин Антон Владимирович": 24
+      "4664067248316": 4,
+      "4664067248264": 12,
+      "4664067248554": 3,
+      "4664067247967": 8,
+      "4664067247999": 6,
+      "4664067247158": 6,
+      "4664067248514": 2,
+      "4664067248304": 1,
+      "4664067248131": 24
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/sverdlovsk?action=show&root=1000228&tvd=26620002596980&vrn=100100225883172&region=66&global=&sub_region=66&prver=0&pronetvd=null&vibid=26620002596980&type=464",
@@ -5943,6 +7083,10 @@ export const duma_2021_uik_463_region_66_part_009 = [
       "retrievedAt": "2026-08-26T08:06:41.345938+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/sverdlovsk?action=show&root=1000228&tvd=26620002596980&vrn=100100225883172&region=66&global=&sub_region=66&prver=0&pronetvd=null&vibid=26620002596980&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 174,
+      "oikTvd": "100100225883665"
     }
   },
   {
@@ -5952,8 +7096,12 @@ export const duma_2021_uik_463_region_66_part_009 = [
     "ballot": "single-member",
     "uikNumber": 812,
     "uikTvd": "4664067244155",
+    "uikName": "УИК №812",
     "tikTvd": "26620002596980",
     "tikName": "Серовская городская",
+    "regionCode": "66",
+    "regionTvd": "100100225883658",
+    "regionName": "Свердловская область",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 89,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 90,
@@ -5969,15 +7117,15 @@ export const duma_2021_uik_463_region_66_part_009 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бородин Ярослав Викторович": 6,
-      "Даутов Габбас Фанзовиевич": 3,
-      "Калинин Дмитрий Григорьевич": 4,
-      "Коровкин Алексей Сергеевич": 5,
-      "Мельник Сергей Евгеньевич": 2,
-      "Мякишев Павел Викторович": 6,
-      "Рабинович Анатолий Евгеньевич": 0,
-      "Хвостов Валерий Владимирович": 1,
-      "Шипулин Антон Владимирович": 20
+      "4664067248316": 6,
+      "4664067248264": 3,
+      "4664067248554": 4,
+      "4664067247967": 5,
+      "4664067247999": 2,
+      "4664067247158": 6,
+      "4664067248514": 0,
+      "4664067248304": 1,
+      "4664067248131": 20
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/sverdlovsk?action=show&root=1000228&tvd=26620002596980&vrn=100100225883172&region=66&global=&sub_region=66&prver=0&pronetvd=null&vibid=26620002596980&type=464",
@@ -5987,6 +7135,10 @@ export const duma_2021_uik_463_region_66_part_009 = [
       "retrievedAt": "2026-08-26T08:06:41.345938+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/sverdlovsk?action=show&root=1000228&tvd=26620002596980&vrn=100100225883172&region=66&global=&sub_region=66&prver=0&pronetvd=null&vibid=26620002596980&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 174,
+      "oikTvd": "100100225883665"
     }
   },
   {
@@ -5996,8 +7148,12 @@ export const duma_2021_uik_463_region_66_part_009 = [
     "ballot": "single-member",
     "uikNumber": 813,
     "uikTvd": "4664067244156",
+    "uikName": "УИК №813",
     "tikTvd": "26620002596980",
     "tikName": "Серовская городская",
+    "regionCode": "66",
+    "regionTvd": "100100225883658",
+    "regionName": "Свердловская область",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 134,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 130,
@@ -6013,15 +7169,15 @@ export const duma_2021_uik_463_region_66_part_009 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бородин Ярослав Викторович": 3,
-      "Даутов Габбас Фанзовиевич": 11,
-      "Калинин Дмитрий Григорьевич": 1,
-      "Коровкин Алексей Сергеевич": 5,
-      "Мельник Сергей Евгеньевич": 6,
-      "Мякишев Павел Викторович": 6,
-      "Рабинович Анатолий Евгеньевич": 1,
-      "Хвостов Валерий Владимирович": 2,
-      "Шипулин Антон Владимирович": 44
+      "4664067248316": 3,
+      "4664067248264": 11,
+      "4664067248554": 1,
+      "4664067247967": 5,
+      "4664067247999": 6,
+      "4664067247158": 6,
+      "4664067248514": 1,
+      "4664067248304": 2,
+      "4664067248131": 44
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/sverdlovsk?action=show&root=1000228&tvd=26620002596980&vrn=100100225883172&region=66&global=&sub_region=66&prver=0&pronetvd=null&vibid=26620002596980&type=464",
@@ -6031,6 +7187,10 @@ export const duma_2021_uik_463_region_66_part_009 = [
       "retrievedAt": "2026-08-26T08:06:41.345938+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/sverdlovsk?action=show&root=1000228&tvd=26620002596980&vrn=100100225883172&region=66&global=&sub_region=66&prver=0&pronetvd=null&vibid=26620002596980&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 174,
+      "oikTvd": "100100225883665"
     }
   },
   {
@@ -6040,8 +7200,12 @@ export const duma_2021_uik_463_region_66_part_009 = [
     "ballot": "single-member",
     "uikNumber": 2467,
     "uikTvd": "4664067250438",
+    "uikName": "УИК №2467",
     "tikTvd": "26620002596980",
     "tikName": "Серовская городская",
+    "regionCode": "66",
+    "regionTvd": "100100225883658",
+    "regionName": "Свердловская область",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 135,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 130,
@@ -6057,15 +7221,15 @@ export const duma_2021_uik_463_region_66_part_009 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бородин Ярослав Викторович": 5,
-      "Даутов Габбас Фанзовиевич": 12,
-      "Калинин Дмитрий Григорьевич": 3,
-      "Коровкин Алексей Сергеевич": 19,
-      "Мельник Сергей Евгеньевич": 6,
-      "Мякишев Павел Викторович": 9,
-      "Рабинович Анатолий Евгеньевич": 7,
-      "Хвостов Валерий Владимирович": 0,
-      "Шипулин Антон Владимирович": 44
+      "4664067248316": 5,
+      "4664067248264": 12,
+      "4664067248554": 3,
+      "4664067247967": 19,
+      "4664067247999": 6,
+      "4664067247158": 9,
+      "4664067248514": 7,
+      "4664067248304": 0,
+      "4664067248131": 44
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/sverdlovsk?action=show&root=1000228&tvd=26620002596980&vrn=100100225883172&region=66&global=&sub_region=66&prver=0&pronetvd=null&vibid=26620002596980&type=464",
@@ -6075,6 +7239,10 @@ export const duma_2021_uik_463_region_66_part_009 = [
       "retrievedAt": "2026-08-26T08:06:41.345938+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/sverdlovsk?action=show&root=1000228&tvd=26620002596980&vrn=100100225883172&region=66&global=&sub_region=66&prver=0&pronetvd=null&vibid=26620002596980&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 174,
+      "oikTvd": "100100225883665"
     }
   },
   {
@@ -6084,8 +7252,12 @@ export const duma_2021_uik_463_region_66_part_009 = [
     "ballot": "single-member",
     "uikNumber": 2468,
     "uikTvd": "4664067244157",
+    "uikName": "УИК №2468",
     "tikTvd": "26620002596980",
     "tikName": "Серовская городская",
+    "regionCode": "66",
+    "regionTvd": "100100225883658",
+    "regionName": "Свердловская область",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 1423,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 1000,
@@ -6101,15 +7273,15 @@ export const duma_2021_uik_463_region_66_part_009 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бородин Ярослав Викторович": 33,
-      "Даутов Габбас Фанзовиевич": 116,
-      "Калинин Дмитрий Григорьевич": 9,
-      "Коровкин Алексей Сергеевич": 82,
-      "Мельник Сергей Евгеньевич": 69,
-      "Мякишев Павел Викторович": 43,
-      "Рабинович Анатолий Евгеньевич": 27,
-      "Хвостов Валерий Владимирович": 3,
-      "Шипулин Антон Владимирович": 213
+      "4664067248316": 33,
+      "4664067248264": 116,
+      "4664067248554": 9,
+      "4664067247967": 82,
+      "4664067247999": 69,
+      "4664067247158": 43,
+      "4664067248514": 27,
+      "4664067248304": 3,
+      "4664067248131": 213
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/sverdlovsk?action=show&root=1000228&tvd=26620002596980&vrn=100100225883172&region=66&global=&sub_region=66&prver=0&pronetvd=null&vibid=26620002596980&type=464",
@@ -6119,6 +7291,10 @@ export const duma_2021_uik_463_region_66_part_009 = [
       "retrievedAt": "2026-08-26T08:06:41.345938+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/sverdlovsk?action=show&root=1000228&tvd=26620002596980&vrn=100100225883172&region=66&global=&sub_region=66&prver=0&pronetvd=null&vibid=26620002596980&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 174,
+      "oikTvd": "100100225883665"
     }
   },
   {
@@ -6128,8 +7304,12 @@ export const duma_2021_uik_463_region_66_part_009 = [
     "ballot": "single-member",
     "uikNumber": 2469,
     "uikTvd": "4664067244158",
+    "uikName": "УИК №2469",
     "tikTvd": "26620002596980",
     "tikName": "Серовская городская",
+    "regionCode": "66",
+    "regionTvd": "100100225883658",
+    "regionName": "Свердловская область",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 1786,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 1300,
@@ -6145,15 +7325,15 @@ export const duma_2021_uik_463_region_66_part_009 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бородин Ярослав Викторович": 41,
-      "Даутов Габбас Фанзовиевич": 150,
-      "Калинин Дмитрий Григорьевич": 8,
-      "Коровкин Алексей Сергеевич": 104,
-      "Мельник Сергей Евгеньевич": 69,
-      "Мякишев Павел Викторович": 87,
-      "Рабинович Анатолий Евгеньевич": 30,
-      "Хвостов Валерий Владимирович": 8,
-      "Шипулин Антон Владимирович": 283
+      "4664067248316": 41,
+      "4664067248264": 150,
+      "4664067248554": 8,
+      "4664067247967": 104,
+      "4664067247999": 69,
+      "4664067247158": 87,
+      "4664067248514": 30,
+      "4664067248304": 8,
+      "4664067248131": 283
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/sverdlovsk?action=show&root=1000228&tvd=26620002596980&vrn=100100225883172&region=66&global=&sub_region=66&prver=0&pronetvd=null&vibid=26620002596980&type=464",
@@ -6163,6 +7343,10 @@ export const duma_2021_uik_463_region_66_part_009 = [
       "retrievedAt": "2026-08-26T08:06:41.345938+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/sverdlovsk?action=show&root=1000228&tvd=26620002596980&vrn=100100225883172&region=66&global=&sub_region=66&prver=0&pronetvd=null&vibid=26620002596980&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 174,
+      "oikTvd": "100100225883665"
     }
   },
   {
@@ -6172,8 +7356,12 @@ export const duma_2021_uik_463_region_66_part_009 = [
     "ballot": "single-member",
     "uikNumber": 2470,
     "uikTvd": "4664067244159",
+    "uikName": "УИК №2470",
     "tikTvd": "26620002596980",
     "tikName": "Серовская городская",
+    "regionCode": "66",
+    "regionTvd": "100100225883658",
+    "regionName": "Свердловская область",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 1563,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 1150,
@@ -6189,15 +7377,15 @@ export const duma_2021_uik_463_region_66_part_009 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бородин Ярослав Викторович": 42,
-      "Даутов Габбас Фанзовиевич": 127,
-      "Калинин Дмитрий Григорьевич": 17,
-      "Коровкин Алексей Сергеевич": 85,
-      "Мельник Сергей Евгеньевич": 59,
-      "Мякишев Павел Викторович": 68,
-      "Рабинович Анатолий Евгеньевич": 11,
-      "Хвостов Валерий Владимирович": 8,
-      "Шипулин Антон Владимирович": 224
+      "4664067248316": 42,
+      "4664067248264": 127,
+      "4664067248554": 17,
+      "4664067247967": 85,
+      "4664067247999": 59,
+      "4664067247158": 68,
+      "4664067248514": 11,
+      "4664067248304": 8,
+      "4664067248131": 224
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/sverdlovsk?action=show&root=1000228&tvd=26620002596980&vrn=100100225883172&region=66&global=&sub_region=66&prver=0&pronetvd=null&vibid=26620002596980&type=464",
@@ -6207,6 +7395,10 @@ export const duma_2021_uik_463_region_66_part_009 = [
       "retrievedAt": "2026-08-26T08:06:41.345938+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/sverdlovsk?action=show&root=1000228&tvd=26620002596980&vrn=100100225883172&region=66&global=&sub_region=66&prver=0&pronetvd=null&vibid=26620002596980&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 174,
+      "oikTvd": "100100225883665"
     }
   },
   {
@@ -6216,8 +7408,12 @@ export const duma_2021_uik_463_region_66_part_009 = [
     "ballot": "single-member",
     "uikNumber": 2471,
     "uikTvd": "4664067244160",
+    "uikName": "УИК №2471",
     "tikTvd": "26620002596980",
     "tikName": "Серовская городская",
+    "regionCode": "66",
+    "regionTvd": "100100225883658",
+    "regionName": "Свердловская область",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 1532,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 1100,
@@ -6233,15 +7429,15 @@ export const duma_2021_uik_463_region_66_part_009 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бородин Ярослав Викторович": 51,
-      "Даутов Габбас Фанзовиевич": 136,
-      "Калинин Дмитрий Григорьевич": 11,
-      "Коровкин Алексей Сергеевич": 77,
-      "Мельник Сергей Евгеньевич": 61,
-      "Мякишев Павел Викторович": 63,
-      "Рабинович Анатолий Евгеньевич": 24,
-      "Хвостов Валерий Владимирович": 2,
-      "Шипулин Антон Владимирович": 246
+      "4664067248316": 51,
+      "4664067248264": 136,
+      "4664067248554": 11,
+      "4664067247967": 77,
+      "4664067247999": 61,
+      "4664067247158": 63,
+      "4664067248514": 24,
+      "4664067248304": 2,
+      "4664067248131": 246
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/sverdlovsk?action=show&root=1000228&tvd=26620002596980&vrn=100100225883172&region=66&global=&sub_region=66&prver=0&pronetvd=null&vibid=26620002596980&type=464",
@@ -6251,6 +7447,10 @@ export const duma_2021_uik_463_region_66_part_009 = [
       "retrievedAt": "2026-08-26T08:06:41.345938+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/sverdlovsk?action=show&root=1000228&tvd=26620002596980&vrn=100100225883172&region=66&global=&sub_region=66&prver=0&pronetvd=null&vibid=26620002596980&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 174,
+      "oikTvd": "100100225883665"
     }
   },
   {
@@ -6260,8 +7460,12 @@ export const duma_2021_uik_463_region_66_part_009 = [
     "ballot": "single-member",
     "uikNumber": 2472,
     "uikTvd": "4664067244161",
+    "uikName": "УИК №2472",
     "tikTvd": "26620002596980",
     "tikName": "Серовская городская",
+    "regionCode": "66",
+    "regionTvd": "100100225883658",
+    "regionName": "Свердловская область",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 1319,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 1000,
@@ -6277,15 +7481,15 @@ export const duma_2021_uik_463_region_66_part_009 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бородин Ярослав Викторович": 31,
-      "Даутов Габбас Фанзовиевич": 119,
-      "Калинин Дмитрий Григорьевич": 14,
-      "Коровкин Алексей Сергеевич": 73,
-      "Мельник Сергей Евгеньевич": 38,
-      "Мякишев Павел Викторович": 62,
-      "Рабинович Анатолий Евгеньевич": 16,
-      "Хвостов Валерий Владимирович": 2,
-      "Шипулин Антон Владимирович": 183
+      "4664067248316": 31,
+      "4664067248264": 119,
+      "4664067248554": 14,
+      "4664067247967": 73,
+      "4664067247999": 38,
+      "4664067247158": 62,
+      "4664067248514": 16,
+      "4664067248304": 2,
+      "4664067248131": 183
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/sverdlovsk?action=show&root=1000228&tvd=26620002596980&vrn=100100225883172&region=66&global=&sub_region=66&prver=0&pronetvd=null&vibid=26620002596980&type=464",
@@ -6295,6 +7499,10 @@ export const duma_2021_uik_463_region_66_part_009 = [
       "retrievedAt": "2026-08-26T08:06:41.345938+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/sverdlovsk?action=show&root=1000228&tvd=26620002596980&vrn=100100225883172&region=66&global=&sub_region=66&prver=0&pronetvd=null&vibid=26620002596980&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 174,
+      "oikTvd": "100100225883665"
     }
   },
   {
@@ -6304,8 +7512,12 @@ export const duma_2021_uik_463_region_66_part_009 = [
     "ballot": "single-member",
     "uikNumber": 2473,
     "uikTvd": "4664067244162",
+    "uikName": "УИК №2473",
     "tikTvd": "26620002596980",
     "tikName": "Серовская городская",
+    "regionCode": "66",
+    "regionTvd": "100100225883658",
+    "regionName": "Свердловская область",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 1132,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 850,
@@ -6321,15 +7533,15 @@ export const duma_2021_uik_463_region_66_part_009 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бородин Ярослав Викторович": 37,
-      "Даутов Габбас Фанзовиевич": 110,
-      "Калинин Дмитрий Григорьевич": 9,
-      "Коровкин Алексей Сергеевич": 69,
-      "Мельник Сергей Евгеньевич": 29,
-      "Мякишев Павел Викторович": 48,
-      "Рабинович Анатолий Евгеньевич": 17,
-      "Хвостов Валерий Владимирович": 2,
-      "Шипулин Антон Владимирович": 155
+      "4664067248316": 37,
+      "4664067248264": 110,
+      "4664067248554": 9,
+      "4664067247967": 69,
+      "4664067247999": 29,
+      "4664067247158": 48,
+      "4664067248514": 17,
+      "4664067248304": 2,
+      "4664067248131": 155
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/sverdlovsk?action=show&root=1000228&tvd=26620002596980&vrn=100100225883172&region=66&global=&sub_region=66&prver=0&pronetvd=null&vibid=26620002596980&type=464",
@@ -6339,6 +7551,10 @@ export const duma_2021_uik_463_region_66_part_009 = [
       "retrievedAt": "2026-08-26T08:06:41.345938+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/sverdlovsk?action=show&root=1000228&tvd=26620002596980&vrn=100100225883172&region=66&global=&sub_region=66&prver=0&pronetvd=null&vibid=26620002596980&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 174,
+      "oikTvd": "100100225883665"
     }
   },
   {
@@ -6348,8 +7564,12 @@ export const duma_2021_uik_463_region_66_part_009 = [
     "ballot": "single-member",
     "uikNumber": 2474,
     "uikTvd": "4664067244163",
+    "uikName": "УИК №2474",
     "tikTvd": "26620002596980",
     "tikName": "Серовская городская",
+    "regionCode": "66",
+    "regionTvd": "100100225883658",
+    "regionName": "Свердловская область",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 1056,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 800,
@@ -6365,15 +7585,15 @@ export const duma_2021_uik_463_region_66_part_009 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бородин Ярослав Викторович": 39,
-      "Даутов Габбас Фанзовиевич": 94,
-      "Калинин Дмитрий Григорьевич": 10,
-      "Коровкин Алексей Сергеевич": 67,
-      "Мельник Сергей Евгеньевич": 53,
-      "Мякишев Павел Викторович": 48,
-      "Рабинович Анатолий Евгеньевич": 13,
-      "Хвостов Валерий Владимирович": 4,
-      "Шипулин Антон Владимирович": 175
+      "4664067248316": 39,
+      "4664067248264": 94,
+      "4664067248554": 10,
+      "4664067247967": 67,
+      "4664067247999": 53,
+      "4664067247158": 48,
+      "4664067248514": 13,
+      "4664067248304": 4,
+      "4664067248131": 175
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/sverdlovsk?action=show&root=1000228&tvd=26620002596980&vrn=100100225883172&region=66&global=&sub_region=66&prver=0&pronetvd=null&vibid=26620002596980&type=464",
@@ -6383,6 +7603,10 @@ export const duma_2021_uik_463_region_66_part_009 = [
       "retrievedAt": "2026-08-26T08:06:41.345938+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/sverdlovsk?action=show&root=1000228&tvd=26620002596980&vrn=100100225883172&region=66&global=&sub_region=66&prver=0&pronetvd=null&vibid=26620002596980&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 174,
+      "oikTvd": "100100225883665"
     }
   },
   {
@@ -6392,8 +7616,12 @@ export const duma_2021_uik_463_region_66_part_009 = [
     "ballot": "single-member",
     "uikNumber": 2475,
     "uikTvd": "4664067244164",
+    "uikName": "УИК №2475",
     "tikTvd": "26620002596980",
     "tikName": "Серовская городская",
+    "regionCode": "66",
+    "regionTvd": "100100225883658",
+    "regionName": "Свердловская область",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 1271,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 950,
@@ -6409,15 +7637,15 @@ export const duma_2021_uik_463_region_66_part_009 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бородин Ярослав Викторович": 36,
-      "Даутов Габбас Фанзовиевич": 85,
-      "Калинин Дмитрий Григорьевич": 9,
-      "Коровкин Алексей Сергеевич": 72,
-      "Мельник Сергей Евгеньевич": 49,
-      "Мякишев Павел Викторович": 55,
-      "Рабинович Анатолий Евгеньевич": 13,
-      "Хвостов Валерий Владимирович": 1,
-      "Шипулин Антон Владимирович": 225
+      "4664067248316": 36,
+      "4664067248264": 85,
+      "4664067248554": 9,
+      "4664067247967": 72,
+      "4664067247999": 49,
+      "4664067247158": 55,
+      "4664067248514": 13,
+      "4664067248304": 1,
+      "4664067248131": 225
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/sverdlovsk?action=show&root=1000228&tvd=26620002596980&vrn=100100225883172&region=66&global=&sub_region=66&prver=0&pronetvd=null&vibid=26620002596980&type=464",
@@ -6427,6 +7655,10 @@ export const duma_2021_uik_463_region_66_part_009 = [
       "retrievedAt": "2026-08-26T08:06:41.345938+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/sverdlovsk?action=show&root=1000228&tvd=26620002596980&vrn=100100225883172&region=66&global=&sub_region=66&prver=0&pronetvd=null&vibid=26620002596980&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 174,
+      "oikTvd": "100100225883665"
     }
   },
   {
@@ -6436,8 +7668,12 @@ export const duma_2021_uik_463_region_66_part_009 = [
     "ballot": "single-member",
     "uikNumber": 2476,
     "uikTvd": "4664067244165",
+    "uikName": "УИК №2476",
     "tikTvd": "26620002596980",
     "tikName": "Серовская городская",
+    "regionCode": "66",
+    "regionTvd": "100100225883658",
+    "regionName": "Свердловская область",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 1224,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 900,
@@ -6453,15 +7689,15 @@ export const duma_2021_uik_463_region_66_part_009 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бородин Ярослав Викторович": 41,
-      "Даутов Габбас Фанзовиевич": 89,
-      "Калинин Дмитрий Григорьевич": 13,
-      "Коровкин Алексей Сергеевич": 72,
-      "Мельник Сергей Евгеньевич": 47,
-      "Мякишев Павел Викторович": 56,
-      "Рабинович Анатолий Евгеньевич": 19,
-      "Хвостов Валерий Владимирович": 6,
-      "Шипулин Антон Владимирович": 231
+      "4664067248316": 41,
+      "4664067248264": 89,
+      "4664067248554": 13,
+      "4664067247967": 72,
+      "4664067247999": 47,
+      "4664067247158": 56,
+      "4664067248514": 19,
+      "4664067248304": 6,
+      "4664067248131": 231
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/sverdlovsk?action=show&root=1000228&tvd=26620002596980&vrn=100100225883172&region=66&global=&sub_region=66&prver=0&pronetvd=null&vibid=26620002596980&type=464",
@@ -6471,6 +7707,10 @@ export const duma_2021_uik_463_region_66_part_009 = [
       "retrievedAt": "2026-08-26T08:06:41.345938+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/sverdlovsk?action=show&root=1000228&tvd=26620002596980&vrn=100100225883172&region=66&global=&sub_region=66&prver=0&pronetvd=null&vibid=26620002596980&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 174,
+      "oikTvd": "100100225883665"
     }
   },
   {
@@ -6480,8 +7720,12 @@ export const duma_2021_uik_463_region_66_part_009 = [
     "ballot": "single-member",
     "uikNumber": 2477,
     "uikTvd": "4664067244166",
+    "uikName": "УИК №2477",
     "tikTvd": "26620002596980",
     "tikName": "Серовская городская",
+    "regionCode": "66",
+    "regionTvd": "100100225883658",
+    "regionName": "Свердловская область",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 1285,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 950,
@@ -6497,15 +7741,15 @@ export const duma_2021_uik_463_region_66_part_009 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бородин Ярослав Викторович": 35,
-      "Даутов Габбас Фанзовиевич": 119,
-      "Калинин Дмитрий Григорьевич": 10,
-      "Коровкин Алексей Сергеевич": 80,
-      "Мельник Сергей Евгеньевич": 42,
-      "Мякишев Павел Викторович": 49,
-      "Рабинович Анатолий Евгеньевич": 13,
-      "Хвостов Валерий Владимирович": 2,
-      "Шипулин Антон Владимирович": 219
+      "4664067248316": 35,
+      "4664067248264": 119,
+      "4664067248554": 10,
+      "4664067247967": 80,
+      "4664067247999": 42,
+      "4664067247158": 49,
+      "4664067248514": 13,
+      "4664067248304": 2,
+      "4664067248131": 219
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/sverdlovsk?action=show&root=1000228&tvd=26620002596980&vrn=100100225883172&region=66&global=&sub_region=66&prver=0&pronetvd=null&vibid=26620002596980&type=464",
@@ -6515,6 +7759,10 @@ export const duma_2021_uik_463_region_66_part_009 = [
       "retrievedAt": "2026-08-26T08:06:41.345938+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/sverdlovsk?action=show&root=1000228&tvd=26620002596980&vrn=100100225883172&region=66&global=&sub_region=66&prver=0&pronetvd=null&vibid=26620002596980&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 174,
+      "oikTvd": "100100225883665"
     }
   },
   {
@@ -6524,8 +7772,12 @@ export const duma_2021_uik_463_region_66_part_009 = [
     "ballot": "single-member",
     "uikNumber": 2478,
     "uikTvd": "4664067244167",
+    "uikName": "УИК №2478",
     "tikTvd": "26620002596980",
     "tikName": "Серовская городская",
+    "regionCode": "66",
+    "regionTvd": "100100225883658",
+    "regionName": "Свердловская область",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 1187,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 900,
@@ -6541,15 +7793,15 @@ export const duma_2021_uik_463_region_66_part_009 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бородин Ярослав Викторович": 35,
-      "Даутов Габбас Фанзовиевич": 106,
-      "Калинин Дмитрий Григорьевич": 13,
-      "Коровкин Алексей Сергеевич": 47,
-      "Мельник Сергей Евгеньевич": 53,
-      "Мякишев Павел Викторович": 65,
-      "Рабинович Анатолий Евгеньевич": 10,
-      "Хвостов Валерий Владимирович": 3,
-      "Шипулин Антон Владимирович": 227
+      "4664067248316": 35,
+      "4664067248264": 106,
+      "4664067248554": 13,
+      "4664067247967": 47,
+      "4664067247999": 53,
+      "4664067247158": 65,
+      "4664067248514": 10,
+      "4664067248304": 3,
+      "4664067248131": 227
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/sverdlovsk?action=show&root=1000228&tvd=26620002596980&vrn=100100225883172&region=66&global=&sub_region=66&prver=0&pronetvd=null&vibid=26620002596980&type=464",
@@ -6559,6 +7811,10 @@ export const duma_2021_uik_463_region_66_part_009 = [
       "retrievedAt": "2026-08-26T08:06:41.345938+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/sverdlovsk?action=show&root=1000228&tvd=26620002596980&vrn=100100225883172&region=66&global=&sub_region=66&prver=0&pronetvd=null&vibid=26620002596980&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 174,
+      "oikTvd": "100100225883665"
     }
   },
   {
@@ -6568,8 +7824,12 @@ export const duma_2021_uik_463_region_66_part_009 = [
     "ballot": "single-member",
     "uikNumber": 2479,
     "uikTvd": "4664067244168",
+    "uikName": "УИК №2479",
     "tikTvd": "26620002596980",
     "tikName": "Серовская городская",
+    "regionCode": "66",
+    "regionTvd": "100100225883658",
+    "regionName": "Свердловская область",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 1431,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 1100,
@@ -6585,15 +7845,15 @@ export const duma_2021_uik_463_region_66_part_009 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бородин Ярослав Викторович": 51,
-      "Даутов Габбас Фанзовиевич": 149,
-      "Калинин Дмитрий Григорьевич": 12,
-      "Коровкин Алексей Сергеевич": 79,
-      "Мельник Сергей Евгеньевич": 71,
-      "Мякишев Павел Викторович": 60,
-      "Рабинович Анатолий Евгеньевич": 18,
-      "Хвостов Валерий Владимирович": 1,
-      "Шипулин Антон Владимирович": 292
+      "4664067248316": 51,
+      "4664067248264": 149,
+      "4664067248554": 12,
+      "4664067247967": 79,
+      "4664067247999": 71,
+      "4664067247158": 60,
+      "4664067248514": 18,
+      "4664067248304": 1,
+      "4664067248131": 292
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/sverdlovsk?action=show&root=1000228&tvd=26620002596980&vrn=100100225883172&region=66&global=&sub_region=66&prver=0&pronetvd=null&vibid=26620002596980&type=464",
@@ -6603,6 +7863,10 @@ export const duma_2021_uik_463_region_66_part_009 = [
       "retrievedAt": "2026-08-26T08:06:41.345938+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/sverdlovsk?action=show&root=1000228&tvd=26620002596980&vrn=100100225883172&region=66&global=&sub_region=66&prver=0&pronetvd=null&vibid=26620002596980&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 174,
+      "oikTvd": "100100225883665"
     }
   },
   {
@@ -6612,8 +7876,12 @@ export const duma_2021_uik_463_region_66_part_009 = [
     "ballot": "single-member",
     "uikNumber": 2480,
     "uikTvd": "4664067244169",
+    "uikName": "УИК №2480",
     "tikTvd": "26620002596980",
     "tikName": "Серовская городская",
+    "regionCode": "66",
+    "regionTvd": "100100225883658",
+    "regionName": "Свердловская область",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 1285,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 950,
@@ -6629,15 +7897,15 @@ export const duma_2021_uik_463_region_66_part_009 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бородин Ярослав Викторович": 39,
-      "Даутов Габбас Фанзовиевич": 123,
-      "Калинин Дмитрий Григорьевич": 16,
-      "Коровкин Алексей Сергеевич": 85,
-      "Мельник Сергей Евгеньевич": 63,
-      "Мякишев Павел Викторович": 53,
-      "Рабинович Анатолий Евгеньевич": 19,
-      "Хвостов Валерий Владимирович": 5,
-      "Шипулин Антон Владимирович": 283
+      "4664067248316": 39,
+      "4664067248264": 123,
+      "4664067248554": 16,
+      "4664067247967": 85,
+      "4664067247999": 63,
+      "4664067247158": 53,
+      "4664067248514": 19,
+      "4664067248304": 5,
+      "4664067248131": 283
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/sverdlovsk?action=show&root=1000228&tvd=26620002596980&vrn=100100225883172&region=66&global=&sub_region=66&prver=0&pronetvd=null&vibid=26620002596980&type=464",
@@ -6647,6 +7915,10 @@ export const duma_2021_uik_463_region_66_part_009 = [
       "retrievedAt": "2026-08-26T08:06:41.345938+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/sverdlovsk?action=show&root=1000228&tvd=26620002596980&vrn=100100225883172&region=66&global=&sub_region=66&prver=0&pronetvd=null&vibid=26620002596980&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 174,
+      "oikTvd": "100100225883665"
     }
   },
   {
@@ -6656,8 +7928,12 @@ export const duma_2021_uik_463_region_66_part_009 = [
     "ballot": "single-member",
     "uikNumber": 2481,
     "uikTvd": "4664067244170",
+    "uikName": "УИК №2481",
     "tikTvd": "26620002596980",
     "tikName": "Серовская городская",
+    "regionCode": "66",
+    "regionTvd": "100100225883658",
+    "regionName": "Свердловская область",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 1208,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 900,
@@ -6673,15 +7949,15 @@ export const duma_2021_uik_463_region_66_part_009 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бородин Ярослав Викторович": 38,
-      "Даутов Габбас Фанзовиевич": 122,
-      "Калинин Дмитрий Григорьевич": 3,
-      "Коровкин Алексей Сергеевич": 70,
-      "Мельник Сергей Евгеньевич": 57,
-      "Мякишев Павел Викторович": 51,
-      "Рабинович Анатолий Евгеньевич": 13,
-      "Хвостов Валерий Владимирович": 3,
-      "Шипулин Антон Владимирович": 255
+      "4664067248316": 38,
+      "4664067248264": 122,
+      "4664067248554": 3,
+      "4664067247967": 70,
+      "4664067247999": 57,
+      "4664067247158": 51,
+      "4664067248514": 13,
+      "4664067248304": 3,
+      "4664067248131": 255
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/sverdlovsk?action=show&root=1000228&tvd=26620002596980&vrn=100100225883172&region=66&global=&sub_region=66&prver=0&pronetvd=null&vibid=26620002596980&type=464",
@@ -6691,6 +7967,10 @@ export const duma_2021_uik_463_region_66_part_009 = [
       "retrievedAt": "2026-08-26T08:06:41.345938+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/sverdlovsk?action=show&root=1000228&tvd=26620002596980&vrn=100100225883172&region=66&global=&sub_region=66&prver=0&pronetvd=null&vibid=26620002596980&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 174,
+      "oikTvd": "100100225883665"
     }
   },
   {
@@ -6700,8 +7980,12 @@ export const duma_2021_uik_463_region_66_part_009 = [
     "ballot": "single-member",
     "uikNumber": 2482,
     "uikTvd": "4664067244171",
+    "uikName": "УИК №2482",
     "tikTvd": "26620002596980",
     "tikName": "Серовская городская",
+    "regionCode": "66",
+    "regionTvd": "100100225883658",
+    "regionName": "Свердловская область",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 1219,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 900,
@@ -6717,15 +8001,15 @@ export const duma_2021_uik_463_region_66_part_009 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бородин Ярослав Викторович": 27,
-      "Даутов Габбас Фанзовиевич": 92,
-      "Калинин Дмитрий Григорьевич": 9,
-      "Коровкин Алексей Сергеевич": 50,
-      "Мельник Сергей Евгеньевич": 53,
-      "Мякишев Павел Викторович": 31,
-      "Рабинович Анатолий Евгеньевич": 14,
-      "Хвостов Валерий Владимирович": 6,
-      "Шипулин Антон Владимирович": 194
+      "4664067248316": 27,
+      "4664067248264": 92,
+      "4664067248554": 9,
+      "4664067247967": 50,
+      "4664067247999": 53,
+      "4664067247158": 31,
+      "4664067248514": 14,
+      "4664067248304": 6,
+      "4664067248131": 194
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/sverdlovsk?action=show&root=1000228&tvd=26620002596980&vrn=100100225883172&region=66&global=&sub_region=66&prver=0&pronetvd=null&vibid=26620002596980&type=464",
@@ -6735,6 +8019,10 @@ export const duma_2021_uik_463_region_66_part_009 = [
       "retrievedAt": "2026-08-26T08:06:41.345938+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/sverdlovsk?action=show&root=1000228&tvd=26620002596980&vrn=100100225883172&region=66&global=&sub_region=66&prver=0&pronetvd=null&vibid=26620002596980&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 174,
+      "oikTvd": "100100225883665"
     }
   },
   {
@@ -6744,8 +8032,12 @@ export const duma_2021_uik_463_region_66_part_009 = [
     "ballot": "single-member",
     "uikNumber": 2483,
     "uikTvd": "4664067244172",
+    "uikName": "УИК №2483",
     "tikTvd": "26620002596980",
     "tikName": "Серовская городская",
+    "regionCode": "66",
+    "regionTvd": "100100225883658",
+    "regionName": "Свердловская область",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 1371,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 1000,
@@ -6761,15 +8053,15 @@ export const duma_2021_uik_463_region_66_part_009 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бородин Ярослав Викторович": 44,
-      "Даутов Габбас Фанзовиевич": 96,
-      "Калинин Дмитрий Григорьевич": 13,
-      "Коровкин Алексей Сергеевич": 102,
-      "Мельник Сергей Евгеньевич": 55,
-      "Мякишев Павел Викторович": 69,
-      "Рабинович Анатолий Евгеньевич": 16,
-      "Хвостов Валерий Владимирович": 7,
-      "Шипулин Антон Владимирович": 278
+      "4664067248316": 44,
+      "4664067248264": 96,
+      "4664067248554": 13,
+      "4664067247967": 102,
+      "4664067247999": 55,
+      "4664067247158": 69,
+      "4664067248514": 16,
+      "4664067248304": 7,
+      "4664067248131": 278
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/sverdlovsk?action=show&root=1000228&tvd=26620002596980&vrn=100100225883172&region=66&global=&sub_region=66&prver=0&pronetvd=null&vibid=26620002596980&type=464",
@@ -6779,6 +8071,10 @@ export const duma_2021_uik_463_region_66_part_009 = [
       "retrievedAt": "2026-08-26T08:06:41.345938+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/sverdlovsk?action=show&root=1000228&tvd=26620002596980&vrn=100100225883172&region=66&global=&sub_region=66&prver=0&pronetvd=null&vibid=26620002596980&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 174,
+      "oikTvd": "100100225883665"
     }
   },
   {
@@ -6788,8 +8084,12 @@ export const duma_2021_uik_463_region_66_part_009 = [
     "ballot": "single-member",
     "uikNumber": 2484,
     "uikTvd": "4664067244173",
+    "uikName": "УИК №2484",
     "tikTvd": "26620002596980",
     "tikName": "Серовская городская",
+    "regionCode": "66",
+    "regionTvd": "100100225883658",
+    "regionName": "Свердловская область",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 1303,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 1000,
@@ -6805,15 +8105,15 @@ export const duma_2021_uik_463_region_66_part_009 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бородин Ярослав Викторович": 42,
-      "Даутов Габбас Фанзовиевич": 108,
-      "Калинин Дмитрий Григорьевич": 10,
-      "Коровкин Алексей Сергеевич": 98,
-      "Мельник Сергей Евгеньевич": 52,
-      "Мякишев Павел Викторович": 33,
-      "Рабинович Анатолий Евгеньевич": 22,
-      "Хвостов Валерий Владимирович": 5,
-      "Шипулин Антон Владимирович": 294
+      "4664067248316": 42,
+      "4664067248264": 108,
+      "4664067248554": 10,
+      "4664067247967": 98,
+      "4664067247999": 52,
+      "4664067247158": 33,
+      "4664067248514": 22,
+      "4664067248304": 5,
+      "4664067248131": 294
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/sverdlovsk?action=show&root=1000228&tvd=26620002596980&vrn=100100225883172&region=66&global=&sub_region=66&prver=0&pronetvd=null&vibid=26620002596980&type=464",
@@ -6823,6 +8123,10 @@ export const duma_2021_uik_463_region_66_part_009 = [
       "retrievedAt": "2026-08-26T08:06:41.345938+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/sverdlovsk?action=show&root=1000228&tvd=26620002596980&vrn=100100225883172&region=66&global=&sub_region=66&prver=0&pronetvd=null&vibid=26620002596980&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 174,
+      "oikTvd": "100100225883665"
     }
   },
   {
@@ -6832,8 +8136,12 @@ export const duma_2021_uik_463_region_66_part_009 = [
     "ballot": "single-member",
     "uikNumber": 2485,
     "uikTvd": "4664067244174",
+    "uikName": "УИК №2485",
     "tikTvd": "26620002596980",
     "tikName": "Серовская городская",
+    "regionCode": "66",
+    "regionTvd": "100100225883658",
+    "regionName": "Свердловская область",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 1361,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 850,
@@ -6849,15 +8157,15 @@ export const duma_2021_uik_463_region_66_part_009 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бородин Ярослав Викторович": 47,
-      "Даутов Габбас Фанзовиевич": 88,
-      "Калинин Дмитрий Григорьевич": 10,
-      "Коровкин Алексей Сергеевич": 102,
-      "Мельник Сергей Евгеньевич": 35,
-      "Мякишев Павел Викторович": 68,
-      "Рабинович Анатолий Евгеньевич": 17,
-      "Хвостов Валерий Владимирович": 6,
-      "Шипулин Антон Владимирович": 276
+      "4664067248316": 47,
+      "4664067248264": 88,
+      "4664067248554": 10,
+      "4664067247967": 102,
+      "4664067247999": 35,
+      "4664067247158": 68,
+      "4664067248514": 17,
+      "4664067248304": 6,
+      "4664067248131": 276
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/sverdlovsk?action=show&root=1000228&tvd=26620002596980&vrn=100100225883172&region=66&global=&sub_region=66&prver=0&pronetvd=null&vibid=26620002596980&type=464",
@@ -6867,6 +8175,10 @@ export const duma_2021_uik_463_region_66_part_009 = [
       "retrievedAt": "2026-08-26T08:06:41.345938+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/sverdlovsk?action=show&root=1000228&tvd=26620002596980&vrn=100100225883172&region=66&global=&sub_region=66&prver=0&pronetvd=null&vibid=26620002596980&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 174,
+      "oikTvd": "100100225883665"
     }
   },
   {
@@ -6876,8 +8188,12 @@ export const duma_2021_uik_463_region_66_part_009 = [
     "ballot": "single-member",
     "uikNumber": 2486,
     "uikTvd": "4664067244175",
+    "uikName": "УИК №2486",
     "tikTvd": "26620002596980",
     "tikName": "Серовская городская",
+    "regionCode": "66",
+    "regionTvd": "100100225883658",
+    "regionName": "Свердловская область",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 1182,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 850,
@@ -6893,15 +8209,15 @@ export const duma_2021_uik_463_region_66_part_009 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бородин Ярослав Викторович": 29,
-      "Даутов Габбас Фанзовиевич": 91,
-      "Калинин Дмитрий Григорьевич": 11,
-      "Коровкин Алексей Сергеевич": 79,
-      "Мельник Сергей Евгеньевич": 52,
-      "Мякишев Павел Викторович": 38,
-      "Рабинович Анатолий Евгеньевич": 21,
-      "Хвостов Валерий Владимирович": 3,
-      "Шипулин Антон Владимирович": 277
+      "4664067248316": 29,
+      "4664067248264": 91,
+      "4664067248554": 11,
+      "4664067247967": 79,
+      "4664067247999": 52,
+      "4664067247158": 38,
+      "4664067248514": 21,
+      "4664067248304": 3,
+      "4664067248131": 277
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/sverdlovsk?action=show&root=1000228&tvd=26620002596980&vrn=100100225883172&region=66&global=&sub_region=66&prver=0&pronetvd=null&vibid=26620002596980&type=464",
@@ -6911,6 +8227,10 @@ export const duma_2021_uik_463_region_66_part_009 = [
       "retrievedAt": "2026-08-26T08:06:41.345938+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/sverdlovsk?action=show&root=1000228&tvd=26620002596980&vrn=100100225883172&region=66&global=&sub_region=66&prver=0&pronetvd=null&vibid=26620002596980&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 174,
+      "oikTvd": "100100225883665"
     }
   },
   {
@@ -6920,8 +8240,12 @@ export const duma_2021_uik_463_region_66_part_009 = [
     "ballot": "single-member",
     "uikNumber": 2487,
     "uikTvd": "4664067244176",
+    "uikName": "УИК №2487",
     "tikTvd": "26620002596980",
     "tikName": "Серовская городская",
+    "regionCode": "66",
+    "regionTvd": "100100225883658",
+    "regionName": "Свердловская область",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 1077,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 800,
@@ -6937,15 +8261,15 @@ export const duma_2021_uik_463_region_66_part_009 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бородин Ярослав Викторович": 37,
-      "Даутов Габбас Фанзовиевич": 87,
-      "Калинин Дмитрий Григорьевич": 14,
-      "Коровкин Алексей Сергеевич": 83,
-      "Мельник Сергей Евгеньевич": 66,
-      "Мякишев Павел Викторович": 32,
-      "Рабинович Анатолий Евгеньевич": 11,
-      "Хвостов Валерий Владимирович": 5,
-      "Шипулин Антон Владимирович": 193
+      "4664067248316": 37,
+      "4664067248264": 87,
+      "4664067248554": 14,
+      "4664067247967": 83,
+      "4664067247999": 66,
+      "4664067247158": 32,
+      "4664067248514": 11,
+      "4664067248304": 5,
+      "4664067248131": 193
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/sverdlovsk?action=show&root=1000228&tvd=26620002596980&vrn=100100225883172&region=66&global=&sub_region=66&prver=0&pronetvd=null&vibid=26620002596980&type=464",
@@ -6955,6 +8279,10 @@ export const duma_2021_uik_463_region_66_part_009 = [
       "retrievedAt": "2026-08-26T08:06:41.345938+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/sverdlovsk?action=show&root=1000228&tvd=26620002596980&vrn=100100225883172&region=66&global=&sub_region=66&prver=0&pronetvd=null&vibid=26620002596980&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 174,
+      "oikTvd": "100100225883665"
     }
   },
   {
@@ -6964,8 +8292,12 @@ export const duma_2021_uik_463_region_66_part_009 = [
     "ballot": "single-member",
     "uikNumber": 2488,
     "uikTvd": "4664067244177",
+    "uikName": "УИК №2488",
     "tikTvd": "26620002596980",
     "tikName": "Серовская городская",
+    "regionCode": "66",
+    "regionTvd": "100100225883658",
+    "regionName": "Свердловская область",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 1494,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 1050,
@@ -6981,15 +8313,15 @@ export const duma_2021_uik_463_region_66_part_009 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бородин Ярослав Викторович": 46,
-      "Даутов Габбас Фанзовиевич": 134,
-      "Калинин Дмитрий Григорьевич": 16,
-      "Коровкин Алексей Сергеевич": 97,
-      "Мельник Сергей Евгеньевич": 60,
-      "Мякишев Павел Викторович": 46,
-      "Рабинович Анатолий Евгеньевич": 15,
-      "Хвостов Валерий Владимирович": 6,
-      "Шипулин Антон Владимирович": 298
+      "4664067248316": 46,
+      "4664067248264": 134,
+      "4664067248554": 16,
+      "4664067247967": 97,
+      "4664067247999": 60,
+      "4664067247158": 46,
+      "4664067248514": 15,
+      "4664067248304": 6,
+      "4664067248131": 298
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/sverdlovsk?action=show&root=1000228&tvd=26620002596980&vrn=100100225883172&region=66&global=&sub_region=66&prver=0&pronetvd=null&vibid=26620002596980&type=464",
@@ -6999,6 +8331,10 @@ export const duma_2021_uik_463_region_66_part_009 = [
       "retrievedAt": "2026-08-26T08:06:41.345938+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/sverdlovsk?action=show&root=1000228&tvd=26620002596980&vrn=100100225883172&region=66&global=&sub_region=66&prver=0&pronetvd=null&vibid=26620002596980&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 174,
+      "oikTvd": "100100225883665"
     }
   },
   {
@@ -7008,8 +8344,12 @@ export const duma_2021_uik_463_region_66_part_009 = [
     "ballot": "single-member",
     "uikNumber": 2489,
     "uikTvd": "4664067244178",
+    "uikName": "УИК №2489",
     "tikTvd": "26620002596980",
     "tikName": "Серовская городская",
+    "regionCode": "66",
+    "regionTvd": "100100225883658",
+    "regionName": "Свердловская область",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 1265,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 950,
@@ -7025,15 +8365,15 @@ export const duma_2021_uik_463_region_66_part_009 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бородин Ярослав Викторович": 43,
-      "Даутов Габбас Фанзовиевич": 125,
-      "Калинин Дмитрий Григорьевич": 13,
-      "Коровкин Алексей Сергеевич": 91,
-      "Мельник Сергей Евгеньевич": 61,
-      "Мякишев Павел Викторович": 34,
-      "Рабинович Анатолий Евгеньевич": 24,
-      "Хвостов Валерий Владимирович": 6,
-      "Шипулин Антон Владимирович": 271
+      "4664067248316": 43,
+      "4664067248264": 125,
+      "4664067248554": 13,
+      "4664067247967": 91,
+      "4664067247999": 61,
+      "4664067247158": 34,
+      "4664067248514": 24,
+      "4664067248304": 6,
+      "4664067248131": 271
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/sverdlovsk?action=show&root=1000228&tvd=26620002596980&vrn=100100225883172&region=66&global=&sub_region=66&prver=0&pronetvd=null&vibid=26620002596980&type=464",
@@ -7043,6 +8383,10 @@ export const duma_2021_uik_463_region_66_part_009 = [
       "retrievedAt": "2026-08-26T08:06:41.345938+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/sverdlovsk?action=show&root=1000228&tvd=26620002596980&vrn=100100225883172&region=66&global=&sub_region=66&prver=0&pronetvd=null&vibid=26620002596980&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 174,
+      "oikTvd": "100100225883665"
     }
   },
   {
@@ -7052,8 +8396,12 @@ export const duma_2021_uik_463_region_66_part_009 = [
     "ballot": "single-member",
     "uikNumber": 2490,
     "uikTvd": "4664067244179",
+    "uikName": "УИК №2490",
     "tikTvd": "26620002596980",
     "tikName": "Серовская городская",
+    "regionCode": "66",
+    "regionTvd": "100100225883658",
+    "regionName": "Свердловская область",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 1175,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 900,
@@ -7069,15 +8417,15 @@ export const duma_2021_uik_463_region_66_part_009 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бородин Ярослав Викторович": 42,
-      "Даутов Габбас Фанзовиевич": 112,
-      "Калинин Дмитрий Григорьевич": 12,
-      "Коровкин Алексей Сергеевич": 77,
-      "Мельник Сергей Евгеньевич": 55,
-      "Мякишев Павел Викторович": 46,
-      "Рабинович Анатолий Евгеньевич": 11,
-      "Хвостов Валерий Владимирович": 2,
-      "Шипулин Антон Владимирович": 258
+      "4664067248316": 42,
+      "4664067248264": 112,
+      "4664067248554": 12,
+      "4664067247967": 77,
+      "4664067247999": 55,
+      "4664067247158": 46,
+      "4664067248514": 11,
+      "4664067248304": 2,
+      "4664067248131": 258
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/sverdlovsk?action=show&root=1000228&tvd=26620002596980&vrn=100100225883172&region=66&global=&sub_region=66&prver=0&pronetvd=null&vibid=26620002596980&type=464",
@@ -7087,6 +8435,10 @@ export const duma_2021_uik_463_region_66_part_009 = [
       "retrievedAt": "2026-08-26T08:06:41.345938+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/sverdlovsk?action=show&root=1000228&tvd=26620002596980&vrn=100100225883172&region=66&global=&sub_region=66&prver=0&pronetvd=null&vibid=26620002596980&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 174,
+      "oikTvd": "100100225883665"
     }
   },
   {
@@ -7096,8 +8448,12 @@ export const duma_2021_uik_463_region_66_part_009 = [
     "ballot": "single-member",
     "uikNumber": 2491,
     "uikTvd": "4664067244180",
+    "uikName": "УИК №2491",
     "tikTvd": "26620002596980",
     "tikName": "Серовская городская",
+    "regionCode": "66",
+    "regionTvd": "100100225883658",
+    "regionName": "Свердловская область",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 1199,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 900,
@@ -7113,15 +8469,15 @@ export const duma_2021_uik_463_region_66_part_009 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бородин Ярослав Викторович": 32,
-      "Даутов Габбас Фанзовиевич": 93,
-      "Калинин Дмитрий Григорьевич": 11,
-      "Коровкин Алексей Сергеевич": 101,
-      "Мельник Сергей Евгеньевич": 60,
-      "Мякишев Павел Викторович": 29,
-      "Рабинович Анатолий Евгеньевич": 18,
-      "Хвостов Валерий Владимирович": 5,
-      "Шипулин Антон Владимирович": 290
+      "4664067248316": 32,
+      "4664067248264": 93,
+      "4664067248554": 11,
+      "4664067247967": 101,
+      "4664067247999": 60,
+      "4664067247158": 29,
+      "4664067248514": 18,
+      "4664067248304": 5,
+      "4664067248131": 290
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/sverdlovsk?action=show&root=1000228&tvd=26620002596980&vrn=100100225883172&region=66&global=&sub_region=66&prver=0&pronetvd=null&vibid=26620002596980&type=464",
@@ -7131,6 +8487,10 @@ export const duma_2021_uik_463_region_66_part_009 = [
       "retrievedAt": "2026-08-26T08:06:41.345938+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/sverdlovsk?action=show&root=1000228&tvd=26620002596980&vrn=100100225883172&region=66&global=&sub_region=66&prver=0&pronetvd=null&vibid=26620002596980&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 174,
+      "oikTvd": "100100225883665"
     }
   },
   {
@@ -7140,8 +8500,12 @@ export const duma_2021_uik_463_region_66_part_009 = [
     "ballot": "single-member",
     "uikNumber": 2492,
     "uikTvd": "4664067244181",
+    "uikName": "УИК №2492",
     "tikTvd": "26620002596980",
     "tikName": "Серовская городская",
+    "regionCode": "66",
+    "regionTvd": "100100225883658",
+    "regionName": "Свердловская область",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 1669,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 1150,
@@ -7157,15 +8521,15 @@ export const duma_2021_uik_463_region_66_part_009 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бородин Ярослав Викторович": 32,
-      "Даутов Габбас Фанзовиевич": 88,
-      "Калинин Дмитрий Григорьевич": 11,
-      "Коровкин Алексей Сергеевич": 91,
-      "Мельник Сергей Евгеньевич": 53,
-      "Мякишев Павел Викторович": 65,
-      "Рабинович Анатолий Евгеньевич": 20,
-      "Хвостов Валерий Владимирович": 2,
-      "Шипулин Антон Владимирович": 231
+      "4664067248316": 32,
+      "4664067248264": 88,
+      "4664067248554": 11,
+      "4664067247967": 91,
+      "4664067247999": 53,
+      "4664067247158": 65,
+      "4664067248514": 20,
+      "4664067248304": 2,
+      "4664067248131": 231
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/sverdlovsk?action=show&root=1000228&tvd=26620002596980&vrn=100100225883172&region=66&global=&sub_region=66&prver=0&pronetvd=null&vibid=26620002596980&type=464",
@@ -7175,6 +8539,10 @@ export const duma_2021_uik_463_region_66_part_009 = [
       "retrievedAt": "2026-08-26T08:06:41.345938+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/sverdlovsk?action=show&root=1000228&tvd=26620002596980&vrn=100100225883172&region=66&global=&sub_region=66&prver=0&pronetvd=null&vibid=26620002596980&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 174,
+      "oikTvd": "100100225883665"
     }
   },
   {
@@ -7184,8 +8552,12 @@ export const duma_2021_uik_463_region_66_part_009 = [
     "ballot": "single-member",
     "uikNumber": 2493,
     "uikTvd": "4664067244182",
+    "uikName": "УИК №2493",
     "tikTvd": "26620002596980",
     "tikName": "Серовская городская",
+    "regionCode": "66",
+    "regionTvd": "100100225883658",
+    "regionName": "Свердловская область",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 1462,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 1000,
@@ -7201,15 +8573,15 @@ export const duma_2021_uik_463_region_66_part_009 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бородин Ярослав Викторович": 50,
-      "Даутов Габбас Фанзовиевич": 142,
-      "Калинин Дмитрий Григорьевич": 16,
-      "Коровкин Алексей Сергеевич": 99,
-      "Мельник Сергей Евгеньевич": 66,
-      "Мякишев Павел Викторович": 48,
-      "Рабинович Анатолий Евгеньевич": 19,
-      "Хвостов Валерий Владимирович": 8,
-      "Шипулин Антон Владимирович": 322
+      "4664067248316": 50,
+      "4664067248264": 142,
+      "4664067248554": 16,
+      "4664067247967": 99,
+      "4664067247999": 66,
+      "4664067247158": 48,
+      "4664067248514": 19,
+      "4664067248304": 8,
+      "4664067248131": 322
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/sverdlovsk?action=show&root=1000228&tvd=26620002596980&vrn=100100225883172&region=66&global=&sub_region=66&prver=0&pronetvd=null&vibid=26620002596980&type=464",
@@ -7219,6 +8591,10 @@ export const duma_2021_uik_463_region_66_part_009 = [
       "retrievedAt": "2026-08-26T08:06:41.345938+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/sverdlovsk?action=show&root=1000228&tvd=26620002596980&vrn=100100225883172&region=66&global=&sub_region=66&prver=0&pronetvd=null&vibid=26620002596980&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 174,
+      "oikTvd": "100100225883665"
     }
   },
   {
@@ -7228,8 +8604,12 @@ export const duma_2021_uik_463_region_66_part_009 = [
     "ballot": "single-member",
     "uikNumber": 2494,
     "uikTvd": "4664067244183",
+    "uikName": "УИК №2494",
     "tikTvd": "26620002596980",
     "tikName": "Серовская городская",
+    "regionCode": "66",
+    "regionTvd": "100100225883658",
+    "regionName": "Свердловская область",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 1228,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 900,
@@ -7245,15 +8625,15 @@ export const duma_2021_uik_463_region_66_part_009 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бородин Ярослав Викторович": 29,
-      "Даутов Габбас Фанзовиевич": 88,
-      "Калинин Дмитрий Григорьевич": 5,
-      "Коровкин Алексей Сергеевич": 76,
-      "Мельник Сергей Евгеньевич": 41,
-      "Мякишев Павел Викторович": 48,
-      "Рабинович Анатолий Евгеньевич": 18,
-      "Хвостов Валерий Владимирович": 2,
-      "Шипулин Антон Владимирович": 261
+      "4664067248316": 29,
+      "4664067248264": 88,
+      "4664067248554": 5,
+      "4664067247967": 76,
+      "4664067247999": 41,
+      "4664067247158": 48,
+      "4664067248514": 18,
+      "4664067248304": 2,
+      "4664067248131": 261
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/sverdlovsk?action=show&root=1000228&tvd=26620002596980&vrn=100100225883172&region=66&global=&sub_region=66&prver=0&pronetvd=null&vibid=26620002596980&type=464",
@@ -7263,6 +8643,10 @@ export const duma_2021_uik_463_region_66_part_009 = [
       "retrievedAt": "2026-08-26T08:06:41.345938+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/sverdlovsk?action=show&root=1000228&tvd=26620002596980&vrn=100100225883172&region=66&global=&sub_region=66&prver=0&pronetvd=null&vibid=26620002596980&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 174,
+      "oikTvd": "100100225883665"
     }
   },
   {
@@ -7272,8 +8656,12 @@ export const duma_2021_uik_463_region_66_part_009 = [
     "ballot": "single-member",
     "uikNumber": 2495,
     "uikTvd": "4664067244184",
+    "uikName": "УИК №2495",
     "tikTvd": "26620002596980",
     "tikName": "Серовская городская",
+    "regionCode": "66",
+    "regionTvd": "100100225883658",
+    "regionName": "Свердловская область",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 1691,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 1250,
@@ -7289,15 +8677,15 @@ export const duma_2021_uik_463_region_66_part_009 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бородин Ярослав Викторович": 54,
-      "Даутов Габбас Фанзовиевич": 155,
-      "Калинин Дмитрий Григорьевич": 7,
-      "Коровкин Алексей Сергеевич": 113,
-      "Мельник Сергей Евгеньевич": 69,
-      "Мякишев Павел Викторович": 56,
-      "Рабинович Анатолий Евгеньевич": 24,
-      "Хвостов Валерий Владимирович": 5,
-      "Шипулин Антон Владимирович": 341
+      "4664067248316": 54,
+      "4664067248264": 155,
+      "4664067248554": 7,
+      "4664067247967": 113,
+      "4664067247999": 69,
+      "4664067247158": 56,
+      "4664067248514": 24,
+      "4664067248304": 5,
+      "4664067248131": 341
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/sverdlovsk?action=show&root=1000228&tvd=26620002596980&vrn=100100225883172&region=66&global=&sub_region=66&prver=0&pronetvd=null&vibid=26620002596980&type=464",
@@ -7307,6 +8695,10 @@ export const duma_2021_uik_463_region_66_part_009 = [
       "retrievedAt": "2026-08-26T08:06:41.345938+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/sverdlovsk?action=show&root=1000228&tvd=26620002596980&vrn=100100225883172&region=66&global=&sub_region=66&prver=0&pronetvd=null&vibid=26620002596980&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 174,
+      "oikTvd": "100100225883665"
     }
   },
   {
@@ -7316,8 +8708,12 @@ export const duma_2021_uik_463_region_66_part_009 = [
     "ballot": "single-member",
     "uikNumber": 2496,
     "uikTvd": "4664067244185",
+    "uikName": "УИК №2496",
     "tikTvd": "26620002596980",
     "tikName": "Серовская городская",
+    "regionCode": "66",
+    "regionTvd": "100100225883658",
+    "regionName": "Свердловская область",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 939,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 700,
@@ -7333,15 +8729,15 @@ export const duma_2021_uik_463_region_66_part_009 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бородин Ярослав Викторович": 37,
-      "Даутов Габбас Фанзовиевич": 75,
-      "Калинин Дмитрий Григорьевич": 10,
-      "Коровкин Алексей Сергеевич": 48,
-      "Мельник Сергей Евгеньевич": 42,
-      "Мякишев Павел Викторович": 36,
-      "Рабинович Анатолий Евгеньевич": 11,
-      "Хвостов Валерий Владимирович": 2,
-      "Шипулин Антон Владимирович": 232
+      "4664067248316": 37,
+      "4664067248264": 75,
+      "4664067248554": 10,
+      "4664067247967": 48,
+      "4664067247999": 42,
+      "4664067247158": 36,
+      "4664067248514": 11,
+      "4664067248304": 2,
+      "4664067248131": 232
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/sverdlovsk?action=show&root=1000228&tvd=26620002596980&vrn=100100225883172&region=66&global=&sub_region=66&prver=0&pronetvd=null&vibid=26620002596980&type=464",
@@ -7351,6 +8747,10 @@ export const duma_2021_uik_463_region_66_part_009 = [
       "retrievedAt": "2026-08-26T08:06:41.345938+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/sverdlovsk?action=show&root=1000228&tvd=26620002596980&vrn=100100225883172&region=66&global=&sub_region=66&prver=0&pronetvd=null&vibid=26620002596980&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 174,
+      "oikTvd": "100100225883665"
     }
   },
   {
@@ -7360,8 +8760,12 @@ export const duma_2021_uik_463_region_66_part_009 = [
     "ballot": "single-member",
     "uikNumber": 2497,
     "uikTvd": "4664067244186",
+    "uikName": "УИК №2497",
     "tikTvd": "26620002596980",
     "tikName": "Серовская городская",
+    "regionCode": "66",
+    "regionTvd": "100100225883658",
+    "regionName": "Свердловская область",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 1892,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 1400,
@@ -7377,15 +8781,15 @@ export const duma_2021_uik_463_region_66_part_009 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бородин Ярослав Викторович": 60,
-      "Даутов Габбас Фанзовиевич": 163,
-      "Калинин Дмитрий Григорьевич": 16,
-      "Коровкин Алексей Сергеевич": 128,
-      "Мельник Сергей Евгеньевич": 99,
-      "Мякишев Павел Викторович": 63,
-      "Рабинович Анатолий Евгеньевич": 22,
-      "Хвостов Валерий Владимирович": 5,
-      "Шипулин Антон Владимирович": 363
+      "4664067248316": 60,
+      "4664067248264": 163,
+      "4664067248554": 16,
+      "4664067247967": 128,
+      "4664067247999": 99,
+      "4664067247158": 63,
+      "4664067248514": 22,
+      "4664067248304": 5,
+      "4664067248131": 363
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/sverdlovsk?action=show&root=1000228&tvd=26620002596980&vrn=100100225883172&region=66&global=&sub_region=66&prver=0&pronetvd=null&vibid=26620002596980&type=464",
@@ -7395,6 +8799,10 @@ export const duma_2021_uik_463_region_66_part_009 = [
       "retrievedAt": "2026-08-26T08:06:41.345938+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/sverdlovsk?action=show&root=1000228&tvd=26620002596980&vrn=100100225883172&region=66&global=&sub_region=66&prver=0&pronetvd=null&vibid=26620002596980&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 174,
+      "oikTvd": "100100225883665"
     }
   },
   {
@@ -7404,8 +8812,12 @@ export const duma_2021_uik_463_region_66_part_009 = [
     "ballot": "single-member",
     "uikNumber": 2498,
     "uikTvd": "4664067244187",
+    "uikName": "УИК №2498",
     "tikTvd": "26620002596980",
     "tikName": "Серовская городская",
+    "regionCode": "66",
+    "regionTvd": "100100225883658",
+    "regionName": "Свердловская область",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 1888,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 1400,
@@ -7421,15 +8833,15 @@ export const duma_2021_uik_463_region_66_part_009 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бородин Ярослав Викторович": 56,
-      "Даутов Габбас Фанзовиевич": 162,
-      "Калинин Дмитрий Григорьевич": 14,
-      "Коровкин Алексей Сергеевич": 121,
-      "Мельник Сергей Евгеньевич": 83,
-      "Мякишев Павел Викторович": 83,
-      "Рабинович Анатолий Евгеньевич": 29,
-      "Хвостов Валерий Владимирович": 3,
-      "Шипулин Антон Владимирович": 289
+      "4664067248316": 56,
+      "4664067248264": 162,
+      "4664067248554": 14,
+      "4664067247967": 121,
+      "4664067247999": 83,
+      "4664067247158": 83,
+      "4664067248514": 29,
+      "4664067248304": 3,
+      "4664067248131": 289
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/sverdlovsk?action=show&root=1000228&tvd=26620002596980&vrn=100100225883172&region=66&global=&sub_region=66&prver=0&pronetvd=null&vibid=26620002596980&type=464",
@@ -7439,6 +8851,10 @@ export const duma_2021_uik_463_region_66_part_009 = [
       "retrievedAt": "2026-08-26T08:06:41.345938+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/sverdlovsk?action=show&root=1000228&tvd=26620002596980&vrn=100100225883172&region=66&global=&sub_region=66&prver=0&pronetvd=null&vibid=26620002596980&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 174,
+      "oikTvd": "100100225883665"
     }
   },
   {
@@ -7448,8 +8864,12 @@ export const duma_2021_uik_463_region_66_part_009 = [
     "ballot": "single-member",
     "uikNumber": 2499,
     "uikTvd": "4664067244188",
+    "uikName": "УИК №2499",
     "tikTvd": "26620002596980",
     "tikName": "Серовская городская",
+    "regionCode": "66",
+    "regionTvd": "100100225883658",
+    "regionName": "Свердловская область",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 1346,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 1000,
@@ -7465,15 +8885,15 @@ export const duma_2021_uik_463_region_66_part_009 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бородин Ярослав Викторович": 38,
-      "Даутов Габбас Фанзовиевич": 121,
-      "Калинин Дмитрий Григорьевич": 10,
-      "Коровкин Алексей Сергеевич": 59,
-      "Мельник Сергей Евгеньевич": 49,
-      "Мякишев Павел Викторович": 39,
-      "Рабинович Анатолий Евгеньевич": 20,
-      "Хвостов Валерий Владимирович": 3,
-      "Шипулин Антон Владимирович": 201
+      "4664067248316": 38,
+      "4664067248264": 121,
+      "4664067248554": 10,
+      "4664067247967": 59,
+      "4664067247999": 49,
+      "4664067247158": 39,
+      "4664067248514": 20,
+      "4664067248304": 3,
+      "4664067248131": 201
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/sverdlovsk?action=show&root=1000228&tvd=26620002596980&vrn=100100225883172&region=66&global=&sub_region=66&prver=0&pronetvd=null&vibid=26620002596980&type=464",
@@ -7483,6 +8903,10 @@ export const duma_2021_uik_463_region_66_part_009 = [
       "retrievedAt": "2026-08-26T08:06:41.345938+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/sverdlovsk?action=show&root=1000228&tvd=26620002596980&vrn=100100225883172&region=66&global=&sub_region=66&prver=0&pronetvd=null&vibid=26620002596980&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 174,
+      "oikTvd": "100100225883665"
     }
   },
   {
@@ -7492,8 +8916,12 @@ export const duma_2021_uik_463_region_66_part_009 = [
     "ballot": "single-member",
     "uikNumber": 2500,
     "uikTvd": "4664067244189",
+    "uikName": "УИК №2500",
     "tikTvd": "26620002596980",
     "tikName": "Серовская городская",
+    "regionCode": "66",
+    "regionTvd": "100100225883658",
+    "regionName": "Свердловская область",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 1911,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 1400,
@@ -7509,15 +8937,15 @@ export const duma_2021_uik_463_region_66_part_009 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бородин Ярослав Викторович": 53,
-      "Даутов Габбас Фанзовиевич": 186,
-      "Калинин Дмитрий Григорьевич": 21,
-      "Коровкин Алексей Сергеевич": 127,
-      "Мельник Сергей Евгеньевич": 75,
-      "Мякишев Павел Викторович": 65,
-      "Рабинович Анатолий Евгеньевич": 24,
-      "Хвостов Валерий Владимирович": 10,
-      "Шипулин Антон Владимирович": 297
+      "4664067248316": 53,
+      "4664067248264": 186,
+      "4664067248554": 21,
+      "4664067247967": 127,
+      "4664067247999": 75,
+      "4664067247158": 65,
+      "4664067248514": 24,
+      "4664067248304": 10,
+      "4664067248131": 297
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/sverdlovsk?action=show&root=1000228&tvd=26620002596980&vrn=100100225883172&region=66&global=&sub_region=66&prver=0&pronetvd=null&vibid=26620002596980&type=464",
@@ -7527,6 +8955,10 @@ export const duma_2021_uik_463_region_66_part_009 = [
       "retrievedAt": "2026-08-26T08:06:41.345938+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/sverdlovsk?action=show&root=1000228&tvd=26620002596980&vrn=100100225883172&region=66&global=&sub_region=66&prver=0&pronetvd=null&vibid=26620002596980&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 174,
+      "oikTvd": "100100225883665"
     }
   },
   {
@@ -7536,8 +8968,12 @@ export const duma_2021_uik_463_region_66_part_009 = [
     "ballot": "single-member",
     "uikNumber": 2501,
     "uikTvd": "4664067244190",
+    "uikName": "УИК №2501",
     "tikTvd": "26620002596980",
     "tikName": "Серовская городская",
+    "regionCode": "66",
+    "regionTvd": "100100225883658",
+    "regionName": "Свердловская область",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 1417,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 1050,
@@ -7553,15 +8989,15 @@ export const duma_2021_uik_463_region_66_part_009 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бородин Ярослав Викторович": 30,
-      "Даутов Габбас Фанзовиевич": 116,
-      "Калинин Дмитрий Григорьевич": 12,
-      "Коровкин Алексей Сергеевич": 47,
-      "Мельник Сергей Евгеньевич": 40,
-      "Мякишев Павел Викторович": 52,
-      "Рабинович Анатолий Евгеньевич": 20,
-      "Хвостов Валерий Владимирович": 4,
-      "Шипулин Антон Владимирович": 173
+      "4664067248316": 30,
+      "4664067248264": 116,
+      "4664067248554": 12,
+      "4664067247967": 47,
+      "4664067247999": 40,
+      "4664067247158": 52,
+      "4664067248514": 20,
+      "4664067248304": 4,
+      "4664067248131": 173
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/sverdlovsk?action=show&root=1000228&tvd=26620002596980&vrn=100100225883172&region=66&global=&sub_region=66&prver=0&pronetvd=null&vibid=26620002596980&type=464",
@@ -7571,6 +9007,10 @@ export const duma_2021_uik_463_region_66_part_009 = [
       "retrievedAt": "2026-08-26T08:06:41.345938+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/sverdlovsk?action=show&root=1000228&tvd=26620002596980&vrn=100100225883172&region=66&global=&sub_region=66&prver=0&pronetvd=null&vibid=26620002596980&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 174,
+      "oikTvd": "100100225883665"
     }
   },
   {
@@ -7580,8 +9020,12 @@ export const duma_2021_uik_463_region_66_part_009 = [
     "ballot": "single-member",
     "uikNumber": 2502,
     "uikTvd": "4664067244191",
+    "uikName": "УИК №2502",
     "tikTvd": "26620002596980",
     "tikName": "Серовская городская",
+    "regionCode": "66",
+    "regionTvd": "100100225883658",
+    "regionName": "Свердловская область",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 1535,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 1150,
@@ -7597,15 +9041,15 @@ export const duma_2021_uik_463_region_66_part_009 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бородин Ярослав Викторович": 49,
-      "Даутов Габбас Фанзовиевич": 117,
-      "Калинин Дмитрий Григорьевич": 18,
-      "Коровкин Алексей Сергеевич": 69,
-      "Мельник Сергей Евгеньевич": 48,
-      "Мякишев Павел Викторович": 49,
-      "Рабинович Анатолий Евгеньевич": 15,
-      "Хвостов Валерий Владимирович": 3,
-      "Шипулин Антон Владимирович": 226
+      "4664067248316": 49,
+      "4664067248264": 117,
+      "4664067248554": 18,
+      "4664067247967": 69,
+      "4664067247999": 48,
+      "4664067247158": 49,
+      "4664067248514": 15,
+      "4664067248304": 3,
+      "4664067248131": 226
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/sverdlovsk?action=show&root=1000228&tvd=26620002596980&vrn=100100225883172&region=66&global=&sub_region=66&prver=0&pronetvd=null&vibid=26620002596980&type=464",
@@ -7615,6 +9059,10 @@ export const duma_2021_uik_463_region_66_part_009 = [
       "retrievedAt": "2026-08-26T08:06:41.345938+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/sverdlovsk?action=show&root=1000228&tvd=26620002596980&vrn=100100225883172&region=66&global=&sub_region=66&prver=0&pronetvd=null&vibid=26620002596980&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 174,
+      "oikTvd": "100100225883665"
     }
   },
   {
@@ -7624,8 +9072,12 @@ export const duma_2021_uik_463_region_66_part_009 = [
     "ballot": "single-member",
     "uikNumber": 2503,
     "uikTvd": "4664067244192",
+    "uikName": "УИК №2503",
     "tikTvd": "26620002596980",
     "tikName": "Серовская городская",
+    "regionCode": "66",
+    "regionTvd": "100100225883658",
+    "regionName": "Свердловская область",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 680,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 500,
@@ -7641,15 +9093,15 @@ export const duma_2021_uik_463_region_66_part_009 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бородин Ярослав Викторович": 13,
-      "Даутов Габбас Фанзовиевич": 44,
-      "Калинин Дмитрий Григорьевич": 5,
-      "Коровкин Алексей Сергеевич": 41,
-      "Мельник Сергей Евгеньевич": 34,
-      "Мякишев Павел Викторович": 26,
-      "Рабинович Анатолий Евгеньевич": 11,
-      "Хвостов Валерий Владимирович": 2,
-      "Шипулин Антон Владимирович": 107
+      "4664067248316": 13,
+      "4664067248264": 44,
+      "4664067248554": 5,
+      "4664067247967": 41,
+      "4664067247999": 34,
+      "4664067247158": 26,
+      "4664067248514": 11,
+      "4664067248304": 2,
+      "4664067248131": 107
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/sverdlovsk?action=show&root=1000228&tvd=26620002596980&vrn=100100225883172&region=66&global=&sub_region=66&prver=0&pronetvd=null&vibid=26620002596980&type=464",
@@ -7659,6 +9111,10 @@ export const duma_2021_uik_463_region_66_part_009 = [
       "retrievedAt": "2026-08-26T08:06:41.345938+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/sverdlovsk?action=show&root=1000228&tvd=26620002596980&vrn=100100225883172&region=66&global=&sub_region=66&prver=0&pronetvd=null&vibid=26620002596980&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 174,
+      "oikTvd": "100100225883665"
     }
   },
   {
@@ -7668,8 +9124,12 @@ export const duma_2021_uik_463_region_66_part_009 = [
     "ballot": "single-member",
     "uikNumber": 2504,
     "uikTvd": "4664067244193",
+    "uikName": "УИК №2504",
     "tikTvd": "26620002596980",
     "tikName": "Серовская городская",
+    "regionCode": "66",
+    "regionTvd": "100100225883658",
+    "regionName": "Свердловская область",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 1283,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 950,
@@ -7685,15 +9145,15 @@ export const duma_2021_uik_463_region_66_part_009 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бородин Ярослав Викторович": 23,
-      "Даутов Габбас Фанзовиевич": 80,
-      "Калинин Дмитрий Григорьевич": 11,
-      "Коровкин Алексей Сергеевич": 58,
-      "Мельник Сергей Евгеньевич": 48,
-      "Мякишев Павел Викторович": 48,
-      "Рабинович Анатолий Евгеньевич": 13,
-      "Хвостов Валерий Владимирович": 4,
-      "Шипулин Антон Владимирович": 151
+      "4664067248316": 23,
+      "4664067248264": 80,
+      "4664067248554": 11,
+      "4664067247967": 58,
+      "4664067247999": 48,
+      "4664067247158": 48,
+      "4664067248514": 13,
+      "4664067248304": 4,
+      "4664067248131": 151
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/sverdlovsk?action=show&root=1000228&tvd=26620002596980&vrn=100100225883172&region=66&global=&sub_region=66&prver=0&pronetvd=null&vibid=26620002596980&type=464",
@@ -7703,6 +9163,10 @@ export const duma_2021_uik_463_region_66_part_009 = [
       "retrievedAt": "2026-08-26T08:06:41.345938+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/sverdlovsk?action=show&root=1000228&tvd=26620002596980&vrn=100100225883172&region=66&global=&sub_region=66&prver=0&pronetvd=null&vibid=26620002596980&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 174,
+      "oikTvd": "100100225883665"
     }
   },
   {
@@ -7712,8 +9176,12 @@ export const duma_2021_uik_463_region_66_part_009 = [
     "ballot": "single-member",
     "uikNumber": 2505,
     "uikTvd": "4664067244194",
+    "uikName": "УИК №2505",
     "tikTvd": "26620002596980",
     "tikName": "Серовская городская",
+    "regionCode": "66",
+    "regionTvd": "100100225883658",
+    "regionName": "Свердловская область",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 688,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 500,
@@ -7729,15 +9197,15 @@ export const duma_2021_uik_463_region_66_part_009 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бородин Ярослав Викторович": 17,
-      "Даутов Габбас Фанзовиевич": 47,
-      "Калинин Дмитрий Григорьевич": 5,
-      "Коровкин Алексей Сергеевич": 34,
-      "Мельник Сергей Евгеньевич": 23,
-      "Мякишев Павел Викторович": 19,
-      "Рабинович Анатолий Евгеньевич": 5,
-      "Хвостов Валерий Владимирович": 3,
-      "Шипулин Антон Владимирович": 104
+      "4664067248316": 17,
+      "4664067248264": 47,
+      "4664067248554": 5,
+      "4664067247967": 34,
+      "4664067247999": 23,
+      "4664067247158": 19,
+      "4664067248514": 5,
+      "4664067248304": 3,
+      "4664067248131": 104
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/sverdlovsk?action=show&root=1000228&tvd=26620002596980&vrn=100100225883172&region=66&global=&sub_region=66&prver=0&pronetvd=null&vibid=26620002596980&type=464",
@@ -7747,6 +9215,10 @@ export const duma_2021_uik_463_region_66_part_009 = [
       "retrievedAt": "2026-08-26T08:06:41.345938+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/sverdlovsk?action=show&root=1000228&tvd=26620002596980&vrn=100100225883172&region=66&global=&sub_region=66&prver=0&pronetvd=null&vibid=26620002596980&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 174,
+      "oikTvd": "100100225883665"
     }
   },
   {
@@ -7756,8 +9228,12 @@ export const duma_2021_uik_463_region_66_part_009 = [
     "ballot": "single-member",
     "uikNumber": 2506,
     "uikTvd": "4664067244195",
+    "uikName": "УИК №2506",
     "tikTvd": "26620002596980",
     "tikName": "Серовская городская",
+    "regionCode": "66",
+    "regionTvd": "100100225883658",
+    "regionName": "Свердловская область",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 1075,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 800,
@@ -7773,15 +9249,15 @@ export const duma_2021_uik_463_region_66_part_009 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бородин Ярослав Викторович": 27,
-      "Даутов Габбас Фанзовиевич": 87,
-      "Калинин Дмитрий Григорьевич": 17,
-      "Коровкин Алексей Сергеевич": 67,
-      "Мельник Сергей Евгеньевич": 31,
-      "Мякишев Павел Викторович": 43,
-      "Рабинович Анатолий Евгеньевич": 12,
-      "Хвостов Валерий Владимирович": 7,
-      "Шипулин Антон Владимирович": 166
+      "4664067248316": 27,
+      "4664067248264": 87,
+      "4664067248554": 17,
+      "4664067247967": 67,
+      "4664067247999": 31,
+      "4664067247158": 43,
+      "4664067248514": 12,
+      "4664067248304": 7,
+      "4664067248131": 166
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/sverdlovsk?action=show&root=1000228&tvd=26620002596980&vrn=100100225883172&region=66&global=&sub_region=66&prver=0&pronetvd=null&vibid=26620002596980&type=464",
@@ -7791,6 +9267,10 @@ export const duma_2021_uik_463_region_66_part_009 = [
       "retrievedAt": "2026-08-26T08:06:41.345938+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/sverdlovsk?action=show&root=1000228&tvd=26620002596980&vrn=100100225883172&region=66&global=&sub_region=66&prver=0&pronetvd=null&vibid=26620002596980&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 174,
+      "oikTvd": "100100225883665"
     }
   },
   {
@@ -7800,8 +9280,12 @@ export const duma_2021_uik_463_region_66_part_009 = [
     "ballot": "single-member",
     "uikNumber": 2507,
     "uikTvd": "4664067244196",
+    "uikName": "УИК №2507",
     "tikTvd": "26620002596980",
     "tikName": "Серовская городская",
+    "regionCode": "66",
+    "regionTvd": "100100225883658",
+    "regionName": "Свердловская область",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 419,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 300,
@@ -7817,15 +9301,15 @@ export const duma_2021_uik_463_region_66_part_009 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бородин Ярослав Викторович": 7,
-      "Даутов Габбас Фанзовиевич": 27,
-      "Калинин Дмитрий Григорьевич": 5,
-      "Коровкин Алексей Сергеевич": 25,
-      "Мельник Сергей Евгеньевич": 14,
-      "Мякишев Павел Викторович": 11,
-      "Рабинович Анатолий Евгеньевич": 4,
-      "Хвостов Валерий Владимирович": 1,
-      "Шипулин Антон Владимирович": 120
+      "4664067248316": 7,
+      "4664067248264": 27,
+      "4664067248554": 5,
+      "4664067247967": 25,
+      "4664067247999": 14,
+      "4664067247158": 11,
+      "4664067248514": 4,
+      "4664067248304": 1,
+      "4664067248131": 120
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/sverdlovsk?action=show&root=1000228&tvd=26620002596980&vrn=100100225883172&region=66&global=&sub_region=66&prver=0&pronetvd=null&vibid=26620002596980&type=464",
@@ -7835,6 +9319,10 @@ export const duma_2021_uik_463_region_66_part_009 = [
       "retrievedAt": "2026-08-26T08:06:41.345938+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/sverdlovsk?action=show&root=1000228&tvd=26620002596980&vrn=100100225883172&region=66&global=&sub_region=66&prver=0&pronetvd=null&vibid=26620002596980&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 174,
+      "oikTvd": "100100225883665"
     }
   },
   {
@@ -7844,8 +9332,12 @@ export const duma_2021_uik_463_region_66_part_009 = [
     "ballot": "single-member",
     "uikNumber": 2508,
     "uikTvd": "4664067244197",
+    "uikName": "УИК №2508",
     "tikTvd": "26620002596980",
     "tikName": "Серовская городская",
+    "regionCode": "66",
+    "regionTvd": "100100225883658",
+    "regionName": "Свердловская область",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 1696,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 1250,
@@ -7861,15 +9353,15 @@ export const duma_2021_uik_463_region_66_part_009 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бородин Ярослав Викторович": 46,
-      "Даутов Габбас Фанзовиевич": 103,
-      "Калинин Дмитрий Григорьевич": 13,
-      "Коровкин Алексей Сергеевич": 105,
-      "Мельник Сергей Евгеньевич": 69,
-      "Мякишев Павел Викторович": 89,
-      "Рабинович Анатолий Евгеньевич": 21,
-      "Хвостов Валерий Владимирович": 2,
-      "Шипулин Антон Владимирович": 327
+      "4664067248316": 46,
+      "4664067248264": 103,
+      "4664067248554": 13,
+      "4664067247967": 105,
+      "4664067247999": 69,
+      "4664067247158": 89,
+      "4664067248514": 21,
+      "4664067248304": 2,
+      "4664067248131": 327
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/sverdlovsk?action=show&root=1000228&tvd=26620002596980&vrn=100100225883172&region=66&global=&sub_region=66&prver=0&pronetvd=null&vibid=26620002596980&type=464",
@@ -7879,6 +9371,10 @@ export const duma_2021_uik_463_region_66_part_009 = [
       "retrievedAt": "2026-08-26T08:06:41.345938+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/sverdlovsk?action=show&root=1000228&tvd=26620002596980&vrn=100100225883172&region=66&global=&sub_region=66&prver=0&pronetvd=null&vibid=26620002596980&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 174,
+      "oikTvd": "100100225883665"
     }
   },
   {
@@ -7888,8 +9384,12 @@ export const duma_2021_uik_463_region_66_part_009 = [
     "ballot": "single-member",
     "uikNumber": 2509,
     "uikTvd": "4664067244198",
+    "uikName": "УИК №2509",
     "tikTvd": "26620002596980",
     "tikName": "Серовская городская",
+    "regionCode": "66",
+    "regionTvd": "100100225883658",
+    "regionName": "Свердловская область",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 1507,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 1100,
@@ -7905,15 +9405,15 @@ export const duma_2021_uik_463_region_66_part_009 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бородин Ярослав Викторович": 32,
-      "Даутов Габбас Фанзовиевич": 139,
-      "Калинин Дмитрий Григорьевич": 16,
-      "Коровкин Алексей Сергеевич": 92,
-      "Мельник Сергей Евгеньевич": 43,
-      "Мякишев Павел Викторович": 73,
-      "Рабинович Анатолий Евгеньевич": 17,
-      "Хвостов Валерий Владимирович": 2,
-      "Шипулин Антон Владимирович": 241
+      "4664067248316": 32,
+      "4664067248264": 139,
+      "4664067248554": 16,
+      "4664067247967": 92,
+      "4664067247999": 43,
+      "4664067247158": 73,
+      "4664067248514": 17,
+      "4664067248304": 2,
+      "4664067248131": 241
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/sverdlovsk?action=show&root=1000228&tvd=26620002596980&vrn=100100225883172&region=66&global=&sub_region=66&prver=0&pronetvd=null&vibid=26620002596980&type=464",
@@ -7923,6 +9423,10 @@ export const duma_2021_uik_463_region_66_part_009 = [
       "retrievedAt": "2026-08-26T08:06:41.345938+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/sverdlovsk?action=show&root=1000228&tvd=26620002596980&vrn=100100225883172&region=66&global=&sub_region=66&prver=0&pronetvd=null&vibid=26620002596980&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 174,
+      "oikTvd": "100100225883665"
     }
   },
   {
@@ -7932,8 +9436,12 @@ export const duma_2021_uik_463_region_66_part_009 = [
     "ballot": "single-member",
     "uikNumber": 2510,
     "uikTvd": "4664067244199",
+    "uikName": "УИК №2510",
     "tikTvd": "26620002596980",
     "tikName": "Серовская городская",
+    "regionCode": "66",
+    "regionTvd": "100100225883658",
+    "regionName": "Свердловская область",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 1504,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 1150,
@@ -7949,15 +9457,15 @@ export const duma_2021_uik_463_region_66_part_009 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бородин Ярослав Викторович": 48,
-      "Даутов Габбас Фанзовиевич": 103,
-      "Калинин Дмитрий Григорьевич": 25,
-      "Коровкин Алексей Сергеевич": 85,
-      "Мельник Сергей Евгеньевич": 56,
-      "Мякишев Павел Викторович": 73,
-      "Рабинович Анатолий Евгеньевич": 25,
-      "Хвостов Валерий Владимирович": 8,
-      "Шипулин Антон Владимирович": 280
+      "4664067248316": 48,
+      "4664067248264": 103,
+      "4664067248554": 25,
+      "4664067247967": 85,
+      "4664067247999": 56,
+      "4664067247158": 73,
+      "4664067248514": 25,
+      "4664067248304": 8,
+      "4664067248131": 280
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/sverdlovsk?action=show&root=1000228&tvd=26620002596980&vrn=100100225883172&region=66&global=&sub_region=66&prver=0&pronetvd=null&vibid=26620002596980&type=464",
@@ -7967,6 +9475,10 @@ export const duma_2021_uik_463_region_66_part_009 = [
       "retrievedAt": "2026-08-26T08:06:41.345938+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/sverdlovsk?action=show&root=1000228&tvd=26620002596980&vrn=100100225883172&region=66&global=&sub_region=66&prver=0&pronetvd=null&vibid=26620002596980&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 174,
+      "oikTvd": "100100225883665"
     }
   },
   {
@@ -7976,8 +9488,12 @@ export const duma_2021_uik_463_region_66_part_009 = [
     "ballot": "single-member",
     "uikNumber": 2511,
     "uikTvd": "4664067244200",
+    "uikName": "УИК №2511",
     "tikTvd": "26620002596980",
     "tikName": "Серовская городская",
+    "regionCode": "66",
+    "regionTvd": "100100225883658",
+    "regionName": "Свердловская область",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 1359,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 1000,
@@ -7993,15 +9509,15 @@ export const duma_2021_uik_463_region_66_part_009 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бородин Ярослав Викторович": 55,
-      "Даутов Габбас Фанзовиевич": 105,
-      "Калинин Дмитрий Григорьевич": 15,
-      "Коровкин Алексей Сергеевич": 64,
-      "Мельник Сергей Евгеньевич": 50,
-      "Мякишев Павел Викторович": 57,
-      "Рабинович Анатолий Евгеньевич": 16,
-      "Хвостов Валерий Владимирович": 7,
-      "Шипулин Антон Владимирович": 220
+      "4664067248316": 55,
+      "4664067248264": 105,
+      "4664067248554": 15,
+      "4664067247967": 64,
+      "4664067247999": 50,
+      "4664067247158": 57,
+      "4664067248514": 16,
+      "4664067248304": 7,
+      "4664067248131": 220
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/sverdlovsk?action=show&root=1000228&tvd=26620002596980&vrn=100100225883172&region=66&global=&sub_region=66&prver=0&pronetvd=null&vibid=26620002596980&type=464",
@@ -8011,6 +9527,10 @@ export const duma_2021_uik_463_region_66_part_009 = [
       "retrievedAt": "2026-08-26T08:06:41.345938+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/sverdlovsk?action=show&root=1000228&tvd=26620002596980&vrn=100100225883172&region=66&global=&sub_region=66&prver=0&pronetvd=null&vibid=26620002596980&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 174,
+      "oikTvd": "100100225883665"
     }
   },
   {
@@ -8020,8 +9540,12 @@ export const duma_2021_uik_463_region_66_part_009 = [
     "ballot": "single-member",
     "uikNumber": 2512,
     "uikTvd": "4664067244201",
+    "uikName": "УИК №2512",
     "tikTvd": "26620002596980",
     "tikName": "Серовская городская",
+    "regionCode": "66",
+    "regionTvd": "100100225883658",
+    "regionName": "Свердловская область",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 1196,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 900,
@@ -8037,15 +9561,15 @@ export const duma_2021_uik_463_region_66_part_009 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бородин Ярослав Викторович": 38,
-      "Даутов Габбас Фанзовиевич": 75,
-      "Калинин Дмитрий Григорьевич": 12,
-      "Коровкин Алексей Сергеевич": 53,
-      "Мельник Сергей Евгеньевич": 41,
-      "Мякишев Павел Викторович": 37,
-      "Рабинович Анатолий Евгеньевич": 7,
-      "Хвостов Валерий Владимирович": 5,
-      "Шипулин Антон Владимирович": 202
+      "4664067248316": 38,
+      "4664067248264": 75,
+      "4664067248554": 12,
+      "4664067247967": 53,
+      "4664067247999": 41,
+      "4664067247158": 37,
+      "4664067248514": 7,
+      "4664067248304": 5,
+      "4664067248131": 202
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/sverdlovsk?action=show&root=1000228&tvd=26620002596980&vrn=100100225883172&region=66&global=&sub_region=66&prver=0&pronetvd=null&vibid=26620002596980&type=464",
@@ -8055,6 +9579,10 @@ export const duma_2021_uik_463_region_66_part_009 = [
       "retrievedAt": "2026-08-26T08:06:41.345938+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/sverdlovsk?action=show&root=1000228&tvd=26620002596980&vrn=100100225883172&region=66&global=&sub_region=66&prver=0&pronetvd=null&vibid=26620002596980&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 174,
+      "oikTvd": "100100225883665"
     }
   },
   {
@@ -8064,8 +9592,12 @@ export const duma_2021_uik_463_region_66_part_009 = [
     "ballot": "single-member",
     "uikNumber": 2513,
     "uikTvd": "4664067244202",
+    "uikName": "УИК №2513",
     "tikTvd": "26620002596980",
     "tikName": "Серовская городская",
+    "regionCode": "66",
+    "regionTvd": "100100225883658",
+    "regionName": "Свердловская область",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 1220,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 900,
@@ -8081,15 +9613,15 @@ export const duma_2021_uik_463_region_66_part_009 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бородин Ярослав Викторович": 25,
-      "Даутов Габбас Фанзовиевич": 74,
-      "Калинин Дмитрий Григорьевич": 14,
-      "Коровкин Алексей Сергеевич": 49,
-      "Мельник Сергей Евгеньевич": 36,
-      "Мякишев Павел Викторович": 61,
-      "Рабинович Анатолий Евгеньевич": 12,
-      "Хвостов Валерий Владимирович": 2,
-      "Шипулин Антон Владимирович": 176
+      "4664067248316": 25,
+      "4664067248264": 74,
+      "4664067248554": 14,
+      "4664067247967": 49,
+      "4664067247999": 36,
+      "4664067247158": 61,
+      "4664067248514": 12,
+      "4664067248304": 2,
+      "4664067248131": 176
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/sverdlovsk?action=show&root=1000228&tvd=26620002596980&vrn=100100225883172&region=66&global=&sub_region=66&prver=0&pronetvd=null&vibid=26620002596980&type=464",
@@ -8099,6 +9631,10 @@ export const duma_2021_uik_463_region_66_part_009 = [
       "retrievedAt": "2026-08-26T08:06:41.345938+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/sverdlovsk?action=show&root=1000228&tvd=26620002596980&vrn=100100225883172&region=66&global=&sub_region=66&prver=0&pronetvd=null&vibid=26620002596980&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 174,
+      "oikTvd": "100100225883665"
     }
   },
   {
@@ -8108,8 +9644,12 @@ export const duma_2021_uik_463_region_66_part_009 = [
     "ballot": "single-member",
     "uikNumber": 621,
     "uikTvd": "4664046172445",
+    "uikName": "УИК №621",
     "tikTvd": "26620002596981",
     "tikName": "Новолялинская",
+    "regionCode": "66",
+    "regionTvd": "100100225883658",
+    "regionName": "Свердловская область",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 961,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 900,
@@ -8125,15 +9665,15 @@ export const duma_2021_uik_463_region_66_part_009 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бородин Ярослав Викторович": 13,
-      "Даутов Габбас Фанзовиевич": 45,
-      "Калинин Дмитрий Григорьевич": 5,
-      "Коровкин Алексей Сергеевич": 231,
-      "Мельник Сергей Евгеньевич": 2,
-      "Мякишев Павел Викторович": 11,
-      "Рабинович Анатолий Евгеньевич": 12,
-      "Хвостов Валерий Владимирович": 0,
-      "Шипулин Антон Владимирович": 121
+      "4664067248316": 13,
+      "4664067248264": 45,
+      "4664067248554": 5,
+      "4664067247967": 231,
+      "4664067247999": 2,
+      "4664067247158": 11,
+      "4664067248514": 12,
+      "4664067248304": 0,
+      "4664067248131": 121
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/sverdlovsk?action=show&root=1000228&tvd=26620002596981&vrn=100100225883172&region=66&global=&sub_region=66&prver=0&pronetvd=null&vibid=26620002596981&type=464",
@@ -8143,6 +9683,10 @@ export const duma_2021_uik_463_region_66_part_009 = [
       "retrievedAt": "2026-08-26T08:06:43.040120+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/sverdlovsk?action=show&root=1000228&tvd=26620002596981&vrn=100100225883172&region=66&global=&sub_region=66&prver=0&pronetvd=null&vibid=26620002596981&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 174,
+      "oikTvd": "100100225883665"
     }
   },
   {
@@ -8152,8 +9696,12 @@ export const duma_2021_uik_463_region_66_part_009 = [
     "ballot": "single-member",
     "uikNumber": 622,
     "uikTvd": "4664046172446",
+    "uikName": "УИК №622",
     "tikTvd": "26620002596981",
     "tikName": "Новолялинская",
+    "regionCode": "66",
+    "regionTvd": "100100225883658",
+    "regionName": "Свердловская область",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 2096,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 2100,
@@ -8169,15 +9717,15 @@ export const duma_2021_uik_463_region_66_part_009 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бородин Ярослав Викторович": 24,
-      "Даутов Габбас Фанзовиевич": 95,
-      "Калинин Дмитрий Григорьевич": 11,
-      "Коровкин Алексей Сергеевич": 642,
-      "Мельник Сергей Евгеньевич": 7,
-      "Мякишев Павел Викторович": 26,
-      "Рабинович Анатолий Евгеньевич": 12,
-      "Хвостов Валерий Владимирович": 1,
-      "Шипулин Антон Владимирович": 285
+      "4664067248316": 24,
+      "4664067248264": 95,
+      "4664067248554": 11,
+      "4664067247967": 642,
+      "4664067247999": 7,
+      "4664067247158": 26,
+      "4664067248514": 12,
+      "4664067248304": 1,
+      "4664067248131": 285
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/sverdlovsk?action=show&root=1000228&tvd=26620002596981&vrn=100100225883172&region=66&global=&sub_region=66&prver=0&pronetvd=null&vibid=26620002596981&type=464",
@@ -8187,6 +9735,10 @@ export const duma_2021_uik_463_region_66_part_009 = [
       "retrievedAt": "2026-08-26T08:06:43.040120+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/sverdlovsk?action=show&root=1000228&tvd=26620002596981&vrn=100100225883172&region=66&global=&sub_region=66&prver=0&pronetvd=null&vibid=26620002596981&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 174,
+      "oikTvd": "100100225883665"
     }
   },
   {
@@ -8196,8 +9748,12 @@ export const duma_2021_uik_463_region_66_part_009 = [
     "ballot": "single-member",
     "uikNumber": 623,
     "uikTvd": "4664046172447",
+    "uikName": "УИК №623",
     "tikTvd": "26620002596981",
     "tikName": "Новолялинская",
+    "regionCode": "66",
+    "regionTvd": "100100225883658",
+    "regionName": "Свердловская область",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 1194,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 1100,
@@ -8213,15 +9769,15 @@ export const duma_2021_uik_463_region_66_part_009 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бородин Ярослав Викторович": 14,
-      "Даутов Габбас Фанзовиевич": 53,
-      "Калинин Дмитрий Григорьевич": 4,
-      "Коровкин Алексей Сергеевич": 328,
-      "Мельник Сергей Евгеньевич": 3,
-      "Мякишев Павел Викторович": 7,
-      "Рабинович Анатолий Евгеньевич": 5,
-      "Хвостов Валерий Владимирович": 0,
-      "Шипулин Антон Владимирович": 172
+      "4664067248316": 14,
+      "4664067248264": 53,
+      "4664067248554": 4,
+      "4664067247967": 328,
+      "4664067247999": 3,
+      "4664067247158": 7,
+      "4664067248514": 5,
+      "4664067248304": 0,
+      "4664067248131": 172
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/sverdlovsk?action=show&root=1000228&tvd=26620002596981&vrn=100100225883172&region=66&global=&sub_region=66&prver=0&pronetvd=null&vibid=26620002596981&type=464",
@@ -8231,6 +9787,10 @@ export const duma_2021_uik_463_region_66_part_009 = [
       "retrievedAt": "2026-08-26T08:06:43.040120+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/sverdlovsk?action=show&root=1000228&tvd=26620002596981&vrn=100100225883172&region=66&global=&sub_region=66&prver=0&pronetvd=null&vibid=26620002596981&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 174,
+      "oikTvd": "100100225883665"
     }
   },
   {
@@ -8240,8 +9800,12 @@ export const duma_2021_uik_463_region_66_part_009 = [
     "ballot": "single-member",
     "uikNumber": 624,
     "uikTvd": "4664046172448",
+    "uikName": "УИК №624",
     "tikTvd": "26620002596981",
     "tikName": "Новолялинская",
+    "regionCode": "66",
+    "regionTvd": "100100225883658",
+    "regionName": "Свердловская область",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 1141,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 1100,
@@ -8257,15 +9821,15 @@ export const duma_2021_uik_463_region_66_part_009 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бородин Ярослав Викторович": 9,
-      "Даутов Габбас Фанзовиевич": 46,
-      "Калинин Дмитрий Григорьевич": 10,
-      "Коровкин Алексей Сергеевич": 280,
-      "Мельник Сергей Евгеньевич": 5,
-      "Мякишев Павел Викторович": 15,
-      "Рабинович Анатолий Евгеньевич": 7,
-      "Хвостов Валерий Владимирович": 2,
-      "Шипулин Антон Владимирович": 108
+      "4664067248316": 9,
+      "4664067248264": 46,
+      "4664067248554": 10,
+      "4664067247967": 280,
+      "4664067247999": 5,
+      "4664067247158": 15,
+      "4664067248514": 7,
+      "4664067248304": 2,
+      "4664067248131": 108
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/sverdlovsk?action=show&root=1000228&tvd=26620002596981&vrn=100100225883172&region=66&global=&sub_region=66&prver=0&pronetvd=null&vibid=26620002596981&type=464",
@@ -8275,6 +9839,10 @@ export const duma_2021_uik_463_region_66_part_009 = [
       "retrievedAt": "2026-08-26T08:06:43.040120+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/sverdlovsk?action=show&root=1000228&tvd=26620002596981&vrn=100100225883172&region=66&global=&sub_region=66&prver=0&pronetvd=null&vibid=26620002596981&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 174,
+      "oikTvd": "100100225883665"
     }
   },
   {
@@ -8284,8 +9852,12 @@ export const duma_2021_uik_463_region_66_part_009 = [
     "ballot": "single-member",
     "uikNumber": 625,
     "uikTvd": "4664046172449",
+    "uikName": "УИК №625",
     "tikTvd": "26620002596981",
     "tikName": "Новолялинская",
+    "regionCode": "66",
+    "regionTvd": "100100225883658",
+    "regionName": "Свердловская область",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 716,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 700,
@@ -8301,15 +9873,15 @@ export const duma_2021_uik_463_region_66_part_009 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бородин Ярослав Викторович": 3,
-      "Даутов Габбас Фанзовиевич": 45,
-      "Калинин Дмитрий Григорьевич": 1,
-      "Коровкин Алексей Сергеевич": 185,
-      "Мельник Сергей Евгеньевич": 3,
-      "Мякишев Павел Викторович": 10,
-      "Рабинович Анатолий Евгеньевич": 5,
-      "Хвостов Валерий Владимирович": 0,
-      "Шипулин Антон Владимирович": 69
+      "4664067248316": 3,
+      "4664067248264": 45,
+      "4664067248554": 1,
+      "4664067247967": 185,
+      "4664067247999": 3,
+      "4664067247158": 10,
+      "4664067248514": 5,
+      "4664067248304": 0,
+      "4664067248131": 69
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/sverdlovsk?action=show&root=1000228&tvd=26620002596981&vrn=100100225883172&region=66&global=&sub_region=66&prver=0&pronetvd=null&vibid=26620002596981&type=464",
@@ -8319,6 +9891,10 @@ export const duma_2021_uik_463_region_66_part_009 = [
       "retrievedAt": "2026-08-26T08:06:43.040120+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/sverdlovsk?action=show&root=1000228&tvd=26620002596981&vrn=100100225883172&region=66&global=&sub_region=66&prver=0&pronetvd=null&vibid=26620002596981&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 174,
+      "oikTvd": "100100225883665"
     }
   },
   {
@@ -8328,8 +9904,12 @@ export const duma_2021_uik_463_region_66_part_009 = [
     "ballot": "single-member",
     "uikNumber": 626,
     "uikTvd": "4664046172450",
+    "uikName": "УИК №626",
     "tikTvd": "26620002596981",
     "tikName": "Новолялинская",
+    "regionCode": "66",
+    "regionTvd": "100100225883658",
+    "regionName": "Свердловская область",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 966,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 900,
@@ -8345,15 +9925,15 @@ export const duma_2021_uik_463_region_66_part_009 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бородин Ярослав Викторович": 12,
-      "Даутов Габбас Фанзовиевич": 26,
-      "Калинин Дмитрий Григорьевич": 5,
-      "Коровкин Алексей Сергеевич": 231,
-      "Мельник Сергей Евгеньевич": 6,
-      "Мякишев Павел Викторович": 29,
-      "Рабинович Анатолий Евгеньевич": 3,
-      "Хвостов Валерий Владимирович": 0,
-      "Шипулин Антон Владимирович": 128
+      "4664067248316": 12,
+      "4664067248264": 26,
+      "4664067248554": 5,
+      "4664067247967": 231,
+      "4664067247999": 6,
+      "4664067247158": 29,
+      "4664067248514": 3,
+      "4664067248304": 0,
+      "4664067248131": 128
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/sverdlovsk?action=show&root=1000228&tvd=26620002596981&vrn=100100225883172&region=66&global=&sub_region=66&prver=0&pronetvd=null&vibid=26620002596981&type=464",
@@ -8363,6 +9943,10 @@ export const duma_2021_uik_463_region_66_part_009 = [
       "retrievedAt": "2026-08-26T08:06:43.040120+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/sverdlovsk?action=show&root=1000228&tvd=26620002596981&vrn=100100225883172&region=66&global=&sub_region=66&prver=0&pronetvd=null&vibid=26620002596981&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 174,
+      "oikTvd": "100100225883665"
     }
   },
   {
@@ -8372,8 +9956,12 @@ export const duma_2021_uik_463_region_66_part_009 = [
     "ballot": "single-member",
     "uikNumber": 627,
     "uikTvd": "4664046172451",
+    "uikName": "УИК №627",
     "tikTvd": "26620002596981",
     "tikName": "Новолялинская",
+    "regionCode": "66",
+    "regionTvd": "100100225883658",
+    "regionName": "Свердловская область",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 428,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 400,
@@ -8389,15 +9977,15 @@ export const duma_2021_uik_463_region_66_part_009 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бородин Ярослав Викторович": 8,
-      "Даутов Габбас Фанзовиевич": 24,
-      "Калинин Дмитрий Григорьевич": 3,
-      "Коровкин Алексей Сергеевич": 81,
-      "Мельник Сергей Евгеньевич": 3,
-      "Мякишев Павел Викторович": 5,
-      "Рабинович Анатолий Евгеньевич": 4,
-      "Хвостов Валерий Владимирович": 1,
-      "Шипулин Антон Владимирович": 42
+      "4664067248316": 8,
+      "4664067248264": 24,
+      "4664067248554": 3,
+      "4664067247967": 81,
+      "4664067247999": 3,
+      "4664067247158": 5,
+      "4664067248514": 4,
+      "4664067248304": 1,
+      "4664067248131": 42
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/sverdlovsk?action=show&root=1000228&tvd=26620002596981&vrn=100100225883172&region=66&global=&sub_region=66&prver=0&pronetvd=null&vibid=26620002596981&type=464",
@@ -8407,6 +9995,10 @@ export const duma_2021_uik_463_region_66_part_009 = [
       "retrievedAt": "2026-08-26T08:06:43.040120+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/sverdlovsk?action=show&root=1000228&tvd=26620002596981&vrn=100100225883172&region=66&global=&sub_region=66&prver=0&pronetvd=null&vibid=26620002596981&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 174,
+      "oikTvd": "100100225883665"
     }
   },
   {
@@ -8416,8 +10008,12 @@ export const duma_2021_uik_463_region_66_part_009 = [
     "ballot": "single-member",
     "uikNumber": 628,
     "uikTvd": "4664046172452",
+    "uikName": "УИК №628",
     "tikTvd": "26620002596981",
     "tikName": "Новолялинская",
+    "regionCode": "66",
+    "regionTvd": "100100225883658",
+    "regionName": "Свердловская область",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 971,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 800,
@@ -8433,15 +10029,15 @@ export const duma_2021_uik_463_region_66_part_009 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бородин Ярослав Викторович": 15,
-      "Даутов Габбас Фанзовиевич": 64,
-      "Калинин Дмитрий Григорьевич": 6,
-      "Коровкин Алексей Сергеевич": 260,
-      "Мельник Сергей Евгеньевич": 3,
-      "Мякишев Павел Викторович": 10,
-      "Рабинович Анатолий Евгеньевич": 5,
-      "Хвостов Валерий Владимирович": 2,
-      "Шипулин Антон Владимирович": 124
+      "4664067248316": 15,
+      "4664067248264": 64,
+      "4664067248554": 6,
+      "4664067247967": 260,
+      "4664067247999": 3,
+      "4664067247158": 10,
+      "4664067248514": 5,
+      "4664067248304": 2,
+      "4664067248131": 124
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/sverdlovsk?action=show&root=1000228&tvd=26620002596981&vrn=100100225883172&region=66&global=&sub_region=66&prver=0&pronetvd=null&vibid=26620002596981&type=464",
@@ -8451,6 +10047,10 @@ export const duma_2021_uik_463_region_66_part_009 = [
       "retrievedAt": "2026-08-26T08:06:43.040120+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/sverdlovsk?action=show&root=1000228&tvd=26620002596981&vrn=100100225883172&region=66&global=&sub_region=66&prver=0&pronetvd=null&vibid=26620002596981&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 174,
+      "oikTvd": "100100225883665"
     }
   },
   {
@@ -8460,8 +10060,12 @@ export const duma_2021_uik_463_region_66_part_009 = [
     "ballot": "single-member",
     "uikNumber": 629,
     "uikTvd": "4664046172453",
+    "uikName": "УИК №629",
     "tikTvd": "26620002596981",
     "tikName": "Новолялинская",
+    "regionCode": "66",
+    "regionTvd": "100100225883658",
+    "regionName": "Свердловская область",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 547,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 500,
@@ -8477,15 +10081,15 @@ export const duma_2021_uik_463_region_66_part_009 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бородин Ярослав Викторович": 5,
-      "Даутов Габбас Фанзовиевич": 37,
-      "Калинин Дмитрий Григорьевич": 4,
-      "Коровкин Алексей Сергеевич": 33,
-      "Мельник Сергей Евгеньевич": 1,
-      "Мякишев Павел Викторович": 15,
-      "Рабинович Анатолий Евгеньевич": 6,
-      "Хвостов Валерий Владимирович": 1,
-      "Шипулин Антон Владимирович": 129
+      "4664067248316": 5,
+      "4664067248264": 37,
+      "4664067248554": 4,
+      "4664067247967": 33,
+      "4664067247999": 1,
+      "4664067247158": 15,
+      "4664067248514": 6,
+      "4664067248304": 1,
+      "4664067248131": 129
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/sverdlovsk?action=show&root=1000228&tvd=26620002596981&vrn=100100225883172&region=66&global=&sub_region=66&prver=0&pronetvd=null&vibid=26620002596981&type=464",
@@ -8495,6 +10099,10 @@ export const duma_2021_uik_463_region_66_part_009 = [
       "retrievedAt": "2026-08-26T08:06:43.040120+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/sverdlovsk?action=show&root=1000228&tvd=26620002596981&vrn=100100225883172&region=66&global=&sub_region=66&prver=0&pronetvd=null&vibid=26620002596981&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 174,
+      "oikTvd": "100100225883665"
     }
   },
   {
@@ -8504,8 +10112,12 @@ export const duma_2021_uik_463_region_66_part_009 = [
     "ballot": "single-member",
     "uikNumber": 630,
     "uikTvd": "4664046172454",
+    "uikName": "УИК №630",
     "tikTvd": "26620002596981",
     "tikName": "Новолялинская",
+    "regionCode": "66",
+    "regionTvd": "100100225883658",
+    "regionName": "Свердловская область",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 592,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 600,
@@ -8521,15 +10133,15 @@ export const duma_2021_uik_463_region_66_part_009 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бородин Ярослав Викторович": 9,
-      "Даутов Габбас Фанзовиевич": 37,
-      "Калинин Дмитрий Григорьевич": 2,
-      "Коровкин Алексей Сергеевич": 56,
-      "Мельник Сергей Евгеньевич": 5,
-      "Мякишев Павел Викторович": 14,
-      "Рабинович Анатолий Евгеньевич": 6,
-      "Хвостов Валерий Владимирович": 0,
-      "Шипулин Антон Владимирович": 119
+      "4664067248316": 9,
+      "4664067248264": 37,
+      "4664067248554": 2,
+      "4664067247967": 56,
+      "4664067247999": 5,
+      "4664067247158": 14,
+      "4664067248514": 6,
+      "4664067248304": 0,
+      "4664067248131": 119
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/sverdlovsk?action=show&root=1000228&tvd=26620002596981&vrn=100100225883172&region=66&global=&sub_region=66&prver=0&pronetvd=null&vibid=26620002596981&type=464",
@@ -8539,6 +10151,10 @@ export const duma_2021_uik_463_region_66_part_009 = [
       "retrievedAt": "2026-08-26T08:06:43.040120+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/sverdlovsk?action=show&root=1000228&tvd=26620002596981&vrn=100100225883172&region=66&global=&sub_region=66&prver=0&pronetvd=null&vibid=26620002596981&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 174,
+      "oikTvd": "100100225883665"
     }
   },
   {
@@ -8548,8 +10164,12 @@ export const duma_2021_uik_463_region_66_part_009 = [
     "ballot": "single-member",
     "uikNumber": 631,
     "uikTvd": "4664046172455",
+    "uikName": "УИК №631",
     "tikTvd": "26620002596981",
     "tikName": "Новолялинская",
+    "regionCode": "66",
+    "regionTvd": "100100225883658",
+    "regionName": "Свердловская область",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 1399,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 1400,
@@ -8565,15 +10185,15 @@ export const duma_2021_uik_463_region_66_part_009 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бородин Ярослав Викторович": 31,
-      "Даутов Габбас Фанзовиевич": 91,
-      "Калинин Дмитрий Григорьевич": 15,
-      "Коровкин Алексей Сергеевич": 116,
-      "Мельник Сергей Евгеньевич": 10,
-      "Мякишев Павел Викторович": 32,
-      "Рабинович Анатолий Евгеньевич": 19,
-      "Хвостов Валерий Владимирович": 9,
-      "Шипулин Антон Владимирович": 322
+      "4664067248316": 31,
+      "4664067248264": 91,
+      "4664067248554": 15,
+      "4664067247967": 116,
+      "4664067247999": 10,
+      "4664067247158": 32,
+      "4664067248514": 19,
+      "4664067248304": 9,
+      "4664067248131": 322
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/sverdlovsk?action=show&root=1000228&tvd=26620002596981&vrn=100100225883172&region=66&global=&sub_region=66&prver=0&pronetvd=null&vibid=26620002596981&type=464",
@@ -8583,6 +10203,10 @@ export const duma_2021_uik_463_region_66_part_009 = [
       "retrievedAt": "2026-08-26T08:06:43.040120+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/sverdlovsk?action=show&root=1000228&tvd=26620002596981&vrn=100100225883172&region=66&global=&sub_region=66&prver=0&pronetvd=null&vibid=26620002596981&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 174,
+      "oikTvd": "100100225883665"
     }
   },
   {
@@ -8592,8 +10216,12 @@ export const duma_2021_uik_463_region_66_part_009 = [
     "ballot": "single-member",
     "uikNumber": 632,
     "uikTvd": "4664046172456",
+    "uikName": "УИК №632",
     "tikTvd": "26620002596981",
     "tikName": "Новолялинская",
+    "regionCode": "66",
+    "regionTvd": "100100225883658",
+    "regionName": "Свердловская область",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 1752,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 1700,
@@ -8609,15 +10237,15 @@ export const duma_2021_uik_463_region_66_part_009 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бородин Ярослав Викторович": 18,
-      "Даутов Габбас Фанзовиевич": 116,
-      "Калинин Дмитрий Григорьевич": 11,
-      "Коровкин Алексей Сергеевич": 178,
-      "Мельник Сергей Евгеньевич": 13,
-      "Мякишев Павел Викторович": 27,
-      "Рабинович Анатолий Евгеньевич": 20,
-      "Хвостов Валерий Владимирович": 3,
-      "Шипулин Антон Владимирович": 326
+      "4664067248316": 18,
+      "4664067248264": 116,
+      "4664067248554": 11,
+      "4664067247967": 178,
+      "4664067247999": 13,
+      "4664067247158": 27,
+      "4664067248514": 20,
+      "4664067248304": 3,
+      "4664067248131": 326
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/sverdlovsk?action=show&root=1000228&tvd=26620002596981&vrn=100100225883172&region=66&global=&sub_region=66&prver=0&pronetvd=null&vibid=26620002596981&type=464",
@@ -8627,6 +10255,10 @@ export const duma_2021_uik_463_region_66_part_009 = [
       "retrievedAt": "2026-08-26T08:06:43.040120+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/sverdlovsk?action=show&root=1000228&tvd=26620002596981&vrn=100100225883172&region=66&global=&sub_region=66&prver=0&pronetvd=null&vibid=26620002596981&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 174,
+      "oikTvd": "100100225883665"
     }
   },
   {
@@ -8636,8 +10268,12 @@ export const duma_2021_uik_463_region_66_part_009 = [
     "ballot": "single-member",
     "uikNumber": 633,
     "uikTvd": "4664046172457",
+    "uikName": "УИК №633",
     "tikTvd": "26620002596981",
     "tikName": "Новолялинская",
+    "regionCode": "66",
+    "regionTvd": "100100225883658",
+    "regionName": "Свердловская область",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 420,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 400,
@@ -8653,15 +10289,15 @@ export const duma_2021_uik_463_region_66_part_009 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бородин Ярослав Викторович": 9,
-      "Даутов Габбас Фанзовиевич": 21,
-      "Калинин Дмитрий Григорьевич": 6,
-      "Коровкин Алексей Сергеевич": 35,
-      "Мельник Сергей Евгеньевич": 3,
-      "Мякишев Павел Викторович": 3,
-      "Рабинович Анатолий Евгеньевич": 7,
-      "Хвостов Валерий Владимирович": 1,
-      "Шипулин Антон Владимирович": 64
+      "4664067248316": 9,
+      "4664067248264": 21,
+      "4664067248554": 6,
+      "4664067247967": 35,
+      "4664067247999": 3,
+      "4664067247158": 3,
+      "4664067248514": 7,
+      "4664067248304": 1,
+      "4664067248131": 64
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/sverdlovsk?action=show&root=1000228&tvd=26620002596981&vrn=100100225883172&region=66&global=&sub_region=66&prver=0&pronetvd=null&vibid=26620002596981&type=464",
@@ -8671,6 +10307,10 @@ export const duma_2021_uik_463_region_66_part_009 = [
       "retrievedAt": "2026-08-26T08:06:43.040120+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/sverdlovsk?action=show&root=1000228&tvd=26620002596981&vrn=100100225883172&region=66&global=&sub_region=66&prver=0&pronetvd=null&vibid=26620002596981&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 174,
+      "oikTvd": "100100225883665"
     }
   },
   {
@@ -8680,8 +10320,12 @@ export const duma_2021_uik_463_region_66_part_009 = [
     "ballot": "single-member",
     "uikNumber": 634,
     "uikTvd": "4664046172458",
+    "uikName": "УИК №634",
     "tikTvd": "26620002596981",
     "tikName": "Новолялинская",
+    "regionCode": "66",
+    "regionTvd": "100100225883658",
+    "regionName": "Свердловская область",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 790,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 750,
@@ -8697,15 +10341,15 @@ export const duma_2021_uik_463_region_66_part_009 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бородин Ярослав Викторович": 14,
-      "Даутов Габбас Фанзовиевич": 43,
-      "Калинин Дмитрий Григорьевич": 7,
-      "Коровкин Алексей Сергеевич": 77,
-      "Мельник Сергей Евгеньевич": 8,
-      "Мякишев Павел Викторович": 18,
-      "Рабинович Анатолий Евгеньевич": 14,
-      "Хвостов Валерий Владимирович": 1,
-      "Шипулин Антон Владимирович": 136
+      "4664067248316": 14,
+      "4664067248264": 43,
+      "4664067248554": 7,
+      "4664067247967": 77,
+      "4664067247999": 8,
+      "4664067247158": 18,
+      "4664067248514": 14,
+      "4664067248304": 1,
+      "4664067248131": 136
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/sverdlovsk?action=show&root=1000228&tvd=26620002596981&vrn=100100225883172&region=66&global=&sub_region=66&prver=0&pronetvd=null&vibid=26620002596981&type=464",
@@ -8715,6 +10359,10 @@ export const duma_2021_uik_463_region_66_part_009 = [
       "retrievedAt": "2026-08-26T08:06:43.040120+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/sverdlovsk?action=show&root=1000228&tvd=26620002596981&vrn=100100225883172&region=66&global=&sub_region=66&prver=0&pronetvd=null&vibid=26620002596981&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 174,
+      "oikTvd": "100100225883665"
     }
   },
   {
@@ -8724,8 +10372,12 @@ export const duma_2021_uik_463_region_66_part_009 = [
     "ballot": "single-member",
     "uikNumber": 635,
     "uikTvd": "4664046172459",
+    "uikName": "УИК №635",
     "tikTvd": "26620002596981",
     "tikName": "Новолялинская",
+    "regionCode": "66",
+    "regionTvd": "100100225883658",
+    "regionName": "Свердловская область",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 456,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 450,
@@ -8741,15 +10393,15 @@ export const duma_2021_uik_463_region_66_part_009 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бородин Ярослав Викторович": 13,
-      "Даутов Габбас Фанзовиевич": 20,
-      "Калинин Дмитрий Григорьевич": 5,
-      "Коровкин Алексей Сергеевич": 47,
-      "Мельник Сергей Евгеньевич": 4,
-      "Мякишев Павел Викторович": 21,
-      "Рабинович Анатолий Евгеньевич": 12,
-      "Хвостов Валерий Владимирович": 3,
-      "Шипулин Антон Владимирович": 88
+      "4664067248316": 13,
+      "4664067248264": 20,
+      "4664067248554": 5,
+      "4664067247967": 47,
+      "4664067247999": 4,
+      "4664067247158": 21,
+      "4664067248514": 12,
+      "4664067248304": 3,
+      "4664067248131": 88
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/sverdlovsk?action=show&root=1000228&tvd=26620002596981&vrn=100100225883172&region=66&global=&sub_region=66&prver=0&pronetvd=null&vibid=26620002596981&type=464",
@@ -8759,6 +10411,10 @@ export const duma_2021_uik_463_region_66_part_009 = [
       "retrievedAt": "2026-08-26T08:06:43.040120+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/sverdlovsk?action=show&root=1000228&tvd=26620002596981&vrn=100100225883172&region=66&global=&sub_region=66&prver=0&pronetvd=null&vibid=26620002596981&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 174,
+      "oikTvd": "100100225883665"
     }
   },
   {
@@ -8768,8 +10424,12 @@ export const duma_2021_uik_463_region_66_part_009 = [
     "ballot": "single-member",
     "uikNumber": 638,
     "uikTvd": "4664046172460",
+    "uikName": "УИК №638",
     "tikTvd": "26620002596981",
     "tikName": "Новолялинская",
+    "regionCode": "66",
+    "regionTvd": "100100225883658",
+    "regionName": "Свердловская область",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 177,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 150,
@@ -8785,15 +10445,15 @@ export const duma_2021_uik_463_region_66_part_009 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бородин Ярослав Викторович": 3,
-      "Даутов Габбас Фанзовиевич": 7,
-      "Калинин Дмитрий Григорьевич": 0,
-      "Коровкин Алексей Сергеевич": 9,
-      "Мельник Сергей Евгеньевич": 3,
-      "Мякишев Павел Викторович": 14,
-      "Рабинович Анатолий Евгеньевич": 2,
-      "Хвостов Валерий Владимирович": 0,
-      "Шипулин Антон Владимирович": 65
+      "4664067248316": 3,
+      "4664067248264": 7,
+      "4664067248554": 0,
+      "4664067247967": 9,
+      "4664067247999": 3,
+      "4664067247158": 14,
+      "4664067248514": 2,
+      "4664067248304": 0,
+      "4664067248131": 65
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/sverdlovsk?action=show&root=1000228&tvd=26620002596981&vrn=100100225883172&region=66&global=&sub_region=66&prver=0&pronetvd=null&vibid=26620002596981&type=464",
@@ -8803,6 +10463,10 @@ export const duma_2021_uik_463_region_66_part_009 = [
       "retrievedAt": "2026-08-26T08:06:43.040120+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/sverdlovsk?action=show&root=1000228&tvd=26620002596981&vrn=100100225883172&region=66&global=&sub_region=66&prver=0&pronetvd=null&vibid=26620002596981&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 174,
+      "oikTvd": "100100225883665"
     }
   },
   {
@@ -8812,8 +10476,12 @@ export const duma_2021_uik_463_region_66_part_009 = [
     "ballot": "single-member",
     "uikNumber": 639,
     "uikTvd": "4664046172461",
+    "uikName": "УИК №639",
     "tikTvd": "26620002596981",
     "tikName": "Новолялинская",
+    "regionCode": "66",
+    "regionTvd": "100100225883658",
+    "regionName": "Свердловская область",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 140,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 100,
@@ -8829,15 +10497,15 @@ export const duma_2021_uik_463_region_66_part_009 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бородин Ярослав Викторович": 1,
-      "Даутов Габбас Фанзовиевич": 0,
-      "Калинин Дмитрий Григорьевич": 0,
-      "Коровкин Алексей Сергеевич": 15,
-      "Мельник Сергей Евгеньевич": 0,
-      "Мякишев Павел Викторович": 2,
-      "Рабинович Анатолий Евгеньевич": 1,
-      "Хвостов Валерий Владимирович": 0,
-      "Шипулин Антон Владимирович": 50
+      "4664067248316": 1,
+      "4664067248264": 0,
+      "4664067248554": 0,
+      "4664067247967": 15,
+      "4664067247999": 0,
+      "4664067247158": 2,
+      "4664067248514": 1,
+      "4664067248304": 0,
+      "4664067248131": 50
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/sverdlovsk?action=show&root=1000228&tvd=26620002596981&vrn=100100225883172&region=66&global=&sub_region=66&prver=0&pronetvd=null&vibid=26620002596981&type=464",
@@ -8847,6 +10515,10 @@ export const duma_2021_uik_463_region_66_part_009 = [
       "retrievedAt": "2026-08-26T08:06:43.040120+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/sverdlovsk?action=show&root=1000228&tvd=26620002596981&vrn=100100225883172&region=66&global=&sub_region=66&prver=0&pronetvd=null&vibid=26620002596981&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 174,
+      "oikTvd": "100100225883665"
     }
   },
   {
@@ -8856,8 +10528,12 @@ export const duma_2021_uik_463_region_66_part_009 = [
     "ballot": "single-member",
     "uikNumber": 640,
     "uikTvd": "4664046172462",
+    "uikName": "УИК №640",
     "tikTvd": "26620002596981",
     "tikName": "Новолялинская",
+    "regionCode": "66",
+    "regionTvd": "100100225883658",
+    "regionName": "Свердловская область",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 248,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 200,
@@ -8873,15 +10549,15 @@ export const duma_2021_uik_463_region_66_part_009 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бородин Ярослав Викторович": 6,
-      "Даутов Габбас Фанзовиевич": 9,
-      "Калинин Дмитрий Григорьевич": 1,
-      "Коровкин Алексей Сергеевич": 56,
-      "Мельник Сергей Евгеньевич": 1,
-      "Мякишев Павел Викторович": 3,
-      "Рабинович Анатолий Евгеньевич": 5,
-      "Хвостов Валерий Владимирович": 0,
-      "Шипулин Антон Владимирович": 38
+      "4664067248316": 6,
+      "4664067248264": 9,
+      "4664067248554": 1,
+      "4664067247967": 56,
+      "4664067247999": 1,
+      "4664067247158": 3,
+      "4664067248514": 5,
+      "4664067248304": 0,
+      "4664067248131": 38
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/sverdlovsk?action=show&root=1000228&tvd=26620002596981&vrn=100100225883172&region=66&global=&sub_region=66&prver=0&pronetvd=null&vibid=26620002596981&type=464",
@@ -8891,6 +10567,10 @@ export const duma_2021_uik_463_region_66_part_009 = [
       "retrievedAt": "2026-08-26T08:06:43.040120+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/sverdlovsk?action=show&root=1000228&tvd=26620002596981&vrn=100100225883172&region=66&global=&sub_region=66&prver=0&pronetvd=null&vibid=26620002596981&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 174,
+      "oikTvd": "100100225883665"
     }
   },
   {
@@ -8900,8 +10580,12 @@ export const duma_2021_uik_463_region_66_part_009 = [
     "ballot": "single-member",
     "uikNumber": 641,
     "uikTvd": "4664046172463",
+    "uikName": "УИК №641",
     "tikTvd": "26620002596981",
     "tikName": "Новолялинская",
+    "regionCode": "66",
+    "regionTvd": "100100225883658",
+    "regionName": "Свердловская область",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 149,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 140,
@@ -8917,15 +10601,15 @@ export const duma_2021_uik_463_region_66_part_009 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бородин Ярослав Викторович": 1,
-      "Даутов Габбас Фанзовиевич": 7,
-      "Калинин Дмитрий Григорьевич": 1,
-      "Коровкин Алексей Сергеевич": 32,
-      "Мельник Сергей Евгеньевич": 1,
-      "Мякишев Павел Викторович": 4,
-      "Рабинович Анатолий Евгеньевич": 1,
-      "Хвостов Валерий Владимирович": 2,
-      "Шипулин Антон Владимирович": 28
+      "4664067248316": 1,
+      "4664067248264": 7,
+      "4664067248554": 1,
+      "4664067247967": 32,
+      "4664067247999": 1,
+      "4664067247158": 4,
+      "4664067248514": 1,
+      "4664067248304": 2,
+      "4664067248131": 28
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/sverdlovsk?action=show&root=1000228&tvd=26620002596981&vrn=100100225883172&region=66&global=&sub_region=66&prver=0&pronetvd=null&vibid=26620002596981&type=464",
@@ -8935,6 +10619,10 @@ export const duma_2021_uik_463_region_66_part_009 = [
       "retrievedAt": "2026-08-26T08:06:43.040120+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/sverdlovsk?action=show&root=1000228&tvd=26620002596981&vrn=100100225883172&region=66&global=&sub_region=66&prver=0&pronetvd=null&vibid=26620002596981&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 174,
+      "oikTvd": "100100225883665"
     }
   },
   {
@@ -8944,8 +10632,12 @@ export const duma_2021_uik_463_region_66_part_009 = [
     "ballot": "single-member",
     "uikNumber": 642,
     "uikTvd": "4664046172464",
+    "uikName": "УИК №642",
     "tikTvd": "26620002596981",
     "tikName": "Новолялинская",
+    "regionCode": "66",
+    "regionTvd": "100100225883658",
+    "regionName": "Свердловская область",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 126,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 100,
@@ -8961,15 +10653,15 @@ export const duma_2021_uik_463_region_66_part_009 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бородин Ярослав Викторович": 3,
-      "Даутов Габбас Фанзовиевич": 10,
-      "Калинин Дмитрий Григорьевич": 1,
-      "Коровкин Алексей Сергеевич": 8,
-      "Мельник Сергей Евгеньевич": 3,
-      "Мякишев Павел Викторович": 4,
-      "Рабинович Анатолий Евгеньевич": 1,
-      "Хвостов Валерий Владимирович": 0,
-      "Шипулин Антон Владимирович": 35
+      "4664067248316": 3,
+      "4664067248264": 10,
+      "4664067248554": 1,
+      "4664067247967": 8,
+      "4664067247999": 3,
+      "4664067247158": 4,
+      "4664067248514": 1,
+      "4664067248304": 0,
+      "4664067248131": 35
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/sverdlovsk?action=show&root=1000228&tvd=26620002596981&vrn=100100225883172&region=66&global=&sub_region=66&prver=0&pronetvd=null&vibid=26620002596981&type=464",
@@ -8979,6 +10671,10 @@ export const duma_2021_uik_463_region_66_part_009 = [
       "retrievedAt": "2026-08-26T08:06:43.040120+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/sverdlovsk?action=show&root=1000228&tvd=26620002596981&vrn=100100225883172&region=66&global=&sub_region=66&prver=0&pronetvd=null&vibid=26620002596981&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 174,
+      "oikTvd": "100100225883665"
     }
   },
   {
@@ -8988,8 +10684,12 @@ export const duma_2021_uik_463_region_66_part_009 = [
     "ballot": "single-member",
     "uikNumber": 643,
     "uikTvd": "4664046172465",
+    "uikName": "УИК №643",
     "tikTvd": "26620002596981",
     "tikName": "Новолялинская",
+    "regionCode": "66",
+    "regionTvd": "100100225883658",
+    "regionName": "Свердловская область",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 148,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 150,
@@ -9005,15 +10705,15 @@ export const duma_2021_uik_463_region_66_part_009 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бородин Ярослав Викторович": 3,
-      "Даутов Габбас Фанзовиевич": 7,
-      "Калинин Дмитрий Григорьевич": 2,
-      "Коровкин Алексей Сергеевич": 13,
-      "Мельник Сергей Евгеньевич": 1,
-      "Мякишев Павел Викторович": 3,
-      "Рабинович Анатолий Евгеньевич": 1,
-      "Хвостов Валерий Владимирович": 0,
-      "Шипулин Антон Владимирович": 38
+      "4664067248316": 3,
+      "4664067248264": 7,
+      "4664067248554": 2,
+      "4664067247967": 13,
+      "4664067247999": 1,
+      "4664067247158": 3,
+      "4664067248514": 1,
+      "4664067248304": 0,
+      "4664067248131": 38
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/sverdlovsk?action=show&root=1000228&tvd=26620002596981&vrn=100100225883172&region=66&global=&sub_region=66&prver=0&pronetvd=null&vibid=26620002596981&type=464",
@@ -9023,6 +10723,10 @@ export const duma_2021_uik_463_region_66_part_009 = [
       "retrievedAt": "2026-08-26T08:06:43.040120+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/sverdlovsk?action=show&root=1000228&tvd=26620002596981&vrn=100100225883172&region=66&global=&sub_region=66&prver=0&pronetvd=null&vibid=26620002596981&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 174,
+      "oikTvd": "100100225883665"
     }
   },
   {
@@ -9032,8 +10736,12 @@ export const duma_2021_uik_463_region_66_part_009 = [
     "ballot": "single-member",
     "uikNumber": 644,
     "uikTvd": "4664046175395",
+    "uikName": "УИК №644",
     "tikTvd": "26620002596981",
     "tikName": "Новолялинская",
+    "regionCode": "66",
+    "regionTvd": "100100225883658",
+    "regionName": "Свердловская область",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 151,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 200,
@@ -9049,15 +10757,15 @@ export const duma_2021_uik_463_region_66_part_009 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бородин Ярослав Викторович": 10,
-      "Даутов Габбас Фанзовиевич": 17,
-      "Калинин Дмитрий Григорьевич": 7,
-      "Коровкин Алексей Сергеевич": 7,
-      "Мельник Сергей Евгеньевич": 7,
-      "Мякишев Павел Викторович": 30,
-      "Рабинович Анатолий Евгеньевич": 1,
-      "Хвостов Валерий Владимирович": 0,
-      "Шипулин Антон Владимирович": 22
+      "4664067248316": 10,
+      "4664067248264": 17,
+      "4664067248554": 7,
+      "4664067247967": 7,
+      "4664067247999": 7,
+      "4664067247158": 30,
+      "4664067248514": 1,
+      "4664067248304": 0,
+      "4664067248131": 22
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/sverdlovsk?action=show&root=1000228&tvd=26620002596981&vrn=100100225883172&region=66&global=&sub_region=66&prver=0&pronetvd=null&vibid=26620002596981&type=464",
@@ -9067,6 +10775,10 @@ export const duma_2021_uik_463_region_66_part_009 = [
       "retrievedAt": "2026-08-26T08:06:43.040120+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/sverdlovsk?action=show&root=1000228&tvd=26620002596981&vrn=100100225883172&region=66&global=&sub_region=66&prver=0&pronetvd=null&vibid=26620002596981&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 174,
+      "oikTvd": "100100225883665"
     }
   },
   {
@@ -9076,8 +10788,12 @@ export const duma_2021_uik_463_region_66_part_009 = [
     "ballot": "single-member",
     "uikNumber": 602,
     "uikTvd": "4664044192826",
+    "uikName": "УИК №602",
     "tikTvd": "26620002596982",
     "tikName": "Нижнетуринская",
+    "regionCode": "66",
+    "regionTvd": "100100225883658",
+    "regionName": "Свердловская область",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 1256,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 1000,
@@ -9093,15 +10809,15 @@ export const duma_2021_uik_463_region_66_part_009 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бородин Ярослав Викторович": 33,
-      "Даутов Габбас Фанзовиевич": 80,
-      "Калинин Дмитрий Григорьевич": 18,
-      "Коровкин Алексей Сергеевич": 71,
-      "Мельник Сергей Евгеньевич": 10,
-      "Мякишев Павел Викторович": 57,
-      "Рабинович Анатолий Евгеньевич": 14,
-      "Хвостов Валерий Владимирович": 7,
-      "Шипулин Антон Владимирович": 204
+      "4664067248316": 33,
+      "4664067248264": 80,
+      "4664067248554": 18,
+      "4664067247967": 71,
+      "4664067247999": 10,
+      "4664067247158": 57,
+      "4664067248514": 14,
+      "4664067248304": 7,
+      "4664067248131": 204
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/sverdlovsk?action=show&root=1000228&tvd=26620002596982&vrn=100100225883172&region=66&global=&sub_region=66&prver=0&pronetvd=null&vibid=26620002596982&type=464",
@@ -9111,6 +10827,10 @@ export const duma_2021_uik_463_region_66_part_009 = [
       "retrievedAt": "2026-08-26T08:06:43.217485+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/sverdlovsk?action=show&root=1000228&tvd=26620002596982&vrn=100100225883172&region=66&global=&sub_region=66&prver=0&pronetvd=null&vibid=26620002596982&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 174,
+      "oikTvd": "100100225883665"
     }
   },
   {
@@ -9120,8 +10840,12 @@ export const duma_2021_uik_463_region_66_part_009 = [
     "ballot": "single-member",
     "uikNumber": 603,
     "uikTvd": "4664044192827",
+    "uikName": "УИК №603",
     "tikTvd": "26620002596982",
     "tikName": "Нижнетуринская",
+    "regionCode": "66",
+    "regionTvd": "100100225883658",
+    "regionName": "Свердловская область",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 1370,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 1130,
@@ -9137,15 +10861,15 @@ export const duma_2021_uik_463_region_66_part_009 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бородин Ярослав Викторович": 32,
-      "Даутов Габбас Фанзовиевич": 133,
-      "Калинин Дмитрий Григорьевич": 17,
-      "Коровкин Алексей Сергеевич": 81,
-      "Мельник Сергей Евгеньевич": 15,
-      "Мякишев Павел Викторович": 61,
-      "Рабинович Анатолий Евгеньевич": 14,
-      "Хвостов Валерий Владимирович": 4,
-      "Шипулин Антон Владимирович": 259
+      "4664067248316": 32,
+      "4664067248264": 133,
+      "4664067248554": 17,
+      "4664067247967": 81,
+      "4664067247999": 15,
+      "4664067247158": 61,
+      "4664067248514": 14,
+      "4664067248304": 4,
+      "4664067248131": 259
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/sverdlovsk?action=show&root=1000228&tvd=26620002596982&vrn=100100225883172&region=66&global=&sub_region=66&prver=0&pronetvd=null&vibid=26620002596982&type=464",
@@ -9155,6 +10879,10 @@ export const duma_2021_uik_463_region_66_part_009 = [
       "retrievedAt": "2026-08-26T08:06:43.217485+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/sverdlovsk?action=show&root=1000228&tvd=26620002596982&vrn=100100225883172&region=66&global=&sub_region=66&prver=0&pronetvd=null&vibid=26620002596982&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 174,
+      "oikTvd": "100100225883665"
     }
   },
   {
@@ -9164,8 +10892,12 @@ export const duma_2021_uik_463_region_66_part_009 = [
     "ballot": "single-member",
     "uikNumber": 604,
     "uikTvd": "4664044192828",
+    "uikName": "УИК №604",
     "tikTvd": "26620002596982",
     "tikName": "Нижнетуринская",
+    "regionCode": "66",
+    "regionTvd": "100100225883658",
+    "regionName": "Свердловская область",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 857,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 690,
@@ -9181,15 +10913,15 @@ export const duma_2021_uik_463_region_66_part_009 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бородин Ярослав Викторович": 24,
-      "Даутов Габбас Фанзовиевич": 71,
-      "Калинин Дмитрий Григорьевич": 9,
-      "Коровкин Алексей Сергеевич": 49,
-      "Мельник Сергей Евгеньевич": 8,
-      "Мякишев Павел Викторович": 46,
-      "Рабинович Анатолий Евгеньевич": 8,
-      "Хвостов Валерий Владимирович": 2,
-      "Шипулин Антон Владимирович": 184
+      "4664067248316": 24,
+      "4664067248264": 71,
+      "4664067248554": 9,
+      "4664067247967": 49,
+      "4664067247999": 8,
+      "4664067247158": 46,
+      "4664067248514": 8,
+      "4664067248304": 2,
+      "4664067248131": 184
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/sverdlovsk?action=show&root=1000228&tvd=26620002596982&vrn=100100225883172&region=66&global=&sub_region=66&prver=0&pronetvd=null&vibid=26620002596982&type=464",
@@ -9199,6 +10931,10 @@ export const duma_2021_uik_463_region_66_part_009 = [
       "retrievedAt": "2026-08-26T08:06:43.217485+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/sverdlovsk?action=show&root=1000228&tvd=26620002596982&vrn=100100225883172&region=66&global=&sub_region=66&prver=0&pronetvd=null&vibid=26620002596982&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 174,
+      "oikTvd": "100100225883665"
     }
   },
   {
@@ -9208,8 +10944,12 @@ export const duma_2021_uik_463_region_66_part_009 = [
     "ballot": "single-member",
     "uikNumber": 605,
     "uikTvd": "4664044192829",
+    "uikName": "УИК №605",
     "tikTvd": "26620002596982",
     "tikName": "Нижнетуринская",
+    "regionCode": "66",
+    "regionTvd": "100100225883658",
+    "regionName": "Свердловская область",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 2261,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 1890,
@@ -9225,15 +10965,15 @@ export const duma_2021_uik_463_region_66_part_009 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бородин Ярослав Викторович": 56,
-      "Даутов Габбас Фанзовиевич": 221,
-      "Калинин Дмитрий Григорьевич": 37,
-      "Коровкин Алексей Сергеевич": 159,
-      "Мельник Сергей Евгеньевич": 17,
-      "Мякишев Павел Викторович": 115,
-      "Рабинович Анатолий Евгеньевич": 25,
-      "Хвостов Валерий Владимирович": 18,
-      "Шипулин Антон Владимирович": 470
+      "4664067248316": 56,
+      "4664067248264": 221,
+      "4664067248554": 37,
+      "4664067247967": 159,
+      "4664067247999": 17,
+      "4664067247158": 115,
+      "4664067248514": 25,
+      "4664067248304": 18,
+      "4664067248131": 470
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/sverdlovsk?action=show&root=1000228&tvd=26620002596982&vrn=100100225883172&region=66&global=&sub_region=66&prver=0&pronetvd=null&vibid=26620002596982&type=464",
@@ -9243,6 +10983,10 @@ export const duma_2021_uik_463_region_66_part_009 = [
       "retrievedAt": "2026-08-26T08:06:43.217485+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/sverdlovsk?action=show&root=1000228&tvd=26620002596982&vrn=100100225883172&region=66&global=&sub_region=66&prver=0&pronetvd=null&vibid=26620002596982&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 174,
+      "oikTvd": "100100225883665"
     }
   },
   {
@@ -9252,8 +10996,12 @@ export const duma_2021_uik_463_region_66_part_009 = [
     "ballot": "single-member",
     "uikNumber": 606,
     "uikTvd": "4664044192830",
+    "uikName": "УИК №606",
     "tikTvd": "26620002596982",
     "tikName": "Нижнетуринская",
+    "regionCode": "66",
+    "regionTvd": "100100225883658",
+    "regionName": "Свердловская область",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 1886,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 1560,
@@ -9269,15 +11017,15 @@ export const duma_2021_uik_463_region_66_part_009 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бородин Ярослав Викторович": 48,
-      "Даутов Габбас Фанзовиевич": 167,
-      "Калинин Дмитрий Григорьевич": 31,
-      "Коровкин Алексей Сергеевич": 129,
-      "Мельник Сергей Евгеньевич": 21,
-      "Мякишев Павел Викторович": 117,
-      "Рабинович Анатолий Евгеньевич": 25,
-      "Хвостов Валерий Владимирович": 2,
-      "Шипулин Антон Владимирович": 452
+      "4664067248316": 48,
+      "4664067248264": 167,
+      "4664067248554": 31,
+      "4664067247967": 129,
+      "4664067247999": 21,
+      "4664067247158": 117,
+      "4664067248514": 25,
+      "4664067248304": 2,
+      "4664067248131": 452
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/sverdlovsk?action=show&root=1000228&tvd=26620002596982&vrn=100100225883172&region=66&global=&sub_region=66&prver=0&pronetvd=null&vibid=26620002596982&type=464",
@@ -9287,6 +11035,10 @@ export const duma_2021_uik_463_region_66_part_009 = [
       "retrievedAt": "2026-08-26T08:06:43.217485+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/sverdlovsk?action=show&root=1000228&tvd=26620002596982&vrn=100100225883172&region=66&global=&sub_region=66&prver=0&pronetvd=null&vibid=26620002596982&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 174,
+      "oikTvd": "100100225883665"
     }
   },
   {
@@ -9296,8 +11048,12 @@ export const duma_2021_uik_463_region_66_part_009 = [
     "ballot": "single-member",
     "uikNumber": 607,
     "uikTvd": "4664044192831",
+    "uikName": "УИК №607",
     "tikTvd": "26620002596982",
     "tikName": "Нижнетуринская",
+    "regionCode": "66",
+    "regionTvd": "100100225883658",
+    "regionName": "Свердловская область",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 1623,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 1330,
@@ -9313,15 +11069,15 @@ export const duma_2021_uik_463_region_66_part_009 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бородин Ярослав Викторович": 47,
-      "Даутов Габбас Фанзовиевич": 155,
-      "Калинин Дмитрий Григорьевич": 17,
-      "Коровкин Алексей Сергеевич": 135,
-      "Мельник Сергей Евгеньевич": 9,
-      "Мякишев Павел Викторович": 78,
-      "Рабинович Анатолий Евгеньевич": 25,
-      "Хвостов Валерий Владимирович": 3,
-      "Шипулин Антон Владимирович": 381
+      "4664067248316": 47,
+      "4664067248264": 155,
+      "4664067248554": 17,
+      "4664067247967": 135,
+      "4664067247999": 9,
+      "4664067247158": 78,
+      "4664067248514": 25,
+      "4664067248304": 3,
+      "4664067248131": 381
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/sverdlovsk?action=show&root=1000228&tvd=26620002596982&vrn=100100225883172&region=66&global=&sub_region=66&prver=0&pronetvd=null&vibid=26620002596982&type=464",
@@ -9331,6 +11087,10 @@ export const duma_2021_uik_463_region_66_part_009 = [
       "retrievedAt": "2026-08-26T08:06:43.217485+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/sverdlovsk?action=show&root=1000228&tvd=26620002596982&vrn=100100225883172&region=66&global=&sub_region=66&prver=0&pronetvd=null&vibid=26620002596982&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 174,
+      "oikTvd": "100100225883665"
     }
   },
   {
@@ -9340,8 +11100,12 @@ export const duma_2021_uik_463_region_66_part_009 = [
     "ballot": "single-member",
     "uikNumber": 608,
     "uikTvd": "4664044192832",
+    "uikName": "УИК №608",
     "tikTvd": "26620002596982",
     "tikName": "Нижнетуринская",
+    "regionCode": "66",
+    "regionTvd": "100100225883658",
+    "regionName": "Свердловская область",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 1825,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 1510,
@@ -9357,15 +11121,15 @@ export const duma_2021_uik_463_region_66_part_009 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бородин Ярослав Викторович": 48,
-      "Даутов Габбас Фанзовиевич": 200,
-      "Калинин Дмитрий Григорьевич": 27,
-      "Коровкин Алексей Сергеевич": 127,
-      "Мельник Сергей Евгеньевич": 19,
-      "Мякишев Павел Викторович": 108,
-      "Рабинович Анатолий Евгеньевич": 27,
-      "Хвостов Валерий Владимирович": 9,
-      "Шипулин Антон Владимирович": 393
+      "4664067248316": 48,
+      "4664067248264": 200,
+      "4664067248554": 27,
+      "4664067247967": 127,
+      "4664067247999": 19,
+      "4664067247158": 108,
+      "4664067248514": 27,
+      "4664067248304": 9,
+      "4664067248131": 393
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/sverdlovsk?action=show&root=1000228&tvd=26620002596982&vrn=100100225883172&region=66&global=&sub_region=66&prver=0&pronetvd=null&vibid=26620002596982&type=464",
@@ -9375,6 +11139,10 @@ export const duma_2021_uik_463_region_66_part_009 = [
       "retrievedAt": "2026-08-26T08:06:43.217485+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/sverdlovsk?action=show&root=1000228&tvd=26620002596982&vrn=100100225883172&region=66&global=&sub_region=66&prver=0&pronetvd=null&vibid=26620002596982&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 174,
+      "oikTvd": "100100225883665"
     }
   },
   {
@@ -9384,8 +11152,12 @@ export const duma_2021_uik_463_region_66_part_009 = [
     "ballot": "single-member",
     "uikNumber": 609,
     "uikTvd": "4664044192833",
+    "uikName": "УИК №609",
     "tikTvd": "26620002596982",
     "tikName": "Нижнетуринская",
+    "regionCode": "66",
+    "regionTvd": "100100225883658",
+    "regionName": "Свердловская область",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 1409,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 1160,
@@ -9401,15 +11173,15 @@ export const duma_2021_uik_463_region_66_part_009 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бородин Ярослав Викторович": 37,
-      "Даутов Габбас Фанзовиевич": 113,
-      "Калинин Дмитрий Григорьевич": 11,
-      "Коровкин Алексей Сергеевич": 80,
-      "Мельник Сергей Евгеньевич": 13,
-      "Мякишев Павел Викторович": 75,
-      "Рабинович Анатолий Евгеньевич": 16,
-      "Хвостов Валерий Владимирович": 6,
-      "Шипулин Антон Владимирович": 275
+      "4664067248316": 37,
+      "4664067248264": 113,
+      "4664067248554": 11,
+      "4664067247967": 80,
+      "4664067247999": 13,
+      "4664067247158": 75,
+      "4664067248514": 16,
+      "4664067248304": 6,
+      "4664067248131": 275
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/sverdlovsk?action=show&root=1000228&tvd=26620002596982&vrn=100100225883172&region=66&global=&sub_region=66&prver=0&pronetvd=null&vibid=26620002596982&type=464",
@@ -9419,6 +11191,10 @@ export const duma_2021_uik_463_region_66_part_009 = [
       "retrievedAt": "2026-08-26T08:06:43.217485+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/sverdlovsk?action=show&root=1000228&tvd=26620002596982&vrn=100100225883172&region=66&global=&sub_region=66&prver=0&pronetvd=null&vibid=26620002596982&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 174,
+      "oikTvd": "100100225883665"
     }
   },
   {
@@ -9428,8 +11204,12 @@ export const duma_2021_uik_463_region_66_part_009 = [
     "ballot": "single-member",
     "uikNumber": 610,
     "uikTvd": "4664044192834",
+    "uikName": "УИК №610",
     "tikTvd": "26620002596982",
     "tikName": "Нижнетуринская",
+    "regionCode": "66",
+    "regionTvd": "100100225883658",
+    "regionName": "Свердловская область",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 2066,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 1700,
@@ -9445,15 +11225,15 @@ export const duma_2021_uik_463_region_66_part_009 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бородин Ярослав Викторович": 58,
-      "Даутов Габбас Фанзовиевич": 193,
-      "Калинин Дмитрий Григорьевич": 31,
-      "Коровкин Алексей Сергеевич": 141,
-      "Мельник Сергей Евгеньевич": 18,
-      "Мякишев Павел Викторович": 101,
-      "Рабинович Анатолий Евгеньевич": 18,
-      "Хвостов Валерий Владимирович": 18,
-      "Шипулин Антон Владимирович": 483
+      "4664067248316": 58,
+      "4664067248264": 193,
+      "4664067248554": 31,
+      "4664067247967": 141,
+      "4664067247999": 18,
+      "4664067247158": 101,
+      "4664067248514": 18,
+      "4664067248304": 18,
+      "4664067248131": 483
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/sverdlovsk?action=show&root=1000228&tvd=26620002596982&vrn=100100225883172&region=66&global=&sub_region=66&prver=0&pronetvd=null&vibid=26620002596982&type=464",
@@ -9463,6 +11243,10 @@ export const duma_2021_uik_463_region_66_part_009 = [
       "retrievedAt": "2026-08-26T08:06:43.217485+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/sverdlovsk?action=show&root=1000228&tvd=26620002596982&vrn=100100225883172&region=66&global=&sub_region=66&prver=0&pronetvd=null&vibid=26620002596982&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 174,
+      "oikTvd": "100100225883665"
     }
   },
   {
@@ -9472,8 +11256,12 @@ export const duma_2021_uik_463_region_66_part_009 = [
     "ballot": "single-member",
     "uikNumber": 611,
     "uikTvd": "4664044192835",
+    "uikName": "УИК №611",
     "tikTvd": "26620002596982",
     "tikName": "Нижнетуринская",
+    "regionCode": "66",
+    "regionTvd": "100100225883658",
+    "regionName": "Свердловская область",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 664,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 530,
@@ -9489,15 +11277,15 @@ export const duma_2021_uik_463_region_66_part_009 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бородин Ярослав Викторович": 22,
-      "Даутов Габбас Фанзовиевич": 75,
-      "Калинин Дмитрий Григорьевич": 9,
-      "Коровкин Алексей Сергеевич": 39,
-      "Мельник Сергей Евгеньевич": 6,
-      "Мякишев Павел Викторович": 25,
-      "Рабинович Анатолий Евгеньевич": 16,
-      "Хвостов Валерий Владимирович": 2,
-      "Шипулин Антон Владимирович": 71
+      "4664067248316": 22,
+      "4664067248264": 75,
+      "4664067248554": 9,
+      "4664067247967": 39,
+      "4664067247999": 6,
+      "4664067247158": 25,
+      "4664067248514": 16,
+      "4664067248304": 2,
+      "4664067248131": 71
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/sverdlovsk?action=show&root=1000228&tvd=26620002596982&vrn=100100225883172&region=66&global=&sub_region=66&prver=0&pronetvd=null&vibid=26620002596982&type=464",
@@ -9507,6 +11295,10 @@ export const duma_2021_uik_463_region_66_part_009 = [
       "retrievedAt": "2026-08-26T08:06:43.217485+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/sverdlovsk?action=show&root=1000228&tvd=26620002596982&vrn=100100225883172&region=66&global=&sub_region=66&prver=0&pronetvd=null&vibid=26620002596982&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 174,
+      "oikTvd": "100100225883665"
     }
   },
   {
@@ -9516,8 +11308,12 @@ export const duma_2021_uik_463_region_66_part_009 = [
     "ballot": "single-member",
     "uikNumber": 612,
     "uikTvd": "4664044192836",
+    "uikName": "УИК №612",
     "tikTvd": "26620002596982",
     "tikName": "Нижнетуринская",
+    "regionCode": "66",
+    "regionTvd": "100100225883658",
+    "regionName": "Свердловская область",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 1470,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 1210,
@@ -9533,15 +11329,15 @@ export const duma_2021_uik_463_region_66_part_009 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бородин Ярослав Викторович": 41,
-      "Даутов Габбас Фанзовиевич": 148,
-      "Калинин Дмитрий Григорьевич": 15,
-      "Коровкин Алексей Сергеевич": 139,
-      "Мельник Сергей Евгеньевич": 14,
-      "Мякишев Павел Викторович": 59,
-      "Рабинович Анатолий Евгеньевич": 18,
-      "Хвостов Валерий Владимирович": 3,
-      "Шипулин Антон Владимирович": 208
+      "4664067248316": 41,
+      "4664067248264": 148,
+      "4664067248554": 15,
+      "4664067247967": 139,
+      "4664067247999": 14,
+      "4664067247158": 59,
+      "4664067248514": 18,
+      "4664067248304": 3,
+      "4664067248131": 208
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/sverdlovsk?action=show&root=1000228&tvd=26620002596982&vrn=100100225883172&region=66&global=&sub_region=66&prver=0&pronetvd=null&vibid=26620002596982&type=464",
@@ -9551,6 +11347,10 @@ export const duma_2021_uik_463_region_66_part_009 = [
       "retrievedAt": "2026-08-26T08:06:43.217485+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/sverdlovsk?action=show&root=1000228&tvd=26620002596982&vrn=100100225883172&region=66&global=&sub_region=66&prver=0&pronetvd=null&vibid=26620002596982&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 174,
+      "oikTvd": "100100225883665"
     }
   },
   {
@@ -9560,8 +11360,12 @@ export const duma_2021_uik_463_region_66_part_009 = [
     "ballot": "single-member",
     "uikNumber": 613,
     "uikTvd": "4664044192837",
+    "uikName": "УИК №613",
     "tikTvd": "26620002596982",
     "tikName": "Нижнетуринская",
+    "regionCode": "66",
+    "regionTvd": "100100225883658",
+    "regionName": "Свердловская область",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 836,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 680,
@@ -9577,15 +11381,15 @@ export const duma_2021_uik_463_region_66_part_009 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бородин Ярослав Викторович": 33,
-      "Даутов Габбас Фанзовиевич": 105,
-      "Калинин Дмитрий Григорьевич": 15,
-      "Коровкин Алексей Сергеевич": 88,
-      "Мельник Сергей Евгеньевич": 7,
-      "Мякишев Павел Викторович": 36,
-      "Рабинович Анатолий Евгеньевич": 13,
-      "Хвостов Валерий Владимирович": 5,
-      "Шипулин Антон Владимирович": 141
+      "4664067248316": 33,
+      "4664067248264": 105,
+      "4664067248554": 15,
+      "4664067247967": 88,
+      "4664067247999": 7,
+      "4664067247158": 36,
+      "4664067248514": 13,
+      "4664067248304": 5,
+      "4664067248131": 141
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/sverdlovsk?action=show&root=1000228&tvd=26620002596982&vrn=100100225883172&region=66&global=&sub_region=66&prver=0&pronetvd=null&vibid=26620002596982&type=464",
@@ -9595,6 +11399,10 @@ export const duma_2021_uik_463_region_66_part_009 = [
       "retrievedAt": "2026-08-26T08:06:43.217485+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/sverdlovsk?action=show&root=1000228&tvd=26620002596982&vrn=100100225883172&region=66&global=&sub_region=66&prver=0&pronetvd=null&vibid=26620002596982&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 174,
+      "oikTvd": "100100225883665"
     }
   },
   {
@@ -9604,8 +11412,12 @@ export const duma_2021_uik_463_region_66_part_009 = [
     "ballot": "single-member",
     "uikNumber": 614,
     "uikTvd": "4664044192838",
+    "uikName": "УИК №614",
     "tikTvd": "26620002596982",
     "tikName": "Нижнетуринская",
+    "regionCode": "66",
+    "regionTvd": "100100225883658",
+    "regionName": "Свердловская область",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 249,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 210,
@@ -9621,15 +11433,15 @@ export const duma_2021_uik_463_region_66_part_009 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бородин Ярослав Викторович": 6,
-      "Даутов Габбас Фанзовиевич": 31,
-      "Калинин Дмитрий Григорьевич": 3,
-      "Коровкин Алексей Сергеевич": 16,
-      "Мельник Сергей Евгеньевич": 2,
-      "Мякишев Павел Викторович": 13,
-      "Рабинович Анатолий Евгеньевич": 5,
-      "Хвостов Валерий Владимирович": 2,
-      "Шипулин Антон Владимирович": 39
+      "4664067248316": 6,
+      "4664067248264": 31,
+      "4664067248554": 3,
+      "4664067247967": 16,
+      "4664067247999": 2,
+      "4664067247158": 13,
+      "4664067248514": 5,
+      "4664067248304": 2,
+      "4664067248131": 39
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/sverdlovsk?action=show&root=1000228&tvd=26620002596982&vrn=100100225883172&region=66&global=&sub_region=66&prver=0&pronetvd=null&vibid=26620002596982&type=464",
@@ -9639,6 +11451,10 @@ export const duma_2021_uik_463_region_66_part_009 = [
       "retrievedAt": "2026-08-26T08:06:43.217485+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/sverdlovsk?action=show&root=1000228&tvd=26620002596982&vrn=100100225883172&region=66&global=&sub_region=66&prver=0&pronetvd=null&vibid=26620002596982&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 174,
+      "oikTvd": "100100225883665"
     }
   },
   {
@@ -9648,8 +11464,12 @@ export const duma_2021_uik_463_region_66_part_009 = [
     "ballot": "single-member",
     "uikNumber": 615,
     "uikTvd": "4664044192839",
+    "uikName": "УИК №615",
     "tikTvd": "26620002596982",
     "tikName": "Нижнетуринская",
+    "regionCode": "66",
+    "regionTvd": "100100225883658",
+    "regionName": "Свердловская область",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 429,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 370,
@@ -9665,15 +11485,15 @@ export const duma_2021_uik_463_region_66_part_009 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бородин Ярослав Викторович": 8,
-      "Даутов Габбас Фанзовиевич": 78,
-      "Калинин Дмитрий Григорьевич": 6,
-      "Коровкин Алексей Сергеевич": 31,
-      "Мельник Сергей Евгеньевич": 4,
-      "Мякишев Павел Викторович": 18,
-      "Рабинович Анатолий Евгеньевич": 2,
-      "Хвостов Валерий Владимирович": 2,
-      "Шипулин Антон Владимирович": 58
+      "4664067248316": 8,
+      "4664067248264": 78,
+      "4664067248554": 6,
+      "4664067247967": 31,
+      "4664067247999": 4,
+      "4664067247158": 18,
+      "4664067248514": 2,
+      "4664067248304": 2,
+      "4664067248131": 58
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/sverdlovsk?action=show&root=1000228&tvd=26620002596982&vrn=100100225883172&region=66&global=&sub_region=66&prver=0&pronetvd=null&vibid=26620002596982&type=464",
@@ -9683,6 +11503,10 @@ export const duma_2021_uik_463_region_66_part_009 = [
       "retrievedAt": "2026-08-26T08:06:43.217485+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/sverdlovsk?action=show&root=1000228&tvd=26620002596982&vrn=100100225883172&region=66&global=&sub_region=66&prver=0&pronetvd=null&vibid=26620002596982&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 174,
+      "oikTvd": "100100225883665"
     }
   },
   {
@@ -9692,8 +11516,12 @@ export const duma_2021_uik_463_region_66_part_009 = [
     "ballot": "single-member",
     "uikNumber": 616,
     "uikTvd": "4664044192840",
+    "uikName": "УИК №616",
     "tikTvd": "26620002596982",
     "tikName": "Нижнетуринская",
+    "regionCode": "66",
+    "regionTvd": "100100225883658",
+    "regionName": "Свердловская область",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 216,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 170,
@@ -9709,15 +11537,15 @@ export const duma_2021_uik_463_region_66_part_009 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бородин Ярослав Викторович": 6,
-      "Даутов Габбас Фанзовиевич": 31,
-      "Калинин Дмитрий Григорьевич": 1,
-      "Коровкин Алексей Сергеевич": 15,
-      "Мельник Сергей Евгеньевич": 4,
-      "Мякишев Павел Викторович": 16,
-      "Рабинович Анатолий Евгеньевич": 1,
-      "Хвостов Валерий Владимирович": 1,
-      "Шипулин Антон Владимирович": 30
+      "4664067248316": 6,
+      "4664067248264": 31,
+      "4664067248554": 1,
+      "4664067247967": 15,
+      "4664067247999": 4,
+      "4664067247158": 16,
+      "4664067248514": 1,
+      "4664067248304": 1,
+      "4664067248131": 30
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/sverdlovsk?action=show&root=1000228&tvd=26620002596982&vrn=100100225883172&region=66&global=&sub_region=66&prver=0&pronetvd=null&vibid=26620002596982&type=464",
@@ -9727,6 +11555,10 @@ export const duma_2021_uik_463_region_66_part_009 = [
       "retrievedAt": "2026-08-26T08:06:43.217485+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/sverdlovsk?action=show&root=1000228&tvd=26620002596982&vrn=100100225883172&region=66&global=&sub_region=66&prver=0&pronetvd=null&vibid=26620002596982&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 174,
+      "oikTvd": "100100225883665"
     }
   },
   {
@@ -9736,8 +11568,12 @@ export const duma_2021_uik_463_region_66_part_009 = [
     "ballot": "single-member",
     "uikNumber": 617,
     "uikTvd": "4664044192841",
+    "uikName": "УИК №617",
     "tikTvd": "26620002596982",
     "tikName": "Нижнетуринская",
+    "regionCode": "66",
+    "regionTvd": "100100225883658",
+    "regionName": "Свердловская область",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 198,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 150,
@@ -9753,15 +11589,15 @@ export const duma_2021_uik_463_region_66_part_009 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бородин Ярослав Викторович": 8,
-      "Даутов Габбас Фанзовиевич": 26,
-      "Калинин Дмитрий Григорьевич": 3,
-      "Коровкин Алексей Сергеевич": 14,
-      "Мельник Сергей Евгеньевич": 3,
-      "Мякишев Павел Викторович": 12,
-      "Рабинович Анатолий Евгеньевич": 2,
-      "Хвостов Валерий Владимирович": 0,
-      "Шипулин Антон Владимирович": 73
+      "4664067248316": 8,
+      "4664067248264": 26,
+      "4664067248554": 3,
+      "4664067247967": 14,
+      "4664067247999": 3,
+      "4664067247158": 12,
+      "4664067248514": 2,
+      "4664067248304": 0,
+      "4664067248131": 73
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/sverdlovsk?action=show&root=1000228&tvd=26620002596982&vrn=100100225883172&region=66&global=&sub_region=66&prver=0&pronetvd=null&vibid=26620002596982&type=464",
@@ -9771,6 +11607,10 @@ export const duma_2021_uik_463_region_66_part_009 = [
       "retrievedAt": "2026-08-26T08:06:43.217485+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/sverdlovsk?action=show&root=1000228&tvd=26620002596982&vrn=100100225883172&region=66&global=&sub_region=66&prver=0&pronetvd=null&vibid=26620002596982&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 174,
+      "oikTvd": "100100225883665"
     }
   },
   {
@@ -9780,8 +11620,12 @@ export const duma_2021_uik_463_region_66_part_009 = [
     "ballot": "single-member",
     "uikNumber": 618,
     "uikTvd": "4664044192842",
+    "uikName": "УИК №618",
     "tikTvd": "26620002596982",
     "tikName": "Нижнетуринская",
+    "regionCode": "66",
+    "regionTvd": "100100225883658",
+    "regionName": "Свердловская область",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 96,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 90,
@@ -9797,15 +11641,15 @@ export const duma_2021_uik_463_region_66_part_009 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бородин Ярослав Викторович": 6,
-      "Даутов Габбас Фанзовиевич": 14,
-      "Калинин Дмитрий Григорьевич": 4,
-      "Коровкин Алексей Сергеевич": 6,
-      "Мельник Сергей Евгеньевич": 0,
-      "Мякишев Павел Викторович": 10,
-      "Рабинович Анатолий Евгеньевич": 1,
-      "Хвостов Валерий Владимирович": 0,
-      "Шипулин Антон Владимирович": 22
+      "4664067248316": 6,
+      "4664067248264": 14,
+      "4664067248554": 4,
+      "4664067247967": 6,
+      "4664067247999": 0,
+      "4664067247158": 10,
+      "4664067248514": 1,
+      "4664067248304": 0,
+      "4664067248131": 22
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/sverdlovsk?action=show&root=1000228&tvd=26620002596982&vrn=100100225883172&region=66&global=&sub_region=66&prver=0&pronetvd=null&vibid=26620002596982&type=464",
@@ -9815,6 +11659,10 @@ export const duma_2021_uik_463_region_66_part_009 = [
       "retrievedAt": "2026-08-26T08:06:43.217485+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/sverdlovsk?action=show&root=1000228&tvd=26620002596982&vrn=100100225883172&region=66&global=&sub_region=66&prver=0&pronetvd=null&vibid=26620002596982&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 174,
+      "oikTvd": "100100225883665"
     }
   },
   {
@@ -9824,8 +11672,12 @@ export const duma_2021_uik_463_region_66_part_009 = [
     "ballot": "single-member",
     "uikNumber": 619,
     "uikTvd": "4664044192843",
+    "uikName": "УИК №619",
     "tikTvd": "26620002596982",
     "tikName": "Нижнетуринская",
+    "regionCode": "66",
+    "regionTvd": "100100225883658",
+    "regionName": "Свердловская область",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 189,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 180,
@@ -9841,15 +11693,15 @@ export const duma_2021_uik_463_region_66_part_009 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бородин Ярослав Викторович": 5,
-      "Даутов Габбас Фанзовиевич": 18,
-      "Калинин Дмитрий Григорьевич": 7,
-      "Коровкин Алексей Сергеевич": 17,
-      "Мельник Сергей Евгеньевич": 1,
-      "Мякишев Павел Викторович": 20,
-      "Рабинович Анатолий Евгеньевич": 5,
-      "Хвостов Валерий Владимирович": 1,
-      "Шипулин Антон Владимирович": 45
+      "4664067248316": 5,
+      "4664067248264": 18,
+      "4664067248554": 7,
+      "4664067247967": 17,
+      "4664067247999": 1,
+      "4664067247158": 20,
+      "4664067248514": 5,
+      "4664067248304": 1,
+      "4664067248131": 45
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/sverdlovsk?action=show&root=1000228&tvd=26620002596982&vrn=100100225883172&region=66&global=&sub_region=66&prver=0&pronetvd=null&vibid=26620002596982&type=464",
@@ -9859,6 +11711,10 @@ export const duma_2021_uik_463_region_66_part_009 = [
       "retrievedAt": "2026-08-26T08:06:43.217485+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/sverdlovsk?action=show&root=1000228&tvd=26620002596982&vrn=100100225883172&region=66&global=&sub_region=66&prver=0&pronetvd=null&vibid=26620002596982&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 174,
+      "oikTvd": "100100225883665"
     }
   },
   {
@@ -9868,8 +11724,12 @@ export const duma_2021_uik_463_region_66_part_009 = [
     "ballot": "single-member",
     "uikNumber": 2630,
     "uikTvd": "4664044192844",
+    "uikName": "УИК №2630",
     "tikTvd": "26620002596982",
     "tikName": "Нижнетуринская",
+    "regionCode": "66",
+    "regionTvd": "100100225883658",
+    "regionName": "Свердловская область",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 1205,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 920,
@@ -9885,15 +11745,15 @@ export const duma_2021_uik_463_region_66_part_009 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бородин Ярослав Викторович": 41,
-      "Даутов Габбас Фанзовиевич": 125,
-      "Калинин Дмитрий Григорьевич": 14,
-      "Коровкин Алексей Сергеевич": 95,
-      "Мельник Сергей Евгеньевич": 7,
-      "Мякишев Павел Викторович": 75,
-      "Рабинович Анатолий Евгеньевич": 21,
-      "Хвостов Валерий Владимирович": 6,
-      "Шипулин Антон Владимирович": 253
+      "4664067248316": 41,
+      "4664067248264": 125,
+      "4664067248554": 14,
+      "4664067247967": 95,
+      "4664067247999": 7,
+      "4664067247158": 75,
+      "4664067248514": 21,
+      "4664067248304": 6,
+      "4664067248131": 253
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/sverdlovsk?action=show&root=1000228&tvd=26620002596982&vrn=100100225883172&region=66&global=&sub_region=66&prver=0&pronetvd=null&vibid=26620002596982&type=464",
@@ -9903,6 +11763,10 @@ export const duma_2021_uik_463_region_66_part_009 = [
       "retrievedAt": "2026-08-26T08:06:43.217485+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/sverdlovsk?action=show&root=1000228&tvd=26620002596982&vrn=100100225883172&region=66&global=&sub_region=66&prver=0&pronetvd=null&vibid=26620002596982&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 174,
+      "oikTvd": "100100225883665"
     }
   },
   {
@@ -9912,8 +11776,12 @@ export const duma_2021_uik_463_region_66_part_009 = [
     "ballot": "single-member",
     "uikNumber": 333,
     "uikTvd": "4664014167727",
+    "uikName": "УИК №333",
     "tikTvd": "26620002596983",
     "tikName": "Гаринская",
+    "regionCode": "66",
+    "regionTvd": "100100225883658",
+    "regionName": "Свердловская область",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 1084,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 1000,
@@ -9929,15 +11797,15 @@ export const duma_2021_uik_463_region_66_part_009 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бородин Ярослав Викторович": 22,
-      "Даутов Габбас Фанзовиевич": 87,
-      "Калинин Дмитрий Григорьевич": 8,
-      "Коровкин Алексей Сергеевич": 43,
-      "Мельник Сергей Евгеньевич": 11,
-      "Мякишев Павел Викторович": 69,
-      "Рабинович Анатолий Евгеньевич": 17,
-      "Хвостов Валерий Владимирович": 6,
-      "Шипулин Антон Владимирович": 374
+      "4664067248316": 22,
+      "4664067248264": 87,
+      "4664067248554": 8,
+      "4664067247967": 43,
+      "4664067247999": 11,
+      "4664067247158": 69,
+      "4664067248514": 17,
+      "4664067248304": 6,
+      "4664067248131": 374
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/sverdlovsk?action=show&root=1000228&tvd=26620002596983&vrn=100100225883172&region=66&global=&sub_region=66&prver=0&pronetvd=null&vibid=26620002596983&type=464",
@@ -9947,6 +11815,10 @@ export const duma_2021_uik_463_region_66_part_009 = [
       "retrievedAt": "2026-08-26T08:06:43.237938+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/sverdlovsk?action=show&root=1000228&tvd=26620002596983&vrn=100100225883172&region=66&global=&sub_region=66&prver=0&pronetvd=null&vibid=26620002596983&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 174,
+      "oikTvd": "100100225883665"
     }
   },
   {
@@ -9956,8 +11828,12 @@ export const duma_2021_uik_463_region_66_part_009 = [
     "ballot": "single-member",
     "uikNumber": 334,
     "uikTvd": "4664014167728",
+    "uikName": "УИК №334",
     "tikTvd": "26620002596983",
     "tikName": "Гаринская",
+    "regionCode": "66",
+    "regionTvd": "100100225883658",
+    "regionName": "Свердловская область",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 364,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 300,
@@ -9973,15 +11849,15 @@ export const duma_2021_uik_463_region_66_part_009 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бородин Ярослав Викторович": 6,
-      "Даутов Габбас Фанзовиевич": 18,
-      "Калинин Дмитрий Григорьевич": 4,
-      "Коровкин Алексей Сергеевич": 17,
-      "Мельник Сергей Евгеньевич": 3,
-      "Мякишев Павел Викторович": 28,
-      "Рабинович Анатолий Евгеньевич": 2,
-      "Хвостов Валерий Владимирович": 1,
-      "Шипулин Антон Владимирович": 123
+      "4664067248316": 6,
+      "4664067248264": 18,
+      "4664067248554": 4,
+      "4664067247967": 17,
+      "4664067247999": 3,
+      "4664067247158": 28,
+      "4664067248514": 2,
+      "4664067248304": 1,
+      "4664067248131": 123
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/sverdlovsk?action=show&root=1000228&tvd=26620002596983&vrn=100100225883172&region=66&global=&sub_region=66&prver=0&pronetvd=null&vibid=26620002596983&type=464",
@@ -9991,6 +11867,10 @@ export const duma_2021_uik_463_region_66_part_009 = [
       "retrievedAt": "2026-08-26T08:06:43.237938+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/sverdlovsk?action=show&root=1000228&tvd=26620002596983&vrn=100100225883172&region=66&global=&sub_region=66&prver=0&pronetvd=null&vibid=26620002596983&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 174,
+      "oikTvd": "100100225883665"
     }
   },
   {
@@ -10000,8 +11880,12 @@ export const duma_2021_uik_463_region_66_part_009 = [
     "ballot": "single-member",
     "uikNumber": 335,
     "uikTvd": "4664014167729",
+    "uikName": "УИК №335",
     "tikTvd": "26620002596983",
     "tikName": "Гаринская",
+    "regionCode": "66",
+    "regionTvd": "100100225883658",
+    "regionName": "Свердловская область",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 520,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 500,
@@ -10017,15 +11901,15 @@ export const duma_2021_uik_463_region_66_part_009 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бородин Ярослав Викторович": 5,
-      "Даутов Габбас Фанзовиевич": 16,
-      "Калинин Дмитрий Григорьевич": 9,
-      "Коровкин Алексей Сергеевич": 16,
-      "Мельник Сергей Евгеньевич": 4,
-      "Мякишев Павел Викторович": 43,
-      "Рабинович Анатолий Евгеньевич": 10,
-      "Хвостов Валерий Владимирович": 0,
-      "Шипулин Антон Владимирович": 140
+      "4664067248316": 5,
+      "4664067248264": 16,
+      "4664067248554": 9,
+      "4664067247967": 16,
+      "4664067247999": 4,
+      "4664067247158": 43,
+      "4664067248514": 10,
+      "4664067248304": 0,
+      "4664067248131": 140
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/sverdlovsk?action=show&root=1000228&tvd=26620002596983&vrn=100100225883172&region=66&global=&sub_region=66&prver=0&pronetvd=null&vibid=26620002596983&type=464",
@@ -10035,6 +11919,10 @@ export const duma_2021_uik_463_region_66_part_009 = [
       "retrievedAt": "2026-08-26T08:06:43.237938+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/sverdlovsk?action=show&root=1000228&tvd=26620002596983&vrn=100100225883172&region=66&global=&sub_region=66&prver=0&pronetvd=null&vibid=26620002596983&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 174,
+      "oikTvd": "100100225883665"
     }
   },
   {
@@ -10044,8 +11932,12 @@ export const duma_2021_uik_463_region_66_part_009 = [
     "ballot": "single-member",
     "uikNumber": 336,
     "uikTvd": "4664014167730",
+    "uikName": "УИК №336",
     "tikTvd": "26620002596983",
     "tikName": "Гаринская",
+    "regionCode": "66",
+    "regionTvd": "100100225883658",
+    "regionName": "Свердловская область",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 67,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 60,
@@ -10061,15 +11953,15 @@ export const duma_2021_uik_463_region_66_part_009 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бородин Ярослав Викторович": 0,
-      "Даутов Габбас Фанзовиевич": 0,
-      "Калинин Дмитрий Григорьевич": 3,
-      "Коровкин Алексей Сергеевич": 4,
-      "Мельник Сергей Евгеньевич": 1,
-      "Мякишев Павел Викторович": 2,
-      "Рабинович Анатолий Евгеньевич": 0,
-      "Хвостов Валерий Владимирович": 0,
-      "Шипулин Антон Владимирович": 24
+      "4664067248316": 0,
+      "4664067248264": 0,
+      "4664067248554": 3,
+      "4664067247967": 4,
+      "4664067247999": 1,
+      "4664067247158": 2,
+      "4664067248514": 0,
+      "4664067248304": 0,
+      "4664067248131": 24
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/sverdlovsk?action=show&root=1000228&tvd=26620002596983&vrn=100100225883172&region=66&global=&sub_region=66&prver=0&pronetvd=null&vibid=26620002596983&type=464",
@@ -10079,6 +11971,10 @@ export const duma_2021_uik_463_region_66_part_009 = [
       "retrievedAt": "2026-08-26T08:06:43.237938+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/sverdlovsk?action=show&root=1000228&tvd=26620002596983&vrn=100100225883172&region=66&global=&sub_region=66&prver=0&pronetvd=null&vibid=26620002596983&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 174,
+      "oikTvd": "100100225883665"
     }
   },
   {
@@ -10088,8 +11984,12 @@ export const duma_2021_uik_463_region_66_part_009 = [
     "ballot": "single-member",
     "uikNumber": 337,
     "uikTvd": "4664014167731",
+    "uikName": "УИК №337",
     "tikTvd": "26620002596983",
     "tikName": "Гаринская",
+    "regionCode": "66",
+    "regionTvd": "100100225883658",
+    "regionName": "Свердловская область",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 292,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 230,
@@ -10105,15 +12005,15 @@ export const duma_2021_uik_463_region_66_part_009 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бородин Ярослав Викторович": 6,
-      "Даутов Габбас Фанзовиевич": 30,
-      "Калинин Дмитрий Григорьевич": 7,
-      "Коровкин Алексей Сергеевич": 16,
-      "Мельник Сергей Евгеньевич": 6,
-      "Мякишев Павел Викторович": 36,
-      "Рабинович Анатолий Евгеньевич": 3,
-      "Хвостов Валерий Владимирович": 1,
-      "Шипулин Антон Владимирович": 55
+      "4664067248316": 6,
+      "4664067248264": 30,
+      "4664067248554": 7,
+      "4664067247967": 16,
+      "4664067247999": 6,
+      "4664067247158": 36,
+      "4664067248514": 3,
+      "4664067248304": 1,
+      "4664067248131": 55
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/sverdlovsk?action=show&root=1000228&tvd=26620002596983&vrn=100100225883172&region=66&global=&sub_region=66&prver=0&pronetvd=null&vibid=26620002596983&type=464",
@@ -10123,6 +12023,10 @@ export const duma_2021_uik_463_region_66_part_009 = [
       "retrievedAt": "2026-08-26T08:06:43.237938+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/sverdlovsk?action=show&root=1000228&tvd=26620002596983&vrn=100100225883172&region=66&global=&sub_region=66&prver=0&pronetvd=null&vibid=26620002596983&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 174,
+      "oikTvd": "100100225883665"
     }
   },
   {
@@ -10132,8 +12036,12 @@ export const duma_2021_uik_463_region_66_part_009 = [
     "ballot": "single-member",
     "uikNumber": 341,
     "uikTvd": "4664014167732",
+    "uikName": "УИК №341",
     "tikTvd": "26620002596983",
     "tikName": "Гаринская",
+    "regionCode": "66",
+    "regionTvd": "100100225883658",
+    "regionName": "Свердловская область",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 60,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 60,
@@ -10149,15 +12057,15 @@ export const duma_2021_uik_463_region_66_part_009 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бородин Ярослав Викторович": 2,
-      "Даутов Габбас Фанзовиевич": 5,
-      "Калинин Дмитрий Григорьевич": 0,
-      "Коровкин Алексей Сергеевич": 3,
-      "Мельник Сергей Евгеньевич": 0,
-      "Мякишев Павел Викторович": 1,
-      "Рабинович Анатолий Евгеньевич": 0,
-      "Хвостов Валерий Владимирович": 0,
-      "Шипулин Антон Владимирович": 16
+      "4664067248316": 2,
+      "4664067248264": 5,
+      "4664067248554": 0,
+      "4664067247967": 3,
+      "4664067247999": 0,
+      "4664067247158": 1,
+      "4664067248514": 0,
+      "4664067248304": 0,
+      "4664067248131": 16
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/sverdlovsk?action=show&root=1000228&tvd=26620002596983&vrn=100100225883172&region=66&global=&sub_region=66&prver=0&pronetvd=null&vibid=26620002596983&type=464",
@@ -10167,6 +12075,10 @@ export const duma_2021_uik_463_region_66_part_009 = [
       "retrievedAt": "2026-08-26T08:06:43.237938+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/sverdlovsk?action=show&root=1000228&tvd=26620002596983&vrn=100100225883172&region=66&global=&sub_region=66&prver=0&pronetvd=null&vibid=26620002596983&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 174,
+      "oikTvd": "100100225883665"
     }
   },
   {
@@ -10176,8 +12088,12 @@ export const duma_2021_uik_463_region_66_part_009 = [
     "ballot": "single-member",
     "uikNumber": 342,
     "uikTvd": "4664014167733",
+    "uikName": "УИК №342",
     "tikTvd": "26620002596983",
     "tikName": "Гаринская",
+    "regionCode": "66",
+    "regionTvd": "100100225883658",
+    "regionName": "Свердловская область",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 189,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 200,
@@ -10193,15 +12109,15 @@ export const duma_2021_uik_463_region_66_part_009 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бородин Ярослав Викторович": 2,
-      "Даутов Габбас Фанзовиевич": 5,
-      "Калинин Дмитрий Григорьевич": 2,
-      "Коровкин Алексей Сергеевич": 4,
-      "Мельник Сергей Евгеньевич": 3,
-      "Мякишев Павел Викторович": 8,
-      "Рабинович Анатолий Евгеньевич": 0,
-      "Хвостов Валерий Владимирович": 0,
-      "Шипулин Антон Владимирович": 62
+      "4664067248316": 2,
+      "4664067248264": 5,
+      "4664067248554": 2,
+      "4664067247967": 4,
+      "4664067247999": 3,
+      "4664067247158": 8,
+      "4664067248514": 0,
+      "4664067248304": 0,
+      "4664067248131": 62
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/sverdlovsk?action=show&root=1000228&tvd=26620002596983&vrn=100100225883172&region=66&global=&sub_region=66&prver=0&pronetvd=null&vibid=26620002596983&type=464",
@@ -10211,6 +12127,10 @@ export const duma_2021_uik_463_region_66_part_009 = [
       "retrievedAt": "2026-08-26T08:06:43.237938+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/sverdlovsk?action=show&root=1000228&tvd=26620002596983&vrn=100100225883172&region=66&global=&sub_region=66&prver=0&pronetvd=null&vibid=26620002596983&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 174,
+      "oikTvd": "100100225883665"
     }
   },
   {
@@ -10220,8 +12140,12 @@ export const duma_2021_uik_463_region_66_part_009 = [
     "ballot": "single-member",
     "uikNumber": 313,
     "uikTvd": "4664013185779",
+    "uikName": "УИК №313",
     "tikTvd": "26620002596984",
     "tikName": "Верхотурская",
+    "regionCode": "66",
+    "regionTvd": "100100225883658",
+    "regionName": "Свердловская область",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 359,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 300,
@@ -10237,15 +12161,15 @@ export const duma_2021_uik_463_region_66_part_009 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бородин Ярослав Викторович": 9,
-      "Даутов Габбас Фанзовиевич": 30,
-      "Калинин Дмитрий Григорьевич": 2,
-      "Коровкин Алексей Сергеевич": 14,
-      "Мельник Сергей Евгеньевич": 1,
-      "Мякишев Павел Викторович": 20,
-      "Рабинович Анатолий Евгеньевич": 6,
-      "Хвостов Валерий Владимирович": 3,
-      "Шипулин Антон Владимирович": 97
+      "4664067248316": 9,
+      "4664067248264": 30,
+      "4664067248554": 2,
+      "4664067247967": 14,
+      "4664067247999": 1,
+      "4664067247158": 20,
+      "4664067248514": 6,
+      "4664067248304": 3,
+      "4664067248131": 97
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/sverdlovsk?action=show&root=1000228&tvd=26620002596984&vrn=100100225883172&region=66&global=&sub_region=66&prver=0&pronetvd=null&vibid=26620002596984&type=464",
@@ -10255,6 +12179,10 @@ export const duma_2021_uik_463_region_66_part_009 = [
       "retrievedAt": "2026-08-26T08:15:29.200206+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/sverdlovsk?action=show&root=1000228&tvd=26620002596984&vrn=100100225883172&region=66&global=&sub_region=66&prver=0&pronetvd=null&vibid=26620002596984&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 174,
+      "oikTvd": "100100225883665"
     }
   },
   {
@@ -10264,8 +12192,12 @@ export const duma_2021_uik_463_region_66_part_009 = [
     "ballot": "single-member",
     "uikNumber": 314,
     "uikTvd": "4664013185780",
+    "uikName": "УИК №314",
     "tikTvd": "26620002596984",
     "tikName": "Верхотурская",
+    "regionCode": "66",
+    "regionTvd": "100100225883658",
+    "regionName": "Свердловская область",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 856,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 800,
@@ -10281,15 +12213,15 @@ export const duma_2021_uik_463_region_66_part_009 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бородин Ярослав Викторович": 23,
-      "Даутов Габбас Фанзовиевич": 46,
-      "Калинин Дмитрий Григорьевич": 11,
-      "Коровкин Алексей Сергеевич": 41,
-      "Мельник Сергей Евгеньевич": 4,
-      "Мякишев Павел Викторович": 44,
-      "Рабинович Анатолий Евгеньевич": 15,
-      "Хвостов Валерий Владимирович": 4,
-      "Шипулин Антон Владимирович": 187
+      "4664067248316": 23,
+      "4664067248264": 46,
+      "4664067248554": 11,
+      "4664067247967": 41,
+      "4664067247999": 4,
+      "4664067247158": 44,
+      "4664067248514": 15,
+      "4664067248304": 4,
+      "4664067248131": 187
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/sverdlovsk?action=show&root=1000228&tvd=26620002596984&vrn=100100225883172&region=66&global=&sub_region=66&prver=0&pronetvd=null&vibid=26620002596984&type=464",
@@ -10299,6 +12231,10 @@ export const duma_2021_uik_463_region_66_part_009 = [
       "retrievedAt": "2026-08-26T08:15:29.200206+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/sverdlovsk?action=show&root=1000228&tvd=26620002596984&vrn=100100225883172&region=66&global=&sub_region=66&prver=0&pronetvd=null&vibid=26620002596984&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 174,
+      "oikTvd": "100100225883665"
     }
   },
   {
@@ -10308,8 +12244,12 @@ export const duma_2021_uik_463_region_66_part_009 = [
     "ballot": "single-member",
     "uikNumber": 315,
     "uikTvd": "4664013185781",
+    "uikName": "УИК №315",
     "tikTvd": "26620002596984",
     "tikName": "Верхотурская",
+    "regionCode": "66",
+    "regionTvd": "100100225883658",
+    "regionName": "Свердловская область",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 1161,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 1100,
@@ -10325,15 +12265,15 @@ export const duma_2021_uik_463_region_66_part_009 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бородин Ярослав Викторович": 34,
-      "Даутов Габбас Фанзовиевич": 71,
-      "Калинин Дмитрий Григорьевич": 10,
-      "Коровкин Алексей Сергеевич": 80,
-      "Мельник Сергей Евгеньевич": 11,
-      "Мякишев Павел Викторович": 55,
-      "Рабинович Анатолий Евгеньевич": 19,
-      "Хвостов Валерий Владимирович": 0,
-      "Шипулин Антон Владимирович": 315
+      "4664067248316": 34,
+      "4664067248264": 71,
+      "4664067248554": 10,
+      "4664067247967": 80,
+      "4664067247999": 11,
+      "4664067247158": 55,
+      "4664067248514": 19,
+      "4664067248304": 0,
+      "4664067248131": 315
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/sverdlovsk?action=show&root=1000228&tvd=26620002596984&vrn=100100225883172&region=66&global=&sub_region=66&prver=0&pronetvd=null&vibid=26620002596984&type=464",
@@ -10343,6 +12283,10 @@ export const duma_2021_uik_463_region_66_part_009 = [
       "retrievedAt": "2026-08-26T08:15:29.200206+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/sverdlovsk?action=show&root=1000228&tvd=26620002596984&vrn=100100225883172&region=66&global=&sub_region=66&prver=0&pronetvd=null&vibid=26620002596984&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 174,
+      "oikTvd": "100100225883665"
     }
   },
   {
@@ -10352,8 +12296,12 @@ export const duma_2021_uik_463_region_66_part_009 = [
     "ballot": "single-member",
     "uikNumber": 316,
     "uikTvd": "4664013185782",
+    "uikName": "УИК №316",
     "tikTvd": "26620002596984",
     "tikName": "Верхотурская",
+    "regionCode": "66",
+    "regionTvd": "100100225883658",
+    "regionName": "Свердловская область",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 1666,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 1500,
@@ -10369,15 +12317,15 @@ export const duma_2021_uik_463_region_66_part_009 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бородин Ярослав Викторович": 31,
-      "Даутов Габбас Фанзовиевич": 114,
-      "Калинин Дмитрий Григорьевич": 20,
-      "Коровкин Алексей Сергеевич": 100,
-      "Мельник Сергей Евгеньевич": 9,
-      "Мякишев Павел Викторович": 109,
-      "Рабинович Анатолий Евгеньевич": 12,
-      "Хвостов Валерий Владимирович": 9,
-      "Шипулин Антон Владимирович": 354
+      "4664067248316": 31,
+      "4664067248264": 114,
+      "4664067248554": 20,
+      "4664067247967": 100,
+      "4664067247999": 9,
+      "4664067247158": 109,
+      "4664067248514": 12,
+      "4664067248304": 9,
+      "4664067248131": 354
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/sverdlovsk?action=show&root=1000228&tvd=26620002596984&vrn=100100225883172&region=66&global=&sub_region=66&prver=0&pronetvd=null&vibid=26620002596984&type=464",
@@ -10387,6 +12335,10 @@ export const duma_2021_uik_463_region_66_part_009 = [
       "retrievedAt": "2026-08-26T08:15:29.200206+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/sverdlovsk?action=show&root=1000228&tvd=26620002596984&vrn=100100225883172&region=66&global=&sub_region=66&prver=0&pronetvd=null&vibid=26620002596984&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 174,
+      "oikTvd": "100100225883665"
     }
   },
   {
@@ -10396,8 +12348,12 @@ export const duma_2021_uik_463_region_66_part_009 = [
     "ballot": "single-member",
     "uikNumber": 317,
     "uikTvd": "4664013185783",
+    "uikName": "УИК №317",
     "tikTvd": "26620002596984",
     "tikName": "Верхотурская",
+    "regionCode": "66",
+    "regionTvd": "100100225883658",
+    "regionName": "Свердловская область",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 665,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 600,
@@ -10413,15 +12369,15 @@ export const duma_2021_uik_463_region_66_part_009 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бородин Ярослав Викторович": 21,
-      "Даутов Габбас Фанзовиевич": 40,
-      "Калинин Дмитрий Григорьевич": 7,
-      "Коровкин Алексей Сергеевич": 34,
-      "Мельник Сергей Евгеньевич": 6,
-      "Мякишев Павел Викторович": 34,
-      "Рабинович Анатолий Евгеньевич": 10,
-      "Хвостов Валерий Владимирович": 4,
-      "Шипулин Антон Владимирович": 131
+      "4664067248316": 21,
+      "4664067248264": 40,
+      "4664067248554": 7,
+      "4664067247967": 34,
+      "4664067247999": 6,
+      "4664067247158": 34,
+      "4664067248514": 10,
+      "4664067248304": 4,
+      "4664067248131": 131
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/sverdlovsk?action=show&root=1000228&tvd=26620002596984&vrn=100100225883172&region=66&global=&sub_region=66&prver=0&pronetvd=null&vibid=26620002596984&type=464",
@@ -10431,6 +12387,10 @@ export const duma_2021_uik_463_region_66_part_009 = [
       "retrievedAt": "2026-08-26T08:15:29.200206+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/sverdlovsk?action=show&root=1000228&tvd=26620002596984&vrn=100100225883172&region=66&global=&sub_region=66&prver=0&pronetvd=null&vibid=26620002596984&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 174,
+      "oikTvd": "100100225883665"
     }
   },
   {
@@ -10440,8 +12400,12 @@ export const duma_2021_uik_463_region_66_part_009 = [
     "ballot": "single-member",
     "uikNumber": 318,
     "uikTvd": "4664013185784",
+    "uikName": "УИК №318",
     "tikTvd": "26620002596984",
     "tikName": "Верхотурская",
+    "regionCode": "66",
+    "regionTvd": "100100225883658",
+    "regionName": "Свердловская область",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 215,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 200,
@@ -10457,15 +12421,15 @@ export const duma_2021_uik_463_region_66_part_009 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бородин Ярослав Викторович": 9,
-      "Даутов Габбас Фанзовиевич": 5,
-      "Калинин Дмитрий Григорьевич": 2,
-      "Коровкин Алексей Сергеевич": 15,
-      "Мельник Сергей Евгеньевич": 4,
-      "Мякишев Павел Викторович": 15,
-      "Рабинович Анатолий Евгеньевич": 4,
-      "Хвостов Валерий Владимирович": 0,
-      "Шипулин Антон Владимирович": 38
+      "4664067248316": 9,
+      "4664067248264": 5,
+      "4664067248554": 2,
+      "4664067247967": 15,
+      "4664067247999": 4,
+      "4664067247158": 15,
+      "4664067248514": 4,
+      "4664067248304": 0,
+      "4664067248131": 38
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/sverdlovsk?action=show&root=1000228&tvd=26620002596984&vrn=100100225883172&region=66&global=&sub_region=66&prver=0&pronetvd=null&vibid=26620002596984&type=464",
@@ -10475,6 +12439,10 @@ export const duma_2021_uik_463_region_66_part_009 = [
       "retrievedAt": "2026-08-26T08:15:29.200206+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/sverdlovsk?action=show&root=1000228&tvd=26620002596984&vrn=100100225883172&region=66&global=&sub_region=66&prver=0&pronetvd=null&vibid=26620002596984&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 174,
+      "oikTvd": "100100225883665"
     }
   },
   {
@@ -10484,8 +12452,12 @@ export const duma_2021_uik_463_region_66_part_009 = [
     "ballot": "single-member",
     "uikNumber": 319,
     "uikTvd": "4664013185785",
+    "uikName": "УИК №319",
     "tikTvd": "26620002596984",
     "tikName": "Верхотурская",
+    "regionCode": "66",
+    "regionTvd": "100100225883658",
+    "regionName": "Свердловская область",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 1032,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 1000,
@@ -10501,15 +12473,15 @@ export const duma_2021_uik_463_region_66_part_009 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бородин Ярослав Викторович": 29,
-      "Даутов Габбас Фанзовиевич": 36,
-      "Калинин Дмитрий Григорьевич": 5,
-      "Коровкин Алексей Сергеевич": 49,
-      "Мельник Сергей Евгеньевич": 4,
-      "Мякишев Павел Викторович": 69,
-      "Рабинович Анатолий Евгеньевич": 11,
-      "Хвостов Валерий Владимирович": 6,
-      "Шипулин Антон Владимирович": 191
+      "4664067248316": 29,
+      "4664067248264": 36,
+      "4664067248554": 5,
+      "4664067247967": 49,
+      "4664067247999": 4,
+      "4664067247158": 69,
+      "4664067248514": 11,
+      "4664067248304": 6,
+      "4664067248131": 191
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/sverdlovsk?action=show&root=1000228&tvd=26620002596984&vrn=100100225883172&region=66&global=&sub_region=66&prver=0&pronetvd=null&vibid=26620002596984&type=464",
@@ -10519,6 +12491,10 @@ export const duma_2021_uik_463_region_66_part_009 = [
       "retrievedAt": "2026-08-26T08:15:29.200206+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/sverdlovsk?action=show&root=1000228&tvd=26620002596984&vrn=100100225883172&region=66&global=&sub_region=66&prver=0&pronetvd=null&vibid=26620002596984&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 174,
+      "oikTvd": "100100225883665"
     }
   },
   {
@@ -10528,8 +12504,12 @@ export const duma_2021_uik_463_region_66_part_009 = [
     "ballot": "single-member",
     "uikNumber": 320,
     "uikTvd": "4664013185786",
+    "uikName": "УИК №320",
     "tikTvd": "26620002596984",
     "tikName": "Верхотурская",
+    "regionCode": "66",
+    "regionTvd": "100100225883658",
+    "regionName": "Свердловская область",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 823,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 700,
@@ -10545,15 +12525,15 @@ export const duma_2021_uik_463_region_66_part_009 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бородин Ярослав Викторович": 27,
-      "Даутов Габбас Фанзовиевич": 54,
-      "Калинин Дмитрий Григорьевич": 11,
-      "Коровкин Алексей Сергеевич": 53,
-      "Мельник Сергей Евгеньевич": 3,
-      "Мякишев Павел Викторович": 42,
-      "Рабинович Анатолий Евгеньевич": 16,
-      "Хвостов Валерий Владимирович": 2,
-      "Шипулин Антон Владимирович": 220
+      "4664067248316": 27,
+      "4664067248264": 54,
+      "4664067248554": 11,
+      "4664067247967": 53,
+      "4664067247999": 3,
+      "4664067247158": 42,
+      "4664067248514": 16,
+      "4664067248304": 2,
+      "4664067248131": 220
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/sverdlovsk?action=show&root=1000228&tvd=26620002596984&vrn=100100225883172&region=66&global=&sub_region=66&prver=0&pronetvd=null&vibid=26620002596984&type=464",
@@ -10563,6 +12543,10 @@ export const duma_2021_uik_463_region_66_part_009 = [
       "retrievedAt": "2026-08-26T08:15:29.200206+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/sverdlovsk?action=show&root=1000228&tvd=26620002596984&vrn=100100225883172&region=66&global=&sub_region=66&prver=0&pronetvd=null&vibid=26620002596984&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 174,
+      "oikTvd": "100100225883665"
     }
   },
   {
@@ -10572,8 +12556,12 @@ export const duma_2021_uik_463_region_66_part_009 = [
     "ballot": "single-member",
     "uikNumber": 321,
     "uikTvd": "4664013185787",
+    "uikName": "УИК №321",
     "tikTvd": "26620002596984",
     "tikName": "Верхотурская",
+    "regionCode": "66",
+    "regionTvd": "100100225883658",
+    "regionName": "Свердловская область",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 816,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 800,
@@ -10589,15 +12577,15 @@ export const duma_2021_uik_463_region_66_part_009 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бородин Ярослав Викторович": 11,
-      "Даутов Габбас Фанзовиевич": 43,
-      "Калинин Дмитрий Григорьевич": 3,
-      "Коровкин Алексей Сергеевич": 35,
-      "Мельник Сергей Евгеньевич": 2,
-      "Мякишев Павел Викторович": 43,
-      "Рабинович Анатолий Евгеньевич": 3,
-      "Хвостов Валерий Владимирович": 4,
-      "Шипулин Антон Владимирович": 259
+      "4664067248316": 11,
+      "4664067248264": 43,
+      "4664067248554": 3,
+      "4664067247967": 35,
+      "4664067247999": 2,
+      "4664067247158": 43,
+      "4664067248514": 3,
+      "4664067248304": 4,
+      "4664067248131": 259
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/sverdlovsk?action=show&root=1000228&tvd=26620002596984&vrn=100100225883172&region=66&global=&sub_region=66&prver=0&pronetvd=null&vibid=26620002596984&type=464",
@@ -10607,6 +12595,10 @@ export const duma_2021_uik_463_region_66_part_009 = [
       "retrievedAt": "2026-08-26T08:15:29.200206+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/sverdlovsk?action=show&root=1000228&tvd=26620002596984&vrn=100100225883172&region=66&global=&sub_region=66&prver=0&pronetvd=null&vibid=26620002596984&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 174,
+      "oikTvd": "100100225883665"
     }
   },
   {
@@ -10616,8 +12608,12 @@ export const duma_2021_uik_463_region_66_part_009 = [
     "ballot": "single-member",
     "uikNumber": 322,
     "uikTvd": "4664013185788",
+    "uikName": "УИК №322",
     "tikTvd": "26620002596984",
     "tikName": "Верхотурская",
+    "regionCode": "66",
+    "regionTvd": "100100225883658",
+    "regionName": "Свердловская область",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 783,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 800,
@@ -10633,15 +12629,15 @@ export const duma_2021_uik_463_region_66_part_009 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бородин Ярослав Викторович": 18,
-      "Даутов Габбас Фанзовиевич": 41,
-      "Калинин Дмитрий Григорьевич": 6,
-      "Коровкин Алексей Сергеевич": 33,
-      "Мельник Сергей Евгеньевич": 2,
-      "Мякишев Павел Викторович": 40,
-      "Рабинович Анатолий Евгеньевич": 7,
-      "Хвостов Валерий Владимирович": 3,
-      "Шипулин Антон Владимирович": 194
+      "4664067248316": 18,
+      "4664067248264": 41,
+      "4664067248554": 6,
+      "4664067247967": 33,
+      "4664067247999": 2,
+      "4664067247158": 40,
+      "4664067248514": 7,
+      "4664067248304": 3,
+      "4664067248131": 194
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/sverdlovsk?action=show&root=1000228&tvd=26620002596984&vrn=100100225883172&region=66&global=&sub_region=66&prver=0&pronetvd=null&vibid=26620002596984&type=464",
@@ -10651,6 +12647,10 @@ export const duma_2021_uik_463_region_66_part_009 = [
       "retrievedAt": "2026-08-26T08:15:29.200206+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/sverdlovsk?action=show&root=1000228&tvd=26620002596984&vrn=100100225883172&region=66&global=&sub_region=66&prver=0&pronetvd=null&vibid=26620002596984&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 174,
+      "oikTvd": "100100225883665"
     }
   }
 ] satisfies readonly UikProtocol[];

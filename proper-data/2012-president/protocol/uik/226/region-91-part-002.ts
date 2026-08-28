@@ -38,11 +38,11 @@ export const president_2012_uik_226_region_91_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Жириновский Владимир Вольфович": 145,
-      "Зюганов Геннадий Андреевич": 240,
-      "Миронов Сергей Михайлович": 52,
-      "Прохоров Михаил Дмитриевич": 119,
-      "Путин Владимир Владимирович": 783
+      "gas:candidate-vibid:100100032152680": 145,
+      "gas:candidate-vibid:100100032159240": 240,
+      "gas:candidate-vibid:100100032143255": 52,
+      "gas:candidate-vibid:100100032152563": 119,
+      "gas:candidate-vibid:100100032111402": 783
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kamchatka-krai?action=show&root=1000081&tvd=2412000234448&vrn=100100031793505&region=91&global=&sub_region=91&prver=0&pronetvd=null&vibid=2412000234448&type=227",
@@ -88,11 +88,11 @@ export const president_2012_uik_226_region_91_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Жириновский Владимир Вольфович": 144,
-      "Зюганов Геннадий Андреевич": 331,
-      "Миронов Сергей Михайлович": 68,
-      "Прохоров Михаил Дмитриевич": 199,
-      "Путин Владимир Владимирович": 946
+      "gas:candidate-vibid:100100032152680": 144,
+      "gas:candidate-vibid:100100032159240": 331,
+      "gas:candidate-vibid:100100032143255": 68,
+      "gas:candidate-vibid:100100032152563": 199,
+      "gas:candidate-vibid:100100032111402": 946
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kamchatka-krai?action=show&root=1000081&tvd=2412000234448&vrn=100100031793505&region=91&global=&sub_region=91&prver=0&pronetvd=null&vibid=2412000234448&type=227",
@@ -138,11 +138,11 @@ export const president_2012_uik_226_region_91_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Жириновский Владимир Вольфович": 71,
-      "Зюганов Геннадий Андреевич": 141,
-      "Миронов Сергей Михайлович": 23,
-      "Прохоров Михаил Дмитриевич": 79,
-      "Путин Владимир Владимирович": 548
+      "gas:candidate-vibid:100100032152680": 71,
+      "gas:candidate-vibid:100100032159240": 141,
+      "gas:candidate-vibid:100100032143255": 23,
+      "gas:candidate-vibid:100100032152563": 79,
+      "gas:candidate-vibid:100100032111402": 548
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kamchatka-krai?action=show&root=1000081&tvd=2412000234448&vrn=100100031793505&region=91&global=&sub_region=91&prver=0&pronetvd=null&vibid=2412000234448&type=227",
@@ -188,11 +188,11 @@ export const president_2012_uik_226_region_91_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Жириновский Владимир Вольфович": 127,
-      "Зюганов Геннадий Андреевич": 261,
-      "Миронов Сергей Михайлович": 54,
-      "Прохоров Михаил Дмитриевич": 114,
-      "Путин Владимир Владимирович": 680
+      "gas:candidate-vibid:100100032152680": 127,
+      "gas:candidate-vibid:100100032159240": 261,
+      "gas:candidate-vibid:100100032143255": 54,
+      "gas:candidate-vibid:100100032152563": 114,
+      "gas:candidate-vibid:100100032111402": 680
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kamchatka-krai?action=show&root=1000081&tvd=2412000234448&vrn=100100031793505&region=91&global=&sub_region=91&prver=0&pronetvd=null&vibid=2412000234448&type=227",
@@ -238,11 +238,11 @@ export const president_2012_uik_226_region_91_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Жириновский Владимир Вольфович": 138,
-      "Зюганов Геннадий Андреевич": 230,
-      "Миронов Сергей Михайлович": 45,
-      "Прохоров Михаил Дмитриевич": 133,
-      "Путин Владимир Владимирович": 721
+      "gas:candidate-vibid:100100032152680": 138,
+      "gas:candidate-vibid:100100032159240": 230,
+      "gas:candidate-vibid:100100032143255": 45,
+      "gas:candidate-vibid:100100032152563": 133,
+      "gas:candidate-vibid:100100032111402": 721
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kamchatka-krai?action=show&root=1000081&tvd=2412000234448&vrn=100100031793505&region=91&global=&sub_region=91&prver=0&pronetvd=null&vibid=2412000234448&type=227",
@@ -288,11 +288,11 @@ export const president_2012_uik_226_region_91_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Жириновский Владимир Вольфович": 95,
-      "Зюганов Геннадий Андреевич": 164,
-      "Миронов Сергей Михайлович": 45,
-      "Прохоров Михаил Дмитриевич": 107,
-      "Путин Владимир Владимирович": 475
+      "gas:candidate-vibid:100100032152680": 95,
+      "gas:candidate-vibid:100100032159240": 164,
+      "gas:candidate-vibid:100100032143255": 45,
+      "gas:candidate-vibid:100100032152563": 107,
+      "gas:candidate-vibid:100100032111402": 475
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kamchatka-krai?action=show&root=1000081&tvd=2412000234448&vrn=100100031793505&region=91&global=&sub_region=91&prver=0&pronetvd=null&vibid=2412000234448&type=227",
@@ -338,11 +338,11 @@ export const president_2012_uik_226_region_91_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Жириновский Владимир Вольфович": 139,
-      "Зюганов Геннадий Андреевич": 290,
-      "Миронов Сергей Михайлович": 56,
-      "Прохоров Михаил Дмитриевич": 105,
-      "Путин Владимир Владимирович": 779
+      "gas:candidate-vibid:100100032152680": 139,
+      "gas:candidate-vibid:100100032159240": 290,
+      "gas:candidate-vibid:100100032143255": 56,
+      "gas:candidate-vibid:100100032152563": 105,
+      "gas:candidate-vibid:100100032111402": 779
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kamchatka-krai?action=show&root=1000081&tvd=2412000234448&vrn=100100031793505&region=91&global=&sub_region=91&prver=0&pronetvd=null&vibid=2412000234448&type=227",
@@ -388,11 +388,11 @@ export const president_2012_uik_226_region_91_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Жириновский Владимир Вольфович": 139,
-      "Зюганов Геннадий Андреевич": 178,
-      "Миронов Сергей Михайлович": 40,
-      "Прохоров Михаил Дмитриевич": 85,
-      "Путин Владимир Владимирович": 603
+      "gas:candidate-vibid:100100032152680": 139,
+      "gas:candidate-vibid:100100032159240": 178,
+      "gas:candidate-vibid:100100032143255": 40,
+      "gas:candidate-vibid:100100032152563": 85,
+      "gas:candidate-vibid:100100032111402": 603
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kamchatka-krai?action=show&root=1000081&tvd=2412000234448&vrn=100100031793505&region=91&global=&sub_region=91&prver=0&pronetvd=null&vibid=2412000234448&type=227",
@@ -438,11 +438,11 @@ export const president_2012_uik_226_region_91_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Жириновский Владимир Вольфович": 39,
-      "Зюганов Геннадий Андреевич": 58,
-      "Миронов Сергей Михайлович": 12,
-      "Прохоров Михаил Дмитриевич": 35,
-      "Путин Владимир Владимирович": 244
+      "gas:candidate-vibid:100100032152680": 39,
+      "gas:candidate-vibid:100100032159240": 58,
+      "gas:candidate-vibid:100100032143255": 12,
+      "gas:candidate-vibid:100100032152563": 35,
+      "gas:candidate-vibid:100100032111402": 244
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kamchatka-krai?action=show&root=1000081&tvd=2412000234448&vrn=100100031793505&region=91&global=&sub_region=91&prver=0&pronetvd=null&vibid=2412000234448&type=227",
@@ -488,11 +488,11 @@ export const president_2012_uik_226_region_91_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Жириновский Владимир Вольфович": 223,
-      "Зюганов Геннадий Андреевич": 319,
-      "Миронов Сергей Михайлович": 57,
-      "Прохоров Михаил Дмитриевич": 147,
-      "Путин Владимир Владимирович": 880
+      "gas:candidate-vibid:100100032152680": 223,
+      "gas:candidate-vibid:100100032159240": 319,
+      "gas:candidate-vibid:100100032143255": 57,
+      "gas:candidate-vibid:100100032152563": 147,
+      "gas:candidate-vibid:100100032111402": 880
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kamchatka-krai?action=show&root=1000081&tvd=2412000234448&vrn=100100031793505&region=91&global=&sub_region=91&prver=0&pronetvd=null&vibid=2412000234448&type=227",
@@ -538,11 +538,11 @@ export const president_2012_uik_226_region_91_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Жириновский Владимир Вольфович": 87,
-      "Зюганов Геннадий Андреевич": 119,
-      "Миронов Сергей Михайлович": 25,
-      "Прохоров Михаил Дмитриевич": 94,
-      "Путин Владимир Владимирович": 558
+      "gas:candidate-vibid:100100032152680": 87,
+      "gas:candidate-vibid:100100032159240": 119,
+      "gas:candidate-vibid:100100032143255": 25,
+      "gas:candidate-vibid:100100032152563": 94,
+      "gas:candidate-vibid:100100032111402": 558
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kamchatka-krai?action=show&root=1000081&tvd=2412000234448&vrn=100100031793505&region=91&global=&sub_region=91&prver=0&pronetvd=null&vibid=2412000234448&type=227",
@@ -588,11 +588,11 @@ export const president_2012_uik_226_region_91_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Жириновский Владимир Вольфович": 93,
-      "Зюганов Геннадий Андреевич": 143,
-      "Миронов Сергей Михайлович": 24,
-      "Прохоров Михаил Дмитриевич": 40,
-      "Путин Владимир Владимирович": 468
+      "gas:candidate-vibid:100100032152680": 93,
+      "gas:candidate-vibid:100100032159240": 143,
+      "gas:candidate-vibid:100100032143255": 24,
+      "gas:candidate-vibid:100100032152563": 40,
+      "gas:candidate-vibid:100100032111402": 468
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kamchatka-krai?action=show&root=1000081&tvd=2412000234448&vrn=100100031793505&region=91&global=&sub_region=91&prver=0&pronetvd=null&vibid=2412000234448&type=227",
@@ -638,11 +638,11 @@ export const president_2012_uik_226_region_91_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Жириновский Владимир Вольфович": 40,
-      "Зюганов Геннадий Андреевич": 120,
-      "Миронов Сергей Михайлович": 24,
-      "Прохоров Михаил Дмитриевич": 19,
-      "Путин Владимир Владимирович": 282
+      "gas:candidate-vibid:100100032152680": 40,
+      "gas:candidate-vibid:100100032159240": 120,
+      "gas:candidate-vibid:100100032143255": 24,
+      "gas:candidate-vibid:100100032152563": 19,
+      "gas:candidate-vibid:100100032111402": 282
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kamchatka-krai?action=show&root=1000081&tvd=2412000234448&vrn=100100031793505&region=91&global=&sub_region=91&prver=0&pronetvd=null&vibid=2412000234448&type=227",
@@ -688,11 +688,11 @@ export const president_2012_uik_226_region_91_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Жириновский Владимир Вольфович": 70,
-      "Зюганов Геннадий Андреевич": 109,
-      "Миронов Сергей Михайлович": 26,
-      "Прохоров Михаил Дмитриевич": 44,
-      "Путин Владимир Владимирович": 368
+      "gas:candidate-vibid:100100032152680": 70,
+      "gas:candidate-vibid:100100032159240": 109,
+      "gas:candidate-vibid:100100032143255": 26,
+      "gas:candidate-vibid:100100032152563": 44,
+      "gas:candidate-vibid:100100032111402": 368
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kamchatka-krai?action=show&root=1000081&tvd=2412000234448&vrn=100100031793505&region=91&global=&sub_region=91&prver=0&pronetvd=null&vibid=2412000234448&type=227",
@@ -738,11 +738,11 @@ export const president_2012_uik_226_region_91_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Жириновский Владимир Вольфович": 54,
-      "Зюганов Геннадий Андреевич": 50,
-      "Миронов Сергей Михайлович": 13,
-      "Прохоров Михаил Дмитриевич": 30,
-      "Путин Владимир Владимирович": 214
+      "gas:candidate-vibid:100100032152680": 54,
+      "gas:candidate-vibid:100100032159240": 50,
+      "gas:candidate-vibid:100100032143255": 13,
+      "gas:candidate-vibid:100100032152563": 30,
+      "gas:candidate-vibid:100100032111402": 214
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kamchatka-krai?action=show&root=1000081&tvd=2412000234448&vrn=100100031793505&region=91&global=&sub_region=91&prver=0&pronetvd=null&vibid=2412000234448&type=227",
@@ -788,11 +788,11 @@ export const president_2012_uik_226_region_91_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Жириновский Владимир Вольфович": 62,
-      "Зюганов Геннадий Андреевич": 102,
-      "Миронов Сергей Михайлович": 17,
-      "Прохоров Михаил Дмитриевич": 42,
-      "Путин Владимир Владимирович": 308
+      "gas:candidate-vibid:100100032152680": 62,
+      "gas:candidate-vibid:100100032159240": 102,
+      "gas:candidate-vibid:100100032143255": 17,
+      "gas:candidate-vibid:100100032152563": 42,
+      "gas:candidate-vibid:100100032111402": 308
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kamchatka-krai?action=show&root=1000081&tvd=2412000234448&vrn=100100031793505&region=91&global=&sub_region=91&prver=0&pronetvd=null&vibid=2412000234448&type=227",
@@ -838,11 +838,11 @@ export const president_2012_uik_226_region_91_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Жириновский Владимир Вольфович": 56,
-      "Зюганов Геннадий Андреевич": 65,
-      "Миронов Сергей Михайлович": 15,
-      "Прохоров Михаил Дмитриевич": 43,
-      "Путин Владимир Владимирович": 399
+      "gas:candidate-vibid:100100032152680": 56,
+      "gas:candidate-vibid:100100032159240": 65,
+      "gas:candidate-vibid:100100032143255": 15,
+      "gas:candidate-vibid:100100032152563": 43,
+      "gas:candidate-vibid:100100032111402": 399
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kamchatka-krai?action=show&root=1000081&tvd=2412000234448&vrn=100100031793505&region=91&global=&sub_region=91&prver=0&pronetvd=null&vibid=2412000234448&type=227",
@@ -888,11 +888,11 @@ export const president_2012_uik_226_region_91_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Жириновский Владимир Вольфович": 176,
-      "Зюганов Геннадий Андреевич": 219,
-      "Миронов Сергей Михайлович": 41,
-      "Прохоров Михаил Дмитриевич": 64,
-      "Путин Владимир Владимирович": 840
+      "gas:candidate-vibid:100100032152680": 176,
+      "gas:candidate-vibid:100100032159240": 219,
+      "gas:candidate-vibid:100100032143255": 41,
+      "gas:candidate-vibid:100100032152563": 64,
+      "gas:candidate-vibid:100100032111402": 840
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kamchatka-krai?action=show&root=1000081&tvd=2412000234448&vrn=100100031793505&region=91&global=&sub_region=91&prver=0&pronetvd=null&vibid=2412000234448&type=227",
@@ -938,11 +938,11 @@ export const president_2012_uik_226_region_91_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Жириновский Владимир Вольфович": 48,
-      "Зюганов Геннадий Андреевич": 75,
-      "Миронов Сергей Михайлович": 11,
-      "Прохоров Михаил Дмитриевич": 24,
-      "Путин Владимир Владимирович": 190
+      "gas:candidate-vibid:100100032152680": 48,
+      "gas:candidate-vibid:100100032159240": 75,
+      "gas:candidate-vibid:100100032143255": 11,
+      "gas:candidate-vibid:100100032152563": 24,
+      "gas:candidate-vibid:100100032111402": 190
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kamchatka-krai?action=show&root=1000081&tvd=2412000234448&vrn=100100031793505&region=91&global=&sub_region=91&prver=0&pronetvd=null&vibid=2412000234448&type=227",
@@ -988,11 +988,11 @@ export const president_2012_uik_226_region_91_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Жириновский Владимир Вольфович": 116,
-      "Зюганов Геннадий Андреевич": 210,
-      "Миронов Сергей Михайлович": 32,
-      "Прохоров Михаил Дмитриевич": 47,
-      "Путин Владимир Владимирович": 551
+      "gas:candidate-vibid:100100032152680": 116,
+      "gas:candidate-vibid:100100032159240": 210,
+      "gas:candidate-vibid:100100032143255": 32,
+      "gas:candidate-vibid:100100032152563": 47,
+      "gas:candidate-vibid:100100032111402": 551
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kamchatka-krai?action=show&root=1000081&tvd=2412000234448&vrn=100100031793505&region=91&global=&sub_region=91&prver=0&pronetvd=null&vibid=2412000234448&type=227",
@@ -1038,11 +1038,11 @@ export const president_2012_uik_226_region_91_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Жириновский Владимир Вольфович": 9,
-      "Зюганов Геннадий Андреевич": 22,
-      "Миронов Сергей Михайлович": 2,
-      "Прохоров Михаил Дмитриевич": 3,
-      "Путин Владимир Владимирович": 38
+      "gas:candidate-vibid:100100032152680": 9,
+      "gas:candidate-vibid:100100032159240": 22,
+      "gas:candidate-vibid:100100032143255": 2,
+      "gas:candidate-vibid:100100032152563": 3,
+      "gas:candidate-vibid:100100032111402": 38
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kamchatka-krai?action=show&root=1000081&tvd=2412000234448&vrn=100100031793505&region=91&global=&sub_region=91&prver=0&pronetvd=null&vibid=2412000234448&type=227",
@@ -1088,11 +1088,11 @@ export const president_2012_uik_226_region_91_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Жириновский Владимир Вольфович": 49,
-      "Зюганов Геннадий Андреевич": 90,
-      "Миронов Сергей Михайлович": 11,
-      "Прохоров Михаил Дмитриевич": 23,
-      "Путин Владимир Владимирович": 224
+      "gas:candidate-vibid:100100032152680": 49,
+      "gas:candidate-vibid:100100032159240": 90,
+      "gas:candidate-vibid:100100032143255": 11,
+      "gas:candidate-vibid:100100032152563": 23,
+      "gas:candidate-vibid:100100032111402": 224
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kamchatka-krai?action=show&root=1000081&tvd=2412000234448&vrn=100100031793505&region=91&global=&sub_region=91&prver=0&pronetvd=null&vibid=2412000234448&type=227",
@@ -1138,11 +1138,11 @@ export const president_2012_uik_226_region_91_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Жириновский Владимир Вольфович": 55,
-      "Зюганов Геннадий Андреевич": 67,
-      "Миронов Сергей Михайлович": 9,
-      "Прохоров Михаил Дмитриевич": 20,
-      "Путин Владимир Владимирович": 285
+      "gas:candidate-vibid:100100032152680": 55,
+      "gas:candidate-vibid:100100032159240": 67,
+      "gas:candidate-vibid:100100032143255": 9,
+      "gas:candidate-vibid:100100032152563": 20,
+      "gas:candidate-vibid:100100032111402": 285
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kamchatka-krai?action=show&root=1000081&tvd=2412000234448&vrn=100100031793505&region=91&global=&sub_region=91&prver=0&pronetvd=null&vibid=2412000234448&type=227",
@@ -1188,11 +1188,11 @@ export const president_2012_uik_226_region_91_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Жириновский Владимир Вольфович": 41,
-      "Зюганов Геннадий Андреевич": 82,
-      "Миронов Сергей Михайлович": 17,
-      "Прохоров Михаил Дмитриевич": 25,
-      "Путин Владимир Владимирович": 284
+      "gas:candidate-vibid:100100032152680": 41,
+      "gas:candidate-vibid:100100032159240": 82,
+      "gas:candidate-vibid:100100032143255": 17,
+      "gas:candidate-vibid:100100032152563": 25,
+      "gas:candidate-vibid:100100032111402": 284
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kamchatka-krai?action=show&root=1000081&tvd=2412000234448&vrn=100100031793505&region=91&global=&sub_region=91&prver=0&pronetvd=null&vibid=2412000234448&type=227",
@@ -1238,11 +1238,11 @@ export const president_2012_uik_226_region_91_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Жириновский Владимир Вольфович": 86,
-      "Зюганов Геннадий Андреевич": 119,
-      "Миронов Сергей Михайлович": 29,
-      "Прохоров Михаил Дмитриевич": 46,
-      "Путин Владимир Владимирович": 416
+      "gas:candidate-vibid:100100032152680": 86,
+      "gas:candidate-vibid:100100032159240": 119,
+      "gas:candidate-vibid:100100032143255": 29,
+      "gas:candidate-vibid:100100032152563": 46,
+      "gas:candidate-vibid:100100032111402": 416
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kamchatka-krai?action=show&root=1000081&tvd=2412000234448&vrn=100100031793505&region=91&global=&sub_region=91&prver=0&pronetvd=null&vibid=2412000234448&type=227",
@@ -1288,11 +1288,11 @@ export const president_2012_uik_226_region_91_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Жириновский Владимир Вольфович": 75,
-      "Зюганов Геннадий Андреевич": 99,
-      "Миронов Сергей Михайлович": 20,
-      "Прохоров Михаил Дмитриевич": 54,
-      "Путин Владимир Владимирович": 398
+      "gas:candidate-vibid:100100032152680": 75,
+      "gas:candidate-vibid:100100032159240": 99,
+      "gas:candidate-vibid:100100032143255": 20,
+      "gas:candidate-vibid:100100032152563": 54,
+      "gas:candidate-vibid:100100032111402": 398
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kamchatka-krai?action=show&root=1000081&tvd=2412000234449&vrn=100100031793505&region=91&global=&sub_region=91&prver=0&pronetvd=null&vibid=2412000234449&type=227",
@@ -1338,11 +1338,11 @@ export const president_2012_uik_226_region_91_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Жириновский Владимир Вольфович": 16,
-      "Зюганов Геннадий Андреевич": 20,
-      "Миронов Сергей Михайлович": 3,
-      "Прохоров Михаил Дмитриевич": 9,
-      "Путин Владимир Владимирович": 73
+      "gas:candidate-vibid:100100032152680": 16,
+      "gas:candidate-vibid:100100032159240": 20,
+      "gas:candidate-vibid:100100032143255": 3,
+      "gas:candidate-vibid:100100032152563": 9,
+      "gas:candidate-vibid:100100032111402": 73
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kamchatka-krai?action=show&root=1000081&tvd=2412000234449&vrn=100100031793505&region=91&global=&sub_region=91&prver=0&pronetvd=null&vibid=2412000234449&type=227",
@@ -1388,11 +1388,11 @@ export const president_2012_uik_226_region_91_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Жириновский Владимир Вольфович": 79,
-      "Зюганов Геннадий Андреевич": 91,
-      "Миронов Сергей Михайлович": 27,
-      "Прохоров Михаил Дмитриевич": 50,
-      "Путин Владимир Владимирович": 362
+      "gas:candidate-vibid:100100032152680": 79,
+      "gas:candidate-vibid:100100032159240": 91,
+      "gas:candidate-vibid:100100032143255": 27,
+      "gas:candidate-vibid:100100032152563": 50,
+      "gas:candidate-vibid:100100032111402": 362
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kamchatka-krai?action=show&root=1000081&tvd=2412000234449&vrn=100100031793505&region=91&global=&sub_region=91&prver=0&pronetvd=null&vibid=2412000234449&type=227",
@@ -1438,11 +1438,11 @@ export const president_2012_uik_226_region_91_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Жириновский Владимир Вольфович": 103,
-      "Зюганов Геннадий Андреевич": 85,
-      "Миронов Сергей Михайлович": 13,
-      "Прохоров Михаил Дмитриевич": 58,
-      "Путин Владимир Владимирович": 451
+      "gas:candidate-vibid:100100032152680": 103,
+      "gas:candidate-vibid:100100032159240": 85,
+      "gas:candidate-vibid:100100032143255": 13,
+      "gas:candidate-vibid:100100032152563": 58,
+      "gas:candidate-vibid:100100032111402": 451
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kamchatka-krai?action=show&root=1000081&tvd=2412000234449&vrn=100100031793505&region=91&global=&sub_region=91&prver=0&pronetvd=null&vibid=2412000234449&type=227",
@@ -1488,11 +1488,11 @@ export const president_2012_uik_226_region_91_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Жириновский Владимир Вольфович": 66,
-      "Зюганов Геннадий Андреевич": 86,
-      "Миронов Сергей Михайлович": 16,
-      "Прохоров Михаил Дмитриевич": 58,
-      "Путин Владимир Владимирович": 433
+      "gas:candidate-vibid:100100032152680": 66,
+      "gas:candidate-vibid:100100032159240": 86,
+      "gas:candidate-vibid:100100032143255": 16,
+      "gas:candidate-vibid:100100032152563": 58,
+      "gas:candidate-vibid:100100032111402": 433
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kamchatka-krai?action=show&root=1000081&tvd=2412000234449&vrn=100100031793505&region=91&global=&sub_region=91&prver=0&pronetvd=null&vibid=2412000234449&type=227",
@@ -1538,11 +1538,11 @@ export const president_2012_uik_226_region_91_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Жириновский Владимир Вольфович": 83,
-      "Зюганов Геннадий Андреевич": 112,
-      "Миронов Сергей Михайлович": 20,
-      "Прохоров Михаил Дмитриевич": 57,
-      "Путин Владимир Владимирович": 441
+      "gas:candidate-vibid:100100032152680": 83,
+      "gas:candidate-vibid:100100032159240": 112,
+      "gas:candidate-vibid:100100032143255": 20,
+      "gas:candidate-vibid:100100032152563": 57,
+      "gas:candidate-vibid:100100032111402": 441
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kamchatka-krai?action=show&root=1000081&tvd=2412000234449&vrn=100100031793505&region=91&global=&sub_region=91&prver=0&pronetvd=null&vibid=2412000234449&type=227",
@@ -1588,11 +1588,11 @@ export const president_2012_uik_226_region_91_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Жириновский Владимир Вольфович": 131,
-      "Зюганов Геннадий Андреевич": 108,
-      "Миронов Сергей Михайлович": 32,
-      "Прохоров Михаил Дмитриевич": 111,
-      "Путин Владимир Владимирович": 797
+      "gas:candidate-vibid:100100032152680": 131,
+      "gas:candidate-vibid:100100032159240": 108,
+      "gas:candidate-vibid:100100032143255": 32,
+      "gas:candidate-vibid:100100032152563": 111,
+      "gas:candidate-vibid:100100032111402": 797
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kamchatka-krai?action=show&root=1000081&tvd=2412000234449&vrn=100100031793505&region=91&global=&sub_region=91&prver=0&pronetvd=null&vibid=2412000234449&type=227",
@@ -1638,11 +1638,11 @@ export const president_2012_uik_226_region_91_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Жириновский Владимир Вольфович": 89,
-      "Зюганов Геннадий Андреевич": 86,
-      "Миронов Сергей Михайлович": 20,
-      "Прохоров Михаил Дмитриевич": 64,
-      "Путин Владимир Владимирович": 492
+      "gas:candidate-vibid:100100032152680": 89,
+      "gas:candidate-vibid:100100032159240": 86,
+      "gas:candidate-vibid:100100032143255": 20,
+      "gas:candidate-vibid:100100032152563": 64,
+      "gas:candidate-vibid:100100032111402": 492
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kamchatka-krai?action=show&root=1000081&tvd=2412000234449&vrn=100100031793505&region=91&global=&sub_region=91&prver=0&pronetvd=null&vibid=2412000234449&type=227",
@@ -1688,11 +1688,11 @@ export const president_2012_uik_226_region_91_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Жириновский Владимир Вольфович": 75,
-      "Зюганов Геннадий Андреевич": 107,
-      "Миронов Сергей Михайлович": 20,
-      "Прохоров Михаил Дмитриевич": 62,
-      "Путин Владимир Владимирович": 397
+      "gas:candidate-vibid:100100032152680": 75,
+      "gas:candidate-vibid:100100032159240": 107,
+      "gas:candidate-vibid:100100032143255": 20,
+      "gas:candidate-vibid:100100032152563": 62,
+      "gas:candidate-vibid:100100032111402": 397
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kamchatka-krai?action=show&root=1000081&tvd=2412000234449&vrn=100100031793505&region=91&global=&sub_region=91&prver=0&pronetvd=null&vibid=2412000234449&type=227",
@@ -1738,11 +1738,11 @@ export const president_2012_uik_226_region_91_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Жириновский Владимир Вольфович": 79,
-      "Зюганов Геннадий Андреевич": 127,
-      "Миронов Сергей Михайлович": 34,
-      "Прохоров Михаил Дмитриевич": 69,
-      "Путин Владимир Владимирович": 444
+      "gas:candidate-vibid:100100032152680": 79,
+      "gas:candidate-vibid:100100032159240": 127,
+      "gas:candidate-vibid:100100032143255": 34,
+      "gas:candidate-vibid:100100032152563": 69,
+      "gas:candidate-vibid:100100032111402": 444
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kamchatka-krai?action=show&root=1000081&tvd=2412000234449&vrn=100100031793505&region=91&global=&sub_region=91&prver=0&pronetvd=null&vibid=2412000234449&type=227",
@@ -1788,11 +1788,11 @@ export const president_2012_uik_226_region_91_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Жириновский Владимир Вольфович": 90,
-      "Зюганов Геннадий Андреевич": 119,
-      "Миронов Сергей Михайлович": 30,
-      "Прохоров Михаил Дмитриевич": 69,
-      "Путин Владимир Владимирович": 419
+      "gas:candidate-vibid:100100032152680": 90,
+      "gas:candidate-vibid:100100032159240": 119,
+      "gas:candidate-vibid:100100032143255": 30,
+      "gas:candidate-vibid:100100032152563": 69,
+      "gas:candidate-vibid:100100032111402": 419
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kamchatka-krai?action=show&root=1000081&tvd=2412000234449&vrn=100100031793505&region=91&global=&sub_region=91&prver=0&pronetvd=null&vibid=2412000234449&type=227",
@@ -1838,11 +1838,11 @@ export const president_2012_uik_226_region_91_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Жириновский Владимир Вольфович": 81,
-      "Зюганов Геннадий Андреевич": 143,
-      "Миронов Сергей Михайлович": 27,
-      "Прохоров Михаил Дмитриевич": 82,
-      "Путин Владимир Владимирович": 404
+      "gas:candidate-vibid:100100032152680": 81,
+      "gas:candidate-vibid:100100032159240": 143,
+      "gas:candidate-vibid:100100032143255": 27,
+      "gas:candidate-vibid:100100032152563": 82,
+      "gas:candidate-vibid:100100032111402": 404
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kamchatka-krai?action=show&root=1000081&tvd=2412000234449&vrn=100100031793505&region=91&global=&sub_region=91&prver=0&pronetvd=null&vibid=2412000234449&type=227",
@@ -1888,11 +1888,11 @@ export const president_2012_uik_226_region_91_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Жириновский Владимир Вольфович": 64,
-      "Зюганов Геннадий Андреевич": 145,
-      "Миронов Сергей Михайлович": 14,
-      "Прохоров Михаил Дмитриевич": 77,
-      "Путин Владимир Владимирович": 414
+      "gas:candidate-vibid:100100032152680": 64,
+      "gas:candidate-vibid:100100032159240": 145,
+      "gas:candidate-vibid:100100032143255": 14,
+      "gas:candidate-vibid:100100032152563": 77,
+      "gas:candidate-vibid:100100032111402": 414
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kamchatka-krai?action=show&root=1000081&tvd=2412000234449&vrn=100100031793505&region=91&global=&sub_region=91&prver=0&pronetvd=null&vibid=2412000234449&type=227",
@@ -1938,11 +1938,11 @@ export const president_2012_uik_226_region_91_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Жириновский Владимир Вольфович": 114,
-      "Зюганов Геннадий Андреевич": 151,
-      "Миронов Сергей Михайлович": 31,
-      "Прохоров Михаил Дмитриевич": 83,
-      "Путин Владимир Владимирович": 498
+      "gas:candidate-vibid:100100032152680": 114,
+      "gas:candidate-vibid:100100032159240": 151,
+      "gas:candidate-vibid:100100032143255": 31,
+      "gas:candidate-vibid:100100032152563": 83,
+      "gas:candidate-vibid:100100032111402": 498
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kamchatka-krai?action=show&root=1000081&tvd=2412000234449&vrn=100100031793505&region=91&global=&sub_region=91&prver=0&pronetvd=null&vibid=2412000234449&type=227",
@@ -1988,11 +1988,11 @@ export const president_2012_uik_226_region_91_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Жириновский Владимир Вольфович": 90,
-      "Зюганов Геннадий Андреевич": 67,
-      "Миронов Сергей Михайлович": 14,
-      "Прохоров Михаил Дмитриевич": 67,
-      "Путин Владимир Владимирович": 453
+      "gas:candidate-vibid:100100032152680": 90,
+      "gas:candidate-vibid:100100032159240": 67,
+      "gas:candidate-vibid:100100032143255": 14,
+      "gas:candidate-vibid:100100032152563": 67,
+      "gas:candidate-vibid:100100032111402": 453
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kamchatka-krai?action=show&root=1000081&tvd=2412000234449&vrn=100100031793505&region=91&global=&sub_region=91&prver=0&pronetvd=null&vibid=2412000234449&type=227",
@@ -2038,11 +2038,11 @@ export const president_2012_uik_226_region_91_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Жириновский Владимир Вольфович": 105,
-      "Зюганов Геннадий Андреевич": 116,
-      "Миронов Сергей Михайлович": 21,
-      "Прохоров Михаил Дмитриевич": 72,
-      "Путин Владимир Владимирович": 404
+      "gas:candidate-vibid:100100032152680": 105,
+      "gas:candidate-vibid:100100032159240": 116,
+      "gas:candidate-vibid:100100032143255": 21,
+      "gas:candidate-vibid:100100032152563": 72,
+      "gas:candidate-vibid:100100032111402": 404
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kamchatka-krai?action=show&root=1000081&tvd=2412000234449&vrn=100100031793505&region=91&global=&sub_region=91&prver=0&pronetvd=null&vibid=2412000234449&type=227",
@@ -2088,11 +2088,11 @@ export const president_2012_uik_226_region_91_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Жириновский Владимир Вольфович": 49,
-      "Зюганов Геннадий Андреевич": 46,
-      "Миронов Сергей Михайлович": 13,
-      "Прохоров Михаил Дмитриевич": 25,
-      "Путин Владимир Владимирович": 150
+      "gas:candidate-vibid:100100032152680": 49,
+      "gas:candidate-vibid:100100032159240": 46,
+      "gas:candidate-vibid:100100032143255": 13,
+      "gas:candidate-vibid:100100032152563": 25,
+      "gas:candidate-vibid:100100032111402": 150
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kamchatka-krai?action=show&root=1000081&tvd=2412000234450&vrn=100100031793505&region=91&global=&sub_region=91&prver=0&pronetvd=null&vibid=2412000234450&type=227",
@@ -2138,11 +2138,11 @@ export const president_2012_uik_226_region_91_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Жириновский Владимир Вольфович": 1,
-      "Зюганов Геннадий Андреевич": 7,
-      "Миронов Сергей Михайлович": 3,
-      "Прохоров Михаил Дмитриевич": 2,
-      "Путин Владимир Владимирович": 41
+      "gas:candidate-vibid:100100032152680": 1,
+      "gas:candidate-vibid:100100032159240": 7,
+      "gas:candidate-vibid:100100032143255": 3,
+      "gas:candidate-vibid:100100032152563": 2,
+      "gas:candidate-vibid:100100032111402": 41
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kamchatka-krai?action=show&root=1000081&tvd=2412000234450&vrn=100100031793505&region=91&global=&sub_region=91&prver=0&pronetvd=null&vibid=2412000234450&type=227",
@@ -2188,11 +2188,11 @@ export const president_2012_uik_226_region_91_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Жириновский Владимир Вольфович": 16,
-      "Зюганов Геннадий Андреевич": 27,
-      "Миронов Сергей Михайлович": 11,
-      "Прохоров Михаил Дмитриевич": 9,
-      "Путин Владимир Владимирович": 119
+      "gas:candidate-vibid:100100032152680": 16,
+      "gas:candidate-vibid:100100032159240": 27,
+      "gas:candidate-vibid:100100032143255": 11,
+      "gas:candidate-vibid:100100032152563": 9,
+      "gas:candidate-vibid:100100032111402": 119
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kamchatka-krai?action=show&root=1000081&tvd=2412000234450&vrn=100100031793505&region=91&global=&sub_region=91&prver=0&pronetvd=null&vibid=2412000234450&type=227",
@@ -2238,11 +2238,11 @@ export const president_2012_uik_226_region_91_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Жириновский Владимир Вольфович": 98,
-      "Зюганов Геннадий Андреевич": 120,
-      "Миронов Сергей Михайлович": 49,
-      "Прохоров Михаил Дмитриевич": 68,
-      "Путин Владимир Владимирович": 785
+      "gas:candidate-vibid:100100032152680": 98,
+      "gas:candidate-vibid:100100032159240": 120,
+      "gas:candidate-vibid:100100032143255": 49,
+      "gas:candidate-vibid:100100032152563": 68,
+      "gas:candidate-vibid:100100032111402": 785
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kamchatka-krai?action=show&root=1000081&tvd=2412000234450&vrn=100100031793505&region=91&global=&sub_region=91&prver=0&pronetvd=null&vibid=2412000234450&type=227",
@@ -2288,11 +2288,11 @@ export const president_2012_uik_226_region_91_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Жириновский Владимир Вольфович": 15,
-      "Зюганов Геннадий Андреевич": 18,
-      "Миронов Сергей Михайлович": 5,
-      "Прохоров Михаил Дмитриевич": 6,
-      "Путин Владимир Владимирович": 262
+      "gas:candidate-vibid:100100032152680": 15,
+      "gas:candidate-vibid:100100032159240": 18,
+      "gas:candidate-vibid:100100032143255": 5,
+      "gas:candidate-vibid:100100032152563": 6,
+      "gas:candidate-vibid:100100032111402": 262
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kamchatka-krai?action=show&root=1000081&tvd=2412000234450&vrn=100100031793505&region=91&global=&sub_region=91&prver=0&pronetvd=null&vibid=2412000234450&type=227",
@@ -2338,11 +2338,11 @@ export const president_2012_uik_226_region_91_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Жириновский Владимир Вольфович": 5,
-      "Зюганов Геннадий Андреевич": 16,
-      "Миронов Сергей Михайлович": 2,
-      "Прохоров Михаил Дмитриевич": 4,
-      "Путин Владимир Владимирович": 45
+      "gas:candidate-vibid:100100032152680": 5,
+      "gas:candidate-vibid:100100032159240": 16,
+      "gas:candidate-vibid:100100032143255": 2,
+      "gas:candidate-vibid:100100032152563": 4,
+      "gas:candidate-vibid:100100032111402": 45
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kamchatka-krai?action=show&root=1000081&tvd=2412000234450&vrn=100100031793505&region=91&global=&sub_region=91&prver=0&pronetvd=null&vibid=2412000234450&type=227",
@@ -2388,11 +2388,11 @@ export const president_2012_uik_226_region_91_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Жириновский Владимир Вольфович": 39,
-      "Зюганов Геннадий Андреевич": 15,
-      "Миронов Сергей Михайлович": 6,
-      "Прохоров Михаил Дмитриевич": 44,
-      "Путин Владимир Владимирович": 274
+      "gas:candidate-vibid:100100032152680": 39,
+      "gas:candidate-vibid:100100032159240": 15,
+      "gas:candidate-vibid:100100032143255": 6,
+      "gas:candidate-vibid:100100032152563": 44,
+      "gas:candidate-vibid:100100032111402": 274
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kamchatka-krai?action=show&root=1000081&tvd=2412000234451&vrn=100100031793505&region=91&global=&sub_region=91&prver=0&pronetvd=null&vibid=2412000234451&type=227",
@@ -2438,11 +2438,11 @@ export const president_2012_uik_226_region_91_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Жириновский Владимир Вольфович": 148,
-      "Зюганов Геннадий Андреевич": 158,
-      "Миронов Сергей Михайлович": 46,
-      "Прохоров Михаил Дмитриевич": 101,
-      "Путин Владимир Владимирович": 805
+      "gas:candidate-vibid:100100032152680": 148,
+      "gas:candidate-vibid:100100032159240": 158,
+      "gas:candidate-vibid:100100032143255": 46,
+      "gas:candidate-vibid:100100032152563": 101,
+      "gas:candidate-vibid:100100032111402": 805
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kamchatka-krai?action=show&root=1000081&tvd=2412000234452&vrn=100100031793505&region=91&global=&sub_region=91&prver=0&pronetvd=null&vibid=2412000234452&type=227",
@@ -2488,11 +2488,11 @@ export const president_2012_uik_226_region_91_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Жириновский Владимир Вольфович": 27,
-      "Зюганов Геннадий Андреевич": 19,
-      "Миронов Сергей Михайлович": 10,
-      "Прохоров Михаил Дмитриевич": 9,
-      "Путин Владимир Владимирович": 202
+      "gas:candidate-vibid:100100032152680": 27,
+      "gas:candidate-vibid:100100032159240": 19,
+      "gas:candidate-vibid:100100032143255": 10,
+      "gas:candidate-vibid:100100032152563": 9,
+      "gas:candidate-vibid:100100032111402": 202
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kamchatka-krai?action=show&root=1000081&tvd=2412000234452&vrn=100100031793505&region=91&global=&sub_region=91&prver=0&pronetvd=null&vibid=2412000234452&type=227",
@@ -2538,11 +2538,11 @@ export const president_2012_uik_226_region_91_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Жириновский Владимир Вольфович": 10,
-      "Зюганов Геннадий Андреевич": 15,
-      "Миронов Сергей Михайлович": 2,
-      "Прохоров Михаил Дмитриевич": 9,
-      "Путин Владимир Владимирович": 161
+      "gas:candidate-vibid:100100032152680": 10,
+      "gas:candidate-vibid:100100032159240": 15,
+      "gas:candidate-vibid:100100032143255": 2,
+      "gas:candidate-vibid:100100032152563": 9,
+      "gas:candidate-vibid:100100032111402": 161
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kamchatka-krai?action=show&root=1000081&tvd=2412000234453&vrn=100100031793505&region=91&global=&sub_region=91&prver=0&pronetvd=null&vibid=2412000234453&type=227",
@@ -2588,11 +2588,11 @@ export const president_2012_uik_226_region_91_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Жириновский Владимир Вольфович": 4,
-      "Зюганов Геннадий Андреевич": 17,
-      "Миронов Сергей Михайлович": 1,
-      "Прохоров Михаил Дмитриевич": 7,
-      "Путин Владимир Владимирович": 69
+      "gas:candidate-vibid:100100032152680": 4,
+      "gas:candidate-vibid:100100032159240": 17,
+      "gas:candidate-vibid:100100032143255": 1,
+      "gas:candidate-vibid:100100032152563": 7,
+      "gas:candidate-vibid:100100032111402": 69
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kamchatka-krai?action=show&root=1000081&tvd=2412000234453&vrn=100100031793505&region=91&global=&sub_region=91&prver=0&pronetvd=null&vibid=2412000234453&type=227",
@@ -2638,11 +2638,11 @@ export const president_2012_uik_226_region_91_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Жириновский Владимир Вольфович": 47,
-      "Зюганов Геннадий Андреевич": 73,
-      "Миронов Сергей Михайлович": 15,
-      "Прохоров Михаил Дмитриевич": 41,
-      "Путин Владимир Владимирович": 624
+      "gas:candidate-vibid:100100032152680": 47,
+      "gas:candidate-vibid:100100032159240": 73,
+      "gas:candidate-vibid:100100032143255": 15,
+      "gas:candidate-vibid:100100032152563": 41,
+      "gas:candidate-vibid:100100032111402": 624
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kamchatka-krai?action=show&root=1000081&tvd=2412000234453&vrn=100100031793505&region=91&global=&sub_region=91&prver=0&pronetvd=null&vibid=2412000234453&type=227",
@@ -2688,11 +2688,11 @@ export const president_2012_uik_226_region_91_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Жириновский Владимир Вольфович": 22,
-      "Зюганов Геннадий Андреевич": 21,
-      "Миронов Сергей Михайлович": 10,
-      "Прохоров Михаил Дмитриевич": 19,
-      "Путин Владимир Владимирович": 219
+      "gas:candidate-vibid:100100032152680": 22,
+      "gas:candidate-vibid:100100032159240": 21,
+      "gas:candidate-vibid:100100032143255": 10,
+      "gas:candidate-vibid:100100032152563": 19,
+      "gas:candidate-vibid:100100032111402": 219
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kamchatka-krai?action=show&root=1000081&tvd=2412000234453&vrn=100100031793505&region=91&global=&sub_region=91&prver=0&pronetvd=null&vibid=2412000234453&type=227",
@@ -2738,11 +2738,11 @@ export const president_2012_uik_226_region_91_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Жириновский Владимир Вольфович": 34,
-      "Зюганов Геннадий Андреевич": 34,
-      "Миронов Сергей Михайлович": 7,
-      "Прохоров Михаил Дмитриевич": 15,
-      "Путин Владимир Владимирович": 194
+      "gas:candidate-vibid:100100032152680": 34,
+      "gas:candidate-vibid:100100032159240": 34,
+      "gas:candidate-vibid:100100032143255": 7,
+      "gas:candidate-vibid:100100032152563": 15,
+      "gas:candidate-vibid:100100032111402": 194
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kamchatka-krai?action=show&root=1000081&tvd=2412000234453&vrn=100100031793505&region=91&global=&sub_region=91&prver=0&pronetvd=null&vibid=2412000234453&type=227",
@@ -2788,11 +2788,11 @@ export const president_2012_uik_226_region_91_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Жириновский Владимир Вольфович": 8,
-      "Зюганов Геннадий Андреевич": 7,
-      "Миронов Сергей Михайлович": 6,
-      "Прохоров Михаил Дмитриевич": 4,
-      "Путин Владимир Владимирович": 164
+      "gas:candidate-vibid:100100032152680": 8,
+      "gas:candidate-vibid:100100032159240": 7,
+      "gas:candidate-vibid:100100032143255": 6,
+      "gas:candidate-vibid:100100032152563": 4,
+      "gas:candidate-vibid:100100032111402": 164
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kamchatka-krai?action=show&root=1000081&tvd=2412000234453&vrn=100100031793505&region=91&global=&sub_region=91&prver=0&pronetvd=null&vibid=2412000234453&type=227",
@@ -2838,11 +2838,11 @@ export const president_2012_uik_226_region_91_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Жириновский Владимир Вольфович": 10,
-      "Зюганов Геннадий Андреевич": 16,
-      "Миронов Сергей Михайлович": 6,
-      "Прохоров Михаил Дмитриевич": 7,
-      "Путин Владимир Владимирович": 106
+      "gas:candidate-vibid:100100032152680": 10,
+      "gas:candidate-vibid:100100032159240": 16,
+      "gas:candidate-vibid:100100032143255": 6,
+      "gas:candidate-vibid:100100032152563": 7,
+      "gas:candidate-vibid:100100032111402": 106
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kamchatka-krai?action=show&root=1000081&tvd=2412000234453&vrn=100100031793505&region=91&global=&sub_region=91&prver=0&pronetvd=null&vibid=2412000234453&type=227",
@@ -2888,11 +2888,11 @@ export const president_2012_uik_226_region_91_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Жириновский Владимир Вольфович": 15,
-      "Зюганов Геннадий Андреевич": 23,
-      "Миронов Сергей Михайлович": 8,
-      "Прохоров Михаил Дмитриевич": 4,
-      "Путин Владимир Владимирович": 215
+      "gas:candidate-vibid:100100032152680": 15,
+      "gas:candidate-vibid:100100032159240": 23,
+      "gas:candidate-vibid:100100032143255": 8,
+      "gas:candidate-vibid:100100032152563": 4,
+      "gas:candidate-vibid:100100032111402": 215
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kamchatka-krai?action=show&root=1000081&tvd=2412000234453&vrn=100100031793505&region=91&global=&sub_region=91&prver=0&pronetvd=null&vibid=2412000234453&type=227",
@@ -2938,11 +2938,11 @@ export const president_2012_uik_226_region_91_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Жириновский Владимир Вольфович": 1,
-      "Зюганов Геннадий Андреевич": 0,
-      "Миронов Сергей Михайлович": 0,
-      "Прохоров Михаил Дмитриевич": 1,
-      "Путин Владимир Владимирович": 44
+      "gas:candidate-vibid:100100032152680": 1,
+      "gas:candidate-vibid:100100032159240": 0,
+      "gas:candidate-vibid:100100032143255": 0,
+      "gas:candidate-vibid:100100032152563": 1,
+      "gas:candidate-vibid:100100032111402": 44
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kamchatka-krai?action=show&root=1000081&tvd=2412000234454&vrn=100100031793505&region=91&global=&sub_region=91&prver=0&pronetvd=null&vibid=2412000234454&type=227",
@@ -2988,11 +2988,11 @@ export const president_2012_uik_226_region_91_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Жириновский Владимир Вольфович": 26,
-      "Зюганов Геннадий Андреевич": 23,
-      "Миронов Сергей Михайлович": 5,
-      "Прохоров Михаил Дмитриевич": 17,
-      "Путин Владимир Владимирович": 244
+      "gas:candidate-vibid:100100032152680": 26,
+      "gas:candidate-vibid:100100032159240": 23,
+      "gas:candidate-vibid:100100032143255": 5,
+      "gas:candidate-vibid:100100032152563": 17,
+      "gas:candidate-vibid:100100032111402": 244
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kamchatka-krai?action=show&root=1000081&tvd=2412000234454&vrn=100100031793505&region=91&global=&sub_region=91&prver=0&pronetvd=null&vibid=2412000234454&type=227",
@@ -3038,11 +3038,11 @@ export const president_2012_uik_226_region_91_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Жириновский Владимир Вольфович": 18,
-      "Зюганов Геннадий Андреевич": 3,
-      "Миронов Сергей Михайлович": 2,
-      "Прохоров Михаил Дмитриевич": 1,
-      "Путин Владимир Владимирович": 135
+      "gas:candidate-vibid:100100032152680": 18,
+      "gas:candidate-vibid:100100032159240": 3,
+      "gas:candidate-vibid:100100032143255": 2,
+      "gas:candidate-vibid:100100032152563": 1,
+      "gas:candidate-vibid:100100032111402": 135
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kamchatka-krai?action=show&root=1000081&tvd=2412000234454&vrn=100100031793505&region=91&global=&sub_region=91&prver=0&pronetvd=null&vibid=2412000234454&type=227",
@@ -3088,11 +3088,11 @@ export const president_2012_uik_226_region_91_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Жириновский Владимир Вольфович": 33,
-      "Зюганов Геннадий Андреевич": 42,
-      "Миронов Сергей Михайлович": 11,
-      "Прохоров Михаил Дмитриевич": 25,
-      "Путин Владимир Владимирович": 258
+      "gas:candidate-vibid:100100032152680": 33,
+      "gas:candidate-vibid:100100032159240": 42,
+      "gas:candidate-vibid:100100032143255": 11,
+      "gas:candidate-vibid:100100032152563": 25,
+      "gas:candidate-vibid:100100032111402": 258
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kamchatka-krai?action=show&root=1000081&tvd=2412000234454&vrn=100100031793505&region=91&global=&sub_region=91&prver=0&pronetvd=null&vibid=2412000234454&type=227",
@@ -3138,11 +3138,11 @@ export const president_2012_uik_226_region_91_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Жириновский Владимир Вольфович": 4,
-      "Зюганов Геннадий Андреевич": 5,
-      "Миронов Сергей Михайлович": 0,
-      "Прохоров Михаил Дмитриевич": 2,
-      "Путин Владимир Владимирович": 34
+      "gas:candidate-vibid:100100032152680": 4,
+      "gas:candidate-vibid:100100032159240": 5,
+      "gas:candidate-vibid:100100032143255": 0,
+      "gas:candidate-vibid:100100032152563": 2,
+      "gas:candidate-vibid:100100032111402": 34
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kamchatka-krai?action=show&root=1000081&tvd=2412000234454&vrn=100100031793505&region=91&global=&sub_region=91&prver=0&pronetvd=null&vibid=2412000234454&type=227",
@@ -3188,11 +3188,11 @@ export const president_2012_uik_226_region_91_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Жириновский Владимир Вольфович": 8,
-      "Зюганов Геннадий Андреевич": 9,
-      "Миронов Сергей Михайлович": 3,
-      "Прохоров Михаил Дмитриевич": 3,
-      "Путин Владимир Владимирович": 126
+      "gas:candidate-vibid:100100032152680": 8,
+      "gas:candidate-vibid:100100032159240": 9,
+      "gas:candidate-vibid:100100032143255": 3,
+      "gas:candidate-vibid:100100032152563": 3,
+      "gas:candidate-vibid:100100032111402": 126
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kamchatka-krai?action=show&root=1000081&tvd=2412000234454&vrn=100100031793505&region=91&global=&sub_region=91&prver=0&pronetvd=null&vibid=2412000234454&type=227",
@@ -3238,11 +3238,11 @@ export const president_2012_uik_226_region_91_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Жириновский Владимир Вольфович": 3,
-      "Зюганов Геннадий Андреевич": 6,
-      "Миронов Сергей Михайлович": 0,
-      "Прохоров Михаил Дмитриевич": 4,
-      "Путин Владимир Владимирович": 145
+      "gas:candidate-vibid:100100032152680": 3,
+      "gas:candidate-vibid:100100032159240": 6,
+      "gas:candidate-vibid:100100032143255": 0,
+      "gas:candidate-vibid:100100032152563": 4,
+      "gas:candidate-vibid:100100032111402": 145
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kamchatka-krai?action=show&root=1000081&tvd=2412000234454&vrn=100100031793505&region=91&global=&sub_region=91&prver=0&pronetvd=null&vibid=2412000234454&type=227",
@@ -3288,11 +3288,11 @@ export const president_2012_uik_226_region_91_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Жириновский Владимир Вольфович": 11,
-      "Зюганов Геннадий Андреевич": 3,
-      "Миронов Сергей Михайлович": 4,
-      "Прохоров Михаил Дмитриевич": 5,
-      "Путин Владимир Владимирович": 89
+      "gas:candidate-vibid:100100032152680": 11,
+      "gas:candidate-vibid:100100032159240": 3,
+      "gas:candidate-vibid:100100032143255": 4,
+      "gas:candidate-vibid:100100032152563": 5,
+      "gas:candidate-vibid:100100032111402": 89
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kamchatka-krai?action=show&root=1000081&tvd=2412000234455&vrn=100100031793505&region=91&global=&sub_region=91&prver=0&pronetvd=null&vibid=2412000234455&type=227",
@@ -3338,11 +3338,11 @@ export const president_2012_uik_226_region_91_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Жириновский Владимир Вольфович": 61,
-      "Зюганов Геннадий Андреевич": 54,
-      "Миронов Сергей Михайлович": 11,
-      "Прохоров Михаил Дмитриевич": 40,
-      "Путин Владимир Владимирович": 292
+      "gas:candidate-vibid:100100032152680": 61,
+      "gas:candidate-vibid:100100032159240": 54,
+      "gas:candidate-vibid:100100032143255": 11,
+      "gas:candidate-vibid:100100032152563": 40,
+      "gas:candidate-vibid:100100032111402": 292
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kamchatka-krai?action=show&root=1000081&tvd=2412000234455&vrn=100100031793505&region=91&global=&sub_region=91&prver=0&pronetvd=null&vibid=2412000234455&type=227",
@@ -3388,11 +3388,11 @@ export const president_2012_uik_226_region_91_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Жириновский Владимир Вольфович": 7,
-      "Зюганов Геннадий Андреевич": 8,
-      "Миронов Сергей Михайлович": 1,
-      "Прохоров Михаил Дмитриевич": 11,
-      "Путин Владимир Владимирович": 125
+      "gas:candidate-vibid:100100032152680": 7,
+      "gas:candidate-vibid:100100032159240": 8,
+      "gas:candidate-vibid:100100032143255": 1,
+      "gas:candidate-vibid:100100032152563": 11,
+      "gas:candidate-vibid:100100032111402": 125
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kamchatka-krai?action=show&root=1000081&tvd=2412000234455&vrn=100100031793505&region=91&global=&sub_region=91&prver=0&pronetvd=null&vibid=2412000234455&type=227",
@@ -3438,11 +3438,11 @@ export const president_2012_uik_226_region_91_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Жириновский Владимир Вольфович": 22,
-      "Зюганов Геннадий Андреевич": 7,
-      "Миронов Сергей Михайлович": 5,
-      "Прохоров Михаил Дмитриевич": 20,
-      "Путин Владимир Владимирович": 208
+      "gas:candidate-vibid:100100032152680": 22,
+      "gas:candidate-vibid:100100032159240": 7,
+      "gas:candidate-vibid:100100032143255": 5,
+      "gas:candidate-vibid:100100032152563": 20,
+      "gas:candidate-vibid:100100032111402": 208
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kamchatka-krai?action=show&root=1000081&tvd=2412000234455&vrn=100100031793505&region=91&global=&sub_region=91&prver=0&pronetvd=null&vibid=2412000234455&type=227",
@@ -3488,11 +3488,11 @@ export const president_2012_uik_226_region_91_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Жириновский Владимир Вольфович": 93,
-      "Зюганов Геннадий Андреевич": 96,
-      "Миронов Сергей Михайлович": 29,
-      "Прохоров Михаил Дмитриевич": 64,
-      "Путин Владимир Владимирович": 644
+      "gas:candidate-vibid:100100032152680": 93,
+      "gas:candidate-vibid:100100032159240": 96,
+      "gas:candidate-vibid:100100032143255": 29,
+      "gas:candidate-vibid:100100032152563": 64,
+      "gas:candidate-vibid:100100032111402": 644
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kamchatka-krai?action=show&root=1000081&tvd=2412000234455&vrn=100100031793505&region=91&global=&sub_region=91&prver=0&pronetvd=null&vibid=2412000234455&type=227",
@@ -3538,11 +3538,11 @@ export const president_2012_uik_226_region_91_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Жириновский Владимир Вольфович": 2,
-      "Зюганов Геннадий Андреевич": 0,
-      "Миронов Сергей Михайлович": 3,
-      "Прохоров Михаил Дмитриевич": 1,
-      "Путин Владимир Владимирович": 98
+      "gas:candidate-vibid:100100032152680": 2,
+      "gas:candidate-vibid:100100032159240": 0,
+      "gas:candidate-vibid:100100032143255": 3,
+      "gas:candidate-vibid:100100032152563": 1,
+      "gas:candidate-vibid:100100032111402": 98
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kamchatka-krai?action=show&root=1000081&tvd=2412000234455&vrn=100100031793505&region=91&global=&sub_region=91&prver=0&pronetvd=null&vibid=2412000234455&type=227",
@@ -3588,11 +3588,11 @@ export const president_2012_uik_226_region_91_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Жириновский Владимир Вольфович": 10,
-      "Зюганов Геннадий Андреевич": 1,
-      "Миронов Сергей Михайлович": 3,
-      "Прохоров Михаил Дмитриевич": 7,
-      "Путин Владимир Владимирович": 185
+      "gas:candidate-vibid:100100032152680": 10,
+      "gas:candidate-vibid:100100032159240": 1,
+      "gas:candidate-vibid:100100032143255": 3,
+      "gas:candidate-vibid:100100032152563": 7,
+      "gas:candidate-vibid:100100032111402": 185
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kamchatka-krai?action=show&root=1000081&tvd=2412000234455&vrn=100100031793505&region=91&global=&sub_region=91&prver=0&pronetvd=null&vibid=2412000234455&type=227",
@@ -3638,11 +3638,11 @@ export const president_2012_uik_226_region_91_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Жириновский Владимир Вольфович": 119,
-      "Зюганов Геннадий Андреевич": 182,
-      "Миронов Сергей Михайлович": 44,
-      "Прохоров Михаил Дмитриевич": 103,
-      "Путин Владимир Владимирович": 1167
+      "gas:candidate-vibid:100100032152680": 119,
+      "gas:candidate-vibid:100100032159240": 182,
+      "gas:candidate-vibid:100100032143255": 44,
+      "gas:candidate-vibid:100100032152563": 103,
+      "gas:candidate-vibid:100100032111402": 1167
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kamchatka-krai?action=show&root=1000081&tvd=2412000234455&vrn=100100031793505&region=91&global=&sub_region=91&prver=0&pronetvd=null&vibid=2412000234455&type=227",

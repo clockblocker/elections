@@ -43,14 +43,14 @@ export const duma_2016_uik_463_region_22_part_007 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Богданов Юрий Дмитриевич": 0,
-      "Боровикова Евгения Анатольевна": 6,
-      "Кириллов Владимир Викторович": 1,
-      "Кондров Александр Юрьевич": 2,
-      "Лоор Иван Иванович": 26,
-      "Понарин Петр Петрович": 5,
-      "Терентьев Александр Васильевич": 12,
-      "Фурсенко Иван Витальевич": 8
+      "gas:candidate-vibid:22220001368915": 0,
+      "gas:candidate-vibid:22220001352041": 6,
+      "gas:candidate-vibid:22220001365504": 1,
+      "gas:candidate-vibid:22220001369052": 2,
+      "gas:candidate-vibid:22220001366101": 26,
+      "gas:candidate-vibid:22220001365558": 5,
+      "gas:candidate-vibid:22220001365410": 12,
+      "gas:candidate-vibid:22220001369029": 8
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/altai-terr?action=show&root=1000061&tvd=22220001272385&vrn=100100067795849&region=22&global=&sub_region=22&prver=0&pronetvd=null&vibid=22220001272385&type=464",
@@ -101,14 +101,14 @@ export const duma_2016_uik_463_region_22_part_007 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Богданов Юрий Дмитриевич": 1,
-      "Боровикова Евгения Анатольевна": 6,
-      "Кириллов Владимир Викторович": 0,
-      "Кондров Александр Юрьевич": 0,
-      "Лоор Иван Иванович": 15,
-      "Понарин Петр Петрович": 7,
-      "Терентьев Александр Васильевич": 1,
-      "Фурсенко Иван Витальевич": 3
+      "gas:candidate-vibid:22220001368915": 1,
+      "gas:candidate-vibid:22220001352041": 6,
+      "gas:candidate-vibid:22220001365504": 0,
+      "gas:candidate-vibid:22220001369052": 0,
+      "gas:candidate-vibid:22220001366101": 15,
+      "gas:candidate-vibid:22220001365558": 7,
+      "gas:candidate-vibid:22220001365410": 1,
+      "gas:candidate-vibid:22220001369029": 3
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/altai-terr?action=show&root=1000061&tvd=22220001272385&vrn=100100067795849&region=22&global=&sub_region=22&prver=0&pronetvd=null&vibid=22220001272385&type=464",
@@ -159,14 +159,14 @@ export const duma_2016_uik_463_region_22_part_007 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Богданов Юрий Дмитриевич": 0,
-      "Боровикова Евгения Анатольевна": 6,
-      "Кириллов Владимир Викторович": 1,
-      "Кондров Александр Юрьевич": 1,
-      "Лоор Иван Иванович": 54,
-      "Понарин Петр Петрович": 5,
-      "Терентьев Александр Васильевич": 0,
-      "Фурсенко Иван Витальевич": 0
+      "gas:candidate-vibid:22220001368915": 0,
+      "gas:candidate-vibid:22220001352041": 6,
+      "gas:candidate-vibid:22220001365504": 1,
+      "gas:candidate-vibid:22220001369052": 1,
+      "gas:candidate-vibid:22220001366101": 54,
+      "gas:candidate-vibid:22220001365558": 5,
+      "gas:candidate-vibid:22220001365410": 0,
+      "gas:candidate-vibid:22220001369029": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/altai-terr?action=show&root=1000061&tvd=22220001272385&vrn=100100067795849&region=22&global=&sub_region=22&prver=0&pronetvd=null&vibid=22220001272385&type=464",
@@ -217,14 +217,14 @@ export const duma_2016_uik_463_region_22_part_007 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Богданов Юрий Дмитриевич": 10,
-      "Боровикова Евгения Анатольевна": 27,
-      "Кириллов Владимир Викторович": 8,
-      "Кондров Александр Юрьевич": 3,
-      "Лоор Иван Иванович": 160,
-      "Понарин Петр Петрович": 35,
-      "Терентьев Александр Васильевич": 64,
-      "Фурсенко Иван Витальевич": 16
+      "gas:candidate-vibid:22220001368915": 10,
+      "gas:candidate-vibid:22220001352041": 27,
+      "gas:candidate-vibid:22220001365504": 8,
+      "gas:candidate-vibid:22220001369052": 3,
+      "gas:candidate-vibid:22220001366101": 160,
+      "gas:candidate-vibid:22220001365558": 35,
+      "gas:candidate-vibid:22220001365410": 64,
+      "gas:candidate-vibid:22220001369029": 16
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/altai-terr?action=show&root=1000061&tvd=22220001272385&vrn=100100067795849&region=22&global=&sub_region=22&prver=0&pronetvd=null&vibid=22220001272385&type=464",
@@ -275,14 +275,14 @@ export const duma_2016_uik_463_region_22_part_007 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Богданов Юрий Дмитриевич": 4,
-      "Боровикова Евгения Анатольевна": 21,
-      "Кириллов Владимир Викторович": 3,
-      "Кондров Александр Юрьевич": 4,
-      "Лоор Иван Иванович": 104,
-      "Понарин Петр Петрович": 14,
-      "Терентьев Александр Васильевич": 12,
-      "Фурсенко Иван Витальевич": 7
+      "gas:candidate-vibid:22220001368915": 4,
+      "gas:candidate-vibid:22220001352041": 21,
+      "gas:candidate-vibid:22220001365504": 3,
+      "gas:candidate-vibid:22220001369052": 4,
+      "gas:candidate-vibid:22220001366101": 104,
+      "gas:candidate-vibid:22220001365558": 14,
+      "gas:candidate-vibid:22220001365410": 12,
+      "gas:candidate-vibid:22220001369029": 7
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/altai-terr?action=show&root=1000061&tvd=22220001272385&vrn=100100067795849&region=22&global=&sub_region=22&prver=0&pronetvd=null&vibid=22220001272385&type=464",
@@ -333,14 +333,14 @@ export const duma_2016_uik_463_region_22_part_007 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Богданов Юрий Дмитриевич": 1,
-      "Боровикова Евгения Анатольевна": 30,
-      "Кириллов Владимир Викторович": 3,
-      "Кондров Александр Юрьевич": 6,
-      "Лоор Иван Иванович": 118,
-      "Понарин Петр Петрович": 48,
-      "Терентьев Александр Васильевич": 28,
-      "Фурсенко Иван Витальевич": 9
+      "gas:candidate-vibid:22220001368915": 1,
+      "gas:candidate-vibid:22220001352041": 30,
+      "gas:candidate-vibid:22220001365504": 3,
+      "gas:candidate-vibid:22220001369052": 6,
+      "gas:candidate-vibid:22220001366101": 118,
+      "gas:candidate-vibid:22220001365558": 48,
+      "gas:candidate-vibid:22220001365410": 28,
+      "gas:candidate-vibid:22220001369029": 9
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/altai-terr?action=show&root=1000061&tvd=22220001272386&vrn=100100067795849&region=22&global=&sub_region=22&prver=0&pronetvd=null&vibid=22220001272386&type=464",
@@ -391,14 +391,14 @@ export const duma_2016_uik_463_region_22_part_007 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Богданов Юрий Дмитриевич": 9,
-      "Боровикова Евгения Анатольевна": 12,
-      "Кириллов Владимир Викторович": 2,
-      "Кондров Александр Юрьевич": 1,
-      "Лоор Иван Иванович": 65,
-      "Понарин Петр Петрович": 16,
-      "Терентьев Александр Васильевич": 7,
-      "Фурсенко Иван Витальевич": 5
+      "gas:candidate-vibid:22220001368915": 9,
+      "gas:candidate-vibid:22220001352041": 12,
+      "gas:candidate-vibid:22220001365504": 2,
+      "gas:candidate-vibid:22220001369052": 1,
+      "gas:candidate-vibid:22220001366101": 65,
+      "gas:candidate-vibid:22220001365558": 16,
+      "gas:candidate-vibid:22220001365410": 7,
+      "gas:candidate-vibid:22220001369029": 5
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/altai-terr?action=show&root=1000061&tvd=22220001272386&vrn=100100067795849&region=22&global=&sub_region=22&prver=0&pronetvd=null&vibid=22220001272386&type=464",
@@ -449,14 +449,14 @@ export const duma_2016_uik_463_region_22_part_007 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Богданов Юрий Дмитриевич": 10,
-      "Боровикова Евгения Анатольевна": 103,
-      "Кириллов Владимир Викторович": 5,
-      "Кондров Александр Юрьевич": 3,
-      "Лоор Иван Иванович": 295,
-      "Понарин Петр Петрович": 79,
-      "Терентьев Александр Васильевич": 126,
-      "Фурсенко Иван Витальевич": 24
+      "gas:candidate-vibid:22220001368915": 10,
+      "gas:candidate-vibid:22220001352041": 103,
+      "gas:candidate-vibid:22220001365504": 5,
+      "gas:candidate-vibid:22220001369052": 3,
+      "gas:candidate-vibid:22220001366101": 295,
+      "gas:candidate-vibid:22220001365558": 79,
+      "gas:candidate-vibid:22220001365410": 126,
+      "gas:candidate-vibid:22220001369029": 24
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/altai-terr?action=show&root=1000061&tvd=22220001272386&vrn=100100067795849&region=22&global=&sub_region=22&prver=0&pronetvd=null&vibid=22220001272386&type=464",
@@ -507,14 +507,14 @@ export const duma_2016_uik_463_region_22_part_007 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Богданов Юрий Дмитриевич": 1,
-      "Боровикова Евгения Анатольевна": 7,
-      "Кириллов Владимир Викторович": 0,
-      "Кондров Александр Юрьевич": 1,
-      "Лоор Иван Иванович": 37,
-      "Понарин Петр Петрович": 10,
-      "Терентьев Александр Васильевич": 3,
-      "Фурсенко Иван Витальевич": 2
+      "gas:candidate-vibid:22220001368915": 1,
+      "gas:candidate-vibid:22220001352041": 7,
+      "gas:candidate-vibid:22220001365504": 0,
+      "gas:candidate-vibid:22220001369052": 1,
+      "gas:candidate-vibid:22220001366101": 37,
+      "gas:candidate-vibid:22220001365558": 10,
+      "gas:candidate-vibid:22220001365410": 3,
+      "gas:candidate-vibid:22220001369029": 2
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/altai-terr?action=show&root=1000061&tvd=22220001272386&vrn=100100067795849&region=22&global=&sub_region=22&prver=0&pronetvd=null&vibid=22220001272386&type=464",
@@ -565,14 +565,14 @@ export const duma_2016_uik_463_region_22_part_007 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Богданов Юрий Дмитриевич": 2,
-      "Боровикова Евгения Анатольевна": 34,
-      "Кириллов Владимир Викторович": 2,
-      "Кондров Александр Юрьевич": 6,
-      "Лоор Иван Иванович": 181,
-      "Понарин Петр Петрович": 55,
-      "Терентьев Александр Васильевич": 57,
-      "Фурсенко Иван Витальевич": 13
+      "gas:candidate-vibid:22220001368915": 2,
+      "gas:candidate-vibid:22220001352041": 34,
+      "gas:candidate-vibid:22220001365504": 2,
+      "gas:candidate-vibid:22220001369052": 6,
+      "gas:candidate-vibid:22220001366101": 181,
+      "gas:candidate-vibid:22220001365558": 55,
+      "gas:candidate-vibid:22220001365410": 57,
+      "gas:candidate-vibid:22220001369029": 13
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/altai-terr?action=show&root=1000061&tvd=22220001272386&vrn=100100067795849&region=22&global=&sub_region=22&prver=0&pronetvd=null&vibid=22220001272386&type=464",
@@ -623,14 +623,14 @@ export const duma_2016_uik_463_region_22_part_007 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Богданов Юрий Дмитриевич": 0,
-      "Боровикова Евгения Анатольевна": 2,
-      "Кириллов Владимир Викторович": 0,
-      "Кондров Александр Юрьевич": 0,
-      "Лоор Иван Иванович": 46,
-      "Понарин Петр Петрович": 8,
-      "Терентьев Александр Васильевич": 2,
-      "Фурсенко Иван Витальевич": 1
+      "gas:candidate-vibid:22220001368915": 0,
+      "gas:candidate-vibid:22220001352041": 2,
+      "gas:candidate-vibid:22220001365504": 0,
+      "gas:candidate-vibid:22220001369052": 0,
+      "gas:candidate-vibid:22220001366101": 46,
+      "gas:candidate-vibid:22220001365558": 8,
+      "gas:candidate-vibid:22220001365410": 2,
+      "gas:candidate-vibid:22220001369029": 1
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/altai-terr?action=show&root=1000061&tvd=22220001272386&vrn=100100067795849&region=22&global=&sub_region=22&prver=0&pronetvd=null&vibid=22220001272386&type=464",
@@ -681,14 +681,14 @@ export const duma_2016_uik_463_region_22_part_007 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Богданов Юрий Дмитриевич": 2,
-      "Боровикова Евгения Анатольевна": 10,
-      "Кириллов Владимир Викторович": 0,
-      "Кондров Александр Юрьевич": 0,
-      "Лоор Иван Иванович": 31,
-      "Понарин Петр Петрович": 4,
-      "Терентьев Александр Васильевич": 7,
-      "Фурсенко Иван Витальевич": 0
+      "gas:candidate-vibid:22220001368915": 2,
+      "gas:candidate-vibid:22220001352041": 10,
+      "gas:candidate-vibid:22220001365504": 0,
+      "gas:candidate-vibid:22220001369052": 0,
+      "gas:candidate-vibid:22220001366101": 31,
+      "gas:candidate-vibid:22220001365558": 4,
+      "gas:candidate-vibid:22220001365410": 7,
+      "gas:candidate-vibid:22220001369029": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/altai-terr?action=show&root=1000061&tvd=22220001272386&vrn=100100067795849&region=22&global=&sub_region=22&prver=0&pronetvd=null&vibid=22220001272386&type=464",
@@ -739,14 +739,14 @@ export const duma_2016_uik_463_region_22_part_007 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Богданов Юрий Дмитриевич": 7,
-      "Боровикова Евгения Анатольевна": 67,
-      "Кириллов Владимир Викторович": 4,
-      "Кондров Александр Юрьевич": 10,
-      "Лоор Иван Иванович": 128,
-      "Понарин Петр Петрович": 49,
-      "Терентьев Александр Васильевич": 31,
-      "Фурсенко Иван Витальевич": 18
+      "gas:candidate-vibid:22220001368915": 7,
+      "gas:candidate-vibid:22220001352041": 67,
+      "gas:candidate-vibid:22220001365504": 4,
+      "gas:candidate-vibid:22220001369052": 10,
+      "gas:candidate-vibid:22220001366101": 128,
+      "gas:candidate-vibid:22220001365558": 49,
+      "gas:candidate-vibid:22220001365410": 31,
+      "gas:candidate-vibid:22220001369029": 18
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/altai-terr?action=show&root=1000061&tvd=22220001272387&vrn=100100067795849&region=22&global=&sub_region=22&prver=0&pronetvd=null&vibid=22220001272387&type=464",
@@ -797,14 +797,14 @@ export const duma_2016_uik_463_region_22_part_007 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Богданов Юрий Дмитриевич": 10,
-      "Боровикова Евгения Анатольевна": 76,
-      "Кириллов Владимир Викторович": 9,
-      "Кондров Александр Юрьевич": 7,
-      "Лоор Иван Иванович": 207,
-      "Понарин Петр Петрович": 67,
-      "Терентьев Александр Васильевич": 67,
-      "Фурсенко Иван Витальевич": 21
+      "gas:candidate-vibid:22220001368915": 10,
+      "gas:candidate-vibid:22220001352041": 76,
+      "gas:candidate-vibid:22220001365504": 9,
+      "gas:candidate-vibid:22220001369052": 7,
+      "gas:candidate-vibid:22220001366101": 207,
+      "gas:candidate-vibid:22220001365558": 67,
+      "gas:candidate-vibid:22220001365410": 67,
+      "gas:candidate-vibid:22220001369029": 21
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/altai-terr?action=show&root=1000061&tvd=22220001272387&vrn=100100067795849&region=22&global=&sub_region=22&prver=0&pronetvd=null&vibid=22220001272387&type=464",
@@ -855,14 +855,14 @@ export const duma_2016_uik_463_region_22_part_007 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Богданов Юрий Дмитриевич": 13,
-      "Боровикова Евгения Анатольевна": 104,
-      "Кириллов Владимир Викторович": 6,
-      "Кондров Александр Юрьевич": 11,
-      "Лоор Иван Иванович": 229,
-      "Понарин Петр Петрович": 103,
-      "Терентьев Александр Васильевич": 107,
-      "Фурсенко Иван Витальевич": 10
+      "gas:candidate-vibid:22220001368915": 13,
+      "gas:candidate-vibid:22220001352041": 104,
+      "gas:candidate-vibid:22220001365504": 6,
+      "gas:candidate-vibid:22220001369052": 11,
+      "gas:candidate-vibid:22220001366101": 229,
+      "gas:candidate-vibid:22220001365558": 103,
+      "gas:candidate-vibid:22220001365410": 107,
+      "gas:candidate-vibid:22220001369029": 10
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/altai-terr?action=show&root=1000061&tvd=22220001272387&vrn=100100067795849&region=22&global=&sub_region=22&prver=0&pronetvd=null&vibid=22220001272387&type=464",
@@ -913,14 +913,14 @@ export const duma_2016_uik_463_region_22_part_007 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Богданов Юрий Дмитриевич": 10,
-      "Боровикова Евгения Анатольевна": 83,
-      "Кириллов Владимир Викторович": 11,
-      "Кондров Александр Юрьевич": 13,
-      "Лоор Иван Иванович": 212,
-      "Понарин Петр Петрович": 98,
-      "Терентьев Александр Васильевич": 114,
-      "Фурсенко Иван Витальевич": 20
+      "gas:candidate-vibid:22220001368915": 10,
+      "gas:candidate-vibid:22220001352041": 83,
+      "gas:candidate-vibid:22220001365504": 11,
+      "gas:candidate-vibid:22220001369052": 13,
+      "gas:candidate-vibid:22220001366101": 212,
+      "gas:candidate-vibid:22220001365558": 98,
+      "gas:candidate-vibid:22220001365410": 114,
+      "gas:candidate-vibid:22220001369029": 20
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/altai-terr?action=show&root=1000061&tvd=22220001272387&vrn=100100067795849&region=22&global=&sub_region=22&prver=0&pronetvd=null&vibid=22220001272387&type=464",
@@ -971,14 +971,14 @@ export const duma_2016_uik_463_region_22_part_007 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Богданов Юрий Дмитриевич": 13,
-      "Боровикова Евгения Анатольевна": 104,
-      "Кириллов Владимир Викторович": 12,
-      "Кондров Александр Юрьевич": 15,
-      "Лоор Иван Иванович": 240,
-      "Понарин Петр Петрович": 90,
-      "Терентьев Александр Васильевич": 90,
-      "Фурсенко Иван Витальевич": 28
+      "gas:candidate-vibid:22220001368915": 13,
+      "gas:candidate-vibid:22220001352041": 104,
+      "gas:candidate-vibid:22220001365504": 12,
+      "gas:candidate-vibid:22220001369052": 15,
+      "gas:candidate-vibid:22220001366101": 240,
+      "gas:candidate-vibid:22220001365558": 90,
+      "gas:candidate-vibid:22220001365410": 90,
+      "gas:candidate-vibid:22220001369029": 28
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/altai-terr?action=show&root=1000061&tvd=22220001272387&vrn=100100067795849&region=22&global=&sub_region=22&prver=0&pronetvd=null&vibid=22220001272387&type=464",
@@ -1029,14 +1029,14 @@ export const duma_2016_uik_463_region_22_part_007 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Богданов Юрий Дмитриевич": 4,
-      "Боровикова Евгения Анатольевна": 88,
-      "Кириллов Владимир Викторович": 5,
-      "Кондров Александр Юрьевич": 8,
-      "Лоор Иван Иванович": 145,
-      "Понарин Петр Петрович": 50,
-      "Терентьев Александр Васильевич": 57,
-      "Фурсенко Иван Витальевич": 23
+      "gas:candidate-vibid:22220001368915": 4,
+      "gas:candidate-vibid:22220001352041": 88,
+      "gas:candidate-vibid:22220001365504": 5,
+      "gas:candidate-vibid:22220001369052": 8,
+      "gas:candidate-vibid:22220001366101": 145,
+      "gas:candidate-vibid:22220001365558": 50,
+      "gas:candidate-vibid:22220001365410": 57,
+      "gas:candidate-vibid:22220001369029": 23
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/altai-terr?action=show&root=1000061&tvd=22220001272387&vrn=100100067795849&region=22&global=&sub_region=22&prver=0&pronetvd=null&vibid=22220001272387&type=464",
@@ -1087,14 +1087,14 @@ export const duma_2016_uik_463_region_22_part_007 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Богданов Юрий Дмитриевич": 10,
-      "Боровикова Евгения Анатольевна": 110,
-      "Кириллов Владимир Викторович": 3,
-      "Кондров Александр Юрьевич": 6,
-      "Лоор Иван Иванович": 215,
-      "Понарин Петр Петрович": 60,
-      "Терентьев Александр Васильевич": 67,
-      "Фурсенко Иван Витальевич": 24
+      "gas:candidate-vibid:22220001368915": 10,
+      "gas:candidate-vibid:22220001352041": 110,
+      "gas:candidate-vibid:22220001365504": 3,
+      "gas:candidate-vibid:22220001369052": 6,
+      "gas:candidate-vibid:22220001366101": 215,
+      "gas:candidate-vibid:22220001365558": 60,
+      "gas:candidate-vibid:22220001365410": 67,
+      "gas:candidate-vibid:22220001369029": 24
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/altai-terr?action=show&root=1000061&tvd=22220001272387&vrn=100100067795849&region=22&global=&sub_region=22&prver=0&pronetvd=null&vibid=22220001272387&type=464",
@@ -1145,14 +1145,14 @@ export const duma_2016_uik_463_region_22_part_007 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Богданов Юрий Дмитриевич": 14,
-      "Боровикова Евгения Анатольевна": 107,
-      "Кириллов Владимир Викторович": 11,
-      "Кондров Александр Юрьевич": 18,
-      "Лоор Иван Иванович": 323,
-      "Понарин Петр Петрович": 93,
-      "Терентьев Александр Васильевич": 112,
-      "Фурсенко Иван Витальевич": 20
+      "gas:candidate-vibid:22220001368915": 14,
+      "gas:candidate-vibid:22220001352041": 107,
+      "gas:candidate-vibid:22220001365504": 11,
+      "gas:candidate-vibid:22220001369052": 18,
+      "gas:candidate-vibid:22220001366101": 323,
+      "gas:candidate-vibid:22220001365558": 93,
+      "gas:candidate-vibid:22220001365410": 112,
+      "gas:candidate-vibid:22220001369029": 20
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/altai-terr?action=show&root=1000061&tvd=22220001272387&vrn=100100067795849&region=22&global=&sub_region=22&prver=0&pronetvd=null&vibid=22220001272387&type=464",
@@ -1203,14 +1203,14 @@ export const duma_2016_uik_463_region_22_part_007 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Богданов Юрий Дмитриевич": 9,
-      "Боровикова Евгения Анатольевна": 126,
-      "Кириллов Владимир Викторович": 11,
-      "Кондров Александр Юрьевич": 13,
-      "Лоор Иван Иванович": 209,
-      "Понарин Петр Петрович": 81,
-      "Терентьев Александр Васильевич": 59,
-      "Фурсенко Иван Витальевич": 17
+      "gas:candidate-vibid:22220001368915": 9,
+      "gas:candidate-vibid:22220001352041": 126,
+      "gas:candidate-vibid:22220001365504": 11,
+      "gas:candidate-vibid:22220001369052": 13,
+      "gas:candidate-vibid:22220001366101": 209,
+      "gas:candidate-vibid:22220001365558": 81,
+      "gas:candidate-vibid:22220001365410": 59,
+      "gas:candidate-vibid:22220001369029": 17
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/altai-terr?action=show&root=1000061&tvd=22220001272387&vrn=100100067795849&region=22&global=&sub_region=22&prver=0&pronetvd=null&vibid=22220001272387&type=464",
@@ -1261,14 +1261,14 @@ export const duma_2016_uik_463_region_22_part_007 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Богданов Юрий Дмитриевич": 5,
-      "Боровикова Евгения Анатольевна": 135,
-      "Кириллов Владимир Викторович": 13,
-      "Кондров Александр Юрьевич": 13,
-      "Лоор Иван Иванович": 230,
-      "Понарин Петр Петрович": 83,
-      "Терентьев Александр Васильевич": 71,
-      "Фурсенко Иван Витальевич": 21
+      "gas:candidate-vibid:22220001368915": 5,
+      "gas:candidate-vibid:22220001352041": 135,
+      "gas:candidate-vibid:22220001365504": 13,
+      "gas:candidate-vibid:22220001369052": 13,
+      "gas:candidate-vibid:22220001366101": 230,
+      "gas:candidate-vibid:22220001365558": 83,
+      "gas:candidate-vibid:22220001365410": 71,
+      "gas:candidate-vibid:22220001369029": 21
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/altai-terr?action=show&root=1000061&tvd=22220001272387&vrn=100100067795849&region=22&global=&sub_region=22&prver=0&pronetvd=null&vibid=22220001272387&type=464",
@@ -1319,14 +1319,14 @@ export const duma_2016_uik_463_region_22_part_007 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Богданов Юрий Дмитриевич": 15,
-      "Боровикова Евгения Анатольевна": 100,
-      "Кириллов Владимир Викторович": 2,
-      "Кондров Александр Юрьевич": 6,
-      "Лоор Иван Иванович": 202,
-      "Понарин Петр Петрович": 67,
-      "Терентьев Александр Васильевич": 88,
-      "Фурсенко Иван Витальевич": 22
+      "gas:candidate-vibid:22220001368915": 15,
+      "gas:candidate-vibid:22220001352041": 100,
+      "gas:candidate-vibid:22220001365504": 2,
+      "gas:candidate-vibid:22220001369052": 6,
+      "gas:candidate-vibid:22220001366101": 202,
+      "gas:candidate-vibid:22220001365558": 67,
+      "gas:candidate-vibid:22220001365410": 88,
+      "gas:candidate-vibid:22220001369029": 22
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/altai-terr?action=show&root=1000061&tvd=22220001272387&vrn=100100067795849&region=22&global=&sub_region=22&prver=0&pronetvd=null&vibid=22220001272387&type=464",
@@ -1377,14 +1377,14 @@ export const duma_2016_uik_463_region_22_part_007 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Богданов Юрий Дмитриевич": 11,
-      "Боровикова Евгения Анатольевна": 135,
-      "Кириллов Владимир Викторович": 3,
-      "Кондров Александр Юрьевич": 8,
-      "Лоор Иван Иванович": 216,
-      "Понарин Петр Петрович": 93,
-      "Терентьев Александр Васильевич": 102,
-      "Фурсенко Иван Витальевич": 22
+      "gas:candidate-vibid:22220001368915": 11,
+      "gas:candidate-vibid:22220001352041": 135,
+      "gas:candidate-vibid:22220001365504": 3,
+      "gas:candidate-vibid:22220001369052": 8,
+      "gas:candidate-vibid:22220001366101": 216,
+      "gas:candidate-vibid:22220001365558": 93,
+      "gas:candidate-vibid:22220001365410": 102,
+      "gas:candidate-vibid:22220001369029": 22
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/altai-terr?action=show&root=1000061&tvd=22220001272387&vrn=100100067795849&region=22&global=&sub_region=22&prver=0&pronetvd=null&vibid=22220001272387&type=464",
@@ -1435,14 +1435,14 @@ export const duma_2016_uik_463_region_22_part_007 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Богданов Юрий Дмитриевич": 10,
-      "Боровикова Евгения Анатольевна": 151,
-      "Кириллов Владимир Викторович": 4,
-      "Кондров Александр Юрьевич": 10,
-      "Лоор Иван Иванович": 221,
-      "Понарин Петр Петрович": 75,
-      "Терентьев Александр Васильевич": 124,
-      "Фурсенко Иван Витальевич": 19
+      "gas:candidate-vibid:22220001368915": 10,
+      "gas:candidate-vibid:22220001352041": 151,
+      "gas:candidate-vibid:22220001365504": 4,
+      "gas:candidate-vibid:22220001369052": 10,
+      "gas:candidate-vibid:22220001366101": 221,
+      "gas:candidate-vibid:22220001365558": 75,
+      "gas:candidate-vibid:22220001365410": 124,
+      "gas:candidate-vibid:22220001369029": 19
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/altai-terr?action=show&root=1000061&tvd=22220001272387&vrn=100100067795849&region=22&global=&sub_region=22&prver=0&pronetvd=null&vibid=22220001272387&type=464",
@@ -1493,14 +1493,14 @@ export const duma_2016_uik_463_region_22_part_007 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Богданов Юрий Дмитриевич": 12,
-      "Боровикова Евгения Анатольевна": 83,
-      "Кириллов Владимир Викторович": 10,
-      "Кондров Александр Юрьевич": 10,
-      "Лоор Иван Иванович": 233,
-      "Понарин Петр Петрович": 117,
-      "Терентьев Александр Васильевич": 110,
-      "Фурсенко Иван Витальевич": 18
+      "gas:candidate-vibid:22220001368915": 12,
+      "gas:candidate-vibid:22220001352041": 83,
+      "gas:candidate-vibid:22220001365504": 10,
+      "gas:candidate-vibid:22220001369052": 10,
+      "gas:candidate-vibid:22220001366101": 233,
+      "gas:candidate-vibid:22220001365558": 117,
+      "gas:candidate-vibid:22220001365410": 110,
+      "gas:candidate-vibid:22220001369029": 18
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/altai-terr?action=show&root=1000061&tvd=22220001272387&vrn=100100067795849&region=22&global=&sub_region=22&prver=0&pronetvd=null&vibid=22220001272387&type=464",
@@ -1551,14 +1551,14 @@ export const duma_2016_uik_463_region_22_part_007 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Богданов Юрий Дмитриевич": 11,
-      "Боровикова Евгения Анатольевна": 92,
-      "Кириллов Владимир Викторович": 5,
-      "Кондров Александр Юрьевич": 6,
-      "Лоор Иван Иванович": 203,
-      "Понарин Петр Петрович": 65,
-      "Терентьев Александр Васильевич": 74,
-      "Фурсенко Иван Витальевич": 15
+      "gas:candidate-vibid:22220001368915": 11,
+      "gas:candidate-vibid:22220001352041": 92,
+      "gas:candidate-vibid:22220001365504": 5,
+      "gas:candidate-vibid:22220001369052": 6,
+      "gas:candidate-vibid:22220001366101": 203,
+      "gas:candidate-vibid:22220001365558": 65,
+      "gas:candidate-vibid:22220001365410": 74,
+      "gas:candidate-vibid:22220001369029": 15
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/altai-terr?action=show&root=1000061&tvd=22220001272387&vrn=100100067795849&region=22&global=&sub_region=22&prver=0&pronetvd=null&vibid=22220001272387&type=464",
@@ -1609,14 +1609,14 @@ export const duma_2016_uik_463_region_22_part_007 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Богданов Юрий Дмитриевич": 1,
-      "Боровикова Евгения Анатольевна": 11,
-      "Кириллов Владимир Викторович": 1,
-      "Кондров Александр Юрьевич": 1,
-      "Лоор Иван Иванович": 18,
-      "Понарин Петр Петрович": 6,
-      "Терентьев Александр Васильевич": 4,
-      "Фурсенко Иван Витальевич": 2
+      "gas:candidate-vibid:22220001368915": 1,
+      "gas:candidate-vibid:22220001352041": 11,
+      "gas:candidate-vibid:22220001365504": 1,
+      "gas:candidate-vibid:22220001369052": 1,
+      "gas:candidate-vibid:22220001366101": 18,
+      "gas:candidate-vibid:22220001365558": 6,
+      "gas:candidate-vibid:22220001365410": 4,
+      "gas:candidate-vibid:22220001369029": 2
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/altai-terr?action=show&root=1000061&tvd=22220001272387&vrn=100100067795849&region=22&global=&sub_region=22&prver=0&pronetvd=null&vibid=22220001272387&type=464",
@@ -1667,14 +1667,14 @@ export const duma_2016_uik_463_region_22_part_007 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Богданов Юрий Дмитриевич": 3,
-      "Боровикова Евгения Анатольевна": 66,
-      "Кириллов Владимир Викторович": 4,
-      "Кондров Александр Юрьевич": 0,
-      "Лоор Иван Иванович": 98,
-      "Понарин Петр Петрович": 20,
-      "Терентьев Александр Васильевич": 42,
-      "Фурсенко Иван Витальевич": 5
+      "gas:candidate-vibid:22220001368915": 3,
+      "gas:candidate-vibid:22220001352041": 66,
+      "gas:candidate-vibid:22220001365504": 4,
+      "gas:candidate-vibid:22220001369052": 0,
+      "gas:candidate-vibid:22220001366101": 98,
+      "gas:candidate-vibid:22220001365558": 20,
+      "gas:candidate-vibid:22220001365410": 42,
+      "gas:candidate-vibid:22220001369029": 5
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/altai-terr?action=show&root=1000061&tvd=22220001272387&vrn=100100067795849&region=22&global=&sub_region=22&prver=0&pronetvd=null&vibid=22220001272387&type=464",
@@ -1725,14 +1725,14 @@ export const duma_2016_uik_463_region_22_part_007 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Богданов Юрий Дмитриевич": 8,
-      "Боровикова Евгения Анатольевна": 58,
-      "Кириллов Владимир Викторович": 5,
-      "Кондров Александр Юрьевич": 7,
-      "Лоор Иван Иванович": 260,
-      "Понарин Петр Петрович": 68,
-      "Терентьев Александр Васильевич": 52,
-      "Фурсенко Иван Витальевич": 16
+      "gas:candidate-vibid:22220001368915": 8,
+      "gas:candidate-vibid:22220001352041": 58,
+      "gas:candidate-vibid:22220001365504": 5,
+      "gas:candidate-vibid:22220001369052": 7,
+      "gas:candidate-vibid:22220001366101": 260,
+      "gas:candidate-vibid:22220001365558": 68,
+      "gas:candidate-vibid:22220001365410": 52,
+      "gas:candidate-vibid:22220001369029": 16
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/altai-terr?action=show&root=1000061&tvd=22220001272387&vrn=100100067795849&region=22&global=&sub_region=22&prver=0&pronetvd=null&vibid=22220001272387&type=464",
@@ -1783,14 +1783,14 @@ export const duma_2016_uik_463_region_22_part_007 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Богданов Юрий Дмитриевич": 2,
-      "Боровикова Евгения Анатольевна": 7,
-      "Кириллов Владимир Викторович": 2,
-      "Кондров Александр Юрьевич": 0,
-      "Лоор Иван Иванович": 36,
-      "Понарин Петр Петрович": 22,
-      "Терентьев Александр Васильевич": 1,
-      "Фурсенко Иван Витальевич": 5
+      "gas:candidate-vibid:22220001368915": 2,
+      "gas:candidate-vibid:22220001352041": 7,
+      "gas:candidate-vibid:22220001365504": 2,
+      "gas:candidate-vibid:22220001369052": 0,
+      "gas:candidate-vibid:22220001366101": 36,
+      "gas:candidate-vibid:22220001365558": 22,
+      "gas:candidate-vibid:22220001365410": 1,
+      "gas:candidate-vibid:22220001369029": 5
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/altai-terr?action=show&root=1000061&tvd=22220001272387&vrn=100100067795849&region=22&global=&sub_region=22&prver=0&pronetvd=null&vibid=22220001272387&type=464",
@@ -1841,14 +1841,14 @@ export const duma_2016_uik_463_region_22_part_007 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Богданов Юрий Дмитриевич": 5,
-      "Боровикова Евгения Анатольевна": 21,
-      "Кириллов Владимир Викторович": 0,
-      "Кондров Александр Юрьевич": 6,
-      "Лоор Иван Иванович": 69,
-      "Понарин Петр Петрович": 24,
-      "Терентьев Александр Васильевич": 14,
-      "Фурсенко Иван Витальевич": 3
+      "gas:candidate-vibid:22220001368915": 5,
+      "gas:candidate-vibid:22220001352041": 21,
+      "gas:candidate-vibid:22220001365504": 0,
+      "gas:candidate-vibid:22220001369052": 6,
+      "gas:candidate-vibid:22220001366101": 69,
+      "gas:candidate-vibid:22220001365558": 24,
+      "gas:candidate-vibid:22220001365410": 14,
+      "gas:candidate-vibid:22220001369029": 3
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/altai-terr?action=show&root=1000061&tvd=22220001272387&vrn=100100067795849&region=22&global=&sub_region=22&prver=0&pronetvd=null&vibid=22220001272387&type=464",
@@ -1899,14 +1899,14 @@ export const duma_2016_uik_463_region_22_part_007 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Богданов Юрий Дмитриевич": 6,
-      "Боровикова Евгения Анатольевна": 59,
-      "Кириллов Владимир Викторович": 4,
-      "Кондров Александр Юрьевич": 4,
-      "Лоор Иван Иванович": 161,
-      "Понарин Петр Петрович": 47,
-      "Терентьев Александр Васильевич": 45,
-      "Фурсенко Иван Витальевич": 15
+      "gas:candidate-vibid:22220001368915": 6,
+      "gas:candidate-vibid:22220001352041": 59,
+      "gas:candidate-vibid:22220001365504": 4,
+      "gas:candidate-vibid:22220001369052": 4,
+      "gas:candidate-vibid:22220001366101": 161,
+      "gas:candidate-vibid:22220001365558": 47,
+      "gas:candidate-vibid:22220001365410": 45,
+      "gas:candidate-vibid:22220001369029": 15
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/altai-terr?action=show&root=1000061&tvd=22220001272387&vrn=100100067795849&region=22&global=&sub_region=22&prver=0&pronetvd=null&vibid=22220001272387&type=464",
@@ -1957,14 +1957,14 @@ export const duma_2016_uik_463_region_22_part_007 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Богданов Юрий Дмитриевич": 8,
-      "Боровикова Евгения Анатольевна": 32,
-      "Кириллов Владимир Викторович": 0,
-      "Кондров Александр Юрьевич": 10,
-      "Лоор Иван Иванович": 143,
-      "Понарин Петр Петрович": 25,
-      "Терентьев Александр Васильевич": 15,
-      "Фурсенко Иван Витальевич": 9
+      "gas:candidate-vibid:22220001368915": 8,
+      "gas:candidate-vibid:22220001352041": 32,
+      "gas:candidate-vibid:22220001365504": 0,
+      "gas:candidate-vibid:22220001369052": 10,
+      "gas:candidate-vibid:22220001366101": 143,
+      "gas:candidate-vibid:22220001365558": 25,
+      "gas:candidate-vibid:22220001365410": 15,
+      "gas:candidate-vibid:22220001369029": 9
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/altai-terr?action=show&root=1000061&tvd=22220001272387&vrn=100100067795849&region=22&global=&sub_region=22&prver=0&pronetvd=null&vibid=22220001272387&type=464",
@@ -2015,14 +2015,14 @@ export const duma_2016_uik_463_region_22_part_007 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Богданов Юрий Дмитриевич": 4,
-      "Боровикова Евгения Анатольевна": 20,
-      "Кириллов Владимир Викторович": 5,
-      "Кондров Александр Юрьевич": 3,
-      "Лоор Иван Иванович": 89,
-      "Понарин Петр Петрович": 23,
-      "Терентьев Александр Васильевич": 15,
-      "Фурсенко Иван Витальевич": 4
+      "gas:candidate-vibid:22220001368915": 4,
+      "gas:candidate-vibid:22220001352041": 20,
+      "gas:candidate-vibid:22220001365504": 5,
+      "gas:candidate-vibid:22220001369052": 3,
+      "gas:candidate-vibid:22220001366101": 89,
+      "gas:candidate-vibid:22220001365558": 23,
+      "gas:candidate-vibid:22220001365410": 15,
+      "gas:candidate-vibid:22220001369029": 4
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/altai-terr?action=show&root=1000061&tvd=22220001272387&vrn=100100067795849&region=22&global=&sub_region=22&prver=0&pronetvd=null&vibid=22220001272387&type=464",
@@ -2073,14 +2073,14 @@ export const duma_2016_uik_463_region_22_part_007 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Богданов Юрий Дмитриевич": 10,
-      "Боровикова Евгения Анатольевна": 56,
-      "Кириллов Владимир Викторович": 8,
-      "Кондров Александр Юрьевич": 7,
-      "Лоор Иван Иванович": 164,
-      "Понарин Петр Петрович": 44,
-      "Терентьев Александр Васильевич": 82,
-      "Фурсенко Иван Витальевич": 9
+      "gas:candidate-vibid:22220001368915": 10,
+      "gas:candidate-vibid:22220001352041": 56,
+      "gas:candidate-vibid:22220001365504": 8,
+      "gas:candidate-vibid:22220001369052": 7,
+      "gas:candidate-vibid:22220001366101": 164,
+      "gas:candidate-vibid:22220001365558": 44,
+      "gas:candidate-vibid:22220001365410": 82,
+      "gas:candidate-vibid:22220001369029": 9
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/altai-terr?action=show&root=1000061&tvd=22220001272387&vrn=100100067795849&region=22&global=&sub_region=22&prver=0&pronetvd=null&vibid=22220001272387&type=464",
@@ -2131,14 +2131,14 @@ export const duma_2016_uik_463_region_22_part_007 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Богданов Юрий Дмитриевич": 3,
-      "Боровикова Евгения Анатольевна": 8,
-      "Кириллов Владимир Викторович": 2,
-      "Кондров Александр Юрьевич": 0,
-      "Лоор Иван Иванович": 19,
-      "Понарин Петр Петрович": 7,
-      "Терентьев Александр Васильевич": 10,
-      "Фурсенко Иван Витальевич": 1
+      "gas:candidate-vibid:22220001368915": 3,
+      "gas:candidate-vibid:22220001352041": 8,
+      "gas:candidate-vibid:22220001365504": 2,
+      "gas:candidate-vibid:22220001369052": 0,
+      "gas:candidate-vibid:22220001366101": 19,
+      "gas:candidate-vibid:22220001365558": 7,
+      "gas:candidate-vibid:22220001365410": 10,
+      "gas:candidate-vibid:22220001369029": 1
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/altai-terr?action=show&root=1000061&tvd=22220001272387&vrn=100100067795849&region=22&global=&sub_region=22&prver=0&pronetvd=null&vibid=22220001272387&type=464",
@@ -2189,14 +2189,14 @@ export const duma_2016_uik_463_region_22_part_007 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Богданов Юрий Дмитриевич": 7,
-      "Боровикова Евгения Анатольевна": 25,
-      "Кириллов Владимир Викторович": 3,
-      "Кондров Александр Юрьевич": 1,
-      "Лоор Иван Иванович": 219,
-      "Понарин Петр Петрович": 50,
-      "Терентьев Александр Васильевич": 37,
-      "Фурсенко Иван Витальевич": 9
+      "gas:candidate-vibid:22220001368915": 7,
+      "gas:candidate-vibid:22220001352041": 25,
+      "gas:candidate-vibid:22220001365504": 3,
+      "gas:candidate-vibid:22220001369052": 1,
+      "gas:candidate-vibid:22220001366101": 219,
+      "gas:candidate-vibid:22220001365558": 50,
+      "gas:candidate-vibid:22220001365410": 37,
+      "gas:candidate-vibid:22220001369029": 9
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/altai-terr?action=show&root=1000061&tvd=22220001272387&vrn=100100067795849&region=22&global=&sub_region=22&prver=0&pronetvd=null&vibid=22220001272387&type=464",
@@ -2247,14 +2247,14 @@ export const duma_2016_uik_463_region_22_part_007 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Богданов Юрий Дмитриевич": 10,
-      "Боровикова Евгения Анатольевна": 98,
-      "Кириллов Владимир Викторович": 9,
-      "Кондров Александр Юрьевич": 11,
-      "Лоор Иван Иванович": 274,
-      "Понарин Петр Петрович": 70,
-      "Терентьев Александр Васильевич": 42,
-      "Фурсенко Иван Витальевич": 14
+      "gas:candidate-vibid:22220001368915": 10,
+      "gas:candidate-vibid:22220001352041": 98,
+      "gas:candidate-vibid:22220001365504": 9,
+      "gas:candidate-vibid:22220001369052": 11,
+      "gas:candidate-vibid:22220001366101": 274,
+      "gas:candidate-vibid:22220001365558": 70,
+      "gas:candidate-vibid:22220001365410": 42,
+      "gas:candidate-vibid:22220001369029": 14
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/altai-terr?action=show&root=1000061&tvd=22220001272387&vrn=100100067795849&region=22&global=&sub_region=22&prver=0&pronetvd=null&vibid=22220001272387&type=464",
@@ -2305,14 +2305,14 @@ export const duma_2016_uik_463_region_22_part_007 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Богданов Юрий Дмитриевич": 3,
-      "Боровикова Евгения Анатольевна": 13,
-      "Кириллов Владимир Викторович": 4,
-      "Кондров Александр Юрьевич": 2,
-      "Лоор Иван Иванович": 70,
-      "Понарин Петр Петрович": 18,
-      "Терентьев Александр Васильевич": 8,
-      "Фурсенко Иван Витальевич": 1
+      "gas:candidate-vibid:22220001368915": 3,
+      "gas:candidate-vibid:22220001352041": 13,
+      "gas:candidate-vibid:22220001365504": 4,
+      "gas:candidate-vibid:22220001369052": 2,
+      "gas:candidate-vibid:22220001366101": 70,
+      "gas:candidate-vibid:22220001365558": 18,
+      "gas:candidate-vibid:22220001365410": 8,
+      "gas:candidate-vibid:22220001369029": 1
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/altai-terr?action=show&root=1000061&tvd=22220001272387&vrn=100100067795849&region=22&global=&sub_region=22&prver=0&pronetvd=null&vibid=22220001272387&type=464",
@@ -2363,14 +2363,14 @@ export const duma_2016_uik_463_region_22_part_007 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Богданов Юрий Дмитриевич": 7,
-      "Боровикова Евгения Анатольевна": 100,
-      "Кириллов Владимир Викторович": 4,
-      "Кондров Александр Юрьевич": 3,
-      "Лоор Иван Иванович": 197,
-      "Понарин Петр Петрович": 59,
-      "Терентьев Александр Васильевич": 49,
-      "Фурсенко Иван Витальевич": 13
+      "gas:candidate-vibid:22220001368915": 7,
+      "gas:candidate-vibid:22220001352041": 100,
+      "gas:candidate-vibid:22220001365504": 4,
+      "gas:candidate-vibid:22220001369052": 3,
+      "gas:candidate-vibid:22220001366101": 197,
+      "gas:candidate-vibid:22220001365558": 59,
+      "gas:candidate-vibid:22220001365410": 49,
+      "gas:candidate-vibid:22220001369029": 13
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/altai-terr?action=show&root=1000061&tvd=22220001272387&vrn=100100067795849&region=22&global=&sub_region=22&prver=0&pronetvd=null&vibid=22220001272387&type=464",
@@ -2421,14 +2421,14 @@ export const duma_2016_uik_463_region_22_part_007 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Богданов Юрий Дмитриевич": 4,
-      "Боровикова Евгения Анатольевна": 13,
-      "Кириллов Владимир Викторович": 2,
-      "Кондров Александр Юрьевич": 3,
-      "Лоор Иван Иванович": 133,
-      "Понарин Петр Петрович": 15,
-      "Терентьев Александр Васильевич": 45,
-      "Фурсенко Иван Витальевич": 5
+      "gas:candidate-vibid:22220001368915": 4,
+      "gas:candidate-vibid:22220001352041": 13,
+      "gas:candidate-vibid:22220001365504": 2,
+      "gas:candidate-vibid:22220001369052": 3,
+      "gas:candidate-vibid:22220001366101": 133,
+      "gas:candidate-vibid:22220001365558": 15,
+      "gas:candidate-vibid:22220001365410": 45,
+      "gas:candidate-vibid:22220001369029": 5
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/altai-terr?action=show&root=1000061&tvd=22220001272388&vrn=100100067795849&region=22&global=&sub_region=22&prver=0&pronetvd=null&vibid=22220001272388&type=464",
@@ -2479,14 +2479,14 @@ export const duma_2016_uik_463_region_22_part_007 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Богданов Юрий Дмитриевич": 3,
-      "Боровикова Евгения Анатольевна": 17,
-      "Кириллов Владимир Викторович": 2,
-      "Кондров Александр Юрьевич": 3,
-      "Лоор Иван Иванович": 112,
-      "Понарин Петр Петрович": 37,
-      "Терентьев Александр Васильевич": 14,
-      "Фурсенко Иван Витальевич": 9
+      "gas:candidate-vibid:22220001368915": 3,
+      "gas:candidate-vibid:22220001352041": 17,
+      "gas:candidate-vibid:22220001365504": 2,
+      "gas:candidate-vibid:22220001369052": 3,
+      "gas:candidate-vibid:22220001366101": 112,
+      "gas:candidate-vibid:22220001365558": 37,
+      "gas:candidate-vibid:22220001365410": 14,
+      "gas:candidate-vibid:22220001369029": 9
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/altai-terr?action=show&root=1000061&tvd=22220001272388&vrn=100100067795849&region=22&global=&sub_region=22&prver=0&pronetvd=null&vibid=22220001272388&type=464",
@@ -2537,14 +2537,14 @@ export const duma_2016_uik_463_region_22_part_007 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Богданов Юрий Дмитриевич": 1,
-      "Боровикова Евгения Анатольевна": 7,
-      "Кириллов Владимир Викторович": 2,
-      "Кондров Александр Юрьевич": 3,
-      "Лоор Иван Иванович": 41,
-      "Понарин Петр Петрович": 16,
-      "Терентьев Александр Васильевич": 8,
-      "Фурсенко Иван Витальевич": 4
+      "gas:candidate-vibid:22220001368915": 1,
+      "gas:candidate-vibid:22220001352041": 7,
+      "gas:candidate-vibid:22220001365504": 2,
+      "gas:candidate-vibid:22220001369052": 3,
+      "gas:candidate-vibid:22220001366101": 41,
+      "gas:candidate-vibid:22220001365558": 16,
+      "gas:candidate-vibid:22220001365410": 8,
+      "gas:candidate-vibid:22220001369029": 4
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/altai-terr?action=show&root=1000061&tvd=22220001272388&vrn=100100067795849&region=22&global=&sub_region=22&prver=0&pronetvd=null&vibid=22220001272388&type=464",
@@ -2595,14 +2595,14 @@ export const duma_2016_uik_463_region_22_part_007 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Богданов Юрий Дмитриевич": 4,
-      "Боровикова Евгения Анатольевна": 20,
-      "Кириллов Владимир Викторович": 4,
-      "Кондров Александр Юрьевич": 5,
-      "Лоор Иван Иванович": 326,
-      "Понарин Петр Петрович": 43,
-      "Терентьев Александр Васильевич": 38,
-      "Фурсенко Иван Витальевич": 10
+      "gas:candidate-vibid:22220001368915": 4,
+      "gas:candidate-vibid:22220001352041": 20,
+      "gas:candidate-vibid:22220001365504": 4,
+      "gas:candidate-vibid:22220001369052": 5,
+      "gas:candidate-vibid:22220001366101": 326,
+      "gas:candidate-vibid:22220001365558": 43,
+      "gas:candidate-vibid:22220001365410": 38,
+      "gas:candidate-vibid:22220001369029": 10
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/altai-terr?action=show&root=1000061&tvd=22220001272388&vrn=100100067795849&region=22&global=&sub_region=22&prver=0&pronetvd=null&vibid=22220001272388&type=464",
@@ -2653,14 +2653,14 @@ export const duma_2016_uik_463_region_22_part_007 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Богданов Юрий Дмитриевич": 10,
-      "Боровикова Евгения Анатольевна": 93,
-      "Кириллов Владимир Викторович": 9,
-      "Кондров Александр Юрьевич": 15,
-      "Лоор Иван Иванович": 300,
-      "Понарин Петр Петрович": 81,
-      "Терентьев Александр Васильевич": 77,
-      "Фурсенко Иван Витальевич": 18
+      "gas:candidate-vibid:22220001368915": 10,
+      "gas:candidate-vibid:22220001352041": 93,
+      "gas:candidate-vibid:22220001365504": 9,
+      "gas:candidate-vibid:22220001369052": 15,
+      "gas:candidate-vibid:22220001366101": 300,
+      "gas:candidate-vibid:22220001365558": 81,
+      "gas:candidate-vibid:22220001365410": 77,
+      "gas:candidate-vibid:22220001369029": 18
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/altai-terr?action=show&root=1000061&tvd=22220001272388&vrn=100100067795849&region=22&global=&sub_region=22&prver=0&pronetvd=null&vibid=22220001272388&type=464",
@@ -2711,14 +2711,14 @@ export const duma_2016_uik_463_region_22_part_007 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Богданов Юрий Дмитриевич": 3,
-      "Боровикова Евгения Анатольевна": 11,
-      "Кириллов Владимир Викторович": 2,
-      "Кондров Александр Юрьевич": 3,
-      "Лоор Иван Иванович": 99,
-      "Понарин Петр Петрович": 16,
-      "Терентьев Александр Васильевич": 23,
-      "Фурсенко Иван Витальевич": 3
+      "gas:candidate-vibid:22220001368915": 3,
+      "gas:candidate-vibid:22220001352041": 11,
+      "gas:candidate-vibid:22220001365504": 2,
+      "gas:candidate-vibid:22220001369052": 3,
+      "gas:candidate-vibid:22220001366101": 99,
+      "gas:candidate-vibid:22220001365558": 16,
+      "gas:candidate-vibid:22220001365410": 23,
+      "gas:candidate-vibid:22220001369029": 3
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/altai-terr?action=show&root=1000061&tvd=22220001272388&vrn=100100067795849&region=22&global=&sub_region=22&prver=0&pronetvd=null&vibid=22220001272388&type=464",
@@ -2769,14 +2769,14 @@ export const duma_2016_uik_463_region_22_part_007 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Богданов Юрий Дмитриевич": 6,
-      "Боровикова Евгения Анатольевна": 27,
-      "Кириллов Владимир Викторович": 1,
-      "Кондров Александр Юрьевич": 5,
-      "Лоор Иван Иванович": 241,
-      "Понарин Петр Петрович": 28,
-      "Терентьев Александр Васильевич": 52,
-      "Фурсенко Иван Витальевич": 10
+      "gas:candidate-vibid:22220001368915": 6,
+      "gas:candidate-vibid:22220001352041": 27,
+      "gas:candidate-vibid:22220001365504": 1,
+      "gas:candidate-vibid:22220001369052": 5,
+      "gas:candidate-vibid:22220001366101": 241,
+      "gas:candidate-vibid:22220001365558": 28,
+      "gas:candidate-vibid:22220001365410": 52,
+      "gas:candidate-vibid:22220001369029": 10
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/altai-terr?action=show&root=1000061&tvd=22220001272388&vrn=100100067795849&region=22&global=&sub_region=22&prver=0&pronetvd=null&vibid=22220001272388&type=464",
@@ -2827,14 +2827,14 @@ export const duma_2016_uik_463_region_22_part_007 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Богданов Юрий Дмитриевич": 0,
-      "Боровикова Евгения Анатольевна": 1,
-      "Кириллов Владимир Викторович": 1,
-      "Кондров Александр Юрьевич": 2,
-      "Лоор Иван Иванович": 46,
-      "Понарин Петр Петрович": 18,
-      "Терентьев Александр Васильевич": 5,
-      "Фурсенко Иван Витальевич": 3
+      "gas:candidate-vibid:22220001368915": 0,
+      "gas:candidate-vibid:22220001352041": 1,
+      "gas:candidate-vibid:22220001365504": 1,
+      "gas:candidate-vibid:22220001369052": 2,
+      "gas:candidate-vibid:22220001366101": 46,
+      "gas:candidate-vibid:22220001365558": 18,
+      "gas:candidate-vibid:22220001365410": 5,
+      "gas:candidate-vibid:22220001369029": 3
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/altai-terr?action=show&root=1000061&tvd=22220001272388&vrn=100100067795849&region=22&global=&sub_region=22&prver=0&pronetvd=null&vibid=22220001272388&type=464",
@@ -2885,14 +2885,14 @@ export const duma_2016_uik_463_region_22_part_007 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Богданов Юрий Дмитриевич": 3,
-      "Боровикова Евгения Анатольевна": 37,
-      "Кириллов Владимир Викторович": 5,
-      "Кондров Александр Юрьевич": 2,
-      "Лоор Иван Иванович": 194,
-      "Понарин Петр Петрович": 22,
-      "Терентьев Александр Васильевич": 52,
-      "Фурсенко Иван Витальевич": 6
+      "gas:candidate-vibid:22220001368915": 3,
+      "gas:candidate-vibid:22220001352041": 37,
+      "gas:candidate-vibid:22220001365504": 5,
+      "gas:candidate-vibid:22220001369052": 2,
+      "gas:candidate-vibid:22220001366101": 194,
+      "gas:candidate-vibid:22220001365558": 22,
+      "gas:candidate-vibid:22220001365410": 52,
+      "gas:candidate-vibid:22220001369029": 6
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/altai-terr?action=show&root=1000061&tvd=22220001272388&vrn=100100067795849&region=22&global=&sub_region=22&prver=0&pronetvd=null&vibid=22220001272388&type=464",
@@ -2943,14 +2943,14 @@ export const duma_2016_uik_463_region_22_part_007 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Богданов Юрий Дмитриевич": 2,
-      "Боровикова Евгения Анатольевна": 15,
-      "Кириллов Владимир Викторович": 0,
-      "Кондров Александр Юрьевич": 4,
-      "Лоор Иван Иванович": 72,
-      "Понарин Петр Петрович": 7,
-      "Терентьев Александр Васильевич": 19,
-      "Фурсенко Иван Витальевич": 6
+      "gas:candidate-vibid:22220001368915": 2,
+      "gas:candidate-vibid:22220001352041": 15,
+      "gas:candidate-vibid:22220001365504": 0,
+      "gas:candidate-vibid:22220001369052": 4,
+      "gas:candidate-vibid:22220001366101": 72,
+      "gas:candidate-vibid:22220001365558": 7,
+      "gas:candidate-vibid:22220001365410": 19,
+      "gas:candidate-vibid:22220001369029": 6
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/altai-terr?action=show&root=1000061&tvd=22220001272388&vrn=100100067795849&region=22&global=&sub_region=22&prver=0&pronetvd=null&vibid=22220001272388&type=464",
@@ -3001,14 +3001,14 @@ export const duma_2016_uik_463_region_22_part_007 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Богданов Юрий Дмитриевич": 1,
-      "Боровикова Евгения Анатольевна": 5,
-      "Кириллов Владимир Викторович": 0,
-      "Кондров Александр Юрьевич": 0,
-      "Лоор Иван Иванович": 34,
-      "Понарин Петр Петрович": 2,
-      "Терентьев Александр Васильевич": 9,
-      "Фурсенко Иван Витальевич": 1
+      "gas:candidate-vibid:22220001368915": 1,
+      "gas:candidate-vibid:22220001352041": 5,
+      "gas:candidate-vibid:22220001365504": 0,
+      "gas:candidate-vibid:22220001369052": 0,
+      "gas:candidate-vibid:22220001366101": 34,
+      "gas:candidate-vibid:22220001365558": 2,
+      "gas:candidate-vibid:22220001365410": 9,
+      "gas:candidate-vibid:22220001369029": 1
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/altai-terr?action=show&root=1000061&tvd=22220001272388&vrn=100100067795849&region=22&global=&sub_region=22&prver=0&pronetvd=null&vibid=22220001272388&type=464",
@@ -3059,14 +3059,14 @@ export const duma_2016_uik_463_region_22_part_007 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Богданов Юрий Дмитриевич": 9,
-      "Боровикова Евгения Анатольевна": 87,
-      "Кириллов Владимир Викторович": 5,
-      "Кондров Александр Юрьевич": 7,
-      "Лоор Иван Иванович": 385,
-      "Понарин Петр Петрович": 50,
-      "Терентьев Александр Васильевич": 193,
-      "Фурсенко Иван Витальевич": 18
+      "gas:candidate-vibid:22220001368915": 9,
+      "gas:candidate-vibid:22220001352041": 87,
+      "gas:candidate-vibid:22220001365504": 5,
+      "gas:candidate-vibid:22220001369052": 7,
+      "gas:candidate-vibid:22220001366101": 385,
+      "gas:candidate-vibid:22220001365558": 50,
+      "gas:candidate-vibid:22220001365410": 193,
+      "gas:candidate-vibid:22220001369029": 18
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/altai-terr?action=show&root=1000061&tvd=22220001272388&vrn=100100067795849&region=22&global=&sub_region=22&prver=0&pronetvd=null&vibid=22220001272388&type=464",
@@ -3117,14 +3117,14 @@ export const duma_2016_uik_463_region_22_part_007 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Богданов Юрий Дмитриевич": 9,
-      "Боровикова Евгения Анатольевна": 88,
-      "Кириллов Владимир Викторович": 8,
-      "Кондров Александр Юрьевич": 7,
-      "Лоор Иван Иванович": 395,
-      "Понарин Петр Петрович": 69,
-      "Терентьев Александр Васильевич": 222,
-      "Фурсенко Иван Витальевич": 22
+      "gas:candidate-vibid:22220001368915": 9,
+      "gas:candidate-vibid:22220001352041": 88,
+      "gas:candidate-vibid:22220001365504": 8,
+      "gas:candidate-vibid:22220001369052": 7,
+      "gas:candidate-vibid:22220001366101": 395,
+      "gas:candidate-vibid:22220001365558": 69,
+      "gas:candidate-vibid:22220001365410": 222,
+      "gas:candidate-vibid:22220001369029": 22
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/altai-terr?action=show&root=1000061&tvd=22220001272388&vrn=100100067795849&region=22&global=&sub_region=22&prver=0&pronetvd=null&vibid=22220001272388&type=464",
@@ -3175,14 +3175,14 @@ export const duma_2016_uik_463_region_22_part_007 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Богданов Юрий Дмитриевич": 12,
-      "Боровикова Евгения Анатольевна": 114,
-      "Кириллов Владимир Викторович": 7,
-      "Кондров Александр Юрьевич": 4,
-      "Лоор Иван Иванович": 392,
-      "Понарин Петр Петрович": 43,
-      "Терентьев Александр Васильевич": 188,
-      "Фурсенко Иван Витальевич": 16
+      "gas:candidate-vibid:22220001368915": 12,
+      "gas:candidate-vibid:22220001352041": 114,
+      "gas:candidate-vibid:22220001365504": 7,
+      "gas:candidate-vibid:22220001369052": 4,
+      "gas:candidate-vibid:22220001366101": 392,
+      "gas:candidate-vibid:22220001365558": 43,
+      "gas:candidate-vibid:22220001365410": 188,
+      "gas:candidate-vibid:22220001369029": 16
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/altai-terr?action=show&root=1000061&tvd=22220001272388&vrn=100100067795849&region=22&global=&sub_region=22&prver=0&pronetvd=null&vibid=22220001272388&type=464",
@@ -3233,14 +3233,14 @@ export const duma_2016_uik_463_region_22_part_007 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Богданов Юрий Дмитриевич": 13,
-      "Боровикова Евгения Анатольевна": 84,
-      "Кириллов Владимир Викторович": 7,
-      "Кондров Александр Юрьевич": 13,
-      "Лоор Иван Иванович": 369,
-      "Понарин Петр Петрович": 69,
-      "Терентьев Александр Васильевич": 234,
-      "Фурсенко Иван Витальевич": 23
+      "gas:candidate-vibid:22220001368915": 13,
+      "gas:candidate-vibid:22220001352041": 84,
+      "gas:candidate-vibid:22220001365504": 7,
+      "gas:candidate-vibid:22220001369052": 13,
+      "gas:candidate-vibid:22220001366101": 369,
+      "gas:candidate-vibid:22220001365558": 69,
+      "gas:candidate-vibid:22220001365410": 234,
+      "gas:candidate-vibid:22220001369029": 23
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/altai-terr?action=show&root=1000061&tvd=22220001272388&vrn=100100067795849&region=22&global=&sub_region=22&prver=0&pronetvd=null&vibid=22220001272388&type=464",
@@ -3291,14 +3291,14 @@ export const duma_2016_uik_463_region_22_part_007 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Богданов Юрий Дмитриевич": 7,
-      "Боровикова Евгения Анатольевна": 30,
-      "Кириллов Владимир Викторович": 3,
-      "Кондров Александр Юрьевич": 3,
-      "Лоор Иван Иванович": 191,
-      "Понарин Петр Петрович": 38,
-      "Терентьев Александр Васильевич": 60,
-      "Фурсенко Иван Витальевич": 11
+      "gas:candidate-vibid:22220001368915": 7,
+      "gas:candidate-vibid:22220001352041": 30,
+      "gas:candidate-vibid:22220001365504": 3,
+      "gas:candidate-vibid:22220001369052": 3,
+      "gas:candidate-vibid:22220001366101": 191,
+      "gas:candidate-vibid:22220001365558": 38,
+      "gas:candidate-vibid:22220001365410": 60,
+      "gas:candidate-vibid:22220001369029": 11
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/altai-terr?action=show&root=1000061&tvd=22220001272388&vrn=100100067795849&region=22&global=&sub_region=22&prver=0&pronetvd=null&vibid=22220001272388&type=464",
@@ -3349,14 +3349,14 @@ export const duma_2016_uik_463_region_22_part_007 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Богданов Юрий Дмитриевич": 7,
-      "Боровикова Евгения Анатольевна": 83,
-      "Кириллов Владимир Викторович": 6,
-      "Кондров Александр Юрьевич": 6,
-      "Лоор Иван Иванович": 253,
-      "Понарин Петр Петрович": 81,
-      "Терентьев Александр Васильевич": 85,
-      "Фурсенко Иван Витальевич": 18
+      "gas:candidate-vibid:22220001368915": 7,
+      "gas:candidate-vibid:22220001352041": 83,
+      "gas:candidate-vibid:22220001365504": 6,
+      "gas:candidate-vibid:22220001369052": 6,
+      "gas:candidate-vibid:22220001366101": 253,
+      "gas:candidate-vibid:22220001365558": 81,
+      "gas:candidate-vibid:22220001365410": 85,
+      "gas:candidate-vibid:22220001369029": 18
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/altai-terr?action=show&root=1000061&tvd=22220001272388&vrn=100100067795849&region=22&global=&sub_region=22&prver=0&pronetvd=null&vibid=22220001272388&type=464",
@@ -3407,14 +3407,14 @@ export const duma_2016_uik_463_region_22_part_007 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Богданов Юрий Дмитриевич": 0,
-      "Боровикова Евгения Анатольевна": 12,
-      "Кириллов Владимир Викторович": 2,
-      "Кондров Александр Юрьевич": 1,
-      "Лоор Иван Иванович": 151,
-      "Понарин Петр Петрович": 20,
-      "Терентьев Александр Васильевич": 62,
-      "Фурсенко Иван Витальевич": 3
+      "gas:candidate-vibid:22220001368915": 0,
+      "gas:candidate-vibid:22220001352041": 12,
+      "gas:candidate-vibid:22220001365504": 2,
+      "gas:candidate-vibid:22220001369052": 1,
+      "gas:candidate-vibid:22220001366101": 151,
+      "gas:candidate-vibid:22220001365558": 20,
+      "gas:candidate-vibid:22220001365410": 62,
+      "gas:candidate-vibid:22220001369029": 3
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/altai-terr?action=show&root=1000061&tvd=22220001272388&vrn=100100067795849&region=22&global=&sub_region=22&prver=0&pronetvd=null&vibid=22220001272388&type=464",
@@ -3465,14 +3465,14 @@ export const duma_2016_uik_463_region_22_part_007 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Богданов Юрий Дмитриевич": 0,
-      "Боровикова Евгения Анатольевна": 11,
-      "Кириллов Владимир Викторович": 1,
-      "Кондров Александр Юрьевич": 0,
-      "Лоор Иван Иванович": 85,
-      "Понарин Петр Петрович": 9,
-      "Терентьев Александр Васильевич": 23,
-      "Фурсенко Иван Витальевич": 3
+      "gas:candidate-vibid:22220001368915": 0,
+      "gas:candidate-vibid:22220001352041": 11,
+      "gas:candidate-vibid:22220001365504": 1,
+      "gas:candidate-vibid:22220001369052": 0,
+      "gas:candidate-vibid:22220001366101": 85,
+      "gas:candidate-vibid:22220001365558": 9,
+      "gas:candidate-vibid:22220001365410": 23,
+      "gas:candidate-vibid:22220001369029": 3
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/altai-terr?action=show&root=1000061&tvd=22220001272388&vrn=100100067795849&region=22&global=&sub_region=22&prver=0&pronetvd=null&vibid=22220001272388&type=464",
@@ -3523,14 +3523,14 @@ export const duma_2016_uik_463_region_22_part_007 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Богданов Юрий Дмитриевич": 1,
-      "Боровикова Евгения Анатольевна": 9,
-      "Кириллов Владимир Викторович": 2,
-      "Кондров Александр Юрьевич": 0,
-      "Лоор Иван Иванович": 100,
-      "Понарин Петр Петрович": 22,
-      "Терентьев Александр Васильевич": 33,
-      "Фурсенко Иван Витальевич": 4
+      "gas:candidate-vibid:22220001368915": 1,
+      "gas:candidate-vibid:22220001352041": 9,
+      "gas:candidate-vibid:22220001365504": 2,
+      "gas:candidate-vibid:22220001369052": 0,
+      "gas:candidate-vibid:22220001366101": 100,
+      "gas:candidate-vibid:22220001365558": 22,
+      "gas:candidate-vibid:22220001365410": 33,
+      "gas:candidate-vibid:22220001369029": 4
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/altai-terr?action=show&root=1000061&tvd=22220001272388&vrn=100100067795849&region=22&global=&sub_region=22&prver=0&pronetvd=null&vibid=22220001272388&type=464",
@@ -3581,14 +3581,14 @@ export const duma_2016_uik_463_region_22_part_007 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Богданов Юрий Дмитриевич": 0,
-      "Боровикова Евгения Анатольевна": 17,
-      "Кириллов Владимир Викторович": 2,
-      "Кондров Александр Юрьевич": 5,
-      "Лоор Иван Иванович": 197,
-      "Понарин Петр Петрович": 20,
-      "Терентьев Александр Васильевич": 47,
-      "Фурсенко Иван Витальевич": 8
+      "gas:candidate-vibid:22220001368915": 0,
+      "gas:candidate-vibid:22220001352041": 17,
+      "gas:candidate-vibid:22220001365504": 2,
+      "gas:candidate-vibid:22220001369052": 5,
+      "gas:candidate-vibid:22220001366101": 197,
+      "gas:candidate-vibid:22220001365558": 20,
+      "gas:candidate-vibid:22220001365410": 47,
+      "gas:candidate-vibid:22220001369029": 8
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/altai-terr?action=show&root=1000061&tvd=22220001272388&vrn=100100067795849&region=22&global=&sub_region=22&prver=0&pronetvd=null&vibid=22220001272388&type=464",
@@ -3639,14 +3639,14 @@ export const duma_2016_uik_463_region_22_part_007 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Богданов Юрий Дмитриевич": 3,
-      "Боровикова Евгения Анатольевна": 20,
-      "Кириллов Владимир Викторович": 3,
-      "Кондров Александр Юрьевич": 4,
-      "Лоор Иван Иванович": 177,
-      "Понарин Петр Петрович": 34,
-      "Терентьев Александр Васильевич": 64,
-      "Фурсенко Иван Витальевич": 9
+      "gas:candidate-vibid:22220001368915": 3,
+      "gas:candidate-vibid:22220001352041": 20,
+      "gas:candidate-vibid:22220001365504": 3,
+      "gas:candidate-vibid:22220001369052": 4,
+      "gas:candidate-vibid:22220001366101": 177,
+      "gas:candidate-vibid:22220001365558": 34,
+      "gas:candidate-vibid:22220001365410": 64,
+      "gas:candidate-vibid:22220001369029": 9
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/altai-terr?action=show&root=1000061&tvd=22220001272388&vrn=100100067795849&region=22&global=&sub_region=22&prver=0&pronetvd=null&vibid=22220001272388&type=464",
@@ -3697,14 +3697,14 @@ export const duma_2016_uik_463_region_22_part_007 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Богданов Юрий Дмитриевич": 8,
-      "Боровикова Евгения Анатольевна": 99,
-      "Кириллов Владимир Викторович": 7,
-      "Кондров Александр Юрьевич": 7,
-      "Лоор Иван Иванович": 349,
-      "Понарин Петр Петрович": 107,
-      "Терентьев Александр Васильевич": 381,
-      "Фурсенко Иван Витальевич": 17
+      "gas:candidate-vibid:22220001368915": 8,
+      "gas:candidate-vibid:22220001352041": 99,
+      "gas:candidate-vibid:22220001365504": 7,
+      "gas:candidate-vibid:22220001369052": 7,
+      "gas:candidate-vibid:22220001366101": 349,
+      "gas:candidate-vibid:22220001365558": 107,
+      "gas:candidate-vibid:22220001365410": 381,
+      "gas:candidate-vibid:22220001369029": 17
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/altai-terr?action=show&root=1000061&tvd=22220001272389&vrn=100100067795849&region=22&global=&sub_region=22&prver=0&pronetvd=null&vibid=22220001272389&type=464",
@@ -3755,14 +3755,14 @@ export const duma_2016_uik_463_region_22_part_007 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Богданов Юрий Дмитриевич": 8,
-      "Боровикова Евгения Анатольевна": 57,
-      "Кириллов Владимир Викторович": 5,
-      "Кондров Александр Юрьевич": 6,
-      "Лоор Иван Иванович": 176,
-      "Понарин Петр Петрович": 56,
-      "Терентьев Александр Васильевич": 160,
-      "Фурсенко Иван Витальевич": 19
+      "gas:candidate-vibid:22220001368915": 8,
+      "gas:candidate-vibid:22220001352041": 57,
+      "gas:candidate-vibid:22220001365504": 5,
+      "gas:candidate-vibid:22220001369052": 6,
+      "gas:candidate-vibid:22220001366101": 176,
+      "gas:candidate-vibid:22220001365558": 56,
+      "gas:candidate-vibid:22220001365410": 160,
+      "gas:candidate-vibid:22220001369029": 19
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/altai-terr?action=show&root=1000061&tvd=22220001272389&vrn=100100067795849&region=22&global=&sub_region=22&prver=0&pronetvd=null&vibid=22220001272389&type=464",
@@ -3813,14 +3813,14 @@ export const duma_2016_uik_463_region_22_part_007 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Богданов Юрий Дмитриевич": 3,
-      "Боровикова Евгения Анатольевна": 22,
-      "Кириллов Владимир Викторович": 3,
-      "Кондров Александр Юрьевич": 1,
-      "Лоор Иван Иванович": 76,
-      "Понарин Петр Петрович": 10,
-      "Терентьев Александр Васильевич": 127,
-      "Фурсенко Иван Витальевич": 6
+      "gas:candidate-vibid:22220001368915": 3,
+      "gas:candidate-vibid:22220001352041": 22,
+      "gas:candidate-vibid:22220001365504": 3,
+      "gas:candidate-vibid:22220001369052": 1,
+      "gas:candidate-vibid:22220001366101": 76,
+      "gas:candidate-vibid:22220001365558": 10,
+      "gas:candidate-vibid:22220001365410": 127,
+      "gas:candidate-vibid:22220001369029": 6
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/altai-terr?action=show&root=1000061&tvd=22220001272389&vrn=100100067795849&region=22&global=&sub_region=22&prver=0&pronetvd=null&vibid=22220001272389&type=464",
@@ -3871,14 +3871,14 @@ export const duma_2016_uik_463_region_22_part_007 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Богданов Юрий Дмитриевич": 2,
-      "Боровикова Евгения Анатольевна": 2,
-      "Кириллов Владимир Викторович": 1,
-      "Кондров Александр Юрьевич": 0,
-      "Лоор Иван Иванович": 9,
-      "Понарин Петр Петрович": 1,
-      "Терентьев Александр Васильевич": 16,
-      "Фурсенко Иван Витальевич": 0
+      "gas:candidate-vibid:22220001368915": 2,
+      "gas:candidate-vibid:22220001352041": 2,
+      "gas:candidate-vibid:22220001365504": 1,
+      "gas:candidate-vibid:22220001369052": 0,
+      "gas:candidate-vibid:22220001366101": 9,
+      "gas:candidate-vibid:22220001365558": 1,
+      "gas:candidate-vibid:22220001365410": 16,
+      "gas:candidate-vibid:22220001369029": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/altai-terr?action=show&root=1000061&tvd=22220001272389&vrn=100100067795849&region=22&global=&sub_region=22&prver=0&pronetvd=null&vibid=22220001272389&type=464",
@@ -3929,14 +3929,14 @@ export const duma_2016_uik_463_region_22_part_007 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Богданов Юрий Дмитриевич": 1,
-      "Боровикова Евгения Анатольевна": 85,
-      "Кириллов Владимир Викторович": 1,
-      "Кондров Александр Юрьевич": 2,
-      "Лоор Иван Иванович": 17,
-      "Понарин Петр Петрович": 10,
-      "Терентьев Александр Васильевич": 39,
-      "Фурсенко Иван Витальевич": 3
+      "gas:candidate-vibid:22220001368915": 1,
+      "gas:candidate-vibid:22220001352041": 85,
+      "gas:candidate-vibid:22220001365504": 1,
+      "gas:candidate-vibid:22220001369052": 2,
+      "gas:candidate-vibid:22220001366101": 17,
+      "gas:candidate-vibid:22220001365558": 10,
+      "gas:candidate-vibid:22220001365410": 39,
+      "gas:candidate-vibid:22220001369029": 3
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/altai-terr?action=show&root=1000061&tvd=22220001272389&vrn=100100067795849&region=22&global=&sub_region=22&prver=0&pronetvd=null&vibid=22220001272389&type=464",
@@ -3987,14 +3987,14 @@ export const duma_2016_uik_463_region_22_part_007 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Богданов Юрий Дмитриевич": 1,
-      "Боровикова Евгения Анатольевна": 61,
-      "Кириллов Владимир Викторович": 0,
-      "Кондров Александр Юрьевич": 1,
-      "Лоор Иван Иванович": 9,
-      "Понарин Петр Петрович": 10,
-      "Терентьев Александр Васильевич": 14,
-      "Фурсенко Иван Витальевич": 1
+      "gas:candidate-vibid:22220001368915": 1,
+      "gas:candidate-vibid:22220001352041": 61,
+      "gas:candidate-vibid:22220001365504": 0,
+      "gas:candidate-vibid:22220001369052": 1,
+      "gas:candidate-vibid:22220001366101": 9,
+      "gas:candidate-vibid:22220001365558": 10,
+      "gas:candidate-vibid:22220001365410": 14,
+      "gas:candidate-vibid:22220001369029": 1
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/altai-terr?action=show&root=1000061&tvd=22220001272389&vrn=100100067795849&region=22&global=&sub_region=22&prver=0&pronetvd=null&vibid=22220001272389&type=464",
@@ -4045,14 +4045,14 @@ export const duma_2016_uik_463_region_22_part_007 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Богданов Юрий Дмитриевич": 3,
-      "Боровикова Евгения Анатольевна": 48,
-      "Кириллов Владимир Викторович": 3,
-      "Кондров Александр Юрьевич": 2,
-      "Лоор Иван Иванович": 109,
-      "Понарин Петр Петрович": 25,
-      "Терентьев Александр Васильевич": 78,
-      "Фурсенко Иван Витальевич": 10
+      "gas:candidate-vibid:22220001368915": 3,
+      "gas:candidate-vibid:22220001352041": 48,
+      "gas:candidate-vibid:22220001365504": 3,
+      "gas:candidate-vibid:22220001369052": 2,
+      "gas:candidate-vibid:22220001366101": 109,
+      "gas:candidate-vibid:22220001365558": 25,
+      "gas:candidate-vibid:22220001365410": 78,
+      "gas:candidate-vibid:22220001369029": 10
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/altai-terr?action=show&root=1000061&tvd=22220001272389&vrn=100100067795849&region=22&global=&sub_region=22&prver=0&pronetvd=null&vibid=22220001272389&type=464",
@@ -4103,14 +4103,14 @@ export const duma_2016_uik_463_region_22_part_007 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Богданов Юрий Дмитриевич": 1,
-      "Боровикова Евгения Анатольевна": 9,
-      "Кириллов Владимир Викторович": 3,
-      "Кондров Александр Юрьевич": 5,
-      "Лоор Иван Иванович": 58,
-      "Понарин Петр Петрович": 10,
-      "Терентьев Александр Васильевич": 56,
-      "Фурсенко Иван Витальевич": 4
+      "gas:candidate-vibid:22220001368915": 1,
+      "gas:candidate-vibid:22220001352041": 9,
+      "gas:candidate-vibid:22220001365504": 3,
+      "gas:candidate-vibid:22220001369052": 5,
+      "gas:candidate-vibid:22220001366101": 58,
+      "gas:candidate-vibid:22220001365558": 10,
+      "gas:candidate-vibid:22220001365410": 56,
+      "gas:candidate-vibid:22220001369029": 4
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/altai-terr?action=show&root=1000061&tvd=22220001272389&vrn=100100067795849&region=22&global=&sub_region=22&prver=0&pronetvd=null&vibid=22220001272389&type=464",
@@ -4161,14 +4161,14 @@ export const duma_2016_uik_463_region_22_part_007 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Богданов Юрий Дмитриевич": 4,
-      "Боровикова Евгения Анатольевна": 15,
-      "Кириллов Владимир Викторович": 3,
-      "Кондров Александр Юрьевич": 4,
-      "Лоор Иван Иванович": 54,
-      "Понарин Петр Петрович": 11,
-      "Терентьев Александр Васильевич": 69,
-      "Фурсенко Иван Витальевич": 6
+      "gas:candidate-vibid:22220001368915": 4,
+      "gas:candidate-vibid:22220001352041": 15,
+      "gas:candidate-vibid:22220001365504": 3,
+      "gas:candidate-vibid:22220001369052": 4,
+      "gas:candidate-vibid:22220001366101": 54,
+      "gas:candidate-vibid:22220001365558": 11,
+      "gas:candidate-vibid:22220001365410": 69,
+      "gas:candidate-vibid:22220001369029": 6
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/altai-terr?action=show&root=1000061&tvd=22220001272389&vrn=100100067795849&region=22&global=&sub_region=22&prver=0&pronetvd=null&vibid=22220001272389&type=464",
@@ -4219,14 +4219,14 @@ export const duma_2016_uik_463_region_22_part_007 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Богданов Юрий Дмитриевич": 2,
-      "Боровикова Евгения Анатольевна": 16,
-      "Кириллов Владимир Викторович": 0,
-      "Кондров Александр Юрьевич": 1,
-      "Лоор Иван Иванович": 33,
-      "Понарин Петр Петрович": 11,
-      "Терентьев Александр Васильевич": 65,
-      "Фурсенко Иван Витальевич": 5
+      "gas:candidate-vibid:22220001368915": 2,
+      "gas:candidate-vibid:22220001352041": 16,
+      "gas:candidate-vibid:22220001365504": 0,
+      "gas:candidate-vibid:22220001369052": 1,
+      "gas:candidate-vibid:22220001366101": 33,
+      "gas:candidate-vibid:22220001365558": 11,
+      "gas:candidate-vibid:22220001365410": 65,
+      "gas:candidate-vibid:22220001369029": 5
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/altai-terr?action=show&root=1000061&tvd=22220001272389&vrn=100100067795849&region=22&global=&sub_region=22&prver=0&pronetvd=null&vibid=22220001272389&type=464",
@@ -4277,14 +4277,14 @@ export const duma_2016_uik_463_region_22_part_007 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Богданов Юрий Дмитриевич": 3,
-      "Боровикова Евгения Анатольевна": 15,
-      "Кириллов Владимир Викторович": 2,
-      "Кондров Александр Юрьевич": 0,
-      "Лоор Иван Иванович": 97,
-      "Понарин Петр Петрович": 11,
-      "Терентьев Александр Васильевич": 62,
-      "Фурсенко Иван Витальевич": 5
+      "gas:candidate-vibid:22220001368915": 3,
+      "gas:candidate-vibid:22220001352041": 15,
+      "gas:candidate-vibid:22220001365504": 2,
+      "gas:candidate-vibid:22220001369052": 0,
+      "gas:candidate-vibid:22220001366101": 97,
+      "gas:candidate-vibid:22220001365558": 11,
+      "gas:candidate-vibid:22220001365410": 62,
+      "gas:candidate-vibid:22220001369029": 5
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/altai-terr?action=show&root=1000061&tvd=22220001272389&vrn=100100067795849&region=22&global=&sub_region=22&prver=0&pronetvd=null&vibid=22220001272389&type=464",
@@ -4335,14 +4335,14 @@ export const duma_2016_uik_463_region_22_part_007 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Богданов Юрий Дмитриевич": 5,
-      "Боровикова Евгения Анатольевна": 18,
-      "Кириллов Владимир Викторович": 0,
-      "Кондров Александр Юрьевич": 1,
-      "Лоор Иван Иванович": 28,
-      "Понарин Петр Петрович": 10,
-      "Терентьев Александр Васильевич": 39,
-      "Фурсенко Иван Витальевич": 2
+      "gas:candidate-vibid:22220001368915": 5,
+      "gas:candidate-vibid:22220001352041": 18,
+      "gas:candidate-vibid:22220001365504": 0,
+      "gas:candidate-vibid:22220001369052": 1,
+      "gas:candidate-vibid:22220001366101": 28,
+      "gas:candidate-vibid:22220001365558": 10,
+      "gas:candidate-vibid:22220001365410": 39,
+      "gas:candidate-vibid:22220001369029": 2
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/altai-terr?action=show&root=1000061&tvd=22220001272389&vrn=100100067795849&region=22&global=&sub_region=22&prver=0&pronetvd=null&vibid=22220001272389&type=464",
@@ -4393,14 +4393,14 @@ export const duma_2016_uik_463_region_22_part_007 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Богданов Юрий Дмитриевич": 3,
-      "Боровикова Евгения Анатольевна": 47,
-      "Кириллов Владимир Викторович": 7,
-      "Кондров Александр Юрьевич": 5,
-      "Лоор Иван Иванович": 166,
-      "Понарин Петр Петрович": 46,
-      "Терентьев Александр Васильевич": 75,
-      "Фурсенко Иван Витальевич": 22
+      "gas:candidate-vibid:22220001368915": 3,
+      "gas:candidate-vibid:22220001352041": 47,
+      "gas:candidate-vibid:22220001365504": 7,
+      "gas:candidate-vibid:22220001369052": 5,
+      "gas:candidate-vibid:22220001366101": 166,
+      "gas:candidate-vibid:22220001365558": 46,
+      "gas:candidate-vibid:22220001365410": 75,
+      "gas:candidate-vibid:22220001369029": 22
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/altai-terr?action=show&root=1000061&tvd=22220001272389&vrn=100100067795849&region=22&global=&sub_region=22&prver=0&pronetvd=null&vibid=22220001272389&type=464",
@@ -4451,14 +4451,14 @@ export const duma_2016_uik_463_region_22_part_007 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Богданов Юрий Дмитриевич": 4,
-      "Боровикова Евгения Анатольевна": 23,
-      "Кириллов Владимир Викторович": 4,
-      "Кондров Александр Юрьевич": 4,
-      "Лоор Иван Иванович": 98,
-      "Понарин Петр Петрович": 22,
-      "Терентьев Александр Васильевич": 53,
-      "Фурсенко Иван Витальевич": 5
+      "gas:candidate-vibid:22220001368915": 4,
+      "gas:candidate-vibid:22220001352041": 23,
+      "gas:candidate-vibid:22220001365504": 4,
+      "gas:candidate-vibid:22220001369052": 4,
+      "gas:candidate-vibid:22220001366101": 98,
+      "gas:candidate-vibid:22220001365558": 22,
+      "gas:candidate-vibid:22220001365410": 53,
+      "gas:candidate-vibid:22220001369029": 5
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/altai-terr?action=show&root=1000061&tvd=22220001272389&vrn=100100067795849&region=22&global=&sub_region=22&prver=0&pronetvd=null&vibid=22220001272389&type=464",
@@ -4509,14 +4509,14 @@ export const duma_2016_uik_463_region_22_part_007 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Богданов Юрий Дмитриевич": 0,
-      "Боровикова Евгения Анатольевна": 18,
-      "Кириллов Владимир Викторович": 1,
-      "Кондров Александр Юрьевич": 3,
-      "Лоор Иван Иванович": 11,
-      "Понарин Петр Петрович": 3,
-      "Терентьев Александр Васильевич": 14,
-      "Фурсенко Иван Витальевич": 2
+      "gas:candidate-vibid:22220001368915": 0,
+      "gas:candidate-vibid:22220001352041": 18,
+      "gas:candidate-vibid:22220001365504": 1,
+      "gas:candidate-vibid:22220001369052": 3,
+      "gas:candidate-vibid:22220001366101": 11,
+      "gas:candidate-vibid:22220001365558": 3,
+      "gas:candidate-vibid:22220001365410": 14,
+      "gas:candidate-vibid:22220001369029": 2
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/altai-terr?action=show&root=1000061&tvd=22220001272389&vrn=100100067795849&region=22&global=&sub_region=22&prver=0&pronetvd=null&vibid=22220001272389&type=464",
@@ -4567,14 +4567,14 @@ export const duma_2016_uik_463_region_22_part_007 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Богданов Юрий Дмитриевич": 1,
-      "Боровикова Евгения Анатольевна": 14,
-      "Кириллов Владимир Викторович": 3,
-      "Кондров Александр Юрьевич": 0,
-      "Лоор Иван Иванович": 17,
-      "Понарин Петр Петрович": 12,
-      "Терентьев Александр Васильевич": 36,
-      "Фурсенко Иван Витальевич": 5
+      "gas:candidate-vibid:22220001368915": 1,
+      "gas:candidate-vibid:22220001352041": 14,
+      "gas:candidate-vibid:22220001365504": 3,
+      "gas:candidate-vibid:22220001369052": 0,
+      "gas:candidate-vibid:22220001366101": 17,
+      "gas:candidate-vibid:22220001365558": 12,
+      "gas:candidate-vibid:22220001365410": 36,
+      "gas:candidate-vibid:22220001369029": 5
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/altai-terr?action=show&root=1000061&tvd=22220001272389&vrn=100100067795849&region=22&global=&sub_region=22&prver=0&pronetvd=null&vibid=22220001272389&type=464",
@@ -4625,14 +4625,14 @@ export const duma_2016_uik_463_region_22_part_007 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Богданов Юрий Дмитриевич": 5,
-      "Боровикова Евгения Анатольевна": 30,
-      "Кириллов Владимир Викторович": 6,
-      "Кондров Александр Юрьевич": 3,
-      "Лоор Иван Иванович": 59,
-      "Понарин Петр Петрович": 20,
-      "Терентьев Александр Васильевич": 61,
-      "Фурсенко Иван Витальевич": 8
+      "gas:candidate-vibid:22220001368915": 5,
+      "gas:candidate-vibid:22220001352041": 30,
+      "gas:candidate-vibid:22220001365504": 6,
+      "gas:candidate-vibid:22220001369052": 3,
+      "gas:candidate-vibid:22220001366101": 59,
+      "gas:candidate-vibid:22220001365558": 20,
+      "gas:candidate-vibid:22220001365410": 61,
+      "gas:candidate-vibid:22220001369029": 8
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/altai-terr?action=show&root=1000061&tvd=22220001272389&vrn=100100067795849&region=22&global=&sub_region=22&prver=0&pronetvd=null&vibid=22220001272389&type=464",
@@ -4683,14 +4683,14 @@ export const duma_2016_uik_463_region_22_part_007 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Богданов Юрий Дмитриевич": 3,
-      "Боровикова Евгения Анатольевна": 1,
-      "Кириллов Владимир Викторович": 2,
-      "Кондров Александр Юрьевич": 1,
-      "Лоор Иван Иванович": 29,
-      "Понарин Петр Петрович": 5,
-      "Терентьев Александр Васильевич": 9,
-      "Фурсенко Иван Витальевич": 2
+      "gas:candidate-vibid:22220001368915": 3,
+      "gas:candidate-vibid:22220001352041": 1,
+      "gas:candidate-vibid:22220001365504": 2,
+      "gas:candidate-vibid:22220001369052": 1,
+      "gas:candidate-vibid:22220001366101": 29,
+      "gas:candidate-vibid:22220001365558": 5,
+      "gas:candidate-vibid:22220001365410": 9,
+      "gas:candidate-vibid:22220001369029": 2
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/altai-terr?action=show&root=1000061&tvd=22220001272389&vrn=100100067795849&region=22&global=&sub_region=22&prver=0&pronetvd=null&vibid=22220001272389&type=464",
@@ -4741,14 +4741,14 @@ export const duma_2016_uik_463_region_22_part_007 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Богданов Юрий Дмитриевич": 2,
-      "Боровикова Евгения Анатольевна": 18,
-      "Кириллов Владимир Викторович": 2,
-      "Кондров Александр Юрьевич": 4,
-      "Лоор Иван Иванович": 87,
-      "Понарин Петр Петрович": 14,
-      "Терентьев Александр Васильевич": 71,
-      "Фурсенко Иван Витальевич": 3
+      "gas:candidate-vibid:22220001368915": 2,
+      "gas:candidate-vibid:22220001352041": 18,
+      "gas:candidate-vibid:22220001365504": 2,
+      "gas:candidate-vibid:22220001369052": 4,
+      "gas:candidate-vibid:22220001366101": 87,
+      "gas:candidate-vibid:22220001365558": 14,
+      "gas:candidate-vibid:22220001365410": 71,
+      "gas:candidate-vibid:22220001369029": 3
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/altai-terr?action=show&root=1000061&tvd=22220001272389&vrn=100100067795849&region=22&global=&sub_region=22&prver=0&pronetvd=null&vibid=22220001272389&type=464",
@@ -4799,14 +4799,14 @@ export const duma_2016_uik_463_region_22_part_007 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Богданов Юрий Дмитриевич": 0,
-      "Боровикова Евгения Анатольевна": 50,
-      "Кириллов Владимир Викторович": 2,
-      "Кондров Александр Юрьевич": 2,
-      "Лоор Иван Иванович": 24,
-      "Понарин Петр Петрович": 10,
-      "Терентьев Александр Васильевич": 54,
-      "Фурсенко Иван Витальевич": 3
+      "gas:candidate-vibid:22220001368915": 0,
+      "gas:candidate-vibid:22220001352041": 50,
+      "gas:candidate-vibid:22220001365504": 2,
+      "gas:candidate-vibid:22220001369052": 2,
+      "gas:candidate-vibid:22220001366101": 24,
+      "gas:candidate-vibid:22220001365558": 10,
+      "gas:candidate-vibid:22220001365410": 54,
+      "gas:candidate-vibid:22220001369029": 3
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/altai-terr?action=show&root=1000061&tvd=22220001272389&vrn=100100067795849&region=22&global=&sub_region=22&prver=0&pronetvd=null&vibid=22220001272389&type=464",
@@ -4857,14 +4857,14 @@ export const duma_2016_uik_463_region_22_part_007 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Богданов Юрий Дмитриевич": 1,
-      "Боровикова Евгения Анатольевна": 19,
-      "Кириллов Владимир Викторович": 1,
-      "Кондров Александр Юрьевич": 3,
-      "Лоор Иван Иванович": 49,
-      "Понарин Петр Петрович": 9,
-      "Терентьев Александр Васильевич": 27,
-      "Фурсенко Иван Витальевич": 2
+      "gas:candidate-vibid:22220001368915": 1,
+      "gas:candidate-vibid:22220001352041": 19,
+      "gas:candidate-vibid:22220001365504": 1,
+      "gas:candidate-vibid:22220001369052": 3,
+      "gas:candidate-vibid:22220001366101": 49,
+      "gas:candidate-vibid:22220001365558": 9,
+      "gas:candidate-vibid:22220001365410": 27,
+      "gas:candidate-vibid:22220001369029": 2
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/altai-terr?action=show&root=1000061&tvd=22220001272390&vrn=100100067795849&region=22&global=&sub_region=22&prver=0&pronetvd=null&vibid=22220001272390&type=464",
@@ -4915,14 +4915,14 @@ export const duma_2016_uik_463_region_22_part_007 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Богданов Юрий Дмитриевич": 15,
-      "Боровикова Евгения Анатольевна": 106,
-      "Кириллов Владимир Викторович": 8,
-      "Кондров Александр Юрьевич": 9,
-      "Лоор Иван Иванович": 284,
-      "Понарин Петр Петрович": 84,
-      "Терентьев Александр Васильевич": 188,
-      "Фурсенко Иван Витальевич": 22
+      "gas:candidate-vibid:22220001368915": 15,
+      "gas:candidate-vibid:22220001352041": 106,
+      "gas:candidate-vibid:22220001365504": 8,
+      "gas:candidate-vibid:22220001369052": 9,
+      "gas:candidate-vibid:22220001366101": 284,
+      "gas:candidate-vibid:22220001365558": 84,
+      "gas:candidate-vibid:22220001365410": 188,
+      "gas:candidate-vibid:22220001369029": 22
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/altai-terr?action=show&root=1000061&tvd=22220001272390&vrn=100100067795849&region=22&global=&sub_region=22&prver=0&pronetvd=null&vibid=22220001272390&type=464",
@@ -4973,14 +4973,14 @@ export const duma_2016_uik_463_region_22_part_007 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Богданов Юрий Дмитриевич": 12,
-      "Боровикова Евгения Анатольевна": 55,
-      "Кириллов Владимир Викторович": 10,
-      "Кондров Александр Юрьевич": 8,
-      "Лоор Иван Иванович": 225,
-      "Понарин Петр Петрович": 50,
-      "Терентьев Александр Васильевич": 100,
-      "Фурсенко Иван Витальевич": 20
+      "gas:candidate-vibid:22220001368915": 12,
+      "gas:candidate-vibid:22220001352041": 55,
+      "gas:candidate-vibid:22220001365504": 10,
+      "gas:candidate-vibid:22220001369052": 8,
+      "gas:candidate-vibid:22220001366101": 225,
+      "gas:candidate-vibid:22220001365558": 50,
+      "gas:candidate-vibid:22220001365410": 100,
+      "gas:candidate-vibid:22220001369029": 20
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/altai-terr?action=show&root=1000061&tvd=22220001272390&vrn=100100067795849&region=22&global=&sub_region=22&prver=0&pronetvd=null&vibid=22220001272390&type=464",
@@ -5031,14 +5031,14 @@ export const duma_2016_uik_463_region_22_part_007 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Богданов Юрий Дмитриевич": 6,
-      "Боровикова Евгения Анатольевна": 53,
-      "Кириллов Владимир Викторович": 10,
-      "Кондров Александр Юрьевич": 2,
-      "Лоор Иван Иванович": 187,
-      "Понарин Петр Петрович": 56,
-      "Терентьев Александр Васильевич": 95,
-      "Фурсенко Иван Витальевич": 19
+      "gas:candidate-vibid:22220001368915": 6,
+      "gas:candidate-vibid:22220001352041": 53,
+      "gas:candidate-vibid:22220001365504": 10,
+      "gas:candidate-vibid:22220001369052": 2,
+      "gas:candidate-vibid:22220001366101": 187,
+      "gas:candidate-vibid:22220001365558": 56,
+      "gas:candidate-vibid:22220001365410": 95,
+      "gas:candidate-vibid:22220001369029": 19
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/altai-terr?action=show&root=1000061&tvd=22220001272390&vrn=100100067795849&region=22&global=&sub_region=22&prver=0&pronetvd=null&vibid=22220001272390&type=464",
@@ -5089,14 +5089,14 @@ export const duma_2016_uik_463_region_22_part_007 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Богданов Юрий Дмитриевич": 7,
-      "Боровикова Евгения Анатольевна": 28,
-      "Кириллов Владимир Викторович": 0,
-      "Кондров Александр Юрьевич": 1,
-      "Лоор Иван Иванович": 113,
-      "Понарин Петр Петрович": 11,
-      "Терентьев Александр Васильевич": 51,
-      "Фурсенко Иван Витальевич": 4
+      "gas:candidate-vibid:22220001368915": 7,
+      "gas:candidate-vibid:22220001352041": 28,
+      "gas:candidate-vibid:22220001365504": 0,
+      "gas:candidate-vibid:22220001369052": 1,
+      "gas:candidate-vibid:22220001366101": 113,
+      "gas:candidate-vibid:22220001365558": 11,
+      "gas:candidate-vibid:22220001365410": 51,
+      "gas:candidate-vibid:22220001369029": 4
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/altai-terr?action=show&root=1000061&tvd=22220001272390&vrn=100100067795849&region=22&global=&sub_region=22&prver=0&pronetvd=null&vibid=22220001272390&type=464",
@@ -5147,14 +5147,14 @@ export const duma_2016_uik_463_region_22_part_007 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Богданов Юрий Дмитриевич": 2,
-      "Боровикова Евгения Анатольевна": 7,
-      "Кириллов Владимир Викторович": 1,
-      "Кондров Александр Юрьевич": 4,
-      "Лоор Иван Иванович": 37,
-      "Понарин Петр Петрович": 6,
-      "Терентьев Александр Васильевич": 33,
-      "Фурсенко Иван Витальевич": 3
+      "gas:candidate-vibid:22220001368915": 2,
+      "gas:candidate-vibid:22220001352041": 7,
+      "gas:candidate-vibid:22220001365504": 1,
+      "gas:candidate-vibid:22220001369052": 4,
+      "gas:candidate-vibid:22220001366101": 37,
+      "gas:candidate-vibid:22220001365558": 6,
+      "gas:candidate-vibid:22220001365410": 33,
+      "gas:candidate-vibid:22220001369029": 3
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/altai-terr?action=show&root=1000061&tvd=22220001272390&vrn=100100067795849&region=22&global=&sub_region=22&prver=0&pronetvd=null&vibid=22220001272390&type=464",
@@ -5205,14 +5205,14 @@ export const duma_2016_uik_463_region_22_part_007 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Богданов Юрий Дмитриевич": 12,
-      "Боровикова Евгения Анатольевна": 74,
-      "Кириллов Владимир Викторович": 6,
-      "Кондров Александр Юрьевич": 7,
-      "Лоор Иван Иванович": 175,
-      "Понарин Петр Петрович": 56,
-      "Терентьев Александр Васильевич": 251,
-      "Фурсенко Иван Витальевич": 12
+      "gas:candidate-vibid:22220001368915": 12,
+      "gas:candidate-vibid:22220001352041": 74,
+      "gas:candidate-vibid:22220001365504": 6,
+      "gas:candidate-vibid:22220001369052": 7,
+      "gas:candidate-vibid:22220001366101": 175,
+      "gas:candidate-vibid:22220001365558": 56,
+      "gas:candidate-vibid:22220001365410": 251,
+      "gas:candidate-vibid:22220001369029": 12
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/altai-terr?action=show&root=1000061&tvd=22220001272390&vrn=100100067795849&region=22&global=&sub_region=22&prver=0&pronetvd=null&vibid=22220001272390&type=464",
@@ -5263,14 +5263,14 @@ export const duma_2016_uik_463_region_22_part_007 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Богданов Юрий Дмитриевич": 5,
-      "Боровикова Евгения Анатольевна": 30,
-      "Кириллов Владимир Викторович": 4,
-      "Кондров Александр Юрьевич": 6,
-      "Лоор Иван Иванович": 100,
-      "Понарин Петр Петрович": 23,
-      "Терентьев Александр Васильевич": 209,
-      "Фурсенко Иван Витальевич": 9
+      "gas:candidate-vibid:22220001368915": 5,
+      "gas:candidate-vibid:22220001352041": 30,
+      "gas:candidate-vibid:22220001365504": 4,
+      "gas:candidate-vibid:22220001369052": 6,
+      "gas:candidate-vibid:22220001366101": 100,
+      "gas:candidate-vibid:22220001365558": 23,
+      "gas:candidate-vibid:22220001365410": 209,
+      "gas:candidate-vibid:22220001369029": 9
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/altai-terr?action=show&root=1000061&tvd=22220001272390&vrn=100100067795849&region=22&global=&sub_region=22&prver=0&pronetvd=null&vibid=22220001272390&type=464",
@@ -5321,14 +5321,14 @@ export const duma_2016_uik_463_region_22_part_007 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Богданов Юрий Дмитриевич": 13,
-      "Боровикова Евгения Анатольевна": 54,
-      "Кириллов Владимир Викторович": 4,
-      "Кондров Александр Юрьевич": 12,
-      "Лоор Иван Иванович": 228,
-      "Понарин Петр Петрович": 40,
-      "Терентьев Александр Васильевич": 92,
-      "Фурсенко Иван Витальевич": 15
+      "gas:candidate-vibid:22220001368915": 13,
+      "gas:candidate-vibid:22220001352041": 54,
+      "gas:candidate-vibid:22220001365504": 4,
+      "gas:candidate-vibid:22220001369052": 12,
+      "gas:candidate-vibid:22220001366101": 228,
+      "gas:candidate-vibid:22220001365558": 40,
+      "gas:candidate-vibid:22220001365410": 92,
+      "gas:candidate-vibid:22220001369029": 15
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/altai-terr?action=show&root=1000061&tvd=22220001272390&vrn=100100067795849&region=22&global=&sub_region=22&prver=0&pronetvd=null&vibid=22220001272390&type=464",
@@ -5379,14 +5379,14 @@ export const duma_2016_uik_463_region_22_part_007 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Богданов Юрий Дмитриевич": 15,
-      "Боровикова Евгения Анатольевна": 87,
-      "Кириллов Владимир Викторович": 8,
-      "Кондров Александр Юрьевич": 7,
-      "Лоор Иван Иванович": 412,
-      "Понарин Петр Петрович": 56,
-      "Терентьев Александр Васильевич": 117,
-      "Фурсенко Иван Витальевич": 22
+      "gas:candidate-vibid:22220001368915": 15,
+      "gas:candidate-vibid:22220001352041": 87,
+      "gas:candidate-vibid:22220001365504": 8,
+      "gas:candidate-vibid:22220001369052": 7,
+      "gas:candidate-vibid:22220001366101": 412,
+      "gas:candidate-vibid:22220001365558": 56,
+      "gas:candidate-vibid:22220001365410": 117,
+      "gas:candidate-vibid:22220001369029": 22
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/altai-terr?action=show&root=1000061&tvd=22220001272390&vrn=100100067795849&region=22&global=&sub_region=22&prver=0&pronetvd=null&vibid=22220001272390&type=464",
@@ -5437,14 +5437,14 @@ export const duma_2016_uik_463_region_22_part_007 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Богданов Юрий Дмитриевич": 7,
-      "Боровикова Евгения Анатольевна": 39,
-      "Кириллов Владимир Викторович": 2,
-      "Кондров Александр Юрьевич": 1,
-      "Лоор Иван Иванович": 156,
-      "Понарин Петр Петрович": 31,
-      "Терентьев Александр Васильевич": 126,
-      "Фурсенко Иван Витальевич": 11
+      "gas:candidate-vibid:22220001368915": 7,
+      "gas:candidate-vibid:22220001352041": 39,
+      "gas:candidate-vibid:22220001365504": 2,
+      "gas:candidate-vibid:22220001369052": 1,
+      "gas:candidate-vibid:22220001366101": 156,
+      "gas:candidate-vibid:22220001365558": 31,
+      "gas:candidate-vibid:22220001365410": 126,
+      "gas:candidate-vibid:22220001369029": 11
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/altai-terr?action=show&root=1000061&tvd=22220001272390&vrn=100100067795849&region=22&global=&sub_region=22&prver=0&pronetvd=null&vibid=22220001272390&type=464",
@@ -5495,14 +5495,14 @@ export const duma_2016_uik_463_region_22_part_007 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Богданов Юрий Дмитриевич": 5,
-      "Боровикова Евгения Анатольевна": 42,
-      "Кириллов Владимир Викторович": 4,
-      "Кондров Александр Юрьевич": 4,
-      "Лоор Иван Иванович": 190,
-      "Понарин Петр Петрович": 43,
-      "Терентьев Александр Васильевич": 89,
-      "Фурсенко Иван Витальевич": 10
+      "gas:candidate-vibid:22220001368915": 5,
+      "gas:candidate-vibid:22220001352041": 42,
+      "gas:candidate-vibid:22220001365504": 4,
+      "gas:candidate-vibid:22220001369052": 4,
+      "gas:candidate-vibid:22220001366101": 190,
+      "gas:candidate-vibid:22220001365558": 43,
+      "gas:candidate-vibid:22220001365410": 89,
+      "gas:candidate-vibid:22220001369029": 10
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/altai-terr?action=show&root=1000061&tvd=22220001272390&vrn=100100067795849&region=22&global=&sub_region=22&prver=0&pronetvd=null&vibid=22220001272390&type=464",
@@ -5553,14 +5553,14 @@ export const duma_2016_uik_463_region_22_part_007 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Богданов Юрий Дмитриевич": 8,
-      "Боровикова Евгения Анатольевна": 65,
-      "Кириллов Владимир Викторович": 5,
-      "Кондров Александр Юрьевич": 10,
-      "Лоор Иван Иванович": 200,
-      "Понарин Петр Петрович": 59,
-      "Терентьев Александр Васильевич": 76,
-      "Фурсенко Иван Витальевич": 20
+      "gas:candidate-vibid:22220001368915": 8,
+      "gas:candidate-vibid:22220001352041": 65,
+      "gas:candidate-vibid:22220001365504": 5,
+      "gas:candidate-vibid:22220001369052": 10,
+      "gas:candidate-vibid:22220001366101": 200,
+      "gas:candidate-vibid:22220001365558": 59,
+      "gas:candidate-vibid:22220001365410": 76,
+      "gas:candidate-vibid:22220001369029": 20
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/altai-terr?action=show&root=1000061&tvd=22220001272390&vrn=100100067795849&region=22&global=&sub_region=22&prver=0&pronetvd=null&vibid=22220001272390&type=464",
@@ -5611,14 +5611,14 @@ export const duma_2016_uik_463_region_22_part_007 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Богданов Юрий Дмитриевич": 9,
-      "Боровикова Евгения Анатольевна": 61,
-      "Кириллов Владимир Викторович": 5,
-      "Кондров Александр Юрьевич": 5,
-      "Лоор Иван Иванович": 183,
-      "Понарин Петр Петрович": 62,
-      "Терентьев Александр Васильевич": 107,
-      "Фурсенко Иван Витальевич": 13
+      "gas:candidate-vibid:22220001368915": 9,
+      "gas:candidate-vibid:22220001352041": 61,
+      "gas:candidate-vibid:22220001365504": 5,
+      "gas:candidate-vibid:22220001369052": 5,
+      "gas:candidate-vibid:22220001366101": 183,
+      "gas:candidate-vibid:22220001365558": 62,
+      "gas:candidate-vibid:22220001365410": 107,
+      "gas:candidate-vibid:22220001369029": 13
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/altai-terr?action=show&root=1000061&tvd=22220001272390&vrn=100100067795849&region=22&global=&sub_region=22&prver=0&pronetvd=null&vibid=22220001272390&type=464",
@@ -5669,14 +5669,14 @@ export const duma_2016_uik_463_region_22_part_007 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Богданов Юрий Дмитриевич": 2,
-      "Боровикова Евгения Анатольевна": 23,
-      "Кириллов Владимир Викторович": 1,
-      "Кондров Александр Юрьевич": 3,
-      "Лоор Иван Иванович": 82,
-      "Понарин Петр Петрович": 49,
-      "Терентьев Александр Васильевич": 44,
-      "Фурсенко Иван Витальевич": 6
+      "gas:candidate-vibid:22220001368915": 2,
+      "gas:candidate-vibid:22220001352041": 23,
+      "gas:candidate-vibid:22220001365504": 1,
+      "gas:candidate-vibid:22220001369052": 3,
+      "gas:candidate-vibid:22220001366101": 82,
+      "gas:candidate-vibid:22220001365558": 49,
+      "gas:candidate-vibid:22220001365410": 44,
+      "gas:candidate-vibid:22220001369029": 6
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/altai-terr?action=show&root=1000061&tvd=22220001272391&vrn=100100067795849&region=22&global=&sub_region=22&prver=0&pronetvd=null&vibid=22220001272391&type=464",
@@ -5727,14 +5727,14 @@ export const duma_2016_uik_463_region_22_part_007 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Богданов Юрий Дмитриевич": 16,
-      "Боровикова Евгения Анатольевна": 141,
-      "Кириллов Владимир Викторович": 9,
-      "Кондров Александр Юрьевич": 14,
-      "Лоор Иван Иванович": 349,
-      "Понарин Петр Петрович": 160,
-      "Терентьев Александр Васильевич": 175,
-      "Фурсенко Иван Витальевич": 32
+      "gas:candidate-vibid:22220001368915": 16,
+      "gas:candidate-vibid:22220001352041": 141,
+      "gas:candidate-vibid:22220001365504": 9,
+      "gas:candidate-vibid:22220001369052": 14,
+      "gas:candidate-vibid:22220001366101": 349,
+      "gas:candidate-vibid:22220001365558": 160,
+      "gas:candidate-vibid:22220001365410": 175,
+      "gas:candidate-vibid:22220001369029": 32
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/altai-terr?action=show&root=1000061&tvd=22220001272391&vrn=100100067795849&region=22&global=&sub_region=22&prver=0&pronetvd=null&vibid=22220001272391&type=464",
@@ -5785,14 +5785,14 @@ export const duma_2016_uik_463_region_22_part_007 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Богданов Юрий Дмитриевич": 11,
-      "Боровикова Евгения Анатольевна": 150,
-      "Кириллов Владимир Викторович": 14,
-      "Кондров Александр Юрьевич": 11,
-      "Лоор Иван Иванович": 275,
-      "Понарин Петр Петрович": 92,
-      "Терентьев Александр Васильевич": 152,
-      "Фурсенко Иван Витальевич": 16
+      "gas:candidate-vibid:22220001368915": 11,
+      "gas:candidate-vibid:22220001352041": 150,
+      "gas:candidate-vibid:22220001365504": 14,
+      "gas:candidate-vibid:22220001369052": 11,
+      "gas:candidate-vibid:22220001366101": 275,
+      "gas:candidate-vibid:22220001365558": 92,
+      "gas:candidate-vibid:22220001365410": 152,
+      "gas:candidate-vibid:22220001369029": 16
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/altai-terr?action=show&root=1000061&tvd=22220001272391&vrn=100100067795849&region=22&global=&sub_region=22&prver=0&pronetvd=null&vibid=22220001272391&type=464",
@@ -5843,14 +5843,14 @@ export const duma_2016_uik_463_region_22_part_007 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Богданов Юрий Дмитриевич": 6,
-      "Боровикова Евгения Анатольевна": 130,
-      "Кириллов Владимир Викторович": 12,
-      "Кондров Александр Юрьевич": 13,
-      "Лоор Иван Иванович": 259,
-      "Понарин Петр Петрович": 80,
-      "Терентьев Александр Васильевич": 163,
-      "Фурсенко Иван Витальевич": 26
+      "gas:candidate-vibid:22220001368915": 6,
+      "gas:candidate-vibid:22220001352041": 130,
+      "gas:candidate-vibid:22220001365504": 12,
+      "gas:candidate-vibid:22220001369052": 13,
+      "gas:candidate-vibid:22220001366101": 259,
+      "gas:candidate-vibid:22220001365558": 80,
+      "gas:candidate-vibid:22220001365410": 163,
+      "gas:candidate-vibid:22220001369029": 26
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/altai-terr?action=show&root=1000061&tvd=22220001272391&vrn=100100067795849&region=22&global=&sub_region=22&prver=0&pronetvd=null&vibid=22220001272391&type=464",
@@ -5901,14 +5901,14 @@ export const duma_2016_uik_463_region_22_part_007 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Богданов Юрий Дмитриевич": 13,
-      "Боровикова Евгения Анатольевна": 139,
-      "Кириллов Владимир Викторович": 14,
-      "Кондров Александр Юрьевич": 8,
-      "Лоор Иван Иванович": 289,
-      "Понарин Петр Петрович": 103,
-      "Терентьев Александр Васильевич": 90,
-      "Фурсенко Иван Витальевич": 12
+      "gas:candidate-vibid:22220001368915": 13,
+      "gas:candidate-vibid:22220001352041": 139,
+      "gas:candidate-vibid:22220001365504": 14,
+      "gas:candidate-vibid:22220001369052": 8,
+      "gas:candidate-vibid:22220001366101": 289,
+      "gas:candidate-vibid:22220001365558": 103,
+      "gas:candidate-vibid:22220001365410": 90,
+      "gas:candidate-vibid:22220001369029": 12
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/altai-terr?action=show&root=1000061&tvd=22220001272391&vrn=100100067795849&region=22&global=&sub_region=22&prver=0&pronetvd=null&vibid=22220001272391&type=464",
@@ -5959,14 +5959,14 @@ export const duma_2016_uik_463_region_22_part_007 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Богданов Юрий Дмитриевич": 16,
-      "Боровикова Евгения Анатольевна": 122,
-      "Кириллов Владимир Викторович": 7,
-      "Кондров Александр Юрьевич": 12,
-      "Лоор Иван Иванович": 274,
-      "Понарин Петр Петрович": 132,
-      "Терентьев Александр Васильевич": 165,
-      "Фурсенко Иван Витальевич": 19
+      "gas:candidate-vibid:22220001368915": 16,
+      "gas:candidate-vibid:22220001352041": 122,
+      "gas:candidate-vibid:22220001365504": 7,
+      "gas:candidate-vibid:22220001369052": 12,
+      "gas:candidate-vibid:22220001366101": 274,
+      "gas:candidate-vibid:22220001365558": 132,
+      "gas:candidate-vibid:22220001365410": 165,
+      "gas:candidate-vibid:22220001369029": 19
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/altai-terr?action=show&root=1000061&tvd=22220001272391&vrn=100100067795849&region=22&global=&sub_region=22&prver=0&pronetvd=null&vibid=22220001272391&type=464",
@@ -6017,14 +6017,14 @@ export const duma_2016_uik_463_region_22_part_007 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Богданов Юрий Дмитриевич": 7,
-      "Боровикова Евгения Анатольевна": 110,
-      "Кириллов Владимир Викторович": 6,
-      "Кондров Александр Юрьевич": 7,
-      "Лоор Иван Иванович": 187,
-      "Понарин Петр Петрович": 71,
-      "Терентьев Александр Васильевич": 147,
-      "Фурсенко Иван Витальевич": 17
+      "gas:candidate-vibid:22220001368915": 7,
+      "gas:candidate-vibid:22220001352041": 110,
+      "gas:candidate-vibid:22220001365504": 6,
+      "gas:candidate-vibid:22220001369052": 7,
+      "gas:candidate-vibid:22220001366101": 187,
+      "gas:candidate-vibid:22220001365558": 71,
+      "gas:candidate-vibid:22220001365410": 147,
+      "gas:candidate-vibid:22220001369029": 17
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/altai-terr?action=show&root=1000061&tvd=22220001272391&vrn=100100067795849&region=22&global=&sub_region=22&prver=0&pronetvd=null&vibid=22220001272391&type=464",
@@ -6075,14 +6075,14 @@ export const duma_2016_uik_463_region_22_part_007 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Богданов Юрий Дмитриевич": 4,
-      "Боровикова Евгения Анатольевна": 75,
-      "Кириллов Владимир Викторович": 2,
-      "Кондров Александр Юрьевич": 2,
-      "Лоор Иван Иванович": 339,
-      "Понарин Петр Петрович": 79,
-      "Терентьев Александр Васильевич": 88,
-      "Фурсенко Иван Витальевич": 18
+      "gas:candidate-vibid:22220001368915": 4,
+      "gas:candidate-vibid:22220001352041": 75,
+      "gas:candidate-vibid:22220001365504": 2,
+      "gas:candidate-vibid:22220001369052": 2,
+      "gas:candidate-vibid:22220001366101": 339,
+      "gas:candidate-vibid:22220001365558": 79,
+      "gas:candidate-vibid:22220001365410": 88,
+      "gas:candidate-vibid:22220001369029": 18
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/altai-terr?action=show&root=1000061&tvd=22220001272391&vrn=100100067795849&region=22&global=&sub_region=22&prver=0&pronetvd=null&vibid=22220001272391&type=464",
@@ -6133,14 +6133,14 @@ export const duma_2016_uik_463_region_22_part_007 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Богданов Юрий Дмитриевич": 4,
-      "Боровикова Евгения Анатольевна": 18,
-      "Кириллов Владимир Викторович": 1,
-      "Кондров Александр Юрьевич": 1,
-      "Лоор Иван Иванович": 83,
-      "Понарин Петр Петрович": 31,
-      "Терентьев Александр Васильевич": 33,
-      "Фурсенко Иван Витальевич": 6
+      "gas:candidate-vibid:22220001368915": 4,
+      "gas:candidate-vibid:22220001352041": 18,
+      "gas:candidate-vibid:22220001365504": 1,
+      "gas:candidate-vibid:22220001369052": 1,
+      "gas:candidate-vibid:22220001366101": 83,
+      "gas:candidate-vibid:22220001365558": 31,
+      "gas:candidate-vibid:22220001365410": 33,
+      "gas:candidate-vibid:22220001369029": 6
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/altai-terr?action=show&root=1000061&tvd=22220001272391&vrn=100100067795849&region=22&global=&sub_region=22&prver=0&pronetvd=null&vibid=22220001272391&type=464",
@@ -6191,14 +6191,14 @@ export const duma_2016_uik_463_region_22_part_007 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Богданов Юрий Дмитриевич": 5,
-      "Боровикова Евгения Анатольевна": 14,
-      "Кириллов Владимир Викторович": 5,
-      "Кондров Александр Юрьевич": 2,
-      "Лоор Иван Иванович": 134,
-      "Понарин Петр Петрович": 67,
-      "Терентьев Александр Васильевич": 41,
-      "Фурсенко Иван Витальевич": 13
+      "gas:candidate-vibid:22220001368915": 5,
+      "gas:candidate-vibid:22220001352041": 14,
+      "gas:candidate-vibid:22220001365504": 5,
+      "gas:candidate-vibid:22220001369052": 2,
+      "gas:candidate-vibid:22220001366101": 134,
+      "gas:candidate-vibid:22220001365558": 67,
+      "gas:candidate-vibid:22220001365410": 41,
+      "gas:candidate-vibid:22220001369029": 13
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/altai-terr?action=show&root=1000061&tvd=22220001272391&vrn=100100067795849&region=22&global=&sub_region=22&prver=0&pronetvd=null&vibid=22220001272391&type=464",
@@ -6249,14 +6249,14 @@ export const duma_2016_uik_463_region_22_part_007 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Богданов Юрий Дмитриевич": 3,
-      "Боровикова Евгения Анатольевна": 11,
-      "Кириллов Владимир Викторович": 1,
-      "Кондров Александр Юрьевич": 0,
-      "Лоор Иван Иванович": 77,
-      "Понарин Петр Петрович": 25,
-      "Терентьев Александр Васильевич": 33,
-      "Фурсенко Иван Витальевич": 4
+      "gas:candidate-vibid:22220001368915": 3,
+      "gas:candidate-vibid:22220001352041": 11,
+      "gas:candidate-vibid:22220001365504": 1,
+      "gas:candidate-vibid:22220001369052": 0,
+      "gas:candidate-vibid:22220001366101": 77,
+      "gas:candidate-vibid:22220001365558": 25,
+      "gas:candidate-vibid:22220001365410": 33,
+      "gas:candidate-vibid:22220001369029": 4
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/altai-terr?action=show&root=1000061&tvd=22220001272391&vrn=100100067795849&region=22&global=&sub_region=22&prver=0&pronetvd=null&vibid=22220001272391&type=464",
@@ -6307,14 +6307,14 @@ export const duma_2016_uik_463_region_22_part_007 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Богданов Юрий Дмитриевич": 5,
-      "Боровикова Евгения Анатольевна": 41,
-      "Кириллов Владимир Викторович": 3,
-      "Кондров Александр Юрьевич": 3,
-      "Лоор Иван Иванович": 102,
-      "Понарин Петр Петрович": 69,
-      "Терентьев Александр Васильевич": 67,
-      "Фурсенко Иван Витальевич": 11
+      "gas:candidate-vibid:22220001368915": 5,
+      "gas:candidate-vibid:22220001352041": 41,
+      "gas:candidate-vibid:22220001365504": 3,
+      "gas:candidate-vibid:22220001369052": 3,
+      "gas:candidate-vibid:22220001366101": 102,
+      "gas:candidate-vibid:22220001365558": 69,
+      "gas:candidate-vibid:22220001365410": 67,
+      "gas:candidate-vibid:22220001369029": 11
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/altai-terr?action=show&root=1000061&tvd=22220001272391&vrn=100100067795849&region=22&global=&sub_region=22&prver=0&pronetvd=null&vibid=22220001272391&type=464",
@@ -6365,14 +6365,14 @@ export const duma_2016_uik_463_region_22_part_007 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Богданов Юрий Дмитриевич": 7,
-      "Боровикова Евгения Анатольевна": 47,
-      "Кириллов Владимир Викторович": 2,
-      "Кондров Александр Юрьевич": 6,
-      "Лоор Иван Иванович": 95,
-      "Понарин Петр Петрович": 49,
-      "Терентьев Александр Васильевич": 102,
-      "Фурсенко Иван Витальевич": 14
+      "gas:candidate-vibid:22220001368915": 7,
+      "gas:candidate-vibid:22220001352041": 47,
+      "gas:candidate-vibid:22220001365504": 2,
+      "gas:candidate-vibid:22220001369052": 6,
+      "gas:candidate-vibid:22220001366101": 95,
+      "gas:candidate-vibid:22220001365558": 49,
+      "gas:candidate-vibid:22220001365410": 102,
+      "gas:candidate-vibid:22220001369029": 14
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/altai-terr?action=show&root=1000061&tvd=22220001272391&vrn=100100067795849&region=22&global=&sub_region=22&prver=0&pronetvd=null&vibid=22220001272391&type=464",
@@ -6423,14 +6423,14 @@ export const duma_2016_uik_463_region_22_part_007 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Богданов Юрий Дмитриевич": 3,
-      "Боровикова Евгения Анатольевна": 8,
-      "Кириллов Владимир Викторович": 3,
-      "Кондров Александр Юрьевич": 2,
-      "Лоор Иван Иванович": 26,
-      "Понарин Петр Петрович": 13,
-      "Терентьев Александр Васильевич": 30,
-      "Фурсенко Иван Витальевич": 5
+      "gas:candidate-vibid:22220001368915": 3,
+      "gas:candidate-vibid:22220001352041": 8,
+      "gas:candidate-vibid:22220001365504": 3,
+      "gas:candidate-vibid:22220001369052": 2,
+      "gas:candidate-vibid:22220001366101": 26,
+      "gas:candidate-vibid:22220001365558": 13,
+      "gas:candidate-vibid:22220001365410": 30,
+      "gas:candidate-vibid:22220001369029": 5
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/altai-terr?action=show&root=1000061&tvd=22220001272391&vrn=100100067795849&region=22&global=&sub_region=22&prver=0&pronetvd=null&vibid=22220001272391&type=464",
@@ -6481,14 +6481,14 @@ export const duma_2016_uik_463_region_22_part_007 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Богданов Юрий Дмитриевич": 18,
-      "Боровикова Евгения Анатольевна": 188,
-      "Кириллов Владимир Викторович": 13,
-      "Кондров Александр Юрьевич": 14,
-      "Лоор Иван Иванович": 545,
-      "Понарин Петр Петрович": 140,
-      "Терентьев Александр Васильевич": 136,
-      "Фурсенко Иван Витальевич": 31
+      "gas:candidate-vibid:22220001368915": 18,
+      "gas:candidate-vibid:22220001352041": 188,
+      "gas:candidate-vibid:22220001365504": 13,
+      "gas:candidate-vibid:22220001369052": 14,
+      "gas:candidate-vibid:22220001366101": 545,
+      "gas:candidate-vibid:22220001365558": 140,
+      "gas:candidate-vibid:22220001365410": 136,
+      "gas:candidate-vibid:22220001369029": 31
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/altai-terr?action=show&root=1000061&tvd=22220001272392&vrn=100100067795849&region=22&global=&sub_region=22&prver=0&pronetvd=null&vibid=22220001272392&type=464",
@@ -6539,14 +6539,14 @@ export const duma_2016_uik_463_region_22_part_007 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Богданов Юрий Дмитриевич": 8,
-      "Боровикова Евгения Анатольевна": 82,
-      "Кириллов Владимир Викторович": 3,
-      "Кондров Александр Юрьевич": 6,
-      "Лоор Иван Иванович": 255,
-      "Понарин Петр Петрович": 41,
-      "Терентьев Александр Васильевич": 53,
-      "Фурсенко Иван Витальевич": 11
+      "gas:candidate-vibid:22220001368915": 8,
+      "gas:candidate-vibid:22220001352041": 82,
+      "gas:candidate-vibid:22220001365504": 3,
+      "gas:candidate-vibid:22220001369052": 6,
+      "gas:candidate-vibid:22220001366101": 255,
+      "gas:candidate-vibid:22220001365558": 41,
+      "gas:candidate-vibid:22220001365410": 53,
+      "gas:candidate-vibid:22220001369029": 11
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/altai-terr?action=show&root=1000061&tvd=22220001272392&vrn=100100067795849&region=22&global=&sub_region=22&prver=0&pronetvd=null&vibid=22220001272392&type=464",
@@ -6597,14 +6597,14 @@ export const duma_2016_uik_463_region_22_part_007 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Богданов Юрий Дмитриевич": 13,
-      "Боровикова Евгения Анатольевна": 107,
-      "Кириллов Владимир Викторович": 5,
-      "Кондров Александр Юрьевич": 11,
-      "Лоор Иван Иванович": 414,
-      "Понарин Петр Петрович": 91,
-      "Терентьев Александр Васильевич": 122,
-      "Фурсенко Иван Витальевич": 15
+      "gas:candidate-vibid:22220001368915": 13,
+      "gas:candidate-vibid:22220001352041": 107,
+      "gas:candidate-vibid:22220001365504": 5,
+      "gas:candidate-vibid:22220001369052": 11,
+      "gas:candidate-vibid:22220001366101": 414,
+      "gas:candidate-vibid:22220001365558": 91,
+      "gas:candidate-vibid:22220001365410": 122,
+      "gas:candidate-vibid:22220001369029": 15
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/altai-terr?action=show&root=1000061&tvd=22220001272392&vrn=100100067795849&region=22&global=&sub_region=22&prver=0&pronetvd=null&vibid=22220001272392&type=464",
@@ -6655,14 +6655,14 @@ export const duma_2016_uik_463_region_22_part_007 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Богданов Юрий Дмитриевич": 15,
-      "Боровикова Евгения Анатольевна": 153,
-      "Кириллов Владимир Викторович": 6,
-      "Кондров Александр Юрьевич": 16,
-      "Лоор Иван Иванович": 461,
-      "Понарин Петр Петрович": 120,
-      "Терентьев Александр Васильевич": 143,
-      "Фурсенко Иван Витальевич": 25
+      "gas:candidate-vibid:22220001368915": 15,
+      "gas:candidate-vibid:22220001352041": 153,
+      "gas:candidate-vibid:22220001365504": 6,
+      "gas:candidate-vibid:22220001369052": 16,
+      "gas:candidate-vibid:22220001366101": 461,
+      "gas:candidate-vibid:22220001365558": 120,
+      "gas:candidate-vibid:22220001365410": 143,
+      "gas:candidate-vibid:22220001369029": 25
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/altai-terr?action=show&root=1000061&tvd=22220001272392&vrn=100100067795849&region=22&global=&sub_region=22&prver=0&pronetvd=null&vibid=22220001272392&type=464",
@@ -6713,14 +6713,14 @@ export const duma_2016_uik_463_region_22_part_007 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Богданов Юрий Дмитриевич": 12,
-      "Боровикова Евгения Анатольевна": 117,
-      "Кириллов Владимир Викторович": 8,
-      "Кондров Александр Юрьевич": 9,
-      "Лоор Иван Иванович": 367,
-      "Понарин Петр Петрович": 85,
-      "Терентьев Александр Васильевич": 73,
-      "Фурсенко Иван Витальевич": 21
+      "gas:candidate-vibid:22220001368915": 12,
+      "gas:candidate-vibid:22220001352041": 117,
+      "gas:candidate-vibid:22220001365504": 8,
+      "gas:candidate-vibid:22220001369052": 9,
+      "gas:candidate-vibid:22220001366101": 367,
+      "gas:candidate-vibid:22220001365558": 85,
+      "gas:candidate-vibid:22220001365410": 73,
+      "gas:candidate-vibid:22220001369029": 21
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/altai-terr?action=show&root=1000061&tvd=22220001272392&vrn=100100067795849&region=22&global=&sub_region=22&prver=0&pronetvd=null&vibid=22220001272392&type=464",
@@ -6771,14 +6771,14 @@ export const duma_2016_uik_463_region_22_part_007 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Богданов Юрий Дмитриевич": 3,
-      "Боровикова Евгения Анатольевна": 32,
-      "Кириллов Владимир Викторович": 3,
-      "Кондров Александр Юрьевич": 6,
-      "Лоор Иван Иванович": 140,
-      "Понарин Петр Петрович": 16,
-      "Терентьев Александр Васильевич": 24,
-      "Фурсенко Иван Витальевич": 8
+      "gas:candidate-vibid:22220001368915": 3,
+      "gas:candidate-vibid:22220001352041": 32,
+      "gas:candidate-vibid:22220001365504": 3,
+      "gas:candidate-vibid:22220001369052": 6,
+      "gas:candidate-vibid:22220001366101": 140,
+      "gas:candidate-vibid:22220001365558": 16,
+      "gas:candidate-vibid:22220001365410": 24,
+      "gas:candidate-vibid:22220001369029": 8
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/altai-terr?action=show&root=1000061&tvd=22220001272392&vrn=100100067795849&region=22&global=&sub_region=22&prver=0&pronetvd=null&vibid=22220001272392&type=464",
@@ -6829,14 +6829,14 @@ export const duma_2016_uik_463_region_22_part_007 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Богданов Юрий Дмитриевич": 5,
-      "Боровикова Евгения Анатольевна": 6,
-      "Кириллов Владимир Викторович": 1,
-      "Кондров Александр Юрьевич": 2,
-      "Лоор Иван Иванович": 47,
-      "Понарин Петр Петрович": 10,
-      "Терентьев Александр Васильевич": 1,
-      "Фурсенко Иван Витальевич": 1
+      "gas:candidate-vibid:22220001368915": 5,
+      "gas:candidate-vibid:22220001352041": 6,
+      "gas:candidate-vibid:22220001365504": 1,
+      "gas:candidate-vibid:22220001369052": 2,
+      "gas:candidate-vibid:22220001366101": 47,
+      "gas:candidate-vibid:22220001365558": 10,
+      "gas:candidate-vibid:22220001365410": 1,
+      "gas:candidate-vibid:22220001369029": 1
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/altai-terr?action=show&root=1000061&tvd=22220001272392&vrn=100100067795849&region=22&global=&sub_region=22&prver=0&pronetvd=null&vibid=22220001272392&type=464",
@@ -6887,14 +6887,14 @@ export const duma_2016_uik_463_region_22_part_007 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Богданов Юрий Дмитриевич": 4,
-      "Боровикова Евгения Анатольевна": 18,
-      "Кириллов Владимир Викторович": 7,
-      "Кондров Александр Юрьевич": 3,
-      "Лоор Иван Иванович": 202,
-      "Понарин Петр Петрович": 39,
-      "Терентьев Александр Васильевич": 36,
-      "Фурсенко Иван Витальевич": 13
+      "gas:candidate-vibid:22220001368915": 4,
+      "gas:candidate-vibid:22220001352041": 18,
+      "gas:candidate-vibid:22220001365504": 7,
+      "gas:candidate-vibid:22220001369052": 3,
+      "gas:candidate-vibid:22220001366101": 202,
+      "gas:candidate-vibid:22220001365558": 39,
+      "gas:candidate-vibid:22220001365410": 36,
+      "gas:candidate-vibid:22220001369029": 13
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/altai-terr?action=show&root=1000061&tvd=22220001272392&vrn=100100067795849&region=22&global=&sub_region=22&prver=0&pronetvd=null&vibid=22220001272392&type=464",
@@ -6945,14 +6945,14 @@ export const duma_2016_uik_463_region_22_part_007 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Богданов Юрий Дмитриевич": 4,
-      "Боровикова Евгения Анатольевна": 8,
-      "Кириллов Владимир Викторович": 2,
-      "Кондров Александр Юрьевич": 2,
-      "Лоор Иван Иванович": 40,
-      "Понарин Петр Петрович": 8,
-      "Терентьев Александр Васильевич": 8,
-      "Фурсенко Иван Витальевич": 1
+      "gas:candidate-vibid:22220001368915": 4,
+      "gas:candidate-vibid:22220001352041": 8,
+      "gas:candidate-vibid:22220001365504": 2,
+      "gas:candidate-vibid:22220001369052": 2,
+      "gas:candidate-vibid:22220001366101": 40,
+      "gas:candidate-vibid:22220001365558": 8,
+      "gas:candidate-vibid:22220001365410": 8,
+      "gas:candidate-vibid:22220001369029": 1
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/altai-terr?action=show&root=1000061&tvd=22220001272392&vrn=100100067795849&region=22&global=&sub_region=22&prver=0&pronetvd=null&vibid=22220001272392&type=464",
@@ -7003,14 +7003,14 @@ export const duma_2016_uik_463_region_22_part_007 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Богданов Юрий Дмитриевич": 1,
-      "Боровикова Евгения Анатольевна": 16,
-      "Кириллов Владимир Викторович": 0,
-      "Кондров Александр Юрьевич": 4,
-      "Лоор Иван Иванович": 48,
-      "Понарин Петр Петрович": 18,
-      "Терентьев Александр Васильевич": 6,
-      "Фурсенко Иван Витальевич": 8
+      "gas:candidate-vibid:22220001368915": 1,
+      "gas:candidate-vibid:22220001352041": 16,
+      "gas:candidate-vibid:22220001365504": 0,
+      "gas:candidate-vibid:22220001369052": 4,
+      "gas:candidate-vibid:22220001366101": 48,
+      "gas:candidate-vibid:22220001365558": 18,
+      "gas:candidate-vibid:22220001365410": 6,
+      "gas:candidate-vibid:22220001369029": 8
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/altai-terr?action=show&root=1000061&tvd=22220001272392&vrn=100100067795849&region=22&global=&sub_region=22&prver=0&pronetvd=null&vibid=22220001272392&type=464",
@@ -7061,14 +7061,14 @@ export const duma_2016_uik_463_region_22_part_007 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Богданов Юрий Дмитриевич": 7,
-      "Боровикова Евгения Анатольевна": 15,
-      "Кириллов Владимир Викторович": 2,
-      "Кондров Александр Юрьевич": 4,
-      "Лоор Иван Иванович": 106,
-      "Понарин Петр Петрович": 22,
-      "Терентьев Александр Васильевич": 21,
-      "Фурсенко Иван Витальевич": 7
+      "gas:candidate-vibid:22220001368915": 7,
+      "gas:candidate-vibid:22220001352041": 15,
+      "gas:candidate-vibid:22220001365504": 2,
+      "gas:candidate-vibid:22220001369052": 4,
+      "gas:candidate-vibid:22220001366101": 106,
+      "gas:candidate-vibid:22220001365558": 22,
+      "gas:candidate-vibid:22220001365410": 21,
+      "gas:candidate-vibid:22220001369029": 7
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/altai-terr?action=show&root=1000061&tvd=22220001272392&vrn=100100067795849&region=22&global=&sub_region=22&prver=0&pronetvd=null&vibid=22220001272392&type=464",
@@ -7119,14 +7119,14 @@ export const duma_2016_uik_463_region_22_part_007 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Богданов Юрий Дмитриевич": 4,
-      "Боровикова Евгения Анатольевна": 11,
-      "Кириллов Владимир Викторович": 0,
-      "Кондров Александр Юрьевич": 1,
-      "Лоор Иван Иванович": 95,
-      "Понарин Петр Петрович": 7,
-      "Терентьев Александр Васильевич": 18,
-      "Фурсенко Иван Витальевич": 2
+      "gas:candidate-vibid:22220001368915": 4,
+      "gas:candidate-vibid:22220001352041": 11,
+      "gas:candidate-vibid:22220001365504": 0,
+      "gas:candidate-vibid:22220001369052": 1,
+      "gas:candidate-vibid:22220001366101": 95,
+      "gas:candidate-vibid:22220001365558": 7,
+      "gas:candidate-vibid:22220001365410": 18,
+      "gas:candidate-vibid:22220001369029": 2
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/altai-terr?action=show&root=1000061&tvd=22220001272392&vrn=100100067795849&region=22&global=&sub_region=22&prver=0&pronetvd=null&vibid=22220001272392&type=464",
@@ -7177,14 +7177,14 @@ export const duma_2016_uik_463_region_22_part_007 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Богданов Юрий Дмитриевич": 6,
-      "Боровикова Евгения Анатольевна": 54,
-      "Кириллов Владимир Викторович": 9,
-      "Кондров Александр Юрьевич": 5,
-      "Лоор Иван Иванович": 222,
-      "Понарин Петр Петрович": 37,
-      "Терентьев Александр Васильевич": 72,
-      "Фурсенко Иван Витальевич": 12
+      "gas:candidate-vibid:22220001368915": 6,
+      "gas:candidate-vibid:22220001352041": 54,
+      "gas:candidate-vibid:22220001365504": 9,
+      "gas:candidate-vibid:22220001369052": 5,
+      "gas:candidate-vibid:22220001366101": 222,
+      "gas:candidate-vibid:22220001365558": 37,
+      "gas:candidate-vibid:22220001365410": 72,
+      "gas:candidate-vibid:22220001369029": 12
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/altai-terr?action=show&root=1000061&tvd=22220001272392&vrn=100100067795849&region=22&global=&sub_region=22&prver=0&pronetvd=null&vibid=22220001272392&type=464",
@@ -7235,14 +7235,14 @@ export const duma_2016_uik_463_region_22_part_007 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Богданов Юрий Дмитриевич": 3,
-      "Боровикова Евгения Анатольевна": 7,
-      "Кириллов Владимир Викторович": 0,
-      "Кондров Александр Юрьевич": 2,
-      "Лоор Иван Иванович": 48,
-      "Понарин Петр Петрович": 1,
-      "Терентьев Александр Васильевич": 5,
-      "Фурсенко Иван Витальевич": 0
+      "gas:candidate-vibid:22220001368915": 3,
+      "gas:candidate-vibid:22220001352041": 7,
+      "gas:candidate-vibid:22220001365504": 0,
+      "gas:candidate-vibid:22220001369052": 2,
+      "gas:candidate-vibid:22220001366101": 48,
+      "gas:candidate-vibid:22220001365558": 1,
+      "gas:candidate-vibid:22220001365410": 5,
+      "gas:candidate-vibid:22220001369029": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/altai-terr?action=show&root=1000061&tvd=22220001272392&vrn=100100067795849&region=22&global=&sub_region=22&prver=0&pronetvd=null&vibid=22220001272392&type=464",
@@ -7293,14 +7293,14 @@ export const duma_2016_uik_463_region_22_part_007 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Богданов Юрий Дмитриевич": 3,
-      "Боровикова Евгения Анатольевна": 16,
-      "Кириллов Владимир Викторович": 1,
-      "Кондров Александр Юрьевич": 1,
-      "Лоор Иван Иванович": 47,
-      "Понарин Петр Петрович": 4,
-      "Терентьев Александр Васильевич": 3,
-      "Фурсенко Иван Витальевич": 1
+      "gas:candidate-vibid:22220001368915": 3,
+      "gas:candidate-vibid:22220001352041": 16,
+      "gas:candidate-vibid:22220001365504": 1,
+      "gas:candidate-vibid:22220001369052": 1,
+      "gas:candidate-vibid:22220001366101": 47,
+      "gas:candidate-vibid:22220001365558": 4,
+      "gas:candidate-vibid:22220001365410": 3,
+      "gas:candidate-vibid:22220001369029": 1
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/altai-terr?action=show&root=1000061&tvd=22220001272392&vrn=100100067795849&region=22&global=&sub_region=22&prver=0&pronetvd=null&vibid=22220001272392&type=464",
@@ -7351,14 +7351,14 @@ export const duma_2016_uik_463_region_22_part_007 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Богданов Юрий Дмитриевич": 6,
-      "Боровикова Евгения Анатольевна": 19,
-      "Кириллов Владимир Викторович": 1,
-      "Кондров Александр Юрьевич": 2,
-      "Лоор Иван Иванович": 80,
-      "Понарин Петр Петрович": 9,
-      "Терентьев Александр Васильевич": 18,
-      "Фурсенко Иван Витальевич": 3
+      "gas:candidate-vibid:22220001368915": 6,
+      "gas:candidate-vibid:22220001352041": 19,
+      "gas:candidate-vibid:22220001365504": 1,
+      "gas:candidate-vibid:22220001369052": 2,
+      "gas:candidate-vibid:22220001366101": 80,
+      "gas:candidate-vibid:22220001365558": 9,
+      "gas:candidate-vibid:22220001365410": 18,
+      "gas:candidate-vibid:22220001369029": 3
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/altai-terr?action=show&root=1000061&tvd=22220001272392&vrn=100100067795849&region=22&global=&sub_region=22&prver=0&pronetvd=null&vibid=22220001272392&type=464",
@@ -7409,14 +7409,14 @@ export const duma_2016_uik_463_region_22_part_007 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Богданов Юрий Дмитриевич": 3,
-      "Боровикова Евгения Анатольевна": 23,
-      "Кириллов Владимир Викторович": 0,
-      "Кондров Александр Юрьевич": 1,
-      "Лоор Иван Иванович": 77,
-      "Понарин Петр Петрович": 10,
-      "Терентьев Александр Васильевич": 33,
-      "Фурсенко Иван Витальевич": 4
+      "gas:candidate-vibid:22220001368915": 3,
+      "gas:candidate-vibid:22220001352041": 23,
+      "gas:candidate-vibid:22220001365504": 0,
+      "gas:candidate-vibid:22220001369052": 1,
+      "gas:candidate-vibid:22220001366101": 77,
+      "gas:candidate-vibid:22220001365558": 10,
+      "gas:candidate-vibid:22220001365410": 33,
+      "gas:candidate-vibid:22220001369029": 4
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/altai-terr?action=show&root=1000061&tvd=22220001272392&vrn=100100067795849&region=22&global=&sub_region=22&prver=0&pronetvd=null&vibid=22220001272392&type=464",
@@ -7467,14 +7467,14 @@ export const duma_2016_uik_463_region_22_part_007 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Богданов Юрий Дмитриевич": 4,
-      "Боровикова Евгения Анатольевна": 3,
-      "Кириллов Владимир Викторович": 2,
-      "Кондров Александр Юрьевич": 0,
-      "Лоор Иван Иванович": 23,
-      "Понарин Петр Петрович": 6,
-      "Терентьев Александр Васильевич": 6,
-      "Фурсенко Иван Витальевич": 0
+      "gas:candidate-vibid:22220001368915": 4,
+      "gas:candidate-vibid:22220001352041": 3,
+      "gas:candidate-vibid:22220001365504": 2,
+      "gas:candidate-vibid:22220001369052": 0,
+      "gas:candidate-vibid:22220001366101": 23,
+      "gas:candidate-vibid:22220001365558": 6,
+      "gas:candidate-vibid:22220001365410": 6,
+      "gas:candidate-vibid:22220001369029": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/altai-terr?action=show&root=1000061&tvd=22220001272392&vrn=100100067795849&region=22&global=&sub_region=22&prver=0&pronetvd=null&vibid=22220001272392&type=464",
@@ -7525,14 +7525,14 @@ export const duma_2016_uik_463_region_22_part_007 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Богданов Юрий Дмитриевич": 1,
-      "Боровикова Евгения Анатольевна": 3,
-      "Кириллов Владимир Викторович": 3,
-      "Кондров Александр Юрьевич": 0,
-      "Лоор Иван Иванович": 37,
-      "Понарин Петр Петрович": 3,
-      "Терентьев Александр Васильевич": 3,
-      "Фурсенко Иван Витальевич": 0
+      "gas:candidate-vibid:22220001368915": 1,
+      "gas:candidate-vibid:22220001352041": 3,
+      "gas:candidate-vibid:22220001365504": 3,
+      "gas:candidate-vibid:22220001369052": 0,
+      "gas:candidate-vibid:22220001366101": 37,
+      "gas:candidate-vibid:22220001365558": 3,
+      "gas:candidate-vibid:22220001365410": 3,
+      "gas:candidate-vibid:22220001369029": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/altai-terr?action=show&root=1000061&tvd=22220001272392&vrn=100100067795849&region=22&global=&sub_region=22&prver=0&pronetvd=null&vibid=22220001272392&type=464",
@@ -7583,14 +7583,14 @@ export const duma_2016_uik_463_region_22_part_007 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Богданов Юрий Дмитриевич": 2,
-      "Боровикова Евгения Анатольевна": 7,
-      "Кириллов Владимир Викторович": 3,
-      "Кондров Александр Юрьевич": 3,
-      "Лоор Иван Иванович": 77,
-      "Понарин Петр Петрович": 10,
-      "Терентьев Александр Васильевич": 26,
-      "Фурсенко Иван Витальевич": 3
+      "gas:candidate-vibid:22220001368915": 2,
+      "gas:candidate-vibid:22220001352041": 7,
+      "gas:candidate-vibid:22220001365504": 3,
+      "gas:candidate-vibid:22220001369052": 3,
+      "gas:candidate-vibid:22220001366101": 77,
+      "gas:candidate-vibid:22220001365558": 10,
+      "gas:candidate-vibid:22220001365410": 26,
+      "gas:candidate-vibid:22220001369029": 3
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/altai-terr?action=show&root=1000061&tvd=22220001272392&vrn=100100067795849&region=22&global=&sub_region=22&prver=0&pronetvd=null&vibid=22220001272392&type=464",
@@ -7641,14 +7641,14 @@ export const duma_2016_uik_463_region_22_part_007 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Богданов Юрий Дмитриевич": 4,
-      "Боровикова Евгения Анатольевна": 9,
-      "Кириллов Владимир Викторович": 1,
-      "Кондров Александр Юрьевич": 2,
-      "Лоор Иван Иванович": 114,
-      "Понарин Петр Петрович": 7,
-      "Терентьев Александр Васильевич": 5,
-      "Фурсенко Иван Витальевич": 5
+      "gas:candidate-vibid:22220001368915": 4,
+      "gas:candidate-vibid:22220001352041": 9,
+      "gas:candidate-vibid:22220001365504": 1,
+      "gas:candidate-vibid:22220001369052": 2,
+      "gas:candidate-vibid:22220001366101": 114,
+      "gas:candidate-vibid:22220001365558": 7,
+      "gas:candidate-vibid:22220001365410": 5,
+      "gas:candidate-vibid:22220001369029": 5
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/altai-terr?action=show&root=1000061&tvd=22220001272392&vrn=100100067795849&region=22&global=&sub_region=22&prver=0&pronetvd=null&vibid=22220001272392&type=464",
@@ -7699,14 +7699,14 @@ export const duma_2016_uik_463_region_22_part_007 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Богданов Юрий Дмитриевич": 3,
-      "Боровикова Евгения Анатольевна": 6,
-      "Кириллов Владимир Викторович": 4,
-      "Кондров Александр Юрьевич": 1,
-      "Лоор Иван Иванович": 39,
-      "Понарин Петр Петрович": 16,
-      "Терентьев Александр Васильевич": 7,
-      "Фурсенко Иван Витальевич": 10
+      "gas:candidate-vibid:22220001368915": 3,
+      "gas:candidate-vibid:22220001352041": 6,
+      "gas:candidate-vibid:22220001365504": 4,
+      "gas:candidate-vibid:22220001369052": 1,
+      "gas:candidate-vibid:22220001366101": 39,
+      "gas:candidate-vibid:22220001365558": 16,
+      "gas:candidate-vibid:22220001365410": 7,
+      "gas:candidate-vibid:22220001369029": 10
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/altai-terr?action=show&root=1000061&tvd=22220001272392&vrn=100100067795849&region=22&global=&sub_region=22&prver=0&pronetvd=null&vibid=22220001272392&type=464",
@@ -7757,14 +7757,14 @@ export const duma_2016_uik_463_region_22_part_007 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Богданов Юрий Дмитриевич": 3,
-      "Боровикова Евгения Анатольевна": 19,
-      "Кириллов Владимир Викторович": 2,
-      "Кондров Александр Юрьевич": 1,
-      "Лоор Иван Иванович": 129,
-      "Понарин Петр Петрович": 11,
-      "Терентьев Александр Васильевич": 19,
-      "Фурсенко Иван Витальевич": 2
+      "gas:candidate-vibid:22220001368915": 3,
+      "gas:candidate-vibid:22220001352041": 19,
+      "gas:candidate-vibid:22220001365504": 2,
+      "gas:candidate-vibid:22220001369052": 1,
+      "gas:candidate-vibid:22220001366101": 129,
+      "gas:candidate-vibid:22220001365558": 11,
+      "gas:candidate-vibid:22220001365410": 19,
+      "gas:candidate-vibid:22220001369029": 2
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/altai-terr?action=show&root=1000061&tvd=22220001272392&vrn=100100067795849&region=22&global=&sub_region=22&prver=0&pronetvd=null&vibid=22220001272392&type=464",
@@ -7815,14 +7815,14 @@ export const duma_2016_uik_463_region_22_part_007 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Богданов Юрий Дмитриевич": 1,
-      "Боровикова Евгения Анатольевна": 6,
-      "Кириллов Владимир Викторович": 2,
-      "Кондров Александр Юрьевич": 0,
-      "Лоор Иван Иванович": 148,
-      "Понарин Петр Петрович": 5,
-      "Терентьев Александр Васильевич": 17,
-      "Фурсенко Иван Витальевич": 5
+      "gas:candidate-vibid:22220001368915": 1,
+      "gas:candidate-vibid:22220001352041": 6,
+      "gas:candidate-vibid:22220001365504": 2,
+      "gas:candidate-vibid:22220001369052": 0,
+      "gas:candidate-vibid:22220001366101": 148,
+      "gas:candidate-vibid:22220001365558": 5,
+      "gas:candidate-vibid:22220001365410": 17,
+      "gas:candidate-vibid:22220001369029": 5
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/altai-terr?action=show&root=1000061&tvd=22220001272392&vrn=100100067795849&region=22&global=&sub_region=22&prver=0&pronetvd=null&vibid=22220001272392&type=464",
@@ -7873,14 +7873,14 @@ export const duma_2016_uik_463_region_22_part_007 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Богданов Юрий Дмитриевич": 15,
-      "Боровикова Евгения Анатольевна": 68,
-      "Кириллов Владимир Викторович": 2,
-      "Кондров Александр Юрьевич": 5,
-      "Лоор Иван Иванович": 204,
-      "Понарин Петр Петрович": 36,
-      "Терентьев Александр Васильевич": 78,
-      "Фурсенко Иван Витальевич": 9
+      "gas:candidate-vibid:22220001368915": 15,
+      "gas:candidate-vibid:22220001352041": 68,
+      "gas:candidate-vibid:22220001365504": 2,
+      "gas:candidate-vibid:22220001369052": 5,
+      "gas:candidate-vibid:22220001366101": 204,
+      "gas:candidate-vibid:22220001365558": 36,
+      "gas:candidate-vibid:22220001365410": 78,
+      "gas:candidate-vibid:22220001369029": 9
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/altai-terr?action=show&root=1000061&tvd=22220001272392&vrn=100100067795849&region=22&global=&sub_region=22&prver=0&pronetvd=null&vibid=22220001272392&type=464",
@@ -7931,14 +7931,14 @@ export const duma_2016_uik_463_region_22_part_007 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Богданов Юрий Дмитриевич": 12,
-      "Боровикова Евгения Анатольевна": 131,
-      "Кириллов Владимир Викторович": 10,
-      "Кондров Александр Юрьевич": 14,
-      "Лоор Иван Иванович": 339,
-      "Понарин Петр Петрович": 80,
-      "Терентьев Александр Васильевич": 87,
-      "Фурсенко Иван Витальевич": 21
+      "gas:candidate-vibid:22220001368915": 12,
+      "gas:candidate-vibid:22220001352041": 131,
+      "gas:candidate-vibid:22220001365504": 10,
+      "gas:candidate-vibid:22220001369052": 14,
+      "gas:candidate-vibid:22220001366101": 339,
+      "gas:candidate-vibid:22220001365558": 80,
+      "gas:candidate-vibid:22220001365410": 87,
+      "gas:candidate-vibid:22220001369029": 21
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/altai-terr?action=show&root=1000061&tvd=22220001272392&vrn=100100067795849&region=22&global=&sub_region=22&prver=0&pronetvd=null&vibid=22220001272392&type=464",
@@ -7989,14 +7989,14 @@ export const duma_2016_uik_463_region_22_part_007 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Богданов Юрий Дмитриевич": 5,
-      "Боровикова Евгения Анатольевна": 45,
-      "Кириллов Владимир Викторович": 6,
-      "Кондров Александр Юрьевич": 7,
-      "Лоор Иван Иванович": 210,
-      "Понарин Петр Петрович": 50,
-      "Терентьев Александр Васильевич": 53,
-      "Фурсенко Иван Витальевич": 14
+      "gas:candidate-vibid:22220001368915": 5,
+      "gas:candidate-vibid:22220001352041": 45,
+      "gas:candidate-vibid:22220001365504": 6,
+      "gas:candidate-vibid:22220001369052": 7,
+      "gas:candidate-vibid:22220001366101": 210,
+      "gas:candidate-vibid:22220001365558": 50,
+      "gas:candidate-vibid:22220001365410": 53,
+      "gas:candidate-vibid:22220001369029": 14
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/altai-terr?action=show&root=1000061&tvd=22220001272392&vrn=100100067795849&region=22&global=&sub_region=22&prver=0&pronetvd=null&vibid=22220001272392&type=464",
@@ -8047,14 +8047,14 @@ export const duma_2016_uik_463_region_22_part_007 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Богданов Юрий Дмитриевич": 2,
-      "Боровикова Евгения Анатольевна": 22,
-      "Кириллов Владимир Викторович": 0,
-      "Кондров Александр Юрьевич": 4,
-      "Лоор Иван Иванович": 71,
-      "Понарин Петр Петрович": 13,
-      "Терентьев Александр Васильевич": 24,
-      "Фурсенко Иван Витальевич": 0
+      "gas:candidate-vibid:22220001368915": 2,
+      "gas:candidate-vibid:22220001352041": 22,
+      "gas:candidate-vibid:22220001365504": 0,
+      "gas:candidate-vibid:22220001369052": 4,
+      "gas:candidate-vibid:22220001366101": 71,
+      "gas:candidate-vibid:22220001365558": 13,
+      "gas:candidate-vibid:22220001365410": 24,
+      "gas:candidate-vibid:22220001369029": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/altai-terr?action=show&root=1000061&tvd=22220001272392&vrn=100100067795849&region=22&global=&sub_region=22&prver=0&pronetvd=null&vibid=22220001272392&type=464",
@@ -8105,14 +8105,14 @@ export const duma_2016_uik_463_region_22_part_007 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Богданов Юрий Дмитриевич": 1,
-      "Боровикова Евгения Анатольевна": 2,
-      "Кириллов Владимир Викторович": 1,
-      "Кондров Александр Юрьевич": 0,
-      "Лоор Иван Иванович": 29,
-      "Понарин Петр Петрович": 2,
-      "Терентьев Александр Васильевич": 5,
-      "Фурсенко Иван Витальевич": 1
+      "gas:candidate-vibid:22220001368915": 1,
+      "gas:candidate-vibid:22220001352041": 2,
+      "gas:candidate-vibid:22220001365504": 1,
+      "gas:candidate-vibid:22220001369052": 0,
+      "gas:candidate-vibid:22220001366101": 29,
+      "gas:candidate-vibid:22220001365558": 2,
+      "gas:candidate-vibid:22220001365410": 5,
+      "gas:candidate-vibid:22220001369029": 1
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/altai-terr?action=show&root=1000061&tvd=22220001272393&vrn=100100067795849&region=22&global=&sub_region=22&prver=0&pronetvd=null&vibid=22220001272393&type=464",
@@ -8163,14 +8163,14 @@ export const duma_2016_uik_463_region_22_part_007 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Богданов Юрий Дмитриевич": 1,
-      "Боровикова Евгения Анатольевна": 18,
-      "Кириллов Владимир Викторович": 3,
-      "Кондров Александр Юрьевич": 2,
-      "Лоор Иван Иванович": 79,
-      "Понарин Петр Петрович": 3,
-      "Терентьев Александр Васильевич": 34,
-      "Фурсенко Иван Витальевич": 1
+      "gas:candidate-vibid:22220001368915": 1,
+      "gas:candidate-vibid:22220001352041": 18,
+      "gas:candidate-vibid:22220001365504": 3,
+      "gas:candidate-vibid:22220001369052": 2,
+      "gas:candidate-vibid:22220001366101": 79,
+      "gas:candidate-vibid:22220001365558": 3,
+      "gas:candidate-vibid:22220001365410": 34,
+      "gas:candidate-vibid:22220001369029": 1
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/altai-terr?action=show&root=1000061&tvd=22220001272393&vrn=100100067795849&region=22&global=&sub_region=22&prver=0&pronetvd=null&vibid=22220001272393&type=464",
@@ -8221,14 +8221,14 @@ export const duma_2016_uik_463_region_22_part_007 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Богданов Юрий Дмитриевич": 3,
-      "Боровикова Евгения Анатольевна": 9,
-      "Кириллов Владимир Викторович": 4,
-      "Кондров Александр Юрьевич": 2,
-      "Лоор Иван Иванович": 120,
-      "Понарин Петр Петрович": 11,
-      "Терентьев Александр Васильевич": 136,
-      "Фурсенко Иван Витальевич": 6
+      "gas:candidate-vibid:22220001368915": 3,
+      "gas:candidate-vibid:22220001352041": 9,
+      "gas:candidate-vibid:22220001365504": 4,
+      "gas:candidate-vibid:22220001369052": 2,
+      "gas:candidate-vibid:22220001366101": 120,
+      "gas:candidate-vibid:22220001365558": 11,
+      "gas:candidate-vibid:22220001365410": 136,
+      "gas:candidate-vibid:22220001369029": 6
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/altai-terr?action=show&root=1000061&tvd=22220001272393&vrn=100100067795849&region=22&global=&sub_region=22&prver=0&pronetvd=null&vibid=22220001272393&type=464",
@@ -8279,14 +8279,14 @@ export const duma_2016_uik_463_region_22_part_007 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Богданов Юрий Дмитриевич": 10,
-      "Боровикова Евгения Анатольевна": 30,
-      "Кириллов Владимир Викторович": 3,
-      "Кондров Александр Юрьевич": 10,
-      "Лоор Иван Иванович": 213,
-      "Понарин Петр Петрович": 36,
-      "Терентьев Александр Васильевич": 124,
-      "Фурсенко Иван Витальевич": 6
+      "gas:candidate-vibid:22220001368915": 10,
+      "gas:candidate-vibid:22220001352041": 30,
+      "gas:candidate-vibid:22220001365504": 3,
+      "gas:candidate-vibid:22220001369052": 10,
+      "gas:candidate-vibid:22220001366101": 213,
+      "gas:candidate-vibid:22220001365558": 36,
+      "gas:candidate-vibid:22220001365410": 124,
+      "gas:candidate-vibid:22220001369029": 6
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/altai-terr?action=show&root=1000061&tvd=22220001272393&vrn=100100067795849&region=22&global=&sub_region=22&prver=0&pronetvd=null&vibid=22220001272393&type=464",
@@ -8337,14 +8337,14 @@ export const duma_2016_uik_463_region_22_part_007 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Богданов Юрий Дмитриевич": 8,
-      "Боровикова Евгения Анатольевна": 44,
-      "Кириллов Владимир Викторович": 6,
-      "Кондров Александр Юрьевич": 5,
-      "Лоор Иван Иванович": 179,
-      "Понарин Петр Петрович": 27,
-      "Терентьев Александр Васильевич": 149,
-      "Фурсенко Иван Витальевич": 10
+      "gas:candidate-vibid:22220001368915": 8,
+      "gas:candidate-vibid:22220001352041": 44,
+      "gas:candidate-vibid:22220001365504": 6,
+      "gas:candidate-vibid:22220001369052": 5,
+      "gas:candidate-vibid:22220001366101": 179,
+      "gas:candidate-vibid:22220001365558": 27,
+      "gas:candidate-vibid:22220001365410": 149,
+      "gas:candidate-vibid:22220001369029": 10
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/altai-terr?action=show&root=1000061&tvd=22220001272393&vrn=100100067795849&region=22&global=&sub_region=22&prver=0&pronetvd=null&vibid=22220001272393&type=464",
@@ -8395,14 +8395,14 @@ export const duma_2016_uik_463_region_22_part_007 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Богданов Юрий Дмитриевич": 4,
-      "Боровикова Евгения Анатольевна": 8,
-      "Кириллов Владимир Викторович": 3,
-      "Кондров Александр Юрьевич": 4,
-      "Лоор Иван Иванович": 96,
-      "Понарин Петр Петрович": 20,
-      "Терентьев Александр Васильевич": 87,
-      "Фурсенко Иван Витальевич": 8
+      "gas:candidate-vibid:22220001368915": 4,
+      "gas:candidate-vibid:22220001352041": 8,
+      "gas:candidate-vibid:22220001365504": 3,
+      "gas:candidate-vibid:22220001369052": 4,
+      "gas:candidate-vibid:22220001366101": 96,
+      "gas:candidate-vibid:22220001365558": 20,
+      "gas:candidate-vibid:22220001365410": 87,
+      "gas:candidate-vibid:22220001369029": 8
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/altai-terr?action=show&root=1000061&tvd=22220001272393&vrn=100100067795849&region=22&global=&sub_region=22&prver=0&pronetvd=null&vibid=22220001272393&type=464",
@@ -8453,14 +8453,14 @@ export const duma_2016_uik_463_region_22_part_007 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Богданов Юрий Дмитриевич": 0,
-      "Боровикова Евгения Анатольевна": 3,
-      "Кириллов Владимир Викторович": 1,
-      "Кондров Александр Юрьевич": 1,
-      "Лоор Иван Иванович": 19,
-      "Понарин Петр Петрович": 1,
-      "Терентьев Александр Васильевич": 24,
-      "Фурсенко Иван Витальевич": 1
+      "gas:candidate-vibid:22220001368915": 0,
+      "gas:candidate-vibid:22220001352041": 3,
+      "gas:candidate-vibid:22220001365504": 1,
+      "gas:candidate-vibid:22220001369052": 1,
+      "gas:candidate-vibid:22220001366101": 19,
+      "gas:candidate-vibid:22220001365558": 1,
+      "gas:candidate-vibid:22220001365410": 24,
+      "gas:candidate-vibid:22220001369029": 1
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/altai-terr?action=show&root=1000061&tvd=22220001272393&vrn=100100067795849&region=22&global=&sub_region=22&prver=0&pronetvd=null&vibid=22220001272393&type=464",
@@ -8511,14 +8511,14 @@ export const duma_2016_uik_463_region_22_part_007 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Богданов Юрий Дмитриевич": 10,
-      "Боровикова Евгения Анатольевна": 48,
-      "Кириллов Владимир Викторович": 0,
-      "Кондров Александр Юрьевич": 4,
-      "Лоор Иван Иванович": 223,
-      "Понарин Петр Петрович": 55,
-      "Терентьев Александр Васильевич": 275,
-      "Фурсенко Иван Витальевич": 12
+      "gas:candidate-vibid:22220001368915": 10,
+      "gas:candidate-vibid:22220001352041": 48,
+      "gas:candidate-vibid:22220001365504": 0,
+      "gas:candidate-vibid:22220001369052": 4,
+      "gas:candidate-vibid:22220001366101": 223,
+      "gas:candidate-vibid:22220001365558": 55,
+      "gas:candidate-vibid:22220001365410": 275,
+      "gas:candidate-vibid:22220001369029": 12
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/altai-terr?action=show&root=1000061&tvd=22220001272393&vrn=100100067795849&region=22&global=&sub_region=22&prver=0&pronetvd=null&vibid=22220001272393&type=464",
@@ -8569,14 +8569,14 @@ export const duma_2016_uik_463_region_22_part_007 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Богданов Юрий Дмитриевич": 9,
-      "Боровикова Евгения Анатольевна": 60,
-      "Кириллов Владимир Викторович": 6,
-      "Кондров Александр Юрьевич": 4,
-      "Лоор Иван Иванович": 206,
-      "Понарин Петр Петрович": 42,
-      "Терентьев Александр Васильевич": 235,
-      "Фурсенко Иван Витальевич": 10
+      "gas:candidate-vibid:22220001368915": 9,
+      "gas:candidate-vibid:22220001352041": 60,
+      "gas:candidate-vibid:22220001365504": 6,
+      "gas:candidate-vibid:22220001369052": 4,
+      "gas:candidate-vibid:22220001366101": 206,
+      "gas:candidate-vibid:22220001365558": 42,
+      "gas:candidate-vibid:22220001365410": 235,
+      "gas:candidate-vibid:22220001369029": 10
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/altai-terr?action=show&root=1000061&tvd=22220001272393&vrn=100100067795849&region=22&global=&sub_region=22&prver=0&pronetvd=null&vibid=22220001272393&type=464",
@@ -8627,14 +8627,14 @@ export const duma_2016_uik_463_region_22_part_007 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Богданов Юрий Дмитриевич": 8,
-      "Боровикова Евгения Анатольевна": 19,
-      "Кириллов Владимир Викторович": 2,
-      "Кондров Александр Юрьевич": 2,
-      "Лоор Иван Иванович": 101,
-      "Понарин Петр Петрович": 16,
-      "Терентьев Александр Васильевич": 71,
-      "Фурсенко Иван Витальевич": 1
+      "gas:candidate-vibid:22220001368915": 8,
+      "gas:candidate-vibid:22220001352041": 19,
+      "gas:candidate-vibid:22220001365504": 2,
+      "gas:candidate-vibid:22220001369052": 2,
+      "gas:candidate-vibid:22220001366101": 101,
+      "gas:candidate-vibid:22220001365558": 16,
+      "gas:candidate-vibid:22220001365410": 71,
+      "gas:candidate-vibid:22220001369029": 1
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/altai-terr?action=show&root=1000061&tvd=22220001272393&vrn=100100067795849&region=22&global=&sub_region=22&prver=0&pronetvd=null&vibid=22220001272393&type=464",
@@ -8685,14 +8685,14 @@ export const duma_2016_uik_463_region_22_part_007 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Богданов Юрий Дмитриевич": 0,
-      "Боровикова Евгения Анатольевна": 6,
-      "Кириллов Владимир Викторович": 1,
-      "Кондров Александр Юрьевич": 0,
-      "Лоор Иван Иванович": 24,
-      "Понарин Петр Петрович": 2,
-      "Терентьев Александр Васильевич": 23,
-      "Фурсенко Иван Витальевич": 2
+      "gas:candidate-vibid:22220001368915": 0,
+      "gas:candidate-vibid:22220001352041": 6,
+      "gas:candidate-vibid:22220001365504": 1,
+      "gas:candidate-vibid:22220001369052": 0,
+      "gas:candidate-vibid:22220001366101": 24,
+      "gas:candidate-vibid:22220001365558": 2,
+      "gas:candidate-vibid:22220001365410": 23,
+      "gas:candidate-vibid:22220001369029": 2
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/altai-terr?action=show&root=1000061&tvd=22220001272393&vrn=100100067795849&region=22&global=&sub_region=22&prver=0&pronetvd=null&vibid=22220001272393&type=464",
@@ -8743,14 +8743,14 @@ export const duma_2016_uik_463_region_22_part_007 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Богданов Юрий Дмитриевич": 5,
-      "Боровикова Евгения Анатольевна": 14,
-      "Кириллов Владимир Викторович": 1,
-      "Кондров Александр Юрьевич": 1,
-      "Лоор Иван Иванович": 77,
-      "Понарин Петр Петрович": 18,
-      "Терентьев Александр Васильевич": 26,
-      "Фурсенко Иван Витальевич": 2
+      "gas:candidate-vibid:22220001368915": 5,
+      "gas:candidate-vibid:22220001352041": 14,
+      "gas:candidate-vibid:22220001365504": 1,
+      "gas:candidate-vibid:22220001369052": 1,
+      "gas:candidate-vibid:22220001366101": 77,
+      "gas:candidate-vibid:22220001365558": 18,
+      "gas:candidate-vibid:22220001365410": 26,
+      "gas:candidate-vibid:22220001369029": 2
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/altai-terr?action=show&root=1000061&tvd=22220001272393&vrn=100100067795849&region=22&global=&sub_region=22&prver=0&pronetvd=null&vibid=22220001272393&type=464",
@@ -8801,14 +8801,14 @@ export const duma_2016_uik_463_region_22_part_007 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Богданов Юрий Дмитриевич": 6,
-      "Боровикова Евгения Анатольевна": 27,
-      "Кириллов Владимир Викторович": 3,
-      "Кондров Александр Юрьевич": 8,
-      "Лоор Иван Иванович": 193,
-      "Понарин Петр Петрович": 28,
-      "Терентьев Александр Васильевич": 104,
-      "Фурсенко Иван Витальевич": 3
+      "gas:candidate-vibid:22220001368915": 6,
+      "gas:candidate-vibid:22220001352041": 27,
+      "gas:candidate-vibid:22220001365504": 3,
+      "gas:candidate-vibid:22220001369052": 8,
+      "gas:candidate-vibid:22220001366101": 193,
+      "gas:candidate-vibid:22220001365558": 28,
+      "gas:candidate-vibid:22220001365410": 104,
+      "gas:candidate-vibid:22220001369029": 3
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/altai-terr?action=show&root=1000061&tvd=22220001272393&vrn=100100067795849&region=22&global=&sub_region=22&prver=0&pronetvd=null&vibid=22220001272393&type=464",
@@ -8859,14 +8859,14 @@ export const duma_2016_uik_463_region_22_part_007 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Богданов Юрий Дмитриевич": 0,
-      "Боровикова Евгения Анатольевна": 10,
-      "Кириллов Владимир Викторович": 0,
-      "Кондров Александр Юрьевич": 0,
-      "Лоор Иван Иванович": 36,
-      "Понарин Петр Петрович": 3,
-      "Терентьев Александр Васильевич": 37,
-      "Фурсенко Иван Витальевич": 3
+      "gas:candidate-vibid:22220001368915": 0,
+      "gas:candidate-vibid:22220001352041": 10,
+      "gas:candidate-vibid:22220001365504": 0,
+      "gas:candidate-vibid:22220001369052": 0,
+      "gas:candidate-vibid:22220001366101": 36,
+      "gas:candidate-vibid:22220001365558": 3,
+      "gas:candidate-vibid:22220001365410": 37,
+      "gas:candidate-vibid:22220001369029": 3
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/altai-terr?action=show&root=1000061&tvd=22220001272393&vrn=100100067795849&region=22&global=&sub_region=22&prver=0&pronetvd=null&vibid=22220001272393&type=464",
@@ -8917,14 +8917,14 @@ export const duma_2016_uik_463_region_22_part_007 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Богданов Юрий Дмитриевич": 13,
-      "Боровикова Евгения Анатольевна": 206,
-      "Кириллов Владимир Викторович": 13,
-      "Кондров Александр Юрьевич": 20,
-      "Лоор Иван Иванович": 394,
-      "Понарин Петр Петрович": 169,
-      "Терентьев Александр Васильевич": 215,
-      "Фурсенко Иван Витальевич": 33
+      "gas:candidate-vibid:22220001368915": 13,
+      "gas:candidate-vibid:22220001352041": 206,
+      "gas:candidate-vibid:22220001365504": 13,
+      "gas:candidate-vibid:22220001369052": 20,
+      "gas:candidate-vibid:22220001366101": 394,
+      "gas:candidate-vibid:22220001365558": 169,
+      "gas:candidate-vibid:22220001365410": 215,
+      "gas:candidate-vibid:22220001369029": 33
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/altai-terr?action=show&root=1000061&tvd=22220001272394&vrn=100100067795849&region=22&global=&sub_region=22&prver=0&pronetvd=null&vibid=22220001272394&type=464",
@@ -8975,14 +8975,14 @@ export const duma_2016_uik_463_region_22_part_007 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Богданов Юрий Дмитриевич": 21,
-      "Боровикова Евгения Анатольевна": 174,
-      "Кириллов Владимир Викторович": 11,
-      "Кондров Александр Юрьевич": 11,
-      "Лоор Иван Иванович": 441,
-      "Понарин Петр Петрович": 155,
-      "Терентьев Александр Васильевич": 226,
-      "Фурсенко Иван Витальевич": 29
+      "gas:candidate-vibid:22220001368915": 21,
+      "gas:candidate-vibid:22220001352041": 174,
+      "gas:candidate-vibid:22220001365504": 11,
+      "gas:candidate-vibid:22220001369052": 11,
+      "gas:candidate-vibid:22220001366101": 441,
+      "gas:candidate-vibid:22220001365558": 155,
+      "gas:candidate-vibid:22220001365410": 226,
+      "gas:candidate-vibid:22220001369029": 29
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/altai-terr?action=show&root=1000061&tvd=22220001272394&vrn=100100067795849&region=22&global=&sub_region=22&prver=0&pronetvd=null&vibid=22220001272394&type=464",
@@ -9033,14 +9033,14 @@ export const duma_2016_uik_463_region_22_part_007 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Богданов Юрий Дмитриевич": 15,
-      "Боровикова Евгения Анатольевна": 168,
-      "Кириллов Владимир Викторович": 8,
-      "Кондров Александр Юрьевич": 10,
-      "Лоор Иван Иванович": 285,
-      "Понарин Петр Петрович": 82,
-      "Терентьев Александр Васильевич": 139,
-      "Фурсенко Иван Витальевич": 29
+      "gas:candidate-vibid:22220001368915": 15,
+      "gas:candidate-vibid:22220001352041": 168,
+      "gas:candidate-vibid:22220001365504": 8,
+      "gas:candidate-vibid:22220001369052": 10,
+      "gas:candidate-vibid:22220001366101": 285,
+      "gas:candidate-vibid:22220001365558": 82,
+      "gas:candidate-vibid:22220001365410": 139,
+      "gas:candidate-vibid:22220001369029": 29
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/altai-terr?action=show&root=1000061&tvd=22220001272394&vrn=100100067795849&region=22&global=&sub_region=22&prver=0&pronetvd=null&vibid=22220001272394&type=464",
@@ -9091,14 +9091,14 @@ export const duma_2016_uik_463_region_22_part_007 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Богданов Юрий Дмитриевич": 7,
-      "Боровикова Евгения Анатольевна": 70,
-      "Кириллов Владимир Викторович": 10,
-      "Кондров Александр Юрьевич": 7,
-      "Лоор Иван Иванович": 202,
-      "Понарин Петр Петрович": 72,
-      "Терентьев Александр Васильевич": 118,
-      "Фурсенко Иван Витальевич": 16
+      "gas:candidate-vibid:22220001368915": 7,
+      "gas:candidate-vibid:22220001352041": 70,
+      "gas:candidate-vibid:22220001365504": 10,
+      "gas:candidate-vibid:22220001369052": 7,
+      "gas:candidate-vibid:22220001366101": 202,
+      "gas:candidate-vibid:22220001365558": 72,
+      "gas:candidate-vibid:22220001365410": 118,
+      "gas:candidate-vibid:22220001369029": 16
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/altai-terr?action=show&root=1000061&tvd=22220001272394&vrn=100100067795849&region=22&global=&sub_region=22&prver=0&pronetvd=null&vibid=22220001272394&type=464",
@@ -9149,14 +9149,14 @@ export const duma_2016_uik_463_region_22_part_007 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Богданов Юрий Дмитриевич": 10,
-      "Боровикова Евгения Анатольевна": 93,
-      "Кириллов Владимир Викторович": 3,
-      "Кондров Александр Юрьевич": 5,
-      "Лоор Иван Иванович": 214,
-      "Понарин Петр Петрович": 56,
-      "Терентьев Александр Васильевич": 78,
-      "Фурсенко Иван Витальевич": 25
+      "gas:candidate-vibid:22220001368915": 10,
+      "gas:candidate-vibid:22220001352041": 93,
+      "gas:candidate-vibid:22220001365504": 3,
+      "gas:candidate-vibid:22220001369052": 5,
+      "gas:candidate-vibid:22220001366101": 214,
+      "gas:candidate-vibid:22220001365558": 56,
+      "gas:candidate-vibid:22220001365410": 78,
+      "gas:candidate-vibid:22220001369029": 25
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/altai-terr?action=show&root=1000061&tvd=22220001272394&vrn=100100067795849&region=22&global=&sub_region=22&prver=0&pronetvd=null&vibid=22220001272394&type=464",
@@ -9207,14 +9207,14 @@ export const duma_2016_uik_463_region_22_part_007 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Богданов Юрий Дмитриевич": 6,
-      "Боровикова Евгения Анатольевна": 93,
-      "Кириллов Владимир Викторович": 6,
-      "Кондров Александр Юрьевич": 2,
-      "Лоор Иван Иванович": 141,
-      "Понарин Петр Петрович": 47,
-      "Терентьев Александр Васильевич": 112,
-      "Фурсенко Иван Витальевич": 15
+      "gas:candidate-vibid:22220001368915": 6,
+      "gas:candidate-vibid:22220001352041": 93,
+      "gas:candidate-vibid:22220001365504": 6,
+      "gas:candidate-vibid:22220001369052": 2,
+      "gas:candidate-vibid:22220001366101": 141,
+      "gas:candidate-vibid:22220001365558": 47,
+      "gas:candidate-vibid:22220001365410": 112,
+      "gas:candidate-vibid:22220001369029": 15
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/altai-terr?action=show&root=1000061&tvd=22220001272394&vrn=100100067795849&region=22&global=&sub_region=22&prver=0&pronetvd=null&vibid=22220001272394&type=464",
@@ -9265,14 +9265,14 @@ export const duma_2016_uik_463_region_22_part_007 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Богданов Юрий Дмитриевич": 2,
-      "Боровикова Евгения Анатольевна": 11,
-      "Кириллов Владимир Викторович": 1,
-      "Кондров Александр Юрьевич": 1,
-      "Лоор Иван Иванович": 25,
-      "Понарин Петр Петрович": 33,
-      "Терентьев Александр Васильевич": 15,
-      "Фурсенко Иван Витальевич": 3
+      "gas:candidate-vibid:22220001368915": 2,
+      "gas:candidate-vibid:22220001352041": 11,
+      "gas:candidate-vibid:22220001365504": 1,
+      "gas:candidate-vibid:22220001369052": 1,
+      "gas:candidate-vibid:22220001366101": 25,
+      "gas:candidate-vibid:22220001365558": 33,
+      "gas:candidate-vibid:22220001365410": 15,
+      "gas:candidate-vibid:22220001369029": 3
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/altai-terr?action=show&root=1000061&tvd=22220001272394&vrn=100100067795849&region=22&global=&sub_region=22&prver=0&pronetvd=null&vibid=22220001272394&type=464",
@@ -9323,14 +9323,14 @@ export const duma_2016_uik_463_region_22_part_007 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Богданов Юрий Дмитриевич": 1,
-      "Боровикова Евгения Анатольевна": 25,
-      "Кириллов Владимир Викторович": 4,
-      "Кондров Александр Юрьевич": 2,
-      "Лоор Иван Иванович": 114,
-      "Понарин Петр Петрович": 28,
-      "Терентьев Александр Васильевич": 69,
-      "Фурсенко Иван Витальевич": 7
+      "gas:candidate-vibid:22220001368915": 1,
+      "gas:candidate-vibid:22220001352041": 25,
+      "gas:candidate-vibid:22220001365504": 4,
+      "gas:candidate-vibid:22220001369052": 2,
+      "gas:candidate-vibid:22220001366101": 114,
+      "gas:candidate-vibid:22220001365558": 28,
+      "gas:candidate-vibid:22220001365410": 69,
+      "gas:candidate-vibid:22220001369029": 7
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/altai-terr?action=show&root=1000061&tvd=22220001272394&vrn=100100067795849&region=22&global=&sub_region=22&prver=0&pronetvd=null&vibid=22220001272394&type=464",
@@ -9381,14 +9381,14 @@ export const duma_2016_uik_463_region_22_part_007 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Богданов Юрий Дмитриевич": 6,
-      "Боровикова Евгения Анатольевна": 23,
-      "Кириллов Владимир Викторович": 2,
-      "Кондров Александр Юрьевич": 4,
-      "Лоор Иван Иванович": 157,
-      "Понарин Петр Петрович": 40,
-      "Терентьев Александр Васильевич": 76,
-      "Фурсенко Иван Витальевич": 17
+      "gas:candidate-vibid:22220001368915": 6,
+      "gas:candidate-vibid:22220001352041": 23,
+      "gas:candidate-vibid:22220001365504": 2,
+      "gas:candidate-vibid:22220001369052": 4,
+      "gas:candidate-vibid:22220001366101": 157,
+      "gas:candidate-vibid:22220001365558": 40,
+      "gas:candidate-vibid:22220001365410": 76,
+      "gas:candidate-vibid:22220001369029": 17
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/altai-terr?action=show&root=1000061&tvd=22220001272394&vrn=100100067795849&region=22&global=&sub_region=22&prver=0&pronetvd=null&vibid=22220001272394&type=464",
@@ -9439,14 +9439,14 @@ export const duma_2016_uik_463_region_22_part_007 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Богданов Юрий Дмитриевич": 0,
-      "Боровикова Евгения Анатольевна": 3,
-      "Кириллов Владимир Викторович": 1,
-      "Кондров Александр Юрьевич": 0,
-      "Лоор Иван Иванович": 42,
-      "Понарин Петр Петрович": 5,
-      "Терентьев Александр Васильевич": 9,
-      "Фурсенко Иван Витальевич": 2
+      "gas:candidate-vibid:22220001368915": 0,
+      "gas:candidate-vibid:22220001352041": 3,
+      "gas:candidate-vibid:22220001365504": 1,
+      "gas:candidate-vibid:22220001369052": 0,
+      "gas:candidate-vibid:22220001366101": 42,
+      "gas:candidate-vibid:22220001365558": 5,
+      "gas:candidate-vibid:22220001365410": 9,
+      "gas:candidate-vibid:22220001369029": 2
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/altai-terr?action=show&root=1000061&tvd=22220001272394&vrn=100100067795849&region=22&global=&sub_region=22&prver=0&pronetvd=null&vibid=22220001272394&type=464",
@@ -9497,14 +9497,14 @@ export const duma_2016_uik_463_region_22_part_007 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Богданов Юрий Дмитриевич": 8,
-      "Боровикова Евгения Анатольевна": 31,
-      "Кириллов Владимир Викторович": 3,
-      "Кондров Александр Юрьевич": 3,
-      "Лоор Иван Иванович": 95,
-      "Понарин Петр Петрович": 19,
-      "Терентьев Александр Васильевич": 41,
-      "Фурсенко Иван Витальевич": 8
+      "gas:candidate-vibid:22220001368915": 8,
+      "gas:candidate-vibid:22220001352041": 31,
+      "gas:candidate-vibid:22220001365504": 3,
+      "gas:candidate-vibid:22220001369052": 3,
+      "gas:candidate-vibid:22220001366101": 95,
+      "gas:candidate-vibid:22220001365558": 19,
+      "gas:candidate-vibid:22220001365410": 41,
+      "gas:candidate-vibid:22220001369029": 8
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/altai-terr?action=show&root=1000061&tvd=22220001272394&vrn=100100067795849&region=22&global=&sub_region=22&prver=0&pronetvd=null&vibid=22220001272394&type=464",
@@ -9555,14 +9555,14 @@ export const duma_2016_uik_463_region_22_part_007 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Богданов Юрий Дмитриевич": 1,
-      "Боровикова Евгения Анатольевна": 4,
-      "Кириллов Владимир Викторович": 0,
-      "Кондров Александр Юрьевич": 0,
-      "Лоор Иван Иванович": 21,
-      "Понарин Петр Петрович": 11,
-      "Терентьев Александр Васильевич": 12,
-      "Фурсенко Иван Витальевич": 2
+      "gas:candidate-vibid:22220001368915": 1,
+      "gas:candidate-vibid:22220001352041": 4,
+      "gas:candidate-vibid:22220001365504": 0,
+      "gas:candidate-vibid:22220001369052": 0,
+      "gas:candidate-vibid:22220001366101": 21,
+      "gas:candidate-vibid:22220001365558": 11,
+      "gas:candidate-vibid:22220001365410": 12,
+      "gas:candidate-vibid:22220001369029": 2
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/altai-terr?action=show&root=1000061&tvd=22220001272394&vrn=100100067795849&region=22&global=&sub_region=22&prver=0&pronetvd=null&vibid=22220001272394&type=464",
@@ -9613,14 +9613,14 @@ export const duma_2016_uik_463_region_22_part_007 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Богданов Юрий Дмитриевич": 7,
-      "Боровикова Евгения Анатольевна": 10,
-      "Кириллов Владимир Викторович": 1,
-      "Кондров Александр Юрьевич": 1,
-      "Лоор Иван Иванович": 60,
-      "Понарин Петр Петрович": 17,
-      "Терентьев Александр Васильевич": 15,
-      "Фурсенко Иван Витальевич": 5
+      "gas:candidate-vibid:22220001368915": 7,
+      "gas:candidate-vibid:22220001352041": 10,
+      "gas:candidate-vibid:22220001365504": 1,
+      "gas:candidate-vibid:22220001369052": 1,
+      "gas:candidate-vibid:22220001366101": 60,
+      "gas:candidate-vibid:22220001365558": 17,
+      "gas:candidate-vibid:22220001365410": 15,
+      "gas:candidate-vibid:22220001369029": 5
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/altai-terr?action=show&root=1000061&tvd=22220001272394&vrn=100100067795849&region=22&global=&sub_region=22&prver=0&pronetvd=null&vibid=22220001272394&type=464",
@@ -9671,14 +9671,14 @@ export const duma_2016_uik_463_region_22_part_007 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Богданов Юрий Дмитриевич": 4,
-      "Боровикова Евгения Анатольевна": 12,
-      "Кириллов Владимир Викторович": 0,
-      "Кондров Александр Юрьевич": 2,
-      "Лоор Иван Иванович": 90,
-      "Понарин Петр Петрович": 22,
-      "Терентьев Александр Васильевич": 36,
-      "Фурсенко Иван Витальевич": 5
+      "gas:candidate-vibid:22220001368915": 4,
+      "gas:candidate-vibid:22220001352041": 12,
+      "gas:candidate-vibid:22220001365504": 0,
+      "gas:candidate-vibid:22220001369052": 2,
+      "gas:candidate-vibid:22220001366101": 90,
+      "gas:candidate-vibid:22220001365558": 22,
+      "gas:candidate-vibid:22220001365410": 36,
+      "gas:candidate-vibid:22220001369029": 5
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/altai-terr?action=show&root=1000061&tvd=22220001272394&vrn=100100067795849&region=22&global=&sub_region=22&prver=0&pronetvd=null&vibid=22220001272394&type=464",
@@ -9729,14 +9729,14 @@ export const duma_2016_uik_463_region_22_part_007 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Богданов Юрий Дмитриевич": 8,
-      "Боровикова Евгения Анатольевна": 44,
-      "Кириллов Владимир Викторович": 3,
-      "Кондров Александр Юрьевич": 1,
-      "Лоор Иван Иванович": 93,
-      "Понарин Петр Петрович": 89,
-      "Терентьев Александр Васильевич": 75,
-      "Фурсенко Иван Витальевич": 12
+      "gas:candidate-vibid:22220001368915": 8,
+      "gas:candidate-vibid:22220001352041": 44,
+      "gas:candidate-vibid:22220001365504": 3,
+      "gas:candidate-vibid:22220001369052": 1,
+      "gas:candidate-vibid:22220001366101": 93,
+      "gas:candidate-vibid:22220001365558": 89,
+      "gas:candidate-vibid:22220001365410": 75,
+      "gas:candidate-vibid:22220001369029": 12
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/altai-terr?action=show&root=1000061&tvd=22220001272394&vrn=100100067795849&region=22&global=&sub_region=22&prver=0&pronetvd=null&vibid=22220001272394&type=464",
@@ -9787,14 +9787,14 @@ export const duma_2016_uik_463_region_22_part_007 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Богданов Юрий Дмитриевич": 2,
-      "Боровикова Евгения Анатольевна": 18,
-      "Кириллов Владимир Викторович": 4,
-      "Кондров Александр Юрьевич": 2,
-      "Лоор Иван Иванович": 98,
-      "Понарин Петр Петрович": 24,
-      "Терентьев Александр Васильевич": 16,
-      "Фурсенко Иван Витальевич": 4
+      "gas:candidate-vibid:22220001368915": 2,
+      "gas:candidate-vibid:22220001352041": 18,
+      "gas:candidate-vibid:22220001365504": 4,
+      "gas:candidate-vibid:22220001369052": 2,
+      "gas:candidate-vibid:22220001366101": 98,
+      "gas:candidate-vibid:22220001365558": 24,
+      "gas:candidate-vibid:22220001365410": 16,
+      "gas:candidate-vibid:22220001369029": 4
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/altai-terr?action=show&root=1000061&tvd=22220001272394&vrn=100100067795849&region=22&global=&sub_region=22&prver=0&pronetvd=null&vibid=22220001272394&type=464",
@@ -9845,14 +9845,14 @@ export const duma_2016_uik_463_region_22_part_007 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Богданов Юрий Дмитриевич": 3,
-      "Боровикова Евгения Анатольевна": 48,
-      "Кириллов Владимир Викторович": 4,
-      "Кондров Александр Юрьевич": 6,
-      "Лоор Иван Иванович": 113,
-      "Понарин Петр Петрович": 28,
-      "Терентьев Александр Васильевич": 153,
-      "Фурсенко Иван Витальевич": 10
+      "gas:candidate-vibid:22220001368915": 3,
+      "gas:candidate-vibid:22220001352041": 48,
+      "gas:candidate-vibid:22220001365504": 4,
+      "gas:candidate-vibid:22220001369052": 6,
+      "gas:candidate-vibid:22220001366101": 113,
+      "gas:candidate-vibid:22220001365558": 28,
+      "gas:candidate-vibid:22220001365410": 153,
+      "gas:candidate-vibid:22220001369029": 10
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/altai-terr?action=show&root=1000061&tvd=22220001272395&vrn=100100067795849&region=22&global=&sub_region=22&prver=0&pronetvd=null&vibid=22220001272395&type=464",
@@ -9903,14 +9903,14 @@ export const duma_2016_uik_463_region_22_part_007 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Богданов Юрий Дмитриевич": 6,
-      "Боровикова Евгения Анатольевна": 47,
-      "Кириллов Владимир Викторович": 5,
-      "Кондров Александр Юрьевич": 6,
-      "Лоор Иван Иванович": 165,
-      "Понарин Петр Петрович": 35,
-      "Терентьев Александр Васильевич": 154,
-      "Фурсенко Иван Витальевич": 7
+      "gas:candidate-vibid:22220001368915": 6,
+      "gas:candidate-vibid:22220001352041": 47,
+      "gas:candidate-vibid:22220001365504": 5,
+      "gas:candidate-vibid:22220001369052": 6,
+      "gas:candidate-vibid:22220001366101": 165,
+      "gas:candidate-vibid:22220001365558": 35,
+      "gas:candidate-vibid:22220001365410": 154,
+      "gas:candidate-vibid:22220001369029": 7
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/altai-terr?action=show&root=1000061&tvd=22220001272395&vrn=100100067795849&region=22&global=&sub_region=22&prver=0&pronetvd=null&vibid=22220001272395&type=464",
@@ -9961,14 +9961,14 @@ export const duma_2016_uik_463_region_22_part_007 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Богданов Юрий Дмитриевич": 0,
-      "Боровикова Евгения Анатольевна": 29,
-      "Кириллов Владимир Викторович": 3,
-      "Кондров Александр Юрьевич": 0,
-      "Лоор Иван Иванович": 72,
-      "Понарин Петр Петрович": 14,
-      "Терентьев Александр Васильевич": 88,
-      "Фурсенко Иван Витальевич": 6
+      "gas:candidate-vibid:22220001368915": 0,
+      "gas:candidate-vibid:22220001352041": 29,
+      "gas:candidate-vibid:22220001365504": 3,
+      "gas:candidate-vibid:22220001369052": 0,
+      "gas:candidate-vibid:22220001366101": 72,
+      "gas:candidate-vibid:22220001365558": 14,
+      "gas:candidate-vibid:22220001365410": 88,
+      "gas:candidate-vibid:22220001369029": 6
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/altai-terr?action=show&root=1000061&tvd=22220001272395&vrn=100100067795849&region=22&global=&sub_region=22&prver=0&pronetvd=null&vibid=22220001272395&type=464",
@@ -10019,14 +10019,14 @@ export const duma_2016_uik_463_region_22_part_007 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Богданов Юрий Дмитриевич": 5,
-      "Боровикова Евгения Анатольевна": 62,
-      "Кириллов Владимир Викторович": 11,
-      "Кондров Александр Юрьевич": 3,
-      "Лоор Иван Иванович": 163,
-      "Понарин Петр Петрович": 51,
-      "Терентьев Александр Васильевич": 166,
-      "Фурсенко Иван Витальевич": 14
+      "gas:candidate-vibid:22220001368915": 5,
+      "gas:candidate-vibid:22220001352041": 62,
+      "gas:candidate-vibid:22220001365504": 11,
+      "gas:candidate-vibid:22220001369052": 3,
+      "gas:candidate-vibid:22220001366101": 163,
+      "gas:candidate-vibid:22220001365558": 51,
+      "gas:candidate-vibid:22220001365410": 166,
+      "gas:candidate-vibid:22220001369029": 14
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/altai-terr?action=show&root=1000061&tvd=22220001272395&vrn=100100067795849&region=22&global=&sub_region=22&prver=0&pronetvd=null&vibid=22220001272395&type=464",
@@ -10077,14 +10077,14 @@ export const duma_2016_uik_463_region_22_part_007 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Богданов Юрий Дмитриевич": 6,
-      "Боровикова Евгения Анатольевна": 51,
-      "Кириллов Владимир Викторович": 4,
-      "Кондров Александр Юрьевич": 9,
-      "Лоор Иван Иванович": 166,
-      "Понарин Петр Петрович": 51,
-      "Терентьев Александр Васильевич": 196,
-      "Фурсенко Иван Витальевич": 8
+      "gas:candidate-vibid:22220001368915": 6,
+      "gas:candidate-vibid:22220001352041": 51,
+      "gas:candidate-vibid:22220001365504": 4,
+      "gas:candidate-vibid:22220001369052": 9,
+      "gas:candidate-vibid:22220001366101": 166,
+      "gas:candidate-vibid:22220001365558": 51,
+      "gas:candidate-vibid:22220001365410": 196,
+      "gas:candidate-vibid:22220001369029": 8
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/altai-terr?action=show&root=1000061&tvd=22220001272395&vrn=100100067795849&region=22&global=&sub_region=22&prver=0&pronetvd=null&vibid=22220001272395&type=464",
@@ -10135,14 +10135,14 @@ export const duma_2016_uik_463_region_22_part_007 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Богданов Юрий Дмитриевич": 6,
-      "Боровикова Евгения Анатольевна": 50,
-      "Кириллов Владимир Викторович": 7,
-      "Кондров Александр Юрьевич": 10,
-      "Лоор Иван Иванович": 203,
-      "Понарин Петр Петрович": 58,
-      "Терентьев Александр Васильевич": 262,
-      "Фурсенко Иван Витальевич": 16
+      "gas:candidate-vibid:22220001368915": 6,
+      "gas:candidate-vibid:22220001352041": 50,
+      "gas:candidate-vibid:22220001365504": 7,
+      "gas:candidate-vibid:22220001369052": 10,
+      "gas:candidate-vibid:22220001366101": 203,
+      "gas:candidate-vibid:22220001365558": 58,
+      "gas:candidate-vibid:22220001365410": 262,
+      "gas:candidate-vibid:22220001369029": 16
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/altai-terr?action=show&root=1000061&tvd=22220001272395&vrn=100100067795849&region=22&global=&sub_region=22&prver=0&pronetvd=null&vibid=22220001272395&type=464",
@@ -10193,14 +10193,14 @@ export const duma_2016_uik_463_region_22_part_007 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Богданов Юрий Дмитриевич": 9,
-      "Боровикова Евгения Анатольевна": 50,
-      "Кириллов Владимир Викторович": 8,
-      "Кондров Александр Юрьевич": 15,
-      "Лоор Иван Иванович": 204,
-      "Понарин Петр Петрович": 51,
-      "Терентьев Александр Васильевич": 265,
-      "Фурсенко Иван Витальевич": 16
+      "gas:candidate-vibid:22220001368915": 9,
+      "gas:candidate-vibid:22220001352041": 50,
+      "gas:candidate-vibid:22220001365504": 8,
+      "gas:candidate-vibid:22220001369052": 15,
+      "gas:candidate-vibid:22220001366101": 204,
+      "gas:candidate-vibid:22220001365558": 51,
+      "gas:candidate-vibid:22220001365410": 265,
+      "gas:candidate-vibid:22220001369029": 16
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/altai-terr?action=show&root=1000061&tvd=22220001272395&vrn=100100067795849&region=22&global=&sub_region=22&prver=0&pronetvd=null&vibid=22220001272395&type=464",
@@ -10251,14 +10251,14 @@ export const duma_2016_uik_463_region_22_part_007 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Богданов Юрий Дмитриевич": 11,
-      "Боровикова Евгения Анатольевна": 61,
-      "Кириллов Владимир Викторович": 7,
-      "Кондров Александр Юрьевич": 12,
-      "Лоор Иван Иванович": 268,
-      "Понарин Петр Петрович": 65,
-      "Терентьев Александр Васильевич": 225,
-      "Фурсенко Иван Витальевич": 14
+      "gas:candidate-vibid:22220001368915": 11,
+      "gas:candidate-vibid:22220001352041": 61,
+      "gas:candidate-vibid:22220001365504": 7,
+      "gas:candidate-vibid:22220001369052": 12,
+      "gas:candidate-vibid:22220001366101": 268,
+      "gas:candidate-vibid:22220001365558": 65,
+      "gas:candidate-vibid:22220001365410": 225,
+      "gas:candidate-vibid:22220001369029": 14
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/altai-terr?action=show&root=1000061&tvd=22220001272395&vrn=100100067795849&region=22&global=&sub_region=22&prver=0&pronetvd=null&vibid=22220001272395&type=464",
@@ -10309,14 +10309,14 @@ export const duma_2016_uik_463_region_22_part_007 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Богданов Юрий Дмитриевич": 11,
-      "Боровикова Евгения Анатольевна": 76,
-      "Кириллов Владимир Викторович": 2,
-      "Кондров Александр Юрьевич": 6,
-      "Лоор Иван Иванович": 197,
-      "Понарин Петр Петрович": 45,
-      "Терентьев Александр Васильевич": 141,
-      "Фурсенко Иван Витальевич": 13
+      "gas:candidate-vibid:22220001368915": 11,
+      "gas:candidate-vibid:22220001352041": 76,
+      "gas:candidate-vibid:22220001365504": 2,
+      "gas:candidate-vibid:22220001369052": 6,
+      "gas:candidate-vibid:22220001366101": 197,
+      "gas:candidate-vibid:22220001365558": 45,
+      "gas:candidate-vibid:22220001365410": 141,
+      "gas:candidate-vibid:22220001369029": 13
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/altai-terr?action=show&root=1000061&tvd=22220001272395&vrn=100100067795849&region=22&global=&sub_region=22&prver=0&pronetvd=null&vibid=22220001272395&type=464",
@@ -10367,14 +10367,14 @@ export const duma_2016_uik_463_region_22_part_007 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Богданов Юрий Дмитриевич": 11,
-      "Боровикова Евгения Анатольевна": 69,
-      "Кириллов Владимир Викторович": 6,
-      "Кондров Александр Юрьевич": 3,
-      "Лоор Иван Иванович": 209,
-      "Понарин Петр Петрович": 63,
-      "Терентьев Александр Васильевич": 205,
-      "Фурсенко Иван Витальевич": 9
+      "gas:candidate-vibid:22220001368915": 11,
+      "gas:candidate-vibid:22220001352041": 69,
+      "gas:candidate-vibid:22220001365504": 6,
+      "gas:candidate-vibid:22220001369052": 3,
+      "gas:candidate-vibid:22220001366101": 209,
+      "gas:candidate-vibid:22220001365558": 63,
+      "gas:candidate-vibid:22220001365410": 205,
+      "gas:candidate-vibid:22220001369029": 9
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/altai-terr?action=show&root=1000061&tvd=22220001272395&vrn=100100067795849&region=22&global=&sub_region=22&prver=0&pronetvd=null&vibid=22220001272395&type=464",
@@ -10425,14 +10425,14 @@ export const duma_2016_uik_463_region_22_part_007 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Богданов Юрий Дмитриевич": 10,
-      "Боровикова Евгения Анатольевна": 60,
-      "Кириллов Владимир Викторович": 5,
-      "Кондров Александр Юрьевич": 6,
-      "Лоор Иван Иванович": 141,
-      "Понарин Петр Петрович": 65,
-      "Терентьев Александр Васильевич": 174,
-      "Фурсенко Иван Витальевич": 8
+      "gas:candidate-vibid:22220001368915": 10,
+      "gas:candidate-vibid:22220001352041": 60,
+      "gas:candidate-vibid:22220001365504": 5,
+      "gas:candidate-vibid:22220001369052": 6,
+      "gas:candidate-vibid:22220001366101": 141,
+      "gas:candidate-vibid:22220001365558": 65,
+      "gas:candidate-vibid:22220001365410": 174,
+      "gas:candidate-vibid:22220001369029": 8
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/altai-terr?action=show&root=1000061&tvd=22220001272395&vrn=100100067795849&region=22&global=&sub_region=22&prver=0&pronetvd=null&vibid=22220001272395&type=464",
@@ -10483,14 +10483,14 @@ export const duma_2016_uik_463_region_22_part_007 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Богданов Юрий Дмитриевич": 11,
-      "Боровикова Евгения Анатольевна": 54,
-      "Кириллов Владимир Викторович": 6,
-      "Кондров Александр Юрьевич": 4,
-      "Лоор Иван Иванович": 166,
-      "Понарин Петр Петрович": 53,
-      "Терентьев Александр Васильевич": 220,
-      "Фурсенко Иван Витальевич": 11
+      "gas:candidate-vibid:22220001368915": 11,
+      "gas:candidate-vibid:22220001352041": 54,
+      "gas:candidate-vibid:22220001365504": 6,
+      "gas:candidate-vibid:22220001369052": 4,
+      "gas:candidate-vibid:22220001366101": 166,
+      "gas:candidate-vibid:22220001365558": 53,
+      "gas:candidate-vibid:22220001365410": 220,
+      "gas:candidate-vibid:22220001369029": 11
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/altai-terr?action=show&root=1000061&tvd=22220001272395&vrn=100100067795849&region=22&global=&sub_region=22&prver=0&pronetvd=null&vibid=22220001272395&type=464",
@@ -10541,14 +10541,14 @@ export const duma_2016_uik_463_region_22_part_007 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Богданов Юрий Дмитриевич": 13,
-      "Боровикова Евгения Анатольевна": 59,
-      "Кириллов Владимир Викторович": 9,
-      "Кондров Александр Юрьевич": 14,
-      "Лоор Иван Иванович": 194,
-      "Понарин Петр Петрович": 47,
-      "Терентьев Александр Васильевич": 129,
-      "Фурсенко Иван Витальевич": 19
+      "gas:candidate-vibid:22220001368915": 13,
+      "gas:candidate-vibid:22220001352041": 59,
+      "gas:candidate-vibid:22220001365504": 9,
+      "gas:candidate-vibid:22220001369052": 14,
+      "gas:candidate-vibid:22220001366101": 194,
+      "gas:candidate-vibid:22220001365558": 47,
+      "gas:candidate-vibid:22220001365410": 129,
+      "gas:candidate-vibid:22220001369029": 19
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/altai-terr?action=show&root=1000061&tvd=22220001272395&vrn=100100067795849&region=22&global=&sub_region=22&prver=0&pronetvd=null&vibid=22220001272395&type=464",
@@ -10599,14 +10599,14 @@ export const duma_2016_uik_463_region_22_part_007 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Богданов Юрий Дмитриевич": 11,
-      "Боровикова Евгения Анатольевна": 64,
-      "Кириллов Владимир Викторович": 6,
-      "Кондров Александр Юрьевич": 11,
-      "Лоор Иван Иванович": 242,
-      "Понарин Петр Петрович": 96,
-      "Терентьев Александр Васильевич": 278,
-      "Фурсенко Иван Витальевич": 23
+      "gas:candidate-vibid:22220001368915": 11,
+      "gas:candidate-vibid:22220001352041": 64,
+      "gas:candidate-vibid:22220001365504": 6,
+      "gas:candidate-vibid:22220001369052": 11,
+      "gas:candidate-vibid:22220001366101": 242,
+      "gas:candidate-vibid:22220001365558": 96,
+      "gas:candidate-vibid:22220001365410": 278,
+      "gas:candidate-vibid:22220001369029": 23
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/altai-terr?action=show&root=1000061&tvd=22220001272395&vrn=100100067795849&region=22&global=&sub_region=22&prver=0&pronetvd=null&vibid=22220001272395&type=464",
@@ -10657,14 +10657,14 @@ export const duma_2016_uik_463_region_22_part_007 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Богданов Юрий Дмитриевич": 6,
-      "Боровикова Евгения Анатольевна": 55,
-      "Кириллов Владимир Викторович": 5,
-      "Кондров Александр Юрьевич": 6,
-      "Лоор Иван Иванович": 196,
-      "Понарин Петр Петрович": 57,
-      "Терентьев Александр Васильевич": 239,
-      "Фурсенко Иван Витальевич": 11
+      "gas:candidate-vibid:22220001368915": 6,
+      "gas:candidate-vibid:22220001352041": 55,
+      "gas:candidate-vibid:22220001365504": 5,
+      "gas:candidate-vibid:22220001369052": 6,
+      "gas:candidate-vibid:22220001366101": 196,
+      "gas:candidate-vibid:22220001365558": 57,
+      "gas:candidate-vibid:22220001365410": 239,
+      "gas:candidate-vibid:22220001369029": 11
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/altai-terr?action=show&root=1000061&tvd=22220001272395&vrn=100100067795849&region=22&global=&sub_region=22&prver=0&pronetvd=null&vibid=22220001272395&type=464",
@@ -10715,14 +10715,14 @@ export const duma_2016_uik_463_region_22_part_007 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Богданов Юрий Дмитриевич": 6,
-      "Боровикова Евгения Анатольевна": 53,
-      "Кириллов Владимир Викторович": 4,
-      "Кондров Александр Юрьевич": 8,
-      "Лоор Иван Иванович": 159,
-      "Понарин Петр Петрович": 57,
-      "Терентьев Александр Васильевич": 170,
-      "Фурсенко Иван Витальевич": 10
+      "gas:candidate-vibid:22220001368915": 6,
+      "gas:candidate-vibid:22220001352041": 53,
+      "gas:candidate-vibid:22220001365504": 4,
+      "gas:candidate-vibid:22220001369052": 8,
+      "gas:candidate-vibid:22220001366101": 159,
+      "gas:candidate-vibid:22220001365558": 57,
+      "gas:candidate-vibid:22220001365410": 170,
+      "gas:candidate-vibid:22220001369029": 10
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/altai-terr?action=show&root=1000061&tvd=22220001272395&vrn=100100067795849&region=22&global=&sub_region=22&prver=0&pronetvd=null&vibid=22220001272395&type=464",
@@ -10773,14 +10773,14 @@ export const duma_2016_uik_463_region_22_part_007 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Богданов Юрий Дмитриевич": 6,
-      "Боровикова Евгения Анатольевна": 63,
-      "Кириллов Владимир Викторович": 6,
-      "Кондров Александр Юрьевич": 6,
-      "Лоор Иван Иванович": 169,
-      "Понарин Петр Петрович": 44,
-      "Терентьев Александр Васильевич": 214,
-      "Фурсенко Иван Витальевич": 11
+      "gas:candidate-vibid:22220001368915": 6,
+      "gas:candidate-vibid:22220001352041": 63,
+      "gas:candidate-vibid:22220001365504": 6,
+      "gas:candidate-vibid:22220001369052": 6,
+      "gas:candidate-vibid:22220001366101": 169,
+      "gas:candidate-vibid:22220001365558": 44,
+      "gas:candidate-vibid:22220001365410": 214,
+      "gas:candidate-vibid:22220001369029": 11
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/altai-terr?action=show&root=1000061&tvd=22220001272395&vrn=100100067795849&region=22&global=&sub_region=22&prver=0&pronetvd=null&vibid=22220001272395&type=464",
@@ -10831,14 +10831,14 @@ export const duma_2016_uik_463_region_22_part_007 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Богданов Юрий Дмитриевич": 12,
-      "Боровикова Евгения Анатольевна": 51,
-      "Кириллов Владимир Викторович": 4,
-      "Кондров Александр Юрьевич": 13,
-      "Лоор Иван Иванович": 211,
-      "Понарин Петр Петрович": 75,
-      "Терентьев Александр Васильевич": 287,
-      "Фурсенко Иван Витальевич": 19
+      "gas:candidate-vibid:22220001368915": 12,
+      "gas:candidate-vibid:22220001352041": 51,
+      "gas:candidate-vibid:22220001365504": 4,
+      "gas:candidate-vibid:22220001369052": 13,
+      "gas:candidate-vibid:22220001366101": 211,
+      "gas:candidate-vibid:22220001365558": 75,
+      "gas:candidate-vibid:22220001365410": 287,
+      "gas:candidate-vibid:22220001369029": 19
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/altai-terr?action=show&root=1000061&tvd=22220001272395&vrn=100100067795849&region=22&global=&sub_region=22&prver=0&pronetvd=null&vibid=22220001272395&type=464",
@@ -10889,14 +10889,14 @@ export const duma_2016_uik_463_region_22_part_007 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Богданов Юрий Дмитриевич": 9,
-      "Боровикова Евгения Анатольевна": 83,
-      "Кириллов Владимир Викторович": 9,
-      "Кондров Александр Юрьевич": 6,
-      "Лоор Иван Иванович": 220,
-      "Понарин Петр Петрович": 74,
-      "Терентьев Александр Васильевич": 192,
-      "Фурсенко Иван Витальевич": 23
+      "gas:candidate-vibid:22220001368915": 9,
+      "gas:candidate-vibid:22220001352041": 83,
+      "gas:candidate-vibid:22220001365504": 9,
+      "gas:candidate-vibid:22220001369052": 6,
+      "gas:candidate-vibid:22220001366101": 220,
+      "gas:candidate-vibid:22220001365558": 74,
+      "gas:candidate-vibid:22220001365410": 192,
+      "gas:candidate-vibid:22220001369029": 23
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/altai-terr?action=show&root=1000061&tvd=22220001272395&vrn=100100067795849&region=22&global=&sub_region=22&prver=0&pronetvd=null&vibid=22220001272395&type=464",
@@ -10947,14 +10947,14 @@ export const duma_2016_uik_463_region_22_part_007 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Богданов Юрий Дмитриевич": 6,
-      "Боровикова Евгения Анатольевна": 78,
-      "Кириллов Владимир Викторович": 5,
-      "Кондров Александр Юрьевич": 7,
-      "Лоор Иван Иванович": 189,
-      "Понарин Петр Петрович": 58,
-      "Терентьев Александр Васильевич": 207,
-      "Фурсенко Иван Витальевич": 17
+      "gas:candidate-vibid:22220001368915": 6,
+      "gas:candidate-vibid:22220001352041": 78,
+      "gas:candidate-vibid:22220001365504": 5,
+      "gas:candidate-vibid:22220001369052": 7,
+      "gas:candidate-vibid:22220001366101": 189,
+      "gas:candidate-vibid:22220001365558": 58,
+      "gas:candidate-vibid:22220001365410": 207,
+      "gas:candidate-vibid:22220001369029": 17
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/altai-terr?action=show&root=1000061&tvd=22220001272395&vrn=100100067795849&region=22&global=&sub_region=22&prver=0&pronetvd=null&vibid=22220001272395&type=464",
@@ -11005,14 +11005,14 @@ export const duma_2016_uik_463_region_22_part_007 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Богданов Юрий Дмитриевич": 5,
-      "Боровикова Евгения Анатольевна": 30,
-      "Кириллов Владимир Викторович": 0,
-      "Кондров Александр Юрьевич": 3,
-      "Лоор Иван Иванович": 123,
-      "Понарин Петр Петрович": 13,
-      "Терентьев Александр Васильевич": 51,
-      "Фурсенко Иван Витальевич": 8
+      "gas:candidate-vibid:22220001368915": 5,
+      "gas:candidate-vibid:22220001352041": 30,
+      "gas:candidate-vibid:22220001365504": 0,
+      "gas:candidate-vibid:22220001369052": 3,
+      "gas:candidate-vibid:22220001366101": 123,
+      "gas:candidate-vibid:22220001365558": 13,
+      "gas:candidate-vibid:22220001365410": 51,
+      "gas:candidate-vibid:22220001369029": 8
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/altai-terr?action=show&root=1000061&tvd=22220001272395&vrn=100100067795849&region=22&global=&sub_region=22&prver=0&pronetvd=null&vibid=22220001272395&type=464",
@@ -11063,14 +11063,14 @@ export const duma_2016_uik_463_region_22_part_007 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Богданов Юрий Дмитриевич": 3,
-      "Боровикова Евгения Анатольевна": 36,
-      "Кириллов Владимир Викторович": 4,
-      "Кондров Александр Юрьевич": 5,
-      "Лоор Иван Иванович": 75,
-      "Понарин Петр Петрович": 31,
-      "Терентьев Александр Васильевич": 179,
-      "Фурсенко Иван Витальевич": 7
+      "gas:candidate-vibid:22220001368915": 3,
+      "gas:candidate-vibid:22220001352041": 36,
+      "gas:candidate-vibid:22220001365504": 4,
+      "gas:candidate-vibid:22220001369052": 5,
+      "gas:candidate-vibid:22220001366101": 75,
+      "gas:candidate-vibid:22220001365558": 31,
+      "gas:candidate-vibid:22220001365410": 179,
+      "gas:candidate-vibid:22220001369029": 7
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/altai-terr?action=show&root=1000061&tvd=22220001272395&vrn=100100067795849&region=22&global=&sub_region=22&prver=0&pronetvd=null&vibid=22220001272395&type=464",
@@ -11121,14 +11121,14 @@ export const duma_2016_uik_463_region_22_part_007 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Богданов Юрий Дмитриевич": 4,
-      "Боровикова Евгения Анатольевна": 22,
-      "Кириллов Владимир Викторович": 5,
-      "Кондров Александр Юрьевич": 4,
-      "Лоор Иван Иванович": 72,
-      "Понарин Петр Петрович": 21,
-      "Терентьев Александр Васильевич": 89,
-      "Фурсенко Иван Витальевич": 7
+      "gas:candidate-vibid:22220001368915": 4,
+      "gas:candidate-vibid:22220001352041": 22,
+      "gas:candidate-vibid:22220001365504": 5,
+      "gas:candidate-vibid:22220001369052": 4,
+      "gas:candidate-vibid:22220001366101": 72,
+      "gas:candidate-vibid:22220001365558": 21,
+      "gas:candidate-vibid:22220001365410": 89,
+      "gas:candidate-vibid:22220001369029": 7
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/altai-terr?action=show&root=1000061&tvd=22220001272395&vrn=100100067795849&region=22&global=&sub_region=22&prver=0&pronetvd=null&vibid=22220001272395&type=464",
@@ -11179,14 +11179,14 @@ export const duma_2016_uik_463_region_22_part_007 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Богданов Юрий Дмитриевич": 1,
-      "Боровикова Евгения Анатольевна": 13,
-      "Кириллов Владимир Викторович": 0,
-      "Кондров Александр Юрьевич": 1,
-      "Лоор Иван Иванович": 40,
-      "Понарин Петр Петрович": 9,
-      "Терентьев Александр Васильевич": 49,
-      "Фурсенко Иван Витальевич": 4
+      "gas:candidate-vibid:22220001368915": 1,
+      "gas:candidate-vibid:22220001352041": 13,
+      "gas:candidate-vibid:22220001365504": 0,
+      "gas:candidate-vibid:22220001369052": 1,
+      "gas:candidate-vibid:22220001366101": 40,
+      "gas:candidate-vibid:22220001365558": 9,
+      "gas:candidate-vibid:22220001365410": 49,
+      "gas:candidate-vibid:22220001369029": 4
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/altai-terr?action=show&root=1000061&tvd=22220001272395&vrn=100100067795849&region=22&global=&sub_region=22&prver=0&pronetvd=null&vibid=22220001272395&type=464",
@@ -11237,14 +11237,14 @@ export const duma_2016_uik_463_region_22_part_007 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Богданов Юрий Дмитриевич": 5,
-      "Боровикова Евгения Анатольевна": 27,
-      "Кириллов Владимир Викторович": 6,
-      "Кондров Александр Юрьевич": 4,
-      "Лоор Иван Иванович": 164,
-      "Понарин Петр Петрович": 18,
-      "Терентьев Александр Васильевич": 82,
-      "Фурсенко Иван Витальевич": 9
+      "gas:candidate-vibid:22220001368915": 5,
+      "gas:candidate-vibid:22220001352041": 27,
+      "gas:candidate-vibid:22220001365504": 6,
+      "gas:candidate-vibid:22220001369052": 4,
+      "gas:candidate-vibid:22220001366101": 164,
+      "gas:candidate-vibid:22220001365558": 18,
+      "gas:candidate-vibid:22220001365410": 82,
+      "gas:candidate-vibid:22220001369029": 9
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/altai-terr?action=show&root=1000061&tvd=22220001272395&vrn=100100067795849&region=22&global=&sub_region=22&prver=0&pronetvd=null&vibid=22220001272395&type=464",
@@ -11295,14 +11295,14 @@ export const duma_2016_uik_463_region_22_part_007 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Богданов Юрий Дмитриевич": 3,
-      "Боровикова Евгения Анатольевна": 1,
-      "Кириллов Владимир Викторович": 1,
-      "Кондров Александр Юрьевич": 0,
-      "Лоор Иван Иванович": 27,
-      "Понарин Петр Петрович": 2,
-      "Терентьев Александр Васильевич": 15,
-      "Фурсенко Иван Витальевич": 2
+      "gas:candidate-vibid:22220001368915": 3,
+      "gas:candidate-vibid:22220001352041": 1,
+      "gas:candidate-vibid:22220001365504": 1,
+      "gas:candidate-vibid:22220001369052": 0,
+      "gas:candidate-vibid:22220001366101": 27,
+      "gas:candidate-vibid:22220001365558": 2,
+      "gas:candidate-vibid:22220001365410": 15,
+      "gas:candidate-vibid:22220001369029": 2
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/altai-terr?action=show&root=1000061&tvd=22220001272395&vrn=100100067795849&region=22&global=&sub_region=22&prver=0&pronetvd=null&vibid=22220001272395&type=464",
@@ -11353,14 +11353,14 @@ export const duma_2016_uik_463_region_22_part_007 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Богданов Юрий Дмитриевич": 4,
-      "Боровикова Евгения Анатольевна": 19,
-      "Кириллов Владимир Викторович": 3,
-      "Кондров Александр Юрьевич": 4,
-      "Лоор Иван Иванович": 92,
-      "Понарин Петр Петрович": 13,
-      "Терентьев Александр Васильевич": 63,
-      "Фурсенко Иван Витальевич": 3
+      "gas:candidate-vibid:22220001368915": 4,
+      "gas:candidate-vibid:22220001352041": 19,
+      "gas:candidate-vibid:22220001365504": 3,
+      "gas:candidate-vibid:22220001369052": 4,
+      "gas:candidate-vibid:22220001366101": 92,
+      "gas:candidate-vibid:22220001365558": 13,
+      "gas:candidate-vibid:22220001365410": 63,
+      "gas:candidate-vibid:22220001369029": 3
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/altai-terr?action=show&root=1000061&tvd=22220001272395&vrn=100100067795849&region=22&global=&sub_region=22&prver=0&pronetvd=null&vibid=22220001272395&type=464",
@@ -11411,14 +11411,14 @@ export const duma_2016_uik_463_region_22_part_007 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Богданов Юрий Дмитриевич": 0,
-      "Боровикова Евгения Анатольевна": 0,
-      "Кириллов Владимир Викторович": 1,
-      "Кондров Александр Юрьевич": 0,
-      "Лоор Иван Иванович": 20,
-      "Понарин Петр Петрович": 1,
-      "Терентьев Александр Васильевич": 22,
-      "Фурсенко Иван Витальевич": 0
+      "gas:candidate-vibid:22220001368915": 0,
+      "gas:candidate-vibid:22220001352041": 0,
+      "gas:candidate-vibid:22220001365504": 1,
+      "gas:candidate-vibid:22220001369052": 0,
+      "gas:candidate-vibid:22220001366101": 20,
+      "gas:candidate-vibid:22220001365558": 1,
+      "gas:candidate-vibid:22220001365410": 22,
+      "gas:candidate-vibid:22220001369029": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/altai-terr?action=show&root=1000061&tvd=22220001272395&vrn=100100067795849&region=22&global=&sub_region=22&prver=0&pronetvd=null&vibid=22220001272395&type=464",
@@ -11469,14 +11469,14 @@ export const duma_2016_uik_463_region_22_part_007 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Богданов Юрий Дмитриевич": 10,
-      "Боровикова Евгения Анатольевна": 43,
-      "Кириллов Владимир Викторович": 2,
-      "Кондров Александр Юрьевич": 5,
-      "Лоор Иван Иванович": 110,
-      "Понарин Петр Петрович": 27,
-      "Терентьев Александр Васильевич": 71,
-      "Фурсенко Иван Витальевич": 2
+      "gas:candidate-vibid:22220001368915": 10,
+      "gas:candidate-vibid:22220001352041": 43,
+      "gas:candidate-vibid:22220001365504": 2,
+      "gas:candidate-vibid:22220001369052": 5,
+      "gas:candidate-vibid:22220001366101": 110,
+      "gas:candidate-vibid:22220001365558": 27,
+      "gas:candidate-vibid:22220001365410": 71,
+      "gas:candidate-vibid:22220001369029": 2
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/altai-terr?action=show&root=1000061&tvd=22220001272395&vrn=100100067795849&region=22&global=&sub_region=22&prver=0&pronetvd=null&vibid=22220001272395&type=464",
@@ -11527,14 +11527,14 @@ export const duma_2016_uik_463_region_22_part_007 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Богданов Юрий Дмитриевич": 1,
-      "Боровикова Евгения Анатольевна": 11,
-      "Кириллов Владимир Викторович": 0,
-      "Кондров Александр Юрьевич": 1,
-      "Лоор Иван Иванович": 47,
-      "Понарин Петр Петрович": 5,
-      "Терентьев Александр Васильевич": 53,
-      "Фурсенко Иван Витальевич": 0
+      "gas:candidate-vibid:22220001368915": 1,
+      "gas:candidate-vibid:22220001352041": 11,
+      "gas:candidate-vibid:22220001365504": 0,
+      "gas:candidate-vibid:22220001369052": 1,
+      "gas:candidate-vibid:22220001366101": 47,
+      "gas:candidate-vibid:22220001365558": 5,
+      "gas:candidate-vibid:22220001365410": 53,
+      "gas:candidate-vibid:22220001369029": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/altai-terr?action=show&root=1000061&tvd=22220001272395&vrn=100100067795849&region=22&global=&sub_region=22&prver=0&pronetvd=null&vibid=22220001272395&type=464",
@@ -11585,14 +11585,14 @@ export const duma_2016_uik_463_region_22_part_007 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Богданов Юрий Дмитриевич": 0,
-      "Боровикова Евгения Анатольевна": 6,
-      "Кириллов Владимир Викторович": 0,
-      "Кондров Александр Юрьевич": 0,
-      "Лоор Иван Иванович": 12,
-      "Понарин Петр Петрович": 2,
-      "Терентьев Александр Васильевич": 11,
-      "Фурсенко Иван Витальевич": 0
+      "gas:candidate-vibid:22220001368915": 0,
+      "gas:candidate-vibid:22220001352041": 6,
+      "gas:candidate-vibid:22220001365504": 0,
+      "gas:candidate-vibid:22220001369052": 0,
+      "gas:candidate-vibid:22220001366101": 12,
+      "gas:candidate-vibid:22220001365558": 2,
+      "gas:candidate-vibid:22220001365410": 11,
+      "gas:candidate-vibid:22220001369029": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/altai-terr?action=show&root=1000061&tvd=22220001272395&vrn=100100067795849&region=22&global=&sub_region=22&prver=0&pronetvd=null&vibid=22220001272395&type=464",
@@ -11643,14 +11643,14 @@ export const duma_2016_uik_463_region_22_part_007 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Богданов Юрий Дмитриевич": 2,
-      "Боровикова Евгения Анатольевна": 4,
-      "Кириллов Владимир Викторович": 1,
-      "Кондров Александр Юрьевич": 0,
-      "Лоор Иван Иванович": 13,
-      "Понарин Петр Петрович": 1,
-      "Терентьев Александр Васильевич": 15,
-      "Фурсенко Иван Витальевич": 1
+      "gas:candidate-vibid:22220001368915": 2,
+      "gas:candidate-vibid:22220001352041": 4,
+      "gas:candidate-vibid:22220001365504": 1,
+      "gas:candidate-vibid:22220001369052": 0,
+      "gas:candidate-vibid:22220001366101": 13,
+      "gas:candidate-vibid:22220001365558": 1,
+      "gas:candidate-vibid:22220001365410": 15,
+      "gas:candidate-vibid:22220001369029": 1
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/altai-terr?action=show&root=1000061&tvd=22220001272395&vrn=100100067795849&region=22&global=&sub_region=22&prver=0&pronetvd=null&vibid=22220001272395&type=464",
@@ -11701,14 +11701,14 @@ export const duma_2016_uik_463_region_22_part_007 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Богданов Юрий Дмитриевич": 1,
-      "Боровикова Евгения Анатольевна": 24,
-      "Кириллов Владимир Викторович": 2,
-      "Кондров Александр Юрьевич": 0,
-      "Лоор Иван Иванович": 145,
-      "Понарин Петр Петрович": 37,
-      "Терентьев Александр Васильевич": 74,
-      "Фурсенко Иван Витальевич": 6
+      "gas:candidate-vibid:22220001368915": 1,
+      "gas:candidate-vibid:22220001352041": 24,
+      "gas:candidate-vibid:22220001365504": 2,
+      "gas:candidate-vibid:22220001369052": 0,
+      "gas:candidate-vibid:22220001366101": 145,
+      "gas:candidate-vibid:22220001365558": 37,
+      "gas:candidate-vibid:22220001365410": 74,
+      "gas:candidate-vibid:22220001369029": 6
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/altai-terr?action=show&root=1000061&tvd=22220001272395&vrn=100100067795849&region=22&global=&sub_region=22&prver=0&pronetvd=null&vibid=22220001272395&type=464",
@@ -11759,14 +11759,14 @@ export const duma_2016_uik_463_region_22_part_007 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Богданов Юрий Дмитриевич": 1,
-      "Боровикова Евгения Анатольевна": 7,
-      "Кириллов Владимир Викторович": 0,
-      "Кондров Александр Юрьевич": 1,
-      "Лоор Иван Иванович": 63,
-      "Понарин Петр Петрович": 9,
-      "Терентьев Александр Васильевич": 38,
-      "Фурсенко Иван Витальевич": 3
+      "gas:candidate-vibid:22220001368915": 1,
+      "gas:candidate-vibid:22220001352041": 7,
+      "gas:candidate-vibid:22220001365504": 0,
+      "gas:candidate-vibid:22220001369052": 1,
+      "gas:candidate-vibid:22220001366101": 63,
+      "gas:candidate-vibid:22220001365558": 9,
+      "gas:candidate-vibid:22220001365410": 38,
+      "gas:candidate-vibid:22220001369029": 3
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/altai-terr?action=show&root=1000061&tvd=22220001272395&vrn=100100067795849&region=22&global=&sub_region=22&prver=0&pronetvd=null&vibid=22220001272395&type=464",
@@ -11817,14 +11817,14 @@ export const duma_2016_uik_463_region_22_part_007 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Богданов Юрий Дмитриевич": 0,
-      "Боровикова Евгения Анатольевна": 1,
-      "Кириллов Владимир Викторович": 0,
-      "Кондров Александр Юрьевич": 1,
-      "Лоор Иван Иванович": 39,
-      "Понарин Петр Петрович": 5,
-      "Терентьев Александр Васильевич": 5,
-      "Фурсенко Иван Витальевич": 0
+      "gas:candidate-vibid:22220001368915": 0,
+      "gas:candidate-vibid:22220001352041": 1,
+      "gas:candidate-vibid:22220001365504": 0,
+      "gas:candidate-vibid:22220001369052": 1,
+      "gas:candidate-vibid:22220001366101": 39,
+      "gas:candidate-vibid:22220001365558": 5,
+      "gas:candidate-vibid:22220001365410": 5,
+      "gas:candidate-vibid:22220001369029": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/altai-terr?action=show&root=1000061&tvd=22220001272395&vrn=100100067795849&region=22&global=&sub_region=22&prver=0&pronetvd=null&vibid=22220001272395&type=464",
@@ -11875,14 +11875,14 @@ export const duma_2016_uik_463_region_22_part_007 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Богданов Юрий Дмитриевич": 1,
-      "Боровикова Евгения Анатольевна": 14,
-      "Кириллов Владимир Викторович": 1,
-      "Кондров Александр Юрьевич": 3,
-      "Лоор Иван Иванович": 181,
-      "Понарин Петр Петрович": 21,
-      "Терентьев Александр Васильевич": 53,
-      "Фурсенко Иван Витальевич": 3
+      "gas:candidate-vibid:22220001368915": 1,
+      "gas:candidate-vibid:22220001352041": 14,
+      "gas:candidate-vibid:22220001365504": 1,
+      "gas:candidate-vibid:22220001369052": 3,
+      "gas:candidate-vibid:22220001366101": 181,
+      "gas:candidate-vibid:22220001365558": 21,
+      "gas:candidate-vibid:22220001365410": 53,
+      "gas:candidate-vibid:22220001369029": 3
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/altai-terr?action=show&root=1000061&tvd=22220001272395&vrn=100100067795849&region=22&global=&sub_region=22&prver=0&pronetvd=null&vibid=22220001272395&type=464",
@@ -11933,14 +11933,14 @@ export const duma_2016_uik_463_region_22_part_007 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Богданов Юрий Дмитриевич": 0,
-      "Боровикова Евгения Анатольевна": 3,
-      "Кириллов Владимир Викторович": 0,
-      "Кондров Александр Юрьевич": 1,
-      "Лоор Иван Иванович": 12,
-      "Понарин Петр Петрович": 0,
-      "Терентьев Александр Васильевич": 18,
-      "Фурсенко Иван Витальевич": 0
+      "gas:candidate-vibid:22220001368915": 0,
+      "gas:candidate-vibid:22220001352041": 3,
+      "gas:candidate-vibid:22220001365504": 0,
+      "gas:candidate-vibid:22220001369052": 1,
+      "gas:candidate-vibid:22220001366101": 12,
+      "gas:candidate-vibid:22220001365558": 0,
+      "gas:candidate-vibid:22220001365410": 18,
+      "gas:candidate-vibid:22220001369029": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/altai-terr?action=show&root=1000061&tvd=22220001272395&vrn=100100067795849&region=22&global=&sub_region=22&prver=0&pronetvd=null&vibid=22220001272395&type=464",
@@ -11991,14 +11991,14 @@ export const duma_2016_uik_463_region_22_part_007 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Богданов Юрий Дмитриевич": 0,
-      "Боровикова Евгения Анатольевна": 2,
-      "Кириллов Владимир Викторович": 0,
-      "Кондров Александр Юрьевич": 1,
-      "Лоор Иван Иванович": 21,
-      "Понарин Петр Петрович": 0,
-      "Терентьев Александр Васильевич": 2,
-      "Фурсенко Иван Витальевич": 0
+      "gas:candidate-vibid:22220001368915": 0,
+      "gas:candidate-vibid:22220001352041": 2,
+      "gas:candidate-vibid:22220001365504": 0,
+      "gas:candidate-vibid:22220001369052": 1,
+      "gas:candidate-vibid:22220001366101": 21,
+      "gas:candidate-vibid:22220001365558": 0,
+      "gas:candidate-vibid:22220001365410": 2,
+      "gas:candidate-vibid:22220001369029": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/altai-terr?action=show&root=1000061&tvd=22220001272395&vrn=100100067795849&region=22&global=&sub_region=22&prver=0&pronetvd=null&vibid=22220001272395&type=464",
@@ -12049,14 +12049,14 @@ export const duma_2016_uik_463_region_22_part_007 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Богданов Юрий Дмитриевич": 5,
-      "Боровикова Евгения Анатольевна": 30,
-      "Кириллов Владимир Викторович": 6,
-      "Кондров Александр Юрьевич": 1,
-      "Лоор Иван Иванович": 172,
-      "Понарин Петр Петрович": 38,
-      "Терентьев Александр Васильевич": 127,
-      "Фурсенко Иван Витальевич": 9
+      "gas:candidate-vibid:22220001368915": 5,
+      "gas:candidate-vibid:22220001352041": 30,
+      "gas:candidate-vibid:22220001365504": 6,
+      "gas:candidate-vibid:22220001369052": 1,
+      "gas:candidate-vibid:22220001366101": 172,
+      "gas:candidate-vibid:22220001365558": 38,
+      "gas:candidate-vibid:22220001365410": 127,
+      "gas:candidate-vibid:22220001369029": 9
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/altai-terr?action=show&root=1000061&tvd=22220001272395&vrn=100100067795849&region=22&global=&sub_region=22&prver=0&pronetvd=null&vibid=22220001272395&type=464",
@@ -12107,14 +12107,14 @@ export const duma_2016_uik_463_region_22_part_007 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Богданов Юрий Дмитриевич": 0,
-      "Боровикова Евгения Анатольевна": 3,
-      "Кириллов Владимир Викторович": 1,
-      "Кондров Александр Юрьевич": 3,
-      "Лоор Иван Иванович": 32,
-      "Понарин Петр Петрович": 4,
-      "Терентьев Александр Васильевич": 13,
-      "Фурсенко Иван Витальевич": 0
+      "gas:candidate-vibid:22220001368915": 0,
+      "gas:candidate-vibid:22220001352041": 3,
+      "gas:candidate-vibid:22220001365504": 1,
+      "gas:candidate-vibid:22220001369052": 3,
+      "gas:candidate-vibid:22220001366101": 32,
+      "gas:candidate-vibid:22220001365558": 4,
+      "gas:candidate-vibid:22220001365410": 13,
+      "gas:candidate-vibid:22220001369029": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/altai-terr?action=show&root=1000061&tvd=22220001272395&vrn=100100067795849&region=22&global=&sub_region=22&prver=0&pronetvd=null&vibid=22220001272395&type=464",
@@ -12165,14 +12165,14 @@ export const duma_2016_uik_463_region_22_part_007 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Богданов Юрий Дмитриевич": 1,
-      "Боровикова Евгения Анатольевна": 12,
-      "Кириллов Владимир Викторович": 1,
-      "Кондров Александр Юрьевич": 4,
-      "Лоор Иван Иванович": 51,
-      "Понарин Петр Петрович": 18,
-      "Терентьев Александр Васильевич": 31,
-      "Фурсенко Иван Витальевич": 3
+      "gas:candidate-vibid:22220001368915": 1,
+      "gas:candidate-vibid:22220001352041": 12,
+      "gas:candidate-vibid:22220001365504": 1,
+      "gas:candidate-vibid:22220001369052": 4,
+      "gas:candidate-vibid:22220001366101": 51,
+      "gas:candidate-vibid:22220001365558": 18,
+      "gas:candidate-vibid:22220001365410": 31,
+      "gas:candidate-vibid:22220001369029": 3
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/altai-terr?action=show&root=1000061&tvd=22220001272395&vrn=100100067795849&region=22&global=&sub_region=22&prver=0&pronetvd=null&vibid=22220001272395&type=464",
@@ -12223,14 +12223,14 @@ export const duma_2016_uik_463_region_22_part_007 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Богданов Юрий Дмитриевич": 8,
-      "Боровикова Евгения Анатольевна": 37,
-      "Кириллов Владимир Викторович": 2,
-      "Кондров Александр Юрьевич": 7,
-      "Лоор Иван Иванович": 197,
-      "Понарин Петр Петрович": 45,
-      "Терентьев Александр Васильевич": 104,
-      "Фурсенко Иван Витальевич": 14
+      "gas:candidate-vibid:22220001368915": 8,
+      "gas:candidate-vibid:22220001352041": 37,
+      "gas:candidate-vibid:22220001365504": 2,
+      "gas:candidate-vibid:22220001369052": 7,
+      "gas:candidate-vibid:22220001366101": 197,
+      "gas:candidate-vibid:22220001365558": 45,
+      "gas:candidate-vibid:22220001365410": 104,
+      "gas:candidate-vibid:22220001369029": 14
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/altai-terr?action=show&root=1000061&tvd=22220001272395&vrn=100100067795849&region=22&global=&sub_region=22&prver=0&pronetvd=null&vibid=22220001272395&type=464",
@@ -12281,14 +12281,14 @@ export const duma_2016_uik_463_region_22_part_007 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Богданов Юрий Дмитриевич": 7,
-      "Боровикова Евгения Анатольевна": 16,
-      "Кириллов Владимир Викторович": 0,
-      "Кондров Александр Юрьевич": 3,
-      "Лоор Иван Иванович": 109,
-      "Понарин Петр Петрович": 25,
-      "Терентьев Александр Васильевич": 78,
-      "Фурсенко Иван Витальевич": 8
+      "gas:candidate-vibid:22220001368915": 7,
+      "gas:candidate-vibid:22220001352041": 16,
+      "gas:candidate-vibid:22220001365504": 0,
+      "gas:candidate-vibid:22220001369052": 3,
+      "gas:candidate-vibid:22220001366101": 109,
+      "gas:candidate-vibid:22220001365558": 25,
+      "gas:candidate-vibid:22220001365410": 78,
+      "gas:candidate-vibid:22220001369029": 8
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/altai-terr?action=show&root=1000061&tvd=22220001272395&vrn=100100067795849&region=22&global=&sub_region=22&prver=0&pronetvd=null&vibid=22220001272395&type=464",
@@ -12339,14 +12339,14 @@ export const duma_2016_uik_463_region_22_part_007 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Богданов Юрий Дмитриевич": 0,
-      "Боровикова Евгения Анатольевна": 2,
-      "Кириллов Владимир Викторович": 0,
-      "Кондров Александр Юрьевич": 2,
-      "Лоор Иван Иванович": 59,
-      "Понарин Петр Петрович": 7,
-      "Терентьев Александр Васильевич": 16,
-      "Фурсенко Иван Витальевич": 1
+      "gas:candidate-vibid:22220001368915": 0,
+      "gas:candidate-vibid:22220001352041": 2,
+      "gas:candidate-vibid:22220001365504": 0,
+      "gas:candidate-vibid:22220001369052": 2,
+      "gas:candidate-vibid:22220001366101": 59,
+      "gas:candidate-vibid:22220001365558": 7,
+      "gas:candidate-vibid:22220001365410": 16,
+      "gas:candidate-vibid:22220001369029": 1
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/altai-terr?action=show&root=1000061&tvd=22220001272395&vrn=100100067795849&region=22&global=&sub_region=22&prver=0&pronetvd=null&vibid=22220001272395&type=464",
@@ -12397,14 +12397,14 @@ export const duma_2016_uik_463_region_22_part_007 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Богданов Юрий Дмитриевич": 1,
-      "Боровикова Евгения Анатольевна": 10,
-      "Кириллов Владимир Викторович": 1,
-      "Кондров Александр Юрьевич": 1,
-      "Лоор Иван Иванович": 46,
-      "Понарин Петр Петрович": 15,
-      "Терентьев Александр Васильевич": 60,
-      "Фурсенко Иван Витальевич": 6
+      "gas:candidate-vibid:22220001368915": 1,
+      "gas:candidate-vibid:22220001352041": 10,
+      "gas:candidate-vibid:22220001365504": 1,
+      "gas:candidate-vibid:22220001369052": 1,
+      "gas:candidate-vibid:22220001366101": 46,
+      "gas:candidate-vibid:22220001365558": 15,
+      "gas:candidate-vibid:22220001365410": 60,
+      "gas:candidate-vibid:22220001369029": 6
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/altai-terr?action=show&root=1000061&tvd=22220001272395&vrn=100100067795849&region=22&global=&sub_region=22&prver=0&pronetvd=null&vibid=22220001272395&type=464",
@@ -12455,14 +12455,14 @@ export const duma_2016_uik_463_region_22_part_007 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Богданов Юрий Дмитриевич": 1,
-      "Боровикова Евгения Анатольевна": 1,
-      "Кириллов Владимир Викторович": 1,
-      "Кондров Александр Юрьевич": 2,
-      "Лоор Иван Иванович": 22,
-      "Понарин Петр Петрович": 5,
-      "Терентьев Александр Васильевич": 15,
-      "Фурсенко Иван Витальевич": 0
+      "gas:candidate-vibid:22220001368915": 1,
+      "gas:candidate-vibid:22220001352041": 1,
+      "gas:candidate-vibid:22220001365504": 1,
+      "gas:candidate-vibid:22220001369052": 2,
+      "gas:candidate-vibid:22220001366101": 22,
+      "gas:candidate-vibid:22220001365558": 5,
+      "gas:candidate-vibid:22220001365410": 15,
+      "gas:candidate-vibid:22220001369029": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/altai-terr?action=show&root=1000061&tvd=22220001272395&vrn=100100067795849&region=22&global=&sub_region=22&prver=0&pronetvd=null&vibid=22220001272395&type=464",
@@ -12513,14 +12513,14 @@ export const duma_2016_uik_463_region_22_part_007 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Богданов Юрий Дмитриевич": 10,
-      "Боровикова Евгения Анатольевна": 36,
-      "Кириллов Владимир Викторович": 4,
-      "Кондров Александр Юрьевич": 3,
-      "Лоор Иван Иванович": 142,
-      "Понарин Петр Петрович": 35,
-      "Терентьев Александр Васильевич": 102,
-      "Фурсенко Иван Витальевич": 10
+      "gas:candidate-vibid:22220001368915": 10,
+      "gas:candidate-vibid:22220001352041": 36,
+      "gas:candidate-vibid:22220001365504": 4,
+      "gas:candidate-vibid:22220001369052": 3,
+      "gas:candidate-vibid:22220001366101": 142,
+      "gas:candidate-vibid:22220001365558": 35,
+      "gas:candidate-vibid:22220001365410": 102,
+      "gas:candidate-vibid:22220001369029": 10
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/altai-terr?action=show&root=1000061&tvd=22220001272395&vrn=100100067795849&region=22&global=&sub_region=22&prver=0&pronetvd=null&vibid=22220001272395&type=464",
@@ -12571,14 +12571,14 @@ export const duma_2016_uik_463_region_22_part_007 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Богданов Юрий Дмитриевич": 6,
-      "Боровикова Евгения Анатольевна": 23,
-      "Кириллов Владимир Викторович": 1,
-      "Кондров Александр Юрьевич": 1,
-      "Лоор Иван Иванович": 112,
-      "Понарин Петр Петрович": 18,
-      "Терентьев Александр Васильевич": 68,
-      "Фурсенко Иван Витальевич": 3
+      "gas:candidate-vibid:22220001368915": 6,
+      "gas:candidate-vibid:22220001352041": 23,
+      "gas:candidate-vibid:22220001365504": 1,
+      "gas:candidate-vibid:22220001369052": 1,
+      "gas:candidate-vibid:22220001366101": 112,
+      "gas:candidate-vibid:22220001365558": 18,
+      "gas:candidate-vibid:22220001365410": 68,
+      "gas:candidate-vibid:22220001369029": 3
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/altai-terr?action=show&root=1000061&tvd=22220001272395&vrn=100100067795849&region=22&global=&sub_region=22&prver=0&pronetvd=null&vibid=22220001272395&type=464",
@@ -12629,14 +12629,14 @@ export const duma_2016_uik_463_region_22_part_007 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Богданов Юрий Дмитриевич": 0,
-      "Боровикова Евгения Анатольевна": 5,
-      "Кириллов Владимир Викторович": 1,
-      "Кондров Александр Юрьевич": 0,
-      "Лоор Иван Иванович": 18,
-      "Понарин Петр Петрович": 7,
-      "Терентьев Александр Васильевич": 14,
-      "Фурсенко Иван Витальевич": 0
+      "gas:candidate-vibid:22220001368915": 0,
+      "gas:candidate-vibid:22220001352041": 5,
+      "gas:candidate-vibid:22220001365504": 1,
+      "gas:candidate-vibid:22220001369052": 0,
+      "gas:candidate-vibid:22220001366101": 18,
+      "gas:candidate-vibid:22220001365558": 7,
+      "gas:candidate-vibid:22220001365410": 14,
+      "gas:candidate-vibid:22220001369029": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/altai-terr?action=show&root=1000061&tvd=22220001272395&vrn=100100067795849&region=22&global=&sub_region=22&prver=0&pronetvd=null&vibid=22220001272395&type=464",
@@ -12687,14 +12687,14 @@ export const duma_2016_uik_463_region_22_part_007 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Богданов Юрий Дмитриевич": 3,
-      "Боровикова Евгения Анатольевна": 16,
-      "Кириллов Владимир Викторович": 1,
-      "Кондров Александр Юрьевич": 2,
-      "Лоор Иван Иванович": 122,
-      "Понарин Петр Петрович": 13,
-      "Терентьев Александр Васильевич": 30,
-      "Фурсенко Иван Витальевич": 6
+      "gas:candidate-vibid:22220001368915": 3,
+      "gas:candidate-vibid:22220001352041": 16,
+      "gas:candidate-vibid:22220001365504": 1,
+      "gas:candidate-vibid:22220001369052": 2,
+      "gas:candidate-vibid:22220001366101": 122,
+      "gas:candidate-vibid:22220001365558": 13,
+      "gas:candidate-vibid:22220001365410": 30,
+      "gas:candidate-vibid:22220001369029": 6
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/altai-terr?action=show&root=1000061&tvd=22220001272395&vrn=100100067795849&region=22&global=&sub_region=22&prver=0&pronetvd=null&vibid=22220001272395&type=464",
@@ -12745,14 +12745,14 @@ export const duma_2016_uik_463_region_22_part_007 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Богданов Юрий Дмитриевич": 3,
-      "Боровикова Евгения Анатольевна": 12,
-      "Кириллов Владимир Викторович": 0,
-      "Кондров Александр Юрьевич": 2,
-      "Лоор Иван Иванович": 46,
-      "Понарин Петр Петрович": 8,
-      "Терентьев Александр Васильевич": 33,
-      "Фурсенко Иван Витальевич": 6
+      "gas:candidate-vibid:22220001368915": 3,
+      "gas:candidate-vibid:22220001352041": 12,
+      "gas:candidate-vibid:22220001365504": 0,
+      "gas:candidate-vibid:22220001369052": 2,
+      "gas:candidate-vibid:22220001366101": 46,
+      "gas:candidate-vibid:22220001365558": 8,
+      "gas:candidate-vibid:22220001365410": 33,
+      "gas:candidate-vibid:22220001369029": 6
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/altai-terr?action=show&root=1000061&tvd=22220001272395&vrn=100100067795849&region=22&global=&sub_region=22&prver=0&pronetvd=null&vibid=22220001272395&type=464",
@@ -12803,14 +12803,14 @@ export const duma_2016_uik_463_region_22_part_007 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Богданов Юрий Дмитриевич": 7,
-      "Боровикова Евгения Анатольевна": 111,
-      "Кириллов Владимир Викторович": 5,
-      "Кондров Александр Юрьевич": 11,
-      "Лоор Иван Иванович": 273,
-      "Понарин Петр Петрович": 94,
-      "Терентьев Александр Васильевич": 148,
-      "Фурсенко Иван Витальевич": 17
+      "gas:candidate-vibid:22220001368915": 7,
+      "gas:candidate-vibid:22220001352041": 111,
+      "gas:candidate-vibid:22220001365504": 5,
+      "gas:candidate-vibid:22220001369052": 11,
+      "gas:candidate-vibid:22220001366101": 273,
+      "gas:candidate-vibid:22220001365558": 94,
+      "gas:candidate-vibid:22220001365410": 148,
+      "gas:candidate-vibid:22220001369029": 17
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/altai-terr?action=show&root=1000061&tvd=22220001272396&vrn=100100067795849&region=22&global=&sub_region=22&prver=0&pronetvd=null&vibid=22220001272396&type=464",
@@ -12861,14 +12861,14 @@ export const duma_2016_uik_463_region_22_part_007 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Богданов Юрий Дмитриевич": 19,
-      "Боровикова Евгения Анатольевна": 139,
-      "Кириллов Владимир Викторович": 15,
-      "Кондров Александр Юрьевич": 25,
-      "Лоор Иван Иванович": 382,
-      "Понарин Петр Петрович": 146,
-      "Терентьев Александр Васильевич": 187,
-      "Фурсенко Иван Витальевич": 21
+      "gas:candidate-vibid:22220001368915": 19,
+      "gas:candidate-vibid:22220001352041": 139,
+      "gas:candidate-vibid:22220001365504": 15,
+      "gas:candidate-vibid:22220001369052": 25,
+      "gas:candidate-vibid:22220001366101": 382,
+      "gas:candidate-vibid:22220001365558": 146,
+      "gas:candidate-vibid:22220001365410": 187,
+      "gas:candidate-vibid:22220001369029": 21
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/altai-terr?action=show&root=1000061&tvd=22220001272396&vrn=100100067795849&region=22&global=&sub_region=22&prver=0&pronetvd=null&vibid=22220001272396&type=464",
@@ -12919,14 +12919,14 @@ export const duma_2016_uik_463_region_22_part_007 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Богданов Юрий Дмитриевич": 15,
-      "Боровикова Евгения Анатольевна": 130,
-      "Кириллов Владимир Викторович": 12,
-      "Кондров Александр Юрьевич": 8,
-      "Лоор Иван Иванович": 268,
-      "Понарин Петр Петрович": 99,
-      "Терентьев Александр Васильевич": 152,
-      "Фурсенко Иван Витальевич": 25
+      "gas:candidate-vibid:22220001368915": 15,
+      "gas:candidate-vibid:22220001352041": 130,
+      "gas:candidate-vibid:22220001365504": 12,
+      "gas:candidate-vibid:22220001369052": 8,
+      "gas:candidate-vibid:22220001366101": 268,
+      "gas:candidate-vibid:22220001365558": 99,
+      "gas:candidate-vibid:22220001365410": 152,
+      "gas:candidate-vibid:22220001369029": 25
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/altai-terr?action=show&root=1000061&tvd=22220001272396&vrn=100100067795849&region=22&global=&sub_region=22&prver=0&pronetvd=null&vibid=22220001272396&type=464",
@@ -12977,14 +12977,14 @@ export const duma_2016_uik_463_region_22_part_007 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Богданов Юрий Дмитриевич": 5,
-      "Боровикова Евгения Анатольевна": 19,
-      "Кириллов Владимир Викторович": 0,
-      "Кондров Александр Юрьевич": 0,
-      "Лоор Иван Иванович": 32,
-      "Понарин Петр Петрович": 8,
-      "Терентьев Александр Васильевич": 18,
-      "Фурсенко Иван Витальевич": 6
+      "gas:candidate-vibid:22220001368915": 5,
+      "gas:candidate-vibid:22220001352041": 19,
+      "gas:candidate-vibid:22220001365504": 0,
+      "gas:candidate-vibid:22220001369052": 0,
+      "gas:candidate-vibid:22220001366101": 32,
+      "gas:candidate-vibid:22220001365558": 8,
+      "gas:candidate-vibid:22220001365410": 18,
+      "gas:candidate-vibid:22220001369029": 6
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/altai-terr?action=show&root=1000061&tvd=22220001272396&vrn=100100067795849&region=22&global=&sub_region=22&prver=0&pronetvd=null&vibid=22220001272396&type=464",
@@ -13035,14 +13035,14 @@ export const duma_2016_uik_463_region_22_part_007 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Богданов Юрий Дмитриевич": 10,
-      "Боровикова Евгения Анатольевна": 34,
-      "Кириллов Владимир Викторович": 6,
-      "Кондров Александр Юрьевич": 8,
-      "Лоор Иван Иванович": 172,
-      "Понарин Петр Петрович": 19,
-      "Терентьев Александр Васильевич": 127,
-      "Фурсенко Иван Витальевич": 8
+      "gas:candidate-vibid:22220001368915": 10,
+      "gas:candidate-vibid:22220001352041": 34,
+      "gas:candidate-vibid:22220001365504": 6,
+      "gas:candidate-vibid:22220001369052": 8,
+      "gas:candidate-vibid:22220001366101": 172,
+      "gas:candidate-vibid:22220001365558": 19,
+      "gas:candidate-vibid:22220001365410": 127,
+      "gas:candidate-vibid:22220001369029": 8
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/altai-terr?action=show&root=1000061&tvd=22220001272396&vrn=100100067795849&region=22&global=&sub_region=22&prver=0&pronetvd=null&vibid=22220001272396&type=464",
@@ -13093,14 +13093,14 @@ export const duma_2016_uik_463_region_22_part_007 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Богданов Юрий Дмитриевич": 10,
-      "Боровикова Евгения Анатольевна": 34,
-      "Кириллов Владимир Викторович": 3,
-      "Кондров Александр Юрьевич": 1,
-      "Лоор Иван Иванович": 92,
-      "Понарин Петр Петрович": 16,
-      "Терентьев Александр Васильевич": 63,
-      "Фурсенко Иван Витальевич": 6
+      "gas:candidate-vibid:22220001368915": 10,
+      "gas:candidate-vibid:22220001352041": 34,
+      "gas:candidate-vibid:22220001365504": 3,
+      "gas:candidate-vibid:22220001369052": 1,
+      "gas:candidate-vibid:22220001366101": 92,
+      "gas:candidate-vibid:22220001365558": 16,
+      "gas:candidate-vibid:22220001365410": 63,
+      "gas:candidate-vibid:22220001369029": 6
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/altai-terr?action=show&root=1000061&tvd=22220001272396&vrn=100100067795849&region=22&global=&sub_region=22&prver=0&pronetvd=null&vibid=22220001272396&type=464",
@@ -13151,14 +13151,14 @@ export const duma_2016_uik_463_region_22_part_007 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Богданов Юрий Дмитриевич": 10,
-      "Боровикова Евгения Анатольевна": 65,
-      "Кириллов Владимир Викторович": 7,
-      "Кондров Александр Юрьевич": 2,
-      "Лоор Иван Иванович": 180,
-      "Понарин Петр Петрович": 40,
-      "Терентьев Александр Васильевич": 77,
-      "Фурсенко Иван Витальевич": 11
+      "gas:candidate-vibid:22220001368915": 10,
+      "gas:candidate-vibid:22220001352041": 65,
+      "gas:candidate-vibid:22220001365504": 7,
+      "gas:candidate-vibid:22220001369052": 2,
+      "gas:candidate-vibid:22220001366101": 180,
+      "gas:candidate-vibid:22220001365558": 40,
+      "gas:candidate-vibid:22220001365410": 77,
+      "gas:candidate-vibid:22220001369029": 11
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/altai-terr?action=show&root=1000061&tvd=22220001272396&vrn=100100067795849&region=22&global=&sub_region=22&prver=0&pronetvd=null&vibid=22220001272396&type=464",
@@ -13209,14 +13209,14 @@ export const duma_2016_uik_463_region_22_part_007 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Богданов Юрий Дмитриевич": 4,
-      "Боровикова Евгения Анатольевна": 8,
-      "Кириллов Владимир Викторович": 1,
-      "Кондров Александр Юрьевич": 1,
-      "Лоор Иван Иванович": 95,
-      "Понарин Петр Петрович": 20,
-      "Терентьев Александр Васильевич": 26,
-      "Фурсенко Иван Витальевич": 3
+      "gas:candidate-vibid:22220001368915": 4,
+      "gas:candidate-vibid:22220001352041": 8,
+      "gas:candidate-vibid:22220001365504": 1,
+      "gas:candidate-vibid:22220001369052": 1,
+      "gas:candidate-vibid:22220001366101": 95,
+      "gas:candidate-vibid:22220001365558": 20,
+      "gas:candidate-vibid:22220001365410": 26,
+      "gas:candidate-vibid:22220001369029": 3
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/altai-terr?action=show&root=1000061&tvd=22220001272396&vrn=100100067795849&region=22&global=&sub_region=22&prver=0&pronetvd=null&vibid=22220001272396&type=464",
@@ -13267,14 +13267,14 @@ export const duma_2016_uik_463_region_22_part_007 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Богданов Юрий Дмитриевич": 6,
-      "Боровикова Евгения Анатольевна": 84,
-      "Кириллов Владимир Викторович": 2,
-      "Кондров Александр Юрьевич": 2,
-      "Лоор Иван Иванович": 175,
-      "Понарин Петр Петрович": 51,
-      "Терентьев Александр Васильевич": 170,
-      "Фурсенко Иван Витальевич": 23
+      "gas:candidate-vibid:22220001368915": 6,
+      "gas:candidate-vibid:22220001352041": 84,
+      "gas:candidate-vibid:22220001365504": 2,
+      "gas:candidate-vibid:22220001369052": 2,
+      "gas:candidate-vibid:22220001366101": 175,
+      "gas:candidate-vibid:22220001365558": 51,
+      "gas:candidate-vibid:22220001365410": 170,
+      "gas:candidate-vibid:22220001369029": 23
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/altai-terr?action=show&root=1000061&tvd=22220001272396&vrn=100100067795849&region=22&global=&sub_region=22&prver=0&pronetvd=null&vibid=22220001272396&type=464",
@@ -13325,14 +13325,14 @@ export const duma_2016_uik_463_region_22_part_007 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Богданов Юрий Дмитриевич": 13,
-      "Боровикова Евгения Анатольевна": 104,
-      "Кириллов Владимир Викторович": 13,
-      "Кондров Александр Юрьевич": 7,
-      "Лоор Иван Иванович": 323,
-      "Понарин Петр Петрович": 67,
-      "Терентьев Александр Васильевич": 96,
-      "Фурсенко Иван Витальевич": 9
+      "gas:candidate-vibid:22220001368915": 13,
+      "gas:candidate-vibid:22220001352041": 104,
+      "gas:candidate-vibid:22220001365504": 13,
+      "gas:candidate-vibid:22220001369052": 7,
+      "gas:candidate-vibid:22220001366101": 323,
+      "gas:candidate-vibid:22220001365558": 67,
+      "gas:candidate-vibid:22220001365410": 96,
+      "gas:candidate-vibid:22220001369029": 9
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/altai-terr?action=show&root=1000061&tvd=22220001272396&vrn=100100067795849&region=22&global=&sub_region=22&prver=0&pronetvd=null&vibid=22220001272396&type=464",
@@ -13383,14 +13383,14 @@ export const duma_2016_uik_463_region_22_part_007 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Богданов Юрий Дмитриевич": 8,
-      "Боровикова Евгения Анатольевна": 38,
-      "Кириллов Владимир Викторович": 2,
-      "Кондров Александр Юрьевич": 9,
-      "Лоор Иван Иванович": 125,
-      "Понарин Петр Петрович": 126,
-      "Терентьев Александр Васильевич": 86,
-      "Фурсенко Иван Витальевич": 18
+      "gas:candidate-vibid:22220001368915": 8,
+      "gas:candidate-vibid:22220001352041": 38,
+      "gas:candidate-vibid:22220001365504": 2,
+      "gas:candidate-vibid:22220001369052": 9,
+      "gas:candidate-vibid:22220001366101": 125,
+      "gas:candidate-vibid:22220001365558": 126,
+      "gas:candidate-vibid:22220001365410": 86,
+      "gas:candidate-vibid:22220001369029": 18
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/altai-terr?action=show&root=1000061&tvd=22220001272396&vrn=100100067795849&region=22&global=&sub_region=22&prver=0&pronetvd=null&vibid=22220001272396&type=464",
@@ -13441,14 +13441,14 @@ export const duma_2016_uik_463_region_22_part_007 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Богданов Юрий Дмитриевич": 14,
-      "Боровикова Евгения Анатольевна": 55,
-      "Кириллов Владимир Викторович": 3,
-      "Кондров Александр Юрьевич": 2,
-      "Лоор Иван Иванович": 180,
-      "Понарин Петр Петрович": 26,
-      "Терентьев Александр Васильевич": 43,
-      "Фурсенко Иван Витальевич": 7
+      "gas:candidate-vibid:22220001368915": 14,
+      "gas:candidate-vibid:22220001352041": 55,
+      "gas:candidate-vibid:22220001365504": 3,
+      "gas:candidate-vibid:22220001369052": 2,
+      "gas:candidate-vibid:22220001366101": 180,
+      "gas:candidate-vibid:22220001365558": 26,
+      "gas:candidate-vibid:22220001365410": 43,
+      "gas:candidate-vibid:22220001369029": 7
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/altai-terr?action=show&root=1000061&tvd=22220001272396&vrn=100100067795849&region=22&global=&sub_region=22&prver=0&pronetvd=null&vibid=22220001272396&type=464",
@@ -13499,14 +13499,14 @@ export const duma_2016_uik_463_region_22_part_007 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Богданов Юрий Дмитриевич": 11,
-      "Боровикова Евгения Анатольевна": 44,
-      "Кириллов Владимир Викторович": 2,
-      "Кондров Александр Юрьевич": 3,
-      "Лоор Иван Иванович": 153,
-      "Понарин Петр Петрович": 19,
-      "Терентьев Александр Васильевич": 44,
-      "Фурсенко Иван Витальевич": 7
+      "gas:candidate-vibid:22220001368915": 11,
+      "gas:candidate-vibid:22220001352041": 44,
+      "gas:candidate-vibid:22220001365504": 2,
+      "gas:candidate-vibid:22220001369052": 3,
+      "gas:candidate-vibid:22220001366101": 153,
+      "gas:candidate-vibid:22220001365558": 19,
+      "gas:candidate-vibid:22220001365410": 44,
+      "gas:candidate-vibid:22220001369029": 7
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/altai-terr?action=show&root=1000061&tvd=22220001272396&vrn=100100067795849&region=22&global=&sub_region=22&prver=0&pronetvd=null&vibid=22220001272396&type=464",
@@ -13557,14 +13557,14 @@ export const duma_2016_uik_463_region_22_part_007 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Богданов Юрий Дмитриевич": 7,
-      "Боровикова Евгения Анатольевна": 71,
-      "Кириллов Владимир Викторович": 9,
-      "Кондров Александр Юрьевич": 5,
-      "Лоор Иван Иванович": 359,
-      "Понарин Петр Петрович": 38,
-      "Терентьев Александр Васильевич": 85,
-      "Фурсенко Иван Витальевич": 15
+      "gas:candidate-vibid:22220001368915": 7,
+      "gas:candidate-vibid:22220001352041": 71,
+      "gas:candidate-vibid:22220001365504": 9,
+      "gas:candidate-vibid:22220001369052": 5,
+      "gas:candidate-vibid:22220001366101": 359,
+      "gas:candidate-vibid:22220001365558": 38,
+      "gas:candidate-vibid:22220001365410": 85,
+      "gas:candidate-vibid:22220001369029": 15
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/altai-terr?action=show&root=1000061&tvd=22220001272396&vrn=100100067795849&region=22&global=&sub_region=22&prver=0&pronetvd=null&vibid=22220001272396&type=464",
@@ -13615,14 +13615,14 @@ export const duma_2016_uik_463_region_22_part_007 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Богданов Юрий Дмитриевич": 9,
-      "Боровикова Евгения Анатольевна": 46,
-      "Кириллов Владимир Викторович": 1,
-      "Кондров Александр Юрьевич": 6,
-      "Лоор Иван Иванович": 160,
-      "Понарин Петр Петрович": 50,
-      "Терентьев Александр Васильевич": 143,
-      "Фурсенко Иван Витальевич": 8
+      "gas:candidate-vibid:22220001368915": 9,
+      "gas:candidate-vibid:22220001352041": 46,
+      "gas:candidate-vibid:22220001365504": 1,
+      "gas:candidate-vibid:22220001369052": 6,
+      "gas:candidate-vibid:22220001366101": 160,
+      "gas:candidate-vibid:22220001365558": 50,
+      "gas:candidate-vibid:22220001365410": 143,
+      "gas:candidate-vibid:22220001369029": 8
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/altai-terr?action=show&root=1000061&tvd=22220001272396&vrn=100100067795849&region=22&global=&sub_region=22&prver=0&pronetvd=null&vibid=22220001272396&type=464",
@@ -13673,14 +13673,14 @@ export const duma_2016_uik_463_region_22_part_007 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Богданов Юрий Дмитриевич": 4,
-      "Боровикова Евгения Анатольевна": 22,
-      "Кириллов Владимир Викторович": 1,
-      "Кондров Александр Юрьевич": 3,
-      "Лоор Иван Иванович": 59,
-      "Понарин Петр Петрович": 20,
-      "Терентьев Александр Васильевич": 36,
-      "Фурсенко Иван Витальевич": 5
+      "gas:candidate-vibid:22220001368915": 4,
+      "gas:candidate-vibid:22220001352041": 22,
+      "gas:candidate-vibid:22220001365504": 1,
+      "gas:candidate-vibid:22220001369052": 3,
+      "gas:candidate-vibid:22220001366101": 59,
+      "gas:candidate-vibid:22220001365558": 20,
+      "gas:candidate-vibid:22220001365410": 36,
+      "gas:candidate-vibid:22220001369029": 5
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/altai-terr?action=show&root=1000061&tvd=22220001272397&vrn=100100067795849&region=22&global=&sub_region=22&prver=0&pronetvd=null&vibid=22220001272397&type=464",
@@ -13731,14 +13731,14 @@ export const duma_2016_uik_463_region_22_part_007 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Богданов Юрий Дмитриевич": 3,
-      "Боровикова Евгения Анатольевна": 16,
-      "Кириллов Владимир Викторович": 0,
-      "Кондров Александр Юрьевич": 0,
-      "Лоор Иван Иванович": 112,
-      "Понарин Петр Петрович": 19,
-      "Терентьев Александр Васильевич": 84,
-      "Фурсенко Иван Витальевич": 8
+      "gas:candidate-vibid:22220001368915": 3,
+      "gas:candidate-vibid:22220001352041": 16,
+      "gas:candidate-vibid:22220001365504": 0,
+      "gas:candidate-vibid:22220001369052": 0,
+      "gas:candidate-vibid:22220001366101": 112,
+      "gas:candidate-vibid:22220001365558": 19,
+      "gas:candidate-vibid:22220001365410": 84,
+      "gas:candidate-vibid:22220001369029": 8
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/altai-terr?action=show&root=1000061&tvd=22220001272397&vrn=100100067795849&region=22&global=&sub_region=22&prver=0&pronetvd=null&vibid=22220001272397&type=464",
@@ -13789,14 +13789,14 @@ export const duma_2016_uik_463_region_22_part_007 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Богданов Юрий Дмитриевич": 1,
-      "Боровикова Евгения Анатольевна": 5,
-      "Кириллов Владимир Викторович": 2,
-      "Кондров Александр Юрьевич": 0,
-      "Лоор Иван Иванович": 22,
-      "Понарин Петр Петрович": 2,
-      "Терентьев Александр Васильевич": 13,
-      "Фурсенко Иван Витальевич": 2
+      "gas:candidate-vibid:22220001368915": 1,
+      "gas:candidate-vibid:22220001352041": 5,
+      "gas:candidate-vibid:22220001365504": 2,
+      "gas:candidate-vibid:22220001369052": 0,
+      "gas:candidate-vibid:22220001366101": 22,
+      "gas:candidate-vibid:22220001365558": 2,
+      "gas:candidate-vibid:22220001365410": 13,
+      "gas:candidate-vibid:22220001369029": 2
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/altai-terr?action=show&root=1000061&tvd=22220001272397&vrn=100100067795849&region=22&global=&sub_region=22&prver=0&pronetvd=null&vibid=22220001272397&type=464",
@@ -13847,14 +13847,14 @@ export const duma_2016_uik_463_region_22_part_007 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Богданов Юрий Дмитриевич": 4,
-      "Боровикова Евгения Анатольевна": 9,
-      "Кириллов Владимир Викторович": 0,
-      "Кондров Александр Юрьевич": 0,
-      "Лоор Иван Иванович": 36,
-      "Понарин Петр Петрович": 4,
-      "Терентьев Александр Васильевич": 7,
-      "Фурсенко Иван Витальевич": 0
+      "gas:candidate-vibid:22220001368915": 4,
+      "gas:candidate-vibid:22220001352041": 9,
+      "gas:candidate-vibid:22220001365504": 0,
+      "gas:candidate-vibid:22220001369052": 0,
+      "gas:candidate-vibid:22220001366101": 36,
+      "gas:candidate-vibid:22220001365558": 4,
+      "gas:candidate-vibid:22220001365410": 7,
+      "gas:candidate-vibid:22220001369029": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/altai-terr?action=show&root=1000061&tvd=22220001272397&vrn=100100067795849&region=22&global=&sub_region=22&prver=0&pronetvd=null&vibid=22220001272397&type=464",
@@ -13905,14 +13905,14 @@ export const duma_2016_uik_463_region_22_part_007 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Богданов Юрий Дмитриевич": 4,
-      "Боровикова Евгения Анатольевна": 25,
-      "Кириллов Владимир Викторович": 3,
-      "Кондров Александр Юрьевич": 4,
-      "Лоор Иван Иванович": 172,
-      "Понарин Петр Петрович": 16,
-      "Терентьев Александр Васильевич": 79,
-      "Фурсенко Иван Витальевич": 9
+      "gas:candidate-vibid:22220001368915": 4,
+      "gas:candidate-vibid:22220001352041": 25,
+      "gas:candidate-vibid:22220001365504": 3,
+      "gas:candidate-vibid:22220001369052": 4,
+      "gas:candidate-vibid:22220001366101": 172,
+      "gas:candidate-vibid:22220001365558": 16,
+      "gas:candidate-vibid:22220001365410": 79,
+      "gas:candidate-vibid:22220001369029": 9
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/altai-terr?action=show&root=1000061&tvd=22220001272397&vrn=100100067795849&region=22&global=&sub_region=22&prver=0&pronetvd=null&vibid=22220001272397&type=464",
@@ -13963,14 +13963,14 @@ export const duma_2016_uik_463_region_22_part_007 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Богданов Юрий Дмитриевич": 1,
-      "Боровикова Евгения Анатольевна": 2,
-      "Кириллов Владимир Викторович": 1,
-      "Кондров Александр Юрьевич": 2,
-      "Лоор Иван Иванович": 66,
-      "Понарин Петр Петрович": 10,
-      "Терентьев Александр Васильевич": 13,
-      "Фурсенко Иван Витальевич": 2
+      "gas:candidate-vibid:22220001368915": 1,
+      "gas:candidate-vibid:22220001352041": 2,
+      "gas:candidate-vibid:22220001365504": 1,
+      "gas:candidate-vibid:22220001369052": 2,
+      "gas:candidate-vibid:22220001366101": 66,
+      "gas:candidate-vibid:22220001365558": 10,
+      "gas:candidate-vibid:22220001365410": 13,
+      "gas:candidate-vibid:22220001369029": 2
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/altai-terr?action=show&root=1000061&tvd=22220001272397&vrn=100100067795849&region=22&global=&sub_region=22&prver=0&pronetvd=null&vibid=22220001272397&type=464",
@@ -14021,14 +14021,14 @@ export const duma_2016_uik_463_region_22_part_007 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Богданов Юрий Дмитриевич": 2,
-      "Боровикова Евгения Анатольевна": 5,
-      "Кириллов Владимир Викторович": 0,
-      "Кондров Александр Юрьевич": 1,
-      "Лоор Иван Иванович": 33,
-      "Понарин Петр Петрович": 6,
-      "Терентьев Александр Васильевич": 11,
-      "Фурсенко Иван Витальевич": 0
+      "gas:candidate-vibid:22220001368915": 2,
+      "gas:candidate-vibid:22220001352041": 5,
+      "gas:candidate-vibid:22220001365504": 0,
+      "gas:candidate-vibid:22220001369052": 1,
+      "gas:candidate-vibid:22220001366101": 33,
+      "gas:candidate-vibid:22220001365558": 6,
+      "gas:candidate-vibid:22220001365410": 11,
+      "gas:candidate-vibid:22220001369029": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/altai-terr?action=show&root=1000061&tvd=22220001272397&vrn=100100067795849&region=22&global=&sub_region=22&prver=0&pronetvd=null&vibid=22220001272397&type=464",
@@ -14079,14 +14079,14 @@ export const duma_2016_uik_463_region_22_part_007 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Богданов Юрий Дмитриевич": 1,
-      "Боровикова Евгения Анатольевна": 6,
-      "Кириллов Владимир Викторович": 1,
-      "Кондров Александр Юрьевич": 0,
-      "Лоор Иван Иванович": 40,
-      "Понарин Петр Петрович": 8,
-      "Терентьев Александр Васильевич": 12,
-      "Фурсенко Иван Витальевич": 2
+      "gas:candidate-vibid:22220001368915": 1,
+      "gas:candidate-vibid:22220001352041": 6,
+      "gas:candidate-vibid:22220001365504": 1,
+      "gas:candidate-vibid:22220001369052": 0,
+      "gas:candidate-vibid:22220001366101": 40,
+      "gas:candidate-vibid:22220001365558": 8,
+      "gas:candidate-vibid:22220001365410": 12,
+      "gas:candidate-vibid:22220001369029": 2
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/altai-terr?action=show&root=1000061&tvd=22220001272397&vrn=100100067795849&region=22&global=&sub_region=22&prver=0&pronetvd=null&vibid=22220001272397&type=464",
@@ -14137,14 +14137,14 @@ export const duma_2016_uik_463_region_22_part_007 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Богданов Юрий Дмитриевич": 12,
-      "Боровикова Евгения Анатольевна": 15,
-      "Кириллов Владимир Викторович": 5,
-      "Кондров Александр Юрьевич": 3,
-      "Лоор Иван Иванович": 161,
-      "Понарин Петр Петрович": 28,
-      "Терентьев Александр Васильевич": 79,
-      "Фурсенко Иван Витальевич": 15
+      "gas:candidate-vibid:22220001368915": 12,
+      "gas:candidate-vibid:22220001352041": 15,
+      "gas:candidate-vibid:22220001365504": 5,
+      "gas:candidate-vibid:22220001369052": 3,
+      "gas:candidate-vibid:22220001366101": 161,
+      "gas:candidate-vibid:22220001365558": 28,
+      "gas:candidate-vibid:22220001365410": 79,
+      "gas:candidate-vibid:22220001369029": 15
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/altai-terr?action=show&root=1000061&tvd=22220001272397&vrn=100100067795849&region=22&global=&sub_region=22&prver=0&pronetvd=null&vibid=22220001272397&type=464",
@@ -14195,14 +14195,14 @@ export const duma_2016_uik_463_region_22_part_007 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Богданов Юрий Дмитриевич": 5,
-      "Боровикова Евгения Анатольевна": 36,
-      "Кириллов Владимир Викторович": 5,
-      "Кондров Александр Юрьевич": 5,
-      "Лоор Иван Иванович": 181,
-      "Понарин Петр Петрович": 43,
-      "Терентьев Александр Васильевич": 140,
-      "Фурсенко Иван Витальевич": 17
+      "gas:candidate-vibid:22220001368915": 5,
+      "gas:candidate-vibid:22220001352041": 36,
+      "gas:candidate-vibid:22220001365504": 5,
+      "gas:candidate-vibid:22220001369052": 5,
+      "gas:candidate-vibid:22220001366101": 181,
+      "gas:candidate-vibid:22220001365558": 43,
+      "gas:candidate-vibid:22220001365410": 140,
+      "gas:candidate-vibid:22220001369029": 17
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/altai-terr?action=show&root=1000061&tvd=22220001272397&vrn=100100067795849&region=22&global=&sub_region=22&prver=0&pronetvd=null&vibid=22220001272397&type=464",
@@ -14253,14 +14253,14 @@ export const duma_2016_uik_463_region_22_part_007 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Богданов Юрий Дмитриевич": 4,
-      "Боровикова Евгения Анатольевна": 28,
-      "Кириллов Владимир Викторович": 2,
-      "Кондров Александр Юрьевич": 1,
-      "Лоор Иван Иванович": 176,
-      "Понарин Петр Петрович": 24,
-      "Терентьев Александр Васильевич": 108,
-      "Фурсенко Иван Витальевич": 10
+      "gas:candidate-vibid:22220001368915": 4,
+      "gas:candidate-vibid:22220001352041": 28,
+      "gas:candidate-vibid:22220001365504": 2,
+      "gas:candidate-vibid:22220001369052": 1,
+      "gas:candidate-vibid:22220001366101": 176,
+      "gas:candidate-vibid:22220001365558": 24,
+      "gas:candidate-vibid:22220001365410": 108,
+      "gas:candidate-vibid:22220001369029": 10
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/altai-terr?action=show&root=1000061&tvd=22220001272397&vrn=100100067795849&region=22&global=&sub_region=22&prver=0&pronetvd=null&vibid=22220001272397&type=464",
@@ -14311,14 +14311,14 @@ export const duma_2016_uik_463_region_22_part_007 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Богданов Юрий Дмитриевич": 8,
-      "Боровикова Евгения Анатольевна": 48,
-      "Кириллов Владимир Викторович": 6,
-      "Кондров Александр Юрьевич": 2,
-      "Лоор Иван Иванович": 312,
-      "Понарин Петр Петрович": 66,
-      "Терентьев Александр Васильевич": 212,
-      "Фурсенко Иван Витальевич": 12
+      "gas:candidate-vibid:22220001368915": 8,
+      "gas:candidate-vibid:22220001352041": 48,
+      "gas:candidate-vibid:22220001365504": 6,
+      "gas:candidate-vibid:22220001369052": 2,
+      "gas:candidate-vibid:22220001366101": 312,
+      "gas:candidate-vibid:22220001365558": 66,
+      "gas:candidate-vibid:22220001365410": 212,
+      "gas:candidate-vibid:22220001369029": 12
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/altai-terr?action=show&root=1000061&tvd=22220001272397&vrn=100100067795849&region=22&global=&sub_region=22&prver=0&pronetvd=null&vibid=22220001272397&type=464",
@@ -14369,14 +14369,14 @@ export const duma_2016_uik_463_region_22_part_007 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Богданов Юрий Дмитриевич": 1,
-      "Боровикова Евгения Анатольевна": 17,
-      "Кириллов Владимир Викторович": 0,
-      "Кондров Александр Юрьевич": 0,
-      "Лоор Иван Иванович": 43,
-      "Понарин Петр Петрович": 13,
-      "Терентьев Александр Васильевич": 27,
-      "Фурсенко Иван Витальевич": 3
+      "gas:candidate-vibid:22220001368915": 1,
+      "gas:candidate-vibid:22220001352041": 17,
+      "gas:candidate-vibid:22220001365504": 0,
+      "gas:candidate-vibid:22220001369052": 0,
+      "gas:candidate-vibid:22220001366101": 43,
+      "gas:candidate-vibid:22220001365558": 13,
+      "gas:candidate-vibid:22220001365410": 27,
+      "gas:candidate-vibid:22220001369029": 3
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/altai-terr?action=show&root=1000061&tvd=22220001272397&vrn=100100067795849&region=22&global=&sub_region=22&prver=0&pronetvd=null&vibid=22220001272397&type=464",
@@ -14427,14 +14427,14 @@ export const duma_2016_uik_463_region_22_part_007 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Богданов Юрий Дмитриевич": 3,
-      "Боровикова Евгения Анатольевна": 21,
-      "Кириллов Владимир Викторович": 0,
-      "Кондров Александр Юрьевич": 3,
-      "Лоор Иван Иванович": 85,
-      "Понарин Петр Петрович": 13,
-      "Терентьев Александр Васильевич": 49,
-      "Фурсенко Иван Витальевич": 9
+      "gas:candidate-vibid:22220001368915": 3,
+      "gas:candidate-vibid:22220001352041": 21,
+      "gas:candidate-vibid:22220001365504": 0,
+      "gas:candidate-vibid:22220001369052": 3,
+      "gas:candidate-vibid:22220001366101": 85,
+      "gas:candidate-vibid:22220001365558": 13,
+      "gas:candidate-vibid:22220001365410": 49,
+      "gas:candidate-vibid:22220001369029": 9
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/altai-terr?action=show&root=1000061&tvd=22220001272397&vrn=100100067795849&region=22&global=&sub_region=22&prver=0&pronetvd=null&vibid=22220001272397&type=464",
@@ -14485,14 +14485,14 @@ export const duma_2016_uik_463_region_22_part_007 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Богданов Юрий Дмитриевич": 1,
-      "Боровикова Евгения Анатольевна": 7,
-      "Кириллов Владимир Викторович": 1,
-      "Кондров Александр Юрьевич": 0,
-      "Лоор Иван Иванович": 57,
-      "Понарин Петр Петрович": 1,
-      "Терентьев Александр Васильевич": 42,
-      "Фурсенко Иван Витальевич": 3
+      "gas:candidate-vibid:22220001368915": 1,
+      "gas:candidate-vibid:22220001352041": 7,
+      "gas:candidate-vibid:22220001365504": 1,
+      "gas:candidate-vibid:22220001369052": 0,
+      "gas:candidate-vibid:22220001366101": 57,
+      "gas:candidate-vibid:22220001365558": 1,
+      "gas:candidate-vibid:22220001365410": 42,
+      "gas:candidate-vibid:22220001369029": 3
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/altai-terr?action=show&root=1000061&tvd=22220001272397&vrn=100100067795849&region=22&global=&sub_region=22&prver=0&pronetvd=null&vibid=22220001272397&type=464",

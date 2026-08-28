@@ -43,13 +43,13 @@ export const duma_2016_uik_463_region_69_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Алексеев Игорь Анатольевич": 7,
-      "Воробьёва Людмила Фёдоровна": 11,
-      "Дешёвкин Вадим Николаевич": 6,
-      "Клейменов Илья Юрьевич": 4,
-      "Максимова Светлана Викторовна": 56,
-      "Морозов Антон Юрьевич": 8,
-      "Чепа Алексей Васильевич": 35
+      "gas:candidate-vibid:26920001038978": 7,
+      "gas:candidate-vibid:26920001031524": 11,
+      "gas:candidate-vibid:26920001041178": 6,
+      "gas:candidate-vibid:26920001031509": 4,
+      "gas:candidate-vibid:26920001036855": 56,
+      "gas:candidate-vibid:26920001026315": 8,
+      "gas:candidate-vibid:26920001033851": 35
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tver?action=show&root=1000236&tvd=2692000982890&vrn=100100067795849&region=69&global=&sub_region=69&prver=0&pronetvd=null&vibid=2692000982890&type=464",
@@ -100,13 +100,13 @@ export const duma_2016_uik_463_region_69_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Алексеев Игорь Анатольевич": 5,
-      "Воробьёва Людмила Фёдоровна": 11,
-      "Дешёвкин Вадим Николаевич": 5,
-      "Клейменов Илья Юрьевич": 7,
-      "Максимова Светлана Викторовна": 78,
-      "Морозов Антон Юрьевич": 9,
-      "Чепа Алексей Васильевич": 31
+      "gas:candidate-vibid:26920001038978": 5,
+      "gas:candidate-vibid:26920001031524": 11,
+      "gas:candidate-vibid:26920001041178": 5,
+      "gas:candidate-vibid:26920001031509": 7,
+      "gas:candidate-vibid:26920001036855": 78,
+      "gas:candidate-vibid:26920001026315": 9,
+      "gas:candidate-vibid:26920001033851": 31
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tver?action=show&root=1000236&tvd=2692000982890&vrn=100100067795849&region=69&global=&sub_region=69&prver=0&pronetvd=null&vibid=2692000982890&type=464",
@@ -157,13 +157,13 @@ export const duma_2016_uik_463_region_69_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Алексеев Игорь Анатольевич": 5,
-      "Воробьёва Людмила Фёдоровна": 6,
-      "Дешёвкин Вадим Николаевич": 3,
-      "Клейменов Илья Юрьевич": 4,
-      "Максимова Светлана Викторовна": 93,
-      "Морозов Антон Юрьевич": 8,
-      "Чепа Алексей Васильевич": 46
+      "gas:candidate-vibid:26920001038978": 5,
+      "gas:candidate-vibid:26920001031524": 6,
+      "gas:candidate-vibid:26920001041178": 3,
+      "gas:candidate-vibid:26920001031509": 4,
+      "gas:candidate-vibid:26920001036855": 93,
+      "gas:candidate-vibid:26920001026315": 8,
+      "gas:candidate-vibid:26920001033851": 46
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tver?action=show&root=1000236&tvd=2692000982890&vrn=100100067795849&region=69&global=&sub_region=69&prver=0&pronetvd=null&vibid=2692000982890&type=464",
@@ -214,13 +214,13 @@ export const duma_2016_uik_463_region_69_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Алексеев Игорь Анатольевич": 5,
-      "Воробьёва Людмила Фёдоровна": 29,
-      "Дешёвкин Вадим Николаевич": 8,
-      "Клейменов Илья Юрьевич": 11,
-      "Максимова Светлана Викторовна": 92,
-      "Морозов Антон Юрьевич": 12,
-      "Чепа Алексей Васильевич": 67
+      "gas:candidate-vibid:26920001038978": 5,
+      "gas:candidate-vibid:26920001031524": 29,
+      "gas:candidate-vibid:26920001041178": 8,
+      "gas:candidate-vibid:26920001031509": 11,
+      "gas:candidate-vibid:26920001036855": 92,
+      "gas:candidate-vibid:26920001026315": 12,
+      "gas:candidate-vibid:26920001033851": 67
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tver?action=show&root=1000236&tvd=2692000982890&vrn=100100067795849&region=69&global=&sub_region=69&prver=0&pronetvd=null&vibid=2692000982890&type=464",
@@ -271,13 +271,13 @@ export const duma_2016_uik_463_region_69_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Алексеев Игорь Анатольевич": 5,
-      "Воробьёва Людмила Фёдоровна": 9,
-      "Дешёвкин Вадим Николаевич": 3,
-      "Клейменов Илья Юрьевич": 1,
-      "Максимова Светлана Викторовна": 55,
-      "Морозов Антон Юрьевич": 6,
-      "Чепа Алексей Васильевич": 20
+      "gas:candidate-vibid:26920001038978": 5,
+      "gas:candidate-vibid:26920001031524": 9,
+      "gas:candidate-vibid:26920001041178": 3,
+      "gas:candidate-vibid:26920001031509": 1,
+      "gas:candidate-vibid:26920001036855": 55,
+      "gas:candidate-vibid:26920001026315": 6,
+      "gas:candidate-vibid:26920001033851": 20
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tver?action=show&root=1000236&tvd=2692000982890&vrn=100100067795849&region=69&global=&sub_region=69&prver=0&pronetvd=null&vibid=2692000982890&type=464",
@@ -328,13 +328,13 @@ export const duma_2016_uik_463_region_69_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Алексеев Игорь Анатольевич": 22,
-      "Воробьёва Людмила Фёдоровна": 48,
-      "Дешёвкин Вадим Николаевич": 15,
-      "Клейменов Илья Юрьевич": 19,
-      "Максимова Светлана Викторовна": 137,
-      "Морозов Антон Юрьевич": 48,
-      "Чепа Алексей Васильевич": 109
+      "gas:candidate-vibid:26920001038978": 22,
+      "gas:candidate-vibid:26920001031524": 48,
+      "gas:candidate-vibid:26920001041178": 15,
+      "gas:candidate-vibid:26920001031509": 19,
+      "gas:candidate-vibid:26920001036855": 137,
+      "gas:candidate-vibid:26920001026315": 48,
+      "gas:candidate-vibid:26920001033851": 109
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tver?action=show&root=1000236&tvd=2692000982891&vrn=100100067795849&region=69&global=&sub_region=69&prver=0&pronetvd=null&vibid=2692000982891&type=464",
@@ -385,13 +385,13 @@ export const duma_2016_uik_463_region_69_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Алексеев Игорь Анатольевич": 45,
-      "Воробьёва Людмила Фёдоровна": 64,
-      "Дешёвкин Вадим Николаевич": 31,
-      "Клейменов Илья Юрьевич": 33,
-      "Максимова Светлана Викторовна": 156,
-      "Морозов Антон Юрьевич": 74,
-      "Чепа Алексей Васильевич": 121
+      "gas:candidate-vibid:26920001038978": 45,
+      "gas:candidate-vibid:26920001031524": 64,
+      "gas:candidate-vibid:26920001041178": 31,
+      "gas:candidate-vibid:26920001031509": 33,
+      "gas:candidate-vibid:26920001036855": 156,
+      "gas:candidate-vibid:26920001026315": 74,
+      "gas:candidate-vibid:26920001033851": 121
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tver?action=show&root=1000236&tvd=2692000982891&vrn=100100067795849&region=69&global=&sub_region=69&prver=0&pronetvd=null&vibid=2692000982891&type=464",
@@ -442,13 +442,13 @@ export const duma_2016_uik_463_region_69_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Алексеев Игорь Анатольевич": 28,
-      "Воробьёва Людмила Фёдоровна": 57,
-      "Дешёвкин Вадим Николаевич": 27,
-      "Клейменов Илья Юрьевич": 24,
-      "Максимова Светлана Викторовна": 152,
-      "Морозов Антон Юрьевич": 69,
-      "Чепа Алексей Васильевич": 94
+      "gas:candidate-vibid:26920001038978": 28,
+      "gas:candidate-vibid:26920001031524": 57,
+      "gas:candidate-vibid:26920001041178": 27,
+      "gas:candidate-vibid:26920001031509": 24,
+      "gas:candidate-vibid:26920001036855": 152,
+      "gas:candidate-vibid:26920001026315": 69,
+      "gas:candidate-vibid:26920001033851": 94
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tver?action=show&root=1000236&tvd=2692000982891&vrn=100100067795849&region=69&global=&sub_region=69&prver=0&pronetvd=null&vibid=2692000982891&type=464",
@@ -499,13 +499,13 @@ export const duma_2016_uik_463_region_69_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Алексеев Игорь Анатольевич": 14,
-      "Воробьёва Людмила Фёдоровна": 41,
-      "Дешёвкин Вадим Николаевич": 27,
-      "Клейменов Илья Юрьевич": 11,
-      "Максимова Светлана Викторовна": 130,
-      "Морозов Антон Юрьевич": 37,
-      "Чепа Алексей Васильевич": 110
+      "gas:candidate-vibid:26920001038978": 14,
+      "gas:candidate-vibid:26920001031524": 41,
+      "gas:candidate-vibid:26920001041178": 27,
+      "gas:candidate-vibid:26920001031509": 11,
+      "gas:candidate-vibid:26920001036855": 130,
+      "gas:candidate-vibid:26920001026315": 37,
+      "gas:candidate-vibid:26920001033851": 110
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tver?action=show&root=1000236&tvd=2692000982891&vrn=100100067795849&region=69&global=&sub_region=69&prver=0&pronetvd=null&vibid=2692000982891&type=464",
@@ -556,13 +556,13 @@ export const duma_2016_uik_463_region_69_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Алексеев Игорь Анатольевич": 11,
-      "Воробьёва Людмила Фёдоровна": 16,
-      "Дешёвкин Вадим Николаевич": 10,
-      "Клейменов Илья Юрьевич": 8,
-      "Максимова Светлана Викторовна": 136,
-      "Морозов Антон Юрьевич": 28,
-      "Чепа Алексей Васильевич": 53
+      "gas:candidate-vibid:26920001038978": 11,
+      "gas:candidate-vibid:26920001031524": 16,
+      "gas:candidate-vibid:26920001041178": 10,
+      "gas:candidate-vibid:26920001031509": 8,
+      "gas:candidate-vibid:26920001036855": 136,
+      "gas:candidate-vibid:26920001026315": 28,
+      "gas:candidate-vibid:26920001033851": 53
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tver?action=show&root=1000236&tvd=2692000982891&vrn=100100067795849&region=69&global=&sub_region=69&prver=0&pronetvd=null&vibid=2692000982891&type=464",
@@ -613,13 +613,13 @@ export const duma_2016_uik_463_region_69_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Алексеев Игорь Анатольевич": 5,
-      "Воробьёва Людмила Фёдоровна": 2,
-      "Дешёвкин Вадим Николаевич": 12,
-      "Клейменов Илья Юрьевич": 2,
-      "Максимова Светлана Викторовна": 54,
-      "Морозов Антон Юрьевич": 6,
-      "Чепа Алексей Васильевич": 11
+      "gas:candidate-vibid:26920001038978": 5,
+      "gas:candidate-vibid:26920001031524": 2,
+      "gas:candidate-vibid:26920001041178": 12,
+      "gas:candidate-vibid:26920001031509": 2,
+      "gas:candidate-vibid:26920001036855": 54,
+      "gas:candidate-vibid:26920001026315": 6,
+      "gas:candidate-vibid:26920001033851": 11
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tver?action=show&root=1000236&tvd=2692000982891&vrn=100100067795849&region=69&global=&sub_region=69&prver=0&pronetvd=null&vibid=2692000982891&type=464",
@@ -670,13 +670,13 @@ export const duma_2016_uik_463_region_69_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Алексеев Игорь Анатольевич": 4,
-      "Воробьёва Людмила Фёдоровна": 28,
-      "Дешёвкин Вадим Николаевич": 8,
-      "Клейменов Илья Юрьевич": 15,
-      "Максимова Светлана Викторовна": 118,
-      "Морозов Антон Юрьевич": 15,
-      "Чепа Алексей Васильевич": 46
+      "gas:candidate-vibid:26920001038978": 4,
+      "gas:candidate-vibid:26920001031524": 28,
+      "gas:candidate-vibid:26920001041178": 8,
+      "gas:candidate-vibid:26920001031509": 15,
+      "gas:candidate-vibid:26920001036855": 118,
+      "gas:candidate-vibid:26920001026315": 15,
+      "gas:candidate-vibid:26920001033851": 46
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tver?action=show&root=1000236&tvd=2692000982891&vrn=100100067795849&region=69&global=&sub_region=69&prver=0&pronetvd=null&vibid=2692000982891&type=464",
@@ -727,13 +727,13 @@ export const duma_2016_uik_463_region_69_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Алексеев Игорь Анатольевич": 9,
-      "Воробьёва Людмила Фёдоровна": 17,
-      "Дешёвкин Вадим Николаевич": 5,
-      "Клейменов Илья Юрьевич": 5,
-      "Максимова Светлана Викторовна": 89,
-      "Морозов Антон Юрьевич": 18,
-      "Чепа Алексей Васильевич": 13
+      "gas:candidate-vibid:26920001038978": 9,
+      "gas:candidate-vibid:26920001031524": 17,
+      "gas:candidate-vibid:26920001041178": 5,
+      "gas:candidate-vibid:26920001031509": 5,
+      "gas:candidate-vibid:26920001036855": 89,
+      "gas:candidate-vibid:26920001026315": 18,
+      "gas:candidate-vibid:26920001033851": 13
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tver?action=show&root=1000236&tvd=2692000982891&vrn=100100067795849&region=69&global=&sub_region=69&prver=0&pronetvd=null&vibid=2692000982891&type=464",
@@ -784,13 +784,13 @@ export const duma_2016_uik_463_region_69_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Алексеев Игорь Анатольевич": 8,
-      "Воробьёва Людмила Фёдоровна": 9,
-      "Дешёвкин Вадим Николаевич": 1,
-      "Клейменов Илья Юрьевич": 7,
-      "Максимова Светлана Викторовна": 75,
-      "Морозов Антон Юрьевич": 11,
-      "Чепа Алексей Васильевич": 8
+      "gas:candidate-vibid:26920001038978": 8,
+      "gas:candidate-vibid:26920001031524": 9,
+      "gas:candidate-vibid:26920001041178": 1,
+      "gas:candidate-vibid:26920001031509": 7,
+      "gas:candidate-vibid:26920001036855": 75,
+      "gas:candidate-vibid:26920001026315": 11,
+      "gas:candidate-vibid:26920001033851": 8
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tver?action=show&root=1000236&tvd=2692000982891&vrn=100100067795849&region=69&global=&sub_region=69&prver=0&pronetvd=null&vibid=2692000982891&type=464",
@@ -841,13 +841,13 @@ export const duma_2016_uik_463_region_69_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Алексеев Игорь Анатольевич": 3,
-      "Воробьёва Людмила Фёдоровна": 8,
-      "Дешёвкин Вадим Николаевич": 2,
-      "Клейменов Илья Юрьевич": 9,
-      "Максимова Светлана Викторовна": 63,
-      "Морозов Антон Юрьевич": 5,
-      "Чепа Алексей Васильевич": 5
+      "gas:candidate-vibid:26920001038978": 3,
+      "gas:candidate-vibid:26920001031524": 8,
+      "gas:candidate-vibid:26920001041178": 2,
+      "gas:candidate-vibid:26920001031509": 9,
+      "gas:candidate-vibid:26920001036855": 63,
+      "gas:candidate-vibid:26920001026315": 5,
+      "gas:candidate-vibid:26920001033851": 5
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tver?action=show&root=1000236&tvd=2692000982891&vrn=100100067795849&region=69&global=&sub_region=69&prver=0&pronetvd=null&vibid=2692000982891&type=464",
@@ -898,13 +898,13 @@ export const duma_2016_uik_463_region_69_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Алексеев Игорь Анатольевич": 3,
-      "Воробьёва Людмила Фёдоровна": 13,
-      "Дешёвкин Вадим Николаевич": 3,
-      "Клейменов Илья Юрьевич": 10,
-      "Максимова Светлана Викторовна": 63,
-      "Морозов Антон Юрьевич": 7,
-      "Чепа Алексей Васильевич": 10
+      "gas:candidate-vibid:26920001038978": 3,
+      "gas:candidate-vibid:26920001031524": 13,
+      "gas:candidate-vibid:26920001041178": 3,
+      "gas:candidate-vibid:26920001031509": 10,
+      "gas:candidate-vibid:26920001036855": 63,
+      "gas:candidate-vibid:26920001026315": 7,
+      "gas:candidate-vibid:26920001033851": 10
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tver?action=show&root=1000236&tvd=2692000982891&vrn=100100067795849&region=69&global=&sub_region=69&prver=0&pronetvd=null&vibid=2692000982891&type=464",
@@ -955,13 +955,13 @@ export const duma_2016_uik_463_region_69_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Алексеев Игорь Анатольевич": 5,
-      "Воробьёва Людмила Фёдоровна": 23,
-      "Дешёвкин Вадим Николаевич": 2,
-      "Клейменов Илья Юрьевич": 7,
-      "Максимова Светлана Викторовна": 77,
-      "Морозов Антон Юрьевич": 19,
-      "Чепа Алексей Васильевич": 46
+      "gas:candidate-vibid:26920001038978": 5,
+      "gas:candidate-vibid:26920001031524": 23,
+      "gas:candidate-vibid:26920001041178": 2,
+      "gas:candidate-vibid:26920001031509": 7,
+      "gas:candidate-vibid:26920001036855": 77,
+      "gas:candidate-vibid:26920001026315": 19,
+      "gas:candidate-vibid:26920001033851": 46
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tver?action=show&root=1000236&tvd=2692000982891&vrn=100100067795849&region=69&global=&sub_region=69&prver=0&pronetvd=null&vibid=2692000982891&type=464",
@@ -1012,13 +1012,13 @@ export const duma_2016_uik_463_region_69_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Алексеев Игорь Анатольевич": 4,
-      "Воробьёва Людмила Фёдоровна": 7,
-      "Дешёвкин Вадим Николаевич": 5,
-      "Клейменов Илья Юрьевич": 0,
-      "Максимова Светлана Викторовна": 50,
-      "Морозов Антон Юрьевич": 9,
-      "Чепа Алексей Васильевич": 4
+      "gas:candidate-vibid:26920001038978": 4,
+      "gas:candidate-vibid:26920001031524": 7,
+      "gas:candidate-vibid:26920001041178": 5,
+      "gas:candidate-vibid:26920001031509": 0,
+      "gas:candidate-vibid:26920001036855": 50,
+      "gas:candidate-vibid:26920001026315": 9,
+      "gas:candidate-vibid:26920001033851": 4
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tver?action=show&root=1000236&tvd=2692000982891&vrn=100100067795849&region=69&global=&sub_region=69&prver=0&pronetvd=null&vibid=2692000982891&type=464",
@@ -1069,13 +1069,13 @@ export const duma_2016_uik_463_region_69_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Алексеев Игорь Анатольевич": 3,
-      "Воробьёва Людмила Фёдоровна": 12,
-      "Дешёвкин Вадим Николаевич": 2,
-      "Клейменов Илья Юрьевич": 9,
-      "Максимова Светлана Викторовна": 82,
-      "Морозов Антон Юрьевич": 8,
-      "Чепа Алексей Васильевич": 2
+      "gas:candidate-vibid:26920001038978": 3,
+      "gas:candidate-vibid:26920001031524": 12,
+      "gas:candidate-vibid:26920001041178": 2,
+      "gas:candidate-vibid:26920001031509": 9,
+      "gas:candidate-vibid:26920001036855": 82,
+      "gas:candidate-vibid:26920001026315": 8,
+      "gas:candidate-vibid:26920001033851": 2
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tver?action=show&root=1000236&tvd=2692000982891&vrn=100100067795849&region=69&global=&sub_region=69&prver=0&pronetvd=null&vibid=2692000982891&type=464",
@@ -1126,13 +1126,13 @@ export const duma_2016_uik_463_region_69_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Алексеев Игорь Анатольевич": 1,
-      "Воробьёва Людмила Фёдоровна": 4,
-      "Дешёвкин Вадим Николаевич": 5,
-      "Клейменов Илья Юрьевич": 0,
-      "Максимова Светлана Викторовна": 49,
-      "Морозов Антон Юрьевич": 3,
-      "Чепа Алексей Васильевич": 0
+      "gas:candidate-vibid:26920001038978": 1,
+      "gas:candidate-vibid:26920001031524": 4,
+      "gas:candidate-vibid:26920001041178": 5,
+      "gas:candidate-vibid:26920001031509": 0,
+      "gas:candidate-vibid:26920001036855": 49,
+      "gas:candidate-vibid:26920001026315": 3,
+      "gas:candidate-vibid:26920001033851": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tver?action=show&root=1000236&tvd=2692000982891&vrn=100100067795849&region=69&global=&sub_region=69&prver=0&pronetvd=null&vibid=2692000982891&type=464",
@@ -1183,13 +1183,13 @@ export const duma_2016_uik_463_region_69_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Алексеев Игорь Анатольевич": 0,
-      "Воробьёва Людмила Фёдоровна": 5,
-      "Дешёвкин Вадим Николаевич": 4,
-      "Клейменов Илья Юрьевич": 5,
-      "Максимова Светлана Викторовна": 55,
-      "Морозов Антон Юрьевич": 8,
-      "Чепа Алексей Васильевич": 3
+      "gas:candidate-vibid:26920001038978": 0,
+      "gas:candidate-vibid:26920001031524": 5,
+      "gas:candidate-vibid:26920001041178": 4,
+      "gas:candidate-vibid:26920001031509": 5,
+      "gas:candidate-vibid:26920001036855": 55,
+      "gas:candidate-vibid:26920001026315": 8,
+      "gas:candidate-vibid:26920001033851": 3
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tver?action=show&root=1000236&tvd=2692000982891&vrn=100100067795849&region=69&global=&sub_region=69&prver=0&pronetvd=null&vibid=2692000982891&type=464",
@@ -1240,13 +1240,13 @@ export const duma_2016_uik_463_region_69_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Алексеев Игорь Анатольевич": 4,
-      "Воробьёва Людмила Фёдоровна": 6,
-      "Дешёвкин Вадим Николаевич": 4,
-      "Клейменов Илья Юрьевич": 6,
-      "Максимова Светлана Викторовна": 54,
-      "Морозов Антон Юрьевич": 8,
-      "Чепа Алексей Васильевич": 22
+      "gas:candidate-vibid:26920001038978": 4,
+      "gas:candidate-vibid:26920001031524": 6,
+      "gas:candidate-vibid:26920001041178": 4,
+      "gas:candidate-vibid:26920001031509": 6,
+      "gas:candidate-vibid:26920001036855": 54,
+      "gas:candidate-vibid:26920001026315": 8,
+      "gas:candidate-vibid:26920001033851": 22
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tver?action=show&root=1000236&tvd=2692000982891&vrn=100100067795849&region=69&global=&sub_region=69&prver=0&pronetvd=null&vibid=2692000982891&type=464",
@@ -1297,13 +1297,13 @@ export const duma_2016_uik_463_region_69_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Алексеев Игорь Анатольевич": 1,
-      "Воробьёва Людмила Фёдоровна": 7,
-      "Дешёвкин Вадим Николаевич": 2,
-      "Клейменов Илья Юрьевич": 0,
-      "Максимова Светлана Викторовна": 38,
-      "Морозов Антон Юрьевич": 6,
-      "Чепа Алексей Васильевич": 9
+      "gas:candidate-vibid:26920001038978": 1,
+      "gas:candidate-vibid:26920001031524": 7,
+      "gas:candidate-vibid:26920001041178": 2,
+      "gas:candidate-vibid:26920001031509": 0,
+      "gas:candidate-vibid:26920001036855": 38,
+      "gas:candidate-vibid:26920001026315": 6,
+      "gas:candidate-vibid:26920001033851": 9
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tver?action=show&root=1000236&tvd=2692000982891&vrn=100100067795849&region=69&global=&sub_region=69&prver=0&pronetvd=null&vibid=2692000982891&type=464",
@@ -1354,13 +1354,13 @@ export const duma_2016_uik_463_region_69_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Алексеев Игорь Анатольевич": 8,
-      "Воробьёва Людмила Фёдоровна": 14,
-      "Дешёвкин Вадим Николаевич": 2,
-      "Клейменов Илья Юрьевич": 5,
-      "Максимова Светлана Викторовна": 57,
-      "Морозов Антон Юрьевич": 12,
-      "Чепа Алексей Васильевич": 9
+      "gas:candidate-vibid:26920001038978": 8,
+      "gas:candidate-vibid:26920001031524": 14,
+      "gas:candidate-vibid:26920001041178": 2,
+      "gas:candidate-vibid:26920001031509": 5,
+      "gas:candidate-vibid:26920001036855": 57,
+      "gas:candidate-vibid:26920001026315": 12,
+      "gas:candidate-vibid:26920001033851": 9
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tver?action=show&root=1000236&tvd=2692000982891&vrn=100100067795849&region=69&global=&sub_region=69&prver=0&pronetvd=null&vibid=2692000982891&type=464",
@@ -1411,13 +1411,13 @@ export const duma_2016_uik_463_region_69_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Алексеев Игорь Анатольевич": 1,
-      "Воробьёва Людмила Фёдоровна": 8,
-      "Дешёвкин Вадим Николаевич": 2,
-      "Клейменов Илья Юрьевич": 4,
-      "Максимова Светлана Викторовна": 57,
-      "Морозов Антон Юрьевич": 9,
-      "Чепа Алексей Васильевич": 19
+      "gas:candidate-vibid:26920001038978": 1,
+      "gas:candidate-vibid:26920001031524": 8,
+      "gas:candidate-vibid:26920001041178": 2,
+      "gas:candidate-vibid:26920001031509": 4,
+      "gas:candidate-vibid:26920001036855": 57,
+      "gas:candidate-vibid:26920001026315": 9,
+      "gas:candidate-vibid:26920001033851": 19
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tver?action=show&root=1000236&tvd=2692000982891&vrn=100100067795849&region=69&global=&sub_region=69&prver=0&pronetvd=null&vibid=2692000982891&type=464",
@@ -1468,13 +1468,13 @@ export const duma_2016_uik_463_region_69_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Алексеев Игорь Анатольевич": 16,
-      "Воробьёва Людмила Фёдоровна": 82,
-      "Дешёвкин Вадим Николаевич": 34,
-      "Клейменов Илья Юрьевич": 47,
-      "Максимова Светлана Викторовна": 219,
-      "Морозов Антон Юрьевич": 89,
-      "Чепа Алексей Васильевич": 145
+      "gas:candidate-vibid:26920001038978": 16,
+      "gas:candidate-vibid:26920001031524": 82,
+      "gas:candidate-vibid:26920001041178": 34,
+      "gas:candidate-vibid:26920001031509": 47,
+      "gas:candidate-vibid:26920001036855": 219,
+      "gas:candidate-vibid:26920001026315": 89,
+      "gas:candidate-vibid:26920001033851": 145
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tver?action=show&root=1000236&tvd=2692000982892&vrn=100100067795849&region=69&global=&sub_region=69&prver=0&pronetvd=null&vibid=2692000982892&type=464",
@@ -1525,13 +1525,13 @@ export const duma_2016_uik_463_region_69_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Алексеев Игорь Анатольевич": 12,
-      "Воробьёва Людмила Фёдоровна": 74,
-      "Дешёвкин Вадим Николаевич": 35,
-      "Клейменов Илья Юрьевич": 42,
-      "Максимова Светлана Викторовна": 220,
-      "Морозов Антон Юрьевич": 104,
-      "Чепа Алексей Васильевич": 141
+      "gas:candidate-vibid:26920001038978": 12,
+      "gas:candidate-vibid:26920001031524": 74,
+      "gas:candidate-vibid:26920001041178": 35,
+      "gas:candidate-vibid:26920001031509": 42,
+      "gas:candidate-vibid:26920001036855": 220,
+      "gas:candidate-vibid:26920001026315": 104,
+      "gas:candidate-vibid:26920001033851": 141
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tver?action=show&root=1000236&tvd=2692000982892&vrn=100100067795849&region=69&global=&sub_region=69&prver=0&pronetvd=null&vibid=2692000982892&type=464",
@@ -1582,13 +1582,13 @@ export const duma_2016_uik_463_region_69_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Алексеев Игорь Анатольевич": 18,
-      "Воробьёва Людмила Фёдоровна": 82,
-      "Дешёвкин Вадим Николаевич": 36,
-      "Клейменов Илья Юрьевич": 28,
-      "Максимова Светлана Викторовна": 206,
-      "Морозов Антон Юрьевич": 86,
-      "Чепа Алексей Васильевич": 161
+      "gas:candidate-vibid:26920001038978": 18,
+      "gas:candidate-vibid:26920001031524": 82,
+      "gas:candidate-vibid:26920001041178": 36,
+      "gas:candidate-vibid:26920001031509": 28,
+      "gas:candidate-vibid:26920001036855": 206,
+      "gas:candidate-vibid:26920001026315": 86,
+      "gas:candidate-vibid:26920001033851": 161
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tver?action=show&root=1000236&tvd=2692000982892&vrn=100100067795849&region=69&global=&sub_region=69&prver=0&pronetvd=null&vibid=2692000982892&type=464",
@@ -1639,13 +1639,13 @@ export const duma_2016_uik_463_region_69_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Алексеев Игорь Анатольевич": 11,
-      "Воробьёва Людмила Фёдоровна": 74,
-      "Дешёвкин Вадим Николаевич": 26,
-      "Клейменов Илья Юрьевич": 31,
-      "Максимова Светлана Викторовна": 216,
-      "Морозов Антон Юрьевич": 137,
-      "Чепа Алексей Васильевич": 145
+      "gas:candidate-vibid:26920001038978": 11,
+      "gas:candidate-vibid:26920001031524": 74,
+      "gas:candidate-vibid:26920001041178": 26,
+      "gas:candidate-vibid:26920001031509": 31,
+      "gas:candidate-vibid:26920001036855": 216,
+      "gas:candidate-vibid:26920001026315": 137,
+      "gas:candidate-vibid:26920001033851": 145
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tver?action=show&root=1000236&tvd=2692000982892&vrn=100100067795849&region=69&global=&sub_region=69&prver=0&pronetvd=null&vibid=2692000982892&type=464",
@@ -1696,13 +1696,13 @@ export const duma_2016_uik_463_region_69_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Алексеев Игорь Анатольевич": 12,
-      "Воробьёва Людмила Фёдоровна": 61,
-      "Дешёвкин Вадим Николаевич": 21,
-      "Клейменов Илья Юрьевич": 18,
-      "Максимова Светлана Викторовна": 187,
-      "Морозов Антон Юрьевич": 72,
-      "Чепа Алексей Васильевич": 78
+      "gas:candidate-vibid:26920001038978": 12,
+      "gas:candidate-vibid:26920001031524": 61,
+      "gas:candidate-vibid:26920001041178": 21,
+      "gas:candidate-vibid:26920001031509": 18,
+      "gas:candidate-vibid:26920001036855": 187,
+      "gas:candidate-vibid:26920001026315": 72,
+      "gas:candidate-vibid:26920001033851": 78
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tver?action=show&root=1000236&tvd=2692000982892&vrn=100100067795849&region=69&global=&sub_region=69&prver=0&pronetvd=null&vibid=2692000982892&type=464",
@@ -1753,13 +1753,13 @@ export const duma_2016_uik_463_region_69_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Алексеев Игорь Анатольевич": 7,
-      "Воробьёва Людмила Фёдоровна": 14,
-      "Дешёвкин Вадим Николаевич": 5,
-      "Клейменов Илья Юрьевич": 12,
-      "Максимова Светлана Викторовна": 30,
-      "Морозов Антон Юрьевич": 12,
-      "Чепа Алексей Васильевич": 11
+      "gas:candidate-vibid:26920001038978": 7,
+      "gas:candidate-vibid:26920001031524": 14,
+      "gas:candidate-vibid:26920001041178": 5,
+      "gas:candidate-vibid:26920001031509": 12,
+      "gas:candidate-vibid:26920001036855": 30,
+      "gas:candidate-vibid:26920001026315": 12,
+      "gas:candidate-vibid:26920001033851": 11
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tver?action=show&root=1000236&tvd=2692000982892&vrn=100100067795849&region=69&global=&sub_region=69&prver=0&pronetvd=null&vibid=2692000982892&type=464",
@@ -1810,13 +1810,13 @@ export const duma_2016_uik_463_region_69_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Алексеев Игорь Анатольевич": 2,
-      "Воробьёва Людмила Фёдоровна": 20,
-      "Дешёвкин Вадим Николаевич": 3,
-      "Клейменов Илья Юрьевич": 4,
-      "Максимова Светлана Викторовна": 73,
-      "Морозов Антон Юрьевич": 21,
-      "Чепа Алексей Васильевич": 16
+      "gas:candidate-vibid:26920001038978": 2,
+      "gas:candidate-vibid:26920001031524": 20,
+      "gas:candidate-vibid:26920001041178": 3,
+      "gas:candidate-vibid:26920001031509": 4,
+      "gas:candidate-vibid:26920001036855": 73,
+      "gas:candidate-vibid:26920001026315": 21,
+      "gas:candidate-vibid:26920001033851": 16
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tver?action=show&root=1000236&tvd=2692000982892&vrn=100100067795849&region=69&global=&sub_region=69&prver=0&pronetvd=null&vibid=2692000982892&type=464",
@@ -1867,13 +1867,13 @@ export const duma_2016_uik_463_region_69_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Алексеев Игорь Анатольевич": 19,
-      "Воробьёва Людмила Фёдоровна": 76,
-      "Дешёвкин Вадим Николаевич": 36,
-      "Клейменов Илья Юрьевич": 30,
-      "Максимова Светлана Викторовна": 211,
-      "Морозов Антон Юрьевич": 90,
-      "Чепа Алексей Васильевич": 131
+      "gas:candidate-vibid:26920001038978": 19,
+      "gas:candidate-vibid:26920001031524": 76,
+      "gas:candidate-vibid:26920001041178": 36,
+      "gas:candidate-vibid:26920001031509": 30,
+      "gas:candidate-vibid:26920001036855": 211,
+      "gas:candidate-vibid:26920001026315": 90,
+      "gas:candidate-vibid:26920001033851": 131
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tver?action=show&root=1000236&tvd=2692000982892&vrn=100100067795849&region=69&global=&sub_region=69&prver=0&pronetvd=null&vibid=2692000982892&type=464",
@@ -1924,13 +1924,13 @@ export const duma_2016_uik_463_region_69_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Алексеев Игорь Анатольевич": 12,
-      "Воробьёва Людмила Фёдоровна": 23,
-      "Дешёвкин Вадим Николаевич": 15,
-      "Клейменов Илья Юрьевич": 17,
-      "Максимова Светлана Викторовна": 83,
-      "Морозов Антон Юрьевич": 35,
-      "Чепа Алексей Васильевич": 55
+      "gas:candidate-vibid:26920001038978": 12,
+      "gas:candidate-vibid:26920001031524": 23,
+      "gas:candidate-vibid:26920001041178": 15,
+      "gas:candidate-vibid:26920001031509": 17,
+      "gas:candidate-vibid:26920001036855": 83,
+      "gas:candidate-vibid:26920001026315": 35,
+      "gas:candidate-vibid:26920001033851": 55
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tver?action=show&root=1000236&tvd=2692000982892&vrn=100100067795849&region=69&global=&sub_region=69&prver=0&pronetvd=null&vibid=2692000982892&type=464",
@@ -1981,13 +1981,13 @@ export const duma_2016_uik_463_region_69_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Алексеев Игорь Анатольевич": 21,
-      "Воробьёва Людмила Фёдоровна": 51,
-      "Дешёвкин Вадим Николаевич": 23,
-      "Клейменов Илья Юрьевич": 33,
-      "Максимова Светлана Викторовна": 98,
-      "Морозов Антон Юрьевич": 56,
-      "Чепа Алексей Васильевич": 91
+      "gas:candidate-vibid:26920001038978": 21,
+      "gas:candidate-vibid:26920001031524": 51,
+      "gas:candidate-vibid:26920001041178": 23,
+      "gas:candidate-vibid:26920001031509": 33,
+      "gas:candidate-vibid:26920001036855": 98,
+      "gas:candidate-vibid:26920001026315": 56,
+      "gas:candidate-vibid:26920001033851": 91
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tver?action=show&root=1000236&tvd=2692000982892&vrn=100100067795849&region=69&global=&sub_region=69&prver=0&pronetvd=null&vibid=2692000982892&type=464",
@@ -2038,13 +2038,13 @@ export const duma_2016_uik_463_region_69_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Алексеев Игорь Анатольевич": 16,
-      "Воробьёва Людмила Фёдоровна": 77,
-      "Дешёвкин Вадим Николаевич": 25,
-      "Клейменов Илья Юрьевич": 31,
-      "Максимова Светлана Викторовна": 152,
-      "Морозов Антон Юрьевич": 71,
-      "Чепа Алексей Васильевич": 152
+      "gas:candidate-vibid:26920001038978": 16,
+      "gas:candidate-vibid:26920001031524": 77,
+      "gas:candidate-vibid:26920001041178": 25,
+      "gas:candidate-vibid:26920001031509": 31,
+      "gas:candidate-vibid:26920001036855": 152,
+      "gas:candidate-vibid:26920001026315": 71,
+      "gas:candidate-vibid:26920001033851": 152
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tver?action=show&root=1000236&tvd=2692000982892&vrn=100100067795849&region=69&global=&sub_region=69&prver=0&pronetvd=null&vibid=2692000982892&type=464",
@@ -2095,13 +2095,13 @@ export const duma_2016_uik_463_region_69_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Алексеев Игорь Анатольевич": 24,
-      "Воробьёва Людмила Фёдоровна": 86,
-      "Дешёвкин Вадим Николаевич": 38,
-      "Клейменов Илья Юрьевич": 33,
-      "Максимова Светлана Викторовна": 168,
-      "Морозов Антон Юрьевич": 105,
-      "Чепа Алексей Васильевич": 178
+      "gas:candidate-vibid:26920001038978": 24,
+      "gas:candidate-vibid:26920001031524": 86,
+      "gas:candidate-vibid:26920001041178": 38,
+      "gas:candidate-vibid:26920001031509": 33,
+      "gas:candidate-vibid:26920001036855": 168,
+      "gas:candidate-vibid:26920001026315": 105,
+      "gas:candidate-vibid:26920001033851": 178
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tver?action=show&root=1000236&tvd=2692000982892&vrn=100100067795849&region=69&global=&sub_region=69&prver=0&pronetvd=null&vibid=2692000982892&type=464",
@@ -2152,13 +2152,13 @@ export const duma_2016_uik_463_region_69_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Алексеев Игорь Анатольевич": 19,
-      "Воробьёва Людмила Фёдоровна": 66,
-      "Дешёвкин Вадим Николаевич": 35,
-      "Клейменов Илья Юрьевич": 26,
-      "Максимова Светлана Викторовна": 177,
-      "Морозов Антон Юрьевич": 95,
-      "Чепа Алексей Васильевич": 149
+      "gas:candidate-vibid:26920001038978": 19,
+      "gas:candidate-vibid:26920001031524": 66,
+      "gas:candidate-vibid:26920001041178": 35,
+      "gas:candidate-vibid:26920001031509": 26,
+      "gas:candidate-vibid:26920001036855": 177,
+      "gas:candidate-vibid:26920001026315": 95,
+      "gas:candidate-vibid:26920001033851": 149
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tver?action=show&root=1000236&tvd=2692000982892&vrn=100100067795849&region=69&global=&sub_region=69&prver=0&pronetvd=null&vibid=2692000982892&type=464",
@@ -2209,13 +2209,13 @@ export const duma_2016_uik_463_region_69_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Алексеев Игорь Анатольевич": 30,
-      "Воробьёва Людмила Фёдоровна": 71,
-      "Дешёвкин Вадим Николаевич": 34,
-      "Клейменов Илья Юрьевич": 24,
-      "Максимова Светлана Викторовна": 167,
-      "Морозов Антон Юрьевич": 79,
-      "Чепа Алексей Васильевич": 200
+      "gas:candidate-vibid:26920001038978": 30,
+      "gas:candidate-vibid:26920001031524": 71,
+      "gas:candidate-vibid:26920001041178": 34,
+      "gas:candidate-vibid:26920001031509": 24,
+      "gas:candidate-vibid:26920001036855": 167,
+      "gas:candidate-vibid:26920001026315": 79,
+      "gas:candidate-vibid:26920001033851": 200
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tver?action=show&root=1000236&tvd=2692000982892&vrn=100100067795849&region=69&global=&sub_region=69&prver=0&pronetvd=null&vibid=2692000982892&type=464",
@@ -2266,13 +2266,13 @@ export const duma_2016_uik_463_region_69_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Алексеев Игорь Анатольевич": 18,
-      "Воробьёва Людмила Фёдоровна": 68,
-      "Дешёвкин Вадим Николаевич": 61,
-      "Клейменов Илья Юрьевич": 47,
-      "Максимова Светлана Викторовна": 172,
-      "Морозов Антон Юрьевич": 109,
-      "Чепа Алексей Васильевич": 213
+      "gas:candidate-vibid:26920001038978": 18,
+      "gas:candidate-vibid:26920001031524": 68,
+      "gas:candidate-vibid:26920001041178": 61,
+      "gas:candidate-vibid:26920001031509": 47,
+      "gas:candidate-vibid:26920001036855": 172,
+      "gas:candidate-vibid:26920001026315": 109,
+      "gas:candidate-vibid:26920001033851": 213
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tver?action=show&root=1000236&tvd=2692000982892&vrn=100100067795849&region=69&global=&sub_region=69&prver=0&pronetvd=null&vibid=2692000982892&type=464",
@@ -2323,13 +2323,13 @@ export const duma_2016_uik_463_region_69_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Алексеев Игорь Анатольевич": 25,
-      "Воробьёва Людмила Фёдоровна": 66,
-      "Дешёвкин Вадим Николаевич": 40,
-      "Клейменов Илья Юрьевич": 36,
-      "Максимова Светлана Викторовна": 193,
-      "Морозов Антон Юрьевич": 87,
-      "Чепа Алексей Васильевич": 197
+      "gas:candidate-vibid:26920001038978": 25,
+      "gas:candidate-vibid:26920001031524": 66,
+      "gas:candidate-vibid:26920001041178": 40,
+      "gas:candidate-vibid:26920001031509": 36,
+      "gas:candidate-vibid:26920001036855": 193,
+      "gas:candidate-vibid:26920001026315": 87,
+      "gas:candidate-vibid:26920001033851": 197
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tver?action=show&root=1000236&tvd=2692000982892&vrn=100100067795849&region=69&global=&sub_region=69&prver=0&pronetvd=null&vibid=2692000982892&type=464",
@@ -2380,13 +2380,13 @@ export const duma_2016_uik_463_region_69_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Алексеев Игорь Анатольевич": 30,
-      "Воробьёва Людмила Фёдоровна": 53,
-      "Дешёвкин Вадим Николаевич": 44,
-      "Клейменов Илья Юрьевич": 23,
-      "Максимова Светлана Викторовна": 185,
-      "Морозов Антон Юрьевич": 101,
-      "Чепа Алексей Васильевич": 217
+      "gas:candidate-vibid:26920001038978": 30,
+      "gas:candidate-vibid:26920001031524": 53,
+      "gas:candidate-vibid:26920001041178": 44,
+      "gas:candidate-vibid:26920001031509": 23,
+      "gas:candidate-vibid:26920001036855": 185,
+      "gas:candidate-vibid:26920001026315": 101,
+      "gas:candidate-vibid:26920001033851": 217
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tver?action=show&root=1000236&tvd=2692000982892&vrn=100100067795849&region=69&global=&sub_region=69&prver=0&pronetvd=null&vibid=2692000982892&type=464",
@@ -2437,13 +2437,13 @@ export const duma_2016_uik_463_region_69_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Алексеев Игорь Анатольевич": 30,
-      "Воробьёва Людмила Фёдоровна": 91,
-      "Дешёвкин Вадим Николаевич": 36,
-      "Клейменов Илья Юрьевич": 33,
-      "Максимова Светлана Викторовна": 142,
-      "Морозов Антон Юрьевич": 117,
-      "Чепа Алексей Васильевич": 172
+      "gas:candidate-vibid:26920001038978": 30,
+      "gas:candidate-vibid:26920001031524": 91,
+      "gas:candidate-vibid:26920001041178": 36,
+      "gas:candidate-vibid:26920001031509": 33,
+      "gas:candidate-vibid:26920001036855": 142,
+      "gas:candidate-vibid:26920001026315": 117,
+      "gas:candidate-vibid:26920001033851": 172
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tver?action=show&root=1000236&tvd=2692000982892&vrn=100100067795849&region=69&global=&sub_region=69&prver=0&pronetvd=null&vibid=2692000982892&type=464",
@@ -2494,13 +2494,13 @@ export const duma_2016_uik_463_region_69_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Алексеев Игорь Анатольевич": 21,
-      "Воробьёва Людмила Фёдоровна": 60,
-      "Дешёвкин Вадим Николаевич": 26,
-      "Клейменов Илья Юрьевич": 42,
-      "Максимова Светлана Викторовна": 164,
-      "Морозов Антон Юрьевич": 86,
-      "Чепа Алексей Васильевич": 132
+      "gas:candidate-vibid:26920001038978": 21,
+      "gas:candidate-vibid:26920001031524": 60,
+      "gas:candidate-vibid:26920001041178": 26,
+      "gas:candidate-vibid:26920001031509": 42,
+      "gas:candidate-vibid:26920001036855": 164,
+      "gas:candidate-vibid:26920001026315": 86,
+      "gas:candidate-vibid:26920001033851": 132
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tver?action=show&root=1000236&tvd=2692000982892&vrn=100100067795849&region=69&global=&sub_region=69&prver=0&pronetvd=null&vibid=2692000982892&type=464",
@@ -2551,13 +2551,13 @@ export const duma_2016_uik_463_region_69_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Алексеев Игорь Анатольевич": 23,
-      "Воробьёва Людмила Фёдоровна": 76,
-      "Дешёвкин Вадим Николаевич": 28,
-      "Клейменов Илья Юрьевич": 30,
-      "Максимова Светлана Викторовна": 171,
-      "Морозов Антон Юрьевич": 97,
-      "Чепа Алексей Васильевич": 164
+      "gas:candidate-vibid:26920001038978": 23,
+      "gas:candidate-vibid:26920001031524": 76,
+      "gas:candidate-vibid:26920001041178": 28,
+      "gas:candidate-vibid:26920001031509": 30,
+      "gas:candidate-vibid:26920001036855": 171,
+      "gas:candidate-vibid:26920001026315": 97,
+      "gas:candidate-vibid:26920001033851": 164
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tver?action=show&root=1000236&tvd=2692000982892&vrn=100100067795849&region=69&global=&sub_region=69&prver=0&pronetvd=null&vibid=2692000982892&type=464",
@@ -2608,13 +2608,13 @@ export const duma_2016_uik_463_region_69_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Алексеев Игорь Анатольевич": 24,
-      "Воробьёва Людмила Фёдоровна": 87,
-      "Дешёвкин Вадим Николаевич": 50,
-      "Клейменов Илья Юрьевич": 52,
-      "Максимова Светлана Викторовна": 227,
-      "Морозов Антон Юрьевич": 147,
-      "Чепа Алексей Васильевич": 177
+      "gas:candidate-vibid:26920001038978": 24,
+      "gas:candidate-vibid:26920001031524": 87,
+      "gas:candidate-vibid:26920001041178": 50,
+      "gas:candidate-vibid:26920001031509": 52,
+      "gas:candidate-vibid:26920001036855": 227,
+      "gas:candidate-vibid:26920001026315": 147,
+      "gas:candidate-vibid:26920001033851": 177
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tver?action=show&root=1000236&tvd=2692000982892&vrn=100100067795849&region=69&global=&sub_region=69&prver=0&pronetvd=null&vibid=2692000982892&type=464",
@@ -2665,13 +2665,13 @@ export const duma_2016_uik_463_region_69_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Алексеев Игорь Анатольевич": 42,
-      "Воробьёва Людмила Фёдоровна": 109,
-      "Дешёвкин Вадим Николаевич": 71,
-      "Клейменов Илья Юрьевич": 40,
-      "Максимова Светлана Викторовна": 188,
-      "Морозов Антон Юрьевич": 113,
-      "Чепа Алексей Васильевич": 214
+      "gas:candidate-vibid:26920001038978": 42,
+      "gas:candidate-vibid:26920001031524": 109,
+      "gas:candidate-vibid:26920001041178": 71,
+      "gas:candidate-vibid:26920001031509": 40,
+      "gas:candidate-vibid:26920001036855": 188,
+      "gas:candidate-vibid:26920001026315": 113,
+      "gas:candidate-vibid:26920001033851": 214
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tver?action=show&root=1000236&tvd=2692000982892&vrn=100100067795849&region=69&global=&sub_region=69&prver=0&pronetvd=null&vibid=2692000982892&type=464",
@@ -2722,13 +2722,13 @@ export const duma_2016_uik_463_region_69_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Алексеев Игорь Анатольевич": 21,
-      "Воробьёва Людмила Фёдоровна": 94,
-      "Дешёвкин Вадим Николаевич": 33,
-      "Клейменов Илья Юрьевич": 37,
-      "Максимова Светлана Викторовна": 195,
-      "Морозов Антон Юрьевич": 112,
-      "Чепа Алексей Васильевич": 133
+      "gas:candidate-vibid:26920001038978": 21,
+      "gas:candidate-vibid:26920001031524": 94,
+      "gas:candidate-vibid:26920001041178": 33,
+      "gas:candidate-vibid:26920001031509": 37,
+      "gas:candidate-vibid:26920001036855": 195,
+      "gas:candidate-vibid:26920001026315": 112,
+      "gas:candidate-vibid:26920001033851": 133
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tver?action=show&root=1000236&tvd=2692000982892&vrn=100100067795849&region=69&global=&sub_region=69&prver=0&pronetvd=null&vibid=2692000982892&type=464",
@@ -2779,13 +2779,13 @@ export const duma_2016_uik_463_region_69_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Алексеев Игорь Анатольевич": 8,
-      "Воробьёва Людмила Фёдоровна": 85,
-      "Дешёвкин Вадим Николаевич": 37,
-      "Клейменов Илья Юрьевич": 35,
-      "Максимова Светлана Викторовна": 229,
-      "Морозов Антон Юрьевич": 75,
-      "Чепа Алексей Васильевич": 137
+      "gas:candidate-vibid:26920001038978": 8,
+      "gas:candidate-vibid:26920001031524": 85,
+      "gas:candidate-vibid:26920001041178": 37,
+      "gas:candidate-vibid:26920001031509": 35,
+      "gas:candidate-vibid:26920001036855": 229,
+      "gas:candidate-vibid:26920001026315": 75,
+      "gas:candidate-vibid:26920001033851": 137
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tver?action=show&root=1000236&tvd=2692000982892&vrn=100100067795849&region=69&global=&sub_region=69&prver=0&pronetvd=null&vibid=2692000982892&type=464",
@@ -2836,13 +2836,13 @@ export const duma_2016_uik_463_region_69_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Алексеев Игорь Анатольевич": 7,
-      "Воробьёва Людмила Фёдоровна": 52,
-      "Дешёвкин Вадим Николаевич": 10,
-      "Клейменов Илья Юрьевич": 26,
-      "Максимова Светлана Викторовна": 97,
-      "Морозов Антон Юрьевич": 50,
-      "Чепа Алексей Васильевич": 75
+      "gas:candidate-vibid:26920001038978": 7,
+      "gas:candidate-vibid:26920001031524": 52,
+      "gas:candidate-vibid:26920001041178": 10,
+      "gas:candidate-vibid:26920001031509": 26,
+      "gas:candidate-vibid:26920001036855": 97,
+      "gas:candidate-vibid:26920001026315": 50,
+      "gas:candidate-vibid:26920001033851": 75
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tver?action=show&root=1000236&tvd=2692000982892&vrn=100100067795849&region=69&global=&sub_region=69&prver=0&pronetvd=null&vibid=2692000982892&type=464",
@@ -2893,13 +2893,13 @@ export const duma_2016_uik_463_region_69_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Алексеев Игорь Анатольевич": 13,
-      "Воробьёва Людмила Фёдоровна": 34,
-      "Дешёвкин Вадим Николаевич": 20,
-      "Клейменов Илья Юрьевич": 27,
-      "Максимова Светлана Викторовна": 155,
-      "Морозов Антон Юрьевич": 37,
-      "Чепа Алексей Васильевич": 58
+      "gas:candidate-vibid:26920001038978": 13,
+      "gas:candidate-vibid:26920001031524": 34,
+      "gas:candidate-vibid:26920001041178": 20,
+      "gas:candidate-vibid:26920001031509": 27,
+      "gas:candidate-vibid:26920001036855": 155,
+      "gas:candidate-vibid:26920001026315": 37,
+      "gas:candidate-vibid:26920001033851": 58
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tver?action=show&root=1000236&tvd=2692000982892&vrn=100100067795849&region=69&global=&sub_region=69&prver=0&pronetvd=null&vibid=2692000982892&type=464",
@@ -2950,13 +2950,13 @@ export const duma_2016_uik_463_region_69_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Алексеев Игорь Анатольевич": 13,
-      "Воробьёва Людмила Фёдоровна": 42,
-      "Дешёвкин Вадим Николаевич": 21,
-      "Клейменов Илья Юрьевич": 18,
-      "Максимова Светлана Викторовна": 136,
-      "Морозов Антон Юрьевич": 57,
-      "Чепа Алексей Васильевич": 36
+      "gas:candidate-vibid:26920001038978": 13,
+      "gas:candidate-vibid:26920001031524": 42,
+      "gas:candidate-vibid:26920001041178": 21,
+      "gas:candidate-vibid:26920001031509": 18,
+      "gas:candidate-vibid:26920001036855": 136,
+      "gas:candidate-vibid:26920001026315": 57,
+      "gas:candidate-vibid:26920001033851": 36
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tver?action=show&root=1000236&tvd=2692000982892&vrn=100100067795849&region=69&global=&sub_region=69&prver=0&pronetvd=null&vibid=2692000982892&type=464",
@@ -3007,13 +3007,13 @@ export const duma_2016_uik_463_region_69_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Алексеев Игорь Анатольевич": 14,
-      "Воробьёва Людмила Фёдоровна": 49,
-      "Дешёвкин Вадим Николаевич": 14,
-      "Клейменов Илья Юрьевич": 22,
-      "Максимова Светлана Викторовна": 151,
-      "Морозов Антон Юрьевич": 54,
-      "Чепа Алексей Васильевич": 72
+      "gas:candidate-vibid:26920001038978": 14,
+      "gas:candidate-vibid:26920001031524": 49,
+      "gas:candidate-vibid:26920001041178": 14,
+      "gas:candidate-vibid:26920001031509": 22,
+      "gas:candidate-vibid:26920001036855": 151,
+      "gas:candidate-vibid:26920001026315": 54,
+      "gas:candidate-vibid:26920001033851": 72
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tver?action=show&root=1000236&tvd=2692000982892&vrn=100100067795849&region=69&global=&sub_region=69&prver=0&pronetvd=null&vibid=2692000982892&type=464",
@@ -3064,13 +3064,13 @@ export const duma_2016_uik_463_region_69_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Алексеев Игорь Анатольевич": 9,
-      "Воробьёва Людмила Фёдоровна": 55,
-      "Дешёвкин Вадим Николаевич": 24,
-      "Клейменов Илья Юрьевич": 25,
-      "Максимова Светлана Викторовна": 185,
-      "Морозов Антон Юрьевич": 59,
-      "Чепа Алексей Васильевич": 82
+      "gas:candidate-vibid:26920001038978": 9,
+      "gas:candidate-vibid:26920001031524": 55,
+      "gas:candidate-vibid:26920001041178": 24,
+      "gas:candidate-vibid:26920001031509": 25,
+      "gas:candidate-vibid:26920001036855": 185,
+      "gas:candidate-vibid:26920001026315": 59,
+      "gas:candidate-vibid:26920001033851": 82
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tver?action=show&root=1000236&tvd=2692000982892&vrn=100100067795849&region=69&global=&sub_region=69&prver=0&pronetvd=null&vibid=2692000982892&type=464",
@@ -3121,13 +3121,13 @@ export const duma_2016_uik_463_region_69_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Алексеев Игорь Анатольевич": 20,
-      "Воробьёва Людмила Фёдоровна": 37,
-      "Дешёвкин Вадим Николаевич": 35,
-      "Клейменов Илья Юрьевич": 43,
-      "Максимова Светлана Викторовна": 288,
-      "Морозов Антон Юрьевич": 85,
-      "Чепа Алексей Васильевич": 34
+      "gas:candidate-vibid:26920001038978": 20,
+      "gas:candidate-vibid:26920001031524": 37,
+      "gas:candidate-vibid:26920001041178": 35,
+      "gas:candidate-vibid:26920001031509": 43,
+      "gas:candidate-vibid:26920001036855": 288,
+      "gas:candidate-vibid:26920001026315": 85,
+      "gas:candidate-vibid:26920001033851": 34
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tver?action=show&root=1000236&tvd=2692000982892&vrn=100100067795849&region=69&global=&sub_region=69&prver=0&pronetvd=null&vibid=2692000982892&type=464",
@@ -3178,13 +3178,13 @@ export const duma_2016_uik_463_region_69_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Алексеев Игорь Анатольевич": 13,
-      "Воробьёва Людмила Фёдоровна": 73,
-      "Дешёвкин Вадим Николаевич": 17,
-      "Клейменов Илья Юрьевич": 26,
-      "Максимова Светлана Викторовна": 229,
-      "Морозов Антон Юрьевич": 66,
-      "Чепа Алексей Васильевич": 39
+      "gas:candidate-vibid:26920001038978": 13,
+      "gas:candidate-vibid:26920001031524": 73,
+      "gas:candidate-vibid:26920001041178": 17,
+      "gas:candidate-vibid:26920001031509": 26,
+      "gas:candidate-vibid:26920001036855": 229,
+      "gas:candidate-vibid:26920001026315": 66,
+      "gas:candidate-vibid:26920001033851": 39
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tver?action=show&root=1000236&tvd=2692000982892&vrn=100100067795849&region=69&global=&sub_region=69&prver=0&pronetvd=null&vibid=2692000982892&type=464",
@@ -3235,13 +3235,13 @@ export const duma_2016_uik_463_region_69_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Алексеев Игорь Анатольевич": 34,
-      "Воробьёва Людмила Фёдоровна": 70,
-      "Дешёвкин Вадим Николаевич": 37,
-      "Клейменов Илья Юрьевич": 65,
-      "Максимова Светлана Викторовна": 391,
-      "Морозов Антон Юрьевич": 129,
-      "Чепа Алексей Васильевич": 97
+      "gas:candidate-vibid:26920001038978": 34,
+      "gas:candidate-vibid:26920001031524": 70,
+      "gas:candidate-vibid:26920001041178": 37,
+      "gas:candidate-vibid:26920001031509": 65,
+      "gas:candidate-vibid:26920001036855": 391,
+      "gas:candidate-vibid:26920001026315": 129,
+      "gas:candidate-vibid:26920001033851": 97
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tver?action=show&root=1000236&tvd=2692000982892&vrn=100100067795849&region=69&global=&sub_region=69&prver=0&pronetvd=null&vibid=2692000982892&type=464",
@@ -3292,13 +3292,13 @@ export const duma_2016_uik_463_region_69_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Алексеев Игорь Анатольевич": 9,
-      "Воробьёва Людмила Фёдоровна": 36,
-      "Дешёвкин Вадим Николаевич": 14,
-      "Клейменов Илья Юрьевич": 23,
-      "Максимова Светлана Викторовна": 156,
-      "Морозов Антон Юрьевич": 39,
-      "Чепа Алексей Васильевич": 30
+      "gas:candidate-vibid:26920001038978": 9,
+      "gas:candidate-vibid:26920001031524": 36,
+      "gas:candidate-vibid:26920001041178": 14,
+      "gas:candidate-vibid:26920001031509": 23,
+      "gas:candidate-vibid:26920001036855": 156,
+      "gas:candidate-vibid:26920001026315": 39,
+      "gas:candidate-vibid:26920001033851": 30
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tver?action=show&root=1000236&tvd=2692000982892&vrn=100100067795849&region=69&global=&sub_region=69&prver=0&pronetvd=null&vibid=2692000982892&type=464",
@@ -3349,13 +3349,13 @@ export const duma_2016_uik_463_region_69_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Алексеев Игорь Анатольевич": 11,
-      "Воробьёва Людмила Фёдоровна": 66,
-      "Дешёвкин Вадим Николаевич": 29,
-      "Клейменов Илья Юрьевич": 41,
-      "Максимова Светлана Викторовна": 298,
-      "Морозов Антон Юрьевич": 94,
-      "Чепа Алексей Васильевич": 89
+      "gas:candidate-vibid:26920001038978": 11,
+      "gas:candidate-vibid:26920001031524": 66,
+      "gas:candidate-vibid:26920001041178": 29,
+      "gas:candidate-vibid:26920001031509": 41,
+      "gas:candidate-vibid:26920001036855": 298,
+      "gas:candidate-vibid:26920001026315": 94,
+      "gas:candidate-vibid:26920001033851": 89
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tver?action=show&root=1000236&tvd=2692000982892&vrn=100100067795849&region=69&global=&sub_region=69&prver=0&pronetvd=null&vibid=2692000982892&type=464",
@@ -3406,13 +3406,13 @@ export const duma_2016_uik_463_region_69_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Алексеев Игорь Анатольевич": 9,
-      "Воробьёва Людмила Фёдоровна": 40,
-      "Дешёвкин Вадим Николаевич": 15,
-      "Клейменов Илья Юрьевич": 18,
-      "Максимова Светлана Викторовна": 223,
-      "Морозов Антон Юрьевич": 70,
-      "Чепа Алексей Васильевич": 13
+      "gas:candidate-vibid:26920001038978": 9,
+      "gas:candidate-vibid:26920001031524": 40,
+      "gas:candidate-vibid:26920001041178": 15,
+      "gas:candidate-vibid:26920001031509": 18,
+      "gas:candidate-vibid:26920001036855": 223,
+      "gas:candidate-vibid:26920001026315": 70,
+      "gas:candidate-vibid:26920001033851": 13
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tver?action=show&root=1000236&tvd=2692000982892&vrn=100100067795849&region=69&global=&sub_region=69&prver=0&pronetvd=null&vibid=2692000982892&type=464",
@@ -3463,13 +3463,13 @@ export const duma_2016_uik_463_region_69_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Алексеев Игорь Анатольевич": 8,
-      "Воробьёва Людмила Фёдоровна": 31,
-      "Дешёвкин Вадим Николаевич": 18,
-      "Клейменов Илья Юрьевич": 12,
-      "Максимова Светлана Викторовна": 142,
-      "Морозов Антон Юрьевич": 54,
-      "Чепа Алексей Васильевич": 28
+      "gas:candidate-vibid:26920001038978": 8,
+      "gas:candidate-vibid:26920001031524": 31,
+      "gas:candidate-vibid:26920001041178": 18,
+      "gas:candidate-vibid:26920001031509": 12,
+      "gas:candidate-vibid:26920001036855": 142,
+      "gas:candidate-vibid:26920001026315": 54,
+      "gas:candidate-vibid:26920001033851": 28
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tver?action=show&root=1000236&tvd=2692000982892&vrn=100100067795849&region=69&global=&sub_region=69&prver=0&pronetvd=null&vibid=2692000982892&type=464",
@@ -3520,13 +3520,13 @@ export const duma_2016_uik_463_region_69_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Алексеев Игорь Анатольевич": 14,
-      "Воробьёва Людмила Фёдоровна": 42,
-      "Дешёвкин Вадим Николаевич": 23,
-      "Клейменов Илья Юрьевич": 32,
-      "Максимова Светлана Викторовна": 146,
-      "Морозов Антон Юрьевич": 38,
-      "Чепа Алексей Васильевич": 47
+      "gas:candidate-vibid:26920001038978": 14,
+      "gas:candidate-vibid:26920001031524": 42,
+      "gas:candidate-vibid:26920001041178": 23,
+      "gas:candidate-vibid:26920001031509": 32,
+      "gas:candidate-vibid:26920001036855": 146,
+      "gas:candidate-vibid:26920001026315": 38,
+      "gas:candidate-vibid:26920001033851": 47
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tver?action=show&root=1000236&tvd=2692000982892&vrn=100100067795849&region=69&global=&sub_region=69&prver=0&pronetvd=null&vibid=2692000982892&type=464",
@@ -3577,13 +3577,13 @@ export const duma_2016_uik_463_region_69_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Алексеев Игорь Анатольевич": 12,
-      "Воробьёва Людмила Фёдоровна": 51,
-      "Дешёвкин Вадим Николаевич": 17,
-      "Клейменов Илья Юрьевич": 37,
-      "Максимова Светлана Викторовна": 289,
-      "Морозов Антон Юрьевич": 50,
-      "Чепа Алексей Васильевич": 29
+      "gas:candidate-vibid:26920001038978": 12,
+      "gas:candidate-vibid:26920001031524": 51,
+      "gas:candidate-vibid:26920001041178": 17,
+      "gas:candidate-vibid:26920001031509": 37,
+      "gas:candidate-vibid:26920001036855": 289,
+      "gas:candidate-vibid:26920001026315": 50,
+      "gas:candidate-vibid:26920001033851": 29
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tver?action=show&root=1000236&tvd=2692000982892&vrn=100100067795849&region=69&global=&sub_region=69&prver=0&pronetvd=null&vibid=2692000982892&type=464",
@@ -3634,13 +3634,13 @@ export const duma_2016_uik_463_region_69_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Алексеев Игорь Анатольевич": 18,
-      "Воробьёва Людмила Фёдоровна": 69,
-      "Дешёвкин Вадим Николаевич": 37,
-      "Клейменов Илья Юрьевич": 23,
-      "Максимова Светлана Викторовна": 410,
-      "Морозов Антон Юрьевич": 80,
-      "Чепа Алексей Васильевич": 122
+      "gas:candidate-vibid:26920001038978": 18,
+      "gas:candidate-vibid:26920001031524": 69,
+      "gas:candidate-vibid:26920001041178": 37,
+      "gas:candidate-vibid:26920001031509": 23,
+      "gas:candidate-vibid:26920001036855": 410,
+      "gas:candidate-vibid:26920001026315": 80,
+      "gas:candidate-vibid:26920001033851": 122
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tver?action=show&root=1000236&tvd=2692000982892&vrn=100100067795849&region=69&global=&sub_region=69&prver=0&pronetvd=null&vibid=2692000982892&type=464",
@@ -3691,13 +3691,13 @@ export const duma_2016_uik_463_region_69_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Алексеев Игорь Анатольевич": 5,
-      "Воробьёва Людмила Фёдоровна": 48,
-      "Дешёвкин Вадим Николаевич": 19,
-      "Клейменов Илья Юрьевич": 23,
-      "Максимова Светлана Викторовна": 121,
-      "Морозов Антон Юрьевич": 47,
-      "Чепа Алексей Васильевич": 89
+      "gas:candidate-vibid:26920001038978": 5,
+      "gas:candidate-vibid:26920001031524": 48,
+      "gas:candidate-vibid:26920001041178": 19,
+      "gas:candidate-vibid:26920001031509": 23,
+      "gas:candidate-vibid:26920001036855": 121,
+      "gas:candidate-vibid:26920001026315": 47,
+      "gas:candidate-vibid:26920001033851": 89
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tver?action=show&root=1000236&tvd=2692000982892&vrn=100100067795849&region=69&global=&sub_region=69&prver=0&pronetvd=null&vibid=2692000982892&type=464",
@@ -3748,13 +3748,13 @@ export const duma_2016_uik_463_region_69_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Алексеев Игорь Анатольевич": 1,
-      "Воробьёва Людмила Фёдоровна": 6,
-      "Дешёвкин Вадим Николаевич": 5,
-      "Клейменов Илья Юрьевич": 10,
-      "Максимова Светлана Викторовна": 114,
-      "Морозов Антон Юрьевич": 9,
-      "Чепа Алексей Васильевич": 5
+      "gas:candidate-vibid:26920001038978": 1,
+      "gas:candidate-vibid:26920001031524": 6,
+      "gas:candidate-vibid:26920001041178": 5,
+      "gas:candidate-vibid:26920001031509": 10,
+      "gas:candidate-vibid:26920001036855": 114,
+      "gas:candidate-vibid:26920001026315": 9,
+      "gas:candidate-vibid:26920001033851": 5
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tver?action=show&root=1000236&tvd=2692000982892&vrn=100100067795849&region=69&global=&sub_region=69&prver=0&pronetvd=null&vibid=2692000982892&type=464",
@@ -3805,13 +3805,13 @@ export const duma_2016_uik_463_region_69_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Алексеев Игорь Анатольевич": 22,
-      "Воробьёва Людмила Фёдоровна": 77,
-      "Дешёвкин Вадим Николаевич": 35,
-      "Клейменов Илья Юрьевич": 39,
-      "Максимова Светлана Викторовна": 298,
-      "Морозов Антон Юрьевич": 98,
-      "Чепа Алексей Васильевич": 148
+      "gas:candidate-vibid:26920001038978": 22,
+      "gas:candidate-vibid:26920001031524": 77,
+      "gas:candidate-vibid:26920001041178": 35,
+      "gas:candidate-vibid:26920001031509": 39,
+      "gas:candidate-vibid:26920001036855": 298,
+      "gas:candidate-vibid:26920001026315": 98,
+      "gas:candidate-vibid:26920001033851": 148
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tver?action=show&root=1000236&tvd=2692000982892&vrn=100100067795849&region=69&global=&sub_region=69&prver=0&pronetvd=null&vibid=2692000982892&type=464",
@@ -3862,13 +3862,13 @@ export const duma_2016_uik_463_region_69_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Алексеев Игорь Анатольевич": 24,
-      "Воробьёва Людмила Фёдоровна": 85,
-      "Дешёвкин Вадим Николаевич": 30,
-      "Клейменов Илья Юрьевич": 60,
-      "Максимова Светлана Викторовна": 292,
-      "Морозов Антон Юрьевич": 99,
-      "Чепа Алексей Васильевич": 125
+      "gas:candidate-vibid:26920001038978": 24,
+      "gas:candidate-vibid:26920001031524": 85,
+      "gas:candidate-vibid:26920001041178": 30,
+      "gas:candidate-vibid:26920001031509": 60,
+      "gas:candidate-vibid:26920001036855": 292,
+      "gas:candidate-vibid:26920001026315": 99,
+      "gas:candidate-vibid:26920001033851": 125
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tver?action=show&root=1000236&tvd=2692000982892&vrn=100100067795849&region=69&global=&sub_region=69&prver=0&pronetvd=null&vibid=2692000982892&type=464",
@@ -3919,13 +3919,13 @@ export const duma_2016_uik_463_region_69_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Алексеев Игорь Анатольевич": 18,
-      "Воробьёва Людмила Фёдоровна": 49,
-      "Дешёвкин Вадим Николаевич": 31,
-      "Клейменов Илья Юрьевич": 47,
-      "Максимова Светлана Викторовна": 239,
-      "Морозов Антон Юрьевич": 66,
-      "Чепа Алексей Васильевич": 54
+      "gas:candidate-vibid:26920001038978": 18,
+      "gas:candidate-vibid:26920001031524": 49,
+      "gas:candidate-vibid:26920001041178": 31,
+      "gas:candidate-vibid:26920001031509": 47,
+      "gas:candidate-vibid:26920001036855": 239,
+      "gas:candidate-vibid:26920001026315": 66,
+      "gas:candidate-vibid:26920001033851": 54
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tver?action=show&root=1000236&tvd=2692000982892&vrn=100100067795849&region=69&global=&sub_region=69&prver=0&pronetvd=null&vibid=2692000982892&type=464",
@@ -3976,13 +3976,13 @@ export const duma_2016_uik_463_region_69_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Алексеев Игорь Анатольевич": 8,
-      "Воробьёва Людмила Фёдоровна": 12,
-      "Дешёвкин Вадим Николаевич": 10,
-      "Клейменов Илья Юрьевич": 19,
-      "Максимова Светлана Викторовна": 70,
-      "Морозов Антон Юрьевич": 14,
-      "Чепа Алексей Васильевич": 17
+      "gas:candidate-vibid:26920001038978": 8,
+      "gas:candidate-vibid:26920001031524": 12,
+      "gas:candidate-vibid:26920001041178": 10,
+      "gas:candidate-vibid:26920001031509": 19,
+      "gas:candidate-vibid:26920001036855": 70,
+      "gas:candidate-vibid:26920001026315": 14,
+      "gas:candidate-vibid:26920001033851": 17
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tver?action=show&root=1000236&tvd=2692000982892&vrn=100100067795849&region=69&global=&sub_region=69&prver=0&pronetvd=null&vibid=2692000982892&type=464",
@@ -4033,13 +4033,13 @@ export const duma_2016_uik_463_region_69_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Алексеев Игорь Анатольевич": 27,
-      "Воробьёва Людмила Фёдоровна": 116,
-      "Дешёвкин Вадим Николаевич": 46,
-      "Клейменов Илья Юрьевич": 67,
-      "Максимова Светлана Викторовна": 287,
-      "Морозов Антон Юрьевич": 96,
-      "Чепа Алексей Васильевич": 115
+      "gas:candidate-vibid:26920001038978": 27,
+      "gas:candidate-vibid:26920001031524": 116,
+      "gas:candidate-vibid:26920001041178": 46,
+      "gas:candidate-vibid:26920001031509": 67,
+      "gas:candidate-vibid:26920001036855": 287,
+      "gas:candidate-vibid:26920001026315": 96,
+      "gas:candidate-vibid:26920001033851": 115
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tver?action=show&root=1000236&tvd=2692000982892&vrn=100100067795849&region=69&global=&sub_region=69&prver=0&pronetvd=null&vibid=2692000982892&type=464",
@@ -4090,13 +4090,13 @@ export const duma_2016_uik_463_region_69_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Алексеев Игорь Анатольевич": 24,
-      "Воробьёва Людмила Фёдоровна": 89,
-      "Дешёвкин Вадим Николаевич": 27,
-      "Клейменов Илья Юрьевич": 37,
-      "Максимова Светлана Викторовна": 249,
-      "Морозов Антон Юрьевич": 89,
-      "Чепа Алексей Васильевич": 133
+      "gas:candidate-vibid:26920001038978": 24,
+      "gas:candidate-vibid:26920001031524": 89,
+      "gas:candidate-vibid:26920001041178": 27,
+      "gas:candidate-vibid:26920001031509": 37,
+      "gas:candidate-vibid:26920001036855": 249,
+      "gas:candidate-vibid:26920001026315": 89,
+      "gas:candidate-vibid:26920001033851": 133
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tver?action=show&root=1000236&tvd=2692000982892&vrn=100100067795849&region=69&global=&sub_region=69&prver=0&pronetvd=null&vibid=2692000982892&type=464",
@@ -4147,13 +4147,13 @@ export const duma_2016_uik_463_region_69_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Алексеев Игорь Анатольевич": 11,
-      "Воробьёва Людмила Фёдоровна": 56,
-      "Дешёвкин Вадим Николаевич": 15,
-      "Клейменов Илья Юрьевич": 26,
-      "Максимова Светлана Викторовна": 215,
-      "Морозов Антон Юрьевич": 70,
-      "Чепа Алексей Васильевич": 31
+      "gas:candidate-vibid:26920001038978": 11,
+      "gas:candidate-vibid:26920001031524": 56,
+      "gas:candidate-vibid:26920001041178": 15,
+      "gas:candidate-vibid:26920001031509": 26,
+      "gas:candidate-vibid:26920001036855": 215,
+      "gas:candidate-vibid:26920001026315": 70,
+      "gas:candidate-vibid:26920001033851": 31
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tver?action=show&root=1000236&tvd=2692000982892&vrn=100100067795849&region=69&global=&sub_region=69&prver=0&pronetvd=null&vibid=2692000982892&type=464",
@@ -4204,13 +4204,13 @@ export const duma_2016_uik_463_region_69_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Алексеев Игорь Анатольевич": 12,
-      "Воробьёва Людмила Фёдоровна": 48,
-      "Дешёвкин Вадим Николаевич": 40,
-      "Клейменов Илья Юрьевич": 29,
-      "Максимова Светлана Викторовна": 223,
-      "Морозов Антон Юрьевич": 47,
-      "Чепа Алексей Васильевич": 79
+      "gas:candidate-vibid:26920001038978": 12,
+      "gas:candidate-vibid:26920001031524": 48,
+      "gas:candidate-vibid:26920001041178": 40,
+      "gas:candidate-vibid:26920001031509": 29,
+      "gas:candidate-vibid:26920001036855": 223,
+      "gas:candidate-vibid:26920001026315": 47,
+      "gas:candidate-vibid:26920001033851": 79
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tver?action=show&root=1000236&tvd=2692000982892&vrn=100100067795849&region=69&global=&sub_region=69&prver=0&pronetvd=null&vibid=2692000982892&type=464",
@@ -4261,13 +4261,13 @@ export const duma_2016_uik_463_region_69_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Алексеев Игорь Анатольевич": 5,
-      "Воробьёва Людмила Фёдоровна": 41,
-      "Дешёвкин Вадим Николаевич": 20,
-      "Клейменов Илья Юрьевич": 15,
-      "Максимова Светлана Викторовна": 336,
-      "Морозов Антон Юрьевич": 56,
-      "Чепа Алексей Васильевич": 42
+      "gas:candidate-vibid:26920001038978": 5,
+      "gas:candidate-vibid:26920001031524": 41,
+      "gas:candidate-vibid:26920001041178": 20,
+      "gas:candidate-vibid:26920001031509": 15,
+      "gas:candidate-vibid:26920001036855": 336,
+      "gas:candidate-vibid:26920001026315": 56,
+      "gas:candidate-vibid:26920001033851": 42
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tver?action=show&root=1000236&tvd=2692000982892&vrn=100100067795849&region=69&global=&sub_region=69&prver=0&pronetvd=null&vibid=2692000982892&type=464",
@@ -4318,13 +4318,13 @@ export const duma_2016_uik_463_region_69_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Алексеев Игорь Анатольевич": 0,
-      "Воробьёва Людмила Фёдоровна": 12,
-      "Дешёвкин Вадим Николаевич": 9,
-      "Клейменов Илья Юрьевич": 6,
-      "Максимова Светлана Викторовна": 65,
-      "Морозов Антон Юрьевич": 23,
-      "Чепа Алексей Васильевич": 9
+      "gas:candidate-vibid:26920001038978": 0,
+      "gas:candidate-vibid:26920001031524": 12,
+      "gas:candidate-vibid:26920001041178": 9,
+      "gas:candidate-vibid:26920001031509": 6,
+      "gas:candidate-vibid:26920001036855": 65,
+      "gas:candidate-vibid:26920001026315": 23,
+      "gas:candidate-vibid:26920001033851": 9
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tver?action=show&root=1000236&tvd=2692000982892&vrn=100100067795849&region=69&global=&sub_region=69&prver=0&pronetvd=null&vibid=2692000982892&type=464",
@@ -4375,13 +4375,13 @@ export const duma_2016_uik_463_region_69_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Алексеев Игорь Анатольевич": 1,
-      "Воробьёва Людмила Фёдоровна": 10,
-      "Дешёвкин Вадим Николаевич": 13,
-      "Клейменов Илья Юрьевич": 16,
-      "Максимова Светлана Викторовна": 73,
-      "Морозов Антон Юрьевич": 17,
-      "Чепа Алексей Васильевич": 13
+      "gas:candidate-vibid:26920001038978": 1,
+      "gas:candidate-vibid:26920001031524": 10,
+      "gas:candidate-vibid:26920001041178": 13,
+      "gas:candidate-vibid:26920001031509": 16,
+      "gas:candidate-vibid:26920001036855": 73,
+      "gas:candidate-vibid:26920001026315": 17,
+      "gas:candidate-vibid:26920001033851": 13
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tver?action=show&root=1000236&tvd=2692000982892&vrn=100100067795849&region=69&global=&sub_region=69&prver=0&pronetvd=null&vibid=2692000982892&type=464",
@@ -4432,13 +4432,13 @@ export const duma_2016_uik_463_region_69_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Алексеев Игорь Анатольевич": 2,
-      "Воробьёва Людмила Фёдоровна": 9,
-      "Дешёвкин Вадим Николаевич": 2,
-      "Клейменов Илья Юрьевич": 9,
-      "Максимова Светлана Викторовна": 119,
-      "Морозов Антон Юрьевич": 7,
-      "Чепа Алексей Васильевич": 3
+      "gas:candidate-vibid:26920001038978": 2,
+      "gas:candidate-vibid:26920001031524": 9,
+      "gas:candidate-vibid:26920001041178": 2,
+      "gas:candidate-vibid:26920001031509": 9,
+      "gas:candidate-vibid:26920001036855": 119,
+      "gas:candidate-vibid:26920001026315": 7,
+      "gas:candidate-vibid:26920001033851": 3
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tver?action=show&root=1000236&tvd=2692000982892&vrn=100100067795849&region=69&global=&sub_region=69&prver=0&pronetvd=null&vibid=2692000982892&type=464",
@@ -4489,13 +4489,13 @@ export const duma_2016_uik_463_region_69_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Алексеев Игорь Анатольевич": 2,
-      "Воробьёва Людмила Фёдоровна": 1,
-      "Дешёвкин Вадим Николаевич": 0,
-      "Клейменов Илья Юрьевич": 1,
-      "Максимова Светлана Викторовна": 16,
-      "Морозов Антон Юрьевич": 9,
-      "Чепа Алексей Васильевич": 8
+      "gas:candidate-vibid:26920001038978": 2,
+      "gas:candidate-vibid:26920001031524": 1,
+      "gas:candidate-vibid:26920001041178": 0,
+      "gas:candidate-vibid:26920001031509": 1,
+      "gas:candidate-vibid:26920001036855": 16,
+      "gas:candidate-vibid:26920001026315": 9,
+      "gas:candidate-vibid:26920001033851": 8
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tver?action=show&root=1000236&tvd=2692000982892&vrn=100100067795849&region=69&global=&sub_region=69&prver=0&pronetvd=null&vibid=2692000982892&type=464",
@@ -4546,13 +4546,13 @@ export const duma_2016_uik_463_region_69_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Алексеев Игорь Анатольевич": 18,
-      "Воробьёва Людмила Фёдоровна": 86,
-      "Дешёвкин Вадим Николаевич": 33,
-      "Клейменов Илья Юрьевич": 32,
-      "Максимова Светлана Викторовна": 313,
-      "Морозов Антон Юрьевич": 138,
-      "Чепа Алексей Васильевич": 244
+      "gas:candidate-vibid:26920001038978": 18,
+      "gas:candidate-vibid:26920001031524": 86,
+      "gas:candidate-vibid:26920001041178": 33,
+      "gas:candidate-vibid:26920001031509": 32,
+      "gas:candidate-vibid:26920001036855": 313,
+      "gas:candidate-vibid:26920001026315": 138,
+      "gas:candidate-vibid:26920001033851": 244
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tver?action=show&root=1000236&tvd=2692000982893&vrn=100100067795849&region=69&global=&sub_region=69&prver=0&pronetvd=null&vibid=2692000982893&type=464",
@@ -4603,13 +4603,13 @@ export const duma_2016_uik_463_region_69_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Алексеев Игорь Анатольевич": 22,
-      "Воробьёва Людмила Фёдоровна": 98,
-      "Дешёвкин Вадим Николаевич": 46,
-      "Клейменов Илья Юрьевич": 27,
-      "Максимова Светлана Викторовна": 297,
-      "Морозов Антон Юрьевич": 153,
-      "Чепа Алексей Васильевич": 221
+      "gas:candidate-vibid:26920001038978": 22,
+      "gas:candidate-vibid:26920001031524": 98,
+      "gas:candidate-vibid:26920001041178": 46,
+      "gas:candidate-vibid:26920001031509": 27,
+      "gas:candidate-vibid:26920001036855": 297,
+      "gas:candidate-vibid:26920001026315": 153,
+      "gas:candidate-vibid:26920001033851": 221
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tver?action=show&root=1000236&tvd=2692000982893&vrn=100100067795849&region=69&global=&sub_region=69&prver=0&pronetvd=null&vibid=2692000982893&type=464",
@@ -4660,13 +4660,13 @@ export const duma_2016_uik_463_region_69_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Алексеев Игорь Анатольевич": 14,
-      "Воробьёва Людмила Фёдоровна": 127,
-      "Дешёвкин Вадим Николаевич": 39,
-      "Клейменов Илья Юрьевич": 26,
-      "Максимова Светлана Викторовна": 256,
-      "Морозов Антон Юрьевич": 135,
-      "Чепа Алексей Васильевич": 173
+      "gas:candidate-vibid:26920001038978": 14,
+      "gas:candidate-vibid:26920001031524": 127,
+      "gas:candidate-vibid:26920001041178": 39,
+      "gas:candidate-vibid:26920001031509": 26,
+      "gas:candidate-vibid:26920001036855": 256,
+      "gas:candidate-vibid:26920001026315": 135,
+      "gas:candidate-vibid:26920001033851": 173
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tver?action=show&root=1000236&tvd=2692000982893&vrn=100100067795849&region=69&global=&sub_region=69&prver=0&pronetvd=null&vibid=2692000982893&type=464",
@@ -4717,13 +4717,13 @@ export const duma_2016_uik_463_region_69_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Алексеев Игорь Анатольевич": 18,
-      "Воробьёва Людмила Фёдоровна": 71,
-      "Дешёвкин Вадим Николаевич": 32,
-      "Клейменов Илья Юрьевич": 15,
-      "Максимова Светлана Викторовна": 190,
-      "Морозов Антон Юрьевич": 110,
-      "Чепа Алексей Васильевич": 166
+      "gas:candidate-vibid:26920001038978": 18,
+      "gas:candidate-vibid:26920001031524": 71,
+      "gas:candidate-vibid:26920001041178": 32,
+      "gas:candidate-vibid:26920001031509": 15,
+      "gas:candidate-vibid:26920001036855": 190,
+      "gas:candidate-vibid:26920001026315": 110,
+      "gas:candidate-vibid:26920001033851": 166
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tver?action=show&root=1000236&tvd=2692000982893&vrn=100100067795849&region=69&global=&sub_region=69&prver=0&pronetvd=null&vibid=2692000982893&type=464",
@@ -4774,13 +4774,13 @@ export const duma_2016_uik_463_region_69_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Алексеев Игорь Анатольевич": 23,
-      "Воробьёва Людмила Фёдоровна": 66,
-      "Дешёвкин Вадим Николаевич": 34,
-      "Клейменов Илья Юрьевич": 34,
-      "Максимова Светлана Викторовна": 268,
-      "Морозов Антон Юрьевич": 126,
-      "Чепа Алексей Васильевич": 180
+      "gas:candidate-vibid:26920001038978": 23,
+      "gas:candidate-vibid:26920001031524": 66,
+      "gas:candidate-vibid:26920001041178": 34,
+      "gas:candidate-vibid:26920001031509": 34,
+      "gas:candidate-vibid:26920001036855": 268,
+      "gas:candidate-vibid:26920001026315": 126,
+      "gas:candidate-vibid:26920001033851": 180
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tver?action=show&root=1000236&tvd=2692000982893&vrn=100100067795849&region=69&global=&sub_region=69&prver=0&pronetvd=null&vibid=2692000982893&type=464",
@@ -4831,13 +4831,13 @@ export const duma_2016_uik_463_region_69_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Алексеев Игорь Анатольевич": 9,
-      "Воробьёва Людмила Фёдоровна": 93,
-      "Дешёвкин Вадим Николаевич": 15,
-      "Клейменов Илья Юрьевич": 31,
-      "Максимова Светлана Викторовна": 264,
-      "Морозов Антон Юрьевич": 125,
-      "Чепа Алексей Васильевич": 157
+      "gas:candidate-vibid:26920001038978": 9,
+      "gas:candidate-vibid:26920001031524": 93,
+      "gas:candidate-vibid:26920001041178": 15,
+      "gas:candidate-vibid:26920001031509": 31,
+      "gas:candidate-vibid:26920001036855": 264,
+      "gas:candidate-vibid:26920001026315": 125,
+      "gas:candidate-vibid:26920001033851": 157
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tver?action=show&root=1000236&tvd=2692000982893&vrn=100100067795849&region=69&global=&sub_region=69&prver=0&pronetvd=null&vibid=2692000982893&type=464",
@@ -4888,13 +4888,13 @@ export const duma_2016_uik_463_region_69_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Алексеев Игорь Анатольевич": 16,
-      "Воробьёва Людмила Фёдоровна": 94,
-      "Дешёвкин Вадим Николаевич": 52,
-      "Клейменов Илья Юрьевич": 24,
-      "Максимова Светлана Викторовна": 274,
-      "Морозов Антон Юрьевич": 88,
-      "Чепа Алексей Васильевич": 139
+      "gas:candidate-vibid:26920001038978": 16,
+      "gas:candidate-vibid:26920001031524": 94,
+      "gas:candidate-vibid:26920001041178": 52,
+      "gas:candidate-vibid:26920001031509": 24,
+      "gas:candidate-vibid:26920001036855": 274,
+      "gas:candidate-vibid:26920001026315": 88,
+      "gas:candidate-vibid:26920001033851": 139
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tver?action=show&root=1000236&tvd=2692000982893&vrn=100100067795849&region=69&global=&sub_region=69&prver=0&pronetvd=null&vibid=2692000982893&type=464",
@@ -4945,13 +4945,13 @@ export const duma_2016_uik_463_region_69_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Алексеев Игорь Анатольевич": 21,
-      "Воробьёва Людмила Фёдоровна": 89,
-      "Дешёвкин Вадим Николаевич": 23,
-      "Клейменов Илья Юрьевич": 17,
-      "Максимова Светлана Викторовна": 213,
-      "Морозов Антон Юрьевич": 85,
-      "Чепа Алексей Васильевич": 138
+      "gas:candidate-vibid:26920001038978": 21,
+      "gas:candidate-vibid:26920001031524": 89,
+      "gas:candidate-vibid:26920001041178": 23,
+      "gas:candidate-vibid:26920001031509": 17,
+      "gas:candidate-vibid:26920001036855": 213,
+      "gas:candidate-vibid:26920001026315": 85,
+      "gas:candidate-vibid:26920001033851": 138
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tver?action=show&root=1000236&tvd=2692000982893&vrn=100100067795849&region=69&global=&sub_region=69&prver=0&pronetvd=null&vibid=2692000982893&type=464",
@@ -5002,13 +5002,13 @@ export const duma_2016_uik_463_region_69_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Алексеев Игорь Анатольевич": 16,
-      "Воробьёва Людмила Фёдоровна": 67,
-      "Дешёвкин Вадим Николаевич": 40,
-      "Клейменов Илья Юрьевич": 19,
-      "Максимова Светлана Викторовна": 150,
-      "Морозов Антон Юрьевич": 80,
-      "Чепа Алексей Васильевич": 96
+      "gas:candidate-vibid:26920001038978": 16,
+      "gas:candidate-vibid:26920001031524": 67,
+      "gas:candidate-vibid:26920001041178": 40,
+      "gas:candidate-vibid:26920001031509": 19,
+      "gas:candidate-vibid:26920001036855": 150,
+      "gas:candidate-vibid:26920001026315": 80,
+      "gas:candidate-vibid:26920001033851": 96
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tver?action=show&root=1000236&tvd=2692000982893&vrn=100100067795849&region=69&global=&sub_region=69&prver=0&pronetvd=null&vibid=2692000982893&type=464",
@@ -5059,13 +5059,13 @@ export const duma_2016_uik_463_region_69_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Алексеев Игорь Анатольевич": 9,
-      "Воробьёва Людмила Фёдоровна": 29,
-      "Дешёвкин Вадим Николаевич": 14,
-      "Клейменов Илья Юрьевич": 13,
-      "Максимова Светлана Викторовна": 94,
-      "Морозов Антон Юрьевич": 68,
-      "Чепа Алексей Васильевич": 85
+      "gas:candidate-vibid:26920001038978": 9,
+      "gas:candidate-vibid:26920001031524": 29,
+      "gas:candidate-vibid:26920001041178": 14,
+      "gas:candidate-vibid:26920001031509": 13,
+      "gas:candidate-vibid:26920001036855": 94,
+      "gas:candidate-vibid:26920001026315": 68,
+      "gas:candidate-vibid:26920001033851": 85
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tver?action=show&root=1000236&tvd=2692000982893&vrn=100100067795849&region=69&global=&sub_region=69&prver=0&pronetvd=null&vibid=2692000982893&type=464",
@@ -5116,13 +5116,13 @@ export const duma_2016_uik_463_region_69_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Алексеев Игорь Анатольевич": 19,
-      "Воробьёва Людмила Фёдоровна": 98,
-      "Дешёвкин Вадим Николаевич": 47,
-      "Клейменов Илья Юрьевич": 21,
-      "Максимова Светлана Викторовна": 198,
-      "Морозов Антон Юрьевич": 131,
-      "Чепа Алексей Васильевич": 171
+      "gas:candidate-vibid:26920001038978": 19,
+      "gas:candidate-vibid:26920001031524": 98,
+      "gas:candidate-vibid:26920001041178": 47,
+      "gas:candidate-vibid:26920001031509": 21,
+      "gas:candidate-vibid:26920001036855": 198,
+      "gas:candidate-vibid:26920001026315": 131,
+      "gas:candidate-vibid:26920001033851": 171
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tver?action=show&root=1000236&tvd=2692000982893&vrn=100100067795849&region=69&global=&sub_region=69&prver=0&pronetvd=null&vibid=2692000982893&type=464",
@@ -5173,13 +5173,13 @@ export const duma_2016_uik_463_region_69_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Алексеев Игорь Анатольевич": 25,
-      "Воробьёва Людмила Фёдоровна": 74,
-      "Дешёвкин Вадим Николаевич": 44,
-      "Клейменов Илья Юрьевич": 25,
-      "Максимова Светлана Викторовна": 192,
-      "Морозов Антон Юрьевич": 121,
-      "Чепа Алексей Васильевич": 202
+      "gas:candidate-vibid:26920001038978": 25,
+      "gas:candidate-vibid:26920001031524": 74,
+      "gas:candidate-vibid:26920001041178": 44,
+      "gas:candidate-vibid:26920001031509": 25,
+      "gas:candidate-vibid:26920001036855": 192,
+      "gas:candidate-vibid:26920001026315": 121,
+      "gas:candidate-vibid:26920001033851": 202
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tver?action=show&root=1000236&tvd=2692000982893&vrn=100100067795849&region=69&global=&sub_region=69&prver=0&pronetvd=null&vibid=2692000982893&type=464",
@@ -5230,13 +5230,13 @@ export const duma_2016_uik_463_region_69_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Алексеев Игорь Анатольевич": 28,
-      "Воробьёва Людмила Фёдоровна": 104,
-      "Дешёвкин Вадим Николаевич": 31,
-      "Клейменов Илья Юрьевич": 34,
-      "Максимова Светлана Викторовна": 218,
-      "Морозов Антон Юрьевич": 137,
-      "Чепа Алексей Васильевич": 179
+      "gas:candidate-vibid:26920001038978": 28,
+      "gas:candidate-vibid:26920001031524": 104,
+      "gas:candidate-vibid:26920001041178": 31,
+      "gas:candidate-vibid:26920001031509": 34,
+      "gas:candidate-vibid:26920001036855": 218,
+      "gas:candidate-vibid:26920001026315": 137,
+      "gas:candidate-vibid:26920001033851": 179
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tver?action=show&root=1000236&tvd=2692000982893&vrn=100100067795849&region=69&global=&sub_region=69&prver=0&pronetvd=null&vibid=2692000982893&type=464",
@@ -5287,13 +5287,13 @@ export const duma_2016_uik_463_region_69_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Алексеев Игорь Анатольевич": 26,
-      "Воробьёва Людмила Фёдоровна": 107,
-      "Дешёвкин Вадим Николаевич": 31,
-      "Клейменов Илья Юрьевич": 32,
-      "Максимова Светлана Викторовна": 242,
-      "Морозов Антон Юрьевич": 125,
-      "Чепа Алексей Васильевич": 201
+      "gas:candidate-vibid:26920001038978": 26,
+      "gas:candidate-vibid:26920001031524": 107,
+      "gas:candidate-vibid:26920001041178": 31,
+      "gas:candidate-vibid:26920001031509": 32,
+      "gas:candidate-vibid:26920001036855": 242,
+      "gas:candidate-vibid:26920001026315": 125,
+      "gas:candidate-vibid:26920001033851": 201
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tver?action=show&root=1000236&tvd=2692000982893&vrn=100100067795849&region=69&global=&sub_region=69&prver=0&pronetvd=null&vibid=2692000982893&type=464",
@@ -5344,13 +5344,13 @@ export const duma_2016_uik_463_region_69_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Алексеев Игорь Анатольевич": 21,
-      "Воробьёва Людмила Фёдоровна": 100,
-      "Дешёвкин Вадим Николаевич": 24,
-      "Клейменов Илья Юрьевич": 36,
-      "Максимова Светлана Викторовна": 227,
-      "Морозов Антон Юрьевич": 123,
-      "Чепа Алексей Васильевич": 128
+      "gas:candidate-vibid:26920001038978": 21,
+      "gas:candidate-vibid:26920001031524": 100,
+      "gas:candidate-vibid:26920001041178": 24,
+      "gas:candidate-vibid:26920001031509": 36,
+      "gas:candidate-vibid:26920001036855": 227,
+      "gas:candidate-vibid:26920001026315": 123,
+      "gas:candidate-vibid:26920001033851": 128
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tver?action=show&root=1000236&tvd=2692000982893&vrn=100100067795849&region=69&global=&sub_region=69&prver=0&pronetvd=null&vibid=2692000982893&type=464",
@@ -5401,13 +5401,13 @@ export const duma_2016_uik_463_region_69_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Алексеев Игорь Анатольевич": 23,
-      "Воробьёва Людмила Фёдоровна": 129,
-      "Дешёвкин Вадим Николаевич": 34,
-      "Клейменов Илья Юрьевич": 30,
-      "Максимова Светлана Викторовна": 256,
-      "Морозов Антон Юрьевич": 121,
-      "Чепа Алексей Васильевич": 169
+      "gas:candidate-vibid:26920001038978": 23,
+      "gas:candidate-vibid:26920001031524": 129,
+      "gas:candidate-vibid:26920001041178": 34,
+      "gas:candidate-vibid:26920001031509": 30,
+      "gas:candidate-vibid:26920001036855": 256,
+      "gas:candidate-vibid:26920001026315": 121,
+      "gas:candidate-vibid:26920001033851": 169
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tver?action=show&root=1000236&tvd=2692000982893&vrn=100100067795849&region=69&global=&sub_region=69&prver=0&pronetvd=null&vibid=2692000982893&type=464",
@@ -5458,13 +5458,13 @@ export const duma_2016_uik_463_region_69_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Алексеев Игорь Анатольевич": 21,
-      "Воробьёва Людмила Фёдоровна": 120,
-      "Дешёвкин Вадим Николаевич": 31,
-      "Клейменов Илья Юрьевич": 47,
-      "Максимова Светлана Викторовна": 227,
-      "Морозов Антон Юрьевич": 131,
-      "Чепа Алексей Васильевич": 176
+      "gas:candidate-vibid:26920001038978": 21,
+      "gas:candidate-vibid:26920001031524": 120,
+      "gas:candidate-vibid:26920001041178": 31,
+      "gas:candidate-vibid:26920001031509": 47,
+      "gas:candidate-vibid:26920001036855": 227,
+      "gas:candidate-vibid:26920001026315": 131,
+      "gas:candidate-vibid:26920001033851": 176
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tver?action=show&root=1000236&tvd=2692000982893&vrn=100100067795849&region=69&global=&sub_region=69&prver=0&pronetvd=null&vibid=2692000982893&type=464",
@@ -5515,13 +5515,13 @@ export const duma_2016_uik_463_region_69_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Алексеев Игорь Анатольевич": 17,
-      "Воробьёва Людмила Фёдоровна": 92,
-      "Дешёвкин Вадим Николаевич": 32,
-      "Клейменов Илья Юрьевич": 26,
-      "Максимова Светлана Викторовна": 273,
-      "Морозов Антон Юрьевич": 121,
-      "Чепа Алексей Васильевич": 193
+      "gas:candidate-vibid:26920001038978": 17,
+      "gas:candidate-vibid:26920001031524": 92,
+      "gas:candidate-vibid:26920001041178": 32,
+      "gas:candidate-vibid:26920001031509": 26,
+      "gas:candidate-vibid:26920001036855": 273,
+      "gas:candidate-vibid:26920001026315": 121,
+      "gas:candidate-vibid:26920001033851": 193
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tver?action=show&root=1000236&tvd=2692000982893&vrn=100100067795849&region=69&global=&sub_region=69&prver=0&pronetvd=null&vibid=2692000982893&type=464",
@@ -5572,13 +5572,13 @@ export const duma_2016_uik_463_region_69_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Алексеев Игорь Анатольевич": 20,
-      "Воробьёва Людмила Фёдоровна": 104,
-      "Дешёвкин Вадим Николаевич": 43,
-      "Клейменов Илья Юрьевич": 41,
-      "Максимова Светлана Викторовна": 300,
-      "Морозов Антон Юрьевич": 133,
-      "Чепа Алексей Васильевич": 181
+      "gas:candidate-vibid:26920001038978": 20,
+      "gas:candidate-vibid:26920001031524": 104,
+      "gas:candidate-vibid:26920001041178": 43,
+      "gas:candidate-vibid:26920001031509": 41,
+      "gas:candidate-vibid:26920001036855": 300,
+      "gas:candidate-vibid:26920001026315": 133,
+      "gas:candidate-vibid:26920001033851": 181
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tver?action=show&root=1000236&tvd=2692000982893&vrn=100100067795849&region=69&global=&sub_region=69&prver=0&pronetvd=null&vibid=2692000982893&type=464",
@@ -5629,13 +5629,13 @@ export const duma_2016_uik_463_region_69_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Алексеев Игорь Анатольевич": 27,
-      "Воробьёва Людмила Фёдоровна": 93,
-      "Дешёвкин Вадим Николаевич": 35,
-      "Клейменов Илья Юрьевич": 50,
-      "Максимова Светлана Викторовна": 310,
-      "Морозов Антон Юрьевич": 148,
-      "Чепа Алексей Васильевич": 154
+      "gas:candidate-vibid:26920001038978": 27,
+      "gas:candidate-vibid:26920001031524": 93,
+      "gas:candidate-vibid:26920001041178": 35,
+      "gas:candidate-vibid:26920001031509": 50,
+      "gas:candidate-vibid:26920001036855": 310,
+      "gas:candidate-vibid:26920001026315": 148,
+      "gas:candidate-vibid:26920001033851": 154
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tver?action=show&root=1000236&tvd=2692000982893&vrn=100100067795849&region=69&global=&sub_region=69&prver=0&pronetvd=null&vibid=2692000982893&type=464",
@@ -5686,13 +5686,13 @@ export const duma_2016_uik_463_region_69_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Алексеев Игорь Анатольевич": 22,
-      "Воробьёва Людмила Фёдоровна": 113,
-      "Дешёвкин Вадим Николаевич": 48,
-      "Клейменов Илья Юрьевич": 31,
-      "Максимова Светлана Викторовна": 223,
-      "Морозов Антон Юрьевич": 131,
-      "Чепа Алексей Васильевич": 195
+      "gas:candidate-vibid:26920001038978": 22,
+      "gas:candidate-vibid:26920001031524": 113,
+      "gas:candidate-vibid:26920001041178": 48,
+      "gas:candidate-vibid:26920001031509": 31,
+      "gas:candidate-vibid:26920001036855": 223,
+      "gas:candidate-vibid:26920001026315": 131,
+      "gas:candidate-vibid:26920001033851": 195
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tver?action=show&root=1000236&tvd=2692000982893&vrn=100100067795849&region=69&global=&sub_region=69&prver=0&pronetvd=null&vibid=2692000982893&type=464",
@@ -5743,13 +5743,13 @@ export const duma_2016_uik_463_region_69_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Алексеев Игорь Анатольевич": 1,
-      "Воробьёва Людмила Фёдоровна": 15,
-      "Дешёвкин Вадим Николаевич": 4,
-      "Клейменов Илья Юрьевич": 8,
-      "Максимова Светлана Викторовна": 26,
-      "Морозов Антон Юрьевич": 13,
-      "Чепа Алексей Васильевич": 18
+      "gas:candidate-vibid:26920001038978": 1,
+      "gas:candidate-vibid:26920001031524": 15,
+      "gas:candidate-vibid:26920001041178": 4,
+      "gas:candidate-vibid:26920001031509": 8,
+      "gas:candidate-vibid:26920001036855": 26,
+      "gas:candidate-vibid:26920001026315": 13,
+      "gas:candidate-vibid:26920001033851": 18
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tver?action=show&root=1000236&tvd=2692000982893&vrn=100100067795849&region=69&global=&sub_region=69&prver=0&pronetvd=null&vibid=2692000982893&type=464",
@@ -5800,13 +5800,13 @@ export const duma_2016_uik_463_region_69_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Алексеев Игорь Анатольевич": 9,
-      "Воробьёва Людмила Фёдоровна": 94,
-      "Дешёвкин Вадим Николаевич": 20,
-      "Клейменов Илья Юрьевич": 29,
-      "Максимова Светлана Викторовна": 241,
-      "Морозов Антон Юрьевич": 108,
-      "Чепа Алексей Васильевич": 218
+      "gas:candidate-vibid:26920001038978": 9,
+      "gas:candidate-vibid:26920001031524": 94,
+      "gas:candidate-vibid:26920001041178": 20,
+      "gas:candidate-vibid:26920001031509": 29,
+      "gas:candidate-vibid:26920001036855": 241,
+      "gas:candidate-vibid:26920001026315": 108,
+      "gas:candidate-vibid:26920001033851": 218
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tver?action=show&root=1000236&tvd=2692000982894&vrn=100100067795849&region=69&global=&sub_region=69&prver=0&pronetvd=null&vibid=2692000982894&type=464",
@@ -5857,13 +5857,13 @@ export const duma_2016_uik_463_region_69_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Алексеев Игорь Анатольевич": 2,
-      "Воробьёва Людмила Фёдоровна": 10,
-      "Дешёвкин Вадим Николаевич": 7,
-      "Клейменов Илья Юрьевич": 8,
-      "Максимова Светлана Викторовна": 89,
-      "Морозов Антон Юрьевич": 23,
-      "Чепа Алексей Васильевич": 22
+      "gas:candidate-vibid:26920001038978": 2,
+      "gas:candidate-vibid:26920001031524": 10,
+      "gas:candidate-vibid:26920001041178": 7,
+      "gas:candidate-vibid:26920001031509": 8,
+      "gas:candidate-vibid:26920001036855": 89,
+      "gas:candidate-vibid:26920001026315": 23,
+      "gas:candidate-vibid:26920001033851": 22
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tver?action=show&root=1000236&tvd=2692000982894&vrn=100100067795849&region=69&global=&sub_region=69&prver=0&pronetvd=null&vibid=2692000982894&type=464",
@@ -5914,13 +5914,13 @@ export const duma_2016_uik_463_region_69_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Алексеев Игорь Анатольевич": 17,
-      "Воробьёва Людмила Фёдоровна": 46,
-      "Дешёвкин Вадим Николаевич": 16,
-      "Клейменов Илья Юрьевич": 34,
-      "Максимова Светлана Викторовна": 313,
-      "Морозов Антон Юрьевич": 87,
-      "Чепа Алексей Васильевич": 57
+      "gas:candidate-vibid:26920001038978": 17,
+      "gas:candidate-vibid:26920001031524": 46,
+      "gas:candidate-vibid:26920001041178": 16,
+      "gas:candidate-vibid:26920001031509": 34,
+      "gas:candidate-vibid:26920001036855": 313,
+      "gas:candidate-vibid:26920001026315": 87,
+      "gas:candidate-vibid:26920001033851": 57
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tver?action=show&root=1000236&tvd=2692000982894&vrn=100100067795849&region=69&global=&sub_region=69&prver=0&pronetvd=null&vibid=2692000982894&type=464",
@@ -5971,13 +5971,13 @@ export const duma_2016_uik_463_region_69_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Алексеев Игорь Анатольевич": 21,
-      "Воробьёва Людмила Фёдоровна": 54,
-      "Дешёвкин Вадим Николаевич": 19,
-      "Клейменов Илья Юрьевич": 23,
-      "Максимова Светлана Викторовна": 257,
-      "Морозов Антон Юрьевич": 75,
-      "Чепа Алексей Васильевич": 69
+      "gas:candidate-vibid:26920001038978": 21,
+      "gas:candidate-vibid:26920001031524": 54,
+      "gas:candidate-vibid:26920001041178": 19,
+      "gas:candidate-vibid:26920001031509": 23,
+      "gas:candidate-vibid:26920001036855": 257,
+      "gas:candidate-vibid:26920001026315": 75,
+      "gas:candidate-vibid:26920001033851": 69
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tver?action=show&root=1000236&tvd=2692000982894&vrn=100100067795849&region=69&global=&sub_region=69&prver=0&pronetvd=null&vibid=2692000982894&type=464",
@@ -6028,13 +6028,13 @@ export const duma_2016_uik_463_region_69_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Алексеев Игорь Анатольевич": 8,
-      "Воробьёва Людмила Фёдоровна": 7,
-      "Дешёвкин Вадим Николаевич": 11,
-      "Клейменов Илья Юрьевич": 9,
-      "Максимова Светлана Викторовна": 71,
-      "Морозов Антон Юрьевич": 19,
-      "Чепа Алексей Васильевич": 15
+      "gas:candidate-vibid:26920001038978": 8,
+      "gas:candidate-vibid:26920001031524": 7,
+      "gas:candidate-vibid:26920001041178": 11,
+      "gas:candidate-vibid:26920001031509": 9,
+      "gas:candidate-vibid:26920001036855": 71,
+      "gas:candidate-vibid:26920001026315": 19,
+      "gas:candidate-vibid:26920001033851": 15
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tver?action=show&root=1000236&tvd=2692000982894&vrn=100100067795849&region=69&global=&sub_region=69&prver=0&pronetvd=null&vibid=2692000982894&type=464",
@@ -6085,13 +6085,13 @@ export const duma_2016_uik_463_region_69_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Алексеев Игорь Анатольевич": 7,
-      "Воробьёва Людмила Фёдоровна": 33,
-      "Дешёвкин Вадим Николаевич": 25,
-      "Клейменов Илья Юрьевич": 13,
-      "Максимова Светлана Викторовна": 182,
-      "Морозов Антон Юрьевич": 41,
-      "Чепа Алексей Васильевич": 45
+      "gas:candidate-vibid:26920001038978": 7,
+      "gas:candidate-vibid:26920001031524": 33,
+      "gas:candidate-vibid:26920001041178": 25,
+      "gas:candidate-vibid:26920001031509": 13,
+      "gas:candidate-vibid:26920001036855": 182,
+      "gas:candidate-vibid:26920001026315": 41,
+      "gas:candidate-vibid:26920001033851": 45
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tver?action=show&root=1000236&tvd=2692000982894&vrn=100100067795849&region=69&global=&sub_region=69&prver=0&pronetvd=null&vibid=2692000982894&type=464",
@@ -6142,13 +6142,13 @@ export const duma_2016_uik_463_region_69_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Алексеев Игорь Анатольевич": 7,
-      "Воробьёва Людмила Фёдоровна": 12,
-      "Дешёвкин Вадим Николаевич": 18,
-      "Клейменов Илья Юрьевич": 3,
-      "Максимова Светлана Викторовна": 138,
-      "Морозов Антон Юрьевич": 27,
-      "Чепа Алексей Васильевич": 18
+      "gas:candidate-vibid:26920001038978": 7,
+      "gas:candidate-vibid:26920001031524": 12,
+      "gas:candidate-vibid:26920001041178": 18,
+      "gas:candidate-vibid:26920001031509": 3,
+      "gas:candidate-vibid:26920001036855": 138,
+      "gas:candidate-vibid:26920001026315": 27,
+      "gas:candidate-vibid:26920001033851": 18
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tver?action=show&root=1000236&tvd=2692000982894&vrn=100100067795849&region=69&global=&sub_region=69&prver=0&pronetvd=null&vibid=2692000982894&type=464",
@@ -6199,13 +6199,13 @@ export const duma_2016_uik_463_region_69_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Алексеев Игорь Анатольевич": 3,
-      "Воробьёва Людмила Фёдоровна": 40,
-      "Дешёвкин Вадим Николаевич": 14,
-      "Клейменов Илья Юрьевич": 9,
-      "Максимова Светлана Викторовна": 169,
-      "Морозов Антон Юрьевич": 25,
-      "Чепа Алексей Васильевич": 21
+      "gas:candidate-vibid:26920001038978": 3,
+      "gas:candidate-vibid:26920001031524": 40,
+      "gas:candidate-vibid:26920001041178": 14,
+      "gas:candidate-vibid:26920001031509": 9,
+      "gas:candidate-vibid:26920001036855": 169,
+      "gas:candidate-vibid:26920001026315": 25,
+      "gas:candidate-vibid:26920001033851": 21
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tver?action=show&root=1000236&tvd=2692000982894&vrn=100100067795849&region=69&global=&sub_region=69&prver=0&pronetvd=null&vibid=2692000982894&type=464",
@@ -6256,13 +6256,13 @@ export const duma_2016_uik_463_region_69_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Алексеев Игорь Анатольевич": 4,
-      "Воробьёва Людмила Фёдоровна": 24,
-      "Дешёвкин Вадим Николаевич": 12,
-      "Клейменов Илья Юрьевич": 6,
-      "Максимова Светлана Викторовна": 91,
-      "Морозов Антон Юрьевич": 27,
-      "Чепа Алексей Васильевич": 53
+      "gas:candidate-vibid:26920001038978": 4,
+      "gas:candidate-vibid:26920001031524": 24,
+      "gas:candidate-vibid:26920001041178": 12,
+      "gas:candidate-vibid:26920001031509": 6,
+      "gas:candidate-vibid:26920001036855": 91,
+      "gas:candidate-vibid:26920001026315": 27,
+      "gas:candidate-vibid:26920001033851": 53
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tver?action=show&root=1000236&tvd=2692000982894&vrn=100100067795849&region=69&global=&sub_region=69&prver=0&pronetvd=null&vibid=2692000982894&type=464",
@@ -6313,13 +6313,13 @@ export const duma_2016_uik_463_region_69_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Алексеев Игорь Анатольевич": 4,
-      "Воробьёва Людмила Фёдоровна": 11,
-      "Дешёвкин Вадим Николаевич": 4,
-      "Клейменов Илья Юрьевич": 4,
-      "Максимова Светлана Викторовна": 39,
-      "Морозов Антон Юрьевич": 15,
-      "Чепа Алексей Васильевич": 8
+      "gas:candidate-vibid:26920001038978": 4,
+      "gas:candidate-vibid:26920001031524": 11,
+      "gas:candidate-vibid:26920001041178": 4,
+      "gas:candidate-vibid:26920001031509": 4,
+      "gas:candidate-vibid:26920001036855": 39,
+      "gas:candidate-vibid:26920001026315": 15,
+      "gas:candidate-vibid:26920001033851": 8
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tver?action=show&root=1000236&tvd=2692000982894&vrn=100100067795849&region=69&global=&sub_region=69&prver=0&pronetvd=null&vibid=2692000982894&type=464",
@@ -6370,13 +6370,13 @@ export const duma_2016_uik_463_region_69_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Алексеев Игорь Анатольевич": 16,
-      "Воробьёва Людмила Фёдоровна": 46,
-      "Дешёвкин Вадим Николаевич": 20,
-      "Клейменов Илья Юрьевич": 12,
-      "Максимова Светлана Викторовна": 163,
-      "Морозов Антон Юрьевич": 43,
-      "Чепа Алексей Васильевич": 59
+      "gas:candidate-vibid:26920001038978": 16,
+      "gas:candidate-vibid:26920001031524": 46,
+      "gas:candidate-vibid:26920001041178": 20,
+      "gas:candidate-vibid:26920001031509": 12,
+      "gas:candidate-vibid:26920001036855": 163,
+      "gas:candidate-vibid:26920001026315": 43,
+      "gas:candidate-vibid:26920001033851": 59
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tver?action=show&root=1000236&tvd=2692000982894&vrn=100100067795849&region=69&global=&sub_region=69&prver=0&pronetvd=null&vibid=2692000982894&type=464",
@@ -6427,13 +6427,13 @@ export const duma_2016_uik_463_region_69_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Алексеев Игорь Анатольевич": 11,
-      "Воробьёва Людмила Фёдоровна": 4,
-      "Дешёвкин Вадим Николаевич": 12,
-      "Клейменов Илья Юрьевич": 5,
-      "Максимова Светлана Викторовна": 45,
-      "Морозов Антон Юрьевич": 24,
-      "Чепа Алексей Васильевич": 22
+      "gas:candidate-vibid:26920001038978": 11,
+      "gas:candidate-vibid:26920001031524": 4,
+      "gas:candidate-vibid:26920001041178": 12,
+      "gas:candidate-vibid:26920001031509": 5,
+      "gas:candidate-vibid:26920001036855": 45,
+      "gas:candidate-vibid:26920001026315": 24,
+      "gas:candidate-vibid:26920001033851": 22
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tver?action=show&root=1000236&tvd=2692000982894&vrn=100100067795849&region=69&global=&sub_region=69&prver=0&pronetvd=null&vibid=2692000982894&type=464",
@@ -6484,13 +6484,13 @@ export const duma_2016_uik_463_region_69_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Алексеев Игорь Анатольевич": 7,
-      "Воробьёва Людмила Фёдоровна": 20,
-      "Дешёвкин Вадим Николаевич": 14,
-      "Клейменов Илья Юрьевич": 7,
-      "Максимова Светлана Викторовна": 113,
-      "Морозов Антон Юрьевич": 33,
-      "Чепа Алексей Васильевич": 15
+      "gas:candidate-vibid:26920001038978": 7,
+      "gas:candidate-vibid:26920001031524": 20,
+      "gas:candidate-vibid:26920001041178": 14,
+      "gas:candidate-vibid:26920001031509": 7,
+      "gas:candidate-vibid:26920001036855": 113,
+      "gas:candidate-vibid:26920001026315": 33,
+      "gas:candidate-vibid:26920001033851": 15
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tver?action=show&root=1000236&tvd=2692000982894&vrn=100100067795849&region=69&global=&sub_region=69&prver=0&pronetvd=null&vibid=2692000982894&type=464",
@@ -6541,13 +6541,13 @@ export const duma_2016_uik_463_region_69_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Алексеев Игорь Анатольевич": 19,
-      "Воробьёва Людмила Фёдоровна": 78,
-      "Дешёвкин Вадим Николаевич": 28,
-      "Клейменов Илья Юрьевич": 20,
-      "Максимова Светлана Викторовна": 226,
-      "Морозов Антон Юрьевич": 90,
-      "Чепа Алексей Васильевич": 92
+      "gas:candidate-vibid:26920001038978": 19,
+      "gas:candidate-vibid:26920001031524": 78,
+      "gas:candidate-vibid:26920001041178": 28,
+      "gas:candidate-vibid:26920001031509": 20,
+      "gas:candidate-vibid:26920001036855": 226,
+      "gas:candidate-vibid:26920001026315": 90,
+      "gas:candidate-vibid:26920001033851": 92
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tver?action=show&root=1000236&tvd=2692000982894&vrn=100100067795849&region=69&global=&sub_region=69&prver=0&pronetvd=null&vibid=2692000982894&type=464",
@@ -6598,13 +6598,13 @@ export const duma_2016_uik_463_region_69_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Алексеев Игорь Анатольевич": 18,
-      "Воробьёва Людмила Фёдоровна": 84,
-      "Дешёвкин Вадим Николаевич": 23,
-      "Клейменов Илья Юрьевич": 23,
-      "Максимова Светлана Викторовна": 193,
-      "Морозов Антон Юрьевич": 53,
-      "Чепа Алексей Васильевич": 96
+      "gas:candidate-vibid:26920001038978": 18,
+      "gas:candidate-vibid:26920001031524": 84,
+      "gas:candidate-vibid:26920001041178": 23,
+      "gas:candidate-vibid:26920001031509": 23,
+      "gas:candidate-vibid:26920001036855": 193,
+      "gas:candidate-vibid:26920001026315": 53,
+      "gas:candidate-vibid:26920001033851": 96
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tver?action=show&root=1000236&tvd=2692000982895&vrn=100100067795849&region=69&global=&sub_region=69&prver=0&pronetvd=null&vibid=2692000982895&type=464",
@@ -6655,13 +6655,13 @@ export const duma_2016_uik_463_region_69_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Алексеев Игорь Анатольевич": 11,
-      "Воробьёва Людмила Фёдоровна": 42,
-      "Дешёвкин Вадим Николаевич": 11,
-      "Клейменов Илья Юрьевич": 20,
-      "Максимова Светлана Викторовна": 150,
-      "Морозов Антон Юрьевич": 51,
-      "Чепа Алексей Васильевич": 104
+      "gas:candidate-vibid:26920001038978": 11,
+      "gas:candidate-vibid:26920001031524": 42,
+      "gas:candidate-vibid:26920001041178": 11,
+      "gas:candidate-vibid:26920001031509": 20,
+      "gas:candidate-vibid:26920001036855": 150,
+      "gas:candidate-vibid:26920001026315": 51,
+      "gas:candidate-vibid:26920001033851": 104
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tver?action=show&root=1000236&tvd=2692000982895&vrn=100100067795849&region=69&global=&sub_region=69&prver=0&pronetvd=null&vibid=2692000982895&type=464",
@@ -6712,13 +6712,13 @@ export const duma_2016_uik_463_region_69_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Алексеев Игорь Анатольевич": 10,
-      "Воробьёва Людмила Фёдоровна": 41,
-      "Дешёвкин Вадим Николаевич": 14,
-      "Клейменов Илья Юрьевич": 10,
-      "Максимова Светлана Викторовна": 92,
-      "Морозов Антон Юрьевич": 36,
-      "Чепа Алексей Васильевич": 76
+      "gas:candidate-vibid:26920001038978": 10,
+      "gas:candidate-vibid:26920001031524": 41,
+      "gas:candidate-vibid:26920001041178": 14,
+      "gas:candidate-vibid:26920001031509": 10,
+      "gas:candidate-vibid:26920001036855": 92,
+      "gas:candidate-vibid:26920001026315": 36,
+      "gas:candidate-vibid:26920001033851": 76
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tver?action=show&root=1000236&tvd=2692000982895&vrn=100100067795849&region=69&global=&sub_region=69&prver=0&pronetvd=null&vibid=2692000982895&type=464",
@@ -6769,13 +6769,13 @@ export const duma_2016_uik_463_region_69_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Алексеев Игорь Анатольевич": 1,
-      "Воробьёва Людмила Фёдоровна": 5,
-      "Дешёвкин Вадим Николаевич": 3,
-      "Клейменов Илья Юрьевич": 2,
-      "Максимова Светлана Викторовна": 45,
-      "Морозов Антон Юрьевич": 12,
-      "Чепа Алексей Васильевич": 1
+      "gas:candidate-vibid:26920001038978": 1,
+      "gas:candidate-vibid:26920001031524": 5,
+      "gas:candidate-vibid:26920001041178": 3,
+      "gas:candidate-vibid:26920001031509": 2,
+      "gas:candidate-vibid:26920001036855": 45,
+      "gas:candidate-vibid:26920001026315": 12,
+      "gas:candidate-vibid:26920001033851": 1
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tver?action=show&root=1000236&tvd=2692000982895&vrn=100100067795849&region=69&global=&sub_region=69&prver=0&pronetvd=null&vibid=2692000982895&type=464",
@@ -6826,13 +6826,13 @@ export const duma_2016_uik_463_region_69_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Алексеев Игорь Анатольевич": 7,
-      "Воробьёва Людмила Фёдоровна": 11,
-      "Дешёвкин Вадим Николаевич": 5,
-      "Клейменов Илья Юрьевич": 5,
-      "Максимова Светлана Викторовна": 65,
-      "Морозов Антон Юрьевич": 13,
-      "Чепа Алексей Васильевич": 26
+      "gas:candidate-vibid:26920001038978": 7,
+      "gas:candidate-vibid:26920001031524": 11,
+      "gas:candidate-vibid:26920001041178": 5,
+      "gas:candidate-vibid:26920001031509": 5,
+      "gas:candidate-vibid:26920001036855": 65,
+      "gas:candidate-vibid:26920001026315": 13,
+      "gas:candidate-vibid:26920001033851": 26
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tver?action=show&root=1000236&tvd=2692000982895&vrn=100100067795849&region=69&global=&sub_region=69&prver=0&pronetvd=null&vibid=2692000982895&type=464",
@@ -6883,13 +6883,13 @@ export const duma_2016_uik_463_region_69_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Алексеев Игорь Анатольевич": 6,
-      "Воробьёва Людмила Фёдоровна": 15,
-      "Дешёвкин Вадим Николаевич": 2,
-      "Клейменов Илья Юрьевич": 6,
-      "Максимова Светлана Викторовна": 35,
-      "Морозов Антон Юрьевич": 5,
-      "Чепа Алексей Васильевич": 11
+      "gas:candidate-vibid:26920001038978": 6,
+      "gas:candidate-vibid:26920001031524": 15,
+      "gas:candidate-vibid:26920001041178": 2,
+      "gas:candidate-vibid:26920001031509": 6,
+      "gas:candidate-vibid:26920001036855": 35,
+      "gas:candidate-vibid:26920001026315": 5,
+      "gas:candidate-vibid:26920001033851": 11
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tver?action=show&root=1000236&tvd=2692000982895&vrn=100100067795849&region=69&global=&sub_region=69&prver=0&pronetvd=null&vibid=2692000982895&type=464",
@@ -6940,13 +6940,13 @@ export const duma_2016_uik_463_region_69_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Алексеев Игорь Анатольевич": 6,
-      "Воробьёва Людмила Фёдоровна": 3,
-      "Дешёвкин Вадим Николаевич": 1,
-      "Клейменов Илья Юрьевич": 0,
-      "Максимова Светлана Викторовна": 16,
-      "Морозов Антон Юрьевич": 11,
-      "Чепа Алексей Васильевич": 17
+      "gas:candidate-vibid:26920001038978": 6,
+      "gas:candidate-vibid:26920001031524": 3,
+      "gas:candidate-vibid:26920001041178": 1,
+      "gas:candidate-vibid:26920001031509": 0,
+      "gas:candidate-vibid:26920001036855": 16,
+      "gas:candidate-vibid:26920001026315": 11,
+      "gas:candidate-vibid:26920001033851": 17
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tver?action=show&root=1000236&tvd=2692000982895&vrn=100100067795849&region=69&global=&sub_region=69&prver=0&pronetvd=null&vibid=2692000982895&type=464",
@@ -6997,13 +6997,13 @@ export const duma_2016_uik_463_region_69_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Алексеев Игорь Анатольевич": 8,
-      "Воробьёва Людмила Фёдоровна": 16,
-      "Дешёвкин Вадим Николаевич": 6,
-      "Клейменов Илья Юрьевич": 8,
-      "Максимова Светлана Викторовна": 50,
-      "Морозов Антон Юрьевич": 28,
-      "Чепа Алексей Васильевич": 37
+      "gas:candidate-vibid:26920001038978": 8,
+      "gas:candidate-vibid:26920001031524": 16,
+      "gas:candidate-vibid:26920001041178": 6,
+      "gas:candidate-vibid:26920001031509": 8,
+      "gas:candidate-vibid:26920001036855": 50,
+      "gas:candidate-vibid:26920001026315": 28,
+      "gas:candidate-vibid:26920001033851": 37
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tver?action=show&root=1000236&tvd=2692000982895&vrn=100100067795849&region=69&global=&sub_region=69&prver=0&pronetvd=null&vibid=2692000982895&type=464",
@@ -7054,13 +7054,13 @@ export const duma_2016_uik_463_region_69_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Алексеев Игорь Анатольевич": 2,
-      "Воробьёва Людмила Фёдоровна": 9,
-      "Дешёвкин Вадим Николаевич": 3,
-      "Клейменов Илья Юрьевич": 4,
-      "Максимова Светлана Викторовна": 45,
-      "Морозов Антон Юрьевич": 7,
-      "Чепа Алексей Васильевич": 34
+      "gas:candidate-vibid:26920001038978": 2,
+      "gas:candidate-vibid:26920001031524": 9,
+      "gas:candidate-vibid:26920001041178": 3,
+      "gas:candidate-vibid:26920001031509": 4,
+      "gas:candidate-vibid:26920001036855": 45,
+      "gas:candidate-vibid:26920001026315": 7,
+      "gas:candidate-vibid:26920001033851": 34
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tver?action=show&root=1000236&tvd=2692000982895&vrn=100100067795849&region=69&global=&sub_region=69&prver=0&pronetvd=null&vibid=2692000982895&type=464",
@@ -7111,13 +7111,13 @@ export const duma_2016_uik_463_region_69_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Алексеев Игорь Анатольевич": 4,
-      "Воробьёва Людмила Фёдоровна": 15,
-      "Дешёвкин Вадим Николаевич": 5,
-      "Клейменов Илья Юрьевич": 7,
-      "Максимова Светлана Викторовна": 38,
-      "Морозов Антон Юрьевич": 14,
-      "Чепа Алексей Васильевич": 18
+      "gas:candidate-vibid:26920001038978": 4,
+      "gas:candidate-vibid:26920001031524": 15,
+      "gas:candidate-vibid:26920001041178": 5,
+      "gas:candidate-vibid:26920001031509": 7,
+      "gas:candidate-vibid:26920001036855": 38,
+      "gas:candidate-vibid:26920001026315": 14,
+      "gas:candidate-vibid:26920001033851": 18
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tver?action=show&root=1000236&tvd=2692000982895&vrn=100100067795849&region=69&global=&sub_region=69&prver=0&pronetvd=null&vibid=2692000982895&type=464",
@@ -7168,13 +7168,13 @@ export const duma_2016_uik_463_region_69_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Алексеев Игорь Анатольевич": 5,
-      "Воробьёва Людмила Фёдоровна": 10,
-      "Дешёвкин Вадим Николаевич": 6,
-      "Клейменов Илья Юрьевич": 5,
-      "Максимова Светлана Викторовна": 105,
-      "Морозов Антон Юрьевич": 17,
-      "Чепа Алексей Васильевич": 23
+      "gas:candidate-vibid:26920001038978": 5,
+      "gas:candidate-vibid:26920001031524": 10,
+      "gas:candidate-vibid:26920001041178": 6,
+      "gas:candidate-vibid:26920001031509": 5,
+      "gas:candidate-vibid:26920001036855": 105,
+      "gas:candidate-vibid:26920001026315": 17,
+      "gas:candidate-vibid:26920001033851": 23
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tver?action=show&root=1000236&tvd=2692000982895&vrn=100100067795849&region=69&global=&sub_region=69&prver=0&pronetvd=null&vibid=2692000982895&type=464",
@@ -7225,13 +7225,13 @@ export const duma_2016_uik_463_region_69_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Алексеев Игорь Анатольевич": 1,
-      "Воробьёва Людмила Фёдоровна": 7,
-      "Дешёвкин Вадим Николаевич": 1,
-      "Клейменов Илья Юрьевич": 3,
-      "Максимова Светлана Викторовна": 36,
-      "Морозов Антон Юрьевич": 14,
-      "Чепа Алексей Васильевич": 16
+      "gas:candidate-vibid:26920001038978": 1,
+      "gas:candidate-vibid:26920001031524": 7,
+      "gas:candidate-vibid:26920001041178": 1,
+      "gas:candidate-vibid:26920001031509": 3,
+      "gas:candidate-vibid:26920001036855": 36,
+      "gas:candidate-vibid:26920001026315": 14,
+      "gas:candidate-vibid:26920001033851": 16
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tver?action=show&root=1000236&tvd=2692000982895&vrn=100100067795849&region=69&global=&sub_region=69&prver=0&pronetvd=null&vibid=2692000982895&type=464",
@@ -7282,13 +7282,13 @@ export const duma_2016_uik_463_region_69_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Алексеев Игорь Анатольевич": 9,
-      "Воробьёва Людмила Фёдоровна": 31,
-      "Дешёвкин Вадим Николаевич": 4,
-      "Клейменов Илья Юрьевич": 5,
-      "Максимова Светлана Викторовна": 82,
-      "Морозов Антон Юрьевич": 26,
-      "Чепа Алексей Васильевич": 38
+      "gas:candidate-vibid:26920001038978": 9,
+      "gas:candidate-vibid:26920001031524": 31,
+      "gas:candidate-vibid:26920001041178": 4,
+      "gas:candidate-vibid:26920001031509": 5,
+      "gas:candidate-vibid:26920001036855": 82,
+      "gas:candidate-vibid:26920001026315": 26,
+      "gas:candidate-vibid:26920001033851": 38
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tver?action=show&root=1000236&tvd=2692000982895&vrn=100100067795849&region=69&global=&sub_region=69&prver=0&pronetvd=null&vibid=2692000982895&type=464",
@@ -7339,13 +7339,13 @@ export const duma_2016_uik_463_region_69_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Алексеев Игорь Анатольевич": 3,
-      "Воробьёва Людмила Фёдоровна": 8,
-      "Дешёвкин Вадим Николаевич": 4,
-      "Клейменов Илья Юрьевич": 2,
-      "Максимова Светлана Викторовна": 72,
-      "Морозов Антон Юрьевич": 20,
-      "Чепа Алексей Васильевич": 7
+      "gas:candidate-vibid:26920001038978": 3,
+      "gas:candidate-vibid:26920001031524": 8,
+      "gas:candidate-vibid:26920001041178": 4,
+      "gas:candidate-vibid:26920001031509": 2,
+      "gas:candidate-vibid:26920001036855": 72,
+      "gas:candidate-vibid:26920001026315": 20,
+      "gas:candidate-vibid:26920001033851": 7
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tver?action=show&root=1000236&tvd=2692000982895&vrn=100100067795849&region=69&global=&sub_region=69&prver=0&pronetvd=null&vibid=2692000982895&type=464",
@@ -7396,13 +7396,13 @@ export const duma_2016_uik_463_region_69_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Алексеев Игорь Анатольевич": 3,
-      "Воробьёва Людмила Фёдоровна": 22,
-      "Дешёвкин Вадим Николаевич": 3,
-      "Клейменов Илья Юрьевич": 5,
-      "Максимова Светлана Викторовна": 76,
-      "Морозов Антон Юрьевич": 19,
-      "Чепа Алексей Васильевич": 50
+      "gas:candidate-vibid:26920001038978": 3,
+      "gas:candidate-vibid:26920001031524": 22,
+      "gas:candidate-vibid:26920001041178": 3,
+      "gas:candidate-vibid:26920001031509": 5,
+      "gas:candidate-vibid:26920001036855": 76,
+      "gas:candidate-vibid:26920001026315": 19,
+      "gas:candidate-vibid:26920001033851": 50
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tver?action=show&root=1000236&tvd=2692000982895&vrn=100100067795849&region=69&global=&sub_region=69&prver=0&pronetvd=null&vibid=2692000982895&type=464",
@@ -7453,13 +7453,13 @@ export const duma_2016_uik_463_region_69_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Алексеев Игорь Анатольевич": 4,
-      "Воробьёва Людмила Фёдоровна": 13,
-      "Дешёвкин Вадим Николаевич": 1,
-      "Клейменов Илья Юрьевич": 2,
-      "Максимова Светлана Викторовна": 74,
-      "Морозов Антон Юрьевич": 8,
-      "Чепа Алексей Васильевич": 10
+      "gas:candidate-vibid:26920001038978": 4,
+      "gas:candidate-vibid:26920001031524": 13,
+      "gas:candidate-vibid:26920001041178": 1,
+      "gas:candidate-vibid:26920001031509": 2,
+      "gas:candidate-vibid:26920001036855": 74,
+      "gas:candidate-vibid:26920001026315": 8,
+      "gas:candidate-vibid:26920001033851": 10
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tver?action=show&root=1000236&tvd=2692000982895&vrn=100100067795849&region=69&global=&sub_region=69&prver=0&pronetvd=null&vibid=2692000982895&type=464",
@@ -7510,13 +7510,13 @@ export const duma_2016_uik_463_region_69_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Алексеев Игорь Анатольевич": 3,
-      "Воробьёва Людмила Фёдоровна": 7,
-      "Дешёвкин Вадим Николаевич": 1,
-      "Клейменов Илья Юрьевич": 7,
-      "Максимова Светлана Викторовна": 43,
-      "Морозов Антон Юрьевич": 13,
-      "Чепа Алексей Васильевич": 10
+      "gas:candidate-vibid:26920001038978": 3,
+      "gas:candidate-vibid:26920001031524": 7,
+      "gas:candidate-vibid:26920001041178": 1,
+      "gas:candidate-vibid:26920001031509": 7,
+      "gas:candidate-vibid:26920001036855": 43,
+      "gas:candidate-vibid:26920001026315": 13,
+      "gas:candidate-vibid:26920001033851": 10
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tver?action=show&root=1000236&tvd=2692000982895&vrn=100100067795849&region=69&global=&sub_region=69&prver=0&pronetvd=null&vibid=2692000982895&type=464",
@@ -7567,13 +7567,13 @@ export const duma_2016_uik_463_region_69_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Алексеев Игорь Анатольевич": 2,
-      "Воробьёва Людмила Фёдоровна": 19,
-      "Дешёвкин Вадим Николаевич": 12,
-      "Клейменов Илья Юрьевич": 7,
-      "Максимова Светлана Викторовна": 63,
-      "Морозов Антон Юрьевич": 27,
-      "Чепа Алексей Васильевич": 60
+      "gas:candidate-vibid:26920001038978": 2,
+      "gas:candidate-vibid:26920001031524": 19,
+      "gas:candidate-vibid:26920001041178": 12,
+      "gas:candidate-vibid:26920001031509": 7,
+      "gas:candidate-vibid:26920001036855": 63,
+      "gas:candidate-vibid:26920001026315": 27,
+      "gas:candidate-vibid:26920001033851": 60
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tver?action=show&root=1000236&tvd=2692000982896&vrn=100100067795849&region=69&global=&sub_region=69&prver=0&pronetvd=null&vibid=2692000982896&type=464",
@@ -7624,13 +7624,13 @@ export const duma_2016_uik_463_region_69_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Алексеев Игорь Анатольевич": 14,
-      "Воробьёва Людмила Фёдоровна": 19,
-      "Дешёвкин Вадим Николаевич": 12,
-      "Клейменов Илья Юрьевич": 13,
-      "Максимова Светлана Викторовна": 78,
-      "Морозов Антон Юрьевич": 20,
-      "Чепа Алексей Васильевич": 78
+      "gas:candidate-vibid:26920001038978": 14,
+      "gas:candidate-vibid:26920001031524": 19,
+      "gas:candidate-vibid:26920001041178": 12,
+      "gas:candidate-vibid:26920001031509": 13,
+      "gas:candidate-vibid:26920001036855": 78,
+      "gas:candidate-vibid:26920001026315": 20,
+      "gas:candidate-vibid:26920001033851": 78
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tver?action=show&root=1000236&tvd=2692000982896&vrn=100100067795849&region=69&global=&sub_region=69&prver=0&pronetvd=null&vibid=2692000982896&type=464",
@@ -7681,13 +7681,13 @@ export const duma_2016_uik_463_region_69_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Алексеев Игорь Анатольевич": 19,
-      "Воробьёва Людмила Фёдоровна": 53,
-      "Дешёвкин Вадим Николаевич": 28,
-      "Клейменов Илья Юрьевич": 16,
-      "Максимова Светлана Викторовна": 114,
-      "Морозов Антон Юрьевич": 52,
-      "Чепа Алексей Васильевич": 131
+      "gas:candidate-vibid:26920001038978": 19,
+      "gas:candidate-vibid:26920001031524": 53,
+      "gas:candidate-vibid:26920001041178": 28,
+      "gas:candidate-vibid:26920001031509": 16,
+      "gas:candidate-vibid:26920001036855": 114,
+      "gas:candidate-vibid:26920001026315": 52,
+      "gas:candidate-vibid:26920001033851": 131
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tver?action=show&root=1000236&tvd=2692000982896&vrn=100100067795849&region=69&global=&sub_region=69&prver=0&pronetvd=null&vibid=2692000982896&type=464",
@@ -7738,13 +7738,13 @@ export const duma_2016_uik_463_region_69_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Алексеев Игорь Анатольевич": 21,
-      "Воробьёва Людмила Фёдоровна": 72,
-      "Дешёвкин Вадим Николаевич": 17,
-      "Клейменов Илья Юрьевич": 25,
-      "Максимова Светлана Викторовна": 168,
-      "Морозов Антон Юрьевич": 77,
-      "Чепа Алексей Васильевич": 139
+      "gas:candidate-vibid:26920001038978": 21,
+      "gas:candidate-vibid:26920001031524": 72,
+      "gas:candidate-vibid:26920001041178": 17,
+      "gas:candidate-vibid:26920001031509": 25,
+      "gas:candidate-vibid:26920001036855": 168,
+      "gas:candidate-vibid:26920001026315": 77,
+      "gas:candidate-vibid:26920001033851": 139
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tver?action=show&root=1000236&tvd=2692000982896&vrn=100100067795849&region=69&global=&sub_region=69&prver=0&pronetvd=null&vibid=2692000982896&type=464",
@@ -7795,13 +7795,13 @@ export const duma_2016_uik_463_region_69_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Алексеев Игорь Анатольевич": 19,
-      "Воробьёва Людмила Фёдоровна": 56,
-      "Дешёвкин Вадим Николаевич": 27,
-      "Клейменов Илья Юрьевич": 30,
-      "Максимова Светлана Викторовна": 226,
-      "Морозов Антон Юрьевич": 71,
-      "Чепа Алексей Васильевич": 141
+      "gas:candidate-vibid:26920001038978": 19,
+      "gas:candidate-vibid:26920001031524": 56,
+      "gas:candidate-vibid:26920001041178": 27,
+      "gas:candidate-vibid:26920001031509": 30,
+      "gas:candidate-vibid:26920001036855": 226,
+      "gas:candidate-vibid:26920001026315": 71,
+      "gas:candidate-vibid:26920001033851": 141
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tver?action=show&root=1000236&tvd=2692000982896&vrn=100100067795849&region=69&global=&sub_region=69&prver=0&pronetvd=null&vibid=2692000982896&type=464",
@@ -7852,13 +7852,13 @@ export const duma_2016_uik_463_region_69_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Алексеев Игорь Анатольевич": 20,
-      "Воробьёва Людмила Фёдоровна": 72,
-      "Дешёвкин Вадим Николаевич": 19,
-      "Клейменов Илья Юрьевич": 26,
-      "Максимова Светлана Викторовна": 212,
-      "Морозов Антон Юрьевич": 48,
-      "Чепа Алексей Васильевич": 120
+      "gas:candidate-vibid:26920001038978": 20,
+      "gas:candidate-vibid:26920001031524": 72,
+      "gas:candidate-vibid:26920001041178": 19,
+      "gas:candidate-vibid:26920001031509": 26,
+      "gas:candidate-vibid:26920001036855": 212,
+      "gas:candidate-vibid:26920001026315": 48,
+      "gas:candidate-vibid:26920001033851": 120
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tver?action=show&root=1000236&tvd=2692000982896&vrn=100100067795849&region=69&global=&sub_region=69&prver=0&pronetvd=null&vibid=2692000982896&type=464",
@@ -7909,13 +7909,13 @@ export const duma_2016_uik_463_region_69_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Алексеев Игорь Анатольевич": 11,
-      "Воробьёва Людмила Фёдоровна": 67,
-      "Дешёвкин Вадим Николаевич": 16,
-      "Клейменов Илья Юрьевич": 30,
-      "Максимова Светлана Викторовна": 164,
-      "Морозов Антон Юрьевич": 36,
-      "Чепа Алексей Васильевич": 112
+      "gas:candidate-vibid:26920001038978": 11,
+      "gas:candidate-vibid:26920001031524": 67,
+      "gas:candidate-vibid:26920001041178": 16,
+      "gas:candidate-vibid:26920001031509": 30,
+      "gas:candidate-vibid:26920001036855": 164,
+      "gas:candidate-vibid:26920001026315": 36,
+      "gas:candidate-vibid:26920001033851": 112
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tver?action=show&root=1000236&tvd=2692000982896&vrn=100100067795849&region=69&global=&sub_region=69&prver=0&pronetvd=null&vibid=2692000982896&type=464",
@@ -7966,13 +7966,13 @@ export const duma_2016_uik_463_region_69_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Алексеев Игорь Анатольевич": 13,
-      "Воробьёва Людмила Фёдоровна": 52,
-      "Дешёвкин Вадим Николаевич": 12,
-      "Клейменов Илья Юрьевич": 21,
-      "Максимова Светлана Викторовна": 164,
-      "Морозов Антон Юрьевич": 38,
-      "Чепа Алексей Васильевич": 105
+      "gas:candidate-vibid:26920001038978": 13,
+      "gas:candidate-vibid:26920001031524": 52,
+      "gas:candidate-vibid:26920001041178": 12,
+      "gas:candidate-vibid:26920001031509": 21,
+      "gas:candidate-vibid:26920001036855": 164,
+      "gas:candidate-vibid:26920001026315": 38,
+      "gas:candidate-vibid:26920001033851": 105
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tver?action=show&root=1000236&tvd=2692000982896&vrn=100100067795849&region=69&global=&sub_region=69&prver=0&pronetvd=null&vibid=2692000982896&type=464",
@@ -8023,13 +8023,13 @@ export const duma_2016_uik_463_region_69_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Алексеев Игорь Анатольевич": 14,
-      "Воробьёва Людмила Фёдоровна": 72,
-      "Дешёвкин Вадим Николаевич": 33,
-      "Клейменов Илья Юрьевич": 32,
-      "Максимова Светлана Викторовна": 206,
-      "Морозов Антон Юрьевич": 48,
-      "Чепа Алексей Васильевич": 107
+      "gas:candidate-vibid:26920001038978": 14,
+      "gas:candidate-vibid:26920001031524": 72,
+      "gas:candidate-vibid:26920001041178": 33,
+      "gas:candidate-vibid:26920001031509": 32,
+      "gas:candidate-vibid:26920001036855": 206,
+      "gas:candidate-vibid:26920001026315": 48,
+      "gas:candidate-vibid:26920001033851": 107
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tver?action=show&root=1000236&tvd=2692000982896&vrn=100100067795849&region=69&global=&sub_region=69&prver=0&pronetvd=null&vibid=2692000982896&type=464",
@@ -8080,13 +8080,13 @@ export const duma_2016_uik_463_region_69_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Алексеев Игорь Анатольевич": 14,
-      "Воробьёва Людмила Фёдоровна": 87,
-      "Дешёвкин Вадим Николаевич": 33,
-      "Клейменов Илья Юрьевич": 29,
-      "Максимова Светлана Викторовна": 238,
-      "Морозов Антон Юрьевич": 78,
-      "Чепа Алексей Васильевич": 173
+      "gas:candidate-vibid:26920001038978": 14,
+      "gas:candidate-vibid:26920001031524": 87,
+      "gas:candidate-vibid:26920001041178": 33,
+      "gas:candidate-vibid:26920001031509": 29,
+      "gas:candidate-vibid:26920001036855": 238,
+      "gas:candidate-vibid:26920001026315": 78,
+      "gas:candidate-vibid:26920001033851": 173
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tver?action=show&root=1000236&tvd=2692000982896&vrn=100100067795849&region=69&global=&sub_region=69&prver=0&pronetvd=null&vibid=2692000982896&type=464",
@@ -8137,13 +8137,13 @@ export const duma_2016_uik_463_region_69_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Алексеев Игорь Анатольевич": 16,
-      "Воробьёва Людмила Фёдоровна": 52,
-      "Дешёвкин Вадим Николаевич": 10,
-      "Клейменов Илья Юрьевич": 26,
-      "Максимова Светлана Викторовна": 158,
-      "Морозов Антон Юрьевич": 56,
-      "Чепа Алексей Васильевич": 126
+      "gas:candidate-vibid:26920001038978": 16,
+      "gas:candidate-vibid:26920001031524": 52,
+      "gas:candidate-vibid:26920001041178": 10,
+      "gas:candidate-vibid:26920001031509": 26,
+      "gas:candidate-vibid:26920001036855": 158,
+      "gas:candidate-vibid:26920001026315": 56,
+      "gas:candidate-vibid:26920001033851": 126
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tver?action=show&root=1000236&tvd=2692000982896&vrn=100100067795849&region=69&global=&sub_region=69&prver=0&pronetvd=null&vibid=2692000982896&type=464",
@@ -8194,13 +8194,13 @@ export const duma_2016_uik_463_region_69_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Алексеев Игорь Анатольевич": 4,
-      "Воробьёва Людмила Фёдоровна": 14,
-      "Дешёвкин Вадим Николаевич": 5,
-      "Клейменов Илья Юрьевич": 9,
-      "Максимова Светлана Викторовна": 74,
-      "Морозов Антон Юрьевич": 13,
-      "Чепа Алексей Васильевич": 15
+      "gas:candidate-vibid:26920001038978": 4,
+      "gas:candidate-vibid:26920001031524": 14,
+      "gas:candidate-vibid:26920001041178": 5,
+      "gas:candidate-vibid:26920001031509": 9,
+      "gas:candidate-vibid:26920001036855": 74,
+      "gas:candidate-vibid:26920001026315": 13,
+      "gas:candidate-vibid:26920001033851": 15
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tver?action=show&root=1000236&tvd=2692000982896&vrn=100100067795849&region=69&global=&sub_region=69&prver=0&pronetvd=null&vibid=2692000982896&type=464",
@@ -8251,13 +8251,13 @@ export const duma_2016_uik_463_region_69_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Алексеев Игорь Анатольевич": 2,
-      "Воробьёва Людмила Фёдоровна": 14,
-      "Дешёвкин Вадим Николаевич": 3,
-      "Клейменов Илья Юрьевич": 11,
-      "Максимова Светлана Викторовна": 59,
-      "Морозов Антон Юрьевич": 9,
-      "Чепа Алексей Васильевич": 12
+      "gas:candidate-vibid:26920001038978": 2,
+      "gas:candidate-vibid:26920001031524": 14,
+      "gas:candidate-vibid:26920001041178": 3,
+      "gas:candidate-vibid:26920001031509": 11,
+      "gas:candidate-vibid:26920001036855": 59,
+      "gas:candidate-vibid:26920001026315": 9,
+      "gas:candidate-vibid:26920001033851": 12
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tver?action=show&root=1000236&tvd=2692000982896&vrn=100100067795849&region=69&global=&sub_region=69&prver=0&pronetvd=null&vibid=2692000982896&type=464",
@@ -8308,13 +8308,13 @@ export const duma_2016_uik_463_region_69_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Алексеев Игорь Анатольевич": 5,
-      "Воробьёва Людмила Фёдоровна": 15,
-      "Дешёвкин Вадим Николаевич": 5,
-      "Клейменов Илья Юрьевич": 8,
-      "Максимова Светлана Викторовна": 108,
-      "Морозов Антон Юрьевич": 12,
-      "Чепа Алексей Васильевич": 35
+      "gas:candidate-vibid:26920001038978": 5,
+      "gas:candidate-vibid:26920001031524": 15,
+      "gas:candidate-vibid:26920001041178": 5,
+      "gas:candidate-vibid:26920001031509": 8,
+      "gas:candidate-vibid:26920001036855": 108,
+      "gas:candidate-vibid:26920001026315": 12,
+      "gas:candidate-vibid:26920001033851": 35
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tver?action=show&root=1000236&tvd=2692000982896&vrn=100100067795849&region=69&global=&sub_region=69&prver=0&pronetvd=null&vibid=2692000982896&type=464",
@@ -8365,13 +8365,13 @@ export const duma_2016_uik_463_region_69_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Алексеев Игорь Анатольевич": 9,
-      "Воробьёва Людмила Фёдоровна": 32,
-      "Дешёвкин Вадим Николаевич": 7,
-      "Клейменов Илья Юрьевич": 10,
-      "Максимова Светлана Викторовна": 149,
-      "Морозов Антон Юрьевич": 24,
-      "Чепа Алексей Васильевич": 42
+      "gas:candidate-vibid:26920001038978": 9,
+      "gas:candidate-vibid:26920001031524": 32,
+      "gas:candidate-vibid:26920001041178": 7,
+      "gas:candidate-vibid:26920001031509": 10,
+      "gas:candidate-vibid:26920001036855": 149,
+      "gas:candidate-vibid:26920001026315": 24,
+      "gas:candidate-vibid:26920001033851": 42
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tver?action=show&root=1000236&tvd=2692000982896&vrn=100100067795849&region=69&global=&sub_region=69&prver=0&pronetvd=null&vibid=2692000982896&type=464",
@@ -8422,13 +8422,13 @@ export const duma_2016_uik_463_region_69_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Алексеев Игорь Анатольевич": 5,
-      "Воробьёва Людмила Фёдоровна": 14,
-      "Дешёвкин Вадим Николаевич": 3,
-      "Клейменов Илья Юрьевич": 10,
-      "Максимова Светлана Викторовна": 124,
-      "Морозов Антон Юрьевич": 16,
-      "Чепа Алексей Васильевич": 20
+      "gas:candidate-vibid:26920001038978": 5,
+      "gas:candidate-vibid:26920001031524": 14,
+      "gas:candidate-vibid:26920001041178": 3,
+      "gas:candidate-vibid:26920001031509": 10,
+      "gas:candidate-vibid:26920001036855": 124,
+      "gas:candidate-vibid:26920001026315": 16,
+      "gas:candidate-vibid:26920001033851": 20
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tver?action=show&root=1000236&tvd=2692000982896&vrn=100100067795849&region=69&global=&sub_region=69&prver=0&pronetvd=null&vibid=2692000982896&type=464",
@@ -8479,13 +8479,13 @@ export const duma_2016_uik_463_region_69_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Алексеев Игорь Анатольевич": 5,
-      "Воробьёва Людмила Фёдоровна": 57,
-      "Дешёвкин Вадим Николаевич": 2,
-      "Клейменов Илья Юрьевич": 25,
-      "Максимова Светлана Викторовна": 173,
-      "Морозов Антон Юрьевич": 38,
-      "Чепа Алексей Васильевич": 98
+      "gas:candidate-vibid:26920001038978": 5,
+      "gas:candidate-vibid:26920001031524": 57,
+      "gas:candidate-vibid:26920001041178": 2,
+      "gas:candidate-vibid:26920001031509": 25,
+      "gas:candidate-vibid:26920001036855": 173,
+      "gas:candidate-vibid:26920001026315": 38,
+      "gas:candidate-vibid:26920001033851": 98
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tver?action=show&root=1000236&tvd=2692000982896&vrn=100100067795849&region=69&global=&sub_region=69&prver=0&pronetvd=null&vibid=2692000982896&type=464",
@@ -8536,13 +8536,13 @@ export const duma_2016_uik_463_region_69_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Алексеев Игорь Анатольевич": 21,
-      "Воробьёва Людмила Фёдоровна": 50,
-      "Дешёвкин Вадим Николаевич": 10,
-      "Клейменов Илья Юрьевич": 21,
-      "Максимова Светлана Викторовна": 124,
-      "Морозов Антон Юрьевич": 35,
-      "Чепа Алексей Васильевич": 60
+      "gas:candidate-vibid:26920001038978": 21,
+      "gas:candidate-vibid:26920001031524": 50,
+      "gas:candidate-vibid:26920001041178": 10,
+      "gas:candidate-vibid:26920001031509": 21,
+      "gas:candidate-vibid:26920001036855": 124,
+      "gas:candidate-vibid:26920001026315": 35,
+      "gas:candidate-vibid:26920001033851": 60
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tver?action=show&root=1000236&tvd=2692000982896&vrn=100100067795849&region=69&global=&sub_region=69&prver=0&pronetvd=null&vibid=2692000982896&type=464",
@@ -8593,13 +8593,13 @@ export const duma_2016_uik_463_region_69_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Алексеев Игорь Анатольевич": 2,
-      "Воробьёва Людмила Фёдоровна": 12,
-      "Дешёвкин Вадим Николаевич": 4,
-      "Клейменов Илья Юрьевич": 6,
-      "Максимова Светлана Викторовна": 61,
-      "Морозов Антон Юрьевич": 12,
-      "Чепа Алексей Васильевич": 21
+      "gas:candidate-vibid:26920001038978": 2,
+      "gas:candidate-vibid:26920001031524": 12,
+      "gas:candidate-vibid:26920001041178": 4,
+      "gas:candidate-vibid:26920001031509": 6,
+      "gas:candidate-vibid:26920001036855": 61,
+      "gas:candidate-vibid:26920001026315": 12,
+      "gas:candidate-vibid:26920001033851": 21
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tver?action=show&root=1000236&tvd=2692000982896&vrn=100100067795849&region=69&global=&sub_region=69&prver=0&pronetvd=null&vibid=2692000982896&type=464",
@@ -8650,13 +8650,13 @@ export const duma_2016_uik_463_region_69_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Алексеев Игорь Анатольевич": 0,
-      "Воробьёва Людмила Фёдоровна": 10,
-      "Дешёвкин Вадим Николаевич": 6,
-      "Клейменов Илья Юрьевич": 7,
-      "Максимова Светлана Викторовна": 80,
-      "Морозов Антон Юрьевич": 20,
-      "Чепа Алексей Васильевич": 25
+      "gas:candidate-vibid:26920001038978": 0,
+      "gas:candidate-vibid:26920001031524": 10,
+      "gas:candidate-vibid:26920001041178": 6,
+      "gas:candidate-vibid:26920001031509": 7,
+      "gas:candidate-vibid:26920001036855": 80,
+      "gas:candidate-vibid:26920001026315": 20,
+      "gas:candidate-vibid:26920001033851": 25
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tver?action=show&root=1000236&tvd=2692000982896&vrn=100100067795849&region=69&global=&sub_region=69&prver=0&pronetvd=null&vibid=2692000982896&type=464",
@@ -8707,13 +8707,13 @@ export const duma_2016_uik_463_region_69_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Алексеев Игорь Анатольевич": 8,
-      "Воробьёва Людмила Фёдоровна": 7,
-      "Дешёвкин Вадим Николаевич": 4,
-      "Клейменов Илья Юрьевич": 6,
-      "Максимова Светлана Викторовна": 136,
-      "Морозов Антон Юрьевич": 11,
-      "Чепа Алексей Васильевич": 10
+      "gas:candidate-vibid:26920001038978": 8,
+      "gas:candidate-vibid:26920001031524": 7,
+      "gas:candidate-vibid:26920001041178": 4,
+      "gas:candidate-vibid:26920001031509": 6,
+      "gas:candidate-vibid:26920001036855": 136,
+      "gas:candidate-vibid:26920001026315": 11,
+      "gas:candidate-vibid:26920001033851": 10
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tver?action=show&root=1000236&tvd=2692000982896&vrn=100100067795849&region=69&global=&sub_region=69&prver=0&pronetvd=null&vibid=2692000982896&type=464",
@@ -8764,13 +8764,13 @@ export const duma_2016_uik_463_region_69_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Алексеев Игорь Анатольевич": 8,
-      "Воробьёва Людмила Фёдоровна": 21,
-      "Дешёвкин Вадим Николаевич": 4,
-      "Клейменов Илья Юрьевич": 7,
-      "Максимова Светлана Викторовна": 74,
-      "Морозов Антон Юрьевич": 16,
-      "Чепа Алексей Васильевич": 51
+      "gas:candidate-vibid:26920001038978": 8,
+      "gas:candidate-vibid:26920001031524": 21,
+      "gas:candidate-vibid:26920001041178": 4,
+      "gas:candidate-vibid:26920001031509": 7,
+      "gas:candidate-vibid:26920001036855": 74,
+      "gas:candidate-vibid:26920001026315": 16,
+      "gas:candidate-vibid:26920001033851": 51
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tver?action=show&root=1000236&tvd=2692000982896&vrn=100100067795849&region=69&global=&sub_region=69&prver=0&pronetvd=null&vibid=2692000982896&type=464",
@@ -8821,13 +8821,13 @@ export const duma_2016_uik_463_region_69_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Алексеев Игорь Анатольевич": 5,
-      "Воробьёва Людмила Фёдоровна": 7,
-      "Дешёвкин Вадим Николаевич": 1,
-      "Клейменов Илья Юрьевич": 3,
-      "Максимова Светлана Викторовна": 56,
-      "Морозов Антон Юрьевич": 8,
-      "Чепа Алексей Васильевич": 26
+      "gas:candidate-vibid:26920001038978": 5,
+      "gas:candidate-vibid:26920001031524": 7,
+      "gas:candidate-vibid:26920001041178": 1,
+      "gas:candidate-vibid:26920001031509": 3,
+      "gas:candidate-vibid:26920001036855": 56,
+      "gas:candidate-vibid:26920001026315": 8,
+      "gas:candidate-vibid:26920001033851": 26
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tver?action=show&root=1000236&tvd=2692000982896&vrn=100100067795849&region=69&global=&sub_region=69&prver=0&pronetvd=null&vibid=2692000982896&type=464",
@@ -8878,13 +8878,13 @@ export const duma_2016_uik_463_region_69_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Алексеев Игорь Анатольевич": 1,
-      "Воробьёва Людмила Фёдоровна": 20,
-      "Дешёвкин Вадим Николаевич": 11,
-      "Клейменов Илья Юрьевич": 5,
-      "Максимова Светлана Викторовна": 105,
-      "Морозов Антон Юрьевич": 20,
-      "Чепа Алексей Васильевич": 36
+      "gas:candidate-vibid:26920001038978": 1,
+      "gas:candidate-vibid:26920001031524": 20,
+      "gas:candidate-vibid:26920001041178": 11,
+      "gas:candidate-vibid:26920001031509": 5,
+      "gas:candidate-vibid:26920001036855": 105,
+      "gas:candidate-vibid:26920001026315": 20,
+      "gas:candidate-vibid:26920001033851": 36
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tver?action=show&root=1000236&tvd=2692000982896&vrn=100100067795849&region=69&global=&sub_region=69&prver=0&pronetvd=null&vibid=2692000982896&type=464",
@@ -8935,13 +8935,13 @@ export const duma_2016_uik_463_region_69_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Алексеев Игорь Анатольевич": 5,
-      "Воробьёва Людмила Фёдоровна": 19,
-      "Дешёвкин Вадим Николаевич": 16,
-      "Клейменов Илья Юрьевич": 8,
-      "Максимова Светлана Викторовна": 73,
-      "Морозов Антон Юрьевич": 13,
-      "Чепа Алексей Васильевич": 39
+      "gas:candidate-vibid:26920001038978": 5,
+      "gas:candidate-vibid:26920001031524": 19,
+      "gas:candidate-vibid:26920001041178": 16,
+      "gas:candidate-vibid:26920001031509": 8,
+      "gas:candidate-vibid:26920001036855": 73,
+      "gas:candidate-vibid:26920001026315": 13,
+      "gas:candidate-vibid:26920001033851": 39
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tver?action=show&root=1000236&tvd=2692000982896&vrn=100100067795849&region=69&global=&sub_region=69&prver=0&pronetvd=null&vibid=2692000982896&type=464",
@@ -8992,13 +8992,13 @@ export const duma_2016_uik_463_region_69_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Алексеев Игорь Анатольевич": 4,
-      "Воробьёва Людмила Фёдоровна": 11,
-      "Дешёвкин Вадим Николаевич": 6,
-      "Клейменов Илья Юрьевич": 11,
-      "Максимова Светлана Викторовна": 106,
-      "Морозов Антон Юрьевич": 27,
-      "Чепа Алексей Васильевич": 42
+      "gas:candidate-vibid:26920001038978": 4,
+      "gas:candidate-vibid:26920001031524": 11,
+      "gas:candidate-vibid:26920001041178": 6,
+      "gas:candidate-vibid:26920001031509": 11,
+      "gas:candidate-vibid:26920001036855": 106,
+      "gas:candidate-vibid:26920001026315": 27,
+      "gas:candidate-vibid:26920001033851": 42
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tver?action=show&root=1000236&tvd=2692000982896&vrn=100100067795849&region=69&global=&sub_region=69&prver=0&pronetvd=null&vibid=2692000982896&type=464",
@@ -9049,13 +9049,13 @@ export const duma_2016_uik_463_region_69_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Алексеев Игорь Анатольевич": 4,
-      "Воробьёва Людмила Фёдоровна": 5,
-      "Дешёвкин Вадим Николаевич": 3,
-      "Клейменов Илья Юрьевич": 2,
-      "Максимова Светлана Викторовна": 41,
-      "Морозов Антон Юрьевич": 13,
-      "Чепа Алексей Васильевич": 12
+      "gas:candidate-vibid:26920001038978": 4,
+      "gas:candidate-vibid:26920001031524": 5,
+      "gas:candidate-vibid:26920001041178": 3,
+      "gas:candidate-vibid:26920001031509": 2,
+      "gas:candidate-vibid:26920001036855": 41,
+      "gas:candidate-vibid:26920001026315": 13,
+      "gas:candidate-vibid:26920001033851": 12
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tver?action=show&root=1000236&tvd=2692000982896&vrn=100100067795849&region=69&global=&sub_region=69&prver=0&pronetvd=null&vibid=2692000982896&type=464",
@@ -9106,13 +9106,13 @@ export const duma_2016_uik_463_region_69_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Алексеев Игорь Анатольевич": 2,
-      "Воробьёва Людмила Фёдоровна": 8,
-      "Дешёвкин Вадим Николаевич": 4,
-      "Клейменов Илья Юрьевич": 5,
-      "Максимова Светлана Викторовна": 68,
-      "Морозов Антон Юрьевич": 10,
-      "Чепа Алексей Васильевич": 19
+      "gas:candidate-vibid:26920001038978": 2,
+      "gas:candidate-vibid:26920001031524": 8,
+      "gas:candidate-vibid:26920001041178": 4,
+      "gas:candidate-vibid:26920001031509": 5,
+      "gas:candidate-vibid:26920001036855": 68,
+      "gas:candidate-vibid:26920001026315": 10,
+      "gas:candidate-vibid:26920001033851": 19
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tver?action=show&root=1000236&tvd=2692000982896&vrn=100100067795849&region=69&global=&sub_region=69&prver=0&pronetvd=null&vibid=2692000982896&type=464",
@@ -9163,13 +9163,13 @@ export const duma_2016_uik_463_region_69_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Алексеев Игорь Анатольевич": 6,
-      "Воробьёва Людмила Фёдоровна": 8,
-      "Дешёвкин Вадим Николаевич": 8,
-      "Клейменов Илья Юрьевич": 4,
-      "Максимова Светлана Викторовна": 93,
-      "Морозов Антон Юрьевич": 12,
-      "Чепа Алексей Васильевич": 29
+      "gas:candidate-vibid:26920001038978": 6,
+      "gas:candidate-vibid:26920001031524": 8,
+      "gas:candidate-vibid:26920001041178": 8,
+      "gas:candidate-vibid:26920001031509": 4,
+      "gas:candidate-vibid:26920001036855": 93,
+      "gas:candidate-vibid:26920001026315": 12,
+      "gas:candidate-vibid:26920001033851": 29
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tver?action=show&root=1000236&tvd=2692000982896&vrn=100100067795849&region=69&global=&sub_region=69&prver=0&pronetvd=null&vibid=2692000982896&type=464",
@@ -9220,13 +9220,13 @@ export const duma_2016_uik_463_region_69_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Алексеев Игорь Анатольевич": 1,
-      "Воробьёва Людмила Фёдоровна": 28,
-      "Дешёвкин Вадим Николаевич": 1,
-      "Клейменов Илья Юрьевич": 5,
-      "Максимова Светлана Викторовна": 57,
-      "Морозов Антон Юрьевич": 13,
-      "Чепа Алексей Васильевич": 19
+      "gas:candidate-vibid:26920001038978": 1,
+      "gas:candidate-vibid:26920001031524": 28,
+      "gas:candidate-vibid:26920001041178": 1,
+      "gas:candidate-vibid:26920001031509": 5,
+      "gas:candidate-vibid:26920001036855": 57,
+      "gas:candidate-vibid:26920001026315": 13,
+      "gas:candidate-vibid:26920001033851": 19
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tver?action=show&root=1000236&tvd=2692000982896&vrn=100100067795849&region=69&global=&sub_region=69&prver=0&pronetvd=null&vibid=2692000982896&type=464",
@@ -9277,13 +9277,13 @@ export const duma_2016_uik_463_region_69_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Алексеев Игорь Анатольевич": 5,
-      "Воробьёва Людмила Фёдоровна": 12,
-      "Дешёвкин Вадим Николаевич": 1,
-      "Клейменов Илья Юрьевич": 9,
-      "Максимова Светлана Викторовна": 64,
-      "Морозов Антон Юрьевич": 26,
-      "Чепа Алексей Васильевич": 28
+      "gas:candidate-vibid:26920001038978": 5,
+      "gas:candidate-vibid:26920001031524": 12,
+      "gas:candidate-vibid:26920001041178": 1,
+      "gas:candidate-vibid:26920001031509": 9,
+      "gas:candidate-vibid:26920001036855": 64,
+      "gas:candidate-vibid:26920001026315": 26,
+      "gas:candidate-vibid:26920001033851": 28
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tver?action=show&root=1000236&tvd=2692000982896&vrn=100100067795849&region=69&global=&sub_region=69&prver=0&pronetvd=null&vibid=2692000982896&type=464",
@@ -9334,13 +9334,13 @@ export const duma_2016_uik_463_region_69_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Алексеев Игорь Анатольевич": 4,
-      "Воробьёва Людмила Фёдоровна": 24,
-      "Дешёвкин Вадим Николаевич": 4,
-      "Клейменов Илья Юрьевич": 7,
-      "Максимова Светлана Викторовна": 98,
-      "Морозов Антон Юрьевич": 26,
-      "Чепа Алексей Васильевич": 42
+      "gas:candidate-vibid:26920001038978": 4,
+      "gas:candidate-vibid:26920001031524": 24,
+      "gas:candidate-vibid:26920001041178": 4,
+      "gas:candidate-vibid:26920001031509": 7,
+      "gas:candidate-vibid:26920001036855": 98,
+      "gas:candidate-vibid:26920001026315": 26,
+      "gas:candidate-vibid:26920001033851": 42
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tver?action=show&root=1000236&tvd=2692000982896&vrn=100100067795849&region=69&global=&sub_region=69&prver=0&pronetvd=null&vibid=2692000982896&type=464",
@@ -9391,13 +9391,13 @@ export const duma_2016_uik_463_region_69_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Алексеев Игорь Анатольевич": 4,
-      "Воробьёва Людмила Фёдоровна": 14,
-      "Дешёвкин Вадим Николаевич": 9,
-      "Клейменов Илья Юрьевич": 2,
-      "Максимова Светлана Викторовна": 91,
-      "Морозов Антон Юрьевич": 7,
-      "Чепа Алексей Васильевич": 15
+      "gas:candidate-vibid:26920001038978": 4,
+      "gas:candidate-vibid:26920001031524": 14,
+      "gas:candidate-vibid:26920001041178": 9,
+      "gas:candidate-vibid:26920001031509": 2,
+      "gas:candidate-vibid:26920001036855": 91,
+      "gas:candidate-vibid:26920001026315": 7,
+      "gas:candidate-vibid:26920001033851": 15
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tver?action=show&root=1000236&tvd=2692000982896&vrn=100100067795849&region=69&global=&sub_region=69&prver=0&pronetvd=null&vibid=2692000982896&type=464",
@@ -9448,13 +9448,13 @@ export const duma_2016_uik_463_region_69_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Алексеев Игорь Анатольевич": 1,
-      "Воробьёва Людмила Фёдоровна": 23,
-      "Дешёвкин Вадим Николаевич": 4,
-      "Клейменов Илья Юрьевич": 5,
-      "Максимова Светлана Викторовна": 69,
-      "Морозов Антон Юрьевич": 12,
-      "Чепа Алексей Васильевич": 18
+      "gas:candidate-vibid:26920001038978": 1,
+      "gas:candidate-vibid:26920001031524": 23,
+      "gas:candidate-vibid:26920001041178": 4,
+      "gas:candidate-vibid:26920001031509": 5,
+      "gas:candidate-vibid:26920001036855": 69,
+      "gas:candidate-vibid:26920001026315": 12,
+      "gas:candidate-vibid:26920001033851": 18
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tver?action=show&root=1000236&tvd=2692000982896&vrn=100100067795849&region=69&global=&sub_region=69&prver=0&pronetvd=null&vibid=2692000982896&type=464",
@@ -9505,13 +9505,13 @@ export const duma_2016_uik_463_region_69_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Алексеев Игорь Анатольевич": 0,
-      "Воробьёва Людмила Фёдоровна": 11,
-      "Дешёвкин Вадим Николаевич": 2,
-      "Клейменов Илья Юрьевич": 12,
-      "Максимова Светлана Викторовна": 49,
-      "Морозов Антон Юрьевич": 15,
-      "Чепа Алексей Васильевич": 32
+      "gas:candidate-vibid:26920001038978": 0,
+      "gas:candidate-vibid:26920001031524": 11,
+      "gas:candidate-vibid:26920001041178": 2,
+      "gas:candidate-vibid:26920001031509": 12,
+      "gas:candidate-vibid:26920001036855": 49,
+      "gas:candidate-vibid:26920001026315": 15,
+      "gas:candidate-vibid:26920001033851": 32
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tver?action=show&root=1000236&tvd=2692000982896&vrn=100100067795849&region=69&global=&sub_region=69&prver=0&pronetvd=null&vibid=2692000982896&type=464",
@@ -9562,13 +9562,13 @@ export const duma_2016_uik_463_region_69_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Алексеев Игорь Анатольевич": 2,
-      "Воробьёва Людмила Фёдоровна": 8,
-      "Дешёвкин Вадим Николаевич": 3,
-      "Клейменов Илья Юрьевич": 3,
-      "Максимова Светлана Викторовна": 39,
-      "Морозов Антон Юрьевич": 8,
-      "Чепа Алексей Васильевич": 40
+      "gas:candidate-vibid:26920001038978": 2,
+      "gas:candidate-vibid:26920001031524": 8,
+      "gas:candidate-vibid:26920001041178": 3,
+      "gas:candidate-vibid:26920001031509": 3,
+      "gas:candidate-vibid:26920001036855": 39,
+      "gas:candidate-vibid:26920001026315": 8,
+      "gas:candidate-vibid:26920001033851": 40
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tver?action=show&root=1000236&tvd=2692000982896&vrn=100100067795849&region=69&global=&sub_region=69&prver=0&pronetvd=null&vibid=2692000982896&type=464",
@@ -9619,13 +9619,13 @@ export const duma_2016_uik_463_region_69_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Алексеев Игорь Анатольевич": 19,
-      "Воробьёва Людмила Фёдоровна": 75,
-      "Дешёвкин Вадим Николаевич": 27,
-      "Клейменов Илья Юрьевич": 33,
-      "Максимова Светлана Викторовна": 305,
-      "Морозов Антон Юрьевич": 123,
-      "Чепа Алексей Васильевич": 153
+      "gas:candidate-vibid:26920001038978": 19,
+      "gas:candidate-vibid:26920001031524": 75,
+      "gas:candidate-vibid:26920001041178": 27,
+      "gas:candidate-vibid:26920001031509": 33,
+      "gas:candidate-vibid:26920001036855": 305,
+      "gas:candidate-vibid:26920001026315": 123,
+      "gas:candidate-vibid:26920001033851": 153
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tver?action=show&root=1000236&tvd=2692000982897&vrn=100100067795849&region=69&global=&sub_region=69&prver=0&pronetvd=null&vibid=2692000982897&type=464",
@@ -9676,13 +9676,13 @@ export const duma_2016_uik_463_region_69_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Алексеев Игорь Анатольевич": 23,
-      "Воробьёва Людмила Фёдоровна": 58,
-      "Дешёвкин Вадим Николаевич": 28,
-      "Клейменов Илья Юрьевич": 31,
-      "Максимова Светлана Викторовна": 230,
-      "Морозов Антон Юрьевич": 78,
-      "Чепа Алексей Васильевич": 130
+      "gas:candidate-vibid:26920001038978": 23,
+      "gas:candidate-vibid:26920001031524": 58,
+      "gas:candidate-vibid:26920001041178": 28,
+      "gas:candidate-vibid:26920001031509": 31,
+      "gas:candidate-vibid:26920001036855": 230,
+      "gas:candidate-vibid:26920001026315": 78,
+      "gas:candidate-vibid:26920001033851": 130
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tver?action=show&root=1000236&tvd=2692000982897&vrn=100100067795849&region=69&global=&sub_region=69&prver=0&pronetvd=null&vibid=2692000982897&type=464",
@@ -9733,13 +9733,13 @@ export const duma_2016_uik_463_region_69_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Алексеев Игорь Анатольевич": 23,
-      "Воробьёва Людмила Фёдоровна": 95,
-      "Дешёвкин Вадим Николаевич": 35,
-      "Клейменов Илья Юрьевич": 32,
-      "Максимова Светлана Викторовна": 295,
-      "Морозов Антон Юрьевич": 104,
-      "Чепа Алексей Васильевич": 201
+      "gas:candidate-vibid:26920001038978": 23,
+      "gas:candidate-vibid:26920001031524": 95,
+      "gas:candidate-vibid:26920001041178": 35,
+      "gas:candidate-vibid:26920001031509": 32,
+      "gas:candidate-vibid:26920001036855": 295,
+      "gas:candidate-vibid:26920001026315": 104,
+      "gas:candidate-vibid:26920001033851": 201
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tver?action=show&root=1000236&tvd=2692000982897&vrn=100100067795849&region=69&global=&sub_region=69&prver=0&pronetvd=null&vibid=2692000982897&type=464",
@@ -9790,13 +9790,13 @@ export const duma_2016_uik_463_region_69_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Алексеев Игорь Анатольевич": 18,
-      "Воробьёва Людмила Фёдоровна": 91,
-      "Дешёвкин Вадим Николаевич": 25,
-      "Клейменов Илья Юрьевич": 38,
-      "Максимова Светлана Викторовна": 319,
-      "Морозов Антон Юрьевич": 124,
-      "Чепа Алексей Васильевич": 173
+      "gas:candidate-vibid:26920001038978": 18,
+      "gas:candidate-vibid:26920001031524": 91,
+      "gas:candidate-vibid:26920001041178": 25,
+      "gas:candidate-vibid:26920001031509": 38,
+      "gas:candidate-vibid:26920001036855": 319,
+      "gas:candidate-vibid:26920001026315": 124,
+      "gas:candidate-vibid:26920001033851": 173
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tver?action=show&root=1000236&tvd=2692000982897&vrn=100100067795849&region=69&global=&sub_region=69&prver=0&pronetvd=null&vibid=2692000982897&type=464",
@@ -9847,13 +9847,13 @@ export const duma_2016_uik_463_region_69_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Алексеев Игорь Анатольевич": 24,
-      "Воробьёва Людмила Фёдоровна": 102,
-      "Дешёвкин Вадим Николаевич": 38,
-      "Клейменов Илья Юрьевич": 50,
-      "Максимова Светлана Викторовна": 295,
-      "Морозов Антон Юрьевич": 122,
-      "Чепа Алексей Васильевич": 197
+      "gas:candidate-vibid:26920001038978": 24,
+      "gas:candidate-vibid:26920001031524": 102,
+      "gas:candidate-vibid:26920001041178": 38,
+      "gas:candidate-vibid:26920001031509": 50,
+      "gas:candidate-vibid:26920001036855": 295,
+      "gas:candidate-vibid:26920001026315": 122,
+      "gas:candidate-vibid:26920001033851": 197
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tver?action=show&root=1000236&tvd=2692000982897&vrn=100100067795849&region=69&global=&sub_region=69&prver=0&pronetvd=null&vibid=2692000982897&type=464",
@@ -9904,13 +9904,13 @@ export const duma_2016_uik_463_region_69_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Алексеев Игорь Анатольевич": 14,
-      "Воробьёва Людмила Фёдоровна": 47,
-      "Дешёвкин Вадим Николаевич": 19,
-      "Клейменов Илья Юрьевич": 26,
-      "Максимова Светлана Викторовна": 180,
-      "Морозов Антон Юрьевич": 55,
-      "Чепа Алексей Васильевич": 88
+      "gas:candidate-vibid:26920001038978": 14,
+      "gas:candidate-vibid:26920001031524": 47,
+      "gas:candidate-vibid:26920001041178": 19,
+      "gas:candidate-vibid:26920001031509": 26,
+      "gas:candidate-vibid:26920001036855": 180,
+      "gas:candidate-vibid:26920001026315": 55,
+      "gas:candidate-vibid:26920001033851": 88
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tver?action=show&root=1000236&tvd=2692000982897&vrn=100100067795849&region=69&global=&sub_region=69&prver=0&pronetvd=null&vibid=2692000982897&type=464",
@@ -9961,13 +9961,13 @@ export const duma_2016_uik_463_region_69_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Алексеев Игорь Анатольевич": 5,
-      "Воробьёва Людмила Фёдоровна": 19,
-      "Дешёвкин Вадим Николаевич": 13,
-      "Клейменов Илья Юрьевич": 10,
-      "Максимова Светлана Викторовна": 74,
-      "Морозов Антон Юрьевич": 29,
-      "Чепа Алексей Васильевич": 32
+      "gas:candidate-vibid:26920001038978": 5,
+      "gas:candidate-vibid:26920001031524": 19,
+      "gas:candidate-vibid:26920001041178": 13,
+      "gas:candidate-vibid:26920001031509": 10,
+      "gas:candidate-vibid:26920001036855": 74,
+      "gas:candidate-vibid:26920001026315": 29,
+      "gas:candidate-vibid:26920001033851": 32
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tver?action=show&root=1000236&tvd=2692000982897&vrn=100100067795849&region=69&global=&sub_region=69&prver=0&pronetvd=null&vibid=2692000982897&type=464",
@@ -10018,13 +10018,13 @@ export const duma_2016_uik_463_region_69_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Алексеев Игорь Анатольевич": 3,
-      "Воробьёва Людмила Фёдоровна": 17,
-      "Дешёвкин Вадим Николаевич": 2,
-      "Клейменов Илья Юрьевич": 3,
-      "Максимова Светлана Викторовна": 75,
-      "Морозов Антон Юрьевич": 12,
-      "Чепа Алексей Васильевич": 33
+      "gas:candidate-vibid:26920001038978": 3,
+      "gas:candidate-vibid:26920001031524": 17,
+      "gas:candidate-vibid:26920001041178": 2,
+      "gas:candidate-vibid:26920001031509": 3,
+      "gas:candidate-vibid:26920001036855": 75,
+      "gas:candidate-vibid:26920001026315": 12,
+      "gas:candidate-vibid:26920001033851": 33
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tver?action=show&root=1000236&tvd=2692000982897&vrn=100100067795849&region=69&global=&sub_region=69&prver=0&pronetvd=null&vibid=2692000982897&type=464",
@@ -10075,13 +10075,13 @@ export const duma_2016_uik_463_region_69_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Алексеев Игорь Анатольевич": 4,
-      "Воробьёва Людмила Фёдоровна": 18,
-      "Дешёвкин Вадим Николаевич": 4,
-      "Клейменов Илья Юрьевич": 3,
-      "Максимова Светлана Викторовна": 62,
-      "Морозов Антон Юрьевич": 16,
-      "Чепа Алексей Васильевич": 9
+      "gas:candidate-vibid:26920001038978": 4,
+      "gas:candidate-vibid:26920001031524": 18,
+      "gas:candidate-vibid:26920001041178": 4,
+      "gas:candidate-vibid:26920001031509": 3,
+      "gas:candidate-vibid:26920001036855": 62,
+      "gas:candidate-vibid:26920001026315": 16,
+      "gas:candidate-vibid:26920001033851": 9
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tver?action=show&root=1000236&tvd=2692000982897&vrn=100100067795849&region=69&global=&sub_region=69&prver=0&pronetvd=null&vibid=2692000982897&type=464",
@@ -10132,13 +10132,13 @@ export const duma_2016_uik_463_region_69_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Алексеев Игорь Анатольевич": 4,
-      "Воробьёва Людмила Фёдоровна": 11,
-      "Дешёвкин Вадим Николаевич": 3,
-      "Клейменов Илья Юрьевич": 5,
-      "Максимова Светлана Викторовна": 33,
-      "Морозов Антон Юрьевич": 12,
-      "Чепа Алексей Васильевич": 23
+      "gas:candidate-vibid:26920001038978": 4,
+      "gas:candidate-vibid:26920001031524": 11,
+      "gas:candidate-vibid:26920001041178": 3,
+      "gas:candidate-vibid:26920001031509": 5,
+      "gas:candidate-vibid:26920001036855": 33,
+      "gas:candidate-vibid:26920001026315": 12,
+      "gas:candidate-vibid:26920001033851": 23
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tver?action=show&root=1000236&tvd=2692000982897&vrn=100100067795849&region=69&global=&sub_region=69&prver=0&pronetvd=null&vibid=2692000982897&type=464",
@@ -10189,13 +10189,13 @@ export const duma_2016_uik_463_region_69_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Алексеев Игорь Анатольевич": 7,
-      "Воробьёва Людмила Фёдоровна": 13,
-      "Дешёвкин Вадим Николаевич": 7,
-      "Клейменов Илья Юрьевич": 4,
-      "Максимова Светлана Викторовна": 55,
-      "Морозов Антон Юрьевич": 18,
-      "Чепа Алексей Васильевич": 14
+      "gas:candidate-vibid:26920001038978": 7,
+      "gas:candidate-vibid:26920001031524": 13,
+      "gas:candidate-vibid:26920001041178": 7,
+      "gas:candidate-vibid:26920001031509": 4,
+      "gas:candidate-vibid:26920001036855": 55,
+      "gas:candidate-vibid:26920001026315": 18,
+      "gas:candidate-vibid:26920001033851": 14
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tver?action=show&root=1000236&tvd=2692000982897&vrn=100100067795849&region=69&global=&sub_region=69&prver=0&pronetvd=null&vibid=2692000982897&type=464",
@@ -10246,13 +10246,13 @@ export const duma_2016_uik_463_region_69_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Алексеев Игорь Анатольевич": 5,
-      "Воробьёва Людмила Фёдоровна": 8,
-      "Дешёвкин Вадим Николаевич": 1,
-      "Клейменов Илья Юрьевич": 4,
-      "Максимова Светлана Викторовна": 49,
-      "Морозов Антон Юрьевич": 8,
-      "Чепа Алексей Васильевич": 15
+      "gas:candidate-vibid:26920001038978": 5,
+      "gas:candidate-vibid:26920001031524": 8,
+      "gas:candidate-vibid:26920001041178": 1,
+      "gas:candidate-vibid:26920001031509": 4,
+      "gas:candidate-vibid:26920001036855": 49,
+      "gas:candidate-vibid:26920001026315": 8,
+      "gas:candidate-vibid:26920001033851": 15
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tver?action=show&root=1000236&tvd=2692000982897&vrn=100100067795849&region=69&global=&sub_region=69&prver=0&pronetvd=null&vibid=2692000982897&type=464",
@@ -10303,13 +10303,13 @@ export const duma_2016_uik_463_region_69_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Алексеев Игорь Анатольевич": 5,
-      "Воробьёва Людмила Фёдоровна": 22,
-      "Дешёвкин Вадим Николаевич": 15,
-      "Клейменов Илья Юрьевич": 6,
-      "Максимова Светлана Викторовна": 78,
-      "Морозов Антон Юрьевич": 14,
-      "Чепа Алексей Васильевич": 12
+      "gas:candidate-vibid:26920001038978": 5,
+      "gas:candidate-vibid:26920001031524": 22,
+      "gas:candidate-vibid:26920001041178": 15,
+      "gas:candidate-vibid:26920001031509": 6,
+      "gas:candidate-vibid:26920001036855": 78,
+      "gas:candidate-vibid:26920001026315": 14,
+      "gas:candidate-vibid:26920001033851": 12
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tver?action=show&root=1000236&tvd=2692000982897&vrn=100100067795849&region=69&global=&sub_region=69&prver=0&pronetvd=null&vibid=2692000982897&type=464",
@@ -10360,13 +10360,13 @@ export const duma_2016_uik_463_region_69_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Алексеев Игорь Анатольевич": 7,
-      "Воробьёва Людмила Фёдоровна": 10,
-      "Дешёвкин Вадим Николаевич": 4,
-      "Клейменов Илья Юрьевич": 5,
-      "Максимова Светлана Викторовна": 62,
-      "Морозов Антон Юрьевич": 15,
-      "Чепа Алексей Васильевич": 23
+      "gas:candidate-vibid:26920001038978": 7,
+      "gas:candidate-vibid:26920001031524": 10,
+      "gas:candidate-vibid:26920001041178": 4,
+      "gas:candidate-vibid:26920001031509": 5,
+      "gas:candidate-vibid:26920001036855": 62,
+      "gas:candidate-vibid:26920001026315": 15,
+      "gas:candidate-vibid:26920001033851": 23
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tver?action=show&root=1000236&tvd=2692000982897&vrn=100100067795849&region=69&global=&sub_region=69&prver=0&pronetvd=null&vibid=2692000982897&type=464",
@@ -10417,13 +10417,13 @@ export const duma_2016_uik_463_region_69_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Алексеев Игорь Анатольевич": 9,
-      "Воробьёва Людмила Фёдоровна": 40,
-      "Дешёвкин Вадим Николаевич": 10,
-      "Клейменов Илья Юрьевич": 12,
-      "Максимова Светлана Викторовна": 156,
-      "Морозов Антон Юрьевич": 46,
-      "Чепа Алексей Васильевич": 45
+      "gas:candidate-vibid:26920001038978": 9,
+      "gas:candidate-vibid:26920001031524": 40,
+      "gas:candidate-vibid:26920001041178": 10,
+      "gas:candidate-vibid:26920001031509": 12,
+      "gas:candidate-vibid:26920001036855": 156,
+      "gas:candidate-vibid:26920001026315": 46,
+      "gas:candidate-vibid:26920001033851": 45
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tver?action=show&root=1000236&tvd=2692000982897&vrn=100100067795849&region=69&global=&sub_region=69&prver=0&pronetvd=null&vibid=2692000982897&type=464",
@@ -10474,13 +10474,13 @@ export const duma_2016_uik_463_region_69_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Алексеев Игорь Анатольевич": 1,
-      "Воробьёва Людмила Фёдоровна": 15,
-      "Дешёвкин Вадим Николаевич": 4,
-      "Клейменов Илья Юрьевич": 5,
-      "Максимова Светлана Викторовна": 43,
-      "Морозов Антон Юрьевич": 9,
-      "Чепа Алексей Васильевич": 7
+      "gas:candidate-vibid:26920001038978": 1,
+      "gas:candidate-vibid:26920001031524": 15,
+      "gas:candidate-vibid:26920001041178": 4,
+      "gas:candidate-vibid:26920001031509": 5,
+      "gas:candidate-vibid:26920001036855": 43,
+      "gas:candidate-vibid:26920001026315": 9,
+      "gas:candidate-vibid:26920001033851": 7
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tver?action=show&root=1000236&tvd=2692000982897&vrn=100100067795849&region=69&global=&sub_region=69&prver=0&pronetvd=null&vibid=2692000982897&type=464",
@@ -10531,13 +10531,13 @@ export const duma_2016_uik_463_region_69_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Алексеев Игорь Анатольевич": 10,
-      "Воробьёва Людмила Фёдоровна": 15,
-      "Дешёвкин Вадим Николаевич": 6,
-      "Клейменов Илья Юрьевич": 12,
-      "Максимова Светлана Викторовна": 80,
-      "Морозов Антон Юрьевич": 18,
-      "Чепа Алексей Васильевич": 11
+      "gas:candidate-vibid:26920001038978": 10,
+      "gas:candidate-vibid:26920001031524": 15,
+      "gas:candidate-vibid:26920001041178": 6,
+      "gas:candidate-vibid:26920001031509": 12,
+      "gas:candidate-vibid:26920001036855": 80,
+      "gas:candidate-vibid:26920001026315": 18,
+      "gas:candidate-vibid:26920001033851": 11
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tver?action=show&root=1000236&tvd=2692000982897&vrn=100100067795849&region=69&global=&sub_region=69&prver=0&pronetvd=null&vibid=2692000982897&type=464",
@@ -10588,13 +10588,13 @@ export const duma_2016_uik_463_region_69_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Алексеев Игорь Анатольевич": 1,
-      "Воробьёва Людмила Фёдоровна": 6,
-      "Дешёвкин Вадим Николаевич": 3,
-      "Клейменов Илья Юрьевич": 6,
-      "Максимова Светлана Викторовна": 42,
-      "Морозов Антон Юрьевич": 7,
-      "Чепа Алексей Васильевич": 14
+      "gas:candidate-vibid:26920001038978": 1,
+      "gas:candidate-vibid:26920001031524": 6,
+      "gas:candidate-vibid:26920001041178": 3,
+      "gas:candidate-vibid:26920001031509": 6,
+      "gas:candidate-vibid:26920001036855": 42,
+      "gas:candidate-vibid:26920001026315": 7,
+      "gas:candidate-vibid:26920001033851": 14
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tver?action=show&root=1000236&tvd=2692000982897&vrn=100100067795849&region=69&global=&sub_region=69&prver=0&pronetvd=null&vibid=2692000982897&type=464",
@@ -10645,13 +10645,13 @@ export const duma_2016_uik_463_region_69_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Алексеев Игорь Анатольевич": 7,
-      "Воробьёва Людмила Фёдоровна": 6,
-      "Дешёвкин Вадим Николаевич": 5,
-      "Клейменов Илья Юрьевич": 4,
-      "Максимова Светлана Викторовна": 40,
-      "Морозов Антон Юрьевич": 15,
-      "Чепа Алексей Васильевич": 16
+      "gas:candidate-vibid:26920001038978": 7,
+      "gas:candidate-vibid:26920001031524": 6,
+      "gas:candidate-vibid:26920001041178": 5,
+      "gas:candidate-vibid:26920001031509": 4,
+      "gas:candidate-vibid:26920001036855": 40,
+      "gas:candidate-vibid:26920001026315": 15,
+      "gas:candidate-vibid:26920001033851": 16
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tver?action=show&root=1000236&tvd=2692000982897&vrn=100100067795849&region=69&global=&sub_region=69&prver=0&pronetvd=null&vibid=2692000982897&type=464",
@@ -10702,13 +10702,13 @@ export const duma_2016_uik_463_region_69_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Алексеев Игорь Анатольевич": 15,
-      "Воробьёва Людмила Фёдоровна": 20,
-      "Дешёвкин Вадим Николаевич": 8,
-      "Клейменов Илья Юрьевич": 11,
-      "Максимова Светлана Викторовна": 106,
-      "Морозов Антон Юрьевич": 32,
-      "Чепа Алексей Васильевич": 26
+      "gas:candidate-vibid:26920001038978": 15,
+      "gas:candidate-vibid:26920001031524": 20,
+      "gas:candidate-vibid:26920001041178": 8,
+      "gas:candidate-vibid:26920001031509": 11,
+      "gas:candidate-vibid:26920001036855": 106,
+      "gas:candidate-vibid:26920001026315": 32,
+      "gas:candidate-vibid:26920001033851": 26
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tver?action=show&root=1000236&tvd=2692000982897&vrn=100100067795849&region=69&global=&sub_region=69&prver=0&pronetvd=null&vibid=2692000982897&type=464",
@@ -10759,13 +10759,13 @@ export const duma_2016_uik_463_region_69_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Алексеев Игорь Анатольевич": 5,
-      "Воробьёва Людмила Фёдоровна": 4,
-      "Дешёвкин Вадим Николаевич": 3,
-      "Клейменов Илья Юрьевич": 3,
-      "Максимова Светлана Викторовна": 35,
-      "Морозов Антон Юрьевич": 9,
-      "Чепа Алексей Васильевич": 5
+      "gas:candidate-vibid:26920001038978": 5,
+      "gas:candidate-vibid:26920001031524": 4,
+      "gas:candidate-vibid:26920001041178": 3,
+      "gas:candidate-vibid:26920001031509": 3,
+      "gas:candidate-vibid:26920001036855": 35,
+      "gas:candidate-vibid:26920001026315": 9,
+      "gas:candidate-vibid:26920001033851": 5
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tver?action=show&root=1000236&tvd=2692000982897&vrn=100100067795849&region=69&global=&sub_region=69&prver=0&pronetvd=null&vibid=2692000982897&type=464",
@@ -10816,13 +10816,13 @@ export const duma_2016_uik_463_region_69_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Алексеев Игорь Анатольевич": 9,
-      "Воробьёва Людмила Фёдоровна": 8,
-      "Дешёвкин Вадим Николаевич": 5,
-      "Клейменов Илья Юрьевич": 18,
-      "Максимова Светлана Викторовна": 53,
-      "Морозов Антон Юрьевич": 30,
-      "Чепа Алексей Васильевич": 27
+      "gas:candidate-vibid:26920001038978": 9,
+      "gas:candidate-vibid:26920001031524": 8,
+      "gas:candidate-vibid:26920001041178": 5,
+      "gas:candidate-vibid:26920001031509": 18,
+      "gas:candidate-vibid:26920001036855": 53,
+      "gas:candidate-vibid:26920001026315": 30,
+      "gas:candidate-vibid:26920001033851": 27
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tver?action=show&root=1000236&tvd=2692000982897&vrn=100100067795849&region=69&global=&sub_region=69&prver=0&pronetvd=null&vibid=2692000982897&type=464",
@@ -10873,13 +10873,13 @@ export const duma_2016_uik_463_region_69_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Алексеев Игорь Анатольевич": 3,
-      "Воробьёва Людмила Фёдоровна": 5,
-      "Дешёвкин Вадим Николаевич": 3,
-      "Клейменов Илья Юрьевич": 2,
-      "Максимова Светлана Викторовна": 48,
-      "Морозов Антон Юрьевич": 15,
-      "Чепа Алексей Васильевич": 18
+      "gas:candidate-vibid:26920001038978": 3,
+      "gas:candidate-vibid:26920001031524": 5,
+      "gas:candidate-vibid:26920001041178": 3,
+      "gas:candidate-vibid:26920001031509": 2,
+      "gas:candidate-vibid:26920001036855": 48,
+      "gas:candidate-vibid:26920001026315": 15,
+      "gas:candidate-vibid:26920001033851": 18
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tver?action=show&root=1000236&tvd=2692000982897&vrn=100100067795849&region=69&global=&sub_region=69&prver=0&pronetvd=null&vibid=2692000982897&type=464",
@@ -10930,13 +10930,13 @@ export const duma_2016_uik_463_region_69_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Алексеев Игорь Анатольевич": 6,
-      "Воробьёва Людмила Фёдоровна": 15,
-      "Дешёвкин Вадим Николаевич": 6,
-      "Клейменов Илья Юрьевич": 6,
-      "Максимова Светлана Викторовна": 86,
-      "Морозов Антон Юрьевич": 23,
-      "Чепа Алексей Васильевич": 26
+      "gas:candidate-vibid:26920001038978": 6,
+      "gas:candidate-vibid:26920001031524": 15,
+      "gas:candidate-vibid:26920001041178": 6,
+      "gas:candidate-vibid:26920001031509": 6,
+      "gas:candidate-vibid:26920001036855": 86,
+      "gas:candidate-vibid:26920001026315": 23,
+      "gas:candidate-vibid:26920001033851": 26
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tver?action=show&root=1000236&tvd=2692000982897&vrn=100100067795849&region=69&global=&sub_region=69&prver=0&pronetvd=null&vibid=2692000982897&type=464",
@@ -10987,13 +10987,13 @@ export const duma_2016_uik_463_region_69_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Алексеев Игорь Анатольевич": 1,
-      "Воробьёва Людмила Фёдоровна": 5,
-      "Дешёвкин Вадим Николаевич": 0,
-      "Клейменов Илья Юрьевич": 3,
-      "Максимова Светлана Викторовна": 23,
-      "Морозов Антон Юрьевич": 5,
-      "Чепа Алексей Васильевич": 18
+      "gas:candidate-vibid:26920001038978": 1,
+      "gas:candidate-vibid:26920001031524": 5,
+      "gas:candidate-vibid:26920001041178": 0,
+      "gas:candidate-vibid:26920001031509": 3,
+      "gas:candidate-vibid:26920001036855": 23,
+      "gas:candidate-vibid:26920001026315": 5,
+      "gas:candidate-vibid:26920001033851": 18
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tver?action=show&root=1000236&tvd=2692000982897&vrn=100100067795849&region=69&global=&sub_region=69&prver=0&pronetvd=null&vibid=2692000982897&type=464",
@@ -11044,13 +11044,13 @@ export const duma_2016_uik_463_region_69_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Алексеев Игорь Анатольевич": 4,
-      "Воробьёва Людмила Фёдоровна": 20,
-      "Дешёвкин Вадим Николаевич": 3,
-      "Клейменов Илья Юрьевич": 5,
-      "Максимова Светлана Викторовна": 37,
-      "Морозов Антон Юрьевич": 21,
-      "Чепа Алексей Васильевич": 20
+      "gas:candidate-vibid:26920001038978": 4,
+      "gas:candidate-vibid:26920001031524": 20,
+      "gas:candidate-vibid:26920001041178": 3,
+      "gas:candidate-vibid:26920001031509": 5,
+      "gas:candidate-vibid:26920001036855": 37,
+      "gas:candidate-vibid:26920001026315": 21,
+      "gas:candidate-vibid:26920001033851": 20
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tver?action=show&root=1000236&tvd=2692000982897&vrn=100100067795849&region=69&global=&sub_region=69&prver=0&pronetvd=null&vibid=2692000982897&type=464",
@@ -11101,13 +11101,13 @@ export const duma_2016_uik_463_region_69_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Алексеев Игорь Анатольевич": 2,
-      "Воробьёва Людмила Фёдоровна": 6,
-      "Дешёвкин Вадим Николаевич": 4,
-      "Клейменов Илья Юрьевич": 8,
-      "Максимова Светлана Викторовна": 94,
-      "Морозов Антон Юрьевич": 17,
-      "Чепа Алексей Васильевич": 31
+      "gas:candidate-vibid:26920001038978": 2,
+      "gas:candidate-vibid:26920001031524": 6,
+      "gas:candidate-vibid:26920001041178": 4,
+      "gas:candidate-vibid:26920001031509": 8,
+      "gas:candidate-vibid:26920001036855": 94,
+      "gas:candidate-vibid:26920001026315": 17,
+      "gas:candidate-vibid:26920001033851": 31
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tver?action=show&root=1000236&tvd=2692000982897&vrn=100100067795849&region=69&global=&sub_region=69&prver=0&pronetvd=null&vibid=2692000982897&type=464",
@@ -11158,13 +11158,13 @@ export const duma_2016_uik_463_region_69_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Алексеев Игорь Анатольевич": 4,
-      "Воробьёва Людмила Фёдоровна": 9,
-      "Дешёвкин Вадим Николаевич": 1,
-      "Клейменов Илья Юрьевич": 4,
-      "Максимова Светлана Викторовна": 126,
-      "Морозов Антон Юрьевич": 5,
-      "Чепа Алексей Васильевич": 2
+      "gas:candidate-vibid:26920001038978": 4,
+      "gas:candidate-vibid:26920001031524": 9,
+      "gas:candidate-vibid:26920001041178": 1,
+      "gas:candidate-vibid:26920001031509": 4,
+      "gas:candidate-vibid:26920001036855": 126,
+      "gas:candidate-vibid:26920001026315": 5,
+      "gas:candidate-vibid:26920001033851": 2
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tver?action=show&root=1000236&tvd=2692000982897&vrn=100100067795849&region=69&global=&sub_region=69&prver=0&pronetvd=null&vibid=2692000982897&type=464",
@@ -11215,13 +11215,13 @@ export const duma_2016_uik_463_region_69_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Алексеев Игорь Анатольевич": 15,
-      "Воробьёва Людмила Фёдоровна": 36,
-      "Дешёвкин Вадим Николаевич": 36,
-      "Клейменов Илья Юрьевич": 18,
-      "Максимова Светлана Викторовна": 217,
-      "Морозов Антон Юрьевич": 60,
-      "Чепа Алексей Васильевич": 39
+      "gas:candidate-vibid:26920001038978": 15,
+      "gas:candidate-vibid:26920001031524": 36,
+      "gas:candidate-vibid:26920001041178": 36,
+      "gas:candidate-vibid:26920001031509": 18,
+      "gas:candidate-vibid:26920001036855": 217,
+      "gas:candidate-vibid:26920001026315": 60,
+      "gas:candidate-vibid:26920001033851": 39
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tver?action=show&root=1000236&tvd=2692000982898&vrn=100100067795849&region=69&global=&sub_region=69&prver=0&pronetvd=null&vibid=2692000982898&type=464",
@@ -11272,13 +11272,13 @@ export const duma_2016_uik_463_region_69_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Алексеев Игорь Анатольевич": 15,
-      "Воробьёва Людмила Фёдоровна": 67,
-      "Дешёвкин Вадим Николаевич": 60,
-      "Клейменов Илья Юрьевич": 29,
-      "Максимова Светлана Викторовна": 235,
-      "Морозов Антон Юрьевич": 80,
-      "Чепа Алексей Васильевич": 89
+      "gas:candidate-vibid:26920001038978": 15,
+      "gas:candidate-vibid:26920001031524": 67,
+      "gas:candidate-vibid:26920001041178": 60,
+      "gas:candidate-vibid:26920001031509": 29,
+      "gas:candidate-vibid:26920001036855": 235,
+      "gas:candidate-vibid:26920001026315": 80,
+      "gas:candidate-vibid:26920001033851": 89
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tver?action=show&root=1000236&tvd=2692000982898&vrn=100100067795849&region=69&global=&sub_region=69&prver=0&pronetvd=null&vibid=2692000982898&type=464",
@@ -11329,13 +11329,13 @@ export const duma_2016_uik_463_region_69_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Алексеев Игорь Анатольевич": 6,
-      "Воробьёва Людмила Фёдоровна": 6,
-      "Дешёвкин Вадим Николаевич": 3,
-      "Клейменов Илья Юрьевич": 8,
-      "Максимова Светлана Викторовна": 40,
-      "Морозов Антон Юрьевич": 10,
-      "Чепа Алексей Васильевич": 3
+      "gas:candidate-vibid:26920001038978": 6,
+      "gas:candidate-vibid:26920001031524": 6,
+      "gas:candidate-vibid:26920001041178": 3,
+      "gas:candidate-vibid:26920001031509": 8,
+      "gas:candidate-vibid:26920001036855": 40,
+      "gas:candidate-vibid:26920001026315": 10,
+      "gas:candidate-vibid:26920001033851": 3
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tver?action=show&root=1000236&tvd=2692000982898&vrn=100100067795849&region=69&global=&sub_region=69&prver=0&pronetvd=null&vibid=2692000982898&type=464",
@@ -11386,13 +11386,13 @@ export const duma_2016_uik_463_region_69_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Алексеев Игорь Анатольевич": 4,
-      "Воробьёва Людмила Фёдоровна": 24,
-      "Дешёвкин Вадим Николаевич": 15,
-      "Клейменов Илья Юрьевич": 14,
-      "Максимова Светлана Викторовна": 100,
-      "Морозов Антон Юрьевич": 33,
-      "Чепа Алексей Васильевич": 23
+      "gas:candidate-vibid:26920001038978": 4,
+      "gas:candidate-vibid:26920001031524": 24,
+      "gas:candidate-vibid:26920001041178": 15,
+      "gas:candidate-vibid:26920001031509": 14,
+      "gas:candidate-vibid:26920001036855": 100,
+      "gas:candidate-vibid:26920001026315": 33,
+      "gas:candidate-vibid:26920001033851": 23
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tver?action=show&root=1000236&tvd=2692000982898&vrn=100100067795849&region=69&global=&sub_region=69&prver=0&pronetvd=null&vibid=2692000982898&type=464",
@@ -11443,13 +11443,13 @@ export const duma_2016_uik_463_region_69_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Алексеев Игорь Анатольевич": 1,
-      "Воробьёва Людмила Фёдоровна": 13,
-      "Дешёвкин Вадим Николаевич": 38,
-      "Клейменов Илья Юрьевич": 8,
-      "Максимова Светлана Викторовна": 80,
-      "Морозов Антон Юрьевич": 29,
-      "Чепа Алексей Васильевич": 30
+      "gas:candidate-vibid:26920001038978": 1,
+      "gas:candidate-vibid:26920001031524": 13,
+      "gas:candidate-vibid:26920001041178": 38,
+      "gas:candidate-vibid:26920001031509": 8,
+      "gas:candidate-vibid:26920001036855": 80,
+      "gas:candidate-vibid:26920001026315": 29,
+      "gas:candidate-vibid:26920001033851": 30
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tver?action=show&root=1000236&tvd=2692000982898&vrn=100100067795849&region=69&global=&sub_region=69&prver=0&pronetvd=null&vibid=2692000982898&type=464",
@@ -11500,13 +11500,13 @@ export const duma_2016_uik_463_region_69_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Алексеев Игорь Анатольевич": 4,
-      "Воробьёва Людмила Фёдоровна": 9,
-      "Дешёвкин Вадим Николаевич": 19,
-      "Клейменов Илья Юрьевич": 12,
-      "Максимова Светлана Викторовна": 93,
-      "Морозов Антон Юрьевич": 22,
-      "Чепа Алексей Васильевич": 20
+      "gas:candidate-vibid:26920001038978": 4,
+      "gas:candidate-vibid:26920001031524": 9,
+      "gas:candidate-vibid:26920001041178": 19,
+      "gas:candidate-vibid:26920001031509": 12,
+      "gas:candidate-vibid:26920001036855": 93,
+      "gas:candidate-vibid:26920001026315": 22,
+      "gas:candidate-vibid:26920001033851": 20
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tver?action=show&root=1000236&tvd=2692000982898&vrn=100100067795849&region=69&global=&sub_region=69&prver=0&pronetvd=null&vibid=2692000982898&type=464",
@@ -11557,13 +11557,13 @@ export const duma_2016_uik_463_region_69_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Алексеев Игорь Анатольевич": 8,
-      "Воробьёва Людмила Фёдоровна": 37,
-      "Дешёвкин Вадим Николаевич": 18,
-      "Клейменов Илья Юрьевич": 18,
-      "Максимова Светлана Викторовна": 153,
-      "Морозов Антон Юрьевич": 41,
-      "Чепа Алексей Васильевич": 70
+      "gas:candidate-vibid:26920001038978": 8,
+      "gas:candidate-vibid:26920001031524": 37,
+      "gas:candidate-vibid:26920001041178": 18,
+      "gas:candidate-vibid:26920001031509": 18,
+      "gas:candidate-vibid:26920001036855": 153,
+      "gas:candidate-vibid:26920001026315": 41,
+      "gas:candidate-vibid:26920001033851": 70
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tver?action=show&root=1000236&tvd=2692000982898&vrn=100100067795849&region=69&global=&sub_region=69&prver=0&pronetvd=null&vibid=2692000982898&type=464",
@@ -11614,13 +11614,13 @@ export const duma_2016_uik_463_region_69_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Алексеев Игорь Анатольевич": 3,
-      "Воробьёва Людмила Фёдоровна": 11,
-      "Дешёвкин Вадим Николаевич": 3,
-      "Клейменов Илья Юрьевич": 10,
-      "Максимова Светлана Викторовна": 87,
-      "Морозов Антон Юрьевич": 14,
-      "Чепа Алексей Васильевич": 7
+      "gas:candidate-vibid:26920001038978": 3,
+      "gas:candidate-vibid:26920001031524": 11,
+      "gas:candidate-vibid:26920001041178": 3,
+      "gas:candidate-vibid:26920001031509": 10,
+      "gas:candidate-vibid:26920001036855": 87,
+      "gas:candidate-vibid:26920001026315": 14,
+      "gas:candidate-vibid:26920001033851": 7
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tver?action=show&root=1000236&tvd=2692000982898&vrn=100100067795849&region=69&global=&sub_region=69&prver=0&pronetvd=null&vibid=2692000982898&type=464",
@@ -11671,13 +11671,13 @@ export const duma_2016_uik_463_region_69_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Алексеев Игорь Анатольевич": 3,
-      "Воробьёва Людмила Фёдоровна": 5,
-      "Дешёвкин Вадим Николаевич": 10,
-      "Клейменов Илья Юрьевич": 7,
-      "Максимова Светлана Викторовна": 57,
-      "Морозов Антон Юрьевич": 23,
-      "Чепа Алексей Васильевич": 7
+      "gas:candidate-vibid:26920001038978": 3,
+      "gas:candidate-vibid:26920001031524": 5,
+      "gas:candidate-vibid:26920001041178": 10,
+      "gas:candidate-vibid:26920001031509": 7,
+      "gas:candidate-vibid:26920001036855": 57,
+      "gas:candidate-vibid:26920001026315": 23,
+      "gas:candidate-vibid:26920001033851": 7
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tver?action=show&root=1000236&tvd=2692000982898&vrn=100100067795849&region=69&global=&sub_region=69&prver=0&pronetvd=null&vibid=2692000982898&type=464",
@@ -11728,13 +11728,13 @@ export const duma_2016_uik_463_region_69_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Алексеев Игорь Анатольевич": 3,
-      "Воробьёва Людмила Фёдоровна": 5,
-      "Дешёвкин Вадим Николаевич": 5,
-      "Клейменов Илья Юрьевич": 7,
-      "Максимова Светлана Викторовна": 42,
-      "Морозов Антон Юрьевич": 14,
-      "Чепа Алексей Васильевич": 12
+      "gas:candidate-vibid:26920001038978": 3,
+      "gas:candidate-vibid:26920001031524": 5,
+      "gas:candidate-vibid:26920001041178": 5,
+      "gas:candidate-vibid:26920001031509": 7,
+      "gas:candidate-vibid:26920001036855": 42,
+      "gas:candidate-vibid:26920001026315": 14,
+      "gas:candidate-vibid:26920001033851": 12
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tver?action=show&root=1000236&tvd=2692000982898&vrn=100100067795849&region=69&global=&sub_region=69&prver=0&pronetvd=null&vibid=2692000982898&type=464",
@@ -11785,13 +11785,13 @@ export const duma_2016_uik_463_region_69_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Алексеев Игорь Анатольевич": 3,
-      "Воробьёва Людмила Фёдоровна": 10,
-      "Дешёвкин Вадим Николаевич": 18,
-      "Клейменов Илья Юрьевич": 11,
-      "Максимова Светлана Викторовна": 61,
-      "Морозов Антон Юрьевич": 21,
-      "Чепа Алексей Васильевич": 26
+      "gas:candidate-vibid:26920001038978": 3,
+      "gas:candidate-vibid:26920001031524": 10,
+      "gas:candidate-vibid:26920001041178": 18,
+      "gas:candidate-vibid:26920001031509": 11,
+      "gas:candidate-vibid:26920001036855": 61,
+      "gas:candidate-vibid:26920001026315": 21,
+      "gas:candidate-vibid:26920001033851": 26
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tver?action=show&root=1000236&tvd=2692000982898&vrn=100100067795849&region=69&global=&sub_region=69&prver=0&pronetvd=null&vibid=2692000982898&type=464",
@@ -11842,13 +11842,13 @@ export const duma_2016_uik_463_region_69_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Алексеев Игорь Анатольевич": 0,
-      "Воробьёва Людмила Фёдоровна": 10,
-      "Дешёвкин Вадим Николаевич": 9,
-      "Клейменов Илья Юрьевич": 8,
-      "Максимова Светлана Викторовна": 86,
-      "Морозов Антон Юрьевич": 13,
-      "Чепа Алексей Васильевич": 12
+      "gas:candidate-vibid:26920001038978": 0,
+      "gas:candidate-vibid:26920001031524": 10,
+      "gas:candidate-vibid:26920001041178": 9,
+      "gas:candidate-vibid:26920001031509": 8,
+      "gas:candidate-vibid:26920001036855": 86,
+      "gas:candidate-vibid:26920001026315": 13,
+      "gas:candidate-vibid:26920001033851": 12
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tver?action=show&root=1000236&tvd=2692000982898&vrn=100100067795849&region=69&global=&sub_region=69&prver=0&pronetvd=null&vibid=2692000982898&type=464",
@@ -11899,13 +11899,13 @@ export const duma_2016_uik_463_region_69_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Алексеев Игорь Анатольевич": 17,
-      "Воробьёва Людмила Фёдоровна": 31,
-      "Дешёвкин Вадим Николаевич": 34,
-      "Клейменов Илья Юрьевич": 21,
-      "Максимова Светлана Викторовна": 157,
-      "Морозов Антон Юрьевич": 57,
-      "Чепа Алексей Васильевич": 66
+      "gas:candidate-vibid:26920001038978": 17,
+      "gas:candidate-vibid:26920001031524": 31,
+      "gas:candidate-vibid:26920001041178": 34,
+      "gas:candidate-vibid:26920001031509": 21,
+      "gas:candidate-vibid:26920001036855": 157,
+      "gas:candidate-vibid:26920001026315": 57,
+      "gas:candidate-vibid:26920001033851": 66
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tver?action=show&root=1000236&tvd=2692000982898&vrn=100100067795849&region=69&global=&sub_region=69&prver=0&pronetvd=null&vibid=2692000982898&type=464",
@@ -11956,13 +11956,13 @@ export const duma_2016_uik_463_region_69_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Алексеев Игорь Анатольевич": 4,
-      "Воробьёва Людмила Фёдоровна": 23,
-      "Дешёвкин Вадим Николаевич": 24,
-      "Клейменов Илья Юрьевич": 6,
-      "Максимова Светлана Викторовна": 108,
-      "Морозов Антон Юрьевич": 24,
-      "Чепа Алексей Васильевич": 43
+      "gas:candidate-vibid:26920001038978": 4,
+      "gas:candidate-vibid:26920001031524": 23,
+      "gas:candidate-vibid:26920001041178": 24,
+      "gas:candidate-vibid:26920001031509": 6,
+      "gas:candidate-vibid:26920001036855": 108,
+      "gas:candidate-vibid:26920001026315": 24,
+      "gas:candidate-vibid:26920001033851": 43
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tver?action=show&root=1000236&tvd=2692000982898&vrn=100100067795849&region=69&global=&sub_region=69&prver=0&pronetvd=null&vibid=2692000982898&type=464",
@@ -12013,13 +12013,13 @@ export const duma_2016_uik_463_region_69_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Алексеев Игорь Анатольевич": 5,
-      "Воробьёва Людмила Фёдоровна": 16,
-      "Дешёвкин Вадим Николаевич": 15,
-      "Клейменов Илья Юрьевич": 16,
-      "Максимова Светлана Викторовна": 96,
-      "Морозов Антон Юрьевич": 27,
-      "Чепа Алексей Васильевич": 27
+      "gas:candidate-vibid:26920001038978": 5,
+      "gas:candidate-vibid:26920001031524": 16,
+      "gas:candidate-vibid:26920001041178": 15,
+      "gas:candidate-vibid:26920001031509": 16,
+      "gas:candidate-vibid:26920001036855": 96,
+      "gas:candidate-vibid:26920001026315": 27,
+      "gas:candidate-vibid:26920001033851": 27
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tver?action=show&root=1000236&tvd=2692000982898&vrn=100100067795849&region=69&global=&sub_region=69&prver=0&pronetvd=null&vibid=2692000982898&type=464",
@@ -12070,13 +12070,13 @@ export const duma_2016_uik_463_region_69_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Алексеев Игорь Анатольевич": 6,
-      "Воробьёва Людмила Фёдоровна": 17,
-      "Дешёвкин Вадим Николаевич": 17,
-      "Клейменов Илья Юрьевич": 12,
-      "Максимова Светлана Викторовна": 220,
-      "Морозов Антон Юрьевич": 31,
-      "Чепа Алексей Васильевич": 36
+      "gas:candidate-vibid:26920001038978": 6,
+      "gas:candidate-vibid:26920001031524": 17,
+      "gas:candidate-vibid:26920001041178": 17,
+      "gas:candidate-vibid:26920001031509": 12,
+      "gas:candidate-vibid:26920001036855": 220,
+      "gas:candidate-vibid:26920001026315": 31,
+      "gas:candidate-vibid:26920001033851": 36
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tver?action=show&root=1000236&tvd=2692000982898&vrn=100100067795849&region=69&global=&sub_region=69&prver=0&pronetvd=null&vibid=2692000982898&type=464",
@@ -12127,13 +12127,13 @@ export const duma_2016_uik_463_region_69_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Алексеев Игорь Анатольевич": 9,
-      "Воробьёва Людмила Фёдоровна": 36,
-      "Дешёвкин Вадим Николаевич": 17,
-      "Клейменов Илья Юрьевич": 23,
-      "Максимова Светлана Викторовна": 101,
-      "Морозов Антон Юрьевич": 38,
-      "Чепа Алексей Васильевич": 20
+      "gas:candidate-vibid:26920001038978": 9,
+      "gas:candidate-vibid:26920001031524": 36,
+      "gas:candidate-vibid:26920001041178": 17,
+      "gas:candidate-vibid:26920001031509": 23,
+      "gas:candidate-vibid:26920001036855": 101,
+      "gas:candidate-vibid:26920001026315": 38,
+      "gas:candidate-vibid:26920001033851": 20
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tver?action=show&root=1000236&tvd=2692000982898&vrn=100100067795849&region=69&global=&sub_region=69&prver=0&pronetvd=null&vibid=2692000982898&type=464",
@@ -12184,13 +12184,13 @@ export const duma_2016_uik_463_region_69_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Алексеев Игорь Анатольевич": 6,
-      "Воробьёва Людмила Фёдоровна": 28,
-      "Дешёвкин Вадим Николаевич": 13,
-      "Клейменов Илья Юрьевич": 17,
-      "Максимова Светлана Викторовна": 130,
-      "Морозов Антон Юрьевич": 60,
-      "Чепа Алексей Васильевич": 44
+      "gas:candidate-vibid:26920001038978": 6,
+      "gas:candidate-vibid:26920001031524": 28,
+      "gas:candidate-vibid:26920001041178": 13,
+      "gas:candidate-vibid:26920001031509": 17,
+      "gas:candidate-vibid:26920001036855": 130,
+      "gas:candidate-vibid:26920001026315": 60,
+      "gas:candidate-vibid:26920001033851": 44
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tver?action=show&root=1000236&tvd=2692000982898&vrn=100100067795849&region=69&global=&sub_region=69&prver=0&pronetvd=null&vibid=2692000982898&type=464",
@@ -12241,13 +12241,13 @@ export const duma_2016_uik_463_region_69_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Алексеев Игорь Анатольевич": 9,
-      "Воробьёва Людмила Фёдоровна": 40,
-      "Дешёвкин Вадим Николаевич": 19,
-      "Клейменов Илья Юрьевич": 9,
-      "Максимова Светлана Викторовна": 238,
-      "Морозов Антон Юрьевич": 44,
-      "Чепа Алексей Васильевич": 61
+      "gas:candidate-vibid:26920001038978": 9,
+      "gas:candidate-vibid:26920001031524": 40,
+      "gas:candidate-vibid:26920001041178": 19,
+      "gas:candidate-vibid:26920001031509": 9,
+      "gas:candidate-vibid:26920001036855": 238,
+      "gas:candidate-vibid:26920001026315": 44,
+      "gas:candidate-vibid:26920001033851": 61
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tver?action=show&root=1000236&tvd=2692000982898&vrn=100100067795849&region=69&global=&sub_region=69&prver=0&pronetvd=null&vibid=2692000982898&type=464",
@@ -12298,13 +12298,13 @@ export const duma_2016_uik_463_region_69_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Алексеев Игорь Анатольевич": 7,
-      "Воробьёва Людмила Фёдоровна": 23,
-      "Дешёвкин Вадим Николаевич": 19,
-      "Клейменов Илья Юрьевич": 9,
-      "Максимова Светлана Викторовна": 129,
-      "Морозов Антон Юрьевич": 47,
-      "Чепа Алексей Васильевич": 13
+      "gas:candidate-vibid:26920001038978": 7,
+      "gas:candidate-vibid:26920001031524": 23,
+      "gas:candidate-vibid:26920001041178": 19,
+      "gas:candidate-vibid:26920001031509": 9,
+      "gas:candidate-vibid:26920001036855": 129,
+      "gas:candidate-vibid:26920001026315": 47,
+      "gas:candidate-vibid:26920001033851": 13
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tver?action=show&root=1000236&tvd=2692000982898&vrn=100100067795849&region=69&global=&sub_region=69&prver=0&pronetvd=null&vibid=2692000982898&type=464",
@@ -12355,13 +12355,13 @@ export const duma_2016_uik_463_region_69_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Алексеев Игорь Анатольевич": 15,
-      "Воробьёва Людмила Фёдоровна": 39,
-      "Дешёвкин Вадим Николаевич": 50,
-      "Клейменов Илья Юрьевич": 32,
-      "Максимова Светлана Викторовна": 237,
-      "Морозов Антон Юрьевич": 108,
-      "Чепа Алексей Васильевич": 69
+      "gas:candidate-vibid:26920001038978": 15,
+      "gas:candidate-vibid:26920001031524": 39,
+      "gas:candidate-vibid:26920001041178": 50,
+      "gas:candidate-vibid:26920001031509": 32,
+      "gas:candidate-vibid:26920001036855": 237,
+      "gas:candidate-vibid:26920001026315": 108,
+      "gas:candidate-vibid:26920001033851": 69
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tver?action=show&root=1000236&tvd=2692000982898&vrn=100100067795849&region=69&global=&sub_region=69&prver=0&pronetvd=null&vibid=2692000982898&type=464",
@@ -12412,13 +12412,13 @@ export const duma_2016_uik_463_region_69_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Алексеев Игорь Анатольевич": 9,
-      "Воробьёва Людмила Фёдоровна": 14,
-      "Дешёвкин Вадим Николаевич": 9,
-      "Клейменов Илья Юрьевич": 18,
-      "Максимова Светлана Викторовна": 103,
-      "Морозов Антон Юрьевич": 29,
-      "Чепа Алексей Васильевич": 26
+      "gas:candidate-vibid:26920001038978": 9,
+      "gas:candidate-vibid:26920001031524": 14,
+      "gas:candidate-vibid:26920001041178": 9,
+      "gas:candidate-vibid:26920001031509": 18,
+      "gas:candidate-vibid:26920001036855": 103,
+      "gas:candidate-vibid:26920001026315": 29,
+      "gas:candidate-vibid:26920001033851": 26
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tver?action=show&root=1000236&tvd=2692000982898&vrn=100100067795849&region=69&global=&sub_region=69&prver=0&pronetvd=null&vibid=2692000982898&type=464",
@@ -12469,13 +12469,13 @@ export const duma_2016_uik_463_region_69_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Алексеев Игорь Анатольевич": 1,
-      "Воробьёва Людмила Фёдоровна": 6,
-      "Дешёвкин Вадим Николаевич": 2,
-      "Клейменов Илья Юрьевич": 7,
-      "Максимова Светлана Викторовна": 55,
-      "Морозов Антон Юрьевич": 12,
-      "Чепа Алексей Васильевич": 11
+      "gas:candidate-vibid:26920001038978": 1,
+      "gas:candidate-vibid:26920001031524": 6,
+      "gas:candidate-vibid:26920001041178": 2,
+      "gas:candidate-vibid:26920001031509": 7,
+      "gas:candidate-vibid:26920001036855": 55,
+      "gas:candidate-vibid:26920001026315": 12,
+      "gas:candidate-vibid:26920001033851": 11
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tver?action=show&root=1000236&tvd=2692000982898&vrn=100100067795849&region=69&global=&sub_region=69&prver=0&pronetvd=null&vibid=2692000982898&type=464",
@@ -12526,13 +12526,13 @@ export const duma_2016_uik_463_region_69_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Алексеев Игорь Анатольевич": 6,
-      "Воробьёва Людмила Фёдоровна": 11,
-      "Дешёвкин Вадим Николаевич": 11,
-      "Клейменов Илья Юрьевич": 15,
-      "Максимова Светлана Викторовна": 81,
-      "Морозов Антон Юрьевич": 40,
-      "Чепа Алексей Васильевич": 26
+      "gas:candidate-vibid:26920001038978": 6,
+      "gas:candidate-vibid:26920001031524": 11,
+      "gas:candidate-vibid:26920001041178": 11,
+      "gas:candidate-vibid:26920001031509": 15,
+      "gas:candidate-vibid:26920001036855": 81,
+      "gas:candidate-vibid:26920001026315": 40,
+      "gas:candidate-vibid:26920001033851": 26
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tver?action=show&root=1000236&tvd=2692000982898&vrn=100100067795849&region=69&global=&sub_region=69&prver=0&pronetvd=null&vibid=2692000982898&type=464",
@@ -12583,13 +12583,13 @@ export const duma_2016_uik_463_region_69_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Алексеев Игорь Анатольевич": 5,
-      "Воробьёва Людмила Фёдоровна": 18,
-      "Дешёвкин Вадим Николаевич": 17,
-      "Клейменов Илья Юрьевич": 18,
-      "Максимова Светлана Викторовна": 139,
-      "Морозов Антон Юрьевич": 50,
-      "Чепа Алексей Васильевич": 45
+      "gas:candidate-vibid:26920001038978": 5,
+      "gas:candidate-vibid:26920001031524": 18,
+      "gas:candidate-vibid:26920001041178": 17,
+      "gas:candidate-vibid:26920001031509": 18,
+      "gas:candidate-vibid:26920001036855": 139,
+      "gas:candidate-vibid:26920001026315": 50,
+      "gas:candidate-vibid:26920001033851": 45
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tver?action=show&root=1000236&tvd=2692000982898&vrn=100100067795849&region=69&global=&sub_region=69&prver=0&pronetvd=null&vibid=2692000982898&type=464",
@@ -12640,13 +12640,13 @@ export const duma_2016_uik_463_region_69_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Алексеев Игорь Анатольевич": 4,
-      "Воробьёва Людмила Фёдоровна": 7,
-      "Дешёвкин Вадим Николаевич": 2,
-      "Клейменов Илья Юрьевич": 3,
-      "Максимова Светлана Викторовна": 33,
-      "Морозов Антон Юрьевич": 7,
-      "Чепа Алексей Васильевич": 3
+      "gas:candidate-vibid:26920001038978": 4,
+      "gas:candidate-vibid:26920001031524": 7,
+      "gas:candidate-vibid:26920001041178": 2,
+      "gas:candidate-vibid:26920001031509": 3,
+      "gas:candidate-vibid:26920001036855": 33,
+      "gas:candidate-vibid:26920001026315": 7,
+      "gas:candidate-vibid:26920001033851": 3
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tver?action=show&root=1000236&tvd=2692000982898&vrn=100100067795849&region=69&global=&sub_region=69&prver=0&pronetvd=null&vibid=2692000982898&type=464",
@@ -12697,13 +12697,13 @@ export const duma_2016_uik_463_region_69_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Алексеев Игорь Анатольевич": 3,
-      "Воробьёва Людмила Фёдоровна": 15,
-      "Дешёвкин Вадим Николаевич": 14,
-      "Клейменов Илья Юрьевич": 10,
-      "Максимова Светлана Викторовна": 136,
-      "Морозов Антон Юрьевич": 28,
-      "Чепа Алексей Васильевич": 15
+      "gas:candidate-vibid:26920001038978": 3,
+      "gas:candidate-vibid:26920001031524": 15,
+      "gas:candidate-vibid:26920001041178": 14,
+      "gas:candidate-vibid:26920001031509": 10,
+      "gas:candidate-vibid:26920001036855": 136,
+      "gas:candidate-vibid:26920001026315": 28,
+      "gas:candidate-vibid:26920001033851": 15
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tver?action=show&root=1000236&tvd=2692000982898&vrn=100100067795849&region=69&global=&sub_region=69&prver=0&pronetvd=null&vibid=2692000982898&type=464",
@@ -12754,13 +12754,13 @@ export const duma_2016_uik_463_region_69_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Алексеев Игорь Анатольевич": 5,
-      "Воробьёва Людмила Фёдоровна": 16,
-      "Дешёвкин Вадим Николаевич": 28,
-      "Клейменов Илья Юрьевич": 14,
-      "Максимова Светлана Викторовна": 133,
-      "Морозов Антон Юрьевич": 31,
-      "Чепа Алексей Васильевич": 11
+      "gas:candidate-vibid:26920001038978": 5,
+      "gas:candidate-vibid:26920001031524": 16,
+      "gas:candidate-vibid:26920001041178": 28,
+      "gas:candidate-vibid:26920001031509": 14,
+      "gas:candidate-vibid:26920001036855": 133,
+      "gas:candidate-vibid:26920001026315": 31,
+      "gas:candidate-vibid:26920001033851": 11
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tver?action=show&root=1000236&tvd=2692000982898&vrn=100100067795849&region=69&global=&sub_region=69&prver=0&pronetvd=null&vibid=2692000982898&type=464",
@@ -12811,13 +12811,13 @@ export const duma_2016_uik_463_region_69_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Алексеев Игорь Анатольевич": 12,
-      "Воробьёва Людмила Фёдоровна": 29,
-      "Дешёвкин Вадим Николаевич": 35,
-      "Клейменов Илья Юрьевич": 19,
-      "Максимова Светлана Викторовна": 264,
-      "Морозов Антон Юрьевич": 91,
-      "Чепа Алексей Васильевич": 48
+      "gas:candidate-vibid:26920001038978": 12,
+      "gas:candidate-vibid:26920001031524": 29,
+      "gas:candidate-vibid:26920001041178": 35,
+      "gas:candidate-vibid:26920001031509": 19,
+      "gas:candidate-vibid:26920001036855": 264,
+      "gas:candidate-vibid:26920001026315": 91,
+      "gas:candidate-vibid:26920001033851": 48
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tver?action=show&root=1000236&tvd=2692000982898&vrn=100100067795849&region=69&global=&sub_region=69&prver=0&pronetvd=null&vibid=2692000982898&type=464",
@@ -12868,13 +12868,13 @@ export const duma_2016_uik_463_region_69_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Алексеев Игорь Анатольевич": 23,
-      "Воробьёва Людмила Фёдоровна": 87,
-      "Дешёвкин Вадим Николаевич": 34,
-      "Клейменов Илья Юрьевич": 44,
-      "Максимова Светлана Викторовна": 167,
-      "Морозов Антон Юрьевич": 71,
-      "Чепа Алексей Васильевич": 91
+      "gas:candidate-vibid:26920001038978": 23,
+      "gas:candidate-vibid:26920001031524": 87,
+      "gas:candidate-vibid:26920001041178": 34,
+      "gas:candidate-vibid:26920001031509": 44,
+      "gas:candidate-vibid:26920001036855": 167,
+      "gas:candidate-vibid:26920001026315": 71,
+      "gas:candidate-vibid:26920001033851": 91
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tver?action=show&root=1000236&tvd=2692000982898&vrn=100100067795849&region=69&global=&sub_region=69&prver=0&pronetvd=null&vibid=2692000982898&type=464",
@@ -12925,13 +12925,13 @@ export const duma_2016_uik_463_region_69_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Алексеев Игорь Анатольевич": 7,
-      "Воробьёва Людмила Фёдоровна": 23,
-      "Дешёвкин Вадим Николаевич": 13,
-      "Клейменов Илья Юрьевич": 13,
-      "Максимова Светлана Викторовна": 67,
-      "Морозов Антон Юрьевич": 21,
-      "Чепа Алексей Васильевич": 45
+      "gas:candidate-vibid:26920001038978": 7,
+      "gas:candidate-vibid:26920001031524": 23,
+      "gas:candidate-vibid:26920001041178": 13,
+      "gas:candidate-vibid:26920001031509": 13,
+      "gas:candidate-vibid:26920001036855": 67,
+      "gas:candidate-vibid:26920001026315": 21,
+      "gas:candidate-vibid:26920001033851": 45
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tver?action=show&root=1000236&tvd=2692000982898&vrn=100100067795849&region=69&global=&sub_region=69&prver=0&pronetvd=null&vibid=2692000982898&type=464",
@@ -12982,13 +12982,13 @@ export const duma_2016_uik_463_region_69_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Алексеев Игорь Анатольевич": 22,
-      "Воробьёва Людмила Фёдоровна": 99,
-      "Дешёвкин Вадим Николаевич": 50,
-      "Клейменов Илья Юрьевич": 41,
-      "Максимова Светлана Викторовна": 244,
-      "Морозов Антон Юрьевич": 81,
-      "Чепа Алексей Васильевич": 92
+      "gas:candidate-vibid:26920001038978": 22,
+      "gas:candidate-vibid:26920001031524": 99,
+      "gas:candidate-vibid:26920001041178": 50,
+      "gas:candidate-vibid:26920001031509": 41,
+      "gas:candidate-vibid:26920001036855": 244,
+      "gas:candidate-vibid:26920001026315": 81,
+      "gas:candidate-vibid:26920001033851": 92
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tver?action=show&root=1000236&tvd=2692000982898&vrn=100100067795849&region=69&global=&sub_region=69&prver=0&pronetvd=null&vibid=2692000982898&type=464",
@@ -13039,13 +13039,13 @@ export const duma_2016_uik_463_region_69_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Алексеев Игорь Анатольевич": 4,
-      "Воробьёва Людмила Фёдоровна": 5,
-      "Дешёвкин Вадим Николаевич": 5,
-      "Клейменов Илья Юрьевич": 3,
-      "Максимова Светлана Викторовна": 31,
-      "Морозов Антон Юрьевич": 11,
-      "Чепа Алексей Васильевич": 7
+      "gas:candidate-vibid:26920001038978": 4,
+      "gas:candidate-vibid:26920001031524": 5,
+      "gas:candidate-vibid:26920001041178": 5,
+      "gas:candidate-vibid:26920001031509": 3,
+      "gas:candidate-vibid:26920001036855": 31,
+      "gas:candidate-vibid:26920001026315": 11,
+      "gas:candidate-vibid:26920001033851": 7
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tver?action=show&root=1000236&tvd=2692000982898&vrn=100100067795849&region=69&global=&sub_region=69&prver=0&pronetvd=null&vibid=2692000982898&type=464",
@@ -13096,13 +13096,13 @@ export const duma_2016_uik_463_region_69_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Алексеев Игорь Анатольевич": 13,
-      "Воробьёва Людмила Фёдоровна": 45,
-      "Дешёвкин Вадим Николаевич": 38,
-      "Клейменов Илья Юрьевич": 33,
-      "Максимова Светлана Викторовна": 278,
-      "Морозов Антон Юрьевич": 89,
-      "Чепа Алексей Васильевич": 103
+      "gas:candidate-vibid:26920001038978": 13,
+      "gas:candidate-vibid:26920001031524": 45,
+      "gas:candidate-vibid:26920001041178": 38,
+      "gas:candidate-vibid:26920001031509": 33,
+      "gas:candidate-vibid:26920001036855": 278,
+      "gas:candidate-vibid:26920001026315": 89,
+      "gas:candidate-vibid:26920001033851": 103
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tver?action=show&root=1000236&tvd=2692000982898&vrn=100100067795849&region=69&global=&sub_region=69&prver=0&pronetvd=null&vibid=2692000982898&type=464",
@@ -13153,13 +13153,13 @@ export const duma_2016_uik_463_region_69_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Алексеев Игорь Анатольевич": 3,
-      "Воробьёва Людмила Фёдоровна": 15,
-      "Дешёвкин Вадим Николаевич": 7,
-      "Клейменов Илья Юрьевич": 20,
-      "Максимова Светлана Викторовна": 111,
-      "Морозов Антон Юрьевич": 38,
-      "Чепа Алексей Васильевич": 14
+      "gas:candidate-vibid:26920001038978": 3,
+      "gas:candidate-vibid:26920001031524": 15,
+      "gas:candidate-vibid:26920001041178": 7,
+      "gas:candidate-vibid:26920001031509": 20,
+      "gas:candidate-vibid:26920001036855": 111,
+      "gas:candidate-vibid:26920001026315": 38,
+      "gas:candidate-vibid:26920001033851": 14
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tver?action=show&root=1000236&tvd=2692000982898&vrn=100100067795849&region=69&global=&sub_region=69&prver=0&pronetvd=null&vibid=2692000982898&type=464",
@@ -13210,13 +13210,13 @@ export const duma_2016_uik_463_region_69_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Алексеев Игорь Анатольевич": 23,
-      "Воробьёва Людмила Фёдоровна": 60,
-      "Дешёвкин Вадим Николаевич": 55,
-      "Клейменов Илья Юрьевич": 19,
-      "Максимова Светлана Викторовна": 176,
-      "Морозов Антон Юрьевич": 71,
-      "Чепа Алексей Васильевич": 119
+      "gas:candidate-vibid:26920001038978": 23,
+      "gas:candidate-vibid:26920001031524": 60,
+      "gas:candidate-vibid:26920001041178": 55,
+      "gas:candidate-vibid:26920001031509": 19,
+      "gas:candidate-vibid:26920001036855": 176,
+      "gas:candidate-vibid:26920001026315": 71,
+      "gas:candidate-vibid:26920001033851": 119
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tver?action=show&root=1000236&tvd=2692000982899&vrn=100100067795849&region=69&global=&sub_region=69&prver=0&pronetvd=null&vibid=2692000982899&type=464",
@@ -13267,13 +13267,13 @@ export const duma_2016_uik_463_region_69_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Алексеев Игорь Анатольевич": 39,
-      "Воробьёва Людмила Фёдоровна": 111,
-      "Дешёвкин Вадим Николаевич": 99,
-      "Клейменов Илья Юрьевич": 26,
-      "Максимова Светлана Викторовна": 265,
-      "Морозов Антон Юрьевич": 103,
-      "Чепа Алексей Васильевич": 154
+      "gas:candidate-vibid:26920001038978": 39,
+      "gas:candidate-vibid:26920001031524": 111,
+      "gas:candidate-vibid:26920001041178": 99,
+      "gas:candidate-vibid:26920001031509": 26,
+      "gas:candidate-vibid:26920001036855": 265,
+      "gas:candidate-vibid:26920001026315": 103,
+      "gas:candidate-vibid:26920001033851": 154
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tver?action=show&root=1000236&tvd=2692000982899&vrn=100100067795849&region=69&global=&sub_region=69&prver=0&pronetvd=null&vibid=2692000982899&type=464",
@@ -13324,13 +13324,13 @@ export const duma_2016_uik_463_region_69_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Алексеев Игорь Анатольевич": 18,
-      "Воробьёва Людмила Фёдоровна": 116,
-      "Дешёвкин Вадим Николаевич": 77,
-      "Клейменов Илья Юрьевич": 35,
-      "Максимова Светлана Викторовна": 205,
-      "Морозов Антон Юрьевич": 114,
-      "Чепа Алексей Васильевич": 129
+      "gas:candidate-vibid:26920001038978": 18,
+      "gas:candidate-vibid:26920001031524": 116,
+      "gas:candidate-vibid:26920001041178": 77,
+      "gas:candidate-vibid:26920001031509": 35,
+      "gas:candidate-vibid:26920001036855": 205,
+      "gas:candidate-vibid:26920001026315": 114,
+      "gas:candidate-vibid:26920001033851": 129
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tver?action=show&root=1000236&tvd=2692000982899&vrn=100100067795849&region=69&global=&sub_region=69&prver=0&pronetvd=null&vibid=2692000982899&type=464",
@@ -13381,13 +13381,13 @@ export const duma_2016_uik_463_region_69_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Алексеев Игорь Анатольевич": 6,
-      "Воробьёва Людмила Фёдоровна": 10,
-      "Дешёвкин Вадим Николаевич": 6,
-      "Клейменов Илья Юрьевич": 5,
-      "Максимова Светлана Викторовна": 40,
-      "Морозов Антон Юрьевич": 8,
-      "Чепа Алексей Васильевич": 1
+      "gas:candidate-vibid:26920001038978": 6,
+      "gas:candidate-vibid:26920001031524": 10,
+      "gas:candidate-vibid:26920001041178": 6,
+      "gas:candidate-vibid:26920001031509": 5,
+      "gas:candidate-vibid:26920001036855": 40,
+      "gas:candidate-vibid:26920001026315": 8,
+      "gas:candidate-vibid:26920001033851": 1
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tver?action=show&root=1000236&tvd=2692000982899&vrn=100100067795849&region=69&global=&sub_region=69&prver=0&pronetvd=null&vibid=2692000982899&type=464",
@@ -13438,13 +13438,13 @@ export const duma_2016_uik_463_region_69_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Алексеев Игорь Анатольевич": 10,
-      "Воробьёва Людмила Фёдоровна": 23,
-      "Дешёвкин Вадим Николаевич": 9,
-      "Клейменов Илья Юрьевич": 9,
-      "Максимова Светлана Викторовна": 59,
-      "Морозов Антон Юрьевич": 24,
-      "Чепа Алексей Васильевич": 23
+      "gas:candidate-vibid:26920001038978": 10,
+      "gas:candidate-vibid:26920001031524": 23,
+      "gas:candidate-vibid:26920001041178": 9,
+      "gas:candidate-vibid:26920001031509": 9,
+      "gas:candidate-vibid:26920001036855": 59,
+      "gas:candidate-vibid:26920001026315": 24,
+      "gas:candidate-vibid:26920001033851": 23
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tver?action=show&root=1000236&tvd=2692000982899&vrn=100100067795849&region=69&global=&sub_region=69&prver=0&pronetvd=null&vibid=2692000982899&type=464",
@@ -13495,13 +13495,13 @@ export const duma_2016_uik_463_region_69_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Алексеев Игорь Анатольевич": 3,
-      "Воробьёва Людмила Фёдоровна": 8,
-      "Дешёвкин Вадим Николаевич": 3,
-      "Клейменов Илья Юрьевич": 3,
-      "Максимова Светлана Викторовна": 40,
-      "Морозов Антон Юрьевич": 8,
-      "Чепа Алексей Васильевич": 8
+      "gas:candidate-vibid:26920001038978": 3,
+      "gas:candidate-vibid:26920001031524": 8,
+      "gas:candidate-vibid:26920001041178": 3,
+      "gas:candidate-vibid:26920001031509": 3,
+      "gas:candidate-vibid:26920001036855": 40,
+      "gas:candidate-vibid:26920001026315": 8,
+      "gas:candidate-vibid:26920001033851": 8
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tver?action=show&root=1000236&tvd=2692000982899&vrn=100100067795849&region=69&global=&sub_region=69&prver=0&pronetvd=null&vibid=2692000982899&type=464",
@@ -13552,13 +13552,13 @@ export const duma_2016_uik_463_region_69_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Алексеев Игорь Анатольевич": 7,
-      "Воробьёва Людмила Фёдоровна": 18,
-      "Дешёвкин Вадим Николаевич": 16,
-      "Клейменов Илья Юрьевич": 2,
-      "Максимова Светлана Викторовна": 102,
-      "Морозов Антон Юрьевич": 28,
-      "Чепа Алексей Васильевич": 30
+      "gas:candidate-vibid:26920001038978": 7,
+      "gas:candidate-vibid:26920001031524": 18,
+      "gas:candidate-vibid:26920001041178": 16,
+      "gas:candidate-vibid:26920001031509": 2,
+      "gas:candidate-vibid:26920001036855": 102,
+      "gas:candidate-vibid:26920001026315": 28,
+      "gas:candidate-vibid:26920001033851": 30
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tver?action=show&root=1000236&tvd=2692000982899&vrn=100100067795849&region=69&global=&sub_region=69&prver=0&pronetvd=null&vibid=2692000982899&type=464",
@@ -13609,13 +13609,13 @@ export const duma_2016_uik_463_region_69_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Алексеев Игорь Анатольевич": 4,
-      "Воробьёва Людмила Фёдоровна": 7,
-      "Дешёвкин Вадим Николаевич": 22,
-      "Клейменов Илья Юрьевич": 3,
-      "Максимова Светлана Викторовна": 49,
-      "Морозов Антон Юрьевич": 7,
-      "Чепа Алексей Васильевич": 19
+      "gas:candidate-vibid:26920001038978": 4,
+      "gas:candidate-vibid:26920001031524": 7,
+      "gas:candidate-vibid:26920001041178": 22,
+      "gas:candidate-vibid:26920001031509": 3,
+      "gas:candidate-vibid:26920001036855": 49,
+      "gas:candidate-vibid:26920001026315": 7,
+      "gas:candidate-vibid:26920001033851": 19
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tver?action=show&root=1000236&tvd=2692000982899&vrn=100100067795849&region=69&global=&sub_region=69&prver=0&pronetvd=null&vibid=2692000982899&type=464",
@@ -13666,13 +13666,13 @@ export const duma_2016_uik_463_region_69_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Алексеев Игорь Анатольевич": 1,
-      "Воробьёва Людмила Фёдоровна": 10,
-      "Дешёвкин Вадим Николаевич": 5,
-      "Клейменов Илья Юрьевич": 4,
-      "Максимова Светлана Викторовна": 48,
-      "Морозов Антон Юрьевич": 8,
-      "Чепа Алексей Васильевич": 20
+      "gas:candidate-vibid:26920001038978": 1,
+      "gas:candidate-vibid:26920001031524": 10,
+      "gas:candidate-vibid:26920001041178": 5,
+      "gas:candidate-vibid:26920001031509": 4,
+      "gas:candidate-vibid:26920001036855": 48,
+      "gas:candidate-vibid:26920001026315": 8,
+      "gas:candidate-vibid:26920001033851": 20
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tver?action=show&root=1000236&tvd=2692000982899&vrn=100100067795849&region=69&global=&sub_region=69&prver=0&pronetvd=null&vibid=2692000982899&type=464",
@@ -13723,13 +13723,13 @@ export const duma_2016_uik_463_region_69_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Алексеев Игорь Анатольевич": 3,
-      "Воробьёва Людмила Фёдоровна": 9,
-      "Дешёвкин Вадим Николаевич": 7,
-      "Клейменов Илья Юрьевич": 4,
-      "Максимова Светлана Викторовна": 50,
-      "Морозов Антон Юрьевич": 18,
-      "Чепа Алексей Васильевич": 5
+      "gas:candidate-vibid:26920001038978": 3,
+      "gas:candidate-vibid:26920001031524": 9,
+      "gas:candidate-vibid:26920001041178": 7,
+      "gas:candidate-vibid:26920001031509": 4,
+      "gas:candidate-vibid:26920001036855": 50,
+      "gas:candidate-vibid:26920001026315": 18,
+      "gas:candidate-vibid:26920001033851": 5
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tver?action=show&root=1000236&tvd=2692000982899&vrn=100100067795849&region=69&global=&sub_region=69&prver=0&pronetvd=null&vibid=2692000982899&type=464",
@@ -13780,13 +13780,13 @@ export const duma_2016_uik_463_region_69_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Алексеев Игорь Анатольевич": 10,
-      "Воробьёва Людмила Фёдоровна": 25,
-      "Дешёвкин Вадим Николаевич": 7,
-      "Клейменов Илья Юрьевич": 15,
-      "Максимова Светлана Викторовна": 95,
-      "Морозов Антон Юрьевич": 33,
-      "Чепа Алексей Васильевич": 39
+      "gas:candidate-vibid:26920001038978": 10,
+      "gas:candidate-vibid:26920001031524": 25,
+      "gas:candidate-vibid:26920001041178": 7,
+      "gas:candidate-vibid:26920001031509": 15,
+      "gas:candidate-vibid:26920001036855": 95,
+      "gas:candidate-vibid:26920001026315": 33,
+      "gas:candidate-vibid:26920001033851": 39
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tver?action=show&root=1000236&tvd=2692000982899&vrn=100100067795849&region=69&global=&sub_region=69&prver=0&pronetvd=null&vibid=2692000982899&type=464",
@@ -13837,13 +13837,13 @@ export const duma_2016_uik_463_region_69_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Алексеев Игорь Анатольевич": 4,
-      "Воробьёва Людмила Фёдоровна": 12,
-      "Дешёвкин Вадим Николаевич": 0,
-      "Клейменов Илья Юрьевич": 4,
-      "Максимова Светлана Викторовна": 68,
-      "Морозов Антон Юрьевич": 12,
-      "Чепа Алексей Васильевич": 15
+      "gas:candidate-vibid:26920001038978": 4,
+      "gas:candidate-vibid:26920001031524": 12,
+      "gas:candidate-vibid:26920001041178": 0,
+      "gas:candidate-vibid:26920001031509": 4,
+      "gas:candidate-vibid:26920001036855": 68,
+      "gas:candidate-vibid:26920001026315": 12,
+      "gas:candidate-vibid:26920001033851": 15
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tver?action=show&root=1000236&tvd=2692000982899&vrn=100100067795849&region=69&global=&sub_region=69&prver=0&pronetvd=null&vibid=2692000982899&type=464",
@@ -13894,13 +13894,13 @@ export const duma_2016_uik_463_region_69_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Алексеев Игорь Анатольевич": 2,
-      "Воробьёва Людмила Фёдоровна": 8,
-      "Дешёвкин Вадим Николаевич": 3,
-      "Клейменов Илья Юрьевич": 5,
-      "Максимова Светлана Викторовна": 51,
-      "Морозов Антон Юрьевич": 7,
-      "Чепа Алексей Васильевич": 1
+      "gas:candidate-vibid:26920001038978": 2,
+      "gas:candidate-vibid:26920001031524": 8,
+      "gas:candidate-vibid:26920001041178": 3,
+      "gas:candidate-vibid:26920001031509": 5,
+      "gas:candidate-vibid:26920001036855": 51,
+      "gas:candidate-vibid:26920001026315": 7,
+      "gas:candidate-vibid:26920001033851": 1
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tver?action=show&root=1000236&tvd=2692000982899&vrn=100100067795849&region=69&global=&sub_region=69&prver=0&pronetvd=null&vibid=2692000982899&type=464",
@@ -13951,13 +13951,13 @@ export const duma_2016_uik_463_region_69_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Алексеев Игорь Анатольевич": 0,
-      "Воробьёва Людмила Фёдоровна": 8,
-      "Дешёвкин Вадим Николаевич": 3,
-      "Клейменов Илья Юрьевич": 6,
-      "Максимова Светлана Викторовна": 60,
-      "Морозов Антон Юрьевич": 8,
-      "Чепа Алексей Васильевич": 8
+      "gas:candidate-vibid:26920001038978": 0,
+      "gas:candidate-vibid:26920001031524": 8,
+      "gas:candidate-vibid:26920001041178": 3,
+      "gas:candidate-vibid:26920001031509": 6,
+      "gas:candidate-vibid:26920001036855": 60,
+      "gas:candidate-vibid:26920001026315": 8,
+      "gas:candidate-vibid:26920001033851": 8
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tver?action=show&root=1000236&tvd=2692000982899&vrn=100100067795849&region=69&global=&sub_region=69&prver=0&pronetvd=null&vibid=2692000982899&type=464",
@@ -14008,13 +14008,13 @@ export const duma_2016_uik_463_region_69_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Алексеев Игорь Анатольевич": 2,
-      "Воробьёва Людмила Фёдоровна": 14,
-      "Дешёвкин Вадим Николаевич": 1,
-      "Клейменов Илья Юрьевич": 8,
-      "Максимова Светлана Викторовна": 34,
-      "Морозов Антон Юрьевич": 2,
-      "Чепа Алексей Васильевич": 12
+      "gas:candidate-vibid:26920001038978": 2,
+      "gas:candidate-vibid:26920001031524": 14,
+      "gas:candidate-vibid:26920001041178": 1,
+      "gas:candidate-vibid:26920001031509": 8,
+      "gas:candidate-vibid:26920001036855": 34,
+      "gas:candidate-vibid:26920001026315": 2,
+      "gas:candidate-vibid:26920001033851": 12
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tver?action=show&root=1000236&tvd=2692000982899&vrn=100100067795849&region=69&global=&sub_region=69&prver=0&pronetvd=null&vibid=2692000982899&type=464",
@@ -14065,13 +14065,13 @@ export const duma_2016_uik_463_region_69_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Алексеев Игорь Анатольевич": 6,
-      "Воробьёва Людмила Фёдоровна": 8,
-      "Дешёвкин Вадим Николаевич": 8,
-      "Клейменов Илья Юрьевич": 12,
-      "Максимова Светлана Викторовна": 116,
-      "Морозов Антон Юрьевич": 12,
-      "Чепа Алексей Васильевич": 22
+      "gas:candidate-vibid:26920001038978": 6,
+      "gas:candidate-vibid:26920001031524": 8,
+      "gas:candidate-vibid:26920001041178": 8,
+      "gas:candidate-vibid:26920001031509": 12,
+      "gas:candidate-vibid:26920001036855": 116,
+      "gas:candidate-vibid:26920001026315": 12,
+      "gas:candidate-vibid:26920001033851": 22
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tver?action=show&root=1000236&tvd=2692000982899&vrn=100100067795849&region=69&global=&sub_region=69&prver=0&pronetvd=null&vibid=2692000982899&type=464",
@@ -14122,13 +14122,13 @@ export const duma_2016_uik_463_region_69_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Алексеев Игорь Анатольевич": 6,
-      "Воробьёва Людмила Фёдоровна": 4,
-      "Дешёвкин Вадим Николаевич": 1,
-      "Клейменов Илья Юрьевич": 7,
-      "Максимова Светлана Викторовна": 41,
-      "Морозов Антон Юрьевич": 6,
-      "Чепа Алексей Васильевич": 5
+      "gas:candidate-vibid:26920001038978": 6,
+      "gas:candidate-vibid:26920001031524": 4,
+      "gas:candidate-vibid:26920001041178": 1,
+      "gas:candidate-vibid:26920001031509": 7,
+      "gas:candidate-vibid:26920001036855": 41,
+      "gas:candidate-vibid:26920001026315": 6,
+      "gas:candidate-vibid:26920001033851": 5
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tver?action=show&root=1000236&tvd=2692000982899&vrn=100100067795849&region=69&global=&sub_region=69&prver=0&pronetvd=null&vibid=2692000982899&type=464",
@@ -14179,13 +14179,13 @@ export const duma_2016_uik_463_region_69_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Алексеев Игорь Анатольевич": 4,
-      "Воробьёва Людмила Фёдоровна": 10,
-      "Дешёвкин Вадим Николаевич": 3,
-      "Клейменов Илья Юрьевич": 7,
-      "Максимова Светлана Викторовна": 50,
-      "Морозов Антон Юрьевич": 8,
-      "Чепа Алексей Васильевич": 11
+      "gas:candidate-vibid:26920001038978": 4,
+      "gas:candidate-vibid:26920001031524": 10,
+      "gas:candidate-vibid:26920001041178": 3,
+      "gas:candidate-vibid:26920001031509": 7,
+      "gas:candidate-vibid:26920001036855": 50,
+      "gas:candidate-vibid:26920001026315": 8,
+      "gas:candidate-vibid:26920001033851": 11
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tver?action=show&root=1000236&tvd=2692000982899&vrn=100100067795849&region=69&global=&sub_region=69&prver=0&pronetvd=null&vibid=2692000982899&type=464",
@@ -14236,13 +14236,13 @@ export const duma_2016_uik_463_region_69_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Алексеев Игорь Анатольевич": 10,
-      "Воробьёва Людмила Фёдоровна": 15,
-      "Дешёвкин Вадим Николаевич": 7,
-      "Клейменов Илья Юрьевич": 4,
-      "Максимова Светлана Викторовна": 77,
-      "Морозов Антон Юрьевич": 12,
-      "Чепа Алексей Васильевич": 40
+      "gas:candidate-vibid:26920001038978": 10,
+      "gas:candidate-vibid:26920001031524": 15,
+      "gas:candidate-vibid:26920001041178": 7,
+      "gas:candidate-vibid:26920001031509": 4,
+      "gas:candidate-vibid:26920001036855": 77,
+      "gas:candidate-vibid:26920001026315": 12,
+      "gas:candidate-vibid:26920001033851": 40
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tver?action=show&root=1000236&tvd=2692000982899&vrn=100100067795849&region=69&global=&sub_region=69&prver=0&pronetvd=null&vibid=2692000982899&type=464",

@@ -38,11 +38,11 @@ export const president_2012_uik_226_region_24_part_005 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Жириновский Владимир Вольфович": 76,
-      "Зюганов Геннадий Андреевич": 188,
-      "Миронов Сергей Михайлович": 35,
-      "Прохоров Михаил Дмитриевич": 59,
-      "Путин Владимир Владимирович": 536
+      "gas:candidate-vibid:100100032152680": 76,
+      "gas:candidate-vibid:100100032159240": 188,
+      "gas:candidate-vibid:100100032143255": 35,
+      "gas:candidate-vibid:100100032152563": 59,
+      "gas:candidate-vibid:100100032111402": 536
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/krasnoyarsk?action=show&root=1000008&tvd=2242000455402&vrn=100100031793505&region=24&global=&sub_region=24&prver=0&pronetvd=null&vibid=2242000455402&type=227",
@@ -88,11 +88,11 @@ export const president_2012_uik_226_region_24_part_005 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Жириновский Владимир Вольфович": 103,
-      "Зюганов Геннадий Андреевич": 226,
-      "Миронов Сергей Михайлович": 38,
-      "Прохоров Михаил Дмитриевич": 82,
-      "Путин Владимир Владимирович": 533
+      "gas:candidate-vibid:100100032152680": 103,
+      "gas:candidate-vibid:100100032159240": 226,
+      "gas:candidate-vibid:100100032143255": 38,
+      "gas:candidate-vibid:100100032152563": 82,
+      "gas:candidate-vibid:100100032111402": 533
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/krasnoyarsk?action=show&root=1000008&tvd=2242000455402&vrn=100100031793505&region=24&global=&sub_region=24&prver=0&pronetvd=null&vibid=2242000455402&type=227",
@@ -138,11 +138,11 @@ export const president_2012_uik_226_region_24_part_005 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Жириновский Владимир Вольфович": 7,
-      "Зюганов Геннадий Андреевич": 5,
-      "Миронов Сергей Михайлович": 0,
-      "Прохоров Михаил Дмитриевич": 0,
-      "Путин Владимир Владимирович": 29
+      "gas:candidate-vibid:100100032152680": 7,
+      "gas:candidate-vibid:100100032159240": 5,
+      "gas:candidate-vibid:100100032143255": 0,
+      "gas:candidate-vibid:100100032152563": 0,
+      "gas:candidate-vibid:100100032111402": 29
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/krasnoyarsk?action=show&root=1000008&tvd=2242000455402&vrn=100100031793505&region=24&global=&sub_region=24&prver=0&pronetvd=null&vibid=2242000455402&type=227",
@@ -188,11 +188,11 @@ export const president_2012_uik_226_region_24_part_005 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Жириновский Владимир Вольфович": 15,
-      "Зюганов Геннадий Андреевич": 17,
-      "Миронов Сергей Михайлович": 6,
-      "Прохоров Михаил Дмитриевич": 5,
-      "Путин Владимир Владимирович": 78
+      "gas:candidate-vibid:100100032152680": 15,
+      "gas:candidate-vibid:100100032159240": 17,
+      "gas:candidate-vibid:100100032143255": 6,
+      "gas:candidate-vibid:100100032152563": 5,
+      "gas:candidate-vibid:100100032111402": 78
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/krasnoyarsk?action=show&root=1000008&tvd=2242000455402&vrn=100100031793505&region=24&global=&sub_region=24&prver=0&pronetvd=null&vibid=2242000455402&type=227",
@@ -238,11 +238,11 @@ export const president_2012_uik_226_region_24_part_005 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Жириновский Владимир Вольфович": 11,
-      "Зюганов Геннадий Андреевич": 13,
-      "Миронов Сергей Михайлович": 6,
-      "Прохоров Михаил Дмитриевич": 4,
-      "Путин Владимир Владимирович": 87
+      "gas:candidate-vibid:100100032152680": 11,
+      "gas:candidate-vibid:100100032159240": 13,
+      "gas:candidate-vibid:100100032143255": 6,
+      "gas:candidate-vibid:100100032152563": 4,
+      "gas:candidate-vibid:100100032111402": 87
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/krasnoyarsk?action=show&root=1000008&tvd=2242000455402&vrn=100100031793505&region=24&global=&sub_region=24&prver=0&pronetvd=null&vibid=2242000455402&type=227",
@@ -288,11 +288,11 @@ export const president_2012_uik_226_region_24_part_005 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Жириновский Владимир Вольфович": 52,
-      "Зюганов Геннадий Андреевич": 190,
-      "Миронов Сергей Михайлович": 44,
-      "Прохоров Михаил Дмитриевич": 132,
-      "Путин Владимир Владимирович": 423
+      "gas:candidate-vibid:100100032152680": 52,
+      "gas:candidate-vibid:100100032159240": 190,
+      "gas:candidate-vibid:100100032143255": 44,
+      "gas:candidate-vibid:100100032152563": 132,
+      "gas:candidate-vibid:100100032111402": 423
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/krasnoyarsk?action=show&root=1000008&tvd=2242000455403&vrn=100100031793505&region=24&global=&sub_region=24&prver=0&pronetvd=null&vibid=2242000455403&type=227",
@@ -338,11 +338,11 @@ export const president_2012_uik_226_region_24_part_005 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Жириновский Владимир Вольфович": 47,
-      "Зюганов Геннадий Андреевич": 181,
-      "Миронов Сергей Михайлович": 47,
-      "Прохоров Михаил Дмитриевич": 142,
-      "Путин Владимир Владимирович": 456
+      "gas:candidate-vibid:100100032152680": 47,
+      "gas:candidate-vibid:100100032159240": 181,
+      "gas:candidate-vibid:100100032143255": 47,
+      "gas:candidate-vibid:100100032152563": 142,
+      "gas:candidate-vibid:100100032111402": 456
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/krasnoyarsk?action=show&root=1000008&tvd=2242000455403&vrn=100100031793505&region=24&global=&sub_region=24&prver=0&pronetvd=null&vibid=2242000455403&type=227",
@@ -388,11 +388,11 @@ export const president_2012_uik_226_region_24_part_005 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Жириновский Владимир Вольфович": 45,
-      "Зюганов Геннадий Андреевич": 111,
-      "Миронов Сергей Михайлович": 46,
-      "Прохоров Михаил Дмитриевич": 114,
-      "Путин Владимир Владимирович": 338
+      "gas:candidate-vibid:100100032152680": 45,
+      "gas:candidate-vibid:100100032159240": 111,
+      "gas:candidate-vibid:100100032143255": 46,
+      "gas:candidate-vibid:100100032152563": 114,
+      "gas:candidate-vibid:100100032111402": 338
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/krasnoyarsk?action=show&root=1000008&tvd=2242000455403&vrn=100100031793505&region=24&global=&sub_region=24&prver=0&pronetvd=null&vibid=2242000455403&type=227",
@@ -438,11 +438,11 @@ export const president_2012_uik_226_region_24_part_005 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Жириновский Владимир Вольфович": 48,
-      "Зюганов Геннадий Андреевич": 153,
-      "Миронов Сергей Михайлович": 36,
-      "Прохоров Михаил Дмитриевич": 125,
-      "Путин Владимир Владимирович": 380
+      "gas:candidate-vibid:100100032152680": 48,
+      "gas:candidate-vibid:100100032159240": 153,
+      "gas:candidate-vibid:100100032143255": 36,
+      "gas:candidate-vibid:100100032152563": 125,
+      "gas:candidate-vibid:100100032111402": 380
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/krasnoyarsk?action=show&root=1000008&tvd=2242000455403&vrn=100100031793505&region=24&global=&sub_region=24&prver=0&pronetvd=null&vibid=2242000455403&type=227",
@@ -488,11 +488,11 @@ export const president_2012_uik_226_region_24_part_005 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Жириновский Владимир Вольфович": 43,
-      "Зюганов Геннадий Андреевич": 246,
-      "Миронов Сергей Михайлович": 57,
-      "Прохоров Михаил Дмитриевич": 182,
-      "Путин Владимир Владимирович": 536
+      "gas:candidate-vibid:100100032152680": 43,
+      "gas:candidate-vibid:100100032159240": 246,
+      "gas:candidate-vibid:100100032143255": 57,
+      "gas:candidate-vibid:100100032152563": 182,
+      "gas:candidate-vibid:100100032111402": 536
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/krasnoyarsk?action=show&root=1000008&tvd=2242000455403&vrn=100100031793505&region=24&global=&sub_region=24&prver=0&pronetvd=null&vibid=2242000455403&type=227",
@@ -538,11 +538,11 @@ export const president_2012_uik_226_region_24_part_005 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Жириновский Владимир Вольфович": 59,
-      "Зюганов Геннадий Андреевич": 205,
-      "Миронов Сергей Михайлович": 47,
-      "Прохоров Михаил Дмитриевич": 180,
-      "Путин Владимир Владимирович": 515
+      "gas:candidate-vibid:100100032152680": 59,
+      "gas:candidate-vibid:100100032159240": 205,
+      "gas:candidate-vibid:100100032143255": 47,
+      "gas:candidate-vibid:100100032152563": 180,
+      "gas:candidate-vibid:100100032111402": 515
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/krasnoyarsk?action=show&root=1000008&tvd=2242000455403&vrn=100100031793505&region=24&global=&sub_region=24&prver=0&pronetvd=null&vibid=2242000455403&type=227",
@@ -588,11 +588,11 @@ export const president_2012_uik_226_region_24_part_005 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Жириновский Владимир Вольфович": 40,
-      "Зюганов Геннадий Андреевич": 179,
-      "Миронов Сергей Михайлович": 44,
-      "Прохоров Михаил Дмитриевич": 157,
-      "Путин Владимир Владимирович": 532
+      "gas:candidate-vibid:100100032152680": 40,
+      "gas:candidate-vibid:100100032159240": 179,
+      "gas:candidate-vibid:100100032143255": 44,
+      "gas:candidate-vibid:100100032152563": 157,
+      "gas:candidate-vibid:100100032111402": 532
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/krasnoyarsk?action=show&root=1000008&tvd=2242000455403&vrn=100100031793505&region=24&global=&sub_region=24&prver=0&pronetvd=null&vibid=2242000455403&type=227",
@@ -638,11 +638,11 @@ export const president_2012_uik_226_region_24_part_005 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Жириновский Владимир Вольфович": 16,
-      "Зюганов Геннадий Андреевич": 105,
-      "Миронов Сергей Михайлович": 21,
-      "Прохоров Михаил Дмитриевич": 76,
-      "Путин Владимир Владимирович": 194
+      "gas:candidate-vibid:100100032152680": 16,
+      "gas:candidate-vibid:100100032159240": 105,
+      "gas:candidate-vibid:100100032143255": 21,
+      "gas:candidate-vibid:100100032152563": 76,
+      "gas:candidate-vibid:100100032111402": 194
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/krasnoyarsk?action=show&root=1000008&tvd=2242000455403&vrn=100100031793505&region=24&global=&sub_region=24&prver=0&pronetvd=null&vibid=2242000455403&type=227",
@@ -688,11 +688,11 @@ export const president_2012_uik_226_region_24_part_005 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Жириновский Владимир Вольфович": 71,
-      "Зюганов Геннадий Андреевич": 158,
-      "Миронов Сергей Михайлович": 40,
-      "Прохоров Михаил Дмитриевич": 195,
-      "Путин Владимир Владимирович": 535
+      "gas:candidate-vibid:100100032152680": 71,
+      "gas:candidate-vibid:100100032159240": 158,
+      "gas:candidate-vibid:100100032143255": 40,
+      "gas:candidate-vibid:100100032152563": 195,
+      "gas:candidate-vibid:100100032111402": 535
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/krasnoyarsk?action=show&root=1000008&tvd=2242000455403&vrn=100100031793505&region=24&global=&sub_region=24&prver=0&pronetvd=null&vibid=2242000455403&type=227",
@@ -738,11 +738,11 @@ export const president_2012_uik_226_region_24_part_005 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Жириновский Владимир Вольфович": 69,
-      "Зюганов Геннадий Андреевич": 215,
-      "Миронов Сергей Михайлович": 64,
-      "Прохоров Михаил Дмитриевич": 217,
-      "Путин Владимир Владимирович": 698
+      "gas:candidate-vibid:100100032152680": 69,
+      "gas:candidate-vibid:100100032159240": 215,
+      "gas:candidate-vibid:100100032143255": 64,
+      "gas:candidate-vibid:100100032152563": 217,
+      "gas:candidate-vibid:100100032111402": 698
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/krasnoyarsk?action=show&root=1000008&tvd=2242000455403&vrn=100100031793505&region=24&global=&sub_region=24&prver=0&pronetvd=null&vibid=2242000455403&type=227",
@@ -788,11 +788,11 @@ export const president_2012_uik_226_region_24_part_005 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Жириновский Владимир Вольфович": 63,
-      "Зюганов Геннадий Андреевич": 221,
-      "Миронов Сергей Михайлович": 51,
-      "Прохоров Михаил Дмитриевич": 224,
-      "Путин Владимир Владимирович": 716
+      "gas:candidate-vibid:100100032152680": 63,
+      "gas:candidate-vibid:100100032159240": 221,
+      "gas:candidate-vibid:100100032143255": 51,
+      "gas:candidate-vibid:100100032152563": 224,
+      "gas:candidate-vibid:100100032111402": 716
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/krasnoyarsk?action=show&root=1000008&tvd=2242000455403&vrn=100100031793505&region=24&global=&sub_region=24&prver=0&pronetvd=null&vibid=2242000455403&type=227",
@@ -838,11 +838,11 @@ export const president_2012_uik_226_region_24_part_005 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Жириновский Владимир Вольфович": 68,
-      "Зюганов Геннадий Андреевич": 185,
-      "Миронов Сергей Михайлович": 51,
-      "Прохоров Михаил Дмитриевич": 149,
-      "Путин Владимир Владимирович": 451
+      "gas:candidate-vibid:100100032152680": 68,
+      "gas:candidate-vibid:100100032159240": 185,
+      "gas:candidate-vibid:100100032143255": 51,
+      "gas:candidate-vibid:100100032152563": 149,
+      "gas:candidate-vibid:100100032111402": 451
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/krasnoyarsk?action=show&root=1000008&tvd=2242000455403&vrn=100100031793505&region=24&global=&sub_region=24&prver=0&pronetvd=null&vibid=2242000455403&type=227",
@@ -888,11 +888,11 @@ export const president_2012_uik_226_region_24_part_005 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Жириновский Владимир Вольфович": 31,
-      "Зюганов Геннадий Андреевич": 123,
-      "Миронов Сергей Михайлович": 28,
-      "Прохоров Михаил Дмитриевич": 91,
-      "Путин Владимир Владимирович": 265
+      "gas:candidate-vibid:100100032152680": 31,
+      "gas:candidate-vibid:100100032159240": 123,
+      "gas:candidate-vibid:100100032143255": 28,
+      "gas:candidate-vibid:100100032152563": 91,
+      "gas:candidate-vibid:100100032111402": 265
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/krasnoyarsk?action=show&root=1000008&tvd=2242000455403&vrn=100100031793505&region=24&global=&sub_region=24&prver=0&pronetvd=null&vibid=2242000455403&type=227",
@@ -938,11 +938,11 @@ export const president_2012_uik_226_region_24_part_005 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Жириновский Владимир Вольфович": 65,
-      "Зюганов Геннадий Андреевич": 237,
-      "Миронов Сергей Михайлович": 60,
-      "Прохоров Михаил Дмитриевич": 201,
-      "Путин Владимир Владимирович": 648
+      "gas:candidate-vibid:100100032152680": 65,
+      "gas:candidate-vibid:100100032159240": 237,
+      "gas:candidate-vibid:100100032143255": 60,
+      "gas:candidate-vibid:100100032152563": 201,
+      "gas:candidate-vibid:100100032111402": 648
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/krasnoyarsk?action=show&root=1000008&tvd=2242000455403&vrn=100100031793505&region=24&global=&sub_region=24&prver=0&pronetvd=null&vibid=2242000455403&type=227",
@@ -988,11 +988,11 @@ export const president_2012_uik_226_region_24_part_005 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Жириновский Владимир Вольфович": 43,
-      "Зюганов Геннадий Андреевич": 219,
-      "Миронов Сергей Михайлович": 38,
-      "Прохоров Михаил Дмитриевич": 156,
-      "Путин Владимир Владимирович": 501
+      "gas:candidate-vibid:100100032152680": 43,
+      "gas:candidate-vibid:100100032159240": 219,
+      "gas:candidate-vibid:100100032143255": 38,
+      "gas:candidate-vibid:100100032152563": 156,
+      "gas:candidate-vibid:100100032111402": 501
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/krasnoyarsk?action=show&root=1000008&tvd=2242000455403&vrn=100100031793505&region=24&global=&sub_region=24&prver=0&pronetvd=null&vibid=2242000455403&type=227",
@@ -1038,11 +1038,11 @@ export const president_2012_uik_226_region_24_part_005 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Жириновский Владимир Вольфович": 38,
-      "Зюганов Геннадий Андреевич": 135,
-      "Миронов Сергей Михайлович": 45,
-      "Прохоров Михаил Дмитриевич": 115,
-      "Путин Владимир Владимирович": 359
+      "gas:candidate-vibid:100100032152680": 38,
+      "gas:candidate-vibid:100100032159240": 135,
+      "gas:candidate-vibid:100100032143255": 45,
+      "gas:candidate-vibid:100100032152563": 115,
+      "gas:candidate-vibid:100100032111402": 359
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/krasnoyarsk?action=show&root=1000008&tvd=2242000455403&vrn=100100031793505&region=24&global=&sub_region=24&prver=0&pronetvd=null&vibid=2242000455403&type=227",
@@ -1088,11 +1088,11 @@ export const president_2012_uik_226_region_24_part_005 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Жириновский Владимир Вольфович": 34,
-      "Зюганов Геннадий Андреевич": 137,
-      "Миронов Сергей Михайлович": 34,
-      "Прохоров Михаил Дмитриевич": 117,
-      "Путин Владимир Владимирович": 349
+      "gas:candidate-vibid:100100032152680": 34,
+      "gas:candidate-vibid:100100032159240": 137,
+      "gas:candidate-vibid:100100032143255": 34,
+      "gas:candidate-vibid:100100032152563": 117,
+      "gas:candidate-vibid:100100032111402": 349
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/krasnoyarsk?action=show&root=1000008&tvd=2242000455403&vrn=100100031793505&region=24&global=&sub_region=24&prver=0&pronetvd=null&vibid=2242000455403&type=227",
@@ -1138,11 +1138,11 @@ export const president_2012_uik_226_region_24_part_005 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Жириновский Владимир Вольфович": 58,
-      "Зюганов Геннадий Андреевич": 208,
-      "Миронов Сергей Михайлович": 49,
-      "Прохоров Михаил Дмитриевич": 170,
-      "Путин Владимир Владимирович": 442
+      "gas:candidate-vibid:100100032152680": 58,
+      "gas:candidate-vibid:100100032159240": 208,
+      "gas:candidate-vibid:100100032143255": 49,
+      "gas:candidate-vibid:100100032152563": 170,
+      "gas:candidate-vibid:100100032111402": 442
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/krasnoyarsk?action=show&root=1000008&tvd=2242000455403&vrn=100100031793505&region=24&global=&sub_region=24&prver=0&pronetvd=null&vibid=2242000455403&type=227",
@@ -1188,11 +1188,11 @@ export const president_2012_uik_226_region_24_part_005 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Жириновский Владимир Вольфович": 75,
-      "Зюганов Геннадий Андреевич": 206,
-      "Миронов Сергей Михайлович": 59,
-      "Прохоров Михаил Дмитриевич": 155,
-      "Путин Владимир Владимирович": 551
+      "gas:candidate-vibid:100100032152680": 75,
+      "gas:candidate-vibid:100100032159240": 206,
+      "gas:candidate-vibid:100100032143255": 59,
+      "gas:candidate-vibid:100100032152563": 155,
+      "gas:candidate-vibid:100100032111402": 551
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/krasnoyarsk?action=show&root=1000008&tvd=2242000455403&vrn=100100031793505&region=24&global=&sub_region=24&prver=0&pronetvd=null&vibid=2242000455403&type=227",
@@ -1238,11 +1238,11 @@ export const president_2012_uik_226_region_24_part_005 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Жириновский Владимир Вольфович": 45,
-      "Зюганов Геннадий Андреевич": 115,
-      "Миронов Сергей Михайлович": 26,
-      "Прохоров Михаил Дмитриевич": 131,
-      "Путин Владимир Владимирович": 380
+      "gas:candidate-vibid:100100032152680": 45,
+      "gas:candidate-vibid:100100032159240": 115,
+      "gas:candidate-vibid:100100032143255": 26,
+      "gas:candidate-vibid:100100032152563": 131,
+      "gas:candidate-vibid:100100032111402": 380
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/krasnoyarsk?action=show&root=1000008&tvd=2242000455403&vrn=100100031793505&region=24&global=&sub_region=24&prver=0&pronetvd=null&vibid=2242000455403&type=227",
@@ -1288,11 +1288,11 @@ export const president_2012_uik_226_region_24_part_005 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Жириновский Владимир Вольфович": 39,
-      "Зюганов Геннадий Андреевич": 114,
-      "Миронов Сергей Михайлович": 32,
-      "Прохоров Михаил Дмитриевич": 108,
-      "Путин Владимир Владимирович": 375
+      "gas:candidate-vibid:100100032152680": 39,
+      "gas:candidate-vibid:100100032159240": 114,
+      "gas:candidate-vibid:100100032143255": 32,
+      "gas:candidate-vibid:100100032152563": 108,
+      "gas:candidate-vibid:100100032111402": 375
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/krasnoyarsk?action=show&root=1000008&tvd=2242000455403&vrn=100100031793505&region=24&global=&sub_region=24&prver=0&pronetvd=null&vibid=2242000455403&type=227",
@@ -1338,11 +1338,11 @@ export const president_2012_uik_226_region_24_part_005 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Жириновский Владимир Вольфович": 78,
-      "Зюганов Геннадий Андреевич": 151,
-      "Миронов Сергей Михайлович": 30,
-      "Прохоров Михаил Дмитриевич": 71,
-      "Путин Владимир Владимирович": 420
+      "gas:candidate-vibid:100100032152680": 78,
+      "gas:candidate-vibid:100100032159240": 151,
+      "gas:candidate-vibid:100100032143255": 30,
+      "gas:candidate-vibid:100100032152563": 71,
+      "gas:candidate-vibid:100100032111402": 420
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/krasnoyarsk?action=show&root=1000008&tvd=2242000455403&vrn=100100031793505&region=24&global=&sub_region=24&prver=0&pronetvd=null&vibid=2242000455403&type=227",
@@ -1388,11 +1388,11 @@ export const president_2012_uik_226_region_24_part_005 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Жириновский Владимир Вольфович": 67,
-      "Зюганов Геннадий Андреевич": 153,
-      "Миронов Сергей Михайлович": 27,
-      "Прохоров Михаил Дмитриевич": 57,
-      "Путин Владимир Владимирович": 353
+      "gas:candidate-vibid:100100032152680": 67,
+      "gas:candidate-vibid:100100032159240": 153,
+      "gas:candidate-vibid:100100032143255": 27,
+      "gas:candidate-vibid:100100032152563": 57,
+      "gas:candidate-vibid:100100032111402": 353
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/krasnoyarsk?action=show&root=1000008&tvd=2242000455403&vrn=100100031793505&region=24&global=&sub_region=24&prver=0&pronetvd=null&vibid=2242000455403&type=227",
@@ -1438,11 +1438,11 @@ export const president_2012_uik_226_region_24_part_005 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Жириновский Владимир Вольфович": 69,
-      "Зюганов Геннадий Андреевич": 105,
-      "Миронов Сергей Михайлович": 30,
-      "Прохоров Михаил Дмитриевич": 77,
-      "Путин Владимир Владимирович": 360
+      "gas:candidate-vibid:100100032152680": 69,
+      "gas:candidate-vibid:100100032159240": 105,
+      "gas:candidate-vibid:100100032143255": 30,
+      "gas:candidate-vibid:100100032152563": 77,
+      "gas:candidate-vibid:100100032111402": 360
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/krasnoyarsk?action=show&root=1000008&tvd=2242000455403&vrn=100100031793505&region=24&global=&sub_region=24&prver=0&pronetvd=null&vibid=2242000455403&type=227",
@@ -1488,11 +1488,11 @@ export const president_2012_uik_226_region_24_part_005 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Жириновский Владимир Вольфович": 61,
-      "Зюганов Геннадий Андреевич": 95,
-      "Миронов Сергей Михайлович": 19,
-      "Прохоров Михаил Дмитриевич": 42,
-      "Путин Владимир Владимирович": 278
+      "gas:candidate-vibid:100100032152680": 61,
+      "gas:candidate-vibid:100100032159240": 95,
+      "gas:candidate-vibid:100100032143255": 19,
+      "gas:candidate-vibid:100100032152563": 42,
+      "gas:candidate-vibid:100100032111402": 278
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/krasnoyarsk?action=show&root=1000008&tvd=2242000455403&vrn=100100031793505&region=24&global=&sub_region=24&prver=0&pronetvd=null&vibid=2242000455403&type=227",
@@ -1538,11 +1538,11 @@ export const president_2012_uik_226_region_24_part_005 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Жириновский Владимир Вольфович": 49,
-      "Зюганов Геннадий Андреевич": 81,
-      "Миронов Сергей Михайлович": 22,
-      "Прохоров Михаил Дмитриевич": 60,
-      "Путин Владимир Владимирович": 307
+      "gas:candidate-vibid:100100032152680": 49,
+      "gas:candidate-vibid:100100032159240": 81,
+      "gas:candidate-vibid:100100032143255": 22,
+      "gas:candidate-vibid:100100032152563": 60,
+      "gas:candidate-vibid:100100032111402": 307
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/krasnoyarsk?action=show&root=1000008&tvd=2242000455403&vrn=100100031793505&region=24&global=&sub_region=24&prver=0&pronetvd=null&vibid=2242000455403&type=227",
@@ -1588,11 +1588,11 @@ export const president_2012_uik_226_region_24_part_005 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Жириновский Владимир Вольфович": 81,
-      "Зюганов Геннадий Андреевич": 165,
-      "Миронов Сергей Михайлович": 50,
-      "Прохоров Михаил Дмитриевич": 133,
-      "Путин Владимир Владимирович": 537
+      "gas:candidate-vibid:100100032152680": 81,
+      "gas:candidate-vibid:100100032159240": 165,
+      "gas:candidate-vibid:100100032143255": 50,
+      "gas:candidate-vibid:100100032152563": 133,
+      "gas:candidate-vibid:100100032111402": 537
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/krasnoyarsk?action=show&root=1000008&tvd=2242000455403&vrn=100100031793505&region=24&global=&sub_region=24&prver=0&pronetvd=null&vibid=2242000455403&type=227",
@@ -1638,11 +1638,11 @@ export const president_2012_uik_226_region_24_part_005 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Жириновский Владимир Вольфович": 105,
-      "Зюганов Геннадий Андреевич": 233,
-      "Миронов Сергей Михайлович": 45,
-      "Прохоров Михаил Дмитриевич": 107,
-      "Путин Владимир Владимирович": 624
+      "gas:candidate-vibid:100100032152680": 105,
+      "gas:candidate-vibid:100100032159240": 233,
+      "gas:candidate-vibid:100100032143255": 45,
+      "gas:candidate-vibid:100100032152563": 107,
+      "gas:candidate-vibid:100100032111402": 624
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/krasnoyarsk?action=show&root=1000008&tvd=2242000455403&vrn=100100031793505&region=24&global=&sub_region=24&prver=0&pronetvd=null&vibid=2242000455403&type=227",
@@ -1688,11 +1688,11 @@ export const president_2012_uik_226_region_24_part_005 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Жириновский Владимир Вольфович": 24,
-      "Зюганов Геннадий Андреевич": 109,
-      "Миронов Сергей Михайлович": 25,
-      "Прохоров Михаил Дмитриевич": 76,
-      "Путин Владимир Владимирович": 218
+      "gas:candidate-vibid:100100032152680": 24,
+      "gas:candidate-vibid:100100032159240": 109,
+      "gas:candidate-vibid:100100032143255": 25,
+      "gas:candidate-vibid:100100032152563": 76,
+      "gas:candidate-vibid:100100032111402": 218
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/krasnoyarsk?action=show&root=1000008&tvd=2242000455403&vrn=100100031793505&region=24&global=&sub_region=24&prver=0&pronetvd=null&vibid=2242000455403&type=227",
@@ -1738,11 +1738,11 @@ export const president_2012_uik_226_region_24_part_005 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Жириновский Владимир Вольфович": 136,
-      "Зюганов Геннадий Андреевич": 278,
-      "Миронов Сергей Михайлович": 73,
-      "Прохоров Михаил Дмитриевич": 277,
-      "Путин Владимир Владимирович": 976
+      "gas:candidate-vibid:100100032152680": 136,
+      "gas:candidate-vibid:100100032159240": 278,
+      "gas:candidate-vibid:100100032143255": 73,
+      "gas:candidate-vibid:100100032152563": 277,
+      "gas:candidate-vibid:100100032111402": 976
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/krasnoyarsk?action=show&root=1000008&tvd=2242000455403&vrn=100100031793505&region=24&global=&sub_region=24&prver=0&pronetvd=null&vibid=2242000455403&type=227",
@@ -1788,11 +1788,11 @@ export const president_2012_uik_226_region_24_part_005 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Жириновский Владимир Вольфович": 38,
-      "Зюганов Геннадий Андреевич": 186,
-      "Миронов Сергей Михайлович": 54,
-      "Прохоров Михаил Дмитриевич": 208,
-      "Путин Владимир Владимирович": 532
+      "gas:candidate-vibid:100100032152680": 38,
+      "gas:candidate-vibid:100100032159240": 186,
+      "gas:candidate-vibid:100100032143255": 54,
+      "gas:candidate-vibid:100100032152563": 208,
+      "gas:candidate-vibid:100100032111402": 532
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/krasnoyarsk?action=show&root=1000008&tvd=2242000455404&vrn=100100031793505&region=24&global=&sub_region=24&prver=0&pronetvd=null&vibid=2242000455404&type=227",
@@ -1838,11 +1838,11 @@ export const president_2012_uik_226_region_24_part_005 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Жириновский Владимир Вольфович": 56,
-      "Зюганов Геннадий Андреевич": 159,
-      "Миронов Сергей Михайлович": 32,
-      "Прохоров Михаил Дмитриевич": 84,
-      "Путин Владимир Владимирович": 416
+      "gas:candidate-vibid:100100032152680": 56,
+      "gas:candidate-vibid:100100032159240": 159,
+      "gas:candidate-vibid:100100032143255": 32,
+      "gas:candidate-vibid:100100032152563": 84,
+      "gas:candidate-vibid:100100032111402": 416
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/krasnoyarsk?action=show&root=1000008&tvd=2242000455404&vrn=100100031793505&region=24&global=&sub_region=24&prver=0&pronetvd=null&vibid=2242000455404&type=227",
@@ -1888,11 +1888,11 @@ export const president_2012_uik_226_region_24_part_005 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Жириновский Владимир Вольфович": 80,
-      "Зюганов Геннадий Андреевич": 100,
-      "Миронов Сергей Михайлович": 37,
-      "Прохоров Михаил Дмитриевич": 126,
-      "Путин Владимир Владимирович": 454
+      "gas:candidate-vibid:100100032152680": 80,
+      "gas:candidate-vibid:100100032159240": 100,
+      "gas:candidate-vibid:100100032143255": 37,
+      "gas:candidate-vibid:100100032152563": 126,
+      "gas:candidate-vibid:100100032111402": 454
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/krasnoyarsk?action=show&root=1000008&tvd=2242000455404&vrn=100100031793505&region=24&global=&sub_region=24&prver=0&pronetvd=null&vibid=2242000455404&type=227",
@@ -1938,11 +1938,11 @@ export const president_2012_uik_226_region_24_part_005 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Жириновский Владимир Вольфович": 31,
-      "Зюганов Геннадий Андреевич": 76,
-      "Миронов Сергей Михайлович": 16,
-      "Прохоров Михаил Дмитриевич": 31,
-      "Путин Владимир Владимирович": 239
+      "gas:candidate-vibid:100100032152680": 31,
+      "gas:candidate-vibid:100100032159240": 76,
+      "gas:candidate-vibid:100100032143255": 16,
+      "gas:candidate-vibid:100100032152563": 31,
+      "gas:candidate-vibid:100100032111402": 239
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/krasnoyarsk?action=show&root=1000008&tvd=2242000455404&vrn=100100031793505&region=24&global=&sub_region=24&prver=0&pronetvd=null&vibid=2242000455404&type=227",
@@ -1988,11 +1988,11 @@ export const president_2012_uik_226_region_24_part_005 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Жириновский Владимир Вольфович": 11,
-      "Зюганов Геннадий Андреевич": 30,
-      "Миронов Сергей Михайлович": 11,
-      "Прохоров Михаил Дмитриевич": 11,
-      "Путин Владимир Владимирович": 120
+      "gas:candidate-vibid:100100032152680": 11,
+      "gas:candidate-vibid:100100032159240": 30,
+      "gas:candidate-vibid:100100032143255": 11,
+      "gas:candidate-vibid:100100032152563": 11,
+      "gas:candidate-vibid:100100032111402": 120
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/krasnoyarsk?action=show&root=1000008&tvd=2242000455404&vrn=100100031793505&region=24&global=&sub_region=24&prver=0&pronetvd=null&vibid=2242000455404&type=227",
@@ -2038,11 +2038,11 @@ export const president_2012_uik_226_region_24_part_005 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Жириновский Владимир Вольфович": 89,
-      "Зюганов Геннадий Андреевич": 204,
-      "Миронов Сергей Михайлович": 50,
-      "Прохоров Михаил Дмитриевич": 94,
-      "Путин Владимир Владимирович": 620
+      "gas:candidate-vibid:100100032152680": 89,
+      "gas:candidate-vibid:100100032159240": 204,
+      "gas:candidate-vibid:100100032143255": 50,
+      "gas:candidate-vibid:100100032152563": 94,
+      "gas:candidate-vibid:100100032111402": 620
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/krasnoyarsk?action=show&root=1000008&tvd=2242000455404&vrn=100100031793505&region=24&global=&sub_region=24&prver=0&pronetvd=null&vibid=2242000455404&type=227",
@@ -2088,11 +2088,11 @@ export const president_2012_uik_226_region_24_part_005 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Жириновский Владимир Вольфович": 52,
-      "Зюганов Геннадий Андреевич": 68,
-      "Миронов Сергей Михайлович": 21,
-      "Прохоров Михаил Дмитриевич": 55,
-      "Путин Владимир Владимирович": 217
+      "gas:candidate-vibid:100100032152680": 52,
+      "gas:candidate-vibid:100100032159240": 68,
+      "gas:candidate-vibid:100100032143255": 21,
+      "gas:candidate-vibid:100100032152563": 55,
+      "gas:candidate-vibid:100100032111402": 217
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/krasnoyarsk?action=show&root=1000008&tvd=2242000455404&vrn=100100031793505&region=24&global=&sub_region=24&prver=0&pronetvd=null&vibid=2242000455404&type=227",
@@ -2138,11 +2138,11 @@ export const president_2012_uik_226_region_24_part_005 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Жириновский Владимир Вольфович": 28,
-      "Зюганов Геннадий Андреевич": 130,
-      "Миронов Сергей Михайлович": 37,
-      "Прохоров Михаил Дмитриевич": 72,
-      "Путин Владимир Владимирович": 374
+      "gas:candidate-vibid:100100032152680": 28,
+      "gas:candidate-vibid:100100032159240": 130,
+      "gas:candidate-vibid:100100032143255": 37,
+      "gas:candidate-vibid:100100032152563": 72,
+      "gas:candidate-vibid:100100032111402": 374
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/krasnoyarsk?action=show&root=1000008&tvd=2242000455404&vrn=100100031793505&region=24&global=&sub_region=24&prver=0&pronetvd=null&vibid=2242000455404&type=227",
@@ -2188,11 +2188,11 @@ export const president_2012_uik_226_region_24_part_005 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Жириновский Владимир Вольфович": 79,
-      "Зюганов Геннадий Андреевич": 147,
-      "Миронов Сергей Михайлович": 33,
-      "Прохоров Михаил Дмитриевич": 86,
-      "Путин Владимир Владимирович": 452
+      "gas:candidate-vibid:100100032152680": 79,
+      "gas:candidate-vibid:100100032159240": 147,
+      "gas:candidate-vibid:100100032143255": 33,
+      "gas:candidate-vibid:100100032152563": 86,
+      "gas:candidate-vibid:100100032111402": 452
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/krasnoyarsk?action=show&root=1000008&tvd=2242000455404&vrn=100100031793505&region=24&global=&sub_region=24&prver=0&pronetvd=null&vibid=2242000455404&type=227",
@@ -2238,11 +2238,11 @@ export const president_2012_uik_226_region_24_part_005 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Жириновский Владимир Вольфович": 88,
-      "Зюганов Геннадий Андреевич": 221,
-      "Миронов Сергей Михайлович": 55,
-      "Прохоров Михаил Дмитриевич": 156,
-      "Путин Владимир Владимирович": 759
+      "gas:candidate-vibid:100100032152680": 88,
+      "gas:candidate-vibid:100100032159240": 221,
+      "gas:candidate-vibid:100100032143255": 55,
+      "gas:candidate-vibid:100100032152563": 156,
+      "gas:candidate-vibid:100100032111402": 759
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/krasnoyarsk?action=show&root=1000008&tvd=2242000455404&vrn=100100031793505&region=24&global=&sub_region=24&prver=0&pronetvd=null&vibid=2242000455404&type=227",
@@ -2288,11 +2288,11 @@ export const president_2012_uik_226_region_24_part_005 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Жириновский Владимир Вольфович": 81,
-      "Зюганов Геннадий Андреевич": 255,
-      "Миронов Сергей Михайлович": 60,
-      "Прохоров Михаил Дмитриевич": 272,
-      "Путин Владимир Владимирович": 681
+      "gas:candidate-vibid:100100032152680": 81,
+      "gas:candidate-vibid:100100032159240": 255,
+      "gas:candidate-vibid:100100032143255": 60,
+      "gas:candidate-vibid:100100032152563": 272,
+      "gas:candidate-vibid:100100032111402": 681
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/krasnoyarsk?action=show&root=1000008&tvd=2242000455404&vrn=100100031793505&region=24&global=&sub_region=24&prver=0&pronetvd=null&vibid=2242000455404&type=227",
@@ -2338,11 +2338,11 @@ export const president_2012_uik_226_region_24_part_005 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Жириновский Владимир Вольфович": 70,
-      "Зюганов Геннадий Андреевич": 210,
-      "Миронов Сергей Михайлович": 42,
-      "Прохоров Михаил Дмитриевич": 253,
-      "Путин Владимир Владимирович": 639
+      "gas:candidate-vibid:100100032152680": 70,
+      "gas:candidate-vibid:100100032159240": 210,
+      "gas:candidate-vibid:100100032143255": 42,
+      "gas:candidate-vibid:100100032152563": 253,
+      "gas:candidate-vibid:100100032111402": 639
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/krasnoyarsk?action=show&root=1000008&tvd=2242000455404&vrn=100100031793505&region=24&global=&sub_region=24&prver=0&pronetvd=null&vibid=2242000455404&type=227",
@@ -2388,11 +2388,11 @@ export const president_2012_uik_226_region_24_part_005 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Жириновский Владимир Вольфович": 55,
-      "Зюганов Геннадий Андреевич": 151,
-      "Миронов Сергей Михайлович": 43,
-      "Прохоров Михаил Дмитриевич": 266,
-      "Путин Владимир Владимирович": 616
+      "gas:candidate-vibid:100100032152680": 55,
+      "gas:candidate-vibid:100100032159240": 151,
+      "gas:candidate-vibid:100100032143255": 43,
+      "gas:candidate-vibid:100100032152563": 266,
+      "gas:candidate-vibid:100100032111402": 616
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/krasnoyarsk?action=show&root=1000008&tvd=2242000455404&vrn=100100031793505&region=24&global=&sub_region=24&prver=0&pronetvd=null&vibid=2242000455404&type=227",
@@ -2438,11 +2438,11 @@ export const president_2012_uik_226_region_24_part_005 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Жириновский Владимир Вольфович": 69,
-      "Зюганов Геннадий Андреевич": 136,
-      "Миронов Сергей Михайлович": 31,
-      "Прохоров Михаил Дмитриевич": 304,
-      "Путин Владимир Владимирович": 582
+      "gas:candidate-vibid:100100032152680": 69,
+      "gas:candidate-vibid:100100032159240": 136,
+      "gas:candidate-vibid:100100032143255": 31,
+      "gas:candidate-vibid:100100032152563": 304,
+      "gas:candidate-vibid:100100032111402": 582
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/krasnoyarsk?action=show&root=1000008&tvd=2242000455404&vrn=100100031793505&region=24&global=&sub_region=24&prver=0&pronetvd=null&vibid=2242000455404&type=227",
@@ -2488,11 +2488,11 @@ export const president_2012_uik_226_region_24_part_005 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Жириновский Владимир Вольфович": 114,
-      "Зюганов Геннадий Андреевич": 261,
-      "Миронов Сергей Михайлович": 74,
-      "Прохоров Михаил Дмитриевич": 285,
-      "Путин Владимир Владимирович": 792
+      "gas:candidate-vibid:100100032152680": 114,
+      "gas:candidate-vibid:100100032159240": 261,
+      "gas:candidate-vibid:100100032143255": 74,
+      "gas:candidate-vibid:100100032152563": 285,
+      "gas:candidate-vibid:100100032111402": 792
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/krasnoyarsk?action=show&root=1000008&tvd=2242000455404&vrn=100100031793505&region=24&global=&sub_region=24&prver=0&pronetvd=null&vibid=2242000455404&type=227",
@@ -2538,11 +2538,11 @@ export const president_2012_uik_226_region_24_part_005 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Жириновский Владимир Вольфович": 92,
-      "Зюганов Геннадий Андреевич": 269,
-      "Миронов Сергей Михайлович": 89,
-      "Прохоров Михаил Дмитриевич": 262,
-      "Путин Владимир Владимирович": 810
+      "gas:candidate-vibid:100100032152680": 92,
+      "gas:candidate-vibid:100100032159240": 269,
+      "gas:candidate-vibid:100100032143255": 89,
+      "gas:candidate-vibid:100100032152563": 262,
+      "gas:candidate-vibid:100100032111402": 810
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/krasnoyarsk?action=show&root=1000008&tvd=2242000455404&vrn=100100031793505&region=24&global=&sub_region=24&prver=0&pronetvd=null&vibid=2242000455404&type=227",
@@ -2588,11 +2588,11 @@ export const president_2012_uik_226_region_24_part_005 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Жириновский Владимир Вольфович": 101,
-      "Зюганов Геннадий Андреевич": 290,
-      "Миронов Сергей Михайлович": 52,
-      "Прохоров Михаил Дмитриевич": 280,
-      "Путин Владимир Владимирович": 785
+      "gas:candidate-vibid:100100032152680": 101,
+      "gas:candidate-vibid:100100032159240": 290,
+      "gas:candidate-vibid:100100032143255": 52,
+      "gas:candidate-vibid:100100032152563": 280,
+      "gas:candidate-vibid:100100032111402": 785
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/krasnoyarsk?action=show&root=1000008&tvd=2242000455404&vrn=100100031793505&region=24&global=&sub_region=24&prver=0&pronetvd=null&vibid=2242000455404&type=227",
@@ -2638,11 +2638,11 @@ export const president_2012_uik_226_region_24_part_005 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Жириновский Владимир Вольфович": 19,
-      "Зюганов Геннадий Андреевич": 29,
-      "Миронов Сергей Михайлович": 3,
-      "Прохоров Михаил Дмитриевич": 8,
-      "Путин Владимир Владимирович": 112
+      "gas:candidate-vibid:100100032152680": 19,
+      "gas:candidate-vibid:100100032159240": 29,
+      "gas:candidate-vibid:100100032143255": 3,
+      "gas:candidate-vibid:100100032152563": 8,
+      "gas:candidate-vibid:100100032111402": 112
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/krasnoyarsk?action=show&root=1000008&tvd=2242000455404&vrn=100100031793505&region=24&global=&sub_region=24&prver=0&pronetvd=null&vibid=2242000455404&type=227",
@@ -2688,11 +2688,11 @@ export const president_2012_uik_226_region_24_part_005 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Жириновский Владимир Вольфович": 115,
-      "Зюганов Геннадий Андреевич": 224,
-      "Миронов Сергей Михайлович": 40,
-      "Прохоров Михаил Дмитриевич": 141,
-      "Путин Владимир Владимирович": 676
+      "gas:candidate-vibid:100100032152680": 115,
+      "gas:candidate-vibid:100100032159240": 224,
+      "gas:candidate-vibid:100100032143255": 40,
+      "gas:candidate-vibid:100100032152563": 141,
+      "gas:candidate-vibid:100100032111402": 676
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/krasnoyarsk?action=show&root=1000008&tvd=2242000455404&vrn=100100031793505&region=24&global=&sub_region=24&prver=0&pronetvd=null&vibid=2242000455404&type=227",
@@ -2738,11 +2738,11 @@ export const president_2012_uik_226_region_24_part_005 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Жириновский Владимир Вольфович": 122,
-      "Зюганов Геннадий Андреевич": 289,
-      "Миронов Сергей Михайлович": 78,
-      "Прохоров Михаил Дмитриевич": 139,
-      "Путин Владимир Владимирович": 774
+      "gas:candidate-vibid:100100032152680": 122,
+      "gas:candidate-vibid:100100032159240": 289,
+      "gas:candidate-vibid:100100032143255": 78,
+      "gas:candidate-vibid:100100032152563": 139,
+      "gas:candidate-vibid:100100032111402": 774
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/krasnoyarsk?action=show&root=1000008&tvd=2242000455404&vrn=100100031793505&region=24&global=&sub_region=24&prver=0&pronetvd=null&vibid=2242000455404&type=227",
@@ -2788,11 +2788,11 @@ export const president_2012_uik_226_region_24_part_005 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Жириновский Владимир Вольфович": 102,
-      "Зюганов Геннадий Андреевич": 257,
-      "Миронов Сергей Михайлович": 64,
-      "Прохоров Михаил Дмитриевич": 196,
-      "Путин Владимир Владимирович": 788
+      "gas:candidate-vibid:100100032152680": 102,
+      "gas:candidate-vibid:100100032159240": 257,
+      "gas:candidate-vibid:100100032143255": 64,
+      "gas:candidate-vibid:100100032152563": 196,
+      "gas:candidate-vibid:100100032111402": 788
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/krasnoyarsk?action=show&root=1000008&tvd=2242000455404&vrn=100100031793505&region=24&global=&sub_region=24&prver=0&pronetvd=null&vibid=2242000455404&type=227",
@@ -2838,11 +2838,11 @@ export const president_2012_uik_226_region_24_part_005 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Жириновский Владимир Вольфович": 90,
-      "Зюганов Геннадий Андреевич": 173,
-      "Миронов Сергей Михайлович": 45,
-      "Прохоров Михаил Дмитриевич": 104,
-      "Путин Владимир Владимирович": 654
+      "gas:candidate-vibid:100100032152680": 90,
+      "gas:candidate-vibid:100100032159240": 173,
+      "gas:candidate-vibid:100100032143255": 45,
+      "gas:candidate-vibid:100100032152563": 104,
+      "gas:candidate-vibid:100100032111402": 654
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/krasnoyarsk?action=show&root=1000008&tvd=2242000455404&vrn=100100031793505&region=24&global=&sub_region=24&prver=0&pronetvd=null&vibid=2242000455404&type=227",
@@ -2888,11 +2888,11 @@ export const president_2012_uik_226_region_24_part_005 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Жириновский Владимир Вольфович": 95,
-      "Зюганов Геннадий Андреевич": 251,
-      "Миронов Сергей Михайлович": 47,
-      "Прохоров Михаил Дмитриевич": 159,
-      "Путин Владимир Владимирович": 709
+      "gas:candidate-vibid:100100032152680": 95,
+      "gas:candidate-vibid:100100032159240": 251,
+      "gas:candidate-vibid:100100032143255": 47,
+      "gas:candidate-vibid:100100032152563": 159,
+      "gas:candidate-vibid:100100032111402": 709
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/krasnoyarsk?action=show&root=1000008&tvd=2242000455404&vrn=100100031793505&region=24&global=&sub_region=24&prver=0&pronetvd=null&vibid=2242000455404&type=227",
@@ -2938,11 +2938,11 @@ export const president_2012_uik_226_region_24_part_005 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Жириновский Владимир Вольфович": 118,
-      "Зюганов Геннадий Андреевич": 144,
-      "Миронов Сергей Михайлович": 29,
-      "Прохоров Михаил Дмитриевич": 104,
-      "Путин Владимир Владимирович": 546
+      "gas:candidate-vibid:100100032152680": 118,
+      "gas:candidate-vibid:100100032159240": 144,
+      "gas:candidate-vibid:100100032143255": 29,
+      "gas:candidate-vibid:100100032152563": 104,
+      "gas:candidate-vibid:100100032111402": 546
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/krasnoyarsk?action=show&root=1000008&tvd=2242000455404&vrn=100100031793505&region=24&global=&sub_region=24&prver=0&pronetvd=null&vibid=2242000455404&type=227",
@@ -2988,11 +2988,11 @@ export const president_2012_uik_226_region_24_part_005 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Жириновский Владимир Вольфович": 122,
-      "Зюганов Геннадий Андреевич": 332,
-      "Миронов Сергей Михайлович": 96,
-      "Прохоров Михаил Дмитриевич": 180,
-      "Путин Владимир Владимирович": 902
+      "gas:candidate-vibid:100100032152680": 122,
+      "gas:candidate-vibid:100100032159240": 332,
+      "gas:candidate-vibid:100100032143255": 96,
+      "gas:candidate-vibid:100100032152563": 180,
+      "gas:candidate-vibid:100100032111402": 902
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/krasnoyarsk?action=show&root=1000008&tvd=2242000455404&vrn=100100031793505&region=24&global=&sub_region=24&prver=0&pronetvd=null&vibid=2242000455404&type=227",
@@ -3038,11 +3038,11 @@ export const president_2012_uik_226_region_24_part_005 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Жириновский Владимир Вольфович": 100,
-      "Зюганов Геннадий Андреевич": 224,
-      "Миронов Сергей Михайлович": 58,
-      "Прохоров Михаил Дмитриевич": 133,
-      "Путин Владимир Владимирович": 714
+      "gas:candidate-vibid:100100032152680": 100,
+      "gas:candidate-vibid:100100032159240": 224,
+      "gas:candidate-vibid:100100032143255": 58,
+      "gas:candidate-vibid:100100032152563": 133,
+      "gas:candidate-vibid:100100032111402": 714
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/krasnoyarsk?action=show&root=1000008&tvd=2242000455404&vrn=100100031793505&region=24&global=&sub_region=24&prver=0&pronetvd=null&vibid=2242000455404&type=227",
@@ -3088,11 +3088,11 @@ export const president_2012_uik_226_region_24_part_005 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Жириновский Владимир Вольфович": 96,
-      "Зюганов Геннадий Андреевич": 299,
-      "Миронов Сергей Михайлович": 58,
-      "Прохоров Михаил Дмитриевич": 157,
-      "Путин Владимир Владимирович": 787
+      "gas:candidate-vibid:100100032152680": 96,
+      "gas:candidate-vibid:100100032159240": 299,
+      "gas:candidate-vibid:100100032143255": 58,
+      "gas:candidate-vibid:100100032152563": 157,
+      "gas:candidate-vibid:100100032111402": 787
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/krasnoyarsk?action=show&root=1000008&tvd=2242000455404&vrn=100100031793505&region=24&global=&sub_region=24&prver=0&pronetvd=null&vibid=2242000455404&type=227",
@@ -3138,11 +3138,11 @@ export const president_2012_uik_226_region_24_part_005 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Жириновский Владимир Вольфович": 164,
-      "Зюганов Геннадий Андреевич": 205,
-      "Миронов Сергей Михайлович": 47,
-      "Прохоров Михаил Дмитриевич": 199,
-      "Путин Владимир Владимирович": 838
+      "gas:candidate-vibid:100100032152680": 164,
+      "gas:candidate-vibid:100100032159240": 205,
+      "gas:candidate-vibid:100100032143255": 47,
+      "gas:candidate-vibid:100100032152563": 199,
+      "gas:candidate-vibid:100100032111402": 838
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/krasnoyarsk?action=show&root=1000008&tvd=2242000455404&vrn=100100031793505&region=24&global=&sub_region=24&prver=0&pronetvd=null&vibid=2242000455404&type=227",
@@ -3188,11 +3188,11 @@ export const president_2012_uik_226_region_24_part_005 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Жириновский Владимир Вольфович": 115,
-      "Зюганов Геннадий Андреевич": 258,
-      "Миронов Сергей Михайлович": 43,
-      "Прохоров Михаил Дмитриевич": 122,
-      "Путин Владимир Владимирович": 773
+      "gas:candidate-vibid:100100032152680": 115,
+      "gas:candidate-vibid:100100032159240": 258,
+      "gas:candidate-vibid:100100032143255": 43,
+      "gas:candidate-vibid:100100032152563": 122,
+      "gas:candidate-vibid:100100032111402": 773
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/krasnoyarsk?action=show&root=1000008&tvd=2242000455404&vrn=100100031793505&region=24&global=&sub_region=24&prver=0&pronetvd=null&vibid=2242000455404&type=227",
@@ -3238,11 +3238,11 @@ export const president_2012_uik_226_region_24_part_005 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Жириновский Владимир Вольфович": 104,
-      "Зюганов Геннадий Андреевич": 186,
-      "Миронов Сергей Михайлович": 39,
-      "Прохоров Михаил Дмитриевич": 114,
-      "Путин Владимир Владимирович": 682
+      "gas:candidate-vibid:100100032152680": 104,
+      "gas:candidate-vibid:100100032159240": 186,
+      "gas:candidate-vibid:100100032143255": 39,
+      "gas:candidate-vibid:100100032152563": 114,
+      "gas:candidate-vibid:100100032111402": 682
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/krasnoyarsk?action=show&root=1000008&tvd=2242000455404&vrn=100100031793505&region=24&global=&sub_region=24&prver=0&pronetvd=null&vibid=2242000455404&type=227",
@@ -3288,11 +3288,11 @@ export const president_2012_uik_226_region_24_part_005 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Жириновский Владимир Вольфович": 122,
-      "Зюганов Геннадий Андреевич": 262,
-      "Миронов Сергей Михайлович": 68,
-      "Прохоров Михаил Дмитриевич": 137,
-      "Путин Владимир Владимирович": 857
+      "gas:candidate-vibid:100100032152680": 122,
+      "gas:candidate-vibid:100100032159240": 262,
+      "gas:candidate-vibid:100100032143255": 68,
+      "gas:candidate-vibid:100100032152563": 137,
+      "gas:candidate-vibid:100100032111402": 857
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/krasnoyarsk?action=show&root=1000008&tvd=2242000455404&vrn=100100031793505&region=24&global=&sub_region=24&prver=0&pronetvd=null&vibid=2242000455404&type=227",
@@ -3338,11 +3338,11 @@ export const president_2012_uik_226_region_24_part_005 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Жириновский Владимир Вольфович": 114,
-      "Зюганов Геннадий Андреевич": 270,
-      "Миронов Сергей Михайлович": 52,
-      "Прохоров Михаил Дмитриевич": 128,
-      "Путин Владимир Владимирович": 789
+      "gas:candidate-vibid:100100032152680": 114,
+      "gas:candidate-vibid:100100032159240": 270,
+      "gas:candidate-vibid:100100032143255": 52,
+      "gas:candidate-vibid:100100032152563": 128,
+      "gas:candidate-vibid:100100032111402": 789
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/krasnoyarsk?action=show&root=1000008&tvd=2242000455404&vrn=100100031793505&region=24&global=&sub_region=24&prver=0&pronetvd=null&vibid=2242000455404&type=227",
@@ -3388,11 +3388,11 @@ export const president_2012_uik_226_region_24_part_005 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Жириновский Владимир Вольфович": 138,
-      "Зюганов Геннадий Андреевич": 304,
-      "Миронов Сергей Михайлович": 65,
-      "Прохоров Михаил Дмитриевич": 149,
-      "Путин Владимир Владимирович": 980
+      "gas:candidate-vibid:100100032152680": 138,
+      "gas:candidate-vibid:100100032159240": 304,
+      "gas:candidate-vibid:100100032143255": 65,
+      "gas:candidate-vibid:100100032152563": 149,
+      "gas:candidate-vibid:100100032111402": 980
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/krasnoyarsk?action=show&root=1000008&tvd=2242000455404&vrn=100100031793505&region=24&global=&sub_region=24&prver=0&pronetvd=null&vibid=2242000455404&type=227",
@@ -3438,11 +3438,11 @@ export const president_2012_uik_226_region_24_part_005 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Жириновский Владимир Вольфович": 96,
-      "Зюганов Геннадий Андреевич": 223,
-      "Миронов Сергей Михайлович": 53,
-      "Прохоров Михаил Дмитриевич": 143,
-      "Путин Владимир Владимирович": 880
+      "gas:candidate-vibid:100100032152680": 96,
+      "gas:candidate-vibid:100100032159240": 223,
+      "gas:candidate-vibid:100100032143255": 53,
+      "gas:candidate-vibid:100100032152563": 143,
+      "gas:candidate-vibid:100100032111402": 880
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/krasnoyarsk?action=show&root=1000008&tvd=2242000455404&vrn=100100031793505&region=24&global=&sub_region=24&prver=0&pronetvd=null&vibid=2242000455404&type=227",
@@ -3488,11 +3488,11 @@ export const president_2012_uik_226_region_24_part_005 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Жириновский Владимир Вольфович": 139,
-      "Зюганов Геннадий Андреевич": 211,
-      "Миронов Сергей Михайлович": 47,
-      "Прохоров Михаил Дмитриевич": 152,
-      "Путин Владимир Владимирович": 939
+      "gas:candidate-vibid:100100032152680": 139,
+      "gas:candidate-vibid:100100032159240": 211,
+      "gas:candidate-vibid:100100032143255": 47,
+      "gas:candidate-vibid:100100032152563": 152,
+      "gas:candidate-vibid:100100032111402": 939
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/krasnoyarsk?action=show&root=1000008&tvd=2242000455404&vrn=100100031793505&region=24&global=&sub_region=24&prver=0&pronetvd=null&vibid=2242000455404&type=227",
@@ -3538,11 +3538,11 @@ export const president_2012_uik_226_region_24_part_005 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Жириновский Владимир Вольфович": 109,
-      "Зюганов Геннадий Андреевич": 289,
-      "Миронов Сергей Михайлович": 64,
-      "Прохоров Михаил Дмитриевич": 134,
-      "Путин Владимир Владимирович": 967
+      "gas:candidate-vibid:100100032152680": 109,
+      "gas:candidate-vibid:100100032159240": 289,
+      "gas:candidate-vibid:100100032143255": 64,
+      "gas:candidate-vibid:100100032152563": 134,
+      "gas:candidate-vibid:100100032111402": 967
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/krasnoyarsk?action=show&root=1000008&tvd=2242000455404&vrn=100100031793505&region=24&global=&sub_region=24&prver=0&pronetvd=null&vibid=2242000455404&type=227",
@@ -3588,11 +3588,11 @@ export const president_2012_uik_226_region_24_part_005 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Жириновский Владимир Вольфович": 116,
-      "Зюганов Геннадий Андреевич": 342,
-      "Миронов Сергей Михайлович": 86,
-      "Прохоров Михаил Дмитриевич": 155,
-      "Путин Владимир Владимирович": 835
+      "gas:candidate-vibid:100100032152680": 116,
+      "gas:candidate-vibid:100100032159240": 342,
+      "gas:candidate-vibid:100100032143255": 86,
+      "gas:candidate-vibid:100100032152563": 155,
+      "gas:candidate-vibid:100100032111402": 835
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/krasnoyarsk?action=show&root=1000008&tvd=2242000455404&vrn=100100031793505&region=24&global=&sub_region=24&prver=0&pronetvd=null&vibid=2242000455404&type=227",
@@ -3638,11 +3638,11 @@ export const president_2012_uik_226_region_24_part_005 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Жириновский Владимир Вольфович": 129,
-      "Зюганов Геннадий Андреевич": 221,
-      "Миронов Сергей Михайлович": 60,
-      "Прохоров Михаил Дмитриевич": 131,
-      "Путин Владимир Владимирович": 918
+      "gas:candidate-vibid:100100032152680": 129,
+      "gas:candidate-vibid:100100032159240": 221,
+      "gas:candidate-vibid:100100032143255": 60,
+      "gas:candidate-vibid:100100032152563": 131,
+      "gas:candidate-vibid:100100032111402": 918
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/krasnoyarsk?action=show&root=1000008&tvd=2242000455404&vrn=100100031793505&region=24&global=&sub_region=24&prver=0&pronetvd=null&vibid=2242000455404&type=227",
@@ -3688,11 +3688,11 @@ export const president_2012_uik_226_region_24_part_005 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Жириновский Владимир Вольфович": 130,
-      "Зюганов Геннадий Андреевич": 211,
-      "Миронов Сергей Михайлович": 44,
-      "Прохоров Михаил Дмитриевич": 101,
-      "Путин Владимир Владимирович": 714
+      "gas:candidate-vibid:100100032152680": 130,
+      "gas:candidate-vibid:100100032159240": 211,
+      "gas:candidate-vibid:100100032143255": 44,
+      "gas:candidate-vibid:100100032152563": 101,
+      "gas:candidate-vibid:100100032111402": 714
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/krasnoyarsk?action=show&root=1000008&tvd=2242000455404&vrn=100100031793505&region=24&global=&sub_region=24&prver=0&pronetvd=null&vibid=2242000455404&type=227",
@@ -3738,11 +3738,11 @@ export const president_2012_uik_226_region_24_part_005 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Жириновский Владимир Вольфович": 130,
-      "Зюганов Геннадий Андреевич": 228,
-      "Миронов Сергей Михайлович": 61,
-      "Прохоров Михаил Дмитриевич": 139,
-      "Путин Владимир Владимирович": 829
+      "gas:candidate-vibid:100100032152680": 130,
+      "gas:candidate-vibid:100100032159240": 228,
+      "gas:candidate-vibid:100100032143255": 61,
+      "gas:candidate-vibid:100100032152563": 139,
+      "gas:candidate-vibid:100100032111402": 829
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/krasnoyarsk?action=show&root=1000008&tvd=2242000455404&vrn=100100031793505&region=24&global=&sub_region=24&prver=0&pronetvd=null&vibid=2242000455404&type=227",
@@ -3788,11 +3788,11 @@ export const president_2012_uik_226_region_24_part_005 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Жириновский Владимир Вольфович": 107,
-      "Зюганов Геннадий Андреевич": 136,
-      "Миронов Сергей Михайлович": 21,
-      "Прохоров Михаил Дмитриевич": 84,
-      "Путин Владимир Владимирович": 412
+      "gas:candidate-vibid:100100032152680": 107,
+      "gas:candidate-vibid:100100032159240": 136,
+      "gas:candidate-vibid:100100032143255": 21,
+      "gas:candidate-vibid:100100032152563": 84,
+      "gas:candidate-vibid:100100032111402": 412
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/krasnoyarsk?action=show&root=1000008&tvd=2242000455404&vrn=100100031793505&region=24&global=&sub_region=24&prver=0&pronetvd=null&vibid=2242000455404&type=227",
@@ -3838,11 +3838,11 @@ export const president_2012_uik_226_region_24_part_005 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Жириновский Владимир Вольфович": 93,
-      "Зюганов Геннадий Андреевич": 138,
-      "Миронов Сергей Михайлович": 37,
-      "Прохоров Михаил Дмитриевич": 82,
-      "Путин Владимир Владимирович": 601
+      "gas:candidate-vibid:100100032152680": 93,
+      "gas:candidate-vibid:100100032159240": 138,
+      "gas:candidate-vibid:100100032143255": 37,
+      "gas:candidate-vibid:100100032152563": 82,
+      "gas:candidate-vibid:100100032111402": 601
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/krasnoyarsk?action=show&root=1000008&tvd=2242000455404&vrn=100100031793505&region=24&global=&sub_region=24&prver=0&pronetvd=null&vibid=2242000455404&type=227",
@@ -3888,11 +3888,11 @@ export const president_2012_uik_226_region_24_part_005 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Жириновский Владимир Вольфович": 76,
-      "Зюганов Геннадий Андреевич": 134,
-      "Миронов Сергей Михайлович": 27,
-      "Прохоров Михаил Дмитриевич": 68,
-      "Путин Владимир Владимирович": 478
+      "gas:candidate-vibid:100100032152680": 76,
+      "gas:candidate-vibid:100100032159240": 134,
+      "gas:candidate-vibid:100100032143255": 27,
+      "gas:candidate-vibid:100100032152563": 68,
+      "gas:candidate-vibid:100100032111402": 478
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/krasnoyarsk?action=show&root=1000008&tvd=2242000455404&vrn=100100031793505&region=24&global=&sub_region=24&prver=0&pronetvd=null&vibid=2242000455404&type=227",
@@ -3938,11 +3938,11 @@ export const president_2012_uik_226_region_24_part_005 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Жириновский Владимир Вольфович": 106,
-      "Зюганов Геннадий Андреевич": 175,
-      "Миронов Сергей Михайлович": 33,
-      "Прохоров Михаил Дмитриевич": 155,
-      "Путин Владимир Владимирович": 585
+      "gas:candidate-vibid:100100032152680": 106,
+      "gas:candidate-vibid:100100032159240": 175,
+      "gas:candidate-vibid:100100032143255": 33,
+      "gas:candidate-vibid:100100032152563": 155,
+      "gas:candidate-vibid:100100032111402": 585
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/krasnoyarsk?action=show&root=1000008&tvd=2242000455404&vrn=100100031793505&region=24&global=&sub_region=24&prver=0&pronetvd=null&vibid=2242000455404&type=227",
@@ -3988,11 +3988,11 @@ export const president_2012_uik_226_region_24_part_005 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Жириновский Владимир Вольфович": 89,
-      "Зюганов Геннадий Андреевич": 193,
-      "Миронов Сергей Михайлович": 44,
-      "Прохоров Михаил Дмитриевич": 102,
-      "Путин Владимир Владимирович": 681
+      "gas:candidate-vibid:100100032152680": 89,
+      "gas:candidate-vibid:100100032159240": 193,
+      "gas:candidate-vibid:100100032143255": 44,
+      "gas:candidate-vibid:100100032152563": 102,
+      "gas:candidate-vibid:100100032111402": 681
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/krasnoyarsk?action=show&root=1000008&tvd=2242000455404&vrn=100100031793505&region=24&global=&sub_region=24&prver=0&pronetvd=null&vibid=2242000455404&type=227",
@@ -4038,11 +4038,11 @@ export const president_2012_uik_226_region_24_part_005 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Жириновский Владимир Вольфович": 136,
-      "Зюганов Геннадий Андреевич": 296,
-      "Миронов Сергей Михайлович": 76,
-      "Прохоров Михаил Дмитриевич": 152,
-      "Путин Владимир Владимирович": 825
+      "gas:candidate-vibid:100100032152680": 136,
+      "gas:candidate-vibid:100100032159240": 296,
+      "gas:candidate-vibid:100100032143255": 76,
+      "gas:candidate-vibid:100100032152563": 152,
+      "gas:candidate-vibid:100100032111402": 825
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/krasnoyarsk?action=show&root=1000008&tvd=2242000455404&vrn=100100031793505&region=24&global=&sub_region=24&prver=0&pronetvd=null&vibid=2242000455404&type=227",
@@ -4088,11 +4088,11 @@ export const president_2012_uik_226_region_24_part_005 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Жириновский Владимир Вольфович": 86,
-      "Зюганов Геннадий Андреевич": 234,
-      "Миронов Сергей Михайлович": 53,
-      "Прохоров Михаил Дмитриевич": 136,
-      "Путин Владимир Владимирович": 605
+      "gas:candidate-vibid:100100032152680": 86,
+      "gas:candidate-vibid:100100032159240": 234,
+      "gas:candidate-vibid:100100032143255": 53,
+      "gas:candidate-vibid:100100032152563": 136,
+      "gas:candidate-vibid:100100032111402": 605
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/krasnoyarsk?action=show&root=1000008&tvd=2242000455404&vrn=100100031793505&region=24&global=&sub_region=24&prver=0&pronetvd=null&vibid=2242000455404&type=227",
@@ -4138,11 +4138,11 @@ export const president_2012_uik_226_region_24_part_005 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Жириновский Владимир Вольфович": 88,
-      "Зюганов Геннадий Андреевич": 259,
-      "Миронов Сергей Михайлович": 51,
-      "Прохоров Михаил Дмитриевич": 146,
-      "Путин Владимир Владимирович": 787
+      "gas:candidate-vibid:100100032152680": 88,
+      "gas:candidate-vibid:100100032159240": 259,
+      "gas:candidate-vibid:100100032143255": 51,
+      "gas:candidate-vibid:100100032152563": 146,
+      "gas:candidate-vibid:100100032111402": 787
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/krasnoyarsk?action=show&root=1000008&tvd=2242000455404&vrn=100100031793505&region=24&global=&sub_region=24&prver=0&pronetvd=null&vibid=2242000455404&type=227",
@@ -4188,11 +4188,11 @@ export const president_2012_uik_226_region_24_part_005 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Жириновский Владимир Вольфович": 84,
-      "Зюганов Геннадий Андреевич": 304,
-      "Миронов Сергей Михайлович": 52,
-      "Прохоров Михаил Дмитриевич": 135,
-      "Путин Владимир Владимирович": 776
+      "gas:candidate-vibid:100100032152680": 84,
+      "gas:candidate-vibid:100100032159240": 304,
+      "gas:candidate-vibid:100100032143255": 52,
+      "gas:candidate-vibid:100100032152563": 135,
+      "gas:candidate-vibid:100100032111402": 776
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/krasnoyarsk?action=show&root=1000008&tvd=2242000455404&vrn=100100031793505&region=24&global=&sub_region=24&prver=0&pronetvd=null&vibid=2242000455404&type=227",
@@ -4238,11 +4238,11 @@ export const president_2012_uik_226_region_24_part_005 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Жириновский Владимир Вольфович": 101,
-      "Зюганов Геннадий Андреевич": 232,
-      "Миронов Сергей Михайлович": 69,
-      "Прохоров Михаил Дмитриевич": 174,
-      "Путин Владимир Владимирович": 699
+      "gas:candidate-vibid:100100032152680": 101,
+      "gas:candidate-vibid:100100032159240": 232,
+      "gas:candidate-vibid:100100032143255": 69,
+      "gas:candidate-vibid:100100032152563": 174,
+      "gas:candidate-vibid:100100032111402": 699
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/krasnoyarsk?action=show&root=1000008&tvd=2242000455404&vrn=100100031793505&region=24&global=&sub_region=24&prver=0&pronetvd=null&vibid=2242000455404&type=227",
@@ -4288,11 +4288,11 @@ export const president_2012_uik_226_region_24_part_005 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Жириновский Владимир Вольфович": 108,
-      "Зюганов Геннадий Андреевич": 197,
-      "Миронов Сергей Михайлович": 43,
-      "Прохоров Михаил Дмитриевич": 144,
-      "Путин Владимир Владимирович": 545
+      "gas:candidate-vibid:100100032152680": 108,
+      "gas:candidate-vibid:100100032159240": 197,
+      "gas:candidate-vibid:100100032143255": 43,
+      "gas:candidate-vibid:100100032152563": 144,
+      "gas:candidate-vibid:100100032111402": 545
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/krasnoyarsk?action=show&root=1000008&tvd=2242000455404&vrn=100100031793505&region=24&global=&sub_region=24&prver=0&pronetvd=null&vibid=2242000455404&type=227",
@@ -4338,11 +4338,11 @@ export const president_2012_uik_226_region_24_part_005 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Жириновский Владимир Вольфович": 81,
-      "Зюганов Геннадий Андреевич": 188,
-      "Миронов Сергей Михайлович": 42,
-      "Прохоров Михаил Дмитриевич": 111,
-      "Путин Владимир Владимирович": 593
+      "gas:candidate-vibid:100100032152680": 81,
+      "gas:candidate-vibid:100100032159240": 188,
+      "gas:candidate-vibid:100100032143255": 42,
+      "gas:candidate-vibid:100100032152563": 111,
+      "gas:candidate-vibid:100100032111402": 593
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/krasnoyarsk?action=show&root=1000008&tvd=2242000455404&vrn=100100031793505&region=24&global=&sub_region=24&prver=0&pronetvd=null&vibid=2242000455404&type=227",
@@ -4388,11 +4388,11 @@ export const president_2012_uik_226_region_24_part_005 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Жириновский Владимир Вольфович": 95,
-      "Зюганов Геннадий Андреевич": 195,
-      "Миронов Сергей Михайлович": 44,
-      "Прохоров Михаил Дмитриевич": 136,
-      "Путин Владимир Владимирович": 596
+      "gas:candidate-vibid:100100032152680": 95,
+      "gas:candidate-vibid:100100032159240": 195,
+      "gas:candidate-vibid:100100032143255": 44,
+      "gas:candidate-vibid:100100032152563": 136,
+      "gas:candidate-vibid:100100032111402": 596
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/krasnoyarsk?action=show&root=1000008&tvd=2242000455404&vrn=100100031793505&region=24&global=&sub_region=24&prver=0&pronetvd=null&vibid=2242000455404&type=227",
@@ -4438,11 +4438,11 @@ export const president_2012_uik_226_region_24_part_005 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Жириновский Владимир Вольфович": 142,
-      "Зюганов Геннадий Андреевич": 191,
-      "Миронов Сергей Михайлович": 31,
-      "Прохоров Михаил Дмитриевич": 114,
-      "Путин Владимир Владимирович": 687
+      "gas:candidate-vibid:100100032152680": 142,
+      "gas:candidate-vibid:100100032159240": 191,
+      "gas:candidate-vibid:100100032143255": 31,
+      "gas:candidate-vibid:100100032152563": 114,
+      "gas:candidate-vibid:100100032111402": 687
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/krasnoyarsk?action=show&root=1000008&tvd=2242000455404&vrn=100100031793505&region=24&global=&sub_region=24&prver=0&pronetvd=null&vibid=2242000455404&type=227",
@@ -4488,11 +4488,11 @@ export const president_2012_uik_226_region_24_part_005 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Жириновский Владимир Вольфович": 115,
-      "Зюганов Геннадий Андреевич": 263,
-      "Миронов Сергей Михайлович": 68,
-      "Прохоров Михаил Дмитриевич": 208,
-      "Путин Владимир Владимирович": 817
+      "gas:candidate-vibid:100100032152680": 115,
+      "gas:candidate-vibid:100100032159240": 263,
+      "gas:candidate-vibid:100100032143255": 68,
+      "gas:candidate-vibid:100100032152563": 208,
+      "gas:candidate-vibid:100100032111402": 817
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/krasnoyarsk?action=show&root=1000008&tvd=2242000455404&vrn=100100031793505&region=24&global=&sub_region=24&prver=0&pronetvd=null&vibid=2242000455404&type=227",
@@ -4538,11 +4538,11 @@ export const president_2012_uik_226_region_24_part_005 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Жириновский Владимир Вольфович": 103,
-      "Зюганов Геннадий Андреевич": 201,
-      "Миронов Сергей Михайлович": 56,
-      "Прохоров Михаил Дмитриевич": 126,
-      "Путин Владимир Владимирович": 652
+      "gas:candidate-vibid:100100032152680": 103,
+      "gas:candidate-vibid:100100032159240": 201,
+      "gas:candidate-vibid:100100032143255": 56,
+      "gas:candidate-vibid:100100032152563": 126,
+      "gas:candidate-vibid:100100032111402": 652
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/krasnoyarsk?action=show&root=1000008&tvd=2242000455404&vrn=100100031793505&region=24&global=&sub_region=24&prver=0&pronetvd=null&vibid=2242000455404&type=227",
@@ -4588,11 +4588,11 @@ export const president_2012_uik_226_region_24_part_005 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Жириновский Владимир Вольфович": 118,
-      "Зюганов Геннадий Андреевич": 254,
-      "Миронов Сергей Михайлович": 45,
-      "Прохоров Михаил Дмитриевич": 158,
-      "Путин Владимир Владимирович": 748
+      "gas:candidate-vibid:100100032152680": 118,
+      "gas:candidate-vibid:100100032159240": 254,
+      "gas:candidate-vibid:100100032143255": 45,
+      "gas:candidate-vibid:100100032152563": 158,
+      "gas:candidate-vibid:100100032111402": 748
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/krasnoyarsk?action=show&root=1000008&tvd=2242000455404&vrn=100100031793505&region=24&global=&sub_region=24&prver=0&pronetvd=null&vibid=2242000455404&type=227",
@@ -4638,11 +4638,11 @@ export const president_2012_uik_226_region_24_part_005 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Жириновский Владимир Вольфович": 108,
-      "Зюганов Геннадий Андреевич": 214,
-      "Миронов Сергей Михайлович": 70,
-      "Прохоров Михаил Дмитриевич": 181,
-      "Путин Владимир Владимирович": 718
+      "gas:candidate-vibid:100100032152680": 108,
+      "gas:candidate-vibid:100100032159240": 214,
+      "gas:candidate-vibid:100100032143255": 70,
+      "gas:candidate-vibid:100100032152563": 181,
+      "gas:candidate-vibid:100100032111402": 718
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/krasnoyarsk?action=show&root=1000008&tvd=2242000455404&vrn=100100031793505&region=24&global=&sub_region=24&prver=0&pronetvd=null&vibid=2242000455404&type=227",
@@ -4688,11 +4688,11 @@ export const president_2012_uik_226_region_24_part_005 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Жириновский Владимир Вольфович": 86,
-      "Зюганов Геннадий Андреевич": 206,
-      "Миронов Сергей Михайлович": 60,
-      "Прохоров Михаил Дмитриевич": 110,
-      "Путин Владимир Владимирович": 709
+      "gas:candidate-vibid:100100032152680": 86,
+      "gas:candidate-vibid:100100032159240": 206,
+      "gas:candidate-vibid:100100032143255": 60,
+      "gas:candidate-vibid:100100032152563": 110,
+      "gas:candidate-vibid:100100032111402": 709
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/krasnoyarsk?action=show&root=1000008&tvd=2242000455404&vrn=100100031793505&region=24&global=&sub_region=24&prver=0&pronetvd=null&vibid=2242000455404&type=227",
@@ -4738,11 +4738,11 @@ export const president_2012_uik_226_region_24_part_005 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Жириновский Владимир Вольфович": 69,
-      "Зюганов Геннадий Андреевич": 154,
-      "Миронов Сергей Михайлович": 39,
-      "Прохоров Михаил Дмитриевич": 114,
-      "Путин Владимир Владимирович": 668
+      "gas:candidate-vibid:100100032152680": 69,
+      "gas:candidate-vibid:100100032159240": 154,
+      "gas:candidate-vibid:100100032143255": 39,
+      "gas:candidate-vibid:100100032152563": 114,
+      "gas:candidate-vibid:100100032111402": 668
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/krasnoyarsk?action=show&root=1000008&tvd=2242000455404&vrn=100100031793505&region=24&global=&sub_region=24&prver=0&pronetvd=null&vibid=2242000455404&type=227",
@@ -4788,11 +4788,11 @@ export const president_2012_uik_226_region_24_part_005 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Жириновский Владимир Вольфович": 89,
-      "Зюганов Геннадий Андреевич": 220,
-      "Миронов Сергей Михайлович": 60,
-      "Прохоров Михаил Дмитриевич": 199,
-      "Путин Владимир Владимирович": 713
+      "gas:candidate-vibid:100100032152680": 89,
+      "gas:candidate-vibid:100100032159240": 220,
+      "gas:candidate-vibid:100100032143255": 60,
+      "gas:candidate-vibid:100100032152563": 199,
+      "gas:candidate-vibid:100100032111402": 713
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/krasnoyarsk?action=show&root=1000008&tvd=2242000455404&vrn=100100031793505&region=24&global=&sub_region=24&prver=0&pronetvd=null&vibid=2242000455404&type=227",
@@ -4838,11 +4838,11 @@ export const president_2012_uik_226_region_24_part_005 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Жириновский Владимир Вольфович": 97,
-      "Зюганов Геннадий Андреевич": 218,
-      "Миронов Сергей Михайлович": 59,
-      "Прохоров Михаил Дмитриевич": 137,
-      "Путин Владимир Владимирович": 649
+      "gas:candidate-vibid:100100032152680": 97,
+      "gas:candidate-vibid:100100032159240": 218,
+      "gas:candidate-vibid:100100032143255": 59,
+      "gas:candidate-vibid:100100032152563": 137,
+      "gas:candidate-vibid:100100032111402": 649
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/krasnoyarsk?action=show&root=1000008&tvd=2242000455404&vrn=100100031793505&region=24&global=&sub_region=24&prver=0&pronetvd=null&vibid=2242000455404&type=227",
@@ -4888,11 +4888,11 @@ export const president_2012_uik_226_region_24_part_005 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Жириновский Владимир Вольфович": 108,
-      "Зюганов Геннадий Андреевич": 270,
-      "Миронов Сергей Михайлович": 69,
-      "Прохоров Михаил Дмитриевич": 201,
-      "Путин Владимир Владимирович": 732
+      "gas:candidate-vibid:100100032152680": 108,
+      "gas:candidate-vibid:100100032159240": 270,
+      "gas:candidate-vibid:100100032143255": 69,
+      "gas:candidate-vibid:100100032152563": 201,
+      "gas:candidate-vibid:100100032111402": 732
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/krasnoyarsk?action=show&root=1000008&tvd=2242000455404&vrn=100100031793505&region=24&global=&sub_region=24&prver=0&pronetvd=null&vibid=2242000455404&type=227",
@@ -4938,11 +4938,11 @@ export const president_2012_uik_226_region_24_part_005 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Жириновский Владимир Вольфович": 66,
-      "Зюганов Геннадий Андреевич": 154,
-      "Миронов Сергей Михайлович": 40,
-      "Прохоров Михаил Дмитриевич": 164,
-      "Путин Владимир Владимирович": 554
+      "gas:candidate-vibid:100100032152680": 66,
+      "gas:candidate-vibid:100100032159240": 154,
+      "gas:candidate-vibid:100100032143255": 40,
+      "gas:candidate-vibid:100100032152563": 164,
+      "gas:candidate-vibid:100100032111402": 554
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/krasnoyarsk?action=show&root=1000008&tvd=2242000455404&vrn=100100031793505&region=24&global=&sub_region=24&prver=0&pronetvd=null&vibid=2242000455404&type=227",
@@ -4988,11 +4988,11 @@ export const president_2012_uik_226_region_24_part_005 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Жириновский Владимир Вольфович": 118,
-      "Зюганов Геннадий Андреевич": 256,
-      "Миронов Сергей Михайлович": 63,
-      "Прохоров Михаил Дмитриевич": 212,
-      "Путин Владимир Владимирович": 771
+      "gas:candidate-vibid:100100032152680": 118,
+      "gas:candidate-vibid:100100032159240": 256,
+      "gas:candidate-vibid:100100032143255": 63,
+      "gas:candidate-vibid:100100032152563": 212,
+      "gas:candidate-vibid:100100032111402": 771
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/krasnoyarsk?action=show&root=1000008&tvd=2242000455404&vrn=100100031793505&region=24&global=&sub_region=24&prver=0&pronetvd=null&vibid=2242000455404&type=227",
@@ -5038,11 +5038,11 @@ export const president_2012_uik_226_region_24_part_005 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Жириновский Владимир Вольфович": 108,
-      "Зюганов Геннадий Андреевич": 178,
-      "Миронов Сергей Михайлович": 55,
-      "Прохоров Михаил Дмитриевич": 188,
-      "Путин Владимир Владимирович": 480
+      "gas:candidate-vibid:100100032152680": 108,
+      "gas:candidate-vibid:100100032159240": 178,
+      "gas:candidate-vibid:100100032143255": 55,
+      "gas:candidate-vibid:100100032152563": 188,
+      "gas:candidate-vibid:100100032111402": 480
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/krasnoyarsk?action=show&root=1000008&tvd=2242000455404&vrn=100100031793505&region=24&global=&sub_region=24&prver=0&pronetvd=null&vibid=2242000455404&type=227",
@@ -5088,11 +5088,11 @@ export const president_2012_uik_226_region_24_part_005 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Жириновский Владимир Вольфович": 84,
-      "Зюганов Геннадий Андреевич": 199,
-      "Миронов Сергей Михайлович": 68,
-      "Прохоров Михаил Дмитриевич": 164,
-      "Путин Владимир Владимирович": 594
+      "gas:candidate-vibid:100100032152680": 84,
+      "gas:candidate-vibid:100100032159240": 199,
+      "gas:candidate-vibid:100100032143255": 68,
+      "gas:candidate-vibid:100100032152563": 164,
+      "gas:candidate-vibid:100100032111402": 594
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/krasnoyarsk?action=show&root=1000008&tvd=2242000455404&vrn=100100031793505&region=24&global=&sub_region=24&prver=0&pronetvd=null&vibid=2242000455404&type=227",
@@ -5138,11 +5138,11 @@ export const president_2012_uik_226_region_24_part_005 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Жириновский Владимир Вольфович": 90,
-      "Зюганов Геннадий Андреевич": 204,
-      "Миронов Сергей Михайлович": 70,
-      "Прохоров Михаил Дмитриевич": 176,
-      "Путин Владимир Владимирович": 631
+      "gas:candidate-vibid:100100032152680": 90,
+      "gas:candidate-vibid:100100032159240": 204,
+      "gas:candidate-vibid:100100032143255": 70,
+      "gas:candidate-vibid:100100032152563": 176,
+      "gas:candidate-vibid:100100032111402": 631
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/krasnoyarsk?action=show&root=1000008&tvd=2242000455404&vrn=100100031793505&region=24&global=&sub_region=24&prver=0&pronetvd=null&vibid=2242000455404&type=227",
@@ -5188,11 +5188,11 @@ export const president_2012_uik_226_region_24_part_005 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Жириновский Владимир Вольфович": 82,
-      "Зюганов Геннадий Андреевич": 178,
-      "Миронов Сергей Михайлович": 47,
-      "Прохоров Михаил Дмитриевич": 158,
-      "Путин Владимир Владимирович": 618
+      "gas:candidate-vibid:100100032152680": 82,
+      "gas:candidate-vibid:100100032159240": 178,
+      "gas:candidate-vibid:100100032143255": 47,
+      "gas:candidate-vibid:100100032152563": 158,
+      "gas:candidate-vibid:100100032111402": 618
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/krasnoyarsk?action=show&root=1000008&tvd=2242000455404&vrn=100100031793505&region=24&global=&sub_region=24&prver=0&pronetvd=null&vibid=2242000455404&type=227",
@@ -5238,11 +5238,11 @@ export const president_2012_uik_226_region_24_part_005 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Жириновский Владимир Вольфович": 86,
-      "Зюганов Геннадий Андреевич": 237,
-      "Миронов Сергей Михайлович": 55,
-      "Прохоров Михаил Дмитриевич": 169,
-      "Путин Владимир Владимирович": 777
+      "gas:candidate-vibid:100100032152680": 86,
+      "gas:candidate-vibid:100100032159240": 237,
+      "gas:candidate-vibid:100100032143255": 55,
+      "gas:candidate-vibid:100100032152563": 169,
+      "gas:candidate-vibid:100100032111402": 777
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/krasnoyarsk?action=show&root=1000008&tvd=2242000455404&vrn=100100031793505&region=24&global=&sub_region=24&prver=0&pronetvd=null&vibid=2242000455404&type=227",
@@ -5288,11 +5288,11 @@ export const president_2012_uik_226_region_24_part_005 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Жириновский Владимир Вольфович": 129,
-      "Зюганов Геннадий Андреевич": 251,
-      "Миронов Сергей Михайлович": 47,
-      "Прохоров Михаил Дмитриевич": 145,
-      "Путин Владимир Владимирович": 799
+      "gas:candidate-vibid:100100032152680": 129,
+      "gas:candidate-vibid:100100032159240": 251,
+      "gas:candidate-vibid:100100032143255": 47,
+      "gas:candidate-vibid:100100032152563": 145,
+      "gas:candidate-vibid:100100032111402": 799
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/krasnoyarsk?action=show&root=1000008&tvd=2242000455404&vrn=100100031793505&region=24&global=&sub_region=24&prver=0&pronetvd=null&vibid=2242000455404&type=227",
@@ -5338,11 +5338,11 @@ export const president_2012_uik_226_region_24_part_005 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Жириновский Владимир Вольфович": 153,
-      "Зюганов Геннадий Андреевич": 273,
-      "Миронов Сергей Михайлович": 68,
-      "Прохоров Михаил Дмитриевич": 176,
-      "Путин Владимир Владимирович": 840
+      "gas:candidate-vibid:100100032152680": 153,
+      "gas:candidate-vibid:100100032159240": 273,
+      "gas:candidate-vibid:100100032143255": 68,
+      "gas:candidate-vibid:100100032152563": 176,
+      "gas:candidate-vibid:100100032111402": 840
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/krasnoyarsk?action=show&root=1000008&tvd=2242000455404&vrn=100100031793505&region=24&global=&sub_region=24&prver=0&pronetvd=null&vibid=2242000455404&type=227",
@@ -5388,11 +5388,11 @@ export const president_2012_uik_226_region_24_part_005 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Жириновский Владимир Вольфович": 121,
-      "Зюганов Геннадий Андреевич": 276,
-      "Миронов Сергей Михайлович": 63,
-      "Прохоров Михаил Дмитриевич": 162,
-      "Путин Владимир Владимирович": 745
+      "gas:candidate-vibid:100100032152680": 121,
+      "gas:candidate-vibid:100100032159240": 276,
+      "gas:candidate-vibid:100100032143255": 63,
+      "gas:candidate-vibid:100100032152563": 162,
+      "gas:candidate-vibid:100100032111402": 745
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/krasnoyarsk?action=show&root=1000008&tvd=2242000455404&vrn=100100031793505&region=24&global=&sub_region=24&prver=0&pronetvd=null&vibid=2242000455404&type=227",
@@ -5438,11 +5438,11 @@ export const president_2012_uik_226_region_24_part_005 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Жириновский Владимир Вольфович": 101,
-      "Зюганов Геннадий Андреевич": 263,
-      "Миронов Сергей Михайлович": 44,
-      "Прохоров Михаил Дмитриевич": 87,
-      "Путин Владимир Владимирович": 531
+      "gas:candidate-vibid:100100032152680": 101,
+      "gas:candidate-vibid:100100032159240": 263,
+      "gas:candidate-vibid:100100032143255": 44,
+      "gas:candidate-vibid:100100032152563": 87,
+      "gas:candidate-vibid:100100032111402": 531
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/krasnoyarsk?action=show&root=1000008&tvd=2242000455404&vrn=100100031793505&region=24&global=&sub_region=24&prver=0&pronetvd=null&vibid=2242000455404&type=227",
@@ -5488,11 +5488,11 @@ export const president_2012_uik_226_region_24_part_005 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Жириновский Владимир Вольфович": 88,
-      "Зюганов Геннадий Андреевич": 227,
-      "Миронов Сергей Михайлович": 56,
-      "Прохоров Михаил Дмитриевич": 84,
-      "Путин Владимир Владимирович": 576
+      "gas:candidate-vibid:100100032152680": 88,
+      "gas:candidate-vibid:100100032159240": 227,
+      "gas:candidate-vibid:100100032143255": 56,
+      "gas:candidate-vibid:100100032152563": 84,
+      "gas:candidate-vibid:100100032111402": 576
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/krasnoyarsk?action=show&root=1000008&tvd=2242000455404&vrn=100100031793505&region=24&global=&sub_region=24&prver=0&pronetvd=null&vibid=2242000455404&type=227",
@@ -5538,11 +5538,11 @@ export const president_2012_uik_226_region_24_part_005 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Жириновский Владимир Вольфович": 112,
-      "Зюганов Геннадий Андреевич": 230,
-      "Миронов Сергей Михайлович": 49,
-      "Прохоров Михаил Дмитриевич": 122,
-      "Путин Владимир Владимирович": 649
+      "gas:candidate-vibid:100100032152680": 112,
+      "gas:candidate-vibid:100100032159240": 230,
+      "gas:candidate-vibid:100100032143255": 49,
+      "gas:candidate-vibid:100100032152563": 122,
+      "gas:candidate-vibid:100100032111402": 649
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/krasnoyarsk?action=show&root=1000008&tvd=2242000455404&vrn=100100031793505&region=24&global=&sub_region=24&prver=0&pronetvd=null&vibid=2242000455404&type=227",
@@ -5588,11 +5588,11 @@ export const president_2012_uik_226_region_24_part_005 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Жириновский Владимир Вольфович": 65,
-      "Зюганов Геннадий Андреевич": 190,
-      "Миронов Сергей Михайлович": 52,
-      "Прохоров Михаил Дмитриевич": 67,
-      "Путин Владимир Владимирович": 397
+      "gas:candidate-vibid:100100032152680": 65,
+      "gas:candidate-vibid:100100032159240": 190,
+      "gas:candidate-vibid:100100032143255": 52,
+      "gas:candidate-vibid:100100032152563": 67,
+      "gas:candidate-vibid:100100032111402": 397
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/krasnoyarsk?action=show&root=1000008&tvd=2242000455404&vrn=100100031793505&region=24&global=&sub_region=24&prver=0&pronetvd=null&vibid=2242000455404&type=227",
@@ -5638,11 +5638,11 @@ export const president_2012_uik_226_region_24_part_005 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Жириновский Владимир Вольфович": 161,
-      "Зюганов Геннадий Андреевич": 319,
-      "Миронов Сергей Михайлович": 71,
-      "Прохоров Михаил Дмитриевич": 175,
-      "Путин Владимир Владимирович": 854
+      "gas:candidate-vibid:100100032152680": 161,
+      "gas:candidate-vibid:100100032159240": 319,
+      "gas:candidate-vibid:100100032143255": 71,
+      "gas:candidate-vibid:100100032152563": 175,
+      "gas:candidate-vibid:100100032111402": 854
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/krasnoyarsk?action=show&root=1000008&tvd=2242000455404&vrn=100100031793505&region=24&global=&sub_region=24&prver=0&pronetvd=null&vibid=2242000455404&type=227",
@@ -5688,11 +5688,11 @@ export const president_2012_uik_226_region_24_part_005 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Жириновский Владимир Вольфович": 77,
-      "Зюганов Геннадий Андреевич": 71,
-      "Миронов Сергей Михайлович": 10,
-      "Прохоров Михаил Дмитриевич": 37,
-      "Путин Владимир Владимирович": 326
+      "gas:candidate-vibid:100100032152680": 77,
+      "gas:candidate-vibid:100100032159240": 71,
+      "gas:candidate-vibid:100100032143255": 10,
+      "gas:candidate-vibid:100100032152563": 37,
+      "gas:candidate-vibid:100100032111402": 326
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/krasnoyarsk?action=show&root=1000008&tvd=2242000455404&vrn=100100031793505&region=24&global=&sub_region=24&prver=0&pronetvd=null&vibid=2242000455404&type=227",
@@ -5738,11 +5738,11 @@ export const president_2012_uik_226_region_24_part_005 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Жириновский Владимир Вольфович": 112,
-      "Зюганов Геннадий Андреевич": 172,
-      "Миронов Сергей Михайлович": 48,
-      "Прохоров Михаил Дмитриевич": 86,
-      "Путин Владимир Владимирович": 744
+      "gas:candidate-vibid:100100032152680": 112,
+      "gas:candidate-vibid:100100032159240": 172,
+      "gas:candidate-vibid:100100032143255": 48,
+      "gas:candidate-vibid:100100032152563": 86,
+      "gas:candidate-vibid:100100032111402": 744
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/krasnoyarsk?action=show&root=1000008&tvd=2242000455404&vrn=100100031793505&region=24&global=&sub_region=24&prver=0&pronetvd=null&vibid=2242000455404&type=227",
@@ -5788,11 +5788,11 @@ export const president_2012_uik_226_region_24_part_005 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Жириновский Владимир Вольфович": 128,
-      "Зюганов Геннадий Андреевич": 251,
-      "Миронов Сергей Михайлович": 43,
-      "Прохоров Михаил Дмитриевич": 131,
-      "Путин Владимир Владимирович": 698
+      "gas:candidate-vibid:100100032152680": 128,
+      "gas:candidate-vibid:100100032159240": 251,
+      "gas:candidate-vibid:100100032143255": 43,
+      "gas:candidate-vibid:100100032152563": 131,
+      "gas:candidate-vibid:100100032111402": 698
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/krasnoyarsk?action=show&root=1000008&tvd=2242000455404&vrn=100100031793505&region=24&global=&sub_region=24&prver=0&pronetvd=null&vibid=2242000455404&type=227",
@@ -5838,11 +5838,11 @@ export const president_2012_uik_226_region_24_part_005 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Жириновский Владимир Вольфович": 127,
-      "Зюганов Геннадий Андреевич": 289,
-      "Миронов Сергей Михайлович": 59,
-      "Прохоров Михаил Дмитриевич": 171,
-      "Путин Владимир Владимирович": 937
+      "gas:candidate-vibid:100100032152680": 127,
+      "gas:candidate-vibid:100100032159240": 289,
+      "gas:candidate-vibid:100100032143255": 59,
+      "gas:candidate-vibid:100100032152563": 171,
+      "gas:candidate-vibid:100100032111402": 937
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/krasnoyarsk?action=show&root=1000008&tvd=2242000455404&vrn=100100031793505&region=24&global=&sub_region=24&prver=0&pronetvd=null&vibid=2242000455404&type=227",
@@ -5888,11 +5888,11 @@ export const president_2012_uik_226_region_24_part_005 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Жириновский Владимир Вольфович": 78,
-      "Зюганов Геннадий Андреевич": 201,
-      "Миронов Сергей Михайлович": 52,
-      "Прохоров Михаил Дмитриевич": 345,
-      "Путин Владимир Владимирович": 697
+      "gas:candidate-vibid:100100032152680": 78,
+      "gas:candidate-vibid:100100032159240": 201,
+      "gas:candidate-vibid:100100032143255": 52,
+      "gas:candidate-vibid:100100032152563": 345,
+      "gas:candidate-vibid:100100032111402": 697
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/krasnoyarsk?action=show&root=1000008&tvd=2242000455404&vrn=100100031793505&region=24&global=&sub_region=24&prver=0&pronetvd=null&vibid=2242000455404&type=227",
@@ -5938,11 +5938,11 @@ export const president_2012_uik_226_region_24_part_005 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Жириновский Владимир Вольфович": 88,
-      "Зюганов Геннадий Андреевич": 202,
-      "Миронов Сергей Михайлович": 60,
-      "Прохоров Михаил Дмитриевич": 184,
-      "Путин Владимир Владимирович": 623
+      "gas:candidate-vibid:100100032152680": 88,
+      "gas:candidate-vibid:100100032159240": 202,
+      "gas:candidate-vibid:100100032143255": 60,
+      "gas:candidate-vibid:100100032152563": 184,
+      "gas:candidate-vibid:100100032111402": 623
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/krasnoyarsk?action=show&root=1000008&tvd=2242000455404&vrn=100100031793505&region=24&global=&sub_region=24&prver=0&pronetvd=null&vibid=2242000455404&type=227",
@@ -5988,11 +5988,11 @@ export const president_2012_uik_226_region_24_part_005 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Жириновский Владимир Вольфович": 46,
-      "Зюганов Геннадий Андреевич": 51,
-      "Миронов Сергей Михайлович": 10,
-      "Прохоров Михаил Дмитриевич": 9,
-      "Путин Владимир Владимирович": 191
+      "gas:candidate-vibid:100100032152680": 46,
+      "gas:candidate-vibid:100100032159240": 51,
+      "gas:candidate-vibid:100100032143255": 10,
+      "gas:candidate-vibid:100100032152563": 9,
+      "gas:candidate-vibid:100100032111402": 191
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/krasnoyarsk?action=show&root=1000008&tvd=2242000455404&vrn=100100031793505&region=24&global=&sub_region=24&prver=0&pronetvd=null&vibid=2242000455404&type=227",
@@ -6038,11 +6038,11 @@ export const president_2012_uik_226_region_24_part_005 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Жириновский Владимир Вольфович": 69,
-      "Зюганов Геннадий Андреевич": 194,
-      "Миронов Сергей Михайлович": 61,
-      "Прохоров Михаил Дмитриевич": 253,
-      "Путин Владимир Владимирович": 649
+      "gas:candidate-vibid:100100032152680": 69,
+      "gas:candidate-vibid:100100032159240": 194,
+      "gas:candidate-vibid:100100032143255": 61,
+      "gas:candidate-vibid:100100032152563": 253,
+      "gas:candidate-vibid:100100032111402": 649
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/krasnoyarsk?action=show&root=1000008&tvd=2242000455404&vrn=100100031793505&region=24&global=&sub_region=24&prver=0&pronetvd=null&vibid=2242000455404&type=227",
@@ -6088,11 +6088,11 @@ export const president_2012_uik_226_region_24_part_005 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Жириновский Владимир Вольфович": 48,
-      "Зюганов Геннадий Андреевич": 121,
-      "Миронов Сергей Михайлович": 27,
-      "Прохоров Михаил Дмитриевич": 192,
-      "Путин Владимир Владимирович": 414
+      "gas:candidate-vibid:100100032152680": 48,
+      "gas:candidate-vibid:100100032159240": 121,
+      "gas:candidate-vibid:100100032143255": 27,
+      "gas:candidate-vibid:100100032152563": 192,
+      "gas:candidate-vibid:100100032111402": 414
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/krasnoyarsk?action=show&root=1000008&tvd=2242000455404&vrn=100100031793505&region=24&global=&sub_region=24&prver=0&pronetvd=null&vibid=2242000455404&type=227",
@@ -6138,11 +6138,11 @@ export const president_2012_uik_226_region_24_part_005 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Жириновский Владимир Вольфович": 97,
-      "Зюганов Геннадий Андреевич": 161,
-      "Миронов Сергей Михайлович": 53,
-      "Прохоров Михаил Дмитриевич": 132,
-      "Путин Владимир Владимирович": 676
+      "gas:candidate-vibid:100100032152680": 97,
+      "gas:candidate-vibid:100100032159240": 161,
+      "gas:candidate-vibid:100100032143255": 53,
+      "gas:candidate-vibid:100100032152563": 132,
+      "gas:candidate-vibid:100100032111402": 676
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/krasnoyarsk?action=show&root=1000008&tvd=2242000455404&vrn=100100031793505&region=24&global=&sub_region=24&prver=0&pronetvd=null&vibid=2242000455404&type=227",
@@ -6188,11 +6188,11 @@ export const president_2012_uik_226_region_24_part_005 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Жириновский Владимир Вольфович": 107,
-      "Зюганов Геннадий Андреевич": 186,
-      "Миронов Сергей Михайлович": 51,
-      "Прохоров Михаил Дмитриевич": 109,
-      "Путин Владимир Владимирович": 611
+      "gas:candidate-vibid:100100032152680": 107,
+      "gas:candidate-vibid:100100032159240": 186,
+      "gas:candidate-vibid:100100032143255": 51,
+      "gas:candidate-vibid:100100032152563": 109,
+      "gas:candidate-vibid:100100032111402": 611
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/krasnoyarsk?action=show&root=1000008&tvd=2242000455404&vrn=100100031793505&region=24&global=&sub_region=24&prver=0&pronetvd=null&vibid=2242000455404&type=227",
@@ -6238,11 +6238,11 @@ export const president_2012_uik_226_region_24_part_005 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Жириновский Владимир Вольфович": 118,
-      "Зюганов Геннадий Андреевич": 220,
-      "Миронов Сергей Михайлович": 58,
-      "Прохоров Михаил Дмитриевич": 130,
-      "Путин Владимир Владимирович": 756
+      "gas:candidate-vibid:100100032152680": 118,
+      "gas:candidate-vibid:100100032159240": 220,
+      "gas:candidate-vibid:100100032143255": 58,
+      "gas:candidate-vibid:100100032152563": 130,
+      "gas:candidate-vibid:100100032111402": 756
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/krasnoyarsk?action=show&root=1000008&tvd=2242000455404&vrn=100100031793505&region=24&global=&sub_region=24&prver=0&pronetvd=null&vibid=2242000455404&type=227",
@@ -6288,11 +6288,11 @@ export const president_2012_uik_226_region_24_part_005 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Жириновский Владимир Вольфович": 75,
-      "Зюганов Геннадий Андреевич": 211,
-      "Миронов Сергей Михайлович": 59,
-      "Прохоров Михаил Дмитриевич": 313,
-      "Путин Владимир Владимирович": 695
+      "gas:candidate-vibid:100100032152680": 75,
+      "gas:candidate-vibid:100100032159240": 211,
+      "gas:candidate-vibid:100100032143255": 59,
+      "gas:candidate-vibid:100100032152563": 313,
+      "gas:candidate-vibid:100100032111402": 695
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/krasnoyarsk?action=show&root=1000008&tvd=2242000455404&vrn=100100031793505&region=24&global=&sub_region=24&prver=0&pronetvd=null&vibid=2242000455404&type=227",
@@ -6338,11 +6338,11 @@ export const president_2012_uik_226_region_24_part_005 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Жириновский Владимир Вольфович": 81,
-      "Зюганов Геннадий Андреевич": 187,
-      "Миронов Сергей Михайлович": 56,
-      "Прохоров Михаил Дмитриевич": 252,
-      "Путин Владимир Владимирович": 702
+      "gas:candidate-vibid:100100032152680": 81,
+      "gas:candidate-vibid:100100032159240": 187,
+      "gas:candidate-vibid:100100032143255": 56,
+      "gas:candidate-vibid:100100032152563": 252,
+      "gas:candidate-vibid:100100032111402": 702
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/krasnoyarsk?action=show&root=1000008&tvd=2242000455404&vrn=100100031793505&region=24&global=&sub_region=24&prver=0&pronetvd=null&vibid=2242000455404&type=227",
@@ -6388,11 +6388,11 @@ export const president_2012_uik_226_region_24_part_005 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Жириновский Владимир Вольфович": 114,
-      "Зюганов Геннадий Андреевич": 224,
-      "Миронов Сергей Михайлович": 63,
-      "Прохоров Михаил Дмитриевич": 289,
-      "Путин Владимир Владимирович": 892
+      "gas:candidate-vibid:100100032152680": 114,
+      "gas:candidate-vibid:100100032159240": 224,
+      "gas:candidate-vibid:100100032143255": 63,
+      "gas:candidate-vibid:100100032152563": 289,
+      "gas:candidate-vibid:100100032111402": 892
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/krasnoyarsk?action=show&root=1000008&tvd=2242000455404&vrn=100100031793505&region=24&global=&sub_region=24&prver=0&pronetvd=null&vibid=2242000455404&type=227",
@@ -6438,11 +6438,11 @@ export const president_2012_uik_226_region_24_part_005 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Жириновский Владимир Вольфович": 108,
-      "Зюганов Геннадий Андреевич": 226,
-      "Миронов Сергей Михайлович": 64,
-      "Прохоров Михаил Дмитриевич": 173,
-      "Путин Владимир Владимирович": 729
+      "gas:candidate-vibid:100100032152680": 108,
+      "gas:candidate-vibid:100100032159240": 226,
+      "gas:candidate-vibid:100100032143255": 64,
+      "gas:candidate-vibid:100100032152563": 173,
+      "gas:candidate-vibid:100100032111402": 729
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/krasnoyarsk?action=show&root=1000008&tvd=2242000455404&vrn=100100031793505&region=24&global=&sub_region=24&prver=0&pronetvd=null&vibid=2242000455404&type=227",
@@ -6488,11 +6488,11 @@ export const president_2012_uik_226_region_24_part_005 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Жириновский Владимир Вольфович": 133,
-      "Зюганов Геннадий Андреевич": 297,
-      "Миронов Сергей Михайлович": 84,
-      "Прохоров Михаил Дмитриевич": 268,
-      "Путин Владимир Владимирович": 808
+      "gas:candidate-vibid:100100032152680": 133,
+      "gas:candidate-vibid:100100032159240": 297,
+      "gas:candidate-vibid:100100032143255": 84,
+      "gas:candidate-vibid:100100032152563": 268,
+      "gas:candidate-vibid:100100032111402": 808
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/krasnoyarsk?action=show&root=1000008&tvd=2242000455404&vrn=100100031793505&region=24&global=&sub_region=24&prver=0&pronetvd=null&vibid=2242000455404&type=227",
@@ -6538,11 +6538,11 @@ export const president_2012_uik_226_region_24_part_005 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Жириновский Владимир Вольфович": 80,
-      "Зюганов Геннадий Андреевич": 145,
-      "Миронов Сергей Михайлович": 53,
-      "Прохоров Михаил Дмитриевич": 176,
-      "Путин Владимир Владимирович": 630
+      "gas:candidate-vibid:100100032152680": 80,
+      "gas:candidate-vibid:100100032159240": 145,
+      "gas:candidate-vibid:100100032143255": 53,
+      "gas:candidate-vibid:100100032152563": 176,
+      "gas:candidate-vibid:100100032111402": 630
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/krasnoyarsk?action=show&root=1000008&tvd=2242000455404&vrn=100100031793505&region=24&global=&sub_region=24&prver=0&pronetvd=null&vibid=2242000455404&type=227",
@@ -6588,11 +6588,11 @@ export const president_2012_uik_226_region_24_part_005 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Жириновский Владимир Вольфович": 73,
-      "Зюганов Геннадий Андреевич": 150,
-      "Миронов Сергей Михайлович": 50,
-      "Прохоров Михаил Дмитриевич": 174,
-      "Путин Владимир Владимирович": 578
+      "gas:candidate-vibid:100100032152680": 73,
+      "gas:candidate-vibid:100100032159240": 150,
+      "gas:candidate-vibid:100100032143255": 50,
+      "gas:candidate-vibid:100100032152563": 174,
+      "gas:candidate-vibid:100100032111402": 578
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/krasnoyarsk?action=show&root=1000008&tvd=2242000455404&vrn=100100031793505&region=24&global=&sub_region=24&prver=0&pronetvd=null&vibid=2242000455404&type=227",
@@ -6638,11 +6638,11 @@ export const president_2012_uik_226_region_24_part_005 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Жириновский Владимир Вольфович": 74,
-      "Зюганов Геннадий Андреевич": 185,
-      "Миронов Сергей Михайлович": 38,
-      "Прохоров Михаил Дмитриевич": 180,
-      "Путин Владимир Владимирович": 578
+      "gas:candidate-vibid:100100032152680": 74,
+      "gas:candidate-vibid:100100032159240": 185,
+      "gas:candidate-vibid:100100032143255": 38,
+      "gas:candidate-vibid:100100032152563": 180,
+      "gas:candidate-vibid:100100032111402": 578
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/krasnoyarsk?action=show&root=1000008&tvd=2242000455404&vrn=100100031793505&region=24&global=&sub_region=24&prver=0&pronetvd=null&vibid=2242000455404&type=227",
@@ -6688,11 +6688,11 @@ export const president_2012_uik_226_region_24_part_005 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Жириновский Владимир Вольфович": 83,
-      "Зюганов Геннадий Андреевич": 197,
-      "Миронов Сергей Михайлович": 43,
-      "Прохоров Михаил Дмитриевич": 179,
-      "Путин Владимир Владимирович": 648
+      "gas:candidate-vibid:100100032152680": 83,
+      "gas:candidate-vibid:100100032159240": 197,
+      "gas:candidate-vibid:100100032143255": 43,
+      "gas:candidate-vibid:100100032152563": 179,
+      "gas:candidate-vibid:100100032111402": 648
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/krasnoyarsk?action=show&root=1000008&tvd=2242000455404&vrn=100100031793505&region=24&global=&sub_region=24&prver=0&pronetvd=null&vibid=2242000455404&type=227",
@@ -6738,11 +6738,11 @@ export const president_2012_uik_226_region_24_part_005 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Жириновский Владимир Вольфович": 60,
-      "Зюганов Геннадий Андреевич": 154,
-      "Миронов Сергей Михайлович": 47,
-      "Прохоров Михаил Дмитриевич": 276,
-      "Путин Владимир Владимирович": 677
+      "gas:candidate-vibid:100100032152680": 60,
+      "gas:candidate-vibid:100100032159240": 154,
+      "gas:candidate-vibid:100100032143255": 47,
+      "gas:candidate-vibid:100100032152563": 276,
+      "gas:candidate-vibid:100100032111402": 677
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/krasnoyarsk?action=show&root=1000008&tvd=2242000455404&vrn=100100031793505&region=24&global=&sub_region=24&prver=0&pronetvd=null&vibid=2242000455404&type=227",
@@ -6788,11 +6788,11 @@ export const president_2012_uik_226_region_24_part_005 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Жириновский Владимир Вольфович": 42,
-      "Зюганов Геннадий Андреевич": 123,
-      "Миронов Сергей Михайлович": 38,
-      "Прохоров Михаил Дмитриевич": 147,
-      "Путин Владимир Владимирович": 386
+      "gas:candidate-vibid:100100032152680": 42,
+      "gas:candidate-vibid:100100032159240": 123,
+      "gas:candidate-vibid:100100032143255": 38,
+      "gas:candidate-vibid:100100032152563": 147,
+      "gas:candidate-vibid:100100032111402": 386
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/krasnoyarsk?action=show&root=1000008&tvd=2242000455404&vrn=100100031793505&region=24&global=&sub_region=24&prver=0&pronetvd=null&vibid=2242000455404&type=227",
@@ -6838,11 +6838,11 @@ export const president_2012_uik_226_region_24_part_005 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Жириновский Владимир Вольфович": 58,
-      "Зюганов Геннадий Андреевич": 137,
-      "Миронов Сергей Михайлович": 42,
-      "Прохоров Михаил Дмитриевич": 203,
-      "Путин Владимир Владимирович": 506
+      "gas:candidate-vibid:100100032152680": 58,
+      "gas:candidate-vibid:100100032159240": 137,
+      "gas:candidate-vibid:100100032143255": 42,
+      "gas:candidate-vibid:100100032152563": 203,
+      "gas:candidate-vibid:100100032111402": 506
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/krasnoyarsk?action=show&root=1000008&tvd=2242000455404&vrn=100100031793505&region=24&global=&sub_region=24&prver=0&pronetvd=null&vibid=2242000455404&type=227",
@@ -6888,11 +6888,11 @@ export const president_2012_uik_226_region_24_part_005 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Жириновский Владимир Вольфович": 61,
-      "Зюганов Геннадий Андреевич": 142,
-      "Миронов Сергей Михайлович": 53,
-      "Прохоров Михаил Дмитриевич": 210,
-      "Путин Владимир Владимирович": 515
+      "gas:candidate-vibid:100100032152680": 61,
+      "gas:candidate-vibid:100100032159240": 142,
+      "gas:candidate-vibid:100100032143255": 53,
+      "gas:candidate-vibid:100100032152563": 210,
+      "gas:candidate-vibid:100100032111402": 515
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/krasnoyarsk?action=show&root=1000008&tvd=2242000455404&vrn=100100031793505&region=24&global=&sub_region=24&prver=0&pronetvd=null&vibid=2242000455404&type=227",
@@ -6938,11 +6938,11 @@ export const president_2012_uik_226_region_24_part_005 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Жириновский Владимир Вольфович": 79,
-      "Зюганов Геннадий Андреевич": 201,
-      "Миронов Сергей Михайлович": 44,
-      "Прохоров Михаил Дмитриевич": 88,
-      "Путин Владимир Владимирович": 522
+      "gas:candidate-vibid:100100032152680": 79,
+      "gas:candidate-vibid:100100032159240": 201,
+      "gas:candidate-vibid:100100032143255": 44,
+      "gas:candidate-vibid:100100032152563": 88,
+      "gas:candidate-vibid:100100032111402": 522
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/krasnoyarsk?action=show&root=1000008&tvd=2242000455404&vrn=100100031793505&region=24&global=&sub_region=24&prver=0&pronetvd=null&vibid=2242000455404&type=227",
@@ -6988,11 +6988,11 @@ export const president_2012_uik_226_region_24_part_005 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Жириновский Владимир Вольфович": 55,
-      "Зюганов Геннадий Андреевич": 94,
-      "Миронов Сергей Михайлович": 7,
-      "Прохоров Михаил Дмитриевич": 41,
-      "Путин Владимир Владимирович": 237
+      "gas:candidate-vibid:100100032152680": 55,
+      "gas:candidate-vibid:100100032159240": 94,
+      "gas:candidate-vibid:100100032143255": 7,
+      "gas:candidate-vibid:100100032152563": 41,
+      "gas:candidate-vibid:100100032111402": 237
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/krasnoyarsk?action=show&root=1000008&tvd=2242000455405&vrn=100100031793505&region=24&global=&sub_region=24&prver=0&pronetvd=null&vibid=2242000455405&type=227",
@@ -7038,11 +7038,11 @@ export const president_2012_uik_226_region_24_part_005 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Жириновский Владимир Вольфович": 145,
-      "Зюганов Геннадий Андреевич": 308,
-      "Миронов Сергей Михайлович": 63,
-      "Прохоров Михаил Дмитриевич": 234,
-      "Путин Владимир Владимирович": 787
+      "gas:candidate-vibid:100100032152680": 145,
+      "gas:candidate-vibid:100100032159240": 308,
+      "gas:candidate-vibid:100100032143255": 63,
+      "gas:candidate-vibid:100100032152563": 234,
+      "gas:candidate-vibid:100100032111402": 787
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/krasnoyarsk?action=show&root=1000008&tvd=2242000455405&vrn=100100031793505&region=24&global=&sub_region=24&prver=0&pronetvd=null&vibid=2242000455405&type=227",
@@ -7088,11 +7088,11 @@ export const president_2012_uik_226_region_24_part_005 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Жириновский Владимир Вольфович": 87,
-      "Зюганов Геннадий Андреевич": 254,
-      "Миронов Сергей Михайлович": 55,
-      "Прохоров Михаил Дмитриевич": 244,
-      "Путин Владимир Владимирович": 697
+      "gas:candidate-vibid:100100032152680": 87,
+      "gas:candidate-vibid:100100032159240": 254,
+      "gas:candidate-vibid:100100032143255": 55,
+      "gas:candidate-vibid:100100032152563": 244,
+      "gas:candidate-vibid:100100032111402": 697
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/krasnoyarsk?action=show&root=1000008&tvd=2242000455405&vrn=100100031793505&region=24&global=&sub_region=24&prver=0&pronetvd=null&vibid=2242000455405&type=227",
@@ -7138,11 +7138,11 @@ export const president_2012_uik_226_region_24_part_005 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Жириновский Владимир Вольфович": 87,
-      "Зюганов Геннадий Андреевич": 192,
-      "Миронов Сергей Михайлович": 58,
-      "Прохоров Михаил Дмитриевич": 271,
-      "Путин Владимир Владимирович": 639
+      "gas:candidate-vibid:100100032152680": 87,
+      "gas:candidate-vibid:100100032159240": 192,
+      "gas:candidate-vibid:100100032143255": 58,
+      "gas:candidate-vibid:100100032152563": 271,
+      "gas:candidate-vibid:100100032111402": 639
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/krasnoyarsk?action=show&root=1000008&tvd=2242000455405&vrn=100100031793505&region=24&global=&sub_region=24&prver=0&pronetvd=null&vibid=2242000455405&type=227",
@@ -7188,11 +7188,11 @@ export const president_2012_uik_226_region_24_part_005 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Жириновский Владимир Вольфович": 122,
-      "Зюганов Геннадий Андреевич": 209,
-      "Миронов Сергей Михайлович": 44,
-      "Прохоров Михаил Дмитриевич": 152,
-      "Путин Владимир Владимирович": 785
+      "gas:candidate-vibid:100100032152680": 122,
+      "gas:candidate-vibid:100100032159240": 209,
+      "gas:candidate-vibid:100100032143255": 44,
+      "gas:candidate-vibid:100100032152563": 152,
+      "gas:candidate-vibid:100100032111402": 785
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/krasnoyarsk?action=show&root=1000008&tvd=2242000455405&vrn=100100031793505&region=24&global=&sub_region=24&prver=0&pronetvd=null&vibid=2242000455405&type=227",
@@ -7238,11 +7238,11 @@ export const president_2012_uik_226_region_24_part_005 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Жириновский Владимир Вольфович": 90,
-      "Зюганов Геннадий Андреевич": 160,
-      "Миронов Сергей Михайлович": 41,
-      "Прохоров Михаил Дмитриевич": 280,
-      "Путин Владимир Владимирович": 605
+      "gas:candidate-vibid:100100032152680": 90,
+      "gas:candidate-vibid:100100032159240": 160,
+      "gas:candidate-vibid:100100032143255": 41,
+      "gas:candidate-vibid:100100032152563": 280,
+      "gas:candidate-vibid:100100032111402": 605
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/krasnoyarsk?action=show&root=1000008&tvd=2242000455405&vrn=100100031793505&region=24&global=&sub_region=24&prver=0&pronetvd=null&vibid=2242000455405&type=227",
@@ -7288,11 +7288,11 @@ export const president_2012_uik_226_region_24_part_005 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Жириновский Владимир Вольфович": 116,
-      "Зюганов Геннадий Андреевич": 324,
-      "Миронов Сергей Михайлович": 64,
-      "Прохоров Михаил Дмитриевич": 209,
-      "Путин Владимир Владимирович": 808
+      "gas:candidate-vibid:100100032152680": 116,
+      "gas:candidate-vibid:100100032159240": 324,
+      "gas:candidate-vibid:100100032143255": 64,
+      "gas:candidate-vibid:100100032152563": 209,
+      "gas:candidate-vibid:100100032111402": 808
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/krasnoyarsk?action=show&root=1000008&tvd=2242000455405&vrn=100100031793505&region=24&global=&sub_region=24&prver=0&pronetvd=null&vibid=2242000455405&type=227",
@@ -7338,11 +7338,11 @@ export const president_2012_uik_226_region_24_part_005 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Жириновский Владимир Вольфович": 123,
-      "Зюганов Геннадий Андреевич": 335,
-      "Миронов Сергей Михайлович": 73,
-      "Прохоров Михаил Дмитриевич": 261,
-      "Путин Владимир Владимирович": 857
+      "gas:candidate-vibid:100100032152680": 123,
+      "gas:candidate-vibid:100100032159240": 335,
+      "gas:candidate-vibid:100100032143255": 73,
+      "gas:candidate-vibid:100100032152563": 261,
+      "gas:candidate-vibid:100100032111402": 857
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/krasnoyarsk?action=show&root=1000008&tvd=2242000455405&vrn=100100031793505&region=24&global=&sub_region=24&prver=0&pronetvd=null&vibid=2242000455405&type=227",
@@ -7388,11 +7388,11 @@ export const president_2012_uik_226_region_24_part_005 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Жириновский Владимир Вольфович": 68,
-      "Зюганов Геннадий Андреевич": 205,
-      "Миронов Сергей Михайлович": 51,
-      "Прохоров Михаил Дмитриевич": 168,
-      "Путин Владимир Владимирович": 579
+      "gas:candidate-vibid:100100032152680": 68,
+      "gas:candidate-vibid:100100032159240": 205,
+      "gas:candidate-vibid:100100032143255": 51,
+      "gas:candidate-vibid:100100032152563": 168,
+      "gas:candidate-vibid:100100032111402": 579
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/krasnoyarsk?action=show&root=1000008&tvd=2242000455405&vrn=100100031793505&region=24&global=&sub_region=24&prver=0&pronetvd=null&vibid=2242000455405&type=227",
@@ -7438,11 +7438,11 @@ export const president_2012_uik_226_region_24_part_005 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Жириновский Владимир Вольфович": 106,
-      "Зюганов Геннадий Андреевич": 325,
-      "Миронов Сергей Михайлович": 64,
-      "Прохоров Михаил Дмитриевич": 183,
-      "Путин Владимир Владимирович": 804
+      "gas:candidate-vibid:100100032152680": 106,
+      "gas:candidate-vibid:100100032159240": 325,
+      "gas:candidate-vibid:100100032143255": 64,
+      "gas:candidate-vibid:100100032152563": 183,
+      "gas:candidate-vibid:100100032111402": 804
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/krasnoyarsk?action=show&root=1000008&tvd=2242000455405&vrn=100100031793505&region=24&global=&sub_region=24&prver=0&pronetvd=null&vibid=2242000455405&type=227",
@@ -7488,11 +7488,11 @@ export const president_2012_uik_226_region_24_part_005 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Жириновский Владимир Вольфович": 100,
-      "Зюганов Геннадий Андреевич": 289,
-      "Миронов Сергей Михайлович": 67,
-      "Прохоров Михаил Дмитриевич": 215,
-      "Путин Владимир Владимирович": 745
+      "gas:candidate-vibid:100100032152680": 100,
+      "gas:candidate-vibid:100100032159240": 289,
+      "gas:candidate-vibid:100100032143255": 67,
+      "gas:candidate-vibid:100100032152563": 215,
+      "gas:candidate-vibid:100100032111402": 745
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/krasnoyarsk?action=show&root=1000008&tvd=2242000455405&vrn=100100031793505&region=24&global=&sub_region=24&prver=0&pronetvd=null&vibid=2242000455405&type=227",
@@ -7538,11 +7538,11 @@ export const president_2012_uik_226_region_24_part_005 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Жириновский Владимир Вольфович": 119,
-      "Зюганов Геннадий Андреевич": 335,
-      "Миронов Сергей Михайлович": 81,
-      "Прохоров Михаил Дмитриевич": 261,
-      "Путин Владимир Владимирович": 874
+      "gas:candidate-vibid:100100032152680": 119,
+      "gas:candidate-vibid:100100032159240": 335,
+      "gas:candidate-vibid:100100032143255": 81,
+      "gas:candidate-vibid:100100032152563": 261,
+      "gas:candidate-vibid:100100032111402": 874
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/krasnoyarsk?action=show&root=1000008&tvd=2242000455405&vrn=100100031793505&region=24&global=&sub_region=24&prver=0&pronetvd=null&vibid=2242000455405&type=227",
@@ -7588,11 +7588,11 @@ export const president_2012_uik_226_region_24_part_005 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Жириновский Владимир Вольфович": 109,
-      "Зюганов Геннадий Андреевич": 298,
-      "Миронов Сергей Михайлович": 80,
-      "Прохоров Михаил Дмитриевич": 264,
-      "Путин Владимир Владимирович": 814
+      "gas:candidate-vibid:100100032152680": 109,
+      "gas:candidate-vibid:100100032159240": 298,
+      "gas:candidate-vibid:100100032143255": 80,
+      "gas:candidate-vibid:100100032152563": 264,
+      "gas:candidate-vibid:100100032111402": 814
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/krasnoyarsk?action=show&root=1000008&tvd=2242000455405&vrn=100100031793505&region=24&global=&sub_region=24&prver=0&pronetvd=null&vibid=2242000455405&type=227",
@@ -7638,11 +7638,11 @@ export const president_2012_uik_226_region_24_part_005 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Жириновский Владимир Вольфович": 112,
-      "Зюганов Геннадий Андреевич": 215,
-      "Миронов Сергей Михайлович": 37,
-      "Прохоров Михаил Дмитриевич": 161,
-      "Путин Владимир Владимирович": 793
+      "gas:candidate-vibid:100100032152680": 112,
+      "gas:candidate-vibid:100100032159240": 215,
+      "gas:candidate-vibid:100100032143255": 37,
+      "gas:candidate-vibid:100100032152563": 161,
+      "gas:candidate-vibid:100100032111402": 793
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/krasnoyarsk?action=show&root=1000008&tvd=2242000455405&vrn=100100031793505&region=24&global=&sub_region=24&prver=0&pronetvd=null&vibid=2242000455405&type=227",
@@ -7688,11 +7688,11 @@ export const president_2012_uik_226_region_24_part_005 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Жириновский Владимир Вольфович": 105,
-      "Зюганов Геннадий Андреевич": 215,
-      "Миронов Сергей Михайлович": 70,
-      "Прохоров Михаил Дмитриевич": 200,
-      "Путин Владимир Владимирович": 647
+      "gas:candidate-vibid:100100032152680": 105,
+      "gas:candidate-vibid:100100032159240": 215,
+      "gas:candidate-vibid:100100032143255": 70,
+      "gas:candidate-vibid:100100032152563": 200,
+      "gas:candidate-vibid:100100032111402": 647
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/krasnoyarsk?action=show&root=1000008&tvd=2242000455405&vrn=100100031793505&region=24&global=&sub_region=24&prver=0&pronetvd=null&vibid=2242000455405&type=227",
@@ -7738,11 +7738,11 @@ export const president_2012_uik_226_region_24_part_005 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Жириновский Владимир Вольфович": 87,
-      "Зюганов Геннадий Андреевич": 264,
-      "Миронов Сергей Михайлович": 63,
-      "Прохоров Михаил Дмитриевич": 219,
-      "Путин Владимир Владимирович": 659
+      "gas:candidate-vibid:100100032152680": 87,
+      "gas:candidate-vibid:100100032159240": 264,
+      "gas:candidate-vibid:100100032143255": 63,
+      "gas:candidate-vibid:100100032152563": 219,
+      "gas:candidate-vibid:100100032111402": 659
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/krasnoyarsk?action=show&root=1000008&tvd=2242000455405&vrn=100100031793505&region=24&global=&sub_region=24&prver=0&pronetvd=null&vibid=2242000455405&type=227",
@@ -7788,11 +7788,11 @@ export const president_2012_uik_226_region_24_part_005 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Жириновский Владимир Вольфович": 61,
-      "Зюганов Геннадий Андреевич": 146,
-      "Миронов Сергей Михайлович": 32,
-      "Прохоров Михаил Дмитриевич": 104,
-      "Путин Владимир Владимирович": 427
+      "gas:candidate-vibid:100100032152680": 61,
+      "gas:candidate-vibid:100100032159240": 146,
+      "gas:candidate-vibid:100100032143255": 32,
+      "gas:candidate-vibid:100100032152563": 104,
+      "gas:candidate-vibid:100100032111402": 427
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/krasnoyarsk?action=show&root=1000008&tvd=2242000455405&vrn=100100031793505&region=24&global=&sub_region=24&prver=0&pronetvd=null&vibid=2242000455405&type=227",
@@ -7838,11 +7838,11 @@ export const president_2012_uik_226_region_24_part_005 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Жириновский Владимир Вольфович": 56,
-      "Зюганов Геннадий Андреевич": 200,
-      "Миронов Сергей Михайлович": 73,
-      "Прохоров Михаил Дмитриевич": 283,
-      "Путин Владимир Владимирович": 525
+      "gas:candidate-vibid:100100032152680": 56,
+      "gas:candidate-vibid:100100032159240": 200,
+      "gas:candidate-vibid:100100032143255": 73,
+      "gas:candidate-vibid:100100032152563": 283,
+      "gas:candidate-vibid:100100032111402": 525
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/krasnoyarsk?action=show&root=1000008&tvd=2242000455405&vrn=100100031793505&region=24&global=&sub_region=24&prver=0&pronetvd=null&vibid=2242000455405&type=227",
@@ -7888,11 +7888,11 @@ export const president_2012_uik_226_region_24_part_005 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Жириновский Владимир Вольфович": 55,
-      "Зюганов Геннадий Андреевич": 336,
-      "Миронов Сергей Михайлович": 88,
-      "Прохоров Михаил Дмитриевич": 357,
-      "Путин Владимир Владимирович": 727
+      "gas:candidate-vibid:100100032152680": 55,
+      "gas:candidate-vibid:100100032159240": 336,
+      "gas:candidate-vibid:100100032143255": 88,
+      "gas:candidate-vibid:100100032152563": 357,
+      "gas:candidate-vibid:100100032111402": 727
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/krasnoyarsk?action=show&root=1000008&tvd=2242000455405&vrn=100100031793505&region=24&global=&sub_region=24&prver=0&pronetvd=null&vibid=2242000455405&type=227",
@@ -7938,11 +7938,11 @@ export const president_2012_uik_226_region_24_part_005 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Жириновский Владимир Вольфович": 74,
-      "Зюганов Геннадий Андреевич": 245,
-      "Миронов Сергей Михайлович": 61,
-      "Прохоров Михаил Дмитриевич": 273,
-      "Путин Владимир Владимирович": 619
+      "gas:candidate-vibid:100100032152680": 74,
+      "gas:candidate-vibid:100100032159240": 245,
+      "gas:candidate-vibid:100100032143255": 61,
+      "gas:candidate-vibid:100100032152563": 273,
+      "gas:candidate-vibid:100100032111402": 619
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/krasnoyarsk?action=show&root=1000008&tvd=2242000455405&vrn=100100031793505&region=24&global=&sub_region=24&prver=0&pronetvd=null&vibid=2242000455405&type=227",
@@ -7988,11 +7988,11 @@ export const president_2012_uik_226_region_24_part_005 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Жириновский Владимир Вольфович": 75,
-      "Зюганов Геннадий Андреевич": 124,
-      "Миронов Сергей Михайлович": 35,
-      "Прохоров Михаил Дмитриевич": 165,
-      "Путин Владимир Владимирович": 562
+      "gas:candidate-vibid:100100032152680": 75,
+      "gas:candidate-vibid:100100032159240": 124,
+      "gas:candidate-vibid:100100032143255": 35,
+      "gas:candidate-vibid:100100032152563": 165,
+      "gas:candidate-vibid:100100032111402": 562
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/krasnoyarsk?action=show&root=1000008&tvd=2242000455405&vrn=100100031793505&region=24&global=&sub_region=24&prver=0&pronetvd=null&vibid=2242000455405&type=227",
@@ -8038,11 +8038,11 @@ export const president_2012_uik_226_region_24_part_005 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Жириновский Владимир Вольфович": 91,
-      "Зюганов Геннадий Андреевич": 229,
-      "Миронов Сергей Михайлович": 60,
-      "Прохоров Михаил Дмитриевич": 192,
-      "Путин Владимир Владимирович": 929
+      "gas:candidate-vibid:100100032152680": 91,
+      "gas:candidate-vibid:100100032159240": 229,
+      "gas:candidate-vibid:100100032143255": 60,
+      "gas:candidate-vibid:100100032152563": 192,
+      "gas:candidate-vibid:100100032111402": 929
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/krasnoyarsk?action=show&root=1000008&tvd=2242000455405&vrn=100100031793505&region=24&global=&sub_region=24&prver=0&pronetvd=null&vibid=2242000455405&type=227",
@@ -8088,11 +8088,11 @@ export const president_2012_uik_226_region_24_part_005 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Жириновский Владимир Вольфович": 88,
-      "Зюганов Геннадий Андреевич": 287,
-      "Миронов Сергей Михайлович": 57,
-      "Прохоров Михаил Дмитриевич": 124,
-      "Путин Владимир Владимирович": 682
+      "gas:candidate-vibid:100100032152680": 88,
+      "gas:candidate-vibid:100100032159240": 287,
+      "gas:candidate-vibid:100100032143255": 57,
+      "gas:candidate-vibid:100100032152563": 124,
+      "gas:candidate-vibid:100100032111402": 682
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/krasnoyarsk?action=show&root=1000008&tvd=2242000455405&vrn=100100031793505&region=24&global=&sub_region=24&prver=0&pronetvd=null&vibid=2242000455405&type=227",
@@ -8138,11 +8138,11 @@ export const president_2012_uik_226_region_24_part_005 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Жириновский Владимир Вольфович": 119,
-      "Зюганов Геннадий Андреевич": 271,
-      "Миронов Сергей Михайлович": 79,
-      "Прохоров Михаил Дмитриевич": 278,
-      "Путин Владимир Владимирович": 950
+      "gas:candidate-vibid:100100032152680": 119,
+      "gas:candidate-vibid:100100032159240": 271,
+      "gas:candidate-vibid:100100032143255": 79,
+      "gas:candidate-vibid:100100032152563": 278,
+      "gas:candidate-vibid:100100032111402": 950
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/krasnoyarsk?action=show&root=1000008&tvd=2242000455405&vrn=100100031793505&region=24&global=&sub_region=24&prver=0&pronetvd=null&vibid=2242000455405&type=227",
@@ -8188,11 +8188,11 @@ export const president_2012_uik_226_region_24_part_005 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Жириновский Владимир Вольфович": 135,
-      "Зюганов Геннадий Андреевич": 253,
-      "Миронов Сергей Михайлович": 63,
-      "Прохоров Михаил Дмитриевич": 156,
-      "Путин Владимир Владимирович": 931
+      "gas:candidate-vibid:100100032152680": 135,
+      "gas:candidate-vibid:100100032159240": 253,
+      "gas:candidate-vibid:100100032143255": 63,
+      "gas:candidate-vibid:100100032152563": 156,
+      "gas:candidate-vibid:100100032111402": 931
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/krasnoyarsk?action=show&root=1000008&tvd=2242000455405&vrn=100100031793505&region=24&global=&sub_region=24&prver=0&pronetvd=null&vibid=2242000455405&type=227",
@@ -8238,11 +8238,11 @@ export const president_2012_uik_226_region_24_part_005 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Жириновский Владимир Вольфович": 86,
-      "Зюганов Геннадий Андреевич": 242,
-      "Миронов Сергей Михайлович": 52,
-      "Прохоров Михаил Дмитриевич": 137,
-      "Путин Владимир Владимирович": 708
+      "gas:candidate-vibid:100100032152680": 86,
+      "gas:candidate-vibid:100100032159240": 242,
+      "gas:candidate-vibid:100100032143255": 52,
+      "gas:candidate-vibid:100100032152563": 137,
+      "gas:candidate-vibid:100100032111402": 708
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/krasnoyarsk?action=show&root=1000008&tvd=2242000455405&vrn=100100031793505&region=24&global=&sub_region=24&prver=0&pronetvd=null&vibid=2242000455405&type=227",
@@ -8288,11 +8288,11 @@ export const president_2012_uik_226_region_24_part_005 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Жириновский Владимир Вольфович": 92,
-      "Зюганов Геннадий Андреевич": 216,
-      "Миронов Сергей Михайлович": 62,
-      "Прохоров Михаил Дмитриевич": 157,
-      "Путин Владимир Владимирович": 754
+      "gas:candidate-vibid:100100032152680": 92,
+      "gas:candidate-vibid:100100032159240": 216,
+      "gas:candidate-vibid:100100032143255": 62,
+      "gas:candidate-vibid:100100032152563": 157,
+      "gas:candidate-vibid:100100032111402": 754
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/krasnoyarsk?action=show&root=1000008&tvd=2242000455405&vrn=100100031793505&region=24&global=&sub_region=24&prver=0&pronetvd=null&vibid=2242000455405&type=227",
@@ -8338,11 +8338,11 @@ export const president_2012_uik_226_region_24_part_005 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Жириновский Владимир Вольфович": 112,
-      "Зюганов Геннадий Андреевич": 298,
-      "Миронов Сергей Михайлович": 56,
-      "Прохоров Михаил Дмитриевич": 172,
-      "Путин Владимир Владимирович": 834
+      "gas:candidate-vibid:100100032152680": 112,
+      "gas:candidate-vibid:100100032159240": 298,
+      "gas:candidate-vibid:100100032143255": 56,
+      "gas:candidate-vibid:100100032152563": 172,
+      "gas:candidate-vibid:100100032111402": 834
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/krasnoyarsk?action=show&root=1000008&tvd=2242000455405&vrn=100100031793505&region=24&global=&sub_region=24&prver=0&pronetvd=null&vibid=2242000455405&type=227",
@@ -8388,11 +8388,11 @@ export const president_2012_uik_226_region_24_part_005 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Жириновский Владимир Вольфович": 97,
-      "Зюганов Геннадий Андреевич": 237,
-      "Миронов Сергей Михайлович": 68,
-      "Прохоров Михаил Дмитриевич": 130,
-      "Путин Владимир Владимирович": 758
+      "gas:candidate-vibid:100100032152680": 97,
+      "gas:candidate-vibid:100100032159240": 237,
+      "gas:candidate-vibid:100100032143255": 68,
+      "gas:candidate-vibid:100100032152563": 130,
+      "gas:candidate-vibid:100100032111402": 758
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/krasnoyarsk?action=show&root=1000008&tvd=2242000455405&vrn=100100031793505&region=24&global=&sub_region=24&prver=0&pronetvd=null&vibid=2242000455405&type=227",
@@ -8438,11 +8438,11 @@ export const president_2012_uik_226_region_24_part_005 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Жириновский Владимир Вольфович": 124,
-      "Зюганов Геннадий Андреевич": 377,
-      "Миронов Сергей Михайлович": 86,
-      "Прохоров Михаил Дмитриевич": 203,
-      "Путин Владимир Владимирович": 779
+      "gas:candidate-vibid:100100032152680": 124,
+      "gas:candidate-vibid:100100032159240": 377,
+      "gas:candidate-vibid:100100032143255": 86,
+      "gas:candidate-vibid:100100032152563": 203,
+      "gas:candidate-vibid:100100032111402": 779
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/krasnoyarsk?action=show&root=1000008&tvd=2242000455405&vrn=100100031793505&region=24&global=&sub_region=24&prver=0&pronetvd=null&vibid=2242000455405&type=227",
@@ -8488,11 +8488,11 @@ export const president_2012_uik_226_region_24_part_005 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Жириновский Владимир Вольфович": 113,
-      "Зюганов Геннадий Андреевич": 285,
-      "Миронов Сергей Михайлович": 60,
-      "Прохоров Михаил Дмитриевич": 196,
-      "Путин Владимир Владимирович": 821
+      "gas:candidate-vibid:100100032152680": 113,
+      "gas:candidate-vibid:100100032159240": 285,
+      "gas:candidate-vibid:100100032143255": 60,
+      "gas:candidate-vibid:100100032152563": 196,
+      "gas:candidate-vibid:100100032111402": 821
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/krasnoyarsk?action=show&root=1000008&tvd=2242000455405&vrn=100100031793505&region=24&global=&sub_region=24&prver=0&pronetvd=null&vibid=2242000455405&type=227",
@@ -8538,11 +8538,11 @@ export const president_2012_uik_226_region_24_part_005 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Жириновский Владимир Вольфович": 112,
-      "Зюганов Геннадий Андреевич": 299,
-      "Миронов Сергей Михайлович": 63,
-      "Прохоров Михаил Дмитриевич": 188,
-      "Путин Владимир Владимирович": 862
+      "gas:candidate-vibid:100100032152680": 112,
+      "gas:candidate-vibid:100100032159240": 299,
+      "gas:candidate-vibid:100100032143255": 63,
+      "gas:candidate-vibid:100100032152563": 188,
+      "gas:candidate-vibid:100100032111402": 862
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/krasnoyarsk?action=show&root=1000008&tvd=2242000455405&vrn=100100031793505&region=24&global=&sub_region=24&prver=0&pronetvd=null&vibid=2242000455405&type=227",
@@ -8588,11 +8588,11 @@ export const president_2012_uik_226_region_24_part_005 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Жириновский Владимир Вольфович": 103,
-      "Зюганов Геннадий Андреевич": 269,
-      "Миронов Сергей Михайлович": 45,
-      "Прохоров Михаил Дмитриевич": 150,
-      "Путин Владимир Владимирович": 797
+      "gas:candidate-vibid:100100032152680": 103,
+      "gas:candidate-vibid:100100032159240": 269,
+      "gas:candidate-vibid:100100032143255": 45,
+      "gas:candidate-vibid:100100032152563": 150,
+      "gas:candidate-vibid:100100032111402": 797
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/krasnoyarsk?action=show&root=1000008&tvd=2242000455405&vrn=100100031793505&region=24&global=&sub_region=24&prver=0&pronetvd=null&vibid=2242000455405&type=227",
@@ -8638,11 +8638,11 @@ export const president_2012_uik_226_region_24_part_005 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Жириновский Владимир Вольфович": 92,
-      "Зюганов Геннадий Андреевич": 247,
-      "Миронов Сергей Михайлович": 43,
-      "Прохоров Михаил Дмитриевич": 122,
-      "Путин Владимир Владимирович": 722
+      "gas:candidate-vibid:100100032152680": 92,
+      "gas:candidate-vibid:100100032159240": 247,
+      "gas:candidate-vibid:100100032143255": 43,
+      "gas:candidate-vibid:100100032152563": 122,
+      "gas:candidate-vibid:100100032111402": 722
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/krasnoyarsk?action=show&root=1000008&tvd=2242000455405&vrn=100100031793505&region=24&global=&sub_region=24&prver=0&pronetvd=null&vibid=2242000455405&type=227",
@@ -8688,11 +8688,11 @@ export const president_2012_uik_226_region_24_part_005 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Жириновский Владимир Вольфович": 68,
-      "Зюганов Геннадий Андреевич": 215,
-      "Миронов Сергей Михайлович": 36,
-      "Прохоров Михаил Дмитриевич": 120,
-      "Путин Владимир Владимирович": 628
+      "gas:candidate-vibid:100100032152680": 68,
+      "gas:candidate-vibid:100100032159240": 215,
+      "gas:candidate-vibid:100100032143255": 36,
+      "gas:candidate-vibid:100100032152563": 120,
+      "gas:candidate-vibid:100100032111402": 628
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/krasnoyarsk?action=show&root=1000008&tvd=2242000455405&vrn=100100031793505&region=24&global=&sub_region=24&prver=0&pronetvd=null&vibid=2242000455405&type=227",
@@ -8738,11 +8738,11 @@ export const president_2012_uik_226_region_24_part_005 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Жириновский Владимир Вольфович": 102,
-      "Зюганов Геннадий Андреевич": 246,
-      "Миронов Сергей Михайлович": 48,
-      "Прохоров Михаил Дмитриевич": 146,
-      "Путин Владимир Владимирович": 789
+      "gas:candidate-vibid:100100032152680": 102,
+      "gas:candidate-vibid:100100032159240": 246,
+      "gas:candidate-vibid:100100032143255": 48,
+      "gas:candidate-vibid:100100032152563": 146,
+      "gas:candidate-vibid:100100032111402": 789
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/krasnoyarsk?action=show&root=1000008&tvd=2242000455405&vrn=100100031793505&region=24&global=&sub_region=24&prver=0&pronetvd=null&vibid=2242000455405&type=227",
@@ -8788,11 +8788,11 @@ export const president_2012_uik_226_region_24_part_005 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Жириновский Владимир Вольфович": 80,
-      "Зюганов Геннадий Андреевич": 271,
-      "Миронов Сергей Михайлович": 59,
-      "Прохоров Михаил Дмитриевич": 110,
-      "Путин Владимир Владимирович": 858
+      "gas:candidate-vibid:100100032152680": 80,
+      "gas:candidate-vibid:100100032159240": 271,
+      "gas:candidate-vibid:100100032143255": 59,
+      "gas:candidate-vibid:100100032152563": 110,
+      "gas:candidate-vibid:100100032111402": 858
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/krasnoyarsk?action=show&root=1000008&tvd=2242000455405&vrn=100100031793505&region=24&global=&sub_region=24&prver=0&pronetvd=null&vibid=2242000455405&type=227",
@@ -8838,11 +8838,11 @@ export const president_2012_uik_226_region_24_part_005 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Жириновский Владимир Вольфович": 118,
-      "Зюганов Геннадий Андреевич": 314,
-      "Миронов Сергей Михайлович": 65,
-      "Прохоров Михаил Дмитриевич": 198,
-      "Путин Владимир Владимирович": 856
+      "gas:candidate-vibid:100100032152680": 118,
+      "gas:candidate-vibid:100100032159240": 314,
+      "gas:candidate-vibid:100100032143255": 65,
+      "gas:candidate-vibid:100100032152563": 198,
+      "gas:candidate-vibid:100100032111402": 856
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/krasnoyarsk?action=show&root=1000008&tvd=2242000455405&vrn=100100031793505&region=24&global=&sub_region=24&prver=0&pronetvd=null&vibid=2242000455405&type=227",
@@ -8888,11 +8888,11 @@ export const president_2012_uik_226_region_24_part_005 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Жириновский Владимир Вольфович": 118,
-      "Зюганов Геннадий Андреевич": 334,
-      "Миронов Сергей Михайлович": 80,
-      "Прохоров Михаил Дмитриевич": 317,
-      "Путин Владимир Владимирович": 1087
+      "gas:candidate-vibid:100100032152680": 118,
+      "gas:candidate-vibid:100100032159240": 334,
+      "gas:candidate-vibid:100100032143255": 80,
+      "gas:candidate-vibid:100100032152563": 317,
+      "gas:candidate-vibid:100100032111402": 1087
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/krasnoyarsk?action=show&root=1000008&tvd=2242000455405&vrn=100100031793505&region=24&global=&sub_region=24&prver=0&pronetvd=null&vibid=2242000455405&type=227",
@@ -8938,11 +8938,11 @@ export const president_2012_uik_226_region_24_part_005 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Жириновский Владимир Вольфович": 31,
-      "Зюганов Геннадий Андреевич": 105,
-      "Миронов Сергей Михайлович": 25,
-      "Прохоров Михаил Дмитриевич": 86,
-      "Путин Владимир Владимирович": 222
+      "gas:candidate-vibid:100100032152680": 31,
+      "gas:candidate-vibid:100100032159240": 105,
+      "gas:candidate-vibid:100100032143255": 25,
+      "gas:candidate-vibid:100100032152563": 86,
+      "gas:candidate-vibid:100100032111402": 222
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/krasnoyarsk?action=show&root=1000008&tvd=2242000455405&vrn=100100031793505&region=24&global=&sub_region=24&prver=0&pronetvd=null&vibid=2242000455405&type=227",
@@ -8988,11 +8988,11 @@ export const president_2012_uik_226_region_24_part_005 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Жириновский Владимир Вольфович": 84,
-      "Зюганов Геннадий Андреевич": 156,
-      "Миронов Сергей Михайлович": 23,
-      "Прохоров Михаил Дмитриевич": 55,
-      "Путин Владимир Владимирович": 526
+      "gas:candidate-vibid:100100032152680": 84,
+      "gas:candidate-vibid:100100032159240": 156,
+      "gas:candidate-vibid:100100032143255": 23,
+      "gas:candidate-vibid:100100032152563": 55,
+      "gas:candidate-vibid:100100032111402": 526
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/krasnoyarsk?action=show&root=1000008&tvd=2242000455405&vrn=100100031793505&region=24&global=&sub_region=24&prver=0&pronetvd=null&vibid=2242000455405&type=227",
@@ -9038,11 +9038,11 @@ export const president_2012_uik_226_region_24_part_005 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Жириновский Владимир Вольфович": 43,
-      "Зюганов Геннадий Андреевич": 86,
-      "Миронов Сергей Михайлович": 10,
-      "Прохоров Михаил Дмитриевич": 35,
-      "Путин Владимир Владимирович": 219
+      "gas:candidate-vibid:100100032152680": 43,
+      "gas:candidate-vibid:100100032159240": 86,
+      "gas:candidate-vibid:100100032143255": 10,
+      "gas:candidate-vibid:100100032152563": 35,
+      "gas:candidate-vibid:100100032111402": 219
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/krasnoyarsk?action=show&root=1000008&tvd=2242000455405&vrn=100100031793505&region=24&global=&sub_region=24&prver=0&pronetvd=null&vibid=2242000455405&type=227",
@@ -9088,11 +9088,11 @@ export const president_2012_uik_226_region_24_part_005 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Жириновский Владимир Вольфович": 24,
-      "Зюганов Геннадий Андреевич": 70,
-      "Миронов Сергей Михайлович": 13,
-      "Прохоров Михаил Дмитриевич": 27,
-      "Путин Владимир Владимирович": 216
+      "gas:candidate-vibid:100100032152680": 24,
+      "gas:candidate-vibid:100100032159240": 70,
+      "gas:candidate-vibid:100100032143255": 13,
+      "gas:candidate-vibid:100100032152563": 27,
+      "gas:candidate-vibid:100100032111402": 216
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/krasnoyarsk?action=show&root=1000008&tvd=2242000455405&vrn=100100031793505&region=24&global=&sub_region=24&prver=0&pronetvd=null&vibid=2242000455405&type=227",
@@ -9138,11 +9138,11 @@ export const president_2012_uik_226_region_24_part_005 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Жириновский Владимир Вольфович": 99,
-      "Зюганов Геннадий Андреевич": 293,
-      "Миронов Сергей Михайлович": 69,
-      "Прохоров Михаил Дмитриевич": 143,
-      "Путин Владимир Владимирович": 777
+      "gas:candidate-vibid:100100032152680": 99,
+      "gas:candidate-vibid:100100032159240": 293,
+      "gas:candidate-vibid:100100032143255": 69,
+      "gas:candidate-vibid:100100032152563": 143,
+      "gas:candidate-vibid:100100032111402": 777
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/krasnoyarsk?action=show&root=1000008&tvd=2242000455405&vrn=100100031793505&region=24&global=&sub_region=24&prver=0&pronetvd=null&vibid=2242000455405&type=227",
@@ -9188,11 +9188,11 @@ export const president_2012_uik_226_region_24_part_005 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Жириновский Владимир Вольфович": 118,
-      "Зюганов Геннадий Андреевич": 330,
-      "Миронов Сергей Михайлович": 59,
-      "Прохоров Михаил Дмитриевич": 181,
-      "Путин Владимир Владимирович": 799
+      "gas:candidate-vibid:100100032152680": 118,
+      "gas:candidate-vibid:100100032159240": 330,
+      "gas:candidate-vibid:100100032143255": 59,
+      "gas:candidate-vibid:100100032152563": 181,
+      "gas:candidate-vibid:100100032111402": 799
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/krasnoyarsk?action=show&root=1000008&tvd=2242000455405&vrn=100100031793505&region=24&global=&sub_region=24&prver=0&pronetvd=null&vibid=2242000455405&type=227",
@@ -9238,11 +9238,11 @@ export const president_2012_uik_226_region_24_part_005 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Жириновский Владимир Вольфович": 128,
-      "Зюганов Геннадий Андреевич": 267,
-      "Миронов Сергей Михайлович": 68,
-      "Прохоров Михаил Дмитриевич": 216,
-      "Путин Владимир Владимирович": 802
+      "gas:candidate-vibid:100100032152680": 128,
+      "gas:candidate-vibid:100100032159240": 267,
+      "gas:candidate-vibid:100100032143255": 68,
+      "gas:candidate-vibid:100100032152563": 216,
+      "gas:candidate-vibid:100100032111402": 802
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/krasnoyarsk?action=show&root=1000008&tvd=2242000455405&vrn=100100031793505&region=24&global=&sub_region=24&prver=0&pronetvd=null&vibid=2242000455405&type=227",
@@ -9288,11 +9288,11 @@ export const president_2012_uik_226_region_24_part_005 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Жириновский Владимир Вольфович": 115,
-      "Зюганов Геннадий Андреевич": 329,
-      "Миронов Сергей Михайлович": 66,
-      "Прохоров Михаил Дмитриевич": 213,
-      "Путин Владимир Владимирович": 865
+      "gas:candidate-vibid:100100032152680": 115,
+      "gas:candidate-vibid:100100032159240": 329,
+      "gas:candidate-vibid:100100032143255": 66,
+      "gas:candidate-vibid:100100032152563": 213,
+      "gas:candidate-vibid:100100032111402": 865
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/krasnoyarsk?action=show&root=1000008&tvd=2242000455405&vrn=100100031793505&region=24&global=&sub_region=24&prver=0&pronetvd=null&vibid=2242000455405&type=227",
@@ -9338,11 +9338,11 @@ export const president_2012_uik_226_region_24_part_005 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Жириновский Владимир Вольфович": 87,
-      "Зюганов Геннадий Андреевич": 259,
-      "Миронов Сергей Михайлович": 68,
-      "Прохоров Михаил Дмитриевич": 181,
-      "Путин Владимир Владимирович": 882
+      "gas:candidate-vibid:100100032152680": 87,
+      "gas:candidate-vibid:100100032159240": 259,
+      "gas:candidate-vibid:100100032143255": 68,
+      "gas:candidate-vibid:100100032152563": 181,
+      "gas:candidate-vibid:100100032111402": 882
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/krasnoyarsk?action=show&root=1000008&tvd=2242000455405&vrn=100100031793505&region=24&global=&sub_region=24&prver=0&pronetvd=null&vibid=2242000455405&type=227",
@@ -9388,11 +9388,11 @@ export const president_2012_uik_226_region_24_part_005 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Жириновский Владимир Вольфович": 85,
-      "Зюганов Геннадий Андреевич": 271,
-      "Миронов Сергей Михайлович": 55,
-      "Прохоров Михаил Дмитриевич": 190,
-      "Путин Владимир Владимирович": 622
+      "gas:candidate-vibid:100100032152680": 85,
+      "gas:candidate-vibid:100100032159240": 271,
+      "gas:candidate-vibid:100100032143255": 55,
+      "gas:candidate-vibid:100100032152563": 190,
+      "gas:candidate-vibid:100100032111402": 622
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/krasnoyarsk?action=show&root=1000008&tvd=2242000455405&vrn=100100031793505&region=24&global=&sub_region=24&prver=0&pronetvd=null&vibid=2242000455405&type=227",
@@ -9438,11 +9438,11 @@ export const president_2012_uik_226_region_24_part_005 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Жириновский Владимир Вольфович": 37,
-      "Зюганов Геннадий Андреевич": 142,
-      "Миронов Сергей Михайлович": 27,
-      "Прохоров Михаил Дмитриевич": 43,
-      "Путин Владимир Владимирович": 491
+      "gas:candidate-vibid:100100032152680": 37,
+      "gas:candidate-vibid:100100032159240": 142,
+      "gas:candidate-vibid:100100032143255": 27,
+      "gas:candidate-vibid:100100032152563": 43,
+      "gas:candidate-vibid:100100032111402": 491
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/krasnoyarsk?action=show&root=1000008&tvd=2242000455405&vrn=100100031793505&region=24&global=&sub_region=24&prver=0&pronetvd=null&vibid=2242000455405&type=227",
@@ -9488,11 +9488,11 @@ export const president_2012_uik_226_region_24_part_005 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Жириновский Владимир Вольфович": 46,
-      "Зюганов Геннадий Андреевич": 204,
-      "Миронов Сергей Михайлович": 64,
-      "Прохоров Михаил Дмитриевич": 172,
-      "Путин Владимир Владимирович": 467
+      "gas:candidate-vibid:100100032152680": 46,
+      "gas:candidate-vibid:100100032159240": 204,
+      "gas:candidate-vibid:100100032143255": 64,
+      "gas:candidate-vibid:100100032152563": 172,
+      "gas:candidate-vibid:100100032111402": 467
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/krasnoyarsk?action=show&root=1000008&tvd=2242000455405&vrn=100100031793505&region=24&global=&sub_region=24&prver=0&pronetvd=null&vibid=2242000455405&type=227",
@@ -9538,11 +9538,11 @@ export const president_2012_uik_226_region_24_part_005 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Жириновский Владимир Вольфович": 54,
-      "Зюганов Геннадий Андреевич": 74,
-      "Миронов Сергей Михайлович": 17,
-      "Прохоров Михаил Дмитриевич": 40,
-      "Путин Владимир Владимирович": 292
+      "gas:candidate-vibid:100100032152680": 54,
+      "gas:candidate-vibid:100100032159240": 74,
+      "gas:candidate-vibid:100100032143255": 17,
+      "gas:candidate-vibid:100100032152563": 40,
+      "gas:candidate-vibid:100100032111402": 292
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/krasnoyarsk?action=show&root=1000008&tvd=2242000455405&vrn=100100031793505&region=24&global=&sub_region=24&prver=0&pronetvd=null&vibid=2242000455405&type=227",
@@ -9588,11 +9588,11 @@ export const president_2012_uik_226_region_24_part_005 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Жириновский Владимир Вольфович": 43,
-      "Зюганов Геннадий Андреевич": 97,
-      "Миронов Сергей Михайлович": 31,
-      "Прохоров Михаил Дмитриевич": 120,
-      "Путин Владимир Владимирович": 394
+      "gas:candidate-vibid:100100032152680": 43,
+      "gas:candidate-vibid:100100032159240": 97,
+      "gas:candidate-vibid:100100032143255": 31,
+      "gas:candidate-vibid:100100032152563": 120,
+      "gas:candidate-vibid:100100032111402": 394
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/krasnoyarsk?action=show&root=1000008&tvd=2242000455405&vrn=100100031793505&region=24&global=&sub_region=24&prver=0&pronetvd=null&vibid=2242000455405&type=227",
@@ -9638,11 +9638,11 @@ export const president_2012_uik_226_region_24_part_005 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Жириновский Владимир Вольфович": 75,
-      "Зюганов Геннадий Андреевич": 217,
-      "Миронов Сергей Михайлович": 62,
-      "Прохоров Михаил Дмитриевич": 265,
-      "Путин Владимир Владимирович": 582
+      "gas:candidate-vibid:100100032152680": 75,
+      "gas:candidate-vibid:100100032159240": 217,
+      "gas:candidate-vibid:100100032143255": 62,
+      "gas:candidate-vibid:100100032152563": 265,
+      "gas:candidate-vibid:100100032111402": 582
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/krasnoyarsk?action=show&root=1000008&tvd=2242000455405&vrn=100100031793505&region=24&global=&sub_region=24&prver=0&pronetvd=null&vibid=2242000455405&type=227",
@@ -9688,11 +9688,11 @@ export const president_2012_uik_226_region_24_part_005 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Жириновский Владимир Вольфович": 82,
-      "Зюганов Геннадий Андреевич": 272,
-      "Миронов Сергей Михайлович": 45,
-      "Прохоров Михаил Дмитриевич": 118,
-      "Путин Владимир Владимирович": 536
+      "gas:candidate-vibid:100100032152680": 82,
+      "gas:candidate-vibid:100100032159240": 272,
+      "gas:candidate-vibid:100100032143255": 45,
+      "gas:candidate-vibid:100100032152563": 118,
+      "gas:candidate-vibid:100100032111402": 536
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/krasnoyarsk?action=show&root=1000008&tvd=2242000455406&vrn=100100031793505&region=24&global=&sub_region=24&prver=0&pronetvd=null&vibid=2242000455406&type=227",
@@ -9738,11 +9738,11 @@ export const president_2012_uik_226_region_24_part_005 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Жириновский Владимир Вольфович": 93,
-      "Зюганов Геннадий Андреевич": 286,
-      "Миронов Сергей Михайлович": 52,
-      "Прохоров Михаил Дмитриевич": 129,
-      "Путин Владимир Владимирович": 626
+      "gas:candidate-vibid:100100032152680": 93,
+      "gas:candidate-vibid:100100032159240": 286,
+      "gas:candidate-vibid:100100032143255": 52,
+      "gas:candidate-vibid:100100032152563": 129,
+      "gas:candidate-vibid:100100032111402": 626
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/krasnoyarsk?action=show&root=1000008&tvd=2242000455406&vrn=100100031793505&region=24&global=&sub_region=24&prver=0&pronetvd=null&vibid=2242000455406&type=227",
@@ -9788,11 +9788,11 @@ export const president_2012_uik_226_region_24_part_005 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Жириновский Владимир Вольфович": 108,
-      "Зюганов Геннадий Андреевич": 226,
-      "Миронов Сергей Михайлович": 54,
-      "Прохоров Михаил Дмитриевич": 102,
-      "Путин Владимир Владимирович": 652
+      "gas:candidate-vibid:100100032152680": 108,
+      "gas:candidate-vibid:100100032159240": 226,
+      "gas:candidate-vibid:100100032143255": 54,
+      "gas:candidate-vibid:100100032152563": 102,
+      "gas:candidate-vibid:100100032111402": 652
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/krasnoyarsk?action=show&root=1000008&tvd=2242000455406&vrn=100100031793505&region=24&global=&sub_region=24&prver=0&pronetvd=null&vibid=2242000455406&type=227",
@@ -9838,11 +9838,11 @@ export const president_2012_uik_226_region_24_part_005 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Жириновский Владимир Вольфович": 82,
-      "Зюганов Геннадий Андреевич": 219,
-      "Миронов Сергей Михайлович": 52,
-      "Прохоров Михаил Дмитриевич": 85,
-      "Путин Владимир Владимирович": 536
+      "gas:candidate-vibid:100100032152680": 82,
+      "gas:candidate-vibid:100100032159240": 219,
+      "gas:candidate-vibid:100100032143255": 52,
+      "gas:candidate-vibid:100100032152563": 85,
+      "gas:candidate-vibid:100100032111402": 536
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/krasnoyarsk?action=show&root=1000008&tvd=2242000455406&vrn=100100031793505&region=24&global=&sub_region=24&prver=0&pronetvd=null&vibid=2242000455406&type=227",
@@ -9888,11 +9888,11 @@ export const president_2012_uik_226_region_24_part_005 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Жириновский Владимир Вольфович": 98,
-      "Зюганов Геннадий Андреевич": 234,
-      "Миронов Сергей Михайлович": 60,
-      "Прохоров Михаил Дмитриевич": 107,
-      "Путин Владимир Владимирович": 578
+      "gas:candidate-vibid:100100032152680": 98,
+      "gas:candidate-vibid:100100032159240": 234,
+      "gas:candidate-vibid:100100032143255": 60,
+      "gas:candidate-vibid:100100032152563": 107,
+      "gas:candidate-vibid:100100032111402": 578
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/krasnoyarsk?action=show&root=1000008&tvd=2242000455406&vrn=100100031793505&region=24&global=&sub_region=24&prver=0&pronetvd=null&vibid=2242000455406&type=227",
@@ -9938,11 +9938,11 @@ export const president_2012_uik_226_region_24_part_005 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Жириновский Владимир Вольфович": 75,
-      "Зюганов Геннадий Андреевич": 234,
-      "Миронов Сергей Михайлович": 48,
-      "Прохоров Михаил Дмитриевич": 129,
-      "Путин Владимир Владимирович": 565
+      "gas:candidate-vibid:100100032152680": 75,
+      "gas:candidate-vibid:100100032159240": 234,
+      "gas:candidate-vibid:100100032143255": 48,
+      "gas:candidate-vibid:100100032152563": 129,
+      "gas:candidate-vibid:100100032111402": 565
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/krasnoyarsk?action=show&root=1000008&tvd=2242000455406&vrn=100100031793505&region=24&global=&sub_region=24&prver=0&pronetvd=null&vibid=2242000455406&type=227",
@@ -9988,11 +9988,11 @@ export const president_2012_uik_226_region_24_part_005 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Жириновский Владимир Вольфович": 88,
-      "Зюганов Геннадий Андреевич": 212,
-      "Миронов Сергей Михайлович": 65,
-      "Прохоров Михаил Дмитриевич": 114,
-      "Путин Владимир Владимирович": 570
+      "gas:candidate-vibid:100100032152680": 88,
+      "gas:candidate-vibid:100100032159240": 212,
+      "gas:candidate-vibid:100100032143255": 65,
+      "gas:candidate-vibid:100100032152563": 114,
+      "gas:candidate-vibid:100100032111402": 570
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/krasnoyarsk?action=show&root=1000008&tvd=2242000455406&vrn=100100031793505&region=24&global=&sub_region=24&prver=0&pronetvd=null&vibid=2242000455406&type=227",
@@ -10038,11 +10038,11 @@ export const president_2012_uik_226_region_24_part_005 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Жириновский Владимир Вольфович": 106,
-      "Зюганов Геннадий Андреевич": 221,
-      "Миронов Сергей Михайлович": 46,
-      "Прохоров Михаил Дмитриевич": 134,
-      "Путин Владимир Владимирович": 659
+      "gas:candidate-vibid:100100032152680": 106,
+      "gas:candidate-vibid:100100032159240": 221,
+      "gas:candidate-vibid:100100032143255": 46,
+      "gas:candidate-vibid:100100032152563": 134,
+      "gas:candidate-vibid:100100032111402": 659
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/krasnoyarsk?action=show&root=1000008&tvd=2242000455406&vrn=100100031793505&region=24&global=&sub_region=24&prver=0&pronetvd=null&vibid=2242000455406&type=227",
@@ -10088,11 +10088,11 @@ export const president_2012_uik_226_region_24_part_005 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Жириновский Владимир Вольфович": 91,
-      "Зюганов Геннадий Андреевич": 179,
-      "Миронов Сергей Михайлович": 40,
-      "Прохоров Михаил Дмитриевич": 87,
-      "Путин Владимир Владимирович": 530
+      "gas:candidate-vibid:100100032152680": 91,
+      "gas:candidate-vibid:100100032159240": 179,
+      "gas:candidate-vibid:100100032143255": 40,
+      "gas:candidate-vibid:100100032152563": 87,
+      "gas:candidate-vibid:100100032111402": 530
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/krasnoyarsk?action=show&root=1000008&tvd=2242000455406&vrn=100100031793505&region=24&global=&sub_region=24&prver=0&pronetvd=null&vibid=2242000455406&type=227",
@@ -10138,11 +10138,11 @@ export const president_2012_uik_226_region_24_part_005 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Жириновский Владимир Вольфович": 84,
-      "Зюганов Геннадий Андреевич": 163,
-      "Миронов Сергей Михайлович": 43,
-      "Прохоров Михаил Дмитриевич": 90,
-      "Путин Владимир Владимирович": 522
+      "gas:candidate-vibid:100100032152680": 84,
+      "gas:candidate-vibid:100100032159240": 163,
+      "gas:candidate-vibid:100100032143255": 43,
+      "gas:candidate-vibid:100100032152563": 90,
+      "gas:candidate-vibid:100100032111402": 522
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/krasnoyarsk?action=show&root=1000008&tvd=2242000455406&vrn=100100031793505&region=24&global=&sub_region=24&prver=0&pronetvd=null&vibid=2242000455406&type=227",
@@ -10188,11 +10188,11 @@ export const president_2012_uik_226_region_24_part_005 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Жириновский Владимир Вольфович": 113,
-      "Зюганов Геннадий Андреевич": 152,
-      "Миронов Сергей Михайлович": 42,
-      "Прохоров Михаил Дмитриевич": 95,
-      "Путин Владимир Владимирович": 540
+      "gas:candidate-vibid:100100032152680": 113,
+      "gas:candidate-vibid:100100032159240": 152,
+      "gas:candidate-vibid:100100032143255": 42,
+      "gas:candidate-vibid:100100032152563": 95,
+      "gas:candidate-vibid:100100032111402": 540
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/krasnoyarsk?action=show&root=1000008&tvd=2242000455406&vrn=100100031793505&region=24&global=&sub_region=24&prver=0&pronetvd=null&vibid=2242000455406&type=227",
@@ -10238,11 +10238,11 @@ export const president_2012_uik_226_region_24_part_005 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Жириновский Владимир Вольфович": 101,
-      "Зюганов Геннадий Андреевич": 246,
-      "Миронов Сергей Михайлович": 61,
-      "Прохоров Михаил Дмитриевич": 145,
-      "Путин Владимир Владимирович": 674
+      "gas:candidate-vibid:100100032152680": 101,
+      "gas:candidate-vibid:100100032159240": 246,
+      "gas:candidate-vibid:100100032143255": 61,
+      "gas:candidate-vibid:100100032152563": 145,
+      "gas:candidate-vibid:100100032111402": 674
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/krasnoyarsk?action=show&root=1000008&tvd=2242000455406&vrn=100100031793505&region=24&global=&sub_region=24&prver=0&pronetvd=null&vibid=2242000455406&type=227",
@@ -10288,11 +10288,11 @@ export const president_2012_uik_226_region_24_part_005 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Жириновский Владимир Вольфович": 64,
-      "Зюганов Геннадий Андреевич": 140,
-      "Миронов Сергей Михайлович": 43,
-      "Прохоров Михаил Дмитриевич": 139,
-      "Путин Владимир Владимирович": 405
+      "gas:candidate-vibid:100100032152680": 64,
+      "gas:candidate-vibid:100100032159240": 140,
+      "gas:candidate-vibid:100100032143255": 43,
+      "gas:candidate-vibid:100100032152563": 139,
+      "gas:candidate-vibid:100100032111402": 405
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/krasnoyarsk?action=show&root=1000008&tvd=2242000455406&vrn=100100031793505&region=24&global=&sub_region=24&prver=0&pronetvd=null&vibid=2242000455406&type=227",
@@ -10338,11 +10338,11 @@ export const president_2012_uik_226_region_24_part_005 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Жириновский Владимир Вольфович": 62,
-      "Зюганов Геннадий Андреевич": 183,
-      "Миронов Сергей Михайлович": 60,
-      "Прохоров Михаил Дмитриевич": 99,
-      "Путин Владимир Владимирович": 392
+      "gas:candidate-vibid:100100032152680": 62,
+      "gas:candidate-vibid:100100032159240": 183,
+      "gas:candidate-vibid:100100032143255": 60,
+      "gas:candidate-vibid:100100032152563": 99,
+      "gas:candidate-vibid:100100032111402": 392
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/krasnoyarsk?action=show&root=1000008&tvd=2242000455406&vrn=100100031793505&region=24&global=&sub_region=24&prver=0&pronetvd=null&vibid=2242000455406&type=227",
@@ -10388,11 +10388,11 @@ export const president_2012_uik_226_region_24_part_005 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Жириновский Владимир Вольфович": 85,
-      "Зюганов Геннадий Андреевич": 179,
-      "Миронов Сергей Михайлович": 30,
-      "Прохоров Михаил Дмитриевич": 95,
-      "Путин Владимир Владимирович": 531
+      "gas:candidate-vibid:100100032152680": 85,
+      "gas:candidate-vibid:100100032159240": 179,
+      "gas:candidate-vibid:100100032143255": 30,
+      "gas:candidate-vibid:100100032152563": 95,
+      "gas:candidate-vibid:100100032111402": 531
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/krasnoyarsk?action=show&root=1000008&tvd=2242000455406&vrn=100100031793505&region=24&global=&sub_region=24&prver=0&pronetvd=null&vibid=2242000455406&type=227",
@@ -10438,11 +10438,11 @@ export const president_2012_uik_226_region_24_part_005 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Жириновский Владимир Вольфович": 118,
-      "Зюганов Геннадий Андреевич": 286,
-      "Миронов Сергей Михайлович": 69,
-      "Прохоров Михаил Дмитриевич": 129,
-      "Путин Владимир Владимирович": 744
+      "gas:candidate-vibid:100100032152680": 118,
+      "gas:candidate-vibid:100100032159240": 286,
+      "gas:candidate-vibid:100100032143255": 69,
+      "gas:candidate-vibid:100100032152563": 129,
+      "gas:candidate-vibid:100100032111402": 744
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/krasnoyarsk?action=show&root=1000008&tvd=2242000455406&vrn=100100031793505&region=24&global=&sub_region=24&prver=0&pronetvd=null&vibid=2242000455406&type=227",
@@ -10488,11 +10488,11 @@ export const president_2012_uik_226_region_24_part_005 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Жириновский Владимир Вольфович": 11,
-      "Зюганов Геннадий Андреевич": 30,
-      "Миронов Сергей Михайлович": 7,
-      "Прохоров Михаил Дмитриевич": 10,
-      "Путин Владимир Владимирович": 108
+      "gas:candidate-vibid:100100032152680": 11,
+      "gas:candidate-vibid:100100032159240": 30,
+      "gas:candidate-vibid:100100032143255": 7,
+      "gas:candidate-vibid:100100032152563": 10,
+      "gas:candidate-vibid:100100032111402": 108
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/krasnoyarsk?action=show&root=1000008&tvd=2242000455406&vrn=100100031793505&region=24&global=&sub_region=24&prver=0&pronetvd=null&vibid=2242000455406&type=227",
@@ -10538,11 +10538,11 @@ export const president_2012_uik_226_region_24_part_005 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Жириновский Владимир Вольфович": 109,
-      "Зюганов Геннадий Андреевич": 285,
-      "Миронов Сергей Михайлович": 60,
-      "Прохоров Михаил Дмитриевич": 164,
-      "Путин Владимир Владимирович": 679
+      "gas:candidate-vibid:100100032152680": 109,
+      "gas:candidate-vibid:100100032159240": 285,
+      "gas:candidate-vibid:100100032143255": 60,
+      "gas:candidate-vibid:100100032152563": 164,
+      "gas:candidate-vibid:100100032111402": 679
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/krasnoyarsk?action=show&root=1000008&tvd=2242000455406&vrn=100100031793505&region=24&global=&sub_region=24&prver=0&pronetvd=null&vibid=2242000455406&type=227",
@@ -10588,11 +10588,11 @@ export const president_2012_uik_226_region_24_part_005 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Жириновский Владимир Вольфович": 132,
-      "Зюганов Геннадий Андреевич": 372,
-      "Миронов Сергей Михайлович": 65,
-      "Прохоров Михаил Дмитриевич": 168,
-      "Путин Владимир Владимирович": 775
+      "gas:candidate-vibid:100100032152680": 132,
+      "gas:candidate-vibid:100100032159240": 372,
+      "gas:candidate-vibid:100100032143255": 65,
+      "gas:candidate-vibid:100100032152563": 168,
+      "gas:candidate-vibid:100100032111402": 775
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/krasnoyarsk?action=show&root=1000008&tvd=2242000455406&vrn=100100031793505&region=24&global=&sub_region=24&prver=0&pronetvd=null&vibid=2242000455406&type=227",
@@ -10638,11 +10638,11 @@ export const president_2012_uik_226_region_24_part_005 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Жириновский Владимир Вольфович": 123,
-      "Зюганов Геннадий Андреевич": 397,
-      "Миронов Сергей Михайлович": 91,
-      "Прохоров Михаил Дмитриевич": 185,
-      "Путин Владимир Владимирович": 834
+      "gas:candidate-vibid:100100032152680": 123,
+      "gas:candidate-vibid:100100032159240": 397,
+      "gas:candidate-vibid:100100032143255": 91,
+      "gas:candidate-vibid:100100032152563": 185,
+      "gas:candidate-vibid:100100032111402": 834
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/krasnoyarsk?action=show&root=1000008&tvd=2242000455406&vrn=100100031793505&region=24&global=&sub_region=24&prver=0&pronetvd=null&vibid=2242000455406&type=227",
@@ -10688,11 +10688,11 @@ export const president_2012_uik_226_region_24_part_005 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Жириновский Владимир Вольфович": 83,
-      "Зюганов Геннадий Андреевич": 116,
-      "Миронов Сергей Михайлович": 53,
-      "Прохоров Михаил Дмитриевич": 124,
-      "Путин Владимир Владимирович": 736
+      "gas:candidate-vibid:100100032152680": 83,
+      "gas:candidate-vibid:100100032159240": 116,
+      "gas:candidate-vibid:100100032143255": 53,
+      "gas:candidate-vibid:100100032152563": 124,
+      "gas:candidate-vibid:100100032111402": 736
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/krasnoyarsk?action=show&root=1000008&tvd=2242000455406&vrn=100100031793505&region=24&global=&sub_region=24&prver=0&pronetvd=null&vibid=2242000455406&type=227",
@@ -10738,11 +10738,11 @@ export const president_2012_uik_226_region_24_part_005 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Жириновский Владимир Вольфович": 103,
-      "Зюганов Геннадий Андреевич": 188,
-      "Миронов Сергей Михайлович": 35,
-      "Прохоров Михаил Дмитриевич": 61,
-      "Путин Владимир Владимирович": 591
+      "gas:candidate-vibid:100100032152680": 103,
+      "gas:candidate-vibid:100100032159240": 188,
+      "gas:candidate-vibid:100100032143255": 35,
+      "gas:candidate-vibid:100100032152563": 61,
+      "gas:candidate-vibid:100100032111402": 591
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/krasnoyarsk?action=show&root=1000008&tvd=2242000455406&vrn=100100031793505&region=24&global=&sub_region=24&prver=0&pronetvd=null&vibid=2242000455406&type=227",
@@ -10788,11 +10788,11 @@ export const president_2012_uik_226_region_24_part_005 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Жириновский Владимир Вольфович": 122,
-      "Зюганов Геннадий Андреевич": 214,
-      "Миронов Сергей Михайлович": 46,
-      "Прохоров Михаил Дмитриевич": 73,
-      "Путин Владимир Владимирович": 695
+      "gas:candidate-vibid:100100032152680": 122,
+      "gas:candidate-vibid:100100032159240": 214,
+      "gas:candidate-vibid:100100032143255": 46,
+      "gas:candidate-vibid:100100032152563": 73,
+      "gas:candidate-vibid:100100032111402": 695
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/krasnoyarsk?action=show&root=1000008&tvd=2242000455406&vrn=100100031793505&region=24&global=&sub_region=24&prver=0&pronetvd=null&vibid=2242000455406&type=227",
@@ -10838,11 +10838,11 @@ export const president_2012_uik_226_region_24_part_005 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Жириновский Владимир Вольфович": 136,
-      "Зюганов Геннадий Андреевич": 238,
-      "Миронов Сергей Михайлович": 60,
-      "Прохоров Михаил Дмитриевич": 102,
-      "Путин Владимир Владимирович": 697
+      "gas:candidate-vibid:100100032152680": 136,
+      "gas:candidate-vibid:100100032159240": 238,
+      "gas:candidate-vibid:100100032143255": 60,
+      "gas:candidate-vibid:100100032152563": 102,
+      "gas:candidate-vibid:100100032111402": 697
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/krasnoyarsk?action=show&root=1000008&tvd=2242000455406&vrn=100100031793505&region=24&global=&sub_region=24&prver=0&pronetvd=null&vibid=2242000455406&type=227",
@@ -10888,11 +10888,11 @@ export const president_2012_uik_226_region_24_part_005 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Жириновский Владимир Вольфович": 78,
-      "Зюганов Геннадий Андреевич": 157,
-      "Миронов Сергей Михайлович": 32,
-      "Прохоров Михаил Дмитриевич": 74,
-      "Путин Владимир Владимирович": 492
+      "gas:candidate-vibid:100100032152680": 78,
+      "gas:candidate-vibid:100100032159240": 157,
+      "gas:candidate-vibid:100100032143255": 32,
+      "gas:candidate-vibid:100100032152563": 74,
+      "gas:candidate-vibid:100100032111402": 492
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/krasnoyarsk?action=show&root=1000008&tvd=2242000455406&vrn=100100031793505&region=24&global=&sub_region=24&prver=0&pronetvd=null&vibid=2242000455406&type=227",
@@ -10938,11 +10938,11 @@ export const president_2012_uik_226_region_24_part_005 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Жириновский Владимир Вольфович": 111,
-      "Зюганов Геннадий Андреевич": 147,
-      "Миронов Сергей Михайлович": 33,
-      "Прохоров Михаил Дмитриевич": 70,
-      "Путин Владимир Владимирович": 441
+      "gas:candidate-vibid:100100032152680": 111,
+      "gas:candidate-vibid:100100032159240": 147,
+      "gas:candidate-vibid:100100032143255": 33,
+      "gas:candidate-vibid:100100032152563": 70,
+      "gas:candidate-vibid:100100032111402": 441
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/krasnoyarsk?action=show&root=1000008&tvd=2242000455406&vrn=100100031793505&region=24&global=&sub_region=24&prver=0&pronetvd=null&vibid=2242000455406&type=227",
@@ -10988,11 +10988,11 @@ export const president_2012_uik_226_region_24_part_005 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Жириновский Владимир Вольфович": 94,
-      "Зюганов Геннадий Андреевич": 147,
-      "Миронов Сергей Михайлович": 20,
-      "Прохоров Михаил Дмитриевич": 71,
-      "Путин Владимир Владимирович": 571
+      "gas:candidate-vibid:100100032152680": 94,
+      "gas:candidate-vibid:100100032159240": 147,
+      "gas:candidate-vibid:100100032143255": 20,
+      "gas:candidate-vibid:100100032152563": 71,
+      "gas:candidate-vibid:100100032111402": 571
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/krasnoyarsk?action=show&root=1000008&tvd=2242000455406&vrn=100100031793505&region=24&global=&sub_region=24&prver=0&pronetvd=null&vibid=2242000455406&type=227",
@@ -11038,11 +11038,11 @@ export const president_2012_uik_226_region_24_part_005 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Жириновский Владимир Вольфович": 126,
-      "Зюганов Геннадий Андреевич": 170,
-      "Миронов Сергей Михайлович": 27,
-      "Прохоров Михаил Дмитриевич": 83,
-      "Путин Владимир Владимирович": 678
+      "gas:candidate-vibid:100100032152680": 126,
+      "gas:candidate-vibid:100100032159240": 170,
+      "gas:candidate-vibid:100100032143255": 27,
+      "gas:candidate-vibid:100100032152563": 83,
+      "gas:candidate-vibid:100100032111402": 678
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/krasnoyarsk?action=show&root=1000008&tvd=2242000455406&vrn=100100031793505&region=24&global=&sub_region=24&prver=0&pronetvd=null&vibid=2242000455406&type=227",
@@ -11088,11 +11088,11 @@ export const president_2012_uik_226_region_24_part_005 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Жириновский Владимир Вольфович": 121,
-      "Зюганов Геннадий Андреевич": 231,
-      "Миронов Сергей Михайлович": 56,
-      "Прохоров Михаил Дмитриевич": 77,
-      "Путин Владимир Владимирович": 673
+      "gas:candidate-vibid:100100032152680": 121,
+      "gas:candidate-vibid:100100032159240": 231,
+      "gas:candidate-vibid:100100032143255": 56,
+      "gas:candidate-vibid:100100032152563": 77,
+      "gas:candidate-vibid:100100032111402": 673
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/krasnoyarsk?action=show&root=1000008&tvd=2242000455406&vrn=100100031793505&region=24&global=&sub_region=24&prver=0&pronetvd=null&vibid=2242000455406&type=227",
@@ -11138,11 +11138,11 @@ export const president_2012_uik_226_region_24_part_005 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Жириновский Владимир Вольфович": 112,
-      "Зюганов Геннадий Андреевич": 153,
-      "Миронов Сергей Михайлович": 41,
-      "Прохоров Михаил Дмитриевич": 104,
-      "Путин Владимир Владимирович": 587
+      "gas:candidate-vibid:100100032152680": 112,
+      "gas:candidate-vibid:100100032159240": 153,
+      "gas:candidate-vibid:100100032143255": 41,
+      "gas:candidate-vibid:100100032152563": 104,
+      "gas:candidate-vibid:100100032111402": 587
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/krasnoyarsk?action=show&root=1000008&tvd=2242000455406&vrn=100100031793505&region=24&global=&sub_region=24&prver=0&pronetvd=null&vibid=2242000455406&type=227",
@@ -11188,11 +11188,11 @@ export const president_2012_uik_226_region_24_part_005 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Жириновский Владимир Вольфович": 127,
-      "Зюганов Геннадий Андреевич": 188,
-      "Миронов Сергей Михайлович": 40,
-      "Прохоров Михаил Дмитриевич": 63,
-      "Путин Владимир Владимирович": 535
+      "gas:candidate-vibid:100100032152680": 127,
+      "gas:candidate-vibid:100100032159240": 188,
+      "gas:candidate-vibid:100100032143255": 40,
+      "gas:candidate-vibid:100100032152563": 63,
+      "gas:candidate-vibid:100100032111402": 535
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/krasnoyarsk?action=show&root=1000008&tvd=2242000455406&vrn=100100031793505&region=24&global=&sub_region=24&prver=0&pronetvd=null&vibid=2242000455406&type=227",
@@ -11238,11 +11238,11 @@ export const president_2012_uik_226_region_24_part_005 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Жириновский Владимир Вольфович": 89,
-      "Зюганов Геннадий Андреевич": 228,
-      "Миронов Сергей Михайлович": 33,
-      "Прохоров Михаил Дмитриевич": 75,
-      "Путин Владимир Владимирович": 577
+      "gas:candidate-vibid:100100032152680": 89,
+      "gas:candidate-vibid:100100032159240": 228,
+      "gas:candidate-vibid:100100032143255": 33,
+      "gas:candidate-vibid:100100032152563": 75,
+      "gas:candidate-vibid:100100032111402": 577
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/krasnoyarsk?action=show&root=1000008&tvd=2242000455406&vrn=100100031793505&region=24&global=&sub_region=24&prver=0&pronetvd=null&vibid=2242000455406&type=227",
@@ -11288,11 +11288,11 @@ export const president_2012_uik_226_region_24_part_005 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Жириновский Владимир Вольфович": 137,
-      "Зюганов Геннадий Андреевич": 231,
-      "Миронов Сергей Михайлович": 42,
-      "Прохоров Михаил Дмитриевич": 95,
-      "Путин Владимир Владимирович": 533
+      "gas:candidate-vibid:100100032152680": 137,
+      "gas:candidate-vibid:100100032159240": 231,
+      "gas:candidate-vibid:100100032143255": 42,
+      "gas:candidate-vibid:100100032152563": 95,
+      "gas:candidate-vibid:100100032111402": 533
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/krasnoyarsk?action=show&root=1000008&tvd=2242000455406&vrn=100100031793505&region=24&global=&sub_region=24&prver=0&pronetvd=null&vibid=2242000455406&type=227",
@@ -11338,11 +11338,11 @@ export const president_2012_uik_226_region_24_part_005 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Жириновский Владимир Вольфович": 133,
-      "Зюганов Геннадий Андреевич": 169,
-      "Миронов Сергей Михайлович": 35,
-      "Прохоров Михаил Дмитриевич": 33,
-      "Путин Владимир Владимирович": 804
+      "gas:candidate-vibid:100100032152680": 133,
+      "gas:candidate-vibid:100100032159240": 169,
+      "gas:candidate-vibid:100100032143255": 35,
+      "gas:candidate-vibid:100100032152563": 33,
+      "gas:candidate-vibid:100100032111402": 804
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/krasnoyarsk?action=show&root=1000008&tvd=2242000455406&vrn=100100031793505&region=24&global=&sub_region=24&prver=0&pronetvd=null&vibid=2242000455406&type=227",
@@ -11388,11 +11388,11 @@ export const president_2012_uik_226_region_24_part_005 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Жириновский Владимир Вольфович": 135,
-      "Зюганов Геннадий Андреевич": 240,
-      "Миронов Сергей Михайлович": 39,
-      "Прохоров Михаил Дмитриевич": 88,
-      "Путин Владимир Владимирович": 618
+      "gas:candidate-vibid:100100032152680": 135,
+      "gas:candidate-vibid:100100032159240": 240,
+      "gas:candidate-vibid:100100032143255": 39,
+      "gas:candidate-vibid:100100032152563": 88,
+      "gas:candidate-vibid:100100032111402": 618
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/krasnoyarsk?action=show&root=1000008&tvd=2242000455406&vrn=100100031793505&region=24&global=&sub_region=24&prver=0&pronetvd=null&vibid=2242000455406&type=227",
@@ -11438,11 +11438,11 @@ export const president_2012_uik_226_region_24_part_005 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Жириновский Владимир Вольфович": 121,
-      "Зюганов Геннадий Андреевич": 231,
-      "Миронов Сергей Михайлович": 42,
-      "Прохоров Михаил Дмитриевич": 78,
-      "Путин Владимир Владимирович": 750
+      "gas:candidate-vibid:100100032152680": 121,
+      "gas:candidate-vibid:100100032159240": 231,
+      "gas:candidate-vibid:100100032143255": 42,
+      "gas:candidate-vibid:100100032152563": 78,
+      "gas:candidate-vibid:100100032111402": 750
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/krasnoyarsk?action=show&root=1000008&tvd=2242000455406&vrn=100100031793505&region=24&global=&sub_region=24&prver=0&pronetvd=null&vibid=2242000455406&type=227",
@@ -11488,11 +11488,11 @@ export const president_2012_uik_226_region_24_part_005 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Жириновский Владимир Вольфович": 87,
-      "Зюганов Геннадий Андреевич": 183,
-      "Миронов Сергей Михайлович": 43,
-      "Прохоров Михаил Дмитриевич": 70,
-      "Путин Владимир Владимирович": 555
+      "gas:candidate-vibid:100100032152680": 87,
+      "gas:candidate-vibid:100100032159240": 183,
+      "gas:candidate-vibid:100100032143255": 43,
+      "gas:candidate-vibid:100100032152563": 70,
+      "gas:candidate-vibid:100100032111402": 555
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/krasnoyarsk?action=show&root=1000008&tvd=2242000455406&vrn=100100031793505&region=24&global=&sub_region=24&prver=0&pronetvd=null&vibid=2242000455406&type=227",
@@ -11538,11 +11538,11 @@ export const president_2012_uik_226_region_24_part_005 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Жириновский Владимир Вольфович": 136,
-      "Зюганов Геннадий Андреевич": 224,
-      "Миронов Сергей Михайлович": 49,
-      "Прохоров Михаил Дмитриевич": 88,
-      "Путин Владимир Владимирович": 607
+      "gas:candidate-vibid:100100032152680": 136,
+      "gas:candidate-vibid:100100032159240": 224,
+      "gas:candidate-vibid:100100032143255": 49,
+      "gas:candidate-vibid:100100032152563": 88,
+      "gas:candidate-vibid:100100032111402": 607
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/krasnoyarsk?action=show&root=1000008&tvd=2242000455406&vrn=100100031793505&region=24&global=&sub_region=24&prver=0&pronetvd=null&vibid=2242000455406&type=227",
@@ -11588,11 +11588,11 @@ export const president_2012_uik_226_region_24_part_005 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Жириновский Владимир Вольфович": 109,
-      "Зюганов Геннадий Андреевич": 204,
-      "Миронов Сергей Михайлович": 40,
-      "Прохоров Михаил Дмитриевич": 88,
-      "Путин Владимир Владимирович": 594
+      "gas:candidate-vibid:100100032152680": 109,
+      "gas:candidate-vibid:100100032159240": 204,
+      "gas:candidate-vibid:100100032143255": 40,
+      "gas:candidate-vibid:100100032152563": 88,
+      "gas:candidate-vibid:100100032111402": 594
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/krasnoyarsk?action=show&root=1000008&tvd=2242000455406&vrn=100100031793505&region=24&global=&sub_region=24&prver=0&pronetvd=null&vibid=2242000455406&type=227",
@@ -11638,11 +11638,11 @@ export const president_2012_uik_226_region_24_part_005 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Жириновский Владимир Вольфович": 140,
-      "Зюганов Геннадий Андреевич": 263,
-      "Миронов Сергей Михайлович": 38,
-      "Прохоров Михаил Дмитриевич": 94,
-      "Путин Владимир Владимирович": 716
+      "gas:candidate-vibid:100100032152680": 140,
+      "gas:candidate-vibid:100100032159240": 263,
+      "gas:candidate-vibid:100100032143255": 38,
+      "gas:candidate-vibid:100100032152563": 94,
+      "gas:candidate-vibid:100100032111402": 716
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/krasnoyarsk?action=show&root=1000008&tvd=2242000455406&vrn=100100031793505&region=24&global=&sub_region=24&prver=0&pronetvd=null&vibid=2242000455406&type=227",
@@ -11688,11 +11688,11 @@ export const president_2012_uik_226_region_24_part_005 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Жириновский Владимир Вольфович": 137,
-      "Зюганов Геннадий Андреевич": 329,
-      "Миронов Сергей Михайлович": 66,
-      "Прохоров Михаил Дмитриевич": 126,
-      "Путин Владимир Владимирович": 791
+      "gas:candidate-vibid:100100032152680": 137,
+      "gas:candidate-vibid:100100032159240": 329,
+      "gas:candidate-vibid:100100032143255": 66,
+      "gas:candidate-vibid:100100032152563": 126,
+      "gas:candidate-vibid:100100032111402": 791
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/krasnoyarsk?action=show&root=1000008&tvd=2242000455406&vrn=100100031793505&region=24&global=&sub_region=24&prver=0&pronetvd=null&vibid=2242000455406&type=227",
@@ -11738,11 +11738,11 @@ export const president_2012_uik_226_region_24_part_005 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Жириновский Владимир Вольфович": 119,
-      "Зюганов Геннадий Андреевич": 264,
-      "Миронов Сергей Михайлович": 51,
-      "Прохоров Михаил Дмитриевич": 106,
-      "Путин Владимир Владимирович": 696
+      "gas:candidate-vibid:100100032152680": 119,
+      "gas:candidate-vibid:100100032159240": 264,
+      "gas:candidate-vibid:100100032143255": 51,
+      "gas:candidate-vibid:100100032152563": 106,
+      "gas:candidate-vibid:100100032111402": 696
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/krasnoyarsk?action=show&root=1000008&tvd=2242000455406&vrn=100100031793505&region=24&global=&sub_region=24&prver=0&pronetvd=null&vibid=2242000455406&type=227",
@@ -11788,11 +11788,11 @@ export const president_2012_uik_226_region_24_part_005 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Жириновский Владимир Вольфович": 101,
-      "Зюганов Геннадий Андреевич": 269,
-      "Миронов Сергей Михайлович": 45,
-      "Прохоров Михаил Дмитриевич": 114,
-      "Путин Владимир Владимирович": 798
+      "gas:candidate-vibid:100100032152680": 101,
+      "gas:candidate-vibid:100100032159240": 269,
+      "gas:candidate-vibid:100100032143255": 45,
+      "gas:candidate-vibid:100100032152563": 114,
+      "gas:candidate-vibid:100100032111402": 798
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/krasnoyarsk?action=show&root=1000008&tvd=2242000455406&vrn=100100031793505&region=24&global=&sub_region=24&prver=0&pronetvd=null&vibid=2242000455406&type=227",
@@ -11838,11 +11838,11 @@ export const president_2012_uik_226_region_24_part_005 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Жириновский Владимир Вольфович": 118,
-      "Зюганов Геннадий Андреевич": 160,
-      "Миронов Сергей Михайлович": 52,
-      "Прохоров Михаил Дмитриевич": 79,
-      "Путин Владимир Владимирович": 509
+      "gas:candidate-vibid:100100032152680": 118,
+      "gas:candidate-vibid:100100032159240": 160,
+      "gas:candidate-vibid:100100032143255": 52,
+      "gas:candidate-vibid:100100032152563": 79,
+      "gas:candidate-vibid:100100032111402": 509
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/krasnoyarsk?action=show&root=1000008&tvd=2242000455406&vrn=100100031793505&region=24&global=&sub_region=24&prver=0&pronetvd=null&vibid=2242000455406&type=227",
@@ -11888,11 +11888,11 @@ export const president_2012_uik_226_region_24_part_005 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Жириновский Владимир Вольфович": 108,
-      "Зюганов Геннадий Андреевич": 229,
-      "Миронов Сергей Михайлович": 43,
-      "Прохоров Михаил Дмитриевич": 81,
-      "Путин Владимир Владимирович": 590
+      "gas:candidate-vibid:100100032152680": 108,
+      "gas:candidate-vibid:100100032159240": 229,
+      "gas:candidate-vibid:100100032143255": 43,
+      "gas:candidate-vibid:100100032152563": 81,
+      "gas:candidate-vibid:100100032111402": 590
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/krasnoyarsk?action=show&root=1000008&tvd=2242000455406&vrn=100100031793505&region=24&global=&sub_region=24&prver=0&pronetvd=null&vibid=2242000455406&type=227",
@@ -11938,11 +11938,11 @@ export const president_2012_uik_226_region_24_part_005 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Жириновский Владимир Вольфович": 103,
-      "Зюганов Геннадий Андреевич": 247,
-      "Миронов Сергей Михайлович": 43,
-      "Прохоров Михаил Дмитриевич": 97,
-      "Путин Владимир Владимирович": 679
+      "gas:candidate-vibid:100100032152680": 103,
+      "gas:candidate-vibid:100100032159240": 247,
+      "gas:candidate-vibid:100100032143255": 43,
+      "gas:candidate-vibid:100100032152563": 97,
+      "gas:candidate-vibid:100100032111402": 679
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/krasnoyarsk?action=show&root=1000008&tvd=2242000455406&vrn=100100031793505&region=24&global=&sub_region=24&prver=0&pronetvd=null&vibid=2242000455406&type=227",
@@ -11988,11 +11988,11 @@ export const president_2012_uik_226_region_24_part_005 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Жириновский Владимир Вольфович": 113,
-      "Зюганов Геннадий Андреевич": 142,
-      "Миронов Сергей Михайлович": 25,
-      "Прохоров Михаил Дмитриевич": 60,
-      "Путин Владимир Владимирович": 456
+      "gas:candidate-vibid:100100032152680": 113,
+      "gas:candidate-vibid:100100032159240": 142,
+      "gas:candidate-vibid:100100032143255": 25,
+      "gas:candidate-vibid:100100032152563": 60,
+      "gas:candidate-vibid:100100032111402": 456
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/krasnoyarsk?action=show&root=1000008&tvd=2242000455406&vrn=100100031793505&region=24&global=&sub_region=24&prver=0&pronetvd=null&vibid=2242000455406&type=227",
@@ -12038,11 +12038,11 @@ export const president_2012_uik_226_region_24_part_005 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Жириновский Владимир Вольфович": 99,
-      "Зюганов Геннадий Андреевич": 258,
-      "Миронов Сергей Михайлович": 57,
-      "Прохоров Михаил Дмитриевич": 98,
-      "Путин Владимир Владимирович": 679
+      "gas:candidate-vibid:100100032152680": 99,
+      "gas:candidate-vibid:100100032159240": 258,
+      "gas:candidate-vibid:100100032143255": 57,
+      "gas:candidate-vibid:100100032152563": 98,
+      "gas:candidate-vibid:100100032111402": 679
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/krasnoyarsk?action=show&root=1000008&tvd=2242000455406&vrn=100100031793505&region=24&global=&sub_region=24&prver=0&pronetvd=null&vibid=2242000455406&type=227",
@@ -12088,11 +12088,11 @@ export const president_2012_uik_226_region_24_part_005 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Жириновский Владимир Вольфович": 134,
-      "Зюганов Геннадий Андреевич": 302,
-      "Миронов Сергей Михайлович": 49,
-      "Прохоров Михаил Дмитриевич": 125,
-      "Путин Владимир Владимирович": 673
+      "gas:candidate-vibid:100100032152680": 134,
+      "gas:candidate-vibid:100100032159240": 302,
+      "gas:candidate-vibid:100100032143255": 49,
+      "gas:candidate-vibid:100100032152563": 125,
+      "gas:candidate-vibid:100100032111402": 673
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/krasnoyarsk?action=show&root=1000008&tvd=2242000455406&vrn=100100031793505&region=24&global=&sub_region=24&prver=0&pronetvd=null&vibid=2242000455406&type=227",
@@ -12138,11 +12138,11 @@ export const president_2012_uik_226_region_24_part_005 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Жириновский Владимир Вольфович": 116,
-      "Зюганов Геннадий Андреевич": 214,
-      "Миронов Сергей Михайлович": 55,
-      "Прохоров Михаил Дмитриевич": 83,
-      "Путин Владимир Владимирович": 630
+      "gas:candidate-vibid:100100032152680": 116,
+      "gas:candidate-vibid:100100032159240": 214,
+      "gas:candidate-vibid:100100032143255": 55,
+      "gas:candidate-vibid:100100032152563": 83,
+      "gas:candidate-vibid:100100032111402": 630
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/krasnoyarsk?action=show&root=1000008&tvd=2242000455406&vrn=100100031793505&region=24&global=&sub_region=24&prver=0&pronetvd=null&vibid=2242000455406&type=227",
@@ -12188,11 +12188,11 @@ export const president_2012_uik_226_region_24_part_005 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Жириновский Владимир Вольфович": 110,
-      "Зюганов Геннадий Андреевич": 163,
-      "Миронов Сергей Михайлович": 35,
-      "Прохоров Михаил Дмитриевич": 69,
-      "Путин Владимир Владимирович": 617
+      "gas:candidate-vibid:100100032152680": 110,
+      "gas:candidate-vibid:100100032159240": 163,
+      "gas:candidate-vibid:100100032143255": 35,
+      "gas:candidate-vibid:100100032152563": 69,
+      "gas:candidate-vibid:100100032111402": 617
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/krasnoyarsk?action=show&root=1000008&tvd=2242000455406&vrn=100100031793505&region=24&global=&sub_region=24&prver=0&pronetvd=null&vibid=2242000455406&type=227",
@@ -12238,11 +12238,11 @@ export const president_2012_uik_226_region_24_part_005 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Жириновский Владимир Вольфович": 136,
-      "Зюганов Геннадий Андреевич": 247,
-      "Миронов Сергей Михайлович": 42,
-      "Прохоров Михаил Дмитриевич": 110,
-      "Путин Владимир Владимирович": 714
+      "gas:candidate-vibid:100100032152680": 136,
+      "gas:candidate-vibid:100100032159240": 247,
+      "gas:candidate-vibid:100100032143255": 42,
+      "gas:candidate-vibid:100100032152563": 110,
+      "gas:candidate-vibid:100100032111402": 714
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/krasnoyarsk?action=show&root=1000008&tvd=2242000455406&vrn=100100031793505&region=24&global=&sub_region=24&prver=0&pronetvd=null&vibid=2242000455406&type=227",
@@ -12288,11 +12288,11 @@ export const president_2012_uik_226_region_24_part_005 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Жириновский Владимир Вольфович": 61,
-      "Зюганов Геннадий Андреевич": 181,
-      "Миронов Сергей Михайлович": 35,
-      "Прохоров Михаил Дмитриевич": 122,
-      "Путин Владимир Владимирович": 402
+      "gas:candidate-vibid:100100032152680": 61,
+      "gas:candidate-vibid:100100032159240": 181,
+      "gas:candidate-vibid:100100032143255": 35,
+      "gas:candidate-vibid:100100032152563": 122,
+      "gas:candidate-vibid:100100032111402": 402
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/krasnoyarsk?action=show&root=1000008&tvd=2242000455406&vrn=100100031793505&region=24&global=&sub_region=24&prver=0&pronetvd=null&vibid=2242000455406&type=227",
@@ -12338,11 +12338,11 @@ export const president_2012_uik_226_region_24_part_005 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Жириновский Владимир Вольфович": 61,
-      "Зюганов Геннадий Андреевич": 206,
-      "Миронов Сергей Михайлович": 38,
-      "Прохоров Михаил Дмитриевич": 100,
-      "Путин Владимир Владимирович": 439
+      "gas:candidate-vibid:100100032152680": 61,
+      "gas:candidate-vibid:100100032159240": 206,
+      "gas:candidate-vibid:100100032143255": 38,
+      "gas:candidate-vibid:100100032152563": 100,
+      "gas:candidate-vibid:100100032111402": 439
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/krasnoyarsk?action=show&root=1000008&tvd=2242000455406&vrn=100100031793505&region=24&global=&sub_region=24&prver=0&pronetvd=null&vibid=2242000455406&type=227",
@@ -12388,11 +12388,11 @@ export const president_2012_uik_226_region_24_part_005 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Жириновский Владимир Вольфович": 93,
-      "Зюганов Геннадий Андреевич": 202,
-      "Миронов Сергей Михайлович": 41,
-      "Прохоров Михаил Дмитриевич": 83,
-      "Путин Владимир Владимирович": 572
+      "gas:candidate-vibid:100100032152680": 93,
+      "gas:candidate-vibid:100100032159240": 202,
+      "gas:candidate-vibid:100100032143255": 41,
+      "gas:candidate-vibid:100100032152563": 83,
+      "gas:candidate-vibid:100100032111402": 572
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/krasnoyarsk?action=show&root=1000008&tvd=2242000455407&vrn=100100031793505&region=24&global=&sub_region=24&prver=0&pronetvd=null&vibid=2242000455407&type=227",
@@ -12438,11 +12438,11 @@ export const president_2012_uik_226_region_24_part_005 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Жириновский Владимир Вольфович": 88,
-      "Зюганов Геннадий Андреевич": 246,
-      "Миронов Сергей Михайлович": 61,
-      "Прохоров Михаил Дмитриевич": 112,
-      "Путин Владимир Владимирович": 618
+      "gas:candidate-vibid:100100032152680": 88,
+      "gas:candidate-vibid:100100032159240": 246,
+      "gas:candidate-vibid:100100032143255": 61,
+      "gas:candidate-vibid:100100032152563": 112,
+      "gas:candidate-vibid:100100032111402": 618
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/krasnoyarsk?action=show&root=1000008&tvd=2242000455407&vrn=100100031793505&region=24&global=&sub_region=24&prver=0&pronetvd=null&vibid=2242000455407&type=227",
@@ -12488,11 +12488,11 @@ export const president_2012_uik_226_region_24_part_005 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Жириновский Владимир Вольфович": 93,
-      "Зюганов Геннадий Андреевич": 210,
-      "Миронов Сергей Михайлович": 40,
-      "Прохоров Михаил Дмитриевич": 131,
-      "Путин Владимир Владимирович": 616
+      "gas:candidate-vibid:100100032152680": 93,
+      "gas:candidate-vibid:100100032159240": 210,
+      "gas:candidate-vibid:100100032143255": 40,
+      "gas:candidate-vibid:100100032152563": 131,
+      "gas:candidate-vibid:100100032111402": 616
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/krasnoyarsk?action=show&root=1000008&tvd=2242000455407&vrn=100100031793505&region=24&global=&sub_region=24&prver=0&pronetvd=null&vibid=2242000455407&type=227",

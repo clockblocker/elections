@@ -42,12 +42,12 @@ export const duma_2003_uik_428_region_31_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Алтухов Василий Петрович": 90,
-      "Белогуров Борис Сергеевич": 4,
-      "Голиков Георгий Георгиевич": 234,
-      "Зайцев Евгений Николаевич": 8,
-      "Литюк Александр Иванович": 5,
-      "Против всех": 55
+      "gas:candidate-vibid:1001000121833": 90,
+      "gas:candidate-vibid:331300171122": 4,
+      "gas:candidate-vibid:331300171152": 234,
+      "gas:candidate-vibid:1001000195059": 8,
+      "gas:candidate-vibid:1001000136037": 5,
+      "special:against-all": 55
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=313001001&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=331300171016&region=0&sub_region=0&type=429",
@@ -97,12 +97,12 @@ export const duma_2003_uik_428_region_31_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Алтухов Василий Петрович": 133,
-      "Белогуров Борис Сергеевич": 19,
-      "Голиков Георгий Георгиевич": 347,
-      "Зайцев Евгений Николаевич": 10,
-      "Литюк Александр Иванович": 15,
-      "Против всех": 88
+      "gas:candidate-vibid:1001000121833": 133,
+      "gas:candidate-vibid:331300171122": 19,
+      "gas:candidate-vibid:331300171152": 347,
+      "gas:candidate-vibid:1001000195059": 10,
+      "gas:candidate-vibid:1001000136037": 15,
+      "special:against-all": 88
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=313001001&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=331300171016&region=0&sub_region=0&type=429",
@@ -152,12 +152,12 @@ export const duma_2003_uik_428_region_31_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Алтухов Василий Петрович": 239,
-      "Белогуров Борис Сергеевич": 15,
-      "Голиков Георгий Георгиевич": 501,
-      "Зайцев Евгений Николаевич": 10,
-      "Литюк Александр Иванович": 20,
-      "Против всех": 145
+      "gas:candidate-vibid:1001000121833": 239,
+      "gas:candidate-vibid:331300171122": 15,
+      "gas:candidate-vibid:331300171152": 501,
+      "gas:candidate-vibid:1001000195059": 10,
+      "gas:candidate-vibid:1001000136037": 20,
+      "special:against-all": 145
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=313001001&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=331300171016&region=0&sub_region=0&type=429",
@@ -207,12 +207,12 @@ export const duma_2003_uik_428_region_31_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Алтухов Василий Петрович": 14,
-      "Белогуров Борис Сергеевич": 1,
-      "Голиков Георгий Георгиевич": 17,
-      "Зайцев Евгений Николаевич": 0,
-      "Литюк Александр Иванович": 3,
-      "Против всех": 6
+      "gas:candidate-vibid:1001000121833": 14,
+      "gas:candidate-vibid:331300171122": 1,
+      "gas:candidate-vibid:331300171152": 17,
+      "gas:candidate-vibid:1001000195059": 0,
+      "gas:candidate-vibid:1001000136037": 3,
+      "special:against-all": 6
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=313001001&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=331300171016&region=0&sub_region=0&type=429",
@@ -262,12 +262,12 @@ export const duma_2003_uik_428_region_31_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Алтухов Василий Петрович": 264,
-      "Белогуров Борис Сергеевич": 11,
-      "Голиков Георгий Георгиевич": 473,
-      "Зайцев Евгений Николаевич": 11,
-      "Литюк Александр Иванович": 17,
-      "Против всех": 116
+      "gas:candidate-vibid:1001000121833": 264,
+      "gas:candidate-vibid:331300171122": 11,
+      "gas:candidate-vibid:331300171152": 473,
+      "gas:candidate-vibid:1001000195059": 11,
+      "gas:candidate-vibid:1001000136037": 17,
+      "special:against-all": 116
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=313001001&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=331300171016&region=0&sub_region=0&type=429",
@@ -317,12 +317,12 @@ export const duma_2003_uik_428_region_31_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Алтухов Василий Петрович": 199,
-      "Белогуров Борис Сергеевич": 9,
-      "Голиков Георгий Георгиевич": 380,
-      "Зайцев Евгений Николаевич": 9,
-      "Литюк Александр Иванович": 25,
-      "Против всех": 117
+      "gas:candidate-vibid:1001000121833": 199,
+      "gas:candidate-vibid:331300171122": 9,
+      "gas:candidate-vibid:331300171152": 380,
+      "gas:candidate-vibid:1001000195059": 9,
+      "gas:candidate-vibid:1001000136037": 25,
+      "special:against-all": 117
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=313001001&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=331300171016&region=0&sub_region=0&type=429",
@@ -372,12 +372,12 @@ export const duma_2003_uik_428_region_31_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Алтухов Василий Петрович": 214,
-      "Белогуров Борис Сергеевич": 10,
-      "Голиков Георгий Георгиевич": 448,
-      "Зайцев Евгений Николаевич": 7,
-      "Литюк Александр Иванович": 19,
-      "Против всех": 132
+      "gas:candidate-vibid:1001000121833": 214,
+      "gas:candidate-vibid:331300171122": 10,
+      "gas:candidate-vibid:331300171152": 448,
+      "gas:candidate-vibid:1001000195059": 7,
+      "gas:candidate-vibid:1001000136037": 19,
+      "special:against-all": 132
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=313001001&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=331300171016&region=0&sub_region=0&type=429",
@@ -427,12 +427,12 @@ export const duma_2003_uik_428_region_31_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Алтухов Василий Петрович": 182,
-      "Белогуров Борис Сергеевич": 13,
-      "Голиков Георгий Георгиевич": 529,
-      "Зайцев Евгений Николаевич": 14,
-      "Литюк Александр Иванович": 14,
-      "Против всех": 118
+      "gas:candidate-vibid:1001000121833": 182,
+      "gas:candidate-vibid:331300171122": 13,
+      "gas:candidate-vibid:331300171152": 529,
+      "gas:candidate-vibid:1001000195059": 14,
+      "gas:candidate-vibid:1001000136037": 14,
+      "special:against-all": 118
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=313001001&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=331300171016&region=0&sub_region=0&type=429",
@@ -482,12 +482,12 @@ export const duma_2003_uik_428_region_31_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Алтухов Василий Петрович": 226,
-      "Белогуров Борис Сергеевич": 7,
-      "Голиков Георгий Георгиевич": 507,
-      "Зайцев Евгений Николаевич": 5,
-      "Литюк Александр Иванович": 12,
-      "Против всех": 142
+      "gas:candidate-vibid:1001000121833": 226,
+      "gas:candidate-vibid:331300171122": 7,
+      "gas:candidate-vibid:331300171152": 507,
+      "gas:candidate-vibid:1001000195059": 5,
+      "gas:candidate-vibid:1001000136037": 12,
+      "special:against-all": 142
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=313001001&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=331300171016&region=0&sub_region=0&type=429",
@@ -537,12 +537,12 @@ export const duma_2003_uik_428_region_31_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Алтухов Василий Петрович": 204,
-      "Белогуров Борис Сергеевич": 17,
-      "Голиков Георгий Георгиевич": 427,
-      "Зайцев Евгений Николаевич": 11,
-      "Литюк Александр Иванович": 18,
-      "Против всех": 94
+      "gas:candidate-vibid:1001000121833": 204,
+      "gas:candidate-vibid:331300171122": 17,
+      "gas:candidate-vibid:331300171152": 427,
+      "gas:candidate-vibid:1001000195059": 11,
+      "gas:candidate-vibid:1001000136037": 18,
+      "special:against-all": 94
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=313001001&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=331300171016&region=0&sub_region=0&type=429",
@@ -592,12 +592,12 @@ export const duma_2003_uik_428_region_31_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Алтухов Василий Петрович": 102,
-      "Белогуров Борис Сергеевич": 7,
-      "Голиков Георгий Георгиевич": 235,
-      "Зайцев Евгений Николаевич": 15,
-      "Литюк Александр Иванович": 7,
-      "Против всех": 26
+      "gas:candidate-vibid:1001000121833": 102,
+      "gas:candidate-vibid:331300171122": 7,
+      "gas:candidate-vibid:331300171152": 235,
+      "gas:candidate-vibid:1001000195059": 15,
+      "gas:candidate-vibid:1001000136037": 7,
+      "special:against-all": 26
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=313001001&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=331300171016&region=0&sub_region=0&type=429",
@@ -647,12 +647,12 @@ export const duma_2003_uik_428_region_31_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Алтухов Василий Петрович": 56,
-      "Белогуров Борис Сергеевич": 10,
-      "Голиков Георгий Георгиевич": 203,
-      "Зайцев Евгений Николаевич": 6,
-      "Литюк Александр Иванович": 4,
-      "Против всех": 22
+      "gas:candidate-vibid:1001000121833": 56,
+      "gas:candidate-vibid:331300171122": 10,
+      "gas:candidate-vibid:331300171152": 203,
+      "gas:candidate-vibid:1001000195059": 6,
+      "gas:candidate-vibid:1001000136037": 4,
+      "special:against-all": 22
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=313001001&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=331300171016&region=0&sub_region=0&type=429",
@@ -702,12 +702,12 @@ export const duma_2003_uik_428_region_31_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Алтухов Василий Петрович": 26,
-      "Белогуров Борис Сергеевич": 3,
-      "Голиков Георгий Георгиевич": 164,
-      "Зайцев Евгений Николаевич": 1,
-      "Литюк Александр Иванович": 0,
-      "Против всех": 4
+      "gas:candidate-vibid:1001000121833": 26,
+      "gas:candidate-vibid:331300171122": 3,
+      "gas:candidate-vibid:331300171152": 164,
+      "gas:candidate-vibid:1001000195059": 1,
+      "gas:candidate-vibid:1001000136037": 0,
+      "special:against-all": 4
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=313001001&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=331300171016&region=0&sub_region=0&type=429",
@@ -757,12 +757,12 @@ export const duma_2003_uik_428_region_31_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Алтухов Василий Петрович": 61,
-      "Белогуров Борис Сергеевич": 2,
-      "Голиков Георгий Георгиевич": 235,
-      "Зайцев Евгений Николаевич": 4,
-      "Литюк Александр Иванович": 6,
-      "Против всех": 38
+      "gas:candidate-vibid:1001000121833": 61,
+      "gas:candidate-vibid:331300171122": 2,
+      "gas:candidate-vibid:331300171152": 235,
+      "gas:candidate-vibid:1001000195059": 4,
+      "gas:candidate-vibid:1001000136037": 6,
+      "special:against-all": 38
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=313001001&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=331300171016&region=0&sub_region=0&type=429",
@@ -812,12 +812,12 @@ export const duma_2003_uik_428_region_31_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Алтухов Василий Петрович": 66,
-      "Белогуров Борис Сергеевич": 10,
-      "Голиков Георгий Георгиевич": 180,
-      "Зайцев Евгений Николаевич": 11,
-      "Литюк Александр Иванович": 3,
-      "Против всех": 24
+      "gas:candidate-vibid:1001000121833": 66,
+      "gas:candidate-vibid:331300171122": 10,
+      "gas:candidate-vibid:331300171152": 180,
+      "gas:candidate-vibid:1001000195059": 11,
+      "gas:candidate-vibid:1001000136037": 3,
+      "special:against-all": 24
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=313001001&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=331300171016&region=0&sub_region=0&type=429",
@@ -867,12 +867,12 @@ export const duma_2003_uik_428_region_31_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Алтухов Василий Петрович": 170,
-      "Белогуров Борис Сергеевич": 9,
-      "Голиков Георгий Георгиевич": 532,
-      "Зайцев Евгений Николаевич": 24,
-      "Литюк Александр Иванович": 12,
-      "Против всех": 90
+      "gas:candidate-vibid:1001000121833": 170,
+      "gas:candidate-vibid:331300171122": 9,
+      "gas:candidate-vibid:331300171152": 532,
+      "gas:candidate-vibid:1001000195059": 24,
+      "gas:candidate-vibid:1001000136037": 12,
+      "special:against-all": 90
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=313001001&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=331300171016&region=0&sub_region=0&type=429",
@@ -922,12 +922,12 @@ export const duma_2003_uik_428_region_31_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Алтухов Василий Петрович": 13,
-      "Белогуров Борис Сергеевич": 3,
-      "Голиков Георгий Георгиевич": 107,
-      "Зайцев Евгений Николаевич": 2,
-      "Литюк Александр Иванович": 2,
-      "Против всех": 8
+      "gas:candidate-vibid:1001000121833": 13,
+      "gas:candidate-vibid:331300171122": 3,
+      "gas:candidate-vibid:331300171152": 107,
+      "gas:candidate-vibid:1001000195059": 2,
+      "gas:candidate-vibid:1001000136037": 2,
+      "special:against-all": 8
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=313001001&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=331300171016&region=0&sub_region=0&type=429",
@@ -977,12 +977,12 @@ export const duma_2003_uik_428_region_31_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Алтухов Василий Петрович": 55,
-      "Белогуров Борис Сергеевич": 4,
-      "Голиков Георгий Георгиевич": 203,
-      "Зайцев Евгений Николаевич": 6,
-      "Литюк Александр Иванович": 5,
-      "Против всех": 34
+      "gas:candidate-vibid:1001000121833": 55,
+      "gas:candidate-vibid:331300171122": 4,
+      "gas:candidate-vibid:331300171152": 203,
+      "gas:candidate-vibid:1001000195059": 6,
+      "gas:candidate-vibid:1001000136037": 5,
+      "special:against-all": 34
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=313001001&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=331300171016&region=0&sub_region=0&type=429",
@@ -1032,12 +1032,12 @@ export const duma_2003_uik_428_region_31_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Алтухов Василий Петрович": 196,
-      "Белогуров Борис Сергеевич": 11,
-      "Голиков Георгий Георгиевич": 396,
-      "Зайцев Евгений Николаевич": 5,
-      "Литюк Александр Иванович": 16,
-      "Против всех": 74
+      "gas:candidate-vibid:1001000121833": 196,
+      "gas:candidate-vibid:331300171122": 11,
+      "gas:candidate-vibid:331300171152": 396,
+      "gas:candidate-vibid:1001000195059": 5,
+      "gas:candidate-vibid:1001000136037": 16,
+      "special:against-all": 74
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=313001001&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=331300171016&region=0&sub_region=0&type=429",
@@ -1087,12 +1087,12 @@ export const duma_2003_uik_428_region_31_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Алтухов Василий Петрович": 130,
-      "Белогуров Борис Сергеевич": 5,
-      "Голиков Георгий Георгиевич": 303,
-      "Зайцев Евгений Николаевич": 5,
-      "Литюк Александр Иванович": 3,
-      "Против всех": 30
+      "gas:candidate-vibid:1001000121833": 130,
+      "gas:candidate-vibid:331300171122": 5,
+      "gas:candidate-vibid:331300171152": 303,
+      "gas:candidate-vibid:1001000195059": 5,
+      "gas:candidate-vibid:1001000136037": 3,
+      "special:against-all": 30
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=313001001&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=331300171016&region=0&sub_region=0&type=429",
@@ -1142,12 +1142,12 @@ export const duma_2003_uik_428_region_31_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Алтухов Василий Петрович": 73,
-      "Белогуров Борис Сергеевич": 5,
-      "Голиков Георгий Георгиевич": 261,
-      "Зайцев Евгений Николаевич": 1,
-      "Литюк Александр Иванович": 5,
-      "Против всех": 41
+      "gas:candidate-vibid:1001000121833": 73,
+      "gas:candidate-vibid:331300171122": 5,
+      "gas:candidate-vibid:331300171152": 261,
+      "gas:candidate-vibid:1001000195059": 1,
+      "gas:candidate-vibid:1001000136037": 5,
+      "special:against-all": 41
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=313001001&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=331300171016&region=0&sub_region=0&type=429",
@@ -1197,12 +1197,12 @@ export const duma_2003_uik_428_region_31_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Алтухов Василий Петрович": 74,
-      "Белогуров Борис Сергеевич": 12,
-      "Голиков Георгий Георгиевич": 182,
-      "Зайцев Евгений Николаевич": 5,
-      "Литюк Александр Иванович": 6,
-      "Против всех": 15
+      "gas:candidate-vibid:1001000121833": 74,
+      "gas:candidate-vibid:331300171122": 12,
+      "gas:candidate-vibid:331300171152": 182,
+      "gas:candidate-vibid:1001000195059": 5,
+      "gas:candidate-vibid:1001000136037": 6,
+      "special:against-all": 15
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=313001001&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=331300171016&region=0&sub_region=0&type=429",
@@ -1252,12 +1252,12 @@ export const duma_2003_uik_428_region_31_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Алтухов Василий Петрович": 207,
-      "Белогуров Борис Сергеевич": 6,
-      "Голиков Георгий Георгиевич": 838,
-      "Зайцев Евгений Николаевич": 10,
-      "Литюк Александр Иванович": 14,
-      "Против всех": 110
+      "gas:candidate-vibid:1001000121833": 207,
+      "gas:candidate-vibid:331300171122": 6,
+      "gas:candidate-vibid:331300171152": 838,
+      "gas:candidate-vibid:1001000195059": 10,
+      "gas:candidate-vibid:1001000136037": 14,
+      "special:against-all": 110
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=313001001&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=331300171016&region=0&sub_region=0&type=429",
@@ -1307,12 +1307,12 @@ export const duma_2003_uik_428_region_31_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Алтухов Василий Петрович": 34,
-      "Белогуров Борис Сергеевич": 2,
-      "Голиков Георгий Георгиевич": 55,
-      "Зайцев Евгений Николаевич": 0,
-      "Литюк Александр Иванович": 9,
-      "Против всех": 10
+      "gas:candidate-vibid:1001000121833": 34,
+      "gas:candidate-vibid:331300171122": 2,
+      "gas:candidate-vibid:331300171152": 55,
+      "gas:candidate-vibid:1001000195059": 0,
+      "gas:candidate-vibid:1001000136037": 9,
+      "special:against-all": 10
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=313001001&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=331300171016&region=0&sub_region=0&type=429",
@@ -1362,12 +1362,12 @@ export const duma_2003_uik_428_region_31_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Алтухов Василий Петрович": 64,
-      "Белогуров Борис Сергеевич": 1,
-      "Голиков Георгий Георгиевич": 250,
-      "Зайцев Евгений Николаевич": 9,
-      "Литюк Александр Иванович": 6,
-      "Против всех": 25
+      "gas:candidate-vibid:1001000121833": 64,
+      "gas:candidate-vibid:331300171122": 1,
+      "gas:candidate-vibid:331300171152": 250,
+      "gas:candidate-vibid:1001000195059": 9,
+      "gas:candidate-vibid:1001000136037": 6,
+      "special:against-all": 25
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=313001001&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=331300171016&region=0&sub_region=0&type=429",
@@ -1417,12 +1417,12 @@ export const duma_2003_uik_428_region_31_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Алтухов Василий Петрович": 45,
-      "Белогуров Борис Сергеевич": 4,
-      "Голиков Георгий Георгиевич": 303,
-      "Зайцев Евгений Николаевич": 5,
-      "Литюк Александр Иванович": 7,
-      "Против всех": 5
+      "gas:candidate-vibid:1001000121833": 45,
+      "gas:candidate-vibid:331300171122": 4,
+      "gas:candidate-vibid:331300171152": 303,
+      "gas:candidate-vibid:1001000195059": 5,
+      "gas:candidate-vibid:1001000136037": 7,
+      "special:against-all": 5
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=313001001&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=331300171016&region=0&sub_region=0&type=429",
@@ -1472,12 +1472,12 @@ export const duma_2003_uik_428_region_31_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Алтухов Василий Петрович": 44,
-      "Белогуров Борис Сергеевич": 7,
-      "Голиков Георгий Георгиевич": 188,
-      "Зайцев Евгений Николаевич": 6,
-      "Литюк Александр Иванович": 2,
-      "Против всех": 18
+      "gas:candidate-vibid:1001000121833": 44,
+      "gas:candidate-vibid:331300171122": 7,
+      "gas:candidate-vibid:331300171152": 188,
+      "gas:candidate-vibid:1001000195059": 6,
+      "gas:candidate-vibid:1001000136037": 2,
+      "special:against-all": 18
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=313001001&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=331300171016&region=0&sub_region=0&type=429",
@@ -1527,12 +1527,12 @@ export const duma_2003_uik_428_region_31_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Алтухов Василий Петрович": 12,
-      "Белогуров Борис Сергеевич": 3,
-      "Голиков Георгий Георгиевич": 96,
-      "Зайцев Евгений Николаевич": 1,
-      "Литюк Александр Иванович": 0,
-      "Против всех": 10
+      "gas:candidate-vibid:1001000121833": 12,
+      "gas:candidate-vibid:331300171122": 3,
+      "gas:candidate-vibid:331300171152": 96,
+      "gas:candidate-vibid:1001000195059": 1,
+      "gas:candidate-vibid:1001000136037": 0,
+      "special:against-all": 10
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=313001001&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=331300171016&region=0&sub_region=0&type=429",
@@ -1582,12 +1582,12 @@ export const duma_2003_uik_428_region_31_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Алтухов Василий Петрович": 174,
-      "Белогуров Борис Сергеевич": 10,
-      "Голиков Георгий Георгиевич": 536,
-      "Зайцев Евгений Николаевич": 13,
-      "Литюк Александр Иванович": 14,
-      "Против всех": 39
+      "gas:candidate-vibid:1001000121833": 174,
+      "gas:candidate-vibid:331300171122": 10,
+      "gas:candidate-vibid:331300171152": 536,
+      "gas:candidate-vibid:1001000195059": 13,
+      "gas:candidate-vibid:1001000136037": 14,
+      "special:against-all": 39
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=313001001&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=331300171016&region=0&sub_region=0&type=429",
@@ -1637,12 +1637,12 @@ export const duma_2003_uik_428_region_31_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Алтухов Василий Петрович": 148,
-      "Белогуров Борис Сергеевич": 15,
-      "Голиков Георгий Георгиевич": 580,
-      "Зайцев Евгений Николаевич": 42,
-      "Литюк Александр Иванович": 25,
-      "Против всех": 138
+      "gas:candidate-vibid:1001000121833": 148,
+      "gas:candidate-vibid:331300171122": 15,
+      "gas:candidate-vibid:331300171152": 580,
+      "gas:candidate-vibid:1001000195059": 42,
+      "gas:candidate-vibid:1001000136037": 25,
+      "special:against-all": 138
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=313001002&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=331300171017&region=0&sub_region=0&type=429",
@@ -1692,12 +1692,12 @@ export const duma_2003_uik_428_region_31_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Алтухов Василий Петрович": 70,
-      "Белогуров Борис Сергеевич": 4,
-      "Голиков Георгий Георгиевич": 378,
-      "Зайцев Евгений Николаевич": 14,
-      "Литюк Александр Иванович": 10,
-      "Против всех": 63
+      "gas:candidate-vibid:1001000121833": 70,
+      "gas:candidate-vibid:331300171122": 4,
+      "gas:candidate-vibid:331300171152": 378,
+      "gas:candidate-vibid:1001000195059": 14,
+      "gas:candidate-vibid:1001000136037": 10,
+      "special:against-all": 63
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=313001002&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=331300171017&region=0&sub_region=0&type=429",
@@ -1747,12 +1747,12 @@ export const duma_2003_uik_428_region_31_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Алтухов Василий Петрович": 101,
-      "Белогуров Борис Сергеевич": 15,
-      "Голиков Георгий Георгиевич": 321,
-      "Зайцев Евгений Николаевич": 26,
-      "Литюк Александр Иванович": 18,
-      "Против всех": 89
+      "gas:candidate-vibid:1001000121833": 101,
+      "gas:candidate-vibid:331300171122": 15,
+      "gas:candidate-vibid:331300171152": 321,
+      "gas:candidate-vibid:1001000195059": 26,
+      "gas:candidate-vibid:1001000136037": 18,
+      "special:against-all": 89
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=313001002&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=331300171017&region=0&sub_region=0&type=429",
@@ -1802,12 +1802,12 @@ export const duma_2003_uik_428_region_31_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Алтухов Василий Петрович": 201,
-      "Белогуров Борис Сергеевич": 4,
-      "Голиков Георгий Георгиевич": 162,
-      "Зайцев Евгений Николаевич": 6,
-      "Литюк Александр Иванович": 21,
-      "Против всех": 79
+      "gas:candidate-vibid:1001000121833": 201,
+      "gas:candidate-vibid:331300171122": 4,
+      "gas:candidate-vibid:331300171152": 162,
+      "gas:candidate-vibid:1001000195059": 6,
+      "gas:candidate-vibid:1001000136037": 21,
+      "special:against-all": 79
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=313001002&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=331300171017&region=0&sub_region=0&type=429",
@@ -1857,12 +1857,12 @@ export const duma_2003_uik_428_region_31_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Алтухов Василий Петрович": 159,
-      "Белогуров Борис Сергеевич": 10,
-      "Голиков Георгий Георгиевич": 539,
-      "Зайцев Евгений Николаевич": 43,
-      "Литюк Александр Иванович": 40,
-      "Против всех": 212
+      "gas:candidate-vibid:1001000121833": 159,
+      "gas:candidate-vibid:331300171122": 10,
+      "gas:candidate-vibid:331300171152": 539,
+      "gas:candidate-vibid:1001000195059": 43,
+      "gas:candidate-vibid:1001000136037": 40,
+      "special:against-all": 212
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=313001002&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=331300171017&region=0&sub_region=0&type=429",
@@ -1912,12 +1912,12 @@ export const duma_2003_uik_428_region_31_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Алтухов Василий Петрович": 37,
-      "Белогуров Борис Сергеевич": 4,
-      "Голиков Георгий Георгиевич": 359,
-      "Зайцев Евгений Николаевич": 6,
-      "Литюк Александр Иванович": 13,
-      "Против всех": 22
+      "gas:candidate-vibid:1001000121833": 37,
+      "gas:candidate-vibid:331300171122": 4,
+      "gas:candidate-vibid:331300171152": 359,
+      "gas:candidate-vibid:1001000195059": 6,
+      "gas:candidate-vibid:1001000136037": 13,
+      "special:against-all": 22
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=313001002&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=331300171017&region=0&sub_region=0&type=429",
@@ -1967,12 +1967,12 @@ export const duma_2003_uik_428_region_31_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Алтухов Василий Петрович": 128,
-      "Белогуров Борис Сергеевич": 29,
-      "Голиков Георгий Георгиевич": 499,
-      "Зайцев Евгений Николаевич": 1,
-      "Литюк Александр Иванович": 18,
-      "Против всех": 85
+      "gas:candidate-vibid:1001000121833": 128,
+      "gas:candidate-vibid:331300171122": 29,
+      "gas:candidate-vibid:331300171152": 499,
+      "gas:candidate-vibid:1001000195059": 1,
+      "gas:candidate-vibid:1001000136037": 18,
+      "special:against-all": 85
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=313001002&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=331300171017&region=0&sub_region=0&type=429",
@@ -2022,12 +2022,12 @@ export const duma_2003_uik_428_region_31_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Алтухов Василий Петрович": 153,
-      "Белогуров Борис Сергеевич": 15,
-      "Голиков Георгий Георгиевич": 394,
-      "Зайцев Евгений Николаевич": 17,
-      "Литюк Александр Иванович": 22,
-      "Против всех": 73
+      "gas:candidate-vibid:1001000121833": 153,
+      "gas:candidate-vibid:331300171122": 15,
+      "gas:candidate-vibid:331300171152": 394,
+      "gas:candidate-vibid:1001000195059": 17,
+      "gas:candidate-vibid:1001000136037": 22,
+      "special:against-all": 73
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=313001002&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=331300171017&region=0&sub_region=0&type=429",
@@ -2077,12 +2077,12 @@ export const duma_2003_uik_428_region_31_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Алтухов Василий Петрович": 227,
-      "Белогуров Борис Сергеевич": 15,
-      "Голиков Георгий Георгиевич": 469,
-      "Зайцев Евгений Николаевич": 31,
-      "Литюк Александр Иванович": 33,
-      "Против всех": 112
+      "gas:candidate-vibid:1001000121833": 227,
+      "gas:candidate-vibid:331300171122": 15,
+      "gas:candidate-vibid:331300171152": 469,
+      "gas:candidate-vibid:1001000195059": 31,
+      "gas:candidate-vibid:1001000136037": 33,
+      "special:against-all": 112
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=313001002&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=331300171017&region=0&sub_region=0&type=429",
@@ -2132,12 +2132,12 @@ export const duma_2003_uik_428_region_31_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Алтухов Василий Петрович": 193,
-      "Белогуров Борис Сергеевич": 25,
-      "Голиков Георгий Георгиевич": 571,
-      "Зайцев Евгений Николаевич": 31,
-      "Литюк Александр Иванович": 43,
-      "Против всех": 91
+      "gas:candidate-vibid:1001000121833": 193,
+      "gas:candidate-vibid:331300171122": 25,
+      "gas:candidate-vibid:331300171152": 571,
+      "gas:candidate-vibid:1001000195059": 31,
+      "gas:candidate-vibid:1001000136037": 43,
+      "special:against-all": 91
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=313001002&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=331300171017&region=0&sub_region=0&type=429",
@@ -2187,12 +2187,12 @@ export const duma_2003_uik_428_region_31_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Алтухов Василий Петрович": 192,
-      "Белогуров Борис Сергеевич": 22,
-      "Голиков Георгий Георгиевич": 1117,
-      "Зайцев Евгений Николаевич": 41,
-      "Литюк Александр Иванович": 43,
-      "Против всех": 263
+      "gas:candidate-vibid:1001000121833": 192,
+      "gas:candidate-vibid:331300171122": 22,
+      "gas:candidate-vibid:331300171152": 1117,
+      "gas:candidate-vibid:1001000195059": 41,
+      "gas:candidate-vibid:1001000136037": 43,
+      "special:against-all": 263
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=313001002&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=331300171017&region=0&sub_region=0&type=429",
@@ -2242,12 +2242,12 @@ export const duma_2003_uik_428_region_31_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Алтухов Василий Петрович": 21,
-      "Белогуров Борис Сергеевич": 0,
-      "Голиков Георгий Георгиевич": 124,
-      "Зайцев Евгений Николаевич": 0,
-      "Литюк Александр Иванович": 7,
-      "Против всех": 23
+      "gas:candidate-vibid:1001000121833": 21,
+      "gas:candidate-vibid:331300171122": 0,
+      "gas:candidate-vibid:331300171152": 124,
+      "gas:candidate-vibid:1001000195059": 0,
+      "gas:candidate-vibid:1001000136037": 7,
+      "special:against-all": 23
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=313001002&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=331300171017&region=0&sub_region=0&type=429",
@@ -2297,12 +2297,12 @@ export const duma_2003_uik_428_region_31_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Алтухов Василий Петрович": 14,
-      "Белогуров Борис Сергеевич": 0,
-      "Голиков Георгий Георгиевич": 190,
-      "Зайцев Евгений Николаевич": 1,
-      "Литюк Александр Иванович": 7,
-      "Против всех": 19
+      "gas:candidate-vibid:1001000121833": 14,
+      "gas:candidate-vibid:331300171122": 0,
+      "gas:candidate-vibid:331300171152": 190,
+      "gas:candidate-vibid:1001000195059": 1,
+      "gas:candidate-vibid:1001000136037": 7,
+      "special:against-all": 19
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=313001002&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=331300171017&region=0&sub_region=0&type=429",
@@ -2352,12 +2352,12 @@ export const duma_2003_uik_428_region_31_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Алтухов Василий Петрович": 40,
-      "Белогуров Борис Сергеевич": 3,
-      "Голиков Георгий Георгиевич": 135,
-      "Зайцев Евгений Николаевич": 2,
-      "Литюк Александр Иванович": 3,
-      "Против всех": 36
+      "gas:candidate-vibid:1001000121833": 40,
+      "gas:candidate-vibid:331300171122": 3,
+      "gas:candidate-vibid:331300171152": 135,
+      "gas:candidate-vibid:1001000195059": 2,
+      "gas:candidate-vibid:1001000136037": 3,
+      "special:against-all": 36
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=313001002&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=331300171017&region=0&sub_region=0&type=429",
@@ -2407,12 +2407,12 @@ export const duma_2003_uik_428_region_31_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Алтухов Василий Петрович": 58,
-      "Белогуров Борис Сергеевич": 6,
-      "Голиков Георгий Георгиевич": 257,
-      "Зайцев Евгений Николаевич": 10,
-      "Литюк Александр Иванович": 4,
-      "Против всех": 41
+      "gas:candidate-vibid:1001000121833": 58,
+      "gas:candidate-vibid:331300171122": 6,
+      "gas:candidate-vibid:331300171152": 257,
+      "gas:candidate-vibid:1001000195059": 10,
+      "gas:candidate-vibid:1001000136037": 4,
+      "special:against-all": 41
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=313001002&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=331300171017&region=0&sub_region=0&type=429",
@@ -2462,12 +2462,12 @@ export const duma_2003_uik_428_region_31_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Алтухов Василий Петрович": 135,
-      "Белогуров Борис Сергеевич": 13,
-      "Голиков Георгий Георгиевич": 380,
-      "Зайцев Евгений Николаевич": 23,
-      "Литюк Александр Иванович": 20,
-      "Против всех": 115
+      "gas:candidate-vibid:1001000121833": 135,
+      "gas:candidate-vibid:331300171122": 13,
+      "gas:candidate-vibid:331300171152": 380,
+      "gas:candidate-vibid:1001000195059": 23,
+      "gas:candidate-vibid:1001000136037": 20,
+      "special:against-all": 115
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=313001002&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=331300171017&region=0&sub_region=0&type=429",
@@ -2517,12 +2517,12 @@ export const duma_2003_uik_428_region_31_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Алтухов Василий Петрович": 161,
-      "Белогуров Борис Сергеевич": 17,
-      "Голиков Георгий Георгиевич": 501,
-      "Зайцев Евгений Николаевич": 23,
-      "Литюк Александр Иванович": 19,
-      "Против всех": 98
+      "gas:candidate-vibid:1001000121833": 161,
+      "gas:candidate-vibid:331300171122": 17,
+      "gas:candidate-vibid:331300171152": 501,
+      "gas:candidate-vibid:1001000195059": 23,
+      "gas:candidate-vibid:1001000136037": 19,
+      "special:against-all": 98
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=313001002&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=331300171017&region=0&sub_region=0&type=429",
@@ -2572,12 +2572,12 @@ export const duma_2003_uik_428_region_31_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Алтухов Василий Петрович": 29,
-      "Белогуров Борис Сергеевич": 1,
-      "Голиков Георгий Георгиевич": 199,
-      "Зайцев Евгений Николаевич": 6,
-      "Литюк Александр Иванович": 7,
-      "Против всех": 46
+      "gas:candidate-vibid:1001000121833": 29,
+      "gas:candidate-vibid:331300171122": 1,
+      "gas:candidate-vibid:331300171152": 199,
+      "gas:candidate-vibid:1001000195059": 6,
+      "gas:candidate-vibid:1001000136037": 7,
+      "special:against-all": 46
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=313001002&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=331300171017&region=0&sub_region=0&type=429",
@@ -2627,12 +2627,12 @@ export const duma_2003_uik_428_region_31_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Алтухов Василий Петрович": 100,
-      "Белогуров Борис Сергеевич": 6,
-      "Голиков Георгий Георгиевич": 235,
-      "Зайцев Евгений Николаевич": 11,
-      "Литюк Александр Иванович": 7,
-      "Против всех": 52
+      "gas:candidate-vibid:1001000121833": 100,
+      "gas:candidate-vibid:331300171122": 6,
+      "gas:candidate-vibid:331300171152": 235,
+      "gas:candidate-vibid:1001000195059": 11,
+      "gas:candidate-vibid:1001000136037": 7,
+      "special:against-all": 52
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=313001002&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=331300171017&region=0&sub_region=0&type=429",
@@ -2682,12 +2682,12 @@ export const duma_2003_uik_428_region_31_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Алтухов Василий Петрович": 17,
-      "Белогуров Борис Сергеевич": 4,
-      "Голиков Георгий Георгиевич": 92,
-      "Зайцев Евгений Николаевич": 4,
-      "Литюк Александр Иванович": 1,
-      "Против всех": 13
+      "gas:candidate-vibid:1001000121833": 17,
+      "gas:candidate-vibid:331300171122": 4,
+      "gas:candidate-vibid:331300171152": 92,
+      "gas:candidate-vibid:1001000195059": 4,
+      "gas:candidate-vibid:1001000136037": 1,
+      "special:against-all": 13
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=313001002&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=331300171017&region=0&sub_region=0&type=429",
@@ -2737,12 +2737,12 @@ export const duma_2003_uik_428_region_31_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Алтухов Василий Петрович": 88,
-      "Белогуров Борис Сергеевич": 3,
-      "Голиков Георгий Георгиевич": 84,
-      "Зайцев Евгений Николаевич": 1,
-      "Литюк Александр Иванович": 9,
-      "Против всех": 9
+      "gas:candidate-vibid:1001000121833": 88,
+      "gas:candidate-vibid:331300171122": 3,
+      "gas:candidate-vibid:331300171152": 84,
+      "gas:candidate-vibid:1001000195059": 1,
+      "gas:candidate-vibid:1001000136037": 9,
+      "special:against-all": 9
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=313001002&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=331300171017&region=0&sub_region=0&type=429",
@@ -2792,12 +2792,12 @@ export const duma_2003_uik_428_region_31_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Алтухов Василий Петрович": 201,
-      "Белогуров Борис Сергеевич": 16,
-      "Голиков Георгий Георгиевич": 882,
-      "Зайцев Евгений Николаевич": 35,
-      "Литюк Александр Иванович": 36,
-      "Против всех": 181
+      "gas:candidate-vibid:1001000121833": 201,
+      "gas:candidate-vibid:331300171122": 16,
+      "gas:candidate-vibid:331300171152": 882,
+      "gas:candidate-vibid:1001000195059": 35,
+      "gas:candidate-vibid:1001000136037": 36,
+      "special:against-all": 181
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=313001002&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=331300171017&region=0&sub_region=0&type=429",
@@ -2847,12 +2847,12 @@ export const duma_2003_uik_428_region_31_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Алтухов Василий Петрович": 201,
-      "Белогуров Борис Сергеевич": 27,
-      "Голиков Георгий Георгиевич": 858,
-      "Зайцев Евгений Николаевич": 57,
-      "Литюк Александр Иванович": 70,
-      "Против всех": 199
+      "gas:candidate-vibid:1001000121833": 201,
+      "gas:candidate-vibid:331300171122": 27,
+      "gas:candidate-vibid:331300171152": 858,
+      "gas:candidate-vibid:1001000195059": 57,
+      "gas:candidate-vibid:1001000136037": 70,
+      "special:against-all": 199
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=313001002&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=331300171017&region=0&sub_region=0&type=429",
@@ -2902,12 +2902,12 @@ export const duma_2003_uik_428_region_31_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Алтухов Василий Петрович": 15,
-      "Белогуров Борис Сергеевич": 2,
-      "Голиков Георгий Георгиевич": 115,
-      "Зайцев Евгений Николаевич": 5,
-      "Литюк Александр Иванович": 7,
-      "Против всех": 27
+      "gas:candidate-vibid:1001000121833": 15,
+      "gas:candidate-vibid:331300171122": 2,
+      "gas:candidate-vibid:331300171152": 115,
+      "gas:candidate-vibid:1001000195059": 5,
+      "gas:candidate-vibid:1001000136037": 7,
+      "special:against-all": 27
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=313001002&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=331300171017&region=0&sub_region=0&type=429",
@@ -2957,12 +2957,12 @@ export const duma_2003_uik_428_region_31_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Алтухов Василий Петрович": 101,
-      "Белогуров Борис Сергеевич": 14,
-      "Голиков Георгий Георгиевич": 426,
-      "Зайцев Евгений Николаевич": 14,
-      "Литюк Александр Иванович": 20,
-      "Против всех": 62
+      "gas:candidate-vibid:1001000121833": 101,
+      "gas:candidate-vibid:331300171122": 14,
+      "gas:candidate-vibid:331300171152": 426,
+      "gas:candidate-vibid:1001000195059": 14,
+      "gas:candidate-vibid:1001000136037": 20,
+      "special:against-all": 62
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=313001002&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=331300171017&region=0&sub_region=0&type=429",
@@ -3012,12 +3012,12 @@ export const duma_2003_uik_428_region_31_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Алтухов Василий Петрович": 10,
-      "Белогуров Борис Сергеевич": 3,
-      "Голиков Георгий Георгиевич": 64,
-      "Зайцев Евгений Николаевич": 4,
-      "Литюк Александр Иванович": 5,
-      "Против всех": 12
+      "gas:candidate-vibid:1001000121833": 10,
+      "gas:candidate-vibid:331300171122": 3,
+      "gas:candidate-vibid:331300171152": 64,
+      "gas:candidate-vibid:1001000195059": 4,
+      "gas:candidate-vibid:1001000136037": 5,
+      "special:against-all": 12
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=313001002&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=331300171017&region=0&sub_region=0&type=429",
@@ -3067,12 +3067,12 @@ export const duma_2003_uik_428_region_31_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Алтухов Василий Петрович": 143,
-      "Белогуров Борис Сергеевич": 3,
-      "Голиков Георгий Георгиевич": 232,
-      "Зайцев Евгений Николаевич": 8,
-      "Литюк Александр Иванович": 2,
-      "Против всех": 34
+      "gas:candidate-vibid:1001000121833": 143,
+      "gas:candidate-vibid:331300171122": 3,
+      "gas:candidate-vibid:331300171152": 232,
+      "gas:candidate-vibid:1001000195059": 8,
+      "gas:candidate-vibid:1001000136037": 2,
+      "special:against-all": 34
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=313001002&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=331300171017&region=0&sub_region=0&type=429",
@@ -3122,12 +3122,12 @@ export const duma_2003_uik_428_region_31_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Алтухов Василий Петрович": 283,
-      "Белогуров Борис Сергеевич": 12,
-      "Голиков Георгий Георгиевич": 492,
-      "Зайцев Евгений Николаевич": 22,
-      "Литюк Александр Иванович": 29,
-      "Против всех": 113
+      "gas:candidate-vibid:1001000121833": 283,
+      "gas:candidate-vibid:331300171122": 12,
+      "gas:candidate-vibid:331300171152": 492,
+      "gas:candidate-vibid:1001000195059": 22,
+      "gas:candidate-vibid:1001000136037": 29,
+      "special:against-all": 113
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=313001002&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=331300171017&region=0&sub_region=0&type=429",
@@ -3177,12 +3177,12 @@ export const duma_2003_uik_428_region_31_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Алтухов Василий Петрович": 153,
-      "Белогуров Борис Сергеевич": 6,
-      "Голиков Георгий Георгиевич": 274,
-      "Зайцев Евгений Николаевич": 8,
-      "Литюк Александр Иванович": 12,
-      "Против всех": 29
+      "gas:candidate-vibid:1001000121833": 153,
+      "gas:candidate-vibid:331300171122": 6,
+      "gas:candidate-vibid:331300171152": 274,
+      "gas:candidate-vibid:1001000195059": 8,
+      "gas:candidate-vibid:1001000136037": 12,
+      "special:against-all": 29
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=313001002&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=331300171017&region=0&sub_region=0&type=429",
@@ -3232,12 +3232,12 @@ export const duma_2003_uik_428_region_31_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Алтухов Василий Петрович": 86,
-      "Белогуров Борис Сергеевич": 18,
-      "Голиков Георгий Георгиевич": 652,
-      "Зайцев Евгений Николаевич": 22,
-      "Литюк Александр Иванович": 27,
-      "Против всех": 116
+      "gas:candidate-vibid:1001000121833": 86,
+      "gas:candidate-vibid:331300171122": 18,
+      "gas:candidate-vibid:331300171152": 652,
+      "gas:candidate-vibid:1001000195059": 22,
+      "gas:candidate-vibid:1001000136037": 27,
+      "special:against-all": 116
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=313001002&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=331300171017&region=0&sub_region=0&type=429",
@@ -3287,12 +3287,12 @@ export const duma_2003_uik_428_region_31_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Алтухов Василий Петрович": 245,
-      "Белогуров Борис Сергеевич": 10,
-      "Голиков Георгий Георгиевич": 435,
-      "Зайцев Евгений Николаевич": 18,
-      "Литюк Александр Иванович": 19,
-      "Против всех": 88
+      "gas:candidate-vibid:1001000121833": 245,
+      "gas:candidate-vibid:331300171122": 10,
+      "gas:candidate-vibid:331300171152": 435,
+      "gas:candidate-vibid:1001000195059": 18,
+      "gas:candidate-vibid:1001000136037": 19,
+      "special:against-all": 88
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=313001002&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=331300171017&region=0&sub_region=0&type=429",
@@ -3342,12 +3342,12 @@ export const duma_2003_uik_428_region_31_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Алтухов Василий Петрович": 153,
-      "Белогуров Борис Сергеевич": 2,
-      "Голиков Георгий Георгиевич": 281,
-      "Зайцев Евгений Николаевич": 8,
-      "Литюк Александр Иванович": 8,
-      "Против всех": 58
+      "gas:candidate-vibid:1001000121833": 153,
+      "gas:candidate-vibid:331300171122": 2,
+      "gas:candidate-vibid:331300171152": 281,
+      "gas:candidate-vibid:1001000195059": 8,
+      "gas:candidate-vibid:1001000136037": 8,
+      "special:against-all": 58
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=313001002&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=331300171017&region=0&sub_region=0&type=429",
@@ -3397,12 +3397,12 @@ export const duma_2003_uik_428_region_31_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Алтухов Василий Петрович": 234,
-      "Белогуров Борис Сергеевич": 11,
-      "Голиков Георгий Георгиевич": 293,
-      "Зайцев Евгений Николаевич": 15,
-      "Литюк Александр Иванович": 10,
-      "Против всех": 57
+      "gas:candidate-vibid:1001000121833": 234,
+      "gas:candidate-vibid:331300171122": 11,
+      "gas:candidate-vibid:331300171152": 293,
+      "gas:candidate-vibid:1001000195059": 15,
+      "gas:candidate-vibid:1001000136037": 10,
+      "special:against-all": 57
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=313001002&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=331300171017&region=0&sub_region=0&type=429",
@@ -3452,12 +3452,12 @@ export const duma_2003_uik_428_region_31_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Алтухов Василий Петрович": 90,
-      "Белогуров Борис Сергеевич": 3,
-      "Голиков Георгий Георгиевич": 138,
-      "Зайцев Евгений Николаевич": 4,
-      "Литюк Александр Иванович": 5,
-      "Против всех": 5
+      "gas:candidate-vibid:1001000121833": 90,
+      "gas:candidate-vibid:331300171122": 3,
+      "gas:candidate-vibid:331300171152": 138,
+      "gas:candidate-vibid:1001000195059": 4,
+      "gas:candidate-vibid:1001000136037": 5,
+      "special:against-all": 5
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=313001002&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=331300171017&region=0&sub_region=0&type=429",
@@ -3507,12 +3507,12 @@ export const duma_2003_uik_428_region_31_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Алтухов Василий Петрович": 229,
-      "Белогуров Борис Сергеевич": 13,
-      "Голиков Георгий Георгиевич": 737,
-      "Зайцев Евгений Николаевич": 31,
-      "Литюк Александр Иванович": 55,
-      "Против всех": 182
+      "gas:candidate-vibid:1001000121833": 229,
+      "gas:candidate-vibid:331300171122": 13,
+      "gas:candidate-vibid:331300171152": 737,
+      "gas:candidate-vibid:1001000195059": 31,
+      "gas:candidate-vibid:1001000136037": 55,
+      "special:against-all": 182
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=313001002&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=331300171017&region=0&sub_region=0&type=429",
@@ -3562,12 +3562,12 @@ export const duma_2003_uik_428_region_31_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Алтухов Василий Петрович": 51,
-      "Белогуров Борис Сергеевич": 8,
-      "Голиков Георгий Георгиевич": 410,
-      "Зайцев Евгений Николаевич": 9,
-      "Литюк Александр Иванович": 8,
-      "Против всех": 53
+      "gas:candidate-vibid:1001000121833": 51,
+      "gas:candidate-vibid:331300171122": 8,
+      "gas:candidate-vibid:331300171152": 410,
+      "gas:candidate-vibid:1001000195059": 9,
+      "gas:candidate-vibid:1001000136037": 8,
+      "special:against-all": 53
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=313001002&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=331300171017&region=0&sub_region=0&type=429",
@@ -3617,12 +3617,12 @@ export const duma_2003_uik_428_region_31_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Алтухов Василий Петрович": 136,
-      "Белогуров Борис Сергеевич": 8,
-      "Голиков Георгий Георгиевич": 624,
-      "Зайцев Евгений Николаевич": 12,
-      "Литюк Александр Иванович": 25,
-      "Против всех": 150
+      "gas:candidate-vibid:1001000121833": 136,
+      "gas:candidate-vibid:331300171122": 8,
+      "gas:candidate-vibid:331300171152": 624,
+      "gas:candidate-vibid:1001000195059": 12,
+      "gas:candidate-vibid:1001000136037": 25,
+      "special:against-all": 150
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=313001002&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=331300171017&region=0&sub_region=0&type=429",
@@ -3672,12 +3672,12 @@ export const duma_2003_uik_428_region_31_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Алтухов Василий Петрович": 45,
-      "Белогуров Борис Сергеевич": 4,
-      "Голиков Георгий Георгиевич": 149,
-      "Зайцев Евгений Николаевич": 4,
-      "Литюк Александр Иванович": 4,
-      "Против всех": 49
+      "gas:candidate-vibid:1001000121833": 45,
+      "gas:candidate-vibid:331300171122": 4,
+      "gas:candidate-vibid:331300171152": 149,
+      "gas:candidate-vibid:1001000195059": 4,
+      "gas:candidate-vibid:1001000136037": 4,
+      "special:against-all": 49
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=313001002&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=331300171017&region=0&sub_region=0&type=429",
@@ -3727,12 +3727,12 @@ export const duma_2003_uik_428_region_31_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Алтухов Василий Петрович": 44,
-      "Белогуров Борис Сергеевич": 1,
-      "Голиков Георгий Георгиевич": 83,
-      "Зайцев Евгений Николаевич": 3,
-      "Литюк Александр Иванович": 4,
-      "Против всех": 25
+      "gas:candidate-vibid:1001000121833": 44,
+      "gas:candidate-vibid:331300171122": 1,
+      "gas:candidate-vibid:331300171152": 83,
+      "gas:candidate-vibid:1001000195059": 3,
+      "gas:candidate-vibid:1001000136037": 4,
+      "special:against-all": 25
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=313001002&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=331300171017&region=0&sub_region=0&type=429",
@@ -3782,12 +3782,12 @@ export const duma_2003_uik_428_region_31_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Алтухов Василий Петрович": 30,
-      "Белогуров Борис Сергеевич": 4,
-      "Голиков Георгий Георгиевич": 154,
-      "Зайцев Евгений Николаевич": 1,
-      "Литюк Александр Иванович": 1,
-      "Против всех": 19
+      "gas:candidate-vibid:1001000121833": 30,
+      "gas:candidate-vibid:331300171122": 4,
+      "gas:candidate-vibid:331300171152": 154,
+      "gas:candidate-vibid:1001000195059": 1,
+      "gas:candidate-vibid:1001000136037": 1,
+      "special:against-all": 19
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=313001002&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=331300171017&region=0&sub_region=0&type=429",
@@ -3837,12 +3837,12 @@ export const duma_2003_uik_428_region_31_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Алтухов Василий Петрович": 19,
-      "Белогуров Борис Сергеевич": 2,
-      "Голиков Георгий Георгиевич": 77,
-      "Зайцев Евгений Николаевич": 1,
-      "Литюк Александр Иванович": 1,
-      "Против всех": 11
+      "gas:candidate-vibid:1001000121833": 19,
+      "gas:candidate-vibid:331300171122": 2,
+      "gas:candidate-vibid:331300171152": 77,
+      "gas:candidate-vibid:1001000195059": 1,
+      "gas:candidate-vibid:1001000136037": 1,
+      "special:against-all": 11
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=313001002&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=331300171017&region=0&sub_region=0&type=429",
@@ -3892,12 +3892,12 @@ export const duma_2003_uik_428_region_31_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Алтухов Василий Петрович": 37,
-      "Белогуров Борис Сергеевич": 2,
-      "Голиков Георгий Георгиевич": 118,
-      "Зайцев Евгений Николаевич": 5,
-      "Литюк Александр Иванович": 6,
-      "Против всех": 8
+      "gas:candidate-vibid:1001000121833": 37,
+      "gas:candidate-vibid:331300171122": 2,
+      "gas:candidate-vibid:331300171152": 118,
+      "gas:candidate-vibid:1001000195059": 5,
+      "gas:candidate-vibid:1001000136037": 6,
+      "special:against-all": 8
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=313001002&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=331300171017&region=0&sub_region=0&type=429",
@@ -3947,12 +3947,12 @@ export const duma_2003_uik_428_region_31_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Алтухов Василий Петрович": 94,
-      "Белогуров Борис Сергеевич": 11,
-      "Голиков Георгий Георгиевич": 611,
-      "Зайцев Евгений Николаевич": 15,
-      "Литюк Александр Иванович": 11,
-      "Против всех": 114
+      "gas:candidate-vibid:1001000121833": 94,
+      "gas:candidate-vibid:331300171122": 11,
+      "gas:candidate-vibid:331300171152": 611,
+      "gas:candidate-vibid:1001000195059": 15,
+      "gas:candidate-vibid:1001000136037": 11,
+      "special:against-all": 114
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=313001002&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=331300171017&region=0&sub_region=0&type=429",
@@ -4002,12 +4002,12 @@ export const duma_2003_uik_428_region_31_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Алтухов Василий Петрович": 197,
-      "Белогуров Борис Сергеевич": 20,
-      "Голиков Георгий Георгиевич": 838,
-      "Зайцев Евгений Николаевич": 21,
-      "Литюк Александр Иванович": 19,
-      "Против всех": 147
+      "gas:candidate-vibid:1001000121833": 197,
+      "gas:candidate-vibid:331300171122": 20,
+      "gas:candidate-vibid:331300171152": 838,
+      "gas:candidate-vibid:1001000195059": 21,
+      "gas:candidate-vibid:1001000136037": 19,
+      "special:against-all": 147
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=313001002&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=331300171017&region=0&sub_region=0&type=429",
@@ -4057,12 +4057,12 @@ export const duma_2003_uik_428_region_31_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Алтухов Василий Петрович": 219,
-      "Белогуров Борис Сергеевич": 18,
-      "Голиков Георгий Георгиевич": 1071,
-      "Зайцев Евгений Николаевич": 37,
-      "Литюк Александр Иванович": 35,
-      "Против всех": 184
+      "gas:candidate-vibid:1001000121833": 219,
+      "gas:candidate-vibid:331300171122": 18,
+      "gas:candidate-vibid:331300171152": 1071,
+      "gas:candidate-vibid:1001000195059": 37,
+      "gas:candidate-vibid:1001000136037": 35,
+      "special:against-all": 184
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=313001002&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=331300171017&region=0&sub_region=0&type=429",
@@ -4112,12 +4112,12 @@ export const duma_2003_uik_428_region_31_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Алтухов Василий Петрович": 218,
-      "Белогуров Борис Сергеевич": 15,
-      "Голиков Георгий Георгиевич": 871,
-      "Зайцев Евгений Николаевич": 19,
-      "Литюк Александр Иванович": 36,
-      "Против всех": 155
+      "gas:candidate-vibid:1001000121833": 218,
+      "gas:candidate-vibid:331300171122": 15,
+      "gas:candidate-vibid:331300171152": 871,
+      "gas:candidate-vibid:1001000195059": 19,
+      "gas:candidate-vibid:1001000136037": 36,
+      "special:against-all": 155
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=313001002&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=331300171017&region=0&sub_region=0&type=429",
@@ -4167,12 +4167,12 @@ export const duma_2003_uik_428_region_31_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Алтухов Василий Петрович": 178,
-      "Белогуров Борис Сергеевич": 7,
-      "Голиков Георгий Георгиевич": 574,
-      "Зайцев Евгений Николаевич": 24,
-      "Литюк Александр Иванович": 32,
-      "Против всех": 143
+      "gas:candidate-vibid:1001000121833": 178,
+      "gas:candidate-vibid:331300171122": 7,
+      "gas:candidate-vibid:331300171152": 574,
+      "gas:candidate-vibid:1001000195059": 24,
+      "gas:candidate-vibid:1001000136037": 32,
+      "special:against-all": 143
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=313001002&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=331300171017&region=0&sub_region=0&type=429",
@@ -4222,12 +4222,12 @@ export const duma_2003_uik_428_region_31_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Алтухов Василий Петрович": 85,
-      "Белогуров Борис Сергеевич": 9,
-      "Голиков Георгий Георгиевич": 438,
-      "Зайцев Евгений Николаевич": 17,
-      "Литюк Александр Иванович": 10,
-      "Против всех": 62
+      "gas:candidate-vibid:1001000121833": 85,
+      "gas:candidate-vibid:331300171122": 9,
+      "gas:candidate-vibid:331300171152": 438,
+      "gas:candidate-vibid:1001000195059": 17,
+      "gas:candidate-vibid:1001000136037": 10,
+      "special:against-all": 62
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=313001002&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=331300171017&region=0&sub_region=0&type=429",
@@ -4277,12 +4277,12 @@ export const duma_2003_uik_428_region_31_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Алтухов Василий Петрович": 33,
-      "Белогуров Борис Сергеевич": 2,
-      "Голиков Георгий Георгиевич": 252,
-      "Зайцев Евгений Николаевич": 5,
-      "Литюк Александр Иванович": 5,
-      "Против всех": 31
+      "gas:candidate-vibid:1001000121833": 33,
+      "gas:candidate-vibid:331300171122": 2,
+      "gas:candidate-vibid:331300171152": 252,
+      "gas:candidate-vibid:1001000195059": 5,
+      "gas:candidate-vibid:1001000136037": 5,
+      "special:against-all": 31
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=313001002&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=331300171017&region=0&sub_region=0&type=429",
@@ -4332,12 +4332,12 @@ export const duma_2003_uik_428_region_31_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Алтухов Василий Петрович": 168,
-      "Белогуров Борис Сергеевич": 20,
-      "Голиков Георгий Георгиевич": 1047,
-      "Зайцев Евгений Николаевич": 32,
-      "Литюк Александр Иванович": 36,
-      "Против всех": 167
+      "gas:candidate-vibid:1001000121833": 168,
+      "gas:candidate-vibid:331300171122": 20,
+      "gas:candidate-vibid:331300171152": 1047,
+      "gas:candidate-vibid:1001000195059": 32,
+      "gas:candidate-vibid:1001000136037": 36,
+      "special:against-all": 167
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=313001002&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=331300171017&region=0&sub_region=0&type=429",
@@ -4387,12 +4387,12 @@ export const duma_2003_uik_428_region_31_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Алтухов Василий Петрович": 132,
-      "Белогуров Борис Сергеевич": 15,
-      "Голиков Георгий Георгиевич": 802,
-      "Зайцев Евгений Николаевич": 41,
-      "Литюк Александр Иванович": 7,
-      "Против всех": 137
+      "gas:candidate-vibid:1001000121833": 132,
+      "gas:candidate-vibid:331300171122": 15,
+      "gas:candidate-vibid:331300171152": 802,
+      "gas:candidate-vibid:1001000195059": 41,
+      "gas:candidate-vibid:1001000136037": 7,
+      "special:against-all": 137
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=313001002&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=331300171017&region=0&sub_region=0&type=429",
@@ -4442,12 +4442,12 @@ export const duma_2003_uik_428_region_31_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Алтухов Василий Петрович": 121,
-      "Белогуров Борис Сергеевич": 25,
-      "Голиков Георгий Георгиевич": 626,
-      "Зайцев Евгений Николаевич": 44,
-      "Литюк Александр Иванович": 33,
-      "Против всех": 136
+      "gas:candidate-vibid:1001000121833": 121,
+      "gas:candidate-vibid:331300171122": 25,
+      "gas:candidate-vibid:331300171152": 626,
+      "gas:candidate-vibid:1001000195059": 44,
+      "gas:candidate-vibid:1001000136037": 33,
+      "special:against-all": 136
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=313001002&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=331300171017&region=0&sub_region=0&type=429",
@@ -4497,12 +4497,12 @@ export const duma_2003_uik_428_region_31_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Алтухов Василий Петрович": 83,
-      "Белогуров Борис Сергеевич": 28,
-      "Голиков Георгий Георгиевич": 370,
-      "Зайцев Евгений Николаевич": 10,
-      "Литюк Александр Иванович": 10,
-      "Против всех": 53
+      "gas:candidate-vibid:1001000121833": 83,
+      "gas:candidate-vibid:331300171122": 28,
+      "gas:candidate-vibid:331300171152": 370,
+      "gas:candidate-vibid:1001000195059": 10,
+      "gas:candidate-vibid:1001000136037": 10,
+      "special:against-all": 53
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=313001002&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=331300171017&region=0&sub_region=0&type=429",
@@ -4552,12 +4552,12 @@ export const duma_2003_uik_428_region_31_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Алтухов Василий Петрович": 47,
-      "Белогуров Борис Сергеевич": 4,
-      "Голиков Георгий Георгиевич": 370,
-      "Зайцев Евгений Николаевич": 8,
-      "Литюк Александр Иванович": 10,
-      "Против всех": 30
+      "gas:candidate-vibid:1001000121833": 47,
+      "gas:candidate-vibid:331300171122": 4,
+      "gas:candidate-vibid:331300171152": 370,
+      "gas:candidate-vibid:1001000195059": 8,
+      "gas:candidate-vibid:1001000136037": 10,
+      "special:against-all": 30
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=313001002&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=331300171017&region=0&sub_region=0&type=429",
@@ -4607,12 +4607,12 @@ export const duma_2003_uik_428_region_31_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Алтухов Василий Петрович": 25,
-      "Белогуров Борис Сергеевич": 12,
-      "Голиков Георгий Георгиевич": 198,
-      "Зайцев Евгений Николаевич": 10,
-      "Литюк Александр Иванович": 3,
-      "Против всех": 36
+      "gas:candidate-vibid:1001000121833": 25,
+      "gas:candidate-vibid:331300171122": 12,
+      "gas:candidate-vibid:331300171152": 198,
+      "gas:candidate-vibid:1001000195059": 10,
+      "gas:candidate-vibid:1001000136037": 3,
+      "special:against-all": 36
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=313001002&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=331300171017&region=0&sub_region=0&type=429",
@@ -4662,12 +4662,12 @@ export const duma_2003_uik_428_region_31_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Алтухов Василий Петрович": 10,
-      "Белогуров Борис Сергеевич": 2,
-      "Голиков Георгий Георгиевич": 124,
-      "Зайцев Евгений Николаевич": 0,
-      "Литюк Александр Иванович": 1,
-      "Против всех": 11
+      "gas:candidate-vibid:1001000121833": 10,
+      "gas:candidate-vibid:331300171122": 2,
+      "gas:candidate-vibid:331300171152": 124,
+      "gas:candidate-vibid:1001000195059": 0,
+      "gas:candidate-vibid:1001000136037": 1,
+      "special:against-all": 11
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=313001002&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=331300171017&region=0&sub_region=0&type=429",
@@ -4717,12 +4717,12 @@ export const duma_2003_uik_428_region_31_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Алтухов Василий Петрович": 93,
-      "Белогуров Борис Сергеевич": 16,
-      "Голиков Георгий Георгиевич": 621,
-      "Зайцев Евгений Николаевич": 11,
-      "Литюк Александр Иванович": 18,
-      "Против всех": 95
+      "gas:candidate-vibid:1001000121833": 93,
+      "gas:candidate-vibid:331300171122": 16,
+      "gas:candidate-vibid:331300171152": 621,
+      "gas:candidate-vibid:1001000195059": 11,
+      "gas:candidate-vibid:1001000136037": 18,
+      "special:against-all": 95
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=313001002&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=331300171017&region=0&sub_region=0&type=429",
@@ -4772,12 +4772,12 @@ export const duma_2003_uik_428_region_31_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Алтухов Василий Петрович": 53,
-      "Белогуров Борис Сергеевич": 7,
-      "Голиков Георгий Георгиевич": 230,
-      "Зайцев Евгений Николаевич": 9,
-      "Литюк Александр Иванович": 10,
-      "Против всех": 45
+      "gas:candidate-vibid:1001000121833": 53,
+      "gas:candidate-vibid:331300171122": 7,
+      "gas:candidate-vibid:331300171152": 230,
+      "gas:candidate-vibid:1001000195059": 9,
+      "gas:candidate-vibid:1001000136037": 10,
+      "special:against-all": 45
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=313001002&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=331300171017&region=0&sub_region=0&type=429",
@@ -4827,12 +4827,12 @@ export const duma_2003_uik_428_region_31_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Алтухов Василий Петрович": 9,
-      "Белогуров Борис Сергеевич": 5,
-      "Голиков Георгий Георгиевич": 73,
-      "Зайцев Евгений Николаевич": 1,
-      "Литюк Александр Иванович": 2,
-      "Против всех": 4
+      "gas:candidate-vibid:1001000121833": 9,
+      "gas:candidate-vibid:331300171122": 5,
+      "gas:candidate-vibid:331300171152": 73,
+      "gas:candidate-vibid:1001000195059": 1,
+      "gas:candidate-vibid:1001000136037": 2,
+      "special:against-all": 4
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=313001002&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=331300171017&region=0&sub_region=0&type=429",
@@ -4882,12 +4882,12 @@ export const duma_2003_uik_428_region_31_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Алтухов Василий Петрович": 12,
-      "Белогуров Борис Сергеевич": 2,
-      "Голиков Георгий Георгиевич": 310,
-      "Зайцев Евгений Николаевич": 8,
-      "Литюк Александр Иванович": 11,
-      "Против всех": 45
+      "gas:candidate-vibid:1001000121833": 12,
+      "gas:candidate-vibid:331300171122": 2,
+      "gas:candidate-vibid:331300171152": 310,
+      "gas:candidate-vibid:1001000195059": 8,
+      "gas:candidate-vibid:1001000136037": 11,
+      "special:against-all": 45
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=313001002&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=331300171017&region=0&sub_region=0&type=429",
@@ -4937,12 +4937,12 @@ export const duma_2003_uik_428_region_31_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Алтухов Василий Петрович": 63,
-      "Белогуров Борис Сергеевич": 5,
-      "Голиков Георгий Георгиевич": 434,
-      "Зайцев Евгений Николаевич": 7,
-      "Литюк Александр Иванович": 14,
-      "Против всех": 73
+      "gas:candidate-vibid:1001000121833": 63,
+      "gas:candidate-vibid:331300171122": 5,
+      "gas:candidate-vibid:331300171152": 434,
+      "gas:candidate-vibid:1001000195059": 7,
+      "gas:candidate-vibid:1001000136037": 14,
+      "special:against-all": 73
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=313001002&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=331300171017&region=0&sub_region=0&type=429",
@@ -4992,12 +4992,12 @@ export const duma_2003_uik_428_region_31_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Алтухов Василий Петрович": 20,
-      "Белогуров Борис Сергеевич": 6,
-      "Голиков Георгий Георгиевич": 117,
-      "Зайцев Евгений Николаевич": 6,
-      "Литюк Александр Иванович": 6,
-      "Против всех": 8
+      "gas:candidate-vibid:1001000121833": 20,
+      "gas:candidate-vibid:331300171122": 6,
+      "gas:candidate-vibid:331300171152": 117,
+      "gas:candidate-vibid:1001000195059": 6,
+      "gas:candidate-vibid:1001000136037": 6,
+      "special:against-all": 8
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=313001002&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=331300171017&region=0&sub_region=0&type=429",
@@ -5047,12 +5047,12 @@ export const duma_2003_uik_428_region_31_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Алтухов Василий Петрович": 128,
-      "Белогуров Борис Сергеевич": 12,
-      "Голиков Георгий Георгиевич": 542,
-      "Зайцев Евгений Николаевич": 12,
-      "Литюк Александр Иванович": 17,
-      "Против всех": 104
+      "gas:candidate-vibid:1001000121833": 128,
+      "gas:candidate-vibid:331300171122": 12,
+      "gas:candidate-vibid:331300171152": 542,
+      "gas:candidate-vibid:1001000195059": 12,
+      "gas:candidate-vibid:1001000136037": 17,
+      "special:against-all": 104
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=313001002&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=331300171017&region=0&sub_region=0&type=429",
@@ -5102,12 +5102,12 @@ export const duma_2003_uik_428_region_31_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Алтухов Василий Петрович": 55,
-      "Белогуров Борис Сергеевич": 15,
-      "Голиков Георгий Георгиевич": 260,
-      "Зайцев Евгений Николаевич": 19,
-      "Литюк Александр Иванович": 13,
-      "Против всех": 53
+      "gas:candidate-vibid:1001000121833": 55,
+      "gas:candidate-vibid:331300171122": 15,
+      "gas:candidate-vibid:331300171152": 260,
+      "gas:candidate-vibid:1001000195059": 19,
+      "gas:candidate-vibid:1001000136037": 13,
+      "special:against-all": 53
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=313001002&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=331300171017&region=0&sub_region=0&type=429",
@@ -5157,12 +5157,12 @@ export const duma_2003_uik_428_region_31_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Алтухов Василий Петрович": 161,
-      "Белогуров Борис Сергеевич": 16,
-      "Голиков Георгий Георгиевич": 610,
-      "Зайцев Евгений Николаевич": 15,
-      "Литюк Александр Иванович": 29,
-      "Против всех": 100
+      "gas:candidate-vibid:1001000121833": 161,
+      "gas:candidate-vibid:331300171122": 16,
+      "gas:candidate-vibid:331300171152": 610,
+      "gas:candidate-vibid:1001000195059": 15,
+      "gas:candidate-vibid:1001000136037": 29,
+      "special:against-all": 100
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=313001002&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=331300171017&region=0&sub_region=0&type=429",
@@ -5212,12 +5212,12 @@ export const duma_2003_uik_428_region_31_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Алтухов Василий Петрович": 130,
-      "Белогуров Борис Сергеевич": 9,
-      "Голиков Георгий Георгиевич": 281,
-      "Зайцев Евгений Николаевич": 5,
-      "Литюк Александр Иванович": 4,
-      "Против всех": 52
+      "gas:candidate-vibid:1001000121833": 130,
+      "gas:candidate-vibid:331300171122": 9,
+      "gas:candidate-vibid:331300171152": 281,
+      "gas:candidate-vibid:1001000195059": 5,
+      "gas:candidate-vibid:1001000136037": 4,
+      "special:against-all": 52
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=313001002&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=331300171017&region=0&sub_region=0&type=429",
@@ -5267,12 +5267,12 @@ export const duma_2003_uik_428_region_31_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Алтухов Василий Петрович": 39,
-      "Белогуров Борис Сергеевич": 2,
-      "Голиков Георгий Георгиевич": 348,
-      "Зайцев Евгений Николаевич": 5,
-      "Литюк Александр Иванович": 11,
-      "Против всех": 20
+      "gas:candidate-vibid:1001000121833": 39,
+      "gas:candidate-vibid:331300171122": 2,
+      "gas:candidate-vibid:331300171152": 348,
+      "gas:candidate-vibid:1001000195059": 5,
+      "gas:candidate-vibid:1001000136037": 11,
+      "special:against-all": 20
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=313001002&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=331300171017&region=0&sub_region=0&type=429",
@@ -5322,12 +5322,12 @@ export const duma_2003_uik_428_region_31_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Алтухов Василий Петрович": 214,
-      "Белогуров Борис Сергеевич": 14,
-      "Голиков Георгий Георгиевич": 583,
-      "Зайцев Евгений Николаевич": 20,
-      "Литюк Александр Иванович": 24,
-      "Против всех": 45
+      "gas:candidate-vibid:1001000121833": 214,
+      "gas:candidate-vibid:331300171122": 14,
+      "gas:candidate-vibid:331300171152": 583,
+      "gas:candidate-vibid:1001000195059": 20,
+      "gas:candidate-vibid:1001000136037": 24,
+      "special:against-all": 45
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=313001002&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=331300171017&region=0&sub_region=0&type=429",
@@ -5377,12 +5377,12 @@ export const duma_2003_uik_428_region_31_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Алтухов Василий Петрович": 110,
-      "Белогуров Борис Сергеевич": 7,
-      "Голиков Георгий Георгиевич": 675,
-      "Зайцев Евгений Николаевич": 16,
-      "Литюк Александр Иванович": 18,
-      "Против всех": 59
+      "gas:candidate-vibid:1001000121833": 110,
+      "gas:candidate-vibid:331300171122": 7,
+      "gas:candidate-vibid:331300171152": 675,
+      "gas:candidate-vibid:1001000195059": 16,
+      "gas:candidate-vibid:1001000136037": 18,
+      "special:against-all": 59
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=313001002&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=331300171017&region=0&sub_region=0&type=429",
@@ -5432,12 +5432,12 @@ export const duma_2003_uik_428_region_31_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Алтухов Василий Петрович": 108,
-      "Белогуров Борис Сергеевич": 9,
-      "Голиков Георгий Георгиевич": 498,
-      "Зайцев Евгений Николаевич": 21,
-      "Литюк Александр Иванович": 27,
-      "Против всех": 77
+      "gas:candidate-vibid:1001000121833": 108,
+      "gas:candidate-vibid:331300171122": 9,
+      "gas:candidate-vibid:331300171152": 498,
+      "gas:candidate-vibid:1001000195059": 21,
+      "gas:candidate-vibid:1001000136037": 27,
+      "special:against-all": 77
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=313001002&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=331300171017&region=0&sub_region=0&type=429",
@@ -5487,12 +5487,12 @@ export const duma_2003_uik_428_region_31_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Алтухов Василий Петрович": 52,
-      "Белогуров Борис Сергеевич": 12,
-      "Голиков Георгий Георгиевич": 302,
-      "Зайцев Евгений Николаевич": 15,
-      "Литюк Александр Иванович": 14,
-      "Против всех": 53
+      "gas:candidate-vibid:1001000121833": 52,
+      "gas:candidate-vibid:331300171122": 12,
+      "gas:candidate-vibid:331300171152": 302,
+      "gas:candidate-vibid:1001000195059": 15,
+      "gas:candidate-vibid:1001000136037": 14,
+      "special:against-all": 53
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=313001002&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=331300171017&region=0&sub_region=0&type=429",
@@ -5542,12 +5542,12 @@ export const duma_2003_uik_428_region_31_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Алтухов Василий Петрович": 31,
-      "Белогуров Борис Сергеевич": 0,
-      "Голиков Георгий Георгиевич": 138,
-      "Зайцев Евгений Николаевич": 3,
-      "Литюк Александр Иванович": 4,
-      "Против всех": 6
+      "gas:candidate-vibid:1001000121833": 31,
+      "gas:candidate-vibid:331300171122": 0,
+      "gas:candidate-vibid:331300171152": 138,
+      "gas:candidate-vibid:1001000195059": 3,
+      "gas:candidate-vibid:1001000136037": 4,
+      "special:against-all": 6
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=313001002&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=331300171017&region=0&sub_region=0&type=429",
@@ -5597,12 +5597,12 @@ export const duma_2003_uik_428_region_31_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Алтухов Василий Петрович": 136,
-      "Белогуров Борис Сергеевич": 9,
-      "Голиков Георгий Георгиевич": 1037,
-      "Зайцев Евгений Николаевич": 27,
-      "Литюк Александр Иванович": 22,
-      "Против всех": 135
+      "gas:candidate-vibid:1001000121833": 136,
+      "gas:candidate-vibid:331300171122": 9,
+      "gas:candidate-vibid:331300171152": 1037,
+      "gas:candidate-vibid:1001000195059": 27,
+      "gas:candidate-vibid:1001000136037": 22,
+      "special:against-all": 135
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=313001003&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=331300171018&region=0&sub_region=0&type=429",
@@ -5652,12 +5652,12 @@ export const duma_2003_uik_428_region_31_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Алтухов Василий Петрович": 151,
-      "Белогуров Борис Сергеевич": 6,
-      "Голиков Георгий Георгиевич": 872,
-      "Зайцев Евгений Николаевич": 13,
-      "Литюк Александр Иванович": 18,
-      "Против всех": 147
+      "gas:candidate-vibid:1001000121833": 151,
+      "gas:candidate-vibid:331300171122": 6,
+      "gas:candidate-vibid:331300171152": 872,
+      "gas:candidate-vibid:1001000195059": 13,
+      "gas:candidate-vibid:1001000136037": 18,
+      "special:against-all": 147
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=313001003&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=331300171018&region=0&sub_region=0&type=429",
@@ -5707,12 +5707,12 @@ export const duma_2003_uik_428_region_31_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Алтухов Василий Петрович": 154,
-      "Белогуров Борис Сергеевич": 16,
-      "Голиков Георгий Георгиевич": 903,
-      "Зайцев Евгений Николаевич": 13,
-      "Литюк Александр Иванович": 17,
-      "Против всех": 138
+      "gas:candidate-vibid:1001000121833": 154,
+      "gas:candidate-vibid:331300171122": 16,
+      "gas:candidate-vibid:331300171152": 903,
+      "gas:candidate-vibid:1001000195059": 13,
+      "gas:candidate-vibid:1001000136037": 17,
+      "special:against-all": 138
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=313001003&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=331300171018&region=0&sub_region=0&type=429",
@@ -5762,12 +5762,12 @@ export const duma_2003_uik_428_region_31_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Алтухов Василий Петрович": 156,
-      "Белогуров Борис Сергеевич": 9,
-      "Голиков Георгий Георгиевич": 946,
-      "Зайцев Евгений Николаевич": 19,
-      "Литюк Александр Иванович": 18,
-      "Против всех": 160
+      "gas:candidate-vibid:1001000121833": 156,
+      "gas:candidate-vibid:331300171122": 9,
+      "gas:candidate-vibid:331300171152": 946,
+      "gas:candidate-vibid:1001000195059": 19,
+      "gas:candidate-vibid:1001000136037": 18,
+      "special:against-all": 160
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=313001003&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=331300171018&region=0&sub_region=0&type=429",
@@ -5817,12 +5817,12 @@ export const duma_2003_uik_428_region_31_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Алтухов Василий Петрович": 147,
-      "Белогуров Борис Сергеевич": 17,
-      "Голиков Георгий Георгиевич": 854,
-      "Зайцев Евгений Николаевич": 13,
-      "Литюк Александр Иванович": 19,
-      "Против всех": 150
+      "gas:candidate-vibid:1001000121833": 147,
+      "gas:candidate-vibid:331300171122": 17,
+      "gas:candidate-vibid:331300171152": 854,
+      "gas:candidate-vibid:1001000195059": 13,
+      "gas:candidate-vibid:1001000136037": 19,
+      "special:against-all": 150
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=313001003&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=331300171018&region=0&sub_region=0&type=429",
@@ -5872,12 +5872,12 @@ export const duma_2003_uik_428_region_31_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Алтухов Василий Петрович": 164,
-      "Белогуров Борис Сергеевич": 14,
-      "Голиков Георгий Георгиевич": 1039,
-      "Зайцев Евгений Николаевич": 17,
-      "Литюк Александр Иванович": 19,
-      "Против всех": 141
+      "gas:candidate-vibid:1001000121833": 164,
+      "gas:candidate-vibid:331300171122": 14,
+      "gas:candidate-vibid:331300171152": 1039,
+      "gas:candidate-vibid:1001000195059": 17,
+      "gas:candidate-vibid:1001000136037": 19,
+      "special:against-all": 141
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=313001003&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=331300171018&region=0&sub_region=0&type=429",
@@ -5927,12 +5927,12 @@ export const duma_2003_uik_428_region_31_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Алтухов Василий Петрович": 157,
-      "Белогуров Борис Сергеевич": 11,
-      "Голиков Георгий Георгиевич": 938,
-      "Зайцев Евгений Николаевич": 24,
-      "Литюк Александр Иванович": 29,
-      "Против всех": 155
+      "gas:candidate-vibid:1001000121833": 157,
+      "gas:candidate-vibid:331300171122": 11,
+      "gas:candidate-vibid:331300171152": 938,
+      "gas:candidate-vibid:1001000195059": 24,
+      "gas:candidate-vibid:1001000136037": 29,
+      "special:against-all": 155
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=313001003&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=331300171018&region=0&sub_region=0&type=429",
@@ -5982,12 +5982,12 @@ export const duma_2003_uik_428_region_31_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Алтухов Василий Петрович": 195,
-      "Белогуров Борис Сергеевич": 9,
-      "Голиков Георгий Георгиевич": 1136,
-      "Зайцев Евгений Николаевич": 14,
-      "Литюк Александр Иванович": 23,
-      "Против всех": 159
+      "gas:candidate-vibid:1001000121833": 195,
+      "gas:candidate-vibid:331300171122": 9,
+      "gas:candidate-vibid:331300171152": 1136,
+      "gas:candidate-vibid:1001000195059": 14,
+      "gas:candidate-vibid:1001000136037": 23,
+      "special:against-all": 159
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=313001003&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=331300171018&region=0&sub_region=0&type=429",
@@ -6037,12 +6037,12 @@ export const duma_2003_uik_428_region_31_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Алтухов Василий Петрович": 166,
-      "Белогуров Борис Сергеевич": 17,
-      "Голиков Георгий Георгиевич": 1204,
-      "Зайцев Евгений Николаевич": 23,
-      "Литюк Александр Иванович": 26,
-      "Против всех": 144
+      "gas:candidate-vibid:1001000121833": 166,
+      "gas:candidate-vibid:331300171122": 17,
+      "gas:candidate-vibid:331300171152": 1204,
+      "gas:candidate-vibid:1001000195059": 23,
+      "gas:candidate-vibid:1001000136037": 26,
+      "special:against-all": 144
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=313001003&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=331300171018&region=0&sub_region=0&type=429",
@@ -6092,12 +6092,12 @@ export const duma_2003_uik_428_region_31_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Алтухов Василий Петрович": 148,
-      "Белогуров Борис Сергеевич": 6,
-      "Голиков Георгий Георгиевич": 1116,
-      "Зайцев Евгений Николаевич": 15,
-      "Литюк Александр Иванович": 10,
-      "Против всех": 156
+      "gas:candidate-vibid:1001000121833": 148,
+      "gas:candidate-vibid:331300171122": 6,
+      "gas:candidate-vibid:331300171152": 1116,
+      "gas:candidate-vibid:1001000195059": 15,
+      "gas:candidate-vibid:1001000136037": 10,
+      "special:against-all": 156
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=313001003&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=331300171018&region=0&sub_region=0&type=429",
@@ -6147,12 +6147,12 @@ export const duma_2003_uik_428_region_31_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Алтухов Василий Петрович": 171,
-      "Белогуров Борис Сергеевич": 22,
-      "Голиков Георгий Георгиевич": 717,
-      "Зайцев Евгений Николаевич": 30,
-      "Литюк Александр Иванович": 33,
-      "Против всех": 138
+      "gas:candidate-vibid:1001000121833": 171,
+      "gas:candidate-vibid:331300171122": 22,
+      "gas:candidate-vibid:331300171152": 717,
+      "gas:candidate-vibid:1001000195059": 30,
+      "gas:candidate-vibid:1001000136037": 33,
+      "special:against-all": 138
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=313001003&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=331300171018&region=0&sub_region=0&type=429",
@@ -6202,12 +6202,12 @@ export const duma_2003_uik_428_region_31_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Алтухов Василий Петрович": 212,
-      "Белогуров Борис Сергеевич": 25,
-      "Голиков Георгий Георгиевич": 886,
-      "Зайцев Евгений Николаевич": 34,
-      "Литюк Александр Иванович": 35,
-      "Против всех": 171
+      "gas:candidate-vibid:1001000121833": 212,
+      "gas:candidate-vibid:331300171122": 25,
+      "gas:candidate-vibid:331300171152": 886,
+      "gas:candidate-vibid:1001000195059": 34,
+      "gas:candidate-vibid:1001000136037": 35,
+      "special:against-all": 171
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=313001003&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=331300171018&region=0&sub_region=0&type=429",
@@ -6257,12 +6257,12 @@ export const duma_2003_uik_428_region_31_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Алтухов Василий Петрович": 172,
-      "Белогуров Борис Сергеевич": 22,
-      "Голиков Георгий Георгиевич": 1088,
-      "Зайцев Евгений Николаевич": 33,
-      "Литюк Александр Иванович": 28,
-      "Против всех": 138
+      "gas:candidate-vibid:1001000121833": 172,
+      "gas:candidate-vibid:331300171122": 22,
+      "gas:candidate-vibid:331300171152": 1088,
+      "gas:candidate-vibid:1001000195059": 33,
+      "gas:candidate-vibid:1001000136037": 28,
+      "special:against-all": 138
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=313001003&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=331300171018&region=0&sub_region=0&type=429",
@@ -6312,12 +6312,12 @@ export const duma_2003_uik_428_region_31_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Алтухов Василий Петрович": 217,
-      "Белогуров Борис Сергеевич": 6,
-      "Голиков Георгий Георгиевич": 1021,
-      "Зайцев Евгений Николаевич": 26,
-      "Литюк Александр Иванович": 27,
-      "Против всех": 156
+      "gas:candidate-vibid:1001000121833": 217,
+      "gas:candidate-vibid:331300171122": 6,
+      "gas:candidate-vibid:331300171152": 1021,
+      "gas:candidate-vibid:1001000195059": 26,
+      "gas:candidate-vibid:1001000136037": 27,
+      "special:against-all": 156
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=313001003&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=331300171018&region=0&sub_region=0&type=429",
@@ -6367,12 +6367,12 @@ export const duma_2003_uik_428_region_31_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Алтухов Василий Петрович": 184,
-      "Белогуров Борис Сергеевич": 21,
-      "Голиков Георгий Георгиевич": 994,
-      "Зайцев Евгений Николаевич": 17,
-      "Литюк Александр Иванович": 18,
-      "Против всех": 119
+      "gas:candidate-vibid:1001000121833": 184,
+      "gas:candidate-vibid:331300171122": 21,
+      "gas:candidate-vibid:331300171152": 994,
+      "gas:candidate-vibid:1001000195059": 17,
+      "gas:candidate-vibid:1001000136037": 18,
+      "special:against-all": 119
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=313001003&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=331300171018&region=0&sub_region=0&type=429",
@@ -6422,12 +6422,12 @@ export const duma_2003_uik_428_region_31_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Алтухов Василий Петрович": 151,
-      "Белогуров Борис Сергеевич": 22,
-      "Голиков Георгий Георгиевич": 1008,
-      "Зайцев Евгений Николаевич": 33,
-      "Литюк Александр Иванович": 34,
-      "Против всех": 139
+      "gas:candidate-vibid:1001000121833": 151,
+      "gas:candidate-vibid:331300171122": 22,
+      "gas:candidate-vibid:331300171152": 1008,
+      "gas:candidate-vibid:1001000195059": 33,
+      "gas:candidate-vibid:1001000136037": 34,
+      "special:against-all": 139
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=313001003&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=331300171018&region=0&sub_region=0&type=429",
@@ -6477,12 +6477,12 @@ export const duma_2003_uik_428_region_31_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Алтухов Василий Петрович": 219,
-      "Белогуров Борис Сергеевич": 34,
-      "Голиков Георгий Георгиевич": 1216,
-      "Зайцев Евгений Николаевич": 25,
-      "Литюк Александр Иванович": 19,
-      "Против всех": 144
+      "gas:candidate-vibid:1001000121833": 219,
+      "gas:candidate-vibid:331300171122": 34,
+      "gas:candidate-vibid:331300171152": 1216,
+      "gas:candidate-vibid:1001000195059": 25,
+      "gas:candidate-vibid:1001000136037": 19,
+      "special:against-all": 144
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=313001003&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=331300171018&region=0&sub_region=0&type=429",
@@ -6532,12 +6532,12 @@ export const duma_2003_uik_428_region_31_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Алтухов Василий Петрович": 115,
-      "Белогуров Борис Сергеевич": 11,
-      "Голиков Георгий Георгиевич": 508,
-      "Зайцев Евгений Николаевич": 9,
-      "Литюк Александр Иванович": 16,
-      "Против всех": 82
+      "gas:candidate-vibid:1001000121833": 115,
+      "gas:candidate-vibid:331300171122": 11,
+      "gas:candidate-vibid:331300171152": 508,
+      "gas:candidate-vibid:1001000195059": 9,
+      "gas:candidate-vibid:1001000136037": 16,
+      "special:against-all": 82
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=313001003&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=331300171018&region=0&sub_region=0&type=429",
@@ -6587,12 +6587,12 @@ export const duma_2003_uik_428_region_31_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Алтухов Василий Петрович": 103,
-      "Белогуров Борис Сергеевич": 5,
-      "Голиков Георгий Георгиевич": 603,
-      "Зайцев Евгений Николаевич": 9,
-      "Литюк Александр Иванович": 17,
-      "Против всех": 81
+      "gas:candidate-vibid:1001000121833": 103,
+      "gas:candidate-vibid:331300171122": 5,
+      "gas:candidate-vibid:331300171152": 603,
+      "gas:candidate-vibid:1001000195059": 9,
+      "gas:candidate-vibid:1001000136037": 17,
+      "special:against-all": 81
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=313001003&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=331300171018&region=0&sub_region=0&type=429",
@@ -6642,12 +6642,12 @@ export const duma_2003_uik_428_region_31_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Алтухов Василий Петрович": 150,
-      "Белогуров Борис Сергеевич": 7,
-      "Голиков Георгий Георгиевич": 990,
-      "Зайцев Евгений Николаевич": 26,
-      "Литюк Александр Иванович": 27,
-      "Против всех": 140
+      "gas:candidate-vibid:1001000121833": 150,
+      "gas:candidate-vibid:331300171122": 7,
+      "gas:candidate-vibid:331300171152": 990,
+      "gas:candidate-vibid:1001000195059": 26,
+      "gas:candidate-vibid:1001000136037": 27,
+      "special:against-all": 140
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=313001003&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=331300171018&region=0&sub_region=0&type=429",
@@ -6697,12 +6697,12 @@ export const duma_2003_uik_428_region_31_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Алтухов Василий Петрович": 160,
-      "Белогуров Борис Сергеевич": 17,
-      "Голиков Георгий Георгиевич": 948,
-      "Зайцев Евгений Николаевич": 28,
-      "Литюк Александр Иванович": 23,
-      "Против всех": 130
+      "gas:candidate-vibid:1001000121833": 160,
+      "gas:candidate-vibid:331300171122": 17,
+      "gas:candidate-vibid:331300171152": 948,
+      "gas:candidate-vibid:1001000195059": 28,
+      "gas:candidate-vibid:1001000136037": 23,
+      "special:against-all": 130
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=313001003&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=331300171018&region=0&sub_region=0&type=429",
@@ -6752,12 +6752,12 @@ export const duma_2003_uik_428_region_31_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Алтухов Василий Петрович": 162,
-      "Белогуров Борис Сергеевич": 19,
-      "Голиков Георгий Георгиевич": 1083,
-      "Зайцев Евгений Николаевич": 29,
-      "Литюк Александр Иванович": 20,
-      "Против всех": 131
+      "gas:candidate-vibid:1001000121833": 162,
+      "gas:candidate-vibid:331300171122": 19,
+      "gas:candidate-vibid:331300171152": 1083,
+      "gas:candidate-vibid:1001000195059": 29,
+      "gas:candidate-vibid:1001000136037": 20,
+      "special:against-all": 131
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=313001003&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=331300171018&region=0&sub_region=0&type=429",
@@ -6807,12 +6807,12 @@ export const duma_2003_uik_428_region_31_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Алтухов Василий Петрович": 168,
-      "Белогуров Борис Сергеевич": 15,
-      "Голиков Георгий Георгиевич": 1014,
-      "Зайцев Евгений Николаевич": 24,
-      "Литюк Александр Иванович": 26,
-      "Против всех": 120
+      "gas:candidate-vibid:1001000121833": 168,
+      "gas:candidate-vibid:331300171122": 15,
+      "gas:candidate-vibid:331300171152": 1014,
+      "gas:candidate-vibid:1001000195059": 24,
+      "gas:candidate-vibid:1001000136037": 26,
+      "special:against-all": 120
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=313001003&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=331300171018&region=0&sub_region=0&type=429",
@@ -6862,12 +6862,12 @@ export const duma_2003_uik_428_region_31_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Алтухов Василий Петрович": 100,
-      "Белогуров Борис Сергеевич": 6,
-      "Голиков Георгий Георгиевич": 600,
-      "Зайцев Евгений Николаевич": 18,
-      "Литюк Александр Иванович": 10,
-      "Против всех": 68
+      "gas:candidate-vibid:1001000121833": 100,
+      "gas:candidate-vibid:331300171122": 6,
+      "gas:candidate-vibid:331300171152": 600,
+      "gas:candidate-vibid:1001000195059": 18,
+      "gas:candidate-vibid:1001000136037": 10,
+      "special:against-all": 68
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=313001003&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=331300171018&region=0&sub_region=0&type=429",
@@ -6917,12 +6917,12 @@ export const duma_2003_uik_428_region_31_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Алтухов Василий Петрович": 133,
-      "Белогуров Борис Сергеевич": 8,
-      "Голиков Георгий Георгиевич": 949,
-      "Зайцев Евгений Николаевич": 17,
-      "Литюк Александр Иванович": 24,
-      "Против всех": 144
+      "gas:candidate-vibid:1001000121833": 133,
+      "gas:candidate-vibid:331300171122": 8,
+      "gas:candidate-vibid:331300171152": 949,
+      "gas:candidate-vibid:1001000195059": 17,
+      "gas:candidate-vibid:1001000136037": 24,
+      "special:against-all": 144
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=313001003&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=331300171018&region=0&sub_region=0&type=429",
@@ -6972,12 +6972,12 @@ export const duma_2003_uik_428_region_31_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Алтухов Василий Петрович": 216,
-      "Белогуров Борис Сергеевич": 8,
-      "Голиков Георгий Георгиевич": 781,
-      "Зайцев Евгений Николаевич": 18,
-      "Литюк Александр Иванович": 15,
-      "Против всех": 116
+      "gas:candidate-vibid:1001000121833": 216,
+      "gas:candidate-vibid:331300171122": 8,
+      "gas:candidate-vibid:331300171152": 781,
+      "gas:candidate-vibid:1001000195059": 18,
+      "gas:candidate-vibid:1001000136037": 15,
+      "special:against-all": 116
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=313001003&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=331300171018&region=0&sub_region=0&type=429",
@@ -7027,12 +7027,12 @@ export const duma_2003_uik_428_region_31_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Алтухов Василий Петрович": 168,
-      "Белогуров Борис Сергеевич": 10,
-      "Голиков Георгий Георгиевич": 809,
-      "Зайцев Евгений Николаевич": 18,
-      "Литюк Александр Иванович": 11,
-      "Против всех": 94
+      "gas:candidate-vibid:1001000121833": 168,
+      "gas:candidate-vibid:331300171122": 10,
+      "gas:candidate-vibid:331300171152": 809,
+      "gas:candidate-vibid:1001000195059": 18,
+      "gas:candidate-vibid:1001000136037": 11,
+      "special:against-all": 94
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=313001003&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=331300171018&region=0&sub_region=0&type=429",
@@ -7082,12 +7082,12 @@ export const duma_2003_uik_428_region_31_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Алтухов Василий Петрович": 171,
-      "Белогуров Борис Сергеевич": 8,
-      "Голиков Георгий Георгиевич": 691,
-      "Зайцев Евгений Николаевич": 10,
-      "Литюк Александр Иванович": 15,
-      "Против всех": 109
+      "gas:candidate-vibid:1001000121833": 171,
+      "gas:candidate-vibid:331300171122": 8,
+      "gas:candidate-vibid:331300171152": 691,
+      "gas:candidate-vibid:1001000195059": 10,
+      "gas:candidate-vibid:1001000136037": 15,
+      "special:against-all": 109
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=313001003&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=331300171018&region=0&sub_region=0&type=429",
@@ -7137,12 +7137,12 @@ export const duma_2003_uik_428_region_31_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Алтухов Василий Петрович": 176,
-      "Белогуров Борис Сергеевич": 12,
-      "Голиков Георгий Георгиевич": 894,
-      "Зайцев Евгений Николаевич": 24,
-      "Литюк Александр Иванович": 13,
-      "Против всех": 96
+      "gas:candidate-vibid:1001000121833": 176,
+      "gas:candidate-vibid:331300171122": 12,
+      "gas:candidate-vibid:331300171152": 894,
+      "gas:candidate-vibid:1001000195059": 24,
+      "gas:candidate-vibid:1001000136037": 13,
+      "special:against-all": 96
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=313001003&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=331300171018&region=0&sub_region=0&type=429",
@@ -7192,12 +7192,12 @@ export const duma_2003_uik_428_region_31_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Алтухов Василий Петрович": 183,
-      "Белогуров Борис Сергеевич": 7,
-      "Голиков Георгий Георгиевич": 866,
-      "Зайцев Евгений Николаевич": 12,
-      "Литюк Александр Иванович": 17,
-      "Против всех": 115
+      "gas:candidate-vibid:1001000121833": 183,
+      "gas:candidate-vibid:331300171122": 7,
+      "gas:candidate-vibid:331300171152": 866,
+      "gas:candidate-vibid:1001000195059": 12,
+      "gas:candidate-vibid:1001000136037": 17,
+      "special:against-all": 115
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=313001003&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=331300171018&region=0&sub_region=0&type=429",
@@ -7247,12 +7247,12 @@ export const duma_2003_uik_428_region_31_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Алтухов Василий Петрович": 178,
-      "Белогуров Борис Сергеевич": 12,
-      "Голиков Георгий Георгиевич": 898,
-      "Зайцев Евгений Николаевич": 19,
-      "Литюк Александр Иванович": 23,
-      "Против всех": 88
+      "gas:candidate-vibid:1001000121833": 178,
+      "gas:candidate-vibid:331300171122": 12,
+      "gas:candidate-vibid:331300171152": 898,
+      "gas:candidate-vibid:1001000195059": 19,
+      "gas:candidate-vibid:1001000136037": 23,
+      "special:against-all": 88
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=313001003&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=331300171018&region=0&sub_region=0&type=429",
@@ -7302,12 +7302,12 @@ export const duma_2003_uik_428_region_31_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Алтухов Василий Петрович": 130,
-      "Белогуров Борис Сергеевич": 2,
-      "Голиков Георгий Георгиевич": 630,
-      "Зайцев Евгений Николаевич": 10,
-      "Литюк Александр Иванович": 14,
-      "Против всех": 75
+      "gas:candidate-vibid:1001000121833": 130,
+      "gas:candidate-vibid:331300171122": 2,
+      "gas:candidate-vibid:331300171152": 630,
+      "gas:candidate-vibid:1001000195059": 10,
+      "gas:candidate-vibid:1001000136037": 14,
+      "special:against-all": 75
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=313001003&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=331300171018&region=0&sub_region=0&type=429",
@@ -7357,12 +7357,12 @@ export const duma_2003_uik_428_region_31_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Алтухов Василий Петрович": 95,
-      "Белогуров Борис Сергеевич": 3,
-      "Голиков Георгий Георгиевич": 526,
-      "Зайцев Евгений Николаевич": 8,
-      "Литюк Александр Иванович": 6,
-      "Против всех": 86
+      "gas:candidate-vibid:1001000121833": 95,
+      "gas:candidate-vibid:331300171122": 3,
+      "gas:candidate-vibid:331300171152": 526,
+      "gas:candidate-vibid:1001000195059": 8,
+      "gas:candidate-vibid:1001000136037": 6,
+      "special:against-all": 86
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=313001003&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=331300171018&region=0&sub_region=0&type=429",
@@ -7412,12 +7412,12 @@ export const duma_2003_uik_428_region_31_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Алтухов Василий Петрович": 202,
-      "Белогуров Борис Сергеевич": 11,
-      "Голиков Георгий Георгиевич": 969,
-      "Зайцев Евгений Николаевич": 27,
-      "Литюк Александр Иванович": 9,
-      "Против всех": 108
+      "gas:candidate-vibid:1001000121833": 202,
+      "gas:candidate-vibid:331300171122": 11,
+      "gas:candidate-vibid:331300171152": 969,
+      "gas:candidate-vibid:1001000195059": 27,
+      "gas:candidate-vibid:1001000136037": 9,
+      "special:against-all": 108
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=313001003&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=331300171018&region=0&sub_region=0&type=429",
@@ -7467,12 +7467,12 @@ export const duma_2003_uik_428_region_31_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Алтухов Василий Петрович": 142,
-      "Белогуров Борис Сергеевич": 14,
-      "Голиков Георгий Георгиевич": 894,
-      "Зайцев Евгений Николаевич": 22,
-      "Литюк Александр Иванович": 17,
-      "Против всех": 104
+      "gas:candidate-vibid:1001000121833": 142,
+      "gas:candidate-vibid:331300171122": 14,
+      "gas:candidate-vibid:331300171152": 894,
+      "gas:candidate-vibid:1001000195059": 22,
+      "gas:candidate-vibid:1001000136037": 17,
+      "special:against-all": 104
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=313001003&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=331300171018&region=0&sub_region=0&type=429",
@@ -7522,12 +7522,12 @@ export const duma_2003_uik_428_region_31_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Алтухов Василий Петрович": 155,
-      "Белогуров Борис Сергеевич": 11,
-      "Голиков Георгий Георгиевич": 853,
-      "Зайцев Евгений Николаевич": 14,
-      "Литюк Александр Иванович": 20,
-      "Против всех": 108
+      "gas:candidate-vibid:1001000121833": 155,
+      "gas:candidate-vibid:331300171122": 11,
+      "gas:candidate-vibid:331300171152": 853,
+      "gas:candidate-vibid:1001000195059": 14,
+      "gas:candidate-vibid:1001000136037": 20,
+      "special:against-all": 108
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=313001003&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=331300171018&region=0&sub_region=0&type=429",
@@ -7577,12 +7577,12 @@ export const duma_2003_uik_428_region_31_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Алтухов Василий Петрович": 146,
-      "Белогуров Борис Сергеевич": 13,
-      "Голиков Георгий Георгиевич": 754,
-      "Зайцев Евгений Николаевич": 13,
-      "Литюк Александр Иванович": 18,
-      "Против всех": 104
+      "gas:candidate-vibid:1001000121833": 146,
+      "gas:candidate-vibid:331300171122": 13,
+      "gas:candidate-vibid:331300171152": 754,
+      "gas:candidate-vibid:1001000195059": 13,
+      "gas:candidate-vibid:1001000136037": 18,
+      "special:against-all": 104
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=313001003&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=331300171018&region=0&sub_region=0&type=429",
@@ -7632,12 +7632,12 @@ export const duma_2003_uik_428_region_31_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Алтухов Василий Петрович": 181,
-      "Белогуров Борис Сергеевич": 11,
-      "Голиков Георгий Георгиевич": 857,
-      "Зайцев Евгений Николаевич": 19,
-      "Литюк Александр Иванович": 27,
-      "Против всех": 97
+      "gas:candidate-vibid:1001000121833": 181,
+      "gas:candidate-vibid:331300171122": 11,
+      "gas:candidate-vibid:331300171152": 857,
+      "gas:candidate-vibid:1001000195059": 19,
+      "gas:candidate-vibid:1001000136037": 27,
+      "special:against-all": 97
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=313001003&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=331300171018&region=0&sub_region=0&type=429",
@@ -7687,12 +7687,12 @@ export const duma_2003_uik_428_region_31_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Алтухов Василий Петрович": 152,
-      "Белогуров Борис Сергеевич": 7,
-      "Голиков Георгий Георгиевич": 952,
-      "Зайцев Евгений Николаевич": 14,
-      "Литюк Александр Иванович": 16,
-      "Против всех": 169
+      "gas:candidate-vibid:1001000121833": 152,
+      "gas:candidate-vibid:331300171122": 7,
+      "gas:candidate-vibid:331300171152": 952,
+      "gas:candidate-vibid:1001000195059": 14,
+      "gas:candidate-vibid:1001000136037": 16,
+      "special:against-all": 169
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=313001003&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=331300171018&region=0&sub_region=0&type=429",
@@ -7742,12 +7742,12 @@ export const duma_2003_uik_428_region_31_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Алтухов Василий Петрович": 66,
-      "Белогуров Борис Сергеевич": 11,
-      "Голиков Георгий Георгиевич": 610,
-      "Зайцев Евгений Николаевич": 18,
-      "Литюк Александр Иванович": 16,
-      "Против всех": 112
+      "gas:candidate-vibid:1001000121833": 66,
+      "gas:candidate-vibid:331300171122": 11,
+      "gas:candidate-vibid:331300171152": 610,
+      "gas:candidate-vibid:1001000195059": 18,
+      "gas:candidate-vibid:1001000136037": 16,
+      "special:against-all": 112
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=313001003&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=331300171018&region=0&sub_region=0&type=429",
@@ -7797,12 +7797,12 @@ export const duma_2003_uik_428_region_31_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Алтухов Василий Петрович": 149,
-      "Белогуров Борис Сергеевич": 11,
-      "Голиков Георгий Георгиевич": 826,
-      "Зайцев Евгений Николаевич": 9,
-      "Литюк Александр Иванович": 21,
-      "Против всех": 98
+      "gas:candidate-vibid:1001000121833": 149,
+      "gas:candidate-vibid:331300171122": 11,
+      "gas:candidate-vibid:331300171152": 826,
+      "gas:candidate-vibid:1001000195059": 9,
+      "gas:candidate-vibid:1001000136037": 21,
+      "special:against-all": 98
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=313001003&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=331300171018&region=0&sub_region=0&type=429",
@@ -7852,12 +7852,12 @@ export const duma_2003_uik_428_region_31_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Алтухов Василий Петрович": 126,
-      "Белогуров Борис Сергеевич": 10,
-      "Голиков Георгий Георгиевич": 696,
-      "Зайцев Евгений Николаевич": 11,
-      "Литюк Александр Иванович": 10,
-      "Против всех": 93
+      "gas:candidate-vibid:1001000121833": 126,
+      "gas:candidate-vibid:331300171122": 10,
+      "gas:candidate-vibid:331300171152": 696,
+      "gas:candidate-vibid:1001000195059": 11,
+      "gas:candidate-vibid:1001000136037": 10,
+      "special:against-all": 93
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=313001003&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=331300171018&region=0&sub_region=0&type=429",
@@ -7907,12 +7907,12 @@ export const duma_2003_uik_428_region_31_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Алтухов Василий Петрович": 101,
-      "Белогуров Борис Сергеевич": 5,
-      "Голиков Георгий Георгиевич": 549,
-      "Зайцев Евгений Николаевич": 9,
-      "Литюк Александр Иванович": 14,
-      "Против всех": 53
+      "gas:candidate-vibid:1001000121833": 101,
+      "gas:candidate-vibid:331300171122": 5,
+      "gas:candidate-vibid:331300171152": 549,
+      "gas:candidate-vibid:1001000195059": 9,
+      "gas:candidate-vibid:1001000136037": 14,
+      "special:against-all": 53
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=313001003&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=331300171018&region=0&sub_region=0&type=429",
@@ -7962,12 +7962,12 @@ export const duma_2003_uik_428_region_31_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Алтухов Василий Петрович": 108,
-      "Белогуров Борис Сергеевич": 9,
-      "Голиков Георгий Георгиевич": 741,
-      "Зайцев Евгений Николаевич": 15,
-      "Литюк Александр Иванович": 21,
-      "Против всех": 72
+      "gas:candidate-vibid:1001000121833": 108,
+      "gas:candidate-vibid:331300171122": 9,
+      "gas:candidate-vibid:331300171152": 741,
+      "gas:candidate-vibid:1001000195059": 15,
+      "gas:candidate-vibid:1001000136037": 21,
+      "special:against-all": 72
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=313001003&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=331300171018&region=0&sub_region=0&type=429",
@@ -8017,12 +8017,12 @@ export const duma_2003_uik_428_region_31_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Алтухов Василий Петрович": 162,
-      "Белогуров Борис Сергеевич": 6,
-      "Голиков Георгий Георгиевич": 876,
-      "Зайцев Евгений Николаевич": 9,
-      "Литюк Александр Иванович": 14,
-      "Против всех": 99
+      "gas:candidate-vibid:1001000121833": 162,
+      "gas:candidate-vibid:331300171122": 6,
+      "gas:candidate-vibid:331300171152": 876,
+      "gas:candidate-vibid:1001000195059": 9,
+      "gas:candidate-vibid:1001000136037": 14,
+      "special:against-all": 99
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=313001003&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=331300171018&region=0&sub_region=0&type=429",
@@ -8072,12 +8072,12 @@ export const duma_2003_uik_428_region_31_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Алтухов Василий Петрович": 155,
-      "Белогуров Борис Сергеевич": 3,
-      "Голиков Георгий Георгиевич": 696,
-      "Зайцев Евгений Николаевич": 4,
-      "Литюк Александр Иванович": 7,
-      "Против всех": 63
+      "gas:candidate-vibid:1001000121833": 155,
+      "gas:candidate-vibid:331300171122": 3,
+      "gas:candidate-vibid:331300171152": 696,
+      "gas:candidate-vibid:1001000195059": 4,
+      "gas:candidate-vibid:1001000136037": 7,
+      "special:against-all": 63
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=313001003&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=331300171018&region=0&sub_region=0&type=429",
@@ -8127,12 +8127,12 @@ export const duma_2003_uik_428_region_31_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Алтухов Василий Петрович": 171,
-      "Белогуров Борис Сергеевич": 8,
-      "Голиков Георгий Георгиевич": 761,
-      "Зайцев Евгений Николаевич": 5,
-      "Литюк Александр Иванович": 13,
-      "Против всех": 94
+      "gas:candidate-vibid:1001000121833": 171,
+      "gas:candidate-vibid:331300171122": 8,
+      "gas:candidate-vibid:331300171152": 761,
+      "gas:candidate-vibid:1001000195059": 5,
+      "gas:candidate-vibid:1001000136037": 13,
+      "special:against-all": 94
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=313001003&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=331300171018&region=0&sub_region=0&type=429",
@@ -8182,12 +8182,12 @@ export const duma_2003_uik_428_region_31_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Алтухов Василий Петрович": 156,
-      "Белогуров Борис Сергеевич": 13,
-      "Голиков Георгий Георгиевич": 860,
-      "Зайцев Евгений Николаевич": 6,
-      "Литюк Александр Иванович": 13,
-      "Против всех": 93
+      "gas:candidate-vibid:1001000121833": 156,
+      "gas:candidate-vibid:331300171122": 13,
+      "gas:candidate-vibid:331300171152": 860,
+      "gas:candidate-vibid:1001000195059": 6,
+      "gas:candidate-vibid:1001000136037": 13,
+      "special:against-all": 93
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=313001003&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=331300171018&region=0&sub_region=0&type=429",
@@ -8237,12 +8237,12 @@ export const duma_2003_uik_428_region_31_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Алтухов Василий Петрович": 163,
-      "Белогуров Борис Сергеевич": 17,
-      "Голиков Георгий Георгиевич": 737,
-      "Зайцев Евгений Николаевич": 14,
-      "Литюк Александр Иванович": 7,
-      "Против всех": 83
+      "gas:candidate-vibid:1001000121833": 163,
+      "gas:candidate-vibid:331300171122": 17,
+      "gas:candidate-vibid:331300171152": 737,
+      "gas:candidate-vibid:1001000195059": 14,
+      "gas:candidate-vibid:1001000136037": 7,
+      "special:against-all": 83
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=313001003&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=331300171018&region=0&sub_region=0&type=429",
@@ -8292,12 +8292,12 @@ export const duma_2003_uik_428_region_31_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Алтухов Василий Петрович": 128,
-      "Белогуров Борис Сергеевич": 10,
-      "Голиков Георгий Георгиевич": 975,
-      "Зайцев Евгений Николаевич": 16,
-      "Литюк Александр Иванович": 22,
-      "Против всех": 129
+      "gas:candidate-vibid:1001000121833": 128,
+      "gas:candidate-vibid:331300171122": 10,
+      "gas:candidate-vibid:331300171152": 975,
+      "gas:candidate-vibid:1001000195059": 16,
+      "gas:candidate-vibid:1001000136037": 22,
+      "special:against-all": 129
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=313001003&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=331300171018&region=0&sub_region=0&type=429",
@@ -8347,12 +8347,12 @@ export const duma_2003_uik_428_region_31_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Алтухов Василий Петрович": 101,
-      "Белогуров Борис Сергеевич": 24,
-      "Голиков Георгий Георгиевич": 843,
-      "Зайцев Евгений Николаевич": 14,
-      "Литюк Александр Иванович": 16,
-      "Против всех": 120
+      "gas:candidate-vibid:1001000121833": 101,
+      "gas:candidate-vibid:331300171122": 24,
+      "gas:candidate-vibid:331300171152": 843,
+      "gas:candidate-vibid:1001000195059": 14,
+      "gas:candidate-vibid:1001000136037": 16,
+      "special:against-all": 120
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=313001003&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=331300171018&region=0&sub_region=0&type=429",
@@ -8402,12 +8402,12 @@ export const duma_2003_uik_428_region_31_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Алтухов Василий Петрович": 175,
-      "Белогуров Борис Сергеевич": 5,
-      "Голиков Георгий Георгиевич": 1039,
-      "Зайцев Евгений Николаевич": 16,
-      "Литюк Александр Иванович": 22,
-      "Против всех": 145
+      "gas:candidate-vibid:1001000121833": 175,
+      "gas:candidate-vibid:331300171122": 5,
+      "gas:candidate-vibid:331300171152": 1039,
+      "gas:candidate-vibid:1001000195059": 16,
+      "gas:candidate-vibid:1001000136037": 22,
+      "special:against-all": 145
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=313001003&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=331300171018&region=0&sub_region=0&type=429",
@@ -8457,12 +8457,12 @@ export const duma_2003_uik_428_region_31_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Алтухов Василий Петрович": 115,
-      "Белогуров Борис Сергеевич": 16,
-      "Голиков Георгий Георгиевич": 962,
-      "Зайцев Евгений Николаевич": 22,
-      "Литюк Александр Иванович": 19,
-      "Против всех": 151
+      "gas:candidate-vibid:1001000121833": 115,
+      "gas:candidate-vibid:331300171122": 16,
+      "gas:candidate-vibid:331300171152": 962,
+      "gas:candidate-vibid:1001000195059": 22,
+      "gas:candidate-vibid:1001000136037": 19,
+      "special:against-all": 151
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=313001003&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=331300171018&region=0&sub_region=0&type=429",
@@ -8512,12 +8512,12 @@ export const duma_2003_uik_428_region_31_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Алтухов Василий Петрович": 130,
-      "Белогуров Борис Сергеевич": 10,
-      "Голиков Георгий Георгиевич": 1102,
-      "Зайцев Евгений Николаевич": 9,
-      "Литюк Александр Иванович": 54,
-      "Против всех": 122
+      "gas:candidate-vibid:1001000121833": 130,
+      "gas:candidate-vibid:331300171122": 10,
+      "gas:candidate-vibid:331300171152": 1102,
+      "gas:candidate-vibid:1001000195059": 9,
+      "gas:candidate-vibid:1001000136037": 54,
+      "special:against-all": 122
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=313001003&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=331300171018&region=0&sub_region=0&type=429",
@@ -8567,12 +8567,12 @@ export const duma_2003_uik_428_region_31_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Алтухов Василий Петрович": 167,
-      "Белогуров Борис Сергеевич": 11,
-      "Голиков Георгий Георгиевич": 1152,
-      "Зайцев Евгений Николаевич": 11,
-      "Литюк Александр Иванович": 19,
-      "Против всех": 150
+      "gas:candidate-vibid:1001000121833": 167,
+      "gas:candidate-vibid:331300171122": 11,
+      "gas:candidate-vibid:331300171152": 1152,
+      "gas:candidate-vibid:1001000195059": 11,
+      "gas:candidate-vibid:1001000136037": 19,
+      "special:against-all": 150
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=313001003&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=331300171018&region=0&sub_region=0&type=429",
@@ -8622,12 +8622,12 @@ export const duma_2003_uik_428_region_31_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Алтухов Василий Петрович": 186,
-      "Белогуров Борис Сергеевич": 11,
-      "Голиков Георгий Георгиевич": 1148,
-      "Зайцев Евгений Николаевич": 19,
-      "Литюк Александр Иванович": 14,
-      "Против всех": 154
+      "gas:candidate-vibid:1001000121833": 186,
+      "gas:candidate-vibid:331300171122": 11,
+      "gas:candidate-vibid:331300171152": 1148,
+      "gas:candidate-vibid:1001000195059": 19,
+      "gas:candidate-vibid:1001000136037": 14,
+      "special:against-all": 154
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=313001003&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=331300171018&region=0&sub_region=0&type=429",
@@ -8677,12 +8677,12 @@ export const duma_2003_uik_428_region_31_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Алтухов Василий Петрович": 56,
-      "Белогуров Борис Сергеевич": 5,
-      "Голиков Георгий Георгиевич": 477,
-      "Зайцев Евгений Николаевич": 12,
-      "Литюк Александр Иванович": 13,
-      "Против всех": 35
+      "gas:candidate-vibid:1001000121833": 56,
+      "gas:candidate-vibid:331300171122": 5,
+      "gas:candidate-vibid:331300171152": 477,
+      "gas:candidate-vibid:1001000195059": 12,
+      "gas:candidate-vibid:1001000136037": 13,
+      "special:against-all": 35
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=313001003&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=331300171018&region=0&sub_region=0&type=429",
@@ -8732,12 +8732,12 @@ export const duma_2003_uik_428_region_31_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Алтухов Василий Петрович": 36,
-      "Белогуров Борис Сергеевич": 5,
-      "Голиков Георгий Георгиевич": 305,
-      "Зайцев Евгений Николаевич": 6,
-      "Литюк Александр Иванович": 3,
-      "Против всех": 25
+      "gas:candidate-vibid:1001000121833": 36,
+      "gas:candidate-vibid:331300171122": 5,
+      "gas:candidate-vibid:331300171152": 305,
+      "gas:candidate-vibid:1001000195059": 6,
+      "gas:candidate-vibid:1001000136037": 3,
+      "special:against-all": 25
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=313001003&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=331300171018&region=0&sub_region=0&type=429",
@@ -8787,12 +8787,12 @@ export const duma_2003_uik_428_region_31_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Алтухов Василий Петрович": 67,
-      "Белогуров Борис Сергеевич": 5,
-      "Голиков Георгий Георгиевич": 602,
-      "Зайцев Евгений Николаевич": 10,
-      "Литюк Александр Иванович": 8,
-      "Против всех": 54
+      "gas:candidate-vibid:1001000121833": 67,
+      "gas:candidate-vibid:331300171122": 5,
+      "gas:candidate-vibid:331300171152": 602,
+      "gas:candidate-vibid:1001000195059": 10,
+      "gas:candidate-vibid:1001000136037": 8,
+      "special:against-all": 54
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=313001003&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=331300171018&region=0&sub_region=0&type=429",
@@ -8842,12 +8842,12 @@ export const duma_2003_uik_428_region_31_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Алтухов Василий Петрович": 92,
-      "Белогуров Борис Сергеевич": 12,
-      "Голиков Георгий Георгиевич": 645,
-      "Зайцев Евгений Николаевич": 10,
-      "Литюк Александр Иванович": 12,
-      "Против всех": 55
+      "gas:candidate-vibid:1001000121833": 92,
+      "gas:candidate-vibid:331300171122": 12,
+      "gas:candidate-vibid:331300171152": 645,
+      "gas:candidate-vibid:1001000195059": 10,
+      "gas:candidate-vibid:1001000136037": 12,
+      "special:against-all": 55
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=313001003&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=331300171018&region=0&sub_region=0&type=429",
@@ -8897,12 +8897,12 @@ export const duma_2003_uik_428_region_31_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Алтухов Василий Петрович": 70,
-      "Белогуров Борис Сергеевич": 4,
-      "Голиков Георгий Георгиевич": 551,
-      "Зайцев Евгений Николаевич": 8,
-      "Литюк Александр Иванович": 10,
-      "Против всех": 58
+      "gas:candidate-vibid:1001000121833": 70,
+      "gas:candidate-vibid:331300171122": 4,
+      "gas:candidate-vibid:331300171152": 551,
+      "gas:candidate-vibid:1001000195059": 8,
+      "gas:candidate-vibid:1001000136037": 10,
+      "special:against-all": 58
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=313001003&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=331300171018&region=0&sub_region=0&type=429",
@@ -8952,12 +8952,12 @@ export const duma_2003_uik_428_region_31_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Алтухов Василий Петрович": 185,
-      "Белогуров Борис Сергеевич": 8,
-      "Голиков Георгий Георгиевич": 811,
-      "Зайцев Евгений Николаевич": 13,
-      "Литюк Александр Иванович": 14,
-      "Против всех": 98
+      "gas:candidate-vibid:1001000121833": 185,
+      "gas:candidate-vibid:331300171122": 8,
+      "gas:candidate-vibid:331300171152": 811,
+      "gas:candidate-vibid:1001000195059": 13,
+      "gas:candidate-vibid:1001000136037": 14,
+      "special:against-all": 98
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=313001003&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=331300171018&region=0&sub_region=0&type=429",
@@ -9007,12 +9007,12 @@ export const duma_2003_uik_428_region_31_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Алтухов Василий Петрович": 156,
-      "Белогуров Борис Сергеевич": 11,
-      "Голиков Георгий Георгиевич": 803,
-      "Зайцев Евгений Николаевич": 8,
-      "Литюк Александр Иванович": 15,
-      "Против всех": 85
+      "gas:candidate-vibid:1001000121833": 156,
+      "gas:candidate-vibid:331300171122": 11,
+      "gas:candidate-vibid:331300171152": 803,
+      "gas:candidate-vibid:1001000195059": 8,
+      "gas:candidate-vibid:1001000136037": 15,
+      "special:against-all": 85
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=313001003&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=331300171018&region=0&sub_region=0&type=429",
@@ -9062,12 +9062,12 @@ export const duma_2003_uik_428_region_31_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Алтухов Василий Петрович": 169,
-      "Белогуров Борис Сергеевич": 10,
-      "Голиков Георгий Георгиевич": 740,
-      "Зайцев Евгений Николаевич": 18,
-      "Литюк Александр Иванович": 9,
-      "Против всех": 108
+      "gas:candidate-vibid:1001000121833": 169,
+      "gas:candidate-vibid:331300171122": 10,
+      "gas:candidate-vibid:331300171152": 740,
+      "gas:candidate-vibid:1001000195059": 18,
+      "gas:candidate-vibid:1001000136037": 9,
+      "special:against-all": 108
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=313001003&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=331300171018&region=0&sub_region=0&type=429",
@@ -9117,12 +9117,12 @@ export const duma_2003_uik_428_region_31_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Алтухов Василий Петрович": 130,
-      "Белогуров Борис Сергеевич": 8,
-      "Голиков Георгий Георгиевич": 612,
-      "Зайцев Евгений Николаевич": 25,
-      "Литюк Александр Иванович": 23,
-      "Против всех": 104
+      "gas:candidate-vibid:1001000121833": 130,
+      "gas:candidate-vibid:331300171122": 8,
+      "gas:candidate-vibid:331300171152": 612,
+      "gas:candidate-vibid:1001000195059": 25,
+      "gas:candidate-vibid:1001000136037": 23,
+      "special:against-all": 104
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=313001003&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=331300171018&region=0&sub_region=0&type=429",
@@ -9172,12 +9172,12 @@ export const duma_2003_uik_428_region_31_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Алтухов Василий Петрович": 252,
-      "Белогуров Борис Сергеевич": 17,
-      "Голиков Георгий Георгиевич": 836,
-      "Зайцев Евгений Николаевич": 25,
-      "Литюк Александр Иванович": 30,
-      "Против всех": 119
+      "gas:candidate-vibid:1001000121833": 252,
+      "gas:candidate-vibid:331300171122": 17,
+      "gas:candidate-vibid:331300171152": 836,
+      "gas:candidate-vibid:1001000195059": 25,
+      "gas:candidate-vibid:1001000136037": 30,
+      "special:against-all": 119
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=313001003&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=331300171018&region=0&sub_region=0&type=429",
@@ -9227,12 +9227,12 @@ export const duma_2003_uik_428_region_31_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Алтухов Василий Петрович": 156,
-      "Белогуров Борис Сергеевич": 10,
-      "Голиков Георгий Георгиевич": 686,
-      "Зайцев Евгений Николаевич": 8,
-      "Литюк Александр Иванович": 19,
-      "Против всех": 85
+      "gas:candidate-vibid:1001000121833": 156,
+      "gas:candidate-vibid:331300171122": 10,
+      "gas:candidate-vibid:331300171152": 686,
+      "gas:candidate-vibid:1001000195059": 8,
+      "gas:candidate-vibid:1001000136037": 19,
+      "special:against-all": 85
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=313001003&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=331300171018&region=0&sub_region=0&type=429",
@@ -9282,12 +9282,12 @@ export const duma_2003_uik_428_region_31_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Алтухов Василий Петрович": 107,
-      "Белогуров Борис Сергеевич": 6,
-      "Голиков Георгий Георгиевич": 796,
-      "Зайцев Евгений Николаевич": 14,
-      "Литюк Александр Иванович": 8,
-      "Против всех": 107
+      "gas:candidate-vibid:1001000121833": 107,
+      "gas:candidate-vibid:331300171122": 6,
+      "gas:candidate-vibid:331300171152": 796,
+      "gas:candidate-vibid:1001000195059": 14,
+      "gas:candidate-vibid:1001000136037": 8,
+      "special:against-all": 107
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=313001003&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=331300171018&region=0&sub_region=0&type=429",
@@ -9337,12 +9337,12 @@ export const duma_2003_uik_428_region_31_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Алтухов Василий Петрович": 160,
-      "Белогуров Борис Сергеевич": 15,
-      "Голиков Георгий Георгиевич": 832,
-      "Зайцев Евгений Николаевич": 14,
-      "Литюк Александр Иванович": 17,
-      "Против всех": 116
+      "gas:candidate-vibid:1001000121833": 160,
+      "gas:candidate-vibid:331300171122": 15,
+      "gas:candidate-vibid:331300171152": 832,
+      "gas:candidate-vibid:1001000195059": 14,
+      "gas:candidate-vibid:1001000136037": 17,
+      "special:against-all": 116
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=313001003&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=331300171018&region=0&sub_region=0&type=429",
@@ -9392,12 +9392,12 @@ export const duma_2003_uik_428_region_31_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Алтухов Василий Петрович": 118,
-      "Белогуров Борис Сергеевич": 8,
-      "Голиков Георгий Георгиевич": 472,
-      "Зайцев Евгений Николаевич": 11,
-      "Литюк Александр Иванович": 12,
-      "Против всех": 65
+      "gas:candidate-vibid:1001000121833": 118,
+      "gas:candidate-vibid:331300171122": 8,
+      "gas:candidate-vibid:331300171152": 472,
+      "gas:candidate-vibid:1001000195059": 11,
+      "gas:candidate-vibid:1001000136037": 12,
+      "special:against-all": 65
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=313001003&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=331300171018&region=0&sub_region=0&type=429",
@@ -9447,12 +9447,12 @@ export const duma_2003_uik_428_region_31_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Алтухов Василий Петрович": 80,
-      "Белогуров Борис Сергеевич": 11,
-      "Голиков Георгий Георгиевич": 539,
-      "Зайцев Евгений Николаевич": 10,
-      "Литюк Александр Иванович": 19,
-      "Против всех": 65
+      "gas:candidate-vibid:1001000121833": 80,
+      "gas:candidate-vibid:331300171122": 11,
+      "gas:candidate-vibid:331300171152": 539,
+      "gas:candidate-vibid:1001000195059": 10,
+      "gas:candidate-vibid:1001000136037": 19,
+      "special:against-all": 65
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=313001003&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=331300171018&region=0&sub_region=0&type=429",
@@ -9502,12 +9502,12 @@ export const duma_2003_uik_428_region_31_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Алтухов Василий Петрович": 132,
-      "Белогуров Борис Сергеевич": 13,
-      "Голиков Георгий Георгиевич": 1053,
-      "Зайцев Евгений Николаевич": 16,
-      "Литюк Александр Иванович": 26,
-      "Против всех": 120
+      "gas:candidate-vibid:1001000121833": 132,
+      "gas:candidate-vibid:331300171122": 13,
+      "gas:candidate-vibid:331300171152": 1053,
+      "gas:candidate-vibid:1001000195059": 16,
+      "gas:candidate-vibid:1001000136037": 26,
+      "special:against-all": 120
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=313001003&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=331300171018&region=0&sub_region=0&type=429",
@@ -9557,12 +9557,12 @@ export const duma_2003_uik_428_region_31_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Алтухов Василий Петрович": 115,
-      "Белогуров Борис Сергеевич": 7,
-      "Голиков Георгий Георгиевич": 750,
-      "Зайцев Евгений Николаевич": 15,
-      "Литюк Александр Иванович": 21,
-      "Против всех": 79
+      "gas:candidate-vibid:1001000121833": 115,
+      "gas:candidate-vibid:331300171122": 7,
+      "gas:candidate-vibid:331300171152": 750,
+      "gas:candidate-vibid:1001000195059": 15,
+      "gas:candidate-vibid:1001000136037": 21,
+      "special:against-all": 79
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=313001003&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=331300171018&region=0&sub_region=0&type=429",
@@ -9612,12 +9612,12 @@ export const duma_2003_uik_428_region_31_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Алтухов Василий Петрович": 114,
-      "Белогуров Борис Сергеевич": 6,
-      "Голиков Георгий Георгиевич": 597,
-      "Зайцев Евгений Николаевич": 4,
-      "Литюк Александр Иванович": 12,
-      "Против всех": 50
+      "gas:candidate-vibid:1001000121833": 114,
+      "gas:candidate-vibid:331300171122": 6,
+      "gas:candidate-vibid:331300171152": 597,
+      "gas:candidate-vibid:1001000195059": 4,
+      "gas:candidate-vibid:1001000136037": 12,
+      "special:against-all": 50
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=313001003&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=331300171018&region=0&sub_region=0&type=429",
@@ -9667,12 +9667,12 @@ export const duma_2003_uik_428_region_31_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Алтухов Василий Петрович": 142,
-      "Белогуров Борис Сергеевич": 5,
-      "Голиков Георгий Георгиевич": 568,
-      "Зайцев Евгений Николаевич": 14,
-      "Литюк Александр Иванович": 6,
-      "Против всех": 67
+      "gas:candidate-vibid:1001000121833": 142,
+      "gas:candidate-vibid:331300171122": 5,
+      "gas:candidate-vibid:331300171152": 568,
+      "gas:candidate-vibid:1001000195059": 14,
+      "gas:candidate-vibid:1001000136037": 6,
+      "special:against-all": 67
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=313001003&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=331300171018&region=0&sub_region=0&type=429",
@@ -9722,12 +9722,12 @@ export const duma_2003_uik_428_region_31_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Алтухов Василий Петрович": 119,
-      "Белогуров Борис Сергеевич": 6,
-      "Голиков Георгий Георгиевич": 662,
-      "Зайцев Евгений Николаевич": 9,
-      "Литюк Александр Иванович": 13,
-      "Против всех": 76
+      "gas:candidate-vibid:1001000121833": 119,
+      "gas:candidate-vibid:331300171122": 6,
+      "gas:candidate-vibid:331300171152": 662,
+      "gas:candidate-vibid:1001000195059": 9,
+      "gas:candidate-vibid:1001000136037": 13,
+      "special:against-all": 76
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=313001003&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=331300171018&region=0&sub_region=0&type=429",
@@ -9777,12 +9777,12 @@ export const duma_2003_uik_428_region_31_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Алтухов Василий Петрович": 134,
-      "Белогуров Борис Сергеевич": 11,
-      "Голиков Георгий Георгиевич": 736,
-      "Зайцев Евгений Николаевич": 17,
-      "Литюк Александр Иванович": 18,
-      "Против всех": 73
+      "gas:candidate-vibid:1001000121833": 134,
+      "gas:candidate-vibid:331300171122": 11,
+      "gas:candidate-vibid:331300171152": 736,
+      "gas:candidate-vibid:1001000195059": 17,
+      "gas:candidate-vibid:1001000136037": 18,
+      "special:against-all": 73
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=313001003&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=331300171018&region=0&sub_region=0&type=429",
@@ -9832,12 +9832,12 @@ export const duma_2003_uik_428_region_31_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Алтухов Василий Петрович": 173,
-      "Белогуров Борис Сергеевич": 8,
-      "Голиков Георгий Георгиевич": 961,
-      "Зайцев Евгений Николаевич": 20,
-      "Литюк Александр Иванович": 25,
-      "Против всех": 117
+      "gas:candidate-vibid:1001000121833": 173,
+      "gas:candidate-vibid:331300171122": 8,
+      "gas:candidate-vibid:331300171152": 961,
+      "gas:candidate-vibid:1001000195059": 20,
+      "gas:candidate-vibid:1001000136037": 25,
+      "special:against-all": 117
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=313001003&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=331300171018&region=0&sub_region=0&type=429",
@@ -9887,12 +9887,12 @@ export const duma_2003_uik_428_region_31_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Алтухов Василий Петрович": 89,
-      "Белогуров Борис Сергеевич": 6,
-      "Голиков Георгий Георгиевич": 647,
-      "Зайцев Евгений Николаевич": 16,
-      "Литюк Александр Иванович": 12,
-      "Против всех": 47
+      "gas:candidate-vibid:1001000121833": 89,
+      "gas:candidate-vibid:331300171122": 6,
+      "gas:candidate-vibid:331300171152": 647,
+      "gas:candidate-vibid:1001000195059": 16,
+      "gas:candidate-vibid:1001000136037": 12,
+      "special:against-all": 47
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=313001003&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=331300171018&region=0&sub_region=0&type=429",
@@ -9942,12 +9942,12 @@ export const duma_2003_uik_428_region_31_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Алтухов Василий Петрович": 116,
-      "Белогуров Борис Сергеевич": 6,
-      "Голиков Георгий Георгиевич": 831,
-      "Зайцев Евгений Николаевич": 6,
-      "Литюк Александр Иванович": 22,
-      "Против всех": 84
+      "gas:candidate-vibid:1001000121833": 116,
+      "gas:candidate-vibid:331300171122": 6,
+      "gas:candidate-vibid:331300171152": 831,
+      "gas:candidate-vibid:1001000195059": 6,
+      "gas:candidate-vibid:1001000136037": 22,
+      "special:against-all": 84
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=313001003&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=331300171018&region=0&sub_region=0&type=429",
@@ -9997,12 +9997,12 @@ export const duma_2003_uik_428_region_31_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Алтухов Василий Петрович": 231,
-      "Белогуров Борис Сергеевич": 18,
-      "Голиков Георгий Георгиевич": 980,
-      "Зайцев Евгений Николаевич": 17,
-      "Литюк Александр Иванович": 11,
-      "Против всех": 125
+      "gas:candidate-vibid:1001000121833": 231,
+      "gas:candidate-vibid:331300171122": 18,
+      "gas:candidate-vibid:331300171152": 980,
+      "gas:candidate-vibid:1001000195059": 17,
+      "gas:candidate-vibid:1001000136037": 11,
+      "special:against-all": 125
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=313001003&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=331300171018&region=0&sub_region=0&type=429",
@@ -10052,12 +10052,12 @@ export const duma_2003_uik_428_region_31_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Алтухов Василий Петрович": 142,
-      "Белогуров Борис Сергеевич": 7,
-      "Голиков Георгий Георгиевич": 736,
-      "Зайцев Евгений Николаевич": 17,
-      "Литюк Александр Иванович": 15,
-      "Против всех": 79
+      "gas:candidate-vibid:1001000121833": 142,
+      "gas:candidate-vibid:331300171122": 7,
+      "gas:candidate-vibid:331300171152": 736,
+      "gas:candidate-vibid:1001000195059": 17,
+      "gas:candidate-vibid:1001000136037": 15,
+      "special:against-all": 79
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=313001003&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=331300171018&region=0&sub_region=0&type=429",
@@ -10107,12 +10107,12 @@ export const duma_2003_uik_428_region_31_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Алтухов Василий Петрович": 196,
-      "Белогуров Борис Сергеевич": 11,
-      "Голиков Георгий Георгиевич": 797,
-      "Зайцев Евгений Николаевич": 16,
-      "Литюк Александр Иванович": 13,
-      "Против всех": 74
+      "gas:candidate-vibid:1001000121833": 196,
+      "gas:candidate-vibid:331300171122": 11,
+      "gas:candidate-vibid:331300171152": 797,
+      "gas:candidate-vibid:1001000195059": 16,
+      "gas:candidate-vibid:1001000136037": 13,
+      "special:against-all": 74
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=313001003&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=331300171018&region=0&sub_region=0&type=429",
@@ -10162,12 +10162,12 @@ export const duma_2003_uik_428_region_31_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Алтухов Василий Петрович": 220,
-      "Белогуров Борис Сергеевич": 10,
-      "Голиков Георгий Георгиевич": 760,
-      "Зайцев Евгений Николаевич": 14,
-      "Литюк Александр Иванович": 16,
-      "Против всех": 94
+      "gas:candidate-vibid:1001000121833": 220,
+      "gas:candidate-vibid:331300171122": 10,
+      "gas:candidate-vibid:331300171152": 760,
+      "gas:candidate-vibid:1001000195059": 14,
+      "gas:candidate-vibid:1001000136037": 16,
+      "special:against-all": 94
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=313001003&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=331300171018&region=0&sub_region=0&type=429",
@@ -10217,12 +10217,12 @@ export const duma_2003_uik_428_region_31_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Алтухов Василий Петрович": 172,
-      "Белогуров Борис Сергеевич": 5,
-      "Голиков Георгий Георгиевич": 762,
-      "Зайцев Евгений Николаевич": 10,
-      "Литюк Александр Иванович": 12,
-      "Против всех": 85
+      "gas:candidate-vibid:1001000121833": 172,
+      "gas:candidate-vibid:331300171122": 5,
+      "gas:candidate-vibid:331300171152": 762,
+      "gas:candidate-vibid:1001000195059": 10,
+      "gas:candidate-vibid:1001000136037": 12,
+      "special:against-all": 85
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=313001003&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=331300171018&region=0&sub_region=0&type=429",
@@ -10272,12 +10272,12 @@ export const duma_2003_uik_428_region_31_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Алтухов Василий Петрович": 211,
-      "Белогуров Борис Сергеевич": 8,
-      "Голиков Георгий Георгиевич": 744,
-      "Зайцев Евгений Николаевич": 12,
-      "Литюк Александр Иванович": 13,
-      "Против всех": 86
+      "gas:candidate-vibid:1001000121833": 211,
+      "gas:candidate-vibid:331300171122": 8,
+      "gas:candidate-vibid:331300171152": 744,
+      "gas:candidate-vibid:1001000195059": 12,
+      "gas:candidate-vibid:1001000136037": 13,
+      "special:against-all": 86
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=313001003&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=331300171018&region=0&sub_region=0&type=429",
@@ -10327,12 +10327,12 @@ export const duma_2003_uik_428_region_31_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Алтухов Василий Петрович": 147,
-      "Белогуров Борис Сергеевич": 12,
-      "Голиков Георгий Георгиевич": 857,
-      "Зайцев Евгений Николаевич": 19,
-      "Литюк Александр Иванович": 28,
-      "Против всех": 151
+      "gas:candidate-vibid:1001000121833": 147,
+      "gas:candidate-vibid:331300171122": 12,
+      "gas:candidate-vibid:331300171152": 857,
+      "gas:candidate-vibid:1001000195059": 19,
+      "gas:candidate-vibid:1001000136037": 28,
+      "special:against-all": 151
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=313001003&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=331300171018&region=0&sub_region=0&type=429",
@@ -10382,12 +10382,12 @@ export const duma_2003_uik_428_region_31_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Алтухов Василий Петрович": 188,
-      "Белогуров Борис Сергеевич": 15,
-      "Голиков Георгий Георгиевич": 756,
-      "Зайцев Евгений Николаевич": 20,
-      "Литюк Александр Иванович": 21,
-      "Против всех": 178
+      "gas:candidate-vibid:1001000121833": 188,
+      "gas:candidate-vibid:331300171122": 15,
+      "gas:candidate-vibid:331300171152": 756,
+      "gas:candidate-vibid:1001000195059": 20,
+      "gas:candidate-vibid:1001000136037": 21,
+      "special:against-all": 178
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=313001003&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=331300171018&region=0&sub_region=0&type=429",
@@ -10437,12 +10437,12 @@ export const duma_2003_uik_428_region_31_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Алтухов Василий Петрович": 224,
-      "Белогуров Борис Сергеевич": 22,
-      "Голиков Георгий Георгиевич": 1094,
-      "Зайцев Евгений Николаевич": 37,
-      "Литюк Александр Иванович": 49,
-      "Против всех": 294
+      "gas:candidate-vibid:1001000121833": 224,
+      "gas:candidate-vibid:331300171122": 22,
+      "gas:candidate-vibid:331300171152": 1094,
+      "gas:candidate-vibid:1001000195059": 37,
+      "gas:candidate-vibid:1001000136037": 49,
+      "special:against-all": 294
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=313001003&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=331300171018&region=0&sub_region=0&type=429",
@@ -10492,12 +10492,12 @@ export const duma_2003_uik_428_region_31_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Алтухов Василий Петрович": 198,
-      "Белогуров Борис Сергеевич": 17,
-      "Голиков Георгий Георгиевич": 1114,
-      "Зайцев Евгений Николаевич": 16,
-      "Литюк Александр Иванович": 17,
-      "Против всех": 113
+      "gas:candidate-vibid:1001000121833": 198,
+      "gas:candidate-vibid:331300171122": 17,
+      "gas:candidate-vibid:331300171152": 1114,
+      "gas:candidate-vibid:1001000195059": 16,
+      "gas:candidate-vibid:1001000136037": 17,
+      "special:against-all": 113
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=313001003&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=331300171018&region=0&sub_region=0&type=429",
@@ -10547,12 +10547,12 @@ export const duma_2003_uik_428_region_31_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Алтухов Василий Петрович": 254,
-      "Белогуров Борис Сергеевич": 22,
-      "Голиков Георгий Георгиевич": 933,
-      "Зайцев Евгений Николаевич": 15,
-      "Литюк Александр Иванович": 12,
-      "Против всех": 112
+      "gas:candidate-vibid:1001000121833": 254,
+      "gas:candidate-vibid:331300171122": 22,
+      "gas:candidate-vibid:331300171152": 933,
+      "gas:candidate-vibid:1001000195059": 15,
+      "gas:candidate-vibid:1001000136037": 12,
+      "special:against-all": 112
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=313001003&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=331300171018&region=0&sub_region=0&type=429",
@@ -10602,12 +10602,12 @@ export const duma_2003_uik_428_region_31_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Алтухов Василий Петрович": 156,
-      "Белогуров Борис Сергеевич": 8,
-      "Голиков Георгий Георгиевич": 548,
-      "Зайцев Евгений Николаевич": 2,
-      "Литюк Александр Иванович": 13,
-      "Против всех": 54
+      "gas:candidate-vibid:1001000121833": 156,
+      "gas:candidate-vibid:331300171122": 8,
+      "gas:candidate-vibid:331300171152": 548,
+      "gas:candidate-vibid:1001000195059": 2,
+      "gas:candidate-vibid:1001000136037": 13,
+      "special:against-all": 54
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=313001003&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=331300171018&region=0&sub_region=0&type=429",
@@ -10657,12 +10657,12 @@ export const duma_2003_uik_428_region_31_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Алтухов Василий Петрович": 167,
-      "Белогуров Борис Сергеевич": 5,
-      "Голиков Георгий Георгиевич": 579,
-      "Зайцев Евгений Николаевич": 14,
-      "Литюк Александр Иванович": 12,
-      "Против всех": 59
+      "gas:candidate-vibid:1001000121833": 167,
+      "gas:candidate-vibid:331300171122": 5,
+      "gas:candidate-vibid:331300171152": 579,
+      "gas:candidate-vibid:1001000195059": 14,
+      "gas:candidate-vibid:1001000136037": 12,
+      "special:against-all": 59
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=313001003&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=331300171018&region=0&sub_region=0&type=429",
@@ -10712,12 +10712,12 @@ export const duma_2003_uik_428_region_31_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Алтухов Василий Петрович": 118,
-      "Белогуров Борис Сергеевич": 10,
-      "Голиков Георгий Георгиевич": 655,
-      "Зайцев Евгений Николаевич": 9,
-      "Литюк Александр Иванович": 4,
-      "Против всех": 75
+      "gas:candidate-vibid:1001000121833": 118,
+      "gas:candidate-vibid:331300171122": 10,
+      "gas:candidate-vibid:331300171152": 655,
+      "gas:candidate-vibid:1001000195059": 9,
+      "gas:candidate-vibid:1001000136037": 4,
+      "special:against-all": 75
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=313001003&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=331300171018&region=0&sub_region=0&type=429",
@@ -10767,12 +10767,12 @@ export const duma_2003_uik_428_region_31_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Алтухов Василий Петрович": 107,
-      "Белогуров Борис Сергеевич": 9,
-      "Голиков Георгий Георгиевич": 677,
-      "Зайцев Евгений Николаевич": 8,
-      "Литюк Александр Иванович": 9,
-      "Против всех": 67
+      "gas:candidate-vibid:1001000121833": 107,
+      "gas:candidate-vibid:331300171122": 9,
+      "gas:candidate-vibid:331300171152": 677,
+      "gas:candidate-vibid:1001000195059": 8,
+      "gas:candidate-vibid:1001000136037": 9,
+      "special:against-all": 67
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=313001003&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=331300171018&region=0&sub_region=0&type=429",
@@ -10822,12 +10822,12 @@ export const duma_2003_uik_428_region_31_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Алтухов Василий Петрович": 151,
-      "Белогуров Борис Сергеевич": 13,
-      "Голиков Георгий Георгиевич": 1232,
-      "Зайцев Евгений Николаевич": 9,
-      "Литюк Александр Иванович": 10,
-      "Против всех": 85
+      "gas:candidate-vibid:1001000121833": 151,
+      "gas:candidate-vibid:331300171122": 13,
+      "gas:candidate-vibid:331300171152": 1232,
+      "gas:candidate-vibid:1001000195059": 9,
+      "gas:candidate-vibid:1001000136037": 10,
+      "special:against-all": 85
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=313001003&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=331300171018&region=0&sub_region=0&type=429",
@@ -10877,12 +10877,12 @@ export const duma_2003_uik_428_region_31_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Алтухов Василий Петрович": 114,
-      "Белогуров Борис Сергеевич": 4,
-      "Голиков Георгий Георгиевич": 690,
-      "Зайцев Евгений Николаевич": 6,
-      "Литюк Александр Иванович": 6,
-      "Против всех": 57
+      "gas:candidate-vibid:1001000121833": 114,
+      "gas:candidate-vibid:331300171122": 4,
+      "gas:candidate-vibid:331300171152": 690,
+      "gas:candidate-vibid:1001000195059": 6,
+      "gas:candidate-vibid:1001000136037": 6,
+      "special:against-all": 57
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=313001003&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=331300171018&region=0&sub_region=0&type=429",
@@ -10932,12 +10932,12 @@ export const duma_2003_uik_428_region_31_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Алтухов Василий Петрович": 70,
-      "Белогуров Борис Сергеевич": 8,
-      "Голиков Георгий Георгиевич": 1037,
-      "Зайцев Евгений Николаевич": 5,
-      "Литюк Александр Иванович": 9,
-      "Против всех": 43
+      "gas:candidate-vibid:1001000121833": 70,
+      "gas:candidate-vibid:331300171122": 8,
+      "gas:candidate-vibid:331300171152": 1037,
+      "gas:candidate-vibid:1001000195059": 5,
+      "gas:candidate-vibid:1001000136037": 9,
+      "special:against-all": 43
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=313001003&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=331300171018&region=0&sub_region=0&type=429",
@@ -10987,12 +10987,12 @@ export const duma_2003_uik_428_region_31_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Алтухов Василий Петрович": 144,
-      "Белогуров Борис Сергеевич": 20,
-      "Голиков Георгий Георгиевич": 1098,
-      "Зайцев Евгений Николаевич": 20,
-      "Литюк Александр Иванович": 17,
-      "Против всех": 97
+      "gas:candidate-vibid:1001000121833": 144,
+      "gas:candidate-vibid:331300171122": 20,
+      "gas:candidate-vibid:331300171152": 1098,
+      "gas:candidate-vibid:1001000195059": 20,
+      "gas:candidate-vibid:1001000136037": 17,
+      "special:against-all": 97
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=313001003&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=331300171018&region=0&sub_region=0&type=429",
@@ -11042,12 +11042,12 @@ export const duma_2003_uik_428_region_31_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Алтухов Василий Петрович": 222,
-      "Белогуров Борис Сергеевич": 6,
-      "Голиков Георгий Георгиевич": 935,
-      "Зайцев Евгений Николаевич": 10,
-      "Литюк Александр Иванович": 17,
-      "Против всех": 76
+      "gas:candidate-vibid:1001000121833": 222,
+      "gas:candidate-vibid:331300171122": 6,
+      "gas:candidate-vibid:331300171152": 935,
+      "gas:candidate-vibid:1001000195059": 10,
+      "gas:candidate-vibid:1001000136037": 17,
+      "special:against-all": 76
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=313001003&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=331300171018&region=0&sub_region=0&type=429",
@@ -11097,12 +11097,12 @@ export const duma_2003_uik_428_region_31_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Алтухов Василий Петрович": 213,
-      "Белогуров Борис Сергеевич": 13,
-      "Голиков Георгий Георгиевич": 1321,
-      "Зайцев Евгений Николаевич": 15,
-      "Литюк Александр Иванович": 22,
-      "Против всех": 143
+      "gas:candidate-vibid:1001000121833": 213,
+      "gas:candidate-vibid:331300171122": 13,
+      "gas:candidate-vibid:331300171152": 1321,
+      "gas:candidate-vibid:1001000195059": 15,
+      "gas:candidate-vibid:1001000136037": 22,
+      "special:against-all": 143
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=313001003&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=331300171018&region=0&sub_region=0&type=429",
@@ -11152,12 +11152,12 @@ export const duma_2003_uik_428_region_31_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Алтухов Василий Петрович": 244,
-      "Белогуров Борис Сергеевич": 14,
-      "Голиков Георгий Георгиевич": 1020,
-      "Зайцев Евгений Николаевич": 16,
-      "Литюк Александр Иванович": 14,
-      "Против всех": 100
+      "gas:candidate-vibid:1001000121833": 244,
+      "gas:candidate-vibid:331300171122": 14,
+      "gas:candidate-vibid:331300171152": 1020,
+      "gas:candidate-vibid:1001000195059": 16,
+      "gas:candidate-vibid:1001000136037": 14,
+      "special:against-all": 100
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=313001003&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=331300171018&region=0&sub_region=0&type=429",
@@ -11207,12 +11207,12 @@ export const duma_2003_uik_428_region_31_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Алтухов Василий Петрович": 86,
-      "Белогуров Борис Сергеевич": 14,
-      "Голиков Георгий Георгиевич": 670,
-      "Зайцев Евгений Николаевич": 4,
-      "Литюк Александр Иванович": 9,
-      "Против всех": 59
+      "gas:candidate-vibid:1001000121833": 86,
+      "gas:candidate-vibid:331300171122": 14,
+      "gas:candidate-vibid:331300171152": 670,
+      "gas:candidate-vibid:1001000195059": 4,
+      "gas:candidate-vibid:1001000136037": 9,
+      "special:against-all": 59
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=313001003&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=331300171018&region=0&sub_region=0&type=429",
@@ -11262,12 +11262,12 @@ export const duma_2003_uik_428_region_31_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Алтухов Василий Петрович": 154,
-      "Белогуров Борис Сергеевич": 7,
-      "Голиков Георгий Георгиевич": 1168,
-      "Зайцев Евгений Николаевич": 10,
-      "Литюк Александр Иванович": 20,
-      "Против всех": 126
+      "gas:candidate-vibid:1001000121833": 154,
+      "gas:candidate-vibid:331300171122": 7,
+      "gas:candidate-vibid:331300171152": 1168,
+      "gas:candidate-vibid:1001000195059": 10,
+      "gas:candidate-vibid:1001000136037": 20,
+      "special:against-all": 126
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=313001003&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=331300171018&region=0&sub_region=0&type=429",
@@ -11317,12 +11317,12 @@ export const duma_2003_uik_428_region_31_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Алтухов Василий Петрович": 191,
-      "Белогуров Борис Сергеевич": 15,
-      "Голиков Георгий Георгиевич": 1182,
-      "Зайцев Евгений Николаевич": 25,
-      "Литюк Александр Иванович": 17,
-      "Против всех": 99
+      "gas:candidate-vibid:1001000121833": 191,
+      "gas:candidate-vibid:331300171122": 15,
+      "gas:candidate-vibid:331300171152": 1182,
+      "gas:candidate-vibid:1001000195059": 25,
+      "gas:candidate-vibid:1001000136037": 17,
+      "special:against-all": 99
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=313001003&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=331300171018&region=0&sub_region=0&type=429",
@@ -11372,12 +11372,12 @@ export const duma_2003_uik_428_region_31_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Алтухов Василий Петрович": 185,
-      "Белогуров Борис Сергеевич": 13,
-      "Голиков Георгий Георгиевич": 766,
-      "Зайцев Евгений Николаевич": 13,
-      "Литюк Александр Иванович": 17,
-      "Против всех": 104
+      "gas:candidate-vibid:1001000121833": 185,
+      "gas:candidate-vibid:331300171122": 13,
+      "gas:candidate-vibid:331300171152": 766,
+      "gas:candidate-vibid:1001000195059": 13,
+      "gas:candidate-vibid:1001000136037": 17,
+      "special:against-all": 104
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=313001003&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=331300171018&region=0&sub_region=0&type=429",
@@ -11427,12 +11427,12 @@ export const duma_2003_uik_428_region_31_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Алтухов Василий Петрович": 212,
-      "Белогуров Борис Сергеевич": 8,
-      "Голиков Георгий Георгиевич": 668,
-      "Зайцев Евгений Николаевич": 8,
-      "Литюк Александр Иванович": 7,
-      "Против всех": 61
+      "gas:candidate-vibid:1001000121833": 212,
+      "gas:candidate-vibid:331300171122": 8,
+      "gas:candidate-vibid:331300171152": 668,
+      "gas:candidate-vibid:1001000195059": 8,
+      "gas:candidate-vibid:1001000136037": 7,
+      "special:against-all": 61
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=313001003&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=331300171018&region=0&sub_region=0&type=429",
@@ -11482,12 +11482,12 @@ export const duma_2003_uik_428_region_31_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Алтухов Василий Петрович": 146,
-      "Белогуров Борис Сергеевич": 13,
-      "Голиков Георгий Георгиевич": 614,
-      "Зайцев Евгений Николаевич": 7,
-      "Литюк Александр Иванович": 7,
-      "Против всех": 48
+      "gas:candidate-vibid:1001000121833": 146,
+      "gas:candidate-vibid:331300171122": 13,
+      "gas:candidate-vibid:331300171152": 614,
+      "gas:candidate-vibid:1001000195059": 7,
+      "gas:candidate-vibid:1001000136037": 7,
+      "special:against-all": 48
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=313001003&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=331300171018&region=0&sub_region=0&type=429",
@@ -11537,12 +11537,12 @@ export const duma_2003_uik_428_region_31_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Алтухов Василий Петрович": 116,
-      "Белогуров Борис Сергеевич": 1,
-      "Голиков Георгий Георгиевич": 782,
-      "Зайцев Евгений Николаевич": 6,
-      "Литюк Александр Иванович": 13,
-      "Против всех": 68
+      "gas:candidate-vibid:1001000121833": 116,
+      "gas:candidate-vibid:331300171122": 1,
+      "gas:candidate-vibid:331300171152": 782,
+      "gas:candidate-vibid:1001000195059": 6,
+      "gas:candidate-vibid:1001000136037": 13,
+      "special:against-all": 68
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=313001003&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=331300171018&region=0&sub_region=0&type=429",
@@ -11592,12 +11592,12 @@ export const duma_2003_uik_428_region_31_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Алтухов Василий Петрович": 152,
-      "Белогуров Борис Сергеевич": 10,
-      "Голиков Георгий Георгиевич": 813,
-      "Зайцев Евгений Николаевич": 14,
-      "Литюк Александр Иванович": 9,
-      "Против всех": 57
+      "gas:candidate-vibid:1001000121833": 152,
+      "gas:candidate-vibid:331300171122": 10,
+      "gas:candidate-vibid:331300171152": 813,
+      "gas:candidate-vibid:1001000195059": 14,
+      "gas:candidate-vibid:1001000136037": 9,
+      "special:against-all": 57
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=313001003&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=331300171018&region=0&sub_region=0&type=429",
@@ -11647,12 +11647,12 @@ export const duma_2003_uik_428_region_31_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Алтухов Василий Петрович": 120,
-      "Белогуров Борис Сергеевич": 4,
-      "Голиков Георгий Георгиевич": 570,
-      "Зайцев Евгений Николаевич": 6,
-      "Литюк Александр Иванович": 8,
-      "Против всех": 58
+      "gas:candidate-vibid:1001000121833": 120,
+      "gas:candidate-vibid:331300171122": 4,
+      "gas:candidate-vibid:331300171152": 570,
+      "gas:candidate-vibid:1001000195059": 6,
+      "gas:candidate-vibid:1001000136037": 8,
+      "special:against-all": 58
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=313001003&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=331300171018&region=0&sub_region=0&type=429",
@@ -11702,12 +11702,12 @@ export const duma_2003_uik_428_region_31_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Алтухов Василий Петрович": 185,
-      "Белогуров Борис Сергеевич": 11,
-      "Голиков Георгий Георгиевич": 1066,
-      "Зайцев Евгений Николаевич": 17,
-      "Литюк Александр Иванович": 16,
-      "Против всех": 113
+      "gas:candidate-vibid:1001000121833": 185,
+      "gas:candidate-vibid:331300171122": 11,
+      "gas:candidate-vibid:331300171152": 1066,
+      "gas:candidate-vibid:1001000195059": 17,
+      "gas:candidate-vibid:1001000136037": 16,
+      "special:against-all": 113
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=313001003&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=331300171018&region=0&sub_region=0&type=429",
@@ -11757,12 +11757,12 @@ export const duma_2003_uik_428_region_31_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Алтухов Василий Петрович": 110,
-      "Белогуров Борис Сергеевич": 8,
-      "Голиков Георгий Георгиевич": 705,
-      "Зайцев Евгений Николаевич": 12,
-      "Литюк Александр Иванович": 17,
-      "Против всех": 75
+      "gas:candidate-vibid:1001000121833": 110,
+      "gas:candidate-vibid:331300171122": 8,
+      "gas:candidate-vibid:331300171152": 705,
+      "gas:candidate-vibid:1001000195059": 12,
+      "gas:candidate-vibid:1001000136037": 17,
+      "special:against-all": 75
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=313001003&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=331300171018&region=0&sub_region=0&type=429",
@@ -11812,12 +11812,12 @@ export const duma_2003_uik_428_region_31_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Алтухов Василий Петрович": 59,
-      "Белогуров Борис Сергеевич": 8,
-      "Голиков Георгий Георгиевич": 536,
-      "Зайцев Евгений Николаевич": 7,
-      "Литюк Александр Иванович": 10,
-      "Против всех": 49
+      "gas:candidate-vibid:1001000121833": 59,
+      "gas:candidate-vibid:331300171122": 8,
+      "gas:candidate-vibid:331300171152": 536,
+      "gas:candidate-vibid:1001000195059": 7,
+      "gas:candidate-vibid:1001000136037": 10,
+      "special:against-all": 49
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=313001003&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=331300171018&region=0&sub_region=0&type=429",
@@ -11867,12 +11867,12 @@ export const duma_2003_uik_428_region_31_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Алтухов Василий Петрович": 165,
-      "Белогуров Борис Сергеевич": 10,
-      "Голиков Георгий Георгиевич": 1092,
-      "Зайцев Евгений Николаевич": 12,
-      "Литюк Александр Иванович": 15,
-      "Против всех": 69
+      "gas:candidate-vibid:1001000121833": 165,
+      "gas:candidate-vibid:331300171122": 10,
+      "gas:candidate-vibid:331300171152": 1092,
+      "gas:candidate-vibid:1001000195059": 12,
+      "gas:candidate-vibid:1001000136037": 15,
+      "special:against-all": 69
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=313001003&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=331300171018&region=0&sub_region=0&type=429",
@@ -11922,12 +11922,12 @@ export const duma_2003_uik_428_region_31_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Алтухов Василий Петрович": 84,
-      "Белогуров Борис Сергеевич": 4,
-      "Голиков Георгий Георгиевич": 467,
-      "Зайцев Евгений Николаевич": 10,
-      "Литюк Александр Иванович": 11,
-      "Против всех": 52
+      "gas:candidate-vibid:1001000121833": 84,
+      "gas:candidate-vibid:331300171122": 4,
+      "gas:candidate-vibid:331300171152": 467,
+      "gas:candidate-vibid:1001000195059": 10,
+      "gas:candidate-vibid:1001000136037": 11,
+      "special:against-all": 52
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=313001003&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=331300171018&region=0&sub_region=0&type=429",
@@ -11977,12 +11977,12 @@ export const duma_2003_uik_428_region_31_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Алтухов Василий Петрович": 176,
-      "Белогуров Борис Сергеевич": 16,
-      "Голиков Георгий Георгиевич": 944,
-      "Зайцев Евгений Николаевич": 13,
-      "Литюк Александр Иванович": 25,
-      "Против всех": 109
+      "gas:candidate-vibid:1001000121833": 176,
+      "gas:candidate-vibid:331300171122": 16,
+      "gas:candidate-vibid:331300171152": 944,
+      "gas:candidate-vibid:1001000195059": 13,
+      "gas:candidate-vibid:1001000136037": 25,
+      "special:against-all": 109
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=313001003&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=331300171018&region=0&sub_region=0&type=429",
@@ -12032,12 +12032,12 @@ export const duma_2003_uik_428_region_31_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Алтухов Василий Петрович": 189,
-      "Белогуров Борис Сергеевич": 8,
-      "Голиков Георгий Георгиевич": 933,
-      "Зайцев Евгений Николаевич": 10,
-      "Литюк Александр Иванович": 19,
-      "Против всех": 93
+      "gas:candidate-vibid:1001000121833": 189,
+      "gas:candidate-vibid:331300171122": 8,
+      "gas:candidate-vibid:331300171152": 933,
+      "gas:candidate-vibid:1001000195059": 10,
+      "gas:candidate-vibid:1001000136037": 19,
+      "special:against-all": 93
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=313001003&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=331300171018&region=0&sub_region=0&type=429",
@@ -12087,12 +12087,12 @@ export const duma_2003_uik_428_region_31_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Алтухов Василий Петрович": 153,
-      "Белогуров Борис Сергеевич": 1,
-      "Голиков Георгий Георгиевич": 628,
-      "Зайцев Евгений Николаевич": 12,
-      "Литюк Александр Иванович": 21,
-      "Против всех": 75
+      "gas:candidate-vibid:1001000121833": 153,
+      "gas:candidate-vibid:331300171122": 1,
+      "gas:candidate-vibid:331300171152": 628,
+      "gas:candidate-vibid:1001000195059": 12,
+      "gas:candidate-vibid:1001000136037": 21,
+      "special:against-all": 75
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=313001003&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=331300171018&region=0&sub_region=0&type=429",
@@ -12142,12 +12142,12 @@ export const duma_2003_uik_428_region_31_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Алтухов Василий Петрович": 150,
-      "Белогуров Борис Сергеевич": 10,
-      "Голиков Георгий Георгиевич": 755,
-      "Зайцев Евгений Николаевич": 13,
-      "Литюк Александр Иванович": 26,
-      "Против всех": 108
+      "gas:candidate-vibid:1001000121833": 150,
+      "gas:candidate-vibid:331300171122": 10,
+      "gas:candidate-vibid:331300171152": 755,
+      "gas:candidate-vibid:1001000195059": 13,
+      "gas:candidate-vibid:1001000136037": 26,
+      "special:against-all": 108
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=313001003&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=331300171018&region=0&sub_region=0&type=429",
@@ -12197,12 +12197,12 @@ export const duma_2003_uik_428_region_31_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Алтухов Василий Петрович": 90,
-      "Белогуров Борис Сергеевич": 4,
-      "Голиков Георгий Георгиевич": 464,
-      "Зайцев Евгений Николаевич": 7,
-      "Литюк Александр Иванович": 7,
-      "Против всех": 51
+      "gas:candidate-vibid:1001000121833": 90,
+      "gas:candidate-vibid:331300171122": 4,
+      "gas:candidate-vibid:331300171152": 464,
+      "gas:candidate-vibid:1001000195059": 7,
+      "gas:candidate-vibid:1001000136037": 7,
+      "special:against-all": 51
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=313001003&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=331300171018&region=0&sub_region=0&type=429",
@@ -12252,12 +12252,12 @@ export const duma_2003_uik_428_region_31_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Алтухов Василий Петрович": 102,
-      "Белогуров Борис Сергеевич": 7,
-      "Голиков Георгий Георгиевич": 630,
-      "Зайцев Евгений Николаевич": 15,
-      "Литюк Александр Иванович": 18,
-      "Против всех": 82
+      "gas:candidate-vibid:1001000121833": 102,
+      "gas:candidate-vibid:331300171122": 7,
+      "gas:candidate-vibid:331300171152": 630,
+      "gas:candidate-vibid:1001000195059": 15,
+      "gas:candidate-vibid:1001000136037": 18,
+      "special:against-all": 82
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=313001003&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=331300171018&region=0&sub_region=0&type=429",
@@ -12307,12 +12307,12 @@ export const duma_2003_uik_428_region_31_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Алтухов Василий Петрович": 131,
-      "Белогуров Борис Сергеевич": 21,
-      "Голиков Георгий Георгиевич": 907,
-      "Зайцев Евгений Николаевич": 14,
-      "Литюк Александр Иванович": 25,
-      "Против всех": 119
+      "gas:candidate-vibid:1001000121833": 131,
+      "gas:candidate-vibid:331300171122": 21,
+      "gas:candidate-vibid:331300171152": 907,
+      "gas:candidate-vibid:1001000195059": 14,
+      "gas:candidate-vibid:1001000136037": 25,
+      "special:against-all": 119
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=313001003&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=331300171018&region=0&sub_region=0&type=429",
@@ -12362,12 +12362,12 @@ export const duma_2003_uik_428_region_31_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Алтухов Василий Петрович": 117,
-      "Белогуров Борис Сергеевич": 36,
-      "Голиков Георгий Георгиевич": 703,
-      "Зайцев Евгений Николаевич": 43,
-      "Литюк Александр Иванович": 63,
-      "Против всех": 491
+      "gas:candidate-vibid:1001000121833": 117,
+      "gas:candidate-vibid:331300171122": 36,
+      "gas:candidate-vibid:331300171152": 703,
+      "gas:candidate-vibid:1001000195059": 43,
+      "gas:candidate-vibid:1001000136037": 63,
+      "special:against-all": 491
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=313001003&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=331300171018&region=0&sub_region=0&type=429",
@@ -12417,12 +12417,12 @@ export const duma_2003_uik_428_region_31_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Алтухов Василий Петрович": 164,
-      "Белогуров Борис Сергеевич": 8,
-      "Голиков Георгий Георгиевич": 762,
-      "Зайцев Евгений Николаевич": 11,
-      "Литюк Александр Иванович": 11,
-      "Против всех": 92
+      "gas:candidate-vibid:1001000121833": 164,
+      "gas:candidate-vibid:331300171122": 8,
+      "gas:candidate-vibid:331300171152": 762,
+      "gas:candidate-vibid:1001000195059": 11,
+      "gas:candidate-vibid:1001000136037": 11,
+      "special:against-all": 92
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=313001003&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=331300171018&region=0&sub_region=0&type=429",
@@ -12472,12 +12472,12 @@ export const duma_2003_uik_428_region_31_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Алтухов Василий Петрович": 127,
-      "Белогуров Борис Сергеевич": 12,
-      "Голиков Георгий Георгиевич": 809,
-      "Зайцев Евгений Николаевич": 17,
-      "Литюк Александр Иванович": 22,
-      "Против всех": 129
+      "gas:candidate-vibid:1001000121833": 127,
+      "gas:candidate-vibid:331300171122": 12,
+      "gas:candidate-vibid:331300171152": 809,
+      "gas:candidate-vibid:1001000195059": 17,
+      "gas:candidate-vibid:1001000136037": 22,
+      "special:against-all": 129
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=313001003&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=331300171018&region=0&sub_region=0&type=429",
@@ -12527,12 +12527,12 @@ export const duma_2003_uik_428_region_31_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Алтухов Василий Петрович": 127,
-      "Белогуров Борис Сергеевич": 10,
-      "Голиков Георгий Георгиевич": 903,
-      "Зайцев Евгений Николаевич": 21,
-      "Литюк Александр Иванович": 19,
-      "Против всех": 136
+      "gas:candidate-vibid:1001000121833": 127,
+      "gas:candidate-vibid:331300171122": 10,
+      "gas:candidate-vibid:331300171152": 903,
+      "gas:candidate-vibid:1001000195059": 21,
+      "gas:candidate-vibid:1001000136037": 19,
+      "special:against-all": 136
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=313001003&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=331300171018&region=0&sub_region=0&type=429",
@@ -12582,12 +12582,12 @@ export const duma_2003_uik_428_region_31_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Алтухов Василий Петрович": 121,
-      "Белогуров Борис Сергеевич": 8,
-      "Голиков Георгий Георгиевич": 862,
-      "Зайцев Евгений Николаевич": 12,
-      "Литюк Александр Иванович": 22,
-      "Против всех": 93
+      "gas:candidate-vibid:1001000121833": 121,
+      "gas:candidate-vibid:331300171122": 8,
+      "gas:candidate-vibid:331300171152": 862,
+      "gas:candidate-vibid:1001000195059": 12,
+      "gas:candidate-vibid:1001000136037": 22,
+      "special:against-all": 93
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=313001003&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=331300171018&region=0&sub_region=0&type=429",
@@ -12637,12 +12637,12 @@ export const duma_2003_uik_428_region_31_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Алтухов Василий Петрович": 169,
-      "Белогуров Борис Сергеевич": 15,
-      "Голиков Георгий Георгиевич": 1007,
-      "Зайцев Евгений Николаевич": 18,
-      "Литюк Александр Иванович": 19,
-      "Против всех": 113
+      "gas:candidate-vibid:1001000121833": 169,
+      "gas:candidate-vibid:331300171122": 15,
+      "gas:candidate-vibid:331300171152": 1007,
+      "gas:candidate-vibid:1001000195059": 18,
+      "gas:candidate-vibid:1001000136037": 19,
+      "special:against-all": 113
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=313001003&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=331300171018&region=0&sub_region=0&type=429",
@@ -12692,12 +12692,12 @@ export const duma_2003_uik_428_region_31_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Алтухов Василий Петрович": 155,
-      "Белогуров Борис Сергеевич": 7,
-      "Голиков Георгий Георгиевич": 913,
-      "Зайцев Евгений Николаевич": 20,
-      "Литюк Александр Иванович": 14,
-      "Против всех": 135
+      "gas:candidate-vibid:1001000121833": 155,
+      "gas:candidate-vibid:331300171122": 7,
+      "gas:candidate-vibid:331300171152": 913,
+      "gas:candidate-vibid:1001000195059": 20,
+      "gas:candidate-vibid:1001000136037": 14,
+      "special:against-all": 135
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=313001003&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=331300171018&region=0&sub_region=0&type=429",
@@ -12747,12 +12747,12 @@ export const duma_2003_uik_428_region_31_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Алтухов Василий Петрович": 200,
-      "Белогуров Борис Сергеевич": 5,
-      "Голиков Георгий Георгиевич": 854,
-      "Зайцев Евгений Николаевич": 8,
-      "Литюк Александр Иванович": 14,
-      "Против всех": 125
+      "gas:candidate-vibid:1001000121833": 200,
+      "gas:candidate-vibid:331300171122": 5,
+      "gas:candidate-vibid:331300171152": 854,
+      "gas:candidate-vibid:1001000195059": 8,
+      "gas:candidate-vibid:1001000136037": 14,
+      "special:against-all": 125
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=313001003&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=331300171018&region=0&sub_region=0&type=429",
@@ -12802,12 +12802,12 @@ export const duma_2003_uik_428_region_31_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Алтухов Василий Петрович": 168,
-      "Белогуров Борис Сергеевич": 11,
-      "Голиков Георгий Георгиевич": 910,
-      "Зайцев Евгений Николаевич": 18,
-      "Литюк Александр Иванович": 23,
-      "Против всех": 109
+      "gas:candidate-vibid:1001000121833": 168,
+      "gas:candidate-vibid:331300171122": 11,
+      "gas:candidate-vibid:331300171152": 910,
+      "gas:candidate-vibid:1001000195059": 18,
+      "gas:candidate-vibid:1001000136037": 23,
+      "special:against-all": 109
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=313001003&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=331300171018&region=0&sub_region=0&type=429",
@@ -12857,12 +12857,12 @@ export const duma_2003_uik_428_region_31_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Алтухов Василий Петрович": 61,
-      "Белогуров Борис Сергеевич": 6,
-      "Голиков Георгий Георгиевич": 342,
-      "Зайцев Евгений Николаевич": 7,
-      "Литюк Александр Иванович": 3,
-      "Против всех": 58
+      "gas:candidate-vibid:1001000121833": 61,
+      "gas:candidate-vibid:331300171122": 6,
+      "gas:candidate-vibid:331300171152": 342,
+      "gas:candidate-vibid:1001000195059": 7,
+      "gas:candidate-vibid:1001000136037": 3,
+      "special:against-all": 58
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=313001003&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=331300171018&region=0&sub_region=0&type=429",
@@ -12912,12 +12912,12 @@ export const duma_2003_uik_428_region_31_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Алтухов Василий Петрович": 12,
-      "Белогуров Борис Сергеевич": 2,
-      "Голиков Георгий Георгиевич": 114,
-      "Зайцев Евгений Николаевич": 1,
-      "Литюк Александр Иванович": 2,
-      "Против всех": 27
+      "gas:candidate-vibid:1001000121833": 12,
+      "gas:candidate-vibid:331300171122": 2,
+      "gas:candidate-vibid:331300171152": 114,
+      "gas:candidate-vibid:1001000195059": 1,
+      "gas:candidate-vibid:1001000136037": 2,
+      "special:against-all": 27
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=313001003&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=331300171018&region=0&sub_region=0&type=429",
@@ -12967,12 +12967,12 @@ export const duma_2003_uik_428_region_31_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Алтухов Василий Петрович": 78,
-      "Белогуров Борис Сергеевич": 6,
-      "Голиков Георгий Георгиевич": 529,
-      "Зайцев Евгений Николаевич": 7,
-      "Литюк Александр Иванович": 6,
-      "Против всех": 83
+      "gas:candidate-vibid:1001000121833": 78,
+      "gas:candidate-vibid:331300171122": 6,
+      "gas:candidate-vibid:331300171152": 529,
+      "gas:candidate-vibid:1001000195059": 7,
+      "gas:candidate-vibid:1001000136037": 6,
+      "special:against-all": 83
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=313001003&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=331300171018&region=0&sub_region=0&type=429",
@@ -13022,12 +13022,12 @@ export const duma_2003_uik_428_region_31_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Алтухов Василий Петрович": 13,
-      "Белогуров Борис Сергеевич": 4,
-      "Голиков Георгий Георгиевич": 92,
-      "Зайцев Евгений Николаевич": 2,
-      "Литюк Александр Иванович": 9,
-      "Против всех": 10
+      "gas:candidate-vibid:1001000121833": 13,
+      "gas:candidate-vibid:331300171122": 4,
+      "gas:candidate-vibid:331300171152": 92,
+      "gas:candidate-vibid:1001000195059": 2,
+      "gas:candidate-vibid:1001000136037": 9,
+      "special:against-all": 10
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=313001003&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=331300171018&region=0&sub_region=0&type=429",
@@ -13077,12 +13077,12 @@ export const duma_2003_uik_428_region_31_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Алтухов Василий Петрович": 58,
-      "Белогуров Борис Сергеевич": 4,
-      "Голиков Георгий Георгиевич": 308,
-      "Зайцев Евгений Николаевич": 8,
-      "Литюк Александр Иванович": 9,
-      "Против всех": 42
+      "gas:candidate-vibid:1001000121833": 58,
+      "gas:candidate-vibid:331300171122": 4,
+      "gas:candidate-vibid:331300171152": 308,
+      "gas:candidate-vibid:1001000195059": 8,
+      "gas:candidate-vibid:1001000136037": 9,
+      "special:against-all": 42
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=313001003&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=331300171018&region=0&sub_region=0&type=429",
@@ -13132,12 +13132,12 @@ export const duma_2003_uik_428_region_31_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Алтухов Василий Петрович": 45,
-      "Белогуров Борис Сергеевич": 6,
-      "Голиков Георгий Георгиевич": 107,
-      "Зайцев Евгений Николаевич": 3,
-      "Литюк Александр Иванович": 4,
-      "Против всех": 19
+      "gas:candidate-vibid:1001000121833": 45,
+      "gas:candidate-vibid:331300171122": 6,
+      "gas:candidate-vibid:331300171152": 107,
+      "gas:candidate-vibid:1001000195059": 3,
+      "gas:candidate-vibid:1001000136037": 4,
+      "special:against-all": 19
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=313001003&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=331300171018&region=0&sub_region=0&type=429",
@@ -13187,12 +13187,12 @@ export const duma_2003_uik_428_region_31_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Алтухов Василий Петрович": 7,
-      "Белогуров Борис Сергеевич": 1,
-      "Голиков Георгий Георгиевич": 111,
-      "Зайцев Евгений Николаевич": 2,
-      "Литюк Александр Иванович": 3,
-      "Против всех": 14
+      "gas:candidate-vibid:1001000121833": 7,
+      "gas:candidate-vibid:331300171122": 1,
+      "gas:candidate-vibid:331300171152": 111,
+      "gas:candidate-vibid:1001000195059": 2,
+      "gas:candidate-vibid:1001000136037": 3,
+      "special:against-all": 14
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=313001003&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=331300171018&region=0&sub_region=0&type=429",
@@ -13242,12 +13242,12 @@ export const duma_2003_uik_428_region_31_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Алтухов Василий Петрович": 24,
-      "Белогуров Борис Сергеевич": 5,
-      "Голиков Георгий Георгиевич": 182,
-      "Зайцев Евгений Николаевич": 8,
-      "Литюк Александр Иванович": 4,
-      "Против всех": 61
+      "gas:candidate-vibid:1001000121833": 24,
+      "gas:candidate-vibid:331300171122": 5,
+      "gas:candidate-vibid:331300171152": 182,
+      "gas:candidate-vibid:1001000195059": 8,
+      "gas:candidate-vibid:1001000136037": 4,
+      "special:against-all": 61
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=313001003&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=331300171018&region=0&sub_region=0&type=429",
@@ -13297,12 +13297,12 @@ export const duma_2003_uik_428_region_31_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Алтухов Василий Петрович": 16,
-      "Белогуров Борис Сергеевич": 0,
-      "Голиков Георгий Георгиевич": 117,
-      "Зайцев Евгений Николаевич": 1,
-      "Литюк Александр Иванович": 5,
-      "Против всех": 25
+      "gas:candidate-vibid:1001000121833": 16,
+      "gas:candidate-vibid:331300171122": 0,
+      "gas:candidate-vibid:331300171152": 117,
+      "gas:candidate-vibid:1001000195059": 1,
+      "gas:candidate-vibid:1001000136037": 5,
+      "special:against-all": 25
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=313001003&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=331300171018&region=0&sub_region=0&type=429",
@@ -13352,12 +13352,12 @@ export const duma_2003_uik_428_region_31_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Алтухов Василий Петрович": 95,
-      "Белогуров Борис Сергеевич": 10,
-      "Голиков Георгий Георгиевич": 751,
-      "Зайцев Евгений Николаевич": 20,
-      "Литюк Александр Иванович": 31,
-      "Против всех": 69
+      "gas:candidate-vibid:1001000121833": 95,
+      "gas:candidate-vibid:331300171122": 10,
+      "gas:candidate-vibid:331300171152": 751,
+      "gas:candidate-vibid:1001000195059": 20,
+      "gas:candidate-vibid:1001000136037": 31,
+      "special:against-all": 69
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=313001004&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=331300171028&region=0&sub_region=0&type=429",
@@ -13407,12 +13407,12 @@ export const duma_2003_uik_428_region_31_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Алтухов Василий Петрович": 84,
-      "Белогуров Борис Сергеевич": 0,
-      "Голиков Георгий Георгиевич": 247,
-      "Зайцев Евгений Николаевич": 0,
-      "Литюк Александр Иванович": 2,
-      "Против всех": 4
+      "gas:candidate-vibid:1001000121833": 84,
+      "gas:candidate-vibid:331300171122": 0,
+      "gas:candidate-vibid:331300171152": 247,
+      "gas:candidate-vibid:1001000195059": 0,
+      "gas:candidate-vibid:1001000136037": 2,
+      "special:against-all": 4
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=313001004&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=331300171028&region=0&sub_region=0&type=429",
@@ -13462,12 +13462,12 @@ export const duma_2003_uik_428_region_31_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Алтухов Василий Петрович": 42,
-      "Белогуров Борис Сергеевич": 3,
-      "Голиков Георгий Георгиевич": 187,
-      "Зайцев Евгений Николаевич": 6,
-      "Литюк Александр Иванович": 6,
-      "Против всех": 18
+      "gas:candidate-vibid:1001000121833": 42,
+      "gas:candidate-vibid:331300171122": 3,
+      "gas:candidate-vibid:331300171152": 187,
+      "gas:candidate-vibid:1001000195059": 6,
+      "gas:candidate-vibid:1001000136037": 6,
+      "special:against-all": 18
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=313001004&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=331300171028&region=0&sub_region=0&type=429",
@@ -13517,12 +13517,12 @@ export const duma_2003_uik_428_region_31_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Алтухов Василий Петрович": 90,
-      "Белогуров Борис Сергеевич": 5,
-      "Голиков Георгий Георгиевич": 365,
-      "Зайцев Евгений Николаевич": 11,
-      "Литюк Александр Иванович": 7,
-      "Против всех": 58
+      "gas:candidate-vibid:1001000121833": 90,
+      "gas:candidate-vibid:331300171122": 5,
+      "gas:candidate-vibid:331300171152": 365,
+      "gas:candidate-vibid:1001000195059": 11,
+      "gas:candidate-vibid:1001000136037": 7,
+      "special:against-all": 58
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=313001004&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=331300171028&region=0&sub_region=0&type=429",
@@ -13572,12 +13572,12 @@ export const duma_2003_uik_428_region_31_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Алтухов Василий Петрович": 70,
-      "Белогуров Борис Сергеевич": 7,
-      "Голиков Георгий Георгиевич": 401,
-      "Зайцев Евгений Николаевич": 5,
-      "Литюк Александр Иванович": 31,
-      "Против всех": 41
+      "gas:candidate-vibid:1001000121833": 70,
+      "gas:candidate-vibid:331300171122": 7,
+      "gas:candidate-vibid:331300171152": 401,
+      "gas:candidate-vibid:1001000195059": 5,
+      "gas:candidate-vibid:1001000136037": 31,
+      "special:against-all": 41
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=313001004&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=331300171028&region=0&sub_region=0&type=429",
@@ -13627,12 +13627,12 @@ export const duma_2003_uik_428_region_31_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Алтухов Василий Петрович": 92,
-      "Белогуров Борис Сергеевич": 3,
-      "Голиков Георгий Георгиевич": 334,
-      "Зайцев Евгений Николаевич": 4,
-      "Литюк Александр Иванович": 10,
-      "Против всех": 21
+      "gas:candidate-vibid:1001000121833": 92,
+      "gas:candidate-vibid:331300171122": 3,
+      "gas:candidate-vibid:331300171152": 334,
+      "gas:candidate-vibid:1001000195059": 4,
+      "gas:candidate-vibid:1001000136037": 10,
+      "special:against-all": 21
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=313001004&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=331300171028&region=0&sub_region=0&type=429",
@@ -13682,12 +13682,12 @@ export const duma_2003_uik_428_region_31_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Алтухов Василий Петрович": 165,
-      "Белогуров Борис Сергеевич": 10,
-      "Голиков Георгий Георгиевич": 815,
-      "Зайцев Евгений Николаевич": 16,
-      "Литюк Александр Иванович": 45,
-      "Против всех": 124
+      "gas:candidate-vibid:1001000121833": 165,
+      "gas:candidate-vibid:331300171122": 10,
+      "gas:candidate-vibid:331300171152": 815,
+      "gas:candidate-vibid:1001000195059": 16,
+      "gas:candidate-vibid:1001000136037": 45,
+      "special:against-all": 124
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=313001004&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=331300171028&region=0&sub_region=0&type=429",
@@ -13737,12 +13737,12 @@ export const duma_2003_uik_428_region_31_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Алтухов Василий Петрович": 19,
-      "Белогуров Борис Сергеевич": 5,
-      "Голиков Георгий Георгиевич": 252,
-      "Зайцев Евгений Николаевич": 4,
-      "Литюк Александр Иванович": 7,
-      "Против всех": 10
+      "gas:candidate-vibid:1001000121833": 19,
+      "gas:candidate-vibid:331300171122": 5,
+      "gas:candidate-vibid:331300171152": 252,
+      "gas:candidate-vibid:1001000195059": 4,
+      "gas:candidate-vibid:1001000136037": 7,
+      "special:against-all": 10
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=313001004&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=331300171028&region=0&sub_region=0&type=429",

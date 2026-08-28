@@ -8,6402 +8,17072 @@ export const duma_2021_uik_to_tik_region_58 = [
     "uikNumber": 1,
     "uikTvd": "4584027463780",
     "tikTvd": "25820001085618",
-    "tikName": "Пенза, Октябрьская"
+    "tikName": "Пенза, Октябрьская",
+    "uikName": "УИК №1",
+    "regionCode": "58",
+    "regionTvd": "100100225883629",
+    "regionName": "Пензенская область",
+    "oikTvd": "100100225883631",
+    "oikName": "Пензенская область – Лермонтовский",
+    "district": {
+      "districtNumber": 147,
+      "oikTvd": "100100225883631"
+    }
   },
   {
     "uikNumber": 2,
     "uikTvd": "4584027463781",
     "tikTvd": "25820001085618",
-    "tikName": "Пенза, Октябрьская"
+    "tikName": "Пенза, Октябрьская",
+    "uikName": "УИК №2",
+    "regionCode": "58",
+    "regionTvd": "100100225883629",
+    "regionName": "Пензенская область",
+    "oikTvd": "100100225883631",
+    "oikName": "Пензенская область – Лермонтовский",
+    "district": {
+      "districtNumber": 147,
+      "oikTvd": "100100225883631"
+    }
   },
   {
     "uikNumber": 3,
     "uikTvd": "4584027463782",
     "tikTvd": "25820001085618",
-    "tikName": "Пенза, Октябрьская"
+    "tikName": "Пенза, Октябрьская",
+    "uikName": "УИК №3",
+    "regionCode": "58",
+    "regionTvd": "100100225883629",
+    "regionName": "Пензенская область",
+    "oikTvd": "100100225883631",
+    "oikName": "Пензенская область – Лермонтовский",
+    "district": {
+      "districtNumber": 147,
+      "oikTvd": "100100225883631"
+    }
   },
   {
     "uikNumber": 4,
     "uikTvd": "4584027463783",
     "tikTvd": "25820001085618",
-    "tikName": "Пенза, Октябрьская"
+    "tikName": "Пенза, Октябрьская",
+    "uikName": "УИК №4",
+    "regionCode": "58",
+    "regionTvd": "100100225883629",
+    "regionName": "Пензенская область",
+    "oikTvd": "100100225883631",
+    "oikName": "Пензенская область – Лермонтовский",
+    "district": {
+      "districtNumber": 147,
+      "oikTvd": "100100225883631"
+    }
   },
   {
     "uikNumber": 5,
     "uikTvd": "4584027463784",
     "tikTvd": "25820001085618",
-    "tikName": "Пенза, Октябрьская"
+    "tikName": "Пенза, Октябрьская",
+    "uikName": "УИК №5",
+    "regionCode": "58",
+    "regionTvd": "100100225883629",
+    "regionName": "Пензенская область",
+    "oikTvd": "100100225883631",
+    "oikName": "Пензенская область – Лермонтовский",
+    "district": {
+      "districtNumber": 147,
+      "oikTvd": "100100225883631"
+    }
   },
   {
     "uikNumber": 6,
     "uikTvd": "4584027463785",
     "tikTvd": "25820001085618",
-    "tikName": "Пенза, Октябрьская"
+    "tikName": "Пенза, Октябрьская",
+    "uikName": "УИК №6",
+    "regionCode": "58",
+    "regionTvd": "100100225883629",
+    "regionName": "Пензенская область",
+    "oikTvd": "100100225883631",
+    "oikName": "Пензенская область – Лермонтовский",
+    "district": {
+      "districtNumber": 147,
+      "oikTvd": "100100225883631"
+    }
   },
   {
     "uikNumber": 7,
     "uikTvd": "4584027463786",
     "tikTvd": "25820001085618",
-    "tikName": "Пенза, Октябрьская"
+    "tikName": "Пенза, Октябрьская",
+    "uikName": "УИК №7",
+    "regionCode": "58",
+    "regionTvd": "100100225883629",
+    "regionName": "Пензенская область",
+    "oikTvd": "100100225883631",
+    "oikName": "Пензенская область – Лермонтовский",
+    "district": {
+      "districtNumber": 147,
+      "oikTvd": "100100225883631"
+    }
   },
   {
     "uikNumber": 8,
     "uikTvd": "4584027463787",
     "tikTvd": "25820001085618",
-    "tikName": "Пенза, Октябрьская"
+    "tikName": "Пенза, Октябрьская",
+    "uikName": "УИК №8",
+    "regionCode": "58",
+    "regionTvd": "100100225883629",
+    "regionName": "Пензенская область",
+    "oikTvd": "100100225883631",
+    "oikName": "Пензенская область – Лермонтовский",
+    "district": {
+      "districtNumber": 147,
+      "oikTvd": "100100225883631"
+    }
   },
   {
     "uikNumber": 9,
     "uikTvd": "4584027463788",
     "tikTvd": "25820001085618",
-    "tikName": "Пенза, Октябрьская"
+    "tikName": "Пенза, Октябрьская",
+    "uikName": "УИК №9",
+    "regionCode": "58",
+    "regionTvd": "100100225883629",
+    "regionName": "Пензенская область",
+    "oikTvd": "100100225883631",
+    "oikName": "Пензенская область – Лермонтовский",
+    "district": {
+      "districtNumber": 147,
+      "oikTvd": "100100225883631"
+    }
   },
   {
     "uikNumber": 10,
     "uikTvd": "4584027463789",
     "tikTvd": "25820001085618",
-    "tikName": "Пенза, Октябрьская"
+    "tikName": "Пенза, Октябрьская",
+    "uikName": "УИК №10",
+    "regionCode": "58",
+    "regionTvd": "100100225883629",
+    "regionName": "Пензенская область",
+    "oikTvd": "100100225883631",
+    "oikName": "Пензенская область – Лермонтовский",
+    "district": {
+      "districtNumber": 147,
+      "oikTvd": "100100225883631"
+    }
   },
   {
     "uikNumber": 11,
     "uikTvd": "4584027463790",
     "tikTvd": "25820001085618",
-    "tikName": "Пенза, Октябрьская"
+    "tikName": "Пенза, Октябрьская",
+    "uikName": "УИК №11",
+    "regionCode": "58",
+    "regionTvd": "100100225883629",
+    "regionName": "Пензенская область",
+    "oikTvd": "100100225883631",
+    "oikName": "Пензенская область – Лермонтовский",
+    "district": {
+      "districtNumber": 147,
+      "oikTvd": "100100225883631"
+    }
   },
   {
     "uikNumber": 12,
     "uikTvd": "4584027463791",
     "tikTvd": "25820001085618",
-    "tikName": "Пенза, Октябрьская"
+    "tikName": "Пенза, Октябрьская",
+    "uikName": "УИК №12",
+    "regionCode": "58",
+    "regionTvd": "100100225883629",
+    "regionName": "Пензенская область",
+    "oikTvd": "100100225883631",
+    "oikName": "Пензенская область – Лермонтовский",
+    "district": {
+      "districtNumber": 147,
+      "oikTvd": "100100225883631"
+    }
   },
   {
     "uikNumber": 13,
     "uikTvd": "4584027463792",
     "tikTvd": "25820001085618",
-    "tikName": "Пенза, Октябрьская"
+    "tikName": "Пенза, Октябрьская",
+    "uikName": "УИК №13",
+    "regionCode": "58",
+    "regionTvd": "100100225883629",
+    "regionName": "Пензенская область",
+    "oikTvd": "100100225883631",
+    "oikName": "Пензенская область – Лермонтовский",
+    "district": {
+      "districtNumber": 147,
+      "oikTvd": "100100225883631"
+    }
   },
   {
     "uikNumber": 14,
     "uikTvd": "4584027463793",
     "tikTvd": "25820001085618",
-    "tikName": "Пенза, Октябрьская"
+    "tikName": "Пенза, Октябрьская",
+    "uikName": "УИК №14",
+    "regionCode": "58",
+    "regionTvd": "100100225883629",
+    "regionName": "Пензенская область",
+    "oikTvd": "100100225883631",
+    "oikName": "Пензенская область – Лермонтовский",
+    "district": {
+      "districtNumber": 147,
+      "oikTvd": "100100225883631"
+    }
   },
   {
     "uikNumber": 15,
     "uikTvd": "4584027463794",
     "tikTvd": "25820001085618",
-    "tikName": "Пенза, Октябрьская"
+    "tikName": "Пенза, Октябрьская",
+    "uikName": "УИК №15",
+    "regionCode": "58",
+    "regionTvd": "100100225883629",
+    "regionName": "Пензенская область",
+    "oikTvd": "100100225883631",
+    "oikName": "Пензенская область – Лермонтовский",
+    "district": {
+      "districtNumber": 147,
+      "oikTvd": "100100225883631"
+    }
   },
   {
     "uikNumber": 16,
     "uikTvd": "4584027463795",
     "tikTvd": "25820001085618",
-    "tikName": "Пенза, Октябрьская"
+    "tikName": "Пенза, Октябрьская",
+    "uikName": "УИК №16",
+    "regionCode": "58",
+    "regionTvd": "100100225883629",
+    "regionName": "Пензенская область",
+    "oikTvd": "100100225883631",
+    "oikName": "Пензенская область – Лермонтовский",
+    "district": {
+      "districtNumber": 147,
+      "oikTvd": "100100225883631"
+    }
   },
   {
     "uikNumber": 17,
     "uikTvd": "4584027463796",
     "tikTvd": "25820001085618",
-    "tikName": "Пенза, Октябрьская"
+    "tikName": "Пенза, Октябрьская",
+    "uikName": "УИК №17",
+    "regionCode": "58",
+    "regionTvd": "100100225883629",
+    "regionName": "Пензенская область",
+    "oikTvd": "100100225883631",
+    "oikName": "Пензенская область – Лермонтовский",
+    "district": {
+      "districtNumber": 147,
+      "oikTvd": "100100225883631"
+    }
   },
   {
     "uikNumber": 18,
     "uikTvd": "4584027463797",
     "tikTvd": "25820001085618",
-    "tikName": "Пенза, Октябрьская"
+    "tikName": "Пенза, Октябрьская",
+    "uikName": "УИК №18",
+    "regionCode": "58",
+    "regionTvd": "100100225883629",
+    "regionName": "Пензенская область",
+    "oikTvd": "100100225883631",
+    "oikName": "Пензенская область – Лермонтовский",
+    "district": {
+      "districtNumber": 147,
+      "oikTvd": "100100225883631"
+    }
   },
   {
     "uikNumber": 19,
     "uikTvd": "4584027463798",
     "tikTvd": "25820001085618",
-    "tikName": "Пенза, Октябрьская"
+    "tikName": "Пенза, Октябрьская",
+    "uikName": "УИК №19",
+    "regionCode": "58",
+    "regionTvd": "100100225883629",
+    "regionName": "Пензенская область",
+    "oikTvd": "100100225883631",
+    "oikName": "Пензенская область – Лермонтовский",
+    "district": {
+      "districtNumber": 147,
+      "oikTvd": "100100225883631"
+    }
   },
   {
     "uikNumber": 20,
     "uikTvd": "4584027463799",
     "tikTvd": "25820001085618",
-    "tikName": "Пенза, Октябрьская"
+    "tikName": "Пенза, Октябрьская",
+    "uikName": "УИК №20",
+    "regionCode": "58",
+    "regionTvd": "100100225883629",
+    "regionName": "Пензенская область",
+    "oikTvd": "100100225883631",
+    "oikName": "Пензенская область – Лермонтовский",
+    "district": {
+      "districtNumber": 147,
+      "oikTvd": "100100225883631"
+    }
   },
   {
     "uikNumber": 21,
     "uikTvd": "4584027463800",
     "tikTvd": "25820001085618",
-    "tikName": "Пенза, Октябрьская"
+    "tikName": "Пенза, Октябрьская",
+    "uikName": "УИК №21",
+    "regionCode": "58",
+    "regionTvd": "100100225883629",
+    "regionName": "Пензенская область",
+    "oikTvd": "100100225883631",
+    "oikName": "Пензенская область – Лермонтовский",
+    "district": {
+      "districtNumber": 147,
+      "oikTvd": "100100225883631"
+    }
   },
   {
     "uikNumber": 22,
     "uikTvd": "4584027463801",
     "tikTvd": "25820001085618",
-    "tikName": "Пенза, Октябрьская"
+    "tikName": "Пенза, Октябрьская",
+    "uikName": "УИК №22",
+    "regionCode": "58",
+    "regionTvd": "100100225883629",
+    "regionName": "Пензенская область",
+    "oikTvd": "100100225883631",
+    "oikName": "Пензенская область – Лермонтовский",
+    "district": {
+      "districtNumber": 147,
+      "oikTvd": "100100225883631"
+    }
   },
   {
     "uikNumber": 23,
     "uikTvd": "4584027463802",
     "tikTvd": "25820001085618",
-    "tikName": "Пенза, Октябрьская"
+    "tikName": "Пенза, Октябрьская",
+    "uikName": "УИК №23",
+    "regionCode": "58",
+    "regionTvd": "100100225883629",
+    "regionName": "Пензенская область",
+    "oikTvd": "100100225883631",
+    "oikName": "Пензенская область – Лермонтовский",
+    "district": {
+      "districtNumber": 147,
+      "oikTvd": "100100225883631"
+    }
   },
   {
     "uikNumber": 24,
     "uikTvd": "4584027463803",
     "tikTvd": "25820001085618",
-    "tikName": "Пенза, Октябрьская"
+    "tikName": "Пенза, Октябрьская",
+    "uikName": "УИК №24",
+    "regionCode": "58",
+    "regionTvd": "100100225883629",
+    "regionName": "Пензенская область",
+    "oikTvd": "100100225883631",
+    "oikName": "Пензенская область – Лермонтовский",
+    "district": {
+      "districtNumber": 147,
+      "oikTvd": "100100225883631"
+    }
   },
   {
     "uikNumber": 25,
     "uikTvd": "4584027463804",
     "tikTvd": "25820001085618",
-    "tikName": "Пенза, Октябрьская"
+    "tikName": "Пенза, Октябрьская",
+    "uikName": "УИК №25",
+    "regionCode": "58",
+    "regionTvd": "100100225883629",
+    "regionName": "Пензенская область",
+    "oikTvd": "100100225883631",
+    "oikName": "Пензенская область – Лермонтовский",
+    "district": {
+      "districtNumber": 147,
+      "oikTvd": "100100225883631"
+    }
   },
   {
     "uikNumber": 26,
     "uikTvd": "4584027463805",
     "tikTvd": "25820001085618",
-    "tikName": "Пенза, Октябрьская"
+    "tikName": "Пенза, Октябрьская",
+    "uikName": "УИК №26",
+    "regionCode": "58",
+    "regionTvd": "100100225883629",
+    "regionName": "Пензенская область",
+    "oikTvd": "100100225883631",
+    "oikName": "Пензенская область – Лермонтовский",
+    "district": {
+      "districtNumber": 147,
+      "oikTvd": "100100225883631"
+    }
   },
   {
     "uikNumber": 27,
     "uikTvd": "4584027463806",
     "tikTvd": "25820001085618",
-    "tikName": "Пенза, Октябрьская"
+    "tikName": "Пенза, Октябрьская",
+    "uikName": "УИК №27",
+    "regionCode": "58",
+    "regionTvd": "100100225883629",
+    "regionName": "Пензенская область",
+    "oikTvd": "100100225883631",
+    "oikName": "Пензенская область – Лермонтовский",
+    "district": {
+      "districtNumber": 147,
+      "oikTvd": "100100225883631"
+    }
   },
   {
     "uikNumber": 28,
     "uikTvd": "4584027463807",
     "tikTvd": "25820001085618",
-    "tikName": "Пенза, Октябрьская"
+    "tikName": "Пенза, Октябрьская",
+    "uikName": "УИК №28",
+    "regionCode": "58",
+    "regionTvd": "100100225883629",
+    "regionName": "Пензенская область",
+    "oikTvd": "100100225883631",
+    "oikName": "Пензенская область – Лермонтовский",
+    "district": {
+      "districtNumber": 147,
+      "oikTvd": "100100225883631"
+    }
   },
   {
     "uikNumber": 29,
     "uikTvd": "4584027463808",
     "tikTvd": "25820001085618",
-    "tikName": "Пенза, Октябрьская"
+    "tikName": "Пенза, Октябрьская",
+    "uikName": "УИК №29",
+    "regionCode": "58",
+    "regionTvd": "100100225883629",
+    "regionName": "Пензенская область",
+    "oikTvd": "100100225883631",
+    "oikName": "Пензенская область – Лермонтовский",
+    "district": {
+      "districtNumber": 147,
+      "oikTvd": "100100225883631"
+    }
   },
   {
     "uikNumber": 30,
     "uikTvd": "4584027463809",
     "tikTvd": "25820001085618",
-    "tikName": "Пенза, Октябрьская"
+    "tikName": "Пенза, Октябрьская",
+    "uikName": "УИК №30",
+    "regionCode": "58",
+    "regionTvd": "100100225883629",
+    "regionName": "Пензенская область",
+    "oikTvd": "100100225883631",
+    "oikName": "Пензенская область – Лермонтовский",
+    "district": {
+      "districtNumber": 147,
+      "oikTvd": "100100225883631"
+    }
   },
   {
     "uikNumber": 31,
     "uikTvd": "4584027463810",
     "tikTvd": "25820001085618",
-    "tikName": "Пенза, Октябрьская"
+    "tikName": "Пенза, Октябрьская",
+    "uikName": "УИК №31",
+    "regionCode": "58",
+    "regionTvd": "100100225883629",
+    "regionName": "Пензенская область",
+    "oikTvd": "100100225883631",
+    "oikName": "Пензенская область – Лермонтовский",
+    "district": {
+      "districtNumber": 147,
+      "oikTvd": "100100225883631"
+    }
   },
   {
     "uikNumber": 32,
     "uikTvd": "4584027463811",
     "tikTvd": "25820001085618",
-    "tikName": "Пенза, Октябрьская"
+    "tikName": "Пенза, Октябрьская",
+    "uikName": "УИК №32",
+    "regionCode": "58",
+    "regionTvd": "100100225883629",
+    "regionName": "Пензенская область",
+    "oikTvd": "100100225883631",
+    "oikName": "Пензенская область – Лермонтовский",
+    "district": {
+      "districtNumber": 147,
+      "oikTvd": "100100225883631"
+    }
   },
   {
     "uikNumber": 33,
     "uikTvd": "4584027463812",
     "tikTvd": "25820001085618",
-    "tikName": "Пенза, Октябрьская"
+    "tikName": "Пенза, Октябрьская",
+    "uikName": "УИК №33",
+    "regionCode": "58",
+    "regionTvd": "100100225883629",
+    "regionName": "Пензенская область",
+    "oikTvd": "100100225883631",
+    "oikName": "Пензенская область – Лермонтовский",
+    "district": {
+      "districtNumber": 147,
+      "oikTvd": "100100225883631"
+    }
   },
   {
     "uikNumber": 34,
     "uikTvd": "4584027463813",
     "tikTvd": "25820001085618",
-    "tikName": "Пенза, Октябрьская"
+    "tikName": "Пенза, Октябрьская",
+    "uikName": "УИК №34",
+    "regionCode": "58",
+    "regionTvd": "100100225883629",
+    "regionName": "Пензенская область",
+    "oikTvd": "100100225883631",
+    "oikName": "Пензенская область – Лермонтовский",
+    "district": {
+      "districtNumber": 147,
+      "oikTvd": "100100225883631"
+    }
   },
   {
     "uikNumber": 35,
     "uikTvd": "4584027463814",
     "tikTvd": "25820001085618",
-    "tikName": "Пенза, Октябрьская"
+    "tikName": "Пенза, Октябрьская",
+    "uikName": "УИК №35",
+    "regionCode": "58",
+    "regionTvd": "100100225883629",
+    "regionName": "Пензенская область",
+    "oikTvd": "100100225883631",
+    "oikName": "Пензенская область – Лермонтовский",
+    "district": {
+      "districtNumber": 147,
+      "oikTvd": "100100225883631"
+    }
   },
   {
     "uikNumber": 36,
     "uikTvd": "4584027463815",
     "tikTvd": "25820001085618",
-    "tikName": "Пенза, Октябрьская"
+    "tikName": "Пенза, Октябрьская",
+    "uikName": "УИК №36",
+    "regionCode": "58",
+    "regionTvd": "100100225883629",
+    "regionName": "Пензенская область",
+    "oikTvd": "100100225883631",
+    "oikName": "Пензенская область – Лермонтовский",
+    "district": {
+      "districtNumber": 147,
+      "oikTvd": "100100225883631"
+    }
   },
   {
     "uikNumber": 37,
     "uikTvd": "4584027463816",
     "tikTvd": "25820001085618",
-    "tikName": "Пенза, Октябрьская"
+    "tikName": "Пенза, Октябрьская",
+    "uikName": "УИК №37",
+    "regionCode": "58",
+    "regionTvd": "100100225883629",
+    "regionName": "Пензенская область",
+    "oikTvd": "100100225883631",
+    "oikName": "Пензенская область – Лермонтовский",
+    "district": {
+      "districtNumber": 147,
+      "oikTvd": "100100225883631"
+    }
   },
   {
     "uikNumber": 38,
     "uikTvd": "4584027463817",
     "tikTvd": "25820001085618",
-    "tikName": "Пенза, Октябрьская"
+    "tikName": "Пенза, Октябрьская",
+    "uikName": "УИК №38",
+    "regionCode": "58",
+    "regionTvd": "100100225883629",
+    "regionName": "Пензенская область",
+    "oikTvd": "100100225883631",
+    "oikName": "Пензенская область – Лермонтовский",
+    "district": {
+      "districtNumber": 147,
+      "oikTvd": "100100225883631"
+    }
   },
   {
     "uikNumber": 39,
     "uikTvd": "4584027463818",
     "tikTvd": "25820001085618",
-    "tikName": "Пенза, Октябрьская"
+    "tikName": "Пенза, Октябрьская",
+    "uikName": "УИК №39",
+    "regionCode": "58",
+    "regionTvd": "100100225883629",
+    "regionName": "Пензенская область",
+    "oikTvd": "100100225883631",
+    "oikName": "Пензенская область – Лермонтовский",
+    "district": {
+      "districtNumber": 147,
+      "oikTvd": "100100225883631"
+    }
   },
   {
     "uikNumber": 40,
     "uikTvd": "4584027463819",
     "tikTvd": "25820001085618",
-    "tikName": "Пенза, Октябрьская"
+    "tikName": "Пенза, Октябрьская",
+    "uikName": "УИК №40",
+    "regionCode": "58",
+    "regionTvd": "100100225883629",
+    "regionName": "Пензенская область",
+    "oikTvd": "100100225883631",
+    "oikName": "Пензенская область – Лермонтовский",
+    "district": {
+      "districtNumber": 147,
+      "oikTvd": "100100225883631"
+    }
   },
   {
     "uikNumber": 41,
     "uikTvd": "4584027463820",
     "tikTvd": "25820001085618",
-    "tikName": "Пенза, Октябрьская"
+    "tikName": "Пенза, Октябрьская",
+    "uikName": "УИК №41",
+    "regionCode": "58",
+    "regionTvd": "100100225883629",
+    "regionName": "Пензенская область",
+    "oikTvd": "100100225883631",
+    "oikName": "Пензенская область – Лермонтовский",
+    "district": {
+      "districtNumber": 147,
+      "oikTvd": "100100225883631"
+    }
   },
   {
     "uikNumber": 42,
     "uikTvd": "4584027463821",
     "tikTvd": "25820001085618",
-    "tikName": "Пенза, Октябрьская"
+    "tikName": "Пенза, Октябрьская",
+    "uikName": "УИК №42",
+    "regionCode": "58",
+    "regionTvd": "100100225883629",
+    "regionName": "Пензенская область",
+    "oikTvd": "100100225883631",
+    "oikName": "Пензенская область – Лермонтовский",
+    "district": {
+      "districtNumber": 147,
+      "oikTvd": "100100225883631"
+    }
   },
   {
     "uikNumber": 43,
     "uikTvd": "4584027463822",
     "tikTvd": "25820001085618",
-    "tikName": "Пенза, Октябрьская"
+    "tikName": "Пенза, Октябрьская",
+    "uikName": "УИК №43",
+    "regionCode": "58",
+    "regionTvd": "100100225883629",
+    "regionName": "Пензенская область",
+    "oikTvd": "100100225883631",
+    "oikName": "Пензенская область – Лермонтовский",
+    "district": {
+      "districtNumber": 147,
+      "oikTvd": "100100225883631"
+    }
   },
   {
     "uikNumber": 44,
     "uikTvd": "4584027463823",
     "tikTvd": "25820001085618",
-    "tikName": "Пенза, Октябрьская"
+    "tikName": "Пенза, Октябрьская",
+    "uikName": "УИК №44",
+    "regionCode": "58",
+    "regionTvd": "100100225883629",
+    "regionName": "Пензенская область",
+    "oikTvd": "100100225883631",
+    "oikName": "Пензенская область – Лермонтовский",
+    "district": {
+      "districtNumber": 147,
+      "oikTvd": "100100225883631"
+    }
   },
   {
     "uikNumber": 45,
     "uikTvd": "4584027463824",
     "tikTvd": "25820001085618",
-    "tikName": "Пенза, Октябрьская"
+    "tikName": "Пенза, Октябрьская",
+    "uikName": "УИК №45",
+    "regionCode": "58",
+    "regionTvd": "100100225883629",
+    "regionName": "Пензенская область",
+    "oikTvd": "100100225883631",
+    "oikName": "Пензенская область – Лермонтовский",
+    "district": {
+      "districtNumber": 147,
+      "oikTvd": "100100225883631"
+    }
   },
   {
     "uikNumber": 46,
     "uikTvd": "4584027463825",
     "tikTvd": "25820001085618",
-    "tikName": "Пенза, Октябрьская"
+    "tikName": "Пенза, Октябрьская",
+    "uikName": "УИК №46",
+    "regionCode": "58",
+    "regionTvd": "100100225883629",
+    "regionName": "Пензенская область",
+    "oikTvd": "100100225883631",
+    "oikName": "Пензенская область – Лермонтовский",
+    "district": {
+      "districtNumber": 147,
+      "oikTvd": "100100225883631"
+    }
   },
   {
     "uikNumber": 47,
     "uikTvd": "4584027463826",
     "tikTvd": "25820001085618",
-    "tikName": "Пенза, Октябрьская"
+    "tikName": "Пенза, Октябрьская",
+    "uikName": "УИК №47",
+    "regionCode": "58",
+    "regionTvd": "100100225883629",
+    "regionName": "Пензенская область",
+    "oikTvd": "100100225883631",
+    "oikName": "Пензенская область – Лермонтовский",
+    "district": {
+      "districtNumber": 147,
+      "oikTvd": "100100225883631"
+    }
   },
   {
     "uikNumber": 48,
     "uikTvd": "4584027463827",
     "tikTvd": "25820001085618",
-    "tikName": "Пенза, Октябрьская"
+    "tikName": "Пенза, Октябрьская",
+    "uikName": "УИК №48",
+    "regionCode": "58",
+    "regionTvd": "100100225883629",
+    "regionName": "Пензенская область",
+    "oikTvd": "100100225883631",
+    "oikName": "Пензенская область – Лермонтовский",
+    "district": {
+      "districtNumber": 147,
+      "oikTvd": "100100225883631"
+    }
   },
   {
     "uikNumber": 49,
     "uikTvd": "4584027463828",
     "tikTvd": "25820001085618",
-    "tikName": "Пенза, Октябрьская"
+    "tikName": "Пенза, Октябрьская",
+    "uikName": "УИК №49",
+    "regionCode": "58",
+    "regionTvd": "100100225883629",
+    "regionName": "Пензенская область",
+    "oikTvd": "100100225883631",
+    "oikName": "Пензенская область – Лермонтовский",
+    "district": {
+      "districtNumber": 147,
+      "oikTvd": "100100225883631"
+    }
   },
   {
     "uikNumber": 50,
     "uikTvd": "4584027463829",
     "tikTvd": "25820001085618",
-    "tikName": "Пенза, Октябрьская"
+    "tikName": "Пенза, Октябрьская",
+    "uikName": "УИК №50",
+    "regionCode": "58",
+    "regionTvd": "100100225883629",
+    "regionName": "Пензенская область",
+    "oikTvd": "100100225883631",
+    "oikName": "Пензенская область – Лермонтовский",
+    "district": {
+      "districtNumber": 147,
+      "oikTvd": "100100225883631"
+    }
   },
   {
     "uikNumber": 51,
     "uikTvd": "4584027463830",
     "tikTvd": "25820001085618",
-    "tikName": "Пенза, Октябрьская"
+    "tikName": "Пенза, Октябрьская",
+    "uikName": "УИК №51",
+    "regionCode": "58",
+    "regionTvd": "100100225883629",
+    "regionName": "Пензенская область",
+    "oikTvd": "100100225883631",
+    "oikName": "Пензенская область – Лермонтовский",
+    "district": {
+      "districtNumber": 147,
+      "oikTvd": "100100225883631"
+    }
   },
   {
     "uikNumber": 52,
     "uikTvd": "4584027463831",
     "tikTvd": "25820001085618",
-    "tikName": "Пенза, Октябрьская"
+    "tikName": "Пенза, Октябрьская",
+    "uikName": "УИК №52",
+    "regionCode": "58",
+    "regionTvd": "100100225883629",
+    "regionName": "Пензенская область",
+    "oikTvd": "100100225883631",
+    "oikName": "Пензенская область – Лермонтовский",
+    "district": {
+      "districtNumber": 147,
+      "oikTvd": "100100225883631"
+    }
   },
   {
     "uikNumber": 53,
     "uikTvd": "4584027463832",
     "tikTvd": "25820001085618",
-    "tikName": "Пенза, Октябрьская"
+    "tikName": "Пенза, Октябрьская",
+    "uikName": "УИК №53",
+    "regionCode": "58",
+    "regionTvd": "100100225883629",
+    "regionName": "Пензенская область",
+    "oikTvd": "100100225883631",
+    "oikName": "Пензенская область – Лермонтовский",
+    "district": {
+      "districtNumber": 147,
+      "oikTvd": "100100225883631"
+    }
   },
   {
     "uikNumber": 54,
     "uikTvd": "4584027463833",
     "tikTvd": "25820001085618",
-    "tikName": "Пенза, Октябрьская"
+    "tikName": "Пенза, Октябрьская",
+    "uikName": "УИК №54",
+    "regionCode": "58",
+    "regionTvd": "100100225883629",
+    "regionName": "Пензенская область",
+    "oikTvd": "100100225883631",
+    "oikName": "Пензенская область – Лермонтовский",
+    "district": {
+      "districtNumber": 147,
+      "oikTvd": "100100225883631"
+    }
   },
   {
     "uikNumber": 55,
     "uikTvd": "4584027463834",
     "tikTvd": "25820001085618",
-    "tikName": "Пенза, Октябрьская"
+    "tikName": "Пенза, Октябрьская",
+    "uikName": "УИК №55",
+    "regionCode": "58",
+    "regionTvd": "100100225883629",
+    "regionName": "Пензенская область",
+    "oikTvd": "100100225883631",
+    "oikName": "Пензенская область – Лермонтовский",
+    "district": {
+      "districtNumber": 147,
+      "oikTvd": "100100225883631"
+    }
   },
   {
     "uikNumber": 56,
     "uikTvd": "4584027463835",
     "tikTvd": "25820001085618",
-    "tikName": "Пенза, Октябрьская"
+    "tikName": "Пенза, Октябрьская",
+    "uikName": "УИК №56",
+    "regionCode": "58",
+    "regionTvd": "100100225883629",
+    "regionName": "Пензенская область",
+    "oikTvd": "100100225883631",
+    "oikName": "Пензенская область – Лермонтовский",
+    "district": {
+      "districtNumber": 147,
+      "oikTvd": "100100225883631"
+    }
   },
   {
     "uikNumber": 57,
     "uikTvd": "4584027463836",
     "tikTvd": "25820001085618",
-    "tikName": "Пенза, Октябрьская"
+    "tikName": "Пенза, Октябрьская",
+    "uikName": "УИК №57",
+    "regionCode": "58",
+    "regionTvd": "100100225883629",
+    "regionName": "Пензенская область",
+    "oikTvd": "100100225883631",
+    "oikName": "Пензенская область – Лермонтовский",
+    "district": {
+      "districtNumber": 147,
+      "oikTvd": "100100225883631"
+    }
   },
   {
     "uikNumber": 58,
     "uikTvd": "4584027463837",
     "tikTvd": "25820001085618",
-    "tikName": "Пенза, Октябрьская"
+    "tikName": "Пенза, Октябрьская",
+    "uikName": "УИК №58",
+    "regionCode": "58",
+    "regionTvd": "100100225883629",
+    "regionName": "Пензенская область",
+    "oikTvd": "100100225883631",
+    "oikName": "Пензенская область – Лермонтовский",
+    "district": {
+      "districtNumber": 147,
+      "oikTvd": "100100225883631"
+    }
   },
   {
     "uikNumber": 59,
     "uikTvd": "4584027463838",
     "tikTvd": "25820001085618",
-    "tikName": "Пенза, Октябрьская"
+    "tikName": "Пенза, Октябрьская",
+    "uikName": "УИК №59",
+    "regionCode": "58",
+    "regionTvd": "100100225883629",
+    "regionName": "Пензенская область",
+    "oikTvd": "100100225883631",
+    "oikName": "Пензенская область – Лермонтовский",
+    "district": {
+      "districtNumber": 147,
+      "oikTvd": "100100225883631"
+    }
   },
   {
     "uikNumber": 60,
     "uikTvd": "4584027463839",
     "tikTvd": "25820001085618",
-    "tikName": "Пенза, Октябрьская"
+    "tikName": "Пенза, Октябрьская",
+    "uikName": "УИК №60",
+    "regionCode": "58",
+    "regionTvd": "100100225883629",
+    "regionName": "Пензенская область",
+    "oikTvd": "100100225883631",
+    "oikName": "Пензенская область – Лермонтовский",
+    "district": {
+      "districtNumber": 147,
+      "oikTvd": "100100225883631"
+    }
   },
   {
     "uikNumber": 61,
     "uikTvd": "4584027463840",
     "tikTvd": "25820001085618",
-    "tikName": "Пенза, Октябрьская"
+    "tikName": "Пенза, Октябрьская",
+    "uikName": "УИК №61",
+    "regionCode": "58",
+    "regionTvd": "100100225883629",
+    "regionName": "Пензенская область",
+    "oikTvd": "100100225883631",
+    "oikName": "Пензенская область – Лермонтовский",
+    "district": {
+      "districtNumber": 147,
+      "oikTvd": "100100225883631"
+    }
   },
   {
     "uikNumber": 62,
     "uikTvd": "4584027463841",
     "tikTvd": "25820001085618",
-    "tikName": "Пенза, Октябрьская"
+    "tikName": "Пенза, Октябрьская",
+    "uikName": "УИК №62",
+    "regionCode": "58",
+    "regionTvd": "100100225883629",
+    "regionName": "Пензенская область",
+    "oikTvd": "100100225883631",
+    "oikName": "Пензенская область – Лермонтовский",
+    "district": {
+      "districtNumber": 147,
+      "oikTvd": "100100225883631"
+    }
   },
   {
     "uikNumber": 63,
     "uikTvd": "4584027463842",
     "tikTvd": "25820001085618",
-    "tikName": "Пенза, Октябрьская"
+    "tikName": "Пенза, Октябрьская",
+    "uikName": "УИК №63",
+    "regionCode": "58",
+    "regionTvd": "100100225883629",
+    "regionName": "Пензенская область",
+    "oikTvd": "100100225883631",
+    "oikName": "Пензенская область – Лермонтовский",
+    "district": {
+      "districtNumber": 147,
+      "oikTvd": "100100225883631"
+    }
   },
   {
     "uikNumber": 64,
     "uikTvd": "4584027463843",
     "tikTvd": "25820001085618",
-    "tikName": "Пенза, Октябрьская"
+    "tikName": "Пенза, Октябрьская",
+    "uikName": "УИК №64",
+    "regionCode": "58",
+    "regionTvd": "100100225883629",
+    "regionName": "Пензенская область",
+    "oikTvd": "100100225883631",
+    "oikName": "Пензенская область – Лермонтовский",
+    "district": {
+      "districtNumber": 147,
+      "oikTvd": "100100225883631"
+    }
   },
   {
     "uikNumber": 65,
     "uikTvd": "4584027463844",
     "tikTvd": "25820001085618",
-    "tikName": "Пенза, Октябрьская"
+    "tikName": "Пенза, Октябрьская",
+    "uikName": "УИК №65",
+    "regionCode": "58",
+    "regionTvd": "100100225883629",
+    "regionName": "Пензенская область",
+    "oikTvd": "100100225883631",
+    "oikName": "Пензенская область – Лермонтовский",
+    "district": {
+      "districtNumber": 147,
+      "oikTvd": "100100225883631"
+    }
   },
   {
     "uikNumber": 66,
     "uikTvd": "4584027463845",
     "tikTvd": "25820001085618",
-    "tikName": "Пенза, Октябрьская"
+    "tikName": "Пенза, Октябрьская",
+    "uikName": "УИК №66",
+    "regionCode": "58",
+    "regionTvd": "100100225883629",
+    "regionName": "Пензенская область",
+    "oikTvd": "100100225883631",
+    "oikName": "Пензенская область – Лермонтовский",
+    "district": {
+      "districtNumber": 147,
+      "oikTvd": "100100225883631"
+    }
   },
   {
     "uikNumber": 67,
     "uikTvd": "4584027463846",
     "tikTvd": "25820001085618",
-    "tikName": "Пенза, Октябрьская"
+    "tikName": "Пенза, Октябрьская",
+    "uikName": "УИК №67",
+    "regionCode": "58",
+    "regionTvd": "100100225883629",
+    "regionName": "Пензенская область",
+    "oikTvd": "100100225883631",
+    "oikName": "Пензенская область – Лермонтовский",
+    "district": {
+      "districtNumber": 147,
+      "oikTvd": "100100225883631"
+    }
   },
   {
     "uikNumber": 68,
     "uikTvd": "4584027463847",
     "tikTvd": "25820001085618",
-    "tikName": "Пенза, Октябрьская"
+    "tikName": "Пенза, Октябрьская",
+    "uikName": "УИК №68",
+    "regionCode": "58",
+    "regionTvd": "100100225883629",
+    "regionName": "Пензенская область",
+    "oikTvd": "100100225883631",
+    "oikName": "Пензенская область – Лермонтовский",
+    "district": {
+      "districtNumber": 147,
+      "oikTvd": "100100225883631"
+    }
   },
   {
     "uikNumber": 69,
     "uikTvd": "4584027463848",
     "tikTvd": "25820001085618",
-    "tikName": "Пенза, Октябрьская"
+    "tikName": "Пенза, Октябрьская",
+    "uikName": "УИК №69",
+    "regionCode": "58",
+    "regionTvd": "100100225883629",
+    "regionName": "Пензенская область",
+    "oikTvd": "100100225883631",
+    "oikName": "Пензенская область – Лермонтовский",
+    "district": {
+      "districtNumber": 147,
+      "oikTvd": "100100225883631"
+    }
   },
   {
     "uikNumber": 70,
     "uikTvd": "4584027463849",
     "tikTvd": "25820001085618",
-    "tikName": "Пенза, Октябрьская"
+    "tikName": "Пенза, Октябрьская",
+    "uikName": "УИК №70",
+    "regionCode": "58",
+    "regionTvd": "100100225883629",
+    "regionName": "Пензенская область",
+    "oikTvd": "100100225883631",
+    "oikName": "Пензенская область – Лермонтовский",
+    "district": {
+      "districtNumber": 147,
+      "oikTvd": "100100225883631"
+    }
   },
   {
     "uikNumber": 71,
     "uikTvd": "4584027463850",
     "tikTvd": "25820001085618",
-    "tikName": "Пенза, Октябрьская"
+    "tikName": "Пенза, Октябрьская",
+    "uikName": "УИК №71",
+    "regionCode": "58",
+    "regionTvd": "100100225883629",
+    "regionName": "Пензенская область",
+    "oikTvd": "100100225883631",
+    "oikName": "Пензенская область – Лермонтовский",
+    "district": {
+      "districtNumber": 147,
+      "oikTvd": "100100225883631"
+    }
   },
   {
     "uikNumber": 72,
     "uikTvd": "4584027463851",
     "tikTvd": "25820001085618",
-    "tikName": "Пенза, Октябрьская"
+    "tikName": "Пенза, Октябрьская",
+    "uikName": "УИК №72",
+    "regionCode": "58",
+    "regionTvd": "100100225883629",
+    "regionName": "Пензенская область",
+    "oikTvd": "100100225883631",
+    "oikName": "Пензенская область – Лермонтовский",
+    "district": {
+      "districtNumber": 147,
+      "oikTvd": "100100225883631"
+    }
   },
   {
     "uikNumber": 73,
     "uikTvd": "4584025364236",
     "tikTvd": "25820001085617",
-    "tikName": "Пенза, Железнодорожная"
+    "tikName": "Пенза, Железнодорожная",
+    "uikName": "УИК №73",
+    "regionCode": "58",
+    "regionTvd": "100100225883629",
+    "regionName": "Пензенская область",
+    "oikTvd": "100100225883631",
+    "oikName": "Пензенская область – Лермонтовский",
+    "district": {
+      "districtNumber": 147,
+      "oikTvd": "100100225883631"
+    }
   },
   {
     "uikNumber": 74,
     "uikTvd": "4584025364237",
     "tikTvd": "25820001085617",
-    "tikName": "Пенза, Железнодорожная"
+    "tikName": "Пенза, Железнодорожная",
+    "uikName": "УИК №74",
+    "regionCode": "58",
+    "regionTvd": "100100225883629",
+    "regionName": "Пензенская область",
+    "oikTvd": "100100225883631",
+    "oikName": "Пензенская область – Лермонтовский",
+    "district": {
+      "districtNumber": 147,
+      "oikTvd": "100100225883631"
+    }
   },
   {
     "uikNumber": 75,
     "uikTvd": "4584025364238",
     "tikTvd": "25820001085617",
-    "tikName": "Пенза, Железнодорожная"
+    "tikName": "Пенза, Железнодорожная",
+    "uikName": "УИК №75",
+    "regionCode": "58",
+    "regionTvd": "100100225883629",
+    "regionName": "Пензенская область",
+    "oikTvd": "100100225883631",
+    "oikName": "Пензенская область – Лермонтовский",
+    "district": {
+      "districtNumber": 147,
+      "oikTvd": "100100225883631"
+    }
   },
   {
     "uikNumber": 76,
     "uikTvd": "4584025364239",
     "tikTvd": "25820001085617",
-    "tikName": "Пенза, Железнодорожная"
+    "tikName": "Пенза, Железнодорожная",
+    "uikName": "УИК №76",
+    "regionCode": "58",
+    "regionTvd": "100100225883629",
+    "regionName": "Пензенская область",
+    "oikTvd": "100100225883631",
+    "oikName": "Пензенская область – Лермонтовский",
+    "district": {
+      "districtNumber": 147,
+      "oikTvd": "100100225883631"
+    }
   },
   {
     "uikNumber": 77,
     "uikTvd": "4584025364240",
     "tikTvd": "25820001085617",
-    "tikName": "Пенза, Железнодорожная"
+    "tikName": "Пенза, Железнодорожная",
+    "uikName": "УИК №77",
+    "regionCode": "58",
+    "regionTvd": "100100225883629",
+    "regionName": "Пензенская область",
+    "oikTvd": "100100225883631",
+    "oikName": "Пензенская область – Лермонтовский",
+    "district": {
+      "districtNumber": 147,
+      "oikTvd": "100100225883631"
+    }
   },
   {
     "uikNumber": 78,
     "uikTvd": "4584025364241",
     "tikTvd": "25820001085617",
-    "tikName": "Пенза, Железнодорожная"
+    "tikName": "Пенза, Железнодорожная",
+    "uikName": "УИК №78",
+    "regionCode": "58",
+    "regionTvd": "100100225883629",
+    "regionName": "Пензенская область",
+    "oikTvd": "100100225883631",
+    "oikName": "Пензенская область – Лермонтовский",
+    "district": {
+      "districtNumber": 147,
+      "oikTvd": "100100225883631"
+    }
   },
   {
     "uikNumber": 79,
     "uikTvd": "4584025364242",
     "tikTvd": "25820001085617",
-    "tikName": "Пенза, Железнодорожная"
+    "tikName": "Пенза, Железнодорожная",
+    "uikName": "УИК №79",
+    "regionCode": "58",
+    "regionTvd": "100100225883629",
+    "regionName": "Пензенская область",
+    "oikTvd": "100100225883631",
+    "oikName": "Пензенская область – Лермонтовский",
+    "district": {
+      "districtNumber": 147,
+      "oikTvd": "100100225883631"
+    }
   },
   {
     "uikNumber": 80,
     "uikTvd": "4584025364243",
     "tikTvd": "25820001085617",
-    "tikName": "Пенза, Железнодорожная"
+    "tikName": "Пенза, Железнодорожная",
+    "uikName": "УИК №80",
+    "regionCode": "58",
+    "regionTvd": "100100225883629",
+    "regionName": "Пензенская область",
+    "oikTvd": "100100225883631",
+    "oikName": "Пензенская область – Лермонтовский",
+    "district": {
+      "districtNumber": 147,
+      "oikTvd": "100100225883631"
+    }
   },
   {
     "uikNumber": 81,
     "uikTvd": "4584025364244",
     "tikTvd": "25820001085617",
-    "tikName": "Пенза, Железнодорожная"
+    "tikName": "Пенза, Железнодорожная",
+    "uikName": "УИК №81",
+    "regionCode": "58",
+    "regionTvd": "100100225883629",
+    "regionName": "Пензенская область",
+    "oikTvd": "100100225883631",
+    "oikName": "Пензенская область – Лермонтовский",
+    "district": {
+      "districtNumber": 147,
+      "oikTvd": "100100225883631"
+    }
   },
   {
     "uikNumber": 82,
     "uikTvd": "4584025364245",
     "tikTvd": "25820001085617",
-    "tikName": "Пенза, Железнодорожная"
+    "tikName": "Пенза, Железнодорожная",
+    "uikName": "УИК №82",
+    "regionCode": "58",
+    "regionTvd": "100100225883629",
+    "regionName": "Пензенская область",
+    "oikTvd": "100100225883631",
+    "oikName": "Пензенская область – Лермонтовский",
+    "district": {
+      "districtNumber": 147,
+      "oikTvd": "100100225883631"
+    }
   },
   {
     "uikNumber": 83,
     "uikTvd": "4584025364246",
     "tikTvd": "25820001085617",
-    "tikName": "Пенза, Железнодорожная"
+    "tikName": "Пенза, Железнодорожная",
+    "uikName": "УИК №83",
+    "regionCode": "58",
+    "regionTvd": "100100225883629",
+    "regionName": "Пензенская область",
+    "oikTvd": "100100225883631",
+    "oikName": "Пензенская область – Лермонтовский",
+    "district": {
+      "districtNumber": 147,
+      "oikTvd": "100100225883631"
+    }
   },
   {
     "uikNumber": 84,
     "uikTvd": "4584025364247",
     "tikTvd": "25820001085617",
-    "tikName": "Пенза, Железнодорожная"
+    "tikName": "Пенза, Железнодорожная",
+    "uikName": "УИК №84",
+    "regionCode": "58",
+    "regionTvd": "100100225883629",
+    "regionName": "Пензенская область",
+    "oikTvd": "100100225883631",
+    "oikName": "Пензенская область – Лермонтовский",
+    "district": {
+      "districtNumber": 147,
+      "oikTvd": "100100225883631"
+    }
   },
   {
     "uikNumber": 85,
     "uikTvd": "4584025364248",
     "tikTvd": "25820001085617",
-    "tikName": "Пенза, Железнодорожная"
+    "tikName": "Пенза, Железнодорожная",
+    "uikName": "УИК №85",
+    "regionCode": "58",
+    "regionTvd": "100100225883629",
+    "regionName": "Пензенская область",
+    "oikTvd": "100100225883631",
+    "oikName": "Пензенская область – Лермонтовский",
+    "district": {
+      "districtNumber": 147,
+      "oikTvd": "100100225883631"
+    }
   },
   {
     "uikNumber": 86,
     "uikTvd": "4584025364249",
     "tikTvd": "25820001085617",
-    "tikName": "Пенза, Железнодорожная"
+    "tikName": "Пенза, Железнодорожная",
+    "uikName": "УИК №86",
+    "regionCode": "58",
+    "regionTvd": "100100225883629",
+    "regionName": "Пензенская область",
+    "oikTvd": "100100225883631",
+    "oikName": "Пензенская область – Лермонтовский",
+    "district": {
+      "districtNumber": 147,
+      "oikTvd": "100100225883631"
+    }
   },
   {
     "uikNumber": 87,
     "uikTvd": "4584025364250",
     "tikTvd": "25820001085617",
-    "tikName": "Пенза, Железнодорожная"
+    "tikName": "Пенза, Железнодорожная",
+    "uikName": "УИК №87",
+    "regionCode": "58",
+    "regionTvd": "100100225883629",
+    "regionName": "Пензенская область",
+    "oikTvd": "100100225883631",
+    "oikName": "Пензенская область – Лермонтовский",
+    "district": {
+      "districtNumber": 147,
+      "oikTvd": "100100225883631"
+    }
   },
   {
     "uikNumber": 88,
     "uikTvd": "4584025364251",
     "tikTvd": "25820001085617",
-    "tikName": "Пенза, Железнодорожная"
+    "tikName": "Пенза, Железнодорожная",
+    "uikName": "УИК №88",
+    "regionCode": "58",
+    "regionTvd": "100100225883629",
+    "regionName": "Пензенская область",
+    "oikTvd": "100100225883631",
+    "oikName": "Пензенская область – Лермонтовский",
+    "district": {
+      "districtNumber": 147,
+      "oikTvd": "100100225883631"
+    }
   },
   {
     "uikNumber": 89,
     "uikTvd": "4584025364252",
     "tikTvd": "25820001085617",
-    "tikName": "Пенза, Железнодорожная"
+    "tikName": "Пенза, Железнодорожная",
+    "uikName": "УИК №89",
+    "regionCode": "58",
+    "regionTvd": "100100225883629",
+    "regionName": "Пензенская область",
+    "oikTvd": "100100225883631",
+    "oikName": "Пензенская область – Лермонтовский",
+    "district": {
+      "districtNumber": 147,
+      "oikTvd": "100100225883631"
+    }
   },
   {
     "uikNumber": 90,
     "uikTvd": "4584025364253",
     "tikTvd": "25820001085617",
-    "tikName": "Пенза, Железнодорожная"
+    "tikName": "Пенза, Железнодорожная",
+    "uikName": "УИК №90",
+    "regionCode": "58",
+    "regionTvd": "100100225883629",
+    "regionName": "Пензенская область",
+    "oikTvd": "100100225883631",
+    "oikName": "Пензенская область – Лермонтовский",
+    "district": {
+      "districtNumber": 147,
+      "oikTvd": "100100225883631"
+    }
   },
   {
     "uikNumber": 91,
     "uikTvd": "4584025364254",
     "tikTvd": "25820001085617",
-    "tikName": "Пенза, Железнодорожная"
+    "tikName": "Пенза, Железнодорожная",
+    "uikName": "УИК №91",
+    "regionCode": "58",
+    "regionTvd": "100100225883629",
+    "regionName": "Пензенская область",
+    "oikTvd": "100100225883631",
+    "oikName": "Пензенская область – Лермонтовский",
+    "district": {
+      "districtNumber": 147,
+      "oikTvd": "100100225883631"
+    }
   },
   {
     "uikNumber": 92,
     "uikTvd": "4584025364255",
     "tikTvd": "25820001085617",
-    "tikName": "Пенза, Железнодорожная"
+    "tikName": "Пенза, Железнодорожная",
+    "uikName": "УИК №92",
+    "regionCode": "58",
+    "regionTvd": "100100225883629",
+    "regionName": "Пензенская область",
+    "oikTvd": "100100225883631",
+    "oikName": "Пензенская область – Лермонтовский",
+    "district": {
+      "districtNumber": 147,
+      "oikTvd": "100100225883631"
+    }
   },
   {
     "uikNumber": 93,
     "uikTvd": "4584025364256",
     "tikTvd": "25820001085617",
-    "tikName": "Пенза, Железнодорожная"
+    "tikName": "Пенза, Железнодорожная",
+    "uikName": "УИК №93",
+    "regionCode": "58",
+    "regionTvd": "100100225883629",
+    "regionName": "Пензенская область",
+    "oikTvd": "100100225883631",
+    "oikName": "Пензенская область – Лермонтовский",
+    "district": {
+      "districtNumber": 147,
+      "oikTvd": "100100225883631"
+    }
   },
   {
     "uikNumber": 94,
     "uikTvd": "4584025364257",
     "tikTvd": "25820001085617",
-    "tikName": "Пенза, Железнодорожная"
+    "tikName": "Пенза, Железнодорожная",
+    "uikName": "УИК №94",
+    "regionCode": "58",
+    "regionTvd": "100100225883629",
+    "regionName": "Пензенская область",
+    "oikTvd": "100100225883631",
+    "oikName": "Пензенская область – Лермонтовский",
+    "district": {
+      "districtNumber": 147,
+      "oikTvd": "100100225883631"
+    }
   },
   {
     "uikNumber": 95,
     "uikTvd": "4584025364258",
     "tikTvd": "25820001085617",
-    "tikName": "Пенза, Железнодорожная"
+    "tikName": "Пенза, Железнодорожная",
+    "uikName": "УИК №95",
+    "regionCode": "58",
+    "regionTvd": "100100225883629",
+    "regionName": "Пензенская область",
+    "oikTvd": "100100225883631",
+    "oikName": "Пензенская область – Лермонтовский",
+    "district": {
+      "districtNumber": 147,
+      "oikTvd": "100100225883631"
+    }
   },
   {
     "uikNumber": 96,
     "uikTvd": "4584025364259",
     "tikTvd": "25820001085617",
-    "tikName": "Пенза, Железнодорожная"
+    "tikName": "Пенза, Железнодорожная",
+    "uikName": "УИК №96",
+    "regionCode": "58",
+    "regionTvd": "100100225883629",
+    "regionName": "Пензенская область",
+    "oikTvd": "100100225883631",
+    "oikName": "Пензенская область – Лермонтовский",
+    "district": {
+      "districtNumber": 147,
+      "oikTvd": "100100225883631"
+    }
   },
   {
     "uikNumber": 97,
     "uikTvd": "4584025364260",
     "tikTvd": "25820001085617",
-    "tikName": "Пенза, Железнодорожная"
+    "tikName": "Пенза, Железнодорожная",
+    "uikName": "УИК №97",
+    "regionCode": "58",
+    "regionTvd": "100100225883629",
+    "regionName": "Пензенская область",
+    "oikTvd": "100100225883631",
+    "oikName": "Пензенская область – Лермонтовский",
+    "district": {
+      "districtNumber": 147,
+      "oikTvd": "100100225883631"
+    }
   },
   {
     "uikNumber": 98,
     "uikTvd": "4584025364261",
     "tikTvd": "25820001085617",
-    "tikName": "Пенза, Железнодорожная"
+    "tikName": "Пенза, Железнодорожная",
+    "uikName": "УИК №98",
+    "regionCode": "58",
+    "regionTvd": "100100225883629",
+    "regionName": "Пензенская область",
+    "oikTvd": "100100225883631",
+    "oikName": "Пензенская область – Лермонтовский",
+    "district": {
+      "districtNumber": 147,
+      "oikTvd": "100100225883631"
+    }
   },
   {
     "uikNumber": 99,
     "uikTvd": "4584025364262",
     "tikTvd": "25820001085617",
-    "tikName": "Пенза, Железнодорожная"
+    "tikName": "Пенза, Железнодорожная",
+    "uikName": "УИК №99",
+    "regionCode": "58",
+    "regionTvd": "100100225883629",
+    "regionName": "Пензенская область",
+    "oikTvd": "100100225883631",
+    "oikName": "Пензенская область – Лермонтовский",
+    "district": {
+      "districtNumber": 147,
+      "oikTvd": "100100225883631"
+    }
   },
   {
     "uikNumber": 100,
     "uikTvd": "4584025364263",
     "tikTvd": "25820001085617",
-    "tikName": "Пенза, Железнодорожная"
+    "tikName": "Пенза, Железнодорожная",
+    "uikName": "УИК №100",
+    "regionCode": "58",
+    "regionTvd": "100100225883629",
+    "regionName": "Пензенская область",
+    "oikTvd": "100100225883631",
+    "oikName": "Пензенская область – Лермонтовский",
+    "district": {
+      "districtNumber": 147,
+      "oikTvd": "100100225883631"
+    }
   },
   {
     "uikNumber": 101,
     "uikTvd": "4584025364264",
     "tikTvd": "25820001085617",
-    "tikName": "Пенза, Железнодорожная"
+    "tikName": "Пенза, Железнодорожная",
+    "uikName": "УИК №101",
+    "regionCode": "58",
+    "regionTvd": "100100225883629",
+    "regionName": "Пензенская область",
+    "oikTvd": "100100225883631",
+    "oikName": "Пензенская область – Лермонтовский",
+    "district": {
+      "districtNumber": 147,
+      "oikTvd": "100100225883631"
+    }
   },
   {
     "uikNumber": 102,
     "uikTvd": "4584025364265",
     "tikTvd": "25820001085617",
-    "tikName": "Пенза, Железнодорожная"
+    "tikName": "Пенза, Железнодорожная",
+    "uikName": "УИК №102",
+    "regionCode": "58",
+    "regionTvd": "100100225883629",
+    "regionName": "Пензенская область",
+    "oikTvd": "100100225883631",
+    "oikName": "Пензенская область – Лермонтовский",
+    "district": {
+      "districtNumber": 147,
+      "oikTvd": "100100225883631"
+    }
   },
   {
     "uikNumber": 103,
     "uikTvd": "4584025364266",
     "tikTvd": "25820001085617",
-    "tikName": "Пенза, Железнодорожная"
+    "tikName": "Пенза, Железнодорожная",
+    "uikName": "УИК №103",
+    "regionCode": "58",
+    "regionTvd": "100100225883629",
+    "regionName": "Пензенская область",
+    "oikTvd": "100100225883631",
+    "oikName": "Пензенская область – Лермонтовский",
+    "district": {
+      "districtNumber": 147,
+      "oikTvd": "100100225883631"
+    }
   },
   {
     "uikNumber": 104,
     "uikTvd": "4584025364267",
     "tikTvd": "25820001085617",
-    "tikName": "Пенза, Железнодорожная"
+    "tikName": "Пенза, Железнодорожная",
+    "uikName": "УИК №104",
+    "regionCode": "58",
+    "regionTvd": "100100225883629",
+    "regionName": "Пензенская область",
+    "oikTvd": "100100225883631",
+    "oikName": "Пензенская область – Лермонтовский",
+    "district": {
+      "districtNumber": 147,
+      "oikTvd": "100100225883631"
+    }
   },
   {
     "uikNumber": 105,
     "uikTvd": "4584025364268",
     "tikTvd": "25820001085617",
-    "tikName": "Пенза, Железнодорожная"
+    "tikName": "Пенза, Железнодорожная",
+    "uikName": "УИК №105",
+    "regionCode": "58",
+    "regionTvd": "100100225883629",
+    "regionName": "Пензенская область",
+    "oikTvd": "100100225883631",
+    "oikName": "Пензенская область – Лермонтовский",
+    "district": {
+      "districtNumber": 147,
+      "oikTvd": "100100225883631"
+    }
   },
   {
     "uikNumber": 106,
     "uikTvd": "4584025364269",
     "tikTvd": "25820001085617",
-    "tikName": "Пенза, Железнодорожная"
+    "tikName": "Пенза, Железнодорожная",
+    "uikName": "УИК №106",
+    "regionCode": "58",
+    "regionTvd": "100100225883629",
+    "regionName": "Пензенская область",
+    "oikTvd": "100100225883631",
+    "oikName": "Пензенская область – Лермонтовский",
+    "district": {
+      "districtNumber": 147,
+      "oikTvd": "100100225883631"
+    }
   },
   {
     "uikNumber": 107,
     "uikTvd": "4584025364270",
     "tikTvd": "25820001085617",
-    "tikName": "Пенза, Железнодорожная"
+    "tikName": "Пенза, Железнодорожная",
+    "uikName": "УИК №107",
+    "regionCode": "58",
+    "regionTvd": "100100225883629",
+    "regionName": "Пензенская область",
+    "oikTvd": "100100225883631",
+    "oikName": "Пензенская область – Лермонтовский",
+    "district": {
+      "districtNumber": 147,
+      "oikTvd": "100100225883631"
+    }
   },
   {
     "uikNumber": 108,
     "uikTvd": "4584025364271",
     "tikTvd": "25820001085617",
-    "tikName": "Пенза, Железнодорожная"
+    "tikName": "Пенза, Железнодорожная",
+    "uikName": "УИК №108",
+    "regionCode": "58",
+    "regionTvd": "100100225883629",
+    "regionName": "Пензенская область",
+    "oikTvd": "100100225883631",
+    "oikName": "Пензенская область – Лермонтовский",
+    "district": {
+      "districtNumber": 147,
+      "oikTvd": "100100225883631"
+    }
   },
   {
     "uikNumber": 109,
     "uikTvd": "4584025364272",
     "tikTvd": "25820001085617",
-    "tikName": "Пенза, Железнодорожная"
+    "tikName": "Пенза, Железнодорожная",
+    "uikName": "УИК №109",
+    "regionCode": "58",
+    "regionTvd": "100100225883629",
+    "regionName": "Пензенская область",
+    "oikTvd": "100100225883631",
+    "oikName": "Пензенская область – Лермонтовский",
+    "district": {
+      "districtNumber": 147,
+      "oikTvd": "100100225883631"
+    }
   },
   {
     "uikNumber": 110,
     "uikTvd": "4584025364273",
     "tikTvd": "25820001085617",
-    "tikName": "Пенза, Железнодорожная"
+    "tikName": "Пенза, Железнодорожная",
+    "uikName": "УИК №110",
+    "regionCode": "58",
+    "regionTvd": "100100225883629",
+    "regionName": "Пензенская область",
+    "oikTvd": "100100225883631",
+    "oikName": "Пензенская область – Лермонтовский",
+    "district": {
+      "districtNumber": 147,
+      "oikTvd": "100100225883631"
+    }
   },
   {
     "uikNumber": 111,
     "uikTvd": "4584025364274",
     "tikTvd": "25820001085617",
-    "tikName": "Пенза, Железнодорожная"
+    "tikName": "Пенза, Железнодорожная",
+    "uikName": "УИК №111",
+    "regionCode": "58",
+    "regionTvd": "100100225883629",
+    "regionName": "Пензенская область",
+    "oikTvd": "100100225883631",
+    "oikName": "Пензенская область – Лермонтовский",
+    "district": {
+      "districtNumber": 147,
+      "oikTvd": "100100225883631"
+    }
   },
   {
     "uikNumber": 112,
     "uikTvd": "4584025364275",
     "tikTvd": "25820001085617",
-    "tikName": "Пенза, Железнодорожная"
+    "tikName": "Пенза, Железнодорожная",
+    "uikName": "УИК №112",
+    "regionCode": "58",
+    "regionTvd": "100100225883629",
+    "regionName": "Пензенская область",
+    "oikTvd": "100100225883631",
+    "oikName": "Пензенская область – Лермонтовский",
+    "district": {
+      "districtNumber": 147,
+      "oikTvd": "100100225883631"
+    }
   },
   {
     "uikNumber": 113,
     "uikTvd": "4584025364276",
     "tikTvd": "25820001085617",
-    "tikName": "Пенза, Железнодорожная"
+    "tikName": "Пенза, Железнодорожная",
+    "uikName": "УИК №113",
+    "regionCode": "58",
+    "regionTvd": "100100225883629",
+    "regionName": "Пензенская область",
+    "oikTvd": "100100225883631",
+    "oikName": "Пензенская область – Лермонтовский",
+    "district": {
+      "districtNumber": 147,
+      "oikTvd": "100100225883631"
+    }
   },
   {
     "uikNumber": 114,
     "uikTvd": "4584025364277",
     "tikTvd": "25820001085617",
-    "tikName": "Пенза, Железнодорожная"
+    "tikName": "Пенза, Железнодорожная",
+    "uikName": "УИК №114",
+    "regionCode": "58",
+    "regionTvd": "100100225883629",
+    "regionName": "Пензенская область",
+    "oikTvd": "100100225883631",
+    "oikName": "Пензенская область – Лермонтовский",
+    "district": {
+      "districtNumber": 147,
+      "oikTvd": "100100225883631"
+    }
   },
   {
     "uikNumber": 115,
     "uikTvd": "4584025364278",
     "tikTvd": "25820001085617",
-    "tikName": "Пенза, Железнодорожная"
+    "tikName": "Пенза, Железнодорожная",
+    "uikName": "УИК №115",
+    "regionCode": "58",
+    "regionTvd": "100100225883629",
+    "regionName": "Пензенская область",
+    "oikTvd": "100100225883631",
+    "oikName": "Пензенская область – Лермонтовский",
+    "district": {
+      "districtNumber": 147,
+      "oikTvd": "100100225883631"
+    }
   },
   {
     "uikNumber": 116,
     "uikTvd": "4584025364279",
     "tikTvd": "25820001085617",
-    "tikName": "Пенза, Железнодорожная"
+    "tikName": "Пенза, Железнодорожная",
+    "uikName": "УИК №116",
+    "regionCode": "58",
+    "regionTvd": "100100225883629",
+    "regionName": "Пензенская область",
+    "oikTvd": "100100225883631",
+    "oikName": "Пензенская область – Лермонтовский",
+    "district": {
+      "districtNumber": 147,
+      "oikTvd": "100100225883631"
+    }
   },
   {
     "uikNumber": 117,
     "uikTvd": "4584025364280",
     "tikTvd": "25820001085617",
-    "tikName": "Пенза, Железнодорожная"
+    "tikName": "Пенза, Железнодорожная",
+    "uikName": "УИК №117",
+    "regionCode": "58",
+    "regionTvd": "100100225883629",
+    "regionName": "Пензенская область",
+    "oikTvd": "100100225883631",
+    "oikName": "Пензенская область – Лермонтовский",
+    "district": {
+      "districtNumber": 147,
+      "oikTvd": "100100225883631"
+    }
   },
   {
     "uikNumber": 118,
     "uikTvd": "4584025364281",
     "tikTvd": "25820001085617",
-    "tikName": "Пенза, Железнодорожная"
+    "tikName": "Пенза, Железнодорожная",
+    "uikName": "УИК №118",
+    "regionCode": "58",
+    "regionTvd": "100100225883629",
+    "regionName": "Пензенская область",
+    "oikTvd": "100100225883631",
+    "oikName": "Пензенская область – Лермонтовский",
+    "district": {
+      "districtNumber": 147,
+      "oikTvd": "100100225883631"
+    }
   },
   {
     "uikNumber": 119,
     "uikTvd": "4584025364282",
     "tikTvd": "25820001085617",
-    "tikName": "Пенза, Железнодорожная"
+    "tikName": "Пенза, Железнодорожная",
+    "uikName": "УИК №119",
+    "regionCode": "58",
+    "regionTvd": "100100225883629",
+    "regionName": "Пензенская область",
+    "oikTvd": "100100225883631",
+    "oikName": "Пензенская область – Лермонтовский",
+    "district": {
+      "districtNumber": 147,
+      "oikTvd": "100100225883631"
+    }
   },
   {
     "uikNumber": 120,
     "uikTvd": "4584025364283",
     "tikTvd": "25820001085617",
-    "tikName": "Пенза, Железнодорожная"
+    "tikName": "Пенза, Железнодорожная",
+    "uikName": "УИК №120",
+    "regionCode": "58",
+    "regionTvd": "100100225883629",
+    "regionName": "Пензенская область",
+    "oikTvd": "100100225883631",
+    "oikName": "Пензенская область – Лермонтовский",
+    "district": {
+      "districtNumber": 147,
+      "oikTvd": "100100225883631"
+    }
   },
   {
     "uikNumber": 121,
     "uikTvd": "4584025364284",
     "tikTvd": "25820001085617",
-    "tikName": "Пенза, Железнодорожная"
+    "tikName": "Пенза, Железнодорожная",
+    "uikName": "УИК №121",
+    "regionCode": "58",
+    "regionTvd": "100100225883629",
+    "regionName": "Пензенская область",
+    "oikTvd": "100100225883631",
+    "oikName": "Пензенская область – Лермонтовский",
+    "district": {
+      "districtNumber": 147,
+      "oikTvd": "100100225883631"
+    }
   },
   {
     "uikNumber": 122,
     "uikTvd": "4584025364285",
     "tikTvd": "25820001085617",
-    "tikName": "Пенза, Железнодорожная"
+    "tikName": "Пенза, Железнодорожная",
+    "uikName": "УИК №122",
+    "regionCode": "58",
+    "regionTvd": "100100225883629",
+    "regionName": "Пензенская область",
+    "oikTvd": "100100225883631",
+    "oikName": "Пензенская область – Лермонтовский",
+    "district": {
+      "districtNumber": 147,
+      "oikTvd": "100100225883631"
+    }
   },
   {
     "uikNumber": 123,
     "uikTvd": "4584026250348",
     "tikTvd": "25820001085602",
-    "tikName": "Пенза, Ленинская"
+    "tikName": "Пенза, Ленинская",
+    "uikName": "УИК №123",
+    "regionCode": "58",
+    "regionTvd": "100100225883629",
+    "regionName": "Пензенская область",
+    "oikTvd": "100100225883630",
+    "oikName": "Пензенская область – Пензенский",
+    "district": {
+      "districtNumber": 146,
+      "oikTvd": "100100225883630"
+    }
   },
   {
     "uikNumber": 124,
     "uikTvd": "4584026250349",
     "tikTvd": "25820001085602",
-    "tikName": "Пенза, Ленинская"
+    "tikName": "Пенза, Ленинская",
+    "uikName": "УИК №124",
+    "regionCode": "58",
+    "regionTvd": "100100225883629",
+    "regionName": "Пензенская область",
+    "oikTvd": "100100225883630",
+    "oikName": "Пензенская область – Пензенский",
+    "district": {
+      "districtNumber": 146,
+      "oikTvd": "100100225883630"
+    }
   },
   {
     "uikNumber": 125,
     "uikTvd": "4584026250350",
     "tikTvd": "25820001085602",
-    "tikName": "Пенза, Ленинская"
+    "tikName": "Пенза, Ленинская",
+    "uikName": "УИК №125",
+    "regionCode": "58",
+    "regionTvd": "100100225883629",
+    "regionName": "Пензенская область",
+    "oikTvd": "100100225883630",
+    "oikName": "Пензенская область – Пензенский",
+    "district": {
+      "districtNumber": 146,
+      "oikTvd": "100100225883630"
+    }
   },
   {
     "uikNumber": 126,
     "uikTvd": "4584026250351",
     "tikTvd": "25820001085602",
-    "tikName": "Пенза, Ленинская"
+    "tikName": "Пенза, Ленинская",
+    "uikName": "УИК №126",
+    "regionCode": "58",
+    "regionTvd": "100100225883629",
+    "regionName": "Пензенская область",
+    "oikTvd": "100100225883630",
+    "oikName": "Пензенская область – Пензенский",
+    "district": {
+      "districtNumber": 146,
+      "oikTvd": "100100225883630"
+    }
   },
   {
     "uikNumber": 127,
     "uikTvd": "4584026250352",
     "tikTvd": "25820001085602",
-    "tikName": "Пенза, Ленинская"
+    "tikName": "Пенза, Ленинская",
+    "uikName": "УИК №127",
+    "regionCode": "58",
+    "regionTvd": "100100225883629",
+    "regionName": "Пензенская область",
+    "oikTvd": "100100225883630",
+    "oikName": "Пензенская область – Пензенский",
+    "district": {
+      "districtNumber": 146,
+      "oikTvd": "100100225883630"
+    }
   },
   {
     "uikNumber": 128,
     "uikTvd": "4584026250353",
     "tikTvd": "25820001085602",
-    "tikName": "Пенза, Ленинская"
+    "tikName": "Пенза, Ленинская",
+    "uikName": "УИК №128",
+    "regionCode": "58",
+    "regionTvd": "100100225883629",
+    "regionName": "Пензенская область",
+    "oikTvd": "100100225883630",
+    "oikName": "Пензенская область – Пензенский",
+    "district": {
+      "districtNumber": 146,
+      "oikTvd": "100100225883630"
+    }
   },
   {
     "uikNumber": 129,
     "uikTvd": "4584026250354",
     "tikTvd": "25820001085602",
-    "tikName": "Пенза, Ленинская"
+    "tikName": "Пенза, Ленинская",
+    "uikName": "УИК №129",
+    "regionCode": "58",
+    "regionTvd": "100100225883629",
+    "regionName": "Пензенская область",
+    "oikTvd": "100100225883630",
+    "oikName": "Пензенская область – Пензенский",
+    "district": {
+      "districtNumber": 146,
+      "oikTvd": "100100225883630"
+    }
   },
   {
     "uikNumber": 130,
     "uikTvd": "4584026250355",
     "tikTvd": "25820001085602",
-    "tikName": "Пенза, Ленинская"
+    "tikName": "Пенза, Ленинская",
+    "uikName": "УИК №130",
+    "regionCode": "58",
+    "regionTvd": "100100225883629",
+    "regionName": "Пензенская область",
+    "oikTvd": "100100225883630",
+    "oikName": "Пензенская область – Пензенский",
+    "district": {
+      "districtNumber": 146,
+      "oikTvd": "100100225883630"
+    }
   },
   {
     "uikNumber": 131,
     "uikTvd": "4584026250356",
     "tikTvd": "25820001085602",
-    "tikName": "Пенза, Ленинская"
+    "tikName": "Пенза, Ленинская",
+    "uikName": "УИК №131",
+    "regionCode": "58",
+    "regionTvd": "100100225883629",
+    "regionName": "Пензенская область",
+    "oikTvd": "100100225883630",
+    "oikName": "Пензенская область – Пензенский",
+    "district": {
+      "districtNumber": 146,
+      "oikTvd": "100100225883630"
+    }
   },
   {
     "uikNumber": 132,
     "uikTvd": "4584026250357",
     "tikTvd": "25820001085602",
-    "tikName": "Пенза, Ленинская"
+    "tikName": "Пенза, Ленинская",
+    "uikName": "УИК №132",
+    "regionCode": "58",
+    "regionTvd": "100100225883629",
+    "regionName": "Пензенская область",
+    "oikTvd": "100100225883630",
+    "oikName": "Пензенская область – Пензенский",
+    "district": {
+      "districtNumber": 146,
+      "oikTvd": "100100225883630"
+    }
   },
   {
     "uikNumber": 133,
     "uikTvd": "4584026250358",
     "tikTvd": "25820001085602",
-    "tikName": "Пенза, Ленинская"
+    "tikName": "Пенза, Ленинская",
+    "uikName": "УИК №133",
+    "regionCode": "58",
+    "regionTvd": "100100225883629",
+    "regionName": "Пензенская область",
+    "oikTvd": "100100225883630",
+    "oikName": "Пензенская область – Пензенский",
+    "district": {
+      "districtNumber": 146,
+      "oikTvd": "100100225883630"
+    }
   },
   {
     "uikNumber": 134,
     "uikTvd": "4584026250359",
     "tikTvd": "25820001085602",
-    "tikName": "Пенза, Ленинская"
+    "tikName": "Пенза, Ленинская",
+    "uikName": "УИК №134",
+    "regionCode": "58",
+    "regionTvd": "100100225883629",
+    "regionName": "Пензенская область",
+    "oikTvd": "100100225883630",
+    "oikName": "Пензенская область – Пензенский",
+    "district": {
+      "districtNumber": 146,
+      "oikTvd": "100100225883630"
+    }
   },
   {
     "uikNumber": 135,
     "uikTvd": "4584026250360",
     "tikTvd": "25820001085602",
-    "tikName": "Пенза, Ленинская"
+    "tikName": "Пенза, Ленинская",
+    "uikName": "УИК №135",
+    "regionCode": "58",
+    "regionTvd": "100100225883629",
+    "regionName": "Пензенская область",
+    "oikTvd": "100100225883630",
+    "oikName": "Пензенская область – Пензенский",
+    "district": {
+      "districtNumber": 146,
+      "oikTvd": "100100225883630"
+    }
   },
   {
     "uikNumber": 136,
     "uikTvd": "4584026250361",
     "tikTvd": "25820001085602",
-    "tikName": "Пенза, Ленинская"
+    "tikName": "Пенза, Ленинская",
+    "uikName": "УИК №136",
+    "regionCode": "58",
+    "regionTvd": "100100225883629",
+    "regionName": "Пензенская область",
+    "oikTvd": "100100225883630",
+    "oikName": "Пензенская область – Пензенский",
+    "district": {
+      "districtNumber": 146,
+      "oikTvd": "100100225883630"
+    }
   },
   {
     "uikNumber": 137,
     "uikTvd": "4584026250362",
     "tikTvd": "25820001085602",
-    "tikName": "Пенза, Ленинская"
+    "tikName": "Пенза, Ленинская",
+    "uikName": "УИК №137",
+    "regionCode": "58",
+    "regionTvd": "100100225883629",
+    "regionName": "Пензенская область",
+    "oikTvd": "100100225883630",
+    "oikName": "Пензенская область – Пензенский",
+    "district": {
+      "districtNumber": 146,
+      "oikTvd": "100100225883630"
+    }
   },
   {
     "uikNumber": 138,
     "uikTvd": "4584026250363",
     "tikTvd": "25820001085602",
-    "tikName": "Пенза, Ленинская"
+    "tikName": "Пенза, Ленинская",
+    "uikName": "УИК №138",
+    "regionCode": "58",
+    "regionTvd": "100100225883629",
+    "regionName": "Пензенская область",
+    "oikTvd": "100100225883630",
+    "oikName": "Пензенская область – Пензенский",
+    "district": {
+      "districtNumber": 146,
+      "oikTvd": "100100225883630"
+    }
   },
   {
     "uikNumber": 139,
     "uikTvd": "4584026250364",
     "tikTvd": "25820001085602",
-    "tikName": "Пенза, Ленинская"
+    "tikName": "Пенза, Ленинская",
+    "uikName": "УИК №139",
+    "regionCode": "58",
+    "regionTvd": "100100225883629",
+    "regionName": "Пензенская область",
+    "oikTvd": "100100225883630",
+    "oikName": "Пензенская область – Пензенский",
+    "district": {
+      "districtNumber": 146,
+      "oikTvd": "100100225883630"
+    }
   },
   {
     "uikNumber": 140,
     "uikTvd": "4584026250365",
     "tikTvd": "25820001085602",
-    "tikName": "Пенза, Ленинская"
+    "tikName": "Пенза, Ленинская",
+    "uikName": "УИК №140",
+    "regionCode": "58",
+    "regionTvd": "100100225883629",
+    "regionName": "Пензенская область",
+    "oikTvd": "100100225883630",
+    "oikName": "Пензенская область – Пензенский",
+    "district": {
+      "districtNumber": 146,
+      "oikTvd": "100100225883630"
+    }
   },
   {
     "uikNumber": 141,
     "uikTvd": "4584026250366",
     "tikTvd": "25820001085602",
-    "tikName": "Пенза, Ленинская"
+    "tikName": "Пенза, Ленинская",
+    "uikName": "УИК №141",
+    "regionCode": "58",
+    "regionTvd": "100100225883629",
+    "regionName": "Пензенская область",
+    "oikTvd": "100100225883630",
+    "oikName": "Пензенская область – Пензенский",
+    "district": {
+      "districtNumber": 146,
+      "oikTvd": "100100225883630"
+    }
   },
   {
     "uikNumber": 142,
     "uikTvd": "4584026250367",
     "tikTvd": "25820001085602",
-    "tikName": "Пенза, Ленинская"
+    "tikName": "Пенза, Ленинская",
+    "uikName": "УИК №142",
+    "regionCode": "58",
+    "regionTvd": "100100225883629",
+    "regionName": "Пензенская область",
+    "oikTvd": "100100225883630",
+    "oikName": "Пензенская область – Пензенский",
+    "district": {
+      "districtNumber": 146,
+      "oikTvd": "100100225883630"
+    }
   },
   {
     "uikNumber": 143,
     "uikTvd": "4584026250368",
     "tikTvd": "25820001085602",
-    "tikName": "Пенза, Ленинская"
+    "tikName": "Пенза, Ленинская",
+    "uikName": "УИК №143",
+    "regionCode": "58",
+    "regionTvd": "100100225883629",
+    "regionName": "Пензенская область",
+    "oikTvd": "100100225883630",
+    "oikName": "Пензенская область – Пензенский",
+    "district": {
+      "districtNumber": 146,
+      "oikTvd": "100100225883630"
+    }
   },
   {
     "uikNumber": 144,
     "uikTvd": "4584026250369",
     "tikTvd": "25820001085602",
-    "tikName": "Пенза, Ленинская"
+    "tikName": "Пенза, Ленинская",
+    "uikName": "УИК №144",
+    "regionCode": "58",
+    "regionTvd": "100100225883629",
+    "regionName": "Пензенская область",
+    "oikTvd": "100100225883630",
+    "oikName": "Пензенская область – Пензенский",
+    "district": {
+      "districtNumber": 146,
+      "oikTvd": "100100225883630"
+    }
   },
   {
     "uikNumber": 145,
     "uikTvd": "4584026250370",
     "tikTvd": "25820001085602",
-    "tikName": "Пенза, Ленинская"
+    "tikName": "Пенза, Ленинская",
+    "uikName": "УИК №145",
+    "regionCode": "58",
+    "regionTvd": "100100225883629",
+    "regionName": "Пензенская область",
+    "oikTvd": "100100225883630",
+    "oikName": "Пензенская область – Пензенский",
+    "district": {
+      "districtNumber": 146,
+      "oikTvd": "100100225883630"
+    }
   },
   {
     "uikNumber": 146,
     "uikTvd": "4584026250371",
     "tikTvd": "25820001085602",
-    "tikName": "Пенза, Ленинская"
+    "tikName": "Пенза, Ленинская",
+    "uikName": "УИК №146",
+    "regionCode": "58",
+    "regionTvd": "100100225883629",
+    "regionName": "Пензенская область",
+    "oikTvd": "100100225883630",
+    "oikName": "Пензенская область – Пензенский",
+    "district": {
+      "districtNumber": 146,
+      "oikTvd": "100100225883630"
+    }
   },
   {
     "uikNumber": 147,
     "uikTvd": "4584026250372",
     "tikTvd": "25820001085602",
-    "tikName": "Пенза, Ленинская"
+    "tikName": "Пенза, Ленинская",
+    "uikName": "УИК №147",
+    "regionCode": "58",
+    "regionTvd": "100100225883629",
+    "regionName": "Пензенская область",
+    "oikTvd": "100100225883630",
+    "oikName": "Пензенская область – Пензенский",
+    "district": {
+      "districtNumber": 146,
+      "oikTvd": "100100225883630"
+    }
   },
   {
     "uikNumber": 148,
     "uikTvd": "4584026250373",
     "tikTvd": "25820001085602",
-    "tikName": "Пенза, Ленинская"
+    "tikName": "Пенза, Ленинская",
+    "uikName": "УИК №148",
+    "regionCode": "58",
+    "regionTvd": "100100225883629",
+    "regionName": "Пензенская область",
+    "oikTvd": "100100225883630",
+    "oikName": "Пензенская область – Пензенский",
+    "district": {
+      "districtNumber": 146,
+      "oikTvd": "100100225883630"
+    }
   },
   {
     "uikNumber": 149,
     "uikTvd": "4584026250374",
     "tikTvd": "25820001085602",
-    "tikName": "Пенза, Ленинская"
+    "tikName": "Пенза, Ленинская",
+    "uikName": "УИК №149",
+    "regionCode": "58",
+    "regionTvd": "100100225883629",
+    "regionName": "Пензенская область",
+    "oikTvd": "100100225883630",
+    "oikName": "Пензенская область – Пензенский",
+    "district": {
+      "districtNumber": 146,
+      "oikTvd": "100100225883630"
+    }
   },
   {
     "uikNumber": 150,
     "uikTvd": "4584026250375",
     "tikTvd": "25820001085602",
-    "tikName": "Пенза, Ленинская"
+    "tikName": "Пенза, Ленинская",
+    "uikName": "УИК №150",
+    "regionCode": "58",
+    "regionTvd": "100100225883629",
+    "regionName": "Пензенская область",
+    "oikTvd": "100100225883630",
+    "oikName": "Пензенская область – Пензенский",
+    "district": {
+      "districtNumber": 146,
+      "oikTvd": "100100225883630"
+    }
   },
   {
     "uikNumber": 151,
     "uikTvd": "4584026250376",
     "tikTvd": "25820001085602",
-    "tikName": "Пенза, Ленинская"
+    "tikName": "Пенза, Ленинская",
+    "uikName": "УИК №151",
+    "regionCode": "58",
+    "regionTvd": "100100225883629",
+    "regionName": "Пензенская область",
+    "oikTvd": "100100225883630",
+    "oikName": "Пензенская область – Пензенский",
+    "district": {
+      "districtNumber": 146,
+      "oikTvd": "100100225883630"
+    }
   },
   {
     "uikNumber": 152,
     "uikTvd": "4584026250377",
     "tikTvd": "25820001085602",
-    "tikName": "Пенза, Ленинская"
+    "tikName": "Пенза, Ленинская",
+    "uikName": "УИК №152",
+    "regionCode": "58",
+    "regionTvd": "100100225883629",
+    "regionName": "Пензенская область",
+    "oikTvd": "100100225883630",
+    "oikName": "Пензенская область – Пензенский",
+    "district": {
+      "districtNumber": 146,
+      "oikTvd": "100100225883630"
+    }
   },
   {
     "uikNumber": 153,
     "uikTvd": "4584026250378",
     "tikTvd": "25820001085602",
-    "tikName": "Пенза, Ленинская"
+    "tikName": "Пенза, Ленинская",
+    "uikName": "УИК №153",
+    "regionCode": "58",
+    "regionTvd": "100100225883629",
+    "regionName": "Пензенская область",
+    "oikTvd": "100100225883630",
+    "oikName": "Пензенская область – Пензенский",
+    "district": {
+      "districtNumber": 146,
+      "oikTvd": "100100225883630"
+    }
   },
   {
     "uikNumber": 154,
     "uikTvd": "4584026250379",
     "tikTvd": "25820001085602",
-    "tikName": "Пенза, Ленинская"
+    "tikName": "Пенза, Ленинская",
+    "uikName": "УИК №154",
+    "regionCode": "58",
+    "regionTvd": "100100225883629",
+    "regionName": "Пензенская область",
+    "oikTvd": "100100225883630",
+    "oikName": "Пензенская область – Пензенский",
+    "district": {
+      "districtNumber": 146,
+      "oikTvd": "100100225883630"
+    }
   },
   {
     "uikNumber": 155,
     "uikTvd": "4584026250380",
     "tikTvd": "25820001085602",
-    "tikName": "Пенза, Ленинская"
+    "tikName": "Пенза, Ленинская",
+    "uikName": "УИК №155",
+    "regionCode": "58",
+    "regionTvd": "100100225883629",
+    "regionName": "Пензенская область",
+    "oikTvd": "100100225883630",
+    "oikName": "Пензенская область – Пензенский",
+    "district": {
+      "districtNumber": 146,
+      "oikTvd": "100100225883630"
+    }
   },
   {
     "uikNumber": 156,
     "uikTvd": "4584026250381",
     "tikTvd": "25820001085602",
-    "tikName": "Пенза, Ленинская"
+    "tikName": "Пенза, Ленинская",
+    "uikName": "УИК №156",
+    "regionCode": "58",
+    "regionTvd": "100100225883629",
+    "regionName": "Пензенская область",
+    "oikTvd": "100100225883630",
+    "oikName": "Пензенская область – Пензенский",
+    "district": {
+      "districtNumber": 146,
+      "oikTvd": "100100225883630"
+    }
   },
   {
     "uikNumber": 157,
     "uikTvd": "4584026250382",
     "tikTvd": "25820001085602",
-    "tikName": "Пенза, Ленинская"
+    "tikName": "Пенза, Ленинская",
+    "uikName": "УИК №157",
+    "regionCode": "58",
+    "regionTvd": "100100225883629",
+    "regionName": "Пензенская область",
+    "oikTvd": "100100225883630",
+    "oikName": "Пензенская область – Пензенский",
+    "district": {
+      "districtNumber": 146,
+      "oikTvd": "100100225883630"
+    }
   },
   {
     "uikNumber": 158,
     "uikTvd": "4584026250383",
     "tikTvd": "25820001085602",
-    "tikName": "Пенза, Ленинская"
+    "tikName": "Пенза, Ленинская",
+    "uikName": "УИК №158",
+    "regionCode": "58",
+    "regionTvd": "100100225883629",
+    "regionName": "Пензенская область",
+    "oikTvd": "100100225883630",
+    "oikName": "Пензенская область – Пензенский",
+    "district": {
+      "districtNumber": 146,
+      "oikTvd": "100100225883630"
+    }
   },
   {
     "uikNumber": 159,
     "uikTvd": "4584026250384",
     "tikTvd": "25820001085602",
-    "tikName": "Пенза, Ленинская"
+    "tikName": "Пенза, Ленинская",
+    "uikName": "УИК №159",
+    "regionCode": "58",
+    "regionTvd": "100100225883629",
+    "regionName": "Пензенская область",
+    "oikTvd": "100100225883630",
+    "oikName": "Пензенская область – Пензенский",
+    "district": {
+      "districtNumber": 146,
+      "oikTvd": "100100225883630"
+    }
   },
   {
     "uikNumber": 160,
     "uikTvd": "4584026250385",
     "tikTvd": "25820001085602",
-    "tikName": "Пенза, Ленинская"
+    "tikName": "Пенза, Ленинская",
+    "uikName": "УИК №160",
+    "regionCode": "58",
+    "regionTvd": "100100225883629",
+    "regionName": "Пензенская область",
+    "oikTvd": "100100225883630",
+    "oikName": "Пензенская область – Пензенский",
+    "district": {
+      "districtNumber": 146,
+      "oikTvd": "100100225883630"
+    }
   },
   {
     "uikNumber": 161,
     "uikTvd": "4584026250386",
     "tikTvd": "25820001085602",
-    "tikName": "Пенза, Ленинская"
+    "tikName": "Пенза, Ленинская",
+    "uikName": "УИК №161",
+    "regionCode": "58",
+    "regionTvd": "100100225883629",
+    "regionName": "Пензенская область",
+    "oikTvd": "100100225883630",
+    "oikName": "Пензенская область – Пензенский",
+    "district": {
+      "districtNumber": 146,
+      "oikTvd": "100100225883630"
+    }
   },
   {
     "uikNumber": 162,
     "uikTvd": "4584028630371",
     "tikTvd": "25820001085601",
-    "tikName": "Пенза, Первомайская"
+    "tikName": "Пенза, Первомайская",
+    "uikName": "УИК №162",
+    "regionCode": "58",
+    "regionTvd": "100100225883629",
+    "regionName": "Пензенская область",
+    "oikTvd": "100100225883630",
+    "oikName": "Пензенская область – Пензенский",
+    "district": {
+      "districtNumber": 146,
+      "oikTvd": "100100225883630"
+    }
   },
   {
     "uikNumber": 163,
     "uikTvd": "4584028630372",
     "tikTvd": "25820001085601",
-    "tikName": "Пенза, Первомайская"
+    "tikName": "Пенза, Первомайская",
+    "uikName": "УИК №163",
+    "regionCode": "58",
+    "regionTvd": "100100225883629",
+    "regionName": "Пензенская область",
+    "oikTvd": "100100225883630",
+    "oikName": "Пензенская область – Пензенский",
+    "district": {
+      "districtNumber": 146,
+      "oikTvd": "100100225883630"
+    }
   },
   {
     "uikNumber": 164,
     "uikTvd": "4584028630373",
     "tikTvd": "25820001085601",
-    "tikName": "Пенза, Первомайская"
+    "tikName": "Пенза, Первомайская",
+    "uikName": "УИК №164",
+    "regionCode": "58",
+    "regionTvd": "100100225883629",
+    "regionName": "Пензенская область",
+    "oikTvd": "100100225883630",
+    "oikName": "Пензенская область – Пензенский",
+    "district": {
+      "districtNumber": 146,
+      "oikTvd": "100100225883630"
+    }
   },
   {
     "uikNumber": 165,
     "uikTvd": "4584028630374",
     "tikTvd": "25820001085601",
-    "tikName": "Пенза, Первомайская"
+    "tikName": "Пенза, Первомайская",
+    "uikName": "УИК №165",
+    "regionCode": "58",
+    "regionTvd": "100100225883629",
+    "regionName": "Пензенская область",
+    "oikTvd": "100100225883630",
+    "oikName": "Пензенская область – Пензенский",
+    "district": {
+      "districtNumber": 146,
+      "oikTvd": "100100225883630"
+    }
   },
   {
     "uikNumber": 166,
     "uikTvd": "4584028630375",
     "tikTvd": "25820001085601",
-    "tikName": "Пенза, Первомайская"
+    "tikName": "Пенза, Первомайская",
+    "uikName": "УИК №166",
+    "regionCode": "58",
+    "regionTvd": "100100225883629",
+    "regionName": "Пензенская область",
+    "oikTvd": "100100225883630",
+    "oikName": "Пензенская область – Пензенский",
+    "district": {
+      "districtNumber": 146,
+      "oikTvd": "100100225883630"
+    }
   },
   {
     "uikNumber": 167,
     "uikTvd": "4584028630376",
     "tikTvd": "25820001085601",
-    "tikName": "Пенза, Первомайская"
+    "tikName": "Пенза, Первомайская",
+    "uikName": "УИК №167",
+    "regionCode": "58",
+    "regionTvd": "100100225883629",
+    "regionName": "Пензенская область",
+    "oikTvd": "100100225883630",
+    "oikName": "Пензенская область – Пензенский",
+    "district": {
+      "districtNumber": 146,
+      "oikTvd": "100100225883630"
+    }
   },
   {
     "uikNumber": 168,
     "uikTvd": "4584028630377",
     "tikTvd": "25820001085601",
-    "tikName": "Пенза, Первомайская"
+    "tikName": "Пенза, Первомайская",
+    "uikName": "УИК №168",
+    "regionCode": "58",
+    "regionTvd": "100100225883629",
+    "regionName": "Пензенская область",
+    "oikTvd": "100100225883630",
+    "oikName": "Пензенская область – Пензенский",
+    "district": {
+      "districtNumber": 146,
+      "oikTvd": "100100225883630"
+    }
   },
   {
     "uikNumber": 169,
     "uikTvd": "4584028630378",
     "tikTvd": "25820001085601",
-    "tikName": "Пенза, Первомайская"
+    "tikName": "Пенза, Первомайская",
+    "uikName": "УИК №169",
+    "regionCode": "58",
+    "regionTvd": "100100225883629",
+    "regionName": "Пензенская область",
+    "oikTvd": "100100225883630",
+    "oikName": "Пензенская область – Пензенский",
+    "district": {
+      "districtNumber": 146,
+      "oikTvd": "100100225883630"
+    }
   },
   {
     "uikNumber": 170,
     "uikTvd": "4584028630379",
     "tikTvd": "25820001085601",
-    "tikName": "Пенза, Первомайская"
+    "tikName": "Пенза, Первомайская",
+    "uikName": "УИК №170",
+    "regionCode": "58",
+    "regionTvd": "100100225883629",
+    "regionName": "Пензенская область",
+    "oikTvd": "100100225883630",
+    "oikName": "Пензенская область – Пензенский",
+    "district": {
+      "districtNumber": 146,
+      "oikTvd": "100100225883630"
+    }
   },
   {
     "uikNumber": 171,
     "uikTvd": "4584028630380",
     "tikTvd": "25820001085601",
-    "tikName": "Пенза, Первомайская"
+    "tikName": "Пенза, Первомайская",
+    "uikName": "УИК №171",
+    "regionCode": "58",
+    "regionTvd": "100100225883629",
+    "regionName": "Пензенская область",
+    "oikTvd": "100100225883630",
+    "oikName": "Пензенская область – Пензенский",
+    "district": {
+      "districtNumber": 146,
+      "oikTvd": "100100225883630"
+    }
   },
   {
     "uikNumber": 172,
     "uikTvd": "4584028630381",
     "tikTvd": "25820001085601",
-    "tikName": "Пенза, Первомайская"
+    "tikName": "Пенза, Первомайская",
+    "uikName": "УИК №172",
+    "regionCode": "58",
+    "regionTvd": "100100225883629",
+    "regionName": "Пензенская область",
+    "oikTvd": "100100225883630",
+    "oikName": "Пензенская область – Пензенский",
+    "district": {
+      "districtNumber": 146,
+      "oikTvd": "100100225883630"
+    }
   },
   {
     "uikNumber": 173,
     "uikTvd": "4584028630382",
     "tikTvd": "25820001085601",
-    "tikName": "Пенза, Первомайская"
+    "tikName": "Пенза, Первомайская",
+    "uikName": "УИК №173",
+    "regionCode": "58",
+    "regionTvd": "100100225883629",
+    "regionName": "Пензенская область",
+    "oikTvd": "100100225883630",
+    "oikName": "Пензенская область – Пензенский",
+    "district": {
+      "districtNumber": 146,
+      "oikTvd": "100100225883630"
+    }
   },
   {
     "uikNumber": 174,
     "uikTvd": "4584028630383",
     "tikTvd": "25820001085601",
-    "tikName": "Пенза, Первомайская"
+    "tikName": "Пенза, Первомайская",
+    "uikName": "УИК №174",
+    "regionCode": "58",
+    "regionTvd": "100100225883629",
+    "regionName": "Пензенская область",
+    "oikTvd": "100100225883630",
+    "oikName": "Пензенская область – Пензенский",
+    "district": {
+      "districtNumber": 146,
+      "oikTvd": "100100225883630"
+    }
   },
   {
     "uikNumber": 175,
     "uikTvd": "4584028630384",
     "tikTvd": "25820001085601",
-    "tikName": "Пенза, Первомайская"
+    "tikName": "Пенза, Первомайская",
+    "uikName": "УИК №175",
+    "regionCode": "58",
+    "regionTvd": "100100225883629",
+    "regionName": "Пензенская область",
+    "oikTvd": "100100225883630",
+    "oikName": "Пензенская область – Пензенский",
+    "district": {
+      "districtNumber": 146,
+      "oikTvd": "100100225883630"
+    }
   },
   {
     "uikNumber": 176,
     "uikTvd": "4584028630385",
     "tikTvd": "25820001085601",
-    "tikName": "Пенза, Первомайская"
+    "tikName": "Пенза, Первомайская",
+    "uikName": "УИК №176",
+    "regionCode": "58",
+    "regionTvd": "100100225883629",
+    "regionName": "Пензенская область",
+    "oikTvd": "100100225883630",
+    "oikName": "Пензенская область – Пензенский",
+    "district": {
+      "districtNumber": 146,
+      "oikTvd": "100100225883630"
+    }
   },
   {
     "uikNumber": 177,
     "uikTvd": "4584028630386",
     "tikTvd": "25820001085601",
-    "tikName": "Пенза, Первомайская"
+    "tikName": "Пенза, Первомайская",
+    "uikName": "УИК №177",
+    "regionCode": "58",
+    "regionTvd": "100100225883629",
+    "regionName": "Пензенская область",
+    "oikTvd": "100100225883630",
+    "oikName": "Пензенская область – Пензенский",
+    "district": {
+      "districtNumber": 146,
+      "oikTvd": "100100225883630"
+    }
   },
   {
     "uikNumber": 178,
     "uikTvd": "4584028630387",
     "tikTvd": "25820001085601",
-    "tikName": "Пенза, Первомайская"
+    "tikName": "Пенза, Первомайская",
+    "uikName": "УИК №178",
+    "regionCode": "58",
+    "regionTvd": "100100225883629",
+    "regionName": "Пензенская область",
+    "oikTvd": "100100225883630",
+    "oikName": "Пензенская область – Пензенский",
+    "district": {
+      "districtNumber": 146,
+      "oikTvd": "100100225883630"
+    }
   },
   {
     "uikNumber": 179,
     "uikTvd": "4584028630388",
     "tikTvd": "25820001085601",
-    "tikName": "Пенза, Первомайская"
+    "tikName": "Пенза, Первомайская",
+    "uikName": "УИК №179",
+    "regionCode": "58",
+    "regionTvd": "100100225883629",
+    "regionName": "Пензенская область",
+    "oikTvd": "100100225883630",
+    "oikName": "Пензенская область – Пензенский",
+    "district": {
+      "districtNumber": 146,
+      "oikTvd": "100100225883630"
+    }
   },
   {
     "uikNumber": 180,
     "uikTvd": "4584028630389",
     "tikTvd": "25820001085601",
-    "tikName": "Пенза, Первомайская"
+    "tikName": "Пенза, Первомайская",
+    "uikName": "УИК №180",
+    "regionCode": "58",
+    "regionTvd": "100100225883629",
+    "regionName": "Пензенская область",
+    "oikTvd": "100100225883630",
+    "oikName": "Пензенская область – Пензенский",
+    "district": {
+      "districtNumber": 146,
+      "oikTvd": "100100225883630"
+    }
   },
   {
     "uikNumber": 181,
     "uikTvd": "4584028630390",
     "tikTvd": "25820001085601",
-    "tikName": "Пенза, Первомайская"
+    "tikName": "Пенза, Первомайская",
+    "uikName": "УИК №181",
+    "regionCode": "58",
+    "regionTvd": "100100225883629",
+    "regionName": "Пензенская область",
+    "oikTvd": "100100225883630",
+    "oikName": "Пензенская область – Пензенский",
+    "district": {
+      "districtNumber": 146,
+      "oikTvd": "100100225883630"
+    }
   },
   {
     "uikNumber": 182,
     "uikTvd": "4584028630391",
     "tikTvd": "25820001085601",
-    "tikName": "Пенза, Первомайская"
+    "tikName": "Пенза, Первомайская",
+    "uikName": "УИК №182",
+    "regionCode": "58",
+    "regionTvd": "100100225883629",
+    "regionName": "Пензенская область",
+    "oikTvd": "100100225883630",
+    "oikName": "Пензенская область – Пензенский",
+    "district": {
+      "districtNumber": 146,
+      "oikTvd": "100100225883630"
+    }
   },
   {
     "uikNumber": 183,
     "uikTvd": "4584028630392",
     "tikTvd": "25820001085601",
-    "tikName": "Пенза, Первомайская"
+    "tikName": "Пенза, Первомайская",
+    "uikName": "УИК №183",
+    "regionCode": "58",
+    "regionTvd": "100100225883629",
+    "regionName": "Пензенская область",
+    "oikTvd": "100100225883630",
+    "oikName": "Пензенская область – Пензенский",
+    "district": {
+      "districtNumber": 146,
+      "oikTvd": "100100225883630"
+    }
   },
   {
     "uikNumber": 184,
     "uikTvd": "4584028630393",
     "tikTvd": "25820001085601",
-    "tikName": "Пенза, Первомайская"
+    "tikName": "Пенза, Первомайская",
+    "uikName": "УИК №184",
+    "regionCode": "58",
+    "regionTvd": "100100225883629",
+    "regionName": "Пензенская область",
+    "oikTvd": "100100225883630",
+    "oikName": "Пензенская область – Пензенский",
+    "district": {
+      "districtNumber": 146,
+      "oikTvd": "100100225883630"
+    }
   },
   {
     "uikNumber": 185,
     "uikTvd": "4584028630394",
     "tikTvd": "25820001085601",
-    "tikName": "Пенза, Первомайская"
+    "tikName": "Пенза, Первомайская",
+    "uikName": "УИК №185",
+    "regionCode": "58",
+    "regionTvd": "100100225883629",
+    "regionName": "Пензенская область",
+    "oikTvd": "100100225883630",
+    "oikName": "Пензенская область – Пензенский",
+    "district": {
+      "districtNumber": 146,
+      "oikTvd": "100100225883630"
+    }
   },
   {
     "uikNumber": 186,
     "uikTvd": "4584028630395",
     "tikTvd": "25820001085601",
-    "tikName": "Пенза, Первомайская"
+    "tikName": "Пенза, Первомайская",
+    "uikName": "УИК №186",
+    "regionCode": "58",
+    "regionTvd": "100100225883629",
+    "regionName": "Пензенская область",
+    "oikTvd": "100100225883630",
+    "oikName": "Пензенская область – Пензенский",
+    "district": {
+      "districtNumber": 146,
+      "oikTvd": "100100225883630"
+    }
   },
   {
     "uikNumber": 187,
     "uikTvd": "4584028630396",
     "tikTvd": "25820001085601",
-    "tikName": "Пенза, Первомайская"
+    "tikName": "Пенза, Первомайская",
+    "uikName": "УИК №187",
+    "regionCode": "58",
+    "regionTvd": "100100225883629",
+    "regionName": "Пензенская область",
+    "oikTvd": "100100225883630",
+    "oikName": "Пензенская область – Пензенский",
+    "district": {
+      "districtNumber": 146,
+      "oikTvd": "100100225883630"
+    }
   },
   {
     "uikNumber": 188,
     "uikTvd": "4584028630397",
     "tikTvd": "25820001085601",
-    "tikName": "Пенза, Первомайская"
+    "tikName": "Пенза, Первомайская",
+    "uikName": "УИК №188",
+    "regionCode": "58",
+    "regionTvd": "100100225883629",
+    "regionName": "Пензенская область",
+    "oikTvd": "100100225883630",
+    "oikName": "Пензенская область – Пензенский",
+    "district": {
+      "districtNumber": 146,
+      "oikTvd": "100100225883630"
+    }
   },
   {
     "uikNumber": 189,
     "uikTvd": "4584028630398",
     "tikTvd": "25820001085601",
-    "tikName": "Пенза, Первомайская"
+    "tikName": "Пенза, Первомайская",
+    "uikName": "УИК №189",
+    "regionCode": "58",
+    "regionTvd": "100100225883629",
+    "regionName": "Пензенская область",
+    "oikTvd": "100100225883630",
+    "oikName": "Пензенская область – Пензенский",
+    "district": {
+      "districtNumber": 146,
+      "oikTvd": "100100225883630"
+    }
   },
   {
     "uikNumber": 190,
     "uikTvd": "4584028630399",
     "tikTvd": "25820001085601",
-    "tikName": "Пенза, Первомайская"
+    "tikName": "Пенза, Первомайская",
+    "uikName": "УИК №190",
+    "regionCode": "58",
+    "regionTvd": "100100225883629",
+    "regionName": "Пензенская область",
+    "oikTvd": "100100225883630",
+    "oikName": "Пензенская область – Пензенский",
+    "district": {
+      "districtNumber": 146,
+      "oikTvd": "100100225883630"
+    }
   },
   {
     "uikNumber": 191,
     "uikTvd": "4584028630400",
     "tikTvd": "25820001085601",
-    "tikName": "Пенза, Первомайская"
+    "tikName": "Пенза, Первомайская",
+    "uikName": "УИК №191",
+    "regionCode": "58",
+    "regionTvd": "100100225883629",
+    "regionName": "Пензенская область",
+    "oikTvd": "100100225883630",
+    "oikName": "Пензенская область – Пензенский",
+    "district": {
+      "districtNumber": 146,
+      "oikTvd": "100100225883630"
+    }
   },
   {
     "uikNumber": 192,
     "uikTvd": "4584028630401",
     "tikTvd": "25820001085601",
-    "tikName": "Пенза, Первомайская"
+    "tikName": "Пенза, Первомайская",
+    "uikName": "УИК №192",
+    "regionCode": "58",
+    "regionTvd": "100100225883629",
+    "regionName": "Пензенская область",
+    "oikTvd": "100100225883630",
+    "oikName": "Пензенская область – Пензенский",
+    "district": {
+      "districtNumber": 146,
+      "oikTvd": "100100225883630"
+    }
   },
   {
     "uikNumber": 193,
     "uikTvd": "4584028630402",
     "tikTvd": "25820001085601",
-    "tikName": "Пенза, Первомайская"
+    "tikName": "Пенза, Первомайская",
+    "uikName": "УИК №193",
+    "regionCode": "58",
+    "regionTvd": "100100225883629",
+    "regionName": "Пензенская область",
+    "oikTvd": "100100225883630",
+    "oikName": "Пензенская область – Пензенский",
+    "district": {
+      "districtNumber": 146,
+      "oikTvd": "100100225883630"
+    }
   },
   {
     "uikNumber": 194,
     "uikTvd": "4584028630403",
     "tikTvd": "25820001085601",
-    "tikName": "Пенза, Первомайская"
+    "tikName": "Пенза, Первомайская",
+    "uikName": "УИК №194",
+    "regionCode": "58",
+    "regionTvd": "100100225883629",
+    "regionName": "Пензенская область",
+    "oikTvd": "100100225883630",
+    "oikName": "Пензенская область – Пензенский",
+    "district": {
+      "districtNumber": 146,
+      "oikTvd": "100100225883630"
+    }
   },
   {
     "uikNumber": 195,
     "uikTvd": "4584028630404",
     "tikTvd": "25820001085601",
-    "tikName": "Пенза, Первомайская"
+    "tikName": "Пенза, Первомайская",
+    "uikName": "УИК №195",
+    "regionCode": "58",
+    "regionTvd": "100100225883629",
+    "regionName": "Пензенская область",
+    "oikTvd": "100100225883630",
+    "oikName": "Пензенская область – Пензенский",
+    "district": {
+      "districtNumber": 146,
+      "oikTvd": "100100225883630"
+    }
   },
   {
     "uikNumber": 196,
     "uikTvd": "4584028630405",
     "tikTvd": "25820001085601",
-    "tikName": "Пенза, Первомайская"
+    "tikName": "Пенза, Первомайская",
+    "uikName": "УИК №196",
+    "regionCode": "58",
+    "regionTvd": "100100225883629",
+    "regionName": "Пензенская область",
+    "oikTvd": "100100225883630",
+    "oikName": "Пензенская область – Пензенский",
+    "district": {
+      "districtNumber": 146,
+      "oikTvd": "100100225883630"
+    }
   },
   {
     "uikNumber": 197,
     "uikTvd": "4584028630406",
     "tikTvd": "25820001085601",
-    "tikName": "Пенза, Первомайская"
+    "tikName": "Пенза, Первомайская",
+    "uikName": "УИК №197",
+    "regionCode": "58",
+    "regionTvd": "100100225883629",
+    "regionName": "Пензенская область",
+    "oikTvd": "100100225883630",
+    "oikName": "Пензенская область – Пензенский",
+    "district": {
+      "districtNumber": 146,
+      "oikTvd": "100100225883630"
+    }
   },
   {
     "uikNumber": 198,
     "uikTvd": "4584028630407",
     "tikTvd": "25820001085601",
-    "tikName": "Пенза, Первомайская"
+    "tikName": "Пенза, Первомайская",
+    "uikName": "УИК №198",
+    "regionCode": "58",
+    "regionTvd": "100100225883629",
+    "regionName": "Пензенская область",
+    "oikTvd": "100100225883630",
+    "oikName": "Пензенская область – Пензенский",
+    "district": {
+      "districtNumber": 146,
+      "oikTvd": "100100225883630"
+    }
   },
   {
     "uikNumber": 199,
     "uikTvd": "4584028630408",
     "tikTvd": "25820001085601",
-    "tikName": "Пенза, Первомайская"
+    "tikName": "Пенза, Первомайская",
+    "uikName": "УИК №199",
+    "regionCode": "58",
+    "regionTvd": "100100225883629",
+    "regionName": "Пензенская область",
+    "oikTvd": "100100225883630",
+    "oikName": "Пензенская область – Пензенский",
+    "district": {
+      "districtNumber": 146,
+      "oikTvd": "100100225883630"
+    }
   },
   {
     "uikNumber": 200,
     "uikTvd": "4584028630409",
     "tikTvd": "25820001085601",
-    "tikName": "Пенза, Первомайская"
+    "tikName": "Пенза, Первомайская",
+    "uikName": "УИК №200",
+    "regionCode": "58",
+    "regionTvd": "100100225883629",
+    "regionName": "Пензенская область",
+    "oikTvd": "100100225883630",
+    "oikName": "Пензенская область – Пензенский",
+    "district": {
+      "districtNumber": 146,
+      "oikTvd": "100100225883630"
+    }
   },
   {
     "uikNumber": 201,
     "uikTvd": "4584028630410",
     "tikTvd": "25820001085601",
-    "tikName": "Пенза, Первомайская"
+    "tikName": "Пенза, Первомайская",
+    "uikName": "УИК №201",
+    "regionCode": "58",
+    "regionTvd": "100100225883629",
+    "regionName": "Пензенская область",
+    "oikTvd": "100100225883630",
+    "oikName": "Пензенская область – Пензенский",
+    "district": {
+      "districtNumber": 146,
+      "oikTvd": "100100225883630"
+    }
   },
   {
     "uikNumber": 202,
     "uikTvd": "4584028630411",
     "tikTvd": "25820001085601",
-    "tikName": "Пенза, Первомайская"
+    "tikName": "Пенза, Первомайская",
+    "uikName": "УИК №202",
+    "regionCode": "58",
+    "regionTvd": "100100225883629",
+    "regionName": "Пензенская область",
+    "oikTvd": "100100225883630",
+    "oikName": "Пензенская область – Пензенский",
+    "district": {
+      "districtNumber": 146,
+      "oikTvd": "100100225883630"
+    }
   },
   {
     "uikNumber": 203,
     "uikTvd": "4584028630412",
     "tikTvd": "25820001085601",
-    "tikName": "Пенза, Первомайская"
+    "tikName": "Пенза, Первомайская",
+    "uikName": "УИК №203",
+    "regionCode": "58",
+    "regionTvd": "100100225883629",
+    "regionName": "Пензенская область",
+    "oikTvd": "100100225883630",
+    "oikName": "Пензенская область – Пензенский",
+    "district": {
+      "districtNumber": 146,
+      "oikTvd": "100100225883630"
+    }
   },
   {
     "uikNumber": 204,
     "uikTvd": "4584028630413",
     "tikTvd": "25820001085601",
-    "tikName": "Пенза, Первомайская"
+    "tikName": "Пенза, Первомайская",
+    "uikName": "УИК №204",
+    "regionCode": "58",
+    "regionTvd": "100100225883629",
+    "regionName": "Пензенская область",
+    "oikTvd": "100100225883630",
+    "oikName": "Пензенская область – Пензенский",
+    "district": {
+      "districtNumber": 146,
+      "oikTvd": "100100225883630"
+    }
   },
   {
     "uikNumber": 205,
     "uikTvd": "4584028630414",
     "tikTvd": "25820001085601",
-    "tikName": "Пенза, Первомайская"
+    "tikName": "Пенза, Первомайская",
+    "uikName": "УИК №205",
+    "regionCode": "58",
+    "regionTvd": "100100225883629",
+    "regionName": "Пензенская область",
+    "oikTvd": "100100225883630",
+    "oikName": "Пензенская область – Пензенский",
+    "district": {
+      "districtNumber": 146,
+      "oikTvd": "100100225883630"
+    }
   },
   {
     "uikNumber": 206,
     "uikTvd": "4584028630415",
     "tikTvd": "25820001085601",
-    "tikName": "Пенза, Первомайская"
+    "tikName": "Пенза, Первомайская",
+    "uikName": "УИК №206",
+    "regionCode": "58",
+    "regionTvd": "100100225883629",
+    "regionName": "Пензенская область",
+    "oikTvd": "100100225883630",
+    "oikName": "Пензенская область – Пензенский",
+    "district": {
+      "districtNumber": 146,
+      "oikTvd": "100100225883630"
+    }
   },
   {
     "uikNumber": 207,
     "uikTvd": "4584028630416",
     "tikTvd": "25820001085601",
-    "tikName": "Пенза, Первомайская"
+    "tikName": "Пенза, Первомайская",
+    "uikName": "УИК №207",
+    "regionCode": "58",
+    "regionTvd": "100100225883629",
+    "regionName": "Пензенская область",
+    "oikTvd": "100100225883630",
+    "oikName": "Пензенская область – Пензенский",
+    "district": {
+      "districtNumber": 146,
+      "oikTvd": "100100225883630"
+    }
   },
   {
     "uikNumber": 208,
     "uikTvd": "4584028630417",
     "tikTvd": "25820001085601",
-    "tikName": "Пенза, Первомайская"
+    "tikName": "Пенза, Первомайская",
+    "uikName": "УИК №208",
+    "regionCode": "58",
+    "regionTvd": "100100225883629",
+    "regionName": "Пензенская область",
+    "oikTvd": "100100225883630",
+    "oikName": "Пензенская область – Пензенский",
+    "district": {
+      "districtNumber": 146,
+      "oikTvd": "100100225883630"
+    }
   },
   {
     "uikNumber": 209,
     "uikTvd": "4584028630418",
     "tikTvd": "25820001085601",
-    "tikName": "Пенза, Первомайская"
+    "tikName": "Пенза, Первомайская",
+    "uikName": "УИК №209",
+    "regionCode": "58",
+    "regionTvd": "100100225883629",
+    "regionName": "Пензенская область",
+    "oikTvd": "100100225883630",
+    "oikName": "Пензенская область – Пензенский",
+    "district": {
+      "districtNumber": 146,
+      "oikTvd": "100100225883630"
+    }
   },
   {
     "uikNumber": 210,
     "uikTvd": "4584028630419",
     "tikTvd": "25820001085601",
-    "tikName": "Пенза, Первомайская"
+    "tikName": "Пенза, Первомайская",
+    "uikName": "УИК №210",
+    "regionCode": "58",
+    "regionTvd": "100100225883629",
+    "regionName": "Пензенская область",
+    "oikTvd": "100100225883630",
+    "oikName": "Пензенская область – Пензенский",
+    "district": {
+      "districtNumber": 146,
+      "oikTvd": "100100225883630"
+    }
   },
   {
     "uikNumber": 211,
     "uikTvd": "4584028630420",
     "tikTvd": "25820001085601",
-    "tikName": "Пенза, Первомайская"
+    "tikName": "Пенза, Первомайская",
+    "uikName": "УИК №211",
+    "regionCode": "58",
+    "regionTvd": "100100225883629",
+    "regionName": "Пензенская область",
+    "oikTvd": "100100225883630",
+    "oikName": "Пензенская область – Пензенский",
+    "district": {
+      "districtNumber": 146,
+      "oikTvd": "100100225883630"
+    }
   },
   {
     "uikNumber": 212,
     "uikTvd": "4584028630421",
     "tikTvd": "25820001085601",
-    "tikName": "Пенза, Первомайская"
+    "tikName": "Пенза, Первомайская",
+    "uikName": "УИК №212",
+    "regionCode": "58",
+    "regionTvd": "100100225883629",
+    "regionName": "Пензенская область",
+    "oikTvd": "100100225883630",
+    "oikName": "Пензенская область – Пензенский",
+    "district": {
+      "districtNumber": 146,
+      "oikTvd": "100100225883630"
+    }
   },
   {
     "uikNumber": 213,
     "uikTvd": "4584028630422",
     "tikTvd": "25820001085601",
-    "tikName": "Пенза, Первомайская"
+    "tikName": "Пенза, Первомайская",
+    "uikName": "УИК №213",
+    "regionCode": "58",
+    "regionTvd": "100100225883629",
+    "regionName": "Пензенская область",
+    "oikTvd": "100100225883630",
+    "oikName": "Пензенская область – Пензенский",
+    "district": {
+      "districtNumber": 146,
+      "oikTvd": "100100225883630"
+    }
   },
   {
     "uikNumber": 214,
     "uikTvd": "4584028630423",
     "tikTvd": "25820001085601",
-    "tikName": "Пенза, Первомайская"
+    "tikName": "Пенза, Первомайская",
+    "uikName": "УИК №214",
+    "regionCode": "58",
+    "regionTvd": "100100225883629",
+    "regionName": "Пензенская область",
+    "oikTvd": "100100225883630",
+    "oikName": "Пензенская область – Пензенский",
+    "district": {
+      "districtNumber": 146,
+      "oikTvd": "100100225883630"
+    }
   },
   {
     "uikNumber": 215,
     "uikTvd": "4584028630424",
     "tikTvd": "25820001085601",
-    "tikName": "Пенза, Первомайская"
+    "tikName": "Пенза, Первомайская",
+    "uikName": "УИК №215",
+    "regionCode": "58",
+    "regionTvd": "100100225883629",
+    "regionName": "Пензенская область",
+    "oikTvd": "100100225883630",
+    "oikName": "Пензенская область – Пензенский",
+    "district": {
+      "districtNumber": 146,
+      "oikTvd": "100100225883630"
+    }
   },
   {
     "uikNumber": 216,
     "uikTvd": "4584028630425",
     "tikTvd": "25820001085601",
-    "tikName": "Пенза, Первомайская"
+    "tikName": "Пенза, Первомайская",
+    "uikName": "УИК №216",
+    "regionCode": "58",
+    "regionTvd": "100100225883629",
+    "regionName": "Пензенская область",
+    "oikTvd": "100100225883630",
+    "oikName": "Пензенская область – Пензенский",
+    "district": {
+      "districtNumber": 146,
+      "oikTvd": "100100225883630"
+    }
   },
   {
     "uikNumber": 217,
     "uikTvd": "4584028630426",
     "tikTvd": "25820001085601",
-    "tikName": "Пенза, Первомайская"
+    "tikName": "Пенза, Первомайская",
+    "uikName": "УИК №217",
+    "regionCode": "58",
+    "regionTvd": "100100225883629",
+    "regionName": "Пензенская область",
+    "oikTvd": "100100225883630",
+    "oikName": "Пензенская область – Пензенский",
+    "district": {
+      "districtNumber": 146,
+      "oikTvd": "100100225883630"
+    }
   },
   {
     "uikNumber": 218,
     "uikTvd": "4584028630427",
     "tikTvd": "25820001085601",
-    "tikName": "Пенза, Первомайская"
+    "tikName": "Пенза, Первомайская",
+    "uikName": "УИК №218",
+    "regionCode": "58",
+    "regionTvd": "100100225883629",
+    "regionName": "Пензенская область",
+    "oikTvd": "100100225883630",
+    "oikName": "Пензенская область – Пензенский",
+    "district": {
+      "districtNumber": 146,
+      "oikTvd": "100100225883630"
+    }
   },
   {
     "uikNumber": 219,
     "uikTvd": "4584028630428",
     "tikTvd": "25820001085601",
-    "tikName": "Пенза, Первомайская"
+    "tikName": "Пенза, Первомайская",
+    "uikName": "УИК №219",
+    "regionCode": "58",
+    "regionTvd": "100100225883629",
+    "regionName": "Пензенская область",
+    "oikTvd": "100100225883630",
+    "oikName": "Пензенская область – Пензенский",
+    "district": {
+      "districtNumber": 146,
+      "oikTvd": "100100225883630"
+    }
   },
   {
     "uikNumber": 220,
     "uikTvd": "4584028630429",
     "tikTvd": "25820001085601",
-    "tikName": "Пенза, Первомайская"
+    "tikName": "Пенза, Первомайская",
+    "uikName": "УИК №220",
+    "regionCode": "58",
+    "regionTvd": "100100225883629",
+    "regionName": "Пензенская область",
+    "oikTvd": "100100225883630",
+    "oikName": "Пензенская область – Пензенский",
+    "district": {
+      "districtNumber": 146,
+      "oikTvd": "100100225883630"
+    }
   },
   {
     "uikNumber": 221,
     "uikTvd": "4584028630430",
     "tikTvd": "25820001085601",
-    "tikName": "Пенза, Первомайская"
+    "tikName": "Пенза, Первомайская",
+    "uikName": "УИК №221",
+    "regionCode": "58",
+    "regionTvd": "100100225883629",
+    "regionName": "Пензенская область",
+    "oikTvd": "100100225883630",
+    "oikName": "Пензенская область – Пензенский",
+    "district": {
+      "districtNumber": 146,
+      "oikTvd": "100100225883630"
+    }
   },
   {
     "uikNumber": 222,
     "uikTvd": "4584028630431",
     "tikTvd": "25820001085601",
-    "tikName": "Пенза, Первомайская"
+    "tikName": "Пенза, Первомайская",
+    "uikName": "УИК №222",
+    "regionCode": "58",
+    "regionTvd": "100100225883629",
+    "regionName": "Пензенская область",
+    "oikTvd": "100100225883630",
+    "oikName": "Пензенская область – Пензенский",
+    "district": {
+      "districtNumber": 146,
+      "oikTvd": "100100225883630"
+    }
   },
   {
     "uikNumber": 223,
     "uikTvd": "4584028630432",
     "tikTvd": "25820001085601",
-    "tikName": "Пенза, Первомайская"
+    "tikName": "Пенза, Первомайская",
+    "uikName": "УИК №223",
+    "regionCode": "58",
+    "regionTvd": "100100225883629",
+    "regionName": "Пензенская область",
+    "oikTvd": "100100225883630",
+    "oikName": "Пензенская область – Пензенский",
+    "district": {
+      "districtNumber": 146,
+      "oikTvd": "100100225883630"
+    }
   },
   {
     "uikNumber": 224,
     "uikTvd": "4584024251040",
     "tikTvd": "25820001085619",
-    "tikName": "Зареченская городская"
+    "tikName": "Зареченская городская",
+    "uikName": "УИК №224",
+    "regionCode": "58",
+    "regionTvd": "100100225883629",
+    "regionName": "Пензенская область",
+    "oikTvd": "100100225883631",
+    "oikName": "Пензенская область – Лермонтовский",
+    "district": {
+      "districtNumber": 147,
+      "oikTvd": "100100225883631"
+    }
   },
   {
     "uikNumber": 225,
     "uikTvd": "4584024251041",
     "tikTvd": "25820001085619",
-    "tikName": "Зареченская городская"
+    "tikName": "Зареченская городская",
+    "uikName": "УИК №225",
+    "regionCode": "58",
+    "regionTvd": "100100225883629",
+    "regionName": "Пензенская область",
+    "oikTvd": "100100225883631",
+    "oikName": "Пензенская область – Лермонтовский",
+    "district": {
+      "districtNumber": 147,
+      "oikTvd": "100100225883631"
+    }
   },
   {
     "uikNumber": 226,
     "uikTvd": "4584024251042",
     "tikTvd": "25820001085619",
-    "tikName": "Зареченская городская"
+    "tikName": "Зареченская городская",
+    "uikName": "УИК №226",
+    "regionCode": "58",
+    "regionTvd": "100100225883629",
+    "regionName": "Пензенская область",
+    "oikTvd": "100100225883631",
+    "oikName": "Пензенская область – Лермонтовский",
+    "district": {
+      "districtNumber": 147,
+      "oikTvd": "100100225883631"
+    }
   },
   {
     "uikNumber": 227,
     "uikTvd": "4584024251043",
     "tikTvd": "25820001085619",
-    "tikName": "Зареченская городская"
+    "tikName": "Зареченская городская",
+    "uikName": "УИК №227",
+    "regionCode": "58",
+    "regionTvd": "100100225883629",
+    "regionName": "Пензенская область",
+    "oikTvd": "100100225883631",
+    "oikName": "Пензенская область – Лермонтовский",
+    "district": {
+      "districtNumber": 147,
+      "oikTvd": "100100225883631"
+    }
   },
   {
     "uikNumber": 228,
     "uikTvd": "4584024251044",
     "tikTvd": "25820001085619",
-    "tikName": "Зареченская городская"
+    "tikName": "Зареченская городская",
+    "uikName": "УИК №228",
+    "regionCode": "58",
+    "regionTvd": "100100225883629",
+    "regionName": "Пензенская область",
+    "oikTvd": "100100225883631",
+    "oikName": "Пензенская область – Лермонтовский",
+    "district": {
+      "districtNumber": 147,
+      "oikTvd": "100100225883631"
+    }
   },
   {
     "uikNumber": 229,
     "uikTvd": "4584024251045",
     "tikTvd": "25820001085619",
-    "tikName": "Зареченская городская"
+    "tikName": "Зареченская городская",
+    "uikName": "УИК №229",
+    "regionCode": "58",
+    "regionTvd": "100100225883629",
+    "regionName": "Пензенская область",
+    "oikTvd": "100100225883631",
+    "oikName": "Пензенская область – Лермонтовский",
+    "district": {
+      "districtNumber": 147,
+      "oikTvd": "100100225883631"
+    }
   },
   {
     "uikNumber": 230,
     "uikTvd": "4584024251046",
     "tikTvd": "25820001085619",
-    "tikName": "Зареченская городская"
+    "tikName": "Зареченская городская",
+    "uikName": "УИК №230",
+    "regionCode": "58",
+    "regionTvd": "100100225883629",
+    "regionName": "Пензенская область",
+    "oikTvd": "100100225883631",
+    "oikName": "Пензенская область – Лермонтовский",
+    "district": {
+      "districtNumber": 147,
+      "oikTvd": "100100225883631"
+    }
   },
   {
     "uikNumber": 231,
     "uikTvd": "4584024251047",
     "tikTvd": "25820001085619",
-    "tikName": "Зареченская городская"
+    "tikName": "Зареченская городская",
+    "uikName": "УИК №231",
+    "regionCode": "58",
+    "regionTvd": "100100225883629",
+    "regionName": "Пензенская область",
+    "oikTvd": "100100225883631",
+    "oikName": "Пензенская область – Лермонтовский",
+    "district": {
+      "districtNumber": 147,
+      "oikTvd": "100100225883631"
+    }
   },
   {
     "uikNumber": 232,
     "uikTvd": "4584024251048",
     "tikTvd": "25820001085619",
-    "tikName": "Зареченская городская"
+    "tikName": "Зареченская городская",
+    "uikName": "УИК №232",
+    "regionCode": "58",
+    "regionTvd": "100100225883629",
+    "regionName": "Пензенская область",
+    "oikTvd": "100100225883631",
+    "oikName": "Пензенская область – Лермонтовский",
+    "district": {
+      "districtNumber": 147,
+      "oikTvd": "100100225883631"
+    }
   },
   {
     "uikNumber": 233,
     "uikTvd": "4584024251049",
     "tikTvd": "25820001085619",
-    "tikName": "Зареченская городская"
+    "tikName": "Зареченская городская",
+    "uikName": "УИК №233",
+    "regionCode": "58",
+    "regionTvd": "100100225883629",
+    "regionName": "Пензенская область",
+    "oikTvd": "100100225883631",
+    "oikName": "Пензенская область – Лермонтовский",
+    "district": {
+      "districtNumber": 147,
+      "oikTvd": "100100225883631"
+    }
   },
   {
     "uikNumber": 234,
     "uikTvd": "4584024251050",
     "tikTvd": "25820001085619",
-    "tikName": "Зареченская городская"
+    "tikName": "Зареченская городская",
+    "uikName": "УИК №234",
+    "regionCode": "58",
+    "regionTvd": "100100225883629",
+    "regionName": "Пензенская область",
+    "oikTvd": "100100225883631",
+    "oikName": "Пензенская область – Лермонтовский",
+    "district": {
+      "districtNumber": 147,
+      "oikTvd": "100100225883631"
+    }
   },
   {
     "uikNumber": 235,
     "uikTvd": "4584024251051",
     "tikTvd": "25820001085619",
-    "tikName": "Зареченская городская"
+    "tikName": "Зареченская городская",
+    "uikName": "УИК №235",
+    "regionCode": "58",
+    "regionTvd": "100100225883629",
+    "regionName": "Пензенская область",
+    "oikTvd": "100100225883631",
+    "oikName": "Пензенская область – Лермонтовский",
+    "district": {
+      "districtNumber": 147,
+      "oikTvd": "100100225883631"
+    }
   },
   {
     "uikNumber": 236,
     "uikTvd": "4584024251052",
     "tikTvd": "25820001085619",
-    "tikName": "Зареченская городская"
+    "tikName": "Зареченская городская",
+    "uikName": "УИК №236",
+    "regionCode": "58",
+    "regionTvd": "100100225883629",
+    "regionName": "Пензенская область",
+    "oikTvd": "100100225883631",
+    "oikName": "Пензенская область – Лермонтовский",
+    "district": {
+      "districtNumber": 147,
+      "oikTvd": "100100225883631"
+    }
   },
   {
     "uikNumber": 237,
     "uikTvd": "4584024251053",
     "tikTvd": "25820001085619",
-    "tikName": "Зареченская городская"
+    "tikName": "Зареченская городская",
+    "uikName": "УИК №237",
+    "regionCode": "58",
+    "regionTvd": "100100225883629",
+    "regionName": "Пензенская область",
+    "oikTvd": "100100225883631",
+    "oikName": "Пензенская область – Лермонтовский",
+    "district": {
+      "districtNumber": 147,
+      "oikTvd": "100100225883631"
+    }
   },
   {
     "uikNumber": 238,
     "uikTvd": "4584024251054",
     "tikTvd": "25820001085619",
-    "tikName": "Зареченская городская"
+    "tikName": "Зареченская городская",
+    "uikName": "УИК №238",
+    "regionCode": "58",
+    "regionTvd": "100100225883629",
+    "regionName": "Пензенская область",
+    "oikTvd": "100100225883631",
+    "oikName": "Пензенская область – Лермонтовский",
+    "district": {
+      "districtNumber": 147,
+      "oikTvd": "100100225883631"
+    }
   },
   {
     "uikNumber": 239,
     "uikTvd": "4584024251055",
     "tikTvd": "25820001085619",
-    "tikName": "Зареченская городская"
+    "tikName": "Зареченская городская",
+    "uikName": "УИК №239",
+    "regionCode": "58",
+    "regionTvd": "100100225883629",
+    "regionName": "Пензенская область",
+    "oikTvd": "100100225883631",
+    "oikName": "Пензенская область – Лермонтовский",
+    "district": {
+      "districtNumber": 147,
+      "oikTvd": "100100225883631"
+    }
   },
   {
     "uikNumber": 240,
     "uikTvd": "4584024251056",
     "tikTvd": "25820001085619",
-    "tikName": "Зареченская городская"
+    "tikName": "Зареченская городская",
+    "uikName": "УИК №240",
+    "regionCode": "58",
+    "regionTvd": "100100225883629",
+    "regionName": "Пензенская область",
+    "oikTvd": "100100225883631",
+    "oikName": "Пензенская область – Лермонтовский",
+    "district": {
+      "districtNumber": 147,
+      "oikTvd": "100100225883631"
+    }
   },
   {
     "uikNumber": 241,
     "uikTvd": "4584024251057",
     "tikTvd": "25820001085619",
-    "tikName": "Зареченская городская"
+    "tikName": "Зареченская городская",
+    "uikName": "УИК №241",
+    "regionCode": "58",
+    "regionTvd": "100100225883629",
+    "regionName": "Пензенская область",
+    "oikTvd": "100100225883631",
+    "oikName": "Пензенская область – Лермонтовский",
+    "district": {
+      "districtNumber": 147,
+      "oikTvd": "100100225883631"
+    }
   },
   {
     "uikNumber": 242,
     "uikTvd": "4584024251058",
     "tikTvd": "25820001085619",
-    "tikName": "Зареченская городская"
+    "tikName": "Зареченская городская",
+    "uikName": "УИК №242",
+    "regionCode": "58",
+    "regionTvd": "100100225883629",
+    "regionName": "Пензенская область",
+    "oikTvd": "100100225883631",
+    "oikName": "Пензенская область – Лермонтовский",
+    "district": {
+      "districtNumber": 147,
+      "oikTvd": "100100225883631"
+    }
   },
   {
     "uikNumber": 243,
     "uikTvd": "4584024251059",
     "tikTvd": "25820001085619",
-    "tikName": "Зареченская городская"
+    "tikName": "Зареченская городская",
+    "uikName": "УИК №243",
+    "regionCode": "58",
+    "regionTvd": "100100225883629",
+    "regionName": "Пензенская область",
+    "oikTvd": "100100225883631",
+    "oikName": "Пензенская область – Лермонтовский",
+    "district": {
+      "districtNumber": 147,
+      "oikTvd": "100100225883631"
+    }
   },
   {
     "uikNumber": 244,
     "uikTvd": "4584024251060",
     "tikTvd": "25820001085619",
-    "tikName": "Зареченская городская"
+    "tikName": "Зареченская городская",
+    "uikName": "УИК №244",
+    "regionCode": "58",
+    "regionTvd": "100100225883629",
+    "regionName": "Пензенская область",
+    "oikTvd": "100100225883631",
+    "oikName": "Пензенская область – Лермонтовский",
+    "district": {
+      "districtNumber": 147,
+      "oikTvd": "100100225883631"
+    }
   },
   {
     "uikNumber": 245,
     "uikTvd": "4584024251061",
     "tikTvd": "25820001085619",
-    "tikName": "Зареченская городская"
+    "tikName": "Зареченская городская",
+    "uikName": "УИК №245",
+    "regionCode": "58",
+    "regionTvd": "100100225883629",
+    "regionName": "Пензенская область",
+    "oikTvd": "100100225883631",
+    "oikName": "Пензенская область – Лермонтовский",
+    "district": {
+      "districtNumber": 147,
+      "oikTvd": "100100225883631"
+    }
   },
   {
     "uikNumber": 246,
     "uikTvd": "4584024251062",
     "tikTvd": "25820001085619",
-    "tikName": "Зареченская городская"
+    "tikName": "Зареченская городская",
+    "uikName": "УИК №246",
+    "regionCode": "58",
+    "regionTvd": "100100225883629",
+    "regionName": "Пензенская область",
+    "oikTvd": "100100225883631",
+    "oikName": "Пензенская область – Лермонтовский",
+    "district": {
+      "districtNumber": 147,
+      "oikTvd": "100100225883631"
+    }
   },
   {
     "uikNumber": 247,
     "uikTvd": "4584024251063",
     "tikTvd": "25820001085619",
-    "tikName": "Зареченская городская"
+    "tikName": "Зареченская городская",
+    "uikName": "УИК №247",
+    "regionCode": "58",
+    "regionTvd": "100100225883629",
+    "regionName": "Пензенская область",
+    "oikTvd": "100100225883631",
+    "oikName": "Пензенская область – Лермонтовский",
+    "district": {
+      "districtNumber": 147,
+      "oikTvd": "100100225883631"
+    }
   },
   {
     "uikNumber": 248,
     "uikTvd": "4584024251064",
     "tikTvd": "25820001085619",
-    "tikName": "Зареченская городская"
+    "tikName": "Зареченская городская",
+    "uikName": "УИК №248",
+    "regionCode": "58",
+    "regionTvd": "100100225883629",
+    "regionName": "Пензенская область",
+    "oikTvd": "100100225883631",
+    "oikName": "Пензенская область – Лермонтовский",
+    "district": {
+      "districtNumber": 147,
+      "oikTvd": "100100225883631"
+    }
   },
   {
     "uikNumber": 249,
     "uikTvd": "4584014248657",
     "tikTvd": "25820001085600",
-    "tikName": "Кузнецкая городская "
+    "tikName": "Кузнецкая городская ",
+    "uikName": "УИК №249",
+    "regionCode": "58",
+    "regionTvd": "100100225883629",
+    "regionName": "Пензенская область",
+    "oikTvd": "100100225883630",
+    "oikName": "Пензенская область – Пензенский",
+    "district": {
+      "districtNumber": 146,
+      "oikTvd": "100100225883630"
+    }
   },
   {
     "uikNumber": 250,
     "uikTvd": "4584014248658",
     "tikTvd": "25820001085600",
-    "tikName": "Кузнецкая городская "
+    "tikName": "Кузнецкая городская ",
+    "uikName": "УИК №250",
+    "regionCode": "58",
+    "regionTvd": "100100225883629",
+    "regionName": "Пензенская область",
+    "oikTvd": "100100225883630",
+    "oikName": "Пензенская область – Пензенский",
+    "district": {
+      "districtNumber": 146,
+      "oikTvd": "100100225883630"
+    }
   },
   {
     "uikNumber": 251,
     "uikTvd": "4584014248659",
     "tikTvd": "25820001085600",
-    "tikName": "Кузнецкая городская "
+    "tikName": "Кузнецкая городская ",
+    "uikName": "УИК №251",
+    "regionCode": "58",
+    "regionTvd": "100100225883629",
+    "regionName": "Пензенская область",
+    "oikTvd": "100100225883630",
+    "oikName": "Пензенская область – Пензенский",
+    "district": {
+      "districtNumber": 146,
+      "oikTvd": "100100225883630"
+    }
   },
   {
     "uikNumber": 252,
     "uikTvd": "4584014248660",
     "tikTvd": "25820001085600",
-    "tikName": "Кузнецкая городская "
+    "tikName": "Кузнецкая городская ",
+    "uikName": "УИК №252",
+    "regionCode": "58",
+    "regionTvd": "100100225883629",
+    "regionName": "Пензенская область",
+    "oikTvd": "100100225883630",
+    "oikName": "Пензенская область – Пензенский",
+    "district": {
+      "districtNumber": 146,
+      "oikTvd": "100100225883630"
+    }
   },
   {
     "uikNumber": 253,
     "uikTvd": "4584014248661",
     "tikTvd": "25820001085600",
-    "tikName": "Кузнецкая городская "
+    "tikName": "Кузнецкая городская ",
+    "uikName": "УИК №253",
+    "regionCode": "58",
+    "regionTvd": "100100225883629",
+    "regionName": "Пензенская область",
+    "oikTvd": "100100225883630",
+    "oikName": "Пензенская область – Пензенский",
+    "district": {
+      "districtNumber": 146,
+      "oikTvd": "100100225883630"
+    }
   },
   {
     "uikNumber": 254,
     "uikTvd": "4584014248662",
     "tikTvd": "25820001085600",
-    "tikName": "Кузнецкая городская "
+    "tikName": "Кузнецкая городская ",
+    "uikName": "УИК №254",
+    "regionCode": "58",
+    "regionTvd": "100100225883629",
+    "regionName": "Пензенская область",
+    "oikTvd": "100100225883630",
+    "oikName": "Пензенская область – Пензенский",
+    "district": {
+      "districtNumber": 146,
+      "oikTvd": "100100225883630"
+    }
   },
   {
     "uikNumber": 255,
     "uikTvd": "4584014248663",
     "tikTvd": "25820001085600",
-    "tikName": "Кузнецкая городская "
+    "tikName": "Кузнецкая городская ",
+    "uikName": "УИК №255",
+    "regionCode": "58",
+    "regionTvd": "100100225883629",
+    "regionName": "Пензенская область",
+    "oikTvd": "100100225883630",
+    "oikName": "Пензенская область – Пензенский",
+    "district": {
+      "districtNumber": 146,
+      "oikTvd": "100100225883630"
+    }
   },
   {
     "uikNumber": 256,
     "uikTvd": "4584014248664",
     "tikTvd": "25820001085600",
-    "tikName": "Кузнецкая городская "
+    "tikName": "Кузнецкая городская ",
+    "uikName": "УИК №256",
+    "regionCode": "58",
+    "regionTvd": "100100225883629",
+    "regionName": "Пензенская область",
+    "oikTvd": "100100225883630",
+    "oikName": "Пензенская область – Пензенский",
+    "district": {
+      "districtNumber": 146,
+      "oikTvd": "100100225883630"
+    }
   },
   {
     "uikNumber": 257,
     "uikTvd": "4584014248665",
     "tikTvd": "25820001085600",
-    "tikName": "Кузнецкая городская "
+    "tikName": "Кузнецкая городская ",
+    "uikName": "УИК №257",
+    "regionCode": "58",
+    "regionTvd": "100100225883629",
+    "regionName": "Пензенская область",
+    "oikTvd": "100100225883630",
+    "oikName": "Пензенская область – Пензенский",
+    "district": {
+      "districtNumber": 146,
+      "oikTvd": "100100225883630"
+    }
   },
   {
     "uikNumber": 258,
     "uikTvd": "4584014248666",
     "tikTvd": "25820001085600",
-    "tikName": "Кузнецкая городская "
+    "tikName": "Кузнецкая городская ",
+    "uikName": "УИК №258",
+    "regionCode": "58",
+    "regionTvd": "100100225883629",
+    "regionName": "Пензенская область",
+    "oikTvd": "100100225883630",
+    "oikName": "Пензенская область – Пензенский",
+    "district": {
+      "districtNumber": 146,
+      "oikTvd": "100100225883630"
+    }
   },
   {
     "uikNumber": 259,
     "uikTvd": "4584014248667",
     "tikTvd": "25820001085600",
-    "tikName": "Кузнецкая городская "
+    "tikName": "Кузнецкая городская ",
+    "uikName": "УИК №259",
+    "regionCode": "58",
+    "regionTvd": "100100225883629",
+    "regionName": "Пензенская область",
+    "oikTvd": "100100225883630",
+    "oikName": "Пензенская область – Пензенский",
+    "district": {
+      "districtNumber": 146,
+      "oikTvd": "100100225883630"
+    }
   },
   {
     "uikNumber": 260,
     "uikTvd": "4584014248668",
     "tikTvd": "25820001085600",
-    "tikName": "Кузнецкая городская "
+    "tikName": "Кузнецкая городская ",
+    "uikName": "УИК №260",
+    "regionCode": "58",
+    "regionTvd": "100100225883629",
+    "regionName": "Пензенская область",
+    "oikTvd": "100100225883630",
+    "oikName": "Пензенская область – Пензенский",
+    "district": {
+      "districtNumber": 146,
+      "oikTvd": "100100225883630"
+    }
   },
   {
     "uikNumber": 261,
     "uikTvd": "4584014248669",
     "tikTvd": "25820001085600",
-    "tikName": "Кузнецкая городская "
+    "tikName": "Кузнецкая городская ",
+    "uikName": "УИК №261",
+    "regionCode": "58",
+    "regionTvd": "100100225883629",
+    "regionName": "Пензенская область",
+    "oikTvd": "100100225883630",
+    "oikName": "Пензенская область – Пензенский",
+    "district": {
+      "districtNumber": 146,
+      "oikTvd": "100100225883630"
+    }
   },
   {
     "uikNumber": 262,
     "uikTvd": "4584014248670",
     "tikTvd": "25820001085600",
-    "tikName": "Кузнецкая городская "
+    "tikName": "Кузнецкая городская ",
+    "uikName": "УИК №262",
+    "regionCode": "58",
+    "regionTvd": "100100225883629",
+    "regionName": "Пензенская область",
+    "oikTvd": "100100225883630",
+    "oikName": "Пензенская область – Пензенский",
+    "district": {
+      "districtNumber": 146,
+      "oikTvd": "100100225883630"
+    }
   },
   {
     "uikNumber": 263,
     "uikTvd": "4584014248671",
     "tikTvd": "25820001085600",
-    "tikName": "Кузнецкая городская "
+    "tikName": "Кузнецкая городская ",
+    "uikName": "УИК №263",
+    "regionCode": "58",
+    "regionTvd": "100100225883629",
+    "regionName": "Пензенская область",
+    "oikTvd": "100100225883630",
+    "oikName": "Пензенская область – Пензенский",
+    "district": {
+      "districtNumber": 146,
+      "oikTvd": "100100225883630"
+    }
   },
   {
     "uikNumber": 264,
     "uikTvd": "4584014248672",
     "tikTvd": "25820001085600",
-    "tikName": "Кузнецкая городская "
+    "tikName": "Кузнецкая городская ",
+    "uikName": "УИК №264",
+    "regionCode": "58",
+    "regionTvd": "100100225883629",
+    "regionName": "Пензенская область",
+    "oikTvd": "100100225883630",
+    "oikName": "Пензенская область – Пензенский",
+    "district": {
+      "districtNumber": 146,
+      "oikTvd": "100100225883630"
+    }
   },
   {
     "uikNumber": 265,
     "uikTvd": "4584014248673",
     "tikTvd": "25820001085600",
-    "tikName": "Кузнецкая городская "
+    "tikName": "Кузнецкая городская ",
+    "uikName": "УИК №265",
+    "regionCode": "58",
+    "regionTvd": "100100225883629",
+    "regionName": "Пензенская область",
+    "oikTvd": "100100225883630",
+    "oikName": "Пензенская область – Пензенский",
+    "district": {
+      "districtNumber": 146,
+      "oikTvd": "100100225883630"
+    }
   },
   {
     "uikNumber": 266,
     "uikTvd": "4584014248674",
     "tikTvd": "25820001085600",
-    "tikName": "Кузнецкая городская "
+    "tikName": "Кузнецкая городская ",
+    "uikName": "УИК №266",
+    "regionCode": "58",
+    "regionTvd": "100100225883629",
+    "regionName": "Пензенская область",
+    "oikTvd": "100100225883630",
+    "oikName": "Пензенская область – Пензенский",
+    "district": {
+      "districtNumber": 146,
+      "oikTvd": "100100225883630"
+    }
   },
   {
     "uikNumber": 267,
     "uikTvd": "4584014248675",
     "tikTvd": "25820001085600",
-    "tikName": "Кузнецкая городская "
+    "tikName": "Кузнецкая городская ",
+    "uikName": "УИК №267",
+    "regionCode": "58",
+    "regionTvd": "100100225883629",
+    "regionName": "Пензенская область",
+    "oikTvd": "100100225883630",
+    "oikName": "Пензенская область – Пензенский",
+    "district": {
+      "districtNumber": 146,
+      "oikTvd": "100100225883630"
+    }
   },
   {
     "uikNumber": 268,
     "uikTvd": "4584014248676",
     "tikTvd": "25820001085600",
-    "tikName": "Кузнецкая городская "
+    "tikName": "Кузнецкая городская ",
+    "uikName": "УИК №268",
+    "regionCode": "58",
+    "regionTvd": "100100225883629",
+    "regionName": "Пензенская область",
+    "oikTvd": "100100225883630",
+    "oikName": "Пензенская область – Пензенский",
+    "district": {
+      "districtNumber": 146,
+      "oikTvd": "100100225883630"
+    }
   },
   {
     "uikNumber": 269,
     "uikTvd": "4584014248677",
     "tikTvd": "25820001085600",
-    "tikName": "Кузнецкая городская "
+    "tikName": "Кузнецкая городская ",
+    "uikName": "УИК №269",
+    "regionCode": "58",
+    "regionTvd": "100100225883629",
+    "regionName": "Пензенская область",
+    "oikTvd": "100100225883630",
+    "oikName": "Пензенская область – Пензенский",
+    "district": {
+      "districtNumber": 146,
+      "oikTvd": "100100225883630"
+    }
   },
   {
     "uikNumber": 270,
     "uikTvd": "4584014248678",
     "tikTvd": "25820001085600",
-    "tikName": "Кузнецкая городская "
+    "tikName": "Кузнецкая городская ",
+    "uikName": "УИК №270",
+    "regionCode": "58",
+    "regionTvd": "100100225883629",
+    "regionName": "Пензенская область",
+    "oikTvd": "100100225883630",
+    "oikName": "Пензенская область – Пензенский",
+    "district": {
+      "districtNumber": 146,
+      "oikTvd": "100100225883630"
+    }
   },
   {
     "uikNumber": 271,
     "uikTvd": "4584014248679",
     "tikTvd": "25820001085600",
-    "tikName": "Кузнецкая городская "
+    "tikName": "Кузнецкая городская ",
+    "uikName": "УИК №271",
+    "regionCode": "58",
+    "regionTvd": "100100225883629",
+    "regionName": "Пензенская область",
+    "oikTvd": "100100225883630",
+    "oikName": "Пензенская область – Пензенский",
+    "district": {
+      "districtNumber": 146,
+      "oikTvd": "100100225883630"
+    }
   },
   {
     "uikNumber": 272,
     "uikTvd": "4584014248680",
     "tikTvd": "25820001085600",
-    "tikName": "Кузнецкая городская "
+    "tikName": "Кузнецкая городская ",
+    "uikName": "УИК №272",
+    "regionCode": "58",
+    "regionTvd": "100100225883629",
+    "regionName": "Пензенская область",
+    "oikTvd": "100100225883630",
+    "oikName": "Пензенская область – Пензенский",
+    "district": {
+      "districtNumber": 146,
+      "oikTvd": "100100225883630"
+    }
   },
   {
     "uikNumber": 273,
     "uikTvd": "4584014248681",
     "tikTvd": "25820001085600",
-    "tikName": "Кузнецкая городская "
+    "tikName": "Кузнецкая городская ",
+    "uikName": "УИК №273",
+    "regionCode": "58",
+    "regionTvd": "100100225883629",
+    "regionName": "Пензенская область",
+    "oikTvd": "100100225883630",
+    "oikName": "Пензенская область – Пензенский",
+    "district": {
+      "districtNumber": 146,
+      "oikTvd": "100100225883630"
+    }
   },
   {
     "uikNumber": 274,
     "uikTvd": "4584014248682",
     "tikTvd": "25820001085600",
-    "tikName": "Кузнецкая городская "
+    "tikName": "Кузнецкая городская ",
+    "uikName": "УИК №274",
+    "regionCode": "58",
+    "regionTvd": "100100225883629",
+    "regionName": "Пензенская область",
+    "oikTvd": "100100225883630",
+    "oikName": "Пензенская область – Пензенский",
+    "district": {
+      "districtNumber": 146,
+      "oikTvd": "100100225883630"
+    }
   },
   {
     "uikNumber": 275,
     "uikTvd": "4584014248683",
     "tikTvd": "25820001085600",
-    "tikName": "Кузнецкая городская "
+    "tikName": "Кузнецкая городская ",
+    "uikName": "УИК №275",
+    "regionCode": "58",
+    "regionTvd": "100100225883629",
+    "regionName": "Пензенская область",
+    "oikTvd": "100100225883630",
+    "oikName": "Пензенская область – Пензенский",
+    "district": {
+      "districtNumber": 146,
+      "oikTvd": "100100225883630"
+    }
   },
   {
     "uikNumber": 276,
     "uikTvd": "4584014248684",
     "tikTvd": "25820001085600",
-    "tikName": "Кузнецкая городская "
+    "tikName": "Кузнецкая городская ",
+    "uikName": "УИК №276",
+    "regionCode": "58",
+    "regionTvd": "100100225883629",
+    "regionName": "Пензенская область",
+    "oikTvd": "100100225883630",
+    "oikName": "Пензенская область – Пензенский",
+    "district": {
+      "districtNumber": 146,
+      "oikTvd": "100100225883630"
+    }
   },
   {
     "uikNumber": 277,
     "uikTvd": "4584014248685",
     "tikTvd": "25820001085600",
-    "tikName": "Кузнецкая городская "
+    "tikName": "Кузнецкая городская ",
+    "uikName": "УИК №277",
+    "regionCode": "58",
+    "regionTvd": "100100225883629",
+    "regionName": "Пензенская область",
+    "oikTvd": "100100225883630",
+    "oikName": "Пензенская область – Пензенский",
+    "district": {
+      "districtNumber": 146,
+      "oikTvd": "100100225883630"
+    }
   },
   {
     "uikNumber": 278,
     "uikTvd": "4584014248686",
     "tikTvd": "25820001085600",
-    "tikName": "Кузнецкая городская "
+    "tikName": "Кузнецкая городская ",
+    "uikName": "УИК №278",
+    "regionCode": "58",
+    "regionTvd": "100100225883629",
+    "regionName": "Пензенская область",
+    "oikTvd": "100100225883630",
+    "oikName": "Пензенская область – Пензенский",
+    "district": {
+      "districtNumber": 146,
+      "oikTvd": "100100225883630"
+    }
   },
   {
     "uikNumber": 279,
     "uikTvd": "4584014248687",
     "tikTvd": "25820001085600",
-    "tikName": "Кузнецкая городская "
+    "tikName": "Кузнецкая городская ",
+    "uikName": "УИК №279",
+    "regionCode": "58",
+    "regionTvd": "100100225883629",
+    "regionName": "Пензенская область",
+    "oikTvd": "100100225883630",
+    "oikName": "Пензенская область – Пензенский",
+    "district": {
+      "districtNumber": 146,
+      "oikTvd": "100100225883630"
+    }
   },
   {
     "uikNumber": 280,
     "uikTvd": "4584014248688",
     "tikTvd": "25820001085600",
-    "tikName": "Кузнецкая городская "
+    "tikName": "Кузнецкая городская ",
+    "uikName": "УИК №280",
+    "regionCode": "58",
+    "regionTvd": "100100225883629",
+    "regionName": "Пензенская область",
+    "oikTvd": "100100225883630",
+    "oikName": "Пензенская область – Пензенский",
+    "district": {
+      "districtNumber": 146,
+      "oikTvd": "100100225883630"
+    }
   },
   {
     "uikNumber": 281,
     "uikTvd": "4584014248689",
     "tikTvd": "25820001085600",
-    "tikName": "Кузнецкая городская "
+    "tikName": "Кузнецкая городская ",
+    "uikName": "УИК №281",
+    "regionCode": "58",
+    "regionTvd": "100100225883629",
+    "regionName": "Пензенская область",
+    "oikTvd": "100100225883630",
+    "oikName": "Пензенская область – Пензенский",
+    "district": {
+      "districtNumber": 146,
+      "oikTvd": "100100225883630"
+    }
   },
   {
     "uikNumber": 282,
     "uikTvd": "4584014248690",
     "tikTvd": "25820001085600",
-    "tikName": "Кузнецкая городская "
+    "tikName": "Кузнецкая городская ",
+    "uikName": "УИК №282",
+    "regionCode": "58",
+    "regionTvd": "100100225883629",
+    "regionName": "Пензенская область",
+    "oikTvd": "100100225883630",
+    "oikName": "Пензенская область – Пензенский",
+    "district": {
+      "districtNumber": 146,
+      "oikTvd": "100100225883630"
+    }
   },
   {
     "uikNumber": 283,
     "uikTvd": "4584014248691",
     "tikTvd": "25820001085600",
-    "tikName": "Кузнецкая городская "
+    "tikName": "Кузнецкая городская ",
+    "uikName": "УИК №283",
+    "regionCode": "58",
+    "regionTvd": "100100225883629",
+    "regionName": "Пензенская область",
+    "oikTvd": "100100225883630",
+    "oikName": "Пензенская область – Пензенский",
+    "district": {
+      "districtNumber": 146,
+      "oikTvd": "100100225883630"
+    }
   },
   {
     "uikNumber": 284,
     "uikTvd": "4584014248692",
     "tikTvd": "25820001085600",
-    "tikName": "Кузнецкая городская "
+    "tikName": "Кузнецкая городская ",
+    "uikName": "УИК №284",
+    "regionCode": "58",
+    "regionTvd": "100100225883629",
+    "regionName": "Пензенская область",
+    "oikTvd": "100100225883630",
+    "oikName": "Пензенская область – Пензенский",
+    "district": {
+      "districtNumber": 146,
+      "oikTvd": "100100225883630"
+    }
   },
   {
     "uikNumber": 285,
     "uikTvd": "4584014248693",
     "tikTvd": "25820001085600",
-    "tikName": "Кузнецкая городская "
+    "tikName": "Кузнецкая городская ",
+    "uikName": "УИК №285",
+    "regionCode": "58",
+    "regionTvd": "100100225883629",
+    "regionName": "Пензенская область",
+    "oikTvd": "100100225883630",
+    "oikName": "Пензенская область – Пензенский",
+    "district": {
+      "districtNumber": 146,
+      "oikTvd": "100100225883630"
+    }
   },
   {
     "uikNumber": 286,
     "uikTvd": "4584014248694",
     "tikTvd": "25820001085600",
-    "tikName": "Кузнецкая городская "
+    "tikName": "Кузнецкая городская ",
+    "uikName": "УИК №286",
+    "regionCode": "58",
+    "regionTvd": "100100225883629",
+    "regionName": "Пензенская область",
+    "oikTvd": "100100225883630",
+    "oikName": "Пензенская область – Пензенский",
+    "district": {
+      "districtNumber": 146,
+      "oikTvd": "100100225883630"
+    }
   },
   {
     "uikNumber": 287,
     "uikTvd": "4584014248695",
     "tikTvd": "25820001085600",
-    "tikName": "Кузнецкая городская "
+    "tikName": "Кузнецкая городская ",
+    "uikName": "УИК №287",
+    "regionCode": "58",
+    "regionTvd": "100100225883629",
+    "regionName": "Пензенская область",
+    "oikTvd": "100100225883630",
+    "oikName": "Пензенская область – Пензенский",
+    "district": {
+      "districtNumber": 146,
+      "oikTvd": "100100225883630"
+    }
   },
   {
     "uikNumber": 288,
     "uikTvd": "4584014248696",
     "tikTvd": "25820001085600",
-    "tikName": "Кузнецкая городская "
+    "tikName": "Кузнецкая городская ",
+    "uikName": "УИК №288",
+    "regionCode": "58",
+    "regionTvd": "100100225883629",
+    "regionName": "Пензенская область",
+    "oikTvd": "100100225883630",
+    "oikName": "Пензенская область – Пензенский",
+    "district": {
+      "districtNumber": 146,
+      "oikTvd": "100100225883630"
+    }
   },
   {
     "uikNumber": 289,
     "uikTvd": "4584014248697",
     "tikTvd": "25820001085600",
-    "tikName": "Кузнецкая городская "
+    "tikName": "Кузнецкая городская ",
+    "uikName": "УИК №289",
+    "regionCode": "58",
+    "regionTvd": "100100225883629",
+    "regionName": "Пензенская область",
+    "oikTvd": "100100225883630",
+    "oikName": "Пензенская область – Пензенский",
+    "district": {
+      "districtNumber": 146,
+      "oikTvd": "100100225883630"
+    }
   },
   {
     "uikNumber": 290,
     "uikTvd": "4584014248698",
     "tikTvd": "25820001085600",
-    "tikName": "Кузнецкая городская "
+    "tikName": "Кузнецкая городская ",
+    "uikName": "УИК №290",
+    "regionCode": "58",
+    "regionTvd": "100100225883629",
+    "regionName": "Пензенская область",
+    "oikTvd": "100100225883630",
+    "oikName": "Пензенская область – Пензенский",
+    "district": {
+      "districtNumber": 146,
+      "oikTvd": "100100225883630"
+    }
   },
   {
     "uikNumber": 291,
     "uikTvd": "4584014248699",
     "tikTvd": "25820001085600",
-    "tikName": "Кузнецкая городская "
+    "tikName": "Кузнецкая городская ",
+    "uikName": "УИК №291",
+    "regionCode": "58",
+    "regionTvd": "100100225883629",
+    "regionName": "Пензенская область",
+    "oikTvd": "100100225883630",
+    "oikName": "Пензенская область – Пензенский",
+    "district": {
+      "districtNumber": 146,
+      "oikTvd": "100100225883630"
+    }
   },
   {
     "uikNumber": 292,
     "uikTvd": "4584014248700",
     "tikTvd": "25820001085600",
-    "tikName": "Кузнецкая городская "
+    "tikName": "Кузнецкая городская ",
+    "uikName": "УИК №292",
+    "regionCode": "58",
+    "regionTvd": "100100225883629",
+    "regionName": "Пензенская область",
+    "oikTvd": "100100225883630",
+    "oikName": "Пензенская область – Пензенский",
+    "district": {
+      "districtNumber": 146,
+      "oikTvd": "100100225883630"
+    }
   },
   {
     "uikNumber": 293,
     "uikTvd": "4584014248701",
     "tikTvd": "25820001085600",
-    "tikName": "Кузнецкая городская "
+    "tikName": "Кузнецкая городская ",
+    "uikName": "УИК №293",
+    "regionCode": "58",
+    "regionTvd": "100100225883629",
+    "regionName": "Пензенская область",
+    "oikTvd": "100100225883630",
+    "oikName": "Пензенская область – Пензенский",
+    "district": {
+      "districtNumber": 146,
+      "oikTvd": "100100225883630"
+    }
   },
   {
     "uikNumber": 294,
     "uikTvd": "4584001289147",
     "tikTvd": "25820001085616",
-    "tikName": "Башмаковская"
+    "tikName": "Башмаковская",
+    "uikName": "УИК №294",
+    "regionCode": "58",
+    "regionTvd": "100100225883629",
+    "regionName": "Пензенская область",
+    "oikTvd": "100100225883631",
+    "oikName": "Пензенская область – Лермонтовский",
+    "district": {
+      "districtNumber": 147,
+      "oikTvd": "100100225883631"
+    }
   },
   {
     "uikNumber": 295,
     "uikTvd": "4584001289148",
     "tikTvd": "25820001085616",
-    "tikName": "Башмаковская"
+    "tikName": "Башмаковская",
+    "uikName": "УИК №295",
+    "regionCode": "58",
+    "regionTvd": "100100225883629",
+    "regionName": "Пензенская область",
+    "oikTvd": "100100225883631",
+    "oikName": "Пензенская область – Лермонтовский",
+    "district": {
+      "districtNumber": 147,
+      "oikTvd": "100100225883631"
+    }
   },
   {
     "uikNumber": 296,
     "uikTvd": "4584001289149",
     "tikTvd": "25820001085616",
-    "tikName": "Башмаковская"
+    "tikName": "Башмаковская",
+    "uikName": "УИК №296",
+    "regionCode": "58",
+    "regionTvd": "100100225883629",
+    "regionName": "Пензенская область",
+    "oikTvd": "100100225883631",
+    "oikName": "Пензенская область – Лермонтовский",
+    "district": {
+      "districtNumber": 147,
+      "oikTvd": "100100225883631"
+    }
   },
   {
     "uikNumber": 297,
     "uikTvd": "4584001289150",
     "tikTvd": "25820001085616",
-    "tikName": "Башмаковская"
+    "tikName": "Башмаковская",
+    "uikName": "УИК №297",
+    "regionCode": "58",
+    "regionTvd": "100100225883629",
+    "regionName": "Пензенская область",
+    "oikTvd": "100100225883631",
+    "oikName": "Пензенская область – Лермонтовский",
+    "district": {
+      "districtNumber": 147,
+      "oikTvd": "100100225883631"
+    }
   },
   {
     "uikNumber": 298,
     "uikTvd": "4584001289151",
     "tikTvd": "25820001085616",
-    "tikName": "Башмаковская"
+    "tikName": "Башмаковская",
+    "uikName": "УИК №298",
+    "regionCode": "58",
+    "regionTvd": "100100225883629",
+    "regionName": "Пензенская область",
+    "oikTvd": "100100225883631",
+    "oikName": "Пензенская область – Лермонтовский",
+    "district": {
+      "districtNumber": 147,
+      "oikTvd": "100100225883631"
+    }
   },
   {
     "uikNumber": 299,
     "uikTvd": "4584001289152",
     "tikTvd": "25820001085616",
-    "tikName": "Башмаковская"
+    "tikName": "Башмаковская",
+    "uikName": "УИК №299",
+    "regionCode": "58",
+    "regionTvd": "100100225883629",
+    "regionName": "Пензенская область",
+    "oikTvd": "100100225883631",
+    "oikName": "Пензенская область – Лермонтовский",
+    "district": {
+      "districtNumber": 147,
+      "oikTvd": "100100225883631"
+    }
   },
   {
     "uikNumber": 300,
     "uikTvd": "4584001289153",
     "tikTvd": "25820001085616",
-    "tikName": "Башмаковская"
+    "tikName": "Башмаковская",
+    "uikName": "УИК №300",
+    "regionCode": "58",
+    "regionTvd": "100100225883629",
+    "regionName": "Пензенская область",
+    "oikTvd": "100100225883631",
+    "oikName": "Пензенская область – Лермонтовский",
+    "district": {
+      "districtNumber": 147,
+      "oikTvd": "100100225883631"
+    }
   },
   {
     "uikNumber": 302,
     "uikTvd": "4584001289154",
     "tikTvd": "25820001085616",
-    "tikName": "Башмаковская"
+    "tikName": "Башмаковская",
+    "uikName": "УИК №302",
+    "regionCode": "58",
+    "regionTvd": "100100225883629",
+    "regionName": "Пензенская область",
+    "oikTvd": "100100225883631",
+    "oikName": "Пензенская область – Лермонтовский",
+    "district": {
+      "districtNumber": 147,
+      "oikTvd": "100100225883631"
+    }
   },
   {
     "uikNumber": 303,
     "uikTvd": "4584001289155",
     "tikTvd": "25820001085616",
-    "tikName": "Башмаковская"
+    "tikName": "Башмаковская",
+    "uikName": "УИК №303",
+    "regionCode": "58",
+    "regionTvd": "100100225883629",
+    "regionName": "Пензенская область",
+    "oikTvd": "100100225883631",
+    "oikName": "Пензенская область – Лермонтовский",
+    "district": {
+      "districtNumber": 147,
+      "oikTvd": "100100225883631"
+    }
   },
   {
     "uikNumber": 304,
     "uikTvd": "4584001289156",
     "tikTvd": "25820001085616",
-    "tikName": "Башмаковская"
+    "tikName": "Башмаковская",
+    "uikName": "УИК №304",
+    "regionCode": "58",
+    "regionTvd": "100100225883629",
+    "regionName": "Пензенская область",
+    "oikTvd": "100100225883631",
+    "oikName": "Пензенская область – Лермонтовский",
+    "district": {
+      "districtNumber": 147,
+      "oikTvd": "100100225883631"
+    }
   },
   {
     "uikNumber": 305,
     "uikTvd": "4584001289157",
     "tikTvd": "25820001085616",
-    "tikName": "Башмаковская"
+    "tikName": "Башмаковская",
+    "uikName": "УИК №305",
+    "regionCode": "58",
+    "regionTvd": "100100225883629",
+    "regionName": "Пензенская область",
+    "oikTvd": "100100225883631",
+    "oikName": "Пензенская область – Лермонтовский",
+    "district": {
+      "districtNumber": 147,
+      "oikTvd": "100100225883631"
+    }
   },
   {
     "uikNumber": 306,
     "uikTvd": "4584001289158",
     "tikTvd": "25820001085616",
-    "tikName": "Башмаковская"
+    "tikName": "Башмаковская",
+    "uikName": "УИК №306",
+    "regionCode": "58",
+    "regionTvd": "100100225883629",
+    "regionName": "Пензенская область",
+    "oikTvd": "100100225883631",
+    "oikName": "Пензенская область – Лермонтовский",
+    "district": {
+      "districtNumber": 147,
+      "oikTvd": "100100225883631"
+    }
   },
   {
     "uikNumber": 307,
     "uikTvd": "4584001289159",
     "tikTvd": "25820001085616",
-    "tikName": "Башмаковская"
+    "tikName": "Башмаковская",
+    "uikName": "УИК №307",
+    "regionCode": "58",
+    "regionTvd": "100100225883629",
+    "regionName": "Пензенская область",
+    "oikTvd": "100100225883631",
+    "oikName": "Пензенская область – Лермонтовский",
+    "district": {
+      "districtNumber": 147,
+      "oikTvd": "100100225883631"
+    }
   },
   {
     "uikNumber": 308,
     "uikTvd": "4584001289160",
     "tikTvd": "25820001085616",
-    "tikName": "Башмаковская"
+    "tikName": "Башмаковская",
+    "uikName": "УИК №308",
+    "regionCode": "58",
+    "regionTvd": "100100225883629",
+    "regionName": "Пензенская область",
+    "oikTvd": "100100225883631",
+    "oikName": "Пензенская область – Лермонтовский",
+    "district": {
+      "districtNumber": 147,
+      "oikTvd": "100100225883631"
+    }
   },
   {
     "uikNumber": 309,
     "uikTvd": "4584001289161",
     "tikTvd": "25820001085616",
-    "tikName": "Башмаковская"
+    "tikName": "Башмаковская",
+    "uikName": "УИК №309",
+    "regionCode": "58",
+    "regionTvd": "100100225883629",
+    "regionName": "Пензенская область",
+    "oikTvd": "100100225883631",
+    "oikName": "Пензенская область – Лермонтовский",
+    "district": {
+      "districtNumber": 147,
+      "oikTvd": "100100225883631"
+    }
   },
   {
     "uikNumber": 310,
     "uikTvd": "4584001289162",
     "tikTvd": "25820001085616",
-    "tikName": "Башмаковская"
+    "tikName": "Башмаковская",
+    "uikName": "УИК №310",
+    "regionCode": "58",
+    "regionTvd": "100100225883629",
+    "regionName": "Пензенская область",
+    "oikTvd": "100100225883631",
+    "oikName": "Пензенская область – Лермонтовский",
+    "district": {
+      "districtNumber": 147,
+      "oikTvd": "100100225883631"
+    }
   },
   {
     "uikNumber": 311,
     "uikTvd": "4584001289163",
     "tikTvd": "25820001085616",
-    "tikName": "Башмаковская"
+    "tikName": "Башмаковская",
+    "uikName": "УИК №311",
+    "regionCode": "58",
+    "regionTvd": "100100225883629",
+    "regionName": "Пензенская область",
+    "oikTvd": "100100225883631",
+    "oikName": "Пензенская область – Лермонтовский",
+    "district": {
+      "districtNumber": 147,
+      "oikTvd": "100100225883631"
+    }
   },
   {
     "uikNumber": 312,
     "uikTvd": "4584001289164",
     "tikTvd": "25820001085616",
-    "tikName": "Башмаковская"
+    "tikName": "Башмаковская",
+    "uikName": "УИК №312",
+    "regionCode": "58",
+    "regionTvd": "100100225883629",
+    "regionName": "Пензенская область",
+    "oikTvd": "100100225883631",
+    "oikName": "Пензенская область – Лермонтовский",
+    "district": {
+      "districtNumber": 147,
+      "oikTvd": "100100225883631"
+    }
   },
   {
     "uikNumber": 313,
     "uikTvd": "4584001289165",
     "tikTvd": "25820001085616",
-    "tikName": "Башмаковская"
+    "tikName": "Башмаковская",
+    "uikName": "УИК №313",
+    "regionCode": "58",
+    "regionTvd": "100100225883629",
+    "regionName": "Пензенская область",
+    "oikTvd": "100100225883631",
+    "oikName": "Пензенская область – Лермонтовский",
+    "district": {
+      "districtNumber": 147,
+      "oikTvd": "100100225883631"
+    }
   },
   {
     "uikNumber": 314,
     "uikTvd": "4584001289166",
     "tikTvd": "25820001085616",
-    "tikName": "Башмаковская"
+    "tikName": "Башмаковская",
+    "uikName": "УИК №314",
+    "regionCode": "58",
+    "regionTvd": "100100225883629",
+    "regionName": "Пензенская область",
+    "oikTvd": "100100225883631",
+    "oikName": "Пензенская область – Лермонтовский",
+    "district": {
+      "districtNumber": 147,
+      "oikTvd": "100100225883631"
+    }
   },
   {
     "uikNumber": 315,
     "uikTvd": "4584001289167",
     "tikTvd": "25820001085616",
-    "tikName": "Башмаковская"
+    "tikName": "Башмаковская",
+    "uikName": "УИК №315",
+    "regionCode": "58",
+    "regionTvd": "100100225883629",
+    "regionName": "Пензенская область",
+    "oikTvd": "100100225883631",
+    "oikName": "Пензенская область – Лермонтовский",
+    "district": {
+      "districtNumber": 147,
+      "oikTvd": "100100225883631"
+    }
   },
   {
     "uikNumber": 316,
     "uikTvd": "4584001289168",
     "tikTvd": "25820001085616",
-    "tikName": "Башмаковская"
+    "tikName": "Башмаковская",
+    "uikName": "УИК №316",
+    "regionCode": "58",
+    "regionTvd": "100100225883629",
+    "regionName": "Пензенская область",
+    "oikTvd": "100100225883631",
+    "oikName": "Пензенская область – Лермонтовский",
+    "district": {
+      "districtNumber": 147,
+      "oikTvd": "100100225883631"
+    }
   },
   {
     "uikNumber": 317,
     "uikTvd": "4584001289169",
     "tikTvd": "25820001085616",
-    "tikName": "Башмаковская"
+    "tikName": "Башмаковская",
+    "uikName": "УИК №317",
+    "regionCode": "58",
+    "regionTvd": "100100225883629",
+    "regionName": "Пензенская область",
+    "oikTvd": "100100225883631",
+    "oikName": "Пензенская область – Лермонтовский",
+    "district": {
+      "districtNumber": 147,
+      "oikTvd": "100100225883631"
+    }
   },
   {
     "uikNumber": 318,
     "uikTvd": "4584001289170",
     "tikTvd": "25820001085616",
-    "tikName": "Башмаковская"
+    "tikName": "Башмаковская",
+    "uikName": "УИК №318",
+    "regionCode": "58",
+    "regionTvd": "100100225883629",
+    "regionName": "Пензенская область",
+    "oikTvd": "100100225883631",
+    "oikName": "Пензенская область – Лермонтовский",
+    "district": {
+      "districtNumber": 147,
+      "oikTvd": "100100225883631"
+    }
   },
   {
     "uikNumber": 320,
     "uikTvd": "4584001289171",
     "tikTvd": "25820001085616",
-    "tikName": "Башмаковская"
+    "tikName": "Башмаковская",
+    "uikName": "УИК №320",
+    "regionCode": "58",
+    "regionTvd": "100100225883629",
+    "regionName": "Пензенская область",
+    "oikTvd": "100100225883631",
+    "oikName": "Пензенская область – Лермонтовский",
+    "district": {
+      "districtNumber": 147,
+      "oikTvd": "100100225883631"
+    }
   },
   {
     "uikNumber": 321,
     "uikTvd": "4584003379422",
     "tikTvd": "25820001085615",
-    "tikName": "Бековская"
+    "tikName": "Бековская",
+    "uikName": "УИК №321",
+    "regionCode": "58",
+    "regionTvd": "100100225883629",
+    "regionName": "Пензенская область",
+    "oikTvd": "100100225883631",
+    "oikName": "Пензенская область – Лермонтовский",
+    "district": {
+      "districtNumber": 147,
+      "oikTvd": "100100225883631"
+    }
   },
   {
     "uikNumber": 322,
     "uikTvd": "4584003379423",
     "tikTvd": "25820001085615",
-    "tikName": "Бековская"
+    "tikName": "Бековская",
+    "uikName": "УИК №322",
+    "regionCode": "58",
+    "regionTvd": "100100225883629",
+    "regionName": "Пензенская область",
+    "oikTvd": "100100225883631",
+    "oikName": "Пензенская область – Лермонтовский",
+    "district": {
+      "districtNumber": 147,
+      "oikTvd": "100100225883631"
+    }
   },
   {
     "uikNumber": 323,
     "uikTvd": "4584003379424",
     "tikTvd": "25820001085615",
-    "tikName": "Бековская"
+    "tikName": "Бековская",
+    "uikName": "УИК №323",
+    "regionCode": "58",
+    "regionTvd": "100100225883629",
+    "regionName": "Пензенская область",
+    "oikTvd": "100100225883631",
+    "oikName": "Пензенская область – Лермонтовский",
+    "district": {
+      "districtNumber": 147,
+      "oikTvd": "100100225883631"
+    }
   },
   {
     "uikNumber": 324,
     "uikTvd": "4584003379425",
     "tikTvd": "25820001085615",
-    "tikName": "Бековская"
+    "tikName": "Бековская",
+    "uikName": "УИК №324",
+    "regionCode": "58",
+    "regionTvd": "100100225883629",
+    "regionName": "Пензенская область",
+    "oikTvd": "100100225883631",
+    "oikName": "Пензенская область – Лермонтовский",
+    "district": {
+      "districtNumber": 147,
+      "oikTvd": "100100225883631"
+    }
   },
   {
     "uikNumber": 325,
     "uikTvd": "4584003379426",
     "tikTvd": "25820001085615",
-    "tikName": "Бековская"
+    "tikName": "Бековская",
+    "uikName": "УИК №325",
+    "regionCode": "58",
+    "regionTvd": "100100225883629",
+    "regionName": "Пензенская область",
+    "oikTvd": "100100225883631",
+    "oikName": "Пензенская область – Лермонтовский",
+    "district": {
+      "districtNumber": 147,
+      "oikTvd": "100100225883631"
+    }
   },
   {
     "uikNumber": 326,
     "uikTvd": "4584003379427",
     "tikTvd": "25820001085615",
-    "tikName": "Бековская"
+    "tikName": "Бековская",
+    "uikName": "УИК №326",
+    "regionCode": "58",
+    "regionTvd": "100100225883629",
+    "regionName": "Пензенская область",
+    "oikTvd": "100100225883631",
+    "oikName": "Пензенская область – Лермонтовский",
+    "district": {
+      "districtNumber": 147,
+      "oikTvd": "100100225883631"
+    }
   },
   {
     "uikNumber": 327,
     "uikTvd": "4584003379428",
     "tikTvd": "25820001085615",
-    "tikName": "Бековская"
+    "tikName": "Бековская",
+    "uikName": "УИК №327",
+    "regionCode": "58",
+    "regionTvd": "100100225883629",
+    "regionName": "Пензенская область",
+    "oikTvd": "100100225883631",
+    "oikName": "Пензенская область – Лермонтовский",
+    "district": {
+      "districtNumber": 147,
+      "oikTvd": "100100225883631"
+    }
   },
   {
     "uikNumber": 328,
     "uikTvd": "4584003379429",
     "tikTvd": "25820001085615",
-    "tikName": "Бековская"
+    "tikName": "Бековская",
+    "uikName": "УИК №328",
+    "regionCode": "58",
+    "regionTvd": "100100225883629",
+    "regionName": "Пензенская область",
+    "oikTvd": "100100225883631",
+    "oikName": "Пензенская область – Лермонтовский",
+    "district": {
+      "districtNumber": 147,
+      "oikTvd": "100100225883631"
+    }
   },
   {
     "uikNumber": 329,
     "uikTvd": "4584003379430",
     "tikTvd": "25820001085615",
-    "tikName": "Бековская"
+    "tikName": "Бековская",
+    "uikName": "УИК №329",
+    "regionCode": "58",
+    "regionTvd": "100100225883629",
+    "regionName": "Пензенская область",
+    "oikTvd": "100100225883631",
+    "oikName": "Пензенская область – Лермонтовский",
+    "district": {
+      "districtNumber": 147,
+      "oikTvd": "100100225883631"
+    }
   },
   {
     "uikNumber": 330,
     "uikTvd": "4584003379431",
     "tikTvd": "25820001085615",
-    "tikName": "Бековская"
+    "tikName": "Бековская",
+    "uikName": "УИК №330",
+    "regionCode": "58",
+    "regionTvd": "100100225883629",
+    "regionName": "Пензенская область",
+    "oikTvd": "100100225883631",
+    "oikName": "Пензенская область – Лермонтовский",
+    "district": {
+      "districtNumber": 147,
+      "oikTvd": "100100225883631"
+    }
   },
   {
     "uikNumber": 331,
     "uikTvd": "4584003379432",
     "tikTvd": "25820001085615",
-    "tikName": "Бековская"
+    "tikName": "Бековская",
+    "uikName": "УИК №331",
+    "regionCode": "58",
+    "regionTvd": "100100225883629",
+    "regionName": "Пензенская область",
+    "oikTvd": "100100225883631",
+    "oikName": "Пензенская область – Лермонтовский",
+    "district": {
+      "districtNumber": 147,
+      "oikTvd": "100100225883631"
+    }
   },
   {
     "uikNumber": 332,
     "uikTvd": "4584003379433",
     "tikTvd": "25820001085615",
-    "tikName": "Бековская"
+    "tikName": "Бековская",
+    "uikName": "УИК №332",
+    "regionCode": "58",
+    "regionTvd": "100100225883629",
+    "regionName": "Пензенская область",
+    "oikTvd": "100100225883631",
+    "oikName": "Пензенская область – Лермонтовский",
+    "district": {
+      "districtNumber": 147,
+      "oikTvd": "100100225883631"
+    }
   },
   {
     "uikNumber": 333,
     "uikTvd": "4584003379434",
     "tikTvd": "25820001085615",
-    "tikName": "Бековская"
+    "tikName": "Бековская",
+    "uikName": "УИК №333",
+    "regionCode": "58",
+    "regionTvd": "100100225883629",
+    "regionName": "Пензенская область",
+    "oikTvd": "100100225883631",
+    "oikName": "Пензенская область – Лермонтовский",
+    "district": {
+      "districtNumber": 147,
+      "oikTvd": "100100225883631"
+    }
   },
   {
     "uikNumber": 334,
     "uikTvd": "4584003379435",
     "tikTvd": "25820001085615",
-    "tikName": "Бековская"
+    "tikName": "Бековская",
+    "uikName": "УИК №334",
+    "regionCode": "58",
+    "regionTvd": "100100225883629",
+    "regionName": "Пензенская область",
+    "oikTvd": "100100225883631",
+    "oikName": "Пензенская область – Лермонтовский",
+    "district": {
+      "districtNumber": 147,
+      "oikTvd": "100100225883631"
+    }
   },
   {
     "uikNumber": 335,
     "uikTvd": "4584003379436",
     "tikTvd": "25820001085615",
-    "tikName": "Бековская"
+    "tikName": "Бековская",
+    "uikName": "УИК №335",
+    "regionCode": "58",
+    "regionTvd": "100100225883629",
+    "regionName": "Пензенская область",
+    "oikTvd": "100100225883631",
+    "oikName": "Пензенская область – Лермонтовский",
+    "district": {
+      "districtNumber": 147,
+      "oikTvd": "100100225883631"
+    }
   },
   {
     "uikNumber": 336,
     "uikTvd": "4584003379437",
     "tikTvd": "25820001085615",
-    "tikName": "Бековская"
+    "tikName": "Бековская",
+    "uikName": "УИК №336",
+    "regionCode": "58",
+    "regionTvd": "100100225883629",
+    "regionName": "Пензенская область",
+    "oikTvd": "100100225883631",
+    "oikName": "Пензенская область – Лермонтовский",
+    "district": {
+      "districtNumber": 147,
+      "oikTvd": "100100225883631"
+    }
   },
   {
     "uikNumber": 337,
     "uikTvd": "4584003379438",
     "tikTvd": "25820001085615",
-    "tikName": "Бековская"
+    "tikName": "Бековская",
+    "uikName": "УИК №337",
+    "regionCode": "58",
+    "regionTvd": "100100225883629",
+    "regionName": "Пензенская область",
+    "oikTvd": "100100225883631",
+    "oikName": "Пензенская область – Лермонтовский",
+    "district": {
+      "districtNumber": 147,
+      "oikTvd": "100100225883631"
+    }
   },
   {
     "uikNumber": 338,
     "uikTvd": "4584003379439",
     "tikTvd": "25820001085615",
-    "tikName": "Бековская"
+    "tikName": "Бековская",
+    "uikName": "УИК №338",
+    "regionCode": "58",
+    "regionTvd": "100100225883629",
+    "regionName": "Пензенская область",
+    "oikTvd": "100100225883631",
+    "oikName": "Пензенская область – Лермонтовский",
+    "district": {
+      "districtNumber": 147,
+      "oikTvd": "100100225883631"
+    }
   },
   {
     "uikNumber": 339,
     "uikTvd": "4584003379440",
     "tikTvd": "25820001085615",
-    "tikName": "Бековская"
+    "tikName": "Бековская",
+    "uikName": "УИК №339",
+    "regionCode": "58",
+    "regionTvd": "100100225883629",
+    "regionName": "Пензенская область",
+    "oikTvd": "100100225883631",
+    "oikName": "Пензенская область – Лермонтовский",
+    "district": {
+      "districtNumber": 147,
+      "oikTvd": "100100225883631"
+    }
   },
   {
     "uikNumber": 340,
     "uikTvd": "4584003379441",
     "tikTvd": "25820001085615",
-    "tikName": "Бековская"
+    "tikName": "Бековская",
+    "uikName": "УИК №340",
+    "regionCode": "58",
+    "regionTvd": "100100225883629",
+    "regionName": "Пензенская область",
+    "oikTvd": "100100225883631",
+    "oikName": "Пензенская область – Лермонтовский",
+    "district": {
+      "districtNumber": 147,
+      "oikTvd": "100100225883631"
+    }
   },
   {
     "uikNumber": 341,
     "uikTvd": "4584004364916",
     "tikTvd": "25820001085614",
-    "tikName": "Белинская"
+    "tikName": "Белинская",
+    "uikName": "УИК №341",
+    "regionCode": "58",
+    "regionTvd": "100100225883629",
+    "regionName": "Пензенская область",
+    "oikTvd": "100100225883631",
+    "oikName": "Пензенская область – Лермонтовский",
+    "district": {
+      "districtNumber": 147,
+      "oikTvd": "100100225883631"
+    }
   },
   {
     "uikNumber": 342,
     "uikTvd": "4584004364917",
     "tikTvd": "25820001085614",
-    "tikName": "Белинская"
+    "tikName": "Белинская",
+    "uikName": "УИК №342",
+    "regionCode": "58",
+    "regionTvd": "100100225883629",
+    "regionName": "Пензенская область",
+    "oikTvd": "100100225883631",
+    "oikName": "Пензенская область – Лермонтовский",
+    "district": {
+      "districtNumber": 147,
+      "oikTvd": "100100225883631"
+    }
   },
   {
     "uikNumber": 343,
     "uikTvd": "4584004364918",
     "tikTvd": "25820001085614",
-    "tikName": "Белинская"
+    "tikName": "Белинская",
+    "uikName": "УИК №343",
+    "regionCode": "58",
+    "regionTvd": "100100225883629",
+    "regionName": "Пензенская область",
+    "oikTvd": "100100225883631",
+    "oikName": "Пензенская область – Лермонтовский",
+    "district": {
+      "districtNumber": 147,
+      "oikTvd": "100100225883631"
+    }
   },
   {
     "uikNumber": 344,
     "uikTvd": "4584004364919",
     "tikTvd": "25820001085614",
-    "tikName": "Белинская"
+    "tikName": "Белинская",
+    "uikName": "УИК №344",
+    "regionCode": "58",
+    "regionTvd": "100100225883629",
+    "regionName": "Пензенская область",
+    "oikTvd": "100100225883631",
+    "oikName": "Пензенская область – Лермонтовский",
+    "district": {
+      "districtNumber": 147,
+      "oikTvd": "100100225883631"
+    }
   },
   {
     "uikNumber": 345,
     "uikTvd": "4584004364920",
     "tikTvd": "25820001085614",
-    "tikName": "Белинская"
+    "tikName": "Белинская",
+    "uikName": "УИК №345",
+    "regionCode": "58",
+    "regionTvd": "100100225883629",
+    "regionName": "Пензенская область",
+    "oikTvd": "100100225883631",
+    "oikName": "Пензенская область – Лермонтовский",
+    "district": {
+      "districtNumber": 147,
+      "oikTvd": "100100225883631"
+    }
   },
   {
     "uikNumber": 346,
     "uikTvd": "4584004364921",
     "tikTvd": "25820001085614",
-    "tikName": "Белинская"
+    "tikName": "Белинская",
+    "uikName": "УИК №346",
+    "regionCode": "58",
+    "regionTvd": "100100225883629",
+    "regionName": "Пензенская область",
+    "oikTvd": "100100225883631",
+    "oikName": "Пензенская область – Лермонтовский",
+    "district": {
+      "districtNumber": 147,
+      "oikTvd": "100100225883631"
+    }
   },
   {
     "uikNumber": 347,
     "uikTvd": "4584004364922",
     "tikTvd": "25820001085614",
-    "tikName": "Белинская"
+    "tikName": "Белинская",
+    "uikName": "УИК №347",
+    "regionCode": "58",
+    "regionTvd": "100100225883629",
+    "regionName": "Пензенская область",
+    "oikTvd": "100100225883631",
+    "oikName": "Пензенская область – Лермонтовский",
+    "district": {
+      "districtNumber": 147,
+      "oikTvd": "100100225883631"
+    }
   },
   {
     "uikNumber": 348,
     "uikTvd": "4584004364923",
     "tikTvd": "25820001085614",
-    "tikName": "Белинская"
+    "tikName": "Белинская",
+    "uikName": "УИК №348",
+    "regionCode": "58",
+    "regionTvd": "100100225883629",
+    "regionName": "Пензенская область",
+    "oikTvd": "100100225883631",
+    "oikName": "Пензенская область – Лермонтовский",
+    "district": {
+      "districtNumber": 147,
+      "oikTvd": "100100225883631"
+    }
   },
   {
     "uikNumber": 349,
     "uikTvd": "4584004364924",
     "tikTvd": "25820001085614",
-    "tikName": "Белинская"
+    "tikName": "Белинская",
+    "uikName": "УИК №349",
+    "regionCode": "58",
+    "regionTvd": "100100225883629",
+    "regionName": "Пензенская область",
+    "oikTvd": "100100225883631",
+    "oikName": "Пензенская область – Лермонтовский",
+    "district": {
+      "districtNumber": 147,
+      "oikTvd": "100100225883631"
+    }
   },
   {
     "uikNumber": 350,
     "uikTvd": "4584004364925",
     "tikTvd": "25820001085614",
-    "tikName": "Белинская"
+    "tikName": "Белинская",
+    "uikName": "УИК №350",
+    "regionCode": "58",
+    "regionTvd": "100100225883629",
+    "regionName": "Пензенская область",
+    "oikTvd": "100100225883631",
+    "oikName": "Пензенская область – Лермонтовский",
+    "district": {
+      "districtNumber": 147,
+      "oikTvd": "100100225883631"
+    }
   },
   {
     "uikNumber": 351,
     "uikTvd": "4584004364926",
     "tikTvd": "25820001085614",
-    "tikName": "Белинская"
+    "tikName": "Белинская",
+    "uikName": "УИК №351",
+    "regionCode": "58",
+    "regionTvd": "100100225883629",
+    "regionName": "Пензенская область",
+    "oikTvd": "100100225883631",
+    "oikName": "Пензенская область – Лермонтовский",
+    "district": {
+      "districtNumber": 147,
+      "oikTvd": "100100225883631"
+    }
   },
   {
     "uikNumber": 352,
     "uikTvd": "4584004364927",
     "tikTvd": "25820001085614",
-    "tikName": "Белинская"
+    "tikName": "Белинская",
+    "uikName": "УИК №352",
+    "regionCode": "58",
+    "regionTvd": "100100225883629",
+    "regionName": "Пензенская область",
+    "oikTvd": "100100225883631",
+    "oikName": "Пензенская область – Лермонтовский",
+    "district": {
+      "districtNumber": 147,
+      "oikTvd": "100100225883631"
+    }
   },
   {
     "uikNumber": 353,
     "uikTvd": "4584004364928",
     "tikTvd": "25820001085614",
-    "tikName": "Белинская"
+    "tikName": "Белинская",
+    "uikName": "УИК №353",
+    "regionCode": "58",
+    "regionTvd": "100100225883629",
+    "regionName": "Пензенская область",
+    "oikTvd": "100100225883631",
+    "oikName": "Пензенская область – Лермонтовский",
+    "district": {
+      "districtNumber": 147,
+      "oikTvd": "100100225883631"
+    }
   },
   {
     "uikNumber": 354,
     "uikTvd": "4584004364929",
     "tikTvd": "25820001085614",
-    "tikName": "Белинская"
+    "tikName": "Белинская",
+    "uikName": "УИК №354",
+    "regionCode": "58",
+    "regionTvd": "100100225883629",
+    "regionName": "Пензенская область",
+    "oikTvd": "100100225883631",
+    "oikName": "Пензенская область – Лермонтовский",
+    "district": {
+      "districtNumber": 147,
+      "oikTvd": "100100225883631"
+    }
   },
   {
     "uikNumber": 355,
     "uikTvd": "4584004364930",
     "tikTvd": "25820001085614",
-    "tikName": "Белинская"
+    "tikName": "Белинская",
+    "uikName": "УИК №355",
+    "regionCode": "58",
+    "regionTvd": "100100225883629",
+    "regionName": "Пензенская область",
+    "oikTvd": "100100225883631",
+    "oikName": "Пензенская область – Лермонтовский",
+    "district": {
+      "districtNumber": 147,
+      "oikTvd": "100100225883631"
+    }
   },
   {
     "uikNumber": 356,
     "uikTvd": "4584004364931",
     "tikTvd": "25820001085614",
-    "tikName": "Белинская"
+    "tikName": "Белинская",
+    "uikName": "УИК №356",
+    "regionCode": "58",
+    "regionTvd": "100100225883629",
+    "regionName": "Пензенская область",
+    "oikTvd": "100100225883631",
+    "oikName": "Пензенская область – Лермонтовский",
+    "district": {
+      "districtNumber": 147,
+      "oikTvd": "100100225883631"
+    }
   },
   {
     "uikNumber": 357,
     "uikTvd": "4584004364932",
     "tikTvd": "25820001085614",
-    "tikName": "Белинская"
+    "tikName": "Белинская",
+    "uikName": "УИК №357",
+    "regionCode": "58",
+    "regionTvd": "100100225883629",
+    "regionName": "Пензенская область",
+    "oikTvd": "100100225883631",
+    "oikName": "Пензенская область – Лермонтовский",
+    "district": {
+      "districtNumber": 147,
+      "oikTvd": "100100225883631"
+    }
   },
   {
     "uikNumber": 358,
     "uikTvd": "4584004364933",
     "tikTvd": "25820001085614",
-    "tikName": "Белинская"
+    "tikName": "Белинская",
+    "uikName": "УИК №358",
+    "regionCode": "58",
+    "regionTvd": "100100225883629",
+    "regionName": "Пензенская область",
+    "oikTvd": "100100225883631",
+    "oikName": "Пензенская область – Лермонтовский",
+    "district": {
+      "districtNumber": 147,
+      "oikTvd": "100100225883631"
+    }
   },
   {
     "uikNumber": 359,
     "uikTvd": "4584004364934",
     "tikTvd": "25820001085614",
-    "tikName": "Белинская"
+    "tikName": "Белинская",
+    "uikName": "УИК №359",
+    "regionCode": "58",
+    "regionTvd": "100100225883629",
+    "regionName": "Пензенская область",
+    "oikTvd": "100100225883631",
+    "oikName": "Пензенская область – Лермонтовский",
+    "district": {
+      "districtNumber": 147,
+      "oikTvd": "100100225883631"
+    }
   },
   {
     "uikNumber": 360,
     "uikTvd": "4584004364935",
     "tikTvd": "25820001085614",
-    "tikName": "Белинская"
+    "tikName": "Белинская",
+    "uikName": "УИК №360",
+    "regionCode": "58",
+    "regionTvd": "100100225883629",
+    "regionName": "Пензенская область",
+    "oikTvd": "100100225883631",
+    "oikName": "Пензенская область – Лермонтовский",
+    "district": {
+      "districtNumber": 147,
+      "oikTvd": "100100225883631"
+    }
   },
   {
     "uikNumber": 361,
     "uikTvd": "4584004364936",
     "tikTvd": "25820001085614",
-    "tikName": "Белинская"
+    "tikName": "Белинская",
+    "uikName": "УИК №361",
+    "regionCode": "58",
+    "regionTvd": "100100225883629",
+    "regionName": "Пензенская область",
+    "oikTvd": "100100225883631",
+    "oikName": "Пензенская область – Лермонтовский",
+    "district": {
+      "districtNumber": 147,
+      "oikTvd": "100100225883631"
+    }
   },
   {
     "uikNumber": 362,
     "uikTvd": "4584004364937",
     "tikTvd": "25820001085614",
-    "tikName": "Белинская"
+    "tikName": "Белинская",
+    "uikName": "УИК №362",
+    "regionCode": "58",
+    "regionTvd": "100100225883629",
+    "regionName": "Пензенская область",
+    "oikTvd": "100100225883631",
+    "oikName": "Пензенская область – Лермонтовский",
+    "district": {
+      "districtNumber": 147,
+      "oikTvd": "100100225883631"
+    }
   },
   {
     "uikNumber": 363,
     "uikTvd": "4584004364938",
     "tikTvd": "25820001085614",
-    "tikName": "Белинская"
+    "tikName": "Белинская",
+    "uikName": "УИК №363",
+    "regionCode": "58",
+    "regionTvd": "100100225883629",
+    "regionName": "Пензенская область",
+    "oikTvd": "100100225883631",
+    "oikName": "Пензенская область – Лермонтовский",
+    "district": {
+      "districtNumber": 147,
+      "oikTvd": "100100225883631"
+    }
   },
   {
     "uikNumber": 364,
     "uikTvd": "4584004364939",
     "tikTvd": "25820001085614",
-    "tikName": "Белинская"
+    "tikName": "Белинская",
+    "uikName": "УИК №364",
+    "regionCode": "58",
+    "regionTvd": "100100225883629",
+    "regionName": "Пензенская область",
+    "oikTvd": "100100225883631",
+    "oikName": "Пензенская область – Лермонтовский",
+    "district": {
+      "districtNumber": 147,
+      "oikTvd": "100100225883631"
+    }
   },
   {
     "uikNumber": 365,
     "uikTvd": "4584004364940",
     "tikTvd": "25820001085614",
-    "tikName": "Белинская"
+    "tikName": "Белинская",
+    "uikName": "УИК №365",
+    "regionCode": "58",
+    "regionTvd": "100100225883629",
+    "regionName": "Пензенская область",
+    "oikTvd": "100100225883631",
+    "oikName": "Пензенская область – Лермонтовский",
+    "district": {
+      "districtNumber": 147,
+      "oikTvd": "100100225883631"
+    }
   },
   {
     "uikNumber": 366,
     "uikTvd": "4584004364941",
     "tikTvd": "25820001085614",
-    "tikName": "Белинская"
+    "tikName": "Белинская",
+    "uikName": "УИК №366",
+    "regionCode": "58",
+    "regionTvd": "100100225883629",
+    "regionName": "Пензенская область",
+    "oikTvd": "100100225883631",
+    "oikName": "Пензенская область – Лермонтовский",
+    "district": {
+      "districtNumber": 147,
+      "oikTvd": "100100225883631"
+    }
   },
   {
     "uikNumber": 367,
     "uikTvd": "4584004364942",
     "tikTvd": "25820001085614",
-    "tikName": "Белинская"
+    "tikName": "Белинская",
+    "uikName": "УИК №367",
+    "regionCode": "58",
+    "regionTvd": "100100225883629",
+    "regionName": "Пензенская область",
+    "oikTvd": "100100225883631",
+    "oikName": "Пензенская область – Лермонтовский",
+    "district": {
+      "districtNumber": 147,
+      "oikTvd": "100100225883631"
+    }
   },
   {
     "uikNumber": 368,
     "uikTvd": "4584004364943",
     "tikTvd": "25820001085614",
-    "tikName": "Белинская"
+    "tikName": "Белинская",
+    "uikName": "УИК №368",
+    "regionCode": "58",
+    "regionTvd": "100100225883629",
+    "regionName": "Пензенская область",
+    "oikTvd": "100100225883631",
+    "oikName": "Пензенская область – Лермонтовский",
+    "district": {
+      "districtNumber": 147,
+      "oikTvd": "100100225883631"
+    }
   },
   {
     "uikNumber": 369,
     "uikTvd": "4584004364944",
     "tikTvd": "25820001085614",
-    "tikName": "Белинская"
+    "tikName": "Белинская",
+    "uikName": "УИК №369",
+    "regionCode": "58",
+    "regionTvd": "100100225883629",
+    "regionName": "Пензенская область",
+    "oikTvd": "100100225883631",
+    "oikName": "Пензенская область – Лермонтовский",
+    "district": {
+      "districtNumber": 147,
+      "oikTvd": "100100225883631"
+    }
   },
   {
     "uikNumber": 370,
     "uikTvd": "4584005276765",
     "tikTvd": "25820001085613",
-    "tikName": "Бессоновская"
+    "tikName": "Бессоновская",
+    "uikName": "УИК №370",
+    "regionCode": "58",
+    "regionTvd": "100100225883629",
+    "regionName": "Пензенская область",
+    "oikTvd": "100100225883631",
+    "oikName": "Пензенская область – Лермонтовский",
+    "district": {
+      "districtNumber": 147,
+      "oikTvd": "100100225883631"
+    }
   },
   {
     "uikNumber": 371,
     "uikTvd": "4584005276766",
     "tikTvd": "25820001085613",
-    "tikName": "Бессоновская"
+    "tikName": "Бессоновская",
+    "uikName": "УИК №371",
+    "regionCode": "58",
+    "regionTvd": "100100225883629",
+    "regionName": "Пензенская область",
+    "oikTvd": "100100225883631",
+    "oikName": "Пензенская область – Лермонтовский",
+    "district": {
+      "districtNumber": 147,
+      "oikTvd": "100100225883631"
+    }
   },
   {
     "uikNumber": 372,
     "uikTvd": "4584005276767",
     "tikTvd": "25820001085613",
-    "tikName": "Бессоновская"
+    "tikName": "Бессоновская",
+    "uikName": "УИК №372",
+    "regionCode": "58",
+    "regionTvd": "100100225883629",
+    "regionName": "Пензенская область",
+    "oikTvd": "100100225883631",
+    "oikName": "Пензенская область – Лермонтовский",
+    "district": {
+      "districtNumber": 147,
+      "oikTvd": "100100225883631"
+    }
   },
   {
     "uikNumber": 373,
     "uikTvd": "4584005276768",
     "tikTvd": "25820001085613",
-    "tikName": "Бессоновская"
+    "tikName": "Бессоновская",
+    "uikName": "УИК №373",
+    "regionCode": "58",
+    "regionTvd": "100100225883629",
+    "regionName": "Пензенская область",
+    "oikTvd": "100100225883631",
+    "oikName": "Пензенская область – Лермонтовский",
+    "district": {
+      "districtNumber": 147,
+      "oikTvd": "100100225883631"
+    }
   },
   {
     "uikNumber": 374,
     "uikTvd": "4584005276769",
     "tikTvd": "25820001085613",
-    "tikName": "Бессоновская"
+    "tikName": "Бессоновская",
+    "uikName": "УИК №374",
+    "regionCode": "58",
+    "regionTvd": "100100225883629",
+    "regionName": "Пензенская область",
+    "oikTvd": "100100225883631",
+    "oikName": "Пензенская область – Лермонтовский",
+    "district": {
+      "districtNumber": 147,
+      "oikTvd": "100100225883631"
+    }
   },
   {
     "uikNumber": 375,
     "uikTvd": "4584005276770",
     "tikTvd": "25820001085613",
-    "tikName": "Бессоновская"
+    "tikName": "Бессоновская",
+    "uikName": "УИК №375",
+    "regionCode": "58",
+    "regionTvd": "100100225883629",
+    "regionName": "Пензенская область",
+    "oikTvd": "100100225883631",
+    "oikName": "Пензенская область – Лермонтовский",
+    "district": {
+      "districtNumber": 147,
+      "oikTvd": "100100225883631"
+    }
   },
   {
     "uikNumber": 377,
     "uikTvd": "4584005276771",
     "tikTvd": "25820001085613",
-    "tikName": "Бессоновская"
+    "tikName": "Бессоновская",
+    "uikName": "УИК №377",
+    "regionCode": "58",
+    "regionTvd": "100100225883629",
+    "regionName": "Пензенская область",
+    "oikTvd": "100100225883631",
+    "oikName": "Пензенская область – Лермонтовский",
+    "district": {
+      "districtNumber": 147,
+      "oikTvd": "100100225883631"
+    }
   },
   {
     "uikNumber": 378,
     "uikTvd": "4584005276772",
     "tikTvd": "25820001085613",
-    "tikName": "Бессоновская"
+    "tikName": "Бессоновская",
+    "uikName": "УИК №378",
+    "regionCode": "58",
+    "regionTvd": "100100225883629",
+    "regionName": "Пензенская область",
+    "oikTvd": "100100225883631",
+    "oikName": "Пензенская область – Лермонтовский",
+    "district": {
+      "districtNumber": 147,
+      "oikTvd": "100100225883631"
+    }
   },
   {
     "uikNumber": 379,
     "uikTvd": "4584005276773",
     "tikTvd": "25820001085613",
-    "tikName": "Бессоновская"
+    "tikName": "Бессоновская",
+    "uikName": "УИК №379",
+    "regionCode": "58",
+    "regionTvd": "100100225883629",
+    "regionName": "Пензенская область",
+    "oikTvd": "100100225883631",
+    "oikName": "Пензенская область – Лермонтовский",
+    "district": {
+      "districtNumber": 147,
+      "oikTvd": "100100225883631"
+    }
   },
   {
     "uikNumber": 380,
     "uikTvd": "4584005276774",
     "tikTvd": "25820001085613",
-    "tikName": "Бессоновская"
+    "tikName": "Бессоновская",
+    "uikName": "УИК №380",
+    "regionCode": "58",
+    "regionTvd": "100100225883629",
+    "regionName": "Пензенская область",
+    "oikTvd": "100100225883631",
+    "oikName": "Пензенская область – Лермонтовский",
+    "district": {
+      "districtNumber": 147,
+      "oikTvd": "100100225883631"
+    }
   },
   {
     "uikNumber": 381,
     "uikTvd": "4584005276775",
     "tikTvd": "25820001085613",
-    "tikName": "Бессоновская"
+    "tikName": "Бессоновская",
+    "uikName": "УИК №381",
+    "regionCode": "58",
+    "regionTvd": "100100225883629",
+    "regionName": "Пензенская область",
+    "oikTvd": "100100225883631",
+    "oikName": "Пензенская область – Лермонтовский",
+    "district": {
+      "districtNumber": 147,
+      "oikTvd": "100100225883631"
+    }
   },
   {
     "uikNumber": 382,
     "uikTvd": "4584005276776",
     "tikTvd": "25820001085613",
-    "tikName": "Бессоновская"
+    "tikName": "Бессоновская",
+    "uikName": "УИК №382",
+    "regionCode": "58",
+    "regionTvd": "100100225883629",
+    "regionName": "Пензенская область",
+    "oikTvd": "100100225883631",
+    "oikName": "Пензенская область – Лермонтовский",
+    "district": {
+      "districtNumber": 147,
+      "oikTvd": "100100225883631"
+    }
   },
   {
     "uikNumber": 383,
     "uikTvd": "4584005276777",
     "tikTvd": "25820001085613",
-    "tikName": "Бессоновская"
+    "tikName": "Бессоновская",
+    "uikName": "УИК №383",
+    "regionCode": "58",
+    "regionTvd": "100100225883629",
+    "regionName": "Пензенская область",
+    "oikTvd": "100100225883631",
+    "oikName": "Пензенская область – Лермонтовский",
+    "district": {
+      "districtNumber": 147,
+      "oikTvd": "100100225883631"
+    }
   },
   {
     "uikNumber": 385,
     "uikTvd": "4584005276778",
     "tikTvd": "25820001085613",
-    "tikName": "Бессоновская"
+    "tikName": "Бессоновская",
+    "uikName": "УИК №385",
+    "regionCode": "58",
+    "regionTvd": "100100225883629",
+    "regionName": "Пензенская область",
+    "oikTvd": "100100225883631",
+    "oikName": "Пензенская область – Лермонтовский",
+    "district": {
+      "districtNumber": 147,
+      "oikTvd": "100100225883631"
+    }
   },
   {
     "uikNumber": 386,
     "uikTvd": "4584005276779",
     "tikTvd": "25820001085613",
-    "tikName": "Бессоновская"
+    "tikName": "Бессоновская",
+    "uikName": "УИК №386",
+    "regionCode": "58",
+    "regionTvd": "100100225883629",
+    "regionName": "Пензенская область",
+    "oikTvd": "100100225883631",
+    "oikName": "Пензенская область – Лермонтовский",
+    "district": {
+      "districtNumber": 147,
+      "oikTvd": "100100225883631"
+    }
   },
   {
     "uikNumber": 387,
     "uikTvd": "4584005276780",
     "tikTvd": "25820001085613",
-    "tikName": "Бессоновская"
+    "tikName": "Бессоновская",
+    "uikName": "УИК №387",
+    "regionCode": "58",
+    "regionTvd": "100100225883629",
+    "regionName": "Пензенская область",
+    "oikTvd": "100100225883631",
+    "oikName": "Пензенская область – Лермонтовский",
+    "district": {
+      "districtNumber": 147,
+      "oikTvd": "100100225883631"
+    }
   },
   {
     "uikNumber": 388,
     "uikTvd": "4584005276781",
     "tikTvd": "25820001085613",
-    "tikName": "Бессоновская"
+    "tikName": "Бессоновская",
+    "uikName": "УИК №388",
+    "regionCode": "58",
+    "regionTvd": "100100225883629",
+    "regionName": "Пензенская область",
+    "oikTvd": "100100225883631",
+    "oikName": "Пензенская область – Лермонтовский",
+    "district": {
+      "districtNumber": 147,
+      "oikTvd": "100100225883631"
+    }
   },
   {
     "uikNumber": 389,
     "uikTvd": "4584005276782",
     "tikTvd": "25820001085613",
-    "tikName": "Бессоновская"
+    "tikName": "Бессоновская",
+    "uikName": "УИК №389",
+    "regionCode": "58",
+    "regionTvd": "100100225883629",
+    "regionName": "Пензенская область",
+    "oikTvd": "100100225883631",
+    "oikName": "Пензенская область – Лермонтовский",
+    "district": {
+      "districtNumber": 147,
+      "oikTvd": "100100225883631"
+    }
   },
   {
     "uikNumber": 390,
     "uikTvd": "4584005276783",
     "tikTvd": "25820001085613",
-    "tikName": "Бессоновская"
+    "tikName": "Бессоновская",
+    "uikName": "УИК №390",
+    "regionCode": "58",
+    "regionTvd": "100100225883629",
+    "regionName": "Пензенская область",
+    "oikTvd": "100100225883631",
+    "oikName": "Пензенская область – Лермонтовский",
+    "district": {
+      "districtNumber": 147,
+      "oikTvd": "100100225883631"
+    }
   },
   {
     "uikNumber": 391,
     "uikTvd": "4584005276784",
     "tikTvd": "25820001085613",
-    "tikName": "Бессоновская"
+    "tikName": "Бессоновская",
+    "uikName": "УИК №391",
+    "regionCode": "58",
+    "regionTvd": "100100225883629",
+    "regionName": "Пензенская область",
+    "oikTvd": "100100225883631",
+    "oikName": "Пензенская область – Лермонтовский",
+    "district": {
+      "districtNumber": 147,
+      "oikTvd": "100100225883631"
+    }
   },
   {
     "uikNumber": 392,
     "uikTvd": "4584005276785",
     "tikTvd": "25820001085613",
-    "tikName": "Бессоновская"
+    "tikName": "Бессоновская",
+    "uikName": "УИК №392",
+    "regionCode": "58",
+    "regionTvd": "100100225883629",
+    "regionName": "Пензенская область",
+    "oikTvd": "100100225883631",
+    "oikName": "Пензенская область – Лермонтовский",
+    "district": {
+      "districtNumber": 147,
+      "oikTvd": "100100225883631"
+    }
   },
   {
     "uikNumber": 393,
     "uikTvd": "4584005276786",
     "tikTvd": "25820001085613",
-    "tikName": "Бессоновская"
+    "tikName": "Бессоновская",
+    "uikName": "УИК №393",
+    "regionCode": "58",
+    "regionTvd": "100100225883629",
+    "regionName": "Пензенская область",
+    "oikTvd": "100100225883631",
+    "oikName": "Пензенская область – Лермонтовский",
+    "district": {
+      "districtNumber": 147,
+      "oikTvd": "100100225883631"
+    }
   },
   {
     "uikNumber": 394,
     "uikTvd": "4584005276787",
     "tikTvd": "25820001085613",
-    "tikName": "Бессоновская"
+    "tikName": "Бессоновская",
+    "uikName": "УИК №394",
+    "regionCode": "58",
+    "regionTvd": "100100225883629",
+    "regionName": "Пензенская область",
+    "oikTvd": "100100225883631",
+    "oikName": "Пензенская область – Лермонтовский",
+    "district": {
+      "districtNumber": 147,
+      "oikTvd": "100100225883631"
+    }
   },
   {
     "uikNumber": 395,
     "uikTvd": "4584005276788",
     "tikTvd": "25820001085613",
-    "tikName": "Бессоновская"
+    "tikName": "Бессоновская",
+    "uikName": "УИК №395",
+    "regionCode": "58",
+    "regionTvd": "100100225883629",
+    "regionName": "Пензенская область",
+    "oikTvd": "100100225883631",
+    "oikName": "Пензенская область – Лермонтовский",
+    "district": {
+      "districtNumber": 147,
+      "oikTvd": "100100225883631"
+    }
   },
   {
     "uikNumber": 396,
     "uikTvd": "4584005276789",
     "tikTvd": "25820001085613",
-    "tikName": "Бессоновская"
+    "tikName": "Бессоновская",
+    "uikName": "УИК №396",
+    "regionCode": "58",
+    "regionTvd": "100100225883629",
+    "regionName": "Пензенская область",
+    "oikTvd": "100100225883631",
+    "oikName": "Пензенская область – Лермонтовский",
+    "district": {
+      "districtNumber": 147,
+      "oikTvd": "100100225883631"
+    }
   },
   {
     "uikNumber": 397,
     "uikTvd": "4584005276790",
     "tikTvd": "25820001085613",
-    "tikName": "Бессоновская"
+    "tikName": "Бессоновская",
+    "uikName": "УИК №397",
+    "regionCode": "58",
+    "regionTvd": "100100225883629",
+    "regionName": "Пензенская область",
+    "oikTvd": "100100225883631",
+    "oikName": "Пензенская область – Лермонтовский",
+    "district": {
+      "districtNumber": 147,
+      "oikTvd": "100100225883631"
+    }
   },
   {
     "uikNumber": 398,
     "uikTvd": "4584005276791",
     "tikTvd": "25820001085613",
-    "tikName": "Бессоновская"
+    "tikName": "Бессоновская",
+    "uikName": "УИК №398",
+    "regionCode": "58",
+    "regionTvd": "100100225883629",
+    "regionName": "Пензенская область",
+    "oikTvd": "100100225883631",
+    "oikName": "Пензенская область – Лермонтовский",
+    "district": {
+      "districtNumber": 147,
+      "oikTvd": "100100225883631"
+    }
   },
   {
     "uikNumber": 399,
     "uikTvd": "4584005276792",
     "tikTvd": "25820001085613",
-    "tikName": "Бессоновская"
+    "tikName": "Бессоновская",
+    "uikName": "УИК №399",
+    "regionCode": "58",
+    "regionTvd": "100100225883629",
+    "regionName": "Пензенская область",
+    "oikTvd": "100100225883631",
+    "oikName": "Пензенская область – Лермонтовский",
+    "district": {
+      "districtNumber": 147,
+      "oikTvd": "100100225883631"
+    }
   },
   {
     "uikNumber": 400,
     "uikTvd": "4584005276793",
     "tikTvd": "25820001085613",
-    "tikName": "Бессоновская"
+    "tikName": "Бессоновская",
+    "uikName": "УИК №400",
+    "regionCode": "58",
+    "regionTvd": "100100225883629",
+    "regionName": "Пензенская область",
+    "oikTvd": "100100225883631",
+    "oikName": "Пензенская область – Лермонтовский",
+    "district": {
+      "districtNumber": 147,
+      "oikTvd": "100100225883631"
+    }
   },
   {
     "uikNumber": 401,
     "uikTvd": "4584005276794",
     "tikTvd": "25820001085613",
-    "tikName": "Бессоновская"
+    "tikName": "Бессоновская",
+    "uikName": "УИК №401",
+    "regionCode": "58",
+    "regionTvd": "100100225883629",
+    "regionName": "Пензенская область",
+    "oikTvd": "100100225883631",
+    "oikName": "Пензенская область – Лермонтовский",
+    "district": {
+      "districtNumber": 147,
+      "oikTvd": "100100225883631"
+    }
   },
   {
     "uikNumber": 402,
     "uikTvd": "4584005276795",
     "tikTvd": "25820001085613",
-    "tikName": "Бессоновская"
+    "tikName": "Бессоновская",
+    "uikName": "УИК №402",
+    "regionCode": "58",
+    "regionTvd": "100100225883629",
+    "regionName": "Пензенская область",
+    "oikTvd": "100100225883631",
+    "oikName": "Пензенская область – Лермонтовский",
+    "district": {
+      "districtNumber": 147,
+      "oikTvd": "100100225883631"
+    }
   },
   {
     "uikNumber": 403,
     "uikTvd": "4584005276796",
     "tikTvd": "25820001085613",
-    "tikName": "Бессоновская"
+    "tikName": "Бессоновская",
+    "uikName": "УИК №403",
+    "regionCode": "58",
+    "regionTvd": "100100225883629",
+    "regionName": "Пензенская область",
+    "oikTvd": "100100225883631",
+    "oikName": "Пензенская область – Лермонтовский",
+    "district": {
+      "districtNumber": 147,
+      "oikTvd": "100100225883631"
+    }
   },
   {
     "uikNumber": 404,
     "uikTvd": "4584005276797",
     "tikTvd": "25820001085613",
-    "tikName": "Бессоновская"
+    "tikName": "Бессоновская",
+    "uikName": "УИК №404",
+    "regionCode": "58",
+    "regionTvd": "100100225883629",
+    "regionName": "Пензенская область",
+    "oikTvd": "100100225883631",
+    "oikName": "Пензенская область – Лермонтовский",
+    "district": {
+      "districtNumber": 147,
+      "oikTvd": "100100225883631"
+    }
   },
   {
     "uikNumber": 405,
     "uikTvd": "4584005276798",
     "tikTvd": "25820001085613",
-    "tikName": "Бессоновская"
+    "tikName": "Бессоновская",
+    "uikName": "УИК №405",
+    "regionCode": "58",
+    "regionTvd": "100100225883629",
+    "regionName": "Пензенская область",
+    "oikTvd": "100100225883631",
+    "oikName": "Пензенская область – Лермонтовский",
+    "district": {
+      "districtNumber": 147,
+      "oikTvd": "100100225883631"
+    }
   },
   {
     "uikNumber": 406,
     "uikTvd": "4584006238210",
     "tikTvd": "25820001085612",
-    "tikName": "Вадинская"
+    "tikName": "Вадинская",
+    "uikName": "УИК №406",
+    "regionCode": "58",
+    "regionTvd": "100100225883629",
+    "regionName": "Пензенская область",
+    "oikTvd": "100100225883631",
+    "oikName": "Пензенская область – Лермонтовский",
+    "district": {
+      "districtNumber": 147,
+      "oikTvd": "100100225883631"
+    }
   },
   {
     "uikNumber": 407,
     "uikTvd": "4584006238211",
     "tikTvd": "25820001085612",
-    "tikName": "Вадинская"
+    "tikName": "Вадинская",
+    "uikName": "УИК №407",
+    "regionCode": "58",
+    "regionTvd": "100100225883629",
+    "regionName": "Пензенская область",
+    "oikTvd": "100100225883631",
+    "oikName": "Пензенская область – Лермонтовский",
+    "district": {
+      "districtNumber": 147,
+      "oikTvd": "100100225883631"
+    }
   },
   {
     "uikNumber": 408,
     "uikTvd": "4584006238212",
     "tikTvd": "25820001085612",
-    "tikName": "Вадинская"
+    "tikName": "Вадинская",
+    "uikName": "УИК №408",
+    "regionCode": "58",
+    "regionTvd": "100100225883629",
+    "regionName": "Пензенская область",
+    "oikTvd": "100100225883631",
+    "oikName": "Пензенская область – Лермонтовский",
+    "district": {
+      "districtNumber": 147,
+      "oikTvd": "100100225883631"
+    }
   },
   {
     "uikNumber": 409,
     "uikTvd": "4584006238213",
     "tikTvd": "25820001085612",
-    "tikName": "Вадинская"
+    "tikName": "Вадинская",
+    "uikName": "УИК №409",
+    "regionCode": "58",
+    "regionTvd": "100100225883629",
+    "regionName": "Пензенская область",
+    "oikTvd": "100100225883631",
+    "oikName": "Пензенская область – Лермонтовский",
+    "district": {
+      "districtNumber": 147,
+      "oikTvd": "100100225883631"
+    }
   },
   {
     "uikNumber": 410,
     "uikTvd": "4584006238214",
     "tikTvd": "25820001085612",
-    "tikName": "Вадинская"
+    "tikName": "Вадинская",
+    "uikName": "УИК №410",
+    "regionCode": "58",
+    "regionTvd": "100100225883629",
+    "regionName": "Пензенская область",
+    "oikTvd": "100100225883631",
+    "oikName": "Пензенская область – Лермонтовский",
+    "district": {
+      "districtNumber": 147,
+      "oikTvd": "100100225883631"
+    }
   },
   {
     "uikNumber": 411,
     "uikTvd": "4584006238215",
     "tikTvd": "25820001085612",
-    "tikName": "Вадинская"
+    "tikName": "Вадинская",
+    "uikName": "УИК №411",
+    "regionCode": "58",
+    "regionTvd": "100100225883629",
+    "regionName": "Пензенская область",
+    "oikTvd": "100100225883631",
+    "oikName": "Пензенская область – Лермонтовский",
+    "district": {
+      "districtNumber": 147,
+      "oikTvd": "100100225883631"
+    }
   },
   {
     "uikNumber": 412,
     "uikTvd": "4584006238216",
     "tikTvd": "25820001085612",
-    "tikName": "Вадинская"
+    "tikName": "Вадинская",
+    "uikName": "УИК №412",
+    "regionCode": "58",
+    "regionTvd": "100100225883629",
+    "regionName": "Пензенская область",
+    "oikTvd": "100100225883631",
+    "oikName": "Пензенская область – Лермонтовский",
+    "district": {
+      "districtNumber": 147,
+      "oikTvd": "100100225883631"
+    }
   },
   {
     "uikNumber": 413,
     "uikTvd": "4584006238217",
     "tikTvd": "25820001085612",
-    "tikName": "Вадинская"
+    "tikName": "Вадинская",
+    "uikName": "УИК №413",
+    "regionCode": "58",
+    "regionTvd": "100100225883629",
+    "regionName": "Пензенская область",
+    "oikTvd": "100100225883631",
+    "oikName": "Пензенская область – Лермонтовский",
+    "district": {
+      "districtNumber": 147,
+      "oikTvd": "100100225883631"
+    }
   },
   {
     "uikNumber": 414,
     "uikTvd": "4584006238218",
     "tikTvd": "25820001085612",
-    "tikName": "Вадинская"
+    "tikName": "Вадинская",
+    "uikName": "УИК №414",
+    "regionCode": "58",
+    "regionTvd": "100100225883629",
+    "regionName": "Пензенская область",
+    "oikTvd": "100100225883631",
+    "oikName": "Пензенская область – Лермонтовский",
+    "district": {
+      "districtNumber": 147,
+      "oikTvd": "100100225883631"
+    }
   },
   {
     "uikNumber": 415,
     "uikTvd": "4584006238219",
     "tikTvd": "25820001085612",
-    "tikName": "Вадинская"
+    "tikName": "Вадинская",
+    "uikName": "УИК №415",
+    "regionCode": "58",
+    "regionTvd": "100100225883629",
+    "regionName": "Пензенская область",
+    "oikTvd": "100100225883631",
+    "oikName": "Пензенская область – Лермонтовский",
+    "district": {
+      "districtNumber": 147,
+      "oikTvd": "100100225883631"
+    }
   },
   {
     "uikNumber": 416,
     "uikTvd": "4584006238220",
     "tikTvd": "25820001085612",
-    "tikName": "Вадинская"
+    "tikName": "Вадинская",
+    "uikName": "УИК №416",
+    "regionCode": "58",
+    "regionTvd": "100100225883629",
+    "regionName": "Пензенская область",
+    "oikTvd": "100100225883631",
+    "oikName": "Пензенская область – Лермонтовский",
+    "district": {
+      "districtNumber": 147,
+      "oikTvd": "100100225883631"
+    }
   },
   {
     "uikNumber": 417,
     "uikTvd": "4584006238221",
     "tikTvd": "25820001085612",
-    "tikName": "Вадинская"
+    "tikName": "Вадинская",
+    "uikName": "УИК №417",
+    "regionCode": "58",
+    "regionTvd": "100100225883629",
+    "regionName": "Пензенская область",
+    "oikTvd": "100100225883631",
+    "oikName": "Пензенская область – Лермонтовский",
+    "district": {
+      "districtNumber": 147,
+      "oikTvd": "100100225883631"
+    }
   },
   {
     "uikNumber": 418,
     "uikTvd": "4584006238222",
     "tikTvd": "25820001085612",
-    "tikName": "Вадинская"
+    "tikName": "Вадинская",
+    "uikName": "УИК №418",
+    "regionCode": "58",
+    "regionTvd": "100100225883629",
+    "regionName": "Пензенская область",
+    "oikTvd": "100100225883631",
+    "oikName": "Пензенская область – Лермонтовский",
+    "district": {
+      "districtNumber": 147,
+      "oikTvd": "100100225883631"
+    }
   },
   {
     "uikNumber": 419,
     "uikTvd": "4584006238223",
     "tikTvd": "25820001085612",
-    "tikName": "Вадинская"
+    "tikName": "Вадинская",
+    "uikName": "УИК №419",
+    "regionCode": "58",
+    "regionTvd": "100100225883629",
+    "regionName": "Пензенская область",
+    "oikTvd": "100100225883631",
+    "oikName": "Пензенская область – Лермонтовский",
+    "district": {
+      "districtNumber": 147,
+      "oikTvd": "100100225883631"
+    }
   },
   {
     "uikNumber": 420,
     "uikTvd": "4584006238224",
     "tikTvd": "25820001085612",
-    "tikName": "Вадинская"
+    "tikName": "Вадинская",
+    "uikName": "УИК №420",
+    "regionCode": "58",
+    "regionTvd": "100100225883629",
+    "regionName": "Пензенская область",
+    "oikTvd": "100100225883631",
+    "oikName": "Пензенская область – Лермонтовский",
+    "district": {
+      "districtNumber": 147,
+      "oikTvd": "100100225883631"
+    }
   },
   {
     "uikNumber": 421,
     "uikTvd": "4584006238225",
     "tikTvd": "25820001085612",
-    "tikName": "Вадинская"
+    "tikName": "Вадинская",
+    "uikName": "УИК №421",
+    "regionCode": "58",
+    "regionTvd": "100100225883629",
+    "regionName": "Пензенская область",
+    "oikTvd": "100100225883631",
+    "oikName": "Пензенская область – Лермонтовский",
+    "district": {
+      "districtNumber": 147,
+      "oikTvd": "100100225883631"
+    }
   },
   {
     "uikNumber": 422,
     "uikTvd": "4584006238226",
     "tikTvd": "25820001085612",
-    "tikName": "Вадинская"
+    "tikName": "Вадинская",
+    "uikName": "УИК №422",
+    "regionCode": "58",
+    "regionTvd": "100100225883629",
+    "regionName": "Пензенская область",
+    "oikTvd": "100100225883631",
+    "oikName": "Пензенская область – Лермонтовский",
+    "district": {
+      "districtNumber": 147,
+      "oikTvd": "100100225883631"
+    }
   },
   {
     "uikNumber": 423,
     "uikTvd": "4584006238227",
     "tikTvd": "25820001085612",
-    "tikName": "Вадинская"
+    "tikName": "Вадинская",
+    "uikName": "УИК №423",
+    "regionCode": "58",
+    "regionTvd": "100100225883629",
+    "regionName": "Пензенская область",
+    "oikTvd": "100100225883631",
+    "oikName": "Пензенская область – Лермонтовский",
+    "district": {
+      "districtNumber": 147,
+      "oikTvd": "100100225883631"
+    }
   },
   {
     "uikNumber": 424,
     "uikTvd": "4584006238228",
     "tikTvd": "25820001085612",
-    "tikName": "Вадинская"
+    "tikName": "Вадинская",
+    "uikName": "УИК №424",
+    "regionCode": "58",
+    "regionTvd": "100100225883629",
+    "regionName": "Пензенская область",
+    "oikTvd": "100100225883631",
+    "oikName": "Пензенская область – Лермонтовский",
+    "district": {
+      "districtNumber": 147,
+      "oikTvd": "100100225883631"
+    }
   },
   {
     "uikNumber": 425,
     "uikTvd": "4584006238229",
     "tikTvd": "25820001085612",
-    "tikName": "Вадинская"
+    "tikName": "Вадинская",
+    "uikName": "УИК №425",
+    "regionCode": "58",
+    "regionTvd": "100100225883629",
+    "regionName": "Пензенская область",
+    "oikTvd": "100100225883631",
+    "oikName": "Пензенская область – Лермонтовский",
+    "district": {
+      "districtNumber": 147,
+      "oikTvd": "100100225883631"
+    }
   },
   {
     "uikNumber": 426,
     "uikTvd": "4584006238230",
     "tikTvd": "25820001085612",
-    "tikName": "Вадинская"
+    "tikName": "Вадинская",
+    "uikName": "УИК №426",
+    "regionCode": "58",
+    "regionTvd": "100100225883629",
+    "regionName": "Пензенская область",
+    "oikTvd": "100100225883631",
+    "oikName": "Пензенская область – Лермонтовский",
+    "district": {
+      "districtNumber": 147,
+      "oikTvd": "100100225883631"
+    }
   },
   {
     "uikNumber": 427,
     "uikTvd": "4584006238231",
     "tikTvd": "25820001085612",
-    "tikName": "Вадинская"
+    "tikName": "Вадинская",
+    "uikName": "УИК №427",
+    "regionCode": "58",
+    "regionTvd": "100100225883629",
+    "regionName": "Пензенская область",
+    "oikTvd": "100100225883631",
+    "oikName": "Пензенская область – Лермонтовский",
+    "district": {
+      "districtNumber": 147,
+      "oikTvd": "100100225883631"
+    }
   },
   {
     "uikNumber": 428,
     "uikTvd": "4584006238232",
     "tikTvd": "25820001085612",
-    "tikName": "Вадинская"
+    "tikName": "Вадинская",
+    "uikName": "УИК №428",
+    "regionCode": "58",
+    "regionTvd": "100100225883629",
+    "regionName": "Пензенская область",
+    "oikTvd": "100100225883631",
+    "oikName": "Пензенская область – Лермонтовский",
+    "district": {
+      "districtNumber": 147,
+      "oikTvd": "100100225883631"
+    }
   },
   {
     "uikNumber": 429,
     "uikTvd": "4584006238233",
     "tikTvd": "25820001085612",
-    "tikName": "Вадинская"
+    "tikName": "Вадинская",
+    "uikName": "УИК №429",
+    "regionCode": "58",
+    "regionTvd": "100100225883629",
+    "regionName": "Пензенская область",
+    "oikTvd": "100100225883631",
+    "oikName": "Пензенская область – Лермонтовский",
+    "district": {
+      "districtNumber": 147,
+      "oikTvd": "100100225883631"
+    }
   },
   {
     "uikNumber": 430,
     "uikTvd": "4584007334741",
     "tikTvd": "25820001085599",
-    "tikName": "Городищенская"
+    "tikName": "Городищенская",
+    "uikName": "УИК №430",
+    "regionCode": "58",
+    "regionTvd": "100100225883629",
+    "regionName": "Пензенская область",
+    "oikTvd": "100100225883630",
+    "oikName": "Пензенская область – Пензенский",
+    "district": {
+      "districtNumber": 146,
+      "oikTvd": "100100225883630"
+    }
   },
   {
     "uikNumber": 431,
     "uikTvd": "4584007334742",
     "tikTvd": "25820001085599",
-    "tikName": "Городищенская"
+    "tikName": "Городищенская",
+    "uikName": "УИК №431",
+    "regionCode": "58",
+    "regionTvd": "100100225883629",
+    "regionName": "Пензенская область",
+    "oikTvd": "100100225883630",
+    "oikName": "Пензенская область – Пензенский",
+    "district": {
+      "districtNumber": 146,
+      "oikTvd": "100100225883630"
+    }
   },
   {
     "uikNumber": 432,
     "uikTvd": "4584007334743",
     "tikTvd": "25820001085599",
-    "tikName": "Городищенская"
+    "tikName": "Городищенская",
+    "uikName": "УИК №432",
+    "regionCode": "58",
+    "regionTvd": "100100225883629",
+    "regionName": "Пензенская область",
+    "oikTvd": "100100225883630",
+    "oikName": "Пензенская область – Пензенский",
+    "district": {
+      "districtNumber": 146,
+      "oikTvd": "100100225883630"
+    }
   },
   {
     "uikNumber": 433,
     "uikTvd": "4584007334744",
     "tikTvd": "25820001085599",
-    "tikName": "Городищенская"
+    "tikName": "Городищенская",
+    "uikName": "УИК №433",
+    "regionCode": "58",
+    "regionTvd": "100100225883629",
+    "regionName": "Пензенская область",
+    "oikTvd": "100100225883630",
+    "oikName": "Пензенская область – Пензенский",
+    "district": {
+      "districtNumber": 146,
+      "oikTvd": "100100225883630"
+    }
   },
   {
     "uikNumber": 434,
     "uikTvd": "4584007334745",
     "tikTvd": "25820001085599",
-    "tikName": "Городищенская"
+    "tikName": "Городищенская",
+    "uikName": "УИК №434",
+    "regionCode": "58",
+    "regionTvd": "100100225883629",
+    "regionName": "Пензенская область",
+    "oikTvd": "100100225883630",
+    "oikName": "Пензенская область – Пензенский",
+    "district": {
+      "districtNumber": 146,
+      "oikTvd": "100100225883630"
+    }
   },
   {
     "uikNumber": 435,
     "uikTvd": "4584007334746",
     "tikTvd": "25820001085599",
-    "tikName": "Городищенская"
+    "tikName": "Городищенская",
+    "uikName": "УИК №435",
+    "regionCode": "58",
+    "regionTvd": "100100225883629",
+    "regionName": "Пензенская область",
+    "oikTvd": "100100225883630",
+    "oikName": "Пензенская область – Пензенский",
+    "district": {
+      "districtNumber": 146,
+      "oikTvd": "100100225883630"
+    }
   },
   {
     "uikNumber": 436,
     "uikTvd": "4584007334747",
     "tikTvd": "25820001085599",
-    "tikName": "Городищенская"
+    "tikName": "Городищенская",
+    "uikName": "УИК №436",
+    "regionCode": "58",
+    "regionTvd": "100100225883629",
+    "regionName": "Пензенская область",
+    "oikTvd": "100100225883630",
+    "oikName": "Пензенская область – Пензенский",
+    "district": {
+      "districtNumber": 146,
+      "oikTvd": "100100225883630"
+    }
   },
   {
     "uikNumber": 437,
     "uikTvd": "4584007334748",
     "tikTvd": "25820001085599",
-    "tikName": "Городищенская"
+    "tikName": "Городищенская",
+    "uikName": "УИК №437",
+    "regionCode": "58",
+    "regionTvd": "100100225883629",
+    "regionName": "Пензенская область",
+    "oikTvd": "100100225883630",
+    "oikName": "Пензенская область – Пензенский",
+    "district": {
+      "districtNumber": 146,
+      "oikTvd": "100100225883630"
+    }
   },
   {
     "uikNumber": 438,
     "uikTvd": "4584007334749",
     "tikTvd": "25820001085599",
-    "tikName": "Городищенская"
+    "tikName": "Городищенская",
+    "uikName": "УИК №438",
+    "regionCode": "58",
+    "regionTvd": "100100225883629",
+    "regionName": "Пензенская область",
+    "oikTvd": "100100225883630",
+    "oikName": "Пензенская область – Пензенский",
+    "district": {
+      "districtNumber": 146,
+      "oikTvd": "100100225883630"
+    }
   },
   {
     "uikNumber": 439,
     "uikTvd": "4584007334750",
     "tikTvd": "25820001085599",
-    "tikName": "Городищенская"
+    "tikName": "Городищенская",
+    "uikName": "УИК №439",
+    "regionCode": "58",
+    "regionTvd": "100100225883629",
+    "regionName": "Пензенская область",
+    "oikTvd": "100100225883630",
+    "oikName": "Пензенская область – Пензенский",
+    "district": {
+      "districtNumber": 146,
+      "oikTvd": "100100225883630"
+    }
   },
   {
     "uikNumber": 440,
     "uikTvd": "4584007334751",
     "tikTvd": "25820001085599",
-    "tikName": "Городищенская"
+    "tikName": "Городищенская",
+    "uikName": "УИК №440",
+    "regionCode": "58",
+    "regionTvd": "100100225883629",
+    "regionName": "Пензенская область",
+    "oikTvd": "100100225883630",
+    "oikName": "Пензенская область – Пензенский",
+    "district": {
+      "districtNumber": 146,
+      "oikTvd": "100100225883630"
+    }
   },
   {
     "uikNumber": 441,
     "uikTvd": "4584007334752",
     "tikTvd": "25820001085599",
-    "tikName": "Городищенская"
+    "tikName": "Городищенская",
+    "uikName": "УИК №441",
+    "regionCode": "58",
+    "regionTvd": "100100225883629",
+    "regionName": "Пензенская область",
+    "oikTvd": "100100225883630",
+    "oikName": "Пензенская область – Пензенский",
+    "district": {
+      "districtNumber": 146,
+      "oikTvd": "100100225883630"
+    }
   },
   {
     "uikNumber": 442,
     "uikTvd": "4584007334753",
     "tikTvd": "25820001085599",
-    "tikName": "Городищенская"
+    "tikName": "Городищенская",
+    "uikName": "УИК №442",
+    "regionCode": "58",
+    "regionTvd": "100100225883629",
+    "regionName": "Пензенская область",
+    "oikTvd": "100100225883630",
+    "oikName": "Пензенская область – Пензенский",
+    "district": {
+      "districtNumber": 146,
+      "oikTvd": "100100225883630"
+    }
   },
   {
     "uikNumber": 443,
     "uikTvd": "4584007334754",
     "tikTvd": "25820001085599",
-    "tikName": "Городищенская"
+    "tikName": "Городищенская",
+    "uikName": "УИК №443",
+    "regionCode": "58",
+    "regionTvd": "100100225883629",
+    "regionName": "Пензенская область",
+    "oikTvd": "100100225883630",
+    "oikName": "Пензенская область – Пензенский",
+    "district": {
+      "districtNumber": 146,
+      "oikTvd": "100100225883630"
+    }
   },
   {
     "uikNumber": 444,
     "uikTvd": "4584007334755",
     "tikTvd": "25820001085599",
-    "tikName": "Городищенская"
+    "tikName": "Городищенская",
+    "uikName": "УИК №444",
+    "regionCode": "58",
+    "regionTvd": "100100225883629",
+    "regionName": "Пензенская область",
+    "oikTvd": "100100225883630",
+    "oikName": "Пензенская область – Пензенский",
+    "district": {
+      "districtNumber": 146,
+      "oikTvd": "100100225883630"
+    }
   },
   {
     "uikNumber": 445,
     "uikTvd": "4584007334756",
     "tikTvd": "25820001085599",
-    "tikName": "Городищенская"
+    "tikName": "Городищенская",
+    "uikName": "УИК №445",
+    "regionCode": "58",
+    "regionTvd": "100100225883629",
+    "regionName": "Пензенская область",
+    "oikTvd": "100100225883630",
+    "oikName": "Пензенская область – Пензенский",
+    "district": {
+      "districtNumber": 146,
+      "oikTvd": "100100225883630"
+    }
   },
   {
     "uikNumber": 446,
     "uikTvd": "4584007334757",
     "tikTvd": "25820001085599",
-    "tikName": "Городищенская"
+    "tikName": "Городищенская",
+    "uikName": "УИК №446",
+    "regionCode": "58",
+    "regionTvd": "100100225883629",
+    "regionName": "Пензенская область",
+    "oikTvd": "100100225883630",
+    "oikName": "Пензенская область – Пензенский",
+    "district": {
+      "districtNumber": 146,
+      "oikTvd": "100100225883630"
+    }
   },
   {
     "uikNumber": 447,
     "uikTvd": "4584007334758",
     "tikTvd": "25820001085599",
-    "tikName": "Городищенская"
+    "tikName": "Городищенская",
+    "uikName": "УИК №447",
+    "regionCode": "58",
+    "regionTvd": "100100225883629",
+    "regionName": "Пензенская область",
+    "oikTvd": "100100225883630",
+    "oikName": "Пензенская область – Пензенский",
+    "district": {
+      "districtNumber": 146,
+      "oikTvd": "100100225883630"
+    }
   },
   {
     "uikNumber": 448,
     "uikTvd": "4584007334759",
     "tikTvd": "25820001085599",
-    "tikName": "Городищенская"
+    "tikName": "Городищенская",
+    "uikName": "УИК №448",
+    "regionCode": "58",
+    "regionTvd": "100100225883629",
+    "regionName": "Пензенская область",
+    "oikTvd": "100100225883630",
+    "oikName": "Пензенская область – Пензенский",
+    "district": {
+      "districtNumber": 146,
+      "oikTvd": "100100225883630"
+    }
   },
   {
     "uikNumber": 449,
     "uikTvd": "4584007334760",
     "tikTvd": "25820001085599",
-    "tikName": "Городищенская"
+    "tikName": "Городищенская",
+    "uikName": "УИК №449",
+    "regionCode": "58",
+    "regionTvd": "100100225883629",
+    "regionName": "Пензенская область",
+    "oikTvd": "100100225883630",
+    "oikName": "Пензенская область – Пензенский",
+    "district": {
+      "districtNumber": 146,
+      "oikTvd": "100100225883630"
+    }
   },
   {
     "uikNumber": 450,
     "uikTvd": "4584007334761",
     "tikTvd": "25820001085599",
-    "tikName": "Городищенская"
+    "tikName": "Городищенская",
+    "uikName": "УИК №450",
+    "regionCode": "58",
+    "regionTvd": "100100225883629",
+    "regionName": "Пензенская область",
+    "oikTvd": "100100225883630",
+    "oikName": "Пензенская область – Пензенский",
+    "district": {
+      "districtNumber": 146,
+      "oikTvd": "100100225883630"
+    }
   },
   {
     "uikNumber": 451,
     "uikTvd": "4584007334762",
     "tikTvd": "25820001085599",
-    "tikName": "Городищенская"
+    "tikName": "Городищенская",
+    "uikName": "УИК №451",
+    "regionCode": "58",
+    "regionTvd": "100100225883629",
+    "regionName": "Пензенская область",
+    "oikTvd": "100100225883630",
+    "oikName": "Пензенская область – Пензенский",
+    "district": {
+      "districtNumber": 146,
+      "oikTvd": "100100225883630"
+    }
   },
   {
     "uikNumber": 452,
     "uikTvd": "4584007334763",
     "tikTvd": "25820001085599",
-    "tikName": "Городищенская"
+    "tikName": "Городищенская",
+    "uikName": "УИК №452",
+    "regionCode": "58",
+    "regionTvd": "100100225883629",
+    "regionName": "Пензенская область",
+    "oikTvd": "100100225883630",
+    "oikName": "Пензенская область – Пензенский",
+    "district": {
+      "districtNumber": 146,
+      "oikTvd": "100100225883630"
+    }
   },
   {
     "uikNumber": 453,
     "uikTvd": "4584007334764",
     "tikTvd": "25820001085599",
-    "tikName": "Городищенская"
+    "tikName": "Городищенская",
+    "uikName": "УИК №453",
+    "regionCode": "58",
+    "regionTvd": "100100225883629",
+    "regionName": "Пензенская область",
+    "oikTvd": "100100225883630",
+    "oikName": "Пензенская область – Пензенский",
+    "district": {
+      "districtNumber": 146,
+      "oikTvd": "100100225883630"
+    }
   },
   {
     "uikNumber": 454,
     "uikTvd": "4584007334765",
     "tikTvd": "25820001085599",
-    "tikName": "Городищенская"
+    "tikName": "Городищенская",
+    "uikName": "УИК №454",
+    "regionCode": "58",
+    "regionTvd": "100100225883629",
+    "regionName": "Пензенская область",
+    "oikTvd": "100100225883630",
+    "oikName": "Пензенская область – Пензенский",
+    "district": {
+      "districtNumber": 146,
+      "oikTvd": "100100225883630"
+    }
   },
   {
     "uikNumber": 455,
     "uikTvd": "4584007334766",
     "tikTvd": "25820001085599",
-    "tikName": "Городищенская"
+    "tikName": "Городищенская",
+    "uikName": "УИК №455",
+    "regionCode": "58",
+    "regionTvd": "100100225883629",
+    "regionName": "Пензенская область",
+    "oikTvd": "100100225883630",
+    "oikName": "Пензенская область – Пензенский",
+    "district": {
+      "districtNumber": 146,
+      "oikTvd": "100100225883630"
+    }
   },
   {
     "uikNumber": 456,
     "uikTvd": "4584007334767",
     "tikTvd": "25820001085599",
-    "tikName": "Городищенская"
+    "tikName": "Городищенская",
+    "uikName": "УИК №456",
+    "regionCode": "58",
+    "regionTvd": "100100225883629",
+    "regionName": "Пензенская область",
+    "oikTvd": "100100225883630",
+    "oikName": "Пензенская область – Пензенский",
+    "district": {
+      "districtNumber": 146,
+      "oikTvd": "100100225883630"
+    }
   },
   {
     "uikNumber": 457,
     "uikTvd": "4584007334768",
     "tikTvd": "25820001085599",
-    "tikName": "Городищенская"
+    "tikName": "Городищенская",
+    "uikName": "УИК №457",
+    "regionCode": "58",
+    "regionTvd": "100100225883629",
+    "regionName": "Пензенская область",
+    "oikTvd": "100100225883630",
+    "oikName": "Пензенская область – Пензенский",
+    "district": {
+      "districtNumber": 146,
+      "oikTvd": "100100225883630"
+    }
   },
   {
     "uikNumber": 458,
     "uikTvd": "4584007334769",
     "tikTvd": "25820001085599",
-    "tikName": "Городищенская"
+    "tikName": "Городищенская",
+    "uikName": "УИК №458",
+    "regionCode": "58",
+    "regionTvd": "100100225883629",
+    "regionName": "Пензенская область",
+    "oikTvd": "100100225883630",
+    "oikName": "Пензенская область – Пензенский",
+    "district": {
+      "districtNumber": 146,
+      "oikTvd": "100100225883630"
+    }
   },
   {
     "uikNumber": 459,
     "uikTvd": "4584007334770",
     "tikTvd": "25820001085599",
-    "tikName": "Городищенская"
+    "tikName": "Городищенская",
+    "uikName": "УИК №459",
+    "regionCode": "58",
+    "regionTvd": "100100225883629",
+    "regionName": "Пензенская область",
+    "oikTvd": "100100225883630",
+    "oikName": "Пензенская область – Пензенский",
+    "district": {
+      "districtNumber": 146,
+      "oikTvd": "100100225883630"
+    }
   },
   {
     "uikNumber": 460,
     "uikTvd": "4584007334771",
     "tikTvd": "25820001085599",
-    "tikName": "Городищенская"
+    "tikName": "Городищенская",
+    "uikName": "УИК №460",
+    "regionCode": "58",
+    "regionTvd": "100100225883629",
+    "regionName": "Пензенская область",
+    "oikTvd": "100100225883630",
+    "oikName": "Пензенская область – Пензенский",
+    "district": {
+      "districtNumber": 146,
+      "oikTvd": "100100225883630"
+    }
   },
   {
     "uikNumber": 461,
     "uikTvd": "4584007334772",
     "tikTvd": "25820001085599",
-    "tikName": "Городищенская"
+    "tikName": "Городищенская",
+    "uikName": "УИК №461",
+    "regionCode": "58",
+    "regionTvd": "100100225883629",
+    "regionName": "Пензенская область",
+    "oikTvd": "100100225883630",
+    "oikName": "Пензенская область – Пензенский",
+    "district": {
+      "districtNumber": 146,
+      "oikTvd": "100100225883630"
+    }
   },
   {
     "uikNumber": 462,
     "uikTvd": "4584007334773",
     "tikTvd": "25820001085599",
-    "tikName": "Городищенская"
+    "tikName": "Городищенская",
+    "uikName": "УИК №462",
+    "regionCode": "58",
+    "regionTvd": "100100225883629",
+    "regionName": "Пензенская область",
+    "oikTvd": "100100225883630",
+    "oikName": "Пензенская область – Пензенский",
+    "district": {
+      "districtNumber": 146,
+      "oikTvd": "100100225883630"
+    }
   },
   {
     "uikNumber": 463,
     "uikTvd": "4584007334774",
     "tikTvd": "25820001085599",
-    "tikName": "Городищенская"
+    "tikName": "Городищенская",
+    "uikName": "УИК №463",
+    "regionCode": "58",
+    "regionTvd": "100100225883629",
+    "regionName": "Пензенская область",
+    "oikTvd": "100100225883630",
+    "oikName": "Пензенская область – Пензенский",
+    "district": {
+      "districtNumber": 146,
+      "oikTvd": "100100225883630"
+    }
   },
   {
     "uikNumber": 464,
     "uikTvd": "4584007334775",
     "tikTvd": "25820001085599",
-    "tikName": "Городищенская"
+    "tikName": "Городищенская",
+    "uikName": "УИК №464",
+    "regionCode": "58",
+    "regionTvd": "100100225883629",
+    "regionName": "Пензенская область",
+    "oikTvd": "100100225883630",
+    "oikName": "Пензенская область – Пензенский",
+    "district": {
+      "districtNumber": 146,
+      "oikTvd": "100100225883630"
+    }
   },
   {
     "uikNumber": 465,
     "uikTvd": "4584007334776",
     "tikTvd": "25820001085599",
-    "tikName": "Городищенская"
+    "tikName": "Городищенская",
+    "uikName": "УИК №465",
+    "regionCode": "58",
+    "regionTvd": "100100225883629",
+    "regionName": "Пензенская область",
+    "oikTvd": "100100225883630",
+    "oikName": "Пензенская область – Пензенский",
+    "district": {
+      "districtNumber": 146,
+      "oikTvd": "100100225883630"
+    }
   },
   {
     "uikNumber": 466,
     "uikTvd": "4584008394186",
     "tikTvd": "25820001085611",
-    "tikName": "Земетчинская"
+    "tikName": "Земетчинская",
+    "uikName": "УИК №466",
+    "regionCode": "58",
+    "regionTvd": "100100225883629",
+    "regionName": "Пензенская область",
+    "oikTvd": "100100225883631",
+    "oikName": "Пензенская область – Лермонтовский",
+    "district": {
+      "districtNumber": 147,
+      "oikTvd": "100100225883631"
+    }
   },
   {
     "uikNumber": 467,
     "uikTvd": "4584008394187",
     "tikTvd": "25820001085611",
-    "tikName": "Земетчинская"
+    "tikName": "Земетчинская",
+    "uikName": "УИК №467",
+    "regionCode": "58",
+    "regionTvd": "100100225883629",
+    "regionName": "Пензенская область",
+    "oikTvd": "100100225883631",
+    "oikName": "Пензенская область – Лермонтовский",
+    "district": {
+      "districtNumber": 147,
+      "oikTvd": "100100225883631"
+    }
   },
   {
     "uikNumber": 468,
     "uikTvd": "4584008394188",
     "tikTvd": "25820001085611",
-    "tikName": "Земетчинская"
+    "tikName": "Земетчинская",
+    "uikName": "УИК №468",
+    "regionCode": "58",
+    "regionTvd": "100100225883629",
+    "regionName": "Пензенская область",
+    "oikTvd": "100100225883631",
+    "oikName": "Пензенская область – Лермонтовский",
+    "district": {
+      "districtNumber": 147,
+      "oikTvd": "100100225883631"
+    }
   },
   {
     "uikNumber": 469,
     "uikTvd": "4584008394189",
     "tikTvd": "25820001085611",
-    "tikName": "Земетчинская"
+    "tikName": "Земетчинская",
+    "uikName": "УИК №469",
+    "regionCode": "58",
+    "regionTvd": "100100225883629",
+    "regionName": "Пензенская область",
+    "oikTvd": "100100225883631",
+    "oikName": "Пензенская область – Лермонтовский",
+    "district": {
+      "districtNumber": 147,
+      "oikTvd": "100100225883631"
+    }
   },
   {
     "uikNumber": 470,
     "uikTvd": "4584008394190",
     "tikTvd": "25820001085611",
-    "tikName": "Земетчинская"
+    "tikName": "Земетчинская",
+    "uikName": "УИК №470",
+    "regionCode": "58",
+    "regionTvd": "100100225883629",
+    "regionName": "Пензенская область",
+    "oikTvd": "100100225883631",
+    "oikName": "Пензенская область – Лермонтовский",
+    "district": {
+      "districtNumber": 147,
+      "oikTvd": "100100225883631"
+    }
   },
   {
     "uikNumber": 471,
     "uikTvd": "4584008394191",
     "tikTvd": "25820001085611",
-    "tikName": "Земетчинская"
+    "tikName": "Земетчинская",
+    "uikName": "УИК №471",
+    "regionCode": "58",
+    "regionTvd": "100100225883629",
+    "regionName": "Пензенская область",
+    "oikTvd": "100100225883631",
+    "oikName": "Пензенская область – Лермонтовский",
+    "district": {
+      "districtNumber": 147,
+      "oikTvd": "100100225883631"
+    }
   },
   {
     "uikNumber": 472,
     "uikTvd": "4584008394192",
     "tikTvd": "25820001085611",
-    "tikName": "Земетчинская"
+    "tikName": "Земетчинская",
+    "uikName": "УИК №472",
+    "regionCode": "58",
+    "regionTvd": "100100225883629",
+    "regionName": "Пензенская область",
+    "oikTvd": "100100225883631",
+    "oikName": "Пензенская область – Лермонтовский",
+    "district": {
+      "districtNumber": 147,
+      "oikTvd": "100100225883631"
+    }
   },
   {
     "uikNumber": 473,
     "uikTvd": "4584008394193",
     "tikTvd": "25820001085611",
-    "tikName": "Земетчинская"
+    "tikName": "Земетчинская",
+    "uikName": "УИК №473",
+    "regionCode": "58",
+    "regionTvd": "100100225883629",
+    "regionName": "Пензенская область",
+    "oikTvd": "100100225883631",
+    "oikName": "Пензенская область – Лермонтовский",
+    "district": {
+      "districtNumber": 147,
+      "oikTvd": "100100225883631"
+    }
   },
   {
     "uikNumber": 474,
     "uikTvd": "4584008394194",
     "tikTvd": "25820001085611",
-    "tikName": "Земетчинская"
+    "tikName": "Земетчинская",
+    "uikName": "УИК №474",
+    "regionCode": "58",
+    "regionTvd": "100100225883629",
+    "regionName": "Пензенская область",
+    "oikTvd": "100100225883631",
+    "oikName": "Пензенская область – Лермонтовский",
+    "district": {
+      "districtNumber": 147,
+      "oikTvd": "100100225883631"
+    }
   },
   {
     "uikNumber": 476,
     "uikTvd": "4584008394195",
     "tikTvd": "25820001085611",
-    "tikName": "Земетчинская"
+    "tikName": "Земетчинская",
+    "uikName": "УИК №476",
+    "regionCode": "58",
+    "regionTvd": "100100225883629",
+    "regionName": "Пензенская область",
+    "oikTvd": "100100225883631",
+    "oikName": "Пензенская область – Лермонтовский",
+    "district": {
+      "districtNumber": 147,
+      "oikTvd": "100100225883631"
+    }
   },
   {
     "uikNumber": 477,
     "uikTvd": "4584008394196",
     "tikTvd": "25820001085611",
-    "tikName": "Земетчинская"
+    "tikName": "Земетчинская",
+    "uikName": "УИК №477",
+    "regionCode": "58",
+    "regionTvd": "100100225883629",
+    "regionName": "Пензенская область",
+    "oikTvd": "100100225883631",
+    "oikName": "Пензенская область – Лермонтовский",
+    "district": {
+      "districtNumber": 147,
+      "oikTvd": "100100225883631"
+    }
   },
   {
     "uikNumber": 478,
     "uikTvd": "4584008394197",
     "tikTvd": "25820001085611",
-    "tikName": "Земетчинская"
+    "tikName": "Земетчинская",
+    "uikName": "УИК №478",
+    "regionCode": "58",
+    "regionTvd": "100100225883629",
+    "regionName": "Пензенская область",
+    "oikTvd": "100100225883631",
+    "oikName": "Пензенская область – Лермонтовский",
+    "district": {
+      "districtNumber": 147,
+      "oikTvd": "100100225883631"
+    }
   },
   {
     "uikNumber": 479,
     "uikTvd": "4584008394198",
     "tikTvd": "25820001085611",
-    "tikName": "Земетчинская"
+    "tikName": "Земетчинская",
+    "uikName": "УИК №479",
+    "regionCode": "58",
+    "regionTvd": "100100225883629",
+    "regionName": "Пензенская область",
+    "oikTvd": "100100225883631",
+    "oikName": "Пензенская область – Лермонтовский",
+    "district": {
+      "districtNumber": 147,
+      "oikTvd": "100100225883631"
+    }
   },
   {
     "uikNumber": 480,
     "uikTvd": "4584008394199",
     "tikTvd": "25820001085611",
-    "tikName": "Земетчинская"
+    "tikName": "Земетчинская",
+    "uikName": "УИК №480",
+    "regionCode": "58",
+    "regionTvd": "100100225883629",
+    "regionName": "Пензенская область",
+    "oikTvd": "100100225883631",
+    "oikName": "Пензенская область – Лермонтовский",
+    "district": {
+      "districtNumber": 147,
+      "oikTvd": "100100225883631"
+    }
   },
   {
     "uikNumber": 481,
     "uikTvd": "4584008394200",
     "tikTvd": "25820001085611",
-    "tikName": "Земетчинская"
+    "tikName": "Земетчинская",
+    "uikName": "УИК №481",
+    "regionCode": "58",
+    "regionTvd": "100100225883629",
+    "regionName": "Пензенская область",
+    "oikTvd": "100100225883631",
+    "oikName": "Пензенская область – Лермонтовский",
+    "district": {
+      "districtNumber": 147,
+      "oikTvd": "100100225883631"
+    }
   },
   {
     "uikNumber": 482,
     "uikTvd": "4584008394201",
     "tikTvd": "25820001085611",
-    "tikName": "Земетчинская"
+    "tikName": "Земетчинская",
+    "uikName": "УИК №482",
+    "regionCode": "58",
+    "regionTvd": "100100225883629",
+    "regionName": "Пензенская область",
+    "oikTvd": "100100225883631",
+    "oikName": "Пензенская область – Лермонтовский",
+    "district": {
+      "districtNumber": 147,
+      "oikTvd": "100100225883631"
+    }
   },
   {
     "uikNumber": 483,
     "uikTvd": "4584008394202",
     "tikTvd": "25820001085611",
-    "tikName": "Земетчинская"
+    "tikName": "Земетчинская",
+    "uikName": "УИК №483",
+    "regionCode": "58",
+    "regionTvd": "100100225883629",
+    "regionName": "Пензенская область",
+    "oikTvd": "100100225883631",
+    "oikName": "Пензенская область – Лермонтовский",
+    "district": {
+      "districtNumber": 147,
+      "oikTvd": "100100225883631"
+    }
   },
   {
     "uikNumber": 484,
     "uikTvd": "4584008394203",
     "tikTvd": "25820001085611",
-    "tikName": "Земетчинская"
+    "tikName": "Земетчинская",
+    "uikName": "УИК №484",
+    "regionCode": "58",
+    "regionTvd": "100100225883629",
+    "regionName": "Пензенская область",
+    "oikTvd": "100100225883631",
+    "oikName": "Пензенская область – Лермонтовский",
+    "district": {
+      "districtNumber": 147,
+      "oikTvd": "100100225883631"
+    }
   },
   {
     "uikNumber": 485,
     "uikTvd": "4584008394204",
     "tikTvd": "25820001085611",
-    "tikName": "Земетчинская"
+    "tikName": "Земетчинская",
+    "uikName": "УИК №485",
+    "regionCode": "58",
+    "regionTvd": "100100225883629",
+    "regionName": "Пензенская область",
+    "oikTvd": "100100225883631",
+    "oikName": "Пензенская область – Лермонтовский",
+    "district": {
+      "districtNumber": 147,
+      "oikTvd": "100100225883631"
+    }
   },
   {
     "uikNumber": 486,
     "uikTvd": "4584008394205",
     "tikTvd": "25820001085611",
-    "tikName": "Земетчинская"
+    "tikName": "Земетчинская",
+    "uikName": "УИК №486",
+    "regionCode": "58",
+    "regionTvd": "100100225883629",
+    "regionName": "Пензенская область",
+    "oikTvd": "100100225883631",
+    "oikName": "Пензенская область – Лермонтовский",
+    "district": {
+      "districtNumber": 147,
+      "oikTvd": "100100225883631"
+    }
   },
   {
     "uikNumber": 487,
     "uikTvd": "4584008394206",
     "tikTvd": "25820001085611",
-    "tikName": "Земетчинская"
+    "tikName": "Земетчинская",
+    "uikName": "УИК №487",
+    "regionCode": "58",
+    "regionTvd": "100100225883629",
+    "regionName": "Пензенская область",
+    "oikTvd": "100100225883631",
+    "oikName": "Пензенская область – Лермонтовский",
+    "district": {
+      "districtNumber": 147,
+      "oikTvd": "100100225883631"
+    }
   },
   {
     "uikNumber": 488,
     "uikTvd": "4584008394207",
     "tikTvd": "25820001085611",
-    "tikName": "Земетчинская"
+    "tikName": "Земетчинская",
+    "uikName": "УИК №488",
+    "regionCode": "58",
+    "regionTvd": "100100225883629",
+    "regionName": "Пензенская область",
+    "oikTvd": "100100225883631",
+    "oikName": "Пензенская область – Лермонтовский",
+    "district": {
+      "districtNumber": 147,
+      "oikTvd": "100100225883631"
+    }
   },
   {
     "uikNumber": 489,
     "uikTvd": "4584008394208",
     "tikTvd": "25820001085611",
-    "tikName": "Земетчинская"
+    "tikName": "Земетчинская",
+    "uikName": "УИК №489",
+    "regionCode": "58",
+    "regionTvd": "100100225883629",
+    "regionName": "Пензенская область",
+    "oikTvd": "100100225883631",
+    "oikName": "Пензенская область – Лермонтовский",
+    "district": {
+      "districtNumber": 147,
+      "oikTvd": "100100225883631"
+    }
   },
   {
     "uikNumber": 491,
     "uikTvd": "4584008394209",
     "tikTvd": "25820001085611",
-    "tikName": "Земетчинская"
+    "tikName": "Земетчинская",
+    "uikName": "УИК №491",
+    "regionCode": "58",
+    "regionTvd": "100100225883629",
+    "regionName": "Пензенская область",
+    "oikTvd": "100100225883631",
+    "oikName": "Пензенская область – Лермонтовский",
+    "district": {
+      "districtNumber": 147,
+      "oikTvd": "100100225883631"
+    }
   },
   {
     "uikNumber": 492,
     "uikTvd": "4584008394210",
     "tikTvd": "25820001085611",
-    "tikName": "Земетчинская"
+    "tikName": "Земетчинская",
+    "uikName": "УИК №492",
+    "regionCode": "58",
+    "regionTvd": "100100225883629",
+    "regionName": "Пензенская область",
+    "oikTvd": "100100225883631",
+    "oikName": "Пензенская область – Лермонтовский",
+    "district": {
+      "districtNumber": 147,
+      "oikTvd": "100100225883631"
+    }
   },
   {
     "uikNumber": 493,
     "uikTvd": "4584008394211",
     "tikTvd": "25820001085611",
-    "tikName": "Земетчинская"
+    "tikName": "Земетчинская",
+    "uikName": "УИК №493",
+    "regionCode": "58",
+    "regionTvd": "100100225883629",
+    "regionName": "Пензенская область",
+    "oikTvd": "100100225883631",
+    "oikName": "Пензенская область – Лермонтовский",
+    "district": {
+      "districtNumber": 147,
+      "oikTvd": "100100225883631"
+    }
   },
   {
     "uikNumber": 494,
     "uikTvd": "4584008394212",
     "tikTvd": "25820001085611",
-    "tikName": "Земетчинская"
+    "tikName": "Земетчинская",
+    "uikName": "УИК №494",
+    "regionCode": "58",
+    "regionTvd": "100100225883629",
+    "regionName": "Пензенская область",
+    "oikTvd": "100100225883631",
+    "oikName": "Пензенская область – Лермонтовский",
+    "district": {
+      "districtNumber": 147,
+      "oikTvd": "100100225883631"
+    }
   },
   {
     "uikNumber": 495,
     "uikTvd": "4584009218707",
     "tikTvd": "25820001085610",
-    "tikName": "Иссинская"
+    "tikName": "Иссинская",
+    "uikName": "УИК №495",
+    "regionCode": "58",
+    "regionTvd": "100100225883629",
+    "regionName": "Пензенская область",
+    "oikTvd": "100100225883631",
+    "oikName": "Пензенская область – Лермонтовский",
+    "district": {
+      "districtNumber": 147,
+      "oikTvd": "100100225883631"
+    }
   },
   {
     "uikNumber": 497,
     "uikTvd": "4584009218708",
     "tikTvd": "25820001085610",
-    "tikName": "Иссинская"
+    "tikName": "Иссинская",
+    "uikName": "УИК №497",
+    "regionCode": "58",
+    "regionTvd": "100100225883629",
+    "regionName": "Пензенская область",
+    "oikTvd": "100100225883631",
+    "oikName": "Пензенская область – Лермонтовский",
+    "district": {
+      "districtNumber": 147,
+      "oikTvd": "100100225883631"
+    }
   },
   {
     "uikNumber": 498,
     "uikTvd": "4584009218709",
     "tikTvd": "25820001085610",
-    "tikName": "Иссинская"
+    "tikName": "Иссинская",
+    "uikName": "УИК №498",
+    "regionCode": "58",
+    "regionTvd": "100100225883629",
+    "regionName": "Пензенская область",
+    "oikTvd": "100100225883631",
+    "oikName": "Пензенская область – Лермонтовский",
+    "district": {
+      "districtNumber": 147,
+      "oikTvd": "100100225883631"
+    }
   },
   {
     "uikNumber": 500,
     "uikTvd": "4584009218710",
     "tikTvd": "25820001085610",
-    "tikName": "Иссинская"
+    "tikName": "Иссинская",
+    "uikName": "УИК №500",
+    "regionCode": "58",
+    "regionTvd": "100100225883629",
+    "regionName": "Пензенская область",
+    "oikTvd": "100100225883631",
+    "oikName": "Пензенская область – Лермонтовский",
+    "district": {
+      "districtNumber": 147,
+      "oikTvd": "100100225883631"
+    }
   },
   {
     "uikNumber": 501,
     "uikTvd": "4584009218711",
     "tikTvd": "25820001085610",
-    "tikName": "Иссинская"
+    "tikName": "Иссинская",
+    "uikName": "УИК №501",
+    "regionCode": "58",
+    "regionTvd": "100100225883629",
+    "regionName": "Пензенская область",
+    "oikTvd": "100100225883631",
+    "oikName": "Пензенская область – Лермонтовский",
+    "district": {
+      "districtNumber": 147,
+      "oikTvd": "100100225883631"
+    }
   },
   {
     "uikNumber": 502,
     "uikTvd": "4584009218712",
     "tikTvd": "25820001085610",
-    "tikName": "Иссинская"
+    "tikName": "Иссинская",
+    "uikName": "УИК №502",
+    "regionCode": "58",
+    "regionTvd": "100100225883629",
+    "regionName": "Пензенская область",
+    "oikTvd": "100100225883631",
+    "oikName": "Пензенская область – Лермонтовский",
+    "district": {
+      "districtNumber": 147,
+      "oikTvd": "100100225883631"
+    }
   },
   {
     "uikNumber": 503,
     "uikTvd": "4584009218713",
     "tikTvd": "25820001085610",
-    "tikName": "Иссинская"
+    "tikName": "Иссинская",
+    "uikName": "УИК №503",
+    "regionCode": "58",
+    "regionTvd": "100100225883629",
+    "regionName": "Пензенская область",
+    "oikTvd": "100100225883631",
+    "oikName": "Пензенская область – Лермонтовский",
+    "district": {
+      "districtNumber": 147,
+      "oikTvd": "100100225883631"
+    }
   },
   {
     "uikNumber": 504,
     "uikTvd": "4584009218714",
     "tikTvd": "25820001085610",
-    "tikName": "Иссинская"
+    "tikName": "Иссинская",
+    "uikName": "УИК №504",
+    "regionCode": "58",
+    "regionTvd": "100100225883629",
+    "regionName": "Пензенская область",
+    "oikTvd": "100100225883631",
+    "oikName": "Пензенская область – Лермонтовский",
+    "district": {
+      "districtNumber": 147,
+      "oikTvd": "100100225883631"
+    }
   },
   {
     "uikNumber": 505,
     "uikTvd": "4584009218715",
     "tikTvd": "25820001085610",
-    "tikName": "Иссинская"
+    "tikName": "Иссинская",
+    "uikName": "УИК №505",
+    "regionCode": "58",
+    "regionTvd": "100100225883629",
+    "regionName": "Пензенская область",
+    "oikTvd": "100100225883631",
+    "oikName": "Пензенская область – Лермонтовский",
+    "district": {
+      "districtNumber": 147,
+      "oikTvd": "100100225883631"
+    }
   },
   {
     "uikNumber": 506,
     "uikTvd": "4584009218716",
     "tikTvd": "25820001085610",
-    "tikName": "Иссинская"
+    "tikName": "Иссинская",
+    "uikName": "УИК №506",
+    "regionCode": "58",
+    "regionTvd": "100100225883629",
+    "regionName": "Пензенская область",
+    "oikTvd": "100100225883631",
+    "oikName": "Пензенская область – Лермонтовский",
+    "district": {
+      "districtNumber": 147,
+      "oikTvd": "100100225883631"
+    }
   },
   {
     "uikNumber": 507,
     "uikTvd": "4584009218717",
     "tikTvd": "25820001085610",
-    "tikName": "Иссинская"
+    "tikName": "Иссинская",
+    "uikName": "УИК №507",
+    "regionCode": "58",
+    "regionTvd": "100100225883629",
+    "regionName": "Пензенская область",
+    "oikTvd": "100100225883631",
+    "oikName": "Пензенская область – Лермонтовский",
+    "district": {
+      "districtNumber": 147,
+      "oikTvd": "100100225883631"
+    }
   },
   {
     "uikNumber": 508,
     "uikTvd": "4584009218718",
     "tikTvd": "25820001085610",
-    "tikName": "Иссинская"
+    "tikName": "Иссинская",
+    "uikName": "УИК №508",
+    "regionCode": "58",
+    "regionTvd": "100100225883629",
+    "regionName": "Пензенская область",
+    "oikTvd": "100100225883631",
+    "oikName": "Пензенская область – Лермонтовский",
+    "district": {
+      "districtNumber": 147,
+      "oikTvd": "100100225883631"
+    }
   },
   {
     "uikNumber": 509,
     "uikTvd": "4584009218719",
     "tikTvd": "25820001085610",
-    "tikName": "Иссинская"
+    "tikName": "Иссинская",
+    "uikName": "УИК №509",
+    "regionCode": "58",
+    "regionTvd": "100100225883629",
+    "regionName": "Пензенская область",
+    "oikTvd": "100100225883631",
+    "oikName": "Пензенская область – Лермонтовский",
+    "district": {
+      "districtNumber": 147,
+      "oikTvd": "100100225883631"
+    }
   },
   {
     "uikNumber": 510,
     "uikTvd": "4584009218720",
     "tikTvd": "25820001085610",
-    "tikName": "Иссинская"
+    "tikName": "Иссинская",
+    "uikName": "УИК №510",
+    "regionCode": "58",
+    "regionTvd": "100100225883629",
+    "regionName": "Пензенская область",
+    "oikTvd": "100100225883631",
+    "oikName": "Пензенская область – Лермонтовский",
+    "district": {
+      "districtNumber": 147,
+      "oikTvd": "100100225883631"
+    }
   },
   {
     "uikNumber": 511,
     "uikTvd": "4584009218721",
     "tikTvd": "25820001085610",
-    "tikName": "Иссинская"
+    "tikName": "Иссинская",
+    "uikName": "УИК №511",
+    "regionCode": "58",
+    "regionTvd": "100100225883629",
+    "regionName": "Пензенская область",
+    "oikTvd": "100100225883631",
+    "oikName": "Пензенская область – Лермонтовский",
+    "district": {
+      "districtNumber": 147,
+      "oikTvd": "100100225883631"
+    }
   },
   {
     "uikNumber": 512,
     "uikTvd": "4584009218722",
     "tikTvd": "25820001085610",
-    "tikName": "Иссинская"
+    "tikName": "Иссинская",
+    "uikName": "УИК №512",
+    "regionCode": "58",
+    "regionTvd": "100100225883629",
+    "regionName": "Пензенская область",
+    "oikTvd": "100100225883631",
+    "oikName": "Пензенская область – Лермонтовский",
+    "district": {
+      "districtNumber": 147,
+      "oikTvd": "100100225883631"
+    }
   },
   {
     "uikNumber": 513,
     "uikTvd": "4584009218723",
     "tikTvd": "25820001085610",
-    "tikName": "Иссинская"
+    "tikName": "Иссинская",
+    "uikName": "УИК №513",
+    "regionCode": "58",
+    "regionTvd": "100100225883629",
+    "regionName": "Пензенская область",
+    "oikTvd": "100100225883631",
+    "oikName": "Пензенская область – Лермонтовский",
+    "district": {
+      "districtNumber": 147,
+      "oikTvd": "100100225883631"
+    }
   },
   {
     "uikNumber": 514,
     "uikTvd": "4584010273405",
     "tikTvd": "25820001085609",
-    "tikName": "Каменская"
+    "tikName": "Каменская",
+    "uikName": "УИК №514",
+    "regionCode": "58",
+    "regionTvd": "100100225883629",
+    "regionName": "Пензенская область",
+    "oikTvd": "100100225883631",
+    "oikName": "Пензенская область – Лермонтовский",
+    "district": {
+      "districtNumber": 147,
+      "oikTvd": "100100225883631"
+    }
   },
   {
     "uikNumber": 515,
     "uikTvd": "4584010273406",
     "tikTvd": "25820001085609",
-    "tikName": "Каменская"
+    "tikName": "Каменская",
+    "uikName": "УИК №515",
+    "regionCode": "58",
+    "regionTvd": "100100225883629",
+    "regionName": "Пензенская область",
+    "oikTvd": "100100225883631",
+    "oikName": "Пензенская область – Лермонтовский",
+    "district": {
+      "districtNumber": 147,
+      "oikTvd": "100100225883631"
+    }
   },
   {
     "uikNumber": 516,
     "uikTvd": "4584010273407",
     "tikTvd": "25820001085609",
-    "tikName": "Каменская"
+    "tikName": "Каменская",
+    "uikName": "УИК №516",
+    "regionCode": "58",
+    "regionTvd": "100100225883629",
+    "regionName": "Пензенская область",
+    "oikTvd": "100100225883631",
+    "oikName": "Пензенская область – Лермонтовский",
+    "district": {
+      "districtNumber": 147,
+      "oikTvd": "100100225883631"
+    }
   },
   {
     "uikNumber": 517,
     "uikTvd": "4584010273408",
     "tikTvd": "25820001085609",
-    "tikName": "Каменская"
+    "tikName": "Каменская",
+    "uikName": "УИК №517",
+    "regionCode": "58",
+    "regionTvd": "100100225883629",
+    "regionName": "Пензенская область",
+    "oikTvd": "100100225883631",
+    "oikName": "Пензенская область – Лермонтовский",
+    "district": {
+      "districtNumber": 147,
+      "oikTvd": "100100225883631"
+    }
   },
   {
     "uikNumber": 518,
     "uikTvd": "4584010273409",
     "tikTvd": "25820001085609",
-    "tikName": "Каменская"
+    "tikName": "Каменская",
+    "uikName": "УИК №518",
+    "regionCode": "58",
+    "regionTvd": "100100225883629",
+    "regionName": "Пензенская область",
+    "oikTvd": "100100225883631",
+    "oikName": "Пензенская область – Лермонтовский",
+    "district": {
+      "districtNumber": 147,
+      "oikTvd": "100100225883631"
+    }
   },
   {
     "uikNumber": 519,
     "uikTvd": "4584010273410",
     "tikTvd": "25820001085609",
-    "tikName": "Каменская"
+    "tikName": "Каменская",
+    "uikName": "УИК №519",
+    "regionCode": "58",
+    "regionTvd": "100100225883629",
+    "regionName": "Пензенская область",
+    "oikTvd": "100100225883631",
+    "oikName": "Пензенская область – Лермонтовский",
+    "district": {
+      "districtNumber": 147,
+      "oikTvd": "100100225883631"
+    }
   },
   {
     "uikNumber": 520,
     "uikTvd": "4584010273411",
     "tikTvd": "25820001085609",
-    "tikName": "Каменская"
+    "tikName": "Каменская",
+    "uikName": "УИК №520",
+    "regionCode": "58",
+    "regionTvd": "100100225883629",
+    "regionName": "Пензенская область",
+    "oikTvd": "100100225883631",
+    "oikName": "Пензенская область – Лермонтовский",
+    "district": {
+      "districtNumber": 147,
+      "oikTvd": "100100225883631"
+    }
   },
   {
     "uikNumber": 521,
     "uikTvd": "4584010273412",
     "tikTvd": "25820001085609",
-    "tikName": "Каменская"
+    "tikName": "Каменская",
+    "uikName": "УИК №521",
+    "regionCode": "58",
+    "regionTvd": "100100225883629",
+    "regionName": "Пензенская область",
+    "oikTvd": "100100225883631",
+    "oikName": "Пензенская область – Лермонтовский",
+    "district": {
+      "districtNumber": 147,
+      "oikTvd": "100100225883631"
+    }
   },
   {
     "uikNumber": 522,
     "uikTvd": "4584010273413",
     "tikTvd": "25820001085609",
-    "tikName": "Каменская"
+    "tikName": "Каменская",
+    "uikName": "УИК №522",
+    "regionCode": "58",
+    "regionTvd": "100100225883629",
+    "regionName": "Пензенская область",
+    "oikTvd": "100100225883631",
+    "oikName": "Пензенская область – Лермонтовский",
+    "district": {
+      "districtNumber": 147,
+      "oikTvd": "100100225883631"
+    }
   },
   {
     "uikNumber": 523,
     "uikTvd": "4584010273414",
     "tikTvd": "25820001085609",
-    "tikName": "Каменская"
+    "tikName": "Каменская",
+    "uikName": "УИК №523",
+    "regionCode": "58",
+    "regionTvd": "100100225883629",
+    "regionName": "Пензенская область",
+    "oikTvd": "100100225883631",
+    "oikName": "Пензенская область – Лермонтовский",
+    "district": {
+      "districtNumber": 147,
+      "oikTvd": "100100225883631"
+    }
   },
   {
     "uikNumber": 524,
     "uikTvd": "4584010273415",
     "tikTvd": "25820001085609",
-    "tikName": "Каменская"
+    "tikName": "Каменская",
+    "uikName": "УИК №524",
+    "regionCode": "58",
+    "regionTvd": "100100225883629",
+    "regionName": "Пензенская область",
+    "oikTvd": "100100225883631",
+    "oikName": "Пензенская область – Лермонтовский",
+    "district": {
+      "districtNumber": 147,
+      "oikTvd": "100100225883631"
+    }
   },
   {
     "uikNumber": 525,
     "uikTvd": "4584010273416",
     "tikTvd": "25820001085609",
-    "tikName": "Каменская"
+    "tikName": "Каменская",
+    "uikName": "УИК №525",
+    "regionCode": "58",
+    "regionTvd": "100100225883629",
+    "regionName": "Пензенская область",
+    "oikTvd": "100100225883631",
+    "oikName": "Пензенская область – Лермонтовский",
+    "district": {
+      "districtNumber": 147,
+      "oikTvd": "100100225883631"
+    }
   },
   {
     "uikNumber": 526,
     "uikTvd": "4584010273417",
     "tikTvd": "25820001085609",
-    "tikName": "Каменская"
+    "tikName": "Каменская",
+    "uikName": "УИК №526",
+    "regionCode": "58",
+    "regionTvd": "100100225883629",
+    "regionName": "Пензенская область",
+    "oikTvd": "100100225883631",
+    "oikName": "Пензенская область – Лермонтовский",
+    "district": {
+      "districtNumber": 147,
+      "oikTvd": "100100225883631"
+    }
   },
   {
     "uikNumber": 527,
     "uikTvd": "4584010273418",
     "tikTvd": "25820001085609",
-    "tikName": "Каменская"
+    "tikName": "Каменская",
+    "uikName": "УИК №527",
+    "regionCode": "58",
+    "regionTvd": "100100225883629",
+    "regionName": "Пензенская область",
+    "oikTvd": "100100225883631",
+    "oikName": "Пензенская область – Лермонтовский",
+    "district": {
+      "districtNumber": 147,
+      "oikTvd": "100100225883631"
+    }
   },
   {
     "uikNumber": 528,
     "uikTvd": "4584010273419",
     "tikTvd": "25820001085609",
-    "tikName": "Каменская"
+    "tikName": "Каменская",
+    "uikName": "УИК №528",
+    "regionCode": "58",
+    "regionTvd": "100100225883629",
+    "regionName": "Пензенская область",
+    "oikTvd": "100100225883631",
+    "oikName": "Пензенская область – Лермонтовский",
+    "district": {
+      "districtNumber": 147,
+      "oikTvd": "100100225883631"
+    }
   },
   {
     "uikNumber": 529,
     "uikTvd": "4584010273420",
     "tikTvd": "25820001085609",
-    "tikName": "Каменская"
+    "tikName": "Каменская",
+    "uikName": "УИК №529",
+    "regionCode": "58",
+    "regionTvd": "100100225883629",
+    "regionName": "Пензенская область",
+    "oikTvd": "100100225883631",
+    "oikName": "Пензенская область – Лермонтовский",
+    "district": {
+      "districtNumber": 147,
+      "oikTvd": "100100225883631"
+    }
   },
   {
     "uikNumber": 530,
     "uikTvd": "4584010273421",
     "tikTvd": "25820001085609",
-    "tikName": "Каменская"
+    "tikName": "Каменская",
+    "uikName": "УИК №530",
+    "regionCode": "58",
+    "regionTvd": "100100225883629",
+    "regionName": "Пензенская область",
+    "oikTvd": "100100225883631",
+    "oikName": "Пензенская область – Лермонтовский",
+    "district": {
+      "districtNumber": 147,
+      "oikTvd": "100100225883631"
+    }
   },
   {
     "uikNumber": 531,
     "uikTvd": "4584010273422",
     "tikTvd": "25820001085609",
-    "tikName": "Каменская"
+    "tikName": "Каменская",
+    "uikName": "УИК №531",
+    "regionCode": "58",
+    "regionTvd": "100100225883629",
+    "regionName": "Пензенская область",
+    "oikTvd": "100100225883631",
+    "oikName": "Пензенская область – Лермонтовский",
+    "district": {
+      "districtNumber": 147,
+      "oikTvd": "100100225883631"
+    }
   },
   {
     "uikNumber": 532,
     "uikTvd": "4584010273423",
     "tikTvd": "25820001085609",
-    "tikName": "Каменская"
+    "tikName": "Каменская",
+    "uikName": "УИК №532",
+    "regionCode": "58",
+    "regionTvd": "100100225883629",
+    "regionName": "Пензенская область",
+    "oikTvd": "100100225883631",
+    "oikName": "Пензенская область – Лермонтовский",
+    "district": {
+      "districtNumber": 147,
+      "oikTvd": "100100225883631"
+    }
   },
   {
     "uikNumber": 533,
     "uikTvd": "4584010273424",
     "tikTvd": "25820001085609",
-    "tikName": "Каменская"
+    "tikName": "Каменская",
+    "uikName": "УИК №533",
+    "regionCode": "58",
+    "regionTvd": "100100225883629",
+    "regionName": "Пензенская область",
+    "oikTvd": "100100225883631",
+    "oikName": "Пензенская область – Лермонтовский",
+    "district": {
+      "districtNumber": 147,
+      "oikTvd": "100100225883631"
+    }
   },
   {
     "uikNumber": 534,
     "uikTvd": "4584010273425",
     "tikTvd": "25820001085609",
-    "tikName": "Каменская"
+    "tikName": "Каменская",
+    "uikName": "УИК №534",
+    "regionCode": "58",
+    "regionTvd": "100100225883629",
+    "regionName": "Пензенская область",
+    "oikTvd": "100100225883631",
+    "oikName": "Пензенская область – Лермонтовский",
+    "district": {
+      "districtNumber": 147,
+      "oikTvd": "100100225883631"
+    }
   },
   {
     "uikNumber": 535,
     "uikTvd": "4584010273426",
     "tikTvd": "25820001085609",
-    "tikName": "Каменская"
+    "tikName": "Каменская",
+    "uikName": "УИК №535",
+    "regionCode": "58",
+    "regionTvd": "100100225883629",
+    "regionName": "Пензенская область",
+    "oikTvd": "100100225883631",
+    "oikName": "Пензенская область – Лермонтовский",
+    "district": {
+      "districtNumber": 147,
+      "oikTvd": "100100225883631"
+    }
   },
   {
     "uikNumber": 536,
     "uikTvd": "4584010273427",
     "tikTvd": "25820001085609",
-    "tikName": "Каменская"
+    "tikName": "Каменская",
+    "uikName": "УИК №536",
+    "regionCode": "58",
+    "regionTvd": "100100225883629",
+    "regionName": "Пензенская область",
+    "oikTvd": "100100225883631",
+    "oikName": "Пензенская область – Лермонтовский",
+    "district": {
+      "districtNumber": 147,
+      "oikTvd": "100100225883631"
+    }
   },
   {
     "uikNumber": 537,
     "uikTvd": "4584010273428",
     "tikTvd": "25820001085609",
-    "tikName": "Каменская"
+    "tikName": "Каменская",
+    "uikName": "УИК №537",
+    "regionCode": "58",
+    "regionTvd": "100100225883629",
+    "regionName": "Пензенская область",
+    "oikTvd": "100100225883631",
+    "oikName": "Пензенская область – Лермонтовский",
+    "district": {
+      "districtNumber": 147,
+      "oikTvd": "100100225883631"
+    }
   },
   {
     "uikNumber": 538,
     "uikTvd": "4584010273429",
     "tikTvd": "25820001085609",
-    "tikName": "Каменская"
+    "tikName": "Каменская",
+    "uikName": "УИК №538",
+    "regionCode": "58",
+    "regionTvd": "100100225883629",
+    "regionName": "Пензенская область",
+    "oikTvd": "100100225883631",
+    "oikName": "Пензенская область – Лермонтовский",
+    "district": {
+      "districtNumber": 147,
+      "oikTvd": "100100225883631"
+    }
   },
   {
     "uikNumber": 539,
     "uikTvd": "4584010273430",
     "tikTvd": "25820001085609",
-    "tikName": "Каменская"
+    "tikName": "Каменская",
+    "uikName": "УИК №539",
+    "regionCode": "58",
+    "regionTvd": "100100225883629",
+    "regionName": "Пензенская область",
+    "oikTvd": "100100225883631",
+    "oikName": "Пензенская область – Лермонтовский",
+    "district": {
+      "districtNumber": 147,
+      "oikTvd": "100100225883631"
+    }
   },
   {
     "uikNumber": 540,
     "uikTvd": "4584010273431",
     "tikTvd": "25820001085609",
-    "tikName": "Каменская"
+    "tikName": "Каменская",
+    "uikName": "УИК №540",
+    "regionCode": "58",
+    "regionTvd": "100100225883629",
+    "regionName": "Пензенская область",
+    "oikTvd": "100100225883631",
+    "oikName": "Пензенская область – Лермонтовский",
+    "district": {
+      "districtNumber": 147,
+      "oikTvd": "100100225883631"
+    }
   },
   {
     "uikNumber": 541,
     "uikTvd": "4584010273432",
     "tikTvd": "25820001085609",
-    "tikName": "Каменская"
+    "tikName": "Каменская",
+    "uikName": "УИК №541",
+    "regionCode": "58",
+    "regionTvd": "100100225883629",
+    "regionName": "Пензенская область",
+    "oikTvd": "100100225883631",
+    "oikName": "Пензенская область – Лермонтовский",
+    "district": {
+      "districtNumber": 147,
+      "oikTvd": "100100225883631"
+    }
   },
   {
     "uikNumber": 542,
     "uikTvd": "4584010273433",
     "tikTvd": "25820001085609",
-    "tikName": "Каменская"
+    "tikName": "Каменская",
+    "uikName": "УИК №542",
+    "regionCode": "58",
+    "regionTvd": "100100225883629",
+    "regionName": "Пензенская область",
+    "oikTvd": "100100225883631",
+    "oikName": "Пензенская область – Лермонтовский",
+    "district": {
+      "districtNumber": 147,
+      "oikTvd": "100100225883631"
+    }
   },
   {
     "uikNumber": 543,
     "uikTvd": "4584010273434",
     "tikTvd": "25820001085609",
-    "tikName": "Каменская"
+    "tikName": "Каменская",
+    "uikName": "УИК №543",
+    "regionCode": "58",
+    "regionTvd": "100100225883629",
+    "regionName": "Пензенская область",
+    "oikTvd": "100100225883631",
+    "oikName": "Пензенская область – Лермонтовский",
+    "district": {
+      "districtNumber": 147,
+      "oikTvd": "100100225883631"
+    }
   },
   {
     "uikNumber": 544,
     "uikTvd": "4584010273435",
     "tikTvd": "25820001085609",
-    "tikName": "Каменская"
+    "tikName": "Каменская",
+    "uikName": "УИК №544",
+    "regionCode": "58",
+    "regionTvd": "100100225883629",
+    "regionName": "Пензенская область",
+    "oikTvd": "100100225883631",
+    "oikName": "Пензенская область – Лермонтовский",
+    "district": {
+      "districtNumber": 147,
+      "oikTvd": "100100225883631"
+    }
   },
   {
     "uikNumber": 545,
     "uikTvd": "4584010273436",
     "tikTvd": "25820001085609",
-    "tikName": "Каменская"
+    "tikName": "Каменская",
+    "uikName": "УИК №545",
+    "regionCode": "58",
+    "regionTvd": "100100225883629",
+    "regionName": "Пензенская область",
+    "oikTvd": "100100225883631",
+    "oikName": "Пензенская область – Лермонтовский",
+    "district": {
+      "districtNumber": 147,
+      "oikTvd": "100100225883631"
+    }
   },
   {
     "uikNumber": 546,
     "uikTvd": "4584010273437",
     "tikTvd": "25820001085609",
-    "tikName": "Каменская"
+    "tikName": "Каменская",
+    "uikName": "УИК №546",
+    "regionCode": "58",
+    "regionTvd": "100100225883629",
+    "regionName": "Пензенская область",
+    "oikTvd": "100100225883631",
+    "oikName": "Пензенская область – Лермонтовский",
+    "district": {
+      "districtNumber": 147,
+      "oikTvd": "100100225883631"
+    }
   },
   {
     "uikNumber": 547,
     "uikTvd": "4584010273438",
     "tikTvd": "25820001085609",
-    "tikName": "Каменская"
+    "tikName": "Каменская",
+    "uikName": "УИК №547",
+    "regionCode": "58",
+    "regionTvd": "100100225883629",
+    "regionName": "Пензенская область",
+    "oikTvd": "100100225883631",
+    "oikName": "Пензенская область – Лермонтовский",
+    "district": {
+      "districtNumber": 147,
+      "oikTvd": "100100225883631"
+    }
   },
   {
     "uikNumber": 548,
     "uikTvd": "4584010273439",
     "tikTvd": "25820001085609",
-    "tikName": "Каменская"
+    "tikName": "Каменская",
+    "uikName": "УИК №548",
+    "regionCode": "58",
+    "regionTvd": "100100225883629",
+    "regionName": "Пензенская область",
+    "oikTvd": "100100225883631",
+    "oikName": "Пензенская область – Лермонтовский",
+    "district": {
+      "districtNumber": 147,
+      "oikTvd": "100100225883631"
+    }
   },
   {
     "uikNumber": 549,
     "uikTvd": "4584010273440",
     "tikTvd": "25820001085609",
-    "tikName": "Каменская"
+    "tikName": "Каменская",
+    "uikName": "УИК №549",
+    "regionCode": "58",
+    "regionTvd": "100100225883629",
+    "regionName": "Пензенская область",
+    "oikTvd": "100100225883631",
+    "oikName": "Пензенская область – Лермонтовский",
+    "district": {
+      "districtNumber": 147,
+      "oikTvd": "100100225883631"
+    }
   },
   {
     "uikNumber": 550,
     "uikTvd": "4584010273441",
     "tikTvd": "25820001085609",
-    "tikName": "Каменская"
+    "tikName": "Каменская",
+    "uikName": "УИК №550",
+    "regionCode": "58",
+    "regionTvd": "100100225883629",
+    "regionName": "Пензенская область",
+    "oikTvd": "100100225883631",
+    "oikName": "Пензенская область – Лермонтовский",
+    "district": {
+      "districtNumber": 147,
+      "oikTvd": "100100225883631"
+    }
   },
   {
     "uikNumber": 551,
     "uikTvd": "4584010273442",
     "tikTvd": "25820001085609",
-    "tikName": "Каменская"
+    "tikName": "Каменская",
+    "uikName": "УИК №551",
+    "regionCode": "58",
+    "regionTvd": "100100225883629",
+    "regionName": "Пензенская область",
+    "oikTvd": "100100225883631",
+    "oikName": "Пензенская область – Лермонтовский",
+    "district": {
+      "districtNumber": 147,
+      "oikTvd": "100100225883631"
+    }
   },
   {
     "uikNumber": 552,
     "uikTvd": "4584010273443",
     "tikTvd": "25820001085609",
-    "tikName": "Каменская"
+    "tikName": "Каменская",
+    "uikName": "УИК №552",
+    "regionCode": "58",
+    "regionTvd": "100100225883629",
+    "regionName": "Пензенская область",
+    "oikTvd": "100100225883631",
+    "oikName": "Пензенская область – Лермонтовский",
+    "district": {
+      "districtNumber": 147,
+      "oikTvd": "100100225883631"
+    }
   },
   {
     "uikNumber": 553,
     "uikTvd": "4584010273444",
     "tikTvd": "25820001085609",
-    "tikName": "Каменская"
+    "tikName": "Каменская",
+    "uikName": "УИК №553",
+    "regionCode": "58",
+    "regionTvd": "100100225883629",
+    "regionName": "Пензенская область",
+    "oikTvd": "100100225883631",
+    "oikName": "Пензенская область – Лермонтовский",
+    "district": {
+      "districtNumber": 147,
+      "oikTvd": "100100225883631"
+    }
   },
   {
     "uikNumber": 554,
     "uikTvd": "4584010273445",
     "tikTvd": "25820001085609",
-    "tikName": "Каменская"
+    "tikName": "Каменская",
+    "uikName": "УИК №554",
+    "regionCode": "58",
+    "regionTvd": "100100225883629",
+    "regionName": "Пензенская область",
+    "oikTvd": "100100225883631",
+    "oikName": "Пензенская область – Лермонтовский",
+    "district": {
+      "districtNumber": 147,
+      "oikTvd": "100100225883631"
+    }
   },
   {
     "uikNumber": 555,
     "uikTvd": "4584010273446",
     "tikTvd": "25820001085609",
-    "tikName": "Каменская"
+    "tikName": "Каменская",
+    "uikName": "УИК №555",
+    "regionCode": "58",
+    "regionTvd": "100100225883629",
+    "regionName": "Пензенская область",
+    "oikTvd": "100100225883631",
+    "oikName": "Пензенская область – Лермонтовский",
+    "district": {
+      "districtNumber": 147,
+      "oikTvd": "100100225883631"
+    }
   },
   {
     "uikNumber": 556,
     "uikTvd": "4584010273447",
     "tikTvd": "25820001085609",
-    "tikName": "Каменская"
+    "tikName": "Каменская",
+    "uikName": "УИК №556",
+    "regionCode": "58",
+    "regionTvd": "100100225883629",
+    "regionName": "Пензенская область",
+    "oikTvd": "100100225883631",
+    "oikName": "Пензенская область – Лермонтовский",
+    "district": {
+      "districtNumber": 147,
+      "oikTvd": "100100225883631"
+    }
   },
   {
     "uikNumber": 557,
     "uikTvd": "4584010273448",
     "tikTvd": "25820001085609",
-    "tikName": "Каменская"
+    "tikName": "Каменская",
+    "uikName": "УИК №557",
+    "regionCode": "58",
+    "regionTvd": "100100225883629",
+    "regionName": "Пензенская область",
+    "oikTvd": "100100225883631",
+    "oikName": "Пензенская область – Лермонтовский",
+    "district": {
+      "districtNumber": 147,
+      "oikTvd": "100100225883631"
+    }
   },
   {
     "uikNumber": 558,
     "uikTvd": "4584010273449",
     "tikTvd": "25820001085609",
-    "tikName": "Каменская"
+    "tikName": "Каменская",
+    "uikName": "УИК №558",
+    "regionCode": "58",
+    "regionTvd": "100100225883629",
+    "regionName": "Пензенская область",
+    "oikTvd": "100100225883631",
+    "oikName": "Пензенская область – Лермонтовский",
+    "district": {
+      "districtNumber": 147,
+      "oikTvd": "100100225883631"
+    }
   },
   {
     "uikNumber": 559,
     "uikTvd": "4584010273450",
     "tikTvd": "25820001085609",
-    "tikName": "Каменская"
+    "tikName": "Каменская",
+    "uikName": "УИК №559",
+    "regionCode": "58",
+    "regionTvd": "100100225883629",
+    "regionName": "Пензенская область",
+    "oikTvd": "100100225883631",
+    "oikName": "Пензенская область – Лермонтовский",
+    "district": {
+      "districtNumber": 147,
+      "oikTvd": "100100225883631"
+    }
   },
   {
     "uikNumber": 560,
     "uikTvd": "4584010273451",
     "tikTvd": "25820001085609",
-    "tikName": "Каменская"
+    "tikName": "Каменская",
+    "uikName": "УИК №560",
+    "regionCode": "58",
+    "regionTvd": "100100225883629",
+    "regionName": "Пензенская область",
+    "oikTvd": "100100225883631",
+    "oikName": "Пензенская область – Лермонтовский",
+    "district": {
+      "districtNumber": 147,
+      "oikTvd": "100100225883631"
+    }
   },
   {
     "uikNumber": 561,
     "uikTvd": "4584010273452",
     "tikTvd": "25820001085609",
-    "tikName": "Каменская"
+    "tikName": "Каменская",
+    "uikName": "УИК №561",
+    "regionCode": "58",
+    "regionTvd": "100100225883629",
+    "regionName": "Пензенская область",
+    "oikTvd": "100100225883631",
+    "oikName": "Пензенская область – Лермонтовский",
+    "district": {
+      "districtNumber": 147,
+      "oikTvd": "100100225883631"
+    }
   },
   {
     "uikNumber": 562,
     "uikTvd": "4584010273453",
     "tikTvd": "25820001085609",
-    "tikName": "Каменская"
+    "tikName": "Каменская",
+    "uikName": "УИК №562",
+    "regionCode": "58",
+    "regionTvd": "100100225883629",
+    "regionName": "Пензенская область",
+    "oikTvd": "100100225883631",
+    "oikName": "Пензенская область – Лермонтовский",
+    "district": {
+      "districtNumber": 147,
+      "oikTvd": "100100225883631"
+    }
   },
   {
     "uikNumber": 563,
     "uikTvd": "4584011362897",
     "tikTvd": "25820001085598",
-    "tikName": "Камешкирская"
+    "tikName": "Камешкирская",
+    "uikName": "УИК №563",
+    "regionCode": "58",
+    "regionTvd": "100100225883629",
+    "regionName": "Пензенская область",
+    "oikTvd": "100100225883630",
+    "oikName": "Пензенская область – Пензенский",
+    "district": {
+      "districtNumber": 146,
+      "oikTvd": "100100225883630"
+    }
   },
   {
     "uikNumber": 566,
     "uikTvd": "4584011362898",
     "tikTvd": "25820001085598",
-    "tikName": "Камешкирская"
+    "tikName": "Камешкирская",
+    "uikName": "УИК №566",
+    "regionCode": "58",
+    "regionTvd": "100100225883629",
+    "regionName": "Пензенская область",
+    "oikTvd": "100100225883630",
+    "oikName": "Пензенская область – Пензенский",
+    "district": {
+      "districtNumber": 146,
+      "oikTvd": "100100225883630"
+    }
   },
   {
     "uikNumber": 567,
     "uikTvd": "4584011362899",
     "tikTvd": "25820001085598",
-    "tikName": "Камешкирская"
+    "tikName": "Камешкирская",
+    "uikName": "УИК №567",
+    "regionCode": "58",
+    "regionTvd": "100100225883629",
+    "regionName": "Пензенская область",
+    "oikTvd": "100100225883630",
+    "oikName": "Пензенская область – Пензенский",
+    "district": {
+      "districtNumber": 146,
+      "oikTvd": "100100225883630"
+    }
   },
   {
     "uikNumber": 569,
     "uikTvd": "4584011362900",
     "tikTvd": "25820001085598",
-    "tikName": "Камешкирская"
+    "tikName": "Камешкирская",
+    "uikName": "УИК №569",
+    "regionCode": "58",
+    "regionTvd": "100100225883629",
+    "regionName": "Пензенская область",
+    "oikTvd": "100100225883630",
+    "oikName": "Пензенская область – Пензенский",
+    "district": {
+      "districtNumber": 146,
+      "oikTvd": "100100225883630"
+    }
   },
   {
     "uikNumber": 570,
     "uikTvd": "4584011362901",
     "tikTvd": "25820001085598",
-    "tikName": "Камешкирская"
+    "tikName": "Камешкирская",
+    "uikName": "УИК №570",
+    "regionCode": "58",
+    "regionTvd": "100100225883629",
+    "regionName": "Пензенская область",
+    "oikTvd": "100100225883630",
+    "oikName": "Пензенская область – Пензенский",
+    "district": {
+      "districtNumber": 146,
+      "oikTvd": "100100225883630"
+    }
   },
   {
     "uikNumber": 571,
     "uikTvd": "4584011362902",
     "tikTvd": "25820001085598",
-    "tikName": "Камешкирская"
+    "tikName": "Камешкирская",
+    "uikName": "УИК №571",
+    "regionCode": "58",
+    "regionTvd": "100100225883629",
+    "regionName": "Пензенская область",
+    "oikTvd": "100100225883630",
+    "oikName": "Пензенская область – Пензенский",
+    "district": {
+      "districtNumber": 146,
+      "oikTvd": "100100225883630"
+    }
   },
   {
     "uikNumber": 572,
     "uikTvd": "4584011362903",
     "tikTvd": "25820001085598",
-    "tikName": "Камешкирская"
+    "tikName": "Камешкирская",
+    "uikName": "УИК №572",
+    "regionCode": "58",
+    "regionTvd": "100100225883629",
+    "regionName": "Пензенская область",
+    "oikTvd": "100100225883630",
+    "oikName": "Пензенская область – Пензенский",
+    "district": {
+      "districtNumber": 146,
+      "oikTvd": "100100225883630"
+    }
   },
   {
     "uikNumber": 574,
     "uikTvd": "4584011362904",
     "tikTvd": "25820001085598",
-    "tikName": "Камешкирская"
+    "tikName": "Камешкирская",
+    "uikName": "УИК №574",
+    "regionCode": "58",
+    "regionTvd": "100100225883629",
+    "regionName": "Пензенская область",
+    "oikTvd": "100100225883630",
+    "oikName": "Пензенская область – Пензенский",
+    "district": {
+      "districtNumber": 146,
+      "oikTvd": "100100225883630"
+    }
   },
   {
     "uikNumber": 575,
     "uikTvd": "4584011362905",
     "tikTvd": "25820001085598",
-    "tikName": "Камешкирская"
+    "tikName": "Камешкирская",
+    "uikName": "УИК №575",
+    "regionCode": "58",
+    "regionTvd": "100100225883629",
+    "regionName": "Пензенская область",
+    "oikTvd": "100100225883630",
+    "oikName": "Пензенская область – Пензенский",
+    "district": {
+      "districtNumber": 146,
+      "oikTvd": "100100225883630"
+    }
   },
   {
     "uikNumber": 576,
     "uikTvd": "4584011362906",
     "tikTvd": "25820001085598",
-    "tikName": "Камешкирская"
+    "tikName": "Камешкирская",
+    "uikName": "УИК №576",
+    "regionCode": "58",
+    "regionTvd": "100100225883629",
+    "regionName": "Пензенская область",
+    "oikTvd": "100100225883630",
+    "oikName": "Пензенская область – Пензенский",
+    "district": {
+      "districtNumber": 146,
+      "oikTvd": "100100225883630"
+    }
   },
   {
     "uikNumber": 577,
     "uikTvd": "4584011362907",
     "tikTvd": "25820001085598",
-    "tikName": "Камешкирская"
+    "tikName": "Камешкирская",
+    "uikName": "УИК №577",
+    "regionCode": "58",
+    "regionTvd": "100100225883629",
+    "regionName": "Пензенская область",
+    "oikTvd": "100100225883630",
+    "oikName": "Пензенская область – Пензенский",
+    "district": {
+      "districtNumber": 146,
+      "oikTvd": "100100225883630"
+    }
   },
   {
     "uikNumber": 578,
     "uikTvd": "4584011362908",
     "tikTvd": "25820001085598",
-    "tikName": "Камешкирская"
+    "tikName": "Камешкирская",
+    "uikName": "УИК №578",
+    "regionCode": "58",
+    "regionTvd": "100100225883629",
+    "regionName": "Пензенская область",
+    "oikTvd": "100100225883630",
+    "oikName": "Пензенская область – Пензенский",
+    "district": {
+      "districtNumber": 146,
+      "oikTvd": "100100225883630"
+    }
   },
   {
     "uikNumber": 579,
     "uikTvd": "4584011362909",
     "tikTvd": "25820001085598",
-    "tikName": "Камешкирская"
+    "tikName": "Камешкирская",
+    "uikName": "УИК №579",
+    "regionCode": "58",
+    "regionTvd": "100100225883629",
+    "regionName": "Пензенская область",
+    "oikTvd": "100100225883630",
+    "oikName": "Пензенская область – Пензенский",
+    "district": {
+      "districtNumber": 146,
+      "oikTvd": "100100225883630"
+    }
   },
   {
     "uikNumber": 580,
     "uikTvd": "4584011362910",
     "tikTvd": "25820001085598",
-    "tikName": "Камешкирская"
+    "tikName": "Камешкирская",
+    "uikName": "УИК №580",
+    "regionCode": "58",
+    "regionTvd": "100100225883629",
+    "regionName": "Пензенская область",
+    "oikTvd": "100100225883630",
+    "oikName": "Пензенская область – Пензенский",
+    "district": {
+      "districtNumber": 146,
+      "oikTvd": "100100225883630"
+    }
   },
   {
     "uikNumber": 581,
     "uikTvd": "4584011362911",
     "tikTvd": "25820001085598",
-    "tikName": "Камешкирская"
+    "tikName": "Камешкирская",
+    "uikName": "УИК №581",
+    "regionCode": "58",
+    "regionTvd": "100100225883629",
+    "regionName": "Пензенская область",
+    "oikTvd": "100100225883630",
+    "oikName": "Пензенская область – Пензенский",
+    "district": {
+      "districtNumber": 146,
+      "oikTvd": "100100225883630"
+    }
   },
   {
     "uikNumber": 582,
     "uikTvd": "4584011362912",
     "tikTvd": "25820001085598",
-    "tikName": "Камешкирская"
+    "tikName": "Камешкирская",
+    "uikName": "УИК №582",
+    "regionCode": "58",
+    "regionTvd": "100100225883629",
+    "regionName": "Пензенская область",
+    "oikTvd": "100100225883630",
+    "oikName": "Пензенская область – Пензенский",
+    "district": {
+      "districtNumber": 146,
+      "oikTvd": "100100225883630"
+    }
   },
   {
     "uikNumber": 583,
     "uikTvd": "4584012297966",
     "tikTvd": "25820001085597",
-    "tikName": "Колышлейская"
+    "tikName": "Колышлейская",
+    "uikName": "УИК №583",
+    "regionCode": "58",
+    "regionTvd": "100100225883629",
+    "regionName": "Пензенская область",
+    "oikTvd": "100100225883630",
+    "oikName": "Пензенская область – Пензенский",
+    "district": {
+      "districtNumber": 146,
+      "oikTvd": "100100225883630"
+    }
   },
   {
     "uikNumber": 584,
     "uikTvd": "4584012297967",
     "tikTvd": "25820001085597",
-    "tikName": "Колышлейская"
+    "tikName": "Колышлейская",
+    "uikName": "УИК №584",
+    "regionCode": "58",
+    "regionTvd": "100100225883629",
+    "regionName": "Пензенская область",
+    "oikTvd": "100100225883630",
+    "oikName": "Пензенская область – Пензенский",
+    "district": {
+      "districtNumber": 146,
+      "oikTvd": "100100225883630"
+    }
   },
   {
     "uikNumber": 585,
     "uikTvd": "4584012297968",
     "tikTvd": "25820001085597",
-    "tikName": "Колышлейская"
+    "tikName": "Колышлейская",
+    "uikName": "УИК №585",
+    "regionCode": "58",
+    "regionTvd": "100100225883629",
+    "regionName": "Пензенская область",
+    "oikTvd": "100100225883630",
+    "oikName": "Пензенская область – Пензенский",
+    "district": {
+      "districtNumber": 146,
+      "oikTvd": "100100225883630"
+    }
   },
   {
     "uikNumber": 586,
     "uikTvd": "4584012297969",
     "tikTvd": "25820001085597",
-    "tikName": "Колышлейская"
+    "tikName": "Колышлейская",
+    "uikName": "УИК №586",
+    "regionCode": "58",
+    "regionTvd": "100100225883629",
+    "regionName": "Пензенская область",
+    "oikTvd": "100100225883630",
+    "oikName": "Пензенская область – Пензенский",
+    "district": {
+      "districtNumber": 146,
+      "oikTvd": "100100225883630"
+    }
   },
   {
     "uikNumber": 587,
     "uikTvd": "4584012297970",
     "tikTvd": "25820001085597",
-    "tikName": "Колышлейская"
+    "tikName": "Колышлейская",
+    "uikName": "УИК №587",
+    "regionCode": "58",
+    "regionTvd": "100100225883629",
+    "regionName": "Пензенская область",
+    "oikTvd": "100100225883630",
+    "oikName": "Пензенская область – Пензенский",
+    "district": {
+      "districtNumber": 146,
+      "oikTvd": "100100225883630"
+    }
   },
   {
     "uikNumber": 588,
     "uikTvd": "4584012297971",
     "tikTvd": "25820001085597",
-    "tikName": "Колышлейская"
+    "tikName": "Колышлейская",
+    "uikName": "УИК №588",
+    "regionCode": "58",
+    "regionTvd": "100100225883629",
+    "regionName": "Пензенская область",
+    "oikTvd": "100100225883630",
+    "oikName": "Пензенская область – Пензенский",
+    "district": {
+      "districtNumber": 146,
+      "oikTvd": "100100225883630"
+    }
   },
   {
     "uikNumber": 589,
     "uikTvd": "4584012297972",
     "tikTvd": "25820001085597",
-    "tikName": "Колышлейская"
+    "tikName": "Колышлейская",
+    "uikName": "УИК №589",
+    "regionCode": "58",
+    "regionTvd": "100100225883629",
+    "regionName": "Пензенская область",
+    "oikTvd": "100100225883630",
+    "oikName": "Пензенская область – Пензенский",
+    "district": {
+      "districtNumber": 146,
+      "oikTvd": "100100225883630"
+    }
   },
   {
     "uikNumber": 590,
     "uikTvd": "4584012297973",
     "tikTvd": "25820001085597",
-    "tikName": "Колышлейская"
+    "tikName": "Колышлейская",
+    "uikName": "УИК №590",
+    "regionCode": "58",
+    "regionTvd": "100100225883629",
+    "regionName": "Пензенская область",
+    "oikTvd": "100100225883630",
+    "oikName": "Пензенская область – Пензенский",
+    "district": {
+      "districtNumber": 146,
+      "oikTvd": "100100225883630"
+    }
   },
   {
     "uikNumber": 591,
     "uikTvd": "4584012297974",
     "tikTvd": "25820001085597",
-    "tikName": "Колышлейская"
+    "tikName": "Колышлейская",
+    "uikName": "УИК №591",
+    "regionCode": "58",
+    "regionTvd": "100100225883629",
+    "regionName": "Пензенская область",
+    "oikTvd": "100100225883630",
+    "oikName": "Пензенская область – Пензенский",
+    "district": {
+      "districtNumber": 146,
+      "oikTvd": "100100225883630"
+    }
   },
   {
     "uikNumber": 592,
     "uikTvd": "4584012297975",
     "tikTvd": "25820001085597",
-    "tikName": "Колышлейская"
+    "tikName": "Колышлейская",
+    "uikName": "УИК №592",
+    "regionCode": "58",
+    "regionTvd": "100100225883629",
+    "regionName": "Пензенская область",
+    "oikTvd": "100100225883630",
+    "oikName": "Пензенская область – Пензенский",
+    "district": {
+      "districtNumber": 146,
+      "oikTvd": "100100225883630"
+    }
   },
   {
     "uikNumber": 593,
     "uikTvd": "4584012297976",
     "tikTvd": "25820001085597",
-    "tikName": "Колышлейская"
+    "tikName": "Колышлейская",
+    "uikName": "УИК №593",
+    "regionCode": "58",
+    "regionTvd": "100100225883629",
+    "regionName": "Пензенская область",
+    "oikTvd": "100100225883630",
+    "oikName": "Пензенская область – Пензенский",
+    "district": {
+      "districtNumber": 146,
+      "oikTvd": "100100225883630"
+    }
   },
   {
     "uikNumber": 594,
     "uikTvd": "4584012297977",
     "tikTvd": "25820001085597",
-    "tikName": "Колышлейская"
+    "tikName": "Колышлейская",
+    "uikName": "УИК №594",
+    "regionCode": "58",
+    "regionTvd": "100100225883629",
+    "regionName": "Пензенская область",
+    "oikTvd": "100100225883630",
+    "oikName": "Пензенская область – Пензенский",
+    "district": {
+      "districtNumber": 146,
+      "oikTvd": "100100225883630"
+    }
   },
   {
     "uikNumber": 595,
     "uikTvd": "4584012297978",
     "tikTvd": "25820001085597",
-    "tikName": "Колышлейская"
+    "tikName": "Колышлейская",
+    "uikName": "УИК №595",
+    "regionCode": "58",
+    "regionTvd": "100100225883629",
+    "regionName": "Пензенская область",
+    "oikTvd": "100100225883630",
+    "oikName": "Пензенская область – Пензенский",
+    "district": {
+      "districtNumber": 146,
+      "oikTvd": "100100225883630"
+    }
   },
   {
     "uikNumber": 596,
     "uikTvd": "4584012297979",
     "tikTvd": "25820001085597",
-    "tikName": "Колышлейская"
+    "tikName": "Колышлейская",
+    "uikName": "УИК №596",
+    "regionCode": "58",
+    "regionTvd": "100100225883629",
+    "regionName": "Пензенская область",
+    "oikTvd": "100100225883630",
+    "oikName": "Пензенская область – Пензенский",
+    "district": {
+      "districtNumber": 146,
+      "oikTvd": "100100225883630"
+    }
   },
   {
     "uikNumber": 597,
     "uikTvd": "4584012297980",
     "tikTvd": "25820001085597",
-    "tikName": "Колышлейская"
+    "tikName": "Колышлейская",
+    "uikName": "УИК №597",
+    "regionCode": "58",
+    "regionTvd": "100100225883629",
+    "regionName": "Пензенская область",
+    "oikTvd": "100100225883630",
+    "oikName": "Пензенская область – Пензенский",
+    "district": {
+      "districtNumber": 146,
+      "oikTvd": "100100225883630"
+    }
   },
   {
     "uikNumber": 598,
     "uikTvd": "4584012297981",
     "tikTvd": "25820001085597",
-    "tikName": "Колышлейская"
+    "tikName": "Колышлейская",
+    "uikName": "УИК №598",
+    "regionCode": "58",
+    "regionTvd": "100100225883629",
+    "regionName": "Пензенская область",
+    "oikTvd": "100100225883630",
+    "oikName": "Пензенская область – Пензенский",
+    "district": {
+      "districtNumber": 146,
+      "oikTvd": "100100225883630"
+    }
   },
   {
     "uikNumber": 599,
     "uikTvd": "4584012297982",
     "tikTvd": "25820001085597",
-    "tikName": "Колышлейская"
+    "tikName": "Колышлейская",
+    "uikName": "УИК №599",
+    "regionCode": "58",
+    "regionTvd": "100100225883629",
+    "regionName": "Пензенская область",
+    "oikTvd": "100100225883630",
+    "oikName": "Пензенская область – Пензенский",
+    "district": {
+      "districtNumber": 146,
+      "oikTvd": "100100225883630"
+    }
   },
   {
     "uikNumber": 600,
     "uikTvd": "4584012297983",
     "tikTvd": "25820001085597",
-    "tikName": "Колышлейская"
+    "tikName": "Колышлейская",
+    "uikName": "УИК №600",
+    "regionCode": "58",
+    "regionTvd": "100100225883629",
+    "regionName": "Пензенская область",
+    "oikTvd": "100100225883630",
+    "oikName": "Пензенская область – Пензенский",
+    "district": {
+      "districtNumber": 146,
+      "oikTvd": "100100225883630"
+    }
   },
   {
     "uikNumber": 601,
     "uikTvd": "4584012297984",
     "tikTvd": "25820001085597",
-    "tikName": "Колышлейская"
+    "tikName": "Колышлейская",
+    "uikName": "УИК №601",
+    "regionCode": "58",
+    "regionTvd": "100100225883629",
+    "regionName": "Пензенская область",
+    "oikTvd": "100100225883630",
+    "oikName": "Пензенская область – Пензенский",
+    "district": {
+      "districtNumber": 146,
+      "oikTvd": "100100225883630"
+    }
   },
   {
     "uikNumber": 602,
     "uikTvd": "4584012297985",
     "tikTvd": "25820001085597",
-    "tikName": "Колышлейская"
+    "tikName": "Колышлейская",
+    "uikName": "УИК №602",
+    "regionCode": "58",
+    "regionTvd": "100100225883629",
+    "regionName": "Пензенская область",
+    "oikTvd": "100100225883630",
+    "oikName": "Пензенская область – Пензенский",
+    "district": {
+      "districtNumber": 146,
+      "oikTvd": "100100225883630"
+    }
   },
   {
     "uikNumber": 603,
     "uikTvd": "4584012297986",
     "tikTvd": "25820001085597",
-    "tikName": "Колышлейская"
+    "tikName": "Колышлейская",
+    "uikName": "УИК №603",
+    "regionCode": "58",
+    "regionTvd": "100100225883629",
+    "regionName": "Пензенская область",
+    "oikTvd": "100100225883630",
+    "oikName": "Пензенская область – Пензенский",
+    "district": {
+      "districtNumber": 146,
+      "oikTvd": "100100225883630"
+    }
   },
   {
     "uikNumber": 604,
     "uikTvd": "4584012297987",
     "tikTvd": "25820001085597",
-    "tikName": "Колышлейская"
+    "tikName": "Колышлейская",
+    "uikName": "УИК №604",
+    "regionCode": "58",
+    "regionTvd": "100100225883629",
+    "regionName": "Пензенская область",
+    "oikTvd": "100100225883630",
+    "oikName": "Пензенская область – Пензенский",
+    "district": {
+      "districtNumber": 146,
+      "oikTvd": "100100225883630"
+    }
   },
   {
     "uikNumber": 605,
     "uikTvd": "4584012297988",
     "tikTvd": "25820001085597",
-    "tikName": "Колышлейская"
+    "tikName": "Колышлейская",
+    "uikName": "УИК №605",
+    "regionCode": "58",
+    "regionTvd": "100100225883629",
+    "regionName": "Пензенская область",
+    "oikTvd": "100100225883630",
+    "oikName": "Пензенская область – Пензенский",
+    "district": {
+      "districtNumber": 146,
+      "oikTvd": "100100225883630"
+    }
   },
   {
     "uikNumber": 606,
     "uikTvd": "4584012297989",
     "tikTvd": "25820001085597",
-    "tikName": "Колышлейская"
+    "tikName": "Колышлейская",
+    "uikName": "УИК №606",
+    "regionCode": "58",
+    "regionTvd": "100100225883629",
+    "regionName": "Пензенская область",
+    "oikTvd": "100100225883630",
+    "oikName": "Пензенская область – Пензенский",
+    "district": {
+      "districtNumber": 146,
+      "oikTvd": "100100225883630"
+    }
   },
   {
     "uikNumber": 607,
     "uikTvd": "4584012297990",
     "tikTvd": "25820001085597",
-    "tikName": "Колышлейская"
+    "tikName": "Колышлейская",
+    "uikName": "УИК №607",
+    "regionCode": "58",
+    "regionTvd": "100100225883629",
+    "regionName": "Пензенская область",
+    "oikTvd": "100100225883630",
+    "oikName": "Пензенская область – Пензенский",
+    "district": {
+      "districtNumber": 146,
+      "oikTvd": "100100225883630"
+    }
   },
   {
     "uikNumber": 608,
     "uikTvd": "4584012297991",
     "tikTvd": "25820001085597",
-    "tikName": "Колышлейская"
+    "tikName": "Колышлейская",
+    "uikName": "УИК №608",
+    "regionCode": "58",
+    "regionTvd": "100100225883629",
+    "regionName": "Пензенская область",
+    "oikTvd": "100100225883630",
+    "oikName": "Пензенская область – Пензенский",
+    "district": {
+      "districtNumber": 146,
+      "oikTvd": "100100225883630"
+    }
   },
   {
     "uikNumber": 609,
     "uikTvd": "4584035269169",
     "tikTvd": "25820001085596",
-    "tikName": "Кузнецкая"
+    "tikName": "Кузнецкая",
+    "uikName": "УИК №609",
+    "regionCode": "58",
+    "regionTvd": "100100225883629",
+    "regionName": "Пензенская область",
+    "oikTvd": "100100225883630",
+    "oikName": "Пензенская область – Пензенский",
+    "district": {
+      "districtNumber": 146,
+      "oikTvd": "100100225883630"
+    }
   },
   {
     "uikNumber": 610,
     "uikTvd": "4584035269170",
     "tikTvd": "25820001085596",
-    "tikName": "Кузнецкая"
+    "tikName": "Кузнецкая",
+    "uikName": "УИК №610",
+    "regionCode": "58",
+    "regionTvd": "100100225883629",
+    "regionName": "Пензенская область",
+    "oikTvd": "100100225883630",
+    "oikName": "Пензенская область – Пензенский",
+    "district": {
+      "districtNumber": 146,
+      "oikTvd": "100100225883630"
+    }
   },
   {
     "uikNumber": 611,
     "uikTvd": "4584035269171",
     "tikTvd": "25820001085596",
-    "tikName": "Кузнецкая"
+    "tikName": "Кузнецкая",
+    "uikName": "УИК №611",
+    "regionCode": "58",
+    "regionTvd": "100100225883629",
+    "regionName": "Пензенская область",
+    "oikTvd": "100100225883630",
+    "oikName": "Пензенская область – Пензенский",
+    "district": {
+      "districtNumber": 146,
+      "oikTvd": "100100225883630"
+    }
   },
   {
     "uikNumber": 612,
     "uikTvd": "4584035269172",
     "tikTvd": "25820001085596",
-    "tikName": "Кузнецкая"
+    "tikName": "Кузнецкая",
+    "uikName": "УИК №612",
+    "regionCode": "58",
+    "regionTvd": "100100225883629",
+    "regionName": "Пензенская область",
+    "oikTvd": "100100225883630",
+    "oikName": "Пензенская область – Пензенский",
+    "district": {
+      "districtNumber": 146,
+      "oikTvd": "100100225883630"
+    }
   },
   {
     "uikNumber": 613,
     "uikTvd": "4584035269173",
     "tikTvd": "25820001085596",
-    "tikName": "Кузнецкая"
+    "tikName": "Кузнецкая",
+    "uikName": "УИК №613",
+    "regionCode": "58",
+    "regionTvd": "100100225883629",
+    "regionName": "Пензенская область",
+    "oikTvd": "100100225883630",
+    "oikName": "Пензенская область – Пензенский",
+    "district": {
+      "districtNumber": 146,
+      "oikTvd": "100100225883630"
+    }
   },
   {
     "uikNumber": 614,
     "uikTvd": "4584035269174",
     "tikTvd": "25820001085596",
-    "tikName": "Кузнецкая"
+    "tikName": "Кузнецкая",
+    "uikName": "УИК №614",
+    "regionCode": "58",
+    "regionTvd": "100100225883629",
+    "regionName": "Пензенская область",
+    "oikTvd": "100100225883630",
+    "oikName": "Пензенская область – Пензенский",
+    "district": {
+      "districtNumber": 146,
+      "oikTvd": "100100225883630"
+    }
   },
   {
     "uikNumber": 615,
     "uikTvd": "4584035269175",
     "tikTvd": "25820001085596",
-    "tikName": "Кузнецкая"
+    "tikName": "Кузнецкая",
+    "uikName": "УИК №615",
+    "regionCode": "58",
+    "regionTvd": "100100225883629",
+    "regionName": "Пензенская область",
+    "oikTvd": "100100225883630",
+    "oikName": "Пензенская область – Пензенский",
+    "district": {
+      "districtNumber": 146,
+      "oikTvd": "100100225883630"
+    }
   },
   {
     "uikNumber": 616,
     "uikTvd": "4584035269176",
     "tikTvd": "25820001085596",
-    "tikName": "Кузнецкая"
+    "tikName": "Кузнецкая",
+    "uikName": "УИК №616",
+    "regionCode": "58",
+    "regionTvd": "100100225883629",
+    "regionName": "Пензенская область",
+    "oikTvd": "100100225883630",
+    "oikName": "Пензенская область – Пензенский",
+    "district": {
+      "districtNumber": 146,
+      "oikTvd": "100100225883630"
+    }
   },
   {
     "uikNumber": 617,
     "uikTvd": "4584035269177",
     "tikTvd": "25820001085596",
-    "tikName": "Кузнецкая"
+    "tikName": "Кузнецкая",
+    "uikName": "УИК №617",
+    "regionCode": "58",
+    "regionTvd": "100100225883629",
+    "regionName": "Пензенская область",
+    "oikTvd": "100100225883630",
+    "oikName": "Пензенская область – Пензенский",
+    "district": {
+      "districtNumber": 146,
+      "oikTvd": "100100225883630"
+    }
   },
   {
     "uikNumber": 618,
     "uikTvd": "4584035269178",
     "tikTvd": "25820001085596",
-    "tikName": "Кузнецкая"
+    "tikName": "Кузнецкая",
+    "uikName": "УИК №618",
+    "regionCode": "58",
+    "regionTvd": "100100225883629",
+    "regionName": "Пензенская область",
+    "oikTvd": "100100225883630",
+    "oikName": "Пензенская область – Пензенский",
+    "district": {
+      "districtNumber": 146,
+      "oikTvd": "100100225883630"
+    }
   },
   {
     "uikNumber": 619,
     "uikTvd": "4584035269179",
     "tikTvd": "25820001085596",
-    "tikName": "Кузнецкая"
+    "tikName": "Кузнецкая",
+    "uikName": "УИК №619",
+    "regionCode": "58",
+    "regionTvd": "100100225883629",
+    "regionName": "Пензенская область",
+    "oikTvd": "100100225883630",
+    "oikName": "Пензенская область – Пензенский",
+    "district": {
+      "districtNumber": 146,
+      "oikTvd": "100100225883630"
+    }
   },
   {
     "uikNumber": 620,
     "uikTvd": "4584035269180",
     "tikTvd": "25820001085596",
-    "tikName": "Кузнецкая"
+    "tikName": "Кузнецкая",
+    "uikName": "УИК №620",
+    "regionCode": "58",
+    "regionTvd": "100100225883629",
+    "regionName": "Пензенская область",
+    "oikTvd": "100100225883630",
+    "oikName": "Пензенская область – Пензенский",
+    "district": {
+      "districtNumber": 146,
+      "oikTvd": "100100225883630"
+    }
   },
   {
     "uikNumber": 621,
     "uikTvd": "4584035269181",
     "tikTvd": "25820001085596",
-    "tikName": "Кузнецкая"
+    "tikName": "Кузнецкая",
+    "uikName": "УИК №621",
+    "regionCode": "58",
+    "regionTvd": "100100225883629",
+    "regionName": "Пензенская область",
+    "oikTvd": "100100225883630",
+    "oikName": "Пензенская область – Пензенский",
+    "district": {
+      "districtNumber": 146,
+      "oikTvd": "100100225883630"
+    }
   },
   {
     "uikNumber": 622,
     "uikTvd": "4584035269182",
     "tikTvd": "25820001085596",
-    "tikName": "Кузнецкая"
+    "tikName": "Кузнецкая",
+    "uikName": "УИК №622",
+    "regionCode": "58",
+    "regionTvd": "100100225883629",
+    "regionName": "Пензенская область",
+    "oikTvd": "100100225883630",
+    "oikName": "Пензенская область – Пензенский",
+    "district": {
+      "districtNumber": 146,
+      "oikTvd": "100100225883630"
+    }
   },
   {
     "uikNumber": 623,
     "uikTvd": "4584035269183",
     "tikTvd": "25820001085596",
-    "tikName": "Кузнецкая"
+    "tikName": "Кузнецкая",
+    "uikName": "УИК №623",
+    "regionCode": "58",
+    "regionTvd": "100100225883629",
+    "regionName": "Пензенская область",
+    "oikTvd": "100100225883630",
+    "oikName": "Пензенская область – Пензенский",
+    "district": {
+      "districtNumber": 146,
+      "oikTvd": "100100225883630"
+    }
   },
   {
     "uikNumber": 624,
     "uikTvd": "4584035269184",
     "tikTvd": "25820001085596",
-    "tikName": "Кузнецкая"
+    "tikName": "Кузнецкая",
+    "uikName": "УИК №624",
+    "regionCode": "58",
+    "regionTvd": "100100225883629",
+    "regionName": "Пензенская область",
+    "oikTvd": "100100225883630",
+    "oikName": "Пензенская область – Пензенский",
+    "district": {
+      "districtNumber": 146,
+      "oikTvd": "100100225883630"
+    }
   },
   {
     "uikNumber": 625,
     "uikTvd": "4584035269185",
     "tikTvd": "25820001085596",
-    "tikName": "Кузнецкая"
+    "tikName": "Кузнецкая",
+    "uikName": "УИК №625",
+    "regionCode": "58",
+    "regionTvd": "100100225883629",
+    "regionName": "Пензенская область",
+    "oikTvd": "100100225883630",
+    "oikName": "Пензенская область – Пензенский",
+    "district": {
+      "districtNumber": 146,
+      "oikTvd": "100100225883630"
+    }
   },
   {
     "uikNumber": 626,
     "uikTvd": "4584035269186",
     "tikTvd": "25820001085596",
-    "tikName": "Кузнецкая"
+    "tikName": "Кузнецкая",
+    "uikName": "УИК №626",
+    "regionCode": "58",
+    "regionTvd": "100100225883629",
+    "regionName": "Пензенская область",
+    "oikTvd": "100100225883630",
+    "oikName": "Пензенская область – Пензенский",
+    "district": {
+      "districtNumber": 146,
+      "oikTvd": "100100225883630"
+    }
   },
   {
     "uikNumber": 627,
     "uikTvd": "4584035269187",
     "tikTvd": "25820001085596",
-    "tikName": "Кузнецкая"
+    "tikName": "Кузнецкая",
+    "uikName": "УИК №627",
+    "regionCode": "58",
+    "regionTvd": "100100225883629",
+    "regionName": "Пензенская область",
+    "oikTvd": "100100225883630",
+    "oikName": "Пензенская область – Пензенский",
+    "district": {
+      "districtNumber": 146,
+      "oikTvd": "100100225883630"
+    }
   },
   {
     "uikNumber": 628,
     "uikTvd": "4584035269188",
     "tikTvd": "25820001085596",
-    "tikName": "Кузнецкая"
+    "tikName": "Кузнецкая",
+    "uikName": "УИК №628",
+    "regionCode": "58",
+    "regionTvd": "100100225883629",
+    "regionName": "Пензенская область",
+    "oikTvd": "100100225883630",
+    "oikName": "Пензенская область – Пензенский",
+    "district": {
+      "districtNumber": 146,
+      "oikTvd": "100100225883630"
+    }
   },
   {
     "uikNumber": 629,
     "uikTvd": "4584035269189",
     "tikTvd": "25820001085596",
-    "tikName": "Кузнецкая"
+    "tikName": "Кузнецкая",
+    "uikName": "УИК №629",
+    "regionCode": "58",
+    "regionTvd": "100100225883629",
+    "regionName": "Пензенская область",
+    "oikTvd": "100100225883630",
+    "oikName": "Пензенская область – Пензенский",
+    "district": {
+      "districtNumber": 146,
+      "oikTvd": "100100225883630"
+    }
   },
   {
     "uikNumber": 630,
     "uikTvd": "4584035269190",
     "tikTvd": "25820001085596",
-    "tikName": "Кузнецкая"
+    "tikName": "Кузнецкая",
+    "uikName": "УИК №630",
+    "regionCode": "58",
+    "regionTvd": "100100225883629",
+    "regionName": "Пензенская область",
+    "oikTvd": "100100225883630",
+    "oikName": "Пензенская область – Пензенский",
+    "district": {
+      "districtNumber": 146,
+      "oikTvd": "100100225883630"
+    }
   },
   {
     "uikNumber": 631,
     "uikTvd": "4584035269191",
     "tikTvd": "25820001085596",
-    "tikName": "Кузнецкая"
+    "tikName": "Кузнецкая",
+    "uikName": "УИК №631",
+    "regionCode": "58",
+    "regionTvd": "100100225883629",
+    "regionName": "Пензенская область",
+    "oikTvd": "100100225883630",
+    "oikName": "Пензенская область – Пензенский",
+    "district": {
+      "districtNumber": 146,
+      "oikTvd": "100100225883630"
+    }
   },
   {
     "uikNumber": 632,
     "uikTvd": "4584035269192",
     "tikTvd": "25820001085596",
-    "tikName": "Кузнецкая"
+    "tikName": "Кузнецкая",
+    "uikName": "УИК №632",
+    "regionCode": "58",
+    "regionTvd": "100100225883629",
+    "regionName": "Пензенская область",
+    "oikTvd": "100100225883630",
+    "oikName": "Пензенская область – Пензенский",
+    "district": {
+      "districtNumber": 146,
+      "oikTvd": "100100225883630"
+    }
   },
   {
     "uikNumber": 633,
     "uikTvd": "4584035269193",
     "tikTvd": "25820001085596",
-    "tikName": "Кузнецкая"
+    "tikName": "Кузнецкая",
+    "uikName": "УИК №633",
+    "regionCode": "58",
+    "regionTvd": "100100225883629",
+    "regionName": "Пензенская область",
+    "oikTvd": "100100225883630",
+    "oikName": "Пензенская область – Пензенский",
+    "district": {
+      "districtNumber": 146,
+      "oikTvd": "100100225883630"
+    }
   },
   {
     "uikNumber": 634,
     "uikTvd": "4584035269194",
     "tikTvd": "25820001085596",
-    "tikName": "Кузнецкая"
+    "tikName": "Кузнецкая",
+    "uikName": "УИК №634",
+    "regionCode": "58",
+    "regionTvd": "100100225883629",
+    "regionName": "Пензенская область",
+    "oikTvd": "100100225883630",
+    "oikName": "Пензенская область – Пензенский",
+    "district": {
+      "districtNumber": 146,
+      "oikTvd": "100100225883630"
+    }
   },
   {
     "uikNumber": 635,
     "uikTvd": "4584035269195",
     "tikTvd": "25820001085596",
-    "tikName": "Кузнецкая"
+    "tikName": "Кузнецкая",
+    "uikName": "УИК №635",
+    "regionCode": "58",
+    "regionTvd": "100100225883629",
+    "regionName": "Пензенская область",
+    "oikTvd": "100100225883630",
+    "oikName": "Пензенская область – Пензенский",
+    "district": {
+      "districtNumber": 146,
+      "oikTvd": "100100225883630"
+    }
   },
   {
     "uikNumber": 636,
     "uikTvd": "4584035269196",
     "tikTvd": "25820001085596",
-    "tikName": "Кузнецкая"
+    "tikName": "Кузнецкая",
+    "uikName": "УИК №636",
+    "regionCode": "58",
+    "regionTvd": "100100225883629",
+    "regionName": "Пензенская область",
+    "oikTvd": "100100225883630",
+    "oikName": "Пензенская область – Пензенский",
+    "district": {
+      "districtNumber": 146,
+      "oikTvd": "100100225883630"
+    }
   },
   {
     "uikNumber": 637,
     "uikTvd": "4584035269197",
     "tikTvd": "25820001085596",
-    "tikName": "Кузнецкая"
+    "tikName": "Кузнецкая",
+    "uikName": "УИК №637",
+    "regionCode": "58",
+    "regionTvd": "100100225883629",
+    "regionName": "Пензенская область",
+    "oikTvd": "100100225883630",
+    "oikName": "Пензенская область – Пензенский",
+    "district": {
+      "districtNumber": 146,
+      "oikTvd": "100100225883630"
+    }
   },
   {
     "uikNumber": 638,
     "uikTvd": "4584035269198",
     "tikTvd": "25820001085596",
-    "tikName": "Кузнецкая"
+    "tikName": "Кузнецкая",
+    "uikName": "УИК №638",
+    "regionCode": "58",
+    "regionTvd": "100100225883629",
+    "regionName": "Пензенская область",
+    "oikTvd": "100100225883630",
+    "oikName": "Пензенская область – Пензенский",
+    "district": {
+      "districtNumber": 146,
+      "oikTvd": "100100225883630"
+    }
   },
   {
     "uikNumber": 639,
     "uikTvd": "4584035269199",
     "tikTvd": "25820001085596",
-    "tikName": "Кузнецкая"
+    "tikName": "Кузнецкая",
+    "uikName": "УИК №639",
+    "regionCode": "58",
+    "regionTvd": "100100225883629",
+    "regionName": "Пензенская область",
+    "oikTvd": "100100225883630",
+    "oikName": "Пензенская область – Пензенский",
+    "district": {
+      "districtNumber": 146,
+      "oikTvd": "100100225883630"
+    }
   },
   {
     "uikNumber": 640,
     "uikTvd": "4584035269200",
     "tikTvd": "25820001085596",
-    "tikName": "Кузнецкая"
+    "tikName": "Кузнецкая",
+    "uikName": "УИК №640",
+    "regionCode": "58",
+    "regionTvd": "100100225883629",
+    "regionName": "Пензенская область",
+    "oikTvd": "100100225883630",
+    "oikName": "Пензенская область – Пензенский",
+    "district": {
+      "districtNumber": 146,
+      "oikTvd": "100100225883630"
+    }
   },
   {
     "uikNumber": 641,
     "uikTvd": "4584035269201",
     "tikTvd": "25820001085596",
-    "tikName": "Кузнецкая"
+    "tikName": "Кузнецкая",
+    "uikName": "УИК №641",
+    "regionCode": "58",
+    "regionTvd": "100100225883629",
+    "regionName": "Пензенская область",
+    "oikTvd": "100100225883630",
+    "oikName": "Пензенская область – Пензенский",
+    "district": {
+      "districtNumber": 146,
+      "oikTvd": "100100225883630"
+    }
   },
   {
     "uikNumber": 642,
     "uikTvd": "4584035269202",
     "tikTvd": "25820001085596",
-    "tikName": "Кузнецкая"
+    "tikName": "Кузнецкая",
+    "uikName": "УИК №642",
+    "regionCode": "58",
+    "regionTvd": "100100225883629",
+    "regionName": "Пензенская область",
+    "oikTvd": "100100225883630",
+    "oikName": "Пензенская область – Пензенский",
+    "district": {
+      "districtNumber": 146,
+      "oikTvd": "100100225883630"
+    }
   },
   {
     "uikNumber": 643,
     "uikTvd": "4584035269203",
     "tikTvd": "25820001085596",
-    "tikName": "Кузнецкая"
+    "tikName": "Кузнецкая",
+    "uikName": "УИК №643",
+    "regionCode": "58",
+    "regionTvd": "100100225883629",
+    "regionName": "Пензенская область",
+    "oikTvd": "100100225883630",
+    "oikName": "Пензенская область – Пензенский",
+    "district": {
+      "districtNumber": 146,
+      "oikTvd": "100100225883630"
+    }
   },
   {
     "uikNumber": 644,
     "uikTvd": "4584035269204",
     "tikTvd": "25820001085596",
-    "tikName": "Кузнецкая"
+    "tikName": "Кузнецкая",
+    "uikName": "УИК №644",
+    "regionCode": "58",
+    "regionTvd": "100100225883629",
+    "regionName": "Пензенская область",
+    "oikTvd": "100100225883630",
+    "oikName": "Пензенская область – Пензенский",
+    "district": {
+      "districtNumber": 146,
+      "oikTvd": "100100225883630"
+    }
   },
   {
     "uikNumber": 646,
     "uikTvd": "4584015248971",
     "tikTvd": "25820001085595",
-    "tikName": "Лопатинская"
+    "tikName": "Лопатинская",
+    "uikName": "УИК №646",
+    "regionCode": "58",
+    "regionTvd": "100100225883629",
+    "regionName": "Пензенская область",
+    "oikTvd": "100100225883630",
+    "oikName": "Пензенская область – Пензенский",
+    "district": {
+      "districtNumber": 146,
+      "oikTvd": "100100225883630"
+    }
   },
   {
     "uikNumber": 647,
     "uikTvd": "4584015248972",
     "tikTvd": "25820001085595",
-    "tikName": "Лопатинская"
+    "tikName": "Лопатинская",
+    "uikName": "УИК №647",
+    "regionCode": "58",
+    "regionTvd": "100100225883629",
+    "regionName": "Пензенская область",
+    "oikTvd": "100100225883630",
+    "oikName": "Пензенская область – Пензенский",
+    "district": {
+      "districtNumber": 146,
+      "oikTvd": "100100225883630"
+    }
   },
   {
     "uikNumber": 648,
     "uikTvd": "4584015248973",
     "tikTvd": "25820001085595",
-    "tikName": "Лопатинская"
+    "tikName": "Лопатинская",
+    "uikName": "УИК №648",
+    "regionCode": "58",
+    "regionTvd": "100100225883629",
+    "regionName": "Пензенская область",
+    "oikTvd": "100100225883630",
+    "oikName": "Пензенская область – Пензенский",
+    "district": {
+      "districtNumber": 146,
+      "oikTvd": "100100225883630"
+    }
   },
   {
     "uikNumber": 649,
     "uikTvd": "4584015248974",
     "tikTvd": "25820001085595",
-    "tikName": "Лопатинская"
+    "tikName": "Лопатинская",
+    "uikName": "УИК №649",
+    "regionCode": "58",
+    "regionTvd": "100100225883629",
+    "regionName": "Пензенская область",
+    "oikTvd": "100100225883630",
+    "oikName": "Пензенская область – Пензенский",
+    "district": {
+      "districtNumber": 146,
+      "oikTvd": "100100225883630"
+    }
   },
   {
     "uikNumber": 650,
     "uikTvd": "4584015248975",
     "tikTvd": "25820001085595",
-    "tikName": "Лопатинская"
+    "tikName": "Лопатинская",
+    "uikName": "УИК №650",
+    "regionCode": "58",
+    "regionTvd": "100100225883629",
+    "regionName": "Пензенская область",
+    "oikTvd": "100100225883630",
+    "oikName": "Пензенская область – Пензенский",
+    "district": {
+      "districtNumber": 146,
+      "oikTvd": "100100225883630"
+    }
   },
   {
     "uikNumber": 651,
     "uikTvd": "4584015248976",
     "tikTvd": "25820001085595",
-    "tikName": "Лопатинская"
+    "tikName": "Лопатинская",
+    "uikName": "УИК №651",
+    "regionCode": "58",
+    "regionTvd": "100100225883629",
+    "regionName": "Пензенская область",
+    "oikTvd": "100100225883630",
+    "oikName": "Пензенская область – Пензенский",
+    "district": {
+      "districtNumber": 146,
+      "oikTvd": "100100225883630"
+    }
   },
   {
     "uikNumber": 652,
     "uikTvd": "4584015248977",
     "tikTvd": "25820001085595",
-    "tikName": "Лопатинская"
+    "tikName": "Лопатинская",
+    "uikName": "УИК №652",
+    "regionCode": "58",
+    "regionTvd": "100100225883629",
+    "regionName": "Пензенская область",
+    "oikTvd": "100100225883630",
+    "oikName": "Пензенская область – Пензенский",
+    "district": {
+      "districtNumber": 146,
+      "oikTvd": "100100225883630"
+    }
   },
   {
     "uikNumber": 653,
     "uikTvd": "4584015248978",
     "tikTvd": "25820001085595",
-    "tikName": "Лопатинская"
+    "tikName": "Лопатинская",
+    "uikName": "УИК №653",
+    "regionCode": "58",
+    "regionTvd": "100100225883629",
+    "regionName": "Пензенская область",
+    "oikTvd": "100100225883630",
+    "oikName": "Пензенская область – Пензенский",
+    "district": {
+      "districtNumber": 146,
+      "oikTvd": "100100225883630"
+    }
   },
   {
     "uikNumber": 654,
     "uikTvd": "4584015248979",
     "tikTvd": "25820001085595",
-    "tikName": "Лопатинская"
+    "tikName": "Лопатинская",
+    "uikName": "УИК №654",
+    "regionCode": "58",
+    "regionTvd": "100100225883629",
+    "regionName": "Пензенская область",
+    "oikTvd": "100100225883630",
+    "oikName": "Пензенская область – Пензенский",
+    "district": {
+      "districtNumber": 146,
+      "oikTvd": "100100225883630"
+    }
   },
   {
     "uikNumber": 655,
     "uikTvd": "4584015248980",
     "tikTvd": "25820001085595",
-    "tikName": "Лопатинская"
+    "tikName": "Лопатинская",
+    "uikName": "УИК №655",
+    "regionCode": "58",
+    "regionTvd": "100100225883629",
+    "regionName": "Пензенская область",
+    "oikTvd": "100100225883630",
+    "oikName": "Пензенская область – Пензенский",
+    "district": {
+      "districtNumber": 146,
+      "oikTvd": "100100225883630"
+    }
   },
   {
     "uikNumber": 656,
     "uikTvd": "4584015248981",
     "tikTvd": "25820001085595",
-    "tikName": "Лопатинская"
+    "tikName": "Лопатинская",
+    "uikName": "УИК №656",
+    "regionCode": "58",
+    "regionTvd": "100100225883629",
+    "regionName": "Пензенская область",
+    "oikTvd": "100100225883630",
+    "oikName": "Пензенская область – Пензенский",
+    "district": {
+      "districtNumber": 146,
+      "oikTvd": "100100225883630"
+    }
   },
   {
     "uikNumber": 657,
     "uikTvd": "4584015248982",
     "tikTvd": "25820001085595",
-    "tikName": "Лопатинская"
+    "tikName": "Лопатинская",
+    "uikName": "УИК №657",
+    "regionCode": "58",
+    "regionTvd": "100100225883629",
+    "regionName": "Пензенская область",
+    "oikTvd": "100100225883630",
+    "oikName": "Пензенская область – Пензенский",
+    "district": {
+      "districtNumber": 146,
+      "oikTvd": "100100225883630"
+    }
   },
   {
     "uikNumber": 658,
     "uikTvd": "4584015248983",
     "tikTvd": "25820001085595",
-    "tikName": "Лопатинская"
+    "tikName": "Лопатинская",
+    "uikName": "УИК №658",
+    "regionCode": "58",
+    "regionTvd": "100100225883629",
+    "regionName": "Пензенская область",
+    "oikTvd": "100100225883630",
+    "oikName": "Пензенская область – Пензенский",
+    "district": {
+      "districtNumber": 146,
+      "oikTvd": "100100225883630"
+    }
   },
   {
     "uikNumber": 659,
     "uikTvd": "4584015248984",
     "tikTvd": "25820001085595",
-    "tikName": "Лопатинская"
+    "tikName": "Лопатинская",
+    "uikName": "УИК №659",
+    "regionCode": "58",
+    "regionTvd": "100100225883629",
+    "regionName": "Пензенская область",
+    "oikTvd": "100100225883630",
+    "oikName": "Пензенская область – Пензенский",
+    "district": {
+      "districtNumber": 146,
+      "oikTvd": "100100225883630"
+    }
   },
   {
     "uikNumber": 660,
     "uikTvd": "4584015248985",
     "tikTvd": "25820001085595",
-    "tikName": "Лопатинская"
+    "tikName": "Лопатинская",
+    "uikName": "УИК №660",
+    "regionCode": "58",
+    "regionTvd": "100100225883629",
+    "regionName": "Пензенская область",
+    "oikTvd": "100100225883630",
+    "oikName": "Пензенская область – Пензенский",
+    "district": {
+      "districtNumber": 146,
+      "oikTvd": "100100225883630"
+    }
   },
   {
     "uikNumber": 661,
     "uikTvd": "4584015248986",
     "tikTvd": "25820001085595",
-    "tikName": "Лопатинская"
+    "tikName": "Лопатинская",
+    "uikName": "УИК №661",
+    "regionCode": "58",
+    "regionTvd": "100100225883629",
+    "regionName": "Пензенская область",
+    "oikTvd": "100100225883630",
+    "oikName": "Пензенская область – Пензенский",
+    "district": {
+      "districtNumber": 146,
+      "oikTvd": "100100225883630"
+    }
   },
   {
     "uikNumber": 662,
     "uikTvd": "4584015248987",
     "tikTvd": "25820001085595",
-    "tikName": "Лопатинская"
+    "tikName": "Лопатинская",
+    "uikName": "УИК №662",
+    "regionCode": "58",
+    "regionTvd": "100100225883629",
+    "regionName": "Пензенская область",
+    "oikTvd": "100100225883630",
+    "oikName": "Пензенская область – Пензенский",
+    "district": {
+      "districtNumber": 146,
+      "oikTvd": "100100225883630"
+    }
   },
   {
     "uikNumber": 663,
     "uikTvd": "4584015248988",
     "tikTvd": "25820001085595",
-    "tikName": "Лопатинская"
+    "tikName": "Лопатинская",
+    "uikName": "УИК №663",
+    "regionCode": "58",
+    "regionTvd": "100100225883629",
+    "regionName": "Пензенская область",
+    "oikTvd": "100100225883630",
+    "oikName": "Пензенская область – Пензенский",
+    "district": {
+      "districtNumber": 146,
+      "oikTvd": "100100225883630"
+    }
   },
   {
     "uikNumber": 664,
     "uikTvd": "4584015248989",
     "tikTvd": "25820001085595",
-    "tikName": "Лопатинская"
+    "tikName": "Лопатинская",
+    "uikName": "УИК №664",
+    "regionCode": "58",
+    "regionTvd": "100100225883629",
+    "regionName": "Пензенская область",
+    "oikTvd": "100100225883630",
+    "oikName": "Пензенская область – Пензенский",
+    "district": {
+      "districtNumber": 146,
+      "oikTvd": "100100225883630"
+    }
   },
   {
     "uikNumber": 665,
     "uikTvd": "4584015248990",
     "tikTvd": "25820001085595",
-    "tikName": "Лопатинская"
+    "tikName": "Лопатинская",
+    "uikName": "УИК №665",
+    "regionCode": "58",
+    "regionTvd": "100100225883629",
+    "regionName": "Пензенская область",
+    "oikTvd": "100100225883630",
+    "oikName": "Пензенская область – Пензенский",
+    "district": {
+      "districtNumber": 146,
+      "oikTvd": "100100225883630"
+    }
   },
   {
     "uikNumber": 666,
     "uikTvd": "4584015248991",
     "tikTvd": "25820001085595",
-    "tikName": "Лопатинская"
+    "tikName": "Лопатинская",
+    "uikName": "УИК №666",
+    "regionCode": "58",
+    "regionTvd": "100100225883629",
+    "regionName": "Пензенская область",
+    "oikTvd": "100100225883630",
+    "oikName": "Пензенская область – Пензенский",
+    "district": {
+      "districtNumber": 146,
+      "oikTvd": "100100225883630"
+    }
   },
   {
     "uikNumber": 668,
     "uikTvd": "4584015248992",
     "tikTvd": "25820001085595",
-    "tikName": "Лопатинская"
+    "tikName": "Лопатинская",
+    "uikName": "УИК №668",
+    "regionCode": "58",
+    "regionTvd": "100100225883629",
+    "regionName": "Пензенская область",
+    "oikTvd": "100100225883630",
+    "oikName": "Пензенская область – Пензенский",
+    "district": {
+      "districtNumber": 146,
+      "oikTvd": "100100225883630"
+    }
   },
   {
     "uikNumber": 669,
     "uikTvd": "4584016284689",
     "tikTvd": "25820001085594",
-    "tikName": "Лунинская"
+    "tikName": "Лунинская",
+    "uikName": "УИК №669",
+    "regionCode": "58",
+    "regionTvd": "100100225883629",
+    "regionName": "Пензенская область",
+    "oikTvd": "100100225883630",
+    "oikName": "Пензенская область – Пензенский",
+    "district": {
+      "districtNumber": 146,
+      "oikTvd": "100100225883630"
+    }
   },
   {
     "uikNumber": 670,
     "uikTvd": "4584016284690",
     "tikTvd": "25820001085594",
-    "tikName": "Лунинская"
+    "tikName": "Лунинская",
+    "uikName": "УИК №670",
+    "regionCode": "58",
+    "regionTvd": "100100225883629",
+    "regionName": "Пензенская область",
+    "oikTvd": "100100225883630",
+    "oikName": "Пензенская область – Пензенский",
+    "district": {
+      "districtNumber": 146,
+      "oikTvd": "100100225883630"
+    }
   },
   {
     "uikNumber": 671,
     "uikTvd": "4584016284691",
     "tikTvd": "25820001085594",
-    "tikName": "Лунинская"
+    "tikName": "Лунинская",
+    "uikName": "УИК №671",
+    "regionCode": "58",
+    "regionTvd": "100100225883629",
+    "regionName": "Пензенская область",
+    "oikTvd": "100100225883630",
+    "oikName": "Пензенская область – Пензенский",
+    "district": {
+      "districtNumber": 146,
+      "oikTvd": "100100225883630"
+    }
   },
   {
     "uikNumber": 672,
     "uikTvd": "4584016284692",
     "tikTvd": "25820001085594",
-    "tikName": "Лунинская"
+    "tikName": "Лунинская",
+    "uikName": "УИК №672",
+    "regionCode": "58",
+    "regionTvd": "100100225883629",
+    "regionName": "Пензенская область",
+    "oikTvd": "100100225883630",
+    "oikName": "Пензенская область – Пензенский",
+    "district": {
+      "districtNumber": 146,
+      "oikTvd": "100100225883630"
+    }
   },
   {
     "uikNumber": 673,
     "uikTvd": "4584016284693",
     "tikTvd": "25820001085594",
-    "tikName": "Лунинская"
+    "tikName": "Лунинская",
+    "uikName": "УИК №673",
+    "regionCode": "58",
+    "regionTvd": "100100225883629",
+    "regionName": "Пензенская область",
+    "oikTvd": "100100225883630",
+    "oikName": "Пензенская область – Пензенский",
+    "district": {
+      "districtNumber": 146,
+      "oikTvd": "100100225883630"
+    }
   },
   {
     "uikNumber": 674,
     "uikTvd": "4584016284694",
     "tikTvd": "25820001085594",
-    "tikName": "Лунинская"
+    "tikName": "Лунинская",
+    "uikName": "УИК №674",
+    "regionCode": "58",
+    "regionTvd": "100100225883629",
+    "regionName": "Пензенская область",
+    "oikTvd": "100100225883630",
+    "oikName": "Пензенская область – Пензенский",
+    "district": {
+      "districtNumber": 146,
+      "oikTvd": "100100225883630"
+    }
   },
   {
     "uikNumber": 675,
     "uikTvd": "4584016284695",
     "tikTvd": "25820001085594",
-    "tikName": "Лунинская"
+    "tikName": "Лунинская",
+    "uikName": "УИК №675",
+    "regionCode": "58",
+    "regionTvd": "100100225883629",
+    "regionName": "Пензенская область",
+    "oikTvd": "100100225883630",
+    "oikName": "Пензенская область – Пензенский",
+    "district": {
+      "districtNumber": 146,
+      "oikTvd": "100100225883630"
+    }
   },
   {
     "uikNumber": 676,
     "uikTvd": "4584016284696",
     "tikTvd": "25820001085594",
-    "tikName": "Лунинская"
+    "tikName": "Лунинская",
+    "uikName": "УИК №676",
+    "regionCode": "58",
+    "regionTvd": "100100225883629",
+    "regionName": "Пензенская область",
+    "oikTvd": "100100225883630",
+    "oikName": "Пензенская область – Пензенский",
+    "district": {
+      "districtNumber": 146,
+      "oikTvd": "100100225883630"
+    }
   },
   {
     "uikNumber": 677,
     "uikTvd": "4584016284697",
     "tikTvd": "25820001085594",
-    "tikName": "Лунинская"
+    "tikName": "Лунинская",
+    "uikName": "УИК №677",
+    "regionCode": "58",
+    "regionTvd": "100100225883629",
+    "regionName": "Пензенская область",
+    "oikTvd": "100100225883630",
+    "oikName": "Пензенская область – Пензенский",
+    "district": {
+      "districtNumber": 146,
+      "oikTvd": "100100225883630"
+    }
   },
   {
     "uikNumber": 678,
     "uikTvd": "4584016284698",
     "tikTvd": "25820001085594",
-    "tikName": "Лунинская"
+    "tikName": "Лунинская",
+    "uikName": "УИК №678",
+    "regionCode": "58",
+    "regionTvd": "100100225883629",
+    "regionName": "Пензенская область",
+    "oikTvd": "100100225883630",
+    "oikName": "Пензенская область – Пензенский",
+    "district": {
+      "districtNumber": 146,
+      "oikTvd": "100100225883630"
+    }
   },
   {
     "uikNumber": 679,
     "uikTvd": "4584016284699",
     "tikTvd": "25820001085594",
-    "tikName": "Лунинская"
+    "tikName": "Лунинская",
+    "uikName": "УИК №679",
+    "regionCode": "58",
+    "regionTvd": "100100225883629",
+    "regionName": "Пензенская область",
+    "oikTvd": "100100225883630",
+    "oikName": "Пензенская область – Пензенский",
+    "district": {
+      "districtNumber": 146,
+      "oikTvd": "100100225883630"
+    }
   },
   {
     "uikNumber": 680,
     "uikTvd": "4584016284700",
     "tikTvd": "25820001085594",
-    "tikName": "Лунинская"
+    "tikName": "Лунинская",
+    "uikName": "УИК №680",
+    "regionCode": "58",
+    "regionTvd": "100100225883629",
+    "regionName": "Пензенская область",
+    "oikTvd": "100100225883630",
+    "oikName": "Пензенская область – Пензенский",
+    "district": {
+      "districtNumber": 146,
+      "oikTvd": "100100225883630"
+    }
   },
   {
     "uikNumber": 681,
     "uikTvd": "4584016284701",
     "tikTvd": "25820001085594",
-    "tikName": "Лунинская"
+    "tikName": "Лунинская",
+    "uikName": "УИК №681",
+    "regionCode": "58",
+    "regionTvd": "100100225883629",
+    "regionName": "Пензенская область",
+    "oikTvd": "100100225883630",
+    "oikName": "Пензенская область – Пензенский",
+    "district": {
+      "districtNumber": 146,
+      "oikTvd": "100100225883630"
+    }
   },
   {
     "uikNumber": 682,
     "uikTvd": "4584016284702",
     "tikTvd": "25820001085594",
-    "tikName": "Лунинская"
+    "tikName": "Лунинская",
+    "uikName": "УИК №682",
+    "regionCode": "58",
+    "regionTvd": "100100225883629",
+    "regionName": "Пензенская область",
+    "oikTvd": "100100225883630",
+    "oikName": "Пензенская область – Пензенский",
+    "district": {
+      "districtNumber": 146,
+      "oikTvd": "100100225883630"
+    }
   },
   {
     "uikNumber": 683,
     "uikTvd": "4584016284703",
     "tikTvd": "25820001085594",
-    "tikName": "Лунинская"
+    "tikName": "Лунинская",
+    "uikName": "УИК №683",
+    "regionCode": "58",
+    "regionTvd": "100100225883629",
+    "regionName": "Пензенская область",
+    "oikTvd": "100100225883630",
+    "oikName": "Пензенская область – Пензенский",
+    "district": {
+      "districtNumber": 146,
+      "oikTvd": "100100225883630"
+    }
   },
   {
     "uikNumber": 684,
     "uikTvd": "4584016284704",
     "tikTvd": "25820001085594",
-    "tikName": "Лунинская"
+    "tikName": "Лунинская",
+    "uikName": "УИК №684",
+    "regionCode": "58",
+    "regionTvd": "100100225883629",
+    "regionName": "Пензенская область",
+    "oikTvd": "100100225883630",
+    "oikName": "Пензенская область – Пензенский",
+    "district": {
+      "districtNumber": 146,
+      "oikTvd": "100100225883630"
+    }
   },
   {
     "uikNumber": 685,
     "uikTvd": "4584016284705",
     "tikTvd": "25820001085594",
-    "tikName": "Лунинская"
+    "tikName": "Лунинская",
+    "uikName": "УИК №685",
+    "regionCode": "58",
+    "regionTvd": "100100225883629",
+    "regionName": "Пензенская область",
+    "oikTvd": "100100225883630",
+    "oikName": "Пензенская область – Пензенский",
+    "district": {
+      "districtNumber": 146,
+      "oikTvd": "100100225883630"
+    }
   },
   {
     "uikNumber": 686,
     "uikTvd": "4584016284706",
     "tikTvd": "25820001085594",
-    "tikName": "Лунинская"
+    "tikName": "Лунинская",
+    "uikName": "УИК №686",
+    "regionCode": "58",
+    "regionTvd": "100100225883629",
+    "regionName": "Пензенская область",
+    "oikTvd": "100100225883630",
+    "oikName": "Пензенская область – Пензенский",
+    "district": {
+      "districtNumber": 146,
+      "oikTvd": "100100225883630"
+    }
   },
   {
     "uikNumber": 687,
     "uikTvd": "4584016284707",
     "tikTvd": "25820001085594",
-    "tikName": "Лунинская"
+    "tikName": "Лунинская",
+    "uikName": "УИК №687",
+    "regionCode": "58",
+    "regionTvd": "100100225883629",
+    "regionName": "Пензенская область",
+    "oikTvd": "100100225883630",
+    "oikName": "Пензенская область – Пензенский",
+    "district": {
+      "districtNumber": 146,
+      "oikTvd": "100100225883630"
+    }
   },
   {
     "uikNumber": 688,
     "uikTvd": "4584016284708",
     "tikTvd": "25820001085594",
-    "tikName": "Лунинская"
+    "tikName": "Лунинская",
+    "uikName": "УИК №688",
+    "regionCode": "58",
+    "regionTvd": "100100225883629",
+    "regionName": "Пензенская область",
+    "oikTvd": "100100225883630",
+    "oikName": "Пензенская область – Пензенский",
+    "district": {
+      "districtNumber": 146,
+      "oikTvd": "100100225883630"
+    }
   },
   {
     "uikNumber": 689,
     "uikTvd": "4584016284709",
     "tikTvd": "25820001085594",
-    "tikName": "Лунинская"
+    "tikName": "Лунинская",
+    "uikName": "УИК №689",
+    "regionCode": "58",
+    "regionTvd": "100100225883629",
+    "regionName": "Пензенская область",
+    "oikTvd": "100100225883630",
+    "oikName": "Пензенская область – Пензенский",
+    "district": {
+      "districtNumber": 146,
+      "oikTvd": "100100225883630"
+    }
   },
   {
     "uikNumber": 690,
     "uikTvd": "4584016284710",
     "tikTvd": "25820001085594",
-    "tikName": "Лунинская"
+    "tikName": "Лунинская",
+    "uikName": "УИК №690",
+    "regionCode": "58",
+    "regionTvd": "100100225883629",
+    "regionName": "Пензенская область",
+    "oikTvd": "100100225883630",
+    "oikName": "Пензенская область – Пензенский",
+    "district": {
+      "districtNumber": 146,
+      "oikTvd": "100100225883630"
+    }
   },
   {
     "uikNumber": 691,
     "uikTvd": "4584016284711",
     "tikTvd": "25820001085594",
-    "tikName": "Лунинская"
+    "tikName": "Лунинская",
+    "uikName": "УИК №691",
+    "regionCode": "58",
+    "regionTvd": "100100225883629",
+    "regionName": "Пензенская область",
+    "oikTvd": "100100225883630",
+    "oikName": "Пензенская область – Пензенский",
+    "district": {
+      "districtNumber": 146,
+      "oikTvd": "100100225883630"
+    }
   },
   {
     "uikNumber": 692,
     "uikTvd": "4584016284712",
     "tikTvd": "25820001085594",
-    "tikName": "Лунинская"
+    "tikName": "Лунинская",
+    "uikName": "УИК №692",
+    "regionCode": "58",
+    "regionTvd": "100100225883629",
+    "regionName": "Пензенская область",
+    "oikTvd": "100100225883630",
+    "oikName": "Пензенская область – Пензенский",
+    "district": {
+      "districtNumber": 146,
+      "oikTvd": "100100225883630"
+    }
   },
   {
     "uikNumber": 693,
     "uikTvd": "4584016284713",
     "tikTvd": "25820001085594",
-    "tikName": "Лунинская"
+    "tikName": "Лунинская",
+    "uikName": "УИК №693",
+    "regionCode": "58",
+    "regionTvd": "100100225883629",
+    "regionName": "Пензенская область",
+    "oikTvd": "100100225883630",
+    "oikName": "Пензенская область – Пензенский",
+    "district": {
+      "districtNumber": 146,
+      "oikTvd": "100100225883630"
+    }
   },
   {
     "uikNumber": 694,
     "uikTvd": "4584016284714",
     "tikTvd": "25820001085594",
-    "tikName": "Лунинская"
+    "tikName": "Лунинская",
+    "uikName": "УИК №694",
+    "regionCode": "58",
+    "regionTvd": "100100225883629",
+    "regionName": "Пензенская область",
+    "oikTvd": "100100225883630",
+    "oikName": "Пензенская область – Пензенский",
+    "district": {
+      "districtNumber": 146,
+      "oikTvd": "100100225883630"
+    }
   },
   {
     "uikNumber": 695,
     "uikTvd": "4584017339222",
     "tikTvd": "25820001085593",
-    "tikName": "Малосердобинская"
+    "tikName": "Малосердобинская",
+    "uikName": "УИК №695",
+    "regionCode": "58",
+    "regionTvd": "100100225883629",
+    "regionName": "Пензенская область",
+    "oikTvd": "100100225883630",
+    "oikName": "Пензенская область – Пензенский",
+    "district": {
+      "districtNumber": 146,
+      "oikTvd": "100100225883630"
+    }
   },
   {
     "uikNumber": 696,
     "uikTvd": "4584017339223",
     "tikTvd": "25820001085593",
-    "tikName": "Малосердобинская"
+    "tikName": "Малосердобинская",
+    "uikName": "УИК №696",
+    "regionCode": "58",
+    "regionTvd": "100100225883629",
+    "regionName": "Пензенская область",
+    "oikTvd": "100100225883630",
+    "oikName": "Пензенская область – Пензенский",
+    "district": {
+      "districtNumber": 146,
+      "oikTvd": "100100225883630"
+    }
   },
   {
     "uikNumber": 697,
     "uikTvd": "4584017339224",
     "tikTvd": "25820001085593",
-    "tikName": "Малосердобинская"
+    "tikName": "Малосердобинская",
+    "uikName": "УИК №697",
+    "regionCode": "58",
+    "regionTvd": "100100225883629",
+    "regionName": "Пензенская область",
+    "oikTvd": "100100225883630",
+    "oikName": "Пензенская область – Пензенский",
+    "district": {
+      "districtNumber": 146,
+      "oikTvd": "100100225883630"
+    }
   },
   {
     "uikNumber": 698,
     "uikTvd": "4584017339225",
     "tikTvd": "25820001085593",
-    "tikName": "Малосердобинская"
+    "tikName": "Малосердобинская",
+    "uikName": "УИК №698",
+    "regionCode": "58",
+    "regionTvd": "100100225883629",
+    "regionName": "Пензенская область",
+    "oikTvd": "100100225883630",
+    "oikName": "Пензенская область – Пензенский",
+    "district": {
+      "districtNumber": 146,
+      "oikTvd": "100100225883630"
+    }
   },
   {
     "uikNumber": 699,
     "uikTvd": "4584017339226",
     "tikTvd": "25820001085593",
-    "tikName": "Малосердобинская"
+    "tikName": "Малосердобинская",
+    "uikName": "УИК №699",
+    "regionCode": "58",
+    "regionTvd": "100100225883629",
+    "regionName": "Пензенская область",
+    "oikTvd": "100100225883630",
+    "oikName": "Пензенская область – Пензенский",
+    "district": {
+      "districtNumber": 146,
+      "oikTvd": "100100225883630"
+    }
   },
   {
     "uikNumber": 700,
     "uikTvd": "4584017339227",
     "tikTvd": "25820001085593",
-    "tikName": "Малосердобинская"
+    "tikName": "Малосердобинская",
+    "uikName": "УИК №700",
+    "regionCode": "58",
+    "regionTvd": "100100225883629",
+    "regionName": "Пензенская область",
+    "oikTvd": "100100225883630",
+    "oikName": "Пензенская область – Пензенский",
+    "district": {
+      "districtNumber": 146,
+      "oikTvd": "100100225883630"
+    }
   },
   {
     "uikNumber": 701,
     "uikTvd": "4584017339228",
     "tikTvd": "25820001085593",
-    "tikName": "Малосердобинская"
+    "tikName": "Малосердобинская",
+    "uikName": "УИК №701",
+    "regionCode": "58",
+    "regionTvd": "100100225883629",
+    "regionName": "Пензенская область",
+    "oikTvd": "100100225883630",
+    "oikName": "Пензенская область – Пензенский",
+    "district": {
+      "districtNumber": 146,
+      "oikTvd": "100100225883630"
+    }
   },
   {
     "uikNumber": 702,
     "uikTvd": "4584017339229",
     "tikTvd": "25820001085593",
-    "tikName": "Малосердобинская"
+    "tikName": "Малосердобинская",
+    "uikName": "УИК №702",
+    "regionCode": "58",
+    "regionTvd": "100100225883629",
+    "regionName": "Пензенская область",
+    "oikTvd": "100100225883630",
+    "oikName": "Пензенская область – Пензенский",
+    "district": {
+      "districtNumber": 146,
+      "oikTvd": "100100225883630"
+    }
   },
   {
     "uikNumber": 703,
     "uikTvd": "4584017339230",
     "tikTvd": "25820001085593",
-    "tikName": "Малосердобинская"
+    "tikName": "Малосердобинская",
+    "uikName": "УИК №703",
+    "regionCode": "58",
+    "regionTvd": "100100225883629",
+    "regionName": "Пензенская область",
+    "oikTvd": "100100225883630",
+    "oikName": "Пензенская область – Пензенский",
+    "district": {
+      "districtNumber": 146,
+      "oikTvd": "100100225883630"
+    }
   },
   {
     "uikNumber": 704,
     "uikTvd": "4584017339231",
     "tikTvd": "25820001085593",
-    "tikName": "Малосердобинская"
+    "tikName": "Малосердобинская",
+    "uikName": "УИК №704",
+    "regionCode": "58",
+    "regionTvd": "100100225883629",
+    "regionName": "Пензенская область",
+    "oikTvd": "100100225883630",
+    "oikName": "Пензенская область – Пензенский",
+    "district": {
+      "districtNumber": 146,
+      "oikTvd": "100100225883630"
+    }
   },
   {
     "uikNumber": 705,
     "uikTvd": "4584017339232",
     "tikTvd": "25820001085593",
-    "tikName": "Малосердобинская"
+    "tikName": "Малосердобинская",
+    "uikName": "УИК №705",
+    "regionCode": "58",
+    "regionTvd": "100100225883629",
+    "regionName": "Пензенская область",
+    "oikTvd": "100100225883630",
+    "oikName": "Пензенская область – Пензенский",
+    "district": {
+      "districtNumber": 146,
+      "oikTvd": "100100225883630"
+    }
   },
   {
     "uikNumber": 706,
     "uikTvd": "4584017339233",
     "tikTvd": "25820001085593",
-    "tikName": "Малосердобинская"
+    "tikName": "Малосердобинская",
+    "uikName": "УИК №706",
+    "regionCode": "58",
+    "regionTvd": "100100225883629",
+    "regionName": "Пензенская область",
+    "oikTvd": "100100225883630",
+    "oikName": "Пензенская область – Пензенский",
+    "district": {
+      "districtNumber": 146,
+      "oikTvd": "100100225883630"
+    }
   },
   {
     "uikNumber": 707,
     "uikTvd": "4584017339234",
     "tikTvd": "25820001085593",
-    "tikName": "Малосердобинская"
+    "tikName": "Малосердобинская",
+    "uikName": "УИК №707",
+    "regionCode": "58",
+    "regionTvd": "100100225883629",
+    "regionName": "Пензенская область",
+    "oikTvd": "100100225883630",
+    "oikName": "Пензенская область – Пензенский",
+    "district": {
+      "districtNumber": 146,
+      "oikTvd": "100100225883630"
+    }
   },
   {
     "uikNumber": 708,
     "uikTvd": "4584017339235",
     "tikTvd": "25820001085593",
-    "tikName": "Малосердобинская"
+    "tikName": "Малосердобинская",
+    "uikName": "УИК №708",
+    "regionCode": "58",
+    "regionTvd": "100100225883629",
+    "regionName": "Пензенская область",
+    "oikTvd": "100100225883630",
+    "oikName": "Пензенская область – Пензенский",
+    "district": {
+      "districtNumber": 146,
+      "oikTvd": "100100225883630"
+    }
   },
   {
     "uikNumber": 709,
     "uikTvd": "4584017339236",
     "tikTvd": "25820001085593",
-    "tikName": "Малосердобинская"
+    "tikName": "Малосердобинская",
+    "uikName": "УИК №709",
+    "regionCode": "58",
+    "regionTvd": "100100225883629",
+    "regionName": "Пензенская область",
+    "oikTvd": "100100225883630",
+    "oikName": "Пензенская область – Пензенский",
+    "district": {
+      "districtNumber": 146,
+      "oikTvd": "100100225883630"
+    }
   },
   {
     "uikNumber": 710,
     "uikTvd": "4584017339237",
     "tikTvd": "25820001085593",
-    "tikName": "Малосердобинская"
+    "tikName": "Малосердобинская",
+    "uikName": "УИК №710",
+    "regionCode": "58",
+    "regionTvd": "100100225883629",
+    "regionName": "Пензенская область",
+    "oikTvd": "100100225883630",
+    "oikName": "Пензенская область – Пензенский",
+    "district": {
+      "districtNumber": 146,
+      "oikTvd": "100100225883630"
+    }
   },
   {
     "uikNumber": 711,
     "uikTvd": "4584017339238",
     "tikTvd": "25820001085593",
-    "tikName": "Малосердобинская"
+    "tikName": "Малосердобинская",
+    "uikName": "УИК №711",
+    "regionCode": "58",
+    "regionTvd": "100100225883629",
+    "regionName": "Пензенская область",
+    "oikTvd": "100100225883630",
+    "oikName": "Пензенская область – Пензенский",
+    "district": {
+      "districtNumber": 146,
+      "oikTvd": "100100225883630"
+    }
   },
   {
     "uikNumber": 713,
     "uikTvd": "4584017339239",
     "tikTvd": "25820001085593",
-    "tikName": "Малосердобинская"
+    "tikName": "Малосердобинская",
+    "uikName": "УИК №713",
+    "regionCode": "58",
+    "regionTvd": "100100225883629",
+    "regionName": "Пензенская область",
+    "oikTvd": "100100225883630",
+    "oikName": "Пензенская область – Пензенский",
+    "district": {
+      "districtNumber": 146,
+      "oikTvd": "100100225883630"
+    }
   },
   {
     "uikNumber": 714,
     "uikTvd": "4584017339240",
     "tikTvd": "25820001085593",
-    "tikName": "Малосердобинская"
+    "tikName": "Малосердобинская",
+    "uikName": "УИК №714",
+    "regionCode": "58",
+    "regionTvd": "100100225883629",
+    "regionName": "Пензенская область",
+    "oikTvd": "100100225883630",
+    "oikName": "Пензенская область – Пензенский",
+    "district": {
+      "districtNumber": 146,
+      "oikTvd": "100100225883630"
+    }
   },
   {
     "uikNumber": 715,
     "uikTvd": "4584018333430",
     "tikTvd": "25820001085608",
-    "tikName": "Мокшанская"
+    "tikName": "Мокшанская",
+    "uikName": "УИК №715",
+    "regionCode": "58",
+    "regionTvd": "100100225883629",
+    "regionName": "Пензенская область",
+    "oikTvd": "100100225883631",
+    "oikName": "Пензенская область – Лермонтовский",
+    "district": {
+      "districtNumber": 147,
+      "oikTvd": "100100225883631"
+    }
   },
   {
     "uikNumber": 716,
     "uikTvd": "4584018333431",
     "tikTvd": "25820001085608",
-    "tikName": "Мокшанская"
+    "tikName": "Мокшанская",
+    "uikName": "УИК №716",
+    "regionCode": "58",
+    "regionTvd": "100100225883629",
+    "regionName": "Пензенская область",
+    "oikTvd": "100100225883631",
+    "oikName": "Пензенская область – Лермонтовский",
+    "district": {
+      "districtNumber": 147,
+      "oikTvd": "100100225883631"
+    }
   },
   {
     "uikNumber": 717,
     "uikTvd": "4584018333432",
     "tikTvd": "25820001085608",
-    "tikName": "Мокшанская"
+    "tikName": "Мокшанская",
+    "uikName": "УИК №717",
+    "regionCode": "58",
+    "regionTvd": "100100225883629",
+    "regionName": "Пензенская область",
+    "oikTvd": "100100225883631",
+    "oikName": "Пензенская область – Лермонтовский",
+    "district": {
+      "districtNumber": 147,
+      "oikTvd": "100100225883631"
+    }
   },
   {
     "uikNumber": 718,
     "uikTvd": "4584018333433",
     "tikTvd": "25820001085608",
-    "tikName": "Мокшанская"
+    "tikName": "Мокшанская",
+    "uikName": "УИК №718",
+    "regionCode": "58",
+    "regionTvd": "100100225883629",
+    "regionName": "Пензенская область",
+    "oikTvd": "100100225883631",
+    "oikName": "Пензенская область – Лермонтовский",
+    "district": {
+      "districtNumber": 147,
+      "oikTvd": "100100225883631"
+    }
   },
   {
     "uikNumber": 719,
     "uikTvd": "4584018333434",
     "tikTvd": "25820001085608",
-    "tikName": "Мокшанская"
+    "tikName": "Мокшанская",
+    "uikName": "УИК №719",
+    "regionCode": "58",
+    "regionTvd": "100100225883629",
+    "regionName": "Пензенская область",
+    "oikTvd": "100100225883631",
+    "oikName": "Пензенская область – Лермонтовский",
+    "district": {
+      "districtNumber": 147,
+      "oikTvd": "100100225883631"
+    }
   },
   {
     "uikNumber": 720,
     "uikTvd": "4584018333435",
     "tikTvd": "25820001085608",
-    "tikName": "Мокшанская"
+    "tikName": "Мокшанская",
+    "uikName": "УИК №720",
+    "regionCode": "58",
+    "regionTvd": "100100225883629",
+    "regionName": "Пензенская область",
+    "oikTvd": "100100225883631",
+    "oikName": "Пензенская область – Лермонтовский",
+    "district": {
+      "districtNumber": 147,
+      "oikTvd": "100100225883631"
+    }
   },
   {
     "uikNumber": 721,
     "uikTvd": "4584018333436",
     "tikTvd": "25820001085608",
-    "tikName": "Мокшанская"
+    "tikName": "Мокшанская",
+    "uikName": "УИК №721",
+    "regionCode": "58",
+    "regionTvd": "100100225883629",
+    "regionName": "Пензенская область",
+    "oikTvd": "100100225883631",
+    "oikName": "Пензенская область – Лермонтовский",
+    "district": {
+      "districtNumber": 147,
+      "oikTvd": "100100225883631"
+    }
   },
   {
     "uikNumber": 722,
     "uikTvd": "4584018333437",
     "tikTvd": "25820001085608",
-    "tikName": "Мокшанская"
+    "tikName": "Мокшанская",
+    "uikName": "УИК №722",
+    "regionCode": "58",
+    "regionTvd": "100100225883629",
+    "regionName": "Пензенская область",
+    "oikTvd": "100100225883631",
+    "oikName": "Пензенская область – Лермонтовский",
+    "district": {
+      "districtNumber": 147,
+      "oikTvd": "100100225883631"
+    }
   },
   {
     "uikNumber": 723,
     "uikTvd": "4584018333438",
     "tikTvd": "25820001085608",
-    "tikName": "Мокшанская"
+    "tikName": "Мокшанская",
+    "uikName": "УИК №723",
+    "regionCode": "58",
+    "regionTvd": "100100225883629",
+    "regionName": "Пензенская область",
+    "oikTvd": "100100225883631",
+    "oikName": "Пензенская область – Лермонтовский",
+    "district": {
+      "districtNumber": 147,
+      "oikTvd": "100100225883631"
+    }
   },
   {
     "uikNumber": 724,
     "uikTvd": "4584018333439",
     "tikTvd": "25820001085608",
-    "tikName": "Мокшанская"
+    "tikName": "Мокшанская",
+    "uikName": "УИК №724",
+    "regionCode": "58",
+    "regionTvd": "100100225883629",
+    "regionName": "Пензенская область",
+    "oikTvd": "100100225883631",
+    "oikName": "Пензенская область – Лермонтовский",
+    "district": {
+      "districtNumber": 147,
+      "oikTvd": "100100225883631"
+    }
   },
   {
     "uikNumber": 725,
     "uikTvd": "4584018333440",
     "tikTvd": "25820001085608",
-    "tikName": "Мокшанская"
+    "tikName": "Мокшанская",
+    "uikName": "УИК №725",
+    "regionCode": "58",
+    "regionTvd": "100100225883629",
+    "regionName": "Пензенская область",
+    "oikTvd": "100100225883631",
+    "oikName": "Пензенская область – Лермонтовский",
+    "district": {
+      "districtNumber": 147,
+      "oikTvd": "100100225883631"
+    }
   },
   {
     "uikNumber": 726,
     "uikTvd": "4584018333441",
     "tikTvd": "25820001085608",
-    "tikName": "Мокшанская"
+    "tikName": "Мокшанская",
+    "uikName": "УИК №726",
+    "regionCode": "58",
+    "regionTvd": "100100225883629",
+    "regionName": "Пензенская область",
+    "oikTvd": "100100225883631",
+    "oikName": "Пензенская область – Лермонтовский",
+    "district": {
+      "districtNumber": 147,
+      "oikTvd": "100100225883631"
+    }
   },
   {
     "uikNumber": 727,
     "uikTvd": "4584018333442",
     "tikTvd": "25820001085608",
-    "tikName": "Мокшанская"
+    "tikName": "Мокшанская",
+    "uikName": "УИК №727",
+    "regionCode": "58",
+    "regionTvd": "100100225883629",
+    "regionName": "Пензенская область",
+    "oikTvd": "100100225883631",
+    "oikName": "Пензенская область – Лермонтовский",
+    "district": {
+      "districtNumber": 147,
+      "oikTvd": "100100225883631"
+    }
   },
   {
     "uikNumber": 728,
     "uikTvd": "4584018333443",
     "tikTvd": "25820001085608",
-    "tikName": "Мокшанская"
+    "tikName": "Мокшанская",
+    "uikName": "УИК №728",
+    "regionCode": "58",
+    "regionTvd": "100100225883629",
+    "regionName": "Пензенская область",
+    "oikTvd": "100100225883631",
+    "oikName": "Пензенская область – Лермонтовский",
+    "district": {
+      "districtNumber": 147,
+      "oikTvd": "100100225883631"
+    }
   },
   {
     "uikNumber": 729,
     "uikTvd": "4584018333444",
     "tikTvd": "25820001085608",
-    "tikName": "Мокшанская"
+    "tikName": "Мокшанская",
+    "uikName": "УИК №729",
+    "regionCode": "58",
+    "regionTvd": "100100225883629",
+    "regionName": "Пензенская область",
+    "oikTvd": "100100225883631",
+    "oikName": "Пензенская область – Лермонтовский",
+    "district": {
+      "districtNumber": 147,
+      "oikTvd": "100100225883631"
+    }
   },
   {
     "uikNumber": 730,
     "uikTvd": "4584018333445",
     "tikTvd": "25820001085608",
-    "tikName": "Мокшанская"
+    "tikName": "Мокшанская",
+    "uikName": "УИК №730",
+    "regionCode": "58",
+    "regionTvd": "100100225883629",
+    "regionName": "Пензенская область",
+    "oikTvd": "100100225883631",
+    "oikName": "Пензенская область – Лермонтовский",
+    "district": {
+      "districtNumber": 147,
+      "oikTvd": "100100225883631"
+    }
   },
   {
     "uikNumber": 731,
     "uikTvd": "4584018333446",
     "tikTvd": "25820001085608",
-    "tikName": "Мокшанская"
+    "tikName": "Мокшанская",
+    "uikName": "УИК №731",
+    "regionCode": "58",
+    "regionTvd": "100100225883629",
+    "regionName": "Пензенская область",
+    "oikTvd": "100100225883631",
+    "oikName": "Пензенская область – Лермонтовский",
+    "district": {
+      "districtNumber": 147,
+      "oikTvd": "100100225883631"
+    }
   },
   {
     "uikNumber": 732,
     "uikTvd": "4584018333447",
     "tikTvd": "25820001085608",
-    "tikName": "Мокшанская"
+    "tikName": "Мокшанская",
+    "uikName": "УИК №732",
+    "regionCode": "58",
+    "regionTvd": "100100225883629",
+    "regionName": "Пензенская область",
+    "oikTvd": "100100225883631",
+    "oikName": "Пензенская область – Лермонтовский",
+    "district": {
+      "districtNumber": 147,
+      "oikTvd": "100100225883631"
+    }
   },
   {
     "uikNumber": 733,
     "uikTvd": "4584018333448",
     "tikTvd": "25820001085608",
-    "tikName": "Мокшанская"
+    "tikName": "Мокшанская",
+    "uikName": "УИК №733",
+    "regionCode": "58",
+    "regionTvd": "100100225883629",
+    "regionName": "Пензенская область",
+    "oikTvd": "100100225883631",
+    "oikName": "Пензенская область – Лермонтовский",
+    "district": {
+      "districtNumber": 147,
+      "oikTvd": "100100225883631"
+    }
   },
   {
     "uikNumber": 734,
     "uikTvd": "4584018333449",
     "tikTvd": "25820001085608",
-    "tikName": "Мокшанская"
+    "tikName": "Мокшанская",
+    "uikName": "УИК №734",
+    "regionCode": "58",
+    "regionTvd": "100100225883629",
+    "regionName": "Пензенская область",
+    "oikTvd": "100100225883631",
+    "oikName": "Пензенская область – Лермонтовский",
+    "district": {
+      "districtNumber": 147,
+      "oikTvd": "100100225883631"
+    }
   },
   {
     "uikNumber": 735,
     "uikTvd": "4584018333450",
     "tikTvd": "25820001085608",
-    "tikName": "Мокшанская"
+    "tikName": "Мокшанская",
+    "uikName": "УИК №735",
+    "regionCode": "58",
+    "regionTvd": "100100225883629",
+    "regionName": "Пензенская область",
+    "oikTvd": "100100225883631",
+    "oikName": "Пензенская область – Лермонтовский",
+    "district": {
+      "districtNumber": 147,
+      "oikTvd": "100100225883631"
+    }
   },
   {
     "uikNumber": 736,
     "uikTvd": "4584018333451",
     "tikTvd": "25820001085608",
-    "tikName": "Мокшанская"
+    "tikName": "Мокшанская",
+    "uikName": "УИК №736",
+    "regionCode": "58",
+    "regionTvd": "100100225883629",
+    "regionName": "Пензенская область",
+    "oikTvd": "100100225883631",
+    "oikName": "Пензенская область – Лермонтовский",
+    "district": {
+      "districtNumber": 147,
+      "oikTvd": "100100225883631"
+    }
   },
   {
     "uikNumber": 737,
     "uikTvd": "4584018333452",
     "tikTvd": "25820001085608",
-    "tikName": "Мокшанская"
+    "tikName": "Мокшанская",
+    "uikName": "УИК №737",
+    "regionCode": "58",
+    "regionTvd": "100100225883629",
+    "regionName": "Пензенская область",
+    "oikTvd": "100100225883631",
+    "oikName": "Пензенская область – Лермонтовский",
+    "district": {
+      "districtNumber": 147,
+      "oikTvd": "100100225883631"
+    }
   },
   {
     "uikNumber": 738,
     "uikTvd": "4584018333453",
     "tikTvd": "25820001085608",
-    "tikName": "Мокшанская"
+    "tikName": "Мокшанская",
+    "uikName": "УИК №738",
+    "regionCode": "58",
+    "regionTvd": "100100225883629",
+    "regionName": "Пензенская область",
+    "oikTvd": "100100225883631",
+    "oikName": "Пензенская область – Лермонтовский",
+    "district": {
+      "districtNumber": 147,
+      "oikTvd": "100100225883631"
+    }
   },
   {
     "uikNumber": 739,
     "uikTvd": "4584018333454",
     "tikTvd": "25820001085608",
-    "tikName": "Мокшанская"
+    "tikName": "Мокшанская",
+    "uikName": "УИК №739",
+    "regionCode": "58",
+    "regionTvd": "100100225883629",
+    "regionName": "Пензенская область",
+    "oikTvd": "100100225883631",
+    "oikName": "Пензенская область – Лермонтовский",
+    "district": {
+      "districtNumber": 147,
+      "oikTvd": "100100225883631"
+    }
   },
   {
     "uikNumber": 740,
     "uikTvd": "4584018333455",
     "tikTvd": "25820001085608",
-    "tikName": "Мокшанская"
+    "tikName": "Мокшанская",
+    "uikName": "УИК №740",
+    "regionCode": "58",
+    "regionTvd": "100100225883629",
+    "regionName": "Пензенская область",
+    "oikTvd": "100100225883631",
+    "oikName": "Пензенская область – Лермонтовский",
+    "district": {
+      "districtNumber": 147,
+      "oikTvd": "100100225883631"
+    }
   },
   {
     "uikNumber": 741,
     "uikTvd": "4584018333456",
     "tikTvd": "25820001085608",
-    "tikName": "Мокшанская"
+    "tikName": "Мокшанская",
+    "uikName": "УИК №741",
+    "regionCode": "58",
+    "regionTvd": "100100225883629",
+    "regionName": "Пензенская область",
+    "oikTvd": "100100225883631",
+    "oikName": "Пензенская область – Лермонтовский",
+    "district": {
+      "districtNumber": 147,
+      "oikTvd": "100100225883631"
+    }
   },
   {
     "uikNumber": 742,
     "uikTvd": "4584018333457",
     "tikTvd": "25820001085608",
-    "tikName": "Мокшанская"
+    "tikName": "Мокшанская",
+    "uikName": "УИК №742",
+    "regionCode": "58",
+    "regionTvd": "100100225883629",
+    "regionName": "Пензенская область",
+    "oikTvd": "100100225883631",
+    "oikName": "Пензенская область – Лермонтовский",
+    "district": {
+      "districtNumber": 147,
+      "oikTvd": "100100225883631"
+    }
   },
   {
     "uikNumber": 743,
     "uikTvd": "4584019257688",
     "tikTvd": "25820001085607",
-    "tikName": "Наровчатская"
+    "tikName": "Наровчатская",
+    "uikName": "УИК №743",
+    "regionCode": "58",
+    "regionTvd": "100100225883629",
+    "regionName": "Пензенская область",
+    "oikTvd": "100100225883631",
+    "oikName": "Пензенская область – Лермонтовский",
+    "district": {
+      "districtNumber": 147,
+      "oikTvd": "100100225883631"
+    }
   },
   {
     "uikNumber": 744,
     "uikTvd": "4584019257689",
     "tikTvd": "25820001085607",
-    "tikName": "Наровчатская"
+    "tikName": "Наровчатская",
+    "uikName": "УИК №744",
+    "regionCode": "58",
+    "regionTvd": "100100225883629",
+    "regionName": "Пензенская область",
+    "oikTvd": "100100225883631",
+    "oikName": "Пензенская область – Лермонтовский",
+    "district": {
+      "districtNumber": 147,
+      "oikTvd": "100100225883631"
+    }
   },
   {
     "uikNumber": 745,
     "uikTvd": "4584019257690",
     "tikTvd": "25820001085607",
-    "tikName": "Наровчатская"
+    "tikName": "Наровчатская",
+    "uikName": "УИК №745",
+    "regionCode": "58",
+    "regionTvd": "100100225883629",
+    "regionName": "Пензенская область",
+    "oikTvd": "100100225883631",
+    "oikName": "Пензенская область – Лермонтовский",
+    "district": {
+      "districtNumber": 147,
+      "oikTvd": "100100225883631"
+    }
   },
   {
     "uikNumber": 746,
     "uikTvd": "4584019257691",
     "tikTvd": "25820001085607",
-    "tikName": "Наровчатская"
+    "tikName": "Наровчатская",
+    "uikName": "УИК №746",
+    "regionCode": "58",
+    "regionTvd": "100100225883629",
+    "regionName": "Пензенская область",
+    "oikTvd": "100100225883631",
+    "oikName": "Пензенская область – Лермонтовский",
+    "district": {
+      "districtNumber": 147,
+      "oikTvd": "100100225883631"
+    }
   },
   {
     "uikNumber": 747,
     "uikTvd": "4584019257692",
     "tikTvd": "25820001085607",
-    "tikName": "Наровчатская"
+    "tikName": "Наровчатская",
+    "uikName": "УИК №747",
+    "regionCode": "58",
+    "regionTvd": "100100225883629",
+    "regionName": "Пензенская область",
+    "oikTvd": "100100225883631",
+    "oikName": "Пензенская область – Лермонтовский",
+    "district": {
+      "districtNumber": 147,
+      "oikTvd": "100100225883631"
+    }
   },
   {
     "uikNumber": 748,
     "uikTvd": "4584019257693",
     "tikTvd": "25820001085607",
-    "tikName": "Наровчатская"
+    "tikName": "Наровчатская",
+    "uikName": "УИК №748",
+    "regionCode": "58",
+    "regionTvd": "100100225883629",
+    "regionName": "Пензенская область",
+    "oikTvd": "100100225883631",
+    "oikName": "Пензенская область – Лермонтовский",
+    "district": {
+      "districtNumber": 147,
+      "oikTvd": "100100225883631"
+    }
   },
   {
     "uikNumber": 750,
     "uikTvd": "4584019257694",
     "tikTvd": "25820001085607",
-    "tikName": "Наровчатская"
+    "tikName": "Наровчатская",
+    "uikName": "УИК №750",
+    "regionCode": "58",
+    "regionTvd": "100100225883629",
+    "regionName": "Пензенская область",
+    "oikTvd": "100100225883631",
+    "oikName": "Пензенская область – Лермонтовский",
+    "district": {
+      "districtNumber": 147,
+      "oikTvd": "100100225883631"
+    }
   },
   {
     "uikNumber": 751,
     "uikTvd": "4584019257695",
     "tikTvd": "25820001085607",
-    "tikName": "Наровчатская"
+    "tikName": "Наровчатская",
+    "uikName": "УИК №751",
+    "regionCode": "58",
+    "regionTvd": "100100225883629",
+    "regionName": "Пензенская область",
+    "oikTvd": "100100225883631",
+    "oikName": "Пензенская область – Лермонтовский",
+    "district": {
+      "districtNumber": 147,
+      "oikTvd": "100100225883631"
+    }
   },
   {
     "uikNumber": 752,
     "uikTvd": "4584019257696",
     "tikTvd": "25820001085607",
-    "tikName": "Наровчатская"
+    "tikName": "Наровчатская",
+    "uikName": "УИК №752",
+    "regionCode": "58",
+    "regionTvd": "100100225883629",
+    "regionName": "Пензенская область",
+    "oikTvd": "100100225883631",
+    "oikName": "Пензенская область – Лермонтовский",
+    "district": {
+      "districtNumber": 147,
+      "oikTvd": "100100225883631"
+    }
   },
   {
     "uikNumber": 753,
     "uikTvd": "4584019257697",
     "tikTvd": "25820001085607",
-    "tikName": "Наровчатская"
+    "tikName": "Наровчатская",
+    "uikName": "УИК №753",
+    "regionCode": "58",
+    "regionTvd": "100100225883629",
+    "regionName": "Пензенская область",
+    "oikTvd": "100100225883631",
+    "oikName": "Пензенская область – Лермонтовский",
+    "district": {
+      "districtNumber": 147,
+      "oikTvd": "100100225883631"
+    }
   },
   {
     "uikNumber": 754,
     "uikTvd": "4584019257698",
     "tikTvd": "25820001085607",
-    "tikName": "Наровчатская"
+    "tikName": "Наровчатская",
+    "uikName": "УИК №754",
+    "regionCode": "58",
+    "regionTvd": "100100225883629",
+    "regionName": "Пензенская область",
+    "oikTvd": "100100225883631",
+    "oikName": "Пензенская область – Лермонтовский",
+    "district": {
+      "districtNumber": 147,
+      "oikTvd": "100100225883631"
+    }
   },
   {
     "uikNumber": 755,
     "uikTvd": "4584019257699",
     "tikTvd": "25820001085607",
-    "tikName": "Наровчатская"
+    "tikName": "Наровчатская",
+    "uikName": "УИК №755",
+    "regionCode": "58",
+    "regionTvd": "100100225883629",
+    "regionName": "Пензенская область",
+    "oikTvd": "100100225883631",
+    "oikName": "Пензенская область – Лермонтовский",
+    "district": {
+      "districtNumber": 147,
+      "oikTvd": "100100225883631"
+    }
   },
   {
     "uikNumber": 756,
     "uikTvd": "4584019257700",
     "tikTvd": "25820001085607",
-    "tikName": "Наровчатская"
+    "tikName": "Наровчатская",
+    "uikName": "УИК №756",
+    "regionCode": "58",
+    "regionTvd": "100100225883629",
+    "regionName": "Пензенская область",
+    "oikTvd": "100100225883631",
+    "oikName": "Пензенская область – Лермонтовский",
+    "district": {
+      "districtNumber": 147,
+      "oikTvd": "100100225883631"
+    }
   },
   {
     "uikNumber": 757,
     "uikTvd": "4584019257701",
     "tikTvd": "25820001085607",
-    "tikName": "Наровчатская"
+    "tikName": "Наровчатская",
+    "uikName": "УИК №757",
+    "regionCode": "58",
+    "regionTvd": "100100225883629",
+    "regionName": "Пензенская область",
+    "oikTvd": "100100225883631",
+    "oikName": "Пензенская область – Лермонтовский",
+    "district": {
+      "districtNumber": 147,
+      "oikTvd": "100100225883631"
+    }
   },
   {
     "uikNumber": 758,
     "uikTvd": "4584019257702",
     "tikTvd": "25820001085607",
-    "tikName": "Наровчатская"
+    "tikName": "Наровчатская",
+    "uikName": "УИК №758",
+    "regionCode": "58",
+    "regionTvd": "100100225883629",
+    "regionName": "Пензенская область",
+    "oikTvd": "100100225883631",
+    "oikName": "Пензенская область – Лермонтовский",
+    "district": {
+      "districtNumber": 147,
+      "oikTvd": "100100225883631"
+    }
   },
   {
     "uikNumber": 760,
     "uikTvd": "4584019257703",
     "tikTvd": "25820001085607",
-    "tikName": "Наровчатская"
+    "tikName": "Наровчатская",
+    "uikName": "УИК №760",
+    "regionCode": "58",
+    "regionTvd": "100100225883629",
+    "regionName": "Пензенская область",
+    "oikTvd": "100100225883631",
+    "oikName": "Пензенская область – Лермонтовский",
+    "district": {
+      "districtNumber": 147,
+      "oikTvd": "100100225883631"
+    }
   },
   {
     "uikNumber": 761,
     "uikTvd": "4584019257704",
     "tikTvd": "25820001085607",
-    "tikName": "Наровчатская"
+    "tikName": "Наровчатская",
+    "uikName": "УИК №761",
+    "regionCode": "58",
+    "regionTvd": "100100225883629",
+    "regionName": "Пензенская область",
+    "oikTvd": "100100225883631",
+    "oikName": "Пензенская область – Лермонтовский",
+    "district": {
+      "districtNumber": 147,
+      "oikTvd": "100100225883631"
+    }
   },
   {
     "uikNumber": 762,
     "uikTvd": "4584019257705",
     "tikTvd": "25820001085607",
-    "tikName": "Наровчатская"
+    "tikName": "Наровчатская",
+    "uikName": "УИК №762",
+    "regionCode": "58",
+    "regionTvd": "100100225883629",
+    "regionName": "Пензенская область",
+    "oikTvd": "100100225883631",
+    "oikName": "Пензенская область – Лермонтовский",
+    "district": {
+      "districtNumber": 147,
+      "oikTvd": "100100225883631"
+    }
   },
   {
     "uikNumber": 763,
     "uikTvd": "4584019257706",
     "tikTvd": "25820001085607",
-    "tikName": "Наровчатская"
+    "tikName": "Наровчатская",
+    "uikName": "УИК №763",
+    "regionCode": "58",
+    "regionTvd": "100100225883629",
+    "regionName": "Пензенская область",
+    "oikTvd": "100100225883631",
+    "oikName": "Пензенская область – Лермонтовский",
+    "district": {
+      "districtNumber": 147,
+      "oikTvd": "100100225883631"
+    }
   },
   {
     "uikNumber": 764,
     "uikTvd": "4584019257707",
     "tikTvd": "25820001085607",
-    "tikName": "Наровчатская"
+    "tikName": "Наровчатская",
+    "uikName": "УИК №764",
+    "regionCode": "58",
+    "regionTvd": "100100225883629",
+    "regionName": "Пензенская область",
+    "oikTvd": "100100225883631",
+    "oikName": "Пензенская область – Лермонтовский",
+    "district": {
+      "districtNumber": 147,
+      "oikTvd": "100100225883631"
+    }
   },
   {
     "uikNumber": 765,
     "uikTvd": "4584019257708",
     "tikTvd": "25820001085607",
-    "tikName": "Наровчатская"
+    "tikName": "Наровчатская",
+    "uikName": "УИК №765",
+    "regionCode": "58",
+    "regionTvd": "100100225883629",
+    "regionName": "Пензенская область",
+    "oikTvd": "100100225883631",
+    "oikName": "Пензенская область – Лермонтовский",
+    "district": {
+      "districtNumber": 147,
+      "oikTvd": "100100225883631"
+    }
   },
   {
     "uikNumber": 766,
     "uikTvd": "4584020241044",
     "tikTvd": "25820001085592",
-    "tikName": "Неверкинская"
+    "tikName": "Неверкинская",
+    "uikName": "УИК №766",
+    "regionCode": "58",
+    "regionTvd": "100100225883629",
+    "regionName": "Пензенская область",
+    "oikTvd": "100100225883630",
+    "oikName": "Пензенская область – Пензенский",
+    "district": {
+      "districtNumber": 146,
+      "oikTvd": "100100225883630"
+    }
   },
   {
     "uikNumber": 767,
     "uikTvd": "4584020241045",
     "tikTvd": "25820001085592",
-    "tikName": "Неверкинская"
+    "tikName": "Неверкинская",
+    "uikName": "УИК №767",
+    "regionCode": "58",
+    "regionTvd": "100100225883629",
+    "regionName": "Пензенская область",
+    "oikTvd": "100100225883630",
+    "oikName": "Пензенская область – Пензенский",
+    "district": {
+      "districtNumber": 146,
+      "oikTvd": "100100225883630"
+    }
   },
   {
     "uikNumber": 768,
     "uikTvd": "4584020241046",
     "tikTvd": "25820001085592",
-    "tikName": "Неверкинская"
+    "tikName": "Неверкинская",
+    "uikName": "УИК №768",
+    "regionCode": "58",
+    "regionTvd": "100100225883629",
+    "regionName": "Пензенская область",
+    "oikTvd": "100100225883630",
+    "oikName": "Пензенская область – Пензенский",
+    "district": {
+      "districtNumber": 146,
+      "oikTvd": "100100225883630"
+    }
   },
   {
     "uikNumber": 769,
     "uikTvd": "4584020241047",
     "tikTvd": "25820001085592",
-    "tikName": "Неверкинская"
+    "tikName": "Неверкинская",
+    "uikName": "УИК №769",
+    "regionCode": "58",
+    "regionTvd": "100100225883629",
+    "regionName": "Пензенская область",
+    "oikTvd": "100100225883630",
+    "oikName": "Пензенская область – Пензенский",
+    "district": {
+      "districtNumber": 146,
+      "oikTvd": "100100225883630"
+    }
   },
   {
     "uikNumber": 770,
     "uikTvd": "4584020241048",
     "tikTvd": "25820001085592",
-    "tikName": "Неверкинская"
+    "tikName": "Неверкинская",
+    "uikName": "УИК №770",
+    "regionCode": "58",
+    "regionTvd": "100100225883629",
+    "regionName": "Пензенская область",
+    "oikTvd": "100100225883630",
+    "oikName": "Пензенская область – Пензенский",
+    "district": {
+      "districtNumber": 146,
+      "oikTvd": "100100225883630"
+    }
   },
   {
     "uikNumber": 771,
     "uikTvd": "4584020241049",
     "tikTvd": "25820001085592",
-    "tikName": "Неверкинская"
+    "tikName": "Неверкинская",
+    "uikName": "УИК №771",
+    "regionCode": "58",
+    "regionTvd": "100100225883629",
+    "regionName": "Пензенская область",
+    "oikTvd": "100100225883630",
+    "oikName": "Пензенская область – Пензенский",
+    "district": {
+      "districtNumber": 146,
+      "oikTvd": "100100225883630"
+    }
   },
   {
     "uikNumber": 772,
     "uikTvd": "4584020241050",
     "tikTvd": "25820001085592",
-    "tikName": "Неверкинская"
+    "tikName": "Неверкинская",
+    "uikName": "УИК №772",
+    "regionCode": "58",
+    "regionTvd": "100100225883629",
+    "regionName": "Пензенская область",
+    "oikTvd": "100100225883630",
+    "oikName": "Пензенская область – Пензенский",
+    "district": {
+      "districtNumber": 146,
+      "oikTvd": "100100225883630"
+    }
   },
   {
     "uikNumber": 773,
     "uikTvd": "4584020241051",
     "tikTvd": "25820001085592",
-    "tikName": "Неверкинская"
+    "tikName": "Неверкинская",
+    "uikName": "УИК №773",
+    "regionCode": "58",
+    "regionTvd": "100100225883629",
+    "regionName": "Пензенская область",
+    "oikTvd": "100100225883630",
+    "oikName": "Пензенская область – Пензенский",
+    "district": {
+      "districtNumber": 146,
+      "oikTvd": "100100225883630"
+    }
   },
   {
     "uikNumber": 774,
     "uikTvd": "4584020241052",
     "tikTvd": "25820001085592",
-    "tikName": "Неверкинская"
+    "tikName": "Неверкинская",
+    "uikName": "УИК №774",
+    "regionCode": "58",
+    "regionTvd": "100100225883629",
+    "regionName": "Пензенская область",
+    "oikTvd": "100100225883630",
+    "oikName": "Пензенская область – Пензенский",
+    "district": {
+      "districtNumber": 146,
+      "oikTvd": "100100225883630"
+    }
   },
   {
     "uikNumber": 775,
     "uikTvd": "4584020241053",
     "tikTvd": "25820001085592",
-    "tikName": "Неверкинская"
+    "tikName": "Неверкинская",
+    "uikName": "УИК №775",
+    "regionCode": "58",
+    "regionTvd": "100100225883629",
+    "regionName": "Пензенская область",
+    "oikTvd": "100100225883630",
+    "oikName": "Пензенская область – Пензенский",
+    "district": {
+      "districtNumber": 146,
+      "oikTvd": "100100225883630"
+    }
   },
   {
     "uikNumber": 776,
     "uikTvd": "4584020241054",
     "tikTvd": "25820001085592",
-    "tikName": "Неверкинская"
+    "tikName": "Неверкинская",
+    "uikName": "УИК №776",
+    "regionCode": "58",
+    "regionTvd": "100100225883629",
+    "regionName": "Пензенская область",
+    "oikTvd": "100100225883630",
+    "oikName": "Пензенская область – Пензенский",
+    "district": {
+      "districtNumber": 146,
+      "oikTvd": "100100225883630"
+    }
   },
   {
     "uikNumber": 777,
     "uikTvd": "4584020241055",
     "tikTvd": "25820001085592",
-    "tikName": "Неверкинская"
+    "tikName": "Неверкинская",
+    "uikName": "УИК №777",
+    "regionCode": "58",
+    "regionTvd": "100100225883629",
+    "regionName": "Пензенская область",
+    "oikTvd": "100100225883630",
+    "oikName": "Пензенская область – Пензенский",
+    "district": {
+      "districtNumber": 146,
+      "oikTvd": "100100225883630"
+    }
   },
   {
     "uikNumber": 778,
     "uikTvd": "4584020241056",
     "tikTvd": "25820001085592",
-    "tikName": "Неверкинская"
+    "tikName": "Неверкинская",
+    "uikName": "УИК №778",
+    "regionCode": "58",
+    "regionTvd": "100100225883629",
+    "regionName": "Пензенская область",
+    "oikTvd": "100100225883630",
+    "oikName": "Пензенская область – Пензенский",
+    "district": {
+      "districtNumber": 146,
+      "oikTvd": "100100225883630"
+    }
   },
   {
     "uikNumber": 779,
     "uikTvd": "4584020241057",
     "tikTvd": "25820001085592",
-    "tikName": "Неверкинская"
+    "tikName": "Неверкинская",
+    "uikName": "УИК №779",
+    "regionCode": "58",
+    "regionTvd": "100100225883629",
+    "regionName": "Пензенская область",
+    "oikTvd": "100100225883630",
+    "oikName": "Пензенская область – Пензенский",
+    "district": {
+      "districtNumber": 146,
+      "oikTvd": "100100225883630"
+    }
   },
   {
     "uikNumber": 780,
     "uikTvd": "4584020241058",
     "tikTvd": "25820001085592",
-    "tikName": "Неверкинская"
+    "tikName": "Неверкинская",
+    "uikName": "УИК №780",
+    "regionCode": "58",
+    "regionTvd": "100100225883629",
+    "regionName": "Пензенская область",
+    "oikTvd": "100100225883630",
+    "oikName": "Пензенская область – Пензенский",
+    "district": {
+      "districtNumber": 146,
+      "oikTvd": "100100225883630"
+    }
   },
   {
     "uikNumber": 781,
     "uikTvd": "4584020241059",
     "tikTvd": "25820001085592",
-    "tikName": "Неверкинская"
+    "tikName": "Неверкинская",
+    "uikName": "УИК №781",
+    "regionCode": "58",
+    "regionTvd": "100100225883629",
+    "regionName": "Пензенская область",
+    "oikTvd": "100100225883630",
+    "oikName": "Пензенская область – Пензенский",
+    "district": {
+      "districtNumber": 146,
+      "oikTvd": "100100225883630"
+    }
   },
   {
     "uikNumber": 782,
     "uikTvd": "4584020241060",
     "tikTvd": "25820001085592",
-    "tikName": "Неверкинская"
+    "tikName": "Неверкинская",
+    "uikName": "УИК №782",
+    "regionCode": "58",
+    "regionTvd": "100100225883629",
+    "regionName": "Пензенская область",
+    "oikTvd": "100100225883630",
+    "oikName": "Пензенская область – Пензенский",
+    "district": {
+      "districtNumber": 146,
+      "oikTvd": "100100225883630"
+    }
   },
   {
     "uikNumber": 783,
     "uikTvd": "4584020241061",
     "tikTvd": "25820001085592",
-    "tikName": "Неверкинская"
+    "tikName": "Неверкинская",
+    "uikName": "УИК №783",
+    "regionCode": "58",
+    "regionTvd": "100100225883629",
+    "regionName": "Пензенская область",
+    "oikTvd": "100100225883630",
+    "oikName": "Пензенская область – Пензенский",
+    "district": {
+      "districtNumber": 146,
+      "oikTvd": "100100225883630"
+    }
   },
   {
     "uikNumber": 784,
     "uikTvd": "4584020241062",
     "tikTvd": "25820001085592",
-    "tikName": "Неверкинская"
+    "tikName": "Неверкинская",
+    "uikName": "УИК №784",
+    "regionCode": "58",
+    "regionTvd": "100100225883629",
+    "regionName": "Пензенская область",
+    "oikTvd": "100100225883630",
+    "oikName": "Пензенская область – Пензенский",
+    "district": {
+      "districtNumber": 146,
+      "oikTvd": "100100225883630"
+    }
   },
   {
     "uikNumber": 785,
     "uikTvd": "4584020241063",
     "tikTvd": "25820001085592",
-    "tikName": "Неверкинская"
+    "tikName": "Неверкинская",
+    "uikName": "УИК №785",
+    "regionCode": "58",
+    "regionTvd": "100100225883629",
+    "regionName": "Пензенская область",
+    "oikTvd": "100100225883630",
+    "oikName": "Пензенская область – Пензенский",
+    "district": {
+      "districtNumber": 146,
+      "oikTvd": "100100225883630"
+    }
   },
   {
     "uikNumber": 786,
     "uikTvd": "4584020241064",
     "tikTvd": "25820001085592",
-    "tikName": "Неверкинская"
+    "tikName": "Неверкинская",
+    "uikName": "УИК №786",
+    "regionCode": "58",
+    "regionTvd": "100100225883629",
+    "regionName": "Пензенская область",
+    "oikTvd": "100100225883630",
+    "oikName": "Пензенская область – Пензенский",
+    "district": {
+      "districtNumber": 146,
+      "oikTvd": "100100225883630"
+    }
   },
   {
     "uikNumber": 787,
     "uikTvd": "4584020241065",
     "tikTvd": "25820001085592",
-    "tikName": "Неверкинская"
+    "tikName": "Неверкинская",
+    "uikName": "УИК №787",
+    "regionCode": "58",
+    "regionTvd": "100100225883629",
+    "regionName": "Пензенская область",
+    "oikTvd": "100100225883630",
+    "oikName": "Пензенская область – Пензенский",
+    "district": {
+      "districtNumber": 146,
+      "oikTvd": "100100225883630"
+    }
   },
   {
     "uikNumber": 788,
     "uikTvd": "4584020241066",
     "tikTvd": "25820001085592",
-    "tikName": "Неверкинская"
+    "tikName": "Неверкинская",
+    "uikName": "УИК №788",
+    "regionCode": "58",
+    "regionTvd": "100100225883629",
+    "regionName": "Пензенская область",
+    "oikTvd": "100100225883630",
+    "oikName": "Пензенская область – Пензенский",
+    "district": {
+      "districtNumber": 146,
+      "oikTvd": "100100225883630"
+    }
   },
   {
     "uikNumber": 789,
     "uikTvd": "4584020241067",
     "tikTvd": "25820001085592",
-    "tikName": "Неверкинская"
+    "tikName": "Неверкинская",
+    "uikName": "УИК №789",
+    "regionCode": "58",
+    "regionTvd": "100100225883629",
+    "regionName": "Пензенская область",
+    "oikTvd": "100100225883630",
+    "oikName": "Пензенская область – Пензенский",
+    "district": {
+      "districtNumber": 146,
+      "oikTvd": "100100225883630"
+    }
   },
   {
     "uikNumber": 790,
     "uikTvd": "4584020241068",
     "tikTvd": "25820001085592",
-    "tikName": "Неверкинская"
+    "tikName": "Неверкинская",
+    "uikName": "УИК №790",
+    "regionCode": "58",
+    "regionTvd": "100100225883629",
+    "regionName": "Пензенская область",
+    "oikTvd": "100100225883630",
+    "oikName": "Пензенская область – Пензенский",
+    "district": {
+      "districtNumber": 146,
+      "oikTvd": "100100225883630"
+    }
   },
   {
     "uikNumber": 791,
     "uikTvd": "4584021398961",
     "tikTvd": "25820001085606",
-    "tikName": "Нижнеломовская"
+    "tikName": "Нижнеломовская",
+    "uikName": "УИК №791",
+    "regionCode": "58",
+    "regionTvd": "100100225883629",
+    "regionName": "Пензенская область",
+    "oikTvd": "100100225883631",
+    "oikName": "Пензенская область – Лермонтовский",
+    "district": {
+      "districtNumber": 147,
+      "oikTvd": "100100225883631"
+    }
   },
   {
     "uikNumber": 792,
     "uikTvd": "4584021398962",
     "tikTvd": "25820001085606",
-    "tikName": "Нижнеломовская"
+    "tikName": "Нижнеломовская",
+    "uikName": "УИК №792",
+    "regionCode": "58",
+    "regionTvd": "100100225883629",
+    "regionName": "Пензенская область",
+    "oikTvd": "100100225883631",
+    "oikName": "Пензенская область – Лермонтовский",
+    "district": {
+      "districtNumber": 147,
+      "oikTvd": "100100225883631"
+    }
   },
   {
     "uikNumber": 793,
     "uikTvd": "4584021398963",
     "tikTvd": "25820001085606",
-    "tikName": "Нижнеломовская"
+    "tikName": "Нижнеломовская",
+    "uikName": "УИК №793",
+    "regionCode": "58",
+    "regionTvd": "100100225883629",
+    "regionName": "Пензенская область",
+    "oikTvd": "100100225883631",
+    "oikName": "Пензенская область – Лермонтовский",
+    "district": {
+      "districtNumber": 147,
+      "oikTvd": "100100225883631"
+    }
   },
   {
     "uikNumber": 794,
     "uikTvd": "4584021398964",
     "tikTvd": "25820001085606",
-    "tikName": "Нижнеломовская"
+    "tikName": "Нижнеломовская",
+    "uikName": "УИК №794",
+    "regionCode": "58",
+    "regionTvd": "100100225883629",
+    "regionName": "Пензенская область",
+    "oikTvd": "100100225883631",
+    "oikName": "Пензенская область – Лермонтовский",
+    "district": {
+      "districtNumber": 147,
+      "oikTvd": "100100225883631"
+    }
   },
   {
     "uikNumber": 795,
     "uikTvd": "4584021398965",
     "tikTvd": "25820001085606",
-    "tikName": "Нижнеломовская"
+    "tikName": "Нижнеломовская",
+    "uikName": "УИК №795",
+    "regionCode": "58",
+    "regionTvd": "100100225883629",
+    "regionName": "Пензенская область",
+    "oikTvd": "100100225883631",
+    "oikName": "Пензенская область – Лермонтовский",
+    "district": {
+      "districtNumber": 147,
+      "oikTvd": "100100225883631"
+    }
   },
   {
     "uikNumber": 796,
     "uikTvd": "4584021398966",
     "tikTvd": "25820001085606",
-    "tikName": "Нижнеломовская"
+    "tikName": "Нижнеломовская",
+    "uikName": "УИК №796",
+    "regionCode": "58",
+    "regionTvd": "100100225883629",
+    "regionName": "Пензенская область",
+    "oikTvd": "100100225883631",
+    "oikName": "Пензенская область – Лермонтовский",
+    "district": {
+      "districtNumber": 147,
+      "oikTvd": "100100225883631"
+    }
   },
   {
     "uikNumber": 797,
     "uikTvd": "4584021398967",
     "tikTvd": "25820001085606",
-    "tikName": "Нижнеломовская"
+    "tikName": "Нижнеломовская",
+    "uikName": "УИК №797",
+    "regionCode": "58",
+    "regionTvd": "100100225883629",
+    "regionName": "Пензенская область",
+    "oikTvd": "100100225883631",
+    "oikName": "Пензенская область – Лермонтовский",
+    "district": {
+      "districtNumber": 147,
+      "oikTvd": "100100225883631"
+    }
   },
   {
     "uikNumber": 798,
     "uikTvd": "4584021398968",
     "tikTvd": "25820001085606",
-    "tikName": "Нижнеломовская"
+    "tikName": "Нижнеломовская",
+    "uikName": "УИК №798",
+    "regionCode": "58",
+    "regionTvd": "100100225883629",
+    "regionName": "Пензенская область",
+    "oikTvd": "100100225883631",
+    "oikName": "Пензенская область – Лермонтовский",
+    "district": {
+      "districtNumber": 147,
+      "oikTvd": "100100225883631"
+    }
   },
   {
     "uikNumber": 799,
     "uikTvd": "4584021398969",
     "tikTvd": "25820001085606",
-    "tikName": "Нижнеломовская"
+    "tikName": "Нижнеломовская",
+    "uikName": "УИК №799",
+    "regionCode": "58",
+    "regionTvd": "100100225883629",
+    "regionName": "Пензенская область",
+    "oikTvd": "100100225883631",
+    "oikName": "Пензенская область – Лермонтовский",
+    "district": {
+      "districtNumber": 147,
+      "oikTvd": "100100225883631"
+    }
   },
   {
     "uikNumber": 800,
     "uikTvd": "4584021398970",
     "tikTvd": "25820001085606",
-    "tikName": "Нижнеломовская"
+    "tikName": "Нижнеломовская",
+    "uikName": "УИК №800",
+    "regionCode": "58",
+    "regionTvd": "100100225883629",
+    "regionName": "Пензенская область",
+    "oikTvd": "100100225883631",
+    "oikName": "Пензенская область – Лермонтовский",
+    "district": {
+      "districtNumber": 147,
+      "oikTvd": "100100225883631"
+    }
   },
   {
     "uikNumber": 801,
     "uikTvd": "4584021398971",
     "tikTvd": "25820001085606",
-    "tikName": "Нижнеломовская"
+    "tikName": "Нижнеломовская",
+    "uikName": "УИК №801",
+    "regionCode": "58",
+    "regionTvd": "100100225883629",
+    "regionName": "Пензенская область",
+    "oikTvd": "100100225883631",
+    "oikName": "Пензенская область – Лермонтовский",
+    "district": {
+      "districtNumber": 147,
+      "oikTvd": "100100225883631"
+    }
   },
   {
     "uikNumber": 802,
     "uikTvd": "4584021398972",
     "tikTvd": "25820001085606",
-    "tikName": "Нижнеломовская"
+    "tikName": "Нижнеломовская",
+    "uikName": "УИК №802",
+    "regionCode": "58",
+    "regionTvd": "100100225883629",
+    "regionName": "Пензенская область",
+    "oikTvd": "100100225883631",
+    "oikName": "Пензенская область – Лермонтовский",
+    "district": {
+      "districtNumber": 147,
+      "oikTvd": "100100225883631"
+    }
   },
   {
     "uikNumber": 803,
     "uikTvd": "4584021398973",
     "tikTvd": "25820001085606",
-    "tikName": "Нижнеломовская"
+    "tikName": "Нижнеломовская",
+    "uikName": "УИК №803",
+    "regionCode": "58",
+    "regionTvd": "100100225883629",
+    "regionName": "Пензенская область",
+    "oikTvd": "100100225883631",
+    "oikName": "Пензенская область – Лермонтовский",
+    "district": {
+      "districtNumber": 147,
+      "oikTvd": "100100225883631"
+    }
   },
   {
     "uikNumber": 804,
     "uikTvd": "4584021398974",
     "tikTvd": "25820001085606",
-    "tikName": "Нижнеломовская"
+    "tikName": "Нижнеломовская",
+    "uikName": "УИК №804",
+    "regionCode": "58",
+    "regionTvd": "100100225883629",
+    "regionName": "Пензенская область",
+    "oikTvd": "100100225883631",
+    "oikName": "Пензенская область – Лермонтовский",
+    "district": {
+      "districtNumber": 147,
+      "oikTvd": "100100225883631"
+    }
   },
   {
     "uikNumber": 805,
     "uikTvd": "4584021398975",
     "tikTvd": "25820001085606",
-    "tikName": "Нижнеломовская"
+    "tikName": "Нижнеломовская",
+    "uikName": "УИК №805",
+    "regionCode": "58",
+    "regionTvd": "100100225883629",
+    "regionName": "Пензенская область",
+    "oikTvd": "100100225883631",
+    "oikName": "Пензенская область – Лермонтовский",
+    "district": {
+      "districtNumber": 147,
+      "oikTvd": "100100225883631"
+    }
   },
   {
     "uikNumber": 806,
     "uikTvd": "4584021398976",
     "tikTvd": "25820001085606",
-    "tikName": "Нижнеломовская"
+    "tikName": "Нижнеломовская",
+    "uikName": "УИК №806",
+    "regionCode": "58",
+    "regionTvd": "100100225883629",
+    "regionName": "Пензенская область",
+    "oikTvd": "100100225883631",
+    "oikName": "Пензенская область – Лермонтовский",
+    "district": {
+      "districtNumber": 147,
+      "oikTvd": "100100225883631"
+    }
   },
   {
     "uikNumber": 807,
     "uikTvd": "4584021398977",
     "tikTvd": "25820001085606",
-    "tikName": "Нижнеломовская"
+    "tikName": "Нижнеломовская",
+    "uikName": "УИК №807",
+    "regionCode": "58",
+    "regionTvd": "100100225883629",
+    "regionName": "Пензенская область",
+    "oikTvd": "100100225883631",
+    "oikName": "Пензенская область – Лермонтовский",
+    "district": {
+      "districtNumber": 147,
+      "oikTvd": "100100225883631"
+    }
   },
   {
     "uikNumber": 808,
     "uikTvd": "4584021398978",
     "tikTvd": "25820001085606",
-    "tikName": "Нижнеломовская"
+    "tikName": "Нижнеломовская",
+    "uikName": "УИК №808",
+    "regionCode": "58",
+    "regionTvd": "100100225883629",
+    "regionName": "Пензенская область",
+    "oikTvd": "100100225883631",
+    "oikName": "Пензенская область – Лермонтовский",
+    "district": {
+      "districtNumber": 147,
+      "oikTvd": "100100225883631"
+    }
   },
   {
     "uikNumber": 809,
     "uikTvd": "4584021398979",
     "tikTvd": "25820001085606",
-    "tikName": "Нижнеломовская"
+    "tikName": "Нижнеломовская",
+    "uikName": "УИК №809",
+    "regionCode": "58",
+    "regionTvd": "100100225883629",
+    "regionName": "Пензенская область",
+    "oikTvd": "100100225883631",
+    "oikName": "Пензенская область – Лермонтовский",
+    "district": {
+      "districtNumber": 147,
+      "oikTvd": "100100225883631"
+    }
   },
   {
     "uikNumber": 810,
     "uikTvd": "4584021398980",
     "tikTvd": "25820001085606",
-    "tikName": "Нижнеломовская"
+    "tikName": "Нижнеломовская",
+    "uikName": "УИК №810",
+    "regionCode": "58",
+    "regionTvd": "100100225883629",
+    "regionName": "Пензенская область",
+    "oikTvd": "100100225883631",
+    "oikName": "Пензенская область – Лермонтовский",
+    "district": {
+      "districtNumber": 147,
+      "oikTvd": "100100225883631"
+    }
   },
   {
     "uikNumber": 811,
     "uikTvd": "4584021398981",
     "tikTvd": "25820001085606",
-    "tikName": "Нижнеломовская"
+    "tikName": "Нижнеломовская",
+    "uikName": "УИК №811",
+    "regionCode": "58",
+    "regionTvd": "100100225883629",
+    "regionName": "Пензенская область",
+    "oikTvd": "100100225883631",
+    "oikName": "Пензенская область – Лермонтовский",
+    "district": {
+      "districtNumber": 147,
+      "oikTvd": "100100225883631"
+    }
   },
   {
     "uikNumber": 812,
     "uikTvd": "4584021398982",
     "tikTvd": "25820001085606",
-    "tikName": "Нижнеломовская"
+    "tikName": "Нижнеломовская",
+    "uikName": "УИК №812",
+    "regionCode": "58",
+    "regionTvd": "100100225883629",
+    "regionName": "Пензенская область",
+    "oikTvd": "100100225883631",
+    "oikName": "Пензенская область – Лермонтовский",
+    "district": {
+      "districtNumber": 147,
+      "oikTvd": "100100225883631"
+    }
   },
   {
     "uikNumber": 813,
     "uikTvd": "4584021398983",
     "tikTvd": "25820001085606",
-    "tikName": "Нижнеломовская"
+    "tikName": "Нижнеломовская",
+    "uikName": "УИК №813",
+    "regionCode": "58",
+    "regionTvd": "100100225883629",
+    "regionName": "Пензенская область",
+    "oikTvd": "100100225883631",
+    "oikName": "Пензенская область – Лермонтовский",
+    "district": {
+      "districtNumber": 147,
+      "oikTvd": "100100225883631"
+    }
   },
   {
     "uikNumber": 814,
     "uikTvd": "4584021398984",
     "tikTvd": "25820001085606",
-    "tikName": "Нижнеломовская"
+    "tikName": "Нижнеломовская",
+    "uikName": "УИК №814",
+    "regionCode": "58",
+    "regionTvd": "100100225883629",
+    "regionName": "Пензенская область",
+    "oikTvd": "100100225883631",
+    "oikName": "Пензенская область – Лермонтовский",
+    "district": {
+      "districtNumber": 147,
+      "oikTvd": "100100225883631"
+    }
   },
   {
     "uikNumber": 815,
     "uikTvd": "4584021398985",
     "tikTvd": "25820001085606",
-    "tikName": "Нижнеломовская"
+    "tikName": "Нижнеломовская",
+    "uikName": "УИК №815",
+    "regionCode": "58",
+    "regionTvd": "100100225883629",
+    "regionName": "Пензенская область",
+    "oikTvd": "100100225883631",
+    "oikName": "Пензенская область – Лермонтовский",
+    "district": {
+      "districtNumber": 147,
+      "oikTvd": "100100225883631"
+    }
   },
   {
     "uikNumber": 816,
     "uikTvd": "4584021398986",
     "tikTvd": "25820001085606",
-    "tikName": "Нижнеломовская"
+    "tikName": "Нижнеломовская",
+    "uikName": "УИК №816",
+    "regionCode": "58",
+    "regionTvd": "100100225883629",
+    "regionName": "Пензенская область",
+    "oikTvd": "100100225883631",
+    "oikName": "Пензенская область – Лермонтовский",
+    "district": {
+      "districtNumber": 147,
+      "oikTvd": "100100225883631"
+    }
   },
   {
     "uikNumber": 817,
     "uikTvd": "4584021398987",
     "tikTvd": "25820001085606",
-    "tikName": "Нижнеломовская"
+    "tikName": "Нижнеломовская",
+    "uikName": "УИК №817",
+    "regionCode": "58",
+    "regionTvd": "100100225883629",
+    "regionName": "Пензенская область",
+    "oikTvd": "100100225883631",
+    "oikName": "Пензенская область – Лермонтовский",
+    "district": {
+      "districtNumber": 147,
+      "oikTvd": "100100225883631"
+    }
   },
   {
     "uikNumber": 818,
     "uikTvd": "4584021398988",
     "tikTvd": "25820001085606",
-    "tikName": "Нижнеломовская"
+    "tikName": "Нижнеломовская",
+    "uikName": "УИК №818",
+    "regionCode": "58",
+    "regionTvd": "100100225883629",
+    "regionName": "Пензенская область",
+    "oikTvd": "100100225883631",
+    "oikName": "Пензенская область – Лермонтовский",
+    "district": {
+      "districtNumber": 147,
+      "oikTvd": "100100225883631"
+    }
   },
   {
     "uikNumber": 819,
     "uikTvd": "4584021398989",
     "tikTvd": "25820001085606",
-    "tikName": "Нижнеломовская"
+    "tikName": "Нижнеломовская",
+    "uikName": "УИК №819",
+    "regionCode": "58",
+    "regionTvd": "100100225883629",
+    "regionName": "Пензенская область",
+    "oikTvd": "100100225883631",
+    "oikName": "Пензенская область – Лермонтовский",
+    "district": {
+      "districtNumber": 147,
+      "oikTvd": "100100225883631"
+    }
   },
   {
     "uikNumber": 820,
     "uikTvd": "4584021398990",
     "tikTvd": "25820001085606",
-    "tikName": "Нижнеломовская"
+    "tikName": "Нижнеломовская",
+    "uikName": "УИК №820",
+    "regionCode": "58",
+    "regionTvd": "100100225883629",
+    "regionName": "Пензенская область",
+    "oikTvd": "100100225883631",
+    "oikName": "Пензенская область – Лермонтовский",
+    "district": {
+      "districtNumber": 147,
+      "oikTvd": "100100225883631"
+    }
   },
   {
     "uikNumber": 821,
     "uikTvd": "4584021398991",
     "tikTvd": "25820001085606",
-    "tikName": "Нижнеломовская"
+    "tikName": "Нижнеломовская",
+    "uikName": "УИК №821",
+    "regionCode": "58",
+    "regionTvd": "100100225883629",
+    "regionName": "Пензенская область",
+    "oikTvd": "100100225883631",
+    "oikName": "Пензенская область – Лермонтовский",
+    "district": {
+      "districtNumber": 147,
+      "oikTvd": "100100225883631"
+    }
   },
   {
     "uikNumber": 822,
     "uikTvd": "4584021398992",
     "tikTvd": "25820001085606",
-    "tikName": "Нижнеломовская"
+    "tikName": "Нижнеломовская",
+    "uikName": "УИК №822",
+    "regionCode": "58",
+    "regionTvd": "100100225883629",
+    "regionName": "Пензенская область",
+    "oikTvd": "100100225883631",
+    "oikName": "Пензенская область – Лермонтовский",
+    "district": {
+      "districtNumber": 147,
+      "oikTvd": "100100225883631"
+    }
   },
   {
     "uikNumber": 823,
     "uikTvd": "4584021398993",
     "tikTvd": "25820001085606",
-    "tikName": "Нижнеломовская"
+    "tikName": "Нижнеломовская",
+    "uikName": "УИК №823",
+    "regionCode": "58",
+    "regionTvd": "100100225883629",
+    "regionName": "Пензенская область",
+    "oikTvd": "100100225883631",
+    "oikName": "Пензенская область – Лермонтовский",
+    "district": {
+      "districtNumber": 147,
+      "oikTvd": "100100225883631"
+    }
   },
   {
     "uikNumber": 824,
     "uikTvd": "4584021398994",
     "tikTvd": "25820001085606",
-    "tikName": "Нижнеломовская"
+    "tikName": "Нижнеломовская",
+    "uikName": "УИК №824",
+    "regionCode": "58",
+    "regionTvd": "100100225883629",
+    "regionName": "Пензенская область",
+    "oikTvd": "100100225883631",
+    "oikName": "Пензенская область – Лермонтовский",
+    "district": {
+      "districtNumber": 147,
+      "oikTvd": "100100225883631"
+    }
   },
   {
     "uikNumber": 825,
     "uikTvd": "4584021398995",
     "tikTvd": "25820001085606",
-    "tikName": "Нижнеломовская"
+    "tikName": "Нижнеломовская",
+    "uikName": "УИК №825",
+    "regionCode": "58",
+    "regionTvd": "100100225883629",
+    "regionName": "Пензенская область",
+    "oikTvd": "100100225883631",
+    "oikName": "Пензенская область – Лермонтовский",
+    "district": {
+      "districtNumber": 147,
+      "oikTvd": "100100225883631"
+    }
   },
   {
     "uikNumber": 826,
     "uikTvd": "4584021398996",
     "tikTvd": "25820001085606",
-    "tikName": "Нижнеломовская"
+    "tikName": "Нижнеломовская",
+    "uikName": "УИК №826",
+    "regionCode": "58",
+    "regionTvd": "100100225883629",
+    "regionName": "Пензенская область",
+    "oikTvd": "100100225883631",
+    "oikName": "Пензенская область – Лермонтовский",
+    "district": {
+      "districtNumber": 147,
+      "oikTvd": "100100225883631"
+    }
   },
   {
     "uikNumber": 827,
     "uikTvd": "4584021398997",
     "tikTvd": "25820001085606",
-    "tikName": "Нижнеломовская"
+    "tikName": "Нижнеломовская",
+    "uikName": "УИК №827",
+    "regionCode": "58",
+    "regionTvd": "100100225883629",
+    "regionName": "Пензенская область",
+    "oikTvd": "100100225883631",
+    "oikName": "Пензенская область – Лермонтовский",
+    "district": {
+      "districtNumber": 147,
+      "oikTvd": "100100225883631"
+    }
   },
   {
     "uikNumber": 828,
     "uikTvd": "4584021398998",
     "tikTvd": "25820001085606",
-    "tikName": "Нижнеломовская"
+    "tikName": "Нижнеломовская",
+    "uikName": "УИК №828",
+    "regionCode": "58",
+    "regionTvd": "100100225883629",
+    "regionName": "Пензенская область",
+    "oikTvd": "100100225883631",
+    "oikName": "Пензенская область – Лермонтовский",
+    "district": {
+      "districtNumber": 147,
+      "oikTvd": "100100225883631"
+    }
   },
   {
     "uikNumber": 829,
     "uikTvd": "4584021398999",
     "tikTvd": "25820001085606",
-    "tikName": "Нижнеломовская"
+    "tikName": "Нижнеломовская",
+    "uikName": "УИК №829",
+    "regionCode": "58",
+    "regionTvd": "100100225883629",
+    "regionName": "Пензенская область",
+    "oikTvd": "100100225883631",
+    "oikName": "Пензенская область – Лермонтовский",
+    "district": {
+      "districtNumber": 147,
+      "oikTvd": "100100225883631"
+    }
   },
   {
     "uikNumber": 830,
     "uikTvd": "4584021399000",
     "tikTvd": "25820001085606",
-    "tikName": "Нижнеломовская"
+    "tikName": "Нижнеломовская",
+    "uikName": "УИК №830",
+    "regionCode": "58",
+    "regionTvd": "100100225883629",
+    "regionName": "Пензенская область",
+    "oikTvd": "100100225883631",
+    "oikName": "Пензенская область – Лермонтовский",
+    "district": {
+      "districtNumber": 147,
+      "oikTvd": "100100225883631"
+    }
   },
   {
     "uikNumber": 831,
     "uikTvd": "4584021399001",
     "tikTvd": "25820001085606",
-    "tikName": "Нижнеломовская"
+    "tikName": "Нижнеломовская",
+    "uikName": "УИК №831",
+    "regionCode": "58",
+    "regionTvd": "100100225883629",
+    "regionName": "Пензенская область",
+    "oikTvd": "100100225883631",
+    "oikName": "Пензенская область – Лермонтовский",
+    "district": {
+      "districtNumber": 147,
+      "oikTvd": "100100225883631"
+    }
   },
   {
     "uikNumber": 832,
     "uikTvd": "4584021399002",
     "tikTvd": "25820001085606",
-    "tikName": "Нижнеломовская"
+    "tikName": "Нижнеломовская",
+    "uikName": "УИК №832",
+    "regionCode": "58",
+    "regionTvd": "100100225883629",
+    "regionName": "Пензенская область",
+    "oikTvd": "100100225883631",
+    "oikName": "Пензенская область – Лермонтовский",
+    "district": {
+      "districtNumber": 147,
+      "oikTvd": "100100225883631"
+    }
   },
   {
     "uikNumber": 833,
     "uikTvd": "4584021399003",
     "tikTvd": "25820001085606",
-    "tikName": "Нижнеломовская"
+    "tikName": "Нижнеломовская",
+    "uikName": "УИК №833",
+    "regionCode": "58",
+    "regionTvd": "100100225883629",
+    "regionName": "Пензенская область",
+    "oikTvd": "100100225883631",
+    "oikName": "Пензенская область – Лермонтовский",
+    "district": {
+      "districtNumber": 147,
+      "oikTvd": "100100225883631"
+    }
   },
   {
     "uikNumber": 834,
     "uikTvd": "4584022224109",
     "tikTvd": "25820001085591",
-    "tikName": "Никольская"
+    "tikName": "Никольская",
+    "uikName": "УИК №834",
+    "regionCode": "58",
+    "regionTvd": "100100225883629",
+    "regionName": "Пензенская область",
+    "oikTvd": "100100225883630",
+    "oikName": "Пензенская область – Пензенский",
+    "district": {
+      "districtNumber": 146,
+      "oikTvd": "100100225883630"
+    }
   },
   {
     "uikNumber": 835,
     "uikTvd": "4584022224110",
     "tikTvd": "25820001085591",
-    "tikName": "Никольская"
+    "tikName": "Никольская",
+    "uikName": "УИК №835",
+    "regionCode": "58",
+    "regionTvd": "100100225883629",
+    "regionName": "Пензенская область",
+    "oikTvd": "100100225883630",
+    "oikName": "Пензенская область – Пензенский",
+    "district": {
+      "districtNumber": 146,
+      "oikTvd": "100100225883630"
+    }
   },
   {
     "uikNumber": 836,
     "uikTvd": "4584022224111",
     "tikTvd": "25820001085591",
-    "tikName": "Никольская"
+    "tikName": "Никольская",
+    "uikName": "УИК №836",
+    "regionCode": "58",
+    "regionTvd": "100100225883629",
+    "regionName": "Пензенская область",
+    "oikTvd": "100100225883630",
+    "oikName": "Пензенская область – Пензенский",
+    "district": {
+      "districtNumber": 146,
+      "oikTvd": "100100225883630"
+    }
   },
   {
     "uikNumber": 837,
     "uikTvd": "4584022224112",
     "tikTvd": "25820001085591",
-    "tikName": "Никольская"
+    "tikName": "Никольская",
+    "uikName": "УИК №837",
+    "regionCode": "58",
+    "regionTvd": "100100225883629",
+    "regionName": "Пензенская область",
+    "oikTvd": "100100225883630",
+    "oikName": "Пензенская область – Пензенский",
+    "district": {
+      "districtNumber": 146,
+      "oikTvd": "100100225883630"
+    }
   },
   {
     "uikNumber": 838,
     "uikTvd": "4584022224113",
     "tikTvd": "25820001085591",
-    "tikName": "Никольская"
+    "tikName": "Никольская",
+    "uikName": "УИК №838",
+    "regionCode": "58",
+    "regionTvd": "100100225883629",
+    "regionName": "Пензенская область",
+    "oikTvd": "100100225883630",
+    "oikName": "Пензенская область – Пензенский",
+    "district": {
+      "districtNumber": 146,
+      "oikTvd": "100100225883630"
+    }
   },
   {
     "uikNumber": 839,
     "uikTvd": "4584022224114",
     "tikTvd": "25820001085591",
-    "tikName": "Никольская"
+    "tikName": "Никольская",
+    "uikName": "УИК №839",
+    "regionCode": "58",
+    "regionTvd": "100100225883629",
+    "regionName": "Пензенская область",
+    "oikTvd": "100100225883630",
+    "oikName": "Пензенская область – Пензенский",
+    "district": {
+      "districtNumber": 146,
+      "oikTvd": "100100225883630"
+    }
   },
   {
     "uikNumber": 840,
     "uikTvd": "4584022224115",
     "tikTvd": "25820001085591",
-    "tikName": "Никольская"
+    "tikName": "Никольская",
+    "uikName": "УИК №840",
+    "regionCode": "58",
+    "regionTvd": "100100225883629",
+    "regionName": "Пензенская область",
+    "oikTvd": "100100225883630",
+    "oikName": "Пензенская область – Пензенский",
+    "district": {
+      "districtNumber": 146,
+      "oikTvd": "100100225883630"
+    }
   },
   {
     "uikNumber": 841,
     "uikTvd": "4584022224116",
     "tikTvd": "25820001085591",
-    "tikName": "Никольская"
+    "tikName": "Никольская",
+    "uikName": "УИК №841",
+    "regionCode": "58",
+    "regionTvd": "100100225883629",
+    "regionName": "Пензенская область",
+    "oikTvd": "100100225883630",
+    "oikName": "Пензенская область – Пензенский",
+    "district": {
+      "districtNumber": 146,
+      "oikTvd": "100100225883630"
+    }
   },
   {
     "uikNumber": 842,
     "uikTvd": "4584022224117",
     "tikTvd": "25820001085591",
-    "tikName": "Никольская"
+    "tikName": "Никольская",
+    "uikName": "УИК №842",
+    "regionCode": "58",
+    "regionTvd": "100100225883629",
+    "regionName": "Пензенская область",
+    "oikTvd": "100100225883630",
+    "oikName": "Пензенская область – Пензенский",
+    "district": {
+      "districtNumber": 146,
+      "oikTvd": "100100225883630"
+    }
   },
   {
     "uikNumber": 843,
     "uikTvd": "4584022224118",
     "tikTvd": "25820001085591",
-    "tikName": "Никольская"
+    "tikName": "Никольская",
+    "uikName": "УИК №843",
+    "regionCode": "58",
+    "regionTvd": "100100225883629",
+    "regionName": "Пензенская область",
+    "oikTvd": "100100225883630",
+    "oikName": "Пензенская область – Пензенский",
+    "district": {
+      "districtNumber": 146,
+      "oikTvd": "100100225883630"
+    }
   },
   {
     "uikNumber": 844,
     "uikTvd": "4584022224119",
     "tikTvd": "25820001085591",
-    "tikName": "Никольская"
+    "tikName": "Никольская",
+    "uikName": "УИК №844",
+    "regionCode": "58",
+    "regionTvd": "100100225883629",
+    "regionName": "Пензенская область",
+    "oikTvd": "100100225883630",
+    "oikName": "Пензенская область – Пензенский",
+    "district": {
+      "districtNumber": 146,
+      "oikTvd": "100100225883630"
+    }
   },
   {
     "uikNumber": 845,
     "uikTvd": "4584022224120",
     "tikTvd": "25820001085591",
-    "tikName": "Никольская"
+    "tikName": "Никольская",
+    "uikName": "УИК №845",
+    "regionCode": "58",
+    "regionTvd": "100100225883629",
+    "regionName": "Пензенская область",
+    "oikTvd": "100100225883630",
+    "oikName": "Пензенская область – Пензенский",
+    "district": {
+      "districtNumber": 146,
+      "oikTvd": "100100225883630"
+    }
   },
   {
     "uikNumber": 846,
     "uikTvd": "4584022224121",
     "tikTvd": "25820001085591",
-    "tikName": "Никольская"
+    "tikName": "Никольская",
+    "uikName": "УИК №846",
+    "regionCode": "58",
+    "regionTvd": "100100225883629",
+    "regionName": "Пензенская область",
+    "oikTvd": "100100225883630",
+    "oikName": "Пензенская область – Пензенский",
+    "district": {
+      "districtNumber": 146,
+      "oikTvd": "100100225883630"
+    }
   },
   {
     "uikNumber": 847,
     "uikTvd": "4584022224122",
     "tikTvd": "25820001085591",
-    "tikName": "Никольская"
+    "tikName": "Никольская",
+    "uikName": "УИК №847",
+    "regionCode": "58",
+    "regionTvd": "100100225883629",
+    "regionName": "Пензенская область",
+    "oikTvd": "100100225883630",
+    "oikName": "Пензенская область – Пензенский",
+    "district": {
+      "districtNumber": 146,
+      "oikTvd": "100100225883630"
+    }
   },
   {
     "uikNumber": 848,
     "uikTvd": "4584022224123",
     "tikTvd": "25820001085591",
-    "tikName": "Никольская"
+    "tikName": "Никольская",
+    "uikName": "УИК №848",
+    "regionCode": "58",
+    "regionTvd": "100100225883629",
+    "regionName": "Пензенская область",
+    "oikTvd": "100100225883630",
+    "oikName": "Пензенская область – Пензенский",
+    "district": {
+      "districtNumber": 146,
+      "oikTvd": "100100225883630"
+    }
   },
   {
     "uikNumber": 849,
     "uikTvd": "4584022224124",
     "tikTvd": "25820001085591",
-    "tikName": "Никольская"
+    "tikName": "Никольская",
+    "uikName": "УИК №849",
+    "regionCode": "58",
+    "regionTvd": "100100225883629",
+    "regionName": "Пензенская область",
+    "oikTvd": "100100225883630",
+    "oikName": "Пензенская область – Пензенский",
+    "district": {
+      "districtNumber": 146,
+      "oikTvd": "100100225883630"
+    }
   },
   {
     "uikNumber": 850,
     "uikTvd": "4584022224125",
     "tikTvd": "25820001085591",
-    "tikName": "Никольская"
+    "tikName": "Никольская",
+    "uikName": "УИК №850",
+    "regionCode": "58",
+    "regionTvd": "100100225883629",
+    "regionName": "Пензенская область",
+    "oikTvd": "100100225883630",
+    "oikName": "Пензенская область – Пензенский",
+    "district": {
+      "districtNumber": 146,
+      "oikTvd": "100100225883630"
+    }
   },
   {
     "uikNumber": 851,
     "uikTvd": "4584022224126",
     "tikTvd": "25820001085591",
-    "tikName": "Никольская"
+    "tikName": "Никольская",
+    "uikName": "УИК №851",
+    "regionCode": "58",
+    "regionTvd": "100100225883629",
+    "regionName": "Пензенская область",
+    "oikTvd": "100100225883630",
+    "oikName": "Пензенская область – Пензенский",
+    "district": {
+      "districtNumber": 146,
+      "oikTvd": "100100225883630"
+    }
   },
   {
     "uikNumber": 852,
     "uikTvd": "4584022224127",
     "tikTvd": "25820001085591",
-    "tikName": "Никольская"
+    "tikName": "Никольская",
+    "uikName": "УИК №852",
+    "regionCode": "58",
+    "regionTvd": "100100225883629",
+    "regionName": "Пензенская область",
+    "oikTvd": "100100225883630",
+    "oikName": "Пензенская область – Пензенский",
+    "district": {
+      "districtNumber": 146,
+      "oikTvd": "100100225883630"
+    }
   },
   {
     "uikNumber": 853,
     "uikTvd": "4584022224128",
     "tikTvd": "25820001085591",
-    "tikName": "Никольская"
+    "tikName": "Никольская",
+    "uikName": "УИК №853",
+    "regionCode": "58",
+    "regionTvd": "100100225883629",
+    "regionName": "Пензенская область",
+    "oikTvd": "100100225883630",
+    "oikName": "Пензенская область – Пензенский",
+    "district": {
+      "districtNumber": 146,
+      "oikTvd": "100100225883630"
+    }
   },
   {
     "uikNumber": 854,
     "uikTvd": "4584022224129",
     "tikTvd": "25820001085591",
-    "tikName": "Никольская"
+    "tikName": "Никольская",
+    "uikName": "УИК №854",
+    "regionCode": "58",
+    "regionTvd": "100100225883629",
+    "regionName": "Пензенская область",
+    "oikTvd": "100100225883630",
+    "oikName": "Пензенская область – Пензенский",
+    "district": {
+      "districtNumber": 146,
+      "oikTvd": "100100225883630"
+    }
   },
   {
     "uikNumber": 855,
     "uikTvd": "4584022224130",
     "tikTvd": "25820001085591",
-    "tikName": "Никольская"
+    "tikName": "Никольская",
+    "uikName": "УИК №855",
+    "regionCode": "58",
+    "regionTvd": "100100225883629",
+    "regionName": "Пензенская область",
+    "oikTvd": "100100225883630",
+    "oikName": "Пензенская область – Пензенский",
+    "district": {
+      "districtNumber": 146,
+      "oikTvd": "100100225883630"
+    }
   },
   {
     "uikNumber": 856,
     "uikTvd": "4584022224131",
     "tikTvd": "25820001085591",
-    "tikName": "Никольская"
+    "tikName": "Никольская",
+    "uikName": "УИК №856",
+    "regionCode": "58",
+    "regionTvd": "100100225883629",
+    "regionName": "Пензенская область",
+    "oikTvd": "100100225883630",
+    "oikName": "Пензенская область – Пензенский",
+    "district": {
+      "districtNumber": 146,
+      "oikTvd": "100100225883630"
+    }
   },
   {
     "uikNumber": 857,
     "uikTvd": "4584022224132",
     "tikTvd": "25820001085591",
-    "tikName": "Никольская"
+    "tikName": "Никольская",
+    "uikName": "УИК №857",
+    "regionCode": "58",
+    "regionTvd": "100100225883629",
+    "regionName": "Пензенская область",
+    "oikTvd": "100100225883630",
+    "oikName": "Пензенская область – Пензенский",
+    "district": {
+      "districtNumber": 146,
+      "oikTvd": "100100225883630"
+    }
   },
   {
     "uikNumber": 858,
     "uikTvd": "4584022224133",
     "tikTvd": "25820001085591",
-    "tikName": "Никольская"
+    "tikName": "Никольская",
+    "uikName": "УИК №858",
+    "regionCode": "58",
+    "regionTvd": "100100225883629",
+    "regionName": "Пензенская область",
+    "oikTvd": "100100225883630",
+    "oikName": "Пензенская область – Пензенский",
+    "district": {
+      "districtNumber": 146,
+      "oikTvd": "100100225883630"
+    }
   },
   {
     "uikNumber": 859,
     "uikTvd": "4584022224134",
     "tikTvd": "25820001085591",
-    "tikName": "Никольская"
+    "tikName": "Никольская",
+    "uikName": "УИК №859",
+    "regionCode": "58",
+    "regionTvd": "100100225883629",
+    "regionName": "Пензенская область",
+    "oikTvd": "100100225883630",
+    "oikName": "Пензенская область – Пензенский",
+    "district": {
+      "districtNumber": 146,
+      "oikTvd": "100100225883630"
+    }
   },
   {
     "uikNumber": 860,
     "uikTvd": "4584022224135",
     "tikTvd": "25820001085591",
-    "tikName": "Никольская"
+    "tikName": "Никольская",
+    "uikName": "УИК №860",
+    "regionCode": "58",
+    "regionTvd": "100100225883629",
+    "regionName": "Пензенская область",
+    "oikTvd": "100100225883630",
+    "oikName": "Пензенская область – Пензенский",
+    "district": {
+      "districtNumber": 146,
+      "oikTvd": "100100225883630"
+    }
   },
   {
     "uikNumber": 861,
     "uikTvd": "4584022224136",
     "tikTvd": "25820001085591",
-    "tikName": "Никольская"
+    "tikName": "Никольская",
+    "uikName": "УИК №861",
+    "regionCode": "58",
+    "regionTvd": "100100225883629",
+    "regionName": "Пензенская область",
+    "oikTvd": "100100225883630",
+    "oikName": "Пензенская область – Пензенский",
+    "district": {
+      "districtNumber": 146,
+      "oikTvd": "100100225883630"
+    }
   },
   {
     "uikNumber": 862,
     "uikTvd": "4584022224137",
     "tikTvd": "25820001085591",
-    "tikName": "Никольская"
+    "tikName": "Никольская",
+    "uikName": "УИК №862",
+    "regionCode": "58",
+    "regionTvd": "100100225883629",
+    "regionName": "Пензенская область",
+    "oikTvd": "100100225883630",
+    "oikName": "Пензенская область – Пензенский",
+    "district": {
+      "districtNumber": 146,
+      "oikTvd": "100100225883630"
+    }
   },
   {
     "uikNumber": 863,
     "uikTvd": "4584022224138",
     "tikTvd": "25820001085591",
-    "tikName": "Никольская"
+    "tikName": "Никольская",
+    "uikName": "УИК №863",
+    "regionCode": "58",
+    "regionTvd": "100100225883629",
+    "regionName": "Пензенская область",
+    "oikTvd": "100100225883630",
+    "oikName": "Пензенская область – Пензенский",
+    "district": {
+      "districtNumber": 146,
+      "oikTvd": "100100225883630"
+    }
   },
   {
     "uikNumber": 864,
     "uikTvd": "4584022224139",
     "tikTvd": "25820001085591",
-    "tikName": "Никольская"
+    "tikName": "Никольская",
+    "uikName": "УИК №864",
+    "regionCode": "58",
+    "regionTvd": "100100225883629",
+    "regionName": "Пензенская область",
+    "oikTvd": "100100225883630",
+    "oikName": "Пензенская область – Пензенский",
+    "district": {
+      "districtNumber": 146,
+      "oikTvd": "100100225883630"
+    }
   },
   {
     "uikNumber": 865,
     "uikTvd": "4584022224140",
     "tikTvd": "25820001085591",
-    "tikName": "Никольская"
+    "tikName": "Никольская",
+    "uikName": "УИК №865",
+    "regionCode": "58",
+    "regionTvd": "100100225883629",
+    "regionName": "Пензенская область",
+    "oikTvd": "100100225883630",
+    "oikName": "Пензенская область – Пензенский",
+    "district": {
+      "districtNumber": 146,
+      "oikTvd": "100100225883630"
+    }
   },
   {
     "uikNumber": 866,
     "uikTvd": "4584022224141",
     "tikTvd": "25820001085591",
-    "tikName": "Никольская"
+    "tikName": "Никольская",
+    "uikName": "УИК №866",
+    "regionCode": "58",
+    "regionTvd": "100100225883629",
+    "regionName": "Пензенская область",
+    "oikTvd": "100100225883630",
+    "oikName": "Пензенская область – Пензенский",
+    "district": {
+      "districtNumber": 146,
+      "oikTvd": "100100225883630"
+    }
   },
   {
     "uikNumber": 867,
     "uikTvd": "4584022224142",
     "tikTvd": "25820001085591",
-    "tikName": "Никольская"
+    "tikName": "Никольская",
+    "uikName": "УИК №867",
+    "regionCode": "58",
+    "regionTvd": "100100225883629",
+    "regionName": "Пензенская область",
+    "oikTvd": "100100225883630",
+    "oikName": "Пензенская область – Пензенский",
+    "district": {
+      "districtNumber": 146,
+      "oikTvd": "100100225883630"
+    }
   },
   {
     "uikNumber": 868,
     "uikTvd": "4584023214402",
     "tikTvd": "25820001085605",
-    "tikName": "Пачелмская"
+    "tikName": "Пачелмская",
+    "uikName": "УИК №868",
+    "regionCode": "58",
+    "regionTvd": "100100225883629",
+    "regionName": "Пензенская область",
+    "oikTvd": "100100225883631",
+    "oikName": "Пензенская область – Лермонтовский",
+    "district": {
+      "districtNumber": 147,
+      "oikTvd": "100100225883631"
+    }
   },
   {
     "uikNumber": 869,
     "uikTvd": "4584023214403",
     "tikTvd": "25820001085605",
-    "tikName": "Пачелмская"
+    "tikName": "Пачелмская",
+    "uikName": "УИК №869",
+    "regionCode": "58",
+    "regionTvd": "100100225883629",
+    "regionName": "Пензенская область",
+    "oikTvd": "100100225883631",
+    "oikName": "Пензенская область – Лермонтовский",
+    "district": {
+      "districtNumber": 147,
+      "oikTvd": "100100225883631"
+    }
   },
   {
     "uikNumber": 870,
     "uikTvd": "4584023214404",
     "tikTvd": "25820001085605",
-    "tikName": "Пачелмская"
+    "tikName": "Пачелмская",
+    "uikName": "УИК №870",
+    "regionCode": "58",
+    "regionTvd": "100100225883629",
+    "regionName": "Пензенская область",
+    "oikTvd": "100100225883631",
+    "oikName": "Пензенская область – Лермонтовский",
+    "district": {
+      "districtNumber": 147,
+      "oikTvd": "100100225883631"
+    }
   },
   {
     "uikNumber": 871,
     "uikTvd": "4584023214405",
     "tikTvd": "25820001085605",
-    "tikName": "Пачелмская"
+    "tikName": "Пачелмская",
+    "uikName": "УИК №871",
+    "regionCode": "58",
+    "regionTvd": "100100225883629",
+    "regionName": "Пензенская область",
+    "oikTvd": "100100225883631",
+    "oikName": "Пензенская область – Лермонтовский",
+    "district": {
+      "districtNumber": 147,
+      "oikTvd": "100100225883631"
+    }
   },
   {
     "uikNumber": 872,
     "uikTvd": "4584023214406",
     "tikTvd": "25820001085605",
-    "tikName": "Пачелмская"
+    "tikName": "Пачелмская",
+    "uikName": "УИК №872",
+    "regionCode": "58",
+    "regionTvd": "100100225883629",
+    "regionName": "Пензенская область",
+    "oikTvd": "100100225883631",
+    "oikName": "Пензенская область – Лермонтовский",
+    "district": {
+      "districtNumber": 147,
+      "oikTvd": "100100225883631"
+    }
   },
   {
     "uikNumber": 873,
     "uikTvd": "4584023214407",
     "tikTvd": "25820001085605",
-    "tikName": "Пачелмская"
+    "tikName": "Пачелмская",
+    "uikName": "УИК №873",
+    "regionCode": "58",
+    "regionTvd": "100100225883629",
+    "regionName": "Пензенская область",
+    "oikTvd": "100100225883631",
+    "oikName": "Пензенская область – Лермонтовский",
+    "district": {
+      "districtNumber": 147,
+      "oikTvd": "100100225883631"
+    }
   },
   {
     "uikNumber": 874,
     "uikTvd": "4584023214408",
     "tikTvd": "25820001085605",
-    "tikName": "Пачелмская"
+    "tikName": "Пачелмская",
+    "uikName": "УИК №874",
+    "regionCode": "58",
+    "regionTvd": "100100225883629",
+    "regionName": "Пензенская область",
+    "oikTvd": "100100225883631",
+    "oikName": "Пензенская область – Лермонтовский",
+    "district": {
+      "districtNumber": 147,
+      "oikTvd": "100100225883631"
+    }
   },
   {
     "uikNumber": 875,
     "uikTvd": "4584023214409",
     "tikTvd": "25820001085605",
-    "tikName": "Пачелмская"
+    "tikName": "Пачелмская",
+    "uikName": "УИК №875",
+    "regionCode": "58",
+    "regionTvd": "100100225883629",
+    "regionName": "Пензенская область",
+    "oikTvd": "100100225883631",
+    "oikName": "Пензенская область – Лермонтовский",
+    "district": {
+      "districtNumber": 147,
+      "oikTvd": "100100225883631"
+    }
   },
   {
     "uikNumber": 876,
     "uikTvd": "4584023214410",
     "tikTvd": "25820001085605",
-    "tikName": "Пачелмская"
+    "tikName": "Пачелмская",
+    "uikName": "УИК №876",
+    "regionCode": "58",
+    "regionTvd": "100100225883629",
+    "regionName": "Пензенская область",
+    "oikTvd": "100100225883631",
+    "oikName": "Пензенская область – Лермонтовский",
+    "district": {
+      "districtNumber": 147,
+      "oikTvd": "100100225883631"
+    }
   },
   {
     "uikNumber": 877,
     "uikTvd": "4584023214411",
     "tikTvd": "25820001085605",
-    "tikName": "Пачелмская"
+    "tikName": "Пачелмская",
+    "uikName": "УИК №877",
+    "regionCode": "58",
+    "regionTvd": "100100225883629",
+    "regionName": "Пензенская область",
+    "oikTvd": "100100225883631",
+    "oikName": "Пензенская область – Лермонтовский",
+    "district": {
+      "districtNumber": 147,
+      "oikTvd": "100100225883631"
+    }
   },
   {
     "uikNumber": 878,
     "uikTvd": "4584023214412",
     "tikTvd": "25820001085605",
-    "tikName": "Пачелмская"
+    "tikName": "Пачелмская",
+    "uikName": "УИК №878",
+    "regionCode": "58",
+    "regionTvd": "100100225883629",
+    "regionName": "Пензенская область",
+    "oikTvd": "100100225883631",
+    "oikName": "Пензенская область – Лермонтовский",
+    "district": {
+      "districtNumber": 147,
+      "oikTvd": "100100225883631"
+    }
   },
   {
     "uikNumber": 879,
     "uikTvd": "4584023214413",
     "tikTvd": "25820001085605",
-    "tikName": "Пачелмская"
+    "tikName": "Пачелмская",
+    "uikName": "УИК №879",
+    "regionCode": "58",
+    "regionTvd": "100100225883629",
+    "regionName": "Пензенская область",
+    "oikTvd": "100100225883631",
+    "oikName": "Пензенская область – Лермонтовский",
+    "district": {
+      "districtNumber": 147,
+      "oikTvd": "100100225883631"
+    }
   },
   {
     "uikNumber": 880,
     "uikTvd": "4584023214414",
     "tikTvd": "25820001085605",
-    "tikName": "Пачелмская"
+    "tikName": "Пачелмская",
+    "uikName": "УИК №880",
+    "regionCode": "58",
+    "regionTvd": "100100225883629",
+    "regionName": "Пензенская область",
+    "oikTvd": "100100225883631",
+    "oikName": "Пензенская область – Лермонтовский",
+    "district": {
+      "districtNumber": 147,
+      "oikTvd": "100100225883631"
+    }
   },
   {
     "uikNumber": 881,
     "uikTvd": "4584023214415",
     "tikTvd": "25820001085605",
-    "tikName": "Пачелмская"
+    "tikName": "Пачелмская",
+    "uikName": "УИК №881",
+    "regionCode": "58",
+    "regionTvd": "100100225883629",
+    "regionName": "Пензенская область",
+    "oikTvd": "100100225883631",
+    "oikName": "Пензенская область – Лермонтовский",
+    "district": {
+      "districtNumber": 147,
+      "oikTvd": "100100225883631"
+    }
   },
   {
     "uikNumber": 882,
     "uikTvd": "4584023214416",
     "tikTvd": "25820001085605",
-    "tikName": "Пачелмская"
+    "tikName": "Пачелмская",
+    "uikName": "УИК №882",
+    "regionCode": "58",
+    "regionTvd": "100100225883629",
+    "regionName": "Пензенская область",
+    "oikTvd": "100100225883631",
+    "oikName": "Пензенская область – Лермонтовский",
+    "district": {
+      "districtNumber": 147,
+      "oikTvd": "100100225883631"
+    }
   },
   {
     "uikNumber": 883,
     "uikTvd": "4584023214417",
     "tikTvd": "25820001085605",
-    "tikName": "Пачелмская"
+    "tikName": "Пачелмская",
+    "uikName": "УИК №883",
+    "regionCode": "58",
+    "regionTvd": "100100225883629",
+    "regionName": "Пензенская область",
+    "oikTvd": "100100225883631",
+    "oikName": "Пензенская область – Лермонтовский",
+    "district": {
+      "districtNumber": 147,
+      "oikTvd": "100100225883631"
+    }
   },
   {
     "uikNumber": 884,
     "uikTvd": "4584023214418",
     "tikTvd": "25820001085605",
-    "tikName": "Пачелмская"
+    "tikName": "Пачелмская",
+    "uikName": "УИК №884",
+    "regionCode": "58",
+    "regionTvd": "100100225883629",
+    "regionName": "Пензенская область",
+    "oikTvd": "100100225883631",
+    "oikName": "Пензенская область – Лермонтовский",
+    "district": {
+      "districtNumber": 147,
+      "oikTvd": "100100225883631"
+    }
   },
   {
     "uikNumber": 885,
     "uikTvd": "4584023214419",
     "tikTvd": "25820001085605",
-    "tikName": "Пачелмская"
+    "tikName": "Пачелмская",
+    "uikName": "УИК №885",
+    "regionCode": "58",
+    "regionTvd": "100100225883629",
+    "regionName": "Пензенская область",
+    "oikTvd": "100100225883631",
+    "oikName": "Пензенская область – Лермонтовский",
+    "district": {
+      "districtNumber": 147,
+      "oikTvd": "100100225883631"
+    }
   },
   {
     "uikNumber": 886,
     "uikTvd": "4584023214420",
     "tikTvd": "25820001085605",
-    "tikName": "Пачелмская"
+    "tikName": "Пачелмская",
+    "uikName": "УИК №886",
+    "regionCode": "58",
+    "regionTvd": "100100225883629",
+    "regionName": "Пензенская область",
+    "oikTvd": "100100225883631",
+    "oikName": "Пензенская область – Лермонтовский",
+    "district": {
+      "districtNumber": 147,
+      "oikTvd": "100100225883631"
+    }
   },
   {
     "uikNumber": 887,
     "uikTvd": "4584023214421",
     "tikTvd": "25820001085605",
-    "tikName": "Пачелмская"
+    "tikName": "Пачелмская",
+    "uikName": "УИК №887",
+    "regionCode": "58",
+    "regionTvd": "100100225883629",
+    "regionName": "Пензенская область",
+    "oikTvd": "100100225883631",
+    "oikName": "Пензенская область – Лермонтовский",
+    "district": {
+      "districtNumber": 147,
+      "oikTvd": "100100225883631"
+    }
   },
   {
     "uikNumber": 888,
     "uikTvd": "4584023214422",
     "tikTvd": "25820001085605",
-    "tikName": "Пачелмская"
+    "tikName": "Пачелмская",
+    "uikName": "УИК №888",
+    "regionCode": "58",
+    "regionTvd": "100100225883629",
+    "regionName": "Пензенская область",
+    "oikTvd": "100100225883631",
+    "oikName": "Пензенская область – Лермонтовский",
+    "district": {
+      "districtNumber": 147,
+      "oikTvd": "100100225883631"
+    }
   },
   {
     "uikNumber": 889,
     "uikTvd": "4584023214423",
     "tikTvd": "25820001085605",
-    "tikName": "Пачелмская"
+    "tikName": "Пачелмская",
+    "uikName": "УИК №889",
+    "regionCode": "58",
+    "regionTvd": "100100225883629",
+    "regionName": "Пензенская область",
+    "oikTvd": "100100225883631",
+    "oikName": "Пензенская область – Лермонтовский",
+    "district": {
+      "districtNumber": 147,
+      "oikTvd": "100100225883631"
+    }
   },
   {
     "uikNumber": 890,
     "uikTvd": "4584023214424",
     "tikTvd": "25820001085605",
-    "tikName": "Пачелмская"
+    "tikName": "Пачелмская",
+    "uikName": "УИК №890",
+    "regionCode": "58",
+    "regionTvd": "100100225883629",
+    "regionName": "Пензенская область",
+    "oikTvd": "100100225883631",
+    "oikName": "Пензенская область – Лермонтовский",
+    "district": {
+      "districtNumber": 147,
+      "oikTvd": "100100225883631"
+    }
   },
   {
     "uikNumber": 891,
     "uikTvd": "4584023214425",
     "tikTvd": "25820001085605",
-    "tikName": "Пачелмская"
+    "tikName": "Пачелмская",
+    "uikName": "УИК №891",
+    "regionCode": "58",
+    "regionTvd": "100100225883629",
+    "regionName": "Пензенская область",
+    "oikTvd": "100100225883631",
+    "oikName": "Пензенская область – Лермонтовский",
+    "district": {
+      "districtNumber": 147,
+      "oikTvd": "100100225883631"
+    }
   },
   {
     "uikNumber": 892,
     "uikTvd": "4584029340312",
     "tikTvd": "25820001085590",
-    "tikName": "Пензенская "
+    "tikName": "Пензенская ",
+    "uikName": "УИК №892",
+    "regionCode": "58",
+    "regionTvd": "100100225883629",
+    "regionName": "Пензенская область",
+    "oikTvd": "100100225883630",
+    "oikName": "Пензенская область – Пензенский",
+    "district": {
+      "districtNumber": 146,
+      "oikTvd": "100100225883630"
+    }
   },
   {
     "uikNumber": 893,
     "uikTvd": "4584029340313",
     "tikTvd": "25820001085590",
-    "tikName": "Пензенская "
+    "tikName": "Пензенская ",
+    "uikName": "УИК №893",
+    "regionCode": "58",
+    "regionTvd": "100100225883629",
+    "regionName": "Пензенская область",
+    "oikTvd": "100100225883630",
+    "oikName": "Пензенская область – Пензенский",
+    "district": {
+      "districtNumber": 146,
+      "oikTvd": "100100225883630"
+    }
   },
   {
     "uikNumber": 894,
     "uikTvd": "4584029340314",
     "tikTvd": "25820001085590",
-    "tikName": "Пензенская "
+    "tikName": "Пензенская ",
+    "uikName": "УИК №894",
+    "regionCode": "58",
+    "regionTvd": "100100225883629",
+    "regionName": "Пензенская область",
+    "oikTvd": "100100225883630",
+    "oikName": "Пензенская область – Пензенский",
+    "district": {
+      "districtNumber": 146,
+      "oikTvd": "100100225883630"
+    }
   },
   {
     "uikNumber": 895,
     "uikTvd": "4584029340315",
     "tikTvd": "25820001085590",
-    "tikName": "Пензенская "
+    "tikName": "Пензенская ",
+    "uikName": "УИК №895",
+    "regionCode": "58",
+    "regionTvd": "100100225883629",
+    "regionName": "Пензенская область",
+    "oikTvd": "100100225883630",
+    "oikName": "Пензенская область – Пензенский",
+    "district": {
+      "districtNumber": 146,
+      "oikTvd": "100100225883630"
+    }
   },
   {
     "uikNumber": 896,
     "uikTvd": "4584029340316",
     "tikTvd": "25820001085590",
-    "tikName": "Пензенская "
+    "tikName": "Пензенская ",
+    "uikName": "УИК №896",
+    "regionCode": "58",
+    "regionTvd": "100100225883629",
+    "regionName": "Пензенская область",
+    "oikTvd": "100100225883630",
+    "oikName": "Пензенская область – Пензенский",
+    "district": {
+      "districtNumber": 146,
+      "oikTvd": "100100225883630"
+    }
   },
   {
     "uikNumber": 897,
     "uikTvd": "4584029340317",
     "tikTvd": "25820001085590",
-    "tikName": "Пензенская "
+    "tikName": "Пензенская ",
+    "uikName": "УИК №897",
+    "regionCode": "58",
+    "regionTvd": "100100225883629",
+    "regionName": "Пензенская область",
+    "oikTvd": "100100225883630",
+    "oikName": "Пензенская область – Пензенский",
+    "district": {
+      "districtNumber": 146,
+      "oikTvd": "100100225883630"
+    }
   },
   {
     "uikNumber": 898,
     "uikTvd": "4584029340318",
     "tikTvd": "25820001085590",
-    "tikName": "Пензенская "
+    "tikName": "Пензенская ",
+    "uikName": "УИК №898",
+    "regionCode": "58",
+    "regionTvd": "100100225883629",
+    "regionName": "Пензенская область",
+    "oikTvd": "100100225883630",
+    "oikName": "Пензенская область – Пензенский",
+    "district": {
+      "districtNumber": 146,
+      "oikTvd": "100100225883630"
+    }
   },
   {
     "uikNumber": 899,
     "uikTvd": "4584029340319",
     "tikTvd": "25820001085590",
-    "tikName": "Пензенская "
+    "tikName": "Пензенская ",
+    "uikName": "УИК №899",
+    "regionCode": "58",
+    "regionTvd": "100100225883629",
+    "regionName": "Пензенская область",
+    "oikTvd": "100100225883630",
+    "oikName": "Пензенская область – Пензенский",
+    "district": {
+      "districtNumber": 146,
+      "oikTvd": "100100225883630"
+    }
   },
   {
     "uikNumber": 900,
     "uikTvd": "4584029340320",
     "tikTvd": "25820001085590",
-    "tikName": "Пензенская "
+    "tikName": "Пензенская ",
+    "uikName": "УИК №900",
+    "regionCode": "58",
+    "regionTvd": "100100225883629",
+    "regionName": "Пензенская область",
+    "oikTvd": "100100225883630",
+    "oikName": "Пензенская область – Пензенский",
+    "district": {
+      "districtNumber": 146,
+      "oikTvd": "100100225883630"
+    }
   },
   {
     "uikNumber": 901,
     "uikTvd": "4584029340321",
     "tikTvd": "25820001085590",
-    "tikName": "Пензенская "
+    "tikName": "Пензенская ",
+    "uikName": "УИК №901",
+    "regionCode": "58",
+    "regionTvd": "100100225883629",
+    "regionName": "Пензенская область",
+    "oikTvd": "100100225883630",
+    "oikName": "Пензенская область – Пензенский",
+    "district": {
+      "districtNumber": 146,
+      "oikTvd": "100100225883630"
+    }
   },
   {
     "uikNumber": 902,
     "uikTvd": "4584029340322",
     "tikTvd": "25820001085590",
-    "tikName": "Пензенская "
+    "tikName": "Пензенская ",
+    "uikName": "УИК №902",
+    "regionCode": "58",
+    "regionTvd": "100100225883629",
+    "regionName": "Пензенская область",
+    "oikTvd": "100100225883630",
+    "oikName": "Пензенская область – Пензенский",
+    "district": {
+      "districtNumber": 146,
+      "oikTvd": "100100225883630"
+    }
   },
   {
     "uikNumber": 903,
     "uikTvd": "4584029340323",
     "tikTvd": "25820001085590",
-    "tikName": "Пензенская "
+    "tikName": "Пензенская ",
+    "uikName": "УИК №903",
+    "regionCode": "58",
+    "regionTvd": "100100225883629",
+    "regionName": "Пензенская область",
+    "oikTvd": "100100225883630",
+    "oikName": "Пензенская область – Пензенский",
+    "district": {
+      "districtNumber": 146,
+      "oikTvd": "100100225883630"
+    }
   },
   {
     "uikNumber": 904,
     "uikTvd": "4584029340324",
     "tikTvd": "25820001085590",
-    "tikName": "Пензенская "
+    "tikName": "Пензенская ",
+    "uikName": "УИК №904",
+    "regionCode": "58",
+    "regionTvd": "100100225883629",
+    "regionName": "Пензенская область",
+    "oikTvd": "100100225883630",
+    "oikName": "Пензенская область – Пензенский",
+    "district": {
+      "districtNumber": 146,
+      "oikTvd": "100100225883630"
+    }
   },
   {
     "uikNumber": 905,
     "uikTvd": "4584029340325",
     "tikTvd": "25820001085590",
-    "tikName": "Пензенская "
+    "tikName": "Пензенская ",
+    "uikName": "УИК №905",
+    "regionCode": "58",
+    "regionTvd": "100100225883629",
+    "regionName": "Пензенская область",
+    "oikTvd": "100100225883630",
+    "oikName": "Пензенская область – Пензенский",
+    "district": {
+      "districtNumber": 146,
+      "oikTvd": "100100225883630"
+    }
   },
   {
     "uikNumber": 906,
     "uikTvd": "4584029340326",
     "tikTvd": "25820001085590",
-    "tikName": "Пензенская "
+    "tikName": "Пензенская ",
+    "uikName": "УИК №906",
+    "regionCode": "58",
+    "regionTvd": "100100225883629",
+    "regionName": "Пензенская область",
+    "oikTvd": "100100225883630",
+    "oikName": "Пензенская область – Пензенский",
+    "district": {
+      "districtNumber": 146,
+      "oikTvd": "100100225883630"
+    }
   },
   {
     "uikNumber": 908,
     "uikTvd": "4584029340327",
     "tikTvd": "25820001085590",
-    "tikName": "Пензенская "
+    "tikName": "Пензенская ",
+    "uikName": "УИК №908",
+    "regionCode": "58",
+    "regionTvd": "100100225883629",
+    "regionName": "Пензенская область",
+    "oikTvd": "100100225883630",
+    "oikName": "Пензенская область – Пензенский",
+    "district": {
+      "districtNumber": 146,
+      "oikTvd": "100100225883630"
+    }
   },
   {
     "uikNumber": 909,
     "uikTvd": "4584029340328",
     "tikTvd": "25820001085590",
-    "tikName": "Пензенская "
+    "tikName": "Пензенская ",
+    "uikName": "УИК №909",
+    "regionCode": "58",
+    "regionTvd": "100100225883629",
+    "regionName": "Пензенская область",
+    "oikTvd": "100100225883630",
+    "oikName": "Пензенская область – Пензенский",
+    "district": {
+      "districtNumber": 146,
+      "oikTvd": "100100225883630"
+    }
   },
   {
     "uikNumber": 910,
     "uikTvd": "4584029340329",
     "tikTvd": "25820001085590",
-    "tikName": "Пензенская "
+    "tikName": "Пензенская ",
+    "uikName": "УИК №910",
+    "regionCode": "58",
+    "regionTvd": "100100225883629",
+    "regionName": "Пензенская область",
+    "oikTvd": "100100225883630",
+    "oikName": "Пензенская область – Пензенский",
+    "district": {
+      "districtNumber": 146,
+      "oikTvd": "100100225883630"
+    }
   },
   {
     "uikNumber": 911,
     "uikTvd": "4584029340330",
     "tikTvd": "25820001085590",
-    "tikName": "Пензенская "
+    "tikName": "Пензенская ",
+    "uikName": "УИК №911",
+    "regionCode": "58",
+    "regionTvd": "100100225883629",
+    "regionName": "Пензенская область",
+    "oikTvd": "100100225883630",
+    "oikName": "Пензенская область – Пензенский",
+    "district": {
+      "districtNumber": 146,
+      "oikTvd": "100100225883630"
+    }
   },
   {
     "uikNumber": 912,
     "uikTvd": "4584029340331",
     "tikTvd": "25820001085590",
-    "tikName": "Пензенская "
+    "tikName": "Пензенская ",
+    "uikName": "УИК №912",
+    "regionCode": "58",
+    "regionTvd": "100100225883629",
+    "regionName": "Пензенская область",
+    "oikTvd": "100100225883630",
+    "oikName": "Пензенская область – Пензенский",
+    "district": {
+      "districtNumber": 146,
+      "oikTvd": "100100225883630"
+    }
   },
   {
     "uikNumber": 913,
     "uikTvd": "4584029340332",
     "tikTvd": "25820001085590",
-    "tikName": "Пензенская "
+    "tikName": "Пензенская ",
+    "uikName": "УИК №913",
+    "regionCode": "58",
+    "regionTvd": "100100225883629",
+    "regionName": "Пензенская область",
+    "oikTvd": "100100225883630",
+    "oikName": "Пензенская область – Пензенский",
+    "district": {
+      "districtNumber": 146,
+      "oikTvd": "100100225883630"
+    }
   },
   {
     "uikNumber": 914,
     "uikTvd": "4584029340333",
     "tikTvd": "25820001085590",
-    "tikName": "Пензенская "
+    "tikName": "Пензенская ",
+    "uikName": "УИК №914",
+    "regionCode": "58",
+    "regionTvd": "100100225883629",
+    "regionName": "Пензенская область",
+    "oikTvd": "100100225883630",
+    "oikName": "Пензенская область – Пензенский",
+    "district": {
+      "districtNumber": 146,
+      "oikTvd": "100100225883630"
+    }
   },
   {
     "uikNumber": 915,
     "uikTvd": "4584029340334",
     "tikTvd": "25820001085590",
-    "tikName": "Пензенская "
+    "tikName": "Пензенская ",
+    "uikName": "УИК №915",
+    "regionCode": "58",
+    "regionTvd": "100100225883629",
+    "regionName": "Пензенская область",
+    "oikTvd": "100100225883630",
+    "oikName": "Пензенская область – Пензенский",
+    "district": {
+      "districtNumber": 146,
+      "oikTvd": "100100225883630"
+    }
   },
   {
     "uikNumber": 916,
     "uikTvd": "4584029340335",
     "tikTvd": "25820001085590",
-    "tikName": "Пензенская "
+    "tikName": "Пензенская ",
+    "uikName": "УИК №916",
+    "regionCode": "58",
+    "regionTvd": "100100225883629",
+    "regionName": "Пензенская область",
+    "oikTvd": "100100225883630",
+    "oikName": "Пензенская область – Пензенский",
+    "district": {
+      "districtNumber": 146,
+      "oikTvd": "100100225883630"
+    }
   },
   {
     "uikNumber": 917,
     "uikTvd": "4584029340336",
     "tikTvd": "25820001085590",
-    "tikName": "Пензенская "
+    "tikName": "Пензенская ",
+    "uikName": "УИК №917",
+    "regionCode": "58",
+    "regionTvd": "100100225883629",
+    "regionName": "Пензенская область",
+    "oikTvd": "100100225883630",
+    "oikName": "Пензенская область – Пензенский",
+    "district": {
+      "districtNumber": 146,
+      "oikTvd": "100100225883630"
+    }
   },
   {
     "uikNumber": 918,
     "uikTvd": "4584029340337",
     "tikTvd": "25820001085590",
-    "tikName": "Пензенская "
+    "tikName": "Пензенская ",
+    "uikName": "УИК №918",
+    "regionCode": "58",
+    "regionTvd": "100100225883629",
+    "regionName": "Пензенская область",
+    "oikTvd": "100100225883630",
+    "oikName": "Пензенская область – Пензенский",
+    "district": {
+      "districtNumber": 146,
+      "oikTvd": "100100225883630"
+    }
   },
   {
     "uikNumber": 919,
     "uikTvd": "4584029340338",
     "tikTvd": "25820001085590",
-    "tikName": "Пензенская "
+    "tikName": "Пензенская ",
+    "uikName": "УИК №919",
+    "regionCode": "58",
+    "regionTvd": "100100225883629",
+    "regionName": "Пензенская область",
+    "oikTvd": "100100225883630",
+    "oikName": "Пензенская область – Пензенский",
+    "district": {
+      "districtNumber": 146,
+      "oikTvd": "100100225883630"
+    }
   },
   {
     "uikNumber": 920,
     "uikTvd": "4584029340339",
     "tikTvd": "25820001085590",
-    "tikName": "Пензенская "
+    "tikName": "Пензенская ",
+    "uikName": "УИК №920",
+    "regionCode": "58",
+    "regionTvd": "100100225883629",
+    "regionName": "Пензенская область",
+    "oikTvd": "100100225883630",
+    "oikName": "Пензенская область – Пензенский",
+    "district": {
+      "districtNumber": 146,
+      "oikTvd": "100100225883630"
+    }
   },
   {
     "uikNumber": 921,
     "uikTvd": "4584029340340",
     "tikTvd": "25820001085590",
-    "tikName": "Пензенская "
+    "tikName": "Пензенская ",
+    "uikName": "УИК №921",
+    "regionCode": "58",
+    "regionTvd": "100100225883629",
+    "regionName": "Пензенская область",
+    "oikTvd": "100100225883630",
+    "oikName": "Пензенская область – Пензенский",
+    "district": {
+      "districtNumber": 146,
+      "oikTvd": "100100225883630"
+    }
   },
   {
     "uikNumber": 922,
     "uikTvd": "4584029340341",
     "tikTvd": "25820001085590",
-    "tikName": "Пензенская "
+    "tikName": "Пензенская ",
+    "uikName": "УИК №922",
+    "regionCode": "58",
+    "regionTvd": "100100225883629",
+    "regionName": "Пензенская область",
+    "oikTvd": "100100225883630",
+    "oikName": "Пензенская область – Пензенский",
+    "district": {
+      "districtNumber": 146,
+      "oikTvd": "100100225883630"
+    }
   },
   {
     "uikNumber": 923,
     "uikTvd": "4584029340342",
     "tikTvd": "25820001085590",
-    "tikName": "Пензенская "
+    "tikName": "Пензенская ",
+    "uikName": "УИК №923",
+    "regionCode": "58",
+    "regionTvd": "100100225883629",
+    "regionName": "Пензенская область",
+    "oikTvd": "100100225883630",
+    "oikName": "Пензенская область – Пензенский",
+    "district": {
+      "districtNumber": 146,
+      "oikTvd": "100100225883630"
+    }
   },
   {
     "uikNumber": 924,
     "uikTvd": "4584029340343",
     "tikTvd": "25820001085590",
-    "tikName": "Пензенская "
+    "tikName": "Пензенская ",
+    "uikName": "УИК №924",
+    "regionCode": "58",
+    "regionTvd": "100100225883629",
+    "regionName": "Пензенская область",
+    "oikTvd": "100100225883630",
+    "oikName": "Пензенская область – Пензенский",
+    "district": {
+      "districtNumber": 146,
+      "oikTvd": "100100225883630"
+    }
   },
   {
     "uikNumber": 925,
     "uikTvd": "4584029340344",
     "tikTvd": "25820001085590",
-    "tikName": "Пензенская "
+    "tikName": "Пензенская ",
+    "uikName": "УИК №925",
+    "regionCode": "58",
+    "regionTvd": "100100225883629",
+    "regionName": "Пензенская область",
+    "oikTvd": "100100225883630",
+    "oikName": "Пензенская область – Пензенский",
+    "district": {
+      "districtNumber": 146,
+      "oikTvd": "100100225883630"
+    }
   },
   {
     "uikNumber": 926,
     "uikTvd": "4584029340345",
     "tikTvd": "25820001085590",
-    "tikName": "Пензенская "
+    "tikName": "Пензенская ",
+    "uikName": "УИК №926",
+    "regionCode": "58",
+    "regionTvd": "100100225883629",
+    "regionName": "Пензенская область",
+    "oikTvd": "100100225883630",
+    "oikName": "Пензенская область – Пензенский",
+    "district": {
+      "districtNumber": 146,
+      "oikTvd": "100100225883630"
+    }
   },
   {
     "uikNumber": 927,
     "uikTvd": "4584029340346",
     "tikTvd": "25820001085590",
-    "tikName": "Пензенская "
+    "tikName": "Пензенская ",
+    "uikName": "УИК №927",
+    "regionCode": "58",
+    "regionTvd": "100100225883629",
+    "regionName": "Пензенская область",
+    "oikTvd": "100100225883630",
+    "oikName": "Пензенская область – Пензенский",
+    "district": {
+      "districtNumber": 146,
+      "oikTvd": "100100225883630"
+    }
   },
   {
     "uikNumber": 928,
     "uikTvd": "4584029340347",
     "tikTvd": "25820001085590",
-    "tikName": "Пензенская "
+    "tikName": "Пензенская ",
+    "uikName": "УИК №928",
+    "regionCode": "58",
+    "regionTvd": "100100225883629",
+    "regionName": "Пензенская область",
+    "oikTvd": "100100225883630",
+    "oikName": "Пензенская область – Пензенский",
+    "district": {
+      "districtNumber": 146,
+      "oikTvd": "100100225883630"
+    }
   },
   {
     "uikNumber": 929,
     "uikTvd": "4584029340348",
     "tikTvd": "25820001085590",
-    "tikName": "Пензенская "
+    "tikName": "Пензенская ",
+    "uikName": "УИК №929",
+    "regionCode": "58",
+    "regionTvd": "100100225883629",
+    "regionName": "Пензенская область",
+    "oikTvd": "100100225883630",
+    "oikName": "Пензенская область – Пензенский",
+    "district": {
+      "districtNumber": 146,
+      "oikTvd": "100100225883630"
+    }
   },
   {
     "uikNumber": 930,
     "uikTvd": "4584029340349",
     "tikTvd": "25820001085590",
-    "tikName": "Пензенская "
+    "tikName": "Пензенская ",
+    "uikName": "УИК №930",
+    "regionCode": "58",
+    "regionTvd": "100100225883629",
+    "regionName": "Пензенская область",
+    "oikTvd": "100100225883630",
+    "oikName": "Пензенская область – Пензенский",
+    "district": {
+      "districtNumber": 146,
+      "oikTvd": "100100225883630"
+    }
   },
   {
     "uikNumber": 931,
     "uikTvd": "4584029340350",
     "tikTvd": "25820001085590",
-    "tikName": "Пензенская "
+    "tikName": "Пензенская ",
+    "uikName": "УИК №931",
+    "regionCode": "58",
+    "regionTvd": "100100225883629",
+    "regionName": "Пензенская область",
+    "oikTvd": "100100225883630",
+    "oikName": "Пензенская область – Пензенский",
+    "district": {
+      "districtNumber": 146,
+      "oikTvd": "100100225883630"
+    }
   },
   {
     "uikNumber": 932,
     "uikTvd": "4584029340351",
     "tikTvd": "25820001085590",
-    "tikName": "Пензенская "
+    "tikName": "Пензенская ",
+    "uikName": "УИК №932",
+    "regionCode": "58",
+    "regionTvd": "100100225883629",
+    "regionName": "Пензенская область",
+    "oikTvd": "100100225883630",
+    "oikName": "Пензенская область – Пензенский",
+    "district": {
+      "districtNumber": 146,
+      "oikTvd": "100100225883630"
+    }
   },
   {
     "uikNumber": 933,
     "uikTvd": "4584029340352",
     "tikTvd": "25820001085590",
-    "tikName": "Пензенская "
+    "tikName": "Пензенская ",
+    "uikName": "УИК №933",
+    "regionCode": "58",
+    "regionTvd": "100100225883629",
+    "regionName": "Пензенская область",
+    "oikTvd": "100100225883630",
+    "oikName": "Пензенская область – Пензенский",
+    "district": {
+      "districtNumber": 146,
+      "oikTvd": "100100225883630"
+    }
   },
   {
     "uikNumber": 934,
     "uikTvd": "4584029340353",
     "tikTvd": "25820001085590",
-    "tikName": "Пензенская "
+    "tikName": "Пензенская ",
+    "uikName": "УИК №934",
+    "regionCode": "58",
+    "regionTvd": "100100225883629",
+    "regionName": "Пензенская область",
+    "oikTvd": "100100225883630",
+    "oikName": "Пензенская область – Пензенский",
+    "district": {
+      "districtNumber": 146,
+      "oikTvd": "100100225883630"
+    }
   },
   {
     "uikNumber": 935,
     "uikTvd": "4584029340354",
     "tikTvd": "25820001085590",
-    "tikName": "Пензенская "
+    "tikName": "Пензенская ",
+    "uikName": "УИК №935",
+    "regionCode": "58",
+    "regionTvd": "100100225883629",
+    "regionName": "Пензенская область",
+    "oikTvd": "100100225883630",
+    "oikName": "Пензенская область – Пензенский",
+    "district": {
+      "districtNumber": 146,
+      "oikTvd": "100100225883630"
+    }
   },
   {
     "uikNumber": 936,
     "uikTvd": "4584029340355",
     "tikTvd": "25820001085590",
-    "tikName": "Пензенская "
+    "tikName": "Пензенская ",
+    "uikName": "УИК №936",
+    "regionCode": "58",
+    "regionTvd": "100100225883629",
+    "regionName": "Пензенская область",
+    "oikTvd": "100100225883630",
+    "oikName": "Пензенская область – Пензенский",
+    "district": {
+      "districtNumber": 146,
+      "oikTvd": "100100225883630"
+    }
   },
   {
     "uikNumber": 937,
     "uikTvd": "4584029340356",
     "tikTvd": "25820001085590",
-    "tikName": "Пензенская "
+    "tikName": "Пензенская ",
+    "uikName": "УИК №937",
+    "regionCode": "58",
+    "regionTvd": "100100225883629",
+    "regionName": "Пензенская область",
+    "oikTvd": "100100225883630",
+    "oikName": "Пензенская область – Пензенский",
+    "district": {
+      "districtNumber": 146,
+      "oikTvd": "100100225883630"
+    }
   },
   {
     "uikNumber": 938,
     "uikTvd": "4584029340357",
     "tikTvd": "25820001085590",
-    "tikName": "Пензенская "
+    "tikName": "Пензенская ",
+    "uikName": "УИК №938",
+    "regionCode": "58",
+    "regionTvd": "100100225883629",
+    "regionName": "Пензенская область",
+    "oikTvd": "100100225883630",
+    "oikName": "Пензенская область – Пензенский",
+    "district": {
+      "districtNumber": 146,
+      "oikTvd": "100100225883630"
+    }
   },
   {
     "uikNumber": 939,
     "uikTvd": "4584029340358",
     "tikTvd": "25820001085590",
-    "tikName": "Пензенская "
+    "tikName": "Пензенская ",
+    "uikName": "УИК №939",
+    "regionCode": "58",
+    "regionTvd": "100100225883629",
+    "regionName": "Пензенская область",
+    "oikTvd": "100100225883630",
+    "oikName": "Пензенская область – Пензенский",
+    "district": {
+      "districtNumber": 146,
+      "oikTvd": "100100225883630"
+    }
   },
   {
     "uikNumber": 940,
     "uikTvd": "4584029340359",
     "tikTvd": "25820001085590",
-    "tikName": "Пензенская "
+    "tikName": "Пензенская ",
+    "uikName": "УИК №940",
+    "regionCode": "58",
+    "regionTvd": "100100225883629",
+    "regionName": "Пензенская область",
+    "oikTvd": "100100225883630",
+    "oikName": "Пензенская область – Пензенский",
+    "district": {
+      "districtNumber": 146,
+      "oikTvd": "100100225883630"
+    }
   },
   {
     "uikNumber": 941,
     "uikTvd": "4584029340360",
     "tikTvd": "25820001085590",
-    "tikName": "Пензенская "
+    "tikName": "Пензенская ",
+    "uikName": "УИК №941",
+    "regionCode": "58",
+    "regionTvd": "100100225883629",
+    "regionName": "Пензенская область",
+    "oikTvd": "100100225883630",
+    "oikName": "Пензенская область – Пензенский",
+    "district": {
+      "districtNumber": 146,
+      "oikTvd": "100100225883630"
+    }
   },
   {
     "uikNumber": 942,
     "uikTvd": "4584029340361",
     "tikTvd": "25820001085590",
-    "tikName": "Пензенская "
+    "tikName": "Пензенская ",
+    "uikName": "УИК №942",
+    "regionCode": "58",
+    "regionTvd": "100100225883629",
+    "regionName": "Пензенская область",
+    "oikTvd": "100100225883630",
+    "oikName": "Пензенская область – Пензенский",
+    "district": {
+      "districtNumber": 146,
+      "oikTvd": "100100225883630"
+    }
   },
   {
     "uikNumber": 943,
     "uikTvd": "4584029340362",
     "tikTvd": "25820001085590",
-    "tikName": "Пензенская "
+    "tikName": "Пензенская ",
+    "uikName": "УИК №943",
+    "regionCode": "58",
+    "regionTvd": "100100225883629",
+    "regionName": "Пензенская область",
+    "oikTvd": "100100225883630",
+    "oikName": "Пензенская область – Пензенский",
+    "district": {
+      "districtNumber": 146,
+      "oikTvd": "100100225883630"
+    }
   },
   {
     "uikNumber": 944,
     "uikTvd": "4584029340363",
     "tikTvd": "25820001085590",
-    "tikName": "Пензенская "
+    "tikName": "Пензенская ",
+    "uikName": "УИК №944",
+    "regionCode": "58",
+    "regionTvd": "100100225883629",
+    "regionName": "Пензенская область",
+    "oikTvd": "100100225883630",
+    "oikName": "Пензенская область – Пензенский",
+    "district": {
+      "districtNumber": 146,
+      "oikTvd": "100100225883630"
+    }
   },
   {
     "uikNumber": 945,
     "uikTvd": "4584029340364",
     "tikTvd": "25820001085590",
-    "tikName": "Пензенская "
+    "tikName": "Пензенская ",
+    "uikName": "УИК №945",
+    "regionCode": "58",
+    "regionTvd": "100100225883629",
+    "regionName": "Пензенская область",
+    "oikTvd": "100100225883630",
+    "oikName": "Пензенская область – Пензенский",
+    "district": {
+      "districtNumber": 146,
+      "oikTvd": "100100225883630"
+    }
   },
   {
     "uikNumber": 946,
     "uikTvd": "4584030310157",
     "tikTvd": "25820001085589",
-    "tikName": "Сердобская"
+    "tikName": "Сердобская",
+    "uikName": "УИК №946",
+    "regionCode": "58",
+    "regionTvd": "100100225883629",
+    "regionName": "Пензенская область",
+    "oikTvd": "100100225883630",
+    "oikName": "Пензенская область – Пензенский",
+    "district": {
+      "districtNumber": 146,
+      "oikTvd": "100100225883630"
+    }
   },
   {
     "uikNumber": 947,
     "uikTvd": "4584030310158",
     "tikTvd": "25820001085589",
-    "tikName": "Сердобская"
+    "tikName": "Сердобская",
+    "uikName": "УИК №947",
+    "regionCode": "58",
+    "regionTvd": "100100225883629",
+    "regionName": "Пензенская область",
+    "oikTvd": "100100225883630",
+    "oikName": "Пензенская область – Пензенский",
+    "district": {
+      "districtNumber": 146,
+      "oikTvd": "100100225883630"
+    }
   },
   {
     "uikNumber": 948,
     "uikTvd": "4584030310159",
     "tikTvd": "25820001085589",
-    "tikName": "Сердобская"
+    "tikName": "Сердобская",
+    "uikName": "УИК №948",
+    "regionCode": "58",
+    "regionTvd": "100100225883629",
+    "regionName": "Пензенская область",
+    "oikTvd": "100100225883630",
+    "oikName": "Пензенская область – Пензенский",
+    "district": {
+      "districtNumber": 146,
+      "oikTvd": "100100225883630"
+    }
   },
   {
     "uikNumber": 949,
     "uikTvd": "4584030310160",
     "tikTvd": "25820001085589",
-    "tikName": "Сердобская"
+    "tikName": "Сердобская",
+    "uikName": "УИК №949",
+    "regionCode": "58",
+    "regionTvd": "100100225883629",
+    "regionName": "Пензенская область",
+    "oikTvd": "100100225883630",
+    "oikName": "Пензенская область – Пензенский",
+    "district": {
+      "districtNumber": 146,
+      "oikTvd": "100100225883630"
+    }
   },
   {
     "uikNumber": 950,
     "uikTvd": "4584030310161",
     "tikTvd": "25820001085589",
-    "tikName": "Сердобская"
+    "tikName": "Сердобская",
+    "uikName": "УИК №950",
+    "regionCode": "58",
+    "regionTvd": "100100225883629",
+    "regionName": "Пензенская область",
+    "oikTvd": "100100225883630",
+    "oikName": "Пензенская область – Пензенский",
+    "district": {
+      "districtNumber": 146,
+      "oikTvd": "100100225883630"
+    }
   },
   {
     "uikNumber": 951,
     "uikTvd": "4584030310162",
     "tikTvd": "25820001085589",
-    "tikName": "Сердобская"
+    "tikName": "Сердобская",
+    "uikName": "УИК №951",
+    "regionCode": "58",
+    "regionTvd": "100100225883629",
+    "regionName": "Пензенская область",
+    "oikTvd": "100100225883630",
+    "oikName": "Пензенская область – Пензенский",
+    "district": {
+      "districtNumber": 146,
+      "oikTvd": "100100225883630"
+    }
   },
   {
     "uikNumber": 952,
     "uikTvd": "4584030310163",
     "tikTvd": "25820001085589",
-    "tikName": "Сердобская"
+    "tikName": "Сердобская",
+    "uikName": "УИК №952",
+    "regionCode": "58",
+    "regionTvd": "100100225883629",
+    "regionName": "Пензенская область",
+    "oikTvd": "100100225883630",
+    "oikName": "Пензенская область – Пензенский",
+    "district": {
+      "districtNumber": 146,
+      "oikTvd": "100100225883630"
+    }
   },
   {
     "uikNumber": 953,
     "uikTvd": "4584030310164",
     "tikTvd": "25820001085589",
-    "tikName": "Сердобская"
+    "tikName": "Сердобская",
+    "uikName": "УИК №953",
+    "regionCode": "58",
+    "regionTvd": "100100225883629",
+    "regionName": "Пензенская область",
+    "oikTvd": "100100225883630",
+    "oikName": "Пензенская область – Пензенский",
+    "district": {
+      "districtNumber": 146,
+      "oikTvd": "100100225883630"
+    }
   },
   {
     "uikNumber": 954,
     "uikTvd": "4584030310165",
     "tikTvd": "25820001085589",
-    "tikName": "Сердобская"
+    "tikName": "Сердобская",
+    "uikName": "УИК №954",
+    "regionCode": "58",
+    "regionTvd": "100100225883629",
+    "regionName": "Пензенская область",
+    "oikTvd": "100100225883630",
+    "oikName": "Пензенская область – Пензенский",
+    "district": {
+      "districtNumber": 146,
+      "oikTvd": "100100225883630"
+    }
   },
   {
     "uikNumber": 955,
     "uikTvd": "4584030310166",
     "tikTvd": "25820001085589",
-    "tikName": "Сердобская"
+    "tikName": "Сердобская",
+    "uikName": "УИК №955",
+    "regionCode": "58",
+    "regionTvd": "100100225883629",
+    "regionName": "Пензенская область",
+    "oikTvd": "100100225883630",
+    "oikName": "Пензенская область – Пензенский",
+    "district": {
+      "districtNumber": 146,
+      "oikTvd": "100100225883630"
+    }
   },
   {
     "uikNumber": 956,
     "uikTvd": "4584030310167",
     "tikTvd": "25820001085589",
-    "tikName": "Сердобская"
+    "tikName": "Сердобская",
+    "uikName": "УИК №956",
+    "regionCode": "58",
+    "regionTvd": "100100225883629",
+    "regionName": "Пензенская область",
+    "oikTvd": "100100225883630",
+    "oikName": "Пензенская область – Пензенский",
+    "district": {
+      "districtNumber": 146,
+      "oikTvd": "100100225883630"
+    }
   },
   {
     "uikNumber": 957,
     "uikTvd": "4584030310168",
     "tikTvd": "25820001085589",
-    "tikName": "Сердобская"
+    "tikName": "Сердобская",
+    "uikName": "УИК №957",
+    "regionCode": "58",
+    "regionTvd": "100100225883629",
+    "regionName": "Пензенская область",
+    "oikTvd": "100100225883630",
+    "oikName": "Пензенская область – Пензенский",
+    "district": {
+      "districtNumber": 146,
+      "oikTvd": "100100225883630"
+    }
   },
   {
     "uikNumber": 958,
     "uikTvd": "4584030310169",
     "tikTvd": "25820001085589",
-    "tikName": "Сердобская"
+    "tikName": "Сердобская",
+    "uikName": "УИК №958",
+    "regionCode": "58",
+    "regionTvd": "100100225883629",
+    "regionName": "Пензенская область",
+    "oikTvd": "100100225883630",
+    "oikName": "Пензенская область – Пензенский",
+    "district": {
+      "districtNumber": 146,
+      "oikTvd": "100100225883630"
+    }
   },
   {
     "uikNumber": 959,
     "uikTvd": "4584030310170",
     "tikTvd": "25820001085589",
-    "tikName": "Сердобская"
+    "tikName": "Сердобская",
+    "uikName": "УИК №959",
+    "regionCode": "58",
+    "regionTvd": "100100225883629",
+    "regionName": "Пензенская область",
+    "oikTvd": "100100225883630",
+    "oikName": "Пензенская область – Пензенский",
+    "district": {
+      "districtNumber": 146,
+      "oikTvd": "100100225883630"
+    }
   },
   {
     "uikNumber": 960,
     "uikTvd": "4584030310171",
     "tikTvd": "25820001085589",
-    "tikName": "Сердобская"
+    "tikName": "Сердобская",
+    "uikName": "УИК №960",
+    "regionCode": "58",
+    "regionTvd": "100100225883629",
+    "regionName": "Пензенская область",
+    "oikTvd": "100100225883630",
+    "oikName": "Пензенская область – Пензенский",
+    "district": {
+      "districtNumber": 146,
+      "oikTvd": "100100225883630"
+    }
   },
   {
     "uikNumber": 961,
     "uikTvd": "4584030310172",
     "tikTvd": "25820001085589",
-    "tikName": "Сердобская"
+    "tikName": "Сердобская",
+    "uikName": "УИК №961",
+    "regionCode": "58",
+    "regionTvd": "100100225883629",
+    "regionName": "Пензенская область",
+    "oikTvd": "100100225883630",
+    "oikName": "Пензенская область – Пензенский",
+    "district": {
+      "districtNumber": 146,
+      "oikTvd": "100100225883630"
+    }
   },
   {
     "uikNumber": 962,
     "uikTvd": "4584030310173",
     "tikTvd": "25820001085589",
-    "tikName": "Сердобская"
+    "tikName": "Сердобская",
+    "uikName": "УИК №962",
+    "regionCode": "58",
+    "regionTvd": "100100225883629",
+    "regionName": "Пензенская область",
+    "oikTvd": "100100225883630",
+    "oikName": "Пензенская область – Пензенский",
+    "district": {
+      "districtNumber": 146,
+      "oikTvd": "100100225883630"
+    }
   },
   {
     "uikNumber": 963,
     "uikTvd": "4584030310174",
     "tikTvd": "25820001085589",
-    "tikName": "Сердобская"
+    "tikName": "Сердобская",
+    "uikName": "УИК №963",
+    "regionCode": "58",
+    "regionTvd": "100100225883629",
+    "regionName": "Пензенская область",
+    "oikTvd": "100100225883630",
+    "oikName": "Пензенская область – Пензенский",
+    "district": {
+      "districtNumber": 146,
+      "oikTvd": "100100225883630"
+    }
   },
   {
     "uikNumber": 964,
     "uikTvd": "4584030310175",
     "tikTvd": "25820001085589",
-    "tikName": "Сердобская"
+    "tikName": "Сердобская",
+    "uikName": "УИК №964",
+    "regionCode": "58",
+    "regionTvd": "100100225883629",
+    "regionName": "Пензенская область",
+    "oikTvd": "100100225883630",
+    "oikName": "Пензенская область – Пензенский",
+    "district": {
+      "districtNumber": 146,
+      "oikTvd": "100100225883630"
+    }
   },
   {
     "uikNumber": 965,
     "uikTvd": "4584030310176",
     "tikTvd": "25820001085589",
-    "tikName": "Сердобская"
+    "tikName": "Сердобская",
+    "uikName": "УИК №965",
+    "regionCode": "58",
+    "regionTvd": "100100225883629",
+    "regionName": "Пензенская область",
+    "oikTvd": "100100225883630",
+    "oikName": "Пензенская область – Пензенский",
+    "district": {
+      "districtNumber": 146,
+      "oikTvd": "100100225883630"
+    }
   },
   {
     "uikNumber": 966,
     "uikTvd": "4584030310177",
     "tikTvd": "25820001085589",
-    "tikName": "Сердобская"
+    "tikName": "Сердобская",
+    "uikName": "УИК №966",
+    "regionCode": "58",
+    "regionTvd": "100100225883629",
+    "regionName": "Пензенская область",
+    "oikTvd": "100100225883630",
+    "oikName": "Пензенская область – Пензенский",
+    "district": {
+      "districtNumber": 146,
+      "oikTvd": "100100225883630"
+    }
   },
   {
     "uikNumber": 967,
     "uikTvd": "4584030310178",
     "tikTvd": "25820001085589",
-    "tikName": "Сердобская"
+    "tikName": "Сердобская",
+    "uikName": "УИК №967",
+    "regionCode": "58",
+    "regionTvd": "100100225883629",
+    "regionName": "Пензенская область",
+    "oikTvd": "100100225883630",
+    "oikName": "Пензенская область – Пензенский",
+    "district": {
+      "districtNumber": 146,
+      "oikTvd": "100100225883630"
+    }
   },
   {
     "uikNumber": 968,
     "uikTvd": "4584030310179",
     "tikTvd": "25820001085589",
-    "tikName": "Сердобская"
+    "tikName": "Сердобская",
+    "uikName": "УИК №968",
+    "regionCode": "58",
+    "regionTvd": "100100225883629",
+    "regionName": "Пензенская область",
+    "oikTvd": "100100225883630",
+    "oikName": "Пензенская область – Пензенский",
+    "district": {
+      "districtNumber": 146,
+      "oikTvd": "100100225883630"
+    }
   },
   {
     "uikNumber": 969,
     "uikTvd": "4584030310180",
     "tikTvd": "25820001085589",
-    "tikName": "Сердобская"
+    "tikName": "Сердобская",
+    "uikName": "УИК №969",
+    "regionCode": "58",
+    "regionTvd": "100100225883629",
+    "regionName": "Пензенская область",
+    "oikTvd": "100100225883630",
+    "oikName": "Пензенская область – Пензенский",
+    "district": {
+      "districtNumber": 146,
+      "oikTvd": "100100225883630"
+    }
   },
   {
     "uikNumber": 970,
     "uikTvd": "4584030310181",
     "tikTvd": "25820001085589",
-    "tikName": "Сердобская"
+    "tikName": "Сердобская",
+    "uikName": "УИК №970",
+    "regionCode": "58",
+    "regionTvd": "100100225883629",
+    "regionName": "Пензенская область",
+    "oikTvd": "100100225883630",
+    "oikName": "Пензенская область – Пензенский",
+    "district": {
+      "districtNumber": 146,
+      "oikTvd": "100100225883630"
+    }
   },
   {
     "uikNumber": 971,
     "uikTvd": "4584030310182",
     "tikTvd": "25820001085589",
-    "tikName": "Сердобская"
+    "tikName": "Сердобская",
+    "uikName": "УИК №971",
+    "regionCode": "58",
+    "regionTvd": "100100225883629",
+    "regionName": "Пензенская область",
+    "oikTvd": "100100225883630",
+    "oikName": "Пензенская область – Пензенский",
+    "district": {
+      "districtNumber": 146,
+      "oikTvd": "100100225883630"
+    }
   },
   {
     "uikNumber": 972,
     "uikTvd": "4584030310183",
     "tikTvd": "25820001085589",
-    "tikName": "Сердобская"
+    "tikName": "Сердобская",
+    "uikName": "УИК №972",
+    "regionCode": "58",
+    "regionTvd": "100100225883629",
+    "regionName": "Пензенская область",
+    "oikTvd": "100100225883630",
+    "oikName": "Пензенская область – Пензенский",
+    "district": {
+      "districtNumber": 146,
+      "oikTvd": "100100225883630"
+    }
   },
   {
     "uikNumber": 973,
     "uikTvd": "4584030310184",
     "tikTvd": "25820001085589",
-    "tikName": "Сердобская"
+    "tikName": "Сердобская",
+    "uikName": "УИК №973",
+    "regionCode": "58",
+    "regionTvd": "100100225883629",
+    "regionName": "Пензенская область",
+    "oikTvd": "100100225883630",
+    "oikName": "Пензенская область – Пензенский",
+    "district": {
+      "districtNumber": 146,
+      "oikTvd": "100100225883630"
+    }
   },
   {
     "uikNumber": 974,
     "uikTvd": "4584030310185",
     "tikTvd": "25820001085589",
-    "tikName": "Сердобская"
+    "tikName": "Сердобская",
+    "uikName": "УИК №974",
+    "regionCode": "58",
+    "regionTvd": "100100225883629",
+    "regionName": "Пензенская область",
+    "oikTvd": "100100225883630",
+    "oikName": "Пензенская область – Пензенский",
+    "district": {
+      "districtNumber": 146,
+      "oikTvd": "100100225883630"
+    }
   },
   {
     "uikNumber": 975,
     "uikTvd": "4584030310186",
     "tikTvd": "25820001085589",
-    "tikName": "Сердобская"
+    "tikName": "Сердобская",
+    "uikName": "УИК №975",
+    "regionCode": "58",
+    "regionTvd": "100100225883629",
+    "regionName": "Пензенская область",
+    "oikTvd": "100100225883630",
+    "oikName": "Пензенская область – Пензенский",
+    "district": {
+      "districtNumber": 146,
+      "oikTvd": "100100225883630"
+    }
   },
   {
     "uikNumber": 976,
     "uikTvd": "4584030310187",
     "tikTvd": "25820001085589",
-    "tikName": "Сердобская"
+    "tikName": "Сердобская",
+    "uikName": "УИК №976",
+    "regionCode": "58",
+    "regionTvd": "100100225883629",
+    "regionName": "Пензенская область",
+    "oikTvd": "100100225883630",
+    "oikName": "Пензенская область – Пензенский",
+    "district": {
+      "districtNumber": 146,
+      "oikTvd": "100100225883630"
+    }
   },
   {
     "uikNumber": 977,
     "uikTvd": "4584030310188",
     "tikTvd": "25820001085589",
-    "tikName": "Сердобская"
+    "tikName": "Сердобская",
+    "uikName": "УИК №977",
+    "regionCode": "58",
+    "regionTvd": "100100225883629",
+    "regionName": "Пензенская область",
+    "oikTvd": "100100225883630",
+    "oikName": "Пензенская область – Пензенский",
+    "district": {
+      "districtNumber": 146,
+      "oikTvd": "100100225883630"
+    }
   },
   {
     "uikNumber": 978,
     "uikTvd": "4584030310189",
     "tikTvd": "25820001085589",
-    "tikName": "Сердобская"
+    "tikName": "Сердобская",
+    "uikName": "УИК №978",
+    "regionCode": "58",
+    "regionTvd": "100100225883629",
+    "regionName": "Пензенская область",
+    "oikTvd": "100100225883630",
+    "oikName": "Пензенская область – Пензенский",
+    "district": {
+      "districtNumber": 146,
+      "oikTvd": "100100225883630"
+    }
   },
   {
     "uikNumber": 979,
     "uikTvd": "4584030310190",
     "tikTvd": "25820001085589",
-    "tikName": "Сердобская"
+    "tikName": "Сердобская",
+    "uikName": "УИК №979",
+    "regionCode": "58",
+    "regionTvd": "100100225883629",
+    "regionName": "Пензенская область",
+    "oikTvd": "100100225883630",
+    "oikName": "Пензенская область – Пензенский",
+    "district": {
+      "districtNumber": 146,
+      "oikTvd": "100100225883630"
+    }
   },
   {
     "uikNumber": 980,
     "uikTvd": "4584030310191",
     "tikTvd": "25820001085589",
-    "tikName": "Сердобская"
+    "tikName": "Сердобская",
+    "uikName": "УИК №980",
+    "regionCode": "58",
+    "regionTvd": "100100225883629",
+    "regionName": "Пензенская область",
+    "oikTvd": "100100225883630",
+    "oikName": "Пензенская область – Пензенский",
+    "district": {
+      "districtNumber": 146,
+      "oikTvd": "100100225883630"
+    }
   },
   {
     "uikNumber": 981,
     "uikTvd": "4584030310192",
     "tikTvd": "25820001085589",
-    "tikName": "Сердобская"
+    "tikName": "Сердобская",
+    "uikName": "УИК №981",
+    "regionCode": "58",
+    "regionTvd": "100100225883629",
+    "regionName": "Пензенская область",
+    "oikTvd": "100100225883630",
+    "oikName": "Пензенская область – Пензенский",
+    "district": {
+      "districtNumber": 146,
+      "oikTvd": "100100225883630"
+    }
   },
   {
     "uikNumber": 982,
     "uikTvd": "4584030310193",
     "tikTvd": "25820001085589",
-    "tikName": "Сердобская"
+    "tikName": "Сердобская",
+    "uikName": "УИК №982",
+    "regionCode": "58",
+    "regionTvd": "100100225883629",
+    "regionName": "Пензенская область",
+    "oikTvd": "100100225883630",
+    "oikName": "Пензенская область – Пензенский",
+    "district": {
+      "districtNumber": 146,
+      "oikTvd": "100100225883630"
+    }
   },
   {
     "uikNumber": 983,
     "uikTvd": "4584030310194",
     "tikTvd": "25820001085589",
-    "tikName": "Сердобская"
+    "tikName": "Сердобская",
+    "uikName": "УИК №983",
+    "regionCode": "58",
+    "regionTvd": "100100225883629",
+    "regionName": "Пензенская область",
+    "oikTvd": "100100225883630",
+    "oikName": "Пензенская область – Пензенский",
+    "district": {
+      "districtNumber": 146,
+      "oikTvd": "100100225883630"
+    }
   },
   {
     "uikNumber": 984,
     "uikTvd": "4584030310195",
     "tikTvd": "25820001085589",
-    "tikName": "Сердобская"
+    "tikName": "Сердобская",
+    "uikName": "УИК №984",
+    "regionCode": "58",
+    "regionTvd": "100100225883629",
+    "regionName": "Пензенская область",
+    "oikTvd": "100100225883630",
+    "oikName": "Пензенская область – Пензенский",
+    "district": {
+      "districtNumber": 146,
+      "oikTvd": "100100225883630"
+    }
   },
   {
     "uikNumber": 985,
     "uikTvd": "4584030310196",
     "tikTvd": "25820001085589",
-    "tikName": "Сердобская"
+    "tikName": "Сердобская",
+    "uikName": "УИК №985",
+    "regionCode": "58",
+    "regionTvd": "100100225883629",
+    "regionName": "Пензенская область",
+    "oikTvd": "100100225883630",
+    "oikName": "Пензенская область – Пензенский",
+    "district": {
+      "districtNumber": 146,
+      "oikTvd": "100100225883630"
+    }
   },
   {
     "uikNumber": 986,
     "uikTvd": "4584030310197",
     "tikTvd": "25820001085589",
-    "tikName": "Сердобская"
+    "tikName": "Сердобская",
+    "uikName": "УИК №986",
+    "regionCode": "58",
+    "regionTvd": "100100225883629",
+    "regionName": "Пензенская область",
+    "oikTvd": "100100225883630",
+    "oikName": "Пензенская область – Пензенский",
+    "district": {
+      "districtNumber": 146,
+      "oikTvd": "100100225883630"
+    }
   },
   {
     "uikNumber": 987,
     "uikTvd": "4584030310198",
     "tikTvd": "25820001085589",
-    "tikName": "Сердобская"
+    "tikName": "Сердобская",
+    "uikName": "УИК №987",
+    "regionCode": "58",
+    "regionTvd": "100100225883629",
+    "regionName": "Пензенская область",
+    "oikTvd": "100100225883630",
+    "oikName": "Пензенская область – Пензенский",
+    "district": {
+      "districtNumber": 146,
+      "oikTvd": "100100225883630"
+    }
   },
   {
     "uikNumber": 988,
     "uikTvd": "4584031271112",
     "tikTvd": "25820001085588",
-    "tikName": "Сосновоборская"
+    "tikName": "Сосновоборская",
+    "uikName": "УИК №988",
+    "regionCode": "58",
+    "regionTvd": "100100225883629",
+    "regionName": "Пензенская область",
+    "oikTvd": "100100225883630",
+    "oikName": "Пензенская область – Пензенский",
+    "district": {
+      "districtNumber": 146,
+      "oikTvd": "100100225883630"
+    }
   },
   {
     "uikNumber": 989,
     "uikTvd": "4584031271113",
     "tikTvd": "25820001085588",
-    "tikName": "Сосновоборская"
+    "tikName": "Сосновоборская",
+    "uikName": "УИК №989",
+    "regionCode": "58",
+    "regionTvd": "100100225883629",
+    "regionName": "Пензенская область",
+    "oikTvd": "100100225883630",
+    "oikName": "Пензенская область – Пензенский",
+    "district": {
+      "districtNumber": 146,
+      "oikTvd": "100100225883630"
+    }
   },
   {
     "uikNumber": 990,
     "uikTvd": "4584031271114",
     "tikTvd": "25820001085588",
-    "tikName": "Сосновоборская"
+    "tikName": "Сосновоборская",
+    "uikName": "УИК №990",
+    "regionCode": "58",
+    "regionTvd": "100100225883629",
+    "regionName": "Пензенская область",
+    "oikTvd": "100100225883630",
+    "oikName": "Пензенская область – Пензенский",
+    "district": {
+      "districtNumber": 146,
+      "oikTvd": "100100225883630"
+    }
   },
   {
     "uikNumber": 991,
     "uikTvd": "4584031271115",
     "tikTvd": "25820001085588",
-    "tikName": "Сосновоборская"
+    "tikName": "Сосновоборская",
+    "uikName": "УИК №991",
+    "regionCode": "58",
+    "regionTvd": "100100225883629",
+    "regionName": "Пензенская область",
+    "oikTvd": "100100225883630",
+    "oikName": "Пензенская область – Пензенский",
+    "district": {
+      "districtNumber": 146,
+      "oikTvd": "100100225883630"
+    }
   },
   {
     "uikNumber": 992,
     "uikTvd": "4584031271116",
     "tikTvd": "25820001085588",
-    "tikName": "Сосновоборская"
+    "tikName": "Сосновоборская",
+    "uikName": "УИК №992",
+    "regionCode": "58",
+    "regionTvd": "100100225883629",
+    "regionName": "Пензенская область",
+    "oikTvd": "100100225883630",
+    "oikName": "Пензенская область – Пензенский",
+    "district": {
+      "districtNumber": 146,
+      "oikTvd": "100100225883630"
+    }
   },
   {
     "uikNumber": 993,
     "uikTvd": "4584031271117",
     "tikTvd": "25820001085588",
-    "tikName": "Сосновоборская"
+    "tikName": "Сосновоборская",
+    "uikName": "УИК №993",
+    "regionCode": "58",
+    "regionTvd": "100100225883629",
+    "regionName": "Пензенская область",
+    "oikTvd": "100100225883630",
+    "oikName": "Пензенская область – Пензенский",
+    "district": {
+      "districtNumber": 146,
+      "oikTvd": "100100225883630"
+    }
   },
   {
     "uikNumber": 994,
     "uikTvd": "4584031271118",
     "tikTvd": "25820001085588",
-    "tikName": "Сосновоборская"
+    "tikName": "Сосновоборская",
+    "uikName": "УИК №994",
+    "regionCode": "58",
+    "regionTvd": "100100225883629",
+    "regionName": "Пензенская область",
+    "oikTvd": "100100225883630",
+    "oikName": "Пензенская область – Пензенский",
+    "district": {
+      "districtNumber": 146,
+      "oikTvd": "100100225883630"
+    }
   },
   {
     "uikNumber": 995,
     "uikTvd": "4584031271119",
     "tikTvd": "25820001085588",
-    "tikName": "Сосновоборская"
+    "tikName": "Сосновоборская",
+    "uikName": "УИК №995",
+    "regionCode": "58",
+    "regionTvd": "100100225883629",
+    "regionName": "Пензенская область",
+    "oikTvd": "100100225883630",
+    "oikName": "Пензенская область – Пензенский",
+    "district": {
+      "districtNumber": 146,
+      "oikTvd": "100100225883630"
+    }
   },
   {
     "uikNumber": 996,
     "uikTvd": "4584031271120",
     "tikTvd": "25820001085588",
-    "tikName": "Сосновоборская"
+    "tikName": "Сосновоборская",
+    "uikName": "УИК №996",
+    "regionCode": "58",
+    "regionTvd": "100100225883629",
+    "regionName": "Пензенская область",
+    "oikTvd": "100100225883630",
+    "oikName": "Пензенская область – Пензенский",
+    "district": {
+      "districtNumber": 146,
+      "oikTvd": "100100225883630"
+    }
   },
   {
     "uikNumber": 997,
     "uikTvd": "4584031271121",
     "tikTvd": "25820001085588",
-    "tikName": "Сосновоборская"
+    "tikName": "Сосновоборская",
+    "uikName": "УИК №997",
+    "regionCode": "58",
+    "regionTvd": "100100225883629",
+    "regionName": "Пензенская область",
+    "oikTvd": "100100225883630",
+    "oikName": "Пензенская область – Пензенский",
+    "district": {
+      "districtNumber": 146,
+      "oikTvd": "100100225883630"
+    }
   },
   {
     "uikNumber": 998,
     "uikTvd": "4584031271122",
     "tikTvd": "25820001085588",
-    "tikName": "Сосновоборская"
+    "tikName": "Сосновоборская",
+    "uikName": "УИК №998",
+    "regionCode": "58",
+    "regionTvd": "100100225883629",
+    "regionName": "Пензенская область",
+    "oikTvd": "100100225883630",
+    "oikName": "Пензенская область – Пензенский",
+    "district": {
+      "districtNumber": 146,
+      "oikTvd": "100100225883630"
+    }
   },
   {
     "uikNumber": 999,
     "uikTvd": "4584031271123",
     "tikTvd": "25820001085588",
-    "tikName": "Сосновоборская"
+    "tikName": "Сосновоборская",
+    "uikName": "УИК №999",
+    "regionCode": "58",
+    "regionTvd": "100100225883629",
+    "regionName": "Пензенская область",
+    "oikTvd": "100100225883630",
+    "oikName": "Пензенская область – Пензенский",
+    "district": {
+      "districtNumber": 146,
+      "oikTvd": "100100225883630"
+    }
   },
   {
     "uikNumber": 1000,
     "uikTvd": "4584031271124",
     "tikTvd": "25820001085588",
-    "tikName": "Сосновоборская"
+    "tikName": "Сосновоборская",
+    "uikName": "УИК №1000",
+    "regionCode": "58",
+    "regionTvd": "100100225883629",
+    "regionName": "Пензенская область",
+    "oikTvd": "100100225883630",
+    "oikName": "Пензенская область – Пензенский",
+    "district": {
+      "districtNumber": 146,
+      "oikTvd": "100100225883630"
+    }
   },
   {
     "uikNumber": 1001,
     "uikTvd": "4584031271125",
     "tikTvd": "25820001085588",
-    "tikName": "Сосновоборская"
+    "tikName": "Сосновоборская",
+    "uikName": "УИК №1001",
+    "regionCode": "58",
+    "regionTvd": "100100225883629",
+    "regionName": "Пензенская область",
+    "oikTvd": "100100225883630",
+    "oikName": "Пензенская область – Пензенский",
+    "district": {
+      "districtNumber": 146,
+      "oikTvd": "100100225883630"
+    }
   },
   {
     "uikNumber": 1002,
     "uikTvd": "4584031271126",
     "tikTvd": "25820001085588",
-    "tikName": "Сосновоборская"
+    "tikName": "Сосновоборская",
+    "uikName": "УИК №1002",
+    "regionCode": "58",
+    "regionTvd": "100100225883629",
+    "regionName": "Пензенская область",
+    "oikTvd": "100100225883630",
+    "oikName": "Пензенская область – Пензенский",
+    "district": {
+      "districtNumber": 146,
+      "oikTvd": "100100225883630"
+    }
   },
   {
     "uikNumber": 1003,
     "uikTvd": "4584031271127",
     "tikTvd": "25820001085588",
-    "tikName": "Сосновоборская"
+    "tikName": "Сосновоборская",
+    "uikName": "УИК №1003",
+    "regionCode": "58",
+    "regionTvd": "100100225883629",
+    "regionName": "Пензенская область",
+    "oikTvd": "100100225883630",
+    "oikName": "Пензенская область – Пензенский",
+    "district": {
+      "districtNumber": 146,
+      "oikTvd": "100100225883630"
+    }
   },
   {
     "uikNumber": 1004,
     "uikTvd": "4584031271128",
     "tikTvd": "25820001085588",
-    "tikName": "Сосновоборская"
+    "tikName": "Сосновоборская",
+    "uikName": "УИК №1004",
+    "regionCode": "58",
+    "regionTvd": "100100225883629",
+    "regionName": "Пензенская область",
+    "oikTvd": "100100225883630",
+    "oikName": "Пензенская область – Пензенский",
+    "district": {
+      "districtNumber": 146,
+      "oikTvd": "100100225883630"
+    }
   },
   {
     "uikNumber": 1005,
     "uikTvd": "4584031271129",
     "tikTvd": "25820001085588",
-    "tikName": "Сосновоборская"
+    "tikName": "Сосновоборская",
+    "uikName": "УИК №1005",
+    "regionCode": "58",
+    "regionTvd": "100100225883629",
+    "regionName": "Пензенская область",
+    "oikTvd": "100100225883630",
+    "oikName": "Пензенская область – Пензенский",
+    "district": {
+      "districtNumber": 146,
+      "oikTvd": "100100225883630"
+    }
   },
   {
     "uikNumber": 1006,
     "uikTvd": "4584031271130",
     "tikTvd": "25820001085588",
-    "tikName": "Сосновоборская"
+    "tikName": "Сосновоборская",
+    "uikName": "УИК №1006",
+    "regionCode": "58",
+    "regionTvd": "100100225883629",
+    "regionName": "Пензенская область",
+    "oikTvd": "100100225883630",
+    "oikName": "Пензенская область – Пензенский",
+    "district": {
+      "districtNumber": 146,
+      "oikTvd": "100100225883630"
+    }
   },
   {
     "uikNumber": 1007,
     "uikTvd": "4584031271131",
     "tikTvd": "25820001085588",
-    "tikName": "Сосновоборская"
+    "tikName": "Сосновоборская",
+    "uikName": "УИК №1007",
+    "regionCode": "58",
+    "regionTvd": "100100225883629",
+    "regionName": "Пензенская область",
+    "oikTvd": "100100225883630",
+    "oikName": "Пензенская область – Пензенский",
+    "district": {
+      "districtNumber": 146,
+      "oikTvd": "100100225883630"
+    }
   },
   {
     "uikNumber": 1008,
     "uikTvd": "4584031271132",
     "tikTvd": "25820001085588",
-    "tikName": "Сосновоборская"
+    "tikName": "Сосновоборская",
+    "uikName": "УИК №1008",
+    "regionCode": "58",
+    "regionTvd": "100100225883629",
+    "regionName": "Пензенская область",
+    "oikTvd": "100100225883630",
+    "oikName": "Пензенская область – Пензенский",
+    "district": {
+      "districtNumber": 146,
+      "oikTvd": "100100225883630"
+    }
   },
   {
     "uikNumber": 1009,
     "uikTvd": "4584031271133",
     "tikTvd": "25820001085588",
-    "tikName": "Сосновоборская"
+    "tikName": "Сосновоборская",
+    "uikName": "УИК №1009",
+    "regionCode": "58",
+    "regionTvd": "100100225883629",
+    "regionName": "Пензенская область",
+    "oikTvd": "100100225883630",
+    "oikName": "Пензенская область – Пензенский",
+    "district": {
+      "districtNumber": 146,
+      "oikTvd": "100100225883630"
+    }
   },
   {
     "uikNumber": 1010,
     "uikTvd": "4584031271134",
     "tikTvd": "25820001085588",
-    "tikName": "Сосновоборская"
+    "tikName": "Сосновоборская",
+    "uikName": "УИК №1010",
+    "regionCode": "58",
+    "regionTvd": "100100225883629",
+    "regionName": "Пензенская область",
+    "oikTvd": "100100225883630",
+    "oikName": "Пензенская область – Пензенский",
+    "district": {
+      "districtNumber": 146,
+      "oikTvd": "100100225883630"
+    }
   },
   {
     "uikNumber": 1011,
     "uikTvd": "4584031271135",
     "tikTvd": "25820001085588",
-    "tikName": "Сосновоборская"
+    "tikName": "Сосновоборская",
+    "uikName": "УИК №1011",
+    "regionCode": "58",
+    "regionTvd": "100100225883629",
+    "regionName": "Пензенская область",
+    "oikTvd": "100100225883630",
+    "oikName": "Пензенская область – Пензенский",
+    "district": {
+      "districtNumber": 146,
+      "oikTvd": "100100225883630"
+    }
   },
   {
     "uikNumber": 1012,
     "uikTvd": "4584031271136",
     "tikTvd": "25820001085588",
-    "tikName": "Сосновоборская"
+    "tikName": "Сосновоборская",
+    "uikName": "УИК №1012",
+    "regionCode": "58",
+    "regionTvd": "100100225883629",
+    "regionName": "Пензенская область",
+    "oikTvd": "100100225883630",
+    "oikName": "Пензенская область – Пензенский",
+    "district": {
+      "districtNumber": 146,
+      "oikTvd": "100100225883630"
+    }
   },
   {
     "uikNumber": 1013,
     "uikTvd": "4584031271137",
     "tikTvd": "25820001085588",
-    "tikName": "Сосновоборская"
+    "tikName": "Сосновоборская",
+    "uikName": "УИК №1013",
+    "regionCode": "58",
+    "regionTvd": "100100225883629",
+    "regionName": "Пензенская область",
+    "oikTvd": "100100225883630",
+    "oikName": "Пензенская область – Пензенский",
+    "district": {
+      "districtNumber": 146,
+      "oikTvd": "100100225883630"
+    }
   },
   {
     "uikNumber": 1014,
     "uikTvd": "4584031271138",
     "tikTvd": "25820001085588",
-    "tikName": "Сосновоборская"
+    "tikName": "Сосновоборская",
+    "uikName": "УИК №1014",
+    "regionCode": "58",
+    "regionTvd": "100100225883629",
+    "regionName": "Пензенская область",
+    "oikTvd": "100100225883630",
+    "oikName": "Пензенская область – Пензенский",
+    "district": {
+      "districtNumber": 146,
+      "oikTvd": "100100225883630"
+    }
   },
   {
     "uikNumber": 1015,
     "uikTvd": "4584031271139",
     "tikTvd": "25820001085588",
-    "tikName": "Сосновоборская"
+    "tikName": "Сосновоборская",
+    "uikName": "УИК №1015",
+    "regionCode": "58",
+    "regionTvd": "100100225883629",
+    "regionName": "Пензенская область",
+    "oikTvd": "100100225883630",
+    "oikName": "Пензенская область – Пензенский",
+    "district": {
+      "districtNumber": 146,
+      "oikTvd": "100100225883630"
+    }
   },
   {
     "uikNumber": 1016,
     "uikTvd": "4584031271140",
     "tikTvd": "25820001085588",
-    "tikName": "Сосновоборская"
+    "tikName": "Сосновоборская",
+    "uikName": "УИК №1016",
+    "regionCode": "58",
+    "regionTvd": "100100225883629",
+    "regionName": "Пензенская область",
+    "oikTvd": "100100225883630",
+    "oikName": "Пензенская область – Пензенский",
+    "district": {
+      "districtNumber": 146,
+      "oikTvd": "100100225883630"
+    }
   },
   {
     "uikNumber": 1017,
     "uikTvd": "4584031271141",
     "tikTvd": "25820001085588",
-    "tikName": "Сосновоборская"
+    "tikName": "Сосновоборская",
+    "uikName": "УИК №1017",
+    "regionCode": "58",
+    "regionTvd": "100100225883629",
+    "regionName": "Пензенская область",
+    "oikTvd": "100100225883630",
+    "oikName": "Пензенская область – Пензенский",
+    "district": {
+      "districtNumber": 146,
+      "oikTvd": "100100225883630"
+    }
   },
   {
     "uikNumber": 1018,
     "uikTvd": "4584031271142",
     "tikTvd": "25820001085588",
-    "tikName": "Сосновоборская"
+    "tikName": "Сосновоборская",
+    "uikName": "УИК №1018",
+    "regionCode": "58",
+    "regionTvd": "100100225883629",
+    "regionName": "Пензенская область",
+    "oikTvd": "100100225883630",
+    "oikName": "Пензенская область – Пензенский",
+    "district": {
+      "districtNumber": 146,
+      "oikTvd": "100100225883630"
+    }
   },
   {
     "uikNumber": 1019,
     "uikTvd": "4584002282607",
     "tikTvd": "25820001085604",
-    "tikName": "Спасская"
+    "tikName": "Спасская",
+    "uikName": "УИК №1019",
+    "regionCode": "58",
+    "regionTvd": "100100225883629",
+    "regionName": "Пензенская область",
+    "oikTvd": "100100225883631",
+    "oikName": "Пензенская область – Лермонтовский",
+    "district": {
+      "districtNumber": 147,
+      "oikTvd": "100100225883631"
+    }
   },
   {
     "uikNumber": 1020,
     "uikTvd": "4584002282608",
     "tikTvd": "25820001085604",
-    "tikName": "Спасская"
+    "tikName": "Спасская",
+    "uikName": "УИК №1020",
+    "regionCode": "58",
+    "regionTvd": "100100225883629",
+    "regionName": "Пензенская область",
+    "oikTvd": "100100225883631",
+    "oikName": "Пензенская область – Лермонтовский",
+    "district": {
+      "districtNumber": 147,
+      "oikTvd": "100100225883631"
+    }
   },
   {
     "uikNumber": 1021,
     "uikTvd": "4584002282609",
     "tikTvd": "25820001085604",
-    "tikName": "Спасская"
+    "tikName": "Спасская",
+    "uikName": "УИК №1021",
+    "regionCode": "58",
+    "regionTvd": "100100225883629",
+    "regionName": "Пензенская область",
+    "oikTvd": "100100225883631",
+    "oikName": "Пензенская область – Лермонтовский",
+    "district": {
+      "districtNumber": 147,
+      "oikTvd": "100100225883631"
+    }
   },
   {
     "uikNumber": 1022,
     "uikTvd": "4584002282610",
     "tikTvd": "25820001085604",
-    "tikName": "Спасская"
+    "tikName": "Спасская",
+    "uikName": "УИК №1022",
+    "regionCode": "58",
+    "regionTvd": "100100225883629",
+    "regionName": "Пензенская область",
+    "oikTvd": "100100225883631",
+    "oikName": "Пензенская область – Лермонтовский",
+    "district": {
+      "districtNumber": 147,
+      "oikTvd": "100100225883631"
+    }
   },
   {
     "uikNumber": 1023,
     "uikTvd": "4584002282611",
     "tikTvd": "25820001085604",
-    "tikName": "Спасская"
+    "tikName": "Спасская",
+    "uikName": "УИК №1023",
+    "regionCode": "58",
+    "regionTvd": "100100225883629",
+    "regionName": "Пензенская область",
+    "oikTvd": "100100225883631",
+    "oikName": "Пензенская область – Лермонтовский",
+    "district": {
+      "districtNumber": 147,
+      "oikTvd": "100100225883631"
+    }
   },
   {
     "uikNumber": 1024,
     "uikTvd": "4584002282612",
     "tikTvd": "25820001085604",
-    "tikName": "Спасская"
+    "tikName": "Спасская",
+    "uikName": "УИК №1024",
+    "regionCode": "58",
+    "regionTvd": "100100225883629",
+    "regionName": "Пензенская область",
+    "oikTvd": "100100225883631",
+    "oikName": "Пензенская область – Лермонтовский",
+    "district": {
+      "districtNumber": 147,
+      "oikTvd": "100100225883631"
+    }
   },
   {
     "uikNumber": 1025,
     "uikTvd": "4584002282613",
     "tikTvd": "25820001085604",
-    "tikName": "Спасская"
+    "tikName": "Спасская",
+    "uikName": "УИК №1025",
+    "regionCode": "58",
+    "regionTvd": "100100225883629",
+    "regionName": "Пензенская область",
+    "oikTvd": "100100225883631",
+    "oikName": "Пензенская область – Лермонтовский",
+    "district": {
+      "districtNumber": 147,
+      "oikTvd": "100100225883631"
+    }
   },
   {
     "uikNumber": 1026,
     "uikTvd": "4584002282614",
     "tikTvd": "25820001085604",
-    "tikName": "Спасская"
+    "tikName": "Спасская",
+    "uikName": "УИК №1026",
+    "regionCode": "58",
+    "regionTvd": "100100225883629",
+    "regionName": "Пензенская область",
+    "oikTvd": "100100225883631",
+    "oikName": "Пензенская область – Лермонтовский",
+    "district": {
+      "districtNumber": 147,
+      "oikTvd": "100100225883631"
+    }
   },
   {
     "uikNumber": 1027,
     "uikTvd": "4584002282615",
     "tikTvd": "25820001085604",
-    "tikName": "Спасская"
+    "tikName": "Спасская",
+    "uikName": "УИК №1027",
+    "regionCode": "58",
+    "regionTvd": "100100225883629",
+    "regionName": "Пензенская область",
+    "oikTvd": "100100225883631",
+    "oikName": "Пензенская область – Лермонтовский",
+    "district": {
+      "districtNumber": 147,
+      "oikTvd": "100100225883631"
+    }
   },
   {
     "uikNumber": 1028,
     "uikTvd": "4584002282616",
     "tikTvd": "25820001085604",
-    "tikName": "Спасская"
+    "tikName": "Спасская",
+    "uikName": "УИК №1028",
+    "regionCode": "58",
+    "regionTvd": "100100225883629",
+    "regionName": "Пензенская область",
+    "oikTvd": "100100225883631",
+    "oikName": "Пензенская область – Лермонтовский",
+    "district": {
+      "districtNumber": 147,
+      "oikTvd": "100100225883631"
+    }
   },
   {
     "uikNumber": 1029,
     "uikTvd": "4584002282617",
     "tikTvd": "25820001085604",
-    "tikName": "Спасская"
+    "tikName": "Спасская",
+    "uikName": "УИК №1029",
+    "regionCode": "58",
+    "regionTvd": "100100225883629",
+    "regionName": "Пензенская область",
+    "oikTvd": "100100225883631",
+    "oikName": "Пензенская область – Лермонтовский",
+    "district": {
+      "districtNumber": 147,
+      "oikTvd": "100100225883631"
+    }
   },
   {
     "uikNumber": 1030,
     "uikTvd": "4584002282618",
     "tikTvd": "25820001085604",
-    "tikName": "Спасская"
+    "tikName": "Спасская",
+    "uikName": "УИК №1030",
+    "regionCode": "58",
+    "regionTvd": "100100225883629",
+    "regionName": "Пензенская область",
+    "oikTvd": "100100225883631",
+    "oikName": "Пензенская область – Лермонтовский",
+    "district": {
+      "districtNumber": 147,
+      "oikTvd": "100100225883631"
+    }
   },
   {
     "uikNumber": 1031,
     "uikTvd": "4584002282619",
     "tikTvd": "25820001085604",
-    "tikName": "Спасская"
+    "tikName": "Спасская",
+    "uikName": "УИК №1031",
+    "regionCode": "58",
+    "regionTvd": "100100225883629",
+    "regionName": "Пензенская область",
+    "oikTvd": "100100225883631",
+    "oikName": "Пензенская область – Лермонтовский",
+    "district": {
+      "districtNumber": 147,
+      "oikTvd": "100100225883631"
+    }
   },
   {
     "uikNumber": 1032,
     "uikTvd": "4584002282620",
     "tikTvd": "25820001085604",
-    "tikName": "Спасская"
+    "tikName": "Спасская",
+    "uikName": "УИК №1032",
+    "regionCode": "58",
+    "regionTvd": "100100225883629",
+    "regionName": "Пензенская область",
+    "oikTvd": "100100225883631",
+    "oikName": "Пензенская область – Лермонтовский",
+    "district": {
+      "districtNumber": 147,
+      "oikTvd": "100100225883631"
+    }
   },
   {
     "uikNumber": 1033,
     "uikTvd": "4584002282621",
     "tikTvd": "25820001085604",
-    "tikName": "Спасская"
+    "tikName": "Спасская",
+    "uikName": "УИК №1033",
+    "regionCode": "58",
+    "regionTvd": "100100225883629",
+    "regionName": "Пензенская область",
+    "oikTvd": "100100225883631",
+    "oikName": "Пензенская область – Лермонтовский",
+    "district": {
+      "districtNumber": 147,
+      "oikTvd": "100100225883631"
+    }
   },
   {
     "uikNumber": 1034,
     "uikTvd": "4584002282622",
     "tikTvd": "25820001085604",
-    "tikName": "Спасская"
+    "tikName": "Спасская",
+    "uikName": "УИК №1034",
+    "regionCode": "58",
+    "regionTvd": "100100225883629",
+    "regionName": "Пензенская область",
+    "oikTvd": "100100225883631",
+    "oikName": "Пензенская область – Лермонтовский",
+    "district": {
+      "districtNumber": 147,
+      "oikTvd": "100100225883631"
+    }
   },
   {
     "uikNumber": 1035,
     "uikTvd": "4584002282623",
     "tikTvd": "25820001085604",
-    "tikName": "Спасская"
+    "tikName": "Спасская",
+    "uikName": "УИК №1035",
+    "regionCode": "58",
+    "regionTvd": "100100225883629",
+    "regionName": "Пензенская область",
+    "oikTvd": "100100225883631",
+    "oikName": "Пензенская область – Лермонтовский",
+    "district": {
+      "districtNumber": 147,
+      "oikTvd": "100100225883631"
+    }
   },
   {
     "uikNumber": 1036,
     "uikTvd": "4584002282624",
     "tikTvd": "25820001085604",
-    "tikName": "Спасская"
+    "tikName": "Спасская",
+    "uikName": "УИК №1036",
+    "regionCode": "58",
+    "regionTvd": "100100225883629",
+    "regionName": "Пензенская область",
+    "oikTvd": "100100225883631",
+    "oikName": "Пензенская область – Лермонтовский",
+    "district": {
+      "districtNumber": 147,
+      "oikTvd": "100100225883631"
+    }
   },
   {
     "uikNumber": 1037,
     "uikTvd": "4584002282625",
     "tikTvd": "25820001085604",
-    "tikName": "Спасская"
+    "tikName": "Спасская",
+    "uikName": "УИК №1037",
+    "regionCode": "58",
+    "regionTvd": "100100225883629",
+    "regionName": "Пензенская область",
+    "oikTvd": "100100225883631",
+    "oikName": "Пензенская область – Лермонтовский",
+    "district": {
+      "districtNumber": 147,
+      "oikTvd": "100100225883631"
+    }
   },
   {
     "uikNumber": 1038,
     "uikTvd": "4584002282626",
     "tikTvd": "25820001085604",
-    "tikName": "Спасская"
+    "tikName": "Спасская",
+    "uikName": "УИК №1038",
+    "regionCode": "58",
+    "regionTvd": "100100225883629",
+    "regionName": "Пензенская область",
+    "oikTvd": "100100225883631",
+    "oikName": "Пензенская область – Лермонтовский",
+    "district": {
+      "districtNumber": 147,
+      "oikTvd": "100100225883631"
+    }
   },
   {
     "uikNumber": 1039,
     "uikTvd": "4584002282627",
     "tikTvd": "25820001085604",
-    "tikName": "Спасская"
+    "tikName": "Спасская",
+    "uikName": "УИК №1039",
+    "regionCode": "58",
+    "regionTvd": "100100225883629",
+    "regionName": "Пензенская область",
+    "oikTvd": "100100225883631",
+    "oikName": "Пензенская область – Лермонтовский",
+    "district": {
+      "districtNumber": 147,
+      "oikTvd": "100100225883631"
+    }
   },
   {
     "uikNumber": 1040,
     "uikTvd": "4584002282628",
     "tikTvd": "25820001085604",
-    "tikName": "Спасская"
+    "tikName": "Спасская",
+    "uikName": "УИК №1040",
+    "regionCode": "58",
+    "regionTvd": "100100225883629",
+    "regionName": "Пензенская область",
+    "oikTvd": "100100225883631",
+    "oikName": "Пензенская область – Лермонтовский",
+    "district": {
+      "districtNumber": 147,
+      "oikTvd": "100100225883631"
+    }
   },
   {
     "uikNumber": 1041,
     "uikTvd": "4584002282629",
     "tikTvd": "25820001085604",
-    "tikName": "Спасская"
+    "tikName": "Спасская",
+    "uikName": "УИК №1041",
+    "regionCode": "58",
+    "regionTvd": "100100225883629",
+    "regionName": "Пензенская область",
+    "oikTvd": "100100225883631",
+    "oikName": "Пензенская область – Лермонтовский",
+    "district": {
+      "districtNumber": 147,
+      "oikTvd": "100100225883631"
+    }
   },
   {
     "uikNumber": 1042,
     "uikTvd": "4584032314909",
     "tikTvd": "25820001085603",
-    "tikName": "Тамалинская "
+    "tikName": "Тамалинская ",
+    "uikName": "УИК №1042",
+    "regionCode": "58",
+    "regionTvd": "100100225883629",
+    "regionName": "Пензенская область",
+    "oikTvd": "100100225883631",
+    "oikName": "Пензенская область – Лермонтовский",
+    "district": {
+      "districtNumber": 147,
+      "oikTvd": "100100225883631"
+    }
   },
   {
     "uikNumber": 1043,
     "uikTvd": "4584032314910",
     "tikTvd": "25820001085603",
-    "tikName": "Тамалинская "
+    "tikName": "Тамалинская ",
+    "uikName": "УИК №1043",
+    "regionCode": "58",
+    "regionTvd": "100100225883629",
+    "regionName": "Пензенская область",
+    "oikTvd": "100100225883631",
+    "oikName": "Пензенская область – Лермонтовский",
+    "district": {
+      "districtNumber": 147,
+      "oikTvd": "100100225883631"
+    }
   },
   {
     "uikNumber": 1044,
     "uikTvd": "4584032314911",
     "tikTvd": "25820001085603",
-    "tikName": "Тамалинская "
+    "tikName": "Тамалинская ",
+    "uikName": "УИК №1044",
+    "regionCode": "58",
+    "regionTvd": "100100225883629",
+    "regionName": "Пензенская область",
+    "oikTvd": "100100225883631",
+    "oikName": "Пензенская область – Лермонтовский",
+    "district": {
+      "districtNumber": 147,
+      "oikTvd": "100100225883631"
+    }
   },
   {
     "uikNumber": 1045,
     "uikTvd": "4584032314912",
     "tikTvd": "25820001085603",
-    "tikName": "Тамалинская "
+    "tikName": "Тамалинская ",
+    "uikName": "УИК №1045",
+    "regionCode": "58",
+    "regionTvd": "100100225883629",
+    "regionName": "Пензенская область",
+    "oikTvd": "100100225883631",
+    "oikName": "Пензенская область – Лермонтовский",
+    "district": {
+      "districtNumber": 147,
+      "oikTvd": "100100225883631"
+    }
   },
   {
     "uikNumber": 1046,
     "uikTvd": "4584032314913",
     "tikTvd": "25820001085603",
-    "tikName": "Тамалинская "
+    "tikName": "Тамалинская ",
+    "uikName": "УИК №1046",
+    "regionCode": "58",
+    "regionTvd": "100100225883629",
+    "regionName": "Пензенская область",
+    "oikTvd": "100100225883631",
+    "oikName": "Пензенская область – Лермонтовский",
+    "district": {
+      "districtNumber": 147,
+      "oikTvd": "100100225883631"
+    }
   },
   {
     "uikNumber": 1047,
     "uikTvd": "4584032314914",
     "tikTvd": "25820001085603",
-    "tikName": "Тамалинская "
+    "tikName": "Тамалинская ",
+    "uikName": "УИК №1047",
+    "regionCode": "58",
+    "regionTvd": "100100225883629",
+    "regionName": "Пензенская область",
+    "oikTvd": "100100225883631",
+    "oikName": "Пензенская область – Лермонтовский",
+    "district": {
+      "districtNumber": 147,
+      "oikTvd": "100100225883631"
+    }
   },
   {
     "uikNumber": 1048,
     "uikTvd": "4584032314915",
     "tikTvd": "25820001085603",
-    "tikName": "Тамалинская "
+    "tikName": "Тамалинская ",
+    "uikName": "УИК №1048",
+    "regionCode": "58",
+    "regionTvd": "100100225883629",
+    "regionName": "Пензенская область",
+    "oikTvd": "100100225883631",
+    "oikName": "Пензенская область – Лермонтовский",
+    "district": {
+      "districtNumber": 147,
+      "oikTvd": "100100225883631"
+    }
   },
   {
     "uikNumber": 1049,
     "uikTvd": "4584032314916",
     "tikTvd": "25820001085603",
-    "tikName": "Тамалинская "
+    "tikName": "Тамалинская ",
+    "uikName": "УИК №1049",
+    "regionCode": "58",
+    "regionTvd": "100100225883629",
+    "regionName": "Пензенская область",
+    "oikTvd": "100100225883631",
+    "oikName": "Пензенская область – Лермонтовский",
+    "district": {
+      "districtNumber": 147,
+      "oikTvd": "100100225883631"
+    }
   },
   {
     "uikNumber": 1050,
     "uikTvd": "4584032314917",
     "tikTvd": "25820001085603",
-    "tikName": "Тамалинская "
+    "tikName": "Тамалинская ",
+    "uikName": "УИК №1050",
+    "regionCode": "58",
+    "regionTvd": "100100225883629",
+    "regionName": "Пензенская область",
+    "oikTvd": "100100225883631",
+    "oikName": "Пензенская область – Лермонтовский",
+    "district": {
+      "districtNumber": 147,
+      "oikTvd": "100100225883631"
+    }
   },
   {
     "uikNumber": 1051,
     "uikTvd": "4584032314918",
     "tikTvd": "25820001085603",
-    "tikName": "Тамалинская "
+    "tikName": "Тамалинская ",
+    "uikName": "УИК №1051",
+    "regionCode": "58",
+    "regionTvd": "100100225883629",
+    "regionName": "Пензенская область",
+    "oikTvd": "100100225883631",
+    "oikName": "Пензенская область – Лермонтовский",
+    "district": {
+      "districtNumber": 147,
+      "oikTvd": "100100225883631"
+    }
   },
   {
     "uikNumber": 1052,
     "uikTvd": "4584032314919",
     "tikTvd": "25820001085603",
-    "tikName": "Тамалинская "
+    "tikName": "Тамалинская ",
+    "uikName": "УИК №1052",
+    "regionCode": "58",
+    "regionTvd": "100100225883629",
+    "regionName": "Пензенская область",
+    "oikTvd": "100100225883631",
+    "oikName": "Пензенская область – Лермонтовский",
+    "district": {
+      "districtNumber": 147,
+      "oikTvd": "100100225883631"
+    }
   },
   {
     "uikNumber": 1053,
     "uikTvd": "4584032314920",
     "tikTvd": "25820001085603",
-    "tikName": "Тамалинская "
+    "tikName": "Тамалинская ",
+    "uikName": "УИК №1053",
+    "regionCode": "58",
+    "regionTvd": "100100225883629",
+    "regionName": "Пензенская область",
+    "oikTvd": "100100225883631",
+    "oikName": "Пензенская область – Лермонтовский",
+    "district": {
+      "districtNumber": 147,
+      "oikTvd": "100100225883631"
+    }
   },
   {
     "uikNumber": 1054,
     "uikTvd": "4584032314921",
     "tikTvd": "25820001085603",
-    "tikName": "Тамалинская "
+    "tikName": "Тамалинская ",
+    "uikName": "УИК №1054",
+    "regionCode": "58",
+    "regionTvd": "100100225883629",
+    "regionName": "Пензенская область",
+    "oikTvd": "100100225883631",
+    "oikName": "Пензенская область – Лермонтовский",
+    "district": {
+      "districtNumber": 147,
+      "oikTvd": "100100225883631"
+    }
   },
   {
     "uikNumber": 1055,
     "uikTvd": "4584032314922",
     "tikTvd": "25820001085603",
-    "tikName": "Тамалинская "
+    "tikName": "Тамалинская ",
+    "uikName": "УИК №1055",
+    "regionCode": "58",
+    "regionTvd": "100100225883629",
+    "regionName": "Пензенская область",
+    "oikTvd": "100100225883631",
+    "oikName": "Пензенская область – Лермонтовский",
+    "district": {
+      "districtNumber": 147,
+      "oikTvd": "100100225883631"
+    }
   },
   {
     "uikNumber": 1056,
     "uikTvd": "4584032314923",
     "tikTvd": "25820001085603",
-    "tikName": "Тамалинская "
+    "tikName": "Тамалинская ",
+    "uikName": "УИК №1056",
+    "regionCode": "58",
+    "regionTvd": "100100225883629",
+    "regionName": "Пензенская область",
+    "oikTvd": "100100225883631",
+    "oikName": "Пензенская область – Лермонтовский",
+    "district": {
+      "districtNumber": 147,
+      "oikTvd": "100100225883631"
+    }
   },
   {
     "uikNumber": 1057,
     "uikTvd": "4584032314924",
     "tikTvd": "25820001085603",
-    "tikName": "Тамалинская "
+    "tikName": "Тамалинская ",
+    "uikName": "УИК №1057",
+    "regionCode": "58",
+    "regionTvd": "100100225883629",
+    "regionName": "Пензенская область",
+    "oikTvd": "100100225883631",
+    "oikName": "Пензенская область – Лермонтовский",
+    "district": {
+      "districtNumber": 147,
+      "oikTvd": "100100225883631"
+    }
   },
   {
     "uikNumber": 1058,
     "uikTvd": "4584032314925",
     "tikTvd": "25820001085603",
-    "tikName": "Тамалинская "
+    "tikName": "Тамалинская ",
+    "uikName": "УИК №1058",
+    "regionCode": "58",
+    "regionTvd": "100100225883629",
+    "regionName": "Пензенская область",
+    "oikTvd": "100100225883631",
+    "oikName": "Пензенская область – Лермонтовский",
+    "district": {
+      "districtNumber": 147,
+      "oikTvd": "100100225883631"
+    }
   },
   {
     "uikNumber": 1059,
     "uikTvd": "4584032314926",
     "tikTvd": "25820001085603",
-    "tikName": "Тамалинская "
+    "tikName": "Тамалинская ",
+    "uikName": "УИК №1059",
+    "regionCode": "58",
+    "regionTvd": "100100225883629",
+    "regionName": "Пензенская область",
+    "oikTvd": "100100225883631",
+    "oikName": "Пензенская область – Лермонтовский",
+    "district": {
+      "districtNumber": 147,
+      "oikTvd": "100100225883631"
+    }
   },
   {
     "uikNumber": 1060,
     "uikTvd": "4584032314927",
     "tikTvd": "25820001085603",
-    "tikName": "Тамалинская "
+    "tikName": "Тамалинская ",
+    "uikName": "УИК №1060",
+    "regionCode": "58",
+    "regionTvd": "100100225883629",
+    "regionName": "Пензенская область",
+    "oikTvd": "100100225883631",
+    "oikName": "Пензенская область – Лермонтовский",
+    "district": {
+      "districtNumber": 147,
+      "oikTvd": "100100225883631"
+    }
   },
   {
     "uikNumber": 1061,
     "uikTvd": "4584032314928",
     "tikTvd": "25820001085603",
-    "tikName": "Тамалинская "
+    "tikName": "Тамалинская ",
+    "uikName": "УИК №1061",
+    "regionCode": "58",
+    "regionTvd": "100100225883629",
+    "regionName": "Пензенская область",
+    "oikTvd": "100100225883631",
+    "oikName": "Пензенская область – Лермонтовский",
+    "district": {
+      "districtNumber": 147,
+      "oikTvd": "100100225883631"
+    }
   },
   {
     "uikNumber": 1062,
     "uikTvd": "4584032314929",
     "tikTvd": "25820001085603",
-    "tikName": "Тамалинская "
+    "tikName": "Тамалинская ",
+    "uikName": "УИК №1062",
+    "regionCode": "58",
+    "regionTvd": "100100225883629",
+    "regionName": "Пензенская область",
+    "oikTvd": "100100225883631",
+    "oikName": "Пензенская область – Лермонтовский",
+    "district": {
+      "districtNumber": 147,
+      "oikTvd": "100100225883631"
+    }
   },
   {
     "uikNumber": 1063,
     "uikTvd": "4584032314930",
     "tikTvd": "25820001085603",
-    "tikName": "Тамалинская "
+    "tikName": "Тамалинская ",
+    "uikName": "УИК №1063",
+    "regionCode": "58",
+    "regionTvd": "100100225883629",
+    "regionName": "Пензенская область",
+    "oikTvd": "100100225883631",
+    "oikName": "Пензенская область – Лермонтовский",
+    "district": {
+      "districtNumber": 147,
+      "oikTvd": "100100225883631"
+    }
   },
   {
     "uikNumber": 1064,
     "uikTvd": "4584032314931",
     "tikTvd": "25820001085603",
-    "tikName": "Тамалинская "
+    "tikName": "Тамалинская ",
+    "uikName": "УИК №1064",
+    "regionCode": "58",
+    "regionTvd": "100100225883629",
+    "regionName": "Пензенская область",
+    "oikTvd": "100100225883631",
+    "oikName": "Пензенская область – Лермонтовский",
+    "district": {
+      "districtNumber": 147,
+      "oikTvd": "100100225883631"
+    }
   },
   {
     "uikNumber": 1065,
     "uikTvd": "4584032314932",
     "tikTvd": "25820001085603",
-    "tikName": "Тамалинская "
+    "tikName": "Тамалинская ",
+    "uikName": "УИК №1065",
+    "regionCode": "58",
+    "regionTvd": "100100225883629",
+    "regionName": "Пензенская область",
+    "oikTvd": "100100225883631",
+    "oikName": "Пензенская область – Лермонтовский",
+    "district": {
+      "districtNumber": 147,
+      "oikTvd": "100100225883631"
+    }
   },
   {
     "uikNumber": 1066,
     "uikTvd": "9589033304459",
     "tikTvd": "25820001085587",
-    "tikName": "Шемышейская"
+    "tikName": "Шемышейская",
+    "uikName": "УИК №1066",
+    "regionCode": "58",
+    "regionTvd": "100100225883629",
+    "regionName": "Пензенская область",
+    "oikTvd": "100100225883630",
+    "oikName": "Пензенская область – Пензенский",
+    "district": {
+      "districtNumber": 146,
+      "oikTvd": "100100225883630"
+    }
   },
   {
     "uikNumber": 1067,
     "uikTvd": "9589033304460",
     "tikTvd": "25820001085587",
-    "tikName": "Шемышейская"
+    "tikName": "Шемышейская",
+    "uikName": "УИК №1067",
+    "regionCode": "58",
+    "regionTvd": "100100225883629",
+    "regionName": "Пензенская область",
+    "oikTvd": "100100225883630",
+    "oikName": "Пензенская область – Пензенский",
+    "district": {
+      "districtNumber": 146,
+      "oikTvd": "100100225883630"
+    }
   },
   {
     "uikNumber": 1068,
     "uikTvd": "9589033304461",
     "tikTvd": "25820001085587",
-    "tikName": "Шемышейская"
+    "tikName": "Шемышейская",
+    "uikName": "УИК №1068",
+    "regionCode": "58",
+    "regionTvd": "100100225883629",
+    "regionName": "Пензенская область",
+    "oikTvd": "100100225883630",
+    "oikName": "Пензенская область – Пензенский",
+    "district": {
+      "districtNumber": 146,
+      "oikTvd": "100100225883630"
+    }
   },
   {
     "uikNumber": 1069,
     "uikTvd": "9589033304462",
     "tikTvd": "25820001085587",
-    "tikName": "Шемышейская"
+    "tikName": "Шемышейская",
+    "uikName": "УИК №1069",
+    "regionCode": "58",
+    "regionTvd": "100100225883629",
+    "regionName": "Пензенская область",
+    "oikTvd": "100100225883630",
+    "oikName": "Пензенская область – Пензенский",
+    "district": {
+      "districtNumber": 146,
+      "oikTvd": "100100225883630"
+    }
   },
   {
     "uikNumber": 1070,
     "uikTvd": "9589033304463",
     "tikTvd": "25820001085587",
-    "tikName": "Шемышейская"
+    "tikName": "Шемышейская",
+    "uikName": "УИК №1070",
+    "regionCode": "58",
+    "regionTvd": "100100225883629",
+    "regionName": "Пензенская область",
+    "oikTvd": "100100225883630",
+    "oikName": "Пензенская область – Пензенский",
+    "district": {
+      "districtNumber": 146,
+      "oikTvd": "100100225883630"
+    }
   },
   {
     "uikNumber": 1071,
     "uikTvd": "9589033304464",
     "tikTvd": "25820001085587",
-    "tikName": "Шемышейская"
+    "tikName": "Шемышейская",
+    "uikName": "УИК №1071",
+    "regionCode": "58",
+    "regionTvd": "100100225883629",
+    "regionName": "Пензенская область",
+    "oikTvd": "100100225883630",
+    "oikName": "Пензенская область – Пензенский",
+    "district": {
+      "districtNumber": 146,
+      "oikTvd": "100100225883630"
+    }
   },
   {
     "uikNumber": 1072,
     "uikTvd": "9589033304465",
     "tikTvd": "25820001085587",
-    "tikName": "Шемышейская"
+    "tikName": "Шемышейская",
+    "uikName": "УИК №1072",
+    "regionCode": "58",
+    "regionTvd": "100100225883629",
+    "regionName": "Пензенская область",
+    "oikTvd": "100100225883630",
+    "oikName": "Пензенская область – Пензенский",
+    "district": {
+      "districtNumber": 146,
+      "oikTvd": "100100225883630"
+    }
   },
   {
     "uikNumber": 1073,
     "uikTvd": "9589033304466",
     "tikTvd": "25820001085587",
-    "tikName": "Шемышейская"
+    "tikName": "Шемышейская",
+    "uikName": "УИК №1073",
+    "regionCode": "58",
+    "regionTvd": "100100225883629",
+    "regionName": "Пензенская область",
+    "oikTvd": "100100225883630",
+    "oikName": "Пензенская область – Пензенский",
+    "district": {
+      "districtNumber": 146,
+      "oikTvd": "100100225883630"
+    }
   },
   {
     "uikNumber": 1074,
     "uikTvd": "9589033304467",
     "tikTvd": "25820001085587",
-    "tikName": "Шемышейская"
+    "tikName": "Шемышейская",
+    "uikName": "УИК №1074",
+    "regionCode": "58",
+    "regionTvd": "100100225883629",
+    "regionName": "Пензенская область",
+    "oikTvd": "100100225883630",
+    "oikName": "Пензенская область – Пензенский",
+    "district": {
+      "districtNumber": 146,
+      "oikTvd": "100100225883630"
+    }
   },
   {
     "uikNumber": 1075,
     "uikTvd": "9589033304468",
     "tikTvd": "25820001085587",
-    "tikName": "Шемышейская"
+    "tikName": "Шемышейская",
+    "uikName": "УИК №1075",
+    "regionCode": "58",
+    "regionTvd": "100100225883629",
+    "regionName": "Пензенская область",
+    "oikTvd": "100100225883630",
+    "oikName": "Пензенская область – Пензенский",
+    "district": {
+      "districtNumber": 146,
+      "oikTvd": "100100225883630"
+    }
   },
   {
     "uikNumber": 1076,
     "uikTvd": "9589033304469",
     "tikTvd": "25820001085587",
-    "tikName": "Шемышейская"
+    "tikName": "Шемышейская",
+    "uikName": "УИК №1076",
+    "regionCode": "58",
+    "regionTvd": "100100225883629",
+    "regionName": "Пензенская область",
+    "oikTvd": "100100225883630",
+    "oikName": "Пензенская область – Пензенский",
+    "district": {
+      "districtNumber": 146,
+      "oikTvd": "100100225883630"
+    }
   },
   {
     "uikNumber": 1077,
     "uikTvd": "9589033304470",
     "tikTvd": "25820001085587",
-    "tikName": "Шемышейская"
+    "tikName": "Шемышейская",
+    "uikName": "УИК №1077",
+    "regionCode": "58",
+    "regionTvd": "100100225883629",
+    "regionName": "Пензенская область",
+    "oikTvd": "100100225883630",
+    "oikName": "Пензенская область – Пензенский",
+    "district": {
+      "districtNumber": 146,
+      "oikTvd": "100100225883630"
+    }
   },
   {
     "uikNumber": 1078,
     "uikTvd": "9589033304471",
     "tikTvd": "25820001085587",
-    "tikName": "Шемышейская"
+    "tikName": "Шемышейская",
+    "uikName": "УИК №1078",
+    "regionCode": "58",
+    "regionTvd": "100100225883629",
+    "regionName": "Пензенская область",
+    "oikTvd": "100100225883630",
+    "oikName": "Пензенская область – Пензенский",
+    "district": {
+      "districtNumber": 146,
+      "oikTvd": "100100225883630"
+    }
   },
   {
     "uikNumber": 1079,
     "uikTvd": "9589033304472",
     "tikTvd": "25820001085587",
-    "tikName": "Шемышейская"
+    "tikName": "Шемышейская",
+    "uikName": "УИК №1079",
+    "regionCode": "58",
+    "regionTvd": "100100225883629",
+    "regionName": "Пензенская область",
+    "oikTvd": "100100225883630",
+    "oikName": "Пензенская область – Пензенский",
+    "district": {
+      "districtNumber": 146,
+      "oikTvd": "100100225883630"
+    }
   },
   {
     "uikNumber": 1080,
     "uikTvd": "9589033304473",
     "tikTvd": "25820001085587",
-    "tikName": "Шемышейская"
+    "tikName": "Шемышейская",
+    "uikName": "УИК №1080",
+    "regionCode": "58",
+    "regionTvd": "100100225883629",
+    "regionName": "Пензенская область",
+    "oikTvd": "100100225883630",
+    "oikName": "Пензенская область – Пензенский",
+    "district": {
+      "districtNumber": 146,
+      "oikTvd": "100100225883630"
+    }
   },
   {
     "uikNumber": 1081,
     "uikTvd": "9589033304474",
     "tikTvd": "25820001085587",
-    "tikName": "Шемышейская"
+    "tikName": "Шемышейская",
+    "uikName": "УИК №1081",
+    "regionCode": "58",
+    "regionTvd": "100100225883629",
+    "regionName": "Пензенская область",
+    "oikTvd": "100100225883630",
+    "oikName": "Пензенская область – Пензенский",
+    "district": {
+      "districtNumber": 146,
+      "oikTvd": "100100225883630"
+    }
   },
   {
     "uikNumber": 1082,
     "uikTvd": "9589033304475",
     "tikTvd": "25820001085587",
-    "tikName": "Шемышейская"
+    "tikName": "Шемышейская",
+    "uikName": "УИК №1082",
+    "regionCode": "58",
+    "regionTvd": "100100225883629",
+    "regionName": "Пензенская область",
+    "oikTvd": "100100225883630",
+    "oikName": "Пензенская область – Пензенский",
+    "district": {
+      "districtNumber": 146,
+      "oikTvd": "100100225883630"
+    }
   },
   {
     "uikNumber": 1083,
     "uikTvd": "9589033304476",
     "tikTvd": "25820001085587",
-    "tikName": "Шемышейская"
+    "tikName": "Шемышейская",
+    "uikName": "УИК №1083",
+    "regionCode": "58",
+    "regionTvd": "100100225883629",
+    "regionName": "Пензенская область",
+    "oikTvd": "100100225883630",
+    "oikName": "Пензенская область – Пензенский",
+    "district": {
+      "districtNumber": 146,
+      "oikTvd": "100100225883630"
+    }
   },
   {
     "uikNumber": 1084,
     "uikTvd": "9589033304477",
     "tikTvd": "25820001085587",
-    "tikName": "Шемышейская"
+    "tikName": "Шемышейская",
+    "uikName": "УИК №1084",
+    "regionCode": "58",
+    "regionTvd": "100100225883629",
+    "regionName": "Пензенская область",
+    "oikTvd": "100100225883630",
+    "oikName": "Пензенская область – Пензенский",
+    "district": {
+      "districtNumber": 146,
+      "oikTvd": "100100225883630"
+    }
   },
   {
     "uikNumber": 1085,
     "uikTvd": "9589033304478",
     "tikTvd": "25820001085587",
-    "tikName": "Шемышейская"
+    "tikName": "Шемышейская",
+    "uikName": "УИК №1085",
+    "regionCode": "58",
+    "regionTvd": "100100225883629",
+    "regionName": "Пензенская область",
+    "oikTvd": "100100225883630",
+    "oikName": "Пензенская область – Пензенский",
+    "district": {
+      "districtNumber": 146,
+      "oikTvd": "100100225883630"
+    }
   }
 ] satisfies readonly UikTikRelation[];

@@ -42,14 +42,14 @@ export const duma_2003_uik_428_region_13_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Алешкин Олег Иванович": 5,
-      "Гришин Виктор Иванович": 629,
-      "Давыдкин Михаил Александрович": 1,
-      "Калашников Сергей Александрович": 2,
-      "Костерин Евгений Алексеевич": 40,
-      "Нечаев Виктор Анатольевич": 5,
-      "Полушкин Александр Викторович": 3,
-      "Против всех": 6
+      "gas:candidate-vibid:1001000289802": 5,
+      "gas:candidate-vibid:1001000225880": 629,
+      "gas:candidate-vibid:213200070602": 1,
+      "gas:candidate-vibid:1001000195028": 2,
+      "gas:candidate-vibid:1001000121795": 40,
+      "gas:candidate-vibid:1001000190283": 5,
+      "gas:candidate-vibid:1001000113898": 3,
+      "special:against-all": 6
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=132000001&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=213200070895&region=0&sub_region=0&type=429",
@@ -99,14 +99,14 @@ export const duma_2003_uik_428_region_13_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Алешкин Олег Иванович": 0,
-      "Гришин Виктор Иванович": 694,
-      "Давыдкин Михаил Александрович": 0,
-      "Калашников Сергей Александрович": 0,
-      "Костерин Евгений Алексеевич": 13,
-      "Нечаев Виктор Анатольевич": 0,
-      "Полушкин Александр Викторович": 4,
-      "Против всех": 3
+      "gas:candidate-vibid:1001000289802": 0,
+      "gas:candidate-vibid:1001000225880": 694,
+      "gas:candidate-vibid:213200070602": 0,
+      "gas:candidate-vibid:1001000195028": 0,
+      "gas:candidate-vibid:1001000121795": 13,
+      "gas:candidate-vibid:1001000190283": 0,
+      "gas:candidate-vibid:1001000113898": 4,
+      "special:against-all": 3
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=132000001&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=213200070895&region=0&sub_region=0&type=429",
@@ -156,14 +156,14 @@ export const duma_2003_uik_428_region_13_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Алешкин Олег Иванович": 14,
-      "Гришин Виктор Иванович": 543,
-      "Давыдкин Михаил Александрович": 3,
-      "Калашников Сергей Александрович": 6,
-      "Костерин Евгений Алексеевич": 80,
-      "Нечаев Виктор Анатольевич": 6,
-      "Полушкин Александр Викторович": 5,
-      "Против всех": 6
+      "gas:candidate-vibid:1001000289802": 14,
+      "gas:candidate-vibid:1001000225880": 543,
+      "gas:candidate-vibid:213200070602": 3,
+      "gas:candidate-vibid:1001000195028": 6,
+      "gas:candidate-vibid:1001000121795": 80,
+      "gas:candidate-vibid:1001000190283": 6,
+      "gas:candidate-vibid:1001000113898": 5,
+      "special:against-all": 6
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=132000001&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=213200070895&region=0&sub_region=0&type=429",
@@ -213,14 +213,14 @@ export const duma_2003_uik_428_region_13_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Алешкин Олег Иванович": 15,
-      "Гришин Виктор Иванович": 967,
-      "Давыдкин Михаил Александрович": 9,
-      "Калашников Сергей Александрович": 10,
-      "Костерин Евгений Алексеевич": 74,
-      "Нечаев Виктор Анатольевич": 9,
-      "Полушкин Александр Викторович": 11,
-      "Против всех": 16
+      "gas:candidate-vibid:1001000289802": 15,
+      "gas:candidate-vibid:1001000225880": 967,
+      "gas:candidate-vibid:213200070602": 9,
+      "gas:candidate-vibid:1001000195028": 10,
+      "gas:candidate-vibid:1001000121795": 74,
+      "gas:candidate-vibid:1001000190283": 9,
+      "gas:candidate-vibid:1001000113898": 11,
+      "special:against-all": 16
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=132000001&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=213200070895&region=0&sub_region=0&type=429",
@@ -270,14 +270,14 @@ export const duma_2003_uik_428_region_13_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Алешкин Олег Иванович": 18,
-      "Гришин Виктор Иванович": 1100,
-      "Давыдкин Михаил Александрович": 5,
-      "Калашников Сергей Александрович": 11,
-      "Костерин Евгений Алексеевич": 112,
-      "Нечаев Виктор Анатольевич": 6,
-      "Полушкин Александр Викторович": 8,
-      "Против всех": 17
+      "gas:candidate-vibid:1001000289802": 18,
+      "gas:candidate-vibid:1001000225880": 1100,
+      "gas:candidate-vibid:213200070602": 5,
+      "gas:candidate-vibid:1001000195028": 11,
+      "gas:candidate-vibid:1001000121795": 112,
+      "gas:candidate-vibid:1001000190283": 6,
+      "gas:candidate-vibid:1001000113898": 8,
+      "special:against-all": 17
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=132000001&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=213200070895&region=0&sub_region=0&type=429",
@@ -327,14 +327,14 @@ export const duma_2003_uik_428_region_13_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Алешкин Олег Иванович": 38,
-      "Гришин Виктор Иванович": 934,
-      "Давыдкин Михаил Александрович": 3,
-      "Калашников Сергей Александрович": 0,
-      "Костерин Евгений Алексеевич": 78,
-      "Нечаев Виктор Анатольевич": 3,
-      "Полушкин Александр Викторович": 11,
-      "Против всех": 0
+      "gas:candidate-vibid:1001000289802": 38,
+      "gas:candidate-vibid:1001000225880": 934,
+      "gas:candidate-vibid:213200070602": 3,
+      "gas:candidate-vibid:1001000195028": 0,
+      "gas:candidate-vibid:1001000121795": 78,
+      "gas:candidate-vibid:1001000190283": 3,
+      "gas:candidate-vibid:1001000113898": 11,
+      "special:against-all": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=132000001&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=213200070895&region=0&sub_region=0&type=429",
@@ -384,14 +384,14 @@ export const duma_2003_uik_428_region_13_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Алешкин Олег Иванович": 16,
-      "Гришин Виктор Иванович": 550,
-      "Давыдкин Михаил Александрович": 1,
-      "Калашников Сергей Александрович": 7,
-      "Костерин Евгений Алексеевич": 51,
-      "Нечаев Виктор Анатольевич": 11,
-      "Полушкин Александр Викторович": 4,
-      "Против всех": 33
+      "gas:candidate-vibid:1001000289802": 16,
+      "gas:candidate-vibid:1001000225880": 550,
+      "gas:candidate-vibid:213200070602": 1,
+      "gas:candidate-vibid:1001000195028": 7,
+      "gas:candidate-vibid:1001000121795": 51,
+      "gas:candidate-vibid:1001000190283": 11,
+      "gas:candidate-vibid:1001000113898": 4,
+      "special:against-all": 33
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=132000001&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=213200070895&region=0&sub_region=0&type=429",
@@ -441,14 +441,14 @@ export const duma_2003_uik_428_region_13_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Алешкин Олег Иванович": 7,
-      "Гришин Виктор Иванович": 629,
-      "Давыдкин Михаил Александрович": 1,
-      "Калашников Сергей Александрович": 5,
-      "Костерин Евгений Алексеевич": 33,
-      "Нечаев Виктор Анатольевич": 1,
-      "Полушкин Александр Викторович": 4,
-      "Против всех": 7
+      "gas:candidate-vibid:1001000289802": 7,
+      "gas:candidate-vibid:1001000225880": 629,
+      "gas:candidate-vibid:213200070602": 1,
+      "gas:candidate-vibid:1001000195028": 5,
+      "gas:candidate-vibid:1001000121795": 33,
+      "gas:candidate-vibid:1001000190283": 1,
+      "gas:candidate-vibid:1001000113898": 4,
+      "special:against-all": 7
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=132000001&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=213200070895&region=0&sub_region=0&type=429",
@@ -498,14 +498,14 @@ export const duma_2003_uik_428_region_13_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Алешкин Олег Иванович": 12,
-      "Гришин Виктор Иванович": 635,
-      "Давыдкин Михаил Александрович": 6,
-      "Калашников Сергей Александрович": 3,
-      "Костерин Евгений Алексеевич": 40,
-      "Нечаев Виктор Анатольевич": 4,
-      "Полушкин Александр Викторович": 4,
-      "Против всех": 1
+      "gas:candidate-vibid:1001000289802": 12,
+      "gas:candidate-vibid:1001000225880": 635,
+      "gas:candidate-vibid:213200070602": 6,
+      "gas:candidate-vibid:1001000195028": 3,
+      "gas:candidate-vibid:1001000121795": 40,
+      "gas:candidate-vibid:1001000190283": 4,
+      "gas:candidate-vibid:1001000113898": 4,
+      "special:against-all": 1
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=132000001&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=213200070895&region=0&sub_region=0&type=429",
@@ -555,14 +555,14 @@ export const duma_2003_uik_428_region_13_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Алешкин Олег Иванович": 3,
-      "Гришин Виктор Иванович": 1007,
-      "Давыдкин Михаил Александрович": 3,
-      "Калашников Сергей Александрович": 3,
-      "Костерин Евгений Алексеевич": 51,
-      "Нечаев Виктор Анатольевич": 3,
-      "Полушкин Александр Викторович": 8,
-      "Против всех": 0
+      "gas:candidate-vibid:1001000289802": 3,
+      "gas:candidate-vibid:1001000225880": 1007,
+      "gas:candidate-vibid:213200070602": 3,
+      "gas:candidate-vibid:1001000195028": 3,
+      "gas:candidate-vibid:1001000121795": 51,
+      "gas:candidate-vibid:1001000190283": 3,
+      "gas:candidate-vibid:1001000113898": 8,
+      "special:against-all": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=132000001&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=213200070895&region=0&sub_region=0&type=429",
@@ -612,14 +612,14 @@ export const duma_2003_uik_428_region_13_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Алешкин Олег Иванович": 12,
-      "Гришин Виктор Иванович": 1002,
-      "Давыдкин Михаил Александрович": 7,
-      "Калашников Сергей Александрович": 0,
-      "Костерин Евгений Алексеевич": 61,
-      "Нечаев Виктор Анатольевич": 6,
-      "Полушкин Александр Викторович": 18,
-      "Против всех": 9
+      "gas:candidate-vibid:1001000289802": 12,
+      "gas:candidate-vibid:1001000225880": 1002,
+      "gas:candidate-vibid:213200070602": 7,
+      "gas:candidate-vibid:1001000195028": 0,
+      "gas:candidate-vibid:1001000121795": 61,
+      "gas:candidate-vibid:1001000190283": 6,
+      "gas:candidate-vibid:1001000113898": 18,
+      "special:against-all": 9
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=132000001&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=213200070895&region=0&sub_region=0&type=429",
@@ -669,14 +669,14 @@ export const duma_2003_uik_428_region_13_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Алешкин Олег Иванович": 7,
-      "Гришин Виктор Иванович": 360,
-      "Давыдкин Михаил Александрович": 18,
-      "Калашников Сергей Александрович": 5,
-      "Костерин Евгений Алексеевич": 29,
-      "Нечаев Виктор Анатольевич": 0,
-      "Полушкин Александр Викторович": 0,
-      "Против всех": 39
+      "gas:candidate-vibid:1001000289802": 7,
+      "gas:candidate-vibid:1001000225880": 360,
+      "gas:candidate-vibid:213200070602": 18,
+      "gas:candidate-vibid:1001000195028": 5,
+      "gas:candidate-vibid:1001000121795": 29,
+      "gas:candidate-vibid:1001000190283": 0,
+      "gas:candidate-vibid:1001000113898": 0,
+      "special:against-all": 39
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=132000001&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=213200070895&region=0&sub_region=0&type=429",
@@ -726,14 +726,14 @@ export const duma_2003_uik_428_region_13_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Алешкин Олег Иванович": 5,
-      "Гришин Виктор Иванович": 1261,
-      "Давыдкин Михаил Александрович": 5,
-      "Калашников Сергей Александрович": 1,
-      "Костерин Евгений Алексеевич": 91,
-      "Нечаев Виктор Анатольевич": 1,
-      "Полушкин Александр Викторович": 2,
-      "Против всех": 7
+      "gas:candidate-vibid:1001000289802": 5,
+      "gas:candidate-vibid:1001000225880": 1261,
+      "gas:candidate-vibid:213200070602": 5,
+      "gas:candidate-vibid:1001000195028": 1,
+      "gas:candidate-vibid:1001000121795": 91,
+      "gas:candidate-vibid:1001000190283": 1,
+      "gas:candidate-vibid:1001000113898": 2,
+      "special:against-all": 7
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=132000001&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=213200070895&region=0&sub_region=0&type=429",
@@ -783,14 +783,14 @@ export const duma_2003_uik_428_region_13_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Алешкин Олег Иванович": 1,
-      "Гришин Виктор Иванович": 174,
-      "Давыдкин Михаил Александрович": 2,
-      "Калашников Сергей Александрович": 1,
-      "Костерин Евгений Алексеевич": 5,
-      "Нечаев Виктор Анатольевич": 0,
-      "Полушкин Александр Викторович": 1,
-      "Против всех": 1
+      "gas:candidate-vibid:1001000289802": 1,
+      "gas:candidate-vibid:1001000225880": 174,
+      "gas:candidate-vibid:213200070602": 2,
+      "gas:candidate-vibid:1001000195028": 1,
+      "gas:candidate-vibid:1001000121795": 5,
+      "gas:candidate-vibid:1001000190283": 0,
+      "gas:candidate-vibid:1001000113898": 1,
+      "special:against-all": 1
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=132000001&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=213200070895&region=0&sub_region=0&type=429",
@@ -840,14 +840,14 @@ export const duma_2003_uik_428_region_13_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Алешкин Олег Иванович": 2,
-      "Гришин Виктор Иванович": 176,
-      "Давыдкин Михаил Александрович": 1,
-      "Калашников Сергей Александрович": 0,
-      "Костерин Евгений Алексеевич": 15,
-      "Нечаев Виктор Анатольевич": 0,
-      "Полушкин Александр Викторович": 0,
-      "Против всех": 3
+      "gas:candidate-vibid:1001000289802": 2,
+      "gas:candidate-vibid:1001000225880": 176,
+      "gas:candidate-vibid:213200070602": 1,
+      "gas:candidate-vibid:1001000195028": 0,
+      "gas:candidate-vibid:1001000121795": 15,
+      "gas:candidate-vibid:1001000190283": 0,
+      "gas:candidate-vibid:1001000113898": 0,
+      "special:against-all": 3
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=132000001&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=213200070895&region=0&sub_region=0&type=429",
@@ -897,14 +897,14 @@ export const duma_2003_uik_428_region_13_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Алешкин Олег Иванович": 0,
-      "Гришин Виктор Иванович": 270,
-      "Давыдкин Михаил Александрович": 0,
-      "Калашников Сергей Александрович": 0,
-      "Костерин Евгений Алексеевич": 9,
-      "Нечаев Виктор Анатольевич": 0,
-      "Полушкин Александр Викторович": 0,
-      "Против всех": 0
+      "gas:candidate-vibid:1001000289802": 0,
+      "gas:candidate-vibid:1001000225880": 270,
+      "gas:candidate-vibid:213200070602": 0,
+      "gas:candidate-vibid:1001000195028": 0,
+      "gas:candidate-vibid:1001000121795": 9,
+      "gas:candidate-vibid:1001000190283": 0,
+      "gas:candidate-vibid:1001000113898": 0,
+      "special:against-all": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=132000001&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=213200070895&region=0&sub_region=0&type=429",
@@ -954,14 +954,14 @@ export const duma_2003_uik_428_region_13_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Алешкин Олег Иванович": 2,
-      "Гришин Виктор Иванович": 86,
-      "Давыдкин Михаил Александрович": 0,
-      "Калашников Сергей Александрович": 0,
-      "Костерин Евгений Алексеевич": 5,
-      "Нечаев Виктор Анатольевич": 0,
-      "Полушкин Александр Викторович": 0,
-      "Против всех": 0
+      "gas:candidate-vibid:1001000289802": 2,
+      "gas:candidate-vibid:1001000225880": 86,
+      "gas:candidate-vibid:213200070602": 0,
+      "gas:candidate-vibid:1001000195028": 0,
+      "gas:candidate-vibid:1001000121795": 5,
+      "gas:candidate-vibid:1001000190283": 0,
+      "gas:candidate-vibid:1001000113898": 0,
+      "special:against-all": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=132000001&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=213200070895&region=0&sub_region=0&type=429",
@@ -1011,14 +1011,14 @@ export const duma_2003_uik_428_region_13_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Алешкин Олег Иванович": 0,
-      "Гришин Виктор Иванович": 337,
-      "Давыдкин Михаил Александрович": 0,
-      "Калашников Сергей Александрович": 0,
-      "Костерин Евгений Алексеевич": 11,
-      "Нечаев Виктор Анатольевич": 0,
-      "Полушкин Александр Викторович": 0,
-      "Против всех": 6
+      "gas:candidate-vibid:1001000289802": 0,
+      "gas:candidate-vibid:1001000225880": 337,
+      "gas:candidate-vibid:213200070602": 0,
+      "gas:candidate-vibid:1001000195028": 0,
+      "gas:candidate-vibid:1001000121795": 11,
+      "gas:candidate-vibid:1001000190283": 0,
+      "gas:candidate-vibid:1001000113898": 0,
+      "special:against-all": 6
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=132000001&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=213200070895&region=0&sub_region=0&type=429",
@@ -1068,14 +1068,14 @@ export const duma_2003_uik_428_region_13_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Алешкин Олег Иванович": 0,
-      "Гришин Виктор Иванович": 262,
-      "Давыдкин Михаил Александрович": 2,
-      "Калашников Сергей Александрович": 0,
-      "Костерин Евгений Алексеевич": 4,
-      "Нечаев Виктор Анатольевич": 1,
-      "Полушкин Александр Викторович": 0,
-      "Против всех": 0
+      "gas:candidate-vibid:1001000289802": 0,
+      "gas:candidate-vibid:1001000225880": 262,
+      "gas:candidate-vibid:213200070602": 2,
+      "gas:candidate-vibid:1001000195028": 0,
+      "gas:candidate-vibid:1001000121795": 4,
+      "gas:candidate-vibid:1001000190283": 1,
+      "gas:candidate-vibid:1001000113898": 0,
+      "special:against-all": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=132000001&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=213200070895&region=0&sub_region=0&type=429",
@@ -1125,14 +1125,14 @@ export const duma_2003_uik_428_region_13_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Алешкин Олег Иванович": 2,
-      "Гришин Виктор Иванович": 720,
-      "Давыдкин Михаил Александрович": 3,
-      "Калашников Сергей Александрович": 0,
-      "Костерин Евгений Алексеевич": 16,
-      "Нечаев Виктор Анатольевич": 0,
-      "Полушкин Александр Викторович": 1,
-      "Против всех": 3
+      "gas:candidate-vibid:1001000289802": 2,
+      "gas:candidate-vibid:1001000225880": 720,
+      "gas:candidate-vibid:213200070602": 3,
+      "gas:candidate-vibid:1001000195028": 0,
+      "gas:candidate-vibid:1001000121795": 16,
+      "gas:candidate-vibid:1001000190283": 0,
+      "gas:candidate-vibid:1001000113898": 1,
+      "special:against-all": 3
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=132000001&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=213200070895&region=0&sub_region=0&type=429",
@@ -1182,14 +1182,14 @@ export const duma_2003_uik_428_region_13_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Алешкин Олег Иванович": 0,
-      "Гришин Виктор Иванович": 302,
-      "Давыдкин Михаил Александрович": 0,
-      "Калашников Сергей Александрович": 0,
-      "Костерин Евгений Алексеевич": 3,
-      "Нечаев Виктор Анатольевич": 0,
-      "Полушкин Александр Викторович": 0,
-      "Против всех": 9
+      "gas:candidate-vibid:1001000289802": 0,
+      "gas:candidate-vibid:1001000225880": 302,
+      "gas:candidate-vibid:213200070602": 0,
+      "gas:candidate-vibid:1001000195028": 0,
+      "gas:candidate-vibid:1001000121795": 3,
+      "gas:candidate-vibid:1001000190283": 0,
+      "gas:candidate-vibid:1001000113898": 0,
+      "special:against-all": 9
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=132000001&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=213200070895&region=0&sub_region=0&type=429",
@@ -1239,14 +1239,14 @@ export const duma_2003_uik_428_region_13_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Алешкин Олег Иванович": 1,
-      "Гришин Виктор Иванович": 82,
-      "Давыдкин Михаил Александрович": 4,
-      "Калашников Сергей Александрович": 1,
-      "Костерин Евгений Алексеевич": 3,
-      "Нечаев Виктор Анатольевич": 1,
-      "Полушкин Александр Викторович": 4,
-      "Против всех": 12
+      "gas:candidate-vibid:1001000289802": 1,
+      "gas:candidate-vibid:1001000225880": 82,
+      "gas:candidate-vibid:213200070602": 4,
+      "gas:candidate-vibid:1001000195028": 1,
+      "gas:candidate-vibid:1001000121795": 3,
+      "gas:candidate-vibid:1001000190283": 1,
+      "gas:candidate-vibid:1001000113898": 4,
+      "special:against-all": 12
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=132000001&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=213200070895&region=0&sub_region=0&type=429",
@@ -1296,14 +1296,14 @@ export const duma_2003_uik_428_region_13_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Алешкин Олег Иванович": 3,
-      "Гришин Виктор Иванович": 149,
-      "Давыдкин Михаил Александрович": 3,
-      "Калашников Сергей Александрович": 1,
-      "Костерин Евгений Алексеевич": 12,
-      "Нечаев Виктор Анатольевич": 0,
-      "Полушкин Александр Викторович": 2,
-      "Против всех": 9
+      "gas:candidate-vibid:1001000289802": 3,
+      "gas:candidate-vibid:1001000225880": 149,
+      "gas:candidate-vibid:213200070602": 3,
+      "gas:candidate-vibid:1001000195028": 1,
+      "gas:candidate-vibid:1001000121795": 12,
+      "gas:candidate-vibid:1001000190283": 0,
+      "gas:candidate-vibid:1001000113898": 2,
+      "special:against-all": 9
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=132000001&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=213200070895&region=0&sub_region=0&type=429",
@@ -1353,14 +1353,14 @@ export const duma_2003_uik_428_region_13_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Алешкин Олег Иванович": 3,
-      "Гришин Виктор Иванович": 161,
-      "Давыдкин Михаил Александрович": 0,
-      "Калашников Сергей Александрович": 1,
-      "Костерин Евгений Алексеевич": 18,
-      "Нечаев Виктор Анатольевич": 1,
-      "Полушкин Александр Викторович": 2,
-      "Против всех": 14
+      "gas:candidate-vibid:1001000289802": 3,
+      "gas:candidate-vibid:1001000225880": 161,
+      "gas:candidate-vibid:213200070602": 0,
+      "gas:candidate-vibid:1001000195028": 1,
+      "gas:candidate-vibid:1001000121795": 18,
+      "gas:candidate-vibid:1001000190283": 1,
+      "gas:candidate-vibid:1001000113898": 2,
+      "special:against-all": 14
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=132000001&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=213200070895&region=0&sub_region=0&type=429",
@@ -1410,14 +1410,14 @@ export const duma_2003_uik_428_region_13_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Алешкин Олег Иванович": 5,
-      "Гришин Виктор Иванович": 505,
-      "Давыдкин Михаил Александрович": 0,
-      "Калашников Сергей Александрович": 3,
-      "Костерин Евгений Алексеевич": 20,
-      "Нечаев Виктор Анатольевич": 0,
-      "Полушкин Александр Викторович": 1,
-      "Против всех": 18
+      "gas:candidate-vibid:1001000289802": 5,
+      "gas:candidate-vibid:1001000225880": 505,
+      "gas:candidate-vibid:213200070602": 0,
+      "gas:candidate-vibid:1001000195028": 3,
+      "gas:candidate-vibid:1001000121795": 20,
+      "gas:candidate-vibid:1001000190283": 0,
+      "gas:candidate-vibid:1001000113898": 1,
+      "special:against-all": 18
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=132000001&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=213200070895&region=0&sub_region=0&type=429",
@@ -1467,14 +1467,14 @@ export const duma_2003_uik_428_region_13_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Алешкин Олег Иванович": 3,
-      "Гришин Виктор Иванович": 482,
-      "Давыдкин Михаил Александрович": 0,
-      "Калашников Сергей Александрович": 0,
-      "Костерин Евгений Алексеевич": 40,
-      "Нечаев Виктор Анатольевич": 2,
-      "Полушкин Александр Викторович": 0,
-      "Против всех": 3
+      "gas:candidate-vibid:1001000289802": 3,
+      "gas:candidate-vibid:1001000225880": 482,
+      "gas:candidate-vibid:213200070602": 0,
+      "gas:candidate-vibid:1001000195028": 0,
+      "gas:candidate-vibid:1001000121795": 40,
+      "gas:candidate-vibid:1001000190283": 2,
+      "gas:candidate-vibid:1001000113898": 0,
+      "special:against-all": 3
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=132000001&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=213200070895&region=0&sub_region=0&type=429",
@@ -1524,14 +1524,14 @@ export const duma_2003_uik_428_region_13_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Алешкин Олег Иванович": 0,
-      "Гришин Виктор Иванович": 80,
-      "Давыдкин Михаил Александрович": 0,
-      "Калашников Сергей Александрович": 0,
-      "Костерин Евгений Алексеевич": 2,
-      "Нечаев Виктор Анатольевич": 0,
-      "Полушкин Александр Викторович": 0,
-      "Против всех": 0
+      "gas:candidate-vibid:1001000289802": 0,
+      "gas:candidate-vibid:1001000225880": 80,
+      "gas:candidate-vibid:213200070602": 0,
+      "gas:candidate-vibid:1001000195028": 0,
+      "gas:candidate-vibid:1001000121795": 2,
+      "gas:candidate-vibid:1001000190283": 0,
+      "gas:candidate-vibid:1001000113898": 0,
+      "special:against-all": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=132000001&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=213200070895&region=0&sub_region=0&type=429",
@@ -1581,14 +1581,14 @@ export const duma_2003_uik_428_region_13_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Алешкин Олег Иванович": 0,
-      "Гришин Виктор Иванович": 317,
-      "Давыдкин Михаил Александрович": 0,
-      "Калашников Сергей Александрович": 0,
-      "Костерин Евгений Алексеевич": 8,
-      "Нечаев Виктор Анатольевич": 0,
-      "Полушкин Александр Викторович": 0,
-      "Против всех": 4
+      "gas:candidate-vibid:1001000289802": 0,
+      "gas:candidate-vibid:1001000225880": 317,
+      "gas:candidate-vibid:213200070602": 0,
+      "gas:candidate-vibid:1001000195028": 0,
+      "gas:candidate-vibid:1001000121795": 8,
+      "gas:candidate-vibid:1001000190283": 0,
+      "gas:candidate-vibid:1001000113898": 0,
+      "special:against-all": 4
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=132000001&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=213200070895&region=0&sub_region=0&type=429",
@@ -1638,14 +1638,14 @@ export const duma_2003_uik_428_region_13_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Алешкин Олег Иванович": 3,
-      "Гришин Виктор Иванович": 267,
-      "Давыдкин Михаил Александрович": 0,
-      "Калашников Сергей Александрович": 0,
-      "Костерин Евгений Алексеевич": 5,
-      "Нечаев Виктор Анатольевич": 0,
-      "Полушкин Александр Викторович": 2,
-      "Против всех": 8
+      "gas:candidate-vibid:1001000289802": 3,
+      "gas:candidate-vibid:1001000225880": 267,
+      "gas:candidate-vibid:213200070602": 0,
+      "gas:candidate-vibid:1001000195028": 0,
+      "gas:candidate-vibid:1001000121795": 5,
+      "gas:candidate-vibid:1001000190283": 0,
+      "gas:candidate-vibid:1001000113898": 2,
+      "special:against-all": 8
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=132000001&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=213200070895&region=0&sub_region=0&type=429",
@@ -1695,14 +1695,14 @@ export const duma_2003_uik_428_region_13_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Алешкин Олег Иванович": 2,
-      "Гришин Виктор Иванович": 129,
-      "Давыдкин Михаил Александрович": 2,
-      "Калашников Сергей Александрович": 0,
-      "Костерин Евгений Алексеевич": 12,
-      "Нечаев Виктор Анатольевич": 0,
-      "Полушкин Александр Викторович": 0,
-      "Против всех": 3
+      "gas:candidate-vibid:1001000289802": 2,
+      "gas:candidate-vibid:1001000225880": 129,
+      "gas:candidate-vibid:213200070602": 2,
+      "gas:candidate-vibid:1001000195028": 0,
+      "gas:candidate-vibid:1001000121795": 12,
+      "gas:candidate-vibid:1001000190283": 0,
+      "gas:candidate-vibid:1001000113898": 0,
+      "special:against-all": 3
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=132000001&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=213200070895&region=0&sub_region=0&type=429",
@@ -1752,14 +1752,14 @@ export const duma_2003_uik_428_region_13_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Алешкин Олег Иванович": 5,
-      "Гришин Виктор Иванович": 168,
-      "Давыдкин Михаил Александрович": 1,
-      "Калашников Сергей Александрович": 0,
-      "Костерин Евгений Алексеевич": 0,
-      "Нечаев Виктор Анатольевич": 0,
-      "Полушкин Александр Викторович": 2,
-      "Против всех": 0
+      "gas:candidate-vibid:1001000289802": 5,
+      "gas:candidate-vibid:1001000225880": 168,
+      "gas:candidate-vibid:213200070602": 1,
+      "gas:candidate-vibid:1001000195028": 0,
+      "gas:candidate-vibid:1001000121795": 0,
+      "gas:candidate-vibid:1001000190283": 0,
+      "gas:candidate-vibid:1001000113898": 2,
+      "special:against-all": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=132000001&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=213200070895&region=0&sub_region=0&type=429",
@@ -1809,14 +1809,14 @@ export const duma_2003_uik_428_region_13_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Алешкин Олег Иванович": 3,
-      "Гришин Виктор Иванович": 403,
-      "Давыдкин Михаил Александрович": 3,
-      "Калашников Сергей Александрович": 0,
-      "Костерин Евгений Алексеевич": 6,
-      "Нечаев Виктор Анатольевич": 0,
-      "Полушкин Александр Викторович": 0,
-      "Против всех": 3
+      "gas:candidate-vibid:1001000289802": 3,
+      "gas:candidate-vibid:1001000225880": 403,
+      "gas:candidate-vibid:213200070602": 3,
+      "gas:candidate-vibid:1001000195028": 0,
+      "gas:candidate-vibid:1001000121795": 6,
+      "gas:candidate-vibid:1001000190283": 0,
+      "gas:candidate-vibid:1001000113898": 0,
+      "special:against-all": 3
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=132000001&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=213200070895&region=0&sub_region=0&type=429",
@@ -1866,14 +1866,14 @@ export const duma_2003_uik_428_region_13_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Алешкин Олег Иванович": 2,
-      "Гришин Виктор Иванович": 551,
-      "Давыдкин Михаил Александрович": 2,
-      "Калашников Сергей Александрович": 0,
-      "Костерин Евгений Алексеевич": 2,
-      "Нечаев Виктор Анатольевич": 0,
-      "Полушкин Александр Викторович": 2,
-      "Против всех": 2
+      "gas:candidate-vibid:1001000289802": 2,
+      "gas:candidate-vibid:1001000225880": 551,
+      "gas:candidate-vibid:213200070602": 2,
+      "gas:candidate-vibid:1001000195028": 0,
+      "gas:candidate-vibid:1001000121795": 2,
+      "gas:candidate-vibid:1001000190283": 0,
+      "gas:candidate-vibid:1001000113898": 2,
+      "special:against-all": 2
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=132000001&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=213200070895&region=0&sub_region=0&type=429",
@@ -1923,14 +1923,14 @@ export const duma_2003_uik_428_region_13_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Алешкин Олег Иванович": 7,
-      "Гришин Виктор Иванович": 204,
-      "Давыдкин Михаил Александрович": 0,
-      "Калашников Сергей Александрович": 2,
-      "Костерин Евгений Алексеевич": 5,
-      "Нечаев Виктор Анатольевич": 2,
-      "Полушкин Александр Викторович": 0,
-      "Против всех": 6
+      "gas:candidate-vibid:1001000289802": 7,
+      "gas:candidate-vibid:1001000225880": 204,
+      "gas:candidate-vibid:213200070602": 0,
+      "gas:candidate-vibid:1001000195028": 2,
+      "gas:candidate-vibid:1001000121795": 5,
+      "gas:candidate-vibid:1001000190283": 2,
+      "gas:candidate-vibid:1001000113898": 0,
+      "special:against-all": 6
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=132000001&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=213200070895&region=0&sub_region=0&type=429",
@@ -1980,14 +1980,14 @@ export const duma_2003_uik_428_region_13_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Алешкин Олег Иванович": 25,
-      "Гришин Виктор Иванович": 578,
-      "Давыдкин Михаил Александрович": 2,
-      "Калашников Сергей Александрович": 6,
-      "Костерин Евгений Алексеевич": 31,
-      "Нечаев Виктор Анатольевич": 1,
-      "Полушкин Александр Викторович": 3,
-      "Против всех": 47
+      "gas:candidate-vibid:1001000289802": 25,
+      "gas:candidate-vibid:1001000225880": 578,
+      "gas:candidate-vibid:213200070602": 2,
+      "gas:candidate-vibid:1001000195028": 6,
+      "gas:candidate-vibid:1001000121795": 31,
+      "gas:candidate-vibid:1001000190283": 1,
+      "gas:candidate-vibid:1001000113898": 3,
+      "special:against-all": 47
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=132000001&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=213200070895&region=0&sub_region=0&type=429",
@@ -2037,14 +2037,14 @@ export const duma_2003_uik_428_region_13_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Алешкин Олег Иванович": 1,
-      "Гришин Виктор Иванович": 152,
-      "Давыдкин Михаил Александрович": 2,
-      "Калашников Сергей Александрович": 2,
-      "Костерин Евгений Алексеевич": 7,
-      "Нечаев Виктор Анатольевич": 0,
-      "Полушкин Александр Викторович": 0,
-      "Против всех": 2
+      "gas:candidate-vibid:1001000289802": 1,
+      "gas:candidate-vibid:1001000225880": 152,
+      "gas:candidate-vibid:213200070602": 2,
+      "gas:candidate-vibid:1001000195028": 2,
+      "gas:candidate-vibid:1001000121795": 7,
+      "gas:candidate-vibid:1001000190283": 0,
+      "gas:candidate-vibid:1001000113898": 0,
+      "special:against-all": 2
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=132000001&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=213200070895&region=0&sub_region=0&type=429",
@@ -2094,14 +2094,14 @@ export const duma_2003_uik_428_region_13_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Алешкин Олег Иванович": 3,
-      "Гришин Виктор Иванович": 336,
-      "Давыдкин Михаил Александрович": 0,
-      "Калашников Сергей Александрович": 0,
-      "Костерин Евгений Алексеевич": 7,
-      "Нечаев Виктор Анатольевич": 0,
-      "Полушкин Александр Викторович": 0,
-      "Против всех": 3
+      "gas:candidate-vibid:1001000289802": 3,
+      "gas:candidate-vibid:1001000225880": 336,
+      "gas:candidate-vibid:213200070602": 0,
+      "gas:candidate-vibid:1001000195028": 0,
+      "gas:candidate-vibid:1001000121795": 7,
+      "gas:candidate-vibid:1001000190283": 0,
+      "gas:candidate-vibid:1001000113898": 0,
+      "special:against-all": 3
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=132000001&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=213200070895&region=0&sub_region=0&type=429",
@@ -2151,14 +2151,14 @@ export const duma_2003_uik_428_region_13_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Алешкин Олег Иванович": 0,
-      "Гришин Виктор Иванович": 723,
-      "Давыдкин Михаил Александрович": 0,
-      "Калашников Сергей Александрович": 0,
-      "Костерин Евгений Алексеевич": 19,
-      "Нечаев Виктор Анатольевич": 0,
-      "Полушкин Александр Викторович": 4,
-      "Против всех": 6
+      "gas:candidate-vibid:1001000289802": 0,
+      "gas:candidate-vibid:1001000225880": 723,
+      "gas:candidate-vibid:213200070602": 0,
+      "gas:candidate-vibid:1001000195028": 0,
+      "gas:candidate-vibid:1001000121795": 19,
+      "gas:candidate-vibid:1001000190283": 0,
+      "gas:candidate-vibid:1001000113898": 4,
+      "special:against-all": 6
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=132000001&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=213200070895&region=0&sub_region=0&type=429",
@@ -2208,14 +2208,14 @@ export const duma_2003_uik_428_region_13_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Алешкин Олег Иванович": 4,
-      "Гришин Виктор Иванович": 184,
-      "Давыдкин Михаил Александрович": 0,
-      "Калашников Сергей Александрович": 0,
-      "Костерин Евгений Алексеевич": 9,
-      "Нечаев Виктор Анатольевич": 0,
-      "Полушкин Александр Викторович": 0,
-      "Против всех": 2
+      "gas:candidate-vibid:1001000289802": 4,
+      "gas:candidate-vibid:1001000225880": 184,
+      "gas:candidate-vibid:213200070602": 0,
+      "gas:candidate-vibid:1001000195028": 0,
+      "gas:candidate-vibid:1001000121795": 9,
+      "gas:candidate-vibid:1001000190283": 0,
+      "gas:candidate-vibid:1001000113898": 0,
+      "special:against-all": 2
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=132000001&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=213200070895&region=0&sub_region=0&type=429",
@@ -2265,14 +2265,14 @@ export const duma_2003_uik_428_region_13_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Алешкин Олег Иванович": 0,
-      "Гришин Виктор Иванович": 61,
-      "Давыдкин Михаил Александрович": 0,
-      "Калашников Сергей Александрович": 0,
-      "Костерин Евгений Алексеевич": 0,
-      "Нечаев Виктор Анатольевич": 0,
-      "Полушкин Александр Викторович": 1,
-      "Против всех": 0
+      "gas:candidate-vibid:1001000289802": 0,
+      "gas:candidate-vibid:1001000225880": 61,
+      "gas:candidate-vibid:213200070602": 0,
+      "gas:candidate-vibid:1001000195028": 0,
+      "gas:candidate-vibid:1001000121795": 0,
+      "gas:candidate-vibid:1001000190283": 0,
+      "gas:candidate-vibid:1001000113898": 1,
+      "special:against-all": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=132000001&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=213200070895&region=0&sub_region=0&type=429",
@@ -2322,14 +2322,14 @@ export const duma_2003_uik_428_region_13_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Алешкин Олег Иванович": 1,
-      "Гришин Виктор Иванович": 172,
-      "Давыдкин Михаил Александрович": 0,
-      "Калашников Сергей Александрович": 1,
-      "Костерин Евгений Алексеевич": 11,
-      "Нечаев Виктор Анатольевич": 1,
-      "Полушкин Александр Викторович": 0,
-      "Против всех": 6
+      "gas:candidate-vibid:1001000289802": 1,
+      "gas:candidate-vibid:1001000225880": 172,
+      "gas:candidate-vibid:213200070602": 0,
+      "gas:candidate-vibid:1001000195028": 1,
+      "gas:candidate-vibid:1001000121795": 11,
+      "gas:candidate-vibid:1001000190283": 1,
+      "gas:candidate-vibid:1001000113898": 0,
+      "special:against-all": 6
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=132000001&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=213200070895&region=0&sub_region=0&type=429",
@@ -2379,14 +2379,14 @@ export const duma_2003_uik_428_region_13_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Алешкин Олег Иванович": 0,
-      "Гришин Виктор Иванович": 77,
-      "Давыдкин Михаил Александрович": 0,
-      "Калашников Сергей Александрович": 0,
-      "Костерин Евгений Алексеевич": 0,
-      "Нечаев Виктор Анатольевич": 0,
-      "Полушкин Александр Викторович": 0,
-      "Против всех": 0
+      "gas:candidate-vibid:1001000289802": 0,
+      "gas:candidate-vibid:1001000225880": 77,
+      "gas:candidate-vibid:213200070602": 0,
+      "gas:candidate-vibid:1001000195028": 0,
+      "gas:candidate-vibid:1001000121795": 0,
+      "gas:candidate-vibid:1001000190283": 0,
+      "gas:candidate-vibid:1001000113898": 0,
+      "special:against-all": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=132000001&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=213200070895&region=0&sub_region=0&type=429",
@@ -2436,14 +2436,14 @@ export const duma_2003_uik_428_region_13_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Алешкин Олег Иванович": 2,
-      "Гришин Виктор Иванович": 292,
-      "Давыдкин Михаил Александрович": 3,
-      "Калашников Сергей Александрович": 2,
-      "Костерин Евгений Алексеевич": 9,
-      "Нечаев Виктор Анатольевич": 1,
-      "Полушкин Александр Викторович": 1,
-      "Против всех": 5
+      "gas:candidate-vibid:1001000289802": 2,
+      "gas:candidate-vibid:1001000225880": 292,
+      "gas:candidate-vibid:213200070602": 3,
+      "gas:candidate-vibid:1001000195028": 2,
+      "gas:candidate-vibid:1001000121795": 9,
+      "gas:candidate-vibid:1001000190283": 1,
+      "gas:candidate-vibid:1001000113898": 1,
+      "special:against-all": 5
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=132000001&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=213200070895&region=0&sub_region=0&type=429",
@@ -2493,14 +2493,14 @@ export const duma_2003_uik_428_region_13_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Алешкин Олег Иванович": 4,
-      "Гришин Виктор Иванович": 248,
-      "Давыдкин Михаил Александрович": 0,
-      "Калашников Сергей Александрович": 0,
-      "Костерин Евгений Алексеевич": 5,
-      "Нечаев Виктор Анатольевич": 1,
-      "Полушкин Александр Викторович": 0,
-      "Против всех": 1
+      "gas:candidate-vibid:1001000289802": 4,
+      "gas:candidate-vibid:1001000225880": 248,
+      "gas:candidate-vibid:213200070602": 0,
+      "gas:candidate-vibid:1001000195028": 0,
+      "gas:candidate-vibid:1001000121795": 5,
+      "gas:candidate-vibid:1001000190283": 1,
+      "gas:candidate-vibid:1001000113898": 0,
+      "special:against-all": 1
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=132000001&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=213200070895&region=0&sub_region=0&type=429",
@@ -2550,14 +2550,14 @@ export const duma_2003_uik_428_region_13_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Алешкин Олег Иванович": 1,
-      "Гришин Виктор Иванович": 111,
-      "Давыдкин Михаил Александрович": 3,
-      "Калашников Сергей Александрович": 0,
-      "Костерин Евгений Алексеевич": 3,
-      "Нечаев Виктор Анатольевич": 0,
-      "Полушкин Александр Викторович": 0,
-      "Против всех": 0
+      "gas:candidate-vibid:1001000289802": 1,
+      "gas:candidate-vibid:1001000225880": 111,
+      "gas:candidate-vibid:213200070602": 3,
+      "gas:candidate-vibid:1001000195028": 0,
+      "gas:candidate-vibid:1001000121795": 3,
+      "gas:candidate-vibid:1001000190283": 0,
+      "gas:candidate-vibid:1001000113898": 0,
+      "special:against-all": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=132000001&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=213200070895&region=0&sub_region=0&type=429",
@@ -2607,14 +2607,14 @@ export const duma_2003_uik_428_region_13_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Алешкин Олег Иванович": 6,
-      "Гришин Виктор Иванович": 597,
-      "Давыдкин Михаил Александрович": 3,
-      "Калашников Сергей Александрович": 16,
-      "Костерин Евгений Алексеевич": 4,
-      "Нечаев Виктор Анатольевич": 0,
-      "Полушкин Александр Викторович": 0,
-      "Против всех": 11
+      "gas:candidate-vibid:1001000289802": 6,
+      "gas:candidate-vibid:1001000225880": 597,
+      "gas:candidate-vibid:213200070602": 3,
+      "gas:candidate-vibid:1001000195028": 16,
+      "gas:candidate-vibid:1001000121795": 4,
+      "gas:candidate-vibid:1001000190283": 0,
+      "gas:candidate-vibid:1001000113898": 0,
+      "special:against-all": 11
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=132000001&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=213200070895&region=0&sub_region=0&type=429",
@@ -2664,14 +2664,14 @@ export const duma_2003_uik_428_region_13_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Алешкин Олег Иванович": 18,
-      "Гришин Виктор Иванович": 686,
-      "Давыдкин Михаил Александрович": 5,
-      "Калашников Сергей Александрович": 0,
-      "Костерин Евгений Алексеевич": 28,
-      "Нечаев Виктор Анатольевич": 0,
-      "Полушкин Александр Викторович": 0,
-      "Против всех": 2
+      "gas:candidate-vibid:1001000289802": 18,
+      "gas:candidate-vibid:1001000225880": 686,
+      "gas:candidate-vibid:213200070602": 5,
+      "gas:candidate-vibid:1001000195028": 0,
+      "gas:candidate-vibid:1001000121795": 28,
+      "gas:candidate-vibid:1001000190283": 0,
+      "gas:candidate-vibid:1001000113898": 0,
+      "special:against-all": 2
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=132000001&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=213200070895&region=0&sub_region=0&type=429",
@@ -2721,14 +2721,14 @@ export const duma_2003_uik_428_region_13_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Алешкин Олег Иванович": 57,
-      "Гришин Виктор Иванович": 946,
-      "Давыдкин Михаил Александрович": 6,
-      "Калашников Сергей Александрович": 5,
-      "Костерин Евгений Алексеевич": 73,
-      "Нечаев Виктор Анатольевич": 5,
-      "Полушкин Александр Викторович": 39,
-      "Против всех": 70
+      "gas:candidate-vibid:1001000289802": 57,
+      "gas:candidate-vibid:1001000225880": 946,
+      "gas:candidate-vibid:213200070602": 6,
+      "gas:candidate-vibid:1001000195028": 5,
+      "gas:candidate-vibid:1001000121795": 73,
+      "gas:candidate-vibid:1001000190283": 5,
+      "gas:candidate-vibid:1001000113898": 39,
+      "special:against-all": 70
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=132000002&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=213200070896&region=0&sub_region=0&type=429",
@@ -2778,14 +2778,14 @@ export const duma_2003_uik_428_region_13_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Алешкин Олег Иванович": 20,
-      "Гришин Виктор Иванович": 659,
-      "Давыдкин Михаил Александрович": 6,
-      "Калашников Сергей Александрович": 1,
-      "Костерин Евгений Алексеевич": 54,
-      "Нечаев Виктор Анатольевич": 0,
-      "Полушкин Александр Викторович": 33,
-      "Против всех": 11
+      "gas:candidate-vibid:1001000289802": 20,
+      "gas:candidate-vibid:1001000225880": 659,
+      "gas:candidate-vibid:213200070602": 6,
+      "gas:candidate-vibid:1001000195028": 1,
+      "gas:candidate-vibid:1001000121795": 54,
+      "gas:candidate-vibid:1001000190283": 0,
+      "gas:candidate-vibid:1001000113898": 33,
+      "special:against-all": 11
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=132000002&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=213200070896&region=0&sub_region=0&type=429",
@@ -2835,14 +2835,14 @@ export const duma_2003_uik_428_region_13_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Алешкин Олег Иванович": 21,
-      "Гришин Виктор Иванович": 963,
-      "Давыдкин Михаил Александрович": 2,
-      "Калашников Сергей Александрович": 2,
-      "Костерин Евгений Алексеевич": 58,
-      "Нечаев Виктор Анатольевич": 3,
-      "Полушкин Александр Викторович": 75,
-      "Против всех": 42
+      "gas:candidate-vibid:1001000289802": 21,
+      "gas:candidate-vibid:1001000225880": 963,
+      "gas:candidate-vibid:213200070602": 2,
+      "gas:candidate-vibid:1001000195028": 2,
+      "gas:candidate-vibid:1001000121795": 58,
+      "gas:candidate-vibid:1001000190283": 3,
+      "gas:candidate-vibid:1001000113898": 75,
+      "special:against-all": 42
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=132000002&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=213200070896&region=0&sub_region=0&type=429",
@@ -2892,14 +2892,14 @@ export const duma_2003_uik_428_region_13_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Алешкин Олег Иванович": 13,
-      "Гришин Виктор Иванович": 636,
-      "Давыдкин Михаил Александрович": 5,
-      "Калашников Сергей Александрович": 2,
-      "Костерин Евгений Алексеевич": 36,
-      "Нечаев Виктор Анатольевич": 2,
-      "Полушкин Александр Викторович": 38,
-      "Против всех": 26
+      "gas:candidate-vibid:1001000289802": 13,
+      "gas:candidate-vibid:1001000225880": 636,
+      "gas:candidate-vibid:213200070602": 5,
+      "gas:candidate-vibid:1001000195028": 2,
+      "gas:candidate-vibid:1001000121795": 36,
+      "gas:candidate-vibid:1001000190283": 2,
+      "gas:candidate-vibid:1001000113898": 38,
+      "special:against-all": 26
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=132000002&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=213200070896&region=0&sub_region=0&type=429",
@@ -2949,14 +2949,14 @@ export const duma_2003_uik_428_region_13_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Алешкин Олег Иванович": 0,
-      "Гришин Виктор Иванович": 181,
-      "Давыдкин Михаил Александрович": 0,
-      "Калашников Сергей Александрович": 0,
-      "Костерин Евгений Алексеевич": 1,
-      "Нечаев Виктор Анатольевич": 0,
-      "Полушкин Александр Викторович": 10,
-      "Против всех": 0
+      "gas:candidate-vibid:1001000289802": 0,
+      "gas:candidate-vibid:1001000225880": 181,
+      "gas:candidate-vibid:213200070602": 0,
+      "gas:candidate-vibid:1001000195028": 0,
+      "gas:candidate-vibid:1001000121795": 1,
+      "gas:candidate-vibid:1001000190283": 0,
+      "gas:candidate-vibid:1001000113898": 10,
+      "special:against-all": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=132000002&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=213200070896&region=0&sub_region=0&type=429",
@@ -3006,14 +3006,14 @@ export const duma_2003_uik_428_region_13_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Алешкин Олег Иванович": 8,
-      "Гришин Виктор Иванович": 171,
-      "Давыдкин Михаил Александрович": 0,
-      "Калашников Сергей Александрович": 0,
-      "Костерин Евгений Алексеевич": 7,
-      "Нечаев Виктор Анатольевич": 0,
-      "Полушкин Александр Викторович": 4,
-      "Против всех": 3
+      "gas:candidate-vibid:1001000289802": 8,
+      "gas:candidate-vibid:1001000225880": 171,
+      "gas:candidate-vibid:213200070602": 0,
+      "gas:candidate-vibid:1001000195028": 0,
+      "gas:candidate-vibid:1001000121795": 7,
+      "gas:candidate-vibid:1001000190283": 0,
+      "gas:candidate-vibid:1001000113898": 4,
+      "special:against-all": 3
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=132000002&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=213200070896&region=0&sub_region=0&type=429",
@@ -3063,14 +3063,14 @@ export const duma_2003_uik_428_region_13_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Алешкин Олег Иванович": 4,
-      "Гришин Виктор Иванович": 115,
-      "Давыдкин Михаил Александрович": 2,
-      "Калашников Сергей Александрович": 1,
-      "Костерин Евгений Алексеевич": 13,
-      "Нечаев Виктор Анатольевич": 1,
-      "Полушкин Александр Викторович": 17,
-      "Против всех": 6
+      "gas:candidate-vibid:1001000289802": 4,
+      "gas:candidate-vibid:1001000225880": 115,
+      "gas:candidate-vibid:213200070602": 2,
+      "gas:candidate-vibid:1001000195028": 1,
+      "gas:candidate-vibid:1001000121795": 13,
+      "gas:candidate-vibid:1001000190283": 1,
+      "gas:candidate-vibid:1001000113898": 17,
+      "special:against-all": 6
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=132000002&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=213200070896&region=0&sub_region=0&type=429",
@@ -3120,14 +3120,14 @@ export const duma_2003_uik_428_region_13_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Алешкин Олег Иванович": 0,
-      "Гришин Виктор Иванович": 86,
-      "Давыдкин Михаил Александрович": 1,
-      "Калашников Сергей Александрович": 0,
-      "Костерин Евгений Алексеевич": 4,
-      "Нечаев Виктор Анатольевич": 0,
-      "Полушкин Александр Викторович": 17,
-      "Против всех": 0
+      "gas:candidate-vibid:1001000289802": 0,
+      "gas:candidate-vibid:1001000225880": 86,
+      "gas:candidate-vibid:213200070602": 1,
+      "gas:candidate-vibid:1001000195028": 0,
+      "gas:candidate-vibid:1001000121795": 4,
+      "gas:candidate-vibid:1001000190283": 0,
+      "gas:candidate-vibid:1001000113898": 17,
+      "special:against-all": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=132000002&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=213200070896&region=0&sub_region=0&type=429",
@@ -3177,14 +3177,14 @@ export const duma_2003_uik_428_region_13_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Алешкин Олег Иванович": 2,
-      "Гришин Виктор Иванович": 134,
-      "Давыдкин Михаил Александрович": 0,
-      "Калашников Сергей Александрович": 0,
-      "Костерин Евгений Алексеевич": 1,
-      "Нечаев Виктор Анатольевич": 0,
-      "Полушкин Александр Викторович": 0,
-      "Против всех": 0
+      "gas:candidate-vibid:1001000289802": 2,
+      "gas:candidate-vibid:1001000225880": 134,
+      "gas:candidate-vibid:213200070602": 0,
+      "gas:candidate-vibid:1001000195028": 0,
+      "gas:candidate-vibid:1001000121795": 1,
+      "gas:candidate-vibid:1001000190283": 0,
+      "gas:candidate-vibid:1001000113898": 0,
+      "special:against-all": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=132000002&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=213200070896&region=0&sub_region=0&type=429",
@@ -3234,14 +3234,14 @@ export const duma_2003_uik_428_region_13_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Алешкин Олег Иванович": 3,
-      "Гришин Виктор Иванович": 157,
-      "Давыдкин Михаил Александрович": 0,
-      "Калашников Сергей Александрович": 0,
-      "Костерин Евгений Алексеевич": 7,
-      "Нечаев Виктор Анатольевич": 1,
-      "Полушкин Александр Викторович": 1,
-      "Против всех": 2
+      "gas:candidate-vibid:1001000289802": 3,
+      "gas:candidate-vibid:1001000225880": 157,
+      "gas:candidate-vibid:213200070602": 0,
+      "gas:candidate-vibid:1001000195028": 0,
+      "gas:candidate-vibid:1001000121795": 7,
+      "gas:candidate-vibid:1001000190283": 1,
+      "gas:candidate-vibid:1001000113898": 1,
+      "special:against-all": 2
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=132000002&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=213200070896&region=0&sub_region=0&type=429",
@@ -3291,14 +3291,14 @@ export const duma_2003_uik_428_region_13_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Алешкин Олег Иванович": 3,
-      "Гришин Виктор Иванович": 171,
-      "Давыдкин Михаил Александрович": 0,
-      "Калашников Сергей Александрович": 1,
-      "Костерин Евгений Алексеевич": 6,
-      "Нечаев Виктор Анатольевич": 0,
-      "Полушкин Александр Викторович": 2,
-      "Против всех": 6
+      "gas:candidate-vibid:1001000289802": 3,
+      "gas:candidate-vibid:1001000225880": 171,
+      "gas:candidate-vibid:213200070602": 0,
+      "gas:candidate-vibid:1001000195028": 1,
+      "gas:candidate-vibid:1001000121795": 6,
+      "gas:candidate-vibid:1001000190283": 0,
+      "gas:candidate-vibid:1001000113898": 2,
+      "special:against-all": 6
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=132000002&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=213200070896&region=0&sub_region=0&type=429",
@@ -3348,14 +3348,14 @@ export const duma_2003_uik_428_region_13_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Алешкин Олег Иванович": 0,
-      "Гришин Виктор Иванович": 276,
-      "Давыдкин Михаил Александрович": 0,
-      "Калашников Сергей Александрович": 0,
-      "Костерин Евгений Алексеевич": 10,
-      "Нечаев Виктор Анатольевич": 0,
-      "Полушкин Александр Викторович": 0,
-      "Против всех": 0
+      "gas:candidate-vibid:1001000289802": 0,
+      "gas:candidate-vibid:1001000225880": 276,
+      "gas:candidate-vibid:213200070602": 0,
+      "gas:candidate-vibid:1001000195028": 0,
+      "gas:candidate-vibid:1001000121795": 10,
+      "gas:candidate-vibid:1001000190283": 0,
+      "gas:candidate-vibid:1001000113898": 0,
+      "special:against-all": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=132000002&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=213200070896&region=0&sub_region=0&type=429",
@@ -3405,14 +3405,14 @@ export const duma_2003_uik_428_region_13_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Алешкин Олег Иванович": 3,
-      "Гришин Виктор Иванович": 385,
-      "Давыдкин Михаил Александрович": 0,
-      "Калашников Сергей Александрович": 0,
-      "Костерин Евгений Алексеевич": 14,
-      "Нечаев Виктор Анатольевич": 1,
-      "Полушкин Александр Викторович": 18,
-      "Против всех": 2
+      "gas:candidate-vibid:1001000289802": 3,
+      "gas:candidate-vibid:1001000225880": 385,
+      "gas:candidate-vibid:213200070602": 0,
+      "gas:candidate-vibid:1001000195028": 0,
+      "gas:candidate-vibid:1001000121795": 14,
+      "gas:candidate-vibid:1001000190283": 1,
+      "gas:candidate-vibid:1001000113898": 18,
+      "special:against-all": 2
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=132000002&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=213200070896&region=0&sub_region=0&type=429",
@@ -3462,14 +3462,14 @@ export const duma_2003_uik_428_region_13_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Алешкин Олег Иванович": 13,
-      "Гришин Виктор Иванович": 432,
-      "Давыдкин Михаил Александрович": 2,
-      "Калашников Сергей Александрович": 4,
-      "Костерин Евгений Алексеевич": 16,
-      "Нечаев Виктор Анатольевич": 0,
-      "Полушкин Александр Викторович": 10,
-      "Против всех": 15
+      "gas:candidate-vibid:1001000289802": 13,
+      "gas:candidate-vibid:1001000225880": 432,
+      "gas:candidate-vibid:213200070602": 2,
+      "gas:candidate-vibid:1001000195028": 4,
+      "gas:candidate-vibid:1001000121795": 16,
+      "gas:candidate-vibid:1001000190283": 0,
+      "gas:candidate-vibid:1001000113898": 10,
+      "special:against-all": 15
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=132000002&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=213200070896&region=0&sub_region=0&type=429",
@@ -3519,14 +3519,14 @@ export const duma_2003_uik_428_region_13_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Алешкин Олег Иванович": 0,
-      "Гришин Виктор Иванович": 273,
-      "Давыдкин Михаил Александрович": 0,
-      "Калашников Сергей Александрович": 0,
-      "Костерин Евгений Алексеевич": 58,
-      "Нечаев Виктор Анатольевич": 0,
-      "Полушкин Александр Викторович": 11,
-      "Против всех": 9
+      "gas:candidate-vibid:1001000289802": 0,
+      "gas:candidate-vibid:1001000225880": 273,
+      "gas:candidate-vibid:213200070602": 0,
+      "gas:candidate-vibid:1001000195028": 0,
+      "gas:candidate-vibid:1001000121795": 58,
+      "gas:candidate-vibid:1001000190283": 0,
+      "gas:candidate-vibid:1001000113898": 11,
+      "special:against-all": 9
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=132000002&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=213200070896&region=0&sub_region=0&type=429",
@@ -3576,14 +3576,14 @@ export const duma_2003_uik_428_region_13_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Алешкин Олег Иванович": 1,
-      "Гришин Виктор Иванович": 254,
-      "Давыдкин Михаил Александрович": 1,
-      "Калашников Сергей Александрович": 0,
-      "Костерин Евгений Алексеевич": 14,
-      "Нечаев Виктор Анатольевич": 1,
-      "Полушкин Александр Викторович": 1,
-      "Против всех": 5
+      "gas:candidate-vibid:1001000289802": 1,
+      "gas:candidate-vibid:1001000225880": 254,
+      "gas:candidate-vibid:213200070602": 1,
+      "gas:candidate-vibid:1001000195028": 0,
+      "gas:candidate-vibid:1001000121795": 14,
+      "gas:candidate-vibid:1001000190283": 1,
+      "gas:candidate-vibid:1001000113898": 1,
+      "special:against-all": 5
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=132000002&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=213200070896&region=0&sub_region=0&type=429",
@@ -3633,14 +3633,14 @@ export const duma_2003_uik_428_region_13_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Алешкин Олег Иванович": 1,
-      "Гришин Виктор Иванович": 374,
-      "Давыдкин Михаил Александрович": 1,
-      "Калашников Сергей Александрович": 2,
-      "Костерин Евгений Алексеевич": 13,
-      "Нечаев Виктор Анатольевич": 1,
-      "Полушкин Александр Викторович": 1,
-      "Против всех": 0
+      "gas:candidate-vibid:1001000289802": 1,
+      "gas:candidate-vibid:1001000225880": 374,
+      "gas:candidate-vibid:213200070602": 1,
+      "gas:candidate-vibid:1001000195028": 2,
+      "gas:candidate-vibid:1001000121795": 13,
+      "gas:candidate-vibid:1001000190283": 1,
+      "gas:candidate-vibid:1001000113898": 1,
+      "special:against-all": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=132000002&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=213200070896&region=0&sub_region=0&type=429",
@@ -3690,14 +3690,14 @@ export const duma_2003_uik_428_region_13_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Алешкин Олег Иванович": 9,
-      "Гришин Виктор Иванович": 387,
-      "Давыдкин Михаил Александрович": 3,
-      "Калашников Сергей Александрович": 0,
-      "Костерин Евгений Алексеевич": 34,
-      "Нечаев Виктор Анатольевич": 0,
-      "Полушкин Александр Викторович": 16,
-      "Против всех": 15
+      "gas:candidate-vibid:1001000289802": 9,
+      "gas:candidate-vibid:1001000225880": 387,
+      "gas:candidate-vibid:213200070602": 3,
+      "gas:candidate-vibid:1001000195028": 0,
+      "gas:candidate-vibid:1001000121795": 34,
+      "gas:candidate-vibid:1001000190283": 0,
+      "gas:candidate-vibid:1001000113898": 16,
+      "special:against-all": 15
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=132000002&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=213200070896&region=0&sub_region=0&type=429",
@@ -3747,14 +3747,14 @@ export const duma_2003_uik_428_region_13_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Алешкин Олег Иванович": 7,
-      "Гришин Виктор Иванович": 166,
-      "Давыдкин Михаил Александрович": 0,
-      "Калашников Сергей Александрович": 1,
-      "Костерин Евгений Алексеевич": 10,
-      "Нечаев Виктор Анатольевич": 0,
-      "Полушкин Александр Викторович": 2,
-      "Против всех": 0
+      "gas:candidate-vibid:1001000289802": 7,
+      "gas:candidate-vibid:1001000225880": 166,
+      "gas:candidate-vibid:213200070602": 0,
+      "gas:candidate-vibid:1001000195028": 1,
+      "gas:candidate-vibid:1001000121795": 10,
+      "gas:candidate-vibid:1001000190283": 0,
+      "gas:candidate-vibid:1001000113898": 2,
+      "special:against-all": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=132000002&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=213200070896&region=0&sub_region=0&type=429",
@@ -3804,14 +3804,14 @@ export const duma_2003_uik_428_region_13_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Алешкин Олег Иванович": 0,
-      "Гришин Виктор Иванович": 519,
-      "Давыдкин Михаил Александрович": 0,
-      "Калашников Сергей Александрович": 0,
-      "Костерин Евгений Алексеевич": 10,
-      "Нечаев Виктор Анатольевич": 0,
-      "Полушкин Александр Викторович": 89,
-      "Против всех": 14
+      "gas:candidate-vibid:1001000289802": 0,
+      "gas:candidate-vibid:1001000225880": 519,
+      "gas:candidate-vibid:213200070602": 0,
+      "gas:candidate-vibid:1001000195028": 0,
+      "gas:candidate-vibid:1001000121795": 10,
+      "gas:candidate-vibid:1001000190283": 0,
+      "gas:candidate-vibid:1001000113898": 89,
+      "special:against-all": 14
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=132000002&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=213200070896&region=0&sub_region=0&type=429",
@@ -3861,14 +3861,14 @@ export const duma_2003_uik_428_region_13_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Алешкин Олег Иванович": 2,
-      "Гришин Виктор Иванович": 400,
-      "Давыдкин Михаил Александрович": 0,
-      "Калашников Сергей Александрович": 0,
-      "Костерин Евгений Алексеевич": 17,
-      "Нечаев Виктор Анатольевич": 1,
-      "Полушкин Александр Викторович": 3,
-      "Против всех": 0
+      "gas:candidate-vibid:1001000289802": 2,
+      "gas:candidate-vibid:1001000225880": 400,
+      "gas:candidate-vibid:213200070602": 0,
+      "gas:candidate-vibid:1001000195028": 0,
+      "gas:candidate-vibid:1001000121795": 17,
+      "gas:candidate-vibid:1001000190283": 1,
+      "gas:candidate-vibid:1001000113898": 3,
+      "special:against-all": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=132000002&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=213200070896&region=0&sub_region=0&type=429",
@@ -3918,14 +3918,14 @@ export const duma_2003_uik_428_region_13_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Алешкин Олег Иванович": 11,
-      "Гришин Виктор Иванович": 470,
-      "Давыдкин Михаил Александрович": 3,
-      "Калашников Сергей Александрович": 0,
-      "Костерин Евгений Алексеевич": 33,
-      "Нечаев Виктор Анатольевич": 0,
-      "Полушкин Александр Викторович": 9,
-      "Против всех": 6
+      "gas:candidate-vibid:1001000289802": 11,
+      "gas:candidate-vibid:1001000225880": 470,
+      "gas:candidate-vibid:213200070602": 3,
+      "gas:candidate-vibid:1001000195028": 0,
+      "gas:candidate-vibid:1001000121795": 33,
+      "gas:candidate-vibid:1001000190283": 0,
+      "gas:candidate-vibid:1001000113898": 9,
+      "special:against-all": 6
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=132000002&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=213200070896&region=0&sub_region=0&type=429",
@@ -3975,14 +3975,14 @@ export const duma_2003_uik_428_region_13_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Алешкин Олег Иванович": 5,
-      "Гришин Виктор Иванович": 278,
-      "Давыдкин Михаил Александрович": 0,
-      "Калашников Сергей Александрович": 1,
-      "Костерин Евгений Алексеевич": 25,
-      "Нечаев Виктор Анатольевич": 0,
-      "Полушкин Александр Викторович": 4,
-      "Против всех": 3
+      "gas:candidate-vibid:1001000289802": 5,
+      "gas:candidate-vibid:1001000225880": 278,
+      "gas:candidate-vibid:213200070602": 0,
+      "gas:candidate-vibid:1001000195028": 1,
+      "gas:candidate-vibid:1001000121795": 25,
+      "gas:candidate-vibid:1001000190283": 0,
+      "gas:candidate-vibid:1001000113898": 4,
+      "special:against-all": 3
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=132000002&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=213200070896&region=0&sub_region=0&type=429",
@@ -4032,14 +4032,14 @@ export const duma_2003_uik_428_region_13_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Алешкин Олег Иванович": 3,
-      "Гришин Виктор Иванович": 175,
-      "Давыдкин Михаил Александрович": 0,
-      "Калашников Сергей Александрович": 0,
-      "Костерин Евгений Алексеевич": 22,
-      "Нечаев Виктор Анатольевич": 0,
-      "Полушкин Александр Викторович": 3,
-      "Против всех": 4
+      "gas:candidate-vibid:1001000289802": 3,
+      "gas:candidate-vibid:1001000225880": 175,
+      "gas:candidate-vibid:213200070602": 0,
+      "gas:candidate-vibid:1001000195028": 0,
+      "gas:candidate-vibid:1001000121795": 22,
+      "gas:candidate-vibid:1001000190283": 0,
+      "gas:candidate-vibid:1001000113898": 3,
+      "special:against-all": 4
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=132000002&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=213200070896&region=0&sub_region=0&type=429",
@@ -4089,14 +4089,14 @@ export const duma_2003_uik_428_region_13_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Алешкин Олег Иванович": 15,
-      "Гришин Виктор Иванович": 690,
-      "Давыдкин Михаил Александрович": 3,
-      "Калашников Сергей Александрович": 5,
-      "Костерин Евгений Алексеевич": 29,
-      "Нечаев Виктор Анатольевич": 7,
-      "Полушкин Александр Викторович": 20,
-      "Против всех": 20
+      "gas:candidate-vibid:1001000289802": 15,
+      "gas:candidate-vibid:1001000225880": 690,
+      "gas:candidate-vibid:213200070602": 3,
+      "gas:candidate-vibid:1001000195028": 5,
+      "gas:candidate-vibid:1001000121795": 29,
+      "gas:candidate-vibid:1001000190283": 7,
+      "gas:candidate-vibid:1001000113898": 20,
+      "special:against-all": 20
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=132000002&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=213200070896&region=0&sub_region=0&type=429",
@@ -4146,14 +4146,14 @@ export const duma_2003_uik_428_region_13_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Алешкин Олег Иванович": 114,
-      "Гришин Виктор Иванович": 1425,
-      "Давыдкин Михаил Александрович": 43,
-      "Калашников Сергей Александрович": 26,
-      "Костерин Евгений Алексеевич": 195,
-      "Нечаев Виктор Анатольевич": 20,
-      "Полушкин Александр Викторович": 64,
-      "Против всех": 165
+      "gas:candidate-vibid:1001000289802": 114,
+      "gas:candidate-vibid:1001000225880": 1425,
+      "gas:candidate-vibid:213200070602": 43,
+      "gas:candidate-vibid:1001000195028": 26,
+      "gas:candidate-vibid:1001000121795": 195,
+      "gas:candidate-vibid:1001000190283": 20,
+      "gas:candidate-vibid:1001000113898": 64,
+      "special:against-all": 165
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=132000003&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=213200070897&region=0&sub_region=0&type=429",
@@ -4203,14 +4203,14 @@ export const duma_2003_uik_428_region_13_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Алешкин Олег Иванович": 0,
-      "Гришин Виктор Иванович": 1436,
-      "Давыдкин Михаил Александрович": 0,
-      "Калашников Сергей Александрович": 6,
-      "Костерин Евгений Алексеевич": 84,
-      "Нечаев Виктор Анатольевич": 0,
-      "Полушкин Александр Викторович": 30,
-      "Против всех": 126
+      "gas:candidate-vibid:1001000289802": 0,
+      "gas:candidate-vibid:1001000225880": 1436,
+      "gas:candidate-vibid:213200070602": 0,
+      "gas:candidate-vibid:1001000195028": 6,
+      "gas:candidate-vibid:1001000121795": 84,
+      "gas:candidate-vibid:1001000190283": 0,
+      "gas:candidate-vibid:1001000113898": 30,
+      "special:against-all": 126
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=132000003&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=213200070897&region=0&sub_region=0&type=429",
@@ -4260,14 +4260,14 @@ export const duma_2003_uik_428_region_13_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Алешкин Олег Иванович": 19,
-      "Гришин Виктор Иванович": 513,
-      "Давыдкин Михаил Александрович": 0,
-      "Калашников Сергей Александрович": 3,
-      "Костерин Евгений Алексеевич": 20,
-      "Нечаев Виктор Анатольевич": 0,
-      "Полушкин Александр Викторович": 5,
-      "Против всех": 0
+      "gas:candidate-vibid:1001000289802": 19,
+      "gas:candidate-vibid:1001000225880": 513,
+      "gas:candidate-vibid:213200070602": 0,
+      "gas:candidate-vibid:1001000195028": 3,
+      "gas:candidate-vibid:1001000121795": 20,
+      "gas:candidate-vibid:1001000190283": 0,
+      "gas:candidate-vibid:1001000113898": 5,
+      "special:against-all": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=132000003&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=213200070897&region=0&sub_region=0&type=429",
@@ -4317,14 +4317,14 @@ export const duma_2003_uik_428_region_13_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Алешкин Олег Иванович": 8,
-      "Гришин Виктор Иванович": 1062,
-      "Давыдкин Михаил Александрович": 0,
-      "Калашников Сергей Александрович": 0,
-      "Костерин Евгений Алексеевич": 61,
-      "Нечаев Виктор Анатольевич": 0,
-      "Полушкин Александр Викторович": 4,
-      "Против всех": 4
+      "gas:candidate-vibid:1001000289802": 8,
+      "gas:candidate-vibid:1001000225880": 1062,
+      "gas:candidate-vibid:213200070602": 0,
+      "gas:candidate-vibid:1001000195028": 0,
+      "gas:candidate-vibid:1001000121795": 61,
+      "gas:candidate-vibid:1001000190283": 0,
+      "gas:candidate-vibid:1001000113898": 4,
+      "special:against-all": 4
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=132000003&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=213200070897&region=0&sub_region=0&type=429",
@@ -4374,14 +4374,14 @@ export const duma_2003_uik_428_region_13_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Алешкин Олег Иванович": 0,
-      "Гришин Виктор Иванович": 625,
-      "Давыдкин Михаил Александрович": 0,
-      "Калашников Сергей Александрович": 0,
-      "Костерин Евгений Алексеевич": 6,
-      "Нечаев Виктор Анатольевич": 0,
-      "Полушкин Александр Викторович": 6,
-      "Против всех": 2
+      "gas:candidate-vibid:1001000289802": 0,
+      "gas:candidate-vibid:1001000225880": 625,
+      "gas:candidate-vibid:213200070602": 0,
+      "gas:candidate-vibid:1001000195028": 0,
+      "gas:candidate-vibid:1001000121795": 6,
+      "gas:candidate-vibid:1001000190283": 0,
+      "gas:candidate-vibid:1001000113898": 6,
+      "special:against-all": 2
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=132000003&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=213200070897&region=0&sub_region=0&type=429",
@@ -4431,14 +4431,14 @@ export const duma_2003_uik_428_region_13_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Алешкин Олег Иванович": 0,
-      "Гришин Виктор Иванович": 561,
-      "Давыдкин Михаил Александрович": 0,
-      "Калашников Сергей Александрович": 1,
-      "Костерин Евгений Алексеевич": 2,
-      "Нечаев Виктор Анатольевич": 0,
-      "Полушкин Александр Викторович": 3,
-      "Против всех": 1
+      "gas:candidate-vibid:1001000289802": 0,
+      "gas:candidate-vibid:1001000225880": 561,
+      "gas:candidate-vibid:213200070602": 0,
+      "gas:candidate-vibid:1001000195028": 1,
+      "gas:candidate-vibid:1001000121795": 2,
+      "gas:candidate-vibid:1001000190283": 0,
+      "gas:candidate-vibid:1001000113898": 3,
+      "special:against-all": 1
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=132000003&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=213200070897&region=0&sub_region=0&type=429",
@@ -4488,14 +4488,14 @@ export const duma_2003_uik_428_region_13_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Алешкин Олег Иванович": 0,
-      "Гришин Виктор Иванович": 604,
-      "Давыдкин Михаил Александрович": 0,
-      "Калашников Сергей Александрович": 0,
-      "Костерин Евгений Алексеевич": 0,
-      "Нечаев Виктор Анатольевич": 0,
-      "Полушкин Александр Викторович": 5,
-      "Против всех": 0
+      "gas:candidate-vibid:1001000289802": 0,
+      "gas:candidate-vibid:1001000225880": 604,
+      "gas:candidate-vibid:213200070602": 0,
+      "gas:candidate-vibid:1001000195028": 0,
+      "gas:candidate-vibid:1001000121795": 0,
+      "gas:candidate-vibid:1001000190283": 0,
+      "gas:candidate-vibid:1001000113898": 5,
+      "special:against-all": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=132000003&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=213200070897&region=0&sub_region=0&type=429",
@@ -4545,14 +4545,14 @@ export const duma_2003_uik_428_region_13_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Алешкин Олег Иванович": 0,
-      "Гришин Виктор Иванович": 328,
-      "Давыдкин Михаил Александрович": 0,
-      "Калашников Сергей Александрович": 0,
-      "Костерин Евгений Алексеевич": 3,
-      "Нечаев Виктор Анатольевич": 0,
-      "Полушкин Александр Викторович": 17,
-      "Против всех": 4
+      "gas:candidate-vibid:1001000289802": 0,
+      "gas:candidate-vibid:1001000225880": 328,
+      "gas:candidate-vibid:213200070602": 0,
+      "gas:candidate-vibid:1001000195028": 0,
+      "gas:candidate-vibid:1001000121795": 3,
+      "gas:candidate-vibid:1001000190283": 0,
+      "gas:candidate-vibid:1001000113898": 17,
+      "special:against-all": 4
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=132000003&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=213200070897&region=0&sub_region=0&type=429",
@@ -4602,14 +4602,14 @@ export const duma_2003_uik_428_region_13_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Алешкин Олег Иванович": 21,
-      "Гришин Виктор Иванович": 380,
-      "Давыдкин Михаил Александрович": 6,
-      "Калашников Сергей Александрович": 6,
-      "Костерин Евгений Алексеевич": 57,
-      "Нечаев Виктор Анатольевич": 5,
-      "Полушкин Александр Викторович": 4,
-      "Против всех": 40
+      "gas:candidate-vibid:1001000289802": 21,
+      "gas:candidate-vibid:1001000225880": 380,
+      "gas:candidate-vibid:213200070602": 6,
+      "gas:candidate-vibid:1001000195028": 6,
+      "gas:candidate-vibid:1001000121795": 57,
+      "gas:candidate-vibid:1001000190283": 5,
+      "gas:candidate-vibid:1001000113898": 4,
+      "special:against-all": 40
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=132000003&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=213200070897&region=0&sub_region=0&type=429",
@@ -4659,14 +4659,14 @@ export const duma_2003_uik_428_region_13_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Алешкин Олег Иванович": 8,
-      "Гришин Виктор Иванович": 146,
-      "Давыдкин Михаил Александрович": 0,
-      "Калашников Сергей Александрович": 2,
-      "Костерин Евгений Алексеевич": 6,
-      "Нечаев Виктор Анатольевич": 2,
-      "Полушкин Александр Викторович": 6,
-      "Против всех": 10
+      "gas:candidate-vibid:1001000289802": 8,
+      "gas:candidate-vibid:1001000225880": 146,
+      "gas:candidate-vibid:213200070602": 0,
+      "gas:candidate-vibid:1001000195028": 2,
+      "gas:candidate-vibid:1001000121795": 6,
+      "gas:candidate-vibid:1001000190283": 2,
+      "gas:candidate-vibid:1001000113898": 6,
+      "special:against-all": 10
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=132000003&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=213200070897&region=0&sub_region=0&type=429",
@@ -4716,14 +4716,14 @@ export const duma_2003_uik_428_region_13_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Алешкин Олег Иванович": 5,
-      "Гришин Виктор Иванович": 309,
-      "Давыдкин Михаил Александрович": 1,
-      "Калашников Сергей Александрович": 2,
-      "Костерин Евгений Алексеевич": 8,
-      "Нечаев Виктор Анатольевич": 2,
-      "Полушкин Александр Викторович": 11,
-      "Против всех": 20
+      "gas:candidate-vibid:1001000289802": 5,
+      "gas:candidate-vibid:1001000225880": 309,
+      "gas:candidate-vibid:213200070602": 1,
+      "gas:candidate-vibid:1001000195028": 2,
+      "gas:candidate-vibid:1001000121795": 8,
+      "gas:candidate-vibid:1001000190283": 2,
+      "gas:candidate-vibid:1001000113898": 11,
+      "special:against-all": 20
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=132000003&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=213200070897&region=0&sub_region=0&type=429",
@@ -4773,14 +4773,14 @@ export const duma_2003_uik_428_region_13_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Алешкин Олег Иванович": 0,
-      "Гришин Виктор Иванович": 195,
-      "Давыдкин Михаил Александрович": 0,
-      "Калашников Сергей Александрович": 0,
-      "Костерин Евгений Алексеевич": 5,
-      "Нечаев Виктор Анатольевич": 0,
-      "Полушкин Александр Викторович": 2,
-      "Против всех": 1
+      "gas:candidate-vibid:1001000289802": 0,
+      "gas:candidate-vibid:1001000225880": 195,
+      "gas:candidate-vibid:213200070602": 0,
+      "gas:candidate-vibid:1001000195028": 0,
+      "gas:candidate-vibid:1001000121795": 5,
+      "gas:candidate-vibid:1001000190283": 0,
+      "gas:candidate-vibid:1001000113898": 2,
+      "special:against-all": 1
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=132000003&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=213200070897&region=0&sub_region=0&type=429",
@@ -4830,14 +4830,14 @@ export const duma_2003_uik_428_region_13_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Алешкин Олег Иванович": 4,
-      "Гришин Виктор Иванович": 226,
-      "Давыдкин Михаил Александрович": 0,
-      "Калашников Сергей Александрович": 0,
-      "Костерин Евгений Алексеевич": 5,
-      "Нечаев Виктор Анатольевич": 0,
-      "Полушкин Александр Викторович": 3,
-      "Против всех": 0
+      "gas:candidate-vibid:1001000289802": 4,
+      "gas:candidate-vibid:1001000225880": 226,
+      "gas:candidate-vibid:213200070602": 0,
+      "gas:candidate-vibid:1001000195028": 0,
+      "gas:candidate-vibid:1001000121795": 5,
+      "gas:candidate-vibid:1001000190283": 0,
+      "gas:candidate-vibid:1001000113898": 3,
+      "special:against-all": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=132000003&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=213200070897&region=0&sub_region=0&type=429",
@@ -4887,14 +4887,14 @@ export const duma_2003_uik_428_region_13_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Алешкин Олег Иванович": 3,
-      "Гришин Виктор Иванович": 190,
-      "Давыдкин Михаил Александрович": 0,
-      "Калашников Сергей Александрович": 1,
-      "Костерин Евгений Алексеевич": 6,
-      "Нечаев Виктор Анатольевич": 0,
-      "Полушкин Александр Викторович": 2,
-      "Против всех": 2
+      "gas:candidate-vibid:1001000289802": 3,
+      "gas:candidate-vibid:1001000225880": 190,
+      "gas:candidate-vibid:213200070602": 0,
+      "gas:candidate-vibid:1001000195028": 1,
+      "gas:candidate-vibid:1001000121795": 6,
+      "gas:candidate-vibid:1001000190283": 0,
+      "gas:candidate-vibid:1001000113898": 2,
+      "special:against-all": 2
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=132000003&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=213200070897&region=0&sub_region=0&type=429",
@@ -4944,14 +4944,14 @@ export const duma_2003_uik_428_region_13_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Алешкин Олег Иванович": 1,
-      "Гришин Виктор Иванович": 494,
-      "Давыдкин Михаил Александрович": 0,
-      "Калашников Сергей Александрович": 0,
-      "Костерин Евгений Алексеевич": 1,
-      "Нечаев Виктор Анатольевич": 1,
-      "Полушкин Александр Викторович": 9,
-      "Против всех": 0
+      "gas:candidate-vibid:1001000289802": 1,
+      "gas:candidate-vibid:1001000225880": 494,
+      "gas:candidate-vibid:213200070602": 0,
+      "gas:candidate-vibid:1001000195028": 0,
+      "gas:candidate-vibid:1001000121795": 1,
+      "gas:candidate-vibid:1001000190283": 1,
+      "gas:candidate-vibid:1001000113898": 9,
+      "special:against-all": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=132000003&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=213200070897&region=0&sub_region=0&type=429",
@@ -5001,14 +5001,14 @@ export const duma_2003_uik_428_region_13_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Алешкин Олег Иванович": 0,
-      "Гришин Виктор Иванович": 132,
-      "Давыдкин Михаил Александрович": 0,
-      "Калашников Сергей Александрович": 0,
-      "Костерин Евгений Алексеевич": 0,
-      "Нечаев Виктор Анатольевич": 0,
-      "Полушкин Александр Викторович": 0,
-      "Против всех": 0
+      "gas:candidate-vibid:1001000289802": 0,
+      "gas:candidate-vibid:1001000225880": 132,
+      "gas:candidate-vibid:213200070602": 0,
+      "gas:candidate-vibid:1001000195028": 0,
+      "gas:candidate-vibid:1001000121795": 0,
+      "gas:candidate-vibid:1001000190283": 0,
+      "gas:candidate-vibid:1001000113898": 0,
+      "special:against-all": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=132000003&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=213200070897&region=0&sub_region=0&type=429",
@@ -5058,14 +5058,14 @@ export const duma_2003_uik_428_region_13_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Алешкин Олег Иванович": 0,
-      "Гришин Виктор Иванович": 46,
-      "Давыдкин Михаил Александрович": 0,
-      "Калашников Сергей Александрович": 0,
-      "Костерин Евгений Алексеевич": 2,
-      "Нечаев Виктор Анатольевич": 0,
-      "Полушкин Александр Викторович": 2,
-      "Против всех": 0
+      "gas:candidate-vibid:1001000289802": 0,
+      "gas:candidate-vibid:1001000225880": 46,
+      "gas:candidate-vibid:213200070602": 0,
+      "gas:candidate-vibid:1001000195028": 0,
+      "gas:candidate-vibid:1001000121795": 2,
+      "gas:candidate-vibid:1001000190283": 0,
+      "gas:candidate-vibid:1001000113898": 2,
+      "special:against-all": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=132000003&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=213200070897&region=0&sub_region=0&type=429",
@@ -5115,14 +5115,14 @@ export const duma_2003_uik_428_region_13_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Алешкин Олег Иванович": 1,
-      "Гришин Виктор Иванович": 353,
-      "Давыдкин Михаил Александрович": 0,
-      "Калашников Сергей Александрович": 3,
-      "Костерин Евгений Алексеевич": 7,
-      "Нечаев Виктор Анатольевич": 0,
-      "Полушкин Александр Викторович": 6,
-      "Против всех": 0
+      "gas:candidate-vibid:1001000289802": 1,
+      "gas:candidate-vibid:1001000225880": 353,
+      "gas:candidate-vibid:213200070602": 0,
+      "gas:candidate-vibid:1001000195028": 3,
+      "gas:candidate-vibid:1001000121795": 7,
+      "gas:candidate-vibid:1001000190283": 0,
+      "gas:candidate-vibid:1001000113898": 6,
+      "special:against-all": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=132000003&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=213200070897&region=0&sub_region=0&type=429",
@@ -5172,14 +5172,14 @@ export const duma_2003_uik_428_region_13_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Алешкин Олег Иванович": 0,
-      "Гришин Виктор Иванович": 235,
-      "Давыдкин Михаил Александрович": 0,
-      "Калашников Сергей Александрович": 0,
-      "Костерин Евгений Алексеевич": 0,
-      "Нечаев Виктор Анатольевич": 0,
-      "Полушкин Александр Викторович": 8,
-      "Против всех": 0
+      "gas:candidate-vibid:1001000289802": 0,
+      "gas:candidate-vibid:1001000225880": 235,
+      "gas:candidate-vibid:213200070602": 0,
+      "gas:candidate-vibid:1001000195028": 0,
+      "gas:candidate-vibid:1001000121795": 0,
+      "gas:candidate-vibid:1001000190283": 0,
+      "gas:candidate-vibid:1001000113898": 8,
+      "special:against-all": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=132000003&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=213200070897&region=0&sub_region=0&type=429",
@@ -5229,14 +5229,14 @@ export const duma_2003_uik_428_region_13_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Алешкин Олег Иванович": 0,
-      "Гришин Виктор Иванович": 270,
-      "Давыдкин Михаил Александрович": 0,
-      "Калашников Сергей Александрович": 0,
-      "Костерин Евгений Алексеевич": 9,
-      "Нечаев Виктор Анатольевич": 0,
-      "Полушкин Александр Викторович": 3,
-      "Против всех": 0
+      "gas:candidate-vibid:1001000289802": 0,
+      "gas:candidate-vibid:1001000225880": 270,
+      "gas:candidate-vibid:213200070602": 0,
+      "gas:candidate-vibid:1001000195028": 0,
+      "gas:candidate-vibid:1001000121795": 9,
+      "gas:candidate-vibid:1001000190283": 0,
+      "gas:candidate-vibid:1001000113898": 3,
+      "special:against-all": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=132000003&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=213200070897&region=0&sub_region=0&type=429",
@@ -5286,14 +5286,14 @@ export const duma_2003_uik_428_region_13_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Алешкин Олег Иванович": 0,
-      "Гришин Виктор Иванович": 64,
-      "Давыдкин Михаил Александрович": 0,
-      "Калашников Сергей Александрович": 0,
-      "Костерин Евгений Алексеевич": 1,
-      "Нечаев Виктор Анатольевич": 0,
-      "Полушкин Александр Викторович": 1,
-      "Против всех": 1
+      "gas:candidate-vibid:1001000289802": 0,
+      "gas:candidate-vibid:1001000225880": 64,
+      "gas:candidate-vibid:213200070602": 0,
+      "gas:candidate-vibid:1001000195028": 0,
+      "gas:candidate-vibid:1001000121795": 1,
+      "gas:candidate-vibid:1001000190283": 0,
+      "gas:candidate-vibid:1001000113898": 1,
+      "special:against-all": 1
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=132000003&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=213200070897&region=0&sub_region=0&type=429",
@@ -5343,14 +5343,14 @@ export const duma_2003_uik_428_region_13_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Алешкин Олег Иванович": 0,
-      "Гришин Виктор Иванович": 529,
-      "Давыдкин Михаил Александрович": 8,
-      "Калашников Сергей Александрович": 0,
-      "Костерин Евгений Алексеевич": 0,
-      "Нечаев Виктор Анатольевич": 0,
-      "Полушкин Александр Викторович": 7,
-      "Против всех": 0
+      "gas:candidate-vibid:1001000289802": 0,
+      "gas:candidate-vibid:1001000225880": 529,
+      "gas:candidate-vibid:213200070602": 8,
+      "gas:candidate-vibid:1001000195028": 0,
+      "gas:candidate-vibid:1001000121795": 0,
+      "gas:candidate-vibid:1001000190283": 0,
+      "gas:candidate-vibid:1001000113898": 7,
+      "special:against-all": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=132000003&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=213200070897&region=0&sub_region=0&type=429",
@@ -5400,14 +5400,14 @@ export const duma_2003_uik_428_region_13_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Алешкин Олег Иванович": 0,
-      "Гришин Виктор Иванович": 297,
-      "Давыдкин Михаил Александрович": 0,
-      "Калашников Сергей Александрович": 0,
-      "Костерин Евгений Алексеевич": 3,
-      "Нечаев Виктор Анатольевич": 0,
-      "Полушкин Александр Викторович": 0,
-      "Против всех": 0
+      "gas:candidate-vibid:1001000289802": 0,
+      "gas:candidate-vibid:1001000225880": 297,
+      "gas:candidate-vibid:213200070602": 0,
+      "gas:candidate-vibid:1001000195028": 0,
+      "gas:candidate-vibid:1001000121795": 3,
+      "gas:candidate-vibid:1001000190283": 0,
+      "gas:candidate-vibid:1001000113898": 0,
+      "special:against-all": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=132000003&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=213200070897&region=0&sub_region=0&type=429",
@@ -5457,14 +5457,14 @@ export const duma_2003_uik_428_region_13_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Алешкин Олег Иванович": 4,
-      "Гришин Виктор Иванович": 374,
-      "Давыдкин Михаил Александрович": 0,
-      "Калашников Сергей Александрович": 1,
-      "Костерин Евгений Алексеевич": 4,
-      "Нечаев Виктор Анатольевич": 1,
-      "Полушкин Александр Викторович": 1,
-      "Против всех": 5
+      "gas:candidate-vibid:1001000289802": 4,
+      "gas:candidate-vibid:1001000225880": 374,
+      "gas:candidate-vibid:213200070602": 0,
+      "gas:candidate-vibid:1001000195028": 1,
+      "gas:candidate-vibid:1001000121795": 4,
+      "gas:candidate-vibid:1001000190283": 1,
+      "gas:candidate-vibid:1001000113898": 1,
+      "special:against-all": 5
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=132000003&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=213200070897&region=0&sub_region=0&type=429",
@@ -5514,14 +5514,14 @@ export const duma_2003_uik_428_region_13_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Алешкин Олег Иванович": 5,
-      "Гришин Виктор Иванович": 517,
-      "Давыдкин Михаил Александрович": 3,
-      "Калашников Сергей Александрович": 2,
-      "Костерин Евгений Алексеевич": 4,
-      "Нечаев Виктор Анатольевич": 2,
-      "Полушкин Александр Викторович": 9,
-      "Против всех": 0
+      "gas:candidate-vibid:1001000289802": 5,
+      "gas:candidate-vibid:1001000225880": 517,
+      "gas:candidate-vibid:213200070602": 3,
+      "gas:candidate-vibid:1001000195028": 2,
+      "gas:candidate-vibid:1001000121795": 4,
+      "gas:candidate-vibid:1001000190283": 2,
+      "gas:candidate-vibid:1001000113898": 9,
+      "special:against-all": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=132000003&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=213200070897&region=0&sub_region=0&type=429",
@@ -5571,14 +5571,14 @@ export const duma_2003_uik_428_region_13_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Алешкин Олег Иванович": 0,
-      "Гришин Виктор Иванович": 155,
-      "Давыдкин Михаил Александрович": 0,
-      "Калашников Сергей Александрович": 0,
-      "Костерин Евгений Алексеевич": 0,
-      "Нечаев Виктор Анатольевич": 0,
-      "Полушкин Александр Викторович": 0,
-      "Против всех": 0
+      "gas:candidate-vibid:1001000289802": 0,
+      "gas:candidate-vibid:1001000225880": 155,
+      "gas:candidate-vibid:213200070602": 0,
+      "gas:candidate-vibid:1001000195028": 0,
+      "gas:candidate-vibid:1001000121795": 0,
+      "gas:candidate-vibid:1001000190283": 0,
+      "gas:candidate-vibid:1001000113898": 0,
+      "special:against-all": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=132000003&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=213200070897&region=0&sub_region=0&type=429",
@@ -5628,14 +5628,14 @@ export const duma_2003_uik_428_region_13_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Алешкин Олег Иванович": 1,
-      "Гришин Виктор Иванович": 155,
-      "Давыдкин Михаил Александрович": 0,
-      "Калашников Сергей Александрович": 0,
-      "Костерин Евгений Алексеевич": 2,
-      "Нечаев Виктор Анатольевич": 0,
-      "Полушкин Александр Викторович": 2,
-      "Против всех": 0
+      "gas:candidate-vibid:1001000289802": 1,
+      "gas:candidate-vibid:1001000225880": 155,
+      "gas:candidate-vibid:213200070602": 0,
+      "gas:candidate-vibid:1001000195028": 0,
+      "gas:candidate-vibid:1001000121795": 2,
+      "gas:candidate-vibid:1001000190283": 0,
+      "gas:candidate-vibid:1001000113898": 2,
+      "special:against-all": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=132000003&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=213200070897&region=0&sub_region=0&type=429",
@@ -5685,14 +5685,14 @@ export const duma_2003_uik_428_region_13_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Алешкин Олег Иванович": 3,
-      "Гришин Виктор Иванович": 204,
-      "Давыдкин Михаил Александрович": 1,
-      "Калашников Сергей Александрович": 0,
-      "Костерин Евгений Алексеевич": 10,
-      "Нечаев Виктор Анатольевич": 1,
-      "Полушкин Александр Викторович": 5,
-      "Против всех": 6
+      "gas:candidate-vibid:1001000289802": 3,
+      "gas:candidate-vibid:1001000225880": 204,
+      "gas:candidate-vibid:213200070602": 1,
+      "gas:candidate-vibid:1001000195028": 0,
+      "gas:candidate-vibid:1001000121795": 10,
+      "gas:candidate-vibid:1001000190283": 1,
+      "gas:candidate-vibid:1001000113898": 5,
+      "special:against-all": 6
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=132000003&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=213200070897&region=0&sub_region=0&type=429",
@@ -5742,14 +5742,14 @@ export const duma_2003_uik_428_region_13_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Алешкин Олег Иванович": 0,
-      "Гришин Виктор Иванович": 77,
-      "Давыдкин Михаил Александрович": 0,
-      "Калашников Сергей Александрович": 0,
-      "Костерин Евгений Алексеевич": 0,
-      "Нечаев Виктор Анатольевич": 0,
-      "Полушкин Александр Викторович": 4,
-      "Против всех": 0
+      "gas:candidate-vibid:1001000289802": 0,
+      "gas:candidate-vibid:1001000225880": 77,
+      "gas:candidate-vibid:213200070602": 0,
+      "gas:candidate-vibid:1001000195028": 0,
+      "gas:candidate-vibid:1001000121795": 0,
+      "gas:candidate-vibid:1001000190283": 0,
+      "gas:candidate-vibid:1001000113898": 4,
+      "special:against-all": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=132000003&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=213200070897&region=0&sub_region=0&type=429",
@@ -5799,14 +5799,14 @@ export const duma_2003_uik_428_region_13_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Алешкин Олег Иванович": 0,
-      "Гришин Виктор Иванович": 237,
-      "Давыдкин Михаил Александрович": 0,
-      "Калашников Сергей Александрович": 0,
-      "Костерин Евгений Алексеевич": 1,
-      "Нечаев Виктор Анатольевич": 0,
-      "Полушкин Александр Викторович": 5,
-      "Против всех": 1
+      "gas:candidate-vibid:1001000289802": 0,
+      "gas:candidate-vibid:1001000225880": 237,
+      "gas:candidate-vibid:213200070602": 0,
+      "gas:candidate-vibid:1001000195028": 0,
+      "gas:candidate-vibid:1001000121795": 1,
+      "gas:candidate-vibid:1001000190283": 0,
+      "gas:candidate-vibid:1001000113898": 5,
+      "special:against-all": 1
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=132000003&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=213200070897&region=0&sub_region=0&type=429",
@@ -5856,14 +5856,14 @@ export const duma_2003_uik_428_region_13_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Алешкин Олег Иванович": 4,
-      "Гришин Виктор Иванович": 162,
-      "Давыдкин Михаил Александрович": 3,
-      "Калашников Сергей Александрович": 0,
-      "Костерин Евгений Алексеевич": 5,
-      "Нечаев Виктор Анатольевич": 0,
-      "Полушкин Александр Викторович": 2,
-      "Против всех": 12
+      "gas:candidate-vibid:1001000289802": 4,
+      "gas:candidate-vibid:1001000225880": 162,
+      "gas:candidate-vibid:213200070602": 3,
+      "gas:candidate-vibid:1001000195028": 0,
+      "gas:candidate-vibid:1001000121795": 5,
+      "gas:candidate-vibid:1001000190283": 0,
+      "gas:candidate-vibid:1001000113898": 2,
+      "special:against-all": 12
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=132000003&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=213200070897&region=0&sub_region=0&type=429",
@@ -5913,14 +5913,14 @@ export const duma_2003_uik_428_region_13_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Алешкин Олег Иванович": 0,
-      "Гришин Виктор Иванович": 363,
-      "Давыдкин Михаил Александрович": 0,
-      "Калашников Сергей Александрович": 0,
-      "Костерин Евгений Алексеевич": 14,
-      "Нечаев Виктор Анатольевич": 0,
-      "Полушкин Александр Викторович": 2,
-      "Против всех": 0
+      "gas:candidate-vibid:1001000289802": 0,
+      "gas:candidate-vibid:1001000225880": 363,
+      "gas:candidate-vibid:213200070602": 0,
+      "gas:candidate-vibid:1001000195028": 0,
+      "gas:candidate-vibid:1001000121795": 14,
+      "gas:candidate-vibid:1001000190283": 0,
+      "gas:candidate-vibid:1001000113898": 2,
+      "special:against-all": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=132000003&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=213200070897&region=0&sub_region=0&type=429",
@@ -5970,14 +5970,14 @@ export const duma_2003_uik_428_region_13_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Алешкин Олег Иванович": 0,
-      "Гришин Виктор Иванович": 433,
-      "Давыдкин Михаил Александрович": 3,
-      "Калашников Сергей Александрович": 1,
-      "Костерин Евгений Алексеевич": 2,
-      "Нечаев Виктор Анатольевич": 1,
-      "Полушкин Александр Викторович": 3,
-      "Против всех": 1
+      "gas:candidate-vibid:1001000289802": 0,
+      "gas:candidate-vibid:1001000225880": 433,
+      "gas:candidate-vibid:213200070602": 3,
+      "gas:candidate-vibid:1001000195028": 1,
+      "gas:candidate-vibid:1001000121795": 2,
+      "gas:candidate-vibid:1001000190283": 1,
+      "gas:candidate-vibid:1001000113898": 3,
+      "special:against-all": 1
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=132000003&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=213200070897&region=0&sub_region=0&type=429",
@@ -6027,14 +6027,14 @@ export const duma_2003_uik_428_region_13_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Алешкин Олег Иванович": 9,
-      "Гришин Виктор Иванович": 293,
-      "Давыдкин Михаил Александрович": 3,
-      "Калашников Сергей Александрович": 0,
-      "Костерин Евгений Алексеевич": 6,
-      "Нечаев Виктор Анатольевич": 1,
-      "Полушкин Александр Викторович": 6,
-      "Против всех": 7
+      "gas:candidate-vibid:1001000289802": 9,
+      "gas:candidate-vibid:1001000225880": 293,
+      "gas:candidate-vibid:213200070602": 3,
+      "gas:candidate-vibid:1001000195028": 0,
+      "gas:candidate-vibid:1001000121795": 6,
+      "gas:candidate-vibid:1001000190283": 1,
+      "gas:candidate-vibid:1001000113898": 6,
+      "special:against-all": 7
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=132000003&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=213200070897&region=0&sub_region=0&type=429",
@@ -6084,14 +6084,14 @@ export const duma_2003_uik_428_region_13_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Алешкин Олег Иванович": 2,
-      "Гришин Виктор Иванович": 265,
-      "Давыдкин Михаил Александрович": 0,
-      "Калашников Сергей Александрович": 0,
-      "Костерин Евгений Алексеевич": 6,
-      "Нечаев Виктор Анатольевич": 0,
-      "Полушкин Александр Викторович": 2,
-      "Против всех": 2
+      "gas:candidate-vibid:1001000289802": 2,
+      "gas:candidate-vibid:1001000225880": 265,
+      "gas:candidate-vibid:213200070602": 0,
+      "gas:candidate-vibid:1001000195028": 0,
+      "gas:candidate-vibid:1001000121795": 6,
+      "gas:candidate-vibid:1001000190283": 0,
+      "gas:candidate-vibid:1001000113898": 2,
+      "special:against-all": 2
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=132000003&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=213200070897&region=0&sub_region=0&type=429",
@@ -6141,14 +6141,14 @@ export const duma_2003_uik_428_region_13_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Алешкин Олег Иванович": 0,
-      "Гришин Виктор Иванович": 499,
-      "Давыдкин Михаил Александрович": 0,
-      "Калашников Сергей Александрович": 0,
-      "Костерин Евгений Алексеевич": 0,
-      "Нечаев Виктор Анатольевич": 0,
-      "Полушкин Александр Викторович": 8,
-      "Против всех": 0
+      "gas:candidate-vibid:1001000289802": 0,
+      "gas:candidate-vibid:1001000225880": 499,
+      "gas:candidate-vibid:213200070602": 0,
+      "gas:candidate-vibid:1001000195028": 0,
+      "gas:candidate-vibid:1001000121795": 0,
+      "gas:candidate-vibid:1001000190283": 0,
+      "gas:candidate-vibid:1001000113898": 8,
+      "special:against-all": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=132000003&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=213200070897&region=0&sub_region=0&type=429",
@@ -6198,14 +6198,14 @@ export const duma_2003_uik_428_region_13_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Алешкин Олег Иванович": 0,
-      "Гришин Виктор Иванович": 206,
-      "Давыдкин Михаил Александрович": 0,
-      "Калашников Сергей Александрович": 1,
-      "Костерин Евгений Алексеевич": 0,
-      "Нечаев Виктор Анатольевич": 0,
-      "Полушкин Александр Викторович": 3,
-      "Против всех": 2
+      "gas:candidate-vibid:1001000289802": 0,
+      "gas:candidate-vibid:1001000225880": 206,
+      "gas:candidate-vibid:213200070602": 0,
+      "gas:candidate-vibid:1001000195028": 1,
+      "gas:candidate-vibid:1001000121795": 0,
+      "gas:candidate-vibid:1001000190283": 0,
+      "gas:candidate-vibid:1001000113898": 3,
+      "special:against-all": 2
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=132000003&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=213200070897&region=0&sub_region=0&type=429",
@@ -6255,14 +6255,14 @@ export const duma_2003_uik_428_region_13_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Алешкин Олег Иванович": 0,
-      "Гришин Виктор Иванович": 220,
-      "Давыдкин Михаил Александрович": 1,
-      "Калашников Сергей Александрович": 0,
-      "Костерин Евгений Алексеевич": 4,
-      "Нечаев Виктор Анатольевич": 0,
-      "Полушкин Александр Викторович": 1,
-      "Против всех": 2
+      "gas:candidate-vibid:1001000289802": 0,
+      "gas:candidate-vibid:1001000225880": 220,
+      "gas:candidate-vibid:213200070602": 1,
+      "gas:candidate-vibid:1001000195028": 0,
+      "gas:candidate-vibid:1001000121795": 4,
+      "gas:candidate-vibid:1001000190283": 0,
+      "gas:candidate-vibid:1001000113898": 1,
+      "special:against-all": 2
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=132000003&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=213200070897&region=0&sub_region=0&type=429",
@@ -6312,14 +6312,14 @@ export const duma_2003_uik_428_region_13_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Алешкин Олег Иванович": 9,
-      "Гришин Виктор Иванович": 127,
-      "Давыдкин Михаил Александрович": 5,
-      "Калашников Сергей Александрович": 2,
-      "Костерин Евгений Алексеевич": 11,
-      "Нечаев Виктор Анатольевич": 3,
-      "Полушкин Александр Викторович": 4,
-      "Против всех": 8
+      "gas:candidate-vibid:1001000289802": 9,
+      "gas:candidate-vibid:1001000225880": 127,
+      "gas:candidate-vibid:213200070602": 5,
+      "gas:candidate-vibid:1001000195028": 2,
+      "gas:candidate-vibid:1001000121795": 11,
+      "gas:candidate-vibid:1001000190283": 3,
+      "gas:candidate-vibid:1001000113898": 4,
+      "special:against-all": 8
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=132000003&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=213200070897&region=0&sub_region=0&type=429",
@@ -6369,14 +6369,14 @@ export const duma_2003_uik_428_region_13_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Алешкин Олег Иванович": 0,
-      "Гришин Виктор Иванович": 56,
-      "Давыдкин Михаил Александрович": 0,
-      "Калашников Сергей Александрович": 0,
-      "Костерин Евгений Алексеевич": 0,
-      "Нечаев Виктор Анатольевич": 0,
-      "Полушкин Александр Викторович": 4,
-      "Против всех": 0
+      "gas:candidate-vibid:1001000289802": 0,
+      "gas:candidate-vibid:1001000225880": 56,
+      "gas:candidate-vibid:213200070602": 0,
+      "gas:candidate-vibid:1001000195028": 0,
+      "gas:candidate-vibid:1001000121795": 0,
+      "gas:candidate-vibid:1001000190283": 0,
+      "gas:candidate-vibid:1001000113898": 4,
+      "special:against-all": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=132000003&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=213200070897&region=0&sub_region=0&type=429",
@@ -6426,14 +6426,14 @@ export const duma_2003_uik_428_region_13_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Алешкин Олег Иванович": 0,
-      "Гришин Виктор Иванович": 301,
-      "Давыдкин Михаил Александрович": 0,
-      "Калашников Сергей Александрович": 0,
-      "Костерин Евгений Алексеевич": 20,
-      "Нечаев Виктор Анатольевич": 0,
-      "Полушкин Александр Викторович": 0,
-      "Против всех": 1
+      "gas:candidate-vibid:1001000289802": 0,
+      "gas:candidate-vibid:1001000225880": 301,
+      "gas:candidate-vibid:213200070602": 0,
+      "gas:candidate-vibid:1001000195028": 0,
+      "gas:candidate-vibid:1001000121795": 20,
+      "gas:candidate-vibid:1001000190283": 0,
+      "gas:candidate-vibid:1001000113898": 0,
+      "special:against-all": 1
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=132000003&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=213200070897&region=0&sub_region=0&type=429",
@@ -6483,14 +6483,14 @@ export const duma_2003_uik_428_region_13_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Алешкин Олег Иванович": 6,
-      "Гришин Виктор Иванович": 1005,
-      "Давыдкин Михаил Александрович": 0,
-      "Калашников Сергей Александрович": 4,
-      "Костерин Евгений Алексеевич": 11,
-      "Нечаев Виктор Анатольевич": 0,
-      "Полушкин Александр Викторович": 5,
-      "Против всех": 6
+      "gas:candidate-vibid:1001000289802": 6,
+      "gas:candidate-vibid:1001000225880": 1005,
+      "gas:candidate-vibid:213200070602": 0,
+      "gas:candidate-vibid:1001000195028": 4,
+      "gas:candidate-vibid:1001000121795": 11,
+      "gas:candidate-vibid:1001000190283": 0,
+      "gas:candidate-vibid:1001000113898": 5,
+      "special:against-all": 6
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=132000004&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=213200070898&region=0&sub_region=0&type=429",
@@ -6540,14 +6540,14 @@ export const duma_2003_uik_428_region_13_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Алешкин Олег Иванович": 9,
-      "Гришин Виктор Иванович": 1020,
-      "Давыдкин Михаил Александрович": 4,
-      "Калашников Сергей Александрович": 1,
-      "Костерин Евгений Алексеевич": 20,
-      "Нечаев Виктор Анатольевич": 2,
-      "Полушкин Александр Викторович": 0,
-      "Против всех": 0
+      "gas:candidate-vibid:1001000289802": 9,
+      "gas:candidate-vibid:1001000225880": 1020,
+      "gas:candidate-vibid:213200070602": 4,
+      "gas:candidate-vibid:1001000195028": 1,
+      "gas:candidate-vibid:1001000121795": 20,
+      "gas:candidate-vibid:1001000190283": 2,
+      "gas:candidate-vibid:1001000113898": 0,
+      "special:against-all": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=132000004&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=213200070898&region=0&sub_region=0&type=429",
@@ -6597,14 +6597,14 @@ export const duma_2003_uik_428_region_13_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Алешкин Олег Иванович": 18,
-      "Гришин Виктор Иванович": 667,
-      "Давыдкин Михаил Александрович": 11,
-      "Калашников Сергей Александрович": 2,
-      "Костерин Евгений Алексеевич": 106,
-      "Нечаев Виктор Анатольевич": 8,
-      "Полушкин Александр Викторович": 5,
-      "Против всех": 35
+      "gas:candidate-vibid:1001000289802": 18,
+      "gas:candidate-vibid:1001000225880": 667,
+      "gas:candidate-vibid:213200070602": 11,
+      "gas:candidate-vibid:1001000195028": 2,
+      "gas:candidate-vibid:1001000121795": 106,
+      "gas:candidate-vibid:1001000190283": 8,
+      "gas:candidate-vibid:1001000113898": 5,
+      "special:against-all": 35
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=132000004&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=213200070898&region=0&sub_region=0&type=429",
@@ -6654,14 +6654,14 @@ export const duma_2003_uik_428_region_13_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Алешкин Олег Иванович": 7,
-      "Гришин Виктор Иванович": 300,
-      "Давыдкин Михаил Александрович": 6,
-      "Калашников Сергей Александрович": 5,
-      "Костерин Евгений Алексеевич": 6,
-      "Нечаев Виктор Анатольевич": 0,
-      "Полушкин Александр Викторович": 3,
-      "Против всех": 8
+      "gas:candidate-vibid:1001000289802": 7,
+      "gas:candidate-vibid:1001000225880": 300,
+      "gas:candidate-vibid:213200070602": 6,
+      "gas:candidate-vibid:1001000195028": 5,
+      "gas:candidate-vibid:1001000121795": 6,
+      "gas:candidate-vibid:1001000190283": 0,
+      "gas:candidate-vibid:1001000113898": 3,
+      "special:against-all": 8
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=132000004&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=213200070898&region=0&sub_region=0&type=429",
@@ -6711,14 +6711,14 @@ export const duma_2003_uik_428_region_13_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Алешкин Олег Иванович": 5,
-      "Гришин Виктор Иванович": 388,
-      "Давыдкин Михаил Александрович": 0,
-      "Калашников Сергей Александрович": 0,
-      "Костерин Евгений Алексеевич": 6,
-      "Нечаев Виктор Анатольевич": 3,
-      "Полушкин Александр Викторович": 1,
-      "Против всех": 4
+      "gas:candidate-vibid:1001000289802": 5,
+      "gas:candidate-vibid:1001000225880": 388,
+      "gas:candidate-vibid:213200070602": 0,
+      "gas:candidate-vibid:1001000195028": 0,
+      "gas:candidate-vibid:1001000121795": 6,
+      "gas:candidate-vibid:1001000190283": 3,
+      "gas:candidate-vibid:1001000113898": 1,
+      "special:against-all": 4
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=132000004&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=213200070898&region=0&sub_region=0&type=429",
@@ -6768,14 +6768,14 @@ export const duma_2003_uik_428_region_13_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Алешкин Олег Иванович": 0,
-      "Гришин Виктор Иванович": 109,
-      "Давыдкин Михаил Александрович": 0,
-      "Калашников Сергей Александрович": 0,
-      "Костерин Евгений Алексеевич": 0,
-      "Нечаев Виктор Анатольевич": 0,
-      "Полушкин Александр Викторович": 0,
-      "Против всех": 0
+      "gas:candidate-vibid:1001000289802": 0,
+      "gas:candidate-vibid:1001000225880": 109,
+      "gas:candidate-vibid:213200070602": 0,
+      "gas:candidate-vibid:1001000195028": 0,
+      "gas:candidate-vibid:1001000121795": 0,
+      "gas:candidate-vibid:1001000190283": 0,
+      "gas:candidate-vibid:1001000113898": 0,
+      "special:against-all": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=132000004&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=213200070898&region=0&sub_region=0&type=429",
@@ -6825,14 +6825,14 @@ export const duma_2003_uik_428_region_13_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Алешкин Олег Иванович": 0,
-      "Гришин Виктор Иванович": 164,
-      "Давыдкин Михаил Александрович": 0,
-      "Калашников Сергей Александрович": 0,
-      "Костерин Евгений Алексеевич": 2,
-      "Нечаев Виктор Анатольевич": 0,
-      "Полушкин Александр Викторович": 0,
-      "Против всех": 0
+      "gas:candidate-vibid:1001000289802": 0,
+      "gas:candidate-vibid:1001000225880": 164,
+      "gas:candidate-vibid:213200070602": 0,
+      "gas:candidate-vibid:1001000195028": 0,
+      "gas:candidate-vibid:1001000121795": 2,
+      "gas:candidate-vibid:1001000190283": 0,
+      "gas:candidate-vibid:1001000113898": 0,
+      "special:against-all": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=132000004&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=213200070898&region=0&sub_region=0&type=429",
@@ -6882,14 +6882,14 @@ export const duma_2003_uik_428_region_13_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Алешкин Олег Иванович": 0,
-      "Гришин Виктор Иванович": 168,
-      "Давыдкин Михаил Александрович": 0,
-      "Калашников Сергей Александрович": 0,
-      "Костерин Евгений Алексеевич": 5,
-      "Нечаев Виктор Анатольевич": 0,
-      "Полушкин Александр Викторович": 0,
-      "Против всех": 0
+      "gas:candidate-vibid:1001000289802": 0,
+      "gas:candidate-vibid:1001000225880": 168,
+      "gas:candidate-vibid:213200070602": 0,
+      "gas:candidate-vibid:1001000195028": 0,
+      "gas:candidate-vibid:1001000121795": 5,
+      "gas:candidate-vibid:1001000190283": 0,
+      "gas:candidate-vibid:1001000113898": 0,
+      "special:against-all": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=132000004&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=213200070898&region=0&sub_region=0&type=429",
@@ -6939,14 +6939,14 @@ export const duma_2003_uik_428_region_13_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Алешкин Олег Иванович": 0,
-      "Гришин Виктор Иванович": 264,
-      "Давыдкин Михаил Александрович": 0,
-      "Калашников Сергей Александрович": 0,
-      "Костерин Евгений Алексеевич": 0,
-      "Нечаев Виктор Анатольевич": 0,
-      "Полушкин Александр Викторович": 0,
-      "Против всех": 0
+      "gas:candidate-vibid:1001000289802": 0,
+      "gas:candidate-vibid:1001000225880": 264,
+      "gas:candidate-vibid:213200070602": 0,
+      "gas:candidate-vibid:1001000195028": 0,
+      "gas:candidate-vibid:1001000121795": 0,
+      "gas:candidate-vibid:1001000190283": 0,
+      "gas:candidate-vibid:1001000113898": 0,
+      "special:against-all": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=132000004&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=213200070898&region=0&sub_region=0&type=429",
@@ -6996,14 +6996,14 @@ export const duma_2003_uik_428_region_13_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Алешкин Олег Иванович": 1,
-      "Гришин Виктор Иванович": 178,
-      "Давыдкин Михаил Александрович": 1,
-      "Калашников Сергей Александрович": 0,
-      "Костерин Евгений Алексеевич": 0,
-      "Нечаев Виктор Анатольевич": 0,
-      "Полушкин Александр Викторович": 0,
-      "Против всех": 0
+      "gas:candidate-vibid:1001000289802": 1,
+      "gas:candidate-vibid:1001000225880": 178,
+      "gas:candidate-vibid:213200070602": 1,
+      "gas:candidate-vibid:1001000195028": 0,
+      "gas:candidate-vibid:1001000121795": 0,
+      "gas:candidate-vibid:1001000190283": 0,
+      "gas:candidate-vibid:1001000113898": 0,
+      "special:against-all": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=132000004&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=213200070898&region=0&sub_region=0&type=429",
@@ -7053,14 +7053,14 @@ export const duma_2003_uik_428_region_13_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Алешкин Олег Иванович": 1,
-      "Гришин Виктор Иванович": 254,
-      "Давыдкин Михаил Александрович": 0,
-      "Калашников Сергей Александрович": 0,
-      "Костерин Евгений Алексеевич": 6,
-      "Нечаев Виктор Анатольевич": 1,
-      "Полушкин Александр Викторович": 1,
-      "Против всех": 1
+      "gas:candidate-vibid:1001000289802": 1,
+      "gas:candidate-vibid:1001000225880": 254,
+      "gas:candidate-vibid:213200070602": 0,
+      "gas:candidate-vibid:1001000195028": 0,
+      "gas:candidate-vibid:1001000121795": 6,
+      "gas:candidate-vibid:1001000190283": 1,
+      "gas:candidate-vibid:1001000113898": 1,
+      "special:against-all": 1
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=132000004&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=213200070898&region=0&sub_region=0&type=429",
@@ -7110,14 +7110,14 @@ export const duma_2003_uik_428_region_13_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Алешкин Олег Иванович": 2,
-      "Гришин Виктор Иванович": 285,
-      "Давыдкин Михаил Александрович": 1,
-      "Калашников Сергей Александрович": 0,
-      "Костерин Евгений Алексеевич": 1,
-      "Нечаев Виктор Анатольевич": 0,
-      "Полушкин Александр Викторович": 0,
-      "Против всех": 0
+      "gas:candidate-vibid:1001000289802": 2,
+      "gas:candidate-vibid:1001000225880": 285,
+      "gas:candidate-vibid:213200070602": 1,
+      "gas:candidate-vibid:1001000195028": 0,
+      "gas:candidate-vibid:1001000121795": 1,
+      "gas:candidate-vibid:1001000190283": 0,
+      "gas:candidate-vibid:1001000113898": 0,
+      "special:against-all": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=132000004&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=213200070898&region=0&sub_region=0&type=429",
@@ -7167,14 +7167,14 @@ export const duma_2003_uik_428_region_13_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Алешкин Олег Иванович": 1,
-      "Гришин Виктор Иванович": 247,
-      "Давыдкин Михаил Александрович": 1,
-      "Калашников Сергей Александрович": 0,
-      "Костерин Евгений Алексеевич": 0,
-      "Нечаев Виктор Анатольевич": 0,
-      "Полушкин Александр Викторович": 2,
-      "Против всех": 0
+      "gas:candidate-vibid:1001000289802": 1,
+      "gas:candidate-vibid:1001000225880": 247,
+      "gas:candidate-vibid:213200070602": 1,
+      "gas:candidate-vibid:1001000195028": 0,
+      "gas:candidate-vibid:1001000121795": 0,
+      "gas:candidate-vibid:1001000190283": 0,
+      "gas:candidate-vibid:1001000113898": 2,
+      "special:against-all": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=132000004&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=213200070898&region=0&sub_region=0&type=429",
@@ -7224,14 +7224,14 @@ export const duma_2003_uik_428_region_13_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Алешкин Олег Иванович": 0,
-      "Гришин Виктор Иванович": 494,
-      "Давыдкин Михаил Александрович": 0,
-      "Калашников Сергей Александрович": 0,
-      "Костерин Евгений Алексеевич": 7,
-      "Нечаев Виктор Анатольевич": 0,
-      "Полушкин Александр Викторович": 0,
-      "Против всех": 0
+      "gas:candidate-vibid:1001000289802": 0,
+      "gas:candidate-vibid:1001000225880": 494,
+      "gas:candidate-vibid:213200070602": 0,
+      "gas:candidate-vibid:1001000195028": 0,
+      "gas:candidate-vibid:1001000121795": 7,
+      "gas:candidate-vibid:1001000190283": 0,
+      "gas:candidate-vibid:1001000113898": 0,
+      "special:against-all": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=132000004&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=213200070898&region=0&sub_region=0&type=429",
@@ -7281,14 +7281,14 @@ export const duma_2003_uik_428_region_13_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Алешкин Олег Иванович": 0,
-      "Гришин Виктор Иванович": 502,
-      "Давыдкин Михаил Александрович": 0,
-      "Калашников Сергей Александрович": 0,
-      "Костерин Евгений Алексеевич": 3,
-      "Нечаев Виктор Анатольевич": 0,
-      "Полушкин Александр Викторович": 0,
-      "Против всех": 3
+      "gas:candidate-vibid:1001000289802": 0,
+      "gas:candidate-vibid:1001000225880": 502,
+      "gas:candidate-vibid:213200070602": 0,
+      "gas:candidate-vibid:1001000195028": 0,
+      "gas:candidate-vibid:1001000121795": 3,
+      "gas:candidate-vibid:1001000190283": 0,
+      "gas:candidate-vibid:1001000113898": 0,
+      "special:against-all": 3
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=132000004&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=213200070898&region=0&sub_region=0&type=429",
@@ -7338,14 +7338,14 @@ export const duma_2003_uik_428_region_13_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Алешкин Олег Иванович": 1,
-      "Гришин Виктор Иванович": 113,
-      "Давыдкин Михаил Александрович": 1,
-      "Калашников Сергей Александрович": 0,
-      "Костерин Евгений Алексеевич": 1,
-      "Нечаев Виктор Анатольевич": 0,
-      "Полушкин Александр Викторович": 1,
-      "Против всех": 1
+      "gas:candidate-vibid:1001000289802": 1,
+      "gas:candidate-vibid:1001000225880": 113,
+      "gas:candidate-vibid:213200070602": 1,
+      "gas:candidate-vibid:1001000195028": 0,
+      "gas:candidate-vibid:1001000121795": 1,
+      "gas:candidate-vibid:1001000190283": 0,
+      "gas:candidate-vibid:1001000113898": 1,
+      "special:against-all": 1
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=132000004&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=213200070898&region=0&sub_region=0&type=429",
@@ -7395,14 +7395,14 @@ export const duma_2003_uik_428_region_13_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Алешкин Олег Иванович": 0,
-      "Гришин Виктор Иванович": 33,
-      "Давыдкин Михаил Александрович": 0,
-      "Калашников Сергей Александрович": 0,
-      "Костерин Евгений Алексеевич": 1,
-      "Нечаев Виктор Анатольевич": 0,
-      "Полушкин Александр Викторович": 0,
-      "Против всех": 0
+      "gas:candidate-vibid:1001000289802": 0,
+      "gas:candidate-vibid:1001000225880": 33,
+      "gas:candidate-vibid:213200070602": 0,
+      "gas:candidate-vibid:1001000195028": 0,
+      "gas:candidate-vibid:1001000121795": 1,
+      "gas:candidate-vibid:1001000190283": 0,
+      "gas:candidate-vibid:1001000113898": 0,
+      "special:against-all": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=132000004&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=213200070898&region=0&sub_region=0&type=429",
@@ -7452,14 +7452,14 @@ export const duma_2003_uik_428_region_13_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Алешкин Олег Иванович": 0,
-      "Гришин Виктор Иванович": 400,
-      "Давыдкин Михаил Александрович": 0,
-      "Калашников Сергей Александрович": 0,
-      "Костерин Евгений Алексеевич": 2,
-      "Нечаев Виктор Анатольевич": 0,
-      "Полушкин Александр Викторович": 2,
-      "Против всех": 0
+      "gas:candidate-vibid:1001000289802": 0,
+      "gas:candidate-vibid:1001000225880": 400,
+      "gas:candidate-vibid:213200070602": 0,
+      "gas:candidate-vibid:1001000195028": 0,
+      "gas:candidate-vibid:1001000121795": 2,
+      "gas:candidate-vibid:1001000190283": 0,
+      "gas:candidate-vibid:1001000113898": 2,
+      "special:against-all": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=132000004&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=213200070898&region=0&sub_region=0&type=429",
@@ -7509,14 +7509,14 @@ export const duma_2003_uik_428_region_13_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Алешкин Олег Иванович": 0,
-      "Гришин Виктор Иванович": 131,
-      "Давыдкин Михаил Александрович": 0,
-      "Калашников Сергей Александрович": 0,
-      "Костерин Евгений Алексеевич": 0,
-      "Нечаев Виктор Анатольевич": 0,
-      "Полушкин Александр Викторович": 0,
-      "Против всех": 0
+      "gas:candidate-vibid:1001000289802": 0,
+      "gas:candidate-vibid:1001000225880": 131,
+      "gas:candidate-vibid:213200070602": 0,
+      "gas:candidate-vibid:1001000195028": 0,
+      "gas:candidate-vibid:1001000121795": 0,
+      "gas:candidate-vibid:1001000190283": 0,
+      "gas:candidate-vibid:1001000113898": 0,
+      "special:against-all": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=132000004&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=213200070898&region=0&sub_region=0&type=429",
@@ -7566,14 +7566,14 @@ export const duma_2003_uik_428_region_13_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Алешкин Олег Иванович": 0,
-      "Гришин Виктор Иванович": 53,
-      "Давыдкин Михаил Александрович": 0,
-      "Калашников Сергей Александрович": 0,
-      "Костерин Евгений Алексеевич": 0,
-      "Нечаев Виктор Анатольевич": 0,
-      "Полушкин Александр Викторович": 0,
-      "Против всех": 0
+      "gas:candidate-vibid:1001000289802": 0,
+      "gas:candidate-vibid:1001000225880": 53,
+      "gas:candidate-vibid:213200070602": 0,
+      "gas:candidate-vibid:1001000195028": 0,
+      "gas:candidate-vibid:1001000121795": 0,
+      "gas:candidate-vibid:1001000190283": 0,
+      "gas:candidate-vibid:1001000113898": 0,
+      "special:against-all": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=132000004&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=213200070898&region=0&sub_region=0&type=429",
@@ -7623,14 +7623,14 @@ export const duma_2003_uik_428_region_13_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Алешкин Олег Иванович": 2,
-      "Гришин Виктор Иванович": 268,
-      "Давыдкин Михаил Александрович": 0,
-      "Калашников Сергей Александрович": 0,
-      "Костерин Евгений Алексеевич": 10,
-      "Нечаев Виктор Анатольевич": 2,
-      "Полушкин Александр Викторович": 3,
-      "Против всех": 8
+      "gas:candidate-vibid:1001000289802": 2,
+      "gas:candidate-vibid:1001000225880": 268,
+      "gas:candidate-vibid:213200070602": 0,
+      "gas:candidate-vibid:1001000195028": 0,
+      "gas:candidate-vibid:1001000121795": 10,
+      "gas:candidate-vibid:1001000190283": 2,
+      "gas:candidate-vibid:1001000113898": 3,
+      "special:against-all": 8
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=132000004&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=213200070898&region=0&sub_region=0&type=429",
@@ -7680,14 +7680,14 @@ export const duma_2003_uik_428_region_13_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Алешкин Олег Иванович": 0,
-      "Гришин Виктор Иванович": 211,
-      "Давыдкин Михаил Александрович": 0,
-      "Калашников Сергей Александрович": 0,
-      "Костерин Евгений Алексеевич": 3,
-      "Нечаев Виктор Анатольевич": 0,
-      "Полушкин Александр Викторович": 0,
-      "Против всех": 0
+      "gas:candidate-vibid:1001000289802": 0,
+      "gas:candidate-vibid:1001000225880": 211,
+      "gas:candidate-vibid:213200070602": 0,
+      "gas:candidate-vibid:1001000195028": 0,
+      "gas:candidate-vibid:1001000121795": 3,
+      "gas:candidate-vibid:1001000190283": 0,
+      "gas:candidate-vibid:1001000113898": 0,
+      "special:against-all": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=132000004&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=213200070898&region=0&sub_region=0&type=429",
@@ -7737,14 +7737,14 @@ export const duma_2003_uik_428_region_13_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Алешкин Олег Иванович": 0,
-      "Гришин Виктор Иванович": 316,
-      "Давыдкин Михаил Александрович": 1,
-      "Калашников Сергей Александрович": 0,
-      "Костерин Евгений Алексеевич": 6,
-      "Нечаев Виктор Анатольевич": 0,
-      "Полушкин Александр Викторович": 0,
-      "Против всех": 0
+      "gas:candidate-vibid:1001000289802": 0,
+      "gas:candidate-vibid:1001000225880": 316,
+      "gas:candidate-vibid:213200070602": 1,
+      "gas:candidate-vibid:1001000195028": 0,
+      "gas:candidate-vibid:1001000121795": 6,
+      "gas:candidate-vibid:1001000190283": 0,
+      "gas:candidate-vibid:1001000113898": 0,
+      "special:against-all": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=132000004&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=213200070898&region=0&sub_region=0&type=429",
@@ -7794,14 +7794,14 @@ export const duma_2003_uik_428_region_13_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Алешкин Олег Иванович": 0,
-      "Гришин Виктор Иванович": 220,
-      "Давыдкин Михаил Александрович": 0,
-      "Калашников Сергей Александрович": 0,
-      "Костерин Евгений Алексеевич": 1,
-      "Нечаев Виктор Анатольевич": 0,
-      "Полушкин Александр Викторович": 0,
-      "Против всех": 1
+      "gas:candidate-vibid:1001000289802": 0,
+      "gas:candidate-vibid:1001000225880": 220,
+      "gas:candidate-vibid:213200070602": 0,
+      "gas:candidate-vibid:1001000195028": 0,
+      "gas:candidate-vibid:1001000121795": 1,
+      "gas:candidate-vibid:1001000190283": 0,
+      "gas:candidate-vibid:1001000113898": 0,
+      "special:against-all": 1
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=132000004&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=213200070898&region=0&sub_region=0&type=429",
@@ -7851,14 +7851,14 @@ export const duma_2003_uik_428_region_13_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Алешкин Олег Иванович": 0,
-      "Гришин Виктор Иванович": 380,
-      "Давыдкин Михаил Александрович": 0,
-      "Калашников Сергей Александрович": 0,
-      "Костерин Евгений Алексеевич": 4,
-      "Нечаев Виктор Анатольевич": 0,
-      "Полушкин Александр Викторович": 0,
-      "Против всех": 0
+      "gas:candidate-vibid:1001000289802": 0,
+      "gas:candidate-vibid:1001000225880": 380,
+      "gas:candidate-vibid:213200070602": 0,
+      "gas:candidate-vibid:1001000195028": 0,
+      "gas:candidate-vibid:1001000121795": 4,
+      "gas:candidate-vibid:1001000190283": 0,
+      "gas:candidate-vibid:1001000113898": 0,
+      "special:against-all": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=132000004&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=213200070898&region=0&sub_region=0&type=429",
@@ -7908,14 +7908,14 @@ export const duma_2003_uik_428_region_13_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Алешкин Олег Иванович": 2,
-      "Гришин Виктор Иванович": 104,
-      "Давыдкин Михаил Александрович": 0,
-      "Калашников Сергей Александрович": 0,
-      "Костерин Евгений Алексеевич": 2,
-      "Нечаев Виктор Анатольевич": 0,
-      "Полушкин Александр Викторович": 0,
-      "Против всех": 0
+      "gas:candidate-vibid:1001000289802": 2,
+      "gas:candidate-vibid:1001000225880": 104,
+      "gas:candidate-vibid:213200070602": 0,
+      "gas:candidate-vibid:1001000195028": 0,
+      "gas:candidate-vibid:1001000121795": 2,
+      "gas:candidate-vibid:1001000190283": 0,
+      "gas:candidate-vibid:1001000113898": 0,
+      "special:against-all": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=132000004&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=213200070898&region=0&sub_region=0&type=429",
@@ -7965,14 +7965,14 @@ export const duma_2003_uik_428_region_13_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Алешкин Олег Иванович": 0,
-      "Гришин Виктор Иванович": 136,
-      "Давыдкин Михаил Александрович": 0,
-      "Калашников Сергей Александрович": 0,
-      "Костерин Евгений Алексеевич": 0,
-      "Нечаев Виктор Анатольевич": 0,
-      "Полушкин Александр Викторович": 0,
-      "Против всех": 0
+      "gas:candidate-vibid:1001000289802": 0,
+      "gas:candidate-vibid:1001000225880": 136,
+      "gas:candidate-vibid:213200070602": 0,
+      "gas:candidate-vibid:1001000195028": 0,
+      "gas:candidate-vibid:1001000121795": 0,
+      "gas:candidate-vibid:1001000190283": 0,
+      "gas:candidate-vibid:1001000113898": 0,
+      "special:against-all": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=132000004&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=213200070898&region=0&sub_region=0&type=429",
@@ -8022,14 +8022,14 @@ export const duma_2003_uik_428_region_13_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Алешкин Олег Иванович": 2,
-      "Гришин Виктор Иванович": 1663,
-      "Давыдкин Михаил Александрович": 3,
-      "Калашников Сергей Александрович": 3,
-      "Костерин Евгений Алексеевич": 11,
-      "Нечаев Виктор Анатольевич": 1,
-      "Полушкин Александр Викторович": 9,
-      "Против всех": 83
+      "gas:candidate-vibid:1001000289802": 2,
+      "gas:candidate-vibid:1001000225880": 1663,
+      "gas:candidate-vibid:213200070602": 3,
+      "gas:candidate-vibid:1001000195028": 3,
+      "gas:candidate-vibid:1001000121795": 11,
+      "gas:candidate-vibid:1001000190283": 1,
+      "gas:candidate-vibid:1001000113898": 9,
+      "special:against-all": 83
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=132000006&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=213200070900&region=0&sub_region=0&type=429",
@@ -8079,14 +8079,14 @@ export const duma_2003_uik_428_region_13_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Алешкин Олег Иванович": 38,
-      "Гришин Виктор Иванович": 1087,
-      "Давыдкин Михаил Александрович": 6,
-      "Калашников Сергей Александрович": 7,
-      "Костерин Евгений Алексеевич": 67,
-      "Нечаев Виктор Анатольевич": 9,
-      "Полушкин Александр Викторович": 41,
-      "Против всех": 108
+      "gas:candidate-vibid:1001000289802": 38,
+      "gas:candidate-vibid:1001000225880": 1087,
+      "gas:candidate-vibid:213200070602": 6,
+      "gas:candidate-vibid:1001000195028": 7,
+      "gas:candidate-vibid:1001000121795": 67,
+      "gas:candidate-vibid:1001000190283": 9,
+      "gas:candidate-vibid:1001000113898": 41,
+      "special:against-all": 108
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=132000006&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=213200070900&region=0&sub_region=0&type=429",
@@ -8136,14 +8136,14 @@ export const duma_2003_uik_428_region_13_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Алешкин Олег Иванович": 46,
-      "Гришин Виктор Иванович": 1115,
-      "Давыдкин Михаил Александрович": 13,
-      "Калашников Сергей Александрович": 12,
-      "Костерин Евгений Алексеевич": 130,
-      "Нечаев Виктор Анатольевич": 7,
-      "Полушкин Александр Викторович": 30,
-      "Против всех": 78
+      "gas:candidate-vibid:1001000289802": 46,
+      "gas:candidate-vibid:1001000225880": 1115,
+      "gas:candidate-vibid:213200070602": 13,
+      "gas:candidate-vibid:1001000195028": 12,
+      "gas:candidate-vibid:1001000121795": 130,
+      "gas:candidate-vibid:1001000190283": 7,
+      "gas:candidate-vibid:1001000113898": 30,
+      "special:against-all": 78
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=132000006&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=213200070900&region=0&sub_region=0&type=429",
@@ -8193,14 +8193,14 @@ export const duma_2003_uik_428_region_13_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Алешкин Олег Иванович": 42,
-      "Гришин Виктор Иванович": 910,
-      "Давыдкин Михаил Александрович": 8,
-      "Калашников Сергей Александрович": 9,
-      "Костерин Евгений Алексеевич": 104,
-      "Нечаев Виктор Анатольевич": 9,
-      "Полушкин Александр Викторович": 11,
-      "Против всех": 47
+      "gas:candidate-vibid:1001000289802": 42,
+      "gas:candidate-vibid:1001000225880": 910,
+      "gas:candidate-vibid:213200070602": 8,
+      "gas:candidate-vibid:1001000195028": 9,
+      "gas:candidate-vibid:1001000121795": 104,
+      "gas:candidate-vibid:1001000190283": 9,
+      "gas:candidate-vibid:1001000113898": 11,
+      "special:against-all": 47
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=132000006&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=213200070900&region=0&sub_region=0&type=429",
@@ -8250,14 +8250,14 @@ export const duma_2003_uik_428_region_13_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Алешкин Олег Иванович": 35,
-      "Гришин Виктор Иванович": 995,
-      "Давыдкин Михаил Александрович": 3,
-      "Калашников Сергей Александрович": 7,
-      "Костерин Евгений Алексеевич": 86,
-      "Нечаев Виктор Анатольевич": 6,
-      "Полушкин Александр Викторович": 26,
-      "Против всех": 74
+      "gas:candidate-vibid:1001000289802": 35,
+      "gas:candidate-vibid:1001000225880": 995,
+      "gas:candidate-vibid:213200070602": 3,
+      "gas:candidate-vibid:1001000195028": 7,
+      "gas:candidate-vibid:1001000121795": 86,
+      "gas:candidate-vibid:1001000190283": 6,
+      "gas:candidate-vibid:1001000113898": 26,
+      "special:against-all": 74
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=132000006&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=213200070900&region=0&sub_region=0&type=429",
@@ -8307,14 +8307,14 @@ export const duma_2003_uik_428_region_13_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Алешкин Олег Иванович": 23,
-      "Гришин Виктор Иванович": 375,
-      "Давыдкин Михаил Александрович": 2,
-      "Калашников Сергей Александрович": 6,
-      "Костерин Евгений Алексеевич": 36,
-      "Нечаев Виктор Анатольевич": 5,
-      "Полушкин Александр Викторович": 23,
-      "Против всех": 26
+      "gas:candidate-vibid:1001000289802": 23,
+      "gas:candidate-vibid:1001000225880": 375,
+      "gas:candidate-vibid:213200070602": 2,
+      "gas:candidate-vibid:1001000195028": 6,
+      "gas:candidate-vibid:1001000121795": 36,
+      "gas:candidate-vibid:1001000190283": 5,
+      "gas:candidate-vibid:1001000113898": 23,
+      "special:against-all": 26
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=132000006&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=213200070900&region=0&sub_region=0&type=429",
@@ -8364,14 +8364,14 @@ export const duma_2003_uik_428_region_13_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Алешкин Олег Иванович": 39,
-      "Гришин Виктор Иванович": 945,
-      "Давыдкин Михаил Александрович": 7,
-      "Калашников Сергей Александрович": 18,
-      "Костерин Евгений Алексеевич": 127,
-      "Нечаев Виктор Анатольевич": 0,
-      "Полушкин Александр Викторович": 26,
-      "Против всех": 101
+      "gas:candidate-vibid:1001000289802": 39,
+      "gas:candidate-vibid:1001000225880": 945,
+      "gas:candidate-vibid:213200070602": 7,
+      "gas:candidate-vibid:1001000195028": 18,
+      "gas:candidate-vibid:1001000121795": 127,
+      "gas:candidate-vibid:1001000190283": 0,
+      "gas:candidate-vibid:1001000113898": 26,
+      "special:against-all": 101
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=132000006&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=213200070900&region=0&sub_region=0&type=429",
@@ -8421,14 +8421,14 @@ export const duma_2003_uik_428_region_13_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Алешкин Олег Иванович": 4,
-      "Гришин Виктор Иванович": 1491,
-      "Давыдкин Михаил Александрович": 11,
-      "Калашников Сергей Александрович": 2,
-      "Костерин Евгений Алексеевич": 116,
-      "Нечаев Виктор Анатольевич": 2,
-      "Полушкин Александр Викторович": 12,
-      "Против всех": 3
+      "gas:candidate-vibid:1001000289802": 4,
+      "gas:candidate-vibid:1001000225880": 1491,
+      "gas:candidate-vibid:213200070602": 11,
+      "gas:candidate-vibid:1001000195028": 2,
+      "gas:candidate-vibid:1001000121795": 116,
+      "gas:candidate-vibid:1001000190283": 2,
+      "gas:candidate-vibid:1001000113898": 12,
+      "special:against-all": 3
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=132000006&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=213200070900&region=0&sub_region=0&type=429",
@@ -8478,14 +8478,14 @@ export const duma_2003_uik_428_region_13_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Алешкин Олег Иванович": 21,
-      "Гришин Виктор Иванович": 1090,
-      "Давыдкин Михаил Александрович": 5,
-      "Калашников Сергей Александрович": 8,
-      "Костерин Евгений Алексеевич": 102,
-      "Нечаев Виктор Анатольевич": 7,
-      "Полушкин Александр Викторович": 14,
-      "Против всех": 23
+      "gas:candidate-vibid:1001000289802": 21,
+      "gas:candidate-vibid:1001000225880": 1090,
+      "gas:candidate-vibid:213200070602": 5,
+      "gas:candidate-vibid:1001000195028": 8,
+      "gas:candidate-vibid:1001000121795": 102,
+      "gas:candidate-vibid:1001000190283": 7,
+      "gas:candidate-vibid:1001000113898": 14,
+      "special:against-all": 23
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=132000006&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=213200070900&region=0&sub_region=0&type=429",
@@ -8535,14 +8535,14 @@ export const duma_2003_uik_428_region_13_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Алешкин Олег Иванович": 25,
-      "Гришин Виктор Иванович": 871,
-      "Давыдкин Михаил Александрович": 4,
-      "Калашников Сергей Александрович": 11,
-      "Костерин Евгений Алексеевич": 90,
-      "Нечаев Виктор Анатольевич": 7,
-      "Полушкин Александр Викторович": 17,
-      "Против всех": 74
+      "gas:candidate-vibid:1001000289802": 25,
+      "gas:candidate-vibid:1001000225880": 871,
+      "gas:candidate-vibid:213200070602": 4,
+      "gas:candidate-vibid:1001000195028": 11,
+      "gas:candidate-vibid:1001000121795": 90,
+      "gas:candidate-vibid:1001000190283": 7,
+      "gas:candidate-vibid:1001000113898": 17,
+      "special:against-all": 74
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=132000006&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=213200070900&region=0&sub_region=0&type=429",
@@ -8592,14 +8592,14 @@ export const duma_2003_uik_428_region_13_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Алешкин Олег Иванович": 7,
-      "Гришин Виктор Иванович": 845,
-      "Давыдкин Михаил Александрович": 0,
-      "Калашников Сергей Александрович": 0,
-      "Костерин Евгений Алексеевич": 110,
-      "Нечаев Виктор Анатольевич": 0,
-      "Полушкин Александр Викторович": 10,
-      "Против всех": 66
+      "gas:candidate-vibid:1001000289802": 7,
+      "gas:candidate-vibid:1001000225880": 845,
+      "gas:candidate-vibid:213200070602": 0,
+      "gas:candidate-vibid:1001000195028": 0,
+      "gas:candidate-vibid:1001000121795": 110,
+      "gas:candidate-vibid:1001000190283": 0,
+      "gas:candidate-vibid:1001000113898": 10,
+      "special:against-all": 66
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=132000006&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=213200070900&region=0&sub_region=0&type=429",
@@ -8649,14 +8649,14 @@ export const duma_2003_uik_428_region_13_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Алешкин Олег Иванович": 12,
-      "Гришин Виктор Иванович": 776,
-      "Давыдкин Михаил Александрович": 0,
-      "Калашников Сергей Александрович": 5,
-      "Костерин Евгений Алексеевич": 76,
-      "Нечаев Виктор Анатольевич": 7,
-      "Полушкин Александр Викторович": 15,
-      "Против всех": 57
+      "gas:candidate-vibid:1001000289802": 12,
+      "gas:candidate-vibid:1001000225880": 776,
+      "gas:candidate-vibid:213200070602": 0,
+      "gas:candidate-vibid:1001000195028": 5,
+      "gas:candidate-vibid:1001000121795": 76,
+      "gas:candidate-vibid:1001000190283": 7,
+      "gas:candidate-vibid:1001000113898": 15,
+      "special:against-all": 57
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=132000006&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=213200070900&region=0&sub_region=0&type=429",
@@ -8706,14 +8706,14 @@ export const duma_2003_uik_428_region_13_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Алешкин Олег Иванович": 24,
-      "Гришин Виктор Иванович": 786,
-      "Давыдкин Михаил Александрович": 2,
-      "Калашников Сергей Александрович": 10,
-      "Костерин Евгений Алексеевич": 43,
-      "Нечаев Виктор Анатольевич": 8,
-      "Полушкин Александр Викторович": 20,
-      "Против всех": 87
+      "gas:candidate-vibid:1001000289802": 24,
+      "gas:candidate-vibid:1001000225880": 786,
+      "gas:candidate-vibid:213200070602": 2,
+      "gas:candidate-vibid:1001000195028": 10,
+      "gas:candidate-vibid:1001000121795": 43,
+      "gas:candidate-vibid:1001000190283": 8,
+      "gas:candidate-vibid:1001000113898": 20,
+      "special:against-all": 87
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=132000006&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=213200070900&region=0&sub_region=0&type=429",
@@ -8763,14 +8763,14 @@ export const duma_2003_uik_428_region_13_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Алешкин Олег Иванович": 34,
-      "Гришин Виктор Иванович": 927,
-      "Давыдкин Михаил Александрович": 5,
-      "Калашников Сергей Александрович": 6,
-      "Костерин Евгений Алексеевич": 161,
-      "Нечаев Виктор Анатольевич": 8,
-      "Полушкин Александр Викторович": 15,
-      "Против всех": 52
+      "gas:candidate-vibid:1001000289802": 34,
+      "gas:candidate-vibid:1001000225880": 927,
+      "gas:candidate-vibid:213200070602": 5,
+      "gas:candidate-vibid:1001000195028": 6,
+      "gas:candidate-vibid:1001000121795": 161,
+      "gas:candidate-vibid:1001000190283": 8,
+      "gas:candidate-vibid:1001000113898": 15,
+      "special:against-all": 52
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=132000006&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=213200070900&region=0&sub_region=0&type=429",
@@ -8820,14 +8820,14 @@ export const duma_2003_uik_428_region_13_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Алешкин Олег Иванович": 10,
-      "Гришин Виктор Иванович": 642,
-      "Давыдкин Михаил Александрович": 4,
-      "Калашников Сергей Александрович": 5,
-      "Костерин Евгений Алексеевич": 67,
-      "Нечаев Виктор Анатольевич": 2,
-      "Полушкин Александр Викторович": 13,
-      "Против всех": 10
+      "gas:candidate-vibid:1001000289802": 10,
+      "gas:candidate-vibid:1001000225880": 642,
+      "gas:candidate-vibid:213200070602": 4,
+      "gas:candidate-vibid:1001000195028": 5,
+      "gas:candidate-vibid:1001000121795": 67,
+      "gas:candidate-vibid:1001000190283": 2,
+      "gas:candidate-vibid:1001000113898": 13,
+      "special:against-all": 10
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=132000006&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=213200070900&region=0&sub_region=0&type=429",
@@ -8877,14 +8877,14 @@ export const duma_2003_uik_428_region_13_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Алешкин Олег Иванович": 19,
-      "Гришин Виктор Иванович": 564,
-      "Давыдкин Михаил Александрович": 3,
-      "Калашников Сергей Александрович": 0,
-      "Костерин Евгений Алексеевич": 14,
-      "Нечаев Виктор Анатольевич": 4,
-      "Полушкин Александр Викторович": 13,
-      "Против всех": 27
+      "gas:candidate-vibid:1001000289802": 19,
+      "gas:candidate-vibid:1001000225880": 564,
+      "gas:candidate-vibid:213200070602": 3,
+      "gas:candidate-vibid:1001000195028": 0,
+      "gas:candidate-vibid:1001000121795": 14,
+      "gas:candidate-vibid:1001000190283": 4,
+      "gas:candidate-vibid:1001000113898": 13,
+      "special:against-all": 27
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=132000006&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=213200070900&region=0&sub_region=0&type=429",
@@ -8934,14 +8934,14 @@ export const duma_2003_uik_428_region_13_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Алешкин Олег Иванович": 3,
-      "Гришин Виктор Иванович": 180,
-      "Давыдкин Михаил Александрович": 0,
-      "Калашников Сергей Александрович": 1,
-      "Костерин Евгений Алексеевич": 10,
-      "Нечаев Виктор Анатольевич": 0,
-      "Полушкин Александр Викторович": 3,
-      "Против всех": 0
+      "gas:candidate-vibid:1001000289802": 3,
+      "gas:candidate-vibid:1001000225880": 180,
+      "gas:candidate-vibid:213200070602": 0,
+      "gas:candidate-vibid:1001000195028": 1,
+      "gas:candidate-vibid:1001000121795": 10,
+      "gas:candidate-vibid:1001000190283": 0,
+      "gas:candidate-vibid:1001000113898": 3,
+      "special:against-all": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=132000006&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=213200070900&region=0&sub_region=0&type=429",
@@ -8991,14 +8991,14 @@ export const duma_2003_uik_428_region_13_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Алешкин Олег Иванович": 11,
-      "Гришин Виктор Иванович": 635,
-      "Давыдкин Михаил Александрович": 3,
-      "Калашников Сергей Александрович": 5,
-      "Костерин Евгений Алексеевич": 48,
-      "Нечаев Виктор Анатольевич": 2,
-      "Полушкин Александр Викторович": 1,
-      "Против всех": 27
+      "gas:candidate-vibid:1001000289802": 11,
+      "gas:candidate-vibid:1001000225880": 635,
+      "gas:candidate-vibid:213200070602": 3,
+      "gas:candidate-vibid:1001000195028": 5,
+      "gas:candidate-vibid:1001000121795": 48,
+      "gas:candidate-vibid:1001000190283": 2,
+      "gas:candidate-vibid:1001000113898": 1,
+      "special:against-all": 27
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=132000006&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=213200070900&region=0&sub_region=0&type=429",
@@ -9048,14 +9048,14 @@ export const duma_2003_uik_428_region_13_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Алешкин Олег Иванович": 2,
-      "Гришин Виктор Иванович": 331,
-      "Давыдкин Михаил Александрович": 0,
-      "Калашников Сергей Александрович": 0,
-      "Костерин Евгений Алексеевич": 28,
-      "Нечаев Виктор Анатольевич": 1,
-      "Полушкин Александр Викторович": 0,
-      "Против всех": 13
+      "gas:candidate-vibid:1001000289802": 2,
+      "gas:candidate-vibid:1001000225880": 331,
+      "gas:candidate-vibid:213200070602": 0,
+      "gas:candidate-vibid:1001000195028": 0,
+      "gas:candidate-vibid:1001000121795": 28,
+      "gas:candidate-vibid:1001000190283": 1,
+      "gas:candidate-vibid:1001000113898": 0,
+      "special:against-all": 13
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=132000006&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=213200070900&region=0&sub_region=0&type=429",
@@ -9105,14 +9105,14 @@ export const duma_2003_uik_428_region_13_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Алешкин Олег Иванович": 3,
-      "Гришин Виктор Иванович": 142,
-      "Давыдкин Михаил Александрович": 0,
-      "Калашников Сергей Александрович": 0,
-      "Костерин Евгений Алексеевич": 0,
-      "Нечаев Виктор Анатольевич": 1,
-      "Полушкин Александр Викторович": 0,
-      "Против всех": 5
+      "gas:candidate-vibid:1001000289802": 3,
+      "gas:candidate-vibid:1001000225880": 142,
+      "gas:candidate-vibid:213200070602": 0,
+      "gas:candidate-vibid:1001000195028": 0,
+      "gas:candidate-vibid:1001000121795": 0,
+      "gas:candidate-vibid:1001000190283": 1,
+      "gas:candidate-vibid:1001000113898": 0,
+      "special:against-all": 5
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=132000006&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=213200070900&region=0&sub_region=0&type=429",
@@ -9162,14 +9162,14 @@ export const duma_2003_uik_428_region_13_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Алешкин Олег Иванович": 4,
-      "Гришин Виктор Иванович": 227,
-      "Давыдкин Михаил Александрович": 1,
-      "Калашников Сергей Александрович": 2,
-      "Костерин Евгений Алексеевич": 5,
-      "Нечаев Виктор Анатольевич": 0,
-      "Полушкин Александр Викторович": 1,
-      "Против всех": 3
+      "gas:candidate-vibid:1001000289802": 4,
+      "gas:candidate-vibid:1001000225880": 227,
+      "gas:candidate-vibid:213200070602": 1,
+      "gas:candidate-vibid:1001000195028": 2,
+      "gas:candidate-vibid:1001000121795": 5,
+      "gas:candidate-vibid:1001000190283": 0,
+      "gas:candidate-vibid:1001000113898": 1,
+      "special:against-all": 3
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=132000006&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=213200070900&region=0&sub_region=0&type=429",
@@ -9219,14 +9219,14 @@ export const duma_2003_uik_428_region_13_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Алешкин Олег Иванович": 0,
-      "Гришин Виктор Иванович": 60,
-      "Давыдкин Михаил Александрович": 0,
-      "Калашников Сергей Александрович": 0,
-      "Костерин Евгений Алексеевич": 0,
-      "Нечаев Виктор Анатольевич": 0,
-      "Полушкин Александр Викторович": 0,
-      "Против всех": 0
+      "gas:candidate-vibid:1001000289802": 0,
+      "gas:candidate-vibid:1001000225880": 60,
+      "gas:candidate-vibid:213200070602": 0,
+      "gas:candidate-vibid:1001000195028": 0,
+      "gas:candidate-vibid:1001000121795": 0,
+      "gas:candidate-vibid:1001000190283": 0,
+      "gas:candidate-vibid:1001000113898": 0,
+      "special:against-all": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=132000006&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=213200070900&region=0&sub_region=0&type=429",
@@ -9276,14 +9276,14 @@ export const duma_2003_uik_428_region_13_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Алешкин Олег Иванович": 0,
-      "Гришин Виктор Иванович": 126,
-      "Давыдкин Михаил Александрович": 0,
-      "Калашников Сергей Александрович": 1,
-      "Костерин Евгений Алексеевич": 37,
-      "Нечаев Виктор Анатольевич": 0,
-      "Полушкин Александр Викторович": 1,
-      "Против всех": 7
+      "gas:candidate-vibid:1001000289802": 0,
+      "gas:candidate-vibid:1001000225880": 126,
+      "gas:candidate-vibid:213200070602": 0,
+      "gas:candidate-vibid:1001000195028": 1,
+      "gas:candidate-vibid:1001000121795": 37,
+      "gas:candidate-vibid:1001000190283": 0,
+      "gas:candidate-vibid:1001000113898": 1,
+      "special:against-all": 7
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=132000006&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=213200070900&region=0&sub_region=0&type=429",
@@ -9333,14 +9333,14 @@ export const duma_2003_uik_428_region_13_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Алешкин Олег Иванович": 13,
-      "Гришин Виктор Иванович": 491,
-      "Давыдкин Михаил Александрович": 1,
-      "Калашников Сергей Александрович": 1,
-      "Костерин Евгений Алексеевич": 17,
-      "Нечаев Виктор Анатольевич": 2,
-      "Полушкин Александр Викторович": 1,
-      "Против всех": 8
+      "gas:candidate-vibid:1001000289802": 13,
+      "gas:candidate-vibid:1001000225880": 491,
+      "gas:candidate-vibid:213200070602": 1,
+      "gas:candidate-vibid:1001000195028": 1,
+      "gas:candidate-vibid:1001000121795": 17,
+      "gas:candidate-vibid:1001000190283": 2,
+      "gas:candidate-vibid:1001000113898": 1,
+      "special:against-all": 8
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=132000006&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=213200070900&region=0&sub_region=0&type=429",
@@ -9390,14 +9390,14 @@ export const duma_2003_uik_428_region_13_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Алешкин Олег Иванович": 0,
-      "Гришин Виктор Иванович": 80,
-      "Давыдкин Михаил Александрович": 0,
-      "Калашников Сергей Александрович": 1,
-      "Костерин Евгений Алексеевич": 2,
-      "Нечаев Виктор Анатольевич": 0,
-      "Полушкин Александр Викторович": 3,
-      "Против всех": 6
+      "gas:candidate-vibid:1001000289802": 0,
+      "gas:candidate-vibid:1001000225880": 80,
+      "gas:candidate-vibid:213200070602": 0,
+      "gas:candidate-vibid:1001000195028": 1,
+      "gas:candidate-vibid:1001000121795": 2,
+      "gas:candidate-vibid:1001000190283": 0,
+      "gas:candidate-vibid:1001000113898": 3,
+      "special:against-all": 6
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=132000006&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=213200070900&region=0&sub_region=0&type=429",
@@ -9447,14 +9447,14 @@ export const duma_2003_uik_428_region_13_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Алешкин Олег Иванович": 0,
-      "Гришин Виктор Иванович": 69,
-      "Давыдкин Михаил Александрович": 0,
-      "Калашников Сергей Александрович": 0,
-      "Костерин Евгений Алексеевич": 1,
-      "Нечаев Виктор Анатольевич": 0,
-      "Полушкин Александр Викторович": 0,
-      "Против всех": 0
+      "gas:candidate-vibid:1001000289802": 0,
+      "gas:candidate-vibid:1001000225880": 69,
+      "gas:candidate-vibid:213200070602": 0,
+      "gas:candidate-vibid:1001000195028": 0,
+      "gas:candidate-vibid:1001000121795": 1,
+      "gas:candidate-vibid:1001000190283": 0,
+      "gas:candidate-vibid:1001000113898": 0,
+      "special:against-all": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=132000006&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=213200070900&region=0&sub_region=0&type=429",
@@ -9504,14 +9504,14 @@ export const duma_2003_uik_428_region_13_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Алешкин Олег Иванович": 3,
-      "Гришин Виктор Иванович": 247,
-      "Давыдкин Михаил Александрович": 8,
-      "Калашников Сергей Александрович": 5,
-      "Костерин Евгений Алексеевич": 30,
-      "Нечаев Виктор Анатольевич": 2,
-      "Полушкин Александр Викторович": 6,
-      "Против всех": 36
+      "gas:candidate-vibid:1001000289802": 3,
+      "gas:candidate-vibid:1001000225880": 247,
+      "gas:candidate-vibid:213200070602": 8,
+      "gas:candidate-vibid:1001000195028": 5,
+      "gas:candidate-vibid:1001000121795": 30,
+      "gas:candidate-vibid:1001000190283": 2,
+      "gas:candidate-vibid:1001000113898": 6,
+      "special:against-all": 36
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=132000006&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=213200070900&region=0&sub_region=0&type=429",
@@ -9561,14 +9561,14 @@ export const duma_2003_uik_428_region_13_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Алешкин Олег Иванович": 0,
-      "Гришин Виктор Иванович": 91,
-      "Давыдкин Михаил Александрович": 0,
-      "Калашников Сергей Александрович": 0,
-      "Костерин Евгений Алексеевич": 1,
-      "Нечаев Виктор Анатольевич": 0,
-      "Полушкин Александр Викторович": 1,
-      "Против всех": 3
+      "gas:candidate-vibid:1001000289802": 0,
+      "gas:candidate-vibid:1001000225880": 91,
+      "gas:candidate-vibid:213200070602": 0,
+      "gas:candidate-vibid:1001000195028": 0,
+      "gas:candidate-vibid:1001000121795": 1,
+      "gas:candidate-vibid:1001000190283": 0,
+      "gas:candidate-vibid:1001000113898": 1,
+      "special:against-all": 3
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=132000006&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=213200070900&region=0&sub_region=0&type=429",
@@ -9618,14 +9618,14 @@ export const duma_2003_uik_428_region_13_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Алешкин Олег Иванович": 3,
-      "Гришин Виктор Иванович": 127,
-      "Давыдкин Михаил Александрович": 0,
-      "Калашников Сергей Александрович": 2,
-      "Костерин Евгений Алексеевич": 5,
-      "Нечаев Виктор Анатольевич": 0,
-      "Полушкин Александр Викторович": 0,
-      "Против всех": 8
+      "gas:candidate-vibid:1001000289802": 3,
+      "gas:candidate-vibid:1001000225880": 127,
+      "gas:candidate-vibid:213200070602": 0,
+      "gas:candidate-vibid:1001000195028": 2,
+      "gas:candidate-vibid:1001000121795": 5,
+      "gas:candidate-vibid:1001000190283": 0,
+      "gas:candidate-vibid:1001000113898": 0,
+      "special:against-all": 8
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=132000006&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=213200070900&region=0&sub_region=0&type=429",
@@ -9675,14 +9675,14 @@ export const duma_2003_uik_428_region_13_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Алешкин Олег Иванович": 7,
-      "Гришин Виктор Иванович": 312,
-      "Давыдкин Михаил Александрович": 6,
-      "Калашников Сергей Александрович": 1,
-      "Костерин Евгений Алексеевич": 14,
-      "Нечаев Виктор Анатольевич": 2,
-      "Полушкин Александр Викторович": 4,
-      "Против всех": 15
+      "gas:candidate-vibid:1001000289802": 7,
+      "gas:candidate-vibid:1001000225880": 312,
+      "gas:candidate-vibid:213200070602": 6,
+      "gas:candidate-vibid:1001000195028": 1,
+      "gas:candidate-vibid:1001000121795": 14,
+      "gas:candidate-vibid:1001000190283": 2,
+      "gas:candidate-vibid:1001000113898": 4,
+      "special:against-all": 15
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=132000006&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=213200070900&region=0&sub_region=0&type=429",
@@ -9732,14 +9732,14 @@ export const duma_2003_uik_428_region_13_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Алешкин Олег Иванович": 0,
-      "Гришин Виктор Иванович": 53,
-      "Давыдкин Михаил Александрович": 0,
-      "Калашников Сергей Александрович": 0,
-      "Костерин Евгений Алексеевич": 14,
-      "Нечаев Виктор Анатольевич": 0,
-      "Полушкин Александр Викторович": 0,
-      "Против всех": 3
+      "gas:candidate-vibid:1001000289802": 0,
+      "gas:candidate-vibid:1001000225880": 53,
+      "gas:candidate-vibid:213200070602": 0,
+      "gas:candidate-vibid:1001000195028": 0,
+      "gas:candidate-vibid:1001000121795": 14,
+      "gas:candidate-vibid:1001000190283": 0,
+      "gas:candidate-vibid:1001000113898": 0,
+      "special:against-all": 3
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=132000006&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=213200070900&region=0&sub_region=0&type=429",
@@ -9789,14 +9789,14 @@ export const duma_2003_uik_428_region_13_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Алешкин Олег Иванович": 2,
-      "Гришин Виктор Иванович": 328,
-      "Давыдкин Михаил Александрович": 3,
-      "Калашников Сергей Александрович": 1,
-      "Костерин Евгений Алексеевич": 15,
-      "Нечаев Виктор Анатольевич": 2,
-      "Полушкин Александр Викторович": 2,
-      "Против всех": 13
+      "gas:candidate-vibid:1001000289802": 2,
+      "gas:candidate-vibid:1001000225880": 328,
+      "gas:candidate-vibid:213200070602": 3,
+      "gas:candidate-vibid:1001000195028": 1,
+      "gas:candidate-vibid:1001000121795": 15,
+      "gas:candidate-vibid:1001000190283": 2,
+      "gas:candidate-vibid:1001000113898": 2,
+      "special:against-all": 13
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=132000006&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=213200070900&region=0&sub_region=0&type=429",
@@ -9846,14 +9846,14 @@ export const duma_2003_uik_428_region_13_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Алешкин Олег Иванович": 1,
-      "Гришин Виктор Иванович": 61,
-      "Давыдкин Михаил Александрович": 0,
-      "Калашников Сергей Александрович": 0,
-      "Костерин Евгений Алексеевич": 0,
-      "Нечаев Виктор Анатольевич": 0,
-      "Полушкин Александр Викторович": 1,
-      "Против всех": 0
+      "gas:candidate-vibid:1001000289802": 1,
+      "gas:candidate-vibid:1001000225880": 61,
+      "gas:candidate-vibid:213200070602": 0,
+      "gas:candidate-vibid:1001000195028": 0,
+      "gas:candidate-vibid:1001000121795": 0,
+      "gas:candidate-vibid:1001000190283": 0,
+      "gas:candidate-vibid:1001000113898": 1,
+      "special:against-all": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=132000006&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=213200070900&region=0&sub_region=0&type=429",
@@ -9903,14 +9903,14 @@ export const duma_2003_uik_428_region_13_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Алешкин Олег Иванович": 0,
-      "Гришин Виктор Иванович": 617,
-      "Давыдкин Михаил Александрович": 14,
-      "Калашников Сергей Александрович": 3,
-      "Костерин Евгений Алексеевич": 50,
-      "Нечаев Виктор Анатольевич": 3,
-      "Полушкин Александр Викторович": 3,
-      "Против всех": 12
+      "gas:candidate-vibid:1001000289802": 0,
+      "gas:candidate-vibid:1001000225880": 617,
+      "gas:candidate-vibid:213200070602": 14,
+      "gas:candidate-vibid:1001000195028": 3,
+      "gas:candidate-vibid:1001000121795": 50,
+      "gas:candidate-vibid:1001000190283": 3,
+      "gas:candidate-vibid:1001000113898": 3,
+      "special:against-all": 12
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=132000006&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=213200070900&region=0&sub_region=0&type=429",
@@ -9960,14 +9960,14 @@ export const duma_2003_uik_428_region_13_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Алешкин Олег Иванович": 2,
-      "Гришин Виктор Иванович": 311,
-      "Давыдкин Михаил Александрович": 2,
-      "Калашников Сергей Александрович": 1,
-      "Костерин Евгений Алексеевич": 15,
-      "Нечаев Виктор Анатольевич": 0,
-      "Полушкин Александр Викторович": 2,
-      "Против всех": 5
+      "gas:candidate-vibid:1001000289802": 2,
+      "gas:candidate-vibid:1001000225880": 311,
+      "gas:candidate-vibid:213200070602": 2,
+      "gas:candidate-vibid:1001000195028": 1,
+      "gas:candidate-vibid:1001000121795": 15,
+      "gas:candidate-vibid:1001000190283": 0,
+      "gas:candidate-vibid:1001000113898": 2,
+      "special:against-all": 5
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=132000006&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=213200070900&region=0&sub_region=0&type=429",
@@ -10017,14 +10017,14 @@ export const duma_2003_uik_428_region_13_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Алешкин Олег Иванович": 13,
-      "Гришин Виктор Иванович": 1279,
-      "Давыдкин Михаил Александрович": 4,
-      "Калашников Сергей Александрович": 0,
-      "Костерин Евгений Алексеевич": 72,
-      "Нечаев Виктор Анатольевич": 0,
-      "Полушкин Александр Викторович": 11,
-      "Против всех": 17
+      "gas:candidate-vibid:1001000289802": 13,
+      "gas:candidate-vibid:1001000225880": 1279,
+      "gas:candidate-vibid:213200070602": 4,
+      "gas:candidate-vibid:1001000195028": 0,
+      "gas:candidate-vibid:1001000121795": 72,
+      "gas:candidate-vibid:1001000190283": 0,
+      "gas:candidate-vibid:1001000113898": 11,
+      "special:against-all": 17
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=132000008&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=213200070902&region=0&sub_region=0&type=429",
@@ -10074,14 +10074,14 @@ export const duma_2003_uik_428_region_13_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Алешкин Олег Иванович": 3,
-      "Гришин Виктор Иванович": 1798,
-      "Давыдкин Михаил Александрович": 12,
-      "Калашников Сергей Александрович": 4,
-      "Костерин Евгений Алексеевич": 68,
-      "Нечаев Виктор Анатольевич": 13,
-      "Полушкин Александр Викторович": 17,
-      "Против всех": 9
+      "gas:candidate-vibid:1001000289802": 3,
+      "gas:candidate-vibid:1001000225880": 1798,
+      "gas:candidate-vibid:213200070602": 12,
+      "gas:candidate-vibid:1001000195028": 4,
+      "gas:candidate-vibid:1001000121795": 68,
+      "gas:candidate-vibid:1001000190283": 13,
+      "gas:candidate-vibid:1001000113898": 17,
+      "special:against-all": 9
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=132000008&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=213200070902&region=0&sub_region=0&type=429",
@@ -10131,14 +10131,14 @@ export const duma_2003_uik_428_region_13_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Алешкин Олег Иванович": 7,
-      "Гришин Виктор Иванович": 1699,
-      "Давыдкин Михаил Александрович": 2,
-      "Калашников Сергей Александрович": 2,
-      "Костерин Евгений Алексеевич": 108,
-      "Нечаев Виктор Анатольевич": 6,
-      "Полушкин Александр Викторович": 2,
-      "Против всех": 12
+      "gas:candidate-vibid:1001000289802": 7,
+      "gas:candidate-vibid:1001000225880": 1699,
+      "gas:candidate-vibid:213200070602": 2,
+      "gas:candidate-vibid:1001000195028": 2,
+      "gas:candidate-vibid:1001000121795": 108,
+      "gas:candidate-vibid:1001000190283": 6,
+      "gas:candidate-vibid:1001000113898": 2,
+      "special:against-all": 12
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=132000008&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=213200070902&region=0&sub_region=0&type=429",
@@ -10188,14 +10188,14 @@ export const duma_2003_uik_428_region_13_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Алешкин Олег Иванович": 8,
-      "Гришин Виктор Иванович": 1468,
-      "Давыдкин Михаил Александрович": 2,
-      "Калашников Сергей Александрович": 8,
-      "Костерин Евгений Алексеевич": 32,
-      "Нечаев Виктор Анатольевич": 1,
-      "Полушкин Александр Викторович": 4,
-      "Против всех": 18
+      "gas:candidate-vibid:1001000289802": 8,
+      "gas:candidate-vibid:1001000225880": 1468,
+      "gas:candidate-vibid:213200070602": 2,
+      "gas:candidate-vibid:1001000195028": 8,
+      "gas:candidate-vibid:1001000121795": 32,
+      "gas:candidate-vibid:1001000190283": 1,
+      "gas:candidate-vibid:1001000113898": 4,
+      "special:against-all": 18
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=132000008&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=213200070902&region=0&sub_region=0&type=429",
@@ -10245,14 +10245,14 @@ export const duma_2003_uik_428_region_13_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Алешкин Олег Иванович": 4,
-      "Гришин Виктор Иванович": 503,
-      "Давыдкин Михаил Александрович": 0,
-      "Калашников Сергей Александрович": 0,
-      "Костерин Евгений Алексеевич": 4,
-      "Нечаев Виктор Анатольевич": 0,
-      "Полушкин Александр Викторович": 2,
-      "Против всех": 2
+      "gas:candidate-vibid:1001000289802": 4,
+      "gas:candidate-vibid:1001000225880": 503,
+      "gas:candidate-vibid:213200070602": 0,
+      "gas:candidate-vibid:1001000195028": 0,
+      "gas:candidate-vibid:1001000121795": 4,
+      "gas:candidate-vibid:1001000190283": 0,
+      "gas:candidate-vibid:1001000113898": 2,
+      "special:against-all": 2
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=132000008&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=213200070902&region=0&sub_region=0&type=429",
@@ -10302,14 +10302,14 @@ export const duma_2003_uik_428_region_13_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Алешкин Олег Иванович": 0,
-      "Гришин Виктор Иванович": 228,
-      "Давыдкин Михаил Александрович": 1,
-      "Калашников Сергей Александрович": 0,
-      "Костерин Евгений Алексеевич": 6,
-      "Нечаев Виктор Анатольевич": 0,
-      "Полушкин Александр Викторович": 0,
-      "Против всех": 0
+      "gas:candidate-vibid:1001000289802": 0,
+      "gas:candidate-vibid:1001000225880": 228,
+      "gas:candidate-vibid:213200070602": 1,
+      "gas:candidate-vibid:1001000195028": 0,
+      "gas:candidate-vibid:1001000121795": 6,
+      "gas:candidate-vibid:1001000190283": 0,
+      "gas:candidate-vibid:1001000113898": 0,
+      "special:against-all": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=132000008&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=213200070902&region=0&sub_region=0&type=429",
@@ -10359,14 +10359,14 @@ export const duma_2003_uik_428_region_13_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Алешкин Олег Иванович": 1,
-      "Гришин Виктор Иванович": 330,
-      "Давыдкин Михаил Александрович": 0,
-      "Калашников Сергей Александрович": 3,
-      "Костерин Евгений Алексеевич": 6,
-      "Нечаев Виктор Анатольевич": 2,
-      "Полушкин Александр Викторович": 5,
-      "Против всех": 2
+      "gas:candidate-vibid:1001000289802": 1,
+      "gas:candidate-vibid:1001000225880": 330,
+      "gas:candidate-vibid:213200070602": 0,
+      "gas:candidate-vibid:1001000195028": 3,
+      "gas:candidate-vibid:1001000121795": 6,
+      "gas:candidate-vibid:1001000190283": 2,
+      "gas:candidate-vibid:1001000113898": 5,
+      "special:against-all": 2
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=132000008&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=213200070902&region=0&sub_region=0&type=429",
@@ -10416,14 +10416,14 @@ export const duma_2003_uik_428_region_13_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Алешкин Олег Иванович": 0,
-      "Гришин Виктор Иванович": 281,
-      "Давыдкин Михаил Александрович": 0,
-      "Калашников Сергей Александрович": 0,
-      "Костерин Евгений Алексеевич": 0,
-      "Нечаев Виктор Анатольевич": 0,
-      "Полушкин Александр Викторович": 0,
-      "Против всех": 0
+      "gas:candidate-vibid:1001000289802": 0,
+      "gas:candidate-vibid:1001000225880": 281,
+      "gas:candidate-vibid:213200070602": 0,
+      "gas:candidate-vibid:1001000195028": 0,
+      "gas:candidate-vibid:1001000121795": 0,
+      "gas:candidate-vibid:1001000190283": 0,
+      "gas:candidate-vibid:1001000113898": 0,
+      "special:against-all": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=132000008&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=213200070902&region=0&sub_region=0&type=429",
@@ -10473,14 +10473,14 @@ export const duma_2003_uik_428_region_13_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Алешкин Олег Иванович": 0,
-      "Гришин Виктор Иванович": 308,
-      "Давыдкин Михаил Александрович": 0,
-      "Калашников Сергей Александрович": 0,
-      "Костерин Евгений Алексеевич": 2,
-      "Нечаев Виктор Анатольевич": 0,
-      "Полушкин Александр Викторович": 0,
-      "Против всех": 0
+      "gas:candidate-vibid:1001000289802": 0,
+      "gas:candidate-vibid:1001000225880": 308,
+      "gas:candidate-vibid:213200070602": 0,
+      "gas:candidate-vibid:1001000195028": 0,
+      "gas:candidate-vibid:1001000121795": 2,
+      "gas:candidate-vibid:1001000190283": 0,
+      "gas:candidate-vibid:1001000113898": 0,
+      "special:against-all": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=132000008&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=213200070902&region=0&sub_region=0&type=429",
@@ -10530,14 +10530,14 @@ export const duma_2003_uik_428_region_13_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Алешкин Олег Иванович": 0,
-      "Гришин Виктор Иванович": 66,
-      "Давыдкин Михаил Александрович": 0,
-      "Калашников Сергей Александрович": 0,
-      "Костерин Евгений Алексеевич": 1,
-      "Нечаев Виктор Анатольевич": 0,
-      "Полушкин Александр Викторович": 0,
-      "Против всех": 0
+      "gas:candidate-vibid:1001000289802": 0,
+      "gas:candidate-vibid:1001000225880": 66,
+      "gas:candidate-vibid:213200070602": 0,
+      "gas:candidate-vibid:1001000195028": 0,
+      "gas:candidate-vibid:1001000121795": 1,
+      "gas:candidate-vibid:1001000190283": 0,
+      "gas:candidate-vibid:1001000113898": 0,
+      "special:against-all": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=132000008&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=213200070902&region=0&sub_region=0&type=429",
@@ -10587,14 +10587,14 @@ export const duma_2003_uik_428_region_13_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Алешкин Олег Иванович": 0,
-      "Гришин Виктор Иванович": 808,
-      "Давыдкин Михаил Александрович": 0,
-      "Калашников Сергей Александрович": 0,
-      "Костерин Евгений Алексеевич": 7,
-      "Нечаев Виктор Анатольевич": 0,
-      "Полушкин Александр Викторович": 0,
-      "Против всех": 0
+      "gas:candidate-vibid:1001000289802": 0,
+      "gas:candidate-vibid:1001000225880": 808,
+      "gas:candidate-vibid:213200070602": 0,
+      "gas:candidate-vibid:1001000195028": 0,
+      "gas:candidate-vibid:1001000121795": 7,
+      "gas:candidate-vibid:1001000190283": 0,
+      "gas:candidate-vibid:1001000113898": 0,
+      "special:against-all": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=132000008&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=213200070902&region=0&sub_region=0&type=429",
@@ -10644,14 +10644,14 @@ export const duma_2003_uik_428_region_13_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Алешкин Олег Иванович": 16,
-      "Гришин Виктор Иванович": 208,
-      "Давыдкин Михаил Александрович": 2,
-      "Калашников Сергей Александрович": 7,
-      "Костерин Евгений Алексеевич": 17,
-      "Нечаев Виктор Анатольевич": 3,
-      "Полушкин Александр Викторович": 4,
-      "Против всех": 6
+      "gas:candidate-vibid:1001000289802": 16,
+      "gas:candidate-vibid:1001000225880": 208,
+      "gas:candidate-vibid:213200070602": 2,
+      "gas:candidate-vibid:1001000195028": 7,
+      "gas:candidate-vibid:1001000121795": 17,
+      "gas:candidate-vibid:1001000190283": 3,
+      "gas:candidate-vibid:1001000113898": 4,
+      "special:against-all": 6
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=132000008&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=213200070902&region=0&sub_region=0&type=429",
@@ -10701,14 +10701,14 @@ export const duma_2003_uik_428_region_13_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Алешкин Олег Иванович": 2,
-      "Гришин Виктор Иванович": 142,
-      "Давыдкин Михаил Александрович": 2,
-      "Калашников Сергей Александрович": 1,
-      "Костерин Евгений Алексеевич": 5,
-      "Нечаев Виктор Анатольевич": 1,
-      "Полушкин Александр Викторович": 0,
-      "Против всех": 4
+      "gas:candidate-vibid:1001000289802": 2,
+      "gas:candidate-vibid:1001000225880": 142,
+      "gas:candidate-vibid:213200070602": 2,
+      "gas:candidate-vibid:1001000195028": 1,
+      "gas:candidate-vibid:1001000121795": 5,
+      "gas:candidate-vibid:1001000190283": 1,
+      "gas:candidate-vibid:1001000113898": 0,
+      "special:against-all": 4
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=132000008&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=213200070902&region=0&sub_region=0&type=429",
@@ -10758,14 +10758,14 @@ export const duma_2003_uik_428_region_13_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Алешкин Олег Иванович": 1,
-      "Гришин Виктор Иванович": 295,
-      "Давыдкин Михаил Александрович": 2,
-      "Калашников Сергей Александрович": 2,
-      "Костерин Евгений Алексеевич": 22,
-      "Нечаев Виктор Анатольевич": 2,
-      "Полушкин Александр Викторович": 2,
-      "Против всех": 7
+      "gas:candidate-vibid:1001000289802": 1,
+      "gas:candidate-vibid:1001000225880": 295,
+      "gas:candidate-vibid:213200070602": 2,
+      "gas:candidate-vibid:1001000195028": 2,
+      "gas:candidate-vibid:1001000121795": 22,
+      "gas:candidate-vibid:1001000190283": 2,
+      "gas:candidate-vibid:1001000113898": 2,
+      "special:against-all": 7
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=132000008&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=213200070902&region=0&sub_region=0&type=429",
@@ -10815,14 +10815,14 @@ export const duma_2003_uik_428_region_13_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Алешкин Олег Иванович": 0,
-      "Гришин Виктор Иванович": 365,
-      "Давыдкин Михаил Александрович": 0,
-      "Калашников Сергей Александрович": 0,
-      "Костерин Евгений Алексеевич": 25,
-      "Нечаев Виктор Анатольевич": 0,
-      "Полушкин Александр Викторович": 0,
-      "Против всех": 3
+      "gas:candidate-vibid:1001000289802": 0,
+      "gas:candidate-vibid:1001000225880": 365,
+      "gas:candidate-vibid:213200070602": 0,
+      "gas:candidate-vibid:1001000195028": 0,
+      "gas:candidate-vibid:1001000121795": 25,
+      "gas:candidate-vibid:1001000190283": 0,
+      "gas:candidate-vibid:1001000113898": 0,
+      "special:against-all": 3
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=132000008&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=213200070902&region=0&sub_region=0&type=429",
@@ -10872,14 +10872,14 @@ export const duma_2003_uik_428_region_13_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Алешкин Олег Иванович": 0,
-      "Гришин Виктор Иванович": 107,
-      "Давыдкин Михаил Александрович": 0,
-      "Калашников Сергей Александрович": 0,
-      "Костерин Евгений Алексеевич": 2,
-      "Нечаев Виктор Анатольевич": 0,
-      "Полушкин Александр Викторович": 0,
-      "Против всех": 0
+      "gas:candidate-vibid:1001000289802": 0,
+      "gas:candidate-vibid:1001000225880": 107,
+      "gas:candidate-vibid:213200070602": 0,
+      "gas:candidate-vibid:1001000195028": 0,
+      "gas:candidate-vibid:1001000121795": 2,
+      "gas:candidate-vibid:1001000190283": 0,
+      "gas:candidate-vibid:1001000113898": 0,
+      "special:against-all": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=132000008&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=213200070902&region=0&sub_region=0&type=429",
@@ -10929,14 +10929,14 @@ export const duma_2003_uik_428_region_13_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Алешкин Олег Иванович": 0,
-      "Гришин Виктор Иванович": 103,
-      "Давыдкин Михаил Александрович": 0,
-      "Калашников Сергей Александрович": 0,
-      "Костерин Евгений Алексеевич": 2,
-      "Нечаев Виктор Анатольевич": 0,
-      "Полушкин Александр Викторович": 0,
-      "Против всех": 1
+      "gas:candidate-vibid:1001000289802": 0,
+      "gas:candidate-vibid:1001000225880": 103,
+      "gas:candidate-vibid:213200070602": 0,
+      "gas:candidate-vibid:1001000195028": 0,
+      "gas:candidate-vibid:1001000121795": 2,
+      "gas:candidate-vibid:1001000190283": 0,
+      "gas:candidate-vibid:1001000113898": 0,
+      "special:against-all": 1
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=132000008&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=213200070902&region=0&sub_region=0&type=429",
@@ -10986,14 +10986,14 @@ export const duma_2003_uik_428_region_13_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Алешкин Олег Иванович": 7,
-      "Гришин Виктор Иванович": 297,
-      "Давыдкин Михаил Александрович": 5,
-      "Калашников Сергей Александрович": 0,
-      "Костерин Евгений Алексеевич": 11,
-      "Нечаев Виктор Анатольевич": 0,
-      "Полушкин Александр Викторович": 4,
-      "Против всех": 3
+      "gas:candidate-vibid:1001000289802": 7,
+      "gas:candidate-vibid:1001000225880": 297,
+      "gas:candidate-vibid:213200070602": 5,
+      "gas:candidate-vibid:1001000195028": 0,
+      "gas:candidate-vibid:1001000121795": 11,
+      "gas:candidate-vibid:1001000190283": 0,
+      "gas:candidate-vibid:1001000113898": 4,
+      "special:against-all": 3
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=132000008&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=213200070902&region=0&sub_region=0&type=429",
@@ -11043,14 +11043,14 @@ export const duma_2003_uik_428_region_13_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Алешкин Олег Иванович": 0,
-      "Гришин Виктор Иванович": 134,
-      "Давыдкин Михаил Александрович": 1,
-      "Калашников Сергей Александрович": 0,
-      "Костерин Евгений Алексеевич": 3,
-      "Нечаев Виктор Анатольевич": 0,
-      "Полушкин Александр Викторович": 1,
-      "Против всех": 1
+      "gas:candidate-vibid:1001000289802": 0,
+      "gas:candidate-vibid:1001000225880": 134,
+      "gas:candidate-vibid:213200070602": 1,
+      "gas:candidate-vibid:1001000195028": 0,
+      "gas:candidate-vibid:1001000121795": 3,
+      "gas:candidate-vibid:1001000190283": 0,
+      "gas:candidate-vibid:1001000113898": 1,
+      "special:against-all": 1
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=132000008&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=213200070902&region=0&sub_region=0&type=429",
@@ -11100,14 +11100,14 @@ export const duma_2003_uik_428_region_13_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Алешкин Олег Иванович": 0,
-      "Гришин Виктор Иванович": 1162,
-      "Давыдкин Михаил Александрович": 2,
-      "Калашников Сергей Александрович": 1,
-      "Костерин Евгений Алексеевич": 15,
-      "Нечаев Виктор Анатольевич": 0,
-      "Полушкин Александр Викторович": 8,
-      "Против всех": 3
+      "gas:candidate-vibid:1001000289802": 0,
+      "gas:candidate-vibid:1001000225880": 1162,
+      "gas:candidate-vibid:213200070602": 2,
+      "gas:candidate-vibid:1001000195028": 1,
+      "gas:candidate-vibid:1001000121795": 15,
+      "gas:candidate-vibid:1001000190283": 0,
+      "gas:candidate-vibid:1001000113898": 8,
+      "special:against-all": 3
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=132000008&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=213200070902&region=0&sub_region=0&type=429",
@@ -11157,14 +11157,14 @@ export const duma_2003_uik_428_region_13_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Алешкин Олег Иванович": 3,
-      "Гришин Виктор Иванович": 541,
-      "Давыдкин Михаил Александрович": 1,
-      "Калашников Сергей Александрович": 3,
-      "Костерин Евгений Алексеевич": 14,
-      "Нечаев Виктор Анатольевич": 1,
-      "Полушкин Александр Викторович": 0,
-      "Против всех": 4
+      "gas:candidate-vibid:1001000289802": 3,
+      "gas:candidate-vibid:1001000225880": 541,
+      "gas:candidate-vibid:213200070602": 1,
+      "gas:candidate-vibid:1001000195028": 3,
+      "gas:candidate-vibid:1001000121795": 14,
+      "gas:candidate-vibid:1001000190283": 1,
+      "gas:candidate-vibid:1001000113898": 0,
+      "special:against-all": 4
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=132000008&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=213200070902&region=0&sub_region=0&type=429",
@@ -11214,14 +11214,14 @@ export const duma_2003_uik_428_region_13_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Алешкин Олег Иванович": 0,
-      "Гришин Виктор Иванович": 167,
-      "Давыдкин Михаил Александрович": 0,
-      "Калашников Сергей Александрович": 0,
-      "Костерин Евгений Алексеевич": 2,
-      "Нечаев Виктор Анатольевич": 0,
-      "Полушкин Александр Викторович": 0,
-      "Против всех": 0
+      "gas:candidate-vibid:1001000289802": 0,
+      "gas:candidate-vibid:1001000225880": 167,
+      "gas:candidate-vibid:213200070602": 0,
+      "gas:candidate-vibid:1001000195028": 0,
+      "gas:candidate-vibid:1001000121795": 2,
+      "gas:candidate-vibid:1001000190283": 0,
+      "gas:candidate-vibid:1001000113898": 0,
+      "special:against-all": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=132000008&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=213200070902&region=0&sub_region=0&type=429",
@@ -11271,14 +11271,14 @@ export const duma_2003_uik_428_region_13_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Алешкин Олег Иванович": 0,
-      "Гришин Виктор Иванович": 277,
-      "Давыдкин Михаил Александрович": 0,
-      "Калашников Сергей Александрович": 0,
-      "Костерин Евгений Алексеевич": 2,
-      "Нечаев Виктор Анатольевич": 0,
-      "Полушкин Александр Викторович": 0,
-      "Против всех": 2
+      "gas:candidate-vibid:1001000289802": 0,
+      "gas:candidate-vibid:1001000225880": 277,
+      "gas:candidate-vibid:213200070602": 0,
+      "gas:candidate-vibid:1001000195028": 0,
+      "gas:candidate-vibid:1001000121795": 2,
+      "gas:candidate-vibid:1001000190283": 0,
+      "gas:candidate-vibid:1001000113898": 0,
+      "special:against-all": 2
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=132000008&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=213200070902&region=0&sub_region=0&type=429",
@@ -11328,14 +11328,14 @@ export const duma_2003_uik_428_region_13_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Алешкин Олег Иванович": 0,
-      "Гришин Виктор Иванович": 78,
-      "Давыдкин Михаил Александрович": 0,
-      "Калашников Сергей Александрович": 0,
-      "Костерин Евгений Алексеевич": 1,
-      "Нечаев Виктор Анатольевич": 0,
-      "Полушкин Александр Викторович": 0,
-      "Против всех": 0
+      "gas:candidate-vibid:1001000289802": 0,
+      "gas:candidate-vibid:1001000225880": 78,
+      "gas:candidate-vibid:213200070602": 0,
+      "gas:candidate-vibid:1001000195028": 0,
+      "gas:candidate-vibid:1001000121795": 1,
+      "gas:candidate-vibid:1001000190283": 0,
+      "gas:candidate-vibid:1001000113898": 0,
+      "special:against-all": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=132000008&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=213200070902&region=0&sub_region=0&type=429",
@@ -11385,14 +11385,14 @@ export const duma_2003_uik_428_region_13_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Алешкин Олег Иванович": 1,
-      "Гришин Виктор Иванович": 259,
-      "Давыдкин Михаил Александрович": 0,
-      "Калашников Сергей Александрович": 0,
-      "Костерин Евгений Алексеевич": 3,
-      "Нечаев Виктор Анатольевич": 0,
-      "Полушкин Александр Викторович": 0,
-      "Против всех": 2
+      "gas:candidate-vibid:1001000289802": 1,
+      "gas:candidate-vibid:1001000225880": 259,
+      "gas:candidate-vibid:213200070602": 0,
+      "gas:candidate-vibid:1001000195028": 0,
+      "gas:candidate-vibid:1001000121795": 3,
+      "gas:candidate-vibid:1001000190283": 0,
+      "gas:candidate-vibid:1001000113898": 0,
+      "special:against-all": 2
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=132000008&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=213200070902&region=0&sub_region=0&type=429",
@@ -11442,14 +11442,14 @@ export const duma_2003_uik_428_region_13_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Алешкин Олег Иванович": 0,
-      "Гришин Виктор Иванович": 101,
-      "Давыдкин Михаил Александрович": 0,
-      "Калашников Сергей Александрович": 0,
-      "Костерин Евгений Алексеевич": 0,
-      "Нечаев Виктор Анатольевич": 0,
-      "Полушкин Александр Викторович": 1,
-      "Против всех": 1
+      "gas:candidate-vibid:1001000289802": 0,
+      "gas:candidate-vibid:1001000225880": 101,
+      "gas:candidate-vibid:213200070602": 0,
+      "gas:candidate-vibid:1001000195028": 0,
+      "gas:candidate-vibid:1001000121795": 0,
+      "gas:candidate-vibid:1001000190283": 0,
+      "gas:candidate-vibid:1001000113898": 1,
+      "special:against-all": 1
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=132000008&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=213200070902&region=0&sub_region=0&type=429",
@@ -11499,14 +11499,14 @@ export const duma_2003_uik_428_region_13_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Алешкин Олег Иванович": 0,
-      "Гришин Виктор Иванович": 767,
-      "Давыдкин Михаил Александрович": 0,
-      "Калашников Сергей Александрович": 0,
-      "Костерин Евгений Алексеевич": 3,
-      "Нечаев Виктор Анатольевич": 0,
-      "Полушкин Александр Викторович": 0,
-      "Против всех": 0
+      "gas:candidate-vibid:1001000289802": 0,
+      "gas:candidate-vibid:1001000225880": 767,
+      "gas:candidate-vibid:213200070602": 0,
+      "gas:candidate-vibid:1001000195028": 0,
+      "gas:candidate-vibid:1001000121795": 3,
+      "gas:candidate-vibid:1001000190283": 0,
+      "gas:candidate-vibid:1001000113898": 0,
+      "special:against-all": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=132000008&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=213200070902&region=0&sub_region=0&type=429",
@@ -11556,14 +11556,14 @@ export const duma_2003_uik_428_region_13_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Алешкин Олег Иванович": 0,
-      "Гришин Виктор Иванович": 218,
-      "Давыдкин Михаил Александрович": 0,
-      "Калашников Сергей Александрович": 0,
-      "Костерин Евгений Алексеевич": 5,
-      "Нечаев Виктор Анатольевич": 0,
-      "Полушкин Александр Викторович": 0,
-      "Против всех": 0
+      "gas:candidate-vibid:1001000289802": 0,
+      "gas:candidate-vibid:1001000225880": 218,
+      "gas:candidate-vibid:213200070602": 0,
+      "gas:candidate-vibid:1001000195028": 0,
+      "gas:candidate-vibid:1001000121795": 5,
+      "gas:candidate-vibid:1001000190283": 0,
+      "gas:candidate-vibid:1001000113898": 0,
+      "special:against-all": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=132000008&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=213200070902&region=0&sub_region=0&type=429",
@@ -11613,14 +11613,14 @@ export const duma_2003_uik_428_region_13_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Алешкин Олег Иванович": 0,
-      "Гришин Виктор Иванович": 62,
-      "Давыдкин Михаил Александрович": 0,
-      "Калашников Сергей Александрович": 0,
-      "Костерин Евгений Алексеевич": 0,
-      "Нечаев Виктор Анатольевич": 0,
-      "Полушкин Александр Викторович": 0,
-      "Против всех": 0
+      "gas:candidate-vibid:1001000289802": 0,
+      "gas:candidate-vibid:1001000225880": 62,
+      "gas:candidate-vibid:213200070602": 0,
+      "gas:candidate-vibid:1001000195028": 0,
+      "gas:candidate-vibid:1001000121795": 0,
+      "gas:candidate-vibid:1001000190283": 0,
+      "gas:candidate-vibid:1001000113898": 0,
+      "special:against-all": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=132000008&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=213200070902&region=0&sub_region=0&type=429",
@@ -11670,14 +11670,14 @@ export const duma_2003_uik_428_region_13_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Алешкин Олег Иванович": 0,
-      "Гришин Виктор Иванович": 526,
-      "Давыдкин Михаил Александрович": 9,
-      "Калашников Сергей Александрович": 0,
-      "Костерин Евгений Алексеевич": 34,
-      "Нечаев Виктор Анатольевич": 0,
-      "Полушкин Александр Викторович": 0,
-      "Против всех": 2
+      "gas:candidate-vibid:1001000289802": 0,
+      "gas:candidate-vibid:1001000225880": 526,
+      "gas:candidate-vibid:213200070602": 9,
+      "gas:candidate-vibid:1001000195028": 0,
+      "gas:candidate-vibid:1001000121795": 34,
+      "gas:candidate-vibid:1001000190283": 0,
+      "gas:candidate-vibid:1001000113898": 0,
+      "special:against-all": 2
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=132000008&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=213200070902&region=0&sub_region=0&type=429",
@@ -11727,14 +11727,14 @@ export const duma_2003_uik_428_region_13_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Алешкин Олег Иванович": 0,
-      "Гришин Виктор Иванович": 74,
-      "Давыдкин Михаил Александрович": 0,
-      "Калашников Сергей Александрович": 0,
-      "Костерин Евгений Алексеевич": 0,
-      "Нечаев Виктор Анатольевич": 0,
-      "Полушкин Александр Викторович": 0,
-      "Против всех": 0
+      "gas:candidate-vibid:1001000289802": 0,
+      "gas:candidate-vibid:1001000225880": 74,
+      "gas:candidate-vibid:213200070602": 0,
+      "gas:candidate-vibid:1001000195028": 0,
+      "gas:candidate-vibid:1001000121795": 0,
+      "gas:candidate-vibid:1001000190283": 0,
+      "gas:candidate-vibid:1001000113898": 0,
+      "special:against-all": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=132000008&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=213200070902&region=0&sub_region=0&type=429",
@@ -11784,14 +11784,14 @@ export const duma_2003_uik_428_region_13_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Алешкин Олег Иванович": 0,
-      "Гришин Виктор Иванович": 405,
-      "Давыдкин Михаил Александрович": 3,
-      "Калашников Сергей Александрович": 2,
-      "Костерин Евгений Алексеевич": 3,
-      "Нечаев Виктор Анатольевич": 0,
-      "Полушкин Александр Викторович": 1,
-      "Против всех": 0
+      "gas:candidate-vibid:1001000289802": 0,
+      "gas:candidate-vibid:1001000225880": 405,
+      "gas:candidate-vibid:213200070602": 3,
+      "gas:candidate-vibid:1001000195028": 2,
+      "gas:candidate-vibid:1001000121795": 3,
+      "gas:candidate-vibid:1001000190283": 0,
+      "gas:candidate-vibid:1001000113898": 1,
+      "special:against-all": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=132000008&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=213200070902&region=0&sub_region=0&type=429",
@@ -11841,14 +11841,14 @@ export const duma_2003_uik_428_region_13_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Алешкин Олег Иванович": 0,
-      "Гришин Виктор Иванович": 243,
-      "Давыдкин Михаил Александрович": 0,
-      "Калашников Сергей Александрович": 0,
-      "Костерин Евгений Алексеевич": 0,
-      "Нечаев Виктор Анатольевич": 0,
-      "Полушкин Александр Викторович": 0,
-      "Против всех": 0
+      "gas:candidate-vibid:1001000289802": 0,
+      "gas:candidate-vibid:1001000225880": 243,
+      "gas:candidate-vibid:213200070602": 0,
+      "gas:candidate-vibid:1001000195028": 0,
+      "gas:candidate-vibid:1001000121795": 0,
+      "gas:candidate-vibid:1001000190283": 0,
+      "gas:candidate-vibid:1001000113898": 0,
+      "special:against-all": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=132000008&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=213200070902&region=0&sub_region=0&type=429",
@@ -11898,14 +11898,14 @@ export const duma_2003_uik_428_region_13_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Алешкин Олег Иванович": 0,
-      "Гришин Виктор Иванович": 301,
-      "Давыдкин Михаил Александрович": 0,
-      "Калашников Сергей Александрович": 0,
-      "Костерин Евгений Алексеевич": 10,
-      "Нечаев Виктор Анатольевич": 0,
-      "Полушкин Александр Викторович": 0,
-      "Против всех": 0
+      "gas:candidate-vibid:1001000289802": 0,
+      "gas:candidate-vibid:1001000225880": 301,
+      "gas:candidate-vibid:213200070602": 0,
+      "gas:candidate-vibid:1001000195028": 0,
+      "gas:candidate-vibid:1001000121795": 10,
+      "gas:candidate-vibid:1001000190283": 0,
+      "gas:candidate-vibid:1001000113898": 0,
+      "special:against-all": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=132000008&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=213200070902&region=0&sub_region=0&type=429",
@@ -11955,14 +11955,14 @@ export const duma_2003_uik_428_region_13_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Алешкин Олег Иванович": 4,
-      "Гришин Виктор Иванович": 1510,
-      "Давыдкин Михаил Александрович": 0,
-      "Калашников Сергей Александрович": 3,
-      "Костерин Евгений Алексеевич": 27,
-      "Нечаев Виктор Анатольевич": 2,
-      "Полушкин Александр Викторович": 28,
-      "Против всех": 3
+      "gas:candidate-vibid:1001000289802": 4,
+      "gas:candidate-vibid:1001000225880": 1510,
+      "gas:candidate-vibid:213200070602": 0,
+      "gas:candidate-vibid:1001000195028": 3,
+      "gas:candidate-vibid:1001000121795": 27,
+      "gas:candidate-vibid:1001000190283": 2,
+      "gas:candidate-vibid:1001000113898": 28,
+      "special:against-all": 3
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=132000009&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=213200070903&region=0&sub_region=0&type=429",
@@ -12012,14 +12012,14 @@ export const duma_2003_uik_428_region_13_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Алешкин Олег Иванович": 6,
-      "Гришин Виктор Иванович": 1118,
-      "Давыдкин Михаил Александрович": 3,
-      "Калашников Сергей Александрович": 9,
-      "Костерин Евгений Алексеевич": 35,
-      "Нечаев Виктор Анатольевич": 4,
-      "Полушкин Александр Викторович": 48,
-      "Против всех": 15
+      "gas:candidate-vibid:1001000289802": 6,
+      "gas:candidate-vibid:1001000225880": 1118,
+      "gas:candidate-vibid:213200070602": 3,
+      "gas:candidate-vibid:1001000195028": 9,
+      "gas:candidate-vibid:1001000121795": 35,
+      "gas:candidate-vibid:1001000190283": 4,
+      "gas:candidate-vibid:1001000113898": 48,
+      "special:against-all": 15
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=132000009&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=213200070903&region=0&sub_region=0&type=429",
@@ -12069,14 +12069,14 @@ export const duma_2003_uik_428_region_13_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Алешкин Олег Иванович": 0,
-      "Гришин Виктор Иванович": 148,
-      "Давыдкин Михаил Александрович": 0,
-      "Калашников Сергей Александрович": 0,
-      "Костерин Евгений Алексеевич": 0,
-      "Нечаев Виктор Анатольевич": 0,
-      "Полушкин Александр Викторович": 0,
-      "Против всех": 3
+      "gas:candidate-vibid:1001000289802": 0,
+      "gas:candidate-vibid:1001000225880": 148,
+      "gas:candidate-vibid:213200070602": 0,
+      "gas:candidate-vibid:1001000195028": 0,
+      "gas:candidate-vibid:1001000121795": 0,
+      "gas:candidate-vibid:1001000190283": 0,
+      "gas:candidate-vibid:1001000113898": 0,
+      "special:against-all": 3
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=132000009&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=213200070903&region=0&sub_region=0&type=429",
@@ -12126,14 +12126,14 @@ export const duma_2003_uik_428_region_13_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Алешкин Олег Иванович": 1,
-      "Гришин Виктор Иванович": 140,
-      "Давыдкин Михаил Александрович": 0,
-      "Калашников Сергей Александрович": 0,
-      "Костерин Евгений Алексеевич": 3,
-      "Нечаев Виктор Анатольевич": 0,
-      "Полушкин Александр Викторович": 2,
-      "Против всех": 1
+      "gas:candidate-vibid:1001000289802": 1,
+      "gas:candidate-vibid:1001000225880": 140,
+      "gas:candidate-vibid:213200070602": 0,
+      "gas:candidate-vibid:1001000195028": 0,
+      "gas:candidate-vibid:1001000121795": 3,
+      "gas:candidate-vibid:1001000190283": 0,
+      "gas:candidate-vibid:1001000113898": 2,
+      "special:against-all": 1
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=132000009&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=213200070903&region=0&sub_region=0&type=429",
@@ -12183,14 +12183,14 @@ export const duma_2003_uik_428_region_13_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Алешкин Олег Иванович": 0,
-      "Гришин Виктор Иванович": 142,
-      "Давыдкин Михаил Александрович": 0,
-      "Калашников Сергей Александрович": 0,
-      "Костерин Евгений Алексеевич": 2,
-      "Нечаев Виктор Анатольевич": 0,
-      "Полушкин Александр Викторович": 0,
-      "Против всех": 0
+      "gas:candidate-vibid:1001000289802": 0,
+      "gas:candidate-vibid:1001000225880": 142,
+      "gas:candidate-vibid:213200070602": 0,
+      "gas:candidate-vibid:1001000195028": 0,
+      "gas:candidate-vibid:1001000121795": 2,
+      "gas:candidate-vibid:1001000190283": 0,
+      "gas:candidate-vibid:1001000113898": 0,
+      "special:against-all": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=132000009&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=213200070903&region=0&sub_region=0&type=429",
@@ -12240,14 +12240,14 @@ export const duma_2003_uik_428_region_13_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Алешкин Олег Иванович": 3,
-      "Гришин Виктор Иванович": 1282,
-      "Давыдкин Михаил Александрович": 2,
-      "Калашников Сергей Александрович": 2,
-      "Костерин Евгений Алексеевич": 24,
-      "Нечаев Виктор Анатольевич": 2,
-      "Полушкин Александр Викторович": 2,
-      "Против всех": 5
+      "gas:candidate-vibid:1001000289802": 3,
+      "gas:candidate-vibid:1001000225880": 1282,
+      "gas:candidate-vibid:213200070602": 2,
+      "gas:candidate-vibid:1001000195028": 2,
+      "gas:candidate-vibid:1001000121795": 24,
+      "gas:candidate-vibid:1001000190283": 2,
+      "gas:candidate-vibid:1001000113898": 2,
+      "special:against-all": 5
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=132000009&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=213200070903&region=0&sub_region=0&type=429",
@@ -12297,14 +12297,14 @@ export const duma_2003_uik_428_region_13_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Алешкин Олег Иванович": 2,
-      "Гришин Виктор Иванович": 468,
-      "Давыдкин Михаил Александрович": 0,
-      "Калашников Сергей Александрович": 0,
-      "Костерин Евгений Алексеевич": 17,
-      "Нечаев Виктор Анатольевич": 0,
-      "Полушкин Александр Викторович": 0,
-      "Против всех": 4
+      "gas:candidate-vibid:1001000289802": 2,
+      "gas:candidate-vibid:1001000225880": 468,
+      "gas:candidate-vibid:213200070602": 0,
+      "gas:candidate-vibid:1001000195028": 0,
+      "gas:candidate-vibid:1001000121795": 17,
+      "gas:candidate-vibid:1001000190283": 0,
+      "gas:candidate-vibid:1001000113898": 0,
+      "special:against-all": 4
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=132000009&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=213200070903&region=0&sub_region=0&type=429",
@@ -12354,14 +12354,14 @@ export const duma_2003_uik_428_region_13_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Алешкин Олег Иванович": 0,
-      "Гришин Виктор Иванович": 388,
-      "Давыдкин Михаил Александрович": 0,
-      "Калашников Сергей Александрович": 0,
-      "Костерин Евгений Алексеевич": 6,
-      "Нечаев Виктор Анатольевич": 0,
-      "Полушкин Александр Викторович": 3,
-      "Против всех": 0
+      "gas:candidate-vibid:1001000289802": 0,
+      "gas:candidate-vibid:1001000225880": 388,
+      "gas:candidate-vibid:213200070602": 0,
+      "gas:candidate-vibid:1001000195028": 0,
+      "gas:candidate-vibid:1001000121795": 6,
+      "gas:candidate-vibid:1001000190283": 0,
+      "gas:candidate-vibid:1001000113898": 3,
+      "special:against-all": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=132000009&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=213200070903&region=0&sub_region=0&type=429",
@@ -12411,14 +12411,14 @@ export const duma_2003_uik_428_region_13_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Алешкин Олег Иванович": 2,
-      "Гришин Виктор Иванович": 112,
-      "Давыдкин Михаил Александрович": 0,
-      "Калашников Сергей Александрович": 1,
-      "Костерин Евгений Алексеевич": 8,
-      "Нечаев Виктор Анатольевич": 0,
-      "Полушкин Александр Викторович": 10,
-      "Против всех": 5
+      "gas:candidate-vibid:1001000289802": 2,
+      "gas:candidate-vibid:1001000225880": 112,
+      "gas:candidate-vibid:213200070602": 0,
+      "gas:candidate-vibid:1001000195028": 1,
+      "gas:candidate-vibid:1001000121795": 8,
+      "gas:candidate-vibid:1001000190283": 0,
+      "gas:candidate-vibid:1001000113898": 10,
+      "special:against-all": 5
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=132000009&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=213200070903&region=0&sub_region=0&type=429",
@@ -12468,14 +12468,14 @@ export const duma_2003_uik_428_region_13_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Алешкин Олег Иванович": 0,
-      "Гришин Виктор Иванович": 137,
-      "Давыдкин Михаил Александрович": 0,
-      "Калашников Сергей Александрович": 0,
-      "Костерин Евгений Алексеевич": 1,
-      "Нечаев Виктор Анатольевич": 0,
-      "Полушкин Александр Викторович": 2,
-      "Против всех": 2
+      "gas:candidate-vibid:1001000289802": 0,
+      "gas:candidate-vibid:1001000225880": 137,
+      "gas:candidate-vibid:213200070602": 0,
+      "gas:candidate-vibid:1001000195028": 0,
+      "gas:candidate-vibid:1001000121795": 1,
+      "gas:candidate-vibid:1001000190283": 0,
+      "gas:candidate-vibid:1001000113898": 2,
+      "special:against-all": 2
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=132000009&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=213200070903&region=0&sub_region=0&type=429",
@@ -12525,14 +12525,14 @@ export const duma_2003_uik_428_region_13_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Алешкин Олег Иванович": 0,
-      "Гришин Виктор Иванович": 202,
-      "Давыдкин Михаил Александрович": 0,
-      "Калашников Сергей Александрович": 0,
-      "Костерин Евгений Алексеевич": 1,
-      "Нечаев Виктор Анатольевич": 0,
-      "Полушкин Александр Викторович": 0,
-      "Против всех": 1
+      "gas:candidate-vibid:1001000289802": 0,
+      "gas:candidate-vibid:1001000225880": 202,
+      "gas:candidate-vibid:213200070602": 0,
+      "gas:candidate-vibid:1001000195028": 0,
+      "gas:candidate-vibid:1001000121795": 1,
+      "gas:candidate-vibid:1001000190283": 0,
+      "gas:candidate-vibid:1001000113898": 0,
+      "special:against-all": 1
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=132000009&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=213200070903&region=0&sub_region=0&type=429",
@@ -12582,14 +12582,14 @@ export const duma_2003_uik_428_region_13_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Алешкин Олег Иванович": 0,
-      "Гришин Виктор Иванович": 155,
-      "Давыдкин Михаил Александрович": 0,
-      "Калашников Сергей Александрович": 0,
-      "Костерин Евгений Алексеевич": 0,
-      "Нечаев Виктор Анатольевич": 0,
-      "Полушкин Александр Викторович": 0,
-      "Против всех": 0
+      "gas:candidate-vibid:1001000289802": 0,
+      "gas:candidate-vibid:1001000225880": 155,
+      "gas:candidate-vibid:213200070602": 0,
+      "gas:candidate-vibid:1001000195028": 0,
+      "gas:candidate-vibid:1001000121795": 0,
+      "gas:candidate-vibid:1001000190283": 0,
+      "gas:candidate-vibid:1001000113898": 0,
+      "special:against-all": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=132000009&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=213200070903&region=0&sub_region=0&type=429",
@@ -12639,14 +12639,14 @@ export const duma_2003_uik_428_region_13_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Алешкин Олег Иванович": 0,
-      "Гришин Виктор Иванович": 51,
-      "Давыдкин Михаил Александрович": 0,
-      "Калашников Сергей Александрович": 0,
-      "Костерин Евгений Алексеевич": 0,
-      "Нечаев Виктор Анатольевич": 0,
-      "Полушкин Александр Викторович": 0,
-      "Против всех": 0
+      "gas:candidate-vibid:1001000289802": 0,
+      "gas:candidate-vibid:1001000225880": 51,
+      "gas:candidate-vibid:213200070602": 0,
+      "gas:candidate-vibid:1001000195028": 0,
+      "gas:candidate-vibid:1001000121795": 0,
+      "gas:candidate-vibid:1001000190283": 0,
+      "gas:candidate-vibid:1001000113898": 0,
+      "special:against-all": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=132000009&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=213200070903&region=0&sub_region=0&type=429",
@@ -12696,14 +12696,14 @@ export const duma_2003_uik_428_region_13_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Алешкин Олег Иванович": 2,
-      "Гришин Виктор Иванович": 389,
-      "Давыдкин Михаил Александрович": 0,
-      "Калашников Сергей Александрович": 1,
-      "Костерин Евгений Алексеевич": 3,
-      "Нечаев Виктор Анатольевич": 0,
-      "Полушкин Александр Викторович": 1,
-      "Против всех": 1
+      "gas:candidate-vibid:1001000289802": 2,
+      "gas:candidate-vibid:1001000225880": 389,
+      "gas:candidate-vibid:213200070602": 0,
+      "gas:candidate-vibid:1001000195028": 1,
+      "gas:candidate-vibid:1001000121795": 3,
+      "gas:candidate-vibid:1001000190283": 0,
+      "gas:candidate-vibid:1001000113898": 1,
+      "special:against-all": 1
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=132000009&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=213200070903&region=0&sub_region=0&type=429",
@@ -12753,14 +12753,14 @@ export const duma_2003_uik_428_region_13_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Алешкин Олег Иванович": 0,
-      "Гришин Виктор Иванович": 208,
-      "Давыдкин Михаил Александрович": 0,
-      "Калашников Сергей Александрович": 0,
-      "Костерин Евгений Алексеевич": 0,
-      "Нечаев Виктор Анатольевич": 0,
-      "Полушкин Александр Викторович": 7,
-      "Против всех": 0
+      "gas:candidate-vibid:1001000289802": 0,
+      "gas:candidate-vibid:1001000225880": 208,
+      "gas:candidate-vibid:213200070602": 0,
+      "gas:candidate-vibid:1001000195028": 0,
+      "gas:candidate-vibid:1001000121795": 0,
+      "gas:candidate-vibid:1001000190283": 0,
+      "gas:candidate-vibid:1001000113898": 7,
+      "special:against-all": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=132000009&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=213200070903&region=0&sub_region=0&type=429",
@@ -12810,14 +12810,14 @@ export const duma_2003_uik_428_region_13_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Алешкин Олег Иванович": 0,
-      "Гришин Виктор Иванович": 273,
-      "Давыдкин Михаил Александрович": 0,
-      "Калашников Сергей Александрович": 1,
-      "Костерин Евгений Алексеевич": 9,
-      "Нечаев Виктор Анатольевич": 0,
-      "Полушкин Александр Викторович": 0,
-      "Против всех": 0
+      "gas:candidate-vibid:1001000289802": 0,
+      "gas:candidate-vibid:1001000225880": 273,
+      "gas:candidate-vibid:213200070602": 0,
+      "gas:candidate-vibid:1001000195028": 1,
+      "gas:candidate-vibid:1001000121795": 9,
+      "gas:candidate-vibid:1001000190283": 0,
+      "gas:candidate-vibid:1001000113898": 0,
+      "special:against-all": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=132000009&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=213200070903&region=0&sub_region=0&type=429",
@@ -12867,14 +12867,14 @@ export const duma_2003_uik_428_region_13_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Алешкин Олег Иванович": 1,
-      "Гришин Виктор Иванович": 277,
-      "Давыдкин Михаил Александрович": 0,
-      "Калашников Сергей Александрович": 2,
-      "Костерин Евгений Алексеевич": 4,
-      "Нечаев Виктор Анатольевич": 0,
-      "Полушкин Александр Викторович": 1,
-      "Против всех": 1
+      "gas:candidate-vibid:1001000289802": 1,
+      "gas:candidate-vibid:1001000225880": 277,
+      "gas:candidate-vibid:213200070602": 0,
+      "gas:candidate-vibid:1001000195028": 2,
+      "gas:candidate-vibid:1001000121795": 4,
+      "gas:candidate-vibid:1001000190283": 0,
+      "gas:candidate-vibid:1001000113898": 1,
+      "special:against-all": 1
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=132000009&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=213200070903&region=0&sub_region=0&type=429",
@@ -12924,14 +12924,14 @@ export const duma_2003_uik_428_region_13_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Алешкин Олег Иванович": 0,
-      "Гришин Виктор Иванович": 128,
-      "Давыдкин Михаил Александрович": 1,
-      "Калашников Сергей Александрович": 0,
-      "Костерин Евгений Алексеевич": 1,
-      "Нечаев Виктор Анатольевич": 0,
-      "Полушкин Александр Викторович": 0,
-      "Против всех": 0
+      "gas:candidate-vibid:1001000289802": 0,
+      "gas:candidate-vibid:1001000225880": 128,
+      "gas:candidate-vibid:213200070602": 1,
+      "gas:candidate-vibid:1001000195028": 0,
+      "gas:candidate-vibid:1001000121795": 1,
+      "gas:candidate-vibid:1001000190283": 0,
+      "gas:candidate-vibid:1001000113898": 0,
+      "special:against-all": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=132000009&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=213200070903&region=0&sub_region=0&type=429",
@@ -12981,14 +12981,14 @@ export const duma_2003_uik_428_region_13_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Алешкин Олег Иванович": 0,
-      "Гришин Виктор Иванович": 362,
-      "Давыдкин Михаил Александрович": 1,
-      "Калашников Сергей Александрович": 1,
-      "Костерин Евгений Алексеевич": 1,
-      "Нечаев Виктор Анатольевич": 0,
-      "Полушкин Александр Викторович": 2,
-      "Против всех": 1
+      "gas:candidate-vibid:1001000289802": 0,
+      "gas:candidate-vibid:1001000225880": 362,
+      "gas:candidate-vibid:213200070602": 1,
+      "gas:candidate-vibid:1001000195028": 1,
+      "gas:candidate-vibid:1001000121795": 1,
+      "gas:candidate-vibid:1001000190283": 0,
+      "gas:candidate-vibid:1001000113898": 2,
+      "special:against-all": 1
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=132000009&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=213200070903&region=0&sub_region=0&type=429",
@@ -13038,14 +13038,14 @@ export const duma_2003_uik_428_region_13_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Алешкин Олег Иванович": 0,
-      "Гришин Виктор Иванович": 218,
-      "Давыдкин Михаил Александрович": 0,
-      "Калашников Сергей Александрович": 0,
-      "Костерин Евгений Алексеевич": 2,
-      "Нечаев Виктор Анатольевич": 0,
-      "Полушкин Александр Викторович": 0,
-      "Против всех": 5
+      "gas:candidate-vibid:1001000289802": 0,
+      "gas:candidate-vibid:1001000225880": 218,
+      "gas:candidate-vibid:213200070602": 0,
+      "gas:candidate-vibid:1001000195028": 0,
+      "gas:candidate-vibid:1001000121795": 2,
+      "gas:candidate-vibid:1001000190283": 0,
+      "gas:candidate-vibid:1001000113898": 0,
+      "special:against-all": 5
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=132000009&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=213200070903&region=0&sub_region=0&type=429",
@@ -13095,14 +13095,14 @@ export const duma_2003_uik_428_region_13_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Алешкин Олег Иванович": 0,
-      "Гришин Виктор Иванович": 103,
-      "Давыдкин Михаил Александрович": 0,
-      "Калашников Сергей Александрович": 0,
-      "Костерин Евгений Алексеевич": 1,
-      "Нечаев Виктор Анатольевич": 0,
-      "Полушкин Александр Викторович": 3,
-      "Против всех": 0
+      "gas:candidate-vibid:1001000289802": 0,
+      "gas:candidate-vibid:1001000225880": 103,
+      "gas:candidate-vibid:213200070602": 0,
+      "gas:candidate-vibid:1001000195028": 0,
+      "gas:candidate-vibid:1001000121795": 1,
+      "gas:candidate-vibid:1001000190283": 0,
+      "gas:candidate-vibid:1001000113898": 3,
+      "special:against-all": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=132000009&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=213200070903&region=0&sub_region=0&type=429",
@@ -13152,14 +13152,14 @@ export const duma_2003_uik_428_region_13_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Алешкин Олег Иванович": 0,
-      "Гришин Виктор Иванович": 231,
-      "Давыдкин Михаил Александрович": 0,
-      "Калашников Сергей Александрович": 0,
-      "Костерин Евгений Алексеевич": 0,
-      "Нечаев Виктор Анатольевич": 1,
-      "Полушкин Александр Викторович": 2,
-      "Против всех": 5
+      "gas:candidate-vibid:1001000289802": 0,
+      "gas:candidate-vibid:1001000225880": 231,
+      "gas:candidate-vibid:213200070602": 0,
+      "gas:candidate-vibid:1001000195028": 0,
+      "gas:candidate-vibid:1001000121795": 0,
+      "gas:candidate-vibid:1001000190283": 1,
+      "gas:candidate-vibid:1001000113898": 2,
+      "special:against-all": 5
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=132000009&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=213200070903&region=0&sub_region=0&type=429",
@@ -13209,14 +13209,14 @@ export const duma_2003_uik_428_region_13_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Алешкин Олег Иванович": 0,
-      "Гришин Виктор Иванович": 67,
-      "Давыдкин Михаил Александрович": 0,
-      "Калашников Сергей Александрович": 0,
-      "Костерин Евгений Алексеевич": 4,
-      "Нечаев Виктор Анатольевич": 0,
-      "Полушкин Александр Викторович": 0,
-      "Против всех": 1
+      "gas:candidate-vibid:1001000289802": 0,
+      "gas:candidate-vibid:1001000225880": 67,
+      "gas:candidate-vibid:213200070602": 0,
+      "gas:candidate-vibid:1001000195028": 0,
+      "gas:candidate-vibid:1001000121795": 4,
+      "gas:candidate-vibid:1001000190283": 0,
+      "gas:candidate-vibid:1001000113898": 0,
+      "special:against-all": 1
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=132000009&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=213200070903&region=0&sub_region=0&type=429",
@@ -13266,14 +13266,14 @@ export const duma_2003_uik_428_region_13_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Алешкин Олег Иванович": 0,
-      "Гришин Виктор Иванович": 477,
-      "Давыдкин Михаил Александрович": 0,
-      "Калашников Сергей Александрович": 0,
-      "Костерин Евгений Алексеевич": 2,
-      "Нечаев Виктор Анатольевич": 0,
-      "Полушкин Александр Викторович": 6,
-      "Против всех": 0
+      "gas:candidate-vibid:1001000289802": 0,
+      "gas:candidate-vibid:1001000225880": 477,
+      "gas:candidate-vibid:213200070602": 0,
+      "gas:candidate-vibid:1001000195028": 0,
+      "gas:candidate-vibid:1001000121795": 2,
+      "gas:candidate-vibid:1001000190283": 0,
+      "gas:candidate-vibid:1001000113898": 6,
+      "special:against-all": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=132000009&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=213200070903&region=0&sub_region=0&type=429",
@@ -13323,14 +13323,14 @@ export const duma_2003_uik_428_region_13_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Алешкин Олег Иванович": 40,
-      "Гришин Виктор Иванович": 617,
-      "Давыдкин Михаил Александрович": 6,
-      "Калашников Сергей Александрович": 9,
-      "Костерин Евгений Алексеевич": 195,
-      "Нечаев Виктор Анатольевич": 22,
-      "Полушкин Александр Викторович": 60,
-      "Против всех": 114
+      "gas:candidate-vibid:1001000289802": 40,
+      "gas:candidate-vibid:1001000225880": 617,
+      "gas:candidate-vibid:213200070602": 6,
+      "gas:candidate-vibid:1001000195028": 9,
+      "gas:candidate-vibid:1001000121795": 195,
+      "gas:candidate-vibid:1001000190283": 22,
+      "gas:candidate-vibid:1001000113898": 60,
+      "special:against-all": 114
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=132000010&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=213200070904&region=0&sub_region=0&type=429",
@@ -13380,14 +13380,14 @@ export const duma_2003_uik_428_region_13_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Алешкин Олег Иванович": 60,
-      "Гришин Виктор Иванович": 661,
-      "Давыдкин Михаил Александрович": 6,
-      "Калашников Сергей Александрович": 18,
-      "Костерин Евгений Алексеевич": 217,
-      "Нечаев Виктор Анатольевич": 24,
-      "Полушкин Александр Викторович": 63,
-      "Против всех": 214
+      "gas:candidate-vibid:1001000289802": 60,
+      "gas:candidate-vibid:1001000225880": 661,
+      "gas:candidate-vibid:213200070602": 6,
+      "gas:candidate-vibid:1001000195028": 18,
+      "gas:candidate-vibid:1001000121795": 217,
+      "gas:candidate-vibid:1001000190283": 24,
+      "gas:candidate-vibid:1001000113898": 63,
+      "special:against-all": 214
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=132000010&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=213200070904&region=0&sub_region=0&type=429",
@@ -13437,14 +13437,14 @@ export const duma_2003_uik_428_region_13_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Алешкин Олег Иванович": 58,
-      "Гришин Виктор Иванович": 522,
-      "Давыдкин Михаил Александрович": 10,
-      "Калашников Сергей Александрович": 16,
-      "Костерин Евгений Алексеевич": 234,
-      "Нечаев Виктор Анатольевич": 31,
-      "Полушкин Александр Викторович": 55,
-      "Против всех": 140
+      "gas:candidate-vibid:1001000289802": 58,
+      "gas:candidate-vibid:1001000225880": 522,
+      "gas:candidate-vibid:213200070602": 10,
+      "gas:candidate-vibid:1001000195028": 16,
+      "gas:candidate-vibid:1001000121795": 234,
+      "gas:candidate-vibid:1001000190283": 31,
+      "gas:candidate-vibid:1001000113898": 55,
+      "special:against-all": 140
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=132000010&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=213200070904&region=0&sub_region=0&type=429",
@@ -13494,14 +13494,14 @@ export const duma_2003_uik_428_region_13_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Алешкин Олег Иванович": 43,
-      "Гришин Виктор Иванович": 802,
-      "Давыдкин Михаил Александрович": 14,
-      "Калашников Сергей Александрович": 17,
-      "Костерин Евгений Алексеевич": 199,
-      "Нечаев Виктор Анатольевич": 27,
-      "Полушкин Александр Викторович": 63,
-      "Против всех": 192
+      "gas:candidate-vibid:1001000289802": 43,
+      "gas:candidate-vibid:1001000225880": 802,
+      "gas:candidate-vibid:213200070602": 14,
+      "gas:candidate-vibid:1001000195028": 17,
+      "gas:candidate-vibid:1001000121795": 199,
+      "gas:candidate-vibid:1001000190283": 27,
+      "gas:candidate-vibid:1001000113898": 63,
+      "special:against-all": 192
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=132000010&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=213200070904&region=0&sub_region=0&type=429",
@@ -13551,14 +13551,14 @@ export const duma_2003_uik_428_region_13_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Алешкин Олег Иванович": 4,
-      "Гришин Виктор Иванович": 134,
-      "Давыдкин Михаил Александрович": 0,
-      "Калашников Сергей Александрович": 2,
-      "Костерин Евгений Алексеевич": 7,
-      "Нечаев Виктор Анатольевич": 1,
-      "Полушкин Александр Викторович": 3,
-      "Против всех": 8
+      "gas:candidate-vibid:1001000289802": 4,
+      "gas:candidate-vibid:1001000225880": 134,
+      "gas:candidate-vibid:213200070602": 0,
+      "gas:candidate-vibid:1001000195028": 2,
+      "gas:candidate-vibid:1001000121795": 7,
+      "gas:candidate-vibid:1001000190283": 1,
+      "gas:candidate-vibid:1001000113898": 3,
+      "special:against-all": 8
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=132000010&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=213200070904&region=0&sub_region=0&type=429",
@@ -13608,14 +13608,14 @@ export const duma_2003_uik_428_region_13_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Алешкин Олег Иванович": 31,
-      "Гришин Виктор Иванович": 959,
-      "Давыдкин Михаил Александрович": 3,
-      "Калашников Сергей Александрович": 15,
-      "Костерин Евгений Алексеевич": 173,
-      "Нечаев Виктор Анатольевич": 30,
-      "Полушкин Александр Викторович": 46,
-      "Против всех": 167
+      "gas:candidate-vibid:1001000289802": 31,
+      "gas:candidate-vibid:1001000225880": 959,
+      "gas:candidate-vibid:213200070602": 3,
+      "gas:candidate-vibid:1001000195028": 15,
+      "gas:candidate-vibid:1001000121795": 173,
+      "gas:candidate-vibid:1001000190283": 30,
+      "gas:candidate-vibid:1001000113898": 46,
+      "special:against-all": 167
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=132000010&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=213200070904&region=0&sub_region=0&type=429",
@@ -13665,14 +13665,14 @@ export const duma_2003_uik_428_region_13_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Алешкин Олег Иванович": 30,
-      "Гришин Виктор Иванович": 690,
-      "Давыдкин Михаил Александрович": 9,
-      "Калашников Сергей Александрович": 20,
-      "Костерин Евгений Алексеевич": 247,
-      "Нечаев Виктор Анатольевич": 26,
-      "Полушкин Александр Викторович": 169,
-      "Против всех": 197
+      "gas:candidate-vibid:1001000289802": 30,
+      "gas:candidate-vibid:1001000225880": 690,
+      "gas:candidate-vibid:213200070602": 9,
+      "gas:candidate-vibid:1001000195028": 20,
+      "gas:candidate-vibid:1001000121795": 247,
+      "gas:candidate-vibid:1001000190283": 26,
+      "gas:candidate-vibid:1001000113898": 169,
+      "special:against-all": 197
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=132000010&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=213200070904&region=0&sub_region=0&type=429",
@@ -13722,14 +13722,14 @@ export const duma_2003_uik_428_region_13_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Алешкин Олег Иванович": 20,
-      "Гришин Виктор Иванович": 568,
-      "Давыдкин Михаил Александрович": 13,
-      "Калашников Сергей Александрович": 11,
-      "Костерин Евгений Алексеевич": 164,
-      "Нечаев Виктор Анатольевич": 17,
-      "Полушкин Александр Викторович": 112,
-      "Против всех": 159
+      "gas:candidate-vibid:1001000289802": 20,
+      "gas:candidate-vibid:1001000225880": 568,
+      "gas:candidate-vibid:213200070602": 13,
+      "gas:candidate-vibid:1001000195028": 11,
+      "gas:candidate-vibid:1001000121795": 164,
+      "gas:candidate-vibid:1001000190283": 17,
+      "gas:candidate-vibid:1001000113898": 112,
+      "special:against-all": 159
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=132000010&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=213200070904&region=0&sub_region=0&type=429",
@@ -13779,14 +13779,14 @@ export const duma_2003_uik_428_region_13_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Алешкин Олег Иванович": 62,
-      "Гришин Виктор Иванович": 727,
-      "Давыдкин Михаил Александрович": 8,
-      "Калашников Сергей Александрович": 11,
-      "Костерин Евгений Алексеевич": 166,
-      "Нечаев Виктор Анатольевич": 24,
-      "Полушкин Александр Викторович": 161,
-      "Против всех": 199
+      "gas:candidate-vibid:1001000289802": 62,
+      "gas:candidate-vibid:1001000225880": 727,
+      "gas:candidate-vibid:213200070602": 8,
+      "gas:candidate-vibid:1001000195028": 11,
+      "gas:candidate-vibid:1001000121795": 166,
+      "gas:candidate-vibid:1001000190283": 24,
+      "gas:candidate-vibid:1001000113898": 161,
+      "special:against-all": 199
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=132000010&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=213200070904&region=0&sub_region=0&type=429",
@@ -13836,14 +13836,14 @@ export const duma_2003_uik_428_region_13_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Алешкин Олег Иванович": 52,
-      "Гришин Виктор Иванович": 591,
-      "Давыдкин Михаил Александрович": 11,
-      "Калашников Сергей Александрович": 17,
-      "Костерин Евгений Алексеевич": 192,
-      "Нечаев Виктор Анатольевич": 23,
-      "Полушкин Александр Викторович": 68,
-      "Против всех": 164
+      "gas:candidate-vibid:1001000289802": 52,
+      "gas:candidate-vibid:1001000225880": 591,
+      "gas:candidate-vibid:213200070602": 11,
+      "gas:candidate-vibid:1001000195028": 17,
+      "gas:candidate-vibid:1001000121795": 192,
+      "gas:candidate-vibid:1001000190283": 23,
+      "gas:candidate-vibid:1001000113898": 68,
+      "special:against-all": 164
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=132000010&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=213200070904&region=0&sub_region=0&type=429",
@@ -13893,14 +13893,14 @@ export const duma_2003_uik_428_region_13_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Алешкин Олег Иванович": 69,
-      "Гришин Виктор Иванович": 783,
-      "Давыдкин Михаил Александрович": 9,
-      "Калашников Сергей Александрович": 28,
-      "Костерин Евгений Алексеевич": 290,
-      "Нечаев Виктор Анатольевич": 44,
-      "Полушкин Александр Викторович": 104,
-      "Против всех": 263
+      "gas:candidate-vibid:1001000289802": 69,
+      "gas:candidate-vibid:1001000225880": 783,
+      "gas:candidate-vibid:213200070602": 9,
+      "gas:candidate-vibid:1001000195028": 28,
+      "gas:candidate-vibid:1001000121795": 290,
+      "gas:candidate-vibid:1001000190283": 44,
+      "gas:candidate-vibid:1001000113898": 104,
+      "special:against-all": 263
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=132000010&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=213200070904&region=0&sub_region=0&type=429",
@@ -13950,14 +13950,14 @@ export const duma_2003_uik_428_region_13_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Алешкин Олег Иванович": 49,
-      "Гришин Виктор Иванович": 1043,
-      "Давыдкин Михаил Александрович": 4,
-      "Калашников Сергей Александрович": 23,
-      "Костерин Евгений Алексеевич": 255,
-      "Нечаев Виктор Анатольевич": 43,
-      "Полушкин Александр Викторович": 84,
-      "Против всех": 232
+      "gas:candidate-vibid:1001000289802": 49,
+      "gas:candidate-vibid:1001000225880": 1043,
+      "gas:candidate-vibid:213200070602": 4,
+      "gas:candidate-vibid:1001000195028": 23,
+      "gas:candidate-vibid:1001000121795": 255,
+      "gas:candidate-vibid:1001000190283": 43,
+      "gas:candidate-vibid:1001000113898": 84,
+      "special:against-all": 232
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=132000010&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=213200070904&region=0&sub_region=0&type=429",
@@ -14007,14 +14007,14 @@ export const duma_2003_uik_428_region_13_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Алешкин Олег Иванович": 60,
-      "Гришин Виктор Иванович": 600,
-      "Давыдкин Михаил Александрович": 11,
-      "Калашников Сергей Александрович": 17,
-      "Костерин Евгений Алексеевич": 192,
-      "Нечаев Виктор Анатольевич": 31,
-      "Полушкин Александр Викторович": 70,
-      "Против всех": 217
+      "gas:candidate-vibid:1001000289802": 60,
+      "gas:candidate-vibid:1001000225880": 600,
+      "gas:candidate-vibid:213200070602": 11,
+      "gas:candidate-vibid:1001000195028": 17,
+      "gas:candidate-vibid:1001000121795": 192,
+      "gas:candidate-vibid:1001000190283": 31,
+      "gas:candidate-vibid:1001000113898": 70,
+      "special:against-all": 217
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=132000010&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=213200070904&region=0&sub_region=0&type=429",
@@ -14064,14 +14064,14 @@ export const duma_2003_uik_428_region_13_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Алешкин Олег Иванович": 62,
-      "Гришин Виктор Иванович": 1029,
-      "Давыдкин Михаил Александрович": 9,
-      "Калашников Сергей Александрович": 14,
-      "Костерин Евгений Алексеевич": 250,
-      "Нечаев Виктор Анатольевич": 63,
-      "Полушкин Александр Викторович": 240,
-      "Против всех": 325
+      "gas:candidate-vibid:1001000289802": 62,
+      "gas:candidate-vibid:1001000225880": 1029,
+      "gas:candidate-vibid:213200070602": 9,
+      "gas:candidate-vibid:1001000195028": 14,
+      "gas:candidate-vibid:1001000121795": 250,
+      "gas:candidate-vibid:1001000190283": 63,
+      "gas:candidate-vibid:1001000113898": 240,
+      "special:against-all": 325
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=132000010&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=213200070904&region=0&sub_region=0&type=429",
@@ -14121,14 +14121,14 @@ export const duma_2003_uik_428_region_13_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Алешкин Олег Иванович": 45,
-      "Гришин Виктор Иванович": 789,
-      "Давыдкин Михаил Александрович": 10,
-      "Калашников Сергей Александрович": 14,
-      "Костерин Евгений Алексеевич": 169,
-      "Нечаев Виктор Анатольевич": 24,
-      "Полушкин Александр Викторович": 155,
-      "Против всех": 202
+      "gas:candidate-vibid:1001000289802": 45,
+      "gas:candidate-vibid:1001000225880": 789,
+      "gas:candidate-vibid:213200070602": 10,
+      "gas:candidate-vibid:1001000195028": 14,
+      "gas:candidate-vibid:1001000121795": 169,
+      "gas:candidate-vibid:1001000190283": 24,
+      "gas:candidate-vibid:1001000113898": 155,
+      "special:against-all": 202
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=132000010&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=213200070904&region=0&sub_region=0&type=429",
@@ -14178,14 +14178,14 @@ export const duma_2003_uik_428_region_13_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Алешкин Олег Иванович": 77,
-      "Гришин Виктор Иванович": 1056,
-      "Давыдкин Михаил Александрович": 9,
-      "Калашников Сергей Александрович": 15,
-      "Костерин Евгений Алексеевич": 238,
-      "Нечаев Виктор Анатольевич": 43,
-      "Полушкин Александр Викторович": 230,
-      "Против всех": 248
+      "gas:candidate-vibid:1001000289802": 77,
+      "gas:candidate-vibid:1001000225880": 1056,
+      "gas:candidate-vibid:213200070602": 9,
+      "gas:candidate-vibid:1001000195028": 15,
+      "gas:candidate-vibid:1001000121795": 238,
+      "gas:candidate-vibid:1001000190283": 43,
+      "gas:candidate-vibid:1001000113898": 230,
+      "special:against-all": 248
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=132000010&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=213200070904&region=0&sub_region=0&type=429",
@@ -14235,14 +14235,14 @@ export const duma_2003_uik_428_region_13_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Алешкин Олег Иванович": 1,
-      "Гришин Виктор Иванович": 179,
-      "Давыдкин Михаил Александрович": 1,
-      "Калашников Сергей Александрович": 1,
-      "Костерин Евгений Алексеевич": 6,
-      "Нечаев Виктор Анатольевич": 1,
-      "Полушкин Александр Викторович": 2,
-      "Против всех": 3
+      "gas:candidate-vibid:1001000289802": 1,
+      "gas:candidate-vibid:1001000225880": 179,
+      "gas:candidate-vibid:213200070602": 1,
+      "gas:candidate-vibid:1001000195028": 1,
+      "gas:candidate-vibid:1001000121795": 6,
+      "gas:candidate-vibid:1001000190283": 1,
+      "gas:candidate-vibid:1001000113898": 2,
+      "special:against-all": 3
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=132000010&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=213200070904&region=0&sub_region=0&type=429",

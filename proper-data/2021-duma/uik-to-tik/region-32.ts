@@ -8,6486 +8,17296 @@ export const duma_2021_uik_to_tik_region_32 = [
     "uikNumber": 1,
     "uikTvd": "4324002379291",
     "tikTvd": "23220001386516",
-    "tikName": "Брянск, Бежицкая"
+    "tikName": "Брянск, Бежицкая",
+    "uikName": "УИК №1",
+    "regionCode": "32",
+    "regionTvd": "100100225883495",
+    "regionName": "Брянская область",
+    "oikTvd": "100100225883497",
+    "oikName": "Брянская область – Унечский",
+    "district": {
+      "districtNumber": 78,
+      "oikTvd": "100100225883497"
+    }
   },
   {
     "uikNumber": 2,
     "uikTvd": "4324002379292",
     "tikTvd": "23220001386516",
-    "tikName": "Брянск, Бежицкая"
+    "tikName": "Брянск, Бежицкая",
+    "uikName": "УИК №2",
+    "regionCode": "32",
+    "regionTvd": "100100225883495",
+    "regionName": "Брянская область",
+    "oikTvd": "100100225883497",
+    "oikName": "Брянская область – Унечский",
+    "district": {
+      "districtNumber": 78,
+      "oikTvd": "100100225883497"
+    }
   },
   {
     "uikNumber": 3,
     "uikTvd": "4324002379293",
     "tikTvd": "23220001386516",
-    "tikName": "Брянск, Бежицкая"
+    "tikName": "Брянск, Бежицкая",
+    "uikName": "УИК №3",
+    "regionCode": "32",
+    "regionTvd": "100100225883495",
+    "regionName": "Брянская область",
+    "oikTvd": "100100225883497",
+    "oikName": "Брянская область – Унечский",
+    "district": {
+      "districtNumber": 78,
+      "oikTvd": "100100225883497"
+    }
   },
   {
     "uikNumber": 4,
     "uikTvd": "4324002379294",
     "tikTvd": "23220001386516",
-    "tikName": "Брянск, Бежицкая"
+    "tikName": "Брянск, Бежицкая",
+    "uikName": "УИК №4",
+    "regionCode": "32",
+    "regionTvd": "100100225883495",
+    "regionName": "Брянская область",
+    "oikTvd": "100100225883497",
+    "oikName": "Брянская область – Унечский",
+    "district": {
+      "districtNumber": 78,
+      "oikTvd": "100100225883497"
+    }
   },
   {
     "uikNumber": 5,
     "uikTvd": "4324002379295",
     "tikTvd": "23220001386516",
-    "tikName": "Брянск, Бежицкая"
+    "tikName": "Брянск, Бежицкая",
+    "uikName": "УИК №5",
+    "regionCode": "32",
+    "regionTvd": "100100225883495",
+    "regionName": "Брянская область",
+    "oikTvd": "100100225883497",
+    "oikName": "Брянская область – Унечский",
+    "district": {
+      "districtNumber": 78,
+      "oikTvd": "100100225883497"
+    }
   },
   {
     "uikNumber": 6,
     "uikTvd": "4324002379296",
     "tikTvd": "23220001386516",
-    "tikName": "Брянск, Бежицкая"
+    "tikName": "Брянск, Бежицкая",
+    "uikName": "УИК №6",
+    "regionCode": "32",
+    "regionTvd": "100100225883495",
+    "regionName": "Брянская область",
+    "oikTvd": "100100225883497",
+    "oikName": "Брянская область – Унечский",
+    "district": {
+      "districtNumber": 78,
+      "oikTvd": "100100225883497"
+    }
   },
   {
     "uikNumber": 7,
     "uikTvd": "4324002379297",
     "tikTvd": "23220001386516",
-    "tikName": "Брянск, Бежицкая"
+    "tikName": "Брянск, Бежицкая",
+    "uikName": "УИК №7",
+    "regionCode": "32",
+    "regionTvd": "100100225883495",
+    "regionName": "Брянская область",
+    "oikTvd": "100100225883497",
+    "oikName": "Брянская область – Унечский",
+    "district": {
+      "districtNumber": 78,
+      "oikTvd": "100100225883497"
+    }
   },
   {
     "uikNumber": 8,
     "uikTvd": "4324002379298",
     "tikTvd": "23220001386516",
-    "tikName": "Брянск, Бежицкая"
+    "tikName": "Брянск, Бежицкая",
+    "uikName": "УИК №8",
+    "regionCode": "32",
+    "regionTvd": "100100225883495",
+    "regionName": "Брянская область",
+    "oikTvd": "100100225883497",
+    "oikName": "Брянская область – Унечский",
+    "district": {
+      "districtNumber": 78,
+      "oikTvd": "100100225883497"
+    }
   },
   {
     "uikNumber": 9,
     "uikTvd": "4324002379299",
     "tikTvd": "23220001386516",
-    "tikName": "Брянск, Бежицкая"
+    "tikName": "Брянск, Бежицкая",
+    "uikName": "УИК №9",
+    "regionCode": "32",
+    "regionTvd": "100100225883495",
+    "regionName": "Брянская область",
+    "oikTvd": "100100225883497",
+    "oikName": "Брянская область – Унечский",
+    "district": {
+      "districtNumber": 78,
+      "oikTvd": "100100225883497"
+    }
   },
   {
     "uikNumber": 10,
     "uikTvd": "4324002379300",
     "tikTvd": "23220001386516",
-    "tikName": "Брянск, Бежицкая"
+    "tikName": "Брянск, Бежицкая",
+    "uikName": "УИК №10",
+    "regionCode": "32",
+    "regionTvd": "100100225883495",
+    "regionName": "Брянская область",
+    "oikTvd": "100100225883497",
+    "oikName": "Брянская область – Унечский",
+    "district": {
+      "districtNumber": 78,
+      "oikTvd": "100100225883497"
+    }
   },
   {
     "uikNumber": 11,
     "uikTvd": "4324002379301",
     "tikTvd": "23220001386516",
-    "tikName": "Брянск, Бежицкая"
+    "tikName": "Брянск, Бежицкая",
+    "uikName": "УИК №11",
+    "regionCode": "32",
+    "regionTvd": "100100225883495",
+    "regionName": "Брянская область",
+    "oikTvd": "100100225883497",
+    "oikName": "Брянская область – Унечский",
+    "district": {
+      "districtNumber": 78,
+      "oikTvd": "100100225883497"
+    }
   },
   {
     "uikNumber": 12,
     "uikTvd": "4324002379302",
     "tikTvd": "23220001386516",
-    "tikName": "Брянск, Бежицкая"
+    "tikName": "Брянск, Бежицкая",
+    "uikName": "УИК №12",
+    "regionCode": "32",
+    "regionTvd": "100100225883495",
+    "regionName": "Брянская область",
+    "oikTvd": "100100225883497",
+    "oikName": "Брянская область – Унечский",
+    "district": {
+      "districtNumber": 78,
+      "oikTvd": "100100225883497"
+    }
   },
   {
     "uikNumber": 13,
     "uikTvd": "4324002379303",
     "tikTvd": "23220001386516",
-    "tikName": "Брянск, Бежицкая"
+    "tikName": "Брянск, Бежицкая",
+    "uikName": "УИК №13",
+    "regionCode": "32",
+    "regionTvd": "100100225883495",
+    "regionName": "Брянская область",
+    "oikTvd": "100100225883497",
+    "oikName": "Брянская область – Унечский",
+    "district": {
+      "districtNumber": 78,
+      "oikTvd": "100100225883497"
+    }
   },
   {
     "uikNumber": 14,
     "uikTvd": "4324002379304",
     "tikTvd": "23220001386516",
-    "tikName": "Брянск, Бежицкая"
+    "tikName": "Брянск, Бежицкая",
+    "uikName": "УИК №14",
+    "regionCode": "32",
+    "regionTvd": "100100225883495",
+    "regionName": "Брянская область",
+    "oikTvd": "100100225883497",
+    "oikName": "Брянская область – Унечский",
+    "district": {
+      "districtNumber": 78,
+      "oikTvd": "100100225883497"
+    }
   },
   {
     "uikNumber": 15,
     "uikTvd": "4324002379305",
     "tikTvd": "23220001386516",
-    "tikName": "Брянск, Бежицкая"
+    "tikName": "Брянск, Бежицкая",
+    "uikName": "УИК №15",
+    "regionCode": "32",
+    "regionTvd": "100100225883495",
+    "regionName": "Брянская область",
+    "oikTvd": "100100225883497",
+    "oikName": "Брянская область – Унечский",
+    "district": {
+      "districtNumber": 78,
+      "oikTvd": "100100225883497"
+    }
   },
   {
     "uikNumber": 16,
     "uikTvd": "4324002379306",
     "tikTvd": "23220001386516",
-    "tikName": "Брянск, Бежицкая"
+    "tikName": "Брянск, Бежицкая",
+    "uikName": "УИК №16",
+    "regionCode": "32",
+    "regionTvd": "100100225883495",
+    "regionName": "Брянская область",
+    "oikTvd": "100100225883497",
+    "oikName": "Брянская область – Унечский",
+    "district": {
+      "districtNumber": 78,
+      "oikTvd": "100100225883497"
+    }
   },
   {
     "uikNumber": 17,
     "uikTvd": "4324002379307",
     "tikTvd": "23220001386516",
-    "tikName": "Брянск, Бежицкая"
+    "tikName": "Брянск, Бежицкая",
+    "uikName": "УИК №17",
+    "regionCode": "32",
+    "regionTvd": "100100225883495",
+    "regionName": "Брянская область",
+    "oikTvd": "100100225883497",
+    "oikName": "Брянская область – Унечский",
+    "district": {
+      "districtNumber": 78,
+      "oikTvd": "100100225883497"
+    }
   },
   {
     "uikNumber": 18,
     "uikTvd": "4324002379308",
     "tikTvd": "23220001386516",
-    "tikName": "Брянск, Бежицкая"
+    "tikName": "Брянск, Бежицкая",
+    "uikName": "УИК №18",
+    "regionCode": "32",
+    "regionTvd": "100100225883495",
+    "regionName": "Брянская область",
+    "oikTvd": "100100225883497",
+    "oikName": "Брянская область – Унечский",
+    "district": {
+      "districtNumber": 78,
+      "oikTvd": "100100225883497"
+    }
   },
   {
     "uikNumber": 19,
     "uikTvd": "4324002379309",
     "tikTvd": "23220001386516",
-    "tikName": "Брянск, Бежицкая"
+    "tikName": "Брянск, Бежицкая",
+    "uikName": "УИК №19",
+    "regionCode": "32",
+    "regionTvd": "100100225883495",
+    "regionName": "Брянская область",
+    "oikTvd": "100100225883497",
+    "oikName": "Брянская область – Унечский",
+    "district": {
+      "districtNumber": 78,
+      "oikTvd": "100100225883497"
+    }
   },
   {
     "uikNumber": 20,
     "uikTvd": "4324002379310",
     "tikTvd": "23220001386516",
-    "tikName": "Брянск, Бежицкая"
+    "tikName": "Брянск, Бежицкая",
+    "uikName": "УИК №20",
+    "regionCode": "32",
+    "regionTvd": "100100225883495",
+    "regionName": "Брянская область",
+    "oikTvd": "100100225883497",
+    "oikName": "Брянская область – Унечский",
+    "district": {
+      "districtNumber": 78,
+      "oikTvd": "100100225883497"
+    }
   },
   {
     "uikNumber": 21,
     "uikTvd": "4324002379311",
     "tikTvd": "23220001386516",
-    "tikName": "Брянск, Бежицкая"
+    "tikName": "Брянск, Бежицкая",
+    "uikName": "УИК №21",
+    "regionCode": "32",
+    "regionTvd": "100100225883495",
+    "regionName": "Брянская область",
+    "oikTvd": "100100225883497",
+    "oikName": "Брянская область – Унечский",
+    "district": {
+      "districtNumber": 78,
+      "oikTvd": "100100225883497"
+    }
   },
   {
     "uikNumber": 22,
     "uikTvd": "4324002379312",
     "tikTvd": "23220001386516",
-    "tikName": "Брянск, Бежицкая"
+    "tikName": "Брянск, Бежицкая",
+    "uikName": "УИК №22",
+    "regionCode": "32",
+    "regionTvd": "100100225883495",
+    "regionName": "Брянская область",
+    "oikTvd": "100100225883497",
+    "oikName": "Брянская область – Унечский",
+    "district": {
+      "districtNumber": 78,
+      "oikTvd": "100100225883497"
+    }
   },
   {
     "uikNumber": 23,
     "uikTvd": "4324002379313",
     "tikTvd": "23220001386516",
-    "tikName": "Брянск, Бежицкая"
+    "tikName": "Брянск, Бежицкая",
+    "uikName": "УИК №23",
+    "regionCode": "32",
+    "regionTvd": "100100225883495",
+    "regionName": "Брянская область",
+    "oikTvd": "100100225883497",
+    "oikName": "Брянская область – Унечский",
+    "district": {
+      "districtNumber": 78,
+      "oikTvd": "100100225883497"
+    }
   },
   {
     "uikNumber": 24,
     "uikTvd": "4324002379314",
     "tikTvd": "23220001386516",
-    "tikName": "Брянск, Бежицкая"
+    "tikName": "Брянск, Бежицкая",
+    "uikName": "УИК №24",
+    "regionCode": "32",
+    "regionTvd": "100100225883495",
+    "regionName": "Брянская область",
+    "oikTvd": "100100225883497",
+    "oikName": "Брянская область – Унечский",
+    "district": {
+      "districtNumber": 78,
+      "oikTvd": "100100225883497"
+    }
   },
   {
     "uikNumber": 25,
     "uikTvd": "4324002379315",
     "tikTvd": "23220001386516",
-    "tikName": "Брянск, Бежицкая"
+    "tikName": "Брянск, Бежицкая",
+    "uikName": "УИК №25",
+    "regionCode": "32",
+    "regionTvd": "100100225883495",
+    "regionName": "Брянская область",
+    "oikTvd": "100100225883497",
+    "oikName": "Брянская область – Унечский",
+    "district": {
+      "districtNumber": 78,
+      "oikTvd": "100100225883497"
+    }
   },
   {
     "uikNumber": 26,
     "uikTvd": "4324002379316",
     "tikTvd": "23220001386516",
-    "tikName": "Брянск, Бежицкая"
+    "tikName": "Брянск, Бежицкая",
+    "uikName": "УИК №26",
+    "regionCode": "32",
+    "regionTvd": "100100225883495",
+    "regionName": "Брянская область",
+    "oikTvd": "100100225883497",
+    "oikName": "Брянская область – Унечский",
+    "district": {
+      "districtNumber": 78,
+      "oikTvd": "100100225883497"
+    }
   },
   {
     "uikNumber": 27,
     "uikTvd": "4324002379317",
     "tikTvd": "23220001386516",
-    "tikName": "Брянск, Бежицкая"
+    "tikName": "Брянск, Бежицкая",
+    "uikName": "УИК №27",
+    "regionCode": "32",
+    "regionTvd": "100100225883495",
+    "regionName": "Брянская область",
+    "oikTvd": "100100225883497",
+    "oikName": "Брянская область – Унечский",
+    "district": {
+      "districtNumber": 78,
+      "oikTvd": "100100225883497"
+    }
   },
   {
     "uikNumber": 28,
     "uikTvd": "4324002379318",
     "tikTvd": "23220001386516",
-    "tikName": "Брянск, Бежицкая"
+    "tikName": "Брянск, Бежицкая",
+    "uikName": "УИК №28",
+    "regionCode": "32",
+    "regionTvd": "100100225883495",
+    "regionName": "Брянская область",
+    "oikTvd": "100100225883497",
+    "oikName": "Брянская область – Унечский",
+    "district": {
+      "districtNumber": 78,
+      "oikTvd": "100100225883497"
+    }
   },
   {
     "uikNumber": 29,
     "uikTvd": "4324002379319",
     "tikTvd": "23220001386516",
-    "tikName": "Брянск, Бежицкая"
+    "tikName": "Брянск, Бежицкая",
+    "uikName": "УИК №29",
+    "regionCode": "32",
+    "regionTvd": "100100225883495",
+    "regionName": "Брянская область",
+    "oikTvd": "100100225883497",
+    "oikName": "Брянская область – Унечский",
+    "district": {
+      "districtNumber": 78,
+      "oikTvd": "100100225883497"
+    }
   },
   {
     "uikNumber": 30,
     "uikTvd": "4324002379320",
     "tikTvd": "23220001386516",
-    "tikName": "Брянск, Бежицкая"
+    "tikName": "Брянск, Бежицкая",
+    "uikName": "УИК №30",
+    "regionCode": "32",
+    "regionTvd": "100100225883495",
+    "regionName": "Брянская область",
+    "oikTvd": "100100225883497",
+    "oikName": "Брянская область – Унечский",
+    "district": {
+      "districtNumber": 78,
+      "oikTvd": "100100225883497"
+    }
   },
   {
     "uikNumber": 31,
     "uikTvd": "4324002379321",
     "tikTvd": "23220001386516",
-    "tikName": "Брянск, Бежицкая"
+    "tikName": "Брянск, Бежицкая",
+    "uikName": "УИК №31",
+    "regionCode": "32",
+    "regionTvd": "100100225883495",
+    "regionName": "Брянская область",
+    "oikTvd": "100100225883497",
+    "oikName": "Брянская область – Унечский",
+    "district": {
+      "districtNumber": 78,
+      "oikTvd": "100100225883497"
+    }
   },
   {
     "uikNumber": 32,
     "uikTvd": "4324002379322",
     "tikTvd": "23220001386516",
-    "tikName": "Брянск, Бежицкая"
+    "tikName": "Брянск, Бежицкая",
+    "uikName": "УИК №32",
+    "regionCode": "32",
+    "regionTvd": "100100225883495",
+    "regionName": "Брянская область",
+    "oikTvd": "100100225883497",
+    "oikName": "Брянская область – Унечский",
+    "district": {
+      "districtNumber": 78,
+      "oikTvd": "100100225883497"
+    }
   },
   {
     "uikNumber": 33,
     "uikTvd": "4324002379323",
     "tikTvd": "23220001386516",
-    "tikName": "Брянск, Бежицкая"
+    "tikName": "Брянск, Бежицкая",
+    "uikName": "УИК №33",
+    "regionCode": "32",
+    "regionTvd": "100100225883495",
+    "regionName": "Брянская область",
+    "oikTvd": "100100225883497",
+    "oikName": "Брянская область – Унечский",
+    "district": {
+      "districtNumber": 78,
+      "oikTvd": "100100225883497"
+    }
   },
   {
     "uikNumber": 34,
     "uikTvd": "4324002379324",
     "tikTvd": "23220001386516",
-    "tikName": "Брянск, Бежицкая"
+    "tikName": "Брянск, Бежицкая",
+    "uikName": "УИК №34",
+    "regionCode": "32",
+    "regionTvd": "100100225883495",
+    "regionName": "Брянская область",
+    "oikTvd": "100100225883497",
+    "oikName": "Брянская область – Унечский",
+    "district": {
+      "districtNumber": 78,
+      "oikTvd": "100100225883497"
+    }
   },
   {
     "uikNumber": 35,
     "uikTvd": "4324002379325",
     "tikTvd": "23220001386516",
-    "tikName": "Брянск, Бежицкая"
+    "tikName": "Брянск, Бежицкая",
+    "uikName": "УИК №35",
+    "regionCode": "32",
+    "regionTvd": "100100225883495",
+    "regionName": "Брянская область",
+    "oikTvd": "100100225883497",
+    "oikName": "Брянская область – Унечский",
+    "district": {
+      "districtNumber": 78,
+      "oikTvd": "100100225883497"
+    }
   },
   {
     "uikNumber": 36,
     "uikTvd": "4324002379326",
     "tikTvd": "23220001386516",
-    "tikName": "Брянск, Бежицкая"
+    "tikName": "Брянск, Бежицкая",
+    "uikName": "УИК №36",
+    "regionCode": "32",
+    "regionTvd": "100100225883495",
+    "regionName": "Брянская область",
+    "oikTvd": "100100225883497",
+    "oikName": "Брянская область – Унечский",
+    "district": {
+      "districtNumber": 78,
+      "oikTvd": "100100225883497"
+    }
   },
   {
     "uikNumber": 37,
     "uikTvd": "4324002379327",
     "tikTvd": "23220001386516",
-    "tikName": "Брянск, Бежицкая"
+    "tikName": "Брянск, Бежицкая",
+    "uikName": "УИК №37",
+    "regionCode": "32",
+    "regionTvd": "100100225883495",
+    "regionName": "Брянская область",
+    "oikTvd": "100100225883497",
+    "oikName": "Брянская область – Унечский",
+    "district": {
+      "districtNumber": 78,
+      "oikTvd": "100100225883497"
+    }
   },
   {
     "uikNumber": 38,
     "uikTvd": "4324002379328",
     "tikTvd": "23220001386516",
-    "tikName": "Брянск, Бежицкая"
+    "tikName": "Брянск, Бежицкая",
+    "uikName": "УИК №38",
+    "regionCode": "32",
+    "regionTvd": "100100225883495",
+    "regionName": "Брянская область",
+    "oikTvd": "100100225883497",
+    "oikName": "Брянская область – Унечский",
+    "district": {
+      "districtNumber": 78,
+      "oikTvd": "100100225883497"
+    }
   },
   {
     "uikNumber": 39,
     "uikTvd": "4324002379329",
     "tikTvd": "23220001386516",
-    "tikName": "Брянск, Бежицкая"
+    "tikName": "Брянск, Бежицкая",
+    "uikName": "УИК №39",
+    "regionCode": "32",
+    "regionTvd": "100100225883495",
+    "regionName": "Брянская область",
+    "oikTvd": "100100225883497",
+    "oikName": "Брянская область – Унечский",
+    "district": {
+      "districtNumber": 78,
+      "oikTvd": "100100225883497"
+    }
   },
   {
     "uikNumber": 41,
     "uikTvd": "4324002379331",
     "tikTvd": "23220001386516",
-    "tikName": "Брянск, Бежицкая"
+    "tikName": "Брянск, Бежицкая",
+    "uikName": "УИК №41",
+    "regionCode": "32",
+    "regionTvd": "100100225883495",
+    "regionName": "Брянская область",
+    "oikTvd": "100100225883497",
+    "oikName": "Брянская область – Унечский",
+    "district": {
+      "districtNumber": 78,
+      "oikTvd": "100100225883497"
+    }
   },
   {
     "uikNumber": 42,
     "uikTvd": "4324002379332",
     "tikTvd": "23220001386516",
-    "tikName": "Брянск, Бежицкая"
+    "tikName": "Брянск, Бежицкая",
+    "uikName": "УИК №42",
+    "regionCode": "32",
+    "regionTvd": "100100225883495",
+    "regionName": "Брянская область",
+    "oikTvd": "100100225883497",
+    "oikName": "Брянская область – Унечский",
+    "district": {
+      "districtNumber": 78,
+      "oikTvd": "100100225883497"
+    }
   },
   {
     "uikNumber": 43,
     "uikTvd": "4324002379333",
     "tikTvd": "23220001386516",
-    "tikName": "Брянск, Бежицкая"
+    "tikName": "Брянск, Бежицкая",
+    "uikName": "УИК №43",
+    "regionCode": "32",
+    "regionTvd": "100100225883495",
+    "regionName": "Брянская область",
+    "oikTvd": "100100225883497",
+    "oikName": "Брянская область – Унечский",
+    "district": {
+      "districtNumber": 78,
+      "oikTvd": "100100225883497"
+    }
   },
   {
     "uikNumber": 44,
     "uikTvd": "4324002379334",
     "tikTvd": "23220001386516",
-    "tikName": "Брянск, Бежицкая"
+    "tikName": "Брянск, Бежицкая",
+    "uikName": "УИК №44",
+    "regionCode": "32",
+    "regionTvd": "100100225883495",
+    "regionName": "Брянская область",
+    "oikTvd": "100100225883497",
+    "oikName": "Брянская область – Унечский",
+    "district": {
+      "districtNumber": 78,
+      "oikTvd": "100100225883497"
+    }
   },
   {
     "uikNumber": 45,
     "uikTvd": "4324002379335",
     "tikTvd": "23220001386516",
-    "tikName": "Брянск, Бежицкая"
+    "tikName": "Брянск, Бежицкая",
+    "uikName": "УИК №45",
+    "regionCode": "32",
+    "regionTvd": "100100225883495",
+    "regionName": "Брянская область",
+    "oikTvd": "100100225883497",
+    "oikName": "Брянская область – Унечский",
+    "district": {
+      "districtNumber": 78,
+      "oikTvd": "100100225883497"
+    }
   },
   {
     "uikNumber": 46,
     "uikTvd": "4324002379336",
     "tikTvd": "23220001386516",
-    "tikName": "Брянск, Бежицкая"
+    "tikName": "Брянск, Бежицкая",
+    "uikName": "УИК №46",
+    "regionCode": "32",
+    "regionTvd": "100100225883495",
+    "regionName": "Брянская область",
+    "oikTvd": "100100225883497",
+    "oikName": "Брянская область – Унечский",
+    "district": {
+      "districtNumber": 78,
+      "oikTvd": "100100225883497"
+    }
   },
   {
     "uikNumber": 47,
     "uikTvd": "4324002379337",
     "tikTvd": "23220001386516",
-    "tikName": "Брянск, Бежицкая"
+    "tikName": "Брянск, Бежицкая",
+    "uikName": "УИК №47",
+    "regionCode": "32",
+    "regionTvd": "100100225883495",
+    "regionName": "Брянская область",
+    "oikTvd": "100100225883497",
+    "oikName": "Брянская область – Унечский",
+    "district": {
+      "districtNumber": 78,
+      "oikTvd": "100100225883497"
+    }
   },
   {
     "uikNumber": 48,
     "uikTvd": "4324002379338",
     "tikTvd": "23220001386516",
-    "tikName": "Брянск, Бежицкая"
+    "tikName": "Брянск, Бежицкая",
+    "uikName": "УИК №48",
+    "regionCode": "32",
+    "regionTvd": "100100225883495",
+    "regionName": "Брянская область",
+    "oikTvd": "100100225883497",
+    "oikName": "Брянская область – Унечский",
+    "district": {
+      "districtNumber": 78,
+      "oikTvd": "100100225883497"
+    }
   },
   {
     "uikNumber": 49,
     "uikTvd": "4324002379339",
     "tikTvd": "23220001386516",
-    "tikName": "Брянск, Бежицкая"
+    "tikName": "Брянск, Бежицкая",
+    "uikName": "УИК №49",
+    "regionCode": "32",
+    "regionTvd": "100100225883495",
+    "regionName": "Брянская область",
+    "oikTvd": "100100225883497",
+    "oikName": "Брянская область – Унечский",
+    "district": {
+      "districtNumber": 78,
+      "oikTvd": "100100225883497"
+    }
   },
   {
     "uikNumber": 50,
     "uikTvd": "4324002379340",
     "tikTvd": "23220001386516",
-    "tikName": "Брянск, Бежицкая"
+    "tikName": "Брянск, Бежицкая",
+    "uikName": "УИК №50",
+    "regionCode": "32",
+    "regionTvd": "100100225883495",
+    "regionName": "Брянская область",
+    "oikTvd": "100100225883497",
+    "oikName": "Брянская область – Унечский",
+    "district": {
+      "districtNumber": 78,
+      "oikTvd": "100100225883497"
+    }
   },
   {
     "uikNumber": 51,
     "uikTvd": "4324002379341",
     "tikTvd": "23220001386516",
-    "tikName": "Брянск, Бежицкая"
+    "tikName": "Брянск, Бежицкая",
+    "uikName": "УИК №51",
+    "regionCode": "32",
+    "regionTvd": "100100225883495",
+    "regionName": "Брянская область",
+    "oikTvd": "100100225883497",
+    "oikName": "Брянская область – Унечский",
+    "district": {
+      "districtNumber": 78,
+      "oikTvd": "100100225883497"
+    }
   },
   {
     "uikNumber": 52,
     "uikTvd": "4324002379342",
     "tikTvd": "23220001386516",
-    "tikName": "Брянск, Бежицкая"
+    "tikName": "Брянск, Бежицкая",
+    "uikName": "УИК №52",
+    "regionCode": "32",
+    "regionTvd": "100100225883495",
+    "regionName": "Брянская область",
+    "oikTvd": "100100225883497",
+    "oikName": "Брянская область – Унечский",
+    "district": {
+      "districtNumber": 78,
+      "oikTvd": "100100225883497"
+    }
   },
   {
     "uikNumber": 53,
     "uikTvd": "4324002379343",
     "tikTvd": "23220001386516",
-    "tikName": "Брянск, Бежицкая"
+    "tikName": "Брянск, Бежицкая",
+    "uikName": "УИК №53",
+    "regionCode": "32",
+    "regionTvd": "100100225883495",
+    "regionName": "Брянская область",
+    "oikTvd": "100100225883497",
+    "oikName": "Брянская область – Унечский",
+    "district": {
+      "districtNumber": 78,
+      "oikTvd": "100100225883497"
+    }
   },
   {
     "uikNumber": 54,
     "uikTvd": "4324002379344",
     "tikTvd": "23220001386516",
-    "tikName": "Брянск, Бежицкая"
+    "tikName": "Брянск, Бежицкая",
+    "uikName": "УИК №54",
+    "regionCode": "32",
+    "regionTvd": "100100225883495",
+    "regionName": "Брянская область",
+    "oikTvd": "100100225883497",
+    "oikName": "Брянская область – Унечский",
+    "district": {
+      "districtNumber": 78,
+      "oikTvd": "100100225883497"
+    }
   },
   {
     "uikNumber": 55,
     "uikTvd": "4324002379345",
     "tikTvd": "23220001386516",
-    "tikName": "Брянск, Бежицкая"
+    "tikName": "Брянск, Бежицкая",
+    "uikName": "УИК №55",
+    "regionCode": "32",
+    "regionTvd": "100100225883495",
+    "regionName": "Брянская область",
+    "oikTvd": "100100225883497",
+    "oikName": "Брянская область – Унечский",
+    "district": {
+      "districtNumber": 78,
+      "oikTvd": "100100225883497"
+    }
   },
   {
     "uikNumber": 56,
     "uikTvd": "4324002379346",
     "tikTvd": "23220001386516",
-    "tikName": "Брянск, Бежицкая"
+    "tikName": "Брянск, Бежицкая",
+    "uikName": "УИК №56",
+    "regionCode": "32",
+    "regionTvd": "100100225883495",
+    "regionName": "Брянская область",
+    "oikTvd": "100100225883497",
+    "oikName": "Брянская область – Унечский",
+    "district": {
+      "districtNumber": 78,
+      "oikTvd": "100100225883497"
+    }
   },
   {
     "uikNumber": 57,
     "uikTvd": "4324002379347",
     "tikTvd": "23220001386516",
-    "tikName": "Брянск, Бежицкая"
+    "tikName": "Брянск, Бежицкая",
+    "uikName": "УИК №57",
+    "regionCode": "32",
+    "regionTvd": "100100225883495",
+    "regionName": "Брянская область",
+    "oikTvd": "100100225883497",
+    "oikName": "Брянская область – Унечский",
+    "district": {
+      "districtNumber": 78,
+      "oikTvd": "100100225883497"
+    }
   },
   {
     "uikNumber": 58,
     "uikTvd": "4324002379348",
     "tikTvd": "23220001386516",
-    "tikName": "Брянск, Бежицкая"
+    "tikName": "Брянск, Бежицкая",
+    "uikName": "УИК №58",
+    "regionCode": "32",
+    "regionTvd": "100100225883495",
+    "regionName": "Брянская область",
+    "oikTvd": "100100225883497",
+    "oikName": "Брянская область – Унечский",
+    "district": {
+      "districtNumber": 78,
+      "oikTvd": "100100225883497"
+    }
   },
   {
     "uikNumber": 59,
     "uikTvd": "4324002379349",
     "tikTvd": "23220001386516",
-    "tikName": "Брянск, Бежицкая"
+    "tikName": "Брянск, Бежицкая",
+    "uikName": "УИК №59",
+    "regionCode": "32",
+    "regionTvd": "100100225883495",
+    "regionName": "Брянская область",
+    "oikTvd": "100100225883497",
+    "oikName": "Брянская область – Унечский",
+    "district": {
+      "districtNumber": 78,
+      "oikTvd": "100100225883497"
+    }
   },
   {
     "uikNumber": 60,
     "uikTvd": "4324002379350",
     "tikTvd": "23220001386516",
-    "tikName": "Брянск, Бежицкая"
+    "tikName": "Брянск, Бежицкая",
+    "uikName": "УИК №60",
+    "regionCode": "32",
+    "regionTvd": "100100225883495",
+    "regionName": "Брянская область",
+    "oikTvd": "100100225883497",
+    "oikName": "Брянская область – Унечский",
+    "district": {
+      "districtNumber": 78,
+      "oikTvd": "100100225883497"
+    }
   },
   {
     "uikNumber": 61,
     "uikTvd": "4324002379351",
     "tikTvd": "23220001386516",
-    "tikName": "Брянск, Бежицкая"
+    "tikName": "Брянск, Бежицкая",
+    "uikName": "УИК №61",
+    "regionCode": "32",
+    "regionTvd": "100100225883495",
+    "regionName": "Брянская область",
+    "oikTvd": "100100225883497",
+    "oikName": "Брянская область – Унечский",
+    "district": {
+      "districtNumber": 78,
+      "oikTvd": "100100225883497"
+    }
   },
   {
     "uikNumber": 62,
     "uikTvd": "4324002379352",
     "tikTvd": "23220001386516",
-    "tikName": "Брянск, Бежицкая"
+    "tikName": "Брянск, Бежицкая",
+    "uikName": "УИК №62",
+    "regionCode": "32",
+    "regionTvd": "100100225883495",
+    "regionName": "Брянская область",
+    "oikTvd": "100100225883497",
+    "oikName": "Брянская область – Унечский",
+    "district": {
+      "districtNumber": 78,
+      "oikTvd": "100100225883497"
+    }
   },
   {
     "uikNumber": 63,
     "uikTvd": "4324003222195",
     "tikTvd": "23220001386517",
-    "tikName": "Брянск, Володарская"
+    "tikName": "Брянск, Володарская",
+    "uikName": "УИК №63",
+    "regionCode": "32",
+    "regionTvd": "100100225883495",
+    "regionName": "Брянская область",
+    "oikTvd": "100100225883497",
+    "oikName": "Брянская область – Унечский",
+    "district": {
+      "districtNumber": 78,
+      "oikTvd": "100100225883497"
+    }
   },
   {
     "uikNumber": 64,
     "uikTvd": "4324003222196",
     "tikTvd": "23220001386517",
-    "tikName": "Брянск, Володарская"
+    "tikName": "Брянск, Володарская",
+    "uikName": "УИК №64",
+    "regionCode": "32",
+    "regionTvd": "100100225883495",
+    "regionName": "Брянская область",
+    "oikTvd": "100100225883497",
+    "oikName": "Брянская область – Унечский",
+    "district": {
+      "districtNumber": 78,
+      "oikTvd": "100100225883497"
+    }
   },
   {
     "uikNumber": 65,
     "uikTvd": "4324003222197",
     "tikTvd": "23220001386517",
-    "tikName": "Брянск, Володарская"
+    "tikName": "Брянск, Володарская",
+    "uikName": "УИК №65",
+    "regionCode": "32",
+    "regionTvd": "100100225883495",
+    "regionName": "Брянская область",
+    "oikTvd": "100100225883497",
+    "oikName": "Брянская область – Унечский",
+    "district": {
+      "districtNumber": 78,
+      "oikTvd": "100100225883497"
+    }
   },
   {
     "uikNumber": 66,
     "uikTvd": "4324003222198",
     "tikTvd": "23220001386517",
-    "tikName": "Брянск, Володарская"
+    "tikName": "Брянск, Володарская",
+    "uikName": "УИК №66",
+    "regionCode": "32",
+    "regionTvd": "100100225883495",
+    "regionName": "Брянская область",
+    "oikTvd": "100100225883497",
+    "oikName": "Брянская область – Унечский",
+    "district": {
+      "districtNumber": 78,
+      "oikTvd": "100100225883497"
+    }
   },
   {
     "uikNumber": 67,
     "uikTvd": "4324003222199",
     "tikTvd": "23220001386517",
-    "tikName": "Брянск, Володарская"
+    "tikName": "Брянск, Володарская",
+    "uikName": "УИК №67",
+    "regionCode": "32",
+    "regionTvd": "100100225883495",
+    "regionName": "Брянская область",
+    "oikTvd": "100100225883497",
+    "oikName": "Брянская область – Унечский",
+    "district": {
+      "districtNumber": 78,
+      "oikTvd": "100100225883497"
+    }
   },
   {
     "uikNumber": 68,
     "uikTvd": "4324003222200",
     "tikTvd": "23220001386517",
-    "tikName": "Брянск, Володарская"
+    "tikName": "Брянск, Володарская",
+    "uikName": "УИК №68",
+    "regionCode": "32",
+    "regionTvd": "100100225883495",
+    "regionName": "Брянская область",
+    "oikTvd": "100100225883497",
+    "oikName": "Брянская область – Унечский",
+    "district": {
+      "districtNumber": 78,
+      "oikTvd": "100100225883497"
+    }
   },
   {
     "uikNumber": 69,
     "uikTvd": "4324003222201",
     "tikTvd": "23220001386517",
-    "tikName": "Брянск, Володарская"
+    "tikName": "Брянск, Володарская",
+    "uikName": "УИК №69",
+    "regionCode": "32",
+    "regionTvd": "100100225883495",
+    "regionName": "Брянская область",
+    "oikTvd": "100100225883497",
+    "oikName": "Брянская область – Унечский",
+    "district": {
+      "districtNumber": 78,
+      "oikTvd": "100100225883497"
+    }
   },
   {
     "uikNumber": 70,
     "uikTvd": "4324003222202",
     "tikTvd": "23220001386517",
-    "tikName": "Брянск, Володарская"
+    "tikName": "Брянск, Володарская",
+    "uikName": "УИК №70",
+    "regionCode": "32",
+    "regionTvd": "100100225883495",
+    "regionName": "Брянская область",
+    "oikTvd": "100100225883497",
+    "oikName": "Брянская область – Унечский",
+    "district": {
+      "districtNumber": 78,
+      "oikTvd": "100100225883497"
+    }
   },
   {
     "uikNumber": 71,
     "uikTvd": "4324003222203",
     "tikTvd": "23220001386517",
-    "tikName": "Брянск, Володарская"
+    "tikName": "Брянск, Володарская",
+    "uikName": "УИК №71",
+    "regionCode": "32",
+    "regionTvd": "100100225883495",
+    "regionName": "Брянская область",
+    "oikTvd": "100100225883497",
+    "oikName": "Брянская область – Унечский",
+    "district": {
+      "districtNumber": 78,
+      "oikTvd": "100100225883497"
+    }
   },
   {
     "uikNumber": 72,
     "uikTvd": "4324003222204",
     "tikTvd": "23220001386517",
-    "tikName": "Брянск, Володарская"
+    "tikName": "Брянск, Володарская",
+    "uikName": "УИК №72",
+    "regionCode": "32",
+    "regionTvd": "100100225883495",
+    "regionName": "Брянская область",
+    "oikTvd": "100100225883497",
+    "oikName": "Брянская область – Унечский",
+    "district": {
+      "districtNumber": 78,
+      "oikTvd": "100100225883497"
+    }
   },
   {
     "uikNumber": 73,
     "uikTvd": "4324003222205",
     "tikTvd": "23220001386517",
-    "tikName": "Брянск, Володарская"
+    "tikName": "Брянск, Володарская",
+    "uikName": "УИК №73",
+    "regionCode": "32",
+    "regionTvd": "100100225883495",
+    "regionName": "Брянская область",
+    "oikTvd": "100100225883497",
+    "oikName": "Брянская область – Унечский",
+    "district": {
+      "districtNumber": 78,
+      "oikTvd": "100100225883497"
+    }
   },
   {
     "uikNumber": 74,
     "uikTvd": "4324003222206",
     "tikTvd": "23220001386517",
-    "tikName": "Брянск, Володарская"
+    "tikName": "Брянск, Володарская",
+    "uikName": "УИК №74",
+    "regionCode": "32",
+    "regionTvd": "100100225883495",
+    "regionName": "Брянская область",
+    "oikTvd": "100100225883497",
+    "oikName": "Брянская область – Унечский",
+    "district": {
+      "districtNumber": 78,
+      "oikTvd": "100100225883497"
+    }
   },
   {
     "uikNumber": 75,
     "uikTvd": "4324003222207",
     "tikTvd": "23220001386517",
-    "tikName": "Брянск, Володарская"
+    "tikName": "Брянск, Володарская",
+    "uikName": "УИК №75",
+    "regionCode": "32",
+    "regionTvd": "100100225883495",
+    "regionName": "Брянская область",
+    "oikTvd": "100100225883497",
+    "oikName": "Брянская область – Унечский",
+    "district": {
+      "districtNumber": 78,
+      "oikTvd": "100100225883497"
+    }
   },
   {
     "uikNumber": 76,
     "uikTvd": "4324003222208",
     "tikTvd": "23220001386517",
-    "tikName": "Брянск, Володарская"
+    "tikName": "Брянск, Володарская",
+    "uikName": "УИК №76",
+    "regionCode": "32",
+    "regionTvd": "100100225883495",
+    "regionName": "Брянская область",
+    "oikTvd": "100100225883497",
+    "oikName": "Брянская область – Унечский",
+    "district": {
+      "districtNumber": 78,
+      "oikTvd": "100100225883497"
+    }
   },
   {
     "uikNumber": 77,
     "uikTvd": "4324003222209",
     "tikTvd": "23220001386517",
-    "tikName": "Брянск, Володарская"
+    "tikName": "Брянск, Володарская",
+    "uikName": "УИК №77",
+    "regionCode": "32",
+    "regionTvd": "100100225883495",
+    "regionName": "Брянская область",
+    "oikTvd": "100100225883497",
+    "oikName": "Брянская область – Унечский",
+    "district": {
+      "districtNumber": 78,
+      "oikTvd": "100100225883497"
+    }
   },
   {
     "uikNumber": 78,
     "uikTvd": "4324003222210",
     "tikTvd": "23220001386517",
-    "tikName": "Брянск, Володарская"
+    "tikName": "Брянск, Володарская",
+    "uikName": "УИК №78",
+    "regionCode": "32",
+    "regionTvd": "100100225883495",
+    "regionName": "Брянская область",
+    "oikTvd": "100100225883497",
+    "oikName": "Брянская область – Унечский",
+    "district": {
+      "districtNumber": 78,
+      "oikTvd": "100100225883497"
+    }
   },
   {
     "uikNumber": 79,
     "uikTvd": "4324003222211",
     "tikTvd": "23220001386517",
-    "tikName": "Брянск, Володарская"
+    "tikName": "Брянск, Володарская",
+    "uikName": "УИК №79",
+    "regionCode": "32",
+    "regionTvd": "100100225883495",
+    "regionName": "Брянская область",
+    "oikTvd": "100100225883497",
+    "oikName": "Брянская область – Унечский",
+    "district": {
+      "districtNumber": 78,
+      "oikTvd": "100100225883497"
+    }
   },
   {
     "uikNumber": 80,
     "uikTvd": "4324003222212",
     "tikTvd": "23220001386517",
-    "tikName": "Брянск, Володарская"
+    "tikName": "Брянск, Володарская",
+    "uikName": "УИК №80",
+    "regionCode": "32",
+    "regionTvd": "100100225883495",
+    "regionName": "Брянская область",
+    "oikTvd": "100100225883497",
+    "oikName": "Брянская область – Унечский",
+    "district": {
+      "districtNumber": 78,
+      "oikTvd": "100100225883497"
+    }
   },
   {
     "uikNumber": 81,
     "uikTvd": "4324003222213",
     "tikTvd": "23220001386517",
-    "tikName": "Брянск, Володарская"
+    "tikName": "Брянск, Володарская",
+    "uikName": "УИК №81",
+    "regionCode": "32",
+    "regionTvd": "100100225883495",
+    "regionName": "Брянская область",
+    "oikTvd": "100100225883497",
+    "oikName": "Брянская область – Унечский",
+    "district": {
+      "districtNumber": 78,
+      "oikTvd": "100100225883497"
+    }
   },
   {
     "uikNumber": 82,
     "uikTvd": "4324003222214",
     "tikTvd": "23220001386517",
-    "tikName": "Брянск, Володарская"
+    "tikName": "Брянск, Володарская",
+    "uikName": "УИК №82",
+    "regionCode": "32",
+    "regionTvd": "100100225883495",
+    "regionName": "Брянская область",
+    "oikTvd": "100100225883497",
+    "oikName": "Брянская область – Унечский",
+    "district": {
+      "districtNumber": 78,
+      "oikTvd": "100100225883497"
+    }
   },
   {
     "uikNumber": 83,
     "uikTvd": "4324003222215",
     "tikTvd": "23220001386517",
-    "tikName": "Брянск, Володарская"
+    "tikName": "Брянск, Володарская",
+    "uikName": "УИК №83",
+    "regionCode": "32",
+    "regionTvd": "100100225883495",
+    "regionName": "Брянская область",
+    "oikTvd": "100100225883497",
+    "oikName": "Брянская область – Унечский",
+    "district": {
+      "districtNumber": 78,
+      "oikTvd": "100100225883497"
+    }
   },
   {
     "uikNumber": 84,
     "uikTvd": "4324003222216",
     "tikTvd": "23220001386517",
-    "tikName": "Брянск, Володарская"
+    "tikName": "Брянск, Володарская",
+    "uikName": "УИК №84",
+    "regionCode": "32",
+    "regionTvd": "100100225883495",
+    "regionName": "Брянская область",
+    "oikTvd": "100100225883497",
+    "oikName": "Брянская область – Унечский",
+    "district": {
+      "districtNumber": 78,
+      "oikTvd": "100100225883497"
+    }
   },
   {
     "uikNumber": 85,
     "uikTvd": "4324003222217",
     "tikTvd": "23220001386517",
-    "tikName": "Брянск, Володарская"
+    "tikName": "Брянск, Володарская",
+    "uikName": "УИК №85",
+    "regionCode": "32",
+    "regionTvd": "100100225883495",
+    "regionName": "Брянская область",
+    "oikTvd": "100100225883497",
+    "oikName": "Брянская область – Унечский",
+    "district": {
+      "districtNumber": 78,
+      "oikTvd": "100100225883497"
+    }
   },
   {
     "uikNumber": 86,
     "uikTvd": "4324003222218",
     "tikTvd": "23220001386517",
-    "tikName": "Брянск, Володарская"
+    "tikName": "Брянск, Володарская",
+    "uikName": "УИК №86",
+    "regionCode": "32",
+    "regionTvd": "100100225883495",
+    "regionName": "Брянская область",
+    "oikTvd": "100100225883497",
+    "oikName": "Брянская область – Унечский",
+    "district": {
+      "districtNumber": 78,
+      "oikTvd": "100100225883497"
+    }
   },
   {
     "uikNumber": 87,
     "uikTvd": "4324003222219",
     "tikTvd": "23220001386517",
-    "tikName": "Брянск, Володарская"
+    "tikName": "Брянск, Володарская",
+    "uikName": "УИК №87",
+    "regionCode": "32",
+    "regionTvd": "100100225883495",
+    "regionName": "Брянская область",
+    "oikTvd": "100100225883497",
+    "oikName": "Брянская область – Унечский",
+    "district": {
+      "districtNumber": 78,
+      "oikTvd": "100100225883497"
+    }
   },
   {
     "uikNumber": 88,
     "uikTvd": "4324003222220",
     "tikTvd": "23220001386517",
-    "tikName": "Брянск, Володарская"
+    "tikName": "Брянск, Володарская",
+    "uikName": "УИК №88",
+    "regionCode": "32",
+    "regionTvd": "100100225883495",
+    "regionName": "Брянская область",
+    "oikTvd": "100100225883497",
+    "oikName": "Брянская область – Унечский",
+    "district": {
+      "districtNumber": 78,
+      "oikTvd": "100100225883497"
+    }
   },
   {
     "uikNumber": 89,
     "uikTvd": "4324003222221",
     "tikTvd": "23220001386517",
-    "tikName": "Брянск, Володарская"
+    "tikName": "Брянск, Володарская",
+    "uikName": "УИК №89",
+    "regionCode": "32",
+    "regionTvd": "100100225883495",
+    "regionName": "Брянская область",
+    "oikTvd": "100100225883497",
+    "oikName": "Брянская область – Унечский",
+    "district": {
+      "districtNumber": 78,
+      "oikTvd": "100100225883497"
+    }
   },
   {
     "uikNumber": 90,
     "uikTvd": "4324003222222",
     "tikTvd": "23220001386517",
-    "tikName": "Брянск, Володарская"
+    "tikName": "Брянск, Володарская",
+    "uikName": "УИК №90",
+    "regionCode": "32",
+    "regionTvd": "100100225883495",
+    "regionName": "Брянская область",
+    "oikTvd": "100100225883497",
+    "oikName": "Брянская область – Унечский",
+    "district": {
+      "districtNumber": 78,
+      "oikTvd": "100100225883497"
+    }
   },
   {
     "uikNumber": 91,
     "uikTvd": "4324003222223",
     "tikTvd": "23220001386517",
-    "tikName": "Брянск, Володарская"
+    "tikName": "Брянск, Володарская",
+    "uikName": "УИК №91",
+    "regionCode": "32",
+    "regionTvd": "100100225883495",
+    "regionName": "Брянская область",
+    "oikTvd": "100100225883497",
+    "oikName": "Брянская область – Унечский",
+    "district": {
+      "districtNumber": 78,
+      "oikTvd": "100100225883497"
+    }
   },
   {
     "uikNumber": 92,
     "uikTvd": "4324004419343",
     "tikTvd": "23220001386495",
-    "tikName": "Брянск, Советская"
+    "tikName": "Брянск, Советская",
+    "uikName": "УИК №92",
+    "regionCode": "32",
+    "regionTvd": "100100225883495",
+    "regionName": "Брянская область",
+    "oikTvd": "100100225883496",
+    "oikName": "Брянская область – Брянский",
+    "district": {
+      "districtNumber": 77,
+      "oikTvd": "100100225883496"
+    }
   },
   {
     "uikNumber": 93,
     "uikTvd": "4324004419344",
     "tikTvd": "23220001386495",
-    "tikName": "Брянск, Советская"
+    "tikName": "Брянск, Советская",
+    "uikName": "УИК №93",
+    "regionCode": "32",
+    "regionTvd": "100100225883495",
+    "regionName": "Брянская область",
+    "oikTvd": "100100225883496",
+    "oikName": "Брянская область – Брянский",
+    "district": {
+      "districtNumber": 77,
+      "oikTvd": "100100225883496"
+    }
   },
   {
     "uikNumber": 94,
     "uikTvd": "4324004419345",
     "tikTvd": "23220001386495",
-    "tikName": "Брянск, Советская"
+    "tikName": "Брянск, Советская",
+    "uikName": "УИК №94",
+    "regionCode": "32",
+    "regionTvd": "100100225883495",
+    "regionName": "Брянская область",
+    "oikTvd": "100100225883496",
+    "oikName": "Брянская область – Брянский",
+    "district": {
+      "districtNumber": 77,
+      "oikTvd": "100100225883496"
+    }
   },
   {
     "uikNumber": 95,
     "uikTvd": "4324004419346",
     "tikTvd": "23220001386495",
-    "tikName": "Брянск, Советская"
+    "tikName": "Брянск, Советская",
+    "uikName": "УИК №95",
+    "regionCode": "32",
+    "regionTvd": "100100225883495",
+    "regionName": "Брянская область",
+    "oikTvd": "100100225883496",
+    "oikName": "Брянская область – Брянский",
+    "district": {
+      "districtNumber": 77,
+      "oikTvd": "100100225883496"
+    }
   },
   {
     "uikNumber": 96,
     "uikTvd": "4324004419347",
     "tikTvd": "23220001386495",
-    "tikName": "Брянск, Советская"
+    "tikName": "Брянск, Советская",
+    "uikName": "УИК №96",
+    "regionCode": "32",
+    "regionTvd": "100100225883495",
+    "regionName": "Брянская область",
+    "oikTvd": "100100225883496",
+    "oikName": "Брянская область – Брянский",
+    "district": {
+      "districtNumber": 77,
+      "oikTvd": "100100225883496"
+    }
   },
   {
     "uikNumber": 97,
     "uikTvd": "4324004419348",
     "tikTvd": "23220001386495",
-    "tikName": "Брянск, Советская"
+    "tikName": "Брянск, Советская",
+    "uikName": "УИК №97",
+    "regionCode": "32",
+    "regionTvd": "100100225883495",
+    "regionName": "Брянская область",
+    "oikTvd": "100100225883496",
+    "oikName": "Брянская область – Брянский",
+    "district": {
+      "districtNumber": 77,
+      "oikTvd": "100100225883496"
+    }
   },
   {
     "uikNumber": 98,
     "uikTvd": "4324004419349",
     "tikTvd": "23220001386495",
-    "tikName": "Брянск, Советская"
+    "tikName": "Брянск, Советская",
+    "uikName": "УИК №98",
+    "regionCode": "32",
+    "regionTvd": "100100225883495",
+    "regionName": "Брянская область",
+    "oikTvd": "100100225883496",
+    "oikName": "Брянская область – Брянский",
+    "district": {
+      "districtNumber": 77,
+      "oikTvd": "100100225883496"
+    }
   },
   {
     "uikNumber": 99,
     "uikTvd": "4324004419350",
     "tikTvd": "23220001386495",
-    "tikName": "Брянск, Советская"
+    "tikName": "Брянск, Советская",
+    "uikName": "УИК №99",
+    "regionCode": "32",
+    "regionTvd": "100100225883495",
+    "regionName": "Брянская область",
+    "oikTvd": "100100225883496",
+    "oikName": "Брянская область – Брянский",
+    "district": {
+      "districtNumber": 77,
+      "oikTvd": "100100225883496"
+    }
   },
   {
     "uikNumber": 100,
     "uikTvd": "4324004419351",
     "tikTvd": "23220001386495",
-    "tikName": "Брянск, Советская"
+    "tikName": "Брянск, Советская",
+    "uikName": "УИК №100",
+    "regionCode": "32",
+    "regionTvd": "100100225883495",
+    "regionName": "Брянская область",
+    "oikTvd": "100100225883496",
+    "oikName": "Брянская область – Брянский",
+    "district": {
+      "districtNumber": 77,
+      "oikTvd": "100100225883496"
+    }
   },
   {
     "uikNumber": 101,
     "uikTvd": "4324004419352",
     "tikTvd": "23220001386495",
-    "tikName": "Брянск, Советская"
+    "tikName": "Брянск, Советская",
+    "uikName": "УИК №101",
+    "regionCode": "32",
+    "regionTvd": "100100225883495",
+    "regionName": "Брянская область",
+    "oikTvd": "100100225883496",
+    "oikName": "Брянская область – Брянский",
+    "district": {
+      "districtNumber": 77,
+      "oikTvd": "100100225883496"
+    }
   },
   {
     "uikNumber": 102,
     "uikTvd": "4324004419353",
     "tikTvd": "23220001386495",
-    "tikName": "Брянск, Советская"
+    "tikName": "Брянск, Советская",
+    "uikName": "УИК №102",
+    "regionCode": "32",
+    "regionTvd": "100100225883495",
+    "regionName": "Брянская область",
+    "oikTvd": "100100225883496",
+    "oikName": "Брянская область – Брянский",
+    "district": {
+      "districtNumber": 77,
+      "oikTvd": "100100225883496"
+    }
   },
   {
     "uikNumber": 103,
     "uikTvd": "4324004419354",
     "tikTvd": "23220001386495",
-    "tikName": "Брянск, Советская"
+    "tikName": "Брянск, Советская",
+    "uikName": "УИК №103",
+    "regionCode": "32",
+    "regionTvd": "100100225883495",
+    "regionName": "Брянская область",
+    "oikTvd": "100100225883496",
+    "oikName": "Брянская область – Брянский",
+    "district": {
+      "districtNumber": 77,
+      "oikTvd": "100100225883496"
+    }
   },
   {
     "uikNumber": 104,
     "uikTvd": "4324002379545",
     "tikTvd": "23220001386516",
-    "tikName": "Брянск, Бежицкая"
+    "tikName": "Брянск, Бежицкая",
+    "uikName": "УИК №104",
+    "regionCode": "32",
+    "regionTvd": "100100225883495",
+    "regionName": "Брянская область",
+    "oikTvd": "100100225883497",
+    "oikName": "Брянская область – Унечский",
+    "district": {
+      "districtNumber": 78,
+      "oikTvd": "100100225883497"
+    }
   },
   {
     "uikNumber": 105,
     "uikTvd": "4324004419355",
     "tikTvd": "23220001386495",
-    "tikName": "Брянск, Советская"
+    "tikName": "Брянск, Советская",
+    "uikName": "УИК №105",
+    "regionCode": "32",
+    "regionTvd": "100100225883495",
+    "regionName": "Брянская область",
+    "oikTvd": "100100225883496",
+    "oikName": "Брянская область – Брянский",
+    "district": {
+      "districtNumber": 77,
+      "oikTvd": "100100225883496"
+    }
   },
   {
     "uikNumber": 106,
     "uikTvd": "4324004419356",
     "tikTvd": "23220001386495",
-    "tikName": "Брянск, Советская"
+    "tikName": "Брянск, Советская",
+    "uikName": "УИК №106",
+    "regionCode": "32",
+    "regionTvd": "100100225883495",
+    "regionName": "Брянская область",
+    "oikTvd": "100100225883496",
+    "oikName": "Брянская область – Брянский",
+    "district": {
+      "districtNumber": 77,
+      "oikTvd": "100100225883496"
+    }
   },
   {
     "uikNumber": 107,
     "uikTvd": "4324004420740",
     "tikTvd": "23220001386495",
-    "tikName": "Брянск, Советская"
+    "tikName": "Брянск, Советская",
+    "uikName": "УИК №107",
+    "regionCode": "32",
+    "regionTvd": "100100225883495",
+    "regionName": "Брянская область",
+    "oikTvd": "100100225883496",
+    "oikName": "Брянская область – Брянский",
+    "district": {
+      "districtNumber": 77,
+      "oikTvd": "100100225883496"
+    }
   },
   {
     "uikNumber": 108,
     "uikTvd": "4324004419357",
     "tikTvd": "23220001386495",
-    "tikName": "Брянск, Советская"
+    "tikName": "Брянск, Советская",
+    "uikName": "УИК №108",
+    "regionCode": "32",
+    "regionTvd": "100100225883495",
+    "regionName": "Брянская область",
+    "oikTvd": "100100225883496",
+    "oikName": "Брянская область – Брянский",
+    "district": {
+      "districtNumber": 77,
+      "oikTvd": "100100225883496"
+    }
   },
   {
     "uikNumber": 109,
     "uikTvd": "4324004419358",
     "tikTvd": "23220001386495",
-    "tikName": "Брянск, Советская"
+    "tikName": "Брянск, Советская",
+    "uikName": "УИК №109",
+    "regionCode": "32",
+    "regionTvd": "100100225883495",
+    "regionName": "Брянская область",
+    "oikTvd": "100100225883496",
+    "oikName": "Брянская область – Брянский",
+    "district": {
+      "districtNumber": 77,
+      "oikTvd": "100100225883496"
+    }
   },
   {
     "uikNumber": 110,
     "uikTvd": "4324004419359",
     "tikTvd": "23220001386495",
-    "tikName": "Брянск, Советская"
+    "tikName": "Брянск, Советская",
+    "uikName": "УИК №110",
+    "regionCode": "32",
+    "regionTvd": "100100225883495",
+    "regionName": "Брянская область",
+    "oikTvd": "100100225883496",
+    "oikName": "Брянская область – Брянский",
+    "district": {
+      "districtNumber": 77,
+      "oikTvd": "100100225883496"
+    }
   },
   {
     "uikNumber": 111,
     "uikTvd": "4324004419360",
     "tikTvd": "23220001386495",
-    "tikName": "Брянск, Советская"
+    "tikName": "Брянск, Советская",
+    "uikName": "УИК №111",
+    "regionCode": "32",
+    "regionTvd": "100100225883495",
+    "regionName": "Брянская область",
+    "oikTvd": "100100225883496",
+    "oikName": "Брянская область – Брянский",
+    "district": {
+      "districtNumber": 77,
+      "oikTvd": "100100225883496"
+    }
   },
   {
     "uikNumber": 112,
     "uikTvd": "4324004419361",
     "tikTvd": "23220001386495",
-    "tikName": "Брянск, Советская"
+    "tikName": "Брянск, Советская",
+    "uikName": "УИК №112",
+    "regionCode": "32",
+    "regionTvd": "100100225883495",
+    "regionName": "Брянская область",
+    "oikTvd": "100100225883496",
+    "oikName": "Брянская область – Брянский",
+    "district": {
+      "districtNumber": 77,
+      "oikTvd": "100100225883496"
+    }
   },
   {
     "uikNumber": 113,
     "uikTvd": "4324004419362",
     "tikTvd": "23220001386495",
-    "tikName": "Брянск, Советская"
+    "tikName": "Брянск, Советская",
+    "uikName": "УИК №113",
+    "regionCode": "32",
+    "regionTvd": "100100225883495",
+    "regionName": "Брянская область",
+    "oikTvd": "100100225883496",
+    "oikName": "Брянская область – Брянский",
+    "district": {
+      "districtNumber": 77,
+      "oikTvd": "100100225883496"
+    }
   },
   {
     "uikNumber": 114,
     "uikTvd": "4324004419363",
     "tikTvd": "23220001386495",
-    "tikName": "Брянск, Советская"
+    "tikName": "Брянск, Советская",
+    "uikName": "УИК №114",
+    "regionCode": "32",
+    "regionTvd": "100100225883495",
+    "regionName": "Брянская область",
+    "oikTvd": "100100225883496",
+    "oikName": "Брянская область – Брянский",
+    "district": {
+      "districtNumber": 77,
+      "oikTvd": "100100225883496"
+    }
   },
   {
     "uikNumber": 115,
     "uikTvd": "4324004419364",
     "tikTvd": "23220001386495",
-    "tikName": "Брянск, Советская"
+    "tikName": "Брянск, Советская",
+    "uikName": "УИК №115",
+    "regionCode": "32",
+    "regionTvd": "100100225883495",
+    "regionName": "Брянская область",
+    "oikTvd": "100100225883496",
+    "oikName": "Брянская область – Брянский",
+    "district": {
+      "districtNumber": 77,
+      "oikTvd": "100100225883496"
+    }
   },
   {
     "uikNumber": 116,
     "uikTvd": "4324004419365",
     "tikTvd": "23220001386495",
-    "tikName": "Брянск, Советская"
+    "tikName": "Брянск, Советская",
+    "uikName": "УИК №116",
+    "regionCode": "32",
+    "regionTvd": "100100225883495",
+    "regionName": "Брянская область",
+    "oikTvd": "100100225883496",
+    "oikName": "Брянская область – Брянский",
+    "district": {
+      "districtNumber": 77,
+      "oikTvd": "100100225883496"
+    }
   },
   {
     "uikNumber": 117,
     "uikTvd": "4324004419366",
     "tikTvd": "23220001386495",
-    "tikName": "Брянск, Советская"
+    "tikName": "Брянск, Советская",
+    "uikName": "УИК №117",
+    "regionCode": "32",
+    "regionTvd": "100100225883495",
+    "regionName": "Брянская область",
+    "oikTvd": "100100225883496",
+    "oikName": "Брянская область – Брянский",
+    "district": {
+      "districtNumber": 77,
+      "oikTvd": "100100225883496"
+    }
   },
   {
     "uikNumber": 118,
     "uikTvd": "4324004419367",
     "tikTvd": "23220001386495",
-    "tikName": "Брянск, Советская"
+    "tikName": "Брянск, Советская",
+    "uikName": "УИК №118",
+    "regionCode": "32",
+    "regionTvd": "100100225883495",
+    "regionName": "Брянская область",
+    "oikTvd": "100100225883496",
+    "oikName": "Брянская область – Брянский",
+    "district": {
+      "districtNumber": 77,
+      "oikTvd": "100100225883496"
+    }
   },
   {
     "uikNumber": 119,
     "uikTvd": "4324004419368",
     "tikTvd": "23220001386495",
-    "tikName": "Брянск, Советская"
+    "tikName": "Брянск, Советская",
+    "uikName": "УИК №119",
+    "regionCode": "32",
+    "regionTvd": "100100225883495",
+    "regionName": "Брянская область",
+    "oikTvd": "100100225883496",
+    "oikName": "Брянская область – Брянский",
+    "district": {
+      "districtNumber": 77,
+      "oikTvd": "100100225883496"
+    }
   },
   {
     "uikNumber": 120,
     "uikTvd": "4324004419369",
     "tikTvd": "23220001386495",
-    "tikName": "Брянск, Советская"
+    "tikName": "Брянск, Советская",
+    "uikName": "УИК №120",
+    "regionCode": "32",
+    "regionTvd": "100100225883495",
+    "regionName": "Брянская область",
+    "oikTvd": "100100225883496",
+    "oikName": "Брянская область – Брянский",
+    "district": {
+      "districtNumber": 77,
+      "oikTvd": "100100225883496"
+    }
   },
   {
     "uikNumber": 121,
     "uikTvd": "4324004419370",
     "tikTvd": "23220001386495",
-    "tikName": "Брянск, Советская"
+    "tikName": "Брянск, Советская",
+    "uikName": "УИК №121",
+    "regionCode": "32",
+    "regionTvd": "100100225883495",
+    "regionName": "Брянская область",
+    "oikTvd": "100100225883496",
+    "oikName": "Брянская область – Брянский",
+    "district": {
+      "districtNumber": 77,
+      "oikTvd": "100100225883496"
+    }
   },
   {
     "uikNumber": 123,
     "uikTvd": "4324004419371",
     "tikTvd": "23220001386495",
-    "tikName": "Брянск, Советская"
+    "tikName": "Брянск, Советская",
+    "uikName": "УИК №123",
+    "regionCode": "32",
+    "regionTvd": "100100225883495",
+    "regionName": "Брянская область",
+    "oikTvd": "100100225883496",
+    "oikName": "Брянская область – Брянский",
+    "district": {
+      "districtNumber": 77,
+      "oikTvd": "100100225883496"
+    }
   },
   {
     "uikNumber": 124,
     "uikTvd": "4324004419372",
     "tikTvd": "23220001386495",
-    "tikName": "Брянск, Советская"
+    "tikName": "Брянск, Советская",
+    "uikName": "УИК №124",
+    "regionCode": "32",
+    "regionTvd": "100100225883495",
+    "regionName": "Брянская область",
+    "oikTvd": "100100225883496",
+    "oikName": "Брянская область – Брянский",
+    "district": {
+      "districtNumber": 77,
+      "oikTvd": "100100225883496"
+    }
   },
   {
     "uikNumber": 125,
     "uikTvd": "4324004419373",
     "tikTvd": "23220001386495",
-    "tikName": "Брянск, Советская"
+    "tikName": "Брянск, Советская",
+    "uikName": "УИК №125",
+    "regionCode": "32",
+    "regionTvd": "100100225883495",
+    "regionName": "Брянская область",
+    "oikTvd": "100100225883496",
+    "oikName": "Брянская область – Брянский",
+    "district": {
+      "districtNumber": 77,
+      "oikTvd": "100100225883496"
+    }
   },
   {
     "uikNumber": 126,
     "uikTvd": "4324004419374",
     "tikTvd": "23220001386495",
-    "tikName": "Брянск, Советская"
+    "tikName": "Брянск, Советская",
+    "uikName": "УИК №126",
+    "regionCode": "32",
+    "regionTvd": "100100225883495",
+    "regionName": "Брянская область",
+    "oikTvd": "100100225883496",
+    "oikName": "Брянская область – Брянский",
+    "district": {
+      "districtNumber": 77,
+      "oikTvd": "100100225883496"
+    }
   },
   {
     "uikNumber": 127,
     "uikTvd": "4324004419375",
     "tikTvd": "23220001386495",
-    "tikName": "Брянск, Советская"
+    "tikName": "Брянск, Советская",
+    "uikName": "УИК №127",
+    "regionCode": "32",
+    "regionTvd": "100100225883495",
+    "regionName": "Брянская область",
+    "oikTvd": "100100225883496",
+    "oikName": "Брянская область – Брянский",
+    "district": {
+      "districtNumber": 77,
+      "oikTvd": "100100225883496"
+    }
   },
   {
     "uikNumber": 128,
     "uikTvd": "4324004419376",
     "tikTvd": "23220001386495",
-    "tikName": "Брянск, Советская"
+    "tikName": "Брянск, Советская",
+    "uikName": "УИК №128",
+    "regionCode": "32",
+    "regionTvd": "100100225883495",
+    "regionName": "Брянская область",
+    "oikTvd": "100100225883496",
+    "oikName": "Брянская область – Брянский",
+    "district": {
+      "districtNumber": 77,
+      "oikTvd": "100100225883496"
+    }
   },
   {
     "uikNumber": 129,
     "uikTvd": "4324004419377",
     "tikTvd": "23220001386495",
-    "tikName": "Брянск, Советская"
+    "tikName": "Брянск, Советская",
+    "uikName": "УИК №129",
+    "regionCode": "32",
+    "regionTvd": "100100225883495",
+    "regionName": "Брянская область",
+    "oikTvd": "100100225883496",
+    "oikName": "Брянская область – Брянский",
+    "district": {
+      "districtNumber": 77,
+      "oikTvd": "100100225883496"
+    }
   },
   {
     "uikNumber": 130,
     "uikTvd": "4324004419378",
     "tikTvd": "23220001386495",
-    "tikName": "Брянск, Советская"
+    "tikName": "Брянск, Советская",
+    "uikName": "УИК №130",
+    "regionCode": "32",
+    "regionTvd": "100100225883495",
+    "regionName": "Брянская область",
+    "oikTvd": "100100225883496",
+    "oikName": "Брянская область – Брянский",
+    "district": {
+      "districtNumber": 77,
+      "oikTvd": "100100225883496"
+    }
   },
   {
     "uikNumber": 131,
     "uikTvd": "4324004419379",
     "tikTvd": "23220001386495",
-    "tikName": "Брянск, Советская"
+    "tikName": "Брянск, Советская",
+    "uikName": "УИК №131",
+    "regionCode": "32",
+    "regionTvd": "100100225883495",
+    "regionName": "Брянская область",
+    "oikTvd": "100100225883496",
+    "oikName": "Брянская область – Брянский",
+    "district": {
+      "districtNumber": 77,
+      "oikTvd": "100100225883496"
+    }
   },
   {
     "uikNumber": 132,
     "uikTvd": "4324004419380",
     "tikTvd": "23220001386495",
-    "tikName": "Брянск, Советская"
+    "tikName": "Брянск, Советская",
+    "uikName": "УИК №132",
+    "regionCode": "32",
+    "regionTvd": "100100225883495",
+    "regionName": "Брянская область",
+    "oikTvd": "100100225883496",
+    "oikName": "Брянская область – Брянский",
+    "district": {
+      "districtNumber": 77,
+      "oikTvd": "100100225883496"
+    }
   },
   {
     "uikNumber": 133,
     "uikTvd": "4324004419381",
     "tikTvd": "23220001386495",
-    "tikName": "Брянск, Советская"
+    "tikName": "Брянск, Советская",
+    "uikName": "УИК №133",
+    "regionCode": "32",
+    "regionTvd": "100100225883495",
+    "regionName": "Брянская область",
+    "oikTvd": "100100225883496",
+    "oikName": "Брянская область – Брянский",
+    "district": {
+      "districtNumber": 77,
+      "oikTvd": "100100225883496"
+    }
   },
   {
     "uikNumber": 134,
     "uikTvd": "4324004419382",
     "tikTvd": "23220001386495",
-    "tikName": "Брянск, Советская"
+    "tikName": "Брянск, Советская",
+    "uikName": "УИК №134",
+    "regionCode": "32",
+    "regionTvd": "100100225883495",
+    "regionName": "Брянская область",
+    "oikTvd": "100100225883496",
+    "oikName": "Брянская область – Брянский",
+    "district": {
+      "districtNumber": 77,
+      "oikTvd": "100100225883496"
+    }
   },
   {
     "uikNumber": 135,
     "uikTvd": "4324004419383",
     "tikTvd": "23220001386495",
-    "tikName": "Брянск, Советская"
+    "tikName": "Брянск, Советская",
+    "uikName": "УИК №135",
+    "regionCode": "32",
+    "regionTvd": "100100225883495",
+    "regionName": "Брянская область",
+    "oikTvd": "100100225883496",
+    "oikName": "Брянская область – Брянский",
+    "district": {
+      "districtNumber": 77,
+      "oikTvd": "100100225883496"
+    }
   },
   {
     "uikNumber": 136,
     "uikTvd": "4324004419384",
     "tikTvd": "23220001386495",
-    "tikName": "Брянск, Советская"
+    "tikName": "Брянск, Советская",
+    "uikName": "УИК №136",
+    "regionCode": "32",
+    "regionTvd": "100100225883495",
+    "regionName": "Брянская область",
+    "oikTvd": "100100225883496",
+    "oikName": "Брянская область – Брянский",
+    "district": {
+      "districtNumber": 77,
+      "oikTvd": "100100225883496"
+    }
   },
   {
     "uikNumber": 137,
     "uikTvd": "4324004419385",
     "tikTvd": "23220001386495",
-    "tikName": "Брянск, Советская"
+    "tikName": "Брянск, Советская",
+    "uikName": "УИК №137",
+    "regionCode": "32",
+    "regionTvd": "100100225883495",
+    "regionName": "Брянская область",
+    "oikTvd": "100100225883496",
+    "oikName": "Брянская область – Брянский",
+    "district": {
+      "districtNumber": 77,
+      "oikTvd": "100100225883496"
+    }
   },
   {
     "uikNumber": 138,
     "uikTvd": "4324004419386",
     "tikTvd": "23220001386495",
-    "tikName": "Брянск, Советская"
+    "tikName": "Брянск, Советская",
+    "uikName": "УИК №138",
+    "regionCode": "32",
+    "regionTvd": "100100225883495",
+    "regionName": "Брянская область",
+    "oikTvd": "100100225883496",
+    "oikName": "Брянская область – Брянский",
+    "district": {
+      "districtNumber": 77,
+      "oikTvd": "100100225883496"
+    }
   },
   {
     "uikNumber": 139,
     "uikTvd": "4324004419387",
     "tikTvd": "23220001386495",
-    "tikName": "Брянск, Советская"
+    "tikName": "Брянск, Советская",
+    "uikName": "УИК №139",
+    "regionCode": "32",
+    "regionTvd": "100100225883495",
+    "regionName": "Брянская область",
+    "oikTvd": "100100225883496",
+    "oikName": "Брянская область – Брянский",
+    "district": {
+      "districtNumber": 77,
+      "oikTvd": "100100225883496"
+    }
   },
   {
     "uikNumber": 140,
     "uikTvd": "4324004419388",
     "tikTvd": "23220001386495",
-    "tikName": "Брянск, Советская"
+    "tikName": "Брянск, Советская",
+    "uikName": "УИК №140",
+    "regionCode": "32",
+    "regionTvd": "100100225883495",
+    "regionName": "Брянская область",
+    "oikTvd": "100100225883496",
+    "oikName": "Брянская область – Брянский",
+    "district": {
+      "districtNumber": 77,
+      "oikTvd": "100100225883496"
+    }
   },
   {
     "uikNumber": 141,
     "uikTvd": "4324005298775",
     "tikTvd": "23220001386496",
-    "tikName": "Брянск, Фокинская"
+    "tikName": "Брянск, Фокинская",
+    "uikName": "УИК №141",
+    "regionCode": "32",
+    "regionTvd": "100100225883495",
+    "regionName": "Брянская область",
+    "oikTvd": "100100225883496",
+    "oikName": "Брянская область – Брянский",
+    "district": {
+      "districtNumber": 77,
+      "oikTvd": "100100225883496"
+    }
   },
   {
     "uikNumber": 142,
     "uikTvd": "4324005298776",
     "tikTvd": "23220001386496",
-    "tikName": "Брянск, Фокинская"
+    "tikName": "Брянск, Фокинская",
+    "uikName": "УИК №142",
+    "regionCode": "32",
+    "regionTvd": "100100225883495",
+    "regionName": "Брянская область",
+    "oikTvd": "100100225883496",
+    "oikName": "Брянская область – Брянский",
+    "district": {
+      "districtNumber": 77,
+      "oikTvd": "100100225883496"
+    }
   },
   {
     "uikNumber": 143,
     "uikTvd": "4324005298777",
     "tikTvd": "23220001386496",
-    "tikName": "Брянск, Фокинская"
+    "tikName": "Брянск, Фокинская",
+    "uikName": "УИК №143",
+    "regionCode": "32",
+    "regionTvd": "100100225883495",
+    "regionName": "Брянская область",
+    "oikTvd": "100100225883496",
+    "oikName": "Брянская область – Брянский",
+    "district": {
+      "districtNumber": 77,
+      "oikTvd": "100100225883496"
+    }
   },
   {
     "uikNumber": 144,
     "uikTvd": "4324005298778",
     "tikTvd": "23220001386496",
-    "tikName": "Брянск, Фокинская"
+    "tikName": "Брянск, Фокинская",
+    "uikName": "УИК №144",
+    "regionCode": "32",
+    "regionTvd": "100100225883495",
+    "regionName": "Брянская область",
+    "oikTvd": "100100225883496",
+    "oikName": "Брянская область – Брянский",
+    "district": {
+      "districtNumber": 77,
+      "oikTvd": "100100225883496"
+    }
   },
   {
     "uikNumber": 145,
     "uikTvd": "4324005298779",
     "tikTvd": "23220001386496",
-    "tikName": "Брянск, Фокинская"
+    "tikName": "Брянск, Фокинская",
+    "uikName": "УИК №145",
+    "regionCode": "32",
+    "regionTvd": "100100225883495",
+    "regionName": "Брянская область",
+    "oikTvd": "100100225883496",
+    "oikName": "Брянская область – Брянский",
+    "district": {
+      "districtNumber": 77,
+      "oikTvd": "100100225883496"
+    }
   },
   {
     "uikNumber": 146,
     "uikTvd": "4324005298780",
     "tikTvd": "23220001386496",
-    "tikName": "Брянск, Фокинская"
+    "tikName": "Брянск, Фокинская",
+    "uikName": "УИК №146",
+    "regionCode": "32",
+    "regionTvd": "100100225883495",
+    "regionName": "Брянская область",
+    "oikTvd": "100100225883496",
+    "oikName": "Брянская область – Брянский",
+    "district": {
+      "districtNumber": 77,
+      "oikTvd": "100100225883496"
+    }
   },
   {
     "uikNumber": 147,
     "uikTvd": "4324005298781",
     "tikTvd": "23220001386496",
-    "tikName": "Брянск, Фокинская"
+    "tikName": "Брянск, Фокинская",
+    "uikName": "УИК №147",
+    "regionCode": "32",
+    "regionTvd": "100100225883495",
+    "regionName": "Брянская область",
+    "oikTvd": "100100225883496",
+    "oikName": "Брянская область – Брянский",
+    "district": {
+      "districtNumber": 77,
+      "oikTvd": "100100225883496"
+    }
   },
   {
     "uikNumber": 148,
     "uikTvd": "4324005298782",
     "tikTvd": "23220001386496",
-    "tikName": "Брянск, Фокинская"
+    "tikName": "Брянск, Фокинская",
+    "uikName": "УИК №148",
+    "regionCode": "32",
+    "regionTvd": "100100225883495",
+    "regionName": "Брянская область",
+    "oikTvd": "100100225883496",
+    "oikName": "Брянская область – Брянский",
+    "district": {
+      "districtNumber": 77,
+      "oikTvd": "100100225883496"
+    }
   },
   {
     "uikNumber": 149,
     "uikTvd": "4324005298783",
     "tikTvd": "23220001386496",
-    "tikName": "Брянск, Фокинская"
+    "tikName": "Брянск, Фокинская",
+    "uikName": "УИК №149",
+    "regionCode": "32",
+    "regionTvd": "100100225883495",
+    "regionName": "Брянская область",
+    "oikTvd": "100100225883496",
+    "oikName": "Брянская область – Брянский",
+    "district": {
+      "districtNumber": 77,
+      "oikTvd": "100100225883496"
+    }
   },
   {
     "uikNumber": 150,
     "uikTvd": "4324005298784",
     "tikTvd": "23220001386496",
-    "tikName": "Брянск, Фокинская"
+    "tikName": "Брянск, Фокинская",
+    "uikName": "УИК №150",
+    "regionCode": "32",
+    "regionTvd": "100100225883495",
+    "regionName": "Брянская область",
+    "oikTvd": "100100225883496",
+    "oikName": "Брянская область – Брянский",
+    "district": {
+      "districtNumber": 77,
+      "oikTvd": "100100225883496"
+    }
   },
   {
     "uikNumber": 151,
     "uikTvd": "4324005298785",
     "tikTvd": "23220001386496",
-    "tikName": "Брянск, Фокинская"
+    "tikName": "Брянск, Фокинская",
+    "uikName": "УИК №151",
+    "regionCode": "32",
+    "regionTvd": "100100225883495",
+    "regionName": "Брянская область",
+    "oikTvd": "100100225883496",
+    "oikName": "Брянская область – Брянский",
+    "district": {
+      "districtNumber": 77,
+      "oikTvd": "100100225883496"
+    }
   },
   {
     "uikNumber": 152,
     "uikTvd": "4324005298786",
     "tikTvd": "23220001386496",
-    "tikName": "Брянск, Фокинская"
+    "tikName": "Брянск, Фокинская",
+    "uikName": "УИК №152",
+    "regionCode": "32",
+    "regionTvd": "100100225883495",
+    "regionName": "Брянская область",
+    "oikTvd": "100100225883496",
+    "oikName": "Брянская область – Брянский",
+    "district": {
+      "districtNumber": 77,
+      "oikTvd": "100100225883496"
+    }
   },
   {
     "uikNumber": 153,
     "uikTvd": "4324005298787",
     "tikTvd": "23220001386496",
-    "tikName": "Брянск, Фокинская"
+    "tikName": "Брянск, Фокинская",
+    "uikName": "УИК №153",
+    "regionCode": "32",
+    "regionTvd": "100100225883495",
+    "regionName": "Брянская область",
+    "oikTvd": "100100225883496",
+    "oikName": "Брянская область – Брянский",
+    "district": {
+      "districtNumber": 77,
+      "oikTvd": "100100225883496"
+    }
   },
   {
     "uikNumber": 154,
     "uikTvd": "4324005298788",
     "tikTvd": "23220001386496",
-    "tikName": "Брянск, Фокинская"
+    "tikName": "Брянск, Фокинская",
+    "uikName": "УИК №154",
+    "regionCode": "32",
+    "regionTvd": "100100225883495",
+    "regionName": "Брянская область",
+    "oikTvd": "100100225883496",
+    "oikName": "Брянская область – Брянский",
+    "district": {
+      "districtNumber": 77,
+      "oikTvd": "100100225883496"
+    }
   },
   {
     "uikNumber": 155,
     "uikTvd": "4324005298789",
     "tikTvd": "23220001386496",
-    "tikName": "Брянск, Фокинская"
+    "tikName": "Брянск, Фокинская",
+    "uikName": "УИК №155",
+    "regionCode": "32",
+    "regionTvd": "100100225883495",
+    "regionName": "Брянская область",
+    "oikTvd": "100100225883496",
+    "oikName": "Брянская область – Брянский",
+    "district": {
+      "districtNumber": 77,
+      "oikTvd": "100100225883496"
+    }
   },
   {
     "uikNumber": 156,
     "uikTvd": "4324005298790",
     "tikTvd": "23220001386496",
-    "tikName": "Брянск, Фокинская"
+    "tikName": "Брянск, Фокинская",
+    "uikName": "УИК №156",
+    "regionCode": "32",
+    "regionTvd": "100100225883495",
+    "regionName": "Брянская область",
+    "oikTvd": "100100225883496",
+    "oikName": "Брянская область – Брянский",
+    "district": {
+      "districtNumber": 77,
+      "oikTvd": "100100225883496"
+    }
   },
   {
     "uikNumber": 157,
     "uikTvd": "4324005298791",
     "tikTvd": "23220001386496",
-    "tikName": "Брянск, Фокинская"
+    "tikName": "Брянск, Фокинская",
+    "uikName": "УИК №157",
+    "regionCode": "32",
+    "regionTvd": "100100225883495",
+    "regionName": "Брянская область",
+    "oikTvd": "100100225883496",
+    "oikName": "Брянская область – Брянский",
+    "district": {
+      "districtNumber": 77,
+      "oikTvd": "100100225883496"
+    }
   },
   {
     "uikNumber": 158,
     "uikTvd": "4324005298792",
     "tikTvd": "23220001386496",
-    "tikName": "Брянск, Фокинская"
+    "tikName": "Брянск, Фокинская",
+    "uikName": "УИК №158",
+    "regionCode": "32",
+    "regionTvd": "100100225883495",
+    "regionName": "Брянская область",
+    "oikTvd": "100100225883496",
+    "oikName": "Брянская область – Брянский",
+    "district": {
+      "districtNumber": 77,
+      "oikTvd": "100100225883496"
+    }
   },
   {
     "uikNumber": 159,
     "uikTvd": "4324005298793",
     "tikTvd": "23220001386496",
-    "tikName": "Брянск, Фокинская"
+    "tikName": "Брянск, Фокинская",
+    "uikName": "УИК №159",
+    "regionCode": "32",
+    "regionTvd": "100100225883495",
+    "regionName": "Брянская область",
+    "oikTvd": "100100225883496",
+    "oikName": "Брянская область – Брянский",
+    "district": {
+      "districtNumber": 77,
+      "oikTvd": "100100225883496"
+    }
   },
   {
     "uikNumber": 160,
     "uikTvd": "4324005298794",
     "tikTvd": "23220001386496",
-    "tikName": "Брянск, Фокинская"
+    "tikName": "Брянск, Фокинская",
+    "uikName": "УИК №160",
+    "regionCode": "32",
+    "regionTvd": "100100225883495",
+    "regionName": "Брянская область",
+    "oikTvd": "100100225883496",
+    "oikName": "Брянская область – Брянский",
+    "district": {
+      "districtNumber": 77,
+      "oikTvd": "100100225883496"
+    }
   },
   {
     "uikNumber": 161,
     "uikTvd": "4324005298795",
     "tikTvd": "23220001386496",
-    "tikName": "Брянск, Фокинская"
+    "tikName": "Брянск, Фокинская",
+    "uikName": "УИК №161",
+    "regionCode": "32",
+    "regionTvd": "100100225883495",
+    "regionName": "Брянская область",
+    "oikTvd": "100100225883496",
+    "oikName": "Брянская область – Брянский",
+    "district": {
+      "districtNumber": 77,
+      "oikTvd": "100100225883496"
+    }
   },
   {
     "uikNumber": 162,
     "uikTvd": "4324005298796",
     "tikTvd": "23220001386496",
-    "tikName": "Брянск, Фокинская"
+    "tikName": "Брянск, Фокинская",
+    "uikName": "УИК №162",
+    "regionCode": "32",
+    "regionTvd": "100100225883495",
+    "regionName": "Брянская область",
+    "oikTvd": "100100225883496",
+    "oikName": "Брянская область – Брянский",
+    "district": {
+      "districtNumber": 77,
+      "oikTvd": "100100225883496"
+    }
   },
   {
     "uikNumber": 163,
     "uikTvd": "4324005298797",
     "tikTvd": "23220001386496",
-    "tikName": "Брянск, Фокинская"
+    "tikName": "Брянск, Фокинская",
+    "uikName": "УИК №163",
+    "regionCode": "32",
+    "regionTvd": "100100225883495",
+    "regionName": "Брянская область",
+    "oikTvd": "100100225883496",
+    "oikName": "Брянская область – Брянский",
+    "district": {
+      "districtNumber": 77,
+      "oikTvd": "100100225883496"
+    }
   },
   {
     "uikNumber": 164,
     "uikTvd": "4324005298798",
     "tikTvd": "23220001386496",
-    "tikName": "Брянск, Фокинская"
+    "tikName": "Брянск, Фокинская",
+    "uikName": "УИК №164",
+    "regionCode": "32",
+    "regionTvd": "100100225883495",
+    "regionName": "Брянская область",
+    "oikTvd": "100100225883496",
+    "oikName": "Брянская область – Брянский",
+    "district": {
+      "districtNumber": 77,
+      "oikTvd": "100100225883496"
+    }
   },
   {
     "uikNumber": 165,
     "uikTvd": "4324005298799",
     "tikTvd": "23220001386496",
-    "tikName": "Брянск, Фокинская"
+    "tikName": "Брянск, Фокинская",
+    "uikName": "УИК №165",
+    "regionCode": "32",
+    "regionTvd": "100100225883495",
+    "regionName": "Брянская область",
+    "oikTvd": "100100225883496",
+    "oikName": "Брянская область – Брянский",
+    "district": {
+      "districtNumber": 77,
+      "oikTvd": "100100225883496"
+    }
   },
   {
     "uikNumber": 166,
     "uikTvd": "4324005298800",
     "tikTvd": "23220001386496",
-    "tikName": "Брянск, Фокинская"
+    "tikName": "Брянск, Фокинская",
+    "uikName": "УИК №166",
+    "regionCode": "32",
+    "regionTvd": "100100225883495",
+    "regionName": "Брянская область",
+    "oikTvd": "100100225883496",
+    "oikName": "Брянская область – Брянский",
+    "district": {
+      "districtNumber": 77,
+      "oikTvd": "100100225883496"
+    }
   },
   {
     "uikNumber": 167,
     "uikTvd": "4324005298801",
     "tikTvd": "23220001386496",
-    "tikName": "Брянск, Фокинская"
+    "tikName": "Брянск, Фокинская",
+    "uikName": "УИК №167",
+    "regionCode": "32",
+    "regionTvd": "100100225883495",
+    "regionName": "Брянская область",
+    "oikTvd": "100100225883496",
+    "oikName": "Брянская область – Брянский",
+    "district": {
+      "districtNumber": 77,
+      "oikTvd": "100100225883496"
+    }
   },
   {
     "uikNumber": 168,
     "uikTvd": "4324005298802",
     "tikTvd": "23220001386496",
-    "tikName": "Брянск, Фокинская"
+    "tikName": "Брянск, Фокинская",
+    "uikName": "УИК №168",
+    "regionCode": "32",
+    "regionTvd": "100100225883495",
+    "regionName": "Брянская область",
+    "oikTvd": "100100225883496",
+    "oikName": "Брянская область – Брянский",
+    "district": {
+      "districtNumber": 77,
+      "oikTvd": "100100225883496"
+    }
   },
   {
     "uikNumber": 169,
     "uikTvd": "4324005298803",
     "tikTvd": "23220001386496",
-    "tikName": "Брянск, Фокинская"
+    "tikName": "Брянск, Фокинская",
+    "uikName": "УИК №169",
+    "regionCode": "32",
+    "regionTvd": "100100225883495",
+    "regionName": "Брянская область",
+    "oikTvd": "100100225883496",
+    "oikName": "Брянская область – Брянский",
+    "district": {
+      "districtNumber": 77,
+      "oikTvd": "100100225883496"
+    }
   },
   {
     "uikNumber": 170,
     "uikTvd": "4324005298804",
     "tikTvd": "23220001386496",
-    "tikName": "Брянск, Фокинская"
+    "tikName": "Брянск, Фокинская",
+    "uikName": "УИК №170",
+    "regionCode": "32",
+    "regionTvd": "100100225883495",
+    "regionName": "Брянская область",
+    "oikTvd": "100100225883496",
+    "oikName": "Брянская область – Брянский",
+    "district": {
+      "districtNumber": 77,
+      "oikTvd": "100100225883496"
+    }
   },
   {
     "uikNumber": 171,
     "uikTvd": "4324005298805",
     "tikTvd": "23220001386496",
-    "tikName": "Брянск, Фокинская"
+    "tikName": "Брянск, Фокинская",
+    "uikName": "УИК №171",
+    "regionCode": "32",
+    "regionTvd": "100100225883495",
+    "regionName": "Брянская область",
+    "oikTvd": "100100225883496",
+    "oikName": "Брянская область – Брянский",
+    "district": {
+      "districtNumber": 77,
+      "oikTvd": "100100225883496"
+    }
   },
   {
     "uikNumber": 172,
     "uikTvd": "4324001365652",
     "tikTvd": "23220001386494",
-    "tikName": "Брасовская"
+    "tikName": "Брасовская",
+    "uikName": "УИК №172",
+    "regionCode": "32",
+    "regionTvd": "100100225883495",
+    "regionName": "Брянская область",
+    "oikTvd": "100100225883496",
+    "oikName": "Брянская область – Брянский",
+    "district": {
+      "districtNumber": 77,
+      "oikTvd": "100100225883496"
+    }
   },
   {
     "uikNumber": 173,
     "uikTvd": "4324001365653",
     "tikTvd": "23220001386494",
-    "tikName": "Брасовская"
+    "tikName": "Брасовская",
+    "uikName": "УИК №173",
+    "regionCode": "32",
+    "regionTvd": "100100225883495",
+    "regionName": "Брянская область",
+    "oikTvd": "100100225883496",
+    "oikName": "Брянская область – Брянский",
+    "district": {
+      "districtNumber": 77,
+      "oikTvd": "100100225883496"
+    }
   },
   {
     "uikNumber": 174,
     "uikTvd": "4324001365654",
     "tikTvd": "23220001386494",
-    "tikName": "Брасовская"
+    "tikName": "Брасовская",
+    "uikName": "УИК №174",
+    "regionCode": "32",
+    "regionTvd": "100100225883495",
+    "regionName": "Брянская область",
+    "oikTvd": "100100225883496",
+    "oikName": "Брянская область – Брянский",
+    "district": {
+      "districtNumber": 77,
+      "oikTvd": "100100225883496"
+    }
   },
   {
     "uikNumber": 175,
     "uikTvd": "4324001365655",
     "tikTvd": "23220001386494",
-    "tikName": "Брасовская"
+    "tikName": "Брасовская",
+    "uikName": "УИК №175",
+    "regionCode": "32",
+    "regionTvd": "100100225883495",
+    "regionName": "Брянская область",
+    "oikTvd": "100100225883496",
+    "oikName": "Брянская область – Брянский",
+    "district": {
+      "districtNumber": 77,
+      "oikTvd": "100100225883496"
+    }
   },
   {
     "uikNumber": 176,
     "uikTvd": "4324001365656",
     "tikTvd": "23220001386494",
-    "tikName": "Брасовская"
+    "tikName": "Брасовская",
+    "uikName": "УИК №176",
+    "regionCode": "32",
+    "regionTvd": "100100225883495",
+    "regionName": "Брянская область",
+    "oikTvd": "100100225883496",
+    "oikName": "Брянская область – Брянский",
+    "district": {
+      "districtNumber": 77,
+      "oikTvd": "100100225883496"
+    }
   },
   {
     "uikNumber": 177,
     "uikTvd": "4324001365657",
     "tikTvd": "23220001386494",
-    "tikName": "Брасовская"
+    "tikName": "Брасовская",
+    "uikName": "УИК №177",
+    "regionCode": "32",
+    "regionTvd": "100100225883495",
+    "regionName": "Брянская область",
+    "oikTvd": "100100225883496",
+    "oikName": "Брянская область – Брянский",
+    "district": {
+      "districtNumber": 77,
+      "oikTvd": "100100225883496"
+    }
   },
   {
     "uikNumber": 178,
     "uikTvd": "4324001365658",
     "tikTvd": "23220001386494",
-    "tikName": "Брасовская"
+    "tikName": "Брасовская",
+    "uikName": "УИК №178",
+    "regionCode": "32",
+    "regionTvd": "100100225883495",
+    "regionName": "Брянская область",
+    "oikTvd": "100100225883496",
+    "oikName": "Брянская область – Брянский",
+    "district": {
+      "districtNumber": 77,
+      "oikTvd": "100100225883496"
+    }
   },
   {
     "uikNumber": 179,
     "uikTvd": "4324001365659",
     "tikTvd": "23220001386494",
-    "tikName": "Брасовская"
+    "tikName": "Брасовская",
+    "uikName": "УИК №179",
+    "regionCode": "32",
+    "regionTvd": "100100225883495",
+    "regionName": "Брянская область",
+    "oikTvd": "100100225883496",
+    "oikName": "Брянская область – Брянский",
+    "district": {
+      "districtNumber": 77,
+      "oikTvd": "100100225883496"
+    }
   },
   {
     "uikNumber": 180,
     "uikTvd": "4324001365660",
     "tikTvd": "23220001386494",
-    "tikName": "Брасовская"
+    "tikName": "Брасовская",
+    "uikName": "УИК №180",
+    "regionCode": "32",
+    "regionTvd": "100100225883495",
+    "regionName": "Брянская область",
+    "oikTvd": "100100225883496",
+    "oikName": "Брянская область – Брянский",
+    "district": {
+      "districtNumber": 77,
+      "oikTvd": "100100225883496"
+    }
   },
   {
     "uikNumber": 181,
     "uikTvd": "4324001365661",
     "tikTvd": "23220001386494",
-    "tikName": "Брасовская"
+    "tikName": "Брасовская",
+    "uikName": "УИК №181",
+    "regionCode": "32",
+    "regionTvd": "100100225883495",
+    "regionName": "Брянская область",
+    "oikTvd": "100100225883496",
+    "oikName": "Брянская область – Брянский",
+    "district": {
+      "districtNumber": 77,
+      "oikTvd": "100100225883496"
+    }
   },
   {
     "uikNumber": 183,
     "uikTvd": "4324001365662",
     "tikTvd": "23220001386494",
-    "tikName": "Брасовская"
+    "tikName": "Брасовская",
+    "uikName": "УИК №183",
+    "regionCode": "32",
+    "regionTvd": "100100225883495",
+    "regionName": "Брянская область",
+    "oikTvd": "100100225883496",
+    "oikName": "Брянская область – Брянский",
+    "district": {
+      "districtNumber": 77,
+      "oikTvd": "100100225883496"
+    }
   },
   {
     "uikNumber": 184,
     "uikTvd": "4324001365663",
     "tikTvd": "23220001386494",
-    "tikName": "Брасовская"
+    "tikName": "Брасовская",
+    "uikName": "УИК №184",
+    "regionCode": "32",
+    "regionTvd": "100100225883495",
+    "regionName": "Брянская область",
+    "oikTvd": "100100225883496",
+    "oikName": "Брянская область – Брянский",
+    "district": {
+      "districtNumber": 77,
+      "oikTvd": "100100225883496"
+    }
   },
   {
     "uikNumber": 185,
     "uikTvd": "4324001365664",
     "tikTvd": "23220001386494",
-    "tikName": "Брасовская"
+    "tikName": "Брасовская",
+    "uikName": "УИК №185",
+    "regionCode": "32",
+    "regionTvd": "100100225883495",
+    "regionName": "Брянская область",
+    "oikTvd": "100100225883496",
+    "oikName": "Брянская область – Брянский",
+    "district": {
+      "districtNumber": 77,
+      "oikTvd": "100100225883496"
+    }
   },
   {
     "uikNumber": 186,
     "uikTvd": "4324001365665",
     "tikTvd": "23220001386494",
-    "tikName": "Брасовская"
+    "tikName": "Брасовская",
+    "uikName": "УИК №186",
+    "regionCode": "32",
+    "regionTvd": "100100225883495",
+    "regionName": "Брянская область",
+    "oikTvd": "100100225883496",
+    "oikName": "Брянская область – Брянский",
+    "district": {
+      "districtNumber": 77,
+      "oikTvd": "100100225883496"
+    }
   },
   {
     "uikNumber": 187,
     "uikTvd": "4324001365666",
     "tikTvd": "23220001386494",
-    "tikName": "Брасовская"
+    "tikName": "Брасовская",
+    "uikName": "УИК №187",
+    "regionCode": "32",
+    "regionTvd": "100100225883495",
+    "regionName": "Брянская область",
+    "oikTvd": "100100225883496",
+    "oikName": "Брянская область – Брянский",
+    "district": {
+      "districtNumber": 77,
+      "oikTvd": "100100225883496"
+    }
   },
   {
     "uikNumber": 189,
     "uikTvd": "4324001365667",
     "tikTvd": "23220001386494",
-    "tikName": "Брасовская"
+    "tikName": "Брасовская",
+    "uikName": "УИК №189",
+    "regionCode": "32",
+    "regionTvd": "100100225883495",
+    "regionName": "Брянская область",
+    "oikTvd": "100100225883496",
+    "oikName": "Брянская область – Брянский",
+    "district": {
+      "districtNumber": 77,
+      "oikTvd": "100100225883496"
+    }
   },
   {
     "uikNumber": 190,
     "uikTvd": "4324001365668",
     "tikTvd": "23220001386494",
-    "tikName": "Брасовская"
+    "tikName": "Брасовская",
+    "uikName": "УИК №190",
+    "regionCode": "32",
+    "regionTvd": "100100225883495",
+    "regionName": "Брянская область",
+    "oikTvd": "100100225883496",
+    "oikName": "Брянская область – Брянский",
+    "district": {
+      "districtNumber": 77,
+      "oikTvd": "100100225883496"
+    }
   },
   {
     "uikNumber": 191,
     "uikTvd": "4324001365669",
     "tikTvd": "23220001386494",
-    "tikName": "Брасовская"
+    "tikName": "Брасовская",
+    "uikName": "УИК №191",
+    "regionCode": "32",
+    "regionTvd": "100100225883495",
+    "regionName": "Брянская область",
+    "oikTvd": "100100225883496",
+    "oikName": "Брянская область – Брянский",
+    "district": {
+      "districtNumber": 77,
+      "oikTvd": "100100225883496"
+    }
   },
   {
     "uikNumber": 192,
     "uikTvd": "4324001365670",
     "tikTvd": "23220001386494",
-    "tikName": "Брасовская"
+    "tikName": "Брасовская",
+    "uikName": "УИК №192",
+    "regionCode": "32",
+    "regionTvd": "100100225883495",
+    "regionName": "Брянская область",
+    "oikTvd": "100100225883496",
+    "oikName": "Брянская область – Брянский",
+    "district": {
+      "districtNumber": 77,
+      "oikTvd": "100100225883496"
+    }
   },
   {
     "uikNumber": 193,
     "uikTvd": "4324001365671",
     "tikTvd": "23220001386494",
-    "tikName": "Брасовская"
+    "tikName": "Брасовская",
+    "uikName": "УИК №193",
+    "regionCode": "32",
+    "regionTvd": "100100225883495",
+    "regionName": "Брянская область",
+    "oikTvd": "100100225883496",
+    "oikName": "Брянская область – Брянский",
+    "district": {
+      "districtNumber": 77,
+      "oikTvd": "100100225883496"
+    }
   },
   {
     "uikNumber": 194,
     "uikTvd": "4324001365672",
     "tikTvd": "23220001386494",
-    "tikName": "Брасовская"
+    "tikName": "Брасовская",
+    "uikName": "УИК №194",
+    "regionCode": "32",
+    "regionTvd": "100100225883495",
+    "regionName": "Брянская область",
+    "oikTvd": "100100225883496",
+    "oikName": "Брянская область – Брянский",
+    "district": {
+      "districtNumber": 77,
+      "oikTvd": "100100225883496"
+    }
   },
   {
     "uikNumber": 195,
     "uikTvd": "4324001365673",
     "tikTvd": "23220001386494",
-    "tikName": "Брасовская"
+    "tikName": "Брасовская",
+    "uikName": "УИК №195",
+    "regionCode": "32",
+    "regionTvd": "100100225883495",
+    "regionName": "Брянская область",
+    "oikTvd": "100100225883496",
+    "oikName": "Брянская область – Брянский",
+    "district": {
+      "districtNumber": 77,
+      "oikTvd": "100100225883496"
+    }
   },
   {
     "uikNumber": 196,
     "uikTvd": "4324001365674",
     "tikTvd": "23220001386494",
-    "tikName": "Брасовская"
+    "tikName": "Брасовская",
+    "uikName": "УИК №196",
+    "regionCode": "32",
+    "regionTvd": "100100225883495",
+    "regionName": "Брянская область",
+    "oikTvd": "100100225883496",
+    "oikName": "Брянская область – Брянский",
+    "district": {
+      "districtNumber": 77,
+      "oikTvd": "100100225883496"
+    }
   },
   {
     "uikNumber": 197,
     "uikTvd": "4324001365675",
     "tikTvd": "23220001386494",
-    "tikName": "Брасовская"
+    "tikName": "Брасовская",
+    "uikName": "УИК №197",
+    "regionCode": "32",
+    "regionTvd": "100100225883495",
+    "regionName": "Брянская область",
+    "oikTvd": "100100225883496",
+    "oikName": "Брянская область – Брянский",
+    "district": {
+      "districtNumber": 77,
+      "oikTvd": "100100225883496"
+    }
   },
   {
     "uikNumber": 198,
     "uikTvd": "4324001365676",
     "tikTvd": "23220001386494",
-    "tikName": "Брасовская"
+    "tikName": "Брасовская",
+    "uikName": "УИК №198",
+    "regionCode": "32",
+    "regionTvd": "100100225883495",
+    "regionName": "Брянская область",
+    "oikTvd": "100100225883496",
+    "oikName": "Брянская область – Брянский",
+    "district": {
+      "districtNumber": 77,
+      "oikTvd": "100100225883496"
+    }
   },
   {
     "uikNumber": 199,
     "uikTvd": "4324001365677",
     "tikTvd": "23220001386494",
-    "tikName": "Брасовская"
+    "tikName": "Брасовская",
+    "uikName": "УИК №199",
+    "regionCode": "32",
+    "regionTvd": "100100225883495",
+    "regionName": "Брянская область",
+    "oikTvd": "100100225883496",
+    "oikName": "Брянская область – Брянский",
+    "district": {
+      "districtNumber": 77,
+      "oikTvd": "100100225883496"
+    }
   },
   {
     "uikNumber": 200,
     "uikTvd": "4324001365678",
     "tikTvd": "23220001386494",
-    "tikName": "Брасовская"
+    "tikName": "Брасовская",
+    "uikName": "УИК №200",
+    "regionCode": "32",
+    "regionTvd": "100100225883495",
+    "regionName": "Брянская область",
+    "oikTvd": "100100225883496",
+    "oikName": "Брянская область – Брянский",
+    "district": {
+      "districtNumber": 77,
+      "oikTvd": "100100225883496"
+    }
   },
   {
     "uikNumber": 201,
     "uikTvd": "4324006476515",
     "tikTvd": "23220001386518",
-    "tikName": "Брянская-78"
+    "tikName": "Брянская-78",
+    "uikName": "УИК №201",
+    "regionCode": "32",
+    "regionTvd": "100100225883495",
+    "regionName": "Брянская область",
+    "oikTvd": "100100225883497",
+    "oikName": "Брянская область – Унечский",
+    "district": {
+      "districtNumber": 78,
+      "oikTvd": "100100225883497"
+    }
   },
   {
     "uikNumber": 202,
     "uikTvd": "4324006476516",
     "tikTvd": "23220001386518",
-    "tikName": "Брянская-78"
+    "tikName": "Брянская-78",
+    "uikName": "УИК №202",
+    "regionCode": "32",
+    "regionTvd": "100100225883495",
+    "regionName": "Брянская область",
+    "oikTvd": "100100225883497",
+    "oikName": "Брянская область – Унечский",
+    "district": {
+      "districtNumber": 78,
+      "oikTvd": "100100225883497"
+    }
   },
   {
     "uikNumber": 203,
     "uikTvd": "4324006476517",
     "tikTvd": "23220001386518",
-    "tikName": "Брянская-78"
+    "tikName": "Брянская-78",
+    "uikName": "УИК №203",
+    "regionCode": "32",
+    "regionTvd": "100100225883495",
+    "regionName": "Брянская область",
+    "oikTvd": "100100225883497",
+    "oikName": "Брянская область – Унечский",
+    "district": {
+      "districtNumber": 78,
+      "oikTvd": "100100225883497"
+    }
   },
   {
     "uikNumber": 204,
     "uikTvd": "4324006476518",
     "tikTvd": "23220001386518",
-    "tikName": "Брянская-78"
+    "tikName": "Брянская-78",
+    "uikName": "УИК №204",
+    "regionCode": "32",
+    "regionTvd": "100100225883495",
+    "regionName": "Брянская область",
+    "oikTvd": "100100225883497",
+    "oikName": "Брянская область – Унечский",
+    "district": {
+      "districtNumber": 78,
+      "oikTvd": "100100225883497"
+    }
   },
   {
     "uikNumber": 205,
     "uikTvd": "4324006476519",
     "tikTvd": "23220001386518",
-    "tikName": "Брянская-78"
+    "tikName": "Брянская-78",
+    "uikName": "УИК №205",
+    "regionCode": "32",
+    "regionTvd": "100100225883495",
+    "regionName": "Брянская область",
+    "oikTvd": "100100225883497",
+    "oikName": "Брянская область – Унечский",
+    "district": {
+      "districtNumber": 78,
+      "oikTvd": "100100225883497"
+    }
   },
   {
     "uikNumber": 206,
     "uikTvd": "4324006476520",
     "tikTvd": "23220001386518",
-    "tikName": "Брянская-78"
+    "tikName": "Брянская-78",
+    "uikName": "УИК №206",
+    "regionCode": "32",
+    "regionTvd": "100100225883495",
+    "regionName": "Брянская область",
+    "oikTvd": "100100225883497",
+    "oikName": "Брянская область – Унечский",
+    "district": {
+      "districtNumber": 78,
+      "oikTvd": "100100225883497"
+    }
   },
   {
     "uikNumber": 207,
     "uikTvd": "4324006476521",
     "tikTvd": "23220001386518",
-    "tikName": "Брянская-78"
+    "tikName": "Брянская-78",
+    "uikName": "УИК №207",
+    "regionCode": "32",
+    "regionTvd": "100100225883495",
+    "regionName": "Брянская область",
+    "oikTvd": "100100225883497",
+    "oikName": "Брянская область – Унечский",
+    "district": {
+      "districtNumber": 78,
+      "oikTvd": "100100225883497"
+    }
   },
   {
     "uikNumber": 208,
     "uikTvd": "4324006476522",
     "tikTvd": "23220001386518",
-    "tikName": "Брянская-78"
+    "tikName": "Брянская-78",
+    "uikName": "УИК №208",
+    "regionCode": "32",
+    "regionTvd": "100100225883495",
+    "regionName": "Брянская область",
+    "oikTvd": "100100225883497",
+    "oikName": "Брянская область – Унечский",
+    "district": {
+      "districtNumber": 78,
+      "oikTvd": "100100225883497"
+    }
   },
   {
     "uikNumber": 209,
     "uikTvd": "4324006476523",
     "tikTvd": "23220001386518",
-    "tikName": "Брянская-78"
+    "tikName": "Брянская-78",
+    "uikName": "УИК №209",
+    "regionCode": "32",
+    "regionTvd": "100100225883495",
+    "regionName": "Брянская область",
+    "oikTvd": "100100225883497",
+    "oikName": "Брянская область – Унечский",
+    "district": {
+      "districtNumber": 78,
+      "oikTvd": "100100225883497"
+    }
   },
   {
     "uikNumber": 210,
     "uikTvd": "4324006476524",
     "tikTvd": "23220001386518",
-    "tikName": "Брянская-78"
+    "tikName": "Брянская-78",
+    "uikName": "УИК №210",
+    "regionCode": "32",
+    "regionTvd": "100100225883495",
+    "regionName": "Брянская область",
+    "oikTvd": "100100225883497",
+    "oikName": "Брянская область – Унечский",
+    "district": {
+      "districtNumber": 78,
+      "oikTvd": "100100225883497"
+    }
   },
   {
     "uikNumber": 211,
     "uikTvd": "4324006476525",
     "tikTvd": "23220001386518",
-    "tikName": "Брянская-78"
+    "tikName": "Брянская-78",
+    "uikName": "УИК №211",
+    "regionCode": "32",
+    "regionTvd": "100100225883495",
+    "regionName": "Брянская область",
+    "oikTvd": "100100225883497",
+    "oikName": "Брянская область – Унечский",
+    "district": {
+      "districtNumber": 78,
+      "oikTvd": "100100225883497"
+    }
   },
   {
     "uikNumber": 212,
     "uikTvd": "4324006476526",
     "tikTvd": "23220001386518",
-    "tikName": "Брянская-78"
+    "tikName": "Брянская-78",
+    "uikName": "УИК №212",
+    "regionCode": "32",
+    "regionTvd": "100100225883495",
+    "regionName": "Брянская область",
+    "oikTvd": "100100225883497",
+    "oikName": "Брянская область – Унечский",
+    "district": {
+      "districtNumber": 78,
+      "oikTvd": "100100225883497"
+    }
   },
   {
     "uikNumber": 213,
     "uikTvd": "4324006476527",
     "tikTvd": "23220001386518",
-    "tikName": "Брянская-78"
+    "tikName": "Брянская-78",
+    "uikName": "УИК №213",
+    "regionCode": "32",
+    "regionTvd": "100100225883495",
+    "regionName": "Брянская область",
+    "oikTvd": "100100225883497",
+    "oikName": "Брянская область – Унечский",
+    "district": {
+      "districtNumber": 78,
+      "oikTvd": "100100225883497"
+    }
   },
   {
     "uikNumber": 214,
     "uikTvd": "4324006476528",
     "tikTvd": "23220001386518",
-    "tikName": "Брянская-78"
+    "tikName": "Брянская-78",
+    "uikName": "УИК №214",
+    "regionCode": "32",
+    "regionTvd": "100100225883495",
+    "regionName": "Брянская область",
+    "oikTvd": "100100225883497",
+    "oikName": "Брянская область – Унечский",
+    "district": {
+      "districtNumber": 78,
+      "oikTvd": "100100225883497"
+    }
   },
   {
     "uikNumber": 215,
     "uikTvd": "4324006476529",
     "tikTvd": "23220001386518",
-    "tikName": "Брянская-78"
+    "tikName": "Брянская-78",
+    "uikName": "УИК №215",
+    "regionCode": "32",
+    "regionTvd": "100100225883495",
+    "regionName": "Брянская область",
+    "oikTvd": "100100225883497",
+    "oikName": "Брянская область – Унечский",
+    "district": {
+      "districtNumber": 78,
+      "oikTvd": "100100225883497"
+    }
   },
   {
     "uikNumber": 216,
     "uikTvd": "4324006476530",
     "tikTvd": "23220001386518",
-    "tikName": "Брянская-78"
+    "tikName": "Брянская-78",
+    "uikName": "УИК №216",
+    "regionCode": "32",
+    "regionTvd": "100100225883495",
+    "regionName": "Брянская область",
+    "oikTvd": "100100225883497",
+    "oikName": "Брянская область – Унечский",
+    "district": {
+      "districtNumber": 78,
+      "oikTvd": "100100225883497"
+    }
   },
   {
     "uikNumber": 217,
     "uikTvd": "4324006476531",
     "tikTvd": "23220001386518",
-    "tikName": "Брянская-78"
+    "tikName": "Брянская-78",
+    "uikName": "УИК №217",
+    "regionCode": "32",
+    "regionTvd": "100100225883495",
+    "regionName": "Брянская область",
+    "oikTvd": "100100225883497",
+    "oikName": "Брянская область – Унечский",
+    "district": {
+      "districtNumber": 78,
+      "oikTvd": "100100225883497"
+    }
   },
   {
     "uikNumber": 218,
     "uikTvd": "4324006476532",
     "tikTvd": "23220001386518",
-    "tikName": "Брянская-78"
+    "tikName": "Брянская-78",
+    "uikName": "УИК №218",
+    "regionCode": "32",
+    "regionTvd": "100100225883495",
+    "regionName": "Брянская область",
+    "oikTvd": "100100225883497",
+    "oikName": "Брянская область – Унечский",
+    "district": {
+      "districtNumber": 78,
+      "oikTvd": "100100225883497"
+    }
   },
   {
     "uikNumber": 219,
     "uikTvd": "4324006476493",
     "tikTvd": "23220001386497",
-    "tikName": "Брянская-77"
+    "tikName": "Брянская-77",
+    "uikName": "УИК №219",
+    "regionCode": "32",
+    "regionTvd": "100100225883495",
+    "regionName": "Брянская область",
+    "oikTvd": "100100225883496",
+    "oikName": "Брянская область – Брянский",
+    "district": {
+      "districtNumber": 77,
+      "oikTvd": "100100225883496"
+    }
   },
   {
     "uikNumber": 220,
     "uikTvd": "4324006476494",
     "tikTvd": "23220001386497",
-    "tikName": "Брянская-77"
+    "tikName": "Брянская-77",
+    "uikName": "УИК №220",
+    "regionCode": "32",
+    "regionTvd": "100100225883495",
+    "regionName": "Брянская область",
+    "oikTvd": "100100225883496",
+    "oikName": "Брянская область – Брянский",
+    "district": {
+      "districtNumber": 77,
+      "oikTvd": "100100225883496"
+    }
   },
   {
     "uikNumber": 221,
     "uikTvd": "4324006476495",
     "tikTvd": "23220001386497",
-    "tikName": "Брянская-77"
+    "tikName": "Брянская-77",
+    "uikName": "УИК №221",
+    "regionCode": "32",
+    "regionTvd": "100100225883495",
+    "regionName": "Брянская область",
+    "oikTvd": "100100225883496",
+    "oikName": "Брянская область – Брянский",
+    "district": {
+      "districtNumber": 77,
+      "oikTvd": "100100225883496"
+    }
   },
   {
     "uikNumber": 222,
     "uikTvd": "4324006476496",
     "tikTvd": "23220001386497",
-    "tikName": "Брянская-77"
+    "tikName": "Брянская-77",
+    "uikName": "УИК №222",
+    "regionCode": "32",
+    "regionTvd": "100100225883495",
+    "regionName": "Брянская область",
+    "oikTvd": "100100225883496",
+    "oikName": "Брянская область – Брянский",
+    "district": {
+      "districtNumber": 77,
+      "oikTvd": "100100225883496"
+    }
   },
   {
     "uikNumber": 223,
     "uikTvd": "4324006476497",
     "tikTvd": "23220001386497",
-    "tikName": "Брянская-77"
+    "tikName": "Брянская-77",
+    "uikName": "УИК №223",
+    "regionCode": "32",
+    "regionTvd": "100100225883495",
+    "regionName": "Брянская область",
+    "oikTvd": "100100225883496",
+    "oikName": "Брянская область – Брянский",
+    "district": {
+      "districtNumber": 77,
+      "oikTvd": "100100225883496"
+    }
   },
   {
     "uikNumber": 224,
     "uikTvd": "4324006476533",
     "tikTvd": "23220001386518",
-    "tikName": "Брянская-78"
+    "tikName": "Брянская-78",
+    "uikName": "УИК №224",
+    "regionCode": "32",
+    "regionTvd": "100100225883495",
+    "regionName": "Брянская область",
+    "oikTvd": "100100225883497",
+    "oikName": "Брянская область – Унечский",
+    "district": {
+      "districtNumber": 78,
+      "oikTvd": "100100225883497"
+    }
   },
   {
     "uikNumber": 225,
     "uikTvd": "4324006476534",
     "tikTvd": "23220001386518",
-    "tikName": "Брянская-78"
+    "tikName": "Брянская-78",
+    "uikName": "УИК №225",
+    "regionCode": "32",
+    "regionTvd": "100100225883495",
+    "regionName": "Брянская область",
+    "oikTvd": "100100225883497",
+    "oikName": "Брянская область – Унечский",
+    "district": {
+      "districtNumber": 78,
+      "oikTvd": "100100225883497"
+    }
   },
   {
     "uikNumber": 226,
     "uikTvd": "4324006476499",
     "tikTvd": "23220001386497",
-    "tikName": "Брянская-77"
+    "tikName": "Брянская-77",
+    "uikName": "УИК №226",
+    "regionCode": "32",
+    "regionTvd": "100100225883495",
+    "regionName": "Брянская область",
+    "oikTvd": "100100225883496",
+    "oikName": "Брянская область – Брянский",
+    "district": {
+      "districtNumber": 77,
+      "oikTvd": "100100225883496"
+    }
   },
   {
     "uikNumber": 227,
     "uikTvd": "4324006476500",
     "tikTvd": "23220001386497",
-    "tikName": "Брянская-77"
+    "tikName": "Брянская-77",
+    "uikName": "УИК №227",
+    "regionCode": "32",
+    "regionTvd": "100100225883495",
+    "regionName": "Брянская область",
+    "oikTvd": "100100225883496",
+    "oikName": "Брянская область – Брянский",
+    "district": {
+      "districtNumber": 77,
+      "oikTvd": "100100225883496"
+    }
   },
   {
     "uikNumber": 228,
     "uikTvd": "4324006476501",
     "tikTvd": "23220001386497",
-    "tikName": "Брянская-77"
+    "tikName": "Брянская-77",
+    "uikName": "УИК №228",
+    "regionCode": "32",
+    "regionTvd": "100100225883495",
+    "regionName": "Брянская область",
+    "oikTvd": "100100225883496",
+    "oikName": "Брянская область – Брянский",
+    "district": {
+      "districtNumber": 77,
+      "oikTvd": "100100225883496"
+    }
   },
   {
     "uikNumber": 229,
     "uikTvd": "4324006476502",
     "tikTvd": "23220001386497",
-    "tikName": "Брянская-77"
+    "tikName": "Брянская-77",
+    "uikName": "УИК №229",
+    "regionCode": "32",
+    "regionTvd": "100100225883495",
+    "regionName": "Брянская область",
+    "oikTvd": "100100225883496",
+    "oikName": "Брянская область – Брянский",
+    "district": {
+      "districtNumber": 77,
+      "oikTvd": "100100225883496"
+    }
   },
   {
     "uikNumber": 230,
     "uikTvd": "4324006476503",
     "tikTvd": "23220001386497",
-    "tikName": "Брянская-77"
+    "tikName": "Брянская-77",
+    "uikName": "УИК №230",
+    "regionCode": "32",
+    "regionTvd": "100100225883495",
+    "regionName": "Брянская область",
+    "oikTvd": "100100225883496",
+    "oikName": "Брянская область – Брянский",
+    "district": {
+      "districtNumber": 77,
+      "oikTvd": "100100225883496"
+    }
   },
   {
     "uikNumber": 231,
     "uikTvd": "4324006476504",
     "tikTvd": "23220001386497",
-    "tikName": "Брянская-77"
+    "tikName": "Брянская-77",
+    "uikName": "УИК №231",
+    "regionCode": "32",
+    "regionTvd": "100100225883495",
+    "regionName": "Брянская область",
+    "oikTvd": "100100225883496",
+    "oikName": "Брянская область – Брянский",
+    "district": {
+      "districtNumber": 77,
+      "oikTvd": "100100225883496"
+    }
   },
   {
     "uikNumber": 232,
     "uikTvd": "4324006476505",
     "tikTvd": "23220001386497",
-    "tikName": "Брянская-77"
+    "tikName": "Брянская-77",
+    "uikName": "УИК №232",
+    "regionCode": "32",
+    "regionTvd": "100100225883495",
+    "regionName": "Брянская область",
+    "oikTvd": "100100225883496",
+    "oikName": "Брянская область – Брянский",
+    "district": {
+      "districtNumber": 77,
+      "oikTvd": "100100225883496"
+    }
   },
   {
     "uikNumber": 233,
     "uikTvd": "4324006476506",
     "tikTvd": "23220001386497",
-    "tikName": "Брянская-77"
+    "tikName": "Брянская-77",
+    "uikName": "УИК №233",
+    "regionCode": "32",
+    "regionTvd": "100100225883495",
+    "regionName": "Брянская область",
+    "oikTvd": "100100225883496",
+    "oikName": "Брянская область – Брянский",
+    "district": {
+      "districtNumber": 77,
+      "oikTvd": "100100225883496"
+    }
   },
   {
     "uikNumber": 234,
     "uikTvd": "4324006476507",
     "tikTvd": "23220001386497",
-    "tikName": "Брянская-77"
+    "tikName": "Брянская-77",
+    "uikName": "УИК №234",
+    "regionCode": "32",
+    "regionTvd": "100100225883495",
+    "regionName": "Брянская область",
+    "oikTvd": "100100225883496",
+    "oikName": "Брянская область – Брянский",
+    "district": {
+      "districtNumber": 77,
+      "oikTvd": "100100225883496"
+    }
   },
   {
     "uikNumber": 235,
     "uikTvd": "4324006476508",
     "tikTvd": "23220001386497",
-    "tikName": "Брянская-77"
+    "tikName": "Брянская-77",
+    "uikName": "УИК №235",
+    "regionCode": "32",
+    "regionTvd": "100100225883495",
+    "regionName": "Брянская область",
+    "oikTvd": "100100225883496",
+    "oikName": "Брянская область – Брянский",
+    "district": {
+      "districtNumber": 77,
+      "oikTvd": "100100225883496"
+    }
   },
   {
     "uikNumber": 236,
     "uikTvd": "4324006476509",
     "tikTvd": "23220001386497",
-    "tikName": "Брянская-77"
+    "tikName": "Брянская-77",
+    "uikName": "УИК №236",
+    "regionCode": "32",
+    "regionTvd": "100100225883495",
+    "regionName": "Брянская область",
+    "oikTvd": "100100225883496",
+    "oikName": "Брянская область – Брянский",
+    "district": {
+      "districtNumber": 77,
+      "oikTvd": "100100225883496"
+    }
   },
   {
     "uikNumber": 237,
     "uikTvd": "4324006476510",
     "tikTvd": "23220001386497",
-    "tikName": "Брянская-77"
+    "tikName": "Брянская-77",
+    "uikName": "УИК №237",
+    "regionCode": "32",
+    "regionTvd": "100100225883495",
+    "regionName": "Брянская область",
+    "oikTvd": "100100225883496",
+    "oikName": "Брянская область – Брянский",
+    "district": {
+      "districtNumber": 77,
+      "oikTvd": "100100225883496"
+    }
   },
   {
     "uikNumber": 238,
     "uikTvd": "4324006476511",
     "tikTvd": "23220001386497",
-    "tikName": "Брянская-77"
+    "tikName": "Брянская-77",
+    "uikName": "УИК №238",
+    "regionCode": "32",
+    "regionTvd": "100100225883495",
+    "regionName": "Брянская область",
+    "oikTvd": "100100225883496",
+    "oikName": "Брянская область – Брянский",
+    "district": {
+      "districtNumber": 77,
+      "oikTvd": "100100225883496"
+    }
   },
   {
     "uikNumber": 239,
     "uikTvd": "4324006476512",
     "tikTvd": "23220001386497",
-    "tikName": "Брянская-77"
+    "tikName": "Брянская-77",
+    "uikName": "УИК №239",
+    "regionCode": "32",
+    "regionTvd": "100100225883495",
+    "regionName": "Брянская область",
+    "oikTvd": "100100225883496",
+    "oikName": "Брянская область – Брянский",
+    "district": {
+      "districtNumber": 77,
+      "oikTvd": "100100225883496"
+    }
   },
   {
     "uikNumber": 240,
     "uikTvd": "4324006476513",
     "tikTvd": "23220001386497",
-    "tikName": "Брянская-77"
+    "tikName": "Брянская-77",
+    "uikName": "УИК №240",
+    "regionCode": "32",
+    "regionTvd": "100100225883495",
+    "regionName": "Брянская область",
+    "oikTvd": "100100225883496",
+    "oikName": "Брянская область – Брянский",
+    "district": {
+      "districtNumber": 77,
+      "oikTvd": "100100225883496"
+    }
   },
   {
     "uikNumber": 241,
     "uikTvd": "4324006476535",
     "tikTvd": "23220001386518",
-    "tikName": "Брянская-78"
+    "tikName": "Брянская-78",
+    "uikName": "УИК №241",
+    "regionCode": "32",
+    "regionTvd": "100100225883495",
+    "regionName": "Брянская область",
+    "oikTvd": "100100225883497",
+    "oikName": "Брянская область – Унечский",
+    "district": {
+      "districtNumber": 78,
+      "oikTvd": "100100225883497"
+    }
   },
   {
     "uikNumber": 242,
     "uikTvd": "4324006476536",
     "tikTvd": "23220001386518",
-    "tikName": "Брянская-78"
+    "tikName": "Брянская-78",
+    "uikName": "УИК №242",
+    "regionCode": "32",
+    "regionTvd": "100100225883495",
+    "regionName": "Брянская область",
+    "oikTvd": "100100225883497",
+    "oikName": "Брянская область – Унечский",
+    "district": {
+      "districtNumber": 78,
+      "oikTvd": "100100225883497"
+    }
   },
   {
     "uikNumber": 243,
     "uikTvd": "4324006476537",
     "tikTvd": "23220001386518",
-    "tikName": "Брянская-78"
+    "tikName": "Брянская-78",
+    "uikName": "УИК №243",
+    "regionCode": "32",
+    "regionTvd": "100100225883495",
+    "regionName": "Брянская область",
+    "oikTvd": "100100225883497",
+    "oikName": "Брянская область – Унечский",
+    "district": {
+      "districtNumber": 78,
+      "oikTvd": "100100225883497"
+    }
   },
   {
     "uikNumber": 244,
     "uikTvd": "4324006476538",
     "tikTvd": "23220001386518",
-    "tikName": "Брянская-78"
+    "tikName": "Брянская-78",
+    "uikName": "УИК №244",
+    "regionCode": "32",
+    "regionTvd": "100100225883495",
+    "regionName": "Брянская область",
+    "oikTvd": "100100225883497",
+    "oikName": "Брянская область – Унечский",
+    "district": {
+      "districtNumber": 78,
+      "oikTvd": "100100225883497"
+    }
   },
   {
     "uikNumber": 245,
     "uikTvd": "4324006476539",
     "tikTvd": "23220001386518",
-    "tikName": "Брянская-78"
+    "tikName": "Брянская-78",
+    "uikName": "УИК №245",
+    "regionCode": "32",
+    "regionTvd": "100100225883495",
+    "regionName": "Брянская область",
+    "oikTvd": "100100225883497",
+    "oikName": "Брянская область – Унечский",
+    "district": {
+      "districtNumber": 78,
+      "oikTvd": "100100225883497"
+    }
   },
   {
     "uikNumber": 246,
     "uikTvd": "4324006476540",
     "tikTvd": "23220001386518",
-    "tikName": "Брянская-78"
+    "tikName": "Брянская-78",
+    "uikName": "УИК №246",
+    "regionCode": "32",
+    "regionTvd": "100100225883495",
+    "regionName": "Брянская область",
+    "oikTvd": "100100225883497",
+    "oikName": "Брянская область – Унечский",
+    "district": {
+      "districtNumber": 78,
+      "oikTvd": "100100225883497"
+    }
   },
   {
     "uikNumber": 247,
     "uikTvd": "4324007430631",
     "tikTvd": "23220001386498",
-    "tikName": "Выгоничская"
+    "tikName": "Выгоничская",
+    "uikName": "УИК №247",
+    "regionCode": "32",
+    "regionTvd": "100100225883495",
+    "regionName": "Брянская область",
+    "oikTvd": "100100225883496",
+    "oikName": "Брянская область – Брянский",
+    "district": {
+      "districtNumber": 77,
+      "oikTvd": "100100225883496"
+    }
   },
   {
     "uikNumber": 248,
     "uikTvd": "4324007430632",
     "tikTvd": "23220001386498",
-    "tikName": "Выгоничская"
+    "tikName": "Выгоничская",
+    "uikName": "УИК №248",
+    "regionCode": "32",
+    "regionTvd": "100100225883495",
+    "regionName": "Брянская область",
+    "oikTvd": "100100225883496",
+    "oikName": "Брянская область – Брянский",
+    "district": {
+      "districtNumber": 77,
+      "oikTvd": "100100225883496"
+    }
   },
   {
     "uikNumber": 249,
     "uikTvd": "4324007430633",
     "tikTvd": "23220001386498",
-    "tikName": "Выгоничская"
+    "tikName": "Выгоничская",
+    "uikName": "УИК №249",
+    "regionCode": "32",
+    "regionTvd": "100100225883495",
+    "regionName": "Брянская область",
+    "oikTvd": "100100225883496",
+    "oikName": "Брянская область – Брянский",
+    "district": {
+      "districtNumber": 77,
+      "oikTvd": "100100225883496"
+    }
   },
   {
     "uikNumber": 250,
     "uikTvd": "4324007430634",
     "tikTvd": "23220001386498",
-    "tikName": "Выгоничская"
+    "tikName": "Выгоничская",
+    "uikName": "УИК №250",
+    "regionCode": "32",
+    "regionTvd": "100100225883495",
+    "regionName": "Брянская область",
+    "oikTvd": "100100225883496",
+    "oikName": "Брянская область – Брянский",
+    "district": {
+      "districtNumber": 77,
+      "oikTvd": "100100225883496"
+    }
   },
   {
     "uikNumber": 251,
     "uikTvd": "4324007430635",
     "tikTvd": "23220001386498",
-    "tikName": "Выгоничская"
+    "tikName": "Выгоничская",
+    "uikName": "УИК №251",
+    "regionCode": "32",
+    "regionTvd": "100100225883495",
+    "regionName": "Брянская область",
+    "oikTvd": "100100225883496",
+    "oikName": "Брянская область – Брянский",
+    "district": {
+      "districtNumber": 77,
+      "oikTvd": "100100225883496"
+    }
   },
   {
     "uikNumber": 252,
     "uikTvd": "4324007430636",
     "tikTvd": "23220001386498",
-    "tikName": "Выгоничская"
+    "tikName": "Выгоничская",
+    "uikName": "УИК №252",
+    "regionCode": "32",
+    "regionTvd": "100100225883495",
+    "regionName": "Брянская область",
+    "oikTvd": "100100225883496",
+    "oikName": "Брянская область – Брянский",
+    "district": {
+      "districtNumber": 77,
+      "oikTvd": "100100225883496"
+    }
   },
   {
     "uikNumber": 253,
     "uikTvd": "4324007430637",
     "tikTvd": "23220001386498",
-    "tikName": "Выгоничская"
+    "tikName": "Выгоничская",
+    "uikName": "УИК №253",
+    "regionCode": "32",
+    "regionTvd": "100100225883495",
+    "regionName": "Брянская область",
+    "oikTvd": "100100225883496",
+    "oikName": "Брянская область – Брянский",
+    "district": {
+      "districtNumber": 77,
+      "oikTvd": "100100225883496"
+    }
   },
   {
     "uikNumber": 254,
     "uikTvd": "4324007430638",
     "tikTvd": "23220001386498",
-    "tikName": "Выгоничская"
+    "tikName": "Выгоничская",
+    "uikName": "УИК №254",
+    "regionCode": "32",
+    "regionTvd": "100100225883495",
+    "regionName": "Брянская область",
+    "oikTvd": "100100225883496",
+    "oikName": "Брянская область – Брянский",
+    "district": {
+      "districtNumber": 77,
+      "oikTvd": "100100225883496"
+    }
   },
   {
     "uikNumber": 255,
     "uikTvd": "4324007430639",
     "tikTvd": "23220001386498",
-    "tikName": "Выгоничская"
+    "tikName": "Выгоничская",
+    "uikName": "УИК №255",
+    "regionCode": "32",
+    "regionTvd": "100100225883495",
+    "regionName": "Брянская область",
+    "oikTvd": "100100225883496",
+    "oikName": "Брянская область – Брянский",
+    "district": {
+      "districtNumber": 77,
+      "oikTvd": "100100225883496"
+    }
   },
   {
     "uikNumber": 256,
     "uikTvd": "4324007430640",
     "tikTvd": "23220001386498",
-    "tikName": "Выгоничская"
+    "tikName": "Выгоничская",
+    "uikName": "УИК №256",
+    "regionCode": "32",
+    "regionTvd": "100100225883495",
+    "regionName": "Брянская область",
+    "oikTvd": "100100225883496",
+    "oikName": "Брянская область – Брянский",
+    "district": {
+      "districtNumber": 77,
+      "oikTvd": "100100225883496"
+    }
   },
   {
     "uikNumber": 257,
     "uikTvd": "4324007430641",
     "tikTvd": "23220001386498",
-    "tikName": "Выгоничская"
+    "tikName": "Выгоничская",
+    "uikName": "УИК №257",
+    "regionCode": "32",
+    "regionTvd": "100100225883495",
+    "regionName": "Брянская область",
+    "oikTvd": "100100225883496",
+    "oikName": "Брянская область – Брянский",
+    "district": {
+      "districtNumber": 77,
+      "oikTvd": "100100225883496"
+    }
   },
   {
     "uikNumber": 258,
     "uikTvd": "4324007430642",
     "tikTvd": "23220001386498",
-    "tikName": "Выгоничская"
+    "tikName": "Выгоничская",
+    "uikName": "УИК №258",
+    "regionCode": "32",
+    "regionTvd": "100100225883495",
+    "regionName": "Брянская область",
+    "oikTvd": "100100225883496",
+    "oikName": "Брянская область – Брянский",
+    "district": {
+      "districtNumber": 77,
+      "oikTvd": "100100225883496"
+    }
   },
   {
     "uikNumber": 259,
     "uikTvd": "4324007430643",
     "tikTvd": "23220001386498",
-    "tikName": "Выгоничская"
+    "tikName": "Выгоничская",
+    "uikName": "УИК №259",
+    "regionCode": "32",
+    "regionTvd": "100100225883495",
+    "regionName": "Брянская область",
+    "oikTvd": "100100225883496",
+    "oikName": "Брянская область – Брянский",
+    "district": {
+      "districtNumber": 77,
+      "oikTvd": "100100225883496"
+    }
   },
   {
     "uikNumber": 261,
     "uikTvd": "4324007430644",
     "tikTvd": "23220001386498",
-    "tikName": "Выгоничская"
+    "tikName": "Выгоничская",
+    "uikName": "УИК №261",
+    "regionCode": "32",
+    "regionTvd": "100100225883495",
+    "regionName": "Брянская область",
+    "oikTvd": "100100225883496",
+    "oikName": "Брянская область – Брянский",
+    "district": {
+      "districtNumber": 77,
+      "oikTvd": "100100225883496"
+    }
   },
   {
     "uikNumber": 263,
     "uikTvd": "4324007430645",
     "tikTvd": "23220001386498",
-    "tikName": "Выгоничская"
+    "tikName": "Выгоничская",
+    "uikName": "УИК №263",
+    "regionCode": "32",
+    "regionTvd": "100100225883495",
+    "regionName": "Брянская область",
+    "oikTvd": "100100225883496",
+    "oikName": "Брянская область – Брянский",
+    "district": {
+      "districtNumber": 77,
+      "oikTvd": "100100225883496"
+    }
   },
   {
     "uikNumber": 264,
     "uikTvd": "4324007430646",
     "tikTvd": "23220001386498",
-    "tikName": "Выгоничская"
+    "tikName": "Выгоничская",
+    "uikName": "УИК №264",
+    "regionCode": "32",
+    "regionTvd": "100100225883495",
+    "regionName": "Брянская область",
+    "oikTvd": "100100225883496",
+    "oikName": "Брянская область – Брянский",
+    "district": {
+      "districtNumber": 77,
+      "oikTvd": "100100225883496"
+    }
   },
   {
     "uikNumber": 265,
     "uikTvd": "4324007430647",
     "tikTvd": "23220001386498",
-    "tikName": "Выгоничская"
+    "tikName": "Выгоничская",
+    "uikName": "УИК №265",
+    "regionCode": "32",
+    "regionTvd": "100100225883495",
+    "regionName": "Брянская область",
+    "oikTvd": "100100225883496",
+    "oikName": "Брянская область – Брянский",
+    "district": {
+      "districtNumber": 77,
+      "oikTvd": "100100225883496"
+    }
   },
   {
     "uikNumber": 266,
     "uikTvd": "4324007430648",
     "tikTvd": "23220001386498",
-    "tikName": "Выгоничская"
+    "tikName": "Выгоничская",
+    "uikName": "УИК №266",
+    "regionCode": "32",
+    "regionTvd": "100100225883495",
+    "regionName": "Брянская область",
+    "oikTvd": "100100225883496",
+    "oikName": "Брянская область – Брянский",
+    "district": {
+      "districtNumber": 77,
+      "oikTvd": "100100225883496"
+    }
   },
   {
     "uikNumber": 267,
     "uikTvd": "4324007430649",
     "tikTvd": "23220001386498",
-    "tikName": "Выгоничская"
+    "tikName": "Выгоничская",
+    "uikName": "УИК №267",
+    "regionCode": "32",
+    "regionTvd": "100100225883495",
+    "regionName": "Брянская область",
+    "oikTvd": "100100225883496",
+    "oikName": "Брянская область – Брянский",
+    "district": {
+      "districtNumber": 77,
+      "oikTvd": "100100225883496"
+    }
   },
   {
     "uikNumber": 268,
     "uikTvd": "4324007430650",
     "tikTvd": "23220001386498",
-    "tikName": "Выгоничская"
+    "tikName": "Выгоничская",
+    "uikName": "УИК №268",
+    "regionCode": "32",
+    "regionTvd": "100100225883495",
+    "regionName": "Брянская область",
+    "oikTvd": "100100225883496",
+    "oikName": "Брянская область – Брянский",
+    "district": {
+      "districtNumber": 77,
+      "oikTvd": "100100225883496"
+    }
   },
   {
     "uikNumber": 269,
     "uikTvd": "4324007430651",
     "tikTvd": "23220001386498",
-    "tikName": "Выгоничская"
+    "tikName": "Выгоничская",
+    "uikName": "УИК №269",
+    "regionCode": "32",
+    "regionTvd": "100100225883495",
+    "regionName": "Брянская область",
+    "oikTvd": "100100225883496",
+    "oikName": "Брянская область – Брянский",
+    "district": {
+      "districtNumber": 77,
+      "oikTvd": "100100225883496"
+    }
   },
   {
     "uikNumber": 270,
     "uikTvd": "4324007430652",
     "tikTvd": "23220001386498",
-    "tikName": "Выгоничская"
+    "tikName": "Выгоничская",
+    "uikName": "УИК №270",
+    "regionCode": "32",
+    "regionTvd": "100100225883495",
+    "regionName": "Брянская область",
+    "oikTvd": "100100225883496",
+    "oikName": "Брянская область – Брянский",
+    "district": {
+      "districtNumber": 77,
+      "oikTvd": "100100225883496"
+    }
   },
   {
     "uikNumber": 271,
     "uikTvd": "4324007430653",
     "tikTvd": "23220001386498",
-    "tikName": "Выгоничская"
+    "tikName": "Выгоничская",
+    "uikName": "УИК №271",
+    "regionCode": "32",
+    "regionTvd": "100100225883495",
+    "regionName": "Брянская область",
+    "oikTvd": "100100225883496",
+    "oikName": "Брянская область – Брянский",
+    "district": {
+      "districtNumber": 77,
+      "oikTvd": "100100225883496"
+    }
   },
   {
     "uikNumber": 272,
     "uikTvd": "4324007430654",
     "tikTvd": "23220001386498",
-    "tikName": "Выгоничская"
+    "tikName": "Выгоничская",
+    "uikName": "УИК №272",
+    "regionCode": "32",
+    "regionTvd": "100100225883495",
+    "regionName": "Брянская область",
+    "oikTvd": "100100225883496",
+    "oikName": "Брянская область – Брянский",
+    "district": {
+      "districtNumber": 77,
+      "oikTvd": "100100225883496"
+    }
   },
   {
     "uikNumber": 273,
     "uikTvd": "4324007430655",
     "tikTvd": "23220001386498",
-    "tikName": "Выгоничская"
+    "tikName": "Выгоничская",
+    "uikName": "УИК №273",
+    "regionCode": "32",
+    "regionTvd": "100100225883495",
+    "regionName": "Брянская область",
+    "oikTvd": "100100225883496",
+    "oikName": "Брянская область – Брянский",
+    "district": {
+      "districtNumber": 77,
+      "oikTvd": "100100225883496"
+    }
   },
   {
     "uikNumber": 274,
     "uikTvd": "4324007430656",
     "tikTvd": "23220001386498",
-    "tikName": "Выгоничская"
+    "tikName": "Выгоничская",
+    "uikName": "УИК №274",
+    "regionCode": "32",
+    "regionTvd": "100100225883495",
+    "regionName": "Брянская область",
+    "oikTvd": "100100225883496",
+    "oikName": "Брянская область – Брянский",
+    "district": {
+      "districtNumber": 77,
+      "oikTvd": "100100225883496"
+    }
   },
   {
     "uikNumber": 275,
     "uikTvd": "4324008315267",
     "tikTvd": "23220001386519",
-    "tikName": "Гордеевская"
+    "tikName": "Гордеевская",
+    "uikName": "УИК №275",
+    "regionCode": "32",
+    "regionTvd": "100100225883495",
+    "regionName": "Брянская область",
+    "oikTvd": "100100225883497",
+    "oikName": "Брянская область – Унечский",
+    "district": {
+      "districtNumber": 78,
+      "oikTvd": "100100225883497"
+    }
   },
   {
     "uikNumber": 276,
     "uikTvd": "4324008315268",
     "tikTvd": "23220001386519",
-    "tikName": "Гордеевская"
+    "tikName": "Гордеевская",
+    "uikName": "УИК №276",
+    "regionCode": "32",
+    "regionTvd": "100100225883495",
+    "regionName": "Брянская область",
+    "oikTvd": "100100225883497",
+    "oikName": "Брянская область – Унечский",
+    "district": {
+      "districtNumber": 78,
+      "oikTvd": "100100225883497"
+    }
   },
   {
     "uikNumber": 278,
     "uikTvd": "4324008315269",
     "tikTvd": "23220001386519",
-    "tikName": "Гордеевская"
+    "tikName": "Гордеевская",
+    "uikName": "УИК №278",
+    "regionCode": "32",
+    "regionTvd": "100100225883495",
+    "regionName": "Брянская область",
+    "oikTvd": "100100225883497",
+    "oikName": "Брянская область – Унечский",
+    "district": {
+      "districtNumber": 78,
+      "oikTvd": "100100225883497"
+    }
   },
   {
     "uikNumber": 279,
     "uikTvd": "4324008315270",
     "tikTvd": "23220001386519",
-    "tikName": "Гордеевская"
+    "tikName": "Гордеевская",
+    "uikName": "УИК №279",
+    "regionCode": "32",
+    "regionTvd": "100100225883495",
+    "regionName": "Брянская область",
+    "oikTvd": "100100225883497",
+    "oikName": "Брянская область – Унечский",
+    "district": {
+      "districtNumber": 78,
+      "oikTvd": "100100225883497"
+    }
   },
   {
     "uikNumber": 280,
     "uikTvd": "4324008315271",
     "tikTvd": "23220001386519",
-    "tikName": "Гордеевская"
+    "tikName": "Гордеевская",
+    "uikName": "УИК №280",
+    "regionCode": "32",
+    "regionTvd": "100100225883495",
+    "regionName": "Брянская область",
+    "oikTvd": "100100225883497",
+    "oikName": "Брянская область – Унечский",
+    "district": {
+      "districtNumber": 78,
+      "oikTvd": "100100225883497"
+    }
   },
   {
     "uikNumber": 283,
     "uikTvd": "4324008315272",
     "tikTvd": "23220001386519",
-    "tikName": "Гордеевская"
+    "tikName": "Гордеевская",
+    "uikName": "УИК №283",
+    "regionCode": "32",
+    "regionTvd": "100100225883495",
+    "regionName": "Брянская область",
+    "oikTvd": "100100225883497",
+    "oikName": "Брянская область – Унечский",
+    "district": {
+      "districtNumber": 78,
+      "oikTvd": "100100225883497"
+    }
   },
   {
     "uikNumber": 284,
     "uikTvd": "4324008315273",
     "tikTvd": "23220001386519",
-    "tikName": "Гордеевская"
+    "tikName": "Гордеевская",
+    "uikName": "УИК №284",
+    "regionCode": "32",
+    "regionTvd": "100100225883495",
+    "regionName": "Брянская область",
+    "oikTvd": "100100225883497",
+    "oikName": "Брянская область – Унечский",
+    "district": {
+      "districtNumber": 78,
+      "oikTvd": "100100225883497"
+    }
   },
   {
     "uikNumber": 285,
     "uikTvd": "4324008315274",
     "tikTvd": "23220001386519",
-    "tikName": "Гордеевская"
+    "tikName": "Гордеевская",
+    "uikName": "УИК №285",
+    "regionCode": "32",
+    "regionTvd": "100100225883495",
+    "regionName": "Брянская область",
+    "oikTvd": "100100225883497",
+    "oikName": "Брянская область – Унечский",
+    "district": {
+      "districtNumber": 78,
+      "oikTvd": "100100225883497"
+    }
   },
   {
     "uikNumber": 286,
     "uikTvd": "4324008315275",
     "tikTvd": "23220001386519",
-    "tikName": "Гордеевская"
+    "tikName": "Гордеевская",
+    "uikName": "УИК №286",
+    "regionCode": "32",
+    "regionTvd": "100100225883495",
+    "regionName": "Брянская область",
+    "oikTvd": "100100225883497",
+    "oikName": "Брянская область – Унечский",
+    "district": {
+      "districtNumber": 78,
+      "oikTvd": "100100225883497"
+    }
   },
   {
     "uikNumber": 287,
     "uikTvd": "4324008315276",
     "tikTvd": "23220001386519",
-    "tikName": "Гордеевская"
+    "tikName": "Гордеевская",
+    "uikName": "УИК №287",
+    "regionCode": "32",
+    "regionTvd": "100100225883495",
+    "regionName": "Брянская область",
+    "oikTvd": "100100225883497",
+    "oikName": "Брянская область – Унечский",
+    "district": {
+      "districtNumber": 78,
+      "oikTvd": "100100225883497"
+    }
   },
   {
     "uikNumber": 288,
     "uikTvd": "4324008315277",
     "tikTvd": "23220001386519",
-    "tikName": "Гордеевская"
+    "tikName": "Гордеевская",
+    "uikName": "УИК №288",
+    "regionCode": "32",
+    "regionTvd": "100100225883495",
+    "regionName": "Брянская область",
+    "oikTvd": "100100225883497",
+    "oikName": "Брянская область – Унечский",
+    "district": {
+      "districtNumber": 78,
+      "oikTvd": "100100225883497"
+    }
   },
   {
     "uikNumber": 289,
     "uikTvd": "4324008315278",
     "tikTvd": "23220001386519",
-    "tikName": "Гордеевская"
+    "tikName": "Гордеевская",
+    "uikName": "УИК №289",
+    "regionCode": "32",
+    "regionTvd": "100100225883495",
+    "regionName": "Брянская область",
+    "oikTvd": "100100225883497",
+    "oikName": "Брянская область – Унечский",
+    "district": {
+      "districtNumber": 78,
+      "oikTvd": "100100225883497"
+    }
   },
   {
     "uikNumber": 290,
     "uikTvd": "4324008315279",
     "tikTvd": "23220001386519",
-    "tikName": "Гордеевская"
+    "tikName": "Гордеевская",
+    "uikName": "УИК №290",
+    "regionCode": "32",
+    "regionTvd": "100100225883495",
+    "regionName": "Брянская область",
+    "oikTvd": "100100225883497",
+    "oikName": "Брянская область – Унечский",
+    "district": {
+      "districtNumber": 78,
+      "oikTvd": "100100225883497"
+    }
   },
   {
     "uikNumber": 291,
     "uikTvd": "4324008315280",
     "tikTvd": "23220001386519",
-    "tikName": "Гордеевская"
+    "tikName": "Гордеевская",
+    "uikName": "УИК №291",
+    "regionCode": "32",
+    "regionTvd": "100100225883495",
+    "regionName": "Брянская область",
+    "oikTvd": "100100225883497",
+    "oikName": "Брянская область – Унечский",
+    "district": {
+      "districtNumber": 78,
+      "oikTvd": "100100225883497"
+    }
   },
   {
     "uikNumber": 292,
     "uikTvd": "4324008315281",
     "tikTvd": "23220001386519",
-    "tikName": "Гордеевская"
+    "tikName": "Гордеевская",
+    "uikName": "УИК №292",
+    "regionCode": "32",
+    "regionTvd": "100100225883495",
+    "regionName": "Брянская область",
+    "oikTvd": "100100225883497",
+    "oikName": "Брянская область – Унечский",
+    "district": {
+      "districtNumber": 78,
+      "oikTvd": "100100225883497"
+    }
   },
   {
     "uikNumber": 293,
     "uikTvd": "4324008315282",
     "tikTvd": "23220001386519",
-    "tikName": "Гордеевская"
+    "tikName": "Гордеевская",
+    "uikName": "УИК №293",
+    "regionCode": "32",
+    "regionTvd": "100100225883495",
+    "regionName": "Брянская область",
+    "oikTvd": "100100225883497",
+    "oikName": "Брянская область – Унечский",
+    "district": {
+      "districtNumber": 78,
+      "oikTvd": "100100225883497"
+    }
   },
   {
     "uikNumber": 295,
     "uikTvd": "4324008315283",
     "tikTvd": "23220001386519",
-    "tikName": "Гордеевская"
+    "tikName": "Гордеевская",
+    "uikName": "УИК №295",
+    "regionCode": "32",
+    "regionTvd": "100100225883495",
+    "regionName": "Брянская область",
+    "oikTvd": "100100225883497",
+    "oikName": "Брянская область – Унечский",
+    "district": {
+      "districtNumber": 78,
+      "oikTvd": "100100225883497"
+    }
   },
   {
     "uikNumber": 296,
     "uikTvd": "4324008315284",
     "tikTvd": "23220001386519",
-    "tikName": "Гордеевская"
+    "tikName": "Гордеевская",
+    "uikName": "УИК №296",
+    "regionCode": "32",
+    "regionTvd": "100100225883495",
+    "regionName": "Брянская область",
+    "oikTvd": "100100225883497",
+    "oikName": "Брянская область – Унечский",
+    "district": {
+      "districtNumber": 78,
+      "oikTvd": "100100225883497"
+    }
   },
   {
     "uikNumber": 297,
     "uikTvd": "4324009255998",
     "tikTvd": "23220001386520",
-    "tikName": "Дубровская"
+    "tikName": "Дубровская",
+    "uikName": "УИК №297",
+    "regionCode": "32",
+    "regionTvd": "100100225883495",
+    "regionName": "Брянская область",
+    "oikTvd": "100100225883497",
+    "oikName": "Брянская область – Унечский",
+    "district": {
+      "districtNumber": 78,
+      "oikTvd": "100100225883497"
+    }
   },
   {
     "uikNumber": 298,
     "uikTvd": "4324009255999",
     "tikTvd": "23220001386520",
-    "tikName": "Дубровская"
+    "tikName": "Дубровская",
+    "uikName": "УИК №298",
+    "regionCode": "32",
+    "regionTvd": "100100225883495",
+    "regionName": "Брянская область",
+    "oikTvd": "100100225883497",
+    "oikName": "Брянская область – Унечский",
+    "district": {
+      "districtNumber": 78,
+      "oikTvd": "100100225883497"
+    }
   },
   {
     "uikNumber": 299,
     "uikTvd": "4324009256000",
     "tikTvd": "23220001386520",
-    "tikName": "Дубровская"
+    "tikName": "Дубровская",
+    "uikName": "УИК №299",
+    "regionCode": "32",
+    "regionTvd": "100100225883495",
+    "regionName": "Брянская область",
+    "oikTvd": "100100225883497",
+    "oikName": "Брянская область – Унечский",
+    "district": {
+      "districtNumber": 78,
+      "oikTvd": "100100225883497"
+    }
   },
   {
     "uikNumber": 300,
     "uikTvd": "4324009256001",
     "tikTvd": "23220001386520",
-    "tikName": "Дубровская"
+    "tikName": "Дубровская",
+    "uikName": "УИК №300",
+    "regionCode": "32",
+    "regionTvd": "100100225883495",
+    "regionName": "Брянская область",
+    "oikTvd": "100100225883497",
+    "oikName": "Брянская область – Унечский",
+    "district": {
+      "districtNumber": 78,
+      "oikTvd": "100100225883497"
+    }
   },
   {
     "uikNumber": 301,
     "uikTvd": "4324009256002",
     "tikTvd": "23220001386520",
-    "tikName": "Дубровская"
+    "tikName": "Дубровская",
+    "uikName": "УИК №301",
+    "regionCode": "32",
+    "regionTvd": "100100225883495",
+    "regionName": "Брянская область",
+    "oikTvd": "100100225883497",
+    "oikName": "Брянская область – Унечский",
+    "district": {
+      "districtNumber": 78,
+      "oikTvd": "100100225883497"
+    }
   },
   {
     "uikNumber": 302,
     "uikTvd": "4324009256003",
     "tikTvd": "23220001386520",
-    "tikName": "Дубровская"
+    "tikName": "Дубровская",
+    "uikName": "УИК №302",
+    "regionCode": "32",
+    "regionTvd": "100100225883495",
+    "regionName": "Брянская область",
+    "oikTvd": "100100225883497",
+    "oikName": "Брянская область – Унечский",
+    "district": {
+      "districtNumber": 78,
+      "oikTvd": "100100225883497"
+    }
   },
   {
     "uikNumber": 303,
     "uikTvd": "4324009256004",
     "tikTvd": "23220001386520",
-    "tikName": "Дубровская"
+    "tikName": "Дубровская",
+    "uikName": "УИК №303",
+    "regionCode": "32",
+    "regionTvd": "100100225883495",
+    "regionName": "Брянская область",
+    "oikTvd": "100100225883497",
+    "oikName": "Брянская область – Унечский",
+    "district": {
+      "districtNumber": 78,
+      "oikTvd": "100100225883497"
+    }
   },
   {
     "uikNumber": 304,
     "uikTvd": "4324009256005",
     "tikTvd": "23220001386520",
-    "tikName": "Дубровская"
+    "tikName": "Дубровская",
+    "uikName": "УИК №304",
+    "regionCode": "32",
+    "regionTvd": "100100225883495",
+    "regionName": "Брянская область",
+    "oikTvd": "100100225883497",
+    "oikName": "Брянская область – Унечский",
+    "district": {
+      "districtNumber": 78,
+      "oikTvd": "100100225883497"
+    }
   },
   {
     "uikNumber": 305,
     "uikTvd": "4324009256006",
     "tikTvd": "23220001386520",
-    "tikName": "Дубровская"
+    "tikName": "Дубровская",
+    "uikName": "УИК №305",
+    "regionCode": "32",
+    "regionTvd": "100100225883495",
+    "regionName": "Брянская область",
+    "oikTvd": "100100225883497",
+    "oikName": "Брянская область – Унечский",
+    "district": {
+      "districtNumber": 78,
+      "oikTvd": "100100225883497"
+    }
   },
   {
     "uikNumber": 307,
     "uikTvd": "4324009256007",
     "tikTvd": "23220001386520",
-    "tikName": "Дубровская"
+    "tikName": "Дубровская",
+    "uikName": "УИК №307",
+    "regionCode": "32",
+    "regionTvd": "100100225883495",
+    "regionName": "Брянская область",
+    "oikTvd": "100100225883497",
+    "oikName": "Брянская область – Унечский",
+    "district": {
+      "districtNumber": 78,
+      "oikTvd": "100100225883497"
+    }
   },
   {
     "uikNumber": 308,
     "uikTvd": "4324009256008",
     "tikTvd": "23220001386520",
-    "tikName": "Дубровская"
+    "tikName": "Дубровская",
+    "uikName": "УИК №308",
+    "regionCode": "32",
+    "regionTvd": "100100225883495",
+    "regionName": "Брянская область",
+    "oikTvd": "100100225883497",
+    "oikName": "Брянская область – Унечский",
+    "district": {
+      "districtNumber": 78,
+      "oikTvd": "100100225883497"
+    }
   },
   {
     "uikNumber": 309,
     "uikTvd": "4324009256009",
     "tikTvd": "23220001386520",
-    "tikName": "Дубровская"
+    "tikName": "Дубровская",
+    "uikName": "УИК №309",
+    "regionCode": "32",
+    "regionTvd": "100100225883495",
+    "regionName": "Брянская область",
+    "oikTvd": "100100225883497",
+    "oikName": "Брянская область – Унечский",
+    "district": {
+      "districtNumber": 78,
+      "oikTvd": "100100225883497"
+    }
   },
   {
     "uikNumber": 310,
     "uikTvd": "4324009256010",
     "tikTvd": "23220001386520",
-    "tikName": "Дубровская"
+    "tikName": "Дубровская",
+    "uikName": "УИК №310",
+    "regionCode": "32",
+    "regionTvd": "100100225883495",
+    "regionName": "Брянская область",
+    "oikTvd": "100100225883497",
+    "oikName": "Брянская область – Унечский",
+    "district": {
+      "districtNumber": 78,
+      "oikTvd": "100100225883497"
+    }
   },
   {
     "uikNumber": 311,
     "uikTvd": "4324009256011",
     "tikTvd": "23220001386520",
-    "tikName": "Дубровская"
+    "tikName": "Дубровская",
+    "uikName": "УИК №311",
+    "regionCode": "32",
+    "regionTvd": "100100225883495",
+    "regionName": "Брянская область",
+    "oikTvd": "100100225883497",
+    "oikName": "Брянская область – Унечский",
+    "district": {
+      "districtNumber": 78,
+      "oikTvd": "100100225883497"
+    }
   },
   {
     "uikNumber": 312,
     "uikTvd": "4324009256012",
     "tikTvd": "23220001386520",
-    "tikName": "Дубровская"
+    "tikName": "Дубровская",
+    "uikName": "УИК №312",
+    "regionCode": "32",
+    "regionTvd": "100100225883495",
+    "regionName": "Брянская область",
+    "oikTvd": "100100225883497",
+    "oikName": "Брянская область – Унечский",
+    "district": {
+      "districtNumber": 78,
+      "oikTvd": "100100225883497"
+    }
   },
   {
     "uikNumber": 313,
     "uikTvd": "4324009256013",
     "tikTvd": "23220001386520",
-    "tikName": "Дубровская"
+    "tikName": "Дубровская",
+    "uikName": "УИК №313",
+    "regionCode": "32",
+    "regionTvd": "100100225883495",
+    "regionName": "Брянская область",
+    "oikTvd": "100100225883497",
+    "oikName": "Брянская область – Унечский",
+    "district": {
+      "districtNumber": 78,
+      "oikTvd": "100100225883497"
+    }
   },
   {
     "uikNumber": 314,
     "uikTvd": "4324009256014",
     "tikTvd": "23220001386520",
-    "tikName": "Дубровская"
+    "tikName": "Дубровская",
+    "uikName": "УИК №314",
+    "regionCode": "32",
+    "regionTvd": "100100225883495",
+    "regionName": "Брянская область",
+    "oikTvd": "100100225883497",
+    "oikName": "Брянская область – Унечский",
+    "district": {
+      "districtNumber": 78,
+      "oikTvd": "100100225883497"
+    }
   },
   {
     "uikNumber": 315,
     "uikTvd": "4324009256015",
     "tikTvd": "23220001386520",
-    "tikName": "Дубровская"
+    "tikName": "Дубровская",
+    "uikName": "УИК №315",
+    "regionCode": "32",
+    "regionTvd": "100100225883495",
+    "regionName": "Брянская область",
+    "oikTvd": "100100225883497",
+    "oikName": "Брянская область – Унечский",
+    "district": {
+      "districtNumber": 78,
+      "oikTvd": "100100225883497"
+    }
   },
   {
     "uikNumber": 316,
     "uikTvd": "4324009256016",
     "tikTvd": "23220001386520",
-    "tikName": "Дубровская"
+    "tikName": "Дубровская",
+    "uikName": "УИК №316",
+    "regionCode": "32",
+    "regionTvd": "100100225883495",
+    "regionName": "Брянская область",
+    "oikTvd": "100100225883497",
+    "oikName": "Брянская область – Унечский",
+    "district": {
+      "districtNumber": 78,
+      "oikTvd": "100100225883497"
+    }
   },
   {
     "uikNumber": 318,
     "uikTvd": "4324010499803",
     "tikTvd": "23220001386521",
-    "tikName": "Дятьковская"
+    "tikName": "Дятьковская",
+    "uikName": "УИК №318",
+    "regionCode": "32",
+    "regionTvd": "100100225883495",
+    "regionName": "Брянская область",
+    "oikTvd": "100100225883497",
+    "oikName": "Брянская область – Унечский",
+    "district": {
+      "districtNumber": 78,
+      "oikTvd": "100100225883497"
+    }
   },
   {
     "uikNumber": 319,
     "uikTvd": "4324010499804",
     "tikTvd": "23220001386521",
-    "tikName": "Дятьковская"
+    "tikName": "Дятьковская",
+    "uikName": "УИК №319",
+    "regionCode": "32",
+    "regionTvd": "100100225883495",
+    "regionName": "Брянская область",
+    "oikTvd": "100100225883497",
+    "oikName": "Брянская область – Унечский",
+    "district": {
+      "districtNumber": 78,
+      "oikTvd": "100100225883497"
+    }
   },
   {
     "uikNumber": 320,
     "uikTvd": "4324010499805",
     "tikTvd": "23220001386521",
-    "tikName": "Дятьковская"
+    "tikName": "Дятьковская",
+    "uikName": "УИК №320",
+    "regionCode": "32",
+    "regionTvd": "100100225883495",
+    "regionName": "Брянская область",
+    "oikTvd": "100100225883497",
+    "oikName": "Брянская область – Унечский",
+    "district": {
+      "districtNumber": 78,
+      "oikTvd": "100100225883497"
+    }
   },
   {
     "uikNumber": 321,
     "uikTvd": "4324010499806",
     "tikTvd": "23220001386521",
-    "tikName": "Дятьковская"
+    "tikName": "Дятьковская",
+    "uikName": "УИК №321",
+    "regionCode": "32",
+    "regionTvd": "100100225883495",
+    "regionName": "Брянская область",
+    "oikTvd": "100100225883497",
+    "oikName": "Брянская область – Унечский",
+    "district": {
+      "districtNumber": 78,
+      "oikTvd": "100100225883497"
+    }
   },
   {
     "uikNumber": 322,
     "uikTvd": "4324010499807",
     "tikTvd": "23220001386521",
-    "tikName": "Дятьковская"
+    "tikName": "Дятьковская",
+    "uikName": "УИК №322",
+    "regionCode": "32",
+    "regionTvd": "100100225883495",
+    "regionName": "Брянская область",
+    "oikTvd": "100100225883497",
+    "oikName": "Брянская область – Унечский",
+    "district": {
+      "districtNumber": 78,
+      "oikTvd": "100100225883497"
+    }
   },
   {
     "uikNumber": 323,
     "uikTvd": "4324010499808",
     "tikTvd": "23220001386521",
-    "tikName": "Дятьковская"
+    "tikName": "Дятьковская",
+    "uikName": "УИК №323",
+    "regionCode": "32",
+    "regionTvd": "100100225883495",
+    "regionName": "Брянская область",
+    "oikTvd": "100100225883497",
+    "oikName": "Брянская область – Унечский",
+    "district": {
+      "districtNumber": 78,
+      "oikTvd": "100100225883497"
+    }
   },
   {
     "uikNumber": 324,
     "uikTvd": "4324010499809",
     "tikTvd": "23220001386521",
-    "tikName": "Дятьковская"
+    "tikName": "Дятьковская",
+    "uikName": "УИК №324",
+    "regionCode": "32",
+    "regionTvd": "100100225883495",
+    "regionName": "Брянская область",
+    "oikTvd": "100100225883497",
+    "oikName": "Брянская область – Унечский",
+    "district": {
+      "districtNumber": 78,
+      "oikTvd": "100100225883497"
+    }
   },
   {
     "uikNumber": 325,
     "uikTvd": "4324010499810",
     "tikTvd": "23220001386521",
-    "tikName": "Дятьковская"
+    "tikName": "Дятьковская",
+    "uikName": "УИК №325",
+    "regionCode": "32",
+    "regionTvd": "100100225883495",
+    "regionName": "Брянская область",
+    "oikTvd": "100100225883497",
+    "oikName": "Брянская область – Унечский",
+    "district": {
+      "districtNumber": 78,
+      "oikTvd": "100100225883497"
+    }
   },
   {
     "uikNumber": 326,
     "uikTvd": "4324010499811",
     "tikTvd": "23220001386521",
-    "tikName": "Дятьковская"
+    "tikName": "Дятьковская",
+    "uikName": "УИК №326",
+    "regionCode": "32",
+    "regionTvd": "100100225883495",
+    "regionName": "Брянская область",
+    "oikTvd": "100100225883497",
+    "oikName": "Брянская область – Унечский",
+    "district": {
+      "districtNumber": 78,
+      "oikTvd": "100100225883497"
+    }
   },
   {
     "uikNumber": 327,
     "uikTvd": "4324010499812",
     "tikTvd": "23220001386521",
-    "tikName": "Дятьковская"
+    "tikName": "Дятьковская",
+    "uikName": "УИК №327",
+    "regionCode": "32",
+    "regionTvd": "100100225883495",
+    "regionName": "Брянская область",
+    "oikTvd": "100100225883497",
+    "oikName": "Брянская область – Унечский",
+    "district": {
+      "districtNumber": 78,
+      "oikTvd": "100100225883497"
+    }
   },
   {
     "uikNumber": 328,
     "uikTvd": "4324010499813",
     "tikTvd": "23220001386521",
-    "tikName": "Дятьковская"
+    "tikName": "Дятьковская",
+    "uikName": "УИК №328",
+    "regionCode": "32",
+    "regionTvd": "100100225883495",
+    "regionName": "Брянская область",
+    "oikTvd": "100100225883497",
+    "oikName": "Брянская область – Унечский",
+    "district": {
+      "districtNumber": 78,
+      "oikTvd": "100100225883497"
+    }
   },
   {
     "uikNumber": 329,
     "uikTvd": "4324010499814",
     "tikTvd": "23220001386521",
-    "tikName": "Дятьковская"
+    "tikName": "Дятьковская",
+    "uikName": "УИК №329",
+    "regionCode": "32",
+    "regionTvd": "100100225883495",
+    "regionName": "Брянская область",
+    "oikTvd": "100100225883497",
+    "oikName": "Брянская область – Унечский",
+    "district": {
+      "districtNumber": 78,
+      "oikTvd": "100100225883497"
+    }
   },
   {
     "uikNumber": 330,
     "uikTvd": "4324010499815",
     "tikTvd": "23220001386521",
-    "tikName": "Дятьковская"
+    "tikName": "Дятьковская",
+    "uikName": "УИК №330",
+    "regionCode": "32",
+    "regionTvd": "100100225883495",
+    "regionName": "Брянская область",
+    "oikTvd": "100100225883497",
+    "oikName": "Брянская область – Унечский",
+    "district": {
+      "districtNumber": 78,
+      "oikTvd": "100100225883497"
+    }
   },
   {
     "uikNumber": 331,
     "uikTvd": "4324010499816",
     "tikTvd": "23220001386521",
-    "tikName": "Дятьковская"
+    "tikName": "Дятьковская",
+    "uikName": "УИК №331",
+    "regionCode": "32",
+    "regionTvd": "100100225883495",
+    "regionName": "Брянская область",
+    "oikTvd": "100100225883497",
+    "oikName": "Брянская область – Унечский",
+    "district": {
+      "districtNumber": 78,
+      "oikTvd": "100100225883497"
+    }
   },
   {
     "uikNumber": 332,
     "uikTvd": "4324010499817",
     "tikTvd": "23220001386521",
-    "tikName": "Дятьковская"
+    "tikName": "Дятьковская",
+    "uikName": "УИК №332",
+    "regionCode": "32",
+    "regionTvd": "100100225883495",
+    "regionName": "Брянская область",
+    "oikTvd": "100100225883497",
+    "oikName": "Брянская область – Унечский",
+    "district": {
+      "districtNumber": 78,
+      "oikTvd": "100100225883497"
+    }
   },
   {
     "uikNumber": 333,
     "uikTvd": "4324010499818",
     "tikTvd": "23220001386521",
-    "tikName": "Дятьковская"
+    "tikName": "Дятьковская",
+    "uikName": "УИК №333",
+    "regionCode": "32",
+    "regionTvd": "100100225883495",
+    "regionName": "Брянская область",
+    "oikTvd": "100100225883497",
+    "oikName": "Брянская область – Унечский",
+    "district": {
+      "districtNumber": 78,
+      "oikTvd": "100100225883497"
+    }
   },
   {
     "uikNumber": 334,
     "uikTvd": "4324010499819",
     "tikTvd": "23220001386521",
-    "tikName": "Дятьковская"
+    "tikName": "Дятьковская",
+    "uikName": "УИК №334",
+    "regionCode": "32",
+    "regionTvd": "100100225883495",
+    "regionName": "Брянская область",
+    "oikTvd": "100100225883497",
+    "oikName": "Брянская область – Унечский",
+    "district": {
+      "districtNumber": 78,
+      "oikTvd": "100100225883497"
+    }
   },
   {
     "uikNumber": 335,
     "uikTvd": "4324010499820",
     "tikTvd": "23220001386521",
-    "tikName": "Дятьковская"
+    "tikName": "Дятьковская",
+    "uikName": "УИК №335",
+    "regionCode": "32",
+    "regionTvd": "100100225883495",
+    "regionName": "Брянская область",
+    "oikTvd": "100100225883497",
+    "oikName": "Брянская область – Унечский",
+    "district": {
+      "districtNumber": 78,
+      "oikTvd": "100100225883497"
+    }
   },
   {
     "uikNumber": 336,
     "uikTvd": "4324010499821",
     "tikTvd": "23220001386521",
-    "tikName": "Дятьковская"
+    "tikName": "Дятьковская",
+    "uikName": "УИК №336",
+    "regionCode": "32",
+    "regionTvd": "100100225883495",
+    "regionName": "Брянская область",
+    "oikTvd": "100100225883497",
+    "oikName": "Брянская область – Унечский",
+    "district": {
+      "districtNumber": 78,
+      "oikTvd": "100100225883497"
+    }
   },
   {
     "uikNumber": 337,
     "uikTvd": "4324010499822",
     "tikTvd": "23220001386521",
-    "tikName": "Дятьковская"
+    "tikName": "Дятьковская",
+    "uikName": "УИК №337",
+    "regionCode": "32",
+    "regionTvd": "100100225883495",
+    "regionName": "Брянская область",
+    "oikTvd": "100100225883497",
+    "oikName": "Брянская область – Унечский",
+    "district": {
+      "districtNumber": 78,
+      "oikTvd": "100100225883497"
+    }
   },
   {
     "uikNumber": 338,
     "uikTvd": "4324010499823",
     "tikTvd": "23220001386521",
-    "tikName": "Дятьковская"
+    "tikName": "Дятьковская",
+    "uikName": "УИК №338",
+    "regionCode": "32",
+    "regionTvd": "100100225883495",
+    "regionName": "Брянская область",
+    "oikTvd": "100100225883497",
+    "oikName": "Брянская область – Унечский",
+    "district": {
+      "districtNumber": 78,
+      "oikTvd": "100100225883497"
+    }
   },
   {
     "uikNumber": 339,
     "uikTvd": "4324010499824",
     "tikTvd": "23220001386521",
-    "tikName": "Дятьковская"
+    "tikName": "Дятьковская",
+    "uikName": "УИК №339",
+    "regionCode": "32",
+    "regionTvd": "100100225883495",
+    "regionName": "Брянская область",
+    "oikTvd": "100100225883497",
+    "oikName": "Брянская область – Унечский",
+    "district": {
+      "districtNumber": 78,
+      "oikTvd": "100100225883497"
+    }
   },
   {
     "uikNumber": 340,
     "uikTvd": "4324010499825",
     "tikTvd": "23220001386521",
-    "tikName": "Дятьковская"
+    "tikName": "Дятьковская",
+    "uikName": "УИК №340",
+    "regionCode": "32",
+    "regionTvd": "100100225883495",
+    "regionName": "Брянская область",
+    "oikTvd": "100100225883497",
+    "oikName": "Брянская область – Унечский",
+    "district": {
+      "districtNumber": 78,
+      "oikTvd": "100100225883497"
+    }
   },
   {
     "uikNumber": 341,
     "uikTvd": "4324010499826",
     "tikTvd": "23220001386521",
-    "tikName": "Дятьковская"
+    "tikName": "Дятьковская",
+    "uikName": "УИК №341",
+    "regionCode": "32",
+    "regionTvd": "100100225883495",
+    "regionName": "Брянская область",
+    "oikTvd": "100100225883497",
+    "oikName": "Брянская область – Унечский",
+    "district": {
+      "districtNumber": 78,
+      "oikTvd": "100100225883497"
+    }
   },
   {
     "uikNumber": 342,
     "uikTvd": "4324010499827",
     "tikTvd": "23220001386521",
-    "tikName": "Дятьковская"
+    "tikName": "Дятьковская",
+    "uikName": "УИК №342",
+    "regionCode": "32",
+    "regionTvd": "100100225883495",
+    "regionName": "Брянская область",
+    "oikTvd": "100100225883497",
+    "oikName": "Брянская область – Унечский",
+    "district": {
+      "districtNumber": 78,
+      "oikTvd": "100100225883497"
+    }
   },
   {
     "uikNumber": 343,
     "uikTvd": "4324010499828",
     "tikTvd": "23220001386521",
-    "tikName": "Дятьковская"
+    "tikName": "Дятьковская",
+    "uikName": "УИК №343",
+    "regionCode": "32",
+    "regionTvd": "100100225883495",
+    "regionName": "Брянская область",
+    "oikTvd": "100100225883497",
+    "oikName": "Брянская область – Унечский",
+    "district": {
+      "districtNumber": 78,
+      "oikTvd": "100100225883497"
+    }
   },
   {
     "uikNumber": 344,
     "uikTvd": "4324010499829",
     "tikTvd": "23220001386521",
-    "tikName": "Дятьковская"
+    "tikName": "Дятьковская",
+    "uikName": "УИК №344",
+    "regionCode": "32",
+    "regionTvd": "100100225883495",
+    "regionName": "Брянская область",
+    "oikTvd": "100100225883497",
+    "oikName": "Брянская область – Унечский",
+    "district": {
+      "districtNumber": 78,
+      "oikTvd": "100100225883497"
+    }
   },
   {
     "uikNumber": 345,
     "uikTvd": "4324010499830",
     "tikTvd": "23220001386521",
-    "tikName": "Дятьковская"
+    "tikName": "Дятьковская",
+    "uikName": "УИК №345",
+    "regionCode": "32",
+    "regionTvd": "100100225883495",
+    "regionName": "Брянская область",
+    "oikTvd": "100100225883497",
+    "oikName": "Брянская область – Унечский",
+    "district": {
+      "districtNumber": 78,
+      "oikTvd": "100100225883497"
+    }
   },
   {
     "uikNumber": 346,
     "uikTvd": "4324010499831",
     "tikTvd": "23220001386521",
-    "tikName": "Дятьковская"
+    "tikName": "Дятьковская",
+    "uikName": "УИК №346",
+    "regionCode": "32",
+    "regionTvd": "100100225883495",
+    "regionName": "Брянская область",
+    "oikTvd": "100100225883497",
+    "oikName": "Брянская область – Унечский",
+    "district": {
+      "districtNumber": 78,
+      "oikTvd": "100100225883497"
+    }
   },
   {
     "uikNumber": 347,
     "uikTvd": "4324010499832",
     "tikTvd": "23220001386521",
-    "tikName": "Дятьковская"
+    "tikName": "Дятьковская",
+    "uikName": "УИК №347",
+    "regionCode": "32",
+    "regionTvd": "100100225883495",
+    "regionName": "Брянская область",
+    "oikTvd": "100100225883497",
+    "oikName": "Брянская область – Унечский",
+    "district": {
+      "districtNumber": 78,
+      "oikTvd": "100100225883497"
+    }
   },
   {
     "uikNumber": 348,
     "uikTvd": "4324010499833",
     "tikTvd": "23220001386521",
-    "tikName": "Дятьковская"
+    "tikName": "Дятьковская",
+    "uikName": "УИК №348",
+    "regionCode": "32",
+    "regionTvd": "100100225883495",
+    "regionName": "Брянская область",
+    "oikTvd": "100100225883497",
+    "oikName": "Брянская область – Унечский",
+    "district": {
+      "districtNumber": 78,
+      "oikTvd": "100100225883497"
+    }
   },
   {
     "uikNumber": 349,
     "uikTvd": "4324010499834",
     "tikTvd": "23220001386521",
-    "tikName": "Дятьковская"
+    "tikName": "Дятьковская",
+    "uikName": "УИК №349",
+    "regionCode": "32",
+    "regionTvd": "100100225883495",
+    "regionName": "Брянская область",
+    "oikTvd": "100100225883497",
+    "oikName": "Брянская область – Унечский",
+    "district": {
+      "districtNumber": 78,
+      "oikTvd": "100100225883497"
+    }
   },
   {
     "uikNumber": 350,
     "uikTvd": "4324010499835",
     "tikTvd": "23220001386521",
-    "tikName": "Дятьковская"
+    "tikName": "Дятьковская",
+    "uikName": "УИК №350",
+    "regionCode": "32",
+    "regionTvd": "100100225883495",
+    "regionName": "Брянская область",
+    "oikTvd": "100100225883497",
+    "oikName": "Брянская область – Унечский",
+    "district": {
+      "districtNumber": 78,
+      "oikTvd": "100100225883497"
+    }
   },
   {
     "uikNumber": 351,
     "uikTvd": "4324010499836",
     "tikTvd": "23220001386521",
-    "tikName": "Дятьковская"
+    "tikName": "Дятьковская",
+    "uikName": "УИК №351",
+    "regionCode": "32",
+    "regionTvd": "100100225883495",
+    "regionName": "Брянская область",
+    "oikTvd": "100100225883497",
+    "oikName": "Брянская область – Унечский",
+    "district": {
+      "districtNumber": 78,
+      "oikTvd": "100100225883497"
+    }
   },
   {
     "uikNumber": 352,
     "uikTvd": "4324010499837",
     "tikTvd": "23220001386521",
-    "tikName": "Дятьковская"
+    "tikName": "Дятьковская",
+    "uikName": "УИК №352",
+    "regionCode": "32",
+    "regionTvd": "100100225883495",
+    "regionName": "Брянская область",
+    "oikTvd": "100100225883497",
+    "oikName": "Брянская область – Унечский",
+    "district": {
+      "districtNumber": 78,
+      "oikTvd": "100100225883497"
+    }
   },
   {
     "uikNumber": 353,
     "uikTvd": "4324010499838",
     "tikTvd": "23220001386521",
-    "tikName": "Дятьковская"
+    "tikName": "Дятьковская",
+    "uikName": "УИК №353",
+    "regionCode": "32",
+    "regionTvd": "100100225883495",
+    "regionName": "Брянская область",
+    "oikTvd": "100100225883497",
+    "oikName": "Брянская область – Унечский",
+    "district": {
+      "districtNumber": 78,
+      "oikTvd": "100100225883497"
+    }
   },
   {
     "uikNumber": 354,
     "uikTvd": "4324010499839",
     "tikTvd": "23220001386521",
-    "tikName": "Дятьковская"
+    "tikName": "Дятьковская",
+    "uikName": "УИК №354",
+    "regionCode": "32",
+    "regionTvd": "100100225883495",
+    "regionName": "Брянская область",
+    "oikTvd": "100100225883497",
+    "oikName": "Брянская область – Унечский",
+    "district": {
+      "districtNumber": 78,
+      "oikTvd": "100100225883497"
+    }
   },
   {
     "uikNumber": 355,
     "uikTvd": "4324010499840",
     "tikTvd": "23220001386521",
-    "tikName": "Дятьковская"
+    "tikName": "Дятьковская",
+    "uikName": "УИК №355",
+    "regionCode": "32",
+    "regionTvd": "100100225883495",
+    "regionName": "Брянская область",
+    "oikTvd": "100100225883497",
+    "oikName": "Брянская область – Унечский",
+    "district": {
+      "districtNumber": 78,
+      "oikTvd": "100100225883497"
+    }
   },
   {
     "uikNumber": 356,
     "uikTvd": "4324010499841",
     "tikTvd": "23220001386521",
-    "tikName": "Дятьковская"
+    "tikName": "Дятьковская",
+    "uikName": "УИК №356",
+    "regionCode": "32",
+    "regionTvd": "100100225883495",
+    "regionName": "Брянская область",
+    "oikTvd": "100100225883497",
+    "oikName": "Брянская область – Унечский",
+    "district": {
+      "districtNumber": 78,
+      "oikTvd": "100100225883497"
+    }
   },
   {
     "uikNumber": 357,
     "uikTvd": "4324010499842",
     "tikTvd": "23220001386521",
-    "tikName": "Дятьковская"
+    "tikName": "Дятьковская",
+    "uikName": "УИК №357",
+    "regionCode": "32",
+    "regionTvd": "100100225883495",
+    "regionName": "Брянская область",
+    "oikTvd": "100100225883497",
+    "oikName": "Брянская область – Унечский",
+    "district": {
+      "districtNumber": 78,
+      "oikTvd": "100100225883497"
+    }
   },
   {
     "uikNumber": 358,
     "uikTvd": "4324010499843",
     "tikTvd": "23220001386521",
-    "tikName": "Дятьковская"
+    "tikName": "Дятьковская",
+    "uikName": "УИК №358",
+    "regionCode": "32",
+    "regionTvd": "100100225883495",
+    "regionName": "Брянская область",
+    "oikTvd": "100100225883497",
+    "oikName": "Брянская область – Унечский",
+    "district": {
+      "districtNumber": 78,
+      "oikTvd": "100100225883497"
+    }
   },
   {
     "uikNumber": 359,
     "uikTvd": "4324010499844",
     "tikTvd": "23220001386521",
-    "tikName": "Дятьковская"
+    "tikName": "Дятьковская",
+    "uikName": "УИК №359",
+    "regionCode": "32",
+    "regionTvd": "100100225883495",
+    "regionName": "Брянская область",
+    "oikTvd": "100100225883497",
+    "oikName": "Брянская область – Унечский",
+    "district": {
+      "districtNumber": 78,
+      "oikTvd": "100100225883497"
+    }
   },
   {
     "uikNumber": 360,
     "uikTvd": "4324010499845",
     "tikTvd": "23220001386521",
-    "tikName": "Дятьковская"
+    "tikName": "Дятьковская",
+    "uikName": "УИК №360",
+    "regionCode": "32",
+    "regionTvd": "100100225883495",
+    "regionName": "Брянская область",
+    "oikTvd": "100100225883497",
+    "oikName": "Брянская область – Унечский",
+    "district": {
+      "districtNumber": 78,
+      "oikTvd": "100100225883497"
+    }
   },
   {
     "uikNumber": 361,
     "uikTvd": "4324010499846",
     "tikTvd": "23220001386521",
-    "tikName": "Дятьковская"
+    "tikName": "Дятьковская",
+    "uikName": "УИК №361",
+    "regionCode": "32",
+    "regionTvd": "100100225883495",
+    "regionName": "Брянская область",
+    "oikTvd": "100100225883497",
+    "oikName": "Брянская область – Унечский",
+    "district": {
+      "districtNumber": 78,
+      "oikTvd": "100100225883497"
+    }
   },
   {
     "uikNumber": 362,
     "uikTvd": "4324010499847",
     "tikTvd": "23220001386521",
-    "tikName": "Дятьковская"
+    "tikName": "Дятьковская",
+    "uikName": "УИК №362",
+    "regionCode": "32",
+    "regionTvd": "100100225883495",
+    "regionName": "Брянская область",
+    "oikTvd": "100100225883497",
+    "oikName": "Брянская область – Унечский",
+    "district": {
+      "districtNumber": 78,
+      "oikTvd": "100100225883497"
+    }
   },
   {
     "uikNumber": 363,
     "uikTvd": "4324010499848",
     "tikTvd": "23220001386521",
-    "tikName": "Дятьковская"
+    "tikName": "Дятьковская",
+    "uikName": "УИК №363",
+    "regionCode": "32",
+    "regionTvd": "100100225883495",
+    "regionName": "Брянская область",
+    "oikTvd": "100100225883497",
+    "oikName": "Брянская область – Унечский",
+    "district": {
+      "districtNumber": 78,
+      "oikTvd": "100100225883497"
+    }
   },
   {
     "uikNumber": 364,
     "uikTvd": "4324011245708",
     "tikTvd": "23220001386522",
-    "tikName": "Жирятинская"
+    "tikName": "Жирятинская",
+    "uikName": "УИК №364",
+    "regionCode": "32",
+    "regionTvd": "100100225883495",
+    "regionName": "Брянская область",
+    "oikTvd": "100100225883497",
+    "oikName": "Брянская область – Унечский",
+    "district": {
+      "districtNumber": 78,
+      "oikTvd": "100100225883497"
+    }
   },
   {
     "uikNumber": 365,
     "uikTvd": "4324011245709",
     "tikTvd": "23220001386522",
-    "tikName": "Жирятинская"
+    "tikName": "Жирятинская",
+    "uikName": "УИК №365",
+    "regionCode": "32",
+    "regionTvd": "100100225883495",
+    "regionName": "Брянская область",
+    "oikTvd": "100100225883497",
+    "oikName": "Брянская область – Унечский",
+    "district": {
+      "districtNumber": 78,
+      "oikTvd": "100100225883497"
+    }
   },
   {
     "uikNumber": 366,
     "uikTvd": "4324011245710",
     "tikTvd": "23220001386522",
-    "tikName": "Жирятинская"
+    "tikName": "Жирятинская",
+    "uikName": "УИК №366",
+    "regionCode": "32",
+    "regionTvd": "100100225883495",
+    "regionName": "Брянская область",
+    "oikTvd": "100100225883497",
+    "oikName": "Брянская область – Унечский",
+    "district": {
+      "districtNumber": 78,
+      "oikTvd": "100100225883497"
+    }
   },
   {
     "uikNumber": 367,
     "uikTvd": "4324011245711",
     "tikTvd": "23220001386522",
-    "tikName": "Жирятинская"
+    "tikName": "Жирятинская",
+    "uikName": "УИК №367",
+    "regionCode": "32",
+    "regionTvd": "100100225883495",
+    "regionName": "Брянская область",
+    "oikTvd": "100100225883497",
+    "oikName": "Брянская область – Унечский",
+    "district": {
+      "districtNumber": 78,
+      "oikTvd": "100100225883497"
+    }
   },
   {
     "uikNumber": 368,
     "uikTvd": "4324011245712",
     "tikTvd": "23220001386522",
-    "tikName": "Жирятинская"
+    "tikName": "Жирятинская",
+    "uikName": "УИК №368",
+    "regionCode": "32",
+    "regionTvd": "100100225883495",
+    "regionName": "Брянская область",
+    "oikTvd": "100100225883497",
+    "oikName": "Брянская область – Унечский",
+    "district": {
+      "districtNumber": 78,
+      "oikTvd": "100100225883497"
+    }
   },
   {
     "uikNumber": 369,
     "uikTvd": "4324011245713",
     "tikTvd": "23220001386522",
-    "tikName": "Жирятинская"
+    "tikName": "Жирятинская",
+    "uikName": "УИК №369",
+    "regionCode": "32",
+    "regionTvd": "100100225883495",
+    "regionName": "Брянская область",
+    "oikTvd": "100100225883497",
+    "oikName": "Брянская область – Унечский",
+    "district": {
+      "districtNumber": 78,
+      "oikTvd": "100100225883497"
+    }
   },
   {
     "uikNumber": 370,
     "uikTvd": "4324011245714",
     "tikTvd": "23220001386522",
-    "tikName": "Жирятинская"
+    "tikName": "Жирятинская",
+    "uikName": "УИК №370",
+    "regionCode": "32",
+    "regionTvd": "100100225883495",
+    "regionName": "Брянская область",
+    "oikTvd": "100100225883497",
+    "oikName": "Брянская область – Унечский",
+    "district": {
+      "districtNumber": 78,
+      "oikTvd": "100100225883497"
+    }
   },
   {
     "uikNumber": 371,
     "uikTvd": "4324011245715",
     "tikTvd": "23220001386522",
-    "tikName": "Жирятинская"
+    "tikName": "Жирятинская",
+    "uikName": "УИК №371",
+    "regionCode": "32",
+    "regionTvd": "100100225883495",
+    "regionName": "Брянская область",
+    "oikTvd": "100100225883497",
+    "oikName": "Брянская область – Унечский",
+    "district": {
+      "districtNumber": 78,
+      "oikTvd": "100100225883497"
+    }
   },
   {
     "uikNumber": 372,
     "uikTvd": "4324011245716",
     "tikTvd": "23220001386522",
-    "tikName": "Жирятинская"
+    "tikName": "Жирятинская",
+    "uikName": "УИК №372",
+    "regionCode": "32",
+    "regionTvd": "100100225883495",
+    "regionName": "Брянская область",
+    "oikTvd": "100100225883497",
+    "oikName": "Брянская область – Унечский",
+    "district": {
+      "districtNumber": 78,
+      "oikTvd": "100100225883497"
+    }
   },
   {
     "uikNumber": 373,
     "uikTvd": "4324011245717",
     "tikTvd": "23220001386522",
-    "tikName": "Жирятинская"
+    "tikName": "Жирятинская",
+    "uikName": "УИК №373",
+    "regionCode": "32",
+    "regionTvd": "100100225883495",
+    "regionName": "Брянская область",
+    "oikTvd": "100100225883497",
+    "oikName": "Брянская область – Унечский",
+    "district": {
+      "districtNumber": 78,
+      "oikTvd": "100100225883497"
+    }
   },
   {
     "uikNumber": 374,
     "uikTvd": "4324011245718",
     "tikTvd": "23220001386522",
-    "tikName": "Жирятинская"
+    "tikName": "Жирятинская",
+    "uikName": "УИК №374",
+    "regionCode": "32",
+    "regionTvd": "100100225883495",
+    "regionName": "Брянская область",
+    "oikTvd": "100100225883497",
+    "oikName": "Брянская область – Унечский",
+    "district": {
+      "districtNumber": 78,
+      "oikTvd": "100100225883497"
+    }
   },
   {
     "uikNumber": 375,
     "uikTvd": "4324011245719",
     "tikTvd": "23220001386522",
-    "tikName": "Жирятинская"
+    "tikName": "Жирятинская",
+    "uikName": "УИК №375",
+    "regionCode": "32",
+    "regionTvd": "100100225883495",
+    "regionName": "Брянская область",
+    "oikTvd": "100100225883497",
+    "oikName": "Брянская область – Унечский",
+    "district": {
+      "districtNumber": 78,
+      "oikTvd": "100100225883497"
+    }
   },
   {
     "uikNumber": 376,
     "uikTvd": "4324011245720",
     "tikTvd": "23220001386522",
-    "tikName": "Жирятинская"
+    "tikName": "Жирятинская",
+    "uikName": "УИК №376",
+    "regionCode": "32",
+    "regionTvd": "100100225883495",
+    "regionName": "Брянская область",
+    "oikTvd": "100100225883497",
+    "oikName": "Брянская область – Унечский",
+    "district": {
+      "districtNumber": 78,
+      "oikTvd": "100100225883497"
+    }
   },
   {
     "uikNumber": 377,
     "uikTvd": "4324011245721",
     "tikTvd": "23220001386522",
-    "tikName": "Жирятинская"
+    "tikName": "Жирятинская",
+    "uikName": "УИК №377",
+    "regionCode": "32",
+    "regionTvd": "100100225883495",
+    "regionName": "Брянская область",
+    "oikTvd": "100100225883497",
+    "oikName": "Брянская область – Унечский",
+    "district": {
+      "districtNumber": 78,
+      "oikTvd": "100100225883497"
+    }
   },
   {
     "uikNumber": 378,
     "uikTvd": "4324012377850",
     "tikTvd": "23220001386523",
-    "tikName": "Жуковская"
+    "tikName": "Жуковская",
+    "uikName": "УИК №378",
+    "regionCode": "32",
+    "regionTvd": "100100225883495",
+    "regionName": "Брянская область",
+    "oikTvd": "100100225883497",
+    "oikName": "Брянская область – Унечский",
+    "district": {
+      "districtNumber": 78,
+      "oikTvd": "100100225883497"
+    }
   },
   {
     "uikNumber": 379,
     "uikTvd": "4324012377851",
     "tikTvd": "23220001386523",
-    "tikName": "Жуковская"
+    "tikName": "Жуковская",
+    "uikName": "УИК №379",
+    "regionCode": "32",
+    "regionTvd": "100100225883495",
+    "regionName": "Брянская область",
+    "oikTvd": "100100225883497",
+    "oikName": "Брянская область – Унечский",
+    "district": {
+      "districtNumber": 78,
+      "oikTvd": "100100225883497"
+    }
   },
   {
     "uikNumber": 380,
     "uikTvd": "4324012377852",
     "tikTvd": "23220001386523",
-    "tikName": "Жуковская"
+    "tikName": "Жуковская",
+    "uikName": "УИК №380",
+    "regionCode": "32",
+    "regionTvd": "100100225883495",
+    "regionName": "Брянская область",
+    "oikTvd": "100100225883497",
+    "oikName": "Брянская область – Унечский",
+    "district": {
+      "districtNumber": 78,
+      "oikTvd": "100100225883497"
+    }
   },
   {
     "uikNumber": 381,
     "uikTvd": "4324012377853",
     "tikTvd": "23220001386523",
-    "tikName": "Жуковская"
+    "tikName": "Жуковская",
+    "uikName": "УИК №381",
+    "regionCode": "32",
+    "regionTvd": "100100225883495",
+    "regionName": "Брянская область",
+    "oikTvd": "100100225883497",
+    "oikName": "Брянская область – Унечский",
+    "district": {
+      "districtNumber": 78,
+      "oikTvd": "100100225883497"
+    }
   },
   {
     "uikNumber": 382,
     "uikTvd": "4324012377854",
     "tikTvd": "23220001386523",
-    "tikName": "Жуковская"
+    "tikName": "Жуковская",
+    "uikName": "УИК №382",
+    "regionCode": "32",
+    "regionTvd": "100100225883495",
+    "regionName": "Брянская область",
+    "oikTvd": "100100225883497",
+    "oikName": "Брянская область – Унечский",
+    "district": {
+      "districtNumber": 78,
+      "oikTvd": "100100225883497"
+    }
   },
   {
     "uikNumber": 383,
     "uikTvd": "4324012377855",
     "tikTvd": "23220001386523",
-    "tikName": "Жуковская"
+    "tikName": "Жуковская",
+    "uikName": "УИК №383",
+    "regionCode": "32",
+    "regionTvd": "100100225883495",
+    "regionName": "Брянская область",
+    "oikTvd": "100100225883497",
+    "oikName": "Брянская область – Унечский",
+    "district": {
+      "districtNumber": 78,
+      "oikTvd": "100100225883497"
+    }
   },
   {
     "uikNumber": 384,
     "uikTvd": "4324012377856",
     "tikTvd": "23220001386523",
-    "tikName": "Жуковская"
+    "tikName": "Жуковская",
+    "uikName": "УИК №384",
+    "regionCode": "32",
+    "regionTvd": "100100225883495",
+    "regionName": "Брянская область",
+    "oikTvd": "100100225883497",
+    "oikName": "Брянская область – Унечский",
+    "district": {
+      "districtNumber": 78,
+      "oikTvd": "100100225883497"
+    }
   },
   {
     "uikNumber": 385,
     "uikTvd": "4324012377857",
     "tikTvd": "23220001386523",
-    "tikName": "Жуковская"
+    "tikName": "Жуковская",
+    "uikName": "УИК №385",
+    "regionCode": "32",
+    "regionTvd": "100100225883495",
+    "regionName": "Брянская область",
+    "oikTvd": "100100225883497",
+    "oikName": "Брянская область – Унечский",
+    "district": {
+      "districtNumber": 78,
+      "oikTvd": "100100225883497"
+    }
   },
   {
     "uikNumber": 386,
     "uikTvd": "4324012377858",
     "tikTvd": "23220001386523",
-    "tikName": "Жуковская"
+    "tikName": "Жуковская",
+    "uikName": "УИК №386",
+    "regionCode": "32",
+    "regionTvd": "100100225883495",
+    "regionName": "Брянская область",
+    "oikTvd": "100100225883497",
+    "oikName": "Брянская область – Унечский",
+    "district": {
+      "districtNumber": 78,
+      "oikTvd": "100100225883497"
+    }
   },
   {
     "uikNumber": 387,
     "uikTvd": "4324012377859",
     "tikTvd": "23220001386523",
-    "tikName": "Жуковская"
+    "tikName": "Жуковская",
+    "uikName": "УИК №387",
+    "regionCode": "32",
+    "regionTvd": "100100225883495",
+    "regionName": "Брянская область",
+    "oikTvd": "100100225883497",
+    "oikName": "Брянская область – Унечский",
+    "district": {
+      "districtNumber": 78,
+      "oikTvd": "100100225883497"
+    }
   },
   {
     "uikNumber": 388,
     "uikTvd": "4324012377860",
     "tikTvd": "23220001386523",
-    "tikName": "Жуковская"
+    "tikName": "Жуковская",
+    "uikName": "УИК №388",
+    "regionCode": "32",
+    "regionTvd": "100100225883495",
+    "regionName": "Брянская область",
+    "oikTvd": "100100225883497",
+    "oikName": "Брянская область – Унечский",
+    "district": {
+      "districtNumber": 78,
+      "oikTvd": "100100225883497"
+    }
   },
   {
     "uikNumber": 389,
     "uikTvd": "4324012377861",
     "tikTvd": "23220001386523",
-    "tikName": "Жуковская"
+    "tikName": "Жуковская",
+    "uikName": "УИК №389",
+    "regionCode": "32",
+    "regionTvd": "100100225883495",
+    "regionName": "Брянская область",
+    "oikTvd": "100100225883497",
+    "oikName": "Брянская область – Унечский",
+    "district": {
+      "districtNumber": 78,
+      "oikTvd": "100100225883497"
+    }
   },
   {
     "uikNumber": 390,
     "uikTvd": "4324012377862",
     "tikTvd": "23220001386523",
-    "tikName": "Жуковская"
+    "tikName": "Жуковская",
+    "uikName": "УИК №390",
+    "regionCode": "32",
+    "regionTvd": "100100225883495",
+    "regionName": "Брянская область",
+    "oikTvd": "100100225883497",
+    "oikName": "Брянская область – Унечский",
+    "district": {
+      "districtNumber": 78,
+      "oikTvd": "100100225883497"
+    }
   },
   {
     "uikNumber": 391,
     "uikTvd": "4324012377863",
     "tikTvd": "23220001386523",
-    "tikName": "Жуковская"
+    "tikName": "Жуковская",
+    "uikName": "УИК №391",
+    "regionCode": "32",
+    "regionTvd": "100100225883495",
+    "regionName": "Брянская область",
+    "oikTvd": "100100225883497",
+    "oikName": "Брянская область – Унечский",
+    "district": {
+      "districtNumber": 78,
+      "oikTvd": "100100225883497"
+    }
   },
   {
     "uikNumber": 392,
     "uikTvd": "4324012377864",
     "tikTvd": "23220001386523",
-    "tikName": "Жуковская"
+    "tikName": "Жуковская",
+    "uikName": "УИК №392",
+    "regionCode": "32",
+    "regionTvd": "100100225883495",
+    "regionName": "Брянская область",
+    "oikTvd": "100100225883497",
+    "oikName": "Брянская область – Унечский",
+    "district": {
+      "districtNumber": 78,
+      "oikTvd": "100100225883497"
+    }
   },
   {
     "uikNumber": 393,
     "uikTvd": "4324012377865",
     "tikTvd": "23220001386523",
-    "tikName": "Жуковская"
+    "tikName": "Жуковская",
+    "uikName": "УИК №393",
+    "regionCode": "32",
+    "regionTvd": "100100225883495",
+    "regionName": "Брянская область",
+    "oikTvd": "100100225883497",
+    "oikName": "Брянская область – Унечский",
+    "district": {
+      "districtNumber": 78,
+      "oikTvd": "100100225883497"
+    }
   },
   {
     "uikNumber": 394,
     "uikTvd": "4324012377866",
     "tikTvd": "23220001386523",
-    "tikName": "Жуковская"
+    "tikName": "Жуковская",
+    "uikName": "УИК №394",
+    "regionCode": "32",
+    "regionTvd": "100100225883495",
+    "regionName": "Брянская область",
+    "oikTvd": "100100225883497",
+    "oikName": "Брянская область – Унечский",
+    "district": {
+      "districtNumber": 78,
+      "oikTvd": "100100225883497"
+    }
   },
   {
     "uikNumber": 395,
     "uikTvd": "4324012377867",
     "tikTvd": "23220001386523",
-    "tikName": "Жуковская"
+    "tikName": "Жуковская",
+    "uikName": "УИК №395",
+    "regionCode": "32",
+    "regionTvd": "100100225883495",
+    "regionName": "Брянская область",
+    "oikTvd": "100100225883497",
+    "oikName": "Брянская область – Унечский",
+    "district": {
+      "districtNumber": 78,
+      "oikTvd": "100100225883497"
+    }
   },
   {
     "uikNumber": 396,
     "uikTvd": "4324012377868",
     "tikTvd": "23220001386523",
-    "tikName": "Жуковская"
+    "tikName": "Жуковская",
+    "uikName": "УИК №396",
+    "regionCode": "32",
+    "regionTvd": "100100225883495",
+    "regionName": "Брянская область",
+    "oikTvd": "100100225883497",
+    "oikName": "Брянская область – Унечский",
+    "district": {
+      "districtNumber": 78,
+      "oikTvd": "100100225883497"
+    }
   },
   {
     "uikNumber": 397,
     "uikTvd": "4324012377869",
     "tikTvd": "23220001386523",
-    "tikName": "Жуковская"
+    "tikName": "Жуковская",
+    "uikName": "УИК №397",
+    "regionCode": "32",
+    "regionTvd": "100100225883495",
+    "regionName": "Брянская область",
+    "oikTvd": "100100225883497",
+    "oikName": "Брянская область – Унечский",
+    "district": {
+      "districtNumber": 78,
+      "oikTvd": "100100225883497"
+    }
   },
   {
     "uikNumber": 398,
     "uikTvd": "4324012377870",
     "tikTvd": "23220001386523",
-    "tikName": "Жуковская"
+    "tikName": "Жуковская",
+    "uikName": "УИК №398",
+    "regionCode": "32",
+    "regionTvd": "100100225883495",
+    "regionName": "Брянская область",
+    "oikTvd": "100100225883497",
+    "oikName": "Брянская область – Унечский",
+    "district": {
+      "districtNumber": 78,
+      "oikTvd": "100100225883497"
+    }
   },
   {
     "uikNumber": 399,
     "uikTvd": "4324012377871",
     "tikTvd": "23220001386523",
-    "tikName": "Жуковская"
+    "tikName": "Жуковская",
+    "uikName": "УИК №399",
+    "regionCode": "32",
+    "regionTvd": "100100225883495",
+    "regionName": "Брянская область",
+    "oikTvd": "100100225883497",
+    "oikName": "Брянская область – Унечский",
+    "district": {
+      "districtNumber": 78,
+      "oikTvd": "100100225883497"
+    }
   },
   {
     "uikNumber": 400,
     "uikTvd": "4324012377872",
     "tikTvd": "23220001386523",
-    "tikName": "Жуковская"
+    "tikName": "Жуковская",
+    "uikName": "УИК №400",
+    "regionCode": "32",
+    "regionTvd": "100100225883495",
+    "regionName": "Брянская область",
+    "oikTvd": "100100225883497",
+    "oikName": "Брянская область – Унечский",
+    "district": {
+      "districtNumber": 78,
+      "oikTvd": "100100225883497"
+    }
   },
   {
     "uikNumber": 401,
     "uikTvd": "4324012377873",
     "tikTvd": "23220001386523",
-    "tikName": "Жуковская"
+    "tikName": "Жуковская",
+    "uikName": "УИК №401",
+    "regionCode": "32",
+    "regionTvd": "100100225883495",
+    "regionName": "Брянская область",
+    "oikTvd": "100100225883497",
+    "oikName": "Брянская область – Унечский",
+    "district": {
+      "districtNumber": 78,
+      "oikTvd": "100100225883497"
+    }
   },
   {
     "uikNumber": 402,
     "uikTvd": "4324012377874",
     "tikTvd": "23220001386523",
-    "tikName": "Жуковская"
+    "tikName": "Жуковская",
+    "uikName": "УИК №402",
+    "regionCode": "32",
+    "regionTvd": "100100225883495",
+    "regionName": "Брянская область",
+    "oikTvd": "100100225883497",
+    "oikName": "Брянская область – Унечский",
+    "district": {
+      "districtNumber": 78,
+      "oikTvd": "100100225883497"
+    }
   },
   {
     "uikNumber": 403,
     "uikTvd": "4324012377875",
     "tikTvd": "23220001386523",
-    "tikName": "Жуковская"
+    "tikName": "Жуковская",
+    "uikName": "УИК №403",
+    "regionCode": "32",
+    "regionTvd": "100100225883495",
+    "regionName": "Брянская область",
+    "oikTvd": "100100225883497",
+    "oikName": "Брянская область – Унечский",
+    "district": {
+      "districtNumber": 78,
+      "oikTvd": "100100225883497"
+    }
   },
   {
     "uikNumber": 404,
     "uikTvd": "4324012377876",
     "tikTvd": "23220001386523",
-    "tikName": "Жуковская"
+    "tikName": "Жуковская",
+    "uikName": "УИК №404",
+    "regionCode": "32",
+    "regionTvd": "100100225883495",
+    "regionName": "Брянская область",
+    "oikTvd": "100100225883497",
+    "oikName": "Брянская область – Унечский",
+    "district": {
+      "districtNumber": 78,
+      "oikTvd": "100100225883497"
+    }
   },
   {
     "uikNumber": 405,
     "uikTvd": "4324012377877",
     "tikTvd": "23220001386523",
-    "tikName": "Жуковская"
+    "tikName": "Жуковская",
+    "uikName": "УИК №405",
+    "regionCode": "32",
+    "regionTvd": "100100225883495",
+    "regionName": "Брянская область",
+    "oikTvd": "100100225883497",
+    "oikName": "Брянская область – Унечский",
+    "district": {
+      "districtNumber": 78,
+      "oikTvd": "100100225883497"
+    }
   },
   {
     "uikNumber": 406,
     "uikTvd": "4324012377878",
     "tikTvd": "23220001386523",
-    "tikName": "Жуковская"
+    "tikName": "Жуковская",
+    "uikName": "УИК №406",
+    "regionCode": "32",
+    "regionTvd": "100100225883495",
+    "regionName": "Брянская область",
+    "oikTvd": "100100225883497",
+    "oikName": "Брянская область – Унечский",
+    "district": {
+      "districtNumber": 78,
+      "oikTvd": "100100225883497"
+    }
   },
   {
     "uikNumber": 407,
     "uikTvd": "4324012377879",
     "tikTvd": "23220001386523",
-    "tikName": "Жуковская"
+    "tikName": "Жуковская",
+    "uikName": "УИК №407",
+    "regionCode": "32",
+    "regionTvd": "100100225883495",
+    "regionName": "Брянская область",
+    "oikTvd": "100100225883497",
+    "oikName": "Брянская область – Унечский",
+    "district": {
+      "districtNumber": 78,
+      "oikTvd": "100100225883497"
+    }
   },
   {
     "uikNumber": 408,
     "uikTvd": "4324012377880",
     "tikTvd": "23220001386523",
-    "tikName": "Жуковская"
+    "tikName": "Жуковская",
+    "uikName": "УИК №408",
+    "regionCode": "32",
+    "regionTvd": "100100225883495",
+    "regionName": "Брянская область",
+    "oikTvd": "100100225883497",
+    "oikName": "Брянская область – Унечский",
+    "district": {
+      "districtNumber": 78,
+      "oikTvd": "100100225883497"
+    }
   },
   {
     "uikNumber": 409,
     "uikTvd": "4324012377881",
     "tikTvd": "23220001386523",
-    "tikName": "Жуковская"
+    "tikName": "Жуковская",
+    "uikName": "УИК №409",
+    "regionCode": "32",
+    "regionTvd": "100100225883495",
+    "regionName": "Брянская область",
+    "oikTvd": "100100225883497",
+    "oikName": "Брянская область – Унечский",
+    "district": {
+      "districtNumber": 78,
+      "oikTvd": "100100225883497"
+    }
   },
   {
     "uikNumber": 410,
     "uikTvd": "4324012377882",
     "tikTvd": "23220001386523",
-    "tikName": "Жуковская"
+    "tikName": "Жуковская",
+    "uikName": "УИК №410",
+    "regionCode": "32",
+    "regionTvd": "100100225883495",
+    "regionName": "Брянская область",
+    "oikTvd": "100100225883497",
+    "oikName": "Брянская область – Унечский",
+    "district": {
+      "districtNumber": 78,
+      "oikTvd": "100100225883497"
+    }
   },
   {
     "uikNumber": 411,
     "uikTvd": "4324012377883",
     "tikTvd": "23220001386523",
-    "tikName": "Жуковская"
+    "tikName": "Жуковская",
+    "uikName": "УИК №411",
+    "regionCode": "32",
+    "regionTvd": "100100225883495",
+    "regionName": "Брянская область",
+    "oikTvd": "100100225883497",
+    "oikName": "Брянская область – Унечский",
+    "district": {
+      "districtNumber": 78,
+      "oikTvd": "100100225883497"
+    }
   },
   {
     "uikNumber": 412,
     "uikTvd": "4324012377884",
     "tikTvd": "23220001386523",
-    "tikName": "Жуковская"
+    "tikName": "Жуковская",
+    "uikName": "УИК №412",
+    "regionCode": "32",
+    "regionTvd": "100100225883495",
+    "regionName": "Брянская область",
+    "oikTvd": "100100225883497",
+    "oikName": "Брянская область – Унечский",
+    "district": {
+      "districtNumber": 78,
+      "oikTvd": "100100225883497"
+    }
   },
   {
     "uikNumber": 413,
     "uikTvd": "4324013249352",
     "tikTvd": "23220001386504",
-    "tikName": "Злынковская"
+    "tikName": "Злынковская",
+    "uikName": "УИК №413",
+    "regionCode": "32",
+    "regionTvd": "100100225883495",
+    "regionName": "Брянская область",
+    "oikTvd": "100100225883496",
+    "oikName": "Брянская область – Брянский",
+    "district": {
+      "districtNumber": 77,
+      "oikTvd": "100100225883496"
+    }
   },
   {
     "uikNumber": 414,
     "uikTvd": "4324013249353",
     "tikTvd": "23220001386504",
-    "tikName": "Злынковская"
+    "tikName": "Злынковская",
+    "uikName": "УИК №414",
+    "regionCode": "32",
+    "regionTvd": "100100225883495",
+    "regionName": "Брянская область",
+    "oikTvd": "100100225883496",
+    "oikName": "Брянская область – Брянский",
+    "district": {
+      "districtNumber": 77,
+      "oikTvd": "100100225883496"
+    }
   },
   {
     "uikNumber": 415,
     "uikTvd": "4324013249354",
     "tikTvd": "23220001386504",
-    "tikName": "Злынковская"
+    "tikName": "Злынковская",
+    "uikName": "УИК №415",
+    "regionCode": "32",
+    "regionTvd": "100100225883495",
+    "regionName": "Брянская область",
+    "oikTvd": "100100225883496",
+    "oikName": "Брянская область – Брянский",
+    "district": {
+      "districtNumber": 77,
+      "oikTvd": "100100225883496"
+    }
   },
   {
     "uikNumber": 416,
     "uikTvd": "4324013249355",
     "tikTvd": "23220001386504",
-    "tikName": "Злынковская"
+    "tikName": "Злынковская",
+    "uikName": "УИК №416",
+    "regionCode": "32",
+    "regionTvd": "100100225883495",
+    "regionName": "Брянская область",
+    "oikTvd": "100100225883496",
+    "oikName": "Брянская область – Брянский",
+    "district": {
+      "districtNumber": 77,
+      "oikTvd": "100100225883496"
+    }
   },
   {
     "uikNumber": 417,
     "uikTvd": "4324013249356",
     "tikTvd": "23220001386504",
-    "tikName": "Злынковская"
+    "tikName": "Злынковская",
+    "uikName": "УИК №417",
+    "regionCode": "32",
+    "regionTvd": "100100225883495",
+    "regionName": "Брянская область",
+    "oikTvd": "100100225883496",
+    "oikName": "Брянская область – Брянский",
+    "district": {
+      "districtNumber": 77,
+      "oikTvd": "100100225883496"
+    }
   },
   {
     "uikNumber": 418,
     "uikTvd": "4324013249357",
     "tikTvd": "23220001386504",
-    "tikName": "Злынковская"
+    "tikName": "Злынковская",
+    "uikName": "УИК №418",
+    "regionCode": "32",
+    "regionTvd": "100100225883495",
+    "regionName": "Брянская область",
+    "oikTvd": "100100225883496",
+    "oikName": "Брянская область – Брянский",
+    "district": {
+      "districtNumber": 77,
+      "oikTvd": "100100225883496"
+    }
   },
   {
     "uikNumber": 419,
     "uikTvd": "4324013249358",
     "tikTvd": "23220001386504",
-    "tikName": "Злынковская"
+    "tikName": "Злынковская",
+    "uikName": "УИК №419",
+    "regionCode": "32",
+    "regionTvd": "100100225883495",
+    "regionName": "Брянская область",
+    "oikTvd": "100100225883496",
+    "oikName": "Брянская область – Брянский",
+    "district": {
+      "districtNumber": 77,
+      "oikTvd": "100100225883496"
+    }
   },
   {
     "uikNumber": 420,
     "uikTvd": "4324013249359",
     "tikTvd": "23220001386504",
-    "tikName": "Злынковская"
+    "tikName": "Злынковская",
+    "uikName": "УИК №420",
+    "regionCode": "32",
+    "regionTvd": "100100225883495",
+    "regionName": "Брянская область",
+    "oikTvd": "100100225883496",
+    "oikName": "Брянская область – Брянский",
+    "district": {
+      "districtNumber": 77,
+      "oikTvd": "100100225883496"
+    }
   },
   {
     "uikNumber": 421,
     "uikTvd": "4324013249360",
     "tikTvd": "23220001386504",
-    "tikName": "Злынковская"
+    "tikName": "Злынковская",
+    "uikName": "УИК №421",
+    "regionCode": "32",
+    "regionTvd": "100100225883495",
+    "regionName": "Брянская область",
+    "oikTvd": "100100225883496",
+    "oikName": "Брянская область – Брянский",
+    "district": {
+      "districtNumber": 77,
+      "oikTvd": "100100225883496"
+    }
   },
   {
     "uikNumber": 422,
     "uikTvd": "4324013249361",
     "tikTvd": "23220001386504",
-    "tikName": "Злынковская"
+    "tikName": "Злынковская",
+    "uikName": "УИК №422",
+    "regionCode": "32",
+    "regionTvd": "100100225883495",
+    "regionName": "Брянская область",
+    "oikTvd": "100100225883496",
+    "oikName": "Брянская область – Брянский",
+    "district": {
+      "districtNumber": 77,
+      "oikTvd": "100100225883496"
+    }
   },
   {
     "uikNumber": 423,
     "uikTvd": "4324013249362",
     "tikTvd": "23220001386504",
-    "tikName": "Злынковская"
+    "tikName": "Злынковская",
+    "uikName": "УИК №423",
+    "regionCode": "32",
+    "regionTvd": "100100225883495",
+    "regionName": "Брянская область",
+    "oikTvd": "100100225883496",
+    "oikName": "Брянская область – Брянский",
+    "district": {
+      "districtNumber": 77,
+      "oikTvd": "100100225883496"
+    }
   },
   {
     "uikNumber": 424,
     "uikTvd": "4324013249363",
     "tikTvd": "23220001386504",
-    "tikName": "Злынковская"
+    "tikName": "Злынковская",
+    "uikName": "УИК №424",
+    "regionCode": "32",
+    "regionTvd": "100100225883495",
+    "regionName": "Брянская область",
+    "oikTvd": "100100225883496",
+    "oikName": "Брянская область – Брянский",
+    "district": {
+      "districtNumber": 77,
+      "oikTvd": "100100225883496"
+    }
   },
   {
     "uikNumber": 425,
     "uikTvd": "4324013249364",
     "tikTvd": "23220001386504",
-    "tikName": "Злынковская"
+    "tikName": "Злынковская",
+    "uikName": "УИК №425",
+    "regionCode": "32",
+    "regionTvd": "100100225883495",
+    "regionName": "Брянская область",
+    "oikTvd": "100100225883496",
+    "oikName": "Брянская область – Брянский",
+    "district": {
+      "districtNumber": 77,
+      "oikTvd": "100100225883496"
+    }
   },
   {
     "uikNumber": 426,
     "uikTvd": "4324013249365",
     "tikTvd": "23220001386504",
-    "tikName": "Злынковская"
+    "tikName": "Злынковская",
+    "uikName": "УИК №426",
+    "regionCode": "32",
+    "regionTvd": "100100225883495",
+    "regionName": "Брянская область",
+    "oikTvd": "100100225883496",
+    "oikName": "Брянская область – Брянский",
+    "district": {
+      "districtNumber": 77,
+      "oikTvd": "100100225883496"
+    }
   },
   {
     "uikNumber": 427,
     "uikTvd": "4324013249366",
     "tikTvd": "23220001386504",
-    "tikName": "Злынковская"
+    "tikName": "Злынковская",
+    "uikName": "УИК №427",
+    "regionCode": "32",
+    "regionTvd": "100100225883495",
+    "regionName": "Брянская область",
+    "oikTvd": "100100225883496",
+    "oikName": "Брянская область – Брянский",
+    "district": {
+      "districtNumber": 77,
+      "oikTvd": "100100225883496"
+    }
   },
   {
     "uikNumber": 428,
     "uikTvd": "4324013249367",
     "tikTvd": "23220001386504",
-    "tikName": "Злынковская"
+    "tikName": "Злынковская",
+    "uikName": "УИК №428",
+    "regionCode": "32",
+    "regionTvd": "100100225883495",
+    "regionName": "Брянская область",
+    "oikTvd": "100100225883496",
+    "oikName": "Брянская область – Брянский",
+    "district": {
+      "districtNumber": 77,
+      "oikTvd": "100100225883496"
+    }
   },
   {
     "uikNumber": 429,
     "uikTvd": "4324014345205",
     "tikTvd": "23220001386505",
-    "tikName": "Карачевская"
+    "tikName": "Карачевская",
+    "uikName": "УИК №429",
+    "regionCode": "32",
+    "regionTvd": "100100225883495",
+    "regionName": "Брянская область",
+    "oikTvd": "100100225883496",
+    "oikName": "Брянская область – Брянский",
+    "district": {
+      "districtNumber": 77,
+      "oikTvd": "100100225883496"
+    }
   },
   {
     "uikNumber": 430,
     "uikTvd": "4324014345206",
     "tikTvd": "23220001386505",
-    "tikName": "Карачевская"
+    "tikName": "Карачевская",
+    "uikName": "УИК №430",
+    "regionCode": "32",
+    "regionTvd": "100100225883495",
+    "regionName": "Брянская область",
+    "oikTvd": "100100225883496",
+    "oikName": "Брянская область – Брянский",
+    "district": {
+      "districtNumber": 77,
+      "oikTvd": "100100225883496"
+    }
   },
   {
     "uikNumber": 431,
     "uikTvd": "4324014345207",
     "tikTvd": "23220001386505",
-    "tikName": "Карачевская"
+    "tikName": "Карачевская",
+    "uikName": "УИК №431",
+    "regionCode": "32",
+    "regionTvd": "100100225883495",
+    "regionName": "Брянская область",
+    "oikTvd": "100100225883496",
+    "oikName": "Брянская область – Брянский",
+    "district": {
+      "districtNumber": 77,
+      "oikTvd": "100100225883496"
+    }
   },
   {
     "uikNumber": 432,
     "uikTvd": "4324014345208",
     "tikTvd": "23220001386505",
-    "tikName": "Карачевская"
+    "tikName": "Карачевская",
+    "uikName": "УИК №432",
+    "regionCode": "32",
+    "regionTvd": "100100225883495",
+    "regionName": "Брянская область",
+    "oikTvd": "100100225883496",
+    "oikName": "Брянская область – Брянский",
+    "district": {
+      "districtNumber": 77,
+      "oikTvd": "100100225883496"
+    }
   },
   {
     "uikNumber": 433,
     "uikTvd": "4324014345209",
     "tikTvd": "23220001386505",
-    "tikName": "Карачевская"
+    "tikName": "Карачевская",
+    "uikName": "УИК №433",
+    "regionCode": "32",
+    "regionTvd": "100100225883495",
+    "regionName": "Брянская область",
+    "oikTvd": "100100225883496",
+    "oikName": "Брянская область – Брянский",
+    "district": {
+      "districtNumber": 77,
+      "oikTvd": "100100225883496"
+    }
   },
   {
     "uikNumber": 434,
     "uikTvd": "4324014345210",
     "tikTvd": "23220001386505",
-    "tikName": "Карачевская"
+    "tikName": "Карачевская",
+    "uikName": "УИК №434",
+    "regionCode": "32",
+    "regionTvd": "100100225883495",
+    "regionName": "Брянская область",
+    "oikTvd": "100100225883496",
+    "oikName": "Брянская область – Брянский",
+    "district": {
+      "districtNumber": 77,
+      "oikTvd": "100100225883496"
+    }
   },
   {
     "uikNumber": 435,
     "uikTvd": "4324014345211",
     "tikTvd": "23220001386505",
-    "tikName": "Карачевская"
+    "tikName": "Карачевская",
+    "uikName": "УИК №435",
+    "regionCode": "32",
+    "regionTvd": "100100225883495",
+    "regionName": "Брянская область",
+    "oikTvd": "100100225883496",
+    "oikName": "Брянская область – Брянский",
+    "district": {
+      "districtNumber": 77,
+      "oikTvd": "100100225883496"
+    }
   },
   {
     "uikNumber": 436,
     "uikTvd": "4324014345212",
     "tikTvd": "23220001386505",
-    "tikName": "Карачевская"
+    "tikName": "Карачевская",
+    "uikName": "УИК №436",
+    "regionCode": "32",
+    "regionTvd": "100100225883495",
+    "regionName": "Брянская область",
+    "oikTvd": "100100225883496",
+    "oikName": "Брянская область – Брянский",
+    "district": {
+      "districtNumber": 77,
+      "oikTvd": "100100225883496"
+    }
   },
   {
     "uikNumber": 437,
     "uikTvd": "4324014345213",
     "tikTvd": "23220001386505",
-    "tikName": "Карачевская"
+    "tikName": "Карачевская",
+    "uikName": "УИК №437",
+    "regionCode": "32",
+    "regionTvd": "100100225883495",
+    "regionName": "Брянская область",
+    "oikTvd": "100100225883496",
+    "oikName": "Брянская область – Брянский",
+    "district": {
+      "districtNumber": 77,
+      "oikTvd": "100100225883496"
+    }
   },
   {
     "uikNumber": 438,
     "uikTvd": "4324014345214",
     "tikTvd": "23220001386505",
-    "tikName": "Карачевская"
+    "tikName": "Карачевская",
+    "uikName": "УИК №438",
+    "regionCode": "32",
+    "regionTvd": "100100225883495",
+    "regionName": "Брянская область",
+    "oikTvd": "100100225883496",
+    "oikName": "Брянская область – Брянский",
+    "district": {
+      "districtNumber": 77,
+      "oikTvd": "100100225883496"
+    }
   },
   {
     "uikNumber": 439,
     "uikTvd": "4324014345215",
     "tikTvd": "23220001386505",
-    "tikName": "Карачевская"
+    "tikName": "Карачевская",
+    "uikName": "УИК №439",
+    "regionCode": "32",
+    "regionTvd": "100100225883495",
+    "regionName": "Брянская область",
+    "oikTvd": "100100225883496",
+    "oikName": "Брянская область – Брянский",
+    "district": {
+      "districtNumber": 77,
+      "oikTvd": "100100225883496"
+    }
   },
   {
     "uikNumber": 440,
     "uikTvd": "4324014345216",
     "tikTvd": "23220001386505",
-    "tikName": "Карачевская"
+    "tikName": "Карачевская",
+    "uikName": "УИК №440",
+    "regionCode": "32",
+    "regionTvd": "100100225883495",
+    "regionName": "Брянская область",
+    "oikTvd": "100100225883496",
+    "oikName": "Брянская область – Брянский",
+    "district": {
+      "districtNumber": 77,
+      "oikTvd": "100100225883496"
+    }
   },
   {
     "uikNumber": 441,
     "uikTvd": "4324014345217",
     "tikTvd": "23220001386505",
-    "tikName": "Карачевская"
+    "tikName": "Карачевская",
+    "uikName": "УИК №441",
+    "regionCode": "32",
+    "regionTvd": "100100225883495",
+    "regionName": "Брянская область",
+    "oikTvd": "100100225883496",
+    "oikName": "Брянская область – Брянский",
+    "district": {
+      "districtNumber": 77,
+      "oikTvd": "100100225883496"
+    }
   },
   {
     "uikNumber": 442,
     "uikTvd": "4324014345218",
     "tikTvd": "23220001386505",
-    "tikName": "Карачевская"
+    "tikName": "Карачевская",
+    "uikName": "УИК №442",
+    "regionCode": "32",
+    "regionTvd": "100100225883495",
+    "regionName": "Брянская область",
+    "oikTvd": "100100225883496",
+    "oikName": "Брянская область – Брянский",
+    "district": {
+      "districtNumber": 77,
+      "oikTvd": "100100225883496"
+    }
   },
   {
     "uikNumber": 443,
     "uikTvd": "4324014345219",
     "tikTvd": "23220001386505",
-    "tikName": "Карачевская"
+    "tikName": "Карачевская",
+    "uikName": "УИК №443",
+    "regionCode": "32",
+    "regionTvd": "100100225883495",
+    "regionName": "Брянская область",
+    "oikTvd": "100100225883496",
+    "oikName": "Брянская область – Брянский",
+    "district": {
+      "districtNumber": 77,
+      "oikTvd": "100100225883496"
+    }
   },
   {
     "uikNumber": 444,
     "uikTvd": "4324014345220",
     "tikTvd": "23220001386505",
-    "tikName": "Карачевская"
+    "tikName": "Карачевская",
+    "uikName": "УИК №444",
+    "regionCode": "32",
+    "regionTvd": "100100225883495",
+    "regionName": "Брянская область",
+    "oikTvd": "100100225883496",
+    "oikName": "Брянская область – Брянский",
+    "district": {
+      "districtNumber": 77,
+      "oikTvd": "100100225883496"
+    }
   },
   {
     "uikNumber": 446,
     "uikTvd": "4324014345221",
     "tikTvd": "23220001386505",
-    "tikName": "Карачевская"
+    "tikName": "Карачевская",
+    "uikName": "УИК №446",
+    "regionCode": "32",
+    "regionTvd": "100100225883495",
+    "regionName": "Брянская область",
+    "oikTvd": "100100225883496",
+    "oikName": "Брянская область – Брянский",
+    "district": {
+      "districtNumber": 77,
+      "oikTvd": "100100225883496"
+    }
   },
   {
     "uikNumber": 447,
     "uikTvd": "4324014345222",
     "tikTvd": "23220001386505",
-    "tikName": "Карачевская"
+    "tikName": "Карачевская",
+    "uikName": "УИК №447",
+    "regionCode": "32",
+    "regionTvd": "100100225883495",
+    "regionName": "Брянская область",
+    "oikTvd": "100100225883496",
+    "oikName": "Брянская область – Брянский",
+    "district": {
+      "districtNumber": 77,
+      "oikTvd": "100100225883496"
+    }
   },
   {
     "uikNumber": 448,
     "uikTvd": "4324014345223",
     "tikTvd": "23220001386505",
-    "tikName": "Карачевская"
+    "tikName": "Карачевская",
+    "uikName": "УИК №448",
+    "regionCode": "32",
+    "regionTvd": "100100225883495",
+    "regionName": "Брянская область",
+    "oikTvd": "100100225883496",
+    "oikName": "Брянская область – Брянский",
+    "district": {
+      "districtNumber": 77,
+      "oikTvd": "100100225883496"
+    }
   },
   {
     "uikNumber": 449,
     "uikTvd": "4324014345224",
     "tikTvd": "23220001386505",
-    "tikName": "Карачевская"
+    "tikName": "Карачевская",
+    "uikName": "УИК №449",
+    "regionCode": "32",
+    "regionTvd": "100100225883495",
+    "regionName": "Брянская область",
+    "oikTvd": "100100225883496",
+    "oikName": "Брянская область – Брянский",
+    "district": {
+      "districtNumber": 77,
+      "oikTvd": "100100225883496"
+    }
   },
   {
     "uikNumber": 450,
     "uikTvd": "4324014345225",
     "tikTvd": "23220001386505",
-    "tikName": "Карачевская"
+    "tikName": "Карачевская",
+    "uikName": "УИК №450",
+    "regionCode": "32",
+    "regionTvd": "100100225883495",
+    "regionName": "Брянская область",
+    "oikTvd": "100100225883496",
+    "oikName": "Брянская область – Брянский",
+    "district": {
+      "districtNumber": 77,
+      "oikTvd": "100100225883496"
+    }
   },
   {
     "uikNumber": 451,
     "uikTvd": "4324014345226",
     "tikTvd": "23220001386505",
-    "tikName": "Карачевская"
+    "tikName": "Карачевская",
+    "uikName": "УИК №451",
+    "regionCode": "32",
+    "regionTvd": "100100225883495",
+    "regionName": "Брянская область",
+    "oikTvd": "100100225883496",
+    "oikName": "Брянская область – Брянский",
+    "district": {
+      "districtNumber": 77,
+      "oikTvd": "100100225883496"
+    }
   },
   {
     "uikNumber": 453,
     "uikTvd": "4324014345227",
     "tikTvd": "23220001386505",
-    "tikName": "Карачевская"
+    "tikName": "Карачевская",
+    "uikName": "УИК №453",
+    "regionCode": "32",
+    "regionTvd": "100100225883495",
+    "regionName": "Брянская область",
+    "oikTvd": "100100225883496",
+    "oikName": "Брянская область – Брянский",
+    "district": {
+      "districtNumber": 77,
+      "oikTvd": "100100225883496"
+    }
   },
   {
     "uikNumber": 454,
     "uikTvd": "4324014345228",
     "tikTvd": "23220001386505",
-    "tikName": "Карачевская"
+    "tikName": "Карачевская",
+    "uikName": "УИК №454",
+    "regionCode": "32",
+    "regionTvd": "100100225883495",
+    "regionName": "Брянская область",
+    "oikTvd": "100100225883496",
+    "oikName": "Брянская область – Брянский",
+    "district": {
+      "districtNumber": 77,
+      "oikTvd": "100100225883496"
+    }
   },
   {
     "uikNumber": 455,
     "uikTvd": "4324014345229",
     "tikTvd": "23220001386505",
-    "tikName": "Карачевская"
+    "tikName": "Карачевская",
+    "uikName": "УИК №455",
+    "regionCode": "32",
+    "regionTvd": "100100225883495",
+    "regionName": "Брянская область",
+    "oikTvd": "100100225883496",
+    "oikName": "Брянская область – Брянский",
+    "district": {
+      "districtNumber": 77,
+      "oikTvd": "100100225883496"
+    }
   },
   {
     "uikNumber": 456,
     "uikTvd": "4324014345230",
     "tikTvd": "23220001386505",
-    "tikName": "Карачевская"
+    "tikName": "Карачевская",
+    "uikName": "УИК №456",
+    "regionCode": "32",
+    "regionTvd": "100100225883495",
+    "regionName": "Брянская область",
+    "oikTvd": "100100225883496",
+    "oikName": "Брянская область – Брянский",
+    "district": {
+      "districtNumber": 77,
+      "oikTvd": "100100225883496"
+    }
   },
   {
     "uikNumber": 457,
     "uikTvd": "4324014345231",
     "tikTvd": "23220001386505",
-    "tikName": "Карачевская"
+    "tikName": "Карачевская",
+    "uikName": "УИК №457",
+    "regionCode": "32",
+    "regionTvd": "100100225883495",
+    "regionName": "Брянская область",
+    "oikTvd": "100100225883496",
+    "oikName": "Брянская область – Брянский",
+    "district": {
+      "districtNumber": 77,
+      "oikTvd": "100100225883496"
+    }
   },
   {
     "uikNumber": 458,
     "uikTvd": "4324014345232",
     "tikTvd": "23220001386505",
-    "tikName": "Карачевская"
+    "tikName": "Карачевская",
+    "uikName": "УИК №458",
+    "regionCode": "32",
+    "regionTvd": "100100225883495",
+    "regionName": "Брянская область",
+    "oikTvd": "100100225883496",
+    "oikName": "Брянская область – Брянский",
+    "district": {
+      "districtNumber": 77,
+      "oikTvd": "100100225883496"
+    }
   },
   {
     "uikNumber": 459,
     "uikTvd": "4324014345233",
     "tikTvd": "23220001386505",
-    "tikName": "Карачевская"
+    "tikName": "Карачевская",
+    "uikName": "УИК №459",
+    "regionCode": "32",
+    "regionTvd": "100100225883495",
+    "regionName": "Брянская область",
+    "oikTvd": "100100225883496",
+    "oikName": "Брянская область – Брянский",
+    "district": {
+      "districtNumber": 77,
+      "oikTvd": "100100225883496"
+    }
   },
   {
     "uikNumber": 460,
     "uikTvd": "4324014345234",
     "tikTvd": "23220001386505",
-    "tikName": "Карачевская"
+    "tikName": "Карачевская",
+    "uikName": "УИК №460",
+    "regionCode": "32",
+    "regionTvd": "100100225883495",
+    "regionName": "Брянская область",
+    "oikTvd": "100100225883496",
+    "oikName": "Брянская область – Брянский",
+    "district": {
+      "districtNumber": 77,
+      "oikTvd": "100100225883496"
+    }
   },
   {
     "uikNumber": 461,
     "uikTvd": "4324014345235",
     "tikTvd": "23220001386505",
-    "tikName": "Карачевская"
+    "tikName": "Карачевская",
+    "uikName": "УИК №461",
+    "regionCode": "32",
+    "regionTvd": "100100225883495",
+    "regionName": "Брянская область",
+    "oikTvd": "100100225883496",
+    "oikName": "Брянская область – Брянский",
+    "district": {
+      "districtNumber": 77,
+      "oikTvd": "100100225883496"
+    }
   },
   {
     "uikNumber": 462,
     "uikTvd": "4324014345236",
     "tikTvd": "23220001386505",
-    "tikName": "Карачевская"
+    "tikName": "Карачевская",
+    "uikName": "УИК №462",
+    "regionCode": "32",
+    "regionTvd": "100100225883495",
+    "regionName": "Брянская область",
+    "oikTvd": "100100225883496",
+    "oikName": "Брянская область – Брянский",
+    "district": {
+      "districtNumber": 77,
+      "oikTvd": "100100225883496"
+    }
   },
   {
     "uikNumber": 463,
     "uikTvd": "4324014345237",
     "tikTvd": "23220001386505",
-    "tikName": "Карачевская"
+    "tikName": "Карачевская",
+    "uikName": "УИК №463",
+    "regionCode": "32",
+    "regionTvd": "100100225883495",
+    "regionName": "Брянская область",
+    "oikTvd": "100100225883496",
+    "oikName": "Брянская область – Брянский",
+    "district": {
+      "districtNumber": 77,
+      "oikTvd": "100100225883496"
+    }
   },
   {
     "uikNumber": 465,
     "uikTvd": "4324014345238",
     "tikTvd": "23220001386505",
-    "tikName": "Карачевская"
+    "tikName": "Карачевская",
+    "uikName": "УИК №465",
+    "regionCode": "32",
+    "regionTvd": "100100225883495",
+    "regionName": "Брянская область",
+    "oikTvd": "100100225883496",
+    "oikName": "Брянская область – Брянский",
+    "district": {
+      "districtNumber": 77,
+      "oikTvd": "100100225883496"
+    }
   },
   {
     "uikNumber": 466,
     "uikTvd": "4324014345239",
     "tikTvd": "23220001386505",
-    "tikName": "Карачевская"
+    "tikName": "Карачевская",
+    "uikName": "УИК №466",
+    "regionCode": "32",
+    "regionTvd": "100100225883495",
+    "regionName": "Брянская область",
+    "oikTvd": "100100225883496",
+    "oikName": "Брянская область – Брянский",
+    "district": {
+      "districtNumber": 77,
+      "oikTvd": "100100225883496"
+    }
   },
   {
     "uikNumber": 467,
     "uikTvd": "4324014345240",
     "tikTvd": "23220001386505",
-    "tikName": "Карачевская"
+    "tikName": "Карачевская",
+    "uikName": "УИК №467",
+    "regionCode": "32",
+    "regionTvd": "100100225883495",
+    "regionName": "Брянская область",
+    "oikTvd": "100100225883496",
+    "oikName": "Брянская область – Брянский",
+    "district": {
+      "districtNumber": 77,
+      "oikTvd": "100100225883496"
+    }
   },
   {
     "uikNumber": 468,
     "uikTvd": "4324015342357",
     "tikTvd": "23220001386524",
-    "tikName": "Клетнянская"
+    "tikName": "Клетнянская",
+    "uikName": "УИК №468",
+    "regionCode": "32",
+    "regionTvd": "100100225883495",
+    "regionName": "Брянская область",
+    "oikTvd": "100100225883497",
+    "oikName": "Брянская область – Унечский",
+    "district": {
+      "districtNumber": 78,
+      "oikTvd": "100100225883497"
+    }
   },
   {
     "uikNumber": 469,
     "uikTvd": "4324015342358",
     "tikTvd": "23220001386524",
-    "tikName": "Клетнянская"
+    "tikName": "Клетнянская",
+    "uikName": "УИК №469",
+    "regionCode": "32",
+    "regionTvd": "100100225883495",
+    "regionName": "Брянская область",
+    "oikTvd": "100100225883497",
+    "oikName": "Брянская область – Унечский",
+    "district": {
+      "districtNumber": 78,
+      "oikTvd": "100100225883497"
+    }
   },
   {
     "uikNumber": 470,
     "uikTvd": "4324015342359",
     "tikTvd": "23220001386524",
-    "tikName": "Клетнянская"
+    "tikName": "Клетнянская",
+    "uikName": "УИК №470",
+    "regionCode": "32",
+    "regionTvd": "100100225883495",
+    "regionName": "Брянская область",
+    "oikTvd": "100100225883497",
+    "oikName": "Брянская область – Унечский",
+    "district": {
+      "districtNumber": 78,
+      "oikTvd": "100100225883497"
+    }
   },
   {
     "uikNumber": 471,
     "uikTvd": "4324015342360",
     "tikTvd": "23220001386524",
-    "tikName": "Клетнянская"
+    "tikName": "Клетнянская",
+    "uikName": "УИК №471",
+    "regionCode": "32",
+    "regionTvd": "100100225883495",
+    "regionName": "Брянская область",
+    "oikTvd": "100100225883497",
+    "oikName": "Брянская область – Унечский",
+    "district": {
+      "districtNumber": 78,
+      "oikTvd": "100100225883497"
+    }
   },
   {
     "uikNumber": 472,
     "uikTvd": "4324015342361",
     "tikTvd": "23220001386524",
-    "tikName": "Клетнянская"
+    "tikName": "Клетнянская",
+    "uikName": "УИК №472",
+    "regionCode": "32",
+    "regionTvd": "100100225883495",
+    "regionName": "Брянская область",
+    "oikTvd": "100100225883497",
+    "oikName": "Брянская область – Унечский",
+    "district": {
+      "districtNumber": 78,
+      "oikTvd": "100100225883497"
+    }
   },
   {
     "uikNumber": 473,
     "uikTvd": "4324015342362",
     "tikTvd": "23220001386524",
-    "tikName": "Клетнянская"
+    "tikName": "Клетнянская",
+    "uikName": "УИК №473",
+    "regionCode": "32",
+    "regionTvd": "100100225883495",
+    "regionName": "Брянская область",
+    "oikTvd": "100100225883497",
+    "oikName": "Брянская область – Унечский",
+    "district": {
+      "districtNumber": 78,
+      "oikTvd": "100100225883497"
+    }
   },
   {
     "uikNumber": 474,
     "uikTvd": "4324015342363",
     "tikTvd": "23220001386524",
-    "tikName": "Клетнянская"
+    "tikName": "Клетнянская",
+    "uikName": "УИК №474",
+    "regionCode": "32",
+    "regionTvd": "100100225883495",
+    "regionName": "Брянская область",
+    "oikTvd": "100100225883497",
+    "oikName": "Брянская область – Унечский",
+    "district": {
+      "districtNumber": 78,
+      "oikTvd": "100100225883497"
+    }
   },
   {
     "uikNumber": 475,
     "uikTvd": "4324015342364",
     "tikTvd": "23220001386524",
-    "tikName": "Клетнянская"
+    "tikName": "Клетнянская",
+    "uikName": "УИК №475",
+    "regionCode": "32",
+    "regionTvd": "100100225883495",
+    "regionName": "Брянская область",
+    "oikTvd": "100100225883497",
+    "oikName": "Брянская область – Унечский",
+    "district": {
+      "districtNumber": 78,
+      "oikTvd": "100100225883497"
+    }
   },
   {
     "uikNumber": 476,
     "uikTvd": "4324015342365",
     "tikTvd": "23220001386524",
-    "tikName": "Клетнянская"
+    "tikName": "Клетнянская",
+    "uikName": "УИК №476",
+    "regionCode": "32",
+    "regionTvd": "100100225883495",
+    "regionName": "Брянская область",
+    "oikTvd": "100100225883497",
+    "oikName": "Брянская область – Унечский",
+    "district": {
+      "districtNumber": 78,
+      "oikTvd": "100100225883497"
+    }
   },
   {
     "uikNumber": 477,
     "uikTvd": "4324015342366",
     "tikTvd": "23220001386524",
-    "tikName": "Клетнянская"
+    "tikName": "Клетнянская",
+    "uikName": "УИК №477",
+    "regionCode": "32",
+    "regionTvd": "100100225883495",
+    "regionName": "Брянская область",
+    "oikTvd": "100100225883497",
+    "oikName": "Брянская область – Унечский",
+    "district": {
+      "districtNumber": 78,
+      "oikTvd": "100100225883497"
+    }
   },
   {
     "uikNumber": 478,
     "uikTvd": "4324015342367",
     "tikTvd": "23220001386524",
-    "tikName": "Клетнянская"
+    "tikName": "Клетнянская",
+    "uikName": "УИК №478",
+    "regionCode": "32",
+    "regionTvd": "100100225883495",
+    "regionName": "Брянская область",
+    "oikTvd": "100100225883497",
+    "oikName": "Брянская область – Унечский",
+    "district": {
+      "districtNumber": 78,
+      "oikTvd": "100100225883497"
+    }
   },
   {
     "uikNumber": 479,
     "uikTvd": "4324015342368",
     "tikTvd": "23220001386524",
-    "tikName": "Клетнянская"
+    "tikName": "Клетнянская",
+    "uikName": "УИК №479",
+    "regionCode": "32",
+    "regionTvd": "100100225883495",
+    "regionName": "Брянская область",
+    "oikTvd": "100100225883497",
+    "oikName": "Брянская область – Унечский",
+    "district": {
+      "districtNumber": 78,
+      "oikTvd": "100100225883497"
+    }
   },
   {
     "uikNumber": 480,
     "uikTvd": "4324015342369",
     "tikTvd": "23220001386524",
-    "tikName": "Клетнянская"
+    "tikName": "Клетнянская",
+    "uikName": "УИК №480",
+    "regionCode": "32",
+    "regionTvd": "100100225883495",
+    "regionName": "Брянская область",
+    "oikTvd": "100100225883497",
+    "oikName": "Брянская область – Унечский",
+    "district": {
+      "districtNumber": 78,
+      "oikTvd": "100100225883497"
+    }
   },
   {
     "uikNumber": 481,
     "uikTvd": "4324015342370",
     "tikTvd": "23220001386524",
-    "tikName": "Клетнянская"
+    "tikName": "Клетнянская",
+    "uikName": "УИК №481",
+    "regionCode": "32",
+    "regionTvd": "100100225883495",
+    "regionName": "Брянская область",
+    "oikTvd": "100100225883497",
+    "oikName": "Брянская область – Унечский",
+    "district": {
+      "districtNumber": 78,
+      "oikTvd": "100100225883497"
+    }
   },
   {
     "uikNumber": 482,
     "uikTvd": "4324015342371",
     "tikTvd": "23220001386524",
-    "tikName": "Клетнянская"
+    "tikName": "Клетнянская",
+    "uikName": "УИК №482",
+    "regionCode": "32",
+    "regionTvd": "100100225883495",
+    "regionName": "Брянская область",
+    "oikTvd": "100100225883497",
+    "oikName": "Брянская область – Унечский",
+    "district": {
+      "districtNumber": 78,
+      "oikTvd": "100100225883497"
+    }
   },
   {
     "uikNumber": 483,
     "uikTvd": "4324015342372",
     "tikTvd": "23220001386524",
-    "tikName": "Клетнянская"
+    "tikName": "Клетнянская",
+    "uikName": "УИК №483",
+    "regionCode": "32",
+    "regionTvd": "100100225883495",
+    "regionName": "Брянская область",
+    "oikTvd": "100100225883497",
+    "oikName": "Брянская область – Унечский",
+    "district": {
+      "districtNumber": 78,
+      "oikTvd": "100100225883497"
+    }
   },
   {
     "uikNumber": 484,
     "uikTvd": "4324015342373",
     "tikTvd": "23220001386524",
-    "tikName": "Клетнянская"
+    "tikName": "Клетнянская",
+    "uikName": "УИК №484",
+    "regionCode": "32",
+    "regionTvd": "100100225883495",
+    "regionName": "Брянская область",
+    "oikTvd": "100100225883497",
+    "oikName": "Брянская область – Унечский",
+    "district": {
+      "districtNumber": 78,
+      "oikTvd": "100100225883497"
+    }
   },
   {
     "uikNumber": 485,
     "uikTvd": "4324015342374",
     "tikTvd": "23220001386524",
-    "tikName": "Клетнянская"
+    "tikName": "Клетнянская",
+    "uikName": "УИК №485",
+    "regionCode": "32",
+    "regionTvd": "100100225883495",
+    "regionName": "Брянская область",
+    "oikTvd": "100100225883497",
+    "oikName": "Брянская область – Унечский",
+    "district": {
+      "districtNumber": 78,
+      "oikTvd": "100100225883497"
+    }
   },
   {
     "uikNumber": 486,
     "uikTvd": "4324015342375",
     "tikTvd": "23220001386524",
-    "tikName": "Клетнянская"
+    "tikName": "Клетнянская",
+    "uikName": "УИК №486",
+    "regionCode": "32",
+    "regionTvd": "100100225883495",
+    "regionName": "Брянская область",
+    "oikTvd": "100100225883497",
+    "oikName": "Брянская область – Унечский",
+    "district": {
+      "districtNumber": 78,
+      "oikTvd": "100100225883497"
+    }
   },
   {
     "uikNumber": 487,
     "uikTvd": "4324015342376",
     "tikTvd": "23220001386524",
-    "tikName": "Клетнянская"
+    "tikName": "Клетнянская",
+    "uikName": "УИК №487",
+    "regionCode": "32",
+    "regionTvd": "100100225883495",
+    "regionName": "Брянская область",
+    "oikTvd": "100100225883497",
+    "oikName": "Брянская область – Унечский",
+    "district": {
+      "districtNumber": 78,
+      "oikTvd": "100100225883497"
+    }
   },
   {
     "uikNumber": 488,
     "uikTvd": "4324015342377",
     "tikTvd": "23220001386524",
-    "tikName": "Клетнянская"
+    "tikName": "Клетнянская",
+    "uikName": "УИК №488",
+    "regionCode": "32",
+    "regionTvd": "100100225883495",
+    "regionName": "Брянская область",
+    "oikTvd": "100100225883497",
+    "oikName": "Брянская область – Унечский",
+    "district": {
+      "districtNumber": 78,
+      "oikTvd": "100100225883497"
+    }
   },
   {
     "uikNumber": 489,
     "uikTvd": "4324015342378",
     "tikTvd": "23220001386524",
-    "tikName": "Клетнянская"
+    "tikName": "Клетнянская",
+    "uikName": "УИК №489",
+    "regionCode": "32",
+    "regionTvd": "100100225883495",
+    "regionName": "Брянская область",
+    "oikTvd": "100100225883497",
+    "oikName": "Брянская область – Унечский",
+    "district": {
+      "districtNumber": 78,
+      "oikTvd": "100100225883497"
+    }
   },
   {
     "uikNumber": 490,
     "uikTvd": "4324015342379",
     "tikTvd": "23220001386524",
-    "tikName": "Клетнянская"
+    "tikName": "Клетнянская",
+    "uikName": "УИК №490",
+    "regionCode": "32",
+    "regionTvd": "100100225883495",
+    "regionName": "Брянская область",
+    "oikTvd": "100100225883497",
+    "oikName": "Брянская область – Унечский",
+    "district": {
+      "districtNumber": 78,
+      "oikTvd": "100100225883497"
+    }
   },
   {
     "uikNumber": 491,
     "uikTvd": "4324015342380",
     "tikTvd": "23220001386524",
-    "tikName": "Клетнянская"
+    "tikName": "Клетнянская",
+    "uikName": "УИК №491",
+    "regionCode": "32",
+    "regionTvd": "100100225883495",
+    "regionName": "Брянская область",
+    "oikTvd": "100100225883497",
+    "oikName": "Брянская область – Унечский",
+    "district": {
+      "districtNumber": 78,
+      "oikTvd": "100100225883497"
+    }
   },
   {
     "uikNumber": 492,
     "uikTvd": "4324015342381",
     "tikTvd": "23220001386524",
-    "tikName": "Клетнянская"
+    "tikName": "Клетнянская",
+    "uikName": "УИК №492",
+    "regionCode": "32",
+    "regionTvd": "100100225883495",
+    "regionName": "Брянская область",
+    "oikTvd": "100100225883497",
+    "oikName": "Брянская область – Унечский",
+    "district": {
+      "districtNumber": 78,
+      "oikTvd": "100100225883497"
+    }
   },
   {
     "uikNumber": 493,
     "uikTvd": "4324015342382",
     "tikTvd": "23220001386524",
-    "tikName": "Клетнянская"
+    "tikName": "Клетнянская",
+    "uikName": "УИК №493",
+    "regionCode": "32",
+    "regionTvd": "100100225883495",
+    "regionName": "Брянская область",
+    "oikTvd": "100100225883497",
+    "oikName": "Брянская область – Унечский",
+    "district": {
+      "districtNumber": 78,
+      "oikTvd": "100100225883497"
+    }
   },
   {
     "uikNumber": 494,
     "uikTvd": "4324015342383",
     "tikTvd": "23220001386524",
-    "tikName": "Клетнянская"
+    "tikName": "Клетнянская",
+    "uikName": "УИК №494",
+    "regionCode": "32",
+    "regionTvd": "100100225883495",
+    "regionName": "Брянская область",
+    "oikTvd": "100100225883497",
+    "oikName": "Брянская область – Унечский",
+    "district": {
+      "districtNumber": 78,
+      "oikTvd": "100100225883497"
+    }
   },
   {
     "uikNumber": 495,
     "uikTvd": "4324015342384",
     "tikTvd": "23220001386524",
-    "tikName": "Клетнянская"
+    "tikName": "Клетнянская",
+    "uikName": "УИК №495",
+    "regionCode": "32",
+    "regionTvd": "100100225883495",
+    "regionName": "Брянская область",
+    "oikTvd": "100100225883497",
+    "oikName": "Брянская область – Унечский",
+    "district": {
+      "districtNumber": 78,
+      "oikTvd": "100100225883497"
+    }
   },
   {
     "uikNumber": 496,
     "uikTvd": "4324015342385",
     "tikTvd": "23220001386524",
-    "tikName": "Клетнянская"
+    "tikName": "Клетнянская",
+    "uikName": "УИК №496",
+    "regionCode": "32",
+    "regionTvd": "100100225883495",
+    "regionName": "Брянская область",
+    "oikTvd": "100100225883497",
+    "oikName": "Брянская область – Унечский",
+    "district": {
+      "districtNumber": 78,
+      "oikTvd": "100100225883497"
+    }
   },
   {
     "uikNumber": 497,
     "uikTvd": "4324015342386",
     "tikTvd": "23220001386524",
-    "tikName": "Клетнянская"
+    "tikName": "Клетнянская",
+    "uikName": "УИК №497",
+    "regionCode": "32",
+    "regionTvd": "100100225883495",
+    "regionName": "Брянская область",
+    "oikTvd": "100100225883497",
+    "oikName": "Брянская область – Унечский",
+    "district": {
+      "districtNumber": 78,
+      "oikTvd": "100100225883497"
+    }
   },
   {
     "uikNumber": 498,
     "uikTvd": "4324015342387",
     "tikTvd": "23220001386524",
-    "tikName": "Клетнянская"
+    "tikName": "Клетнянская",
+    "uikName": "УИК №498",
+    "regionCode": "32",
+    "regionTvd": "100100225883495",
+    "regionName": "Брянская область",
+    "oikTvd": "100100225883497",
+    "oikName": "Брянская область – Унечский",
+    "district": {
+      "districtNumber": 78,
+      "oikTvd": "100100225883497"
+    }
   },
   {
     "uikNumber": 499,
     "uikTvd": "4324015342388",
     "tikTvd": "23220001386524",
-    "tikName": "Клетнянская"
+    "tikName": "Клетнянская",
+    "uikName": "УИК №499",
+    "regionCode": "32",
+    "regionTvd": "100100225883495",
+    "regionName": "Брянская область",
+    "oikTvd": "100100225883497",
+    "oikName": "Брянская область – Унечский",
+    "district": {
+      "districtNumber": 78,
+      "oikTvd": "100100225883497"
+    }
   },
   {
     "uikNumber": 500,
     "uikTvd": "4324015342389",
     "tikTvd": "23220001386524",
-    "tikName": "Клетнянская"
+    "tikName": "Клетнянская",
+    "uikName": "УИК №500",
+    "regionCode": "32",
+    "regionTvd": "100100225883495",
+    "regionName": "Брянская область",
+    "oikTvd": "100100225883497",
+    "oikName": "Брянская область – Унечский",
+    "district": {
+      "districtNumber": 78,
+      "oikTvd": "100100225883497"
+    }
   },
   {
     "uikNumber": 501,
     "uikTvd": "4324016458697",
     "tikTvd": "23220001386506",
-    "tikName": "Климовская"
+    "tikName": "Климовская",
+    "uikName": "УИК №501",
+    "regionCode": "32",
+    "regionTvd": "100100225883495",
+    "regionName": "Брянская область",
+    "oikTvd": "100100225883496",
+    "oikName": "Брянская область – Брянский",
+    "district": {
+      "districtNumber": 77,
+      "oikTvd": "100100225883496"
+    }
   },
   {
     "uikNumber": 502,
     "uikTvd": "4324016458698",
     "tikTvd": "23220001386506",
-    "tikName": "Климовская"
+    "tikName": "Климовская",
+    "uikName": "УИК №502",
+    "regionCode": "32",
+    "regionTvd": "100100225883495",
+    "regionName": "Брянская область",
+    "oikTvd": "100100225883496",
+    "oikName": "Брянская область – Брянский",
+    "district": {
+      "districtNumber": 77,
+      "oikTvd": "100100225883496"
+    }
   },
   {
     "uikNumber": 503,
     "uikTvd": "4324016458699",
     "tikTvd": "23220001386506",
-    "tikName": "Климовская"
+    "tikName": "Климовская",
+    "uikName": "УИК №503",
+    "regionCode": "32",
+    "regionTvd": "100100225883495",
+    "regionName": "Брянская область",
+    "oikTvd": "100100225883496",
+    "oikName": "Брянская область – Брянский",
+    "district": {
+      "districtNumber": 77,
+      "oikTvd": "100100225883496"
+    }
   },
   {
     "uikNumber": 504,
     "uikTvd": "4324016458700",
     "tikTvd": "23220001386506",
-    "tikName": "Климовская"
+    "tikName": "Климовская",
+    "uikName": "УИК №504",
+    "regionCode": "32",
+    "regionTvd": "100100225883495",
+    "regionName": "Брянская область",
+    "oikTvd": "100100225883496",
+    "oikName": "Брянская область – Брянский",
+    "district": {
+      "districtNumber": 77,
+      "oikTvd": "100100225883496"
+    }
   },
   {
     "uikNumber": 505,
     "uikTvd": "4324016458701",
     "tikTvd": "23220001386506",
-    "tikName": "Климовская"
+    "tikName": "Климовская",
+    "uikName": "УИК №505",
+    "regionCode": "32",
+    "regionTvd": "100100225883495",
+    "regionName": "Брянская область",
+    "oikTvd": "100100225883496",
+    "oikName": "Брянская область – Брянский",
+    "district": {
+      "districtNumber": 77,
+      "oikTvd": "100100225883496"
+    }
   },
   {
     "uikNumber": 506,
     "uikTvd": "4324016458702",
     "tikTvd": "23220001386506",
-    "tikName": "Климовская"
+    "tikName": "Климовская",
+    "uikName": "УИК №506",
+    "regionCode": "32",
+    "regionTvd": "100100225883495",
+    "regionName": "Брянская область",
+    "oikTvd": "100100225883496",
+    "oikName": "Брянская область – Брянский",
+    "district": {
+      "districtNumber": 77,
+      "oikTvd": "100100225883496"
+    }
   },
   {
     "uikNumber": 507,
     "uikTvd": "4324016458703",
     "tikTvd": "23220001386506",
-    "tikName": "Климовская"
+    "tikName": "Климовская",
+    "uikName": "УИК №507",
+    "regionCode": "32",
+    "regionTvd": "100100225883495",
+    "regionName": "Брянская область",
+    "oikTvd": "100100225883496",
+    "oikName": "Брянская область – Брянский",
+    "district": {
+      "districtNumber": 77,
+      "oikTvd": "100100225883496"
+    }
   },
   {
     "uikNumber": 508,
     "uikTvd": "4324016458704",
     "tikTvd": "23220001386506",
-    "tikName": "Климовская"
+    "tikName": "Климовская",
+    "uikName": "УИК №508",
+    "regionCode": "32",
+    "regionTvd": "100100225883495",
+    "regionName": "Брянская область",
+    "oikTvd": "100100225883496",
+    "oikName": "Брянская область – Брянский",
+    "district": {
+      "districtNumber": 77,
+      "oikTvd": "100100225883496"
+    }
   },
   {
     "uikNumber": 509,
     "uikTvd": "4324016458705",
     "tikTvd": "23220001386506",
-    "tikName": "Климовская"
+    "tikName": "Климовская",
+    "uikName": "УИК №509",
+    "regionCode": "32",
+    "regionTvd": "100100225883495",
+    "regionName": "Брянская область",
+    "oikTvd": "100100225883496",
+    "oikName": "Брянская область – Брянский",
+    "district": {
+      "districtNumber": 77,
+      "oikTvd": "100100225883496"
+    }
   },
   {
     "uikNumber": 510,
     "uikTvd": "4324016458706",
     "tikTvd": "23220001386506",
-    "tikName": "Климовская"
+    "tikName": "Климовская",
+    "uikName": "УИК №510",
+    "regionCode": "32",
+    "regionTvd": "100100225883495",
+    "regionName": "Брянская область",
+    "oikTvd": "100100225883496",
+    "oikName": "Брянская область – Брянский",
+    "district": {
+      "districtNumber": 77,
+      "oikTvd": "100100225883496"
+    }
   },
   {
     "uikNumber": 511,
     "uikTvd": "4324016458707",
     "tikTvd": "23220001386506",
-    "tikName": "Климовская"
+    "tikName": "Климовская",
+    "uikName": "УИК №511",
+    "regionCode": "32",
+    "regionTvd": "100100225883495",
+    "regionName": "Брянская область",
+    "oikTvd": "100100225883496",
+    "oikName": "Брянская область – Брянский",
+    "district": {
+      "districtNumber": 77,
+      "oikTvd": "100100225883496"
+    }
   },
   {
     "uikNumber": 512,
     "uikTvd": "4324016458708",
     "tikTvd": "23220001386506",
-    "tikName": "Климовская"
+    "tikName": "Климовская",
+    "uikName": "УИК №512",
+    "regionCode": "32",
+    "regionTvd": "100100225883495",
+    "regionName": "Брянская область",
+    "oikTvd": "100100225883496",
+    "oikName": "Брянская область – Брянский",
+    "district": {
+      "districtNumber": 77,
+      "oikTvd": "100100225883496"
+    }
   },
   {
     "uikNumber": 513,
     "uikTvd": "4324016458709",
     "tikTvd": "23220001386506",
-    "tikName": "Климовская"
+    "tikName": "Климовская",
+    "uikName": "УИК №513",
+    "regionCode": "32",
+    "regionTvd": "100100225883495",
+    "regionName": "Брянская область",
+    "oikTvd": "100100225883496",
+    "oikName": "Брянская область – Брянский",
+    "district": {
+      "districtNumber": 77,
+      "oikTvd": "100100225883496"
+    }
   },
   {
     "uikNumber": 516,
     "uikTvd": "4324016458710",
     "tikTvd": "23220001386506",
-    "tikName": "Климовская"
+    "tikName": "Климовская",
+    "uikName": "УИК №516",
+    "regionCode": "32",
+    "regionTvd": "100100225883495",
+    "regionName": "Брянская область",
+    "oikTvd": "100100225883496",
+    "oikName": "Брянская область – Брянский",
+    "district": {
+      "districtNumber": 77,
+      "oikTvd": "100100225883496"
+    }
   },
   {
     "uikNumber": 517,
     "uikTvd": "4324016458711",
     "tikTvd": "23220001386506",
-    "tikName": "Климовская"
+    "tikName": "Климовская",
+    "uikName": "УИК №517",
+    "regionCode": "32",
+    "regionTvd": "100100225883495",
+    "regionName": "Брянская область",
+    "oikTvd": "100100225883496",
+    "oikName": "Брянская область – Брянский",
+    "district": {
+      "districtNumber": 77,
+      "oikTvd": "100100225883496"
+    }
   },
   {
     "uikNumber": 518,
     "uikTvd": "4324016458712",
     "tikTvd": "23220001386506",
-    "tikName": "Климовская"
+    "tikName": "Климовская",
+    "uikName": "УИК №518",
+    "regionCode": "32",
+    "regionTvd": "100100225883495",
+    "regionName": "Брянская область",
+    "oikTvd": "100100225883496",
+    "oikName": "Брянская область – Брянский",
+    "district": {
+      "districtNumber": 77,
+      "oikTvd": "100100225883496"
+    }
   },
   {
     "uikNumber": 519,
     "uikTvd": "4324016458713",
     "tikTvd": "23220001386506",
-    "tikName": "Климовская"
+    "tikName": "Климовская",
+    "uikName": "УИК №519",
+    "regionCode": "32",
+    "regionTvd": "100100225883495",
+    "regionName": "Брянская область",
+    "oikTvd": "100100225883496",
+    "oikName": "Брянская область – Брянский",
+    "district": {
+      "districtNumber": 77,
+      "oikTvd": "100100225883496"
+    }
   },
   {
     "uikNumber": 520,
     "uikTvd": "4324016458714",
     "tikTvd": "23220001386506",
-    "tikName": "Климовская"
+    "tikName": "Климовская",
+    "uikName": "УИК №520",
+    "regionCode": "32",
+    "regionTvd": "100100225883495",
+    "regionName": "Брянская область",
+    "oikTvd": "100100225883496",
+    "oikName": "Брянская область – Брянский",
+    "district": {
+      "districtNumber": 77,
+      "oikTvd": "100100225883496"
+    }
   },
   {
     "uikNumber": 521,
     "uikTvd": "4324016458715",
     "tikTvd": "23220001386506",
-    "tikName": "Климовская"
+    "tikName": "Климовская",
+    "uikName": "УИК №521",
+    "regionCode": "32",
+    "regionTvd": "100100225883495",
+    "regionName": "Брянская область",
+    "oikTvd": "100100225883496",
+    "oikName": "Брянская область – Брянский",
+    "district": {
+      "districtNumber": 77,
+      "oikTvd": "100100225883496"
+    }
   },
   {
     "uikNumber": 522,
     "uikTvd": "4324016458716",
     "tikTvd": "23220001386506",
-    "tikName": "Климовская"
+    "tikName": "Климовская",
+    "uikName": "УИК №522",
+    "regionCode": "32",
+    "regionTvd": "100100225883495",
+    "regionName": "Брянская область",
+    "oikTvd": "100100225883496",
+    "oikName": "Брянская область – Брянский",
+    "district": {
+      "districtNumber": 77,
+      "oikTvd": "100100225883496"
+    }
   },
   {
     "uikNumber": 523,
     "uikTvd": "4324016458717",
     "tikTvd": "23220001386506",
-    "tikName": "Климовская"
+    "tikName": "Климовская",
+    "uikName": "УИК №523",
+    "regionCode": "32",
+    "regionTvd": "100100225883495",
+    "regionName": "Брянская область",
+    "oikTvd": "100100225883496",
+    "oikName": "Брянская область – Брянский",
+    "district": {
+      "districtNumber": 77,
+      "oikTvd": "100100225883496"
+    }
   },
   {
     "uikNumber": 524,
     "uikTvd": "4324016458718",
     "tikTvd": "23220001386506",
-    "tikName": "Климовская"
+    "tikName": "Климовская",
+    "uikName": "УИК №524",
+    "regionCode": "32",
+    "regionTvd": "100100225883495",
+    "regionName": "Брянская область",
+    "oikTvd": "100100225883496",
+    "oikName": "Брянская область – Брянский",
+    "district": {
+      "districtNumber": 77,
+      "oikTvd": "100100225883496"
+    }
   },
   {
     "uikNumber": 525,
     "uikTvd": "4324016458719",
     "tikTvd": "23220001386506",
-    "tikName": "Климовская"
+    "tikName": "Климовская",
+    "uikName": "УИК №525",
+    "regionCode": "32",
+    "regionTvd": "100100225883495",
+    "regionName": "Брянская область",
+    "oikTvd": "100100225883496",
+    "oikName": "Брянская область – Брянский",
+    "district": {
+      "districtNumber": 77,
+      "oikTvd": "100100225883496"
+    }
   },
   {
     "uikNumber": 526,
     "uikTvd": "4324016458720",
     "tikTvd": "23220001386506",
-    "tikName": "Климовская"
+    "tikName": "Климовская",
+    "uikName": "УИК №526",
+    "regionCode": "32",
+    "regionTvd": "100100225883495",
+    "regionName": "Брянская область",
+    "oikTvd": "100100225883496",
+    "oikName": "Брянская область – Брянский",
+    "district": {
+      "districtNumber": 77,
+      "oikTvd": "100100225883496"
+    }
   },
   {
     "uikNumber": 527,
     "uikTvd": "4324016458721",
     "tikTvd": "23220001386506",
-    "tikName": "Климовская"
+    "tikName": "Климовская",
+    "uikName": "УИК №527",
+    "regionCode": "32",
+    "regionTvd": "100100225883495",
+    "regionName": "Брянская область",
+    "oikTvd": "100100225883496",
+    "oikName": "Брянская область – Брянский",
+    "district": {
+      "districtNumber": 77,
+      "oikTvd": "100100225883496"
+    }
   },
   {
     "uikNumber": 528,
     "uikTvd": "4324016458722",
     "tikTvd": "23220001386506",
-    "tikName": "Климовская"
+    "tikName": "Климовская",
+    "uikName": "УИК №528",
+    "regionCode": "32",
+    "regionTvd": "100100225883495",
+    "regionName": "Брянская область",
+    "oikTvd": "100100225883496",
+    "oikName": "Брянская область – Брянский",
+    "district": {
+      "districtNumber": 77,
+      "oikTvd": "100100225883496"
+    }
   },
   {
     "uikNumber": 529,
     "uikTvd": "4324016458723",
     "tikTvd": "23220001386506",
-    "tikName": "Климовская"
+    "tikName": "Климовская",
+    "uikName": "УИК №529",
+    "regionCode": "32",
+    "regionTvd": "100100225883495",
+    "regionName": "Брянская область",
+    "oikTvd": "100100225883496",
+    "oikName": "Брянская область – Брянский",
+    "district": {
+      "districtNumber": 77,
+      "oikTvd": "100100225883496"
+    }
   },
   {
     "uikNumber": 530,
     "uikTvd": "4324016458724",
     "tikTvd": "23220001386506",
-    "tikName": "Климовская"
+    "tikName": "Климовская",
+    "uikName": "УИК №530",
+    "regionCode": "32",
+    "regionTvd": "100100225883495",
+    "regionName": "Брянская область",
+    "oikTvd": "100100225883496",
+    "oikName": "Брянская область – Брянский",
+    "district": {
+      "districtNumber": 77,
+      "oikTvd": "100100225883496"
+    }
   },
   {
     "uikNumber": 531,
     "uikTvd": "4324016458725",
     "tikTvd": "23220001386506",
-    "tikName": "Климовская"
+    "tikName": "Климовская",
+    "uikName": "УИК №531",
+    "regionCode": "32",
+    "regionTvd": "100100225883495",
+    "regionName": "Брянская область",
+    "oikTvd": "100100225883496",
+    "oikName": "Брянская область – Брянский",
+    "district": {
+      "districtNumber": 77,
+      "oikTvd": "100100225883496"
+    }
   },
   {
     "uikNumber": 532,
     "uikTvd": "4324016458726",
     "tikTvd": "23220001386506",
-    "tikName": "Климовская"
+    "tikName": "Климовская",
+    "uikName": "УИК №532",
+    "regionCode": "32",
+    "regionTvd": "100100225883495",
+    "regionName": "Брянская область",
+    "oikTvd": "100100225883496",
+    "oikName": "Брянская область – Брянский",
+    "district": {
+      "districtNumber": 77,
+      "oikTvd": "100100225883496"
+    }
   },
   {
     "uikNumber": 534,
     "uikTvd": "4324016458727",
     "tikTvd": "23220001386506",
-    "tikName": "Климовская"
+    "tikName": "Климовская",
+    "uikName": "УИК №534",
+    "regionCode": "32",
+    "regionTvd": "100100225883495",
+    "regionName": "Брянская область",
+    "oikTvd": "100100225883496",
+    "oikName": "Брянская область – Брянский",
+    "district": {
+      "districtNumber": 77,
+      "oikTvd": "100100225883496"
+    }
   },
   {
     "uikNumber": 535,
     "uikTvd": "4324016458728",
     "tikTvd": "23220001386506",
-    "tikName": "Климовская"
+    "tikName": "Климовская",
+    "uikName": "УИК №535",
+    "regionCode": "32",
+    "regionTvd": "100100225883495",
+    "regionName": "Брянская область",
+    "oikTvd": "100100225883496",
+    "oikName": "Брянская область – Брянский",
+    "district": {
+      "districtNumber": 77,
+      "oikTvd": "100100225883496"
+    }
   },
   {
     "uikNumber": 537,
     "uikTvd": "4324016458729",
     "tikTvd": "23220001386506",
-    "tikName": "Климовская"
+    "tikName": "Климовская",
+    "uikName": "УИК №537",
+    "regionCode": "32",
+    "regionTvd": "100100225883495",
+    "regionName": "Брянская область",
+    "oikTvd": "100100225883496",
+    "oikName": "Брянская область – Брянский",
+    "district": {
+      "districtNumber": 77,
+      "oikTvd": "100100225883496"
+    }
   },
   {
     "uikNumber": 538,
     "uikTvd": "4324016458730",
     "tikTvd": "23220001386506",
-    "tikName": "Климовская"
+    "tikName": "Климовская",
+    "uikName": "УИК №538",
+    "regionCode": "32",
+    "regionTvd": "100100225883495",
+    "regionName": "Брянская область",
+    "oikTvd": "100100225883496",
+    "oikName": "Брянская область – Брянский",
+    "district": {
+      "districtNumber": 77,
+      "oikTvd": "100100225883496"
+    }
   },
   {
     "uikNumber": 539,
     "uikTvd": "4324016458731",
     "tikTvd": "23220001386506",
-    "tikName": "Климовская"
+    "tikName": "Климовская",
+    "uikName": "УИК №539",
+    "regionCode": "32",
+    "regionTvd": "100100225883495",
+    "regionName": "Брянская область",
+    "oikTvd": "100100225883496",
+    "oikName": "Брянская область – Брянский",
+    "district": {
+      "districtNumber": 77,
+      "oikTvd": "100100225883496"
+    }
   },
   {
     "uikNumber": 540,
     "uikTvd": "4324016458732",
     "tikTvd": "23220001386506",
-    "tikName": "Климовская"
+    "tikName": "Климовская",
+    "uikName": "УИК №540",
+    "regionCode": "32",
+    "regionTvd": "100100225883495",
+    "regionName": "Брянская область",
+    "oikTvd": "100100225883496",
+    "oikName": "Брянская область – Брянский",
+    "district": {
+      "districtNumber": 77,
+      "oikTvd": "100100225883496"
+    }
   },
   {
     "uikNumber": 542,
     "uikTvd": "4324016458733",
     "tikTvd": "23220001386506",
-    "tikName": "Климовская"
+    "tikName": "Климовская",
+    "uikName": "УИК №542",
+    "regionCode": "32",
+    "regionTvd": "100100225883495",
+    "regionName": "Брянская область",
+    "oikTvd": "100100225883496",
+    "oikName": "Брянская область – Брянский",
+    "district": {
+      "districtNumber": 77,
+      "oikTvd": "100100225883496"
+    }
   },
   {
     "uikNumber": 543,
     "uikTvd": "4324016458734",
     "tikTvd": "23220001386506",
-    "tikName": "Климовская"
+    "tikName": "Климовская",
+    "uikName": "УИК №543",
+    "regionCode": "32",
+    "regionTvd": "100100225883495",
+    "regionName": "Брянская область",
+    "oikTvd": "100100225883496",
+    "oikName": "Брянская область – Брянский",
+    "district": {
+      "districtNumber": 77,
+      "oikTvd": "100100225883496"
+    }
   },
   {
     "uikNumber": 544,
     "uikTvd": "4324018278877",
     "tikTvd": "23220001386507",
-    "tikName": "Комаричская"
+    "tikName": "Комаричская",
+    "uikName": "УИК №544",
+    "regionCode": "32",
+    "regionTvd": "100100225883495",
+    "regionName": "Брянская область",
+    "oikTvd": "100100225883496",
+    "oikName": "Брянская область – Брянский",
+    "district": {
+      "districtNumber": 77,
+      "oikTvd": "100100225883496"
+    }
   },
   {
     "uikNumber": 545,
     "uikTvd": "4324017267191",
     "tikTvd": "23220001386527",
-    "tikName": "Клинцовская городская"
+    "tikName": "Клинцовская городская",
+    "uikName": "УИК №545",
+    "regionCode": "32",
+    "regionTvd": "100100225883495",
+    "regionName": "Брянская область",
+    "oikTvd": "100100225883497",
+    "oikName": "Брянская область – Унечский",
+    "district": {
+      "districtNumber": 78,
+      "oikTvd": "100100225883497"
+    }
   },
   {
     "uikNumber": 546,
     "uikTvd": "4324017267192",
     "tikTvd": "23220001386527",
-    "tikName": "Клинцовская городская"
+    "tikName": "Клинцовская городская",
+    "uikName": "УИК №546",
+    "regionCode": "32",
+    "regionTvd": "100100225883495",
+    "regionName": "Брянская область",
+    "oikTvd": "100100225883497",
+    "oikName": "Брянская область – Унечский",
+    "district": {
+      "districtNumber": 78,
+      "oikTvd": "100100225883497"
+    }
   },
   {
     "uikNumber": 547,
     "uikTvd": "4324017267193",
     "tikTvd": "23220001386527",
-    "tikName": "Клинцовская городская"
+    "tikName": "Клинцовская городская",
+    "uikName": "УИК №547",
+    "regionCode": "32",
+    "regionTvd": "100100225883495",
+    "regionName": "Брянская область",
+    "oikTvd": "100100225883497",
+    "oikName": "Брянская область – Унечский",
+    "district": {
+      "districtNumber": 78,
+      "oikTvd": "100100225883497"
+    }
   },
   {
     "uikNumber": 548,
     "uikTvd": "4324017267194",
     "tikTvd": "23220001386527",
-    "tikName": "Клинцовская городская"
+    "tikName": "Клинцовская городская",
+    "uikName": "УИК №548",
+    "regionCode": "32",
+    "regionTvd": "100100225883495",
+    "regionName": "Брянская область",
+    "oikTvd": "100100225883497",
+    "oikName": "Брянская область – Унечский",
+    "district": {
+      "districtNumber": 78,
+      "oikTvd": "100100225883497"
+    }
   },
   {
     "uikNumber": 549,
     "uikTvd": "4324017267195",
     "tikTvd": "23220001386527",
-    "tikName": "Клинцовская городская"
+    "tikName": "Клинцовская городская",
+    "uikName": "УИК №549",
+    "regionCode": "32",
+    "regionTvd": "100100225883495",
+    "regionName": "Брянская область",
+    "oikTvd": "100100225883497",
+    "oikName": "Брянская область – Унечский",
+    "district": {
+      "districtNumber": 78,
+      "oikTvd": "100100225883497"
+    }
   },
   {
     "uikNumber": 550,
     "uikTvd": "4324017267196",
     "tikTvd": "23220001386527",
-    "tikName": "Клинцовская городская"
+    "tikName": "Клинцовская городская",
+    "uikName": "УИК №550",
+    "regionCode": "32",
+    "regionTvd": "100100225883495",
+    "regionName": "Брянская область",
+    "oikTvd": "100100225883497",
+    "oikName": "Брянская область – Унечский",
+    "district": {
+      "districtNumber": 78,
+      "oikTvd": "100100225883497"
+    }
   },
   {
     "uikNumber": 551,
     "uikTvd": "4324017267197",
     "tikTvd": "23220001386527",
-    "tikName": "Клинцовская городская"
+    "tikName": "Клинцовская городская",
+    "uikName": "УИК №551",
+    "regionCode": "32",
+    "regionTvd": "100100225883495",
+    "regionName": "Брянская область",
+    "oikTvd": "100100225883497",
+    "oikName": "Брянская область – Унечский",
+    "district": {
+      "districtNumber": 78,
+      "oikTvd": "100100225883497"
+    }
   },
   {
     "uikNumber": 552,
     "uikTvd": "4324017267198",
     "tikTvd": "23220001386527",
-    "tikName": "Клинцовская городская"
+    "tikName": "Клинцовская городская",
+    "uikName": "УИК №552",
+    "regionCode": "32",
+    "regionTvd": "100100225883495",
+    "regionName": "Брянская область",
+    "oikTvd": "100100225883497",
+    "oikName": "Брянская область – Унечский",
+    "district": {
+      "districtNumber": 78,
+      "oikTvd": "100100225883497"
+    }
   },
   {
     "uikNumber": 553,
     "uikTvd": "4324017267199",
     "tikTvd": "23220001386527",
-    "tikName": "Клинцовская городская"
+    "tikName": "Клинцовская городская",
+    "uikName": "УИК №553",
+    "regionCode": "32",
+    "regionTvd": "100100225883495",
+    "regionName": "Брянская область",
+    "oikTvd": "100100225883497",
+    "oikName": "Брянская область – Унечский",
+    "district": {
+      "districtNumber": 78,
+      "oikTvd": "100100225883497"
+    }
   },
   {
     "uikNumber": 554,
     "uikTvd": "4324017267200",
     "tikTvd": "23220001386527",
-    "tikName": "Клинцовская городская"
+    "tikName": "Клинцовская городская",
+    "uikName": "УИК №554",
+    "regionCode": "32",
+    "regionTvd": "100100225883495",
+    "regionName": "Брянская область",
+    "oikTvd": "100100225883497",
+    "oikName": "Брянская область – Унечский",
+    "district": {
+      "districtNumber": 78,
+      "oikTvd": "100100225883497"
+    }
   },
   {
     "uikNumber": 555,
     "uikTvd": "4324017267201",
     "tikTvd": "23220001386527",
-    "tikName": "Клинцовская городская"
+    "tikName": "Клинцовская городская",
+    "uikName": "УИК №555",
+    "regionCode": "32",
+    "regionTvd": "100100225883495",
+    "regionName": "Брянская область",
+    "oikTvd": "100100225883497",
+    "oikName": "Брянская область – Унечский",
+    "district": {
+      "districtNumber": 78,
+      "oikTvd": "100100225883497"
+    }
   },
   {
     "uikNumber": 556,
     "uikTvd": "4324017267202",
     "tikTvd": "23220001386527",
-    "tikName": "Клинцовская городская"
+    "tikName": "Клинцовская городская",
+    "uikName": "УИК №556",
+    "regionCode": "32",
+    "regionTvd": "100100225883495",
+    "regionName": "Брянская область",
+    "oikTvd": "100100225883497",
+    "oikName": "Брянская область – Унечский",
+    "district": {
+      "districtNumber": 78,
+      "oikTvd": "100100225883497"
+    }
   },
   {
     "uikNumber": 557,
     "uikTvd": "4324017267203",
     "tikTvd": "23220001386527",
-    "tikName": "Клинцовская городская"
+    "tikName": "Клинцовская городская",
+    "uikName": "УИК №557",
+    "regionCode": "32",
+    "regionTvd": "100100225883495",
+    "regionName": "Брянская область",
+    "oikTvd": "100100225883497",
+    "oikName": "Брянская область – Унечский",
+    "district": {
+      "districtNumber": 78,
+      "oikTvd": "100100225883497"
+    }
   },
   {
     "uikNumber": 558,
     "uikTvd": "4324017267204",
     "tikTvd": "23220001386527",
-    "tikName": "Клинцовская городская"
+    "tikName": "Клинцовская городская",
+    "uikName": "УИК №558",
+    "regionCode": "32",
+    "regionTvd": "100100225883495",
+    "regionName": "Брянская область",
+    "oikTvd": "100100225883497",
+    "oikName": "Брянская область – Унечский",
+    "district": {
+      "districtNumber": 78,
+      "oikTvd": "100100225883497"
+    }
   },
   {
     "uikNumber": 559,
     "uikTvd": "4324017267205",
     "tikTvd": "23220001386527",
-    "tikName": "Клинцовская городская"
+    "tikName": "Клинцовская городская",
+    "uikName": "УИК №559",
+    "regionCode": "32",
+    "regionTvd": "100100225883495",
+    "regionName": "Брянская область",
+    "oikTvd": "100100225883497",
+    "oikName": "Брянская область – Унечский",
+    "district": {
+      "districtNumber": 78,
+      "oikTvd": "100100225883497"
+    }
   },
   {
     "uikNumber": 560,
     "uikTvd": "4324017267206",
     "tikTvd": "23220001386527",
-    "tikName": "Клинцовская городская"
+    "tikName": "Клинцовская городская",
+    "uikName": "УИК №560",
+    "regionCode": "32",
+    "regionTvd": "100100225883495",
+    "regionName": "Брянская область",
+    "oikTvd": "100100225883497",
+    "oikName": "Брянская область – Унечский",
+    "district": {
+      "districtNumber": 78,
+      "oikTvd": "100100225883497"
+    }
   },
   {
     "uikNumber": 561,
     "uikTvd": "4324017267207",
     "tikTvd": "23220001386527",
-    "tikName": "Клинцовская городская"
+    "tikName": "Клинцовская городская",
+    "uikName": "УИК №561",
+    "regionCode": "32",
+    "regionTvd": "100100225883495",
+    "regionName": "Брянская область",
+    "oikTvd": "100100225883497",
+    "oikName": "Брянская область – Унечский",
+    "district": {
+      "districtNumber": 78,
+      "oikTvd": "100100225883497"
+    }
   },
   {
     "uikNumber": 562,
     "uikTvd": "4324017267208",
     "tikTvd": "23220001386527",
-    "tikName": "Клинцовская городская"
+    "tikName": "Клинцовская городская",
+    "uikName": "УИК №562",
+    "regionCode": "32",
+    "regionTvd": "100100225883495",
+    "regionName": "Брянская область",
+    "oikTvd": "100100225883497",
+    "oikName": "Брянская область – Унечский",
+    "district": {
+      "districtNumber": 78,
+      "oikTvd": "100100225883497"
+    }
   },
   {
     "uikNumber": 563,
     "uikTvd": "4324017267209",
     "tikTvd": "23220001386527",
-    "tikName": "Клинцовская городская"
+    "tikName": "Клинцовская городская",
+    "uikName": "УИК №563",
+    "regionCode": "32",
+    "regionTvd": "100100225883495",
+    "regionName": "Брянская область",
+    "oikTvd": "100100225883497",
+    "oikName": "Брянская область – Унечский",
+    "district": {
+      "districtNumber": 78,
+      "oikTvd": "100100225883497"
+    }
   },
   {
     "uikNumber": 564,
     "uikTvd": "4324017267210",
     "tikTvd": "23220001386527",
-    "tikName": "Клинцовская городская"
+    "tikName": "Клинцовская городская",
+    "uikName": "УИК №564",
+    "regionCode": "32",
+    "regionTvd": "100100225883495",
+    "regionName": "Брянская область",
+    "oikTvd": "100100225883497",
+    "oikName": "Брянская область – Унечский",
+    "district": {
+      "districtNumber": 78,
+      "oikTvd": "100100225883497"
+    }
   },
   {
     "uikNumber": 565,
     "uikTvd": "4324017267211",
     "tikTvd": "23220001386527",
-    "tikName": "Клинцовская городская"
+    "tikName": "Клинцовская городская",
+    "uikName": "УИК №565",
+    "regionCode": "32",
+    "regionTvd": "100100225883495",
+    "regionName": "Брянская область",
+    "oikTvd": "100100225883497",
+    "oikName": "Брянская область – Унечский",
+    "district": {
+      "districtNumber": 78,
+      "oikTvd": "100100225883497"
+    }
   },
   {
     "uikNumber": 566,
     "uikTvd": "4324017267212",
     "tikTvd": "23220001386527",
-    "tikName": "Клинцовская городская"
+    "tikName": "Клинцовская городская",
+    "uikName": "УИК №566",
+    "regionCode": "32",
+    "regionTvd": "100100225883495",
+    "regionName": "Брянская область",
+    "oikTvd": "100100225883497",
+    "oikName": "Брянская область – Унечский",
+    "district": {
+      "districtNumber": 78,
+      "oikTvd": "100100225883497"
+    }
   },
   {
     "uikNumber": 567,
     "uikTvd": "4324017267213",
     "tikTvd": "23220001386527",
-    "tikName": "Клинцовская городская"
+    "tikName": "Клинцовская городская",
+    "uikName": "УИК №567",
+    "regionCode": "32",
+    "regionTvd": "100100225883495",
+    "regionName": "Брянская область",
+    "oikTvd": "100100225883497",
+    "oikName": "Брянская область – Унечский",
+    "district": {
+      "districtNumber": 78,
+      "oikTvd": "100100225883497"
+    }
   },
   {
     "uikNumber": 568,
     "uikTvd": "4324017267214",
     "tikTvd": "23220001386527",
-    "tikName": "Клинцовская городская"
+    "tikName": "Клинцовская городская",
+    "uikName": "УИК №568",
+    "regionCode": "32",
+    "regionTvd": "100100225883495",
+    "regionName": "Брянская область",
+    "oikTvd": "100100225883497",
+    "oikName": "Брянская область – Унечский",
+    "district": {
+      "districtNumber": 78,
+      "oikTvd": "100100225883497"
+    }
   },
   {
     "uikNumber": 569,
     "uikTvd": "4324017267215",
     "tikTvd": "23220001386527",
-    "tikName": "Клинцовская городская"
+    "tikName": "Клинцовская городская",
+    "uikName": "УИК №569",
+    "regionCode": "32",
+    "regionTvd": "100100225883495",
+    "regionName": "Брянская область",
+    "oikTvd": "100100225883497",
+    "oikName": "Брянская область – Унечский",
+    "district": {
+      "districtNumber": 78,
+      "oikTvd": "100100225883497"
+    }
   },
   {
     "uikNumber": 570,
     "uikTvd": "4324017267216",
     "tikTvd": "23220001386527",
-    "tikName": "Клинцовская городская"
+    "tikName": "Клинцовская городская",
+    "uikName": "УИК №570",
+    "regionCode": "32",
+    "regionTvd": "100100225883495",
+    "regionName": "Брянская область",
+    "oikTvd": "100100225883497",
+    "oikName": "Брянская область – Унечский",
+    "district": {
+      "districtNumber": 78,
+      "oikTvd": "100100225883497"
+    }
   },
   {
     "uikNumber": 571,
     "uikTvd": "4324017267217",
     "tikTvd": "23220001386527",
-    "tikName": "Клинцовская городская"
+    "tikName": "Клинцовская городская",
+    "uikName": "УИК №571",
+    "regionCode": "32",
+    "regionTvd": "100100225883495",
+    "regionName": "Брянская область",
+    "oikTvd": "100100225883497",
+    "oikName": "Брянская область – Унечский",
+    "district": {
+      "districtNumber": 78,
+      "oikTvd": "100100225883497"
+    }
   },
   {
     "uikNumber": 572,
     "uikTvd": "4324017267218",
     "tikTvd": "23220001386527",
-    "tikName": "Клинцовская городская"
+    "tikName": "Клинцовская городская",
+    "uikName": "УИК №572",
+    "regionCode": "32",
+    "regionTvd": "100100225883495",
+    "regionName": "Брянская область",
+    "oikTvd": "100100225883497",
+    "oikName": "Брянская область – Унечский",
+    "district": {
+      "districtNumber": 78,
+      "oikTvd": "100100225883497"
+    }
   },
   {
     "uikNumber": 575,
     "uikTvd": "4324018278878",
     "tikTvd": "23220001386507",
-    "tikName": "Комаричская"
+    "tikName": "Комаричская",
+    "uikName": "УИК №575",
+    "regionCode": "32",
+    "regionTvd": "100100225883495",
+    "regionName": "Брянская область",
+    "oikTvd": "100100225883496",
+    "oikName": "Брянская область – Брянский",
+    "district": {
+      "districtNumber": 77,
+      "oikTvd": "100100225883496"
+    }
   },
   {
     "uikNumber": 576,
     "uikTvd": "4324018278879",
     "tikTvd": "23220001386507",
-    "tikName": "Комаричская"
+    "tikName": "Комаричская",
+    "uikName": "УИК №576",
+    "regionCode": "32",
+    "regionTvd": "100100225883495",
+    "regionName": "Брянская область",
+    "oikTvd": "100100225883496",
+    "oikName": "Брянская область – Брянский",
+    "district": {
+      "districtNumber": 77,
+      "oikTvd": "100100225883496"
+    }
   },
   {
     "uikNumber": 577,
     "uikTvd": "4324018278880",
     "tikTvd": "23220001386507",
-    "tikName": "Комаричская"
+    "tikName": "Комаричская",
+    "uikName": "УИК №577",
+    "regionCode": "32",
+    "regionTvd": "100100225883495",
+    "regionName": "Брянская область",
+    "oikTvd": "100100225883496",
+    "oikName": "Брянская область – Брянский",
+    "district": {
+      "districtNumber": 77,
+      "oikTvd": "100100225883496"
+    }
   },
   {
     "uikNumber": 578,
     "uikTvd": "4324018278881",
     "tikTvd": "23220001386507",
-    "tikName": "Комаричская"
+    "tikName": "Комаричская",
+    "uikName": "УИК №578",
+    "regionCode": "32",
+    "regionTvd": "100100225883495",
+    "regionName": "Брянская область",
+    "oikTvd": "100100225883496",
+    "oikName": "Брянская область – Брянский",
+    "district": {
+      "districtNumber": 77,
+      "oikTvd": "100100225883496"
+    }
   },
   {
     "uikNumber": 579,
     "uikTvd": "4324018278882",
     "tikTvd": "23220001386507",
-    "tikName": "Комаричская"
+    "tikName": "Комаричская",
+    "uikName": "УИК №579",
+    "regionCode": "32",
+    "regionTvd": "100100225883495",
+    "regionName": "Брянская область",
+    "oikTvd": "100100225883496",
+    "oikName": "Брянская область – Брянский",
+    "district": {
+      "districtNumber": 77,
+      "oikTvd": "100100225883496"
+    }
   },
   {
     "uikNumber": 580,
     "uikTvd": "4324018278883",
     "tikTvd": "23220001386507",
-    "tikName": "Комаричская"
+    "tikName": "Комаричская",
+    "uikName": "УИК №580",
+    "regionCode": "32",
+    "regionTvd": "100100225883495",
+    "regionName": "Брянская область",
+    "oikTvd": "100100225883496",
+    "oikName": "Брянская область – Брянский",
+    "district": {
+      "districtNumber": 77,
+      "oikTvd": "100100225883496"
+    }
   },
   {
     "uikNumber": 581,
     "uikTvd": "4324018278884",
     "tikTvd": "23220001386507",
-    "tikName": "Комаричская"
+    "tikName": "Комаричская",
+    "uikName": "УИК №581",
+    "regionCode": "32",
+    "regionTvd": "100100225883495",
+    "regionName": "Брянская область",
+    "oikTvd": "100100225883496",
+    "oikName": "Брянская область – Брянский",
+    "district": {
+      "districtNumber": 77,
+      "oikTvd": "100100225883496"
+    }
   },
   {
     "uikNumber": 582,
     "uikTvd": "4324018278885",
     "tikTvd": "23220001386507",
-    "tikName": "Комаричская"
+    "tikName": "Комаричская",
+    "uikName": "УИК №582",
+    "regionCode": "32",
+    "regionTvd": "100100225883495",
+    "regionName": "Брянская область",
+    "oikTvd": "100100225883496",
+    "oikName": "Брянская область – Брянский",
+    "district": {
+      "districtNumber": 77,
+      "oikTvd": "100100225883496"
+    }
   },
   {
     "uikNumber": 583,
     "uikTvd": "4324018278886",
     "tikTvd": "23220001386507",
-    "tikName": "Комаричская"
+    "tikName": "Комаричская",
+    "uikName": "УИК №583",
+    "regionCode": "32",
+    "regionTvd": "100100225883495",
+    "regionName": "Брянская область",
+    "oikTvd": "100100225883496",
+    "oikName": "Брянская область – Брянский",
+    "district": {
+      "districtNumber": 77,
+      "oikTvd": "100100225883496"
+    }
   },
   {
     "uikNumber": 584,
     "uikTvd": "4324018278887",
     "tikTvd": "23220001386507",
-    "tikName": "Комаричская"
+    "tikName": "Комаричская",
+    "uikName": "УИК №584",
+    "regionCode": "32",
+    "regionTvd": "100100225883495",
+    "regionName": "Брянская область",
+    "oikTvd": "100100225883496",
+    "oikName": "Брянская область – Брянский",
+    "district": {
+      "districtNumber": 77,
+      "oikTvd": "100100225883496"
+    }
   },
   {
     "uikNumber": 585,
     "uikTvd": "4324018278888",
     "tikTvd": "23220001386507",
-    "tikName": "Комаричская"
+    "tikName": "Комаричская",
+    "uikName": "УИК №585",
+    "regionCode": "32",
+    "regionTvd": "100100225883495",
+    "regionName": "Брянская область",
+    "oikTvd": "100100225883496",
+    "oikName": "Брянская область – Брянский",
+    "district": {
+      "districtNumber": 77,
+      "oikTvd": "100100225883496"
+    }
   },
   {
     "uikNumber": 586,
     "uikTvd": "4324018278889",
     "tikTvd": "23220001386507",
-    "tikName": "Комаричская"
+    "tikName": "Комаричская",
+    "uikName": "УИК №586",
+    "regionCode": "32",
+    "regionTvd": "100100225883495",
+    "regionName": "Брянская область",
+    "oikTvd": "100100225883496",
+    "oikName": "Брянская область – Брянский",
+    "district": {
+      "districtNumber": 77,
+      "oikTvd": "100100225883496"
+    }
   },
   {
     "uikNumber": 587,
     "uikTvd": "4324018278890",
     "tikTvd": "23220001386507",
-    "tikName": "Комаричская"
+    "tikName": "Комаричская",
+    "uikName": "УИК №587",
+    "regionCode": "32",
+    "regionTvd": "100100225883495",
+    "regionName": "Брянская область",
+    "oikTvd": "100100225883496",
+    "oikName": "Брянская область – Брянский",
+    "district": {
+      "districtNumber": 77,
+      "oikTvd": "100100225883496"
+    }
   },
   {
     "uikNumber": 588,
     "uikTvd": "4324018278891",
     "tikTvd": "23220001386507",
-    "tikName": "Комаричская"
+    "tikName": "Комаричская",
+    "uikName": "УИК №588",
+    "regionCode": "32",
+    "regionTvd": "100100225883495",
+    "regionName": "Брянская область",
+    "oikTvd": "100100225883496",
+    "oikName": "Брянская область – Брянский",
+    "district": {
+      "districtNumber": 77,
+      "oikTvd": "100100225883496"
+    }
   },
   {
     "uikNumber": 589,
     "uikTvd": "4324018278892",
     "tikTvd": "23220001386507",
-    "tikName": "Комаричская"
+    "tikName": "Комаричская",
+    "uikName": "УИК №589",
+    "regionCode": "32",
+    "regionTvd": "100100225883495",
+    "regionName": "Брянская область",
+    "oikTvd": "100100225883496",
+    "oikName": "Брянская область – Брянский",
+    "district": {
+      "districtNumber": 77,
+      "oikTvd": "100100225883496"
+    }
   },
   {
     "uikNumber": 590,
     "uikTvd": "4324018278893",
     "tikTvd": "23220001386507",
-    "tikName": "Комаричская"
+    "tikName": "Комаричская",
+    "uikName": "УИК №590",
+    "regionCode": "32",
+    "regionTvd": "100100225883495",
+    "regionName": "Брянская область",
+    "oikTvd": "100100225883496",
+    "oikName": "Брянская область – Брянский",
+    "district": {
+      "districtNumber": 77,
+      "oikTvd": "100100225883496"
+    }
   },
   {
     "uikNumber": 591,
     "uikTvd": "4324018278894",
     "tikTvd": "23220001386507",
-    "tikName": "Комаричская"
+    "tikName": "Комаричская",
+    "uikName": "УИК №591",
+    "regionCode": "32",
+    "regionTvd": "100100225883495",
+    "regionName": "Брянская область",
+    "oikTvd": "100100225883496",
+    "oikName": "Брянская область – Брянский",
+    "district": {
+      "districtNumber": 77,
+      "oikTvd": "100100225883496"
+    }
   },
   {
     "uikNumber": 592,
     "uikTvd": "4324018278895",
     "tikTvd": "23220001386507",
-    "tikName": "Комаричская"
+    "tikName": "Комаричская",
+    "uikName": "УИК №592",
+    "regionCode": "32",
+    "regionTvd": "100100225883495",
+    "regionName": "Брянская область",
+    "oikTvd": "100100225883496",
+    "oikName": "Брянская область – Брянский",
+    "district": {
+      "districtNumber": 77,
+      "oikTvd": "100100225883496"
+    }
   },
   {
     "uikNumber": 594,
     "uikTvd": "4324018278896",
     "tikTvd": "23220001386507",
-    "tikName": "Комаричская"
+    "tikName": "Комаричская",
+    "uikName": "УИК №594",
+    "regionCode": "32",
+    "regionTvd": "100100225883495",
+    "regionName": "Брянская область",
+    "oikTvd": "100100225883496",
+    "oikName": "Брянская область – Брянский",
+    "district": {
+      "districtNumber": 77,
+      "oikTvd": "100100225883496"
+    }
   },
   {
     "uikNumber": 595,
     "uikTvd": "4324018278897",
     "tikTvd": "23220001386507",
-    "tikName": "Комаричская"
+    "tikName": "Комаричская",
+    "uikName": "УИК №595",
+    "regionCode": "32",
+    "regionTvd": "100100225883495",
+    "regionName": "Брянская область",
+    "oikTvd": "100100225883496",
+    "oikName": "Брянская область – Брянский",
+    "district": {
+      "districtNumber": 77,
+      "oikTvd": "100100225883496"
+    }
   },
   {
     "uikNumber": 596,
     "uikTvd": "4324018278898",
     "tikTvd": "23220001386507",
-    "tikName": "Комаричская"
+    "tikName": "Комаричская",
+    "uikName": "УИК №596",
+    "regionCode": "32",
+    "regionTvd": "100100225883495",
+    "regionName": "Брянская область",
+    "oikTvd": "100100225883496",
+    "oikName": "Брянская область – Брянский",
+    "district": {
+      "districtNumber": 77,
+      "oikTvd": "100100225883496"
+    }
   },
   {
     "uikNumber": 598,
     "uikTvd": "4324018278899",
     "tikTvd": "23220001386507",
-    "tikName": "Комаричская"
+    "tikName": "Комаричская",
+    "uikName": "УИК №598",
+    "regionCode": "32",
+    "regionTvd": "100100225883495",
+    "regionName": "Брянская область",
+    "oikTvd": "100100225883496",
+    "oikName": "Брянская область – Брянский",
+    "district": {
+      "districtNumber": 77,
+      "oikTvd": "100100225883496"
+    }
   },
   {
     "uikNumber": 599,
     "uikTvd": "4324018278900",
     "tikTvd": "23220001386507",
-    "tikName": "Комаричская"
+    "tikName": "Комаричская",
+    "uikName": "УИК №599",
+    "regionCode": "32",
+    "regionTvd": "100100225883495",
+    "regionName": "Брянская область",
+    "oikTvd": "100100225883496",
+    "oikName": "Брянская область – Брянский",
+    "district": {
+      "districtNumber": 77,
+      "oikTvd": "100100225883496"
+    }
   },
   {
     "uikNumber": 600,
     "uikTvd": "4324018278901",
     "tikTvd": "23220001386507",
-    "tikName": "Комаричская"
+    "tikName": "Комаричская",
+    "uikName": "УИК №600",
+    "regionCode": "32",
+    "regionTvd": "100100225883495",
+    "regionName": "Брянская область",
+    "oikTvd": "100100225883496",
+    "oikName": "Брянская область – Брянский",
+    "district": {
+      "districtNumber": 77,
+      "oikTvd": "100100225883496"
+    }
   },
   {
     "uikNumber": 601,
     "uikTvd": "4324018278902",
     "tikTvd": "23220001386507",
-    "tikName": "Комаричская"
+    "tikName": "Комаричская",
+    "uikName": "УИК №601",
+    "regionCode": "32",
+    "regionTvd": "100100225883495",
+    "regionName": "Брянская область",
+    "oikTvd": "100100225883496",
+    "oikName": "Брянская область – Брянский",
+    "district": {
+      "districtNumber": 77,
+      "oikTvd": "100100225883496"
+    }
   },
   {
     "uikNumber": 602,
     "uikTvd": "4324018278903",
     "tikTvd": "23220001386507",
-    "tikName": "Комаричская"
+    "tikName": "Комаричская",
+    "uikName": "УИК №602",
+    "regionCode": "32",
+    "regionTvd": "100100225883495",
+    "regionName": "Брянская область",
+    "oikTvd": "100100225883496",
+    "oikName": "Брянская область – Брянский",
+    "district": {
+      "districtNumber": 77,
+      "oikTvd": "100100225883496"
+    }
   },
   {
     "uikNumber": 603,
     "uikTvd": "4324018278904",
     "tikTvd": "23220001386507",
-    "tikName": "Комаричская"
+    "tikName": "Комаричская",
+    "uikName": "УИК №603",
+    "regionCode": "32",
+    "regionTvd": "100100225883495",
+    "regionName": "Брянская область",
+    "oikTvd": "100100225883496",
+    "oikName": "Брянская область – Брянский",
+    "district": {
+      "districtNumber": 77,
+      "oikTvd": "100100225883496"
+    }
   },
   {
     "uikNumber": 604,
     "uikTvd": "4324018278905",
     "tikTvd": "23220001386507",
-    "tikName": "Комаричская"
+    "tikName": "Комаричская",
+    "uikName": "УИК №604",
+    "regionCode": "32",
+    "regionTvd": "100100225883495",
+    "regionName": "Брянская область",
+    "oikTvd": "100100225883496",
+    "oikName": "Брянская область – Брянский",
+    "district": {
+      "districtNumber": 77,
+      "oikTvd": "100100225883496"
+    }
   },
   {
     "uikNumber": 605,
     "uikTvd": "4324019366248",
     "tikTvd": "23220001386528",
-    "tikName": "Красногорская"
+    "tikName": "Красногорская",
+    "uikName": "УИК №605",
+    "regionCode": "32",
+    "regionTvd": "100100225883495",
+    "regionName": "Брянская область",
+    "oikTvd": "100100225883497",
+    "oikName": "Брянская область – Унечский",
+    "district": {
+      "districtNumber": 78,
+      "oikTvd": "100100225883497"
+    }
   },
   {
     "uikNumber": 606,
     "uikTvd": "4324019366249",
     "tikTvd": "23220001386528",
-    "tikName": "Красногорская"
+    "tikName": "Красногорская",
+    "uikName": "УИК №606",
+    "regionCode": "32",
+    "regionTvd": "100100225883495",
+    "regionName": "Брянская область",
+    "oikTvd": "100100225883497",
+    "oikName": "Брянская область – Унечский",
+    "district": {
+      "districtNumber": 78,
+      "oikTvd": "100100225883497"
+    }
   },
   {
     "uikNumber": 607,
     "uikTvd": "4324019366250",
     "tikTvd": "23220001386528",
-    "tikName": "Красногорская"
+    "tikName": "Красногорская",
+    "uikName": "УИК №607",
+    "regionCode": "32",
+    "regionTvd": "100100225883495",
+    "regionName": "Брянская область",
+    "oikTvd": "100100225883497",
+    "oikName": "Брянская область – Унечский",
+    "district": {
+      "districtNumber": 78,
+      "oikTvd": "100100225883497"
+    }
   },
   {
     "uikNumber": 608,
     "uikTvd": "4324019366251",
     "tikTvd": "23220001386528",
-    "tikName": "Красногорская"
+    "tikName": "Красногорская",
+    "uikName": "УИК №608",
+    "regionCode": "32",
+    "regionTvd": "100100225883495",
+    "regionName": "Брянская область",
+    "oikTvd": "100100225883497",
+    "oikName": "Брянская область – Унечский",
+    "district": {
+      "districtNumber": 78,
+      "oikTvd": "100100225883497"
+    }
   },
   {
     "uikNumber": 609,
     "uikTvd": "4324019366252",
     "tikTvd": "23220001386528",
-    "tikName": "Красногорская"
+    "tikName": "Красногорская",
+    "uikName": "УИК №609",
+    "regionCode": "32",
+    "regionTvd": "100100225883495",
+    "regionName": "Брянская область",
+    "oikTvd": "100100225883497",
+    "oikName": "Брянская область – Унечский",
+    "district": {
+      "districtNumber": 78,
+      "oikTvd": "100100225883497"
+    }
   },
   {
     "uikNumber": 610,
     "uikTvd": "4324019366253",
     "tikTvd": "23220001386528",
-    "tikName": "Красногорская"
+    "tikName": "Красногорская",
+    "uikName": "УИК №610",
+    "regionCode": "32",
+    "regionTvd": "100100225883495",
+    "regionName": "Брянская область",
+    "oikTvd": "100100225883497",
+    "oikName": "Брянская область – Унечский",
+    "district": {
+      "districtNumber": 78,
+      "oikTvd": "100100225883497"
+    }
   },
   {
     "uikNumber": 611,
     "uikTvd": "4324019366254",
     "tikTvd": "23220001386528",
-    "tikName": "Красногорская"
+    "tikName": "Красногорская",
+    "uikName": "УИК №611",
+    "regionCode": "32",
+    "regionTvd": "100100225883495",
+    "regionName": "Брянская область",
+    "oikTvd": "100100225883497",
+    "oikName": "Брянская область – Унечский",
+    "district": {
+      "districtNumber": 78,
+      "oikTvd": "100100225883497"
+    }
   },
   {
     "uikNumber": 613,
     "uikTvd": "4324019366255",
     "tikTvd": "23220001386528",
-    "tikName": "Красногорская"
+    "tikName": "Красногорская",
+    "uikName": "УИК №613",
+    "regionCode": "32",
+    "regionTvd": "100100225883495",
+    "regionName": "Брянская область",
+    "oikTvd": "100100225883497",
+    "oikName": "Брянская область – Унечский",
+    "district": {
+      "districtNumber": 78,
+      "oikTvd": "100100225883497"
+    }
   },
   {
     "uikNumber": 614,
     "uikTvd": "4324019366256",
     "tikTvd": "23220001386528",
-    "tikName": "Красногорская"
+    "tikName": "Красногорская",
+    "uikName": "УИК №614",
+    "regionCode": "32",
+    "regionTvd": "100100225883495",
+    "regionName": "Брянская область",
+    "oikTvd": "100100225883497",
+    "oikName": "Брянская область – Унечский",
+    "district": {
+      "districtNumber": 78,
+      "oikTvd": "100100225883497"
+    }
   },
   {
     "uikNumber": 615,
     "uikTvd": "4324019366257",
     "tikTvd": "23220001386528",
-    "tikName": "Красногорская"
+    "tikName": "Красногорская",
+    "uikName": "УИК №615",
+    "regionCode": "32",
+    "regionTvd": "100100225883495",
+    "regionName": "Брянская область",
+    "oikTvd": "100100225883497",
+    "oikName": "Брянская область – Унечский",
+    "district": {
+      "districtNumber": 78,
+      "oikTvd": "100100225883497"
+    }
   },
   {
     "uikNumber": 616,
     "uikTvd": "4324019366258",
     "tikTvd": "23220001386528",
-    "tikName": "Красногорская"
+    "tikName": "Красногорская",
+    "uikName": "УИК №616",
+    "regionCode": "32",
+    "regionTvd": "100100225883495",
+    "regionName": "Брянская область",
+    "oikTvd": "100100225883497",
+    "oikName": "Брянская область – Унечский",
+    "district": {
+      "districtNumber": 78,
+      "oikTvd": "100100225883497"
+    }
   },
   {
     "uikNumber": 617,
     "uikTvd": "4324019366259",
     "tikTvd": "23220001386528",
-    "tikName": "Красногорская"
+    "tikName": "Красногорская",
+    "uikName": "УИК №617",
+    "regionCode": "32",
+    "regionTvd": "100100225883495",
+    "regionName": "Брянская область",
+    "oikTvd": "100100225883497",
+    "oikName": "Брянская область – Унечский",
+    "district": {
+      "districtNumber": 78,
+      "oikTvd": "100100225883497"
+    }
   },
   {
     "uikNumber": 618,
     "uikTvd": "4324019366260",
     "tikTvd": "23220001386528",
-    "tikName": "Красногорская"
+    "tikName": "Красногорская",
+    "uikName": "УИК №618",
+    "regionCode": "32",
+    "regionTvd": "100100225883495",
+    "regionName": "Брянская область",
+    "oikTvd": "100100225883497",
+    "oikName": "Брянская область – Унечский",
+    "district": {
+      "districtNumber": 78,
+      "oikTvd": "100100225883497"
+    }
   },
   {
     "uikNumber": 620,
     "uikTvd": "4324019366261",
     "tikTvd": "23220001386528",
-    "tikName": "Красногорская"
+    "tikName": "Красногорская",
+    "uikName": "УИК №620",
+    "regionCode": "32",
+    "regionTvd": "100100225883495",
+    "regionName": "Брянская область",
+    "oikTvd": "100100225883497",
+    "oikName": "Брянская область – Унечский",
+    "district": {
+      "districtNumber": 78,
+      "oikTvd": "100100225883497"
+    }
   },
   {
     "uikNumber": 621,
     "uikTvd": "4324019366262",
     "tikTvd": "23220001386528",
-    "tikName": "Красногорская"
+    "tikName": "Красногорская",
+    "uikName": "УИК №621",
+    "regionCode": "32",
+    "regionTvd": "100100225883495",
+    "regionName": "Брянская область",
+    "oikTvd": "100100225883497",
+    "oikName": "Брянская область – Унечский",
+    "district": {
+      "districtNumber": 78,
+      "oikTvd": "100100225883497"
+    }
   },
   {
     "uikNumber": 622,
     "uikTvd": "4324019366263",
     "tikTvd": "23220001386528",
-    "tikName": "Красногорская"
+    "tikName": "Красногорская",
+    "uikName": "УИК №622",
+    "regionCode": "32",
+    "regionTvd": "100100225883495",
+    "regionName": "Брянская область",
+    "oikTvd": "100100225883497",
+    "oikName": "Брянская область – Унечский",
+    "district": {
+      "districtNumber": 78,
+      "oikTvd": "100100225883497"
+    }
   },
   {
     "uikNumber": 623,
     "uikTvd": "4324019366264",
     "tikTvd": "23220001386528",
-    "tikName": "Красногорская"
+    "tikName": "Красногорская",
+    "uikName": "УИК №623",
+    "regionCode": "32",
+    "regionTvd": "100100225883495",
+    "regionName": "Брянская область",
+    "oikTvd": "100100225883497",
+    "oikName": "Брянская область – Унечский",
+    "district": {
+      "districtNumber": 78,
+      "oikTvd": "100100225883497"
+    }
   },
   {
     "uikNumber": 624,
     "uikTvd": "4324019366265",
     "tikTvd": "23220001386528",
-    "tikName": "Красногорская"
+    "tikName": "Красногорская",
+    "uikName": "УИК №624",
+    "regionCode": "32",
+    "regionTvd": "100100225883495",
+    "regionName": "Брянская область",
+    "oikTvd": "100100225883497",
+    "oikName": "Брянская область – Унечский",
+    "district": {
+      "districtNumber": 78,
+      "oikTvd": "100100225883497"
+    }
   },
   {
     "uikNumber": 625,
     "uikTvd": "4324019366266",
     "tikTvd": "23220001386528",
-    "tikName": "Красногорская"
+    "tikName": "Красногорская",
+    "uikName": "УИК №625",
+    "regionCode": "32",
+    "regionTvd": "100100225883495",
+    "regionName": "Брянская область",
+    "oikTvd": "100100225883497",
+    "oikName": "Брянская область – Унечский",
+    "district": {
+      "districtNumber": 78,
+      "oikTvd": "100100225883497"
+    }
   },
   {
     "uikNumber": 626,
     "uikTvd": "4324019366267",
     "tikTvd": "23220001386528",
-    "tikName": "Красногорская"
+    "tikName": "Красногорская",
+    "uikName": "УИК №626",
+    "regionCode": "32",
+    "regionTvd": "100100225883495",
+    "regionName": "Брянская область",
+    "oikTvd": "100100225883497",
+    "oikName": "Брянская область – Унечский",
+    "district": {
+      "districtNumber": 78,
+      "oikTvd": "100100225883497"
+    }
   },
   {
     "uikNumber": 627,
     "uikTvd": "4324019366268",
     "tikTvd": "23220001386528",
-    "tikName": "Красногорская"
+    "tikName": "Красногорская",
+    "uikName": "УИК №627",
+    "regionCode": "32",
+    "regionTvd": "100100225883495",
+    "regionName": "Брянская область",
+    "oikTvd": "100100225883497",
+    "oikName": "Брянская область – Унечский",
+    "district": {
+      "districtNumber": 78,
+      "oikTvd": "100100225883497"
+    }
   },
   {
     "uikNumber": 628,
     "uikTvd": "4324019366269",
     "tikTvd": "23220001386528",
-    "tikName": "Красногорская"
+    "tikName": "Красногорская",
+    "uikName": "УИК №628",
+    "regionCode": "32",
+    "regionTvd": "100100225883495",
+    "regionName": "Брянская область",
+    "oikTvd": "100100225883497",
+    "oikName": "Брянская область – Унечский",
+    "district": {
+      "districtNumber": 78,
+      "oikTvd": "100100225883497"
+    }
   },
   {
     "uikNumber": 629,
     "uikTvd": "4324019366270",
     "tikTvd": "23220001386528",
-    "tikName": "Красногорская"
+    "tikName": "Красногорская",
+    "uikName": "УИК №629",
+    "regionCode": "32",
+    "regionTvd": "100100225883495",
+    "regionName": "Брянская область",
+    "oikTvd": "100100225883497",
+    "oikName": "Брянская область – Унечский",
+    "district": {
+      "districtNumber": 78,
+      "oikTvd": "100100225883497"
+    }
   },
   {
     "uikNumber": 631,
     "uikTvd": "4324020421941",
     "tikTvd": "23220001386529",
-    "tikName": "Мглинская"
+    "tikName": "Мглинская",
+    "uikName": "УИК №631",
+    "regionCode": "32",
+    "regionTvd": "100100225883495",
+    "regionName": "Брянская область",
+    "oikTvd": "100100225883497",
+    "oikName": "Брянская область – Унечский",
+    "district": {
+      "districtNumber": 78,
+      "oikTvd": "100100225883497"
+    }
   },
   {
     "uikNumber": 632,
     "uikTvd": "4324020421942",
     "tikTvd": "23220001386529",
-    "tikName": "Мглинская"
+    "tikName": "Мглинская",
+    "uikName": "УИК №632",
+    "regionCode": "32",
+    "regionTvd": "100100225883495",
+    "regionName": "Брянская область",
+    "oikTvd": "100100225883497",
+    "oikName": "Брянская область – Унечский",
+    "district": {
+      "districtNumber": 78,
+      "oikTvd": "100100225883497"
+    }
   },
   {
     "uikNumber": 633,
     "uikTvd": "4324020421943",
     "tikTvd": "23220001386529",
-    "tikName": "Мглинская"
+    "tikName": "Мглинская",
+    "uikName": "УИК №633",
+    "regionCode": "32",
+    "regionTvd": "100100225883495",
+    "regionName": "Брянская область",
+    "oikTvd": "100100225883497",
+    "oikName": "Брянская область – Унечский",
+    "district": {
+      "districtNumber": 78,
+      "oikTvd": "100100225883497"
+    }
   },
   {
     "uikNumber": 634,
     "uikTvd": "4324020421944",
     "tikTvd": "23220001386529",
-    "tikName": "Мглинская"
+    "tikName": "Мглинская",
+    "uikName": "УИК №634",
+    "regionCode": "32",
+    "regionTvd": "100100225883495",
+    "regionName": "Брянская область",
+    "oikTvd": "100100225883497",
+    "oikName": "Брянская область – Унечский",
+    "district": {
+      "districtNumber": 78,
+      "oikTvd": "100100225883497"
+    }
   },
   {
     "uikNumber": 636,
     "uikTvd": "4324020421945",
     "tikTvd": "23220001386529",
-    "tikName": "Мглинская"
+    "tikName": "Мглинская",
+    "uikName": "УИК №636",
+    "regionCode": "32",
+    "regionTvd": "100100225883495",
+    "regionName": "Брянская область",
+    "oikTvd": "100100225883497",
+    "oikName": "Брянская область – Унечский",
+    "district": {
+      "districtNumber": 78,
+      "oikTvd": "100100225883497"
+    }
   },
   {
     "uikNumber": 637,
     "uikTvd": "4324020421946",
     "tikTvd": "23220001386529",
-    "tikName": "Мглинская"
+    "tikName": "Мглинская",
+    "uikName": "УИК №637",
+    "regionCode": "32",
+    "regionTvd": "100100225883495",
+    "regionName": "Брянская область",
+    "oikTvd": "100100225883497",
+    "oikName": "Брянская область – Унечский",
+    "district": {
+      "districtNumber": 78,
+      "oikTvd": "100100225883497"
+    }
   },
   {
     "uikNumber": 638,
     "uikTvd": "4324020421947",
     "tikTvd": "23220001386529",
-    "tikName": "Мглинская"
+    "tikName": "Мглинская",
+    "uikName": "УИК №638",
+    "regionCode": "32",
+    "regionTvd": "100100225883495",
+    "regionName": "Брянская область",
+    "oikTvd": "100100225883497",
+    "oikName": "Брянская область – Унечский",
+    "district": {
+      "districtNumber": 78,
+      "oikTvd": "100100225883497"
+    }
   },
   {
     "uikNumber": 639,
     "uikTvd": "4324020421948",
     "tikTvd": "23220001386529",
-    "tikName": "Мглинская"
+    "tikName": "Мглинская",
+    "uikName": "УИК №639",
+    "regionCode": "32",
+    "regionTvd": "100100225883495",
+    "regionName": "Брянская область",
+    "oikTvd": "100100225883497",
+    "oikName": "Брянская область – Унечский",
+    "district": {
+      "districtNumber": 78,
+      "oikTvd": "100100225883497"
+    }
   },
   {
     "uikNumber": 640,
     "uikTvd": "4324020421949",
     "tikTvd": "23220001386529",
-    "tikName": "Мглинская"
+    "tikName": "Мглинская",
+    "uikName": "УИК №640",
+    "regionCode": "32",
+    "regionTvd": "100100225883495",
+    "regionName": "Брянская область",
+    "oikTvd": "100100225883497",
+    "oikName": "Брянская область – Унечский",
+    "district": {
+      "districtNumber": 78,
+      "oikTvd": "100100225883497"
+    }
   },
   {
     "uikNumber": 641,
     "uikTvd": "4324020421950",
     "tikTvd": "23220001386529",
-    "tikName": "Мглинская"
+    "tikName": "Мглинская",
+    "uikName": "УИК №641",
+    "regionCode": "32",
+    "regionTvd": "100100225883495",
+    "regionName": "Брянская область",
+    "oikTvd": "100100225883497",
+    "oikName": "Брянская область – Унечский",
+    "district": {
+      "districtNumber": 78,
+      "oikTvd": "100100225883497"
+    }
   },
   {
     "uikNumber": 642,
     "uikTvd": "4324020421951",
     "tikTvd": "23220001386529",
-    "tikName": "Мглинская"
+    "tikName": "Мглинская",
+    "uikName": "УИК №642",
+    "regionCode": "32",
+    "regionTvd": "100100225883495",
+    "regionName": "Брянская область",
+    "oikTvd": "100100225883497",
+    "oikName": "Брянская область – Унечский",
+    "district": {
+      "districtNumber": 78,
+      "oikTvd": "100100225883497"
+    }
   },
   {
     "uikNumber": 644,
     "uikTvd": "4324020421952",
     "tikTvd": "23220001386529",
-    "tikName": "Мглинская"
+    "tikName": "Мглинская",
+    "uikName": "УИК №644",
+    "regionCode": "32",
+    "regionTvd": "100100225883495",
+    "regionName": "Брянская область",
+    "oikTvd": "100100225883497",
+    "oikName": "Брянская область – Унечский",
+    "district": {
+      "districtNumber": 78,
+      "oikTvd": "100100225883497"
+    }
   },
   {
     "uikNumber": 646,
     "uikTvd": "4324020421953",
     "tikTvd": "23220001386529",
-    "tikName": "Мглинская"
+    "tikName": "Мглинская",
+    "uikName": "УИК №646",
+    "regionCode": "32",
+    "regionTvd": "100100225883495",
+    "regionName": "Брянская область",
+    "oikTvd": "100100225883497",
+    "oikName": "Брянская область – Унечский",
+    "district": {
+      "districtNumber": 78,
+      "oikTvd": "100100225883497"
+    }
   },
   {
     "uikNumber": 647,
     "uikTvd": "4324020421954",
     "tikTvd": "23220001386529",
-    "tikName": "Мглинская"
+    "tikName": "Мглинская",
+    "uikName": "УИК №647",
+    "regionCode": "32",
+    "regionTvd": "100100225883495",
+    "regionName": "Брянская область",
+    "oikTvd": "100100225883497",
+    "oikName": "Брянская область – Унечский",
+    "district": {
+      "districtNumber": 78,
+      "oikTvd": "100100225883497"
+    }
   },
   {
     "uikNumber": 648,
     "uikTvd": "4324020421955",
     "tikTvd": "23220001386529",
-    "tikName": "Мглинская"
+    "tikName": "Мглинская",
+    "uikName": "УИК №648",
+    "regionCode": "32",
+    "regionTvd": "100100225883495",
+    "regionName": "Брянская область",
+    "oikTvd": "100100225883497",
+    "oikName": "Брянская область – Унечский",
+    "district": {
+      "districtNumber": 78,
+      "oikTvd": "100100225883497"
+    }
   },
   {
     "uikNumber": 650,
     "uikTvd": "4324020421956",
     "tikTvd": "23220001386529",
-    "tikName": "Мглинская"
+    "tikName": "Мглинская",
+    "uikName": "УИК №650",
+    "regionCode": "32",
+    "regionTvd": "100100225883495",
+    "regionName": "Брянская область",
+    "oikTvd": "100100225883497",
+    "oikName": "Брянская область – Унечский",
+    "district": {
+      "districtNumber": 78,
+      "oikTvd": "100100225883497"
+    }
   },
   {
     "uikNumber": 651,
     "uikTvd": "4324020421957",
     "tikTvd": "23220001386529",
-    "tikName": "Мглинская"
+    "tikName": "Мглинская",
+    "uikName": "УИК №651",
+    "regionCode": "32",
+    "regionTvd": "100100225883495",
+    "regionName": "Брянская область",
+    "oikTvd": "100100225883497",
+    "oikName": "Брянская область – Унечский",
+    "district": {
+      "districtNumber": 78,
+      "oikTvd": "100100225883497"
+    }
   },
   {
     "uikNumber": 653,
     "uikTvd": "4324020421958",
     "tikTvd": "23220001386529",
-    "tikName": "Мглинская"
+    "tikName": "Мглинская",
+    "uikName": "УИК №653",
+    "regionCode": "32",
+    "regionTvd": "100100225883495",
+    "regionName": "Брянская область",
+    "oikTvd": "100100225883497",
+    "oikName": "Брянская область – Унечский",
+    "district": {
+      "districtNumber": 78,
+      "oikTvd": "100100225883497"
+    }
   },
   {
     "uikNumber": 654,
     "uikTvd": "4324020421959",
     "tikTvd": "23220001386529",
-    "tikName": "Мглинская"
+    "tikName": "Мглинская",
+    "uikName": "УИК №654",
+    "regionCode": "32",
+    "regionTvd": "100100225883495",
+    "regionName": "Брянская область",
+    "oikTvd": "100100225883497",
+    "oikName": "Брянская область – Унечский",
+    "district": {
+      "districtNumber": 78,
+      "oikTvd": "100100225883497"
+    }
   },
   {
     "uikNumber": 655,
     "uikTvd": "4324020421960",
     "tikTvd": "23220001386529",
-    "tikName": "Мглинская"
+    "tikName": "Мглинская",
+    "uikName": "УИК №655",
+    "regionCode": "32",
+    "regionTvd": "100100225883495",
+    "regionName": "Брянская область",
+    "oikTvd": "100100225883497",
+    "oikName": "Брянская область – Унечский",
+    "district": {
+      "districtNumber": 78,
+      "oikTvd": "100100225883497"
+    }
   },
   {
     "uikNumber": 656,
     "uikTvd": "4324020421961",
     "tikTvd": "23220001386529",
-    "tikName": "Мглинская"
+    "tikName": "Мглинская",
+    "uikName": "УИК №656",
+    "regionCode": "32",
+    "regionTvd": "100100225883495",
+    "regionName": "Брянская область",
+    "oikTvd": "100100225883497",
+    "oikName": "Брянская область – Унечский",
+    "district": {
+      "districtNumber": 78,
+      "oikTvd": "100100225883497"
+    }
   },
   {
     "uikNumber": 658,
     "uikTvd": "4324020421962",
     "tikTvd": "23220001386529",
-    "tikName": "Мглинская"
+    "tikName": "Мглинская",
+    "uikName": "УИК №658",
+    "regionCode": "32",
+    "regionTvd": "100100225883495",
+    "regionName": "Брянская область",
+    "oikTvd": "100100225883497",
+    "oikName": "Брянская область – Унечский",
+    "district": {
+      "districtNumber": 78,
+      "oikTvd": "100100225883497"
+    }
   },
   {
     "uikNumber": 659,
     "uikTvd": "4324020421963",
     "tikTvd": "23220001386529",
-    "tikName": "Мглинская"
+    "tikName": "Мглинская",
+    "uikName": "УИК №659",
+    "regionCode": "32",
+    "regionTvd": "100100225883495",
+    "regionName": "Брянская область",
+    "oikTvd": "100100225883497",
+    "oikName": "Брянская область – Унечский",
+    "district": {
+      "districtNumber": 78,
+      "oikTvd": "100100225883497"
+    }
   },
   {
     "uikNumber": 660,
     "uikTvd": "4324020421964",
     "tikTvd": "23220001386529",
-    "tikName": "Мглинская"
+    "tikName": "Мглинская",
+    "uikName": "УИК №660",
+    "regionCode": "32",
+    "regionTvd": "100100225883495",
+    "regionName": "Брянская область",
+    "oikTvd": "100100225883497",
+    "oikName": "Брянская область – Унечский",
+    "district": {
+      "districtNumber": 78,
+      "oikTvd": "100100225883497"
+    }
   },
   {
     "uikNumber": 661,
     "uikTvd": "4324020421965",
     "tikTvd": "23220001386529",
-    "tikName": "Мглинская"
+    "tikName": "Мглинская",
+    "uikName": "УИК №661",
+    "regionCode": "32",
+    "regionTvd": "100100225883495",
+    "regionName": "Брянская область",
+    "oikTvd": "100100225883497",
+    "oikName": "Брянская область – Унечский",
+    "district": {
+      "districtNumber": 78,
+      "oikTvd": "100100225883497"
+    }
   },
   {
     "uikNumber": 662,
     "uikTvd": "4324020421966",
     "tikTvd": "23220001386529",
-    "tikName": "Мглинская"
+    "tikName": "Мглинская",
+    "uikName": "УИК №662",
+    "regionCode": "32",
+    "regionTvd": "100100225883495",
+    "regionName": "Брянская область",
+    "oikTvd": "100100225883497",
+    "oikName": "Брянская область – Унечский",
+    "district": {
+      "districtNumber": 78,
+      "oikTvd": "100100225883497"
+    }
   },
   {
     "uikNumber": 663,
     "uikTvd": "4324020421967",
     "tikTvd": "23220001386529",
-    "tikName": "Мглинская"
+    "tikName": "Мглинская",
+    "uikName": "УИК №663",
+    "regionCode": "32",
+    "regionTvd": "100100225883495",
+    "regionName": "Брянская область",
+    "oikTvd": "100100225883497",
+    "oikName": "Брянская область – Унечский",
+    "district": {
+      "districtNumber": 78,
+      "oikTvd": "100100225883497"
+    }
   },
   {
     "uikNumber": 665,
     "uikTvd": "4324020421968",
     "tikTvd": "23220001386529",
-    "tikName": "Мглинская"
+    "tikName": "Мглинская",
+    "uikName": "УИК №665",
+    "regionCode": "32",
+    "regionTvd": "100100225883495",
+    "regionName": "Брянская область",
+    "oikTvd": "100100225883497",
+    "oikName": "Брянская область – Унечский",
+    "district": {
+      "districtNumber": 78,
+      "oikTvd": "100100225883497"
+    }
   },
   {
     "uikNumber": 666,
     "uikTvd": "4324021389539",
     "tikTvd": "23220001386508",
-    "tikName": "Навлинская"
+    "tikName": "Навлинская",
+    "uikName": "УИК №666",
+    "regionCode": "32",
+    "regionTvd": "100100225883495",
+    "regionName": "Брянская область",
+    "oikTvd": "100100225883496",
+    "oikName": "Брянская область – Брянский",
+    "district": {
+      "districtNumber": 77,
+      "oikTvd": "100100225883496"
+    }
   },
   {
     "uikNumber": 667,
     "uikTvd": "4324021389540",
     "tikTvd": "23220001386508",
-    "tikName": "Навлинская"
+    "tikName": "Навлинская",
+    "uikName": "УИК №667",
+    "regionCode": "32",
+    "regionTvd": "100100225883495",
+    "regionName": "Брянская область",
+    "oikTvd": "100100225883496",
+    "oikName": "Брянская область – Брянский",
+    "district": {
+      "districtNumber": 77,
+      "oikTvd": "100100225883496"
+    }
   },
   {
     "uikNumber": 668,
     "uikTvd": "4324021389541",
     "tikTvd": "23220001386508",
-    "tikName": "Навлинская"
+    "tikName": "Навлинская",
+    "uikName": "УИК №668",
+    "regionCode": "32",
+    "regionTvd": "100100225883495",
+    "regionName": "Брянская область",
+    "oikTvd": "100100225883496",
+    "oikName": "Брянская область – Брянский",
+    "district": {
+      "districtNumber": 77,
+      "oikTvd": "100100225883496"
+    }
   },
   {
     "uikNumber": 669,
     "uikTvd": "4324021389542",
     "tikTvd": "23220001386508",
-    "tikName": "Навлинская"
+    "tikName": "Навлинская",
+    "uikName": "УИК №669",
+    "regionCode": "32",
+    "regionTvd": "100100225883495",
+    "regionName": "Брянская область",
+    "oikTvd": "100100225883496",
+    "oikName": "Брянская область – Брянский",
+    "district": {
+      "districtNumber": 77,
+      "oikTvd": "100100225883496"
+    }
   },
   {
     "uikNumber": 670,
     "uikTvd": "4324021389543",
     "tikTvd": "23220001386508",
-    "tikName": "Навлинская"
+    "tikName": "Навлинская",
+    "uikName": "УИК №670",
+    "regionCode": "32",
+    "regionTvd": "100100225883495",
+    "regionName": "Брянская область",
+    "oikTvd": "100100225883496",
+    "oikName": "Брянская область – Брянский",
+    "district": {
+      "districtNumber": 77,
+      "oikTvd": "100100225883496"
+    }
   },
   {
     "uikNumber": 671,
     "uikTvd": "4324021389544",
     "tikTvd": "23220001386508",
-    "tikName": "Навлинская"
+    "tikName": "Навлинская",
+    "uikName": "УИК №671",
+    "regionCode": "32",
+    "regionTvd": "100100225883495",
+    "regionName": "Брянская область",
+    "oikTvd": "100100225883496",
+    "oikName": "Брянская область – Брянский",
+    "district": {
+      "districtNumber": 77,
+      "oikTvd": "100100225883496"
+    }
   },
   {
     "uikNumber": 672,
     "uikTvd": "4324021389545",
     "tikTvd": "23220001386508",
-    "tikName": "Навлинская"
+    "tikName": "Навлинская",
+    "uikName": "УИК №672",
+    "regionCode": "32",
+    "regionTvd": "100100225883495",
+    "regionName": "Брянская область",
+    "oikTvd": "100100225883496",
+    "oikName": "Брянская область – Брянский",
+    "district": {
+      "districtNumber": 77,
+      "oikTvd": "100100225883496"
+    }
   },
   {
     "uikNumber": 673,
     "uikTvd": "4324021389546",
     "tikTvd": "23220001386508",
-    "tikName": "Навлинская"
+    "tikName": "Навлинская",
+    "uikName": "УИК №673",
+    "regionCode": "32",
+    "regionTvd": "100100225883495",
+    "regionName": "Брянская область",
+    "oikTvd": "100100225883496",
+    "oikName": "Брянская область – Брянский",
+    "district": {
+      "districtNumber": 77,
+      "oikTvd": "100100225883496"
+    }
   },
   {
     "uikNumber": 675,
     "uikTvd": "4324021389547",
     "tikTvd": "23220001386508",
-    "tikName": "Навлинская"
+    "tikName": "Навлинская",
+    "uikName": "УИК №675",
+    "regionCode": "32",
+    "regionTvd": "100100225883495",
+    "regionName": "Брянская область",
+    "oikTvd": "100100225883496",
+    "oikName": "Брянская область – Брянский",
+    "district": {
+      "districtNumber": 77,
+      "oikTvd": "100100225883496"
+    }
   },
   {
     "uikNumber": 676,
     "uikTvd": "4324021389548",
     "tikTvd": "23220001386508",
-    "tikName": "Навлинская"
+    "tikName": "Навлинская",
+    "uikName": "УИК №676",
+    "regionCode": "32",
+    "regionTvd": "100100225883495",
+    "regionName": "Брянская область",
+    "oikTvd": "100100225883496",
+    "oikName": "Брянская область – Брянский",
+    "district": {
+      "districtNumber": 77,
+      "oikTvd": "100100225883496"
+    }
   },
   {
     "uikNumber": 677,
     "uikTvd": "4324021389549",
     "tikTvd": "23220001386508",
-    "tikName": "Навлинская"
+    "tikName": "Навлинская",
+    "uikName": "УИК №677",
+    "regionCode": "32",
+    "regionTvd": "100100225883495",
+    "regionName": "Брянская область",
+    "oikTvd": "100100225883496",
+    "oikName": "Брянская область – Брянский",
+    "district": {
+      "districtNumber": 77,
+      "oikTvd": "100100225883496"
+    }
   },
   {
     "uikNumber": 678,
     "uikTvd": "4324021389550",
     "tikTvd": "23220001386508",
-    "tikName": "Навлинская"
+    "tikName": "Навлинская",
+    "uikName": "УИК №678",
+    "regionCode": "32",
+    "regionTvd": "100100225883495",
+    "regionName": "Брянская область",
+    "oikTvd": "100100225883496",
+    "oikName": "Брянская область – Брянский",
+    "district": {
+      "districtNumber": 77,
+      "oikTvd": "100100225883496"
+    }
   },
   {
     "uikNumber": 679,
     "uikTvd": "4324021389551",
     "tikTvd": "23220001386508",
-    "tikName": "Навлинская"
+    "tikName": "Навлинская",
+    "uikName": "УИК №679",
+    "regionCode": "32",
+    "regionTvd": "100100225883495",
+    "regionName": "Брянская область",
+    "oikTvd": "100100225883496",
+    "oikName": "Брянская область – Брянский",
+    "district": {
+      "districtNumber": 77,
+      "oikTvd": "100100225883496"
+    }
   },
   {
     "uikNumber": 680,
     "uikTvd": "4324021389552",
     "tikTvd": "23220001386508",
-    "tikName": "Навлинская"
+    "tikName": "Навлинская",
+    "uikName": "УИК №680",
+    "regionCode": "32",
+    "regionTvd": "100100225883495",
+    "regionName": "Брянская область",
+    "oikTvd": "100100225883496",
+    "oikName": "Брянская область – Брянский",
+    "district": {
+      "districtNumber": 77,
+      "oikTvd": "100100225883496"
+    }
   },
   {
     "uikNumber": 683,
     "uikTvd": "4324021389553",
     "tikTvd": "23220001386508",
-    "tikName": "Навлинская"
+    "tikName": "Навлинская",
+    "uikName": "УИК №683",
+    "regionCode": "32",
+    "regionTvd": "100100225883495",
+    "regionName": "Брянская область",
+    "oikTvd": "100100225883496",
+    "oikName": "Брянская область – Брянский",
+    "district": {
+      "districtNumber": 77,
+      "oikTvd": "100100225883496"
+    }
   },
   {
     "uikNumber": 685,
     "uikTvd": "4324021389554",
     "tikTvd": "23220001386508",
-    "tikName": "Навлинская"
+    "tikName": "Навлинская",
+    "uikName": "УИК №685",
+    "regionCode": "32",
+    "regionTvd": "100100225883495",
+    "regionName": "Брянская область",
+    "oikTvd": "100100225883496",
+    "oikName": "Брянская область – Брянский",
+    "district": {
+      "districtNumber": 77,
+      "oikTvd": "100100225883496"
+    }
   },
   {
     "uikNumber": 686,
     "uikTvd": "4324021389555",
     "tikTvd": "23220001386508",
-    "tikName": "Навлинская"
+    "tikName": "Навлинская",
+    "uikName": "УИК №686",
+    "regionCode": "32",
+    "regionTvd": "100100225883495",
+    "regionName": "Брянская область",
+    "oikTvd": "100100225883496",
+    "oikName": "Брянская область – Брянский",
+    "district": {
+      "districtNumber": 77,
+      "oikTvd": "100100225883496"
+    }
   },
   {
     "uikNumber": 687,
     "uikTvd": "4324021389556",
     "tikTvd": "23220001386508",
-    "tikName": "Навлинская"
+    "tikName": "Навлинская",
+    "uikName": "УИК №687",
+    "regionCode": "32",
+    "regionTvd": "100100225883495",
+    "regionName": "Брянская область",
+    "oikTvd": "100100225883496",
+    "oikName": "Брянская область – Брянский",
+    "district": {
+      "districtNumber": 77,
+      "oikTvd": "100100225883496"
+    }
   },
   {
     "uikNumber": 688,
     "uikTvd": "4324021389557",
     "tikTvd": "23220001386508",
-    "tikName": "Навлинская"
+    "tikName": "Навлинская",
+    "uikName": "УИК №688",
+    "regionCode": "32",
+    "regionTvd": "100100225883495",
+    "regionName": "Брянская область",
+    "oikTvd": "100100225883496",
+    "oikName": "Брянская область – Брянский",
+    "district": {
+      "districtNumber": 77,
+      "oikTvd": "100100225883496"
+    }
   },
   {
     "uikNumber": 690,
     "uikTvd": "4324021389558",
     "tikTvd": "23220001386508",
-    "tikName": "Навлинская"
+    "tikName": "Навлинская",
+    "uikName": "УИК №690",
+    "regionCode": "32",
+    "regionTvd": "100100225883495",
+    "regionName": "Брянская область",
+    "oikTvd": "100100225883496",
+    "oikName": "Брянская область – Брянский",
+    "district": {
+      "districtNumber": 77,
+      "oikTvd": "100100225883496"
+    }
   },
   {
     "uikNumber": 691,
     "uikTvd": "4324021389559",
     "tikTvd": "23220001386508",
-    "tikName": "Навлинская"
+    "tikName": "Навлинская",
+    "uikName": "УИК №691",
+    "regionCode": "32",
+    "regionTvd": "100100225883495",
+    "regionName": "Брянская область",
+    "oikTvd": "100100225883496",
+    "oikName": "Брянская область – Брянский",
+    "district": {
+      "districtNumber": 77,
+      "oikTvd": "100100225883496"
+    }
   },
   {
     "uikNumber": 692,
     "uikTvd": "4324021389560",
     "tikTvd": "23220001386508",
-    "tikName": "Навлинская"
+    "tikName": "Навлинская",
+    "uikName": "УИК №692",
+    "regionCode": "32",
+    "regionTvd": "100100225883495",
+    "regionName": "Брянская область",
+    "oikTvd": "100100225883496",
+    "oikName": "Брянская область – Брянский",
+    "district": {
+      "districtNumber": 77,
+      "oikTvd": "100100225883496"
+    }
   },
   {
     "uikNumber": 694,
     "uikTvd": "4324021389561",
     "tikTvd": "23220001386508",
-    "tikName": "Навлинская"
+    "tikName": "Навлинская",
+    "uikName": "УИК №694",
+    "regionCode": "32",
+    "regionTvd": "100100225883495",
+    "regionName": "Брянская область",
+    "oikTvd": "100100225883496",
+    "oikName": "Брянская область – Брянский",
+    "district": {
+      "districtNumber": 77,
+      "oikTvd": "100100225883496"
+    }
   },
   {
     "uikNumber": 695,
     "uikTvd": "4324022295220",
     "tikTvd": "23220001386509",
-    "tikName": "Новозыбковская городская"
+    "tikName": "Новозыбковская городская",
+    "uikName": "УИК №695",
+    "regionCode": "32",
+    "regionTvd": "100100225883495",
+    "regionName": "Брянская область",
+    "oikTvd": "100100225883496",
+    "oikName": "Брянская область – Брянский",
+    "district": {
+      "districtNumber": 77,
+      "oikTvd": "100100225883496"
+    }
   },
   {
     "uikNumber": 696,
     "uikTvd": "4324022295221",
     "tikTvd": "23220001386509",
-    "tikName": "Новозыбковская городская"
+    "tikName": "Новозыбковская городская",
+    "uikName": "УИК №696",
+    "regionCode": "32",
+    "regionTvd": "100100225883495",
+    "regionName": "Брянская область",
+    "oikTvd": "100100225883496",
+    "oikName": "Брянская область – Брянский",
+    "district": {
+      "districtNumber": 77,
+      "oikTvd": "100100225883496"
+    }
   },
   {
     "uikNumber": 697,
     "uikTvd": "4324022295222",
     "tikTvd": "23220001386509",
-    "tikName": "Новозыбковская городская"
+    "tikName": "Новозыбковская городская",
+    "uikName": "УИК №697",
+    "regionCode": "32",
+    "regionTvd": "100100225883495",
+    "regionName": "Брянская область",
+    "oikTvd": "100100225883496",
+    "oikName": "Брянская область – Брянский",
+    "district": {
+      "districtNumber": 77,
+      "oikTvd": "100100225883496"
+    }
   },
   {
     "uikNumber": 698,
     "uikTvd": "4324022295223",
     "tikTvd": "23220001386509",
-    "tikName": "Новозыбковская городская"
+    "tikName": "Новозыбковская городская",
+    "uikName": "УИК №698",
+    "regionCode": "32",
+    "regionTvd": "100100225883495",
+    "regionName": "Брянская область",
+    "oikTvd": "100100225883496",
+    "oikName": "Брянская область – Брянский",
+    "district": {
+      "districtNumber": 77,
+      "oikTvd": "100100225883496"
+    }
   },
   {
     "uikNumber": 699,
     "uikTvd": "4324022295224",
     "tikTvd": "23220001386509",
-    "tikName": "Новозыбковская городская"
+    "tikName": "Новозыбковская городская",
+    "uikName": "УИК №699",
+    "regionCode": "32",
+    "regionTvd": "100100225883495",
+    "regionName": "Брянская область",
+    "oikTvd": "100100225883496",
+    "oikName": "Брянская область – Брянский",
+    "district": {
+      "districtNumber": 77,
+      "oikTvd": "100100225883496"
+    }
   },
   {
     "uikNumber": 700,
     "uikTvd": "4324022295225",
     "tikTvd": "23220001386509",
-    "tikName": "Новозыбковская городская"
+    "tikName": "Новозыбковская городская",
+    "uikName": "УИК №700",
+    "regionCode": "32",
+    "regionTvd": "100100225883495",
+    "regionName": "Брянская область",
+    "oikTvd": "100100225883496",
+    "oikName": "Брянская область – Брянский",
+    "district": {
+      "districtNumber": 77,
+      "oikTvd": "100100225883496"
+    }
   },
   {
     "uikNumber": 701,
     "uikTvd": "4324022295226",
     "tikTvd": "23220001386509",
-    "tikName": "Новозыбковская городская"
+    "tikName": "Новозыбковская городская",
+    "uikName": "УИК №701",
+    "regionCode": "32",
+    "regionTvd": "100100225883495",
+    "regionName": "Брянская область",
+    "oikTvd": "100100225883496",
+    "oikName": "Брянская область – Брянский",
+    "district": {
+      "districtNumber": 77,
+      "oikTvd": "100100225883496"
+    }
   },
   {
     "uikNumber": 702,
     "uikTvd": "4324022295227",
     "tikTvd": "23220001386509",
-    "tikName": "Новозыбковская городская"
+    "tikName": "Новозыбковская городская",
+    "uikName": "УИК №702",
+    "regionCode": "32",
+    "regionTvd": "100100225883495",
+    "regionName": "Брянская область",
+    "oikTvd": "100100225883496",
+    "oikName": "Брянская область – Брянский",
+    "district": {
+      "districtNumber": 77,
+      "oikTvd": "100100225883496"
+    }
   },
   {
     "uikNumber": 703,
     "uikTvd": "4324022295228",
     "tikTvd": "23220001386509",
-    "tikName": "Новозыбковская городская"
+    "tikName": "Новозыбковская городская",
+    "uikName": "УИК №703",
+    "regionCode": "32",
+    "regionTvd": "100100225883495",
+    "regionName": "Брянская область",
+    "oikTvd": "100100225883496",
+    "oikName": "Брянская область – Брянский",
+    "district": {
+      "districtNumber": 77,
+      "oikTvd": "100100225883496"
+    }
   },
   {
     "uikNumber": 704,
     "uikTvd": "4324022295229",
     "tikTvd": "23220001386509",
-    "tikName": "Новозыбковская городская"
+    "tikName": "Новозыбковская городская",
+    "uikName": "УИК №704",
+    "regionCode": "32",
+    "regionTvd": "100100225883495",
+    "regionName": "Брянская область",
+    "oikTvd": "100100225883496",
+    "oikName": "Брянская область – Брянский",
+    "district": {
+      "districtNumber": 77,
+      "oikTvd": "100100225883496"
+    }
   },
   {
     "uikNumber": 705,
     "uikTvd": "4324022295230",
     "tikTvd": "23220001386509",
-    "tikName": "Новозыбковская городская"
+    "tikName": "Новозыбковская городская",
+    "uikName": "УИК №705",
+    "regionCode": "32",
+    "regionTvd": "100100225883495",
+    "regionName": "Брянская область",
+    "oikTvd": "100100225883496",
+    "oikName": "Брянская область – Брянский",
+    "district": {
+      "districtNumber": 77,
+      "oikTvd": "100100225883496"
+    }
   },
   {
     "uikNumber": 706,
     "uikTvd": "4324022295231",
     "tikTvd": "23220001386509",
-    "tikName": "Новозыбковская городская"
+    "tikName": "Новозыбковская городская",
+    "uikName": "УИК №706",
+    "regionCode": "32",
+    "regionTvd": "100100225883495",
+    "regionName": "Брянская область",
+    "oikTvd": "100100225883496",
+    "oikName": "Брянская область – Брянский",
+    "district": {
+      "districtNumber": 77,
+      "oikTvd": "100100225883496"
+    }
   },
   {
     "uikNumber": 707,
     "uikTvd": "4324022295232",
     "tikTvd": "23220001386509",
-    "tikName": "Новозыбковская городская"
+    "tikName": "Новозыбковская городская",
+    "uikName": "УИК №707",
+    "regionCode": "32",
+    "regionTvd": "100100225883495",
+    "regionName": "Брянская область",
+    "oikTvd": "100100225883496",
+    "oikName": "Брянская область – Брянский",
+    "district": {
+      "districtNumber": 77,
+      "oikTvd": "100100225883496"
+    }
   },
   {
     "uikNumber": 708,
     "uikTvd": "4324022295233",
     "tikTvd": "23220001386509",
-    "tikName": "Новозыбковская городская"
+    "tikName": "Новозыбковская городская",
+    "uikName": "УИК №708",
+    "regionCode": "32",
+    "regionTvd": "100100225883495",
+    "regionName": "Брянская область",
+    "oikTvd": "100100225883496",
+    "oikName": "Брянская область – Брянский",
+    "district": {
+      "districtNumber": 77,
+      "oikTvd": "100100225883496"
+    }
   },
   {
     "uikNumber": 709,
     "uikTvd": "4324022295234",
     "tikTvd": "23220001386509",
-    "tikName": "Новозыбковская городская"
+    "tikName": "Новозыбковская городская",
+    "uikName": "УИК №709",
+    "regionCode": "32",
+    "regionTvd": "100100225883495",
+    "regionName": "Брянская область",
+    "oikTvd": "100100225883496",
+    "oikName": "Брянская область – Брянский",
+    "district": {
+      "districtNumber": 77,
+      "oikTvd": "100100225883496"
+    }
   },
   {
     "uikNumber": 710,
     "uikTvd": "4324022295235",
     "tikTvd": "23220001386509",
-    "tikName": "Новозыбковская городская"
+    "tikName": "Новозыбковская городская",
+    "uikName": "УИК №710",
+    "regionCode": "32",
+    "regionTvd": "100100225883495",
+    "regionName": "Брянская область",
+    "oikTvd": "100100225883496",
+    "oikName": "Брянская область – Брянский",
+    "district": {
+      "districtNumber": 77,
+      "oikTvd": "100100225883496"
+    }
   },
   {
     "uikNumber": 711,
     "uikTvd": "4324022295236",
     "tikTvd": "23220001386509",
-    "tikName": "Новозыбковская городская"
+    "tikName": "Новозыбковская городская",
+    "uikName": "УИК №711",
+    "regionCode": "32",
+    "regionTvd": "100100225883495",
+    "regionName": "Брянская область",
+    "oikTvd": "100100225883496",
+    "oikName": "Брянская область – Брянский",
+    "district": {
+      "districtNumber": 77,
+      "oikTvd": "100100225883496"
+    }
   },
   {
     "uikNumber": 712,
     "uikTvd": "4324022295237",
     "tikTvd": "23220001386509",
-    "tikName": "Новозыбковская городская"
+    "tikName": "Новозыбковская городская",
+    "uikName": "УИК №712",
+    "regionCode": "32",
+    "regionTvd": "100100225883495",
+    "regionName": "Брянская область",
+    "oikTvd": "100100225883496",
+    "oikName": "Брянская область – Брянский",
+    "district": {
+      "districtNumber": 77,
+      "oikTvd": "100100225883496"
+    }
   },
   {
     "uikNumber": 713,
     "uikTvd": "4324022295238",
     "tikTvd": "23220001386509",
-    "tikName": "Новозыбковская городская"
+    "tikName": "Новозыбковская городская",
+    "uikName": "УИК №713",
+    "regionCode": "32",
+    "regionTvd": "100100225883495",
+    "regionName": "Брянская область",
+    "oikTvd": "100100225883496",
+    "oikName": "Брянская область – Брянский",
+    "district": {
+      "districtNumber": 77,
+      "oikTvd": "100100225883496"
+    }
   },
   {
     "uikNumber": 714,
     "uikTvd": "4324023481216",
     "tikTvd": "23220001386510",
-    "tikName": "Погарская"
+    "tikName": "Погарская",
+    "uikName": "УИК №714",
+    "regionCode": "32",
+    "regionTvd": "100100225883495",
+    "regionName": "Брянская область",
+    "oikTvd": "100100225883496",
+    "oikName": "Брянская область – Брянский",
+    "district": {
+      "districtNumber": 77,
+      "oikTvd": "100100225883496"
+    }
   },
   {
     "uikNumber": 715,
     "uikTvd": "4324023481217",
     "tikTvd": "23220001386510",
-    "tikName": "Погарская"
+    "tikName": "Погарская",
+    "uikName": "УИК №715",
+    "regionCode": "32",
+    "regionTvd": "100100225883495",
+    "regionName": "Брянская область",
+    "oikTvd": "100100225883496",
+    "oikName": "Брянская область – Брянский",
+    "district": {
+      "districtNumber": 77,
+      "oikTvd": "100100225883496"
+    }
   },
   {
     "uikNumber": 716,
     "uikTvd": "4324023481218",
     "tikTvd": "23220001386510",
-    "tikName": "Погарская"
+    "tikName": "Погарская",
+    "uikName": "УИК №716",
+    "regionCode": "32",
+    "regionTvd": "100100225883495",
+    "regionName": "Брянская область",
+    "oikTvd": "100100225883496",
+    "oikName": "Брянская область – Брянский",
+    "district": {
+      "districtNumber": 77,
+      "oikTvd": "100100225883496"
+    }
   },
   {
     "uikNumber": 717,
     "uikTvd": "4324023481219",
     "tikTvd": "23220001386510",
-    "tikName": "Погарская"
+    "tikName": "Погарская",
+    "uikName": "УИК №717",
+    "regionCode": "32",
+    "regionTvd": "100100225883495",
+    "regionName": "Брянская область",
+    "oikTvd": "100100225883496",
+    "oikName": "Брянская область – Брянский",
+    "district": {
+      "districtNumber": 77,
+      "oikTvd": "100100225883496"
+    }
   },
   {
     "uikNumber": 718,
     "uikTvd": "4324023481220",
     "tikTvd": "23220001386510",
-    "tikName": "Погарская"
+    "tikName": "Погарская",
+    "uikName": "УИК №718",
+    "regionCode": "32",
+    "regionTvd": "100100225883495",
+    "regionName": "Брянская область",
+    "oikTvd": "100100225883496",
+    "oikName": "Брянская область – Брянский",
+    "district": {
+      "districtNumber": 77,
+      "oikTvd": "100100225883496"
+    }
   },
   {
     "uikNumber": 719,
     "uikTvd": "4324023481221",
     "tikTvd": "23220001386510",
-    "tikName": "Погарская"
+    "tikName": "Погарская",
+    "uikName": "УИК №719",
+    "regionCode": "32",
+    "regionTvd": "100100225883495",
+    "regionName": "Брянская область",
+    "oikTvd": "100100225883496",
+    "oikName": "Брянская область – Брянский",
+    "district": {
+      "districtNumber": 77,
+      "oikTvd": "100100225883496"
+    }
   },
   {
     "uikNumber": 720,
     "uikTvd": "4324023481222",
     "tikTvd": "23220001386510",
-    "tikName": "Погарская"
+    "tikName": "Погарская",
+    "uikName": "УИК №720",
+    "regionCode": "32",
+    "regionTvd": "100100225883495",
+    "regionName": "Брянская область",
+    "oikTvd": "100100225883496",
+    "oikName": "Брянская область – Брянский",
+    "district": {
+      "districtNumber": 77,
+      "oikTvd": "100100225883496"
+    }
   },
   {
     "uikNumber": 721,
     "uikTvd": "4324023481223",
     "tikTvd": "23220001386510",
-    "tikName": "Погарская"
+    "tikName": "Погарская",
+    "uikName": "УИК №721",
+    "regionCode": "32",
+    "regionTvd": "100100225883495",
+    "regionName": "Брянская область",
+    "oikTvd": "100100225883496",
+    "oikName": "Брянская область – Брянский",
+    "district": {
+      "districtNumber": 77,
+      "oikTvd": "100100225883496"
+    }
   },
   {
     "uikNumber": 722,
     "uikTvd": "4324023481224",
     "tikTvd": "23220001386510",
-    "tikName": "Погарская"
+    "tikName": "Погарская",
+    "uikName": "УИК №722",
+    "regionCode": "32",
+    "regionTvd": "100100225883495",
+    "regionName": "Брянская область",
+    "oikTvd": "100100225883496",
+    "oikName": "Брянская область – Брянский",
+    "district": {
+      "districtNumber": 77,
+      "oikTvd": "100100225883496"
+    }
   },
   {
     "uikNumber": 723,
     "uikTvd": "4324023481225",
     "tikTvd": "23220001386510",
-    "tikName": "Погарская"
+    "tikName": "Погарская",
+    "uikName": "УИК №723",
+    "regionCode": "32",
+    "regionTvd": "100100225883495",
+    "regionName": "Брянская область",
+    "oikTvd": "100100225883496",
+    "oikName": "Брянская область – Брянский",
+    "district": {
+      "districtNumber": 77,
+      "oikTvd": "100100225883496"
+    }
   },
   {
     "uikNumber": 724,
     "uikTvd": "4324023481226",
     "tikTvd": "23220001386510",
-    "tikName": "Погарская"
+    "tikName": "Погарская",
+    "uikName": "УИК №724",
+    "regionCode": "32",
+    "regionTvd": "100100225883495",
+    "regionName": "Брянская область",
+    "oikTvd": "100100225883496",
+    "oikName": "Брянская область – Брянский",
+    "district": {
+      "districtNumber": 77,
+      "oikTvd": "100100225883496"
+    }
   },
   {
     "uikNumber": 725,
     "uikTvd": "4324023481227",
     "tikTvd": "23220001386510",
-    "tikName": "Погарская"
+    "tikName": "Погарская",
+    "uikName": "УИК №725",
+    "regionCode": "32",
+    "regionTvd": "100100225883495",
+    "regionName": "Брянская область",
+    "oikTvd": "100100225883496",
+    "oikName": "Брянская область – Брянский",
+    "district": {
+      "districtNumber": 77,
+      "oikTvd": "100100225883496"
+    }
   },
   {
     "uikNumber": 726,
     "uikTvd": "4324023481228",
     "tikTvd": "23220001386510",
-    "tikName": "Погарская"
+    "tikName": "Погарская",
+    "uikName": "УИК №726",
+    "regionCode": "32",
+    "regionTvd": "100100225883495",
+    "regionName": "Брянская область",
+    "oikTvd": "100100225883496",
+    "oikName": "Брянская область – Брянский",
+    "district": {
+      "districtNumber": 77,
+      "oikTvd": "100100225883496"
+    }
   },
   {
     "uikNumber": 727,
     "uikTvd": "4324023481229",
     "tikTvd": "23220001386510",
-    "tikName": "Погарская"
+    "tikName": "Погарская",
+    "uikName": "УИК №727",
+    "regionCode": "32",
+    "regionTvd": "100100225883495",
+    "regionName": "Брянская область",
+    "oikTvd": "100100225883496",
+    "oikName": "Брянская область – Брянский",
+    "district": {
+      "districtNumber": 77,
+      "oikTvd": "100100225883496"
+    }
   },
   {
     "uikNumber": 728,
     "uikTvd": "4324023481230",
     "tikTvd": "23220001386510",
-    "tikName": "Погарская"
+    "tikName": "Погарская",
+    "uikName": "УИК №728",
+    "regionCode": "32",
+    "regionTvd": "100100225883495",
+    "regionName": "Брянская область",
+    "oikTvd": "100100225883496",
+    "oikName": "Брянская область – Брянский",
+    "district": {
+      "districtNumber": 77,
+      "oikTvd": "100100225883496"
+    }
   },
   {
     "uikNumber": 730,
     "uikTvd": "4324023481231",
     "tikTvd": "23220001386510",
-    "tikName": "Погарская"
+    "tikName": "Погарская",
+    "uikName": "УИК №730",
+    "regionCode": "32",
+    "regionTvd": "100100225883495",
+    "regionName": "Брянская область",
+    "oikTvd": "100100225883496",
+    "oikName": "Брянская область – Брянский",
+    "district": {
+      "districtNumber": 77,
+      "oikTvd": "100100225883496"
+    }
   },
   {
     "uikNumber": 731,
     "uikTvd": "4324023481232",
     "tikTvd": "23220001386510",
-    "tikName": "Погарская"
+    "tikName": "Погарская",
+    "uikName": "УИК №731",
+    "regionCode": "32",
+    "regionTvd": "100100225883495",
+    "regionName": "Брянская область",
+    "oikTvd": "100100225883496",
+    "oikName": "Брянская область – Брянский",
+    "district": {
+      "districtNumber": 77,
+      "oikTvd": "100100225883496"
+    }
   },
   {
     "uikNumber": 732,
     "uikTvd": "4324023481233",
     "tikTvd": "23220001386510",
-    "tikName": "Погарская"
+    "tikName": "Погарская",
+    "uikName": "УИК №732",
+    "regionCode": "32",
+    "regionTvd": "100100225883495",
+    "regionName": "Брянская область",
+    "oikTvd": "100100225883496",
+    "oikName": "Брянская область – Брянский",
+    "district": {
+      "districtNumber": 77,
+      "oikTvd": "100100225883496"
+    }
   },
   {
     "uikNumber": 733,
     "uikTvd": "4324023481234",
     "tikTvd": "23220001386510",
-    "tikName": "Погарская"
+    "tikName": "Погарская",
+    "uikName": "УИК №733",
+    "regionCode": "32",
+    "regionTvd": "100100225883495",
+    "regionName": "Брянская область",
+    "oikTvd": "100100225883496",
+    "oikName": "Брянская область – Брянский",
+    "district": {
+      "districtNumber": 77,
+      "oikTvd": "100100225883496"
+    }
   },
   {
     "uikNumber": 734,
     "uikTvd": "4324023481235",
     "tikTvd": "23220001386510",
-    "tikName": "Погарская"
+    "tikName": "Погарская",
+    "uikName": "УИК №734",
+    "regionCode": "32",
+    "regionTvd": "100100225883495",
+    "regionName": "Брянская область",
+    "oikTvd": "100100225883496",
+    "oikName": "Брянская область – Брянский",
+    "district": {
+      "districtNumber": 77,
+      "oikTvd": "100100225883496"
+    }
   },
   {
     "uikNumber": 735,
     "uikTvd": "4324023481236",
     "tikTvd": "23220001386510",
-    "tikName": "Погарская"
+    "tikName": "Погарская",
+    "uikName": "УИК №735",
+    "regionCode": "32",
+    "regionTvd": "100100225883495",
+    "regionName": "Брянская область",
+    "oikTvd": "100100225883496",
+    "oikName": "Брянская область – Брянский",
+    "district": {
+      "districtNumber": 77,
+      "oikTvd": "100100225883496"
+    }
   },
   {
     "uikNumber": 736,
     "uikTvd": "4324023481237",
     "tikTvd": "23220001386510",
-    "tikName": "Погарская"
+    "tikName": "Погарская",
+    "uikName": "УИК №736",
+    "regionCode": "32",
+    "regionTvd": "100100225883495",
+    "regionName": "Брянская область",
+    "oikTvd": "100100225883496",
+    "oikName": "Брянская область – Брянский",
+    "district": {
+      "districtNumber": 77,
+      "oikTvd": "100100225883496"
+    }
   },
   {
     "uikNumber": 737,
     "uikTvd": "4324023481238",
     "tikTvd": "23220001386510",
-    "tikName": "Погарская"
+    "tikName": "Погарская",
+    "uikName": "УИК №737",
+    "regionCode": "32",
+    "regionTvd": "100100225883495",
+    "regionName": "Брянская область",
+    "oikTvd": "100100225883496",
+    "oikName": "Брянская область – Брянский",
+    "district": {
+      "districtNumber": 77,
+      "oikTvd": "100100225883496"
+    }
   },
   {
     "uikNumber": 738,
     "uikTvd": "4324023481239",
     "tikTvd": "23220001386510",
-    "tikName": "Погарская"
+    "tikName": "Погарская",
+    "uikName": "УИК №738",
+    "regionCode": "32",
+    "regionTvd": "100100225883495",
+    "regionName": "Брянская область",
+    "oikTvd": "100100225883496",
+    "oikName": "Брянская область – Брянский",
+    "district": {
+      "districtNumber": 77,
+      "oikTvd": "100100225883496"
+    }
   },
   {
     "uikNumber": 739,
     "uikTvd": "4324023481240",
     "tikTvd": "23220001386510",
-    "tikName": "Погарская"
+    "tikName": "Погарская",
+    "uikName": "УИК №739",
+    "regionCode": "32",
+    "regionTvd": "100100225883495",
+    "regionName": "Брянская область",
+    "oikTvd": "100100225883496",
+    "oikName": "Брянская область – Брянский",
+    "district": {
+      "districtNumber": 77,
+      "oikTvd": "100100225883496"
+    }
   },
   {
     "uikNumber": 740,
     "uikTvd": "4324023481241",
     "tikTvd": "23220001386510",
-    "tikName": "Погарская"
+    "tikName": "Погарская",
+    "uikName": "УИК №740",
+    "regionCode": "32",
+    "regionTvd": "100100225883495",
+    "regionName": "Брянская область",
+    "oikTvd": "100100225883496",
+    "oikName": "Брянская область – Брянский",
+    "district": {
+      "districtNumber": 77,
+      "oikTvd": "100100225883496"
+    }
   },
   {
     "uikNumber": 741,
     "uikTvd": "4324023481242",
     "tikTvd": "23220001386510",
-    "tikName": "Погарская"
+    "tikName": "Погарская",
+    "uikName": "УИК №741",
+    "regionCode": "32",
+    "regionTvd": "100100225883495",
+    "regionName": "Брянская область",
+    "oikTvd": "100100225883496",
+    "oikName": "Брянская область – Брянский",
+    "district": {
+      "districtNumber": 77,
+      "oikTvd": "100100225883496"
+    }
   },
   {
     "uikNumber": 743,
     "uikTvd": "4324023481243",
     "tikTvd": "23220001386510",
-    "tikName": "Погарская"
+    "tikName": "Погарская",
+    "uikName": "УИК №743",
+    "regionCode": "32",
+    "regionTvd": "100100225883495",
+    "regionName": "Брянская область",
+    "oikTvd": "100100225883496",
+    "oikName": "Брянская область – Брянский",
+    "district": {
+      "districtNumber": 77,
+      "oikTvd": "100100225883496"
+    }
   },
   {
     "uikNumber": 745,
     "uikTvd": "4324023481244",
     "tikTvd": "23220001386510",
-    "tikName": "Погарская"
+    "tikName": "Погарская",
+    "uikName": "УИК №745",
+    "regionCode": "32",
+    "regionTvd": "100100225883495",
+    "regionName": "Брянская область",
+    "oikTvd": "100100225883496",
+    "oikName": "Брянская область – Брянский",
+    "district": {
+      "districtNumber": 77,
+      "oikTvd": "100100225883496"
+    }
   },
   {
     "uikNumber": 746,
     "uikTvd": "4324023481245",
     "tikTvd": "23220001386510",
-    "tikName": "Погарская"
+    "tikName": "Погарская",
+    "uikName": "УИК №746",
+    "regionCode": "32",
+    "regionTvd": "100100225883495",
+    "regionName": "Брянская область",
+    "oikTvd": "100100225883496",
+    "oikName": "Брянская область – Брянский",
+    "district": {
+      "districtNumber": 77,
+      "oikTvd": "100100225883496"
+    }
   },
   {
     "uikNumber": 747,
     "uikTvd": "4324023481246",
     "tikTvd": "23220001386510",
-    "tikName": "Погарская"
+    "tikName": "Погарская",
+    "uikName": "УИК №747",
+    "regionCode": "32",
+    "regionTvd": "100100225883495",
+    "regionName": "Брянская область",
+    "oikTvd": "100100225883496",
+    "oikName": "Брянская область – Брянский",
+    "district": {
+      "districtNumber": 77,
+      "oikTvd": "100100225883496"
+    }
   },
   {
     "uikNumber": 748,
     "uikTvd": "4324023481247",
     "tikTvd": "23220001386510",
-    "tikName": "Погарская"
+    "tikName": "Погарская",
+    "uikName": "УИК №748",
+    "regionCode": "32",
+    "regionTvd": "100100225883495",
+    "regionName": "Брянская область",
+    "oikTvd": "100100225883496",
+    "oikName": "Брянская область – Брянский",
+    "district": {
+      "districtNumber": 77,
+      "oikTvd": "100100225883496"
+    }
   },
   {
     "uikNumber": 749,
     "uikTvd": "4324023481248",
     "tikTvd": "23220001386510",
-    "tikName": "Погарская"
+    "tikName": "Погарская",
+    "uikName": "УИК №749",
+    "regionCode": "32",
+    "regionTvd": "100100225883495",
+    "regionName": "Брянская область",
+    "oikTvd": "100100225883496",
+    "oikName": "Брянская область – Брянский",
+    "district": {
+      "districtNumber": 77,
+      "oikTvd": "100100225883496"
+    }
   },
   {
     "uikNumber": 750,
     "uikTvd": "4324023481249",
     "tikTvd": "23220001386510",
-    "tikName": "Погарская"
+    "tikName": "Погарская",
+    "uikName": "УИК №750",
+    "regionCode": "32",
+    "regionTvd": "100100225883495",
+    "regionName": "Брянская область",
+    "oikTvd": "100100225883496",
+    "oikName": "Брянская область – Брянский",
+    "district": {
+      "districtNumber": 77,
+      "oikTvd": "100100225883496"
+    }
   },
   {
     "uikNumber": 751,
     "uikTvd": "4324023481250",
     "tikTvd": "23220001386510",
-    "tikName": "Погарская"
+    "tikName": "Погарская",
+    "uikName": "УИК №751",
+    "regionCode": "32",
+    "regionTvd": "100100225883495",
+    "regionName": "Брянская область",
+    "oikTvd": "100100225883496",
+    "oikName": "Брянская область – Брянский",
+    "district": {
+      "districtNumber": 77,
+      "oikTvd": "100100225883496"
+    }
   },
   {
     "uikNumber": 752,
     "uikTvd": "4324023481251",
     "tikTvd": "23220001386510",
-    "tikName": "Погарская"
+    "tikName": "Погарская",
+    "uikName": "УИК №752",
+    "regionCode": "32",
+    "regionTvd": "100100225883495",
+    "regionName": "Брянская область",
+    "oikTvd": "100100225883496",
+    "oikName": "Брянская область – Брянский",
+    "district": {
+      "districtNumber": 77,
+      "oikTvd": "100100225883496"
+    }
   },
   {
     "uikNumber": 753,
     "uikTvd": "4324023481252",
     "tikTvd": "23220001386510",
-    "tikName": "Погарская"
+    "tikName": "Погарская",
+    "uikName": "УИК №753",
+    "regionCode": "32",
+    "regionTvd": "100100225883495",
+    "regionName": "Брянская область",
+    "oikTvd": "100100225883496",
+    "oikName": "Брянская область – Брянский",
+    "district": {
+      "districtNumber": 77,
+      "oikTvd": "100100225883496"
+    }
   },
   {
     "uikNumber": 754,
     "uikTvd": "4324023481253",
     "tikTvd": "23220001386510",
-    "tikName": "Погарская"
+    "tikName": "Погарская",
+    "uikName": "УИК №754",
+    "regionCode": "32",
+    "regionTvd": "100100225883495",
+    "regionName": "Брянская область",
+    "oikTvd": "100100225883496",
+    "oikName": "Брянская область – Брянский",
+    "district": {
+      "districtNumber": 77,
+      "oikTvd": "100100225883496"
+    }
   },
   {
     "uikNumber": 755,
     "uikTvd": "4324023481254",
     "tikTvd": "23220001386510",
-    "tikName": "Погарская"
+    "tikName": "Погарская",
+    "uikName": "УИК №755",
+    "regionCode": "32",
+    "regionTvd": "100100225883495",
+    "regionName": "Брянская область",
+    "oikTvd": "100100225883496",
+    "oikName": "Брянская область – Брянский",
+    "district": {
+      "districtNumber": 77,
+      "oikTvd": "100100225883496"
+    }
   },
   {
     "uikNumber": 756,
     "uikTvd": "4324023481255",
     "tikTvd": "23220001386510",
-    "tikName": "Погарская"
+    "tikName": "Погарская",
+    "uikName": "УИК №756",
+    "regionCode": "32",
+    "regionTvd": "100100225883495",
+    "regionName": "Брянская область",
+    "oikTvd": "100100225883496",
+    "oikName": "Брянская область – Брянский",
+    "district": {
+      "districtNumber": 77,
+      "oikTvd": "100100225883496"
+    }
   },
   {
     "uikNumber": 757,
     "uikTvd": "4324023481256",
     "tikTvd": "23220001386510",
-    "tikName": "Погарская"
+    "tikName": "Погарская",
+    "uikName": "УИК №757",
+    "regionCode": "32",
+    "regionTvd": "100100225883495",
+    "regionName": "Брянская область",
+    "oikTvd": "100100225883496",
+    "oikName": "Брянская область – Брянский",
+    "district": {
+      "districtNumber": 77,
+      "oikTvd": "100100225883496"
+    }
   },
   {
     "uikNumber": 758,
     "uikTvd": "4324023481257",
     "tikTvd": "23220001386510",
-    "tikName": "Погарская"
+    "tikName": "Погарская",
+    "uikName": "УИК №758",
+    "regionCode": "32",
+    "regionTvd": "100100225883495",
+    "regionName": "Брянская область",
+    "oikTvd": "100100225883496",
+    "oikName": "Брянская область – Брянский",
+    "district": {
+      "districtNumber": 77,
+      "oikTvd": "100100225883496"
+    }
   },
   {
     "uikNumber": 759,
     "uikTvd": "4324023481258",
     "tikTvd": "23220001386510",
-    "tikName": "Погарская"
+    "tikName": "Погарская",
+    "uikName": "УИК №759",
+    "regionCode": "32",
+    "regionTvd": "100100225883495",
+    "regionName": "Брянская область",
+    "oikTvd": "100100225883496",
+    "oikName": "Брянская область – Брянский",
+    "district": {
+      "districtNumber": 77,
+      "oikTvd": "100100225883496"
+    }
   },
   {
     "uikNumber": 760,
     "uikTvd": "4324023481259",
     "tikTvd": "23220001386510",
-    "tikName": "Погарская"
+    "tikName": "Погарская",
+    "uikName": "УИК №760",
+    "regionCode": "32",
+    "regionTvd": "100100225883495",
+    "regionName": "Брянская область",
+    "oikTvd": "100100225883496",
+    "oikName": "Брянская область – Брянский",
+    "district": {
+      "districtNumber": 77,
+      "oikTvd": "100100225883496"
+    }
   },
   {
     "uikNumber": 761,
     "uikTvd": "4324023481260",
     "tikTvd": "23220001386510",
-    "tikName": "Погарская"
+    "tikName": "Погарская",
+    "uikName": "УИК №761",
+    "regionCode": "32",
+    "regionTvd": "100100225883495",
+    "regionName": "Брянская область",
+    "oikTvd": "100100225883496",
+    "oikName": "Брянская область – Брянский",
+    "district": {
+      "districtNumber": 77,
+      "oikTvd": "100100225883496"
+    }
   },
   {
     "uikNumber": 762,
     "uikTvd": "4324023481261",
     "tikTvd": "23220001386510",
-    "tikName": "Погарская"
+    "tikName": "Погарская",
+    "uikName": "УИК №762",
+    "regionCode": "32",
+    "regionTvd": "100100225883495",
+    "regionName": "Брянская область",
+    "oikTvd": "100100225883496",
+    "oikName": "Брянская область – Брянский",
+    "district": {
+      "districtNumber": 77,
+      "oikTvd": "100100225883496"
+    }
   },
   {
     "uikNumber": 763,
     "uikTvd": "4324023481262",
     "tikTvd": "23220001386510",
-    "tikName": "Погарская"
+    "tikName": "Погарская",
+    "uikName": "УИК №763",
+    "regionCode": "32",
+    "regionTvd": "100100225883495",
+    "regionName": "Брянская область",
+    "oikTvd": "100100225883496",
+    "oikName": "Брянская область – Брянский",
+    "district": {
+      "districtNumber": 77,
+      "oikTvd": "100100225883496"
+    }
   },
   {
     "uikNumber": 764,
     "uikTvd": "4324023481263",
     "tikTvd": "23220001386510",
-    "tikName": "Погарская"
+    "tikName": "Погарская",
+    "uikName": "УИК №764",
+    "regionCode": "32",
+    "regionTvd": "100100225883495",
+    "regionName": "Брянская область",
+    "oikTvd": "100100225883496",
+    "oikName": "Брянская область – Брянский",
+    "district": {
+      "districtNumber": 77,
+      "oikTvd": "100100225883496"
+    }
   },
   {
     "uikNumber": 765,
     "uikTvd": "4324023481264",
     "tikTvd": "23220001386510",
-    "tikName": "Погарская"
+    "tikName": "Погарская",
+    "uikName": "УИК №765",
+    "regionCode": "32",
+    "regionTvd": "100100225883495",
+    "regionName": "Брянская область",
+    "oikTvd": "100100225883496",
+    "oikName": "Брянская область – Брянский",
+    "district": {
+      "districtNumber": 77,
+      "oikTvd": "100100225883496"
+    }
   },
   {
     "uikNumber": 766,
     "uikTvd": "4324023481265",
     "tikTvd": "23220001386510",
-    "tikName": "Погарская"
+    "tikName": "Погарская",
+    "uikName": "УИК №766",
+    "regionCode": "32",
+    "regionTvd": "100100225883495",
+    "regionName": "Брянская область",
+    "oikTvd": "100100225883496",
+    "oikName": "Брянская область – Брянский",
+    "district": {
+      "districtNumber": 77,
+      "oikTvd": "100100225883496"
+    }
   },
   {
     "uikNumber": 767,
     "uikTvd": "4324023481266",
     "tikTvd": "23220001386510",
-    "tikName": "Погарская"
+    "tikName": "Погарская",
+    "uikName": "УИК №767",
+    "regionCode": "32",
+    "regionTvd": "100100225883495",
+    "regionName": "Брянская область",
+    "oikTvd": "100100225883496",
+    "oikName": "Брянская область – Брянский",
+    "district": {
+      "districtNumber": 77,
+      "oikTvd": "100100225883496"
+    }
   },
   {
     "uikNumber": 768,
     "uikTvd": "4324002379353",
     "tikTvd": "23220001386516",
-    "tikName": "Брянск, Бежицкая"
+    "tikName": "Брянск, Бежицкая",
+    "uikName": "УИК №768",
+    "regionCode": "32",
+    "regionTvd": "100100225883495",
+    "regionName": "Брянская область",
+    "oikTvd": "100100225883497",
+    "oikName": "Брянская область – Унечский",
+    "district": {
+      "districtNumber": 78,
+      "oikTvd": "100100225883497"
+    }
   },
   {
     "uikNumber": 769,
     "uikTvd": "4324024533342",
     "tikTvd": "23220001386511",
-    "tikName": "Почепская"
+    "tikName": "Почепская",
+    "uikName": "УИК №769",
+    "regionCode": "32",
+    "regionTvd": "100100225883495",
+    "regionName": "Брянская область",
+    "oikTvd": "100100225883496",
+    "oikName": "Брянская область – Брянский",
+    "district": {
+      "districtNumber": 77,
+      "oikTvd": "100100225883496"
+    }
   },
   {
     "uikNumber": 770,
     "uikTvd": "4324024533343",
     "tikTvd": "23220001386511",
-    "tikName": "Почепская"
+    "tikName": "Почепская",
+    "uikName": "УИК №770",
+    "regionCode": "32",
+    "regionTvd": "100100225883495",
+    "regionName": "Брянская область",
+    "oikTvd": "100100225883496",
+    "oikName": "Брянская область – Брянский",
+    "district": {
+      "districtNumber": 77,
+      "oikTvd": "100100225883496"
+    }
   },
   {
     "uikNumber": 771,
     "uikTvd": "4324024533344",
     "tikTvd": "23220001386511",
-    "tikName": "Почепская"
+    "tikName": "Почепская",
+    "uikName": "УИК №771",
+    "regionCode": "32",
+    "regionTvd": "100100225883495",
+    "regionName": "Брянская область",
+    "oikTvd": "100100225883496",
+    "oikName": "Брянская область – Брянский",
+    "district": {
+      "districtNumber": 77,
+      "oikTvd": "100100225883496"
+    }
   },
   {
     "uikNumber": 772,
     "uikTvd": "4324024533345",
     "tikTvd": "23220001386511",
-    "tikName": "Почепская"
+    "tikName": "Почепская",
+    "uikName": "УИК №772",
+    "regionCode": "32",
+    "regionTvd": "100100225883495",
+    "regionName": "Брянская область",
+    "oikTvd": "100100225883496",
+    "oikName": "Брянская область – Брянский",
+    "district": {
+      "districtNumber": 77,
+      "oikTvd": "100100225883496"
+    }
   },
   {
     "uikNumber": 773,
     "uikTvd": "4324024533346",
     "tikTvd": "23220001386511",
-    "tikName": "Почепская"
+    "tikName": "Почепская",
+    "uikName": "УИК №773",
+    "regionCode": "32",
+    "regionTvd": "100100225883495",
+    "regionName": "Брянская область",
+    "oikTvd": "100100225883496",
+    "oikName": "Брянская область – Брянский",
+    "district": {
+      "districtNumber": 77,
+      "oikTvd": "100100225883496"
+    }
   },
   {
     "uikNumber": 774,
     "uikTvd": "4324024533347",
     "tikTvd": "23220001386511",
-    "tikName": "Почепская"
+    "tikName": "Почепская",
+    "uikName": "УИК №774",
+    "regionCode": "32",
+    "regionTvd": "100100225883495",
+    "regionName": "Брянская область",
+    "oikTvd": "100100225883496",
+    "oikName": "Брянская область – Брянский",
+    "district": {
+      "districtNumber": 77,
+      "oikTvd": "100100225883496"
+    }
   },
   {
     "uikNumber": 775,
     "uikTvd": "4324024533348",
     "tikTvd": "23220001386511",
-    "tikName": "Почепская"
+    "tikName": "Почепская",
+    "uikName": "УИК №775",
+    "regionCode": "32",
+    "regionTvd": "100100225883495",
+    "regionName": "Брянская область",
+    "oikTvd": "100100225883496",
+    "oikName": "Брянская область – Брянский",
+    "district": {
+      "districtNumber": 77,
+      "oikTvd": "100100225883496"
+    }
   },
   {
     "uikNumber": 776,
     "uikTvd": "4324024533349",
     "tikTvd": "23220001386511",
-    "tikName": "Почепская"
+    "tikName": "Почепская",
+    "uikName": "УИК №776",
+    "regionCode": "32",
+    "regionTvd": "100100225883495",
+    "regionName": "Брянская область",
+    "oikTvd": "100100225883496",
+    "oikName": "Брянская область – Брянский",
+    "district": {
+      "districtNumber": 77,
+      "oikTvd": "100100225883496"
+    }
   },
   {
     "uikNumber": 777,
     "uikTvd": "4324024533350",
     "tikTvd": "23220001386511",
-    "tikName": "Почепская"
+    "tikName": "Почепская",
+    "uikName": "УИК №777",
+    "regionCode": "32",
+    "regionTvd": "100100225883495",
+    "regionName": "Брянская область",
+    "oikTvd": "100100225883496",
+    "oikName": "Брянская область – Брянский",
+    "district": {
+      "districtNumber": 77,
+      "oikTvd": "100100225883496"
+    }
   },
   {
     "uikNumber": 778,
     "uikTvd": "4324024533351",
     "tikTvd": "23220001386511",
-    "tikName": "Почепская"
+    "tikName": "Почепская",
+    "uikName": "УИК №778",
+    "regionCode": "32",
+    "regionTvd": "100100225883495",
+    "regionName": "Брянская область",
+    "oikTvd": "100100225883496",
+    "oikName": "Брянская область – Брянский",
+    "district": {
+      "districtNumber": 77,
+      "oikTvd": "100100225883496"
+    }
   },
   {
     "uikNumber": 779,
     "uikTvd": "4324024533352",
     "tikTvd": "23220001386511",
-    "tikName": "Почепская"
+    "tikName": "Почепская",
+    "uikName": "УИК №779",
+    "regionCode": "32",
+    "regionTvd": "100100225883495",
+    "regionName": "Брянская область",
+    "oikTvd": "100100225883496",
+    "oikName": "Брянская область – Брянский",
+    "district": {
+      "districtNumber": 77,
+      "oikTvd": "100100225883496"
+    }
   },
   {
     "uikNumber": 780,
     "uikTvd": "4324024533353",
     "tikTvd": "23220001386511",
-    "tikName": "Почепская"
+    "tikName": "Почепская",
+    "uikName": "УИК №780",
+    "regionCode": "32",
+    "regionTvd": "100100225883495",
+    "regionName": "Брянская область",
+    "oikTvd": "100100225883496",
+    "oikName": "Брянская область – Брянский",
+    "district": {
+      "districtNumber": 77,
+      "oikTvd": "100100225883496"
+    }
   },
   {
     "uikNumber": 781,
     "uikTvd": "4324024533354",
     "tikTvd": "23220001386511",
-    "tikName": "Почепская"
+    "tikName": "Почепская",
+    "uikName": "УИК №781",
+    "regionCode": "32",
+    "regionTvd": "100100225883495",
+    "regionName": "Брянская область",
+    "oikTvd": "100100225883496",
+    "oikName": "Брянская область – Брянский",
+    "district": {
+      "districtNumber": 77,
+      "oikTvd": "100100225883496"
+    }
   },
   {
     "uikNumber": 782,
     "uikTvd": "4324024533355",
     "tikTvd": "23220001386511",
-    "tikName": "Почепская"
+    "tikName": "Почепская",
+    "uikName": "УИК №782",
+    "regionCode": "32",
+    "regionTvd": "100100225883495",
+    "regionName": "Брянская область",
+    "oikTvd": "100100225883496",
+    "oikName": "Брянская область – Брянский",
+    "district": {
+      "districtNumber": 77,
+      "oikTvd": "100100225883496"
+    }
   },
   {
     "uikNumber": 783,
     "uikTvd": "4324024533356",
     "tikTvd": "23220001386511",
-    "tikName": "Почепская"
+    "tikName": "Почепская",
+    "uikName": "УИК №783",
+    "regionCode": "32",
+    "regionTvd": "100100225883495",
+    "regionName": "Брянская область",
+    "oikTvd": "100100225883496",
+    "oikName": "Брянская область – Брянский",
+    "district": {
+      "districtNumber": 77,
+      "oikTvd": "100100225883496"
+    }
   },
   {
     "uikNumber": 784,
     "uikTvd": "4324024533357",
     "tikTvd": "23220001386511",
-    "tikName": "Почепская"
+    "tikName": "Почепская",
+    "uikName": "УИК №784",
+    "regionCode": "32",
+    "regionTvd": "100100225883495",
+    "regionName": "Брянская область",
+    "oikTvd": "100100225883496",
+    "oikName": "Брянская область – Брянский",
+    "district": {
+      "districtNumber": 77,
+      "oikTvd": "100100225883496"
+    }
   },
   {
     "uikNumber": 785,
     "uikTvd": "4324024533358",
     "tikTvd": "23220001386511",
-    "tikName": "Почепская"
+    "tikName": "Почепская",
+    "uikName": "УИК №785",
+    "regionCode": "32",
+    "regionTvd": "100100225883495",
+    "regionName": "Брянская область",
+    "oikTvd": "100100225883496",
+    "oikName": "Брянская область – Брянский",
+    "district": {
+      "districtNumber": 77,
+      "oikTvd": "100100225883496"
+    }
   },
   {
     "uikNumber": 786,
     "uikTvd": "4324024533359",
     "tikTvd": "23220001386511",
-    "tikName": "Почепская"
+    "tikName": "Почепская",
+    "uikName": "УИК №786",
+    "regionCode": "32",
+    "regionTvd": "100100225883495",
+    "regionName": "Брянская область",
+    "oikTvd": "100100225883496",
+    "oikName": "Брянская область – Брянский",
+    "district": {
+      "districtNumber": 77,
+      "oikTvd": "100100225883496"
+    }
   },
   {
     "uikNumber": 787,
     "uikTvd": "4324024533360",
     "tikTvd": "23220001386511",
-    "tikName": "Почепская"
+    "tikName": "Почепская",
+    "uikName": "УИК №787",
+    "regionCode": "32",
+    "regionTvd": "100100225883495",
+    "regionName": "Брянская область",
+    "oikTvd": "100100225883496",
+    "oikName": "Брянская область – Брянский",
+    "district": {
+      "districtNumber": 77,
+      "oikTvd": "100100225883496"
+    }
   },
   {
     "uikNumber": 788,
     "uikTvd": "4324024533361",
     "tikTvd": "23220001386511",
-    "tikName": "Почепская"
+    "tikName": "Почепская",
+    "uikName": "УИК №788",
+    "regionCode": "32",
+    "regionTvd": "100100225883495",
+    "regionName": "Брянская область",
+    "oikTvd": "100100225883496",
+    "oikName": "Брянская область – Брянский",
+    "district": {
+      "districtNumber": 77,
+      "oikTvd": "100100225883496"
+    }
   },
   {
     "uikNumber": 789,
     "uikTvd": "4324024533362",
     "tikTvd": "23220001386511",
-    "tikName": "Почепская"
+    "tikName": "Почепская",
+    "uikName": "УИК №789",
+    "regionCode": "32",
+    "regionTvd": "100100225883495",
+    "regionName": "Брянская область",
+    "oikTvd": "100100225883496",
+    "oikName": "Брянская область – Брянский",
+    "district": {
+      "districtNumber": 77,
+      "oikTvd": "100100225883496"
+    }
   },
   {
     "uikNumber": 790,
     "uikTvd": "4324024533363",
     "tikTvd": "23220001386511",
-    "tikName": "Почепская"
+    "tikName": "Почепская",
+    "uikName": "УИК №790",
+    "regionCode": "32",
+    "regionTvd": "100100225883495",
+    "regionName": "Брянская область",
+    "oikTvd": "100100225883496",
+    "oikName": "Брянская область – Брянский",
+    "district": {
+      "districtNumber": 77,
+      "oikTvd": "100100225883496"
+    }
   },
   {
     "uikNumber": 791,
     "uikTvd": "4324024533364",
     "tikTvd": "23220001386511",
-    "tikName": "Почепская"
+    "tikName": "Почепская",
+    "uikName": "УИК №791",
+    "regionCode": "32",
+    "regionTvd": "100100225883495",
+    "regionName": "Брянская область",
+    "oikTvd": "100100225883496",
+    "oikName": "Брянская область – Брянский",
+    "district": {
+      "districtNumber": 77,
+      "oikTvd": "100100225883496"
+    }
   },
   {
     "uikNumber": 792,
     "uikTvd": "4324024533365",
     "tikTvd": "23220001386511",
-    "tikName": "Почепская"
+    "tikName": "Почепская",
+    "uikName": "УИК №792",
+    "regionCode": "32",
+    "regionTvd": "100100225883495",
+    "regionName": "Брянская область",
+    "oikTvd": "100100225883496",
+    "oikName": "Брянская область – Брянский",
+    "district": {
+      "districtNumber": 77,
+      "oikTvd": "100100225883496"
+    }
   },
   {
     "uikNumber": 793,
     "uikTvd": "4324024533366",
     "tikTvd": "23220001386511",
-    "tikName": "Почепская"
+    "tikName": "Почепская",
+    "uikName": "УИК №793",
+    "regionCode": "32",
+    "regionTvd": "100100225883495",
+    "regionName": "Брянская область",
+    "oikTvd": "100100225883496",
+    "oikName": "Брянская область – Брянский",
+    "district": {
+      "districtNumber": 77,
+      "oikTvd": "100100225883496"
+    }
   },
   {
     "uikNumber": 794,
     "uikTvd": "4324024533367",
     "tikTvd": "23220001386511",
-    "tikName": "Почепская"
+    "tikName": "Почепская",
+    "uikName": "УИК №794",
+    "regionCode": "32",
+    "regionTvd": "100100225883495",
+    "regionName": "Брянская область",
+    "oikTvd": "100100225883496",
+    "oikName": "Брянская область – Брянский",
+    "district": {
+      "districtNumber": 77,
+      "oikTvd": "100100225883496"
+    }
   },
   {
     "uikNumber": 795,
     "uikTvd": "4324024533368",
     "tikTvd": "23220001386511",
-    "tikName": "Почепская"
+    "tikName": "Почепская",
+    "uikName": "УИК №795",
+    "regionCode": "32",
+    "regionTvd": "100100225883495",
+    "regionName": "Брянская область",
+    "oikTvd": "100100225883496",
+    "oikName": "Брянская область – Брянский",
+    "district": {
+      "districtNumber": 77,
+      "oikTvd": "100100225883496"
+    }
   },
   {
     "uikNumber": 796,
     "uikTvd": "4324024533369",
     "tikTvd": "23220001386511",
-    "tikName": "Почепская"
+    "tikName": "Почепская",
+    "uikName": "УИК №796",
+    "regionCode": "32",
+    "regionTvd": "100100225883495",
+    "regionName": "Брянская область",
+    "oikTvd": "100100225883496",
+    "oikName": "Брянская область – Брянский",
+    "district": {
+      "districtNumber": 77,
+      "oikTvd": "100100225883496"
+    }
   },
   {
     "uikNumber": 797,
     "uikTvd": "4324024533370",
     "tikTvd": "23220001386511",
-    "tikName": "Почепская"
+    "tikName": "Почепская",
+    "uikName": "УИК №797",
+    "regionCode": "32",
+    "regionTvd": "100100225883495",
+    "regionName": "Брянская область",
+    "oikTvd": "100100225883496",
+    "oikName": "Брянская область – Брянский",
+    "district": {
+      "districtNumber": 77,
+      "oikTvd": "100100225883496"
+    }
   },
   {
     "uikNumber": 798,
     "uikTvd": "4324024533371",
     "tikTvd": "23220001386511",
-    "tikName": "Почепская"
+    "tikName": "Почепская",
+    "uikName": "УИК №798",
+    "regionCode": "32",
+    "regionTvd": "100100225883495",
+    "regionName": "Брянская область",
+    "oikTvd": "100100225883496",
+    "oikName": "Брянская область – Брянский",
+    "district": {
+      "districtNumber": 77,
+      "oikTvd": "100100225883496"
+    }
   },
   {
     "uikNumber": 799,
     "uikTvd": "4324024533372",
     "tikTvd": "23220001386511",
-    "tikName": "Почепская"
+    "tikName": "Почепская",
+    "uikName": "УИК №799",
+    "regionCode": "32",
+    "regionTvd": "100100225883495",
+    "regionName": "Брянская область",
+    "oikTvd": "100100225883496",
+    "oikName": "Брянская область – Брянский",
+    "district": {
+      "districtNumber": 77,
+      "oikTvd": "100100225883496"
+    }
   },
   {
     "uikNumber": 800,
     "uikTvd": "4324024533373",
     "tikTvd": "23220001386511",
-    "tikName": "Почепская"
+    "tikName": "Почепская",
+    "uikName": "УИК №800",
+    "regionCode": "32",
+    "regionTvd": "100100225883495",
+    "regionName": "Брянская область",
+    "oikTvd": "100100225883496",
+    "oikName": "Брянская область – Брянский",
+    "district": {
+      "districtNumber": 77,
+      "oikTvd": "100100225883496"
+    }
   },
   {
     "uikNumber": 801,
     "uikTvd": "4324024533374",
     "tikTvd": "23220001386511",
-    "tikName": "Почепская"
+    "tikName": "Почепская",
+    "uikName": "УИК №801",
+    "regionCode": "32",
+    "regionTvd": "100100225883495",
+    "regionName": "Брянская область",
+    "oikTvd": "100100225883496",
+    "oikName": "Брянская область – Брянский",
+    "district": {
+      "districtNumber": 77,
+      "oikTvd": "100100225883496"
+    }
   },
   {
     "uikNumber": 802,
     "uikTvd": "4324024533375",
     "tikTvd": "23220001386511",
-    "tikName": "Почепская"
+    "tikName": "Почепская",
+    "uikName": "УИК №802",
+    "regionCode": "32",
+    "regionTvd": "100100225883495",
+    "regionName": "Брянская область",
+    "oikTvd": "100100225883496",
+    "oikName": "Брянская область – Брянский",
+    "district": {
+      "districtNumber": 77,
+      "oikTvd": "100100225883496"
+    }
   },
   {
     "uikNumber": 803,
     "uikTvd": "4324024533376",
     "tikTvd": "23220001386511",
-    "tikName": "Почепская"
+    "tikName": "Почепская",
+    "uikName": "УИК №803",
+    "regionCode": "32",
+    "regionTvd": "100100225883495",
+    "regionName": "Брянская область",
+    "oikTvd": "100100225883496",
+    "oikName": "Брянская область – Брянский",
+    "district": {
+      "districtNumber": 77,
+      "oikTvd": "100100225883496"
+    }
   },
   {
     "uikNumber": 804,
     "uikTvd": "4324024533377",
     "tikTvd": "23220001386511",
-    "tikName": "Почепская"
+    "tikName": "Почепская",
+    "uikName": "УИК №804",
+    "regionCode": "32",
+    "regionTvd": "100100225883495",
+    "regionName": "Брянская область",
+    "oikTvd": "100100225883496",
+    "oikName": "Брянская область – Брянский",
+    "district": {
+      "districtNumber": 77,
+      "oikTvd": "100100225883496"
+    }
   },
   {
     "uikNumber": 805,
     "uikTvd": "4324024533378",
     "tikTvd": "23220001386511",
-    "tikName": "Почепская"
+    "tikName": "Почепская",
+    "uikName": "УИК №805",
+    "regionCode": "32",
+    "regionTvd": "100100225883495",
+    "regionName": "Брянская область",
+    "oikTvd": "100100225883496",
+    "oikName": "Брянская область – Брянский",
+    "district": {
+      "districtNumber": 77,
+      "oikTvd": "100100225883496"
+    }
   },
   {
     "uikNumber": 806,
     "uikTvd": "4324024533379",
     "tikTvd": "23220001386511",
-    "tikName": "Почепская"
+    "tikName": "Почепская",
+    "uikName": "УИК №806",
+    "regionCode": "32",
+    "regionTvd": "100100225883495",
+    "regionName": "Брянская область",
+    "oikTvd": "100100225883496",
+    "oikName": "Брянская область – Брянский",
+    "district": {
+      "districtNumber": 77,
+      "oikTvd": "100100225883496"
+    }
   },
   {
     "uikNumber": 807,
     "uikTvd": "4324024533380",
     "tikTvd": "23220001386511",
-    "tikName": "Почепская"
+    "tikName": "Почепская",
+    "uikName": "УИК №807",
+    "regionCode": "32",
+    "regionTvd": "100100225883495",
+    "regionName": "Брянская область",
+    "oikTvd": "100100225883496",
+    "oikName": "Брянская область – Брянский",
+    "district": {
+      "districtNumber": 77,
+      "oikTvd": "100100225883496"
+    }
   },
   {
     "uikNumber": 808,
     "uikTvd": "4324024533381",
     "tikTvd": "23220001386511",
-    "tikName": "Почепская"
+    "tikName": "Почепская",
+    "uikName": "УИК №808",
+    "regionCode": "32",
+    "regionTvd": "100100225883495",
+    "regionName": "Брянская область",
+    "oikTvd": "100100225883496",
+    "oikName": "Брянская область – Брянский",
+    "district": {
+      "districtNumber": 77,
+      "oikTvd": "100100225883496"
+    }
   },
   {
     "uikNumber": 809,
     "uikTvd": "4324024533382",
     "tikTvd": "23220001386511",
-    "tikName": "Почепская"
+    "tikName": "Почепская",
+    "uikName": "УИК №809",
+    "regionCode": "32",
+    "regionTvd": "100100225883495",
+    "regionName": "Брянская область",
+    "oikTvd": "100100225883496",
+    "oikName": "Брянская область – Брянский",
+    "district": {
+      "districtNumber": 77,
+      "oikTvd": "100100225883496"
+    }
   },
   {
     "uikNumber": 810,
     "uikTvd": "4324024533383",
     "tikTvd": "23220001386511",
-    "tikName": "Почепская"
+    "tikName": "Почепская",
+    "uikName": "УИК №810",
+    "regionCode": "32",
+    "regionTvd": "100100225883495",
+    "regionName": "Брянская область",
+    "oikTvd": "100100225883496",
+    "oikName": "Брянская область – Брянский",
+    "district": {
+      "districtNumber": 77,
+      "oikTvd": "100100225883496"
+    }
   },
   {
     "uikNumber": 811,
     "uikTvd": "4324024533384",
     "tikTvd": "23220001386511",
-    "tikName": "Почепская"
+    "tikName": "Почепская",
+    "uikName": "УИК №811",
+    "regionCode": "32",
+    "regionTvd": "100100225883495",
+    "regionName": "Брянская область",
+    "oikTvd": "100100225883496",
+    "oikName": "Брянская область – Брянский",
+    "district": {
+      "districtNumber": 77,
+      "oikTvd": "100100225883496"
+    }
   },
   {
     "uikNumber": 812,
     "uikTvd": "4324024533385",
     "tikTvd": "23220001386511",
-    "tikName": "Почепская"
+    "tikName": "Почепская",
+    "uikName": "УИК №812",
+    "regionCode": "32",
+    "regionTvd": "100100225883495",
+    "regionName": "Брянская область",
+    "oikTvd": "100100225883496",
+    "oikName": "Брянская область – Брянский",
+    "district": {
+      "districtNumber": 77,
+      "oikTvd": "100100225883496"
+    }
   },
   {
     "uikNumber": 813,
     "uikTvd": "4324024533386",
     "tikTvd": "23220001386511",
-    "tikName": "Почепская"
+    "tikName": "Почепская",
+    "uikName": "УИК №813",
+    "regionCode": "32",
+    "regionTvd": "100100225883495",
+    "regionName": "Брянская область",
+    "oikTvd": "100100225883496",
+    "oikName": "Брянская область – Брянский",
+    "district": {
+      "districtNumber": 77,
+      "oikTvd": "100100225883496"
+    }
   },
   {
     "uikNumber": 814,
     "uikTvd": "4324024533387",
     "tikTvd": "23220001386511",
-    "tikName": "Почепская"
+    "tikName": "Почепская",
+    "uikName": "УИК №814",
+    "regionCode": "32",
+    "regionTvd": "100100225883495",
+    "regionName": "Брянская область",
+    "oikTvd": "100100225883496",
+    "oikName": "Брянская область – Брянский",
+    "district": {
+      "districtNumber": 77,
+      "oikTvd": "100100225883496"
+    }
   },
   {
     "uikNumber": 815,
     "uikTvd": "4324024533388",
     "tikTvd": "23220001386511",
-    "tikName": "Почепская"
+    "tikName": "Почепская",
+    "uikName": "УИК №815",
+    "regionCode": "32",
+    "regionTvd": "100100225883495",
+    "regionName": "Брянская область",
+    "oikTvd": "100100225883496",
+    "oikName": "Брянская область – Брянский",
+    "district": {
+      "districtNumber": 77,
+      "oikTvd": "100100225883496"
+    }
   },
   {
     "uikNumber": 816,
     "uikTvd": "4324024533389",
     "tikTvd": "23220001386511",
-    "tikName": "Почепская"
+    "tikName": "Почепская",
+    "uikName": "УИК №816",
+    "regionCode": "32",
+    "regionTvd": "100100225883495",
+    "regionName": "Брянская область",
+    "oikTvd": "100100225883496",
+    "oikName": "Брянская область – Брянский",
+    "district": {
+      "districtNumber": 77,
+      "oikTvd": "100100225883496"
+    }
   },
   {
     "uikNumber": 817,
     "uikTvd": "4324024533390",
     "tikTvd": "23220001386511",
-    "tikName": "Почепская"
+    "tikName": "Почепская",
+    "uikName": "УИК №817",
+    "regionCode": "32",
+    "regionTvd": "100100225883495",
+    "regionName": "Брянская область",
+    "oikTvd": "100100225883496",
+    "oikName": "Брянская область – Брянский",
+    "district": {
+      "districtNumber": 77,
+      "oikTvd": "100100225883496"
+    }
   },
   {
     "uikNumber": 818,
     "uikTvd": "4324024533391",
     "tikTvd": "23220001386511",
-    "tikName": "Почепская"
+    "tikName": "Почепская",
+    "uikName": "УИК №818",
+    "regionCode": "32",
+    "regionTvd": "100100225883495",
+    "regionName": "Брянская область",
+    "oikTvd": "100100225883496",
+    "oikName": "Брянская область – Брянский",
+    "district": {
+      "districtNumber": 77,
+      "oikTvd": "100100225883496"
+    }
   },
   {
     "uikNumber": 819,
     "uikTvd": "4324025273082",
     "tikTvd": "23220001386530",
-    "tikName": "Рогнединская"
+    "tikName": "Рогнединская",
+    "uikName": "УИК №819",
+    "regionCode": "32",
+    "regionTvd": "100100225883495",
+    "regionName": "Брянская область",
+    "oikTvd": "100100225883497",
+    "oikName": "Брянская область – Унечский",
+    "district": {
+      "districtNumber": 78,
+      "oikTvd": "100100225883497"
+    }
   },
   {
     "uikNumber": 820,
     "uikTvd": "4324025273083",
     "tikTvd": "23220001386530",
-    "tikName": "Рогнединская"
+    "tikName": "Рогнединская",
+    "uikName": "УИК №820",
+    "regionCode": "32",
+    "regionTvd": "100100225883495",
+    "regionName": "Брянская область",
+    "oikTvd": "100100225883497",
+    "oikName": "Брянская область – Унечский",
+    "district": {
+      "districtNumber": 78,
+      "oikTvd": "100100225883497"
+    }
   },
   {
     "uikNumber": 821,
     "uikTvd": "4324025273084",
     "tikTvd": "23220001386530",
-    "tikName": "Рогнединская"
+    "tikName": "Рогнединская",
+    "uikName": "УИК №821",
+    "regionCode": "32",
+    "regionTvd": "100100225883495",
+    "regionName": "Брянская область",
+    "oikTvd": "100100225883497",
+    "oikName": "Брянская область – Унечский",
+    "district": {
+      "districtNumber": 78,
+      "oikTvd": "100100225883497"
+    }
   },
   {
     "uikNumber": 822,
     "uikTvd": "4324025273085",
     "tikTvd": "23220001386530",
-    "tikName": "Рогнединская"
+    "tikName": "Рогнединская",
+    "uikName": "УИК №822",
+    "regionCode": "32",
+    "regionTvd": "100100225883495",
+    "regionName": "Брянская область",
+    "oikTvd": "100100225883497",
+    "oikName": "Брянская область – Унечский",
+    "district": {
+      "districtNumber": 78,
+      "oikTvd": "100100225883497"
+    }
   },
   {
     "uikNumber": 823,
     "uikTvd": "4324025273086",
     "tikTvd": "23220001386530",
-    "tikName": "Рогнединская"
+    "tikName": "Рогнединская",
+    "uikName": "УИК №823",
+    "regionCode": "32",
+    "regionTvd": "100100225883495",
+    "regionName": "Брянская область",
+    "oikTvd": "100100225883497",
+    "oikName": "Брянская область – Унечский",
+    "district": {
+      "districtNumber": 78,
+      "oikTvd": "100100225883497"
+    }
   },
   {
     "uikNumber": 824,
     "uikTvd": "4324025273087",
     "tikTvd": "23220001386530",
-    "tikName": "Рогнединская"
+    "tikName": "Рогнединская",
+    "uikName": "УИК №824",
+    "regionCode": "32",
+    "regionTvd": "100100225883495",
+    "regionName": "Брянская область",
+    "oikTvd": "100100225883497",
+    "oikName": "Брянская область – Унечский",
+    "district": {
+      "districtNumber": 78,
+      "oikTvd": "100100225883497"
+    }
   },
   {
     "uikNumber": 825,
     "uikTvd": "4324025273088",
     "tikTvd": "23220001386530",
-    "tikName": "Рогнединская"
+    "tikName": "Рогнединская",
+    "uikName": "УИК №825",
+    "regionCode": "32",
+    "regionTvd": "100100225883495",
+    "regionName": "Брянская область",
+    "oikTvd": "100100225883497",
+    "oikName": "Брянская область – Унечский",
+    "district": {
+      "districtNumber": 78,
+      "oikTvd": "100100225883497"
+    }
   },
   {
     "uikNumber": 826,
     "uikTvd": "4324025273089",
     "tikTvd": "23220001386530",
-    "tikName": "Рогнединская"
+    "tikName": "Рогнединская",
+    "uikName": "УИК №826",
+    "regionCode": "32",
+    "regionTvd": "100100225883495",
+    "regionName": "Брянская область",
+    "oikTvd": "100100225883497",
+    "oikName": "Брянская область – Унечский",
+    "district": {
+      "districtNumber": 78,
+      "oikTvd": "100100225883497"
+    }
   },
   {
     "uikNumber": 827,
     "uikTvd": "4324025273090",
     "tikTvd": "23220001386530",
-    "tikName": "Рогнединская"
+    "tikName": "Рогнединская",
+    "uikName": "УИК №827",
+    "regionCode": "32",
+    "regionTvd": "100100225883495",
+    "regionName": "Брянская область",
+    "oikTvd": "100100225883497",
+    "oikName": "Брянская область – Унечский",
+    "district": {
+      "districtNumber": 78,
+      "oikTvd": "100100225883497"
+    }
   },
   {
     "uikNumber": 828,
     "uikTvd": "4324025273091",
     "tikTvd": "23220001386530",
-    "tikName": "Рогнединская"
+    "tikName": "Рогнединская",
+    "uikName": "УИК №828",
+    "regionCode": "32",
+    "regionTvd": "100100225883495",
+    "regionName": "Брянская область",
+    "oikTvd": "100100225883497",
+    "oikName": "Брянская область – Унечский",
+    "district": {
+      "districtNumber": 78,
+      "oikTvd": "100100225883497"
+    }
   },
   {
     "uikNumber": 829,
     "uikTvd": "4324025273092",
     "tikTvd": "23220001386530",
-    "tikName": "Рогнединская"
+    "tikName": "Рогнединская",
+    "uikName": "УИК №829",
+    "regionCode": "32",
+    "regionTvd": "100100225883495",
+    "regionName": "Брянская область",
+    "oikTvd": "100100225883497",
+    "oikName": "Брянская область – Унечский",
+    "district": {
+      "districtNumber": 78,
+      "oikTvd": "100100225883497"
+    }
   },
   {
     "uikNumber": 830,
     "uikTvd": "4324025273093",
     "tikTvd": "23220001386530",
-    "tikName": "Рогнединская"
+    "tikName": "Рогнединская",
+    "uikName": "УИК №830",
+    "regionCode": "32",
+    "regionTvd": "100100225883495",
+    "regionName": "Брянская область",
+    "oikTvd": "100100225883497",
+    "oikName": "Брянская область – Унечский",
+    "district": {
+      "districtNumber": 78,
+      "oikTvd": "100100225883497"
+    }
   },
   {
     "uikNumber": 831,
     "uikTvd": "4324025273094",
     "tikTvd": "23220001386530",
-    "tikName": "Рогнединская"
+    "tikName": "Рогнединская",
+    "uikName": "УИК №831",
+    "regionCode": "32",
+    "regionTvd": "100100225883495",
+    "regionName": "Брянская область",
+    "oikTvd": "100100225883497",
+    "oikName": "Брянская область – Унечский",
+    "district": {
+      "districtNumber": 78,
+      "oikTvd": "100100225883497"
+    }
   },
   {
     "uikNumber": 832,
     "uikTvd": "4324026360760",
     "tikTvd": "23220001386512",
-    "tikName": "Севская"
+    "tikName": "Севская",
+    "uikName": "УИК №832",
+    "regionCode": "32",
+    "regionTvd": "100100225883495",
+    "regionName": "Брянская область",
+    "oikTvd": "100100225883496",
+    "oikName": "Брянская область – Брянский",
+    "district": {
+      "districtNumber": 77,
+      "oikTvd": "100100225883496"
+    }
   },
   {
     "uikNumber": 833,
     "uikTvd": "4324026360761",
     "tikTvd": "23220001386512",
-    "tikName": "Севская"
+    "tikName": "Севская",
+    "uikName": "УИК №833",
+    "regionCode": "32",
+    "regionTvd": "100100225883495",
+    "regionName": "Брянская область",
+    "oikTvd": "100100225883496",
+    "oikName": "Брянская область – Брянский",
+    "district": {
+      "districtNumber": 77,
+      "oikTvd": "100100225883496"
+    }
   },
   {
     "uikNumber": 834,
     "uikTvd": "4324026360762",
     "tikTvd": "23220001386512",
-    "tikName": "Севская"
+    "tikName": "Севская",
+    "uikName": "УИК №834",
+    "regionCode": "32",
+    "regionTvd": "100100225883495",
+    "regionName": "Брянская область",
+    "oikTvd": "100100225883496",
+    "oikName": "Брянская область – Брянский",
+    "district": {
+      "districtNumber": 77,
+      "oikTvd": "100100225883496"
+    }
   },
   {
     "uikNumber": 835,
     "uikTvd": "4324026360763",
     "tikTvd": "23220001386512",
-    "tikName": "Севская"
+    "tikName": "Севская",
+    "uikName": "УИК №835",
+    "regionCode": "32",
+    "regionTvd": "100100225883495",
+    "regionName": "Брянская область",
+    "oikTvd": "100100225883496",
+    "oikName": "Брянская область – Брянский",
+    "district": {
+      "districtNumber": 77,
+      "oikTvd": "100100225883496"
+    }
   },
   {
     "uikNumber": 836,
     "uikTvd": "4324026360764",
     "tikTvd": "23220001386512",
-    "tikName": "Севская"
+    "tikName": "Севская",
+    "uikName": "УИК №836",
+    "regionCode": "32",
+    "regionTvd": "100100225883495",
+    "regionName": "Брянская область",
+    "oikTvd": "100100225883496",
+    "oikName": "Брянская область – Брянский",
+    "district": {
+      "districtNumber": 77,
+      "oikTvd": "100100225883496"
+    }
   },
   {
     "uikNumber": 837,
     "uikTvd": "4324026360765",
     "tikTvd": "23220001386512",
-    "tikName": "Севская"
+    "tikName": "Севская",
+    "uikName": "УИК №837",
+    "regionCode": "32",
+    "regionTvd": "100100225883495",
+    "regionName": "Брянская область",
+    "oikTvd": "100100225883496",
+    "oikName": "Брянская область – Брянский",
+    "district": {
+      "districtNumber": 77,
+      "oikTvd": "100100225883496"
+    }
   },
   {
     "uikNumber": 838,
     "uikTvd": "4324026360766",
     "tikTvd": "23220001386512",
-    "tikName": "Севская"
+    "tikName": "Севская",
+    "uikName": "УИК №838",
+    "regionCode": "32",
+    "regionTvd": "100100225883495",
+    "regionName": "Брянская область",
+    "oikTvd": "100100225883496",
+    "oikName": "Брянская область – Брянский",
+    "district": {
+      "districtNumber": 77,
+      "oikTvd": "100100225883496"
+    }
   },
   {
     "uikNumber": 839,
     "uikTvd": "4324026360767",
     "tikTvd": "23220001386512",
-    "tikName": "Севская"
+    "tikName": "Севская",
+    "uikName": "УИК №839",
+    "regionCode": "32",
+    "regionTvd": "100100225883495",
+    "regionName": "Брянская область",
+    "oikTvd": "100100225883496",
+    "oikName": "Брянская область – Брянский",
+    "district": {
+      "districtNumber": 77,
+      "oikTvd": "100100225883496"
+    }
   },
   {
     "uikNumber": 840,
     "uikTvd": "4324026360768",
     "tikTvd": "23220001386512",
-    "tikName": "Севская"
+    "tikName": "Севская",
+    "uikName": "УИК №840",
+    "regionCode": "32",
+    "regionTvd": "100100225883495",
+    "regionName": "Брянская область",
+    "oikTvd": "100100225883496",
+    "oikName": "Брянская область – Брянский",
+    "district": {
+      "districtNumber": 77,
+      "oikTvd": "100100225883496"
+    }
   },
   {
     "uikNumber": 841,
     "uikTvd": "4324026360769",
     "tikTvd": "23220001386512",
-    "tikName": "Севская"
+    "tikName": "Севская",
+    "uikName": "УИК №841",
+    "regionCode": "32",
+    "regionTvd": "100100225883495",
+    "regionName": "Брянская область",
+    "oikTvd": "100100225883496",
+    "oikName": "Брянская область – Брянский",
+    "district": {
+      "districtNumber": 77,
+      "oikTvd": "100100225883496"
+    }
   },
   {
     "uikNumber": 842,
     "uikTvd": "4324026360770",
     "tikTvd": "23220001386512",
-    "tikName": "Севская"
+    "tikName": "Севская",
+    "uikName": "УИК №842",
+    "regionCode": "32",
+    "regionTvd": "100100225883495",
+    "regionName": "Брянская область",
+    "oikTvd": "100100225883496",
+    "oikName": "Брянская область – Брянский",
+    "district": {
+      "districtNumber": 77,
+      "oikTvd": "100100225883496"
+    }
   },
   {
     "uikNumber": 843,
     "uikTvd": "4324026360771",
     "tikTvd": "23220001386512",
-    "tikName": "Севская"
+    "tikName": "Севская",
+    "uikName": "УИК №843",
+    "regionCode": "32",
+    "regionTvd": "100100225883495",
+    "regionName": "Брянская область",
+    "oikTvd": "100100225883496",
+    "oikName": "Брянская область – Брянский",
+    "district": {
+      "districtNumber": 77,
+      "oikTvd": "100100225883496"
+    }
   },
   {
     "uikNumber": 844,
     "uikTvd": "4324026360772",
     "tikTvd": "23220001386512",
-    "tikName": "Севская"
+    "tikName": "Севская",
+    "uikName": "УИК №844",
+    "regionCode": "32",
+    "regionTvd": "100100225883495",
+    "regionName": "Брянская область",
+    "oikTvd": "100100225883496",
+    "oikName": "Брянская область – Брянский",
+    "district": {
+      "districtNumber": 77,
+      "oikTvd": "100100225883496"
+    }
   },
   {
     "uikNumber": 845,
     "uikTvd": "4324026360773",
     "tikTvd": "23220001386512",
-    "tikName": "Севская"
+    "tikName": "Севская",
+    "uikName": "УИК №845",
+    "regionCode": "32",
+    "regionTvd": "100100225883495",
+    "regionName": "Брянская область",
+    "oikTvd": "100100225883496",
+    "oikName": "Брянская область – Брянский",
+    "district": {
+      "districtNumber": 77,
+      "oikTvd": "100100225883496"
+    }
   },
   {
     "uikNumber": 846,
     "uikTvd": "4324026360774",
     "tikTvd": "23220001386512",
-    "tikName": "Севская"
+    "tikName": "Севская",
+    "uikName": "УИК №846",
+    "regionCode": "32",
+    "regionTvd": "100100225883495",
+    "regionName": "Брянская область",
+    "oikTvd": "100100225883496",
+    "oikName": "Брянская область – Брянский",
+    "district": {
+      "districtNumber": 77,
+      "oikTvd": "100100225883496"
+    }
   },
   {
     "uikNumber": 847,
     "uikTvd": "4324026360775",
     "tikTvd": "23220001386512",
-    "tikName": "Севская"
+    "tikName": "Севская",
+    "uikName": "УИК №847",
+    "regionCode": "32",
+    "regionTvd": "100100225883495",
+    "regionName": "Брянская область",
+    "oikTvd": "100100225883496",
+    "oikName": "Брянская область – Брянский",
+    "district": {
+      "districtNumber": 77,
+      "oikTvd": "100100225883496"
+    }
   },
   {
     "uikNumber": 848,
     "uikTvd": "4324026360776",
     "tikTvd": "23220001386512",
-    "tikName": "Севская"
+    "tikName": "Севская",
+    "uikName": "УИК №848",
+    "regionCode": "32",
+    "regionTvd": "100100225883495",
+    "regionName": "Брянская область",
+    "oikTvd": "100100225883496",
+    "oikName": "Брянская область – Брянский",
+    "district": {
+      "districtNumber": 77,
+      "oikTvd": "100100225883496"
+    }
   },
   {
     "uikNumber": 849,
     "uikTvd": "4324026360777",
     "tikTvd": "23220001386512",
-    "tikName": "Севская"
+    "tikName": "Севская",
+    "uikName": "УИК №849",
+    "regionCode": "32",
+    "regionTvd": "100100225883495",
+    "regionName": "Брянская область",
+    "oikTvd": "100100225883496",
+    "oikName": "Брянская область – Брянский",
+    "district": {
+      "districtNumber": 77,
+      "oikTvd": "100100225883496"
+    }
   },
   {
     "uikNumber": 850,
     "uikTvd": "4324026360778",
     "tikTvd": "23220001386512",
-    "tikName": "Севская"
+    "tikName": "Севская",
+    "uikName": "УИК №850",
+    "regionCode": "32",
+    "regionTvd": "100100225883495",
+    "regionName": "Брянская область",
+    "oikTvd": "100100225883496",
+    "oikName": "Брянская область – Брянский",
+    "district": {
+      "districtNumber": 77,
+      "oikTvd": "100100225883496"
+    }
   },
   {
     "uikNumber": 851,
     "uikTvd": "4324026360779",
     "tikTvd": "23220001386512",
-    "tikName": "Севская"
+    "tikName": "Севская",
+    "uikName": "УИК №851",
+    "regionCode": "32",
+    "regionTvd": "100100225883495",
+    "regionName": "Брянская область",
+    "oikTvd": "100100225883496",
+    "oikName": "Брянская область – Брянский",
+    "district": {
+      "districtNumber": 77,
+      "oikTvd": "100100225883496"
+    }
   },
   {
     "uikNumber": 852,
     "uikTvd": "4324026360780",
     "tikTvd": "23220001386512",
-    "tikName": "Севская"
+    "tikName": "Севская",
+    "uikName": "УИК №852",
+    "regionCode": "32",
+    "regionTvd": "100100225883495",
+    "regionName": "Брянская область",
+    "oikTvd": "100100225883496",
+    "oikName": "Брянская область – Брянский",
+    "district": {
+      "districtNumber": 77,
+      "oikTvd": "100100225883496"
+    }
   },
   {
     "uikNumber": 853,
     "uikTvd": "4324026360781",
     "tikTvd": "23220001386512",
-    "tikName": "Севская"
+    "tikName": "Севская",
+    "uikName": "УИК №853",
+    "regionCode": "32",
+    "regionTvd": "100100225883495",
+    "regionName": "Брянская область",
+    "oikTvd": "100100225883496",
+    "oikName": "Брянская область – Брянский",
+    "district": {
+      "districtNumber": 77,
+      "oikTvd": "100100225883496"
+    }
   },
   {
     "uikNumber": 854,
     "uikTvd": "4324026360782",
     "tikTvd": "23220001386512",
-    "tikName": "Севская"
+    "tikName": "Севская",
+    "uikName": "УИК №854",
+    "regionCode": "32",
+    "regionTvd": "100100225883495",
+    "regionName": "Брянская область",
+    "oikTvd": "100100225883496",
+    "oikName": "Брянская область – Брянский",
+    "district": {
+      "districtNumber": 77,
+      "oikTvd": "100100225883496"
+    }
   },
   {
     "uikNumber": 855,
     "uikTvd": "4324026360783",
     "tikTvd": "23220001386512",
-    "tikName": "Севская"
+    "tikName": "Севская",
+    "uikName": "УИК №855",
+    "regionCode": "32",
+    "regionTvd": "100100225883495",
+    "regionName": "Брянская область",
+    "oikTvd": "100100225883496",
+    "oikName": "Брянская область – Брянский",
+    "district": {
+      "districtNumber": 77,
+      "oikTvd": "100100225883496"
+    }
   },
   {
     "uikNumber": 856,
     "uikTvd": "4324026360784",
     "tikTvd": "23220001386512",
-    "tikName": "Севская"
+    "tikName": "Севская",
+    "uikName": "УИК №856",
+    "regionCode": "32",
+    "regionTvd": "100100225883495",
+    "regionName": "Брянская область",
+    "oikTvd": "100100225883496",
+    "oikName": "Брянская область – Брянский",
+    "district": {
+      "districtNumber": 77,
+      "oikTvd": "100100225883496"
+    }
   },
   {
     "uikNumber": 857,
     "uikTvd": "4324026360785",
     "tikTvd": "23220001386512",
-    "tikName": "Севская"
+    "tikName": "Севская",
+    "uikName": "УИК №857",
+    "regionCode": "32",
+    "regionTvd": "100100225883495",
+    "regionName": "Брянская область",
+    "oikTvd": "100100225883496",
+    "oikName": "Брянская область – Брянский",
+    "district": {
+      "districtNumber": 77,
+      "oikTvd": "100100225883496"
+    }
   },
   {
     "uikNumber": 858,
     "uikTvd": "4324026360786",
     "tikTvd": "23220001386512",
-    "tikName": "Севская"
+    "tikName": "Севская",
+    "uikName": "УИК №858",
+    "regionCode": "32",
+    "regionTvd": "100100225883495",
+    "regionName": "Брянская область",
+    "oikTvd": "100100225883496",
+    "oikName": "Брянская область – Брянский",
+    "district": {
+      "districtNumber": 77,
+      "oikTvd": "100100225883496"
+    }
   },
   {
     "uikNumber": 859,
     "uikTvd": "4324026360787",
     "tikTvd": "23220001386512",
-    "tikName": "Севская"
+    "tikName": "Севская",
+    "uikName": "УИК №859",
+    "regionCode": "32",
+    "regionTvd": "100100225883495",
+    "regionName": "Брянская область",
+    "oikTvd": "100100225883496",
+    "oikName": "Брянская область – Брянский",
+    "district": {
+      "districtNumber": 77,
+      "oikTvd": "100100225883496"
+    }
   },
   {
     "uikNumber": 860,
     "uikTvd": "4324027176729",
     "tikTvd": "23220001386531",
-    "tikName": "Сельцовская городская"
+    "tikName": "Сельцовская городская",
+    "uikName": "УИК №860",
+    "regionCode": "32",
+    "regionTvd": "100100225883495",
+    "regionName": "Брянская область",
+    "oikTvd": "100100225883497",
+    "oikName": "Брянская область – Унечский",
+    "district": {
+      "districtNumber": 78,
+      "oikTvd": "100100225883497"
+    }
   },
   {
     "uikNumber": 861,
     "uikTvd": "4324027176730",
     "tikTvd": "23220001386531",
-    "tikName": "Сельцовская городская"
+    "tikName": "Сельцовская городская",
+    "uikName": "УИК №861",
+    "regionCode": "32",
+    "regionTvd": "100100225883495",
+    "regionName": "Брянская область",
+    "oikTvd": "100100225883497",
+    "oikName": "Брянская область – Унечский",
+    "district": {
+      "districtNumber": 78,
+      "oikTvd": "100100225883497"
+    }
   },
   {
     "uikNumber": 862,
     "uikTvd": "4324027176731",
     "tikTvd": "23220001386531",
-    "tikName": "Сельцовская городская"
+    "tikName": "Сельцовская городская",
+    "uikName": "УИК №862",
+    "regionCode": "32",
+    "regionTvd": "100100225883495",
+    "regionName": "Брянская область",
+    "oikTvd": "100100225883497",
+    "oikName": "Брянская область – Унечский",
+    "district": {
+      "districtNumber": 78,
+      "oikTvd": "100100225883497"
+    }
   },
   {
     "uikNumber": 863,
     "uikTvd": "4324027176732",
     "tikTvd": "23220001386531",
-    "tikName": "Сельцовская городская"
+    "tikName": "Сельцовская городская",
+    "uikName": "УИК №863",
+    "regionCode": "32",
+    "regionTvd": "100100225883495",
+    "regionName": "Брянская область",
+    "oikTvd": "100100225883497",
+    "oikName": "Брянская область – Унечский",
+    "district": {
+      "districtNumber": 78,
+      "oikTvd": "100100225883497"
+    }
   },
   {
     "uikNumber": 864,
     "uikTvd": "4324027176733",
     "tikTvd": "23220001386531",
-    "tikName": "Сельцовская городская"
+    "tikName": "Сельцовская городская",
+    "uikName": "УИК №864",
+    "regionCode": "32",
+    "regionTvd": "100100225883495",
+    "regionName": "Брянская область",
+    "oikTvd": "100100225883497",
+    "oikName": "Брянская область – Унечский",
+    "district": {
+      "districtNumber": 78,
+      "oikTvd": "100100225883497"
+    }
   },
   {
     "uikNumber": 865,
     "uikTvd": "4324027176734",
     "tikTvd": "23220001386531",
-    "tikName": "Сельцовская городская"
+    "tikName": "Сельцовская городская",
+    "uikName": "УИК №865",
+    "regionCode": "32",
+    "regionTvd": "100100225883495",
+    "regionName": "Брянская область",
+    "oikTvd": "100100225883497",
+    "oikName": "Брянская область – Унечский",
+    "district": {
+      "districtNumber": 78,
+      "oikTvd": "100100225883497"
+    }
   },
   {
     "uikNumber": 866,
     "uikTvd": "4324027176735",
     "tikTvd": "23220001386531",
-    "tikName": "Сельцовская городская"
+    "tikName": "Сельцовская городская",
+    "uikName": "УИК №866",
+    "regionCode": "32",
+    "regionTvd": "100100225883495",
+    "regionName": "Брянская область",
+    "oikTvd": "100100225883497",
+    "oikName": "Брянская область – Унечский",
+    "district": {
+      "districtNumber": 78,
+      "oikTvd": "100100225883497"
+    }
   },
   {
     "uikNumber": 867,
     "uikTvd": "4324027176736",
     "tikTvd": "23220001386531",
-    "tikName": "Сельцовская городская"
+    "tikName": "Сельцовская городская",
+    "uikName": "УИК №867",
+    "regionCode": "32",
+    "regionTvd": "100100225883495",
+    "regionName": "Брянская область",
+    "oikTvd": "100100225883497",
+    "oikName": "Брянская область – Унечский",
+    "district": {
+      "districtNumber": 78,
+      "oikTvd": "100100225883497"
+    }
   },
   {
     "uikNumber": 868,
     "uikTvd": "4324027176737",
     "tikTvd": "23220001386531",
-    "tikName": "Сельцовская городская"
+    "tikName": "Сельцовская городская",
+    "uikName": "УИК №868",
+    "regionCode": "32",
+    "regionTvd": "100100225883495",
+    "regionName": "Брянская область",
+    "oikTvd": "100100225883497",
+    "oikName": "Брянская область – Унечский",
+    "district": {
+      "districtNumber": 78,
+      "oikTvd": "100100225883497"
+    }
   },
   {
     "uikNumber": 869,
     "uikTvd": "4324027176738",
     "tikTvd": "23220001386531",
-    "tikName": "Сельцовская городская"
+    "tikName": "Сельцовская городская",
+    "uikName": "УИК №869",
+    "regionCode": "32",
+    "regionTvd": "100100225883495",
+    "regionName": "Брянская область",
+    "oikTvd": "100100225883497",
+    "oikName": "Брянская область – Унечский",
+    "district": {
+      "districtNumber": 78,
+      "oikTvd": "100100225883497"
+    }
   },
   {
     "uikNumber": 870,
     "uikTvd": "4324027176739",
     "tikTvd": "23220001386531",
-    "tikName": "Сельцовская городская"
+    "tikName": "Сельцовская городская",
+    "uikName": "УИК №870",
+    "regionCode": "32",
+    "regionTvd": "100100225883495",
+    "regionName": "Брянская область",
+    "oikTvd": "100100225883497",
+    "oikName": "Брянская область – Унечский",
+    "district": {
+      "districtNumber": 78,
+      "oikTvd": "100100225883497"
+    }
   },
   {
     "uikNumber": 871,
     "uikTvd": "4324028443833",
     "tikTvd": "23220001386513",
-    "tikName": "Стародубская"
+    "tikName": "Стародубская",
+    "uikName": "УИК №871",
+    "regionCode": "32",
+    "regionTvd": "100100225883495",
+    "regionName": "Брянская область",
+    "oikTvd": "100100225883496",
+    "oikName": "Брянская область – Брянский",
+    "district": {
+      "districtNumber": 77,
+      "oikTvd": "100100225883496"
+    }
   },
   {
     "uikNumber": 872,
     "uikTvd": "4324028443672",
     "tikTvd": "23220001386513",
-    "tikName": "Стародубская"
+    "tikName": "Стародубская",
+    "uikName": "УИК №872",
+    "regionCode": "32",
+    "regionTvd": "100100225883495",
+    "regionName": "Брянская область",
+    "oikTvd": "100100225883496",
+    "oikName": "Брянская область – Брянский",
+    "district": {
+      "districtNumber": 77,
+      "oikTvd": "100100225883496"
+    }
   },
   {
     "uikNumber": 873,
     "uikTvd": "4324028443673",
     "tikTvd": "23220001386513",
-    "tikName": "Стародубская"
+    "tikName": "Стародубская",
+    "uikName": "УИК №873",
+    "regionCode": "32",
+    "regionTvd": "100100225883495",
+    "regionName": "Брянская область",
+    "oikTvd": "100100225883496",
+    "oikName": "Брянская область – Брянский",
+    "district": {
+      "districtNumber": 77,
+      "oikTvd": "100100225883496"
+    }
   },
   {
     "uikNumber": 874,
     "uikTvd": "4324028443674",
     "tikTvd": "23220001386513",
-    "tikName": "Стародубская"
+    "tikName": "Стародубская",
+    "uikName": "УИК №874",
+    "regionCode": "32",
+    "regionTvd": "100100225883495",
+    "regionName": "Брянская область",
+    "oikTvd": "100100225883496",
+    "oikName": "Брянская область – Брянский",
+    "district": {
+      "districtNumber": 77,
+      "oikTvd": "100100225883496"
+    }
   },
   {
     "uikNumber": 875,
     "uikTvd": "4324028443675",
     "tikTvd": "23220001386513",
-    "tikName": "Стародубская"
+    "tikName": "Стародубская",
+    "uikName": "УИК №875",
+    "regionCode": "32",
+    "regionTvd": "100100225883495",
+    "regionName": "Брянская область",
+    "oikTvd": "100100225883496",
+    "oikName": "Брянская область – Брянский",
+    "district": {
+      "districtNumber": 77,
+      "oikTvd": "100100225883496"
+    }
   },
   {
     "uikNumber": 876,
     "uikTvd": "4324028443676",
     "tikTvd": "23220001386513",
-    "tikName": "Стародубская"
+    "tikName": "Стародубская",
+    "uikName": "УИК №876",
+    "regionCode": "32",
+    "regionTvd": "100100225883495",
+    "regionName": "Брянская область",
+    "oikTvd": "100100225883496",
+    "oikName": "Брянская область – Брянский",
+    "district": {
+      "districtNumber": 77,
+      "oikTvd": "100100225883496"
+    }
   },
   {
     "uikNumber": 877,
     "uikTvd": "4324028443677",
     "tikTvd": "23220001386513",
-    "tikName": "Стародубская"
+    "tikName": "Стародубская",
+    "uikName": "УИК №877",
+    "regionCode": "32",
+    "regionTvd": "100100225883495",
+    "regionName": "Брянская область",
+    "oikTvd": "100100225883496",
+    "oikName": "Брянская область – Брянский",
+    "district": {
+      "districtNumber": 77,
+      "oikTvd": "100100225883496"
+    }
   },
   {
     "uikNumber": 878,
     "uikTvd": "4324028443678",
     "tikTvd": "23220001386513",
-    "tikName": "Стародубская"
+    "tikName": "Стародубская",
+    "uikName": "УИК №878",
+    "regionCode": "32",
+    "regionTvd": "100100225883495",
+    "regionName": "Брянская область",
+    "oikTvd": "100100225883496",
+    "oikName": "Брянская область – Брянский",
+    "district": {
+      "districtNumber": 77,
+      "oikTvd": "100100225883496"
+    }
   },
   {
     "uikNumber": 879,
     "uikTvd": "4324028443679",
     "tikTvd": "23220001386513",
-    "tikName": "Стародубская"
+    "tikName": "Стародубская",
+    "uikName": "УИК №879",
+    "regionCode": "32",
+    "regionTvd": "100100225883495",
+    "regionName": "Брянская область",
+    "oikTvd": "100100225883496",
+    "oikName": "Брянская область – Брянский",
+    "district": {
+      "districtNumber": 77,
+      "oikTvd": "100100225883496"
+    }
   },
   {
     "uikNumber": 880,
     "uikTvd": "4324028443680",
     "tikTvd": "23220001386513",
-    "tikName": "Стародубская"
+    "tikName": "Стародубская",
+    "uikName": "УИК №880",
+    "regionCode": "32",
+    "regionTvd": "100100225883495",
+    "regionName": "Брянская область",
+    "oikTvd": "100100225883496",
+    "oikName": "Брянская область – Брянский",
+    "district": {
+      "districtNumber": 77,
+      "oikTvd": "100100225883496"
+    }
   },
   {
     "uikNumber": 881,
     "uikTvd": "4324028443681",
     "tikTvd": "23220001386513",
-    "tikName": "Стародубская"
+    "tikName": "Стародубская",
+    "uikName": "УИК №881",
+    "regionCode": "32",
+    "regionTvd": "100100225883495",
+    "regionName": "Брянская область",
+    "oikTvd": "100100225883496",
+    "oikName": "Брянская область – Брянский",
+    "district": {
+      "districtNumber": 77,
+      "oikTvd": "100100225883496"
+    }
   },
   {
     "uikNumber": 882,
     "uikTvd": "4324028443682",
     "tikTvd": "23220001386513",
-    "tikName": "Стародубская"
+    "tikName": "Стародубская",
+    "uikName": "УИК №882",
+    "regionCode": "32",
+    "regionTvd": "100100225883495",
+    "regionName": "Брянская область",
+    "oikTvd": "100100225883496",
+    "oikName": "Брянская область – Брянский",
+    "district": {
+      "districtNumber": 77,
+      "oikTvd": "100100225883496"
+    }
   },
   {
     "uikNumber": 883,
     "uikTvd": "4324028443683",
     "tikTvd": "23220001386513",
-    "tikName": "Стародубская"
+    "tikName": "Стародубская",
+    "uikName": "УИК №883",
+    "regionCode": "32",
+    "regionTvd": "100100225883495",
+    "regionName": "Брянская область",
+    "oikTvd": "100100225883496",
+    "oikName": "Брянская область – Брянский",
+    "district": {
+      "districtNumber": 77,
+      "oikTvd": "100100225883496"
+    }
   },
   {
     "uikNumber": 884,
     "uikTvd": "4324028443684",
     "tikTvd": "23220001386513",
-    "tikName": "Стародубская"
+    "tikName": "Стародубская",
+    "uikName": "УИК №884",
+    "regionCode": "32",
+    "regionTvd": "100100225883495",
+    "regionName": "Брянская область",
+    "oikTvd": "100100225883496",
+    "oikName": "Брянская область – Брянский",
+    "district": {
+      "districtNumber": 77,
+      "oikTvd": "100100225883496"
+    }
   },
   {
     "uikNumber": 885,
     "uikTvd": "4324028443685",
     "tikTvd": "23220001386513",
-    "tikName": "Стародубская"
+    "tikName": "Стародубская",
+    "uikName": "УИК №885",
+    "regionCode": "32",
+    "regionTvd": "100100225883495",
+    "regionName": "Брянская область",
+    "oikTvd": "100100225883496",
+    "oikName": "Брянская область – Брянский",
+    "district": {
+      "districtNumber": 77,
+      "oikTvd": "100100225883496"
+    }
   },
   {
     "uikNumber": 886,
     "uikTvd": "4324028443686",
     "tikTvd": "23220001386513",
-    "tikName": "Стародубская"
+    "tikName": "Стародубская",
+    "uikName": "УИК №886",
+    "regionCode": "32",
+    "regionTvd": "100100225883495",
+    "regionName": "Брянская область",
+    "oikTvd": "100100225883496",
+    "oikName": "Брянская область – Брянский",
+    "district": {
+      "districtNumber": 77,
+      "oikTvd": "100100225883496"
+    }
   },
   {
     "uikNumber": 887,
     "uikTvd": "4324028443687",
     "tikTvd": "23220001386513",
-    "tikName": "Стародубская"
+    "tikName": "Стародубская",
+    "uikName": "УИК №887",
+    "regionCode": "32",
+    "regionTvd": "100100225883495",
+    "regionName": "Брянская область",
+    "oikTvd": "100100225883496",
+    "oikName": "Брянская область – Брянский",
+    "district": {
+      "districtNumber": 77,
+      "oikTvd": "100100225883496"
+    }
   },
   {
     "uikNumber": 888,
     "uikTvd": "4324028443688",
     "tikTvd": "23220001386513",
-    "tikName": "Стародубская"
+    "tikName": "Стародубская",
+    "uikName": "УИК №888",
+    "regionCode": "32",
+    "regionTvd": "100100225883495",
+    "regionName": "Брянская область",
+    "oikTvd": "100100225883496",
+    "oikName": "Брянская область – Брянский",
+    "district": {
+      "districtNumber": 77,
+      "oikTvd": "100100225883496"
+    }
   },
   {
     "uikNumber": 889,
     "uikTvd": "4324028443689",
     "tikTvd": "23220001386513",
-    "tikName": "Стародубская"
+    "tikName": "Стародубская",
+    "uikName": "УИК №889",
+    "regionCode": "32",
+    "regionTvd": "100100225883495",
+    "regionName": "Брянская область",
+    "oikTvd": "100100225883496",
+    "oikName": "Брянская область – Брянский",
+    "district": {
+      "districtNumber": 77,
+      "oikTvd": "100100225883496"
+    }
   },
   {
     "uikNumber": 890,
     "uikTvd": "4324028443690",
     "tikTvd": "23220001386513",
-    "tikName": "Стародубская"
+    "tikName": "Стародубская",
+    "uikName": "УИК №890",
+    "regionCode": "32",
+    "regionTvd": "100100225883495",
+    "regionName": "Брянская область",
+    "oikTvd": "100100225883496",
+    "oikName": "Брянская область – Брянский",
+    "district": {
+      "districtNumber": 77,
+      "oikTvd": "100100225883496"
+    }
   },
   {
     "uikNumber": 891,
     "uikTvd": "4324028443691",
     "tikTvd": "23220001386513",
-    "tikName": "Стародубская"
+    "tikName": "Стародубская",
+    "uikName": "УИК №891",
+    "regionCode": "32",
+    "regionTvd": "100100225883495",
+    "regionName": "Брянская область",
+    "oikTvd": "100100225883496",
+    "oikName": "Брянская область – Брянский",
+    "district": {
+      "districtNumber": 77,
+      "oikTvd": "100100225883496"
+    }
   },
   {
     "uikNumber": 892,
     "uikTvd": "4324028443692",
     "tikTvd": "23220001386513",
-    "tikName": "Стародубская"
+    "tikName": "Стародубская",
+    "uikName": "УИК №892",
+    "regionCode": "32",
+    "regionTvd": "100100225883495",
+    "regionName": "Брянская область",
+    "oikTvd": "100100225883496",
+    "oikName": "Брянская область – Брянский",
+    "district": {
+      "districtNumber": 77,
+      "oikTvd": "100100225883496"
+    }
   },
   {
     "uikNumber": 893,
     "uikTvd": "4324028443693",
     "tikTvd": "23220001386513",
-    "tikName": "Стародубская"
+    "tikName": "Стародубская",
+    "uikName": "УИК №893",
+    "regionCode": "32",
+    "regionTvd": "100100225883495",
+    "regionName": "Брянская область",
+    "oikTvd": "100100225883496",
+    "oikName": "Брянская область – Брянский",
+    "district": {
+      "districtNumber": 77,
+      "oikTvd": "100100225883496"
+    }
   },
   {
     "uikNumber": 894,
     "uikTvd": "4324028443694",
     "tikTvd": "23220001386513",
-    "tikName": "Стародубская"
+    "tikName": "Стародубская",
+    "uikName": "УИК №894",
+    "regionCode": "32",
+    "regionTvd": "100100225883495",
+    "regionName": "Брянская область",
+    "oikTvd": "100100225883496",
+    "oikName": "Брянская область – Брянский",
+    "district": {
+      "districtNumber": 77,
+      "oikTvd": "100100225883496"
+    }
   },
   {
     "uikNumber": 895,
     "uikTvd": "4324028443695",
     "tikTvd": "23220001386513",
-    "tikName": "Стародубская"
+    "tikName": "Стародубская",
+    "uikName": "УИК №895",
+    "regionCode": "32",
+    "regionTvd": "100100225883495",
+    "regionName": "Брянская область",
+    "oikTvd": "100100225883496",
+    "oikName": "Брянская область – Брянский",
+    "district": {
+      "districtNumber": 77,
+      "oikTvd": "100100225883496"
+    }
   },
   {
     "uikNumber": 896,
     "uikTvd": "4324028443696",
     "tikTvd": "23220001386513",
-    "tikName": "Стародубская"
+    "tikName": "Стародубская",
+    "uikName": "УИК №896",
+    "regionCode": "32",
+    "regionTvd": "100100225883495",
+    "regionName": "Брянская область",
+    "oikTvd": "100100225883496",
+    "oikName": "Брянская область – Брянский",
+    "district": {
+      "districtNumber": 77,
+      "oikTvd": "100100225883496"
+    }
   },
   {
     "uikNumber": 897,
     "uikTvd": "4324028443697",
     "tikTvd": "23220001386513",
-    "tikName": "Стародубская"
+    "tikName": "Стародубская",
+    "uikName": "УИК №897",
+    "regionCode": "32",
+    "regionTvd": "100100225883495",
+    "regionName": "Брянская область",
+    "oikTvd": "100100225883496",
+    "oikName": "Брянская область – Брянский",
+    "district": {
+      "districtNumber": 77,
+      "oikTvd": "100100225883496"
+    }
   },
   {
     "uikNumber": 898,
     "uikTvd": "4324028443698",
     "tikTvd": "23220001386513",
-    "tikName": "Стародубская"
+    "tikName": "Стародубская",
+    "uikName": "УИК №898",
+    "regionCode": "32",
+    "regionTvd": "100100225883495",
+    "regionName": "Брянская область",
+    "oikTvd": "100100225883496",
+    "oikName": "Брянская область – Брянский",
+    "district": {
+      "districtNumber": 77,
+      "oikTvd": "100100225883496"
+    }
   },
   {
     "uikNumber": 899,
     "uikTvd": "4324028443699",
     "tikTvd": "23220001386513",
-    "tikName": "Стародубская"
+    "tikName": "Стародубская",
+    "uikName": "УИК №899",
+    "regionCode": "32",
+    "regionTvd": "100100225883495",
+    "regionName": "Брянская область",
+    "oikTvd": "100100225883496",
+    "oikName": "Брянская область – Брянский",
+    "district": {
+      "districtNumber": 77,
+      "oikTvd": "100100225883496"
+    }
   },
   {
     "uikNumber": 900,
     "uikTvd": "4324028443700",
     "tikTvd": "23220001386513",
-    "tikName": "Стародубская"
+    "tikName": "Стародубская",
+    "uikName": "УИК №900",
+    "regionCode": "32",
+    "regionTvd": "100100225883495",
+    "regionName": "Брянская область",
+    "oikTvd": "100100225883496",
+    "oikName": "Брянская область – Брянский",
+    "district": {
+      "districtNumber": 77,
+      "oikTvd": "100100225883496"
+    }
   },
   {
     "uikNumber": 901,
     "uikTvd": "4324028443701",
     "tikTvd": "23220001386513",
-    "tikName": "Стародубская"
+    "tikName": "Стародубская",
+    "uikName": "УИК №901",
+    "regionCode": "32",
+    "regionTvd": "100100225883495",
+    "regionName": "Брянская область",
+    "oikTvd": "100100225883496",
+    "oikName": "Брянская область – Брянский",
+    "district": {
+      "districtNumber": 77,
+      "oikTvd": "100100225883496"
+    }
   },
   {
     "uikNumber": 902,
     "uikTvd": "4324028443702",
     "tikTvd": "23220001386513",
-    "tikName": "Стародубская"
+    "tikName": "Стародубская",
+    "uikName": "УИК №902",
+    "regionCode": "32",
+    "regionTvd": "100100225883495",
+    "regionName": "Брянская область",
+    "oikTvd": "100100225883496",
+    "oikName": "Брянская область – Брянский",
+    "district": {
+      "districtNumber": 77,
+      "oikTvd": "100100225883496"
+    }
   },
   {
     "uikNumber": 903,
     "uikTvd": "4324028443703",
     "tikTvd": "23220001386513",
-    "tikName": "Стародубская"
+    "tikName": "Стародубская",
+    "uikName": "УИК №903",
+    "regionCode": "32",
+    "regionTvd": "100100225883495",
+    "regionName": "Брянская область",
+    "oikTvd": "100100225883496",
+    "oikName": "Брянская область – Брянский",
+    "district": {
+      "districtNumber": 77,
+      "oikTvd": "100100225883496"
+    }
   },
   {
     "uikNumber": 904,
     "uikTvd": "4324028443704",
     "tikTvd": "23220001386513",
-    "tikName": "Стародубская"
+    "tikName": "Стародубская",
+    "uikName": "УИК №904",
+    "regionCode": "32",
+    "regionTvd": "100100225883495",
+    "regionName": "Брянская область",
+    "oikTvd": "100100225883496",
+    "oikName": "Брянская область – Брянский",
+    "district": {
+      "districtNumber": 77,
+      "oikTvd": "100100225883496"
+    }
   },
   {
     "uikNumber": 905,
     "uikTvd": "4324028443705",
     "tikTvd": "23220001386513",
-    "tikName": "Стародубская"
+    "tikName": "Стародубская",
+    "uikName": "УИК №905",
+    "regionCode": "32",
+    "regionTvd": "100100225883495",
+    "regionName": "Брянская область",
+    "oikTvd": "100100225883496",
+    "oikName": "Брянская область – Брянский",
+    "district": {
+      "districtNumber": 77,
+      "oikTvd": "100100225883496"
+    }
   },
   {
     "uikNumber": 906,
     "uikTvd": "4324028443706",
     "tikTvd": "23220001386513",
-    "tikName": "Стародубская"
+    "tikName": "Стародубская",
+    "uikName": "УИК №906",
+    "regionCode": "32",
+    "regionTvd": "100100225883495",
+    "regionName": "Брянская область",
+    "oikTvd": "100100225883496",
+    "oikName": "Брянская область – Брянский",
+    "district": {
+      "districtNumber": 77,
+      "oikTvd": "100100225883496"
+    }
   },
   {
     "uikNumber": 907,
     "uikTvd": "4324028443707",
     "tikTvd": "23220001386513",
-    "tikName": "Стародубская"
+    "tikName": "Стародубская",
+    "uikName": "УИК №907",
+    "regionCode": "32",
+    "regionTvd": "100100225883495",
+    "regionName": "Брянская область",
+    "oikTvd": "100100225883496",
+    "oikName": "Брянская область – Брянский",
+    "district": {
+      "districtNumber": 77,
+      "oikTvd": "100100225883496"
+    }
   },
   {
     "uikNumber": 908,
     "uikTvd": "4324028443708",
     "tikTvd": "23220001386513",
-    "tikName": "Стародубская"
+    "tikName": "Стародубская",
+    "uikName": "УИК №908",
+    "regionCode": "32",
+    "regionTvd": "100100225883495",
+    "regionName": "Брянская область",
+    "oikTvd": "100100225883496",
+    "oikName": "Брянская область – Брянский",
+    "district": {
+      "districtNumber": 77,
+      "oikTvd": "100100225883496"
+    }
   },
   {
     "uikNumber": 909,
     "uikTvd": "4324028443709",
     "tikTvd": "23220001386513",
-    "tikName": "Стародубская"
+    "tikName": "Стародубская",
+    "uikName": "УИК №909",
+    "regionCode": "32",
+    "regionTvd": "100100225883495",
+    "regionName": "Брянская область",
+    "oikTvd": "100100225883496",
+    "oikName": "Брянская область – Брянский",
+    "district": {
+      "districtNumber": 77,
+      "oikTvd": "100100225883496"
+    }
   },
   {
     "uikNumber": 910,
     "uikTvd": "4324028443710",
     "tikTvd": "23220001386513",
-    "tikName": "Стародубская"
+    "tikName": "Стародубская",
+    "uikName": "УИК №910",
+    "regionCode": "32",
+    "regionTvd": "100100225883495",
+    "regionName": "Брянская область",
+    "oikTvd": "100100225883496",
+    "oikName": "Брянская область – Брянский",
+    "district": {
+      "districtNumber": 77,
+      "oikTvd": "100100225883496"
+    }
   },
   {
     "uikNumber": 911,
     "uikTvd": "4324028443711",
     "tikTvd": "23220001386513",
-    "tikName": "Стародубская"
+    "tikName": "Стародубская",
+    "uikName": "УИК №911",
+    "regionCode": "32",
+    "regionTvd": "100100225883495",
+    "regionName": "Брянская область",
+    "oikTvd": "100100225883496",
+    "oikName": "Брянская область – Брянский",
+    "district": {
+      "districtNumber": 77,
+      "oikTvd": "100100225883496"
+    }
   },
   {
     "uikNumber": 912,
     "uikTvd": "4324028443712",
     "tikTvd": "23220001386513",
-    "tikName": "Стародубская"
+    "tikName": "Стародубская",
+    "uikName": "УИК №912",
+    "regionCode": "32",
+    "regionTvd": "100100225883495",
+    "regionName": "Брянская область",
+    "oikTvd": "100100225883496",
+    "oikName": "Брянская область – Брянский",
+    "district": {
+      "districtNumber": 77,
+      "oikTvd": "100100225883496"
+    }
   },
   {
     "uikNumber": 913,
     "uikTvd": "4324028443713",
     "tikTvd": "23220001386513",
-    "tikName": "Стародубская"
+    "tikName": "Стародубская",
+    "uikName": "УИК №913",
+    "regionCode": "32",
+    "regionTvd": "100100225883495",
+    "regionName": "Брянская область",
+    "oikTvd": "100100225883496",
+    "oikName": "Брянская область – Брянский",
+    "district": {
+      "districtNumber": 77,
+      "oikTvd": "100100225883496"
+    }
   },
   {
     "uikNumber": 914,
     "uikTvd": "4324028443714",
     "tikTvd": "23220001386513",
-    "tikName": "Стародубская"
+    "tikName": "Стародубская",
+    "uikName": "УИК №914",
+    "regionCode": "32",
+    "regionTvd": "100100225883495",
+    "regionName": "Брянская область",
+    "oikTvd": "100100225883496",
+    "oikName": "Брянская область – Брянский",
+    "district": {
+      "districtNumber": 77,
+      "oikTvd": "100100225883496"
+    }
   },
   {
     "uikNumber": 915,
     "uikTvd": "4324028443715",
     "tikTvd": "23220001386513",
-    "tikName": "Стародубская"
+    "tikName": "Стародубская",
+    "uikName": "УИК №915",
+    "regionCode": "32",
+    "regionTvd": "100100225883495",
+    "regionName": "Брянская область",
+    "oikTvd": "100100225883496",
+    "oikName": "Брянская область – Брянский",
+    "district": {
+      "districtNumber": 77,
+      "oikTvd": "100100225883496"
+    }
   },
   {
     "uikNumber": 916,
     "uikTvd": "4324028443716",
     "tikTvd": "23220001386513",
-    "tikName": "Стародубская"
+    "tikName": "Стародубская",
+    "uikName": "УИК №916",
+    "regionCode": "32",
+    "regionTvd": "100100225883495",
+    "regionName": "Брянская область",
+    "oikTvd": "100100225883496",
+    "oikName": "Брянская область – Брянский",
+    "district": {
+      "districtNumber": 77,
+      "oikTvd": "100100225883496"
+    }
   },
   {
     "uikNumber": 917,
     "uikTvd": "4324028443717",
     "tikTvd": "23220001386513",
-    "tikName": "Стародубская"
+    "tikName": "Стародубская",
+    "uikName": "УИК №917",
+    "regionCode": "32",
+    "regionTvd": "100100225883495",
+    "regionName": "Брянская область",
+    "oikTvd": "100100225883496",
+    "oikName": "Брянская область – Брянский",
+    "district": {
+      "districtNumber": 77,
+      "oikTvd": "100100225883496"
+    }
   },
   {
     "uikNumber": 918,
     "uikTvd": "4324028443718",
     "tikTvd": "23220001386513",
-    "tikName": "Стародубская"
+    "tikName": "Стародубская",
+    "uikName": "УИК №918",
+    "regionCode": "32",
+    "regionTvd": "100100225883495",
+    "regionName": "Брянская область",
+    "oikTvd": "100100225883496",
+    "oikName": "Брянская область – Брянский",
+    "district": {
+      "districtNumber": 77,
+      "oikTvd": "100100225883496"
+    }
   },
   {
     "uikNumber": 919,
     "uikTvd": "4324028443719",
     "tikTvd": "23220001386513",
-    "tikName": "Стародубская"
+    "tikName": "Стародубская",
+    "uikName": "УИК №919",
+    "regionCode": "32",
+    "regionTvd": "100100225883495",
+    "regionName": "Брянская область",
+    "oikTvd": "100100225883496",
+    "oikName": "Брянская область – Брянский",
+    "district": {
+      "districtNumber": 77,
+      "oikTvd": "100100225883496"
+    }
   },
   {
     "uikNumber": 920,
     "uikTvd": "4324028443720",
     "tikTvd": "23220001386513",
-    "tikName": "Стародубская"
+    "tikName": "Стародубская",
+    "uikName": "УИК №920",
+    "regionCode": "32",
+    "regionTvd": "100100225883495",
+    "regionName": "Брянская область",
+    "oikTvd": "100100225883496",
+    "oikName": "Брянская область – Брянский",
+    "district": {
+      "districtNumber": 77,
+      "oikTvd": "100100225883496"
+    }
   },
   {
     "uikNumber": 921,
     "uikTvd": "4324028443721",
     "tikTvd": "23220001386513",
-    "tikName": "Стародубская"
+    "tikName": "Стародубская",
+    "uikName": "УИК №921",
+    "regionCode": "32",
+    "regionTvd": "100100225883495",
+    "regionName": "Брянская область",
+    "oikTvd": "100100225883496",
+    "oikName": "Брянская область – Брянский",
+    "district": {
+      "districtNumber": 77,
+      "oikTvd": "100100225883496"
+    }
   },
   {
     "uikNumber": 922,
     "uikTvd": "4324028443722",
     "tikTvd": "23220001386513",
-    "tikName": "Стародубская"
+    "tikName": "Стародубская",
+    "uikName": "УИК №922",
+    "regionCode": "32",
+    "regionTvd": "100100225883495",
+    "regionName": "Брянская область",
+    "oikTvd": "100100225883496",
+    "oikName": "Брянская область – Брянский",
+    "district": {
+      "districtNumber": 77,
+      "oikTvd": "100100225883496"
+    }
   },
   {
     "uikNumber": 923,
     "uikTvd": "4324029313440",
     "tikTvd": "23220001386514",
-    "tikName": "Суземская"
+    "tikName": "Суземская",
+    "uikName": "УИК №923",
+    "regionCode": "32",
+    "regionTvd": "100100225883495",
+    "regionName": "Брянская область",
+    "oikTvd": "100100225883496",
+    "oikName": "Брянская область – Брянский",
+    "district": {
+      "districtNumber": 77,
+      "oikTvd": "100100225883496"
+    }
   },
   {
     "uikNumber": 924,
     "uikTvd": "4324029313441",
     "tikTvd": "23220001386514",
-    "tikName": "Суземская"
+    "tikName": "Суземская",
+    "uikName": "УИК №924",
+    "regionCode": "32",
+    "regionTvd": "100100225883495",
+    "regionName": "Брянская область",
+    "oikTvd": "100100225883496",
+    "oikName": "Брянская область – Брянский",
+    "district": {
+      "districtNumber": 77,
+      "oikTvd": "100100225883496"
+    }
   },
   {
     "uikNumber": 925,
     "uikTvd": "4324029313442",
     "tikTvd": "23220001386514",
-    "tikName": "Суземская"
+    "tikName": "Суземская",
+    "uikName": "УИК №925",
+    "regionCode": "32",
+    "regionTvd": "100100225883495",
+    "regionName": "Брянская область",
+    "oikTvd": "100100225883496",
+    "oikName": "Брянская область – Брянский",
+    "district": {
+      "districtNumber": 77,
+      "oikTvd": "100100225883496"
+    }
   },
   {
     "uikNumber": 926,
     "uikTvd": "4324029313443",
     "tikTvd": "23220001386514",
-    "tikName": "Суземская"
+    "tikName": "Суземская",
+    "uikName": "УИК №926",
+    "regionCode": "32",
+    "regionTvd": "100100225883495",
+    "regionName": "Брянская область",
+    "oikTvd": "100100225883496",
+    "oikName": "Брянская область – Брянский",
+    "district": {
+      "districtNumber": 77,
+      "oikTvd": "100100225883496"
+    }
   },
   {
     "uikNumber": 927,
     "uikTvd": "4324029313444",
     "tikTvd": "23220001386514",
-    "tikName": "Суземская"
+    "tikName": "Суземская",
+    "uikName": "УИК №927",
+    "regionCode": "32",
+    "regionTvd": "100100225883495",
+    "regionName": "Брянская область",
+    "oikTvd": "100100225883496",
+    "oikName": "Брянская область – Брянский",
+    "district": {
+      "districtNumber": 77,
+      "oikTvd": "100100225883496"
+    }
   },
   {
     "uikNumber": 928,
     "uikTvd": "4324029313445",
     "tikTvd": "23220001386514",
-    "tikName": "Суземская"
+    "tikName": "Суземская",
+    "uikName": "УИК №928",
+    "regionCode": "32",
+    "regionTvd": "100100225883495",
+    "regionName": "Брянская область",
+    "oikTvd": "100100225883496",
+    "oikName": "Брянская область – Брянский",
+    "district": {
+      "districtNumber": 77,
+      "oikTvd": "100100225883496"
+    }
   },
   {
     "uikNumber": 929,
     "uikTvd": "4324029313446",
     "tikTvd": "23220001386514",
-    "tikName": "Суземская"
+    "tikName": "Суземская",
+    "uikName": "УИК №929",
+    "regionCode": "32",
+    "regionTvd": "100100225883495",
+    "regionName": "Брянская область",
+    "oikTvd": "100100225883496",
+    "oikName": "Брянская область – Брянский",
+    "district": {
+      "districtNumber": 77,
+      "oikTvd": "100100225883496"
+    }
   },
   {
     "uikNumber": 930,
     "uikTvd": "4324029313447",
     "tikTvd": "23220001386514",
-    "tikName": "Суземская"
+    "tikName": "Суземская",
+    "uikName": "УИК №930",
+    "regionCode": "32",
+    "regionTvd": "100100225883495",
+    "regionName": "Брянская область",
+    "oikTvd": "100100225883496",
+    "oikName": "Брянская область – Брянский",
+    "district": {
+      "districtNumber": 77,
+      "oikTvd": "100100225883496"
+    }
   },
   {
     "uikNumber": 931,
     "uikTvd": "4324029313448",
     "tikTvd": "23220001386514",
-    "tikName": "Суземская"
+    "tikName": "Суземская",
+    "uikName": "УИК №931",
+    "regionCode": "32",
+    "regionTvd": "100100225883495",
+    "regionName": "Брянская область",
+    "oikTvd": "100100225883496",
+    "oikName": "Брянская область – Брянский",
+    "district": {
+      "districtNumber": 77,
+      "oikTvd": "100100225883496"
+    }
   },
   {
     "uikNumber": 932,
     "uikTvd": "4324029313449",
     "tikTvd": "23220001386514",
-    "tikName": "Суземская"
+    "tikName": "Суземская",
+    "uikName": "УИК №932",
+    "regionCode": "32",
+    "regionTvd": "100100225883495",
+    "regionName": "Брянская область",
+    "oikTvd": "100100225883496",
+    "oikName": "Брянская область – Брянский",
+    "district": {
+      "districtNumber": 77,
+      "oikTvd": "100100225883496"
+    }
   },
   {
     "uikNumber": 933,
     "uikTvd": "4324029313450",
     "tikTvd": "23220001386514",
-    "tikName": "Суземская"
+    "tikName": "Суземская",
+    "uikName": "УИК №933",
+    "regionCode": "32",
+    "regionTvd": "100100225883495",
+    "regionName": "Брянская область",
+    "oikTvd": "100100225883496",
+    "oikName": "Брянская область – Брянский",
+    "district": {
+      "districtNumber": 77,
+      "oikTvd": "100100225883496"
+    }
   },
   {
     "uikNumber": 934,
     "uikTvd": "4324029313451",
     "tikTvd": "23220001386514",
-    "tikName": "Суземская"
+    "tikName": "Суземская",
+    "uikName": "УИК №934",
+    "regionCode": "32",
+    "regionTvd": "100100225883495",
+    "regionName": "Брянская область",
+    "oikTvd": "100100225883496",
+    "oikName": "Брянская область – Брянский",
+    "district": {
+      "districtNumber": 77,
+      "oikTvd": "100100225883496"
+    }
   },
   {
     "uikNumber": 935,
     "uikTvd": "4324029313452",
     "tikTvd": "23220001386514",
-    "tikName": "Суземская"
+    "tikName": "Суземская",
+    "uikName": "УИК №935",
+    "regionCode": "32",
+    "regionTvd": "100100225883495",
+    "regionName": "Брянская область",
+    "oikTvd": "100100225883496",
+    "oikName": "Брянская область – Брянский",
+    "district": {
+      "districtNumber": 77,
+      "oikTvd": "100100225883496"
+    }
   },
   {
     "uikNumber": 936,
     "uikTvd": "4324029313453",
     "tikTvd": "23220001386514",
-    "tikName": "Суземская"
+    "tikName": "Суземская",
+    "uikName": "УИК №936",
+    "regionCode": "32",
+    "regionTvd": "100100225883495",
+    "regionName": "Брянская область",
+    "oikTvd": "100100225883496",
+    "oikName": "Брянская область – Брянский",
+    "district": {
+      "districtNumber": 77,
+      "oikTvd": "100100225883496"
+    }
   },
   {
     "uikNumber": 937,
     "uikTvd": "4324029313454",
     "tikTvd": "23220001386514",
-    "tikName": "Суземская"
+    "tikName": "Суземская",
+    "uikName": "УИК №937",
+    "regionCode": "32",
+    "regionTvd": "100100225883495",
+    "regionName": "Брянская область",
+    "oikTvd": "100100225883496",
+    "oikName": "Брянская область – Брянский",
+    "district": {
+      "districtNumber": 77,
+      "oikTvd": "100100225883496"
+    }
   },
   {
     "uikNumber": 938,
     "uikTvd": "4324029313455",
     "tikTvd": "23220001386514",
-    "tikName": "Суземская"
+    "tikName": "Суземская",
+    "uikName": "УИК №938",
+    "regionCode": "32",
+    "regionTvd": "100100225883495",
+    "regionName": "Брянская область",
+    "oikTvd": "100100225883496",
+    "oikName": "Брянская область – Брянский",
+    "district": {
+      "districtNumber": 77,
+      "oikTvd": "100100225883496"
+    }
   },
   {
     "uikNumber": 939,
     "uikTvd": "4324029313456",
     "tikTvd": "23220001386514",
-    "tikName": "Суземская"
+    "tikName": "Суземская",
+    "uikName": "УИК №939",
+    "regionCode": "32",
+    "regionTvd": "100100225883495",
+    "regionName": "Брянская область",
+    "oikTvd": "100100225883496",
+    "oikName": "Брянская область – Брянский",
+    "district": {
+      "districtNumber": 77,
+      "oikTvd": "100100225883496"
+    }
   },
   {
     "uikNumber": 940,
     "uikTvd": "4324029313457",
     "tikTvd": "23220001386514",
-    "tikName": "Суземская"
+    "tikName": "Суземская",
+    "uikName": "УИК №940",
+    "regionCode": "32",
+    "regionTvd": "100100225883495",
+    "regionName": "Брянская область",
+    "oikTvd": "100100225883496",
+    "oikName": "Брянская область – Брянский",
+    "district": {
+      "districtNumber": 77,
+      "oikTvd": "100100225883496"
+    }
   },
   {
     "uikNumber": 941,
     "uikTvd": "4324029313458",
     "tikTvd": "23220001386514",
-    "tikName": "Суземская"
+    "tikName": "Суземская",
+    "uikName": "УИК №941",
+    "regionCode": "32",
+    "regionTvd": "100100225883495",
+    "regionName": "Брянская область",
+    "oikTvd": "100100225883496",
+    "oikName": "Брянская область – Брянский",
+    "district": {
+      "districtNumber": 77,
+      "oikTvd": "100100225883496"
+    }
   },
   {
     "uikNumber": 942,
     "uikTvd": "4324029313459",
     "tikTvd": "23220001386514",
-    "tikName": "Суземская"
+    "tikName": "Суземская",
+    "uikName": "УИК №942",
+    "regionCode": "32",
+    "regionTvd": "100100225883495",
+    "regionName": "Брянская область",
+    "oikTvd": "100100225883496",
+    "oikName": "Брянская область – Брянский",
+    "district": {
+      "districtNumber": 77,
+      "oikTvd": "100100225883496"
+    }
   },
   {
     "uikNumber": 943,
     "uikTvd": "4324029313460",
     "tikTvd": "23220001386514",
-    "tikName": "Суземская"
+    "tikName": "Суземская",
+    "uikName": "УИК №943",
+    "regionCode": "32",
+    "regionTvd": "100100225883495",
+    "regionName": "Брянская область",
+    "oikTvd": "100100225883496",
+    "oikName": "Брянская область – Брянский",
+    "district": {
+      "districtNumber": 77,
+      "oikTvd": "100100225883496"
+    }
   },
   {
     "uikNumber": 944,
     "uikTvd": "4324029313461",
     "tikTvd": "23220001386514",
-    "tikName": "Суземская"
+    "tikName": "Суземская",
+    "uikName": "УИК №944",
+    "regionCode": "32",
+    "regionTvd": "100100225883495",
+    "regionName": "Брянская область",
+    "oikTvd": "100100225883496",
+    "oikName": "Брянская область – Брянский",
+    "district": {
+      "districtNumber": 77,
+      "oikTvd": "100100225883496"
+    }
   },
   {
     "uikNumber": 945,
     "uikTvd": "4324029313462",
     "tikTvd": "23220001386514",
-    "tikName": "Суземская"
+    "tikName": "Суземская",
+    "uikName": "УИК №945",
+    "regionCode": "32",
+    "regionTvd": "100100225883495",
+    "regionName": "Брянская область",
+    "oikTvd": "100100225883496",
+    "oikName": "Брянская область – Брянский",
+    "district": {
+      "districtNumber": 77,
+      "oikTvd": "100100225883496"
+    }
   },
   {
     "uikNumber": 946,
     "uikTvd": "4324029313463",
     "tikTvd": "23220001386514",
-    "tikName": "Суземская"
+    "tikName": "Суземская",
+    "uikName": "УИК №946",
+    "regionCode": "32",
+    "regionTvd": "100100225883495",
+    "regionName": "Брянская область",
+    "oikTvd": "100100225883496",
+    "oikName": "Брянская область – Брянский",
+    "district": {
+      "districtNumber": 77,
+      "oikTvd": "100100225883496"
+    }
   },
   {
     "uikNumber": 947,
     "uikTvd": "4324030357687",
     "tikTvd": "23220001386532",
-    "tikName": "Суражская"
+    "tikName": "Суражская",
+    "uikName": "УИК №947",
+    "regionCode": "32",
+    "regionTvd": "100100225883495",
+    "regionName": "Брянская область",
+    "oikTvd": "100100225883497",
+    "oikName": "Брянская область – Унечский",
+    "district": {
+      "districtNumber": 78,
+      "oikTvd": "100100225883497"
+    }
   },
   {
     "uikNumber": 948,
     "uikTvd": "4324030357689",
     "tikTvd": "23220001386532",
-    "tikName": "Суражская"
+    "tikName": "Суражская",
+    "uikName": "УИК №948",
+    "regionCode": "32",
+    "regionTvd": "100100225883495",
+    "regionName": "Брянская область",
+    "oikTvd": "100100225883497",
+    "oikName": "Брянская область – Унечский",
+    "district": {
+      "districtNumber": 78,
+      "oikTvd": "100100225883497"
+    }
   },
   {
     "uikNumber": 949,
     "uikTvd": "4324030357690",
     "tikTvd": "23220001386532",
-    "tikName": "Суражская"
+    "tikName": "Суражская",
+    "uikName": "УИК №949",
+    "regionCode": "32",
+    "regionTvd": "100100225883495",
+    "regionName": "Брянская область",
+    "oikTvd": "100100225883497",
+    "oikName": "Брянская область – Унечский",
+    "district": {
+      "districtNumber": 78,
+      "oikTvd": "100100225883497"
+    }
   },
   {
     "uikNumber": 950,
     "uikTvd": "4324030357691",
     "tikTvd": "23220001386532",
-    "tikName": "Суражская"
+    "tikName": "Суражская",
+    "uikName": "УИК №950",
+    "regionCode": "32",
+    "regionTvd": "100100225883495",
+    "regionName": "Брянская область",
+    "oikTvd": "100100225883497",
+    "oikName": "Брянская область – Унечский",
+    "district": {
+      "districtNumber": 78,
+      "oikTvd": "100100225883497"
+    }
   },
   {
     "uikNumber": 951,
     "uikTvd": "4324030357692",
     "tikTvd": "23220001386532",
-    "tikName": "Суражская"
+    "tikName": "Суражская",
+    "uikName": "УИК №951",
+    "regionCode": "32",
+    "regionTvd": "100100225883495",
+    "regionName": "Брянская область",
+    "oikTvd": "100100225883497",
+    "oikName": "Брянская область – Унечский",
+    "district": {
+      "districtNumber": 78,
+      "oikTvd": "100100225883497"
+    }
   },
   {
     "uikNumber": 952,
     "uikTvd": "4324030357693",
     "tikTvd": "23220001386532",
-    "tikName": "Суражская"
+    "tikName": "Суражская",
+    "uikName": "УИК №952",
+    "regionCode": "32",
+    "regionTvd": "100100225883495",
+    "regionName": "Брянская область",
+    "oikTvd": "100100225883497",
+    "oikName": "Брянская область – Унечский",
+    "district": {
+      "districtNumber": 78,
+      "oikTvd": "100100225883497"
+    }
   },
   {
     "uikNumber": 953,
     "uikTvd": "4324030357694",
     "tikTvd": "23220001386532",
-    "tikName": "Суражская"
+    "tikName": "Суражская",
+    "uikName": "УИК №953",
+    "regionCode": "32",
+    "regionTvd": "100100225883495",
+    "regionName": "Брянская область",
+    "oikTvd": "100100225883497",
+    "oikName": "Брянская область – Унечский",
+    "district": {
+      "districtNumber": 78,
+      "oikTvd": "100100225883497"
+    }
   },
   {
     "uikNumber": 954,
     "uikTvd": "4324030357695",
     "tikTvd": "23220001386532",
-    "tikName": "Суражская"
+    "tikName": "Суражская",
+    "uikName": "УИК №954",
+    "regionCode": "32",
+    "regionTvd": "100100225883495",
+    "regionName": "Брянская область",
+    "oikTvd": "100100225883497",
+    "oikName": "Брянская область – Унечский",
+    "district": {
+      "districtNumber": 78,
+      "oikTvd": "100100225883497"
+    }
   },
   {
     "uikNumber": 955,
     "uikTvd": "4324030357696",
     "tikTvd": "23220001386532",
-    "tikName": "Суражская"
+    "tikName": "Суражская",
+    "uikName": "УИК №955",
+    "regionCode": "32",
+    "regionTvd": "100100225883495",
+    "regionName": "Брянская область",
+    "oikTvd": "100100225883497",
+    "oikName": "Брянская область – Унечский",
+    "district": {
+      "districtNumber": 78,
+      "oikTvd": "100100225883497"
+    }
   },
   {
     "uikNumber": 956,
     "uikTvd": "4324030357697",
     "tikTvd": "23220001386532",
-    "tikName": "Суражская"
+    "tikName": "Суражская",
+    "uikName": "УИК №956",
+    "regionCode": "32",
+    "regionTvd": "100100225883495",
+    "regionName": "Брянская область",
+    "oikTvd": "100100225883497",
+    "oikName": "Брянская область – Унечский",
+    "district": {
+      "districtNumber": 78,
+      "oikTvd": "100100225883497"
+    }
   },
   {
     "uikNumber": 957,
     "uikTvd": "4324030357698",
     "tikTvd": "23220001386532",
-    "tikName": "Суражская"
+    "tikName": "Суражская",
+    "uikName": "УИК №957",
+    "regionCode": "32",
+    "regionTvd": "100100225883495",
+    "regionName": "Брянская область",
+    "oikTvd": "100100225883497",
+    "oikName": "Брянская область – Унечский",
+    "district": {
+      "districtNumber": 78,
+      "oikTvd": "100100225883497"
+    }
   },
   {
     "uikNumber": 959,
     "uikTvd": "4324030357699",
     "tikTvd": "23220001386532",
-    "tikName": "Суражская"
+    "tikName": "Суражская",
+    "uikName": "УИК №959",
+    "regionCode": "32",
+    "regionTvd": "100100225883495",
+    "regionName": "Брянская область",
+    "oikTvd": "100100225883497",
+    "oikName": "Брянская область – Унечский",
+    "district": {
+      "districtNumber": 78,
+      "oikTvd": "100100225883497"
+    }
   },
   {
     "uikNumber": 960,
     "uikTvd": "4324030357700",
     "tikTvd": "23220001386532",
-    "tikName": "Суражская"
+    "tikName": "Суражская",
+    "uikName": "УИК №960",
+    "regionCode": "32",
+    "regionTvd": "100100225883495",
+    "regionName": "Брянская область",
+    "oikTvd": "100100225883497",
+    "oikName": "Брянская область – Унечский",
+    "district": {
+      "districtNumber": 78,
+      "oikTvd": "100100225883497"
+    }
   },
   {
     "uikNumber": 961,
     "uikTvd": "4324030357701",
     "tikTvd": "23220001386532",
-    "tikName": "Суражская"
+    "tikName": "Суражская",
+    "uikName": "УИК №961",
+    "regionCode": "32",
+    "regionTvd": "100100225883495",
+    "regionName": "Брянская область",
+    "oikTvd": "100100225883497",
+    "oikName": "Брянская область – Унечский",
+    "district": {
+      "districtNumber": 78,
+      "oikTvd": "100100225883497"
+    }
   },
   {
     "uikNumber": 963,
     "uikTvd": "4324030357702",
     "tikTvd": "23220001386532",
-    "tikName": "Суражская"
+    "tikName": "Суражская",
+    "uikName": "УИК №963",
+    "regionCode": "32",
+    "regionTvd": "100100225883495",
+    "regionName": "Брянская область",
+    "oikTvd": "100100225883497",
+    "oikName": "Брянская область – Унечский",
+    "district": {
+      "districtNumber": 78,
+      "oikTvd": "100100225883497"
+    }
   },
   {
     "uikNumber": 964,
     "uikTvd": "4324030357703",
     "tikTvd": "23220001386532",
-    "tikName": "Суражская"
+    "tikName": "Суражская",
+    "uikName": "УИК №964",
+    "regionCode": "32",
+    "regionTvd": "100100225883495",
+    "regionName": "Брянская область",
+    "oikTvd": "100100225883497",
+    "oikName": "Брянская область – Унечский",
+    "district": {
+      "districtNumber": 78,
+      "oikTvd": "100100225883497"
+    }
   },
   {
     "uikNumber": 965,
     "uikTvd": "4324030357704",
     "tikTvd": "23220001386532",
-    "tikName": "Суражская"
+    "tikName": "Суражская",
+    "uikName": "УИК №965",
+    "regionCode": "32",
+    "regionTvd": "100100225883495",
+    "regionName": "Брянская область",
+    "oikTvd": "100100225883497",
+    "oikName": "Брянская область – Унечский",
+    "district": {
+      "districtNumber": 78,
+      "oikTvd": "100100225883497"
+    }
   },
   {
     "uikNumber": 966,
     "uikTvd": "4324030357705",
     "tikTvd": "23220001386532",
-    "tikName": "Суражская"
+    "tikName": "Суражская",
+    "uikName": "УИК №966",
+    "regionCode": "32",
+    "regionTvd": "100100225883495",
+    "regionName": "Брянская область",
+    "oikTvd": "100100225883497",
+    "oikName": "Брянская область – Унечский",
+    "district": {
+      "districtNumber": 78,
+      "oikTvd": "100100225883497"
+    }
   },
   {
     "uikNumber": 967,
     "uikTvd": "4324030357706",
     "tikTvd": "23220001386532",
-    "tikName": "Суражская"
+    "tikName": "Суражская",
+    "uikName": "УИК №967",
+    "regionCode": "32",
+    "regionTvd": "100100225883495",
+    "regionName": "Брянская область",
+    "oikTvd": "100100225883497",
+    "oikName": "Брянская область – Унечский",
+    "district": {
+      "districtNumber": 78,
+      "oikTvd": "100100225883497"
+    }
   },
   {
     "uikNumber": 968,
     "uikTvd": "4324030357707",
     "tikTvd": "23220001386532",
-    "tikName": "Суражская"
+    "tikName": "Суражская",
+    "uikName": "УИК №968",
+    "regionCode": "32",
+    "regionTvd": "100100225883495",
+    "regionName": "Брянская область",
+    "oikTvd": "100100225883497",
+    "oikName": "Брянская область – Унечский",
+    "district": {
+      "districtNumber": 78,
+      "oikTvd": "100100225883497"
+    }
   },
   {
     "uikNumber": 970,
     "uikTvd": "4324030357708",
     "tikTvd": "23220001386532",
-    "tikName": "Суражская"
+    "tikName": "Суражская",
+    "uikName": "УИК №970",
+    "regionCode": "32",
+    "regionTvd": "100100225883495",
+    "regionName": "Брянская область",
+    "oikTvd": "100100225883497",
+    "oikName": "Брянская область – Унечский",
+    "district": {
+      "districtNumber": 78,
+      "oikTvd": "100100225883497"
+    }
   },
   {
     "uikNumber": 972,
     "uikTvd": "4324030357709",
     "tikTvd": "23220001386532",
-    "tikName": "Суражская"
+    "tikName": "Суражская",
+    "uikName": "УИК №972",
+    "regionCode": "32",
+    "regionTvd": "100100225883495",
+    "regionName": "Брянская область",
+    "oikTvd": "100100225883497",
+    "oikName": "Брянская область – Унечский",
+    "district": {
+      "districtNumber": 78,
+      "oikTvd": "100100225883497"
+    }
   },
   {
     "uikNumber": 973,
     "uikTvd": "4324030357710",
     "tikTvd": "23220001386532",
-    "tikName": "Суражская"
+    "tikName": "Суражская",
+    "uikName": "УИК №973",
+    "regionCode": "32",
+    "regionTvd": "100100225883495",
+    "regionName": "Брянская область",
+    "oikTvd": "100100225883497",
+    "oikName": "Брянская область – Унечский",
+    "district": {
+      "districtNumber": 78,
+      "oikTvd": "100100225883497"
+    }
   },
   {
     "uikNumber": 974,
     "uikTvd": "4324030357711",
     "tikTvd": "23220001386532",
-    "tikName": "Суражская"
+    "tikName": "Суражская",
+    "uikName": "УИК №974",
+    "regionCode": "32",
+    "regionTvd": "100100225883495",
+    "regionName": "Брянская область",
+    "oikTvd": "100100225883497",
+    "oikName": "Брянская область – Унечский",
+    "district": {
+      "districtNumber": 78,
+      "oikTvd": "100100225883497"
+    }
   },
   {
     "uikNumber": 975,
     "uikTvd": "4324030357712",
     "tikTvd": "23220001386532",
-    "tikName": "Суражская"
+    "tikName": "Суражская",
+    "uikName": "УИК №975",
+    "regionCode": "32",
+    "regionTvd": "100100225883495",
+    "regionName": "Брянская область",
+    "oikTvd": "100100225883497",
+    "oikName": "Брянская область – Унечский",
+    "district": {
+      "districtNumber": 78,
+      "oikTvd": "100100225883497"
+    }
   },
   {
     "uikNumber": 976,
     "uikTvd": "4324030357713",
     "tikTvd": "23220001386532",
-    "tikName": "Суражская"
+    "tikName": "Суражская",
+    "uikName": "УИК №976",
+    "regionCode": "32",
+    "regionTvd": "100100225883495",
+    "regionName": "Брянская область",
+    "oikTvd": "100100225883497",
+    "oikName": "Брянская область – Унечский",
+    "district": {
+      "districtNumber": 78,
+      "oikTvd": "100100225883497"
+    }
   },
   {
     "uikNumber": 977,
     "uikTvd": "4324030357714",
     "tikTvd": "23220001386532",
-    "tikName": "Суражская"
+    "tikName": "Суражская",
+    "uikName": "УИК №977",
+    "regionCode": "32",
+    "regionTvd": "100100225883495",
+    "regionName": "Брянская область",
+    "oikTvd": "100100225883497",
+    "oikName": "Брянская область – Унечский",
+    "district": {
+      "districtNumber": 78,
+      "oikTvd": "100100225883497"
+    }
   },
   {
     "uikNumber": 978,
     "uikTvd": "4324030357715",
     "tikTvd": "23220001386532",
-    "tikName": "Суражская"
+    "tikName": "Суражская",
+    "uikName": "УИК №978",
+    "regionCode": "32",
+    "regionTvd": "100100225883495",
+    "regionName": "Брянская область",
+    "oikTvd": "100100225883497",
+    "oikName": "Брянская область – Унечский",
+    "district": {
+      "districtNumber": 78,
+      "oikTvd": "100100225883497"
+    }
   },
   {
     "uikNumber": 979,
     "uikTvd": "4324030357716",
     "tikTvd": "23220001386532",
-    "tikName": "Суражская"
+    "tikName": "Суражская",
+    "uikName": "УИК №979",
+    "regionCode": "32",
+    "regionTvd": "100100225883495",
+    "regionName": "Брянская область",
+    "oikTvd": "100100225883497",
+    "oikName": "Брянская область – Унечский",
+    "district": {
+      "districtNumber": 78,
+      "oikTvd": "100100225883497"
+    }
   },
   {
     "uikNumber": 980,
     "uikTvd": "4324030357717",
     "tikTvd": "23220001386532",
-    "tikName": "Суражская"
+    "tikName": "Суражская",
+    "uikName": "УИК №980",
+    "regionCode": "32",
+    "regionTvd": "100100225883495",
+    "regionName": "Брянская область",
+    "oikTvd": "100100225883497",
+    "oikName": "Брянская область – Унечский",
+    "district": {
+      "districtNumber": 78,
+      "oikTvd": "100100225883497"
+    }
   },
   {
     "uikNumber": 981,
     "uikTvd": "4324030357718",
     "tikTvd": "23220001386532",
-    "tikName": "Суражская"
+    "tikName": "Суражская",
+    "uikName": "УИК №981",
+    "regionCode": "32",
+    "regionTvd": "100100225883495",
+    "regionName": "Брянская область",
+    "oikTvd": "100100225883497",
+    "oikName": "Брянская область – Унечский",
+    "district": {
+      "districtNumber": 78,
+      "oikTvd": "100100225883497"
+    }
   },
   {
     "uikNumber": 982,
     "uikTvd": "4324030357719",
     "tikTvd": "23220001386532",
-    "tikName": "Суражская"
+    "tikName": "Суражская",
+    "uikName": "УИК №982",
+    "regionCode": "32",
+    "regionTvd": "100100225883495",
+    "regionName": "Брянская область",
+    "oikTvd": "100100225883497",
+    "oikName": "Брянская область – Унечский",
+    "district": {
+      "districtNumber": 78,
+      "oikTvd": "100100225883497"
+    }
   },
   {
     "uikNumber": 983,
     "uikTvd": "4324030357720",
     "tikTvd": "23220001386532",
-    "tikName": "Суражская"
+    "tikName": "Суражская",
+    "uikName": "УИК №983",
+    "regionCode": "32",
+    "regionTvd": "100100225883495",
+    "regionName": "Брянская область",
+    "oikTvd": "100100225883497",
+    "oikName": "Брянская область – Унечский",
+    "district": {
+      "districtNumber": 78,
+      "oikTvd": "100100225883497"
+    }
   },
   {
     "uikNumber": 984,
     "uikTvd": "4324030357721",
     "tikTvd": "23220001386532",
-    "tikName": "Суражская"
+    "tikName": "Суражская",
+    "uikName": "УИК №984",
+    "regionCode": "32",
+    "regionTvd": "100100225883495",
+    "regionName": "Брянская область",
+    "oikTvd": "100100225883497",
+    "oikName": "Брянская область – Унечский",
+    "district": {
+      "districtNumber": 78,
+      "oikTvd": "100100225883497"
+    }
   },
   {
     "uikNumber": 985,
     "uikTvd": "4324031432301",
     "tikTvd": "23220001386515",
-    "tikName": "Трубчевская"
+    "tikName": "Трубчевская",
+    "uikName": "УИК №985",
+    "regionCode": "32",
+    "regionTvd": "100100225883495",
+    "regionName": "Брянская область",
+    "oikTvd": "100100225883496",
+    "oikName": "Брянская область – Брянский",
+    "district": {
+      "districtNumber": 77,
+      "oikTvd": "100100225883496"
+    }
   },
   {
     "uikNumber": 986,
     "uikTvd": "4324031432302",
     "tikTvd": "23220001386515",
-    "tikName": "Трубчевская"
+    "tikName": "Трубчевская",
+    "uikName": "УИК №986",
+    "regionCode": "32",
+    "regionTvd": "100100225883495",
+    "regionName": "Брянская область",
+    "oikTvd": "100100225883496",
+    "oikName": "Брянская область – Брянский",
+    "district": {
+      "districtNumber": 77,
+      "oikTvd": "100100225883496"
+    }
   },
   {
     "uikNumber": 987,
     "uikTvd": "4324031432303",
     "tikTvd": "23220001386515",
-    "tikName": "Трубчевская"
+    "tikName": "Трубчевская",
+    "uikName": "УИК №987",
+    "regionCode": "32",
+    "regionTvd": "100100225883495",
+    "regionName": "Брянская область",
+    "oikTvd": "100100225883496",
+    "oikName": "Брянская область – Брянский",
+    "district": {
+      "districtNumber": 77,
+      "oikTvd": "100100225883496"
+    }
   },
   {
     "uikNumber": 988,
     "uikTvd": "4324031432304",
     "tikTvd": "23220001386515",
-    "tikName": "Трубчевская"
+    "tikName": "Трубчевская",
+    "uikName": "УИК №988",
+    "regionCode": "32",
+    "regionTvd": "100100225883495",
+    "regionName": "Брянская область",
+    "oikTvd": "100100225883496",
+    "oikName": "Брянская область – Брянский",
+    "district": {
+      "districtNumber": 77,
+      "oikTvd": "100100225883496"
+    }
   },
   {
     "uikNumber": 989,
     "uikTvd": "4324031432305",
     "tikTvd": "23220001386515",
-    "tikName": "Трубчевская"
+    "tikName": "Трубчевская",
+    "uikName": "УИК №989",
+    "regionCode": "32",
+    "regionTvd": "100100225883495",
+    "regionName": "Брянская область",
+    "oikTvd": "100100225883496",
+    "oikName": "Брянская область – Брянский",
+    "district": {
+      "districtNumber": 77,
+      "oikTvd": "100100225883496"
+    }
   },
   {
     "uikNumber": 990,
     "uikTvd": "4324031432306",
     "tikTvd": "23220001386515",
-    "tikName": "Трубчевская"
+    "tikName": "Трубчевская",
+    "uikName": "УИК №990",
+    "regionCode": "32",
+    "regionTvd": "100100225883495",
+    "regionName": "Брянская область",
+    "oikTvd": "100100225883496",
+    "oikName": "Брянская область – Брянский",
+    "district": {
+      "districtNumber": 77,
+      "oikTvd": "100100225883496"
+    }
   },
   {
     "uikNumber": 991,
     "uikTvd": "4324031432307",
     "tikTvd": "23220001386515",
-    "tikName": "Трубчевская"
+    "tikName": "Трубчевская",
+    "uikName": "УИК №991",
+    "regionCode": "32",
+    "regionTvd": "100100225883495",
+    "regionName": "Брянская область",
+    "oikTvd": "100100225883496",
+    "oikName": "Брянская область – Брянский",
+    "district": {
+      "districtNumber": 77,
+      "oikTvd": "100100225883496"
+    }
   },
   {
     "uikNumber": 992,
     "uikTvd": "4324031432308",
     "tikTvd": "23220001386515",
-    "tikName": "Трубчевская"
+    "tikName": "Трубчевская",
+    "uikName": "УИК №992",
+    "regionCode": "32",
+    "regionTvd": "100100225883495",
+    "regionName": "Брянская область",
+    "oikTvd": "100100225883496",
+    "oikName": "Брянская область – Брянский",
+    "district": {
+      "districtNumber": 77,
+      "oikTvd": "100100225883496"
+    }
   },
   {
     "uikNumber": 993,
     "uikTvd": "4324031432309",
     "tikTvd": "23220001386515",
-    "tikName": "Трубчевская"
+    "tikName": "Трубчевская",
+    "uikName": "УИК №993",
+    "regionCode": "32",
+    "regionTvd": "100100225883495",
+    "regionName": "Брянская область",
+    "oikTvd": "100100225883496",
+    "oikName": "Брянская область – Брянский",
+    "district": {
+      "districtNumber": 77,
+      "oikTvd": "100100225883496"
+    }
   },
   {
     "uikNumber": 994,
     "uikTvd": "4324031432310",
     "tikTvd": "23220001386515",
-    "tikName": "Трубчевская"
+    "tikName": "Трубчевская",
+    "uikName": "УИК №994",
+    "regionCode": "32",
+    "regionTvd": "100100225883495",
+    "regionName": "Брянская область",
+    "oikTvd": "100100225883496",
+    "oikName": "Брянская область – Брянский",
+    "district": {
+      "districtNumber": 77,
+      "oikTvd": "100100225883496"
+    }
   },
   {
     "uikNumber": 995,
     "uikTvd": "4324031432311",
     "tikTvd": "23220001386515",
-    "tikName": "Трубчевская"
+    "tikName": "Трубчевская",
+    "uikName": "УИК №995",
+    "regionCode": "32",
+    "regionTvd": "100100225883495",
+    "regionName": "Брянская область",
+    "oikTvd": "100100225883496",
+    "oikName": "Брянская область – Брянский",
+    "district": {
+      "districtNumber": 77,
+      "oikTvd": "100100225883496"
+    }
   },
   {
     "uikNumber": 996,
     "uikTvd": "4324031432312",
     "tikTvd": "23220001386515",
-    "tikName": "Трубчевская"
+    "tikName": "Трубчевская",
+    "uikName": "УИК №996",
+    "regionCode": "32",
+    "regionTvd": "100100225883495",
+    "regionName": "Брянская область",
+    "oikTvd": "100100225883496",
+    "oikName": "Брянская область – Брянский",
+    "district": {
+      "districtNumber": 77,
+      "oikTvd": "100100225883496"
+    }
   },
   {
     "uikNumber": 997,
     "uikTvd": "4324031432313",
     "tikTvd": "23220001386515",
-    "tikName": "Трубчевская"
+    "tikName": "Трубчевская",
+    "uikName": "УИК №997",
+    "regionCode": "32",
+    "regionTvd": "100100225883495",
+    "regionName": "Брянская область",
+    "oikTvd": "100100225883496",
+    "oikName": "Брянская область – Брянский",
+    "district": {
+      "districtNumber": 77,
+      "oikTvd": "100100225883496"
+    }
   },
   {
     "uikNumber": 998,
     "uikTvd": "4324031432314",
     "tikTvd": "23220001386515",
-    "tikName": "Трубчевская"
+    "tikName": "Трубчевская",
+    "uikName": "УИК №998",
+    "regionCode": "32",
+    "regionTvd": "100100225883495",
+    "regionName": "Брянская область",
+    "oikTvd": "100100225883496",
+    "oikName": "Брянская область – Брянский",
+    "district": {
+      "districtNumber": 77,
+      "oikTvd": "100100225883496"
+    }
   },
   {
     "uikNumber": 999,
     "uikTvd": "4324031432315",
     "tikTvd": "23220001386515",
-    "tikName": "Трубчевская"
+    "tikName": "Трубчевская",
+    "uikName": "УИК №999",
+    "regionCode": "32",
+    "regionTvd": "100100225883495",
+    "regionName": "Брянская область",
+    "oikTvd": "100100225883496",
+    "oikName": "Брянская область – Брянский",
+    "district": {
+      "districtNumber": 77,
+      "oikTvd": "100100225883496"
+    }
   },
   {
     "uikNumber": 1000,
     "uikTvd": "4324031432316",
     "tikTvd": "23220001386515",
-    "tikName": "Трубчевская"
+    "tikName": "Трубчевская",
+    "uikName": "УИК №1000",
+    "regionCode": "32",
+    "regionTvd": "100100225883495",
+    "regionName": "Брянская область",
+    "oikTvd": "100100225883496",
+    "oikName": "Брянская область – Брянский",
+    "district": {
+      "districtNumber": 77,
+      "oikTvd": "100100225883496"
+    }
   },
   {
     "uikNumber": 1001,
     "uikTvd": "4324031432317",
     "tikTvd": "23220001386515",
-    "tikName": "Трубчевская"
+    "tikName": "Трубчевская",
+    "uikName": "УИК №1001",
+    "regionCode": "32",
+    "regionTvd": "100100225883495",
+    "regionName": "Брянская область",
+    "oikTvd": "100100225883496",
+    "oikName": "Брянская область – Брянский",
+    "district": {
+      "districtNumber": 77,
+      "oikTvd": "100100225883496"
+    }
   },
   {
     "uikNumber": 1002,
     "uikTvd": "4324031432318",
     "tikTvd": "23220001386515",
-    "tikName": "Трубчевская"
+    "tikName": "Трубчевская",
+    "uikName": "УИК №1002",
+    "regionCode": "32",
+    "regionTvd": "100100225883495",
+    "regionName": "Брянская область",
+    "oikTvd": "100100225883496",
+    "oikName": "Брянская область – Брянский",
+    "district": {
+      "districtNumber": 77,
+      "oikTvd": "100100225883496"
+    }
   },
   {
     "uikNumber": 1003,
     "uikTvd": "4324031432319",
     "tikTvd": "23220001386515",
-    "tikName": "Трубчевская"
+    "tikName": "Трубчевская",
+    "uikName": "УИК №1003",
+    "regionCode": "32",
+    "regionTvd": "100100225883495",
+    "regionName": "Брянская область",
+    "oikTvd": "100100225883496",
+    "oikName": "Брянская область – Брянский",
+    "district": {
+      "districtNumber": 77,
+      "oikTvd": "100100225883496"
+    }
   },
   {
     "uikNumber": 1004,
     "uikTvd": "4324031432320",
     "tikTvd": "23220001386515",
-    "tikName": "Трубчевская"
+    "tikName": "Трубчевская",
+    "uikName": "УИК №1004",
+    "regionCode": "32",
+    "regionTvd": "100100225883495",
+    "regionName": "Брянская область",
+    "oikTvd": "100100225883496",
+    "oikName": "Брянская область – Брянский",
+    "district": {
+      "districtNumber": 77,
+      "oikTvd": "100100225883496"
+    }
   },
   {
     "uikNumber": 1005,
     "uikTvd": "4324031432321",
     "tikTvd": "23220001386515",
-    "tikName": "Трубчевская"
+    "tikName": "Трубчевская",
+    "uikName": "УИК №1005",
+    "regionCode": "32",
+    "regionTvd": "100100225883495",
+    "regionName": "Брянская область",
+    "oikTvd": "100100225883496",
+    "oikName": "Брянская область – Брянский",
+    "district": {
+      "districtNumber": 77,
+      "oikTvd": "100100225883496"
+    }
   },
   {
     "uikNumber": 1006,
     "uikTvd": "4324031432322",
     "tikTvd": "23220001386515",
-    "tikName": "Трубчевская"
+    "tikName": "Трубчевская",
+    "uikName": "УИК №1006",
+    "regionCode": "32",
+    "regionTvd": "100100225883495",
+    "regionName": "Брянская область",
+    "oikTvd": "100100225883496",
+    "oikName": "Брянская область – Брянский",
+    "district": {
+      "districtNumber": 77,
+      "oikTvd": "100100225883496"
+    }
   },
   {
     "uikNumber": 1007,
     "uikTvd": "4324031432323",
     "tikTvd": "23220001386515",
-    "tikName": "Трубчевская"
+    "tikName": "Трубчевская",
+    "uikName": "УИК №1007",
+    "regionCode": "32",
+    "regionTvd": "100100225883495",
+    "regionName": "Брянская область",
+    "oikTvd": "100100225883496",
+    "oikName": "Брянская область – Брянский",
+    "district": {
+      "districtNumber": 77,
+      "oikTvd": "100100225883496"
+    }
   },
   {
     "uikNumber": 1008,
     "uikTvd": "4324031432324",
     "tikTvd": "23220001386515",
-    "tikName": "Трубчевская"
+    "tikName": "Трубчевская",
+    "uikName": "УИК №1008",
+    "regionCode": "32",
+    "regionTvd": "100100225883495",
+    "regionName": "Брянская область",
+    "oikTvd": "100100225883496",
+    "oikName": "Брянская область – Брянский",
+    "district": {
+      "districtNumber": 77,
+      "oikTvd": "100100225883496"
+    }
   },
   {
     "uikNumber": 1009,
     "uikTvd": "4324031432325",
     "tikTvd": "23220001386515",
-    "tikName": "Трубчевская"
+    "tikName": "Трубчевская",
+    "uikName": "УИК №1009",
+    "regionCode": "32",
+    "regionTvd": "100100225883495",
+    "regionName": "Брянская область",
+    "oikTvd": "100100225883496",
+    "oikName": "Брянская область – Брянский",
+    "district": {
+      "districtNumber": 77,
+      "oikTvd": "100100225883496"
+    }
   },
   {
     "uikNumber": 1010,
     "uikTvd": "4324031432326",
     "tikTvd": "23220001386515",
-    "tikName": "Трубчевская"
+    "tikName": "Трубчевская",
+    "uikName": "УИК №1010",
+    "regionCode": "32",
+    "regionTvd": "100100225883495",
+    "regionName": "Брянская область",
+    "oikTvd": "100100225883496",
+    "oikName": "Брянская область – Брянский",
+    "district": {
+      "districtNumber": 77,
+      "oikTvd": "100100225883496"
+    }
   },
   {
     "uikNumber": 1011,
     "uikTvd": "4324031432327",
     "tikTvd": "23220001386515",
-    "tikName": "Трубчевская"
+    "tikName": "Трубчевская",
+    "uikName": "УИК №1011",
+    "regionCode": "32",
+    "regionTvd": "100100225883495",
+    "regionName": "Брянская область",
+    "oikTvd": "100100225883496",
+    "oikName": "Брянская область – Брянский",
+    "district": {
+      "districtNumber": 77,
+      "oikTvd": "100100225883496"
+    }
   },
   {
     "uikNumber": 1012,
     "uikTvd": "4324031432328",
     "tikTvd": "23220001386515",
-    "tikName": "Трубчевская"
+    "tikName": "Трубчевская",
+    "uikName": "УИК №1012",
+    "regionCode": "32",
+    "regionTvd": "100100225883495",
+    "regionName": "Брянская область",
+    "oikTvd": "100100225883496",
+    "oikName": "Брянская область – Брянский",
+    "district": {
+      "districtNumber": 77,
+      "oikTvd": "100100225883496"
+    }
   },
   {
     "uikNumber": 1013,
     "uikTvd": "4324031432329",
     "tikTvd": "23220001386515",
-    "tikName": "Трубчевская"
+    "tikName": "Трубчевская",
+    "uikName": "УИК №1013",
+    "regionCode": "32",
+    "regionTvd": "100100225883495",
+    "regionName": "Брянская область",
+    "oikTvd": "100100225883496",
+    "oikName": "Брянская область – Брянский",
+    "district": {
+      "districtNumber": 77,
+      "oikTvd": "100100225883496"
+    }
   },
   {
     "uikNumber": 1014,
     "uikTvd": "4324031432330",
     "tikTvd": "23220001386515",
-    "tikName": "Трубчевская"
+    "tikName": "Трубчевская",
+    "uikName": "УИК №1014",
+    "regionCode": "32",
+    "regionTvd": "100100225883495",
+    "regionName": "Брянская область",
+    "oikTvd": "100100225883496",
+    "oikName": "Брянская область – Брянский",
+    "district": {
+      "districtNumber": 77,
+      "oikTvd": "100100225883496"
+    }
   },
   {
     "uikNumber": 1015,
     "uikTvd": "4324031432331",
     "tikTvd": "23220001386515",
-    "tikName": "Трубчевская"
+    "tikName": "Трубчевская",
+    "uikName": "УИК №1015",
+    "regionCode": "32",
+    "regionTvd": "100100225883495",
+    "regionName": "Брянская область",
+    "oikTvd": "100100225883496",
+    "oikName": "Брянская область – Брянский",
+    "district": {
+      "districtNumber": 77,
+      "oikTvd": "100100225883496"
+    }
   },
   {
     "uikNumber": 1016,
     "uikTvd": "4324031432332",
     "tikTvd": "23220001386515",
-    "tikName": "Трубчевская"
+    "tikName": "Трубчевская",
+    "uikName": "УИК №1016",
+    "regionCode": "32",
+    "regionTvd": "100100225883495",
+    "regionName": "Брянская область",
+    "oikTvd": "100100225883496",
+    "oikName": "Брянская область – Брянский",
+    "district": {
+      "districtNumber": 77,
+      "oikTvd": "100100225883496"
+    }
   },
   {
     "uikNumber": 1017,
     "uikTvd": "4324031432333",
     "tikTvd": "23220001386515",
-    "tikName": "Трубчевская"
+    "tikName": "Трубчевская",
+    "uikName": "УИК №1017",
+    "regionCode": "32",
+    "regionTvd": "100100225883495",
+    "regionName": "Брянская область",
+    "oikTvd": "100100225883496",
+    "oikName": "Брянская область – Брянский",
+    "district": {
+      "districtNumber": 77,
+      "oikTvd": "100100225883496"
+    }
   },
   {
     "uikNumber": 1018,
     "uikTvd": "4324031432334",
     "tikTvd": "23220001386515",
-    "tikName": "Трубчевская"
+    "tikName": "Трубчевская",
+    "uikName": "УИК №1018",
+    "regionCode": "32",
+    "regionTvd": "100100225883495",
+    "regionName": "Брянская область",
+    "oikTvd": "100100225883496",
+    "oikName": "Брянская область – Брянский",
+    "district": {
+      "districtNumber": 77,
+      "oikTvd": "100100225883496"
+    }
   },
   {
     "uikNumber": 1019,
     "uikTvd": "4324031432335",
     "tikTvd": "23220001386515",
-    "tikName": "Трубчевская"
+    "tikName": "Трубчевская",
+    "uikName": "УИК №1019",
+    "regionCode": "32",
+    "regionTvd": "100100225883495",
+    "regionName": "Брянская область",
+    "oikTvd": "100100225883496",
+    "oikName": "Брянская область – Брянский",
+    "district": {
+      "districtNumber": 77,
+      "oikTvd": "100100225883496"
+    }
   },
   {
     "uikNumber": 1020,
     "uikTvd": "4324031432336",
     "tikTvd": "23220001386515",
-    "tikName": "Трубчевская"
+    "tikName": "Трубчевская",
+    "uikName": "УИК №1020",
+    "regionCode": "32",
+    "regionTvd": "100100225883495",
+    "regionName": "Брянская область",
+    "oikTvd": "100100225883496",
+    "oikName": "Брянская область – Брянский",
+    "district": {
+      "districtNumber": 77,
+      "oikTvd": "100100225883496"
+    }
   },
   {
     "uikNumber": 1021,
     "uikTvd": "4324031432337",
     "tikTvd": "23220001386515",
-    "tikName": "Трубчевская"
+    "tikName": "Трубчевская",
+    "uikName": "УИК №1021",
+    "regionCode": "32",
+    "regionTvd": "100100225883495",
+    "regionName": "Брянская область",
+    "oikTvd": "100100225883496",
+    "oikName": "Брянская область – Брянский",
+    "district": {
+      "districtNumber": 77,
+      "oikTvd": "100100225883496"
+    }
   },
   {
     "uikNumber": 1023,
     "uikTvd": "4324031432338",
     "tikTvd": "23220001386515",
-    "tikName": "Трубчевская"
+    "tikName": "Трубчевская",
+    "uikName": "УИК №1023",
+    "regionCode": "32",
+    "regionTvd": "100100225883495",
+    "regionName": "Брянская область",
+    "oikTvd": "100100225883496",
+    "oikName": "Брянская область – Брянский",
+    "district": {
+      "districtNumber": 77,
+      "oikTvd": "100100225883496"
+    }
   },
   {
     "uikNumber": 1024,
     "uikTvd": "4324031432339",
     "tikTvd": "23220001386515",
-    "tikName": "Трубчевская"
+    "tikName": "Трубчевская",
+    "uikName": "УИК №1024",
+    "regionCode": "32",
+    "regionTvd": "100100225883495",
+    "regionName": "Брянская область",
+    "oikTvd": "100100225883496",
+    "oikName": "Брянская область – Брянский",
+    "district": {
+      "districtNumber": 77,
+      "oikTvd": "100100225883496"
+    }
   },
   {
     "uikNumber": 1025,
     "uikTvd": "4324031432340",
     "tikTvd": "23220001386515",
-    "tikName": "Трубчевская"
+    "tikName": "Трубчевская",
+    "uikName": "УИК №1025",
+    "regionCode": "32",
+    "regionTvd": "100100225883495",
+    "regionName": "Брянская область",
+    "oikTvd": "100100225883496",
+    "oikName": "Брянская область – Брянский",
+    "district": {
+      "districtNumber": 77,
+      "oikTvd": "100100225883496"
+    }
   },
   {
     "uikNumber": 1026,
     "uikTvd": "4324031432341",
     "tikTvd": "23220001386515",
-    "tikName": "Трубчевская"
+    "tikName": "Трубчевская",
+    "uikName": "УИК №1026",
+    "regionCode": "32",
+    "regionTvd": "100100225883495",
+    "regionName": "Брянская область",
+    "oikTvd": "100100225883496",
+    "oikName": "Брянская область – Брянский",
+    "district": {
+      "districtNumber": 77,
+      "oikTvd": "100100225883496"
+    }
   },
   {
     "uikNumber": 1027,
     "uikTvd": "4324031432342",
     "tikTvd": "23220001386515",
-    "tikName": "Трубчевская"
+    "tikName": "Трубчевская",
+    "uikName": "УИК №1027",
+    "regionCode": "32",
+    "regionTvd": "100100225883495",
+    "regionName": "Брянская область",
+    "oikTvd": "100100225883496",
+    "oikName": "Брянская область – Брянский",
+    "district": {
+      "districtNumber": 77,
+      "oikTvd": "100100225883496"
+    }
   },
   {
     "uikNumber": 1028,
     "uikTvd": "4324031432343",
     "tikTvd": "23220001386515",
-    "tikName": "Трубчевская"
+    "tikName": "Трубчевская",
+    "uikName": "УИК №1028",
+    "regionCode": "32",
+    "regionTvd": "100100225883495",
+    "regionName": "Брянская область",
+    "oikTvd": "100100225883496",
+    "oikName": "Брянская область – Брянский",
+    "district": {
+      "districtNumber": 77,
+      "oikTvd": "100100225883496"
+    }
   },
   {
     "uikNumber": 1029,
     "uikTvd": "4324031432344",
     "tikTvd": "23220001386515",
-    "tikName": "Трубчевская"
+    "tikName": "Трубчевская",
+    "uikName": "УИК №1029",
+    "regionCode": "32",
+    "regionTvd": "100100225883495",
+    "regionName": "Брянская область",
+    "oikTvd": "100100225883496",
+    "oikName": "Брянская область – Брянский",
+    "district": {
+      "districtNumber": 77,
+      "oikTvd": "100100225883496"
+    }
   },
   {
     "uikNumber": 1030,
     "uikTvd": "4324031432345",
     "tikTvd": "23220001386515",
-    "tikName": "Трубчевская"
+    "tikName": "Трубчевская",
+    "uikName": "УИК №1030",
+    "regionCode": "32",
+    "regionTvd": "100100225883495",
+    "regionName": "Брянская область",
+    "oikTvd": "100100225883496",
+    "oikName": "Брянская область – Брянский",
+    "district": {
+      "districtNumber": 77,
+      "oikTvd": "100100225883496"
+    }
   },
   {
     "uikNumber": 1031,
     "uikTvd": "4324032374716",
     "tikTvd": "23220001386533",
-    "tikName": "Унечская"
+    "tikName": "Унечская",
+    "uikName": "УИК №1031",
+    "regionCode": "32",
+    "regionTvd": "100100225883495",
+    "regionName": "Брянская область",
+    "oikTvd": "100100225883497",
+    "oikName": "Брянская область – Унечский",
+    "district": {
+      "districtNumber": 78,
+      "oikTvd": "100100225883497"
+    }
   },
   {
     "uikNumber": 1032,
     "uikTvd": "4324032374717",
     "tikTvd": "23220001386533",
-    "tikName": "Унечская"
+    "tikName": "Унечская",
+    "uikName": "УИК №1032",
+    "regionCode": "32",
+    "regionTvd": "100100225883495",
+    "regionName": "Брянская область",
+    "oikTvd": "100100225883497",
+    "oikName": "Брянская область – Унечский",
+    "district": {
+      "districtNumber": 78,
+      "oikTvd": "100100225883497"
+    }
   },
   {
     "uikNumber": 1033,
     "uikTvd": "4324032374718",
     "tikTvd": "23220001386533",
-    "tikName": "Унечская"
+    "tikName": "Унечская",
+    "uikName": "УИК №1033",
+    "regionCode": "32",
+    "regionTvd": "100100225883495",
+    "regionName": "Брянская область",
+    "oikTvd": "100100225883497",
+    "oikName": "Брянская область – Унечский",
+    "district": {
+      "districtNumber": 78,
+      "oikTvd": "100100225883497"
+    }
   },
   {
     "uikNumber": 1034,
     "uikTvd": "4324032374719",
     "tikTvd": "23220001386533",
-    "tikName": "Унечская"
+    "tikName": "Унечская",
+    "uikName": "УИК №1034",
+    "regionCode": "32",
+    "regionTvd": "100100225883495",
+    "regionName": "Брянская область",
+    "oikTvd": "100100225883497",
+    "oikName": "Брянская область – Унечский",
+    "district": {
+      "districtNumber": 78,
+      "oikTvd": "100100225883497"
+    }
   },
   {
     "uikNumber": 1035,
     "uikTvd": "4324032374720",
     "tikTvd": "23220001386533",
-    "tikName": "Унечская"
+    "tikName": "Унечская",
+    "uikName": "УИК №1035",
+    "regionCode": "32",
+    "regionTvd": "100100225883495",
+    "regionName": "Брянская область",
+    "oikTvd": "100100225883497",
+    "oikName": "Брянская область – Унечский",
+    "district": {
+      "districtNumber": 78,
+      "oikTvd": "100100225883497"
+    }
   },
   {
     "uikNumber": 1036,
     "uikTvd": "4324032374721",
     "tikTvd": "23220001386533",
-    "tikName": "Унечская"
+    "tikName": "Унечская",
+    "uikName": "УИК №1036",
+    "regionCode": "32",
+    "regionTvd": "100100225883495",
+    "regionName": "Брянская область",
+    "oikTvd": "100100225883497",
+    "oikName": "Брянская область – Унечский",
+    "district": {
+      "districtNumber": 78,
+      "oikTvd": "100100225883497"
+    }
   },
   {
     "uikNumber": 1037,
     "uikTvd": "4324032374722",
     "tikTvd": "23220001386533",
-    "tikName": "Унечская"
+    "tikName": "Унечская",
+    "uikName": "УИК №1037",
+    "regionCode": "32",
+    "regionTvd": "100100225883495",
+    "regionName": "Брянская область",
+    "oikTvd": "100100225883497",
+    "oikName": "Брянская область – Унечский",
+    "district": {
+      "districtNumber": 78,
+      "oikTvd": "100100225883497"
+    }
   },
   {
     "uikNumber": 1038,
     "uikTvd": "4324032374723",
     "tikTvd": "23220001386533",
-    "tikName": "Унечская"
+    "tikName": "Унечская",
+    "uikName": "УИК №1038",
+    "regionCode": "32",
+    "regionTvd": "100100225883495",
+    "regionName": "Брянская область",
+    "oikTvd": "100100225883497",
+    "oikName": "Брянская область – Унечский",
+    "district": {
+      "districtNumber": 78,
+      "oikTvd": "100100225883497"
+    }
   },
   {
     "uikNumber": 1039,
     "uikTvd": "4324032374724",
     "tikTvd": "23220001386533",
-    "tikName": "Унечская"
+    "tikName": "Унечская",
+    "uikName": "УИК №1039",
+    "regionCode": "32",
+    "regionTvd": "100100225883495",
+    "regionName": "Брянская область",
+    "oikTvd": "100100225883497",
+    "oikName": "Брянская область – Унечский",
+    "district": {
+      "districtNumber": 78,
+      "oikTvd": "100100225883497"
+    }
   },
   {
     "uikNumber": 1040,
     "uikTvd": "4324032374725",
     "tikTvd": "23220001386533",
-    "tikName": "Унечская"
+    "tikName": "Унечская",
+    "uikName": "УИК №1040",
+    "regionCode": "32",
+    "regionTvd": "100100225883495",
+    "regionName": "Брянская область",
+    "oikTvd": "100100225883497",
+    "oikName": "Брянская область – Унечский",
+    "district": {
+      "districtNumber": 78,
+      "oikTvd": "100100225883497"
+    }
   },
   {
     "uikNumber": 1041,
     "uikTvd": "4324032374726",
     "tikTvd": "23220001386533",
-    "tikName": "Унечская"
+    "tikName": "Унечская",
+    "uikName": "УИК №1041",
+    "regionCode": "32",
+    "regionTvd": "100100225883495",
+    "regionName": "Брянская область",
+    "oikTvd": "100100225883497",
+    "oikName": "Брянская область – Унечский",
+    "district": {
+      "districtNumber": 78,
+      "oikTvd": "100100225883497"
+    }
   },
   {
     "uikNumber": 1042,
     "uikTvd": "4324032374727",
     "tikTvd": "23220001386533",
-    "tikName": "Унечская"
+    "tikName": "Унечская",
+    "uikName": "УИК №1042",
+    "regionCode": "32",
+    "regionTvd": "100100225883495",
+    "regionName": "Брянская область",
+    "oikTvd": "100100225883497",
+    "oikName": "Брянская область – Унечский",
+    "district": {
+      "districtNumber": 78,
+      "oikTvd": "100100225883497"
+    }
   },
   {
     "uikNumber": 1043,
     "uikTvd": "4324032374728",
     "tikTvd": "23220001386533",
-    "tikName": "Унечская"
+    "tikName": "Унечская",
+    "uikName": "УИК №1043",
+    "regionCode": "32",
+    "regionTvd": "100100225883495",
+    "regionName": "Брянская область",
+    "oikTvd": "100100225883497",
+    "oikName": "Брянская область – Унечский",
+    "district": {
+      "districtNumber": 78,
+      "oikTvd": "100100225883497"
+    }
   },
   {
     "uikNumber": 1044,
     "uikTvd": "4324032374729",
     "tikTvd": "23220001386533",
-    "tikName": "Унечская"
+    "tikName": "Унечская",
+    "uikName": "УИК №1044",
+    "regionCode": "32",
+    "regionTvd": "100100225883495",
+    "regionName": "Брянская область",
+    "oikTvd": "100100225883497",
+    "oikName": "Брянская область – Унечский",
+    "district": {
+      "districtNumber": 78,
+      "oikTvd": "100100225883497"
+    }
   },
   {
     "uikNumber": 1045,
     "uikTvd": "4324032374730",
     "tikTvd": "23220001386533",
-    "tikName": "Унечская"
+    "tikName": "Унечская",
+    "uikName": "УИК №1045",
+    "regionCode": "32",
+    "regionTvd": "100100225883495",
+    "regionName": "Брянская область",
+    "oikTvd": "100100225883497",
+    "oikName": "Брянская область – Унечский",
+    "district": {
+      "districtNumber": 78,
+      "oikTvd": "100100225883497"
+    }
   },
   {
     "uikNumber": 1047,
     "uikTvd": "4324032374731",
     "tikTvd": "23220001386533",
-    "tikName": "Унечская"
+    "tikName": "Унечская",
+    "uikName": "УИК №1047",
+    "regionCode": "32",
+    "regionTvd": "100100225883495",
+    "regionName": "Брянская область",
+    "oikTvd": "100100225883497",
+    "oikName": "Брянская область – Унечский",
+    "district": {
+      "districtNumber": 78,
+      "oikTvd": "100100225883497"
+    }
   },
   {
     "uikNumber": 1048,
     "uikTvd": "4324032374732",
     "tikTvd": "23220001386533",
-    "tikName": "Унечская"
+    "tikName": "Унечская",
+    "uikName": "УИК №1048",
+    "regionCode": "32",
+    "regionTvd": "100100225883495",
+    "regionName": "Брянская область",
+    "oikTvd": "100100225883497",
+    "oikName": "Брянская область – Унечский",
+    "district": {
+      "districtNumber": 78,
+      "oikTvd": "100100225883497"
+    }
   },
   {
     "uikNumber": 1049,
     "uikTvd": "4324032374733",
     "tikTvd": "23220001386533",
-    "tikName": "Унечская"
+    "tikName": "Унечская",
+    "uikName": "УИК №1049",
+    "regionCode": "32",
+    "regionTvd": "100100225883495",
+    "regionName": "Брянская область",
+    "oikTvd": "100100225883497",
+    "oikName": "Брянская область – Унечский",
+    "district": {
+      "districtNumber": 78,
+      "oikTvd": "100100225883497"
+    }
   },
   {
     "uikNumber": 1050,
     "uikTvd": "4324032374734",
     "tikTvd": "23220001386533",
-    "tikName": "Унечская"
+    "tikName": "Унечская",
+    "uikName": "УИК №1050",
+    "regionCode": "32",
+    "regionTvd": "100100225883495",
+    "regionName": "Брянская область",
+    "oikTvd": "100100225883497",
+    "oikName": "Брянская область – Унечский",
+    "district": {
+      "districtNumber": 78,
+      "oikTvd": "100100225883497"
+    }
   },
   {
     "uikNumber": 1051,
     "uikTvd": "4324032374735",
     "tikTvd": "23220001386533",
-    "tikName": "Унечская"
+    "tikName": "Унечская",
+    "uikName": "УИК №1051",
+    "regionCode": "32",
+    "regionTvd": "100100225883495",
+    "regionName": "Брянская область",
+    "oikTvd": "100100225883497",
+    "oikName": "Брянская область – Унечский",
+    "district": {
+      "districtNumber": 78,
+      "oikTvd": "100100225883497"
+    }
   },
   {
     "uikNumber": 1052,
     "uikTvd": "4324032374736",
     "tikTvd": "23220001386533",
-    "tikName": "Унечская"
+    "tikName": "Унечская",
+    "uikName": "УИК №1052",
+    "regionCode": "32",
+    "regionTvd": "100100225883495",
+    "regionName": "Брянская область",
+    "oikTvd": "100100225883497",
+    "oikName": "Брянская область – Унечский",
+    "district": {
+      "districtNumber": 78,
+      "oikTvd": "100100225883497"
+    }
   },
   {
     "uikNumber": 1053,
     "uikTvd": "4324032374737",
     "tikTvd": "23220001386533",
-    "tikName": "Унечская"
+    "tikName": "Унечская",
+    "uikName": "УИК №1053",
+    "regionCode": "32",
+    "regionTvd": "100100225883495",
+    "regionName": "Брянская область",
+    "oikTvd": "100100225883497",
+    "oikName": "Брянская область – Унечский",
+    "district": {
+      "districtNumber": 78,
+      "oikTvd": "100100225883497"
+    }
   },
   {
     "uikNumber": 1054,
     "uikTvd": "4324032374738",
     "tikTvd": "23220001386533",
-    "tikName": "Унечская"
+    "tikName": "Унечская",
+    "uikName": "УИК №1054",
+    "regionCode": "32",
+    "regionTvd": "100100225883495",
+    "regionName": "Брянская область",
+    "oikTvd": "100100225883497",
+    "oikName": "Брянская область – Унечский",
+    "district": {
+      "districtNumber": 78,
+      "oikTvd": "100100225883497"
+    }
   },
   {
     "uikNumber": 1055,
     "uikTvd": "4324032374739",
     "tikTvd": "23220001386533",
-    "tikName": "Унечская"
+    "tikName": "Унечская",
+    "uikName": "УИК №1055",
+    "regionCode": "32",
+    "regionTvd": "100100225883495",
+    "regionName": "Брянская область",
+    "oikTvd": "100100225883497",
+    "oikName": "Брянская область – Унечский",
+    "district": {
+      "districtNumber": 78,
+      "oikTvd": "100100225883497"
+    }
   },
   {
     "uikNumber": 1056,
     "uikTvd": "4324032374740",
     "tikTvd": "23220001386533",
-    "tikName": "Унечская"
+    "tikName": "Унечская",
+    "uikName": "УИК №1056",
+    "regionCode": "32",
+    "regionTvd": "100100225883495",
+    "regionName": "Брянская область",
+    "oikTvd": "100100225883497",
+    "oikName": "Брянская область – Унечский",
+    "district": {
+      "districtNumber": 78,
+      "oikTvd": "100100225883497"
+    }
   },
   {
     "uikNumber": 1057,
     "uikTvd": "4324032374741",
     "tikTvd": "23220001386533",
-    "tikName": "Унечская"
+    "tikName": "Унечская",
+    "uikName": "УИК №1057",
+    "regionCode": "32",
+    "regionTvd": "100100225883495",
+    "regionName": "Брянская область",
+    "oikTvd": "100100225883497",
+    "oikName": "Брянская область – Унечский",
+    "district": {
+      "districtNumber": 78,
+      "oikTvd": "100100225883497"
+    }
   },
   {
     "uikNumber": 1058,
     "uikTvd": "4324032374742",
     "tikTvd": "23220001386533",
-    "tikName": "Унечская"
+    "tikName": "Унечская",
+    "uikName": "УИК №1058",
+    "regionCode": "32",
+    "regionTvd": "100100225883495",
+    "regionName": "Брянская область",
+    "oikTvd": "100100225883497",
+    "oikName": "Брянская область – Унечский",
+    "district": {
+      "districtNumber": 78,
+      "oikTvd": "100100225883497"
+    }
   },
   {
     "uikNumber": 1059,
     "uikTvd": "4324032374743",
     "tikTvd": "23220001386533",
-    "tikName": "Унечская"
+    "tikName": "Унечская",
+    "uikName": "УИК №1059",
+    "regionCode": "32",
+    "regionTvd": "100100225883495",
+    "regionName": "Брянская область",
+    "oikTvd": "100100225883497",
+    "oikName": "Брянская область – Унечский",
+    "district": {
+      "districtNumber": 78,
+      "oikTvd": "100100225883497"
+    }
   },
   {
     "uikNumber": 1060,
     "uikTvd": "4324032374744",
     "tikTvd": "23220001386533",
-    "tikName": "Унечская"
+    "tikName": "Унечская",
+    "uikName": "УИК №1060",
+    "regionCode": "32",
+    "regionTvd": "100100225883495",
+    "regionName": "Брянская область",
+    "oikTvd": "100100225883497",
+    "oikName": "Брянская область – Унечский",
+    "district": {
+      "districtNumber": 78,
+      "oikTvd": "100100225883497"
+    }
   },
   {
     "uikNumber": 1061,
     "uikTvd": "4324032374745",
     "tikTvd": "23220001386533",
-    "tikName": "Унечская"
+    "tikName": "Унечская",
+    "uikName": "УИК №1061",
+    "regionCode": "32",
+    "regionTvd": "100100225883495",
+    "regionName": "Брянская область",
+    "oikTvd": "100100225883497",
+    "oikName": "Брянская область – Унечский",
+    "district": {
+      "districtNumber": 78,
+      "oikTvd": "100100225883497"
+    }
   },
   {
     "uikNumber": 1062,
     "uikTvd": "4324032374746",
     "tikTvd": "23220001386533",
-    "tikName": "Унечская"
+    "tikName": "Унечская",
+    "uikName": "УИК №1062",
+    "regionCode": "32",
+    "regionTvd": "100100225883495",
+    "regionName": "Брянская область",
+    "oikTvd": "100100225883497",
+    "oikName": "Брянская область – Унечский",
+    "district": {
+      "districtNumber": 78,
+      "oikTvd": "100100225883497"
+    }
   },
   {
     "uikNumber": 1063,
     "uikTvd": "4324032374747",
     "tikTvd": "23220001386533",
-    "tikName": "Унечская"
+    "tikName": "Унечская",
+    "uikName": "УИК №1063",
+    "regionCode": "32",
+    "regionTvd": "100100225883495",
+    "regionName": "Брянская область",
+    "oikTvd": "100100225883497",
+    "oikName": "Брянская область – Унечский",
+    "district": {
+      "districtNumber": 78,
+      "oikTvd": "100100225883497"
+    }
   },
   {
     "uikNumber": 1064,
     "uikTvd": "4324032374748",
     "tikTvd": "23220001386533",
-    "tikName": "Унечская"
+    "tikName": "Унечская",
+    "uikName": "УИК №1064",
+    "regionCode": "32",
+    "regionTvd": "100100225883495",
+    "regionName": "Брянская область",
+    "oikTvd": "100100225883497",
+    "oikName": "Брянская область – Унечский",
+    "district": {
+      "districtNumber": 78,
+      "oikTvd": "100100225883497"
+    }
   },
   {
     "uikNumber": 1065,
     "uikTvd": "4324032374749",
     "tikTvd": "23220001386533",
-    "tikName": "Унечская"
+    "tikName": "Унечская",
+    "uikName": "УИК №1065",
+    "regionCode": "32",
+    "regionTvd": "100100225883495",
+    "regionName": "Брянская область",
+    "oikTvd": "100100225883497",
+    "oikName": "Брянская область – Унечский",
+    "district": {
+      "districtNumber": 78,
+      "oikTvd": "100100225883497"
+    }
   },
   {
     "uikNumber": 1066,
     "uikTvd": "4324032374750",
     "tikTvd": "23220001386533",
-    "tikName": "Унечская"
+    "tikName": "Унечская",
+    "uikName": "УИК №1066",
+    "regionCode": "32",
+    "regionTvd": "100100225883495",
+    "regionName": "Брянская область",
+    "oikTvd": "100100225883497",
+    "oikName": "Брянская область – Унечский",
+    "district": {
+      "districtNumber": 78,
+      "oikTvd": "100100225883497"
+    }
   },
   {
     "uikNumber": 1067,
     "uikTvd": "4324032374751",
     "tikTvd": "23220001386533",
-    "tikName": "Унечская"
+    "tikName": "Унечская",
+    "uikName": "УИК №1067",
+    "regionCode": "32",
+    "regionTvd": "100100225883495",
+    "regionName": "Брянская область",
+    "oikTvd": "100100225883497",
+    "oikName": "Брянская область – Унечский",
+    "district": {
+      "districtNumber": 78,
+      "oikTvd": "100100225883497"
+    }
   },
   {
     "uikNumber": 1068,
     "uikTvd": "4324032374752",
     "tikTvd": "23220001386533",
-    "tikName": "Унечская"
+    "tikName": "Унечская",
+    "uikName": "УИК №1068",
+    "regionCode": "32",
+    "regionTvd": "100100225883495",
+    "regionName": "Брянская область",
+    "oikTvd": "100100225883497",
+    "oikName": "Брянская область – Унечский",
+    "district": {
+      "districtNumber": 78,
+      "oikTvd": "100100225883497"
+    }
   },
   {
     "uikNumber": 1069,
     "uikTvd": "4324032374753",
     "tikTvd": "23220001386533",
-    "tikName": "Унечская"
+    "tikName": "Унечская",
+    "uikName": "УИК №1069",
+    "regionCode": "32",
+    "regionTvd": "100100225883495",
+    "regionName": "Брянская область",
+    "oikTvd": "100100225883497",
+    "oikName": "Брянская область – Унечский",
+    "district": {
+      "districtNumber": 78,
+      "oikTvd": "100100225883497"
+    }
   },
   {
     "uikNumber": 1070,
     "uikTvd": "4324033517550",
     "tikTvd": "23220001386526",
-    "tikName": "Клинцовская"
+    "tikName": "Клинцовская",
+    "uikName": "УИК №1070",
+    "regionCode": "32",
+    "regionTvd": "100100225883495",
+    "regionName": "Брянская область",
+    "oikTvd": "100100225883497",
+    "oikName": "Брянская область – Унечский",
+    "district": {
+      "districtNumber": 78,
+      "oikTvd": "100100225883497"
+    }
   },
   {
     "uikNumber": 1071,
     "uikTvd": "4324033517551",
     "tikTvd": "23220001386526",
-    "tikName": "Клинцовская"
+    "tikName": "Клинцовская",
+    "uikName": "УИК №1071",
+    "regionCode": "32",
+    "regionTvd": "100100225883495",
+    "regionName": "Брянская область",
+    "oikTvd": "100100225883497",
+    "oikName": "Брянская область – Унечский",
+    "district": {
+      "districtNumber": 78,
+      "oikTvd": "100100225883497"
+    }
   },
   {
     "uikNumber": 1072,
     "uikTvd": "4324033517552",
     "tikTvd": "23220001386526",
-    "tikName": "Клинцовская"
+    "tikName": "Клинцовская",
+    "uikName": "УИК №1072",
+    "regionCode": "32",
+    "regionTvd": "100100225883495",
+    "regionName": "Брянская область",
+    "oikTvd": "100100225883497",
+    "oikName": "Брянская область – Унечский",
+    "district": {
+      "districtNumber": 78,
+      "oikTvd": "100100225883497"
+    }
   },
   {
     "uikNumber": 1073,
     "uikTvd": "4324033517553",
     "tikTvd": "23220001386526",
-    "tikName": "Клинцовская"
+    "tikName": "Клинцовская",
+    "uikName": "УИК №1073",
+    "regionCode": "32",
+    "regionTvd": "100100225883495",
+    "regionName": "Брянская область",
+    "oikTvd": "100100225883497",
+    "oikName": "Брянская область – Унечский",
+    "district": {
+      "districtNumber": 78,
+      "oikTvd": "100100225883497"
+    }
   },
   {
     "uikNumber": 1074,
     "uikTvd": "4324033517554",
     "tikTvd": "23220001386526",
-    "tikName": "Клинцовская"
+    "tikName": "Клинцовская",
+    "uikName": "УИК №1074",
+    "regionCode": "32",
+    "regionTvd": "100100225883495",
+    "regionName": "Брянская область",
+    "oikTvd": "100100225883497",
+    "oikName": "Брянская область – Унечский",
+    "district": {
+      "districtNumber": 78,
+      "oikTvd": "100100225883497"
+    }
   },
   {
     "uikNumber": 1075,
     "uikTvd": "4324033517555",
     "tikTvd": "23220001386526",
-    "tikName": "Клинцовская"
+    "tikName": "Клинцовская",
+    "uikName": "УИК №1075",
+    "regionCode": "32",
+    "regionTvd": "100100225883495",
+    "regionName": "Брянская область",
+    "oikTvd": "100100225883497",
+    "oikName": "Брянская область – Унечский",
+    "district": {
+      "districtNumber": 78,
+      "oikTvd": "100100225883497"
+    }
   },
   {
     "uikNumber": 1076,
     "uikTvd": "4324033517556",
     "tikTvd": "23220001386526",
-    "tikName": "Клинцовская"
+    "tikName": "Клинцовская",
+    "uikName": "УИК №1076",
+    "regionCode": "32",
+    "regionTvd": "100100225883495",
+    "regionName": "Брянская область",
+    "oikTvd": "100100225883497",
+    "oikName": "Брянская область – Унечский",
+    "district": {
+      "districtNumber": 78,
+      "oikTvd": "100100225883497"
+    }
   },
   {
     "uikNumber": 1077,
     "uikTvd": "4324033517557",
     "tikTvd": "23220001386526",
-    "tikName": "Клинцовская"
+    "tikName": "Клинцовская",
+    "uikName": "УИК №1077",
+    "regionCode": "32",
+    "regionTvd": "100100225883495",
+    "regionName": "Брянская область",
+    "oikTvd": "100100225883497",
+    "oikName": "Брянская область – Унечский",
+    "district": {
+      "districtNumber": 78,
+      "oikTvd": "100100225883497"
+    }
   },
   {
     "uikNumber": 1078,
     "uikTvd": "4324033517558",
     "tikTvd": "23220001386526",
-    "tikName": "Клинцовская"
+    "tikName": "Клинцовская",
+    "uikName": "УИК №1078",
+    "regionCode": "32",
+    "regionTvd": "100100225883495",
+    "regionName": "Брянская область",
+    "oikTvd": "100100225883497",
+    "oikName": "Брянская область – Унечский",
+    "district": {
+      "districtNumber": 78,
+      "oikTvd": "100100225883497"
+    }
   },
   {
     "uikNumber": 1079,
     "uikTvd": "4324033517559",
     "tikTvd": "23220001386526",
-    "tikName": "Клинцовская"
+    "tikName": "Клинцовская",
+    "uikName": "УИК №1079",
+    "regionCode": "32",
+    "regionTvd": "100100225883495",
+    "regionName": "Брянская область",
+    "oikTvd": "100100225883497",
+    "oikName": "Брянская область – Унечский",
+    "district": {
+      "districtNumber": 78,
+      "oikTvd": "100100225883497"
+    }
   },
   {
     "uikNumber": 1080,
     "uikTvd": "4324033517560",
     "tikTvd": "23220001386526",
-    "tikName": "Клинцовская"
+    "tikName": "Клинцовская",
+    "uikName": "УИК №1080",
+    "regionCode": "32",
+    "regionTvd": "100100225883495",
+    "regionName": "Брянская область",
+    "oikTvd": "100100225883497",
+    "oikName": "Брянская область – Унечский",
+    "district": {
+      "districtNumber": 78,
+      "oikTvd": "100100225883497"
+    }
   },
   {
     "uikNumber": 1081,
     "uikTvd": "4324033517561",
     "tikTvd": "23220001386526",
-    "tikName": "Клинцовская"
+    "tikName": "Клинцовская",
+    "uikName": "УИК №1081",
+    "regionCode": "32",
+    "regionTvd": "100100225883495",
+    "regionName": "Брянская область",
+    "oikTvd": "100100225883497",
+    "oikName": "Брянская область – Унечский",
+    "district": {
+      "districtNumber": 78,
+      "oikTvd": "100100225883497"
+    }
   },
   {
     "uikNumber": 1082,
     "uikTvd": "4324033517562",
     "tikTvd": "23220001386526",
-    "tikName": "Клинцовская"
+    "tikName": "Клинцовская",
+    "uikName": "УИК №1082",
+    "regionCode": "32",
+    "regionTvd": "100100225883495",
+    "regionName": "Брянская область",
+    "oikTvd": "100100225883497",
+    "oikName": "Брянская область – Унечский",
+    "district": {
+      "districtNumber": 78,
+      "oikTvd": "100100225883497"
+    }
   },
   {
     "uikNumber": 1083,
     "uikTvd": "4324033517563",
     "tikTvd": "23220001386526",
-    "tikName": "Клинцовская"
+    "tikName": "Клинцовская",
+    "uikName": "УИК №1083",
+    "regionCode": "32",
+    "regionTvd": "100100225883495",
+    "regionName": "Брянская область",
+    "oikTvd": "100100225883497",
+    "oikName": "Брянская область – Унечский",
+    "district": {
+      "districtNumber": 78,
+      "oikTvd": "100100225883497"
+    }
   },
   {
     "uikNumber": 1084,
     "uikTvd": "4324033517564",
     "tikTvd": "23220001386526",
-    "tikName": "Клинцовская"
+    "tikName": "Клинцовская",
+    "uikName": "УИК №1084",
+    "regionCode": "32",
+    "regionTvd": "100100225883495",
+    "regionName": "Брянская область",
+    "oikTvd": "100100225883497",
+    "oikName": "Брянская область – Унечский",
+    "district": {
+      "districtNumber": 78,
+      "oikTvd": "100100225883497"
+    }
   },
   {
     "uikNumber": 1085,
     "uikTvd": "4324033517565",
     "tikTvd": "23220001386526",
-    "tikName": "Клинцовская"
+    "tikName": "Клинцовская",
+    "uikName": "УИК №1085",
+    "regionCode": "32",
+    "regionTvd": "100100225883495",
+    "regionName": "Брянская область",
+    "oikTvd": "100100225883497",
+    "oikName": "Брянская область – Унечский",
+    "district": {
+      "districtNumber": 78,
+      "oikTvd": "100100225883497"
+    }
   },
   {
     "uikNumber": 1086,
     "uikTvd": "4324033517566",
     "tikTvd": "23220001386526",
-    "tikName": "Клинцовская"
+    "tikName": "Клинцовская",
+    "uikName": "УИК №1086",
+    "regionCode": "32",
+    "regionTvd": "100100225883495",
+    "regionName": "Брянская область",
+    "oikTvd": "100100225883497",
+    "oikName": "Брянская область – Унечский",
+    "district": {
+      "districtNumber": 78,
+      "oikTvd": "100100225883497"
+    }
   },
   {
     "uikNumber": 1087,
     "uikTvd": "4324033517567",
     "tikTvd": "23220001386526",
-    "tikName": "Клинцовская"
+    "tikName": "Клинцовская",
+    "uikName": "УИК №1087",
+    "regionCode": "32",
+    "regionTvd": "100100225883495",
+    "regionName": "Брянская область",
+    "oikTvd": "100100225883497",
+    "oikName": "Брянская область – Унечский",
+    "district": {
+      "districtNumber": 78,
+      "oikTvd": "100100225883497"
+    }
   },
   {
     "uikNumber": 1088,
     "uikTvd": "4324033517568",
     "tikTvd": "23220001386526",
-    "tikName": "Клинцовская"
+    "tikName": "Клинцовская",
+    "uikName": "УИК №1088",
+    "regionCode": "32",
+    "regionTvd": "100100225883495",
+    "regionName": "Брянская область",
+    "oikTvd": "100100225883497",
+    "oikName": "Брянская область – Унечский",
+    "district": {
+      "districtNumber": 78,
+      "oikTvd": "100100225883497"
+    }
   },
   {
     "uikNumber": 1089,
     "uikTvd": "4324033517569",
     "tikTvd": "23220001386526",
-    "tikName": "Клинцовская"
+    "tikName": "Клинцовская",
+    "uikName": "УИК №1089",
+    "regionCode": "32",
+    "regionTvd": "100100225883495",
+    "regionName": "Брянская область",
+    "oikTvd": "100100225883497",
+    "oikName": "Брянская область – Унечский",
+    "district": {
+      "districtNumber": 78,
+      "oikTvd": "100100225883497"
+    }
   },
   {
     "uikNumber": 1090,
     "uikTvd": "4324033517570",
     "tikTvd": "23220001386526",
-    "tikName": "Клинцовская"
+    "tikName": "Клинцовская",
+    "uikName": "УИК №1090",
+    "regionCode": "32",
+    "regionTvd": "100100225883495",
+    "regionName": "Брянская область",
+    "oikTvd": "100100225883497",
+    "oikName": "Брянская область – Унечский",
+    "district": {
+      "districtNumber": 78,
+      "oikTvd": "100100225883497"
+    }
   },
   {
     "uikNumber": 1091,
     "uikTvd": "4324033517571",
     "tikTvd": "23220001386526",
-    "tikName": "Клинцовская"
+    "tikName": "Клинцовская",
+    "uikName": "УИК №1091",
+    "regionCode": "32",
+    "regionTvd": "100100225883495",
+    "regionName": "Брянская область",
+    "oikTvd": "100100225883497",
+    "oikName": "Брянская область – Унечский",
+    "district": {
+      "districtNumber": 78,
+      "oikTvd": "100100225883497"
+    }
   },
   {
     "uikNumber": 1092,
     "uikTvd": "4324033517572",
     "tikTvd": "23220001386526",
-    "tikName": "Клинцовская"
+    "tikName": "Клинцовская",
+    "uikName": "УИК №1092",
+    "regionCode": "32",
+    "regionTvd": "100100225883495",
+    "regionName": "Брянская область",
+    "oikTvd": "100100225883497",
+    "oikName": "Брянская область – Унечский",
+    "district": {
+      "districtNumber": 78,
+      "oikTvd": "100100225883497"
+    }
   },
   {
     "uikNumber": 1093,
     "uikTvd": "4324033517573",
     "tikTvd": "23220001386526",
-    "tikName": "Клинцовская"
+    "tikName": "Клинцовская",
+    "uikName": "УИК №1093",
+    "regionCode": "32",
+    "regionTvd": "100100225883495",
+    "regionName": "Брянская область",
+    "oikTvd": "100100225883497",
+    "oikName": "Брянская область – Унечский",
+    "district": {
+      "districtNumber": 78,
+      "oikTvd": "100100225883497"
+    }
   },
   {
     "uikNumber": 1094,
     "uikTvd": "4324033517574",
     "tikTvd": "23220001386526",
-    "tikName": "Клинцовская"
+    "tikName": "Клинцовская",
+    "uikName": "УИК №1094",
+    "regionCode": "32",
+    "regionTvd": "100100225883495",
+    "regionName": "Брянская область",
+    "oikTvd": "100100225883497",
+    "oikName": "Брянская область – Унечский",
+    "district": {
+      "districtNumber": 78,
+      "oikTvd": "100100225883497"
+    }
   },
   {
     "uikNumber": 1095,
     "uikTvd": "4324033517575",
     "tikTvd": "23220001386526",
-    "tikName": "Клинцовская"
+    "tikName": "Клинцовская",
+    "uikName": "УИК №1095",
+    "regionCode": "32",
+    "regionTvd": "100100225883495",
+    "regionName": "Брянская область",
+    "oikTvd": "100100225883497",
+    "oikName": "Брянская область – Унечский",
+    "district": {
+      "districtNumber": 78,
+      "oikTvd": "100100225883497"
+    }
   },
   {
     "uikNumber": 1096,
     "uikTvd": "4324033517576",
     "tikTvd": "23220001386526",
-    "tikName": "Клинцовская"
+    "tikName": "Клинцовская",
+    "uikName": "УИК №1096",
+    "regionCode": "32",
+    "regionTvd": "100100225883495",
+    "regionName": "Брянская область",
+    "oikTvd": "100100225883497",
+    "oikName": "Брянская область – Унечский",
+    "district": {
+      "districtNumber": 78,
+      "oikTvd": "100100225883497"
+    }
   },
   {
     "uikNumber": 1097,
     "uikTvd": "4324033517577",
     "tikTvd": "23220001386526",
-    "tikName": "Клинцовская"
+    "tikName": "Клинцовская",
+    "uikName": "УИК №1097",
+    "regionCode": "32",
+    "regionTvd": "100100225883495",
+    "regionName": "Брянская область",
+    "oikTvd": "100100225883497",
+    "oikName": "Брянская область – Унечский",
+    "district": {
+      "districtNumber": 78,
+      "oikTvd": "100100225883497"
+    }
   },
   {
     "uikNumber": 1098,
     "uikTvd": "4324033517578",
     "tikTvd": "23220001386526",
-    "tikName": "Клинцовская"
+    "tikName": "Клинцовская",
+    "uikName": "УИК №1098",
+    "regionCode": "32",
+    "regionTvd": "100100225883495",
+    "regionName": "Брянская область",
+    "oikTvd": "100100225883497",
+    "oikName": "Брянская область – Унечский",
+    "district": {
+      "districtNumber": 78,
+      "oikTvd": "100100225883497"
+    }
   },
   {
     "uikNumber": 1099,
     "uikTvd": "4324022295239",
     "tikTvd": "23220001386509",
-    "tikName": "Новозыбковская городская"
+    "tikName": "Новозыбковская городская",
+    "uikName": "УИК №1099",
+    "regionCode": "32",
+    "regionTvd": "100100225883495",
+    "regionName": "Брянская область",
+    "oikTvd": "100100225883496",
+    "oikName": "Брянская область – Брянский",
+    "district": {
+      "districtNumber": 77,
+      "oikTvd": "100100225883496"
+    }
   },
   {
     "uikNumber": 1100,
     "uikTvd": "4324022295240",
     "tikTvd": "23220001386509",
-    "tikName": "Новозыбковская городская"
+    "tikName": "Новозыбковская городская",
+    "uikName": "УИК №1100",
+    "regionCode": "32",
+    "regionTvd": "100100225883495",
+    "regionName": "Брянская область",
+    "oikTvd": "100100225883496",
+    "oikName": "Брянская область – Брянский",
+    "district": {
+      "districtNumber": 77,
+      "oikTvd": "100100225883496"
+    }
   },
   {
     "uikNumber": 1101,
     "uikTvd": "4324022295241",
     "tikTvd": "23220001386509",
-    "tikName": "Новозыбковская городская"
+    "tikName": "Новозыбковская городская",
+    "uikName": "УИК №1101",
+    "regionCode": "32",
+    "regionTvd": "100100225883495",
+    "regionName": "Брянская область",
+    "oikTvd": "100100225883496",
+    "oikName": "Брянская область – Брянский",
+    "district": {
+      "districtNumber": 77,
+      "oikTvd": "100100225883496"
+    }
   },
   {
     "uikNumber": 1102,
     "uikTvd": "4324022295242",
     "tikTvd": "23220001386509",
-    "tikName": "Новозыбковская городская"
+    "tikName": "Новозыбковская городская",
+    "uikName": "УИК №1102",
+    "regionCode": "32",
+    "regionTvd": "100100225883495",
+    "regionName": "Брянская область",
+    "oikTvd": "100100225883496",
+    "oikName": "Брянская область – Брянский",
+    "district": {
+      "districtNumber": 77,
+      "oikTvd": "100100225883496"
+    }
   },
   {
     "uikNumber": 1103,
     "uikTvd": "4324022295243",
     "tikTvd": "23220001386509",
-    "tikName": "Новозыбковская городская"
+    "tikName": "Новозыбковская городская",
+    "uikName": "УИК №1103",
+    "regionCode": "32",
+    "regionTvd": "100100225883495",
+    "regionName": "Брянская область",
+    "oikTvd": "100100225883496",
+    "oikName": "Брянская область – Брянский",
+    "district": {
+      "districtNumber": 77,
+      "oikTvd": "100100225883496"
+    }
   },
   {
     "uikNumber": 1104,
     "uikTvd": "4324022295244",
     "tikTvd": "23220001386509",
-    "tikName": "Новозыбковская городская"
+    "tikName": "Новозыбковская городская",
+    "uikName": "УИК №1104",
+    "regionCode": "32",
+    "regionTvd": "100100225883495",
+    "regionName": "Брянская область",
+    "oikTvd": "100100225883496",
+    "oikName": "Брянская область – Брянский",
+    "district": {
+      "districtNumber": 77,
+      "oikTvd": "100100225883496"
+    }
   },
   {
     "uikNumber": 1105,
     "uikTvd": "4324022295245",
     "tikTvd": "23220001386509",
-    "tikName": "Новозыбковская городская"
+    "tikName": "Новозыбковская городская",
+    "uikName": "УИК №1105",
+    "regionCode": "32",
+    "regionTvd": "100100225883495",
+    "regionName": "Брянская область",
+    "oikTvd": "100100225883496",
+    "oikName": "Брянская область – Брянский",
+    "district": {
+      "districtNumber": 77,
+      "oikTvd": "100100225883496"
+    }
   },
   {
     "uikNumber": 1106,
     "uikTvd": "4324022295246",
     "tikTvd": "23220001386509",
-    "tikName": "Новозыбковская городская"
+    "tikName": "Новозыбковская городская",
+    "uikName": "УИК №1106",
+    "regionCode": "32",
+    "regionTvd": "100100225883495",
+    "regionName": "Брянская область",
+    "oikTvd": "100100225883496",
+    "oikName": "Брянская область – Брянский",
+    "district": {
+      "districtNumber": 77,
+      "oikTvd": "100100225883496"
+    }
   },
   {
     "uikNumber": 1107,
     "uikTvd": "4324022295247",
     "tikTvd": "23220001386509",
-    "tikName": "Новозыбковская городская"
+    "tikName": "Новозыбковская городская",
+    "uikName": "УИК №1107",
+    "regionCode": "32",
+    "regionTvd": "100100225883495",
+    "regionName": "Брянская область",
+    "oikTvd": "100100225883496",
+    "oikName": "Брянская область – Брянский",
+    "district": {
+      "districtNumber": 77,
+      "oikTvd": "100100225883496"
+    }
   },
   {
     "uikNumber": 1108,
     "uikTvd": "4324022295248",
     "tikTvd": "23220001386509",
-    "tikName": "Новозыбковская городская"
+    "tikName": "Новозыбковская городская",
+    "uikName": "УИК №1108",
+    "regionCode": "32",
+    "regionTvd": "100100225883495",
+    "regionName": "Брянская область",
+    "oikTvd": "100100225883496",
+    "oikName": "Брянская область – Брянский",
+    "district": {
+      "districtNumber": 77,
+      "oikTvd": "100100225883496"
+    }
   },
   {
     "uikNumber": 1109,
     "uikTvd": "4324022295249",
     "tikTvd": "23220001386509",
-    "tikName": "Новозыбковская городская"
+    "tikName": "Новозыбковская городская",
+    "uikName": "УИК №1109",
+    "regionCode": "32",
+    "regionTvd": "100100225883495",
+    "regionName": "Брянская область",
+    "oikTvd": "100100225883496",
+    "oikName": "Брянская область – Брянский",
+    "district": {
+      "districtNumber": 77,
+      "oikTvd": "100100225883496"
+    }
   },
   {
     "uikNumber": 1110,
     "uikTvd": "4324022295250",
     "tikTvd": "23220001386509",
-    "tikName": "Новозыбковская городская"
+    "tikName": "Новозыбковская городская",
+    "uikName": "УИК №1110",
+    "regionCode": "32",
+    "regionTvd": "100100225883495",
+    "regionName": "Брянская область",
+    "oikTvd": "100100225883496",
+    "oikName": "Брянская область – Брянский",
+    "district": {
+      "districtNumber": 77,
+      "oikTvd": "100100225883496"
+    }
   },
   {
     "uikNumber": 1111,
     "uikTvd": "4324022295251",
     "tikTvd": "23220001386509",
-    "tikName": "Новозыбковская городская"
+    "tikName": "Новозыбковская городская",
+    "uikName": "УИК №1111",
+    "regionCode": "32",
+    "regionTvd": "100100225883495",
+    "regionName": "Брянская область",
+    "oikTvd": "100100225883496",
+    "oikName": "Брянская область – Брянский",
+    "district": {
+      "districtNumber": 77,
+      "oikTvd": "100100225883496"
+    }
   },
   {
     "uikNumber": 1112,
     "uikTvd": "4324022295252",
     "tikTvd": "23220001386509",
-    "tikName": "Новозыбковская городская"
+    "tikName": "Новозыбковская городская",
+    "uikName": "УИК №1112",
+    "regionCode": "32",
+    "regionTvd": "100100225883495",
+    "regionName": "Брянская область",
+    "oikTvd": "100100225883496",
+    "oikName": "Брянская область – Брянский",
+    "district": {
+      "districtNumber": 77,
+      "oikTvd": "100100225883496"
+    }
   },
   {
     "uikNumber": 1113,
     "uikTvd": "4324022295253",
     "tikTvd": "23220001386509",
-    "tikName": "Новозыбковская городская"
+    "tikName": "Новозыбковская городская",
+    "uikName": "УИК №1113",
+    "regionCode": "32",
+    "regionTvd": "100100225883495",
+    "regionName": "Брянская область",
+    "oikTvd": "100100225883496",
+    "oikName": "Брянская область – Брянский",
+    "district": {
+      "districtNumber": 77,
+      "oikTvd": "100100225883496"
+    }
   },
   {
     "uikNumber": 1114,
     "uikTvd": "4324022295254",
     "tikTvd": "23220001386509",
-    "tikName": "Новозыбковская городская"
+    "tikName": "Новозыбковская городская",
+    "uikName": "УИК №1114",
+    "regionCode": "32",
+    "regionTvd": "100100225883495",
+    "regionName": "Брянская область",
+    "oikTvd": "100100225883496",
+    "oikName": "Брянская область – Брянский",
+    "district": {
+      "districtNumber": 77,
+      "oikTvd": "100100225883496"
+    }
   },
   {
     "uikNumber": 1115,
     "uikTvd": "4324022295255",
     "tikTvd": "23220001386509",
-    "tikName": "Новозыбковская городская"
+    "tikName": "Новозыбковская городская",
+    "uikName": "УИК №1115",
+    "regionCode": "32",
+    "regionTvd": "100100225883495",
+    "regionName": "Брянская область",
+    "oikTvd": "100100225883496",
+    "oikName": "Брянская область – Брянский",
+    "district": {
+      "districtNumber": 77,
+      "oikTvd": "100100225883496"
+    }
   },
   {
     "uikNumber": 1116,
     "uikTvd": "4324022295256",
     "tikTvd": "23220001386509",
-    "tikName": "Новозыбковская городская"
+    "tikName": "Новозыбковская городская",
+    "uikName": "УИК №1116",
+    "regionCode": "32",
+    "regionTvd": "100100225883495",
+    "regionName": "Брянская область",
+    "oikTvd": "100100225883496",
+    "oikName": "Брянская область – Брянский",
+    "district": {
+      "districtNumber": 77,
+      "oikTvd": "100100225883496"
+    }
   },
   {
     "uikNumber": 1117,
     "uikTvd": "4324022295257",
     "tikTvd": "23220001386509",
-    "tikName": "Новозыбковская городская"
+    "tikName": "Новозыбковская городская",
+    "uikName": "УИК №1117",
+    "regionCode": "32",
+    "regionTvd": "100100225883495",
+    "regionName": "Брянская область",
+    "oikTvd": "100100225883496",
+    "oikName": "Брянская область – Брянский",
+    "district": {
+      "districtNumber": 77,
+      "oikTvd": "100100225883496"
+    }
   },
   {
     "uikNumber": 1118,
     "uikTvd": "4324022295258",
     "tikTvd": "23220001386509",
-    "tikName": "Новозыбковская городская"
+    "tikName": "Новозыбковская городская",
+    "uikName": "УИК №1118",
+    "regionCode": "32",
+    "regionTvd": "100100225883495",
+    "regionName": "Брянская область",
+    "oikTvd": "100100225883496",
+    "oikName": "Брянская область – Брянский",
+    "district": {
+      "districtNumber": 77,
+      "oikTvd": "100100225883496"
+    }
   },
   {
     "uikNumber": 1119,
     "uikTvd": "4324022295259",
     "tikTvd": "23220001386509",
-    "tikName": "Новозыбковская городская"
+    "tikName": "Новозыбковская городская",
+    "uikName": "УИК №1119",
+    "regionCode": "32",
+    "regionTvd": "100100225883495",
+    "regionName": "Брянская область",
+    "oikTvd": "100100225883496",
+    "oikName": "Брянская область – Брянский",
+    "district": {
+      "districtNumber": 77,
+      "oikTvd": "100100225883496"
+    }
   },
   {
     "uikNumber": 1120,
     "uikTvd": "4324004419389",
     "tikTvd": "23220001386495",
-    "tikName": "Брянск, Советская"
+    "tikName": "Брянск, Советская",
+    "uikName": "УИК №1120",
+    "regionCode": "32",
+    "regionTvd": "100100225883495",
+    "regionName": "Брянская область",
+    "oikTvd": "100100225883496",
+    "oikName": "Брянская область – Брянский",
+    "district": {
+      "districtNumber": 77,
+      "oikTvd": "100100225883496"
+    }
   },
   {
     "uikNumber": 1121,
     "uikTvd": "4324004419390",
     "tikTvd": "23220001386495",
-    "tikName": "Брянск, Советская"
+    "tikName": "Брянск, Советская",
+    "uikName": "УИК №1121",
+    "regionCode": "32",
+    "regionTvd": "100100225883495",
+    "regionName": "Брянская область",
+    "oikTvd": "100100225883496",
+    "oikName": "Брянская область – Брянский",
+    "district": {
+      "districtNumber": 77,
+      "oikTvd": "100100225883496"
+    }
   },
   {
     "uikNumber": 1122,
     "uikTvd": "4324004419391",
     "tikTvd": "23220001386495",
-    "tikName": "Брянск, Советская"
+    "tikName": "Брянск, Советская",
+    "uikName": "УИК №1122",
+    "regionCode": "32",
+    "regionTvd": "100100225883495",
+    "regionName": "Брянская область",
+    "oikTvd": "100100225883496",
+    "oikName": "Брянская область – Брянский",
+    "district": {
+      "districtNumber": 77,
+      "oikTvd": "100100225883496"
+    }
   },
   {
     "uikNumber": 1123,
     "uikTvd": "4324006476541",
     "tikTvd": "23220001386518",
-    "tikName": "Брянская-78"
+    "tikName": "Брянская-78",
+    "uikName": "УИК №1123",
+    "regionCode": "32",
+    "regionTvd": "100100225883495",
+    "regionName": "Брянская область",
+    "oikTvd": "100100225883497",
+    "oikName": "Брянская область – Унечский",
+    "district": {
+      "districtNumber": 78,
+      "oikTvd": "100100225883497"
+    }
   },
   {
     "uikNumber": 1124,
     "uikTvd": "4324008315285",
     "tikTvd": "23220001386519",
-    "tikName": "Гордеевская"
+    "tikName": "Гордеевская",
+    "uikName": "УИК №1124",
+    "regionCode": "32",
+    "regionTvd": "100100225883495",
+    "regionName": "Брянская область",
+    "oikTvd": "100100225883497",
+    "oikName": "Брянская область – Унечский",
+    "district": {
+      "districtNumber": 78,
+      "oikTvd": "100100225883497"
+    }
   },
   {
     "uikNumber": 1125,
     "uikTvd": "4324008315286",
     "tikTvd": "23220001386519",
-    "tikName": "Гордеевская"
+    "tikName": "Гордеевская",
+    "uikName": "УИК №1125",
+    "regionCode": "32",
+    "regionTvd": "100100225883495",
+    "regionName": "Брянская область",
+    "oikTvd": "100100225883497",
+    "oikName": "Брянская область – Унечский",
+    "district": {
+      "districtNumber": 78,
+      "oikTvd": "100100225883497"
+    }
   },
   {
     "uikNumber": 1126,
     "uikTvd": "4324008315287",
     "tikTvd": "23220001386519",
-    "tikName": "Гордеевская"
+    "tikName": "Гордеевская",
+    "uikName": "УИК №1126",
+    "regionCode": "32",
+    "regionTvd": "100100225883495",
+    "regionName": "Брянская область",
+    "oikTvd": "100100225883497",
+    "oikName": "Брянская область – Унечский",
+    "district": {
+      "districtNumber": 78,
+      "oikTvd": "100100225883497"
+    }
   },
   {
     "uikNumber": 1127,
     "uikTvd": "4324008315288",
     "tikTvd": "23220001386519",
-    "tikName": "Гордеевская"
+    "tikName": "Гордеевская",
+    "uikName": "УИК №1127",
+    "regionCode": "32",
+    "regionTvd": "100100225883495",
+    "regionName": "Брянская область",
+    "oikTvd": "100100225883497",
+    "oikName": "Брянская область – Унечский",
+    "district": {
+      "districtNumber": 78,
+      "oikTvd": "100100225883497"
+    }
   },
   {
     "uikNumber": 1128,
     "uikTvd": "4324031432346",
     "tikTvd": "23220001386515",
-    "tikName": "Трубчевская"
+    "tikName": "Трубчевская",
+    "uikName": "УИК №1128",
+    "regionCode": "32",
+    "regionTvd": "100100225883495",
+    "regionName": "Брянская область",
+    "oikTvd": "100100225883496",
+    "oikName": "Брянская область – Брянский",
+    "district": {
+      "districtNumber": 77,
+      "oikTvd": "100100225883496"
+    }
   },
   {
     "uikNumber": 1129,
     "uikTvd": "4324002380556",
     "tikTvd": "23220001386516",
-    "tikName": "Брянск, Бежицкая"
+    "tikName": "Брянск, Бежицкая",
+    "uikName": "УИК №1129",
+    "regionCode": "32",
+    "regionTvd": "100100225883495",
+    "regionName": "Брянская область",
+    "oikTvd": "100100225883497",
+    "oikName": "Брянская область – Унечский",
+    "district": {
+      "districtNumber": 78,
+      "oikTvd": "100100225883497"
+    }
   },
   {
     "uikNumber": 1130,
     "uikTvd": "4324004420741",
     "tikTvd": "23220001386495",
-    "tikName": "Брянск, Советская"
+    "tikName": "Брянск, Советская",
+    "uikName": "УИК №1130",
+    "regionCode": "32",
+    "regionTvd": "100100225883495",
+    "regionName": "Брянская область",
+    "oikTvd": "100100225883496",
+    "oikName": "Брянская область – Брянский",
+    "district": {
+      "districtNumber": 77,
+      "oikTvd": "100100225883496"
+    }
   }
 ] satisfies readonly UikTikRelation[];

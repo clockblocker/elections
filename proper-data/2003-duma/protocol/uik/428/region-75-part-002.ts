@@ -42,11 +42,11 @@ export const duma_2003_uik_428_region_75_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Виницкий Сергей Борисович": 4,
-      "Лосский Юрий Васильевич": 47,
-      "Шаврова Вера Алексеевна": 29,
-      "Швыряев Ярослав Михайлович": 46,
-      "Против всех": 10
+      "gas:candidate-vibid:1001000289816": 4,
+      "gas:candidate-vibid:375300166704": 47,
+      "gas:candidate-vibid:375300166701": 29,
+      "gas:candidate-vibid:375300166707": 46,
+      "special:against-all": 10
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=752000012&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=275200067453&region=0&sub_region=0&type=429",
@@ -96,11 +96,11 @@ export const duma_2003_uik_428_region_75_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Виницкий Сергей Борисович": 3,
-      "Лосский Юрий Васильевич": 212,
-      "Шаврова Вера Алексеевна": 58,
-      "Швыряев Ярослав Михайлович": 98,
-      "Против всех": 16
+      "gas:candidate-vibid:1001000289816": 3,
+      "gas:candidate-vibid:375300166704": 212,
+      "gas:candidate-vibid:375300166701": 58,
+      "gas:candidate-vibid:375300166707": 98,
+      "special:against-all": 16
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=752000012&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=275200067453&region=0&sub_region=0&type=429",
@@ -150,11 +150,11 @@ export const duma_2003_uik_428_region_75_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Виницкий Сергей Борисович": 1,
-      "Лосский Юрий Васильевич": 20,
-      "Шаврова Вера Алексеевна": 8,
-      "Швыряев Ярослав Михайлович": 39,
-      "Против всех": 10
+      "gas:candidate-vibid:1001000289816": 1,
+      "gas:candidate-vibid:375300166704": 20,
+      "gas:candidate-vibid:375300166701": 8,
+      "gas:candidate-vibid:375300166707": 39,
+      "special:against-all": 10
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=752000012&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=275200067453&region=0&sub_region=0&type=429",
@@ -204,11 +204,11 @@ export const duma_2003_uik_428_region_75_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Виницкий Сергей Борисович": 2,
-      "Лосский Юрий Васильевич": 67,
-      "Шаврова Вера Алексеевна": 57,
-      "Швыряев Ярослав Михайлович": 64,
-      "Против всех": 33
+      "gas:candidate-vibid:1001000289816": 2,
+      "gas:candidate-vibid:375300166704": 67,
+      "gas:candidate-vibid:375300166701": 57,
+      "gas:candidate-vibid:375300166707": 64,
+      "special:against-all": 33
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=752000012&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=275200067453&region=0&sub_region=0&type=429",
@@ -258,11 +258,11 @@ export const duma_2003_uik_428_region_75_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Виницкий Сергей Борисович": 1,
-      "Лосский Юрий Васильевич": 13,
-      "Шаврова Вера Алексеевна": 41,
-      "Швыряев Ярослав Михайлович": 58,
-      "Против всех": 13
+      "gas:candidate-vibid:1001000289816": 1,
+      "gas:candidate-vibid:375300166704": 13,
+      "gas:candidate-vibid:375300166701": 41,
+      "gas:candidate-vibid:375300166707": 58,
+      "special:against-all": 13
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=752000012&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=275200067453&region=0&sub_region=0&type=429",
@@ -312,11 +312,11 @@ export const duma_2003_uik_428_region_75_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Виницкий Сергей Борисович": 3,
-      "Лосский Юрий Васильевич": 44,
-      "Шаврова Вера Алексеевна": 47,
-      "Швыряев Ярослав Михайлович": 90,
-      "Против всех": 11
+      "gas:candidate-vibid:1001000289816": 3,
+      "gas:candidate-vibid:375300166704": 44,
+      "gas:candidate-vibid:375300166701": 47,
+      "gas:candidate-vibid:375300166707": 90,
+      "special:against-all": 11
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=752000012&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=275200067453&region=0&sub_region=0&type=429",
@@ -366,11 +366,11 @@ export const duma_2003_uik_428_region_75_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Виницкий Сергей Борисович": 11,
-      "Лосский Юрий Васильевич": 59,
-      "Шаврова Вера Алексеевна": 33,
-      "Швыряев Ярослав Михайлович": 69,
-      "Против всех": 11
+      "gas:candidate-vibid:1001000289816": 11,
+      "gas:candidate-vibid:375300166704": 59,
+      "gas:candidate-vibid:375300166701": 33,
+      "gas:candidate-vibid:375300166707": 69,
+      "special:against-all": 11
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=752000012&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=275200067453&region=0&sub_region=0&type=429",
@@ -420,11 +420,11 @@ export const duma_2003_uik_428_region_75_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Виницкий Сергей Борисович": 12,
-      "Лосский Юрий Васильевич": 95,
-      "Шаврова Вера Алексеевна": 127,
-      "Швыряев Ярослав Михайлович": 284,
-      "Против всех": 30
+      "gas:candidate-vibid:1001000289816": 12,
+      "gas:candidate-vibid:375300166704": 95,
+      "gas:candidate-vibid:375300166701": 127,
+      "gas:candidate-vibid:375300166707": 284,
+      "special:against-all": 30
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=752000012&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=275200067453&region=0&sub_region=0&type=429",
@@ -474,11 +474,11 @@ export const duma_2003_uik_428_region_75_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Виницкий Сергей Борисович": 2,
-      "Лосский Юрий Васильевич": 20,
-      "Шаврова Вера Алексеевна": 16,
-      "Швыряев Ярослав Михайлович": 74,
-      "Против всех": 9
+      "gas:candidate-vibid:1001000289816": 2,
+      "gas:candidate-vibid:375300166704": 20,
+      "gas:candidate-vibid:375300166701": 16,
+      "gas:candidate-vibid:375300166707": 74,
+      "special:against-all": 9
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=752000012&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=275200067453&region=0&sub_region=0&type=429",
@@ -528,11 +528,11 @@ export const duma_2003_uik_428_region_75_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Виницкий Сергей Борисович": 4,
-      "Лосский Юрий Васильевич": 17,
-      "Шаврова Вера Алексеевна": 32,
-      "Швыряев Ярослав Михайлович": 113,
-      "Против всех": 4
+      "gas:candidate-vibid:1001000289816": 4,
+      "gas:candidate-vibid:375300166704": 17,
+      "gas:candidate-vibid:375300166701": 32,
+      "gas:candidate-vibid:375300166707": 113,
+      "special:against-all": 4
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=752000012&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=275200067453&region=0&sub_region=0&type=429",
@@ -582,11 +582,11 @@ export const duma_2003_uik_428_region_75_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Виницкий Сергей Борисович": 2,
-      "Лосский Юрий Васильевич": 5,
-      "Шаврова Вера Алексеевна": 20,
-      "Швыряев Ярослав Михайлович": 59,
-      "Против всех": 5
+      "gas:candidate-vibid:1001000289816": 2,
+      "gas:candidate-vibid:375300166704": 5,
+      "gas:candidate-vibid:375300166701": 20,
+      "gas:candidate-vibid:375300166707": 59,
+      "special:against-all": 5
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=752000012&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=275200067453&region=0&sub_region=0&type=429",
@@ -636,11 +636,11 @@ export const duma_2003_uik_428_region_75_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Виницкий Сергей Борисович": 6,
-      "Лосский Юрий Васильевич": 29,
-      "Шаврова Вера Алексеевна": 95,
-      "Швыряев Ярослав Михайлович": 55,
-      "Против всех": 15
+      "gas:candidate-vibid:1001000289816": 6,
+      "gas:candidate-vibid:375300166704": 29,
+      "gas:candidate-vibid:375300166701": 95,
+      "gas:candidate-vibid:375300166707": 55,
+      "special:against-all": 15
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=752000012&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=275200067453&region=0&sub_region=0&type=429",
@@ -690,11 +690,11 @@ export const duma_2003_uik_428_region_75_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Виницкий Сергей Борисович": 5,
-      "Лосский Юрий Васильевич": 77,
-      "Шаврова Вера Алексеевна": 40,
-      "Швыряев Ярослав Михайлович": 69,
-      "Против всех": 12
+      "gas:candidate-vibid:1001000289816": 5,
+      "gas:candidate-vibid:375300166704": 77,
+      "gas:candidate-vibid:375300166701": 40,
+      "gas:candidate-vibid:375300166707": 69,
+      "special:against-all": 12
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=752000012&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=275200067453&region=0&sub_region=0&type=429",
@@ -744,11 +744,11 @@ export const duma_2003_uik_428_region_75_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Виницкий Сергей Борисович": 9,
-      "Лосский Юрий Васильевич": 47,
-      "Шаврова Вера Алексеевна": 82,
-      "Швыряев Ярослав Михайлович": 110,
-      "Против всех": 27
+      "gas:candidate-vibid:1001000289816": 9,
+      "gas:candidate-vibid:375300166704": 47,
+      "gas:candidate-vibid:375300166701": 82,
+      "gas:candidate-vibid:375300166707": 110,
+      "special:against-all": 27
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=752000012&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=275200067453&region=0&sub_region=0&type=429",
@@ -798,11 +798,11 @@ export const duma_2003_uik_428_region_75_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Виницкий Сергей Борисович": 1,
-      "Лосский Юрий Васильевич": 16,
-      "Шаврова Вера Алексеевна": 16,
-      "Швыряев Ярослав Михайлович": 63,
-      "Против всех": 12
+      "gas:candidate-vibid:1001000289816": 1,
+      "gas:candidate-vibid:375300166704": 16,
+      "gas:candidate-vibid:375300166701": 16,
+      "gas:candidate-vibid:375300166707": 63,
+      "special:against-all": 12
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=752000012&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=275200067453&region=0&sub_region=0&type=429",
@@ -852,11 +852,11 @@ export const duma_2003_uik_428_region_75_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Виницкий Сергей Борисович": 3,
-      "Лосский Юрий Васильевич": 94,
-      "Шаврова Вера Алексеевна": 43,
-      "Швыряев Ярослав Михайлович": 120,
-      "Против всех": 15
+      "gas:candidate-vibid:1001000289816": 3,
+      "gas:candidate-vibid:375300166704": 94,
+      "gas:candidate-vibid:375300166701": 43,
+      "gas:candidate-vibid:375300166707": 120,
+      "special:against-all": 15
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=752000012&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=275200067453&region=0&sub_region=0&type=429",
@@ -906,11 +906,11 @@ export const duma_2003_uik_428_region_75_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Виницкий Сергей Борисович": 7,
-      "Лосский Юрий Васильевич": 111,
-      "Шаврова Вера Алексеевна": 70,
-      "Швыряев Ярослав Михайлович": 195,
-      "Против всех": 36
+      "gas:candidate-vibid:1001000289816": 7,
+      "gas:candidate-vibid:375300166704": 111,
+      "gas:candidate-vibid:375300166701": 70,
+      "gas:candidate-vibid:375300166707": 195,
+      "special:against-all": 36
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=752000012&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=275200067453&region=0&sub_region=0&type=429",
@@ -960,11 +960,11 @@ export const duma_2003_uik_428_region_75_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Виницкий Сергей Борисович": 19,
-      "Лосский Юрий Васильевич": 97,
-      "Шаврова Вера Алексеевна": 64,
-      "Швыряев Ярослав Михайлович": 201,
-      "Против всех": 38
+      "gas:candidate-vibid:1001000289816": 19,
+      "gas:candidate-vibid:375300166704": 97,
+      "gas:candidate-vibid:375300166701": 64,
+      "gas:candidate-vibid:375300166707": 201,
+      "special:against-all": 38
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=752000012&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=275200067453&region=0&sub_region=0&type=429",
@@ -1014,11 +1014,11 @@ export const duma_2003_uik_428_region_75_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Виницкий Сергей Борисович": 15,
-      "Лосский Юрий Васильевич": 110,
-      "Шаврова Вера Алексеевна": 40,
-      "Швыряев Ярослав Михайлович": 172,
-      "Против всех": 53
+      "gas:candidate-vibid:1001000289816": 15,
+      "gas:candidate-vibid:375300166704": 110,
+      "gas:candidate-vibid:375300166701": 40,
+      "gas:candidate-vibid:375300166707": 172,
+      "special:against-all": 53
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=752000012&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=275200067453&region=0&sub_region=0&type=429",
@@ -1068,11 +1068,11 @@ export const duma_2003_uik_428_region_75_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Виницкий Сергей Борисович": 11,
-      "Лосский Юрий Васильевич": 99,
-      "Шаврова Вера Алексеевна": 34,
-      "Швыряев Ярослав Михайлович": 142,
-      "Против всех": 26
+      "gas:candidate-vibid:1001000289816": 11,
+      "gas:candidate-vibid:375300166704": 99,
+      "gas:candidate-vibid:375300166701": 34,
+      "gas:candidate-vibid:375300166707": 142,
+      "special:against-all": 26
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=752000012&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=275200067453&region=0&sub_region=0&type=429",
@@ -1122,11 +1122,11 @@ export const duma_2003_uik_428_region_75_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Виницкий Сергей Борисович": 6,
-      "Лосский Юрий Васильевич": 132,
-      "Шаврова Вера Алексеевна": 34,
-      "Швыряев Ярослав Михайлович": 210,
-      "Против всех": 37
+      "gas:candidate-vibid:1001000289816": 6,
+      "gas:candidate-vibid:375300166704": 132,
+      "gas:candidate-vibid:375300166701": 34,
+      "gas:candidate-vibid:375300166707": 210,
+      "special:against-all": 37
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=752000012&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=275200067453&region=0&sub_region=0&type=429",
@@ -1176,11 +1176,11 @@ export const duma_2003_uik_428_region_75_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Виницкий Сергей Борисович": 10,
-      "Лосский Юрий Васильевич": 109,
-      "Шаврова Вера Алексеевна": 38,
-      "Швыряев Ярослав Михайлович": 196,
-      "Против всех": 34
+      "gas:candidate-vibid:1001000289816": 10,
+      "gas:candidate-vibid:375300166704": 109,
+      "gas:candidate-vibid:375300166701": 38,
+      "gas:candidate-vibid:375300166707": 196,
+      "special:against-all": 34
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=752000012&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=275200067453&region=0&sub_region=0&type=429",
@@ -1230,11 +1230,11 @@ export const duma_2003_uik_428_region_75_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Виницкий Сергей Борисович": 13,
-      "Лосский Юрий Васильевич": 106,
-      "Шаврова Вера Алексеевна": 35,
-      "Швыряев Ярослав Михайлович": 159,
-      "Против всех": 26
+      "gas:candidate-vibid:1001000289816": 13,
+      "gas:candidate-vibid:375300166704": 106,
+      "gas:candidate-vibid:375300166701": 35,
+      "gas:candidate-vibid:375300166707": 159,
+      "special:against-all": 26
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=752000012&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=275200067453&region=0&sub_region=0&type=429",
@@ -1284,11 +1284,11 @@ export const duma_2003_uik_428_region_75_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Виницкий Сергей Борисович": 22,
-      "Лосский Юрий Васильевич": 201,
-      "Шаврова Вера Алексеевна": 63,
-      "Швыряев Ярослав Михайлович": 326,
-      "Против всех": 43
+      "gas:candidate-vibid:1001000289816": 22,
+      "gas:candidate-vibid:375300166704": 201,
+      "gas:candidate-vibid:375300166701": 63,
+      "gas:candidate-vibid:375300166707": 326,
+      "special:against-all": 43
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=752000012&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=275200067453&region=0&sub_region=0&type=429",
@@ -1338,11 +1338,11 @@ export const duma_2003_uik_428_region_75_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Виницкий Сергей Борисович": 7,
-      "Лосский Юрий Васильевич": 89,
-      "Шаврова Вера Алексеевна": 42,
-      "Швыряев Ярослав Михайлович": 138,
-      "Против всех": 14
+      "gas:candidate-vibid:1001000289816": 7,
+      "gas:candidate-vibid:375300166704": 89,
+      "gas:candidate-vibid:375300166701": 42,
+      "gas:candidate-vibid:375300166707": 138,
+      "special:against-all": 14
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=752000012&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=275200067453&region=0&sub_region=0&type=429",
@@ -1392,11 +1392,11 @@ export const duma_2003_uik_428_region_75_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Виницкий Сергей Борисович": 8,
-      "Лосский Юрий Васильевич": 156,
-      "Шаврова Вера Алексеевна": 50,
-      "Швыряев Ярослав Михайлович": 152,
-      "Против всех": 35
+      "gas:candidate-vibid:1001000289816": 8,
+      "gas:candidate-vibid:375300166704": 156,
+      "gas:candidate-vibid:375300166701": 50,
+      "gas:candidate-vibid:375300166707": 152,
+      "special:against-all": 35
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=752000012&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=275200067453&region=0&sub_region=0&type=429",
@@ -1446,11 +1446,11 @@ export const duma_2003_uik_428_region_75_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Виницкий Сергей Борисович": 11,
-      "Лосский Юрий Васильевич": 121,
-      "Шаврова Вера Алексеевна": 35,
-      "Швыряев Ярослав Михайлович": 136,
-      "Против всех": 25
+      "gas:candidate-vibid:1001000289816": 11,
+      "gas:candidate-vibid:375300166704": 121,
+      "gas:candidate-vibid:375300166701": 35,
+      "gas:candidate-vibid:375300166707": 136,
+      "special:against-all": 25
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=752000012&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=275200067453&region=0&sub_region=0&type=429",
@@ -1500,11 +1500,11 @@ export const duma_2003_uik_428_region_75_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Виницкий Сергей Борисович": 37,
-      "Лосский Юрий Васильевич": 166,
-      "Шаврова Вера Алексеевна": 37,
-      "Швыряев Ярослав Михайлович": 89,
-      "Против всех": 60
+      "gas:candidate-vibid:1001000289816": 37,
+      "gas:candidate-vibid:375300166704": 166,
+      "gas:candidate-vibid:375300166701": 37,
+      "gas:candidate-vibid:375300166707": 89,
+      "special:against-all": 60
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=752000013&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=275200067455&region=0&sub_region=0&type=429",
@@ -1554,11 +1554,11 @@ export const duma_2003_uik_428_region_75_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Виницкий Сергей Борисович": 12,
-      "Лосский Юрий Васильевич": 154,
-      "Шаврова Вера Алексеевна": 59,
-      "Швыряев Ярослав Михайлович": 104,
-      "Против всех": 26
+      "gas:candidate-vibid:1001000289816": 12,
+      "gas:candidate-vibid:375300166704": 154,
+      "gas:candidate-vibid:375300166701": 59,
+      "gas:candidate-vibid:375300166707": 104,
+      "special:against-all": 26
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=752000013&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=275200067455&region=0&sub_region=0&type=429",
@@ -1608,11 +1608,11 @@ export const duma_2003_uik_428_region_75_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Виницкий Сергей Борисович": 3,
-      "Лосский Юрий Васильевич": 88,
-      "Шаврова Вера Алексеевна": 11,
-      "Швыряев Ярослав Михайлович": 32,
-      "Против всех": 11
+      "gas:candidate-vibid:1001000289816": 3,
+      "gas:candidate-vibid:375300166704": 88,
+      "gas:candidate-vibid:375300166701": 11,
+      "gas:candidate-vibid:375300166707": 32,
+      "special:against-all": 11
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=752000013&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=275200067455&region=0&sub_region=0&type=429",
@@ -1662,11 +1662,11 @@ export const duma_2003_uik_428_region_75_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Виницкий Сергей Борисович": 1,
-      "Лосский Юрий Васильевич": 22,
-      "Шаврова Вера Алексеевна": 2,
-      "Швыряев Ярослав Михайлович": 47,
-      "Против всех": 1
+      "gas:candidate-vibid:1001000289816": 1,
+      "gas:candidate-vibid:375300166704": 22,
+      "gas:candidate-vibid:375300166701": 2,
+      "gas:candidate-vibid:375300166707": 47,
+      "special:against-all": 1
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=752000013&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=275200067455&region=0&sub_region=0&type=429",
@@ -1716,11 +1716,11 @@ export const duma_2003_uik_428_region_75_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Виницкий Сергей Борисович": 1,
-      "Лосский Юрий Васильевич": 79,
-      "Шаврова Вера Алексеевна": 8,
-      "Швыряев Ярослав Михайлович": 48,
-      "Против всех": 10
+      "gas:candidate-vibid:1001000289816": 1,
+      "gas:candidate-vibid:375300166704": 79,
+      "gas:candidate-vibid:375300166701": 8,
+      "gas:candidate-vibid:375300166707": 48,
+      "special:against-all": 10
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=752000013&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=275200067455&region=0&sub_region=0&type=429",
@@ -1770,11 +1770,11 @@ export const duma_2003_uik_428_region_75_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Виницкий Сергей Борисович": 3,
-      "Лосский Юрий Васильевич": 38,
-      "Шаврова Вера Алексеевна": 4,
-      "Швыряев Ярослав Михайлович": 39,
-      "Против всех": 3
+      "gas:candidate-vibid:1001000289816": 3,
+      "gas:candidate-vibid:375300166704": 38,
+      "gas:candidate-vibid:375300166701": 4,
+      "gas:candidate-vibid:375300166707": 39,
+      "special:against-all": 3
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=752000013&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=275200067455&region=0&sub_region=0&type=429",
@@ -1824,11 +1824,11 @@ export const duma_2003_uik_428_region_75_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Виницкий Сергей Борисович": 3,
-      "Лосский Юрий Васильевич": 15,
-      "Шаврова Вера Алексеевна": 18,
-      "Швыряев Ярослав Михайлович": 70,
-      "Против всех": 18
+      "gas:candidate-vibid:1001000289816": 3,
+      "gas:candidate-vibid:375300166704": 15,
+      "gas:candidate-vibid:375300166701": 18,
+      "gas:candidate-vibid:375300166707": 70,
+      "special:against-all": 18
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=752000013&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=275200067455&region=0&sub_region=0&type=429",
@@ -1878,11 +1878,11 @@ export const duma_2003_uik_428_region_75_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Виницкий Сергей Борисович": 5,
-      "Лосский Юрий Васильевич": 114,
-      "Шаврова Вера Алексеевна": 40,
-      "Швыряев Ярослав Михайлович": 23,
-      "Против всех": 18
+      "gas:candidate-vibid:1001000289816": 5,
+      "gas:candidate-vibid:375300166704": 114,
+      "gas:candidate-vibid:375300166701": 40,
+      "gas:candidate-vibid:375300166707": 23,
+      "special:against-all": 18
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=752000013&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=275200067455&region=0&sub_region=0&type=429",
@@ -1932,11 +1932,11 @@ export const duma_2003_uik_428_region_75_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Виницкий Сергей Борисович": 2,
-      "Лосский Юрий Васильевич": 193,
-      "Шаврова Вера Алексеевна": 54,
-      "Швыряев Ярослав Михайлович": 223,
-      "Против всех": 17
+      "gas:candidate-vibid:1001000289816": 2,
+      "gas:candidate-vibid:375300166704": 193,
+      "gas:candidate-vibid:375300166701": 54,
+      "gas:candidate-vibid:375300166707": 223,
+      "special:against-all": 17
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=752000013&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=275200067455&region=0&sub_region=0&type=429",
@@ -1986,11 +1986,11 @@ export const duma_2003_uik_428_region_75_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Виницкий Сергей Борисович": 0,
-      "Лосский Юрий Васильевич": 40,
-      "Шаврова Вера Алексеевна": 10,
-      "Швыряев Ярослав Михайлович": 14,
-      "Против всех": 5
+      "gas:candidate-vibid:1001000289816": 0,
+      "gas:candidate-vibid:375300166704": 40,
+      "gas:candidate-vibid:375300166701": 10,
+      "gas:candidate-vibid:375300166707": 14,
+      "special:against-all": 5
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=752000013&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=275200067455&region=0&sub_region=0&type=429",
@@ -2040,11 +2040,11 @@ export const duma_2003_uik_428_region_75_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Виницкий Сергей Борисович": 2,
-      "Лосский Юрий Васильевич": 88,
-      "Шаврова Вера Алексеевна": 51,
-      "Швыряев Ярослав Михайлович": 28,
-      "Против всех": 11
+      "gas:candidate-vibid:1001000289816": 2,
+      "gas:candidate-vibid:375300166704": 88,
+      "gas:candidate-vibid:375300166701": 51,
+      "gas:candidate-vibid:375300166707": 28,
+      "special:against-all": 11
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=752000013&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=275200067455&region=0&sub_region=0&type=429",
@@ -2094,11 +2094,11 @@ export const duma_2003_uik_428_region_75_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Виницкий Сергей Борисович": 3,
-      "Лосский Юрий Васильевич": 69,
-      "Шаврова Вера Алексеевна": 20,
-      "Швыряев Ярослав Михайлович": 50,
-      "Против всех": 12
+      "gas:candidate-vibid:1001000289816": 3,
+      "gas:candidate-vibid:375300166704": 69,
+      "gas:candidate-vibid:375300166701": 20,
+      "gas:candidate-vibid:375300166707": 50,
+      "special:against-all": 12
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=752000013&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=275200067455&region=0&sub_region=0&type=429",
@@ -2148,11 +2148,11 @@ export const duma_2003_uik_428_region_75_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Виницкий Сергей Борисович": 2,
-      "Лосский Юрий Васильевич": 179,
-      "Шаврова Вера Алексеевна": 46,
-      "Швыряев Ярослав Михайлович": 33,
-      "Против всех": 8
+      "gas:candidate-vibid:1001000289816": 2,
+      "gas:candidate-vibid:375300166704": 179,
+      "gas:candidate-vibid:375300166701": 46,
+      "gas:candidate-vibid:375300166707": 33,
+      "special:against-all": 8
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=752000013&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=275200067455&region=0&sub_region=0&type=429",
@@ -2202,11 +2202,11 @@ export const duma_2003_uik_428_region_75_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Виницкий Сергей Борисович": 20,
-      "Лосский Юрий Васильевич": 597,
-      "Шаврова Вера Алексеевна": 60,
-      "Швыряев Ярослав Михайлович": 304,
-      "Против всех": 89
+      "gas:candidate-vibid:1001000289816": 20,
+      "gas:candidate-vibid:375300166704": 597,
+      "gas:candidate-vibid:375300166701": 60,
+      "gas:candidate-vibid:375300166707": 304,
+      "special:against-all": 89
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=752000013&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=275200067455&region=0&sub_region=0&type=429",
@@ -2256,11 +2256,11 @@ export const duma_2003_uik_428_region_75_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Виницкий Сергей Борисович": 12,
-      "Лосский Юрий Васильевич": 66,
-      "Шаврова Вера Алексеевна": 17,
-      "Швыряев Ярослав Михайлович": 64,
-      "Против всех": 21
+      "gas:candidate-vibid:1001000289816": 12,
+      "gas:candidate-vibid:375300166704": 66,
+      "gas:candidate-vibid:375300166701": 17,
+      "gas:candidate-vibid:375300166707": 64,
+      "special:against-all": 21
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=752000013&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=275200067455&region=0&sub_region=0&type=429",
@@ -2310,11 +2310,11 @@ export const duma_2003_uik_428_region_75_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Виницкий Сергей Борисович": 0,
-      "Лосский Юрий Васильевич": 8,
-      "Шаврова Вера Алексеевна": 0,
-      "Швыряев Ярослав Михайлович": 30,
-      "Против всех": 1
+      "gas:candidate-vibid:1001000289816": 0,
+      "gas:candidate-vibid:375300166704": 8,
+      "gas:candidate-vibid:375300166701": 0,
+      "gas:candidate-vibid:375300166707": 30,
+      "special:against-all": 1
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=752000013&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=275200067455&region=0&sub_region=0&type=429",
@@ -2364,11 +2364,11 @@ export const duma_2003_uik_428_region_75_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Виницкий Сергей Борисович": 2,
-      "Лосский Юрий Васильевич": 19,
-      "Шаврова Вера Алексеевна": 5,
-      "Швыряев Ярослав Михайлович": 15,
-      "Против всех": 3
+      "gas:candidate-vibid:1001000289816": 2,
+      "gas:candidate-vibid:375300166704": 19,
+      "gas:candidate-vibid:375300166701": 5,
+      "gas:candidate-vibid:375300166707": 15,
+      "special:against-all": 3
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=752000013&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=275200067455&region=0&sub_region=0&type=429",
@@ -2418,11 +2418,11 @@ export const duma_2003_uik_428_region_75_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Виницкий Сергей Борисович": 5,
-      "Лосский Юрий Васильевич": 68,
-      "Шаврова Вера Алексеевна": 25,
-      "Швыряев Ярослав Михайлович": 58,
-      "Против всех": 18
+      "gas:candidate-vibid:1001000289816": 5,
+      "gas:candidate-vibid:375300166704": 68,
+      "gas:candidate-vibid:375300166701": 25,
+      "gas:candidate-vibid:375300166707": 58,
+      "special:against-all": 18
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=752000013&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=275200067455&region=0&sub_region=0&type=429",
@@ -2472,11 +2472,11 @@ export const duma_2003_uik_428_region_75_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Виницкий Сергей Борисович": 0,
-      "Лосский Юрий Васильевич": 82,
-      "Шаврова Вера Алексеевна": 48,
-      "Швыряев Ярослав Михайлович": 30,
-      "Против всех": 11
+      "gas:candidate-vibid:1001000289816": 0,
+      "gas:candidate-vibid:375300166704": 82,
+      "gas:candidate-vibid:375300166701": 48,
+      "gas:candidate-vibid:375300166707": 30,
+      "special:against-all": 11
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=752000013&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=275200067455&region=0&sub_region=0&type=429",
@@ -2526,11 +2526,11 @@ export const duma_2003_uik_428_region_75_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Виницкий Сергей Борисович": 5,
-      "Лосский Юрий Васильевич": 88,
-      "Шаврова Вера Алексеевна": 9,
-      "Швыряев Ярослав Михайлович": 36,
-      "Против всех": 13
+      "gas:candidate-vibid:1001000289816": 5,
+      "gas:candidate-vibid:375300166704": 88,
+      "gas:candidate-vibid:375300166701": 9,
+      "gas:candidate-vibid:375300166707": 36,
+      "special:against-all": 13
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=752000013&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=275200067455&region=0&sub_region=0&type=429",
@@ -2580,11 +2580,11 @@ export const duma_2003_uik_428_region_75_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Виницкий Сергей Борисович": 3,
-      "Лосский Юрий Васильевич": 55,
-      "Шаврова Вера Алексеевна": 23,
-      "Швыряев Ярослав Михайлович": 67,
-      "Против всех": 11
+      "gas:candidate-vibid:1001000289816": 3,
+      "gas:candidate-vibid:375300166704": 55,
+      "gas:candidate-vibid:375300166701": 23,
+      "gas:candidate-vibid:375300166707": 67,
+      "special:against-all": 11
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=752000013&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=275200067455&region=0&sub_region=0&type=429",
@@ -2634,11 +2634,11 @@ export const duma_2003_uik_428_region_75_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Виницкий Сергей Борисович": 3,
-      "Лосский Юрий Васильевич": 243,
-      "Шаврова Вера Алексеевна": 17,
-      "Швыряев Ярослав Михайлович": 35,
-      "Против всех": 16
+      "gas:candidate-vibid:1001000289816": 3,
+      "gas:candidate-vibid:375300166704": 243,
+      "gas:candidate-vibid:375300166701": 17,
+      "gas:candidate-vibid:375300166707": 35,
+      "special:against-all": 16
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=752000013&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=275200067455&region=0&sub_region=0&type=429",
@@ -2688,11 +2688,11 @@ export const duma_2003_uik_428_region_75_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Виницкий Сергей Борисович": 17,
-      "Лосский Юрий Васильевич": 111,
-      "Шаврова Вера Алексеевна": 37,
-      "Швыряев Ярослав Михайлович": 125,
-      "Против всех": 30
+      "gas:candidate-vibid:1001000289816": 17,
+      "gas:candidate-vibid:375300166704": 111,
+      "gas:candidate-vibid:375300166701": 37,
+      "gas:candidate-vibid:375300166707": 125,
+      "special:against-all": 30
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=752000014&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=275200067457&region=0&sub_region=0&type=429",
@@ -2742,11 +2742,11 @@ export const duma_2003_uik_428_region_75_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Виницкий Сергей Борисович": 18,
-      "Лосский Юрий Васильевич": 262,
-      "Шаврова Вера Алексеевна": 63,
-      "Швыряев Ярослав Михайлович": 239,
-      "Против всех": 88
+      "gas:candidate-vibid:1001000289816": 18,
+      "gas:candidate-vibid:375300166704": 262,
+      "gas:candidate-vibid:375300166701": 63,
+      "gas:candidate-vibid:375300166707": 239,
+      "special:against-all": 88
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=752000014&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=275200067457&region=0&sub_region=0&type=429",
@@ -2796,11 +2796,11 @@ export const duma_2003_uik_428_region_75_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Виницкий Сергей Борисович": 20,
-      "Лосский Юрий Васильевич": 115,
-      "Шаврова Вера Алексеевна": 38,
-      "Швыряев Ярослав Михайлович": 120,
-      "Против всех": 37
+      "gas:candidate-vibid:1001000289816": 20,
+      "gas:candidate-vibid:375300166704": 115,
+      "gas:candidate-vibid:375300166701": 38,
+      "gas:candidate-vibid:375300166707": 120,
+      "special:against-all": 37
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=752000014&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=275200067457&region=0&sub_region=0&type=429",
@@ -2850,11 +2850,11 @@ export const duma_2003_uik_428_region_75_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Виницкий Сергей Борисович": 12,
-      "Лосский Юрий Васильевич": 125,
-      "Шаврова Вера Алексеевна": 54,
-      "Швыряев Ярослав Михайлович": 97,
-      "Против всех": 27
+      "gas:candidate-vibid:1001000289816": 12,
+      "gas:candidate-vibid:375300166704": 125,
+      "gas:candidate-vibid:375300166701": 54,
+      "gas:candidate-vibid:375300166707": 97,
+      "special:against-all": 27
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=752000014&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=275200067457&region=0&sub_region=0&type=429",
@@ -2904,11 +2904,11 @@ export const duma_2003_uik_428_region_75_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Виницкий Сергей Борисович": 3,
-      "Лосский Юрий Васильевич": 48,
-      "Шаврова Вера Алексеевна": 24,
-      "Швыряев Ярослав Михайлович": 28,
-      "Против всех": 26
+      "gas:candidate-vibid:1001000289816": 3,
+      "gas:candidate-vibid:375300166704": 48,
+      "gas:candidate-vibid:375300166701": 24,
+      "gas:candidate-vibid:375300166707": 28,
+      "special:against-all": 26
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=752000014&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=275200067457&region=0&sub_region=0&type=429",
@@ -2958,11 +2958,11 @@ export const duma_2003_uik_428_region_75_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Виницкий Сергей Борисович": 22,
-      "Лосский Юрий Васильевич": 152,
-      "Шаврова Вера Алексеевна": 76,
-      "Швыряев Ярослав Михайлович": 104,
-      "Против всех": 57
+      "gas:candidate-vibid:1001000289816": 22,
+      "gas:candidate-vibid:375300166704": 152,
+      "gas:candidate-vibid:375300166701": 76,
+      "gas:candidate-vibid:375300166707": 104,
+      "special:against-all": 57
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=752000014&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=275200067457&region=0&sub_region=0&type=429",
@@ -3012,11 +3012,11 @@ export const duma_2003_uik_428_region_75_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Виницкий Сергей Борисович": 5,
-      "Лосский Юрий Васильевич": 24,
-      "Шаврова Вера Алексеевна": 19,
-      "Швыряев Ярослав Михайлович": 56,
-      "Против всех": 7
+      "gas:candidate-vibid:1001000289816": 5,
+      "gas:candidate-vibid:375300166704": 24,
+      "gas:candidate-vibid:375300166701": 19,
+      "gas:candidate-vibid:375300166707": 56,
+      "special:against-all": 7
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=752000014&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=275200067457&region=0&sub_region=0&type=429",
@@ -3066,11 +3066,11 @@ export const duma_2003_uik_428_region_75_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Виницкий Сергей Борисович": 87,
-      "Лосский Юрий Васильевич": 162,
-      "Шаврова Вера Алексеевна": 159,
-      "Швыряев Ярослав Михайлович": 228,
-      "Против всех": 279
+      "gas:candidate-vibid:1001000289816": 87,
+      "gas:candidate-vibid:375300166704": 162,
+      "gas:candidate-vibid:375300166701": 159,
+      "gas:candidate-vibid:375300166707": 228,
+      "special:against-all": 279
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=752000014&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=275200067457&region=0&sub_region=0&type=429",
@@ -3120,11 +3120,11 @@ export const duma_2003_uik_428_region_75_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Виницкий Сергей Борисович": 6,
-      "Лосский Юрий Васильевич": 179,
-      "Шаврова Вера Алексеевна": 33,
-      "Швыряев Ярослав Михайлович": 108,
-      "Против всех": 17
+      "gas:candidate-vibid:1001000289816": 6,
+      "gas:candidate-vibid:375300166704": 179,
+      "gas:candidate-vibid:375300166701": 33,
+      "gas:candidate-vibid:375300166707": 108,
+      "special:against-all": 17
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=752000014&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=275200067457&region=0&sub_region=0&type=429",
@@ -3174,11 +3174,11 @@ export const duma_2003_uik_428_region_75_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Виницкий Сергей Борисович": 3,
-      "Лосский Юрий Васильевич": 42,
-      "Шаврова Вера Алексеевна": 18,
-      "Швыряев Ярослав Михайлович": 22,
-      "Против всех": 9
+      "gas:candidate-vibid:1001000289816": 3,
+      "gas:candidate-vibid:375300166704": 42,
+      "gas:candidate-vibid:375300166701": 18,
+      "gas:candidate-vibid:375300166707": 22,
+      "special:against-all": 9
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=752000014&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=275200067457&region=0&sub_region=0&type=429",
@@ -3228,11 +3228,11 @@ export const duma_2003_uik_428_region_75_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Виницкий Сергей Борисович": 1,
-      "Лосский Юрий Васильевич": 75,
-      "Шаврова Вера Алексеевна": 59,
-      "Швыряев Ярослав Михайлович": 105,
-      "Против всех": 21
+      "gas:candidate-vibid:1001000289816": 1,
+      "gas:candidate-vibid:375300166704": 75,
+      "gas:candidate-vibid:375300166701": 59,
+      "gas:candidate-vibid:375300166707": 105,
+      "special:against-all": 21
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=752000014&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=275200067457&region=0&sub_region=0&type=429",
@@ -3282,11 +3282,11 @@ export const duma_2003_uik_428_region_75_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Виницкий Сергей Борисович": 4,
-      "Лосский Юрий Васильевич": 65,
-      "Шаврова Вера Алексеевна": 55,
-      "Швыряев Ярослав Михайлович": 54,
-      "Против всех": 14
+      "gas:candidate-vibid:1001000289816": 4,
+      "gas:candidate-vibid:375300166704": 65,
+      "gas:candidate-vibid:375300166701": 55,
+      "gas:candidate-vibid:375300166707": 54,
+      "special:against-all": 14
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=752000014&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=275200067457&region=0&sub_region=0&type=429",
@@ -3336,11 +3336,11 @@ export const duma_2003_uik_428_region_75_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Виницкий Сергей Борисович": 3,
-      "Лосский Юрий Васильевич": 24,
-      "Шаврова Вера Алексеевна": 101,
-      "Швыряев Ярослав Михайлович": 121,
-      "Против всех": 10
+      "gas:candidate-vibid:1001000289816": 3,
+      "gas:candidate-vibid:375300166704": 24,
+      "gas:candidate-vibid:375300166701": 101,
+      "gas:candidate-vibid:375300166707": 121,
+      "special:against-all": 10
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=752000014&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=275200067457&region=0&sub_region=0&type=429",
@@ -3390,11 +3390,11 @@ export const duma_2003_uik_428_region_75_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Виницкий Сергей Борисович": 3,
-      "Лосский Юрий Васильевич": 9,
-      "Шаврова Вера Алексеевна": 39,
-      "Швыряев Ярослав Михайлович": 44,
-      "Против всех": 6
+      "gas:candidate-vibid:1001000289816": 3,
+      "gas:candidate-vibid:375300166704": 9,
+      "gas:candidate-vibid:375300166701": 39,
+      "gas:candidate-vibid:375300166707": 44,
+      "special:against-all": 6
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=752000014&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=275200067457&region=0&sub_region=0&type=429",
@@ -3444,11 +3444,11 @@ export const duma_2003_uik_428_region_75_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Виницкий Сергей Борисович": 0,
-      "Лосский Юрий Васильевич": 19,
-      "Шаврова Вера Алексеевна": 25,
-      "Швыряев Ярослав Михайлович": 9,
-      "Против всех": 0
+      "gas:candidate-vibid:1001000289816": 0,
+      "gas:candidate-vibid:375300166704": 19,
+      "gas:candidate-vibid:375300166701": 25,
+      "gas:candidate-vibid:375300166707": 9,
+      "special:against-all": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=752000014&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=275200067457&region=0&sub_region=0&type=429",
@@ -3498,11 +3498,11 @@ export const duma_2003_uik_428_region_75_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Виницкий Сергей Борисович": 6,
-      "Лосский Юрий Васильевич": 73,
-      "Шаврова Вера Алексеевна": 53,
-      "Швыряев Ярослав Михайлович": 27,
-      "Против всех": 11
+      "gas:candidate-vibid:1001000289816": 6,
+      "gas:candidate-vibid:375300166704": 73,
+      "gas:candidate-vibid:375300166701": 53,
+      "gas:candidate-vibid:375300166707": 27,
+      "special:against-all": 11
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=752000014&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=275200067457&region=0&sub_region=0&type=429",
@@ -3552,11 +3552,11 @@ export const duma_2003_uik_428_region_75_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Виницкий Сергей Борисович": 0,
-      "Лосский Юрий Васильевич": 1,
-      "Шаврова Вера Алексеевна": 16,
-      "Швыряев Ярослав Михайлович": 25,
-      "Против всех": 2
+      "gas:candidate-vibid:1001000289816": 0,
+      "gas:candidate-vibid:375300166704": 1,
+      "gas:candidate-vibid:375300166701": 16,
+      "gas:candidate-vibid:375300166707": 25,
+      "special:against-all": 2
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=752000014&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=275200067457&region=0&sub_region=0&type=429",
@@ -3606,11 +3606,11 @@ export const duma_2003_uik_428_region_75_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Виницкий Сергей Борисович": 4,
-      "Лосский Юрий Васильевич": 87,
-      "Шаврова Вера Алексеевна": 141,
-      "Швыряев Ярослав Михайлович": 95,
-      "Против всех": 31
+      "gas:candidate-vibid:1001000289816": 4,
+      "gas:candidate-vibid:375300166704": 87,
+      "gas:candidate-vibid:375300166701": 141,
+      "gas:candidate-vibid:375300166707": 95,
+      "special:against-all": 31
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=752000014&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=275200067457&region=0&sub_region=0&type=429",
@@ -3660,11 +3660,11 @@ export const duma_2003_uik_428_region_75_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Виницкий Сергей Борисович": 1,
-      "Лосский Юрий Васильевич": 11,
-      "Шаврова Вера Алексеевна": 8,
-      "Швыряев Ярослав Михайлович": 61,
-      "Против всех": 7
+      "gas:candidate-vibid:1001000289816": 1,
+      "gas:candidate-vibid:375300166704": 11,
+      "gas:candidate-vibid:375300166701": 8,
+      "gas:candidate-vibid:375300166707": 61,
+      "special:against-all": 7
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=752000014&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=275200067457&region=0&sub_region=0&type=429",
@@ -3714,11 +3714,11 @@ export const duma_2003_uik_428_region_75_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Виницкий Сергей Борисович": 4,
-      "Лосский Юрий Васильевич": 113,
-      "Шаврова Вера Алексеевна": 112,
-      "Швыряев Ярослав Михайлович": 34,
-      "Против всех": 23
+      "gas:candidate-vibid:1001000289816": 4,
+      "gas:candidate-vibid:375300166704": 113,
+      "gas:candidate-vibid:375300166701": 112,
+      "gas:candidate-vibid:375300166707": 34,
+      "special:against-all": 23
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=752000014&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=275200067457&region=0&sub_region=0&type=429",
@@ -3768,11 +3768,11 @@ export const duma_2003_uik_428_region_75_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Виницкий Сергей Борисович": 4,
-      "Лосский Юрий Васильевич": 35,
-      "Шаврова Вера Алексеевна": 27,
-      "Швыряев Ярослав Михайлович": 22,
-      "Против всех": 7
+      "gas:candidate-vibid:1001000289816": 4,
+      "gas:candidate-vibid:375300166704": 35,
+      "gas:candidate-vibid:375300166701": 27,
+      "gas:candidate-vibid:375300166707": 22,
+      "special:against-all": 7
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=752000014&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=275200067457&region=0&sub_region=0&type=429",
@@ -3822,11 +3822,11 @@ export const duma_2003_uik_428_region_75_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Виницкий Сергей Борисович": 8,
-      "Лосский Юрий Васильевич": 105,
-      "Шаврова Вера Алексеевна": 66,
-      "Швыряев Ярослав Михайлович": 177,
-      "Против всех": 24
+      "gas:candidate-vibid:1001000289816": 8,
+      "gas:candidate-vibid:375300166704": 105,
+      "gas:candidate-vibid:375300166701": 66,
+      "gas:candidate-vibid:375300166707": 177,
+      "special:against-all": 24
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=752000014&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=275200067457&region=0&sub_region=0&type=429",
@@ -3876,11 +3876,11 @@ export const duma_2003_uik_428_region_75_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Виницкий Сергей Борисович": 30,
-      "Лосский Юрий Васильевич": 309,
-      "Шаврова Вера Алексеевна": 247,
-      "Швыряев Ярослав Михайлович": 144,
-      "Против всех": 75
+      "gas:candidate-vibid:1001000289816": 30,
+      "gas:candidate-vibid:375300166704": 309,
+      "gas:candidate-vibid:375300166701": 247,
+      "gas:candidate-vibid:375300166707": 144,
+      "special:against-all": 75
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=752000014&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=275200067457&region=0&sub_region=0&type=429",
@@ -3930,11 +3930,11 @@ export const duma_2003_uik_428_region_75_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Виницкий Сергей Борисович": 7,
-      "Лосский Юрий Васильевич": 101,
-      "Шаврова Вера Алексеевна": 69,
-      "Швыряев Ярослав Михайлович": 153,
-      "Против всех": 21
+      "gas:candidate-vibid:1001000289816": 7,
+      "gas:candidate-vibid:375300166704": 101,
+      "gas:candidate-vibid:375300166701": 69,
+      "gas:candidate-vibid:375300166707": 153,
+      "special:against-all": 21
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=752000014&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=275200067457&region=0&sub_region=0&type=429",
@@ -3984,11 +3984,11 @@ export const duma_2003_uik_428_region_75_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Виницкий Сергей Борисович": 11,
-      "Лосский Юрий Васильевич": 180,
-      "Шаврова Вера Алексеевна": 50,
-      "Швыряев Ярослав Михайлович": 133,
-      "Против всех": 75
+      "gas:candidate-vibid:1001000289816": 11,
+      "gas:candidate-vibid:375300166704": 180,
+      "gas:candidate-vibid:375300166701": 50,
+      "gas:candidate-vibid:375300166707": 133,
+      "special:against-all": 75
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=752000014&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=275200067457&region=0&sub_region=0&type=429",
@@ -4038,11 +4038,11 @@ export const duma_2003_uik_428_region_75_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Виницкий Сергей Борисович": 2,
-      "Лосский Юрий Васильевич": 71,
-      "Шаврова Вера Алексеевна": 3,
-      "Швыряев Ярослав Михайлович": 55,
-      "Против всех": 9
+      "gas:candidate-vibid:1001000289816": 2,
+      "gas:candidate-vibid:375300166704": 71,
+      "gas:candidate-vibid:375300166701": 3,
+      "gas:candidate-vibid:375300166707": 55,
+      "special:against-all": 9
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=752000014&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=275200067457&region=0&sub_region=0&type=429",
@@ -4092,11 +4092,11 @@ export const duma_2003_uik_428_region_75_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Виницкий Сергей Борисович": 6,
-      "Лосский Юрий Васильевич": 107,
-      "Шаврова Вера Алексеевна": 62,
-      "Швыряев Ярослав Михайлович": 72,
-      "Против всех": 8
+      "gas:candidate-vibid:1001000289816": 6,
+      "gas:candidate-vibid:375300166704": 107,
+      "gas:candidate-vibid:375300166701": 62,
+      "gas:candidate-vibid:375300166707": 72,
+      "special:against-all": 8
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=752000014&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=275200067457&region=0&sub_region=0&type=429",
@@ -4146,11 +4146,11 @@ export const duma_2003_uik_428_region_75_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Виницкий Сергей Борисович": 6,
-      "Лосский Юрий Васильевич": 150,
-      "Шаврова Вера Алексеевна": 60,
-      "Швыряев Ярослав Михайлович": 97,
-      "Против всех": 19
+      "gas:candidate-vibid:1001000289816": 6,
+      "gas:candidate-vibid:375300166704": 150,
+      "gas:candidate-vibid:375300166701": 60,
+      "gas:candidate-vibid:375300166707": 97,
+      "special:against-all": 19
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=752000014&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=275200067457&region=0&sub_region=0&type=429",
@@ -4200,11 +4200,11 @@ export const duma_2003_uik_428_region_75_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Виницкий Сергей Борисович": 9,
-      "Лосский Юрий Васильевич": 85,
-      "Шаврова Вера Алексеевна": 71,
-      "Швыряев Ярослав Михайлович": 139,
-      "Против всех": 41
+      "gas:candidate-vibid:1001000289816": 9,
+      "gas:candidate-vibid:375300166704": 85,
+      "gas:candidate-vibid:375300166701": 71,
+      "gas:candidate-vibid:375300166707": 139,
+      "special:against-all": 41
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=752000014&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=275200067457&region=0&sub_region=0&type=429",
@@ -4254,11 +4254,11 @@ export const duma_2003_uik_428_region_75_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Виницкий Сергей Борисович": 10,
-      "Лосский Юрий Васильевич": 26,
-      "Шаврова Вера Алексеевна": 43,
-      "Швыряев Ярослав Михайлович": 54,
-      "Против всех": 25
+      "gas:candidate-vibid:1001000289816": 10,
+      "gas:candidate-vibid:375300166704": 26,
+      "gas:candidate-vibid:375300166701": 43,
+      "gas:candidate-vibid:375300166707": 54,
+      "special:against-all": 25
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=752000014&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=275200067457&region=0&sub_region=0&type=429",
@@ -4308,11 +4308,11 @@ export const duma_2003_uik_428_region_75_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Виницкий Сергей Борисович": 9,
-      "Лосский Юрий Васильевич": 39,
-      "Шаврова Вера Алексеевна": 37,
-      "Швыряев Ярослав Михайлович": 38,
-      "Против всех": 11
+      "gas:candidate-vibid:1001000289816": 9,
+      "gas:candidate-vibid:375300166704": 39,
+      "gas:candidate-vibid:375300166701": 37,
+      "gas:candidate-vibid:375300166707": 38,
+      "special:against-all": 11
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=752000014&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=275200067457&region=0&sub_region=0&type=429",
@@ -4362,11 +4362,11 @@ export const duma_2003_uik_428_region_75_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Виницкий Сергей Борисович": 1,
-      "Лосский Юрий Васильевич": 21,
-      "Шаврова Вера Алексеевна": 30,
-      "Швыряев Ярослав Михайлович": 89,
-      "Против всех": 20
+      "gas:candidate-vibid:1001000289816": 1,
+      "gas:candidate-vibid:375300166704": 21,
+      "gas:candidate-vibid:375300166701": 30,
+      "gas:candidate-vibid:375300166707": 89,
+      "special:against-all": 20
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=752000014&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=275200067457&region=0&sub_region=0&type=429",
@@ -4416,11 +4416,11 @@ export const duma_2003_uik_428_region_75_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Виницкий Сергей Борисович": 11,
-      "Лосский Юрий Васильевич": 116,
-      "Шаврова Вера Алексеевна": 75,
-      "Швыряев Ярослав Михайлович": 134,
-      "Против всех": 32
+      "gas:candidate-vibid:1001000289816": 11,
+      "gas:candidate-vibid:375300166704": 116,
+      "gas:candidate-vibid:375300166701": 75,
+      "gas:candidate-vibid:375300166707": 134,
+      "special:against-all": 32
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=752000014&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=275200067457&region=0&sub_region=0&type=429",
@@ -4470,11 +4470,11 @@ export const duma_2003_uik_428_region_75_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Виницкий Сергей Борисович": 1,
-      "Лосский Юрий Васильевич": 41,
-      "Шаврова Вера Алексеевна": 33,
-      "Швыряев Ярослав Михайлович": 52,
-      "Против всех": 17
+      "gas:candidate-vibid:1001000289816": 1,
+      "gas:candidate-vibid:375300166704": 41,
+      "gas:candidate-vibid:375300166701": 33,
+      "gas:candidate-vibid:375300166707": 52,
+      "special:against-all": 17
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=752000014&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=275200067457&region=0&sub_region=0&type=429",
@@ -4524,11 +4524,11 @@ export const duma_2003_uik_428_region_75_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Виницкий Сергей Борисович": 8,
-      "Лосский Юрий Васильевич": 120,
-      "Шаврова Вера Алексеевна": 141,
-      "Швыряев Ярослав Михайлович": 73,
-      "Против всех": 45
+      "gas:candidate-vibid:1001000289816": 8,
+      "gas:candidate-vibid:375300166704": 120,
+      "gas:candidate-vibid:375300166701": 141,
+      "gas:candidate-vibid:375300166707": 73,
+      "special:against-all": 45
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=752000014&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=275200067457&region=0&sub_region=0&type=429",
@@ -4578,11 +4578,11 @@ export const duma_2003_uik_428_region_75_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Виницкий Сергей Борисович": 57,
-      "Лосский Юрий Васильевич": 275,
-      "Шаврова Вера Алексеевна": 254,
-      "Швыряев Ярослав Михайлович": 206,
-      "Против всех": 201
+      "gas:candidate-vibid:1001000289816": 57,
+      "gas:candidate-vibid:375300166704": 275,
+      "gas:candidate-vibid:375300166701": 254,
+      "gas:candidate-vibid:375300166707": 206,
+      "special:against-all": 201
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=752000014&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=275200067457&region=0&sub_region=0&type=429",
@@ -4632,11 +4632,11 @@ export const duma_2003_uik_428_region_75_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Виницкий Сергей Борисович": 174,
-      "Лосский Юрий Васильевич": 582,
-      "Шаврова Вера Алексеевна": 313,
-      "Швыряев Ярослав Михайлович": 211,
-      "Против всех": 345
+      "gas:candidate-vibid:1001000289816": 174,
+      "gas:candidate-vibid:375300166704": 582,
+      "gas:candidate-vibid:375300166701": 313,
+      "gas:candidate-vibid:375300166707": 211,
+      "special:against-all": 345
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=752000014&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=275200067457&region=0&sub_region=0&type=429",
@@ -4686,11 +4686,11 @@ export const duma_2003_uik_428_region_75_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Виницкий Сергей Борисович": 63,
-      "Лосский Юрий Васильевич": 477,
-      "Шаврова Вера Алексеевна": 105,
-      "Швыряев Ярослав Михайлович": 548,
-      "Против всех": 286
+      "gas:candidate-vibid:1001000289816": 63,
+      "gas:candidate-vibid:375300166704": 477,
+      "gas:candidate-vibid:375300166701": 105,
+      "gas:candidate-vibid:375300166707": 548,
+      "special:against-all": 286
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=752000014&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=275200067457&region=0&sub_region=0&type=429",
@@ -4740,11 +4740,11 @@ export const duma_2003_uik_428_region_75_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Виницкий Сергей Борисович": 59,
-      "Лосский Юрий Васильевич": 412,
-      "Шаврова Вера Алексеевна": 94,
-      "Швыряев Ярослав Михайлович": 421,
-      "Против всех": 237
+      "gas:candidate-vibid:1001000289816": 59,
+      "gas:candidate-vibid:375300166704": 412,
+      "gas:candidate-vibid:375300166701": 94,
+      "gas:candidate-vibid:375300166707": 421,
+      "special:against-all": 237
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=752000014&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=275200067457&region=0&sub_region=0&type=429",
@@ -4794,11 +4794,11 @@ export const duma_2003_uik_428_region_75_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Виницкий Сергей Борисович": 17,
-      "Лосский Юрий Васильевич": 306,
-      "Шаврова Вера Алексеевна": 101,
-      "Швыряев Ярослав Михайлович": 696,
-      "Против всех": 90
+      "gas:candidate-vibid:1001000289816": 17,
+      "gas:candidate-vibid:375300166704": 306,
+      "gas:candidate-vibid:375300166701": 101,
+      "gas:candidate-vibid:375300166707": 696,
+      "special:against-all": 90
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=752000015&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=275200067459&region=0&sub_region=0&type=429",
@@ -4848,11 +4848,11 @@ export const duma_2003_uik_428_region_75_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Виницкий Сергей Борисович": 11,
-      "Лосский Юрий Васильевич": 104,
-      "Шаврова Вера Алексеевна": 65,
-      "Швыряев Ярослав Михайлович": 135,
-      "Против всех": 30
+      "gas:candidate-vibid:1001000289816": 11,
+      "gas:candidate-vibid:375300166704": 104,
+      "gas:candidate-vibid:375300166701": 65,
+      "gas:candidate-vibid:375300166707": 135,
+      "special:against-all": 30
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=752000015&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=275200067459&region=0&sub_region=0&type=429",
@@ -4902,11 +4902,11 @@ export const duma_2003_uik_428_region_75_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Виницкий Сергей Борисович": 4,
-      "Лосский Юрий Васильевич": 45,
-      "Шаврова Вера Алексеевна": 67,
-      "Швыряев Ярослав Михайлович": 146,
-      "Против всех": 14
+      "gas:candidate-vibid:1001000289816": 4,
+      "gas:candidate-vibid:375300166704": 45,
+      "gas:candidate-vibid:375300166701": 67,
+      "gas:candidate-vibid:375300166707": 146,
+      "special:against-all": 14
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=752000015&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=275200067459&region=0&sub_region=0&type=429",
@@ -4956,11 +4956,11 @@ export const duma_2003_uik_428_region_75_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Виницкий Сергей Борисович": 3,
-      "Лосский Юрий Васильевич": 66,
-      "Шаврова Вера Алексеевна": 28,
-      "Швыряев Ярослав Михайлович": 131,
-      "Против всех": 3
+      "gas:candidate-vibid:1001000289816": 3,
+      "gas:candidate-vibid:375300166704": 66,
+      "gas:candidate-vibid:375300166701": 28,
+      "gas:candidate-vibid:375300166707": 131,
+      "special:against-all": 3
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=752000015&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=275200067459&region=0&sub_region=0&type=429",
@@ -5010,11 +5010,11 @@ export const duma_2003_uik_428_region_75_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Виницкий Сергей Борисович": 0,
-      "Лосский Юрий Васильевич": 14,
-      "Шаврова Вера Алексеевна": 0,
-      "Швыряев Ярослав Михайлович": 12,
-      "Против всех": 2
+      "gas:candidate-vibid:1001000289816": 0,
+      "gas:candidate-vibid:375300166704": 14,
+      "gas:candidate-vibid:375300166701": 0,
+      "gas:candidate-vibid:375300166707": 12,
+      "special:against-all": 2
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=752000015&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=275200067459&region=0&sub_region=0&type=429",
@@ -5064,11 +5064,11 @@ export const duma_2003_uik_428_region_75_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Виницкий Сергей Борисович": 1,
-      "Лосский Юрий Васильевич": 17,
-      "Шаврова Вера Алексеевна": 9,
-      "Швыряев Ярослав Михайлович": 59,
-      "Против всех": 6
+      "gas:candidate-vibid:1001000289816": 1,
+      "gas:candidate-vibid:375300166704": 17,
+      "gas:candidate-vibid:375300166701": 9,
+      "gas:candidate-vibid:375300166707": 59,
+      "special:against-all": 6
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=752000015&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=275200067459&region=0&sub_region=0&type=429",
@@ -5118,11 +5118,11 @@ export const duma_2003_uik_428_region_75_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Виницкий Сергей Борисович": 4,
-      "Лосский Юрий Васильевич": 82,
-      "Шаврова Вера Алексеевна": 67,
-      "Швыряев Ярослав Михайлович": 186,
-      "Против всех": 29
+      "gas:candidate-vibid:1001000289816": 4,
+      "gas:candidate-vibid:375300166704": 82,
+      "gas:candidate-vibid:375300166701": 67,
+      "gas:candidate-vibid:375300166707": 186,
+      "special:against-all": 29
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=752000015&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=275200067459&region=0&sub_region=0&type=429",
@@ -5172,11 +5172,11 @@ export const duma_2003_uik_428_region_75_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Виницкий Сергей Борисович": 2,
-      "Лосский Юрий Васильевич": 16,
-      "Шаврова Вера Алексеевна": 20,
-      "Швыряев Ярослав Михайлович": 44,
-      "Против всех": 1
+      "gas:candidate-vibid:1001000289816": 2,
+      "gas:candidate-vibid:375300166704": 16,
+      "gas:candidate-vibid:375300166701": 20,
+      "gas:candidate-vibid:375300166707": 44,
+      "special:against-all": 1
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=752000015&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=275200067459&region=0&sub_region=0&type=429",
@@ -5226,11 +5226,11 @@ export const duma_2003_uik_428_region_75_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Виницкий Сергей Борисович": 1,
-      "Лосский Юрий Васильевич": 39,
-      "Шаврова Вера Алексеевна": 23,
-      "Швыряев Ярослав Михайлович": 139,
-      "Против всех": 9
+      "gas:candidate-vibid:1001000289816": 1,
+      "gas:candidate-vibid:375300166704": 39,
+      "gas:candidate-vibid:375300166701": 23,
+      "gas:candidate-vibid:375300166707": 139,
+      "special:against-all": 9
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=752000015&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=275200067459&region=0&sub_region=0&type=429",
@@ -5280,11 +5280,11 @@ export const duma_2003_uik_428_region_75_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Виницкий Сергей Борисович": 0,
-      "Лосский Юрий Васильевич": 30,
-      "Шаврова Вера Алексеевна": 19,
-      "Швыряев Ярослав Михайлович": 25,
-      "Против всех": 7
+      "gas:candidate-vibid:1001000289816": 0,
+      "gas:candidate-vibid:375300166704": 30,
+      "gas:candidate-vibid:375300166701": 19,
+      "gas:candidate-vibid:375300166707": 25,
+      "special:against-all": 7
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=752000015&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=275200067459&region=0&sub_region=0&type=429",
@@ -5334,11 +5334,11 @@ export const duma_2003_uik_428_region_75_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Виницкий Сергей Борисович": 14,
-      "Лосский Юрий Васильевич": 46,
-      "Шаврова Вера Алексеевна": 37,
-      "Швыряев Ярослав Михайлович": 172,
-      "Против всех": 24
+      "gas:candidate-vibid:1001000289816": 14,
+      "gas:candidate-vibid:375300166704": 46,
+      "gas:candidate-vibid:375300166701": 37,
+      "gas:candidate-vibid:375300166707": 172,
+      "special:against-all": 24
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=752000015&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=275200067459&region=0&sub_region=0&type=429",
@@ -5388,11 +5388,11 @@ export const duma_2003_uik_428_region_75_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Виницкий Сергей Борисович": 2,
-      "Лосский Юрий Васильевич": 8,
-      "Шаврова Вера Алексеевна": 7,
-      "Швыряев Ярослав Михайлович": 24,
-      "Против всех": 3
+      "gas:candidate-vibid:1001000289816": 2,
+      "gas:candidate-vibid:375300166704": 8,
+      "gas:candidate-vibid:375300166701": 7,
+      "gas:candidate-vibid:375300166707": 24,
+      "special:against-all": 3
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=752000015&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=275200067459&region=0&sub_region=0&type=429",
@@ -5442,11 +5442,11 @@ export const duma_2003_uik_428_region_75_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Виницкий Сергей Борисович": 6,
-      "Лосский Юрий Васильевич": 91,
-      "Шаврова Вера Алексеевна": 47,
-      "Швыряев Ярослав Михайлович": 74,
-      "Против всех": 21
+      "gas:candidate-vibid:1001000289816": 6,
+      "gas:candidate-vibid:375300166704": 91,
+      "gas:candidate-vibid:375300166701": 47,
+      "gas:candidate-vibid:375300166707": 74,
+      "special:against-all": 21
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=752000015&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=275200067459&region=0&sub_region=0&type=429",
@@ -5496,11 +5496,11 @@ export const duma_2003_uik_428_region_75_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Виницкий Сергей Борисович": 3,
-      "Лосский Юрий Васильевич": 30,
-      "Шаврова Вера Алексеевна": 28,
-      "Швыряев Ярослав Михайлович": 60,
-      "Против всех": 9
+      "gas:candidate-vibid:1001000289816": 3,
+      "gas:candidate-vibid:375300166704": 30,
+      "gas:candidate-vibid:375300166701": 28,
+      "gas:candidate-vibid:375300166707": 60,
+      "special:against-all": 9
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=752000015&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=275200067459&region=0&sub_region=0&type=429",
@@ -5550,11 +5550,11 @@ export const duma_2003_uik_428_region_75_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Виницкий Сергей Борисович": 0,
-      "Лосский Юрий Васильевич": 83,
-      "Шаврова Вера Алексеевна": 47,
-      "Швыряев Ярослав Михайлович": 273,
-      "Против всех": 18
+      "gas:candidate-vibid:1001000289816": 0,
+      "gas:candidate-vibid:375300166704": 83,
+      "gas:candidate-vibid:375300166701": 47,
+      "gas:candidate-vibid:375300166707": 273,
+      "special:against-all": 18
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=752000015&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=275200067459&region=0&sub_region=0&type=429",
@@ -5604,11 +5604,11 @@ export const duma_2003_uik_428_region_75_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Виницкий Сергей Борисович": 8,
-      "Лосский Юрий Васильевич": 137,
-      "Шаврова Вера Алексеевна": 45,
-      "Швыряев Ярослав Михайлович": 179,
-      "Против всех": 18
+      "gas:candidate-vibid:1001000289816": 8,
+      "gas:candidate-vibid:375300166704": 137,
+      "gas:candidate-vibid:375300166701": 45,
+      "gas:candidate-vibid:375300166707": 179,
+      "special:against-all": 18
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=752000015&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=275200067459&region=0&sub_region=0&type=429",
@@ -5658,11 +5658,11 @@ export const duma_2003_uik_428_region_75_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Виницкий Сергей Борисович": 2,
-      "Лосский Юрий Васильевич": 31,
-      "Шаврова Вера Алексеевна": 13,
-      "Швыряев Ярослав Михайлович": 118,
-      "Против всех": 10
+      "gas:candidate-vibid:1001000289816": 2,
+      "gas:candidate-vibid:375300166704": 31,
+      "gas:candidate-vibid:375300166701": 13,
+      "gas:candidate-vibid:375300166707": 118,
+      "special:against-all": 10
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=752000015&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=275200067459&region=0&sub_region=0&type=429",
@@ -5712,11 +5712,11 @@ export const duma_2003_uik_428_region_75_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Виницкий Сергей Борисович": 1,
-      "Лосский Юрий Васильевич": 138,
-      "Шаврова Вера Алексеевна": 16,
-      "Швыряев Ярослав Михайлович": 39,
-      "Против всех": 14
+      "gas:candidate-vibid:1001000289816": 1,
+      "gas:candidate-vibid:375300166704": 138,
+      "gas:candidate-vibid:375300166701": 16,
+      "gas:candidate-vibid:375300166707": 39,
+      "special:against-all": 14
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=752000015&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=275200067459&region=0&sub_region=0&type=429",
@@ -5766,11 +5766,11 @@ export const duma_2003_uik_428_region_75_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Виницкий Сергей Борисович": 0,
-      "Лосский Юрий Васильевич": 11,
-      "Шаврова Вера Алексеевна": 12,
-      "Швыряев Ярослав Михайлович": 60,
-      "Против всех": 2
+      "gas:candidate-vibid:1001000289816": 0,
+      "gas:candidate-vibid:375300166704": 11,
+      "gas:candidate-vibid:375300166701": 12,
+      "gas:candidate-vibid:375300166707": 60,
+      "special:against-all": 2
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=752000015&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=275200067459&region=0&sub_region=0&type=429",
@@ -5820,11 +5820,11 @@ export const duma_2003_uik_428_region_75_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Виницкий Сергей Борисович": 2,
-      "Лосский Юрий Васильевич": 93,
-      "Шаврова Вера Алексеевна": 59,
-      "Швыряев Ярослав Михайлович": 163,
-      "Против всех": 22
+      "gas:candidate-vibid:1001000289816": 2,
+      "gas:candidate-vibid:375300166704": 93,
+      "gas:candidate-vibid:375300166701": 59,
+      "gas:candidate-vibid:375300166707": 163,
+      "special:against-all": 22
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=752000015&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=275200067459&region=0&sub_region=0&type=429",
@@ -5874,11 +5874,11 @@ export const duma_2003_uik_428_region_75_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Виницкий Сергей Борисович": 1,
-      "Лосский Юрий Васильевич": 26,
-      "Шаврова Вера Алексеевна": 5,
-      "Швыряев Ярослав Михайлович": 68,
-      "Против всех": 2
+      "gas:candidate-vibid:1001000289816": 1,
+      "gas:candidate-vibid:375300166704": 26,
+      "gas:candidate-vibid:375300166701": 5,
+      "gas:candidate-vibid:375300166707": 68,
+      "special:against-all": 2
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=752000015&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=275200067459&region=0&sub_region=0&type=429",
@@ -5928,11 +5928,11 @@ export const duma_2003_uik_428_region_75_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Виницкий Сергей Борисович": 5,
-      "Лосский Юрий Васильевич": 394,
-      "Шаврова Вера Алексеевна": 45,
-      "Швыряев Ярослав Михайлович": 216,
-      "Против всех": 49
+      "gas:candidate-vibid:1001000289816": 5,
+      "gas:candidate-vibid:375300166704": 394,
+      "gas:candidate-vibid:375300166701": 45,
+      "gas:candidate-vibid:375300166707": 216,
+      "special:against-all": 49
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=752000016&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=275200067461&region=0&sub_region=0&type=429",
@@ -5982,11 +5982,11 @@ export const duma_2003_uik_428_region_75_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Виницкий Сергей Борисович": 11,
-      "Лосский Юрий Васильевич": 545,
-      "Шаврова Вера Алексеевна": 84,
-      "Швыряев Ярослав Михайлович": 273,
-      "Против всех": 63
+      "gas:candidate-vibid:1001000289816": 11,
+      "gas:candidate-vibid:375300166704": 545,
+      "gas:candidate-vibid:375300166701": 84,
+      "gas:candidate-vibid:375300166707": 273,
+      "special:against-all": 63
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=752000016&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=275200067461&region=0&sub_region=0&type=429",
@@ -6036,11 +6036,11 @@ export const duma_2003_uik_428_region_75_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Виницкий Сергей Борисович": 75,
-      "Лосский Юрий Васильевич": 645,
-      "Шаврова Вера Алексеевна": 113,
-      "Швыряев Ярослав Михайлович": 246,
-      "Против всех": 171
+      "gas:candidate-vibid:1001000289816": 75,
+      "gas:candidate-vibid:375300166704": 645,
+      "gas:candidate-vibid:375300166701": 113,
+      "gas:candidate-vibid:375300166707": 246,
+      "special:against-all": 171
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=752000016&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=275200067461&region=0&sub_region=0&type=429",
@@ -6090,11 +6090,11 @@ export const duma_2003_uik_428_region_75_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Виницкий Сергей Борисович": 47,
-      "Лосский Юрий Васильевич": 283,
-      "Шаврова Вера Алексеевна": 45,
-      "Швыряев Ярослав Михайлович": 111,
-      "Против всех": 66
+      "gas:candidate-vibid:1001000289816": 47,
+      "gas:candidate-vibid:375300166704": 283,
+      "gas:candidate-vibid:375300166701": 45,
+      "gas:candidate-vibid:375300166707": 111,
+      "special:against-all": 66
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=752000016&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=275200067461&region=0&sub_region=0&type=429",
@@ -6144,11 +6144,11 @@ export const duma_2003_uik_428_region_75_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Виницкий Сергей Борисович": 4,
-      "Лосский Юрий Васильевич": 533,
-      "Шаврова Вера Алексеевна": 28,
-      "Швыряев Ярослав Михайлович": 96,
-      "Против всех": 22
+      "gas:candidate-vibid:1001000289816": 4,
+      "gas:candidate-vibid:375300166704": 533,
+      "gas:candidate-vibid:375300166701": 28,
+      "gas:candidate-vibid:375300166707": 96,
+      "special:against-all": 22
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=752000016&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=275200067461&region=0&sub_region=0&type=429",
@@ -6198,11 +6198,11 @@ export const duma_2003_uik_428_region_75_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Виницкий Сергей Борисович": 7,
-      "Лосский Юрий Васильевич": 295,
-      "Шаврова Вера Алексеевна": 17,
-      "Швыряев Ярослав Михайлович": 101,
-      "Против всех": 13
+      "gas:candidate-vibid:1001000289816": 7,
+      "gas:candidate-vibid:375300166704": 295,
+      "gas:candidate-vibid:375300166701": 17,
+      "gas:candidate-vibid:375300166707": 101,
+      "special:against-all": 13
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=752000016&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=275200067461&region=0&sub_region=0&type=429",
@@ -6252,11 +6252,11 @@ export const duma_2003_uik_428_region_75_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Виницкий Сергей Борисович": 3,
-      "Лосский Юрий Васильевич": 185,
-      "Шаврова Вера Алексеевна": 21,
-      "Швыряев Ярослав Михайлович": 55,
-      "Против всех": 10
+      "gas:candidate-vibid:1001000289816": 3,
+      "gas:candidate-vibid:375300166704": 185,
+      "gas:candidate-vibid:375300166701": 21,
+      "gas:candidate-vibid:375300166707": 55,
+      "special:against-all": 10
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=752000016&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=275200067461&region=0&sub_region=0&type=429",
@@ -6306,11 +6306,11 @@ export const duma_2003_uik_428_region_75_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Виницкий Сергей Борисович": 7,
-      "Лосский Юрий Васильевич": 165,
-      "Шаврова Вера Алексеевна": 24,
-      "Швыряев Ярослав Михайлович": 57,
-      "Против всех": 10
+      "gas:candidate-vibid:1001000289816": 7,
+      "gas:candidate-vibid:375300166704": 165,
+      "gas:candidate-vibid:375300166701": 24,
+      "gas:candidate-vibid:375300166707": 57,
+      "special:against-all": 10
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=752000016&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=275200067461&region=0&sub_region=0&type=429",
@@ -6360,11 +6360,11 @@ export const duma_2003_uik_428_region_75_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Виницкий Сергей Борисович": 3,
-      "Лосский Юрий Васильевич": 363,
-      "Шаврова Вера Алексеевна": 13,
-      "Швыряев Ярослав Михайлович": 48,
-      "Против всех": 15
+      "gas:candidate-vibid:1001000289816": 3,
+      "gas:candidate-vibid:375300166704": 363,
+      "gas:candidate-vibid:375300166701": 13,
+      "gas:candidate-vibid:375300166707": 48,
+      "special:against-all": 15
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=752000016&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=275200067461&region=0&sub_region=0&type=429",
@@ -6414,11 +6414,11 @@ export const duma_2003_uik_428_region_75_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Виницкий Сергей Борисович": 1,
-      "Лосский Юрий Васильевич": 159,
-      "Шаврова Вера Алексеевна": 6,
-      "Швыряев Ярослав Михайлович": 34,
-      "Против всех": 3
+      "gas:candidate-vibid:1001000289816": 1,
+      "gas:candidate-vibid:375300166704": 159,
+      "gas:candidate-vibid:375300166701": 6,
+      "gas:candidate-vibid:375300166707": 34,
+      "special:against-all": 3
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=752000016&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=275200067461&region=0&sub_region=0&type=429",
@@ -6468,11 +6468,11 @@ export const duma_2003_uik_428_region_75_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Виницкий Сергей Борисович": 2,
-      "Лосский Юрий Васильевич": 186,
-      "Шаврова Вера Алексеевна": 10,
-      "Швыряев Ярослав Михайлович": 41,
-      "Против всех": 3
+      "gas:candidate-vibid:1001000289816": 2,
+      "gas:candidate-vibid:375300166704": 186,
+      "gas:candidate-vibid:375300166701": 10,
+      "gas:candidate-vibid:375300166707": 41,
+      "special:against-all": 3
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=752000016&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=275200067461&region=0&sub_region=0&type=429",
@@ -6522,11 +6522,11 @@ export const duma_2003_uik_428_region_75_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Виницкий Сергей Борисович": 5,
-      "Лосский Юрий Васильевич": 106,
-      "Шаврова Вера Алексеевна": 23,
-      "Швыряев Ярослав Михайлович": 17,
-      "Против всех": 8
+      "gas:candidate-vibid:1001000289816": 5,
+      "gas:candidate-vibid:375300166704": 106,
+      "gas:candidate-vibid:375300166701": 23,
+      "gas:candidate-vibid:375300166707": 17,
+      "special:against-all": 8
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=752000016&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=275200067461&region=0&sub_region=0&type=429",
@@ -6576,11 +6576,11 @@ export const duma_2003_uik_428_region_75_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Виницкий Сергей Борисович": 8,
-      "Лосский Юрий Васильевич": 330,
-      "Шаврова Вера Алексеевна": 30,
-      "Швыряев Ярослав Михайлович": 81,
-      "Против всех": 35
+      "gas:candidate-vibid:1001000289816": 8,
+      "gas:candidate-vibid:375300166704": 330,
+      "gas:candidate-vibid:375300166701": 30,
+      "gas:candidate-vibid:375300166707": 81,
+      "special:against-all": 35
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=752000016&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=275200067461&region=0&sub_region=0&type=429",
@@ -6630,11 +6630,11 @@ export const duma_2003_uik_428_region_75_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Виницкий Сергей Борисович": 19,
-      "Лосский Юрий Васильевич": 206,
-      "Шаврова Вера Алексеевна": 33,
-      "Швыряев Ярослав Михайлович": 78,
-      "Против всех": 29
+      "gas:candidate-vibid:1001000289816": 19,
+      "gas:candidate-vibid:375300166704": 206,
+      "gas:candidate-vibid:375300166701": 33,
+      "gas:candidate-vibid:375300166707": 78,
+      "special:against-all": 29
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=752000016&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=275200067461&region=0&sub_region=0&type=429",
@@ -6684,11 +6684,11 @@ export const duma_2003_uik_428_region_75_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Виницкий Сергей Борисович": 2,
-      "Лосский Юрий Васильевич": 279,
-      "Шаврова Вера Алексеевна": 31,
-      "Швыряев Ярослав Михайлович": 44,
-      "Против всех": 14
+      "gas:candidate-vibid:1001000289816": 2,
+      "gas:candidate-vibid:375300166704": 279,
+      "gas:candidate-vibid:375300166701": 31,
+      "gas:candidate-vibid:375300166707": 44,
+      "special:against-all": 14
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=752000016&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=275200067461&region=0&sub_region=0&type=429",
@@ -6738,11 +6738,11 @@ export const duma_2003_uik_428_region_75_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Виницкий Сергей Борисович": 1,
-      "Лосский Юрий Васильевич": 207,
-      "Шаврова Вера Алексеевна": 6,
-      "Швыряев Ярослав Михайлович": 37,
-      "Против всех": 20
+      "gas:candidate-vibid:1001000289816": 1,
+      "gas:candidate-vibid:375300166704": 207,
+      "gas:candidate-vibid:375300166701": 6,
+      "gas:candidate-vibid:375300166707": 37,
+      "special:against-all": 20
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=752000016&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=275200067461&region=0&sub_region=0&type=429",
@@ -6792,11 +6792,11 @@ export const duma_2003_uik_428_region_75_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Виницкий Сергей Борисович": 2,
-      "Лосский Юрий Васильевич": 131,
-      "Шаврова Вера Алексеевна": 36,
-      "Швыряев Ярослав Михайлович": 134,
-      "Против всех": 23
+      "gas:candidate-vibid:1001000289816": 2,
+      "gas:candidate-vibid:375300166704": 131,
+      "gas:candidate-vibid:375300166701": 36,
+      "gas:candidate-vibid:375300166707": 134,
+      "special:against-all": 23
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=752000016&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=275200067461&region=0&sub_region=0&type=429",
@@ -6846,11 +6846,11 @@ export const duma_2003_uik_428_region_75_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Виницкий Сергей Борисович": 0,
-      "Лосский Юрий Васильевич": 53,
-      "Шаврова Вера Алексеевна": 2,
-      "Швыряев Ярослав Михайлович": 5,
-      "Против всех": 3
+      "gas:candidate-vibid:1001000289816": 0,
+      "gas:candidate-vibid:375300166704": 53,
+      "gas:candidate-vibid:375300166701": 2,
+      "gas:candidate-vibid:375300166707": 5,
+      "special:against-all": 3
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=752000016&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=275200067461&region=0&sub_region=0&type=429",
@@ -6900,11 +6900,11 @@ export const duma_2003_uik_428_region_75_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Виницкий Сергей Борисович": 4,
-      "Лосский Юрий Васильевич": 176,
-      "Шаврова Вера Алексеевна": 31,
-      "Швыряев Ярослав Михайлович": 55,
-      "Против всех": 16
+      "gas:candidate-vibid:1001000289816": 4,
+      "gas:candidate-vibid:375300166704": 176,
+      "gas:candidate-vibid:375300166701": 31,
+      "gas:candidate-vibid:375300166707": 55,
+      "special:against-all": 16
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=752000016&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=275200067461&region=0&sub_region=0&type=429",
@@ -6954,11 +6954,11 @@ export const duma_2003_uik_428_region_75_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Виницкий Сергей Борисович": 1,
-      "Лосский Юрий Васильевич": 38,
-      "Шаврова Вера Алексеевна": 0,
-      "Швыряев Ярослав Михайлович": 12,
-      "Против всех": 3
+      "gas:candidate-vibid:1001000289816": 1,
+      "gas:candidate-vibid:375300166704": 38,
+      "gas:candidate-vibid:375300166701": 0,
+      "gas:candidate-vibid:375300166707": 12,
+      "special:against-all": 3
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=752000016&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=275200067461&region=0&sub_region=0&type=429",
@@ -7008,11 +7008,11 @@ export const duma_2003_uik_428_region_75_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Виницкий Сергей Борисович": 2,
-      "Лосский Юрий Васильевич": 80,
-      "Шаврова Вера Алексеевна": 3,
-      "Швыряев Ярослав Михайлович": 22,
-      "Против всех": 3
+      "gas:candidate-vibid:1001000289816": 2,
+      "gas:candidate-vibid:375300166704": 80,
+      "gas:candidate-vibid:375300166701": 3,
+      "gas:candidate-vibid:375300166707": 22,
+      "special:against-all": 3
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=752000016&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=275200067461&region=0&sub_region=0&type=429",
@@ -7062,11 +7062,11 @@ export const duma_2003_uik_428_region_75_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Виницкий Сергей Борисович": 4,
-      "Лосский Юрий Васильевич": 266,
-      "Шаврова Вера Алексеевна": 47,
-      "Швыряев Ярослав Михайлович": 225,
-      "Против всех": 28
+      "gas:candidate-vibid:1001000289816": 4,
+      "gas:candidate-vibid:375300166704": 266,
+      "gas:candidate-vibid:375300166701": 47,
+      "gas:candidate-vibid:375300166707": 225,
+      "special:against-all": 28
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=752000016&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=275200067461&region=0&sub_region=0&type=429",
@@ -7116,11 +7116,11 @@ export const duma_2003_uik_428_region_75_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Виницкий Сергей Борисович": 5,
-      "Лосский Юрий Васильевич": 40,
-      "Шаврова Вера Алексеевна": 1,
-      "Швыряев Ярослав Михайлович": 35,
-      "Против всех": 6
+      "gas:candidate-vibid:1001000289816": 5,
+      "gas:candidate-vibid:375300166704": 40,
+      "gas:candidate-vibid:375300166701": 1,
+      "gas:candidate-vibid:375300166707": 35,
+      "special:against-all": 6
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=752000016&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=275200067461&region=0&sub_region=0&type=429",
@@ -7170,11 +7170,11 @@ export const duma_2003_uik_428_region_75_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Виницкий Сергей Борисович": 38,
-      "Лосский Юрий Васильевич": 834,
-      "Шаврова Вера Алексеевна": 177,
-      "Швыряев Ярослав Михайлович": 130,
-      "Против всех": 108
+      "gas:candidate-vibid:1001000289816": 38,
+      "gas:candidate-vibid:375300166704": 834,
+      "gas:candidate-vibid:375300166701": 177,
+      "gas:candidate-vibid:375300166707": 130,
+      "special:against-all": 108
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=752000016&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=275200067461&region=0&sub_region=0&type=429",
@@ -7224,11 +7224,11 @@ export const duma_2003_uik_428_region_75_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Виницкий Сергей Борисович": 7,
-      "Лосский Юрий Васильевич": 65,
-      "Шаврова Вера Алексеевна": 86,
-      "Швыряев Ярослав Михайлович": 40,
-      "Против всех": 8
+      "gas:candidate-vibid:1001000289816": 7,
+      "gas:candidate-vibid:375300166704": 65,
+      "gas:candidate-vibid:375300166701": 86,
+      "gas:candidate-vibid:375300166707": 40,
+      "special:against-all": 8
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=752000016&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=275200067461&region=0&sub_region=0&type=429",
@@ -7278,11 +7278,11 @@ export const duma_2003_uik_428_region_75_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Виницкий Сергей Борисович": 2,
-      "Лосский Юрий Васильевич": 122,
-      "Шаврова Вера Алексеевна": 16,
-      "Швыряев Ярослав Михайлович": 61,
-      "Против всех": 7
+      "gas:candidate-vibid:1001000289816": 2,
+      "gas:candidate-vibid:375300166704": 122,
+      "gas:candidate-vibid:375300166701": 16,
+      "gas:candidate-vibid:375300166707": 61,
+      "special:against-all": 7
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=752000016&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=275200067461&region=0&sub_region=0&type=429",
@@ -7332,11 +7332,11 @@ export const duma_2003_uik_428_region_75_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Виницкий Сергей Борисович": 2,
-      "Лосский Юрий Васильевич": 116,
-      "Шаврова Вера Алексеевна": 7,
-      "Швыряев Ярослав Михайлович": 30,
-      "Против всех": 7
+      "gas:candidate-vibid:1001000289816": 2,
+      "gas:candidate-vibid:375300166704": 116,
+      "gas:candidate-vibid:375300166701": 7,
+      "gas:candidate-vibid:375300166707": 30,
+      "special:against-all": 7
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=752000016&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=275200067461&region=0&sub_region=0&type=429",
@@ -7386,11 +7386,11 @@ export const duma_2003_uik_428_region_75_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Виницкий Сергей Борисович": 8,
-      "Лосский Юрий Васильевич": 90,
-      "Шаврова Вера Алексеевна": 41,
-      "Швыряев Ярослав Михайлович": 107,
-      "Против всех": 29
+      "gas:candidate-vibid:1001000289816": 8,
+      "gas:candidate-vibid:375300166704": 90,
+      "gas:candidate-vibid:375300166701": 41,
+      "gas:candidate-vibid:375300166707": 107,
+      "special:against-all": 29
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=752000017&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=275200067463&region=0&sub_region=0&type=429",
@@ -7440,11 +7440,11 @@ export const duma_2003_uik_428_region_75_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Виницкий Сергей Борисович": 8,
-      "Лосский Юрий Васильевич": 84,
-      "Шаврова Вера Алексеевна": 26,
-      "Швыряев Ярослав Михайлович": 72,
-      "Против всех": 28
+      "gas:candidate-vibid:1001000289816": 8,
+      "gas:candidate-vibid:375300166704": 84,
+      "gas:candidate-vibid:375300166701": 26,
+      "gas:candidate-vibid:375300166707": 72,
+      "special:against-all": 28
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=752000017&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=275200067463&region=0&sub_region=0&type=429",
@@ -7494,11 +7494,11 @@ export const duma_2003_uik_428_region_75_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Виницкий Сергей Борисович": 14,
-      "Лосский Юрий Васильевич": 168,
-      "Шаврова Вера Алексеевна": 49,
-      "Швыряев Ярослав Михайлович": 138,
-      "Против всех": 27
+      "gas:candidate-vibid:1001000289816": 14,
+      "gas:candidate-vibid:375300166704": 168,
+      "gas:candidate-vibid:375300166701": 49,
+      "gas:candidate-vibid:375300166707": 138,
+      "special:against-all": 27
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=752000017&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=275200067463&region=0&sub_region=0&type=429",
@@ -7548,11 +7548,11 @@ export const duma_2003_uik_428_region_75_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Виницкий Сергей Борисович": 8,
-      "Лосский Юрий Васильевич": 97,
-      "Шаврова Вера Алексеевна": 22,
-      "Швыряев Ярослав Михайлович": 78,
-      "Против всех": 16
+      "gas:candidate-vibid:1001000289816": 8,
+      "gas:candidate-vibid:375300166704": 97,
+      "gas:candidate-vibid:375300166701": 22,
+      "gas:candidate-vibid:375300166707": 78,
+      "special:against-all": 16
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=752000017&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=275200067463&region=0&sub_region=0&type=429",
@@ -7602,11 +7602,11 @@ export const duma_2003_uik_428_region_75_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Виницкий Сергей Борисович": 9,
-      "Лосский Юрий Васильевич": 182,
-      "Шаврова Вера Алексеевна": 42,
-      "Швыряев Ярослав Михайлович": 134,
-      "Против всех": 23
+      "gas:candidate-vibid:1001000289816": 9,
+      "gas:candidate-vibid:375300166704": 182,
+      "gas:candidate-vibid:375300166701": 42,
+      "gas:candidate-vibid:375300166707": 134,
+      "special:against-all": 23
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=752000017&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=275200067463&region=0&sub_region=0&type=429",
@@ -7656,11 +7656,11 @@ export const duma_2003_uik_428_region_75_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Виницкий Сергей Борисович": 6,
-      "Лосский Юрий Васильевич": 119,
-      "Шаврова Вера Алексеевна": 27,
-      "Швыряев Ярослав Михайлович": 101,
-      "Против всех": 24
+      "gas:candidate-vibid:1001000289816": 6,
+      "gas:candidate-vibid:375300166704": 119,
+      "gas:candidate-vibid:375300166701": 27,
+      "gas:candidate-vibid:375300166707": 101,
+      "special:against-all": 24
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=752000017&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=275200067463&region=0&sub_region=0&type=429",
@@ -7710,11 +7710,11 @@ export const duma_2003_uik_428_region_75_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Виницкий Сергей Борисович": 25,
-      "Лосский Юрий Васильевич": 353,
-      "Шаврова Вера Алексеевна": 45,
-      "Швыряев Ярослав Михайлович": 164,
-      "Против всех": 78
+      "gas:candidate-vibid:1001000289816": 25,
+      "gas:candidate-vibid:375300166704": 353,
+      "gas:candidate-vibid:375300166701": 45,
+      "gas:candidate-vibid:375300166707": 164,
+      "special:against-all": 78
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=752000017&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=275200067463&region=0&sub_region=0&type=429",
@@ -7764,11 +7764,11 @@ export const duma_2003_uik_428_region_75_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Виницкий Сергей Борисович": 18,
-      "Лосский Юрий Васильевич": 78,
-      "Шаврова Вера Алексеевна": 58,
-      "Швыряев Ярослав Михайлович": 83,
-      "Против всех": 30
+      "gas:candidate-vibid:1001000289816": 18,
+      "gas:candidate-vibid:375300166704": 78,
+      "gas:candidate-vibid:375300166701": 58,
+      "gas:candidate-vibid:375300166707": 83,
+      "special:against-all": 30
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=752000017&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=275200067463&region=0&sub_region=0&type=429",
@@ -7818,11 +7818,11 @@ export const duma_2003_uik_428_region_75_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Виницкий Сергей Борисович": 3,
-      "Лосский Юрий Васильевич": 120,
-      "Шаврова Вера Алексеевна": 87,
-      "Швыряев Ярослав Михайлович": 55,
-      "Против всех": 34
+      "gas:candidate-vibid:1001000289816": 3,
+      "gas:candidate-vibid:375300166704": 120,
+      "gas:candidate-vibid:375300166701": 87,
+      "gas:candidate-vibid:375300166707": 55,
+      "special:against-all": 34
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=752000017&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=275200067463&region=0&sub_region=0&type=429",
@@ -7872,11 +7872,11 @@ export const duma_2003_uik_428_region_75_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Виницкий Сергей Борисович": 23,
-      "Лосский Юрий Васильевич": 602,
-      "Шаврова Вера Алексеевна": 142,
-      "Швыряев Ярослав Михайлович": 268,
-      "Против всех": 96
+      "gas:candidate-vibid:1001000289816": 23,
+      "gas:candidate-vibid:375300166704": 602,
+      "gas:candidate-vibid:375300166701": 142,
+      "gas:candidate-vibid:375300166707": 268,
+      "special:against-all": 96
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=752000017&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=275200067463&region=0&sub_region=0&type=429",
@@ -7926,11 +7926,11 @@ export const duma_2003_uik_428_region_75_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Виницкий Сергей Борисович": 17,
-      "Лосский Юрий Васильевич": 598,
-      "Шаврова Вера Алексеевна": 172,
-      "Швыряев Ярослав Михайлович": 301,
-      "Против всех": 86
+      "gas:candidate-vibid:1001000289816": 17,
+      "gas:candidate-vibid:375300166704": 598,
+      "gas:candidate-vibid:375300166701": 172,
+      "gas:candidate-vibid:375300166707": 301,
+      "special:against-all": 86
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=752000017&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=275200067463&region=0&sub_region=0&type=429",
@@ -7980,11 +7980,11 @@ export const duma_2003_uik_428_region_75_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Виницкий Сергей Борисович": 103,
-      "Лосский Юрий Васильевич": 410,
-      "Шаврова Вера Алексеевна": 199,
-      "Швыряев Ярослав Михайлович": 164,
-      "Против всех": 288
+      "gas:candidate-vibid:1001000289816": 103,
+      "gas:candidate-vibid:375300166704": 410,
+      "gas:candidate-vibid:375300166701": 199,
+      "gas:candidate-vibid:375300166707": 164,
+      "special:against-all": 288
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=752000017&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=275200067463&region=0&sub_region=0&type=429",
@@ -8034,11 +8034,11 @@ export const duma_2003_uik_428_region_75_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Виницкий Сергей Борисович": 2,
-      "Лосский Юрий Васильевич": 17,
-      "Шаврова Вера Алексеевна": 7,
-      "Швыряев Ярослав Михайлович": 10,
-      "Против всех": 5
+      "gas:candidate-vibid:1001000289816": 2,
+      "gas:candidate-vibid:375300166704": 17,
+      "gas:candidate-vibid:375300166701": 7,
+      "gas:candidate-vibid:375300166707": 10,
+      "special:against-all": 5
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=752000017&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=275200067463&region=0&sub_region=0&type=429",
@@ -8088,11 +8088,11 @@ export const duma_2003_uik_428_region_75_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Виницкий Сергей Борисович": 2,
-      "Лосский Юрий Васильевич": 27,
-      "Шаврова Вера Алексеевна": 22,
-      "Швыряев Ярослав Михайлович": 20,
-      "Против всех": 37
+      "gas:candidate-vibid:1001000289816": 2,
+      "gas:candidate-vibid:375300166704": 27,
+      "gas:candidate-vibid:375300166701": 22,
+      "gas:candidate-vibid:375300166707": 20,
+      "special:against-all": 37
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=752000017&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=275200067463&region=0&sub_region=0&type=429",
@@ -8142,11 +8142,11 @@ export const duma_2003_uik_428_region_75_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Виницкий Сергей Борисович": 16,
-      "Лосский Юрий Васильевич": 158,
-      "Шаврова Вера Алексеевна": 127,
-      "Швыряев Ярослав Михайлович": 76,
-      "Против всех": 44
+      "gas:candidate-vibid:1001000289816": 16,
+      "gas:candidate-vibid:375300166704": 158,
+      "gas:candidate-vibid:375300166701": 127,
+      "gas:candidate-vibid:375300166707": 76,
+      "special:against-all": 44
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=752000017&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=275200067463&region=0&sub_region=0&type=429",
@@ -8196,11 +8196,11 @@ export const duma_2003_uik_428_region_75_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Виницкий Сергей Борисович": 3,
-      "Лосский Юрий Васильевич": 11,
-      "Шаврова Вера Алексеевна": 3,
-      "Швыряев Ярослав Михайлович": 15,
-      "Против всех": 4
+      "gas:candidate-vibid:1001000289816": 3,
+      "gas:candidate-vibid:375300166704": 11,
+      "gas:candidate-vibid:375300166701": 3,
+      "gas:candidate-vibid:375300166707": 15,
+      "special:against-all": 4
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=752000017&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=275200067463&region=0&sub_region=0&type=429",
@@ -8250,11 +8250,11 @@ export const duma_2003_uik_428_region_75_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Виницкий Сергей Борисович": 3,
-      "Лосский Юрий Васильевич": 121,
-      "Шаврова Вера Алексеевна": 30,
-      "Швыряев Ярослав Михайлович": 82,
-      "Против всех": 14
+      "gas:candidate-vibid:1001000289816": 3,
+      "gas:candidate-vibid:375300166704": 121,
+      "gas:candidate-vibid:375300166701": 30,
+      "gas:candidate-vibid:375300166707": 82,
+      "special:against-all": 14
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=752000017&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=275200067463&region=0&sub_region=0&type=429",
@@ -8304,11 +8304,11 @@ export const duma_2003_uik_428_region_75_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Виницкий Сергей Борисович": 7,
-      "Лосский Юрий Васильевич": 96,
-      "Шаврова Вера Алексеевна": 57,
-      "Швыряев Ярослав Михайлович": 92,
-      "Против всех": 13
+      "gas:candidate-vibid:1001000289816": 7,
+      "gas:candidate-vibid:375300166704": 96,
+      "gas:candidate-vibid:375300166701": 57,
+      "gas:candidate-vibid:375300166707": 92,
+      "special:against-all": 13
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=752000017&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=275200067463&region=0&sub_region=0&type=429",
@@ -8358,11 +8358,11 @@ export const duma_2003_uik_428_region_75_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Виницкий Сергей Борисович": 3,
-      "Лосский Юрий Васильевич": 35,
-      "Шаврова Вера Алексеевна": 21,
-      "Швыряев Ярослав Михайлович": 74,
-      "Против всех": 9
+      "gas:candidate-vibid:1001000289816": 3,
+      "gas:candidate-vibid:375300166704": 35,
+      "gas:candidate-vibid:375300166701": 21,
+      "gas:candidate-vibid:375300166707": 74,
+      "special:against-all": 9
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=752000017&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=275200067463&region=0&sub_region=0&type=429",
@@ -8412,11 +8412,11 @@ export const duma_2003_uik_428_region_75_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Виницкий Сергей Борисович": 7,
-      "Лосский Юрий Васильевич": 119,
-      "Шаврова Вера Алексеевна": 79,
-      "Швыряев Ярослав Михайлович": 140,
-      "Против всех": 32
+      "gas:candidate-vibid:1001000289816": 7,
+      "gas:candidate-vibid:375300166704": 119,
+      "gas:candidate-vibid:375300166701": 79,
+      "gas:candidate-vibid:375300166707": 140,
+      "special:against-all": 32
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=752000017&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=275200067463&region=0&sub_region=0&type=429",
@@ -8466,11 +8466,11 @@ export const duma_2003_uik_428_region_75_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Виницкий Сергей Борисович": 0,
-      "Лосский Юрий Васильевич": 20,
-      "Шаврова Вера Алексеевна": 5,
-      "Швыряев Ярослав Михайлович": 9,
-      "Против всех": 8
+      "gas:candidate-vibid:1001000289816": 0,
+      "gas:candidate-vibid:375300166704": 20,
+      "gas:candidate-vibid:375300166701": 5,
+      "gas:candidate-vibid:375300166707": 9,
+      "special:against-all": 8
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=752000017&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=275200067463&region=0&sub_region=0&type=429",
@@ -8520,11 +8520,11 @@ export const duma_2003_uik_428_region_75_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Виницкий Сергей Борисович": 6,
-      "Лосский Юрий Васильевич": 106,
-      "Шаврова Вера Алексеевна": 24,
-      "Швыряев Ярослав Михайлович": 92,
-      "Против всех": 31
+      "gas:candidate-vibid:1001000289816": 6,
+      "gas:candidate-vibid:375300166704": 106,
+      "gas:candidate-vibid:375300166701": 24,
+      "gas:candidate-vibid:375300166707": 92,
+      "special:against-all": 31
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=752000017&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=275200067463&region=0&sub_region=0&type=429",
@@ -8574,11 +8574,11 @@ export const duma_2003_uik_428_region_75_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Виницкий Сергей Борисович": 2,
-      "Лосский Юрий Васильевич": 38,
-      "Шаврова Вера Алексеевна": 10,
-      "Швыряев Ярослав Михайлович": 9,
-      "Против всех": 7
+      "gas:candidate-vibid:1001000289816": 2,
+      "gas:candidate-vibid:375300166704": 38,
+      "gas:candidate-vibid:375300166701": 10,
+      "gas:candidate-vibid:375300166707": 9,
+      "special:against-all": 7
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=752000017&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=275200067463&region=0&sub_region=0&type=429",
@@ -8628,11 +8628,11 @@ export const duma_2003_uik_428_region_75_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Виницкий Сергей Борисович": 6,
-      "Лосский Юрий Васильевич": 10,
-      "Шаврова Вера Алексеевна": 16,
-      "Швыряев Ярослав Михайлович": 23,
-      "Против всех": 24
+      "gas:candidate-vibid:1001000289816": 6,
+      "gas:candidate-vibid:375300166704": 10,
+      "gas:candidate-vibid:375300166701": 16,
+      "gas:candidate-vibid:375300166707": 23,
+      "special:against-all": 24
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=752000017&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=275200067463&region=0&sub_region=0&type=429",
@@ -8682,11 +8682,11 @@ export const duma_2003_uik_428_region_75_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Виницкий Сергей Борисович": 6,
-      "Лосский Юрий Васильевич": 68,
-      "Шаврова Вера Алексеевна": 77,
-      "Швыряев Ярослав Михайлович": 140,
-      "Против всех": 13
+      "gas:candidate-vibid:1001000289816": 6,
+      "gas:candidate-vibid:375300166704": 68,
+      "gas:candidate-vibid:375300166701": 77,
+      "gas:candidate-vibid:375300166707": 140,
+      "special:against-all": 13
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=752000017&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=275200067463&region=0&sub_region=0&type=429",
@@ -8736,11 +8736,11 @@ export const duma_2003_uik_428_region_75_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Виницкий Сергей Борисович": 3,
-      "Лосский Юрий Васильевич": 106,
-      "Шаврова Вера Алексеевна": 20,
-      "Швыряев Ярослав Михайлович": 56,
-      "Против всех": 23
+      "gas:candidate-vibid:1001000289816": 3,
+      "gas:candidate-vibid:375300166704": 106,
+      "gas:candidate-vibid:375300166701": 20,
+      "gas:candidate-vibid:375300166707": 56,
+      "special:against-all": 23
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=752000017&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=275200067463&region=0&sub_region=0&type=429",
@@ -8790,11 +8790,11 @@ export const duma_2003_uik_428_region_75_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Виницкий Сергей Борисович": 9,
-      "Лосский Юрий Васильевич": 94,
-      "Шаврова Вера Алексеевна": 43,
-      "Швыряев Ярослав Михайлович": 108,
-      "Против всех": 31
+      "gas:candidate-vibid:1001000289816": 9,
+      "gas:candidate-vibid:375300166704": 94,
+      "gas:candidate-vibid:375300166701": 43,
+      "gas:candidate-vibid:375300166707": 108,
+      "special:against-all": 31
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=752000017&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=275200067463&region=0&sub_region=0&type=429",
@@ -8844,11 +8844,11 @@ export const duma_2003_uik_428_region_75_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Виницкий Сергей Борисович": 17,
-      "Лосский Юрий Васильевич": 184,
-      "Шаврова Вера Алексеевна": 79,
-      "Швыряев Ярослав Михайлович": 41,
-      "Против всех": 9
+      "gas:candidate-vibid:1001000289816": 17,
+      "gas:candidate-vibid:375300166704": 184,
+      "gas:candidate-vibid:375300166701": 79,
+      "gas:candidate-vibid:375300166707": 41,
+      "special:against-all": 9
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=752000017&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=275200067463&region=0&sub_region=0&type=429",
@@ -8898,11 +8898,11 @@ export const duma_2003_uik_428_region_75_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Виницкий Сергей Борисович": 4,
-      "Лосский Юрий Васильевич": 39,
-      "Шаврова Вера Алексеевна": 14,
-      "Швыряев Ярослав Михайлович": 3,
-      "Против всех": 4
+      "gas:candidate-vibid:1001000289816": 4,
+      "gas:candidate-vibid:375300166704": 39,
+      "gas:candidate-vibid:375300166701": 14,
+      "gas:candidate-vibid:375300166707": 3,
+      "special:against-all": 4
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=752000017&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=275200067463&region=0&sub_region=0&type=429",
@@ -8952,11 +8952,11 @@ export const duma_2003_uik_428_region_75_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Виницкий Сергей Борисович": 0,
-      "Лосский Юрий Васильевич": 34,
-      "Шаврова Вера Алексеевна": 3,
-      "Швыряев Ярослав Михайлович": 21,
-      "Против всех": 11
+      "gas:candidate-vibid:1001000289816": 0,
+      "gas:candidate-vibid:375300166704": 34,
+      "gas:candidate-vibid:375300166701": 3,
+      "gas:candidate-vibid:375300166707": 21,
+      "special:against-all": 11
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=752000017&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=275200067463&region=0&sub_region=0&type=429",
@@ -9006,11 +9006,11 @@ export const duma_2003_uik_428_region_75_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Виницкий Сергей Борисович": 1,
-      "Лосский Юрий Васильевич": 31,
-      "Шаврова Вера Алексеевна": 21,
-      "Швыряев Ярослав Михайлович": 72,
-      "Против всех": 5
+      "gas:candidate-vibid:1001000289816": 1,
+      "gas:candidate-vibid:375300166704": 31,
+      "gas:candidate-vibid:375300166701": 21,
+      "gas:candidate-vibid:375300166707": 72,
+      "special:against-all": 5
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=752000017&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=275200067463&region=0&sub_region=0&type=429",
@@ -9060,11 +9060,11 @@ export const duma_2003_uik_428_region_75_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Виницкий Сергей Борисович": 16,
-      "Лосский Юрий Васильевич": 53,
-      "Шаврова Вера Алексеевна": 58,
-      "Швыряев Ярослав Михайлович": 122,
-      "Против всех": 15
+      "gas:candidate-vibid:1001000289816": 16,
+      "gas:candidate-vibid:375300166704": 53,
+      "gas:candidate-vibid:375300166701": 58,
+      "gas:candidate-vibid:375300166707": 122,
+      "special:against-all": 15
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=752000017&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=275200067463&region=0&sub_region=0&type=429",
@@ -9114,11 +9114,11 @@ export const duma_2003_uik_428_region_75_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Виницкий Сергей Борисович": 3,
-      "Лосский Юрий Васильевич": 5,
-      "Шаврова Вера Алексеевна": 24,
-      "Швыряев Ярослав Михайлович": 27,
-      "Против всех": 0
+      "gas:candidate-vibid:1001000289816": 3,
+      "gas:candidate-vibid:375300166704": 5,
+      "gas:candidate-vibid:375300166701": 24,
+      "gas:candidate-vibid:375300166707": 27,
+      "special:against-all": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=752000017&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=275200067463&region=0&sub_region=0&type=429",
@@ -9168,11 +9168,11 @@ export const duma_2003_uik_428_region_75_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Виницкий Сергей Борисович": 2,
-      "Лосский Юрий Васильевич": 79,
-      "Шаврова Вера Алексеевна": 21,
-      "Швыряев Ярослав Михайлович": 34,
-      "Против всех": 7
+      "gas:candidate-vibid:1001000289816": 2,
+      "gas:candidate-vibid:375300166704": 79,
+      "gas:candidate-vibid:375300166701": 21,
+      "gas:candidate-vibid:375300166707": 34,
+      "special:against-all": 7
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=752000017&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=275200067463&region=0&sub_region=0&type=429",
@@ -9222,11 +9222,11 @@ export const duma_2003_uik_428_region_75_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Виницкий Сергей Борисович": 6,
-      "Лосский Юрий Васильевич": 27,
-      "Шаврова Вера Алексеевна": 7,
-      "Швыряев Ярослав Михайлович": 90,
-      "Против всех": 24
+      "gas:candidate-vibid:1001000289816": 6,
+      "gas:candidate-vibid:375300166704": 27,
+      "gas:candidate-vibid:375300166701": 7,
+      "gas:candidate-vibid:375300166707": 90,
+      "special:against-all": 24
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=752000017&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=275200067463&region=0&sub_region=0&type=429",
@@ -9276,11 +9276,11 @@ export const duma_2003_uik_428_region_75_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Виницкий Сергей Борисович": 5,
-      "Лосский Юрий Васильевич": 51,
-      "Шаврова Вера Алексеевна": 8,
-      "Швыряев Ярослав Михайлович": 6,
-      "Против всех": 1
+      "gas:candidate-vibid:1001000289816": 5,
+      "gas:candidate-vibid:375300166704": 51,
+      "gas:candidate-vibid:375300166701": 8,
+      "gas:candidate-vibid:375300166707": 6,
+      "special:against-all": 1
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=752000017&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=275200067463&region=0&sub_region=0&type=429",
@@ -9330,11 +9330,11 @@ export const duma_2003_uik_428_region_75_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Виницкий Сергей Борисович": 15,
-      "Лосский Юрий Васильевич": 147,
-      "Шаврова Вера Алексеевна": 40,
-      "Швыряев Ярослав Михайлович": 161,
-      "Против всех": 34
+      "gas:candidate-vibid:1001000289816": 15,
+      "gas:candidate-vibid:375300166704": 147,
+      "gas:candidate-vibid:375300166701": 40,
+      "gas:candidate-vibid:375300166707": 161,
+      "special:against-all": 34
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=752000017&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=275200067463&region=0&sub_region=0&type=429",
@@ -9384,11 +9384,11 @@ export const duma_2003_uik_428_region_75_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Виницкий Сергей Борисович": 10,
-      "Лосский Юрий Васильевич": 76,
-      "Шаврова Вера Алексеевна": 44,
-      "Швыряев Ярослав Михайлович": 208,
-      "Против всех": 39
+      "gas:candidate-vibid:1001000289816": 10,
+      "gas:candidate-vibid:375300166704": 76,
+      "gas:candidate-vibid:375300166701": 44,
+      "gas:candidate-vibid:375300166707": 208,
+      "special:against-all": 39
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=752000017&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=275200067463&region=0&sub_region=0&type=429",
@@ -9438,11 +9438,11 @@ export const duma_2003_uik_428_region_75_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Виницкий Сергей Борисович": 11,
-      "Лосский Юрий Васильевич": 61,
-      "Шаврова Вера Алексеевна": 80,
-      "Швыряев Ярослав Михайлович": 128,
-      "Против всех": 52
+      "gas:candidate-vibid:1001000289816": 11,
+      "gas:candidate-vibid:375300166704": 61,
+      "gas:candidate-vibid:375300166701": 80,
+      "gas:candidate-vibid:375300166707": 128,
+      "special:against-all": 52
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=752000017&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=275200067463&region=0&sub_region=0&type=429",
@@ -9492,11 +9492,11 @@ export const duma_2003_uik_428_region_75_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Виницкий Сергей Борисович": 4,
-      "Лосский Юрий Васильевич": 6,
-      "Шаврова Вера Алексеевна": 16,
-      "Швыряев Ярослав Михайлович": 21,
-      "Против всех": 9
+      "gas:candidate-vibid:1001000289816": 4,
+      "gas:candidate-vibid:375300166704": 6,
+      "gas:candidate-vibid:375300166701": 16,
+      "gas:candidate-vibid:375300166707": 21,
+      "special:against-all": 9
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=752000017&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=275200067463&region=0&sub_region=0&type=429",
@@ -9546,11 +9546,11 @@ export const duma_2003_uik_428_region_75_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Виницкий Сергей Борисович": 12,
-      "Лосский Юрий Васильевич": 193,
-      "Шаврова Вера Алексеевна": 61,
-      "Швыряев Ярослав Михайлович": 155,
-      "Против всех": 58
+      "gas:candidate-vibid:1001000289816": 12,
+      "gas:candidate-vibid:375300166704": 193,
+      "gas:candidate-vibid:375300166701": 61,
+      "gas:candidate-vibid:375300166707": 155,
+      "special:against-all": 58
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=752000018&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=275200067465&region=0&sub_region=0&type=429",
@@ -9600,11 +9600,11 @@ export const duma_2003_uik_428_region_75_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Виницкий Сергей Борисович": 21,
-      "Лосский Юрий Васильевич": 153,
-      "Шаврова Вера Алексеевна": 49,
-      "Швыряев Ярослав Михайлович": 122,
-      "Против всех": 26
+      "gas:candidate-vibid:1001000289816": 21,
+      "gas:candidate-vibid:375300166704": 153,
+      "gas:candidate-vibid:375300166701": 49,
+      "gas:candidate-vibid:375300166707": 122,
+      "special:against-all": 26
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=752000018&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=275200067465&region=0&sub_region=0&type=429",
@@ -9654,11 +9654,11 @@ export const duma_2003_uik_428_region_75_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Виницкий Сергей Борисович": 7,
-      "Лосский Юрий Васильевич": 109,
-      "Шаврова Вера Алексеевна": 47,
-      "Швыряев Ярослав Михайлович": 126,
-      "Против всех": 26
+      "gas:candidate-vibid:1001000289816": 7,
+      "gas:candidate-vibid:375300166704": 109,
+      "gas:candidate-vibid:375300166701": 47,
+      "gas:candidate-vibid:375300166707": 126,
+      "special:against-all": 26
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=752000018&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=275200067465&region=0&sub_region=0&type=429",
@@ -9708,11 +9708,11 @@ export const duma_2003_uik_428_region_75_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Виницкий Сергей Борисович": 27,
-      "Лосский Юрий Васильевич": 276,
-      "Шаврова Вера Алексеевна": 73,
-      "Швыряев Ярослав Михайлович": 215,
-      "Против всех": 71
+      "gas:candidate-vibid:1001000289816": 27,
+      "gas:candidate-vibid:375300166704": 276,
+      "gas:candidate-vibid:375300166701": 73,
+      "gas:candidate-vibid:375300166707": 215,
+      "special:against-all": 71
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=752000018&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=275200067465&region=0&sub_region=0&type=429",
@@ -9762,11 +9762,11 @@ export const duma_2003_uik_428_region_75_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Виницкий Сергей Борисович": 21,
-      "Лосский Юрий Васильевич": 331,
-      "Шаврова Вера Алексеевна": 65,
-      "Швыряев Ярослав Михайлович": 159,
-      "Против всех": 59
+      "gas:candidate-vibid:1001000289816": 21,
+      "gas:candidate-vibid:375300166704": 331,
+      "gas:candidate-vibid:375300166701": 65,
+      "gas:candidate-vibid:375300166707": 159,
+      "special:against-all": 59
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=752000018&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=275200067465&region=0&sub_region=0&type=429",
@@ -9816,11 +9816,11 @@ export const duma_2003_uik_428_region_75_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Виницкий Сергей Борисович": 29,
-      "Лосский Юрий Васильевич": 373,
-      "Шаврова Вера Алексеевна": 77,
-      "Швыряев Ярослав Михайлович": 210,
-      "Против всех": 70
+      "gas:candidate-vibid:1001000289816": 29,
+      "gas:candidate-vibid:375300166704": 373,
+      "gas:candidate-vibid:375300166701": 77,
+      "gas:candidate-vibid:375300166707": 210,
+      "special:against-all": 70
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=752000018&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=275200067465&region=0&sub_region=0&type=429",
@@ -9870,11 +9870,11 @@ export const duma_2003_uik_428_region_75_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Виницкий Сергей Борисович": 44,
-      "Лосский Юрий Васильевич": 557,
-      "Шаврова Вера Алексеевна": 147,
-      "Швыряев Ярослав Михайлович": 263,
-      "Против всех": 128
+      "gas:candidate-vibid:1001000289816": 44,
+      "gas:candidate-vibid:375300166704": 557,
+      "gas:candidate-vibid:375300166701": 147,
+      "gas:candidate-vibid:375300166707": 263,
+      "special:against-all": 128
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=752000018&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=275200067465&region=0&sub_region=0&type=429",
@@ -9924,11 +9924,11 @@ export const duma_2003_uik_428_region_75_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Виницкий Сергей Борисович": 7,
-      "Лосский Юрий Васильевич": 27,
-      "Шаврова Вера Алексеевна": 8,
-      "Швыряев Ярослав Михайлович": 44,
-      "Против всех": 10
+      "gas:candidate-vibid:1001000289816": 7,
+      "gas:candidate-vibid:375300166704": 27,
+      "gas:candidate-vibid:375300166701": 8,
+      "gas:candidate-vibid:375300166707": 44,
+      "special:against-all": 10
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=752000018&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=275200067465&region=0&sub_region=0&type=429",
@@ -9978,11 +9978,11 @@ export const duma_2003_uik_428_region_75_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Виницкий Сергей Борисович": 12,
-      "Лосский Юрий Васильевич": 50,
-      "Шаврова Вера Алексеевна": 9,
-      "Швыряев Ярослав Михайлович": 53,
-      "Против всех": 3
+      "gas:candidate-vibid:1001000289816": 12,
+      "gas:candidate-vibid:375300166704": 50,
+      "gas:candidate-vibid:375300166701": 9,
+      "gas:candidate-vibid:375300166707": 53,
+      "special:against-all": 3
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=752000018&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=275200067465&region=0&sub_region=0&type=429",
@@ -10032,11 +10032,11 @@ export const duma_2003_uik_428_region_75_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Виницкий Сергей Борисович": 5,
-      "Лосский Юрий Васильевич": 165,
-      "Шаврова Вера Алексеевна": 34,
-      "Швыряев Ярослав Михайлович": 78,
-      "Против всех": 37
+      "gas:candidate-vibid:1001000289816": 5,
+      "gas:candidate-vibid:375300166704": 165,
+      "gas:candidate-vibid:375300166701": 34,
+      "gas:candidate-vibid:375300166707": 78,
+      "special:against-all": 37
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=752000018&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=275200067465&region=0&sub_region=0&type=429",
@@ -10086,11 +10086,11 @@ export const duma_2003_uik_428_region_75_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Виницкий Сергей Борисович": 8,
-      "Лосский Юрий Васильевич": 195,
-      "Шаврова Вера Алексеевна": 34,
-      "Швыряев Ярослав Михайлович": 61,
-      "Против всех": 32
+      "gas:candidate-vibid:1001000289816": 8,
+      "gas:candidate-vibid:375300166704": 195,
+      "gas:candidate-vibid:375300166701": 34,
+      "gas:candidate-vibid:375300166707": 61,
+      "special:against-all": 32
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=752000018&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=275200067465&region=0&sub_region=0&type=429",
@@ -10140,11 +10140,11 @@ export const duma_2003_uik_428_region_75_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Виницкий Сергей Борисович": 16,
-      "Лосский Юрий Васильевич": 176,
-      "Шаврова Вера Алексеевна": 43,
-      "Швыряев Ярослав Михайлович": 68,
-      "Против всех": 32
+      "gas:candidate-vibid:1001000289816": 16,
+      "gas:candidate-vibid:375300166704": 176,
+      "gas:candidate-vibid:375300166701": 43,
+      "gas:candidate-vibid:375300166707": 68,
+      "special:against-all": 32
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=752000018&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=275200067465&region=0&sub_region=0&type=429",
@@ -10194,11 +10194,11 @@ export const duma_2003_uik_428_region_75_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Виницкий Сергей Борисович": 43,
-      "Лосский Юрий Васильевич": 552,
-      "Шаврова Вера Алексеевна": 83,
-      "Швыряев Ярослав Михайлович": 220,
-      "Против всех": 127
+      "gas:candidate-vibid:1001000289816": 43,
+      "gas:candidate-vibid:375300166704": 552,
+      "gas:candidate-vibid:375300166701": 83,
+      "gas:candidate-vibid:375300166707": 220,
+      "special:against-all": 127
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=752000018&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=275200067465&region=0&sub_region=0&type=429",
@@ -10248,11 +10248,11 @@ export const duma_2003_uik_428_region_75_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Виницкий Сергей Борисович": 18,
-      "Лосский Юрий Васильевич": 113,
-      "Шаврова Вера Алексеевна": 24,
-      "Швыряев Ярослав Михайлович": 32,
-      "Против всех": 14
+      "gas:candidate-vibid:1001000289816": 18,
+      "gas:candidate-vibid:375300166704": 113,
+      "gas:candidate-vibid:375300166701": 24,
+      "gas:candidate-vibid:375300166707": 32,
+      "special:against-all": 14
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=752000018&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=275200067465&region=0&sub_region=0&type=429",
@@ -10302,11 +10302,11 @@ export const duma_2003_uik_428_region_75_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Виницкий Сергей Борисович": 21,
-      "Лосский Юрий Васильевич": 119,
-      "Шаврова Вера Алексеевна": 46,
-      "Швыряев Ярослав Михайлович": 86,
-      "Против всех": 45
+      "gas:candidate-vibid:1001000289816": 21,
+      "gas:candidate-vibid:375300166704": 119,
+      "gas:candidate-vibid:375300166701": 46,
+      "gas:candidate-vibid:375300166707": 86,
+      "special:against-all": 45
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=752000018&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=275200067465&region=0&sub_region=0&type=429",
@@ -10356,11 +10356,11 @@ export const duma_2003_uik_428_region_75_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Виницкий Сергей Борисович": 22,
-      "Лосский Юрий Васильевич": 104,
-      "Шаврова Вера Алексеевна": 65,
-      "Швыряев Ярослав Михайлович": 93,
-      "Против всех": 30
+      "gas:candidate-vibid:1001000289816": 22,
+      "gas:candidate-vibid:375300166704": 104,
+      "gas:candidate-vibid:375300166701": 65,
+      "gas:candidate-vibid:375300166707": 93,
+      "special:against-all": 30
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=752000018&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=275200067465&region=0&sub_region=0&type=429",
@@ -10410,11 +10410,11 @@ export const duma_2003_uik_428_region_75_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Виницкий Сергей Борисович": 23,
-      "Лосский Юрий Васильевич": 152,
-      "Шаврова Вера Алексеевна": 76,
-      "Швыряев Ярослав Михайлович": 159,
-      "Против всех": 57
+      "gas:candidate-vibid:1001000289816": 23,
+      "gas:candidate-vibid:375300166704": 152,
+      "gas:candidate-vibid:375300166701": 76,
+      "gas:candidate-vibid:375300166707": 159,
+      "special:against-all": 57
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=752000018&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=275200067465&region=0&sub_region=0&type=429",
@@ -10464,11 +10464,11 @@ export const duma_2003_uik_428_region_75_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Виницкий Сергей Борисович": 6,
-      "Лосский Юрий Васильевич": 68,
-      "Шаврова Вера Алексеевна": 36,
-      "Швыряев Ярослав Михайлович": 68,
-      "Против всех": 22
+      "gas:candidate-vibid:1001000289816": 6,
+      "gas:candidate-vibid:375300166704": 68,
+      "gas:candidate-vibid:375300166701": 36,
+      "gas:candidate-vibid:375300166707": 68,
+      "special:against-all": 22
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=752000018&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=275200067465&region=0&sub_region=0&type=429",
@@ -10518,11 +10518,11 @@ export const duma_2003_uik_428_region_75_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Виницкий Сергей Борисович": 16,
-      "Лосский Юрий Васильевич": 97,
-      "Шаврова Вера Алексеевна": 14,
-      "Швыряев Ярослав Михайлович": 61,
-      "Против всех": 22
+      "gas:candidate-vibid:1001000289816": 16,
+      "gas:candidate-vibid:375300166704": 97,
+      "gas:candidate-vibid:375300166701": 14,
+      "gas:candidate-vibid:375300166707": 61,
+      "special:against-all": 22
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=752000018&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=275200067465&region=0&sub_region=0&type=429",
@@ -10572,11 +10572,11 @@ export const duma_2003_uik_428_region_75_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Виницкий Сергей Борисович": 2,
-      "Лосский Юрий Васильевич": 74,
-      "Шаврова Вера Алексеевна": 28,
-      "Швыряев Ярослав Михайлович": 33,
-      "Против всех": 1
+      "gas:candidate-vibid:1001000289816": 2,
+      "gas:candidate-vibid:375300166704": 74,
+      "gas:candidate-vibid:375300166701": 28,
+      "gas:candidate-vibid:375300166707": 33,
+      "special:against-all": 1
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=752000018&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=275200067465&region=0&sub_region=0&type=429",
@@ -10626,11 +10626,11 @@ export const duma_2003_uik_428_region_75_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Виницкий Сергей Борисович": 11,
-      "Лосский Юрий Васильевич": 226,
-      "Шаврова Вера Алексеевна": 49,
-      "Швыряев Ярослав Михайлович": 97,
-      "Против всех": 28
+      "gas:candidate-vibid:1001000289816": 11,
+      "gas:candidate-vibid:375300166704": 226,
+      "gas:candidate-vibid:375300166701": 49,
+      "gas:candidate-vibid:375300166707": 97,
+      "special:against-all": 28
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=752000018&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=275200067465&region=0&sub_region=0&type=429",
@@ -10680,11 +10680,11 @@ export const duma_2003_uik_428_region_75_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Виницкий Сергей Борисович": 4,
-      "Лосский Юрий Васильевич": 126,
-      "Шаврова Вера Алексеевна": 21,
-      "Швыряев Ярослав Михайлович": 37,
-      "Против всех": 13
+      "gas:candidate-vibid:1001000289816": 4,
+      "gas:candidate-vibid:375300166704": 126,
+      "gas:candidate-vibid:375300166701": 21,
+      "gas:candidate-vibid:375300166707": 37,
+      "special:against-all": 13
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=752000018&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=275200067465&region=0&sub_region=0&type=429",
@@ -10734,11 +10734,11 @@ export const duma_2003_uik_428_region_75_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Виницкий Сергей Борисович": 24,
-      "Лосский Юрий Васильевич": 168,
-      "Шаврова Вера Алексеевна": 42,
-      "Швыряев Ярослав Михайлович": 245,
-      "Против всех": 35
+      "gas:candidate-vibid:1001000289816": 24,
+      "gas:candidate-vibid:375300166704": 168,
+      "gas:candidate-vibid:375300166701": 42,
+      "gas:candidate-vibid:375300166707": 245,
+      "special:against-all": 35
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=752000018&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=275200067465&region=0&sub_region=0&type=429",
@@ -10788,11 +10788,11 @@ export const duma_2003_uik_428_region_75_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Виницкий Сергей Борисович": 0,
-      "Лосский Юрий Васильевич": 51,
-      "Шаврова Вера Алексеевна": 14,
-      "Швыряев Ярослав Михайлович": 163,
-      "Против всех": 13
+      "gas:candidate-vibid:1001000289816": 0,
+      "gas:candidate-vibid:375300166704": 51,
+      "gas:candidate-vibid:375300166701": 14,
+      "gas:candidate-vibid:375300166707": 163,
+      "special:against-all": 13
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=752000018&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=275200067465&region=0&sub_region=0&type=429",
@@ -10842,11 +10842,11 @@ export const duma_2003_uik_428_region_75_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Виницкий Сергей Борисович": 1,
-      "Лосский Юрий Васильевич": 15,
-      "Шаврова Вера Алексеевна": 15,
-      "Швыряев Ярослав Михайлович": 17,
-      "Против всех": 8
+      "gas:candidate-vibid:1001000289816": 1,
+      "gas:candidate-vibid:375300166704": 15,
+      "gas:candidate-vibid:375300166701": 15,
+      "gas:candidate-vibid:375300166707": 17,
+      "special:against-all": 8
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=752000018&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=275200067465&region=0&sub_region=0&type=429",
@@ -10896,11 +10896,11 @@ export const duma_2003_uik_428_region_75_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Виницкий Сергей Борисович": 5,
-      "Лосский Юрий Васильевич": 224,
-      "Шаврова Вера Алексеевна": 51,
-      "Швыряев Ярослав Михайлович": 155,
-      "Против всех": 22
+      "gas:candidate-vibid:1001000289816": 5,
+      "gas:candidate-vibid:375300166704": 224,
+      "gas:candidate-vibid:375300166701": 51,
+      "gas:candidate-vibid:375300166707": 155,
+      "special:against-all": 22
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=752000018&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=275200067465&region=0&sub_region=0&type=429",
@@ -10950,11 +10950,11 @@ export const duma_2003_uik_428_region_75_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Виницкий Сергей Борисович": 3,
-      "Лосский Юрий Васильевич": 123,
-      "Шаврова Вера Алексеевна": 52,
-      "Швыряев Ярослав Михайлович": 120,
-      "Против всех": 40
+      "gas:candidate-vibid:1001000289816": 3,
+      "gas:candidate-vibid:375300166704": 123,
+      "gas:candidate-vibid:375300166701": 52,
+      "gas:candidate-vibid:375300166707": 120,
+      "special:against-all": 40
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=752000018&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=275200067465&region=0&sub_region=0&type=429",
@@ -11004,11 +11004,11 @@ export const duma_2003_uik_428_region_75_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Виницкий Сергей Борисович": 1,
-      "Лосский Юрий Васильевич": 58,
-      "Шаврова Вера Алексеевна": 16,
-      "Швыряев Ярослав Михайлович": 61,
-      "Против всех": 11
+      "gas:candidate-vibid:1001000289816": 1,
+      "gas:candidate-vibid:375300166704": 58,
+      "gas:candidate-vibid:375300166701": 16,
+      "gas:candidate-vibid:375300166707": 61,
+      "special:against-all": 11
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=752000018&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=275200067465&region=0&sub_region=0&type=429",
@@ -11058,11 +11058,11 @@ export const duma_2003_uik_428_region_75_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Виницкий Сергей Борисович": 1,
-      "Лосский Юрий Васильевич": 11,
-      "Шаврова Вера Алексеевна": 19,
-      "Швыряев Ярослав Михайлович": 34,
-      "Против всех": 6
+      "gas:candidate-vibid:1001000289816": 1,
+      "gas:candidate-vibid:375300166704": 11,
+      "gas:candidate-vibid:375300166701": 19,
+      "gas:candidate-vibid:375300166707": 34,
+      "special:against-all": 6
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=752000018&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=275200067465&region=0&sub_region=0&type=429",
@@ -11112,11 +11112,11 @@ export const duma_2003_uik_428_region_75_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Виницкий Сергей Борисович": 2,
-      "Лосский Юрий Васильевич": 64,
-      "Шаврова Вера Алексеевна": 20,
-      "Швыряев Ярослав Михайлович": 105,
-      "Против всех": 30
+      "gas:candidate-vibid:1001000289816": 2,
+      "gas:candidate-vibid:375300166704": 64,
+      "gas:candidate-vibid:375300166701": 20,
+      "gas:candidate-vibid:375300166707": 105,
+      "special:against-all": 30
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=752000018&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=275200067465&region=0&sub_region=0&type=429",
@@ -11166,11 +11166,11 @@ export const duma_2003_uik_428_region_75_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Виницкий Сергей Борисович": 1,
-      "Лосский Юрий Васильевич": 39,
-      "Шаврова Вера Алексеевна": 24,
-      "Швыряев Ярослав Михайлович": 100,
-      "Против всех": 12
+      "gas:candidate-vibid:1001000289816": 1,
+      "gas:candidate-vibid:375300166704": 39,
+      "gas:candidate-vibid:375300166701": 24,
+      "gas:candidate-vibid:375300166707": 100,
+      "special:against-all": 12
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=752000018&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=275200067465&region=0&sub_region=0&type=429",
@@ -11220,11 +11220,11 @@ export const duma_2003_uik_428_region_75_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Виницкий Сергей Борисович": 13,
-      "Лосский Юрий Васильевич": 108,
-      "Шаврова Вера Алексеевна": 81,
-      "Швыряев Ярослав Михайлович": 140,
-      "Против всех": 33
+      "gas:candidate-vibid:1001000289816": 13,
+      "gas:candidate-vibid:375300166704": 108,
+      "gas:candidate-vibid:375300166701": 81,
+      "gas:candidate-vibid:375300166707": 140,
+      "special:against-all": 33
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=752000018&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=275200067465&region=0&sub_region=0&type=429",
@@ -11274,11 +11274,11 @@ export const duma_2003_uik_428_region_75_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Виницкий Сергей Борисович": 10,
-      "Лосский Юрий Васильевич": 246,
-      "Шаврова Вера Алексеевна": 80,
-      "Швыряев Ярослав Михайлович": 177,
-      "Против всех": 19
+      "gas:candidate-vibid:1001000289816": 10,
+      "gas:candidate-vibid:375300166704": 246,
+      "gas:candidate-vibid:375300166701": 80,
+      "gas:candidate-vibid:375300166707": 177,
+      "special:against-all": 19
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=752000018&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=275200067465&region=0&sub_region=0&type=429",
@@ -11328,11 +11328,11 @@ export const duma_2003_uik_428_region_75_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Виницкий Сергей Борисович": 7,
-      "Лосский Юрий Васильевич": 102,
-      "Шаврова Вера Алексеевна": 58,
-      "Швыряев Ярослав Михайлович": 177,
-      "Против всех": 45
+      "gas:candidate-vibid:1001000289816": 7,
+      "gas:candidate-vibid:375300166704": 102,
+      "gas:candidate-vibid:375300166701": 58,
+      "gas:candidate-vibid:375300166707": 177,
+      "special:against-all": 45
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=752000018&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=275200067465&region=0&sub_region=0&type=429",
@@ -11382,11 +11382,11 @@ export const duma_2003_uik_428_region_75_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Виницкий Сергей Борисович": 2,
-      "Лосский Юрий Васильевич": 32,
-      "Шаврова Вера Алексеевна": 12,
-      "Швыряев Ярослав Михайлович": 29,
-      "Против всех": 7
+      "gas:candidate-vibid:1001000289816": 2,
+      "gas:candidate-vibid:375300166704": 32,
+      "gas:candidate-vibid:375300166701": 12,
+      "gas:candidate-vibid:375300166707": 29,
+      "special:against-all": 7
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=752000018&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=275200067465&region=0&sub_region=0&type=429",
@@ -11436,11 +11436,11 @@ export const duma_2003_uik_428_region_75_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Виницкий Сергей Борисович": 10,
-      "Лосский Юрий Васильевич": 34,
-      "Шаврова Вера Алексеевна": 41,
-      "Швыряев Ярослав Михайлович": 88,
-      "Против всех": 11
+      "gas:candidate-vibid:1001000289816": 10,
+      "gas:candidate-vibid:375300166704": 34,
+      "gas:candidate-vibid:375300166701": 41,
+      "gas:candidate-vibid:375300166707": 88,
+      "special:against-all": 11
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=752000018&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=275200067465&region=0&sub_region=0&type=429",
@@ -11490,11 +11490,11 @@ export const duma_2003_uik_428_region_75_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Виницкий Сергей Борисович": 13,
-      "Лосский Юрий Васильевич": 49,
-      "Шаврова Вера Алексеевна": 11,
-      "Швыряев Ярослав Михайлович": 76,
-      "Против всех": 14
+      "gas:candidate-vibid:1001000289816": 13,
+      "gas:candidate-vibid:375300166704": 49,
+      "gas:candidate-vibid:375300166701": 11,
+      "gas:candidate-vibid:375300166707": 76,
+      "special:against-all": 14
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=752000018&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=275200067465&region=0&sub_region=0&type=429",
@@ -11544,11 +11544,11 @@ export const duma_2003_uik_428_region_75_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Виницкий Сергей Борисович": 5,
-      "Лосский Юрий Васильевич": 25,
-      "Шаврова Вера Алексеевна": 28,
-      "Швыряев Ярослав Михайлович": 135,
-      "Против всех": 29
+      "gas:candidate-vibid:1001000289816": 5,
+      "gas:candidate-vibid:375300166704": 25,
+      "gas:candidate-vibid:375300166701": 28,
+      "gas:candidate-vibid:375300166707": 135,
+      "special:against-all": 29
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=752000018&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=275200067465&region=0&sub_region=0&type=429",
@@ -11598,11 +11598,11 @@ export const duma_2003_uik_428_region_75_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Виницкий Сергей Борисович": 1,
-      "Лосский Юрий Васильевич": 127,
-      "Шаврова Вера Алексеевна": 8,
-      "Швыряев Ярослав Михайлович": 89,
-      "Против всех": 7
+      "gas:candidate-vibid:1001000289816": 1,
+      "gas:candidate-vibid:375300166704": 127,
+      "gas:candidate-vibid:375300166701": 8,
+      "gas:candidate-vibid:375300166707": 89,
+      "special:against-all": 7
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=752000019&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=275200067467&region=0&sub_region=0&type=429",
@@ -11652,11 +11652,11 @@ export const duma_2003_uik_428_region_75_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Виницкий Сергей Борисович": 1,
-      "Лосский Юрий Васильевич": 17,
-      "Шаврова Вера Алексеевна": 5,
-      "Швыряев Ярослав Михайлович": 48,
-      "Против всех": 4
+      "gas:candidate-vibid:1001000289816": 1,
+      "gas:candidate-vibid:375300166704": 17,
+      "gas:candidate-vibid:375300166701": 5,
+      "gas:candidate-vibid:375300166707": 48,
+      "special:against-all": 4
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=752000019&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=275200067467&region=0&sub_region=0&type=429",
@@ -11706,11 +11706,11 @@ export const duma_2003_uik_428_region_75_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Виницкий Сергей Борисович": 1,
-      "Лосский Юрий Васильевич": 1,
-      "Шаврова Вера Алексеевна": 18,
-      "Швыряев Ярослав Михайлович": 26,
-      "Против всех": 1
+      "gas:candidate-vibid:1001000289816": 1,
+      "gas:candidate-vibid:375300166704": 1,
+      "gas:candidate-vibid:375300166701": 18,
+      "gas:candidate-vibid:375300166707": 26,
+      "special:against-all": 1
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=752000019&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=275200067467&region=0&sub_region=0&type=429",
@@ -11760,11 +11760,11 @@ export const duma_2003_uik_428_region_75_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Виницкий Сергей Борисович": 1,
-      "Лосский Юрий Васильевич": 103,
-      "Шаврова Вера Алексеевна": 30,
-      "Швыряев Ярослав Михайлович": 71,
-      "Против всех": 20
+      "gas:candidate-vibid:1001000289816": 1,
+      "gas:candidate-vibid:375300166704": 103,
+      "gas:candidate-vibid:375300166701": 30,
+      "gas:candidate-vibid:375300166707": 71,
+      "special:against-all": 20
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=752000019&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=275200067467&region=0&sub_region=0&type=429",
@@ -11814,11 +11814,11 @@ export const duma_2003_uik_428_region_75_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Виницкий Сергей Борисович": 1,
-      "Лосский Юрий Васильевич": 33,
-      "Шаврова Вера Алексеевна": 14,
-      "Швыряев Ярослав Михайлович": 35,
-      "Против всех": 6
+      "gas:candidate-vibid:1001000289816": 1,
+      "gas:candidate-vibid:375300166704": 33,
+      "gas:candidate-vibid:375300166701": 14,
+      "gas:candidate-vibid:375300166707": 35,
+      "special:against-all": 6
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=752000019&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=275200067467&region=0&sub_region=0&type=429",
@@ -11868,11 +11868,11 @@ export const duma_2003_uik_428_region_75_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Виницкий Сергей Борисович": 2,
-      "Лосский Юрий Васильевич": 30,
-      "Шаврова Вера Алексеевна": 21,
-      "Швыряев Ярослав Михайлович": 35,
-      "Против всех": 4
+      "gas:candidate-vibid:1001000289816": 2,
+      "gas:candidate-vibid:375300166704": 30,
+      "gas:candidate-vibid:375300166701": 21,
+      "gas:candidate-vibid:375300166707": 35,
+      "special:against-all": 4
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=752000019&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=275200067467&region=0&sub_region=0&type=429",
@@ -11922,11 +11922,11 @@ export const duma_2003_uik_428_region_75_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Виницкий Сергей Борисович": 2,
-      "Лосский Юрий Васильевич": 98,
-      "Шаврова Вера Алексеевна": 21,
-      "Швыряев Ярослав Михайлович": 92,
-      "Против всех": 8
+      "gas:candidate-vibid:1001000289816": 2,
+      "gas:candidate-vibid:375300166704": 98,
+      "gas:candidate-vibid:375300166701": 21,
+      "gas:candidate-vibid:375300166707": 92,
+      "special:against-all": 8
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=752000019&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=275200067467&region=0&sub_region=0&type=429",
@@ -11976,11 +11976,11 @@ export const duma_2003_uik_428_region_75_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Виницкий Сергей Борисович": 0,
-      "Лосский Юрий Васильевич": 27,
-      "Шаврова Вера Алексеевна": 1,
-      "Швыряев Ярослав Михайлович": 30,
-      "Против всех": 0
+      "gas:candidate-vibid:1001000289816": 0,
+      "gas:candidate-vibid:375300166704": 27,
+      "gas:candidate-vibid:375300166701": 1,
+      "gas:candidate-vibid:375300166707": 30,
+      "special:against-all": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=752000019&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=275200067467&region=0&sub_region=0&type=429",
@@ -12030,11 +12030,11 @@ export const duma_2003_uik_428_region_75_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Виницкий Сергей Борисович": 2,
-      "Лосский Юрий Васильевич": 78,
-      "Шаврова Вера Алексеевна": 17,
-      "Швыряев Ярослав Михайлович": 85,
-      "Против всех": 10
+      "gas:candidate-vibid:1001000289816": 2,
+      "gas:candidate-vibid:375300166704": 78,
+      "gas:candidate-vibid:375300166701": 17,
+      "gas:candidate-vibid:375300166707": 85,
+      "special:against-all": 10
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=752000019&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=275200067467&region=0&sub_region=0&type=429",
@@ -12084,11 +12084,11 @@ export const duma_2003_uik_428_region_75_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Виницкий Сергей Борисович": 1,
-      "Лосский Юрий Васильевич": 56,
-      "Шаврова Вера Алексеевна": 11,
-      "Швыряев Ярослав Михайлович": 41,
-      "Против всех": 4
+      "gas:candidate-vibid:1001000289816": 1,
+      "gas:candidate-vibid:375300166704": 56,
+      "gas:candidate-vibid:375300166701": 11,
+      "gas:candidate-vibid:375300166707": 41,
+      "special:against-all": 4
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=752000019&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=275200067467&region=0&sub_region=0&type=429",
@@ -12138,11 +12138,11 @@ export const duma_2003_uik_428_region_75_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Виницкий Сергей Борисович": 4,
-      "Лосский Юрий Васильевич": 26,
-      "Шаврова Вера Алексеевна": 14,
-      "Швыряев Ярослав Михайлович": 24,
-      "Против всех": 3
+      "gas:candidate-vibid:1001000289816": 4,
+      "gas:candidate-vibid:375300166704": 26,
+      "gas:candidate-vibid:375300166701": 14,
+      "gas:candidate-vibid:375300166707": 24,
+      "special:against-all": 3
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=752000019&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=275200067467&region=0&sub_region=0&type=429",
@@ -12192,11 +12192,11 @@ export const duma_2003_uik_428_region_75_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Виницкий Сергей Борисович": 0,
-      "Лосский Юрий Васильевич": 69,
-      "Шаврова Вера Алексеевна": 10,
-      "Швыряев Ярослав Михайлович": 32,
-      "Против всех": 3
+      "gas:candidate-vibid:1001000289816": 0,
+      "gas:candidate-vibid:375300166704": 69,
+      "gas:candidate-vibid:375300166701": 10,
+      "gas:candidate-vibid:375300166707": 32,
+      "special:against-all": 3
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=752000019&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=275200067467&region=0&sub_region=0&type=429",
@@ -12246,11 +12246,11 @@ export const duma_2003_uik_428_region_75_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Виницкий Сергей Борисович": 2,
-      "Лосский Юрий Васильевич": 38,
-      "Шаврова Вера Алексеевна": 8,
-      "Швыряев Ярослав Михайлович": 33,
-      "Против всех": 5
+      "gas:candidate-vibid:1001000289816": 2,
+      "gas:candidate-vibid:375300166704": 38,
+      "gas:candidate-vibid:375300166701": 8,
+      "gas:candidate-vibid:375300166707": 33,
+      "special:against-all": 5
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=752000019&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=275200067467&region=0&sub_region=0&type=429",
@@ -12300,11 +12300,11 @@ export const duma_2003_uik_428_region_75_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Виницкий Сергей Борисович": 12,
-      "Лосский Юрий Васильевич": 393,
-      "Шаврова Вера Алексеевна": 28,
-      "Швыряев Ярослав Михайлович": 73,
-      "Против всех": 30
+      "gas:candidate-vibid:1001000289816": 12,
+      "gas:candidate-vibid:375300166704": 393,
+      "gas:candidate-vibid:375300166701": 28,
+      "gas:candidate-vibid:375300166707": 73,
+      "special:against-all": 30
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=752000019&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=275200067467&region=0&sub_region=0&type=429",
@@ -12354,11 +12354,11 @@ export const duma_2003_uik_428_region_75_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Виницкий Сергей Борисович": 4,
-      "Лосский Юрий Васильевич": 220,
-      "Шаврова Вера Алексеевна": 16,
-      "Швыряев Ярослав Михайлович": 44,
-      "Против всех": 10
+      "gas:candidate-vibid:1001000289816": 4,
+      "gas:candidate-vibid:375300166704": 220,
+      "gas:candidate-vibid:375300166701": 16,
+      "gas:candidate-vibid:375300166707": 44,
+      "special:against-all": 10
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=752000019&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=275200067467&region=0&sub_region=0&type=429",
@@ -12408,11 +12408,11 @@ export const duma_2003_uik_428_region_75_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Виницкий Сергей Борисович": 1,
-      "Лосский Юрий Васильевич": 50,
-      "Шаврова Вера Алексеевна": 20,
-      "Швыряев Ярослав Михайлович": 27,
-      "Против всех": 7
+      "gas:candidate-vibid:1001000289816": 1,
+      "gas:candidate-vibid:375300166704": 50,
+      "gas:candidate-vibid:375300166701": 20,
+      "gas:candidate-vibid:375300166707": 27,
+      "special:against-all": 7
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=752000019&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=275200067467&region=0&sub_region=0&type=429",
@@ -12462,11 +12462,11 @@ export const duma_2003_uik_428_region_75_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Виницкий Сергей Борисович": 4,
-      "Лосский Юрий Васильевич": 326,
-      "Шаврова Вера Алексеевна": 42,
-      "Швыряев Ярослав Михайлович": 76,
-      "Против всех": 53
+      "gas:candidate-vibid:1001000289816": 4,
+      "gas:candidate-vibid:375300166704": 326,
+      "gas:candidate-vibid:375300166701": 42,
+      "gas:candidate-vibid:375300166707": 76,
+      "special:against-all": 53
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=752000019&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=275200067467&region=0&sub_region=0&type=429",
@@ -12516,11 +12516,11 @@ export const duma_2003_uik_428_region_75_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Виницкий Сергей Борисович": 3,
-      "Лосский Юрий Васильевич": 54,
-      "Шаврова Вера Алексеевна": 10,
-      "Швыряев Ярослав Михайлович": 17,
-      "Против всех": 3
+      "gas:candidate-vibid:1001000289816": 3,
+      "gas:candidate-vibid:375300166704": 54,
+      "gas:candidate-vibid:375300166701": 10,
+      "gas:candidate-vibid:375300166707": 17,
+      "special:against-all": 3
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=752000019&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=275200067467&region=0&sub_region=0&type=429",
@@ -12570,11 +12570,11 @@ export const duma_2003_uik_428_region_75_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Виницкий Сергей Борисович": 2,
-      "Лосский Юрий Васильевич": 27,
-      "Шаврова Вера Алексеевна": 6,
-      "Швыряев Ярослав Михайлович": 39,
-      "Против всех": 18
+      "gas:candidate-vibid:1001000289816": 2,
+      "gas:candidate-vibid:375300166704": 27,
+      "gas:candidate-vibid:375300166701": 6,
+      "gas:candidate-vibid:375300166707": 39,
+      "special:against-all": 18
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=752000019&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=275200067467&region=0&sub_region=0&type=429",
@@ -12624,11 +12624,11 @@ export const duma_2003_uik_428_region_75_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Виницкий Сергей Борисович": 2,
-      "Лосский Юрий Васильевич": 133,
-      "Шаврова Вера Алексеевна": 5,
-      "Швыряев Ярослав Михайлович": 7,
-      "Против всех": 3
+      "gas:candidate-vibid:1001000289816": 2,
+      "gas:candidate-vibid:375300166704": 133,
+      "gas:candidate-vibid:375300166701": 5,
+      "gas:candidate-vibid:375300166707": 7,
+      "special:against-all": 3
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=752000019&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=275200067467&region=0&sub_region=0&type=429",
@@ -12678,11 +12678,11 @@ export const duma_2003_uik_428_region_75_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Виницкий Сергей Борисович": 2,
-      "Лосский Юрий Васильевич": 55,
-      "Шаврова Вера Алексеевна": 25,
-      "Швыряев Ярослав Михайлович": 31,
-      "Против всех": 7
+      "gas:candidate-vibid:1001000289816": 2,
+      "gas:candidate-vibid:375300166704": 55,
+      "gas:candidate-vibid:375300166701": 25,
+      "gas:candidate-vibid:375300166707": 31,
+      "special:against-all": 7
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=752000019&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=275200067467&region=0&sub_region=0&type=429",
@@ -12732,11 +12732,11 @@ export const duma_2003_uik_428_region_75_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Виницкий Сергей Борисович": 7,
-      "Лосский Юрий Васильевич": 305,
-      "Шаврова Вера Алексеевна": 37,
-      "Швыряев Ярослав Михайлович": 283,
-      "Против всех": 52
+      "gas:candidate-vibid:1001000289816": 7,
+      "gas:candidate-vibid:375300166704": 305,
+      "gas:candidate-vibid:375300166701": 37,
+      "gas:candidate-vibid:375300166707": 283,
+      "special:against-all": 52
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=752000019&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=275200067467&region=0&sub_region=0&type=429",
@@ -12786,11 +12786,11 @@ export const duma_2003_uik_428_region_75_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Виницкий Сергей Борисович": 46,
-      "Лосский Юрий Васильевич": 263,
-      "Шаврова Вера Алексеевна": 135,
-      "Швыряев Ярослав Михайлович": 279,
-      "Против всех": 102
+      "gas:candidate-vibid:1001000289816": 46,
+      "gas:candidate-vibid:375300166704": 263,
+      "gas:candidate-vibid:375300166701": 135,
+      "gas:candidate-vibid:375300166707": 279,
+      "special:against-all": 102
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=752000020&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=275200067469&region=0&sub_region=0&type=429",
@@ -12840,11 +12840,11 @@ export const duma_2003_uik_428_region_75_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Виницкий Сергей Борисович": 41,
-      "Лосский Юрий Васильевич": 243,
-      "Шаврова Вера Алексеевна": 117,
-      "Швыряев Ярослав Михайлович": 344,
-      "Против всех": 103
+      "gas:candidate-vibid:1001000289816": 41,
+      "gas:candidate-vibid:375300166704": 243,
+      "gas:candidate-vibid:375300166701": 117,
+      "gas:candidate-vibid:375300166707": 344,
+      "special:against-all": 103
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=752000020&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=275200067469&region=0&sub_region=0&type=429",
@@ -12894,11 +12894,11 @@ export const duma_2003_uik_428_region_75_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Виницкий Сергей Борисович": 26,
-      "Лосский Юрий Васильевич": 230,
-      "Шаврова Вера Алексеевна": 91,
-      "Швыряев Ярослав Михайлович": 241,
-      "Против всех": 68
+      "gas:candidate-vibid:1001000289816": 26,
+      "gas:candidate-vibid:375300166704": 230,
+      "gas:candidate-vibid:375300166701": 91,
+      "gas:candidate-vibid:375300166707": 241,
+      "special:against-all": 68
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=752000020&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=275200067469&region=0&sub_region=0&type=429",
@@ -12948,11 +12948,11 @@ export const duma_2003_uik_428_region_75_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Виницкий Сергей Борисович": 25,
-      "Лосский Юрий Васильевич": 211,
-      "Шаврова Вера Алексеевна": 82,
-      "Швыряев Ярослав Михайлович": 252,
-      "Против всех": 66
+      "gas:candidate-vibid:1001000289816": 25,
+      "gas:candidate-vibid:375300166704": 211,
+      "gas:candidate-vibid:375300166701": 82,
+      "gas:candidate-vibid:375300166707": 252,
+      "special:against-all": 66
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=752000020&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=275200067469&region=0&sub_region=0&type=429",
@@ -13002,11 +13002,11 @@ export const duma_2003_uik_428_region_75_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Виницкий Сергей Борисович": 29,
-      "Лосский Юрий Васильевич": 166,
-      "Шаврова Вера Алексеевна": 109,
-      "Швыряев Ярослав Михайлович": 246,
-      "Против всех": 95
+      "gas:candidate-vibid:1001000289816": 29,
+      "gas:candidate-vibid:375300166704": 166,
+      "gas:candidate-vibid:375300166701": 109,
+      "gas:candidate-vibid:375300166707": 246,
+      "special:against-all": 95
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=752000020&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=275200067469&region=0&sub_region=0&type=429",
@@ -13056,11 +13056,11 @@ export const duma_2003_uik_428_region_75_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Виницкий Сергей Борисович": 39,
-      "Лосский Юрий Васильевич": 139,
-      "Шаврова Вера Алексеевна": 108,
-      "Швыряев Ярослав Михайлович": 200,
-      "Против всех": 60
+      "gas:candidate-vibid:1001000289816": 39,
+      "gas:candidate-vibid:375300166704": 139,
+      "gas:candidate-vibid:375300166701": 108,
+      "gas:candidate-vibid:375300166707": 200,
+      "special:against-all": 60
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=752000020&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=275200067469&region=0&sub_region=0&type=429",
@@ -13110,11 +13110,11 @@ export const duma_2003_uik_428_region_75_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Виницкий Сергей Борисович": 2,
-      "Лосский Юрий Васильевич": 17,
-      "Шаврова Вера Алексеевна": 8,
-      "Швыряев Ярослав Михайлович": 64,
-      "Против всех": 8
+      "gas:candidate-vibid:1001000289816": 2,
+      "gas:candidate-vibid:375300166704": 17,
+      "gas:candidate-vibid:375300166701": 8,
+      "gas:candidate-vibid:375300166707": 64,
+      "special:against-all": 8
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=752000020&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=275200067469&region=0&sub_region=0&type=429",
@@ -13164,11 +13164,11 @@ export const duma_2003_uik_428_region_75_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Виницкий Сергей Борисович": 32,
-      "Лосский Юрий Васильевич": 512,
-      "Шаврова Вера Алексеевна": 134,
-      "Швыряев Ярослав Михайлович": 154,
-      "Против всех": 86
+      "gas:candidate-vibid:1001000289816": 32,
+      "gas:candidate-vibid:375300166704": 512,
+      "gas:candidate-vibid:375300166701": 134,
+      "gas:candidate-vibid:375300166707": 154,
+      "special:against-all": 86
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=752000020&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=275200067469&region=0&sub_region=0&type=429",
@@ -13218,11 +13218,11 @@ export const duma_2003_uik_428_region_75_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Виницкий Сергей Борисович": 6,
-      "Лосский Юрий Васильевич": 89,
-      "Шаврова Вера Алексеевна": 33,
-      "Швыряев Ярослав Михайлович": 124,
-      "Против всех": 37
+      "gas:candidate-vibid:1001000289816": 6,
+      "gas:candidate-vibid:375300166704": 89,
+      "gas:candidate-vibid:375300166701": 33,
+      "gas:candidate-vibid:375300166707": 124,
+      "special:against-all": 37
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=752000020&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=275200067469&region=0&sub_region=0&type=429",
@@ -13272,11 +13272,11 @@ export const duma_2003_uik_428_region_75_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Виницкий Сергей Борисович": 27,
-      "Лосский Юрий Васильевич": 660,
-      "Шаврова Вера Алексеевна": 121,
-      "Швыряев Ярослав Михайлович": 152,
-      "Против всех": 92
+      "gas:candidate-vibid:1001000289816": 27,
+      "gas:candidate-vibid:375300166704": 660,
+      "gas:candidate-vibid:375300166701": 121,
+      "gas:candidate-vibid:375300166707": 152,
+      "special:against-all": 92
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=752000020&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=275200067469&region=0&sub_region=0&type=429",
@@ -13326,11 +13326,11 @@ export const duma_2003_uik_428_region_75_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Виницкий Сергей Борисович": 29,
-      "Лосский Юрий Васильевич": 673,
-      "Шаврова Вера Алексеевна": 149,
-      "Швыряев Ярослав Михайлович": 124,
-      "Против всех": 84
+      "gas:candidate-vibid:1001000289816": 29,
+      "gas:candidate-vibid:375300166704": 673,
+      "gas:candidate-vibid:375300166701": 149,
+      "gas:candidate-vibid:375300166707": 124,
+      "special:against-all": 84
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=752000020&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=275200067469&region=0&sub_region=0&type=429",
@@ -13380,11 +13380,11 @@ export const duma_2003_uik_428_region_75_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Виницкий Сергей Борисович": 30,
-      "Лосский Юрий Васильевич": 565,
-      "Шаврова Вера Алексеевна": 132,
-      "Швыряев Ярослав Михайлович": 121,
-      "Против всех": 98
+      "gas:candidate-vibid:1001000289816": 30,
+      "gas:candidate-vibid:375300166704": 565,
+      "gas:candidate-vibid:375300166701": 132,
+      "gas:candidate-vibid:375300166707": 121,
+      "special:against-all": 98
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=752000020&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=275200067469&region=0&sub_region=0&type=429",
@@ -13434,11 +13434,11 @@ export const duma_2003_uik_428_region_75_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Виницкий Сергей Борисович": 28,
-      "Лосский Юрий Васильевич": 551,
-      "Шаврова Вера Алексеевна": 135,
-      "Швыряев Ярослав Михайлович": 152,
-      "Против всех": 104
+      "gas:candidate-vibid:1001000289816": 28,
+      "gas:candidate-vibid:375300166704": 551,
+      "gas:candidate-vibid:375300166701": 135,
+      "gas:candidate-vibid:375300166707": 152,
+      "special:against-all": 104
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=752000020&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=275200067469&region=0&sub_region=0&type=429",
@@ -13488,11 +13488,11 @@ export const duma_2003_uik_428_region_75_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Виницкий Сергей Борисович": 21,
-      "Лосский Юрий Васильевич": 440,
-      "Шаврова Вера Алексеевна": 176,
-      "Швыряев Ярослав Михайлович": 83,
-      "Против всех": 73
+      "gas:candidate-vibid:1001000289816": 21,
+      "gas:candidate-vibid:375300166704": 440,
+      "gas:candidate-vibid:375300166701": 176,
+      "gas:candidate-vibid:375300166707": 83,
+      "special:against-all": 73
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=752000020&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=275200067469&region=0&sub_region=0&type=429",

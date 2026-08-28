@@ -11,6 +11,9 @@ export const duma_2021_tic_233_region_71 = [
     "ballot": "party",
     "tikTvd": "27120001258775",
     "tikName": "Белевская",
+    "regionCode": "71",
+    "regionTvd": "100100225883678",
+    "regionName": "Тульская область",
     "uikCount": 31,
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 16066,
@@ -92,6 +95,9 @@ export const duma_2021_tic_233_region_71 = [
     "ballot": "party",
     "tikTvd": "27120001258776",
     "tikName": "Ленинская - 183",
+    "regionCode": "71",
+    "regionTvd": "100100225883678",
+    "regionName": "Тульская область",
     "uikCount": 22,
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 24602,
@@ -164,6 +170,9 @@ export const duma_2021_tic_233_region_71 = [
     "ballot": "party",
     "tikTvd": "27120001258779",
     "tikName": "Плавская",
+    "regionCode": "71",
+    "regionTvd": "100100225883678",
+    "regionName": "Тульская область",
     "uikCount": 36,
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 18857,
@@ -250,6 +259,9 @@ export const duma_2021_tic_233_region_71 = [
     "ballot": "party",
     "tikTvd": "27120001258780",
     "tikName": "Богородицкая",
+    "regionCode": "71",
+    "regionTvd": "100100225883678",
+    "regionName": "Тульская область",
     "uikCount": 45,
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 38436,
@@ -345,6 +357,9 @@ export const duma_2021_tic_233_region_71 = [
     "ballot": "party",
     "tikTvd": "27120001258781",
     "tikName": "Щекинская",
+    "regionCode": "71",
+    "regionTvd": "100100225883678",
+    "regionName": "Тульская область",
     "uikCount": 59,
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 77984,
@@ -454,6 +469,9 @@ export const duma_2021_tic_233_region_71 = [
     "ballot": "party",
     "tikTvd": "27120001258784",
     "tikName": "Тула, Центральная",
+    "regionCode": "71",
+    "regionTvd": "100100225883678",
+    "regionName": "Тульская область",
     "uikCount": 47,
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 74909,
@@ -551,6 +569,9 @@ export const duma_2021_tic_233_region_71 = [
     "ballot": "party",
     "tikTvd": "27120001258785",
     "tikName": "Арсеньевская",
+    "regionCode": "71",
+    "regionTvd": "100100225883678",
+    "regionName": "Тульская область",
     "uikCount": 21,
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 9194,
@@ -622,6 +643,9 @@ export const duma_2021_tic_233_region_71 = [
     "ballot": "party",
     "tikTvd": "27120001258786",
     "tikName": "Тула, Советская",
+    "regionCode": "71",
+    "regionTvd": "100100225883678",
+    "regionName": "Тульская область",
     "uikCount": 37,
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 51454,
@@ -709,6 +733,9 @@ export const duma_2021_tic_233_region_71 = [
     "ballot": "party",
     "tikTvd": "27120001258788",
     "tikName": "Дубенская",
+    "regionCode": "71",
+    "regionTvd": "100100225883678",
+    "regionName": "Тульская область",
     "uikCount": 15,
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 9913,
@@ -774,6 +801,9 @@ export const duma_2021_tic_233_region_71 = [
     "ballot": "party",
     "tikTvd": "27120001258790",
     "tikName": "Суворовская",
+    "regionCode": "71",
+    "regionTvd": "100100225883678",
+    "regionName": "Тульская область",
     "uikCount": 41,
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 25052,
@@ -865,6 +895,9 @@ export const duma_2021_tic_233_region_71 = [
     "ballot": "party",
     "tikTvd": "27120001258791",
     "tikName": "Одоевская",
+    "regionCode": "71",
+    "regionTvd": "100100225883678",
+    "regionName": "Тульская область",
     "uikCount": 16,
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 8914,
@@ -931,6 +964,9 @@ export const duma_2021_tic_233_region_71 = [
     "ballot": "party",
     "tikTvd": "27120001258793",
     "tikName": "Куркинская",
+    "regionCode": "71",
+    "regionTvd": "100100225883678",
+    "regionName": "Тульская область",
     "uikCount": 14,
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 7992,
@@ -995,6 +1031,9 @@ export const duma_2021_tic_233_region_71 = [
     "ballot": "party",
     "tikTvd": "27120001258795",
     "tikName": "Ефремовская",
+    "regionCode": "71",
+    "regionTvd": "100100225883678",
+    "regionName": "Тульская область",
     "uikCount": 63,
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 45452,
@@ -1108,6 +1147,9 @@ export const duma_2021_tic_233_region_71 = [
     "ballot": "party",
     "tikTvd": "27120001258796",
     "tikName": "Киреевская",
+    "regionCode": "71",
+    "regionTvd": "100100225883678",
+    "regionName": "Тульская область",
     "uikCount": 57,
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 55226,
@@ -1215,6 +1257,9 @@ export const duma_2021_tic_233_region_71 = [
     "ballot": "party",
     "tikTvd": "27120001258797",
     "tikName": "Тула, Привокзальная",
+    "regionCode": "71",
+    "regionTvd": "100100225883678",
+    "regionName": "Тульская область",
     "uikCount": 40,
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 66355,
@@ -1305,6 +1350,9 @@ export const duma_2021_tic_233_region_71 = [
     "ballot": "party",
     "tikTvd": "27120001258798",
     "tikName": "Тепло-Огаревская",
+    "regionCode": "71",
+    "regionTvd": "100100225883678",
+    "regionName": "Тульская область",
     "uikCount": 21,
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 9754,
@@ -1376,6 +1424,9 @@ export const duma_2021_tic_233_region_71 = [
     "ballot": "party",
     "tikTvd": "27120001258799",
     "tikName": "Каменская",
+    "regionCode": "71",
+    "regionTvd": "100100225883678",
+    "regionName": "Тульская область",
     "uikCount": 13,
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 6442,
@@ -1439,6 +1490,9 @@ export const duma_2021_tic_233_region_71 = [
     "ballot": "party",
     "tikTvd": "27120001258800",
     "tikName": "Воловская",
+    "regionCode": "71",
+    "regionTvd": "100100225883678",
+    "regionName": "Тульская область",
     "uikCount": 22,
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 10173,
@@ -1511,6 +1565,9 @@ export const duma_2021_tic_233_region_71 = [
     "ballot": "party",
     "tikTvd": "27120001258802",
     "tikName": "Чернская",
+    "regionCode": "71",
+    "regionTvd": "100100225883678",
+    "regionName": "Тульская область",
     "uikCount": 29,
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 14490,
@@ -1590,6 +1647,9 @@ export const duma_2021_tic_233_region_71 = [
     "ballot": "party",
     "tikTvd": "27120001258803",
     "tikName": "Узловская",
+    "regionCode": "71",
+    "regionTvd": "100100225883678",
+    "regionName": "Тульская область",
     "uikCount": 48,
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 62614,
@@ -1688,6 +1748,9 @@ export const duma_2021_tic_233_region_71 = [
     "ballot": "party",
     "tikTvd": "27120001258804",
     "tikName": "Тула, Зареченская",
+    "regionCode": "71",
+    "regionTvd": "100100225883678",
+    "regionName": "Тульская область",
     "uikCount": 40,
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 70544,
@@ -1778,6 +1841,9 @@ export const duma_2021_tic_233_region_71 = [
     "ballot": "party",
     "tikTvd": "27120001258805",
     "tikName": "Заокская",
+    "regionCode": "71",
+    "regionTvd": "100100225883678",
+    "regionName": "Тульская область",
     "uikCount": 20,
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 14656,
@@ -1848,6 +1914,9 @@ export const duma_2021_tic_233_region_71 = [
     "ballot": "party",
     "tikTvd": "27120001258806",
     "tikName": "Тула, Пролетарская",
+    "regionCode": "71",
+    "regionTvd": "100100225883678",
+    "regionName": "Тульская область",
     "uikCount": 67,
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 115072,
@@ -1965,6 +2034,9 @@ export const duma_2021_tic_233_region_71 = [
     "ballot": "party",
     "tikTvd": "27120001258807",
     "tikName": "Алексинская",
+    "regionCode": "71",
+    "regionTvd": "100100225883678",
+    "regionName": "Тульская область",
     "uikCount": 58,
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 55954,
@@ -2073,6 +2145,9 @@ export const duma_2021_tic_233_region_71 = [
     "ballot": "party",
     "tikTvd": "27120001258808",
     "tikName": "Веневская",
+    "regionCode": "71",
+    "regionTvd": "100100225883678",
+    "regionName": "Тульская область",
     "uikCount": 36,
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 23692,
@@ -2159,6 +2234,9 @@ export const duma_2021_tic_233_region_71 = [
     "ballot": "party",
     "tikTvd": "27120001258809",
     "tikName": "Кимовская",
+    "regionCode": "71",
+    "regionTvd": "100100225883678",
+    "regionName": "Тульская область",
     "uikCount": 40,
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 31374,
@@ -2249,6 +2327,9 @@ export const duma_2021_tic_233_region_71 = [
     "ballot": "party",
     "tikTvd": "27120001258810",
     "tikName": "Донская",
+    "regionCode": "71",
+    "regionTvd": "100100225883678",
+    "regionName": "Тульская область",
     "uikCount": 31,
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 43949,
@@ -2330,6 +2411,9 @@ export const duma_2021_tic_233_region_71 = [
     "ballot": "party",
     "tikTvd": "27120001258811",
     "tikName": "Новомосковская",
+    "regionCode": "71",
+    "regionTvd": "100100225883678",
+    "regionName": "Тульская область",
     "uikCount": 77,
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 110542,
@@ -2457,6 +2541,9 @@ export const duma_2021_tic_233_region_71 = [
     "ballot": "party",
     "tikTvd": "27120001258812",
     "tikName": "Ясногорская",
+    "regionCode": "71",
+    "regionTvd": "100100225883678",
+    "regionName": "Тульская область",
     "uikCount": 29,
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 23308,
@@ -2536,6 +2623,9 @@ export const duma_2021_tic_233_region_71 = [
     "ballot": "party",
     "tikTvd": "27120001258813",
     "tikName": "Ленинская - 184",
+    "regionCode": "71",
+    "regionTvd": "100100225883678",
+    "regionName": "Тульская область",
     "uikCount": 23,
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 32828,

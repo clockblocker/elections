@@ -8,5076 +8,13536 @@ export const duma_2021_uik_to_tik_region_76 = [
     "uikNumber": 101,
     "uikTvd": "4764001189382",
     "tikTvd": "2762000926803",
-    "tikName": "Большесельская"
+    "tikName": "Большесельская",
+    "uikName": "УИК №101",
+    "regionCode": "76",
+    "regionTvd": "100100225883693",
+    "regionName": "Ярославская область",
+    "oikTvd": "100100225883695",
+    "oikName": "Ярославская область – Ростовский",
+    "district": {
+      "districtNumber": 195,
+      "oikTvd": "100100225883695"
+    }
   },
   {
     "uikNumber": 102,
     "uikTvd": "4764001189383",
     "tikTvd": "2762000926803",
-    "tikName": "Большесельская"
+    "tikName": "Большесельская",
+    "uikName": "УИК №102",
+    "regionCode": "76",
+    "regionTvd": "100100225883693",
+    "regionName": "Ярославская область",
+    "oikTvd": "100100225883695",
+    "oikName": "Ярославская область – Ростовский",
+    "district": {
+      "districtNumber": 195,
+      "oikTvd": "100100225883695"
+    }
   },
   {
     "uikNumber": 103,
     "uikTvd": "4764001189384",
     "tikTvd": "2762000926803",
-    "tikName": "Большесельская"
+    "tikName": "Большесельская",
+    "uikName": "УИК №103",
+    "regionCode": "76",
+    "regionTvd": "100100225883693",
+    "regionName": "Ярославская область",
+    "oikTvd": "100100225883695",
+    "oikName": "Ярославская область – Ростовский",
+    "district": {
+      "districtNumber": 195,
+      "oikTvd": "100100225883695"
+    }
   },
   {
     "uikNumber": 104,
     "uikTvd": "4764001189385",
     "tikTvd": "2762000926803",
-    "tikName": "Большесельская"
+    "tikName": "Большесельская",
+    "uikName": "УИК №104",
+    "regionCode": "76",
+    "regionTvd": "100100225883693",
+    "regionName": "Ярославская область",
+    "oikTvd": "100100225883695",
+    "oikName": "Ярославская область – Ростовский",
+    "district": {
+      "districtNumber": 195,
+      "oikTvd": "100100225883695"
+    }
   },
   {
     "uikNumber": 105,
     "uikTvd": "4764001189386",
     "tikTvd": "2762000926803",
-    "tikName": "Большесельская"
+    "tikName": "Большесельская",
+    "uikName": "УИК №105",
+    "regionCode": "76",
+    "regionTvd": "100100225883693",
+    "regionName": "Ярославская область",
+    "oikTvd": "100100225883695",
+    "oikName": "Ярославская область – Ростовский",
+    "district": {
+      "districtNumber": 195,
+      "oikTvd": "100100225883695"
+    }
   },
   {
     "uikNumber": 106,
     "uikTvd": "4764001189387",
     "tikTvd": "2762000926803",
-    "tikName": "Большесельская"
+    "tikName": "Большесельская",
+    "uikName": "УИК №106",
+    "regionCode": "76",
+    "regionTvd": "100100225883693",
+    "regionName": "Ярославская область",
+    "oikTvd": "100100225883695",
+    "oikName": "Ярославская область – Ростовский",
+    "district": {
+      "districtNumber": 195,
+      "oikTvd": "100100225883695"
+    }
   },
   {
     "uikNumber": 107,
     "uikTvd": "4764001189388",
     "tikTvd": "2762000926803",
-    "tikName": "Большесельская"
+    "tikName": "Большесельская",
+    "uikName": "УИК №107",
+    "regionCode": "76",
+    "regionTvd": "100100225883693",
+    "regionName": "Ярославская область",
+    "oikTvd": "100100225883695",
+    "oikName": "Ярославская область – Ростовский",
+    "district": {
+      "districtNumber": 195,
+      "oikTvd": "100100225883695"
+    }
   },
   {
     "uikNumber": 108,
     "uikTvd": "4764001189389",
     "tikTvd": "2762000926803",
-    "tikName": "Большесельская"
+    "tikName": "Большесельская",
+    "uikName": "УИК №108",
+    "regionCode": "76",
+    "regionTvd": "100100225883693",
+    "regionName": "Ярославская область",
+    "oikTvd": "100100225883695",
+    "oikName": "Ярославская область – Ростовский",
+    "district": {
+      "districtNumber": 195,
+      "oikTvd": "100100225883695"
+    }
   },
   {
     "uikNumber": 109,
     "uikTvd": "4764001189390",
     "tikTvd": "2762000926803",
-    "tikName": "Большесельская"
+    "tikName": "Большесельская",
+    "uikName": "УИК №109",
+    "regionCode": "76",
+    "regionTvd": "100100225883693",
+    "regionName": "Ярославская область",
+    "oikTvd": "100100225883695",
+    "oikName": "Ярославская область – Ростовский",
+    "district": {
+      "districtNumber": 195,
+      "oikTvd": "100100225883695"
+    }
   },
   {
     "uikNumber": 110,
     "uikTvd": "4764001189391",
     "tikTvd": "2762000926803",
-    "tikName": "Большесельская"
+    "tikName": "Большесельская",
+    "uikName": "УИК №110",
+    "regionCode": "76",
+    "regionTvd": "100100225883693",
+    "regionName": "Ярославская область",
+    "oikTvd": "100100225883695",
+    "oikName": "Ярославская область – Ростовский",
+    "district": {
+      "districtNumber": 195,
+      "oikTvd": "100100225883695"
+    }
   },
   {
     "uikNumber": 111,
     "uikTvd": "4764001189392",
     "tikTvd": "2762000926803",
-    "tikName": "Большесельская"
+    "tikName": "Большесельская",
+    "uikName": "УИК №111",
+    "regionCode": "76",
+    "regionTvd": "100100225883693",
+    "regionName": "Ярославская область",
+    "oikTvd": "100100225883695",
+    "oikName": "Ярославская область – Ростовский",
+    "district": {
+      "districtNumber": 195,
+      "oikTvd": "100100225883695"
+    }
   },
   {
     "uikNumber": 112,
     "uikTvd": "4764001189393",
     "tikTvd": "2762000926803",
-    "tikName": "Большесельская"
+    "tikName": "Большесельская",
+    "uikName": "УИК №112",
+    "regionCode": "76",
+    "regionTvd": "100100225883693",
+    "regionName": "Ярославская область",
+    "oikTvd": "100100225883695",
+    "oikName": "Ярославская область – Ростовский",
+    "district": {
+      "districtNumber": 195,
+      "oikTvd": "100100225883695"
+    }
   },
   {
     "uikNumber": 113,
     "uikTvd": "4764001189394",
     "tikTvd": "2762000926803",
-    "tikName": "Большесельская"
+    "tikName": "Большесельская",
+    "uikName": "УИК №113",
+    "regionCode": "76",
+    "regionTvd": "100100225883693",
+    "regionName": "Ярославская область",
+    "oikTvd": "100100225883695",
+    "oikName": "Ярославская область – Ростовский",
+    "district": {
+      "districtNumber": 195,
+      "oikTvd": "100100225883695"
+    }
   },
   {
     "uikNumber": 201,
     "uikTvd": "4764002251588",
     "tikTvd": "2762000926802",
-    "tikName": "Борисоглебская"
+    "tikName": "Борисоглебская",
+    "uikName": "УИК №201",
+    "regionCode": "76",
+    "regionTvd": "100100225883693",
+    "regionName": "Ярославская область",
+    "oikTvd": "100100225883695",
+    "oikName": "Ярославская область – Ростовский",
+    "district": {
+      "districtNumber": 195,
+      "oikTvd": "100100225883695"
+    }
   },
   {
     "uikNumber": 202,
     "uikTvd": "4764002251589",
     "tikTvd": "2762000926802",
-    "tikName": "Борисоглебская"
+    "tikName": "Борисоглебская",
+    "uikName": "УИК №202",
+    "regionCode": "76",
+    "regionTvd": "100100225883693",
+    "regionName": "Ярославская область",
+    "oikTvd": "100100225883695",
+    "oikName": "Ярославская область – Ростовский",
+    "district": {
+      "districtNumber": 195,
+      "oikTvd": "100100225883695"
+    }
   },
   {
     "uikNumber": 203,
     "uikTvd": "4764002251590",
     "tikTvd": "2762000926802",
-    "tikName": "Борисоглебская"
+    "tikName": "Борисоглебская",
+    "uikName": "УИК №203",
+    "regionCode": "76",
+    "regionTvd": "100100225883693",
+    "regionName": "Ярославская область",
+    "oikTvd": "100100225883695",
+    "oikName": "Ярославская область – Ростовский",
+    "district": {
+      "districtNumber": 195,
+      "oikTvd": "100100225883695"
+    }
   },
   {
     "uikNumber": 204,
     "uikTvd": "4764002251591",
     "tikTvd": "2762000926802",
-    "tikName": "Борисоглебская"
+    "tikName": "Борисоглебская",
+    "uikName": "УИК №204",
+    "regionCode": "76",
+    "regionTvd": "100100225883693",
+    "regionName": "Ярославская область",
+    "oikTvd": "100100225883695",
+    "oikName": "Ярославская область – Ростовский",
+    "district": {
+      "districtNumber": 195,
+      "oikTvd": "100100225883695"
+    }
   },
   {
     "uikNumber": 205,
     "uikTvd": "4764002251592",
     "tikTvd": "2762000926802",
-    "tikName": "Борисоглебская"
+    "tikName": "Борисоглебская",
+    "uikName": "УИК №205",
+    "regionCode": "76",
+    "regionTvd": "100100225883693",
+    "regionName": "Ярославская область",
+    "oikTvd": "100100225883695",
+    "oikName": "Ярославская область – Ростовский",
+    "district": {
+      "districtNumber": 195,
+      "oikTvd": "100100225883695"
+    }
   },
   {
     "uikNumber": 206,
     "uikTvd": "4764002251593",
     "tikTvd": "2762000926802",
-    "tikName": "Борисоглебская"
+    "tikName": "Борисоглебская",
+    "uikName": "УИК №206",
+    "regionCode": "76",
+    "regionTvd": "100100225883693",
+    "regionName": "Ярославская область",
+    "oikTvd": "100100225883695",
+    "oikName": "Ярославская область – Ростовский",
+    "district": {
+      "districtNumber": 195,
+      "oikTvd": "100100225883695"
+    }
   },
   {
     "uikNumber": 207,
     "uikTvd": "4764002251594",
     "tikTvd": "2762000926802",
-    "tikName": "Борисоглебская"
+    "tikName": "Борисоглебская",
+    "uikName": "УИК №207",
+    "regionCode": "76",
+    "regionTvd": "100100225883693",
+    "regionName": "Ярославская область",
+    "oikTvd": "100100225883695",
+    "oikName": "Ярославская область – Ростовский",
+    "district": {
+      "districtNumber": 195,
+      "oikTvd": "100100225883695"
+    }
   },
   {
     "uikNumber": 208,
     "uikTvd": "4764002251595",
     "tikTvd": "2762000926802",
-    "tikName": "Борисоглебская"
+    "tikName": "Борисоглебская",
+    "uikName": "УИК №208",
+    "regionCode": "76",
+    "regionTvd": "100100225883693",
+    "regionName": "Ярославская область",
+    "oikTvd": "100100225883695",
+    "oikName": "Ярославская область – Ростовский",
+    "district": {
+      "districtNumber": 195,
+      "oikTvd": "100100225883695"
+    }
   },
   {
     "uikNumber": 209,
     "uikTvd": "4764002251596",
     "tikTvd": "2762000926802",
-    "tikName": "Борисоглебская"
+    "tikName": "Борисоглебская",
+    "uikName": "УИК №209",
+    "regionCode": "76",
+    "regionTvd": "100100225883693",
+    "regionName": "Ярославская область",
+    "oikTvd": "100100225883695",
+    "oikName": "Ярославская область – Ростовский",
+    "district": {
+      "districtNumber": 195,
+      "oikTvd": "100100225883695"
+    }
   },
   {
     "uikNumber": 210,
     "uikTvd": "4764002251597",
     "tikTvd": "2762000926802",
-    "tikName": "Борисоглебская"
+    "tikName": "Борисоглебская",
+    "uikName": "УИК №210",
+    "regionCode": "76",
+    "regionTvd": "100100225883693",
+    "regionName": "Ярославская область",
+    "oikTvd": "100100225883695",
+    "oikName": "Ярославская область – Ростовский",
+    "district": {
+      "districtNumber": 195,
+      "oikTvd": "100100225883695"
+    }
   },
   {
     "uikNumber": 211,
     "uikTvd": "4764002251598",
     "tikTvd": "2762000926802",
-    "tikName": "Борисоглебская"
+    "tikName": "Борисоглебская",
+    "uikName": "УИК №211",
+    "regionCode": "76",
+    "regionTvd": "100100225883693",
+    "regionName": "Ярославская область",
+    "oikTvd": "100100225883695",
+    "oikName": "Ярославская область – Ростовский",
+    "district": {
+      "districtNumber": 195,
+      "oikTvd": "100100225883695"
+    }
   },
   {
     "uikNumber": 212,
     "uikTvd": "4764002251599",
     "tikTvd": "2762000926802",
-    "tikName": "Борисоглебская"
+    "tikName": "Борисоглебская",
+    "uikName": "УИК №212",
+    "regionCode": "76",
+    "regionTvd": "100100225883693",
+    "regionName": "Ярославская область",
+    "oikTvd": "100100225883695",
+    "oikName": "Ярославская область – Ростовский",
+    "district": {
+      "districtNumber": 195,
+      "oikTvd": "100100225883695"
+    }
   },
   {
     "uikNumber": 213,
     "uikTvd": "4764002251600",
     "tikTvd": "2762000926802",
-    "tikName": "Борисоглебская"
+    "tikName": "Борисоглебская",
+    "uikName": "УИК №213",
+    "regionCode": "76",
+    "regionTvd": "100100225883693",
+    "regionName": "Ярославская область",
+    "oikTvd": "100100225883695",
+    "oikName": "Ярославская область – Ростовский",
+    "district": {
+      "districtNumber": 195,
+      "oikTvd": "100100225883695"
+    }
   },
   {
     "uikNumber": 214,
     "uikTvd": "4764002251601",
     "tikTvd": "2762000926802",
-    "tikName": "Борисоглебская"
+    "tikName": "Борисоглебская",
+    "uikName": "УИК №214",
+    "regionCode": "76",
+    "regionTvd": "100100225883693",
+    "regionName": "Ярославская область",
+    "oikTvd": "100100225883695",
+    "oikName": "Ярославская область – Ростовский",
+    "district": {
+      "districtNumber": 195,
+      "oikTvd": "100100225883695"
+    }
   },
   {
     "uikNumber": 215,
     "uikTvd": "4764002251602",
     "tikTvd": "2762000926802",
-    "tikName": "Борисоглебская"
+    "tikName": "Борисоглебская",
+    "uikName": "УИК №215",
+    "regionCode": "76",
+    "regionTvd": "100100225883693",
+    "regionName": "Ярославская область",
+    "oikTvd": "100100225883695",
+    "oikName": "Ярославская область – Ростовский",
+    "district": {
+      "districtNumber": 195,
+      "oikTvd": "100100225883695"
+    }
   },
   {
     "uikNumber": 216,
     "uikTvd": "4764002251603",
     "tikTvd": "2762000926802",
-    "tikName": "Борисоглебская"
+    "tikName": "Борисоглебская",
+    "uikName": "УИК №216",
+    "regionCode": "76",
+    "regionTvd": "100100225883693",
+    "regionName": "Ярославская область",
+    "oikTvd": "100100225883695",
+    "oikName": "Ярославская область – Ростовский",
+    "district": {
+      "districtNumber": 195,
+      "oikTvd": "100100225883695"
+    }
   },
   {
     "uikNumber": 217,
     "uikTvd": "4764002251604",
     "tikTvd": "2762000926802",
-    "tikName": "Борисоглебская"
+    "tikName": "Борисоглебская",
+    "uikName": "УИК №217",
+    "regionCode": "76",
+    "regionTvd": "100100225883693",
+    "regionName": "Ярославская область",
+    "oikTvd": "100100225883695",
+    "oikName": "Ярославская область – Ростовский",
+    "district": {
+      "districtNumber": 195,
+      "oikTvd": "100100225883695"
+    }
   },
   {
     "uikNumber": 218,
     "uikTvd": "4764002251605",
     "tikTvd": "2762000926802",
-    "tikName": "Борисоглебская"
+    "tikName": "Борисоглебская",
+    "uikName": "УИК №218",
+    "regionCode": "76",
+    "regionTvd": "100100225883693",
+    "regionName": "Ярославская область",
+    "oikTvd": "100100225883695",
+    "oikName": "Ярославская область – Ростовский",
+    "district": {
+      "districtNumber": 195,
+      "oikTvd": "100100225883695"
+    }
   },
   {
     "uikNumber": 219,
     "uikTvd": "4764002251606",
     "tikTvd": "2762000926802",
-    "tikName": "Борисоглебская"
+    "tikName": "Борисоглебская",
+    "uikName": "УИК №219",
+    "regionCode": "76",
+    "regionTvd": "100100225883693",
+    "regionName": "Ярославская область",
+    "oikTvd": "100100225883695",
+    "oikName": "Ярославская область – Ростовский",
+    "district": {
+      "districtNumber": 195,
+      "oikTvd": "100100225883695"
+    }
   },
   {
     "uikNumber": 301,
     "uikTvd": "4764003167719",
     "tikTvd": "2762000926801",
-    "tikName": "Брейтовская"
+    "tikName": "Брейтовская",
+    "uikName": "УИК №301",
+    "regionCode": "76",
+    "regionTvd": "100100225883693",
+    "regionName": "Ярославская область",
+    "oikTvd": "100100225883695",
+    "oikName": "Ярославская область – Ростовский",
+    "district": {
+      "districtNumber": 195,
+      "oikTvd": "100100225883695"
+    }
   },
   {
     "uikNumber": 302,
     "uikTvd": "4764003167720",
     "tikTvd": "2762000926801",
-    "tikName": "Брейтовская"
+    "tikName": "Брейтовская",
+    "uikName": "УИК №302",
+    "regionCode": "76",
+    "regionTvd": "100100225883693",
+    "regionName": "Ярославская область",
+    "oikTvd": "100100225883695",
+    "oikName": "Ярославская область – Ростовский",
+    "district": {
+      "districtNumber": 195,
+      "oikTvd": "100100225883695"
+    }
   },
   {
     "uikNumber": 303,
     "uikTvd": "4764003167721",
     "tikTvd": "2762000926801",
-    "tikName": "Брейтовская"
+    "tikName": "Брейтовская",
+    "uikName": "УИК №303",
+    "regionCode": "76",
+    "regionTvd": "100100225883693",
+    "regionName": "Ярославская область",
+    "oikTvd": "100100225883695",
+    "oikName": "Ярославская область – Ростовский",
+    "district": {
+      "districtNumber": 195,
+      "oikTvd": "100100225883695"
+    }
   },
   {
     "uikNumber": 304,
     "uikTvd": "4764003167722",
     "tikTvd": "2762000926801",
-    "tikName": "Брейтовская"
+    "tikName": "Брейтовская",
+    "uikName": "УИК №304",
+    "regionCode": "76",
+    "regionTvd": "100100225883693",
+    "regionName": "Ярославская область",
+    "oikTvd": "100100225883695",
+    "oikName": "Ярославская область – Ростовский",
+    "district": {
+      "districtNumber": 195,
+      "oikTvd": "100100225883695"
+    }
   },
   {
     "uikNumber": 305,
     "uikTvd": "4764003167723",
     "tikTvd": "2762000926801",
-    "tikName": "Брейтовская"
+    "tikName": "Брейтовская",
+    "uikName": "УИК №305",
+    "regionCode": "76",
+    "regionTvd": "100100225883693",
+    "regionName": "Ярославская область",
+    "oikTvd": "100100225883695",
+    "oikName": "Ярославская область – Ростовский",
+    "district": {
+      "districtNumber": 195,
+      "oikTvd": "100100225883695"
+    }
   },
   {
     "uikNumber": 306,
     "uikTvd": "4764003167724",
     "tikTvd": "2762000926801",
-    "tikName": "Брейтовская"
+    "tikName": "Брейтовская",
+    "uikName": "УИК №306",
+    "regionCode": "76",
+    "regionTvd": "100100225883693",
+    "regionName": "Ярославская область",
+    "oikTvd": "100100225883695",
+    "oikName": "Ярославская область – Ростовский",
+    "district": {
+      "districtNumber": 195,
+      "oikTvd": "100100225883695"
+    }
   },
   {
     "uikNumber": 307,
     "uikTvd": "4764003167725",
     "tikTvd": "2762000926801",
-    "tikName": "Брейтовская"
+    "tikName": "Брейтовская",
+    "uikName": "УИК №307",
+    "regionCode": "76",
+    "regionTvd": "100100225883693",
+    "regionName": "Ярославская область",
+    "oikTvd": "100100225883695",
+    "oikName": "Ярославская область – Ростовский",
+    "district": {
+      "districtNumber": 195,
+      "oikTvd": "100100225883695"
+    }
   },
   {
     "uikNumber": 308,
     "uikTvd": "4764003167726",
     "tikTvd": "2762000926801",
-    "tikName": "Брейтовская"
+    "tikName": "Брейтовская",
+    "uikName": "УИК №308",
+    "regionCode": "76",
+    "regionTvd": "100100225883693",
+    "regionName": "Ярославская область",
+    "oikTvd": "100100225883695",
+    "oikName": "Ярославская область – Ростовский",
+    "district": {
+      "districtNumber": 195,
+      "oikTvd": "100100225883695"
+    }
   },
   {
     "uikNumber": 309,
     "uikTvd": "4764003167727",
     "tikTvd": "2762000926801",
-    "tikName": "Брейтовская"
+    "tikName": "Брейтовская",
+    "uikName": "УИК №309",
+    "regionCode": "76",
+    "regionTvd": "100100225883693",
+    "regionName": "Ярославская область",
+    "oikTvd": "100100225883695",
+    "oikName": "Ярославская область – Ростовский",
+    "district": {
+      "districtNumber": 195,
+      "oikTvd": "100100225883695"
+    }
   },
   {
     "uikNumber": 310,
     "uikTvd": "4764003167728",
     "tikTvd": "2762000926801",
-    "tikName": "Брейтовская"
+    "tikName": "Брейтовская",
+    "uikName": "УИК №310",
+    "regionCode": "76",
+    "regionTvd": "100100225883693",
+    "regionName": "Ярославская область",
+    "oikTvd": "100100225883695",
+    "oikName": "Ярославская область – Ростовский",
+    "district": {
+      "districtNumber": 195,
+      "oikTvd": "100100225883695"
+    }
   },
   {
     "uikNumber": 311,
     "uikTvd": "4764003167729",
     "tikTvd": "2762000926801",
-    "tikName": "Брейтовская"
+    "tikName": "Брейтовская",
+    "uikName": "УИК №311",
+    "regionCode": "76",
+    "regionTvd": "100100225883693",
+    "regionName": "Ярославская область",
+    "oikTvd": "100100225883695",
+    "oikName": "Ярославская область – Ростовский",
+    "district": {
+      "districtNumber": 195,
+      "oikTvd": "100100225883695"
+    }
   },
   {
     "uikNumber": 401,
     "uikTvd": "4764004199611",
     "tikTvd": "2762000926800",
-    "tikName": "Гаврилов-Ямская"
+    "tikName": "Гаврилов-Ямская",
+    "uikName": "УИК №401",
+    "regionCode": "76",
+    "regionTvd": "100100225883693",
+    "regionName": "Ярославская область",
+    "oikTvd": "100100225883695",
+    "oikName": "Ярославская область – Ростовский",
+    "district": {
+      "districtNumber": 195,
+      "oikTvd": "100100225883695"
+    }
   },
   {
     "uikNumber": 402,
     "uikTvd": "4764004199612",
     "tikTvd": "2762000926800",
-    "tikName": "Гаврилов-Ямская"
+    "tikName": "Гаврилов-Ямская",
+    "uikName": "УИК №402",
+    "regionCode": "76",
+    "regionTvd": "100100225883693",
+    "regionName": "Ярославская область",
+    "oikTvd": "100100225883695",
+    "oikName": "Ярославская область – Ростовский",
+    "district": {
+      "districtNumber": 195,
+      "oikTvd": "100100225883695"
+    }
   },
   {
     "uikNumber": 403,
     "uikTvd": "4764004199613",
     "tikTvd": "2762000926800",
-    "tikName": "Гаврилов-Ямская"
+    "tikName": "Гаврилов-Ямская",
+    "uikName": "УИК №403",
+    "regionCode": "76",
+    "regionTvd": "100100225883693",
+    "regionName": "Ярославская область",
+    "oikTvd": "100100225883695",
+    "oikName": "Ярославская область – Ростовский",
+    "district": {
+      "districtNumber": 195,
+      "oikTvd": "100100225883695"
+    }
   },
   {
     "uikNumber": 404,
     "uikTvd": "4764004199614",
     "tikTvd": "2762000926800",
-    "tikName": "Гаврилов-Ямская"
+    "tikName": "Гаврилов-Ямская",
+    "uikName": "УИК №404",
+    "regionCode": "76",
+    "regionTvd": "100100225883693",
+    "regionName": "Ярославская область",
+    "oikTvd": "100100225883695",
+    "oikName": "Ярославская область – Ростовский",
+    "district": {
+      "districtNumber": 195,
+      "oikTvd": "100100225883695"
+    }
   },
   {
     "uikNumber": 405,
     "uikTvd": "4764004199615",
     "tikTvd": "2762000926800",
-    "tikName": "Гаврилов-Ямская"
+    "tikName": "Гаврилов-Ямская",
+    "uikName": "УИК №405",
+    "regionCode": "76",
+    "regionTvd": "100100225883693",
+    "regionName": "Ярославская область",
+    "oikTvd": "100100225883695",
+    "oikName": "Ярославская область – Ростовский",
+    "district": {
+      "districtNumber": 195,
+      "oikTvd": "100100225883695"
+    }
   },
   {
     "uikNumber": 406,
     "uikTvd": "4764004199616",
     "tikTvd": "2762000926800",
-    "tikName": "Гаврилов-Ямская"
+    "tikName": "Гаврилов-Ямская",
+    "uikName": "УИК №406",
+    "regionCode": "76",
+    "regionTvd": "100100225883693",
+    "regionName": "Ярославская область",
+    "oikTvd": "100100225883695",
+    "oikName": "Ярославская область – Ростовский",
+    "district": {
+      "districtNumber": 195,
+      "oikTvd": "100100225883695"
+    }
   },
   {
     "uikNumber": 407,
     "uikTvd": "4764004199617",
     "tikTvd": "2762000926800",
-    "tikName": "Гаврилов-Ямская"
+    "tikName": "Гаврилов-Ямская",
+    "uikName": "УИК №407",
+    "regionCode": "76",
+    "regionTvd": "100100225883693",
+    "regionName": "Ярославская область",
+    "oikTvd": "100100225883695",
+    "oikName": "Ярославская область – Ростовский",
+    "district": {
+      "districtNumber": 195,
+      "oikTvd": "100100225883695"
+    }
   },
   {
     "uikNumber": 408,
     "uikTvd": "4764004199618",
     "tikTvd": "2762000926800",
-    "tikName": "Гаврилов-Ямская"
+    "tikName": "Гаврилов-Ямская",
+    "uikName": "УИК №408",
+    "regionCode": "76",
+    "regionTvd": "100100225883693",
+    "regionName": "Ярославская область",
+    "oikTvd": "100100225883695",
+    "oikName": "Ярославская область – Ростовский",
+    "district": {
+      "districtNumber": 195,
+      "oikTvd": "100100225883695"
+    }
   },
   {
     "uikNumber": 409,
     "uikTvd": "4764004199619",
     "tikTvd": "2762000926800",
-    "tikName": "Гаврилов-Ямская"
+    "tikName": "Гаврилов-Ямская",
+    "uikName": "УИК №409",
+    "regionCode": "76",
+    "regionTvd": "100100225883693",
+    "regionName": "Ярославская область",
+    "oikTvd": "100100225883695",
+    "oikName": "Ярославская область – Ростовский",
+    "district": {
+      "districtNumber": 195,
+      "oikTvd": "100100225883695"
+    }
   },
   {
     "uikNumber": 410,
     "uikTvd": "4764004199620",
     "tikTvd": "2762000926800",
-    "tikName": "Гаврилов-Ямская"
+    "tikName": "Гаврилов-Ямская",
+    "uikName": "УИК №410",
+    "regionCode": "76",
+    "regionTvd": "100100225883693",
+    "regionName": "Ярославская область",
+    "oikTvd": "100100225883695",
+    "oikName": "Ярославская область – Ростовский",
+    "district": {
+      "districtNumber": 195,
+      "oikTvd": "100100225883695"
+    }
   },
   {
     "uikNumber": 411,
     "uikTvd": "4764004199621",
     "tikTvd": "2762000926800",
-    "tikName": "Гаврилов-Ямская"
+    "tikName": "Гаврилов-Ямская",
+    "uikName": "УИК №411",
+    "regionCode": "76",
+    "regionTvd": "100100225883693",
+    "regionName": "Ярославская область",
+    "oikTvd": "100100225883695",
+    "oikName": "Ярославская область – Ростовский",
+    "district": {
+      "districtNumber": 195,
+      "oikTvd": "100100225883695"
+    }
   },
   {
     "uikNumber": 412,
     "uikTvd": "4764004199622",
     "tikTvd": "2762000926800",
-    "tikName": "Гаврилов-Ямская"
+    "tikName": "Гаврилов-Ямская",
+    "uikName": "УИК №412",
+    "regionCode": "76",
+    "regionTvd": "100100225883693",
+    "regionName": "Ярославская область",
+    "oikTvd": "100100225883695",
+    "oikName": "Ярославская область – Ростовский",
+    "district": {
+      "districtNumber": 195,
+      "oikTvd": "100100225883695"
+    }
   },
   {
     "uikNumber": 413,
     "uikTvd": "4764004199623",
     "tikTvd": "2762000926800",
-    "tikName": "Гаврилов-Ямская"
+    "tikName": "Гаврилов-Ямская",
+    "uikName": "УИК №413",
+    "regionCode": "76",
+    "regionTvd": "100100225883693",
+    "regionName": "Ярославская область",
+    "oikTvd": "100100225883695",
+    "oikName": "Ярославская область – Ростовский",
+    "district": {
+      "districtNumber": 195,
+      "oikTvd": "100100225883695"
+    }
   },
   {
     "uikNumber": 414,
     "uikTvd": "4764004199624",
     "tikTvd": "2762000926800",
-    "tikName": "Гаврилов-Ямская"
+    "tikName": "Гаврилов-Ямская",
+    "uikName": "УИК №414",
+    "regionCode": "76",
+    "regionTvd": "100100225883693",
+    "regionName": "Ярославская область",
+    "oikTvd": "100100225883695",
+    "oikName": "Ярославская область – Ростовский",
+    "district": {
+      "districtNumber": 195,
+      "oikTvd": "100100225883695"
+    }
   },
   {
     "uikNumber": 415,
     "uikTvd": "4764004199625",
     "tikTvd": "2762000926800",
-    "tikName": "Гаврилов-Ямская"
+    "tikName": "Гаврилов-Ямская",
+    "uikName": "УИК №415",
+    "regionCode": "76",
+    "regionTvd": "100100225883693",
+    "regionName": "Ярославская область",
+    "oikTvd": "100100225883695",
+    "oikName": "Ярославская область – Ростовский",
+    "district": {
+      "districtNumber": 195,
+      "oikTvd": "100100225883695"
+    }
   },
   {
     "uikNumber": 416,
     "uikTvd": "4764004199626",
     "tikTvd": "2762000926800",
-    "tikName": "Гаврилов-Ямская"
+    "tikName": "Гаврилов-Ямская",
+    "uikName": "УИК №416",
+    "regionCode": "76",
+    "regionTvd": "100100225883693",
+    "regionName": "Ярославская область",
+    "oikTvd": "100100225883695",
+    "oikName": "Ярославская область – Ростовский",
+    "district": {
+      "districtNumber": 195,
+      "oikTvd": "100100225883695"
+    }
   },
   {
     "uikNumber": 417,
     "uikTvd": "4764004199627",
     "tikTvd": "2762000926800",
-    "tikName": "Гаврилов-Ямская"
+    "tikName": "Гаврилов-Ямская",
+    "uikName": "УИК №417",
+    "regionCode": "76",
+    "regionTvd": "100100225883693",
+    "regionName": "Ярославская область",
+    "oikTvd": "100100225883695",
+    "oikName": "Ярославская область – Ростовский",
+    "district": {
+      "districtNumber": 195,
+      "oikTvd": "100100225883695"
+    }
   },
   {
     "uikNumber": 418,
     "uikTvd": "4764004199628",
     "tikTvd": "2762000926800",
-    "tikName": "Гаврилов-Ямская"
+    "tikName": "Гаврилов-Ямская",
+    "uikName": "УИК №418",
+    "regionCode": "76",
+    "regionTvd": "100100225883693",
+    "regionName": "Ярославская область",
+    "oikTvd": "100100225883695",
+    "oikName": "Ярославская область – Ростовский",
+    "district": {
+      "districtNumber": 195,
+      "oikTvd": "100100225883695"
+    }
   },
   {
     "uikNumber": 419,
     "uikTvd": "4764004199629",
     "tikTvd": "2762000926800",
-    "tikName": "Гаврилов-Ямская"
+    "tikName": "Гаврилов-Ямская",
+    "uikName": "УИК №419",
+    "regionCode": "76",
+    "regionTvd": "100100225883693",
+    "regionName": "Ярославская область",
+    "oikTvd": "100100225883695",
+    "oikName": "Ярославская область – Ростовский",
+    "district": {
+      "districtNumber": 195,
+      "oikTvd": "100100225883695"
+    }
   },
   {
     "uikNumber": 420,
     "uikTvd": "4764004199630",
     "tikTvd": "2762000926800",
-    "tikName": "Гаврилов-Ямская"
+    "tikName": "Гаврилов-Ямская",
+    "uikName": "УИК №420",
+    "regionCode": "76",
+    "regionTvd": "100100225883693",
+    "regionName": "Ярославская область",
+    "oikTvd": "100100225883695",
+    "oikName": "Ярославская область – Ростовский",
+    "district": {
+      "districtNumber": 195,
+      "oikTvd": "100100225883695"
+    }
   },
   {
     "uikNumber": 421,
     "uikTvd": "4764004199631",
     "tikTvd": "2762000926800",
-    "tikName": "Гаврилов-Ямская"
+    "tikName": "Гаврилов-Ямская",
+    "uikName": "УИК №421",
+    "regionCode": "76",
+    "regionTvd": "100100225883693",
+    "regionName": "Ярославская область",
+    "oikTvd": "100100225883695",
+    "oikName": "Ярославская область – Ростовский",
+    "district": {
+      "districtNumber": 195,
+      "oikTvd": "100100225883695"
+    }
   },
   {
     "uikNumber": 422,
     "uikTvd": "4764004199632",
     "tikTvd": "2762000926800",
-    "tikName": "Гаврилов-Ямская"
+    "tikName": "Гаврилов-Ямская",
+    "uikName": "УИК №422",
+    "regionCode": "76",
+    "regionTvd": "100100225883693",
+    "regionName": "Ярославская область",
+    "oikTvd": "100100225883695",
+    "oikName": "Ярославская область – Ростовский",
+    "district": {
+      "districtNumber": 195,
+      "oikTvd": "100100225883695"
+    }
   },
   {
     "uikNumber": 423,
     "uikTvd": "4764004199633",
     "tikTvd": "2762000926800",
-    "tikName": "Гаврилов-Ямская"
+    "tikName": "Гаврилов-Ямская",
+    "uikName": "УИК №423",
+    "regionCode": "76",
+    "regionTvd": "100100225883693",
+    "regionName": "Ярославская область",
+    "oikTvd": "100100225883695",
+    "oikName": "Ярославская область – Ростовский",
+    "district": {
+      "districtNumber": 195,
+      "oikTvd": "100100225883695"
+    }
   },
   {
     "uikNumber": 424,
     "uikTvd": "4764004199634",
     "tikTvd": "2762000926800",
-    "tikName": "Гаврилов-Ямская"
+    "tikName": "Гаврилов-Ямская",
+    "uikName": "УИК №424",
+    "regionCode": "76",
+    "regionTvd": "100100225883693",
+    "regionName": "Ярославская область",
+    "oikTvd": "100100225883695",
+    "oikName": "Ярославская область – Ростовский",
+    "district": {
+      "districtNumber": 195,
+      "oikTvd": "100100225883695"
+    }
   },
   {
     "uikNumber": 425,
     "uikTvd": "4764004199635",
     "tikTvd": "2762000926800",
-    "tikName": "Гаврилов-Ямская"
+    "tikName": "Гаврилов-Ямская",
+    "uikName": "УИК №425",
+    "regionCode": "76",
+    "regionTvd": "100100225883693",
+    "regionName": "Ярославская область",
+    "oikTvd": "100100225883695",
+    "oikName": "Ярославская область – Ростовский",
+    "district": {
+      "districtNumber": 195,
+      "oikTvd": "100100225883695"
+    }
   },
   {
     "uikNumber": 501,
     "uikTvd": "4764005203139",
     "tikTvd": "2762000926787",
-    "tikName": "Даниловская"
+    "tikName": "Даниловская",
+    "uikName": "УИК №501",
+    "regionCode": "76",
+    "regionTvd": "100100225883693",
+    "regionName": "Ярославская область",
+    "oikTvd": "100100225883694",
+    "oikName": "Ярославская область – Ярославский",
+    "district": {
+      "districtNumber": 194,
+      "oikTvd": "100100225883694"
+    }
   },
   {
     "uikNumber": 502,
     "uikTvd": "4764005203140",
     "tikTvd": "2762000926787",
-    "tikName": "Даниловская"
+    "tikName": "Даниловская",
+    "uikName": "УИК №502",
+    "regionCode": "76",
+    "regionTvd": "100100225883693",
+    "regionName": "Ярославская область",
+    "oikTvd": "100100225883694",
+    "oikName": "Ярославская область – Ярославский",
+    "district": {
+      "districtNumber": 194,
+      "oikTvd": "100100225883694"
+    }
   },
   {
     "uikNumber": 503,
     "uikTvd": "4764005203141",
     "tikTvd": "2762000926787",
-    "tikName": "Даниловская"
+    "tikName": "Даниловская",
+    "uikName": "УИК №503",
+    "regionCode": "76",
+    "regionTvd": "100100225883693",
+    "regionName": "Ярославская область",
+    "oikTvd": "100100225883694",
+    "oikName": "Ярославская область – Ярославский",
+    "district": {
+      "districtNumber": 194,
+      "oikTvd": "100100225883694"
+    }
   },
   {
     "uikNumber": 504,
     "uikTvd": "4764005203142",
     "tikTvd": "2762000926787",
-    "tikName": "Даниловская"
+    "tikName": "Даниловская",
+    "uikName": "УИК №504",
+    "regionCode": "76",
+    "regionTvd": "100100225883693",
+    "regionName": "Ярославская область",
+    "oikTvd": "100100225883694",
+    "oikName": "Ярославская область – Ярославский",
+    "district": {
+      "districtNumber": 194,
+      "oikTvd": "100100225883694"
+    }
   },
   {
     "uikNumber": 505,
     "uikTvd": "4764005203143",
     "tikTvd": "2762000926787",
-    "tikName": "Даниловская"
+    "tikName": "Даниловская",
+    "uikName": "УИК №505",
+    "regionCode": "76",
+    "regionTvd": "100100225883693",
+    "regionName": "Ярославская область",
+    "oikTvd": "100100225883694",
+    "oikName": "Ярославская область – Ярославский",
+    "district": {
+      "districtNumber": 194,
+      "oikTvd": "100100225883694"
+    }
   },
   {
     "uikNumber": 506,
     "uikTvd": "4764005203144",
     "tikTvd": "2762000926787",
-    "tikName": "Даниловская"
+    "tikName": "Даниловская",
+    "uikName": "УИК №506",
+    "regionCode": "76",
+    "regionTvd": "100100225883693",
+    "regionName": "Ярославская область",
+    "oikTvd": "100100225883694",
+    "oikName": "Ярославская область – Ярославский",
+    "district": {
+      "districtNumber": 194,
+      "oikTvd": "100100225883694"
+    }
   },
   {
     "uikNumber": 507,
     "uikTvd": "4764005203145",
     "tikTvd": "2762000926787",
-    "tikName": "Даниловская"
+    "tikName": "Даниловская",
+    "uikName": "УИК №507",
+    "regionCode": "76",
+    "regionTvd": "100100225883693",
+    "regionName": "Ярославская область",
+    "oikTvd": "100100225883694",
+    "oikName": "Ярославская область – Ярославский",
+    "district": {
+      "districtNumber": 194,
+      "oikTvd": "100100225883694"
+    }
   },
   {
     "uikNumber": 508,
     "uikTvd": "4764005203146",
     "tikTvd": "2762000926787",
-    "tikName": "Даниловская"
+    "tikName": "Даниловская",
+    "uikName": "УИК №508",
+    "regionCode": "76",
+    "regionTvd": "100100225883693",
+    "regionName": "Ярославская область",
+    "oikTvd": "100100225883694",
+    "oikName": "Ярославская область – Ярославский",
+    "district": {
+      "districtNumber": 194,
+      "oikTvd": "100100225883694"
+    }
   },
   {
     "uikNumber": 509,
     "uikTvd": "4764005203147",
     "tikTvd": "2762000926787",
-    "tikName": "Даниловская"
+    "tikName": "Даниловская",
+    "uikName": "УИК №509",
+    "regionCode": "76",
+    "regionTvd": "100100225883693",
+    "regionName": "Ярославская область",
+    "oikTvd": "100100225883694",
+    "oikName": "Ярославская область – Ярославский",
+    "district": {
+      "districtNumber": 194,
+      "oikTvd": "100100225883694"
+    }
   },
   {
     "uikNumber": 510,
     "uikTvd": "4764005203148",
     "tikTvd": "2762000926787",
-    "tikName": "Даниловская"
+    "tikName": "Даниловская",
+    "uikName": "УИК №510",
+    "regionCode": "76",
+    "regionTvd": "100100225883693",
+    "regionName": "Ярославская область",
+    "oikTvd": "100100225883694",
+    "oikName": "Ярославская область – Ярославский",
+    "district": {
+      "districtNumber": 194,
+      "oikTvd": "100100225883694"
+    }
   },
   {
     "uikNumber": 511,
     "uikTvd": "4764005203149",
     "tikTvd": "2762000926787",
-    "tikName": "Даниловская"
+    "tikName": "Даниловская",
+    "uikName": "УИК №511",
+    "regionCode": "76",
+    "regionTvd": "100100225883693",
+    "regionName": "Ярославская область",
+    "oikTvd": "100100225883694",
+    "oikName": "Ярославская область – Ярославский",
+    "district": {
+      "districtNumber": 194,
+      "oikTvd": "100100225883694"
+    }
   },
   {
     "uikNumber": 512,
     "uikTvd": "4764005203150",
     "tikTvd": "2762000926787",
-    "tikName": "Даниловская"
+    "tikName": "Даниловская",
+    "uikName": "УИК №512",
+    "regionCode": "76",
+    "regionTvd": "100100225883693",
+    "regionName": "Ярославская область",
+    "oikTvd": "100100225883694",
+    "oikName": "Ярославская область – Ярославский",
+    "district": {
+      "districtNumber": 194,
+      "oikTvd": "100100225883694"
+    }
   },
   {
     "uikNumber": 513,
     "uikTvd": "4764005203151",
     "tikTvd": "2762000926787",
-    "tikName": "Даниловская"
+    "tikName": "Даниловская",
+    "uikName": "УИК №513",
+    "regionCode": "76",
+    "regionTvd": "100100225883693",
+    "regionName": "Ярославская область",
+    "oikTvd": "100100225883694",
+    "oikName": "Ярославская область – Ярославский",
+    "district": {
+      "districtNumber": 194,
+      "oikTvd": "100100225883694"
+    }
   },
   {
     "uikNumber": 514,
     "uikTvd": "4764005203152",
     "tikTvd": "2762000926787",
-    "tikName": "Даниловская"
+    "tikName": "Даниловская",
+    "uikName": "УИК №514",
+    "regionCode": "76",
+    "regionTvd": "100100225883693",
+    "regionName": "Ярославская область",
+    "oikTvd": "100100225883694",
+    "oikName": "Ярославская область – Ярославский",
+    "district": {
+      "districtNumber": 194,
+      "oikTvd": "100100225883694"
+    }
   },
   {
     "uikNumber": 515,
     "uikTvd": "4764005203153",
     "tikTvd": "2762000926787",
-    "tikName": "Даниловская"
+    "tikName": "Даниловская",
+    "uikName": "УИК №515",
+    "regionCode": "76",
+    "regionTvd": "100100225883693",
+    "regionName": "Ярославская область",
+    "oikTvd": "100100225883694",
+    "oikName": "Ярославская область – Ярославский",
+    "district": {
+      "districtNumber": 194,
+      "oikTvd": "100100225883694"
+    }
   },
   {
     "uikNumber": 516,
     "uikTvd": "4764005203154",
     "tikTvd": "2762000926787",
-    "tikName": "Даниловская"
+    "tikName": "Даниловская",
+    "uikName": "УИК №516",
+    "regionCode": "76",
+    "regionTvd": "100100225883693",
+    "regionName": "Ярославская область",
+    "oikTvd": "100100225883694",
+    "oikName": "Ярославская область – Ярославский",
+    "district": {
+      "districtNumber": 194,
+      "oikTvd": "100100225883694"
+    }
   },
   {
     "uikNumber": 517,
     "uikTvd": "4764005203155",
     "tikTvd": "2762000926787",
-    "tikName": "Даниловская"
+    "tikName": "Даниловская",
+    "uikName": "УИК №517",
+    "regionCode": "76",
+    "regionTvd": "100100225883693",
+    "regionName": "Ярославская область",
+    "oikTvd": "100100225883694",
+    "oikName": "Ярославская область – Ярославский",
+    "district": {
+      "districtNumber": 194,
+      "oikTvd": "100100225883694"
+    }
   },
   {
     "uikNumber": 518,
     "uikTvd": "4764005203156",
     "tikTvd": "2762000926787",
-    "tikName": "Даниловская"
+    "tikName": "Даниловская",
+    "uikName": "УИК №518",
+    "regionCode": "76",
+    "regionTvd": "100100225883693",
+    "regionName": "Ярославская область",
+    "oikTvd": "100100225883694",
+    "oikName": "Ярославская область – Ярославский",
+    "district": {
+      "districtNumber": 194,
+      "oikTvd": "100100225883694"
+    }
   },
   {
     "uikNumber": 519,
     "uikTvd": "4764005203157",
     "tikTvd": "2762000926787",
-    "tikName": "Даниловская"
+    "tikName": "Даниловская",
+    "uikName": "УИК №519",
+    "regionCode": "76",
+    "regionTvd": "100100225883693",
+    "regionName": "Ярославская область",
+    "oikTvd": "100100225883694",
+    "oikName": "Ярославская область – Ярославский",
+    "district": {
+      "districtNumber": 194,
+      "oikTvd": "100100225883694"
+    }
   },
   {
     "uikNumber": 520,
     "uikTvd": "4764005203158",
     "tikTvd": "2762000926787",
-    "tikName": "Даниловская"
+    "tikName": "Даниловская",
+    "uikName": "УИК №520",
+    "regionCode": "76",
+    "regionTvd": "100100225883693",
+    "regionName": "Ярославская область",
+    "oikTvd": "100100225883694",
+    "oikName": "Ярославская область – Ярославский",
+    "district": {
+      "districtNumber": 194,
+      "oikTvd": "100100225883694"
+    }
   },
   {
     "uikNumber": 521,
     "uikTvd": "4764005203159",
     "tikTvd": "2762000926787",
-    "tikName": "Даниловская"
+    "tikName": "Даниловская",
+    "uikName": "УИК №521",
+    "regionCode": "76",
+    "regionTvd": "100100225883693",
+    "regionName": "Ярославская область",
+    "oikTvd": "100100225883694",
+    "oikName": "Ярославская область – Ярославский",
+    "district": {
+      "districtNumber": 194,
+      "oikTvd": "100100225883694"
+    }
   },
   {
     "uikNumber": 522,
     "uikTvd": "4764005203160",
     "tikTvd": "2762000926787",
-    "tikName": "Даниловская"
+    "tikName": "Даниловская",
+    "uikName": "УИК №522",
+    "regionCode": "76",
+    "regionTvd": "100100225883693",
+    "regionName": "Ярославская область",
+    "oikTvd": "100100225883694",
+    "oikName": "Ярославская область – Ярославский",
+    "district": {
+      "districtNumber": 194,
+      "oikTvd": "100100225883694"
+    }
   },
   {
     "uikNumber": 523,
     "uikTvd": "4764005203161",
     "tikTvd": "2762000926787",
-    "tikName": "Даниловская"
+    "tikName": "Даниловская",
+    "uikName": "УИК №523",
+    "regionCode": "76",
+    "regionTvd": "100100225883693",
+    "regionName": "Ярославская область",
+    "oikTvd": "100100225883694",
+    "oikName": "Ярославская область – Ярославский",
+    "district": {
+      "districtNumber": 194,
+      "oikTvd": "100100225883694"
+    }
   },
   {
     "uikNumber": 524,
     "uikTvd": "4764005203162",
     "tikTvd": "2762000926787",
-    "tikName": "Даниловская"
+    "tikName": "Даниловская",
+    "uikName": "УИК №524",
+    "regionCode": "76",
+    "regionTvd": "100100225883693",
+    "regionName": "Ярославская область",
+    "oikTvd": "100100225883694",
+    "oikName": "Ярославская область – Ярославский",
+    "district": {
+      "districtNumber": 194,
+      "oikTvd": "100100225883694"
+    }
   },
   {
     "uikNumber": 525,
     "uikTvd": "4764005203163",
     "tikTvd": "2762000926787",
-    "tikName": "Даниловская"
+    "tikName": "Даниловская",
+    "uikName": "УИК №525",
+    "regionCode": "76",
+    "regionTvd": "100100225883693",
+    "regionName": "Ярославская область",
+    "oikTvd": "100100225883694",
+    "oikName": "Ярославская область – Ярославский",
+    "district": {
+      "districtNumber": 194,
+      "oikTvd": "100100225883694"
+    }
   },
   {
     "uikNumber": 526,
     "uikTvd": "4764005203164",
     "tikTvd": "2762000926787",
-    "tikName": "Даниловская"
+    "tikName": "Даниловская",
+    "uikName": "УИК №526",
+    "regionCode": "76",
+    "regionTvd": "100100225883693",
+    "regionName": "Ярославская область",
+    "oikTvd": "100100225883694",
+    "oikName": "Ярославская область – Ярославский",
+    "district": {
+      "districtNumber": 194,
+      "oikTvd": "100100225883694"
+    }
   },
   {
     "uikNumber": 527,
     "uikTvd": "4764005203165",
     "tikTvd": "2762000926787",
-    "tikName": "Даниловская"
+    "tikName": "Даниловская",
+    "uikName": "УИК №527",
+    "regionCode": "76",
+    "regionTvd": "100100225883693",
+    "regionName": "Ярославская область",
+    "oikTvd": "100100225883694",
+    "oikName": "Ярославская область – Ярославский",
+    "district": {
+      "districtNumber": 194,
+      "oikTvd": "100100225883694"
+    }
   },
   {
     "uikNumber": 528,
     "uikTvd": "4764005203166",
     "tikTvd": "2762000926787",
-    "tikName": "Даниловская"
+    "tikName": "Даниловская",
+    "uikName": "УИК №528",
+    "regionCode": "76",
+    "regionTvd": "100100225883693",
+    "regionName": "Ярославская область",
+    "oikTvd": "100100225883694",
+    "oikName": "Ярославская область – Ярославский",
+    "district": {
+      "districtNumber": 194,
+      "oikTvd": "100100225883694"
+    }
   },
   {
     "uikNumber": 529,
     "uikTvd": "4764005203167",
     "tikTvd": "2762000926787",
-    "tikName": "Даниловская"
+    "tikName": "Даниловская",
+    "uikName": "УИК №529",
+    "regionCode": "76",
+    "regionTvd": "100100225883693",
+    "regionName": "Ярославская область",
+    "oikTvd": "100100225883694",
+    "oikName": "Ярославская область – Ярославский",
+    "district": {
+      "districtNumber": 194,
+      "oikTvd": "100100225883694"
+    }
   },
   {
     "uikNumber": 530,
     "uikTvd": "4764005203168",
     "tikTvd": "2762000926787",
-    "tikName": "Даниловская"
+    "tikName": "Даниловская",
+    "uikName": "УИК №530",
+    "regionCode": "76",
+    "regionTvd": "100100225883693",
+    "regionName": "Ярославская область",
+    "oikTvd": "100100225883694",
+    "oikName": "Ярославская область – Ярославский",
+    "district": {
+      "districtNumber": 194,
+      "oikTvd": "100100225883694"
+    }
   },
   {
     "uikNumber": 531,
     "uikTvd": "4764005203169",
     "tikTvd": "2762000926787",
-    "tikName": "Даниловская"
+    "tikName": "Даниловская",
+    "uikName": "УИК №531",
+    "regionCode": "76",
+    "regionTvd": "100100225883693",
+    "regionName": "Ярославская область",
+    "oikTvd": "100100225883694",
+    "oikName": "Ярославская область – Ярославский",
+    "district": {
+      "districtNumber": 194,
+      "oikTvd": "100100225883694"
+    }
   },
   {
     "uikNumber": 532,
     "uikTvd": "4764005203170",
     "tikTvd": "2762000926787",
-    "tikName": "Даниловская"
+    "tikName": "Даниловская",
+    "uikName": "УИК №532",
+    "regionCode": "76",
+    "regionTvd": "100100225883693",
+    "regionName": "Ярославская область",
+    "oikTvd": "100100225883694",
+    "oikName": "Ярославская область – Ярославский",
+    "district": {
+      "districtNumber": 194,
+      "oikTvd": "100100225883694"
+    }
   },
   {
     "uikNumber": 601,
     "uikTvd": "4764006195787",
     "tikTvd": "2762000926786",
-    "tikName": "Любимская"
+    "tikName": "Любимская",
+    "uikName": "УИК №601",
+    "regionCode": "76",
+    "regionTvd": "100100225883693",
+    "regionName": "Ярославская область",
+    "oikTvd": "100100225883694",
+    "oikName": "Ярославская область – Ярославский",
+    "district": {
+      "districtNumber": 194,
+      "oikTvd": "100100225883694"
+    }
   },
   {
     "uikNumber": 602,
     "uikTvd": "4764006195788",
     "tikTvd": "2762000926786",
-    "tikName": "Любимская"
+    "tikName": "Любимская",
+    "uikName": "УИК №602",
+    "regionCode": "76",
+    "regionTvd": "100100225883693",
+    "regionName": "Ярославская область",
+    "oikTvd": "100100225883694",
+    "oikName": "Ярославская область – Ярославский",
+    "district": {
+      "districtNumber": 194,
+      "oikTvd": "100100225883694"
+    }
   },
   {
     "uikNumber": 603,
     "uikTvd": "4764006195789",
     "tikTvd": "2762000926786",
-    "tikName": "Любимская"
+    "tikName": "Любимская",
+    "uikName": "УИК №603",
+    "regionCode": "76",
+    "regionTvd": "100100225883693",
+    "regionName": "Ярославская область",
+    "oikTvd": "100100225883694",
+    "oikName": "Ярославская область – Ярославский",
+    "district": {
+      "districtNumber": 194,
+      "oikTvd": "100100225883694"
+    }
   },
   {
     "uikNumber": 604,
     "uikTvd": "4764006195790",
     "tikTvd": "2762000926786",
-    "tikName": "Любимская"
+    "tikName": "Любимская",
+    "uikName": "УИК №604",
+    "regionCode": "76",
+    "regionTvd": "100100225883693",
+    "regionName": "Ярославская область",
+    "oikTvd": "100100225883694",
+    "oikName": "Ярославская область – Ярославский",
+    "district": {
+      "districtNumber": 194,
+      "oikTvd": "100100225883694"
+    }
   },
   {
     "uikNumber": 605,
     "uikTvd": "4764006195791",
     "tikTvd": "2762000926786",
-    "tikName": "Любимская"
+    "tikName": "Любимская",
+    "uikName": "УИК №605",
+    "regionCode": "76",
+    "regionTvd": "100100225883693",
+    "regionName": "Ярославская область",
+    "oikTvd": "100100225883694",
+    "oikName": "Ярославская область – Ярославский",
+    "district": {
+      "districtNumber": 194,
+      "oikTvd": "100100225883694"
+    }
   },
   {
     "uikNumber": 606,
     "uikTvd": "4764006195792",
     "tikTvd": "2762000926786",
-    "tikName": "Любимская"
+    "tikName": "Любимская",
+    "uikName": "УИК №606",
+    "regionCode": "76",
+    "regionTvd": "100100225883693",
+    "regionName": "Ярославская область",
+    "oikTvd": "100100225883694",
+    "oikName": "Ярославская область – Ярославский",
+    "district": {
+      "districtNumber": 194,
+      "oikTvd": "100100225883694"
+    }
   },
   {
     "uikNumber": 607,
     "uikTvd": "4764006195793",
     "tikTvd": "2762000926786",
-    "tikName": "Любимская"
+    "tikName": "Любимская",
+    "uikName": "УИК №607",
+    "regionCode": "76",
+    "regionTvd": "100100225883693",
+    "regionName": "Ярославская область",
+    "oikTvd": "100100225883694",
+    "oikName": "Ярославская область – Ярославский",
+    "district": {
+      "districtNumber": 194,
+      "oikTvd": "100100225883694"
+    }
   },
   {
     "uikNumber": 608,
     "uikTvd": "4764006195794",
     "tikTvd": "2762000926786",
-    "tikName": "Любимская"
+    "tikName": "Любимская",
+    "uikName": "УИК №608",
+    "regionCode": "76",
+    "regionTvd": "100100225883693",
+    "regionName": "Ярославская область",
+    "oikTvd": "100100225883694",
+    "oikName": "Ярославская область – Ярославский",
+    "district": {
+      "districtNumber": 194,
+      "oikTvd": "100100225883694"
+    }
   },
   {
     "uikNumber": 609,
     "uikTvd": "4764006195795",
     "tikTvd": "2762000926786",
-    "tikName": "Любимская"
+    "tikName": "Любимская",
+    "uikName": "УИК №609",
+    "regionCode": "76",
+    "regionTvd": "100100225883693",
+    "regionName": "Ярославская область",
+    "oikTvd": "100100225883694",
+    "oikName": "Ярославская область – Ярославский",
+    "district": {
+      "districtNumber": 194,
+      "oikTvd": "100100225883694"
+    }
   },
   {
     "uikNumber": 610,
     "uikTvd": "4764006195796",
     "tikTvd": "2762000926786",
-    "tikName": "Любимская"
+    "tikName": "Любимская",
+    "uikName": "УИК №610",
+    "regionCode": "76",
+    "regionTvd": "100100225883693",
+    "regionName": "Ярославская область",
+    "oikTvd": "100100225883694",
+    "oikName": "Ярославская область – Ярославский",
+    "district": {
+      "districtNumber": 194,
+      "oikTvd": "100100225883694"
+    }
   },
   {
     "uikNumber": 611,
     "uikTvd": "4764006195797",
     "tikTvd": "2762000926786",
-    "tikName": "Любимская"
+    "tikName": "Любимская",
+    "uikName": "УИК №611",
+    "regionCode": "76",
+    "regionTvd": "100100225883693",
+    "regionName": "Ярославская область",
+    "oikTvd": "100100225883694",
+    "oikName": "Ярославская область – Ярославский",
+    "district": {
+      "districtNumber": 194,
+      "oikTvd": "100100225883694"
+    }
   },
   {
     "uikNumber": 612,
     "uikTvd": "4764006195798",
     "tikTvd": "2762000926786",
-    "tikName": "Любимская"
+    "tikName": "Любимская",
+    "uikName": "УИК №612",
+    "regionCode": "76",
+    "regionTvd": "100100225883693",
+    "regionName": "Ярославская область",
+    "oikTvd": "100100225883694",
+    "oikName": "Ярославская область – Ярославский",
+    "district": {
+      "districtNumber": 194,
+      "oikTvd": "100100225883694"
+    }
   },
   {
     "uikNumber": 613,
     "uikTvd": "4764006195799",
     "tikTvd": "2762000926786",
-    "tikName": "Любимская"
+    "tikName": "Любимская",
+    "uikName": "УИК №613",
+    "regionCode": "76",
+    "regionTvd": "100100225883693",
+    "regionName": "Ярославская область",
+    "oikTvd": "100100225883694",
+    "oikName": "Ярославская область – Ярославский",
+    "district": {
+      "districtNumber": 194,
+      "oikTvd": "100100225883694"
+    }
   },
   {
     "uikNumber": 614,
     "uikTvd": "4764006195800",
     "tikTvd": "2762000926786",
-    "tikName": "Любимская"
+    "tikName": "Любимская",
+    "uikName": "УИК №614",
+    "regionCode": "76",
+    "regionTvd": "100100225883693",
+    "regionName": "Ярославская область",
+    "oikTvd": "100100225883694",
+    "oikName": "Ярославская область – Ярославский",
+    "district": {
+      "districtNumber": 194,
+      "oikTvd": "100100225883694"
+    }
   },
   {
     "uikNumber": 615,
     "uikTvd": "4764006195801",
     "tikTvd": "2762000926786",
-    "tikName": "Любимская"
+    "tikName": "Любимская",
+    "uikName": "УИК №615",
+    "regionCode": "76",
+    "regionTvd": "100100225883693",
+    "regionName": "Ярославская область",
+    "oikTvd": "100100225883694",
+    "oikName": "Ярославская область – Ярославский",
+    "district": {
+      "districtNumber": 194,
+      "oikTvd": "100100225883694"
+    }
   },
   {
     "uikNumber": 616,
     "uikTvd": "4764006195802",
     "tikTvd": "2762000926786",
-    "tikName": "Любимская"
+    "tikName": "Любимская",
+    "uikName": "УИК №616",
+    "regionCode": "76",
+    "regionTvd": "100100225883693",
+    "regionName": "Ярославская область",
+    "oikTvd": "100100225883694",
+    "oikName": "Ярославская область – Ярославский",
+    "district": {
+      "districtNumber": 194,
+      "oikTvd": "100100225883694"
+    }
   },
   {
     "uikNumber": 617,
     "uikTvd": "4764006195803",
     "tikTvd": "2762000926786",
-    "tikName": "Любимская"
+    "tikName": "Любимская",
+    "uikName": "УИК №617",
+    "regionCode": "76",
+    "regionTvd": "100100225883693",
+    "regionName": "Ярославская область",
+    "oikTvd": "100100225883694",
+    "oikName": "Ярославская область – Ярославский",
+    "district": {
+      "districtNumber": 194,
+      "oikTvd": "100100225883694"
+    }
   },
   {
     "uikNumber": 618,
     "uikTvd": "4764006195804",
     "tikTvd": "2762000926786",
-    "tikName": "Любимская"
+    "tikName": "Любимская",
+    "uikName": "УИК №618",
+    "regionCode": "76",
+    "regionTvd": "100100225883693",
+    "regionName": "Ярославская область",
+    "oikTvd": "100100225883694",
+    "oikName": "Ярославская область – Ярославский",
+    "district": {
+      "districtNumber": 194,
+      "oikTvd": "100100225883694"
+    }
   },
   {
     "uikNumber": 619,
     "uikTvd": "4764006195805",
     "tikTvd": "2762000926786",
-    "tikName": "Любимская"
+    "tikName": "Любимская",
+    "uikName": "УИК №619",
+    "regionCode": "76",
+    "regionTvd": "100100225883693",
+    "regionName": "Ярославская область",
+    "oikTvd": "100100225883694",
+    "oikName": "Ярославская область – Ярославский",
+    "district": {
+      "districtNumber": 194,
+      "oikTvd": "100100225883694"
+    }
   },
   {
     "uikNumber": 620,
     "uikTvd": "4764006195806",
     "tikTvd": "2762000926786",
-    "tikName": "Любимская"
+    "tikName": "Любимская",
+    "uikName": "УИК №620",
+    "regionCode": "76",
+    "regionTvd": "100100225883693",
+    "regionName": "Ярославская область",
+    "oikTvd": "100100225883694",
+    "oikName": "Ярославская область – Ярославский",
+    "district": {
+      "districtNumber": 194,
+      "oikTvd": "100100225883694"
+    }
   },
   {
     "uikNumber": 621,
     "uikTvd": "4764006195807",
     "tikTvd": "2762000926786",
-    "tikName": "Любимская"
+    "tikName": "Любимская",
+    "uikName": "УИК №621",
+    "regionCode": "76",
+    "regionTvd": "100100225883693",
+    "regionName": "Ярославская область",
+    "oikTvd": "100100225883694",
+    "oikName": "Ярославская область – Ярославский",
+    "district": {
+      "districtNumber": 194,
+      "oikTvd": "100100225883694"
+    }
   },
   {
     "uikNumber": 701,
     "uikTvd": "4764007172873",
     "tikTvd": "2762000926799",
-    "tikName": "Мышкинская"
+    "tikName": "Мышкинская",
+    "uikName": "УИК №701",
+    "regionCode": "76",
+    "regionTvd": "100100225883693",
+    "regionName": "Ярославская область",
+    "oikTvd": "100100225883695",
+    "oikName": "Ярославская область – Ростовский",
+    "district": {
+      "districtNumber": 195,
+      "oikTvd": "100100225883695"
+    }
   },
   {
     "uikNumber": 702,
     "uikTvd": "4764007172874",
     "tikTvd": "2762000926799",
-    "tikName": "Мышкинская"
+    "tikName": "Мышкинская",
+    "uikName": "УИК №702",
+    "regionCode": "76",
+    "regionTvd": "100100225883693",
+    "regionName": "Ярославская область",
+    "oikTvd": "100100225883695",
+    "oikName": "Ярославская область – Ростовский",
+    "district": {
+      "districtNumber": 195,
+      "oikTvd": "100100225883695"
+    }
   },
   {
     "uikNumber": 703,
     "uikTvd": "4764007172875",
     "tikTvd": "2762000926799",
-    "tikName": "Мышкинская"
+    "tikName": "Мышкинская",
+    "uikName": "УИК №703",
+    "regionCode": "76",
+    "regionTvd": "100100225883693",
+    "regionName": "Ярославская область",
+    "oikTvd": "100100225883695",
+    "oikName": "Ярославская область – Ростовский",
+    "district": {
+      "districtNumber": 195,
+      "oikTvd": "100100225883695"
+    }
   },
   {
     "uikNumber": 704,
     "uikTvd": "4764007172876",
     "tikTvd": "2762000926799",
-    "tikName": "Мышкинская"
+    "tikName": "Мышкинская",
+    "uikName": "УИК №704",
+    "regionCode": "76",
+    "regionTvd": "100100225883693",
+    "regionName": "Ярославская область",
+    "oikTvd": "100100225883695",
+    "oikName": "Ярославская область – Ростовский",
+    "district": {
+      "districtNumber": 195,
+      "oikTvd": "100100225883695"
+    }
   },
   {
     "uikNumber": 705,
     "uikTvd": "4764007172877",
     "tikTvd": "2762000926799",
-    "tikName": "Мышкинская"
+    "tikName": "Мышкинская",
+    "uikName": "УИК №705",
+    "regionCode": "76",
+    "regionTvd": "100100225883693",
+    "regionName": "Ярославская область",
+    "oikTvd": "100100225883695",
+    "oikName": "Ярославская область – Ростовский",
+    "district": {
+      "districtNumber": 195,
+      "oikTvd": "100100225883695"
+    }
   },
   {
     "uikNumber": 706,
     "uikTvd": "4764007172878",
     "tikTvd": "2762000926799",
-    "tikName": "Мышкинская"
+    "tikName": "Мышкинская",
+    "uikName": "УИК №706",
+    "regionCode": "76",
+    "regionTvd": "100100225883693",
+    "regionName": "Ярославская область",
+    "oikTvd": "100100225883695",
+    "oikName": "Ярославская область – Ростовский",
+    "district": {
+      "districtNumber": 195,
+      "oikTvd": "100100225883695"
+    }
   },
   {
     "uikNumber": 707,
     "uikTvd": "4764007172879",
     "tikTvd": "2762000926799",
-    "tikName": "Мышкинская"
+    "tikName": "Мышкинская",
+    "uikName": "УИК №707",
+    "regionCode": "76",
+    "regionTvd": "100100225883693",
+    "regionName": "Ярославская область",
+    "oikTvd": "100100225883695",
+    "oikName": "Ярославская область – Ростовский",
+    "district": {
+      "districtNumber": 195,
+      "oikTvd": "100100225883695"
+    }
   },
   {
     "uikNumber": 708,
     "uikTvd": "4764007172880",
     "tikTvd": "2762000926799",
-    "tikName": "Мышкинская"
+    "tikName": "Мышкинская",
+    "uikName": "УИК №708",
+    "regionCode": "76",
+    "regionTvd": "100100225883693",
+    "regionName": "Ярославская область",
+    "oikTvd": "100100225883695",
+    "oikName": "Ярославская область – Ростовский",
+    "district": {
+      "districtNumber": 195,
+      "oikTvd": "100100225883695"
+    }
   },
   {
     "uikNumber": 709,
     "uikTvd": "4764007172881",
     "tikTvd": "2762000926799",
-    "tikName": "Мышкинская"
+    "tikName": "Мышкинская",
+    "uikName": "УИК №709",
+    "regionCode": "76",
+    "regionTvd": "100100225883693",
+    "regionName": "Ярославская область",
+    "oikTvd": "100100225883695",
+    "oikName": "Ярославская область – Ростовский",
+    "district": {
+      "districtNumber": 195,
+      "oikTvd": "100100225883695"
+    }
   },
   {
     "uikNumber": 710,
     "uikTvd": "4764007172882",
     "tikTvd": "2762000926799",
-    "tikName": "Мышкинская"
+    "tikName": "Мышкинская",
+    "uikName": "УИК №710",
+    "regionCode": "76",
+    "regionTvd": "100100225883693",
+    "regionName": "Ярославская область",
+    "oikTvd": "100100225883695",
+    "oikName": "Ярославская область – Ростовский",
+    "district": {
+      "districtNumber": 195,
+      "oikTvd": "100100225883695"
+    }
   },
   {
     "uikNumber": 711,
     "uikTvd": "4764007172883",
     "tikTvd": "2762000926799",
-    "tikName": "Мышкинская"
+    "tikName": "Мышкинская",
+    "uikName": "УИК №711",
+    "regionCode": "76",
+    "regionTvd": "100100225883693",
+    "regionName": "Ярославская область",
+    "oikTvd": "100100225883695",
+    "oikName": "Ярославская область – Ростовский",
+    "district": {
+      "districtNumber": 195,
+      "oikTvd": "100100225883695"
+    }
   },
   {
     "uikNumber": 712,
     "uikTvd": "4764007172884",
     "tikTvd": "2762000926799",
-    "tikName": "Мышкинская"
+    "tikName": "Мышкинская",
+    "uikName": "УИК №712",
+    "regionCode": "76",
+    "regionTvd": "100100225883693",
+    "regionName": "Ярославская область",
+    "oikTvd": "100100225883695",
+    "oikName": "Ярославская область – Ростовский",
+    "district": {
+      "districtNumber": 195,
+      "oikTvd": "100100225883695"
+    }
   },
   {
     "uikNumber": 713,
     "uikTvd": "4764007172885",
     "tikTvd": "2762000926799",
-    "tikName": "Мышкинская"
+    "tikName": "Мышкинская",
+    "uikName": "УИК №713",
+    "regionCode": "76",
+    "regionTvd": "100100225883693",
+    "regionName": "Ярославская область",
+    "oikTvd": "100100225883695",
+    "oikName": "Ярославская область – Ростовский",
+    "district": {
+      "districtNumber": 195,
+      "oikTvd": "100100225883695"
+    }
   },
   {
     "uikNumber": 714,
     "uikTvd": "4764007172886",
     "tikTvd": "2762000926799",
-    "tikName": "Мышкинская"
+    "tikName": "Мышкинская",
+    "uikName": "УИК №714",
+    "regionCode": "76",
+    "regionTvd": "100100225883693",
+    "regionName": "Ярославская область",
+    "oikTvd": "100100225883695",
+    "oikName": "Ярославская область – Ростовский",
+    "district": {
+      "districtNumber": 195,
+      "oikTvd": "100100225883695"
+    }
   },
   {
     "uikNumber": 715,
     "uikTvd": "4764007172887",
     "tikTvd": "2762000926799",
-    "tikName": "Мышкинская"
+    "tikName": "Мышкинская",
+    "uikName": "УИК №715",
+    "regionCode": "76",
+    "regionTvd": "100100225883693",
+    "regionName": "Ярославская область",
+    "oikTvd": "100100225883695",
+    "oikName": "Ярославская область – Ростовский",
+    "district": {
+      "districtNumber": 195,
+      "oikTvd": "100100225883695"
+    }
   },
   {
     "uikNumber": 716,
     "uikTvd": "4764007172888",
     "tikTvd": "2762000926799",
-    "tikName": "Мышкинская"
+    "tikName": "Мышкинская",
+    "uikName": "УИК №716",
+    "regionCode": "76",
+    "regionTvd": "100100225883693",
+    "regionName": "Ярославская область",
+    "oikTvd": "100100225883695",
+    "oikName": "Ярославская область – Ростовский",
+    "district": {
+      "districtNumber": 195,
+      "oikTvd": "100100225883695"
+    }
   },
   {
     "uikNumber": 717,
     "uikTvd": "4764007172889",
     "tikTvd": "2762000926799",
-    "tikName": "Мышкинская"
+    "tikName": "Мышкинская",
+    "uikName": "УИК №717",
+    "regionCode": "76",
+    "regionTvd": "100100225883693",
+    "regionName": "Ярославская область",
+    "oikTvd": "100100225883695",
+    "oikName": "Ярославская область – Ростовский",
+    "district": {
+      "districtNumber": 195,
+      "oikTvd": "100100225883695"
+    }
   },
   {
     "uikNumber": 801,
     "uikTvd": "4764008202817",
     "tikTvd": "2762000926798",
-    "tikName": "Некоузская"
+    "tikName": "Некоузская",
+    "uikName": "УИК №801",
+    "regionCode": "76",
+    "regionTvd": "100100225883693",
+    "regionName": "Ярославская область",
+    "oikTvd": "100100225883695",
+    "oikName": "Ярославская область – Ростовский",
+    "district": {
+      "districtNumber": 195,
+      "oikTvd": "100100225883695"
+    }
   },
   {
     "uikNumber": 802,
     "uikTvd": "4764008202818",
     "tikTvd": "2762000926798",
-    "tikName": "Некоузская"
+    "tikName": "Некоузская",
+    "uikName": "УИК №802",
+    "regionCode": "76",
+    "regionTvd": "100100225883693",
+    "regionName": "Ярославская область",
+    "oikTvd": "100100225883695",
+    "oikName": "Ярославская область – Ростовский",
+    "district": {
+      "districtNumber": 195,
+      "oikTvd": "100100225883695"
+    }
   },
   {
     "uikNumber": 803,
     "uikTvd": "4764008202819",
     "tikTvd": "2762000926798",
-    "tikName": "Некоузская"
+    "tikName": "Некоузская",
+    "uikName": "УИК №803",
+    "regionCode": "76",
+    "regionTvd": "100100225883693",
+    "regionName": "Ярославская область",
+    "oikTvd": "100100225883695",
+    "oikName": "Ярославская область – Ростовский",
+    "district": {
+      "districtNumber": 195,
+      "oikTvd": "100100225883695"
+    }
   },
   {
     "uikNumber": 804,
     "uikTvd": "4764008202820",
     "tikTvd": "2762000926798",
-    "tikName": "Некоузская"
+    "tikName": "Некоузская",
+    "uikName": "УИК №804",
+    "regionCode": "76",
+    "regionTvd": "100100225883693",
+    "regionName": "Ярославская область",
+    "oikTvd": "100100225883695",
+    "oikName": "Ярославская область – Ростовский",
+    "district": {
+      "districtNumber": 195,
+      "oikTvd": "100100225883695"
+    }
   },
   {
     "uikNumber": 805,
     "uikTvd": "4764008202821",
     "tikTvd": "2762000926798",
-    "tikName": "Некоузская"
+    "tikName": "Некоузская",
+    "uikName": "УИК №805",
+    "regionCode": "76",
+    "regionTvd": "100100225883693",
+    "regionName": "Ярославская область",
+    "oikTvd": "100100225883695",
+    "oikName": "Ярославская область – Ростовский",
+    "district": {
+      "districtNumber": 195,
+      "oikTvd": "100100225883695"
+    }
   },
   {
     "uikNumber": 806,
     "uikTvd": "4764008202822",
     "tikTvd": "2762000926798",
-    "tikName": "Некоузская"
+    "tikName": "Некоузская",
+    "uikName": "УИК №806",
+    "regionCode": "76",
+    "regionTvd": "100100225883693",
+    "regionName": "Ярославская область",
+    "oikTvd": "100100225883695",
+    "oikName": "Ярославская область – Ростовский",
+    "district": {
+      "districtNumber": 195,
+      "oikTvd": "100100225883695"
+    }
   },
   {
     "uikNumber": 807,
     "uikTvd": "4764008202823",
     "tikTvd": "2762000926798",
-    "tikName": "Некоузская"
+    "tikName": "Некоузская",
+    "uikName": "УИК №807",
+    "regionCode": "76",
+    "regionTvd": "100100225883693",
+    "regionName": "Ярославская область",
+    "oikTvd": "100100225883695",
+    "oikName": "Ярославская область – Ростовский",
+    "district": {
+      "districtNumber": 195,
+      "oikTvd": "100100225883695"
+    }
   },
   {
     "uikNumber": 808,
     "uikTvd": "4764008202824",
     "tikTvd": "2762000926798",
-    "tikName": "Некоузская"
+    "tikName": "Некоузская",
+    "uikName": "УИК №808",
+    "regionCode": "76",
+    "regionTvd": "100100225883693",
+    "regionName": "Ярославская область",
+    "oikTvd": "100100225883695",
+    "oikName": "Ярославская область – Ростовский",
+    "district": {
+      "districtNumber": 195,
+      "oikTvd": "100100225883695"
+    }
   },
   {
     "uikNumber": 809,
     "uikTvd": "4764008202825",
     "tikTvd": "2762000926798",
-    "tikName": "Некоузская"
+    "tikName": "Некоузская",
+    "uikName": "УИК №809",
+    "regionCode": "76",
+    "regionTvd": "100100225883693",
+    "regionName": "Ярославская область",
+    "oikTvd": "100100225883695",
+    "oikName": "Ярославская область – Ростовский",
+    "district": {
+      "districtNumber": 195,
+      "oikTvd": "100100225883695"
+    }
   },
   {
     "uikNumber": 810,
     "uikTvd": "4764008202826",
     "tikTvd": "2762000926798",
-    "tikName": "Некоузская"
+    "tikName": "Некоузская",
+    "uikName": "УИК №810",
+    "regionCode": "76",
+    "regionTvd": "100100225883693",
+    "regionName": "Ярославская область",
+    "oikTvd": "100100225883695",
+    "oikName": "Ярославская область – Ростовский",
+    "district": {
+      "districtNumber": 195,
+      "oikTvd": "100100225883695"
+    }
   },
   {
     "uikNumber": 811,
     "uikTvd": "4764008202827",
     "tikTvd": "2762000926798",
-    "tikName": "Некоузская"
+    "tikName": "Некоузская",
+    "uikName": "УИК №811",
+    "regionCode": "76",
+    "regionTvd": "100100225883693",
+    "regionName": "Ярославская область",
+    "oikTvd": "100100225883695",
+    "oikName": "Ярославская область – Ростовский",
+    "district": {
+      "districtNumber": 195,
+      "oikTvd": "100100225883695"
+    }
   },
   {
     "uikNumber": 812,
     "uikTvd": "4764008202828",
     "tikTvd": "2762000926798",
-    "tikName": "Некоузская"
+    "tikName": "Некоузская",
+    "uikName": "УИК №812",
+    "regionCode": "76",
+    "regionTvd": "100100225883693",
+    "regionName": "Ярославская область",
+    "oikTvd": "100100225883695",
+    "oikName": "Ярославская область – Ростовский",
+    "district": {
+      "districtNumber": 195,
+      "oikTvd": "100100225883695"
+    }
   },
   {
     "uikNumber": 813,
     "uikTvd": "4764008202829",
     "tikTvd": "2762000926798",
-    "tikName": "Некоузская"
+    "tikName": "Некоузская",
+    "uikName": "УИК №813",
+    "regionCode": "76",
+    "regionTvd": "100100225883693",
+    "regionName": "Ярославская область",
+    "oikTvd": "100100225883695",
+    "oikName": "Ярославская область – Ростовский",
+    "district": {
+      "districtNumber": 195,
+      "oikTvd": "100100225883695"
+    }
   },
   {
     "uikNumber": 814,
     "uikTvd": "4764008202830",
     "tikTvd": "2762000926798",
-    "tikName": "Некоузская"
+    "tikName": "Некоузская",
+    "uikName": "УИК №814",
+    "regionCode": "76",
+    "regionTvd": "100100225883693",
+    "regionName": "Ярославская область",
+    "oikTvd": "100100225883695",
+    "oikName": "Ярославская область – Ростовский",
+    "district": {
+      "districtNumber": 195,
+      "oikTvd": "100100225883695"
+    }
   },
   {
     "uikNumber": 815,
     "uikTvd": "4764008202831",
     "tikTvd": "2762000926798",
-    "tikName": "Некоузская"
+    "tikName": "Некоузская",
+    "uikName": "УИК №815",
+    "regionCode": "76",
+    "regionTvd": "100100225883693",
+    "regionName": "Ярославская область",
+    "oikTvd": "100100225883695",
+    "oikName": "Ярославская область – Ростовский",
+    "district": {
+      "districtNumber": 195,
+      "oikTvd": "100100225883695"
+    }
   },
   {
     "uikNumber": 816,
     "uikTvd": "4764008202832",
     "tikTvd": "2762000926798",
-    "tikName": "Некоузская"
+    "tikName": "Некоузская",
+    "uikName": "УИК №816",
+    "regionCode": "76",
+    "regionTvd": "100100225883693",
+    "regionName": "Ярославская область",
+    "oikTvd": "100100225883695",
+    "oikName": "Ярославская область – Ростовский",
+    "district": {
+      "districtNumber": 195,
+      "oikTvd": "100100225883695"
+    }
   },
   {
     "uikNumber": 817,
     "uikTvd": "4764008202833",
     "tikTvd": "2762000926798",
-    "tikName": "Некоузская"
+    "tikName": "Некоузская",
+    "uikName": "УИК №817",
+    "regionCode": "76",
+    "regionTvd": "100100225883693",
+    "regionName": "Ярославская область",
+    "oikTvd": "100100225883695",
+    "oikName": "Ярославская область – Ростовский",
+    "district": {
+      "districtNumber": 195,
+      "oikTvd": "100100225883695"
+    }
   },
   {
     "uikNumber": 818,
     "uikTvd": "4764008202834",
     "tikTvd": "2762000926798",
-    "tikName": "Некоузская"
+    "tikName": "Некоузская",
+    "uikName": "УИК №818",
+    "regionCode": "76",
+    "regionTvd": "100100225883693",
+    "regionName": "Ярославская область",
+    "oikTvd": "100100225883695",
+    "oikName": "Ярославская область – Ростовский",
+    "district": {
+      "districtNumber": 195,
+      "oikTvd": "100100225883695"
+    }
   },
   {
     "uikNumber": 819,
     "uikTvd": "4764008202835",
     "tikTvd": "2762000926798",
-    "tikName": "Некоузская"
+    "tikName": "Некоузская",
+    "uikName": "УИК №819",
+    "regionCode": "76",
+    "regionTvd": "100100225883693",
+    "regionName": "Ярославская область",
+    "oikTvd": "100100225883695",
+    "oikName": "Ярославская область – Ростовский",
+    "district": {
+      "districtNumber": 195,
+      "oikTvd": "100100225883695"
+    }
   },
   {
     "uikNumber": 820,
     "uikTvd": "4764008202836",
     "tikTvd": "2762000926798",
-    "tikName": "Некоузская"
+    "tikName": "Некоузская",
+    "uikName": "УИК №820",
+    "regionCode": "76",
+    "regionTvd": "100100225883693",
+    "regionName": "Ярославская область",
+    "oikTvd": "100100225883695",
+    "oikName": "Ярославская область – Ростовский",
+    "district": {
+      "districtNumber": 195,
+      "oikTvd": "100100225883695"
+    }
   },
   {
     "uikNumber": 821,
     "uikTvd": "4764008202837",
     "tikTvd": "2762000926798",
-    "tikName": "Некоузская"
+    "tikName": "Некоузская",
+    "uikName": "УИК №821",
+    "regionCode": "76",
+    "regionTvd": "100100225883693",
+    "regionName": "Ярославская область",
+    "oikTvd": "100100225883695",
+    "oikName": "Ярославская область – Ростовский",
+    "district": {
+      "districtNumber": 195,
+      "oikTvd": "100100225883695"
+    }
   },
   {
     "uikNumber": 822,
     "uikTvd": "4764008202838",
     "tikTvd": "2762000926798",
-    "tikName": "Некоузская"
+    "tikName": "Некоузская",
+    "uikName": "УИК №822",
+    "regionCode": "76",
+    "regionTvd": "100100225883693",
+    "regionName": "Ярославская область",
+    "oikTvd": "100100225883695",
+    "oikName": "Ярославская область – Ростовский",
+    "district": {
+      "districtNumber": 195,
+      "oikTvd": "100100225883695"
+    }
   },
   {
     "uikNumber": 901,
     "uikTvd": "4764009202358",
     "tikTvd": "2762000926785",
-    "tikName": "Некрасовская"
+    "tikName": "Некрасовская",
+    "uikName": "УИК №901",
+    "regionCode": "76",
+    "regionTvd": "100100225883693",
+    "regionName": "Ярославская область",
+    "oikTvd": "100100225883694",
+    "oikName": "Ярославская область – Ярославский",
+    "district": {
+      "districtNumber": 194,
+      "oikTvd": "100100225883694"
+    }
   },
   {
     "uikNumber": 902,
     "uikTvd": "4764009202360",
     "tikTvd": "2762000926785",
-    "tikName": "Некрасовская"
+    "tikName": "Некрасовская",
+    "uikName": "УИК №902",
+    "regionCode": "76",
+    "regionTvd": "100100225883693",
+    "regionName": "Ярославская область",
+    "oikTvd": "100100225883694",
+    "oikName": "Ярославская область – Ярославский",
+    "district": {
+      "districtNumber": 194,
+      "oikTvd": "100100225883694"
+    }
   },
   {
     "uikNumber": 903,
     "uikTvd": "4764009202361",
     "tikTvd": "2762000926785",
-    "tikName": "Некрасовская"
+    "tikName": "Некрасовская",
+    "uikName": "УИК №903",
+    "regionCode": "76",
+    "regionTvd": "100100225883693",
+    "regionName": "Ярославская область",
+    "oikTvd": "100100225883694",
+    "oikName": "Ярославская область – Ярославский",
+    "district": {
+      "districtNumber": 194,
+      "oikTvd": "100100225883694"
+    }
   },
   {
     "uikNumber": 904,
     "uikTvd": "4764009202362",
     "tikTvd": "2762000926785",
-    "tikName": "Некрасовская"
+    "tikName": "Некрасовская",
+    "uikName": "УИК №904",
+    "regionCode": "76",
+    "regionTvd": "100100225883693",
+    "regionName": "Ярославская область",
+    "oikTvd": "100100225883694",
+    "oikName": "Ярославская область – Ярославский",
+    "district": {
+      "districtNumber": 194,
+      "oikTvd": "100100225883694"
+    }
   },
   {
     "uikNumber": 905,
     "uikTvd": "4764009202363",
     "tikTvd": "2762000926785",
-    "tikName": "Некрасовская"
+    "tikName": "Некрасовская",
+    "uikName": "УИК №905",
+    "regionCode": "76",
+    "regionTvd": "100100225883693",
+    "regionName": "Ярославская область",
+    "oikTvd": "100100225883694",
+    "oikName": "Ярославская область – Ярославский",
+    "district": {
+      "districtNumber": 194,
+      "oikTvd": "100100225883694"
+    }
   },
   {
     "uikNumber": 906,
     "uikTvd": "4764009202364",
     "tikTvd": "2762000926785",
-    "tikName": "Некрасовская"
+    "tikName": "Некрасовская",
+    "uikName": "УИК №906",
+    "regionCode": "76",
+    "regionTvd": "100100225883693",
+    "regionName": "Ярославская область",
+    "oikTvd": "100100225883694",
+    "oikName": "Ярославская область – Ярославский",
+    "district": {
+      "districtNumber": 194,
+      "oikTvd": "100100225883694"
+    }
   },
   {
     "uikNumber": 907,
     "uikTvd": "4764009202365",
     "tikTvd": "2762000926785",
-    "tikName": "Некрасовская"
+    "tikName": "Некрасовская",
+    "uikName": "УИК №907",
+    "regionCode": "76",
+    "regionTvd": "100100225883693",
+    "regionName": "Ярославская область",
+    "oikTvd": "100100225883694",
+    "oikName": "Ярославская область – Ярославский",
+    "district": {
+      "districtNumber": 194,
+      "oikTvd": "100100225883694"
+    }
   },
   {
     "uikNumber": 908,
     "uikTvd": "4764009202366",
     "tikTvd": "2762000926785",
-    "tikName": "Некрасовская"
+    "tikName": "Некрасовская",
+    "uikName": "УИК №908",
+    "regionCode": "76",
+    "regionTvd": "100100225883693",
+    "regionName": "Ярославская область",
+    "oikTvd": "100100225883694",
+    "oikName": "Ярославская область – Ярославский",
+    "district": {
+      "districtNumber": 194,
+      "oikTvd": "100100225883694"
+    }
   },
   {
     "uikNumber": 909,
     "uikTvd": "4764009202367",
     "tikTvd": "2762000926785",
-    "tikName": "Некрасовская"
+    "tikName": "Некрасовская",
+    "uikName": "УИК №909",
+    "regionCode": "76",
+    "regionTvd": "100100225883693",
+    "regionName": "Ярославская область",
+    "oikTvd": "100100225883694",
+    "oikName": "Ярославская область – Ярославский",
+    "district": {
+      "districtNumber": 194,
+      "oikTvd": "100100225883694"
+    }
   },
   {
     "uikNumber": 910,
     "uikTvd": "4764009202368",
     "tikTvd": "2762000926785",
-    "tikName": "Некрасовская"
+    "tikName": "Некрасовская",
+    "uikName": "УИК №910",
+    "regionCode": "76",
+    "regionTvd": "100100225883693",
+    "regionName": "Ярославская область",
+    "oikTvd": "100100225883694",
+    "oikName": "Ярославская область – Ярославский",
+    "district": {
+      "districtNumber": 194,
+      "oikTvd": "100100225883694"
+    }
   },
   {
     "uikNumber": 911,
     "uikTvd": "4764009202369",
     "tikTvd": "2762000926785",
-    "tikName": "Некрасовская"
+    "tikName": "Некрасовская",
+    "uikName": "УИК №911",
+    "regionCode": "76",
+    "regionTvd": "100100225883693",
+    "regionName": "Ярославская область",
+    "oikTvd": "100100225883694",
+    "oikName": "Ярославская область – Ярославский",
+    "district": {
+      "districtNumber": 194,
+      "oikTvd": "100100225883694"
+    }
   },
   {
     "uikNumber": 912,
     "uikTvd": "4764009202370",
     "tikTvd": "2762000926785",
-    "tikName": "Некрасовская"
+    "tikName": "Некрасовская",
+    "uikName": "УИК №912",
+    "regionCode": "76",
+    "regionTvd": "100100225883693",
+    "regionName": "Ярославская область",
+    "oikTvd": "100100225883694",
+    "oikName": "Ярославская область – Ярославский",
+    "district": {
+      "districtNumber": 194,
+      "oikTvd": "100100225883694"
+    }
   },
   {
     "uikNumber": 913,
     "uikTvd": "4764009202371",
     "tikTvd": "2762000926785",
-    "tikName": "Некрасовская"
+    "tikName": "Некрасовская",
+    "uikName": "УИК №913",
+    "regionCode": "76",
+    "regionTvd": "100100225883693",
+    "regionName": "Ярославская область",
+    "oikTvd": "100100225883694",
+    "oikName": "Ярославская область – Ярославский",
+    "district": {
+      "districtNumber": 194,
+      "oikTvd": "100100225883694"
+    }
   },
   {
     "uikNumber": 914,
     "uikTvd": "4764009202372",
     "tikTvd": "2762000926785",
-    "tikName": "Некрасовская"
+    "tikName": "Некрасовская",
+    "uikName": "УИК №914",
+    "regionCode": "76",
+    "regionTvd": "100100225883693",
+    "regionName": "Ярославская область",
+    "oikTvd": "100100225883694",
+    "oikName": "Ярославская область – Ярославский",
+    "district": {
+      "districtNumber": 194,
+      "oikTvd": "100100225883694"
+    }
   },
   {
     "uikNumber": 915,
     "uikTvd": "4764009202373",
     "tikTvd": "2762000926785",
-    "tikName": "Некрасовская"
+    "tikName": "Некрасовская",
+    "uikName": "УИК №915",
+    "regionCode": "76",
+    "regionTvd": "100100225883693",
+    "regionName": "Ярославская область",
+    "oikTvd": "100100225883694",
+    "oikName": "Ярославская область – Ярославский",
+    "district": {
+      "districtNumber": 194,
+      "oikTvd": "100100225883694"
+    }
   },
   {
     "uikNumber": 916,
     "uikTvd": "4764009202374",
     "tikTvd": "2762000926785",
-    "tikName": "Некрасовская"
+    "tikName": "Некрасовская",
+    "uikName": "УИК №916",
+    "regionCode": "76",
+    "regionTvd": "100100225883693",
+    "regionName": "Ярославская область",
+    "oikTvd": "100100225883694",
+    "oikName": "Ярославская область – Ярославский",
+    "district": {
+      "districtNumber": 194,
+      "oikTvd": "100100225883694"
+    }
   },
   {
     "uikNumber": 917,
     "uikTvd": "4764009202375",
     "tikTvd": "2762000926785",
-    "tikName": "Некрасовская"
+    "tikName": "Некрасовская",
+    "uikName": "УИК №917",
+    "regionCode": "76",
+    "regionTvd": "100100225883693",
+    "regionName": "Ярославская область",
+    "oikTvd": "100100225883694",
+    "oikName": "Ярославская область – Ярославский",
+    "district": {
+      "districtNumber": 194,
+      "oikTvd": "100100225883694"
+    }
   },
   {
     "uikNumber": 918,
     "uikTvd": "4764009202376",
     "tikTvd": "2762000926785",
-    "tikName": "Некрасовская"
+    "tikName": "Некрасовская",
+    "uikName": "УИК №918",
+    "regionCode": "76",
+    "regionTvd": "100100225883693",
+    "regionName": "Ярославская область",
+    "oikTvd": "100100225883694",
+    "oikName": "Ярославская область – Ярославский",
+    "district": {
+      "districtNumber": 194,
+      "oikTvd": "100100225883694"
+    }
   },
   {
     "uikNumber": 919,
     "uikTvd": "4764009202377",
     "tikTvd": "2762000926785",
-    "tikName": "Некрасовская"
+    "tikName": "Некрасовская",
+    "uikName": "УИК №919",
+    "regionCode": "76",
+    "regionTvd": "100100225883693",
+    "regionName": "Ярославская область",
+    "oikTvd": "100100225883694",
+    "oikName": "Ярославская область – Ярославский",
+    "district": {
+      "districtNumber": 194,
+      "oikTvd": "100100225883694"
+    }
   },
   {
     "uikNumber": 920,
     "uikTvd": "4764009202378",
     "tikTvd": "2762000926785",
-    "tikName": "Некрасовская"
+    "tikName": "Некрасовская",
+    "uikName": "УИК №920",
+    "regionCode": "76",
+    "regionTvd": "100100225883693",
+    "regionName": "Ярославская область",
+    "oikTvd": "100100225883694",
+    "oikName": "Ярославская область – Ярославский",
+    "district": {
+      "districtNumber": 194,
+      "oikTvd": "100100225883694"
+    }
   },
   {
     "uikNumber": 921,
     "uikTvd": "4764009202379",
     "tikTvd": "2762000926785",
-    "tikName": "Некрасовская"
+    "tikName": "Некрасовская",
+    "uikName": "УИК №921",
+    "regionCode": "76",
+    "regionTvd": "100100225883693",
+    "regionName": "Ярославская область",
+    "oikTvd": "100100225883694",
+    "oikName": "Ярославская область – Ярославский",
+    "district": {
+      "districtNumber": 194,
+      "oikTvd": "100100225883694"
+    }
   },
   {
     "uikNumber": 922,
     "uikTvd": "4764009202380",
     "tikTvd": "2762000926785",
-    "tikName": "Некрасовская"
+    "tikName": "Некрасовская",
+    "uikName": "УИК №922",
+    "regionCode": "76",
+    "regionTvd": "100100225883693",
+    "regionName": "Ярославская область",
+    "oikTvd": "100100225883694",
+    "oikName": "Ярославская область – Ярославский",
+    "district": {
+      "districtNumber": 194,
+      "oikTvd": "100100225883694"
+    }
   },
   {
     "uikNumber": 923,
     "uikTvd": "4764009202381",
     "tikTvd": "2762000926785",
-    "tikName": "Некрасовская"
+    "tikName": "Некрасовская",
+    "uikName": "УИК №923",
+    "regionCode": "76",
+    "regionTvd": "100100225883693",
+    "regionName": "Ярославская область",
+    "oikTvd": "100100225883694",
+    "oikName": "Ярославская область – Ярославский",
+    "district": {
+      "districtNumber": 194,
+      "oikTvd": "100100225883694"
+    }
   },
   {
     "uikNumber": 924,
     "uikTvd": "4764009202382",
     "tikTvd": "2762000926785",
-    "tikName": "Некрасовская"
+    "tikName": "Некрасовская",
+    "uikName": "УИК №924",
+    "regionCode": "76",
+    "regionTvd": "100100225883693",
+    "regionName": "Ярославская область",
+    "oikTvd": "100100225883694",
+    "oikName": "Ярославская область – Ярославский",
+    "district": {
+      "districtNumber": 194,
+      "oikTvd": "100100225883694"
+    }
   },
   {
     "uikNumber": 925,
     "uikTvd": "4764009202383",
     "tikTvd": "2762000926785",
-    "tikName": "Некрасовская"
+    "tikName": "Некрасовская",
+    "uikName": "УИК №925",
+    "regionCode": "76",
+    "regionTvd": "100100225883693",
+    "regionName": "Ярославская область",
+    "oikTvd": "100100225883694",
+    "oikName": "Ярославская область – Ярославский",
+    "district": {
+      "districtNumber": 194,
+      "oikTvd": "100100225883694"
+    }
   },
   {
     "uikNumber": 926,
     "uikTvd": "4764009202384",
     "tikTvd": "2762000926785",
-    "tikName": "Некрасовская"
+    "tikName": "Некрасовская",
+    "uikName": "УИК №926",
+    "regionCode": "76",
+    "regionTvd": "100100225883693",
+    "regionName": "Ярославская область",
+    "oikTvd": "100100225883694",
+    "oikName": "Ярославская область – Ярославский",
+    "district": {
+      "districtNumber": 194,
+      "oikTvd": "100100225883694"
+    }
   },
   {
     "uikNumber": 927,
     "uikTvd": "4764009202385",
     "tikTvd": "2762000926785",
-    "tikName": "Некрасовская"
+    "tikName": "Некрасовская",
+    "uikName": "УИК №927",
+    "regionCode": "76",
+    "regionTvd": "100100225883693",
+    "regionName": "Ярославская область",
+    "oikTvd": "100100225883694",
+    "oikName": "Ярославская область – Ярославский",
+    "district": {
+      "districtNumber": 194,
+      "oikTvd": "100100225883694"
+    }
   },
   {
     "uikNumber": 1001,
     "uikTvd": "4764010173113",
     "tikTvd": "2762000926784",
-    "tikName": "Первомайская"
+    "tikName": "Первомайская",
+    "uikName": "УИК №1001",
+    "regionCode": "76",
+    "regionTvd": "100100225883693",
+    "regionName": "Ярославская область",
+    "oikTvd": "100100225883694",
+    "oikName": "Ярославская область – Ярославский",
+    "district": {
+      "districtNumber": 194,
+      "oikTvd": "100100225883694"
+    }
   },
   {
     "uikNumber": 1002,
     "uikTvd": "4764010173114",
     "tikTvd": "2762000926784",
-    "tikName": "Первомайская"
+    "tikName": "Первомайская",
+    "uikName": "УИК №1002",
+    "regionCode": "76",
+    "regionTvd": "100100225883693",
+    "regionName": "Ярославская область",
+    "oikTvd": "100100225883694",
+    "oikName": "Ярославская область – Ярославский",
+    "district": {
+      "districtNumber": 194,
+      "oikTvd": "100100225883694"
+    }
   },
   {
     "uikNumber": 1003,
     "uikTvd": "4764010173115",
     "tikTvd": "2762000926784",
-    "tikName": "Первомайская"
+    "tikName": "Первомайская",
+    "uikName": "УИК №1003",
+    "regionCode": "76",
+    "regionTvd": "100100225883693",
+    "regionName": "Ярославская область",
+    "oikTvd": "100100225883694",
+    "oikName": "Ярославская область – Ярославский",
+    "district": {
+      "districtNumber": 194,
+      "oikTvd": "100100225883694"
+    }
   },
   {
     "uikNumber": 1004,
     "uikTvd": "4764010173116",
     "tikTvd": "2762000926784",
-    "tikName": "Первомайская"
+    "tikName": "Первомайская",
+    "uikName": "УИК №1004",
+    "regionCode": "76",
+    "regionTvd": "100100225883693",
+    "regionName": "Ярославская область",
+    "oikTvd": "100100225883694",
+    "oikName": "Ярославская область – Ярославский",
+    "district": {
+      "districtNumber": 194,
+      "oikTvd": "100100225883694"
+    }
   },
   {
     "uikNumber": 1005,
     "uikTvd": "4764010173117",
     "tikTvd": "2762000926784",
-    "tikName": "Первомайская"
+    "tikName": "Первомайская",
+    "uikName": "УИК №1005",
+    "regionCode": "76",
+    "regionTvd": "100100225883693",
+    "regionName": "Ярославская область",
+    "oikTvd": "100100225883694",
+    "oikName": "Ярославская область – Ярославский",
+    "district": {
+      "districtNumber": 194,
+      "oikTvd": "100100225883694"
+    }
   },
   {
     "uikNumber": 1006,
     "uikTvd": "4764010173118",
     "tikTvd": "2762000926784",
-    "tikName": "Первомайская"
+    "tikName": "Первомайская",
+    "uikName": "УИК №1006",
+    "regionCode": "76",
+    "regionTvd": "100100225883693",
+    "regionName": "Ярославская область",
+    "oikTvd": "100100225883694",
+    "oikName": "Ярославская область – Ярославский",
+    "district": {
+      "districtNumber": 194,
+      "oikTvd": "100100225883694"
+    }
   },
   {
     "uikNumber": 1007,
     "uikTvd": "4764010173119",
     "tikTvd": "2762000926784",
-    "tikName": "Первомайская"
+    "tikName": "Первомайская",
+    "uikName": "УИК №1007",
+    "regionCode": "76",
+    "regionTvd": "100100225883693",
+    "regionName": "Ярославская область",
+    "oikTvd": "100100225883694",
+    "oikName": "Ярославская область – Ярославский",
+    "district": {
+      "districtNumber": 194,
+      "oikTvd": "100100225883694"
+    }
   },
   {
     "uikNumber": 1008,
     "uikTvd": "4764010173120",
     "tikTvd": "2762000926784",
-    "tikName": "Первомайская"
+    "tikName": "Первомайская",
+    "uikName": "УИК №1008",
+    "regionCode": "76",
+    "regionTvd": "100100225883693",
+    "regionName": "Ярославская область",
+    "oikTvd": "100100225883694",
+    "oikName": "Ярославская область – Ярославский",
+    "district": {
+      "districtNumber": 194,
+      "oikTvd": "100100225883694"
+    }
   },
   {
     "uikNumber": 1009,
     "uikTvd": "4764010173121",
     "tikTvd": "2762000926784",
-    "tikName": "Первомайская"
+    "tikName": "Первомайская",
+    "uikName": "УИК №1009",
+    "regionCode": "76",
+    "regionTvd": "100100225883693",
+    "regionName": "Ярославская область",
+    "oikTvd": "100100225883694",
+    "oikName": "Ярославская область – Ярославский",
+    "district": {
+      "districtNumber": 194,
+      "oikTvd": "100100225883694"
+    }
   },
   {
     "uikNumber": 1010,
     "uikTvd": "4764010173122",
     "tikTvd": "2762000926784",
-    "tikName": "Первомайская"
+    "tikName": "Первомайская",
+    "uikName": "УИК №1010",
+    "regionCode": "76",
+    "regionTvd": "100100225883693",
+    "regionName": "Ярославская область",
+    "oikTvd": "100100225883694",
+    "oikName": "Ярославская область – Ярославский",
+    "district": {
+      "districtNumber": 194,
+      "oikTvd": "100100225883694"
+    }
   },
   {
     "uikNumber": 1011,
     "uikTvd": "4764010173123",
     "tikTvd": "2762000926784",
-    "tikName": "Первомайская"
+    "tikName": "Первомайская",
+    "uikName": "УИК №1011",
+    "regionCode": "76",
+    "regionTvd": "100100225883693",
+    "regionName": "Ярославская область",
+    "oikTvd": "100100225883694",
+    "oikName": "Ярославская область – Ярославский",
+    "district": {
+      "districtNumber": 194,
+      "oikTvd": "100100225883694"
+    }
   },
   {
     "uikNumber": 1012,
     "uikTvd": "4764010173124",
     "tikTvd": "2762000926784",
-    "tikName": "Первомайская"
+    "tikName": "Первомайская",
+    "uikName": "УИК №1012",
+    "regionCode": "76",
+    "regionTvd": "100100225883693",
+    "regionName": "Ярославская область",
+    "oikTvd": "100100225883694",
+    "oikName": "Ярославская область – Ярославский",
+    "district": {
+      "districtNumber": 194,
+      "oikTvd": "100100225883694"
+    }
   },
   {
     "uikNumber": 1013,
     "uikTvd": "4764010173125",
     "tikTvd": "2762000926784",
-    "tikName": "Первомайская"
+    "tikName": "Первомайская",
+    "uikName": "УИК №1013",
+    "regionCode": "76",
+    "regionTvd": "100100225883693",
+    "regionName": "Ярославская область",
+    "oikTvd": "100100225883694",
+    "oikName": "Ярославская область – Ярославский",
+    "district": {
+      "districtNumber": 194,
+      "oikTvd": "100100225883694"
+    }
   },
   {
     "uikNumber": 1014,
     "uikTvd": "4764010173126",
     "tikTvd": "2762000926784",
-    "tikName": "Первомайская"
+    "tikName": "Первомайская",
+    "uikName": "УИК №1014",
+    "regionCode": "76",
+    "regionTvd": "100100225883693",
+    "regionName": "Ярославская область",
+    "oikTvd": "100100225883694",
+    "oikName": "Ярославская область – Ярославский",
+    "district": {
+      "districtNumber": 194,
+      "oikTvd": "100100225883694"
+    }
   },
   {
     "uikNumber": 1015,
     "uikTvd": "4764010173127",
     "tikTvd": "2762000926784",
-    "tikName": "Первомайская"
+    "tikName": "Первомайская",
+    "uikName": "УИК №1015",
+    "regionCode": "76",
+    "regionTvd": "100100225883693",
+    "regionName": "Ярославская область",
+    "oikTvd": "100100225883694",
+    "oikName": "Ярославская область – Ярославский",
+    "district": {
+      "districtNumber": 194,
+      "oikTvd": "100100225883694"
+    }
   },
   {
     "uikNumber": 1016,
     "uikTvd": "4764010173128",
     "tikTvd": "2762000926784",
-    "tikName": "Первомайская"
+    "tikName": "Первомайская",
+    "uikName": "УИК №1016",
+    "regionCode": "76",
+    "regionTvd": "100100225883693",
+    "regionName": "Ярославская область",
+    "oikTvd": "100100225883694",
+    "oikName": "Ярославская область – Ярославский",
+    "district": {
+      "districtNumber": 194,
+      "oikTvd": "100100225883694"
+    }
   },
   {
     "uikNumber": 1017,
     "uikTvd": "4764010173129",
     "tikTvd": "2762000926784",
-    "tikName": "Первомайская"
+    "tikName": "Первомайская",
+    "uikName": "УИК №1017",
+    "regionCode": "76",
+    "regionTvd": "100100225883693",
+    "regionName": "Ярославская область",
+    "oikTvd": "100100225883694",
+    "oikName": "Ярославская область – Ярославский",
+    "district": {
+      "districtNumber": 194,
+      "oikTvd": "100100225883694"
+    }
   },
   {
     "uikNumber": 1018,
     "uikTvd": "4764010173130",
     "tikTvd": "2762000926784",
-    "tikName": "Первомайская"
+    "tikName": "Первомайская",
+    "uikName": "УИК №1018",
+    "regionCode": "76",
+    "regionTvd": "100100225883693",
+    "regionName": "Ярославская область",
+    "oikTvd": "100100225883694",
+    "oikName": "Ярославская область – Ярославский",
+    "district": {
+      "districtNumber": 194,
+      "oikTvd": "100100225883694"
+    }
   },
   {
     "uikNumber": 1101,
     "uikTvd": "4764011211521",
     "tikTvd": "2762000926797",
-    "tikName": "Переславль-Залесская городская"
+    "tikName": "Переславль-Залесская городская",
+    "uikName": "УИК №1101",
+    "regionCode": "76",
+    "regionTvd": "100100225883693",
+    "regionName": "Ярославская область",
+    "oikTvd": "100100225883695",
+    "oikName": "Ярославская область – Ростовский",
+    "district": {
+      "districtNumber": 195,
+      "oikTvd": "100100225883695"
+    }
   },
   {
     "uikNumber": 1102,
     "uikTvd": "4764011211522",
     "tikTvd": "2762000926797",
-    "tikName": "Переславль-Залесская городская"
+    "tikName": "Переславль-Залесская городская",
+    "uikName": "УИК №1102",
+    "regionCode": "76",
+    "regionTvd": "100100225883693",
+    "regionName": "Ярославская область",
+    "oikTvd": "100100225883695",
+    "oikName": "Ярославская область – Ростовский",
+    "district": {
+      "districtNumber": 195,
+      "oikTvd": "100100225883695"
+    }
   },
   {
     "uikNumber": 1103,
     "uikTvd": "4764011211523",
     "tikTvd": "2762000926797",
-    "tikName": "Переславль-Залесская городская"
+    "tikName": "Переславль-Залесская городская",
+    "uikName": "УИК №1103",
+    "regionCode": "76",
+    "regionTvd": "100100225883693",
+    "regionName": "Ярославская область",
+    "oikTvd": "100100225883695",
+    "oikName": "Ярославская область – Ростовский",
+    "district": {
+      "districtNumber": 195,
+      "oikTvd": "100100225883695"
+    }
   },
   {
     "uikNumber": 1104,
     "uikTvd": "4764011211524",
     "tikTvd": "2762000926797",
-    "tikName": "Переславль-Залесская городская"
+    "tikName": "Переславль-Залесская городская",
+    "uikName": "УИК №1104",
+    "regionCode": "76",
+    "regionTvd": "100100225883693",
+    "regionName": "Ярославская область",
+    "oikTvd": "100100225883695",
+    "oikName": "Ярославская область – Ростовский",
+    "district": {
+      "districtNumber": 195,
+      "oikTvd": "100100225883695"
+    }
   },
   {
     "uikNumber": 1105,
     "uikTvd": "4764011211525",
     "tikTvd": "2762000926797",
-    "tikName": "Переславль-Залесская городская"
+    "tikName": "Переславль-Залесская городская",
+    "uikName": "УИК №1105",
+    "regionCode": "76",
+    "regionTvd": "100100225883693",
+    "regionName": "Ярославская область",
+    "oikTvd": "100100225883695",
+    "oikName": "Ярославская область – Ростовский",
+    "district": {
+      "districtNumber": 195,
+      "oikTvd": "100100225883695"
+    }
   },
   {
     "uikNumber": 1106,
     "uikTvd": "4764011211526",
     "tikTvd": "2762000926797",
-    "tikName": "Переславль-Залесская городская"
+    "tikName": "Переславль-Залесская городская",
+    "uikName": "УИК №1106",
+    "regionCode": "76",
+    "regionTvd": "100100225883693",
+    "regionName": "Ярославская область",
+    "oikTvd": "100100225883695",
+    "oikName": "Ярославская область – Ростовский",
+    "district": {
+      "districtNumber": 195,
+      "oikTvd": "100100225883695"
+    }
   },
   {
     "uikNumber": 1107,
     "uikTvd": "4764011211527",
     "tikTvd": "2762000926797",
-    "tikName": "Переславль-Залесская городская"
+    "tikName": "Переславль-Залесская городская",
+    "uikName": "УИК №1107",
+    "regionCode": "76",
+    "regionTvd": "100100225883693",
+    "regionName": "Ярославская область",
+    "oikTvd": "100100225883695",
+    "oikName": "Ярославская область – Ростовский",
+    "district": {
+      "districtNumber": 195,
+      "oikTvd": "100100225883695"
+    }
   },
   {
     "uikNumber": 1108,
     "uikTvd": "4764011211528",
     "tikTvd": "2762000926797",
-    "tikName": "Переславль-Залесская городская"
+    "tikName": "Переславль-Залесская городская",
+    "uikName": "УИК №1108",
+    "regionCode": "76",
+    "regionTvd": "100100225883693",
+    "regionName": "Ярославская область",
+    "oikTvd": "100100225883695",
+    "oikName": "Ярославская область – Ростовский",
+    "district": {
+      "districtNumber": 195,
+      "oikTvd": "100100225883695"
+    }
   },
   {
     "uikNumber": 1109,
     "uikTvd": "4764011211529",
     "tikTvd": "2762000926797",
-    "tikName": "Переславль-Залесская городская"
+    "tikName": "Переславль-Залесская городская",
+    "uikName": "УИК №1109",
+    "regionCode": "76",
+    "regionTvd": "100100225883693",
+    "regionName": "Ярославская область",
+    "oikTvd": "100100225883695",
+    "oikName": "Ярославская область – Ростовский",
+    "district": {
+      "districtNumber": 195,
+      "oikTvd": "100100225883695"
+    }
   },
   {
     "uikNumber": 1110,
     "uikTvd": "4764011211530",
     "tikTvd": "2762000926797",
-    "tikName": "Переславль-Залесская городская"
+    "tikName": "Переславль-Залесская городская",
+    "uikName": "УИК №1110",
+    "regionCode": "76",
+    "regionTvd": "100100225883693",
+    "regionName": "Ярославская область",
+    "oikTvd": "100100225883695",
+    "oikName": "Ярославская область – Ростовский",
+    "district": {
+      "districtNumber": 195,
+      "oikTvd": "100100225883695"
+    }
   },
   {
     "uikNumber": 1111,
     "uikTvd": "4764011211531",
     "tikTvd": "2762000926797",
-    "tikName": "Переславль-Залесская городская"
+    "tikName": "Переславль-Залесская городская",
+    "uikName": "УИК №1111",
+    "regionCode": "76",
+    "regionTvd": "100100225883693",
+    "regionName": "Ярославская область",
+    "oikTvd": "100100225883695",
+    "oikName": "Ярославская область – Ростовский",
+    "district": {
+      "districtNumber": 195,
+      "oikTvd": "100100225883695"
+    }
   },
   {
     "uikNumber": 1112,
     "uikTvd": "4764011211532",
     "tikTvd": "2762000926797",
-    "tikName": "Переславль-Залесская городская"
+    "tikName": "Переславль-Залесская городская",
+    "uikName": "УИК №1112",
+    "regionCode": "76",
+    "regionTvd": "100100225883693",
+    "regionName": "Ярославская область",
+    "oikTvd": "100100225883695",
+    "oikName": "Ярославская область – Ростовский",
+    "district": {
+      "districtNumber": 195,
+      "oikTvd": "100100225883695"
+    }
   },
   {
     "uikNumber": 1113,
     "uikTvd": "4764011211533",
     "tikTvd": "2762000926797",
-    "tikName": "Переславль-Залесская городская"
+    "tikName": "Переславль-Залесская городская",
+    "uikName": "УИК №1113",
+    "regionCode": "76",
+    "regionTvd": "100100225883693",
+    "regionName": "Ярославская область",
+    "oikTvd": "100100225883695",
+    "oikName": "Ярославская область – Ростовский",
+    "district": {
+      "districtNumber": 195,
+      "oikTvd": "100100225883695"
+    }
   },
   {
     "uikNumber": 1114,
     "uikTvd": "4764011211534",
     "tikTvd": "2762000926797",
-    "tikName": "Переславль-Залесская городская"
+    "tikName": "Переславль-Залесская городская",
+    "uikName": "УИК №1114",
+    "regionCode": "76",
+    "regionTvd": "100100225883693",
+    "regionName": "Ярославская область",
+    "oikTvd": "100100225883695",
+    "oikName": "Ярославская область – Ростовский",
+    "district": {
+      "districtNumber": 195,
+      "oikTvd": "100100225883695"
+    }
   },
   {
     "uikNumber": 1115,
     "uikTvd": "4764011211535",
     "tikTvd": "2762000926797",
-    "tikName": "Переславль-Залесская городская"
+    "tikName": "Переславль-Залесская городская",
+    "uikName": "УИК №1115",
+    "regionCode": "76",
+    "regionTvd": "100100225883693",
+    "regionName": "Ярославская область",
+    "oikTvd": "100100225883695",
+    "oikName": "Ярославская область – Ростовский",
+    "district": {
+      "districtNumber": 195,
+      "oikTvd": "100100225883695"
+    }
   },
   {
     "uikNumber": 1116,
     "uikTvd": "4764011211536",
     "tikTvd": "2762000926797",
-    "tikName": "Переславль-Залесская городская"
+    "tikName": "Переславль-Залесская городская",
+    "uikName": "УИК №1116",
+    "regionCode": "76",
+    "regionTvd": "100100225883693",
+    "regionName": "Ярославская область",
+    "oikTvd": "100100225883695",
+    "oikName": "Ярославская область – Ростовский",
+    "district": {
+      "districtNumber": 195,
+      "oikTvd": "100100225883695"
+    }
   },
   {
     "uikNumber": 1117,
     "uikTvd": "4764011211537",
     "tikTvd": "2762000926797",
-    "tikName": "Переславль-Залесская городская"
+    "tikName": "Переславль-Залесская городская",
+    "uikName": "УИК №1117",
+    "regionCode": "76",
+    "regionTvd": "100100225883693",
+    "regionName": "Ярославская область",
+    "oikTvd": "100100225883695",
+    "oikName": "Ярославская область – Ростовский",
+    "district": {
+      "districtNumber": 195,
+      "oikTvd": "100100225883695"
+    }
   },
   {
     "uikNumber": 1118,
     "uikTvd": "4764011211538",
     "tikTvd": "2762000926797",
-    "tikName": "Переславль-Залесская городская"
+    "tikName": "Переславль-Залесская городская",
+    "uikName": "УИК №1118",
+    "regionCode": "76",
+    "regionTvd": "100100225883693",
+    "regionName": "Ярославская область",
+    "oikTvd": "100100225883695",
+    "oikName": "Ярославская область – Ростовский",
+    "district": {
+      "districtNumber": 195,
+      "oikTvd": "100100225883695"
+    }
   },
   {
     "uikNumber": 1119,
     "uikTvd": "4764011211539",
     "tikTvd": "2762000926797",
-    "tikName": "Переславль-Залесская городская"
+    "tikName": "Переславль-Залесская городская",
+    "uikName": "УИК №1119",
+    "regionCode": "76",
+    "regionTvd": "100100225883693",
+    "regionName": "Ярославская область",
+    "oikTvd": "100100225883695",
+    "oikName": "Ярославская область – Ростовский",
+    "district": {
+      "districtNumber": 195,
+      "oikTvd": "100100225883695"
+    }
   },
   {
     "uikNumber": 1199,
     "uikTvd": "4764011213028",
     "tikTvd": "2762000926797",
-    "tikName": "Переславль-Залесская городская"
+    "tikName": "Переславль-Залесская городская",
+    "uikName": "УИК №1199",
+    "regionCode": "76",
+    "regionTvd": "100100225883693",
+    "regionName": "Ярославская область",
+    "oikTvd": "100100225883695",
+    "oikName": "Ярославская область – Ростовский",
+    "district": {
+      "districtNumber": 195,
+      "oikTvd": "100100225883695"
+    }
   },
   {
     "uikNumber": 1201,
     "uikTvd": "4764012200457",
     "tikTvd": "2762000926783",
-    "tikName": "Пошехонская"
+    "tikName": "Пошехонская",
+    "uikName": "УИК №1201",
+    "regionCode": "76",
+    "regionTvd": "100100225883693",
+    "regionName": "Ярославская область",
+    "oikTvd": "100100225883694",
+    "oikName": "Ярославская область – Ярославский",
+    "district": {
+      "districtNumber": 194,
+      "oikTvd": "100100225883694"
+    }
   },
   {
     "uikNumber": 1202,
     "uikTvd": "4764012200458",
     "tikTvd": "2762000926783",
-    "tikName": "Пошехонская"
+    "tikName": "Пошехонская",
+    "uikName": "УИК №1202",
+    "regionCode": "76",
+    "regionTvd": "100100225883693",
+    "regionName": "Ярославская область",
+    "oikTvd": "100100225883694",
+    "oikName": "Ярославская область – Ярославский",
+    "district": {
+      "districtNumber": 194,
+      "oikTvd": "100100225883694"
+    }
   },
   {
     "uikNumber": 1203,
     "uikTvd": "4764012200459",
     "tikTvd": "2762000926783",
-    "tikName": "Пошехонская"
+    "tikName": "Пошехонская",
+    "uikName": "УИК №1203",
+    "regionCode": "76",
+    "regionTvd": "100100225883693",
+    "regionName": "Ярославская область",
+    "oikTvd": "100100225883694",
+    "oikName": "Ярославская область – Ярославский",
+    "district": {
+      "districtNumber": 194,
+      "oikTvd": "100100225883694"
+    }
   },
   {
     "uikNumber": 1204,
     "uikTvd": "4764012200460",
     "tikTvd": "2762000926783",
-    "tikName": "Пошехонская"
+    "tikName": "Пошехонская",
+    "uikName": "УИК №1204",
+    "regionCode": "76",
+    "regionTvd": "100100225883693",
+    "regionName": "Ярославская область",
+    "oikTvd": "100100225883694",
+    "oikName": "Ярославская область – Ярославский",
+    "district": {
+      "districtNumber": 194,
+      "oikTvd": "100100225883694"
+    }
   },
   {
     "uikNumber": 1205,
     "uikTvd": "4764012200461",
     "tikTvd": "2762000926783",
-    "tikName": "Пошехонская"
+    "tikName": "Пошехонская",
+    "uikName": "УИК №1205",
+    "regionCode": "76",
+    "regionTvd": "100100225883693",
+    "regionName": "Ярославская область",
+    "oikTvd": "100100225883694",
+    "oikName": "Ярославская область – Ярославский",
+    "district": {
+      "districtNumber": 194,
+      "oikTvd": "100100225883694"
+    }
   },
   {
     "uikNumber": 1206,
     "uikTvd": "4764012200462",
     "tikTvd": "2762000926783",
-    "tikName": "Пошехонская"
+    "tikName": "Пошехонская",
+    "uikName": "УИК №1206",
+    "regionCode": "76",
+    "regionTvd": "100100225883693",
+    "regionName": "Ярославская область",
+    "oikTvd": "100100225883694",
+    "oikName": "Ярославская область – Ярославский",
+    "district": {
+      "districtNumber": 194,
+      "oikTvd": "100100225883694"
+    }
   },
   {
     "uikNumber": 1207,
     "uikTvd": "4764012200463",
     "tikTvd": "2762000926783",
-    "tikName": "Пошехонская"
+    "tikName": "Пошехонская",
+    "uikName": "УИК №1207",
+    "regionCode": "76",
+    "regionTvd": "100100225883693",
+    "regionName": "Ярославская область",
+    "oikTvd": "100100225883694",
+    "oikName": "Ярославская область – Ярославский",
+    "district": {
+      "districtNumber": 194,
+      "oikTvd": "100100225883694"
+    }
   },
   {
     "uikNumber": 1208,
     "uikTvd": "4764012200464",
     "tikTvd": "2762000926783",
-    "tikName": "Пошехонская"
+    "tikName": "Пошехонская",
+    "uikName": "УИК №1208",
+    "regionCode": "76",
+    "regionTvd": "100100225883693",
+    "regionName": "Ярославская область",
+    "oikTvd": "100100225883694",
+    "oikName": "Ярославская область – Ярославский",
+    "district": {
+      "districtNumber": 194,
+      "oikTvd": "100100225883694"
+    }
   },
   {
     "uikNumber": 1209,
     "uikTvd": "4764012200465",
     "tikTvd": "2762000926783",
-    "tikName": "Пошехонская"
+    "tikName": "Пошехонская",
+    "uikName": "УИК №1209",
+    "regionCode": "76",
+    "regionTvd": "100100225883693",
+    "regionName": "Ярославская область",
+    "oikTvd": "100100225883694",
+    "oikName": "Ярославская область – Ярославский",
+    "district": {
+      "districtNumber": 194,
+      "oikTvd": "100100225883694"
+    }
   },
   {
     "uikNumber": 1210,
     "uikTvd": "4764012200466",
     "tikTvd": "2762000926783",
-    "tikName": "Пошехонская"
+    "tikName": "Пошехонская",
+    "uikName": "УИК №1210",
+    "regionCode": "76",
+    "regionTvd": "100100225883693",
+    "regionName": "Ярославская область",
+    "oikTvd": "100100225883694",
+    "oikName": "Ярославская область – Ярославский",
+    "district": {
+      "districtNumber": 194,
+      "oikTvd": "100100225883694"
+    }
   },
   {
     "uikNumber": 1211,
     "uikTvd": "4764012200467",
     "tikTvd": "2762000926783",
-    "tikName": "Пошехонская"
+    "tikName": "Пошехонская",
+    "uikName": "УИК №1211",
+    "regionCode": "76",
+    "regionTvd": "100100225883693",
+    "regionName": "Ярославская область",
+    "oikTvd": "100100225883694",
+    "oikName": "Ярославская область – Ярославский",
+    "district": {
+      "districtNumber": 194,
+      "oikTvd": "100100225883694"
+    }
   },
   {
     "uikNumber": 1212,
     "uikTvd": "4764012200468",
     "tikTvd": "2762000926783",
-    "tikName": "Пошехонская"
+    "tikName": "Пошехонская",
+    "uikName": "УИК №1212",
+    "regionCode": "76",
+    "regionTvd": "100100225883693",
+    "regionName": "Ярославская область",
+    "oikTvd": "100100225883694",
+    "oikName": "Ярославская область – Ярославский",
+    "district": {
+      "districtNumber": 194,
+      "oikTvd": "100100225883694"
+    }
   },
   {
     "uikNumber": 1213,
     "uikTvd": "4764012200469",
     "tikTvd": "2762000926783",
-    "tikName": "Пошехонская"
+    "tikName": "Пошехонская",
+    "uikName": "УИК №1213",
+    "regionCode": "76",
+    "regionTvd": "100100225883693",
+    "regionName": "Ярославская область",
+    "oikTvd": "100100225883694",
+    "oikName": "Ярославская область – Ярославский",
+    "district": {
+      "districtNumber": 194,
+      "oikTvd": "100100225883694"
+    }
   },
   {
     "uikNumber": 1214,
     "uikTvd": "4764012200470",
     "tikTvd": "2762000926783",
-    "tikName": "Пошехонская"
+    "tikName": "Пошехонская",
+    "uikName": "УИК №1214",
+    "regionCode": "76",
+    "regionTvd": "100100225883693",
+    "regionName": "Ярославская область",
+    "oikTvd": "100100225883694",
+    "oikName": "Ярославская область – Ярославский",
+    "district": {
+      "districtNumber": 194,
+      "oikTvd": "100100225883694"
+    }
   },
   {
     "uikNumber": 1215,
     "uikTvd": "4764012200471",
     "tikTvd": "2762000926783",
-    "tikName": "Пошехонская"
+    "tikName": "Пошехонская",
+    "uikName": "УИК №1215",
+    "regionCode": "76",
+    "regionTvd": "100100225883693",
+    "regionName": "Ярославская область",
+    "oikTvd": "100100225883694",
+    "oikName": "Ярославская область – Ярославский",
+    "district": {
+      "districtNumber": 194,
+      "oikTvd": "100100225883694"
+    }
   },
   {
     "uikNumber": 1216,
     "uikTvd": "4764012200472",
     "tikTvd": "2762000926783",
-    "tikName": "Пошехонская"
+    "tikName": "Пошехонская",
+    "uikName": "УИК №1216",
+    "regionCode": "76",
+    "regionTvd": "100100225883693",
+    "regionName": "Ярославская область",
+    "oikTvd": "100100225883694",
+    "oikName": "Ярославская область – Ярославский",
+    "district": {
+      "districtNumber": 194,
+      "oikTvd": "100100225883694"
+    }
   },
   {
     "uikNumber": 1217,
     "uikTvd": "4764012200473",
     "tikTvd": "2762000926783",
-    "tikName": "Пошехонская"
+    "tikName": "Пошехонская",
+    "uikName": "УИК №1217",
+    "regionCode": "76",
+    "regionTvd": "100100225883693",
+    "regionName": "Ярославская область",
+    "oikTvd": "100100225883694",
+    "oikName": "Ярославская область – Ярославский",
+    "district": {
+      "districtNumber": 194,
+      "oikTvd": "100100225883694"
+    }
   },
   {
     "uikNumber": 1218,
     "uikTvd": "4764012200474",
     "tikTvd": "2762000926783",
-    "tikName": "Пошехонская"
+    "tikName": "Пошехонская",
+    "uikName": "УИК №1218",
+    "regionCode": "76",
+    "regionTvd": "100100225883693",
+    "regionName": "Ярославская область",
+    "oikTvd": "100100225883694",
+    "oikName": "Ярославская область – Ярославский",
+    "district": {
+      "districtNumber": 194,
+      "oikTvd": "100100225883694"
+    }
   },
   {
     "uikNumber": 1219,
     "uikTvd": "4764012200475",
     "tikTvd": "2762000926783",
-    "tikName": "Пошехонская"
+    "tikName": "Пошехонская",
+    "uikName": "УИК №1219",
+    "regionCode": "76",
+    "regionTvd": "100100225883693",
+    "regionName": "Ярославская область",
+    "oikTvd": "100100225883694",
+    "oikName": "Ярославская область – Ярославский",
+    "district": {
+      "districtNumber": 194,
+      "oikTvd": "100100225883694"
+    }
   },
   {
     "uikNumber": 1220,
     "uikTvd": "4764012200476",
     "tikTvd": "2762000926783",
-    "tikName": "Пошехонская"
+    "tikName": "Пошехонская",
+    "uikName": "УИК №1220",
+    "regionCode": "76",
+    "regionTvd": "100100225883693",
+    "regionName": "Ярославская область",
+    "oikTvd": "100100225883694",
+    "oikName": "Ярославская область – Ярославский",
+    "district": {
+      "districtNumber": 194,
+      "oikTvd": "100100225883694"
+    }
   },
   {
     "uikNumber": 1221,
     "uikTvd": "4764012200477",
     "tikTvd": "2762000926783",
-    "tikName": "Пошехонская"
+    "tikName": "Пошехонская",
+    "uikName": "УИК №1221",
+    "regionCode": "76",
+    "regionTvd": "100100225883693",
+    "regionName": "Ярославская область",
+    "oikTvd": "100100225883694",
+    "oikName": "Ярославская область – Ярославский",
+    "district": {
+      "districtNumber": 194,
+      "oikTvd": "100100225883694"
+    }
   },
   {
     "uikNumber": 1222,
     "uikTvd": "4764012200478",
     "tikTvd": "2762000926783",
-    "tikName": "Пошехонская"
+    "tikName": "Пошехонская",
+    "uikName": "УИК №1222",
+    "regionCode": "76",
+    "regionTvd": "100100225883693",
+    "regionName": "Ярославская область",
+    "oikTvd": "100100225883694",
+    "oikName": "Ярославская область – Ярославский",
+    "district": {
+      "districtNumber": 194,
+      "oikTvd": "100100225883694"
+    }
   },
   {
     "uikNumber": 1223,
     "uikTvd": "4764012200479",
     "tikTvd": "2762000926783",
-    "tikName": "Пошехонская"
+    "tikName": "Пошехонская",
+    "uikName": "УИК №1223",
+    "regionCode": "76",
+    "regionTvd": "100100225883693",
+    "regionName": "Ярославская область",
+    "oikTvd": "100100225883694",
+    "oikName": "Ярославская область – Ярославский",
+    "district": {
+      "districtNumber": 194,
+      "oikTvd": "100100225883694"
+    }
   },
   {
     "uikNumber": 1224,
     "uikTvd": "4764012200480",
     "tikTvd": "2762000926783",
-    "tikName": "Пошехонская"
+    "tikName": "Пошехонская",
+    "uikName": "УИК №1224",
+    "regionCode": "76",
+    "regionTvd": "100100225883693",
+    "regionName": "Ярославская область",
+    "oikTvd": "100100225883694",
+    "oikName": "Ярославская область – Ярославский",
+    "district": {
+      "districtNumber": 194,
+      "oikTvd": "100100225883694"
+    }
   },
   {
     "uikNumber": 1225,
     "uikTvd": "4764012200481",
     "tikTvd": "2762000926783",
-    "tikName": "Пошехонская"
+    "tikName": "Пошехонская",
+    "uikName": "УИК №1225",
+    "regionCode": "76",
+    "regionTvd": "100100225883693",
+    "regionName": "Ярославская область",
+    "oikTvd": "100100225883694",
+    "oikName": "Ярославская область – Ярославский",
+    "district": {
+      "districtNumber": 194,
+      "oikTvd": "100100225883694"
+    }
   },
   {
     "uikNumber": 1226,
     "uikTvd": "4764012200482",
     "tikTvd": "2762000926783",
-    "tikName": "Пошехонская"
+    "tikName": "Пошехонская",
+    "uikName": "УИК №1226",
+    "regionCode": "76",
+    "regionTvd": "100100225883693",
+    "regionName": "Ярославская область",
+    "oikTvd": "100100225883694",
+    "oikName": "Ярославская область – Ярославский",
+    "district": {
+      "districtNumber": 194,
+      "oikTvd": "100100225883694"
+    }
   },
   {
     "uikNumber": 1301,
     "uikTvd": "4764013266888",
     "tikTvd": "2762000926796",
-    "tikName": "Ростовская"
+    "tikName": "Ростовская",
+    "uikName": "УИК №1301",
+    "regionCode": "76",
+    "regionTvd": "100100225883693",
+    "regionName": "Ярославская область",
+    "oikTvd": "100100225883695",
+    "oikName": "Ярославская область – Ростовский",
+    "district": {
+      "districtNumber": 195,
+      "oikTvd": "100100225883695"
+    }
   },
   {
     "uikNumber": 1302,
     "uikTvd": "4764013266889",
     "tikTvd": "2762000926796",
-    "tikName": "Ростовская"
+    "tikName": "Ростовская",
+    "uikName": "УИК №1302",
+    "regionCode": "76",
+    "regionTvd": "100100225883693",
+    "regionName": "Ярославская область",
+    "oikTvd": "100100225883695",
+    "oikName": "Ярославская область – Ростовский",
+    "district": {
+      "districtNumber": 195,
+      "oikTvd": "100100225883695"
+    }
   },
   {
     "uikNumber": 1303,
     "uikTvd": "4764013266890",
     "tikTvd": "2762000926796",
-    "tikName": "Ростовская"
+    "tikName": "Ростовская",
+    "uikName": "УИК №1303",
+    "regionCode": "76",
+    "regionTvd": "100100225883693",
+    "regionName": "Ярославская область",
+    "oikTvd": "100100225883695",
+    "oikName": "Ярославская область – Ростовский",
+    "district": {
+      "districtNumber": 195,
+      "oikTvd": "100100225883695"
+    }
   },
   {
     "uikNumber": 1304,
     "uikTvd": "4764013266891",
     "tikTvd": "2762000926796",
-    "tikName": "Ростовская"
+    "tikName": "Ростовская",
+    "uikName": "УИК №1304",
+    "regionCode": "76",
+    "regionTvd": "100100225883693",
+    "regionName": "Ярославская область",
+    "oikTvd": "100100225883695",
+    "oikName": "Ярославская область – Ростовский",
+    "district": {
+      "districtNumber": 195,
+      "oikTvd": "100100225883695"
+    }
   },
   {
     "uikNumber": 1305,
     "uikTvd": "4764013266892",
     "tikTvd": "2762000926796",
-    "tikName": "Ростовская"
+    "tikName": "Ростовская",
+    "uikName": "УИК №1305",
+    "regionCode": "76",
+    "regionTvd": "100100225883693",
+    "regionName": "Ярославская область",
+    "oikTvd": "100100225883695",
+    "oikName": "Ярославская область – Ростовский",
+    "district": {
+      "districtNumber": 195,
+      "oikTvd": "100100225883695"
+    }
   },
   {
     "uikNumber": 1306,
     "uikTvd": "4764013266893",
     "tikTvd": "2762000926796",
-    "tikName": "Ростовская"
+    "tikName": "Ростовская",
+    "uikName": "УИК №1306",
+    "regionCode": "76",
+    "regionTvd": "100100225883693",
+    "regionName": "Ярославская область",
+    "oikTvd": "100100225883695",
+    "oikName": "Ярославская область – Ростовский",
+    "district": {
+      "districtNumber": 195,
+      "oikTvd": "100100225883695"
+    }
   },
   {
     "uikNumber": 1307,
     "uikTvd": "4764013266894",
     "tikTvd": "2762000926796",
-    "tikName": "Ростовская"
+    "tikName": "Ростовская",
+    "uikName": "УИК №1307",
+    "regionCode": "76",
+    "regionTvd": "100100225883693",
+    "regionName": "Ярославская область",
+    "oikTvd": "100100225883695",
+    "oikName": "Ярославская область – Ростовский",
+    "district": {
+      "districtNumber": 195,
+      "oikTvd": "100100225883695"
+    }
   },
   {
     "uikNumber": 1308,
     "uikTvd": "4764013266895",
     "tikTvd": "2762000926796",
-    "tikName": "Ростовская"
+    "tikName": "Ростовская",
+    "uikName": "УИК №1308",
+    "regionCode": "76",
+    "regionTvd": "100100225883693",
+    "regionName": "Ярославская область",
+    "oikTvd": "100100225883695",
+    "oikName": "Ярославская область – Ростовский",
+    "district": {
+      "districtNumber": 195,
+      "oikTvd": "100100225883695"
+    }
   },
   {
     "uikNumber": 1309,
     "uikTvd": "4764013266896",
     "tikTvd": "2762000926796",
-    "tikName": "Ростовская"
+    "tikName": "Ростовская",
+    "uikName": "УИК №1309",
+    "regionCode": "76",
+    "regionTvd": "100100225883693",
+    "regionName": "Ярославская область",
+    "oikTvd": "100100225883695",
+    "oikName": "Ярославская область – Ростовский",
+    "district": {
+      "districtNumber": 195,
+      "oikTvd": "100100225883695"
+    }
   },
   {
     "uikNumber": 1310,
     "uikTvd": "4764013266897",
     "tikTvd": "2762000926796",
-    "tikName": "Ростовская"
+    "tikName": "Ростовская",
+    "uikName": "УИК №1310",
+    "regionCode": "76",
+    "regionTvd": "100100225883693",
+    "regionName": "Ярославская область",
+    "oikTvd": "100100225883695",
+    "oikName": "Ярославская область – Ростовский",
+    "district": {
+      "districtNumber": 195,
+      "oikTvd": "100100225883695"
+    }
   },
   {
     "uikNumber": 1311,
     "uikTvd": "4764013266898",
     "tikTvd": "2762000926796",
-    "tikName": "Ростовская"
+    "tikName": "Ростовская",
+    "uikName": "УИК №1311",
+    "regionCode": "76",
+    "regionTvd": "100100225883693",
+    "regionName": "Ярославская область",
+    "oikTvd": "100100225883695",
+    "oikName": "Ярославская область – Ростовский",
+    "district": {
+      "districtNumber": 195,
+      "oikTvd": "100100225883695"
+    }
   },
   {
     "uikNumber": 1312,
     "uikTvd": "4764013266899",
     "tikTvd": "2762000926796",
-    "tikName": "Ростовская"
+    "tikName": "Ростовская",
+    "uikName": "УИК №1312",
+    "regionCode": "76",
+    "regionTvd": "100100225883693",
+    "regionName": "Ярославская область",
+    "oikTvd": "100100225883695",
+    "oikName": "Ярославская область – Ростовский",
+    "district": {
+      "districtNumber": 195,
+      "oikTvd": "100100225883695"
+    }
   },
   {
     "uikNumber": 1313,
     "uikTvd": "4764013266900",
     "tikTvd": "2762000926796",
-    "tikName": "Ростовская"
+    "tikName": "Ростовская",
+    "uikName": "УИК №1313",
+    "regionCode": "76",
+    "regionTvd": "100100225883693",
+    "regionName": "Ярославская область",
+    "oikTvd": "100100225883695",
+    "oikName": "Ярославская область – Ростовский",
+    "district": {
+      "districtNumber": 195,
+      "oikTvd": "100100225883695"
+    }
   },
   {
     "uikNumber": 1314,
     "uikTvd": "4764013266901",
     "tikTvd": "2762000926796",
-    "tikName": "Ростовская"
+    "tikName": "Ростовская",
+    "uikName": "УИК №1314",
+    "regionCode": "76",
+    "regionTvd": "100100225883693",
+    "regionName": "Ярославская область",
+    "oikTvd": "100100225883695",
+    "oikName": "Ярославская область – Ростовский",
+    "district": {
+      "districtNumber": 195,
+      "oikTvd": "100100225883695"
+    }
   },
   {
     "uikNumber": 1315,
     "uikTvd": "4764013266902",
     "tikTvd": "2762000926796",
-    "tikName": "Ростовская"
+    "tikName": "Ростовская",
+    "uikName": "УИК №1315",
+    "regionCode": "76",
+    "regionTvd": "100100225883693",
+    "regionName": "Ярославская область",
+    "oikTvd": "100100225883695",
+    "oikName": "Ярославская область – Ростовский",
+    "district": {
+      "districtNumber": 195,
+      "oikTvd": "100100225883695"
+    }
   },
   {
     "uikNumber": 1316,
     "uikTvd": "4764013266903",
     "tikTvd": "2762000926796",
-    "tikName": "Ростовская"
+    "tikName": "Ростовская",
+    "uikName": "УИК №1316",
+    "regionCode": "76",
+    "regionTvd": "100100225883693",
+    "regionName": "Ярославская область",
+    "oikTvd": "100100225883695",
+    "oikName": "Ярославская область – Ростовский",
+    "district": {
+      "districtNumber": 195,
+      "oikTvd": "100100225883695"
+    }
   },
   {
     "uikNumber": 1317,
     "uikTvd": "4764013266904",
     "tikTvd": "2762000926796",
-    "tikName": "Ростовская"
+    "tikName": "Ростовская",
+    "uikName": "УИК №1317",
+    "regionCode": "76",
+    "regionTvd": "100100225883693",
+    "regionName": "Ярославская область",
+    "oikTvd": "100100225883695",
+    "oikName": "Ярославская область – Ростовский",
+    "district": {
+      "districtNumber": 195,
+      "oikTvd": "100100225883695"
+    }
   },
   {
     "uikNumber": 1318,
     "uikTvd": "4764013266905",
     "tikTvd": "2762000926796",
-    "tikName": "Ростовская"
+    "tikName": "Ростовская",
+    "uikName": "УИК №1318",
+    "regionCode": "76",
+    "regionTvd": "100100225883693",
+    "regionName": "Ярославская область",
+    "oikTvd": "100100225883695",
+    "oikName": "Ярославская область – Ростовский",
+    "district": {
+      "districtNumber": 195,
+      "oikTvd": "100100225883695"
+    }
   },
   {
     "uikNumber": 1319,
     "uikTvd": "4764013266906",
     "tikTvd": "2762000926796",
-    "tikName": "Ростовская"
+    "tikName": "Ростовская",
+    "uikName": "УИК №1319",
+    "regionCode": "76",
+    "regionTvd": "100100225883693",
+    "regionName": "Ярославская область",
+    "oikTvd": "100100225883695",
+    "oikName": "Ярославская область – Ростовский",
+    "district": {
+      "districtNumber": 195,
+      "oikTvd": "100100225883695"
+    }
   },
   {
     "uikNumber": 1320,
     "uikTvd": "4764013266907",
     "tikTvd": "2762000926796",
-    "tikName": "Ростовская"
+    "tikName": "Ростовская",
+    "uikName": "УИК №1320",
+    "regionCode": "76",
+    "regionTvd": "100100225883693",
+    "regionName": "Ярославская область",
+    "oikTvd": "100100225883695",
+    "oikName": "Ярославская область – Ростовский",
+    "district": {
+      "districtNumber": 195,
+      "oikTvd": "100100225883695"
+    }
   },
   {
     "uikNumber": 1321,
     "uikTvd": "4764013266908",
     "tikTvd": "2762000926796",
-    "tikName": "Ростовская"
+    "tikName": "Ростовская",
+    "uikName": "УИК №1321",
+    "regionCode": "76",
+    "regionTvd": "100100225883693",
+    "regionName": "Ярославская область",
+    "oikTvd": "100100225883695",
+    "oikName": "Ярославская область – Ростовский",
+    "district": {
+      "districtNumber": 195,
+      "oikTvd": "100100225883695"
+    }
   },
   {
     "uikNumber": 1322,
     "uikTvd": "4764013266909",
     "tikTvd": "2762000926796",
-    "tikName": "Ростовская"
+    "tikName": "Ростовская",
+    "uikName": "УИК №1322",
+    "regionCode": "76",
+    "regionTvd": "100100225883693",
+    "regionName": "Ярославская область",
+    "oikTvd": "100100225883695",
+    "oikName": "Ярославская область – Ростовский",
+    "district": {
+      "districtNumber": 195,
+      "oikTvd": "100100225883695"
+    }
   },
   {
     "uikNumber": 1323,
     "uikTvd": "4764013266910",
     "tikTvd": "2762000926796",
-    "tikName": "Ростовская"
+    "tikName": "Ростовская",
+    "uikName": "УИК №1323",
+    "regionCode": "76",
+    "regionTvd": "100100225883693",
+    "regionName": "Ярославская область",
+    "oikTvd": "100100225883695",
+    "oikName": "Ярославская область – Ростовский",
+    "district": {
+      "districtNumber": 195,
+      "oikTvd": "100100225883695"
+    }
   },
   {
     "uikNumber": 1324,
     "uikTvd": "4764013266911",
     "tikTvd": "2762000926796",
-    "tikName": "Ростовская"
+    "tikName": "Ростовская",
+    "uikName": "УИК №1324",
+    "regionCode": "76",
+    "regionTvd": "100100225883693",
+    "regionName": "Ярославская область",
+    "oikTvd": "100100225883695",
+    "oikName": "Ярославская область – Ростовский",
+    "district": {
+      "districtNumber": 195,
+      "oikTvd": "100100225883695"
+    }
   },
   {
     "uikNumber": 1325,
     "uikTvd": "4764013266912",
     "tikTvd": "2762000926796",
-    "tikName": "Ростовская"
+    "tikName": "Ростовская",
+    "uikName": "УИК №1325",
+    "regionCode": "76",
+    "regionTvd": "100100225883693",
+    "regionName": "Ярославская область",
+    "oikTvd": "100100225883695",
+    "oikName": "Ярославская область – Ростовский",
+    "district": {
+      "districtNumber": 195,
+      "oikTvd": "100100225883695"
+    }
   },
   {
     "uikNumber": 1326,
     "uikTvd": "4764013266913",
     "tikTvd": "2762000926796",
-    "tikName": "Ростовская"
+    "tikName": "Ростовская",
+    "uikName": "УИК №1326",
+    "regionCode": "76",
+    "regionTvd": "100100225883693",
+    "regionName": "Ярославская область",
+    "oikTvd": "100100225883695",
+    "oikName": "Ярославская область – Ростовский",
+    "district": {
+      "districtNumber": 195,
+      "oikTvd": "100100225883695"
+    }
   },
   {
     "uikNumber": 1327,
     "uikTvd": "4764013266914",
     "tikTvd": "2762000926796",
-    "tikName": "Ростовская"
+    "tikName": "Ростовская",
+    "uikName": "УИК №1327",
+    "regionCode": "76",
+    "regionTvd": "100100225883693",
+    "regionName": "Ярославская область",
+    "oikTvd": "100100225883695",
+    "oikName": "Ярославская область – Ростовский",
+    "district": {
+      "districtNumber": 195,
+      "oikTvd": "100100225883695"
+    }
   },
   {
     "uikNumber": 1328,
     "uikTvd": "4764013266915",
     "tikTvd": "2762000926796",
-    "tikName": "Ростовская"
+    "tikName": "Ростовская",
+    "uikName": "УИК №1328",
+    "regionCode": "76",
+    "regionTvd": "100100225883693",
+    "regionName": "Ярославская область",
+    "oikTvd": "100100225883695",
+    "oikName": "Ярославская область – Ростовский",
+    "district": {
+      "districtNumber": 195,
+      "oikTvd": "100100225883695"
+    }
   },
   {
     "uikNumber": 1329,
     "uikTvd": "4764013266916",
     "tikTvd": "2762000926796",
-    "tikName": "Ростовская"
+    "tikName": "Ростовская",
+    "uikName": "УИК №1329",
+    "regionCode": "76",
+    "regionTvd": "100100225883693",
+    "regionName": "Ярославская область",
+    "oikTvd": "100100225883695",
+    "oikName": "Ярославская область – Ростовский",
+    "district": {
+      "districtNumber": 195,
+      "oikTvd": "100100225883695"
+    }
   },
   {
     "uikNumber": 1330,
     "uikTvd": "4764013266917",
     "tikTvd": "2762000926796",
-    "tikName": "Ростовская"
+    "tikName": "Ростовская",
+    "uikName": "УИК №1330",
+    "regionCode": "76",
+    "regionTvd": "100100225883693",
+    "regionName": "Ярославская область",
+    "oikTvd": "100100225883695",
+    "oikName": "Ярославская область – Ростовский",
+    "district": {
+      "districtNumber": 195,
+      "oikTvd": "100100225883695"
+    }
   },
   {
     "uikNumber": 1331,
     "uikTvd": "4764013266918",
     "tikTvd": "2762000926796",
-    "tikName": "Ростовская"
+    "tikName": "Ростовская",
+    "uikName": "УИК №1331",
+    "regionCode": "76",
+    "regionTvd": "100100225883693",
+    "regionName": "Ярославская область",
+    "oikTvd": "100100225883695",
+    "oikName": "Ярославская область – Ростовский",
+    "district": {
+      "districtNumber": 195,
+      "oikTvd": "100100225883695"
+    }
   },
   {
     "uikNumber": 1332,
     "uikTvd": "4764013266919",
     "tikTvd": "2762000926796",
-    "tikName": "Ростовская"
+    "tikName": "Ростовская",
+    "uikName": "УИК №1332",
+    "regionCode": "76",
+    "regionTvd": "100100225883693",
+    "regionName": "Ярославская область",
+    "oikTvd": "100100225883695",
+    "oikName": "Ярославская область – Ростовский",
+    "district": {
+      "districtNumber": 195,
+      "oikTvd": "100100225883695"
+    }
   },
   {
     "uikNumber": 1333,
     "uikTvd": "4764013266920",
     "tikTvd": "2762000926796",
-    "tikName": "Ростовская"
+    "tikName": "Ростовская",
+    "uikName": "УИК №1333",
+    "regionCode": "76",
+    "regionTvd": "100100225883693",
+    "regionName": "Ярославская область",
+    "oikTvd": "100100225883695",
+    "oikName": "Ярославская область – Ростовский",
+    "district": {
+      "districtNumber": 195,
+      "oikTvd": "100100225883695"
+    }
   },
   {
     "uikNumber": 1334,
     "uikTvd": "4764013266921",
     "tikTvd": "2762000926796",
-    "tikName": "Ростовская"
+    "tikName": "Ростовская",
+    "uikName": "УИК №1334",
+    "regionCode": "76",
+    "regionTvd": "100100225883693",
+    "regionName": "Ярославская область",
+    "oikTvd": "100100225883695",
+    "oikName": "Ярославская область – Ростовский",
+    "district": {
+      "districtNumber": 195,
+      "oikTvd": "100100225883695"
+    }
   },
   {
     "uikNumber": 1335,
     "uikTvd": "4764013266922",
     "tikTvd": "2762000926796",
-    "tikName": "Ростовская"
+    "tikName": "Ростовская",
+    "uikName": "УИК №1335",
+    "regionCode": "76",
+    "regionTvd": "100100225883693",
+    "regionName": "Ярославская область",
+    "oikTvd": "100100225883695",
+    "oikName": "Ярославская область – Ростовский",
+    "district": {
+      "districtNumber": 195,
+      "oikTvd": "100100225883695"
+    }
   },
   {
     "uikNumber": 1336,
     "uikTvd": "4764013266923",
     "tikTvd": "2762000926796",
-    "tikName": "Ростовская"
+    "tikName": "Ростовская",
+    "uikName": "УИК №1336",
+    "regionCode": "76",
+    "regionTvd": "100100225883693",
+    "regionName": "Ярославская область",
+    "oikTvd": "100100225883695",
+    "oikName": "Ярославская область – Ростовский",
+    "district": {
+      "districtNumber": 195,
+      "oikTvd": "100100225883695"
+    }
   },
   {
     "uikNumber": 1337,
     "uikTvd": "4764013266924",
     "tikTvd": "2762000926796",
-    "tikName": "Ростовская"
+    "tikName": "Ростовская",
+    "uikName": "УИК №1337",
+    "regionCode": "76",
+    "regionTvd": "100100225883693",
+    "regionName": "Ярославская область",
+    "oikTvd": "100100225883695",
+    "oikName": "Ярославская область – Ростовский",
+    "district": {
+      "districtNumber": 195,
+      "oikTvd": "100100225883695"
+    }
   },
   {
     "uikNumber": 1338,
     "uikTvd": "4764013266925",
     "tikTvd": "2762000926796",
-    "tikName": "Ростовская"
+    "tikName": "Ростовская",
+    "uikName": "УИК №1338",
+    "regionCode": "76",
+    "regionTvd": "100100225883693",
+    "regionName": "Ярославская область",
+    "oikTvd": "100100225883695",
+    "oikName": "Ярославская область – Ростовский",
+    "district": {
+      "districtNumber": 195,
+      "oikTvd": "100100225883695"
+    }
   },
   {
     "uikNumber": 1339,
     "uikTvd": "4764013266926",
     "tikTvd": "2762000926796",
-    "tikName": "Ростовская"
+    "tikName": "Ростовская",
+    "uikName": "УИК №1339",
+    "regionCode": "76",
+    "regionTvd": "100100225883693",
+    "regionName": "Ярославская область",
+    "oikTvd": "100100225883695",
+    "oikName": "Ярославская область – Ростовский",
+    "district": {
+      "districtNumber": 195,
+      "oikTvd": "100100225883695"
+    }
   },
   {
     "uikNumber": 1340,
     "uikTvd": "4764013266927",
     "tikTvd": "2762000926796",
-    "tikName": "Ростовская"
+    "tikName": "Ростовская",
+    "uikName": "УИК №1340",
+    "regionCode": "76",
+    "regionTvd": "100100225883693",
+    "regionName": "Ярославская область",
+    "oikTvd": "100100225883695",
+    "oikName": "Ярославская область – Ростовский",
+    "district": {
+      "districtNumber": 195,
+      "oikTvd": "100100225883695"
+    }
   },
   {
     "uikNumber": 1341,
     "uikTvd": "4764013266928",
     "tikTvd": "2762000926796",
-    "tikName": "Ростовская"
+    "tikName": "Ростовская",
+    "uikName": "УИК №1341",
+    "regionCode": "76",
+    "regionTvd": "100100225883693",
+    "regionName": "Ярославская область",
+    "oikTvd": "100100225883695",
+    "oikName": "Ярославская область – Ростовский",
+    "district": {
+      "districtNumber": 195,
+      "oikTvd": "100100225883695"
+    }
   },
   {
     "uikNumber": 1342,
     "uikTvd": "4764013266929",
     "tikTvd": "2762000926796",
-    "tikName": "Ростовская"
+    "tikName": "Ростовская",
+    "uikName": "УИК №1342",
+    "regionCode": "76",
+    "regionTvd": "100100225883693",
+    "regionName": "Ярославская область",
+    "oikTvd": "100100225883695",
+    "oikName": "Ярославская область – Ростовский",
+    "district": {
+      "districtNumber": 195,
+      "oikTvd": "100100225883695"
+    }
   },
   {
     "uikNumber": 1343,
     "uikTvd": "4764013266930",
     "tikTvd": "2762000926796",
-    "tikName": "Ростовская"
+    "tikName": "Ростовская",
+    "uikName": "УИК №1343",
+    "regionCode": "76",
+    "regionTvd": "100100225883693",
+    "regionName": "Ярославская область",
+    "oikTvd": "100100225883695",
+    "oikName": "Ярославская область – Ростовский",
+    "district": {
+      "districtNumber": 195,
+      "oikTvd": "100100225883695"
+    }
   },
   {
     "uikNumber": 1344,
     "uikTvd": "4764013266931",
     "tikTvd": "2762000926796",
-    "tikName": "Ростовская"
+    "tikName": "Ростовская",
+    "uikName": "УИК №1344",
+    "regionCode": "76",
+    "regionTvd": "100100225883693",
+    "regionName": "Ярославская область",
+    "oikTvd": "100100225883695",
+    "oikName": "Ярославская область – Ростовский",
+    "district": {
+      "districtNumber": 195,
+      "oikTvd": "100100225883695"
+    }
   },
   {
     "uikNumber": 1345,
     "uikTvd": "4764013266932",
     "tikTvd": "2762000926796",
-    "tikName": "Ростовская"
+    "tikName": "Ростовская",
+    "uikName": "УИК №1345",
+    "regionCode": "76",
+    "regionTvd": "100100225883693",
+    "regionName": "Ярославская область",
+    "oikTvd": "100100225883695",
+    "oikName": "Ярославская область – Ростовский",
+    "district": {
+      "districtNumber": 195,
+      "oikTvd": "100100225883695"
+    }
   },
   {
     "uikNumber": 1346,
     "uikTvd": "4764013266933",
     "tikTvd": "2762000926796",
-    "tikName": "Ростовская"
+    "tikName": "Ростовская",
+    "uikName": "УИК №1346",
+    "regionCode": "76",
+    "regionTvd": "100100225883693",
+    "regionName": "Ярославская область",
+    "oikTvd": "100100225883695",
+    "oikName": "Ярославская область – Ростовский",
+    "district": {
+      "districtNumber": 195,
+      "oikTvd": "100100225883695"
+    }
   },
   {
     "uikNumber": 1347,
     "uikTvd": "4764013266934",
     "tikTvd": "2762000926796",
-    "tikName": "Ростовская"
+    "tikName": "Ростовская",
+    "uikName": "УИК №1347",
+    "regionCode": "76",
+    "regionTvd": "100100225883693",
+    "regionName": "Ярославская область",
+    "oikTvd": "100100225883695",
+    "oikName": "Ярославская область – Ростовский",
+    "district": {
+      "districtNumber": 195,
+      "oikTvd": "100100225883695"
+    }
   },
   {
     "uikNumber": 1401,
     "uikTvd": "4764014245598",
     "tikTvd": "2762000926782",
-    "tikName": "Рыбинская - 194"
+    "tikName": "Рыбинская - 194",
+    "uikName": "УИК №1401",
+    "regionCode": "76",
+    "regionTvd": "100100225883693",
+    "regionName": "Ярославская область",
+    "oikTvd": "100100225883694",
+    "oikName": "Ярославская область – Ярославский",
+    "district": {
+      "districtNumber": 194,
+      "oikTvd": "100100225883694"
+    }
   },
   {
     "uikNumber": 1402,
     "uikTvd": "4764014245609",
     "tikTvd": "2762000926795",
-    "tikName": "Рыбинская - 195"
+    "tikName": "Рыбинская - 195",
+    "uikName": "УИК №1402",
+    "regionCode": "76",
+    "regionTvd": "100100225883693",
+    "regionName": "Ярославская область",
+    "oikTvd": "100100225883695",
+    "oikName": "Ярославская область – Ростовский",
+    "district": {
+      "districtNumber": 195,
+      "oikTvd": "100100225883695"
+    }
   },
   {
     "uikNumber": 1403,
     "uikTvd": "4764014245610",
     "tikTvd": "2762000926795",
-    "tikName": "Рыбинская - 195"
+    "tikName": "Рыбинская - 195",
+    "uikName": "УИК №1403",
+    "regionCode": "76",
+    "regionTvd": "100100225883693",
+    "regionName": "Ярославская область",
+    "oikTvd": "100100225883695",
+    "oikName": "Ярославская область – Ростовский",
+    "district": {
+      "districtNumber": 195,
+      "oikTvd": "100100225883695"
+    }
   },
   {
     "uikNumber": 1404,
     "uikTvd": "4764014245611",
     "tikTvd": "2762000926795",
-    "tikName": "Рыбинская - 195"
+    "tikName": "Рыбинская - 195",
+    "uikName": "УИК №1404",
+    "regionCode": "76",
+    "regionTvd": "100100225883693",
+    "regionName": "Ярославская область",
+    "oikTvd": "100100225883695",
+    "oikName": "Ярославская область – Ростовский",
+    "district": {
+      "districtNumber": 195,
+      "oikTvd": "100100225883695"
+    }
   },
   {
     "uikNumber": 1405,
     "uikTvd": "4764014245612",
     "tikTvd": "2762000926795",
-    "tikName": "Рыбинская - 195"
+    "tikName": "Рыбинская - 195",
+    "uikName": "УИК №1405",
+    "regionCode": "76",
+    "regionTvd": "100100225883693",
+    "regionName": "Ярославская область",
+    "oikTvd": "100100225883695",
+    "oikName": "Ярославская область – Ростовский",
+    "district": {
+      "districtNumber": 195,
+      "oikTvd": "100100225883695"
+    }
   },
   {
     "uikNumber": 1406,
     "uikTvd": "4764014245613",
     "tikTvd": "2762000926795",
-    "tikName": "Рыбинская - 195"
+    "tikName": "Рыбинская - 195",
+    "uikName": "УИК №1406",
+    "regionCode": "76",
+    "regionTvd": "100100225883693",
+    "regionName": "Ярославская область",
+    "oikTvd": "100100225883695",
+    "oikName": "Ярославская область – Ростовский",
+    "district": {
+      "districtNumber": 195,
+      "oikTvd": "100100225883695"
+    }
   },
   {
     "uikNumber": 1407,
     "uikTvd": "4764014245614",
     "tikTvd": "2762000926795",
-    "tikName": "Рыбинская - 195"
+    "tikName": "Рыбинская - 195",
+    "uikName": "УИК №1407",
+    "regionCode": "76",
+    "regionTvd": "100100225883693",
+    "regionName": "Ярославская область",
+    "oikTvd": "100100225883695",
+    "oikName": "Ярославская область – Ростовский",
+    "district": {
+      "districtNumber": 195,
+      "oikTvd": "100100225883695"
+    }
   },
   {
     "uikNumber": 1408,
     "uikTvd": "4764014245600",
     "tikTvd": "2762000926782",
-    "tikName": "Рыбинская - 194"
+    "tikName": "Рыбинская - 194",
+    "uikName": "УИК №1408",
+    "regionCode": "76",
+    "regionTvd": "100100225883693",
+    "regionName": "Ярославская область",
+    "oikTvd": "100100225883694",
+    "oikName": "Ярославская область – Ярославский",
+    "district": {
+      "districtNumber": 194,
+      "oikTvd": "100100225883694"
+    }
   },
   {
     "uikNumber": 1409,
     "uikTvd": "4764014245601",
     "tikTvd": "2762000926782",
-    "tikName": "Рыбинская - 194"
+    "tikName": "Рыбинская - 194",
+    "uikName": "УИК №1409",
+    "regionCode": "76",
+    "regionTvd": "100100225883693",
+    "regionName": "Ярославская область",
+    "oikTvd": "100100225883694",
+    "oikName": "Ярославская область – Ярославский",
+    "district": {
+      "districtNumber": 194,
+      "oikTvd": "100100225883694"
+    }
   },
   {
     "uikNumber": 1410,
     "uikTvd": "4764014245602",
     "tikTvd": "2762000926782",
-    "tikName": "Рыбинская - 194"
+    "tikName": "Рыбинская - 194",
+    "uikName": "УИК №1410",
+    "regionCode": "76",
+    "regionTvd": "100100225883693",
+    "regionName": "Ярославская область",
+    "oikTvd": "100100225883694",
+    "oikName": "Ярославская область – Ярославский",
+    "district": {
+      "districtNumber": 194,
+      "oikTvd": "100100225883694"
+    }
   },
   {
     "uikNumber": 1411,
     "uikTvd": "4764014245603",
     "tikTvd": "2762000926782",
-    "tikName": "Рыбинская - 194"
+    "tikName": "Рыбинская - 194",
+    "uikName": "УИК №1411",
+    "regionCode": "76",
+    "regionTvd": "100100225883693",
+    "regionName": "Ярославская область",
+    "oikTvd": "100100225883694",
+    "oikName": "Ярославская область – Ярославский",
+    "district": {
+      "districtNumber": 194,
+      "oikTvd": "100100225883694"
+    }
   },
   {
     "uikNumber": 1412,
     "uikTvd": "4764014245604",
     "tikTvd": "2762000926782",
-    "tikName": "Рыбинская - 194"
+    "tikName": "Рыбинская - 194",
+    "uikName": "УИК №1412",
+    "regionCode": "76",
+    "regionTvd": "100100225883693",
+    "regionName": "Ярославская область",
+    "oikTvd": "100100225883694",
+    "oikName": "Ярославская область – Ярославский",
+    "district": {
+      "districtNumber": 194,
+      "oikTvd": "100100225883694"
+    }
   },
   {
     "uikNumber": 1413,
     "uikTvd": "4764014245605",
     "tikTvd": "2762000926782",
-    "tikName": "Рыбинская - 194"
+    "tikName": "Рыбинская - 194",
+    "uikName": "УИК №1413",
+    "regionCode": "76",
+    "regionTvd": "100100225883693",
+    "regionName": "Ярославская область",
+    "oikTvd": "100100225883694",
+    "oikName": "Ярославская область – Ярославский",
+    "district": {
+      "districtNumber": 194,
+      "oikTvd": "100100225883694"
+    }
   },
   {
     "uikNumber": 1414,
     "uikTvd": "4764014245615",
     "tikTvd": "2762000926795",
-    "tikName": "Рыбинская - 195"
+    "tikName": "Рыбинская - 195",
+    "uikName": "УИК №1414",
+    "regionCode": "76",
+    "regionTvd": "100100225883693",
+    "regionName": "Ярославская область",
+    "oikTvd": "100100225883695",
+    "oikName": "Ярославская область – Ростовский",
+    "district": {
+      "districtNumber": 195,
+      "oikTvd": "100100225883695"
+    }
   },
   {
     "uikNumber": 1415,
     "uikTvd": "4764014245616",
     "tikTvd": "2762000926795",
-    "tikName": "Рыбинская - 195"
+    "tikName": "Рыбинская - 195",
+    "uikName": "УИК №1415",
+    "regionCode": "76",
+    "regionTvd": "100100225883693",
+    "regionName": "Ярославская область",
+    "oikTvd": "100100225883695",
+    "oikName": "Ярославская область – Ростовский",
+    "district": {
+      "districtNumber": 195,
+      "oikTvd": "100100225883695"
+    }
   },
   {
     "uikNumber": 1416,
     "uikTvd": "4764014245617",
     "tikTvd": "2762000926795",
-    "tikName": "Рыбинская - 195"
+    "tikName": "Рыбинская - 195",
+    "uikName": "УИК №1416",
+    "regionCode": "76",
+    "regionTvd": "100100225883693",
+    "regionName": "Ярославская область",
+    "oikTvd": "100100225883695",
+    "oikName": "Ярославская область – Ростовский",
+    "district": {
+      "districtNumber": 195,
+      "oikTvd": "100100225883695"
+    }
   },
   {
     "uikNumber": 1417,
     "uikTvd": "4764014245618",
     "tikTvd": "2762000926795",
-    "tikName": "Рыбинская - 195"
+    "tikName": "Рыбинская - 195",
+    "uikName": "УИК №1417",
+    "regionCode": "76",
+    "regionTvd": "100100225883693",
+    "regionName": "Ярославская область",
+    "oikTvd": "100100225883695",
+    "oikName": "Ярославская область – Ростовский",
+    "district": {
+      "districtNumber": 195,
+      "oikTvd": "100100225883695"
+    }
   },
   {
     "uikNumber": 1418,
     "uikTvd": "4764014245619",
     "tikTvd": "2762000926795",
-    "tikName": "Рыбинская - 195"
+    "tikName": "Рыбинская - 195",
+    "uikName": "УИК №1418",
+    "regionCode": "76",
+    "regionTvd": "100100225883693",
+    "regionName": "Ярославская область",
+    "oikTvd": "100100225883695",
+    "oikName": "Ярославская область – Ростовский",
+    "district": {
+      "districtNumber": 195,
+      "oikTvd": "100100225883695"
+    }
   },
   {
     "uikNumber": 1419,
     "uikTvd": "4764014245620",
     "tikTvd": "2762000926795",
-    "tikName": "Рыбинская - 195"
+    "tikName": "Рыбинская - 195",
+    "uikName": "УИК №1419",
+    "regionCode": "76",
+    "regionTvd": "100100225883693",
+    "regionName": "Ярославская область",
+    "oikTvd": "100100225883695",
+    "oikName": "Ярославская область – Ростовский",
+    "district": {
+      "districtNumber": 195,
+      "oikTvd": "100100225883695"
+    }
   },
   {
     "uikNumber": 1420,
     "uikTvd": "4764014245621",
     "tikTvd": "2762000926795",
-    "tikName": "Рыбинская - 195"
+    "tikName": "Рыбинская - 195",
+    "uikName": "УИК №1420",
+    "regionCode": "76",
+    "regionTvd": "100100225883693",
+    "regionName": "Ярославская область",
+    "oikTvd": "100100225883695",
+    "oikName": "Ярославская область – Ростовский",
+    "district": {
+      "districtNumber": 195,
+      "oikTvd": "100100225883695"
+    }
   },
   {
     "uikNumber": 1421,
     "uikTvd": "4764014245607",
     "tikTvd": "2762000926782",
-    "tikName": "Рыбинская - 194"
+    "tikName": "Рыбинская - 194",
+    "uikName": "УИК №1421",
+    "regionCode": "76",
+    "regionTvd": "100100225883693",
+    "regionName": "Ярославская область",
+    "oikTvd": "100100225883694",
+    "oikName": "Ярославская область – Ярославский",
+    "district": {
+      "districtNumber": 194,
+      "oikTvd": "100100225883694"
+    }
   },
   {
     "uikNumber": 1501,
     "uikTvd": "4764015386431",
     "tikTvd": "2762000926781",
-    "tikName": "Тутаевская"
+    "tikName": "Тутаевская",
+    "uikName": "УИК №1501",
+    "regionCode": "76",
+    "regionTvd": "100100225883693",
+    "regionName": "Ярославская область",
+    "oikTvd": "100100225883694",
+    "oikName": "Ярославская область – Ярославский",
+    "district": {
+      "districtNumber": 194,
+      "oikTvd": "100100225883694"
+    }
   },
   {
     "uikNumber": 1502,
     "uikTvd": "4764015386432",
     "tikTvd": "2762000926781",
-    "tikName": "Тутаевская"
+    "tikName": "Тутаевская",
+    "uikName": "УИК №1502",
+    "regionCode": "76",
+    "regionTvd": "100100225883693",
+    "regionName": "Ярославская область",
+    "oikTvd": "100100225883694",
+    "oikName": "Ярославская область – Ярославский",
+    "district": {
+      "districtNumber": 194,
+      "oikTvd": "100100225883694"
+    }
   },
   {
     "uikNumber": 1503,
     "uikTvd": "4764015386433",
     "tikTvd": "2762000926781",
-    "tikName": "Тутаевская"
+    "tikName": "Тутаевская",
+    "uikName": "УИК №1503",
+    "regionCode": "76",
+    "regionTvd": "100100225883693",
+    "regionName": "Ярославская область",
+    "oikTvd": "100100225883694",
+    "oikName": "Ярославская область – Ярославский",
+    "district": {
+      "districtNumber": 194,
+      "oikTvd": "100100225883694"
+    }
   },
   {
     "uikNumber": 1504,
     "uikTvd": "4764015386434",
     "tikTvd": "2762000926781",
-    "tikName": "Тутаевская"
+    "tikName": "Тутаевская",
+    "uikName": "УИК №1504",
+    "regionCode": "76",
+    "regionTvd": "100100225883693",
+    "regionName": "Ярославская область",
+    "oikTvd": "100100225883694",
+    "oikName": "Ярославская область – Ярославский",
+    "district": {
+      "districtNumber": 194,
+      "oikTvd": "100100225883694"
+    }
   },
   {
     "uikNumber": 1505,
     "uikTvd": "4764015386435",
     "tikTvd": "2762000926781",
-    "tikName": "Тутаевская"
+    "tikName": "Тутаевская",
+    "uikName": "УИК №1505",
+    "regionCode": "76",
+    "regionTvd": "100100225883693",
+    "regionName": "Ярославская область",
+    "oikTvd": "100100225883694",
+    "oikName": "Ярославская область – Ярославский",
+    "district": {
+      "districtNumber": 194,
+      "oikTvd": "100100225883694"
+    }
   },
   {
     "uikNumber": 1506,
     "uikTvd": "4764015386436",
     "tikTvd": "2762000926781",
-    "tikName": "Тутаевская"
+    "tikName": "Тутаевская",
+    "uikName": "УИК №1506",
+    "regionCode": "76",
+    "regionTvd": "100100225883693",
+    "regionName": "Ярославская область",
+    "oikTvd": "100100225883694",
+    "oikName": "Ярославская область – Ярославский",
+    "district": {
+      "districtNumber": 194,
+      "oikTvd": "100100225883694"
+    }
   },
   {
     "uikNumber": 1507,
     "uikTvd": "4764015386437",
     "tikTvd": "2762000926781",
-    "tikName": "Тутаевская"
+    "tikName": "Тутаевская",
+    "uikName": "УИК №1507",
+    "regionCode": "76",
+    "regionTvd": "100100225883693",
+    "regionName": "Ярославская область",
+    "oikTvd": "100100225883694",
+    "oikName": "Ярославская область – Ярославский",
+    "district": {
+      "districtNumber": 194,
+      "oikTvd": "100100225883694"
+    }
   },
   {
     "uikNumber": 1508,
     "uikTvd": "4764015386438",
     "tikTvd": "2762000926781",
-    "tikName": "Тутаевская"
+    "tikName": "Тутаевская",
+    "uikName": "УИК №1508",
+    "regionCode": "76",
+    "regionTvd": "100100225883693",
+    "regionName": "Ярославская область",
+    "oikTvd": "100100225883694",
+    "oikName": "Ярославская область – Ярославский",
+    "district": {
+      "districtNumber": 194,
+      "oikTvd": "100100225883694"
+    }
   },
   {
     "uikNumber": 1509,
     "uikTvd": "4764015386439",
     "tikTvd": "2762000926781",
-    "tikName": "Тутаевская"
+    "tikName": "Тутаевская",
+    "uikName": "УИК №1509",
+    "regionCode": "76",
+    "regionTvd": "100100225883693",
+    "regionName": "Ярославская область",
+    "oikTvd": "100100225883694",
+    "oikName": "Ярославская область – Ярославский",
+    "district": {
+      "districtNumber": 194,
+      "oikTvd": "100100225883694"
+    }
   },
   {
     "uikNumber": 1510,
     "uikTvd": "4764015386440",
     "tikTvd": "2762000926781",
-    "tikName": "Тутаевская"
+    "tikName": "Тутаевская",
+    "uikName": "УИК №1510",
+    "regionCode": "76",
+    "regionTvd": "100100225883693",
+    "regionName": "Ярославская область",
+    "oikTvd": "100100225883694",
+    "oikName": "Ярославская область – Ярославский",
+    "district": {
+      "districtNumber": 194,
+      "oikTvd": "100100225883694"
+    }
   },
   {
     "uikNumber": 1511,
     "uikTvd": "4764015386441",
     "tikTvd": "2762000926781",
-    "tikName": "Тутаевская"
+    "tikName": "Тутаевская",
+    "uikName": "УИК №1511",
+    "regionCode": "76",
+    "regionTvd": "100100225883693",
+    "regionName": "Ярославская область",
+    "oikTvd": "100100225883694",
+    "oikName": "Ярославская область – Ярославский",
+    "district": {
+      "districtNumber": 194,
+      "oikTvd": "100100225883694"
+    }
   },
   {
     "uikNumber": 1512,
     "uikTvd": "4764015386442",
     "tikTvd": "2762000926781",
-    "tikName": "Тутаевская"
+    "tikName": "Тутаевская",
+    "uikName": "УИК №1512",
+    "regionCode": "76",
+    "regionTvd": "100100225883693",
+    "regionName": "Ярославская область",
+    "oikTvd": "100100225883694",
+    "oikName": "Ярославская область – Ярославский",
+    "district": {
+      "districtNumber": 194,
+      "oikTvd": "100100225883694"
+    }
   },
   {
     "uikNumber": 1513,
     "uikTvd": "4764015386443",
     "tikTvd": "2762000926781",
-    "tikName": "Тутаевская"
+    "tikName": "Тутаевская",
+    "uikName": "УИК №1513",
+    "regionCode": "76",
+    "regionTvd": "100100225883693",
+    "regionName": "Ярославская область",
+    "oikTvd": "100100225883694",
+    "oikName": "Ярославская область – Ярославский",
+    "district": {
+      "districtNumber": 194,
+      "oikTvd": "100100225883694"
+    }
   },
   {
     "uikNumber": 1514,
     "uikTvd": "4764015386444",
     "tikTvd": "2762000926781",
-    "tikName": "Тутаевская"
+    "tikName": "Тутаевская",
+    "uikName": "УИК №1514",
+    "regionCode": "76",
+    "regionTvd": "100100225883693",
+    "regionName": "Ярославская область",
+    "oikTvd": "100100225883694",
+    "oikName": "Ярославская область – Ярославский",
+    "district": {
+      "districtNumber": 194,
+      "oikTvd": "100100225883694"
+    }
   },
   {
     "uikNumber": 1515,
     "uikTvd": "4764015386445",
     "tikTvd": "2762000926781",
-    "tikName": "Тутаевская"
+    "tikName": "Тутаевская",
+    "uikName": "УИК №1515",
+    "regionCode": "76",
+    "regionTvd": "100100225883693",
+    "regionName": "Ярославская область",
+    "oikTvd": "100100225883694",
+    "oikName": "Ярославская область – Ярославский",
+    "district": {
+      "districtNumber": 194,
+      "oikTvd": "100100225883694"
+    }
   },
   {
     "uikNumber": 1516,
     "uikTvd": "4764015386446",
     "tikTvd": "2762000926781",
-    "tikName": "Тутаевская"
+    "tikName": "Тутаевская",
+    "uikName": "УИК №1516",
+    "regionCode": "76",
+    "regionTvd": "100100225883693",
+    "regionName": "Ярославская область",
+    "oikTvd": "100100225883694",
+    "oikName": "Ярославская область – Ярославский",
+    "district": {
+      "districtNumber": 194,
+      "oikTvd": "100100225883694"
+    }
   },
   {
     "uikNumber": 1517,
     "uikTvd": "4764015386447",
     "tikTvd": "2762000926781",
-    "tikName": "Тутаевская"
+    "tikName": "Тутаевская",
+    "uikName": "УИК №1517",
+    "regionCode": "76",
+    "regionTvd": "100100225883693",
+    "regionName": "Ярославская область",
+    "oikTvd": "100100225883694",
+    "oikName": "Ярославская область – Ярославский",
+    "district": {
+      "districtNumber": 194,
+      "oikTvd": "100100225883694"
+    }
   },
   {
     "uikNumber": 1518,
     "uikTvd": "4764015386448",
     "tikTvd": "2762000926781",
-    "tikName": "Тутаевская"
+    "tikName": "Тутаевская",
+    "uikName": "УИК №1518",
+    "regionCode": "76",
+    "regionTvd": "100100225883693",
+    "regionName": "Ярославская область",
+    "oikTvd": "100100225883694",
+    "oikName": "Ярославская область – Ярославский",
+    "district": {
+      "districtNumber": 194,
+      "oikTvd": "100100225883694"
+    }
   },
   {
     "uikNumber": 1519,
     "uikTvd": "4764015386449",
     "tikTvd": "2762000926781",
-    "tikName": "Тутаевская"
+    "tikName": "Тутаевская",
+    "uikName": "УИК №1519",
+    "regionCode": "76",
+    "regionTvd": "100100225883693",
+    "regionName": "Ярославская область",
+    "oikTvd": "100100225883694",
+    "oikName": "Ярославская область – Ярославский",
+    "district": {
+      "districtNumber": 194,
+      "oikTvd": "100100225883694"
+    }
   },
   {
     "uikNumber": 1520,
     "uikTvd": "4764015386450",
     "tikTvd": "2762000926781",
-    "tikName": "Тутаевская"
+    "tikName": "Тутаевская",
+    "uikName": "УИК №1520",
+    "regionCode": "76",
+    "regionTvd": "100100225883693",
+    "regionName": "Ярославская область",
+    "oikTvd": "100100225883694",
+    "oikName": "Ярославская область – Ярославский",
+    "district": {
+      "districtNumber": 194,
+      "oikTvd": "100100225883694"
+    }
   },
   {
     "uikNumber": 1521,
     "uikTvd": "4764015386451",
     "tikTvd": "2762000926781",
-    "tikName": "Тутаевская"
+    "tikName": "Тутаевская",
+    "uikName": "УИК №1521",
+    "regionCode": "76",
+    "regionTvd": "100100225883693",
+    "regionName": "Ярославская область",
+    "oikTvd": "100100225883694",
+    "oikName": "Ярославская область – Ярославский",
+    "district": {
+      "districtNumber": 194,
+      "oikTvd": "100100225883694"
+    }
   },
   {
     "uikNumber": 1522,
     "uikTvd": "4764015386452",
     "tikTvd": "2762000926781",
-    "tikName": "Тутаевская"
+    "tikName": "Тутаевская",
+    "uikName": "УИК №1522",
+    "regionCode": "76",
+    "regionTvd": "100100225883693",
+    "regionName": "Ярославская область",
+    "oikTvd": "100100225883694",
+    "oikName": "Ярославская область – Ярославский",
+    "district": {
+      "districtNumber": 194,
+      "oikTvd": "100100225883694"
+    }
   },
   {
     "uikNumber": 1523,
     "uikTvd": "4764015386453",
     "tikTvd": "2762000926781",
-    "tikName": "Тутаевская"
+    "tikName": "Тутаевская",
+    "uikName": "УИК №1523",
+    "regionCode": "76",
+    "regionTvd": "100100225883693",
+    "regionName": "Ярославская область",
+    "oikTvd": "100100225883694",
+    "oikName": "Ярославская область – Ярославский",
+    "district": {
+      "districtNumber": 194,
+      "oikTvd": "100100225883694"
+    }
   },
   {
     "uikNumber": 1524,
     "uikTvd": "4764015386454",
     "tikTvd": "2762000926781",
-    "tikName": "Тутаевская"
+    "tikName": "Тутаевская",
+    "uikName": "УИК №1524",
+    "regionCode": "76",
+    "regionTvd": "100100225883693",
+    "regionName": "Ярославская область",
+    "oikTvd": "100100225883694",
+    "oikName": "Ярославская область – Ярославский",
+    "district": {
+      "districtNumber": 194,
+      "oikTvd": "100100225883694"
+    }
   },
   {
     "uikNumber": 1525,
     "uikTvd": "4764015386455",
     "tikTvd": "2762000926781",
-    "tikName": "Тутаевская"
+    "tikName": "Тутаевская",
+    "uikName": "УИК №1525",
+    "regionCode": "76",
+    "regionTvd": "100100225883693",
+    "regionName": "Ярославская область",
+    "oikTvd": "100100225883694",
+    "oikName": "Ярославская область – Ярославский",
+    "district": {
+      "districtNumber": 194,
+      "oikTvd": "100100225883694"
+    }
   },
   {
     "uikNumber": 1526,
     "uikTvd": "4764015386456",
     "tikTvd": "2762000926781",
-    "tikName": "Тутаевская"
+    "tikName": "Тутаевская",
+    "uikName": "УИК №1526",
+    "regionCode": "76",
+    "regionTvd": "100100225883693",
+    "regionName": "Ярославская область",
+    "oikTvd": "100100225883694",
+    "oikName": "Ярославская область – Ярославский",
+    "district": {
+      "districtNumber": 194,
+      "oikTvd": "100100225883694"
+    }
   },
   {
     "uikNumber": 1527,
     "uikTvd": "4764015386457",
     "tikTvd": "2762000926781",
-    "tikName": "Тутаевская"
+    "tikName": "Тутаевская",
+    "uikName": "УИК №1527",
+    "regionCode": "76",
+    "regionTvd": "100100225883693",
+    "regionName": "Ярославская область",
+    "oikTvd": "100100225883694",
+    "oikName": "Ярославская область – Ярославский",
+    "district": {
+      "districtNumber": 194,
+      "oikTvd": "100100225883694"
+    }
   },
   {
     "uikNumber": 1528,
     "uikTvd": "4764015386458",
     "tikTvd": "2762000926781",
-    "tikName": "Тутаевская"
+    "tikName": "Тутаевская",
+    "uikName": "УИК №1528",
+    "regionCode": "76",
+    "regionTvd": "100100225883693",
+    "regionName": "Ярославская область",
+    "oikTvd": "100100225883694",
+    "oikName": "Ярославская область – Ярославский",
+    "district": {
+      "districtNumber": 194,
+      "oikTvd": "100100225883694"
+    }
   },
   {
     "uikNumber": 1529,
     "uikTvd": "4764015386459",
     "tikTvd": "2762000926781",
-    "tikName": "Тутаевская"
+    "tikName": "Тутаевская",
+    "uikName": "УИК №1529",
+    "regionCode": "76",
+    "regionTvd": "100100225883693",
+    "regionName": "Ярославская область",
+    "oikTvd": "100100225883694",
+    "oikName": "Ярославская область – Ярославский",
+    "district": {
+      "districtNumber": 194,
+      "oikTvd": "100100225883694"
+    }
   },
   {
     "uikNumber": 1530,
     "uikTvd": "4764015386460",
     "tikTvd": "2762000926781",
-    "tikName": "Тутаевская"
+    "tikName": "Тутаевская",
+    "uikName": "УИК №1530",
+    "regionCode": "76",
+    "regionTvd": "100100225883693",
+    "regionName": "Ярославская область",
+    "oikTvd": "100100225883694",
+    "oikName": "Ярославская область – Ярославский",
+    "district": {
+      "districtNumber": 194,
+      "oikTvd": "100100225883694"
+    }
   },
   {
     "uikNumber": 1531,
     "uikTvd": "4764015386461",
     "tikTvd": "2762000926781",
-    "tikName": "Тутаевская"
+    "tikName": "Тутаевская",
+    "uikName": "УИК №1531",
+    "regionCode": "76",
+    "regionTvd": "100100225883693",
+    "regionName": "Ярославская область",
+    "oikTvd": "100100225883694",
+    "oikName": "Ярославская область – Ярославский",
+    "district": {
+      "districtNumber": 194,
+      "oikTvd": "100100225883694"
+    }
   },
   {
     "uikNumber": 1532,
     "uikTvd": "4764015386462",
     "tikTvd": "2762000926781",
-    "tikName": "Тутаевская"
+    "tikName": "Тутаевская",
+    "uikName": "УИК №1532",
+    "regionCode": "76",
+    "regionTvd": "100100225883693",
+    "regionName": "Ярославская область",
+    "oikTvd": "100100225883694",
+    "oikName": "Ярославская область – Ярославский",
+    "district": {
+      "districtNumber": 194,
+      "oikTvd": "100100225883694"
+    }
   },
   {
     "uikNumber": 1533,
     "uikTvd": "4764015386463",
     "tikTvd": "2762000926781",
-    "tikName": "Тутаевская"
+    "tikName": "Тутаевская",
+    "uikName": "УИК №1533",
+    "regionCode": "76",
+    "regionTvd": "100100225883693",
+    "regionName": "Ярославская область",
+    "oikTvd": "100100225883694",
+    "oikName": "Ярославская область – Ярославский",
+    "district": {
+      "districtNumber": 194,
+      "oikTvd": "100100225883694"
+    }
   },
   {
     "uikNumber": 1534,
     "uikTvd": "4764015386464",
     "tikTvd": "2762000926781",
-    "tikName": "Тутаевская"
+    "tikName": "Тутаевская",
+    "uikName": "УИК №1534",
+    "regionCode": "76",
+    "regionTvd": "100100225883693",
+    "regionName": "Ярославская область",
+    "oikTvd": "100100225883694",
+    "oikName": "Ярославская область – Ярославский",
+    "district": {
+      "districtNumber": 194,
+      "oikTvd": "100100225883694"
+    }
   },
   {
     "uikNumber": 1535,
     "uikTvd": "4764015386465",
     "tikTvd": "2762000926781",
-    "tikName": "Тутаевская"
+    "tikName": "Тутаевская",
+    "uikName": "УИК №1535",
+    "regionCode": "76",
+    "regionTvd": "100100225883693",
+    "regionName": "Ярославская область",
+    "oikTvd": "100100225883694",
+    "oikName": "Ярославская область – Ярославский",
+    "district": {
+      "districtNumber": 194,
+      "oikTvd": "100100225883694"
+    }
   },
   {
     "uikNumber": 1536,
     "uikTvd": "4764015386466",
     "tikTvd": "2762000926781",
-    "tikName": "Тутаевская"
+    "tikName": "Тутаевская",
+    "uikName": "УИК №1536",
+    "regionCode": "76",
+    "regionTvd": "100100225883693",
+    "regionName": "Ярославская область",
+    "oikTvd": "100100225883694",
+    "oikName": "Ярославская область – Ярославский",
+    "district": {
+      "districtNumber": 194,
+      "oikTvd": "100100225883694"
+    }
   },
   {
     "uikNumber": 1537,
     "uikTvd": "4764015386467",
     "tikTvd": "2762000926781",
-    "tikName": "Тутаевская"
+    "tikName": "Тутаевская",
+    "uikName": "УИК №1537",
+    "regionCode": "76",
+    "regionTvd": "100100225883693",
+    "regionName": "Ярославская область",
+    "oikTvd": "100100225883694",
+    "oikName": "Ярославская область – Ярославский",
+    "district": {
+      "districtNumber": 194,
+      "oikTvd": "100100225883694"
+    }
   },
   {
     "uikNumber": 1538,
     "uikTvd": "4764015386468",
     "tikTvd": "2762000926781",
-    "tikName": "Тутаевская"
+    "tikName": "Тутаевская",
+    "uikName": "УИК №1538",
+    "regionCode": "76",
+    "regionTvd": "100100225883693",
+    "regionName": "Ярославская область",
+    "oikTvd": "100100225883694",
+    "oikName": "Ярославская область – Ярославский",
+    "district": {
+      "districtNumber": 194,
+      "oikTvd": "100100225883694"
+    }
   },
   {
     "uikNumber": 1539,
     "uikTvd": "4764015386469",
     "tikTvd": "2762000926781",
-    "tikName": "Тутаевская"
+    "tikName": "Тутаевская",
+    "uikName": "УИК №1539",
+    "regionCode": "76",
+    "regionTvd": "100100225883693",
+    "regionName": "Ярославская область",
+    "oikTvd": "100100225883694",
+    "oikName": "Ярославская область – Ярославский",
+    "district": {
+      "districtNumber": 194,
+      "oikTvd": "100100225883694"
+    }
   },
   {
     "uikNumber": 1601,
     "uikTvd": "4764016271459",
     "tikTvd": "2762000926794",
-    "tikName": "Угличская"
+    "tikName": "Угличская",
+    "uikName": "УИК №1601",
+    "regionCode": "76",
+    "regionTvd": "100100225883693",
+    "regionName": "Ярославская область",
+    "oikTvd": "100100225883695",
+    "oikName": "Ярославская область – Ростовский",
+    "district": {
+      "districtNumber": 195,
+      "oikTvd": "100100225883695"
+    }
   },
   {
     "uikNumber": 1602,
     "uikTvd": "4764016271460",
     "tikTvd": "2762000926794",
-    "tikName": "Угличская"
+    "tikName": "Угличская",
+    "uikName": "УИК №1602",
+    "regionCode": "76",
+    "regionTvd": "100100225883693",
+    "regionName": "Ярославская область",
+    "oikTvd": "100100225883695",
+    "oikName": "Ярославская область – Ростовский",
+    "district": {
+      "districtNumber": 195,
+      "oikTvd": "100100225883695"
+    }
   },
   {
     "uikNumber": 1603,
     "uikTvd": "4764016271461",
     "tikTvd": "2762000926794",
-    "tikName": "Угличская"
+    "tikName": "Угличская",
+    "uikName": "УИК №1603",
+    "regionCode": "76",
+    "regionTvd": "100100225883693",
+    "regionName": "Ярославская область",
+    "oikTvd": "100100225883695",
+    "oikName": "Ярославская область – Ростовский",
+    "district": {
+      "districtNumber": 195,
+      "oikTvd": "100100225883695"
+    }
   },
   {
     "uikNumber": 1604,
     "uikTvd": "4764016271462",
     "tikTvd": "2762000926794",
-    "tikName": "Угличская"
+    "tikName": "Угличская",
+    "uikName": "УИК №1604",
+    "regionCode": "76",
+    "regionTvd": "100100225883693",
+    "regionName": "Ярославская область",
+    "oikTvd": "100100225883695",
+    "oikName": "Ярославская область – Ростовский",
+    "district": {
+      "districtNumber": 195,
+      "oikTvd": "100100225883695"
+    }
   },
   {
     "uikNumber": 1605,
     "uikTvd": "4764016271463",
     "tikTvd": "2762000926794",
-    "tikName": "Угличская"
+    "tikName": "Угличская",
+    "uikName": "УИК №1605",
+    "regionCode": "76",
+    "regionTvd": "100100225883693",
+    "regionName": "Ярославская область",
+    "oikTvd": "100100225883695",
+    "oikName": "Ярославская область – Ростовский",
+    "district": {
+      "districtNumber": 195,
+      "oikTvd": "100100225883695"
+    }
   },
   {
     "uikNumber": 1606,
     "uikTvd": "4764016271464",
     "tikTvd": "2762000926794",
-    "tikName": "Угличская"
+    "tikName": "Угличская",
+    "uikName": "УИК №1606",
+    "regionCode": "76",
+    "regionTvd": "100100225883693",
+    "regionName": "Ярославская область",
+    "oikTvd": "100100225883695",
+    "oikName": "Ярославская область – Ростовский",
+    "district": {
+      "districtNumber": 195,
+      "oikTvd": "100100225883695"
+    }
   },
   {
     "uikNumber": 1607,
     "uikTvd": "4764016271465",
     "tikTvd": "2762000926794",
-    "tikName": "Угличская"
+    "tikName": "Угличская",
+    "uikName": "УИК №1607",
+    "regionCode": "76",
+    "regionTvd": "100100225883693",
+    "regionName": "Ярославская область",
+    "oikTvd": "100100225883695",
+    "oikName": "Ярославская область – Ростовский",
+    "district": {
+      "districtNumber": 195,
+      "oikTvd": "100100225883695"
+    }
   },
   {
     "uikNumber": 1608,
     "uikTvd": "4764016271466",
     "tikTvd": "2762000926794",
-    "tikName": "Угличская"
+    "tikName": "Угличская",
+    "uikName": "УИК №1608",
+    "regionCode": "76",
+    "regionTvd": "100100225883693",
+    "regionName": "Ярославская область",
+    "oikTvd": "100100225883695",
+    "oikName": "Ярославская область – Ростовский",
+    "district": {
+      "districtNumber": 195,
+      "oikTvd": "100100225883695"
+    }
   },
   {
     "uikNumber": 1609,
     "uikTvd": "4764016271467",
     "tikTvd": "2762000926794",
-    "tikName": "Угличская"
+    "tikName": "Угличская",
+    "uikName": "УИК №1609",
+    "regionCode": "76",
+    "regionTvd": "100100225883693",
+    "regionName": "Ярославская область",
+    "oikTvd": "100100225883695",
+    "oikName": "Ярославская область – Ростовский",
+    "district": {
+      "districtNumber": 195,
+      "oikTvd": "100100225883695"
+    }
   },
   {
     "uikNumber": 1610,
     "uikTvd": "4764016271468",
     "tikTvd": "2762000926794",
-    "tikName": "Угличская"
+    "tikName": "Угличская",
+    "uikName": "УИК №1610",
+    "regionCode": "76",
+    "regionTvd": "100100225883693",
+    "regionName": "Ярославская область",
+    "oikTvd": "100100225883695",
+    "oikName": "Ярославская область – Ростовский",
+    "district": {
+      "districtNumber": 195,
+      "oikTvd": "100100225883695"
+    }
   },
   {
     "uikNumber": 1611,
     "uikTvd": "4764016271469",
     "tikTvd": "2762000926794",
-    "tikName": "Угличская"
+    "tikName": "Угличская",
+    "uikName": "УИК №1611",
+    "regionCode": "76",
+    "regionTvd": "100100225883693",
+    "regionName": "Ярославская область",
+    "oikTvd": "100100225883695",
+    "oikName": "Ярославская область – Ростовский",
+    "district": {
+      "districtNumber": 195,
+      "oikTvd": "100100225883695"
+    }
   },
   {
     "uikNumber": 1612,
     "uikTvd": "4764016271470",
     "tikTvd": "2762000926794",
-    "tikName": "Угличская"
+    "tikName": "Угличская",
+    "uikName": "УИК №1612",
+    "regionCode": "76",
+    "regionTvd": "100100225883693",
+    "regionName": "Ярославская область",
+    "oikTvd": "100100225883695",
+    "oikName": "Ярославская область – Ростовский",
+    "district": {
+      "districtNumber": 195,
+      "oikTvd": "100100225883695"
+    }
   },
   {
     "uikNumber": 1613,
     "uikTvd": "4764016271471",
     "tikTvd": "2762000926794",
-    "tikName": "Угличская"
+    "tikName": "Угличская",
+    "uikName": "УИК №1613",
+    "regionCode": "76",
+    "regionTvd": "100100225883693",
+    "regionName": "Ярославская область",
+    "oikTvd": "100100225883695",
+    "oikName": "Ярославская область – Ростовский",
+    "district": {
+      "districtNumber": 195,
+      "oikTvd": "100100225883695"
+    }
   },
   {
     "uikNumber": 1614,
     "uikTvd": "4764016271472",
     "tikTvd": "2762000926794",
-    "tikName": "Угличская"
+    "tikName": "Угличская",
+    "uikName": "УИК №1614",
+    "regionCode": "76",
+    "regionTvd": "100100225883693",
+    "regionName": "Ярославская область",
+    "oikTvd": "100100225883695",
+    "oikName": "Ярославская область – Ростовский",
+    "district": {
+      "districtNumber": 195,
+      "oikTvd": "100100225883695"
+    }
   },
   {
     "uikNumber": 1615,
     "uikTvd": "4764016271473",
     "tikTvd": "2762000926794",
-    "tikName": "Угличская"
+    "tikName": "Угличская",
+    "uikName": "УИК №1615",
+    "regionCode": "76",
+    "regionTvd": "100100225883693",
+    "regionName": "Ярославская область",
+    "oikTvd": "100100225883695",
+    "oikName": "Ярославская область – Ростовский",
+    "district": {
+      "districtNumber": 195,
+      "oikTvd": "100100225883695"
+    }
   },
   {
     "uikNumber": 1616,
     "uikTvd": "4764016271474",
     "tikTvd": "2762000926794",
-    "tikName": "Угличская"
+    "tikName": "Угличская",
+    "uikName": "УИК №1616",
+    "regionCode": "76",
+    "regionTvd": "100100225883693",
+    "regionName": "Ярославская область",
+    "oikTvd": "100100225883695",
+    "oikName": "Ярославская область – Ростовский",
+    "district": {
+      "districtNumber": 195,
+      "oikTvd": "100100225883695"
+    }
   },
   {
     "uikNumber": 1617,
     "uikTvd": "4764016271475",
     "tikTvd": "2762000926794",
-    "tikName": "Угличская"
+    "tikName": "Угличская",
+    "uikName": "УИК №1617",
+    "regionCode": "76",
+    "regionTvd": "100100225883693",
+    "regionName": "Ярославская область",
+    "oikTvd": "100100225883695",
+    "oikName": "Ярославская область – Ростовский",
+    "district": {
+      "districtNumber": 195,
+      "oikTvd": "100100225883695"
+    }
   },
   {
     "uikNumber": 1618,
     "uikTvd": "4764016271476",
     "tikTvd": "2762000926794",
-    "tikName": "Угличская"
+    "tikName": "Угличская",
+    "uikName": "УИК №1618",
+    "regionCode": "76",
+    "regionTvd": "100100225883693",
+    "regionName": "Ярославская область",
+    "oikTvd": "100100225883695",
+    "oikName": "Ярославская область – Ростовский",
+    "district": {
+      "districtNumber": 195,
+      "oikTvd": "100100225883695"
+    }
   },
   {
     "uikNumber": 1619,
     "uikTvd": "4764016271477",
     "tikTvd": "2762000926794",
-    "tikName": "Угличская"
+    "tikName": "Угличская",
+    "uikName": "УИК №1619",
+    "regionCode": "76",
+    "regionTvd": "100100225883693",
+    "regionName": "Ярославская область",
+    "oikTvd": "100100225883695",
+    "oikName": "Ярославская область – Ростовский",
+    "district": {
+      "districtNumber": 195,
+      "oikTvd": "100100225883695"
+    }
   },
   {
     "uikNumber": 1620,
     "uikTvd": "4764016271478",
     "tikTvd": "2762000926794",
-    "tikName": "Угличская"
+    "tikName": "Угличская",
+    "uikName": "УИК №1620",
+    "regionCode": "76",
+    "regionTvd": "100100225883693",
+    "regionName": "Ярославская область",
+    "oikTvd": "100100225883695",
+    "oikName": "Ярославская область – Ростовский",
+    "district": {
+      "districtNumber": 195,
+      "oikTvd": "100100225883695"
+    }
   },
   {
     "uikNumber": 1621,
     "uikTvd": "4764016271479",
     "tikTvd": "2762000926794",
-    "tikName": "Угличская"
+    "tikName": "Угличская",
+    "uikName": "УИК №1621",
+    "regionCode": "76",
+    "regionTvd": "100100225883693",
+    "regionName": "Ярославская область",
+    "oikTvd": "100100225883695",
+    "oikName": "Ярославская область – Ростовский",
+    "district": {
+      "districtNumber": 195,
+      "oikTvd": "100100225883695"
+    }
   },
   {
     "uikNumber": 1622,
     "uikTvd": "4764016271480",
     "tikTvd": "2762000926794",
-    "tikName": "Угличская"
+    "tikName": "Угличская",
+    "uikName": "УИК №1622",
+    "regionCode": "76",
+    "regionTvd": "100100225883693",
+    "regionName": "Ярославская область",
+    "oikTvd": "100100225883695",
+    "oikName": "Ярославская область – Ростовский",
+    "district": {
+      "districtNumber": 195,
+      "oikTvd": "100100225883695"
+    }
   },
   {
     "uikNumber": 1623,
     "uikTvd": "4764016271481",
     "tikTvd": "2762000926794",
-    "tikName": "Угличская"
+    "tikName": "Угличская",
+    "uikName": "УИК №1623",
+    "regionCode": "76",
+    "regionTvd": "100100225883693",
+    "regionName": "Ярославская область",
+    "oikTvd": "100100225883695",
+    "oikName": "Ярославская область – Ростовский",
+    "district": {
+      "districtNumber": 195,
+      "oikTvd": "100100225883695"
+    }
   },
   {
     "uikNumber": 1624,
     "uikTvd": "4764016271482",
     "tikTvd": "2762000926794",
-    "tikName": "Угличская"
+    "tikName": "Угличская",
+    "uikName": "УИК №1624",
+    "regionCode": "76",
+    "regionTvd": "100100225883693",
+    "regionName": "Ярославская область",
+    "oikTvd": "100100225883695",
+    "oikName": "Ярославская область – Ростовский",
+    "district": {
+      "districtNumber": 195,
+      "oikTvd": "100100225883695"
+    }
   },
   {
     "uikNumber": 1625,
     "uikTvd": "4764016271483",
     "tikTvd": "2762000926794",
-    "tikName": "Угличская"
+    "tikName": "Угличская",
+    "uikName": "УИК №1625",
+    "regionCode": "76",
+    "regionTvd": "100100225883693",
+    "regionName": "Ярославская область",
+    "oikTvd": "100100225883695",
+    "oikName": "Ярославская область – Ростовский",
+    "district": {
+      "districtNumber": 195,
+      "oikTvd": "100100225883695"
+    }
   },
   {
     "uikNumber": 1626,
     "uikTvd": "4764016271484",
     "tikTvd": "2762000926794",
-    "tikName": "Угличская"
+    "tikName": "Угличская",
+    "uikName": "УИК №1626",
+    "regionCode": "76",
+    "regionTvd": "100100225883693",
+    "regionName": "Ярославская область",
+    "oikTvd": "100100225883695",
+    "oikName": "Ярославская область – Ростовский",
+    "district": {
+      "districtNumber": 195,
+      "oikTvd": "100100225883695"
+    }
   },
   {
     "uikNumber": 1627,
     "uikTvd": "4764016271485",
     "tikTvd": "2762000926794",
-    "tikName": "Угличская"
+    "tikName": "Угличская",
+    "uikName": "УИК №1627",
+    "regionCode": "76",
+    "regionTvd": "100100225883693",
+    "regionName": "Ярославская область",
+    "oikTvd": "100100225883695",
+    "oikName": "Ярославская область – Ростовский",
+    "district": {
+      "districtNumber": 195,
+      "oikTvd": "100100225883695"
+    }
   },
   {
     "uikNumber": 1628,
     "uikTvd": "4764016271486",
     "tikTvd": "2762000926794",
-    "tikName": "Угличская"
+    "tikName": "Угличская",
+    "uikName": "УИК №1628",
+    "regionCode": "76",
+    "regionTvd": "100100225883693",
+    "regionName": "Ярославская область",
+    "oikTvd": "100100225883695",
+    "oikName": "Ярославская область – Ростовский",
+    "district": {
+      "districtNumber": 195,
+      "oikTvd": "100100225883695"
+    }
   },
   {
     "uikNumber": 1629,
     "uikTvd": "4764016271487",
     "tikTvd": "2762000926794",
-    "tikName": "Угличская"
+    "tikName": "Угличская",
+    "uikName": "УИК №1629",
+    "regionCode": "76",
+    "regionTvd": "100100225883693",
+    "regionName": "Ярославская область",
+    "oikTvd": "100100225883695",
+    "oikName": "Ярославская область – Ростовский",
+    "district": {
+      "districtNumber": 195,
+      "oikTvd": "100100225883695"
+    }
   },
   {
     "uikNumber": 1630,
     "uikTvd": "4764016271488",
     "tikTvd": "2762000926794",
-    "tikName": "Угличская"
+    "tikName": "Угличская",
+    "uikName": "УИК №1630",
+    "regionCode": "76",
+    "regionTvd": "100100225883693",
+    "regionName": "Ярославская область",
+    "oikTvd": "100100225883695",
+    "oikName": "Ярославская область – Ростовский",
+    "district": {
+      "districtNumber": 195,
+      "oikTvd": "100100225883695"
+    }
   },
   {
     "uikNumber": 1631,
     "uikTvd": "4764016271489",
     "tikTvd": "2762000926794",
-    "tikName": "Угличская"
+    "tikName": "Угличская",
+    "uikName": "УИК №1631",
+    "regionCode": "76",
+    "regionTvd": "100100225883693",
+    "regionName": "Ярославская область",
+    "oikTvd": "100100225883695",
+    "oikName": "Ярославская область – Ростовский",
+    "district": {
+      "districtNumber": 195,
+      "oikTvd": "100100225883695"
+    }
   },
   {
     "uikNumber": 1632,
     "uikTvd": "4764016271490",
     "tikTvd": "2762000926794",
-    "tikName": "Угличская"
+    "tikName": "Угличская",
+    "uikName": "УИК №1632",
+    "regionCode": "76",
+    "regionTvd": "100100225883693",
+    "regionName": "Ярославская область",
+    "oikTvd": "100100225883695",
+    "oikName": "Ярославская область – Ростовский",
+    "district": {
+      "districtNumber": 195,
+      "oikTvd": "100100225883695"
+    }
   },
   {
     "uikNumber": 1633,
     "uikTvd": "4764016271491",
     "tikTvd": "2762000926794",
-    "tikName": "Угличская"
+    "tikName": "Угличская",
+    "uikName": "УИК №1633",
+    "regionCode": "76",
+    "regionTvd": "100100225883693",
+    "regionName": "Ярославская область",
+    "oikTvd": "100100225883695",
+    "oikName": "Ярославская область – Ростовский",
+    "district": {
+      "districtNumber": 195,
+      "oikTvd": "100100225883695"
+    }
   },
   {
     "uikNumber": 1634,
     "uikTvd": "4764016271492",
     "tikTvd": "2762000926794",
-    "tikName": "Угличская"
+    "tikName": "Угличская",
+    "uikName": "УИК №1634",
+    "regionCode": "76",
+    "regionTvd": "100100225883693",
+    "regionName": "Ярославская область",
+    "oikTvd": "100100225883695",
+    "oikName": "Ярославская область – Ростовский",
+    "district": {
+      "districtNumber": 195,
+      "oikTvd": "100100225883695"
+    }
   },
   {
     "uikNumber": 1635,
     "uikTvd": "4764016271493",
     "tikTvd": "2762000926794",
-    "tikName": "Угличская"
+    "tikName": "Угличская",
+    "uikName": "УИК №1635",
+    "regionCode": "76",
+    "regionTvd": "100100225883693",
+    "regionName": "Ярославская область",
+    "oikTvd": "100100225883695",
+    "oikName": "Ярославская область – Ростовский",
+    "district": {
+      "districtNumber": 195,
+      "oikTvd": "100100225883695"
+    }
   },
   {
     "uikNumber": 1636,
     "uikTvd": "4764016271494",
     "tikTvd": "2762000926794",
-    "tikName": "Угличская"
+    "tikName": "Угличская",
+    "uikName": "УИК №1636",
+    "regionCode": "76",
+    "regionTvd": "100100225883693",
+    "regionName": "Ярославская область",
+    "oikTvd": "100100225883695",
+    "oikName": "Ярославская область – Ростовский",
+    "district": {
+      "districtNumber": 195,
+      "oikTvd": "100100225883695"
+    }
   },
   {
     "uikNumber": 1637,
     "uikTvd": "4764016271495",
     "tikTvd": "2762000926794",
-    "tikName": "Угличская"
+    "tikName": "Угличская",
+    "uikName": "УИК №1637",
+    "regionCode": "76",
+    "regionTvd": "100100225883693",
+    "regionName": "Ярославская область",
+    "oikTvd": "100100225883695",
+    "oikName": "Ярославская область – Ростовский",
+    "district": {
+      "districtNumber": 195,
+      "oikTvd": "100100225883695"
+    }
   },
   {
     "uikNumber": 1638,
     "uikTvd": "4764016271496",
     "tikTvd": "2762000926794",
-    "tikName": "Угличская"
+    "tikName": "Угличская",
+    "uikName": "УИК №1638",
+    "regionCode": "76",
+    "regionTvd": "100100225883693",
+    "regionName": "Ярославская область",
+    "oikTvd": "100100225883695",
+    "oikName": "Ярославская область – Ростовский",
+    "district": {
+      "districtNumber": 195,
+      "oikTvd": "100100225883695"
+    }
   },
   {
     "uikNumber": 1639,
     "uikTvd": "4764016271497",
     "tikTvd": "2762000926794",
-    "tikName": "Угличская"
+    "tikName": "Угличская",
+    "uikName": "УИК №1639",
+    "regionCode": "76",
+    "regionTvd": "100100225883693",
+    "regionName": "Ярославская область",
+    "oikTvd": "100100225883695",
+    "oikName": "Ярославская область – Ростовский",
+    "district": {
+      "districtNumber": 195,
+      "oikTvd": "100100225883695"
+    }
   },
   {
     "uikNumber": 1640,
     "uikTvd": "4764016271498",
     "tikTvd": "2762000926794",
-    "tikName": "Угличская"
+    "tikName": "Угличская",
+    "uikName": "УИК №1640",
+    "regionCode": "76",
+    "regionTvd": "100100225883693",
+    "regionName": "Ярославская область",
+    "oikTvd": "100100225883695",
+    "oikName": "Ярославская область – Ростовский",
+    "district": {
+      "districtNumber": 195,
+      "oikTvd": "100100225883695"
+    }
   },
   {
     "uikNumber": 1641,
     "uikTvd": "4764016271499",
     "tikTvd": "2762000926794",
-    "tikName": "Угличская"
+    "tikName": "Угличская",
+    "uikName": "УИК №1641",
+    "regionCode": "76",
+    "regionTvd": "100100225883693",
+    "regionName": "Ярославская область",
+    "oikTvd": "100100225883695",
+    "oikName": "Ярославская область – Ростовский",
+    "district": {
+      "districtNumber": 195,
+      "oikTvd": "100100225883695"
+    }
   },
   {
     "uikNumber": 1642,
     "uikTvd": "4764016271500",
     "tikTvd": "2762000926794",
-    "tikName": "Угличская"
+    "tikName": "Угличская",
+    "uikName": "УИК №1642",
+    "regionCode": "76",
+    "regionTvd": "100100225883693",
+    "regionName": "Ярославская область",
+    "oikTvd": "100100225883695",
+    "oikName": "Ярославская область – Ростовский",
+    "district": {
+      "districtNumber": 195,
+      "oikTvd": "100100225883695"
+    }
   },
   {
     "uikNumber": 1643,
     "uikTvd": "4764016271501",
     "tikTvd": "2762000926794",
-    "tikName": "Угличская"
+    "tikName": "Угличская",
+    "uikName": "УИК №1643",
+    "regionCode": "76",
+    "regionTvd": "100100225883693",
+    "regionName": "Ярославская область",
+    "oikTvd": "100100225883695",
+    "oikName": "Ярославская область – Ростовский",
+    "district": {
+      "districtNumber": 195,
+      "oikTvd": "100100225883695"
+    }
   },
   {
     "uikNumber": 1644,
     "uikTvd": "4764016271502",
     "tikTvd": "2762000926794",
-    "tikName": "Угличская"
+    "tikName": "Угличская",
+    "uikName": "УИК №1644",
+    "regionCode": "76",
+    "regionTvd": "100100225883693",
+    "regionName": "Ярославская область",
+    "oikTvd": "100100225883695",
+    "oikName": "Ярославская область – Ростовский",
+    "district": {
+      "districtNumber": 195,
+      "oikTvd": "100100225883695"
+    }
   },
   {
     "uikNumber": 1645,
     "uikTvd": "4764016271503",
     "tikTvd": "2762000926794",
-    "tikName": "Угличская"
+    "tikName": "Угличская",
+    "uikName": "УИК №1645",
+    "regionCode": "76",
+    "regionTvd": "100100225883693",
+    "regionName": "Ярославская область",
+    "oikTvd": "100100225883695",
+    "oikName": "Ярославская область – Ростовский",
+    "district": {
+      "districtNumber": 195,
+      "oikTvd": "100100225883695"
+    }
   },
   {
     "uikNumber": 1646,
     "uikTvd": "4764016271504",
     "tikTvd": "2762000926794",
-    "tikName": "Угличская"
+    "tikName": "Угличская",
+    "uikName": "УИК №1646",
+    "regionCode": "76",
+    "regionTvd": "100100225883693",
+    "regionName": "Ярославская область",
+    "oikTvd": "100100225883695",
+    "oikName": "Ярославская область – Ростовский",
+    "district": {
+      "districtNumber": 195,
+      "oikTvd": "100100225883695"
+    }
   },
   {
     "uikNumber": 1647,
     "uikTvd": "4764016271505",
     "tikTvd": "2762000926794",
-    "tikName": "Угличская"
+    "tikName": "Угличская",
+    "uikName": "УИК №1647",
+    "regionCode": "76",
+    "regionTvd": "100100225883693",
+    "regionName": "Ярославская область",
+    "oikTvd": "100100225883695",
+    "oikName": "Ярославская область – Ростовский",
+    "district": {
+      "districtNumber": 195,
+      "oikTvd": "100100225883695"
+    }
   },
   {
     "uikNumber": 1699,
     "uikTvd": "4764016274680",
     "tikTvd": "2762000926794",
-    "tikName": "Угличская"
+    "tikName": "Угличская",
+    "uikName": "УИК №1699",
+    "regionCode": "76",
+    "regionTvd": "100100225883693",
+    "regionName": "Ярославская область",
+    "oikTvd": "100100225883695",
+    "oikName": "Ярославская область – Ростовский",
+    "district": {
+      "districtNumber": 195,
+      "oikTvd": "100100225883695"
+    }
   },
   {
     "uikNumber": 1701,
     "uikTvd": "4764017315820",
     "tikTvd": "2762000926780",
-    "tikName": "Ярославль, Дзержинская"
+    "tikName": "Ярославль, Дзержинская",
+    "uikName": "УИК №1701",
+    "regionCode": "76",
+    "regionTvd": "100100225883693",
+    "regionName": "Ярославская область",
+    "oikTvd": "100100225883694",
+    "oikName": "Ярославская область – Ярославский",
+    "district": {
+      "districtNumber": 194,
+      "oikTvd": "100100225883694"
+    }
   },
   {
     "uikNumber": 1702,
     "uikTvd": "4764017315821",
     "tikTvd": "2762000926780",
-    "tikName": "Ярославль, Дзержинская"
+    "tikName": "Ярославль, Дзержинская",
+    "uikName": "УИК №1702",
+    "regionCode": "76",
+    "regionTvd": "100100225883693",
+    "regionName": "Ярославская область",
+    "oikTvd": "100100225883694",
+    "oikName": "Ярославская область – Ярославский",
+    "district": {
+      "districtNumber": 194,
+      "oikTvd": "100100225883694"
+    }
   },
   {
     "uikNumber": 1703,
     "uikTvd": "4764017315822",
     "tikTvd": "2762000926780",
-    "tikName": "Ярославль, Дзержинская"
+    "tikName": "Ярославль, Дзержинская",
+    "uikName": "УИК №1703",
+    "regionCode": "76",
+    "regionTvd": "100100225883693",
+    "regionName": "Ярославская область",
+    "oikTvd": "100100225883694",
+    "oikName": "Ярославская область – Ярославский",
+    "district": {
+      "districtNumber": 194,
+      "oikTvd": "100100225883694"
+    }
   },
   {
     "uikNumber": 1704,
     "uikTvd": "4764017315823",
     "tikTvd": "2762000926780",
-    "tikName": "Ярославль, Дзержинская"
+    "tikName": "Ярославль, Дзержинская",
+    "uikName": "УИК №1704",
+    "regionCode": "76",
+    "regionTvd": "100100225883693",
+    "regionName": "Ярославская область",
+    "oikTvd": "100100225883694",
+    "oikName": "Ярославская область – Ярославский",
+    "district": {
+      "districtNumber": 194,
+      "oikTvd": "100100225883694"
+    }
   },
   {
     "uikNumber": 1705,
     "uikTvd": "4764017315824",
     "tikTvd": "2762000926780",
-    "tikName": "Ярославль, Дзержинская"
+    "tikName": "Ярославль, Дзержинская",
+    "uikName": "УИК №1705",
+    "regionCode": "76",
+    "regionTvd": "100100225883693",
+    "regionName": "Ярославская область",
+    "oikTvd": "100100225883694",
+    "oikName": "Ярославская область – Ярославский",
+    "district": {
+      "districtNumber": 194,
+      "oikTvd": "100100225883694"
+    }
   },
   {
     "uikNumber": 1706,
     "uikTvd": "4764017315825",
     "tikTvd": "2762000926780",
-    "tikName": "Ярославль, Дзержинская"
+    "tikName": "Ярославль, Дзержинская",
+    "uikName": "УИК №1706",
+    "regionCode": "76",
+    "regionTvd": "100100225883693",
+    "regionName": "Ярославская область",
+    "oikTvd": "100100225883694",
+    "oikName": "Ярославская область – Ярославский",
+    "district": {
+      "districtNumber": 194,
+      "oikTvd": "100100225883694"
+    }
   },
   {
     "uikNumber": 1707,
     "uikTvd": "4764017315826",
     "tikTvd": "2762000926780",
-    "tikName": "Ярославль, Дзержинская"
+    "tikName": "Ярославль, Дзержинская",
+    "uikName": "УИК №1707",
+    "regionCode": "76",
+    "regionTvd": "100100225883693",
+    "regionName": "Ярославская область",
+    "oikTvd": "100100225883694",
+    "oikName": "Ярославская область – Ярославский",
+    "district": {
+      "districtNumber": 194,
+      "oikTvd": "100100225883694"
+    }
   },
   {
     "uikNumber": 1708,
     "uikTvd": "4764017315827",
     "tikTvd": "2762000926780",
-    "tikName": "Ярославль, Дзержинская"
+    "tikName": "Ярославль, Дзержинская",
+    "uikName": "УИК №1708",
+    "regionCode": "76",
+    "regionTvd": "100100225883693",
+    "regionName": "Ярославская область",
+    "oikTvd": "100100225883694",
+    "oikName": "Ярославская область – Ярославский",
+    "district": {
+      "districtNumber": 194,
+      "oikTvd": "100100225883694"
+    }
   },
   {
     "uikNumber": 1709,
     "uikTvd": "4764017315828",
     "tikTvd": "2762000926780",
-    "tikName": "Ярославль, Дзержинская"
+    "tikName": "Ярославль, Дзержинская",
+    "uikName": "УИК №1709",
+    "regionCode": "76",
+    "regionTvd": "100100225883693",
+    "regionName": "Ярославская область",
+    "oikTvd": "100100225883694",
+    "oikName": "Ярославская область – Ярославский",
+    "district": {
+      "districtNumber": 194,
+      "oikTvd": "100100225883694"
+    }
   },
   {
     "uikNumber": 1710,
     "uikTvd": "4764017315829",
     "tikTvd": "2762000926780",
-    "tikName": "Ярославль, Дзержинская"
+    "tikName": "Ярославль, Дзержинская",
+    "uikName": "УИК №1710",
+    "regionCode": "76",
+    "regionTvd": "100100225883693",
+    "regionName": "Ярославская область",
+    "oikTvd": "100100225883694",
+    "oikName": "Ярославская область – Ярославский",
+    "district": {
+      "districtNumber": 194,
+      "oikTvd": "100100225883694"
+    }
   },
   {
     "uikNumber": 1711,
     "uikTvd": "4764017315830",
     "tikTvd": "2762000926780",
-    "tikName": "Ярославль, Дзержинская"
+    "tikName": "Ярославль, Дзержинская",
+    "uikName": "УИК №1711",
+    "regionCode": "76",
+    "regionTvd": "100100225883693",
+    "regionName": "Ярославская область",
+    "oikTvd": "100100225883694",
+    "oikName": "Ярославская область – Ярославский",
+    "district": {
+      "districtNumber": 194,
+      "oikTvd": "100100225883694"
+    }
   },
   {
     "uikNumber": 1712,
     "uikTvd": "4764017315831",
     "tikTvd": "2762000926780",
-    "tikName": "Ярославль, Дзержинская"
+    "tikName": "Ярославль, Дзержинская",
+    "uikName": "УИК №1712",
+    "regionCode": "76",
+    "regionTvd": "100100225883693",
+    "regionName": "Ярославская область",
+    "oikTvd": "100100225883694",
+    "oikName": "Ярославская область – Ярославский",
+    "district": {
+      "districtNumber": 194,
+      "oikTvd": "100100225883694"
+    }
   },
   {
     "uikNumber": 1713,
     "uikTvd": "4764017315832",
     "tikTvd": "2762000926780",
-    "tikName": "Ярославль, Дзержинская"
+    "tikName": "Ярославль, Дзержинская",
+    "uikName": "УИК №1713",
+    "regionCode": "76",
+    "regionTvd": "100100225883693",
+    "regionName": "Ярославская область",
+    "oikTvd": "100100225883694",
+    "oikName": "Ярославская область – Ярославский",
+    "district": {
+      "districtNumber": 194,
+      "oikTvd": "100100225883694"
+    }
   },
   {
     "uikNumber": 1714,
     "uikTvd": "4764017315833",
     "tikTvd": "2762000926780",
-    "tikName": "Ярославль, Дзержинская"
+    "tikName": "Ярославль, Дзержинская",
+    "uikName": "УИК №1714",
+    "regionCode": "76",
+    "regionTvd": "100100225883693",
+    "regionName": "Ярославская область",
+    "oikTvd": "100100225883694",
+    "oikName": "Ярославская область – Ярославский",
+    "district": {
+      "districtNumber": 194,
+      "oikTvd": "100100225883694"
+    }
   },
   {
     "uikNumber": 1715,
     "uikTvd": "4764017315834",
     "tikTvd": "2762000926780",
-    "tikName": "Ярославль, Дзержинская"
+    "tikName": "Ярославль, Дзержинская",
+    "uikName": "УИК №1715",
+    "regionCode": "76",
+    "regionTvd": "100100225883693",
+    "regionName": "Ярославская область",
+    "oikTvd": "100100225883694",
+    "oikName": "Ярославская область – Ярославский",
+    "district": {
+      "districtNumber": 194,
+      "oikTvd": "100100225883694"
+    }
   },
   {
     "uikNumber": 1716,
     "uikTvd": "4764017315835",
     "tikTvd": "2762000926780",
-    "tikName": "Ярославль, Дзержинская"
+    "tikName": "Ярославль, Дзержинская",
+    "uikName": "УИК №1716",
+    "regionCode": "76",
+    "regionTvd": "100100225883693",
+    "regionName": "Ярославская область",
+    "oikTvd": "100100225883694",
+    "oikName": "Ярославская область – Ярославский",
+    "district": {
+      "districtNumber": 194,
+      "oikTvd": "100100225883694"
+    }
   },
   {
     "uikNumber": 1717,
     "uikTvd": "4764017315836",
     "tikTvd": "2762000926780",
-    "tikName": "Ярославль, Дзержинская"
+    "tikName": "Ярославль, Дзержинская",
+    "uikName": "УИК №1717",
+    "regionCode": "76",
+    "regionTvd": "100100225883693",
+    "regionName": "Ярославская область",
+    "oikTvd": "100100225883694",
+    "oikName": "Ярославская область – Ярославский",
+    "district": {
+      "districtNumber": 194,
+      "oikTvd": "100100225883694"
+    }
   },
   {
     "uikNumber": 1718,
     "uikTvd": "4764017315837",
     "tikTvd": "2762000926780",
-    "tikName": "Ярославль, Дзержинская"
+    "tikName": "Ярославль, Дзержинская",
+    "uikName": "УИК №1718",
+    "regionCode": "76",
+    "regionTvd": "100100225883693",
+    "regionName": "Ярославская область",
+    "oikTvd": "100100225883694",
+    "oikName": "Ярославская область – Ярославский",
+    "district": {
+      "districtNumber": 194,
+      "oikTvd": "100100225883694"
+    }
   },
   {
     "uikNumber": 1719,
     "uikTvd": "4764017315838",
     "tikTvd": "2762000926780",
-    "tikName": "Ярославль, Дзержинская"
+    "tikName": "Ярославль, Дзержинская",
+    "uikName": "УИК №1719",
+    "regionCode": "76",
+    "regionTvd": "100100225883693",
+    "regionName": "Ярославская область",
+    "oikTvd": "100100225883694",
+    "oikName": "Ярославская область – Ярославский",
+    "district": {
+      "districtNumber": 194,
+      "oikTvd": "100100225883694"
+    }
   },
   {
     "uikNumber": 1720,
     "uikTvd": "4764017315839",
     "tikTvd": "2762000926780",
-    "tikName": "Ярославль, Дзержинская"
+    "tikName": "Ярославль, Дзержинская",
+    "uikName": "УИК №1720",
+    "regionCode": "76",
+    "regionTvd": "100100225883693",
+    "regionName": "Ярославская область",
+    "oikTvd": "100100225883694",
+    "oikName": "Ярославская область – Ярославский",
+    "district": {
+      "districtNumber": 194,
+      "oikTvd": "100100225883694"
+    }
   },
   {
     "uikNumber": 1721,
     "uikTvd": "4764017315840",
     "tikTvd": "2762000926780",
-    "tikName": "Ярославль, Дзержинская"
+    "tikName": "Ярославль, Дзержинская",
+    "uikName": "УИК №1721",
+    "regionCode": "76",
+    "regionTvd": "100100225883693",
+    "regionName": "Ярославская область",
+    "oikTvd": "100100225883694",
+    "oikName": "Ярославская область – Ярославский",
+    "district": {
+      "districtNumber": 194,
+      "oikTvd": "100100225883694"
+    }
   },
   {
     "uikNumber": 1722,
     "uikTvd": "4764017315841",
     "tikTvd": "2762000926780",
-    "tikName": "Ярославль, Дзержинская"
+    "tikName": "Ярославль, Дзержинская",
+    "uikName": "УИК №1722",
+    "regionCode": "76",
+    "regionTvd": "100100225883693",
+    "regionName": "Ярославская область",
+    "oikTvd": "100100225883694",
+    "oikName": "Ярославская область – Ярославский",
+    "district": {
+      "districtNumber": 194,
+      "oikTvd": "100100225883694"
+    }
   },
   {
     "uikNumber": 1723,
     "uikTvd": "4764017315842",
     "tikTvd": "2762000926780",
-    "tikName": "Ярославль, Дзержинская"
+    "tikName": "Ярославль, Дзержинская",
+    "uikName": "УИК №1723",
+    "regionCode": "76",
+    "regionTvd": "100100225883693",
+    "regionName": "Ярославская область",
+    "oikTvd": "100100225883694",
+    "oikName": "Ярославская область – Ярославский",
+    "district": {
+      "districtNumber": 194,
+      "oikTvd": "100100225883694"
+    }
   },
   {
     "uikNumber": 1724,
     "uikTvd": "4764017315843",
     "tikTvd": "2762000926780",
-    "tikName": "Ярославль, Дзержинская"
+    "tikName": "Ярославль, Дзержинская",
+    "uikName": "УИК №1724",
+    "regionCode": "76",
+    "regionTvd": "100100225883693",
+    "regionName": "Ярославская область",
+    "oikTvd": "100100225883694",
+    "oikName": "Ярославская область – Ярославский",
+    "district": {
+      "districtNumber": 194,
+      "oikTvd": "100100225883694"
+    }
   },
   {
     "uikNumber": 1725,
     "uikTvd": "4764017315844",
     "tikTvd": "2762000926780",
-    "tikName": "Ярославль, Дзержинская"
+    "tikName": "Ярославль, Дзержинская",
+    "uikName": "УИК №1725",
+    "regionCode": "76",
+    "regionTvd": "100100225883693",
+    "regionName": "Ярославская область",
+    "oikTvd": "100100225883694",
+    "oikName": "Ярославская область – Ярославский",
+    "district": {
+      "districtNumber": 194,
+      "oikTvd": "100100225883694"
+    }
   },
   {
     "uikNumber": 1726,
     "uikTvd": "4764017315845",
     "tikTvd": "2762000926780",
-    "tikName": "Ярославль, Дзержинская"
+    "tikName": "Ярославль, Дзержинская",
+    "uikName": "УИК №1726",
+    "regionCode": "76",
+    "regionTvd": "100100225883693",
+    "regionName": "Ярославская область",
+    "oikTvd": "100100225883694",
+    "oikName": "Ярославская область – Ярославский",
+    "district": {
+      "districtNumber": 194,
+      "oikTvd": "100100225883694"
+    }
   },
   {
     "uikNumber": 1727,
     "uikTvd": "4764017315846",
     "tikTvd": "2762000926780",
-    "tikName": "Ярославль, Дзержинская"
+    "tikName": "Ярославль, Дзержинская",
+    "uikName": "УИК №1727",
+    "regionCode": "76",
+    "regionTvd": "100100225883693",
+    "regionName": "Ярославская область",
+    "oikTvd": "100100225883694",
+    "oikName": "Ярославская область – Ярославский",
+    "district": {
+      "districtNumber": 194,
+      "oikTvd": "100100225883694"
+    }
   },
   {
     "uikNumber": 1728,
     "uikTvd": "4764017315847",
     "tikTvd": "2762000926780",
-    "tikName": "Ярославль, Дзержинская"
+    "tikName": "Ярославль, Дзержинская",
+    "uikName": "УИК №1728",
+    "regionCode": "76",
+    "regionTvd": "100100225883693",
+    "regionName": "Ярославская область",
+    "oikTvd": "100100225883694",
+    "oikName": "Ярославская область – Ярославский",
+    "district": {
+      "districtNumber": 194,
+      "oikTvd": "100100225883694"
+    }
   },
   {
     "uikNumber": 1729,
     "uikTvd": "4764017315848",
     "tikTvd": "2762000926780",
-    "tikName": "Ярославль, Дзержинская"
+    "tikName": "Ярославль, Дзержинская",
+    "uikName": "УИК №1729",
+    "regionCode": "76",
+    "regionTvd": "100100225883693",
+    "regionName": "Ярославская область",
+    "oikTvd": "100100225883694",
+    "oikName": "Ярославская область – Ярославский",
+    "district": {
+      "districtNumber": 194,
+      "oikTvd": "100100225883694"
+    }
   },
   {
     "uikNumber": 1730,
     "uikTvd": "4764017315849",
     "tikTvd": "2762000926780",
-    "tikName": "Ярославль, Дзержинская"
+    "tikName": "Ярославль, Дзержинская",
+    "uikName": "УИК №1730",
+    "regionCode": "76",
+    "regionTvd": "100100225883693",
+    "regionName": "Ярославская область",
+    "oikTvd": "100100225883694",
+    "oikName": "Ярославская область – Ярославский",
+    "district": {
+      "districtNumber": 194,
+      "oikTvd": "100100225883694"
+    }
   },
   {
     "uikNumber": 1731,
     "uikTvd": "4764017315850",
     "tikTvd": "2762000926780",
-    "tikName": "Ярославль, Дзержинская"
+    "tikName": "Ярославль, Дзержинская",
+    "uikName": "УИК №1731",
+    "regionCode": "76",
+    "regionTvd": "100100225883693",
+    "regionName": "Ярославская область",
+    "oikTvd": "100100225883694",
+    "oikName": "Ярославская область – Ярославский",
+    "district": {
+      "districtNumber": 194,
+      "oikTvd": "100100225883694"
+    }
   },
   {
     "uikNumber": 1732,
     "uikTvd": "4764017315851",
     "tikTvd": "2762000926780",
-    "tikName": "Ярославль, Дзержинская"
+    "tikName": "Ярославль, Дзержинская",
+    "uikName": "УИК №1732",
+    "regionCode": "76",
+    "regionTvd": "100100225883693",
+    "regionName": "Ярославская область",
+    "oikTvd": "100100225883694",
+    "oikName": "Ярославская область – Ярославский",
+    "district": {
+      "districtNumber": 194,
+      "oikTvd": "100100225883694"
+    }
   },
   {
     "uikNumber": 1733,
     "uikTvd": "4764017315852",
     "tikTvd": "2762000926780",
-    "tikName": "Ярославль, Дзержинская"
+    "tikName": "Ярославль, Дзержинская",
+    "uikName": "УИК №1733",
+    "regionCode": "76",
+    "regionTvd": "100100225883693",
+    "regionName": "Ярославская область",
+    "oikTvd": "100100225883694",
+    "oikName": "Ярославская область – Ярославский",
+    "district": {
+      "districtNumber": 194,
+      "oikTvd": "100100225883694"
+    }
   },
   {
     "uikNumber": 1734,
     "uikTvd": "4764017315853",
     "tikTvd": "2762000926780",
-    "tikName": "Ярославль, Дзержинская"
+    "tikName": "Ярославль, Дзержинская",
+    "uikName": "УИК №1734",
+    "regionCode": "76",
+    "regionTvd": "100100225883693",
+    "regionName": "Ярославская область",
+    "oikTvd": "100100225883694",
+    "oikName": "Ярославская область – Ярославский",
+    "district": {
+      "districtNumber": 194,
+      "oikTvd": "100100225883694"
+    }
   },
   {
     "uikNumber": 1735,
     "uikTvd": "4764017315854",
     "tikTvd": "2762000926780",
-    "tikName": "Ярославль, Дзержинская"
+    "tikName": "Ярославль, Дзержинская",
+    "uikName": "УИК №1735",
+    "regionCode": "76",
+    "regionTvd": "100100225883693",
+    "regionName": "Ярославская область",
+    "oikTvd": "100100225883694",
+    "oikName": "Ярославская область – Ярославский",
+    "district": {
+      "districtNumber": 194,
+      "oikTvd": "100100225883694"
+    }
   },
   {
     "uikNumber": 1736,
     "uikTvd": "4764017315855",
     "tikTvd": "2762000926780",
-    "tikName": "Ярославль, Дзержинская"
+    "tikName": "Ярославль, Дзержинская",
+    "uikName": "УИК №1736",
+    "regionCode": "76",
+    "regionTvd": "100100225883693",
+    "regionName": "Ярославская область",
+    "oikTvd": "100100225883694",
+    "oikName": "Ярославская область – Ярославский",
+    "district": {
+      "districtNumber": 194,
+      "oikTvd": "100100225883694"
+    }
   },
   {
     "uikNumber": 1737,
     "uikTvd": "4764017315856",
     "tikTvd": "2762000926780",
-    "tikName": "Ярославль, Дзержинская"
+    "tikName": "Ярославль, Дзержинская",
+    "uikName": "УИК №1737",
+    "regionCode": "76",
+    "regionTvd": "100100225883693",
+    "regionName": "Ярославская область",
+    "oikTvd": "100100225883694",
+    "oikName": "Ярославская область – Ярославский",
+    "district": {
+      "districtNumber": 194,
+      "oikTvd": "100100225883694"
+    }
   },
   {
     "uikNumber": 1738,
     "uikTvd": "4764017315857",
     "tikTvd": "2762000926780",
-    "tikName": "Ярославль, Дзержинская"
+    "tikName": "Ярославль, Дзержинская",
+    "uikName": "УИК №1738",
+    "regionCode": "76",
+    "regionTvd": "100100225883693",
+    "regionName": "Ярославская область",
+    "oikTvd": "100100225883694",
+    "oikName": "Ярославская область – Ярославский",
+    "district": {
+      "districtNumber": 194,
+      "oikTvd": "100100225883694"
+    }
   },
   {
     "uikNumber": 1739,
     "uikTvd": "4764017315858",
     "tikTvd": "2762000926780",
-    "tikName": "Ярославль, Дзержинская"
+    "tikName": "Ярославль, Дзержинская",
+    "uikName": "УИК №1739",
+    "regionCode": "76",
+    "regionTvd": "100100225883693",
+    "regionName": "Ярославская область",
+    "oikTvd": "100100225883694",
+    "oikName": "Ярославская область – Ярославский",
+    "district": {
+      "districtNumber": 194,
+      "oikTvd": "100100225883694"
+    }
   },
   {
     "uikNumber": 1740,
     "uikTvd": "4764017315859",
     "tikTvd": "2762000926780",
-    "tikName": "Ярославль, Дзержинская"
+    "tikName": "Ярославль, Дзержинская",
+    "uikName": "УИК №1740",
+    "regionCode": "76",
+    "regionTvd": "100100225883693",
+    "regionName": "Ярославская область",
+    "oikTvd": "100100225883694",
+    "oikName": "Ярославская область – Ярославский",
+    "district": {
+      "districtNumber": 194,
+      "oikTvd": "100100225883694"
+    }
   },
   {
     "uikNumber": 1741,
     "uikTvd": "4764017315860",
     "tikTvd": "2762000926780",
-    "tikName": "Ярославль, Дзержинская"
+    "tikName": "Ярославль, Дзержинская",
+    "uikName": "УИК №1741",
+    "regionCode": "76",
+    "regionTvd": "100100225883693",
+    "regionName": "Ярославская область",
+    "oikTvd": "100100225883694",
+    "oikName": "Ярославская область – Ярославский",
+    "district": {
+      "districtNumber": 194,
+      "oikTvd": "100100225883694"
+    }
   },
   {
     "uikNumber": 1742,
     "uikTvd": "4764017315861",
     "tikTvd": "2762000926780",
-    "tikName": "Ярославль, Дзержинская"
+    "tikName": "Ярославль, Дзержинская",
+    "uikName": "УИК №1742",
+    "regionCode": "76",
+    "regionTvd": "100100225883693",
+    "regionName": "Ярославская область",
+    "oikTvd": "100100225883694",
+    "oikName": "Ярославская область – Ярославский",
+    "district": {
+      "districtNumber": 194,
+      "oikTvd": "100100225883694"
+    }
   },
   {
     "uikNumber": 1743,
     "uikTvd": "4764017315862",
     "tikTvd": "2762000926780",
-    "tikName": "Ярославль, Дзержинская"
+    "tikName": "Ярославль, Дзержинская",
+    "uikName": "УИК №1743",
+    "regionCode": "76",
+    "regionTvd": "100100225883693",
+    "regionName": "Ярославская область",
+    "oikTvd": "100100225883694",
+    "oikName": "Ярославская область – Ярославский",
+    "district": {
+      "districtNumber": 194,
+      "oikTvd": "100100225883694"
+    }
   },
   {
     "uikNumber": 1744,
     "uikTvd": "4764017315863",
     "tikTvd": "2762000926780",
-    "tikName": "Ярославль, Дзержинская"
+    "tikName": "Ярославль, Дзержинская",
+    "uikName": "УИК №1744",
+    "regionCode": "76",
+    "regionTvd": "100100225883693",
+    "regionName": "Ярославская область",
+    "oikTvd": "100100225883694",
+    "oikName": "Ярославская область – Ярославский",
+    "district": {
+      "districtNumber": 194,
+      "oikTvd": "100100225883694"
+    }
   },
   {
     "uikNumber": 1745,
     "uikTvd": "4764017315864",
     "tikTvd": "2762000926780",
-    "tikName": "Ярославль, Дзержинская"
+    "tikName": "Ярославль, Дзержинская",
+    "uikName": "УИК №1745",
+    "regionCode": "76",
+    "regionTvd": "100100225883693",
+    "regionName": "Ярославская область",
+    "oikTvd": "100100225883694",
+    "oikName": "Ярославская область – Ярославский",
+    "district": {
+      "districtNumber": 194,
+      "oikTvd": "100100225883694"
+    }
   },
   {
     "uikNumber": 1746,
     "uikTvd": "4764017315865",
     "tikTvd": "2762000926780",
-    "tikName": "Ярославль, Дзержинская"
+    "tikName": "Ярославль, Дзержинская",
+    "uikName": "УИК №1746",
+    "regionCode": "76",
+    "regionTvd": "100100225883693",
+    "regionName": "Ярославская область",
+    "oikTvd": "100100225883694",
+    "oikName": "Ярославская область – Ярославский",
+    "district": {
+      "districtNumber": 194,
+      "oikTvd": "100100225883694"
+    }
   },
   {
     "uikNumber": 1747,
     "uikTvd": "4764017315866",
     "tikTvd": "2762000926780",
-    "tikName": "Ярославль, Дзержинская"
+    "tikName": "Ярославль, Дзержинская",
+    "uikName": "УИК №1747",
+    "regionCode": "76",
+    "regionTvd": "100100225883693",
+    "regionName": "Ярославская область",
+    "oikTvd": "100100225883694",
+    "oikName": "Ярославская область – Ярославский",
+    "district": {
+      "districtNumber": 194,
+      "oikTvd": "100100225883694"
+    }
   },
   {
     "uikNumber": 1748,
     "uikTvd": "4764017315867",
     "tikTvd": "2762000926780",
-    "tikName": "Ярославль, Дзержинская"
+    "tikName": "Ярославль, Дзержинская",
+    "uikName": "УИК №1748",
+    "regionCode": "76",
+    "regionTvd": "100100225883693",
+    "regionName": "Ярославская область",
+    "oikTvd": "100100225883694",
+    "oikName": "Ярославская область – Ярославский",
+    "district": {
+      "districtNumber": 194,
+      "oikTvd": "100100225883694"
+    }
   },
   {
     "uikNumber": 1749,
     "uikTvd": "4764017315868",
     "tikTvd": "2762000926780",
-    "tikName": "Ярославль, Дзержинская"
+    "tikName": "Ярославль, Дзержинская",
+    "uikName": "УИК №1749",
+    "regionCode": "76",
+    "regionTvd": "100100225883693",
+    "regionName": "Ярославская область",
+    "oikTvd": "100100225883694",
+    "oikName": "Ярославская область – Ярославский",
+    "district": {
+      "districtNumber": 194,
+      "oikTvd": "100100225883694"
+    }
   },
   {
     "uikNumber": 1750,
     "uikTvd": "4764017315869",
     "tikTvd": "2762000926780",
-    "tikName": "Ярославль, Дзержинская"
+    "tikName": "Ярославль, Дзержинская",
+    "uikName": "УИК №1750",
+    "regionCode": "76",
+    "regionTvd": "100100225883693",
+    "regionName": "Ярославская область",
+    "oikTvd": "100100225883694",
+    "oikName": "Ярославская область – Ярославский",
+    "district": {
+      "districtNumber": 194,
+      "oikTvd": "100100225883694"
+    }
   },
   {
     "uikNumber": 1751,
     "uikTvd": "4764017315870",
     "tikTvd": "2762000926780",
-    "tikName": "Ярославль, Дзержинская"
+    "tikName": "Ярославль, Дзержинская",
+    "uikName": "УИК №1751",
+    "regionCode": "76",
+    "regionTvd": "100100225883693",
+    "regionName": "Ярославская область",
+    "oikTvd": "100100225883694",
+    "oikName": "Ярославская область – Ярославский",
+    "district": {
+      "districtNumber": 194,
+      "oikTvd": "100100225883694"
+    }
   },
   {
     "uikNumber": 1752,
     "uikTvd": "4764017315871",
     "tikTvd": "2762000926780",
-    "tikName": "Ярославль, Дзержинская"
+    "tikName": "Ярославль, Дзержинская",
+    "uikName": "УИК №1752",
+    "regionCode": "76",
+    "regionTvd": "100100225883693",
+    "regionName": "Ярославская область",
+    "oikTvd": "100100225883694",
+    "oikName": "Ярославская область – Ярославский",
+    "district": {
+      "districtNumber": 194,
+      "oikTvd": "100100225883694"
+    }
   },
   {
     "uikNumber": 1753,
     "uikTvd": "4764017315872",
     "tikTvd": "2762000926780",
-    "tikName": "Ярославль, Дзержинская"
+    "tikName": "Ярославль, Дзержинская",
+    "uikName": "УИК №1753",
+    "regionCode": "76",
+    "regionTvd": "100100225883693",
+    "regionName": "Ярославская область",
+    "oikTvd": "100100225883694",
+    "oikName": "Ярославская область – Ярославский",
+    "district": {
+      "districtNumber": 194,
+      "oikTvd": "100100225883694"
+    }
   },
   {
     "uikNumber": 1754,
     "uikTvd": "4764017315873",
     "tikTvd": "2762000926780",
-    "tikName": "Ярославль, Дзержинская"
+    "tikName": "Ярославль, Дзержинская",
+    "uikName": "УИК №1754",
+    "regionCode": "76",
+    "regionTvd": "100100225883693",
+    "regionName": "Ярославская область",
+    "oikTvd": "100100225883694",
+    "oikName": "Ярославская область – Ярославский",
+    "district": {
+      "districtNumber": 194,
+      "oikTvd": "100100225883694"
+    }
   },
   {
     "uikNumber": 1755,
     "uikTvd": "4764017315874",
     "tikTvd": "2762000926780",
-    "tikName": "Ярославль, Дзержинская"
+    "tikName": "Ярославль, Дзержинская",
+    "uikName": "УИК №1755",
+    "regionCode": "76",
+    "regionTvd": "100100225883693",
+    "regionName": "Ярославская область",
+    "oikTvd": "100100225883694",
+    "oikName": "Ярославская область – Ярославский",
+    "district": {
+      "districtNumber": 194,
+      "oikTvd": "100100225883694"
+    }
   },
   {
     "uikNumber": 1756,
     "uikTvd": "4764017315875",
     "tikTvd": "2762000926780",
-    "tikName": "Ярославль, Дзержинская"
+    "tikName": "Ярославль, Дзержинская",
+    "uikName": "УИК №1756",
+    "regionCode": "76",
+    "regionTvd": "100100225883693",
+    "regionName": "Ярославская область",
+    "oikTvd": "100100225883694",
+    "oikName": "Ярославская область – Ярославский",
+    "district": {
+      "districtNumber": 194,
+      "oikTvd": "100100225883694"
+    }
   },
   {
     "uikNumber": 1757,
     "uikTvd": "4764017315876",
     "tikTvd": "2762000926780",
-    "tikName": "Ярославль, Дзержинская"
+    "tikName": "Ярославль, Дзержинская",
+    "uikName": "УИК №1757",
+    "regionCode": "76",
+    "regionTvd": "100100225883693",
+    "regionName": "Ярославская область",
+    "oikTvd": "100100225883694",
+    "oikName": "Ярославская область – Ярославский",
+    "district": {
+      "districtNumber": 194,
+      "oikTvd": "100100225883694"
+    }
   },
   {
     "uikNumber": 1758,
     "uikTvd": "4764017315877",
     "tikTvd": "2762000926780",
-    "tikName": "Ярославль, Дзержинская"
+    "tikName": "Ярославль, Дзержинская",
+    "uikName": "УИК №1758",
+    "regionCode": "76",
+    "regionTvd": "100100225883693",
+    "regionName": "Ярославская область",
+    "oikTvd": "100100225883694",
+    "oikName": "Ярославская область – Ярославский",
+    "district": {
+      "districtNumber": 194,
+      "oikTvd": "100100225883694"
+    }
   },
   {
     "uikNumber": 1759,
     "uikTvd": "4764017315878",
     "tikTvd": "2762000926780",
-    "tikName": "Ярославль, Дзержинская"
+    "tikName": "Ярославль, Дзержинская",
+    "uikName": "УИК №1759",
+    "regionCode": "76",
+    "regionTvd": "100100225883693",
+    "regionName": "Ярославская область",
+    "oikTvd": "100100225883694",
+    "oikName": "Ярославская область – Ярославский",
+    "district": {
+      "districtNumber": 194,
+      "oikTvd": "100100225883694"
+    }
   },
   {
     "uikNumber": 1760,
     "uikTvd": "4764017315879",
     "tikTvd": "2762000926780",
-    "tikName": "Ярославль, Дзержинская"
+    "tikName": "Ярославль, Дзержинская",
+    "uikName": "УИК №1760",
+    "regionCode": "76",
+    "regionTvd": "100100225883693",
+    "regionName": "Ярославская область",
+    "oikTvd": "100100225883694",
+    "oikName": "Ярославская область – Ярославский",
+    "district": {
+      "districtNumber": 194,
+      "oikTvd": "100100225883694"
+    }
   },
   {
     "uikNumber": 1761,
     "uikTvd": "4764017315880",
     "tikTvd": "2762000926780",
-    "tikName": "Ярославль, Дзержинская"
+    "tikName": "Ярославль, Дзержинская",
+    "uikName": "УИК №1761",
+    "regionCode": "76",
+    "regionTvd": "100100225883693",
+    "regionName": "Ярославская область",
+    "oikTvd": "100100225883694",
+    "oikName": "Ярославская область – Ярославский",
+    "district": {
+      "districtNumber": 194,
+      "oikTvd": "100100225883694"
+    }
   },
   {
     "uikNumber": 1762,
     "uikTvd": "4764017315881",
     "tikTvd": "2762000926780",
-    "tikName": "Ярославль, Дзержинская"
+    "tikName": "Ярославль, Дзержинская",
+    "uikName": "УИК №1762",
+    "regionCode": "76",
+    "regionTvd": "100100225883693",
+    "regionName": "Ярославская область",
+    "oikTvd": "100100225883694",
+    "oikName": "Ярославская область – Ярославский",
+    "district": {
+      "districtNumber": 194,
+      "oikTvd": "100100225883694"
+    }
   },
   {
     "uikNumber": 1763,
     "uikTvd": "4764017315882",
     "tikTvd": "2762000926780",
-    "tikName": "Ярославль, Дзержинская"
+    "tikName": "Ярославль, Дзержинская",
+    "uikName": "УИК №1763",
+    "regionCode": "76",
+    "regionTvd": "100100225883693",
+    "regionName": "Ярославская область",
+    "oikTvd": "100100225883694",
+    "oikName": "Ярославская область – Ярославский",
+    "district": {
+      "districtNumber": 194,
+      "oikTvd": "100100225883694"
+    }
   },
   {
     "uikNumber": 1764,
     "uikTvd": "4764017315883",
     "tikTvd": "2762000926780",
-    "tikName": "Ярославль, Дзержинская"
+    "tikName": "Ярославль, Дзержинская",
+    "uikName": "УИК №1764",
+    "regionCode": "76",
+    "regionTvd": "100100225883693",
+    "regionName": "Ярославская область",
+    "oikTvd": "100100225883694",
+    "oikName": "Ярославская область – Ярославский",
+    "district": {
+      "districtNumber": 194,
+      "oikTvd": "100100225883694"
+    }
   },
   {
     "uikNumber": 1765,
     "uikTvd": "4764017315884",
     "tikTvd": "2762000926780",
-    "tikName": "Ярославль, Дзержинская"
+    "tikName": "Ярославль, Дзержинская",
+    "uikName": "УИК №1765",
+    "regionCode": "76",
+    "regionTvd": "100100225883693",
+    "regionName": "Ярославская область",
+    "oikTvd": "100100225883694",
+    "oikName": "Ярославская область – Ярославский",
+    "district": {
+      "districtNumber": 194,
+      "oikTvd": "100100225883694"
+    }
   },
   {
     "uikNumber": 1766,
     "uikTvd": "4764017315885",
     "tikTvd": "2762000926780",
-    "tikName": "Ярославль, Дзержинская"
+    "tikName": "Ярославль, Дзержинская",
+    "uikName": "УИК №1766",
+    "regionCode": "76",
+    "regionTvd": "100100225883693",
+    "regionName": "Ярославская область",
+    "oikTvd": "100100225883694",
+    "oikName": "Ярославская область – Ярославский",
+    "district": {
+      "districtNumber": 194,
+      "oikTvd": "100100225883694"
+    }
   },
   {
     "uikNumber": 1767,
     "uikTvd": "4764017315886",
     "tikTvd": "2762000926780",
-    "tikName": "Ярославль, Дзержинская"
+    "tikName": "Ярославль, Дзержинская",
+    "uikName": "УИК №1767",
+    "regionCode": "76",
+    "regionTvd": "100100225883693",
+    "regionName": "Ярославская область",
+    "oikTvd": "100100225883694",
+    "oikName": "Ярославская область – Ярославский",
+    "district": {
+      "districtNumber": 194,
+      "oikTvd": "100100225883694"
+    }
   },
   {
     "uikNumber": 1768,
     "uikTvd": "4764017315887",
     "tikTvd": "2762000926780",
-    "tikName": "Ярославль, Дзержинская"
+    "tikName": "Ярославль, Дзержинская",
+    "uikName": "УИК №1768",
+    "regionCode": "76",
+    "regionTvd": "100100225883693",
+    "regionName": "Ярославская область",
+    "oikTvd": "100100225883694",
+    "oikName": "Ярославская область – Ярославский",
+    "district": {
+      "districtNumber": 194,
+      "oikTvd": "100100225883694"
+    }
   },
   {
     "uikNumber": 1769,
     "uikTvd": "4764017315888",
     "tikTvd": "2762000926780",
-    "tikName": "Ярославль, Дзержинская"
+    "tikName": "Ярославль, Дзержинская",
+    "uikName": "УИК №1769",
+    "regionCode": "76",
+    "regionTvd": "100100225883693",
+    "regionName": "Ярославская область",
+    "oikTvd": "100100225883694",
+    "oikName": "Ярославская область – Ярославский",
+    "district": {
+      "districtNumber": 194,
+      "oikTvd": "100100225883694"
+    }
   },
   {
     "uikNumber": 1770,
     "uikTvd": "4764017315889",
     "tikTvd": "2762000926780",
-    "tikName": "Ярославль, Дзержинская"
+    "tikName": "Ярославль, Дзержинская",
+    "uikName": "УИК №1770",
+    "regionCode": "76",
+    "regionTvd": "100100225883693",
+    "regionName": "Ярославская область",
+    "oikTvd": "100100225883694",
+    "oikName": "Ярославская область – Ярославский",
+    "district": {
+      "districtNumber": 194,
+      "oikTvd": "100100225883694"
+    }
   },
   {
     "uikNumber": 1799,
     "uikTvd": "4764017323965",
     "tikTvd": "2762000926780",
-    "tikName": "Ярославль, Дзержинская"
+    "tikName": "Ярославль, Дзержинская",
+    "uikName": "УИК №1799",
+    "regionCode": "76",
+    "regionTvd": "100100225883693",
+    "regionName": "Ярославская область",
+    "oikTvd": "100100225883694",
+    "oikName": "Ярославская область – Ярославский",
+    "district": {
+      "districtNumber": 194,
+      "oikTvd": "100100225883694"
+    }
   },
   {
     "uikNumber": 1801,
     "uikTvd": "4764018251874",
     "tikTvd": "2762000926779",
-    "tikName": "Ярославль, Заволжская"
+    "tikName": "Ярославль, Заволжская",
+    "uikName": "УИК №1801",
+    "regionCode": "76",
+    "regionTvd": "100100225883693",
+    "regionName": "Ярославская область",
+    "oikTvd": "100100225883694",
+    "oikName": "Ярославская область – Ярославский",
+    "district": {
+      "districtNumber": 194,
+      "oikTvd": "100100225883694"
+    }
   },
   {
     "uikNumber": 1802,
     "uikTvd": "4764018251875",
     "tikTvd": "2762000926779",
-    "tikName": "Ярославль, Заволжская"
+    "tikName": "Ярославль, Заволжская",
+    "uikName": "УИК №1802",
+    "regionCode": "76",
+    "regionTvd": "100100225883693",
+    "regionName": "Ярославская область",
+    "oikTvd": "100100225883694",
+    "oikName": "Ярославская область – Ярославский",
+    "district": {
+      "districtNumber": 194,
+      "oikTvd": "100100225883694"
+    }
   },
   {
     "uikNumber": 1803,
     "uikTvd": "4764018251876",
     "tikTvd": "2762000926779",
-    "tikName": "Ярославль, Заволжская"
+    "tikName": "Ярославль, Заволжская",
+    "uikName": "УИК №1803",
+    "regionCode": "76",
+    "regionTvd": "100100225883693",
+    "regionName": "Ярославская область",
+    "oikTvd": "100100225883694",
+    "oikName": "Ярославская область – Ярославский",
+    "district": {
+      "districtNumber": 194,
+      "oikTvd": "100100225883694"
+    }
   },
   {
     "uikNumber": 1804,
     "uikTvd": "4764018251877",
     "tikTvd": "2762000926779",
-    "tikName": "Ярославль, Заволжская"
+    "tikName": "Ярославль, Заволжская",
+    "uikName": "УИК №1804",
+    "regionCode": "76",
+    "regionTvd": "100100225883693",
+    "regionName": "Ярославская область",
+    "oikTvd": "100100225883694",
+    "oikName": "Ярославская область – Ярославский",
+    "district": {
+      "districtNumber": 194,
+      "oikTvd": "100100225883694"
+    }
   },
   {
     "uikNumber": 1805,
     "uikTvd": "4764018251878",
     "tikTvd": "2762000926779",
-    "tikName": "Ярославль, Заволжская"
+    "tikName": "Ярославль, Заволжская",
+    "uikName": "УИК №1805",
+    "regionCode": "76",
+    "regionTvd": "100100225883693",
+    "regionName": "Ярославская область",
+    "oikTvd": "100100225883694",
+    "oikName": "Ярославская область – Ярославский",
+    "district": {
+      "districtNumber": 194,
+      "oikTvd": "100100225883694"
+    }
   },
   {
     "uikNumber": 1806,
     "uikTvd": "4764018251879",
     "tikTvd": "2762000926779",
-    "tikName": "Ярославль, Заволжская"
+    "tikName": "Ярославль, Заволжская",
+    "uikName": "УИК №1806",
+    "regionCode": "76",
+    "regionTvd": "100100225883693",
+    "regionName": "Ярославская область",
+    "oikTvd": "100100225883694",
+    "oikName": "Ярославская область – Ярославский",
+    "district": {
+      "districtNumber": 194,
+      "oikTvd": "100100225883694"
+    }
   },
   {
     "uikNumber": 1807,
     "uikTvd": "4764018251880",
     "tikTvd": "2762000926779",
-    "tikName": "Ярославль, Заволжская"
+    "tikName": "Ярославль, Заволжская",
+    "uikName": "УИК №1807",
+    "regionCode": "76",
+    "regionTvd": "100100225883693",
+    "regionName": "Ярославская область",
+    "oikTvd": "100100225883694",
+    "oikName": "Ярославская область – Ярославский",
+    "district": {
+      "districtNumber": 194,
+      "oikTvd": "100100225883694"
+    }
   },
   {
     "uikNumber": 1808,
     "uikTvd": "4764018251881",
     "tikTvd": "2762000926779",
-    "tikName": "Ярославль, Заволжская"
+    "tikName": "Ярославль, Заволжская",
+    "uikName": "УИК №1808",
+    "regionCode": "76",
+    "regionTvd": "100100225883693",
+    "regionName": "Ярославская область",
+    "oikTvd": "100100225883694",
+    "oikName": "Ярославская область – Ярославский",
+    "district": {
+      "districtNumber": 194,
+      "oikTvd": "100100225883694"
+    }
   },
   {
     "uikNumber": 1809,
     "uikTvd": "4764018251882",
     "tikTvd": "2762000926779",
-    "tikName": "Ярославль, Заволжская"
+    "tikName": "Ярославль, Заволжская",
+    "uikName": "УИК №1809",
+    "regionCode": "76",
+    "regionTvd": "100100225883693",
+    "regionName": "Ярославская область",
+    "oikTvd": "100100225883694",
+    "oikName": "Ярославская область – Ярославский",
+    "district": {
+      "districtNumber": 194,
+      "oikTvd": "100100225883694"
+    }
   },
   {
     "uikNumber": 1810,
     "uikTvd": "4764018251883",
     "tikTvd": "2762000926779",
-    "tikName": "Ярославль, Заволжская"
+    "tikName": "Ярославль, Заволжская",
+    "uikName": "УИК №1810",
+    "regionCode": "76",
+    "regionTvd": "100100225883693",
+    "regionName": "Ярославская область",
+    "oikTvd": "100100225883694",
+    "oikName": "Ярославская область – Ярославский",
+    "district": {
+      "districtNumber": 194,
+      "oikTvd": "100100225883694"
+    }
   },
   {
     "uikNumber": 1811,
     "uikTvd": "4764018251884",
     "tikTvd": "2762000926779",
-    "tikName": "Ярославль, Заволжская"
+    "tikName": "Ярославль, Заволжская",
+    "uikName": "УИК №1811",
+    "regionCode": "76",
+    "regionTvd": "100100225883693",
+    "regionName": "Ярославская область",
+    "oikTvd": "100100225883694",
+    "oikName": "Ярославская область – Ярославский",
+    "district": {
+      "districtNumber": 194,
+      "oikTvd": "100100225883694"
+    }
   },
   {
     "uikNumber": 1812,
     "uikTvd": "4764018251885",
     "tikTvd": "2762000926779",
-    "tikName": "Ярославль, Заволжская"
+    "tikName": "Ярославль, Заволжская",
+    "uikName": "УИК №1812",
+    "regionCode": "76",
+    "regionTvd": "100100225883693",
+    "regionName": "Ярославская область",
+    "oikTvd": "100100225883694",
+    "oikName": "Ярославская область – Ярославский",
+    "district": {
+      "districtNumber": 194,
+      "oikTvd": "100100225883694"
+    }
   },
   {
     "uikNumber": 1813,
     "uikTvd": "4764018251886",
     "tikTvd": "2762000926779",
-    "tikName": "Ярославль, Заволжская"
+    "tikName": "Ярославль, Заволжская",
+    "uikName": "УИК №1813",
+    "regionCode": "76",
+    "regionTvd": "100100225883693",
+    "regionName": "Ярославская область",
+    "oikTvd": "100100225883694",
+    "oikName": "Ярославская область – Ярославский",
+    "district": {
+      "districtNumber": 194,
+      "oikTvd": "100100225883694"
+    }
   },
   {
     "uikNumber": 1814,
     "uikTvd": "4764018251887",
     "tikTvd": "2762000926779",
-    "tikName": "Ярославль, Заволжская"
+    "tikName": "Ярославль, Заволжская",
+    "uikName": "УИК №1814",
+    "regionCode": "76",
+    "regionTvd": "100100225883693",
+    "regionName": "Ярославская область",
+    "oikTvd": "100100225883694",
+    "oikName": "Ярославская область – Ярославский",
+    "district": {
+      "districtNumber": 194,
+      "oikTvd": "100100225883694"
+    }
   },
   {
     "uikNumber": 1815,
     "uikTvd": "4764018251888",
     "tikTvd": "2762000926779",
-    "tikName": "Ярославль, Заволжская"
+    "tikName": "Ярославль, Заволжская",
+    "uikName": "УИК №1815",
+    "regionCode": "76",
+    "regionTvd": "100100225883693",
+    "regionName": "Ярославская область",
+    "oikTvd": "100100225883694",
+    "oikName": "Ярославская область – Ярославский",
+    "district": {
+      "districtNumber": 194,
+      "oikTvd": "100100225883694"
+    }
   },
   {
     "uikNumber": 1816,
     "uikTvd": "4764018251889",
     "tikTvd": "2762000926779",
-    "tikName": "Ярославль, Заволжская"
+    "tikName": "Ярославль, Заволжская",
+    "uikName": "УИК №1816",
+    "regionCode": "76",
+    "regionTvd": "100100225883693",
+    "regionName": "Ярославская область",
+    "oikTvd": "100100225883694",
+    "oikName": "Ярославская область – Ярославский",
+    "district": {
+      "districtNumber": 194,
+      "oikTvd": "100100225883694"
+    }
   },
   {
     "uikNumber": 1817,
     "uikTvd": "4764018251890",
     "tikTvd": "2762000926779",
-    "tikName": "Ярославль, Заволжская"
+    "tikName": "Ярославль, Заволжская",
+    "uikName": "УИК №1817",
+    "regionCode": "76",
+    "regionTvd": "100100225883693",
+    "regionName": "Ярославская область",
+    "oikTvd": "100100225883694",
+    "oikName": "Ярославская область – Ярославский",
+    "district": {
+      "districtNumber": 194,
+      "oikTvd": "100100225883694"
+    }
   },
   {
     "uikNumber": 1818,
     "uikTvd": "4764018251891",
     "tikTvd": "2762000926779",
-    "tikName": "Ярославль, Заволжская"
+    "tikName": "Ярославль, Заволжская",
+    "uikName": "УИК №1818",
+    "regionCode": "76",
+    "regionTvd": "100100225883693",
+    "regionName": "Ярославская область",
+    "oikTvd": "100100225883694",
+    "oikName": "Ярославская область – Ярославский",
+    "district": {
+      "districtNumber": 194,
+      "oikTvd": "100100225883694"
+    }
   },
   {
     "uikNumber": 1819,
     "uikTvd": "4764018251892",
     "tikTvd": "2762000926779",
-    "tikName": "Ярославль, Заволжская"
+    "tikName": "Ярославль, Заволжская",
+    "uikName": "УИК №1819",
+    "regionCode": "76",
+    "regionTvd": "100100225883693",
+    "regionName": "Ярославская область",
+    "oikTvd": "100100225883694",
+    "oikName": "Ярославская область – Ярославский",
+    "district": {
+      "districtNumber": 194,
+      "oikTvd": "100100225883694"
+    }
   },
   {
     "uikNumber": 1820,
     "uikTvd": "4764018251893",
     "tikTvd": "2762000926779",
-    "tikName": "Ярославль, Заволжская"
+    "tikName": "Ярославль, Заволжская",
+    "uikName": "УИК №1820",
+    "regionCode": "76",
+    "regionTvd": "100100225883693",
+    "regionName": "Ярославская область",
+    "oikTvd": "100100225883694",
+    "oikName": "Ярославская область – Ярославский",
+    "district": {
+      "districtNumber": 194,
+      "oikTvd": "100100225883694"
+    }
   },
   {
     "uikNumber": 1821,
     "uikTvd": "4764018251894",
     "tikTvd": "2762000926779",
-    "tikName": "Ярославль, Заволжская"
+    "tikName": "Ярославль, Заволжская",
+    "uikName": "УИК №1821",
+    "regionCode": "76",
+    "regionTvd": "100100225883693",
+    "regionName": "Ярославская область",
+    "oikTvd": "100100225883694",
+    "oikName": "Ярославская область – Ярославский",
+    "district": {
+      "districtNumber": 194,
+      "oikTvd": "100100225883694"
+    }
   },
   {
     "uikNumber": 1822,
     "uikTvd": "4764018251895",
     "tikTvd": "2762000926779",
-    "tikName": "Ярославль, Заволжская"
+    "tikName": "Ярославль, Заволжская",
+    "uikName": "УИК №1822",
+    "regionCode": "76",
+    "regionTvd": "100100225883693",
+    "regionName": "Ярославская область",
+    "oikTvd": "100100225883694",
+    "oikName": "Ярославская область – Ярославский",
+    "district": {
+      "districtNumber": 194,
+      "oikTvd": "100100225883694"
+    }
   },
   {
     "uikNumber": 1823,
     "uikTvd": "4764018251896",
     "tikTvd": "2762000926779",
-    "tikName": "Ярославль, Заволжская"
+    "tikName": "Ярославль, Заволжская",
+    "uikName": "УИК №1823",
+    "regionCode": "76",
+    "regionTvd": "100100225883693",
+    "regionName": "Ярославская область",
+    "oikTvd": "100100225883694",
+    "oikName": "Ярославская область – Ярославский",
+    "district": {
+      "districtNumber": 194,
+      "oikTvd": "100100225883694"
+    }
   },
   {
     "uikNumber": 1824,
     "uikTvd": "4764018251897",
     "tikTvd": "2762000926779",
-    "tikName": "Ярославль, Заволжская"
+    "tikName": "Ярославль, Заволжская",
+    "uikName": "УИК №1824",
+    "regionCode": "76",
+    "regionTvd": "100100225883693",
+    "regionName": "Ярославская область",
+    "oikTvd": "100100225883694",
+    "oikName": "Ярославская область – Ярославский",
+    "district": {
+      "districtNumber": 194,
+      "oikTvd": "100100225883694"
+    }
   },
   {
     "uikNumber": 1825,
     "uikTvd": "4764018251898",
     "tikTvd": "2762000926779",
-    "tikName": "Ярославль, Заволжская"
+    "tikName": "Ярославль, Заволжская",
+    "uikName": "УИК №1825",
+    "regionCode": "76",
+    "regionTvd": "100100225883693",
+    "regionName": "Ярославская область",
+    "oikTvd": "100100225883694",
+    "oikName": "Ярославская область – Ярославский",
+    "district": {
+      "districtNumber": 194,
+      "oikTvd": "100100225883694"
+    }
   },
   {
     "uikNumber": 1826,
     "uikTvd": "4764018251899",
     "tikTvd": "2762000926779",
-    "tikName": "Ярославль, Заволжская"
+    "tikName": "Ярославль, Заволжская",
+    "uikName": "УИК №1826",
+    "regionCode": "76",
+    "regionTvd": "100100225883693",
+    "regionName": "Ярославская область",
+    "oikTvd": "100100225883694",
+    "oikName": "Ярославская область – Ярославский",
+    "district": {
+      "districtNumber": 194,
+      "oikTvd": "100100225883694"
+    }
   },
   {
     "uikNumber": 1827,
     "uikTvd": "4764018251900",
     "tikTvd": "2762000926779",
-    "tikName": "Ярославль, Заволжская"
+    "tikName": "Ярославль, Заволжская",
+    "uikName": "УИК №1827",
+    "regionCode": "76",
+    "regionTvd": "100100225883693",
+    "regionName": "Ярославская область",
+    "oikTvd": "100100225883694",
+    "oikName": "Ярославская область – Ярославский",
+    "district": {
+      "districtNumber": 194,
+      "oikTvd": "100100225883694"
+    }
   },
   {
     "uikNumber": 1828,
     "uikTvd": "4764018251901",
     "tikTvd": "2762000926779",
-    "tikName": "Ярославль, Заволжская"
+    "tikName": "Ярославль, Заволжская",
+    "uikName": "УИК №1828",
+    "regionCode": "76",
+    "regionTvd": "100100225883693",
+    "regionName": "Ярославская область",
+    "oikTvd": "100100225883694",
+    "oikName": "Ярославская область – Ярославский",
+    "district": {
+      "districtNumber": 194,
+      "oikTvd": "100100225883694"
+    }
   },
   {
     "uikNumber": 1829,
     "uikTvd": "4764018251902",
     "tikTvd": "2762000926779",
-    "tikName": "Ярославль, Заволжская"
+    "tikName": "Ярославль, Заволжская",
+    "uikName": "УИК №1829",
+    "regionCode": "76",
+    "regionTvd": "100100225883693",
+    "regionName": "Ярославская область",
+    "oikTvd": "100100225883694",
+    "oikName": "Ярославская область – Ярославский",
+    "district": {
+      "districtNumber": 194,
+      "oikTvd": "100100225883694"
+    }
   },
   {
     "uikNumber": 1830,
     "uikTvd": "4764018251903",
     "tikTvd": "2762000926779",
-    "tikName": "Ярославль, Заволжская"
+    "tikName": "Ярославль, Заволжская",
+    "uikName": "УИК №1830",
+    "regionCode": "76",
+    "regionTvd": "100100225883693",
+    "regionName": "Ярославская область",
+    "oikTvd": "100100225883694",
+    "oikName": "Ярославская область – Ярославский",
+    "district": {
+      "districtNumber": 194,
+      "oikTvd": "100100225883694"
+    }
   },
   {
     "uikNumber": 1831,
     "uikTvd": "4764018251904",
     "tikTvd": "2762000926779",
-    "tikName": "Ярославль, Заволжская"
+    "tikName": "Ярославль, Заволжская",
+    "uikName": "УИК №1831",
+    "regionCode": "76",
+    "regionTvd": "100100225883693",
+    "regionName": "Ярославская область",
+    "oikTvd": "100100225883694",
+    "oikName": "Ярославская область – Ярославский",
+    "district": {
+      "districtNumber": 194,
+      "oikTvd": "100100225883694"
+    }
   },
   {
     "uikNumber": 1832,
     "uikTvd": "4764018251905",
     "tikTvd": "2762000926779",
-    "tikName": "Ярославль, Заволжская"
+    "tikName": "Ярославль, Заволжская",
+    "uikName": "УИК №1832",
+    "regionCode": "76",
+    "regionTvd": "100100225883693",
+    "regionName": "Ярославская область",
+    "oikTvd": "100100225883694",
+    "oikName": "Ярославская область – Ярославский",
+    "district": {
+      "districtNumber": 194,
+      "oikTvd": "100100225883694"
+    }
   },
   {
     "uikNumber": 1833,
     "uikTvd": "4764018251906",
     "tikTvd": "2762000926779",
-    "tikName": "Ярославль, Заволжская"
+    "tikName": "Ярославль, Заволжская",
+    "uikName": "УИК №1833",
+    "regionCode": "76",
+    "regionTvd": "100100225883693",
+    "regionName": "Ярославская область",
+    "oikTvd": "100100225883694",
+    "oikName": "Ярославская область – Ярославский",
+    "district": {
+      "districtNumber": 194,
+      "oikTvd": "100100225883694"
+    }
   },
   {
     "uikNumber": 1834,
     "uikTvd": "4764018251907",
     "tikTvd": "2762000926779",
-    "tikName": "Ярославль, Заволжская"
+    "tikName": "Ярославль, Заволжская",
+    "uikName": "УИК №1834",
+    "regionCode": "76",
+    "regionTvd": "100100225883693",
+    "regionName": "Ярославская область",
+    "oikTvd": "100100225883694",
+    "oikName": "Ярославская область – Ярославский",
+    "district": {
+      "districtNumber": 194,
+      "oikTvd": "100100225883694"
+    }
   },
   {
     "uikNumber": 1835,
     "uikTvd": "4764018251908",
     "tikTvd": "2762000926779",
-    "tikName": "Ярославль, Заволжская"
+    "tikName": "Ярославль, Заволжская",
+    "uikName": "УИК №1835",
+    "regionCode": "76",
+    "regionTvd": "100100225883693",
+    "regionName": "Ярославская область",
+    "oikTvd": "100100225883694",
+    "oikName": "Ярославская область – Ярославский",
+    "district": {
+      "districtNumber": 194,
+      "oikTvd": "100100225883694"
+    }
   },
   {
     "uikNumber": 1836,
     "uikTvd": "4764018251909",
     "tikTvd": "2762000926779",
-    "tikName": "Ярославль, Заволжская"
+    "tikName": "Ярославль, Заволжская",
+    "uikName": "УИК №1836",
+    "regionCode": "76",
+    "regionTvd": "100100225883693",
+    "regionName": "Ярославская область",
+    "oikTvd": "100100225883694",
+    "oikName": "Ярославская область – Ярославский",
+    "district": {
+      "districtNumber": 194,
+      "oikTvd": "100100225883694"
+    }
   },
   {
     "uikNumber": 1837,
     "uikTvd": "4764018251910",
     "tikTvd": "2762000926779",
-    "tikName": "Ярославль, Заволжская"
+    "tikName": "Ярославль, Заволжская",
+    "uikName": "УИК №1837",
+    "regionCode": "76",
+    "regionTvd": "100100225883693",
+    "regionName": "Ярославская область",
+    "oikTvd": "100100225883694",
+    "oikName": "Ярославская область – Ярославский",
+    "district": {
+      "districtNumber": 194,
+      "oikTvd": "100100225883694"
+    }
   },
   {
     "uikNumber": 1838,
     "uikTvd": "4764018251911",
     "tikTvd": "2762000926779",
-    "tikName": "Ярославль, Заволжская"
+    "tikName": "Ярославль, Заволжская",
+    "uikName": "УИК №1838",
+    "regionCode": "76",
+    "regionTvd": "100100225883693",
+    "regionName": "Ярославская область",
+    "oikTvd": "100100225883694",
+    "oikName": "Ярославская область – Ярославский",
+    "district": {
+      "districtNumber": 194,
+      "oikTvd": "100100225883694"
+    }
   },
   {
     "uikNumber": 1839,
     "uikTvd": "4764018251912",
     "tikTvd": "2762000926779",
-    "tikName": "Ярославль, Заволжская"
+    "tikName": "Ярославль, Заволжская",
+    "uikName": "УИК №1839",
+    "regionCode": "76",
+    "regionTvd": "100100225883693",
+    "regionName": "Ярославская область",
+    "oikTvd": "100100225883694",
+    "oikName": "Ярославская область – Ярославский",
+    "district": {
+      "districtNumber": 194,
+      "oikTvd": "100100225883694"
+    }
   },
   {
     "uikNumber": 1840,
     "uikTvd": "4764018251913",
     "tikTvd": "2762000926779",
-    "tikName": "Ярославль, Заволжская"
+    "tikName": "Ярославль, Заволжская",
+    "uikName": "УИК №1840",
+    "regionCode": "76",
+    "regionTvd": "100100225883693",
+    "regionName": "Ярославская область",
+    "oikTvd": "100100225883694",
+    "oikName": "Ярославская область – Ярославский",
+    "district": {
+      "districtNumber": 194,
+      "oikTvd": "100100225883694"
+    }
   },
   {
     "uikNumber": 1841,
     "uikTvd": "4764018251914",
     "tikTvd": "2762000926779",
-    "tikName": "Ярославль, Заволжская"
+    "tikName": "Ярославль, Заволжская",
+    "uikName": "УИК №1841",
+    "regionCode": "76",
+    "regionTvd": "100100225883693",
+    "regionName": "Ярославская область",
+    "oikTvd": "100100225883694",
+    "oikName": "Ярославская область – Ярославский",
+    "district": {
+      "districtNumber": 194,
+      "oikTvd": "100100225883694"
+    }
   },
   {
     "uikNumber": 1842,
     "uikTvd": "4764018251915",
     "tikTvd": "2762000926779",
-    "tikName": "Ярославль, Заволжская"
+    "tikName": "Ярославль, Заволжская",
+    "uikName": "УИК №1842",
+    "regionCode": "76",
+    "regionTvd": "100100225883693",
+    "regionName": "Ярославская область",
+    "oikTvd": "100100225883694",
+    "oikName": "Ярославская область – Ярославский",
+    "district": {
+      "districtNumber": 194,
+      "oikTvd": "100100225883694"
+    }
   },
   {
     "uikNumber": 1843,
     "uikTvd": "4764018251916",
     "tikTvd": "2762000926779",
-    "tikName": "Ярославль, Заволжская"
+    "tikName": "Ярославль, Заволжская",
+    "uikName": "УИК №1843",
+    "regionCode": "76",
+    "regionTvd": "100100225883693",
+    "regionName": "Ярославская область",
+    "oikTvd": "100100225883694",
+    "oikName": "Ярославская область – Ярославский",
+    "district": {
+      "districtNumber": 194,
+      "oikTvd": "100100225883694"
+    }
   },
   {
     "uikNumber": 1844,
     "uikTvd": "4764018251917",
     "tikTvd": "2762000926779",
-    "tikName": "Ярославль, Заволжская"
+    "tikName": "Ярославль, Заволжская",
+    "uikName": "УИК №1844",
+    "regionCode": "76",
+    "regionTvd": "100100225883693",
+    "regionName": "Ярославская область",
+    "oikTvd": "100100225883694",
+    "oikName": "Ярославская область – Ярославский",
+    "district": {
+      "districtNumber": 194,
+      "oikTvd": "100100225883694"
+    }
   },
   {
     "uikNumber": 1845,
     "uikTvd": "4764018251918",
     "tikTvd": "2762000926779",
-    "tikName": "Ярославль, Заволжская"
+    "tikName": "Ярославль, Заволжская",
+    "uikName": "УИК №1845",
+    "regionCode": "76",
+    "regionTvd": "100100225883693",
+    "regionName": "Ярославская область",
+    "oikTvd": "100100225883694",
+    "oikName": "Ярославская область – Ярославский",
+    "district": {
+      "districtNumber": 194,
+      "oikTvd": "100100225883694"
+    }
   },
   {
     "uikNumber": 1846,
     "uikTvd": "4764018251919",
     "tikTvd": "2762000926779",
-    "tikName": "Ярославль, Заволжская"
+    "tikName": "Ярославль, Заволжская",
+    "uikName": "УИК №1846",
+    "regionCode": "76",
+    "regionTvd": "100100225883693",
+    "regionName": "Ярославская область",
+    "oikTvd": "100100225883694",
+    "oikName": "Ярославская область – Ярославский",
+    "district": {
+      "districtNumber": 194,
+      "oikTvd": "100100225883694"
+    }
   },
   {
     "uikNumber": 1898,
     "uikTvd": "4764018256630",
     "tikTvd": "2762000926779",
-    "tikName": "Ярославль, Заволжская"
+    "tikName": "Ярославль, Заволжская",
+    "uikName": "УИК №1898",
+    "regionCode": "76",
+    "regionTvd": "100100225883693",
+    "regionName": "Ярославская область",
+    "oikTvd": "100100225883694",
+    "oikName": "Ярославская область – Ярославский",
+    "district": {
+      "districtNumber": 194,
+      "oikTvd": "100100225883694"
+    }
   },
   {
     "uikNumber": 1899,
     "uikTvd": "4764018256632",
     "tikTvd": "2762000926779",
-    "tikName": "Ярославль, Заволжская"
+    "tikName": "Ярославль, Заволжская",
+    "uikName": "УИК №1899",
+    "regionCode": "76",
+    "regionTvd": "100100225883693",
+    "regionName": "Ярославская область",
+    "oikTvd": "100100225883694",
+    "oikName": "Ярославская область – Ярославский",
+    "district": {
+      "districtNumber": 194,
+      "oikTvd": "100100225883694"
+    }
   },
   {
     "uikNumber": 1901,
     "uikTvd": "4764019204714",
     "tikTvd": "2762000926793",
-    "tikName": "Ярославль, Кировская"
+    "tikName": "Ярославль, Кировская",
+    "uikName": "УИК №1901",
+    "regionCode": "76",
+    "regionTvd": "100100225883693",
+    "regionName": "Ярославская область",
+    "oikTvd": "100100225883695",
+    "oikName": "Ярославская область – Ростовский",
+    "district": {
+      "districtNumber": 195,
+      "oikTvd": "100100225883695"
+    }
   },
   {
     "uikNumber": 1902,
     "uikTvd": "4764019204715",
     "tikTvd": "2762000926793",
-    "tikName": "Ярославль, Кировская"
+    "tikName": "Ярославль, Кировская",
+    "uikName": "УИК №1902",
+    "regionCode": "76",
+    "regionTvd": "100100225883693",
+    "regionName": "Ярославская область",
+    "oikTvd": "100100225883695",
+    "oikName": "Ярославская область – Ростовский",
+    "district": {
+      "districtNumber": 195,
+      "oikTvd": "100100225883695"
+    }
   },
   {
     "uikNumber": 1903,
     "uikTvd": "4764019204716",
     "tikTvd": "2762000926793",
-    "tikName": "Ярославль, Кировская"
+    "tikName": "Ярославль, Кировская",
+    "uikName": "УИК №1903",
+    "regionCode": "76",
+    "regionTvd": "100100225883693",
+    "regionName": "Ярославская область",
+    "oikTvd": "100100225883695",
+    "oikName": "Ярославская область – Ростовский",
+    "district": {
+      "districtNumber": 195,
+      "oikTvd": "100100225883695"
+    }
   },
   {
     "uikNumber": 1904,
     "uikTvd": "4764019204717",
     "tikTvd": "2762000926793",
-    "tikName": "Ярославль, Кировская"
+    "tikName": "Ярославль, Кировская",
+    "uikName": "УИК №1904",
+    "regionCode": "76",
+    "regionTvd": "100100225883693",
+    "regionName": "Ярославская область",
+    "oikTvd": "100100225883695",
+    "oikName": "Ярославская область – Ростовский",
+    "district": {
+      "districtNumber": 195,
+      "oikTvd": "100100225883695"
+    }
   },
   {
     "uikNumber": 1905,
     "uikTvd": "4764019204718",
     "tikTvd": "2762000926793",
-    "tikName": "Ярославль, Кировская"
+    "tikName": "Ярославль, Кировская",
+    "uikName": "УИК №1905",
+    "regionCode": "76",
+    "regionTvd": "100100225883693",
+    "regionName": "Ярославская область",
+    "oikTvd": "100100225883695",
+    "oikName": "Ярославская область – Ростовский",
+    "district": {
+      "districtNumber": 195,
+      "oikTvd": "100100225883695"
+    }
   },
   {
     "uikNumber": 1906,
     "uikTvd": "4764019204719",
     "tikTvd": "2762000926793",
-    "tikName": "Ярославль, Кировская"
+    "tikName": "Ярославль, Кировская",
+    "uikName": "УИК №1906",
+    "regionCode": "76",
+    "regionTvd": "100100225883693",
+    "regionName": "Ярославская область",
+    "oikTvd": "100100225883695",
+    "oikName": "Ярославская область – Ростовский",
+    "district": {
+      "districtNumber": 195,
+      "oikTvd": "100100225883695"
+    }
   },
   {
     "uikNumber": 1907,
     "uikTvd": "4764019204720",
     "tikTvd": "2762000926793",
-    "tikName": "Ярославль, Кировская"
+    "tikName": "Ярославль, Кировская",
+    "uikName": "УИК №1907",
+    "regionCode": "76",
+    "regionTvd": "100100225883693",
+    "regionName": "Ярославская область",
+    "oikTvd": "100100225883695",
+    "oikName": "Ярославская область – Ростовский",
+    "district": {
+      "districtNumber": 195,
+      "oikTvd": "100100225883695"
+    }
   },
   {
     "uikNumber": 1908,
     "uikTvd": "4764019204721",
     "tikTvd": "2762000926793",
-    "tikName": "Ярославль, Кировская"
+    "tikName": "Ярославль, Кировская",
+    "uikName": "УИК №1908",
+    "regionCode": "76",
+    "regionTvd": "100100225883693",
+    "regionName": "Ярославская область",
+    "oikTvd": "100100225883695",
+    "oikName": "Ярославская область – Ростовский",
+    "district": {
+      "districtNumber": 195,
+      "oikTvd": "100100225883695"
+    }
   },
   {
     "uikNumber": 1909,
     "uikTvd": "4764019204722",
     "tikTvd": "2762000926793",
-    "tikName": "Ярославль, Кировская"
+    "tikName": "Ярославль, Кировская",
+    "uikName": "УИК №1909",
+    "regionCode": "76",
+    "regionTvd": "100100225883693",
+    "regionName": "Ярославская область",
+    "oikTvd": "100100225883695",
+    "oikName": "Ярославская область – Ростовский",
+    "district": {
+      "districtNumber": 195,
+      "oikTvd": "100100225883695"
+    }
   },
   {
     "uikNumber": 1910,
     "uikTvd": "4764019204723",
     "tikTvd": "2762000926793",
-    "tikName": "Ярославль, Кировская"
+    "tikName": "Ярославль, Кировская",
+    "uikName": "УИК №1910",
+    "regionCode": "76",
+    "regionTvd": "100100225883693",
+    "regionName": "Ярославская область",
+    "oikTvd": "100100225883695",
+    "oikName": "Ярославская область – Ростовский",
+    "district": {
+      "districtNumber": 195,
+      "oikTvd": "100100225883695"
+    }
   },
   {
     "uikNumber": 1911,
     "uikTvd": "4764019204724",
     "tikTvd": "2762000926793",
-    "tikName": "Ярославль, Кировская"
+    "tikName": "Ярославль, Кировская",
+    "uikName": "УИК №1911",
+    "regionCode": "76",
+    "regionTvd": "100100225883693",
+    "regionName": "Ярославская область",
+    "oikTvd": "100100225883695",
+    "oikName": "Ярославская область – Ростовский",
+    "district": {
+      "districtNumber": 195,
+      "oikTvd": "100100225883695"
+    }
   },
   {
     "uikNumber": 1912,
     "uikTvd": "4764019204725",
     "tikTvd": "2762000926793",
-    "tikName": "Ярославль, Кировская"
+    "tikName": "Ярославль, Кировская",
+    "uikName": "УИК №1912",
+    "regionCode": "76",
+    "regionTvd": "100100225883693",
+    "regionName": "Ярославская область",
+    "oikTvd": "100100225883695",
+    "oikName": "Ярославская область – Ростовский",
+    "district": {
+      "districtNumber": 195,
+      "oikTvd": "100100225883695"
+    }
   },
   {
     "uikNumber": 1913,
     "uikTvd": "4764019204726",
     "tikTvd": "2762000926793",
-    "tikName": "Ярославль, Кировская"
+    "tikName": "Ярославль, Кировская",
+    "uikName": "УИК №1913",
+    "regionCode": "76",
+    "regionTvd": "100100225883693",
+    "regionName": "Ярославская область",
+    "oikTvd": "100100225883695",
+    "oikName": "Ярославская область – Ростовский",
+    "district": {
+      "districtNumber": 195,
+      "oikTvd": "100100225883695"
+    }
   },
   {
     "uikNumber": 1914,
     "uikTvd": "4764019204727",
     "tikTvd": "2762000926793",
-    "tikName": "Ярославль, Кировская"
+    "tikName": "Ярославль, Кировская",
+    "uikName": "УИК №1914",
+    "regionCode": "76",
+    "regionTvd": "100100225883693",
+    "regionName": "Ярославская область",
+    "oikTvd": "100100225883695",
+    "oikName": "Ярославская область – Ростовский",
+    "district": {
+      "districtNumber": 195,
+      "oikTvd": "100100225883695"
+    }
   },
   {
     "uikNumber": 1915,
     "uikTvd": "4764019204728",
     "tikTvd": "2762000926793",
-    "tikName": "Ярославль, Кировская"
+    "tikName": "Ярославль, Кировская",
+    "uikName": "УИК №1915",
+    "regionCode": "76",
+    "regionTvd": "100100225883693",
+    "regionName": "Ярославская область",
+    "oikTvd": "100100225883695",
+    "oikName": "Ярославская область – Ростовский",
+    "district": {
+      "districtNumber": 195,
+      "oikTvd": "100100225883695"
+    }
   },
   {
     "uikNumber": 1916,
     "uikTvd": "4764019204729",
     "tikTvd": "2762000926793",
-    "tikName": "Ярославль, Кировская"
+    "tikName": "Ярославль, Кировская",
+    "uikName": "УИК №1916",
+    "regionCode": "76",
+    "regionTvd": "100100225883693",
+    "regionName": "Ярославская область",
+    "oikTvd": "100100225883695",
+    "oikName": "Ярославская область – Ростовский",
+    "district": {
+      "districtNumber": 195,
+      "oikTvd": "100100225883695"
+    }
   },
   {
     "uikNumber": 1917,
     "uikTvd": "4764019204730",
     "tikTvd": "2762000926793",
-    "tikName": "Ярославль, Кировская"
+    "tikName": "Ярославль, Кировская",
+    "uikName": "УИК №1917",
+    "regionCode": "76",
+    "regionTvd": "100100225883693",
+    "regionName": "Ярославская область",
+    "oikTvd": "100100225883695",
+    "oikName": "Ярославская область – Ростовский",
+    "district": {
+      "districtNumber": 195,
+      "oikTvd": "100100225883695"
+    }
   },
   {
     "uikNumber": 1918,
     "uikTvd": "4764019204731",
     "tikTvd": "2762000926793",
-    "tikName": "Ярославль, Кировская"
+    "tikName": "Ярославль, Кировская",
+    "uikName": "УИК №1918",
+    "regionCode": "76",
+    "regionTvd": "100100225883693",
+    "regionName": "Ярославская область",
+    "oikTvd": "100100225883695",
+    "oikName": "Ярославская область – Ростовский",
+    "district": {
+      "districtNumber": 195,
+      "oikTvd": "100100225883695"
+    }
   },
   {
     "uikNumber": 1919,
     "uikTvd": "4764019204732",
     "tikTvd": "2762000926793",
-    "tikName": "Ярославль, Кировская"
+    "tikName": "Ярославль, Кировская",
+    "uikName": "УИК №1919",
+    "regionCode": "76",
+    "regionTvd": "100100225883693",
+    "regionName": "Ярославская область",
+    "oikTvd": "100100225883695",
+    "oikName": "Ярославская область – Ростовский",
+    "district": {
+      "districtNumber": 195,
+      "oikTvd": "100100225883695"
+    }
   },
   {
     "uikNumber": 1920,
     "uikTvd": "4764019204733",
     "tikTvd": "2762000926793",
-    "tikName": "Ярославль, Кировская"
+    "tikName": "Ярославль, Кировская",
+    "uikName": "УИК №1920",
+    "regionCode": "76",
+    "regionTvd": "100100225883693",
+    "regionName": "Ярославская область",
+    "oikTvd": "100100225883695",
+    "oikName": "Ярославская область – Ростовский",
+    "district": {
+      "districtNumber": 195,
+      "oikTvd": "100100225883695"
+    }
   },
   {
     "uikNumber": 1921,
     "uikTvd": "4764019204734",
     "tikTvd": "2762000926793",
-    "tikName": "Ярославль, Кировская"
+    "tikName": "Ярославль, Кировская",
+    "uikName": "УИК №1921",
+    "regionCode": "76",
+    "regionTvd": "100100225883693",
+    "regionName": "Ярославская область",
+    "oikTvd": "100100225883695",
+    "oikName": "Ярославская область – Ростовский",
+    "district": {
+      "districtNumber": 195,
+      "oikTvd": "100100225883695"
+    }
   },
   {
     "uikNumber": 1922,
     "uikTvd": "4764019204735",
     "tikTvd": "2762000926793",
-    "tikName": "Ярославль, Кировская"
+    "tikName": "Ярославль, Кировская",
+    "uikName": "УИК №1922",
+    "regionCode": "76",
+    "regionTvd": "100100225883693",
+    "regionName": "Ярославская область",
+    "oikTvd": "100100225883695",
+    "oikName": "Ярославская область – Ростовский",
+    "district": {
+      "districtNumber": 195,
+      "oikTvd": "100100225883695"
+    }
   },
   {
     "uikNumber": 1923,
     "uikTvd": "4764019204736",
     "tikTvd": "2762000926793",
-    "tikName": "Ярославль, Кировская"
+    "tikName": "Ярославль, Кировская",
+    "uikName": "УИК №1923",
+    "regionCode": "76",
+    "regionTvd": "100100225883693",
+    "regionName": "Ярославская область",
+    "oikTvd": "100100225883695",
+    "oikName": "Ярославская область – Ростовский",
+    "district": {
+      "districtNumber": 195,
+      "oikTvd": "100100225883695"
+    }
   },
   {
     "uikNumber": 1924,
     "uikTvd": "4764019204737",
     "tikTvd": "2762000926793",
-    "tikName": "Ярославль, Кировская"
+    "tikName": "Ярославль, Кировская",
+    "uikName": "УИК №1924",
+    "regionCode": "76",
+    "regionTvd": "100100225883693",
+    "regionName": "Ярославская область",
+    "oikTvd": "100100225883695",
+    "oikName": "Ярославская область – Ростовский",
+    "district": {
+      "districtNumber": 195,
+      "oikTvd": "100100225883695"
+    }
   },
   {
     "uikNumber": 1925,
     "uikTvd": "4764019204738",
     "tikTvd": "2762000926793",
-    "tikName": "Ярославль, Кировская"
+    "tikName": "Ярославль, Кировская",
+    "uikName": "УИК №1925",
+    "regionCode": "76",
+    "regionTvd": "100100225883693",
+    "regionName": "Ярославская область",
+    "oikTvd": "100100225883695",
+    "oikName": "Ярославская область – Ростовский",
+    "district": {
+      "districtNumber": 195,
+      "oikTvd": "100100225883695"
+    }
   },
   {
     "uikNumber": 1926,
     "uikTvd": "4764019204712",
     "tikTvd": "2762000926793",
-    "tikName": "Ярославль, Кировская"
+    "tikName": "Ярославль, Кировская",
+    "uikName": "УИК №1926",
+    "regionCode": "76",
+    "regionTvd": "100100225883693",
+    "regionName": "Ярославская область",
+    "oikTvd": "100100225883695",
+    "oikName": "Ярославская область – Ростовский",
+    "district": {
+      "districtNumber": 195,
+      "oikTvd": "100100225883695"
+    }
   },
   {
     "uikNumber": 1927,
     "uikTvd": "4764019204739",
     "tikTvd": "2762000926793",
-    "tikName": "Ярославль, Кировская"
+    "tikName": "Ярославль, Кировская",
+    "uikName": "УИК №1927",
+    "regionCode": "76",
+    "regionTvd": "100100225883693",
+    "regionName": "Ярославская область",
+    "oikTvd": "100100225883695",
+    "oikName": "Ярославская область – Ростовский",
+    "district": {
+      "districtNumber": 195,
+      "oikTvd": "100100225883695"
+    }
   },
   {
     "uikNumber": 1999,
     "uikTvd": "4764019206084",
     "tikTvd": "2762000926793",
-    "tikName": "Ярославль, Кировская"
+    "tikName": "Ярославль, Кировская",
+    "uikName": "УИК №1999",
+    "regionCode": "76",
+    "regionTvd": "100100225883693",
+    "regionName": "Ярославская область",
+    "oikTvd": "100100225883695",
+    "oikName": "Ярославская область – Ростовский",
+    "district": {
+      "districtNumber": 195,
+      "oikTvd": "100100225883695"
+    }
   },
   {
     "uikNumber": 2001,
     "uikTvd": "4764020211042",
     "tikTvd": "2762000926792",
-    "tikName": "Ярославль, Красноперекопская"
+    "tikName": "Ярославль, Красноперекопская",
+    "uikName": "УИК №2001",
+    "regionCode": "76",
+    "regionTvd": "100100225883693",
+    "regionName": "Ярославская область",
+    "oikTvd": "100100225883695",
+    "oikName": "Ярославская область – Ростовский",
+    "district": {
+      "districtNumber": 195,
+      "oikTvd": "100100225883695"
+    }
   },
   {
     "uikNumber": 2002,
     "uikTvd": "4764020211043",
     "tikTvd": "2762000926792",
-    "tikName": "Ярославль, Красноперекопская"
+    "tikName": "Ярославль, Красноперекопская",
+    "uikName": "УИК №2002",
+    "regionCode": "76",
+    "regionTvd": "100100225883693",
+    "regionName": "Ярославская область",
+    "oikTvd": "100100225883695",
+    "oikName": "Ярославская область – Ростовский",
+    "district": {
+      "districtNumber": 195,
+      "oikTvd": "100100225883695"
+    }
   },
   {
     "uikNumber": 2003,
     "uikTvd": "4764020211044",
     "tikTvd": "2762000926792",
-    "tikName": "Ярославль, Красноперекопская"
+    "tikName": "Ярославль, Красноперекопская",
+    "uikName": "УИК №2003",
+    "regionCode": "76",
+    "regionTvd": "100100225883693",
+    "regionName": "Ярославская область",
+    "oikTvd": "100100225883695",
+    "oikName": "Ярославская область – Ростовский",
+    "district": {
+      "districtNumber": 195,
+      "oikTvd": "100100225883695"
+    }
   },
   {
     "uikNumber": 2004,
     "uikTvd": "4764020211045",
     "tikTvd": "2762000926792",
-    "tikName": "Ярославль, Красноперекопская"
+    "tikName": "Ярославль, Красноперекопская",
+    "uikName": "УИК №2004",
+    "regionCode": "76",
+    "regionTvd": "100100225883693",
+    "regionName": "Ярославская область",
+    "oikTvd": "100100225883695",
+    "oikName": "Ярославская область – Ростовский",
+    "district": {
+      "districtNumber": 195,
+      "oikTvd": "100100225883695"
+    }
   },
   {
     "uikNumber": 2005,
     "uikTvd": "4764020211046",
     "tikTvd": "2762000926792",
-    "tikName": "Ярославль, Красноперекопская"
+    "tikName": "Ярославль, Красноперекопская",
+    "uikName": "УИК №2005",
+    "regionCode": "76",
+    "regionTvd": "100100225883693",
+    "regionName": "Ярославская область",
+    "oikTvd": "100100225883695",
+    "oikName": "Ярославская область – Ростовский",
+    "district": {
+      "districtNumber": 195,
+      "oikTvd": "100100225883695"
+    }
   },
   {
     "uikNumber": 2006,
     "uikTvd": "4764020211047",
     "tikTvd": "2762000926792",
-    "tikName": "Ярославль, Красноперекопская"
+    "tikName": "Ярославль, Красноперекопская",
+    "uikName": "УИК №2006",
+    "regionCode": "76",
+    "regionTvd": "100100225883693",
+    "regionName": "Ярославская область",
+    "oikTvd": "100100225883695",
+    "oikName": "Ярославская область – Ростовский",
+    "district": {
+      "districtNumber": 195,
+      "oikTvd": "100100225883695"
+    }
   },
   {
     "uikNumber": 2007,
     "uikTvd": "4764020211048",
     "tikTvd": "2762000926792",
-    "tikName": "Ярославль, Красноперекопская"
+    "tikName": "Ярославль, Красноперекопская",
+    "uikName": "УИК №2007",
+    "regionCode": "76",
+    "regionTvd": "100100225883693",
+    "regionName": "Ярославская область",
+    "oikTvd": "100100225883695",
+    "oikName": "Ярославская область – Ростовский",
+    "district": {
+      "districtNumber": 195,
+      "oikTvd": "100100225883695"
+    }
   },
   {
     "uikNumber": 2008,
     "uikTvd": "4764020211049",
     "tikTvd": "2762000926792",
-    "tikName": "Ярославль, Красноперекопская"
+    "tikName": "Ярославль, Красноперекопская",
+    "uikName": "УИК №2008",
+    "regionCode": "76",
+    "regionTvd": "100100225883693",
+    "regionName": "Ярославская область",
+    "oikTvd": "100100225883695",
+    "oikName": "Ярославская область – Ростовский",
+    "district": {
+      "districtNumber": 195,
+      "oikTvd": "100100225883695"
+    }
   },
   {
     "uikNumber": 2009,
     "uikTvd": "4764020211050",
     "tikTvd": "2762000926792",
-    "tikName": "Ярославль, Красноперекопская"
+    "tikName": "Ярославль, Красноперекопская",
+    "uikName": "УИК №2009",
+    "regionCode": "76",
+    "regionTvd": "100100225883693",
+    "regionName": "Ярославская область",
+    "oikTvd": "100100225883695",
+    "oikName": "Ярославская область – Ростовский",
+    "district": {
+      "districtNumber": 195,
+      "oikTvd": "100100225883695"
+    }
   },
   {
     "uikNumber": 2010,
     "uikTvd": "4764020211051",
     "tikTvd": "2762000926792",
-    "tikName": "Ярославль, Красноперекопская"
+    "tikName": "Ярославль, Красноперекопская",
+    "uikName": "УИК №2010",
+    "regionCode": "76",
+    "regionTvd": "100100225883693",
+    "regionName": "Ярославская область",
+    "oikTvd": "100100225883695",
+    "oikName": "Ярославская область – Ростовский",
+    "district": {
+      "districtNumber": 195,
+      "oikTvd": "100100225883695"
+    }
   },
   {
     "uikNumber": 2011,
     "uikTvd": "4764020211052",
     "tikTvd": "2762000926792",
-    "tikName": "Ярославль, Красноперекопская"
+    "tikName": "Ярославль, Красноперекопская",
+    "uikName": "УИК №2011",
+    "regionCode": "76",
+    "regionTvd": "100100225883693",
+    "regionName": "Ярославская область",
+    "oikTvd": "100100225883695",
+    "oikName": "Ярославская область – Ростовский",
+    "district": {
+      "districtNumber": 195,
+      "oikTvd": "100100225883695"
+    }
   },
   {
     "uikNumber": 2012,
     "uikTvd": "4764020211053",
     "tikTvd": "2762000926792",
-    "tikName": "Ярославль, Красноперекопская"
+    "tikName": "Ярославль, Красноперекопская",
+    "uikName": "УИК №2012",
+    "regionCode": "76",
+    "regionTvd": "100100225883693",
+    "regionName": "Ярославская область",
+    "oikTvd": "100100225883695",
+    "oikName": "Ярославская область – Ростовский",
+    "district": {
+      "districtNumber": 195,
+      "oikTvd": "100100225883695"
+    }
   },
   {
     "uikNumber": 2013,
     "uikTvd": "4764020211054",
     "tikTvd": "2762000926792",
-    "tikName": "Ярославль, Красноперекопская"
+    "tikName": "Ярославль, Красноперекопская",
+    "uikName": "УИК №2013",
+    "regionCode": "76",
+    "regionTvd": "100100225883693",
+    "regionName": "Ярославская область",
+    "oikTvd": "100100225883695",
+    "oikName": "Ярославская область – Ростовский",
+    "district": {
+      "districtNumber": 195,
+      "oikTvd": "100100225883695"
+    }
   },
   {
     "uikNumber": 2014,
     "uikTvd": "4764020211055",
     "tikTvd": "2762000926792",
-    "tikName": "Ярославль, Красноперекопская"
+    "tikName": "Ярославль, Красноперекопская",
+    "uikName": "УИК №2014",
+    "regionCode": "76",
+    "regionTvd": "100100225883693",
+    "regionName": "Ярославская область",
+    "oikTvd": "100100225883695",
+    "oikName": "Ярославская область – Ростовский",
+    "district": {
+      "districtNumber": 195,
+      "oikTvd": "100100225883695"
+    }
   },
   {
     "uikNumber": 2015,
     "uikTvd": "4764020211056",
     "tikTvd": "2762000926792",
-    "tikName": "Ярославль, Красноперекопская"
+    "tikName": "Ярославль, Красноперекопская",
+    "uikName": "УИК №2015",
+    "regionCode": "76",
+    "regionTvd": "100100225883693",
+    "regionName": "Ярославская область",
+    "oikTvd": "100100225883695",
+    "oikName": "Ярославская область – Ростовский",
+    "district": {
+      "districtNumber": 195,
+      "oikTvd": "100100225883695"
+    }
   },
   {
     "uikNumber": 2016,
     "uikTvd": "4764020211057",
     "tikTvd": "2762000926792",
-    "tikName": "Ярославль, Красноперекопская"
+    "tikName": "Ярославль, Красноперекопская",
+    "uikName": "УИК №2016",
+    "regionCode": "76",
+    "regionTvd": "100100225883693",
+    "regionName": "Ярославская область",
+    "oikTvd": "100100225883695",
+    "oikName": "Ярославская область – Ростовский",
+    "district": {
+      "districtNumber": 195,
+      "oikTvd": "100100225883695"
+    }
   },
   {
     "uikNumber": 2017,
     "uikTvd": "4764020211058",
     "tikTvd": "2762000926792",
-    "tikName": "Ярославль, Красноперекопская"
+    "tikName": "Ярославль, Красноперекопская",
+    "uikName": "УИК №2017",
+    "regionCode": "76",
+    "regionTvd": "100100225883693",
+    "regionName": "Ярославская область",
+    "oikTvd": "100100225883695",
+    "oikName": "Ярославская область – Ростовский",
+    "district": {
+      "districtNumber": 195,
+      "oikTvd": "100100225883695"
+    }
   },
   {
     "uikNumber": 2018,
     "uikTvd": "4764020211059",
     "tikTvd": "2762000926792",
-    "tikName": "Ярославль, Красноперекопская"
+    "tikName": "Ярославль, Красноперекопская",
+    "uikName": "УИК №2018",
+    "regionCode": "76",
+    "regionTvd": "100100225883693",
+    "regionName": "Ярославская область",
+    "oikTvd": "100100225883695",
+    "oikName": "Ярославская область – Ростовский",
+    "district": {
+      "districtNumber": 195,
+      "oikTvd": "100100225883695"
+    }
   },
   {
     "uikNumber": 2019,
     "uikTvd": "4764020211060",
     "tikTvd": "2762000926792",
-    "tikName": "Ярославль, Красноперекопская"
+    "tikName": "Ярославль, Красноперекопская",
+    "uikName": "УИК №2019",
+    "regionCode": "76",
+    "regionTvd": "100100225883693",
+    "regionName": "Ярославская область",
+    "oikTvd": "100100225883695",
+    "oikName": "Ярославская область – Ростовский",
+    "district": {
+      "districtNumber": 195,
+      "oikTvd": "100100225883695"
+    }
   },
   {
     "uikNumber": 2020,
     "uikTvd": "4764020211061",
     "tikTvd": "2762000926792",
-    "tikName": "Ярославль, Красноперекопская"
+    "tikName": "Ярославль, Красноперекопская",
+    "uikName": "УИК №2020",
+    "regionCode": "76",
+    "regionTvd": "100100225883693",
+    "regionName": "Ярославская область",
+    "oikTvd": "100100225883695",
+    "oikName": "Ярославская область – Ростовский",
+    "district": {
+      "districtNumber": 195,
+      "oikTvd": "100100225883695"
+    }
   },
   {
     "uikNumber": 2021,
     "uikTvd": "4764020211062",
     "tikTvd": "2762000926792",
-    "tikName": "Ярославль, Красноперекопская"
+    "tikName": "Ярославль, Красноперекопская",
+    "uikName": "УИК №2021",
+    "regionCode": "76",
+    "regionTvd": "100100225883693",
+    "regionName": "Ярославская область",
+    "oikTvd": "100100225883695",
+    "oikName": "Ярославская область – Ростовский",
+    "district": {
+      "districtNumber": 195,
+      "oikTvd": "100100225883695"
+    }
   },
   {
     "uikNumber": 2022,
     "uikTvd": "4764020211063",
     "tikTvd": "2762000926792",
-    "tikName": "Ярославль, Красноперекопская"
+    "tikName": "Ярославль, Красноперекопская",
+    "uikName": "УИК №2022",
+    "regionCode": "76",
+    "regionTvd": "100100225883693",
+    "regionName": "Ярославская область",
+    "oikTvd": "100100225883695",
+    "oikName": "Ярославская область – Ростовский",
+    "district": {
+      "districtNumber": 195,
+      "oikTvd": "100100225883695"
+    }
   },
   {
     "uikNumber": 2023,
     "uikTvd": "4764020211064",
     "tikTvd": "2762000926792",
-    "tikName": "Ярославль, Красноперекопская"
+    "tikName": "Ярославль, Красноперекопская",
+    "uikName": "УИК №2023",
+    "regionCode": "76",
+    "regionTvd": "100100225883693",
+    "regionName": "Ярославская область",
+    "oikTvd": "100100225883695",
+    "oikName": "Ярославская область – Ростовский",
+    "district": {
+      "districtNumber": 195,
+      "oikTvd": "100100225883695"
+    }
   },
   {
     "uikNumber": 2024,
     "uikTvd": "4764020211065",
     "tikTvd": "2762000926792",
-    "tikName": "Ярославль, Красноперекопская"
+    "tikName": "Ярославль, Красноперекопская",
+    "uikName": "УИК №2024",
+    "regionCode": "76",
+    "regionTvd": "100100225883693",
+    "regionName": "Ярославская область",
+    "oikTvd": "100100225883695",
+    "oikName": "Ярославская область – Ростовский",
+    "district": {
+      "districtNumber": 195,
+      "oikTvd": "100100225883695"
+    }
   },
   {
     "uikNumber": 2025,
     "uikTvd": "4764020211066",
     "tikTvd": "2762000926792",
-    "tikName": "Ярославль, Красноперекопская"
+    "tikName": "Ярославль, Красноперекопская",
+    "uikName": "УИК №2025",
+    "regionCode": "76",
+    "regionTvd": "100100225883693",
+    "regionName": "Ярославская область",
+    "oikTvd": "100100225883695",
+    "oikName": "Ярославская область – Ростовский",
+    "district": {
+      "districtNumber": 195,
+      "oikTvd": "100100225883695"
+    }
   },
   {
     "uikNumber": 2099,
     "uikTvd": "4764020212123",
     "tikTvd": "2762000926792",
-    "tikName": "Ярославль, Красноперекопская"
+    "tikName": "Ярославль, Красноперекопская",
+    "uikName": "УИК №2099",
+    "regionCode": "76",
+    "regionTvd": "100100225883693",
+    "regionName": "Ярославская область",
+    "oikTvd": "100100225883695",
+    "oikName": "Ярославская область – Ростовский",
+    "district": {
+      "districtNumber": 195,
+      "oikTvd": "100100225883695"
+    }
   },
   {
     "uikNumber": 2101,
     "uikTvd": "4764021233880",
     "tikTvd": "2762000926778",
-    "tikName": "Ярославль, Ленинская"
+    "tikName": "Ярославль, Ленинская",
+    "uikName": "УИК №2101",
+    "regionCode": "76",
+    "regionTvd": "100100225883693",
+    "regionName": "Ярославская область",
+    "oikTvd": "100100225883694",
+    "oikName": "Ярославская область – Ярославский",
+    "district": {
+      "districtNumber": 194,
+      "oikTvd": "100100225883694"
+    }
   },
   {
     "uikNumber": 2102,
     "uikTvd": "4764021233882",
     "tikTvd": "2762000926778",
-    "tikName": "Ярославль, Ленинская"
+    "tikName": "Ярославль, Ленинская",
+    "uikName": "УИК №2102",
+    "regionCode": "76",
+    "regionTvd": "100100225883693",
+    "regionName": "Ярославская область",
+    "oikTvd": "100100225883694",
+    "oikName": "Ярославская область – Ярославский",
+    "district": {
+      "districtNumber": 194,
+      "oikTvd": "100100225883694"
+    }
   },
   {
     "uikNumber": 2103,
     "uikTvd": "4764021233883",
     "tikTvd": "2762000926778",
-    "tikName": "Ярославль, Ленинская"
+    "tikName": "Ярославль, Ленинская",
+    "uikName": "УИК №2103",
+    "regionCode": "76",
+    "regionTvd": "100100225883693",
+    "regionName": "Ярославская область",
+    "oikTvd": "100100225883694",
+    "oikName": "Ярославская область – Ярославский",
+    "district": {
+      "districtNumber": 194,
+      "oikTvd": "100100225883694"
+    }
   },
   {
     "uikNumber": 2104,
     "uikTvd": "4764021233884",
     "tikTvd": "2762000926778",
-    "tikName": "Ярославль, Ленинская"
+    "tikName": "Ярославль, Ленинская",
+    "uikName": "УИК №2104",
+    "regionCode": "76",
+    "regionTvd": "100100225883693",
+    "regionName": "Ярославская область",
+    "oikTvd": "100100225883694",
+    "oikName": "Ярославская область – Ярославский",
+    "district": {
+      "districtNumber": 194,
+      "oikTvd": "100100225883694"
+    }
   },
   {
     "uikNumber": 2105,
     "uikTvd": "4764021233885",
     "tikTvd": "2762000926778",
-    "tikName": "Ярославль, Ленинская"
+    "tikName": "Ярославль, Ленинская",
+    "uikName": "УИК №2105",
+    "regionCode": "76",
+    "regionTvd": "100100225883693",
+    "regionName": "Ярославская область",
+    "oikTvd": "100100225883694",
+    "oikName": "Ярославская область – Ярославский",
+    "district": {
+      "districtNumber": 194,
+      "oikTvd": "100100225883694"
+    }
   },
   {
     "uikNumber": 2106,
     "uikTvd": "4764021233886",
     "tikTvd": "2762000926778",
-    "tikName": "Ярославль, Ленинская"
+    "tikName": "Ярославль, Ленинская",
+    "uikName": "УИК №2106",
+    "regionCode": "76",
+    "regionTvd": "100100225883693",
+    "regionName": "Ярославская область",
+    "oikTvd": "100100225883694",
+    "oikName": "Ярославская область – Ярославский",
+    "district": {
+      "districtNumber": 194,
+      "oikTvd": "100100225883694"
+    }
   },
   {
     "uikNumber": 2107,
     "uikTvd": "4764021233887",
     "tikTvd": "2762000926778",
-    "tikName": "Ярославль, Ленинская"
+    "tikName": "Ярославль, Ленинская",
+    "uikName": "УИК №2107",
+    "regionCode": "76",
+    "regionTvd": "100100225883693",
+    "regionName": "Ярославская область",
+    "oikTvd": "100100225883694",
+    "oikName": "Ярославская область – Ярославский",
+    "district": {
+      "districtNumber": 194,
+      "oikTvd": "100100225883694"
+    }
   },
   {
     "uikNumber": 2108,
     "uikTvd": "4764021233888",
     "tikTvd": "2762000926778",
-    "tikName": "Ярославль, Ленинская"
+    "tikName": "Ярославль, Ленинская",
+    "uikName": "УИК №2108",
+    "regionCode": "76",
+    "regionTvd": "100100225883693",
+    "regionName": "Ярославская область",
+    "oikTvd": "100100225883694",
+    "oikName": "Ярославская область – Ярославский",
+    "district": {
+      "districtNumber": 194,
+      "oikTvd": "100100225883694"
+    }
   },
   {
     "uikNumber": 2109,
     "uikTvd": "4764021233889",
     "tikTvd": "2762000926778",
-    "tikName": "Ярославль, Ленинская"
+    "tikName": "Ярославль, Ленинская",
+    "uikName": "УИК №2109",
+    "regionCode": "76",
+    "regionTvd": "100100225883693",
+    "regionName": "Ярославская область",
+    "oikTvd": "100100225883694",
+    "oikName": "Ярославская область – Ярославский",
+    "district": {
+      "districtNumber": 194,
+      "oikTvd": "100100225883694"
+    }
   },
   {
     "uikNumber": 2110,
     "uikTvd": "4764021233890",
     "tikTvd": "2762000926778",
-    "tikName": "Ярославль, Ленинская"
+    "tikName": "Ярославль, Ленинская",
+    "uikName": "УИК №2110",
+    "regionCode": "76",
+    "regionTvd": "100100225883693",
+    "regionName": "Ярославская область",
+    "oikTvd": "100100225883694",
+    "oikName": "Ярославская область – Ярославский",
+    "district": {
+      "districtNumber": 194,
+      "oikTvd": "100100225883694"
+    }
   },
   {
     "uikNumber": 2111,
     "uikTvd": "4764021233891",
     "tikTvd": "2762000926778",
-    "tikName": "Ярославль, Ленинская"
+    "tikName": "Ярославль, Ленинская",
+    "uikName": "УИК №2111",
+    "regionCode": "76",
+    "regionTvd": "100100225883693",
+    "regionName": "Ярославская область",
+    "oikTvd": "100100225883694",
+    "oikName": "Ярославская область – Ярославский",
+    "district": {
+      "districtNumber": 194,
+      "oikTvd": "100100225883694"
+    }
   },
   {
     "uikNumber": 2112,
     "uikTvd": "4764021233892",
     "tikTvd": "2762000926778",
-    "tikName": "Ярославль, Ленинская"
+    "tikName": "Ярославль, Ленинская",
+    "uikName": "УИК №2112",
+    "regionCode": "76",
+    "regionTvd": "100100225883693",
+    "regionName": "Ярославская область",
+    "oikTvd": "100100225883694",
+    "oikName": "Ярославская область – Ярославский",
+    "district": {
+      "districtNumber": 194,
+      "oikTvd": "100100225883694"
+    }
   },
   {
     "uikNumber": 2113,
     "uikTvd": "4764021233893",
     "tikTvd": "2762000926778",
-    "tikName": "Ярославль, Ленинская"
+    "tikName": "Ярославль, Ленинская",
+    "uikName": "УИК №2113",
+    "regionCode": "76",
+    "regionTvd": "100100225883693",
+    "regionName": "Ярославская область",
+    "oikTvd": "100100225883694",
+    "oikName": "Ярославская область – Ярославский",
+    "district": {
+      "districtNumber": 194,
+      "oikTvd": "100100225883694"
+    }
   },
   {
     "uikNumber": 2114,
     "uikTvd": "4764021233894",
     "tikTvd": "2762000926778",
-    "tikName": "Ярославль, Ленинская"
+    "tikName": "Ярославль, Ленинская",
+    "uikName": "УИК №2114",
+    "regionCode": "76",
+    "regionTvd": "100100225883693",
+    "regionName": "Ярославская область",
+    "oikTvd": "100100225883694",
+    "oikName": "Ярославская область – Ярославский",
+    "district": {
+      "districtNumber": 194,
+      "oikTvd": "100100225883694"
+    }
   },
   {
     "uikNumber": 2115,
     "uikTvd": "4764021233895",
     "tikTvd": "2762000926778",
-    "tikName": "Ярославль, Ленинская"
+    "tikName": "Ярославль, Ленинская",
+    "uikName": "УИК №2115",
+    "regionCode": "76",
+    "regionTvd": "100100225883693",
+    "regionName": "Ярославская область",
+    "oikTvd": "100100225883694",
+    "oikName": "Ярославская область – Ярославский",
+    "district": {
+      "districtNumber": 194,
+      "oikTvd": "100100225883694"
+    }
   },
   {
     "uikNumber": 2116,
     "uikTvd": "4764021233896",
     "tikTvd": "2762000926778",
-    "tikName": "Ярославль, Ленинская"
+    "tikName": "Ярославль, Ленинская",
+    "uikName": "УИК №2116",
+    "regionCode": "76",
+    "regionTvd": "100100225883693",
+    "regionName": "Ярославская область",
+    "oikTvd": "100100225883694",
+    "oikName": "Ярославская область – Ярославский",
+    "district": {
+      "districtNumber": 194,
+      "oikTvd": "100100225883694"
+    }
   },
   {
     "uikNumber": 2117,
     "uikTvd": "4764021233897",
     "tikTvd": "2762000926778",
-    "tikName": "Ярославль, Ленинская"
+    "tikName": "Ярославль, Ленинская",
+    "uikName": "УИК №2117",
+    "regionCode": "76",
+    "regionTvd": "100100225883693",
+    "regionName": "Ярославская область",
+    "oikTvd": "100100225883694",
+    "oikName": "Ярославская область – Ярославский",
+    "district": {
+      "districtNumber": 194,
+      "oikTvd": "100100225883694"
+    }
   },
   {
     "uikNumber": 2118,
     "uikTvd": "4764021233898",
     "tikTvd": "2762000926778",
-    "tikName": "Ярославль, Ленинская"
+    "tikName": "Ярославль, Ленинская",
+    "uikName": "УИК №2118",
+    "regionCode": "76",
+    "regionTvd": "100100225883693",
+    "regionName": "Ярославская область",
+    "oikTvd": "100100225883694",
+    "oikName": "Ярославская область – Ярославский",
+    "district": {
+      "districtNumber": 194,
+      "oikTvd": "100100225883694"
+    }
   },
   {
     "uikNumber": 2119,
     "uikTvd": "4764021233899",
     "tikTvd": "2762000926778",
-    "tikName": "Ярославль, Ленинская"
+    "tikName": "Ярославль, Ленинская",
+    "uikName": "УИК №2119",
+    "regionCode": "76",
+    "regionTvd": "100100225883693",
+    "regionName": "Ярославская область",
+    "oikTvd": "100100225883694",
+    "oikName": "Ярославская область – Ярославский",
+    "district": {
+      "districtNumber": 194,
+      "oikTvd": "100100225883694"
+    }
   },
   {
     "uikNumber": 2120,
     "uikTvd": "4764021233900",
     "tikTvd": "2762000926778",
-    "tikName": "Ярославль, Ленинская"
+    "tikName": "Ярославль, Ленинская",
+    "uikName": "УИК №2120",
+    "regionCode": "76",
+    "regionTvd": "100100225883693",
+    "regionName": "Ярославская область",
+    "oikTvd": "100100225883694",
+    "oikName": "Ярославская область – Ярославский",
+    "district": {
+      "districtNumber": 194,
+      "oikTvd": "100100225883694"
+    }
   },
   {
     "uikNumber": 2121,
     "uikTvd": "4764021233901",
     "tikTvd": "2762000926778",
-    "tikName": "Ярославль, Ленинская"
+    "tikName": "Ярославль, Ленинская",
+    "uikName": "УИК №2121",
+    "regionCode": "76",
+    "regionTvd": "100100225883693",
+    "regionName": "Ярославская область",
+    "oikTvd": "100100225883694",
+    "oikName": "Ярославская область – Ярославский",
+    "district": {
+      "districtNumber": 194,
+      "oikTvd": "100100225883694"
+    }
   },
   {
     "uikNumber": 2122,
     "uikTvd": "4764021233902",
     "tikTvd": "2762000926778",
-    "tikName": "Ярославль, Ленинская"
+    "tikName": "Ярославль, Ленинская",
+    "uikName": "УИК №2122",
+    "regionCode": "76",
+    "regionTvd": "100100225883693",
+    "regionName": "Ярославская область",
+    "oikTvd": "100100225883694",
+    "oikName": "Ярославская область – Ярославский",
+    "district": {
+      "districtNumber": 194,
+      "oikTvd": "100100225883694"
+    }
   },
   {
     "uikNumber": 2123,
     "uikTvd": "4764021233903",
     "tikTvd": "2762000926778",
-    "tikName": "Ярославль, Ленинская"
+    "tikName": "Ярославль, Ленинская",
+    "uikName": "УИК №2123",
+    "regionCode": "76",
+    "regionTvd": "100100225883693",
+    "regionName": "Ярославская область",
+    "oikTvd": "100100225883694",
+    "oikName": "Ярославская область – Ярославский",
+    "district": {
+      "districtNumber": 194,
+      "oikTvd": "100100225883694"
+    }
   },
   {
     "uikNumber": 2124,
     "uikTvd": "4764021233904",
     "tikTvd": "2762000926778",
-    "tikName": "Ярославль, Ленинская"
+    "tikName": "Ярославль, Ленинская",
+    "uikName": "УИК №2124",
+    "regionCode": "76",
+    "regionTvd": "100100225883693",
+    "regionName": "Ярославская область",
+    "oikTvd": "100100225883694",
+    "oikName": "Ярославская область – Ярославский",
+    "district": {
+      "districtNumber": 194,
+      "oikTvd": "100100225883694"
+    }
   },
   {
     "uikNumber": 2125,
     "uikTvd": "4764021233905",
     "tikTvd": "2762000926778",
-    "tikName": "Ярославль, Ленинская"
+    "tikName": "Ярославль, Ленинская",
+    "uikName": "УИК №2125",
+    "regionCode": "76",
+    "regionTvd": "100100225883693",
+    "regionName": "Ярославская область",
+    "oikTvd": "100100225883694",
+    "oikName": "Ярославская область – Ярославский",
+    "district": {
+      "districtNumber": 194,
+      "oikTvd": "100100225883694"
+    }
   },
   {
     "uikNumber": 2126,
     "uikTvd": "4764021233906",
     "tikTvd": "2762000926778",
-    "tikName": "Ярославль, Ленинская"
+    "tikName": "Ярославль, Ленинская",
+    "uikName": "УИК №2126",
+    "regionCode": "76",
+    "regionTvd": "100100225883693",
+    "regionName": "Ярославская область",
+    "oikTvd": "100100225883694",
+    "oikName": "Ярославская область – Ярославский",
+    "district": {
+      "districtNumber": 194,
+      "oikTvd": "100100225883694"
+    }
   },
   {
     "uikNumber": 2127,
     "uikTvd": "4764021233907",
     "tikTvd": "2762000926778",
-    "tikName": "Ярославль, Ленинская"
+    "tikName": "Ярославль, Ленинская",
+    "uikName": "УИК №2127",
+    "regionCode": "76",
+    "regionTvd": "100100225883693",
+    "regionName": "Ярославская область",
+    "oikTvd": "100100225883694",
+    "oikName": "Ярославская область – Ярославский",
+    "district": {
+      "districtNumber": 194,
+      "oikTvd": "100100225883694"
+    }
   },
   {
     "uikNumber": 2191,
     "uikTvd": "4764021235682",
     "tikTvd": "2762000926778",
-    "tikName": "Ярославль, Ленинская"
+    "tikName": "Ярославль, Ленинская",
+    "uikName": "УИК №2191",
+    "regionCode": "76",
+    "regionTvd": "100100225883693",
+    "regionName": "Ярославская область",
+    "oikTvd": "100100225883694",
+    "oikName": "Ярославская область – Ярославский",
+    "district": {
+      "districtNumber": 194,
+      "oikTvd": "100100225883694"
+    }
   },
   {
     "uikNumber": 2193,
     "uikTvd": "4764021235684",
     "tikTvd": "2762000926778",
-    "tikName": "Ярославль, Ленинская"
+    "tikName": "Ярославль, Ленинская",
+    "uikName": "УИК №2193",
+    "regionCode": "76",
+    "regionTvd": "100100225883693",
+    "regionName": "Ярославская область",
+    "oikTvd": "100100225883694",
+    "oikName": "Ярославская область – Ярославский",
+    "district": {
+      "districtNumber": 194,
+      "oikTvd": "100100225883694"
+    }
   },
   {
     "uikNumber": 2194,
     "uikTvd": "4764021235686",
     "tikTvd": "2762000926778",
-    "tikName": "Ярославль, Ленинская"
+    "tikName": "Ярославль, Ленинская",
+    "uikName": "УИК №2194",
+    "regionCode": "76",
+    "regionTvd": "100100225883693",
+    "regionName": "Ярославская область",
+    "oikTvd": "100100225883694",
+    "oikName": "Ярославская область – Ярославский",
+    "district": {
+      "districtNumber": 194,
+      "oikTvd": "100100225883694"
+    }
   },
   {
     "uikNumber": 2196,
     "uikTvd": "4764021235688",
     "tikTvd": "2762000926778",
-    "tikName": "Ярославль, Ленинская"
+    "tikName": "Ярославль, Ленинская",
+    "uikName": "УИК №2196",
+    "regionCode": "76",
+    "regionTvd": "100100225883693",
+    "regionName": "Ярославская область",
+    "oikTvd": "100100225883694",
+    "oikName": "Ярославская область – Ярославский",
+    "district": {
+      "districtNumber": 194,
+      "oikTvd": "100100225883694"
+    }
   },
   {
     "uikNumber": 2197,
     "uikTvd": "4764021235690",
     "tikTvd": "2762000926778",
-    "tikName": "Ярославль, Ленинская"
+    "tikName": "Ярославль, Ленинская",
+    "uikName": "УИК №2197",
+    "regionCode": "76",
+    "regionTvd": "100100225883693",
+    "regionName": "Ярославская область",
+    "oikTvd": "100100225883694",
+    "oikName": "Ярославская область – Ярославский",
+    "district": {
+      "districtNumber": 194,
+      "oikTvd": "100100225883694"
+    }
   },
   {
     "uikNumber": 2198,
     "uikTvd": "4764021235692",
     "tikTvd": "2762000926778",
-    "tikName": "Ярославль, Ленинская"
+    "tikName": "Ярославль, Ленинская",
+    "uikName": "УИК №2198",
+    "regionCode": "76",
+    "regionTvd": "100100225883693",
+    "regionName": "Ярославская область",
+    "oikTvd": "100100225883694",
+    "oikName": "Ярославская область – Ярославский",
+    "district": {
+      "districtNumber": 194,
+      "oikTvd": "100100225883694"
+    }
   },
   {
     "uikNumber": 2199,
     "uikTvd": "4764021235694",
     "tikTvd": "2762000926778",
-    "tikName": "Ярославль, Ленинская"
+    "tikName": "Ярославль, Ленинская",
+    "uikName": "УИК №2199",
+    "regionCode": "76",
+    "regionTvd": "100100225883693",
+    "regionName": "Ярославская область",
+    "oikTvd": "100100225883694",
+    "oikName": "Ярославская область – Ярославский",
+    "district": {
+      "districtNumber": 194,
+      "oikTvd": "100100225883694"
+    }
   },
   {
     "uikNumber": 2201,
     "uikTvd": "4764022286893",
     "tikTvd": "2762000926777",
-    "tikName": "Ярославль, Фрунзенская"
+    "tikName": "Ярославль, Фрунзенская",
+    "uikName": "УИК №2201",
+    "regionCode": "76",
+    "regionTvd": "100100225883693",
+    "regionName": "Ярославская область",
+    "oikTvd": "100100225883694",
+    "oikName": "Ярославская область – Ярославский",
+    "district": {
+      "districtNumber": 194,
+      "oikTvd": "100100225883694"
+    }
   },
   {
     "uikNumber": 2202,
     "uikTvd": "4764022286894",
     "tikTvd": "2762000926777",
-    "tikName": "Ярославль, Фрунзенская"
+    "tikName": "Ярославль, Фрунзенская",
+    "uikName": "УИК №2202",
+    "regionCode": "76",
+    "regionTvd": "100100225883693",
+    "regionName": "Ярославская область",
+    "oikTvd": "100100225883694",
+    "oikName": "Ярославская область – Ярославский",
+    "district": {
+      "districtNumber": 194,
+      "oikTvd": "100100225883694"
+    }
   },
   {
     "uikNumber": 2203,
     "uikTvd": "4764022286895",
     "tikTvd": "2762000926777",
-    "tikName": "Ярославль, Фрунзенская"
+    "tikName": "Ярославль, Фрунзенская",
+    "uikName": "УИК №2203",
+    "regionCode": "76",
+    "regionTvd": "100100225883693",
+    "regionName": "Ярославская область",
+    "oikTvd": "100100225883694",
+    "oikName": "Ярославская область – Ярославский",
+    "district": {
+      "districtNumber": 194,
+      "oikTvd": "100100225883694"
+    }
   },
   {
     "uikNumber": 2204,
     "uikTvd": "4764022286896",
     "tikTvd": "2762000926777",
-    "tikName": "Ярославль, Фрунзенская"
+    "tikName": "Ярославль, Фрунзенская",
+    "uikName": "УИК №2204",
+    "regionCode": "76",
+    "regionTvd": "100100225883693",
+    "regionName": "Ярославская область",
+    "oikTvd": "100100225883694",
+    "oikName": "Ярославская область – Ярославский",
+    "district": {
+      "districtNumber": 194,
+      "oikTvd": "100100225883694"
+    }
   },
   {
     "uikNumber": 2205,
     "uikTvd": "4764022286897",
     "tikTvd": "2762000926777",
-    "tikName": "Ярославль, Фрунзенская"
+    "tikName": "Ярославль, Фрунзенская",
+    "uikName": "УИК №2205",
+    "regionCode": "76",
+    "regionTvd": "100100225883693",
+    "regionName": "Ярославская область",
+    "oikTvd": "100100225883694",
+    "oikName": "Ярославская область – Ярославский",
+    "district": {
+      "districtNumber": 194,
+      "oikTvd": "100100225883694"
+    }
   },
   {
     "uikNumber": 2206,
     "uikTvd": "4764022286898",
     "tikTvd": "2762000926777",
-    "tikName": "Ярославль, Фрунзенская"
+    "tikName": "Ярославль, Фрунзенская",
+    "uikName": "УИК №2206",
+    "regionCode": "76",
+    "regionTvd": "100100225883693",
+    "regionName": "Ярославская область",
+    "oikTvd": "100100225883694",
+    "oikName": "Ярославская область – Ярославский",
+    "district": {
+      "districtNumber": 194,
+      "oikTvd": "100100225883694"
+    }
   },
   {
     "uikNumber": 2207,
     "uikTvd": "4764022286899",
     "tikTvd": "2762000926777",
-    "tikName": "Ярославль, Фрунзенская"
+    "tikName": "Ярославль, Фрунзенская",
+    "uikName": "УИК №2207",
+    "regionCode": "76",
+    "regionTvd": "100100225883693",
+    "regionName": "Ярославская область",
+    "oikTvd": "100100225883694",
+    "oikName": "Ярославская область – Ярославский",
+    "district": {
+      "districtNumber": 194,
+      "oikTvd": "100100225883694"
+    }
   },
   {
     "uikNumber": 2208,
     "uikTvd": "4764022286900",
     "tikTvd": "2762000926777",
-    "tikName": "Ярославль, Фрунзенская"
+    "tikName": "Ярославль, Фрунзенская",
+    "uikName": "УИК №2208",
+    "regionCode": "76",
+    "regionTvd": "100100225883693",
+    "regionName": "Ярославская область",
+    "oikTvd": "100100225883694",
+    "oikName": "Ярославская область – Ярославский",
+    "district": {
+      "districtNumber": 194,
+      "oikTvd": "100100225883694"
+    }
   },
   {
     "uikNumber": 2209,
     "uikTvd": "4764022286901",
     "tikTvd": "2762000926777",
-    "tikName": "Ярославль, Фрунзенская"
+    "tikName": "Ярославль, Фрунзенская",
+    "uikName": "УИК №2209",
+    "regionCode": "76",
+    "regionTvd": "100100225883693",
+    "regionName": "Ярославская область",
+    "oikTvd": "100100225883694",
+    "oikName": "Ярославская область – Ярославский",
+    "district": {
+      "districtNumber": 194,
+      "oikTvd": "100100225883694"
+    }
   },
   {
     "uikNumber": 2210,
     "uikTvd": "4764022286902",
     "tikTvd": "2762000926777",
-    "tikName": "Ярославль, Фрунзенская"
+    "tikName": "Ярославль, Фрунзенская",
+    "uikName": "УИК №2210",
+    "regionCode": "76",
+    "regionTvd": "100100225883693",
+    "regionName": "Ярославская область",
+    "oikTvd": "100100225883694",
+    "oikName": "Ярославская область – Ярославский",
+    "district": {
+      "districtNumber": 194,
+      "oikTvd": "100100225883694"
+    }
   },
   {
     "uikNumber": 2211,
     "uikTvd": "4764022286903",
     "tikTvd": "2762000926777",
-    "tikName": "Ярославль, Фрунзенская"
+    "tikName": "Ярославль, Фрунзенская",
+    "uikName": "УИК №2211",
+    "regionCode": "76",
+    "regionTvd": "100100225883693",
+    "regionName": "Ярославская область",
+    "oikTvd": "100100225883694",
+    "oikName": "Ярославская область – Ярославский",
+    "district": {
+      "districtNumber": 194,
+      "oikTvd": "100100225883694"
+    }
   },
   {
     "uikNumber": 2212,
     "uikTvd": "4764022286904",
     "tikTvd": "2762000926777",
-    "tikName": "Ярославль, Фрунзенская"
+    "tikName": "Ярославль, Фрунзенская",
+    "uikName": "УИК №2212",
+    "regionCode": "76",
+    "regionTvd": "100100225883693",
+    "regionName": "Ярославская область",
+    "oikTvd": "100100225883694",
+    "oikName": "Ярославская область – Ярославский",
+    "district": {
+      "districtNumber": 194,
+      "oikTvd": "100100225883694"
+    }
   },
   {
     "uikNumber": 2213,
     "uikTvd": "4764022286905",
     "tikTvd": "2762000926777",
-    "tikName": "Ярославль, Фрунзенская"
+    "tikName": "Ярославль, Фрунзенская",
+    "uikName": "УИК №2213",
+    "regionCode": "76",
+    "regionTvd": "100100225883693",
+    "regionName": "Ярославская область",
+    "oikTvd": "100100225883694",
+    "oikName": "Ярославская область – Ярославский",
+    "district": {
+      "districtNumber": 194,
+      "oikTvd": "100100225883694"
+    }
   },
   {
     "uikNumber": 2214,
     "uikTvd": "4764022286906",
     "tikTvd": "2762000926777",
-    "tikName": "Ярославль, Фрунзенская"
+    "tikName": "Ярославль, Фрунзенская",
+    "uikName": "УИК №2214",
+    "regionCode": "76",
+    "regionTvd": "100100225883693",
+    "regionName": "Ярославская область",
+    "oikTvd": "100100225883694",
+    "oikName": "Ярославская область – Ярославский",
+    "district": {
+      "districtNumber": 194,
+      "oikTvd": "100100225883694"
+    }
   },
   {
     "uikNumber": 2215,
     "uikTvd": "4764022286907",
     "tikTvd": "2762000926777",
-    "tikName": "Ярославль, Фрунзенская"
+    "tikName": "Ярославль, Фрунзенская",
+    "uikName": "УИК №2215",
+    "regionCode": "76",
+    "regionTvd": "100100225883693",
+    "regionName": "Ярославская область",
+    "oikTvd": "100100225883694",
+    "oikName": "Ярославская область – Ярославский",
+    "district": {
+      "districtNumber": 194,
+      "oikTvd": "100100225883694"
+    }
   },
   {
     "uikNumber": 2216,
     "uikTvd": "4764022286908",
     "tikTvd": "2762000926777",
-    "tikName": "Ярославль, Фрунзенская"
+    "tikName": "Ярославль, Фрунзенская",
+    "uikName": "УИК №2216",
+    "regionCode": "76",
+    "regionTvd": "100100225883693",
+    "regionName": "Ярославская область",
+    "oikTvd": "100100225883694",
+    "oikName": "Ярославская область – Ярославский",
+    "district": {
+      "districtNumber": 194,
+      "oikTvd": "100100225883694"
+    }
   },
   {
     "uikNumber": 2217,
     "uikTvd": "4764022286909",
     "tikTvd": "2762000926777",
-    "tikName": "Ярославль, Фрунзенская"
+    "tikName": "Ярославль, Фрунзенская",
+    "uikName": "УИК №2217",
+    "regionCode": "76",
+    "regionTvd": "100100225883693",
+    "regionName": "Ярославская область",
+    "oikTvd": "100100225883694",
+    "oikName": "Ярославская область – Ярославский",
+    "district": {
+      "districtNumber": 194,
+      "oikTvd": "100100225883694"
+    }
   },
   {
     "uikNumber": 2218,
     "uikTvd": "4764022286910",
     "tikTvd": "2762000926777",
-    "tikName": "Ярославль, Фрунзенская"
+    "tikName": "Ярославль, Фрунзенская",
+    "uikName": "УИК №2218",
+    "regionCode": "76",
+    "regionTvd": "100100225883693",
+    "regionName": "Ярославская область",
+    "oikTvd": "100100225883694",
+    "oikName": "Ярославская область – Ярославский",
+    "district": {
+      "districtNumber": 194,
+      "oikTvd": "100100225883694"
+    }
   },
   {
     "uikNumber": 2219,
     "uikTvd": "4764022286911",
     "tikTvd": "2762000926777",
-    "tikName": "Ярославль, Фрунзенская"
+    "tikName": "Ярославль, Фрунзенская",
+    "uikName": "УИК №2219",
+    "regionCode": "76",
+    "regionTvd": "100100225883693",
+    "regionName": "Ярославская область",
+    "oikTvd": "100100225883694",
+    "oikName": "Ярославская область – Ярославский",
+    "district": {
+      "districtNumber": 194,
+      "oikTvd": "100100225883694"
+    }
   },
   {
     "uikNumber": 2220,
     "uikTvd": "4764022286912",
     "tikTvd": "2762000926777",
-    "tikName": "Ярославль, Фрунзенская"
+    "tikName": "Ярославль, Фрунзенская",
+    "uikName": "УИК №2220",
+    "regionCode": "76",
+    "regionTvd": "100100225883693",
+    "regionName": "Ярославская область",
+    "oikTvd": "100100225883694",
+    "oikName": "Ярославская область – Ярославский",
+    "district": {
+      "districtNumber": 194,
+      "oikTvd": "100100225883694"
+    }
   },
   {
     "uikNumber": 2221,
     "uikTvd": "4764022286913",
     "tikTvd": "2762000926777",
-    "tikName": "Ярославль, Фрунзенская"
+    "tikName": "Ярославль, Фрунзенская",
+    "uikName": "УИК №2221",
+    "regionCode": "76",
+    "regionTvd": "100100225883693",
+    "regionName": "Ярославская область",
+    "oikTvd": "100100225883694",
+    "oikName": "Ярославская область – Ярославский",
+    "district": {
+      "districtNumber": 194,
+      "oikTvd": "100100225883694"
+    }
   },
   {
     "uikNumber": 2222,
     "uikTvd": "4764022286914",
     "tikTvd": "2762000926777",
-    "tikName": "Ярославль, Фрунзенская"
+    "tikName": "Ярославль, Фрунзенская",
+    "uikName": "УИК №2222",
+    "regionCode": "76",
+    "regionTvd": "100100225883693",
+    "regionName": "Ярославская область",
+    "oikTvd": "100100225883694",
+    "oikName": "Ярославская область – Ярославский",
+    "district": {
+      "districtNumber": 194,
+      "oikTvd": "100100225883694"
+    }
   },
   {
     "uikNumber": 2223,
     "uikTvd": "4764022286915",
     "tikTvd": "2762000926777",
-    "tikName": "Ярославль, Фрунзенская"
+    "tikName": "Ярославль, Фрунзенская",
+    "uikName": "УИК №2223",
+    "regionCode": "76",
+    "regionTvd": "100100225883693",
+    "regionName": "Ярославская область",
+    "oikTvd": "100100225883694",
+    "oikName": "Ярославская область – Ярославский",
+    "district": {
+      "districtNumber": 194,
+      "oikTvd": "100100225883694"
+    }
   },
   {
     "uikNumber": 2224,
     "uikTvd": "4764022286916",
     "tikTvd": "2762000926777",
-    "tikName": "Ярославль, Фрунзенская"
+    "tikName": "Ярославль, Фрунзенская",
+    "uikName": "УИК №2224",
+    "regionCode": "76",
+    "regionTvd": "100100225883693",
+    "regionName": "Ярославская область",
+    "oikTvd": "100100225883694",
+    "oikName": "Ярославская область – Ярославский",
+    "district": {
+      "districtNumber": 194,
+      "oikTvd": "100100225883694"
+    }
   },
   {
     "uikNumber": 2225,
     "uikTvd": "4764022286917",
     "tikTvd": "2762000926777",
-    "tikName": "Ярославль, Фрунзенская"
+    "tikName": "Ярославль, Фрунзенская",
+    "uikName": "УИК №2225",
+    "regionCode": "76",
+    "regionTvd": "100100225883693",
+    "regionName": "Ярославская область",
+    "oikTvd": "100100225883694",
+    "oikName": "Ярославская область – Ярославский",
+    "district": {
+      "districtNumber": 194,
+      "oikTvd": "100100225883694"
+    }
   },
   {
     "uikNumber": 2226,
     "uikTvd": "4764022286918",
     "tikTvd": "2762000926777",
-    "tikName": "Ярославль, Фрунзенская"
+    "tikName": "Ярославль, Фрунзенская",
+    "uikName": "УИК №2226",
+    "regionCode": "76",
+    "regionTvd": "100100225883693",
+    "regionName": "Ярославская область",
+    "oikTvd": "100100225883694",
+    "oikName": "Ярославская область – Ярославский",
+    "district": {
+      "districtNumber": 194,
+      "oikTvd": "100100225883694"
+    }
   },
   {
     "uikNumber": 2227,
     "uikTvd": "4764022286919",
     "tikTvd": "2762000926777",
-    "tikName": "Ярославль, Фрунзенская"
+    "tikName": "Ярославль, Фрунзенская",
+    "uikName": "УИК №2227",
+    "regionCode": "76",
+    "regionTvd": "100100225883693",
+    "regionName": "Ярославская область",
+    "oikTvd": "100100225883694",
+    "oikName": "Ярославская область – Ярославский",
+    "district": {
+      "districtNumber": 194,
+      "oikTvd": "100100225883694"
+    }
   },
   {
     "uikNumber": 2228,
     "uikTvd": "4764022286920",
     "tikTvd": "2762000926777",
-    "tikName": "Ярославль, Фрунзенская"
+    "tikName": "Ярославль, Фрунзенская",
+    "uikName": "УИК №2228",
+    "regionCode": "76",
+    "regionTvd": "100100225883693",
+    "regionName": "Ярославская область",
+    "oikTvd": "100100225883694",
+    "oikName": "Ярославская область – Ярославский",
+    "district": {
+      "districtNumber": 194,
+      "oikTvd": "100100225883694"
+    }
   },
   {
     "uikNumber": 2229,
     "uikTvd": "4764022286921",
     "tikTvd": "2762000926777",
-    "tikName": "Ярославль, Фрунзенская"
+    "tikName": "Ярославль, Фрунзенская",
+    "uikName": "УИК №2229",
+    "regionCode": "76",
+    "regionTvd": "100100225883693",
+    "regionName": "Ярославская область",
+    "oikTvd": "100100225883694",
+    "oikName": "Ярославская область – Ярославский",
+    "district": {
+      "districtNumber": 194,
+      "oikTvd": "100100225883694"
+    }
   },
   {
     "uikNumber": 2230,
     "uikTvd": "4764022286922",
     "tikTvd": "2762000926777",
-    "tikName": "Ярославль, Фрунзенская"
+    "tikName": "Ярославль, Фрунзенская",
+    "uikName": "УИК №2230",
+    "regionCode": "76",
+    "regionTvd": "100100225883693",
+    "regionName": "Ярославская область",
+    "oikTvd": "100100225883694",
+    "oikName": "Ярославская область – Ярославский",
+    "district": {
+      "districtNumber": 194,
+      "oikTvd": "100100225883694"
+    }
   },
   {
     "uikNumber": 2231,
     "uikTvd": "4764022286923",
     "tikTvd": "2762000926777",
-    "tikName": "Ярославль, Фрунзенская"
+    "tikName": "Ярославль, Фрунзенская",
+    "uikName": "УИК №2231",
+    "regionCode": "76",
+    "regionTvd": "100100225883693",
+    "regionName": "Ярославская область",
+    "oikTvd": "100100225883694",
+    "oikName": "Ярославская область – Ярославский",
+    "district": {
+      "districtNumber": 194,
+      "oikTvd": "100100225883694"
+    }
   },
   {
     "uikNumber": 2232,
     "uikTvd": "4764022286924",
     "tikTvd": "2762000926777",
-    "tikName": "Ярославль, Фрунзенская"
+    "tikName": "Ярославль, Фрунзенская",
+    "uikName": "УИК №2232",
+    "regionCode": "76",
+    "regionTvd": "100100225883693",
+    "regionName": "Ярославская область",
+    "oikTvd": "100100225883694",
+    "oikName": "Ярославская область – Ярославский",
+    "district": {
+      "districtNumber": 194,
+      "oikTvd": "100100225883694"
+    }
   },
   {
     "uikNumber": 2233,
     "uikTvd": "4764022286925",
     "tikTvd": "2762000926777",
-    "tikName": "Ярославль, Фрунзенская"
+    "tikName": "Ярославль, Фрунзенская",
+    "uikName": "УИК №2233",
+    "regionCode": "76",
+    "regionTvd": "100100225883693",
+    "regionName": "Ярославская область",
+    "oikTvd": "100100225883694",
+    "oikName": "Ярославская область – Ярославский",
+    "district": {
+      "districtNumber": 194,
+      "oikTvd": "100100225883694"
+    }
   },
   {
     "uikNumber": 2234,
     "uikTvd": "4764022286926",
     "tikTvd": "2762000926777",
-    "tikName": "Ярославль, Фрунзенская"
+    "tikName": "Ярославль, Фрунзенская",
+    "uikName": "УИК №2234",
+    "regionCode": "76",
+    "regionTvd": "100100225883693",
+    "regionName": "Ярославская область",
+    "oikTvd": "100100225883694",
+    "oikName": "Ярославская область – Ярославский",
+    "district": {
+      "districtNumber": 194,
+      "oikTvd": "100100225883694"
+    }
   },
   {
     "uikNumber": 2235,
     "uikTvd": "4764022286927",
     "tikTvd": "2762000926777",
-    "tikName": "Ярославль, Фрунзенская"
+    "tikName": "Ярославль, Фрунзенская",
+    "uikName": "УИК №2235",
+    "regionCode": "76",
+    "regionTvd": "100100225883693",
+    "regionName": "Ярославская область",
+    "oikTvd": "100100225883694",
+    "oikName": "Ярославская область – Ярославский",
+    "district": {
+      "districtNumber": 194,
+      "oikTvd": "100100225883694"
+    }
   },
   {
     "uikNumber": 2236,
     "uikTvd": "4764022286928",
     "tikTvd": "2762000926777",
-    "tikName": "Ярославль, Фрунзенская"
+    "tikName": "Ярославль, Фрунзенская",
+    "uikName": "УИК №2236",
+    "regionCode": "76",
+    "regionTvd": "100100225883693",
+    "regionName": "Ярославская область",
+    "oikTvd": "100100225883694",
+    "oikName": "Ярославская область – Ярославский",
+    "district": {
+      "districtNumber": 194,
+      "oikTvd": "100100225883694"
+    }
   },
   {
     "uikNumber": 2237,
     "uikTvd": "4764022286929",
     "tikTvd": "2762000926777",
-    "tikName": "Ярославль, Фрунзенская"
+    "tikName": "Ярославль, Фрунзенская",
+    "uikName": "УИК №2237",
+    "regionCode": "76",
+    "regionTvd": "100100225883693",
+    "regionName": "Ярославская область",
+    "oikTvd": "100100225883694",
+    "oikName": "Ярославская область – Ярославский",
+    "district": {
+      "districtNumber": 194,
+      "oikTvd": "100100225883694"
+    }
   },
   {
     "uikNumber": 2238,
     "uikTvd": "4764022286930",
     "tikTvd": "2762000926777",
-    "tikName": "Ярославль, Фрунзенская"
+    "tikName": "Ярославль, Фрунзенская",
+    "uikName": "УИК №2238",
+    "regionCode": "76",
+    "regionTvd": "100100225883693",
+    "regionName": "Ярославская область",
+    "oikTvd": "100100225883694",
+    "oikName": "Ярославская область – Ярославский",
+    "district": {
+      "districtNumber": 194,
+      "oikTvd": "100100225883694"
+    }
   },
   {
     "uikNumber": 2239,
     "uikTvd": "4764022286931",
     "tikTvd": "2762000926777",
-    "tikName": "Ярославль, Фрунзенская"
+    "tikName": "Ярославль, Фрунзенская",
+    "uikName": "УИК №2239",
+    "regionCode": "76",
+    "regionTvd": "100100225883693",
+    "regionName": "Ярославская область",
+    "oikTvd": "100100225883694",
+    "oikName": "Ярославская область – Ярославский",
+    "district": {
+      "districtNumber": 194,
+      "oikTvd": "100100225883694"
+    }
   },
   {
     "uikNumber": 2240,
     "uikTvd": "4764022286932",
     "tikTvd": "2762000926777",
-    "tikName": "Ярославль, Фрунзенская"
+    "tikName": "Ярославль, Фрунзенская",
+    "uikName": "УИК №2240",
+    "regionCode": "76",
+    "regionTvd": "100100225883693",
+    "regionName": "Ярославская область",
+    "oikTvd": "100100225883694",
+    "oikName": "Ярославская область – Ярославский",
+    "district": {
+      "districtNumber": 194,
+      "oikTvd": "100100225883694"
+    }
   },
   {
     "uikNumber": 2241,
     "uikTvd": "4764022286933",
     "tikTvd": "2762000926777",
-    "tikName": "Ярославль, Фрунзенская"
+    "tikName": "Ярославль, Фрунзенская",
+    "uikName": "УИК №2241",
+    "regionCode": "76",
+    "regionTvd": "100100225883693",
+    "regionName": "Ярославская область",
+    "oikTvd": "100100225883694",
+    "oikName": "Ярославская область – Ярославский",
+    "district": {
+      "districtNumber": 194,
+      "oikTvd": "100100225883694"
+    }
   },
   {
     "uikNumber": 2242,
     "uikTvd": "4764022286934",
     "tikTvd": "2762000926777",
-    "tikName": "Ярославль, Фрунзенская"
+    "tikName": "Ярославль, Фрунзенская",
+    "uikName": "УИК №2242",
+    "regionCode": "76",
+    "regionTvd": "100100225883693",
+    "regionName": "Ярославская область",
+    "oikTvd": "100100225883694",
+    "oikName": "Ярославская область – Ярославский",
+    "district": {
+      "districtNumber": 194,
+      "oikTvd": "100100225883694"
+    }
   },
   {
     "uikNumber": 2243,
     "uikTvd": "4764022286935",
     "tikTvd": "2762000926777",
-    "tikName": "Ярославль, Фрунзенская"
+    "tikName": "Ярославль, Фрунзенская",
+    "uikName": "УИК №2243",
+    "regionCode": "76",
+    "regionTvd": "100100225883693",
+    "regionName": "Ярославская область",
+    "oikTvd": "100100225883694",
+    "oikName": "Ярославская область – Ярославский",
+    "district": {
+      "districtNumber": 194,
+      "oikTvd": "100100225883694"
+    }
   },
   {
     "uikNumber": 2244,
     "uikTvd": "4764022286936",
     "tikTvd": "2762000926777",
-    "tikName": "Ярославль, Фрунзенская"
+    "tikName": "Ярославль, Фрунзенская",
+    "uikName": "УИК №2244",
+    "regionCode": "76",
+    "regionTvd": "100100225883693",
+    "regionName": "Ярославская область",
+    "oikTvd": "100100225883694",
+    "oikName": "Ярославская область – Ярославский",
+    "district": {
+      "districtNumber": 194,
+      "oikTvd": "100100225883694"
+    }
   },
   {
     "uikNumber": 2245,
     "uikTvd": "4764022286937",
     "tikTvd": "2762000926777",
-    "tikName": "Ярославль, Фрунзенская"
+    "tikName": "Ярославль, Фрунзенская",
+    "uikName": "УИК №2245",
+    "regionCode": "76",
+    "regionTvd": "100100225883693",
+    "regionName": "Ярославская область",
+    "oikTvd": "100100225883694",
+    "oikName": "Ярославская область – Ярославский",
+    "district": {
+      "districtNumber": 194,
+      "oikTvd": "100100225883694"
+    }
   },
   {
     "uikNumber": 2246,
     "uikTvd": "4764022286938",
     "tikTvd": "2762000926777",
-    "tikName": "Ярославль, Фрунзенская"
+    "tikName": "Ярославль, Фрунзенская",
+    "uikName": "УИК №2246",
+    "regionCode": "76",
+    "regionTvd": "100100225883693",
+    "regionName": "Ярославская область",
+    "oikTvd": "100100225883694",
+    "oikName": "Ярославская область – Ярославский",
+    "district": {
+      "districtNumber": 194,
+      "oikTvd": "100100225883694"
+    }
   },
   {
     "uikNumber": 2247,
     "uikTvd": "4764022286939",
     "tikTvd": "2762000926777",
-    "tikName": "Ярославль, Фрунзенская"
+    "tikName": "Ярославль, Фрунзенская",
+    "uikName": "УИК №2247",
+    "regionCode": "76",
+    "regionTvd": "100100225883693",
+    "regionName": "Ярославская область",
+    "oikTvd": "100100225883694",
+    "oikName": "Ярославская область – Ярославский",
+    "district": {
+      "districtNumber": 194,
+      "oikTvd": "100100225883694"
+    }
   },
   {
     "uikNumber": 2248,
     "uikTvd": "4764022286940",
     "tikTvd": "2762000926777",
-    "tikName": "Ярославль, Фрунзенская"
+    "tikName": "Ярославль, Фрунзенская",
+    "uikName": "УИК №2248",
+    "regionCode": "76",
+    "regionTvd": "100100225883693",
+    "regionName": "Ярославская область",
+    "oikTvd": "100100225883694",
+    "oikName": "Ярославская область – Ярославский",
+    "district": {
+      "districtNumber": 194,
+      "oikTvd": "100100225883694"
+    }
   },
   {
     "uikNumber": 2249,
     "uikTvd": "4764022286941",
     "tikTvd": "2762000926777",
-    "tikName": "Ярославль, Фрунзенская"
+    "tikName": "Ярославль, Фрунзенская",
+    "uikName": "УИК №2249",
+    "regionCode": "76",
+    "regionTvd": "100100225883693",
+    "regionName": "Ярославская область",
+    "oikTvd": "100100225883694",
+    "oikName": "Ярославская область – Ярославский",
+    "district": {
+      "districtNumber": 194,
+      "oikTvd": "100100225883694"
+    }
   },
   {
     "uikNumber": 2250,
     "uikTvd": "4764022286942",
     "tikTvd": "2762000926777",
-    "tikName": "Ярославль, Фрунзенская"
+    "tikName": "Ярославль, Фрунзенская",
+    "uikName": "УИК №2250",
+    "regionCode": "76",
+    "regionTvd": "100100225883693",
+    "regionName": "Ярославская область",
+    "oikTvd": "100100225883694",
+    "oikName": "Ярославская область – Ярославский",
+    "district": {
+      "districtNumber": 194,
+      "oikTvd": "100100225883694"
+    }
   },
   {
     "uikNumber": 2251,
     "uikTvd": "4764022286943",
     "tikTvd": "2762000926777",
-    "tikName": "Ярославль, Фрунзенская"
+    "tikName": "Ярославль, Фрунзенская",
+    "uikName": "УИК №2251",
+    "regionCode": "76",
+    "regionTvd": "100100225883693",
+    "regionName": "Ярославская область",
+    "oikTvd": "100100225883694",
+    "oikName": "Ярославская область – Ярославский",
+    "district": {
+      "districtNumber": 194,
+      "oikTvd": "100100225883694"
+    }
   },
   {
     "uikNumber": 2252,
     "uikTvd": "4764022286944",
     "tikTvd": "2762000926777",
-    "tikName": "Ярославль, Фрунзенская"
+    "tikName": "Ярославль, Фрунзенская",
+    "uikName": "УИК №2252",
+    "regionCode": "76",
+    "regionTvd": "100100225883693",
+    "regionName": "Ярославская область",
+    "oikTvd": "100100225883694",
+    "oikName": "Ярославская область – Ярославский",
+    "district": {
+      "districtNumber": 194,
+      "oikTvd": "100100225883694"
+    }
   },
   {
     "uikNumber": 2253,
     "uikTvd": "4764022286945",
     "tikTvd": "2762000926777",
-    "tikName": "Ярославль, Фрунзенская"
+    "tikName": "Ярославль, Фрунзенская",
+    "uikName": "УИК №2253",
+    "regionCode": "76",
+    "regionTvd": "100100225883693",
+    "regionName": "Ярославская область",
+    "oikTvd": "100100225883694",
+    "oikName": "Ярославская область – Ярославский",
+    "district": {
+      "districtNumber": 194,
+      "oikTvd": "100100225883694"
+    }
   },
   {
     "uikNumber": 2254,
     "uikTvd": "4764022286946",
     "tikTvd": "2762000926777",
-    "tikName": "Ярославль, Фрунзенская"
+    "tikName": "Ярославль, Фрунзенская",
+    "uikName": "УИК №2254",
+    "regionCode": "76",
+    "regionTvd": "100100225883693",
+    "regionName": "Ярославская область",
+    "oikTvd": "100100225883694",
+    "oikName": "Ярославская область – Ярославский",
+    "district": {
+      "districtNumber": 194,
+      "oikTvd": "100100225883694"
+    }
   },
   {
     "uikNumber": 2297,
     "uikTvd": "4764022304394",
     "tikTvd": "2762000926777",
-    "tikName": "Ярославль, Фрунзенская"
+    "tikName": "Ярославль, Фрунзенская",
+    "uikName": "УИК №2297",
+    "regionCode": "76",
+    "regionTvd": "100100225883693",
+    "regionName": "Ярославская область",
+    "oikTvd": "100100225883694",
+    "oikName": "Ярославская область – Ярославский",
+    "district": {
+      "districtNumber": 194,
+      "oikTvd": "100100225883694"
+    }
   },
   {
     "uikNumber": 2298,
     "uikTvd": "4764022304396",
     "tikTvd": "2762000926777",
-    "tikName": "Ярославль, Фрунзенская"
+    "tikName": "Ярославль, Фрунзенская",
+    "uikName": "УИК №2298",
+    "regionCode": "76",
+    "regionTvd": "100100225883693",
+    "regionName": "Ярославская область",
+    "oikTvd": "100100225883694",
+    "oikName": "Ярославская область – Ярославский",
+    "district": {
+      "districtNumber": 194,
+      "oikTvd": "100100225883694"
+    }
   },
   {
     "uikNumber": 2299,
     "uikTvd": "4764022304398",
     "tikTvd": "2762000926777",
-    "tikName": "Ярославль, Фрунзенская"
+    "tikName": "Ярославль, Фрунзенская",
+    "uikName": "УИК №2299",
+    "regionCode": "76",
+    "regionTvd": "100100225883693",
+    "regionName": "Ярославская область",
+    "oikTvd": "100100225883694",
+    "oikName": "Ярославская область – Ярославский",
+    "district": {
+      "districtNumber": 194,
+      "oikTvd": "100100225883694"
+    }
   },
   {
     "uikNumber": 2301,
     "uikTvd": "4764023296426",
     "tikTvd": "2762000926776",
-    "tikName": "Ярославская - 194"
+    "tikName": "Ярославская - 194",
+    "uikName": "УИК №2301",
+    "regionCode": "76",
+    "regionTvd": "100100225883693",
+    "regionName": "Ярославская область",
+    "oikTvd": "100100225883694",
+    "oikName": "Ярославская область – Ярославский",
+    "district": {
+      "districtNumber": 194,
+      "oikTvd": "100100225883694"
+    }
   },
   {
     "uikNumber": 2302,
     "uikTvd": "4764023296427",
     "tikTvd": "2762000926776",
-    "tikName": "Ярославская - 194"
+    "tikName": "Ярославская - 194",
+    "uikName": "УИК №2302",
+    "regionCode": "76",
+    "regionTvd": "100100225883693",
+    "regionName": "Ярославская область",
+    "oikTvd": "100100225883694",
+    "oikName": "Ярославская область – Ярославский",
+    "district": {
+      "districtNumber": 194,
+      "oikTvd": "100100225883694"
+    }
   },
   {
     "uikNumber": 2303,
     "uikTvd": "4764023296428",
     "tikTvd": "2762000926776",
-    "tikName": "Ярославская - 194"
+    "tikName": "Ярославская - 194",
+    "uikName": "УИК №2303",
+    "regionCode": "76",
+    "regionTvd": "100100225883693",
+    "regionName": "Ярославская область",
+    "oikTvd": "100100225883694",
+    "oikName": "Ярославская область – Ярославский",
+    "district": {
+      "districtNumber": 194,
+      "oikTvd": "100100225883694"
+    }
   },
   {
     "uikNumber": 2304,
     "uikTvd": "4764023296429",
     "tikTvd": "2762000926776",
-    "tikName": "Ярославская - 194"
+    "tikName": "Ярославская - 194",
+    "uikName": "УИК №2304",
+    "regionCode": "76",
+    "regionTvd": "100100225883693",
+    "regionName": "Ярославская область",
+    "oikTvd": "100100225883694",
+    "oikName": "Ярославская область – Ярославский",
+    "district": {
+      "districtNumber": 194,
+      "oikTvd": "100100225883694"
+    }
   },
   {
     "uikNumber": 2305,
     "uikTvd": "4764023296430",
     "tikTvd": "2762000926776",
-    "tikName": "Ярославская - 194"
+    "tikName": "Ярославская - 194",
+    "uikName": "УИК №2305",
+    "regionCode": "76",
+    "regionTvd": "100100225883693",
+    "regionName": "Ярославская область",
+    "oikTvd": "100100225883694",
+    "oikName": "Ярославская область – Ярославский",
+    "district": {
+      "districtNumber": 194,
+      "oikTvd": "100100225883694"
+    }
   },
   {
     "uikNumber": 2306,
     "uikTvd": "4764023296431",
     "tikTvd": "2762000926776",
-    "tikName": "Ярославская - 194"
+    "tikName": "Ярославская - 194",
+    "uikName": "УИК №2306",
+    "regionCode": "76",
+    "regionTvd": "100100225883693",
+    "regionName": "Ярославская область",
+    "oikTvd": "100100225883694",
+    "oikName": "Ярославская область – Ярославский",
+    "district": {
+      "districtNumber": 194,
+      "oikTvd": "100100225883694"
+    }
   },
   {
     "uikNumber": 2307,
     "uikTvd": "4764023296432",
     "tikTvd": "2762000926776",
-    "tikName": "Ярославская - 194"
+    "tikName": "Ярославская - 194",
+    "uikName": "УИК №2307",
+    "regionCode": "76",
+    "regionTvd": "100100225883693",
+    "regionName": "Ярославская область",
+    "oikTvd": "100100225883694",
+    "oikName": "Ярославская область – Ярославский",
+    "district": {
+      "districtNumber": 194,
+      "oikTvd": "100100225883694"
+    }
   },
   {
     "uikNumber": 2308,
     "uikTvd": "4764023296382",
     "tikTvd": "2762000926791",
-    "tikName": "Ярославская - 195"
+    "tikName": "Ярославская - 195",
+    "uikName": "УИК №2308",
+    "regionCode": "76",
+    "regionTvd": "100100225883693",
+    "regionName": "Ярославская область",
+    "oikTvd": "100100225883695",
+    "oikName": "Ярославская область – Ростовский",
+    "district": {
+      "districtNumber": 195,
+      "oikTvd": "100100225883695"
+    }
   },
   {
     "uikNumber": 2309,
     "uikTvd": "4764023296386",
     "tikTvd": "2762000926791",
-    "tikName": "Ярославская - 195"
+    "tikName": "Ярославская - 195",
+    "uikName": "УИК №2309",
+    "regionCode": "76",
+    "regionTvd": "100100225883693",
+    "regionName": "Ярославская область",
+    "oikTvd": "100100225883695",
+    "oikName": "Ярославская область – Ростовский",
+    "district": {
+      "districtNumber": 195,
+      "oikTvd": "100100225883695"
+    }
   },
   {
     "uikNumber": 2310,
     "uikTvd": "4764023296388",
     "tikTvd": "2762000926791",
-    "tikName": "Ярославская - 195"
+    "tikName": "Ярославская - 195",
+    "uikName": "УИК №2310",
+    "regionCode": "76",
+    "regionTvd": "100100225883693",
+    "regionName": "Ярославская область",
+    "oikTvd": "100100225883695",
+    "oikName": "Ярославская область – Ростовский",
+    "district": {
+      "districtNumber": 195,
+      "oikTvd": "100100225883695"
+    }
   },
   {
     "uikNumber": 2311,
     "uikTvd": "4764023296390",
     "tikTvd": "2762000926791",
-    "tikName": "Ярославская - 195"
+    "tikName": "Ярославская - 195",
+    "uikName": "УИК №2311",
+    "regionCode": "76",
+    "regionTvd": "100100225883693",
+    "regionName": "Ярославская область",
+    "oikTvd": "100100225883695",
+    "oikName": "Ярославская область – Ростовский",
+    "district": {
+      "districtNumber": 195,
+      "oikTvd": "100100225883695"
+    }
   },
   {
     "uikNumber": 2312,
     "uikTvd": "4764023296392",
     "tikTvd": "2762000926791",
-    "tikName": "Ярославская - 195"
+    "tikName": "Ярославская - 195",
+    "uikName": "УИК №2312",
+    "regionCode": "76",
+    "regionTvd": "100100225883693",
+    "regionName": "Ярославская область",
+    "oikTvd": "100100225883695",
+    "oikName": "Ярославская область – Ростовский",
+    "district": {
+      "districtNumber": 195,
+      "oikTvd": "100100225883695"
+    }
   },
   {
     "uikNumber": 2313,
     "uikTvd": "4764023296394",
     "tikTvd": "2762000926791",
-    "tikName": "Ярославская - 195"
+    "tikName": "Ярославская - 195",
+    "uikName": "УИК №2313",
+    "regionCode": "76",
+    "regionTvd": "100100225883693",
+    "regionName": "Ярославская область",
+    "oikTvd": "100100225883695",
+    "oikName": "Ярославская область – Ростовский",
+    "district": {
+      "districtNumber": 195,
+      "oikTvd": "100100225883695"
+    }
   },
   {
     "uikNumber": 2314,
     "uikTvd": "4764023296396",
     "tikTvd": "2762000926791",
-    "tikName": "Ярославская - 195"
+    "tikName": "Ярославская - 195",
+    "uikName": "УИК №2314",
+    "regionCode": "76",
+    "regionTvd": "100100225883693",
+    "regionName": "Ярославская область",
+    "oikTvd": "100100225883695",
+    "oikName": "Ярославская область – Ростовский",
+    "district": {
+      "districtNumber": 195,
+      "oikTvd": "100100225883695"
+    }
   },
   {
     "uikNumber": 2315,
     "uikTvd": "4764023296398",
     "tikTvd": "2762000926791",
-    "tikName": "Ярославская - 195"
+    "tikName": "Ярославская - 195",
+    "uikName": "УИК №2315",
+    "regionCode": "76",
+    "regionTvd": "100100225883693",
+    "regionName": "Ярославская область",
+    "oikTvd": "100100225883695",
+    "oikName": "Ярославская область – Ростовский",
+    "district": {
+      "districtNumber": 195,
+      "oikTvd": "100100225883695"
+    }
   },
   {
     "uikNumber": 2316,
     "uikTvd": "4764023296400",
     "tikTvd": "2762000926791",
-    "tikName": "Ярославская - 195"
+    "tikName": "Ярославская - 195",
+    "uikName": "УИК №2316",
+    "regionCode": "76",
+    "regionTvd": "100100225883693",
+    "regionName": "Ярославская область",
+    "oikTvd": "100100225883695",
+    "oikName": "Ярославская область – Ростовский",
+    "district": {
+      "districtNumber": 195,
+      "oikTvd": "100100225883695"
+    }
   },
   {
     "uikNumber": 2317,
     "uikTvd": "4764023296402",
     "tikTvd": "2762000926791",
-    "tikName": "Ярославская - 195"
+    "tikName": "Ярославская - 195",
+    "uikName": "УИК №2317",
+    "regionCode": "76",
+    "regionTvd": "100100225883693",
+    "regionName": "Ярославская область",
+    "oikTvd": "100100225883695",
+    "oikName": "Ярославская область – Ростовский",
+    "district": {
+      "districtNumber": 195,
+      "oikTvd": "100100225883695"
+    }
   },
   {
     "uikNumber": 2318,
     "uikTvd": "4764023296433",
     "tikTvd": "2762000926776",
-    "tikName": "Ярославская - 194"
+    "tikName": "Ярославская - 194",
+    "uikName": "УИК №2318",
+    "regionCode": "76",
+    "regionTvd": "100100225883693",
+    "regionName": "Ярославская область",
+    "oikTvd": "100100225883694",
+    "oikName": "Ярославская область – Ярославский",
+    "district": {
+      "districtNumber": 194,
+      "oikTvd": "100100225883694"
+    }
   },
   {
     "uikNumber": 2319,
     "uikTvd": "4764023296434",
     "tikTvd": "2762000926776",
-    "tikName": "Ярославская - 194"
+    "tikName": "Ярославская - 194",
+    "uikName": "УИК №2319",
+    "regionCode": "76",
+    "regionTvd": "100100225883693",
+    "regionName": "Ярославская область",
+    "oikTvd": "100100225883694",
+    "oikName": "Ярославская область – Ярославский",
+    "district": {
+      "districtNumber": 194,
+      "oikTvd": "100100225883694"
+    }
   },
   {
     "uikNumber": 2320,
     "uikTvd": "4764023296435",
     "tikTvd": "2762000926776",
-    "tikName": "Ярославская - 194"
+    "tikName": "Ярославская - 194",
+    "uikName": "УИК №2320",
+    "regionCode": "76",
+    "regionTvd": "100100225883693",
+    "regionName": "Ярославская область",
+    "oikTvd": "100100225883694",
+    "oikName": "Ярославская область – Ярославский",
+    "district": {
+      "districtNumber": 194,
+      "oikTvd": "100100225883694"
+    }
   },
   {
     "uikNumber": 2321,
     "uikTvd": "4764023296436",
     "tikTvd": "2762000926776",
-    "tikName": "Ярославская - 194"
+    "tikName": "Ярославская - 194",
+    "uikName": "УИК №2321",
+    "regionCode": "76",
+    "regionTvd": "100100225883693",
+    "regionName": "Ярославская область",
+    "oikTvd": "100100225883694",
+    "oikName": "Ярославская область – Ярославский",
+    "district": {
+      "districtNumber": 194,
+      "oikTvd": "100100225883694"
+    }
   },
   {
     "uikNumber": 2322,
     "uikTvd": "4764023296437",
     "tikTvd": "2762000926776",
-    "tikName": "Ярославская - 194"
+    "tikName": "Ярославская - 194",
+    "uikName": "УИК №2322",
+    "regionCode": "76",
+    "regionTvd": "100100225883693",
+    "regionName": "Ярославская область",
+    "oikTvd": "100100225883694",
+    "oikName": "Ярославская область – Ярославский",
+    "district": {
+      "districtNumber": 194,
+      "oikTvd": "100100225883694"
+    }
   },
   {
     "uikNumber": 2323,
     "uikTvd": "4764023296438",
     "tikTvd": "2762000926776",
-    "tikName": "Ярославская - 194"
+    "tikName": "Ярославская - 194",
+    "uikName": "УИК №2323",
+    "regionCode": "76",
+    "regionTvd": "100100225883693",
+    "regionName": "Ярославская область",
+    "oikTvd": "100100225883694",
+    "oikName": "Ярославская область – Ярославский",
+    "district": {
+      "districtNumber": 194,
+      "oikTvd": "100100225883694"
+    }
   },
   {
     "uikNumber": 2324,
     "uikTvd": "4764023296439",
     "tikTvd": "2762000926776",
-    "tikName": "Ярославская - 194"
+    "tikName": "Ярославская - 194",
+    "uikName": "УИК №2324",
+    "regionCode": "76",
+    "regionTvd": "100100225883693",
+    "regionName": "Ярославская область",
+    "oikTvd": "100100225883694",
+    "oikName": "Ярославская область – Ярославский",
+    "district": {
+      "districtNumber": 194,
+      "oikTvd": "100100225883694"
+    }
   },
   {
     "uikNumber": 2325,
     "uikTvd": "4764023296440",
     "tikTvd": "2762000926776",
-    "tikName": "Ярославская - 194"
+    "tikName": "Ярославская - 194",
+    "uikName": "УИК №2325",
+    "regionCode": "76",
+    "regionTvd": "100100225883693",
+    "regionName": "Ярославская область",
+    "oikTvd": "100100225883694",
+    "oikName": "Ярославская область – Ярославский",
+    "district": {
+      "districtNumber": 194,
+      "oikTvd": "100100225883694"
+    }
   },
   {
     "uikNumber": 2326,
     "uikTvd": "4764023296404",
     "tikTvd": "2762000926791",
-    "tikName": "Ярославская - 195"
+    "tikName": "Ярославская - 195",
+    "uikName": "УИК №2326",
+    "regionCode": "76",
+    "regionTvd": "100100225883693",
+    "regionName": "Ярославская область",
+    "oikTvd": "100100225883695",
+    "oikName": "Ярославская область – Ростовский",
+    "district": {
+      "districtNumber": 195,
+      "oikTvd": "100100225883695"
+    }
   },
   {
     "uikNumber": 2327,
     "uikTvd": "4764023296406",
     "tikTvd": "2762000926791",
-    "tikName": "Ярославская - 195"
+    "tikName": "Ярославская - 195",
+    "uikName": "УИК №2327",
+    "regionCode": "76",
+    "regionTvd": "100100225883693",
+    "regionName": "Ярославская область",
+    "oikTvd": "100100225883695",
+    "oikName": "Ярославская область – Ростовский",
+    "district": {
+      "districtNumber": 195,
+      "oikTvd": "100100225883695"
+    }
   },
   {
     "uikNumber": 2328,
     "uikTvd": "4764023296408",
     "tikTvd": "2762000926791",
-    "tikName": "Ярославская - 195"
+    "tikName": "Ярославская - 195",
+    "uikName": "УИК №2328",
+    "regionCode": "76",
+    "regionTvd": "100100225883693",
+    "regionName": "Ярославская область",
+    "oikTvd": "100100225883695",
+    "oikName": "Ярославская область – Ростовский",
+    "district": {
+      "districtNumber": 195,
+      "oikTvd": "100100225883695"
+    }
   },
   {
     "uikNumber": 2329,
     "uikTvd": "4764023296410",
     "tikTvd": "2762000926791",
-    "tikName": "Ярославская - 195"
+    "tikName": "Ярославская - 195",
+    "uikName": "УИК №2329",
+    "regionCode": "76",
+    "regionTvd": "100100225883693",
+    "regionName": "Ярославская область",
+    "oikTvd": "100100225883695",
+    "oikName": "Ярославская область – Ростовский",
+    "district": {
+      "districtNumber": 195,
+      "oikTvd": "100100225883695"
+    }
   },
   {
     "uikNumber": 2330,
     "uikTvd": "4764023296412",
     "tikTvd": "2762000926791",
-    "tikName": "Ярославская - 195"
+    "tikName": "Ярославская - 195",
+    "uikName": "УИК №2330",
+    "regionCode": "76",
+    "regionTvd": "100100225883693",
+    "regionName": "Ярославская область",
+    "oikTvd": "100100225883695",
+    "oikName": "Ярославская область – Ростовский",
+    "district": {
+      "districtNumber": 195,
+      "oikTvd": "100100225883695"
+    }
   },
   {
     "uikNumber": 2331,
     "uikTvd": "4764023296441",
     "tikTvd": "2762000926776",
-    "tikName": "Ярославская - 194"
+    "tikName": "Ярославская - 194",
+    "uikName": "УИК №2331",
+    "regionCode": "76",
+    "regionTvd": "100100225883693",
+    "regionName": "Ярославская область",
+    "oikTvd": "100100225883694",
+    "oikName": "Ярославская область – Ярославский",
+    "district": {
+      "districtNumber": 194,
+      "oikTvd": "100100225883694"
+    }
   },
   {
     "uikNumber": 2332,
     "uikTvd": "4764023296442",
     "tikTvd": "2762000926776",
-    "tikName": "Ярославская - 194"
+    "tikName": "Ярославская - 194",
+    "uikName": "УИК №2332",
+    "regionCode": "76",
+    "regionTvd": "100100225883693",
+    "regionName": "Ярославская область",
+    "oikTvd": "100100225883694",
+    "oikName": "Ярославская область – Ярославский",
+    "district": {
+      "districtNumber": 194,
+      "oikTvd": "100100225883694"
+    }
   },
   {
     "uikNumber": 2333,
     "uikTvd": "4764023296414",
     "tikTvd": "2762000926791",
-    "tikName": "Ярославская - 195"
+    "tikName": "Ярославская - 195",
+    "uikName": "УИК №2333",
+    "regionCode": "76",
+    "regionTvd": "100100225883693",
+    "regionName": "Ярославская область",
+    "oikTvd": "100100225883695",
+    "oikName": "Ярославская область – Ростовский",
+    "district": {
+      "districtNumber": 195,
+      "oikTvd": "100100225883695"
+    }
   },
   {
     "uikNumber": 2334,
     "uikTvd": "4764023296416",
     "tikTvd": "2762000926791",
-    "tikName": "Ярославская - 195"
+    "tikName": "Ярославская - 195",
+    "uikName": "УИК №2334",
+    "regionCode": "76",
+    "regionTvd": "100100225883693",
+    "regionName": "Ярославская область",
+    "oikTvd": "100100225883695",
+    "oikName": "Ярославская область – Ростовский",
+    "district": {
+      "districtNumber": 195,
+      "oikTvd": "100100225883695"
+    }
   },
   {
     "uikNumber": 2335,
     "uikTvd": "4764023296418",
     "tikTvd": "2762000926791",
-    "tikName": "Ярославская - 195"
+    "tikName": "Ярославская - 195",
+    "uikName": "УИК №2335",
+    "regionCode": "76",
+    "regionTvd": "100100225883693",
+    "regionName": "Ярославская область",
+    "oikTvd": "100100225883695",
+    "oikName": "Ярославская область – Ростовский",
+    "district": {
+      "districtNumber": 195,
+      "oikTvd": "100100225883695"
+    }
   },
   {
     "uikNumber": 2336,
     "uikTvd": "4764023296420",
     "tikTvd": "2762000926791",
-    "tikName": "Ярославская - 195"
+    "tikName": "Ярославская - 195",
+    "uikName": "УИК №2336",
+    "regionCode": "76",
+    "regionTvd": "100100225883693",
+    "regionName": "Ярославская область",
+    "oikTvd": "100100225883695",
+    "oikName": "Ярославская область – Ростовский",
+    "district": {
+      "districtNumber": 195,
+      "oikTvd": "100100225883695"
+    }
   },
   {
     "uikNumber": 2337,
     "uikTvd": "4764023296422",
     "tikTvd": "2762000926791",
-    "tikName": "Ярославская - 195"
+    "tikName": "Ярославская - 195",
+    "uikName": "УИК №2337",
+    "regionCode": "76",
+    "regionTvd": "100100225883693",
+    "regionName": "Ярославская область",
+    "oikTvd": "100100225883695",
+    "oikName": "Ярославская область – Ростовский",
+    "district": {
+      "districtNumber": 195,
+      "oikTvd": "100100225883695"
+    }
   },
   {
     "uikNumber": 2338,
     "uikTvd": "4764023296424",
     "tikTvd": "2762000926791",
-    "tikName": "Ярославская - 195"
+    "tikName": "Ярославская - 195",
+    "uikName": "УИК №2338",
+    "regionCode": "76",
+    "regionTvd": "100100225883693",
+    "regionName": "Ярославская область",
+    "oikTvd": "100100225883695",
+    "oikName": "Ярославская область – Ростовский",
+    "district": {
+      "districtNumber": 195,
+      "oikTvd": "100100225883695"
+    }
   },
   {
     "uikNumber": 2339,
     "uikTvd": "4764023296443",
     "tikTvd": "2762000926776",
-    "tikName": "Ярославская - 194"
+    "tikName": "Ярославская - 194",
+    "uikName": "УИК №2339",
+    "regionCode": "76",
+    "regionTvd": "100100225883693",
+    "regionName": "Ярославская область",
+    "oikTvd": "100100225883694",
+    "oikName": "Ярославская область – Ярославский",
+    "district": {
+      "districtNumber": 194,
+      "oikTvd": "100100225883694"
+    }
   },
   {
     "uikNumber": 2401,
     "uikTvd": "4764024190692",
     "tikTvd": "2762000926790",
-    "tikName": "Переславская"
+    "tikName": "Переславская",
+    "uikName": "УИК №2401",
+    "regionCode": "76",
+    "regionTvd": "100100225883693",
+    "regionName": "Ярославская область",
+    "oikTvd": "100100225883695",
+    "oikName": "Ярославская область – Ростовский",
+    "district": {
+      "districtNumber": 195,
+      "oikTvd": "100100225883695"
+    }
   },
   {
     "uikNumber": 2402,
     "uikTvd": "4764024190693",
     "tikTvd": "2762000926790",
-    "tikName": "Переславская"
+    "tikName": "Переславская",
+    "uikName": "УИК №2402",
+    "regionCode": "76",
+    "regionTvd": "100100225883693",
+    "regionName": "Ярославская область",
+    "oikTvd": "100100225883695",
+    "oikName": "Ярославская область – Ростовский",
+    "district": {
+      "districtNumber": 195,
+      "oikTvd": "100100225883695"
+    }
   },
   {
     "uikNumber": 2403,
     "uikTvd": "4764024190694",
     "tikTvd": "2762000926790",
-    "tikName": "Переславская"
+    "tikName": "Переславская",
+    "uikName": "УИК №2403",
+    "regionCode": "76",
+    "regionTvd": "100100225883693",
+    "regionName": "Ярославская область",
+    "oikTvd": "100100225883695",
+    "oikName": "Ярославская область – Ростовский",
+    "district": {
+      "districtNumber": 195,
+      "oikTvd": "100100225883695"
+    }
   },
   {
     "uikNumber": 2404,
     "uikTvd": "4764024190695",
     "tikTvd": "2762000926790",
-    "tikName": "Переславская"
+    "tikName": "Переславская",
+    "uikName": "УИК №2404",
+    "regionCode": "76",
+    "regionTvd": "100100225883693",
+    "regionName": "Ярославская область",
+    "oikTvd": "100100225883695",
+    "oikName": "Ярославская область – Ростовский",
+    "district": {
+      "districtNumber": 195,
+      "oikTvd": "100100225883695"
+    }
   },
   {
     "uikNumber": 2405,
     "uikTvd": "4764024190696",
     "tikTvd": "2762000926790",
-    "tikName": "Переславская"
+    "tikName": "Переславская",
+    "uikName": "УИК №2405",
+    "regionCode": "76",
+    "regionTvd": "100100225883693",
+    "regionName": "Ярославская область",
+    "oikTvd": "100100225883695",
+    "oikName": "Ярославская область – Ростовский",
+    "district": {
+      "districtNumber": 195,
+      "oikTvd": "100100225883695"
+    }
   },
   {
     "uikNumber": 2406,
     "uikTvd": "4764024190697",
     "tikTvd": "2762000926790",
-    "tikName": "Переславская"
+    "tikName": "Переславская",
+    "uikName": "УИК №2406",
+    "regionCode": "76",
+    "regionTvd": "100100225883693",
+    "regionName": "Ярославская область",
+    "oikTvd": "100100225883695",
+    "oikName": "Ярославская область – Ростовский",
+    "district": {
+      "districtNumber": 195,
+      "oikTvd": "100100225883695"
+    }
   },
   {
     "uikNumber": 2407,
     "uikTvd": "4764024190698",
     "tikTvd": "2762000926790",
-    "tikName": "Переславская"
+    "tikName": "Переславская",
+    "uikName": "УИК №2407",
+    "regionCode": "76",
+    "regionTvd": "100100225883693",
+    "regionName": "Ярославская область",
+    "oikTvd": "100100225883695",
+    "oikName": "Ярославская область – Ростовский",
+    "district": {
+      "districtNumber": 195,
+      "oikTvd": "100100225883695"
+    }
   },
   {
     "uikNumber": 2408,
     "uikTvd": "4764024190699",
     "tikTvd": "2762000926790",
-    "tikName": "Переславская"
+    "tikName": "Переславская",
+    "uikName": "УИК №2408",
+    "regionCode": "76",
+    "regionTvd": "100100225883693",
+    "regionName": "Ярославская область",
+    "oikTvd": "100100225883695",
+    "oikName": "Ярославская область – Ростовский",
+    "district": {
+      "districtNumber": 195,
+      "oikTvd": "100100225883695"
+    }
   },
   {
     "uikNumber": 2409,
     "uikTvd": "4764024190700",
     "tikTvd": "2762000926790",
-    "tikName": "Переславская"
+    "tikName": "Переславская",
+    "uikName": "УИК №2409",
+    "regionCode": "76",
+    "regionTvd": "100100225883693",
+    "regionName": "Ярославская область",
+    "oikTvd": "100100225883695",
+    "oikName": "Ярославская область – Ростовский",
+    "district": {
+      "districtNumber": 195,
+      "oikTvd": "100100225883695"
+    }
   },
   {
     "uikNumber": 2410,
     "uikTvd": "4764024190701",
     "tikTvd": "2762000926790",
-    "tikName": "Переславская"
+    "tikName": "Переславская",
+    "uikName": "УИК №2410",
+    "regionCode": "76",
+    "regionTvd": "100100225883693",
+    "regionName": "Ярославская область",
+    "oikTvd": "100100225883695",
+    "oikName": "Ярославская область – Ростовский",
+    "district": {
+      "districtNumber": 195,
+      "oikTvd": "100100225883695"
+    }
   },
   {
     "uikNumber": 2411,
     "uikTvd": "4764024190702",
     "tikTvd": "2762000926790",
-    "tikName": "Переславская"
+    "tikName": "Переславская",
+    "uikName": "УИК №2411",
+    "regionCode": "76",
+    "regionTvd": "100100225883693",
+    "regionName": "Ярославская область",
+    "oikTvd": "100100225883695",
+    "oikName": "Ярославская область – Ростовский",
+    "district": {
+      "districtNumber": 195,
+      "oikTvd": "100100225883695"
+    }
   },
   {
     "uikNumber": 2412,
     "uikTvd": "4764024190703",
     "tikTvd": "2762000926790",
-    "tikName": "Переславская"
+    "tikName": "Переславская",
+    "uikName": "УИК №2412",
+    "regionCode": "76",
+    "regionTvd": "100100225883693",
+    "regionName": "Ярославская область",
+    "oikTvd": "100100225883695",
+    "oikName": "Ярославская область – Ростовский",
+    "district": {
+      "districtNumber": 195,
+      "oikTvd": "100100225883695"
+    }
   },
   {
     "uikNumber": 2413,
     "uikTvd": "4764024190704",
     "tikTvd": "2762000926790",
-    "tikName": "Переславская"
+    "tikName": "Переславская",
+    "uikName": "УИК №2413",
+    "regionCode": "76",
+    "regionTvd": "100100225883693",
+    "regionName": "Ярославская область",
+    "oikTvd": "100100225883695",
+    "oikName": "Ярославская область – Ростовский",
+    "district": {
+      "districtNumber": 195,
+      "oikTvd": "100100225883695"
+    }
   },
   {
     "uikNumber": 2414,
     "uikTvd": "4764024190705",
     "tikTvd": "2762000926790",
-    "tikName": "Переславская"
+    "tikName": "Переславская",
+    "uikName": "УИК №2414",
+    "regionCode": "76",
+    "regionTvd": "100100225883693",
+    "regionName": "Ярославская область",
+    "oikTvd": "100100225883695",
+    "oikName": "Ярославская область – Ростовский",
+    "district": {
+      "districtNumber": 195,
+      "oikTvd": "100100225883695"
+    }
   },
   {
     "uikNumber": 2415,
     "uikTvd": "4764024190706",
     "tikTvd": "2762000926790",
-    "tikName": "Переславская"
+    "tikName": "Переславская",
+    "uikName": "УИК №2415",
+    "regionCode": "76",
+    "regionTvd": "100100225883693",
+    "regionName": "Ярославская область",
+    "oikTvd": "100100225883695",
+    "oikName": "Ярославская область – Ростовский",
+    "district": {
+      "districtNumber": 195,
+      "oikTvd": "100100225883695"
+    }
   },
   {
     "uikNumber": 2416,
     "uikTvd": "4764024190707",
     "tikTvd": "2762000926790",
-    "tikName": "Переславская"
+    "tikName": "Переславская",
+    "uikName": "УИК №2416",
+    "regionCode": "76",
+    "regionTvd": "100100225883693",
+    "regionName": "Ярославская область",
+    "oikTvd": "100100225883695",
+    "oikName": "Ярославская область – Ростовский",
+    "district": {
+      "districtNumber": 195,
+      "oikTvd": "100100225883695"
+    }
   },
   {
     "uikNumber": 2417,
     "uikTvd": "4764024190708",
     "tikTvd": "2762000926790",
-    "tikName": "Переславская"
+    "tikName": "Переславская",
+    "uikName": "УИК №2417",
+    "regionCode": "76",
+    "regionTvd": "100100225883693",
+    "regionName": "Ярославская область",
+    "oikTvd": "100100225883695",
+    "oikName": "Ярославская область – Ростовский",
+    "district": {
+      "districtNumber": 195,
+      "oikTvd": "100100225883695"
+    }
   },
   {
     "uikNumber": 2418,
     "uikTvd": "4764024190709",
     "tikTvd": "2762000926790",
-    "tikName": "Переславская"
+    "tikName": "Переславская",
+    "uikName": "УИК №2418",
+    "regionCode": "76",
+    "regionTvd": "100100225883693",
+    "regionName": "Ярославская область",
+    "oikTvd": "100100225883695",
+    "oikName": "Ярославская область – Ростовский",
+    "district": {
+      "districtNumber": 195,
+      "oikTvd": "100100225883695"
+    }
   },
   {
     "uikNumber": 2419,
     "uikTvd": "4764024190710",
     "tikTvd": "2762000926790",
-    "tikName": "Переславская"
+    "tikName": "Переславская",
+    "uikName": "УИК №2419",
+    "regionCode": "76",
+    "regionTvd": "100100225883693",
+    "regionName": "Ярославская область",
+    "oikTvd": "100100225883695",
+    "oikName": "Ярославская область – Ростовский",
+    "district": {
+      "districtNumber": 195,
+      "oikTvd": "100100225883695"
+    }
   },
   {
     "uikNumber": 2420,
     "uikTvd": "4764024190711",
     "tikTvd": "2762000926790",
-    "tikName": "Переславская"
+    "tikName": "Переславская",
+    "uikName": "УИК №2420",
+    "regionCode": "76",
+    "regionTvd": "100100225883693",
+    "regionName": "Ярославская область",
+    "oikTvd": "100100225883695",
+    "oikName": "Ярославская область – Ростовский",
+    "district": {
+      "districtNumber": 195,
+      "oikTvd": "100100225883695"
+    }
   },
   {
     "uikNumber": 2421,
     "uikTvd": "4764024190712",
     "tikTvd": "2762000926790",
-    "tikName": "Переславская"
+    "tikName": "Переславская",
+    "uikName": "УИК №2421",
+    "regionCode": "76",
+    "regionTvd": "100100225883693",
+    "regionName": "Ярославская область",
+    "oikTvd": "100100225883695",
+    "oikName": "Ярославская область – Ростовский",
+    "district": {
+      "districtNumber": 195,
+      "oikTvd": "100100225883695"
+    }
   },
   {
     "uikNumber": 2422,
     "uikTvd": "4764024190713",
     "tikTvd": "2762000926790",
-    "tikName": "Переславская"
+    "tikName": "Переславская",
+    "uikName": "УИК №2422",
+    "regionCode": "76",
+    "regionTvd": "100100225883693",
+    "regionName": "Ярославская область",
+    "oikTvd": "100100225883695",
+    "oikName": "Ярославская область – Ростовский",
+    "district": {
+      "districtNumber": 195,
+      "oikTvd": "100100225883695"
+    }
   },
   {
     "uikNumber": 2423,
     "uikTvd": "4764024190714",
     "tikTvd": "2762000926790",
-    "tikName": "Переславская"
+    "tikName": "Переславская",
+    "uikName": "УИК №2423",
+    "regionCode": "76",
+    "regionTvd": "100100225883693",
+    "regionName": "Ярославская область",
+    "oikTvd": "100100225883695",
+    "oikName": "Ярославская область – Ростовский",
+    "district": {
+      "districtNumber": 195,
+      "oikTvd": "100100225883695"
+    }
   },
   {
     "uikNumber": 2424,
     "uikTvd": "4764024190715",
     "tikTvd": "2762000926790",
-    "tikName": "Переславская"
+    "tikName": "Переславская",
+    "uikName": "УИК №2424",
+    "regionCode": "76",
+    "regionTvd": "100100225883693",
+    "regionName": "Ярославская область",
+    "oikTvd": "100100225883695",
+    "oikName": "Ярославская область – Ростовский",
+    "district": {
+      "districtNumber": 195,
+      "oikTvd": "100100225883695"
+    }
   },
   {
     "uikNumber": 2425,
     "uikTvd": "4764024190716",
     "tikTvd": "2762000926790",
-    "tikName": "Переславская"
+    "tikName": "Переславская",
+    "uikName": "УИК №2425",
+    "regionCode": "76",
+    "regionTvd": "100100225883693",
+    "regionName": "Ярославская область",
+    "oikTvd": "100100225883695",
+    "oikName": "Ярославская область – Ростовский",
+    "district": {
+      "districtNumber": 195,
+      "oikTvd": "100100225883695"
+    }
   },
   {
     "uikNumber": 2426,
     "uikTvd": "4764024190717",
     "tikTvd": "2762000926790",
-    "tikName": "Переславская"
+    "tikName": "Переславская",
+    "uikName": "УИК №2426",
+    "regionCode": "76",
+    "regionTvd": "100100225883693",
+    "regionName": "Ярославская область",
+    "oikTvd": "100100225883695",
+    "oikName": "Ярославская область – Ростовский",
+    "district": {
+      "districtNumber": 195,
+      "oikTvd": "100100225883695"
+    }
   },
   {
     "uikNumber": 2427,
     "uikTvd": "4764024190718",
     "tikTvd": "2762000926790",
-    "tikName": "Переславская"
+    "tikName": "Переславская",
+    "uikName": "УИК №2427",
+    "regionCode": "76",
+    "regionTvd": "100100225883693",
+    "regionName": "Ярославская область",
+    "oikTvd": "100100225883695",
+    "oikName": "Ярославская область – Ростовский",
+    "district": {
+      "districtNumber": 195,
+      "oikTvd": "100100225883695"
+    }
   },
   {
     "uikNumber": 2428,
     "uikTvd": "4764024190719",
     "tikTvd": "2762000926790",
-    "tikName": "Переславская"
+    "tikName": "Переславская",
+    "uikName": "УИК №2428",
+    "regionCode": "76",
+    "regionTvd": "100100225883693",
+    "regionName": "Ярославская область",
+    "oikTvd": "100100225883695",
+    "oikName": "Ярославская область – Ростовский",
+    "district": {
+      "districtNumber": 195,
+      "oikTvd": "100100225883695"
+    }
   },
   {
     "uikNumber": 2429,
     "uikTvd": "4764024190720",
     "tikTvd": "2762000926790",
-    "tikName": "Переславская"
+    "tikName": "Переславская",
+    "uikName": "УИК №2429",
+    "regionCode": "76",
+    "regionTvd": "100100225883693",
+    "regionName": "Ярославская область",
+    "oikTvd": "100100225883695",
+    "oikName": "Ярославская область – Ростовский",
+    "district": {
+      "districtNumber": 195,
+      "oikTvd": "100100225883695"
+    }
   },
   {
     "uikNumber": 2430,
     "uikTvd": "4764024190721",
     "tikTvd": "2762000926790",
-    "tikName": "Переславская"
+    "tikName": "Переславская",
+    "uikName": "УИК №2430",
+    "regionCode": "76",
+    "regionTvd": "100100225883693",
+    "regionName": "Ярославская область",
+    "oikTvd": "100100225883695",
+    "oikName": "Ярославская область – Ростовский",
+    "district": {
+      "districtNumber": 195,
+      "oikTvd": "100100225883695"
+    }
   },
   {
     "uikNumber": 2431,
     "uikTvd": "4764024190722",
     "tikTvd": "2762000926790",
-    "tikName": "Переславская"
+    "tikName": "Переславская",
+    "uikName": "УИК №2431",
+    "regionCode": "76",
+    "regionTvd": "100100225883693",
+    "regionName": "Ярославская область",
+    "oikTvd": "100100225883695",
+    "oikName": "Ярославская область – Ростовский",
+    "district": {
+      "districtNumber": 195,
+      "oikTvd": "100100225883695"
+    }
   },
   {
     "uikNumber": 2501,
     "uikTvd": "4764025314798",
     "tikTvd": "2762000926789",
-    "tikName": "Рыбинск, Волжская"
+    "tikName": "Рыбинск, Волжская",
+    "uikName": "УИК №2501",
+    "regionCode": "76",
+    "regionTvd": "100100225883693",
+    "regionName": "Ярославская область",
+    "oikTvd": "100100225883695",
+    "oikName": "Ярославская область – Ростовский",
+    "district": {
+      "districtNumber": 195,
+      "oikTvd": "100100225883695"
+    }
   },
   {
     "uikNumber": 2502,
     "uikTvd": "4764025314799",
     "tikTvd": "2762000926789",
-    "tikName": "Рыбинск, Волжская"
+    "tikName": "Рыбинск, Волжская",
+    "uikName": "УИК №2502",
+    "regionCode": "76",
+    "regionTvd": "100100225883693",
+    "regionName": "Ярославская область",
+    "oikTvd": "100100225883695",
+    "oikName": "Ярославская область – Ростовский",
+    "district": {
+      "districtNumber": 195,
+      "oikTvd": "100100225883695"
+    }
   },
   {
     "uikNumber": 2503,
     "uikTvd": "4764025314800",
     "tikTvd": "2762000926789",
-    "tikName": "Рыбинск, Волжская"
+    "tikName": "Рыбинск, Волжская",
+    "uikName": "УИК №2503",
+    "regionCode": "76",
+    "regionTvd": "100100225883693",
+    "regionName": "Ярославская область",
+    "oikTvd": "100100225883695",
+    "oikName": "Ярославская область – Ростовский",
+    "district": {
+      "districtNumber": 195,
+      "oikTvd": "100100225883695"
+    }
   },
   {
     "uikNumber": 2504,
     "uikTvd": "4764025314801",
     "tikTvd": "2762000926789",
-    "tikName": "Рыбинск, Волжская"
+    "tikName": "Рыбинск, Волжская",
+    "uikName": "УИК №2504",
+    "regionCode": "76",
+    "regionTvd": "100100225883693",
+    "regionName": "Ярославская область",
+    "oikTvd": "100100225883695",
+    "oikName": "Ярославская область – Ростовский",
+    "district": {
+      "districtNumber": 195,
+      "oikTvd": "100100225883695"
+    }
   },
   {
     "uikNumber": 2505,
     "uikTvd": "4764025314802",
     "tikTvd": "2762000926789",
-    "tikName": "Рыбинск, Волжская"
+    "tikName": "Рыбинск, Волжская",
+    "uikName": "УИК №2505",
+    "regionCode": "76",
+    "regionTvd": "100100225883693",
+    "regionName": "Ярославская область",
+    "oikTvd": "100100225883695",
+    "oikName": "Ярославская область – Ростовский",
+    "district": {
+      "districtNumber": 195,
+      "oikTvd": "100100225883695"
+    }
   },
   {
     "uikNumber": 2506,
     "uikTvd": "4764025314803",
     "tikTvd": "2762000926789",
-    "tikName": "Рыбинск, Волжская"
+    "tikName": "Рыбинск, Волжская",
+    "uikName": "УИК №2506",
+    "regionCode": "76",
+    "regionTvd": "100100225883693",
+    "regionName": "Ярославская область",
+    "oikTvd": "100100225883695",
+    "oikName": "Ярославская область – Ростовский",
+    "district": {
+      "districtNumber": 195,
+      "oikTvd": "100100225883695"
+    }
   },
   {
     "uikNumber": 2507,
     "uikTvd": "4764025314804",
     "tikTvd": "2762000926789",
-    "tikName": "Рыбинск, Волжская"
+    "tikName": "Рыбинск, Волжская",
+    "uikName": "УИК №2507",
+    "regionCode": "76",
+    "regionTvd": "100100225883693",
+    "regionName": "Ярославская область",
+    "oikTvd": "100100225883695",
+    "oikName": "Ярославская область – Ростовский",
+    "district": {
+      "districtNumber": 195,
+      "oikTvd": "100100225883695"
+    }
   },
   {
     "uikNumber": 2508,
     "uikTvd": "4764025314805",
     "tikTvd": "2762000926789",
-    "tikName": "Рыбинск, Волжская"
+    "tikName": "Рыбинск, Волжская",
+    "uikName": "УИК №2508",
+    "regionCode": "76",
+    "regionTvd": "100100225883693",
+    "regionName": "Ярославская область",
+    "oikTvd": "100100225883695",
+    "oikName": "Ярославская область – Ростовский",
+    "district": {
+      "districtNumber": 195,
+      "oikTvd": "100100225883695"
+    }
   },
   {
     "uikNumber": 2509,
     "uikTvd": "4764025314806",
     "tikTvd": "2762000926789",
-    "tikName": "Рыбинск, Волжская"
+    "tikName": "Рыбинск, Волжская",
+    "uikName": "УИК №2509",
+    "regionCode": "76",
+    "regionTvd": "100100225883693",
+    "regionName": "Ярославская область",
+    "oikTvd": "100100225883695",
+    "oikName": "Ярославская область – Ростовский",
+    "district": {
+      "districtNumber": 195,
+      "oikTvd": "100100225883695"
+    }
   },
   {
     "uikNumber": 2510,
     "uikTvd": "4764025314807",
     "tikTvd": "2762000926789",
-    "tikName": "Рыбинск, Волжская"
+    "tikName": "Рыбинск, Волжская",
+    "uikName": "УИК №2510",
+    "regionCode": "76",
+    "regionTvd": "100100225883693",
+    "regionName": "Ярославская область",
+    "oikTvd": "100100225883695",
+    "oikName": "Ярославская область – Ростовский",
+    "district": {
+      "districtNumber": 195,
+      "oikTvd": "100100225883695"
+    }
   },
   {
     "uikNumber": 2511,
     "uikTvd": "4764025314808",
     "tikTvd": "2762000926789",
-    "tikName": "Рыбинск, Волжская"
+    "tikName": "Рыбинск, Волжская",
+    "uikName": "УИК №2511",
+    "regionCode": "76",
+    "regionTvd": "100100225883693",
+    "regionName": "Ярославская область",
+    "oikTvd": "100100225883695",
+    "oikName": "Ярославская область – Ростовский",
+    "district": {
+      "districtNumber": 195,
+      "oikTvd": "100100225883695"
+    }
   },
   {
     "uikNumber": 2512,
     "uikTvd": "4764025314809",
     "tikTvd": "2762000926789",
-    "tikName": "Рыбинск, Волжская"
+    "tikName": "Рыбинск, Волжская",
+    "uikName": "УИК №2512",
+    "regionCode": "76",
+    "regionTvd": "100100225883693",
+    "regionName": "Ярославская область",
+    "oikTvd": "100100225883695",
+    "oikName": "Ярославская область – Ростовский",
+    "district": {
+      "districtNumber": 195,
+      "oikTvd": "100100225883695"
+    }
   },
   {
     "uikNumber": 2513,
     "uikTvd": "4764025314810",
     "tikTvd": "2762000926789",
-    "tikName": "Рыбинск, Волжская"
+    "tikName": "Рыбинск, Волжская",
+    "uikName": "УИК №2513",
+    "regionCode": "76",
+    "regionTvd": "100100225883693",
+    "regionName": "Ярославская область",
+    "oikTvd": "100100225883695",
+    "oikName": "Ярославская область – Ростовский",
+    "district": {
+      "districtNumber": 195,
+      "oikTvd": "100100225883695"
+    }
   },
   {
     "uikNumber": 2514,
     "uikTvd": "4764025314811",
     "tikTvd": "2762000926789",
-    "tikName": "Рыбинск, Волжская"
+    "tikName": "Рыбинск, Волжская",
+    "uikName": "УИК №2514",
+    "regionCode": "76",
+    "regionTvd": "100100225883693",
+    "regionName": "Ярославская область",
+    "oikTvd": "100100225883695",
+    "oikName": "Ярославская область – Ростовский",
+    "district": {
+      "districtNumber": 195,
+      "oikTvd": "100100225883695"
+    }
   },
   {
     "uikNumber": 2515,
     "uikTvd": "4764025314812",
     "tikTvd": "2762000926789",
-    "tikName": "Рыбинск, Волжская"
+    "tikName": "Рыбинск, Волжская",
+    "uikName": "УИК №2515",
+    "regionCode": "76",
+    "regionTvd": "100100225883693",
+    "regionName": "Ярославская область",
+    "oikTvd": "100100225883695",
+    "oikName": "Ярославская область – Ростовский",
+    "district": {
+      "districtNumber": 195,
+      "oikTvd": "100100225883695"
+    }
   },
   {
     "uikNumber": 2516,
     "uikTvd": "4764025314813",
     "tikTvd": "2762000926789",
-    "tikName": "Рыбинск, Волжская"
+    "tikName": "Рыбинск, Волжская",
+    "uikName": "УИК №2516",
+    "regionCode": "76",
+    "regionTvd": "100100225883693",
+    "regionName": "Ярославская область",
+    "oikTvd": "100100225883695",
+    "oikName": "Ярославская область – Ростовский",
+    "district": {
+      "districtNumber": 195,
+      "oikTvd": "100100225883695"
+    }
   },
   {
     "uikNumber": 2517,
     "uikTvd": "4764025314814",
     "tikTvd": "2762000926789",
-    "tikName": "Рыбинск, Волжская"
+    "tikName": "Рыбинск, Волжская",
+    "uikName": "УИК №2517",
+    "regionCode": "76",
+    "regionTvd": "100100225883693",
+    "regionName": "Ярославская область",
+    "oikTvd": "100100225883695",
+    "oikName": "Ярославская область – Ростовский",
+    "district": {
+      "districtNumber": 195,
+      "oikTvd": "100100225883695"
+    }
   },
   {
     "uikNumber": 2518,
     "uikTvd": "4764025314815",
     "tikTvd": "2762000926789",
-    "tikName": "Рыбинск, Волжская"
+    "tikName": "Рыбинск, Волжская",
+    "uikName": "УИК №2518",
+    "regionCode": "76",
+    "regionTvd": "100100225883693",
+    "regionName": "Ярославская область",
+    "oikTvd": "100100225883695",
+    "oikName": "Ярославская область – Ростовский",
+    "district": {
+      "districtNumber": 195,
+      "oikTvd": "100100225883695"
+    }
   },
   {
     "uikNumber": 2519,
     "uikTvd": "4764025314816",
     "tikTvd": "2762000926789",
-    "tikName": "Рыбинск, Волжская"
+    "tikName": "Рыбинск, Волжская",
+    "uikName": "УИК №2519",
+    "regionCode": "76",
+    "regionTvd": "100100225883693",
+    "regionName": "Ярославская область",
+    "oikTvd": "100100225883695",
+    "oikName": "Ярославская область – Ростовский",
+    "district": {
+      "districtNumber": 195,
+      "oikTvd": "100100225883695"
+    }
   },
   {
     "uikNumber": 2520,
     "uikTvd": "4764025314817",
     "tikTvd": "2762000926789",
-    "tikName": "Рыбинск, Волжская"
+    "tikName": "Рыбинск, Волжская",
+    "uikName": "УИК №2520",
+    "regionCode": "76",
+    "regionTvd": "100100225883693",
+    "regionName": "Ярославская область",
+    "oikTvd": "100100225883695",
+    "oikName": "Ярославская область – Ростовский",
+    "district": {
+      "districtNumber": 195,
+      "oikTvd": "100100225883695"
+    }
   },
   {
     "uikNumber": 2521,
     "uikTvd": "4764025314818",
     "tikTvd": "2762000926789",
-    "tikName": "Рыбинск, Волжская"
+    "tikName": "Рыбинск, Волжская",
+    "uikName": "УИК №2521",
+    "regionCode": "76",
+    "regionTvd": "100100225883693",
+    "regionName": "Ярославская область",
+    "oikTvd": "100100225883695",
+    "oikName": "Ярославская область – Ростовский",
+    "district": {
+      "districtNumber": 195,
+      "oikTvd": "100100225883695"
+    }
   },
   {
     "uikNumber": 2522,
     "uikTvd": "4764025314819",
     "tikTvd": "2762000926789",
-    "tikName": "Рыбинск, Волжская"
+    "tikName": "Рыбинск, Волжская",
+    "uikName": "УИК №2522",
+    "regionCode": "76",
+    "regionTvd": "100100225883693",
+    "regionName": "Ярославская область",
+    "oikTvd": "100100225883695",
+    "oikName": "Ярославская область – Ростовский",
+    "district": {
+      "districtNumber": 195,
+      "oikTvd": "100100225883695"
+    }
   },
   {
     "uikNumber": 2523,
     "uikTvd": "4764025314820",
     "tikTvd": "2762000926789",
-    "tikName": "Рыбинск, Волжская"
+    "tikName": "Рыбинск, Волжская",
+    "uikName": "УИК №2523",
+    "regionCode": "76",
+    "regionTvd": "100100225883693",
+    "regionName": "Ярославская область",
+    "oikTvd": "100100225883695",
+    "oikName": "Ярославская область – Ростовский",
+    "district": {
+      "districtNumber": 195,
+      "oikTvd": "100100225883695"
+    }
   },
   {
     "uikNumber": 2524,
     "uikTvd": "4764025314821",
     "tikTvd": "2762000926789",
-    "tikName": "Рыбинск, Волжская"
+    "tikName": "Рыбинск, Волжская",
+    "uikName": "УИК №2524",
+    "regionCode": "76",
+    "regionTvd": "100100225883693",
+    "regionName": "Ярославская область",
+    "oikTvd": "100100225883695",
+    "oikName": "Ярославская область – Ростовский",
+    "district": {
+      "districtNumber": 195,
+      "oikTvd": "100100225883695"
+    }
   },
   {
     "uikNumber": 2525,
     "uikTvd": "4764025314822",
     "tikTvd": "2762000926789",
-    "tikName": "Рыбинск, Волжская"
+    "tikName": "Рыбинск, Волжская",
+    "uikName": "УИК №2525",
+    "regionCode": "76",
+    "regionTvd": "100100225883693",
+    "regionName": "Ярославская область",
+    "oikTvd": "100100225883695",
+    "oikName": "Ярославская область – Ростовский",
+    "district": {
+      "districtNumber": 195,
+      "oikTvd": "100100225883695"
+    }
   },
   {
     "uikNumber": 2526,
     "uikTvd": "4764025314823",
     "tikTvd": "2762000926789",
-    "tikName": "Рыбинск, Волжская"
+    "tikName": "Рыбинск, Волжская",
+    "uikName": "УИК №2526",
+    "regionCode": "76",
+    "regionTvd": "100100225883693",
+    "regionName": "Ярославская область",
+    "oikTvd": "100100225883695",
+    "oikName": "Ярославская область – Ростовский",
+    "district": {
+      "districtNumber": 195,
+      "oikTvd": "100100225883695"
+    }
   },
   {
     "uikNumber": 2527,
     "uikTvd": "4764025314824",
     "tikTvd": "2762000926789",
-    "tikName": "Рыбинск, Волжская"
+    "tikName": "Рыбинск, Волжская",
+    "uikName": "УИК №2527",
+    "regionCode": "76",
+    "regionTvd": "100100225883693",
+    "regionName": "Ярославская область",
+    "oikTvd": "100100225883695",
+    "oikName": "Ярославская область – Ростовский",
+    "district": {
+      "districtNumber": 195,
+      "oikTvd": "100100225883695"
+    }
   },
   {
     "uikNumber": 2528,
     "uikTvd": "4764025314825",
     "tikTvd": "2762000926789",
-    "tikName": "Рыбинск, Волжская"
+    "tikName": "Рыбинск, Волжская",
+    "uikName": "УИК №2528",
+    "regionCode": "76",
+    "regionTvd": "100100225883693",
+    "regionName": "Ярославская область",
+    "oikTvd": "100100225883695",
+    "oikName": "Ярославская область – Ростовский",
+    "district": {
+      "districtNumber": 195,
+      "oikTvd": "100100225883695"
+    }
   },
   {
     "uikNumber": 2529,
     "uikTvd": "4764025314826",
     "tikTvd": "2762000926789",
-    "tikName": "Рыбинск, Волжская"
+    "tikName": "Рыбинск, Волжская",
+    "uikName": "УИК №2529",
+    "regionCode": "76",
+    "regionTvd": "100100225883693",
+    "regionName": "Ярославская область",
+    "oikTvd": "100100225883695",
+    "oikName": "Ярославская область – Ростовский",
+    "district": {
+      "districtNumber": 195,
+      "oikTvd": "100100225883695"
+    }
   },
   {
     "uikNumber": 2530,
     "uikTvd": "4764025314827",
     "tikTvd": "2762000926789",
-    "tikName": "Рыбинск, Волжская"
+    "tikName": "Рыбинск, Волжская",
+    "uikName": "УИК №2530",
+    "regionCode": "76",
+    "regionTvd": "100100225883693",
+    "regionName": "Ярославская область",
+    "oikTvd": "100100225883695",
+    "oikName": "Ярославская область – Ростовский",
+    "district": {
+      "districtNumber": 195,
+      "oikTvd": "100100225883695"
+    }
   },
   {
     "uikNumber": 2531,
     "uikTvd": "4764025314828",
     "tikTvd": "2762000926789",
-    "tikName": "Рыбинск, Волжская"
+    "tikName": "Рыбинск, Волжская",
+    "uikName": "УИК №2531",
+    "regionCode": "76",
+    "regionTvd": "100100225883693",
+    "regionName": "Ярославская область",
+    "oikTvd": "100100225883695",
+    "oikName": "Ярославская область – Ростовский",
+    "district": {
+      "districtNumber": 195,
+      "oikTvd": "100100225883695"
+    }
   },
   {
     "uikNumber": 2532,
     "uikTvd": "4764025314829",
     "tikTvd": "2762000926789",
-    "tikName": "Рыбинск, Волжская"
+    "tikName": "Рыбинск, Волжская",
+    "uikName": "УИК №2532",
+    "regionCode": "76",
+    "regionTvd": "100100225883693",
+    "regionName": "Ярославская область",
+    "oikTvd": "100100225883695",
+    "oikName": "Ярославская область – Ростовский",
+    "district": {
+      "districtNumber": 195,
+      "oikTvd": "100100225883695"
+    }
   },
   {
     "uikNumber": 2533,
     "uikTvd": "4764025314830",
     "tikTvd": "2762000926789",
-    "tikName": "Рыбинск, Волжская"
+    "tikName": "Рыбинск, Волжская",
+    "uikName": "УИК №2533",
+    "regionCode": "76",
+    "regionTvd": "100100225883693",
+    "regionName": "Ярославская область",
+    "oikTvd": "100100225883695",
+    "oikName": "Ярославская область – Ростовский",
+    "district": {
+      "districtNumber": 195,
+      "oikTvd": "100100225883695"
+    }
   },
   {
     "uikNumber": 2534,
     "uikTvd": "4764025314831",
     "tikTvd": "2762000926789",
-    "tikName": "Рыбинск, Волжская"
+    "tikName": "Рыбинск, Волжская",
+    "uikName": "УИК №2534",
+    "regionCode": "76",
+    "regionTvd": "100100225883693",
+    "regionName": "Ярославская область",
+    "oikTvd": "100100225883695",
+    "oikName": "Ярославская область – Ростовский",
+    "district": {
+      "districtNumber": 195,
+      "oikTvd": "100100225883695"
+    }
   },
   {
     "uikNumber": 2535,
     "uikTvd": "4764025314832",
     "tikTvd": "2762000926789",
-    "tikName": "Рыбинск, Волжская"
+    "tikName": "Рыбинск, Волжская",
+    "uikName": "УИК №2535",
+    "regionCode": "76",
+    "regionTvd": "100100225883693",
+    "regionName": "Ярославская область",
+    "oikTvd": "100100225883695",
+    "oikName": "Ярославская область – Ростовский",
+    "district": {
+      "districtNumber": 195,
+      "oikTvd": "100100225883695"
+    }
   },
   {
     "uikNumber": 2536,
     "uikTvd": "4764025314833",
     "tikTvd": "2762000926789",
-    "tikName": "Рыбинск, Волжская"
+    "tikName": "Рыбинск, Волжская",
+    "uikName": "УИК №2536",
+    "regionCode": "76",
+    "regionTvd": "100100225883693",
+    "regionName": "Ярославская область",
+    "oikTvd": "100100225883695",
+    "oikName": "Ярославская область – Ростовский",
+    "district": {
+      "districtNumber": 195,
+      "oikTvd": "100100225883695"
+    }
   },
   {
     "uikNumber": 2537,
     "uikTvd": "4764025314834",
     "tikTvd": "2762000926789",
-    "tikName": "Рыбинск, Волжская"
+    "tikName": "Рыбинск, Волжская",
+    "uikName": "УИК №2537",
+    "regionCode": "76",
+    "regionTvd": "100100225883693",
+    "regionName": "Ярославская область",
+    "oikTvd": "100100225883695",
+    "oikName": "Ярославская область – Ростовский",
+    "district": {
+      "districtNumber": 195,
+      "oikTvd": "100100225883695"
+    }
   },
   {
     "uikNumber": 2538,
     "uikTvd": "4764025314835",
     "tikTvd": "2762000926789",
-    "tikName": "Рыбинск, Волжская"
+    "tikName": "Рыбинск, Волжская",
+    "uikName": "УИК №2538",
+    "regionCode": "76",
+    "regionTvd": "100100225883693",
+    "regionName": "Ярославская область",
+    "oikTvd": "100100225883695",
+    "oikName": "Ярославская область – Ростовский",
+    "district": {
+      "districtNumber": 195,
+      "oikTvd": "100100225883695"
+    }
   },
   {
     "uikNumber": 2539,
     "uikTvd": "4764025314836",
     "tikTvd": "2762000926789",
-    "tikName": "Рыбинск, Волжская"
+    "tikName": "Рыбинск, Волжская",
+    "uikName": "УИК №2539",
+    "regionCode": "76",
+    "regionTvd": "100100225883693",
+    "regionName": "Ярославская область",
+    "oikTvd": "100100225883695",
+    "oikName": "Ярославская область – Ростовский",
+    "district": {
+      "districtNumber": 195,
+      "oikTvd": "100100225883695"
+    }
   },
   {
     "uikNumber": 2540,
     "uikTvd": "4764025314837",
     "tikTvd": "2762000926789",
-    "tikName": "Рыбинск, Волжская"
+    "tikName": "Рыбинск, Волжская",
+    "uikName": "УИК №2540",
+    "regionCode": "76",
+    "regionTvd": "100100225883693",
+    "regionName": "Ярославская область",
+    "oikTvd": "100100225883695",
+    "oikName": "Ярославская область – Ростовский",
+    "district": {
+      "districtNumber": 195,
+      "oikTvd": "100100225883695"
+    }
   },
   {
     "uikNumber": 2541,
     "uikTvd": "4764025314838",
     "tikTvd": "2762000926789",
-    "tikName": "Рыбинск, Волжская"
+    "tikName": "Рыбинск, Волжская",
+    "uikName": "УИК №2541",
+    "regionCode": "76",
+    "regionTvd": "100100225883693",
+    "regionName": "Ярославская область",
+    "oikTvd": "100100225883695",
+    "oikName": "Ярославская область – Ростовский",
+    "district": {
+      "districtNumber": 195,
+      "oikTvd": "100100225883695"
+    }
   },
   {
     "uikNumber": 2542,
     "uikTvd": "4764025314839",
     "tikTvd": "2762000926789",
-    "tikName": "Рыбинск, Волжская"
+    "tikName": "Рыбинск, Волжская",
+    "uikName": "УИК №2542",
+    "regionCode": "76",
+    "regionTvd": "100100225883693",
+    "regionName": "Ярославская область",
+    "oikTvd": "100100225883695",
+    "oikName": "Ярославская область – Ростовский",
+    "district": {
+      "districtNumber": 195,
+      "oikTvd": "100100225883695"
+    }
   },
   {
     "uikNumber": 2543,
     "uikTvd": "4764025314840",
     "tikTvd": "2762000926789",
-    "tikName": "Рыбинск, Волжская"
+    "tikName": "Рыбинск, Волжская",
+    "uikName": "УИК №2543",
+    "regionCode": "76",
+    "regionTvd": "100100225883693",
+    "regionName": "Ярославская область",
+    "oikTvd": "100100225883695",
+    "oikName": "Ярославская область – Ростовский",
+    "district": {
+      "districtNumber": 195,
+      "oikTvd": "100100225883695"
+    }
   },
   {
     "uikNumber": 2544,
     "uikTvd": "4764025314841",
     "tikTvd": "2762000926789",
-    "tikName": "Рыбинск, Волжская"
+    "tikName": "Рыбинск, Волжская",
+    "uikName": "УИК №2544",
+    "regionCode": "76",
+    "regionTvd": "100100225883693",
+    "regionName": "Ярославская область",
+    "oikTvd": "100100225883695",
+    "oikName": "Ярославская область – Ростовский",
+    "district": {
+      "districtNumber": 195,
+      "oikTvd": "100100225883695"
+    }
   },
   {
     "uikNumber": 2545,
     "uikTvd": "4764025314842",
     "tikTvd": "2762000926789",
-    "tikName": "Рыбинск, Волжская"
+    "tikName": "Рыбинск, Волжская",
+    "uikName": "УИК №2545",
+    "regionCode": "76",
+    "regionTvd": "100100225883693",
+    "regionName": "Ярославская область",
+    "oikTvd": "100100225883695",
+    "oikName": "Ярославская область – Ростовский",
+    "district": {
+      "districtNumber": 195,
+      "oikTvd": "100100225883695"
+    }
   },
   {
     "uikNumber": 2546,
     "uikTvd": "4764025314843",
     "tikTvd": "2762000926789",
-    "tikName": "Рыбинск, Волжская"
+    "tikName": "Рыбинск, Волжская",
+    "uikName": "УИК №2546",
+    "regionCode": "76",
+    "regionTvd": "100100225883693",
+    "regionName": "Ярославская область",
+    "oikTvd": "100100225883695",
+    "oikName": "Ярославская область – Ростовский",
+    "district": {
+      "districtNumber": 195,
+      "oikTvd": "100100225883695"
+    }
   },
   {
     "uikNumber": 2547,
     "uikTvd": "4764025314844",
     "tikTvd": "2762000926789",
-    "tikName": "Рыбинск, Волжская"
+    "tikName": "Рыбинск, Волжская",
+    "uikName": "УИК №2547",
+    "regionCode": "76",
+    "regionTvd": "100100225883693",
+    "regionName": "Ярославская область",
+    "oikTvd": "100100225883695",
+    "oikName": "Ярославская область – Ростовский",
+    "district": {
+      "districtNumber": 195,
+      "oikTvd": "100100225883695"
+    }
   },
   {
     "uikNumber": 2548,
     "uikTvd": "4764025314845",
     "tikTvd": "2762000926789",
-    "tikName": "Рыбинск, Волжская"
+    "tikName": "Рыбинск, Волжская",
+    "uikName": "УИК №2548",
+    "regionCode": "76",
+    "regionTvd": "100100225883693",
+    "regionName": "Ярославская область",
+    "oikTvd": "100100225883695",
+    "oikName": "Ярославская область – Ростовский",
+    "district": {
+      "districtNumber": 195,
+      "oikTvd": "100100225883695"
+    }
   },
   {
     "uikNumber": 2549,
     "uikTvd": "4764025314846",
     "tikTvd": "2762000926789",
-    "tikName": "Рыбинск, Волжская"
+    "tikName": "Рыбинск, Волжская",
+    "uikName": "УИК №2549",
+    "regionCode": "76",
+    "regionTvd": "100100225883693",
+    "regionName": "Ярославская область",
+    "oikTvd": "100100225883695",
+    "oikName": "Ярославская область – Ростовский",
+    "district": {
+      "districtNumber": 195,
+      "oikTvd": "100100225883695"
+    }
   },
   {
     "uikNumber": 2550,
     "uikTvd": "4764025314847",
     "tikTvd": "2762000926789",
-    "tikName": "Рыбинск, Волжская"
+    "tikName": "Рыбинск, Волжская",
+    "uikName": "УИК №2550",
+    "regionCode": "76",
+    "regionTvd": "100100225883693",
+    "regionName": "Ярославская область",
+    "oikTvd": "100100225883695",
+    "oikName": "Ярославская область – Ростовский",
+    "district": {
+      "districtNumber": 195,
+      "oikTvd": "100100225883695"
+    }
   },
   {
     "uikNumber": 2551,
     "uikTvd": "4764025314848",
     "tikTvd": "2762000926789",
-    "tikName": "Рыбинск, Волжская"
+    "tikName": "Рыбинск, Волжская",
+    "uikName": "УИК №2551",
+    "regionCode": "76",
+    "regionTvd": "100100225883693",
+    "regionName": "Ярославская область",
+    "oikTvd": "100100225883695",
+    "oikName": "Ярославская область – Ростовский",
+    "district": {
+      "districtNumber": 195,
+      "oikTvd": "100100225883695"
+    }
   },
   {
     "uikNumber": 2552,
     "uikTvd": "4764025314849",
     "tikTvd": "2762000926789",
-    "tikName": "Рыбинск, Волжская"
+    "tikName": "Рыбинск, Волжская",
+    "uikName": "УИК №2552",
+    "regionCode": "76",
+    "regionTvd": "100100225883693",
+    "regionName": "Ярославская область",
+    "oikTvd": "100100225883695",
+    "oikName": "Ярославская область – Ростовский",
+    "district": {
+      "districtNumber": 195,
+      "oikTvd": "100100225883695"
+    }
   },
   {
     "uikNumber": 2553,
     "uikTvd": "4764025314850",
     "tikTvd": "2762000926789",
-    "tikName": "Рыбинск, Волжская"
+    "tikName": "Рыбинск, Волжская",
+    "uikName": "УИК №2553",
+    "regionCode": "76",
+    "regionTvd": "100100225883693",
+    "regionName": "Ярославская область",
+    "oikTvd": "100100225883695",
+    "oikName": "Ярославская область – Ростовский",
+    "district": {
+      "districtNumber": 195,
+      "oikTvd": "100100225883695"
+    }
   },
   {
     "uikNumber": 2599,
     "uikTvd": "4764025318575",
     "tikTvd": "2762000926789",
-    "tikName": "Рыбинск, Волжская"
+    "tikName": "Рыбинск, Волжская",
+    "uikName": "УИК №2599",
+    "regionCode": "76",
+    "regionTvd": "100100225883693",
+    "regionName": "Ярославская область",
+    "oikTvd": "100100225883695",
+    "oikName": "Ярославская область – Ростовский",
+    "district": {
+      "districtNumber": 195,
+      "oikTvd": "100100225883695"
+    }
   },
   {
     "uikNumber": 2601,
     "uikTvd": "4764026260079",
     "tikTvd": "2762000926788",
-    "tikName": "Рыбинск, Пролетарская"
+    "tikName": "Рыбинск, Пролетарская",
+    "uikName": "УИК №2601",
+    "regionCode": "76",
+    "regionTvd": "100100225883693",
+    "regionName": "Ярославская область",
+    "oikTvd": "100100225883695",
+    "oikName": "Ярославская область – Ростовский",
+    "district": {
+      "districtNumber": 195,
+      "oikTvd": "100100225883695"
+    }
   },
   {
     "uikNumber": 2602,
     "uikTvd": "4764026260080",
     "tikTvd": "2762000926788",
-    "tikName": "Рыбинск, Пролетарская"
+    "tikName": "Рыбинск, Пролетарская",
+    "uikName": "УИК №2602",
+    "regionCode": "76",
+    "regionTvd": "100100225883693",
+    "regionName": "Ярославская область",
+    "oikTvd": "100100225883695",
+    "oikName": "Ярославская область – Ростовский",
+    "district": {
+      "districtNumber": 195,
+      "oikTvd": "100100225883695"
+    }
   },
   {
     "uikNumber": 2603,
     "uikTvd": "4764026260081",
     "tikTvd": "2762000926788",
-    "tikName": "Рыбинск, Пролетарская"
+    "tikName": "Рыбинск, Пролетарская",
+    "uikName": "УИК №2603",
+    "regionCode": "76",
+    "regionTvd": "100100225883693",
+    "regionName": "Ярославская область",
+    "oikTvd": "100100225883695",
+    "oikName": "Ярославская область – Ростовский",
+    "district": {
+      "districtNumber": 195,
+      "oikTvd": "100100225883695"
+    }
   },
   {
     "uikNumber": 2604,
     "uikTvd": "4764026260082",
     "tikTvd": "2762000926788",
-    "tikName": "Рыбинск, Пролетарская"
+    "tikName": "Рыбинск, Пролетарская",
+    "uikName": "УИК №2604",
+    "regionCode": "76",
+    "regionTvd": "100100225883693",
+    "regionName": "Ярославская область",
+    "oikTvd": "100100225883695",
+    "oikName": "Ярославская область – Ростовский",
+    "district": {
+      "districtNumber": 195,
+      "oikTvd": "100100225883695"
+    }
   },
   {
     "uikNumber": 2605,
     "uikTvd": "4764026260083",
     "tikTvd": "2762000926788",
-    "tikName": "Рыбинск, Пролетарская"
+    "tikName": "Рыбинск, Пролетарская",
+    "uikName": "УИК №2605",
+    "regionCode": "76",
+    "regionTvd": "100100225883693",
+    "regionName": "Ярославская область",
+    "oikTvd": "100100225883695",
+    "oikName": "Ярославская область – Ростовский",
+    "district": {
+      "districtNumber": 195,
+      "oikTvd": "100100225883695"
+    }
   },
   {
     "uikNumber": 2606,
     "uikTvd": "4764026260084",
     "tikTvd": "2762000926788",
-    "tikName": "Рыбинск, Пролетарская"
+    "tikName": "Рыбинск, Пролетарская",
+    "uikName": "УИК №2606",
+    "regionCode": "76",
+    "regionTvd": "100100225883693",
+    "regionName": "Ярославская область",
+    "oikTvd": "100100225883695",
+    "oikName": "Ярославская область – Ростовский",
+    "district": {
+      "districtNumber": 195,
+      "oikTvd": "100100225883695"
+    }
   },
   {
     "uikNumber": 2607,
     "uikTvd": "4764026260085",
     "tikTvd": "2762000926788",
-    "tikName": "Рыбинск, Пролетарская"
+    "tikName": "Рыбинск, Пролетарская",
+    "uikName": "УИК №2607",
+    "regionCode": "76",
+    "regionTvd": "100100225883693",
+    "regionName": "Ярославская область",
+    "oikTvd": "100100225883695",
+    "oikName": "Ярославская область – Ростовский",
+    "district": {
+      "districtNumber": 195,
+      "oikTvd": "100100225883695"
+    }
   },
   {
     "uikNumber": 2608,
     "uikTvd": "4764026260086",
     "tikTvd": "2762000926788",
-    "tikName": "Рыбинск, Пролетарская"
+    "tikName": "Рыбинск, Пролетарская",
+    "uikName": "УИК №2608",
+    "regionCode": "76",
+    "regionTvd": "100100225883693",
+    "regionName": "Ярославская область",
+    "oikTvd": "100100225883695",
+    "oikName": "Ярославская область – Ростовский",
+    "district": {
+      "districtNumber": 195,
+      "oikTvd": "100100225883695"
+    }
   },
   {
     "uikNumber": 2609,
     "uikTvd": "4764026260087",
     "tikTvd": "2762000926788",
-    "tikName": "Рыбинск, Пролетарская"
+    "tikName": "Рыбинск, Пролетарская",
+    "uikName": "УИК №2609",
+    "regionCode": "76",
+    "regionTvd": "100100225883693",
+    "regionName": "Ярославская область",
+    "oikTvd": "100100225883695",
+    "oikName": "Ярославская область – Ростовский",
+    "district": {
+      "districtNumber": 195,
+      "oikTvd": "100100225883695"
+    }
   },
   {
     "uikNumber": 2610,
     "uikTvd": "4764026260088",
     "tikTvd": "2762000926788",
-    "tikName": "Рыбинск, Пролетарская"
+    "tikName": "Рыбинск, Пролетарская",
+    "uikName": "УИК №2610",
+    "regionCode": "76",
+    "regionTvd": "100100225883693",
+    "regionName": "Ярославская область",
+    "oikTvd": "100100225883695",
+    "oikName": "Ярославская область – Ростовский",
+    "district": {
+      "districtNumber": 195,
+      "oikTvd": "100100225883695"
+    }
   },
   {
     "uikNumber": 2611,
     "uikTvd": "4764026260089",
     "tikTvd": "2762000926788",
-    "tikName": "Рыбинск, Пролетарская"
+    "tikName": "Рыбинск, Пролетарская",
+    "uikName": "УИК №2611",
+    "regionCode": "76",
+    "regionTvd": "100100225883693",
+    "regionName": "Ярославская область",
+    "oikTvd": "100100225883695",
+    "oikName": "Ярославская область – Ростовский",
+    "district": {
+      "districtNumber": 195,
+      "oikTvd": "100100225883695"
+    }
   },
   {
     "uikNumber": 2612,
     "uikTvd": "4764026260090",
     "tikTvd": "2762000926788",
-    "tikName": "Рыбинск, Пролетарская"
+    "tikName": "Рыбинск, Пролетарская",
+    "uikName": "УИК №2612",
+    "regionCode": "76",
+    "regionTvd": "100100225883693",
+    "regionName": "Ярославская область",
+    "oikTvd": "100100225883695",
+    "oikName": "Ярославская область – Ростовский",
+    "district": {
+      "districtNumber": 195,
+      "oikTvd": "100100225883695"
+    }
   },
   {
     "uikNumber": 2613,
     "uikTvd": "4764026260091",
     "tikTvd": "2762000926788",
-    "tikName": "Рыбинск, Пролетарская"
+    "tikName": "Рыбинск, Пролетарская",
+    "uikName": "УИК №2613",
+    "regionCode": "76",
+    "regionTvd": "100100225883693",
+    "regionName": "Ярославская область",
+    "oikTvd": "100100225883695",
+    "oikName": "Ярославская область – Ростовский",
+    "district": {
+      "districtNumber": 195,
+      "oikTvd": "100100225883695"
+    }
   },
   {
     "uikNumber": 2614,
     "uikTvd": "4764026260092",
     "tikTvd": "2762000926788",
-    "tikName": "Рыбинск, Пролетарская"
+    "tikName": "Рыбинск, Пролетарская",
+    "uikName": "УИК №2614",
+    "regionCode": "76",
+    "regionTvd": "100100225883693",
+    "regionName": "Ярославская область",
+    "oikTvd": "100100225883695",
+    "oikName": "Ярославская область – Ростовский",
+    "district": {
+      "districtNumber": 195,
+      "oikTvd": "100100225883695"
+    }
   },
   {
     "uikNumber": 2615,
     "uikTvd": "4764026260093",
     "tikTvd": "2762000926788",
-    "tikName": "Рыбинск, Пролетарская"
+    "tikName": "Рыбинск, Пролетарская",
+    "uikName": "УИК №2615",
+    "regionCode": "76",
+    "regionTvd": "100100225883693",
+    "regionName": "Ярославская область",
+    "oikTvd": "100100225883695",
+    "oikName": "Ярославская область – Ростовский",
+    "district": {
+      "districtNumber": 195,
+      "oikTvd": "100100225883695"
+    }
   },
   {
     "uikNumber": 2616,
     "uikTvd": "4764026260094",
     "tikTvd": "2762000926788",
-    "tikName": "Рыбинск, Пролетарская"
+    "tikName": "Рыбинск, Пролетарская",
+    "uikName": "УИК №2616",
+    "regionCode": "76",
+    "regionTvd": "100100225883693",
+    "regionName": "Ярославская область",
+    "oikTvd": "100100225883695",
+    "oikName": "Ярославская область – Ростовский",
+    "district": {
+      "districtNumber": 195,
+      "oikTvd": "100100225883695"
+    }
   },
   {
     "uikNumber": 2617,
     "uikTvd": "4764026260095",
     "tikTvd": "2762000926788",
-    "tikName": "Рыбинск, Пролетарская"
+    "tikName": "Рыбинск, Пролетарская",
+    "uikName": "УИК №2617",
+    "regionCode": "76",
+    "regionTvd": "100100225883693",
+    "regionName": "Ярославская область",
+    "oikTvd": "100100225883695",
+    "oikName": "Ярославская область – Ростовский",
+    "district": {
+      "districtNumber": 195,
+      "oikTvd": "100100225883695"
+    }
   },
   {
     "uikNumber": 2618,
     "uikTvd": "4764026260096",
     "tikTvd": "2762000926788",
-    "tikName": "Рыбинск, Пролетарская"
+    "tikName": "Рыбинск, Пролетарская",
+    "uikName": "УИК №2618",
+    "regionCode": "76",
+    "regionTvd": "100100225883693",
+    "regionName": "Ярославская область",
+    "oikTvd": "100100225883695",
+    "oikName": "Ярославская область – Ростовский",
+    "district": {
+      "districtNumber": 195,
+      "oikTvd": "100100225883695"
+    }
   },
   {
     "uikNumber": 2619,
     "uikTvd": "4764026260097",
     "tikTvd": "2762000926788",
-    "tikName": "Рыбинск, Пролетарская"
+    "tikName": "Рыбинск, Пролетарская",
+    "uikName": "УИК №2619",
+    "regionCode": "76",
+    "regionTvd": "100100225883693",
+    "regionName": "Ярославская область",
+    "oikTvd": "100100225883695",
+    "oikName": "Ярославская область – Ростовский",
+    "district": {
+      "districtNumber": 195,
+      "oikTvd": "100100225883695"
+    }
   },
   {
     "uikNumber": 2620,
     "uikTvd": "4764026260098",
     "tikTvd": "2762000926788",
-    "tikName": "Рыбинск, Пролетарская"
+    "tikName": "Рыбинск, Пролетарская",
+    "uikName": "УИК №2620",
+    "regionCode": "76",
+    "regionTvd": "100100225883693",
+    "regionName": "Ярославская область",
+    "oikTvd": "100100225883695",
+    "oikName": "Ярославская область – Ростовский",
+    "district": {
+      "districtNumber": 195,
+      "oikTvd": "100100225883695"
+    }
   },
   {
     "uikNumber": 2621,
     "uikTvd": "4764026260099",
     "tikTvd": "2762000926788",
-    "tikName": "Рыбинск, Пролетарская"
+    "tikName": "Рыбинск, Пролетарская",
+    "uikName": "УИК №2621",
+    "regionCode": "76",
+    "regionTvd": "100100225883693",
+    "regionName": "Ярославская область",
+    "oikTvd": "100100225883695",
+    "oikName": "Ярославская область – Ростовский",
+    "district": {
+      "districtNumber": 195,
+      "oikTvd": "100100225883695"
+    }
   },
   {
     "uikNumber": 2622,
     "uikTvd": "4764026260100",
     "tikTvd": "2762000926788",
-    "tikName": "Рыбинск, Пролетарская"
+    "tikName": "Рыбинск, Пролетарская",
+    "uikName": "УИК №2622",
+    "regionCode": "76",
+    "regionTvd": "100100225883693",
+    "regionName": "Ярославская область",
+    "oikTvd": "100100225883695",
+    "oikName": "Ярославская область – Ростовский",
+    "district": {
+      "districtNumber": 195,
+      "oikTvd": "100100225883695"
+    }
   },
   {
     "uikNumber": 2623,
     "uikTvd": "4764026260101",
     "tikTvd": "2762000926788",
-    "tikName": "Рыбинск, Пролетарская"
+    "tikName": "Рыбинск, Пролетарская",
+    "uikName": "УИК №2623",
+    "regionCode": "76",
+    "regionTvd": "100100225883693",
+    "regionName": "Ярославская область",
+    "oikTvd": "100100225883695",
+    "oikName": "Ярославская область – Ростовский",
+    "district": {
+      "districtNumber": 195,
+      "oikTvd": "100100225883695"
+    }
   },
   {
     "uikNumber": 2624,
     "uikTvd": "4764026260102",
     "tikTvd": "2762000926788",
-    "tikName": "Рыбинск, Пролетарская"
+    "tikName": "Рыбинск, Пролетарская",
+    "uikName": "УИК №2624",
+    "regionCode": "76",
+    "regionTvd": "100100225883693",
+    "regionName": "Ярославская область",
+    "oikTvd": "100100225883695",
+    "oikName": "Ярославская область – Ростовский",
+    "district": {
+      "districtNumber": 195,
+      "oikTvd": "100100225883695"
+    }
   },
   {
     "uikNumber": 2625,
     "uikTvd": "4764026260103",
     "tikTvd": "2762000926788",
-    "tikName": "Рыбинск, Пролетарская"
+    "tikName": "Рыбинск, Пролетарская",
+    "uikName": "УИК №2625",
+    "regionCode": "76",
+    "regionTvd": "100100225883693",
+    "regionName": "Ярославская область",
+    "oikTvd": "100100225883695",
+    "oikName": "Ярославская область – Ростовский",
+    "district": {
+      "districtNumber": 195,
+      "oikTvd": "100100225883695"
+    }
   },
   {
     "uikNumber": 2626,
     "uikTvd": "4764026260104",
     "tikTvd": "2762000926788",
-    "tikName": "Рыбинск, Пролетарская"
+    "tikName": "Рыбинск, Пролетарская",
+    "uikName": "УИК №2626",
+    "regionCode": "76",
+    "regionTvd": "100100225883693",
+    "regionName": "Ярославская область",
+    "oikTvd": "100100225883695",
+    "oikName": "Ярославская область – Ростовский",
+    "district": {
+      "districtNumber": 195,
+      "oikTvd": "100100225883695"
+    }
   },
   {
     "uikNumber": 2627,
     "uikTvd": "4764026260105",
     "tikTvd": "2762000926788",
-    "tikName": "Рыбинск, Пролетарская"
+    "tikName": "Рыбинск, Пролетарская",
+    "uikName": "УИК №2627",
+    "regionCode": "76",
+    "regionTvd": "100100225883693",
+    "regionName": "Ярославская область",
+    "oikTvd": "100100225883695",
+    "oikName": "Ярославская область – Ростовский",
+    "district": {
+      "districtNumber": 195,
+      "oikTvd": "100100225883695"
+    }
   },
   {
     "uikNumber": 2628,
     "uikTvd": "4764026260106",
     "tikTvd": "2762000926788",
-    "tikName": "Рыбинск, Пролетарская"
+    "tikName": "Рыбинск, Пролетарская",
+    "uikName": "УИК №2628",
+    "regionCode": "76",
+    "regionTvd": "100100225883693",
+    "regionName": "Ярославская область",
+    "oikTvd": "100100225883695",
+    "oikName": "Ярославская область – Ростовский",
+    "district": {
+      "districtNumber": 195,
+      "oikTvd": "100100225883695"
+    }
   },
   {
     "uikNumber": 2629,
     "uikTvd": "4764026260107",
     "tikTvd": "2762000926788",
-    "tikName": "Рыбинск, Пролетарская"
+    "tikName": "Рыбинск, Пролетарская",
+    "uikName": "УИК №2629",
+    "regionCode": "76",
+    "regionTvd": "100100225883693",
+    "regionName": "Ярославская область",
+    "oikTvd": "100100225883695",
+    "oikName": "Ярославская область – Ростовский",
+    "district": {
+      "districtNumber": 195,
+      "oikTvd": "100100225883695"
+    }
   },
   {
     "uikNumber": 2630,
     "uikTvd": "4764026260108",
     "tikTvd": "2762000926788",
-    "tikName": "Рыбинск, Пролетарская"
+    "tikName": "Рыбинск, Пролетарская",
+    "uikName": "УИК №2630",
+    "regionCode": "76",
+    "regionTvd": "100100225883693",
+    "regionName": "Ярославская область",
+    "oikTvd": "100100225883695",
+    "oikName": "Ярославская область – Ростовский",
+    "district": {
+      "districtNumber": 195,
+      "oikTvd": "100100225883695"
+    }
   },
   {
     "uikNumber": 2631,
     "uikTvd": "4764026260109",
     "tikTvd": "2762000926788",
-    "tikName": "Рыбинск, Пролетарская"
+    "tikName": "Рыбинск, Пролетарская",
+    "uikName": "УИК №2631",
+    "regionCode": "76",
+    "regionTvd": "100100225883693",
+    "regionName": "Ярославская область",
+    "oikTvd": "100100225883695",
+    "oikName": "Ярославская область – Ростовский",
+    "district": {
+      "districtNumber": 195,
+      "oikTvd": "100100225883695"
+    }
   },
   {
     "uikNumber": 2632,
     "uikTvd": "4764026260110",
     "tikTvd": "2762000926788",
-    "tikName": "Рыбинск, Пролетарская"
+    "tikName": "Рыбинск, Пролетарская",
+    "uikName": "УИК №2632",
+    "regionCode": "76",
+    "regionTvd": "100100225883693",
+    "regionName": "Ярославская область",
+    "oikTvd": "100100225883695",
+    "oikName": "Ярославская область – Ростовский",
+    "district": {
+      "districtNumber": 195,
+      "oikTvd": "100100225883695"
+    }
   },
   {
     "uikNumber": 2633,
     "uikTvd": "4764026260111",
     "tikTvd": "2762000926788",
-    "tikName": "Рыбинск, Пролетарская"
+    "tikName": "Рыбинск, Пролетарская",
+    "uikName": "УИК №2633",
+    "regionCode": "76",
+    "regionTvd": "100100225883693",
+    "regionName": "Ярославская область",
+    "oikTvd": "100100225883695",
+    "oikName": "Ярославская область – Ростовский",
+    "district": {
+      "districtNumber": 195,
+      "oikTvd": "100100225883695"
+    }
   },
   {
     "uikNumber": 2634,
     "uikTvd": "4764026260112",
     "tikTvd": "2762000926788",
-    "tikName": "Рыбинск, Пролетарская"
+    "tikName": "Рыбинск, Пролетарская",
+    "uikName": "УИК №2634",
+    "regionCode": "76",
+    "regionTvd": "100100225883693",
+    "regionName": "Ярославская область",
+    "oikTvd": "100100225883695",
+    "oikName": "Ярославская область – Ростовский",
+    "district": {
+      "districtNumber": 195,
+      "oikTvd": "100100225883695"
+    }
   },
   {
     "uikNumber": 2635,
     "uikTvd": "4764026260113",
     "tikTvd": "2762000926788",
-    "tikName": "Рыбинск, Пролетарская"
+    "tikName": "Рыбинск, Пролетарская",
+    "uikName": "УИК №2635",
+    "regionCode": "76",
+    "regionTvd": "100100225883693",
+    "regionName": "Ярославская область",
+    "oikTvd": "100100225883695",
+    "oikName": "Ярославская область – Ростовский",
+    "district": {
+      "districtNumber": 195,
+      "oikTvd": "100100225883695"
+    }
   },
   {
     "uikNumber": 2636,
     "uikTvd": "4764026260114",
     "tikTvd": "2762000926788",
-    "tikName": "Рыбинск, Пролетарская"
+    "tikName": "Рыбинск, Пролетарская",
+    "uikName": "УИК №2636",
+    "regionCode": "76",
+    "regionTvd": "100100225883693",
+    "regionName": "Ярославская область",
+    "oikTvd": "100100225883695",
+    "oikName": "Ярославская область – Ростовский",
+    "district": {
+      "districtNumber": 195,
+      "oikTvd": "100100225883695"
+    }
   },
   {
     "uikNumber": 2637,
     "uikTvd": "4764026260115",
     "tikTvd": "2762000926788",
-    "tikName": "Рыбинск, Пролетарская"
+    "tikName": "Рыбинск, Пролетарская",
+    "uikName": "УИК №2637",
+    "regionCode": "76",
+    "regionTvd": "100100225883693",
+    "regionName": "Ярославская область",
+    "oikTvd": "100100225883695",
+    "oikName": "Ярославская область – Ростовский",
+    "district": {
+      "districtNumber": 195,
+      "oikTvd": "100100225883695"
+    }
   },
   {
     "uikNumber": 2638,
     "uikTvd": "4764026260116",
     "tikTvd": "2762000926788",
-    "tikName": "Рыбинск, Пролетарская"
+    "tikName": "Рыбинск, Пролетарская",
+    "uikName": "УИК №2638",
+    "regionCode": "76",
+    "regionTvd": "100100225883693",
+    "regionName": "Ярославская область",
+    "oikTvd": "100100225883695",
+    "oikName": "Ярославская область – Ростовский",
+    "district": {
+      "districtNumber": 195,
+      "oikTvd": "100100225883695"
+    }
   },
   {
     "uikNumber": 2639,
     "uikTvd": "4764026260117",
     "tikTvd": "2762000926788",
-    "tikName": "Рыбинск, Пролетарская"
+    "tikName": "Рыбинск, Пролетарская",
+    "uikName": "УИК №2639",
+    "regionCode": "76",
+    "regionTvd": "100100225883693",
+    "regionName": "Ярославская область",
+    "oikTvd": "100100225883695",
+    "oikName": "Ярославская область – Ростовский",
+    "district": {
+      "districtNumber": 195,
+      "oikTvd": "100100225883695"
+    }
   },
   {
     "uikNumber": 2640,
     "uikTvd": "4764026260118",
     "tikTvd": "2762000926788",
-    "tikName": "Рыбинск, Пролетарская"
+    "tikName": "Рыбинск, Пролетарская",
+    "uikName": "УИК №2640",
+    "regionCode": "76",
+    "regionTvd": "100100225883693",
+    "regionName": "Ярославская область",
+    "oikTvd": "100100225883695",
+    "oikName": "Ярославская область – Ростовский",
+    "district": {
+      "districtNumber": 195,
+      "oikTvd": "100100225883695"
+    }
   },
   {
     "uikNumber": 2641,
     "uikTvd": "4764026260119",
     "tikTvd": "2762000926788",
-    "tikName": "Рыбинск, Пролетарская"
+    "tikName": "Рыбинск, Пролетарская",
+    "uikName": "УИК №2641",
+    "regionCode": "76",
+    "regionTvd": "100100225883693",
+    "regionName": "Ярославская область",
+    "oikTvd": "100100225883695",
+    "oikName": "Ярославская область – Ростовский",
+    "district": {
+      "districtNumber": 195,
+      "oikTvd": "100100225883695"
+    }
   },
   {
     "uikNumber": 2642,
     "uikTvd": "4764026260120",
     "tikTvd": "2762000926788",
-    "tikName": "Рыбинск, Пролетарская"
+    "tikName": "Рыбинск, Пролетарская",
+    "uikName": "УИК №2642",
+    "regionCode": "76",
+    "regionTvd": "100100225883693",
+    "regionName": "Ярославская область",
+    "oikTvd": "100100225883695",
+    "oikName": "Ярославская область – Ростовский",
+    "district": {
+      "districtNumber": 195,
+      "oikTvd": "100100225883695"
+    }
   },
   {
     "uikNumber": 2643,
     "uikTvd": "4764026260121",
     "tikTvd": "2762000926788",
-    "tikName": "Рыбинск, Пролетарская"
+    "tikName": "Рыбинск, Пролетарская",
+    "uikName": "УИК №2643",
+    "regionCode": "76",
+    "regionTvd": "100100225883693",
+    "regionName": "Ярославская область",
+    "oikTvd": "100100225883695",
+    "oikName": "Ярославская область – Ростовский",
+    "district": {
+      "districtNumber": 195,
+      "oikTvd": "100100225883695"
+    }
   },
   {
     "uikNumber": 2644,
     "uikTvd": "4764026260122",
     "tikTvd": "2762000926788",
-    "tikName": "Рыбинск, Пролетарская"
+    "tikName": "Рыбинск, Пролетарская",
+    "uikName": "УИК №2644",
+    "regionCode": "76",
+    "regionTvd": "100100225883693",
+    "regionName": "Ярославская область",
+    "oikTvd": "100100225883695",
+    "oikName": "Ярославская область – Ростовский",
+    "district": {
+      "districtNumber": 195,
+      "oikTvd": "100100225883695"
+    }
   },
   {
     "uikNumber": 2645,
     "uikTvd": "4764026260123",
     "tikTvd": "2762000926788",
-    "tikName": "Рыбинск, Пролетарская"
+    "tikName": "Рыбинск, Пролетарская",
+    "uikName": "УИК №2645",
+    "regionCode": "76",
+    "regionTvd": "100100225883693",
+    "regionName": "Ярославская область",
+    "oikTvd": "100100225883695",
+    "oikName": "Ярославская область – Ростовский",
+    "district": {
+      "districtNumber": 195,
+      "oikTvd": "100100225883695"
+    }
   },
   {
     "uikNumber": 2646,
     "uikTvd": "4764026260124",
     "tikTvd": "2762000926788",
-    "tikName": "Рыбинск, Пролетарская"
+    "tikName": "Рыбинск, Пролетарская",
+    "uikName": "УИК №2646",
+    "regionCode": "76",
+    "regionTvd": "100100225883693",
+    "regionName": "Ярославская область",
+    "oikTvd": "100100225883695",
+    "oikName": "Ярославская область – Ростовский",
+    "district": {
+      "districtNumber": 195,
+      "oikTvd": "100100225883695"
+    }
   },
   {
     "uikNumber": 2647,
     "uikTvd": "4764026260125",
     "tikTvd": "2762000926788",
-    "tikName": "Рыбинск, Пролетарская"
+    "tikName": "Рыбинск, Пролетарская",
+    "uikName": "УИК №2647",
+    "regionCode": "76",
+    "regionTvd": "100100225883693",
+    "regionName": "Ярославская область",
+    "oikTvd": "100100225883695",
+    "oikName": "Ярославская область – Ростовский",
+    "district": {
+      "districtNumber": 195,
+      "oikTvd": "100100225883695"
+    }
   },
   {
     "uikNumber": 2648,
     "uikTvd": "4764026260126",
     "tikTvd": "2762000926788",
-    "tikName": "Рыбинск, Пролетарская"
+    "tikName": "Рыбинск, Пролетарская",
+    "uikName": "УИК №2648",
+    "regionCode": "76",
+    "regionTvd": "100100225883693",
+    "regionName": "Ярославская область",
+    "oikTvd": "100100225883695",
+    "oikName": "Ярославская область – Ростовский",
+    "district": {
+      "districtNumber": 195,
+      "oikTvd": "100100225883695"
+    }
   },
   {
     "uikNumber": 2649,
     "uikTvd": "4764026260127",
     "tikTvd": "2762000926788",
-    "tikName": "Рыбинск, Пролетарская"
+    "tikName": "Рыбинск, Пролетарская",
+    "uikName": "УИК №2649",
+    "regionCode": "76",
+    "regionTvd": "100100225883693",
+    "regionName": "Ярославская область",
+    "oikTvd": "100100225883695",
+    "oikName": "Ярославская область – Ростовский",
+    "district": {
+      "districtNumber": 195,
+      "oikTvd": "100100225883695"
+    }
   },
   {
     "uikNumber": 2650,
     "uikTvd": "4764026260128",
     "tikTvd": "2762000926788",
-    "tikName": "Рыбинск, Пролетарская"
+    "tikName": "Рыбинск, Пролетарская",
+    "uikName": "УИК №2650",
+    "regionCode": "76",
+    "regionTvd": "100100225883693",
+    "regionName": "Ярославская область",
+    "oikTvd": "100100225883695",
+    "oikName": "Ярославская область – Ростовский",
+    "district": {
+      "districtNumber": 195,
+      "oikTvd": "100100225883695"
+    }
   },
   {
     "uikNumber": 2698,
     "uikTvd": "4764026264387",
     "tikTvd": "2762000926788",
-    "tikName": "Рыбинск, Пролетарская"
+    "tikName": "Рыбинск, Пролетарская",
+    "uikName": "УИК №2698",
+    "regionCode": "76",
+    "regionTvd": "100100225883693",
+    "regionName": "Ярославская область",
+    "oikTvd": "100100225883695",
+    "oikName": "Ярославская область – Ростовский",
+    "district": {
+      "districtNumber": 195,
+      "oikTvd": "100100225883695"
+    }
   },
   {
     "uikNumber": 2699,
     "uikTvd": "4764026264388",
     "tikTvd": "2762000926788",
-    "tikName": "Рыбинск, Пролетарская"
+    "tikName": "Рыбинск, Пролетарская",
+    "uikName": "УИК №2699",
+    "regionCode": "76",
+    "regionTvd": "100100225883693",
+    "regionName": "Ярославская область",
+    "oikTvd": "100100225883695",
+    "oikName": "Ярославская область – Ростовский",
+    "district": {
+      "districtNumber": 195,
+      "oikTvd": "100100225883695"
+    }
   }
 ] satisfies readonly UikTikRelation[];

@@ -8,1122 +8,2992 @@ export const duma_2021_uik_to_tik_region_17 = [
     "uikNumber": 1,
     "uikTvd": "4174006338231",
     "tikTvd": "2172000740561",
-    "tikName": "Кызылская городская"
+    "tikName": "Кызылская городская",
+    "uikName": "УИК №1",
+    "regionCode": "17",
+    "regionTvd": "100100225883442",
+    "regionName": "Республика Тыва",
+    "oikTvd": "100100225883443",
+    "oikName": "Республика Тыва – Тывинский",
+    "district": {
+      "districtNumber": 32,
+      "oikTvd": "100100225883443"
+    }
   },
   {
     "uikNumber": 2,
     "uikTvd": "4174006338232",
     "tikTvd": "2172000740561",
-    "tikName": "Кызылская городская"
+    "tikName": "Кызылская городская",
+    "uikName": "УИК №2",
+    "regionCode": "17",
+    "regionTvd": "100100225883442",
+    "regionName": "Республика Тыва",
+    "oikTvd": "100100225883443",
+    "oikName": "Республика Тыва – Тывинский",
+    "district": {
+      "districtNumber": 32,
+      "oikTvd": "100100225883443"
+    }
   },
   {
     "uikNumber": 3,
     "uikTvd": "4174006338233",
     "tikTvd": "2172000740561",
-    "tikName": "Кызылская городская"
+    "tikName": "Кызылская городская",
+    "uikName": "УИК №3",
+    "regionCode": "17",
+    "regionTvd": "100100225883442",
+    "regionName": "Республика Тыва",
+    "oikTvd": "100100225883443",
+    "oikName": "Республика Тыва – Тывинский",
+    "district": {
+      "districtNumber": 32,
+      "oikTvd": "100100225883443"
+    }
   },
   {
     "uikNumber": 4,
     "uikTvd": "4174006338234",
     "tikTvd": "2172000740561",
-    "tikName": "Кызылская городская"
+    "tikName": "Кызылская городская",
+    "uikName": "УИК №4",
+    "regionCode": "17",
+    "regionTvd": "100100225883442",
+    "regionName": "Республика Тыва",
+    "oikTvd": "100100225883443",
+    "oikName": "Республика Тыва – Тывинский",
+    "district": {
+      "districtNumber": 32,
+      "oikTvd": "100100225883443"
+    }
   },
   {
     "uikNumber": 5,
     "uikTvd": "4174006338235",
     "tikTvd": "2172000740561",
-    "tikName": "Кызылская городская"
+    "tikName": "Кызылская городская",
+    "uikName": "УИК №5",
+    "regionCode": "17",
+    "regionTvd": "100100225883442",
+    "regionName": "Республика Тыва",
+    "oikTvd": "100100225883443",
+    "oikName": "Республика Тыва – Тывинский",
+    "district": {
+      "districtNumber": 32,
+      "oikTvd": "100100225883443"
+    }
   },
   {
     "uikNumber": 6,
     "uikTvd": "4174006338236",
     "tikTvd": "2172000740561",
-    "tikName": "Кызылская городская"
+    "tikName": "Кызылская городская",
+    "uikName": "УИК №6",
+    "regionCode": "17",
+    "regionTvd": "100100225883442",
+    "regionName": "Республика Тыва",
+    "oikTvd": "100100225883443",
+    "oikName": "Республика Тыва – Тывинский",
+    "district": {
+      "districtNumber": 32,
+      "oikTvd": "100100225883443"
+    }
   },
   {
     "uikNumber": 7,
     "uikTvd": "4174006338237",
     "tikTvd": "2172000740561",
-    "tikName": "Кызылская городская"
+    "tikName": "Кызылская городская",
+    "uikName": "УИК №7",
+    "regionCode": "17",
+    "regionTvd": "100100225883442",
+    "regionName": "Республика Тыва",
+    "oikTvd": "100100225883443",
+    "oikName": "Республика Тыва – Тывинский",
+    "district": {
+      "districtNumber": 32,
+      "oikTvd": "100100225883443"
+    }
   },
   {
     "uikNumber": 8,
     "uikTvd": "4174006338238",
     "tikTvd": "2172000740561",
-    "tikName": "Кызылская городская"
+    "tikName": "Кызылская городская",
+    "uikName": "УИК №8",
+    "regionCode": "17",
+    "regionTvd": "100100225883442",
+    "regionName": "Республика Тыва",
+    "oikTvd": "100100225883443",
+    "oikName": "Республика Тыва – Тывинский",
+    "district": {
+      "districtNumber": 32,
+      "oikTvd": "100100225883443"
+    }
   },
   {
     "uikNumber": 9,
     "uikTvd": "4174006338239",
     "tikTvd": "2172000740561",
-    "tikName": "Кызылская городская"
+    "tikName": "Кызылская городская",
+    "uikName": "УИК №9",
+    "regionCode": "17",
+    "regionTvd": "100100225883442",
+    "regionName": "Республика Тыва",
+    "oikTvd": "100100225883443",
+    "oikName": "Республика Тыва – Тывинский",
+    "district": {
+      "districtNumber": 32,
+      "oikTvd": "100100225883443"
+    }
   },
   {
     "uikNumber": 10,
     "uikTvd": "4174006338240",
     "tikTvd": "2172000740561",
-    "tikName": "Кызылская городская"
+    "tikName": "Кызылская городская",
+    "uikName": "УИК №10",
+    "regionCode": "17",
+    "regionTvd": "100100225883442",
+    "regionName": "Республика Тыва",
+    "oikTvd": "100100225883443",
+    "oikName": "Республика Тыва – Тывинский",
+    "district": {
+      "districtNumber": 32,
+      "oikTvd": "100100225883443"
+    }
   },
   {
     "uikNumber": 11,
     "uikTvd": "4174006338241",
     "tikTvd": "2172000740561",
-    "tikName": "Кызылская городская"
+    "tikName": "Кызылская городская",
+    "uikName": "УИК №11",
+    "regionCode": "17",
+    "regionTvd": "100100225883442",
+    "regionName": "Республика Тыва",
+    "oikTvd": "100100225883443",
+    "oikName": "Республика Тыва – Тывинский",
+    "district": {
+      "districtNumber": 32,
+      "oikTvd": "100100225883443"
+    }
   },
   {
     "uikNumber": 12,
     "uikTvd": "4174006338242",
     "tikTvd": "2172000740561",
-    "tikName": "Кызылская городская"
+    "tikName": "Кызылская городская",
+    "uikName": "УИК №12",
+    "regionCode": "17",
+    "regionTvd": "100100225883442",
+    "regionName": "Республика Тыва",
+    "oikTvd": "100100225883443",
+    "oikName": "Республика Тыва – Тывинский",
+    "district": {
+      "districtNumber": 32,
+      "oikTvd": "100100225883443"
+    }
   },
   {
     "uikNumber": 13,
     "uikTvd": "4174006338243",
     "tikTvd": "2172000740561",
-    "tikName": "Кызылская городская"
+    "tikName": "Кызылская городская",
+    "uikName": "УИК №13",
+    "regionCode": "17",
+    "regionTvd": "100100225883442",
+    "regionName": "Республика Тыва",
+    "oikTvd": "100100225883443",
+    "oikName": "Республика Тыва – Тывинский",
+    "district": {
+      "districtNumber": 32,
+      "oikTvd": "100100225883443"
+    }
   },
   {
     "uikNumber": 14,
     "uikTvd": "4174006338244",
     "tikTvd": "2172000740561",
-    "tikName": "Кызылская городская"
+    "tikName": "Кызылская городская",
+    "uikName": "УИК №14",
+    "regionCode": "17",
+    "regionTvd": "100100225883442",
+    "regionName": "Республика Тыва",
+    "oikTvd": "100100225883443",
+    "oikName": "Республика Тыва – Тывинский",
+    "district": {
+      "districtNumber": 32,
+      "oikTvd": "100100225883443"
+    }
   },
   {
     "uikNumber": 15,
     "uikTvd": "4174006338245",
     "tikTvd": "2172000740561",
-    "tikName": "Кызылская городская"
+    "tikName": "Кызылская городская",
+    "uikName": "УИК №15",
+    "regionCode": "17",
+    "regionTvd": "100100225883442",
+    "regionName": "Республика Тыва",
+    "oikTvd": "100100225883443",
+    "oikName": "Республика Тыва – Тывинский",
+    "district": {
+      "districtNumber": 32,
+      "oikTvd": "100100225883443"
+    }
   },
   {
     "uikNumber": 16,
     "uikTvd": "4174006338246",
     "tikTvd": "2172000740561",
-    "tikName": "Кызылская городская"
+    "tikName": "Кызылская городская",
+    "uikName": "УИК №16",
+    "regionCode": "17",
+    "regionTvd": "100100225883442",
+    "regionName": "Республика Тыва",
+    "oikTvd": "100100225883443",
+    "oikName": "Республика Тыва – Тывинский",
+    "district": {
+      "districtNumber": 32,
+      "oikTvd": "100100225883443"
+    }
   },
   {
     "uikNumber": 17,
     "uikTvd": "4174006338247",
     "tikTvd": "2172000740561",
-    "tikName": "Кызылская городская"
+    "tikName": "Кызылская городская",
+    "uikName": "УИК №17",
+    "regionCode": "17",
+    "regionTvd": "100100225883442",
+    "regionName": "Республика Тыва",
+    "oikTvd": "100100225883443",
+    "oikName": "Республика Тыва – Тывинский",
+    "district": {
+      "districtNumber": 32,
+      "oikTvd": "100100225883443"
+    }
   },
   {
     "uikNumber": 18,
     "uikTvd": "4174006338248",
     "tikTvd": "2172000740561",
-    "tikName": "Кызылская городская"
+    "tikName": "Кызылская городская",
+    "uikName": "УИК №18",
+    "regionCode": "17",
+    "regionTvd": "100100225883442",
+    "regionName": "Республика Тыва",
+    "oikTvd": "100100225883443",
+    "oikName": "Республика Тыва – Тывинский",
+    "district": {
+      "districtNumber": 32,
+      "oikTvd": "100100225883443"
+    }
   },
   {
     "uikNumber": 19,
     "uikTvd": "4174006338249",
     "tikTvd": "2172000740561",
-    "tikName": "Кызылская городская"
+    "tikName": "Кызылская городская",
+    "uikName": "УИК №19",
+    "regionCode": "17",
+    "regionTvd": "100100225883442",
+    "regionName": "Республика Тыва",
+    "oikTvd": "100100225883443",
+    "oikName": "Республика Тыва – Тывинский",
+    "district": {
+      "districtNumber": 32,
+      "oikTvd": "100100225883443"
+    }
   },
   {
     "uikNumber": 20,
     "uikTvd": "4174006338250",
     "tikTvd": "2172000740561",
-    "tikName": "Кызылская городская"
+    "tikName": "Кызылская городская",
+    "uikName": "УИК №20",
+    "regionCode": "17",
+    "regionTvd": "100100225883442",
+    "regionName": "Республика Тыва",
+    "oikTvd": "100100225883443",
+    "oikName": "Республика Тыва – Тывинский",
+    "district": {
+      "districtNumber": 32,
+      "oikTvd": "100100225883443"
+    }
   },
   {
     "uikNumber": 21,
     "uikTvd": "4174006338251",
     "tikTvd": "2172000740561",
-    "tikName": "Кызылская городская"
+    "tikName": "Кызылская городская",
+    "uikName": "УИК №21",
+    "regionCode": "17",
+    "regionTvd": "100100225883442",
+    "regionName": "Республика Тыва",
+    "oikTvd": "100100225883443",
+    "oikName": "Республика Тыва – Тывинский",
+    "district": {
+      "districtNumber": 32,
+      "oikTvd": "100100225883443"
+    }
   },
   {
     "uikNumber": 22,
     "uikTvd": "4174006338252",
     "tikTvd": "2172000740561",
-    "tikName": "Кызылская городская"
+    "tikName": "Кызылская городская",
+    "uikName": "УИК №22",
+    "regionCode": "17",
+    "regionTvd": "100100225883442",
+    "regionName": "Республика Тыва",
+    "oikTvd": "100100225883443",
+    "oikName": "Республика Тыва – Тывинский",
+    "district": {
+      "districtNumber": 32,
+      "oikTvd": "100100225883443"
+    }
   },
   {
     "uikNumber": 23,
     "uikTvd": "4174006338253",
     "tikTvd": "2172000740561",
-    "tikName": "Кызылская городская"
+    "tikName": "Кызылская городская",
+    "uikName": "УИК №23",
+    "regionCode": "17",
+    "regionTvd": "100100225883442",
+    "regionName": "Республика Тыва",
+    "oikTvd": "100100225883443",
+    "oikName": "Республика Тыва – Тывинский",
+    "district": {
+      "districtNumber": 32,
+      "oikTvd": "100100225883443"
+    }
   },
   {
     "uikNumber": 24,
     "uikTvd": "4174006338254",
     "tikTvd": "2172000740561",
-    "tikName": "Кызылская городская"
+    "tikName": "Кызылская городская",
+    "uikName": "УИК №24",
+    "regionCode": "17",
+    "regionTvd": "100100225883442",
+    "regionName": "Республика Тыва",
+    "oikTvd": "100100225883443",
+    "oikName": "Республика Тыва – Тывинский",
+    "district": {
+      "districtNumber": 32,
+      "oikTvd": "100100225883443"
+    }
   },
   {
     "uikNumber": 25,
     "uikTvd": "4174006338255",
     "tikTvd": "2172000740561",
-    "tikName": "Кызылская городская"
+    "tikName": "Кызылская городская",
+    "uikName": "УИК №25",
+    "regionCode": "17",
+    "regionTvd": "100100225883442",
+    "regionName": "Республика Тыва",
+    "oikTvd": "100100225883443",
+    "oikName": "Республика Тыва – Тывинский",
+    "district": {
+      "districtNumber": 32,
+      "oikTvd": "100100225883443"
+    }
   },
   {
     "uikNumber": 26,
     "uikTvd": "4174006338256",
     "tikTvd": "2172000740561",
-    "tikName": "Кызылская городская"
+    "tikName": "Кызылская городская",
+    "uikName": "УИК №26",
+    "regionCode": "17",
+    "regionTvd": "100100225883442",
+    "regionName": "Республика Тыва",
+    "oikTvd": "100100225883443",
+    "oikName": "Республика Тыва – Тывинский",
+    "district": {
+      "districtNumber": 32,
+      "oikTvd": "100100225883443"
+    }
   },
   {
     "uikNumber": 27,
     "uikTvd": "4174006338257",
     "tikTvd": "2172000740561",
-    "tikName": "Кызылская городская"
+    "tikName": "Кызылская городская",
+    "uikName": "УИК №27",
+    "regionCode": "17",
+    "regionTvd": "100100225883442",
+    "regionName": "Республика Тыва",
+    "oikTvd": "100100225883443",
+    "oikName": "Республика Тыва – Тывинский",
+    "district": {
+      "districtNumber": 32,
+      "oikTvd": "100100225883443"
+    }
   },
   {
     "uikNumber": 28,
     "uikTvd": "4174006338258",
     "tikTvd": "2172000740561",
-    "tikName": "Кызылская городская"
+    "tikName": "Кызылская городская",
+    "uikName": "УИК №28",
+    "regionCode": "17",
+    "regionTvd": "100100225883442",
+    "regionName": "Республика Тыва",
+    "oikTvd": "100100225883443",
+    "oikName": "Республика Тыва – Тывинский",
+    "district": {
+      "districtNumber": 32,
+      "oikTvd": "100100225883443"
+    }
   },
   {
     "uikNumber": 29,
     "uikTvd": "4174006338259",
     "tikTvd": "2172000740561",
-    "tikName": "Кызылская городская"
+    "tikName": "Кызылская городская",
+    "uikName": "УИК №29",
+    "regionCode": "17",
+    "regionTvd": "100100225883442",
+    "regionName": "Республика Тыва",
+    "oikTvd": "100100225883443",
+    "oikName": "Республика Тыва – Тывинский",
+    "district": {
+      "districtNumber": 32,
+      "oikTvd": "100100225883443"
+    }
   },
   {
     "uikNumber": 30,
     "uikTvd": "4174006338260",
     "tikTvd": "2172000740561",
-    "tikName": "Кызылская городская"
+    "tikName": "Кызылская городская",
+    "uikName": "УИК №30",
+    "regionCode": "17",
+    "regionTvd": "100100225883442",
+    "regionName": "Республика Тыва",
+    "oikTvd": "100100225883443",
+    "oikName": "Республика Тыва – Тывинский",
+    "district": {
+      "districtNumber": 32,
+      "oikTvd": "100100225883443"
+    }
   },
   {
     "uikNumber": 31,
     "uikTvd": "4174006338261",
     "tikTvd": "2172000740561",
-    "tikName": "Кызылская городская"
+    "tikName": "Кызылская городская",
+    "uikName": "УИК №31",
+    "regionCode": "17",
+    "regionTvd": "100100225883442",
+    "regionName": "Республика Тыва",
+    "oikTvd": "100100225883443",
+    "oikName": "Республика Тыва – Тывинский",
+    "district": {
+      "districtNumber": 32,
+      "oikTvd": "100100225883443"
+    }
   },
   {
     "uikNumber": 32,
     "uikTvd": "4174006338262",
     "tikTvd": "2172000740561",
-    "tikName": "Кызылская городская"
+    "tikName": "Кызылская городская",
+    "uikName": "УИК №32",
+    "regionCode": "17",
+    "regionTvd": "100100225883442",
+    "regionName": "Республика Тыва",
+    "oikTvd": "100100225883443",
+    "oikName": "Республика Тыва – Тывинский",
+    "district": {
+      "districtNumber": 32,
+      "oikTvd": "100100225883443"
+    }
   },
   {
     "uikNumber": 33,
     "uikTvd": "4174006338263",
     "tikTvd": "2172000740561",
-    "tikName": "Кызылская городская"
+    "tikName": "Кызылская городская",
+    "uikName": "УИК №33",
+    "regionCode": "17",
+    "regionTvd": "100100225883442",
+    "regionName": "Республика Тыва",
+    "oikTvd": "100100225883443",
+    "oikName": "Республика Тыва – Тывинский",
+    "district": {
+      "districtNumber": 32,
+      "oikTvd": "100100225883443"
+    }
   },
   {
     "uikNumber": 34,
     "uikTvd": "4174006338264",
     "tikTvd": "2172000740561",
-    "tikName": "Кызылская городская"
+    "tikName": "Кызылская городская",
+    "uikName": "УИК №34",
+    "regionCode": "17",
+    "regionTvd": "100100225883442",
+    "regionName": "Республика Тыва",
+    "oikTvd": "100100225883443",
+    "oikName": "Республика Тыва – Тывинский",
+    "district": {
+      "districtNumber": 32,
+      "oikTvd": "100100225883443"
+    }
   },
   {
     "uikNumber": 35,
     "uikTvd": "4174006338265",
     "tikTvd": "2172000740561",
-    "tikName": "Кызылская городская"
+    "tikName": "Кызылская городская",
+    "uikName": "УИК №35",
+    "regionCode": "17",
+    "regionTvd": "100100225883442",
+    "regionName": "Республика Тыва",
+    "oikTvd": "100100225883443",
+    "oikName": "Республика Тыва – Тывинский",
+    "district": {
+      "districtNumber": 32,
+      "oikTvd": "100100225883443"
+    }
   },
   {
     "uikNumber": 36,
     "uikTvd": "4174001145679",
     "tikTvd": "2172000740566",
-    "tikName": "Ак-Довуракская"
+    "tikName": "Ак-Довуракская",
+    "uikName": "УИК №36",
+    "regionCode": "17",
+    "regionTvd": "100100225883442",
+    "regionName": "Республика Тыва",
+    "oikTvd": "100100225883443",
+    "oikName": "Республика Тыва – Тывинский",
+    "district": {
+      "districtNumber": 32,
+      "oikTvd": "100100225883443"
+    }
   },
   {
     "uikNumber": 37,
     "uikTvd": "4174001145680",
     "tikTvd": "2172000740566",
-    "tikName": "Ак-Довуракская"
+    "tikName": "Ак-Довуракская",
+    "uikName": "УИК №37",
+    "regionCode": "17",
+    "regionTvd": "100100225883442",
+    "regionName": "Республика Тыва",
+    "oikTvd": "100100225883443",
+    "oikName": "Республика Тыва – Тывинский",
+    "district": {
+      "districtNumber": 32,
+      "oikTvd": "100100225883443"
+    }
   },
   {
     "uikNumber": 38,
     "uikTvd": "4174001145681",
     "tikTvd": "2172000740566",
-    "tikName": "Ак-Довуракская"
+    "tikName": "Ак-Довуракская",
+    "uikName": "УИК №38",
+    "regionCode": "17",
+    "regionTvd": "100100225883442",
+    "regionName": "Республика Тыва",
+    "oikTvd": "100100225883443",
+    "oikName": "Республика Тыва – Тывинский",
+    "district": {
+      "districtNumber": 32,
+      "oikTvd": "100100225883443"
+    }
   },
   {
     "uikNumber": 39,
     "uikTvd": "4174001145682",
     "tikTvd": "2172000740566",
-    "tikName": "Ак-Довуракская"
+    "tikName": "Ак-Довуракская",
+    "uikName": "УИК №39",
+    "regionCode": "17",
+    "regionTvd": "100100225883442",
+    "regionName": "Республика Тыва",
+    "oikTvd": "100100225883443",
+    "oikName": "Республика Тыва – Тывинский",
+    "district": {
+      "districtNumber": 32,
+      "oikTvd": "100100225883443"
+    }
   },
   {
     "uikNumber": 40,
     "uikTvd": "4174001145683",
     "tikTvd": "2172000740566",
-    "tikName": "Ак-Довуракская"
+    "tikName": "Ак-Довуракская",
+    "uikName": "УИК №40",
+    "regionCode": "17",
+    "regionTvd": "100100225883442",
+    "regionName": "Республика Тыва",
+    "oikTvd": "100100225883443",
+    "oikName": "Республика Тыва – Тывинский",
+    "district": {
+      "districtNumber": 32,
+      "oikTvd": "100100225883443"
+    }
   },
   {
     "uikNumber": 41,
     "uikTvd": "4174001145684",
     "tikTvd": "2172000740566",
-    "tikName": "Ак-Довуракская"
+    "tikName": "Ак-Довуракская",
+    "uikName": "УИК №41",
+    "regionCode": "17",
+    "regionTvd": "100100225883442",
+    "regionName": "Республика Тыва",
+    "oikTvd": "100100225883443",
+    "oikName": "Республика Тыва – Тывинский",
+    "district": {
+      "districtNumber": 32,
+      "oikTvd": "100100225883443"
+    }
   },
   {
     "uikNumber": 42,
     "uikTvd": "4174002236450",
     "tikTvd": "2172000740565",
-    "tikName": "Бай-Тайгинская"
+    "tikName": "Бай-Тайгинская",
+    "uikName": "УИК №42",
+    "regionCode": "17",
+    "regionTvd": "100100225883442",
+    "regionName": "Республика Тыва",
+    "oikTvd": "100100225883443",
+    "oikName": "Республика Тыва – Тывинский",
+    "district": {
+      "districtNumber": 32,
+      "oikTvd": "100100225883443"
+    }
   },
   {
     "uikNumber": 43,
     "uikTvd": "4174002236451",
     "tikTvd": "2172000740565",
-    "tikName": "Бай-Тайгинская"
+    "tikName": "Бай-Тайгинская",
+    "uikName": "УИК №43",
+    "regionCode": "17",
+    "regionTvd": "100100225883442",
+    "regionName": "Республика Тыва",
+    "oikTvd": "100100225883443",
+    "oikName": "Республика Тыва – Тывинский",
+    "district": {
+      "districtNumber": 32,
+      "oikTvd": "100100225883443"
+    }
   },
   {
     "uikNumber": 44,
     "uikTvd": "4174002236452",
     "tikTvd": "2172000740565",
-    "tikName": "Бай-Тайгинская"
+    "tikName": "Бай-Тайгинская",
+    "uikName": "УИК №44",
+    "regionCode": "17",
+    "regionTvd": "100100225883442",
+    "regionName": "Республика Тыва",
+    "oikTvd": "100100225883443",
+    "oikName": "Республика Тыва – Тывинский",
+    "district": {
+      "districtNumber": 32,
+      "oikTvd": "100100225883443"
+    }
   },
   {
     "uikNumber": 45,
     "uikTvd": "4174002236453",
     "tikTvd": "2172000740565",
-    "tikName": "Бай-Тайгинская"
+    "tikName": "Бай-Тайгинская",
+    "uikName": "УИК №45",
+    "regionCode": "17",
+    "regionTvd": "100100225883442",
+    "regionName": "Республика Тыва",
+    "oikTvd": "100100225883443",
+    "oikName": "Республика Тыва – Тывинский",
+    "district": {
+      "districtNumber": 32,
+      "oikTvd": "100100225883443"
+    }
   },
   {
     "uikNumber": 46,
     "uikTvd": "4174002236454",
     "tikTvd": "2172000740565",
-    "tikName": "Бай-Тайгинская"
+    "tikName": "Бай-Тайгинская",
+    "uikName": "УИК №46",
+    "regionCode": "17",
+    "regionTvd": "100100225883442",
+    "regionName": "Республика Тыва",
+    "oikTvd": "100100225883443",
+    "oikName": "Республика Тыва – Тывинский",
+    "district": {
+      "districtNumber": 32,
+      "oikTvd": "100100225883443"
+    }
   },
   {
     "uikNumber": 47,
     "uikTvd": "4174002236455",
     "tikTvd": "2172000740565",
-    "tikName": "Бай-Тайгинская"
+    "tikName": "Бай-Тайгинская",
+    "uikName": "УИК №47",
+    "regionCode": "17",
+    "regionTvd": "100100225883442",
+    "regionName": "Республика Тыва",
+    "oikTvd": "100100225883443",
+    "oikName": "Республика Тыва – Тывинский",
+    "district": {
+      "districtNumber": 32,
+      "oikTvd": "100100225883443"
+    }
   },
   {
     "uikNumber": 48,
     "uikTvd": "4174002236456",
     "tikTvd": "2172000740565",
-    "tikName": "Бай-Тайгинская"
+    "tikName": "Бай-Тайгинская",
+    "uikName": "УИК №48",
+    "regionCode": "17",
+    "regionTvd": "100100225883442",
+    "regionName": "Республика Тыва",
+    "oikTvd": "100100225883443",
+    "oikName": "Республика Тыва – Тывинский",
+    "district": {
+      "districtNumber": 32,
+      "oikTvd": "100100225883443"
+    }
   },
   {
     "uikNumber": 49,
     "uikTvd": "4174003223712",
     "tikTvd": "2172000740564",
-    "tikName": "Барун-Хемчикская"
+    "tikName": "Барун-Хемчикская",
+    "uikName": "УИК №49",
+    "regionCode": "17",
+    "regionTvd": "100100225883442",
+    "regionName": "Республика Тыва",
+    "oikTvd": "100100225883443",
+    "oikName": "Республика Тыва – Тывинский",
+    "district": {
+      "districtNumber": 32,
+      "oikTvd": "100100225883443"
+    }
   },
   {
     "uikNumber": 50,
     "uikTvd": "4174003223713",
     "tikTvd": "2172000740564",
-    "tikName": "Барун-Хемчикская"
+    "tikName": "Барун-Хемчикская",
+    "uikName": "УИК №50",
+    "regionCode": "17",
+    "regionTvd": "100100225883442",
+    "regionName": "Республика Тыва",
+    "oikTvd": "100100225883443",
+    "oikName": "Республика Тыва – Тывинский",
+    "district": {
+      "districtNumber": 32,
+      "oikTvd": "100100225883443"
+    }
   },
   {
     "uikNumber": 51,
     "uikTvd": "4174003223714",
     "tikTvd": "2172000740564",
-    "tikName": "Барун-Хемчикская"
+    "tikName": "Барун-Хемчикская",
+    "uikName": "УИК №51",
+    "regionCode": "17",
+    "regionTvd": "100100225883442",
+    "regionName": "Республика Тыва",
+    "oikTvd": "100100225883443",
+    "oikName": "Республика Тыва – Тывинский",
+    "district": {
+      "districtNumber": 32,
+      "oikTvd": "100100225883443"
+    }
   },
   {
     "uikNumber": 52,
     "uikTvd": "4174003223715",
     "tikTvd": "2172000740564",
-    "tikName": "Барун-Хемчикская"
+    "tikName": "Барун-Хемчикская",
+    "uikName": "УИК №52",
+    "regionCode": "17",
+    "regionTvd": "100100225883442",
+    "regionName": "Республика Тыва",
+    "oikTvd": "100100225883443",
+    "oikName": "Республика Тыва – Тывинский",
+    "district": {
+      "districtNumber": 32,
+      "oikTvd": "100100225883443"
+    }
   },
   {
     "uikNumber": 53,
     "uikTvd": "4174003223716",
     "tikTvd": "2172000740564",
-    "tikName": "Барун-Хемчикская"
+    "tikName": "Барун-Хемчикская",
+    "uikName": "УИК №53",
+    "regionCode": "17",
+    "regionTvd": "100100225883442",
+    "regionName": "Республика Тыва",
+    "oikTvd": "100100225883443",
+    "oikName": "Республика Тыва – Тывинский",
+    "district": {
+      "districtNumber": 32,
+      "oikTvd": "100100225883443"
+    }
   },
   {
     "uikNumber": 54,
     "uikTvd": "4174003223717",
     "tikTvd": "2172000740564",
-    "tikName": "Барун-Хемчикская"
+    "tikName": "Барун-Хемчикская",
+    "uikName": "УИК №54",
+    "regionCode": "17",
+    "regionTvd": "100100225883442",
+    "regionName": "Республика Тыва",
+    "oikTvd": "100100225883443",
+    "oikName": "Республика Тыва – Тывинский",
+    "district": {
+      "districtNumber": 32,
+      "oikTvd": "100100225883443"
+    }
   },
   {
     "uikNumber": 55,
     "uikTvd": "4174003223718",
     "tikTvd": "2172000740564",
-    "tikName": "Барун-Хемчикская"
+    "tikName": "Барун-Хемчикская",
+    "uikName": "УИК №55",
+    "regionCode": "17",
+    "regionTvd": "100100225883442",
+    "regionName": "Республика Тыва",
+    "oikTvd": "100100225883443",
+    "oikName": "Республика Тыва – Тывинский",
+    "district": {
+      "districtNumber": 32,
+      "oikTvd": "100100225883443"
+    }
   },
   {
     "uikNumber": 56,
     "uikTvd": "4174003223719",
     "tikTvd": "2172000740564",
-    "tikName": "Барун-Хемчикская"
+    "tikName": "Барун-Хемчикская",
+    "uikName": "УИК №56",
+    "regionCode": "17",
+    "regionTvd": "100100225883442",
+    "regionName": "Республика Тыва",
+    "oikTvd": "100100225883443",
+    "oikName": "Республика Тыва – Тывинский",
+    "district": {
+      "districtNumber": 32,
+      "oikTvd": "100100225883443"
+    }
   },
   {
     "uikNumber": 57,
     "uikTvd": "4174003223720",
     "tikTvd": "2172000740564",
-    "tikName": "Барун-Хемчикская"
+    "tikName": "Барун-Хемчикская",
+    "uikName": "УИК №57",
+    "regionCode": "17",
+    "regionTvd": "100100225883442",
+    "regionName": "Республика Тыва",
+    "oikTvd": "100100225883443",
+    "oikName": "Республика Тыва – Тывинский",
+    "district": {
+      "districtNumber": 32,
+      "oikTvd": "100100225883443"
+    }
   },
   {
     "uikNumber": 58,
     "uikTvd": "4174003223721",
     "tikTvd": "2172000740564",
-    "tikName": "Барун-Хемчикская"
+    "tikName": "Барун-Хемчикская",
+    "uikName": "УИК №58",
+    "regionCode": "17",
+    "regionTvd": "100100225883442",
+    "regionName": "Республика Тыва",
+    "oikTvd": "100100225883443",
+    "oikName": "Республика Тыва – Тывинский",
+    "district": {
+      "districtNumber": 32,
+      "oikTvd": "100100225883443"
+    }
   },
   {
     "uikNumber": 59,
     "uikTvd": "4174004405479",
     "tikTvd": "2172000740563",
-    "tikName": "Дзун-Хемчикская"
+    "tikName": "Дзун-Хемчикская",
+    "uikName": "УИК №59",
+    "regionCode": "17",
+    "regionTvd": "100100225883442",
+    "regionName": "Республика Тыва",
+    "oikTvd": "100100225883443",
+    "oikName": "Республика Тыва – Тывинский",
+    "district": {
+      "districtNumber": 32,
+      "oikTvd": "100100225883443"
+    }
   },
   {
     "uikNumber": 60,
     "uikTvd": "4174004405480",
     "tikTvd": "2172000740563",
-    "tikName": "Дзун-Хемчикская"
+    "tikName": "Дзун-Хемчикская",
+    "uikName": "УИК №60",
+    "regionCode": "17",
+    "regionTvd": "100100225883442",
+    "regionName": "Республика Тыва",
+    "oikTvd": "100100225883443",
+    "oikName": "Республика Тыва – Тывинский",
+    "district": {
+      "districtNumber": 32,
+      "oikTvd": "100100225883443"
+    }
   },
   {
     "uikNumber": 61,
     "uikTvd": "4174004405481",
     "tikTvd": "2172000740563",
-    "tikName": "Дзун-Хемчикская"
+    "tikName": "Дзун-Хемчикская",
+    "uikName": "УИК №61",
+    "regionCode": "17",
+    "regionTvd": "100100225883442",
+    "regionName": "Республика Тыва",
+    "oikTvd": "100100225883443",
+    "oikName": "Республика Тыва – Тывинский",
+    "district": {
+      "districtNumber": 32,
+      "oikTvd": "100100225883443"
+    }
   },
   {
     "uikNumber": 62,
     "uikTvd": "4174004405482",
     "tikTvd": "2172000740563",
-    "tikName": "Дзун-Хемчикская"
+    "tikName": "Дзун-Хемчикская",
+    "uikName": "УИК №62",
+    "regionCode": "17",
+    "regionTvd": "100100225883442",
+    "regionName": "Республика Тыва",
+    "oikTvd": "100100225883443",
+    "oikName": "Республика Тыва – Тывинский",
+    "district": {
+      "districtNumber": 32,
+      "oikTvd": "100100225883443"
+    }
   },
   {
     "uikNumber": 63,
     "uikTvd": "4174004405483",
     "tikTvd": "2172000740563",
-    "tikName": "Дзун-Хемчикская"
+    "tikName": "Дзун-Хемчикская",
+    "uikName": "УИК №63",
+    "regionCode": "17",
+    "regionTvd": "100100225883442",
+    "regionName": "Республика Тыва",
+    "oikTvd": "100100225883443",
+    "oikName": "Республика Тыва – Тывинский",
+    "district": {
+      "districtNumber": 32,
+      "oikTvd": "100100225883443"
+    }
   },
   {
     "uikNumber": 64,
     "uikTvd": "4174004405484",
     "tikTvd": "2172000740563",
-    "tikName": "Дзун-Хемчикская"
+    "tikName": "Дзун-Хемчикская",
+    "uikName": "УИК №64",
+    "regionCode": "17",
+    "regionTvd": "100100225883442",
+    "regionName": "Республика Тыва",
+    "oikTvd": "100100225883443",
+    "oikName": "Республика Тыва – Тывинский",
+    "district": {
+      "districtNumber": 32,
+      "oikTvd": "100100225883443"
+    }
   },
   {
     "uikNumber": 65,
     "uikTvd": "4174004405485",
     "tikTvd": "2172000740563",
-    "tikName": "Дзун-Хемчикская"
+    "tikName": "Дзун-Хемчикская",
+    "uikName": "УИК №65",
+    "regionCode": "17",
+    "regionTvd": "100100225883442",
+    "regionName": "Республика Тыва",
+    "oikTvd": "100100225883443",
+    "oikName": "Республика Тыва – Тывинский",
+    "district": {
+      "districtNumber": 32,
+      "oikTvd": "100100225883443"
+    }
   },
   {
     "uikNumber": 66,
     "uikTvd": "4174004405486",
     "tikTvd": "2172000740563",
-    "tikName": "Дзун-Хемчикская"
+    "tikName": "Дзун-Хемчикская",
+    "uikName": "УИК №66",
+    "regionCode": "17",
+    "regionTvd": "100100225883442",
+    "regionName": "Республика Тыва",
+    "oikTvd": "100100225883443",
+    "oikName": "Республика Тыва – Тывинский",
+    "district": {
+      "districtNumber": 32,
+      "oikTvd": "100100225883443"
+    }
   },
   {
     "uikNumber": 67,
     "uikTvd": "4174004405487",
     "tikTvd": "2172000740563",
-    "tikName": "Дзун-Хемчикская"
+    "tikName": "Дзун-Хемчикская",
+    "uikName": "УИК №67",
+    "regionCode": "17",
+    "regionTvd": "100100225883442",
+    "regionName": "Республика Тыва",
+    "oikTvd": "100100225883443",
+    "oikName": "Республика Тыва – Тывинский",
+    "district": {
+      "districtNumber": 32,
+      "oikTvd": "100100225883443"
+    }
   },
   {
     "uikNumber": 68,
     "uikTvd": "4174004405488",
     "tikTvd": "2172000740563",
-    "tikName": "Дзун-Хемчикская"
+    "tikName": "Дзун-Хемчикская",
+    "uikName": "УИК №68",
+    "regionCode": "17",
+    "regionTvd": "100100225883442",
+    "regionName": "Республика Тыва",
+    "oikTvd": "100100225883443",
+    "oikName": "Республика Тыва – Тывинский",
+    "district": {
+      "districtNumber": 32,
+      "oikTvd": "100100225883443"
+    }
   },
   {
     "uikNumber": 69,
     "uikTvd": "4174004405489",
     "tikTvd": "2172000740563",
-    "tikName": "Дзун-Хемчикская"
+    "tikName": "Дзун-Хемчикская",
+    "uikName": "УИК №69",
+    "regionCode": "17",
+    "regionTvd": "100100225883442",
+    "regionName": "Республика Тыва",
+    "oikTvd": "100100225883443",
+    "oikName": "Республика Тыва – Тывинский",
+    "district": {
+      "districtNumber": 32,
+      "oikTvd": "100100225883443"
+    }
   },
   {
     "uikNumber": 70,
     "uikTvd": "4174004405490",
     "tikTvd": "2172000740563",
-    "tikName": "Дзун-Хемчикская"
+    "tikName": "Дзун-Хемчикская",
+    "uikName": "УИК №70",
+    "regionCode": "17",
+    "regionTvd": "100100225883442",
+    "regionName": "Республика Тыва",
+    "oikTvd": "100100225883443",
+    "oikName": "Республика Тыва – Тывинский",
+    "district": {
+      "districtNumber": 32,
+      "oikTvd": "100100225883443"
+    }
   },
   {
     "uikNumber": 71,
     "uikTvd": "4174004405491",
     "tikTvd": "2172000740563",
-    "tikName": "Дзун-Хемчикская"
+    "tikName": "Дзун-Хемчикская",
+    "uikName": "УИК №71",
+    "regionCode": "17",
+    "regionTvd": "100100225883442",
+    "regionName": "Республика Тыва",
+    "oikTvd": "100100225883443",
+    "oikName": "Республика Тыва – Тывинский",
+    "district": {
+      "districtNumber": 32,
+      "oikTvd": "100100225883443"
+    }
   },
   {
     "uikNumber": 72,
     "uikTvd": "4174004405492",
     "tikTvd": "2172000740563",
-    "tikName": "Дзун-Хемчикская"
+    "tikName": "Дзун-Хемчикская",
+    "uikName": "УИК №72",
+    "regionCode": "17",
+    "regionTvd": "100100225883442",
+    "regionName": "Республика Тыва",
+    "oikTvd": "100100225883443",
+    "oikName": "Республика Тыва – Тывинский",
+    "district": {
+      "districtNumber": 32,
+      "oikTvd": "100100225883443"
+    }
   },
   {
     "uikNumber": 73,
     "uikTvd": "4174004405493",
     "tikTvd": "2172000740563",
-    "tikName": "Дзун-Хемчикская"
+    "tikName": "Дзун-Хемчикская",
+    "uikName": "УИК №73",
+    "regionCode": "17",
+    "regionTvd": "100100225883442",
+    "regionName": "Республика Тыва",
+    "oikTvd": "100100225883443",
+    "oikName": "Республика Тыва – Тывинский",
+    "district": {
+      "districtNumber": 32,
+      "oikTvd": "100100225883443"
+    }
   },
   {
     "uikNumber": 74,
     "uikTvd": "4174005291978",
     "tikTvd": "2172000740562",
-    "tikName": "Каа-Хемская"
+    "tikName": "Каа-Хемская",
+    "uikName": "УИК №74",
+    "regionCode": "17",
+    "regionTvd": "100100225883442",
+    "regionName": "Республика Тыва",
+    "oikTvd": "100100225883443",
+    "oikName": "Республика Тыва – Тывинский",
+    "district": {
+      "districtNumber": 32,
+      "oikTvd": "100100225883443"
+    }
   },
   {
     "uikNumber": 75,
     "uikTvd": "4174005291979",
     "tikTvd": "2172000740562",
-    "tikName": "Каа-Хемская"
+    "tikName": "Каа-Хемская",
+    "uikName": "УИК №75",
+    "regionCode": "17",
+    "regionTvd": "100100225883442",
+    "regionName": "Республика Тыва",
+    "oikTvd": "100100225883443",
+    "oikName": "Республика Тыва – Тывинский",
+    "district": {
+      "districtNumber": 32,
+      "oikTvd": "100100225883443"
+    }
   },
   {
     "uikNumber": 76,
     "uikTvd": "4174005291980",
     "tikTvd": "2172000740562",
-    "tikName": "Каа-Хемская"
+    "tikName": "Каа-Хемская",
+    "uikName": "УИК №76",
+    "regionCode": "17",
+    "regionTvd": "100100225883442",
+    "regionName": "Республика Тыва",
+    "oikTvd": "100100225883443",
+    "oikName": "Республика Тыва – Тывинский",
+    "district": {
+      "districtNumber": 32,
+      "oikTvd": "100100225883443"
+    }
   },
   {
     "uikNumber": 77,
     "uikTvd": "4174005291981",
     "tikTvd": "2172000740562",
-    "tikName": "Каа-Хемская"
+    "tikName": "Каа-Хемская",
+    "uikName": "УИК №77",
+    "regionCode": "17",
+    "regionTvd": "100100225883442",
+    "regionName": "Республика Тыва",
+    "oikTvd": "100100225883443",
+    "oikName": "Республика Тыва – Тывинский",
+    "district": {
+      "districtNumber": 32,
+      "oikTvd": "100100225883443"
+    }
   },
   {
     "uikNumber": 78,
     "uikTvd": "4174005291982",
     "tikTvd": "2172000740562",
-    "tikName": "Каа-Хемская"
+    "tikName": "Каа-Хемская",
+    "uikName": "УИК №78",
+    "regionCode": "17",
+    "regionTvd": "100100225883442",
+    "regionName": "Республика Тыва",
+    "oikTvd": "100100225883443",
+    "oikName": "Республика Тыва – Тывинский",
+    "district": {
+      "districtNumber": 32,
+      "oikTvd": "100100225883443"
+    }
   },
   {
     "uikNumber": 79,
     "uikTvd": "4174005291983",
     "tikTvd": "2172000740562",
-    "tikName": "Каа-Хемская"
+    "tikName": "Каа-Хемская",
+    "uikName": "УИК №79",
+    "regionCode": "17",
+    "regionTvd": "100100225883442",
+    "regionName": "Республика Тыва",
+    "oikTvd": "100100225883443",
+    "oikName": "Республика Тыва – Тывинский",
+    "district": {
+      "districtNumber": 32,
+      "oikTvd": "100100225883443"
+    }
   },
   {
     "uikNumber": 80,
     "uikTvd": "4174005291984",
     "tikTvd": "2172000740562",
-    "tikName": "Каа-Хемская"
+    "tikName": "Каа-Хемская",
+    "uikName": "УИК №80",
+    "regionCode": "17",
+    "regionTvd": "100100225883442",
+    "regionName": "Республика Тыва",
+    "oikTvd": "100100225883443",
+    "oikName": "Республика Тыва – Тывинский",
+    "district": {
+      "districtNumber": 32,
+      "oikTvd": "100100225883443"
+    }
   },
   {
     "uikNumber": 81,
     "uikTvd": "4174005291985",
     "tikTvd": "2172000740562",
-    "tikName": "Каа-Хемская"
+    "tikName": "Каа-Хемская",
+    "uikName": "УИК №81",
+    "regionCode": "17",
+    "regionTvd": "100100225883442",
+    "regionName": "Республика Тыва",
+    "oikTvd": "100100225883443",
+    "oikName": "Республика Тыва – Тывинский",
+    "district": {
+      "districtNumber": 32,
+      "oikTvd": "100100225883443"
+    }
   },
   {
     "uikNumber": 82,
     "uikTvd": "4174005291986",
     "tikTvd": "2172000740562",
-    "tikName": "Каа-Хемская"
+    "tikName": "Каа-Хемская",
+    "uikName": "УИК №82",
+    "regionCode": "17",
+    "regionTvd": "100100225883442",
+    "regionName": "Республика Тыва",
+    "oikTvd": "100100225883443",
+    "oikName": "Республика Тыва – Тывинский",
+    "district": {
+      "districtNumber": 32,
+      "oikTvd": "100100225883443"
+    }
   },
   {
     "uikNumber": 83,
     "uikTvd": "4174005291987",
     "tikTvd": "2172000740562",
-    "tikName": "Каа-Хемская"
+    "tikName": "Каа-Хемская",
+    "uikName": "УИК №83",
+    "regionCode": "17",
+    "regionTvd": "100100225883442",
+    "regionName": "Республика Тыва",
+    "oikTvd": "100100225883443",
+    "oikName": "Республика Тыва – Тывинский",
+    "district": {
+      "districtNumber": 32,
+      "oikTvd": "100100225883443"
+    }
   },
   {
     "uikNumber": 84,
     "uikTvd": "4174005291988",
     "tikTvd": "2172000740562",
-    "tikName": "Каа-Хемская"
+    "tikName": "Каа-Хемская",
+    "uikName": "УИК №84",
+    "regionCode": "17",
+    "regionTvd": "100100225883442",
+    "regionName": "Республика Тыва",
+    "oikTvd": "100100225883443",
+    "oikName": "Республика Тыва – Тывинский",
+    "district": {
+      "districtNumber": 32,
+      "oikTvd": "100100225883443"
+    }
   },
   {
     "uikNumber": 85,
     "uikTvd": "4174005291989",
     "tikTvd": "2172000740562",
-    "tikName": "Каа-Хемская"
+    "tikName": "Каа-Хемская",
+    "uikName": "УИК №85",
+    "regionCode": "17",
+    "regionTvd": "100100225883442",
+    "regionName": "Республика Тыва",
+    "oikTvd": "100100225883443",
+    "oikName": "Республика Тыва – Тывинский",
+    "district": {
+      "districtNumber": 32,
+      "oikTvd": "100100225883443"
+    }
   },
   {
     "uikNumber": 86,
     "uikTvd": "4174005291990",
     "tikTvd": "2172000740562",
-    "tikName": "Каа-Хемская"
+    "tikName": "Каа-Хемская",
+    "uikName": "УИК №86",
+    "regionCode": "17",
+    "regionTvd": "100100225883442",
+    "regionName": "Республика Тыва",
+    "oikTvd": "100100225883443",
+    "oikName": "Республика Тыва – Тывинский",
+    "district": {
+      "districtNumber": 32,
+      "oikTvd": "100100225883443"
+    }
   },
   {
     "uikNumber": 87,
     "uikTvd": "4174005291991",
     "tikTvd": "2172000740562",
-    "tikName": "Каа-Хемская"
+    "tikName": "Каа-Хемская",
+    "uikName": "УИК №87",
+    "regionCode": "17",
+    "regionTvd": "100100225883442",
+    "regionName": "Республика Тыва",
+    "oikTvd": "100100225883443",
+    "oikName": "Республика Тыва – Тывинский",
+    "district": {
+      "districtNumber": 32,
+      "oikTvd": "100100225883443"
+    }
   },
   {
     "uikNumber": 88,
     "uikTvd": "4174005291992",
     "tikTvd": "2172000740562",
-    "tikName": "Каа-Хемская"
+    "tikName": "Каа-Хемская",
+    "uikName": "УИК №88",
+    "regionCode": "17",
+    "regionTvd": "100100225883442",
+    "regionName": "Республика Тыва",
+    "oikTvd": "100100225883443",
+    "oikName": "Республика Тыва – Тывинский",
+    "district": {
+      "districtNumber": 32,
+      "oikTvd": "100100225883443"
+    }
   },
   {
     "uikNumber": 89,
     "uikTvd": "4174007257736",
     "tikTvd": "2172000740560",
-    "tikName": "Кызылская"
+    "tikName": "Кызылская",
+    "uikName": "УИК №89",
+    "regionCode": "17",
+    "regionTvd": "100100225883442",
+    "regionName": "Республика Тыва",
+    "oikTvd": "100100225883443",
+    "oikName": "Республика Тыва – Тывинский",
+    "district": {
+      "districtNumber": 32,
+      "oikTvd": "100100225883443"
+    }
   },
   {
     "uikNumber": 90,
     "uikTvd": "4174007257737",
     "tikTvd": "2172000740560",
-    "tikName": "Кызылская"
+    "tikName": "Кызылская",
+    "uikName": "УИК №90",
+    "regionCode": "17",
+    "regionTvd": "100100225883442",
+    "regionName": "Республика Тыва",
+    "oikTvd": "100100225883443",
+    "oikName": "Республика Тыва – Тывинский",
+    "district": {
+      "districtNumber": 32,
+      "oikTvd": "100100225883443"
+    }
   },
   {
     "uikNumber": 91,
     "uikTvd": "4174007257738",
     "tikTvd": "2172000740560",
-    "tikName": "Кызылская"
+    "tikName": "Кызылская",
+    "uikName": "УИК №91",
+    "regionCode": "17",
+    "regionTvd": "100100225883442",
+    "regionName": "Республика Тыва",
+    "oikTvd": "100100225883443",
+    "oikName": "Республика Тыва – Тывинский",
+    "district": {
+      "districtNumber": 32,
+      "oikTvd": "100100225883443"
+    }
   },
   {
     "uikNumber": 92,
     "uikTvd": "4174007257739",
     "tikTvd": "2172000740560",
-    "tikName": "Кызылская"
+    "tikName": "Кызылская",
+    "uikName": "УИК №92",
+    "regionCode": "17",
+    "regionTvd": "100100225883442",
+    "regionName": "Республика Тыва",
+    "oikTvd": "100100225883443",
+    "oikName": "Республика Тыва – Тывинский",
+    "district": {
+      "districtNumber": 32,
+      "oikTvd": "100100225883443"
+    }
   },
   {
     "uikNumber": 93,
     "uikTvd": "4174007257740",
     "tikTvd": "2172000740560",
-    "tikName": "Кызылская"
+    "tikName": "Кызылская",
+    "uikName": "УИК №93",
+    "regionCode": "17",
+    "regionTvd": "100100225883442",
+    "regionName": "Республика Тыва",
+    "oikTvd": "100100225883443",
+    "oikName": "Республика Тыва – Тывинский",
+    "district": {
+      "districtNumber": 32,
+      "oikTvd": "100100225883443"
+    }
   },
   {
     "uikNumber": 94,
     "uikTvd": "4174007257741",
     "tikTvd": "2172000740560",
-    "tikName": "Кызылская"
+    "tikName": "Кызылская",
+    "uikName": "УИК №94",
+    "regionCode": "17",
+    "regionTvd": "100100225883442",
+    "regionName": "Республика Тыва",
+    "oikTvd": "100100225883443",
+    "oikName": "Республика Тыва – Тывинский",
+    "district": {
+      "districtNumber": 32,
+      "oikTvd": "100100225883443"
+    }
   },
   {
     "uikNumber": 95,
     "uikTvd": "4174007257742",
     "tikTvd": "2172000740560",
-    "tikName": "Кызылская"
+    "tikName": "Кызылская",
+    "uikName": "УИК №95",
+    "regionCode": "17",
+    "regionTvd": "100100225883442",
+    "regionName": "Республика Тыва",
+    "oikTvd": "100100225883443",
+    "oikName": "Республика Тыва – Тывинский",
+    "district": {
+      "districtNumber": 32,
+      "oikTvd": "100100225883443"
+    }
   },
   {
     "uikNumber": 96,
     "uikTvd": "4174007257743",
     "tikTvd": "2172000740560",
-    "tikName": "Кызылская"
+    "tikName": "Кызылская",
+    "uikName": "УИК №96",
+    "regionCode": "17",
+    "regionTvd": "100100225883442",
+    "regionName": "Республика Тыва",
+    "oikTvd": "100100225883443",
+    "oikName": "Республика Тыва – Тывинский",
+    "district": {
+      "districtNumber": 32,
+      "oikTvd": "100100225883443"
+    }
   },
   {
     "uikNumber": 97,
     "uikTvd": "4174007257744",
     "tikTvd": "2172000740560",
-    "tikName": "Кызылская"
+    "tikName": "Кызылская",
+    "uikName": "УИК №97",
+    "regionCode": "17",
+    "regionTvd": "100100225883442",
+    "regionName": "Республика Тыва",
+    "oikTvd": "100100225883443",
+    "oikName": "Республика Тыва – Тывинский",
+    "district": {
+      "districtNumber": 32,
+      "oikTvd": "100100225883443"
+    }
   },
   {
     "uikNumber": 98,
     "uikTvd": "4174007257745",
     "tikTvd": "2172000740560",
-    "tikName": "Кызылская"
+    "tikName": "Кызылская",
+    "uikName": "УИК №98",
+    "regionCode": "17",
+    "regionTvd": "100100225883442",
+    "regionName": "Республика Тыва",
+    "oikTvd": "100100225883443",
+    "oikName": "Республика Тыва – Тывинский",
+    "district": {
+      "districtNumber": 32,
+      "oikTvd": "100100225883443"
+    }
   },
   {
     "uikNumber": 99,
     "uikTvd": "4174007257746",
     "tikTvd": "2172000740560",
-    "tikName": "Кызылская"
+    "tikName": "Кызылская",
+    "uikName": "УИК №99",
+    "regionCode": "17",
+    "regionTvd": "100100225883442",
+    "regionName": "Республика Тыва",
+    "oikTvd": "100100225883443",
+    "oikName": "Республика Тыва – Тывинский",
+    "district": {
+      "districtNumber": 32,
+      "oikTvd": "100100225883443"
+    }
   },
   {
     "uikNumber": 100,
     "uikTvd": "4174007257747",
     "tikTvd": "2172000740560",
-    "tikName": "Кызылская"
+    "tikName": "Кызылская",
+    "uikName": "УИК №100",
+    "regionCode": "17",
+    "regionTvd": "100100225883442",
+    "regionName": "Республика Тыва",
+    "oikTvd": "100100225883443",
+    "oikName": "Республика Тыва – Тывинский",
+    "district": {
+      "districtNumber": 32,
+      "oikTvd": "100100225883443"
+    }
   },
   {
     "uikNumber": 101,
     "uikTvd": "4174007257748",
     "tikTvd": "2172000740560",
-    "tikName": "Кызылская"
+    "tikName": "Кызылская",
+    "uikName": "УИК №101",
+    "regionCode": "17",
+    "regionTvd": "100100225883442",
+    "regionName": "Республика Тыва",
+    "oikTvd": "100100225883443",
+    "oikName": "Республика Тыва – Тывинский",
+    "district": {
+      "districtNumber": 32,
+      "oikTvd": "100100225883443"
+    }
   },
   {
     "uikNumber": 102,
     "uikTvd": "4174007257749",
     "tikTvd": "2172000740560",
-    "tikName": "Кызылская"
+    "tikName": "Кызылская",
+    "uikName": "УИК №102",
+    "regionCode": "17",
+    "regionTvd": "100100225883442",
+    "regionName": "Республика Тыва",
+    "oikTvd": "100100225883443",
+    "oikName": "Республика Тыва – Тывинский",
+    "district": {
+      "districtNumber": 32,
+      "oikTvd": "100100225883443"
+    }
   },
   {
     "uikNumber": 103,
     "uikTvd": "4174008153532",
     "tikTvd": "2172000740559",
-    "tikName": "Монгун-Тайгинская"
+    "tikName": "Монгун-Тайгинская",
+    "uikName": "УИК №103",
+    "regionCode": "17",
+    "regionTvd": "100100225883442",
+    "regionName": "Республика Тыва",
+    "oikTvd": "100100225883443",
+    "oikName": "Республика Тыва – Тывинский",
+    "district": {
+      "districtNumber": 32,
+      "oikTvd": "100100225883443"
+    }
   },
   {
     "uikNumber": 104,
     "uikTvd": "4174008153533",
     "tikTvd": "2172000740559",
-    "tikName": "Монгун-Тайгинская"
+    "tikName": "Монгун-Тайгинская",
+    "uikName": "УИК №104",
+    "regionCode": "17",
+    "regionTvd": "100100225883442",
+    "regionName": "Республика Тыва",
+    "oikTvd": "100100225883443",
+    "oikName": "Республика Тыва – Тывинский",
+    "district": {
+      "districtNumber": 32,
+      "oikTvd": "100100225883443"
+    }
   },
   {
     "uikNumber": 105,
     "uikTvd": "4174008153534",
     "tikTvd": "2172000740559",
-    "tikName": "Монгун-Тайгинская"
+    "tikName": "Монгун-Тайгинская",
+    "uikName": "УИК №105",
+    "regionCode": "17",
+    "regionTvd": "100100225883442",
+    "regionName": "Республика Тыва",
+    "oikTvd": "100100225883443",
+    "oikName": "Республика Тыва – Тывинский",
+    "district": {
+      "districtNumber": 32,
+      "oikTvd": "100100225883443"
+    }
   },
   {
     "uikNumber": 106,
     "uikTvd": "4174009186499",
     "tikTvd": "2172000740558",
-    "tikName": "Овюрская"
+    "tikName": "Овюрская",
+    "uikName": "УИК №106",
+    "regionCode": "17",
+    "regionTvd": "100100225883442",
+    "regionName": "Республика Тыва",
+    "oikTvd": "100100225883443",
+    "oikName": "Республика Тыва – Тывинский",
+    "district": {
+      "districtNumber": 32,
+      "oikTvd": "100100225883443"
+    }
   },
   {
     "uikNumber": 107,
     "uikTvd": "4174009186500",
     "tikTvd": "2172000740558",
-    "tikName": "Овюрская"
+    "tikName": "Овюрская",
+    "uikName": "УИК №107",
+    "regionCode": "17",
+    "regionTvd": "100100225883442",
+    "regionName": "Республика Тыва",
+    "oikTvd": "100100225883443",
+    "oikName": "Республика Тыва – Тывинский",
+    "district": {
+      "districtNumber": 32,
+      "oikTvd": "100100225883443"
+    }
   },
   {
     "uikNumber": 108,
     "uikTvd": "4174009186501",
     "tikTvd": "2172000740558",
-    "tikName": "Овюрская"
+    "tikName": "Овюрская",
+    "uikName": "УИК №108",
+    "regionCode": "17",
+    "regionTvd": "100100225883442",
+    "regionName": "Республика Тыва",
+    "oikTvd": "100100225883443",
+    "oikName": "Республика Тыва – Тывинский",
+    "district": {
+      "districtNumber": 32,
+      "oikTvd": "100100225883443"
+    }
   },
   {
     "uikNumber": 109,
     "uikTvd": "4174009186502",
     "tikTvd": "2172000740558",
-    "tikName": "Овюрская"
+    "tikName": "Овюрская",
+    "uikName": "УИК №109",
+    "regionCode": "17",
+    "regionTvd": "100100225883442",
+    "regionName": "Республика Тыва",
+    "oikTvd": "100100225883443",
+    "oikName": "Республика Тыва – Тывинский",
+    "district": {
+      "districtNumber": 32,
+      "oikTvd": "100100225883443"
+    }
   },
   {
     "uikNumber": 110,
     "uikTvd": "4174009186503",
     "tikTvd": "2172000740558",
-    "tikName": "Овюрская"
+    "tikName": "Овюрская",
+    "uikName": "УИК №110",
+    "regionCode": "17",
+    "regionTvd": "100100225883442",
+    "regionName": "Республика Тыва",
+    "oikTvd": "100100225883443",
+    "oikName": "Республика Тыва – Тывинский",
+    "district": {
+      "districtNumber": 32,
+      "oikTvd": "100100225883443"
+    }
   },
   {
     "uikNumber": 111,
     "uikTvd": "4174009186504",
     "tikTvd": "2172000740558",
-    "tikName": "Овюрская"
+    "tikName": "Овюрская",
+    "uikName": "УИК №111",
+    "regionCode": "17",
+    "regionTvd": "100100225883442",
+    "regionName": "Республика Тыва",
+    "oikTvd": "100100225883443",
+    "oikName": "Республика Тыва – Тывинский",
+    "district": {
+      "districtNumber": 32,
+      "oikTvd": "100100225883443"
+    }
   },
   {
     "uikNumber": 112,
     "uikTvd": "4174010202638",
     "tikTvd": "2172000740557",
-    "tikName": "Пий-Хемская"
+    "tikName": "Пий-Хемская",
+    "uikName": "УИК №112",
+    "regionCode": "17",
+    "regionTvd": "100100225883442",
+    "regionName": "Республика Тыва",
+    "oikTvd": "100100225883443",
+    "oikName": "Республика Тыва – Тывинский",
+    "district": {
+      "districtNumber": 32,
+      "oikTvd": "100100225883443"
+    }
   },
   {
     "uikNumber": 113,
     "uikTvd": "4174010202639",
     "tikTvd": "2172000740557",
-    "tikName": "Пий-Хемская"
+    "tikName": "Пий-Хемская",
+    "uikName": "УИК №113",
+    "regionCode": "17",
+    "regionTvd": "100100225883442",
+    "regionName": "Республика Тыва",
+    "oikTvd": "100100225883443",
+    "oikName": "Республика Тыва – Тывинский",
+    "district": {
+      "districtNumber": 32,
+      "oikTvd": "100100225883443"
+    }
   },
   {
     "uikNumber": 114,
     "uikTvd": "4174010202640",
     "tikTvd": "2172000740557",
-    "tikName": "Пий-Хемская"
+    "tikName": "Пий-Хемская",
+    "uikName": "УИК №114",
+    "regionCode": "17",
+    "regionTvd": "100100225883442",
+    "regionName": "Республика Тыва",
+    "oikTvd": "100100225883443",
+    "oikName": "Республика Тыва – Тывинский",
+    "district": {
+      "districtNumber": 32,
+      "oikTvd": "100100225883443"
+    }
   },
   {
     "uikNumber": 115,
     "uikTvd": "4174010202641",
     "tikTvd": "2172000740557",
-    "tikName": "Пий-Хемская"
+    "tikName": "Пий-Хемская",
+    "uikName": "УИК №115",
+    "regionCode": "17",
+    "regionTvd": "100100225883442",
+    "regionName": "Республика Тыва",
+    "oikTvd": "100100225883443",
+    "oikName": "Республика Тыва – Тывинский",
+    "district": {
+      "districtNumber": 32,
+      "oikTvd": "100100225883443"
+    }
   },
   {
     "uikNumber": 116,
     "uikTvd": "4174010202642",
     "tikTvd": "2172000740557",
-    "tikName": "Пий-Хемская"
+    "tikName": "Пий-Хемская",
+    "uikName": "УИК №116",
+    "regionCode": "17",
+    "regionTvd": "100100225883442",
+    "regionName": "Республика Тыва",
+    "oikTvd": "100100225883443",
+    "oikName": "Республика Тыва – Тывинский",
+    "district": {
+      "districtNumber": 32,
+      "oikTvd": "100100225883443"
+    }
   },
   {
     "uikNumber": 117,
     "uikTvd": "4174010202643",
     "tikTvd": "2172000740557",
-    "tikName": "Пий-Хемская"
+    "tikName": "Пий-Хемская",
+    "uikName": "УИК №117",
+    "regionCode": "17",
+    "regionTvd": "100100225883442",
+    "regionName": "Республика Тыва",
+    "oikTvd": "100100225883443",
+    "oikName": "Республика Тыва – Тывинский",
+    "district": {
+      "districtNumber": 32,
+      "oikTvd": "100100225883443"
+    }
   },
   {
     "uikNumber": 118,
     "uikTvd": "4174010202644",
     "tikTvd": "2172000740557",
-    "tikName": "Пий-Хемская"
+    "tikName": "Пий-Хемская",
+    "uikName": "УИК №118",
+    "regionCode": "17",
+    "regionTvd": "100100225883442",
+    "regionName": "Республика Тыва",
+    "oikTvd": "100100225883443",
+    "oikName": "Республика Тыва – Тывинский",
+    "district": {
+      "districtNumber": 32,
+      "oikTvd": "100100225883443"
+    }
   },
   {
     "uikNumber": 119,
     "uikTvd": "4174010202645",
     "tikTvd": "2172000740557",
-    "tikName": "Пий-Хемская"
+    "tikName": "Пий-Хемская",
+    "uikName": "УИК №119",
+    "regionCode": "17",
+    "regionTvd": "100100225883442",
+    "regionName": "Республика Тыва",
+    "oikTvd": "100100225883443",
+    "oikName": "Республика Тыва – Тывинский",
+    "district": {
+      "districtNumber": 32,
+      "oikTvd": "100100225883443"
+    }
   },
   {
     "uikNumber": 120,
     "uikTvd": "4174010202646",
     "tikTvd": "2172000740557",
-    "tikName": "Пий-Хемская"
+    "tikName": "Пий-Хемская",
+    "uikName": "УИК №120",
+    "regionCode": "17",
+    "regionTvd": "100100225883442",
+    "regionName": "Республика Тыва",
+    "oikTvd": "100100225883443",
+    "oikName": "Республика Тыва – Тывинский",
+    "district": {
+      "districtNumber": 32,
+      "oikTvd": "100100225883443"
+    }
   },
   {
     "uikNumber": 121,
     "uikTvd": "4174010202647",
     "tikTvd": "2172000740557",
-    "tikName": "Пий-Хемская"
+    "tikName": "Пий-Хемская",
+    "uikName": "УИК №121",
+    "regionCode": "17",
+    "regionTvd": "100100225883442",
+    "regionName": "Республика Тыва",
+    "oikTvd": "100100225883443",
+    "oikName": "Республика Тыва – Тывинский",
+    "district": {
+      "districtNumber": 32,
+      "oikTvd": "100100225883443"
+    }
   },
   {
     "uikNumber": 122,
     "uikTvd": "4174010202648",
     "tikTvd": "2172000740557",
-    "tikName": "Пий-Хемская"
+    "tikName": "Пий-Хемская",
+    "uikName": "УИК №122",
+    "regionCode": "17",
+    "regionTvd": "100100225883442",
+    "regionName": "Республика Тыва",
+    "oikTvd": "100100225883443",
+    "oikName": "Республика Тыва – Тывинский",
+    "district": {
+      "districtNumber": 32,
+      "oikTvd": "100100225883443"
+    }
   },
   {
     "uikNumber": 123,
     "uikTvd": "4174010202649",
     "tikTvd": "2172000740557",
-    "tikName": "Пий-Хемская"
+    "tikName": "Пий-Хемская",
+    "uikName": "УИК №123",
+    "regionCode": "17",
+    "regionTvd": "100100225883442",
+    "regionName": "Республика Тыва",
+    "oikTvd": "100100225883443",
+    "oikName": "Республика Тыва – Тывинский",
+    "district": {
+      "districtNumber": 32,
+      "oikTvd": "100100225883443"
+    }
   },
   {
     "uikNumber": 124,
     "uikTvd": "4174010202650",
     "tikTvd": "2172000740557",
-    "tikName": "Пий-Хемская"
+    "tikName": "Пий-Хемская",
+    "uikName": "УИК №124",
+    "regionCode": "17",
+    "regionTvd": "100100225883442",
+    "regionName": "Республика Тыва",
+    "oikTvd": "100100225883443",
+    "oikName": "Республика Тыва – Тывинский",
+    "district": {
+      "districtNumber": 32,
+      "oikTvd": "100100225883443"
+    }
   },
   {
     "uikNumber": 125,
     "uikTvd": "4174011218631",
     "tikTvd": "2172000740556",
-    "tikName": "Сут-Хольская"
+    "tikName": "Сут-Хольская",
+    "uikName": "УИК №125",
+    "regionCode": "17",
+    "regionTvd": "100100225883442",
+    "regionName": "Республика Тыва",
+    "oikTvd": "100100225883443",
+    "oikName": "Республика Тыва – Тывинский",
+    "district": {
+      "districtNumber": 32,
+      "oikTvd": "100100225883443"
+    }
   },
   {
     "uikNumber": 126,
     "uikTvd": "4174011218632",
     "tikTvd": "2172000740556",
-    "tikName": "Сут-Хольская"
+    "tikName": "Сут-Хольская",
+    "uikName": "УИК №126",
+    "regionCode": "17",
+    "regionTvd": "100100225883442",
+    "regionName": "Республика Тыва",
+    "oikTvd": "100100225883443",
+    "oikName": "Республика Тыва – Тывинский",
+    "district": {
+      "districtNumber": 32,
+      "oikTvd": "100100225883443"
+    }
   },
   {
     "uikNumber": 127,
     "uikTvd": "4174011218633",
     "tikTvd": "2172000740556",
-    "tikName": "Сут-Хольская"
+    "tikName": "Сут-Хольская",
+    "uikName": "УИК №127",
+    "regionCode": "17",
+    "regionTvd": "100100225883442",
+    "regionName": "Республика Тыва",
+    "oikTvd": "100100225883443",
+    "oikName": "Республика Тыва – Тывинский",
+    "district": {
+      "districtNumber": 32,
+      "oikTvd": "100100225883443"
+    }
   },
   {
     "uikNumber": 128,
     "uikTvd": "4174011218634",
     "tikTvd": "2172000740556",
-    "tikName": "Сут-Хольская"
+    "tikName": "Сут-Хольская",
+    "uikName": "УИК №128",
+    "regionCode": "17",
+    "regionTvd": "100100225883442",
+    "regionName": "Республика Тыва",
+    "oikTvd": "100100225883443",
+    "oikName": "Республика Тыва – Тывинский",
+    "district": {
+      "districtNumber": 32,
+      "oikTvd": "100100225883443"
+    }
   },
   {
     "uikNumber": 129,
     "uikTvd": "4174011218635",
     "tikTvd": "2172000740556",
-    "tikName": "Сут-Хольская"
+    "tikName": "Сут-Хольская",
+    "uikName": "УИК №129",
+    "regionCode": "17",
+    "regionTvd": "100100225883442",
+    "regionName": "Республика Тыва",
+    "oikTvd": "100100225883443",
+    "oikName": "Республика Тыва – Тывинский",
+    "district": {
+      "districtNumber": 32,
+      "oikTvd": "100100225883443"
+    }
   },
   {
     "uikNumber": 130,
     "uikTvd": "4174011218636",
     "tikTvd": "2172000740556",
-    "tikName": "Сут-Хольская"
+    "tikName": "Сут-Хольская",
+    "uikName": "УИК №130",
+    "regionCode": "17",
+    "regionTvd": "100100225883442",
+    "regionName": "Республика Тыва",
+    "oikTvd": "100100225883443",
+    "oikName": "Республика Тыва – Тывинский",
+    "district": {
+      "districtNumber": 32,
+      "oikTvd": "100100225883443"
+    }
   },
   {
     "uikNumber": 131,
     "uikTvd": "4174011218637",
     "tikTvd": "2172000740556",
-    "tikName": "Сут-Хольская"
+    "tikName": "Сут-Хольская",
+    "uikName": "УИК №131",
+    "regionCode": "17",
+    "regionTvd": "100100225883442",
+    "regionName": "Республика Тыва",
+    "oikTvd": "100100225883443",
+    "oikName": "Республика Тыва – Тывинский",
+    "district": {
+      "districtNumber": 32,
+      "oikTvd": "100100225883443"
+    }
   },
   {
     "uikNumber": 132,
     "uikTvd": "4174012271001",
     "tikTvd": "2172000740555",
-    "tikName": "Тандинская"
+    "tikName": "Тандинская",
+    "uikName": "УИК №132",
+    "regionCode": "17",
+    "regionTvd": "100100225883442",
+    "regionName": "Республика Тыва",
+    "oikTvd": "100100225883443",
+    "oikName": "Республика Тыва – Тывинский",
+    "district": {
+      "districtNumber": 32,
+      "oikTvd": "100100225883443"
+    }
   },
   {
     "uikNumber": 133,
     "uikTvd": "4174012271002",
     "tikTvd": "2172000740555",
-    "tikName": "Тандинская"
+    "tikName": "Тандинская",
+    "uikName": "УИК №133",
+    "regionCode": "17",
+    "regionTvd": "100100225883442",
+    "regionName": "Республика Тыва",
+    "oikTvd": "100100225883443",
+    "oikName": "Республика Тыва – Тывинский",
+    "district": {
+      "districtNumber": 32,
+      "oikTvd": "100100225883443"
+    }
   },
   {
     "uikNumber": 134,
     "uikTvd": "4174012271003",
     "tikTvd": "2172000740555",
-    "tikName": "Тандинская"
+    "tikName": "Тандинская",
+    "uikName": "УИК №134",
+    "regionCode": "17",
+    "regionTvd": "100100225883442",
+    "regionName": "Республика Тыва",
+    "oikTvd": "100100225883443",
+    "oikName": "Республика Тыва – Тывинский",
+    "district": {
+      "districtNumber": 32,
+      "oikTvd": "100100225883443"
+    }
   },
   {
     "uikNumber": 135,
     "uikTvd": "4174012271004",
     "tikTvd": "2172000740555",
-    "tikName": "Тандинская"
+    "tikName": "Тандинская",
+    "uikName": "УИК №135",
+    "regionCode": "17",
+    "regionTvd": "100100225883442",
+    "regionName": "Республика Тыва",
+    "oikTvd": "100100225883443",
+    "oikName": "Республика Тыва – Тывинский",
+    "district": {
+      "districtNumber": 32,
+      "oikTvd": "100100225883443"
+    }
   },
   {
     "uikNumber": 136,
     "uikTvd": "4174012271005",
     "tikTvd": "2172000740555",
-    "tikName": "Тандинская"
+    "tikName": "Тандинская",
+    "uikName": "УИК №136",
+    "regionCode": "17",
+    "regionTvd": "100100225883442",
+    "regionName": "Республика Тыва",
+    "oikTvd": "100100225883443",
+    "oikName": "Республика Тыва – Тывинский",
+    "district": {
+      "districtNumber": 32,
+      "oikTvd": "100100225883443"
+    }
   },
   {
     "uikNumber": 137,
     "uikTvd": "4174012271006",
     "tikTvd": "2172000740555",
-    "tikName": "Тандинская"
+    "tikName": "Тандинская",
+    "uikName": "УИК №137",
+    "regionCode": "17",
+    "regionTvd": "100100225883442",
+    "regionName": "Республика Тыва",
+    "oikTvd": "100100225883443",
+    "oikName": "Республика Тыва – Тывинский",
+    "district": {
+      "districtNumber": 32,
+      "oikTvd": "100100225883443"
+    }
   },
   {
     "uikNumber": 138,
     "uikTvd": "4174012271007",
     "tikTvd": "2172000740555",
-    "tikName": "Тандинская"
+    "tikName": "Тандинская",
+    "uikName": "УИК №138",
+    "regionCode": "17",
+    "regionTvd": "100100225883442",
+    "regionName": "Республика Тыва",
+    "oikTvd": "100100225883443",
+    "oikName": "Республика Тыва – Тывинский",
+    "district": {
+      "districtNumber": 32,
+      "oikTvd": "100100225883443"
+    }
   },
   {
     "uikNumber": 139,
     "uikTvd": "4174012271008",
     "tikTvd": "2172000740555",
-    "tikName": "Тандинская"
+    "tikName": "Тандинская",
+    "uikName": "УИК №139",
+    "regionCode": "17",
+    "regionTvd": "100100225883442",
+    "regionName": "Республика Тыва",
+    "oikTvd": "100100225883443",
+    "oikName": "Республика Тыва – Тывинский",
+    "district": {
+      "districtNumber": 32,
+      "oikTvd": "100100225883443"
+    }
   },
   {
     "uikNumber": 140,
     "uikTvd": "4174012271009",
     "tikTvd": "2172000740555",
-    "tikName": "Тандинская"
+    "tikName": "Тандинская",
+    "uikName": "УИК №140",
+    "regionCode": "17",
+    "regionTvd": "100100225883442",
+    "regionName": "Республика Тыва",
+    "oikTvd": "100100225883443",
+    "oikName": "Республика Тыва – Тывинский",
+    "district": {
+      "districtNumber": 32,
+      "oikTvd": "100100225883443"
+    }
   },
   {
     "uikNumber": 141,
     "uikTvd": "4174012271010",
     "tikTvd": "2172000740555",
-    "tikName": "Тандинская"
+    "tikName": "Тандинская",
+    "uikName": "УИК №141",
+    "regionCode": "17",
+    "regionTvd": "100100225883442",
+    "regionName": "Республика Тыва",
+    "oikTvd": "100100225883443",
+    "oikName": "Республика Тыва – Тывинский",
+    "district": {
+      "districtNumber": 32,
+      "oikTvd": "100100225883443"
+    }
   },
   {
     "uikNumber": 142,
     "uikTvd": "4174012271011",
     "tikTvd": "2172000740555",
-    "tikName": "Тандинская"
+    "tikName": "Тандинская",
+    "uikName": "УИК №142",
+    "regionCode": "17",
+    "regionTvd": "100100225883442",
+    "regionName": "Республика Тыва",
+    "oikTvd": "100100225883443",
+    "oikName": "Республика Тыва – Тывинский",
+    "district": {
+      "districtNumber": 32,
+      "oikTvd": "100100225883443"
+    }
   },
   {
     "uikNumber": 143,
     "uikTvd": "4174019128226",
     "tikTvd": "2172000740548",
-    "tikName": "Тере-Хольская"
+    "tikName": "Тере-Хольская",
+    "uikName": "УИК №143",
+    "regionCode": "17",
+    "regionTvd": "100100225883442",
+    "regionName": "Республика Тыва",
+    "oikTvd": "100100225883443",
+    "oikName": "Республика Тыва – Тывинский",
+    "district": {
+      "districtNumber": 32,
+      "oikTvd": "100100225883443"
+    }
   },
   {
     "uikNumber": 144,
     "uikTvd": "4174019128228",
     "tikTvd": "2172000740548",
-    "tikName": "Тере-Хольская"
+    "tikName": "Тере-Хольская",
+    "uikName": "УИК №144",
+    "regionCode": "17",
+    "regionTvd": "100100225883442",
+    "regionName": "Республика Тыва",
+    "oikTvd": "100100225883443",
+    "oikName": "Республика Тыва – Тывинский",
+    "district": {
+      "districtNumber": 32,
+      "oikTvd": "100100225883443"
+    }
   },
   {
     "uikNumber": 145,
     "uikTvd": "4174013195988",
     "tikTvd": "2172000740554",
-    "tikName": "Тес-Хемская"
+    "tikName": "Тес-Хемская",
+    "uikName": "УИК №145",
+    "regionCode": "17",
+    "regionTvd": "100100225883442",
+    "regionName": "Республика Тыва",
+    "oikTvd": "100100225883443",
+    "oikName": "Республика Тыва – Тывинский",
+    "district": {
+      "districtNumber": 32,
+      "oikTvd": "100100225883443"
+    }
   },
   {
     "uikNumber": 146,
     "uikTvd": "4174013195989",
     "tikTvd": "2172000740554",
-    "tikName": "Тес-Хемская"
+    "tikName": "Тес-Хемская",
+    "uikName": "УИК №146",
+    "regionCode": "17",
+    "regionTvd": "100100225883442",
+    "regionName": "Республика Тыва",
+    "oikTvd": "100100225883443",
+    "oikName": "Республика Тыва – Тывинский",
+    "district": {
+      "districtNumber": 32,
+      "oikTvd": "100100225883443"
+    }
   },
   {
     "uikNumber": 147,
     "uikTvd": "4174013195990",
     "tikTvd": "2172000740554",
-    "tikName": "Тес-Хемская"
+    "tikName": "Тес-Хемская",
+    "uikName": "УИК №147",
+    "regionCode": "17",
+    "regionTvd": "100100225883442",
+    "regionName": "Республика Тыва",
+    "oikTvd": "100100225883443",
+    "oikName": "Республика Тыва – Тывинский",
+    "district": {
+      "districtNumber": 32,
+      "oikTvd": "100100225883443"
+    }
   },
   {
     "uikNumber": 148,
     "uikTvd": "4174013195991",
     "tikTvd": "2172000740554",
-    "tikName": "Тес-Хемская"
+    "tikName": "Тес-Хемская",
+    "uikName": "УИК №148",
+    "regionCode": "17",
+    "regionTvd": "100100225883442",
+    "regionName": "Республика Тыва",
+    "oikTvd": "100100225883443",
+    "oikName": "Республика Тыва – Тывинский",
+    "district": {
+      "districtNumber": 32,
+      "oikTvd": "100100225883443"
+    }
   },
   {
     "uikNumber": 149,
     "uikTvd": "4174013195992",
     "tikTvd": "2172000740554",
-    "tikName": "Тес-Хемская"
+    "tikName": "Тес-Хемская",
+    "uikName": "УИК №149",
+    "regionCode": "17",
+    "regionTvd": "100100225883442",
+    "regionName": "Республика Тыва",
+    "oikTvd": "100100225883443",
+    "oikName": "Республика Тыва – Тывинский",
+    "district": {
+      "districtNumber": 32,
+      "oikTvd": "100100225883443"
+    }
   },
   {
     "uikNumber": 150,
     "uikTvd": "4174013195993",
     "tikTvd": "2172000740554",
-    "tikName": "Тес-Хемская"
+    "tikName": "Тес-Хемская",
+    "uikName": "УИК №150",
+    "regionCode": "17",
+    "regionTvd": "100100225883442",
+    "regionName": "Республика Тыва",
+    "oikTvd": "100100225883443",
+    "oikName": "Республика Тыва – Тывинский",
+    "district": {
+      "districtNumber": 32,
+      "oikTvd": "100100225883443"
+    }
   },
   {
     "uikNumber": 151,
     "uikTvd": "4174013195994",
     "tikTvd": "2172000740554",
-    "tikName": "Тес-Хемская"
+    "tikName": "Тес-Хемская",
+    "uikName": "УИК №151",
+    "regionCode": "17",
+    "regionTvd": "100100225883442",
+    "regionName": "Республика Тыва",
+    "oikTvd": "100100225883443",
+    "oikName": "Республика Тыва – Тывинский",
+    "district": {
+      "districtNumber": 32,
+      "oikTvd": "100100225883443"
+    }
   },
   {
     "uikNumber": 152,
     "uikTvd": "4174014169862",
     "tikTvd": "2172000740553",
-    "tikName": "Тоджинская"
+    "tikName": "Тоджинская",
+    "uikName": "УИК №152",
+    "regionCode": "17",
+    "regionTvd": "100100225883442",
+    "regionName": "Республика Тыва",
+    "oikTvd": "100100225883443",
+    "oikName": "Республика Тыва – Тывинский",
+    "district": {
+      "districtNumber": 32,
+      "oikTvd": "100100225883443"
+    }
   },
   {
     "uikNumber": 153,
     "uikTvd": "4174014169863",
     "tikTvd": "2172000740553",
-    "tikName": "Тоджинская"
+    "tikName": "Тоджинская",
+    "uikName": "УИК №153",
+    "regionCode": "17",
+    "regionTvd": "100100225883442",
+    "regionName": "Республика Тыва",
+    "oikTvd": "100100225883443",
+    "oikName": "Республика Тыва – Тывинский",
+    "district": {
+      "districtNumber": 32,
+      "oikTvd": "100100225883443"
+    }
   },
   {
     "uikNumber": 154,
     "uikTvd": "4174014169864",
     "tikTvd": "2172000740553",
-    "tikName": "Тоджинская"
+    "tikName": "Тоджинская",
+    "uikName": "УИК №154",
+    "regionCode": "17",
+    "regionTvd": "100100225883442",
+    "regionName": "Республика Тыва",
+    "oikTvd": "100100225883443",
+    "oikName": "Республика Тыва – Тывинский",
+    "district": {
+      "districtNumber": 32,
+      "oikTvd": "100100225883443"
+    }
   },
   {
     "uikNumber": 155,
     "uikTvd": "4174014169865",
     "tikTvd": "2172000740553",
-    "tikName": "Тоджинская"
+    "tikName": "Тоджинская",
+    "uikName": "УИК №155",
+    "regionCode": "17",
+    "regionTvd": "100100225883442",
+    "regionName": "Республика Тыва",
+    "oikTvd": "100100225883443",
+    "oikName": "Республика Тыва – Тывинский",
+    "district": {
+      "districtNumber": 32,
+      "oikTvd": "100100225883443"
+    }
   },
   {
     "uikNumber": 156,
     "uikTvd": "4174014169866",
     "tikTvd": "2172000740553",
-    "tikName": "Тоджинская"
+    "tikName": "Тоджинская",
+    "uikName": "УИК №156",
+    "regionCode": "17",
+    "regionTvd": "100100225883442",
+    "regionName": "Республика Тыва",
+    "oikTvd": "100100225883443",
+    "oikName": "Республика Тыва – Тывинский",
+    "district": {
+      "districtNumber": 32,
+      "oikTvd": "100100225883443"
+    }
   },
   {
     "uikNumber": 157,
     "uikTvd": "4174014169867",
     "tikTvd": "2172000740553",
-    "tikName": "Тоджинская"
+    "tikName": "Тоджинская",
+    "uikName": "УИК №157",
+    "regionCode": "17",
+    "regionTvd": "100100225883442",
+    "regionName": "Республика Тыва",
+    "oikTvd": "100100225883443",
+    "oikName": "Республика Тыва – Тывинский",
+    "district": {
+      "districtNumber": 32,
+      "oikTvd": "100100225883443"
+    }
   },
   {
     "uikNumber": 158,
     "uikTvd": "4174015232362",
     "tikTvd": "2172000740552",
-    "tikName": "Улуг-Хемская"
+    "tikName": "Улуг-Хемская",
+    "uikName": "УИК №158",
+    "regionCode": "17",
+    "regionTvd": "100100225883442",
+    "regionName": "Республика Тыва",
+    "oikTvd": "100100225883443",
+    "oikName": "Республика Тыва – Тывинский",
+    "district": {
+      "districtNumber": 32,
+      "oikTvd": "100100225883443"
+    }
   },
   {
     "uikNumber": 159,
     "uikTvd": "4174015232363",
     "tikTvd": "2172000740552",
-    "tikName": "Улуг-Хемская"
+    "tikName": "Улуг-Хемская",
+    "uikName": "УИК №159",
+    "regionCode": "17",
+    "regionTvd": "100100225883442",
+    "regionName": "Республика Тыва",
+    "oikTvd": "100100225883443",
+    "oikName": "Республика Тыва – Тывинский",
+    "district": {
+      "districtNumber": 32,
+      "oikTvd": "100100225883443"
+    }
   },
   {
     "uikNumber": 160,
     "uikTvd": "4174015232364",
     "tikTvd": "2172000740552",
-    "tikName": "Улуг-Хемская"
+    "tikName": "Улуг-Хемская",
+    "uikName": "УИК №160",
+    "regionCode": "17",
+    "regionTvd": "100100225883442",
+    "regionName": "Республика Тыва",
+    "oikTvd": "100100225883443",
+    "oikName": "Республика Тыва – Тывинский",
+    "district": {
+      "districtNumber": 32,
+      "oikTvd": "100100225883443"
+    }
   },
   {
     "uikNumber": 161,
     "uikTvd": "4174015232365",
     "tikTvd": "2172000740552",
-    "tikName": "Улуг-Хемская"
+    "tikName": "Улуг-Хемская",
+    "uikName": "УИК №161",
+    "regionCode": "17",
+    "regionTvd": "100100225883442",
+    "regionName": "Республика Тыва",
+    "oikTvd": "100100225883443",
+    "oikName": "Республика Тыва – Тывинский",
+    "district": {
+      "districtNumber": 32,
+      "oikTvd": "100100225883443"
+    }
   },
   {
     "uikNumber": 162,
     "uikTvd": "4174015232366",
     "tikTvd": "2172000740552",
-    "tikName": "Улуг-Хемская"
+    "tikName": "Улуг-Хемская",
+    "uikName": "УИК №162",
+    "regionCode": "17",
+    "regionTvd": "100100225883442",
+    "regionName": "Республика Тыва",
+    "oikTvd": "100100225883443",
+    "oikName": "Республика Тыва – Тывинский",
+    "district": {
+      "districtNumber": 32,
+      "oikTvd": "100100225883443"
+    }
   },
   {
     "uikNumber": 163,
     "uikTvd": "4174015232367",
     "tikTvd": "2172000740552",
-    "tikName": "Улуг-Хемская"
+    "tikName": "Улуг-Хемская",
+    "uikName": "УИК №163",
+    "regionCode": "17",
+    "regionTvd": "100100225883442",
+    "regionName": "Республика Тыва",
+    "oikTvd": "100100225883443",
+    "oikName": "Республика Тыва – Тывинский",
+    "district": {
+      "districtNumber": 32,
+      "oikTvd": "100100225883443"
+    }
   },
   {
     "uikNumber": 164,
     "uikTvd": "4174015232368",
     "tikTvd": "2172000740552",
-    "tikName": "Улуг-Хемская"
+    "tikName": "Улуг-Хемская",
+    "uikName": "УИК №164",
+    "regionCode": "17",
+    "regionTvd": "100100225883442",
+    "regionName": "Республика Тыва",
+    "oikTvd": "100100225883443",
+    "oikName": "Республика Тыва – Тывинский",
+    "district": {
+      "districtNumber": 32,
+      "oikTvd": "100100225883443"
+    }
   },
   {
     "uikNumber": 165,
     "uikTvd": "4174015232369",
     "tikTvd": "2172000740552",
-    "tikName": "Улуг-Хемская"
+    "tikName": "Улуг-Хемская",
+    "uikName": "УИК №165",
+    "regionCode": "17",
+    "regionTvd": "100100225883442",
+    "regionName": "Республика Тыва",
+    "oikTvd": "100100225883443",
+    "oikName": "Республика Тыва – Тывинский",
+    "district": {
+      "districtNumber": 32,
+      "oikTvd": "100100225883443"
+    }
   },
   {
     "uikNumber": 166,
     "uikTvd": "4174015232370",
     "tikTvd": "2172000740552",
-    "tikName": "Улуг-Хемская"
+    "tikName": "Улуг-Хемская",
+    "uikName": "УИК №166",
+    "regionCode": "17",
+    "regionTvd": "100100225883442",
+    "regionName": "Республика Тыва",
+    "oikTvd": "100100225883443",
+    "oikName": "Республика Тыва – Тывинский",
+    "district": {
+      "districtNumber": 32,
+      "oikTvd": "100100225883443"
+    }
   },
   {
     "uikNumber": 167,
     "uikTvd": "4174015232371",
     "tikTvd": "2172000740552",
-    "tikName": "Улуг-Хемская"
+    "tikName": "Улуг-Хемская",
+    "uikName": "УИК №167",
+    "regionCode": "17",
+    "regionTvd": "100100225883442",
+    "regionName": "Республика Тыва",
+    "oikTvd": "100100225883443",
+    "oikName": "Республика Тыва – Тывинский",
+    "district": {
+      "districtNumber": 32,
+      "oikTvd": "100100225883443"
+    }
   },
   {
     "uikNumber": 168,
     "uikTvd": "4174015232372",
     "tikTvd": "2172000740552",
-    "tikName": "Улуг-Хемская"
+    "tikName": "Улуг-Хемская",
+    "uikName": "УИК №168",
+    "regionCode": "17",
+    "regionTvd": "100100225883442",
+    "regionName": "Республика Тыва",
+    "oikTvd": "100100225883443",
+    "oikName": "Республика Тыва – Тывинский",
+    "district": {
+      "districtNumber": 32,
+      "oikTvd": "100100225883443"
+    }
   },
   {
     "uikNumber": 169,
     "uikTvd": "4174015232373",
     "tikTvd": "2172000740552",
-    "tikName": "Улуг-Хемская"
+    "tikName": "Улуг-Хемская",
+    "uikName": "УИК №169",
+    "regionCode": "17",
+    "regionTvd": "100100225883442",
+    "regionName": "Республика Тыва",
+    "oikTvd": "100100225883443",
+    "oikName": "Республика Тыва – Тывинский",
+    "district": {
+      "districtNumber": 32,
+      "oikTvd": "100100225883443"
+    }
   },
   {
     "uikNumber": 170,
     "uikTvd": "4174015232374",
     "tikTvd": "2172000740552",
-    "tikName": "Улуг-Хемская"
+    "tikName": "Улуг-Хемская",
+    "uikName": "УИК №170",
+    "regionCode": "17",
+    "regionTvd": "100100225883442",
+    "regionName": "Республика Тыва",
+    "oikTvd": "100100225883443",
+    "oikName": "Республика Тыва – Тывинский",
+    "district": {
+      "districtNumber": 32,
+      "oikTvd": "100100225883443"
+    }
   },
   {
     "uikNumber": 171,
     "uikTvd": "4174016375508",
     "tikTvd": "2172000740551",
-    "tikName": "Чаа-Хольская"
+    "tikName": "Чаа-Хольская",
+    "uikName": "УИК №171",
+    "regionCode": "17",
+    "regionTvd": "100100225883442",
+    "regionName": "Республика Тыва",
+    "oikTvd": "100100225883443",
+    "oikName": "Республика Тыва – Тывинский",
+    "district": {
+      "districtNumber": 32,
+      "oikTvd": "100100225883443"
+    }
   },
   {
     "uikNumber": 172,
     "uikTvd": "4174016375509",
     "tikTvd": "2172000740551",
-    "tikName": "Чаа-Хольская"
+    "tikName": "Чаа-Хольская",
+    "uikName": "УИК №172",
+    "regionCode": "17",
+    "regionTvd": "100100225883442",
+    "regionName": "Республика Тыва",
+    "oikTvd": "100100225883443",
+    "oikName": "Республика Тыва – Тывинский",
+    "district": {
+      "districtNumber": 32,
+      "oikTvd": "100100225883443"
+    }
   },
   {
     "uikNumber": 173,
     "uikTvd": "4174016375510",
     "tikTvd": "2172000740551",
-    "tikName": "Чаа-Хольская"
+    "tikName": "Чаа-Хольская",
+    "uikName": "УИК №173",
+    "regionCode": "17",
+    "regionTvd": "100100225883442",
+    "regionName": "Республика Тыва",
+    "oikTvd": "100100225883443",
+    "oikName": "Республика Тыва – Тывинский",
+    "district": {
+      "districtNumber": 32,
+      "oikTvd": "100100225883443"
+    }
   },
   {
     "uikNumber": 174,
     "uikTvd": "4174016375511",
     "tikTvd": "2172000740551",
-    "tikName": "Чаа-Хольская"
+    "tikName": "Чаа-Хольская",
+    "uikName": "УИК №174",
+    "regionCode": "17",
+    "regionTvd": "100100225883442",
+    "regionName": "Республика Тыва",
+    "oikTvd": "100100225883443",
+    "oikName": "Республика Тыва – Тывинский",
+    "district": {
+      "districtNumber": 32,
+      "oikTvd": "100100225883443"
+    }
   },
   {
     "uikNumber": 175,
     "uikTvd": "4174017224062",
     "tikTvd": "2172000740550",
-    "tikName": "Чеди-Хольская"
+    "tikName": "Чеди-Хольская",
+    "uikName": "УИК №175",
+    "regionCode": "17",
+    "regionTvd": "100100225883442",
+    "regionName": "Республика Тыва",
+    "oikTvd": "100100225883443",
+    "oikName": "Республика Тыва – Тывинский",
+    "district": {
+      "districtNumber": 32,
+      "oikTvd": "100100225883443"
+    }
   },
   {
     "uikNumber": 176,
     "uikTvd": "4174017224063",
     "tikTvd": "2172000740550",
-    "tikName": "Чеди-Хольская"
+    "tikName": "Чеди-Хольская",
+    "uikName": "УИК №176",
+    "regionCode": "17",
+    "regionTvd": "100100225883442",
+    "regionName": "Республика Тыва",
+    "oikTvd": "100100225883443",
+    "oikName": "Республика Тыва – Тывинский",
+    "district": {
+      "districtNumber": 32,
+      "oikTvd": "100100225883443"
+    }
   },
   {
     "uikNumber": 177,
     "uikTvd": "4174017224064",
     "tikTvd": "2172000740550",
-    "tikName": "Чеди-Хольская"
+    "tikName": "Чеди-Хольская",
+    "uikName": "УИК №177",
+    "regionCode": "17",
+    "regionTvd": "100100225883442",
+    "regionName": "Республика Тыва",
+    "oikTvd": "100100225883443",
+    "oikName": "Республика Тыва – Тывинский",
+    "district": {
+      "districtNumber": 32,
+      "oikTvd": "100100225883443"
+    }
   },
   {
     "uikNumber": 178,
     "uikTvd": "4174017224065",
     "tikTvd": "2172000740550",
-    "tikName": "Чеди-Хольская"
+    "tikName": "Чеди-Хольская",
+    "uikName": "УИК №178",
+    "regionCode": "17",
+    "regionTvd": "100100225883442",
+    "regionName": "Республика Тыва",
+    "oikTvd": "100100225883443",
+    "oikName": "Республика Тыва – Тывинский",
+    "district": {
+      "districtNumber": 32,
+      "oikTvd": "100100225883443"
+    }
   },
   {
     "uikNumber": 179,
     "uikTvd": "4174017224066",
     "tikTvd": "2172000740550",
-    "tikName": "Чеди-Хольская"
+    "tikName": "Чеди-Хольская",
+    "uikName": "УИК №179",
+    "regionCode": "17",
+    "regionTvd": "100100225883442",
+    "regionName": "Республика Тыва",
+    "oikTvd": "100100225883443",
+    "oikName": "Республика Тыва – Тывинский",
+    "district": {
+      "districtNumber": 32,
+      "oikTvd": "100100225883443"
+    }
   },
   {
     "uikNumber": 180,
     "uikTvd": "4174017224067",
     "tikTvd": "2172000740550",
-    "tikName": "Чеди-Хольская"
+    "tikName": "Чеди-Хольская",
+    "uikName": "УИК №180",
+    "regionCode": "17",
+    "regionTvd": "100100225883442",
+    "regionName": "Республика Тыва",
+    "oikTvd": "100100225883443",
+    "oikName": "Республика Тыва – Тывинский",
+    "district": {
+      "districtNumber": 32,
+      "oikTvd": "100100225883443"
+    }
   },
   {
     "uikNumber": 181,
     "uikTvd": "4174018197499",
     "tikTvd": "2172000740549",
-    "tikName": "Эрзинская"
+    "tikName": "Эрзинская",
+    "uikName": "УИК №181",
+    "regionCode": "17",
+    "regionTvd": "100100225883442",
+    "regionName": "Республика Тыва",
+    "oikTvd": "100100225883443",
+    "oikName": "Республика Тыва – Тывинский",
+    "district": {
+      "districtNumber": 32,
+      "oikTvd": "100100225883443"
+    }
   },
   {
     "uikNumber": 182,
     "uikTvd": "4174018197501",
     "tikTvd": "2172000740549",
-    "tikName": "Эрзинская"
+    "tikName": "Эрзинская",
+    "uikName": "УИК №182",
+    "regionCode": "17",
+    "regionTvd": "100100225883442",
+    "regionName": "Республика Тыва",
+    "oikTvd": "100100225883443",
+    "oikName": "Республика Тыва – Тывинский",
+    "district": {
+      "districtNumber": 32,
+      "oikTvd": "100100225883443"
+    }
   },
   {
     "uikNumber": 183,
     "uikTvd": "4174018197503",
     "tikTvd": "2172000740549",
-    "tikName": "Эрзинская"
+    "tikName": "Эрзинская",
+    "uikName": "УИК №183",
+    "regionCode": "17",
+    "regionTvd": "100100225883442",
+    "regionName": "Республика Тыва",
+    "oikTvd": "100100225883443",
+    "oikName": "Республика Тыва – Тывинский",
+    "district": {
+      "districtNumber": 32,
+      "oikTvd": "100100225883443"
+    }
   },
   {
     "uikNumber": 184,
     "uikTvd": "4174018197505",
     "tikTvd": "2172000740549",
-    "tikName": "Эрзинская"
+    "tikName": "Эрзинская",
+    "uikName": "УИК №184",
+    "regionCode": "17",
+    "regionTvd": "100100225883442",
+    "regionName": "Республика Тыва",
+    "oikTvd": "100100225883443",
+    "oikName": "Республика Тыва – Тывинский",
+    "district": {
+      "districtNumber": 32,
+      "oikTvd": "100100225883443"
+    }
   },
   {
     "uikNumber": 185,
     "uikTvd": "4174018197507",
     "tikTvd": "2172000740549",
-    "tikName": "Эрзинская"
+    "tikName": "Эрзинская",
+    "uikName": "УИК №185",
+    "regionCode": "17",
+    "regionTvd": "100100225883442",
+    "regionName": "Республика Тыва",
+    "oikTvd": "100100225883443",
+    "oikName": "Республика Тыва – Тывинский",
+    "district": {
+      "districtNumber": 32,
+      "oikTvd": "100100225883443"
+    }
   },
   {
     "uikNumber": 186,
     "uikTvd": "4174018197509",
     "tikTvd": "2172000740549",
-    "tikName": "Эрзинская"
+    "tikName": "Эрзинская",
+    "uikName": "УИК №186",
+    "regionCode": "17",
+    "regionTvd": "100100225883442",
+    "regionName": "Республика Тыва",
+    "oikTvd": "100100225883443",
+    "oikName": "Республика Тыва – Тывинский",
+    "district": {
+      "districtNumber": 32,
+      "oikTvd": "100100225883443"
+    }
   },
   {
     "uikNumber": 187,
     "uikTvd": "4174006361659",
     "tikTvd": "2172000740561",
-    "tikName": "Кызылская городская"
+    "tikName": "Кызылская городская",
+    "uikName": "УИК №187",
+    "regionCode": "17",
+    "regionTvd": "100100225883442",
+    "regionName": "Республика Тыва",
+    "oikTvd": "100100225883443",
+    "oikName": "Республика Тыва – Тывинский",
+    "district": {
+      "districtNumber": 32,
+      "oikTvd": "100100225883443"
+    }
   }
 ] satisfies readonly UikTikRelation[];

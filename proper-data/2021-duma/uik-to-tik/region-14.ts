@@ -8,4932 +8,13152 @@ export const duma_2021_uik_to_tik_region_14 = [
     "uikNumber": 1,
     "uikTvd": "4144001160153",
     "tikTvd": "21420001074336",
-    "tikName": "Абыйская"
+    "tikName": "Абыйская",
+    "uikName": "УИК №1",
+    "regionCode": "14",
+    "regionTvd": "100100225883431",
+    "regionName": "Республика Саха (Якутия)",
+    "oikTvd": "100100225883432",
+    "oikName": "Республика Саха (Якутия) – Якутский",
+    "district": {
+      "districtNumber": 24,
+      "oikTvd": "100100225883432"
+    }
   },
   {
     "uikNumber": 2,
     "uikTvd": "4144001160154",
     "tikTvd": "21420001074336",
-    "tikName": "Абыйская"
+    "tikName": "Абыйская",
+    "uikName": "УИК №2",
+    "regionCode": "14",
+    "regionTvd": "100100225883431",
+    "regionName": "Республика Саха (Якутия)",
+    "oikTvd": "100100225883432",
+    "oikName": "Республика Саха (Якутия) – Якутский",
+    "district": {
+      "districtNumber": 24,
+      "oikTvd": "100100225883432"
+    }
   },
   {
     "uikNumber": 3,
     "uikTvd": "4144001160155",
     "tikTvd": "21420001074336",
-    "tikName": "Абыйская"
+    "tikName": "Абыйская",
+    "uikName": "УИК №3",
+    "regionCode": "14",
+    "regionTvd": "100100225883431",
+    "regionName": "Республика Саха (Якутия)",
+    "oikTvd": "100100225883432",
+    "oikName": "Республика Саха (Якутия) – Якутский",
+    "district": {
+      "districtNumber": 24,
+      "oikTvd": "100100225883432"
+    }
   },
   {
     "uikNumber": 4,
     "uikTvd": "4144001160156",
     "tikTvd": "21420001074336",
-    "tikName": "Абыйская"
+    "tikName": "Абыйская",
+    "uikName": "УИК №4",
+    "regionCode": "14",
+    "regionTvd": "100100225883431",
+    "regionName": "Республика Саха (Якутия)",
+    "oikTvd": "100100225883432",
+    "oikName": "Республика Саха (Якутия) – Якутский",
+    "district": {
+      "districtNumber": 24,
+      "oikTvd": "100100225883432"
+    }
   },
   {
     "uikNumber": 5,
     "uikTvd": "4144001160157",
     "tikTvd": "21420001074336",
-    "tikName": "Абыйская"
+    "tikName": "Абыйская",
+    "uikName": "УИК №5",
+    "regionCode": "14",
+    "regionTvd": "100100225883431",
+    "regionName": "Республика Саха (Якутия)",
+    "oikTvd": "100100225883432",
+    "oikName": "Республика Саха (Якутия) – Якутский",
+    "district": {
+      "districtNumber": 24,
+      "oikTvd": "100100225883432"
+    }
   },
   {
     "uikNumber": 6,
     "uikTvd": "4144001160158",
     "tikTvd": "21420001074336",
-    "tikName": "Абыйская"
+    "tikName": "Абыйская",
+    "uikName": "УИК №6",
+    "regionCode": "14",
+    "regionTvd": "100100225883431",
+    "regionName": "Республика Саха (Якутия)",
+    "oikTvd": "100100225883432",
+    "oikName": "Республика Саха (Якутия) – Якутский",
+    "district": {
+      "districtNumber": 24,
+      "oikTvd": "100100225883432"
+    }
   },
   {
     "uikNumber": 7,
     "uikTvd": "4144001160159",
     "tikTvd": "21420001074336",
-    "tikName": "Абыйская"
+    "tikName": "Абыйская",
+    "uikName": "УИК №7",
+    "regionCode": "14",
+    "regionTvd": "100100225883431",
+    "regionName": "Республика Саха (Якутия)",
+    "oikTvd": "100100225883432",
+    "oikName": "Республика Саха (Якутия) – Якутский",
+    "district": {
+      "districtNumber": 24,
+      "oikTvd": "100100225883432"
+    }
   },
   {
     "uikNumber": 8,
     "uikTvd": "4144002234943",
     "tikTvd": "21420001074339",
-    "tikName": "Алданская"
+    "tikName": "Алданская",
+    "uikName": "УИК №8",
+    "regionCode": "14",
+    "regionTvd": "100100225883431",
+    "regionName": "Республика Саха (Якутия)",
+    "oikTvd": "100100225883432",
+    "oikName": "Республика Саха (Якутия) – Якутский",
+    "district": {
+      "districtNumber": 24,
+      "oikTvd": "100100225883432"
+    }
   },
   {
     "uikNumber": 9,
     "uikTvd": "4144002234944",
     "tikTvd": "21420001074339",
-    "tikName": "Алданская"
+    "tikName": "Алданская",
+    "uikName": "УИК №9",
+    "regionCode": "14",
+    "regionTvd": "100100225883431",
+    "regionName": "Республика Саха (Якутия)",
+    "oikTvd": "100100225883432",
+    "oikName": "Республика Саха (Якутия) – Якутский",
+    "district": {
+      "districtNumber": 24,
+      "oikTvd": "100100225883432"
+    }
   },
   {
     "uikNumber": 10,
     "uikTvd": "4144002234945",
     "tikTvd": "21420001074339",
-    "tikName": "Алданская"
+    "tikName": "Алданская",
+    "uikName": "УИК №10",
+    "regionCode": "14",
+    "regionTvd": "100100225883431",
+    "regionName": "Республика Саха (Якутия)",
+    "oikTvd": "100100225883432",
+    "oikName": "Республика Саха (Якутия) – Якутский",
+    "district": {
+      "districtNumber": 24,
+      "oikTvd": "100100225883432"
+    }
   },
   {
     "uikNumber": 11,
     "uikTvd": "4144002234946",
     "tikTvd": "21420001074339",
-    "tikName": "Алданская"
+    "tikName": "Алданская",
+    "uikName": "УИК №11",
+    "regionCode": "14",
+    "regionTvd": "100100225883431",
+    "regionName": "Республика Саха (Якутия)",
+    "oikTvd": "100100225883432",
+    "oikName": "Республика Саха (Якутия) – Якутский",
+    "district": {
+      "districtNumber": 24,
+      "oikTvd": "100100225883432"
+    }
   },
   {
     "uikNumber": 12,
     "uikTvd": "4144002234947",
     "tikTvd": "21420001074339",
-    "tikName": "Алданская"
+    "tikName": "Алданская",
+    "uikName": "УИК №12",
+    "regionCode": "14",
+    "regionTvd": "100100225883431",
+    "regionName": "Республика Саха (Якутия)",
+    "oikTvd": "100100225883432",
+    "oikName": "Республика Саха (Якутия) – Якутский",
+    "district": {
+      "districtNumber": 24,
+      "oikTvd": "100100225883432"
+    }
   },
   {
     "uikNumber": 13,
     "uikTvd": "4144002234948",
     "tikTvd": "21420001074339",
-    "tikName": "Алданская"
+    "tikName": "Алданская",
+    "uikName": "УИК №13",
+    "regionCode": "14",
+    "regionTvd": "100100225883431",
+    "regionName": "Республика Саха (Якутия)",
+    "oikTvd": "100100225883432",
+    "oikName": "Республика Саха (Якутия) – Якутский",
+    "district": {
+      "districtNumber": 24,
+      "oikTvd": "100100225883432"
+    }
   },
   {
     "uikNumber": 14,
     "uikTvd": "4144002234949",
     "tikTvd": "21420001074339",
-    "tikName": "Алданская"
+    "tikName": "Алданская",
+    "uikName": "УИК №14",
+    "regionCode": "14",
+    "regionTvd": "100100225883431",
+    "regionName": "Республика Саха (Якутия)",
+    "oikTvd": "100100225883432",
+    "oikName": "Республика Саха (Якутия) – Якутский",
+    "district": {
+      "districtNumber": 24,
+      "oikTvd": "100100225883432"
+    }
   },
   {
     "uikNumber": 15,
     "uikTvd": "4144002234950",
     "tikTvd": "21420001074339",
-    "tikName": "Алданская"
+    "tikName": "Алданская",
+    "uikName": "УИК №15",
+    "regionCode": "14",
+    "regionTvd": "100100225883431",
+    "regionName": "Республика Саха (Якутия)",
+    "oikTvd": "100100225883432",
+    "oikName": "Республика Саха (Якутия) – Якутский",
+    "district": {
+      "districtNumber": 24,
+      "oikTvd": "100100225883432"
+    }
   },
   {
     "uikNumber": 16,
     "uikTvd": "4144002234951",
     "tikTvd": "21420001074339",
-    "tikName": "Алданская"
+    "tikName": "Алданская",
+    "uikName": "УИК №16",
+    "regionCode": "14",
+    "regionTvd": "100100225883431",
+    "regionName": "Республика Саха (Якутия)",
+    "oikTvd": "100100225883432",
+    "oikName": "Республика Саха (Якутия) – Якутский",
+    "district": {
+      "districtNumber": 24,
+      "oikTvd": "100100225883432"
+    }
   },
   {
     "uikNumber": 17,
     "uikTvd": "4144002234952",
     "tikTvd": "21420001074339",
-    "tikName": "Алданская"
+    "tikName": "Алданская",
+    "uikName": "УИК №17",
+    "regionCode": "14",
+    "regionTvd": "100100225883431",
+    "regionName": "Республика Саха (Якутия)",
+    "oikTvd": "100100225883432",
+    "oikName": "Республика Саха (Якутия) – Якутский",
+    "district": {
+      "districtNumber": 24,
+      "oikTvd": "100100225883432"
+    }
   },
   {
     "uikNumber": 18,
     "uikTvd": "4144002234953",
     "tikTvd": "21420001074339",
-    "tikName": "Алданская"
+    "tikName": "Алданская",
+    "uikName": "УИК №18",
+    "regionCode": "14",
+    "regionTvd": "100100225883431",
+    "regionName": "Республика Саха (Якутия)",
+    "oikTvd": "100100225883432",
+    "oikName": "Республика Саха (Якутия) – Якутский",
+    "district": {
+      "districtNumber": 24,
+      "oikTvd": "100100225883432"
+    }
   },
   {
     "uikNumber": 19,
     "uikTvd": "4144002234954",
     "tikTvd": "21420001074339",
-    "tikName": "Алданская"
+    "tikName": "Алданская",
+    "uikName": "УИК №19",
+    "regionCode": "14",
+    "regionTvd": "100100225883431",
+    "regionName": "Республика Саха (Якутия)",
+    "oikTvd": "100100225883432",
+    "oikName": "Республика Саха (Якутия) – Якутский",
+    "district": {
+      "districtNumber": 24,
+      "oikTvd": "100100225883432"
+    }
   },
   {
     "uikNumber": 20,
     "uikTvd": "4144002234955",
     "tikTvd": "21420001074339",
-    "tikName": "Алданская"
+    "tikName": "Алданская",
+    "uikName": "УИК №20",
+    "regionCode": "14",
+    "regionTvd": "100100225883431",
+    "regionName": "Республика Саха (Якутия)",
+    "oikTvd": "100100225883432",
+    "oikName": "Республика Саха (Якутия) – Якутский",
+    "district": {
+      "districtNumber": 24,
+      "oikTvd": "100100225883432"
+    }
   },
   {
     "uikNumber": 21,
     "uikTvd": "4144002234956",
     "tikTvd": "21420001074339",
-    "tikName": "Алданская"
+    "tikName": "Алданская",
+    "uikName": "УИК №21",
+    "regionCode": "14",
+    "regionTvd": "100100225883431",
+    "regionName": "Республика Саха (Якутия)",
+    "oikTvd": "100100225883432",
+    "oikName": "Республика Саха (Якутия) – Якутский",
+    "district": {
+      "districtNumber": 24,
+      "oikTvd": "100100225883432"
+    }
   },
   {
     "uikNumber": 22,
     "uikTvd": "4144002234957",
     "tikTvd": "21420001074339",
-    "tikName": "Алданская"
+    "tikName": "Алданская",
+    "uikName": "УИК №22",
+    "regionCode": "14",
+    "regionTvd": "100100225883431",
+    "regionName": "Республика Саха (Якутия)",
+    "oikTvd": "100100225883432",
+    "oikName": "Республика Саха (Якутия) – Якутский",
+    "district": {
+      "districtNumber": 24,
+      "oikTvd": "100100225883432"
+    }
   },
   {
     "uikNumber": 24,
     "uikTvd": "4144002234958",
     "tikTvd": "21420001074339",
-    "tikName": "Алданская"
+    "tikName": "Алданская",
+    "uikName": "УИК №24",
+    "regionCode": "14",
+    "regionTvd": "100100225883431",
+    "regionName": "Республика Саха (Якутия)",
+    "oikTvd": "100100225883432",
+    "oikName": "Республика Саха (Якутия) – Якутский",
+    "district": {
+      "districtNumber": 24,
+      "oikTvd": "100100225883432"
+    }
   },
   {
     "uikNumber": 26,
     "uikTvd": "4144002234959",
     "tikTvd": "21420001074339",
-    "tikName": "Алданская"
+    "tikName": "Алданская",
+    "uikName": "УИК №26",
+    "regionCode": "14",
+    "regionTvd": "100100225883431",
+    "regionName": "Республика Саха (Якутия)",
+    "oikTvd": "100100225883432",
+    "oikName": "Республика Саха (Якутия) – Якутский",
+    "district": {
+      "districtNumber": 24,
+      "oikTvd": "100100225883432"
+    }
   },
   {
     "uikNumber": 27,
     "uikTvd": "4144002234960",
     "tikTvd": "21420001074339",
-    "tikName": "Алданская"
+    "tikName": "Алданская",
+    "uikName": "УИК №27",
+    "regionCode": "14",
+    "regionTvd": "100100225883431",
+    "regionName": "Республика Саха (Якутия)",
+    "oikTvd": "100100225883432",
+    "oikName": "Республика Саха (Якутия) – Якутский",
+    "district": {
+      "districtNumber": 24,
+      "oikTvd": "100100225883432"
+    }
   },
   {
     "uikNumber": 28,
     "uikTvd": "4144002234961",
     "tikTvd": "21420001074339",
-    "tikName": "Алданская"
+    "tikName": "Алданская",
+    "uikName": "УИК №28",
+    "regionCode": "14",
+    "regionTvd": "100100225883431",
+    "regionName": "Республика Саха (Якутия)",
+    "oikTvd": "100100225883432",
+    "oikName": "Республика Саха (Якутия) – Якутский",
+    "district": {
+      "districtNumber": 24,
+      "oikTvd": "100100225883432"
+    }
   },
   {
     "uikNumber": 29,
     "uikTvd": "4144002234962",
     "tikTvd": "21420001074339",
-    "tikName": "Алданская"
+    "tikName": "Алданская",
+    "uikName": "УИК №29",
+    "regionCode": "14",
+    "regionTvd": "100100225883431",
+    "regionName": "Республика Саха (Якутия)",
+    "oikTvd": "100100225883432",
+    "oikName": "Республика Саха (Якутия) – Якутский",
+    "district": {
+      "districtNumber": 24,
+      "oikTvd": "100100225883432"
+    }
   },
   {
     "uikNumber": 30,
     "uikTvd": "4144002234963",
     "tikTvd": "21420001074339",
-    "tikName": "Алданская"
+    "tikName": "Алданская",
+    "uikName": "УИК №30",
+    "regionCode": "14",
+    "regionTvd": "100100225883431",
+    "regionName": "Республика Саха (Якутия)",
+    "oikTvd": "100100225883432",
+    "oikName": "Республика Саха (Якутия) – Якутский",
+    "district": {
+      "districtNumber": 24,
+      "oikTvd": "100100225883432"
+    }
   },
   {
     "uikNumber": 31,
     "uikTvd": "4144002234964",
     "tikTvd": "21420001074339",
-    "tikName": "Алданская"
+    "tikName": "Алданская",
+    "uikName": "УИК №31",
+    "regionCode": "14",
+    "regionTvd": "100100225883431",
+    "regionName": "Республика Саха (Якутия)",
+    "oikTvd": "100100225883432",
+    "oikName": "Республика Саха (Якутия) – Якутский",
+    "district": {
+      "districtNumber": 24,
+      "oikTvd": "100100225883432"
+    }
   },
   {
     "uikNumber": 32,
     "uikTvd": "4144002234965",
     "tikTvd": "21420001074339",
-    "tikName": "Алданская"
+    "tikName": "Алданская",
+    "uikName": "УИК №32",
+    "regionCode": "14",
+    "regionTvd": "100100225883431",
+    "regionName": "Республика Саха (Якутия)",
+    "oikTvd": "100100225883432",
+    "oikName": "Республика Саха (Якутия) – Якутский",
+    "district": {
+      "districtNumber": 24,
+      "oikTvd": "100100225883432"
+    }
   },
   {
     "uikNumber": 33,
     "uikTvd": "4144002234966",
     "tikTvd": "21420001074339",
-    "tikName": "Алданская"
+    "tikName": "Алданская",
+    "uikName": "УИК №33",
+    "regionCode": "14",
+    "regionTvd": "100100225883431",
+    "regionName": "Республика Саха (Якутия)",
+    "oikTvd": "100100225883432",
+    "oikName": "Республика Саха (Якутия) – Якутский",
+    "district": {
+      "districtNumber": 24,
+      "oikTvd": "100100225883432"
+    }
   },
   {
     "uikNumber": 34,
     "uikTvd": "4144002234967",
     "tikTvd": "21420001074339",
-    "tikName": "Алданская"
+    "tikName": "Алданская",
+    "uikName": "УИК №34",
+    "regionCode": "14",
+    "regionTvd": "100100225883431",
+    "regionName": "Республика Саха (Якутия)",
+    "oikTvd": "100100225883432",
+    "oikName": "Республика Саха (Якутия) – Якутский",
+    "district": {
+      "districtNumber": 24,
+      "oikTvd": "100100225883432"
+    }
   },
   {
     "uikNumber": 36,
     "uikTvd": "4144002234968",
     "tikTvd": "21420001074339",
-    "tikName": "Алданская"
+    "tikName": "Алданская",
+    "uikName": "УИК №36",
+    "regionCode": "14",
+    "regionTvd": "100100225883431",
+    "regionName": "Республика Саха (Якутия)",
+    "oikTvd": "100100225883432",
+    "oikName": "Республика Саха (Якутия) – Якутский",
+    "district": {
+      "districtNumber": 24,
+      "oikTvd": "100100225883432"
+    }
   },
   {
     "uikNumber": 37,
     "uikTvd": "4144002234969",
     "tikTvd": "21420001074339",
-    "tikName": "Алданская"
+    "tikName": "Алданская",
+    "uikName": "УИК №37",
+    "regionCode": "14",
+    "regionTvd": "100100225883431",
+    "regionName": "Республика Саха (Якутия)",
+    "oikTvd": "100100225883432",
+    "oikName": "Республика Саха (Якутия) – Якутский",
+    "district": {
+      "districtNumber": 24,
+      "oikTvd": "100100225883432"
+    }
   },
   {
     "uikNumber": 38,
     "uikTvd": "4144002234970",
     "tikTvd": "21420001074339",
-    "tikName": "Алданская"
+    "tikName": "Алданская",
+    "uikName": "УИК №38",
+    "regionCode": "14",
+    "regionTvd": "100100225883431",
+    "regionName": "Республика Саха (Якутия)",
+    "oikTvd": "100100225883432",
+    "oikName": "Республика Саха (Якутия) – Якутский",
+    "district": {
+      "districtNumber": 24,
+      "oikTvd": "100100225883432"
+    }
   },
   {
     "uikNumber": 39,
     "uikTvd": "4144003147824",
     "tikTvd": "21420001074319",
-    "tikName": "Аллаиховская"
+    "tikName": "Аллаиховская",
+    "uikName": "УИК №39",
+    "regionCode": "14",
+    "regionTvd": "100100225883431",
+    "regionName": "Республика Саха (Якутия)",
+    "oikTvd": "100100225883432",
+    "oikName": "Республика Саха (Якутия) – Якутский",
+    "district": {
+      "districtNumber": 24,
+      "oikTvd": "100100225883432"
+    }
   },
   {
     "uikNumber": 40,
     "uikTvd": "4144003147825",
     "tikTvd": "21420001074319",
-    "tikName": "Аллаиховская"
+    "tikName": "Аллаиховская",
+    "uikName": "УИК №40",
+    "regionCode": "14",
+    "regionTvd": "100100225883431",
+    "regionName": "Республика Саха (Якутия)",
+    "oikTvd": "100100225883432",
+    "oikName": "Республика Саха (Якутия) – Якутский",
+    "district": {
+      "districtNumber": 24,
+      "oikTvd": "100100225883432"
+    }
   },
   {
     "uikNumber": 41,
     "uikTvd": "4144003147826",
     "tikTvd": "21420001074319",
-    "tikName": "Аллаиховская"
+    "tikName": "Аллаиховская",
+    "uikName": "УИК №41",
+    "regionCode": "14",
+    "regionTvd": "100100225883431",
+    "regionName": "Республика Саха (Якутия)",
+    "oikTvd": "100100225883432",
+    "oikName": "Республика Саха (Якутия) – Якутский",
+    "district": {
+      "districtNumber": 24,
+      "oikTvd": "100100225883432"
+    }
   },
   {
     "uikNumber": 42,
     "uikTvd": "4144003147827",
     "tikTvd": "21420001074319",
-    "tikName": "Аллаиховская"
+    "tikName": "Аллаиховская",
+    "uikName": "УИК №42",
+    "regionCode": "14",
+    "regionTvd": "100100225883431",
+    "regionName": "Республика Саха (Якутия)",
+    "oikTvd": "100100225883432",
+    "oikName": "Республика Саха (Якутия) – Якутский",
+    "district": {
+      "districtNumber": 24,
+      "oikTvd": "100100225883432"
+    }
   },
   {
     "uikNumber": 43,
     "uikTvd": "4144003147828",
     "tikTvd": "21420001074319",
-    "tikName": "Аллаиховская"
+    "tikName": "Аллаиховская",
+    "uikName": "УИК №43",
+    "regionCode": "14",
+    "regionTvd": "100100225883431",
+    "regionName": "Республика Саха (Якутия)",
+    "oikTvd": "100100225883432",
+    "oikName": "Республика Саха (Якутия) – Якутский",
+    "district": {
+      "districtNumber": 24,
+      "oikTvd": "100100225883432"
+    }
   },
   {
     "uikNumber": 44,
     "uikTvd": "4144004251174",
     "tikTvd": "21420001074331",
-    "tikName": "Амгинская"
+    "tikName": "Амгинская",
+    "uikName": "УИК №44",
+    "regionCode": "14",
+    "regionTvd": "100100225883431",
+    "regionName": "Республика Саха (Якутия)",
+    "oikTvd": "100100225883432",
+    "oikName": "Республика Саха (Якутия) – Якутский",
+    "district": {
+      "districtNumber": 24,
+      "oikTvd": "100100225883432"
+    }
   },
   {
     "uikNumber": 45,
     "uikTvd": "4144004251175",
     "tikTvd": "21420001074331",
-    "tikName": "Амгинская"
+    "tikName": "Амгинская",
+    "uikName": "УИК №45",
+    "regionCode": "14",
+    "regionTvd": "100100225883431",
+    "regionName": "Республика Саха (Якутия)",
+    "oikTvd": "100100225883432",
+    "oikName": "Республика Саха (Якутия) – Якутский",
+    "district": {
+      "districtNumber": 24,
+      "oikTvd": "100100225883432"
+    }
   },
   {
     "uikNumber": 46,
     "uikTvd": "4144004251176",
     "tikTvd": "21420001074331",
-    "tikName": "Амгинская"
+    "tikName": "Амгинская",
+    "uikName": "УИК №46",
+    "regionCode": "14",
+    "regionTvd": "100100225883431",
+    "regionName": "Республика Саха (Якутия)",
+    "oikTvd": "100100225883432",
+    "oikName": "Республика Саха (Якутия) – Якутский",
+    "district": {
+      "districtNumber": 24,
+      "oikTvd": "100100225883432"
+    }
   },
   {
     "uikNumber": 47,
     "uikTvd": "4144004251177",
     "tikTvd": "21420001074331",
-    "tikName": "Амгинская"
+    "tikName": "Амгинская",
+    "uikName": "УИК №47",
+    "regionCode": "14",
+    "regionTvd": "100100225883431",
+    "regionName": "Республика Саха (Якутия)",
+    "oikTvd": "100100225883432",
+    "oikName": "Республика Саха (Якутия) – Якутский",
+    "district": {
+      "districtNumber": 24,
+      "oikTvd": "100100225883432"
+    }
   },
   {
     "uikNumber": 48,
     "uikTvd": "4144004251178",
     "tikTvd": "21420001074331",
-    "tikName": "Амгинская"
+    "tikName": "Амгинская",
+    "uikName": "УИК №48",
+    "regionCode": "14",
+    "regionTvd": "100100225883431",
+    "regionName": "Республика Саха (Якутия)",
+    "oikTvd": "100100225883432",
+    "oikName": "Республика Саха (Якутия) – Якутский",
+    "district": {
+      "districtNumber": 24,
+      "oikTvd": "100100225883432"
+    }
   },
   {
     "uikNumber": 49,
     "uikTvd": "4144004251179",
     "tikTvd": "21420001074331",
-    "tikName": "Амгинская"
+    "tikName": "Амгинская",
+    "uikName": "УИК №49",
+    "regionCode": "14",
+    "regionTvd": "100100225883431",
+    "regionName": "Республика Саха (Якутия)",
+    "oikTvd": "100100225883432",
+    "oikName": "Республика Саха (Якутия) – Якутский",
+    "district": {
+      "districtNumber": 24,
+      "oikTvd": "100100225883432"
+    }
   },
   {
     "uikNumber": 50,
     "uikTvd": "4144004251180",
     "tikTvd": "21420001074331",
-    "tikName": "Амгинская"
+    "tikName": "Амгинская",
+    "uikName": "УИК №50",
+    "regionCode": "14",
+    "regionTvd": "100100225883431",
+    "regionName": "Республика Саха (Якутия)",
+    "oikTvd": "100100225883432",
+    "oikName": "Республика Саха (Якутия) – Якутский",
+    "district": {
+      "districtNumber": 24,
+      "oikTvd": "100100225883432"
+    }
   },
   {
     "uikNumber": 51,
     "uikTvd": "4144004251181",
     "tikTvd": "21420001074331",
-    "tikName": "Амгинская"
+    "tikName": "Амгинская",
+    "uikName": "УИК №51",
+    "regionCode": "14",
+    "regionTvd": "100100225883431",
+    "regionName": "Республика Саха (Якутия)",
+    "oikTvd": "100100225883432",
+    "oikName": "Республика Саха (Якутия) – Якутский",
+    "district": {
+      "districtNumber": 24,
+      "oikTvd": "100100225883432"
+    }
   },
   {
     "uikNumber": 52,
     "uikTvd": "4144004251182",
     "tikTvd": "21420001074331",
-    "tikName": "Амгинская"
+    "tikName": "Амгинская",
+    "uikName": "УИК №52",
+    "regionCode": "14",
+    "regionTvd": "100100225883431",
+    "regionName": "Республика Саха (Якутия)",
+    "oikTvd": "100100225883432",
+    "oikName": "Республика Саха (Якутия) – Якутский",
+    "district": {
+      "districtNumber": 24,
+      "oikTvd": "100100225883432"
+    }
   },
   {
     "uikNumber": 53,
     "uikTvd": "4144004251183",
     "tikTvd": "21420001074331",
-    "tikName": "Амгинская"
+    "tikName": "Амгинская",
+    "uikName": "УИК №53",
+    "regionCode": "14",
+    "regionTvd": "100100225883431",
+    "regionName": "Республика Саха (Якутия)",
+    "oikTvd": "100100225883432",
+    "oikName": "Республика Саха (Якутия) – Якутский",
+    "district": {
+      "districtNumber": 24,
+      "oikTvd": "100100225883432"
+    }
   },
   {
     "uikNumber": 54,
     "uikTvd": "4144004251184",
     "tikTvd": "21420001074331",
-    "tikName": "Амгинская"
+    "tikName": "Амгинская",
+    "uikName": "УИК №54",
+    "regionCode": "14",
+    "regionTvd": "100100225883431",
+    "regionName": "Республика Саха (Якутия)",
+    "oikTvd": "100100225883432",
+    "oikName": "Республика Саха (Якутия) – Якутский",
+    "district": {
+      "districtNumber": 24,
+      "oikTvd": "100100225883432"
+    }
   },
   {
     "uikNumber": 55,
     "uikTvd": "4144004251185",
     "tikTvd": "21420001074331",
-    "tikName": "Амгинская"
+    "tikName": "Амгинская",
+    "uikName": "УИК №55",
+    "regionCode": "14",
+    "regionTvd": "100100225883431",
+    "regionName": "Республика Саха (Якутия)",
+    "oikTvd": "100100225883432",
+    "oikName": "Республика Саха (Якутия) – Якутский",
+    "district": {
+      "districtNumber": 24,
+      "oikTvd": "100100225883432"
+    }
   },
   {
     "uikNumber": 56,
     "uikTvd": "4144004251186",
     "tikTvd": "21420001074331",
-    "tikName": "Амгинская"
+    "tikName": "Амгинская",
+    "uikName": "УИК №56",
+    "regionCode": "14",
+    "regionTvd": "100100225883431",
+    "regionName": "Республика Саха (Якутия)",
+    "oikTvd": "100100225883432",
+    "oikName": "Республика Саха (Якутия) – Якутский",
+    "district": {
+      "districtNumber": 24,
+      "oikTvd": "100100225883432"
+    }
   },
   {
     "uikNumber": 57,
     "uikTvd": "4144004251187",
     "tikTvd": "21420001074331",
-    "tikName": "Амгинская"
+    "tikName": "Амгинская",
+    "uikName": "УИК №57",
+    "regionCode": "14",
+    "regionTvd": "100100225883431",
+    "regionName": "Республика Саха (Якутия)",
+    "oikTvd": "100100225883432",
+    "oikName": "Республика Саха (Якутия) – Якутский",
+    "district": {
+      "districtNumber": 24,
+      "oikTvd": "100100225883432"
+    }
   },
   {
     "uikNumber": 58,
     "uikTvd": "4144004251188",
     "tikTvd": "21420001074331",
-    "tikName": "Амгинская"
+    "tikName": "Амгинская",
+    "uikName": "УИК №58",
+    "regionCode": "14",
+    "regionTvd": "100100225883431",
+    "regionName": "Республика Саха (Якутия)",
+    "oikTvd": "100100225883432",
+    "oikName": "Республика Саха (Якутия) – Якутский",
+    "district": {
+      "districtNumber": 24,
+      "oikTvd": "100100225883432"
+    }
   },
   {
     "uikNumber": 59,
     "uikTvd": "4144004251189",
     "tikTvd": "21420001074331",
-    "tikName": "Амгинская"
+    "tikName": "Амгинская",
+    "uikName": "УИК №59",
+    "regionCode": "14",
+    "regionTvd": "100100225883431",
+    "regionName": "Республика Саха (Якутия)",
+    "oikTvd": "100100225883432",
+    "oikName": "Республика Саха (Якутия) – Якутский",
+    "district": {
+      "districtNumber": 24,
+      "oikTvd": "100100225883432"
+    }
   },
   {
     "uikNumber": 60,
     "uikTvd": "4144004251190",
     "tikTvd": "21420001074331",
-    "tikName": "Амгинская"
+    "tikName": "Амгинская",
+    "uikName": "УИК №60",
+    "regionCode": "14",
+    "regionTvd": "100100225883431",
+    "regionName": "Республика Саха (Якутия)",
+    "oikTvd": "100100225883432",
+    "oikName": "Республика Саха (Якутия) – Якутский",
+    "district": {
+      "districtNumber": 24,
+      "oikTvd": "100100225883432"
+    }
   },
   {
     "uikNumber": 61,
     "uikTvd": "4144005138961",
     "tikTvd": "21420001074298",
-    "tikName": "Анабарская"
+    "tikName": "Анабарская",
+    "uikName": "УИК №61",
+    "regionCode": "14",
+    "regionTvd": "100100225883431",
+    "regionName": "Республика Саха (Якутия)",
+    "oikTvd": "100100225883432",
+    "oikName": "Республика Саха (Якутия) – Якутский",
+    "district": {
+      "districtNumber": 24,
+      "oikTvd": "100100225883432"
+    }
   },
   {
     "uikNumber": 62,
     "uikTvd": "4144005138962",
     "tikTvd": "21420001074298",
-    "tikName": "Анабарская"
+    "tikName": "Анабарская",
+    "uikName": "УИК №62",
+    "regionCode": "14",
+    "regionTvd": "100100225883431",
+    "regionName": "Республика Саха (Якутия)",
+    "oikTvd": "100100225883432",
+    "oikName": "Республика Саха (Якутия) – Якутский",
+    "district": {
+      "districtNumber": 24,
+      "oikTvd": "100100225883432"
+    }
   },
   {
     "uikNumber": 63,
     "uikTvd": "4144005138963",
     "tikTvd": "21420001074298",
-    "tikName": "Анабарская"
+    "tikName": "Анабарская",
+    "uikName": "УИК №63",
+    "regionCode": "14",
+    "regionTvd": "100100225883431",
+    "regionName": "Республика Саха (Якутия)",
+    "oikTvd": "100100225883432",
+    "oikName": "Республика Саха (Якутия) – Якутский",
+    "district": {
+      "districtNumber": 24,
+      "oikTvd": "100100225883432"
+    }
   },
   {
     "uikNumber": 64,
     "uikTvd": "4144005138964",
     "tikTvd": "21420001074298",
-    "tikName": "Анабарская"
+    "tikName": "Анабарская",
+    "uikName": "УИК №64",
+    "regionCode": "14",
+    "regionTvd": "100100225883431",
+    "regionName": "Республика Саха (Якутия)",
+    "oikTvd": "100100225883432",
+    "oikName": "Республика Саха (Якутия) – Якутский",
+    "district": {
+      "districtNumber": 24,
+      "oikTvd": "100100225883432"
+    }
   },
   {
     "uikNumber": 65,
     "uikTvd": "4144006203597",
     "tikTvd": "21420001074310",
-    "tikName": "Булунская"
+    "tikName": "Булунская",
+    "uikName": "УИК №65",
+    "regionCode": "14",
+    "regionTvd": "100100225883431",
+    "regionName": "Республика Саха (Якутия)",
+    "oikTvd": "100100225883432",
+    "oikName": "Республика Саха (Якутия) – Якутский",
+    "district": {
+      "districtNumber": 24,
+      "oikTvd": "100100225883432"
+    }
   },
   {
     "uikNumber": 66,
     "uikTvd": "4144006203598",
     "tikTvd": "21420001074310",
-    "tikName": "Булунская"
+    "tikName": "Булунская",
+    "uikName": "УИК №66",
+    "regionCode": "14",
+    "regionTvd": "100100225883431",
+    "regionName": "Республика Саха (Якутия)",
+    "oikTvd": "100100225883432",
+    "oikName": "Республика Саха (Якутия) – Якутский",
+    "district": {
+      "districtNumber": 24,
+      "oikTvd": "100100225883432"
+    }
   },
   {
     "uikNumber": 67,
     "uikTvd": "4144006203599",
     "tikTvd": "21420001074310",
-    "tikName": "Булунская"
+    "tikName": "Булунская",
+    "uikName": "УИК №67",
+    "regionCode": "14",
+    "regionTvd": "100100225883431",
+    "regionName": "Республика Саха (Якутия)",
+    "oikTvd": "100100225883432",
+    "oikName": "Республика Саха (Якутия) – Якутский",
+    "district": {
+      "districtNumber": 24,
+      "oikTvd": "100100225883432"
+    }
   },
   {
     "uikNumber": 68,
     "uikTvd": "4144006203600",
     "tikTvd": "21420001074310",
-    "tikName": "Булунская"
+    "tikName": "Булунская",
+    "uikName": "УИК №68",
+    "regionCode": "14",
+    "regionTvd": "100100225883431",
+    "regionName": "Республика Саха (Якутия)",
+    "oikTvd": "100100225883432",
+    "oikName": "Республика Саха (Якутия) – Якутский",
+    "district": {
+      "districtNumber": 24,
+      "oikTvd": "100100225883432"
+    }
   },
   {
     "uikNumber": 69,
     "uikTvd": "4144006203601",
     "tikTvd": "21420001074310",
-    "tikName": "Булунская"
+    "tikName": "Булунская",
+    "uikName": "УИК №69",
+    "regionCode": "14",
+    "regionTvd": "100100225883431",
+    "regionName": "Республика Саха (Якутия)",
+    "oikTvd": "100100225883432",
+    "oikName": "Республика Саха (Якутия) – Якутский",
+    "district": {
+      "districtNumber": 24,
+      "oikTvd": "100100225883432"
+    }
   },
   {
     "uikNumber": 70,
     "uikTvd": "4144006203602",
     "tikTvd": "21420001074310",
-    "tikName": "Булунская"
+    "tikName": "Булунская",
+    "uikName": "УИК №70",
+    "regionCode": "14",
+    "regionTvd": "100100225883431",
+    "regionName": "Республика Саха (Якутия)",
+    "oikTvd": "100100225883432",
+    "oikName": "Республика Саха (Якутия) – Якутский",
+    "district": {
+      "districtNumber": 24,
+      "oikTvd": "100100225883432"
+    }
   },
   {
     "uikNumber": 71,
     "uikTvd": "4144006203603",
     "tikTvd": "21420001074310",
-    "tikName": "Булунская"
+    "tikName": "Булунская",
+    "uikName": "УИК №71",
+    "regionCode": "14",
+    "regionTvd": "100100225883431",
+    "regionName": "Республика Саха (Якутия)",
+    "oikTvd": "100100225883432",
+    "oikName": "Республика Саха (Якутия) – Якутский",
+    "district": {
+      "districtNumber": 24,
+      "oikTvd": "100100225883432"
+    }
   },
   {
     "uikNumber": 72,
     "uikTvd": "4144006203604",
     "tikTvd": "21420001074310",
-    "tikName": "Булунская"
+    "tikName": "Булунская",
+    "uikName": "УИК №72",
+    "regionCode": "14",
+    "regionTvd": "100100225883431",
+    "regionName": "Республика Саха (Якутия)",
+    "oikTvd": "100100225883432",
+    "oikName": "Республика Саха (Якутия) – Якутский",
+    "district": {
+      "districtNumber": 24,
+      "oikTvd": "100100225883432"
+    }
   },
   {
     "uikNumber": 73,
     "uikTvd": "4144006203605",
     "tikTvd": "21420001074310",
-    "tikName": "Булунская"
+    "tikName": "Булунская",
+    "uikName": "УИК №73",
+    "regionCode": "14",
+    "regionTvd": "100100225883431",
+    "regionName": "Республика Саха (Якутия)",
+    "oikTvd": "100100225883432",
+    "oikName": "Республика Саха (Якутия) – Якутский",
+    "district": {
+      "districtNumber": 24,
+      "oikTvd": "100100225883432"
+    }
   },
   {
     "uikNumber": 74,
     "uikTvd": "4144006203606",
     "tikTvd": "21420001074310",
-    "tikName": "Булунская"
+    "tikName": "Булунская",
+    "uikName": "УИК №74",
+    "regionCode": "14",
+    "regionTvd": "100100225883431",
+    "regionName": "Республика Саха (Якутия)",
+    "oikTvd": "100100225883432",
+    "oikName": "Республика Саха (Якутия) – Якутский",
+    "district": {
+      "districtNumber": 24,
+      "oikTvd": "100100225883432"
+    }
   },
   {
     "uikNumber": 75,
     "uikTvd": "4144007280443",
     "tikTvd": "21420001074346",
-    "tikName": "Верхневилюйская"
+    "tikName": "Верхневилюйская",
+    "uikName": "УИК №75",
+    "regionCode": "14",
+    "regionTvd": "100100225883431",
+    "regionName": "Республика Саха (Якутия)",
+    "oikTvd": "100100225883432",
+    "oikName": "Республика Саха (Якутия) – Якутский",
+    "district": {
+      "districtNumber": 24,
+      "oikTvd": "100100225883432"
+    }
   },
   {
     "uikNumber": 76,
     "uikTvd": "4144007280444",
     "tikTvd": "21420001074346",
-    "tikName": "Верхневилюйская"
+    "tikName": "Верхневилюйская",
+    "uikName": "УИК №76",
+    "regionCode": "14",
+    "regionTvd": "100100225883431",
+    "regionName": "Республика Саха (Якутия)",
+    "oikTvd": "100100225883432",
+    "oikName": "Республика Саха (Якутия) – Якутский",
+    "district": {
+      "districtNumber": 24,
+      "oikTvd": "100100225883432"
+    }
   },
   {
     "uikNumber": 77,
     "uikTvd": "4144007280445",
     "tikTvd": "21420001074346",
-    "tikName": "Верхневилюйская"
+    "tikName": "Верхневилюйская",
+    "uikName": "УИК №77",
+    "regionCode": "14",
+    "regionTvd": "100100225883431",
+    "regionName": "Республика Саха (Якутия)",
+    "oikTvd": "100100225883432",
+    "oikName": "Республика Саха (Якутия) – Якутский",
+    "district": {
+      "districtNumber": 24,
+      "oikTvd": "100100225883432"
+    }
   },
   {
     "uikNumber": 78,
     "uikTvd": "4144007280446",
     "tikTvd": "21420001074346",
-    "tikName": "Верхневилюйская"
+    "tikName": "Верхневилюйская",
+    "uikName": "УИК №78",
+    "regionCode": "14",
+    "regionTvd": "100100225883431",
+    "regionName": "Республика Саха (Якутия)",
+    "oikTvd": "100100225883432",
+    "oikName": "Республика Саха (Якутия) – Якутский",
+    "district": {
+      "districtNumber": 24,
+      "oikTvd": "100100225883432"
+    }
   },
   {
     "uikNumber": 79,
     "uikTvd": "4144007280447",
     "tikTvd": "21420001074346",
-    "tikName": "Верхневилюйская"
+    "tikName": "Верхневилюйская",
+    "uikName": "УИК №79",
+    "regionCode": "14",
+    "regionTvd": "100100225883431",
+    "regionName": "Республика Саха (Якутия)",
+    "oikTvd": "100100225883432",
+    "oikName": "Республика Саха (Якутия) – Якутский",
+    "district": {
+      "districtNumber": 24,
+      "oikTvd": "100100225883432"
+    }
   },
   {
     "uikNumber": 80,
     "uikTvd": "4144007280448",
     "tikTvd": "21420001074346",
-    "tikName": "Верхневилюйская"
+    "tikName": "Верхневилюйская",
+    "uikName": "УИК №80",
+    "regionCode": "14",
+    "regionTvd": "100100225883431",
+    "regionName": "Республика Саха (Якутия)",
+    "oikTvd": "100100225883432",
+    "oikName": "Республика Саха (Якутия) – Якутский",
+    "district": {
+      "districtNumber": 24,
+      "oikTvd": "100100225883432"
+    }
   },
   {
     "uikNumber": 81,
     "uikTvd": "4144007280449",
     "tikTvd": "21420001074346",
-    "tikName": "Верхневилюйская"
+    "tikName": "Верхневилюйская",
+    "uikName": "УИК №81",
+    "regionCode": "14",
+    "regionTvd": "100100225883431",
+    "regionName": "Республика Саха (Якутия)",
+    "oikTvd": "100100225883432",
+    "oikName": "Республика Саха (Якутия) – Якутский",
+    "district": {
+      "districtNumber": 24,
+      "oikTvd": "100100225883432"
+    }
   },
   {
     "uikNumber": 82,
     "uikTvd": "4144007280450",
     "tikTvd": "21420001074346",
-    "tikName": "Верхневилюйская"
+    "tikName": "Верхневилюйская",
+    "uikName": "УИК №82",
+    "regionCode": "14",
+    "regionTvd": "100100225883431",
+    "regionName": "Республика Саха (Якутия)",
+    "oikTvd": "100100225883432",
+    "oikName": "Республика Саха (Якутия) – Якутский",
+    "district": {
+      "districtNumber": 24,
+      "oikTvd": "100100225883432"
+    }
   },
   {
     "uikNumber": 83,
     "uikTvd": "4144007280451",
     "tikTvd": "21420001074346",
-    "tikName": "Верхневилюйская"
+    "tikName": "Верхневилюйская",
+    "uikName": "УИК №83",
+    "regionCode": "14",
+    "regionTvd": "100100225883431",
+    "regionName": "Республика Саха (Якутия)",
+    "oikTvd": "100100225883432",
+    "oikName": "Республика Саха (Якутия) – Якутский",
+    "district": {
+      "districtNumber": 24,
+      "oikTvd": "100100225883432"
+    }
   },
   {
     "uikNumber": 84,
     "uikTvd": "4144007280452",
     "tikTvd": "21420001074346",
-    "tikName": "Верхневилюйская"
+    "tikName": "Верхневилюйская",
+    "uikName": "УИК №84",
+    "regionCode": "14",
+    "regionTvd": "100100225883431",
+    "regionName": "Республика Саха (Якутия)",
+    "oikTvd": "100100225883432",
+    "oikName": "Республика Саха (Якутия) – Якутский",
+    "district": {
+      "districtNumber": 24,
+      "oikTvd": "100100225883432"
+    }
   },
   {
     "uikNumber": 85,
     "uikTvd": "4144007280453",
     "tikTvd": "21420001074346",
-    "tikName": "Верхневилюйская"
+    "tikName": "Верхневилюйская",
+    "uikName": "УИК №85",
+    "regionCode": "14",
+    "regionTvd": "100100225883431",
+    "regionName": "Республика Саха (Якутия)",
+    "oikTvd": "100100225883432",
+    "oikName": "Республика Саха (Якутия) – Якутский",
+    "district": {
+      "districtNumber": 24,
+      "oikTvd": "100100225883432"
+    }
   },
   {
     "uikNumber": 86,
     "uikTvd": "4144007280454",
     "tikTvd": "21420001074346",
-    "tikName": "Верхневилюйская"
+    "tikName": "Верхневилюйская",
+    "uikName": "УИК №86",
+    "regionCode": "14",
+    "regionTvd": "100100225883431",
+    "regionName": "Республика Саха (Якутия)",
+    "oikTvd": "100100225883432",
+    "oikName": "Республика Саха (Якутия) – Якутский",
+    "district": {
+      "districtNumber": 24,
+      "oikTvd": "100100225883432"
+    }
   },
   {
     "uikNumber": 87,
     "uikTvd": "4144007280455",
     "tikTvd": "21420001074346",
-    "tikName": "Верхневилюйская"
+    "tikName": "Верхневилюйская",
+    "uikName": "УИК №87",
+    "regionCode": "14",
+    "regionTvd": "100100225883431",
+    "regionName": "Республика Саха (Якутия)",
+    "oikTvd": "100100225883432",
+    "oikName": "Республика Саха (Якутия) – Якутский",
+    "district": {
+      "districtNumber": 24,
+      "oikTvd": "100100225883432"
+    }
   },
   {
     "uikNumber": 88,
     "uikTvd": "4144007280456",
     "tikTvd": "21420001074346",
-    "tikName": "Верхневилюйская"
+    "tikName": "Верхневилюйская",
+    "uikName": "УИК №88",
+    "regionCode": "14",
+    "regionTvd": "100100225883431",
+    "regionName": "Республика Саха (Якутия)",
+    "oikTvd": "100100225883432",
+    "oikName": "Республика Саха (Якутия) – Якутский",
+    "district": {
+      "districtNumber": 24,
+      "oikTvd": "100100225883432"
+    }
   },
   {
     "uikNumber": 89,
     "uikTvd": "4144007280457",
     "tikTvd": "21420001074346",
-    "tikName": "Верхневилюйская"
+    "tikName": "Верхневилюйская",
+    "uikName": "УИК №89",
+    "regionCode": "14",
+    "regionTvd": "100100225883431",
+    "regionName": "Республика Саха (Якутия)",
+    "oikTvd": "100100225883432",
+    "oikName": "Республика Саха (Якутия) – Якутский",
+    "district": {
+      "districtNumber": 24,
+      "oikTvd": "100100225883432"
+    }
   },
   {
     "uikNumber": 90,
     "uikTvd": "4144007280458",
     "tikTvd": "21420001074346",
-    "tikName": "Верхневилюйская"
+    "tikName": "Верхневилюйская",
+    "uikName": "УИК №90",
+    "regionCode": "14",
+    "regionTvd": "100100225883431",
+    "regionName": "Республика Саха (Якутия)",
+    "oikTvd": "100100225883432",
+    "oikName": "Республика Саха (Якутия) – Якутский",
+    "district": {
+      "districtNumber": 24,
+      "oikTvd": "100100225883432"
+    }
   },
   {
     "uikNumber": 91,
     "uikTvd": "4144007280459",
     "tikTvd": "21420001074346",
-    "tikName": "Верхневилюйская"
+    "tikName": "Верхневилюйская",
+    "uikName": "УИК №91",
+    "regionCode": "14",
+    "regionTvd": "100100225883431",
+    "regionName": "Республика Саха (Якутия)",
+    "oikTvd": "100100225883432",
+    "oikName": "Республика Саха (Якутия) – Якутский",
+    "district": {
+      "districtNumber": 24,
+      "oikTvd": "100100225883432"
+    }
   },
   {
     "uikNumber": 92,
     "uikTvd": "4144007280460",
     "tikTvd": "21420001074346",
-    "tikName": "Верхневилюйская"
+    "tikName": "Верхневилюйская",
+    "uikName": "УИК №92",
+    "regionCode": "14",
+    "regionTvd": "100100225883431",
+    "regionName": "Республика Саха (Якутия)",
+    "oikTvd": "100100225883432",
+    "oikName": "Республика Саха (Якутия) – Якутский",
+    "district": {
+      "districtNumber": 24,
+      "oikTvd": "100100225883432"
+    }
   },
   {
     "uikNumber": 93,
     "uikTvd": "4144007280461",
     "tikTvd": "21420001074346",
-    "tikName": "Верхневилюйская"
+    "tikName": "Верхневилюйская",
+    "uikName": "УИК №93",
+    "regionCode": "14",
+    "regionTvd": "100100225883431",
+    "regionName": "Республика Саха (Якутия)",
+    "oikTvd": "100100225883432",
+    "oikName": "Республика Саха (Якутия) – Якутский",
+    "district": {
+      "districtNumber": 24,
+      "oikTvd": "100100225883432"
+    }
   },
   {
     "uikNumber": 94,
     "uikTvd": "4144007280462",
     "tikTvd": "21420001074346",
-    "tikName": "Верхневилюйская"
+    "tikName": "Верхневилюйская",
+    "uikName": "УИК №94",
+    "regionCode": "14",
+    "regionTvd": "100100225883431",
+    "regionName": "Республика Саха (Якутия)",
+    "oikTvd": "100100225883432",
+    "oikName": "Республика Саха (Якутия) – Якутский",
+    "district": {
+      "districtNumber": 24,
+      "oikTvd": "100100225883432"
+    }
   },
   {
     "uikNumber": 95,
     "uikTvd": "4144007280463",
     "tikTvd": "21420001074346",
-    "tikName": "Верхневилюйская"
+    "tikName": "Верхневилюйская",
+    "uikName": "УИК №95",
+    "regionCode": "14",
+    "regionTvd": "100100225883431",
+    "regionName": "Республика Саха (Якутия)",
+    "oikTvd": "100100225883432",
+    "oikName": "Республика Саха (Якутия) – Якутский",
+    "district": {
+      "districtNumber": 24,
+      "oikTvd": "100100225883432"
+    }
   },
   {
     "uikNumber": 96,
     "uikTvd": "4144007280464",
     "tikTvd": "21420001074346",
-    "tikName": "Верхневилюйская"
+    "tikName": "Верхневилюйская",
+    "uikName": "УИК №96",
+    "regionCode": "14",
+    "regionTvd": "100100225883431",
+    "regionName": "Республика Саха (Якутия)",
+    "oikTvd": "100100225883432",
+    "oikName": "Республика Саха (Якутия) – Якутский",
+    "district": {
+      "districtNumber": 24,
+      "oikTvd": "100100225883432"
+    }
   },
   {
     "uikNumber": 97,
     "uikTvd": "4144007280465",
     "tikTvd": "21420001074346",
-    "tikName": "Верхневилюйская"
+    "tikName": "Верхневилюйская",
+    "uikName": "УИК №97",
+    "regionCode": "14",
+    "regionTvd": "100100225883431",
+    "regionName": "Республика Саха (Якутия)",
+    "oikTvd": "100100225883432",
+    "oikName": "Республика Саха (Якутия) – Якутский",
+    "district": {
+      "districtNumber": 24,
+      "oikTvd": "100100225883432"
+    }
   },
   {
     "uikNumber": 98,
     "uikTvd": "4144007280466",
     "tikTvd": "21420001074346",
-    "tikName": "Верхневилюйская"
+    "tikName": "Верхневилюйская",
+    "uikName": "УИК №98",
+    "regionCode": "14",
+    "regionTvd": "100100225883431",
+    "regionName": "Республика Саха (Якутия)",
+    "oikTvd": "100100225883432",
+    "oikName": "Республика Саха (Якутия) – Якутский",
+    "district": {
+      "districtNumber": 24,
+      "oikTvd": "100100225883432"
+    }
   },
   {
     "uikNumber": 99,
     "uikTvd": "4144007280467",
     "tikTvd": "21420001074346",
-    "tikName": "Верхневилюйская"
+    "tikName": "Верхневилюйская",
+    "uikName": "УИК №99",
+    "regionCode": "14",
+    "regionTvd": "100100225883431",
+    "regionName": "Республика Саха (Якутия)",
+    "oikTvd": "100100225883432",
+    "oikName": "Республика Саха (Якутия) – Якутский",
+    "district": {
+      "districtNumber": 24,
+      "oikTvd": "100100225883432"
+    }
   },
   {
     "uikNumber": 100,
     "uikTvd": "4144007280468",
     "tikTvd": "21420001074346",
-    "tikName": "Верхневилюйская"
+    "tikName": "Верхневилюйская",
+    "uikName": "УИК №100",
+    "regionCode": "14",
+    "regionTvd": "100100225883431",
+    "regionName": "Республика Саха (Якутия)",
+    "oikTvd": "100100225883432",
+    "oikName": "Республика Саха (Якутия) – Якутский",
+    "district": {
+      "districtNumber": 24,
+      "oikTvd": "100100225883432"
+    }
   },
   {
     "uikNumber": 101,
     "uikTvd": "4144007280469",
     "tikTvd": "21420001074346",
-    "tikName": "Верхневилюйская"
+    "tikName": "Верхневилюйская",
+    "uikName": "УИК №101",
+    "regionCode": "14",
+    "regionTvd": "100100225883431",
+    "regionName": "Республика Саха (Якутия)",
+    "oikTvd": "100100225883432",
+    "oikName": "Республика Саха (Якутия) – Якутский",
+    "district": {
+      "districtNumber": 24,
+      "oikTvd": "100100225883432"
+    }
   },
   {
     "uikNumber": 102,
     "uikTvd": "4144007280470",
     "tikTvd": "21420001074346",
-    "tikName": "Верхневилюйская"
+    "tikName": "Верхневилюйская",
+    "uikName": "УИК №102",
+    "regionCode": "14",
+    "regionTvd": "100100225883431",
+    "regionName": "Республика Саха (Якутия)",
+    "oikTvd": "100100225883432",
+    "oikName": "Республика Саха (Якутия) – Якутский",
+    "district": {
+      "districtNumber": 24,
+      "oikTvd": "100100225883432"
+    }
   },
   {
     "uikNumber": 103,
     "uikTvd": "4144007280471",
     "tikTvd": "21420001074346",
-    "tikName": "Верхневилюйская"
+    "tikName": "Верхневилюйская",
+    "uikName": "УИК №103",
+    "regionCode": "14",
+    "regionTvd": "100100225883431",
+    "regionName": "Республика Саха (Якутия)",
+    "oikTvd": "100100225883432",
+    "oikName": "Республика Саха (Якутия) – Якутский",
+    "district": {
+      "districtNumber": 24,
+      "oikTvd": "100100225883432"
+    }
   },
   {
     "uikNumber": 104,
     "uikTvd": "4144007280472",
     "tikTvd": "21420001074346",
-    "tikName": "Верхневилюйская"
+    "tikName": "Верхневилюйская",
+    "uikName": "УИК №104",
+    "regionCode": "14",
+    "regionTvd": "100100225883431",
+    "regionName": "Республика Саха (Якутия)",
+    "oikTvd": "100100225883432",
+    "oikName": "Республика Саха (Якутия) – Якутский",
+    "district": {
+      "districtNumber": 24,
+      "oikTvd": "100100225883432"
+    }
   },
   {
     "uikNumber": 105,
     "uikTvd": "4144007280473",
     "tikTvd": "21420001074346",
-    "tikName": "Верхневилюйская"
+    "tikName": "Верхневилюйская",
+    "uikName": "УИК №105",
+    "regionCode": "14",
+    "regionTvd": "100100225883431",
+    "regionName": "Республика Саха (Якутия)",
+    "oikTvd": "100100225883432",
+    "oikName": "Республика Саха (Якутия) – Якутский",
+    "district": {
+      "districtNumber": 24,
+      "oikTvd": "100100225883432"
+    }
   },
   {
     "uikNumber": 106,
     "uikTvd": "4144007280474",
     "tikTvd": "21420001074346",
-    "tikName": "Верхневилюйская"
+    "tikName": "Верхневилюйская",
+    "uikName": "УИК №106",
+    "regionCode": "14",
+    "regionTvd": "100100225883431",
+    "regionName": "Республика Саха (Якутия)",
+    "oikTvd": "100100225883432",
+    "oikName": "Республика Саха (Якутия) – Якутский",
+    "district": {
+      "districtNumber": 24,
+      "oikTvd": "100100225883432"
+    }
   },
   {
     "uikNumber": 107,
     "uikTvd": "4144007280475",
     "tikTvd": "21420001074346",
-    "tikName": "Верхневилюйская"
+    "tikName": "Верхневилюйская",
+    "uikName": "УИК №107",
+    "regionCode": "14",
+    "regionTvd": "100100225883431",
+    "regionName": "Республика Саха (Якутия)",
+    "oikTvd": "100100225883432",
+    "oikName": "Республика Саха (Якутия) – Якутский",
+    "district": {
+      "districtNumber": 24,
+      "oikTvd": "100100225883432"
+    }
   },
   {
     "uikNumber": 108,
     "uikTvd": "4144007280476",
     "tikTvd": "21420001074346",
-    "tikName": "Верхневилюйская"
+    "tikName": "Верхневилюйская",
+    "uikName": "УИК №108",
+    "regionCode": "14",
+    "regionTvd": "100100225883431",
+    "regionName": "Республика Саха (Якутия)",
+    "oikTvd": "100100225883432",
+    "oikName": "Республика Саха (Якутия) – Якутский",
+    "district": {
+      "districtNumber": 24,
+      "oikTvd": "100100225883432"
+    }
   },
   {
     "uikNumber": 109,
     "uikTvd": "4144008188527",
     "tikTvd": "21420001074300",
-    "tikName": "Верхнеколымская"
+    "tikName": "Верхнеколымская",
+    "uikName": "УИК №109",
+    "regionCode": "14",
+    "regionTvd": "100100225883431",
+    "regionName": "Республика Саха (Якутия)",
+    "oikTvd": "100100225883432",
+    "oikName": "Республика Саха (Якутия) – Якутский",
+    "district": {
+      "districtNumber": 24,
+      "oikTvd": "100100225883432"
+    }
   },
   {
     "uikNumber": 110,
     "uikTvd": "4144008188528",
     "tikTvd": "21420001074300",
-    "tikName": "Верхнеколымская"
+    "tikName": "Верхнеколымская",
+    "uikName": "УИК №110",
+    "regionCode": "14",
+    "regionTvd": "100100225883431",
+    "regionName": "Республика Саха (Якутия)",
+    "oikTvd": "100100225883432",
+    "oikName": "Республика Саха (Якутия) – Якутский",
+    "district": {
+      "districtNumber": 24,
+      "oikTvd": "100100225883432"
+    }
   },
   {
     "uikNumber": 111,
     "uikTvd": "4144008188529",
     "tikTvd": "21420001074300",
-    "tikName": "Верхнеколымская"
+    "tikName": "Верхнеколымская",
+    "uikName": "УИК №111",
+    "regionCode": "14",
+    "regionTvd": "100100225883431",
+    "regionName": "Республика Саха (Якутия)",
+    "oikTvd": "100100225883432",
+    "oikName": "Республика Саха (Якутия) – Якутский",
+    "district": {
+      "districtNumber": 24,
+      "oikTvd": "100100225883432"
+    }
   },
   {
     "uikNumber": 112,
     "uikTvd": "4144008188530",
     "tikTvd": "21420001074300",
-    "tikName": "Верхнеколымская"
+    "tikName": "Верхнеколымская",
+    "uikName": "УИК №112",
+    "regionCode": "14",
+    "regionTvd": "100100225883431",
+    "regionName": "Республика Саха (Якутия)",
+    "oikTvd": "100100225883432",
+    "oikName": "Республика Саха (Якутия) – Якутский",
+    "district": {
+      "districtNumber": 24,
+      "oikTvd": "100100225883432"
+    }
   },
   {
     "uikNumber": 113,
     "uikTvd": "4144008188531",
     "tikTvd": "21420001074300",
-    "tikName": "Верхнеколымская"
+    "tikName": "Верхнеколымская",
+    "uikName": "УИК №113",
+    "regionCode": "14",
+    "regionTvd": "100100225883431",
+    "regionName": "Республика Саха (Якутия)",
+    "oikTvd": "100100225883432",
+    "oikName": "Республика Саха (Якутия) – Якутский",
+    "district": {
+      "districtNumber": 24,
+      "oikTvd": "100100225883432"
+    }
   },
   {
     "uikNumber": 114,
     "uikTvd": "4144008188532",
     "tikTvd": "21420001074300",
-    "tikName": "Верхнеколымская"
+    "tikName": "Верхнеколымская",
+    "uikName": "УИК №114",
+    "regionCode": "14",
+    "regionTvd": "100100225883431",
+    "regionName": "Республика Саха (Якутия)",
+    "oikTvd": "100100225883432",
+    "oikName": "Республика Саха (Якутия) – Якутский",
+    "district": {
+      "districtNumber": 24,
+      "oikTvd": "100100225883432"
+    }
   },
   {
     "uikNumber": 115,
     "uikTvd": "4144008188533",
     "tikTvd": "21420001074300",
-    "tikName": "Верхнеколымская"
+    "tikName": "Верхнеколымская",
+    "uikName": "УИК №115",
+    "regionCode": "14",
+    "regionTvd": "100100225883431",
+    "regionName": "Республика Саха (Якутия)",
+    "oikTvd": "100100225883432",
+    "oikName": "Республика Саха (Якутия) – Якутский",
+    "district": {
+      "districtNumber": 24,
+      "oikTvd": "100100225883432"
+    }
   },
   {
     "uikNumber": 116,
     "uikTvd": "4144008188534",
     "tikTvd": "21420001074300",
-    "tikName": "Верхнеколымская"
+    "tikName": "Верхнеколымская",
+    "uikName": "УИК №116",
+    "regionCode": "14",
+    "regionTvd": "100100225883431",
+    "regionName": "Республика Саха (Якутия)",
+    "oikTvd": "100100225883432",
+    "oikName": "Республика Саха (Якутия) – Якутский",
+    "district": {
+      "districtNumber": 24,
+      "oikTvd": "100100225883432"
+    }
   },
   {
     "uikNumber": 117,
     "uikTvd": "4144008188535",
     "tikTvd": "21420001074300",
-    "tikName": "Верхнеколымская"
+    "tikName": "Верхнеколымская",
+    "uikName": "УИК №117",
+    "regionCode": "14",
+    "regionTvd": "100100225883431",
+    "regionName": "Республика Саха (Якутия)",
+    "oikTvd": "100100225883432",
+    "oikName": "Республика Саха (Якутия) – Якутский",
+    "district": {
+      "districtNumber": 24,
+      "oikTvd": "100100225883432"
+    }
   },
   {
     "uikNumber": 118,
     "uikTvd": "4144009340984",
     "tikTvd": "21420001074351",
-    "tikName": "Верхоянская"
+    "tikName": "Верхоянская",
+    "uikName": "УИК №118",
+    "regionCode": "14",
+    "regionTvd": "100100225883431",
+    "regionName": "Республика Саха (Якутия)",
+    "oikTvd": "100100225883432",
+    "oikName": "Республика Саха (Якутия) – Якутский",
+    "district": {
+      "districtNumber": 24,
+      "oikTvd": "100100225883432"
+    }
   },
   {
     "uikNumber": 119,
     "uikTvd": "4144009340985",
     "tikTvd": "21420001074351",
-    "tikName": "Верхоянская"
+    "tikName": "Верхоянская",
+    "uikName": "УИК №119",
+    "regionCode": "14",
+    "regionTvd": "100100225883431",
+    "regionName": "Республика Саха (Якутия)",
+    "oikTvd": "100100225883432",
+    "oikName": "Республика Саха (Якутия) – Якутский",
+    "district": {
+      "districtNumber": 24,
+      "oikTvd": "100100225883432"
+    }
   },
   {
     "uikNumber": 120,
     "uikTvd": "4144009340986",
     "tikTvd": "21420001074351",
-    "tikName": "Верхоянская"
+    "tikName": "Верхоянская",
+    "uikName": "УИК №120",
+    "regionCode": "14",
+    "regionTvd": "100100225883431",
+    "regionName": "Республика Саха (Якутия)",
+    "oikTvd": "100100225883432",
+    "oikName": "Республика Саха (Якутия) – Якутский",
+    "district": {
+      "districtNumber": 24,
+      "oikTvd": "100100225883432"
+    }
   },
   {
     "uikNumber": 121,
     "uikTvd": "4144009340987",
     "tikTvd": "21420001074351",
-    "tikName": "Верхоянская"
+    "tikName": "Верхоянская",
+    "uikName": "УИК №121",
+    "regionCode": "14",
+    "regionTvd": "100100225883431",
+    "regionName": "Республика Саха (Якутия)",
+    "oikTvd": "100100225883432",
+    "oikName": "Республика Саха (Якутия) – Якутский",
+    "district": {
+      "districtNumber": 24,
+      "oikTvd": "100100225883432"
+    }
   },
   {
     "uikNumber": 122,
     "uikTvd": "4144009340988",
     "tikTvd": "21420001074351",
-    "tikName": "Верхоянская"
+    "tikName": "Верхоянская",
+    "uikName": "УИК №122",
+    "regionCode": "14",
+    "regionTvd": "100100225883431",
+    "regionName": "Республика Саха (Якутия)",
+    "oikTvd": "100100225883432",
+    "oikName": "Республика Саха (Якутия) – Якутский",
+    "district": {
+      "districtNumber": 24,
+      "oikTvd": "100100225883432"
+    }
   },
   {
     "uikNumber": 123,
     "uikTvd": "4144009340989",
     "tikTvd": "21420001074351",
-    "tikName": "Верхоянская"
+    "tikName": "Верхоянская",
+    "uikName": "УИК №123",
+    "regionCode": "14",
+    "regionTvd": "100100225883431",
+    "regionName": "Республика Саха (Якутия)",
+    "oikTvd": "100100225883432",
+    "oikName": "Республика Саха (Якутия) – Якутский",
+    "district": {
+      "districtNumber": 24,
+      "oikTvd": "100100225883432"
+    }
   },
   {
     "uikNumber": 124,
     "uikTvd": "4144009340990",
     "tikTvd": "21420001074351",
-    "tikName": "Верхоянская"
+    "tikName": "Верхоянская",
+    "uikName": "УИК №124",
+    "regionCode": "14",
+    "regionTvd": "100100225883431",
+    "regionName": "Республика Саха (Якутия)",
+    "oikTvd": "100100225883432",
+    "oikName": "Республика Саха (Якутия) – Якутский",
+    "district": {
+      "districtNumber": 24,
+      "oikTvd": "100100225883432"
+    }
   },
   {
     "uikNumber": 125,
     "uikTvd": "4144009340991",
     "tikTvd": "21420001074351",
-    "tikName": "Верхоянская"
+    "tikName": "Верхоянская",
+    "uikName": "УИК №125",
+    "regionCode": "14",
+    "regionTvd": "100100225883431",
+    "regionName": "Республика Саха (Якутия)",
+    "oikTvd": "100100225883432",
+    "oikName": "Республика Саха (Якутия) – Якутский",
+    "district": {
+      "districtNumber": 24,
+      "oikTvd": "100100225883432"
+    }
   },
   {
     "uikNumber": 126,
     "uikTvd": "4144009340992",
     "tikTvd": "21420001074351",
-    "tikName": "Верхоянская"
+    "tikName": "Верхоянская",
+    "uikName": "УИК №126",
+    "regionCode": "14",
+    "regionTvd": "100100225883431",
+    "regionName": "Республика Саха (Якутия)",
+    "oikTvd": "100100225883432",
+    "oikName": "Республика Саха (Якутия) – Якутский",
+    "district": {
+      "districtNumber": 24,
+      "oikTvd": "100100225883432"
+    }
   },
   {
     "uikNumber": 127,
     "uikTvd": "4144009340993",
     "tikTvd": "21420001074351",
-    "tikName": "Верхоянская"
+    "tikName": "Верхоянская",
+    "uikName": "УИК №127",
+    "regionCode": "14",
+    "regionTvd": "100100225883431",
+    "regionName": "Республика Саха (Якутия)",
+    "oikTvd": "100100225883432",
+    "oikName": "Республика Саха (Якутия) – Якутский",
+    "district": {
+      "districtNumber": 24,
+      "oikTvd": "100100225883432"
+    }
   },
   {
     "uikNumber": 128,
     "uikTvd": "4144009340994",
     "tikTvd": "21420001074351",
-    "tikName": "Верхоянская"
+    "tikName": "Верхоянская",
+    "uikName": "УИК №128",
+    "regionCode": "14",
+    "regionTvd": "100100225883431",
+    "regionName": "Республика Саха (Якутия)",
+    "oikTvd": "100100225883432",
+    "oikName": "Республика Саха (Якутия) – Якутский",
+    "district": {
+      "districtNumber": 24,
+      "oikTvd": "100100225883432"
+    }
   },
   {
     "uikNumber": 129,
     "uikTvd": "4144009340995",
     "tikTvd": "21420001074351",
-    "tikName": "Верхоянская"
+    "tikName": "Верхоянская",
+    "uikName": "УИК №129",
+    "regionCode": "14",
+    "regionTvd": "100100225883431",
+    "regionName": "Республика Саха (Якутия)",
+    "oikTvd": "100100225883432",
+    "oikName": "Республика Саха (Якутия) – Якутский",
+    "district": {
+      "districtNumber": 24,
+      "oikTvd": "100100225883432"
+    }
   },
   {
     "uikNumber": 130,
     "uikTvd": "4144009340996",
     "tikTvd": "21420001074351",
-    "tikName": "Верхоянская"
+    "tikName": "Верхоянская",
+    "uikName": "УИК №130",
+    "regionCode": "14",
+    "regionTvd": "100100225883431",
+    "regionName": "Республика Саха (Якутия)",
+    "oikTvd": "100100225883432",
+    "oikName": "Республика Саха (Якутия) – Якутский",
+    "district": {
+      "districtNumber": 24,
+      "oikTvd": "100100225883432"
+    }
   },
   {
     "uikNumber": 131,
     "uikTvd": "4144009340997",
     "tikTvd": "21420001074351",
-    "tikName": "Верхоянская"
+    "tikName": "Верхоянская",
+    "uikName": "УИК №131",
+    "regionCode": "14",
+    "regionTvd": "100100225883431",
+    "regionName": "Республика Саха (Якутия)",
+    "oikTvd": "100100225883432",
+    "oikName": "Республика Саха (Якутия) – Якутский",
+    "district": {
+      "districtNumber": 24,
+      "oikTvd": "100100225883432"
+    }
   },
   {
     "uikNumber": 132,
     "uikTvd": "4144009340998",
     "tikTvd": "21420001074351",
-    "tikName": "Верхоянская"
+    "tikName": "Верхоянская",
+    "uikName": "УИК №132",
+    "regionCode": "14",
+    "regionTvd": "100100225883431",
+    "regionName": "Республика Саха (Якутия)",
+    "oikTvd": "100100225883432",
+    "oikName": "Республика Саха (Якутия) – Якутский",
+    "district": {
+      "districtNumber": 24,
+      "oikTvd": "100100225883432"
+    }
   },
   {
     "uikNumber": 133,
     "uikTvd": "4144009340999",
     "tikTvd": "21420001074351",
-    "tikName": "Верхоянская"
+    "tikName": "Верхоянская",
+    "uikName": "УИК №133",
+    "regionCode": "14",
+    "regionTvd": "100100225883431",
+    "regionName": "Республика Саха (Якутия)",
+    "oikTvd": "100100225883432",
+    "oikName": "Республика Саха (Якутия) – Якутский",
+    "district": {
+      "districtNumber": 24,
+      "oikTvd": "100100225883432"
+    }
   },
   {
     "uikNumber": 134,
     "uikTvd": "4144009341000",
     "tikTvd": "21420001074351",
-    "tikName": "Верхоянская"
+    "tikName": "Верхоянская",
+    "uikName": "УИК №134",
+    "regionCode": "14",
+    "regionTvd": "100100225883431",
+    "regionName": "Республика Саха (Якутия)",
+    "oikTvd": "100100225883432",
+    "oikName": "Республика Саха (Якутия) – Якутский",
+    "district": {
+      "districtNumber": 24,
+      "oikTvd": "100100225883432"
+    }
   },
   {
     "uikNumber": 135,
     "uikTvd": "4144009341001",
     "tikTvd": "21420001074351",
-    "tikName": "Верхоянская"
+    "tikName": "Верхоянская",
+    "uikName": "УИК №135",
+    "regionCode": "14",
+    "regionTvd": "100100225883431",
+    "regionName": "Республика Саха (Якутия)",
+    "oikTvd": "100100225883432",
+    "oikName": "Республика Саха (Якутия) – Якутский",
+    "district": {
+      "districtNumber": 24,
+      "oikTvd": "100100225883432"
+    }
   },
   {
     "uikNumber": 136,
     "uikTvd": "4144009341002",
     "tikTvd": "21420001074351",
-    "tikName": "Верхоянская"
+    "tikName": "Верхоянская",
+    "uikName": "УИК №136",
+    "regionCode": "14",
+    "regionTvd": "100100225883431",
+    "regionName": "Республика Саха (Якутия)",
+    "oikTvd": "100100225883432",
+    "oikName": "Республика Саха (Якутия) – Якутский",
+    "district": {
+      "districtNumber": 24,
+      "oikTvd": "100100225883432"
+    }
   },
   {
     "uikNumber": 137,
     "uikTvd": "4144009341003",
     "tikTvd": "21420001074351",
-    "tikName": "Верхоянская"
+    "tikName": "Верхоянская",
+    "uikName": "УИК №137",
+    "regionCode": "14",
+    "regionTvd": "100100225883431",
+    "regionName": "Республика Саха (Якутия)",
+    "oikTvd": "100100225883432",
+    "oikName": "Республика Саха (Якутия) – Якутский",
+    "district": {
+      "districtNumber": 24,
+      "oikTvd": "100100225883432"
+    }
   },
   {
     "uikNumber": 138,
     "uikTvd": "4144009341004",
     "tikTvd": "21420001074351",
-    "tikName": "Верхоянская"
+    "tikName": "Верхоянская",
+    "uikName": "УИК №138",
+    "regionCode": "14",
+    "regionTvd": "100100225883431",
+    "regionName": "Республика Саха (Якутия)",
+    "oikTvd": "100100225883432",
+    "oikName": "Республика Саха (Якутия) – Якутский",
+    "district": {
+      "districtNumber": 24,
+      "oikTvd": "100100225883432"
+    }
   },
   {
     "uikNumber": 139,
     "uikTvd": "4144009341005",
     "tikTvd": "21420001074351",
-    "tikName": "Верхоянская"
+    "tikName": "Верхоянская",
+    "uikName": "УИК №139",
+    "regionCode": "14",
+    "regionTvd": "100100225883431",
+    "regionName": "Республика Саха (Якутия)",
+    "oikTvd": "100100225883432",
+    "oikName": "Республика Саха (Якутия) – Якутский",
+    "district": {
+      "districtNumber": 24,
+      "oikTvd": "100100225883432"
+    }
   },
   {
     "uikNumber": 140,
     "uikTvd": "4144010313821",
     "tikTvd": "21420001074325",
-    "tikName": "Вилюйская"
+    "tikName": "Вилюйская",
+    "uikName": "УИК №140",
+    "regionCode": "14",
+    "regionTvd": "100100225883431",
+    "regionName": "Республика Саха (Якутия)",
+    "oikTvd": "100100225883432",
+    "oikName": "Республика Саха (Якутия) – Якутский",
+    "district": {
+      "districtNumber": 24,
+      "oikTvd": "100100225883432"
+    }
   },
   {
     "uikNumber": 141,
     "uikTvd": "4144010313822",
     "tikTvd": "21420001074325",
-    "tikName": "Вилюйская"
+    "tikName": "Вилюйская",
+    "uikName": "УИК №141",
+    "regionCode": "14",
+    "regionTvd": "100100225883431",
+    "regionName": "Республика Саха (Якутия)",
+    "oikTvd": "100100225883432",
+    "oikName": "Республика Саха (Якутия) – Якутский",
+    "district": {
+      "districtNumber": 24,
+      "oikTvd": "100100225883432"
+    }
   },
   {
     "uikNumber": 142,
     "uikTvd": "4144010313823",
     "tikTvd": "21420001074325",
-    "tikName": "Вилюйская"
+    "tikName": "Вилюйская",
+    "uikName": "УИК №142",
+    "regionCode": "14",
+    "regionTvd": "100100225883431",
+    "regionName": "Республика Саха (Якутия)",
+    "oikTvd": "100100225883432",
+    "oikName": "Республика Саха (Якутия) – Якутский",
+    "district": {
+      "districtNumber": 24,
+      "oikTvd": "100100225883432"
+    }
   },
   {
     "uikNumber": 143,
     "uikTvd": "4144010313824",
     "tikTvd": "21420001074325",
-    "tikName": "Вилюйская"
+    "tikName": "Вилюйская",
+    "uikName": "УИК №143",
+    "regionCode": "14",
+    "regionTvd": "100100225883431",
+    "regionName": "Республика Саха (Якутия)",
+    "oikTvd": "100100225883432",
+    "oikName": "Республика Саха (Якутия) – Якутский",
+    "district": {
+      "districtNumber": 24,
+      "oikTvd": "100100225883432"
+    }
   },
   {
     "uikNumber": 144,
     "uikTvd": "4144010313825",
     "tikTvd": "21420001074325",
-    "tikName": "Вилюйская"
+    "tikName": "Вилюйская",
+    "uikName": "УИК №144",
+    "regionCode": "14",
+    "regionTvd": "100100225883431",
+    "regionName": "Республика Саха (Якутия)",
+    "oikTvd": "100100225883432",
+    "oikName": "Республика Саха (Якутия) – Якутский",
+    "district": {
+      "districtNumber": 24,
+      "oikTvd": "100100225883432"
+    }
   },
   {
     "uikNumber": 145,
     "uikTvd": "4144010313826",
     "tikTvd": "21420001074325",
-    "tikName": "Вилюйская"
+    "tikName": "Вилюйская",
+    "uikName": "УИК №145",
+    "regionCode": "14",
+    "regionTvd": "100100225883431",
+    "regionName": "Республика Саха (Якутия)",
+    "oikTvd": "100100225883432",
+    "oikName": "Республика Саха (Якутия) – Якутский",
+    "district": {
+      "districtNumber": 24,
+      "oikTvd": "100100225883432"
+    }
   },
   {
     "uikNumber": 146,
     "uikTvd": "4144010313827",
     "tikTvd": "21420001074325",
-    "tikName": "Вилюйская"
+    "tikName": "Вилюйская",
+    "uikName": "УИК №146",
+    "regionCode": "14",
+    "regionTvd": "100100225883431",
+    "regionName": "Республика Саха (Якутия)",
+    "oikTvd": "100100225883432",
+    "oikName": "Республика Саха (Якутия) – Якутский",
+    "district": {
+      "districtNumber": 24,
+      "oikTvd": "100100225883432"
+    }
   },
   {
     "uikNumber": 147,
     "uikTvd": "4144010313828",
     "tikTvd": "21420001074325",
-    "tikName": "Вилюйская"
+    "tikName": "Вилюйская",
+    "uikName": "УИК №147",
+    "regionCode": "14",
+    "regionTvd": "100100225883431",
+    "regionName": "Республика Саха (Якутия)",
+    "oikTvd": "100100225883432",
+    "oikName": "Республика Саха (Якутия) – Якутский",
+    "district": {
+      "districtNumber": 24,
+      "oikTvd": "100100225883432"
+    }
   },
   {
     "uikNumber": 148,
     "uikTvd": "4144010313829",
     "tikTvd": "21420001074325",
-    "tikName": "Вилюйская"
+    "tikName": "Вилюйская",
+    "uikName": "УИК №148",
+    "regionCode": "14",
+    "regionTvd": "100100225883431",
+    "regionName": "Республика Саха (Якутия)",
+    "oikTvd": "100100225883432",
+    "oikName": "Республика Саха (Якутия) – Якутский",
+    "district": {
+      "districtNumber": 24,
+      "oikTvd": "100100225883432"
+    }
   },
   {
     "uikNumber": 149,
     "uikTvd": "4144010313830",
     "tikTvd": "21420001074325",
-    "tikName": "Вилюйская"
+    "tikName": "Вилюйская",
+    "uikName": "УИК №149",
+    "regionCode": "14",
+    "regionTvd": "100100225883431",
+    "regionName": "Республика Саха (Якутия)",
+    "oikTvd": "100100225883432",
+    "oikName": "Республика Саха (Якутия) – Якутский",
+    "district": {
+      "districtNumber": 24,
+      "oikTvd": "100100225883432"
+    }
   },
   {
     "uikNumber": 150,
     "uikTvd": "4144010313831",
     "tikTvd": "21420001074325",
-    "tikName": "Вилюйская"
+    "tikName": "Вилюйская",
+    "uikName": "УИК №150",
+    "regionCode": "14",
+    "regionTvd": "100100225883431",
+    "regionName": "Республика Саха (Якутия)",
+    "oikTvd": "100100225883432",
+    "oikName": "Республика Саха (Якутия) – Якутский",
+    "district": {
+      "districtNumber": 24,
+      "oikTvd": "100100225883432"
+    }
   },
   {
     "uikNumber": 151,
     "uikTvd": "4144010313832",
     "tikTvd": "21420001074325",
-    "tikName": "Вилюйская"
+    "tikName": "Вилюйская",
+    "uikName": "УИК №151",
+    "regionCode": "14",
+    "regionTvd": "100100225883431",
+    "regionName": "Республика Саха (Якутия)",
+    "oikTvd": "100100225883432",
+    "oikName": "Республика Саха (Якутия) – Якутский",
+    "district": {
+      "districtNumber": 24,
+      "oikTvd": "100100225883432"
+    }
   },
   {
     "uikNumber": 152,
     "uikTvd": "4144010313833",
     "tikTvd": "21420001074325",
-    "tikName": "Вилюйская"
+    "tikName": "Вилюйская",
+    "uikName": "УИК №152",
+    "regionCode": "14",
+    "regionTvd": "100100225883431",
+    "regionName": "Республика Саха (Якутия)",
+    "oikTvd": "100100225883432",
+    "oikName": "Республика Саха (Якутия) – Якутский",
+    "district": {
+      "districtNumber": 24,
+      "oikTvd": "100100225883432"
+    }
   },
   {
     "uikNumber": 153,
     "uikTvd": "4144010313834",
     "tikTvd": "21420001074325",
-    "tikName": "Вилюйская"
+    "tikName": "Вилюйская",
+    "uikName": "УИК №153",
+    "regionCode": "14",
+    "regionTvd": "100100225883431",
+    "regionName": "Республика Саха (Якутия)",
+    "oikTvd": "100100225883432",
+    "oikName": "Республика Саха (Якутия) – Якутский",
+    "district": {
+      "districtNumber": 24,
+      "oikTvd": "100100225883432"
+    }
   },
   {
     "uikNumber": 154,
     "uikTvd": "4144010313835",
     "tikTvd": "21420001074325",
-    "tikName": "Вилюйская"
+    "tikName": "Вилюйская",
+    "uikName": "УИК №154",
+    "regionCode": "14",
+    "regionTvd": "100100225883431",
+    "regionName": "Республика Саха (Якутия)",
+    "oikTvd": "100100225883432",
+    "oikName": "Республика Саха (Якутия) – Якутский",
+    "district": {
+      "districtNumber": 24,
+      "oikTvd": "100100225883432"
+    }
   },
   {
     "uikNumber": 155,
     "uikTvd": "4144010313836",
     "tikTvd": "21420001074325",
-    "tikName": "Вилюйская"
+    "tikName": "Вилюйская",
+    "uikName": "УИК №155",
+    "regionCode": "14",
+    "regionTvd": "100100225883431",
+    "regionName": "Республика Саха (Якутия)",
+    "oikTvd": "100100225883432",
+    "oikName": "Республика Саха (Якутия) – Якутский",
+    "district": {
+      "districtNumber": 24,
+      "oikTvd": "100100225883432"
+    }
   },
   {
     "uikNumber": 156,
     "uikTvd": "4144010313837",
     "tikTvd": "21420001074325",
-    "tikName": "Вилюйская"
+    "tikName": "Вилюйская",
+    "uikName": "УИК №156",
+    "regionCode": "14",
+    "regionTvd": "100100225883431",
+    "regionName": "Республика Саха (Якутия)",
+    "oikTvd": "100100225883432",
+    "oikName": "Республика Саха (Якутия) – Якутский",
+    "district": {
+      "districtNumber": 24,
+      "oikTvd": "100100225883432"
+    }
   },
   {
     "uikNumber": 157,
     "uikTvd": "4144010313838",
     "tikTvd": "21420001074325",
-    "tikName": "Вилюйская"
+    "tikName": "Вилюйская",
+    "uikName": "УИК №157",
+    "regionCode": "14",
+    "regionTvd": "100100225883431",
+    "regionName": "Республика Саха (Якутия)",
+    "oikTvd": "100100225883432",
+    "oikName": "Республика Саха (Якутия) – Якутский",
+    "district": {
+      "districtNumber": 24,
+      "oikTvd": "100100225883432"
+    }
   },
   {
     "uikNumber": 158,
     "uikTvd": "4144010313839",
     "tikTvd": "21420001074325",
-    "tikName": "Вилюйская"
+    "tikName": "Вилюйская",
+    "uikName": "УИК №158",
+    "regionCode": "14",
+    "regionTvd": "100100225883431",
+    "regionName": "Республика Саха (Якутия)",
+    "oikTvd": "100100225883432",
+    "oikName": "Республика Саха (Якутия) – Якутский",
+    "district": {
+      "districtNumber": 24,
+      "oikTvd": "100100225883432"
+    }
   },
   {
     "uikNumber": 159,
     "uikTvd": "4144010313840",
     "tikTvd": "21420001074325",
-    "tikName": "Вилюйская"
+    "tikName": "Вилюйская",
+    "uikName": "УИК №159",
+    "regionCode": "14",
+    "regionTvd": "100100225883431",
+    "regionName": "Республика Саха (Якутия)",
+    "oikTvd": "100100225883432",
+    "oikName": "Республика Саха (Якутия) – Якутский",
+    "district": {
+      "districtNumber": 24,
+      "oikTvd": "100100225883432"
+    }
   },
   {
     "uikNumber": 160,
     "uikTvd": "4144010313841",
     "tikTvd": "21420001074325",
-    "tikName": "Вилюйская"
+    "tikName": "Вилюйская",
+    "uikName": "УИК №160",
+    "regionCode": "14",
+    "regionTvd": "100100225883431",
+    "regionName": "Республика Саха (Якутия)",
+    "oikTvd": "100100225883432",
+    "oikName": "Республика Саха (Якутия) – Якутский",
+    "district": {
+      "districtNumber": 24,
+      "oikTvd": "100100225883432"
+    }
   },
   {
     "uikNumber": 161,
     "uikTvd": "4144010313842",
     "tikTvd": "21420001074325",
-    "tikName": "Вилюйская"
+    "tikName": "Вилюйская",
+    "uikName": "УИК №161",
+    "regionCode": "14",
+    "regionTvd": "100100225883431",
+    "regionName": "Республика Саха (Якутия)",
+    "oikTvd": "100100225883432",
+    "oikName": "Республика Саха (Якутия) – Якутский",
+    "district": {
+      "districtNumber": 24,
+      "oikTvd": "100100225883432"
+    }
   },
   {
     "uikNumber": 162,
     "uikTvd": "4144010313843",
     "tikTvd": "21420001074325",
-    "tikName": "Вилюйская"
+    "tikName": "Вилюйская",
+    "uikName": "УИК №162",
+    "regionCode": "14",
+    "regionTvd": "100100225883431",
+    "regionName": "Республика Саха (Якутия)",
+    "oikTvd": "100100225883432",
+    "oikName": "Республика Саха (Якутия) – Якутский",
+    "district": {
+      "districtNumber": 24,
+      "oikTvd": "100100225883432"
+    }
   },
   {
     "uikNumber": 163,
     "uikTvd": "4144010313844",
     "tikTvd": "21420001074325",
-    "tikName": "Вилюйская"
+    "tikName": "Вилюйская",
+    "uikName": "УИК №163",
+    "regionCode": "14",
+    "regionTvd": "100100225883431",
+    "regionName": "Республика Саха (Якутия)",
+    "oikTvd": "100100225883432",
+    "oikName": "Республика Саха (Якутия) – Якутский",
+    "district": {
+      "districtNumber": 24,
+      "oikTvd": "100100225883432"
+    }
   },
   {
     "uikNumber": 164,
     "uikTvd": "4144010313845",
     "tikTvd": "21420001074325",
-    "tikName": "Вилюйская"
+    "tikName": "Вилюйская",
+    "uikName": "УИК №164",
+    "regionCode": "14",
+    "regionTvd": "100100225883431",
+    "regionName": "Республика Саха (Якутия)",
+    "oikTvd": "100100225883432",
+    "oikName": "Республика Саха (Якутия) – Якутский",
+    "district": {
+      "districtNumber": 24,
+      "oikTvd": "100100225883432"
+    }
   },
   {
     "uikNumber": 165,
     "uikTvd": "4144010313846",
     "tikTvd": "21420001074325",
-    "tikName": "Вилюйская"
+    "tikName": "Вилюйская",
+    "uikName": "УИК №165",
+    "regionCode": "14",
+    "regionTvd": "100100225883431",
+    "regionName": "Республика Саха (Якутия)",
+    "oikTvd": "100100225883432",
+    "oikName": "Республика Саха (Якутия) – Якутский",
+    "district": {
+      "districtNumber": 24,
+      "oikTvd": "100100225883432"
+    }
   },
   {
     "uikNumber": 166,
     "uikTvd": "4144010313847",
     "tikTvd": "21420001074325",
-    "tikName": "Вилюйская"
+    "tikName": "Вилюйская",
+    "uikName": "УИК №166",
+    "regionCode": "14",
+    "regionTvd": "100100225883431",
+    "regionName": "Республика Саха (Якутия)",
+    "oikTvd": "100100225883432",
+    "oikName": "Республика Саха (Якутия) – Якутский",
+    "district": {
+      "districtNumber": 24,
+      "oikTvd": "100100225883432"
+    }
   },
   {
     "uikNumber": 167,
     "uikTvd": "4144010313848",
     "tikTvd": "21420001074325",
-    "tikName": "Вилюйская"
+    "tikName": "Вилюйская",
+    "uikName": "УИК №167",
+    "regionCode": "14",
+    "regionTvd": "100100225883431",
+    "regionName": "Республика Саха (Якутия)",
+    "oikTvd": "100100225883432",
+    "oikName": "Республика Саха (Якутия) – Якутский",
+    "district": {
+      "districtNumber": 24,
+      "oikTvd": "100100225883432"
+    }
   },
   {
     "uikNumber": 168,
     "uikTvd": "4144010313849",
     "tikTvd": "21420001074325",
-    "tikName": "Вилюйская"
+    "tikName": "Вилюйская",
+    "uikName": "УИК №168",
+    "regionCode": "14",
+    "regionTvd": "100100225883431",
+    "regionName": "Республика Саха (Якутия)",
+    "oikTvd": "100100225883432",
+    "oikName": "Республика Саха (Якутия) – Якутский",
+    "district": {
+      "districtNumber": 24,
+      "oikTvd": "100100225883432"
+    }
   },
   {
     "uikNumber": 169,
     "uikTvd": "4144010313850",
     "tikTvd": "21420001074325",
-    "tikName": "Вилюйская"
+    "tikName": "Вилюйская",
+    "uikName": "УИК №169",
+    "regionCode": "14",
+    "regionTvd": "100100225883431",
+    "regionName": "Республика Саха (Якутия)",
+    "oikTvd": "100100225883432",
+    "oikName": "Республика Саха (Якутия) – Якутский",
+    "district": {
+      "districtNumber": 24,
+      "oikTvd": "100100225883432"
+    }
   },
   {
     "uikNumber": 170,
     "uikTvd": "4144010313851",
     "tikTvd": "21420001074325",
-    "tikName": "Вилюйская"
+    "tikName": "Вилюйская",
+    "uikName": "УИК №170",
+    "regionCode": "14",
+    "regionTvd": "100100225883431",
+    "regionName": "Республика Саха (Якутия)",
+    "oikTvd": "100100225883432",
+    "oikName": "Республика Саха (Якутия) – Якутский",
+    "district": {
+      "districtNumber": 24,
+      "oikTvd": "100100225883432"
+    }
   },
   {
     "uikNumber": 171,
     "uikTvd": "4144010313852",
     "tikTvd": "21420001074325",
-    "tikName": "Вилюйская"
+    "tikName": "Вилюйская",
+    "uikName": "УИК №171",
+    "regionCode": "14",
+    "regionTvd": "100100225883431",
+    "regionName": "Республика Саха (Якутия)",
+    "oikTvd": "100100225883432",
+    "oikName": "Республика Саха (Якутия) – Якутский",
+    "district": {
+      "districtNumber": 24,
+      "oikTvd": "100100225883432"
+    }
   },
   {
     "uikNumber": 172,
     "uikTvd": "4144010313853",
     "tikTvd": "21420001074325",
-    "tikName": "Вилюйская"
+    "tikName": "Вилюйская",
+    "uikName": "УИК №172",
+    "regionCode": "14",
+    "regionTvd": "100100225883431",
+    "regionName": "Республика Саха (Якутия)",
+    "oikTvd": "100100225883432",
+    "oikName": "Республика Саха (Якутия) – Якутский",
+    "district": {
+      "districtNumber": 24,
+      "oikTvd": "100100225883432"
+    }
   },
   {
     "uikNumber": 173,
     "uikTvd": "4144010313854",
     "tikTvd": "21420001074325",
-    "tikName": "Вилюйская"
+    "tikName": "Вилюйская",
+    "uikName": "УИК №173",
+    "regionCode": "14",
+    "regionTvd": "100100225883431",
+    "regionName": "Республика Саха (Якутия)",
+    "oikTvd": "100100225883432",
+    "oikName": "Республика Саха (Якутия) – Якутский",
+    "district": {
+      "districtNumber": 24,
+      "oikTvd": "100100225883432"
+    }
   },
   {
     "uikNumber": 174,
     "uikTvd": "4144011301085",
     "tikTvd": "21420001074311",
-    "tikName": "Горная"
+    "tikName": "Горная",
+    "uikName": "УИК №174",
+    "regionCode": "14",
+    "regionTvd": "100100225883431",
+    "regionName": "Республика Саха (Якутия)",
+    "oikTvd": "100100225883432",
+    "oikName": "Республика Саха (Якутия) – Якутский",
+    "district": {
+      "districtNumber": 24,
+      "oikTvd": "100100225883432"
+    }
   },
   {
     "uikNumber": 175,
     "uikTvd": "4144011301086",
     "tikTvd": "21420001074311",
-    "tikName": "Горная"
+    "tikName": "Горная",
+    "uikName": "УИК №175",
+    "regionCode": "14",
+    "regionTvd": "100100225883431",
+    "regionName": "Республика Саха (Якутия)",
+    "oikTvd": "100100225883432",
+    "oikName": "Республика Саха (Якутия) – Якутский",
+    "district": {
+      "districtNumber": 24,
+      "oikTvd": "100100225883432"
+    }
   },
   {
     "uikNumber": 176,
     "uikTvd": "4144011301087",
     "tikTvd": "21420001074311",
-    "tikName": "Горная"
+    "tikName": "Горная",
+    "uikName": "УИК №176",
+    "regionCode": "14",
+    "regionTvd": "100100225883431",
+    "regionName": "Республика Саха (Якутия)",
+    "oikTvd": "100100225883432",
+    "oikName": "Республика Саха (Якутия) – Якутский",
+    "district": {
+      "districtNumber": 24,
+      "oikTvd": "100100225883432"
+    }
   },
   {
     "uikNumber": 177,
     "uikTvd": "4144011301088",
     "tikTvd": "21420001074311",
-    "tikName": "Горная"
+    "tikName": "Горная",
+    "uikName": "УИК №177",
+    "regionCode": "14",
+    "regionTvd": "100100225883431",
+    "regionName": "Республика Саха (Якутия)",
+    "oikTvd": "100100225883432",
+    "oikName": "Республика Саха (Якутия) – Якутский",
+    "district": {
+      "districtNumber": 24,
+      "oikTvd": "100100225883432"
+    }
   },
   {
     "uikNumber": 178,
     "uikTvd": "4144011301089",
     "tikTvd": "21420001074311",
-    "tikName": "Горная"
+    "tikName": "Горная",
+    "uikName": "УИК №178",
+    "regionCode": "14",
+    "regionTvd": "100100225883431",
+    "regionName": "Республика Саха (Якутия)",
+    "oikTvd": "100100225883432",
+    "oikName": "Республика Саха (Якутия) – Якутский",
+    "district": {
+      "districtNumber": 24,
+      "oikTvd": "100100225883432"
+    }
   },
   {
     "uikNumber": 179,
     "uikTvd": "4144011301090",
     "tikTvd": "21420001074311",
-    "tikName": "Горная"
+    "tikName": "Горная",
+    "uikName": "УИК №179",
+    "regionCode": "14",
+    "regionTvd": "100100225883431",
+    "regionName": "Республика Саха (Якутия)",
+    "oikTvd": "100100225883432",
+    "oikName": "Республика Саха (Якутия) – Якутский",
+    "district": {
+      "districtNumber": 24,
+      "oikTvd": "100100225883432"
+    }
   },
   {
     "uikNumber": 180,
     "uikTvd": "4144011301091",
     "tikTvd": "21420001074311",
-    "tikName": "Горная"
+    "tikName": "Горная",
+    "uikName": "УИК №180",
+    "regionCode": "14",
+    "regionTvd": "100100225883431",
+    "regionName": "Республика Саха (Якутия)",
+    "oikTvd": "100100225883432",
+    "oikName": "Республика Саха (Якутия) – Якутский",
+    "district": {
+      "districtNumber": 24,
+      "oikTvd": "100100225883432"
+    }
   },
   {
     "uikNumber": 181,
     "uikTvd": "4144011301092",
     "tikTvd": "21420001074311",
-    "tikName": "Горная"
+    "tikName": "Горная",
+    "uikName": "УИК №181",
+    "regionCode": "14",
+    "regionTvd": "100100225883431",
+    "regionName": "Республика Саха (Якутия)",
+    "oikTvd": "100100225883432",
+    "oikName": "Республика Саха (Якутия) – Якутский",
+    "district": {
+      "districtNumber": 24,
+      "oikTvd": "100100225883432"
+    }
   },
   {
     "uikNumber": 182,
     "uikTvd": "4144011301093",
     "tikTvd": "21420001074311",
-    "tikName": "Горная"
+    "tikName": "Горная",
+    "uikName": "УИК №182",
+    "regionCode": "14",
+    "regionTvd": "100100225883431",
+    "regionName": "Республика Саха (Якутия)",
+    "oikTvd": "100100225883432",
+    "oikName": "Республика Саха (Якутия) – Якутский",
+    "district": {
+      "districtNumber": 24,
+      "oikTvd": "100100225883432"
+    }
   },
   {
     "uikNumber": 183,
     "uikTvd": "4144011301094",
     "tikTvd": "21420001074311",
-    "tikName": "Горная"
+    "tikName": "Горная",
+    "uikName": "УИК №183",
+    "regionCode": "14",
+    "regionTvd": "100100225883431",
+    "regionName": "Республика Саха (Якутия)",
+    "oikTvd": "100100225883432",
+    "oikName": "Республика Саха (Якутия) – Якутский",
+    "district": {
+      "districtNumber": 24,
+      "oikTvd": "100100225883432"
+    }
   },
   {
     "uikNumber": 184,
     "uikTvd": "4144011301095",
     "tikTvd": "21420001074311",
-    "tikName": "Горная"
+    "tikName": "Горная",
+    "uikName": "УИК №184",
+    "regionCode": "14",
+    "regionTvd": "100100225883431",
+    "regionName": "Республика Саха (Якутия)",
+    "oikTvd": "100100225883432",
+    "oikName": "Республика Саха (Якутия) – Якутский",
+    "district": {
+      "districtNumber": 24,
+      "oikTvd": "100100225883432"
+    }
   },
   {
     "uikNumber": 185,
     "uikTvd": "4144012157592",
     "tikTvd": "21420001074341",
-    "tikName": "Жиганская"
+    "tikName": "Жиганская",
+    "uikName": "УИК №185",
+    "regionCode": "14",
+    "regionTvd": "100100225883431",
+    "regionName": "Республика Саха (Якутия)",
+    "oikTvd": "100100225883432",
+    "oikName": "Республика Саха (Якутия) – Якутский",
+    "district": {
+      "districtNumber": 24,
+      "oikTvd": "100100225883432"
+    }
   },
   {
     "uikNumber": 186,
     "uikTvd": "4144012157593",
     "tikTvd": "21420001074341",
-    "tikName": "Жиганская"
+    "tikName": "Жиганская",
+    "uikName": "УИК №186",
+    "regionCode": "14",
+    "regionTvd": "100100225883431",
+    "regionName": "Республика Саха (Якутия)",
+    "oikTvd": "100100225883432",
+    "oikName": "Республика Саха (Якутия) – Якутский",
+    "district": {
+      "districtNumber": 24,
+      "oikTvd": "100100225883432"
+    }
   },
   {
     "uikNumber": 187,
     "uikTvd": "4144012157594",
     "tikTvd": "21420001074341",
-    "tikName": "Жиганская"
+    "tikName": "Жиганская",
+    "uikName": "УИК №187",
+    "regionCode": "14",
+    "regionTvd": "100100225883431",
+    "regionName": "Республика Саха (Якутия)",
+    "oikTvd": "100100225883432",
+    "oikName": "Республика Саха (Якутия) – Якутский",
+    "district": {
+      "districtNumber": 24,
+      "oikTvd": "100100225883432"
+    }
   },
   {
     "uikNumber": 188,
     "uikTvd": "4144012157595",
     "tikTvd": "21420001074341",
-    "tikName": "Жиганская"
+    "tikName": "Жиганская",
+    "uikName": "УИК №188",
+    "regionCode": "14",
+    "regionTvd": "100100225883431",
+    "regionName": "Республика Саха (Якутия)",
+    "oikTvd": "100100225883432",
+    "oikName": "Республика Саха (Якутия) – Якутский",
+    "district": {
+      "districtNumber": 24,
+      "oikTvd": "100100225883432"
+    }
   },
   {
     "uikNumber": 189,
     "uikTvd": "4144012157596",
     "tikTvd": "21420001074341",
-    "tikName": "Жиганская"
+    "tikName": "Жиганская",
+    "uikName": "УИК №189",
+    "regionCode": "14",
+    "regionTvd": "100100225883431",
+    "regionName": "Республика Саха (Якутия)",
+    "oikTvd": "100100225883432",
+    "oikName": "Республика Саха (Якутия) – Якутский",
+    "district": {
+      "districtNumber": 24,
+      "oikTvd": "100100225883432"
+    }
   },
   {
     "uikNumber": 190,
     "uikTvd": "4144013234503",
     "tikTvd": "21420001074306",
-    "tikName": "Кобяйская"
+    "tikName": "Кобяйская",
+    "uikName": "УИК №190",
+    "regionCode": "14",
+    "regionTvd": "100100225883431",
+    "regionName": "Республика Саха (Якутия)",
+    "oikTvd": "100100225883432",
+    "oikName": "Республика Саха (Якутия) – Якутский",
+    "district": {
+      "districtNumber": 24,
+      "oikTvd": "100100225883432"
+    }
   },
   {
     "uikNumber": 193,
     "uikTvd": "4144013234504",
     "tikTvd": "21420001074306",
-    "tikName": "Кобяйская"
+    "tikName": "Кобяйская",
+    "uikName": "УИК №193",
+    "regionCode": "14",
+    "regionTvd": "100100225883431",
+    "regionName": "Республика Саха (Якутия)",
+    "oikTvd": "100100225883432",
+    "oikName": "Республика Саха (Якутия) – Якутский",
+    "district": {
+      "districtNumber": 24,
+      "oikTvd": "100100225883432"
+    }
   },
   {
     "uikNumber": 195,
     "uikTvd": "4144013234505",
     "tikTvd": "21420001074306",
-    "tikName": "Кобяйская"
+    "tikName": "Кобяйская",
+    "uikName": "УИК №195",
+    "regionCode": "14",
+    "regionTvd": "100100225883431",
+    "regionName": "Республика Саха (Якутия)",
+    "oikTvd": "100100225883432",
+    "oikName": "Республика Саха (Якутия) – Якутский",
+    "district": {
+      "districtNumber": 24,
+      "oikTvd": "100100225883432"
+    }
   },
   {
     "uikNumber": 196,
     "uikTvd": "4144013234506",
     "tikTvd": "21420001074306",
-    "tikName": "Кобяйская"
+    "tikName": "Кобяйская",
+    "uikName": "УИК №196",
+    "regionCode": "14",
+    "regionTvd": "100100225883431",
+    "regionName": "Республика Саха (Якутия)",
+    "oikTvd": "100100225883432",
+    "oikName": "Республика Саха (Якутия) – Якутский",
+    "district": {
+      "districtNumber": 24,
+      "oikTvd": "100100225883432"
+    }
   },
   {
     "uikNumber": 197,
     "uikTvd": "4144013234507",
     "tikTvd": "21420001074306",
-    "tikName": "Кобяйская"
+    "tikName": "Кобяйская",
+    "uikName": "УИК №197",
+    "regionCode": "14",
+    "regionTvd": "100100225883431",
+    "regionName": "Республика Саха (Якутия)",
+    "oikTvd": "100100225883432",
+    "oikName": "Республика Саха (Якутия) – Якутский",
+    "district": {
+      "districtNumber": 24,
+      "oikTvd": "100100225883432"
+    }
   },
   {
     "uikNumber": 199,
     "uikTvd": "4144013234508",
     "tikTvd": "21420001074306",
-    "tikName": "Кобяйская"
+    "tikName": "Кобяйская",
+    "uikName": "УИК №199",
+    "regionCode": "14",
+    "regionTvd": "100100225883431",
+    "regionName": "Республика Саха (Якутия)",
+    "oikTvd": "100100225883432",
+    "oikName": "Республика Саха (Якутия) – Якутский",
+    "district": {
+      "districtNumber": 24,
+      "oikTvd": "100100225883432"
+    }
   },
   {
     "uikNumber": 200,
     "uikTvd": "4144013234509",
     "tikTvd": "21420001074306",
-    "tikName": "Кобяйская"
+    "tikName": "Кобяйская",
+    "uikName": "УИК №200",
+    "regionCode": "14",
+    "regionTvd": "100100225883431",
+    "regionName": "Республика Саха (Якутия)",
+    "oikTvd": "100100225883432",
+    "oikName": "Республика Саха (Якутия) – Якутский",
+    "district": {
+      "districtNumber": 24,
+      "oikTvd": "100100225883432"
+    }
   },
   {
     "uikNumber": 201,
     "uikTvd": "4144013234510",
     "tikTvd": "21420001074306",
-    "tikName": "Кобяйская"
+    "tikName": "Кобяйская",
+    "uikName": "УИК №201",
+    "regionCode": "14",
+    "regionTvd": "100100225883431",
+    "regionName": "Республика Саха (Якутия)",
+    "oikTvd": "100100225883432",
+    "oikName": "Республика Саха (Якутия) – Якутский",
+    "district": {
+      "districtNumber": 24,
+      "oikTvd": "100100225883432"
+    }
   },
   {
     "uikNumber": 202,
     "uikTvd": "4144013234511",
     "tikTvd": "21420001074306",
-    "tikName": "Кобяйская"
+    "tikName": "Кобяйская",
+    "uikName": "УИК №202",
+    "regionCode": "14",
+    "regionTvd": "100100225883431",
+    "regionName": "Республика Саха (Якутия)",
+    "oikTvd": "100100225883432",
+    "oikName": "Республика Саха (Якутия) – Якутский",
+    "district": {
+      "districtNumber": 24,
+      "oikTvd": "100100225883432"
+    }
   },
   {
     "uikNumber": 203,
     "uikTvd": "4144013234512",
     "tikTvd": "21420001074306",
-    "tikName": "Кобяйская"
+    "tikName": "Кобяйская",
+    "uikName": "УИК №203",
+    "regionCode": "14",
+    "regionTvd": "100100225883431",
+    "regionName": "Республика Саха (Якутия)",
+    "oikTvd": "100100225883432",
+    "oikName": "Республика Саха (Якутия) – Якутский",
+    "district": {
+      "districtNumber": 24,
+      "oikTvd": "100100225883432"
+    }
   },
   {
     "uikNumber": 204,
     "uikTvd": "4144013234513",
     "tikTvd": "21420001074306",
-    "tikName": "Кобяйская"
+    "tikName": "Кобяйская",
+    "uikName": "УИК №204",
+    "regionCode": "14",
+    "regionTvd": "100100225883431",
+    "regionName": "Республика Саха (Якутия)",
+    "oikTvd": "100100225883432",
+    "oikName": "Республика Саха (Якутия) – Якутский",
+    "district": {
+      "districtNumber": 24,
+      "oikTvd": "100100225883432"
+    }
   },
   {
     "uikNumber": 205,
     "uikTvd": "4144013234514",
     "tikTvd": "21420001074306",
-    "tikName": "Кобяйская"
+    "tikName": "Кобяйская",
+    "uikName": "УИК №205",
+    "regionCode": "14",
+    "regionTvd": "100100225883431",
+    "regionName": "Республика Саха (Якутия)",
+    "oikTvd": "100100225883432",
+    "oikName": "Республика Саха (Якутия) – Якутский",
+    "district": {
+      "districtNumber": 24,
+      "oikTvd": "100100225883432"
+    }
   },
   {
     "uikNumber": 207,
     "uikTvd": "4144013234515",
     "tikTvd": "21420001074306",
-    "tikName": "Кобяйская"
+    "tikName": "Кобяйская",
+    "uikName": "УИК №207",
+    "regionCode": "14",
+    "regionTvd": "100100225883431",
+    "regionName": "Республика Саха (Якутия)",
+    "oikTvd": "100100225883432",
+    "oikName": "Республика Саха (Якутия) – Якутский",
+    "district": {
+      "districtNumber": 24,
+      "oikTvd": "100100225883432"
+    }
   },
   {
     "uikNumber": 208,
     "uikTvd": "4144013234516",
     "tikTvd": "21420001074306",
-    "tikName": "Кобяйская"
+    "tikName": "Кобяйская",
+    "uikName": "УИК №208",
+    "regionCode": "14",
+    "regionTvd": "100100225883431",
+    "regionName": "Республика Саха (Якутия)",
+    "oikTvd": "100100225883432",
+    "oikName": "Республика Саха (Якутия) – Якутский",
+    "district": {
+      "districtNumber": 24,
+      "oikTvd": "100100225883432"
+    }
   },
   {
     "uikNumber": 209,
     "uikTvd": "4144013234517",
     "tikTvd": "21420001074306",
-    "tikName": "Кобяйская"
+    "tikName": "Кобяйская",
+    "uikName": "УИК №209",
+    "regionCode": "14",
+    "regionTvd": "100100225883431",
+    "regionName": "Республика Саха (Якутия)",
+    "oikTvd": "100100225883432",
+    "oikName": "Республика Саха (Якутия) – Якутский",
+    "district": {
+      "districtNumber": 24,
+      "oikTvd": "100100225883432"
+    }
   },
   {
     "uikNumber": 210,
     "uikTvd": "4144013234518",
     "tikTvd": "21420001074306",
-    "tikName": "Кобяйская"
+    "tikName": "Кобяйская",
+    "uikName": "УИК №210",
+    "regionCode": "14",
+    "regionTvd": "100100225883431",
+    "regionName": "Республика Саха (Якутия)",
+    "oikTvd": "100100225883432",
+    "oikName": "Республика Саха (Якутия) – Якутский",
+    "district": {
+      "districtNumber": 24,
+      "oikTvd": "100100225883432"
+    }
   },
   {
     "uikNumber": 211,
     "uikTvd": "4144013234519",
     "tikTvd": "21420001074306",
-    "tikName": "Кобяйская"
+    "tikName": "Кобяйская",
+    "uikName": "УИК №211",
+    "regionCode": "14",
+    "regionTvd": "100100225883431",
+    "regionName": "Республика Саха (Якутия)",
+    "oikTvd": "100100225883432",
+    "oikName": "Республика Саха (Якутия) – Якутский",
+    "district": {
+      "districtNumber": 24,
+      "oikTvd": "100100225883432"
+    }
   },
   {
     "uikNumber": 212,
     "uikTvd": "4144013234520",
     "tikTvd": "21420001074306",
-    "tikName": "Кобяйская"
+    "tikName": "Кобяйская",
+    "uikName": "УИК №212",
+    "regionCode": "14",
+    "regionTvd": "100100225883431",
+    "regionName": "Республика Саха (Якутия)",
+    "oikTvd": "100100225883432",
+    "oikName": "Республика Саха (Якутия) – Якутский",
+    "district": {
+      "districtNumber": 24,
+      "oikTvd": "100100225883432"
+    }
   },
   {
     "uikNumber": 214,
     "uikTvd": "4144013234521",
     "tikTvd": "21420001074306",
-    "tikName": "Кобяйская"
+    "tikName": "Кобяйская",
+    "uikName": "УИК №214",
+    "regionCode": "14",
+    "regionTvd": "100100225883431",
+    "regionName": "Республика Саха (Якутия)",
+    "oikTvd": "100100225883432",
+    "oikName": "Республика Саха (Якутия) – Якутский",
+    "district": {
+      "districtNumber": 24,
+      "oikTvd": "100100225883432"
+    }
   },
   {
     "uikNumber": 215,
     "uikTvd": "4144013234522",
     "tikTvd": "21420001074306",
-    "tikName": "Кобяйская"
+    "tikName": "Кобяйская",
+    "uikName": "УИК №215",
+    "regionCode": "14",
+    "regionTvd": "100100225883431",
+    "regionName": "Республика Саха (Якутия)",
+    "oikTvd": "100100225883432",
+    "oikName": "Республика Саха (Якутия) – Якутский",
+    "district": {
+      "districtNumber": 24,
+      "oikTvd": "100100225883432"
+    }
   },
   {
     "uikNumber": 216,
     "uikTvd": "4144013234523",
     "tikTvd": "21420001074306",
-    "tikName": "Кобяйская"
+    "tikName": "Кобяйская",
+    "uikName": "УИК №216",
+    "regionCode": "14",
+    "regionTvd": "100100225883431",
+    "regionName": "Республика Саха (Якутия)",
+    "oikTvd": "100100225883432",
+    "oikName": "Республика Саха (Якутия) – Якутский",
+    "district": {
+      "districtNumber": 24,
+      "oikTvd": "100100225883432"
+    }
   },
   {
     "uikNumber": 217,
     "uikTvd": "4144013234524",
     "tikTvd": "21420001074306",
-    "tikName": "Кобяйская"
+    "tikName": "Кобяйская",
+    "uikName": "УИК №217",
+    "regionCode": "14",
+    "regionTvd": "100100225883431",
+    "regionName": "Республика Саха (Якутия)",
+    "oikTvd": "100100225883432",
+    "oikName": "Республика Саха (Якутия) – Якутский",
+    "district": {
+      "districtNumber": 24,
+      "oikTvd": "100100225883432"
+    }
   },
   {
     "uikNumber": 219,
     "uikTvd": "4144013234525",
     "tikTvd": "21420001074306",
-    "tikName": "Кобяйская"
+    "tikName": "Кобяйская",
+    "uikName": "УИК №219",
+    "regionCode": "14",
+    "regionTvd": "100100225883431",
+    "regionName": "Республика Саха (Якутия)",
+    "oikTvd": "100100225883432",
+    "oikName": "Республика Саха (Якутия) – Якутский",
+    "district": {
+      "districtNumber": 24,
+      "oikTvd": "100100225883432"
+    }
   },
   {
     "uikNumber": 220,
     "uikTvd": "4144014251770",
     "tikTvd": "21420001074348",
-    "tikName": "Ленская"
+    "tikName": "Ленская",
+    "uikName": "УИК №220",
+    "regionCode": "14",
+    "regionTvd": "100100225883431",
+    "regionName": "Республика Саха (Якутия)",
+    "oikTvd": "100100225883432",
+    "oikName": "Республика Саха (Якутия) – Якутский",
+    "district": {
+      "districtNumber": 24,
+      "oikTvd": "100100225883432"
+    }
   },
   {
     "uikNumber": 221,
     "uikTvd": "4144014251771",
     "tikTvd": "21420001074348",
-    "tikName": "Ленская"
+    "tikName": "Ленская",
+    "uikName": "УИК №221",
+    "regionCode": "14",
+    "regionTvd": "100100225883431",
+    "regionName": "Республика Саха (Якутия)",
+    "oikTvd": "100100225883432",
+    "oikName": "Республика Саха (Якутия) – Якутский",
+    "district": {
+      "districtNumber": 24,
+      "oikTvd": "100100225883432"
+    }
   },
   {
     "uikNumber": 222,
     "uikTvd": "4144014251772",
     "tikTvd": "21420001074348",
-    "tikName": "Ленская"
+    "tikName": "Ленская",
+    "uikName": "УИК №222",
+    "regionCode": "14",
+    "regionTvd": "100100225883431",
+    "regionName": "Республика Саха (Якутия)",
+    "oikTvd": "100100225883432",
+    "oikName": "Республика Саха (Якутия) – Якутский",
+    "district": {
+      "districtNumber": 24,
+      "oikTvd": "100100225883432"
+    }
   },
   {
     "uikNumber": 223,
     "uikTvd": "4144014251773",
     "tikTvd": "21420001074348",
-    "tikName": "Ленская"
+    "tikName": "Ленская",
+    "uikName": "УИК №223",
+    "regionCode": "14",
+    "regionTvd": "100100225883431",
+    "regionName": "Республика Саха (Якутия)",
+    "oikTvd": "100100225883432",
+    "oikName": "Республика Саха (Якутия) – Якутский",
+    "district": {
+      "districtNumber": 24,
+      "oikTvd": "100100225883432"
+    }
   },
   {
     "uikNumber": 224,
     "uikTvd": "4144014251774",
     "tikTvd": "21420001074348",
-    "tikName": "Ленская"
+    "tikName": "Ленская",
+    "uikName": "УИК №224",
+    "regionCode": "14",
+    "regionTvd": "100100225883431",
+    "regionName": "Республика Саха (Якутия)",
+    "oikTvd": "100100225883432",
+    "oikName": "Республика Саха (Якутия) – Якутский",
+    "district": {
+      "districtNumber": 24,
+      "oikTvd": "100100225883432"
+    }
   },
   {
     "uikNumber": 225,
     "uikTvd": "4144014251775",
     "tikTvd": "21420001074348",
-    "tikName": "Ленская"
+    "tikName": "Ленская",
+    "uikName": "УИК №225",
+    "regionCode": "14",
+    "regionTvd": "100100225883431",
+    "regionName": "Республика Саха (Якутия)",
+    "oikTvd": "100100225883432",
+    "oikName": "Республика Саха (Якутия) – Якутский",
+    "district": {
+      "districtNumber": 24,
+      "oikTvd": "100100225883432"
+    }
   },
   {
     "uikNumber": 226,
     "uikTvd": "4144014251776",
     "tikTvd": "21420001074348",
-    "tikName": "Ленская"
+    "tikName": "Ленская",
+    "uikName": "УИК №226",
+    "regionCode": "14",
+    "regionTvd": "100100225883431",
+    "regionName": "Республика Саха (Якутия)",
+    "oikTvd": "100100225883432",
+    "oikName": "Республика Саха (Якутия) – Якутский",
+    "district": {
+      "districtNumber": 24,
+      "oikTvd": "100100225883432"
+    }
   },
   {
     "uikNumber": 227,
     "uikTvd": "4144014251777",
     "tikTvd": "21420001074348",
-    "tikName": "Ленская"
+    "tikName": "Ленская",
+    "uikName": "УИК №227",
+    "regionCode": "14",
+    "regionTvd": "100100225883431",
+    "regionName": "Республика Саха (Якутия)",
+    "oikTvd": "100100225883432",
+    "oikName": "Республика Саха (Якутия) – Якутский",
+    "district": {
+      "districtNumber": 24,
+      "oikTvd": "100100225883432"
+    }
   },
   {
     "uikNumber": 228,
     "uikTvd": "4144014251778",
     "tikTvd": "21420001074348",
-    "tikName": "Ленская"
+    "tikName": "Ленская",
+    "uikName": "УИК №228",
+    "regionCode": "14",
+    "regionTvd": "100100225883431",
+    "regionName": "Республика Саха (Якутия)",
+    "oikTvd": "100100225883432",
+    "oikName": "Республика Саха (Якутия) – Якутский",
+    "district": {
+      "districtNumber": 24,
+      "oikTvd": "100100225883432"
+    }
   },
   {
     "uikNumber": 229,
     "uikTvd": "4144014251779",
     "tikTvd": "21420001074348",
-    "tikName": "Ленская"
+    "tikName": "Ленская",
+    "uikName": "УИК №229",
+    "regionCode": "14",
+    "regionTvd": "100100225883431",
+    "regionName": "Республика Саха (Якутия)",
+    "oikTvd": "100100225883432",
+    "oikName": "Республика Саха (Якутия) – Якутский",
+    "district": {
+      "districtNumber": 24,
+      "oikTvd": "100100225883432"
+    }
   },
   {
     "uikNumber": 230,
     "uikTvd": "4144014251780",
     "tikTvd": "21420001074348",
-    "tikName": "Ленская"
+    "tikName": "Ленская",
+    "uikName": "УИК №230",
+    "regionCode": "14",
+    "regionTvd": "100100225883431",
+    "regionName": "Республика Саха (Якутия)",
+    "oikTvd": "100100225883432",
+    "oikName": "Республика Саха (Якутия) – Якутский",
+    "district": {
+      "districtNumber": 24,
+      "oikTvd": "100100225883432"
+    }
   },
   {
     "uikNumber": 231,
     "uikTvd": "4144014251781",
     "tikTvd": "21420001074348",
-    "tikName": "Ленская"
+    "tikName": "Ленская",
+    "uikName": "УИК №231",
+    "regionCode": "14",
+    "regionTvd": "100100225883431",
+    "regionName": "Республика Саха (Якутия)",
+    "oikTvd": "100100225883432",
+    "oikName": "Республика Саха (Якутия) – Якутский",
+    "district": {
+      "districtNumber": 24,
+      "oikTvd": "100100225883432"
+    }
   },
   {
     "uikNumber": 232,
     "uikTvd": "4144014251782",
     "tikTvd": "21420001074348",
-    "tikName": "Ленская"
+    "tikName": "Ленская",
+    "uikName": "УИК №232",
+    "regionCode": "14",
+    "regionTvd": "100100225883431",
+    "regionName": "Республика Саха (Якутия)",
+    "oikTvd": "100100225883432",
+    "oikName": "Республика Саха (Якутия) – Якутский",
+    "district": {
+      "districtNumber": 24,
+      "oikTvd": "100100225883432"
+    }
   },
   {
     "uikNumber": 233,
     "uikTvd": "4144014251783",
     "tikTvd": "21420001074348",
-    "tikName": "Ленская"
+    "tikName": "Ленская",
+    "uikName": "УИК №233",
+    "regionCode": "14",
+    "regionTvd": "100100225883431",
+    "regionName": "Республика Саха (Якутия)",
+    "oikTvd": "100100225883432",
+    "oikName": "Республика Саха (Якутия) – Якутский",
+    "district": {
+      "districtNumber": 24,
+      "oikTvd": "100100225883432"
+    }
   },
   {
     "uikNumber": 234,
     "uikTvd": "4144014251784",
     "tikTvd": "21420001074348",
-    "tikName": "Ленская"
+    "tikName": "Ленская",
+    "uikName": "УИК №234",
+    "regionCode": "14",
+    "regionTvd": "100100225883431",
+    "regionName": "Республика Саха (Якутия)",
+    "oikTvd": "100100225883432",
+    "oikName": "Республика Саха (Якутия) – Якутский",
+    "district": {
+      "districtNumber": 24,
+      "oikTvd": "100100225883432"
+    }
   },
   {
     "uikNumber": 235,
     "uikTvd": "4144014251785",
     "tikTvd": "21420001074348",
-    "tikName": "Ленская"
+    "tikName": "Ленская",
+    "uikName": "УИК №235",
+    "regionCode": "14",
+    "regionTvd": "100100225883431",
+    "regionName": "Республика Саха (Якутия)",
+    "oikTvd": "100100225883432",
+    "oikName": "Республика Саха (Якутия) – Якутский",
+    "district": {
+      "districtNumber": 24,
+      "oikTvd": "100100225883432"
+    }
   },
   {
     "uikNumber": 236,
     "uikTvd": "4144014251786",
     "tikTvd": "21420001074348",
-    "tikName": "Ленская"
+    "tikName": "Ленская",
+    "uikName": "УИК №236",
+    "regionCode": "14",
+    "regionTvd": "100100225883431",
+    "regionName": "Республика Саха (Якутия)",
+    "oikTvd": "100100225883432",
+    "oikName": "Республика Саха (Якутия) – Якутский",
+    "district": {
+      "districtNumber": 24,
+      "oikTvd": "100100225883432"
+    }
   },
   {
     "uikNumber": 237,
     "uikTvd": "4144014251787",
     "tikTvd": "21420001074348",
-    "tikName": "Ленская"
+    "tikName": "Ленская",
+    "uikName": "УИК №237",
+    "regionCode": "14",
+    "regionTvd": "100100225883431",
+    "regionName": "Республика Саха (Якутия)",
+    "oikTvd": "100100225883432",
+    "oikName": "Республика Саха (Якутия) – Якутский",
+    "district": {
+      "districtNumber": 24,
+      "oikTvd": "100100225883432"
+    }
   },
   {
     "uikNumber": 238,
     "uikTvd": "4144014251788",
     "tikTvd": "21420001074348",
-    "tikName": "Ленская"
+    "tikName": "Ленская",
+    "uikName": "УИК №238",
+    "regionCode": "14",
+    "regionTvd": "100100225883431",
+    "regionName": "Республика Саха (Якутия)",
+    "oikTvd": "100100225883432",
+    "oikName": "Республика Саха (Якутия) – Якутский",
+    "district": {
+      "districtNumber": 24,
+      "oikTvd": "100100225883432"
+    }
   },
   {
     "uikNumber": 239,
     "uikTvd": "4144014251789",
     "tikTvd": "21420001074348",
-    "tikName": "Ленская"
+    "tikName": "Ленская",
+    "uikName": "УИК №239",
+    "regionCode": "14",
+    "regionTvd": "100100225883431",
+    "regionName": "Республика Саха (Якутия)",
+    "oikTvd": "100100225883432",
+    "oikName": "Республика Саха (Якутия) – Якутский",
+    "district": {
+      "districtNumber": 24,
+      "oikTvd": "100100225883432"
+    }
   },
   {
     "uikNumber": 240,
     "uikTvd": "4144014251790",
     "tikTvd": "21420001074348",
-    "tikName": "Ленская"
+    "tikName": "Ленская",
+    "uikName": "УИК №240",
+    "regionCode": "14",
+    "regionTvd": "100100225883431",
+    "regionName": "Республика Саха (Якутия)",
+    "oikTvd": "100100225883432",
+    "oikName": "Республика Саха (Якутия) – Якутский",
+    "district": {
+      "districtNumber": 24,
+      "oikTvd": "100100225883432"
+    }
   },
   {
     "uikNumber": 241,
     "uikTvd": "4144014251791",
     "tikTvd": "21420001074348",
-    "tikName": "Ленская"
+    "tikName": "Ленская",
+    "uikName": "УИК №241",
+    "regionCode": "14",
+    "regionTvd": "100100225883431",
+    "regionName": "Республика Саха (Якутия)",
+    "oikTvd": "100100225883432",
+    "oikName": "Республика Саха (Якутия) – Якутский",
+    "district": {
+      "districtNumber": 24,
+      "oikTvd": "100100225883432"
+    }
   },
   {
     "uikNumber": 242,
     "uikTvd": "4144014251792",
     "tikTvd": "21420001074348",
-    "tikName": "Ленская"
+    "tikName": "Ленская",
+    "uikName": "УИК №242",
+    "regionCode": "14",
+    "regionTvd": "100100225883431",
+    "regionName": "Республика Саха (Якутия)",
+    "oikTvd": "100100225883432",
+    "oikName": "Республика Саха (Якутия) – Якутский",
+    "district": {
+      "districtNumber": 24,
+      "oikTvd": "100100225883432"
+    }
   },
   {
     "uikNumber": 243,
     "uikTvd": "4144014251793",
     "tikTvd": "21420001074348",
-    "tikName": "Ленская"
+    "tikName": "Ленская",
+    "uikName": "УИК №243",
+    "regionCode": "14",
+    "regionTvd": "100100225883431",
+    "regionName": "Республика Саха (Якутия)",
+    "oikTvd": "100100225883432",
+    "oikName": "Республика Саха (Якутия) – Якутский",
+    "district": {
+      "districtNumber": 24,
+      "oikTvd": "100100225883432"
+    }
   },
   {
     "uikNumber": 244,
     "uikTvd": "4144014251794",
     "tikTvd": "21420001074348",
-    "tikName": "Ленская"
+    "tikName": "Ленская",
+    "uikName": "УИК №244",
+    "regionCode": "14",
+    "regionTvd": "100100225883431",
+    "regionName": "Республика Саха (Якутия)",
+    "oikTvd": "100100225883432",
+    "oikName": "Республика Саха (Якутия) – Якутский",
+    "district": {
+      "districtNumber": 24,
+      "oikTvd": "100100225883432"
+    }
   },
   {
     "uikNumber": 245,
     "uikTvd": "4144014251795",
     "tikTvd": "21420001074348",
-    "tikName": "Ленская"
+    "tikName": "Ленская",
+    "uikName": "УИК №245",
+    "regionCode": "14",
+    "regionTvd": "100100225883431",
+    "regionName": "Республика Саха (Якутия)",
+    "oikTvd": "100100225883432",
+    "oikName": "Республика Саха (Якутия) – Якутский",
+    "district": {
+      "districtNumber": 24,
+      "oikTvd": "100100225883432"
+    }
   },
   {
     "uikNumber": 246,
     "uikTvd": "4144014251796",
     "tikTvd": "21420001074348",
-    "tikName": "Ленская"
+    "tikName": "Ленская",
+    "uikName": "УИК №246",
+    "regionCode": "14",
+    "regionTvd": "100100225883431",
+    "regionName": "Республика Саха (Якутия)",
+    "oikTvd": "100100225883432",
+    "oikName": "Республика Саха (Якутия) – Якутский",
+    "district": {
+      "districtNumber": 24,
+      "oikTvd": "100100225883432"
+    }
   },
   {
     "uikNumber": 247,
     "uikTvd": "4144014251797",
     "tikTvd": "21420001074348",
-    "tikName": "Ленская"
+    "tikName": "Ленская",
+    "uikName": "УИК №247",
+    "regionCode": "14",
+    "regionTvd": "100100225883431",
+    "regionName": "Республика Саха (Якутия)",
+    "oikTvd": "100100225883432",
+    "oikName": "Республика Саха (Якутия) – Якутский",
+    "district": {
+      "districtNumber": 24,
+      "oikTvd": "100100225883432"
+    }
   },
   {
     "uikNumber": 248,
     "uikTvd": "4144014251798",
     "tikTvd": "21420001074348",
-    "tikName": "Ленская"
+    "tikName": "Ленская",
+    "uikName": "УИК №248",
+    "regionCode": "14",
+    "regionTvd": "100100225883431",
+    "regionName": "Республика Саха (Якутия)",
+    "oikTvd": "100100225883432",
+    "oikName": "Республика Саха (Якутия) – Якутский",
+    "district": {
+      "districtNumber": 24,
+      "oikTvd": "100100225883432"
+    }
   },
   {
     "uikNumber": 249,
     "uikTvd": "4144014251799",
     "tikTvd": "21420001074348",
-    "tikName": "Ленская"
+    "tikName": "Ленская",
+    "uikName": "УИК №249",
+    "regionCode": "14",
+    "regionTvd": "100100225883431",
+    "regionName": "Республика Саха (Якутия)",
+    "oikTvd": "100100225883432",
+    "oikName": "Республика Саха (Якутия) – Якутский",
+    "district": {
+      "districtNumber": 24,
+      "oikTvd": "100100225883432"
+    }
   },
   {
     "uikNumber": 250,
     "uikTvd": "4144014251800",
     "tikTvd": "21420001074348",
-    "tikName": "Ленская"
+    "tikName": "Ленская",
+    "uikName": "УИК №250",
+    "regionCode": "14",
+    "regionTvd": "100100225883431",
+    "regionName": "Республика Саха (Якутия)",
+    "oikTvd": "100100225883432",
+    "oikName": "Республика Саха (Якутия) – Якутский",
+    "district": {
+      "districtNumber": 24,
+      "oikTvd": "100100225883432"
+    }
   },
   {
     "uikNumber": 251,
     "uikTvd": "4144014251801",
     "tikTvd": "21420001074348",
-    "tikName": "Ленская"
+    "tikName": "Ленская",
+    "uikName": "УИК №251",
+    "regionCode": "14",
+    "regionTvd": "100100225883431",
+    "regionName": "Республика Саха (Якутия)",
+    "oikTvd": "100100225883432",
+    "oikName": "Республика Саха (Якутия) – Якутский",
+    "district": {
+      "districtNumber": 24,
+      "oikTvd": "100100225883432"
+    }
   },
   {
     "uikNumber": 252,
     "uikTvd": "4144014251802",
     "tikTvd": "21420001074348",
-    "tikName": "Ленская"
+    "tikName": "Ленская",
+    "uikName": "УИК №252",
+    "regionCode": "14",
+    "regionTvd": "100100225883431",
+    "regionName": "Республика Саха (Якутия)",
+    "oikTvd": "100100225883432",
+    "oikName": "Республика Саха (Якутия) – Якутский",
+    "district": {
+      "districtNumber": 24,
+      "oikTvd": "100100225883432"
+    }
   },
   {
     "uikNumber": 254,
     "uikTvd": "4144014251803",
     "tikTvd": "21420001074348",
-    "tikName": "Ленская"
+    "tikName": "Ленская",
+    "uikName": "УИК №254",
+    "regionCode": "14",
+    "regionTvd": "100100225883431",
+    "regionName": "Республика Саха (Якутия)",
+    "oikTvd": "100100225883432",
+    "oikName": "Республика Саха (Якутия) – Якутский",
+    "district": {
+      "districtNumber": 24,
+      "oikTvd": "100100225883432"
+    }
   },
   {
     "uikNumber": 255,
     "uikTvd": "4144015378919",
     "tikTvd": "21420001074321",
-    "tikName": "Мегино-Кангаласская"
+    "tikName": "Мегино-Кангаласская",
+    "uikName": "УИК №255",
+    "regionCode": "14",
+    "regionTvd": "100100225883431",
+    "regionName": "Республика Саха (Якутия)",
+    "oikTvd": "100100225883432",
+    "oikName": "Республика Саха (Якутия) – Якутский",
+    "district": {
+      "districtNumber": 24,
+      "oikTvd": "100100225883432"
+    }
   },
   {
     "uikNumber": 256,
     "uikTvd": "4144015378920",
     "tikTvd": "21420001074321",
-    "tikName": "Мегино-Кангаласская"
+    "tikName": "Мегино-Кангаласская",
+    "uikName": "УИК №256",
+    "regionCode": "14",
+    "regionTvd": "100100225883431",
+    "regionName": "Республика Саха (Якутия)",
+    "oikTvd": "100100225883432",
+    "oikName": "Республика Саха (Якутия) – Якутский",
+    "district": {
+      "districtNumber": 24,
+      "oikTvd": "100100225883432"
+    }
   },
   {
     "uikNumber": 257,
     "uikTvd": "4144015378921",
     "tikTvd": "21420001074321",
-    "tikName": "Мегино-Кангаласская"
+    "tikName": "Мегино-Кангаласская",
+    "uikName": "УИК №257",
+    "regionCode": "14",
+    "regionTvd": "100100225883431",
+    "regionName": "Республика Саха (Якутия)",
+    "oikTvd": "100100225883432",
+    "oikName": "Республика Саха (Якутия) – Якутский",
+    "district": {
+      "districtNumber": 24,
+      "oikTvd": "100100225883432"
+    }
   },
   {
     "uikNumber": 258,
     "uikTvd": "4144015378922",
     "tikTvd": "21420001074321",
-    "tikName": "Мегино-Кангаласская"
+    "tikName": "Мегино-Кангаласская",
+    "uikName": "УИК №258",
+    "regionCode": "14",
+    "regionTvd": "100100225883431",
+    "regionName": "Республика Саха (Якутия)",
+    "oikTvd": "100100225883432",
+    "oikName": "Республика Саха (Якутия) – Якутский",
+    "district": {
+      "districtNumber": 24,
+      "oikTvd": "100100225883432"
+    }
   },
   {
     "uikNumber": 259,
     "uikTvd": "4144015378923",
     "tikTvd": "21420001074321",
-    "tikName": "Мегино-Кангаласская"
+    "tikName": "Мегино-Кангаласская",
+    "uikName": "УИК №259",
+    "regionCode": "14",
+    "regionTvd": "100100225883431",
+    "regionName": "Республика Саха (Якутия)",
+    "oikTvd": "100100225883432",
+    "oikName": "Республика Саха (Якутия) – Якутский",
+    "district": {
+      "districtNumber": 24,
+      "oikTvd": "100100225883432"
+    }
   },
   {
     "uikNumber": 260,
     "uikTvd": "4144015378924",
     "tikTvd": "21420001074321",
-    "tikName": "Мегино-Кангаласская"
+    "tikName": "Мегино-Кангаласская",
+    "uikName": "УИК №260",
+    "regionCode": "14",
+    "regionTvd": "100100225883431",
+    "regionName": "Республика Саха (Якутия)",
+    "oikTvd": "100100225883432",
+    "oikName": "Республика Саха (Якутия) – Якутский",
+    "district": {
+      "districtNumber": 24,
+      "oikTvd": "100100225883432"
+    }
   },
   {
     "uikNumber": 261,
     "uikTvd": "4144015378925",
     "tikTvd": "21420001074321",
-    "tikName": "Мегино-Кангаласская"
+    "tikName": "Мегино-Кангаласская",
+    "uikName": "УИК №261",
+    "regionCode": "14",
+    "regionTvd": "100100225883431",
+    "regionName": "Республика Саха (Якутия)",
+    "oikTvd": "100100225883432",
+    "oikName": "Республика Саха (Якутия) – Якутский",
+    "district": {
+      "districtNumber": 24,
+      "oikTvd": "100100225883432"
+    }
   },
   {
     "uikNumber": 262,
     "uikTvd": "4144015378926",
     "tikTvd": "21420001074321",
-    "tikName": "Мегино-Кангаласская"
+    "tikName": "Мегино-Кангаласская",
+    "uikName": "УИК №262",
+    "regionCode": "14",
+    "regionTvd": "100100225883431",
+    "regionName": "Республика Саха (Якутия)",
+    "oikTvd": "100100225883432",
+    "oikName": "Республика Саха (Якутия) – Якутский",
+    "district": {
+      "districtNumber": 24,
+      "oikTvd": "100100225883432"
+    }
   },
   {
     "uikNumber": 263,
     "uikTvd": "4144015378927",
     "tikTvd": "21420001074321",
-    "tikName": "Мегино-Кангаласская"
+    "tikName": "Мегино-Кангаласская",
+    "uikName": "УИК №263",
+    "regionCode": "14",
+    "regionTvd": "100100225883431",
+    "regionName": "Республика Саха (Якутия)",
+    "oikTvd": "100100225883432",
+    "oikName": "Республика Саха (Якутия) – Якутский",
+    "district": {
+      "districtNumber": 24,
+      "oikTvd": "100100225883432"
+    }
   },
   {
     "uikNumber": 264,
     "uikTvd": "4144015378928",
     "tikTvd": "21420001074321",
-    "tikName": "Мегино-Кангаласская"
+    "tikName": "Мегино-Кангаласская",
+    "uikName": "УИК №264",
+    "regionCode": "14",
+    "regionTvd": "100100225883431",
+    "regionName": "Республика Саха (Якутия)",
+    "oikTvd": "100100225883432",
+    "oikName": "Республика Саха (Якутия) – Якутский",
+    "district": {
+      "districtNumber": 24,
+      "oikTvd": "100100225883432"
+    }
   },
   {
     "uikNumber": 265,
     "uikTvd": "4144015378929",
     "tikTvd": "21420001074321",
-    "tikName": "Мегино-Кангаласская"
+    "tikName": "Мегино-Кангаласская",
+    "uikName": "УИК №265",
+    "regionCode": "14",
+    "regionTvd": "100100225883431",
+    "regionName": "Республика Саха (Якутия)",
+    "oikTvd": "100100225883432",
+    "oikName": "Республика Саха (Якутия) – Якутский",
+    "district": {
+      "districtNumber": 24,
+      "oikTvd": "100100225883432"
+    }
   },
   {
     "uikNumber": 266,
     "uikTvd": "4144015378930",
     "tikTvd": "21420001074321",
-    "tikName": "Мегино-Кангаласская"
+    "tikName": "Мегино-Кангаласская",
+    "uikName": "УИК №266",
+    "regionCode": "14",
+    "regionTvd": "100100225883431",
+    "regionName": "Республика Саха (Якутия)",
+    "oikTvd": "100100225883432",
+    "oikName": "Республика Саха (Якутия) – Якутский",
+    "district": {
+      "districtNumber": 24,
+      "oikTvd": "100100225883432"
+    }
   },
   {
     "uikNumber": 267,
     "uikTvd": "4144015378931",
     "tikTvd": "21420001074321",
-    "tikName": "Мегино-Кангаласская"
+    "tikName": "Мегино-Кангаласская",
+    "uikName": "УИК №267",
+    "regionCode": "14",
+    "regionTvd": "100100225883431",
+    "regionName": "Республика Саха (Якутия)",
+    "oikTvd": "100100225883432",
+    "oikName": "Республика Саха (Якутия) – Якутский",
+    "district": {
+      "districtNumber": 24,
+      "oikTvd": "100100225883432"
+    }
   },
   {
     "uikNumber": 268,
     "uikTvd": "4144015378932",
     "tikTvd": "21420001074321",
-    "tikName": "Мегино-Кангаласская"
+    "tikName": "Мегино-Кангаласская",
+    "uikName": "УИК №268",
+    "regionCode": "14",
+    "regionTvd": "100100225883431",
+    "regionName": "Республика Саха (Якутия)",
+    "oikTvd": "100100225883432",
+    "oikName": "Республика Саха (Якутия) – Якутский",
+    "district": {
+      "districtNumber": 24,
+      "oikTvd": "100100225883432"
+    }
   },
   {
     "uikNumber": 269,
     "uikTvd": "4144015378933",
     "tikTvd": "21420001074321",
-    "tikName": "Мегино-Кангаласская"
+    "tikName": "Мегино-Кангаласская",
+    "uikName": "УИК №269",
+    "regionCode": "14",
+    "regionTvd": "100100225883431",
+    "regionName": "Республика Саха (Якутия)",
+    "oikTvd": "100100225883432",
+    "oikName": "Республика Саха (Якутия) – Якутский",
+    "district": {
+      "districtNumber": 24,
+      "oikTvd": "100100225883432"
+    }
   },
   {
     "uikNumber": 270,
     "uikTvd": "4144015378934",
     "tikTvd": "21420001074321",
-    "tikName": "Мегино-Кангаласская"
+    "tikName": "Мегино-Кангаласская",
+    "uikName": "УИК №270",
+    "regionCode": "14",
+    "regionTvd": "100100225883431",
+    "regionName": "Республика Саха (Якутия)",
+    "oikTvd": "100100225883432",
+    "oikName": "Республика Саха (Якутия) – Якутский",
+    "district": {
+      "districtNumber": 24,
+      "oikTvd": "100100225883432"
+    }
   },
   {
     "uikNumber": 271,
     "uikTvd": "4144015378935",
     "tikTvd": "21420001074321",
-    "tikName": "Мегино-Кангаласская"
+    "tikName": "Мегино-Кангаласская",
+    "uikName": "УИК №271",
+    "regionCode": "14",
+    "regionTvd": "100100225883431",
+    "regionName": "Республика Саха (Якутия)",
+    "oikTvd": "100100225883432",
+    "oikName": "Республика Саха (Якутия) – Якутский",
+    "district": {
+      "districtNumber": 24,
+      "oikTvd": "100100225883432"
+    }
   },
   {
     "uikNumber": 272,
     "uikTvd": "4144015378936",
     "tikTvd": "21420001074321",
-    "tikName": "Мегино-Кангаласская"
+    "tikName": "Мегино-Кангаласская",
+    "uikName": "УИК №272",
+    "regionCode": "14",
+    "regionTvd": "100100225883431",
+    "regionName": "Республика Саха (Якутия)",
+    "oikTvd": "100100225883432",
+    "oikName": "Республика Саха (Якутия) – Якутский",
+    "district": {
+      "districtNumber": 24,
+      "oikTvd": "100100225883432"
+    }
   },
   {
     "uikNumber": 273,
     "uikTvd": "4144015378937",
     "tikTvd": "21420001074321",
-    "tikName": "Мегино-Кангаласская"
+    "tikName": "Мегино-Кангаласская",
+    "uikName": "УИК №273",
+    "regionCode": "14",
+    "regionTvd": "100100225883431",
+    "regionName": "Республика Саха (Якутия)",
+    "oikTvd": "100100225883432",
+    "oikName": "Республика Саха (Якутия) – Якутский",
+    "district": {
+      "districtNumber": 24,
+      "oikTvd": "100100225883432"
+    }
   },
   {
     "uikNumber": 274,
     "uikTvd": "4144015378938",
     "tikTvd": "21420001074321",
-    "tikName": "Мегино-Кангаласская"
+    "tikName": "Мегино-Кангаласская",
+    "uikName": "УИК №274",
+    "regionCode": "14",
+    "regionTvd": "100100225883431",
+    "regionName": "Республика Саха (Якутия)",
+    "oikTvd": "100100225883432",
+    "oikName": "Республика Саха (Якутия) – Якутский",
+    "district": {
+      "districtNumber": 24,
+      "oikTvd": "100100225883432"
+    }
   },
   {
     "uikNumber": 275,
     "uikTvd": "4144015378939",
     "tikTvd": "21420001074321",
-    "tikName": "Мегино-Кангаласская"
+    "tikName": "Мегино-Кангаласская",
+    "uikName": "УИК №275",
+    "regionCode": "14",
+    "regionTvd": "100100225883431",
+    "regionName": "Республика Саха (Якутия)",
+    "oikTvd": "100100225883432",
+    "oikName": "Республика Саха (Якутия) – Якутский",
+    "district": {
+      "districtNumber": 24,
+      "oikTvd": "100100225883432"
+    }
   },
   {
     "uikNumber": 276,
     "uikTvd": "4144015378940",
     "tikTvd": "21420001074321",
-    "tikName": "Мегино-Кангаласская"
+    "tikName": "Мегино-Кангаласская",
+    "uikName": "УИК №276",
+    "regionCode": "14",
+    "regionTvd": "100100225883431",
+    "regionName": "Республика Саха (Якутия)",
+    "oikTvd": "100100225883432",
+    "oikName": "Республика Саха (Якутия) – Якутский",
+    "district": {
+      "districtNumber": 24,
+      "oikTvd": "100100225883432"
+    }
   },
   {
     "uikNumber": 277,
     "uikTvd": "4144015378941",
     "tikTvd": "21420001074321",
-    "tikName": "Мегино-Кангаласская"
+    "tikName": "Мегино-Кангаласская",
+    "uikName": "УИК №277",
+    "regionCode": "14",
+    "regionTvd": "100100225883431",
+    "regionName": "Республика Саха (Якутия)",
+    "oikTvd": "100100225883432",
+    "oikName": "Республика Саха (Якутия) – Якутский",
+    "district": {
+      "districtNumber": 24,
+      "oikTvd": "100100225883432"
+    }
   },
   {
     "uikNumber": 278,
     "uikTvd": "4144015378942",
     "tikTvd": "21420001074321",
-    "tikName": "Мегино-Кангаласская"
+    "tikName": "Мегино-Кангаласская",
+    "uikName": "УИК №278",
+    "regionCode": "14",
+    "regionTvd": "100100225883431",
+    "regionName": "Республика Саха (Якутия)",
+    "oikTvd": "100100225883432",
+    "oikName": "Республика Саха (Якутия) – Якутский",
+    "district": {
+      "districtNumber": 24,
+      "oikTvd": "100100225883432"
+    }
   },
   {
     "uikNumber": 279,
     "uikTvd": "4144015378943",
     "tikTvd": "21420001074321",
-    "tikName": "Мегино-Кангаласская"
+    "tikName": "Мегино-Кангаласская",
+    "uikName": "УИК №279",
+    "regionCode": "14",
+    "regionTvd": "100100225883431",
+    "regionName": "Республика Саха (Якутия)",
+    "oikTvd": "100100225883432",
+    "oikName": "Республика Саха (Якутия) – Якутский",
+    "district": {
+      "districtNumber": 24,
+      "oikTvd": "100100225883432"
+    }
   },
   {
     "uikNumber": 280,
     "uikTvd": "4144015378944",
     "tikTvd": "21420001074321",
-    "tikName": "Мегино-Кангаласская"
+    "tikName": "Мегино-Кангаласская",
+    "uikName": "УИК №280",
+    "regionCode": "14",
+    "regionTvd": "100100225883431",
+    "regionName": "Республика Саха (Якутия)",
+    "oikTvd": "100100225883432",
+    "oikName": "Республика Саха (Якутия) – Якутский",
+    "district": {
+      "districtNumber": 24,
+      "oikTvd": "100100225883432"
+    }
   },
   {
     "uikNumber": 281,
     "uikTvd": "4144015378945",
     "tikTvd": "21420001074321",
-    "tikName": "Мегино-Кангаласская"
+    "tikName": "Мегино-Кангаласская",
+    "uikName": "УИК №281",
+    "regionCode": "14",
+    "regionTvd": "100100225883431",
+    "regionName": "Республика Саха (Якутия)",
+    "oikTvd": "100100225883432",
+    "oikName": "Республика Саха (Якутия) – Якутский",
+    "district": {
+      "districtNumber": 24,
+      "oikTvd": "100100225883432"
+    }
   },
   {
     "uikNumber": 282,
     "uikTvd": "4144015378946",
     "tikTvd": "21420001074321",
-    "tikName": "Мегино-Кангаласская"
+    "tikName": "Мегино-Кангаласская",
+    "uikName": "УИК №282",
+    "regionCode": "14",
+    "regionTvd": "100100225883431",
+    "regionName": "Республика Саха (Якутия)",
+    "oikTvd": "100100225883432",
+    "oikName": "Республика Саха (Якутия) – Якутский",
+    "district": {
+      "districtNumber": 24,
+      "oikTvd": "100100225883432"
+    }
   },
   {
     "uikNumber": 283,
     "uikTvd": "4144015378947",
     "tikTvd": "21420001074321",
-    "tikName": "Мегино-Кангаласская"
+    "tikName": "Мегино-Кангаласская",
+    "uikName": "УИК №283",
+    "regionCode": "14",
+    "regionTvd": "100100225883431",
+    "regionName": "Республика Саха (Якутия)",
+    "oikTvd": "100100225883432",
+    "oikName": "Республика Саха (Якутия) – Якутский",
+    "district": {
+      "districtNumber": 24,
+      "oikTvd": "100100225883432"
+    }
   },
   {
     "uikNumber": 284,
     "uikTvd": "4144015378948",
     "tikTvd": "21420001074321",
-    "tikName": "Мегино-Кангаласская"
+    "tikName": "Мегино-Кангаласская",
+    "uikName": "УИК №284",
+    "regionCode": "14",
+    "regionTvd": "100100225883431",
+    "regionName": "Республика Саха (Якутия)",
+    "oikTvd": "100100225883432",
+    "oikName": "Республика Саха (Якутия) – Якутский",
+    "district": {
+      "districtNumber": 24,
+      "oikTvd": "100100225883432"
+    }
   },
   {
     "uikNumber": 285,
     "uikTvd": "4144015378949",
     "tikTvd": "21420001074321",
-    "tikName": "Мегино-Кангаласская"
+    "tikName": "Мегино-Кангаласская",
+    "uikName": "УИК №285",
+    "regionCode": "14",
+    "regionTvd": "100100225883431",
+    "regionName": "Республика Саха (Якутия)",
+    "oikTvd": "100100225883432",
+    "oikName": "Республика Саха (Якутия) – Якутский",
+    "district": {
+      "districtNumber": 24,
+      "oikTvd": "100100225883432"
+    }
   },
   {
     "uikNumber": 286,
     "uikTvd": "4144015378950",
     "tikTvd": "21420001074321",
-    "tikName": "Мегино-Кангаласская"
+    "tikName": "Мегино-Кангаласская",
+    "uikName": "УИК №286",
+    "regionCode": "14",
+    "regionTvd": "100100225883431",
+    "regionName": "Республика Саха (Якутия)",
+    "oikTvd": "100100225883432",
+    "oikName": "Республика Саха (Якутия) – Якутский",
+    "district": {
+      "districtNumber": 24,
+      "oikTvd": "100100225883432"
+    }
   },
   {
     "uikNumber": 287,
     "uikTvd": "4144015378951",
     "tikTvd": "21420001074321",
-    "tikName": "Мегино-Кангаласская"
+    "tikName": "Мегино-Кангаласская",
+    "uikName": "УИК №287",
+    "regionCode": "14",
+    "regionTvd": "100100225883431",
+    "regionName": "Республика Саха (Якутия)",
+    "oikTvd": "100100225883432",
+    "oikName": "Республика Саха (Якутия) – Якутский",
+    "district": {
+      "districtNumber": 24,
+      "oikTvd": "100100225883432"
+    }
   },
   {
     "uikNumber": 288,
     "uikTvd": "4144015378952",
     "tikTvd": "21420001074321",
-    "tikName": "Мегино-Кангаласская"
+    "tikName": "Мегино-Кангаласская",
+    "uikName": "УИК №288",
+    "regionCode": "14",
+    "regionTvd": "100100225883431",
+    "regionName": "Республика Саха (Якутия)",
+    "oikTvd": "100100225883432",
+    "oikName": "Республика Саха (Якутия) – Якутский",
+    "district": {
+      "districtNumber": 24,
+      "oikTvd": "100100225883432"
+    }
   },
   {
     "uikNumber": 289,
     "uikTvd": "4144016359775",
     "tikTvd": "21420001074304",
-    "tikName": "Мирнинская"
+    "tikName": "Мирнинская",
+    "uikName": "УИК №289",
+    "regionCode": "14",
+    "regionTvd": "100100225883431",
+    "regionName": "Республика Саха (Якутия)",
+    "oikTvd": "100100225883432",
+    "oikName": "Республика Саха (Якутия) – Якутский",
+    "district": {
+      "districtNumber": 24,
+      "oikTvd": "100100225883432"
+    }
   },
   {
     "uikNumber": 290,
     "uikTvd": "4144016359776",
     "tikTvd": "21420001074304",
-    "tikName": "Мирнинская"
+    "tikName": "Мирнинская",
+    "uikName": "УИК №290",
+    "regionCode": "14",
+    "regionTvd": "100100225883431",
+    "regionName": "Республика Саха (Якутия)",
+    "oikTvd": "100100225883432",
+    "oikName": "Республика Саха (Якутия) – Якутский",
+    "district": {
+      "districtNumber": 24,
+      "oikTvd": "100100225883432"
+    }
   },
   {
     "uikNumber": 291,
     "uikTvd": "4144016359777",
     "tikTvd": "21420001074304",
-    "tikName": "Мирнинская"
+    "tikName": "Мирнинская",
+    "uikName": "УИК №291",
+    "regionCode": "14",
+    "regionTvd": "100100225883431",
+    "regionName": "Республика Саха (Якутия)",
+    "oikTvd": "100100225883432",
+    "oikName": "Республика Саха (Якутия) – Якутский",
+    "district": {
+      "districtNumber": 24,
+      "oikTvd": "100100225883432"
+    }
   },
   {
     "uikNumber": 292,
     "uikTvd": "4144016359778",
     "tikTvd": "21420001074304",
-    "tikName": "Мирнинская"
+    "tikName": "Мирнинская",
+    "uikName": "УИК №292",
+    "regionCode": "14",
+    "regionTvd": "100100225883431",
+    "regionName": "Республика Саха (Якутия)",
+    "oikTvd": "100100225883432",
+    "oikName": "Республика Саха (Якутия) – Якутский",
+    "district": {
+      "districtNumber": 24,
+      "oikTvd": "100100225883432"
+    }
   },
   {
     "uikNumber": 293,
     "uikTvd": "4144016359779",
     "tikTvd": "21420001074304",
-    "tikName": "Мирнинская"
+    "tikName": "Мирнинская",
+    "uikName": "УИК №293",
+    "regionCode": "14",
+    "regionTvd": "100100225883431",
+    "regionName": "Республика Саха (Якутия)",
+    "oikTvd": "100100225883432",
+    "oikName": "Республика Саха (Якутия) – Якутский",
+    "district": {
+      "districtNumber": 24,
+      "oikTvd": "100100225883432"
+    }
   },
   {
     "uikNumber": 294,
     "uikTvd": "4144016359780",
     "tikTvd": "21420001074304",
-    "tikName": "Мирнинская"
+    "tikName": "Мирнинская",
+    "uikName": "УИК №294",
+    "regionCode": "14",
+    "regionTvd": "100100225883431",
+    "regionName": "Республика Саха (Якутия)",
+    "oikTvd": "100100225883432",
+    "oikName": "Республика Саха (Якутия) – Якутский",
+    "district": {
+      "districtNumber": 24,
+      "oikTvd": "100100225883432"
+    }
   },
   {
     "uikNumber": 295,
     "uikTvd": "4144016359781",
     "tikTvd": "21420001074304",
-    "tikName": "Мирнинская"
+    "tikName": "Мирнинская",
+    "uikName": "УИК №295",
+    "regionCode": "14",
+    "regionTvd": "100100225883431",
+    "regionName": "Республика Саха (Якутия)",
+    "oikTvd": "100100225883432",
+    "oikName": "Республика Саха (Якутия) – Якутский",
+    "district": {
+      "districtNumber": 24,
+      "oikTvd": "100100225883432"
+    }
   },
   {
     "uikNumber": 296,
     "uikTvd": "4144016359782",
     "tikTvd": "21420001074304",
-    "tikName": "Мирнинская"
+    "tikName": "Мирнинская",
+    "uikName": "УИК №296",
+    "regionCode": "14",
+    "regionTvd": "100100225883431",
+    "regionName": "Республика Саха (Якутия)",
+    "oikTvd": "100100225883432",
+    "oikName": "Республика Саха (Якутия) – Якутский",
+    "district": {
+      "districtNumber": 24,
+      "oikTvd": "100100225883432"
+    }
   },
   {
     "uikNumber": 297,
     "uikTvd": "4144016359783",
     "tikTvd": "21420001074304",
-    "tikName": "Мирнинская"
+    "tikName": "Мирнинская",
+    "uikName": "УИК №297",
+    "regionCode": "14",
+    "regionTvd": "100100225883431",
+    "regionName": "Республика Саха (Якутия)",
+    "oikTvd": "100100225883432",
+    "oikName": "Республика Саха (Якутия) – Якутский",
+    "district": {
+      "districtNumber": 24,
+      "oikTvd": "100100225883432"
+    }
   },
   {
     "uikNumber": 298,
     "uikTvd": "4144016359784",
     "tikTvd": "21420001074304",
-    "tikName": "Мирнинская"
+    "tikName": "Мирнинская",
+    "uikName": "УИК №298",
+    "regionCode": "14",
+    "regionTvd": "100100225883431",
+    "regionName": "Республика Саха (Якутия)",
+    "oikTvd": "100100225883432",
+    "oikName": "Республика Саха (Якутия) – Якутский",
+    "district": {
+      "districtNumber": 24,
+      "oikTvd": "100100225883432"
+    }
   },
   {
     "uikNumber": 299,
     "uikTvd": "4144016359785",
     "tikTvd": "21420001074304",
-    "tikName": "Мирнинская"
+    "tikName": "Мирнинская",
+    "uikName": "УИК №299",
+    "regionCode": "14",
+    "regionTvd": "100100225883431",
+    "regionName": "Республика Саха (Якутия)",
+    "oikTvd": "100100225883432",
+    "oikName": "Республика Саха (Якутия) – Якутский",
+    "district": {
+      "districtNumber": 24,
+      "oikTvd": "100100225883432"
+    }
   },
   {
     "uikNumber": 300,
     "uikTvd": "4144016359786",
     "tikTvd": "21420001074304",
-    "tikName": "Мирнинская"
+    "tikName": "Мирнинская",
+    "uikName": "УИК №300",
+    "regionCode": "14",
+    "regionTvd": "100100225883431",
+    "regionName": "Республика Саха (Якутия)",
+    "oikTvd": "100100225883432",
+    "oikName": "Республика Саха (Якутия) – Якутский",
+    "district": {
+      "districtNumber": 24,
+      "oikTvd": "100100225883432"
+    }
   },
   {
     "uikNumber": 301,
     "uikTvd": "4144016359787",
     "tikTvd": "21420001074304",
-    "tikName": "Мирнинская"
+    "tikName": "Мирнинская",
+    "uikName": "УИК №301",
+    "regionCode": "14",
+    "regionTvd": "100100225883431",
+    "regionName": "Республика Саха (Якутия)",
+    "oikTvd": "100100225883432",
+    "oikName": "Республика Саха (Якутия) – Якутский",
+    "district": {
+      "districtNumber": 24,
+      "oikTvd": "100100225883432"
+    }
   },
   {
     "uikNumber": 302,
     "uikTvd": "4144016359788",
     "tikTvd": "21420001074304",
-    "tikName": "Мирнинская"
+    "tikName": "Мирнинская",
+    "uikName": "УИК №302",
+    "regionCode": "14",
+    "regionTvd": "100100225883431",
+    "regionName": "Республика Саха (Якутия)",
+    "oikTvd": "100100225883432",
+    "oikName": "Республика Саха (Якутия) – Якутский",
+    "district": {
+      "districtNumber": 24,
+      "oikTvd": "100100225883432"
+    }
   },
   {
     "uikNumber": 303,
     "uikTvd": "4144016359789",
     "tikTvd": "21420001074304",
-    "tikName": "Мирнинская"
+    "tikName": "Мирнинская",
+    "uikName": "УИК №303",
+    "regionCode": "14",
+    "regionTvd": "100100225883431",
+    "regionName": "Республика Саха (Якутия)",
+    "oikTvd": "100100225883432",
+    "oikName": "Республика Саха (Якутия) – Якутский",
+    "district": {
+      "districtNumber": 24,
+      "oikTvd": "100100225883432"
+    }
   },
   {
     "uikNumber": 304,
     "uikTvd": "4144016359790",
     "tikTvd": "21420001074304",
-    "tikName": "Мирнинская"
+    "tikName": "Мирнинская",
+    "uikName": "УИК №304",
+    "regionCode": "14",
+    "regionTvd": "100100225883431",
+    "regionName": "Республика Саха (Якутия)",
+    "oikTvd": "100100225883432",
+    "oikName": "Республика Саха (Якутия) – Якутский",
+    "district": {
+      "districtNumber": 24,
+      "oikTvd": "100100225883432"
+    }
   },
   {
     "uikNumber": 305,
     "uikTvd": "4144016359791",
     "tikTvd": "21420001074304",
-    "tikName": "Мирнинская"
+    "tikName": "Мирнинская",
+    "uikName": "УИК №305",
+    "regionCode": "14",
+    "regionTvd": "100100225883431",
+    "regionName": "Республика Саха (Якутия)",
+    "oikTvd": "100100225883432",
+    "oikName": "Республика Саха (Якутия) – Якутский",
+    "district": {
+      "districtNumber": 24,
+      "oikTvd": "100100225883432"
+    }
   },
   {
     "uikNumber": 306,
     "uikTvd": "4144016359792",
     "tikTvd": "21420001074304",
-    "tikName": "Мирнинская"
+    "tikName": "Мирнинская",
+    "uikName": "УИК №306",
+    "regionCode": "14",
+    "regionTvd": "100100225883431",
+    "regionName": "Республика Саха (Якутия)",
+    "oikTvd": "100100225883432",
+    "oikName": "Республика Саха (Якутия) – Якутский",
+    "district": {
+      "districtNumber": 24,
+      "oikTvd": "100100225883432"
+    }
   },
   {
     "uikNumber": 307,
     "uikTvd": "4144016359793",
     "tikTvd": "21420001074304",
-    "tikName": "Мирнинская"
+    "tikName": "Мирнинская",
+    "uikName": "УИК №307",
+    "regionCode": "14",
+    "regionTvd": "100100225883431",
+    "regionName": "Республика Саха (Якутия)",
+    "oikTvd": "100100225883432",
+    "oikName": "Республика Саха (Якутия) – Якутский",
+    "district": {
+      "districtNumber": 24,
+      "oikTvd": "100100225883432"
+    }
   },
   {
     "uikNumber": 308,
     "uikTvd": "4144016359794",
     "tikTvd": "21420001074304",
-    "tikName": "Мирнинская"
+    "tikName": "Мирнинская",
+    "uikName": "УИК №308",
+    "regionCode": "14",
+    "regionTvd": "100100225883431",
+    "regionName": "Республика Саха (Якутия)",
+    "oikTvd": "100100225883432",
+    "oikName": "Республика Саха (Якутия) – Якутский",
+    "district": {
+      "districtNumber": 24,
+      "oikTvd": "100100225883432"
+    }
   },
   {
     "uikNumber": 309,
     "uikTvd": "4144016359795",
     "tikTvd": "21420001074304",
-    "tikName": "Мирнинская"
+    "tikName": "Мирнинская",
+    "uikName": "УИК №309",
+    "regionCode": "14",
+    "regionTvd": "100100225883431",
+    "regionName": "Республика Саха (Якутия)",
+    "oikTvd": "100100225883432",
+    "oikName": "Республика Саха (Якутия) – Якутский",
+    "district": {
+      "districtNumber": 24,
+      "oikTvd": "100100225883432"
+    }
   },
   {
     "uikNumber": 310,
     "uikTvd": "4144016359796",
     "tikTvd": "21420001074304",
-    "tikName": "Мирнинская"
+    "tikName": "Мирнинская",
+    "uikName": "УИК №310",
+    "regionCode": "14",
+    "regionTvd": "100100225883431",
+    "regionName": "Республика Саха (Якутия)",
+    "oikTvd": "100100225883432",
+    "oikName": "Республика Саха (Якутия) – Якутский",
+    "district": {
+      "districtNumber": 24,
+      "oikTvd": "100100225883432"
+    }
   },
   {
     "uikNumber": 311,
     "uikTvd": "4144016359797",
     "tikTvd": "21420001074304",
-    "tikName": "Мирнинская"
+    "tikName": "Мирнинская",
+    "uikName": "УИК №311",
+    "regionCode": "14",
+    "regionTvd": "100100225883431",
+    "regionName": "Республика Саха (Якутия)",
+    "oikTvd": "100100225883432",
+    "oikName": "Республика Саха (Якутия) – Якутский",
+    "district": {
+      "districtNumber": 24,
+      "oikTvd": "100100225883432"
+    }
   },
   {
     "uikNumber": 312,
     "uikTvd": "4144016359798",
     "tikTvd": "21420001074304",
-    "tikName": "Мирнинская"
+    "tikName": "Мирнинская",
+    "uikName": "УИК №312",
+    "regionCode": "14",
+    "regionTvd": "100100225883431",
+    "regionName": "Республика Саха (Якутия)",
+    "oikTvd": "100100225883432",
+    "oikName": "Республика Саха (Якутия) – Якутский",
+    "district": {
+      "districtNumber": 24,
+      "oikTvd": "100100225883432"
+    }
   },
   {
     "uikNumber": 313,
     "uikTvd": "4144016359799",
     "tikTvd": "21420001074304",
-    "tikName": "Мирнинская"
+    "tikName": "Мирнинская",
+    "uikName": "УИК №313",
+    "regionCode": "14",
+    "regionTvd": "100100225883431",
+    "regionName": "Республика Саха (Якутия)",
+    "oikTvd": "100100225883432",
+    "oikName": "Республика Саха (Якутия) – Якутский",
+    "district": {
+      "districtNumber": 24,
+      "oikTvd": "100100225883432"
+    }
   },
   {
     "uikNumber": 314,
     "uikTvd": "4144016359800",
     "tikTvd": "21420001074304",
-    "tikName": "Мирнинская"
+    "tikName": "Мирнинская",
+    "uikName": "УИК №314",
+    "regionCode": "14",
+    "regionTvd": "100100225883431",
+    "regionName": "Республика Саха (Якутия)",
+    "oikTvd": "100100225883432",
+    "oikName": "Республика Саха (Якутия) – Якутский",
+    "district": {
+      "districtNumber": 24,
+      "oikTvd": "100100225883432"
+    }
   },
   {
     "uikNumber": 315,
     "uikTvd": "4144016359801",
     "tikTvd": "21420001074304",
-    "tikName": "Мирнинская"
+    "tikName": "Мирнинская",
+    "uikName": "УИК №315",
+    "regionCode": "14",
+    "regionTvd": "100100225883431",
+    "regionName": "Республика Саха (Якутия)",
+    "oikTvd": "100100225883432",
+    "oikName": "Республика Саха (Якутия) – Якутский",
+    "district": {
+      "districtNumber": 24,
+      "oikTvd": "100100225883432"
+    }
   },
   {
     "uikNumber": 316,
     "uikTvd": "4144016359802",
     "tikTvd": "21420001074304",
-    "tikName": "Мирнинская"
+    "tikName": "Мирнинская",
+    "uikName": "УИК №316",
+    "regionCode": "14",
+    "regionTvd": "100100225883431",
+    "regionName": "Республика Саха (Якутия)",
+    "oikTvd": "100100225883432",
+    "oikName": "Республика Саха (Якутия) – Якутский",
+    "district": {
+      "districtNumber": 24,
+      "oikTvd": "100100225883432"
+    }
   },
   {
     "uikNumber": 317,
     "uikTvd": "4144016359803",
     "tikTvd": "21420001074304",
-    "tikName": "Мирнинская"
+    "tikName": "Мирнинская",
+    "uikName": "УИК №317",
+    "regionCode": "14",
+    "regionTvd": "100100225883431",
+    "regionName": "Республика Саха (Якутия)",
+    "oikTvd": "100100225883432",
+    "oikName": "Республика Саха (Якутия) – Якутский",
+    "district": {
+      "districtNumber": 24,
+      "oikTvd": "100100225883432"
+    }
   },
   {
     "uikNumber": 318,
     "uikTvd": "4144016359804",
     "tikTvd": "21420001074304",
-    "tikName": "Мирнинская"
+    "tikName": "Мирнинская",
+    "uikName": "УИК №318",
+    "regionCode": "14",
+    "regionTvd": "100100225883431",
+    "regionName": "Республика Саха (Якутия)",
+    "oikTvd": "100100225883432",
+    "oikName": "Республика Саха (Якутия) – Якутский",
+    "district": {
+      "districtNumber": 24,
+      "oikTvd": "100100225883432"
+    }
   },
   {
     "uikNumber": 319,
     "uikTvd": "4144016359805",
     "tikTvd": "21420001074304",
-    "tikName": "Мирнинская"
+    "tikName": "Мирнинская",
+    "uikName": "УИК №319",
+    "regionCode": "14",
+    "regionTvd": "100100225883431",
+    "regionName": "Республика Саха (Якутия)",
+    "oikTvd": "100100225883432",
+    "oikName": "Республика Саха (Якутия) – Якутский",
+    "district": {
+      "districtNumber": 24,
+      "oikTvd": "100100225883432"
+    }
   },
   {
     "uikNumber": 320,
     "uikTvd": "4144016359806",
     "tikTvd": "21420001074304",
-    "tikName": "Мирнинская"
+    "tikName": "Мирнинская",
+    "uikName": "УИК №320",
+    "regionCode": "14",
+    "regionTvd": "100100225883431",
+    "regionName": "Республика Саха (Якутия)",
+    "oikTvd": "100100225883432",
+    "oikName": "Республика Саха (Якутия) – Якутский",
+    "district": {
+      "districtNumber": 24,
+      "oikTvd": "100100225883432"
+    }
   },
   {
     "uikNumber": 321,
     "uikTvd": "4144016359807",
     "tikTvd": "21420001074304",
-    "tikName": "Мирнинская"
+    "tikName": "Мирнинская",
+    "uikName": "УИК №321",
+    "regionCode": "14",
+    "regionTvd": "100100225883431",
+    "regionName": "Республика Саха (Якутия)",
+    "oikTvd": "100100225883432",
+    "oikName": "Республика Саха (Якутия) – Якутский",
+    "district": {
+      "districtNumber": 24,
+      "oikTvd": "100100225883432"
+    }
   },
   {
     "uikNumber": 322,
     "uikTvd": "4144016359808",
     "tikTvd": "21420001074304",
-    "tikName": "Мирнинская"
+    "tikName": "Мирнинская",
+    "uikName": "УИК №322",
+    "regionCode": "14",
+    "regionTvd": "100100225883431",
+    "regionName": "Республика Саха (Якутия)",
+    "oikTvd": "100100225883432",
+    "oikName": "Республика Саха (Якутия) – Якутский",
+    "district": {
+      "districtNumber": 24,
+      "oikTvd": "100100225883432"
+    }
   },
   {
     "uikNumber": 323,
     "uikTvd": "4144017176978",
     "tikTvd": "21420001074344",
-    "tikName": "Момская"
+    "tikName": "Момская",
+    "uikName": "УИК №323",
+    "regionCode": "14",
+    "regionTvd": "100100225883431",
+    "regionName": "Республика Саха (Якутия)",
+    "oikTvd": "100100225883432",
+    "oikName": "Республика Саха (Якутия) – Якутский",
+    "district": {
+      "districtNumber": 24,
+      "oikTvd": "100100225883432"
+    }
   },
   {
     "uikNumber": 324,
     "uikTvd": "4144017176979",
     "tikTvd": "21420001074344",
-    "tikName": "Момская"
+    "tikName": "Момская",
+    "uikName": "УИК №324",
+    "regionCode": "14",
+    "regionTvd": "100100225883431",
+    "regionName": "Республика Саха (Якутия)",
+    "oikTvd": "100100225883432",
+    "oikName": "Республика Саха (Якутия) – Якутский",
+    "district": {
+      "districtNumber": 24,
+      "oikTvd": "100100225883432"
+    }
   },
   {
     "uikNumber": 325,
     "uikTvd": "4144017176980",
     "tikTvd": "21420001074344",
-    "tikName": "Момская"
+    "tikName": "Момская",
+    "uikName": "УИК №325",
+    "regionCode": "14",
+    "regionTvd": "100100225883431",
+    "regionName": "Республика Саха (Якутия)",
+    "oikTvd": "100100225883432",
+    "oikName": "Республика Саха (Якутия) – Якутский",
+    "district": {
+      "districtNumber": 24,
+      "oikTvd": "100100225883432"
+    }
   },
   {
     "uikNumber": 326,
     "uikTvd": "4144017176981",
     "tikTvd": "21420001074344",
-    "tikName": "Момская"
+    "tikName": "Момская",
+    "uikName": "УИК №326",
+    "regionCode": "14",
+    "regionTvd": "100100225883431",
+    "regionName": "Республика Саха (Якутия)",
+    "oikTvd": "100100225883432",
+    "oikName": "Республика Саха (Якутия) – Якутский",
+    "district": {
+      "districtNumber": 24,
+      "oikTvd": "100100225883432"
+    }
   },
   {
     "uikNumber": 327,
     "uikTvd": "4144017176982",
     "tikTvd": "21420001074344",
-    "tikName": "Момская"
+    "tikName": "Момская",
+    "uikName": "УИК №327",
+    "regionCode": "14",
+    "regionTvd": "100100225883431",
+    "regionName": "Республика Саха (Якутия)",
+    "oikTvd": "100100225883432",
+    "oikName": "Республика Саха (Якутия) – Якутский",
+    "district": {
+      "districtNumber": 24,
+      "oikTvd": "100100225883432"
+    }
   },
   {
     "uikNumber": 328,
     "uikTvd": "4144017176983",
     "tikTvd": "21420001074344",
-    "tikName": "Момская"
+    "tikName": "Момская",
+    "uikName": "УИК №328",
+    "regionCode": "14",
+    "regionTvd": "100100225883431",
+    "regionName": "Республика Саха (Якутия)",
+    "oikTvd": "100100225883432",
+    "oikName": "Республика Саха (Якутия) – Якутский",
+    "district": {
+      "districtNumber": 24,
+      "oikTvd": "100100225883432"
+    }
   },
   {
     "uikNumber": 329,
     "uikTvd": "4144017176984",
     "tikTvd": "21420001074344",
-    "tikName": "Момская"
+    "tikName": "Момская",
+    "uikName": "УИК №329",
+    "regionCode": "14",
+    "regionTvd": "100100225883431",
+    "regionName": "Республика Саха (Якутия)",
+    "oikTvd": "100100225883432",
+    "oikName": "Республика Саха (Якутия) – Якутский",
+    "district": {
+      "districtNumber": 24,
+      "oikTvd": "100100225883432"
+    }
   },
   {
     "uikNumber": 330,
     "uikTvd": "4144018254661",
     "tikTvd": "21420001074326",
-    "tikName": "Намская"
+    "tikName": "Намская",
+    "uikName": "УИК №330",
+    "regionCode": "14",
+    "regionTvd": "100100225883431",
+    "regionName": "Республика Саха (Якутия)",
+    "oikTvd": "100100225883432",
+    "oikName": "Республика Саха (Якутия) – Якутский",
+    "district": {
+      "districtNumber": 24,
+      "oikTvd": "100100225883432"
+    }
   },
   {
     "uikNumber": 331,
     "uikTvd": "4144018254662",
     "tikTvd": "21420001074326",
-    "tikName": "Намская"
+    "tikName": "Намская",
+    "uikName": "УИК №331",
+    "regionCode": "14",
+    "regionTvd": "100100225883431",
+    "regionName": "Республика Саха (Якутия)",
+    "oikTvd": "100100225883432",
+    "oikName": "Республика Саха (Якутия) – Якутский",
+    "district": {
+      "districtNumber": 24,
+      "oikTvd": "100100225883432"
+    }
   },
   {
     "uikNumber": 332,
     "uikTvd": "4144018254663",
     "tikTvd": "21420001074326",
-    "tikName": "Намская"
+    "tikName": "Намская",
+    "uikName": "УИК №332",
+    "regionCode": "14",
+    "regionTvd": "100100225883431",
+    "regionName": "Республика Саха (Якутия)",
+    "oikTvd": "100100225883432",
+    "oikName": "Республика Саха (Якутия) – Якутский",
+    "district": {
+      "districtNumber": 24,
+      "oikTvd": "100100225883432"
+    }
   },
   {
     "uikNumber": 333,
     "uikTvd": "4144018254664",
     "tikTvd": "21420001074326",
-    "tikName": "Намская"
+    "tikName": "Намская",
+    "uikName": "УИК №333",
+    "regionCode": "14",
+    "regionTvd": "100100225883431",
+    "regionName": "Республика Саха (Якутия)",
+    "oikTvd": "100100225883432",
+    "oikName": "Республика Саха (Якутия) – Якутский",
+    "district": {
+      "districtNumber": 24,
+      "oikTvd": "100100225883432"
+    }
   },
   {
     "uikNumber": 334,
     "uikTvd": "4144018254665",
     "tikTvd": "21420001074326",
-    "tikName": "Намская"
+    "tikName": "Намская",
+    "uikName": "УИК №334",
+    "regionCode": "14",
+    "regionTvd": "100100225883431",
+    "regionName": "Республика Саха (Якутия)",
+    "oikTvd": "100100225883432",
+    "oikName": "Республика Саха (Якутия) – Якутский",
+    "district": {
+      "districtNumber": 24,
+      "oikTvd": "100100225883432"
+    }
   },
   {
     "uikNumber": 335,
     "uikTvd": "4144018254666",
     "tikTvd": "21420001074326",
-    "tikName": "Намская"
+    "tikName": "Намская",
+    "uikName": "УИК №335",
+    "regionCode": "14",
+    "regionTvd": "100100225883431",
+    "regionName": "Республика Саха (Якутия)",
+    "oikTvd": "100100225883432",
+    "oikName": "Республика Саха (Якутия) – Якутский",
+    "district": {
+      "districtNumber": 24,
+      "oikTvd": "100100225883432"
+    }
   },
   {
     "uikNumber": 336,
     "uikTvd": "4144018254667",
     "tikTvd": "21420001074326",
-    "tikName": "Намская"
+    "tikName": "Намская",
+    "uikName": "УИК №336",
+    "regionCode": "14",
+    "regionTvd": "100100225883431",
+    "regionName": "Республика Саха (Якутия)",
+    "oikTvd": "100100225883432",
+    "oikName": "Республика Саха (Якутия) – Якутский",
+    "district": {
+      "districtNumber": 24,
+      "oikTvd": "100100225883432"
+    }
   },
   {
     "uikNumber": 337,
     "uikTvd": "4144018254668",
     "tikTvd": "21420001074326",
-    "tikName": "Намская"
+    "tikName": "Намская",
+    "uikName": "УИК №337",
+    "regionCode": "14",
+    "regionTvd": "100100225883431",
+    "regionName": "Республика Саха (Якутия)",
+    "oikTvd": "100100225883432",
+    "oikName": "Республика Саха (Якутия) – Якутский",
+    "district": {
+      "districtNumber": 24,
+      "oikTvd": "100100225883432"
+    }
   },
   {
     "uikNumber": 338,
     "uikTvd": "4144018254669",
     "tikTvd": "21420001074326",
-    "tikName": "Намская"
+    "tikName": "Намская",
+    "uikName": "УИК №338",
+    "regionCode": "14",
+    "regionTvd": "100100225883431",
+    "regionName": "Республика Саха (Якутия)",
+    "oikTvd": "100100225883432",
+    "oikName": "Республика Саха (Якутия) – Якутский",
+    "district": {
+      "districtNumber": 24,
+      "oikTvd": "100100225883432"
+    }
   },
   {
     "uikNumber": 339,
     "uikTvd": "4144018254670",
     "tikTvd": "21420001074326",
-    "tikName": "Намская"
+    "tikName": "Намская",
+    "uikName": "УИК №339",
+    "regionCode": "14",
+    "regionTvd": "100100225883431",
+    "regionName": "Республика Саха (Якутия)",
+    "oikTvd": "100100225883432",
+    "oikName": "Республика Саха (Якутия) – Якутский",
+    "district": {
+      "districtNumber": 24,
+      "oikTvd": "100100225883432"
+    }
   },
   {
     "uikNumber": 340,
     "uikTvd": "4144018254671",
     "tikTvd": "21420001074326",
-    "tikName": "Намская"
+    "tikName": "Намская",
+    "uikName": "УИК №340",
+    "regionCode": "14",
+    "regionTvd": "100100225883431",
+    "regionName": "Республика Саха (Якутия)",
+    "oikTvd": "100100225883432",
+    "oikName": "Республика Саха (Якутия) – Якутский",
+    "district": {
+      "districtNumber": 24,
+      "oikTvd": "100100225883432"
+    }
   },
   {
     "uikNumber": 341,
     "uikTvd": "4144018254672",
     "tikTvd": "21420001074326",
-    "tikName": "Намская"
+    "tikName": "Намская",
+    "uikName": "УИК №341",
+    "regionCode": "14",
+    "regionTvd": "100100225883431",
+    "regionName": "Республика Саха (Якутия)",
+    "oikTvd": "100100225883432",
+    "oikName": "Республика Саха (Якутия) – Якутский",
+    "district": {
+      "districtNumber": 24,
+      "oikTvd": "100100225883432"
+    }
   },
   {
     "uikNumber": 342,
     "uikTvd": "4144018254673",
     "tikTvd": "21420001074326",
-    "tikName": "Намская"
+    "tikName": "Намская",
+    "uikName": "УИК №342",
+    "regionCode": "14",
+    "regionTvd": "100100225883431",
+    "regionName": "Республика Саха (Якутия)",
+    "oikTvd": "100100225883432",
+    "oikName": "Республика Саха (Якутия) – Якутский",
+    "district": {
+      "districtNumber": 24,
+      "oikTvd": "100100225883432"
+    }
   },
   {
     "uikNumber": 343,
     "uikTvd": "4144018254674",
     "tikTvd": "21420001074326",
-    "tikName": "Намская"
+    "tikName": "Намская",
+    "uikName": "УИК №343",
+    "regionCode": "14",
+    "regionTvd": "100100225883431",
+    "regionName": "Республика Саха (Якутия)",
+    "oikTvd": "100100225883432",
+    "oikName": "Республика Саха (Якутия) – Якутский",
+    "district": {
+      "districtNumber": 24,
+      "oikTvd": "100100225883432"
+    }
   },
   {
     "uikNumber": 344,
     "uikTvd": "4144018254675",
     "tikTvd": "21420001074326",
-    "tikName": "Намская"
+    "tikName": "Намская",
+    "uikName": "УИК №344",
+    "regionCode": "14",
+    "regionTvd": "100100225883431",
+    "regionName": "Республика Саха (Якутия)",
+    "oikTvd": "100100225883432",
+    "oikName": "Республика Саха (Якутия) – Якутский",
+    "district": {
+      "districtNumber": 24,
+      "oikTvd": "100100225883432"
+    }
   },
   {
     "uikNumber": 345,
     "uikTvd": "4144018254676",
     "tikTvd": "21420001074326",
-    "tikName": "Намская"
+    "tikName": "Намская",
+    "uikName": "УИК №345",
+    "regionCode": "14",
+    "regionTvd": "100100225883431",
+    "regionName": "Республика Саха (Якутия)",
+    "oikTvd": "100100225883432",
+    "oikName": "Республика Саха (Якутия) – Якутский",
+    "district": {
+      "districtNumber": 24,
+      "oikTvd": "100100225883432"
+    }
   },
   {
     "uikNumber": 346,
     "uikTvd": "4144018254677",
     "tikTvd": "21420001074326",
-    "tikName": "Намская"
+    "tikName": "Намская",
+    "uikName": "УИК №346",
+    "regionCode": "14",
+    "regionTvd": "100100225883431",
+    "regionName": "Республика Саха (Якутия)",
+    "oikTvd": "100100225883432",
+    "oikName": "Республика Саха (Якутия) – Якутский",
+    "district": {
+      "districtNumber": 24,
+      "oikTvd": "100100225883432"
+    }
   },
   {
     "uikNumber": 347,
     "uikTvd": "4144018254678",
     "tikTvd": "21420001074326",
-    "tikName": "Намская"
+    "tikName": "Намская",
+    "uikName": "УИК №347",
+    "regionCode": "14",
+    "regionTvd": "100100225883431",
+    "regionName": "Республика Саха (Якутия)",
+    "oikTvd": "100100225883432",
+    "oikName": "Республика Саха (Якутия) – Якутский",
+    "district": {
+      "districtNumber": 24,
+      "oikTvd": "100100225883432"
+    }
   },
   {
     "uikNumber": 348,
     "uikTvd": "4144018254679",
     "tikTvd": "21420001074326",
-    "tikName": "Намская"
+    "tikName": "Намская",
+    "uikName": "УИК №348",
+    "regionCode": "14",
+    "regionTvd": "100100225883431",
+    "regionName": "Республика Саха (Якутия)",
+    "oikTvd": "100100225883432",
+    "oikName": "Республика Саха (Якутия) – Якутский",
+    "district": {
+      "districtNumber": 24,
+      "oikTvd": "100100225883432"
+    }
   },
   {
     "uikNumber": 349,
     "uikTvd": "4144018254680",
     "tikTvd": "21420001074326",
-    "tikName": "Намская"
+    "tikName": "Намская",
+    "uikName": "УИК №349",
+    "regionCode": "14",
+    "regionTvd": "100100225883431",
+    "regionName": "Республика Саха (Якутия)",
+    "oikTvd": "100100225883432",
+    "oikName": "Республика Саха (Якутия) – Якутский",
+    "district": {
+      "districtNumber": 24,
+      "oikTvd": "100100225883432"
+    }
   },
   {
     "uikNumber": 350,
     "uikTvd": "4144018254681",
     "tikTvd": "21420001074326",
-    "tikName": "Намская"
+    "tikName": "Намская",
+    "uikName": "УИК №350",
+    "regionCode": "14",
+    "regionTvd": "100100225883431",
+    "regionName": "Республика Саха (Якутия)",
+    "oikTvd": "100100225883432",
+    "oikName": "Республика Саха (Якутия) – Якутский",
+    "district": {
+      "districtNumber": 24,
+      "oikTvd": "100100225883432"
+    }
   },
   {
     "uikNumber": 351,
     "uikTvd": "4144018254682",
     "tikTvd": "21420001074326",
-    "tikName": "Намская"
+    "tikName": "Намская",
+    "uikName": "УИК №351",
+    "regionCode": "14",
+    "regionTvd": "100100225883431",
+    "regionName": "Республика Саха (Якутия)",
+    "oikTvd": "100100225883432",
+    "oikName": "Республика Саха (Якутия) – Якутский",
+    "district": {
+      "districtNumber": 24,
+      "oikTvd": "100100225883432"
+    }
   },
   {
     "uikNumber": 352,
     "uikTvd": "4144018254683",
     "tikTvd": "21420001074326",
-    "tikName": "Намская"
+    "tikName": "Намская",
+    "uikName": "УИК №352",
+    "regionCode": "14",
+    "regionTvd": "100100225883431",
+    "regionName": "Республика Саха (Якутия)",
+    "oikTvd": "100100225883432",
+    "oikName": "Республика Саха (Якутия) – Якутский",
+    "district": {
+      "districtNumber": 24,
+      "oikTvd": "100100225883432"
+    }
   },
   {
     "uikNumber": 353,
     "uikTvd": "4144018254684",
     "tikTvd": "21420001074326",
-    "tikName": "Намская"
+    "tikName": "Намская",
+    "uikName": "УИК №353",
+    "regionCode": "14",
+    "regionTvd": "100100225883431",
+    "regionName": "Республика Саха (Якутия)",
+    "oikTvd": "100100225883432",
+    "oikName": "Республика Саха (Якутия) – Якутский",
+    "district": {
+      "districtNumber": 24,
+      "oikTvd": "100100225883432"
+    }
   },
   {
     "uikNumber": 354,
     "uikTvd": "4144018254685",
     "tikTvd": "21420001074326",
-    "tikName": "Намская"
+    "tikName": "Намская",
+    "uikName": "УИК №354",
+    "regionCode": "14",
+    "regionTvd": "100100225883431",
+    "regionName": "Республика Саха (Якутия)",
+    "oikTvd": "100100225883432",
+    "oikName": "Республика Саха (Якутия) – Якутский",
+    "district": {
+      "districtNumber": 24,
+      "oikTvd": "100100225883432"
+    }
   },
   {
     "uikNumber": 355,
     "uikTvd": "4144018254686",
     "tikTvd": "21420001074326",
-    "tikName": "Намская"
+    "tikName": "Намская",
+    "uikName": "УИК №355",
+    "regionCode": "14",
+    "regionTvd": "100100225883431",
+    "regionName": "Республика Саха (Якутия)",
+    "oikTvd": "100100225883432",
+    "oikName": "Республика Саха (Якутия) – Якутский",
+    "district": {
+      "districtNumber": 24,
+      "oikTvd": "100100225883432"
+    }
   },
   {
     "uikNumber": 356,
     "uikTvd": "4144018254687",
     "tikTvd": "21420001074326",
-    "tikName": "Намская"
+    "tikName": "Намская",
+    "uikName": "УИК №356",
+    "regionCode": "14",
+    "regionTvd": "100100225883431",
+    "regionName": "Республика Саха (Якутия)",
+    "oikTvd": "100100225883432",
+    "oikName": "Республика Саха (Якутия) – Якутский",
+    "district": {
+      "districtNumber": 24,
+      "oikTvd": "100100225883432"
+    }
   },
   {
     "uikNumber": 357,
     "uikTvd": "4144019229591",
     "tikTvd": "21420001074342",
-    "tikName": "Нерюнгринская"
+    "tikName": "Нерюнгринская",
+    "uikName": "УИК №357",
+    "regionCode": "14",
+    "regionTvd": "100100225883431",
+    "regionName": "Республика Саха (Якутия)",
+    "oikTvd": "100100225883432",
+    "oikName": "Республика Саха (Якутия) – Якутский",
+    "district": {
+      "districtNumber": 24,
+      "oikTvd": "100100225883432"
+    }
   },
   {
     "uikNumber": 358,
     "uikTvd": "4144019229592",
     "tikTvd": "21420001074342",
-    "tikName": "Нерюнгринская"
+    "tikName": "Нерюнгринская",
+    "uikName": "УИК №358",
+    "regionCode": "14",
+    "regionTvd": "100100225883431",
+    "regionName": "Республика Саха (Якутия)",
+    "oikTvd": "100100225883432",
+    "oikName": "Республика Саха (Якутия) – Якутский",
+    "district": {
+      "districtNumber": 24,
+      "oikTvd": "100100225883432"
+    }
   },
   {
     "uikNumber": 359,
     "uikTvd": "4144019229593",
     "tikTvd": "21420001074342",
-    "tikName": "Нерюнгринская"
+    "tikName": "Нерюнгринская",
+    "uikName": "УИК №359",
+    "regionCode": "14",
+    "regionTvd": "100100225883431",
+    "regionName": "Республика Саха (Якутия)",
+    "oikTvd": "100100225883432",
+    "oikName": "Республика Саха (Якутия) – Якутский",
+    "district": {
+      "districtNumber": 24,
+      "oikTvd": "100100225883432"
+    }
   },
   {
     "uikNumber": 360,
     "uikTvd": "4144019229594",
     "tikTvd": "21420001074342",
-    "tikName": "Нерюнгринская"
+    "tikName": "Нерюнгринская",
+    "uikName": "УИК №360",
+    "regionCode": "14",
+    "regionTvd": "100100225883431",
+    "regionName": "Республика Саха (Якутия)",
+    "oikTvd": "100100225883432",
+    "oikName": "Республика Саха (Якутия) – Якутский",
+    "district": {
+      "districtNumber": 24,
+      "oikTvd": "100100225883432"
+    }
   },
   {
     "uikNumber": 361,
     "uikTvd": "4144019229595",
     "tikTvd": "21420001074342",
-    "tikName": "Нерюнгринская"
+    "tikName": "Нерюнгринская",
+    "uikName": "УИК №361",
+    "regionCode": "14",
+    "regionTvd": "100100225883431",
+    "regionName": "Республика Саха (Якутия)",
+    "oikTvd": "100100225883432",
+    "oikName": "Республика Саха (Якутия) – Якутский",
+    "district": {
+      "districtNumber": 24,
+      "oikTvd": "100100225883432"
+    }
   },
   {
     "uikNumber": 362,
     "uikTvd": "4144019229596",
     "tikTvd": "21420001074342",
-    "tikName": "Нерюнгринская"
+    "tikName": "Нерюнгринская",
+    "uikName": "УИК №362",
+    "regionCode": "14",
+    "regionTvd": "100100225883431",
+    "regionName": "Республика Саха (Якутия)",
+    "oikTvd": "100100225883432",
+    "oikName": "Республика Саха (Якутия) – Якутский",
+    "district": {
+      "districtNumber": 24,
+      "oikTvd": "100100225883432"
+    }
   },
   {
     "uikNumber": 363,
     "uikTvd": "4144019229597",
     "tikTvd": "21420001074342",
-    "tikName": "Нерюнгринская"
+    "tikName": "Нерюнгринская",
+    "uikName": "УИК №363",
+    "regionCode": "14",
+    "regionTvd": "100100225883431",
+    "regionName": "Республика Саха (Якутия)",
+    "oikTvd": "100100225883432",
+    "oikName": "Республика Саха (Якутия) – Якутский",
+    "district": {
+      "districtNumber": 24,
+      "oikTvd": "100100225883432"
+    }
   },
   {
     "uikNumber": 364,
     "uikTvd": "4144019229598",
     "tikTvd": "21420001074342",
-    "tikName": "Нерюнгринская"
+    "tikName": "Нерюнгринская",
+    "uikName": "УИК №364",
+    "regionCode": "14",
+    "regionTvd": "100100225883431",
+    "regionName": "Республика Саха (Якутия)",
+    "oikTvd": "100100225883432",
+    "oikName": "Республика Саха (Якутия) – Якутский",
+    "district": {
+      "districtNumber": 24,
+      "oikTvd": "100100225883432"
+    }
   },
   {
     "uikNumber": 365,
     "uikTvd": "4144019229599",
     "tikTvd": "21420001074342",
-    "tikName": "Нерюнгринская"
+    "tikName": "Нерюнгринская",
+    "uikName": "УИК №365",
+    "regionCode": "14",
+    "regionTvd": "100100225883431",
+    "regionName": "Республика Саха (Якутия)",
+    "oikTvd": "100100225883432",
+    "oikName": "Республика Саха (Якутия) – Якутский",
+    "district": {
+      "districtNumber": 24,
+      "oikTvd": "100100225883432"
+    }
   },
   {
     "uikNumber": 366,
     "uikTvd": "4144019229600",
     "tikTvd": "21420001074342",
-    "tikName": "Нерюнгринская"
+    "tikName": "Нерюнгринская",
+    "uikName": "УИК №366",
+    "regionCode": "14",
+    "regionTvd": "100100225883431",
+    "regionName": "Республика Саха (Якутия)",
+    "oikTvd": "100100225883432",
+    "oikName": "Республика Саха (Якутия) – Якутский",
+    "district": {
+      "districtNumber": 24,
+      "oikTvd": "100100225883432"
+    }
   },
   {
     "uikNumber": 367,
     "uikTvd": "4144019229601",
     "tikTvd": "21420001074342",
-    "tikName": "Нерюнгринская"
+    "tikName": "Нерюнгринская",
+    "uikName": "УИК №367",
+    "regionCode": "14",
+    "regionTvd": "100100225883431",
+    "regionName": "Республика Саха (Якутия)",
+    "oikTvd": "100100225883432",
+    "oikName": "Республика Саха (Якутия) – Якутский",
+    "district": {
+      "districtNumber": 24,
+      "oikTvd": "100100225883432"
+    }
   },
   {
     "uikNumber": 368,
     "uikTvd": "4144019229602",
     "tikTvd": "21420001074342",
-    "tikName": "Нерюнгринская"
+    "tikName": "Нерюнгринская",
+    "uikName": "УИК №368",
+    "regionCode": "14",
+    "regionTvd": "100100225883431",
+    "regionName": "Республика Саха (Якутия)",
+    "oikTvd": "100100225883432",
+    "oikName": "Республика Саха (Якутия) – Якутский",
+    "district": {
+      "districtNumber": 24,
+      "oikTvd": "100100225883432"
+    }
   },
   {
     "uikNumber": 369,
     "uikTvd": "4144019229603",
     "tikTvd": "21420001074342",
-    "tikName": "Нерюнгринская"
+    "tikName": "Нерюнгринская",
+    "uikName": "УИК №369",
+    "regionCode": "14",
+    "regionTvd": "100100225883431",
+    "regionName": "Республика Саха (Якутия)",
+    "oikTvd": "100100225883432",
+    "oikName": "Республика Саха (Якутия) – Якутский",
+    "district": {
+      "districtNumber": 24,
+      "oikTvd": "100100225883432"
+    }
   },
   {
     "uikNumber": 370,
     "uikTvd": "4144019229604",
     "tikTvd": "21420001074342",
-    "tikName": "Нерюнгринская"
+    "tikName": "Нерюнгринская",
+    "uikName": "УИК №370",
+    "regionCode": "14",
+    "regionTvd": "100100225883431",
+    "regionName": "Республика Саха (Якутия)",
+    "oikTvd": "100100225883432",
+    "oikName": "Республика Саха (Якутия) – Якутский",
+    "district": {
+      "districtNumber": 24,
+      "oikTvd": "100100225883432"
+    }
   },
   {
     "uikNumber": 371,
     "uikTvd": "4144019229605",
     "tikTvd": "21420001074342",
-    "tikName": "Нерюнгринская"
+    "tikName": "Нерюнгринская",
+    "uikName": "УИК №371",
+    "regionCode": "14",
+    "regionTvd": "100100225883431",
+    "regionName": "Республика Саха (Якутия)",
+    "oikTvd": "100100225883432",
+    "oikName": "Республика Саха (Якутия) – Якутский",
+    "district": {
+      "districtNumber": 24,
+      "oikTvd": "100100225883432"
+    }
   },
   {
     "uikNumber": 372,
     "uikTvd": "4144019229606",
     "tikTvd": "21420001074342",
-    "tikName": "Нерюнгринская"
+    "tikName": "Нерюнгринская",
+    "uikName": "УИК №372",
+    "regionCode": "14",
+    "regionTvd": "100100225883431",
+    "regionName": "Республика Саха (Якутия)",
+    "oikTvd": "100100225883432",
+    "oikName": "Республика Саха (Якутия) – Якутский",
+    "district": {
+      "districtNumber": 24,
+      "oikTvd": "100100225883432"
+    }
   },
   {
     "uikNumber": 373,
     "uikTvd": "4144019229607",
     "tikTvd": "21420001074342",
-    "tikName": "Нерюнгринская"
+    "tikName": "Нерюнгринская",
+    "uikName": "УИК №373",
+    "regionCode": "14",
+    "regionTvd": "100100225883431",
+    "regionName": "Республика Саха (Якутия)",
+    "oikTvd": "100100225883432",
+    "oikName": "Республика Саха (Якутия) – Якутский",
+    "district": {
+      "districtNumber": 24,
+      "oikTvd": "100100225883432"
+    }
   },
   {
     "uikNumber": 374,
     "uikTvd": "4144019229608",
     "tikTvd": "21420001074342",
-    "tikName": "Нерюнгринская"
+    "tikName": "Нерюнгринская",
+    "uikName": "УИК №374",
+    "regionCode": "14",
+    "regionTvd": "100100225883431",
+    "regionName": "Республика Саха (Якутия)",
+    "oikTvd": "100100225883432",
+    "oikName": "Республика Саха (Якутия) – Якутский",
+    "district": {
+      "districtNumber": 24,
+      "oikTvd": "100100225883432"
+    }
   },
   {
     "uikNumber": 375,
     "uikTvd": "4144019229609",
     "tikTvd": "21420001074342",
-    "tikName": "Нерюнгринская"
+    "tikName": "Нерюнгринская",
+    "uikName": "УИК №375",
+    "regionCode": "14",
+    "regionTvd": "100100225883431",
+    "regionName": "Республика Саха (Якутия)",
+    "oikTvd": "100100225883432",
+    "oikName": "Республика Саха (Якутия) – Якутский",
+    "district": {
+      "districtNumber": 24,
+      "oikTvd": "100100225883432"
+    }
   },
   {
     "uikNumber": 376,
     "uikTvd": "4144019229610",
     "tikTvd": "21420001074342",
-    "tikName": "Нерюнгринская"
+    "tikName": "Нерюнгринская",
+    "uikName": "УИК №376",
+    "regionCode": "14",
+    "regionTvd": "100100225883431",
+    "regionName": "Республика Саха (Якутия)",
+    "oikTvd": "100100225883432",
+    "oikName": "Республика Саха (Якутия) – Якутский",
+    "district": {
+      "districtNumber": 24,
+      "oikTvd": "100100225883432"
+    }
   },
   {
     "uikNumber": 377,
     "uikTvd": "4144019229611",
     "tikTvd": "21420001074342",
-    "tikName": "Нерюнгринская"
+    "tikName": "Нерюнгринская",
+    "uikName": "УИК №377",
+    "regionCode": "14",
+    "regionTvd": "100100225883431",
+    "regionName": "Республика Саха (Якутия)",
+    "oikTvd": "100100225883432",
+    "oikName": "Республика Саха (Якутия) – Якутский",
+    "district": {
+      "districtNumber": 24,
+      "oikTvd": "100100225883432"
+    }
   },
   {
     "uikNumber": 378,
     "uikTvd": "4144019229612",
     "tikTvd": "21420001074342",
-    "tikName": "Нерюнгринская"
+    "tikName": "Нерюнгринская",
+    "uikName": "УИК №378",
+    "regionCode": "14",
+    "regionTvd": "100100225883431",
+    "regionName": "Республика Саха (Якутия)",
+    "oikTvd": "100100225883432",
+    "oikName": "Республика Саха (Якутия) – Якутский",
+    "district": {
+      "districtNumber": 24,
+      "oikTvd": "100100225883432"
+    }
   },
   {
     "uikNumber": 379,
     "uikTvd": "4144019229613",
     "tikTvd": "21420001074342",
-    "tikName": "Нерюнгринская"
+    "tikName": "Нерюнгринская",
+    "uikName": "УИК №379",
+    "regionCode": "14",
+    "regionTvd": "100100225883431",
+    "regionName": "Республика Саха (Якутия)",
+    "oikTvd": "100100225883432",
+    "oikName": "Республика Саха (Якутия) – Якутский",
+    "district": {
+      "districtNumber": 24,
+      "oikTvd": "100100225883432"
+    }
   },
   {
     "uikNumber": 380,
     "uikTvd": "4144019229614",
     "tikTvd": "21420001074342",
-    "tikName": "Нерюнгринская"
+    "tikName": "Нерюнгринская",
+    "uikName": "УИК №380",
+    "regionCode": "14",
+    "regionTvd": "100100225883431",
+    "regionName": "Республика Саха (Якутия)",
+    "oikTvd": "100100225883432",
+    "oikName": "Республика Саха (Якутия) – Якутский",
+    "district": {
+      "districtNumber": 24,
+      "oikTvd": "100100225883432"
+    }
   },
   {
     "uikNumber": 381,
     "uikTvd": "4144019229615",
     "tikTvd": "21420001074342",
-    "tikName": "Нерюнгринская"
+    "tikName": "Нерюнгринская",
+    "uikName": "УИК №381",
+    "regionCode": "14",
+    "regionTvd": "100100225883431",
+    "regionName": "Республика Саха (Якутия)",
+    "oikTvd": "100100225883432",
+    "oikName": "Республика Саха (Якутия) – Якутский",
+    "district": {
+      "districtNumber": 24,
+      "oikTvd": "100100225883432"
+    }
   },
   {
     "uikNumber": 382,
     "uikTvd": "4144019229616",
     "tikTvd": "21420001074342",
-    "tikName": "Нерюнгринская"
+    "tikName": "Нерюнгринская",
+    "uikName": "УИК №382",
+    "regionCode": "14",
+    "regionTvd": "100100225883431",
+    "regionName": "Республика Саха (Якутия)",
+    "oikTvd": "100100225883432",
+    "oikName": "Республика Саха (Якутия) – Якутский",
+    "district": {
+      "districtNumber": 24,
+      "oikTvd": "100100225883432"
+    }
   },
   {
     "uikNumber": 383,
     "uikTvd": "4144019229617",
     "tikTvd": "21420001074342",
-    "tikName": "Нерюнгринская"
+    "tikName": "Нерюнгринская",
+    "uikName": "УИК №383",
+    "regionCode": "14",
+    "regionTvd": "100100225883431",
+    "regionName": "Республика Саха (Якутия)",
+    "oikTvd": "100100225883432",
+    "oikName": "Республика Саха (Якутия) – Якутский",
+    "district": {
+      "districtNumber": 24,
+      "oikTvd": "100100225883432"
+    }
   },
   {
     "uikNumber": 384,
     "uikTvd": "4144019229618",
     "tikTvd": "21420001074342",
-    "tikName": "Нерюнгринская"
+    "tikName": "Нерюнгринская",
+    "uikName": "УИК №384",
+    "regionCode": "14",
+    "regionTvd": "100100225883431",
+    "regionName": "Республика Саха (Якутия)",
+    "oikTvd": "100100225883432",
+    "oikName": "Республика Саха (Якутия) – Якутский",
+    "district": {
+      "districtNumber": 24,
+      "oikTvd": "100100225883432"
+    }
   },
   {
     "uikNumber": 385,
     "uikTvd": "4144019229619",
     "tikTvd": "21420001074342",
-    "tikName": "Нерюнгринская"
+    "tikName": "Нерюнгринская",
+    "uikName": "УИК №385",
+    "regionCode": "14",
+    "regionTvd": "100100225883431",
+    "regionName": "Республика Саха (Якутия)",
+    "oikTvd": "100100225883432",
+    "oikName": "Республика Саха (Якутия) – Якутский",
+    "district": {
+      "districtNumber": 24,
+      "oikTvd": "100100225883432"
+    }
   },
   {
     "uikNumber": 386,
     "uikTvd": "4144019229620",
     "tikTvd": "21420001074342",
-    "tikName": "Нерюнгринская"
+    "tikName": "Нерюнгринская",
+    "uikName": "УИК №386",
+    "regionCode": "14",
+    "regionTvd": "100100225883431",
+    "regionName": "Республика Саха (Якутия)",
+    "oikTvd": "100100225883432",
+    "oikName": "Республика Саха (Якутия) – Якутский",
+    "district": {
+      "districtNumber": 24,
+      "oikTvd": "100100225883432"
+    }
   },
   {
     "uikNumber": 387,
     "uikTvd": "4144019229621",
     "tikTvd": "21420001074342",
-    "tikName": "Нерюнгринская"
+    "tikName": "Нерюнгринская",
+    "uikName": "УИК №387",
+    "regionCode": "14",
+    "regionTvd": "100100225883431",
+    "regionName": "Республика Саха (Якутия)",
+    "oikTvd": "100100225883432",
+    "oikName": "Республика Саха (Якутия) – Якутский",
+    "district": {
+      "districtNumber": 24,
+      "oikTvd": "100100225883432"
+    }
   },
   {
     "uikNumber": 388,
     "uikTvd": "4144019229622",
     "tikTvd": "21420001074342",
-    "tikName": "Нерюнгринская"
+    "tikName": "Нерюнгринская",
+    "uikName": "УИК №388",
+    "regionCode": "14",
+    "regionTvd": "100100225883431",
+    "regionName": "Республика Саха (Якутия)",
+    "oikTvd": "100100225883432",
+    "oikName": "Республика Саха (Якутия) – Якутский",
+    "district": {
+      "districtNumber": 24,
+      "oikTvd": "100100225883432"
+    }
   },
   {
     "uikNumber": 389,
     "uikTvd": "4144019229623",
     "tikTvd": "21420001074342",
-    "tikName": "Нерюнгринская"
+    "tikName": "Нерюнгринская",
+    "uikName": "УИК №389",
+    "regionCode": "14",
+    "regionTvd": "100100225883431",
+    "regionName": "Республика Саха (Якутия)",
+    "oikTvd": "100100225883432",
+    "oikName": "Республика Саха (Якутия) – Якутский",
+    "district": {
+      "districtNumber": 24,
+      "oikTvd": "100100225883432"
+    }
   },
   {
     "uikNumber": 391,
     "uikTvd": "4144020140791",
     "tikTvd": "21420001074308",
-    "tikName": "Нижнеколымская"
+    "tikName": "Нижнеколымская",
+    "uikName": "УИК №391",
+    "regionCode": "14",
+    "regionTvd": "100100225883431",
+    "regionName": "Республика Саха (Якутия)",
+    "oikTvd": "100100225883432",
+    "oikName": "Республика Саха (Якутия) – Якутский",
+    "district": {
+      "districtNumber": 24,
+      "oikTvd": "100100225883432"
+    }
   },
   {
     "uikNumber": 392,
     "uikTvd": "4144020140792",
     "tikTvd": "21420001074308",
-    "tikName": "Нижнеколымская"
+    "tikName": "Нижнеколымская",
+    "uikName": "УИК №392",
+    "regionCode": "14",
+    "regionTvd": "100100225883431",
+    "regionName": "Республика Саха (Якутия)",
+    "oikTvd": "100100225883432",
+    "oikName": "Республика Саха (Якутия) – Якутский",
+    "district": {
+      "districtNumber": 24,
+      "oikTvd": "100100225883432"
+    }
   },
   {
     "uikNumber": 393,
     "uikTvd": "4144020140793",
     "tikTvd": "21420001074308",
-    "tikName": "Нижнеколымская"
+    "tikName": "Нижнеколымская",
+    "uikName": "УИК №393",
+    "regionCode": "14",
+    "regionTvd": "100100225883431",
+    "regionName": "Республика Саха (Якутия)",
+    "oikTvd": "100100225883432",
+    "oikName": "Республика Саха (Якутия) – Якутский",
+    "district": {
+      "districtNumber": 24,
+      "oikTvd": "100100225883432"
+    }
   },
   {
     "uikNumber": 394,
     "uikTvd": "4144020140794",
     "tikTvd": "21420001074308",
-    "tikName": "Нижнеколымская"
+    "tikName": "Нижнеколымская",
+    "uikName": "УИК №394",
+    "regionCode": "14",
+    "regionTvd": "100100225883431",
+    "regionName": "Республика Саха (Якутия)",
+    "oikTvd": "100100225883432",
+    "oikName": "Республика Саха (Якутия) – Якутский",
+    "district": {
+      "districtNumber": 24,
+      "oikTvd": "100100225883432"
+    }
   },
   {
     "uikNumber": 395,
     "uikTvd": "4144020140795",
     "tikTvd": "21420001074308",
-    "tikName": "Нижнеколымская"
+    "tikName": "Нижнеколымская",
+    "uikName": "УИК №395",
+    "regionCode": "14",
+    "regionTvd": "100100225883431",
+    "regionName": "Республика Саха (Якутия)",
+    "oikTvd": "100100225883432",
+    "oikName": "Республика Саха (Якутия) – Якутский",
+    "district": {
+      "districtNumber": 24,
+      "oikTvd": "100100225883432"
+    }
   },
   {
     "uikNumber": 396,
     "uikTvd": "4144021240467",
     "tikTvd": "21420001074323",
-    "tikName": "Нюрбинская"
+    "tikName": "Нюрбинская",
+    "uikName": "УИК №396",
+    "regionCode": "14",
+    "regionTvd": "100100225883431",
+    "regionName": "Республика Саха (Якутия)",
+    "oikTvd": "100100225883432",
+    "oikName": "Республика Саха (Якутия) – Якутский",
+    "district": {
+      "districtNumber": 24,
+      "oikTvd": "100100225883432"
+    }
   },
   {
     "uikNumber": 397,
     "uikTvd": "4144021240468",
     "tikTvd": "21420001074323",
-    "tikName": "Нюрбинская"
+    "tikName": "Нюрбинская",
+    "uikName": "УИК №397",
+    "regionCode": "14",
+    "regionTvd": "100100225883431",
+    "regionName": "Республика Саха (Якутия)",
+    "oikTvd": "100100225883432",
+    "oikName": "Республика Саха (Якутия) – Якутский",
+    "district": {
+      "districtNumber": 24,
+      "oikTvd": "100100225883432"
+    }
   },
   {
     "uikNumber": 398,
     "uikTvd": "4144021240469",
     "tikTvd": "21420001074323",
-    "tikName": "Нюрбинская"
+    "tikName": "Нюрбинская",
+    "uikName": "УИК №398",
+    "regionCode": "14",
+    "regionTvd": "100100225883431",
+    "regionName": "Республика Саха (Якутия)",
+    "oikTvd": "100100225883432",
+    "oikName": "Республика Саха (Якутия) – Якутский",
+    "district": {
+      "districtNumber": 24,
+      "oikTvd": "100100225883432"
+    }
   },
   {
     "uikNumber": 399,
     "uikTvd": "4144021240470",
     "tikTvd": "21420001074323",
-    "tikName": "Нюрбинская"
+    "tikName": "Нюрбинская",
+    "uikName": "УИК №399",
+    "regionCode": "14",
+    "regionTvd": "100100225883431",
+    "regionName": "Республика Саха (Якутия)",
+    "oikTvd": "100100225883432",
+    "oikName": "Республика Саха (Якутия) – Якутский",
+    "district": {
+      "districtNumber": 24,
+      "oikTvd": "100100225883432"
+    }
   },
   {
     "uikNumber": 400,
     "uikTvd": "4144021240471",
     "tikTvd": "21420001074323",
-    "tikName": "Нюрбинская"
+    "tikName": "Нюрбинская",
+    "uikName": "УИК №400",
+    "regionCode": "14",
+    "regionTvd": "100100225883431",
+    "regionName": "Республика Саха (Якутия)",
+    "oikTvd": "100100225883432",
+    "oikName": "Республика Саха (Якутия) – Якутский",
+    "district": {
+      "districtNumber": 24,
+      "oikTvd": "100100225883432"
+    }
   },
   {
     "uikNumber": 401,
     "uikTvd": "4144021240472",
     "tikTvd": "21420001074323",
-    "tikName": "Нюрбинская"
+    "tikName": "Нюрбинская",
+    "uikName": "УИК №401",
+    "regionCode": "14",
+    "regionTvd": "100100225883431",
+    "regionName": "Республика Саха (Якутия)",
+    "oikTvd": "100100225883432",
+    "oikName": "Республика Саха (Якутия) – Якутский",
+    "district": {
+      "districtNumber": 24,
+      "oikTvd": "100100225883432"
+    }
   },
   {
     "uikNumber": 402,
     "uikTvd": "4144021240473",
     "tikTvd": "21420001074323",
-    "tikName": "Нюрбинская"
+    "tikName": "Нюрбинская",
+    "uikName": "УИК №402",
+    "regionCode": "14",
+    "regionTvd": "100100225883431",
+    "regionName": "Республика Саха (Якутия)",
+    "oikTvd": "100100225883432",
+    "oikName": "Республика Саха (Якутия) – Якутский",
+    "district": {
+      "districtNumber": 24,
+      "oikTvd": "100100225883432"
+    }
   },
   {
     "uikNumber": 403,
     "uikTvd": "4144021240474",
     "tikTvd": "21420001074323",
-    "tikName": "Нюрбинская"
+    "tikName": "Нюрбинская",
+    "uikName": "УИК №403",
+    "regionCode": "14",
+    "regionTvd": "100100225883431",
+    "regionName": "Республика Саха (Якутия)",
+    "oikTvd": "100100225883432",
+    "oikName": "Республика Саха (Якутия) – Якутский",
+    "district": {
+      "districtNumber": 24,
+      "oikTvd": "100100225883432"
+    }
   },
   {
     "uikNumber": 404,
     "uikTvd": "4144021240475",
     "tikTvd": "21420001074323",
-    "tikName": "Нюрбинская"
+    "tikName": "Нюрбинская",
+    "uikName": "УИК №404",
+    "regionCode": "14",
+    "regionTvd": "100100225883431",
+    "regionName": "Республика Саха (Якутия)",
+    "oikTvd": "100100225883432",
+    "oikName": "Республика Саха (Якутия) – Якутский",
+    "district": {
+      "districtNumber": 24,
+      "oikTvd": "100100225883432"
+    }
   },
   {
     "uikNumber": 405,
     "uikTvd": "4144021240476",
     "tikTvd": "21420001074323",
-    "tikName": "Нюрбинская"
+    "tikName": "Нюрбинская",
+    "uikName": "УИК №405",
+    "regionCode": "14",
+    "regionTvd": "100100225883431",
+    "regionName": "Республика Саха (Якутия)",
+    "oikTvd": "100100225883432",
+    "oikName": "Республика Саха (Якутия) – Якутский",
+    "district": {
+      "districtNumber": 24,
+      "oikTvd": "100100225883432"
+    }
   },
   {
     "uikNumber": 406,
     "uikTvd": "4144021240477",
     "tikTvd": "21420001074323",
-    "tikName": "Нюрбинская"
+    "tikName": "Нюрбинская",
+    "uikName": "УИК №406",
+    "regionCode": "14",
+    "regionTvd": "100100225883431",
+    "regionName": "Республика Саха (Якутия)",
+    "oikTvd": "100100225883432",
+    "oikName": "Республика Саха (Якутия) – Якутский",
+    "district": {
+      "districtNumber": 24,
+      "oikTvd": "100100225883432"
+    }
   },
   {
     "uikNumber": 407,
     "uikTvd": "4144021240478",
     "tikTvd": "21420001074323",
-    "tikName": "Нюрбинская"
+    "tikName": "Нюрбинская",
+    "uikName": "УИК №407",
+    "regionCode": "14",
+    "regionTvd": "100100225883431",
+    "regionName": "Республика Саха (Якутия)",
+    "oikTvd": "100100225883432",
+    "oikName": "Республика Саха (Якутия) – Якутский",
+    "district": {
+      "districtNumber": 24,
+      "oikTvd": "100100225883432"
+    }
   },
   {
     "uikNumber": 408,
     "uikTvd": "4144021240479",
     "tikTvd": "21420001074323",
-    "tikName": "Нюрбинская"
+    "tikName": "Нюрбинская",
+    "uikName": "УИК №408",
+    "regionCode": "14",
+    "regionTvd": "100100225883431",
+    "regionName": "Республика Саха (Якутия)",
+    "oikTvd": "100100225883432",
+    "oikName": "Республика Саха (Якутия) – Якутский",
+    "district": {
+      "districtNumber": 24,
+      "oikTvd": "100100225883432"
+    }
   },
   {
     "uikNumber": 409,
     "uikTvd": "4144021240480",
     "tikTvd": "21420001074323",
-    "tikName": "Нюрбинская"
+    "tikName": "Нюрбинская",
+    "uikName": "УИК №409",
+    "regionCode": "14",
+    "regionTvd": "100100225883431",
+    "regionName": "Республика Саха (Якутия)",
+    "oikTvd": "100100225883432",
+    "oikName": "Республика Саха (Якутия) – Якутский",
+    "district": {
+      "districtNumber": 24,
+      "oikTvd": "100100225883432"
+    }
   },
   {
     "uikNumber": 410,
     "uikTvd": "4144021240481",
     "tikTvd": "21420001074323",
-    "tikName": "Нюрбинская"
+    "tikName": "Нюрбинская",
+    "uikName": "УИК №410",
+    "regionCode": "14",
+    "regionTvd": "100100225883431",
+    "regionName": "Республика Саха (Якутия)",
+    "oikTvd": "100100225883432",
+    "oikName": "Республика Саха (Якутия) – Якутский",
+    "district": {
+      "districtNumber": 24,
+      "oikTvd": "100100225883432"
+    }
   },
   {
     "uikNumber": 412,
     "uikTvd": "4144021240482",
     "tikTvd": "21420001074323",
-    "tikName": "Нюрбинская"
+    "tikName": "Нюрбинская",
+    "uikName": "УИК №412",
+    "regionCode": "14",
+    "regionTvd": "100100225883431",
+    "regionName": "Республика Саха (Якутия)",
+    "oikTvd": "100100225883432",
+    "oikName": "Республика Саха (Якутия) – Якутский",
+    "district": {
+      "districtNumber": 24,
+      "oikTvd": "100100225883432"
+    }
   },
   {
     "uikNumber": 413,
     "uikTvd": "4144021240483",
     "tikTvd": "21420001074323",
-    "tikName": "Нюрбинская"
+    "tikName": "Нюрбинская",
+    "uikName": "УИК №413",
+    "regionCode": "14",
+    "regionTvd": "100100225883431",
+    "regionName": "Республика Саха (Якутия)",
+    "oikTvd": "100100225883432",
+    "oikName": "Республика Саха (Якутия) – Якутский",
+    "district": {
+      "districtNumber": 24,
+      "oikTvd": "100100225883432"
+    }
   },
   {
     "uikNumber": 414,
     "uikTvd": "4144021240484",
     "tikTvd": "21420001074323",
-    "tikName": "Нюрбинская"
+    "tikName": "Нюрбинская",
+    "uikName": "УИК №414",
+    "regionCode": "14",
+    "regionTvd": "100100225883431",
+    "regionName": "Республика Саха (Якутия)",
+    "oikTvd": "100100225883432",
+    "oikName": "Республика Саха (Якутия) – Якутский",
+    "district": {
+      "districtNumber": 24,
+      "oikTvd": "100100225883432"
+    }
   },
   {
     "uikNumber": 415,
     "uikTvd": "4144021240485",
     "tikTvd": "21420001074323",
-    "tikName": "Нюрбинская"
+    "tikName": "Нюрбинская",
+    "uikName": "УИК №415",
+    "regionCode": "14",
+    "regionTvd": "100100225883431",
+    "regionName": "Республика Саха (Якутия)",
+    "oikTvd": "100100225883432",
+    "oikName": "Республика Саха (Якутия) – Якутский",
+    "district": {
+      "districtNumber": 24,
+      "oikTvd": "100100225883432"
+    }
   },
   {
     "uikNumber": 416,
     "uikTvd": "4144021240486",
     "tikTvd": "21420001074323",
-    "tikName": "Нюрбинская"
+    "tikName": "Нюрбинская",
+    "uikName": "УИК №416",
+    "regionCode": "14",
+    "regionTvd": "100100225883431",
+    "regionName": "Республика Саха (Якутия)",
+    "oikTvd": "100100225883432",
+    "oikName": "Республика Саха (Якутия) – Якутский",
+    "district": {
+      "districtNumber": 24,
+      "oikTvd": "100100225883432"
+    }
   },
   {
     "uikNumber": 417,
     "uikTvd": "4144021240487",
     "tikTvd": "21420001074323",
-    "tikName": "Нюрбинская"
+    "tikName": "Нюрбинская",
+    "uikName": "УИК №417",
+    "regionCode": "14",
+    "regionTvd": "100100225883431",
+    "regionName": "Республика Саха (Якутия)",
+    "oikTvd": "100100225883432",
+    "oikName": "Республика Саха (Якутия) – Якутский",
+    "district": {
+      "districtNumber": 24,
+      "oikTvd": "100100225883432"
+    }
   },
   {
     "uikNumber": 418,
     "uikTvd": "4144021240488",
     "tikTvd": "21420001074323",
-    "tikName": "Нюрбинская"
+    "tikName": "Нюрбинская",
+    "uikName": "УИК №418",
+    "regionCode": "14",
+    "regionTvd": "100100225883431",
+    "regionName": "Республика Саха (Якутия)",
+    "oikTvd": "100100225883432",
+    "oikName": "Республика Саха (Якутия) – Якутский",
+    "district": {
+      "districtNumber": 24,
+      "oikTvd": "100100225883432"
+    }
   },
   {
     "uikNumber": 420,
     "uikTvd": "4144021240489",
     "tikTvd": "21420001074323",
-    "tikName": "Нюрбинская"
+    "tikName": "Нюрбинская",
+    "uikName": "УИК №420",
+    "regionCode": "14",
+    "regionTvd": "100100225883431",
+    "regionName": "Республика Саха (Якутия)",
+    "oikTvd": "100100225883432",
+    "oikName": "Республика Саха (Якутия) – Якутский",
+    "district": {
+      "districtNumber": 24,
+      "oikTvd": "100100225883432"
+    }
   },
   {
     "uikNumber": 421,
     "uikTvd": "4144021240490",
     "tikTvd": "21420001074323",
-    "tikName": "Нюрбинская"
+    "tikName": "Нюрбинская",
+    "uikName": "УИК №421",
+    "regionCode": "14",
+    "regionTvd": "100100225883431",
+    "regionName": "Республика Саха (Якутия)",
+    "oikTvd": "100100225883432",
+    "oikName": "Республика Саха (Якутия) – Якутский",
+    "district": {
+      "districtNumber": 24,
+      "oikTvd": "100100225883432"
+    }
   },
   {
     "uikNumber": 422,
     "uikTvd": "4144021240491",
     "tikTvd": "21420001074323",
-    "tikName": "Нюрбинская"
+    "tikName": "Нюрбинская",
+    "uikName": "УИК №422",
+    "regionCode": "14",
+    "regionTvd": "100100225883431",
+    "regionName": "Республика Саха (Якутия)",
+    "oikTvd": "100100225883432",
+    "oikName": "Республика Саха (Якутия) – Якутский",
+    "district": {
+      "districtNumber": 24,
+      "oikTvd": "100100225883432"
+    }
   },
   {
     "uikNumber": 423,
     "uikTvd": "4144021240492",
     "tikTvd": "21420001074323",
-    "tikName": "Нюрбинская"
+    "tikName": "Нюрбинская",
+    "uikName": "УИК №423",
+    "regionCode": "14",
+    "regionTvd": "100100225883431",
+    "regionName": "Республика Саха (Якутия)",
+    "oikTvd": "100100225883432",
+    "oikName": "Республика Саха (Якутия) – Якутский",
+    "district": {
+      "districtNumber": 24,
+      "oikTvd": "100100225883432"
+    }
   },
   {
     "uikNumber": 424,
     "uikTvd": "4144021240493",
     "tikTvd": "21420001074323",
-    "tikName": "Нюрбинская"
+    "tikName": "Нюрбинская",
+    "uikName": "УИК №424",
+    "regionCode": "14",
+    "regionTvd": "100100225883431",
+    "regionName": "Республика Саха (Якутия)",
+    "oikTvd": "100100225883432",
+    "oikName": "Республика Саха (Якутия) – Якутский",
+    "district": {
+      "districtNumber": 24,
+      "oikTvd": "100100225883432"
+    }
   },
   {
     "uikNumber": 425,
     "uikTvd": "4144021240494",
     "tikTvd": "21420001074323",
-    "tikName": "Нюрбинская"
+    "tikName": "Нюрбинская",
+    "uikName": "УИК №425",
+    "regionCode": "14",
+    "regionTvd": "100100225883431",
+    "regionName": "Республика Саха (Якутия)",
+    "oikTvd": "100100225883432",
+    "oikName": "Республика Саха (Якутия) – Якутский",
+    "district": {
+      "districtNumber": 24,
+      "oikTvd": "100100225883432"
+    }
   },
   {
     "uikNumber": 426,
     "uikTvd": "4144021240495",
     "tikTvd": "21420001074323",
-    "tikName": "Нюрбинская"
+    "tikName": "Нюрбинская",
+    "uikName": "УИК №426",
+    "regionCode": "14",
+    "regionTvd": "100100225883431",
+    "regionName": "Республика Саха (Якутия)",
+    "oikTvd": "100100225883432",
+    "oikName": "Республика Саха (Якутия) – Якутский",
+    "district": {
+      "districtNumber": 24,
+      "oikTvd": "100100225883432"
+    }
   },
   {
     "uikNumber": 427,
     "uikTvd": "4144021240496",
     "tikTvd": "21420001074323",
-    "tikName": "Нюрбинская"
+    "tikName": "Нюрбинская",
+    "uikName": "УИК №427",
+    "regionCode": "14",
+    "regionTvd": "100100225883431",
+    "regionName": "Республика Саха (Якутия)",
+    "oikTvd": "100100225883432",
+    "oikName": "Республика Саха (Якутия) – Якутский",
+    "district": {
+      "districtNumber": 24,
+      "oikTvd": "100100225883432"
+    }
   },
   {
     "uikNumber": 428,
     "uikTvd": "4144022159348",
     "tikTvd": "21420001074353",
-    "tikName": "Оймяконская"
+    "tikName": "Оймяконская",
+    "uikName": "УИК №428",
+    "regionCode": "14",
+    "regionTvd": "100100225883431",
+    "regionName": "Республика Саха (Якутия)",
+    "oikTvd": "100100225883432",
+    "oikName": "Республика Саха (Якутия) – Якутский",
+    "district": {
+      "districtNumber": 24,
+      "oikTvd": "100100225883432"
+    }
   },
   {
     "uikNumber": 429,
     "uikTvd": "4144022159349",
     "tikTvd": "21420001074353",
-    "tikName": "Оймяконская"
+    "tikName": "Оймяконская",
+    "uikName": "УИК №429",
+    "regionCode": "14",
+    "regionTvd": "100100225883431",
+    "regionName": "Республика Саха (Якутия)",
+    "oikTvd": "100100225883432",
+    "oikName": "Республика Саха (Якутия) – Якутский",
+    "district": {
+      "districtNumber": 24,
+      "oikTvd": "100100225883432"
+    }
   },
   {
     "uikNumber": 430,
     "uikTvd": "4144022159350",
     "tikTvd": "21420001074353",
-    "tikName": "Оймяконская"
+    "tikName": "Оймяконская",
+    "uikName": "УИК №430",
+    "regionCode": "14",
+    "regionTvd": "100100225883431",
+    "regionName": "Республика Саха (Якутия)",
+    "oikTvd": "100100225883432",
+    "oikName": "Республика Саха (Якутия) – Якутский",
+    "district": {
+      "districtNumber": 24,
+      "oikTvd": "100100225883432"
+    }
   },
   {
     "uikNumber": 431,
     "uikTvd": "4144022159351",
     "tikTvd": "21420001074353",
-    "tikName": "Оймяконская"
+    "tikName": "Оймяконская",
+    "uikName": "УИК №431",
+    "regionCode": "14",
+    "regionTvd": "100100225883431",
+    "regionName": "Республика Саха (Якутия)",
+    "oikTvd": "100100225883432",
+    "oikName": "Республика Саха (Якутия) – Якутский",
+    "district": {
+      "districtNumber": 24,
+      "oikTvd": "100100225883432"
+    }
   },
   {
     "uikNumber": 432,
     "uikTvd": "4144022159352",
     "tikTvd": "21420001074353",
-    "tikName": "Оймяконская"
+    "tikName": "Оймяконская",
+    "uikName": "УИК №432",
+    "regionCode": "14",
+    "regionTvd": "100100225883431",
+    "regionName": "Республика Саха (Якутия)",
+    "oikTvd": "100100225883432",
+    "oikName": "Республика Саха (Якутия) – Якутский",
+    "district": {
+      "districtNumber": 24,
+      "oikTvd": "100100225883432"
+    }
   },
   {
     "uikNumber": 433,
     "uikTvd": "4144022159353",
     "tikTvd": "21420001074353",
-    "tikName": "Оймяконская"
+    "tikName": "Оймяконская",
+    "uikName": "УИК №433",
+    "regionCode": "14",
+    "regionTvd": "100100225883431",
+    "regionName": "Республика Саха (Якутия)",
+    "oikTvd": "100100225883432",
+    "oikName": "Республика Саха (Якутия) – Якутский",
+    "district": {
+      "districtNumber": 24,
+      "oikTvd": "100100225883432"
+    }
   },
   {
     "uikNumber": 434,
     "uikTvd": "4144022159354",
     "tikTvd": "21420001074353",
-    "tikName": "Оймяконская"
+    "tikName": "Оймяконская",
+    "uikName": "УИК №434",
+    "regionCode": "14",
+    "regionTvd": "100100225883431",
+    "regionName": "Республика Саха (Якутия)",
+    "oikTvd": "100100225883432",
+    "oikName": "Республика Саха (Якутия) – Якутский",
+    "district": {
+      "districtNumber": 24,
+      "oikTvd": "100100225883432"
+    }
   },
   {
     "uikNumber": 435,
     "uikTvd": "4144022159355",
     "tikTvd": "21420001074353",
-    "tikName": "Оймяконская"
+    "tikName": "Оймяконская",
+    "uikName": "УИК №435",
+    "regionCode": "14",
+    "regionTvd": "100100225883431",
+    "regionName": "Республика Саха (Якутия)",
+    "oikTvd": "100100225883432",
+    "oikName": "Республика Саха (Якутия) – Якутский",
+    "district": {
+      "districtNumber": 24,
+      "oikTvd": "100100225883432"
+    }
   },
   {
     "uikNumber": 436,
     "uikTvd": "4144022159356",
     "tikTvd": "21420001074353",
-    "tikName": "Оймяконская"
+    "tikName": "Оймяконская",
+    "uikName": "УИК №436",
+    "regionCode": "14",
+    "regionTvd": "100100225883431",
+    "regionName": "Республика Саха (Якутия)",
+    "oikTvd": "100100225883432",
+    "oikName": "Республика Саха (Якутия) – Якутский",
+    "district": {
+      "districtNumber": 24,
+      "oikTvd": "100100225883432"
+    }
   },
   {
     "uikNumber": 437,
     "uikTvd": "4144022159357",
     "tikTvd": "21420001074353",
-    "tikName": "Оймяконская"
+    "tikName": "Оймяконская",
+    "uikName": "УИК №437",
+    "regionCode": "14",
+    "regionTvd": "100100225883431",
+    "regionName": "Республика Саха (Якутия)",
+    "oikTvd": "100100225883432",
+    "oikName": "Республика Саха (Якутия) – Якутский",
+    "district": {
+      "districtNumber": 24,
+      "oikTvd": "100100225883432"
+    }
   },
   {
     "uikNumber": 438,
     "uikTvd": "4144022159358",
     "tikTvd": "21420001074353",
-    "tikName": "Оймяконская"
+    "tikName": "Оймяконская",
+    "uikName": "УИК №438",
+    "regionCode": "14",
+    "regionTvd": "100100225883431",
+    "regionName": "Республика Саха (Якутия)",
+    "oikTvd": "100100225883432",
+    "oikName": "Республика Саха (Якутия) – Якутский",
+    "district": {
+      "districtNumber": 24,
+      "oikTvd": "100100225883432"
+    }
   },
   {
     "uikNumber": 439,
     "uikTvd": "4144022159359",
     "tikTvd": "21420001074353",
-    "tikName": "Оймяконская"
+    "tikName": "Оймяконская",
+    "uikName": "УИК №439",
+    "regionCode": "14",
+    "regionTvd": "100100225883431",
+    "regionName": "Республика Саха (Якутия)",
+    "oikTvd": "100100225883432",
+    "oikName": "Республика Саха (Якутия) – Якутский",
+    "district": {
+      "districtNumber": 24,
+      "oikTvd": "100100225883432"
+    }
   },
   {
     "uikNumber": 440,
     "uikTvd": "4144022159360",
     "tikTvd": "21420001074353",
-    "tikName": "Оймяконская"
+    "tikName": "Оймяконская",
+    "uikName": "УИК №440",
+    "regionCode": "14",
+    "regionTvd": "100100225883431",
+    "regionName": "Республика Саха (Якутия)",
+    "oikTvd": "100100225883432",
+    "oikName": "Республика Саха (Якутия) – Якутский",
+    "district": {
+      "districtNumber": 24,
+      "oikTvd": "100100225883432"
+    }
   },
   {
     "uikNumber": 441,
     "uikTvd": "4144022159361",
     "tikTvd": "21420001074353",
-    "tikName": "Оймяконская"
+    "tikName": "Оймяконская",
+    "uikName": "УИК №441",
+    "regionCode": "14",
+    "regionTvd": "100100225883431",
+    "regionName": "Республика Саха (Якутия)",
+    "oikTvd": "100100225883432",
+    "oikName": "Республика Саха (Якутия) – Якутский",
+    "district": {
+      "districtNumber": 24,
+      "oikTvd": "100100225883432"
+    }
   },
   {
     "uikNumber": 442,
     "uikTvd": "4144022159362",
     "tikTvd": "21420001074353",
-    "tikName": "Оймяконская"
+    "tikName": "Оймяконская",
+    "uikName": "УИК №442",
+    "regionCode": "14",
+    "regionTvd": "100100225883431",
+    "regionName": "Республика Саха (Якутия)",
+    "oikTvd": "100100225883432",
+    "oikName": "Республика Саха (Якутия) – Якутский",
+    "district": {
+      "districtNumber": 24,
+      "oikTvd": "100100225883432"
+    }
   },
   {
     "uikNumber": 443,
     "uikTvd": "4144022159363",
     "tikTvd": "21420001074353",
-    "tikName": "Оймяконская"
+    "tikName": "Оймяконская",
+    "uikName": "УИК №443",
+    "regionCode": "14",
+    "regionTvd": "100100225883431",
+    "regionName": "Республика Саха (Якутия)",
+    "oikTvd": "100100225883432",
+    "oikName": "Республика Саха (Якутия) – Якутский",
+    "district": {
+      "districtNumber": 24,
+      "oikTvd": "100100225883432"
+    }
   },
   {
     "uikNumber": 445,
     "uikTvd": "4144023295752",
     "tikTvd": "21420001074333",
-    "tikName": "Олекминская"
+    "tikName": "Олекминская",
+    "uikName": "УИК №445",
+    "regionCode": "14",
+    "regionTvd": "100100225883431",
+    "regionName": "Республика Саха (Якутия)",
+    "oikTvd": "100100225883432",
+    "oikName": "Республика Саха (Якутия) – Якутский",
+    "district": {
+      "districtNumber": 24,
+      "oikTvd": "100100225883432"
+    }
   },
   {
     "uikNumber": 446,
     "uikTvd": "4144023295753",
     "tikTvd": "21420001074333",
-    "tikName": "Олекминская"
+    "tikName": "Олекминская",
+    "uikName": "УИК №446",
+    "regionCode": "14",
+    "regionTvd": "100100225883431",
+    "regionName": "Республика Саха (Якутия)",
+    "oikTvd": "100100225883432",
+    "oikName": "Республика Саха (Якутия) – Якутский",
+    "district": {
+      "districtNumber": 24,
+      "oikTvd": "100100225883432"
+    }
   },
   {
     "uikNumber": 447,
     "uikTvd": "4144023295754",
     "tikTvd": "21420001074333",
-    "tikName": "Олекминская"
+    "tikName": "Олекминская",
+    "uikName": "УИК №447",
+    "regionCode": "14",
+    "regionTvd": "100100225883431",
+    "regionName": "Республика Саха (Якутия)",
+    "oikTvd": "100100225883432",
+    "oikName": "Республика Саха (Якутия) – Якутский",
+    "district": {
+      "districtNumber": 24,
+      "oikTvd": "100100225883432"
+    }
   },
   {
     "uikNumber": 448,
     "uikTvd": "4144023295755",
     "tikTvd": "21420001074333",
-    "tikName": "Олекминская"
+    "tikName": "Олекминская",
+    "uikName": "УИК №448",
+    "regionCode": "14",
+    "regionTvd": "100100225883431",
+    "regionName": "Республика Саха (Якутия)",
+    "oikTvd": "100100225883432",
+    "oikName": "Республика Саха (Якутия) – Якутский",
+    "district": {
+      "districtNumber": 24,
+      "oikTvd": "100100225883432"
+    }
   },
   {
     "uikNumber": 449,
     "uikTvd": "4144023295756",
     "tikTvd": "21420001074333",
-    "tikName": "Олекминская"
+    "tikName": "Олекминская",
+    "uikName": "УИК №449",
+    "regionCode": "14",
+    "regionTvd": "100100225883431",
+    "regionName": "Республика Саха (Якутия)",
+    "oikTvd": "100100225883432",
+    "oikName": "Республика Саха (Якутия) – Якутский",
+    "district": {
+      "districtNumber": 24,
+      "oikTvd": "100100225883432"
+    }
   },
   {
     "uikNumber": 450,
     "uikTvd": "4144023295757",
     "tikTvd": "21420001074333",
-    "tikName": "Олекминская"
+    "tikName": "Олекминская",
+    "uikName": "УИК №450",
+    "regionCode": "14",
+    "regionTvd": "100100225883431",
+    "regionName": "Республика Саха (Якутия)",
+    "oikTvd": "100100225883432",
+    "oikName": "Республика Саха (Якутия) – Якутский",
+    "district": {
+      "districtNumber": 24,
+      "oikTvd": "100100225883432"
+    }
   },
   {
     "uikNumber": 451,
     "uikTvd": "4144023295758",
     "tikTvd": "21420001074333",
-    "tikName": "Олекминская"
+    "tikName": "Олекминская",
+    "uikName": "УИК №451",
+    "regionCode": "14",
+    "regionTvd": "100100225883431",
+    "regionName": "Республика Саха (Якутия)",
+    "oikTvd": "100100225883432",
+    "oikName": "Республика Саха (Якутия) – Якутский",
+    "district": {
+      "districtNumber": 24,
+      "oikTvd": "100100225883432"
+    }
   },
   {
     "uikNumber": 452,
     "uikTvd": "4144023295759",
     "tikTvd": "21420001074333",
-    "tikName": "Олекминская"
+    "tikName": "Олекминская",
+    "uikName": "УИК №452",
+    "regionCode": "14",
+    "regionTvd": "100100225883431",
+    "regionName": "Республика Саха (Якутия)",
+    "oikTvd": "100100225883432",
+    "oikName": "Республика Саха (Якутия) – Якутский",
+    "district": {
+      "districtNumber": 24,
+      "oikTvd": "100100225883432"
+    }
   },
   {
     "uikNumber": 453,
     "uikTvd": "4144023295760",
     "tikTvd": "21420001074333",
-    "tikName": "Олекминская"
+    "tikName": "Олекминская",
+    "uikName": "УИК №453",
+    "regionCode": "14",
+    "regionTvd": "100100225883431",
+    "regionName": "Республика Саха (Якутия)",
+    "oikTvd": "100100225883432",
+    "oikName": "Республика Саха (Якутия) – Якутский",
+    "district": {
+      "districtNumber": 24,
+      "oikTvd": "100100225883432"
+    }
   },
   {
     "uikNumber": 454,
     "uikTvd": "4144023295761",
     "tikTvd": "21420001074333",
-    "tikName": "Олекминская"
+    "tikName": "Олекминская",
+    "uikName": "УИК №454",
+    "regionCode": "14",
+    "regionTvd": "100100225883431",
+    "regionName": "Республика Саха (Якутия)",
+    "oikTvd": "100100225883432",
+    "oikName": "Республика Саха (Якутия) – Якутский",
+    "district": {
+      "districtNumber": 24,
+      "oikTvd": "100100225883432"
+    }
   },
   {
     "uikNumber": 455,
     "uikTvd": "4144023295762",
     "tikTvd": "21420001074333",
-    "tikName": "Олекминская"
+    "tikName": "Олекминская",
+    "uikName": "УИК №455",
+    "regionCode": "14",
+    "regionTvd": "100100225883431",
+    "regionName": "Республика Саха (Якутия)",
+    "oikTvd": "100100225883432",
+    "oikName": "Республика Саха (Якутия) – Якутский",
+    "district": {
+      "districtNumber": 24,
+      "oikTvd": "100100225883432"
+    }
   },
   {
     "uikNumber": 456,
     "uikTvd": "4144023295763",
     "tikTvd": "21420001074333",
-    "tikName": "Олекминская"
+    "tikName": "Олекминская",
+    "uikName": "УИК №456",
+    "regionCode": "14",
+    "regionTvd": "100100225883431",
+    "regionName": "Республика Саха (Якутия)",
+    "oikTvd": "100100225883432",
+    "oikName": "Республика Саха (Якутия) – Якутский",
+    "district": {
+      "districtNumber": 24,
+      "oikTvd": "100100225883432"
+    }
   },
   {
     "uikNumber": 457,
     "uikTvd": "4144023295764",
     "tikTvd": "21420001074333",
-    "tikName": "Олекминская"
+    "tikName": "Олекминская",
+    "uikName": "УИК №457",
+    "regionCode": "14",
+    "regionTvd": "100100225883431",
+    "regionName": "Республика Саха (Якутия)",
+    "oikTvd": "100100225883432",
+    "oikName": "Республика Саха (Якутия) – Якутский",
+    "district": {
+      "districtNumber": 24,
+      "oikTvd": "100100225883432"
+    }
   },
   {
     "uikNumber": 458,
     "uikTvd": "4144023295765",
     "tikTvd": "21420001074333",
-    "tikName": "Олекминская"
+    "tikName": "Олекминская",
+    "uikName": "УИК №458",
+    "regionCode": "14",
+    "regionTvd": "100100225883431",
+    "regionName": "Республика Саха (Якутия)",
+    "oikTvd": "100100225883432",
+    "oikName": "Республика Саха (Якутия) – Якутский",
+    "district": {
+      "districtNumber": 24,
+      "oikTvd": "100100225883432"
+    }
   },
   {
     "uikNumber": 459,
     "uikTvd": "4144023295766",
     "tikTvd": "21420001074333",
-    "tikName": "Олекминская"
+    "tikName": "Олекминская",
+    "uikName": "УИК №459",
+    "regionCode": "14",
+    "regionTvd": "100100225883431",
+    "regionName": "Республика Саха (Якутия)",
+    "oikTvd": "100100225883432",
+    "oikName": "Республика Саха (Якутия) – Якутский",
+    "district": {
+      "districtNumber": 24,
+      "oikTvd": "100100225883432"
+    }
   },
   {
     "uikNumber": 460,
     "uikTvd": "4144023295767",
     "tikTvd": "21420001074333",
-    "tikName": "Олекминская"
+    "tikName": "Олекминская",
+    "uikName": "УИК №460",
+    "regionCode": "14",
+    "regionTvd": "100100225883431",
+    "regionName": "Республика Саха (Якутия)",
+    "oikTvd": "100100225883432",
+    "oikName": "Республика Саха (Якутия) – Якутский",
+    "district": {
+      "districtNumber": 24,
+      "oikTvd": "100100225883432"
+    }
   },
   {
     "uikNumber": 461,
     "uikTvd": "4144023295768",
     "tikTvd": "21420001074333",
-    "tikName": "Олекминская"
+    "tikName": "Олекминская",
+    "uikName": "УИК №461",
+    "regionCode": "14",
+    "regionTvd": "100100225883431",
+    "regionName": "Республика Саха (Якутия)",
+    "oikTvd": "100100225883432",
+    "oikName": "Республика Саха (Якутия) – Якутский",
+    "district": {
+      "districtNumber": 24,
+      "oikTvd": "100100225883432"
+    }
   },
   {
     "uikNumber": 462,
     "uikTvd": "4144023295769",
     "tikTvd": "21420001074333",
-    "tikName": "Олекминская"
+    "tikName": "Олекминская",
+    "uikName": "УИК №462",
+    "regionCode": "14",
+    "regionTvd": "100100225883431",
+    "regionName": "Республика Саха (Якутия)",
+    "oikTvd": "100100225883432",
+    "oikName": "Республика Саха (Якутия) – Якутский",
+    "district": {
+      "districtNumber": 24,
+      "oikTvd": "100100225883432"
+    }
   },
   {
     "uikNumber": 463,
     "uikTvd": "4144023295770",
     "tikTvd": "21420001074333",
-    "tikName": "Олекминская"
+    "tikName": "Олекминская",
+    "uikName": "УИК №463",
+    "regionCode": "14",
+    "regionTvd": "100100225883431",
+    "regionName": "Республика Саха (Якутия)",
+    "oikTvd": "100100225883432",
+    "oikName": "Республика Саха (Якутия) – Якутский",
+    "district": {
+      "districtNumber": 24,
+      "oikTvd": "100100225883432"
+    }
   },
   {
     "uikNumber": 464,
     "uikTvd": "4144023295771",
     "tikTvd": "21420001074333",
-    "tikName": "Олекминская"
+    "tikName": "Олекминская",
+    "uikName": "УИК №464",
+    "regionCode": "14",
+    "regionTvd": "100100225883431",
+    "regionName": "Республика Саха (Якутия)",
+    "oikTvd": "100100225883432",
+    "oikName": "Республика Саха (Якутия) – Якутский",
+    "district": {
+      "districtNumber": 24,
+      "oikTvd": "100100225883432"
+    }
   },
   {
     "uikNumber": 465,
     "uikTvd": "4144023295772",
     "tikTvd": "21420001074333",
-    "tikName": "Олекминская"
+    "tikName": "Олекминская",
+    "uikName": "УИК №465",
+    "regionCode": "14",
+    "regionTvd": "100100225883431",
+    "regionName": "Республика Саха (Якутия)",
+    "oikTvd": "100100225883432",
+    "oikName": "Республика Саха (Якутия) – Якутский",
+    "district": {
+      "districtNumber": 24,
+      "oikTvd": "100100225883432"
+    }
   },
   {
     "uikNumber": 466,
     "uikTvd": "4144023295773",
     "tikTvd": "21420001074333",
-    "tikName": "Олекминская"
+    "tikName": "Олекминская",
+    "uikName": "УИК №466",
+    "regionCode": "14",
+    "regionTvd": "100100225883431",
+    "regionName": "Республика Саха (Якутия)",
+    "oikTvd": "100100225883432",
+    "oikName": "Республика Саха (Якутия) – Якутский",
+    "district": {
+      "districtNumber": 24,
+      "oikTvd": "100100225883432"
+    }
   },
   {
     "uikNumber": 467,
     "uikTvd": "4144023295774",
     "tikTvd": "21420001074333",
-    "tikName": "Олекминская"
+    "tikName": "Олекминская",
+    "uikName": "УИК №467",
+    "regionCode": "14",
+    "regionTvd": "100100225883431",
+    "regionName": "Республика Саха (Якутия)",
+    "oikTvd": "100100225883432",
+    "oikName": "Республика Саха (Якутия) – Якутский",
+    "district": {
+      "districtNumber": 24,
+      "oikTvd": "100100225883432"
+    }
   },
   {
     "uikNumber": 468,
     "uikTvd": "4144023295775",
     "tikTvd": "21420001074333",
-    "tikName": "Олекминская"
+    "tikName": "Олекминская",
+    "uikName": "УИК №468",
+    "regionCode": "14",
+    "regionTvd": "100100225883431",
+    "regionName": "Республика Саха (Якутия)",
+    "oikTvd": "100100225883432",
+    "oikName": "Республика Саха (Якутия) – Якутский",
+    "district": {
+      "districtNumber": 24,
+      "oikTvd": "100100225883432"
+    }
   },
   {
     "uikNumber": 469,
     "uikTvd": "4144023295776",
     "tikTvd": "21420001074333",
-    "tikName": "Олекминская"
+    "tikName": "Олекминская",
+    "uikName": "УИК №469",
+    "regionCode": "14",
+    "regionTvd": "100100225883431",
+    "regionName": "Республика Саха (Якутия)",
+    "oikTvd": "100100225883432",
+    "oikName": "Республика Саха (Якутия) – Якутский",
+    "district": {
+      "districtNumber": 24,
+      "oikTvd": "100100225883432"
+    }
   },
   {
     "uikNumber": 470,
     "uikTvd": "4144023295777",
     "tikTvd": "21420001074333",
-    "tikName": "Олекминская"
+    "tikName": "Олекминская",
+    "uikName": "УИК №470",
+    "regionCode": "14",
+    "regionTvd": "100100225883431",
+    "regionName": "Республика Саха (Якутия)",
+    "oikTvd": "100100225883432",
+    "oikName": "Республика Саха (Якутия) – Якутский",
+    "district": {
+      "districtNumber": 24,
+      "oikTvd": "100100225883432"
+    }
   },
   {
     "uikNumber": 471,
     "uikTvd": "4144023295778",
     "tikTvd": "21420001074333",
-    "tikName": "Олекминская"
+    "tikName": "Олекминская",
+    "uikName": "УИК №471",
+    "regionCode": "14",
+    "regionTvd": "100100225883431",
+    "regionName": "Республика Саха (Якутия)",
+    "oikTvd": "100100225883432",
+    "oikName": "Республика Саха (Якутия) – Якутский",
+    "district": {
+      "districtNumber": 24,
+      "oikTvd": "100100225883432"
+    }
   },
   {
     "uikNumber": 472,
     "uikTvd": "4144023295779",
     "tikTvd": "21420001074333",
-    "tikName": "Олекминская"
+    "tikName": "Олекминская",
+    "uikName": "УИК №472",
+    "regionCode": "14",
+    "regionTvd": "100100225883431",
+    "regionName": "Республика Саха (Якутия)",
+    "oikTvd": "100100225883432",
+    "oikName": "Республика Саха (Якутия) – Якутский",
+    "district": {
+      "districtNumber": 24,
+      "oikTvd": "100100225883432"
+    }
   },
   {
     "uikNumber": 473,
     "uikTvd": "4144023295780",
     "tikTvd": "21420001074333",
-    "tikName": "Олекминская"
+    "tikName": "Олекминская",
+    "uikName": "УИК №473",
+    "regionCode": "14",
+    "regionTvd": "100100225883431",
+    "regionName": "Республика Саха (Якутия)",
+    "oikTvd": "100100225883432",
+    "oikName": "Республика Саха (Якутия) – Якутский",
+    "district": {
+      "districtNumber": 24,
+      "oikTvd": "100100225883432"
+    }
   },
   {
     "uikNumber": 474,
     "uikTvd": "4144023295781",
     "tikTvd": "21420001074333",
-    "tikName": "Олекминская"
+    "tikName": "Олекминская",
+    "uikName": "УИК №474",
+    "regionCode": "14",
+    "regionTvd": "100100225883431",
+    "regionName": "Республика Саха (Якутия)",
+    "oikTvd": "100100225883432",
+    "oikName": "Республика Саха (Якутия) – Якутский",
+    "district": {
+      "districtNumber": 24,
+      "oikTvd": "100100225883432"
+    }
   },
   {
     "uikNumber": 475,
     "uikTvd": "4144023295782",
     "tikTvd": "21420001074333",
-    "tikName": "Олекминская"
+    "tikName": "Олекминская",
+    "uikName": "УИК №475",
+    "regionCode": "14",
+    "regionTvd": "100100225883431",
+    "regionName": "Республика Саха (Якутия)",
+    "oikTvd": "100100225883432",
+    "oikName": "Республика Саха (Якутия) – Якутский",
+    "district": {
+      "districtNumber": 24,
+      "oikTvd": "100100225883432"
+    }
   },
   {
     "uikNumber": 476,
     "uikTvd": "4144023295783",
     "tikTvd": "21420001074333",
-    "tikName": "Олекминская"
+    "tikName": "Олекминская",
+    "uikName": "УИК №476",
+    "regionCode": "14",
+    "regionTvd": "100100225883431",
+    "regionName": "Республика Саха (Якутия)",
+    "oikTvd": "100100225883432",
+    "oikName": "Республика Саха (Якутия) – Якутский",
+    "district": {
+      "districtNumber": 24,
+      "oikTvd": "100100225883432"
+    }
   },
   {
     "uikNumber": 477,
     "uikTvd": "4144023295784",
     "tikTvd": "21420001074333",
-    "tikName": "Олекминская"
+    "tikName": "Олекминская",
+    "uikName": "УИК №477",
+    "regionCode": "14",
+    "regionTvd": "100100225883431",
+    "regionName": "Республика Саха (Якутия)",
+    "oikTvd": "100100225883432",
+    "oikName": "Республика Саха (Якутия) – Якутский",
+    "district": {
+      "districtNumber": 24,
+      "oikTvd": "100100225883432"
+    }
   },
   {
     "uikNumber": 478,
     "uikTvd": "4144023295785",
     "tikTvd": "21420001074333",
-    "tikName": "Олекминская"
+    "tikName": "Олекминская",
+    "uikName": "УИК №478",
+    "regionCode": "14",
+    "regionTvd": "100100225883431",
+    "regionName": "Республика Саха (Якутия)",
+    "oikTvd": "100100225883432",
+    "oikName": "Республика Саха (Якутия) – Якутский",
+    "district": {
+      "districtNumber": 24,
+      "oikTvd": "100100225883432"
+    }
   },
   {
     "uikNumber": 479,
     "uikTvd": "4144023295786",
     "tikTvd": "21420001074333",
-    "tikName": "Олекминская"
+    "tikName": "Олекминская",
+    "uikName": "УИК №479",
+    "regionCode": "14",
+    "regionTvd": "100100225883431",
+    "regionName": "Республика Саха (Якутия)",
+    "oikTvd": "100100225883432",
+    "oikName": "Республика Саха (Якутия) – Якутский",
+    "district": {
+      "districtNumber": 24,
+      "oikTvd": "100100225883432"
+    }
   },
   {
     "uikNumber": 480,
     "uikTvd": "4144023295787",
     "tikTvd": "21420001074333",
-    "tikName": "Олекминская"
+    "tikName": "Олекминская",
+    "uikName": "УИК №480",
+    "regionCode": "14",
+    "regionTvd": "100100225883431",
+    "regionName": "Республика Саха (Якутия)",
+    "oikTvd": "100100225883432",
+    "oikName": "Республика Саха (Якутия) – Якутский",
+    "district": {
+      "districtNumber": 24,
+      "oikTvd": "100100225883432"
+    }
   },
   {
     "uikNumber": 481,
     "uikTvd": "4144023295788",
     "tikTvd": "21420001074333",
-    "tikName": "Олекминская"
+    "tikName": "Олекминская",
+    "uikName": "УИК №481",
+    "regionCode": "14",
+    "regionTvd": "100100225883431",
+    "regionName": "Республика Саха (Якутия)",
+    "oikTvd": "100100225883432",
+    "oikName": "Республика Саха (Якутия) – Якутский",
+    "district": {
+      "districtNumber": 24,
+      "oikTvd": "100100225883432"
+    }
   },
   {
     "uikNumber": 482,
     "uikTvd": "4144023295789",
     "tikTvd": "21420001074333",
-    "tikName": "Олекминская"
+    "tikName": "Олекминская",
+    "uikName": "УИК №482",
+    "regionCode": "14",
+    "regionTvd": "100100225883431",
+    "regionName": "Республика Саха (Якутия)",
+    "oikTvd": "100100225883432",
+    "oikName": "Республика Саха (Якутия) – Якутский",
+    "district": {
+      "districtNumber": 24,
+      "oikTvd": "100100225883432"
+    }
   },
   {
     "uikNumber": 483,
     "uikTvd": "4144023295790",
     "tikTvd": "21420001074333",
-    "tikName": "Олекминская"
+    "tikName": "Олекминская",
+    "uikName": "УИК №483",
+    "regionCode": "14",
+    "regionTvd": "100100225883431",
+    "regionName": "Республика Саха (Якутия)",
+    "oikTvd": "100100225883432",
+    "oikName": "Республика Саха (Якутия) – Якутский",
+    "district": {
+      "districtNumber": 24,
+      "oikTvd": "100100225883432"
+    }
   },
   {
     "uikNumber": 484,
     "uikTvd": "4144023295791",
     "tikTvd": "21420001074333",
-    "tikName": "Олекминская"
+    "tikName": "Олекминская",
+    "uikName": "УИК №484",
+    "regionCode": "14",
+    "regionTvd": "100100225883431",
+    "regionName": "Республика Саха (Якутия)",
+    "oikTvd": "100100225883432",
+    "oikName": "Республика Саха (Якутия) – Якутский",
+    "district": {
+      "districtNumber": 24,
+      "oikTvd": "100100225883432"
+    }
   },
   {
     "uikNumber": 485,
     "uikTvd": "4144024174607",
     "tikTvd": "21420001074295",
-    "tikName": "Оленекская"
+    "tikName": "Оленекская",
+    "uikName": "УИК №485",
+    "regionCode": "14",
+    "regionTvd": "100100225883431",
+    "regionName": "Республика Саха (Якутия)",
+    "oikTvd": "100100225883432",
+    "oikName": "Республика Саха (Якутия) – Якутский",
+    "district": {
+      "districtNumber": 24,
+      "oikTvd": "100100225883432"
+    }
   },
   {
     "uikNumber": 486,
     "uikTvd": "4144024174608",
     "tikTvd": "21420001074295",
-    "tikName": "Оленекская"
+    "tikName": "Оленекская",
+    "uikName": "УИК №486",
+    "regionCode": "14",
+    "regionTvd": "100100225883431",
+    "regionName": "Республика Саха (Якутия)",
+    "oikTvd": "100100225883432",
+    "oikName": "Республика Саха (Якутия) – Якутский",
+    "district": {
+      "districtNumber": 24,
+      "oikTvd": "100100225883432"
+    }
   },
   {
     "uikNumber": 487,
     "uikTvd": "4144024174609",
     "tikTvd": "21420001074295",
-    "tikName": "Оленекская"
+    "tikName": "Оленекская",
+    "uikName": "УИК №487",
+    "regionCode": "14",
+    "regionTvd": "100100225883431",
+    "regionName": "Республика Саха (Якутия)",
+    "oikTvd": "100100225883432",
+    "oikName": "Республика Саха (Якутия) – Якутский",
+    "district": {
+      "districtNumber": 24,
+      "oikTvd": "100100225883432"
+    }
   },
   {
     "uikNumber": 488,
     "uikTvd": "4144024174610",
     "tikTvd": "21420001074295",
-    "tikName": "Оленекская"
+    "tikName": "Оленекская",
+    "uikName": "УИК №488",
+    "regionCode": "14",
+    "regionTvd": "100100225883431",
+    "regionName": "Республика Саха (Якутия)",
+    "oikTvd": "100100225883432",
+    "oikName": "Республика Саха (Якутия) – Якутский",
+    "district": {
+      "districtNumber": 24,
+      "oikTvd": "100100225883432"
+    }
   },
   {
     "uikNumber": 489,
     "uikTvd": "4144025198008",
     "tikTvd": "21420001074293",
-    "tikName": "Среднеколымская"
+    "tikName": "Среднеколымская",
+    "uikName": "УИК №489",
+    "regionCode": "14",
+    "regionTvd": "100100225883431",
+    "regionName": "Республика Саха (Якутия)",
+    "oikTvd": "100100225883432",
+    "oikName": "Республика Саха (Якутия) – Якутский",
+    "district": {
+      "districtNumber": 24,
+      "oikTvd": "100100225883432"
+    }
   },
   {
     "uikNumber": 490,
     "uikTvd": "4144025198009",
     "tikTvd": "21420001074293",
-    "tikName": "Среднеколымская"
+    "tikName": "Среднеколымская",
+    "uikName": "УИК №490",
+    "regionCode": "14",
+    "regionTvd": "100100225883431",
+    "regionName": "Республика Саха (Якутия)",
+    "oikTvd": "100100225883432",
+    "oikName": "Республика Саха (Якутия) – Якутский",
+    "district": {
+      "districtNumber": 24,
+      "oikTvd": "100100225883432"
+    }
   },
   {
     "uikNumber": 491,
     "uikTvd": "4144025198010",
     "tikTvd": "21420001074293",
-    "tikName": "Среднеколымская"
+    "tikName": "Среднеколымская",
+    "uikName": "УИК №491",
+    "regionCode": "14",
+    "regionTvd": "100100225883431",
+    "regionName": "Республика Саха (Якутия)",
+    "oikTvd": "100100225883432",
+    "oikName": "Республика Саха (Якутия) – Якутский",
+    "district": {
+      "districtNumber": 24,
+      "oikTvd": "100100225883432"
+    }
   },
   {
     "uikNumber": 492,
     "uikTvd": "4144025198011",
     "tikTvd": "21420001074293",
-    "tikName": "Среднеколымская"
+    "tikName": "Среднеколымская",
+    "uikName": "УИК №492",
+    "regionCode": "14",
+    "regionTvd": "100100225883431",
+    "regionName": "Республика Саха (Якутия)",
+    "oikTvd": "100100225883432",
+    "oikName": "Республика Саха (Якутия) – Якутский",
+    "district": {
+      "districtNumber": 24,
+      "oikTvd": "100100225883432"
+    }
   },
   {
     "uikNumber": 493,
     "uikTvd": "4144025198012",
     "tikTvd": "21420001074293",
-    "tikName": "Среднеколымская"
+    "tikName": "Среднеколымская",
+    "uikName": "УИК №493",
+    "regionCode": "14",
+    "regionTvd": "100100225883431",
+    "regionName": "Республика Саха (Якутия)",
+    "oikTvd": "100100225883432",
+    "oikName": "Республика Саха (Якутия) – Якутский",
+    "district": {
+      "districtNumber": 24,
+      "oikTvd": "100100225883432"
+    }
   },
   {
     "uikNumber": 494,
     "uikTvd": "4144025198013",
     "tikTvd": "21420001074293",
-    "tikName": "Среднеколымская"
+    "tikName": "Среднеколымская",
+    "uikName": "УИК №494",
+    "regionCode": "14",
+    "regionTvd": "100100225883431",
+    "regionName": "Республика Саха (Якутия)",
+    "oikTvd": "100100225883432",
+    "oikName": "Республика Саха (Якутия) – Якутский",
+    "district": {
+      "districtNumber": 24,
+      "oikTvd": "100100225883432"
+    }
   },
   {
     "uikNumber": 495,
     "uikTvd": "4144025198014",
     "tikTvd": "21420001074293",
-    "tikName": "Среднеколымская"
+    "tikName": "Среднеколымская",
+    "uikName": "УИК №495",
+    "regionCode": "14",
+    "regionTvd": "100100225883431",
+    "regionName": "Республика Саха (Якутия)",
+    "oikTvd": "100100225883432",
+    "oikName": "Республика Саха (Якутия) – Якутский",
+    "district": {
+      "districtNumber": 24,
+      "oikTvd": "100100225883432"
+    }
   },
   {
     "uikNumber": 496,
     "uikTvd": "4144025198015",
     "tikTvd": "21420001074293",
-    "tikName": "Среднеколымская"
+    "tikName": "Среднеколымская",
+    "uikName": "УИК №496",
+    "regionCode": "14",
+    "regionTvd": "100100225883431",
+    "regionName": "Республика Саха (Якутия)",
+    "oikTvd": "100100225883432",
+    "oikName": "Республика Саха (Якутия) – Якутский",
+    "district": {
+      "districtNumber": 24,
+      "oikTvd": "100100225883432"
+    }
   },
   {
     "uikNumber": 497,
     "uikTvd": "4144025198016",
     "tikTvd": "21420001074293",
-    "tikName": "Среднеколымская"
+    "tikName": "Среднеколымская",
+    "uikName": "УИК №497",
+    "regionCode": "14",
+    "regionTvd": "100100225883431",
+    "regionName": "Республика Саха (Якутия)",
+    "oikTvd": "100100225883432",
+    "oikName": "Республика Саха (Якутия) – Якутский",
+    "district": {
+      "districtNumber": 24,
+      "oikTvd": "100100225883432"
+    }
   },
   {
     "uikNumber": 498,
     "uikTvd": "4144025198017",
     "tikTvd": "21420001074293",
-    "tikName": "Среднеколымская"
+    "tikName": "Среднеколымская",
+    "uikName": "УИК №498",
+    "regionCode": "14",
+    "regionTvd": "100100225883431",
+    "regionName": "Республика Саха (Якутия)",
+    "oikTvd": "100100225883432",
+    "oikName": "Республика Саха (Якутия) – Якутский",
+    "district": {
+      "districtNumber": 24,
+      "oikTvd": "100100225883432"
+    }
   },
   {
     "uikNumber": 499,
     "uikTvd": "4144025198018",
     "tikTvd": "21420001074293",
-    "tikName": "Среднеколымская"
+    "tikName": "Среднеколымская",
+    "uikName": "УИК №499",
+    "regionCode": "14",
+    "regionTvd": "100100225883431",
+    "regionName": "Республика Саха (Якутия)",
+    "oikTvd": "100100225883432",
+    "oikName": "Республика Саха (Якутия) – Якутский",
+    "district": {
+      "districtNumber": 24,
+      "oikTvd": "100100225883432"
+    }
   },
   {
     "uikNumber": 500,
     "uikTvd": "4144026293043",
     "tikTvd": "21420001074318",
-    "tikName": "Сунтарская"
+    "tikName": "Сунтарская",
+    "uikName": "УИК №500",
+    "regionCode": "14",
+    "regionTvd": "100100225883431",
+    "regionName": "Республика Саха (Якутия)",
+    "oikTvd": "100100225883432",
+    "oikName": "Республика Саха (Якутия) – Якутский",
+    "district": {
+      "districtNumber": 24,
+      "oikTvd": "100100225883432"
+    }
   },
   {
     "uikNumber": 501,
     "uikTvd": "4144026293044",
     "tikTvd": "21420001074318",
-    "tikName": "Сунтарская"
+    "tikName": "Сунтарская",
+    "uikName": "УИК №501",
+    "regionCode": "14",
+    "regionTvd": "100100225883431",
+    "regionName": "Республика Саха (Якутия)",
+    "oikTvd": "100100225883432",
+    "oikName": "Республика Саха (Якутия) – Якутский",
+    "district": {
+      "districtNumber": 24,
+      "oikTvd": "100100225883432"
+    }
   },
   {
     "uikNumber": 502,
     "uikTvd": "4144026293045",
     "tikTvd": "21420001074318",
-    "tikName": "Сунтарская"
+    "tikName": "Сунтарская",
+    "uikName": "УИК №502",
+    "regionCode": "14",
+    "regionTvd": "100100225883431",
+    "regionName": "Республика Саха (Якутия)",
+    "oikTvd": "100100225883432",
+    "oikName": "Республика Саха (Якутия) – Якутский",
+    "district": {
+      "districtNumber": 24,
+      "oikTvd": "100100225883432"
+    }
   },
   {
     "uikNumber": 503,
     "uikTvd": "4144026293046",
     "tikTvd": "21420001074318",
-    "tikName": "Сунтарская"
+    "tikName": "Сунтарская",
+    "uikName": "УИК №503",
+    "regionCode": "14",
+    "regionTvd": "100100225883431",
+    "regionName": "Республика Саха (Якутия)",
+    "oikTvd": "100100225883432",
+    "oikName": "Республика Саха (Якутия) – Якутский",
+    "district": {
+      "districtNumber": 24,
+      "oikTvd": "100100225883432"
+    }
   },
   {
     "uikNumber": 504,
     "uikTvd": "4144026293047",
     "tikTvd": "21420001074318",
-    "tikName": "Сунтарская"
+    "tikName": "Сунтарская",
+    "uikName": "УИК №504",
+    "regionCode": "14",
+    "regionTvd": "100100225883431",
+    "regionName": "Республика Саха (Якутия)",
+    "oikTvd": "100100225883432",
+    "oikName": "Республика Саха (Якутия) – Якутский",
+    "district": {
+      "districtNumber": 24,
+      "oikTvd": "100100225883432"
+    }
   },
   {
     "uikNumber": 505,
     "uikTvd": "4144026293048",
     "tikTvd": "21420001074318",
-    "tikName": "Сунтарская"
+    "tikName": "Сунтарская",
+    "uikName": "УИК №505",
+    "regionCode": "14",
+    "regionTvd": "100100225883431",
+    "regionName": "Республика Саха (Якутия)",
+    "oikTvd": "100100225883432",
+    "oikName": "Республика Саха (Якутия) – Якутский",
+    "district": {
+      "districtNumber": 24,
+      "oikTvd": "100100225883432"
+    }
   },
   {
     "uikNumber": 506,
     "uikTvd": "4144026293049",
     "tikTvd": "21420001074318",
-    "tikName": "Сунтарская"
+    "tikName": "Сунтарская",
+    "uikName": "УИК №506",
+    "regionCode": "14",
+    "regionTvd": "100100225883431",
+    "regionName": "Республика Саха (Якутия)",
+    "oikTvd": "100100225883432",
+    "oikName": "Республика Саха (Якутия) – Якутский",
+    "district": {
+      "districtNumber": 24,
+      "oikTvd": "100100225883432"
+    }
   },
   {
     "uikNumber": 507,
     "uikTvd": "4144026293050",
     "tikTvd": "21420001074318",
-    "tikName": "Сунтарская"
+    "tikName": "Сунтарская",
+    "uikName": "УИК №507",
+    "regionCode": "14",
+    "regionTvd": "100100225883431",
+    "regionName": "Республика Саха (Якутия)",
+    "oikTvd": "100100225883432",
+    "oikName": "Республика Саха (Якутия) – Якутский",
+    "district": {
+      "districtNumber": 24,
+      "oikTvd": "100100225883432"
+    }
   },
   {
     "uikNumber": 508,
     "uikTvd": "4144026293051",
     "tikTvd": "21420001074318",
-    "tikName": "Сунтарская"
+    "tikName": "Сунтарская",
+    "uikName": "УИК №508",
+    "regionCode": "14",
+    "regionTvd": "100100225883431",
+    "regionName": "Республика Саха (Якутия)",
+    "oikTvd": "100100225883432",
+    "oikName": "Республика Саха (Якутия) – Якутский",
+    "district": {
+      "districtNumber": 24,
+      "oikTvd": "100100225883432"
+    }
   },
   {
     "uikNumber": 509,
     "uikTvd": "4144026293052",
     "tikTvd": "21420001074318",
-    "tikName": "Сунтарская"
+    "tikName": "Сунтарская",
+    "uikName": "УИК №509",
+    "regionCode": "14",
+    "regionTvd": "100100225883431",
+    "regionName": "Республика Саха (Якутия)",
+    "oikTvd": "100100225883432",
+    "oikName": "Республика Саха (Якутия) – Якутский",
+    "district": {
+      "districtNumber": 24,
+      "oikTvd": "100100225883432"
+    }
   },
   {
     "uikNumber": 510,
     "uikTvd": "4144026293053",
     "tikTvd": "21420001074318",
-    "tikName": "Сунтарская"
+    "tikName": "Сунтарская",
+    "uikName": "УИК №510",
+    "regionCode": "14",
+    "regionTvd": "100100225883431",
+    "regionName": "Республика Саха (Якутия)",
+    "oikTvd": "100100225883432",
+    "oikName": "Республика Саха (Якутия) – Якутский",
+    "district": {
+      "districtNumber": 24,
+      "oikTvd": "100100225883432"
+    }
   },
   {
     "uikNumber": 511,
     "uikTvd": "4144026293054",
     "tikTvd": "21420001074318",
-    "tikName": "Сунтарская"
+    "tikName": "Сунтарская",
+    "uikName": "УИК №511",
+    "regionCode": "14",
+    "regionTvd": "100100225883431",
+    "regionName": "Республика Саха (Якутия)",
+    "oikTvd": "100100225883432",
+    "oikName": "Республика Саха (Якутия) – Якутский",
+    "district": {
+      "districtNumber": 24,
+      "oikTvd": "100100225883432"
+    }
   },
   {
     "uikNumber": 512,
     "uikTvd": "4144026293055",
     "tikTvd": "21420001074318",
-    "tikName": "Сунтарская"
+    "tikName": "Сунтарская",
+    "uikName": "УИК №512",
+    "regionCode": "14",
+    "regionTvd": "100100225883431",
+    "regionName": "Республика Саха (Якутия)",
+    "oikTvd": "100100225883432",
+    "oikName": "Республика Саха (Якутия) – Якутский",
+    "district": {
+      "districtNumber": 24,
+      "oikTvd": "100100225883432"
+    }
   },
   {
     "uikNumber": 513,
     "uikTvd": "4144026293056",
     "tikTvd": "21420001074318",
-    "tikName": "Сунтарская"
+    "tikName": "Сунтарская",
+    "uikName": "УИК №513",
+    "regionCode": "14",
+    "regionTvd": "100100225883431",
+    "regionName": "Республика Саха (Якутия)",
+    "oikTvd": "100100225883432",
+    "oikName": "Республика Саха (Якутия) – Якутский",
+    "district": {
+      "districtNumber": 24,
+      "oikTvd": "100100225883432"
+    }
   },
   {
     "uikNumber": 514,
     "uikTvd": "4144026293057",
     "tikTvd": "21420001074318",
-    "tikName": "Сунтарская"
+    "tikName": "Сунтарская",
+    "uikName": "УИК №514",
+    "regionCode": "14",
+    "regionTvd": "100100225883431",
+    "regionName": "Республика Саха (Якутия)",
+    "oikTvd": "100100225883432",
+    "oikName": "Республика Саха (Якутия) – Якутский",
+    "district": {
+      "districtNumber": 24,
+      "oikTvd": "100100225883432"
+    }
   },
   {
     "uikNumber": 515,
     "uikTvd": "4144026293058",
     "tikTvd": "21420001074318",
-    "tikName": "Сунтарская"
+    "tikName": "Сунтарская",
+    "uikName": "УИК №515",
+    "regionCode": "14",
+    "regionTvd": "100100225883431",
+    "regionName": "Республика Саха (Якутия)",
+    "oikTvd": "100100225883432",
+    "oikName": "Республика Саха (Якутия) – Якутский",
+    "district": {
+      "districtNumber": 24,
+      "oikTvd": "100100225883432"
+    }
   },
   {
     "uikNumber": 516,
     "uikTvd": "4144026293059",
     "tikTvd": "21420001074318",
-    "tikName": "Сунтарская"
+    "tikName": "Сунтарская",
+    "uikName": "УИК №516",
+    "regionCode": "14",
+    "regionTvd": "100100225883431",
+    "regionName": "Республика Саха (Якутия)",
+    "oikTvd": "100100225883432",
+    "oikName": "Республика Саха (Якутия) – Якутский",
+    "district": {
+      "districtNumber": 24,
+      "oikTvd": "100100225883432"
+    }
   },
   {
     "uikNumber": 517,
     "uikTvd": "4144026293060",
     "tikTvd": "21420001074318",
-    "tikName": "Сунтарская"
+    "tikName": "Сунтарская",
+    "uikName": "УИК №517",
+    "regionCode": "14",
+    "regionTvd": "100100225883431",
+    "regionName": "Республика Саха (Якутия)",
+    "oikTvd": "100100225883432",
+    "oikName": "Республика Саха (Якутия) – Якутский",
+    "district": {
+      "districtNumber": 24,
+      "oikTvd": "100100225883432"
+    }
   },
   {
     "uikNumber": 518,
     "uikTvd": "4144026293061",
     "tikTvd": "21420001074318",
-    "tikName": "Сунтарская"
+    "tikName": "Сунтарская",
+    "uikName": "УИК №518",
+    "regionCode": "14",
+    "regionTvd": "100100225883431",
+    "regionName": "Республика Саха (Якутия)",
+    "oikTvd": "100100225883432",
+    "oikName": "Республика Саха (Якутия) – Якутский",
+    "district": {
+      "districtNumber": 24,
+      "oikTvd": "100100225883432"
+    }
   },
   {
     "uikNumber": 519,
     "uikTvd": "4144026293062",
     "tikTvd": "21420001074318",
-    "tikName": "Сунтарская"
+    "tikName": "Сунтарская",
+    "uikName": "УИК №519",
+    "regionCode": "14",
+    "regionTvd": "100100225883431",
+    "regionName": "Республика Саха (Якутия)",
+    "oikTvd": "100100225883432",
+    "oikName": "Республика Саха (Якутия) – Якутский",
+    "district": {
+      "districtNumber": 24,
+      "oikTvd": "100100225883432"
+    }
   },
   {
     "uikNumber": 520,
     "uikTvd": "4144026293063",
     "tikTvd": "21420001074318",
-    "tikName": "Сунтарская"
+    "tikName": "Сунтарская",
+    "uikName": "УИК №520",
+    "regionCode": "14",
+    "regionTvd": "100100225883431",
+    "regionName": "Республика Саха (Якутия)",
+    "oikTvd": "100100225883432",
+    "oikName": "Республика Саха (Якутия) – Якутский",
+    "district": {
+      "districtNumber": 24,
+      "oikTvd": "100100225883432"
+    }
   },
   {
     "uikNumber": 521,
     "uikTvd": "4144026293064",
     "tikTvd": "21420001074318",
-    "tikName": "Сунтарская"
+    "tikName": "Сунтарская",
+    "uikName": "УИК №521",
+    "regionCode": "14",
+    "regionTvd": "100100225883431",
+    "regionName": "Республика Саха (Якутия)",
+    "oikTvd": "100100225883432",
+    "oikName": "Республика Саха (Якутия) – Якутский",
+    "district": {
+      "districtNumber": 24,
+      "oikTvd": "100100225883432"
+    }
   },
   {
     "uikNumber": 522,
     "uikTvd": "4144026293065",
     "tikTvd": "21420001074318",
-    "tikName": "Сунтарская"
+    "tikName": "Сунтарская",
+    "uikName": "УИК №522",
+    "regionCode": "14",
+    "regionTvd": "100100225883431",
+    "regionName": "Республика Саха (Якутия)",
+    "oikTvd": "100100225883432",
+    "oikName": "Республика Саха (Якутия) – Якутский",
+    "district": {
+      "districtNumber": 24,
+      "oikTvd": "100100225883432"
+    }
   },
   {
     "uikNumber": 523,
     "uikTvd": "4144026293066",
     "tikTvd": "21420001074318",
-    "tikName": "Сунтарская"
+    "tikName": "Сунтарская",
+    "uikName": "УИК №523",
+    "regionCode": "14",
+    "regionTvd": "100100225883431",
+    "regionName": "Республика Саха (Якутия)",
+    "oikTvd": "100100225883432",
+    "oikName": "Республика Саха (Якутия) – Якутский",
+    "district": {
+      "districtNumber": 24,
+      "oikTvd": "100100225883432"
+    }
   },
   {
     "uikNumber": 524,
     "uikTvd": "4144026293067",
     "tikTvd": "21420001074318",
-    "tikName": "Сунтарская"
+    "tikName": "Сунтарская",
+    "uikName": "УИК №524",
+    "regionCode": "14",
+    "regionTvd": "100100225883431",
+    "regionName": "Республика Саха (Якутия)",
+    "oikTvd": "100100225883432",
+    "oikName": "Республика Саха (Якутия) – Якутский",
+    "district": {
+      "districtNumber": 24,
+      "oikTvd": "100100225883432"
+    }
   },
   {
     "uikNumber": 525,
     "uikTvd": "4144026293068",
     "tikTvd": "21420001074318",
-    "tikName": "Сунтарская"
+    "tikName": "Сунтарская",
+    "uikName": "УИК №525",
+    "regionCode": "14",
+    "regionTvd": "100100225883431",
+    "regionName": "Республика Саха (Якутия)",
+    "oikTvd": "100100225883432",
+    "oikName": "Республика Саха (Якутия) – Якутский",
+    "district": {
+      "districtNumber": 24,
+      "oikTvd": "100100225883432"
+    }
   },
   {
     "uikNumber": 526,
     "uikTvd": "4144026293069",
     "tikTvd": "21420001074318",
-    "tikName": "Сунтарская"
+    "tikName": "Сунтарская",
+    "uikName": "УИК №526",
+    "regionCode": "14",
+    "regionTvd": "100100225883431",
+    "regionName": "Республика Саха (Якутия)",
+    "oikTvd": "100100225883432",
+    "oikName": "Республика Саха (Якутия) – Якутский",
+    "district": {
+      "districtNumber": 24,
+      "oikTvd": "100100225883432"
+    }
   },
   {
     "uikNumber": 527,
     "uikTvd": "4144026293070",
     "tikTvd": "21420001074318",
-    "tikName": "Сунтарская"
+    "tikName": "Сунтарская",
+    "uikName": "УИК №527",
+    "regionCode": "14",
+    "regionTvd": "100100225883431",
+    "regionName": "Республика Саха (Якутия)",
+    "oikTvd": "100100225883432",
+    "oikName": "Республика Саха (Якутия) – Якутский",
+    "district": {
+      "districtNumber": 24,
+      "oikTvd": "100100225883432"
+    }
   },
   {
     "uikNumber": 528,
     "uikTvd": "4144026293071",
     "tikTvd": "21420001074318",
-    "tikName": "Сунтарская"
+    "tikName": "Сунтарская",
+    "uikName": "УИК №528",
+    "regionCode": "14",
+    "regionTvd": "100100225883431",
+    "regionName": "Республика Саха (Якутия)",
+    "oikTvd": "100100225883432",
+    "oikName": "Республика Саха (Якутия) – Якутский",
+    "district": {
+      "districtNumber": 24,
+      "oikTvd": "100100225883432"
+    }
   },
   {
     "uikNumber": 529,
     "uikTvd": "4144026293072",
     "tikTvd": "21420001074318",
-    "tikName": "Сунтарская"
+    "tikName": "Сунтарская",
+    "uikName": "УИК №529",
+    "regionCode": "14",
+    "regionTvd": "100100225883431",
+    "regionName": "Республика Саха (Якутия)",
+    "oikTvd": "100100225883432",
+    "oikName": "Республика Саха (Якутия) – Якутский",
+    "district": {
+      "districtNumber": 24,
+      "oikTvd": "100100225883432"
+    }
   },
   {
     "uikNumber": 530,
     "uikTvd": "4144026293073",
     "tikTvd": "21420001074318",
-    "tikName": "Сунтарская"
+    "tikName": "Сунтарская",
+    "uikName": "УИК №530",
+    "regionCode": "14",
+    "regionTvd": "100100225883431",
+    "regionName": "Республика Саха (Якутия)",
+    "oikTvd": "100100225883432",
+    "oikName": "Республика Саха (Якутия) – Якутский",
+    "district": {
+      "districtNumber": 24,
+      "oikTvd": "100100225883432"
+    }
   },
   {
     "uikNumber": 531,
     "uikTvd": "4144027309626",
     "tikTvd": "21420001074316",
-    "tikName": "Таттинская"
+    "tikName": "Таттинская",
+    "uikName": "УИК №531",
+    "regionCode": "14",
+    "regionTvd": "100100225883431",
+    "regionName": "Республика Саха (Якутия)",
+    "oikTvd": "100100225883432",
+    "oikName": "Республика Саха (Якутия) – Якутский",
+    "district": {
+      "districtNumber": 24,
+      "oikTvd": "100100225883432"
+    }
   },
   {
     "uikNumber": 532,
     "uikTvd": "4144027309627",
     "tikTvd": "21420001074316",
-    "tikName": "Таттинская"
+    "tikName": "Таттинская",
+    "uikName": "УИК №532",
+    "regionCode": "14",
+    "regionTvd": "100100225883431",
+    "regionName": "Республика Саха (Якутия)",
+    "oikTvd": "100100225883432",
+    "oikName": "Республика Саха (Якутия) – Якутский",
+    "district": {
+      "districtNumber": 24,
+      "oikTvd": "100100225883432"
+    }
   },
   {
     "uikNumber": 533,
     "uikTvd": "4144027309628",
     "tikTvd": "21420001074316",
-    "tikName": "Таттинская"
+    "tikName": "Таттинская",
+    "uikName": "УИК №533",
+    "regionCode": "14",
+    "regionTvd": "100100225883431",
+    "regionName": "Республика Саха (Якутия)",
+    "oikTvd": "100100225883432",
+    "oikName": "Республика Саха (Якутия) – Якутский",
+    "district": {
+      "districtNumber": 24,
+      "oikTvd": "100100225883432"
+    }
   },
   {
     "uikNumber": 534,
     "uikTvd": "4144027309629",
     "tikTvd": "21420001074316",
-    "tikName": "Таттинская"
+    "tikName": "Таттинская",
+    "uikName": "УИК №534",
+    "regionCode": "14",
+    "regionTvd": "100100225883431",
+    "regionName": "Республика Саха (Якутия)",
+    "oikTvd": "100100225883432",
+    "oikName": "Республика Саха (Якутия) – Якутский",
+    "district": {
+      "districtNumber": 24,
+      "oikTvd": "100100225883432"
+    }
   },
   {
     "uikNumber": 535,
     "uikTvd": "4144027309630",
     "tikTvd": "21420001074316",
-    "tikName": "Таттинская"
+    "tikName": "Таттинская",
+    "uikName": "УИК №535",
+    "regionCode": "14",
+    "regionTvd": "100100225883431",
+    "regionName": "Республика Саха (Якутия)",
+    "oikTvd": "100100225883432",
+    "oikName": "Республика Саха (Якутия) – Якутский",
+    "district": {
+      "districtNumber": 24,
+      "oikTvd": "100100225883432"
+    }
   },
   {
     "uikNumber": 536,
     "uikTvd": "4144027309631",
     "tikTvd": "21420001074316",
-    "tikName": "Таттинская"
+    "tikName": "Таттинская",
+    "uikName": "УИК №536",
+    "regionCode": "14",
+    "regionTvd": "100100225883431",
+    "regionName": "Республика Саха (Якутия)",
+    "oikTvd": "100100225883432",
+    "oikName": "Республика Саха (Якутия) – Якутский",
+    "district": {
+      "districtNumber": 24,
+      "oikTvd": "100100225883432"
+    }
   },
   {
     "uikNumber": 537,
     "uikTvd": "4144027309632",
     "tikTvd": "21420001074316",
-    "tikName": "Таттинская"
+    "tikName": "Таттинская",
+    "uikName": "УИК №537",
+    "regionCode": "14",
+    "regionTvd": "100100225883431",
+    "regionName": "Республика Саха (Якутия)",
+    "oikTvd": "100100225883432",
+    "oikName": "Республика Саха (Якутия) – Якутский",
+    "district": {
+      "districtNumber": 24,
+      "oikTvd": "100100225883432"
+    }
   },
   {
     "uikNumber": 538,
     "uikTvd": "4144027309633",
     "tikTvd": "21420001074316",
-    "tikName": "Таттинская"
+    "tikName": "Таттинская",
+    "uikName": "УИК №538",
+    "regionCode": "14",
+    "regionTvd": "100100225883431",
+    "regionName": "Республика Саха (Якутия)",
+    "oikTvd": "100100225883432",
+    "oikName": "Республика Саха (Якутия) – Якутский",
+    "district": {
+      "districtNumber": 24,
+      "oikTvd": "100100225883432"
+    }
   },
   {
     "uikNumber": 539,
     "uikTvd": "4144027309634",
     "tikTvd": "21420001074316",
-    "tikName": "Таттинская"
+    "tikName": "Таттинская",
+    "uikName": "УИК №539",
+    "regionCode": "14",
+    "regionTvd": "100100225883431",
+    "regionName": "Республика Саха (Якутия)",
+    "oikTvd": "100100225883432",
+    "oikName": "Республика Саха (Якутия) – Якутский",
+    "district": {
+      "districtNumber": 24,
+      "oikTvd": "100100225883432"
+    }
   },
   {
     "uikNumber": 540,
     "uikTvd": "4144027309635",
     "tikTvd": "21420001074316",
-    "tikName": "Таттинская"
+    "tikName": "Таттинская",
+    "uikName": "УИК №540",
+    "regionCode": "14",
+    "regionTvd": "100100225883431",
+    "regionName": "Республика Саха (Якутия)",
+    "oikTvd": "100100225883432",
+    "oikName": "Республика Саха (Якутия) – Якутский",
+    "district": {
+      "districtNumber": 24,
+      "oikTvd": "100100225883432"
+    }
   },
   {
     "uikNumber": 541,
     "uikTvd": "4144027309636",
     "tikTvd": "21420001074316",
-    "tikName": "Таттинская"
+    "tikName": "Таттинская",
+    "uikName": "УИК №541",
+    "regionCode": "14",
+    "regionTvd": "100100225883431",
+    "regionName": "Республика Саха (Якутия)",
+    "oikTvd": "100100225883432",
+    "oikName": "Республика Саха (Якутия) – Якутский",
+    "district": {
+      "districtNumber": 24,
+      "oikTvd": "100100225883432"
+    }
   },
   {
     "uikNumber": 542,
     "uikTvd": "4144027309637",
     "tikTvd": "21420001074316",
-    "tikName": "Таттинская"
+    "tikName": "Таттинская",
+    "uikName": "УИК №542",
+    "regionCode": "14",
+    "regionTvd": "100100225883431",
+    "regionName": "Республика Саха (Якутия)",
+    "oikTvd": "100100225883432",
+    "oikName": "Республика Саха (Якутия) – Якутский",
+    "district": {
+      "districtNumber": 24,
+      "oikTvd": "100100225883432"
+    }
   },
   {
     "uikNumber": 543,
     "uikTvd": "4144027309638",
     "tikTvd": "21420001074316",
-    "tikName": "Таттинская"
+    "tikName": "Таттинская",
+    "uikName": "УИК №543",
+    "regionCode": "14",
+    "regionTvd": "100100225883431",
+    "regionName": "Республика Саха (Якутия)",
+    "oikTvd": "100100225883432",
+    "oikName": "Республика Саха (Якутия) – Якутский",
+    "district": {
+      "districtNumber": 24,
+      "oikTvd": "100100225883432"
+    }
   },
   {
     "uikNumber": 544,
     "uikTvd": "4144027309639",
     "tikTvd": "21420001074316",
-    "tikName": "Таттинская"
+    "tikName": "Таттинская",
+    "uikName": "УИК №544",
+    "regionCode": "14",
+    "regionTvd": "100100225883431",
+    "regionName": "Республика Саха (Якутия)",
+    "oikTvd": "100100225883432",
+    "oikName": "Республика Саха (Якутия) – Якутский",
+    "district": {
+      "districtNumber": 24,
+      "oikTvd": "100100225883432"
+    }
   },
   {
     "uikNumber": 545,
     "uikTvd": "4144027309640",
     "tikTvd": "21420001074316",
-    "tikName": "Таттинская"
+    "tikName": "Таттинская",
+    "uikName": "УИК №545",
+    "regionCode": "14",
+    "regionTvd": "100100225883431",
+    "regionName": "Республика Саха (Якутия)",
+    "oikTvd": "100100225883432",
+    "oikName": "Республика Саха (Якутия) – Якутский",
+    "district": {
+      "districtNumber": 24,
+      "oikTvd": "100100225883432"
+    }
   },
   {
     "uikNumber": 546,
     "uikTvd": "4144027309641",
     "tikTvd": "21420001074316",
-    "tikName": "Таттинская"
+    "tikName": "Таттинская",
+    "uikName": "УИК №546",
+    "regionCode": "14",
+    "regionTvd": "100100225883431",
+    "regionName": "Республика Саха (Якутия)",
+    "oikTvd": "100100225883432",
+    "oikName": "Республика Саха (Якутия) – Якутский",
+    "district": {
+      "districtNumber": 24,
+      "oikTvd": "100100225883432"
+    }
   },
   {
     "uikNumber": 547,
     "uikTvd": "4144028189397",
     "tikTvd": "21420001074292",
-    "tikName": "Томпонская"
+    "tikName": "Томпонская",
+    "uikName": "УИК №547",
+    "regionCode": "14",
+    "regionTvd": "100100225883431",
+    "regionName": "Республика Саха (Якутия)",
+    "oikTvd": "100100225883432",
+    "oikName": "Республика Саха (Якутия) – Якутский",
+    "district": {
+      "districtNumber": 24,
+      "oikTvd": "100100225883432"
+    }
   },
   {
     "uikNumber": 548,
     "uikTvd": "4144028189398",
     "tikTvd": "21420001074292",
-    "tikName": "Томпонская"
+    "tikName": "Томпонская",
+    "uikName": "УИК №548",
+    "regionCode": "14",
+    "regionTvd": "100100225883431",
+    "regionName": "Республика Саха (Якутия)",
+    "oikTvd": "100100225883432",
+    "oikName": "Республика Саха (Якутия) – Якутский",
+    "district": {
+      "districtNumber": 24,
+      "oikTvd": "100100225883432"
+    }
   },
   {
     "uikNumber": 549,
     "uikTvd": "4144028189399",
     "tikTvd": "21420001074292",
-    "tikName": "Томпонская"
+    "tikName": "Томпонская",
+    "uikName": "УИК №549",
+    "regionCode": "14",
+    "regionTvd": "100100225883431",
+    "regionName": "Республика Саха (Якутия)",
+    "oikTvd": "100100225883432",
+    "oikName": "Республика Саха (Якутия) – Якутский",
+    "district": {
+      "districtNumber": 24,
+      "oikTvd": "100100225883432"
+    }
   },
   {
     "uikNumber": 550,
     "uikTvd": "4144028189400",
     "tikTvd": "21420001074292",
-    "tikName": "Томпонская"
+    "tikName": "Томпонская",
+    "uikName": "УИК №550",
+    "regionCode": "14",
+    "regionTvd": "100100225883431",
+    "regionName": "Республика Саха (Якутия)",
+    "oikTvd": "100100225883432",
+    "oikName": "Республика Саха (Якутия) – Якутский",
+    "district": {
+      "districtNumber": 24,
+      "oikTvd": "100100225883432"
+    }
   },
   {
     "uikNumber": 551,
     "uikTvd": "4144028189401",
     "tikTvd": "21420001074292",
-    "tikName": "Томпонская"
+    "tikName": "Томпонская",
+    "uikName": "УИК №551",
+    "regionCode": "14",
+    "regionTvd": "100100225883431",
+    "regionName": "Республика Саха (Якутия)",
+    "oikTvd": "100100225883432",
+    "oikName": "Республика Саха (Якутия) – Якутский",
+    "district": {
+      "districtNumber": 24,
+      "oikTvd": "100100225883432"
+    }
   },
   {
     "uikNumber": 552,
     "uikTvd": "4144028189402",
     "tikTvd": "21420001074292",
-    "tikName": "Томпонская"
+    "tikName": "Томпонская",
+    "uikName": "УИК №552",
+    "regionCode": "14",
+    "regionTvd": "100100225883431",
+    "regionName": "Республика Саха (Якутия)",
+    "oikTvd": "100100225883432",
+    "oikName": "Республика Саха (Якутия) – Якутский",
+    "district": {
+      "districtNumber": 24,
+      "oikTvd": "100100225883432"
+    }
   },
   {
     "uikNumber": 553,
     "uikTvd": "4144028189403",
     "tikTvd": "21420001074292",
-    "tikName": "Томпонская"
+    "tikName": "Томпонская",
+    "uikName": "УИК №553",
+    "regionCode": "14",
+    "regionTvd": "100100225883431",
+    "regionName": "Республика Саха (Якутия)",
+    "oikTvd": "100100225883432",
+    "oikName": "Республика Саха (Якутия) – Якутский",
+    "district": {
+      "districtNumber": 24,
+      "oikTvd": "100100225883432"
+    }
   },
   {
     "uikNumber": 554,
     "uikTvd": "4144028189404",
     "tikTvd": "21420001074292",
-    "tikName": "Томпонская"
+    "tikName": "Томпонская",
+    "uikName": "УИК №554",
+    "regionCode": "14",
+    "regionTvd": "100100225883431",
+    "regionName": "Республика Саха (Якутия)",
+    "oikTvd": "100100225883432",
+    "oikName": "Республика Саха (Якутия) – Якутский",
+    "district": {
+      "districtNumber": 24,
+      "oikTvd": "100100225883432"
+    }
   },
   {
     "uikNumber": 555,
     "uikTvd": "4144028189405",
     "tikTvd": "21420001074292",
-    "tikName": "Томпонская"
+    "tikName": "Томпонская",
+    "uikName": "УИК №555",
+    "regionCode": "14",
+    "regionTvd": "100100225883431",
+    "regionName": "Республика Саха (Якутия)",
+    "oikTvd": "100100225883432",
+    "oikName": "Республика Саха (Якутия) – Якутский",
+    "district": {
+      "districtNumber": 24,
+      "oikTvd": "100100225883432"
+    }
   },
   {
     "uikNumber": 556,
     "uikTvd": "4144028189406",
     "tikTvd": "21420001074292",
-    "tikName": "Томпонская"
+    "tikName": "Томпонская",
+    "uikName": "УИК №556",
+    "regionCode": "14",
+    "regionTvd": "100100225883431",
+    "regionName": "Республика Саха (Якутия)",
+    "oikTvd": "100100225883432",
+    "oikName": "Республика Саха (Якутия) – Якутский",
+    "district": {
+      "districtNumber": 24,
+      "oikTvd": "100100225883432"
+    }
   },
   {
     "uikNumber": 558,
     "uikTvd": "4144028189407",
     "tikTvd": "21420001074292",
-    "tikName": "Томпонская"
+    "tikName": "Томпонская",
+    "uikName": "УИК №558",
+    "regionCode": "14",
+    "regionTvd": "100100225883431",
+    "regionName": "Республика Саха (Якутия)",
+    "oikTvd": "100100225883432",
+    "oikName": "Республика Саха (Якутия) – Якутский",
+    "district": {
+      "districtNumber": 24,
+      "oikTvd": "100100225883432"
+    }
   },
   {
     "uikNumber": 559,
     "uikTvd": "4144028189408",
     "tikTvd": "21420001074292",
-    "tikName": "Томпонская"
+    "tikName": "Томпонская",
+    "uikName": "УИК №559",
+    "regionCode": "14",
+    "regionTvd": "100100225883431",
+    "regionName": "Республика Саха (Якутия)",
+    "oikTvd": "100100225883432",
+    "oikName": "Республика Саха (Якутия) – Якутский",
+    "district": {
+      "districtNumber": 24,
+      "oikTvd": "100100225883432"
+    }
   },
   {
     "uikNumber": 560,
     "uikTvd": "4144028189409",
     "tikTvd": "21420001074292",
-    "tikName": "Томпонская"
+    "tikName": "Томпонская",
+    "uikName": "УИК №560",
+    "regionCode": "14",
+    "regionTvd": "100100225883431",
+    "regionName": "Республика Саха (Якутия)",
+    "oikTvd": "100100225883432",
+    "oikName": "Республика Саха (Якутия) – Якутский",
+    "district": {
+      "districtNumber": 24,
+      "oikTvd": "100100225883432"
+    }
   },
   {
     "uikNumber": 561,
     "uikTvd": "4144028189410",
     "tikTvd": "21420001074292",
-    "tikName": "Томпонская"
+    "tikName": "Томпонская",
+    "uikName": "УИК №561",
+    "regionCode": "14",
+    "regionTvd": "100100225883431",
+    "regionName": "Республика Саха (Якутия)",
+    "oikTvd": "100100225883432",
+    "oikName": "Республика Саха (Якутия) – Якутский",
+    "district": {
+      "districtNumber": 24,
+      "oikTvd": "100100225883432"
+    }
   },
   {
     "uikNumber": 562,
     "uikTvd": "4144028189411",
     "tikTvd": "21420001074292",
-    "tikName": "Томпонская"
+    "tikName": "Томпонская",
+    "uikName": "УИК №562",
+    "regionCode": "14",
+    "regionTvd": "100100225883431",
+    "regionName": "Республика Саха (Якутия)",
+    "oikTvd": "100100225883432",
+    "oikName": "Республика Саха (Якутия) – Якутский",
+    "district": {
+      "districtNumber": 24,
+      "oikTvd": "100100225883432"
+    }
   },
   {
     "uikNumber": 563,
     "uikTvd": "4144028189412",
     "tikTvd": "21420001074292",
-    "tikName": "Томпонская"
+    "tikName": "Томпонская",
+    "uikName": "УИК №563",
+    "regionCode": "14",
+    "regionTvd": "100100225883431",
+    "regionName": "Республика Саха (Якутия)",
+    "oikTvd": "100100225883432",
+    "oikName": "Республика Саха (Якутия) – Якутский",
+    "district": {
+      "districtNumber": 24,
+      "oikTvd": "100100225883432"
+    }
   },
   {
     "uikNumber": 564,
     "uikTvd": "4144029309719",
     "tikTvd": "21420001074313",
-    "tikName": "Усть-Алданская"
+    "tikName": "Усть-Алданская",
+    "uikName": "УИК №564",
+    "regionCode": "14",
+    "regionTvd": "100100225883431",
+    "regionName": "Республика Саха (Якутия)",
+    "oikTvd": "100100225883432",
+    "oikName": "Республика Саха (Якутия) – Якутский",
+    "district": {
+      "districtNumber": 24,
+      "oikTvd": "100100225883432"
+    }
   },
   {
     "uikNumber": 565,
     "uikTvd": "4144029309720",
     "tikTvd": "21420001074313",
-    "tikName": "Усть-Алданская"
+    "tikName": "Усть-Алданская",
+    "uikName": "УИК №565",
+    "regionCode": "14",
+    "regionTvd": "100100225883431",
+    "regionName": "Республика Саха (Якутия)",
+    "oikTvd": "100100225883432",
+    "oikName": "Республика Саха (Якутия) – Якутский",
+    "district": {
+      "districtNumber": 24,
+      "oikTvd": "100100225883432"
+    }
   },
   {
     "uikNumber": 566,
     "uikTvd": "4144029309721",
     "tikTvd": "21420001074313",
-    "tikName": "Усть-Алданская"
+    "tikName": "Усть-Алданская",
+    "uikName": "УИК №566",
+    "regionCode": "14",
+    "regionTvd": "100100225883431",
+    "regionName": "Республика Саха (Якутия)",
+    "oikTvd": "100100225883432",
+    "oikName": "Республика Саха (Якутия) – Якутский",
+    "district": {
+      "districtNumber": 24,
+      "oikTvd": "100100225883432"
+    }
   },
   {
     "uikNumber": 567,
     "uikTvd": "4144029309722",
     "tikTvd": "21420001074313",
-    "tikName": "Усть-Алданская"
+    "tikName": "Усть-Алданская",
+    "uikName": "УИК №567",
+    "regionCode": "14",
+    "regionTvd": "100100225883431",
+    "regionName": "Республика Саха (Якутия)",
+    "oikTvd": "100100225883432",
+    "oikName": "Республика Саха (Якутия) – Якутский",
+    "district": {
+      "districtNumber": 24,
+      "oikTvd": "100100225883432"
+    }
   },
   {
     "uikNumber": 568,
     "uikTvd": "4144029309723",
     "tikTvd": "21420001074313",
-    "tikName": "Усть-Алданская"
+    "tikName": "Усть-Алданская",
+    "uikName": "УИК №568",
+    "regionCode": "14",
+    "regionTvd": "100100225883431",
+    "regionName": "Республика Саха (Якутия)",
+    "oikTvd": "100100225883432",
+    "oikName": "Республика Саха (Якутия) – Якутский",
+    "district": {
+      "districtNumber": 24,
+      "oikTvd": "100100225883432"
+    }
   },
   {
     "uikNumber": 569,
     "uikTvd": "4144029309724",
     "tikTvd": "21420001074313",
-    "tikName": "Усть-Алданская"
+    "tikName": "Усть-Алданская",
+    "uikName": "УИК №569",
+    "regionCode": "14",
+    "regionTvd": "100100225883431",
+    "regionName": "Республика Саха (Якутия)",
+    "oikTvd": "100100225883432",
+    "oikName": "Республика Саха (Якутия) – Якутский",
+    "district": {
+      "districtNumber": 24,
+      "oikTvd": "100100225883432"
+    }
   },
   {
     "uikNumber": 570,
     "uikTvd": "4144029309725",
     "tikTvd": "21420001074313",
-    "tikName": "Усть-Алданская"
+    "tikName": "Усть-Алданская",
+    "uikName": "УИК №570",
+    "regionCode": "14",
+    "regionTvd": "100100225883431",
+    "regionName": "Республика Саха (Якутия)",
+    "oikTvd": "100100225883432",
+    "oikName": "Республика Саха (Якутия) – Якутский",
+    "district": {
+      "districtNumber": 24,
+      "oikTvd": "100100225883432"
+    }
   },
   {
     "uikNumber": 571,
     "uikTvd": "4144029309726",
     "tikTvd": "21420001074313",
-    "tikName": "Усть-Алданская"
+    "tikName": "Усть-Алданская",
+    "uikName": "УИК №571",
+    "regionCode": "14",
+    "regionTvd": "100100225883431",
+    "regionName": "Республика Саха (Якутия)",
+    "oikTvd": "100100225883432",
+    "oikName": "Республика Саха (Якутия) – Якутский",
+    "district": {
+      "districtNumber": 24,
+      "oikTvd": "100100225883432"
+    }
   },
   {
     "uikNumber": 572,
     "uikTvd": "4144029309727",
     "tikTvd": "21420001074313",
-    "tikName": "Усть-Алданская"
+    "tikName": "Усть-Алданская",
+    "uikName": "УИК №572",
+    "regionCode": "14",
+    "regionTvd": "100100225883431",
+    "regionName": "Республика Саха (Якутия)",
+    "oikTvd": "100100225883432",
+    "oikName": "Республика Саха (Якутия) – Якутский",
+    "district": {
+      "districtNumber": 24,
+      "oikTvd": "100100225883432"
+    }
   },
   {
     "uikNumber": 573,
     "uikTvd": "4144029309728",
     "tikTvd": "21420001074313",
-    "tikName": "Усть-Алданская"
+    "tikName": "Усть-Алданская",
+    "uikName": "УИК №573",
+    "regionCode": "14",
+    "regionTvd": "100100225883431",
+    "regionName": "Республика Саха (Якутия)",
+    "oikTvd": "100100225883432",
+    "oikName": "Республика Саха (Якутия) – Якутский",
+    "district": {
+      "districtNumber": 24,
+      "oikTvd": "100100225883432"
+    }
   },
   {
     "uikNumber": 574,
     "uikTvd": "4144029309729",
     "tikTvd": "21420001074313",
-    "tikName": "Усть-Алданская"
+    "tikName": "Усть-Алданская",
+    "uikName": "УИК №574",
+    "regionCode": "14",
+    "regionTvd": "100100225883431",
+    "regionName": "Республика Саха (Якутия)",
+    "oikTvd": "100100225883432",
+    "oikName": "Республика Саха (Якутия) – Якутский",
+    "district": {
+      "districtNumber": 24,
+      "oikTvd": "100100225883432"
+    }
   },
   {
     "uikNumber": 575,
     "uikTvd": "4144029309730",
     "tikTvd": "21420001074313",
-    "tikName": "Усть-Алданская"
+    "tikName": "Усть-Алданская",
+    "uikName": "УИК №575",
+    "regionCode": "14",
+    "regionTvd": "100100225883431",
+    "regionName": "Республика Саха (Якутия)",
+    "oikTvd": "100100225883432",
+    "oikName": "Республика Саха (Якутия) – Якутский",
+    "district": {
+      "districtNumber": 24,
+      "oikTvd": "100100225883432"
+    }
   },
   {
     "uikNumber": 576,
     "uikTvd": "4144029309731",
     "tikTvd": "21420001074313",
-    "tikName": "Усть-Алданская"
+    "tikName": "Усть-Алданская",
+    "uikName": "УИК №576",
+    "regionCode": "14",
+    "regionTvd": "100100225883431",
+    "regionName": "Республика Саха (Якутия)",
+    "oikTvd": "100100225883432",
+    "oikName": "Республика Саха (Якутия) – Якутский",
+    "district": {
+      "districtNumber": 24,
+      "oikTvd": "100100225883432"
+    }
   },
   {
     "uikNumber": 577,
     "uikTvd": "4144029309732",
     "tikTvd": "21420001074313",
-    "tikName": "Усть-Алданская"
+    "tikName": "Усть-Алданская",
+    "uikName": "УИК №577",
+    "regionCode": "14",
+    "regionTvd": "100100225883431",
+    "regionName": "Республика Саха (Якутия)",
+    "oikTvd": "100100225883432",
+    "oikName": "Республика Саха (Якутия) – Якутский",
+    "district": {
+      "districtNumber": 24,
+      "oikTvd": "100100225883432"
+    }
   },
   {
     "uikNumber": 578,
     "uikTvd": "4144029309733",
     "tikTvd": "21420001074313",
-    "tikName": "Усть-Алданская"
+    "tikName": "Усть-Алданская",
+    "uikName": "УИК №578",
+    "regionCode": "14",
+    "regionTvd": "100100225883431",
+    "regionName": "Республика Саха (Якутия)",
+    "oikTvd": "100100225883432",
+    "oikName": "Республика Саха (Якутия) – Якутский",
+    "district": {
+      "districtNumber": 24,
+      "oikTvd": "100100225883432"
+    }
   },
   {
     "uikNumber": 579,
     "uikTvd": "4144029309734",
     "tikTvd": "21420001074313",
-    "tikName": "Усть-Алданская"
+    "tikName": "Усть-Алданская",
+    "uikName": "УИК №579",
+    "regionCode": "14",
+    "regionTvd": "100100225883431",
+    "regionName": "Республика Саха (Якутия)",
+    "oikTvd": "100100225883432",
+    "oikName": "Республика Саха (Якутия) – Якутский",
+    "district": {
+      "districtNumber": 24,
+      "oikTvd": "100100225883432"
+    }
   },
   {
     "uikNumber": 580,
     "uikTvd": "4144029309735",
     "tikTvd": "21420001074313",
-    "tikName": "Усть-Алданская"
+    "tikName": "Усть-Алданская",
+    "uikName": "УИК №580",
+    "regionCode": "14",
+    "regionTvd": "100100225883431",
+    "regionName": "Республика Саха (Якутия)",
+    "oikTvd": "100100225883432",
+    "oikName": "Республика Саха (Якутия) – Якутский",
+    "district": {
+      "districtNumber": 24,
+      "oikTvd": "100100225883432"
+    }
   },
   {
     "uikNumber": 581,
     "uikTvd": "4144029309736",
     "tikTvd": "21420001074313",
-    "tikName": "Усть-Алданская"
+    "tikName": "Усть-Алданская",
+    "uikName": "УИК №581",
+    "regionCode": "14",
+    "regionTvd": "100100225883431",
+    "regionName": "Республика Саха (Якутия)",
+    "oikTvd": "100100225883432",
+    "oikName": "Республика Саха (Якутия) – Якутский",
+    "district": {
+      "districtNumber": 24,
+      "oikTvd": "100100225883432"
+    }
   },
   {
     "uikNumber": 582,
     "uikTvd": "4144029309737",
     "tikTvd": "21420001074313",
-    "tikName": "Усть-Алданская"
+    "tikName": "Усть-Алданская",
+    "uikName": "УИК №582",
+    "regionCode": "14",
+    "regionTvd": "100100225883431",
+    "regionName": "Республика Саха (Якутия)",
+    "oikTvd": "100100225883432",
+    "oikName": "Республика Саха (Якутия) – Якутский",
+    "district": {
+      "districtNumber": 24,
+      "oikTvd": "100100225883432"
+    }
   },
   {
     "uikNumber": 583,
     "uikTvd": "4144029309738",
     "tikTvd": "21420001074313",
-    "tikName": "Усть-Алданская"
+    "tikName": "Усть-Алданская",
+    "uikName": "УИК №583",
+    "regionCode": "14",
+    "regionTvd": "100100225883431",
+    "regionName": "Республика Саха (Якутия)",
+    "oikTvd": "100100225883432",
+    "oikName": "Республика Саха (Якутия) – Якутский",
+    "district": {
+      "districtNumber": 24,
+      "oikTvd": "100100225883432"
+    }
   },
   {
     "uikNumber": 584,
     "uikTvd": "4144029309739",
     "tikTvd": "21420001074313",
-    "tikName": "Усть-Алданская"
+    "tikName": "Усть-Алданская",
+    "uikName": "УИК №584",
+    "regionCode": "14",
+    "regionTvd": "100100225883431",
+    "regionName": "Республика Саха (Якутия)",
+    "oikTvd": "100100225883432",
+    "oikName": "Республика Саха (Якутия) – Якутский",
+    "district": {
+      "districtNumber": 24,
+      "oikTvd": "100100225883432"
+    }
   },
   {
     "uikNumber": 585,
     "uikTvd": "4144029309740",
     "tikTvd": "21420001074313",
-    "tikName": "Усть-Алданская"
+    "tikName": "Усть-Алданская",
+    "uikName": "УИК №585",
+    "regionCode": "14",
+    "regionTvd": "100100225883431",
+    "regionName": "Республика Саха (Якутия)",
+    "oikTvd": "100100225883432",
+    "oikName": "Республика Саха (Якутия) – Якутский",
+    "district": {
+      "districtNumber": 24,
+      "oikTvd": "100100225883432"
+    }
   },
   {
     "uikNumber": 586,
     "uikTvd": "4144029309741",
     "tikTvd": "21420001074313",
-    "tikName": "Усть-Алданская"
+    "tikName": "Усть-Алданская",
+    "uikName": "УИК №586",
+    "regionCode": "14",
+    "regionTvd": "100100225883431",
+    "regionName": "Республика Саха (Якутия)",
+    "oikTvd": "100100225883432",
+    "oikName": "Республика Саха (Якутия) – Якутский",
+    "district": {
+      "districtNumber": 24,
+      "oikTvd": "100100225883432"
+    }
   },
   {
     "uikNumber": 587,
     "uikTvd": "4144029309742",
     "tikTvd": "21420001074313",
-    "tikName": "Усть-Алданская"
+    "tikName": "Усть-Алданская",
+    "uikName": "УИК №587",
+    "regionCode": "14",
+    "regionTvd": "100100225883431",
+    "regionName": "Республика Саха (Якутия)",
+    "oikTvd": "100100225883432",
+    "oikName": "Республика Саха (Якутия) – Якутский",
+    "district": {
+      "districtNumber": 24,
+      "oikTvd": "100100225883432"
+    }
   },
   {
     "uikNumber": 588,
     "uikTvd": "4144029309743",
     "tikTvd": "21420001074313",
-    "tikName": "Усть-Алданская"
+    "tikName": "Усть-Алданская",
+    "uikName": "УИК №588",
+    "regionCode": "14",
+    "regionTvd": "100100225883431",
+    "regionName": "Республика Саха (Якутия)",
+    "oikTvd": "100100225883432",
+    "oikName": "Республика Саха (Якутия) – Якутский",
+    "district": {
+      "districtNumber": 24,
+      "oikTvd": "100100225883432"
+    }
   },
   {
     "uikNumber": 589,
     "uikTvd": "4144029309744",
     "tikTvd": "21420001074313",
-    "tikName": "Усть-Алданская"
+    "tikName": "Усть-Алданская",
+    "uikName": "УИК №589",
+    "regionCode": "14",
+    "regionTvd": "100100225883431",
+    "regionName": "Республика Саха (Якутия)",
+    "oikTvd": "100100225883432",
+    "oikName": "Республика Саха (Якутия) – Якутский",
+    "district": {
+      "districtNumber": 24,
+      "oikTvd": "100100225883432"
+    }
   },
   {
     "uikNumber": 590,
     "uikTvd": "4144029309745",
     "tikTvd": "21420001074313",
-    "tikName": "Усть-Алданская"
+    "tikName": "Усть-Алданская",
+    "uikName": "УИК №590",
+    "regionCode": "14",
+    "regionTvd": "100100225883431",
+    "regionName": "Республика Саха (Якутия)",
+    "oikTvd": "100100225883432",
+    "oikName": "Республика Саха (Якутия) – Якутский",
+    "district": {
+      "districtNumber": 24,
+      "oikTvd": "100100225883432"
+    }
   },
   {
     "uikNumber": 591,
     "uikTvd": "4144029309746",
     "tikTvd": "21420001074313",
-    "tikName": "Усть-Алданская"
+    "tikName": "Усть-Алданская",
+    "uikName": "УИК №591",
+    "regionCode": "14",
+    "regionTvd": "100100225883431",
+    "regionName": "Республика Саха (Якутия)",
+    "oikTvd": "100100225883432",
+    "oikName": "Республика Саха (Якутия) – Якутский",
+    "district": {
+      "districtNumber": 24,
+      "oikTvd": "100100225883432"
+    }
   },
   {
     "uikNumber": 592,
     "uikTvd": "4144029309747",
     "tikTvd": "21420001074313",
-    "tikName": "Усть-Алданская"
+    "tikName": "Усть-Алданская",
+    "uikName": "УИК №592",
+    "regionCode": "14",
+    "regionTvd": "100100225883431",
+    "regionName": "Республика Саха (Якутия)",
+    "oikTvd": "100100225883432",
+    "oikName": "Республика Саха (Якутия) – Якутский",
+    "district": {
+      "districtNumber": 24,
+      "oikTvd": "100100225883432"
+    }
   },
   {
     "uikNumber": 593,
     "uikTvd": "4144029309748",
     "tikTvd": "21420001074313",
-    "tikName": "Усть-Алданская"
+    "tikName": "Усть-Алданская",
+    "uikName": "УИК №593",
+    "regionCode": "14",
+    "regionTvd": "100100225883431",
+    "regionName": "Республика Саха (Якутия)",
+    "oikTvd": "100100225883432",
+    "oikName": "Республика Саха (Якутия) – Якутский",
+    "district": {
+      "districtNumber": 24,
+      "oikTvd": "100100225883432"
+    }
   },
   {
     "uikNumber": 594,
     "uikTvd": "4144029309749",
     "tikTvd": "21420001074313",
-    "tikName": "Усть-Алданская"
+    "tikName": "Усть-Алданская",
+    "uikName": "УИК №594",
+    "regionCode": "14",
+    "regionTvd": "100100225883431",
+    "regionName": "Республика Саха (Якутия)",
+    "oikTvd": "100100225883432",
+    "oikName": "Республика Саха (Якутия) – Якутский",
+    "district": {
+      "districtNumber": 24,
+      "oikTvd": "100100225883432"
+    }
   },
   {
     "uikNumber": 595,
     "uikTvd": "4144029309750",
     "tikTvd": "21420001074313",
-    "tikName": "Усть-Алданская"
+    "tikName": "Усть-Алданская",
+    "uikName": "УИК №595",
+    "regionCode": "14",
+    "regionTvd": "100100225883431",
+    "regionName": "Республика Саха (Якутия)",
+    "oikTvd": "100100225883432",
+    "oikName": "Республика Саха (Якутия) – Якутский",
+    "district": {
+      "districtNumber": 24,
+      "oikTvd": "100100225883432"
+    }
   },
   {
     "uikNumber": 596,
     "uikTvd": "4144029309751",
     "tikTvd": "21420001074313",
-    "tikName": "Усть-Алданская"
+    "tikName": "Усть-Алданская",
+    "uikName": "УИК №596",
+    "regionCode": "14",
+    "regionTvd": "100100225883431",
+    "regionName": "Республика Саха (Якутия)",
+    "oikTvd": "100100225883432",
+    "oikName": "Республика Саха (Якутия) – Якутский",
+    "district": {
+      "districtNumber": 24,
+      "oikTvd": "100100225883432"
+    }
   },
   {
     "uikNumber": 597,
     "uikTvd": "4144029309752",
     "tikTvd": "21420001074313",
-    "tikName": "Усть-Алданская"
+    "tikName": "Усть-Алданская",
+    "uikName": "УИК №597",
+    "regionCode": "14",
+    "regionTvd": "100100225883431",
+    "regionName": "Республика Саха (Якутия)",
+    "oikTvd": "100100225883432",
+    "oikName": "Республика Саха (Якутия) – Якутский",
+    "district": {
+      "districtNumber": 24,
+      "oikTvd": "100100225883432"
+    }
   },
   {
     "uikNumber": 598,
     "uikTvd": "4144029309753",
     "tikTvd": "21420001074313",
-    "tikName": "Усть-Алданская"
+    "tikName": "Усть-Алданская",
+    "uikName": "УИК №598",
+    "regionCode": "14",
+    "regionTvd": "100100225883431",
+    "regionName": "Республика Саха (Якутия)",
+    "oikTvd": "100100225883432",
+    "oikName": "Республика Саха (Якутия) – Якутский",
+    "district": {
+      "districtNumber": 24,
+      "oikTvd": "100100225883432"
+    }
   },
   {
     "uikNumber": 599,
     "uikTvd": "4144029309754",
     "tikTvd": "21420001074313",
-    "tikName": "Усть-Алданская"
+    "tikName": "Усть-Алданская",
+    "uikName": "УИК №599",
+    "regionCode": "14",
+    "regionTvd": "100100225883431",
+    "regionName": "Республика Саха (Якутия)",
+    "oikTvd": "100100225883432",
+    "oikName": "Республика Саха (Якутия) – Якутский",
+    "district": {
+      "districtNumber": 24,
+      "oikTvd": "100100225883432"
+    }
   },
   {
     "uikNumber": 600,
     "uikTvd": "4144030249864",
     "tikTvd": "21420001074328",
-    "tikName": "Усть-Майская"
+    "tikName": "Усть-Майская",
+    "uikName": "УИК №600",
+    "regionCode": "14",
+    "regionTvd": "100100225883431",
+    "regionName": "Республика Саха (Якутия)",
+    "oikTvd": "100100225883432",
+    "oikName": "Республика Саха (Якутия) – Якутский",
+    "district": {
+      "districtNumber": 24,
+      "oikTvd": "100100225883432"
+    }
   },
   {
     "uikNumber": 601,
     "uikTvd": "4144030249865",
     "tikTvd": "21420001074328",
-    "tikName": "Усть-Майская"
+    "tikName": "Усть-Майская",
+    "uikName": "УИК №601",
+    "regionCode": "14",
+    "regionTvd": "100100225883431",
+    "regionName": "Республика Саха (Якутия)",
+    "oikTvd": "100100225883432",
+    "oikName": "Республика Саха (Якутия) – Якутский",
+    "district": {
+      "districtNumber": 24,
+      "oikTvd": "100100225883432"
+    }
   },
   {
     "uikNumber": 602,
     "uikTvd": "4144030249866",
     "tikTvd": "21420001074328",
-    "tikName": "Усть-Майская"
+    "tikName": "Усть-Майская",
+    "uikName": "УИК №602",
+    "regionCode": "14",
+    "regionTvd": "100100225883431",
+    "regionName": "Республика Саха (Якутия)",
+    "oikTvd": "100100225883432",
+    "oikName": "Республика Саха (Якутия) – Якутский",
+    "district": {
+      "districtNumber": 24,
+      "oikTvd": "100100225883432"
+    }
   },
   {
     "uikNumber": 603,
     "uikTvd": "4144030249867",
     "tikTvd": "21420001074328",
-    "tikName": "Усть-Майская"
+    "tikName": "Усть-Майская",
+    "uikName": "УИК №603",
+    "regionCode": "14",
+    "regionTvd": "100100225883431",
+    "regionName": "Республика Саха (Якутия)",
+    "oikTvd": "100100225883432",
+    "oikName": "Республика Саха (Якутия) – Якутский",
+    "district": {
+      "districtNumber": 24,
+      "oikTvd": "100100225883432"
+    }
   },
   {
     "uikNumber": 604,
     "uikTvd": "4144030249868",
     "tikTvd": "21420001074328",
-    "tikName": "Усть-Майская"
+    "tikName": "Усть-Майская",
+    "uikName": "УИК №604",
+    "regionCode": "14",
+    "regionTvd": "100100225883431",
+    "regionName": "Республика Саха (Якутия)",
+    "oikTvd": "100100225883432",
+    "oikName": "Республика Саха (Якутия) – Якутский",
+    "district": {
+      "districtNumber": 24,
+      "oikTvd": "100100225883432"
+    }
   },
   {
     "uikNumber": 605,
     "uikTvd": "4144030249869",
     "tikTvd": "21420001074328",
-    "tikName": "Усть-Майская"
+    "tikName": "Усть-Майская",
+    "uikName": "УИК №605",
+    "regionCode": "14",
+    "regionTvd": "100100225883431",
+    "regionName": "Республика Саха (Якутия)",
+    "oikTvd": "100100225883432",
+    "oikName": "Республика Саха (Якутия) – Якутский",
+    "district": {
+      "districtNumber": 24,
+      "oikTvd": "100100225883432"
+    }
   },
   {
     "uikNumber": 606,
     "uikTvd": "4144030249870",
     "tikTvd": "21420001074328",
-    "tikName": "Усть-Майская"
+    "tikName": "Усть-Майская",
+    "uikName": "УИК №606",
+    "regionCode": "14",
+    "regionTvd": "100100225883431",
+    "regionName": "Республика Саха (Якутия)",
+    "oikTvd": "100100225883432",
+    "oikName": "Республика Саха (Якутия) – Якутский",
+    "district": {
+      "districtNumber": 24,
+      "oikTvd": "100100225883432"
+    }
   },
   {
     "uikNumber": 607,
     "uikTvd": "4144030249871",
     "tikTvd": "21420001074328",
-    "tikName": "Усть-Майская"
+    "tikName": "Усть-Майская",
+    "uikName": "УИК №607",
+    "regionCode": "14",
+    "regionTvd": "100100225883431",
+    "regionName": "Республика Саха (Якутия)",
+    "oikTvd": "100100225883432",
+    "oikName": "Республика Саха (Якутия) – Якутский",
+    "district": {
+      "districtNumber": 24,
+      "oikTvd": "100100225883432"
+    }
   },
   {
     "uikNumber": 608,
     "uikTvd": "4144030249872",
     "tikTvd": "21420001074328",
-    "tikName": "Усть-Майская"
+    "tikName": "Усть-Майская",
+    "uikName": "УИК №608",
+    "regionCode": "14",
+    "regionTvd": "100100225883431",
+    "regionName": "Республика Саха (Якутия)",
+    "oikTvd": "100100225883432",
+    "oikName": "Республика Саха (Якутия) – Якутский",
+    "district": {
+      "districtNumber": 24,
+      "oikTvd": "100100225883432"
+    }
   },
   {
     "uikNumber": 609,
     "uikTvd": "4144030249873",
     "tikTvd": "21420001074328",
-    "tikName": "Усть-Майская"
+    "tikName": "Усть-Майская",
+    "uikName": "УИК №609",
+    "regionCode": "14",
+    "regionTvd": "100100225883431",
+    "regionName": "Республика Саха (Якутия)",
+    "oikTvd": "100100225883432",
+    "oikName": "Республика Саха (Якутия) – Якутский",
+    "district": {
+      "districtNumber": 24,
+      "oikTvd": "100100225883432"
+    }
   },
   {
     "uikNumber": 610,
     "uikTvd": "4144030249874",
     "tikTvd": "21420001074328",
-    "tikName": "Усть-Майская"
+    "tikName": "Усть-Майская",
+    "uikName": "УИК №610",
+    "regionCode": "14",
+    "regionTvd": "100100225883431",
+    "regionName": "Республика Саха (Якутия)",
+    "oikTvd": "100100225883432",
+    "oikName": "Республика Саха (Якутия) – Якутский",
+    "district": {
+      "districtNumber": 24,
+      "oikTvd": "100100225883432"
+    }
   },
   {
     "uikNumber": 611,
     "uikTvd": "4144030249875",
     "tikTvd": "21420001074328",
-    "tikName": "Усть-Майская"
+    "tikName": "Усть-Майская",
+    "uikName": "УИК №611",
+    "regionCode": "14",
+    "regionTvd": "100100225883431",
+    "regionName": "Республика Саха (Якутия)",
+    "oikTvd": "100100225883432",
+    "oikName": "Республика Саха (Якутия) – Якутский",
+    "district": {
+      "districtNumber": 24,
+      "oikTvd": "100100225883432"
+    }
   },
   {
     "uikNumber": 612,
     "uikTvd": "4144030249876",
     "tikTvd": "21420001074328",
-    "tikName": "Усть-Майская"
+    "tikName": "Усть-Майская",
+    "uikName": "УИК №612",
+    "regionCode": "14",
+    "regionTvd": "100100225883431",
+    "regionName": "Республика Саха (Якутия)",
+    "oikTvd": "100100225883432",
+    "oikName": "Республика Саха (Якутия) – Якутский",
+    "district": {
+      "districtNumber": 24,
+      "oikTvd": "100100225883432"
+    }
   },
   {
     "uikNumber": 613,
     "uikTvd": "4144030249877",
     "tikTvd": "21420001074328",
-    "tikName": "Усть-Майская"
+    "tikName": "Усть-Майская",
+    "uikName": "УИК №613",
+    "regionCode": "14",
+    "regionTvd": "100100225883431",
+    "regionName": "Республика Саха (Якутия)",
+    "oikTvd": "100100225883432",
+    "oikName": "Республика Саха (Якутия) – Якутский",
+    "district": {
+      "districtNumber": 24,
+      "oikTvd": "100100225883432"
+    }
   },
   {
     "uikNumber": 614,
     "uikTvd": "4144030249878",
     "tikTvd": "21420001074328",
-    "tikName": "Усть-Майская"
+    "tikName": "Усть-Майская",
+    "uikName": "УИК №614",
+    "regionCode": "14",
+    "regionTvd": "100100225883431",
+    "regionName": "Республика Саха (Якутия)",
+    "oikTvd": "100100225883432",
+    "oikName": "Республика Саха (Якутия) – Якутский",
+    "district": {
+      "districtNumber": 24,
+      "oikTvd": "100100225883432"
+    }
   },
   {
     "uikNumber": 615,
     "uikTvd": "4144031176387",
     "tikTvd": "21420001074297",
-    "tikName": "Усть-Янская"
+    "tikName": "Усть-Янская",
+    "uikName": "УИК №615",
+    "regionCode": "14",
+    "regionTvd": "100100225883431",
+    "regionName": "Республика Саха (Якутия)",
+    "oikTvd": "100100225883432",
+    "oikName": "Республика Саха (Якутия) – Якутский",
+    "district": {
+      "districtNumber": 24,
+      "oikTvd": "100100225883432"
+    }
   },
   {
     "uikNumber": 616,
     "uikTvd": "4144031176388",
     "tikTvd": "21420001074297",
-    "tikName": "Усть-Янская"
+    "tikName": "Усть-Янская",
+    "uikName": "УИК №616",
+    "regionCode": "14",
+    "regionTvd": "100100225883431",
+    "regionName": "Республика Саха (Якутия)",
+    "oikTvd": "100100225883432",
+    "oikName": "Республика Саха (Якутия) – Якутский",
+    "district": {
+      "districtNumber": 24,
+      "oikTvd": "100100225883432"
+    }
   },
   {
     "uikNumber": 617,
     "uikTvd": "4144031176389",
     "tikTvd": "21420001074297",
-    "tikName": "Усть-Янская"
+    "tikName": "Усть-Янская",
+    "uikName": "УИК №617",
+    "regionCode": "14",
+    "regionTvd": "100100225883431",
+    "regionName": "Республика Саха (Якутия)",
+    "oikTvd": "100100225883432",
+    "oikName": "Республика Саха (Якутия) – Якутский",
+    "district": {
+      "districtNumber": 24,
+      "oikTvd": "100100225883432"
+    }
   },
   {
     "uikNumber": 618,
     "uikTvd": "4144031176390",
     "tikTvd": "21420001074297",
-    "tikName": "Усть-Янская"
+    "tikName": "Усть-Янская",
+    "uikName": "УИК №618",
+    "regionCode": "14",
+    "regionTvd": "100100225883431",
+    "regionName": "Республика Саха (Якутия)",
+    "oikTvd": "100100225883432",
+    "oikName": "Республика Саха (Якутия) – Якутский",
+    "district": {
+      "districtNumber": 24,
+      "oikTvd": "100100225883432"
+    }
   },
   {
     "uikNumber": 619,
     "uikTvd": "4144031176391",
     "tikTvd": "21420001074297",
-    "tikName": "Усть-Янская"
+    "tikName": "Усть-Янская",
+    "uikName": "УИК №619",
+    "regionCode": "14",
+    "regionTvd": "100100225883431",
+    "regionName": "Республика Саха (Якутия)",
+    "oikTvd": "100100225883432",
+    "oikName": "Республика Саха (Якутия) – Якутский",
+    "district": {
+      "districtNumber": 24,
+      "oikTvd": "100100225883432"
+    }
   },
   {
     "uikNumber": 620,
     "uikTvd": "4144031176392",
     "tikTvd": "21420001074297",
-    "tikName": "Усть-Янская"
+    "tikName": "Усть-Янская",
+    "uikName": "УИК №620",
+    "regionCode": "14",
+    "regionTvd": "100100225883431",
+    "regionName": "Республика Саха (Якутия)",
+    "oikTvd": "100100225883432",
+    "oikName": "Республика Саха (Якутия) – Якутский",
+    "district": {
+      "districtNumber": 24,
+      "oikTvd": "100100225883432"
+    }
   },
   {
     "uikNumber": 621,
     "uikTvd": "4144031176393",
     "tikTvd": "21420001074297",
-    "tikName": "Усть-Янская"
+    "tikName": "Усть-Янская",
+    "uikName": "УИК №621",
+    "regionCode": "14",
+    "regionTvd": "100100225883431",
+    "regionName": "Республика Саха (Якутия)",
+    "oikTvd": "100100225883432",
+    "oikName": "Республика Саха (Якутия) – Якутский",
+    "district": {
+      "districtNumber": 24,
+      "oikTvd": "100100225883432"
+    }
   },
   {
     "uikNumber": 622,
     "uikTvd": "4144031176394",
     "tikTvd": "21420001074297",
-    "tikName": "Усть-Янская"
+    "tikName": "Усть-Янская",
+    "uikName": "УИК №622",
+    "regionCode": "14",
+    "regionTvd": "100100225883431",
+    "regionName": "Республика Саха (Якутия)",
+    "oikTvd": "100100225883432",
+    "oikName": "Республика Саха (Якутия) – Якутский",
+    "district": {
+      "districtNumber": 24,
+      "oikTvd": "100100225883432"
+    }
   },
   {
     "uikNumber": 623,
     "uikTvd": "4144031176395",
     "tikTvd": "21420001074297",
-    "tikName": "Усть-Янская"
+    "tikName": "Усть-Янская",
+    "uikName": "УИК №623",
+    "regionCode": "14",
+    "regionTvd": "100100225883431",
+    "regionName": "Республика Саха (Якутия)",
+    "oikTvd": "100100225883432",
+    "oikName": "Республика Саха (Якутия) – Якутский",
+    "district": {
+      "districtNumber": 24,
+      "oikTvd": "100100225883432"
+    }
   },
   {
     "uikNumber": 624,
     "uikTvd": "4144031176396",
     "tikTvd": "21420001074297",
-    "tikName": "Усть-Янская"
+    "tikName": "Усть-Янская",
+    "uikName": "УИК №624",
+    "regionCode": "14",
+    "regionTvd": "100100225883431",
+    "regionName": "Республика Саха (Якутия)",
+    "oikTvd": "100100225883432",
+    "oikName": "Республика Саха (Якутия) – Якутский",
+    "district": {
+      "districtNumber": 24,
+      "oikTvd": "100100225883432"
+    }
   },
   {
     "uikNumber": 625,
     "uikTvd": "4144031176397",
     "tikTvd": "21420001074297",
-    "tikName": "Усть-Янская"
+    "tikName": "Усть-Янская",
+    "uikName": "УИК №625",
+    "regionCode": "14",
+    "regionTvd": "100100225883431",
+    "regionName": "Республика Саха (Якутия)",
+    "oikTvd": "100100225883432",
+    "oikName": "Республика Саха (Якутия) – Якутский",
+    "district": {
+      "districtNumber": 24,
+      "oikTvd": "100100225883432"
+    }
   },
   {
     "uikNumber": 626,
     "uikTvd": "4144031176398",
     "tikTvd": "21420001074297",
-    "tikName": "Усть-Янская"
+    "tikName": "Усть-Янская",
+    "uikName": "УИК №626",
+    "regionCode": "14",
+    "regionTvd": "100100225883431",
+    "regionName": "Республика Саха (Якутия)",
+    "oikTvd": "100100225883432",
+    "oikName": "Республика Саха (Якутия) – Якутский",
+    "district": {
+      "districtNumber": 24,
+      "oikTvd": "100100225883432"
+    }
   },
   {
     "uikNumber": 627,
     "uikTvd": "4144032379124",
     "tikTvd": "21420001074302",
-    "tikName": "Хангаласская"
+    "tikName": "Хангаласская",
+    "uikName": "УИК №627",
+    "regionCode": "14",
+    "regionTvd": "100100225883431",
+    "regionName": "Республика Саха (Якутия)",
+    "oikTvd": "100100225883432",
+    "oikName": "Республика Саха (Якутия) – Якутский",
+    "district": {
+      "districtNumber": 24,
+      "oikTvd": "100100225883432"
+    }
   },
   {
     "uikNumber": 628,
     "uikTvd": "4144032379125",
     "tikTvd": "21420001074302",
-    "tikName": "Хангаласская"
+    "tikName": "Хангаласская",
+    "uikName": "УИК №628",
+    "regionCode": "14",
+    "regionTvd": "100100225883431",
+    "regionName": "Республика Саха (Якутия)",
+    "oikTvd": "100100225883432",
+    "oikName": "Республика Саха (Якутия) – Якутский",
+    "district": {
+      "districtNumber": 24,
+      "oikTvd": "100100225883432"
+    }
   },
   {
     "uikNumber": 629,
     "uikTvd": "4144032379126",
     "tikTvd": "21420001074302",
-    "tikName": "Хангаласская"
+    "tikName": "Хангаласская",
+    "uikName": "УИК №629",
+    "regionCode": "14",
+    "regionTvd": "100100225883431",
+    "regionName": "Республика Саха (Якутия)",
+    "oikTvd": "100100225883432",
+    "oikName": "Республика Саха (Якутия) – Якутский",
+    "district": {
+      "districtNumber": 24,
+      "oikTvd": "100100225883432"
+    }
   },
   {
     "uikNumber": 630,
     "uikTvd": "4144032379127",
     "tikTvd": "21420001074302",
-    "tikName": "Хангаласская"
+    "tikName": "Хангаласская",
+    "uikName": "УИК №630",
+    "regionCode": "14",
+    "regionTvd": "100100225883431",
+    "regionName": "Республика Саха (Якутия)",
+    "oikTvd": "100100225883432",
+    "oikName": "Республика Саха (Якутия) – Якутский",
+    "district": {
+      "districtNumber": 24,
+      "oikTvd": "100100225883432"
+    }
   },
   {
     "uikNumber": 631,
     "uikTvd": "4144032379128",
     "tikTvd": "21420001074302",
-    "tikName": "Хангаласская"
+    "tikName": "Хангаласская",
+    "uikName": "УИК №631",
+    "regionCode": "14",
+    "regionTvd": "100100225883431",
+    "regionName": "Республика Саха (Якутия)",
+    "oikTvd": "100100225883432",
+    "oikName": "Республика Саха (Якутия) – Якутский",
+    "district": {
+      "districtNumber": 24,
+      "oikTvd": "100100225883432"
+    }
   },
   {
     "uikNumber": 632,
     "uikTvd": "4144032379129",
     "tikTvd": "21420001074302",
-    "tikName": "Хангаласская"
+    "tikName": "Хангаласская",
+    "uikName": "УИК №632",
+    "regionCode": "14",
+    "regionTvd": "100100225883431",
+    "regionName": "Республика Саха (Якутия)",
+    "oikTvd": "100100225883432",
+    "oikName": "Республика Саха (Якутия) – Якутский",
+    "district": {
+      "districtNumber": 24,
+      "oikTvd": "100100225883432"
+    }
   },
   {
     "uikNumber": 633,
     "uikTvd": "4144032379130",
     "tikTvd": "21420001074302",
-    "tikName": "Хангаласская"
+    "tikName": "Хангаласская",
+    "uikName": "УИК №633",
+    "regionCode": "14",
+    "regionTvd": "100100225883431",
+    "regionName": "Республика Саха (Якутия)",
+    "oikTvd": "100100225883432",
+    "oikName": "Республика Саха (Якутия) – Якутский",
+    "district": {
+      "districtNumber": 24,
+      "oikTvd": "100100225883432"
+    }
   },
   {
     "uikNumber": 634,
     "uikTvd": "4144032379131",
     "tikTvd": "21420001074302",
-    "tikName": "Хангаласская"
+    "tikName": "Хангаласская",
+    "uikName": "УИК №634",
+    "regionCode": "14",
+    "regionTvd": "100100225883431",
+    "regionName": "Республика Саха (Якутия)",
+    "oikTvd": "100100225883432",
+    "oikName": "Республика Саха (Якутия) – Якутский",
+    "district": {
+      "districtNumber": 24,
+      "oikTvd": "100100225883432"
+    }
   },
   {
     "uikNumber": 635,
     "uikTvd": "4144032379132",
     "tikTvd": "21420001074302",
-    "tikName": "Хангаласская"
+    "tikName": "Хангаласская",
+    "uikName": "УИК №635",
+    "regionCode": "14",
+    "regionTvd": "100100225883431",
+    "regionName": "Республика Саха (Якутия)",
+    "oikTvd": "100100225883432",
+    "oikName": "Республика Саха (Якутия) – Якутский",
+    "district": {
+      "districtNumber": 24,
+      "oikTvd": "100100225883432"
+    }
   },
   {
     "uikNumber": 636,
     "uikTvd": "4144032379133",
     "tikTvd": "21420001074302",
-    "tikName": "Хангаласская"
+    "tikName": "Хангаласская",
+    "uikName": "УИК №636",
+    "regionCode": "14",
+    "regionTvd": "100100225883431",
+    "regionName": "Республика Саха (Якутия)",
+    "oikTvd": "100100225883432",
+    "oikName": "Республика Саха (Якутия) – Якутский",
+    "district": {
+      "districtNumber": 24,
+      "oikTvd": "100100225883432"
+    }
   },
   {
     "uikNumber": 637,
     "uikTvd": "4144032379134",
     "tikTvd": "21420001074302",
-    "tikName": "Хангаласская"
+    "tikName": "Хангаласская",
+    "uikName": "УИК №637",
+    "regionCode": "14",
+    "regionTvd": "100100225883431",
+    "regionName": "Республика Саха (Якутия)",
+    "oikTvd": "100100225883432",
+    "oikName": "Республика Саха (Якутия) – Якутский",
+    "district": {
+      "districtNumber": 24,
+      "oikTvd": "100100225883432"
+    }
   },
   {
     "uikNumber": 638,
     "uikTvd": "4144032379135",
     "tikTvd": "21420001074302",
-    "tikName": "Хангаласская"
+    "tikName": "Хангаласская",
+    "uikName": "УИК №638",
+    "regionCode": "14",
+    "regionTvd": "100100225883431",
+    "regionName": "Республика Саха (Якутия)",
+    "oikTvd": "100100225883432",
+    "oikName": "Республика Саха (Якутия) – Якутский",
+    "district": {
+      "districtNumber": 24,
+      "oikTvd": "100100225883432"
+    }
   },
   {
     "uikNumber": 639,
     "uikTvd": "4144032379136",
     "tikTvd": "21420001074302",
-    "tikName": "Хангаласская"
+    "tikName": "Хангаласская",
+    "uikName": "УИК №639",
+    "regionCode": "14",
+    "regionTvd": "100100225883431",
+    "regionName": "Республика Саха (Якутия)",
+    "oikTvd": "100100225883432",
+    "oikName": "Республика Саха (Якутия) – Якутский",
+    "district": {
+      "districtNumber": 24,
+      "oikTvd": "100100225883432"
+    }
   },
   {
     "uikNumber": 640,
     "uikTvd": "4144032379137",
     "tikTvd": "21420001074302",
-    "tikName": "Хангаласская"
+    "tikName": "Хангаласская",
+    "uikName": "УИК №640",
+    "regionCode": "14",
+    "regionTvd": "100100225883431",
+    "regionName": "Республика Саха (Якутия)",
+    "oikTvd": "100100225883432",
+    "oikName": "Республика Саха (Якутия) – Якутский",
+    "district": {
+      "districtNumber": 24,
+      "oikTvd": "100100225883432"
+    }
   },
   {
     "uikNumber": 641,
     "uikTvd": "4144032379138",
     "tikTvd": "21420001074302",
-    "tikName": "Хангаласская"
+    "tikName": "Хангаласская",
+    "uikName": "УИК №641",
+    "regionCode": "14",
+    "regionTvd": "100100225883431",
+    "regionName": "Республика Саха (Якутия)",
+    "oikTvd": "100100225883432",
+    "oikName": "Республика Саха (Якутия) – Якутский",
+    "district": {
+      "districtNumber": 24,
+      "oikTvd": "100100225883432"
+    }
   },
   {
     "uikNumber": 642,
     "uikTvd": "4144032379139",
     "tikTvd": "21420001074302",
-    "tikName": "Хангаласская"
+    "tikName": "Хангаласская",
+    "uikName": "УИК №642",
+    "regionCode": "14",
+    "regionTvd": "100100225883431",
+    "regionName": "Республика Саха (Якутия)",
+    "oikTvd": "100100225883432",
+    "oikName": "Республика Саха (Якутия) – Якутский",
+    "district": {
+      "districtNumber": 24,
+      "oikTvd": "100100225883432"
+    }
   },
   {
     "uikNumber": 643,
     "uikTvd": "4144032379140",
     "tikTvd": "21420001074302",
-    "tikName": "Хангаласская"
+    "tikName": "Хангаласская",
+    "uikName": "УИК №643",
+    "regionCode": "14",
+    "regionTvd": "100100225883431",
+    "regionName": "Республика Саха (Якутия)",
+    "oikTvd": "100100225883432",
+    "oikName": "Республика Саха (Якутия) – Якутский",
+    "district": {
+      "districtNumber": 24,
+      "oikTvd": "100100225883432"
+    }
   },
   {
     "uikNumber": 644,
     "uikTvd": "4144032379141",
     "tikTvd": "21420001074302",
-    "tikName": "Хангаласская"
+    "tikName": "Хангаласская",
+    "uikName": "УИК №644",
+    "regionCode": "14",
+    "regionTvd": "100100225883431",
+    "regionName": "Республика Саха (Якутия)",
+    "oikTvd": "100100225883432",
+    "oikName": "Республика Саха (Якутия) – Якутский",
+    "district": {
+      "districtNumber": 24,
+      "oikTvd": "100100225883432"
+    }
   },
   {
     "uikNumber": 645,
     "uikTvd": "4144032379142",
     "tikTvd": "21420001074302",
-    "tikName": "Хангаласская"
+    "tikName": "Хангаласская",
+    "uikName": "УИК №645",
+    "regionCode": "14",
+    "regionTvd": "100100225883431",
+    "regionName": "Республика Саха (Якутия)",
+    "oikTvd": "100100225883432",
+    "oikName": "Республика Саха (Якутия) – Якутский",
+    "district": {
+      "districtNumber": 24,
+      "oikTvd": "100100225883432"
+    }
   },
   {
     "uikNumber": 646,
     "uikTvd": "4144032379143",
     "tikTvd": "21420001074302",
-    "tikName": "Хангаласская"
+    "tikName": "Хангаласская",
+    "uikName": "УИК №646",
+    "regionCode": "14",
+    "regionTvd": "100100225883431",
+    "regionName": "Республика Саха (Якутия)",
+    "oikTvd": "100100225883432",
+    "oikName": "Республика Саха (Якутия) – Якутский",
+    "district": {
+      "districtNumber": 24,
+      "oikTvd": "100100225883432"
+    }
   },
   {
     "uikNumber": 647,
     "uikTvd": "4144032379144",
     "tikTvd": "21420001074302",
-    "tikName": "Хангаласская"
+    "tikName": "Хангаласская",
+    "uikName": "УИК №647",
+    "regionCode": "14",
+    "regionTvd": "100100225883431",
+    "regionName": "Республика Саха (Якутия)",
+    "oikTvd": "100100225883432",
+    "oikName": "Республика Саха (Якутия) – Якутский",
+    "district": {
+      "districtNumber": 24,
+      "oikTvd": "100100225883432"
+    }
   },
   {
     "uikNumber": 648,
     "uikTvd": "4144032379145",
     "tikTvd": "21420001074302",
-    "tikName": "Хангаласская"
+    "tikName": "Хангаласская",
+    "uikName": "УИК №648",
+    "regionCode": "14",
+    "regionTvd": "100100225883431",
+    "regionName": "Республика Саха (Якутия)",
+    "oikTvd": "100100225883432",
+    "oikName": "Республика Саха (Якутия) – Якутский",
+    "district": {
+      "districtNumber": 24,
+      "oikTvd": "100100225883432"
+    }
   },
   {
     "uikNumber": 649,
     "uikTvd": "4144032379146",
     "tikTvd": "21420001074302",
-    "tikName": "Хангаласская"
+    "tikName": "Хангаласская",
+    "uikName": "УИК №649",
+    "regionCode": "14",
+    "regionTvd": "100100225883431",
+    "regionName": "Республика Саха (Якутия)",
+    "oikTvd": "100100225883432",
+    "oikName": "Республика Саха (Якутия) – Якутский",
+    "district": {
+      "districtNumber": 24,
+      "oikTvd": "100100225883432"
+    }
   },
   {
     "uikNumber": 650,
     "uikTvd": "4144032379147",
     "tikTvd": "21420001074302",
-    "tikName": "Хангаласская"
+    "tikName": "Хангаласская",
+    "uikName": "УИК №650",
+    "regionCode": "14",
+    "regionTvd": "100100225883431",
+    "regionName": "Республика Саха (Якутия)",
+    "oikTvd": "100100225883432",
+    "oikName": "Республика Саха (Якутия) – Якутский",
+    "district": {
+      "districtNumber": 24,
+      "oikTvd": "100100225883432"
+    }
   },
   {
     "uikNumber": 651,
     "uikTvd": "4144032379148",
     "tikTvd": "21420001074302",
-    "tikName": "Хангаласская"
+    "tikName": "Хангаласская",
+    "uikName": "УИК №651",
+    "regionCode": "14",
+    "regionTvd": "100100225883431",
+    "regionName": "Республика Саха (Якутия)",
+    "oikTvd": "100100225883432",
+    "oikName": "Республика Саха (Якутия) – Якутский",
+    "district": {
+      "districtNumber": 24,
+      "oikTvd": "100100225883432"
+    }
   },
   {
     "uikNumber": 652,
     "uikTvd": "4144032379149",
     "tikTvd": "21420001074302",
-    "tikName": "Хангаласская"
+    "tikName": "Хангаласская",
+    "uikName": "УИК №652",
+    "regionCode": "14",
+    "regionTvd": "100100225883431",
+    "regionName": "Республика Саха (Якутия)",
+    "oikTvd": "100100225883432",
+    "oikName": "Республика Саха (Якутия) – Якутский",
+    "district": {
+      "districtNumber": 24,
+      "oikTvd": "100100225883432"
+    }
   },
   {
     "uikNumber": 653,
     "uikTvd": "4144032379150",
     "tikTvd": "21420001074302",
-    "tikName": "Хангаласская"
+    "tikName": "Хангаласская",
+    "uikName": "УИК №653",
+    "regionCode": "14",
+    "regionTvd": "100100225883431",
+    "regionName": "Республика Саха (Якутия)",
+    "oikTvd": "100100225883432",
+    "oikName": "Республика Саха (Якутия) – Якутский",
+    "district": {
+      "districtNumber": 24,
+      "oikTvd": "100100225883432"
+    }
   },
   {
     "uikNumber": 654,
     "uikTvd": "4144032379151",
     "tikTvd": "21420001074302",
-    "tikName": "Хангаласская"
+    "tikName": "Хангаласская",
+    "uikName": "УИК №654",
+    "regionCode": "14",
+    "regionTvd": "100100225883431",
+    "regionName": "Республика Саха (Якутия)",
+    "oikTvd": "100100225883432",
+    "oikName": "Республика Саха (Якутия) – Якутский",
+    "district": {
+      "districtNumber": 24,
+      "oikTvd": "100100225883432"
+    }
   },
   {
     "uikNumber": 655,
     "uikTvd": "4144032379152",
     "tikTvd": "21420001074302",
-    "tikName": "Хангаласская"
+    "tikName": "Хангаласская",
+    "uikName": "УИК №655",
+    "regionCode": "14",
+    "regionTvd": "100100225883431",
+    "regionName": "Республика Саха (Якутия)",
+    "oikTvd": "100100225883432",
+    "oikName": "Республика Саха (Якутия) – Якутский",
+    "district": {
+      "districtNumber": 24,
+      "oikTvd": "100100225883432"
+    }
   },
   {
     "uikNumber": 656,
     "uikTvd": "4144032379153",
     "tikTvd": "21420001074302",
-    "tikName": "Хангаласская"
+    "tikName": "Хангаласская",
+    "uikName": "УИК №656",
+    "regionCode": "14",
+    "regionTvd": "100100225883431",
+    "regionName": "Республика Саха (Якутия)",
+    "oikTvd": "100100225883432",
+    "oikName": "Республика Саха (Якутия) – Якутский",
+    "district": {
+      "districtNumber": 24,
+      "oikTvd": "100100225883432"
+    }
   },
   {
     "uikNumber": 657,
     "uikTvd": "4144033254853",
     "tikTvd": "21420001074307",
-    "tikName": "Чурапчинская"
+    "tikName": "Чурапчинская",
+    "uikName": "УИК №657",
+    "regionCode": "14",
+    "regionTvd": "100100225883431",
+    "regionName": "Республика Саха (Якутия)",
+    "oikTvd": "100100225883432",
+    "oikName": "Республика Саха (Якутия) – Якутский",
+    "district": {
+      "districtNumber": 24,
+      "oikTvd": "100100225883432"
+    }
   },
   {
     "uikNumber": 658,
     "uikTvd": "4144033254854",
     "tikTvd": "21420001074307",
-    "tikName": "Чурапчинская"
+    "tikName": "Чурапчинская",
+    "uikName": "УИК №658",
+    "regionCode": "14",
+    "regionTvd": "100100225883431",
+    "regionName": "Республика Саха (Якутия)",
+    "oikTvd": "100100225883432",
+    "oikName": "Республика Саха (Якутия) – Якутский",
+    "district": {
+      "districtNumber": 24,
+      "oikTvd": "100100225883432"
+    }
   },
   {
     "uikNumber": 659,
     "uikTvd": "4144033254855",
     "tikTvd": "21420001074307",
-    "tikName": "Чурапчинская"
+    "tikName": "Чурапчинская",
+    "uikName": "УИК №659",
+    "regionCode": "14",
+    "regionTvd": "100100225883431",
+    "regionName": "Республика Саха (Якутия)",
+    "oikTvd": "100100225883432",
+    "oikName": "Республика Саха (Якутия) – Якутский",
+    "district": {
+      "districtNumber": 24,
+      "oikTvd": "100100225883432"
+    }
   },
   {
     "uikNumber": 660,
     "uikTvd": "4144033254856",
     "tikTvd": "21420001074307",
-    "tikName": "Чурапчинская"
+    "tikName": "Чурапчинская",
+    "uikName": "УИК №660",
+    "regionCode": "14",
+    "regionTvd": "100100225883431",
+    "regionName": "Республика Саха (Якутия)",
+    "oikTvd": "100100225883432",
+    "oikName": "Республика Саха (Якутия) – Якутский",
+    "district": {
+      "districtNumber": 24,
+      "oikTvd": "100100225883432"
+    }
   },
   {
     "uikNumber": 661,
     "uikTvd": "4144033254857",
     "tikTvd": "21420001074307",
-    "tikName": "Чурапчинская"
+    "tikName": "Чурапчинская",
+    "uikName": "УИК №661",
+    "regionCode": "14",
+    "regionTvd": "100100225883431",
+    "regionName": "Республика Саха (Якутия)",
+    "oikTvd": "100100225883432",
+    "oikName": "Республика Саха (Якутия) – Якутский",
+    "district": {
+      "districtNumber": 24,
+      "oikTvd": "100100225883432"
+    }
   },
   {
     "uikNumber": 662,
     "uikTvd": "4144033254858",
     "tikTvd": "21420001074307",
-    "tikName": "Чурапчинская"
+    "tikName": "Чурапчинская",
+    "uikName": "УИК №662",
+    "regionCode": "14",
+    "regionTvd": "100100225883431",
+    "regionName": "Республика Саха (Якутия)",
+    "oikTvd": "100100225883432",
+    "oikName": "Республика Саха (Якутия) – Якутский",
+    "district": {
+      "districtNumber": 24,
+      "oikTvd": "100100225883432"
+    }
   },
   {
     "uikNumber": 663,
     "uikTvd": "4144033254859",
     "tikTvd": "21420001074307",
-    "tikName": "Чурапчинская"
+    "tikName": "Чурапчинская",
+    "uikName": "УИК №663",
+    "regionCode": "14",
+    "regionTvd": "100100225883431",
+    "regionName": "Республика Саха (Якутия)",
+    "oikTvd": "100100225883432",
+    "oikName": "Республика Саха (Якутия) – Якутский",
+    "district": {
+      "districtNumber": 24,
+      "oikTvd": "100100225883432"
+    }
   },
   {
     "uikNumber": 664,
     "uikTvd": "4144033254860",
     "tikTvd": "21420001074307",
-    "tikName": "Чурапчинская"
+    "tikName": "Чурапчинская",
+    "uikName": "УИК №664",
+    "regionCode": "14",
+    "regionTvd": "100100225883431",
+    "regionName": "Республика Саха (Якутия)",
+    "oikTvd": "100100225883432",
+    "oikName": "Республика Саха (Якутия) – Якутский",
+    "district": {
+      "districtNumber": 24,
+      "oikTvd": "100100225883432"
+    }
   },
   {
     "uikNumber": 665,
     "uikTvd": "4144033254861",
     "tikTvd": "21420001074307",
-    "tikName": "Чурапчинская"
+    "tikName": "Чурапчинская",
+    "uikName": "УИК №665",
+    "regionCode": "14",
+    "regionTvd": "100100225883431",
+    "regionName": "Республика Саха (Якутия)",
+    "oikTvd": "100100225883432",
+    "oikName": "Республика Саха (Якутия) – Якутский",
+    "district": {
+      "districtNumber": 24,
+      "oikTvd": "100100225883432"
+    }
   },
   {
     "uikNumber": 666,
     "uikTvd": "4144033254862",
     "tikTvd": "21420001074307",
-    "tikName": "Чурапчинская"
+    "tikName": "Чурапчинская",
+    "uikName": "УИК №666",
+    "regionCode": "14",
+    "regionTvd": "100100225883431",
+    "regionName": "Республика Саха (Якутия)",
+    "oikTvd": "100100225883432",
+    "oikName": "Республика Саха (Якутия) – Якутский",
+    "district": {
+      "districtNumber": 24,
+      "oikTvd": "100100225883432"
+    }
   },
   {
     "uikNumber": 667,
     "uikTvd": "4144033254863",
     "tikTvd": "21420001074307",
-    "tikName": "Чурапчинская"
+    "tikName": "Чурапчинская",
+    "uikName": "УИК №667",
+    "regionCode": "14",
+    "regionTvd": "100100225883431",
+    "regionName": "Республика Саха (Якутия)",
+    "oikTvd": "100100225883432",
+    "oikName": "Республика Саха (Якутия) – Якутский",
+    "district": {
+      "districtNumber": 24,
+      "oikTvd": "100100225883432"
+    }
   },
   {
     "uikNumber": 668,
     "uikTvd": "4144033254864",
     "tikTvd": "21420001074307",
-    "tikName": "Чурапчинская"
+    "tikName": "Чурапчинская",
+    "uikName": "УИК №668",
+    "regionCode": "14",
+    "regionTvd": "100100225883431",
+    "regionName": "Республика Саха (Якутия)",
+    "oikTvd": "100100225883432",
+    "oikName": "Республика Саха (Якутия) – Якутский",
+    "district": {
+      "districtNumber": 24,
+      "oikTvd": "100100225883432"
+    }
   },
   {
     "uikNumber": 669,
     "uikTvd": "4144033254865",
     "tikTvd": "21420001074307",
-    "tikName": "Чурапчинская"
+    "tikName": "Чурапчинская",
+    "uikName": "УИК №669",
+    "regionCode": "14",
+    "regionTvd": "100100225883431",
+    "regionName": "Республика Саха (Якутия)",
+    "oikTvd": "100100225883432",
+    "oikName": "Республика Саха (Якутия) – Якутский",
+    "district": {
+      "districtNumber": 24,
+      "oikTvd": "100100225883432"
+    }
   },
   {
     "uikNumber": 670,
     "uikTvd": "4144033254866",
     "tikTvd": "21420001074307",
-    "tikName": "Чурапчинская"
+    "tikName": "Чурапчинская",
+    "uikName": "УИК №670",
+    "regionCode": "14",
+    "regionTvd": "100100225883431",
+    "regionName": "Республика Саха (Якутия)",
+    "oikTvd": "100100225883432",
+    "oikName": "Республика Саха (Якутия) – Якутский",
+    "district": {
+      "districtNumber": 24,
+      "oikTvd": "100100225883432"
+    }
   },
   {
     "uikNumber": 671,
     "uikTvd": "4144033254867",
     "tikTvd": "21420001074307",
-    "tikName": "Чурапчинская"
+    "tikName": "Чурапчинская",
+    "uikName": "УИК №671",
+    "regionCode": "14",
+    "regionTvd": "100100225883431",
+    "regionName": "Республика Саха (Якутия)",
+    "oikTvd": "100100225883432",
+    "oikName": "Республика Саха (Якутия) – Якутский",
+    "district": {
+      "districtNumber": 24,
+      "oikTvd": "100100225883432"
+    }
   },
   {
     "uikNumber": 672,
     "uikTvd": "4144033254868",
     "tikTvd": "21420001074307",
-    "tikName": "Чурапчинская"
+    "tikName": "Чурапчинская",
+    "uikName": "УИК №672",
+    "regionCode": "14",
+    "regionTvd": "100100225883431",
+    "regionName": "Республика Саха (Якутия)",
+    "oikTvd": "100100225883432",
+    "oikName": "Республика Саха (Якутия) – Якутский",
+    "district": {
+      "districtNumber": 24,
+      "oikTvd": "100100225883432"
+    }
   },
   {
     "uikNumber": 673,
     "uikTvd": "4144033254869",
     "tikTvd": "21420001074307",
-    "tikName": "Чурапчинская"
+    "tikName": "Чурапчинская",
+    "uikName": "УИК №673",
+    "regionCode": "14",
+    "regionTvd": "100100225883431",
+    "regionName": "Республика Саха (Якутия)",
+    "oikTvd": "100100225883432",
+    "oikName": "Республика Саха (Якутия) – Якутский",
+    "district": {
+      "districtNumber": 24,
+      "oikTvd": "100100225883432"
+    }
   },
   {
     "uikNumber": 674,
     "uikTvd": "4144033254870",
     "tikTvd": "21420001074307",
-    "tikName": "Чурапчинская"
+    "tikName": "Чурапчинская",
+    "uikName": "УИК №674",
+    "regionCode": "14",
+    "regionTvd": "100100225883431",
+    "regionName": "Республика Саха (Якутия)",
+    "oikTvd": "100100225883432",
+    "oikName": "Республика Саха (Якутия) – Якутский",
+    "district": {
+      "districtNumber": 24,
+      "oikTvd": "100100225883432"
+    }
   },
   {
     "uikNumber": 675,
     "uikTvd": "4144033254871",
     "tikTvd": "21420001074307",
-    "tikName": "Чурапчинская"
+    "tikName": "Чурапчинская",
+    "uikName": "УИК №675",
+    "regionCode": "14",
+    "regionTvd": "100100225883431",
+    "regionName": "Республика Саха (Якутия)",
+    "oikTvd": "100100225883432",
+    "oikName": "Республика Саха (Якутия) – Якутский",
+    "district": {
+      "districtNumber": 24,
+      "oikTvd": "100100225883432"
+    }
   },
   {
     "uikNumber": 676,
     "uikTvd": "4144033254872",
     "tikTvd": "21420001074307",
-    "tikName": "Чурапчинская"
+    "tikName": "Чурапчинская",
+    "uikName": "УИК №676",
+    "regionCode": "14",
+    "regionTvd": "100100225883431",
+    "regionName": "Республика Саха (Якутия)",
+    "oikTvd": "100100225883432",
+    "oikName": "Республика Саха (Якутия) – Якутский",
+    "district": {
+      "districtNumber": 24,
+      "oikTvd": "100100225883432"
+    }
   },
   {
     "uikNumber": 677,
     "uikTvd": "4144033254873",
     "tikTvd": "21420001074307",
-    "tikName": "Чурапчинская"
+    "tikName": "Чурапчинская",
+    "uikName": "УИК №677",
+    "regionCode": "14",
+    "regionTvd": "100100225883431",
+    "regionName": "Республика Саха (Якутия)",
+    "oikTvd": "100100225883432",
+    "oikName": "Республика Саха (Якутия) – Якутский",
+    "district": {
+      "districtNumber": 24,
+      "oikTvd": "100100225883432"
+    }
   },
   {
     "uikNumber": 678,
     "uikTvd": "4144033254874",
     "tikTvd": "21420001074307",
-    "tikName": "Чурапчинская"
+    "tikName": "Чурапчинская",
+    "uikName": "УИК №678",
+    "regionCode": "14",
+    "regionTvd": "100100225883431",
+    "regionName": "Республика Саха (Якутия)",
+    "oikTvd": "100100225883432",
+    "oikName": "Республика Саха (Якутия) – Якутский",
+    "district": {
+      "districtNumber": 24,
+      "oikTvd": "100100225883432"
+    }
   },
   {
     "uikNumber": 679,
     "uikTvd": "4144033254875",
     "tikTvd": "21420001074307",
-    "tikName": "Чурапчинская"
+    "tikName": "Чурапчинская",
+    "uikName": "УИК №679",
+    "regionCode": "14",
+    "regionTvd": "100100225883431",
+    "regionName": "Республика Саха (Якутия)",
+    "oikTvd": "100100225883432",
+    "oikName": "Республика Саха (Якутия) – Якутский",
+    "district": {
+      "districtNumber": 24,
+      "oikTvd": "100100225883432"
+    }
   },
   {
     "uikNumber": 680,
     "uikTvd": "4144033254876",
     "tikTvd": "21420001074307",
-    "tikName": "Чурапчинская"
+    "tikName": "Чурапчинская",
+    "uikName": "УИК №680",
+    "regionCode": "14",
+    "regionTvd": "100100225883431",
+    "regionName": "Республика Саха (Якутия)",
+    "oikTvd": "100100225883432",
+    "oikName": "Республика Саха (Якутия) – Якутский",
+    "district": {
+      "districtNumber": 24,
+      "oikTvd": "100100225883432"
+    }
   },
   {
     "uikNumber": 681,
     "uikTvd": "4144033254877",
     "tikTvd": "21420001074307",
-    "tikName": "Чурапчинская"
+    "tikName": "Чурапчинская",
+    "uikName": "УИК №681",
+    "regionCode": "14",
+    "regionTvd": "100100225883431",
+    "regionName": "Республика Саха (Якутия)",
+    "oikTvd": "100100225883432",
+    "oikName": "Республика Саха (Якутия) – Якутский",
+    "district": {
+      "districtNumber": 24,
+      "oikTvd": "100100225883432"
+    }
   },
   {
     "uikNumber": 682,
     "uikTvd": "4144033254878",
     "tikTvd": "21420001074307",
-    "tikName": "Чурапчинская"
+    "tikName": "Чурапчинская",
+    "uikName": "УИК №682",
+    "regionCode": "14",
+    "regionTvd": "100100225883431",
+    "regionName": "Республика Саха (Якутия)",
+    "oikTvd": "100100225883432",
+    "oikName": "Республика Саха (Якутия) – Якутский",
+    "district": {
+      "districtNumber": 24,
+      "oikTvd": "100100225883432"
+    }
   },
   {
     "uikNumber": 683,
     "uikTvd": "4144033254879",
     "tikTvd": "21420001074307",
-    "tikName": "Чурапчинская"
+    "tikName": "Чурапчинская",
+    "uikName": "УИК №683",
+    "regionCode": "14",
+    "regionTvd": "100100225883431",
+    "regionName": "Республика Саха (Якутия)",
+    "oikTvd": "100100225883432",
+    "oikName": "Республика Саха (Якутия) – Якутский",
+    "district": {
+      "districtNumber": 24,
+      "oikTvd": "100100225883432"
+    }
   },
   {
     "uikNumber": 684,
     "uikTvd": "4144033254880",
     "tikTvd": "21420001074307",
-    "tikName": "Чурапчинская"
+    "tikName": "Чурапчинская",
+    "uikName": "УИК №684",
+    "regionCode": "14",
+    "regionTvd": "100100225883431",
+    "regionName": "Республика Саха (Якутия)",
+    "oikTvd": "100100225883432",
+    "oikName": "Республика Саха (Якутия) – Якутский",
+    "district": {
+      "districtNumber": 24,
+      "oikTvd": "100100225883432"
+    }
   },
   {
     "uikNumber": 685,
     "uikTvd": "4144033254881",
     "tikTvd": "21420001074307",
-    "tikName": "Чурапчинская"
+    "tikName": "Чурапчинская",
+    "uikName": "УИК №685",
+    "regionCode": "14",
+    "regionTvd": "100100225883431",
+    "regionName": "Республика Саха (Якутия)",
+    "oikTvd": "100100225883432",
+    "oikName": "Республика Саха (Якутия) – Якутский",
+    "district": {
+      "districtNumber": 24,
+      "oikTvd": "100100225883432"
+    }
   },
   {
     "uikNumber": 686,
     "uikTvd": "4144034131870",
     "tikTvd": "21420001074315",
-    "tikName": "Эвено-Бытантайская"
+    "tikName": "Эвено-Бытантайская",
+    "uikName": "УИК №686",
+    "regionCode": "14",
+    "regionTvd": "100100225883431",
+    "regionName": "Республика Саха (Якутия)",
+    "oikTvd": "100100225883432",
+    "oikName": "Республика Саха (Якутия) – Якутский",
+    "district": {
+      "districtNumber": 24,
+      "oikTvd": "100100225883432"
+    }
   },
   {
     "uikNumber": 687,
     "uikTvd": "4144034131871",
     "tikTvd": "21420001074315",
-    "tikName": "Эвено-Бытантайская"
+    "tikName": "Эвено-Бытантайская",
+    "uikName": "УИК №687",
+    "regionCode": "14",
+    "regionTvd": "100100225883431",
+    "regionName": "Республика Саха (Якутия)",
+    "oikTvd": "100100225883432",
+    "oikName": "Республика Саха (Якутия) – Якутский",
+    "district": {
+      "districtNumber": 24,
+      "oikTvd": "100100225883432"
+    }
   },
   {
     "uikNumber": 688,
     "uikTvd": "4144034131872",
     "tikTvd": "21420001074315",
-    "tikName": "Эвено-Бытантайская"
+    "tikName": "Эвено-Бытантайская",
+    "uikName": "УИК №688",
+    "regionCode": "14",
+    "regionTvd": "100100225883431",
+    "regionName": "Республика Саха (Якутия)",
+    "oikTvd": "100100225883432",
+    "oikName": "Республика Саха (Якутия) – Якутский",
+    "district": {
+      "districtNumber": 24,
+      "oikTvd": "100100225883432"
+    }
   },
   {
     "uikNumber": 689,
     "uikTvd": "4144035571515",
     "tikTvd": "21420001074355",
-    "tikName": "Якутская городская"
+    "tikName": "Якутская городская",
+    "uikName": "УИК №689",
+    "regionCode": "14",
+    "regionTvd": "100100225883431",
+    "regionName": "Республика Саха (Якутия)",
+    "oikTvd": "100100225883432",
+    "oikName": "Республика Саха (Якутия) – Якутский",
+    "district": {
+      "districtNumber": 24,
+      "oikTvd": "100100225883432"
+    }
   },
   {
     "uikNumber": 690,
     "uikTvd": "4144035571516",
     "tikTvd": "21420001074355",
-    "tikName": "Якутская городская"
+    "tikName": "Якутская городская",
+    "uikName": "УИК №690",
+    "regionCode": "14",
+    "regionTvd": "100100225883431",
+    "regionName": "Республика Саха (Якутия)",
+    "oikTvd": "100100225883432",
+    "oikName": "Республика Саха (Якутия) – Якутский",
+    "district": {
+      "districtNumber": 24,
+      "oikTvd": "100100225883432"
+    }
   },
   {
     "uikNumber": 691,
     "uikTvd": "4144035571517",
     "tikTvd": "21420001074355",
-    "tikName": "Якутская городская"
+    "tikName": "Якутская городская",
+    "uikName": "УИК №691",
+    "regionCode": "14",
+    "regionTvd": "100100225883431",
+    "regionName": "Республика Саха (Якутия)",
+    "oikTvd": "100100225883432",
+    "oikName": "Республика Саха (Якутия) – Якутский",
+    "district": {
+      "districtNumber": 24,
+      "oikTvd": "100100225883432"
+    }
   },
   {
     "uikNumber": 692,
     "uikTvd": "4144035571518",
     "tikTvd": "21420001074355",
-    "tikName": "Якутская городская"
+    "tikName": "Якутская городская",
+    "uikName": "УИК №692",
+    "regionCode": "14",
+    "regionTvd": "100100225883431",
+    "regionName": "Республика Саха (Якутия)",
+    "oikTvd": "100100225883432",
+    "oikName": "Республика Саха (Якутия) – Якутский",
+    "district": {
+      "districtNumber": 24,
+      "oikTvd": "100100225883432"
+    }
   },
   {
     "uikNumber": 693,
     "uikTvd": "4144035571519",
     "tikTvd": "21420001074355",
-    "tikName": "Якутская городская"
+    "tikName": "Якутская городская",
+    "uikName": "УИК №693",
+    "regionCode": "14",
+    "regionTvd": "100100225883431",
+    "regionName": "Республика Саха (Якутия)",
+    "oikTvd": "100100225883432",
+    "oikName": "Республика Саха (Якутия) – Якутский",
+    "district": {
+      "districtNumber": 24,
+      "oikTvd": "100100225883432"
+    }
   },
   {
     "uikNumber": 694,
     "uikTvd": "4144035571520",
     "tikTvd": "21420001074355",
-    "tikName": "Якутская городская"
+    "tikName": "Якутская городская",
+    "uikName": "УИК №694",
+    "regionCode": "14",
+    "regionTvd": "100100225883431",
+    "regionName": "Республика Саха (Якутия)",
+    "oikTvd": "100100225883432",
+    "oikName": "Республика Саха (Якутия) – Якутский",
+    "district": {
+      "districtNumber": 24,
+      "oikTvd": "100100225883432"
+    }
   },
   {
     "uikNumber": 695,
     "uikTvd": "4144035571521",
     "tikTvd": "21420001074355",
-    "tikName": "Якутская городская"
+    "tikName": "Якутская городская",
+    "uikName": "УИК №695",
+    "regionCode": "14",
+    "regionTvd": "100100225883431",
+    "regionName": "Республика Саха (Якутия)",
+    "oikTvd": "100100225883432",
+    "oikName": "Республика Саха (Якутия) – Якутский",
+    "district": {
+      "districtNumber": 24,
+      "oikTvd": "100100225883432"
+    }
   },
   {
     "uikNumber": 696,
     "uikTvd": "4144035571522",
     "tikTvd": "21420001074355",
-    "tikName": "Якутская городская"
+    "tikName": "Якутская городская",
+    "uikName": "УИК №696",
+    "regionCode": "14",
+    "regionTvd": "100100225883431",
+    "regionName": "Республика Саха (Якутия)",
+    "oikTvd": "100100225883432",
+    "oikName": "Республика Саха (Якутия) – Якутский",
+    "district": {
+      "districtNumber": 24,
+      "oikTvd": "100100225883432"
+    }
   },
   {
     "uikNumber": 697,
     "uikTvd": "4144035571523",
     "tikTvd": "21420001074355",
-    "tikName": "Якутская городская"
+    "tikName": "Якутская городская",
+    "uikName": "УИК №697",
+    "regionCode": "14",
+    "regionTvd": "100100225883431",
+    "regionName": "Республика Саха (Якутия)",
+    "oikTvd": "100100225883432",
+    "oikName": "Республика Саха (Якутия) – Якутский",
+    "district": {
+      "districtNumber": 24,
+      "oikTvd": "100100225883432"
+    }
   },
   {
     "uikNumber": 698,
     "uikTvd": "4144035571524",
     "tikTvd": "21420001074355",
-    "tikName": "Якутская городская"
+    "tikName": "Якутская городская",
+    "uikName": "УИК №698",
+    "regionCode": "14",
+    "regionTvd": "100100225883431",
+    "regionName": "Республика Саха (Якутия)",
+    "oikTvd": "100100225883432",
+    "oikName": "Республика Саха (Якутия) – Якутский",
+    "district": {
+      "districtNumber": 24,
+      "oikTvd": "100100225883432"
+    }
   },
   {
     "uikNumber": 699,
     "uikTvd": "4144035571525",
     "tikTvd": "21420001074355",
-    "tikName": "Якутская городская"
+    "tikName": "Якутская городская",
+    "uikName": "УИК №699",
+    "regionCode": "14",
+    "regionTvd": "100100225883431",
+    "regionName": "Республика Саха (Якутия)",
+    "oikTvd": "100100225883432",
+    "oikName": "Республика Саха (Якутия) – Якутский",
+    "district": {
+      "districtNumber": 24,
+      "oikTvd": "100100225883432"
+    }
   },
   {
     "uikNumber": 700,
     "uikTvd": "4144035571526",
     "tikTvd": "21420001074355",
-    "tikName": "Якутская городская"
+    "tikName": "Якутская городская",
+    "uikName": "УИК №700",
+    "regionCode": "14",
+    "regionTvd": "100100225883431",
+    "regionName": "Республика Саха (Якутия)",
+    "oikTvd": "100100225883432",
+    "oikName": "Республика Саха (Якутия) – Якутский",
+    "district": {
+      "districtNumber": 24,
+      "oikTvd": "100100225883432"
+    }
   },
   {
     "uikNumber": 701,
     "uikTvd": "4144035571527",
     "tikTvd": "21420001074355",
-    "tikName": "Якутская городская"
+    "tikName": "Якутская городская",
+    "uikName": "УИК №701",
+    "regionCode": "14",
+    "regionTvd": "100100225883431",
+    "regionName": "Республика Саха (Якутия)",
+    "oikTvd": "100100225883432",
+    "oikName": "Республика Саха (Якутия) – Якутский",
+    "district": {
+      "districtNumber": 24,
+      "oikTvd": "100100225883432"
+    }
   },
   {
     "uikNumber": 702,
     "uikTvd": "4144035571528",
     "tikTvd": "21420001074355",
-    "tikName": "Якутская городская"
+    "tikName": "Якутская городская",
+    "uikName": "УИК №702",
+    "regionCode": "14",
+    "regionTvd": "100100225883431",
+    "regionName": "Республика Саха (Якутия)",
+    "oikTvd": "100100225883432",
+    "oikName": "Республика Саха (Якутия) – Якутский",
+    "district": {
+      "districtNumber": 24,
+      "oikTvd": "100100225883432"
+    }
   },
   {
     "uikNumber": 703,
     "uikTvd": "4144035571529",
     "tikTvd": "21420001074355",
-    "tikName": "Якутская городская"
+    "tikName": "Якутская городская",
+    "uikName": "УИК №703",
+    "regionCode": "14",
+    "regionTvd": "100100225883431",
+    "regionName": "Республика Саха (Якутия)",
+    "oikTvd": "100100225883432",
+    "oikName": "Республика Саха (Якутия) – Якутский",
+    "district": {
+      "districtNumber": 24,
+      "oikTvd": "100100225883432"
+    }
   },
   {
     "uikNumber": 704,
     "uikTvd": "4144035571530",
     "tikTvd": "21420001074355",
-    "tikName": "Якутская городская"
+    "tikName": "Якутская городская",
+    "uikName": "УИК №704",
+    "regionCode": "14",
+    "regionTvd": "100100225883431",
+    "regionName": "Республика Саха (Якутия)",
+    "oikTvd": "100100225883432",
+    "oikName": "Республика Саха (Якутия) – Якутский",
+    "district": {
+      "districtNumber": 24,
+      "oikTvd": "100100225883432"
+    }
   },
   {
     "uikNumber": 705,
     "uikTvd": "4144035571531",
     "tikTvd": "21420001074355",
-    "tikName": "Якутская городская"
+    "tikName": "Якутская городская",
+    "uikName": "УИК №705",
+    "regionCode": "14",
+    "regionTvd": "100100225883431",
+    "regionName": "Республика Саха (Якутия)",
+    "oikTvd": "100100225883432",
+    "oikName": "Республика Саха (Якутия) – Якутский",
+    "district": {
+      "districtNumber": 24,
+      "oikTvd": "100100225883432"
+    }
   },
   {
     "uikNumber": 706,
     "uikTvd": "4144035571532",
     "tikTvd": "21420001074355",
-    "tikName": "Якутская городская"
+    "tikName": "Якутская городская",
+    "uikName": "УИК №706",
+    "regionCode": "14",
+    "regionTvd": "100100225883431",
+    "regionName": "Республика Саха (Якутия)",
+    "oikTvd": "100100225883432",
+    "oikName": "Республика Саха (Якутия) – Якутский",
+    "district": {
+      "districtNumber": 24,
+      "oikTvd": "100100225883432"
+    }
   },
   {
     "uikNumber": 707,
     "uikTvd": "4144035571533",
     "tikTvd": "21420001074355",
-    "tikName": "Якутская городская"
+    "tikName": "Якутская городская",
+    "uikName": "УИК №707",
+    "regionCode": "14",
+    "regionTvd": "100100225883431",
+    "regionName": "Республика Саха (Якутия)",
+    "oikTvd": "100100225883432",
+    "oikName": "Республика Саха (Якутия) – Якутский",
+    "district": {
+      "districtNumber": 24,
+      "oikTvd": "100100225883432"
+    }
   },
   {
     "uikNumber": 708,
     "uikTvd": "4144035571534",
     "tikTvd": "21420001074355",
-    "tikName": "Якутская городская"
+    "tikName": "Якутская городская",
+    "uikName": "УИК №708",
+    "regionCode": "14",
+    "regionTvd": "100100225883431",
+    "regionName": "Республика Саха (Якутия)",
+    "oikTvd": "100100225883432",
+    "oikName": "Республика Саха (Якутия) – Якутский",
+    "district": {
+      "districtNumber": 24,
+      "oikTvd": "100100225883432"
+    }
   },
   {
     "uikNumber": 709,
     "uikTvd": "4144035571535",
     "tikTvd": "21420001074355",
-    "tikName": "Якутская городская"
+    "tikName": "Якутская городская",
+    "uikName": "УИК №709",
+    "regionCode": "14",
+    "regionTvd": "100100225883431",
+    "regionName": "Республика Саха (Якутия)",
+    "oikTvd": "100100225883432",
+    "oikName": "Республика Саха (Якутия) – Якутский",
+    "district": {
+      "districtNumber": 24,
+      "oikTvd": "100100225883432"
+    }
   },
   {
     "uikNumber": 710,
     "uikTvd": "4144035571536",
     "tikTvd": "21420001074355",
-    "tikName": "Якутская городская"
+    "tikName": "Якутская городская",
+    "uikName": "УИК №710",
+    "regionCode": "14",
+    "regionTvd": "100100225883431",
+    "regionName": "Республика Саха (Якутия)",
+    "oikTvd": "100100225883432",
+    "oikName": "Республика Саха (Якутия) – Якутский",
+    "district": {
+      "districtNumber": 24,
+      "oikTvd": "100100225883432"
+    }
   },
   {
     "uikNumber": 711,
     "uikTvd": "4144035571537",
     "tikTvd": "21420001074355",
-    "tikName": "Якутская городская"
+    "tikName": "Якутская городская",
+    "uikName": "УИК №711",
+    "regionCode": "14",
+    "regionTvd": "100100225883431",
+    "regionName": "Республика Саха (Якутия)",
+    "oikTvd": "100100225883432",
+    "oikName": "Республика Саха (Якутия) – Якутский",
+    "district": {
+      "districtNumber": 24,
+      "oikTvd": "100100225883432"
+    }
   },
   {
     "uikNumber": 712,
     "uikTvd": "4144035571538",
     "tikTvd": "21420001074355",
-    "tikName": "Якутская городская"
+    "tikName": "Якутская городская",
+    "uikName": "УИК №712",
+    "regionCode": "14",
+    "regionTvd": "100100225883431",
+    "regionName": "Республика Саха (Якутия)",
+    "oikTvd": "100100225883432",
+    "oikName": "Республика Саха (Якутия) – Якутский",
+    "district": {
+      "districtNumber": 24,
+      "oikTvd": "100100225883432"
+    }
   },
   {
     "uikNumber": 713,
     "uikTvd": "4144035571539",
     "tikTvd": "21420001074355",
-    "tikName": "Якутская городская"
+    "tikName": "Якутская городская",
+    "uikName": "УИК №713",
+    "regionCode": "14",
+    "regionTvd": "100100225883431",
+    "regionName": "Республика Саха (Якутия)",
+    "oikTvd": "100100225883432",
+    "oikName": "Республика Саха (Якутия) – Якутский",
+    "district": {
+      "districtNumber": 24,
+      "oikTvd": "100100225883432"
+    }
   },
   {
     "uikNumber": 714,
     "uikTvd": "4144035571540",
     "tikTvd": "21420001074355",
-    "tikName": "Якутская городская"
+    "tikName": "Якутская городская",
+    "uikName": "УИК №714",
+    "regionCode": "14",
+    "regionTvd": "100100225883431",
+    "regionName": "Республика Саха (Якутия)",
+    "oikTvd": "100100225883432",
+    "oikName": "Республика Саха (Якутия) – Якутский",
+    "district": {
+      "districtNumber": 24,
+      "oikTvd": "100100225883432"
+    }
   },
   {
     "uikNumber": 715,
     "uikTvd": "4144035571541",
     "tikTvd": "21420001074355",
-    "tikName": "Якутская городская"
+    "tikName": "Якутская городская",
+    "uikName": "УИК №715",
+    "regionCode": "14",
+    "regionTvd": "100100225883431",
+    "regionName": "Республика Саха (Якутия)",
+    "oikTvd": "100100225883432",
+    "oikName": "Республика Саха (Якутия) – Якутский",
+    "district": {
+      "districtNumber": 24,
+      "oikTvd": "100100225883432"
+    }
   },
   {
     "uikNumber": 716,
     "uikTvd": "4144035571542",
     "tikTvd": "21420001074355",
-    "tikName": "Якутская городская"
+    "tikName": "Якутская городская",
+    "uikName": "УИК №716",
+    "regionCode": "14",
+    "regionTvd": "100100225883431",
+    "regionName": "Республика Саха (Якутия)",
+    "oikTvd": "100100225883432",
+    "oikName": "Республика Саха (Якутия) – Якутский",
+    "district": {
+      "districtNumber": 24,
+      "oikTvd": "100100225883432"
+    }
   },
   {
     "uikNumber": 717,
     "uikTvd": "4144035571543",
     "tikTvd": "21420001074355",
-    "tikName": "Якутская городская"
+    "tikName": "Якутская городская",
+    "uikName": "УИК №717",
+    "regionCode": "14",
+    "regionTvd": "100100225883431",
+    "regionName": "Республика Саха (Якутия)",
+    "oikTvd": "100100225883432",
+    "oikName": "Республика Саха (Якутия) – Якутский",
+    "district": {
+      "districtNumber": 24,
+      "oikTvd": "100100225883432"
+    }
   },
   {
     "uikNumber": 718,
     "uikTvd": "4144035571544",
     "tikTvd": "21420001074355",
-    "tikName": "Якутская городская"
+    "tikName": "Якутская городская",
+    "uikName": "УИК №718",
+    "regionCode": "14",
+    "regionTvd": "100100225883431",
+    "regionName": "Республика Саха (Якутия)",
+    "oikTvd": "100100225883432",
+    "oikName": "Республика Саха (Якутия) – Якутский",
+    "district": {
+      "districtNumber": 24,
+      "oikTvd": "100100225883432"
+    }
   },
   {
     "uikNumber": 719,
     "uikTvd": "4144035571545",
     "tikTvd": "21420001074355",
-    "tikName": "Якутская городская"
+    "tikName": "Якутская городская",
+    "uikName": "УИК №719",
+    "regionCode": "14",
+    "regionTvd": "100100225883431",
+    "regionName": "Республика Саха (Якутия)",
+    "oikTvd": "100100225883432",
+    "oikName": "Республика Саха (Якутия) – Якутский",
+    "district": {
+      "districtNumber": 24,
+      "oikTvd": "100100225883432"
+    }
   },
   {
     "uikNumber": 720,
     "uikTvd": "4144035571546",
     "tikTvd": "21420001074355",
-    "tikName": "Якутская городская"
+    "tikName": "Якутская городская",
+    "uikName": "УИК №720",
+    "regionCode": "14",
+    "regionTvd": "100100225883431",
+    "regionName": "Республика Саха (Якутия)",
+    "oikTvd": "100100225883432",
+    "oikName": "Республика Саха (Якутия) – Якутский",
+    "district": {
+      "districtNumber": 24,
+      "oikTvd": "100100225883432"
+    }
   },
   {
     "uikNumber": 721,
     "uikTvd": "4144035571547",
     "tikTvd": "21420001074355",
-    "tikName": "Якутская городская"
+    "tikName": "Якутская городская",
+    "uikName": "УИК №721",
+    "regionCode": "14",
+    "regionTvd": "100100225883431",
+    "regionName": "Республика Саха (Якутия)",
+    "oikTvd": "100100225883432",
+    "oikName": "Республика Саха (Якутия) – Якутский",
+    "district": {
+      "districtNumber": 24,
+      "oikTvd": "100100225883432"
+    }
   },
   {
     "uikNumber": 722,
     "uikTvd": "4144035571548",
     "tikTvd": "21420001074355",
-    "tikName": "Якутская городская"
+    "tikName": "Якутская городская",
+    "uikName": "УИК №722",
+    "regionCode": "14",
+    "regionTvd": "100100225883431",
+    "regionName": "Республика Саха (Якутия)",
+    "oikTvd": "100100225883432",
+    "oikName": "Республика Саха (Якутия) – Якутский",
+    "district": {
+      "districtNumber": 24,
+      "oikTvd": "100100225883432"
+    }
   },
   {
     "uikNumber": 723,
     "uikTvd": "4144035571549",
     "tikTvd": "21420001074355",
-    "tikName": "Якутская городская"
+    "tikName": "Якутская городская",
+    "uikName": "УИК №723",
+    "regionCode": "14",
+    "regionTvd": "100100225883431",
+    "regionName": "Республика Саха (Якутия)",
+    "oikTvd": "100100225883432",
+    "oikName": "Республика Саха (Якутия) – Якутский",
+    "district": {
+      "districtNumber": 24,
+      "oikTvd": "100100225883432"
+    }
   },
   {
     "uikNumber": 724,
     "uikTvd": "4144035571550",
     "tikTvd": "21420001074355",
-    "tikName": "Якутская городская"
+    "tikName": "Якутская городская",
+    "uikName": "УИК №724",
+    "regionCode": "14",
+    "regionTvd": "100100225883431",
+    "regionName": "Республика Саха (Якутия)",
+    "oikTvd": "100100225883432",
+    "oikName": "Республика Саха (Якутия) – Якутский",
+    "district": {
+      "districtNumber": 24,
+      "oikTvd": "100100225883432"
+    }
   },
   {
     "uikNumber": 725,
     "uikTvd": "4144035571551",
     "tikTvd": "21420001074355",
-    "tikName": "Якутская городская"
+    "tikName": "Якутская городская",
+    "uikName": "УИК №725",
+    "regionCode": "14",
+    "regionTvd": "100100225883431",
+    "regionName": "Республика Саха (Якутия)",
+    "oikTvd": "100100225883432",
+    "oikName": "Республика Саха (Якутия) – Якутский",
+    "district": {
+      "districtNumber": 24,
+      "oikTvd": "100100225883432"
+    }
   },
   {
     "uikNumber": 726,
     "uikTvd": "4144035571552",
     "tikTvd": "21420001074355",
-    "tikName": "Якутская городская"
+    "tikName": "Якутская городская",
+    "uikName": "УИК №726",
+    "regionCode": "14",
+    "regionTvd": "100100225883431",
+    "regionName": "Республика Саха (Якутия)",
+    "oikTvd": "100100225883432",
+    "oikName": "Республика Саха (Якутия) – Якутский",
+    "district": {
+      "districtNumber": 24,
+      "oikTvd": "100100225883432"
+    }
   },
   {
     "uikNumber": 727,
     "uikTvd": "4144035571553",
     "tikTvd": "21420001074355",
-    "tikName": "Якутская городская"
+    "tikName": "Якутская городская",
+    "uikName": "УИК №727",
+    "regionCode": "14",
+    "regionTvd": "100100225883431",
+    "regionName": "Республика Саха (Якутия)",
+    "oikTvd": "100100225883432",
+    "oikName": "Республика Саха (Якутия) – Якутский",
+    "district": {
+      "districtNumber": 24,
+      "oikTvd": "100100225883432"
+    }
   },
   {
     "uikNumber": 728,
     "uikTvd": "4144035571554",
     "tikTvd": "21420001074355",
-    "tikName": "Якутская городская"
+    "tikName": "Якутская городская",
+    "uikName": "УИК №728",
+    "regionCode": "14",
+    "regionTvd": "100100225883431",
+    "regionName": "Республика Саха (Якутия)",
+    "oikTvd": "100100225883432",
+    "oikName": "Республика Саха (Якутия) – Якутский",
+    "district": {
+      "districtNumber": 24,
+      "oikTvd": "100100225883432"
+    }
   },
   {
     "uikNumber": 729,
     "uikTvd": "4144035571555",
     "tikTvd": "21420001074355",
-    "tikName": "Якутская городская"
+    "tikName": "Якутская городская",
+    "uikName": "УИК №729",
+    "regionCode": "14",
+    "regionTvd": "100100225883431",
+    "regionName": "Республика Саха (Якутия)",
+    "oikTvd": "100100225883432",
+    "oikName": "Республика Саха (Якутия) – Якутский",
+    "district": {
+      "districtNumber": 24,
+      "oikTvd": "100100225883432"
+    }
   },
   {
     "uikNumber": 730,
     "uikTvd": "4144035571556",
     "tikTvd": "21420001074355",
-    "tikName": "Якутская городская"
+    "tikName": "Якутская городская",
+    "uikName": "УИК №730",
+    "regionCode": "14",
+    "regionTvd": "100100225883431",
+    "regionName": "Республика Саха (Якутия)",
+    "oikTvd": "100100225883432",
+    "oikName": "Республика Саха (Якутия) – Якутский",
+    "district": {
+      "districtNumber": 24,
+      "oikTvd": "100100225883432"
+    }
   },
   {
     "uikNumber": 731,
     "uikTvd": "4144035571557",
     "tikTvd": "21420001074355",
-    "tikName": "Якутская городская"
+    "tikName": "Якутская городская",
+    "uikName": "УИК №731",
+    "regionCode": "14",
+    "regionTvd": "100100225883431",
+    "regionName": "Республика Саха (Якутия)",
+    "oikTvd": "100100225883432",
+    "oikName": "Республика Саха (Якутия) – Якутский",
+    "district": {
+      "districtNumber": 24,
+      "oikTvd": "100100225883432"
+    }
   },
   {
     "uikNumber": 732,
     "uikTvd": "4144035571558",
     "tikTvd": "21420001074355",
-    "tikName": "Якутская городская"
+    "tikName": "Якутская городская",
+    "uikName": "УИК №732",
+    "regionCode": "14",
+    "regionTvd": "100100225883431",
+    "regionName": "Республика Саха (Якутия)",
+    "oikTvd": "100100225883432",
+    "oikName": "Республика Саха (Якутия) – Якутский",
+    "district": {
+      "districtNumber": 24,
+      "oikTvd": "100100225883432"
+    }
   },
   {
     "uikNumber": 733,
     "uikTvd": "4144035571559",
     "tikTvd": "21420001074355",
-    "tikName": "Якутская городская"
+    "tikName": "Якутская городская",
+    "uikName": "УИК №733",
+    "regionCode": "14",
+    "regionTvd": "100100225883431",
+    "regionName": "Республика Саха (Якутия)",
+    "oikTvd": "100100225883432",
+    "oikName": "Республика Саха (Якутия) – Якутский",
+    "district": {
+      "districtNumber": 24,
+      "oikTvd": "100100225883432"
+    }
   },
   {
     "uikNumber": 734,
     "uikTvd": "4144035571560",
     "tikTvd": "21420001074355",
-    "tikName": "Якутская городская"
+    "tikName": "Якутская городская",
+    "uikName": "УИК №734",
+    "regionCode": "14",
+    "regionTvd": "100100225883431",
+    "regionName": "Республика Саха (Якутия)",
+    "oikTvd": "100100225883432",
+    "oikName": "Республика Саха (Якутия) – Якутский",
+    "district": {
+      "districtNumber": 24,
+      "oikTvd": "100100225883432"
+    }
   },
   {
     "uikNumber": 735,
     "uikTvd": "4144035571561",
     "tikTvd": "21420001074355",
-    "tikName": "Якутская городская"
+    "tikName": "Якутская городская",
+    "uikName": "УИК №735",
+    "regionCode": "14",
+    "regionTvd": "100100225883431",
+    "regionName": "Республика Саха (Якутия)",
+    "oikTvd": "100100225883432",
+    "oikName": "Республика Саха (Якутия) – Якутский",
+    "district": {
+      "districtNumber": 24,
+      "oikTvd": "100100225883432"
+    }
   },
   {
     "uikNumber": 736,
     "uikTvd": "4144035571562",
     "tikTvd": "21420001074355",
-    "tikName": "Якутская городская"
+    "tikName": "Якутская городская",
+    "uikName": "УИК №736",
+    "regionCode": "14",
+    "regionTvd": "100100225883431",
+    "regionName": "Республика Саха (Якутия)",
+    "oikTvd": "100100225883432",
+    "oikName": "Республика Саха (Якутия) – Якутский",
+    "district": {
+      "districtNumber": 24,
+      "oikTvd": "100100225883432"
+    }
   },
   {
     "uikNumber": 737,
     "uikTvd": "4144035571563",
     "tikTvd": "21420001074355",
-    "tikName": "Якутская городская"
+    "tikName": "Якутская городская",
+    "uikName": "УИК №737",
+    "regionCode": "14",
+    "regionTvd": "100100225883431",
+    "regionName": "Республика Саха (Якутия)",
+    "oikTvd": "100100225883432",
+    "oikName": "Республика Саха (Якутия) – Якутский",
+    "district": {
+      "districtNumber": 24,
+      "oikTvd": "100100225883432"
+    }
   },
   {
     "uikNumber": 738,
     "uikTvd": "4144035571564",
     "tikTvd": "21420001074355",
-    "tikName": "Якутская городская"
+    "tikName": "Якутская городская",
+    "uikName": "УИК №738",
+    "regionCode": "14",
+    "regionTvd": "100100225883431",
+    "regionName": "Республика Саха (Якутия)",
+    "oikTvd": "100100225883432",
+    "oikName": "Республика Саха (Якутия) – Якутский",
+    "district": {
+      "districtNumber": 24,
+      "oikTvd": "100100225883432"
+    }
   },
   {
     "uikNumber": 739,
     "uikTvd": "4144035571565",
     "tikTvd": "21420001074355",
-    "tikName": "Якутская городская"
+    "tikName": "Якутская городская",
+    "uikName": "УИК №739",
+    "regionCode": "14",
+    "regionTvd": "100100225883431",
+    "regionName": "Республика Саха (Якутия)",
+    "oikTvd": "100100225883432",
+    "oikName": "Республика Саха (Якутия) – Якутский",
+    "district": {
+      "districtNumber": 24,
+      "oikTvd": "100100225883432"
+    }
   },
   {
     "uikNumber": 740,
     "uikTvd": "4144035571566",
     "tikTvd": "21420001074355",
-    "tikName": "Якутская городская"
+    "tikName": "Якутская городская",
+    "uikName": "УИК №740",
+    "regionCode": "14",
+    "regionTvd": "100100225883431",
+    "regionName": "Республика Саха (Якутия)",
+    "oikTvd": "100100225883432",
+    "oikName": "Республика Саха (Якутия) – Якутский",
+    "district": {
+      "districtNumber": 24,
+      "oikTvd": "100100225883432"
+    }
   },
   {
     "uikNumber": 741,
     "uikTvd": "4144035571567",
     "tikTvd": "21420001074355",
-    "tikName": "Якутская городская"
+    "tikName": "Якутская городская",
+    "uikName": "УИК №741",
+    "regionCode": "14",
+    "regionTvd": "100100225883431",
+    "regionName": "Республика Саха (Якутия)",
+    "oikTvd": "100100225883432",
+    "oikName": "Республика Саха (Якутия) – Якутский",
+    "district": {
+      "districtNumber": 24,
+      "oikTvd": "100100225883432"
+    }
   },
   {
     "uikNumber": 742,
     "uikTvd": "4144035571568",
     "tikTvd": "21420001074355",
-    "tikName": "Якутская городская"
+    "tikName": "Якутская городская",
+    "uikName": "УИК №742",
+    "regionCode": "14",
+    "regionTvd": "100100225883431",
+    "regionName": "Республика Саха (Якутия)",
+    "oikTvd": "100100225883432",
+    "oikName": "Республика Саха (Якутия) – Якутский",
+    "district": {
+      "districtNumber": 24,
+      "oikTvd": "100100225883432"
+    }
   },
   {
     "uikNumber": 743,
     "uikTvd": "4144035571569",
     "tikTvd": "21420001074355",
-    "tikName": "Якутская городская"
+    "tikName": "Якутская городская",
+    "uikName": "УИК №743",
+    "regionCode": "14",
+    "regionTvd": "100100225883431",
+    "regionName": "Республика Саха (Якутия)",
+    "oikTvd": "100100225883432",
+    "oikName": "Республика Саха (Якутия) – Якутский",
+    "district": {
+      "districtNumber": 24,
+      "oikTvd": "100100225883432"
+    }
   },
   {
     "uikNumber": 744,
     "uikTvd": "4144035571570",
     "tikTvd": "21420001074355",
-    "tikName": "Якутская городская"
+    "tikName": "Якутская городская",
+    "uikName": "УИК №744",
+    "regionCode": "14",
+    "regionTvd": "100100225883431",
+    "regionName": "Республика Саха (Якутия)",
+    "oikTvd": "100100225883432",
+    "oikName": "Республика Саха (Якутия) – Якутский",
+    "district": {
+      "districtNumber": 24,
+      "oikTvd": "100100225883432"
+    }
   },
   {
     "uikNumber": 745,
     "uikTvd": "4144035571571",
     "tikTvd": "21420001074355",
-    "tikName": "Якутская городская"
+    "tikName": "Якутская городская",
+    "uikName": "УИК №745",
+    "regionCode": "14",
+    "regionTvd": "100100225883431",
+    "regionName": "Республика Саха (Якутия)",
+    "oikTvd": "100100225883432",
+    "oikName": "Республика Саха (Якутия) – Якутский",
+    "district": {
+      "districtNumber": 24,
+      "oikTvd": "100100225883432"
+    }
   },
   {
     "uikNumber": 746,
     "uikTvd": "4144035571572",
     "tikTvd": "21420001074355",
-    "tikName": "Якутская городская"
+    "tikName": "Якутская городская",
+    "uikName": "УИК №746",
+    "regionCode": "14",
+    "regionTvd": "100100225883431",
+    "regionName": "Республика Саха (Якутия)",
+    "oikTvd": "100100225883432",
+    "oikName": "Республика Саха (Якутия) – Якутский",
+    "district": {
+      "districtNumber": 24,
+      "oikTvd": "100100225883432"
+    }
   },
   {
     "uikNumber": 747,
     "uikTvd": "4144035571573",
     "tikTvd": "21420001074355",
-    "tikName": "Якутская городская"
+    "tikName": "Якутская городская",
+    "uikName": "УИК №747",
+    "regionCode": "14",
+    "regionTvd": "100100225883431",
+    "regionName": "Республика Саха (Якутия)",
+    "oikTvd": "100100225883432",
+    "oikName": "Республика Саха (Якутия) – Якутский",
+    "district": {
+      "districtNumber": 24,
+      "oikTvd": "100100225883432"
+    }
   },
   {
     "uikNumber": 748,
     "uikTvd": "4144035571574",
     "tikTvd": "21420001074355",
-    "tikName": "Якутская городская"
+    "tikName": "Якутская городская",
+    "uikName": "УИК №748",
+    "regionCode": "14",
+    "regionTvd": "100100225883431",
+    "regionName": "Республика Саха (Якутия)",
+    "oikTvd": "100100225883432",
+    "oikName": "Республика Саха (Якутия) – Якутский",
+    "district": {
+      "districtNumber": 24,
+      "oikTvd": "100100225883432"
+    }
   },
   {
     "uikNumber": 749,
     "uikTvd": "4144035571575",
     "tikTvd": "21420001074355",
-    "tikName": "Якутская городская"
+    "tikName": "Якутская городская",
+    "uikName": "УИК №749",
+    "regionCode": "14",
+    "regionTvd": "100100225883431",
+    "regionName": "Республика Саха (Якутия)",
+    "oikTvd": "100100225883432",
+    "oikName": "Республика Саха (Якутия) – Якутский",
+    "district": {
+      "districtNumber": 24,
+      "oikTvd": "100100225883432"
+    }
   },
   {
     "uikNumber": 750,
     "uikTvd": "4144035571576",
     "tikTvd": "21420001074355",
-    "tikName": "Якутская городская"
+    "tikName": "Якутская городская",
+    "uikName": "УИК №750",
+    "regionCode": "14",
+    "regionTvd": "100100225883431",
+    "regionName": "Республика Саха (Якутия)",
+    "oikTvd": "100100225883432",
+    "oikName": "Республика Саха (Якутия) – Якутский",
+    "district": {
+      "districtNumber": 24,
+      "oikTvd": "100100225883432"
+    }
   },
   {
     "uikNumber": 751,
     "uikTvd": "4144035571577",
     "tikTvd": "21420001074355",
-    "tikName": "Якутская городская"
+    "tikName": "Якутская городская",
+    "uikName": "УИК №751",
+    "regionCode": "14",
+    "regionTvd": "100100225883431",
+    "regionName": "Республика Саха (Якутия)",
+    "oikTvd": "100100225883432",
+    "oikName": "Республика Саха (Якутия) – Якутский",
+    "district": {
+      "districtNumber": 24,
+      "oikTvd": "100100225883432"
+    }
   },
   {
     "uikNumber": 752,
     "uikTvd": "4144035571578",
     "tikTvd": "21420001074355",
-    "tikName": "Якутская городская"
+    "tikName": "Якутская городская",
+    "uikName": "УИК №752",
+    "regionCode": "14",
+    "regionTvd": "100100225883431",
+    "regionName": "Республика Саха (Якутия)",
+    "oikTvd": "100100225883432",
+    "oikName": "Республика Саха (Якутия) – Якутский",
+    "district": {
+      "districtNumber": 24,
+      "oikTvd": "100100225883432"
+    }
   },
   {
     "uikNumber": 753,
     "uikTvd": "4144035571579",
     "tikTvd": "21420001074355",
-    "tikName": "Якутская городская"
+    "tikName": "Якутская городская",
+    "uikName": "УИК №753",
+    "regionCode": "14",
+    "regionTvd": "100100225883431",
+    "regionName": "Республика Саха (Якутия)",
+    "oikTvd": "100100225883432",
+    "oikName": "Республика Саха (Якутия) – Якутский",
+    "district": {
+      "districtNumber": 24,
+      "oikTvd": "100100225883432"
+    }
   },
   {
     "uikNumber": 754,
     "uikTvd": "4144035571580",
     "tikTvd": "21420001074355",
-    "tikName": "Якутская городская"
+    "tikName": "Якутская городская",
+    "uikName": "УИК №754",
+    "regionCode": "14",
+    "regionTvd": "100100225883431",
+    "regionName": "Республика Саха (Якутия)",
+    "oikTvd": "100100225883432",
+    "oikName": "Республика Саха (Якутия) – Якутский",
+    "district": {
+      "districtNumber": 24,
+      "oikTvd": "100100225883432"
+    }
   },
   {
     "uikNumber": 755,
     "uikTvd": "4144035571581",
     "tikTvd": "21420001074355",
-    "tikName": "Якутская городская"
+    "tikName": "Якутская городская",
+    "uikName": "УИК №755",
+    "regionCode": "14",
+    "regionTvd": "100100225883431",
+    "regionName": "Республика Саха (Якутия)",
+    "oikTvd": "100100225883432",
+    "oikName": "Республика Саха (Якутия) – Якутский",
+    "district": {
+      "districtNumber": 24,
+      "oikTvd": "100100225883432"
+    }
   },
   {
     "uikNumber": 756,
     "uikTvd": "4144035571582",
     "tikTvd": "21420001074355",
-    "tikName": "Якутская городская"
+    "tikName": "Якутская городская",
+    "uikName": "УИК №756",
+    "regionCode": "14",
+    "regionTvd": "100100225883431",
+    "regionName": "Республика Саха (Якутия)",
+    "oikTvd": "100100225883432",
+    "oikName": "Республика Саха (Якутия) – Якутский",
+    "district": {
+      "districtNumber": 24,
+      "oikTvd": "100100225883432"
+    }
   },
   {
     "uikNumber": 757,
     "uikTvd": "4144035571583",
     "tikTvd": "21420001074355",
-    "tikName": "Якутская городская"
+    "tikName": "Якутская городская",
+    "uikName": "УИК №757",
+    "regionCode": "14",
+    "regionTvd": "100100225883431",
+    "regionName": "Республика Саха (Якутия)",
+    "oikTvd": "100100225883432",
+    "oikName": "Республика Саха (Якутия) – Якутский",
+    "district": {
+      "districtNumber": 24,
+      "oikTvd": "100100225883432"
+    }
   },
   {
     "uikNumber": 758,
     "uikTvd": "4144035571584",
     "tikTvd": "21420001074355",
-    "tikName": "Якутская городская"
+    "tikName": "Якутская городская",
+    "uikName": "УИК №758",
+    "regionCode": "14",
+    "regionTvd": "100100225883431",
+    "regionName": "Республика Саха (Якутия)",
+    "oikTvd": "100100225883432",
+    "oikName": "Республика Саха (Якутия) – Якутский",
+    "district": {
+      "districtNumber": 24,
+      "oikTvd": "100100225883432"
+    }
   },
   {
     "uikNumber": 759,
     "uikTvd": "4144035571585",
     "tikTvd": "21420001074355",
-    "tikName": "Якутская городская"
+    "tikName": "Якутская городская",
+    "uikName": "УИК №759",
+    "regionCode": "14",
+    "regionTvd": "100100225883431",
+    "regionName": "Республика Саха (Якутия)",
+    "oikTvd": "100100225883432",
+    "oikName": "Республика Саха (Якутия) – Якутский",
+    "district": {
+      "districtNumber": 24,
+      "oikTvd": "100100225883432"
+    }
   },
   {
     "uikNumber": 760,
     "uikTvd": "4144035571586",
     "tikTvd": "21420001074355",
-    "tikName": "Якутская городская"
+    "tikName": "Якутская городская",
+    "uikName": "УИК №760",
+    "regionCode": "14",
+    "regionTvd": "100100225883431",
+    "regionName": "Республика Саха (Якутия)",
+    "oikTvd": "100100225883432",
+    "oikName": "Республика Саха (Якутия) – Якутский",
+    "district": {
+      "districtNumber": 24,
+      "oikTvd": "100100225883432"
+    }
   },
   {
     "uikNumber": 761,
     "uikTvd": "4144035571587",
     "tikTvd": "21420001074355",
-    "tikName": "Якутская городская"
+    "tikName": "Якутская городская",
+    "uikName": "УИК №761",
+    "regionCode": "14",
+    "regionTvd": "100100225883431",
+    "regionName": "Республика Саха (Якутия)",
+    "oikTvd": "100100225883432",
+    "oikName": "Республика Саха (Якутия) – Якутский",
+    "district": {
+      "districtNumber": 24,
+      "oikTvd": "100100225883432"
+    }
   },
   {
     "uikNumber": 762,
     "uikTvd": "4144035571588",
     "tikTvd": "21420001074355",
-    "tikName": "Якутская городская"
+    "tikName": "Якутская городская",
+    "uikName": "УИК №762",
+    "regionCode": "14",
+    "regionTvd": "100100225883431",
+    "regionName": "Республика Саха (Якутия)",
+    "oikTvd": "100100225883432",
+    "oikName": "Республика Саха (Якутия) – Якутский",
+    "district": {
+      "districtNumber": 24,
+      "oikTvd": "100100225883432"
+    }
   },
   {
     "uikNumber": 763,
     "uikTvd": "4144035571589",
     "tikTvd": "21420001074355",
-    "tikName": "Якутская городская"
+    "tikName": "Якутская городская",
+    "uikName": "УИК №763",
+    "regionCode": "14",
+    "regionTvd": "100100225883431",
+    "regionName": "Республика Саха (Якутия)",
+    "oikTvd": "100100225883432",
+    "oikName": "Республика Саха (Якутия) – Якутский",
+    "district": {
+      "districtNumber": 24,
+      "oikTvd": "100100225883432"
+    }
   },
   {
     "uikNumber": 764,
     "uikTvd": "4144035571590",
     "tikTvd": "21420001074355",
-    "tikName": "Якутская городская"
+    "tikName": "Якутская городская",
+    "uikName": "УИК №764",
+    "regionCode": "14",
+    "regionTvd": "100100225883431",
+    "regionName": "Республика Саха (Якутия)",
+    "oikTvd": "100100225883432",
+    "oikName": "Республика Саха (Якутия) – Якутский",
+    "district": {
+      "districtNumber": 24,
+      "oikTvd": "100100225883432"
+    }
   },
   {
     "uikNumber": 765,
     "uikTvd": "4144035571591",
     "tikTvd": "21420001074355",
-    "tikName": "Якутская городская"
+    "tikName": "Якутская городская",
+    "uikName": "УИК №765",
+    "regionCode": "14",
+    "regionTvd": "100100225883431",
+    "regionName": "Республика Саха (Якутия)",
+    "oikTvd": "100100225883432",
+    "oikName": "Республика Саха (Якутия) – Якутский",
+    "district": {
+      "districtNumber": 24,
+      "oikTvd": "100100225883432"
+    }
   },
   {
     "uikNumber": 766,
     "uikTvd": "4144035571592",
     "tikTvd": "21420001074355",
-    "tikName": "Якутская городская"
+    "tikName": "Якутская городская",
+    "uikName": "УИК №766",
+    "regionCode": "14",
+    "regionTvd": "100100225883431",
+    "regionName": "Республика Саха (Якутия)",
+    "oikTvd": "100100225883432",
+    "oikName": "Республика Саха (Якутия) – Якутский",
+    "district": {
+      "districtNumber": 24,
+      "oikTvd": "100100225883432"
+    }
   },
   {
     "uikNumber": 767,
     "uikTvd": "4144035571593",
     "tikTvd": "21420001074355",
-    "tikName": "Якутская городская"
+    "tikName": "Якутская городская",
+    "uikName": "УИК №767",
+    "regionCode": "14",
+    "regionTvd": "100100225883431",
+    "regionName": "Республика Саха (Якутия)",
+    "oikTvd": "100100225883432",
+    "oikName": "Республика Саха (Якутия) – Якутский",
+    "district": {
+      "districtNumber": 24,
+      "oikTvd": "100100225883432"
+    }
   },
   {
     "uikNumber": 768,
     "uikTvd": "4144035571594",
     "tikTvd": "21420001074355",
-    "tikName": "Якутская городская"
+    "tikName": "Якутская городская",
+    "uikName": "УИК №768",
+    "regionCode": "14",
+    "regionTvd": "100100225883431",
+    "regionName": "Республика Саха (Якутия)",
+    "oikTvd": "100100225883432",
+    "oikName": "Республика Саха (Якутия) – Якутский",
+    "district": {
+      "districtNumber": 24,
+      "oikTvd": "100100225883432"
+    }
   },
   {
     "uikNumber": 769,
     "uikTvd": "4144035571595",
     "tikTvd": "21420001074355",
-    "tikName": "Якутская городская"
+    "tikName": "Якутская городская",
+    "uikName": "УИК №769",
+    "regionCode": "14",
+    "regionTvd": "100100225883431",
+    "regionName": "Республика Саха (Якутия)",
+    "oikTvd": "100100225883432",
+    "oikName": "Республика Саха (Якутия) – Якутский",
+    "district": {
+      "districtNumber": 24,
+      "oikTvd": "100100225883432"
+    }
   },
   {
     "uikNumber": 770,
     "uikTvd": "4144035571596",
     "tikTvd": "21420001074355",
-    "tikName": "Якутская городская"
+    "tikName": "Якутская городская",
+    "uikName": "УИК №770",
+    "regionCode": "14",
+    "regionTvd": "100100225883431",
+    "regionName": "Республика Саха (Якутия)",
+    "oikTvd": "100100225883432",
+    "oikName": "Республика Саха (Якутия) – Якутский",
+    "district": {
+      "districtNumber": 24,
+      "oikTvd": "100100225883432"
+    }
   },
   {
     "uikNumber": 771,
     "uikTvd": "4144035571597",
     "tikTvd": "21420001074355",
-    "tikName": "Якутская городская"
+    "tikName": "Якутская городская",
+    "uikName": "УИК №771",
+    "regionCode": "14",
+    "regionTvd": "100100225883431",
+    "regionName": "Республика Саха (Якутия)",
+    "oikTvd": "100100225883432",
+    "oikName": "Республика Саха (Якутия) – Якутский",
+    "district": {
+      "districtNumber": 24,
+      "oikTvd": "100100225883432"
+    }
   },
   {
     "uikNumber": 772,
     "uikTvd": "4144035571598",
     "tikTvd": "21420001074355",
-    "tikName": "Якутская городская"
+    "tikName": "Якутская городская",
+    "uikName": "УИК №772",
+    "regionCode": "14",
+    "regionTvd": "100100225883431",
+    "regionName": "Республика Саха (Якутия)",
+    "oikTvd": "100100225883432",
+    "oikName": "Республика Саха (Якутия) – Якутский",
+    "district": {
+      "districtNumber": 24,
+      "oikTvd": "100100225883432"
+    }
   },
   {
     "uikNumber": 773,
     "uikTvd": "4144035571599",
     "tikTvd": "21420001074355",
-    "tikName": "Якутская городская"
+    "tikName": "Якутская городская",
+    "uikName": "УИК №773",
+    "regionCode": "14",
+    "regionTvd": "100100225883431",
+    "regionName": "Республика Саха (Якутия)",
+    "oikTvd": "100100225883432",
+    "oikName": "Республика Саха (Якутия) – Якутский",
+    "district": {
+      "districtNumber": 24,
+      "oikTvd": "100100225883432"
+    }
   },
   {
     "uikNumber": 774,
     "uikTvd": "4144035571600",
     "tikTvd": "21420001074355",
-    "tikName": "Якутская городская"
+    "tikName": "Якутская городская",
+    "uikName": "УИК №774",
+    "regionCode": "14",
+    "regionTvd": "100100225883431",
+    "regionName": "Республика Саха (Якутия)",
+    "oikTvd": "100100225883432",
+    "oikName": "Республика Саха (Якутия) – Якутский",
+    "district": {
+      "districtNumber": 24,
+      "oikTvd": "100100225883432"
+    }
   },
   {
     "uikNumber": 775,
     "uikTvd": "4144035571601",
     "tikTvd": "21420001074355",
-    "tikName": "Якутская городская"
+    "tikName": "Якутская городская",
+    "uikName": "УИК №775",
+    "regionCode": "14",
+    "regionTvd": "100100225883431",
+    "regionName": "Республика Саха (Якутия)",
+    "oikTvd": "100100225883432",
+    "oikName": "Республика Саха (Якутия) – Якутский",
+    "district": {
+      "districtNumber": 24,
+      "oikTvd": "100100225883432"
+    }
   },
   {
     "uikNumber": 776,
     "uikTvd": "4144035571602",
     "tikTvd": "21420001074355",
-    "tikName": "Якутская городская"
+    "tikName": "Якутская городская",
+    "uikName": "УИК №776",
+    "regionCode": "14",
+    "regionTvd": "100100225883431",
+    "regionName": "Республика Саха (Якутия)",
+    "oikTvd": "100100225883432",
+    "oikName": "Республика Саха (Якутия) – Якутский",
+    "district": {
+      "districtNumber": 24,
+      "oikTvd": "100100225883432"
+    }
   },
   {
     "uikNumber": 777,
     "uikTvd": "4144035571603",
     "tikTvd": "21420001074355",
-    "tikName": "Якутская городская"
+    "tikName": "Якутская городская",
+    "uikName": "УИК №777",
+    "regionCode": "14",
+    "regionTvd": "100100225883431",
+    "regionName": "Республика Саха (Якутия)",
+    "oikTvd": "100100225883432",
+    "oikName": "Республика Саха (Якутия) – Якутский",
+    "district": {
+      "districtNumber": 24,
+      "oikTvd": "100100225883432"
+    }
   },
   {
     "uikNumber": 778,
     "uikTvd": "4144035571604",
     "tikTvd": "21420001074355",
-    "tikName": "Якутская городская"
+    "tikName": "Якутская городская",
+    "uikName": "УИК №778",
+    "regionCode": "14",
+    "regionTvd": "100100225883431",
+    "regionName": "Республика Саха (Якутия)",
+    "oikTvd": "100100225883432",
+    "oikName": "Республика Саха (Якутия) – Якутский",
+    "district": {
+      "districtNumber": 24,
+      "oikTvd": "100100225883432"
+    }
   },
   {
     "uikNumber": 779,
     "uikTvd": "4144035571605",
     "tikTvd": "21420001074355",
-    "tikName": "Якутская городская"
+    "tikName": "Якутская городская",
+    "uikName": "УИК №779",
+    "regionCode": "14",
+    "regionTvd": "100100225883431",
+    "regionName": "Республика Саха (Якутия)",
+    "oikTvd": "100100225883432",
+    "oikName": "Республика Саха (Якутия) – Якутский",
+    "district": {
+      "districtNumber": 24,
+      "oikTvd": "100100225883432"
+    }
   },
   {
     "uikNumber": 780,
     "uikTvd": "4144035571606",
     "tikTvd": "21420001074355",
-    "tikName": "Якутская городская"
+    "tikName": "Якутская городская",
+    "uikName": "УИК №780",
+    "regionCode": "14",
+    "regionTvd": "100100225883431",
+    "regionName": "Республика Саха (Якутия)",
+    "oikTvd": "100100225883432",
+    "oikName": "Республика Саха (Якутия) – Якутский",
+    "district": {
+      "districtNumber": 24,
+      "oikTvd": "100100225883432"
+    }
   },
   {
     "uikNumber": 781,
     "uikTvd": "4144035571607",
     "tikTvd": "21420001074355",
-    "tikName": "Якутская городская"
+    "tikName": "Якутская городская",
+    "uikName": "УИК №781",
+    "regionCode": "14",
+    "regionTvd": "100100225883431",
+    "regionName": "Республика Саха (Якутия)",
+    "oikTvd": "100100225883432",
+    "oikName": "Республика Саха (Якутия) – Якутский",
+    "district": {
+      "districtNumber": 24,
+      "oikTvd": "100100225883432"
+    }
   },
   {
     "uikNumber": 782,
     "uikTvd": "4144035571608",
     "tikTvd": "21420001074355",
-    "tikName": "Якутская городская"
+    "tikName": "Якутская городская",
+    "uikName": "УИК №782",
+    "regionCode": "14",
+    "regionTvd": "100100225883431",
+    "regionName": "Республика Саха (Якутия)",
+    "oikTvd": "100100225883432",
+    "oikName": "Республика Саха (Якутия) – Якутский",
+    "district": {
+      "districtNumber": 24,
+      "oikTvd": "100100225883432"
+    }
   },
   {
     "uikNumber": 783,
     "uikTvd": "4144035571609",
     "tikTvd": "21420001074355",
-    "tikName": "Якутская городская"
+    "tikName": "Якутская городская",
+    "uikName": "УИК №783",
+    "regionCode": "14",
+    "regionTvd": "100100225883431",
+    "regionName": "Республика Саха (Якутия)",
+    "oikTvd": "100100225883432",
+    "oikName": "Республика Саха (Якутия) – Якутский",
+    "district": {
+      "districtNumber": 24,
+      "oikTvd": "100100225883432"
+    }
   },
   {
     "uikNumber": 784,
     "uikTvd": "4144035571610",
     "tikTvd": "21420001074355",
-    "tikName": "Якутская городская"
+    "tikName": "Якутская городская",
+    "uikName": "УИК №784",
+    "regionCode": "14",
+    "regionTvd": "100100225883431",
+    "regionName": "Республика Саха (Якутия)",
+    "oikTvd": "100100225883432",
+    "oikName": "Республика Саха (Якутия) – Якутский",
+    "district": {
+      "districtNumber": 24,
+      "oikTvd": "100100225883432"
+    }
   },
   {
     "uikNumber": 785,
     "uikTvd": "4144035571611",
     "tikTvd": "21420001074355",
-    "tikName": "Якутская городская"
+    "tikName": "Якутская городская",
+    "uikName": "УИК №785",
+    "regionCode": "14",
+    "regionTvd": "100100225883431",
+    "regionName": "Республика Саха (Якутия)",
+    "oikTvd": "100100225883432",
+    "oikName": "Республика Саха (Якутия) – Якутский",
+    "district": {
+      "districtNumber": 24,
+      "oikTvd": "100100225883432"
+    }
   },
   {
     "uikNumber": 786,
     "uikTvd": "4144035571612",
     "tikTvd": "21420001074355",
-    "tikName": "Якутская городская"
+    "tikName": "Якутская городская",
+    "uikName": "УИК №786",
+    "regionCode": "14",
+    "regionTvd": "100100225883431",
+    "regionName": "Республика Саха (Якутия)",
+    "oikTvd": "100100225883432",
+    "oikName": "Республика Саха (Якутия) – Якутский",
+    "district": {
+      "districtNumber": 24,
+      "oikTvd": "100100225883432"
+    }
   },
   {
     "uikNumber": 787,
     "uikTvd": "4144035571613",
     "tikTvd": "21420001074355",
-    "tikName": "Якутская городская"
+    "tikName": "Якутская городская",
+    "uikName": "УИК №787",
+    "regionCode": "14",
+    "regionTvd": "100100225883431",
+    "regionName": "Республика Саха (Якутия)",
+    "oikTvd": "100100225883432",
+    "oikName": "Республика Саха (Якутия) – Якутский",
+    "district": {
+      "districtNumber": 24,
+      "oikTvd": "100100225883432"
+    }
   },
   {
     "uikNumber": 788,
     "uikTvd": "4144035571614",
     "tikTvd": "21420001074355",
-    "tikName": "Якутская городская"
+    "tikName": "Якутская городская",
+    "uikName": "УИК №788",
+    "regionCode": "14",
+    "regionTvd": "100100225883431",
+    "regionName": "Республика Саха (Якутия)",
+    "oikTvd": "100100225883432",
+    "oikName": "Республика Саха (Якутия) – Якутский",
+    "district": {
+      "districtNumber": 24,
+      "oikTvd": "100100225883432"
+    }
   },
   {
     "uikNumber": 789,
     "uikTvd": "4144035571615",
     "tikTvd": "21420001074355",
-    "tikName": "Якутская городская"
+    "tikName": "Якутская городская",
+    "uikName": "УИК №789",
+    "regionCode": "14",
+    "regionTvd": "100100225883431",
+    "regionName": "Республика Саха (Якутия)",
+    "oikTvd": "100100225883432",
+    "oikName": "Республика Саха (Якутия) – Якутский",
+    "district": {
+      "districtNumber": 24,
+      "oikTvd": "100100225883432"
+    }
   },
   {
     "uikNumber": 790,
     "uikTvd": "4144035571616",
     "tikTvd": "21420001074355",
-    "tikName": "Якутская городская"
+    "tikName": "Якутская городская",
+    "uikName": "УИК №790",
+    "regionCode": "14",
+    "regionTvd": "100100225883431",
+    "regionName": "Республика Саха (Якутия)",
+    "oikTvd": "100100225883432",
+    "oikName": "Республика Саха (Якутия) – Якутский",
+    "district": {
+      "districtNumber": 24,
+      "oikTvd": "100100225883432"
+    }
   },
   {
     "uikNumber": 791,
     "uikTvd": "4144035571617",
     "tikTvd": "21420001074355",
-    "tikName": "Якутская городская"
+    "tikName": "Якутская городская",
+    "uikName": "УИК №791",
+    "regionCode": "14",
+    "regionTvd": "100100225883431",
+    "regionName": "Республика Саха (Якутия)",
+    "oikTvd": "100100225883432",
+    "oikName": "Республика Саха (Якутия) – Якутский",
+    "district": {
+      "districtNumber": 24,
+      "oikTvd": "100100225883432"
+    }
   },
   {
     "uikNumber": 792,
     "uikTvd": "4144035571618",
     "tikTvd": "21420001074355",
-    "tikName": "Якутская городская"
+    "tikName": "Якутская городская",
+    "uikName": "УИК №792",
+    "regionCode": "14",
+    "regionTvd": "100100225883431",
+    "regionName": "Республика Саха (Якутия)",
+    "oikTvd": "100100225883432",
+    "oikName": "Республика Саха (Якутия) – Якутский",
+    "district": {
+      "districtNumber": 24,
+      "oikTvd": "100100225883432"
+    }
   },
   {
     "uikNumber": 793,
     "uikTvd": "4144035571619",
     "tikTvd": "21420001074355",
-    "tikName": "Якутская городская"
+    "tikName": "Якутская городская",
+    "uikName": "УИК №793",
+    "regionCode": "14",
+    "regionTvd": "100100225883431",
+    "regionName": "Республика Саха (Якутия)",
+    "oikTvd": "100100225883432",
+    "oikName": "Республика Саха (Якутия) – Якутский",
+    "district": {
+      "districtNumber": 24,
+      "oikTvd": "100100225883432"
+    }
   },
   {
     "uikNumber": 794,
     "uikTvd": "4144035571620",
     "tikTvd": "21420001074355",
-    "tikName": "Якутская городская"
+    "tikName": "Якутская городская",
+    "uikName": "УИК №794",
+    "regionCode": "14",
+    "regionTvd": "100100225883431",
+    "regionName": "Республика Саха (Якутия)",
+    "oikTvd": "100100225883432",
+    "oikName": "Республика Саха (Якутия) – Якутский",
+    "district": {
+      "districtNumber": 24,
+      "oikTvd": "100100225883432"
+    }
   },
   {
     "uikNumber": 795,
     "uikTvd": "4144035571621",
     "tikTvd": "21420001074355",
-    "tikName": "Якутская городская"
+    "tikName": "Якутская городская",
+    "uikName": "УИК №795",
+    "regionCode": "14",
+    "regionTvd": "100100225883431",
+    "regionName": "Республика Саха (Якутия)",
+    "oikTvd": "100100225883432",
+    "oikName": "Республика Саха (Якутия) – Якутский",
+    "district": {
+      "districtNumber": 24,
+      "oikTvd": "100100225883432"
+    }
   },
   {
     "uikNumber": 796,
     "uikTvd": "4144035571622",
     "tikTvd": "21420001074355",
-    "tikName": "Якутская городская"
+    "tikName": "Якутская городская",
+    "uikName": "УИК №796",
+    "regionCode": "14",
+    "regionTvd": "100100225883431",
+    "regionName": "Республика Саха (Якутия)",
+    "oikTvd": "100100225883432",
+    "oikName": "Республика Саха (Якутия) – Якутский",
+    "district": {
+      "districtNumber": 24,
+      "oikTvd": "100100225883432"
+    }
   },
   {
     "uikNumber": 797,
     "uikTvd": "4144035571623",
     "tikTvd": "21420001074355",
-    "tikName": "Якутская городская"
+    "tikName": "Якутская городская",
+    "uikName": "УИК №797",
+    "regionCode": "14",
+    "regionTvd": "100100225883431",
+    "regionName": "Республика Саха (Якутия)",
+    "oikTvd": "100100225883432",
+    "oikName": "Республика Саха (Якутия) – Якутский",
+    "district": {
+      "districtNumber": 24,
+      "oikTvd": "100100225883432"
+    }
   },
   {
     "uikNumber": 798,
     "uikTvd": "4144035571624",
     "tikTvd": "21420001074355",
-    "tikName": "Якутская городская"
+    "tikName": "Якутская городская",
+    "uikName": "УИК №798",
+    "regionCode": "14",
+    "regionTvd": "100100225883431",
+    "regionName": "Республика Саха (Якутия)",
+    "oikTvd": "100100225883432",
+    "oikName": "Республика Саха (Якутия) – Якутский",
+    "district": {
+      "districtNumber": 24,
+      "oikTvd": "100100225883432"
+    }
   },
   {
     "uikNumber": 799,
     "uikTvd": "4144035571625",
     "tikTvd": "21420001074355",
-    "tikName": "Якутская городская"
+    "tikName": "Якутская городская",
+    "uikName": "УИК №799",
+    "regionCode": "14",
+    "regionTvd": "100100225883431",
+    "regionName": "Республика Саха (Якутия)",
+    "oikTvd": "100100225883432",
+    "oikName": "Республика Саха (Якутия) – Якутский",
+    "district": {
+      "districtNumber": 24,
+      "oikTvd": "100100225883432"
+    }
   },
   {
     "uikNumber": 800,
     "uikTvd": "4144035571626",
     "tikTvd": "21420001074355",
-    "tikName": "Якутская городская"
+    "tikName": "Якутская городская",
+    "uikName": "УИК №800",
+    "regionCode": "14",
+    "regionTvd": "100100225883431",
+    "regionName": "Республика Саха (Якутия)",
+    "oikTvd": "100100225883432",
+    "oikName": "Республика Саха (Якутия) – Якутский",
+    "district": {
+      "districtNumber": 24,
+      "oikTvd": "100100225883432"
+    }
   },
   {
     "uikNumber": 801,
     "uikTvd": "4144035571627",
     "tikTvd": "21420001074355",
-    "tikName": "Якутская городская"
+    "tikName": "Якутская городская",
+    "uikName": "УИК №801",
+    "regionCode": "14",
+    "regionTvd": "100100225883431",
+    "regionName": "Республика Саха (Якутия)",
+    "oikTvd": "100100225883432",
+    "oikName": "Республика Саха (Якутия) – Якутский",
+    "district": {
+      "districtNumber": 24,
+      "oikTvd": "100100225883432"
+    }
   },
   {
     "uikNumber": 802,
     "uikTvd": "4144035571628",
     "tikTvd": "21420001074355",
-    "tikName": "Якутская городская"
+    "tikName": "Якутская городская",
+    "uikName": "УИК №802",
+    "regionCode": "14",
+    "regionTvd": "100100225883431",
+    "regionName": "Республика Саха (Якутия)",
+    "oikTvd": "100100225883432",
+    "oikName": "Республика Саха (Якутия) – Якутский",
+    "district": {
+      "districtNumber": 24,
+      "oikTvd": "100100225883432"
+    }
   },
   {
     "uikNumber": 803,
     "uikTvd": "4144035571629",
     "tikTvd": "21420001074355",
-    "tikName": "Якутская городская"
+    "tikName": "Якутская городская",
+    "uikName": "УИК №803",
+    "regionCode": "14",
+    "regionTvd": "100100225883431",
+    "regionName": "Республика Саха (Якутия)",
+    "oikTvd": "100100225883432",
+    "oikName": "Республика Саха (Якутия) – Якутский",
+    "district": {
+      "districtNumber": 24,
+      "oikTvd": "100100225883432"
+    }
   },
   {
     "uikNumber": 804,
     "uikTvd": "4144035571630",
     "tikTvd": "21420001074355",
-    "tikName": "Якутская городская"
+    "tikName": "Якутская городская",
+    "uikName": "УИК №804",
+    "regionCode": "14",
+    "regionTvd": "100100225883431",
+    "regionName": "Республика Саха (Якутия)",
+    "oikTvd": "100100225883432",
+    "oikName": "Республика Саха (Якутия) – Якутский",
+    "district": {
+      "districtNumber": 24,
+      "oikTvd": "100100225883432"
+    }
   },
   {
     "uikNumber": 805,
     "uikTvd": "4144035571631",
     "tikTvd": "21420001074355",
-    "tikName": "Якутская городская"
+    "tikName": "Якутская городская",
+    "uikName": "УИК №805",
+    "regionCode": "14",
+    "regionTvd": "100100225883431",
+    "regionName": "Республика Саха (Якутия)",
+    "oikTvd": "100100225883432",
+    "oikName": "Республика Саха (Якутия) – Якутский",
+    "district": {
+      "districtNumber": 24,
+      "oikTvd": "100100225883432"
+    }
   },
   {
     "uikNumber": 806,
     "uikTvd": "4144035571632",
     "tikTvd": "21420001074355",
-    "tikName": "Якутская городская"
+    "tikName": "Якутская городская",
+    "uikName": "УИК №806",
+    "regionCode": "14",
+    "regionTvd": "100100225883431",
+    "regionName": "Республика Саха (Якутия)",
+    "oikTvd": "100100225883432",
+    "oikName": "Республика Саха (Якутия) – Якутский",
+    "district": {
+      "districtNumber": 24,
+      "oikTvd": "100100225883432"
+    }
   },
   {
     "uikNumber": 807,
     "uikTvd": "4144035571633",
     "tikTvd": "21420001074355",
-    "tikName": "Якутская городская"
+    "tikName": "Якутская городская",
+    "uikName": "УИК №807",
+    "regionCode": "14",
+    "regionTvd": "100100225883431",
+    "regionName": "Республика Саха (Якутия)",
+    "oikTvd": "100100225883432",
+    "oikName": "Республика Саха (Якутия) – Якутский",
+    "district": {
+      "districtNumber": 24,
+      "oikTvd": "100100225883432"
+    }
   },
   {
     "uikNumber": 808,
     "uikTvd": "4144035571634",
     "tikTvd": "21420001074355",
-    "tikName": "Якутская городская"
+    "tikName": "Якутская городская",
+    "uikName": "УИК №808",
+    "regionCode": "14",
+    "regionTvd": "100100225883431",
+    "regionName": "Республика Саха (Якутия)",
+    "oikTvd": "100100225883432",
+    "oikName": "Республика Саха (Якутия) – Якутский",
+    "district": {
+      "districtNumber": 24,
+      "oikTvd": "100100225883432"
+    }
   },
   {
     "uikNumber": 809,
     "uikTvd": "4144035571635",
     "tikTvd": "21420001074355",
-    "tikName": "Якутская городская"
+    "tikName": "Якутская городская",
+    "uikName": "УИК №809",
+    "regionCode": "14",
+    "regionTvd": "100100225883431",
+    "regionName": "Республика Саха (Якутия)",
+    "oikTvd": "100100225883432",
+    "oikName": "Республика Саха (Якутия) – Якутский",
+    "district": {
+      "districtNumber": 24,
+      "oikTvd": "100100225883432"
+    }
   },
   {
     "uikNumber": 810,
     "uikTvd": "4144035571636",
     "tikTvd": "21420001074355",
-    "tikName": "Якутская городская"
+    "tikName": "Якутская городская",
+    "uikName": "УИК №810",
+    "regionCode": "14",
+    "regionTvd": "100100225883431",
+    "regionName": "Республика Саха (Якутия)",
+    "oikTvd": "100100225883432",
+    "oikName": "Республика Саха (Якутия) – Якутский",
+    "district": {
+      "districtNumber": 24,
+      "oikTvd": "100100225883432"
+    }
   },
   {
     "uikNumber": 811,
     "uikTvd": "4144002236374",
     "tikTvd": "21420001074339",
-    "tikName": "Алданская"
+    "tikName": "Алданская",
+    "uikName": "УИК №811",
+    "regionCode": "14",
+    "regionTvd": "100100225883431",
+    "regionName": "Республика Саха (Якутия)",
+    "oikTvd": "100100225883432",
+    "oikName": "Республика Саха (Якутия) – Якутский",
+    "district": {
+      "districtNumber": 24,
+      "oikTvd": "100100225883432"
+    }
   },
   {
     "uikNumber": 812,
     "uikTvd": "4144002236375",
     "tikTvd": "21420001074339",
-    "tikName": "Алданская"
+    "tikName": "Алданская",
+    "uikName": "УИК №812",
+    "regionCode": "14",
+    "regionTvd": "100100225883431",
+    "regionName": "Республика Саха (Якутия)",
+    "oikTvd": "100100225883432",
+    "oikName": "Республика Саха (Якутия) – Якутский",
+    "district": {
+      "districtNumber": 24,
+      "oikTvd": "100100225883432"
+    }
   },
   {
     "uikNumber": 813,
     "uikTvd": "4144002236376",
     "tikTvd": "21420001074339",
-    "tikName": "Алданская"
+    "tikName": "Алданская",
+    "uikName": "УИК №813",
+    "regionCode": "14",
+    "regionTvd": "100100225883431",
+    "regionName": "Республика Саха (Якутия)",
+    "oikTvd": "100100225883432",
+    "oikName": "Республика Саха (Якутия) – Якутский",
+    "district": {
+      "districtNumber": 24,
+      "oikTvd": "100100225883432"
+    }
   },
   {
     "uikNumber": 814,
     "uikTvd": "4144005139982",
     "tikTvd": "21420001074298",
-    "tikName": "Анабарская"
+    "tikName": "Анабарская",
+    "uikName": "УИК №814",
+    "regionCode": "14",
+    "regionTvd": "100100225883431",
+    "regionName": "Республика Саха (Якутия)",
+    "oikTvd": "100100225883432",
+    "oikName": "Республика Саха (Якутия) – Якутский",
+    "district": {
+      "districtNumber": 24,
+      "oikTvd": "100100225883432"
+    }
   },
   {
     "uikNumber": 815,
     "uikTvd": "4144006204841",
     "tikTvd": "21420001074310",
-    "tikName": "Булунская"
+    "tikName": "Булунская",
+    "uikName": "УИК №815",
+    "regionCode": "14",
+    "regionTvd": "100100225883431",
+    "regionName": "Республика Саха (Якутия)",
+    "oikTvd": "100100225883432",
+    "oikName": "Республика Саха (Якутия) – Якутский",
+    "district": {
+      "districtNumber": 24,
+      "oikTvd": "100100225883432"
+    }
   },
   {
     "uikNumber": 816,
     "uikTvd": "4144006204843",
     "tikTvd": "21420001074310",
-    "tikName": "Булунская"
+    "tikName": "Булунская",
+    "uikName": "УИК №816",
+    "regionCode": "14",
+    "regionTvd": "100100225883431",
+    "regionName": "Республика Саха (Якутия)",
+    "oikTvd": "100100225883432",
+    "oikName": "Республика Саха (Якутия) – Якутский",
+    "district": {
+      "districtNumber": 24,
+      "oikTvd": "100100225883432"
+    }
   },
   {
     "uikNumber": 817,
     "uikTvd": "4144006204845",
     "tikTvd": "21420001074310",
-    "tikName": "Булунская"
+    "tikName": "Булунская",
+    "uikName": "УИК №817",
+    "regionCode": "14",
+    "regionTvd": "100100225883431",
+    "regionName": "Республика Саха (Якутия)",
+    "oikTvd": "100100225883432",
+    "oikName": "Республика Саха (Якутия) – Якутский",
+    "district": {
+      "districtNumber": 24,
+      "oikTvd": "100100225883432"
+    }
   },
   {
     "uikNumber": 818,
     "uikTvd": "4144014253126",
     "tikTvd": "21420001074348",
-    "tikName": "Ленская"
+    "tikName": "Ленская",
+    "uikName": "УИК №818",
+    "regionCode": "14",
+    "regionTvd": "100100225883431",
+    "regionName": "Республика Саха (Якутия)",
+    "oikTvd": "100100225883432",
+    "oikName": "Республика Саха (Якутия) – Якутский",
+    "district": {
+      "districtNumber": 24,
+      "oikTvd": "100100225883432"
+    }
   },
   {
     "uikNumber": 819,
     "uikTvd": "4144014254387",
     "tikTvd": "21420001074348",
-    "tikName": "Ленская"
+    "tikName": "Ленская",
+    "uikName": "УИК №819",
+    "regionCode": "14",
+    "regionTvd": "100100225883431",
+    "regionName": "Республика Саха (Якутия)",
+    "oikTvd": "100100225883432",
+    "oikName": "Республика Саха (Якутия) – Якутский",
+    "district": {
+      "districtNumber": 24,
+      "oikTvd": "100100225883432"
+    }
   },
   {
     "uikNumber": 820,
     "uikTvd": "4144014254388",
     "tikTvd": "21420001074348",
-    "tikName": "Ленская"
+    "tikName": "Ленская",
+    "uikName": "УИК №820",
+    "regionCode": "14",
+    "regionTvd": "100100225883431",
+    "regionName": "Республика Саха (Якутия)",
+    "oikTvd": "100100225883432",
+    "oikName": "Республика Саха (Якутия) – Якутский",
+    "district": {
+      "districtNumber": 24,
+      "oikTvd": "100100225883432"
+    }
   },
   {
     "uikNumber": 821,
     "uikTvd": "4144014254389",
     "tikTvd": "21420001074348",
-    "tikName": "Ленская"
+    "tikName": "Ленская",
+    "uikName": "УИК №821",
+    "regionCode": "14",
+    "regionTvd": "100100225883431",
+    "regionName": "Республика Саха (Якутия)",
+    "oikTvd": "100100225883432",
+    "oikName": "Республика Саха (Якутия) – Якутский",
+    "district": {
+      "districtNumber": 24,
+      "oikTvd": "100100225883432"
+    }
   },
   {
     "uikNumber": 822,
     "uikTvd": "4144016361927",
     "tikTvd": "21420001074304",
-    "tikName": "Мирнинская"
+    "tikName": "Мирнинская",
+    "uikName": "УИК №822",
+    "regionCode": "14",
+    "regionTvd": "100100225883431",
+    "regionName": "Республика Саха (Якутия)",
+    "oikTvd": "100100225883432",
+    "oikName": "Республика Саха (Якутия) – Якутский",
+    "district": {
+      "districtNumber": 24,
+      "oikTvd": "100100225883432"
+    }
   },
   {
     "uikNumber": 823,
     "uikTvd": "4144021241879",
     "tikTvd": "21420001074323",
-    "tikName": "Нюрбинская"
+    "tikName": "Нюрбинская",
+    "uikName": "УИК №823",
+    "regionCode": "14",
+    "regionTvd": "100100225883431",
+    "regionName": "Республика Саха (Якутия)",
+    "oikTvd": "100100225883432",
+    "oikName": "Республика Саха (Якутия) – Якутский",
+    "district": {
+      "districtNumber": 24,
+      "oikTvd": "100100225883432"
+    }
   },
   {
     "uikNumber": 824,
     "uikTvd": "4144012158783",
     "tikTvd": "21420001074341",
-    "tikName": "Жиганская"
+    "tikName": "Жиганская",
+    "uikName": "УИК №824",
+    "regionCode": "14",
+    "regionTvd": "100100225883431",
+    "regionName": "Республика Саха (Якутия)",
+    "oikTvd": "100100225883432",
+    "oikName": "Республика Саха (Якутия) – Якутский",
+    "district": {
+      "districtNumber": 24,
+      "oikTvd": "100100225883432"
+    }
   },
   {
     "uikNumber": 825,
     "uikTvd": "4144009342184",
     "tikTvd": "21420001074351",
-    "tikName": "Верхоянская"
+    "tikName": "Верхоянская",
+    "uikName": "УИК №825",
+    "regionCode": "14",
+    "regionTvd": "100100225883431",
+    "regionName": "Республика Саха (Якутия)",
+    "oikTvd": "100100225883432",
+    "oikName": "Республика Саха (Якутия) – Якутский",
+    "district": {
+      "districtNumber": 24,
+      "oikTvd": "100100225883432"
+    }
   },
   {
     "uikNumber": 826,
     "uikTvd": "4144019232492",
     "tikTvd": "21420001074342",
-    "tikName": "Нерюнгринская"
+    "tikName": "Нерюнгринская",
+    "uikName": "УИК №826",
+    "regionCode": "14",
+    "regionTvd": "100100225883431",
+    "regionName": "Республика Саха (Якутия)",
+    "oikTvd": "100100225883432",
+    "oikName": "Республика Саха (Якутия) – Якутский",
+    "district": {
+      "districtNumber": 24,
+      "oikTvd": "100100225883432"
+    }
   },
   {
     "uikNumber": 827,
     "uikTvd": "4144019232493",
     "tikTvd": "21420001074342",
-    "tikName": "Нерюнгринская"
+    "tikName": "Нерюнгринская",
+    "uikName": "УИК №827",
+    "regionCode": "14",
+    "regionTvd": "100100225883431",
+    "regionName": "Республика Саха (Якутия)",
+    "oikTvd": "100100225883432",
+    "oikName": "Республика Саха (Якутия) – Якутский",
+    "district": {
+      "districtNumber": 24,
+      "oikTvd": "100100225883432"
+    }
   },
   {
     "uikNumber": 828,
     "uikTvd": "4144019232494",
     "tikTvd": "21420001074342",
-    "tikName": "Нерюнгринская"
+    "tikName": "Нерюнгринская",
+    "uikName": "УИК №828",
+    "regionCode": "14",
+    "regionTvd": "100100225883431",
+    "regionName": "Республика Саха (Якутия)",
+    "oikTvd": "100100225883432",
+    "oikName": "Республика Саха (Якутия) – Якутский",
+    "district": {
+      "districtNumber": 24,
+      "oikTvd": "100100225883432"
+    }
   },
   {
     "uikNumber": 829,
     "uikTvd": "4144002236377",
     "tikTvd": "21420001074339",
-    "tikName": "Алданская"
+    "tikName": "Алданская",
+    "uikName": "УИК №829",
+    "regionCode": "14",
+    "regionTvd": "100100225883431",
+    "regionName": "Республика Саха (Якутия)",
+    "oikTvd": "100100225883432",
+    "oikName": "Республика Саха (Якутия) – Якутский",
+    "district": {
+      "districtNumber": 24,
+      "oikTvd": "100100225883432"
+    }
   },
   {
     "uikNumber": 830,
     "uikTvd": "4144035579170",
     "tikTvd": "21420001074355",
-    "tikName": "Якутская городская"
+    "tikName": "Якутская городская",
+    "uikName": "УИК №830",
+    "regionCode": "14",
+    "regionTvd": "100100225883431",
+    "regionName": "Республика Саха (Якутия)",
+    "oikTvd": "100100225883432",
+    "oikName": "Республика Саха (Якутия) – Якутский",
+    "district": {
+      "districtNumber": 24,
+      "oikTvd": "100100225883432"
+    }
   },
   {
     "uikNumber": 831,
     "uikTvd": "4144035579171",
     "tikTvd": "21420001074355",
-    "tikName": "Якутская городская"
+    "tikName": "Якутская городская",
+    "uikName": "УИК №831",
+    "regionCode": "14",
+    "regionTvd": "100100225883431",
+    "regionName": "Республика Саха (Якутия)",
+    "oikTvd": "100100225883432",
+    "oikName": "Республика Саха (Якутия) – Якутский",
+    "district": {
+      "districtNumber": 24,
+      "oikTvd": "100100225883432"
+    }
   },
   {
     "uikNumber": 832,
     "uikTvd": "4144035579172",
     "tikTvd": "21420001074355",
-    "tikName": "Якутская городская"
+    "tikName": "Якутская городская",
+    "uikName": "УИК №832",
+    "regionCode": "14",
+    "regionTvd": "100100225883431",
+    "regionName": "Республика Саха (Якутия)",
+    "oikTvd": "100100225883432",
+    "oikName": "Республика Саха (Якутия) – Якутский",
+    "district": {
+      "districtNumber": 24,
+      "oikTvd": "100100225883432"
+    }
   },
   {
     "uikNumber": 833,
     "uikTvd": "4144035579173",
     "tikTvd": "21420001074355",
-    "tikName": "Якутская городская"
+    "tikName": "Якутская городская",
+    "uikName": "УИК №833",
+    "regionCode": "14",
+    "regionTvd": "100100225883431",
+    "regionName": "Республика Саха (Якутия)",
+    "oikTvd": "100100225883432",
+    "oikName": "Республика Саха (Якутия) – Якутский",
+    "district": {
+      "districtNumber": 24,
+      "oikTvd": "100100225883432"
+    }
   },
   {
     "uikNumber": 834,
     "uikTvd": "4144023297376",
     "tikTvd": "21420001074333",
-    "tikName": "Олекминская"
+    "tikName": "Олекминская",
+    "uikName": "УИК №834",
+    "regionCode": "14",
+    "regionTvd": "100100225883431",
+    "regionName": "Республика Саха (Якутия)",
+    "oikTvd": "100100225883432",
+    "oikName": "Республика Саха (Якутия) – Якутский",
+    "district": {
+      "districtNumber": 24,
+      "oikTvd": "100100225883432"
+    }
   },
   {
     "uikNumber": 835,
     "uikTvd": "4144023297377",
     "tikTvd": "21420001074333",
-    "tikName": "Олекминская"
+    "tikName": "Олекминская",
+    "uikName": "УИК №835",
+    "regionCode": "14",
+    "regionTvd": "100100225883431",
+    "regionName": "Республика Саха (Якутия)",
+    "oikTvd": "100100225883432",
+    "oikName": "Республика Саха (Якутия) – Якутский",
+    "district": {
+      "districtNumber": 24,
+      "oikTvd": "100100225883432"
+    }
   },
   {
     "uikNumber": 836,
     "uikTvd": "4144023297404",
     "tikTvd": "21420001074333",
-    "tikName": "Олекминская"
+    "tikName": "Олекминская",
+    "uikName": "УИК №836",
+    "regionCode": "14",
+    "regionTvd": "100100225883431",
+    "regionName": "Республика Саха (Якутия)",
+    "oikTvd": "100100225883432",
+    "oikName": "Республика Саха (Якутия) – Якутский",
+    "district": {
+      "districtNumber": 24,
+      "oikTvd": "100100225883432"
+    }
   },
   {
     "uikNumber": 838,
     "uikTvd": "4144002239978",
     "tikTvd": "21420001074339",
-    "tikName": "Алданская"
+    "tikName": "Алданская",
+    "uikName": "УИК №838",
+    "regionCode": "14",
+    "regionTvd": "100100225883431",
+    "regionName": "Республика Саха (Якутия)",
+    "oikTvd": "100100225883432",
+    "oikName": "Республика Саха (Якутия) – Якутский",
+    "district": {
+      "districtNumber": 24,
+      "oikTvd": "100100225883432"
+    }
   },
   {
     "uikNumber": 839,
     "uikTvd": "4144002239979",
     "tikTvd": "21420001074339",
-    "tikName": "Алданская"
+    "tikName": "Алданская",
+    "uikName": "УИК №839",
+    "regionCode": "14",
+    "regionTvd": "100100225883431",
+    "regionName": "Республика Саха (Якутия)",
+    "oikTvd": "100100225883432",
+    "oikName": "Республика Саха (Якутия) – Якутский",
+    "district": {
+      "districtNumber": 24,
+      "oikTvd": "100100225883432"
+    }
   }
 ] satisfies readonly UikTikRelation[];

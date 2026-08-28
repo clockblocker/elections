@@ -43,14 +43,14 @@ export const duma_2016_uik_463_region_3_part_007 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Ахмедьянов Ханиф Нигамадьянович": 88,
-      "Идиятуллин Хасан Сагитзянович": 35,
-      "Исангулов Ильдар Хамзеевич": 70,
-      "Омаров Гаджимурад Заирбекович": 97,
-      "Рахматуллина Зугура Ягануровна": 1033,
-      "Сулейманов Рамиль Зулькарнаевич": 6,
-      "Сухарев Иван Константинович": 125,
-      "Шафиков Мурад Римович": 14
+      "gas:candidate-vibid:4024057222136": 88,
+      "gas:candidate-vibid:4024057222236": 35,
+      "gas:candidate-vibid:4024057222375": 70,
+      "gas:candidate-vibid:4024057222446": 97,
+      "gas:candidate-vibid:4024057222189": 1033,
+      "gas:candidate-vibid:4024057222264": 6,
+      "gas:candidate-vibid:4024057205394": 125,
+      "gas:candidate-vibid:4024057222494": 14
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/bashkortostan?action=show&root=1000008&tvd=20220001684960&vrn=100100067795849&region=3&global=&sub_region=3&prver=0&pronetvd=null&vibid=20220001684960&type=464",
@@ -101,14 +101,14 @@ export const duma_2016_uik_463_region_3_part_007 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Ахмедьянов Ханиф Нигамадьянович": 110,
-      "Идиятуллин Хасан Сагитзянович": 37,
-      "Исангулов Ильдар Хамзеевич": 71,
-      "Омаров Гаджимурад Заирбекович": 72,
-      "Рахматуллина Зугура Ягануровна": 546,
-      "Сулейманов Рамиль Зулькарнаевич": 13,
-      "Сухарев Иван Константинович": 127,
-      "Шафиков Мурад Римович": 19
+      "gas:candidate-vibid:4024057222136": 110,
+      "gas:candidate-vibid:4024057222236": 37,
+      "gas:candidate-vibid:4024057222375": 71,
+      "gas:candidate-vibid:4024057222446": 72,
+      "gas:candidate-vibid:4024057222189": 546,
+      "gas:candidate-vibid:4024057222264": 13,
+      "gas:candidate-vibid:4024057205394": 127,
+      "gas:candidate-vibid:4024057222494": 19
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/bashkortostan?action=show&root=1000008&tvd=20220001684960&vrn=100100067795849&region=3&global=&sub_region=3&prver=0&pronetvd=null&vibid=20220001684960&type=464",
@@ -159,14 +159,14 @@ export const duma_2016_uik_463_region_3_part_007 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Ахмедьянов Ханиф Нигамадьянович": 120,
-      "Идиятуллин Хасан Сагитзянович": 43,
-      "Исангулов Ильдар Хамзеевич": 58,
-      "Омаров Гаджимурад Заирбекович": 72,
-      "Рахматуллина Зугура Ягануровна": 629,
-      "Сулейманов Рамиль Зулькарнаевич": 18,
-      "Сухарев Иван Константинович": 185,
-      "Шафиков Мурад Римович": 12
+      "gas:candidate-vibid:4024057222136": 120,
+      "gas:candidate-vibid:4024057222236": 43,
+      "gas:candidate-vibid:4024057222375": 58,
+      "gas:candidate-vibid:4024057222446": 72,
+      "gas:candidate-vibid:4024057222189": 629,
+      "gas:candidate-vibid:4024057222264": 18,
+      "gas:candidate-vibid:4024057205394": 185,
+      "gas:candidate-vibid:4024057222494": 12
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/bashkortostan?action=show&root=1000008&tvd=20220001684960&vrn=100100067795849&region=3&global=&sub_region=3&prver=0&pronetvd=null&vibid=20220001684960&type=464",
@@ -217,14 +217,14 @@ export const duma_2016_uik_463_region_3_part_007 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Ахмедьянов Ханиф Нигамадьянович": 68,
-      "Идиятуллин Хасан Сагитзянович": 39,
-      "Исангулов Ильдар Хамзеевич": 43,
-      "Омаров Гаджимурад Заирбекович": 35,
-      "Рахматуллина Зугура Ягануровна": 457,
-      "Сулейманов Рамиль Зулькарнаевич": 2,
-      "Сухарев Иван Константинович": 108,
-      "Шафиков Мурад Римович": 5
+      "gas:candidate-vibid:4024057222136": 68,
+      "gas:candidate-vibid:4024057222236": 39,
+      "gas:candidate-vibid:4024057222375": 43,
+      "gas:candidate-vibid:4024057222446": 35,
+      "gas:candidate-vibid:4024057222189": 457,
+      "gas:candidate-vibid:4024057222264": 2,
+      "gas:candidate-vibid:4024057205394": 108,
+      "gas:candidate-vibid:4024057222494": 5
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/bashkortostan?action=show&root=1000008&tvd=20220001684960&vrn=100100067795849&region=3&global=&sub_region=3&prver=0&pronetvd=null&vibid=20220001684960&type=464",
@@ -275,14 +275,14 @@ export const duma_2016_uik_463_region_3_part_007 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Ахмедьянов Ханиф Нигамадьянович": 31,
-      "Идиятуллин Хасан Сагитзянович": 23,
-      "Исангулов Ильдар Хамзеевич": 28,
-      "Омаров Гаджимурад Заирбекович": 46,
-      "Рахматуллина Зугура Ягануровна": 819,
-      "Сулейманов Рамиль Зулькарнаевич": 7,
-      "Сухарев Иван Константинович": 105,
-      "Шафиков Мурад Римович": 11
+      "gas:candidate-vibid:4024057222136": 31,
+      "gas:candidate-vibid:4024057222236": 23,
+      "gas:candidate-vibid:4024057222375": 28,
+      "gas:candidate-vibid:4024057222446": 46,
+      "gas:candidate-vibid:4024057222189": 819,
+      "gas:candidate-vibid:4024057222264": 7,
+      "gas:candidate-vibid:4024057205394": 105,
+      "gas:candidate-vibid:4024057222494": 11
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/bashkortostan?action=show&root=1000008&tvd=20220001684960&vrn=100100067795849&region=3&global=&sub_region=3&prver=0&pronetvd=null&vibid=20220001684960&type=464",
@@ -333,14 +333,14 @@ export const duma_2016_uik_463_region_3_part_007 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Ахмедьянов Ханиф Нигамадьянович": 45,
-      "Идиятуллин Хасан Сагитзянович": 33,
-      "Исангулов Ильдар Хамзеевич": 101,
-      "Омаров Гаджимурад Заирбекович": 217,
-      "Рахматуллина Зугура Ягануровна": 1375,
-      "Сулейманов Рамиль Зулькарнаевич": 6,
-      "Сухарев Иван Константинович": 94,
-      "Шафиков Мурад Римович": 5
+      "gas:candidate-vibid:4024057222136": 45,
+      "gas:candidate-vibid:4024057222236": 33,
+      "gas:candidate-vibid:4024057222375": 101,
+      "gas:candidate-vibid:4024057222446": 217,
+      "gas:candidate-vibid:4024057222189": 1375,
+      "gas:candidate-vibid:4024057222264": 6,
+      "gas:candidate-vibid:4024057205394": 94,
+      "gas:candidate-vibid:4024057222494": 5
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/bashkortostan?action=show&root=1000008&tvd=20220001684960&vrn=100100067795849&region=3&global=&sub_region=3&prver=0&pronetvd=null&vibid=20220001684960&type=464",
@@ -391,14 +391,14 @@ export const duma_2016_uik_463_region_3_part_007 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Ахмедьянов Ханиф Нигамадьянович": 128,
-      "Идиятуллин Хасан Сагитзянович": 60,
-      "Исангулов Ильдар Хамзеевич": 110,
-      "Омаров Гаджимурад Заирбекович": 91,
-      "Рахматуллина Зугура Ягануровна": 818,
-      "Сулейманов Рамиль Зулькарнаевич": 26,
-      "Сухарев Иван Константинович": 170,
-      "Шафиков Мурад Римович": 25
+      "gas:candidate-vibid:4024057222136": 128,
+      "gas:candidate-vibid:4024057222236": 60,
+      "gas:candidate-vibid:4024057222375": 110,
+      "gas:candidate-vibid:4024057222446": 91,
+      "gas:candidate-vibid:4024057222189": 818,
+      "gas:candidate-vibid:4024057222264": 26,
+      "gas:candidate-vibid:4024057205394": 170,
+      "gas:candidate-vibid:4024057222494": 25
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/bashkortostan?action=show&root=1000008&tvd=20220001684960&vrn=100100067795849&region=3&global=&sub_region=3&prver=0&pronetvd=null&vibid=20220001684960&type=464",
@@ -449,14 +449,14 @@ export const duma_2016_uik_463_region_3_part_007 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Ахмедьянов Ханиф Нигамадьянович": 64,
-      "Идиятуллин Хасан Сагитзянович": 13,
-      "Исангулов Ильдар Хамзеевич": 52,
-      "Омаров Гаджимурад Заирбекович": 78,
-      "Рахматуллина Зугура Ягануровна": 235,
-      "Сулейманов Рамиль Зулькарнаевич": 7,
-      "Сухарев Иван Константинович": 128,
-      "Шафиков Мурад Римович": 11
+      "gas:candidate-vibid:4024057222136": 64,
+      "gas:candidate-vibid:4024057222236": 13,
+      "gas:candidate-vibid:4024057222375": 52,
+      "gas:candidate-vibid:4024057222446": 78,
+      "gas:candidate-vibid:4024057222189": 235,
+      "gas:candidate-vibid:4024057222264": 7,
+      "gas:candidate-vibid:4024057205394": 128,
+      "gas:candidate-vibid:4024057222494": 11
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/bashkortostan?action=show&root=1000008&tvd=20220001684960&vrn=100100067795849&region=3&global=&sub_region=3&prver=0&pronetvd=null&vibid=20220001684960&type=464",
@@ -507,14 +507,14 @@ export const duma_2016_uik_463_region_3_part_007 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Ахмедьянов Ханиф Нигамадьянович": 136,
-      "Идиятуллин Хасан Сагитзянович": 35,
-      "Исангулов Ильдар Хамзеевич": 107,
-      "Омаров Гаджимурад Заирбекович": 118,
-      "Рахматуллина Зугура Ягануровна": 559,
-      "Сулейманов Рамиль Зулькарнаевич": 14,
-      "Сухарев Иван Константинович": 161,
-      "Шафиков Мурад Римович": 61
+      "gas:candidate-vibid:4024057222136": 136,
+      "gas:candidate-vibid:4024057222236": 35,
+      "gas:candidate-vibid:4024057222375": 107,
+      "gas:candidate-vibid:4024057222446": 118,
+      "gas:candidate-vibid:4024057222189": 559,
+      "gas:candidate-vibid:4024057222264": 14,
+      "gas:candidate-vibid:4024057205394": 161,
+      "gas:candidate-vibid:4024057222494": 61
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/bashkortostan?action=show&root=1000008&tvd=20220001684960&vrn=100100067795849&region=3&global=&sub_region=3&prver=0&pronetvd=null&vibid=20220001684960&type=464",
@@ -565,14 +565,14 @@ export const duma_2016_uik_463_region_3_part_007 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Ахмедьянов Ханиф Нигамадьянович": 18,
-      "Идиятуллин Хасан Сагитзянович": 19,
-      "Исангулов Ильдар Хамзеевич": 85,
-      "Омаров Гаджимурад Заирбекович": 98,
-      "Рахматуллина Зугура Ягануровна": 846,
-      "Сулейманов Рамиль Зулькарнаевич": 22,
-      "Сухарев Иван Константинович": 146,
-      "Шафиков Мурад Римович": 7
+      "gas:candidate-vibid:4024057222136": 18,
+      "gas:candidate-vibid:4024057222236": 19,
+      "gas:candidate-vibid:4024057222375": 85,
+      "gas:candidate-vibid:4024057222446": 98,
+      "gas:candidate-vibid:4024057222189": 846,
+      "gas:candidate-vibid:4024057222264": 22,
+      "gas:candidate-vibid:4024057205394": 146,
+      "gas:candidate-vibid:4024057222494": 7
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/bashkortostan?action=show&root=1000008&tvd=20220001684960&vrn=100100067795849&region=3&global=&sub_region=3&prver=0&pronetvd=null&vibid=20220001684960&type=464",
@@ -623,14 +623,14 @@ export const duma_2016_uik_463_region_3_part_007 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Ахмедьянов Ханиф Нигамадьянович": 101,
-      "Идиятуллин Хасан Сагитзянович": 46,
-      "Исангулов Ильдар Хамзеевич": 81,
-      "Омаров Гаджимурад Заирбекович": 69,
-      "Рахматуллина Зугура Ягануровна": 1438,
-      "Сулейманов Рамиль Зулькарнаевич": 19,
-      "Сухарев Иван Константинович": 176,
-      "Шафиков Мурад Римович": 15
+      "gas:candidate-vibid:4024057222136": 101,
+      "gas:candidate-vibid:4024057222236": 46,
+      "gas:candidate-vibid:4024057222375": 81,
+      "gas:candidate-vibid:4024057222446": 69,
+      "gas:candidate-vibid:4024057222189": 1438,
+      "gas:candidate-vibid:4024057222264": 19,
+      "gas:candidate-vibid:4024057205394": 176,
+      "gas:candidate-vibid:4024057222494": 15
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/bashkortostan?action=show&root=1000008&tvd=20220001684960&vrn=100100067795849&region=3&global=&sub_region=3&prver=0&pronetvd=null&vibid=20220001684960&type=464",
@@ -681,14 +681,14 @@ export const duma_2016_uik_463_region_3_part_007 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Ахмедьянов Ханиф Нигамадьянович": 125,
-      "Идиятуллин Хасан Сагитзянович": 37,
-      "Исангулов Ильдар Хамзеевич": 95,
-      "Омаров Гаджимурад Заирбекович": 100,
-      "Рахматуллина Зугура Ягануровна": 412,
-      "Сулейманов Рамиль Зулькарнаевич": 9,
-      "Сухарев Иван Константинович": 173,
-      "Шафиков Мурад Римович": 16
+      "gas:candidate-vibid:4024057222136": 125,
+      "gas:candidate-vibid:4024057222236": 37,
+      "gas:candidate-vibid:4024057222375": 95,
+      "gas:candidate-vibid:4024057222446": 100,
+      "gas:candidate-vibid:4024057222189": 412,
+      "gas:candidate-vibid:4024057222264": 9,
+      "gas:candidate-vibid:4024057205394": 173,
+      "gas:candidate-vibid:4024057222494": 16
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/bashkortostan?action=show&root=1000008&tvd=20220001684960&vrn=100100067795849&region=3&global=&sub_region=3&prver=0&pronetvd=null&vibid=20220001684960&type=464",
@@ -739,14 +739,14 @@ export const duma_2016_uik_463_region_3_part_007 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Ахмедьянов Ханиф Нигамадьянович": 67,
-      "Идиятуллин Хасан Сагитзянович": 29,
-      "Исангулов Ильдар Хамзеевич": 44,
-      "Омаров Гаджимурад Заирбекович": 47,
-      "Рахматуллина Зугура Ягануровна": 467,
-      "Сулейманов Рамиль Зулькарнаевич": 32,
-      "Сухарев Иван Константинович": 36,
-      "Шафиков Мурад Римович": 11
+      "gas:candidate-vibid:4024057222136": 67,
+      "gas:candidate-vibid:4024057222236": 29,
+      "gas:candidate-vibid:4024057222375": 44,
+      "gas:candidate-vibid:4024057222446": 47,
+      "gas:candidate-vibid:4024057222189": 467,
+      "gas:candidate-vibid:4024057222264": 32,
+      "gas:candidate-vibid:4024057205394": 36,
+      "gas:candidate-vibid:4024057222494": 11
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/bashkortostan?action=show&root=1000008&tvd=20220001684960&vrn=100100067795849&region=3&global=&sub_region=3&prver=0&pronetvd=null&vibid=20220001684960&type=464",
@@ -797,14 +797,14 @@ export const duma_2016_uik_463_region_3_part_007 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Ахмедьянов Ханиф Нигамадьянович": 86,
-      "Идиятуллин Хасан Сагитзянович": 28,
-      "Исангулов Ильдар Хамзеевич": 47,
-      "Омаров Гаджимурад Заирбекович": 80,
-      "Рахматуллина Зугура Ягануровна": 349,
-      "Сулейманов Рамиль Зулькарнаевич": 16,
-      "Сухарев Иван Константинович": 146,
-      "Шафиков Мурад Римович": 9
+      "gas:candidate-vibid:4024057222136": 86,
+      "gas:candidate-vibid:4024057222236": 28,
+      "gas:candidate-vibid:4024057222375": 47,
+      "gas:candidate-vibid:4024057222446": 80,
+      "gas:candidate-vibid:4024057222189": 349,
+      "gas:candidate-vibid:4024057222264": 16,
+      "gas:candidate-vibid:4024057205394": 146,
+      "gas:candidate-vibid:4024057222494": 9
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/bashkortostan?action=show&root=1000008&tvd=20220001684960&vrn=100100067795849&region=3&global=&sub_region=3&prver=0&pronetvd=null&vibid=20220001684960&type=464",
@@ -855,14 +855,14 @@ export const duma_2016_uik_463_region_3_part_007 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Ахмедьянов Ханиф Нигамадьянович": 6,
-      "Идиятуллин Хасан Сагитзянович": 2,
-      "Исангулов Ильдар Хамзеевич": 65,
-      "Омаров Гаджимурад Заирбекович": 70,
-      "Рахматуллина Зугура Ягануровна": 757,
-      "Сулейманов Рамиль Зулькарнаевич": 6,
-      "Сухарев Иван Константинович": 162,
-      "Шафиков Мурад Римович": 3
+      "gas:candidate-vibid:4024057222136": 6,
+      "gas:candidate-vibid:4024057222236": 2,
+      "gas:candidate-vibid:4024057222375": 65,
+      "gas:candidate-vibid:4024057222446": 70,
+      "gas:candidate-vibid:4024057222189": 757,
+      "gas:candidate-vibid:4024057222264": 6,
+      "gas:candidate-vibid:4024057205394": 162,
+      "gas:candidate-vibid:4024057222494": 3
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/bashkortostan?action=show&root=1000008&tvd=20220001684960&vrn=100100067795849&region=3&global=&sub_region=3&prver=0&pronetvd=null&vibid=20220001684960&type=464",
@@ -913,14 +913,14 @@ export const duma_2016_uik_463_region_3_part_007 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Ахмедьянов Ханиф Нигамадьянович": 74,
-      "Идиятуллин Хасан Сагитзянович": 36,
-      "Исангулов Ильдар Хамзеевич": 111,
-      "Омаров Гаджимурад Заирбекович": 58,
-      "Рахматуллина Зугура Ягануровна": 753,
-      "Сулейманов Рамиль Зулькарнаевич": 20,
-      "Сухарев Иван Константинович": 339,
-      "Шафиков Мурад Римович": 10
+      "gas:candidate-vibid:4024057222136": 74,
+      "gas:candidate-vibid:4024057222236": 36,
+      "gas:candidate-vibid:4024057222375": 111,
+      "gas:candidate-vibid:4024057222446": 58,
+      "gas:candidate-vibid:4024057222189": 753,
+      "gas:candidate-vibid:4024057222264": 20,
+      "gas:candidate-vibid:4024057205394": 339,
+      "gas:candidate-vibid:4024057222494": 10
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/bashkortostan?action=show&root=1000008&tvd=20220001684960&vrn=100100067795849&region=3&global=&sub_region=3&prver=0&pronetvd=null&vibid=20220001684960&type=464",
@@ -971,14 +971,14 @@ export const duma_2016_uik_463_region_3_part_007 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Ахмедьянов Ханиф Нигамадьянович": 44,
-      "Идиятуллин Хасан Сагитзянович": 14,
-      "Исангулов Ильдар Хамзеевич": 40,
-      "Омаров Гаджимурад Заирбекович": 40,
-      "Рахматуллина Зугура Ягануровна": 358,
-      "Сулейманов Рамиль Зулькарнаевич": 8,
-      "Сухарев Иван Константинович": 89,
-      "Шафиков Мурад Римович": 14
+      "gas:candidate-vibid:4024057222136": 44,
+      "gas:candidate-vibid:4024057222236": 14,
+      "gas:candidate-vibid:4024057222375": 40,
+      "gas:candidate-vibid:4024057222446": 40,
+      "gas:candidate-vibid:4024057222189": 358,
+      "gas:candidate-vibid:4024057222264": 8,
+      "gas:candidate-vibid:4024057205394": 89,
+      "gas:candidate-vibid:4024057222494": 14
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/bashkortostan?action=show&root=1000008&tvd=20220001684960&vrn=100100067795849&region=3&global=&sub_region=3&prver=0&pronetvd=null&vibid=20220001684960&type=464",
@@ -1029,14 +1029,14 @@ export const duma_2016_uik_463_region_3_part_007 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Ахмедьянов Ханиф Нигамадьянович": 42,
-      "Идиятуллин Хасан Сагитзянович": 19,
-      "Исангулов Ильдар Хамзеевич": 46,
-      "Омаров Гаджимурад Заирбекович": 34,
-      "Рахматуллина Зугура Ягануровна": 355,
-      "Сулейманов Рамиль Зулькарнаевич": 6,
-      "Сухарев Иван Константинович": 80,
-      "Шафиков Мурад Римович": 15
+      "gas:candidate-vibid:4024057222136": 42,
+      "gas:candidate-vibid:4024057222236": 19,
+      "gas:candidate-vibid:4024057222375": 46,
+      "gas:candidate-vibid:4024057222446": 34,
+      "gas:candidate-vibid:4024057222189": 355,
+      "gas:candidate-vibid:4024057222264": 6,
+      "gas:candidate-vibid:4024057205394": 80,
+      "gas:candidate-vibid:4024057222494": 15
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/bashkortostan?action=show&root=1000008&tvd=20220001684960&vrn=100100067795849&region=3&global=&sub_region=3&prver=0&pronetvd=null&vibid=20220001684960&type=464",
@@ -1087,14 +1087,14 @@ export const duma_2016_uik_463_region_3_part_007 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Ахмедьянов Ханиф Нигамадьянович": 50,
-      "Идиятуллин Хасан Сагитзянович": 13,
-      "Исангулов Ильдар Хамзеевич": 34,
-      "Омаров Гаджимурад Заирбекович": 39,
-      "Рахматуллина Зугура Ягануровна": 146,
-      "Сулейманов Рамиль Зулькарнаевич": 5,
-      "Сухарев Иван Константинович": 62,
-      "Шафиков Мурад Римович": 8
+      "gas:candidate-vibid:4024057222136": 50,
+      "gas:candidate-vibid:4024057222236": 13,
+      "gas:candidate-vibid:4024057222375": 34,
+      "gas:candidate-vibid:4024057222446": 39,
+      "gas:candidate-vibid:4024057222189": 146,
+      "gas:candidate-vibid:4024057222264": 5,
+      "gas:candidate-vibid:4024057205394": 62,
+      "gas:candidate-vibid:4024057222494": 8
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/bashkortostan?action=show&root=1000008&tvd=20220001684960&vrn=100100067795849&region=3&global=&sub_region=3&prver=0&pronetvd=null&vibid=20220001684960&type=464",
@@ -1145,14 +1145,14 @@ export const duma_2016_uik_463_region_3_part_007 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Ахмедьянов Ханиф Нигамадьянович": 88,
-      "Идиятуллин Хасан Сагитзянович": 24,
-      "Исангулов Ильдар Хамзеевич": 46,
-      "Омаров Гаджимурад Заирбекович": 38,
-      "Рахматуллина Зугура Ягануровна": 354,
-      "Сулейманов Рамиль Зулькарнаевич": 9,
-      "Сухарев Иван Константинович": 145,
-      "Шафиков Мурад Римович": 19
+      "gas:candidate-vibid:4024057222136": 88,
+      "gas:candidate-vibid:4024057222236": 24,
+      "gas:candidate-vibid:4024057222375": 46,
+      "gas:candidate-vibid:4024057222446": 38,
+      "gas:candidate-vibid:4024057222189": 354,
+      "gas:candidate-vibid:4024057222264": 9,
+      "gas:candidate-vibid:4024057205394": 145,
+      "gas:candidate-vibid:4024057222494": 19
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/bashkortostan?action=show&root=1000008&tvd=20220001684960&vrn=100100067795849&region=3&global=&sub_region=3&prver=0&pronetvd=null&vibid=20220001684960&type=464",
@@ -1203,14 +1203,14 @@ export const duma_2016_uik_463_region_3_part_007 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Ахмедьянов Ханиф Нигамадьянович": 26,
-      "Идиятуллин Хасан Сагитзянович": 13,
-      "Исангулов Ильдар Хамзеевич": 13,
-      "Омаров Гаджимурад Заирбекович": 21,
-      "Рахматуллина Зугура Ягануровна": 74,
-      "Сулейманов Рамиль Зулькарнаевич": 2,
-      "Сухарев Иван Константинович": 33,
-      "Шафиков Мурад Римович": 1
+      "gas:candidate-vibid:4024057222136": 26,
+      "gas:candidate-vibid:4024057222236": 13,
+      "gas:candidate-vibid:4024057222375": 13,
+      "gas:candidate-vibid:4024057222446": 21,
+      "gas:candidate-vibid:4024057222189": 74,
+      "gas:candidate-vibid:4024057222264": 2,
+      "gas:candidate-vibid:4024057205394": 33,
+      "gas:candidate-vibid:4024057222494": 1
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/bashkortostan?action=show&root=1000008&tvd=20220001684960&vrn=100100067795849&region=3&global=&sub_region=3&prver=0&pronetvd=null&vibid=20220001684960&type=464",
@@ -1261,14 +1261,14 @@ export const duma_2016_uik_463_region_3_part_007 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Ахмедьянов Ханиф Нигамадьянович": 127,
-      "Идиятуллин Хасан Сагитзянович": 90,
-      "Исангулов Ильдар Хамзеевич": 90,
-      "Омаров Гаджимурад Заирбекович": 78,
-      "Рахматуллина Зугура Ягануровна": 592,
-      "Сулейманов Рамиль Зулькарнаевич": 30,
-      "Сухарев Иван Константинович": 181,
-      "Шафиков Мурад Римович": 14
+      "gas:candidate-vibid:4024057222136": 127,
+      "gas:candidate-vibid:4024057222236": 90,
+      "gas:candidate-vibid:4024057222375": 90,
+      "gas:candidate-vibid:4024057222446": 78,
+      "gas:candidate-vibid:4024057222189": 592,
+      "gas:candidate-vibid:4024057222264": 30,
+      "gas:candidate-vibid:4024057205394": 181,
+      "gas:candidate-vibid:4024057222494": 14
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/bashkortostan?action=show&root=1000008&tvd=20220001684960&vrn=100100067795849&region=3&global=&sub_region=3&prver=0&pronetvd=null&vibid=20220001684960&type=464",
@@ -1319,14 +1319,14 @@ export const duma_2016_uik_463_region_3_part_007 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Ахмедьянов Ханиф Нигамадьянович": 19,
-      "Идиятуллин Хасан Сагитзянович": 9,
-      "Исангулов Ильдар Хамзеевич": 122,
-      "Омаров Гаджимурад Заирбекович": 142,
-      "Рахматуллина Зугура Ягануровна": 1422,
-      "Сулейманов Рамиль Зулькарнаевич": 10,
-      "Сухарев Иван Константинович": 303,
-      "Шафиков Мурад Римович": 8
+      "gas:candidate-vibid:4024057222136": 19,
+      "gas:candidate-vibid:4024057222236": 9,
+      "gas:candidate-vibid:4024057222375": 122,
+      "gas:candidate-vibid:4024057222446": 142,
+      "gas:candidate-vibid:4024057222189": 1422,
+      "gas:candidate-vibid:4024057222264": 10,
+      "gas:candidate-vibid:4024057205394": 303,
+      "gas:candidate-vibid:4024057222494": 8
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/bashkortostan?action=show&root=1000008&tvd=20220001684960&vrn=100100067795849&region=3&global=&sub_region=3&prver=0&pronetvd=null&vibid=20220001684960&type=464",
@@ -1377,14 +1377,14 @@ export const duma_2016_uik_463_region_3_part_007 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Ахмедьянов Ханиф Нигамадьянович": 203,
-      "Идиятуллин Хасан Сагитзянович": 70,
-      "Исангулов Ильдар Хамзеевич": 58,
-      "Омаров Гаджимурад Заирбекович": 124,
-      "Рахматуллина Зугура Ягануровна": 844,
-      "Сулейманов Рамиль Зулькарнаевич": 19,
-      "Сухарев Иван Константинович": 133,
-      "Шафиков Мурад Римович": 15
+      "gas:candidate-vibid:4024057222136": 203,
+      "gas:candidate-vibid:4024057222236": 70,
+      "gas:candidate-vibid:4024057222375": 58,
+      "gas:candidate-vibid:4024057222446": 124,
+      "gas:candidate-vibid:4024057222189": 844,
+      "gas:candidate-vibid:4024057222264": 19,
+      "gas:candidate-vibid:4024057205394": 133,
+      "gas:candidate-vibid:4024057222494": 15
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/bashkortostan?action=show&root=1000008&tvd=20220001684960&vrn=100100067795849&region=3&global=&sub_region=3&prver=0&pronetvd=null&vibid=20220001684960&type=464",
@@ -1435,14 +1435,14 @@ export const duma_2016_uik_463_region_3_part_007 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Ахмедьянов Ханиф Нигамадьянович": 63,
-      "Идиятуллин Хасан Сагитзянович": 100,
-      "Исангулов Ильдар Хамзеевич": 95,
-      "Омаров Гаджимурад Заирбекович": 34,
-      "Рахматуллина Зугура Ягануровна": 1009,
-      "Сулейманов Рамиль Зулькарнаевич": 9,
-      "Сухарев Иван Константинович": 41,
-      "Шафиков Мурад Римович": 12
+      "gas:candidate-vibid:4024057222136": 63,
+      "gas:candidate-vibid:4024057222236": 100,
+      "gas:candidate-vibid:4024057222375": 95,
+      "gas:candidate-vibid:4024057222446": 34,
+      "gas:candidate-vibid:4024057222189": 1009,
+      "gas:candidate-vibid:4024057222264": 9,
+      "gas:candidate-vibid:4024057205394": 41,
+      "gas:candidate-vibid:4024057222494": 12
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/bashkortostan?action=show&root=1000008&tvd=20220001684960&vrn=100100067795849&region=3&global=&sub_region=3&prver=0&pronetvd=null&vibid=20220001684960&type=464",
@@ -1493,14 +1493,14 @@ export const duma_2016_uik_463_region_3_part_007 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Ахмедьянов Ханиф Нигамадьянович": 67,
-      "Идиятуллин Хасан Сагитзянович": 98,
-      "Исангулов Ильдар Хамзеевич": 116,
-      "Омаров Гаджимурад Заирбекович": 98,
-      "Рахматуллина Зугура Ягануровна": 1307,
-      "Сулейманов Рамиль Зулькарнаевич": 17,
-      "Сухарев Иван Константинович": 203,
-      "Шафиков Мурад Римович": 0
+      "gas:candidate-vibid:4024057222136": 67,
+      "gas:candidate-vibid:4024057222236": 98,
+      "gas:candidate-vibid:4024057222375": 116,
+      "gas:candidate-vibid:4024057222446": 98,
+      "gas:candidate-vibid:4024057222189": 1307,
+      "gas:candidate-vibid:4024057222264": 17,
+      "gas:candidate-vibid:4024057205394": 203,
+      "gas:candidate-vibid:4024057222494": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/bashkortostan?action=show&root=1000008&tvd=20220001684960&vrn=100100067795849&region=3&global=&sub_region=3&prver=0&pronetvd=null&vibid=20220001684960&type=464",
@@ -1551,14 +1551,14 @@ export const duma_2016_uik_463_region_3_part_007 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Ахмедьянов Ханиф Нигамадьянович": 56,
-      "Идиятуллин Хасан Сагитзянович": 34,
-      "Исангулов Ильдар Хамзеевич": 33,
-      "Омаров Гаджимурад Заирбекович": 21,
-      "Рахматуллина Зугура Ягануровна": 495,
-      "Сулейманов Рамиль Зулькарнаевич": 7,
-      "Сухарев Иван Константинович": 96,
-      "Шафиков Мурад Римович": 6
+      "gas:candidate-vibid:4024057222136": 56,
+      "gas:candidate-vibid:4024057222236": 34,
+      "gas:candidate-vibid:4024057222375": 33,
+      "gas:candidate-vibid:4024057222446": 21,
+      "gas:candidate-vibid:4024057222189": 495,
+      "gas:candidate-vibid:4024057222264": 7,
+      "gas:candidate-vibid:4024057205394": 96,
+      "gas:candidate-vibid:4024057222494": 6
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/bashkortostan?action=show&root=1000008&tvd=20220001684960&vrn=100100067795849&region=3&global=&sub_region=3&prver=0&pronetvd=null&vibid=20220001684960&type=464",
@@ -1609,14 +1609,14 @@ export const duma_2016_uik_463_region_3_part_007 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Ахмедьянов Ханиф Нигамадьянович": 70,
-      "Идиятуллин Хасан Сагитзянович": 33,
-      "Исангулов Ильдар Хамзеевич": 57,
-      "Омаров Гаджимурад Заирбекович": 42,
-      "Рахматуллина Зугура Ягануровна": 338,
-      "Сулейманов Рамиль Зулькарнаевич": 10,
-      "Сухарев Иван Константинович": 97,
-      "Шафиков Мурад Римович": 8
+      "gas:candidate-vibid:4024057222136": 70,
+      "gas:candidate-vibid:4024057222236": 33,
+      "gas:candidate-vibid:4024057222375": 57,
+      "gas:candidate-vibid:4024057222446": 42,
+      "gas:candidate-vibid:4024057222189": 338,
+      "gas:candidate-vibid:4024057222264": 10,
+      "gas:candidate-vibid:4024057205394": 97,
+      "gas:candidate-vibid:4024057222494": 8
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/bashkortostan?action=show&root=1000008&tvd=20220001684960&vrn=100100067795849&region=3&global=&sub_region=3&prver=0&pronetvd=null&vibid=20220001684960&type=464",
@@ -1667,14 +1667,14 @@ export const duma_2016_uik_463_region_3_part_007 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Ахмедьянов Ханиф Нигамадьянович": 73,
-      "Идиятуллин Хасан Сагитзянович": 24,
-      "Исангулов Ильдар Хамзеевич": 29,
-      "Омаров Гаджимурад Заирбекович": 21,
-      "Рахматуллина Зугура Ягануровна": 308,
-      "Сулейманов Рамиль Зулькарнаевич": 5,
-      "Сухарев Иван Константинович": 14,
-      "Шафиков Мурад Римович": 37
+      "gas:candidate-vibid:4024057222136": 73,
+      "gas:candidate-vibid:4024057222236": 24,
+      "gas:candidate-vibid:4024057222375": 29,
+      "gas:candidate-vibid:4024057222446": 21,
+      "gas:candidate-vibid:4024057222189": 308,
+      "gas:candidate-vibid:4024057222264": 5,
+      "gas:candidate-vibid:4024057205394": 14,
+      "gas:candidate-vibid:4024057222494": 37
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/bashkortostan?action=show&root=1000008&tvd=20220001684960&vrn=100100067795849&region=3&global=&sub_region=3&prver=0&pronetvd=null&vibid=20220001684960&type=464",
@@ -1725,14 +1725,14 @@ export const duma_2016_uik_463_region_3_part_007 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Ахмедьянов Ханиф Нигамадьянович": 12,
-      "Идиятуллин Хасан Сагитзянович": 6,
-      "Исангулов Ильдар Хамзеевич": 5,
-      "Омаров Гаджимурад Заирбекович": 2,
-      "Рахматуллина Зугура Ягануровна": 110,
-      "Сулейманов Рамиль Зулькарнаевич": 2,
-      "Сухарев Иван Константинович": 2,
-      "Шафиков Мурад Римович": 2
+      "gas:candidate-vibid:4024057222136": 12,
+      "gas:candidate-vibid:4024057222236": 6,
+      "gas:candidate-vibid:4024057222375": 5,
+      "gas:candidate-vibid:4024057222446": 2,
+      "gas:candidate-vibid:4024057222189": 110,
+      "gas:candidate-vibid:4024057222264": 2,
+      "gas:candidate-vibid:4024057205394": 2,
+      "gas:candidate-vibid:4024057222494": 2
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/bashkortostan?action=show&root=1000008&tvd=20220001684960&vrn=100100067795849&region=3&global=&sub_region=3&prver=0&pronetvd=null&vibid=20220001684960&type=464",
@@ -1783,14 +1783,14 @@ export const duma_2016_uik_463_region_3_part_007 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Ахмедьянов Ханиф Нигамадьянович": 24,
-      "Идиятуллин Хасан Сагитзянович": 14,
-      "Исангулов Ильдар Хамзеевич": 19,
-      "Омаров Гаджимурад Заирбекович": 11,
-      "Рахматуллина Зугура Ягануровна": 84,
-      "Сулейманов Рамиль Зулькарнаевич": 6,
-      "Сухарев Иван Константинович": 16,
-      "Шафиков Мурад Римович": 11
+      "gas:candidate-vibid:4024057222136": 24,
+      "gas:candidate-vibid:4024057222236": 14,
+      "gas:candidate-vibid:4024057222375": 19,
+      "gas:candidate-vibid:4024057222446": 11,
+      "gas:candidate-vibid:4024057222189": 84,
+      "gas:candidate-vibid:4024057222264": 6,
+      "gas:candidate-vibid:4024057205394": 16,
+      "gas:candidate-vibid:4024057222494": 11
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/bashkortostan?action=show&root=1000008&tvd=20220001684960&vrn=100100067795849&region=3&global=&sub_region=3&prver=0&pronetvd=null&vibid=20220001684960&type=464",
@@ -1841,14 +1841,14 @@ export const duma_2016_uik_463_region_3_part_007 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Ахмедьянов Ханиф Нигамадьянович": 16,
-      "Идиятуллин Хасан Сагитзянович": 7,
-      "Исангулов Ильдар Хамзеевич": 11,
-      "Омаров Гаджимурад Заирбекович": 7,
-      "Рахматуллина Зугура Ягануровна": 122,
-      "Сулейманов Рамиль Зулькарнаевич": 1,
-      "Сухарев Иван Константинович": 3,
-      "Шафиков Мурад Римович": 1
+      "gas:candidate-vibid:4024057222136": 16,
+      "gas:candidate-vibid:4024057222236": 7,
+      "gas:candidate-vibid:4024057222375": 11,
+      "gas:candidate-vibid:4024057222446": 7,
+      "gas:candidate-vibid:4024057222189": 122,
+      "gas:candidate-vibid:4024057222264": 1,
+      "gas:candidate-vibid:4024057205394": 3,
+      "gas:candidate-vibid:4024057222494": 1
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/bashkortostan?action=show&root=1000008&tvd=20220001684960&vrn=100100067795849&region=3&global=&sub_region=3&prver=0&pronetvd=null&vibid=20220001684960&type=464",
@@ -1899,14 +1899,14 @@ export const duma_2016_uik_463_region_3_part_007 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Ахмедьянов Ханиф Нигамадьянович": 54,
-      "Идиятуллин Хасан Сагитзянович": 26,
-      "Исангулов Ильдар Хамзеевич": 25,
-      "Омаров Гаджимурад Заирбекович": 2,
-      "Рахматуллина Зугура Ягануровна": 182,
-      "Сулейманов Рамиль Зулькарнаевич": 6,
-      "Сухарев Иван Константинович": 11,
-      "Шафиков Мурад Римович": 0
+      "gas:candidate-vibid:4024057222136": 54,
+      "gas:candidate-vibid:4024057222236": 26,
+      "gas:candidate-vibid:4024057222375": 25,
+      "gas:candidate-vibid:4024057222446": 2,
+      "gas:candidate-vibid:4024057222189": 182,
+      "gas:candidate-vibid:4024057222264": 6,
+      "gas:candidate-vibid:4024057205394": 11,
+      "gas:candidate-vibid:4024057222494": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/bashkortostan?action=show&root=1000008&tvd=20220001684960&vrn=100100067795849&region=3&global=&sub_region=3&prver=0&pronetvd=null&vibid=20220001684960&type=464",
@@ -1957,14 +1957,14 @@ export const duma_2016_uik_463_region_3_part_007 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Ахмедьянов Ханиф Нигамадьянович": 37,
-      "Идиятуллин Хасан Сагитзянович": 14,
-      "Исангулов Ильдар Хамзеевич": 19,
-      "Омаров Гаджимурад Заирбекович": 2,
-      "Рахматуллина Зугура Ягануровна": 142,
-      "Сулейманов Рамиль Зулькарнаевич": 7,
-      "Сухарев Иван Константинович": 7,
-      "Шафиков Мурад Римович": 0
+      "gas:candidate-vibid:4024057222136": 37,
+      "gas:candidate-vibid:4024057222236": 14,
+      "gas:candidate-vibid:4024057222375": 19,
+      "gas:candidate-vibid:4024057222446": 2,
+      "gas:candidate-vibid:4024057222189": 142,
+      "gas:candidate-vibid:4024057222264": 7,
+      "gas:candidate-vibid:4024057205394": 7,
+      "gas:candidate-vibid:4024057222494": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/bashkortostan?action=show&root=1000008&tvd=20220001684960&vrn=100100067795849&region=3&global=&sub_region=3&prver=0&pronetvd=null&vibid=20220001684960&type=464",
@@ -2015,14 +2015,14 @@ export const duma_2016_uik_463_region_3_part_007 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Ахмедьянов Ханиф Нигамадьянович": 41,
-      "Идиятуллин Хасан Сагитзянович": 13,
-      "Исангулов Ильдар Хамзеевич": 20,
-      "Омаров Гаджимурад Заирбекович": 15,
-      "Рахматуллина Зугура Ягануровна": 337,
-      "Сулейманов Рамиль Зулькарнаевич": 6,
-      "Сухарев Иван Константинович": 29,
-      "Шафиков Мурад Римович": 4
+      "gas:candidate-vibid:4024057222136": 41,
+      "gas:candidate-vibid:4024057222236": 13,
+      "gas:candidate-vibid:4024057222375": 20,
+      "gas:candidate-vibid:4024057222446": 15,
+      "gas:candidate-vibid:4024057222189": 337,
+      "gas:candidate-vibid:4024057222264": 6,
+      "gas:candidate-vibid:4024057205394": 29,
+      "gas:candidate-vibid:4024057222494": 4
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/bashkortostan?action=show&root=1000008&tvd=20220001684960&vrn=100100067795849&region=3&global=&sub_region=3&prver=0&pronetvd=null&vibid=20220001684960&type=464",
@@ -2073,14 +2073,14 @@ export const duma_2016_uik_463_region_3_part_007 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Ахмедьянов Ханиф Нигамадьянович": 138,
-      "Идиятуллин Хасан Сагитзянович": 25,
-      "Исангулов Ильдар Хамзеевич": 21,
-      "Омаров Гаджимурад Заирбекович": 6,
-      "Рахматуллина Зугура Ягануровна": 142,
-      "Сулейманов Рамиль Зулькарнаевич": 4,
-      "Сухарев Иван Константинович": 8,
-      "Шафиков Мурад Римович": 6
+      "gas:candidate-vibid:4024057222136": 138,
+      "gas:candidate-vibid:4024057222236": 25,
+      "gas:candidate-vibid:4024057222375": 21,
+      "gas:candidate-vibid:4024057222446": 6,
+      "gas:candidate-vibid:4024057222189": 142,
+      "gas:candidate-vibid:4024057222264": 4,
+      "gas:candidate-vibid:4024057205394": 8,
+      "gas:candidate-vibid:4024057222494": 6
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/bashkortostan?action=show&root=1000008&tvd=20220001684960&vrn=100100067795849&region=3&global=&sub_region=3&prver=0&pronetvd=null&vibid=20220001684960&type=464",
@@ -2131,14 +2131,14 @@ export const duma_2016_uik_463_region_3_part_007 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Ахмедьянов Ханиф Нигамадьянович": 32,
-      "Идиятуллин Хасан Сагитзянович": 8,
-      "Исангулов Ильдар Хамзеевич": 7,
-      "Омаров Гаджимурад Заирбекович": 0,
-      "Рахматуллина Зугура Ягануровна": 189,
-      "Сулейманов Рамиль Зулькарнаевич": 5,
-      "Сухарев Иван Константинович": 4,
-      "Шафиков Мурад Римович": 0
+      "gas:candidate-vibid:4024057222136": 32,
+      "gas:candidate-vibid:4024057222236": 8,
+      "gas:candidate-vibid:4024057222375": 7,
+      "gas:candidate-vibid:4024057222446": 0,
+      "gas:candidate-vibid:4024057222189": 189,
+      "gas:candidate-vibid:4024057222264": 5,
+      "gas:candidate-vibid:4024057205394": 4,
+      "gas:candidate-vibid:4024057222494": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/bashkortostan?action=show&root=1000008&tvd=20220001684960&vrn=100100067795849&region=3&global=&sub_region=3&prver=0&pronetvd=null&vibid=20220001684960&type=464",
@@ -2189,14 +2189,14 @@ export const duma_2016_uik_463_region_3_part_007 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Ахмедьянов Ханиф Нигамадьянович": 113,
-      "Идиятуллин Хасан Сагитзянович": 0,
-      "Исангулов Ильдар Хамзеевич": 5,
-      "Омаров Гаджимурад Заирбекович": 0,
-      "Рахматуллина Зугура Ягануровна": 77,
-      "Сулейманов Рамиль Зулькарнаевич": 0,
-      "Сухарев Иван Константинович": 0,
-      "Шафиков Мурад Римович": 3
+      "gas:candidate-vibid:4024057222136": 113,
+      "gas:candidate-vibid:4024057222236": 0,
+      "gas:candidate-vibid:4024057222375": 5,
+      "gas:candidate-vibid:4024057222446": 0,
+      "gas:candidate-vibid:4024057222189": 77,
+      "gas:candidate-vibid:4024057222264": 0,
+      "gas:candidate-vibid:4024057205394": 0,
+      "gas:candidate-vibid:4024057222494": 3
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/bashkortostan?action=show&root=1000008&tvd=20220001684960&vrn=100100067795849&region=3&global=&sub_region=3&prver=0&pronetvd=null&vibid=20220001684960&type=464",
@@ -2247,14 +2247,14 @@ export const duma_2016_uik_463_region_3_part_007 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Ахмедьянов Ханиф Нигамадьянович": 15,
-      "Идиятуллин Хасан Сагитзянович": 14,
-      "Исангулов Ильдар Хамзеевич": 16,
-      "Омаров Гаджимурад Заирбекович": 17,
-      "Рахматуллина Зугура Ягануровна": 160,
-      "Сулейманов Рамиль Зулькарнаевич": 0,
-      "Сухарев Иван Константинович": 75,
-      "Шафиков Мурад Римович": 2
+      "gas:candidate-vibid:4024057222136": 15,
+      "gas:candidate-vibid:4024057222236": 14,
+      "gas:candidate-vibid:4024057222375": 16,
+      "gas:candidate-vibid:4024057222446": 17,
+      "gas:candidate-vibid:4024057222189": 160,
+      "gas:candidate-vibid:4024057222264": 0,
+      "gas:candidate-vibid:4024057205394": 75,
+      "gas:candidate-vibid:4024057222494": 2
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/bashkortostan?action=show&root=1000008&tvd=20220001684960&vrn=100100067795849&region=3&global=&sub_region=3&prver=0&pronetvd=null&vibid=20220001684960&type=464",
@@ -2305,14 +2305,14 @@ export const duma_2016_uik_463_region_3_part_007 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Ахмедьянов Ханиф Нигамадьянович": 60,
-      "Идиятуллин Хасан Сагитзянович": 20,
-      "Исангулов Ильдар Хамзеевич": 20,
-      "Омаров Гаджимурад Заирбекович": 18,
-      "Рахматуллина Зугура Ягануровна": 194,
-      "Сулейманов Рамиль Зулькарнаевич": 6,
-      "Сухарев Иван Константинович": 58,
-      "Шафиков Мурад Римович": 2
+      "gas:candidate-vibid:4024057222136": 60,
+      "gas:candidate-vibid:4024057222236": 20,
+      "gas:candidate-vibid:4024057222375": 20,
+      "gas:candidate-vibid:4024057222446": 18,
+      "gas:candidate-vibid:4024057222189": 194,
+      "gas:candidate-vibid:4024057222264": 6,
+      "gas:candidate-vibid:4024057205394": 58,
+      "gas:candidate-vibid:4024057222494": 2
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/bashkortostan?action=show&root=1000008&tvd=20220001684960&vrn=100100067795849&region=3&global=&sub_region=3&prver=0&pronetvd=null&vibid=20220001684960&type=464",
@@ -2363,14 +2363,14 @@ export const duma_2016_uik_463_region_3_part_007 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Ахмедьянов Ханиф Нигамадьянович": 15,
-      "Идиятуллин Хасан Сагитзянович": 5,
-      "Исангулов Ильдар Хамзеевич": 4,
-      "Омаров Гаджимурад Заирбекович": 3,
-      "Рахматуллина Зугура Ягануровна": 140,
-      "Сулейманов Рамиль Зулькарнаевич": 0,
-      "Сухарев Иван Константинович": 2,
-      "Шафиков Мурад Римович": 0
+      "gas:candidate-vibid:4024057222136": 15,
+      "gas:candidate-vibid:4024057222236": 5,
+      "gas:candidate-vibid:4024057222375": 4,
+      "gas:candidate-vibid:4024057222446": 3,
+      "gas:candidate-vibid:4024057222189": 140,
+      "gas:candidate-vibid:4024057222264": 0,
+      "gas:candidate-vibid:4024057205394": 2,
+      "gas:candidate-vibid:4024057222494": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/bashkortostan?action=show&root=1000008&tvd=20220001684960&vrn=100100067795849&region=3&global=&sub_region=3&prver=0&pronetvd=null&vibid=20220001684960&type=464",
@@ -2421,14 +2421,14 @@ export const duma_2016_uik_463_region_3_part_007 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Ахмедьянов Ханиф Нигамадьянович": 127,
-      "Идиятуллин Хасан Сагитзянович": 67,
-      "Исангулов Ильдар Хамзеевич": 63,
-      "Омаров Гаджимурад Заирбекович": 33,
-      "Рахматуллина Зугура Ягануровна": 790,
-      "Сулейманов Рамиль Зулькарнаевич": 12,
-      "Сухарев Иван Константинович": 142,
-      "Шафиков Мурад Римович": 12
+      "gas:candidate-vibid:4024057222136": 127,
+      "gas:candidate-vibid:4024057222236": 67,
+      "gas:candidate-vibid:4024057222375": 63,
+      "gas:candidate-vibid:4024057222446": 33,
+      "gas:candidate-vibid:4024057222189": 790,
+      "gas:candidate-vibid:4024057222264": 12,
+      "gas:candidate-vibid:4024057205394": 142,
+      "gas:candidate-vibid:4024057222494": 12
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/bashkortostan?action=show&root=1000008&tvd=20220001684960&vrn=100100067795849&region=3&global=&sub_region=3&prver=0&pronetvd=null&vibid=20220001684960&type=464",
@@ -2479,14 +2479,14 @@ export const duma_2016_uik_463_region_3_part_007 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Ахмедьянов Ханиф Нигамадьянович": 68,
-      "Идиятуллин Хасан Сагитзянович": 13,
-      "Исангулов Ильдар Хамзеевич": 18,
-      "Омаров Гаджимурад Заирбекович": 8,
-      "Рахматуллина Зугура Ягануровна": 87,
-      "Сулейманов Рамиль Зулькарнаевич": 1,
-      "Сухарев Иван Константинович": 8,
-      "Шафиков Мурад Римович": 3
+      "gas:candidate-vibid:4024057222136": 68,
+      "gas:candidate-vibid:4024057222236": 13,
+      "gas:candidate-vibid:4024057222375": 18,
+      "gas:candidate-vibid:4024057222446": 8,
+      "gas:candidate-vibid:4024057222189": 87,
+      "gas:candidate-vibid:4024057222264": 1,
+      "gas:candidate-vibid:4024057205394": 8,
+      "gas:candidate-vibid:4024057222494": 3
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/bashkortostan?action=show&root=1000008&tvd=20220001684960&vrn=100100067795849&region=3&global=&sub_region=3&prver=0&pronetvd=null&vibid=20220001684960&type=464",
@@ -2537,14 +2537,14 @@ export const duma_2016_uik_463_region_3_part_007 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Ахмедьянов Ханиф Нигамадьянович": 52,
-      "Идиятуллин Хасан Сагитзянович": 22,
-      "Исангулов Ильдар Хамзеевич": 16,
-      "Омаров Гаджимурад Заирбекович": 5,
-      "Рахматуллина Зугура Ягануровна": 124,
-      "Сулейманов Рамиль Зулькарнаевич": 5,
-      "Сухарев Иван Константинович": 11,
-      "Шафиков Мурад Римович": 1
+      "gas:candidate-vibid:4024057222136": 52,
+      "gas:candidate-vibid:4024057222236": 22,
+      "gas:candidate-vibid:4024057222375": 16,
+      "gas:candidate-vibid:4024057222446": 5,
+      "gas:candidate-vibid:4024057222189": 124,
+      "gas:candidate-vibid:4024057222264": 5,
+      "gas:candidate-vibid:4024057205394": 11,
+      "gas:candidate-vibid:4024057222494": 1
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/bashkortostan?action=show&root=1000008&tvd=20220001684960&vrn=100100067795849&region=3&global=&sub_region=3&prver=0&pronetvd=null&vibid=20220001684960&type=464",
@@ -2595,14 +2595,14 @@ export const duma_2016_uik_463_region_3_part_007 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Ахмедьянов Ханиф Нигамадьянович": 58,
-      "Идиятуллин Хасан Сагитзянович": 21,
-      "Исангулов Ильдар Хамзеевич": 29,
-      "Омаров Гаджимурад Заирбекович": 3,
-      "Рахматуллина Зугура Ягануровна": 303,
-      "Сулейманов Рамиль Зулькарнаевич": 2,
-      "Сухарев Иван Константинович": 4,
-      "Шафиков Мурад Римович": 6
+      "gas:candidate-vibid:4024057222136": 58,
+      "gas:candidate-vibid:4024057222236": 21,
+      "gas:candidate-vibid:4024057222375": 29,
+      "gas:candidate-vibid:4024057222446": 3,
+      "gas:candidate-vibid:4024057222189": 303,
+      "gas:candidate-vibid:4024057222264": 2,
+      "gas:candidate-vibid:4024057205394": 4,
+      "gas:candidate-vibid:4024057222494": 6
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/bashkortostan?action=show&root=1000008&tvd=20220001684960&vrn=100100067795849&region=3&global=&sub_region=3&prver=0&pronetvd=null&vibid=20220001684960&type=464",
@@ -2653,14 +2653,14 @@ export const duma_2016_uik_463_region_3_part_007 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Ахмедьянов Ханиф Нигамадьянович": 14,
-      "Идиятуллин Хасан Сагитзянович": 5,
-      "Исангулов Ильдар Хамзеевич": 6,
-      "Омаров Гаджимурад Заирбекович": 3,
-      "Рахматуллина Зугура Ягануровна": 289,
-      "Сулейманов Рамиль Зулькарнаевич": 6,
-      "Сухарев Иван Константинович": 3,
-      "Шафиков Мурад Римович": 0
+      "gas:candidate-vibid:4024057222136": 14,
+      "gas:candidate-vibid:4024057222236": 5,
+      "gas:candidate-vibid:4024057222375": 6,
+      "gas:candidate-vibid:4024057222446": 3,
+      "gas:candidate-vibid:4024057222189": 289,
+      "gas:candidate-vibid:4024057222264": 6,
+      "gas:candidate-vibid:4024057205394": 3,
+      "gas:candidate-vibid:4024057222494": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/bashkortostan?action=show&root=1000008&tvd=20220001684960&vrn=100100067795849&region=3&global=&sub_region=3&prver=0&pronetvd=null&vibid=20220001684960&type=464",
@@ -2711,14 +2711,14 @@ export const duma_2016_uik_463_region_3_part_007 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Ахмедьянов Ханиф Нигамадьянович": 100,
-      "Идиятуллин Хасан Сагитзянович": 31,
-      "Исангулов Ильдар Хамзеевич": 38,
-      "Омаров Гаджимурад Заирбекович": 27,
-      "Рахматуллина Зугура Ягануровна": 589,
-      "Сулейманов Рамиль Зулькарнаевич": 5,
-      "Сухарев Иван Константинович": 110,
-      "Шафиков Мурад Римович": 14
+      "gas:candidate-vibid:4024057222136": 100,
+      "gas:candidate-vibid:4024057222236": 31,
+      "gas:candidate-vibid:4024057222375": 38,
+      "gas:candidate-vibid:4024057222446": 27,
+      "gas:candidate-vibid:4024057222189": 589,
+      "gas:candidate-vibid:4024057222264": 5,
+      "gas:candidate-vibid:4024057205394": 110,
+      "gas:candidate-vibid:4024057222494": 14
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/bashkortostan?action=show&root=1000008&tvd=20220001684960&vrn=100100067795849&region=3&global=&sub_region=3&prver=0&pronetvd=null&vibid=20220001684960&type=464",
@@ -2769,14 +2769,14 @@ export const duma_2016_uik_463_region_3_part_007 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Ахмедьянов Ханиф Нигамадьянович": 31,
-      "Идиятуллин Хасан Сагитзянович": 8,
-      "Исангулов Ильдар Хамзеевич": 20,
-      "Омаров Гаджимурад Заирбекович": 5,
-      "Рахматуллина Зугура Ягануровна": 301,
-      "Сулейманов Рамиль Зулькарнаевич": 8,
-      "Сухарев Иван Константинович": 35,
-      "Шафиков Мурад Римович": 1
+      "gas:candidate-vibid:4024057222136": 31,
+      "gas:candidate-vibid:4024057222236": 8,
+      "gas:candidate-vibid:4024057222375": 20,
+      "gas:candidate-vibid:4024057222446": 5,
+      "gas:candidate-vibid:4024057222189": 301,
+      "gas:candidate-vibid:4024057222264": 8,
+      "gas:candidate-vibid:4024057205394": 35,
+      "gas:candidate-vibid:4024057222494": 1
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/bashkortostan?action=show&root=1000008&tvd=20220001684960&vrn=100100067795849&region=3&global=&sub_region=3&prver=0&pronetvd=null&vibid=20220001684960&type=464",
@@ -2827,14 +2827,14 @@ export const duma_2016_uik_463_region_3_part_007 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Ахмедьянов Ханиф Нигамадьянович": 23,
-      "Идиятуллин Хасан Сагитзянович": 9,
-      "Исангулов Ильдар Хамзеевич": 19,
-      "Омаров Гаджимурад Заирбекович": 15,
-      "Рахматуллина Зугура Ягануровна": 665,
-      "Сулейманов Рамиль Зулькарнаевич": 3,
-      "Сухарев Иван Константинович": 47,
-      "Шафиков Мурад Римович": 3
+      "gas:candidate-vibid:4024057222136": 23,
+      "gas:candidate-vibid:4024057222236": 9,
+      "gas:candidate-vibid:4024057222375": 19,
+      "gas:candidate-vibid:4024057222446": 15,
+      "gas:candidate-vibid:4024057222189": 665,
+      "gas:candidate-vibid:4024057222264": 3,
+      "gas:candidate-vibid:4024057205394": 47,
+      "gas:candidate-vibid:4024057222494": 3
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/bashkortostan?action=show&root=1000008&tvd=20220001684960&vrn=100100067795849&region=3&global=&sub_region=3&prver=0&pronetvd=null&vibid=20220001684960&type=464",
@@ -2885,14 +2885,14 @@ export const duma_2016_uik_463_region_3_part_007 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Ахмедьянов Ханиф Нигамадьянович": 74,
-      "Идиятуллин Хасан Сагитзянович": 29,
-      "Исангулов Ильдар Хамзеевич": 29,
-      "Омаров Гаджимурад Заирбекович": 17,
-      "Рахматуллина Зугура Ягануровна": 191,
-      "Сулейманов Рамиль Зулькарнаевич": 5,
-      "Сухарев Иван Константинович": 48,
-      "Шафиков Мурад Римович": 11
+      "gas:candidate-vibid:4024057222136": 74,
+      "gas:candidate-vibid:4024057222236": 29,
+      "gas:candidate-vibid:4024057222375": 29,
+      "gas:candidate-vibid:4024057222446": 17,
+      "gas:candidate-vibid:4024057222189": 191,
+      "gas:candidate-vibid:4024057222264": 5,
+      "gas:candidate-vibid:4024057205394": 48,
+      "gas:candidate-vibid:4024057222494": 11
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/bashkortostan?action=show&root=1000008&tvd=20220001684960&vrn=100100067795849&region=3&global=&sub_region=3&prver=0&pronetvd=null&vibid=20220001684960&type=464",
@@ -2943,14 +2943,14 @@ export const duma_2016_uik_463_region_3_part_007 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Ахмедьянов Ханиф Нигамадьянович": 7,
-      "Идиятуллин Хасан Сагитзянович": 6,
-      "Исангулов Ильдар Хамзеевич": 4,
-      "Омаров Гаджимурад Заирбекович": 3,
-      "Рахматуллина Зугура Ягануровна": 137,
-      "Сулейманов Рамиль Зулькарнаевич": 0,
-      "Сухарев Иван Константинович": 1,
-      "Шафиков Мурад Римович": 0
+      "gas:candidate-vibid:4024057222136": 7,
+      "gas:candidate-vibid:4024057222236": 6,
+      "gas:candidate-vibid:4024057222375": 4,
+      "gas:candidate-vibid:4024057222446": 3,
+      "gas:candidate-vibid:4024057222189": 137,
+      "gas:candidate-vibid:4024057222264": 0,
+      "gas:candidate-vibid:4024057205394": 1,
+      "gas:candidate-vibid:4024057222494": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/bashkortostan?action=show&root=1000008&tvd=20220001684960&vrn=100100067795849&region=3&global=&sub_region=3&prver=0&pronetvd=null&vibid=20220001684960&type=464",
@@ -3001,14 +3001,14 @@ export const duma_2016_uik_463_region_3_part_007 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Ахмедьянов Ханиф Нигамадьянович": 27,
-      "Идиятуллин Хасан Сагитзянович": 7,
-      "Исангулов Ильдар Хамзеевич": 20,
-      "Омаров Гаджимурад Заирбекович": 5,
-      "Рахматуллина Зугура Ягануровна": 327,
-      "Сулейманов Рамиль Зулькарнаевич": 5,
-      "Сухарев Иван Константинович": 5,
-      "Шафиков Мурад Римович": 0
+      "gas:candidate-vibid:4024057222136": 27,
+      "gas:candidate-vibid:4024057222236": 7,
+      "gas:candidate-vibid:4024057222375": 20,
+      "gas:candidate-vibid:4024057222446": 5,
+      "gas:candidate-vibid:4024057222189": 327,
+      "gas:candidate-vibid:4024057222264": 5,
+      "gas:candidate-vibid:4024057205394": 5,
+      "gas:candidate-vibid:4024057222494": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/bashkortostan?action=show&root=1000008&tvd=20220001684960&vrn=100100067795849&region=3&global=&sub_region=3&prver=0&pronetvd=null&vibid=20220001684960&type=464",
@@ -3059,14 +3059,14 @@ export const duma_2016_uik_463_region_3_part_007 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Ахмедьянов Ханиф Нигамадьянович": 31,
-      "Идиятуллин Хасан Сагитзянович": 9,
-      "Исангулов Ильдар Хамзеевич": 11,
-      "Омаров Гаджимурад Заирбекович": 13,
-      "Рахматуллина Зугура Ягануровна": 114,
-      "Сулейманов Рамиль Зулькарнаевич": 2,
-      "Сухарев Иван Константинович": 7,
-      "Шафиков Мурад Римович": 1
+      "gas:candidate-vibid:4024057222136": 31,
+      "gas:candidate-vibid:4024057222236": 9,
+      "gas:candidate-vibid:4024057222375": 11,
+      "gas:candidate-vibid:4024057222446": 13,
+      "gas:candidate-vibid:4024057222189": 114,
+      "gas:candidate-vibid:4024057222264": 2,
+      "gas:candidate-vibid:4024057205394": 7,
+      "gas:candidate-vibid:4024057222494": 1
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/bashkortostan?action=show&root=1000008&tvd=20220001684960&vrn=100100067795849&region=3&global=&sub_region=3&prver=0&pronetvd=null&vibid=20220001684960&type=464",
@@ -3117,14 +3117,14 @@ export const duma_2016_uik_463_region_3_part_007 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Ахмедьянов Ханиф Нигамадьянович": 11,
-      "Идиятуллин Хасан Сагитзянович": 5,
-      "Исангулов Ильдар Хамзеевич": 4,
-      "Омаров Гаджимурад Заирбекович": 5,
-      "Рахматуллина Зугура Ягануровна": 123,
-      "Сулейманов Рамиль Зулькарнаевич": 0,
-      "Сухарев Иван Константинович": 0,
-      "Шафиков Мурад Римович": 0
+      "gas:candidate-vibid:4024057222136": 11,
+      "gas:candidate-vibid:4024057222236": 5,
+      "gas:candidate-vibid:4024057222375": 4,
+      "gas:candidate-vibid:4024057222446": 5,
+      "gas:candidate-vibid:4024057222189": 123,
+      "gas:candidate-vibid:4024057222264": 0,
+      "gas:candidate-vibid:4024057205394": 0,
+      "gas:candidate-vibid:4024057222494": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/bashkortostan?action=show&root=1000008&tvd=20220001684960&vrn=100100067795849&region=3&global=&sub_region=3&prver=0&pronetvd=null&vibid=20220001684960&type=464",
@@ -3175,14 +3175,14 @@ export const duma_2016_uik_463_region_3_part_007 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Ахмедьянов Ханиф Нигамадьянович": 36,
-      "Идиятуллин Хасан Сагитзянович": 14,
-      "Исангулов Ильдар Хамзеевич": 22,
-      "Омаров Гаджимурад Заирбекович": 62,
-      "Рахматуллина Зугура Ягануровна": 138,
-      "Сулейманов Рамиль Зулькарнаевич": 4,
-      "Сухарев Иван Константинович": 30,
-      "Шафиков Мурад Римович": 4
+      "gas:candidate-vibid:4024057222136": 36,
+      "gas:candidate-vibid:4024057222236": 14,
+      "gas:candidate-vibid:4024057222375": 22,
+      "gas:candidate-vibid:4024057222446": 62,
+      "gas:candidate-vibid:4024057222189": 138,
+      "gas:candidate-vibid:4024057222264": 4,
+      "gas:candidate-vibid:4024057205394": 30,
+      "gas:candidate-vibid:4024057222494": 4
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/bashkortostan?action=show&root=1000008&tvd=20220001684960&vrn=100100067795849&region=3&global=&sub_region=3&prver=0&pronetvd=null&vibid=20220001684960&type=464",
@@ -3233,14 +3233,14 @@ export const duma_2016_uik_463_region_3_part_007 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Ахмедьянов Ханиф Нигамадьянович": 19,
-      "Идиятуллин Хасан Сагитзянович": 7,
-      "Исангулов Ильдар Хамзеевич": 9,
-      "Омаров Гаджимурад Заирбекович": 12,
-      "Рахматуллина Зугура Ягануровна": 244,
-      "Сулейманов Рамиль Зулькарнаевич": 6,
-      "Сухарев Иван Константинович": 19,
-      "Шафиков Мурад Римович": 5
+      "gas:candidate-vibid:4024057222136": 19,
+      "gas:candidate-vibid:4024057222236": 7,
+      "gas:candidate-vibid:4024057222375": 9,
+      "gas:candidate-vibid:4024057222446": 12,
+      "gas:candidate-vibid:4024057222189": 244,
+      "gas:candidate-vibid:4024057222264": 6,
+      "gas:candidate-vibid:4024057205394": 19,
+      "gas:candidate-vibid:4024057222494": 5
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/bashkortostan?action=show&root=1000008&tvd=20220001684960&vrn=100100067795849&region=3&global=&sub_region=3&prver=0&pronetvd=null&vibid=20220001684960&type=464",
@@ -3291,14 +3291,14 @@ export const duma_2016_uik_463_region_3_part_007 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Ахмедьянов Ханиф Нигамадьянович": 46,
-      "Идиятуллин Хасан Сагитзянович": 16,
-      "Исангулов Ильдар Хамзеевич": 17,
-      "Омаров Гаджимурад Заирбекович": 35,
-      "Рахматуллина Зугура Ягануровна": 180,
-      "Сулейманов Рамиль Зулькарнаевич": 4,
-      "Сухарев Иван Константинович": 50,
-      "Шафиков Мурад Римович": 4
+      "gas:candidate-vibid:4024057222136": 46,
+      "gas:candidate-vibid:4024057222236": 16,
+      "gas:candidate-vibid:4024057222375": 17,
+      "gas:candidate-vibid:4024057222446": 35,
+      "gas:candidate-vibid:4024057222189": 180,
+      "gas:candidate-vibid:4024057222264": 4,
+      "gas:candidate-vibid:4024057205394": 50,
+      "gas:candidate-vibid:4024057222494": 4
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/bashkortostan?action=show&root=1000008&tvd=20220001684960&vrn=100100067795849&region=3&global=&sub_region=3&prver=0&pronetvd=null&vibid=20220001684960&type=464",
@@ -3349,14 +3349,14 @@ export const duma_2016_uik_463_region_3_part_007 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Ахмедьянов Ханиф Нигамадьянович": 118,
-      "Идиятуллин Хасан Сагитзянович": 23,
-      "Исангулов Ильдар Хамзеевич": 24,
-      "Омаров Гаджимурад Заирбекович": 184,
-      "Рахматуллина Зугура Ягануровна": 949,
-      "Сулейманов Рамиль Зулькарнаевич": 3,
-      "Сухарев Иван Константинович": 173,
-      "Шафиков Мурад Римович": 4
+      "gas:candidate-vibid:4024057222136": 118,
+      "gas:candidate-vibid:4024057222236": 23,
+      "gas:candidate-vibid:4024057222375": 24,
+      "gas:candidate-vibid:4024057222446": 184,
+      "gas:candidate-vibid:4024057222189": 949,
+      "gas:candidate-vibid:4024057222264": 3,
+      "gas:candidate-vibid:4024057205394": 173,
+      "gas:candidate-vibid:4024057222494": 4
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/bashkortostan?action=show&root=1000008&tvd=20220001684960&vrn=100100067795849&region=3&global=&sub_region=3&prver=0&pronetvd=null&vibid=20220001684960&type=464",
@@ -3407,14 +3407,14 @@ export const duma_2016_uik_463_region_3_part_007 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Ахмедьянов Ханиф Нигамадьянович": 27,
-      "Идиятуллин Хасан Сагитзянович": 6,
-      "Исангулов Ильдар Хамзеевич": 28,
-      "Омаров Гаджимурад Заирбекович": 16,
-      "Рахматуллина Зугура Ягануровна": 173,
-      "Сулейманов Рамиль Зулькарнаевич": 1,
-      "Сухарев Иван Константинович": 7,
-      "Шафиков Мурад Римович": 0
+      "gas:candidate-vibid:4024057222136": 27,
+      "gas:candidate-vibid:4024057222236": 6,
+      "gas:candidate-vibid:4024057222375": 28,
+      "gas:candidate-vibid:4024057222446": 16,
+      "gas:candidate-vibid:4024057222189": 173,
+      "gas:candidate-vibid:4024057222264": 1,
+      "gas:candidate-vibid:4024057205394": 7,
+      "gas:candidate-vibid:4024057222494": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/bashkortostan?action=show&root=1000008&tvd=20220001684960&vrn=100100067795849&region=3&global=&sub_region=3&prver=0&pronetvd=null&vibid=20220001684960&type=464",
@@ -3465,14 +3465,14 @@ export const duma_2016_uik_463_region_3_part_007 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Ахмедьянов Ханиф Нигамадьянович": 19,
-      "Идиятуллин Хасан Сагитзянович": 9,
-      "Исангулов Ильдар Хамзеевич": 12,
-      "Омаров Гаджимурад Заирбекович": 6,
-      "Рахматуллина Зугура Ягануровна": 131,
-      "Сулейманов Рамиль Зулькарнаевич": 1,
-      "Сухарев Иван Константинович": 8,
-      "Шафиков Мурад Римович": 2
+      "gas:candidate-vibid:4024057222136": 19,
+      "gas:candidate-vibid:4024057222236": 9,
+      "gas:candidate-vibid:4024057222375": 12,
+      "gas:candidate-vibid:4024057222446": 6,
+      "gas:candidate-vibid:4024057222189": 131,
+      "gas:candidate-vibid:4024057222264": 1,
+      "gas:candidate-vibid:4024057205394": 8,
+      "gas:candidate-vibid:4024057222494": 2
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/bashkortostan?action=show&root=1000008&tvd=20220001684960&vrn=100100067795849&region=3&global=&sub_region=3&prver=0&pronetvd=null&vibid=20220001684960&type=464",
@@ -3523,14 +3523,14 @@ export const duma_2016_uik_463_region_3_part_007 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Ахмедьянов Ханиф Нигамадьянович": 11,
-      "Идиятуллин Хасан Сагитзянович": 4,
-      "Исангулов Ильдар Хамзеевич": 3,
-      "Омаров Гаджимурад Заирбекович": 1,
-      "Рахматуллина Зугура Ягануровна": 203,
-      "Сулейманов Рамиль Зулькарнаевич": 0,
-      "Сухарев Иван Константинович": 3,
-      "Шафиков Мурад Римович": 0
+      "gas:candidate-vibid:4024057222136": 11,
+      "gas:candidate-vibid:4024057222236": 4,
+      "gas:candidate-vibid:4024057222375": 3,
+      "gas:candidate-vibid:4024057222446": 1,
+      "gas:candidate-vibid:4024057222189": 203,
+      "gas:candidate-vibid:4024057222264": 0,
+      "gas:candidate-vibid:4024057205394": 3,
+      "gas:candidate-vibid:4024057222494": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/bashkortostan?action=show&root=1000008&tvd=20220001684960&vrn=100100067795849&region=3&global=&sub_region=3&prver=0&pronetvd=null&vibid=20220001684960&type=464",
@@ -3581,14 +3581,14 @@ export const duma_2016_uik_463_region_3_part_007 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Ахмедьянов Ханиф Нигамадьянович": 15,
-      "Идиятуллин Хасан Сагитзянович": 7,
-      "Исангулов Ильдар Хамзеевич": 18,
-      "Омаров Гаджимурад Заирбекович": 0,
-      "Рахматуллина Зугура Ягануровна": 118,
-      "Сулейманов Рамиль Зулькарнаевич": 0,
-      "Сухарев Иван Константинович": 0,
-      "Шафиков Мурад Римович": 6
+      "gas:candidate-vibid:4024057222136": 15,
+      "gas:candidate-vibid:4024057222236": 7,
+      "gas:candidate-vibid:4024057222375": 18,
+      "gas:candidate-vibid:4024057222446": 0,
+      "gas:candidate-vibid:4024057222189": 118,
+      "gas:candidate-vibid:4024057222264": 0,
+      "gas:candidate-vibid:4024057205394": 0,
+      "gas:candidate-vibid:4024057222494": 6
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/bashkortostan?action=show&root=1000008&tvd=20220001684960&vrn=100100067795849&region=3&global=&sub_region=3&prver=0&pronetvd=null&vibid=20220001684960&type=464",
@@ -3639,14 +3639,14 @@ export const duma_2016_uik_463_region_3_part_007 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Ахмедьянов Ханиф Нигамадьянович": 110,
-      "Идиятуллин Хасан Сагитзянович": 44,
-      "Исангулов Ильдар Хамзеевич": 45,
-      "Омаров Гаджимурад Заирбекович": 16,
-      "Рахматуллина Зугура Ягануровна": 601,
-      "Сулейманов Рамиль Зулькарнаевич": 51,
-      "Сухарев Иван Константинович": 36,
-      "Шафиков Мурад Римович": 25
+      "gas:candidate-vibid:4024057222136": 110,
+      "gas:candidate-vibid:4024057222236": 44,
+      "gas:candidate-vibid:4024057222375": 45,
+      "gas:candidate-vibid:4024057222446": 16,
+      "gas:candidate-vibid:4024057222189": 601,
+      "gas:candidate-vibid:4024057222264": 51,
+      "gas:candidate-vibid:4024057205394": 36,
+      "gas:candidate-vibid:4024057222494": 25
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/bashkortostan?action=show&root=1000008&tvd=20220001684960&vrn=100100067795849&region=3&global=&sub_region=3&prver=0&pronetvd=null&vibid=20220001684960&type=464",
@@ -3697,14 +3697,14 @@ export const duma_2016_uik_463_region_3_part_007 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Ахмедьянов Ханиф Нигамадьянович": 48,
-      "Идиятуллин Хасан Сагитзянович": 25,
-      "Исангулов Ильдар Хамзеевич": 41,
-      "Омаров Гаджимурад Заирбекович": 33,
-      "Рахматуллина Зугура Ягануровна": 254,
-      "Сулейманов Рамиль Зулькарнаевич": 6,
-      "Сухарев Иван Константинович": 26,
-      "Шафиков Мурад Римович": 7
+      "gas:candidate-vibid:4024057222136": 48,
+      "gas:candidate-vibid:4024057222236": 25,
+      "gas:candidate-vibid:4024057222375": 41,
+      "gas:candidate-vibid:4024057222446": 33,
+      "gas:candidate-vibid:4024057222189": 254,
+      "gas:candidate-vibid:4024057222264": 6,
+      "gas:candidate-vibid:4024057205394": 26,
+      "gas:candidate-vibid:4024057222494": 7
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/bashkortostan?action=show&root=1000008&tvd=20220001684960&vrn=100100067795849&region=3&global=&sub_region=3&prver=0&pronetvd=null&vibid=20220001684960&type=464",
@@ -3755,14 +3755,14 @@ export const duma_2016_uik_463_region_3_part_007 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Ахмедьянов Ханиф Нигамадьянович": 12,
-      "Идиятуллин Хасан Сагитзянович": 15,
-      "Исангулов Ильдар Хамзеевич": 7,
-      "Омаров Гаджимурад Заирбекович": 7,
-      "Рахматуллина Зугура Ягануровна": 109,
-      "Сулейманов Рамиль Зулькарнаевич": 6,
-      "Сухарев Иван Константинович": 5,
-      "Шафиков Мурад Римович": 5
+      "gas:candidate-vibid:4024057222136": 12,
+      "gas:candidate-vibid:4024057222236": 15,
+      "gas:candidate-vibid:4024057222375": 7,
+      "gas:candidate-vibid:4024057222446": 7,
+      "gas:candidate-vibid:4024057222189": 109,
+      "gas:candidate-vibid:4024057222264": 6,
+      "gas:candidate-vibid:4024057205394": 5,
+      "gas:candidate-vibid:4024057222494": 5
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/bashkortostan?action=show&root=1000008&tvd=20220001684960&vrn=100100067795849&region=3&global=&sub_region=3&prver=0&pronetvd=null&vibid=20220001684960&type=464",
@@ -3813,14 +3813,14 @@ export const duma_2016_uik_463_region_3_part_007 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Ахмедьянов Ханиф Нигамадьянович": 42,
-      "Идиятуллин Хасан Сагитзянович": 28,
-      "Исангулов Ильдар Хамзеевич": 23,
-      "Омаров Гаджимурад Заирбекович": 15,
-      "Рахматуллина Зугура Ягануровна": 180,
-      "Сулейманов Рамиль Зулькарнаевич": 4,
-      "Сухарев Иван Константинович": 49,
-      "Шафиков Мурад Римович": 5
+      "gas:candidate-vibid:4024057222136": 42,
+      "gas:candidate-vibid:4024057222236": 28,
+      "gas:candidate-vibid:4024057222375": 23,
+      "gas:candidate-vibid:4024057222446": 15,
+      "gas:candidate-vibid:4024057222189": 180,
+      "gas:candidate-vibid:4024057222264": 4,
+      "gas:candidate-vibid:4024057205394": 49,
+      "gas:candidate-vibid:4024057222494": 5
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/bashkortostan?action=show&root=1000008&tvd=20220001684960&vrn=100100067795849&region=3&global=&sub_region=3&prver=0&pronetvd=null&vibid=20220001684960&type=464",
@@ -3871,14 +3871,14 @@ export const duma_2016_uik_463_region_3_part_007 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Ахмедьянов Ханиф Нигамадьянович": 84,
-      "Идиятуллин Хасан Сагитзянович": 16,
-      "Исангулов Ильдар Хамзеевич": 10,
-      "Омаров Гаджимурад Заирбекович": 9,
-      "Рахматуллина Зугура Ягануровна": 185,
-      "Сулейманов Рамиль Зулькарнаевич": 3,
-      "Сухарев Иван Константинович": 50,
-      "Шафиков Мурад Римович": 4
+      "gas:candidate-vibid:4024057222136": 84,
+      "gas:candidate-vibid:4024057222236": 16,
+      "gas:candidate-vibid:4024057222375": 10,
+      "gas:candidate-vibid:4024057222446": 9,
+      "gas:candidate-vibid:4024057222189": 185,
+      "gas:candidate-vibid:4024057222264": 3,
+      "gas:candidate-vibid:4024057205394": 50,
+      "gas:candidate-vibid:4024057222494": 4
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/bashkortostan?action=show&root=1000008&tvd=20220001684960&vrn=100100067795849&region=3&global=&sub_region=3&prver=0&pronetvd=null&vibid=20220001684960&type=464",
@@ -3929,14 +3929,14 @@ export const duma_2016_uik_463_region_3_part_007 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Ахмедьянов Ханиф Нигамадьянович": 69,
-      "Идиятуллин Хасан Сагитзянович": 17,
-      "Исангулов Ильдар Хамзеевич": 11,
-      "Омаров Гаджимурад Заирбекович": 17,
-      "Рахматуллина Зугура Ягануровна": 169,
-      "Сулейманов Рамиль Зулькарнаевич": 6,
-      "Сухарев Иван Константинович": 43,
-      "Шафиков Мурад Римович": 6
+      "gas:candidate-vibid:4024057222136": 69,
+      "gas:candidate-vibid:4024057222236": 17,
+      "gas:candidate-vibid:4024057222375": 11,
+      "gas:candidate-vibid:4024057222446": 17,
+      "gas:candidate-vibid:4024057222189": 169,
+      "gas:candidate-vibid:4024057222264": 6,
+      "gas:candidate-vibid:4024057205394": 43,
+      "gas:candidate-vibid:4024057222494": 6
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/bashkortostan?action=show&root=1000008&tvd=20220001684960&vrn=100100067795849&region=3&global=&sub_region=3&prver=0&pronetvd=null&vibid=20220001684960&type=464",
@@ -3987,14 +3987,14 @@ export const duma_2016_uik_463_region_3_part_007 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Ахмедьянов Ханиф Нигамадьянович": 56,
-      "Идиятуллин Хасан Сагитзянович": 16,
-      "Исангулов Ильдар Хамзеевич": 24,
-      "Омаров Гаджимурад Заирбекович": 29,
-      "Рахматуллина Зугура Ягануровна": 191,
-      "Сулейманов Рамиль Зулькарнаевич": 15,
-      "Сухарев Иван Константинович": 54,
-      "Шафиков Мурад Римович": 5
+      "gas:candidate-vibid:4024057222136": 56,
+      "gas:candidate-vibid:4024057222236": 16,
+      "gas:candidate-vibid:4024057222375": 24,
+      "gas:candidate-vibid:4024057222446": 29,
+      "gas:candidate-vibid:4024057222189": 191,
+      "gas:candidate-vibid:4024057222264": 15,
+      "gas:candidate-vibid:4024057205394": 54,
+      "gas:candidate-vibid:4024057222494": 5
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/bashkortostan?action=show&root=1000008&tvd=20220001684960&vrn=100100067795849&region=3&global=&sub_region=3&prver=0&pronetvd=null&vibid=20220001684960&type=464",
@@ -4045,14 +4045,14 @@ export const duma_2016_uik_463_region_3_part_007 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Ахмедьянов Ханиф Нигамадьянович": 41,
-      "Идиятуллин Хасан Сагитзянович": 18,
-      "Исангулов Ильдар Хамзеевич": 24,
-      "Омаров Гаджимурад Заирбекович": 8,
-      "Рахматуллина Зугура Ягануровна": 154,
-      "Сулейманов Рамиль Зулькарнаевич": 14,
-      "Сухарев Иван Константинович": 35,
-      "Шафиков Мурад Римович": 7
+      "gas:candidate-vibid:4024057222136": 41,
+      "gas:candidate-vibid:4024057222236": 18,
+      "gas:candidate-vibid:4024057222375": 24,
+      "gas:candidate-vibid:4024057222446": 8,
+      "gas:candidate-vibid:4024057222189": 154,
+      "gas:candidate-vibid:4024057222264": 14,
+      "gas:candidate-vibid:4024057205394": 35,
+      "gas:candidate-vibid:4024057222494": 7
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/bashkortostan?action=show&root=1000008&tvd=20220001684960&vrn=100100067795849&region=3&global=&sub_region=3&prver=0&pronetvd=null&vibid=20220001684960&type=464",
@@ -4103,14 +4103,14 @@ export const duma_2016_uik_463_region_3_part_007 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Ахмедьянов Ханиф Нигамадьянович": 93,
-      "Идиятуллин Хасан Сагитзянович": 38,
-      "Исангулов Ильдар Хамзеевич": 27,
-      "Омаров Гаджимурад Заирбекович": 77,
-      "Рахматуллина Зугура Ягануровна": 174,
-      "Сулейманов Рамиль Зулькарнаевич": 13,
-      "Сухарев Иван Константинович": 34,
-      "Шафиков Мурад Римович": 1
+      "gas:candidate-vibid:4024057222136": 93,
+      "gas:candidate-vibid:4024057222236": 38,
+      "gas:candidate-vibid:4024057222375": 27,
+      "gas:candidate-vibid:4024057222446": 77,
+      "gas:candidate-vibid:4024057222189": 174,
+      "gas:candidate-vibid:4024057222264": 13,
+      "gas:candidate-vibid:4024057205394": 34,
+      "gas:candidate-vibid:4024057222494": 1
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/bashkortostan?action=show&root=1000008&tvd=20220001684960&vrn=100100067795849&region=3&global=&sub_region=3&prver=0&pronetvd=null&vibid=20220001684960&type=464",
@@ -4161,14 +4161,14 @@ export const duma_2016_uik_463_region_3_part_007 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Ахмедьянов Ханиф Нигамадьянович": 26,
-      "Идиятуллин Хасан Сагитзянович": 7,
-      "Исангулов Ильдар Хамзеевич": 8,
-      "Омаров Гаджимурад Заирбекович": 46,
-      "Рахматуллина Зугура Ягануровна": 351,
-      "Сулейманов Рамиль Зулькарнаевич": 9,
-      "Сухарев Иван Константинович": 36,
-      "Шафиков Мурад Римович": 13
+      "gas:candidate-vibid:4024057222136": 26,
+      "gas:candidate-vibid:4024057222236": 7,
+      "gas:candidate-vibid:4024057222375": 8,
+      "gas:candidate-vibid:4024057222446": 46,
+      "gas:candidate-vibid:4024057222189": 351,
+      "gas:candidate-vibid:4024057222264": 9,
+      "gas:candidate-vibid:4024057205394": 36,
+      "gas:candidate-vibid:4024057222494": 13
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/bashkortostan?action=show&root=1000008&tvd=20220001684960&vrn=100100067795849&region=3&global=&sub_region=3&prver=0&pronetvd=null&vibid=20220001684960&type=464",
@@ -4219,14 +4219,14 @@ export const duma_2016_uik_463_region_3_part_007 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Ахмедьянов Ханиф Нигамадьянович": 45,
-      "Идиятуллин Хасан Сагитзянович": 8,
-      "Исангулов Ильдар Хамзеевич": 7,
-      "Омаров Гаджимурад Заирбекович": 10,
-      "Рахматуллина Зугура Ягануровна": 185,
-      "Сулейманов Рамиль Зулькарнаевич": 5,
-      "Сухарев Иван Константинович": 24,
-      "Шафиков Мурад Римович": 0
+      "gas:candidate-vibid:4024057222136": 45,
+      "gas:candidate-vibid:4024057222236": 8,
+      "gas:candidate-vibid:4024057222375": 7,
+      "gas:candidate-vibid:4024057222446": 10,
+      "gas:candidate-vibid:4024057222189": 185,
+      "gas:candidate-vibid:4024057222264": 5,
+      "gas:candidate-vibid:4024057205394": 24,
+      "gas:candidate-vibid:4024057222494": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/bashkortostan?action=show&root=1000008&tvd=20220001684960&vrn=100100067795849&region=3&global=&sub_region=3&prver=0&pronetvd=null&vibid=20220001684960&type=464",
@@ -4277,14 +4277,14 @@ export const duma_2016_uik_463_region_3_part_007 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Ахмедьянов Ханиф Нигамадьянович": 39,
-      "Идиятуллин Хасан Сагитзянович": 14,
-      "Исангулов Ильдар Хамзеевич": 11,
-      "Омаров Гаджимурад Заирбекович": 9,
-      "Рахматуллина Зугура Ягануровна": 314,
-      "Сулейманов Рамиль Зулькарнаевич": 2,
-      "Сухарев Иван Константинович": 23,
-      "Шафиков Мурад Римович": 0
+      "gas:candidate-vibid:4024057222136": 39,
+      "gas:candidate-vibid:4024057222236": 14,
+      "gas:candidate-vibid:4024057222375": 11,
+      "gas:candidate-vibid:4024057222446": 9,
+      "gas:candidate-vibid:4024057222189": 314,
+      "gas:candidate-vibid:4024057222264": 2,
+      "gas:candidate-vibid:4024057205394": 23,
+      "gas:candidate-vibid:4024057222494": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/bashkortostan?action=show&root=1000008&tvd=20220001684960&vrn=100100067795849&region=3&global=&sub_region=3&prver=0&pronetvd=null&vibid=20220001684960&type=464",
@@ -4335,14 +4335,14 @@ export const duma_2016_uik_463_region_3_part_007 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Ахмедьянов Ханиф Нигамадьянович": 11,
-      "Идиятуллин Хасан Сагитзянович": 8,
-      "Исангулов Ильдар Хамзеевич": 2,
-      "Омаров Гаджимурад Заирбекович": 13,
-      "Рахматуллина Зугура Ягануровна": 290,
-      "Сулейманов Рамиль Зулькарнаевич": 5,
-      "Сухарев Иван Константинович": 7,
-      "Шафиков Мурад Римович": 4
+      "gas:candidate-vibid:4024057222136": 11,
+      "gas:candidate-vibid:4024057222236": 8,
+      "gas:candidate-vibid:4024057222375": 2,
+      "gas:candidate-vibid:4024057222446": 13,
+      "gas:candidate-vibid:4024057222189": 290,
+      "gas:candidate-vibid:4024057222264": 5,
+      "gas:candidate-vibid:4024057205394": 7,
+      "gas:candidate-vibid:4024057222494": 4
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/bashkortostan?action=show&root=1000008&tvd=20220001684960&vrn=100100067795849&region=3&global=&sub_region=3&prver=0&pronetvd=null&vibid=20220001684960&type=464",
@@ -4393,14 +4393,14 @@ export const duma_2016_uik_463_region_3_part_007 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Ахмедьянов Ханиф Нигамадьянович": 41,
-      "Идиятуллин Хасан Сагитзянович": 16,
-      "Исангулов Ильдар Хамзеевич": 15,
-      "Омаров Гаджимурад Заирбекович": 6,
-      "Рахматуллина Зугура Ягануровна": 280,
-      "Сулейманов Рамиль Зулькарнаевич": 7,
-      "Сухарев Иван Константинович": 8,
-      "Шафиков Мурад Римович": 15
+      "gas:candidate-vibid:4024057222136": 41,
+      "gas:candidate-vibid:4024057222236": 16,
+      "gas:candidate-vibid:4024057222375": 15,
+      "gas:candidate-vibid:4024057222446": 6,
+      "gas:candidate-vibid:4024057222189": 280,
+      "gas:candidate-vibid:4024057222264": 7,
+      "gas:candidate-vibid:4024057205394": 8,
+      "gas:candidate-vibid:4024057222494": 15
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/bashkortostan?action=show&root=1000008&tvd=20220001684960&vrn=100100067795849&region=3&global=&sub_region=3&prver=0&pronetvd=null&vibid=20220001684960&type=464",
@@ -4451,14 +4451,14 @@ export const duma_2016_uik_463_region_3_part_007 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Ахмедьянов Ханиф Нигамадьянович": 32,
-      "Идиятуллин Хасан Сагитзянович": 15,
-      "Исангулов Ильдар Хамзеевич": 20,
-      "Омаров Гаджимурад Заирбекович": 44,
-      "Рахматуллина Зугура Ягануровна": 175,
-      "Сулейманов Рамиль Зулькарнаевич": 4,
-      "Сухарев Иван Константинович": 16,
-      "Шафиков Мурад Римович": 32
+      "gas:candidate-vibid:4024057222136": 32,
+      "gas:candidate-vibid:4024057222236": 15,
+      "gas:candidate-vibid:4024057222375": 20,
+      "gas:candidate-vibid:4024057222446": 44,
+      "gas:candidate-vibid:4024057222189": 175,
+      "gas:candidate-vibid:4024057222264": 4,
+      "gas:candidate-vibid:4024057205394": 16,
+      "gas:candidate-vibid:4024057222494": 32
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/bashkortostan?action=show&root=1000008&tvd=20220001684960&vrn=100100067795849&region=3&global=&sub_region=3&prver=0&pronetvd=null&vibid=20220001684960&type=464",
@@ -4509,14 +4509,14 @@ export const duma_2016_uik_463_region_3_part_007 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Ахмедьянов Ханиф Нигамадьянович": 50,
-      "Идиятуллин Хасан Сагитзянович": 12,
-      "Исангулов Ильдар Хамзеевич": 20,
-      "Омаров Гаджимурад Заирбекович": 3,
-      "Рахматуллина Зугура Ягануровна": 193,
-      "Сулейманов Рамиль Зулькарнаевич": 4,
-      "Сухарев Иван Константинович": 5,
-      "Шафиков Мурад Римович": 3
+      "gas:candidate-vibid:4024057222136": 50,
+      "gas:candidate-vibid:4024057222236": 12,
+      "gas:candidate-vibid:4024057222375": 20,
+      "gas:candidate-vibid:4024057222446": 3,
+      "gas:candidate-vibid:4024057222189": 193,
+      "gas:candidate-vibid:4024057222264": 4,
+      "gas:candidate-vibid:4024057205394": 5,
+      "gas:candidate-vibid:4024057222494": 3
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/bashkortostan?action=show&root=1000008&tvd=20220001684960&vrn=100100067795849&region=3&global=&sub_region=3&prver=0&pronetvd=null&vibid=20220001684960&type=464",
@@ -4567,14 +4567,14 @@ export const duma_2016_uik_463_region_3_part_007 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Ахмедьянов Ханиф Нигамадьянович": 74,
-      "Идиятуллин Хасан Сагитзянович": 38,
-      "Исангулов Ильдар Хамзеевич": 30,
-      "Омаров Гаджимурад Заирбекович": 16,
-      "Рахматуллина Зугура Ягануровна": 355,
-      "Сулейманов Рамиль Зулькарнаевич": 10,
-      "Сухарев Иван Константинович": 10,
-      "Шафиков Мурад Римович": 3
+      "gas:candidate-vibid:4024057222136": 74,
+      "gas:candidate-vibid:4024057222236": 38,
+      "gas:candidate-vibid:4024057222375": 30,
+      "gas:candidate-vibid:4024057222446": 16,
+      "gas:candidate-vibid:4024057222189": 355,
+      "gas:candidate-vibid:4024057222264": 10,
+      "gas:candidate-vibid:4024057205394": 10,
+      "gas:candidate-vibid:4024057222494": 3
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/bashkortostan?action=show&root=1000008&tvd=20220001684961&vrn=100100067795849&region=3&global=&sub_region=3&prver=0&pronetvd=null&vibid=20220001684961&type=464",
@@ -4625,14 +4625,14 @@ export const duma_2016_uik_463_region_3_part_007 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Ахмедьянов Ханиф Нигамадьянович": 78,
-      "Идиятуллин Хасан Сагитзянович": 37,
-      "Исангулов Ильдар Хамзеевич": 25,
-      "Омаров Гаджимурад Заирбекович": 16,
-      "Рахматуллина Зугура Ягануровна": 865,
-      "Сулейманов Рамиль Зулькарнаевич": 6,
-      "Сухарев Иван Константинович": 586,
-      "Шафиков Мурад Римович": 8
+      "gas:candidate-vibid:4024057222136": 78,
+      "gas:candidate-vibid:4024057222236": 37,
+      "gas:candidate-vibid:4024057222375": 25,
+      "gas:candidate-vibid:4024057222446": 16,
+      "gas:candidate-vibid:4024057222189": 865,
+      "gas:candidate-vibid:4024057222264": 6,
+      "gas:candidate-vibid:4024057205394": 586,
+      "gas:candidate-vibid:4024057222494": 8
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/bashkortostan?action=show&root=1000008&tvd=20220001684961&vrn=100100067795849&region=3&global=&sub_region=3&prver=0&pronetvd=null&vibid=20220001684961&type=464",
@@ -4683,14 +4683,14 @@ export const duma_2016_uik_463_region_3_part_007 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Ахмедьянов Ханиф Нигамадьянович": 23,
-      "Идиятуллин Хасан Сагитзянович": 34,
-      "Исангулов Ильдар Хамзеевич": 137,
-      "Омаров Гаджимурад Заирбекович": 52,
-      "Рахматуллина Зугура Ягануровна": 1441,
-      "Сулейманов Рамиль Зулькарнаевич": 18,
-      "Сухарев Иван Константинович": 812,
-      "Шафиков Мурад Римович": 18
+      "gas:candidate-vibid:4024057222136": 23,
+      "gas:candidate-vibid:4024057222236": 34,
+      "gas:candidate-vibid:4024057222375": 137,
+      "gas:candidate-vibid:4024057222446": 52,
+      "gas:candidate-vibid:4024057222189": 1441,
+      "gas:candidate-vibid:4024057222264": 18,
+      "gas:candidate-vibid:4024057205394": 812,
+      "gas:candidate-vibid:4024057222494": 18
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/bashkortostan?action=show&root=1000008&tvd=20220001684961&vrn=100100067795849&region=3&global=&sub_region=3&prver=0&pronetvd=null&vibid=20220001684961&type=464",
@@ -4741,14 +4741,14 @@ export const duma_2016_uik_463_region_3_part_007 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Ахмедьянов Ханиф Нигамадьянович": 9,
-      "Идиятуллин Хасан Сагитзянович": 4,
-      "Исангулов Ильдар Хамзеевич": 2,
-      "Омаров Гаджимурад Заирбекович": 3,
-      "Рахматуллина Зугура Ягануровна": 101,
-      "Сулейманов Рамиль Зулькарнаевич": 2,
-      "Сухарев Иван Константинович": 10,
-      "Шафиков Мурад Римович": 0
+      "gas:candidate-vibid:4024057222136": 9,
+      "gas:candidate-vibid:4024057222236": 4,
+      "gas:candidate-vibid:4024057222375": 2,
+      "gas:candidate-vibid:4024057222446": 3,
+      "gas:candidate-vibid:4024057222189": 101,
+      "gas:candidate-vibid:4024057222264": 2,
+      "gas:candidate-vibid:4024057205394": 10,
+      "gas:candidate-vibid:4024057222494": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/bashkortostan?action=show&root=1000008&tvd=20220001684961&vrn=100100067795849&region=3&global=&sub_region=3&prver=0&pronetvd=null&vibid=20220001684961&type=464",
@@ -4799,14 +4799,14 @@ export const duma_2016_uik_463_region_3_part_007 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Ахмедьянов Ханиф Нигамадьянович": 28,
-      "Идиятуллин Хасан Сагитзянович": 23,
-      "Исангулов Ильдар Хамзеевич": 11,
-      "Омаров Гаджимурад Заирбекович": 19,
-      "Рахматуллина Зугура Ягануровна": 247,
-      "Сулейманов Рамиль Зулькарнаевич": 9,
-      "Сухарев Иван Константинович": 58,
-      "Шафиков Мурад Римович": 7
+      "gas:candidate-vibid:4024057222136": 28,
+      "gas:candidate-vibid:4024057222236": 23,
+      "gas:candidate-vibid:4024057222375": 11,
+      "gas:candidate-vibid:4024057222446": 19,
+      "gas:candidate-vibid:4024057222189": 247,
+      "gas:candidate-vibid:4024057222264": 9,
+      "gas:candidate-vibid:4024057205394": 58,
+      "gas:candidate-vibid:4024057222494": 7
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/bashkortostan?action=show&root=1000008&tvd=20220001684961&vrn=100100067795849&region=3&global=&sub_region=3&prver=0&pronetvd=null&vibid=20220001684961&type=464",
@@ -4857,14 +4857,14 @@ export const duma_2016_uik_463_region_3_part_007 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Ахмедьянов Ханиф Нигамадьянович": 14,
-      "Идиятуллин Хасан Сагитзянович": 18,
-      "Исангулов Ильдар Хамзеевич": 0,
-      "Омаров Гаджимурад Заирбекович": 20,
-      "Рахматуллина Зугура Ягануровна": 256,
-      "Сулейманов Рамиль Зулькарнаевич": 12,
-      "Сухарев Иван Константинович": 21,
-      "Шафиков Мурад Римович": 0
+      "gas:candidate-vibid:4024057222136": 14,
+      "gas:candidate-vibid:4024057222236": 18,
+      "gas:candidate-vibid:4024057222375": 0,
+      "gas:candidate-vibid:4024057222446": 20,
+      "gas:candidate-vibid:4024057222189": 256,
+      "gas:candidate-vibid:4024057222264": 12,
+      "gas:candidate-vibid:4024057205394": 21,
+      "gas:candidate-vibid:4024057222494": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/bashkortostan?action=show&root=1000008&tvd=20220001684961&vrn=100100067795849&region=3&global=&sub_region=3&prver=0&pronetvd=null&vibid=20220001684961&type=464",
@@ -4915,14 +4915,14 @@ export const duma_2016_uik_463_region_3_part_007 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Ахмедьянов Ханиф Нигамадьянович": 31,
-      "Идиятуллин Хасан Сагитзянович": 6,
-      "Исангулов Ильдар Хамзеевич": 5,
-      "Омаров Гаджимурад Заирбекович": 31,
-      "Рахматуллина Зугура Ягануровна": 147,
-      "Сулейманов Рамиль Зулькарнаевич": 0,
-      "Сухарев Иван Константинович": 8,
-      "Шафиков Мурад Римович": 0
+      "gas:candidate-vibid:4024057222136": 31,
+      "gas:candidate-vibid:4024057222236": 6,
+      "gas:candidate-vibid:4024057222375": 5,
+      "gas:candidate-vibid:4024057222446": 31,
+      "gas:candidate-vibid:4024057222189": 147,
+      "gas:candidate-vibid:4024057222264": 0,
+      "gas:candidate-vibid:4024057205394": 8,
+      "gas:candidate-vibid:4024057222494": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/bashkortostan?action=show&root=1000008&tvd=20220001684961&vrn=100100067795849&region=3&global=&sub_region=3&prver=0&pronetvd=null&vibid=20220001684961&type=464",
@@ -4973,14 +4973,14 @@ export const duma_2016_uik_463_region_3_part_007 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Ахмедьянов Ханиф Нигамадьянович": 22,
-      "Идиятуллин Хасан Сагитзянович": 8,
-      "Исангулов Ильдар Хамзеевич": 4,
-      "Омаров Гаджимурад Заирбекович": 17,
-      "Рахматуллина Зугура Ягануровна": 96,
-      "Сулейманов Рамиль Зулькарнаевич": 3,
-      "Сухарев Иван Константинович": 25,
-      "Шафиков Мурад Римович": 5
+      "gas:candidate-vibid:4024057222136": 22,
+      "gas:candidate-vibid:4024057222236": 8,
+      "gas:candidate-vibid:4024057222375": 4,
+      "gas:candidate-vibid:4024057222446": 17,
+      "gas:candidate-vibid:4024057222189": 96,
+      "gas:candidate-vibid:4024057222264": 3,
+      "gas:candidate-vibid:4024057205394": 25,
+      "gas:candidate-vibid:4024057222494": 5
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/bashkortostan?action=show&root=1000008&tvd=20220001684961&vrn=100100067795849&region=3&global=&sub_region=3&prver=0&pronetvd=null&vibid=20220001684961&type=464",
@@ -5031,14 +5031,14 @@ export const duma_2016_uik_463_region_3_part_007 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Ахмедьянов Ханиф Нигамадьянович": 48,
-      "Идиятуллин Хасан Сагитзянович": 11,
-      "Исангулов Ильдар Хамзеевич": 5,
-      "Омаров Гаджимурад Заирбекович": 9,
-      "Рахматуллина Зугура Ягануровна": 320,
-      "Сулейманов Рамиль Зулькарнаевич": 5,
-      "Сухарев Иван Константинович": 51,
-      "Шафиков Мурад Римович": 5
+      "gas:candidate-vibid:4024057222136": 48,
+      "gas:candidate-vibid:4024057222236": 11,
+      "gas:candidate-vibid:4024057222375": 5,
+      "gas:candidate-vibid:4024057222446": 9,
+      "gas:candidate-vibid:4024057222189": 320,
+      "gas:candidate-vibid:4024057222264": 5,
+      "gas:candidate-vibid:4024057205394": 51,
+      "gas:candidate-vibid:4024057222494": 5
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/bashkortostan?action=show&root=1000008&tvd=20220001684961&vrn=100100067795849&region=3&global=&sub_region=3&prver=0&pronetvd=null&vibid=20220001684961&type=464",
@@ -5089,14 +5089,14 @@ export const duma_2016_uik_463_region_3_part_007 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Ахмедьянов Ханиф Нигамадьянович": 42,
-      "Идиятуллин Хасан Сагитзянович": 18,
-      "Исангулов Ильдар Хамзеевич": 16,
-      "Омаров Гаджимурад Заирбекович": 12,
-      "Рахматуллина Зугура Ягануровна": 222,
-      "Сулейманов Рамиль Зулькарнаевич": 2,
-      "Сухарев Иван Константинович": 13,
-      "Шафиков Мурад Римович": 1
+      "gas:candidate-vibid:4024057222136": 42,
+      "gas:candidate-vibid:4024057222236": 18,
+      "gas:candidate-vibid:4024057222375": 16,
+      "gas:candidate-vibid:4024057222446": 12,
+      "gas:candidate-vibid:4024057222189": 222,
+      "gas:candidate-vibid:4024057222264": 2,
+      "gas:candidate-vibid:4024057205394": 13,
+      "gas:candidate-vibid:4024057222494": 1
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/bashkortostan?action=show&root=1000008&tvd=20220001684961&vrn=100100067795849&region=3&global=&sub_region=3&prver=0&pronetvd=null&vibid=20220001684961&type=464",
@@ -5147,14 +5147,14 @@ export const duma_2016_uik_463_region_3_part_007 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Ахмедьянов Ханиф Нигамадьянович": 1,
-      "Идиятуллин Хасан Сагитзянович": 8,
-      "Исангулов Ильдар Хамзеевич": 3,
-      "Омаров Гаджимурад Заирбекович": 9,
-      "Рахматуллина Зугура Ягануровна": 380,
-      "Сулейманов Рамиль Зулькарнаевич": 0,
-      "Сухарев Иван Константинович": 0,
-      "Шафиков Мурад Римович": 0
+      "gas:candidate-vibid:4024057222136": 1,
+      "gas:candidate-vibid:4024057222236": 8,
+      "gas:candidate-vibid:4024057222375": 3,
+      "gas:candidate-vibid:4024057222446": 9,
+      "gas:candidate-vibid:4024057222189": 380,
+      "gas:candidate-vibid:4024057222264": 0,
+      "gas:candidate-vibid:4024057205394": 0,
+      "gas:candidate-vibid:4024057222494": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/bashkortostan?action=show&root=1000008&tvd=20220001684961&vrn=100100067795849&region=3&global=&sub_region=3&prver=0&pronetvd=null&vibid=20220001684961&type=464",
@@ -5205,14 +5205,14 @@ export const duma_2016_uik_463_region_3_part_007 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Ахмедьянов Ханиф Нигамадьянович": 33,
-      "Идиятуллин Хасан Сагитзянович": 19,
-      "Исангулов Ильдар Хамзеевич": 13,
-      "Омаров Гаджимурад Заирбекович": 19,
-      "Рахматуллина Зугура Ягануровна": 233,
-      "Сулейманов Рамиль Зулькарнаевич": 6,
-      "Сухарев Иван Константинович": 76,
-      "Шафиков Мурад Римович": 3
+      "gas:candidate-vibid:4024057222136": 33,
+      "gas:candidate-vibid:4024057222236": 19,
+      "gas:candidate-vibid:4024057222375": 13,
+      "gas:candidate-vibid:4024057222446": 19,
+      "gas:candidate-vibid:4024057222189": 233,
+      "gas:candidate-vibid:4024057222264": 6,
+      "gas:candidate-vibid:4024057205394": 76,
+      "gas:candidate-vibid:4024057222494": 3
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/bashkortostan?action=show&root=1000008&tvd=20220001684961&vrn=100100067795849&region=3&global=&sub_region=3&prver=0&pronetvd=null&vibid=20220001684961&type=464",
@@ -5263,14 +5263,14 @@ export const duma_2016_uik_463_region_3_part_007 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Ахмедьянов Ханиф Нигамадьянович": 25,
-      "Идиятуллин Хасан Сагитзянович": 10,
-      "Исангулов Ильдар Хамзеевич": 9,
-      "Омаров Гаджимурад Заирбекович": 6,
-      "Рахматуллина Зугура Ягануровна": 132,
-      "Сулейманов Рамиль Зулькарнаевич": 0,
-      "Сухарев Иван Константинович": 28,
-      "Шафиков Мурад Римович": 1
+      "gas:candidate-vibid:4024057222136": 25,
+      "gas:candidate-vibid:4024057222236": 10,
+      "gas:candidate-vibid:4024057222375": 9,
+      "gas:candidate-vibid:4024057222446": 6,
+      "gas:candidate-vibid:4024057222189": 132,
+      "gas:candidate-vibid:4024057222264": 0,
+      "gas:candidate-vibid:4024057205394": 28,
+      "gas:candidate-vibid:4024057222494": 1
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/bashkortostan?action=show&root=1000008&tvd=20220001684961&vrn=100100067795849&region=3&global=&sub_region=3&prver=0&pronetvd=null&vibid=20220001684961&type=464",
@@ -5321,14 +5321,14 @@ export const duma_2016_uik_463_region_3_part_007 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Ахмедьянов Ханиф Нигамадьянович": 20,
-      "Идиятуллин Хасан Сагитзянович": 5,
-      "Исангулов Ильдар Хамзеевич": 2,
-      "Омаров Гаджимурад Заирбекович": 4,
-      "Рахматуллина Зугура Ягануровна": 80,
-      "Сулейманов Рамиль Зулькарнаевич": 3,
-      "Сухарев Иван Константинович": 13,
-      "Шафиков Мурад Римович": 2
+      "gas:candidate-vibid:4024057222136": 20,
+      "gas:candidate-vibid:4024057222236": 5,
+      "gas:candidate-vibid:4024057222375": 2,
+      "gas:candidate-vibid:4024057222446": 4,
+      "gas:candidate-vibid:4024057222189": 80,
+      "gas:candidate-vibid:4024057222264": 3,
+      "gas:candidate-vibid:4024057205394": 13,
+      "gas:candidate-vibid:4024057222494": 2
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/bashkortostan?action=show&root=1000008&tvd=20220001684961&vrn=100100067795849&region=3&global=&sub_region=3&prver=0&pronetvd=null&vibid=20220001684961&type=464",
@@ -5379,14 +5379,14 @@ export const duma_2016_uik_463_region_3_part_007 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Ахмедьянов Ханиф Нигамадьянович": 7,
-      "Идиятуллин Хасан Сагитзянович": 10,
-      "Исангулов Ильдар Хамзеевич": 2,
-      "Омаров Гаджимурад Заирбекович": 10,
-      "Рахматуллина Зугура Ягануровна": 367,
-      "Сулейманов Рамиль Зулькарнаевич": 2,
-      "Сухарев Иван Константинович": 22,
-      "Шафиков Мурад Римович": 3
+      "gas:candidate-vibid:4024057222136": 7,
+      "gas:candidate-vibid:4024057222236": 10,
+      "gas:candidate-vibid:4024057222375": 2,
+      "gas:candidate-vibid:4024057222446": 10,
+      "gas:candidate-vibid:4024057222189": 367,
+      "gas:candidate-vibid:4024057222264": 2,
+      "gas:candidate-vibid:4024057205394": 22,
+      "gas:candidate-vibid:4024057222494": 3
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/bashkortostan?action=show&root=1000008&tvd=20220001684961&vrn=100100067795849&region=3&global=&sub_region=3&prver=0&pronetvd=null&vibid=20220001684961&type=464",
@@ -5437,14 +5437,14 @@ export const duma_2016_uik_463_region_3_part_007 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Ахмедьянов Ханиф Нигамадьянович": 16,
-      "Идиятуллин Хасан Сагитзянович": 0,
-      "Исангулов Ильдар Хамзеевич": 0,
-      "Омаров Гаджимурад Заирбекович": 0,
-      "Рахматуллина Зугура Ягануровна": 157,
-      "Сулейманов Рамиль Зулькарнаевич": 0,
-      "Сухарев Иван Константинович": 5,
-      "Шафиков Мурад Римович": 0
+      "gas:candidate-vibid:4024057222136": 16,
+      "gas:candidate-vibid:4024057222236": 0,
+      "gas:candidate-vibid:4024057222375": 0,
+      "gas:candidate-vibid:4024057222446": 0,
+      "gas:candidate-vibid:4024057222189": 157,
+      "gas:candidate-vibid:4024057222264": 0,
+      "gas:candidate-vibid:4024057205394": 5,
+      "gas:candidate-vibid:4024057222494": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/bashkortostan?action=show&root=1000008&tvd=20220001684961&vrn=100100067795849&region=3&global=&sub_region=3&prver=0&pronetvd=null&vibid=20220001684961&type=464",
@@ -5495,14 +5495,14 @@ export const duma_2016_uik_463_region_3_part_007 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Ахмедьянов Ханиф Нигамадьянович": 49,
-      "Идиятуллин Хасан Сагитзянович": 29,
-      "Исангулов Ильдар Хамзеевич": 5,
-      "Омаров Гаджимурад Заирбекович": 15,
-      "Рахматуллина Зугура Ягануровна": 310,
-      "Сулейманов Рамиль Зулькарнаевич": 7,
-      "Сухарев Иван Константинович": 74,
-      "Шафиков Мурад Римович": 5
+      "gas:candidate-vibid:4024057222136": 49,
+      "gas:candidate-vibid:4024057222236": 29,
+      "gas:candidate-vibid:4024057222375": 5,
+      "gas:candidate-vibid:4024057222446": 15,
+      "gas:candidate-vibid:4024057222189": 310,
+      "gas:candidate-vibid:4024057222264": 7,
+      "gas:candidate-vibid:4024057205394": 74,
+      "gas:candidate-vibid:4024057222494": 5
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/bashkortostan?action=show&root=1000008&tvd=20220001684961&vrn=100100067795849&region=3&global=&sub_region=3&prver=0&pronetvd=null&vibid=20220001684961&type=464",
@@ -5553,14 +5553,14 @@ export const duma_2016_uik_463_region_3_part_007 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Ахмедьянов Ханиф Нигамадьянович": 17,
-      "Идиятуллин Хасан Сагитзянович": 10,
-      "Исангулов Ильдар Хамзеевич": 3,
-      "Омаров Гаджимурад Заирбекович": 0,
-      "Рахматуллина Зугура Ягануровна": 201,
-      "Сулейманов Рамиль Зулькарнаевич": 3,
-      "Сухарев Иван Константинович": 5,
-      "Шафиков Мурад Римович": 0
+      "gas:candidate-vibid:4024057222136": 17,
+      "gas:candidate-vibid:4024057222236": 10,
+      "gas:candidate-vibid:4024057222375": 3,
+      "gas:candidate-vibid:4024057222446": 0,
+      "gas:candidate-vibid:4024057222189": 201,
+      "gas:candidate-vibid:4024057222264": 3,
+      "gas:candidate-vibid:4024057205394": 5,
+      "gas:candidate-vibid:4024057222494": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/bashkortostan?action=show&root=1000008&tvd=20220001684961&vrn=100100067795849&region=3&global=&sub_region=3&prver=0&pronetvd=null&vibid=20220001684961&type=464",
@@ -5611,14 +5611,14 @@ export const duma_2016_uik_463_region_3_part_007 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Ахмедьянов Ханиф Нигамадьянович": 5,
-      "Идиятуллин Хасан Сагитзянович": 6,
-      "Исангулов Ильдар Хамзеевич": 2,
-      "Омаров Гаджимурад Заирбекович": 1,
-      "Рахматуллина Зугура Ягануровна": 183,
-      "Сулейманов Рамиль Зулькарнаевич": 0,
-      "Сухарев Иван Константинович": 9,
-      "Шафиков Мурад Римович": 0
+      "gas:candidate-vibid:4024057222136": 5,
+      "gas:candidate-vibid:4024057222236": 6,
+      "gas:candidate-vibid:4024057222375": 2,
+      "gas:candidate-vibid:4024057222446": 1,
+      "gas:candidate-vibid:4024057222189": 183,
+      "gas:candidate-vibid:4024057222264": 0,
+      "gas:candidate-vibid:4024057205394": 9,
+      "gas:candidate-vibid:4024057222494": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/bashkortostan?action=show&root=1000008&tvd=20220001684961&vrn=100100067795849&region=3&global=&sub_region=3&prver=0&pronetvd=null&vibid=20220001684961&type=464",
@@ -5669,14 +5669,14 @@ export const duma_2016_uik_463_region_3_part_007 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Ахмедьянов Ханиф Нигамадьянович": 6,
-      "Идиятуллин Хасан Сагитзянович": 1,
-      "Исангулов Ильдар Хамзеевич": 1,
-      "Омаров Гаджимурад Заирбекович": 3,
-      "Рахматуллина Зугура Ягануровна": 113,
-      "Сулейманов Рамиль Зулькарнаевич": 0,
-      "Сухарев Иван Константинович": 5,
-      "Шафиков Мурад Римович": 0
+      "gas:candidate-vibid:4024057222136": 6,
+      "gas:candidate-vibid:4024057222236": 1,
+      "gas:candidate-vibid:4024057222375": 1,
+      "gas:candidate-vibid:4024057222446": 3,
+      "gas:candidate-vibid:4024057222189": 113,
+      "gas:candidate-vibid:4024057222264": 0,
+      "gas:candidate-vibid:4024057205394": 5,
+      "gas:candidate-vibid:4024057222494": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/bashkortostan?action=show&root=1000008&tvd=20220001684961&vrn=100100067795849&region=3&global=&sub_region=3&prver=0&pronetvd=null&vibid=20220001684961&type=464",
@@ -5727,14 +5727,14 @@ export const duma_2016_uik_463_region_3_part_007 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Ахмедьянов Ханиф Нигамадьянович": 52,
-      "Идиятуллин Хасан Сагитзянович": 12,
-      "Исангулов Ильдар Хамзеевич": 21,
-      "Омаров Гаджимурад Заирбекович": 5,
-      "Рахматуллина Зугура Ягануровна": 360,
-      "Сулейманов Рамиль Зулькарнаевич": 4,
-      "Сухарев Иван Константинович": 31,
-      "Шафиков Мурад Римович": 2
+      "gas:candidate-vibid:4024057222136": 52,
+      "gas:candidate-vibid:4024057222236": 12,
+      "gas:candidate-vibid:4024057222375": 21,
+      "gas:candidate-vibid:4024057222446": 5,
+      "gas:candidate-vibid:4024057222189": 360,
+      "gas:candidate-vibid:4024057222264": 4,
+      "gas:candidate-vibid:4024057205394": 31,
+      "gas:candidate-vibid:4024057222494": 2
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/bashkortostan?action=show&root=1000008&tvd=20220001684961&vrn=100100067795849&region=3&global=&sub_region=3&prver=0&pronetvd=null&vibid=20220001684961&type=464",
@@ -5785,14 +5785,14 @@ export const duma_2016_uik_463_region_3_part_007 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Ахмедьянов Ханиф Нигамадьянович": 27,
-      "Идиятуллин Хасан Сагитзянович": 0,
-      "Исангулов Ильдар Хамзеевич": 0,
-      "Омаров Гаджимурад Заирбекович": 0,
-      "Рахматуллина Зугура Ягануровна": 207,
-      "Сулейманов Рамиль Зулькарнаевич": 0,
-      "Сухарев Иван Константинович": 4,
-      "Шафиков Мурад Римович": 0
+      "gas:candidate-vibid:4024057222136": 27,
+      "gas:candidate-vibid:4024057222236": 0,
+      "gas:candidate-vibid:4024057222375": 0,
+      "gas:candidate-vibid:4024057222446": 0,
+      "gas:candidate-vibid:4024057222189": 207,
+      "gas:candidate-vibid:4024057222264": 0,
+      "gas:candidate-vibid:4024057205394": 4,
+      "gas:candidate-vibid:4024057222494": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/bashkortostan?action=show&root=1000008&tvd=20220001684961&vrn=100100067795849&region=3&global=&sub_region=3&prver=0&pronetvd=null&vibid=20220001684961&type=464",
@@ -5843,14 +5843,14 @@ export const duma_2016_uik_463_region_3_part_007 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Ахмедьянов Ханиф Нигамадьянович": 15,
-      "Идиятуллин Хасан Сагитзянович": 11,
-      "Исангулов Ильдар Хамзеевич": 4,
-      "Омаров Гаджимурад Заирбекович": 2,
-      "Рахматуллина Зугура Ягануровна": 233,
-      "Сулейманов Рамиль Зулькарнаевич": 0,
-      "Сухарев Иван Константинович": 9,
-      "Шафиков Мурад Римович": 0
+      "gas:candidate-vibid:4024057222136": 15,
+      "gas:candidate-vibid:4024057222236": 11,
+      "gas:candidate-vibid:4024057222375": 4,
+      "gas:candidate-vibid:4024057222446": 2,
+      "gas:candidate-vibid:4024057222189": 233,
+      "gas:candidate-vibid:4024057222264": 0,
+      "gas:candidate-vibid:4024057205394": 9,
+      "gas:candidate-vibid:4024057222494": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/bashkortostan?action=show&root=1000008&tvd=20220001684961&vrn=100100067795849&region=3&global=&sub_region=3&prver=0&pronetvd=null&vibid=20220001684961&type=464",
@@ -5901,14 +5901,14 @@ export const duma_2016_uik_463_region_3_part_007 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Ахмедьянов Ханиф Нигамадьянович": 15,
-      "Идиятуллин Хасан Сагитзянович": 7,
-      "Исангулов Ильдар Хамзеевич": 6,
-      "Омаров Гаджимурад Заирбекович": 4,
-      "Рахматуллина Зугура Ягануровна": 60,
-      "Сулейманов Рамиль Зулькарнаевич": 3,
-      "Сухарев Иван Константинович": 6,
-      "Шафиков Мурад Римович": 0
+      "gas:candidate-vibid:4024057222136": 15,
+      "gas:candidate-vibid:4024057222236": 7,
+      "gas:candidate-vibid:4024057222375": 6,
+      "gas:candidate-vibid:4024057222446": 4,
+      "gas:candidate-vibid:4024057222189": 60,
+      "gas:candidate-vibid:4024057222264": 3,
+      "gas:candidate-vibid:4024057205394": 6,
+      "gas:candidate-vibid:4024057222494": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/bashkortostan?action=show&root=1000008&tvd=20220001684961&vrn=100100067795849&region=3&global=&sub_region=3&prver=0&pronetvd=null&vibid=20220001684961&type=464",
@@ -5959,14 +5959,14 @@ export const duma_2016_uik_463_region_3_part_007 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Ахмедьянов Ханиф Нигамадьянович": 11,
-      "Идиятуллин Хасан Сагитзянович": 1,
-      "Исангулов Ильдар Хамзеевич": 1,
-      "Омаров Гаджимурад Заирбекович": 0,
-      "Рахматуллина Зугура Ягануровна": 309,
-      "Сулейманов Рамиль Зулькарнаевич": 0,
-      "Сухарев Иван Константинович": 8,
-      "Шафиков Мурад Римович": 0
+      "gas:candidate-vibid:4024057222136": 11,
+      "gas:candidate-vibid:4024057222236": 1,
+      "gas:candidate-vibid:4024057222375": 1,
+      "gas:candidate-vibid:4024057222446": 0,
+      "gas:candidate-vibid:4024057222189": 309,
+      "gas:candidate-vibid:4024057222264": 0,
+      "gas:candidate-vibid:4024057205394": 8,
+      "gas:candidate-vibid:4024057222494": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/bashkortostan?action=show&root=1000008&tvd=20220001684961&vrn=100100067795849&region=3&global=&sub_region=3&prver=0&pronetvd=null&vibid=20220001684961&type=464",
@@ -6017,14 +6017,14 @@ export const duma_2016_uik_463_region_3_part_007 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Ахмедьянов Ханиф Нигамадьянович": 28,
-      "Идиятуллин Хасан Сагитзянович": 9,
-      "Исангулов Ильдар Хамзеевич": 14,
-      "Омаров Гаджимурад Заирбекович": 11,
-      "Рахматуллина Зугура Ягануровна": 139,
-      "Сулейманов Рамиль Зулькарнаевич": 5,
-      "Сухарев Иван Константинович": 13,
-      "Шафиков Мурад Римович": 3
+      "gas:candidate-vibid:4024057222136": 28,
+      "gas:candidate-vibid:4024057222236": 9,
+      "gas:candidate-vibid:4024057222375": 14,
+      "gas:candidate-vibid:4024057222446": 11,
+      "gas:candidate-vibid:4024057222189": 139,
+      "gas:candidate-vibid:4024057222264": 5,
+      "gas:candidate-vibid:4024057205394": 13,
+      "gas:candidate-vibid:4024057222494": 3
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/bashkortostan?action=show&root=1000008&tvd=20220001684961&vrn=100100067795849&region=3&global=&sub_region=3&prver=0&pronetvd=null&vibid=20220001684961&type=464",
@@ -6075,14 +6075,14 @@ export const duma_2016_uik_463_region_3_part_007 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Ахмедьянов Ханиф Нигамадьянович": 58,
-      "Идиятуллин Хасан Сагитзянович": 22,
-      "Исангулов Ильдар Хамзеевич": 20,
-      "Омаров Гаджимурад Заирбекович": 38,
-      "Рахматуллина Зугура Ягануровна": 183,
-      "Сулейманов Рамиль Зулькарнаевич": 10,
-      "Сухарев Иван Константинович": 13,
-      "Шафиков Мурад Римович": 3
+      "gas:candidate-vibid:4024057222136": 58,
+      "gas:candidate-vibid:4024057222236": 22,
+      "gas:candidate-vibid:4024057222375": 20,
+      "gas:candidate-vibid:4024057222446": 38,
+      "gas:candidate-vibid:4024057222189": 183,
+      "gas:candidate-vibid:4024057222264": 10,
+      "gas:candidate-vibid:4024057205394": 13,
+      "gas:candidate-vibid:4024057222494": 3
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/bashkortostan?action=show&root=1000008&tvd=20220001684961&vrn=100100067795849&region=3&global=&sub_region=3&prver=0&pronetvd=null&vibid=20220001684961&type=464",
@@ -6133,14 +6133,14 @@ export const duma_2016_uik_463_region_3_part_007 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Ахмедьянов Ханиф Нигамадьянович": 21,
-      "Идиятуллин Хасан Сагитзянович": 12,
-      "Исангулов Ильдар Хамзеевич": 9,
-      "Омаров Гаджимурад Заирбекович": 7,
-      "Рахматуллина Зугура Ягануровна": 280,
-      "Сулейманов Рамиль Зулькарнаевич": 6,
-      "Сухарев Иван Константинович": 3,
-      "Шафиков Мурад Римович": 1
+      "gas:candidate-vibid:4024057222136": 21,
+      "gas:candidate-vibid:4024057222236": 12,
+      "gas:candidate-vibid:4024057222375": 9,
+      "gas:candidate-vibid:4024057222446": 7,
+      "gas:candidate-vibid:4024057222189": 280,
+      "gas:candidate-vibid:4024057222264": 6,
+      "gas:candidate-vibid:4024057205394": 3,
+      "gas:candidate-vibid:4024057222494": 1
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/bashkortostan?action=show&root=1000008&tvd=20220001684961&vrn=100100067795849&region=3&global=&sub_region=3&prver=0&pronetvd=null&vibid=20220001684961&type=464",
@@ -6191,14 +6191,14 @@ export const duma_2016_uik_463_region_3_part_007 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Ахмедьянов Ханиф Нигамадьянович": 9,
-      "Идиятуллин Хасан Сагитзянович": 7,
-      "Исангулов Ильдар Хамзеевич": 1,
-      "Омаров Гаджимурад Заирбекович": 5,
-      "Рахматуллина Зугура Ягануровна": 202,
-      "Сулейманов Рамиль Зулькарнаевич": 7,
-      "Сухарев Иван Константинович": 11,
-      "Шафиков Мурад Римович": 1
+      "gas:candidate-vibid:4024057222136": 9,
+      "gas:candidate-vibid:4024057222236": 7,
+      "gas:candidate-vibid:4024057222375": 1,
+      "gas:candidate-vibid:4024057222446": 5,
+      "gas:candidate-vibid:4024057222189": 202,
+      "gas:candidate-vibid:4024057222264": 7,
+      "gas:candidate-vibid:4024057205394": 11,
+      "gas:candidate-vibid:4024057222494": 1
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/bashkortostan?action=show&root=1000008&tvd=20220001684961&vrn=100100067795849&region=3&global=&sub_region=3&prver=0&pronetvd=null&vibid=20220001684961&type=464",
@@ -6249,14 +6249,14 @@ export const duma_2016_uik_463_region_3_part_007 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Ахмедьянов Ханиф Нигамадьянович": 29,
-      "Идиятуллин Хасан Сагитзянович": 14,
-      "Исангулов Ильдар Хамзеевич": 13,
-      "Омаров Гаджимурад Заирбекович": 14,
-      "Рахматуллина Зугура Ягануровна": 253,
-      "Сулейманов Рамиль Зулькарнаевич": 8,
-      "Сухарев Иван Константинович": 19,
-      "Шафиков Мурад Римович": 2
+      "gas:candidate-vibid:4024057222136": 29,
+      "gas:candidate-vibid:4024057222236": 14,
+      "gas:candidate-vibid:4024057222375": 13,
+      "gas:candidate-vibid:4024057222446": 14,
+      "gas:candidate-vibid:4024057222189": 253,
+      "gas:candidate-vibid:4024057222264": 8,
+      "gas:candidate-vibid:4024057205394": 19,
+      "gas:candidate-vibid:4024057222494": 2
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/bashkortostan?action=show&root=1000008&tvd=20220001684961&vrn=100100067795849&region=3&global=&sub_region=3&prver=0&pronetvd=null&vibid=20220001684961&type=464",
@@ -6307,13 +6307,13 @@ export const duma_2016_uik_463_region_3_part_007 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Анохин Сергей Владимирович": 160,
-      "Галин Ильгам Илюсович": 438,
-      "Иванов Дмитрий Владимирович": 183,
-      "Латыпова Файруза Мунаваровна": 88,
-      "Мугалимов Рамиль Ханифович": 38,
-      "Мусин Денис Мухамедьянович": 60,
-      "Шайхутдинов Рифат Габдулхакович": 1180
+      "gas:candidate-vibid:4024042167179": 160,
+      "gas:candidate-vibid:4024042166953": 438,
+      "gas:candidate-vibid:4024042153627": 183,
+      "gas:candidate-vibid:4024042167201": 88,
+      "gas:candidate-vibid:4024042167292": 38,
+      "gas:candidate-vibid:4024042167246": 60,
+      "gas:candidate-vibid:4024042166564": 1180
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/bashkortostan?action=show&root=1000009&tvd=20220001684962&vrn=100100067795849&region=3&global=&sub_region=3&prver=0&pronetvd=null&vibid=20220001684962&type=464",
@@ -6364,13 +6364,13 @@ export const duma_2016_uik_463_region_3_part_007 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Анохин Сергей Владимирович": 139,
-      "Галин Ильгам Илюсович": 143,
-      "Иванов Дмитрий Владимирович": 5,
-      "Латыпова Файруза Мунаваровна": 2,
-      "Мугалимов Рамиль Ханифович": 3,
-      "Мусин Денис Мухамедьянович": 12,
-      "Шайхутдинов Рифат Габдулхакович": 617
+      "gas:candidate-vibid:4024042167179": 139,
+      "gas:candidate-vibid:4024042166953": 143,
+      "gas:candidate-vibid:4024042153627": 5,
+      "gas:candidate-vibid:4024042167201": 2,
+      "gas:candidate-vibid:4024042167292": 3,
+      "gas:candidate-vibid:4024042167246": 12,
+      "gas:candidate-vibid:4024042166564": 617
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/bashkortostan?action=show&root=1000009&tvd=20220001684962&vrn=100100067795849&region=3&global=&sub_region=3&prver=0&pronetvd=null&vibid=20220001684962&type=464",
@@ -6421,13 +6421,13 @@ export const duma_2016_uik_463_region_3_part_007 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Анохин Сергей Владимирович": 12,
-      "Галин Ильгам Илюсович": 775,
-      "Иванов Дмитрий Владимирович": 0,
-      "Латыпова Файруза Мунаваровна": 5,
-      "Мугалимов Рамиль Ханифович": 4,
-      "Мусин Денис Мухамедьянович": 16,
-      "Шайхутдинов Рифат Габдулхакович": 297
+      "gas:candidate-vibid:4024042167179": 12,
+      "gas:candidate-vibid:4024042166953": 775,
+      "gas:candidate-vibid:4024042153627": 0,
+      "gas:candidate-vibid:4024042167201": 5,
+      "gas:candidate-vibid:4024042167292": 4,
+      "gas:candidate-vibid:4024042167246": 16,
+      "gas:candidate-vibid:4024042166564": 297
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/bashkortostan?action=show&root=1000009&tvd=20220001684962&vrn=100100067795849&region=3&global=&sub_region=3&prver=0&pronetvd=null&vibid=20220001684962&type=464",
@@ -6478,13 +6478,13 @@ export const duma_2016_uik_463_region_3_part_007 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Анохин Сергей Владимирович": 92,
-      "Галин Ильгам Илюсович": 147,
-      "Иванов Дмитрий Владимирович": 60,
-      "Латыпова Файруза Мунаваровна": 46,
-      "Мугалимов Рамиль Ханифович": 16,
-      "Мусин Денис Мухамедьянович": 44,
-      "Шайхутдинов Рифат Габдулхакович": 70
+      "gas:candidate-vibid:4024042167179": 92,
+      "gas:candidate-vibid:4024042166953": 147,
+      "gas:candidate-vibid:4024042153627": 60,
+      "gas:candidate-vibid:4024042167201": 46,
+      "gas:candidate-vibid:4024042167292": 16,
+      "gas:candidate-vibid:4024042167246": 44,
+      "gas:candidate-vibid:4024042166564": 70
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/bashkortostan?action=show&root=1000009&tvd=20220001684962&vrn=100100067795849&region=3&global=&sub_region=3&prver=0&pronetvd=null&vibid=20220001684962&type=464",
@@ -6535,13 +6535,13 @@ export const duma_2016_uik_463_region_3_part_007 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Анохин Сергей Владимирович": 209,
-      "Галин Ильгам Илюсович": 522,
-      "Иванов Дмитрий Владимирович": 106,
-      "Латыпова Файруза Мунаваровна": 103,
-      "Мугалимов Рамиль Ханифович": 95,
-      "Мусин Денис Мухамедьянович": 109,
-      "Шайхутдинов Рифат Габдулхакович": 941
+      "gas:candidate-vibid:4024042167179": 209,
+      "gas:candidate-vibid:4024042166953": 522,
+      "gas:candidate-vibid:4024042153627": 106,
+      "gas:candidate-vibid:4024042167201": 103,
+      "gas:candidate-vibid:4024042167292": 95,
+      "gas:candidate-vibid:4024042167246": 109,
+      "gas:candidate-vibid:4024042166564": 941
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/bashkortostan?action=show&root=1000009&tvd=20220001684962&vrn=100100067795849&region=3&global=&sub_region=3&prver=0&pronetvd=null&vibid=20220001684962&type=464",
@@ -6592,13 +6592,13 @@ export const duma_2016_uik_463_region_3_part_007 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Анохин Сергей Владимирович": 45,
-      "Галин Ильгам Илюсович": 98,
-      "Иванов Дмитрий Владимирович": 40,
-      "Латыпова Файруза Мунаваровна": 34,
-      "Мугалимов Рамиль Ханифович": 7,
-      "Мусин Денис Мухамедьянович": 33,
-      "Шайхутдинов Рифат Габдулхакович": 44
+      "gas:candidate-vibid:4024042167179": 45,
+      "gas:candidate-vibid:4024042166953": 98,
+      "gas:candidate-vibid:4024042153627": 40,
+      "gas:candidate-vibid:4024042167201": 34,
+      "gas:candidate-vibid:4024042167292": 7,
+      "gas:candidate-vibid:4024042167246": 33,
+      "gas:candidate-vibid:4024042166564": 44
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/bashkortostan?action=show&root=1000009&tvd=20220001684962&vrn=100100067795849&region=3&global=&sub_region=3&prver=0&pronetvd=null&vibid=20220001684962&type=464",
@@ -6649,13 +6649,13 @@ export const duma_2016_uik_463_region_3_part_007 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Анохин Сергей Владимирович": 179,
-      "Галин Ильгам Илюсович": 146,
-      "Иванов Дмитрий Владимирович": 34,
-      "Латыпова Файруза Мунаваровна": 25,
-      "Мугалимов Рамиль Ханифович": 28,
-      "Мусин Денис Мухамедьянович": 97,
-      "Шайхутдинов Рифат Габдулхакович": 894
+      "gas:candidate-vibid:4024042167179": 179,
+      "gas:candidate-vibid:4024042166953": 146,
+      "gas:candidate-vibid:4024042153627": 34,
+      "gas:candidate-vibid:4024042167201": 25,
+      "gas:candidate-vibid:4024042167292": 28,
+      "gas:candidate-vibid:4024042167246": 97,
+      "gas:candidate-vibid:4024042166564": 894
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/bashkortostan?action=show&root=1000009&tvd=20220001684962&vrn=100100067795849&region=3&global=&sub_region=3&prver=0&pronetvd=null&vibid=20220001684962&type=464",
@@ -6706,13 +6706,13 @@ export const duma_2016_uik_463_region_3_part_007 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Анохин Сергей Владимирович": 77,
-      "Галин Ильгам Илюсович": 574,
-      "Иванов Дмитрий Владимирович": 21,
-      "Латыпова Файруза Мунаваровна": 43,
-      "Мугалимов Рамиль Ханифович": 15,
-      "Мусин Денис Мухамедьянович": 52,
-      "Шайхутдинов Рифат Габдулхакович": 1254
+      "gas:candidate-vibid:4024042167179": 77,
+      "gas:candidate-vibid:4024042166953": 574,
+      "gas:candidate-vibid:4024042153627": 21,
+      "gas:candidate-vibid:4024042167201": 43,
+      "gas:candidate-vibid:4024042167292": 15,
+      "gas:candidate-vibid:4024042167246": 52,
+      "gas:candidate-vibid:4024042166564": 1254
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/bashkortostan?action=show&root=1000009&tvd=20220001684962&vrn=100100067795849&region=3&global=&sub_region=3&prver=0&pronetvd=null&vibid=20220001684962&type=464",
@@ -6763,13 +6763,13 @@ export const duma_2016_uik_463_region_3_part_007 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Анохин Сергей Владимирович": 56,
-      "Галин Ильгам Илюсович": 278,
-      "Иванов Дмитрий Владимирович": 105,
-      "Латыпова Файруза Мунаваровна": 33,
-      "Мугалимов Рамиль Ханифович": 22,
-      "Мусин Денис Мухамедьянович": 65,
-      "Шайхутдинов Рифат Габдулхакович": 1289
+      "gas:candidate-vibid:4024042167179": 56,
+      "gas:candidate-vibid:4024042166953": 278,
+      "gas:candidate-vibid:4024042153627": 105,
+      "gas:candidate-vibid:4024042167201": 33,
+      "gas:candidate-vibid:4024042167292": 22,
+      "gas:candidate-vibid:4024042167246": 65,
+      "gas:candidate-vibid:4024042166564": 1289
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/bashkortostan?action=show&root=1000009&tvd=20220001684962&vrn=100100067795849&region=3&global=&sub_region=3&prver=0&pronetvd=null&vibid=20220001684962&type=464",
@@ -6820,13 +6820,13 @@ export const duma_2016_uik_463_region_3_part_007 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Анохин Сергей Владимирович": 89,
-      "Галин Ильгам Илюсович": 144,
-      "Иванов Дмитрий Владимирович": 1,
-      "Латыпова Файруза Мунаваровна": 2,
-      "Мугалимов Рамиль Ханифович": 0,
-      "Мусин Денис Мухамедьянович": 131,
-      "Шайхутдинов Рифат Габдулхакович": 899
+      "gas:candidate-vibid:4024042167179": 89,
+      "gas:candidate-vibid:4024042166953": 144,
+      "gas:candidate-vibid:4024042153627": 1,
+      "gas:candidate-vibid:4024042167201": 2,
+      "gas:candidate-vibid:4024042167292": 0,
+      "gas:candidate-vibid:4024042167246": 131,
+      "gas:candidate-vibid:4024042166564": 899
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/bashkortostan?action=show&root=1000009&tvd=20220001684962&vrn=100100067795849&region=3&global=&sub_region=3&prver=0&pronetvd=null&vibid=20220001684962&type=464",
@@ -6877,13 +6877,13 @@ export const duma_2016_uik_463_region_3_part_007 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Анохин Сергей Владимирович": 25,
-      "Галин Ильгам Илюсович": 218,
-      "Иванов Дмитрий Владимирович": 0,
-      "Латыпова Файруза Мунаваровна": 8,
-      "Мугалимов Рамиль Ханифович": 0,
-      "Мусин Денис Мухамедьянович": 17,
-      "Шайхутдинов Рифат Габдулхакович": 571
+      "gas:candidate-vibid:4024042167179": 25,
+      "gas:candidate-vibid:4024042166953": 218,
+      "gas:candidate-vibid:4024042153627": 0,
+      "gas:candidate-vibid:4024042167201": 8,
+      "gas:candidate-vibid:4024042167292": 0,
+      "gas:candidate-vibid:4024042167246": 17,
+      "gas:candidate-vibid:4024042166564": 571
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/bashkortostan?action=show&root=1000009&tvd=20220001684962&vrn=100100067795849&region=3&global=&sub_region=3&prver=0&pronetvd=null&vibid=20220001684962&type=464",
@@ -6934,13 +6934,13 @@ export const duma_2016_uik_463_region_3_part_007 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Анохин Сергей Владимирович": 184,
-      "Галин Ильгам Илюсович": 357,
-      "Иванов Дмитрий Владимирович": 26,
-      "Латыпова Файруза Мунаваровна": 82,
-      "Мугалимов Рамиль Ханифович": 226,
-      "Мусин Денис Мухамедьянович": 27,
-      "Шайхутдинов Рифат Габдулхакович": 1148
+      "gas:candidate-vibid:4024042167179": 184,
+      "gas:candidate-vibid:4024042166953": 357,
+      "gas:candidate-vibid:4024042153627": 26,
+      "gas:candidate-vibid:4024042167201": 82,
+      "gas:candidate-vibid:4024042167292": 226,
+      "gas:candidate-vibid:4024042167246": 27,
+      "gas:candidate-vibid:4024042166564": 1148
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/bashkortostan?action=show&root=1000009&tvd=20220001684962&vrn=100100067795849&region=3&global=&sub_region=3&prver=0&pronetvd=null&vibid=20220001684962&type=464",
@@ -6991,13 +6991,13 @@ export const duma_2016_uik_463_region_3_part_007 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Анохин Сергей Владимирович": 90,
-      "Галин Ильгам Илюсович": 169,
-      "Иванов Дмитрий Владимирович": 135,
-      "Латыпова Файруза Мунаваровна": 104,
-      "Мугалимов Рамиль Ханифович": 61,
-      "Мусин Денис Мухамедьянович": 91,
-      "Шайхутдинов Рифат Габдулхакович": 987
+      "gas:candidate-vibid:4024042167179": 90,
+      "gas:candidate-vibid:4024042166953": 169,
+      "gas:candidate-vibid:4024042153627": 135,
+      "gas:candidate-vibid:4024042167201": 104,
+      "gas:candidate-vibid:4024042167292": 61,
+      "gas:candidate-vibid:4024042167246": 91,
+      "gas:candidate-vibid:4024042166564": 987
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/bashkortostan?action=show&root=1000009&tvd=20220001684962&vrn=100100067795849&region=3&global=&sub_region=3&prver=0&pronetvd=null&vibid=20220001684962&type=464",
@@ -7048,13 +7048,13 @@ export const duma_2016_uik_463_region_3_part_007 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Анохин Сергей Владимирович": 101,
-      "Галин Ильгам Илюсович": 207,
-      "Иванов Дмитрий Владимирович": 75,
-      "Латыпова Файруза Мунаваровна": 50,
-      "Мугалимов Рамиль Ханифович": 14,
-      "Мусин Денис Мухамедьянович": 40,
-      "Шайхутдинов Рифат Габдулхакович": 254
+      "gas:candidate-vibid:4024042167179": 101,
+      "gas:candidate-vibid:4024042166953": 207,
+      "gas:candidate-vibid:4024042153627": 75,
+      "gas:candidate-vibid:4024042167201": 50,
+      "gas:candidate-vibid:4024042167292": 14,
+      "gas:candidate-vibid:4024042167246": 40,
+      "gas:candidate-vibid:4024042166564": 254
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/bashkortostan?action=show&root=1000009&tvd=20220001684962&vrn=100100067795849&region=3&global=&sub_region=3&prver=0&pronetvd=null&vibid=20220001684962&type=464",
@@ -7105,13 +7105,13 @@ export const duma_2016_uik_463_region_3_part_007 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Анохин Сергей Владимирович": 135,
-      "Галин Ильгам Илюсович": 209,
-      "Иванов Дмитрий Владимирович": 147,
-      "Латыпова Файруза Мунаваровна": 72,
-      "Мугалимов Рамиль Ханифович": 23,
-      "Мусин Денис Мухамедьянович": 51,
-      "Шайхутдинов Рифат Габдулхакович": 111
+      "gas:candidate-vibid:4024042167179": 135,
+      "gas:candidate-vibid:4024042166953": 209,
+      "gas:candidate-vibid:4024042153627": 147,
+      "gas:candidate-vibid:4024042167201": 72,
+      "gas:candidate-vibid:4024042167292": 23,
+      "gas:candidate-vibid:4024042167246": 51,
+      "gas:candidate-vibid:4024042166564": 111
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/bashkortostan?action=show&root=1000009&tvd=20220001684962&vrn=100100067795849&region=3&global=&sub_region=3&prver=0&pronetvd=null&vibid=20220001684962&type=464",
@@ -7162,13 +7162,13 @@ export const duma_2016_uik_463_region_3_part_007 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Анохин Сергей Владимирович": 57,
-      "Галин Ильгам Илюсович": 422,
-      "Иванов Дмитрий Владимирович": 37,
-      "Латыпова Файруза Мунаваровна": 28,
-      "Мугалимов Рамиль Ханифович": 22,
-      "Мусин Денис Мухамедьянович": 40,
-      "Шайхутдинов Рифат Габдулхакович": 1405
+      "gas:candidate-vibid:4024042167179": 57,
+      "gas:candidate-vibid:4024042166953": 422,
+      "gas:candidate-vibid:4024042153627": 37,
+      "gas:candidate-vibid:4024042167201": 28,
+      "gas:candidate-vibid:4024042167292": 22,
+      "gas:candidate-vibid:4024042167246": 40,
+      "gas:candidate-vibid:4024042166564": 1405
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/bashkortostan?action=show&root=1000009&tvd=20220001684962&vrn=100100067795849&region=3&global=&sub_region=3&prver=0&pronetvd=null&vibid=20220001684962&type=464",
@@ -7219,13 +7219,13 @@ export const duma_2016_uik_463_region_3_part_007 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Анохин Сергей Владимирович": 180,
-      "Галин Ильгам Илюсович": 390,
-      "Иванов Дмитрий Владимирович": 3,
-      "Латыпова Файруза Мунаваровна": 3,
-      "Мугалимов Рамиль Ханифович": 4,
-      "Мусин Денис Мухамедьянович": 55,
-      "Шайхутдинов Рифат Габдулхакович": 656
+      "gas:candidate-vibid:4024042167179": 180,
+      "gas:candidate-vibid:4024042166953": 390,
+      "gas:candidate-vibid:4024042153627": 3,
+      "gas:candidate-vibid:4024042167201": 3,
+      "gas:candidate-vibid:4024042167292": 4,
+      "gas:candidate-vibid:4024042167246": 55,
+      "gas:candidate-vibid:4024042166564": 656
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/bashkortostan?action=show&root=1000009&tvd=20220001684962&vrn=100100067795849&region=3&global=&sub_region=3&prver=0&pronetvd=null&vibid=20220001684962&type=464",
@@ -7276,13 +7276,13 @@ export const duma_2016_uik_463_region_3_part_007 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Анохин Сергей Владимирович": 52,
-      "Галин Ильгам Илюсович": 69,
-      "Иванов Дмитрий Владимирович": 78,
-      "Латыпова Файруза Мунаваровна": 31,
-      "Мугалимов Рамиль Ханифович": 9,
-      "Мусин Денис Мухамедьянович": 22,
-      "Шайхутдинов Рифат Габдулхакович": 45
+      "gas:candidate-vibid:4024042167179": 52,
+      "gas:candidate-vibid:4024042166953": 69,
+      "gas:candidate-vibid:4024042153627": 78,
+      "gas:candidate-vibid:4024042167201": 31,
+      "gas:candidate-vibid:4024042167292": 9,
+      "gas:candidate-vibid:4024042167246": 22,
+      "gas:candidate-vibid:4024042166564": 45
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/bashkortostan?action=show&root=1000009&tvd=20220001684962&vrn=100100067795849&region=3&global=&sub_region=3&prver=0&pronetvd=null&vibid=20220001684962&type=464",
@@ -7333,13 +7333,13 @@ export const duma_2016_uik_463_region_3_part_007 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Анохин Сергей Владимирович": 115,
-      "Галин Ильгам Илюсович": 129,
-      "Иванов Дмитрий Владимирович": 59,
-      "Латыпова Файруза Мунаваровна": 34,
-      "Мугалимов Рамиль Ханифович": 8,
-      "Мусин Денис Мухамедьянович": 35,
-      "Шайхутдинов Рифат Габдулхакович": 432
+      "gas:candidate-vibid:4024042167179": 115,
+      "gas:candidate-vibid:4024042166953": 129,
+      "gas:candidate-vibid:4024042153627": 59,
+      "gas:candidate-vibid:4024042167201": 34,
+      "gas:candidate-vibid:4024042167292": 8,
+      "gas:candidate-vibid:4024042167246": 35,
+      "gas:candidate-vibid:4024042166564": 432
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/bashkortostan?action=show&root=1000009&tvd=20220001684962&vrn=100100067795849&region=3&global=&sub_region=3&prver=0&pronetvd=null&vibid=20220001684962&type=464",
@@ -7390,13 +7390,13 @@ export const duma_2016_uik_463_region_3_part_007 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Анохин Сергей Владимирович": 64,
-      "Галин Ильгам Илюсович": 79,
-      "Иванов Дмитрий Владимирович": 50,
-      "Латыпова Файруза Мунаваровна": 46,
-      "Мугалимов Рамиль Ханифович": 13,
-      "Мусин Денис Мухамедьянович": 21,
-      "Шайхутдинов Рифат Габдулхакович": 111
+      "gas:candidate-vibid:4024042167179": 64,
+      "gas:candidate-vibid:4024042166953": 79,
+      "gas:candidate-vibid:4024042153627": 50,
+      "gas:candidate-vibid:4024042167201": 46,
+      "gas:candidate-vibid:4024042167292": 13,
+      "gas:candidate-vibid:4024042167246": 21,
+      "gas:candidate-vibid:4024042166564": 111
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/bashkortostan?action=show&root=1000009&tvd=20220001684962&vrn=100100067795849&region=3&global=&sub_region=3&prver=0&pronetvd=null&vibid=20220001684962&type=464",
@@ -7447,13 +7447,13 @@ export const duma_2016_uik_463_region_3_part_007 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Анохин Сергей Владимирович": 53,
-      "Галин Ильгам Илюсович": 855,
-      "Иванов Дмитрий Владимирович": 42,
-      "Латыпова Файруза Мунаваровна": 49,
-      "Мугалимов Рамиль Ханифович": 16,
-      "Мусин Денис Мухамедьянович": 47,
-      "Шайхутдинов Рифат Габдулхакович": 859
+      "gas:candidate-vibid:4024042167179": 53,
+      "gas:candidate-vibid:4024042166953": 855,
+      "gas:candidate-vibid:4024042153627": 42,
+      "gas:candidate-vibid:4024042167201": 49,
+      "gas:candidate-vibid:4024042167292": 16,
+      "gas:candidate-vibid:4024042167246": 47,
+      "gas:candidate-vibid:4024042166564": 859
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/bashkortostan?action=show&root=1000009&tvd=20220001684962&vrn=100100067795849&region=3&global=&sub_region=3&prver=0&pronetvd=null&vibid=20220001684962&type=464",
@@ -7504,13 +7504,13 @@ export const duma_2016_uik_463_region_3_part_007 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Анохин Сергей Владимирович": 97,
-      "Галин Ильгам Илюсович": 144,
-      "Иванов Дмитрий Владимирович": 66,
-      "Латыпова Файруза Мунаваровна": 58,
-      "Мугалимов Рамиль Ханифович": 12,
-      "Мусин Денис Мухамедьянович": 40,
-      "Шайхутдинов Рифат Габдулхакович": 166
+      "gas:candidate-vibid:4024042167179": 97,
+      "gas:candidate-vibid:4024042166953": 144,
+      "gas:candidate-vibid:4024042153627": 66,
+      "gas:candidate-vibid:4024042167201": 58,
+      "gas:candidate-vibid:4024042167292": 12,
+      "gas:candidate-vibid:4024042167246": 40,
+      "gas:candidate-vibid:4024042166564": 166
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/bashkortostan?action=show&root=1000009&tvd=20220001684962&vrn=100100067795849&region=3&global=&sub_region=3&prver=0&pronetvd=null&vibid=20220001684962&type=464",
@@ -7561,13 +7561,13 @@ export const duma_2016_uik_463_region_3_part_007 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Анохин Сергей Владимирович": 276,
-      "Галин Ильгам Илюсович": 255,
-      "Иванов Дмитрий Владимирович": 46,
-      "Латыпова Файруза Мунаваровна": 15,
-      "Мугалимов Рамиль Ханифович": 20,
-      "Мусин Денис Мухамедьянович": 38,
-      "Шайхутдинов Рифат Габдулхакович": 1581
+      "gas:candidate-vibid:4024042167179": 276,
+      "gas:candidate-vibid:4024042166953": 255,
+      "gas:candidate-vibid:4024042153627": 46,
+      "gas:candidate-vibid:4024042167201": 15,
+      "gas:candidate-vibid:4024042167292": 20,
+      "gas:candidate-vibid:4024042167246": 38,
+      "gas:candidate-vibid:4024042166564": 1581
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/bashkortostan?action=show&root=1000009&tvd=20220001684962&vrn=100100067795849&region=3&global=&sub_region=3&prver=0&pronetvd=null&vibid=20220001684962&type=464",
@@ -7618,13 +7618,13 @@ export const duma_2016_uik_463_region_3_part_007 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Анохин Сергей Владимирович": 86,
-      "Галин Ильгам Илюсович": 103,
-      "Иванов Дмитрий Владимирович": 19,
-      "Латыпова Файруза Мунаваровна": 18,
-      "Мугалимов Рамиль Ханифович": 10,
-      "Мусин Денис Мухамедьянович": 77,
-      "Шайхутдинов Рифат Габдулхакович": 760
+      "gas:candidate-vibid:4024042167179": 86,
+      "gas:candidate-vibid:4024042166953": 103,
+      "gas:candidate-vibid:4024042153627": 19,
+      "gas:candidate-vibid:4024042167201": 18,
+      "gas:candidate-vibid:4024042167292": 10,
+      "gas:candidate-vibid:4024042167246": 77,
+      "gas:candidate-vibid:4024042166564": 760
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/bashkortostan?action=show&root=1000009&tvd=20220001684962&vrn=100100067795849&region=3&global=&sub_region=3&prver=0&pronetvd=null&vibid=20220001684962&type=464",
@@ -7675,13 +7675,13 @@ export const duma_2016_uik_463_region_3_part_007 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Анохин Сергей Владимирович": 137,
-      "Галин Ильгам Илюсович": 114,
-      "Иванов Дмитрий Владимирович": 14,
-      "Латыпова Файруза Мунаваровна": 5,
-      "Мугалимов Рамиль Ханифович": 26,
-      "Мусин Денис Мухамедьянович": 48,
-      "Шайхутдинов Рифат Габдулхакович": 785
+      "gas:candidate-vibid:4024042167179": 137,
+      "gas:candidate-vibid:4024042166953": 114,
+      "gas:candidate-vibid:4024042153627": 14,
+      "gas:candidate-vibid:4024042167201": 5,
+      "gas:candidate-vibid:4024042167292": 26,
+      "gas:candidate-vibid:4024042167246": 48,
+      "gas:candidate-vibid:4024042166564": 785
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/bashkortostan?action=show&root=1000009&tvd=20220001684962&vrn=100100067795849&region=3&global=&sub_region=3&prver=0&pronetvd=null&vibid=20220001684962&type=464",
@@ -7732,13 +7732,13 @@ export const duma_2016_uik_463_region_3_part_007 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Анохин Сергей Владимирович": 218,
-      "Галин Ильгам Илюсович": 200,
-      "Иванов Дмитрий Владимирович": 45,
-      "Латыпова Файруза Мунаваровна": 44,
-      "Мугалимов Рамиль Ханифович": 28,
-      "Мусин Денис Мухамедьянович": 69,
-      "Шайхутдинов Рифат Габдулхакович": 1536
+      "gas:candidate-vibid:4024042167179": 218,
+      "gas:candidate-vibid:4024042166953": 200,
+      "gas:candidate-vibid:4024042153627": 45,
+      "gas:candidate-vibid:4024042167201": 44,
+      "gas:candidate-vibid:4024042167292": 28,
+      "gas:candidate-vibid:4024042167246": 69,
+      "gas:candidate-vibid:4024042166564": 1536
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/bashkortostan?action=show&root=1000009&tvd=20220001684962&vrn=100100067795849&region=3&global=&sub_region=3&prver=0&pronetvd=null&vibid=20220001684962&type=464",
@@ -7789,13 +7789,13 @@ export const duma_2016_uik_463_region_3_part_007 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Анохин Сергей Владимирович": 5,
-      "Галин Ильгам Илюсович": 18,
-      "Иванов Дмитрий Владимирович": 5,
-      "Латыпова Файруза Мунаваровна": 25,
-      "Мугалимов Рамиль Ханифович": 10,
-      "Мусин Денис Мухамедьянович": 120,
-      "Шайхутдинов Рифат Габдулхакович": 275
+      "gas:candidate-vibid:4024042167179": 5,
+      "gas:candidate-vibid:4024042166953": 18,
+      "gas:candidate-vibid:4024042153627": 5,
+      "gas:candidate-vibid:4024042167201": 25,
+      "gas:candidate-vibid:4024042167292": 10,
+      "gas:candidate-vibid:4024042167246": 120,
+      "gas:candidate-vibid:4024042166564": 275
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/bashkortostan?action=show&root=1000009&tvd=20220001684962&vrn=100100067795849&region=3&global=&sub_region=3&prver=0&pronetvd=null&vibid=20220001684962&type=464",
@@ -7846,13 +7846,13 @@ export const duma_2016_uik_463_region_3_part_007 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Анохин Сергей Владимирович": 41,
-      "Галин Ильгам Илюсович": 53,
-      "Иванов Дмитрий Владимирович": 21,
-      "Латыпова Файруза Мунаваровна": 21,
-      "Мугалимов Рамиль Ханифович": 16,
-      "Мусин Денис Мухамедьянович": 21,
-      "Шайхутдинов Рифат Габдулхакович": 426
+      "gas:candidate-vibid:4024042167179": 41,
+      "gas:candidate-vibid:4024042166953": 53,
+      "gas:candidate-vibid:4024042153627": 21,
+      "gas:candidate-vibid:4024042167201": 21,
+      "gas:candidate-vibid:4024042167292": 16,
+      "gas:candidate-vibid:4024042167246": 21,
+      "gas:candidate-vibid:4024042166564": 426
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/bashkortostan?action=show&root=1000009&tvd=20220001684962&vrn=100100067795849&region=3&global=&sub_region=3&prver=0&pronetvd=null&vibid=20220001684962&type=464",
@@ -7903,13 +7903,13 @@ export const duma_2016_uik_463_region_3_part_007 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Анохин Сергей Владимирович": 15,
-      "Галин Ильгам Илюсович": 23,
-      "Иванов Дмитрий Владимирович": 4,
-      "Латыпова Файруза Мунаваровна": 21,
-      "Мугалимов Рамиль Ханифович": 5,
-      "Мусин Денис Мухамедьянович": 7,
-      "Шайхутдинов Рифат Габдулхакович": 176
+      "gas:candidate-vibid:4024042167179": 15,
+      "gas:candidate-vibid:4024042166953": 23,
+      "gas:candidate-vibid:4024042153627": 4,
+      "gas:candidate-vibid:4024042167201": 21,
+      "gas:candidate-vibid:4024042167292": 5,
+      "gas:candidate-vibid:4024042167246": 7,
+      "gas:candidate-vibid:4024042166564": 176
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/bashkortostan?action=show&root=1000009&tvd=20220001684962&vrn=100100067795849&region=3&global=&sub_region=3&prver=0&pronetvd=null&vibid=20220001684962&type=464",
@@ -7960,13 +7960,13 @@ export const duma_2016_uik_463_region_3_part_007 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Анохин Сергей Владимирович": 32,
-      "Галин Ильгам Илюсович": 91,
-      "Иванов Дмитрий Владимирович": 24,
-      "Латыпова Файруза Мунаваровна": 24,
-      "Мугалимов Рамиль Ханифович": 6,
-      "Мусин Денис Мухамедьянович": 86,
-      "Шайхутдинов Рифат Габдулхакович": 355
+      "gas:candidate-vibid:4024042167179": 32,
+      "gas:candidate-vibid:4024042166953": 91,
+      "gas:candidate-vibid:4024042153627": 24,
+      "gas:candidate-vibid:4024042167201": 24,
+      "gas:candidate-vibid:4024042167292": 6,
+      "gas:candidate-vibid:4024042167246": 86,
+      "gas:candidate-vibid:4024042166564": 355
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/bashkortostan?action=show&root=1000009&tvd=20220001684962&vrn=100100067795849&region=3&global=&sub_region=3&prver=0&pronetvd=null&vibid=20220001684962&type=464",
@@ -8017,13 +8017,13 @@ export const duma_2016_uik_463_region_3_part_007 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Анохин Сергей Владимирович": 11,
-      "Галин Ильгам Илюсович": 70,
-      "Иванов Дмитрий Владимирович": 17,
-      "Латыпова Файруза Мунаваровна": 13,
-      "Мугалимов Рамиль Ханифович": 3,
-      "Мусин Денис Мухамедьянович": 9,
-      "Шайхутдинов Рифат Габдулхакович": 186
+      "gas:candidate-vibid:4024042167179": 11,
+      "gas:candidate-vibid:4024042166953": 70,
+      "gas:candidate-vibid:4024042153627": 17,
+      "gas:candidate-vibid:4024042167201": 13,
+      "gas:candidate-vibid:4024042167292": 3,
+      "gas:candidate-vibid:4024042167246": 9,
+      "gas:candidate-vibid:4024042166564": 186
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/bashkortostan?action=show&root=1000009&tvd=20220001684962&vrn=100100067795849&region=3&global=&sub_region=3&prver=0&pronetvd=null&vibid=20220001684962&type=464",
@@ -8074,13 +8074,13 @@ export const duma_2016_uik_463_region_3_part_007 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Анохин Сергей Владимирович": 33,
-      "Галин Ильгам Илюсович": 111,
-      "Иванов Дмитрий Владимирович": 30,
-      "Латыпова Файруза Мунаваровна": 9,
-      "Мугалимов Рамиль Ханифович": 17,
-      "Мусин Денис Мухамедьянович": 22,
-      "Шайхутдинов Рифат Габдулхакович": 421
+      "gas:candidate-vibid:4024042167179": 33,
+      "gas:candidate-vibid:4024042166953": 111,
+      "gas:candidate-vibid:4024042153627": 30,
+      "gas:candidate-vibid:4024042167201": 9,
+      "gas:candidate-vibid:4024042167292": 17,
+      "gas:candidate-vibid:4024042167246": 22,
+      "gas:candidate-vibid:4024042166564": 421
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/bashkortostan?action=show&root=1000009&tvd=20220001684962&vrn=100100067795849&region=3&global=&sub_region=3&prver=0&pronetvd=null&vibid=20220001684962&type=464",
@@ -8131,13 +8131,13 @@ export const duma_2016_uik_463_region_3_part_007 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Анохин Сергей Владимирович": 11,
-      "Галин Ильгам Илюсович": 51,
-      "Иванов Дмитрий Владимирович": 15,
-      "Латыпова Файруза Мунаваровна": 3,
-      "Мугалимов Рамиль Ханифович": 7,
-      "Мусин Денис Мухамедьянович": 12,
-      "Шайхутдинов Рифат Габдулхакович": 422
+      "gas:candidate-vibid:4024042167179": 11,
+      "gas:candidate-vibid:4024042166953": 51,
+      "gas:candidate-vibid:4024042153627": 15,
+      "gas:candidate-vibid:4024042167201": 3,
+      "gas:candidate-vibid:4024042167292": 7,
+      "gas:candidate-vibid:4024042167246": 12,
+      "gas:candidate-vibid:4024042166564": 422
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/bashkortostan?action=show&root=1000009&tvd=20220001684962&vrn=100100067795849&region=3&global=&sub_region=3&prver=0&pronetvd=null&vibid=20220001684962&type=464",
@@ -8188,13 +8188,13 @@ export const duma_2016_uik_463_region_3_part_007 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Анохин Сергей Владимирович": 4,
-      "Галин Ильгам Илюсович": 13,
-      "Иванов Дмитрий Владимирович": 4,
-      "Латыпова Файруза Мунаваровна": 3,
-      "Мугалимов Рамиль Ханифович": 0,
-      "Мусин Денис Мухамедьянович": 0,
-      "Шайхутдинов Рифат Габдулхакович": 162
+      "gas:candidate-vibid:4024042167179": 4,
+      "gas:candidate-vibid:4024042166953": 13,
+      "gas:candidate-vibid:4024042153627": 4,
+      "gas:candidate-vibid:4024042167201": 3,
+      "gas:candidate-vibid:4024042167292": 0,
+      "gas:candidate-vibid:4024042167246": 0,
+      "gas:candidate-vibid:4024042166564": 162
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/bashkortostan?action=show&root=1000009&tvd=20220001684962&vrn=100100067795849&region=3&global=&sub_region=3&prver=0&pronetvd=null&vibid=20220001684962&type=464",
@@ -8245,13 +8245,13 @@ export const duma_2016_uik_463_region_3_part_007 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Анохин Сергей Владимирович": 112,
-      "Галин Ильгам Илюсович": 137,
-      "Иванов Дмитрий Владимирович": 9,
-      "Латыпова Файруза Мунаваровна": 23,
-      "Мугалимов Рамиль Ханифович": 31,
-      "Мусин Денис Мухамедьянович": 61,
-      "Шайхутдинов Рифат Габдулхакович": 871
+      "gas:candidate-vibid:4024042167179": 112,
+      "gas:candidate-vibid:4024042166953": 137,
+      "gas:candidate-vibid:4024042153627": 9,
+      "gas:candidate-vibid:4024042167201": 23,
+      "gas:candidate-vibid:4024042167292": 31,
+      "gas:candidate-vibid:4024042167246": 61,
+      "gas:candidate-vibid:4024042166564": 871
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/bashkortostan?action=show&root=1000009&tvd=20220001684962&vrn=100100067795849&region=3&global=&sub_region=3&prver=0&pronetvd=null&vibid=20220001684962&type=464",
@@ -8302,13 +8302,13 @@ export const duma_2016_uik_463_region_3_part_007 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Анохин Сергей Владимирович": 134,
-      "Галин Ильгам Илюсович": 184,
-      "Иванов Дмитрий Владимирович": 69,
-      "Латыпова Файруза Мунаваровна": 46,
-      "Мугалимов Рамиль Ханифович": 25,
-      "Мусин Денис Мухамедьянович": 102,
-      "Шайхутдинов Рифат Габдулхакович": 650
+      "gas:candidate-vibid:4024042167179": 134,
+      "gas:candidate-vibid:4024042166953": 184,
+      "gas:candidate-vibid:4024042153627": 69,
+      "gas:candidate-vibid:4024042167201": 46,
+      "gas:candidate-vibid:4024042167292": 25,
+      "gas:candidate-vibid:4024042167246": 102,
+      "gas:candidate-vibid:4024042166564": 650
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/bashkortostan?action=show&root=1000009&tvd=20220001684962&vrn=100100067795849&region=3&global=&sub_region=3&prver=0&pronetvd=null&vibid=20220001684962&type=464",
@@ -8359,13 +8359,13 @@ export const duma_2016_uik_463_region_3_part_007 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Анохин Сергей Владимирович": 19,
-      "Галин Ильгам Илюсович": 29,
-      "Иванов Дмитрий Владимирович": 20,
-      "Латыпова Файруза Мунаваровна": 12,
-      "Мугалимов Рамиль Ханифович": 3,
-      "Мусин Денис Мухамедьянович": 10,
-      "Шайхутдинов Рифат Габдулхакович": 217
+      "gas:candidate-vibid:4024042167179": 19,
+      "gas:candidate-vibid:4024042166953": 29,
+      "gas:candidate-vibid:4024042153627": 20,
+      "gas:candidate-vibid:4024042167201": 12,
+      "gas:candidate-vibid:4024042167292": 3,
+      "gas:candidate-vibid:4024042167246": 10,
+      "gas:candidate-vibid:4024042166564": 217
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/bashkortostan?action=show&root=1000009&tvd=20220001684962&vrn=100100067795849&region=3&global=&sub_region=3&prver=0&pronetvd=null&vibid=20220001684962&type=464",
@@ -8416,13 +8416,13 @@ export const duma_2016_uik_463_region_3_part_007 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Анохин Сергей Владимирович": 65,
-      "Галин Ильгам Илюсович": 82,
-      "Иванов Дмитрий Владимирович": 42,
-      "Латыпова Файруза Мунаваровна": 20,
-      "Мугалимов Рамиль Ханифович": 11,
-      "Мусин Денис Мухамедьянович": 10,
-      "Шайхутдинов Рифат Габдулхакович": 578
+      "gas:candidate-vibid:4024042167179": 65,
+      "gas:candidate-vibid:4024042166953": 82,
+      "gas:candidate-vibid:4024042153627": 42,
+      "gas:candidate-vibid:4024042167201": 20,
+      "gas:candidate-vibid:4024042167292": 11,
+      "gas:candidate-vibid:4024042167246": 10,
+      "gas:candidate-vibid:4024042166564": 578
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/bashkortostan?action=show&root=1000009&tvd=20220001684962&vrn=100100067795849&region=3&global=&sub_region=3&prver=0&pronetvd=null&vibid=20220001684962&type=464",
@@ -8473,13 +8473,13 @@ export const duma_2016_uik_463_region_3_part_007 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Анохин Сергей Владимирович": 31,
-      "Галин Ильгам Илюсович": 55,
-      "Иванов Дмитрий Владимирович": 3,
-      "Латыпова Файруза Мунаваровна": 23,
-      "Мугалимов Рамиль Ханифович": 4,
-      "Мусин Денис Мухамедьянович": 10,
-      "Шайхутдинов Рифат Габдулхакович": 425
+      "gas:candidate-vibid:4024042167179": 31,
+      "gas:candidate-vibid:4024042166953": 55,
+      "gas:candidate-vibid:4024042153627": 3,
+      "gas:candidate-vibid:4024042167201": 23,
+      "gas:candidate-vibid:4024042167292": 4,
+      "gas:candidate-vibid:4024042167246": 10,
+      "gas:candidate-vibid:4024042166564": 425
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/bashkortostan?action=show&root=1000009&tvd=20220001684962&vrn=100100067795849&region=3&global=&sub_region=3&prver=0&pronetvd=null&vibid=20220001684962&type=464",
@@ -8530,13 +8530,13 @@ export const duma_2016_uik_463_region_3_part_007 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Анохин Сергей Владимирович": 56,
-      "Галин Ильгам Илюсович": 67,
-      "Иванов Дмитрий Владимирович": 49,
-      "Латыпова Файруза Мунаваровна": 52,
-      "Мугалимов Рамиль Ханифович": 8,
-      "Мусин Денис Мухамедьянович": 31,
-      "Шайхутдинов Рифат Габдулхакович": 429
+      "gas:candidate-vibid:4024042167179": 56,
+      "gas:candidate-vibid:4024042166953": 67,
+      "gas:candidate-vibid:4024042153627": 49,
+      "gas:candidate-vibid:4024042167201": 52,
+      "gas:candidate-vibid:4024042167292": 8,
+      "gas:candidate-vibid:4024042167246": 31,
+      "gas:candidate-vibid:4024042166564": 429
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/bashkortostan?action=show&root=1000009&tvd=20220001684962&vrn=100100067795849&region=3&global=&sub_region=3&prver=0&pronetvd=null&vibid=20220001684962&type=464",
@@ -8587,13 +8587,13 @@ export const duma_2016_uik_463_region_3_part_007 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Анохин Сергей Владимирович": 18,
-      "Галин Ильгам Илюсович": 48,
-      "Иванов Дмитрий Владимирович": 14,
-      "Латыпова Файруза Мунаваровна": 30,
-      "Мугалимов Рамиль Ханифович": 24,
-      "Мусин Денис Мухамедьянович": 7,
-      "Шайхутдинов Рифат Габдулхакович": 260
+      "gas:candidate-vibid:4024042167179": 18,
+      "gas:candidate-vibid:4024042166953": 48,
+      "gas:candidate-vibid:4024042153627": 14,
+      "gas:candidate-vibid:4024042167201": 30,
+      "gas:candidate-vibid:4024042167292": 24,
+      "gas:candidate-vibid:4024042167246": 7,
+      "gas:candidate-vibid:4024042166564": 260
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/bashkortostan?action=show&root=1000009&tvd=20220001684962&vrn=100100067795849&region=3&global=&sub_region=3&prver=0&pronetvd=null&vibid=20220001684962&type=464",
@@ -8644,13 +8644,13 @@ export const duma_2016_uik_463_region_3_part_007 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Анохин Сергей Владимирович": 93,
-      "Галин Ильгам Илюсович": 268,
-      "Иванов Дмитрий Владимирович": 80,
-      "Латыпова Файруза Мунаваровна": 77,
-      "Мугалимов Рамиль Ханифович": 25,
-      "Мусин Денис Мухамедьянович": 37,
-      "Шайхутдинов Рифат Габдулхакович": 48
+      "gas:candidate-vibid:4024042167179": 93,
+      "gas:candidate-vibid:4024042166953": 268,
+      "gas:candidate-vibid:4024042153627": 80,
+      "gas:candidate-vibid:4024042167201": 77,
+      "gas:candidate-vibid:4024042167292": 25,
+      "gas:candidate-vibid:4024042167246": 37,
+      "gas:candidate-vibid:4024042166564": 48
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/bashkortostan?action=show&root=1000009&tvd=20220001684962&vrn=100100067795849&region=3&global=&sub_region=3&prver=0&pronetvd=null&vibid=20220001684962&type=464",
@@ -8701,13 +8701,13 @@ export const duma_2016_uik_463_region_3_part_007 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Анохин Сергей Владимирович": 126,
-      "Галин Ильгам Илюсович": 351,
-      "Иванов Дмитрий Владимирович": 154,
-      "Латыпова Файруза Мунаваровна": 257,
-      "Мугалимов Рамиль Ханифович": 40,
-      "Мусин Денис Мухамедьянович": 46,
-      "Шайхутдинов Рифат Габдулхакович": 308
+      "gas:candidate-vibid:4024042167179": 126,
+      "gas:candidate-vibid:4024042166953": 351,
+      "gas:candidate-vibid:4024042153627": 154,
+      "gas:candidate-vibid:4024042167201": 257,
+      "gas:candidate-vibid:4024042167292": 40,
+      "gas:candidate-vibid:4024042167246": 46,
+      "gas:candidate-vibid:4024042166564": 308
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/bashkortostan?action=show&root=1000009&tvd=20220001684962&vrn=100100067795849&region=3&global=&sub_region=3&prver=0&pronetvd=null&vibid=20220001684962&type=464",
@@ -8758,13 +8758,13 @@ export const duma_2016_uik_463_region_3_part_007 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Анохин Сергей Владимирович": 86,
-      "Галин Ильгам Илюсович": 277,
-      "Иванов Дмитрий Владимирович": 90,
-      "Латыпова Файруза Мунаваровна": 79,
-      "Мугалимов Рамиль Ханифович": 21,
-      "Мусин Денис Мухамедьянович": 42,
-      "Шайхутдинов Рифат Габдулхакович": 28
+      "gas:candidate-vibid:4024042167179": 86,
+      "gas:candidate-vibid:4024042166953": 277,
+      "gas:candidate-vibid:4024042153627": 90,
+      "gas:candidate-vibid:4024042167201": 79,
+      "gas:candidate-vibid:4024042167292": 21,
+      "gas:candidate-vibid:4024042167246": 42,
+      "gas:candidate-vibid:4024042166564": 28
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/bashkortostan?action=show&root=1000009&tvd=20220001684962&vrn=100100067795849&region=3&global=&sub_region=3&prver=0&pronetvd=null&vibid=20220001684962&type=464",
@@ -8815,13 +8815,13 @@ export const duma_2016_uik_463_region_3_part_007 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Анохин Сергей Владимирович": 58,
-      "Галин Ильгам Илюсович": 310,
-      "Иванов Дмитрий Владимирович": 67,
-      "Латыпова Файруза Мунаваровна": 45,
-      "Мугалимов Рамиль Ханифович": 11,
-      "Мусин Денис Мухамедьянович": 60,
-      "Шайхутдинов Рифат Габдулхакович": 108
+      "gas:candidate-vibid:4024042167179": 58,
+      "gas:candidate-vibid:4024042166953": 310,
+      "gas:candidate-vibid:4024042153627": 67,
+      "gas:candidate-vibid:4024042167201": 45,
+      "gas:candidate-vibid:4024042167292": 11,
+      "gas:candidate-vibid:4024042167246": 60,
+      "gas:candidate-vibid:4024042166564": 108
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/bashkortostan?action=show&root=1000009&tvd=20220001684962&vrn=100100067795849&region=3&global=&sub_region=3&prver=0&pronetvd=null&vibid=20220001684962&type=464",
@@ -8872,13 +8872,13 @@ export const duma_2016_uik_463_region_3_part_007 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Анохин Сергей Владимирович": 4,
-      "Галин Ильгам Илюсович": 98,
-      "Иванов Дмитрий Владимирович": 16,
-      "Латыпова Файруза Мунаваровна": 29,
-      "Мугалимов Рамиль Ханифович": 8,
-      "Мусин Денис Мухамедьянович": 15,
-      "Шайхутдинов Рифат Габдулхакович": 226
+      "gas:candidate-vibid:4024042167179": 4,
+      "gas:candidate-vibid:4024042166953": 98,
+      "gas:candidate-vibid:4024042153627": 16,
+      "gas:candidate-vibid:4024042167201": 29,
+      "gas:candidate-vibid:4024042167292": 8,
+      "gas:candidate-vibid:4024042167246": 15,
+      "gas:candidate-vibid:4024042166564": 226
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/bashkortostan?action=show&root=1000009&tvd=20220001684962&vrn=100100067795849&region=3&global=&sub_region=3&prver=0&pronetvd=null&vibid=20220001684962&type=464",
@@ -8929,13 +8929,13 @@ export const duma_2016_uik_463_region_3_part_007 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Анохин Сергей Владимирович": 70,
-      "Галин Ильгам Илюсович": 95,
-      "Иванов Дмитрий Владимирович": 80,
-      "Латыпова Файруза Мунаваровна": 49,
-      "Мугалимов Рамиль Ханифович": 25,
-      "Мусин Денис Мухамедьянович": 21,
-      "Шайхутдинов Рифат Габдулхакович": 285
+      "gas:candidate-vibid:4024042167179": 70,
+      "gas:candidate-vibid:4024042166953": 95,
+      "gas:candidate-vibid:4024042153627": 80,
+      "gas:candidate-vibid:4024042167201": 49,
+      "gas:candidate-vibid:4024042167292": 25,
+      "gas:candidate-vibid:4024042167246": 21,
+      "gas:candidate-vibid:4024042166564": 285
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/bashkortostan?action=show&root=1000009&tvd=20220001684962&vrn=100100067795849&region=3&global=&sub_region=3&prver=0&pronetvd=null&vibid=20220001684962&type=464",
@@ -8986,13 +8986,13 @@ export const duma_2016_uik_463_region_3_part_007 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Анохин Сергей Владимирович": 0,
-      "Галин Ильгам Илюсович": 50,
-      "Иванов Дмитрий Владимирович": 16,
-      "Латыпова Файруза Мунаваровна": 17,
-      "Мугалимов Рамиль Ханифович": 10,
-      "Мусин Денис Мухамедьянович": 5,
-      "Шайхутдинов Рифат Габдулхакович": 59
+      "gas:candidate-vibid:4024042167179": 0,
+      "gas:candidate-vibid:4024042166953": 50,
+      "gas:candidate-vibid:4024042153627": 16,
+      "gas:candidate-vibid:4024042167201": 17,
+      "gas:candidate-vibid:4024042167292": 10,
+      "gas:candidate-vibid:4024042167246": 5,
+      "gas:candidate-vibid:4024042166564": 59
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/bashkortostan?action=show&root=1000009&tvd=20220001684962&vrn=100100067795849&region=3&global=&sub_region=3&prver=0&pronetvd=null&vibid=20220001684962&type=464",
@@ -9043,13 +9043,13 @@ export const duma_2016_uik_463_region_3_part_007 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Анохин Сергей Владимирович": 29,
-      "Галин Ильгам Илюсович": 113,
-      "Иванов Дмитрий Владимирович": 22,
-      "Латыпова Файруза Мунаваровна": 16,
-      "Мугалимов Рамиль Ханифович": 10,
-      "Мусин Денис Мухамедьянович": 9,
-      "Шайхутдинов Рифат Габдулхакович": 134
+      "gas:candidate-vibid:4024042167179": 29,
+      "gas:candidate-vibid:4024042166953": 113,
+      "gas:candidate-vibid:4024042153627": 22,
+      "gas:candidate-vibid:4024042167201": 16,
+      "gas:candidate-vibid:4024042167292": 10,
+      "gas:candidate-vibid:4024042167246": 9,
+      "gas:candidate-vibid:4024042166564": 134
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/bashkortostan?action=show&root=1000009&tvd=20220001684962&vrn=100100067795849&region=3&global=&sub_region=3&prver=0&pronetvd=null&vibid=20220001684962&type=464",
@@ -9100,13 +9100,13 @@ export const duma_2016_uik_463_region_3_part_007 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Анохин Сергей Владимирович": 23,
-      "Галин Ильгам Илюсович": 80,
-      "Иванов Дмитрий Владимирович": 45,
-      "Латыпова Файруза Мунаваровна": 61,
-      "Мугалимов Рамиль Ханифович": 14,
-      "Мусин Денис Мухамедьянович": 40,
-      "Шайхутдинов Рифат Габдулхакович": 376
+      "gas:candidate-vibid:4024042167179": 23,
+      "gas:candidate-vibid:4024042166953": 80,
+      "gas:candidate-vibid:4024042153627": 45,
+      "gas:candidate-vibid:4024042167201": 61,
+      "gas:candidate-vibid:4024042167292": 14,
+      "gas:candidate-vibid:4024042167246": 40,
+      "gas:candidate-vibid:4024042166564": 376
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/bashkortostan?action=show&root=1000009&tvd=20220001684962&vrn=100100067795849&region=3&global=&sub_region=3&prver=0&pronetvd=null&vibid=20220001684962&type=464",
@@ -9157,13 +9157,13 @@ export const duma_2016_uik_463_region_3_part_007 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Анохин Сергей Владимирович": 9,
-      "Галин Ильгам Илюсович": 13,
-      "Иванов Дмитрий Владимирович": 8,
-      "Латыпова Файруза Мунаваровна": 7,
-      "Мугалимов Рамиль Ханифович": 4,
-      "Мусин Денис Мухамедьянович": 7,
-      "Шайхутдинов Рифат Габдулхакович": 211
+      "gas:candidate-vibid:4024042167179": 9,
+      "gas:candidate-vibid:4024042166953": 13,
+      "gas:candidate-vibid:4024042153627": 8,
+      "gas:candidate-vibid:4024042167201": 7,
+      "gas:candidate-vibid:4024042167292": 4,
+      "gas:candidate-vibid:4024042167246": 7,
+      "gas:candidate-vibid:4024042166564": 211
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/bashkortostan?action=show&root=1000009&tvd=20220001684962&vrn=100100067795849&region=3&global=&sub_region=3&prver=0&pronetvd=null&vibid=20220001684962&type=464",
@@ -9214,13 +9214,13 @@ export const duma_2016_uik_463_region_3_part_007 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Анохин Сергей Владимирович": 5,
-      "Галин Ильгам Илюсович": 91,
-      "Иванов Дмитрий Владимирович": 4,
-      "Латыпова Файруза Мунаваровна": 10,
-      "Мугалимов Рамиль Ханифович": 2,
-      "Мусин Денис Мухамедьянович": 3,
-      "Шайхутдинов Рифат Габдулхакович": 221
+      "gas:candidate-vibid:4024042167179": 5,
+      "gas:candidate-vibid:4024042166953": 91,
+      "gas:candidate-vibid:4024042153627": 4,
+      "gas:candidate-vibid:4024042167201": 10,
+      "gas:candidate-vibid:4024042167292": 2,
+      "gas:candidate-vibid:4024042167246": 3,
+      "gas:candidate-vibid:4024042166564": 221
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/bashkortostan?action=show&root=1000009&tvd=20220001684962&vrn=100100067795849&region=3&global=&sub_region=3&prver=0&pronetvd=null&vibid=20220001684962&type=464",
@@ -9271,13 +9271,13 @@ export const duma_2016_uik_463_region_3_part_007 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Анохин Сергей Владимирович": 12,
-      "Галин Ильгам Илюсович": 86,
-      "Иванов Дмитрий Владимирович": 3,
-      "Латыпова Файруза Мунаваровна": 2,
-      "Мугалимов Рамиль Ханифович": 0,
-      "Мусин Денис Мухамедьянович": 14,
-      "Шайхутдинов Рифат Габдулхакович": 272
+      "gas:candidate-vibid:4024042167179": 12,
+      "gas:candidate-vibid:4024042166953": 86,
+      "gas:candidate-vibid:4024042153627": 3,
+      "gas:candidate-vibid:4024042167201": 2,
+      "gas:candidate-vibid:4024042167292": 0,
+      "gas:candidate-vibid:4024042167246": 14,
+      "gas:candidate-vibid:4024042166564": 272
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/bashkortostan?action=show&root=1000009&tvd=20220001684962&vrn=100100067795849&region=3&global=&sub_region=3&prver=0&pronetvd=null&vibid=20220001684962&type=464",
@@ -9328,13 +9328,13 @@ export const duma_2016_uik_463_region_3_part_007 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Анохин Сергей Владимирович": 0,
-      "Галин Ильгам Илюсович": 48,
-      "Иванов Дмитрий Владимирович": 8,
-      "Латыпова Файруза Мунаваровна": 1,
-      "Мугалимов Рамиль Ханифович": 4,
-      "Мусин Денис Мухамедьянович": 3,
-      "Шайхутдинов Рифат Габдулхакович": 159
+      "gas:candidate-vibid:4024042167179": 0,
+      "gas:candidate-vibid:4024042166953": 48,
+      "gas:candidate-vibid:4024042153627": 8,
+      "gas:candidate-vibid:4024042167201": 1,
+      "gas:candidate-vibid:4024042167292": 4,
+      "gas:candidate-vibid:4024042167246": 3,
+      "gas:candidate-vibid:4024042166564": 159
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/bashkortostan?action=show&root=1000009&tvd=20220001684962&vrn=100100067795849&region=3&global=&sub_region=3&prver=0&pronetvd=null&vibid=20220001684962&type=464",
@@ -9385,13 +9385,13 @@ export const duma_2016_uik_463_region_3_part_007 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Анохин Сергей Владимирович": 6,
-      "Галин Ильгам Илюсович": 47,
-      "Иванов Дмитрий Владимирович": 8,
-      "Латыпова Файруза Мунаваровна": 10,
-      "Мугалимов Рамиль Ханифович": 3,
-      "Мусин Денис Мухамедьянович": 4,
-      "Шайхутдинов Рифат Габдулхакович": 168
+      "gas:candidate-vibid:4024042167179": 6,
+      "gas:candidate-vibid:4024042166953": 47,
+      "gas:candidate-vibid:4024042153627": 8,
+      "gas:candidate-vibid:4024042167201": 10,
+      "gas:candidate-vibid:4024042167292": 3,
+      "gas:candidate-vibid:4024042167246": 4,
+      "gas:candidate-vibid:4024042166564": 168
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/bashkortostan?action=show&root=1000009&tvd=20220001684962&vrn=100100067795849&region=3&global=&sub_region=3&prver=0&pronetvd=null&vibid=20220001684962&type=464",
@@ -9442,13 +9442,13 @@ export const duma_2016_uik_463_region_3_part_007 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Анохин Сергей Владимирович": 6,
-      "Галин Ильгам Илюсович": 23,
-      "Иванов Дмитрий Владимирович": 0,
-      "Латыпова Файруза Мунаваровна": 5,
-      "Мугалимов Рамиль Ханифович": 0,
-      "Мусин Денис Мухамедьянович": 11,
-      "Шайхутдинов Рифат Габдулхакович": 299
+      "gas:candidate-vibid:4024042167179": 6,
+      "gas:candidate-vibid:4024042166953": 23,
+      "gas:candidate-vibid:4024042153627": 0,
+      "gas:candidate-vibid:4024042167201": 5,
+      "gas:candidate-vibid:4024042167292": 0,
+      "gas:candidate-vibid:4024042167246": 11,
+      "gas:candidate-vibid:4024042166564": 299
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/bashkortostan?action=show&root=1000009&tvd=20220001684962&vrn=100100067795849&region=3&global=&sub_region=3&prver=0&pronetvd=null&vibid=20220001684962&type=464",
@@ -9499,13 +9499,13 @@ export const duma_2016_uik_463_region_3_part_007 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Анохин Сергей Владимирович": 8,
-      "Галин Ильгам Илюсович": 36,
-      "Иванов Дмитрий Владимирович": 0,
-      "Латыпова Файруза Мунаваровна": 0,
-      "Мугалимов Рамиль Ханифович": 1,
-      "Мусин Денис Мухамедьянович": 25,
-      "Шайхутдинов Рифат Габдулхакович": 310
+      "gas:candidate-vibid:4024042167179": 8,
+      "gas:candidate-vibid:4024042166953": 36,
+      "gas:candidate-vibid:4024042153627": 0,
+      "gas:candidate-vibid:4024042167201": 0,
+      "gas:candidate-vibid:4024042167292": 1,
+      "gas:candidate-vibid:4024042167246": 25,
+      "gas:candidate-vibid:4024042166564": 310
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/bashkortostan?action=show&root=1000009&tvd=20220001684962&vrn=100100067795849&region=3&global=&sub_region=3&prver=0&pronetvd=null&vibid=20220001684962&type=464",
@@ -9556,13 +9556,13 @@ export const duma_2016_uik_463_region_3_part_007 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Анохин Сергей Владимирович": 99,
-      "Галин Ильгам Илюсович": 94,
-      "Иванов Дмитрий Владимирович": 55,
-      "Латыпова Файруза Мунаваровна": 25,
-      "Мугалимов Рамиль Ханифович": 12,
-      "Мусин Денис Мухамедьянович": 11,
-      "Шайхутдинов Рифат Габдулхакович": 217
+      "gas:candidate-vibid:4024042167179": 99,
+      "gas:candidate-vibid:4024042166953": 94,
+      "gas:candidate-vibid:4024042153627": 55,
+      "gas:candidate-vibid:4024042167201": 25,
+      "gas:candidate-vibid:4024042167292": 12,
+      "gas:candidate-vibid:4024042167246": 11,
+      "gas:candidate-vibid:4024042166564": 217
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/bashkortostan?action=show&root=1000009&tvd=20220001684962&vrn=100100067795849&region=3&global=&sub_region=3&prver=0&pronetvd=null&vibid=20220001684962&type=464",
@@ -9613,13 +9613,13 @@ export const duma_2016_uik_463_region_3_part_007 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Анохин Сергей Владимирович": 10,
-      "Галин Ильгам Илюсович": 83,
-      "Иванов Дмитрий Владимирович": 0,
-      "Латыпова Файруза Мунаваровна": 0,
-      "Мугалимов Рамиль Ханифович": 0,
-      "Мусин Денис Мухамедьянович": 3,
-      "Шайхутдинов Рифат Габдулхакович": 234
+      "gas:candidate-vibid:4024042167179": 10,
+      "gas:candidate-vibid:4024042166953": 83,
+      "gas:candidate-vibid:4024042153627": 0,
+      "gas:candidate-vibid:4024042167201": 0,
+      "gas:candidate-vibid:4024042167292": 0,
+      "gas:candidate-vibid:4024042167246": 3,
+      "gas:candidate-vibid:4024042166564": 234
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/bashkortostan?action=show&root=1000009&tvd=20220001684962&vrn=100100067795849&region=3&global=&sub_region=3&prver=0&pronetvd=null&vibid=20220001684962&type=464",
@@ -9670,13 +9670,13 @@ export const duma_2016_uik_463_region_3_part_007 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Анохин Сергей Владимирович": 39,
-      "Галин Ильгам Илюсович": 56,
-      "Иванов Дмитрий Владимирович": 11,
-      "Латыпова Файруза Мунаваровна": 8,
-      "Мугалимов Рамиль Ханифович": 10,
-      "Мусин Денис Мухамедьянович": 15,
-      "Шайхутдинов Рифат Габдулхакович": 243
+      "gas:candidate-vibid:4024042167179": 39,
+      "gas:candidate-vibid:4024042166953": 56,
+      "gas:candidate-vibid:4024042153627": 11,
+      "gas:candidate-vibid:4024042167201": 8,
+      "gas:candidate-vibid:4024042167292": 10,
+      "gas:candidate-vibid:4024042167246": 15,
+      "gas:candidate-vibid:4024042166564": 243
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/bashkortostan?action=show&root=1000009&tvd=20220001684962&vrn=100100067795849&region=3&global=&sub_region=3&prver=0&pronetvd=null&vibid=20220001684962&type=464",
@@ -9727,13 +9727,13 @@ export const duma_2016_uik_463_region_3_part_007 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Анохин Сергей Владимирович": 68,
-      "Галин Ильгам Илюсович": 189,
-      "Иванов Дмитрий Владимирович": 34,
-      "Латыпова Файруза Мунаваровна": 37,
-      "Мугалимов Рамиль Ханифович": 16,
-      "Мусин Денис Мухамедьянович": 22,
-      "Шайхутдинов Рифат Габдулхакович": 897
+      "gas:candidate-vibid:4024042167179": 68,
+      "gas:candidate-vibid:4024042166953": 189,
+      "gas:candidate-vibid:4024042153627": 34,
+      "gas:candidate-vibid:4024042167201": 37,
+      "gas:candidate-vibid:4024042167292": 16,
+      "gas:candidate-vibid:4024042167246": 22,
+      "gas:candidate-vibid:4024042166564": 897
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/bashkortostan?action=show&root=1000009&tvd=20220001684962&vrn=100100067795849&region=3&global=&sub_region=3&prver=0&pronetvd=null&vibid=20220001684962&type=464",
@@ -9784,13 +9784,13 @@ export const duma_2016_uik_463_region_3_part_007 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Анохин Сергей Владимирович": 10,
-      "Галин Ильгам Илюсович": 129,
-      "Иванов Дмитрий Владимирович": 0,
-      "Латыпова Файруза Мунаваровна": 14,
-      "Мугалимов Рамиль Ханифович": 0,
-      "Мусин Денис Мухамедьянович": 15,
-      "Шайхутдинов Рифат Габдулхакович": 1147
+      "gas:candidate-vibid:4024042167179": 10,
+      "gas:candidate-vibid:4024042166953": 129,
+      "gas:candidate-vibid:4024042153627": 0,
+      "gas:candidate-vibid:4024042167201": 14,
+      "gas:candidate-vibid:4024042167292": 0,
+      "gas:candidate-vibid:4024042167246": 15,
+      "gas:candidate-vibid:4024042166564": 1147
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/bashkortostan?action=show&root=1000009&tvd=20220001684962&vrn=100100067795849&region=3&global=&sub_region=3&prver=0&pronetvd=null&vibid=20220001684962&type=464",
@@ -9841,13 +9841,13 @@ export const duma_2016_uik_463_region_3_part_007 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Анохин Сергей Владимирович": 32,
-      "Галин Ильгам Илюсович": 102,
-      "Иванов Дмитрий Владимирович": 22,
-      "Латыпова Файруза Мунаваровна": 15,
-      "Мугалимов Рамиль Ханифович": 12,
-      "Мусин Денис Мухамедьянович": 19,
-      "Шайхутдинов Рифат Габдулхакович": 204
+      "gas:candidate-vibid:4024042167179": 32,
+      "gas:candidate-vibid:4024042166953": 102,
+      "gas:candidate-vibid:4024042153627": 22,
+      "gas:candidate-vibid:4024042167201": 15,
+      "gas:candidate-vibid:4024042167292": 12,
+      "gas:candidate-vibid:4024042167246": 19,
+      "gas:candidate-vibid:4024042166564": 204
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/bashkortostan?action=show&root=1000009&tvd=20220001684962&vrn=100100067795849&region=3&global=&sub_region=3&prver=0&pronetvd=null&vibid=20220001684962&type=464",
@@ -9898,13 +9898,13 @@ export const duma_2016_uik_463_region_3_part_007 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Анохин Сергей Владимирович": 11,
-      "Галин Ильгам Илюсович": 70,
-      "Иванов Дмитрий Владимирович": 12,
-      "Латыпова Файруза Мунаваровна": 15,
-      "Мугалимов Рамиль Ханифович": 8,
-      "Мусин Денис Мухамедьянович": 14,
-      "Шайхутдинов Рифат Габдулхакович": 157
+      "gas:candidate-vibid:4024042167179": 11,
+      "gas:candidate-vibid:4024042166953": 70,
+      "gas:candidate-vibid:4024042153627": 12,
+      "gas:candidate-vibid:4024042167201": 15,
+      "gas:candidate-vibid:4024042167292": 8,
+      "gas:candidate-vibid:4024042167246": 14,
+      "gas:candidate-vibid:4024042166564": 157
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/bashkortostan?action=show&root=1000009&tvd=20220001684962&vrn=100100067795849&region=3&global=&sub_region=3&prver=0&pronetvd=null&vibid=20220001684962&type=464",
@@ -9955,13 +9955,13 @@ export const duma_2016_uik_463_region_3_part_007 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Анохин Сергей Владимирович": 163,
-      "Галин Ильгам Илюсович": 252,
-      "Иванов Дмитрий Владимирович": 147,
-      "Латыпова Файруза Мунаваровна": 71,
-      "Мугалимов Рамиль Ханифович": 22,
-      "Мусин Денис Мухамедьянович": 43,
-      "Шайхутдинов Рифат Габдулхакович": 44
+      "gas:candidate-vibid:4024042167179": 163,
+      "gas:candidate-vibid:4024042166953": 252,
+      "gas:candidate-vibid:4024042153627": 147,
+      "gas:candidate-vibid:4024042167201": 71,
+      "gas:candidate-vibid:4024042167292": 22,
+      "gas:candidate-vibid:4024042167246": 43,
+      "gas:candidate-vibid:4024042166564": 44
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/bashkortostan?action=show&root=1000009&tvd=20220001684962&vrn=100100067795849&region=3&global=&sub_region=3&prver=0&pronetvd=null&vibid=20220001684962&type=464",
@@ -10012,13 +10012,13 @@ export const duma_2016_uik_463_region_3_part_007 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Анохин Сергей Владимирович": 246,
-      "Галин Ильгам Илюсович": 253,
-      "Иванов Дмитрий Владимирович": 174,
-      "Латыпова Файруза Мунаваровна": 82,
-      "Мугалимов Рамиль Ханифович": 35,
-      "Мусин Денис Мухамедьянович": 59,
-      "Шайхутдинов Рифат Габдулхакович": 56
+      "gas:candidate-vibid:4024042167179": 246,
+      "gas:candidate-vibid:4024042166953": 253,
+      "gas:candidate-vibid:4024042153627": 174,
+      "gas:candidate-vibid:4024042167201": 82,
+      "gas:candidate-vibid:4024042167292": 35,
+      "gas:candidate-vibid:4024042167246": 59,
+      "gas:candidate-vibid:4024042166564": 56
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/bashkortostan?action=show&root=1000009&tvd=20220001684962&vrn=100100067795849&region=3&global=&sub_region=3&prver=0&pronetvd=null&vibid=20220001684962&type=464",
@@ -10069,13 +10069,13 @@ export const duma_2016_uik_463_region_3_part_007 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Анохин Сергей Владимирович": 128,
-      "Галин Ильгам Илюсович": 264,
-      "Иванов Дмитрий Владимирович": 815,
-      "Латыпова Файруза Мунаваровна": 104,
-      "Мугалимов Рамиль Ханифович": 38,
-      "Мусин Денис Мухамедьянович": 250,
-      "Шайхутдинов Рифат Габдулхакович": 264
+      "gas:candidate-vibid:4024042167179": 128,
+      "gas:candidate-vibid:4024042166953": 264,
+      "gas:candidate-vibid:4024042153627": 815,
+      "gas:candidate-vibid:4024042167201": 104,
+      "gas:candidate-vibid:4024042167292": 38,
+      "gas:candidate-vibid:4024042167246": 250,
+      "gas:candidate-vibid:4024042166564": 264
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/bashkortostan?action=show&root=1000009&tvd=20220001684962&vrn=100100067795849&region=3&global=&sub_region=3&prver=0&pronetvd=null&vibid=20220001684962&type=464",
@@ -10126,13 +10126,13 @@ export const duma_2016_uik_463_region_3_part_007 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Анохин Сергей Владимирович": 100,
-      "Галин Ильгам Илюсович": 215,
-      "Иванов Дмитрий Владимирович": 78,
-      "Латыпова Файруза Мунаваровна": 45,
-      "Мугалимов Рамиль Ханифович": 29,
-      "Мусин Денис Мухамедьянович": 59,
-      "Шайхутдинов Рифат Габдулхакович": 581
+      "gas:candidate-vibid:4024042167179": 100,
+      "gas:candidate-vibid:4024042166953": 215,
+      "gas:candidate-vibid:4024042153627": 78,
+      "gas:candidate-vibid:4024042167201": 45,
+      "gas:candidate-vibid:4024042167292": 29,
+      "gas:candidate-vibid:4024042167246": 59,
+      "gas:candidate-vibid:4024042166564": 581
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/bashkortostan?action=show&root=1000009&tvd=20220001684962&vrn=100100067795849&region=3&global=&sub_region=3&prver=0&pronetvd=null&vibid=20220001684962&type=464",
@@ -10183,13 +10183,13 @@ export const duma_2016_uik_463_region_3_part_007 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Анохин Сергей Владимирович": 185,
-      "Галин Ильгам Илюсович": 396,
-      "Иванов Дмитрий Владимирович": 152,
-      "Латыпова Файруза Мунаваровна": 66,
-      "Мугалимов Рамиль Ханифович": 62,
-      "Мусин Денис Мухамедьянович": 62,
-      "Шайхутдинов Рифат Габдулхакович": 683
+      "gas:candidate-vibid:4024042167179": 185,
+      "gas:candidate-vibid:4024042166953": 396,
+      "gas:candidate-vibid:4024042153627": 152,
+      "gas:candidate-vibid:4024042167201": 66,
+      "gas:candidate-vibid:4024042167292": 62,
+      "gas:candidate-vibid:4024042167246": 62,
+      "gas:candidate-vibid:4024042166564": 683
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/bashkortostan?action=show&root=1000009&tvd=20220001684962&vrn=100100067795849&region=3&global=&sub_region=3&prver=0&pronetvd=null&vibid=20220001684962&type=464",
@@ -10240,13 +10240,13 @@ export const duma_2016_uik_463_region_3_part_007 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Анохин Сергей Владимирович": 120,
-      "Галин Ильгам Илюсович": 110,
-      "Иванов Дмитрий Владимирович": 36,
-      "Латыпова Файруза Мунаваровна": 25,
-      "Мугалимов Рамиль Ханифович": 10,
-      "Мусин Денис Мухамедьянович": 12,
-      "Шайхутдинов Рифат Габдулхакович": 917
+      "gas:candidate-vibid:4024042167179": 120,
+      "gas:candidate-vibid:4024042166953": 110,
+      "gas:candidate-vibid:4024042153627": 36,
+      "gas:candidate-vibid:4024042167201": 25,
+      "gas:candidate-vibid:4024042167292": 10,
+      "gas:candidate-vibid:4024042167246": 12,
+      "gas:candidate-vibid:4024042166564": 917
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/bashkortostan?action=show&root=1000009&tvd=20220001684962&vrn=100100067795849&region=3&global=&sub_region=3&prver=0&pronetvd=null&vibid=20220001684962&type=464",
@@ -10297,13 +10297,13 @@ export const duma_2016_uik_463_region_3_part_007 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Анохин Сергей Владимирович": 204,
-      "Галин Ильгам Илюсович": 232,
-      "Иванов Дмитрий Владимирович": 89,
-      "Латыпова Файруза Мунаваровна": 19,
-      "Мугалимов Рамиль Ханифович": 12,
-      "Мусин Денис Мухамедьянович": 20,
-      "Шайхутдинов Рифат Габдулхакович": 758
+      "gas:candidate-vibid:4024042167179": 204,
+      "gas:candidate-vibid:4024042166953": 232,
+      "gas:candidate-vibid:4024042153627": 89,
+      "gas:candidate-vibid:4024042167201": 19,
+      "gas:candidate-vibid:4024042167292": 12,
+      "gas:candidate-vibid:4024042167246": 20,
+      "gas:candidate-vibid:4024042166564": 758
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/bashkortostan?action=show&root=1000009&tvd=20220001684962&vrn=100100067795849&region=3&global=&sub_region=3&prver=0&pronetvd=null&vibid=20220001684962&type=464",
@@ -10354,13 +10354,13 @@ export const duma_2016_uik_463_region_3_part_007 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Анохин Сергей Владимирович": 21,
-      "Галин Ильгам Илюсович": 40,
-      "Иванов Дмитрий Владимирович": 4,
-      "Латыпова Файруза Мунаваровна": 20,
-      "Мугалимов Рамиль Ханифович": 15,
-      "Мусин Денис Мухамедьянович": 15,
-      "Шайхутдинов Рифат Габдулхакович": 310
+      "gas:candidate-vibid:4024042167179": 21,
+      "gas:candidate-vibid:4024042166953": 40,
+      "gas:candidate-vibid:4024042153627": 4,
+      "gas:candidate-vibid:4024042167201": 20,
+      "gas:candidate-vibid:4024042167292": 15,
+      "gas:candidate-vibid:4024042167246": 15,
+      "gas:candidate-vibid:4024042166564": 310
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/bashkortostan?action=show&root=1000009&tvd=20220001684962&vrn=100100067795849&region=3&global=&sub_region=3&prver=0&pronetvd=null&vibid=20220001684962&type=464",
@@ -10411,13 +10411,13 @@ export const duma_2016_uik_463_region_3_part_007 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Анохин Сергей Владимирович": 14,
-      "Галин Ильгам Илюсович": 10,
-      "Иванов Дмитрий Владимирович": 7,
-      "Латыпова Файруза Мунаваровна": 1,
-      "Мугалимов Рамиль Ханифович": 1,
-      "Мусин Денис Мухамедьянович": 18,
-      "Шайхутдинов Рифат Габдулхакович": 120
+      "gas:candidate-vibid:4024042167179": 14,
+      "gas:candidate-vibid:4024042166953": 10,
+      "gas:candidate-vibid:4024042153627": 7,
+      "gas:candidate-vibid:4024042167201": 1,
+      "gas:candidate-vibid:4024042167292": 1,
+      "gas:candidate-vibid:4024042167246": 18,
+      "gas:candidate-vibid:4024042166564": 120
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/bashkortostan?action=show&root=1000009&tvd=20220001684962&vrn=100100067795849&region=3&global=&sub_region=3&prver=0&pronetvd=null&vibid=20220001684962&type=464",
@@ -10468,13 +10468,13 @@ export const duma_2016_uik_463_region_3_part_007 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Анохин Сергей Владимирович": 7,
-      "Галин Ильгам Илюсович": 32,
-      "Иванов Дмитрий Владимирович": 5,
-      "Латыпова Файруза Мунаваровна": 2,
-      "Мугалимов Рамиль Ханифович": 1,
-      "Мусин Денис Мухамедьянович": 1,
-      "Шайхутдинов Рифат Габдулхакович": 89
+      "gas:candidate-vibid:4024042167179": 7,
+      "gas:candidate-vibid:4024042166953": 32,
+      "gas:candidate-vibid:4024042153627": 5,
+      "gas:candidate-vibid:4024042167201": 2,
+      "gas:candidate-vibid:4024042167292": 1,
+      "gas:candidate-vibid:4024042167246": 1,
+      "gas:candidate-vibid:4024042166564": 89
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/bashkortostan?action=show&root=1000009&tvd=20220001684962&vrn=100100067795849&region=3&global=&sub_region=3&prver=0&pronetvd=null&vibid=20220001684962&type=464",
@@ -10525,13 +10525,13 @@ export const duma_2016_uik_463_region_3_part_007 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Анохин Сергей Владимирович": 18,
-      "Галин Ильгам Илюсович": 31,
-      "Иванов Дмитрий Владимирович": 10,
-      "Латыпова Файруза Мунаваровна": 14,
-      "Мугалимов Рамиль Ханифович": 3,
-      "Мусин Денис Мухамедьянович": 14,
-      "Шайхутдинов Рифат Габдулхакович": 152
+      "gas:candidate-vibid:4024042167179": 18,
+      "gas:candidate-vibid:4024042166953": 31,
+      "gas:candidate-vibid:4024042153627": 10,
+      "gas:candidate-vibid:4024042167201": 14,
+      "gas:candidate-vibid:4024042167292": 3,
+      "gas:candidate-vibid:4024042167246": 14,
+      "gas:candidate-vibid:4024042166564": 152
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/bashkortostan?action=show&root=1000009&tvd=20220001684962&vrn=100100067795849&region=3&global=&sub_region=3&prver=0&pronetvd=null&vibid=20220001684962&type=464",
@@ -10582,13 +10582,13 @@ export const duma_2016_uik_463_region_3_part_007 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Анохин Сергей Владимирович": 3,
-      "Галин Ильгам Илюсович": 18,
-      "Иванов Дмитрий Владимирович": 2,
-      "Латыпова Файруза Мунаваровна": 3,
-      "Мугалимов Рамиль Ханифович": 2,
-      "Мусин Денис Мухамедьянович": 10,
-      "Шайхутдинов Рифат Габдулхакович": 88
+      "gas:candidate-vibid:4024042167179": 3,
+      "gas:candidate-vibid:4024042166953": 18,
+      "gas:candidate-vibid:4024042153627": 2,
+      "gas:candidate-vibid:4024042167201": 3,
+      "gas:candidate-vibid:4024042167292": 2,
+      "gas:candidate-vibid:4024042167246": 10,
+      "gas:candidate-vibid:4024042166564": 88
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/bashkortostan?action=show&root=1000009&tvd=20220001684962&vrn=100100067795849&region=3&global=&sub_region=3&prver=0&pronetvd=null&vibid=20220001684962&type=464",
@@ -10639,13 +10639,13 @@ export const duma_2016_uik_463_region_3_part_007 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Анохин Сергей Владимирович": 5,
-      "Галин Ильгам Илюсович": 35,
-      "Иванов Дмитрий Владимирович": 1,
-      "Латыпова Файруза Мунаваровна": 1,
-      "Мугалимов Рамиль Ханифович": 1,
-      "Мусин Денис Мухамедьянович": 26,
-      "Шайхутдинов Рифат Габдулхакович": 171
+      "gas:candidate-vibid:4024042167179": 5,
+      "gas:candidate-vibid:4024042166953": 35,
+      "gas:candidate-vibid:4024042153627": 1,
+      "gas:candidate-vibid:4024042167201": 1,
+      "gas:candidate-vibid:4024042167292": 1,
+      "gas:candidate-vibid:4024042167246": 26,
+      "gas:candidate-vibid:4024042166564": 171
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/bashkortostan?action=show&root=1000009&tvd=20220001684962&vrn=100100067795849&region=3&global=&sub_region=3&prver=0&pronetvd=null&vibid=20220001684962&type=464",
@@ -10696,13 +10696,13 @@ export const duma_2016_uik_463_region_3_part_007 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Анохин Сергей Владимирович": 16,
-      "Галин Ильгам Илюсович": 55,
-      "Иванов Дмитрий Владимирович": 7,
-      "Латыпова Файруза Мунаваровна": 6,
-      "Мугалимов Рамиль Ханифович": 5,
-      "Мусин Денис Мухамедьянович": 8,
-      "Шайхутдинов Рифат Габдулхакович": 654
+      "gas:candidate-vibid:4024042167179": 16,
+      "gas:candidate-vibid:4024042166953": 55,
+      "gas:candidate-vibid:4024042153627": 7,
+      "gas:candidate-vibid:4024042167201": 6,
+      "gas:candidate-vibid:4024042167292": 5,
+      "gas:candidate-vibid:4024042167246": 8,
+      "gas:candidate-vibid:4024042166564": 654
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/bashkortostan?action=show&root=1000009&tvd=20220001684962&vrn=100100067795849&region=3&global=&sub_region=3&prver=0&pronetvd=null&vibid=20220001684962&type=464",
@@ -10753,13 +10753,13 @@ export const duma_2016_uik_463_region_3_part_007 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Анохин Сергей Владимирович": 22,
-      "Галин Ильгам Илюсович": 49,
-      "Иванов Дмитрий Владимирович": 22,
-      "Латыпова Файруза Мунаваровна": 15,
-      "Мугалимов Рамиль Ханифович": 15,
-      "Мусин Денис Мухамедьянович": 19,
-      "Шайхутдинов Рифат Габдулхакович": 398
+      "gas:candidate-vibid:4024042167179": 22,
+      "gas:candidate-vibid:4024042166953": 49,
+      "gas:candidate-vibid:4024042153627": 22,
+      "gas:candidate-vibid:4024042167201": 15,
+      "gas:candidate-vibid:4024042167292": 15,
+      "gas:candidate-vibid:4024042167246": 19,
+      "gas:candidate-vibid:4024042166564": 398
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/bashkortostan?action=show&root=1000009&tvd=20220001684962&vrn=100100067795849&region=3&global=&sub_region=3&prver=0&pronetvd=null&vibid=20220001684962&type=464",
@@ -10810,13 +10810,13 @@ export const duma_2016_uik_463_region_3_part_007 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Анохин Сергей Владимирович": 49,
-      "Галин Ильгам Илюсович": 294,
-      "Иванов Дмитрий Владимирович": 50,
-      "Латыпова Файруза Мунаваровна": 34,
-      "Мугалимов Рамиль Ханифович": 20,
-      "Мусин Денис Мухамедьянович": 26,
-      "Шайхутдинов Рифат Габдулхакович": 305
+      "gas:candidate-vibid:4024042167179": 49,
+      "gas:candidate-vibid:4024042166953": 294,
+      "gas:candidate-vibid:4024042153627": 50,
+      "gas:candidate-vibid:4024042167201": 34,
+      "gas:candidate-vibid:4024042167292": 20,
+      "gas:candidate-vibid:4024042167246": 26,
+      "gas:candidate-vibid:4024042166564": 305
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/bashkortostan?action=show&root=1000009&tvd=20220001684962&vrn=100100067795849&region=3&global=&sub_region=3&prver=0&pronetvd=null&vibid=20220001684962&type=464",
@@ -10867,13 +10867,13 @@ export const duma_2016_uik_463_region_3_part_007 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Анохин Сергей Владимирович": 3,
-      "Галин Ильгам Илюсович": 23,
-      "Иванов Дмитрий Владимирович": 0,
-      "Латыпова Файруза Мунаваровна": 6,
-      "Мугалимов Рамиль Ханифович": 1,
-      "Мусин Денис Мухамедьянович": 15,
-      "Шайхутдинов Рифат Габдулхакович": 189
+      "gas:candidate-vibid:4024042167179": 3,
+      "gas:candidate-vibid:4024042166953": 23,
+      "gas:candidate-vibid:4024042153627": 0,
+      "gas:candidate-vibid:4024042167201": 6,
+      "gas:candidate-vibid:4024042167292": 1,
+      "gas:candidate-vibid:4024042167246": 15,
+      "gas:candidate-vibid:4024042166564": 189
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/bashkortostan?action=show&root=1000009&tvd=20220001684962&vrn=100100067795849&region=3&global=&sub_region=3&prver=0&pronetvd=null&vibid=20220001684962&type=464",
@@ -10924,13 +10924,13 @@ export const duma_2016_uik_463_region_3_part_007 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Анохин Сергей Владимирович": 11,
-      "Галин Ильгам Илюсович": 36,
-      "Иванов Дмитрий Владимирович": 5,
-      "Латыпова Файруза Мунаваровна": 10,
-      "Мугалимов Рамиль Ханифович": 7,
-      "Мусин Денис Мухамедьянович": 3,
-      "Шайхутдинов Рифат Габдулхакович": 189
+      "gas:candidate-vibid:4024042167179": 11,
+      "gas:candidate-vibid:4024042166953": 36,
+      "gas:candidate-vibid:4024042153627": 5,
+      "gas:candidate-vibid:4024042167201": 10,
+      "gas:candidate-vibid:4024042167292": 7,
+      "gas:candidate-vibid:4024042167246": 3,
+      "gas:candidate-vibid:4024042166564": 189
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/bashkortostan?action=show&root=1000009&tvd=20220001684962&vrn=100100067795849&region=3&global=&sub_region=3&prver=0&pronetvd=null&vibid=20220001684962&type=464",
@@ -10981,13 +10981,13 @@ export const duma_2016_uik_463_region_3_part_007 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Анохин Сергей Владимирович": 2,
-      "Галин Ильгам Илюсович": 15,
-      "Иванов Дмитрий Владимирович": 5,
-      "Латыпова Файруза Мунаваровна": 0,
-      "Мугалимов Рамиль Ханифович": 1,
-      "Мусин Денис Мухамедьянович": 4,
-      "Шайхутдинов Рифат Габдулхакович": 221
+      "gas:candidate-vibid:4024042167179": 2,
+      "gas:candidate-vibid:4024042166953": 15,
+      "gas:candidate-vibid:4024042153627": 5,
+      "gas:candidate-vibid:4024042167201": 0,
+      "gas:candidate-vibid:4024042167292": 1,
+      "gas:candidate-vibid:4024042167246": 4,
+      "gas:candidate-vibid:4024042166564": 221
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/bashkortostan?action=show&root=1000009&tvd=20220001684962&vrn=100100067795849&region=3&global=&sub_region=3&prver=0&pronetvd=null&vibid=20220001684962&type=464",
@@ -11038,13 +11038,13 @@ export const duma_2016_uik_463_region_3_part_007 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Анохин Сергей Владимирович": 72,
-      "Галин Ильгам Илюсович": 361,
-      "Иванов Дмитрий Владимирович": 63,
-      "Латыпова Файруза Мунаваровна": 11,
-      "Мугалимов Рамиль Ханифович": 33,
-      "Мусин Денис Мухамедьянович": 67,
-      "Шайхутдинов Рифат Габдулхакович": 689
+      "gas:candidate-vibid:4024042167179": 72,
+      "gas:candidate-vibid:4024042166953": 361,
+      "gas:candidate-vibid:4024042153627": 63,
+      "gas:candidate-vibid:4024042167201": 11,
+      "gas:candidate-vibid:4024042167292": 33,
+      "gas:candidate-vibid:4024042167246": 67,
+      "gas:candidate-vibid:4024042166564": 689
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/bashkortostan?action=show&root=1000009&tvd=20220001684963&vrn=100100067795849&region=3&global=&sub_region=3&prver=0&pronetvd=null&vibid=20220001684963&type=464",
@@ -11095,13 +11095,13 @@ export const duma_2016_uik_463_region_3_part_007 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Анохин Сергей Владимирович": 22,
-      "Галин Ильгам Илюсович": 271,
-      "Иванов Дмитрий Владимирович": 15,
-      "Латыпова Файруза Мунаваровна": 52,
-      "Мугалимов Рамиль Ханифович": 57,
-      "Мусин Денис Мухамедьянович": 72,
-      "Шайхутдинов Рифат Габдулхакович": 791
+      "gas:candidate-vibid:4024042167179": 22,
+      "gas:candidate-vibid:4024042166953": 271,
+      "gas:candidate-vibid:4024042153627": 15,
+      "gas:candidate-vibid:4024042167201": 52,
+      "gas:candidate-vibid:4024042167292": 57,
+      "gas:candidate-vibid:4024042167246": 72,
+      "gas:candidate-vibid:4024042166564": 791
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/bashkortostan?action=show&root=1000009&tvd=20220001684963&vrn=100100067795849&region=3&global=&sub_region=3&prver=0&pronetvd=null&vibid=20220001684963&type=464",
@@ -11152,13 +11152,13 @@ export const duma_2016_uik_463_region_3_part_007 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Анохин Сергей Владимирович": 62,
-      "Галин Ильгам Илюсович": 157,
-      "Иванов Дмитрий Владимирович": 62,
-      "Латыпова Файруза Мунаваровна": 58,
-      "Мугалимов Рамиль Ханифович": 34,
-      "Мусин Денис Мухамедьянович": 53,
-      "Шайхутдинов Рифат Габдулхакович": 570
+      "gas:candidate-vibid:4024042167179": 62,
+      "gas:candidate-vibid:4024042166953": 157,
+      "gas:candidate-vibid:4024042153627": 62,
+      "gas:candidate-vibid:4024042167201": 58,
+      "gas:candidate-vibid:4024042167292": 34,
+      "gas:candidate-vibid:4024042167246": 53,
+      "gas:candidate-vibid:4024042166564": 570
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/bashkortostan?action=show&root=1000009&tvd=20220001684963&vrn=100100067795849&region=3&global=&sub_region=3&prver=0&pronetvd=null&vibid=20220001684963&type=464",
@@ -11209,13 +11209,13 @@ export const duma_2016_uik_463_region_3_part_007 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Анохин Сергей Владимирович": 50,
-      "Галин Ильгам Илюсович": 73,
-      "Иванов Дмитрий Владимирович": 50,
-      "Латыпова Файруза Мунаваровна": 25,
-      "Мугалимов Рамиль Ханифович": 9,
-      "Мусин Денис Мухамедьянович": 9,
-      "Шайхутдинов Рифат Габдулхакович": 107
+      "gas:candidate-vibid:4024042167179": 50,
+      "gas:candidate-vibid:4024042166953": 73,
+      "gas:candidate-vibid:4024042153627": 50,
+      "gas:candidate-vibid:4024042167201": 25,
+      "gas:candidate-vibid:4024042167292": 9,
+      "gas:candidate-vibid:4024042167246": 9,
+      "gas:candidate-vibid:4024042166564": 107
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/bashkortostan?action=show&root=1000009&tvd=20220001684963&vrn=100100067795849&region=3&global=&sub_region=3&prver=0&pronetvd=null&vibid=20220001684963&type=464",
@@ -11266,13 +11266,13 @@ export const duma_2016_uik_463_region_3_part_007 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Анохин Сергей Владимирович": 22,
-      "Галин Ильгам Илюсович": 294,
-      "Иванов Дмитрий Владимирович": 12,
-      "Латыпова Файруза Мунаваровна": 67,
-      "Мугалимов Рамиль Ханифович": 17,
-      "Мусин Денис Мухамедьянович": 56,
-      "Шайхутдинов Рифат Габдулхакович": 720
+      "gas:candidate-vibid:4024042167179": 22,
+      "gas:candidate-vibid:4024042166953": 294,
+      "gas:candidate-vibid:4024042153627": 12,
+      "gas:candidate-vibid:4024042167201": 67,
+      "gas:candidate-vibid:4024042167292": 17,
+      "gas:candidate-vibid:4024042167246": 56,
+      "gas:candidate-vibid:4024042166564": 720
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/bashkortostan?action=show&root=1000009&tvd=20220001684963&vrn=100100067795849&region=3&global=&sub_region=3&prver=0&pronetvd=null&vibid=20220001684963&type=464",
@@ -11323,13 +11323,13 @@ export const duma_2016_uik_463_region_3_part_007 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Анохин Сергей Владимирович": 14,
-      "Галин Ильгам Илюсович": 167,
-      "Иванов Дмитрий Владимирович": 12,
-      "Латыпова Файруза Мунаваровна": 25,
-      "Мугалимов Рамиль Ханифович": 10,
-      "Мусин Денис Мухамедьянович": 23,
-      "Шайхутдинов Рифат Габдулхакович": 272
+      "gas:candidate-vibid:4024042167179": 14,
+      "gas:candidate-vibid:4024042166953": 167,
+      "gas:candidate-vibid:4024042153627": 12,
+      "gas:candidate-vibid:4024042167201": 25,
+      "gas:candidate-vibid:4024042167292": 10,
+      "gas:candidate-vibid:4024042167246": 23,
+      "gas:candidate-vibid:4024042166564": 272
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/bashkortostan?action=show&root=1000009&tvd=20220001684963&vrn=100100067795849&region=3&global=&sub_region=3&prver=0&pronetvd=null&vibid=20220001684963&type=464",
@@ -11380,13 +11380,13 @@ export const duma_2016_uik_463_region_3_part_007 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Анохин Сергей Владимирович": 28,
-      "Галин Ильгам Илюсович": 231,
-      "Иванов Дмитрий Владимирович": 56,
-      "Латыпова Файруза Мунаваровна": 34,
-      "Мугалимов Рамиль Ханифович": 24,
-      "Мусин Денис Мухамедьянович": 33,
-      "Шайхутдинов Рифат Габдулхакович": 769
+      "gas:candidate-vibid:4024042167179": 28,
+      "gas:candidate-vibid:4024042166953": 231,
+      "gas:candidate-vibid:4024042153627": 56,
+      "gas:candidate-vibid:4024042167201": 34,
+      "gas:candidate-vibid:4024042167292": 24,
+      "gas:candidate-vibid:4024042167246": 33,
+      "gas:candidate-vibid:4024042166564": 769
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/bashkortostan?action=show&root=1000009&tvd=20220001684963&vrn=100100067795849&region=3&global=&sub_region=3&prver=0&pronetvd=null&vibid=20220001684963&type=464",
@@ -11437,13 +11437,13 @@ export const duma_2016_uik_463_region_3_part_007 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Анохин Сергей Владимирович": 31,
-      "Галин Ильгам Илюсович": 130,
-      "Иванов Дмитрий Владимирович": 27,
-      "Латыпова Файруза Мунаваровна": 0,
-      "Мугалимов Рамиль Ханифович": 16,
-      "Мусин Денис Мухамедьянович": 0,
-      "Шайхутдинов Рифат Габдулхакович": 241
+      "gas:candidate-vibid:4024042167179": 31,
+      "gas:candidate-vibid:4024042166953": 130,
+      "gas:candidate-vibid:4024042153627": 27,
+      "gas:candidate-vibid:4024042167201": 0,
+      "gas:candidate-vibid:4024042167292": 16,
+      "gas:candidate-vibid:4024042167246": 0,
+      "gas:candidate-vibid:4024042166564": 241
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/bashkortostan?action=show&root=1000009&tvd=20220001684963&vrn=100100067795849&region=3&global=&sub_region=3&prver=0&pronetvd=null&vibid=20220001684963&type=464",
@@ -11494,13 +11494,13 @@ export const duma_2016_uik_463_region_3_part_007 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Анохин Сергей Владимирович": 69,
-      "Галин Ильгам Илюсович": 159,
-      "Иванов Дмитрий Владимирович": 24,
-      "Латыпова Файруза Мунаваровна": 73,
-      "Мугалимов Рамиль Ханифович": 32,
-      "Мусин Денис Мухамедьянович": 50,
-      "Шайхутдинов Рифат Габдулхакович": 794
+      "gas:candidate-vibid:4024042167179": 69,
+      "gas:candidate-vibid:4024042166953": 159,
+      "gas:candidate-vibid:4024042153627": 24,
+      "gas:candidate-vibid:4024042167201": 73,
+      "gas:candidate-vibid:4024042167292": 32,
+      "gas:candidate-vibid:4024042167246": 50,
+      "gas:candidate-vibid:4024042166564": 794
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/bashkortostan?action=show&root=1000009&tvd=20220001684963&vrn=100100067795849&region=3&global=&sub_region=3&prver=0&pronetvd=null&vibid=20220001684963&type=464",
@@ -11551,13 +11551,13 @@ export const duma_2016_uik_463_region_3_part_007 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Анохин Сергей Владимирович": 10,
-      "Галин Ильгам Илюсович": 105,
-      "Иванов Дмитрий Владимирович": 0,
-      "Латыпова Файруза Мунаваровна": 3,
-      "Мугалимов Рамиль Ханифович": 6,
-      "Мусин Денис Мухамедьянович": 8,
-      "Шайхутдинов Рифат Габдулхакович": 305
+      "gas:candidate-vibid:4024042167179": 10,
+      "gas:candidate-vibid:4024042166953": 105,
+      "gas:candidate-vibid:4024042153627": 0,
+      "gas:candidate-vibid:4024042167201": 3,
+      "gas:candidate-vibid:4024042167292": 6,
+      "gas:candidate-vibid:4024042167246": 8,
+      "gas:candidate-vibid:4024042166564": 305
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/bashkortostan?action=show&root=1000009&tvd=20220001684963&vrn=100100067795849&region=3&global=&sub_region=3&prver=0&pronetvd=null&vibid=20220001684963&type=464",
@@ -11608,13 +11608,13 @@ export const duma_2016_uik_463_region_3_part_007 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Анохин Сергей Владимирович": 18,
-      "Галин Ильгам Илюсович": 143,
-      "Иванов Дмитрий Владимирович": 15,
-      "Латыпова Файруза Мунаваровна": 8,
-      "Мугалимов Рамиль Ханифович": 10,
-      "Мусин Денис Мухамедьянович": 82,
-      "Шайхутдинов Рифат Габдулхакович": 231
+      "gas:candidate-vibid:4024042167179": 18,
+      "gas:candidate-vibid:4024042166953": 143,
+      "gas:candidate-vibid:4024042153627": 15,
+      "gas:candidate-vibid:4024042167201": 8,
+      "gas:candidate-vibid:4024042167292": 10,
+      "gas:candidate-vibid:4024042167246": 82,
+      "gas:candidate-vibid:4024042166564": 231
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/bashkortostan?action=show&root=1000009&tvd=20220001684963&vrn=100100067795849&region=3&global=&sub_region=3&prver=0&pronetvd=null&vibid=20220001684963&type=464",
@@ -11665,13 +11665,13 @@ export const duma_2016_uik_463_region_3_part_007 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Анохин Сергей Владимирович": 74,
-      "Галин Ильгам Илюсович": 234,
-      "Иванов Дмитрий Владимирович": 36,
-      "Латыпова Файруза Мунаваровна": 32,
-      "Мугалимов Рамиль Ханифович": 16,
-      "Мусин Денис Мухамедьянович": 18,
-      "Шайхутдинов Рифат Габдулхакович": 428
+      "gas:candidate-vibid:4024042167179": 74,
+      "gas:candidate-vibid:4024042166953": 234,
+      "gas:candidate-vibid:4024042153627": 36,
+      "gas:candidate-vibid:4024042167201": 32,
+      "gas:candidate-vibid:4024042167292": 16,
+      "gas:candidate-vibid:4024042167246": 18,
+      "gas:candidate-vibid:4024042166564": 428
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/bashkortostan?action=show&root=1000009&tvd=20220001684963&vrn=100100067795849&region=3&global=&sub_region=3&prver=0&pronetvd=null&vibid=20220001684963&type=464",
@@ -11722,13 +11722,13 @@ export const duma_2016_uik_463_region_3_part_007 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Анохин Сергей Владимирович": 75,
-      "Галин Ильгам Илюсович": 173,
-      "Иванов Дмитрий Владимирович": 65,
-      "Латыпова Файруза Мунаваровна": 50,
-      "Мугалимов Рамиль Ханифович": 17,
-      "Мусин Денис Мухамедьянович": 26,
-      "Шайхутдинов Рифат Габдулхакович": 291
+      "gas:candidate-vibid:4024042167179": 75,
+      "gas:candidate-vibid:4024042166953": 173,
+      "gas:candidate-vibid:4024042153627": 65,
+      "gas:candidate-vibid:4024042167201": 50,
+      "gas:candidate-vibid:4024042167292": 17,
+      "gas:candidate-vibid:4024042167246": 26,
+      "gas:candidate-vibid:4024042166564": 291
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/bashkortostan?action=show&root=1000009&tvd=20220001684963&vrn=100100067795849&region=3&global=&sub_region=3&prver=0&pronetvd=null&vibid=20220001684963&type=464",
@@ -11779,13 +11779,13 @@ export const duma_2016_uik_463_region_3_part_007 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Анохин Сергей Владимирович": 23,
-      "Галин Ильгам Илюсович": 367,
-      "Иванов Дмитрий Владимирович": 19,
-      "Латыпова Файруза Мунаваровна": 21,
-      "Мугалимов Рамиль Ханифович": 8,
-      "Мусин Денис Мухамедьянович": 19,
-      "Шайхутдинов Рифат Габдулхакович": 542
+      "gas:candidate-vibid:4024042167179": 23,
+      "gas:candidate-vibid:4024042166953": 367,
+      "gas:candidate-vibid:4024042153627": 19,
+      "gas:candidate-vibid:4024042167201": 21,
+      "gas:candidate-vibid:4024042167292": 8,
+      "gas:candidate-vibid:4024042167246": 19,
+      "gas:candidate-vibid:4024042166564": 542
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/bashkortostan?action=show&root=1000009&tvd=20220001684963&vrn=100100067795849&region=3&global=&sub_region=3&prver=0&pronetvd=null&vibid=20220001684963&type=464",
@@ -11836,13 +11836,13 @@ export const duma_2016_uik_463_region_3_part_007 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Анохин Сергей Владимирович": 28,
-      "Галин Ильгам Илюсович": 360,
-      "Иванов Дмитрий Владимирович": 44,
-      "Латыпова Файруза Мунаваровна": 23,
-      "Мугалимов Рамиль Ханифович": 7,
-      "Мусин Денис Мухамедьянович": 20,
-      "Шайхутдинов Рифат Габдулхакович": 419
+      "gas:candidate-vibid:4024042167179": 28,
+      "gas:candidate-vibid:4024042166953": 360,
+      "gas:candidate-vibid:4024042153627": 44,
+      "gas:candidate-vibid:4024042167201": 23,
+      "gas:candidate-vibid:4024042167292": 7,
+      "gas:candidate-vibid:4024042167246": 20,
+      "gas:candidate-vibid:4024042166564": 419
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/bashkortostan?action=show&root=1000009&tvd=20220001684963&vrn=100100067795849&region=3&global=&sub_region=3&prver=0&pronetvd=null&vibid=20220001684963&type=464",
@@ -11893,13 +11893,13 @@ export const duma_2016_uik_463_region_3_part_007 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Анохин Сергей Владимирович": 62,
-      "Галин Ильгам Илюсович": 417,
-      "Иванов Дмитрий Владимирович": 57,
-      "Латыпова Файруза Мунаваровна": 73,
-      "Мугалимов Рамиль Ханифович": 41,
-      "Мусин Денис Мухамедьянович": 42,
-      "Шайхутдинов Рифат Габдулхакович": 350
+      "gas:candidate-vibid:4024042167179": 62,
+      "gas:candidate-vibid:4024042166953": 417,
+      "gas:candidate-vibid:4024042153627": 57,
+      "gas:candidate-vibid:4024042167201": 73,
+      "gas:candidate-vibid:4024042167292": 41,
+      "gas:candidate-vibid:4024042167246": 42,
+      "gas:candidate-vibid:4024042166564": 350
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/bashkortostan?action=show&root=1000009&tvd=20220001684963&vrn=100100067795849&region=3&global=&sub_region=3&prver=0&pronetvd=null&vibid=20220001684963&type=464",
@@ -11950,13 +11950,13 @@ export const duma_2016_uik_463_region_3_part_007 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Анохин Сергей Владимирович": 20,
-      "Галин Ильгам Илюсович": 94,
-      "Иванов Дмитрий Владимирович": 12,
-      "Латыпова Файруза Мунаваровна": 20,
-      "Мугалимов Рамиль Ханифович": 27,
-      "Мусин Денис Мухамедьянович": 13,
-      "Шайхутдинов Рифат Габдулхакович": 254
+      "gas:candidate-vibid:4024042167179": 20,
+      "gas:candidate-vibid:4024042166953": 94,
+      "gas:candidate-vibid:4024042153627": 12,
+      "gas:candidate-vibid:4024042167201": 20,
+      "gas:candidate-vibid:4024042167292": 27,
+      "gas:candidate-vibid:4024042167246": 13,
+      "gas:candidate-vibid:4024042166564": 254
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/bashkortostan?action=show&root=1000009&tvd=20220001684963&vrn=100100067795849&region=3&global=&sub_region=3&prver=0&pronetvd=null&vibid=20220001684963&type=464",
@@ -12007,13 +12007,13 @@ export const duma_2016_uik_463_region_3_part_007 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Анохин Сергей Владимирович": 73,
-      "Галин Ильгам Илюсович": 325,
-      "Иванов Дмитрий Владимирович": 12,
-      "Латыпова Файруза Мунаваровна": 26,
-      "Мугалимов Рамиль Ханифович": 19,
-      "Мусин Денис Мухамедьянович": 17,
-      "Шайхутдинов Рифат Габдулхакович": 690
+      "gas:candidate-vibid:4024042167179": 73,
+      "gas:candidate-vibid:4024042166953": 325,
+      "gas:candidate-vibid:4024042153627": 12,
+      "gas:candidate-vibid:4024042167201": 26,
+      "gas:candidate-vibid:4024042167292": 19,
+      "gas:candidate-vibid:4024042167246": 17,
+      "gas:candidate-vibid:4024042166564": 690
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/bashkortostan?action=show&root=1000009&tvd=20220001684963&vrn=100100067795849&region=3&global=&sub_region=3&prver=0&pronetvd=null&vibid=20220001684963&type=464",
@@ -12064,13 +12064,13 @@ export const duma_2016_uik_463_region_3_part_007 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Анохин Сергей Владимирович": 7,
-      "Галин Ильгам Илюсович": 305,
-      "Иванов Дмитрий Владимирович": 15,
-      "Латыпова Файруза Мунаваровна": 16,
-      "Мугалимов Рамиль Ханифович": 20,
-      "Мусин Денис Мухамедьянович": 32,
-      "Шайхутдинов Рифат Габдулхакович": 792
+      "gas:candidate-vibid:4024042167179": 7,
+      "gas:candidate-vibid:4024042166953": 305,
+      "gas:candidate-vibid:4024042153627": 15,
+      "gas:candidate-vibid:4024042167201": 16,
+      "gas:candidate-vibid:4024042167292": 20,
+      "gas:candidate-vibid:4024042167246": 32,
+      "gas:candidate-vibid:4024042166564": 792
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/bashkortostan?action=show&root=1000009&tvd=20220001684963&vrn=100100067795849&region=3&global=&sub_region=3&prver=0&pronetvd=null&vibid=20220001684963&type=464",
@@ -12121,13 +12121,13 @@ export const duma_2016_uik_463_region_3_part_007 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Анохин Сергей Владимирович": 89,
-      "Галин Ильгам Илюсович": 204,
-      "Иванов Дмитрий Владимирович": 80,
-      "Латыпова Файруза Мунаваровна": 46,
-      "Мугалимов Рамиль Ханифович": 17,
-      "Мусин Денис Мухамедьянович": 17,
-      "Шайхутдинов Рифат Габдулхакович": 750
+      "gas:candidate-vibid:4024042167179": 89,
+      "gas:candidate-vibid:4024042166953": 204,
+      "gas:candidate-vibid:4024042153627": 80,
+      "gas:candidate-vibid:4024042167201": 46,
+      "gas:candidate-vibid:4024042167292": 17,
+      "gas:candidate-vibid:4024042167246": 17,
+      "gas:candidate-vibid:4024042166564": 750
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/bashkortostan?action=show&root=1000009&tvd=20220001684963&vrn=100100067795849&region=3&global=&sub_region=3&prver=0&pronetvd=null&vibid=20220001684963&type=464",
@@ -12178,13 +12178,13 @@ export const duma_2016_uik_463_region_3_part_007 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Анохин Сергей Владимирович": 21,
-      "Галин Ильгам Илюсович": 85,
-      "Иванов Дмитрий Владимирович": 0,
-      "Латыпова Файруза Мунаваровна": 8,
-      "Мугалимов Рамиль Ханифович": 5,
-      "Мусин Денис Мухамедьянович": 1,
-      "Шайхутдинов Рифат Габдулхакович": 272
+      "gas:candidate-vibid:4024042167179": 21,
+      "gas:candidate-vibid:4024042166953": 85,
+      "gas:candidate-vibid:4024042153627": 0,
+      "gas:candidate-vibid:4024042167201": 8,
+      "gas:candidate-vibid:4024042167292": 5,
+      "gas:candidate-vibid:4024042167246": 1,
+      "gas:candidate-vibid:4024042166564": 272
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/bashkortostan?action=show&root=1000009&tvd=20220001684963&vrn=100100067795849&region=3&global=&sub_region=3&prver=0&pronetvd=null&vibid=20220001684963&type=464",
@@ -12235,13 +12235,13 @@ export const duma_2016_uik_463_region_3_part_007 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Анохин Сергей Владимирович": 26,
-      "Галин Ильгам Илюсович": 126,
-      "Иванов Дмитрий Владимирович": 22,
-      "Латыпова Файруза Мунаваровна": 15,
-      "Мугалимов Рамиль Ханифович": 39,
-      "Мусин Денис Мухамедьянович": 13,
-      "Шайхутдинов Рифат Габдулхакович": 346
+      "gas:candidate-vibid:4024042167179": 26,
+      "gas:candidate-vibid:4024042166953": 126,
+      "gas:candidate-vibid:4024042153627": 22,
+      "gas:candidate-vibid:4024042167201": 15,
+      "gas:candidate-vibid:4024042167292": 39,
+      "gas:candidate-vibid:4024042167246": 13,
+      "gas:candidate-vibid:4024042166564": 346
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/bashkortostan?action=show&root=1000009&tvd=20220001684963&vrn=100100067795849&region=3&global=&sub_region=3&prver=0&pronetvd=null&vibid=20220001684963&type=464",
@@ -12292,13 +12292,13 @@ export const duma_2016_uik_463_region_3_part_007 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Анохин Сергей Владимирович": 3,
-      "Галин Ильгам Илюсович": 87,
-      "Иванов Дмитрий Владимирович": 25,
-      "Латыпова Файруза Мунаваровна": 14,
-      "Мугалимов Рамиль Ханифович": 15,
-      "Мусин Денис Мухамедьянович": 12,
-      "Шайхутдинов Рифат Габдулхакович": 236
+      "gas:candidate-vibid:4024042167179": 3,
+      "gas:candidate-vibid:4024042166953": 87,
+      "gas:candidate-vibid:4024042153627": 25,
+      "gas:candidate-vibid:4024042167201": 14,
+      "gas:candidate-vibid:4024042167292": 15,
+      "gas:candidate-vibid:4024042167246": 12,
+      "gas:candidate-vibid:4024042166564": 236
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/bashkortostan?action=show&root=1000009&tvd=20220001684963&vrn=100100067795849&region=3&global=&sub_region=3&prver=0&pronetvd=null&vibid=20220001684963&type=464",
@@ -12349,13 +12349,13 @@ export const duma_2016_uik_463_region_3_part_007 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Анохин Сергей Владимирович": 18,
-      "Галин Ильгам Илюсович": 50,
-      "Иванов Дмитрий Владимирович": 7,
-      "Латыпова Файруза Мунаваровна": 13,
-      "Мугалимов Рамиль Ханифович": 5,
-      "Мусин Денис Мухамедьянович": 1,
-      "Шайхутдинов Рифат Габдулхакович": 138
+      "gas:candidate-vibid:4024042167179": 18,
+      "gas:candidate-vibid:4024042166953": 50,
+      "gas:candidate-vibid:4024042153627": 7,
+      "gas:candidate-vibid:4024042167201": 13,
+      "gas:candidate-vibid:4024042167292": 5,
+      "gas:candidate-vibid:4024042167246": 1,
+      "gas:candidate-vibid:4024042166564": 138
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/bashkortostan?action=show&root=1000009&tvd=20220001684963&vrn=100100067795849&region=3&global=&sub_region=3&prver=0&pronetvd=null&vibid=20220001684963&type=464",
@@ -12406,13 +12406,13 @@ export const duma_2016_uik_463_region_3_part_007 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Анохин Сергей Владимирович": 15,
-      "Галин Ильгам Илюсович": 207,
-      "Иванов Дмитрий Владимирович": 15,
-      "Латыпова Файруза Мунаваровна": 14,
-      "Мугалимов Рамиль Ханифович": 13,
-      "Мусин Денис Мухамедьянович": 7,
-      "Шайхутдинов Рифат Габдулхакович": 239
+      "gas:candidate-vibid:4024042167179": 15,
+      "gas:candidate-vibid:4024042166953": 207,
+      "gas:candidate-vibid:4024042153627": 15,
+      "gas:candidate-vibid:4024042167201": 14,
+      "gas:candidate-vibid:4024042167292": 13,
+      "gas:candidate-vibid:4024042167246": 7,
+      "gas:candidate-vibid:4024042166564": 239
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/bashkortostan?action=show&root=1000009&tvd=20220001684963&vrn=100100067795849&region=3&global=&sub_region=3&prver=0&pronetvd=null&vibid=20220001684963&type=464",
@@ -12463,13 +12463,13 @@ export const duma_2016_uik_463_region_3_part_007 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Анохин Сергей Владимирович": 30,
-      "Галин Ильгам Илюсович": 119,
-      "Иванов Дмитрий Владимирович": 25,
-      "Латыпова Файруза Мунаваровна": 21,
-      "Мугалимов Рамиль Ханифович": 8,
-      "Мусин Денис Мухамедьянович": 9,
-      "Шайхутдинов Рифат Габдулхакович": 177
+      "gas:candidate-vibid:4024042167179": 30,
+      "gas:candidate-vibid:4024042166953": 119,
+      "gas:candidate-vibid:4024042153627": 25,
+      "gas:candidate-vibid:4024042167201": 21,
+      "gas:candidate-vibid:4024042167292": 8,
+      "gas:candidate-vibid:4024042167246": 9,
+      "gas:candidate-vibid:4024042166564": 177
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/bashkortostan?action=show&root=1000009&tvd=20220001684963&vrn=100100067795849&region=3&global=&sub_region=3&prver=0&pronetvd=null&vibid=20220001684963&type=464",
@@ -12520,13 +12520,13 @@ export const duma_2016_uik_463_region_3_part_007 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Анохин Сергей Владимирович": 13,
-      "Галин Ильгам Илюсович": 49,
-      "Иванов Дмитрий Владимирович": 11,
-      "Латыпова Файруза Мунаваровна": 11,
-      "Мугалимов Рамиль Ханифович": 19,
-      "Мусин Денис Мухамедьянович": 7,
-      "Шайхутдинов Рифат Габдулхакович": 180
+      "gas:candidate-vibid:4024042167179": 13,
+      "gas:candidate-vibid:4024042166953": 49,
+      "gas:candidate-vibid:4024042153627": 11,
+      "gas:candidate-vibid:4024042167201": 11,
+      "gas:candidate-vibid:4024042167292": 19,
+      "gas:candidate-vibid:4024042167246": 7,
+      "gas:candidate-vibid:4024042166564": 180
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/bashkortostan?action=show&root=1000009&tvd=20220001684963&vrn=100100067795849&region=3&global=&sub_region=3&prver=0&pronetvd=null&vibid=20220001684963&type=464",
@@ -12577,13 +12577,13 @@ export const duma_2016_uik_463_region_3_part_007 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Анохин Сергей Владимирович": 14,
-      "Галин Ильгам Илюсович": 41,
-      "Иванов Дмитрий Владимирович": 11,
-      "Латыпова Файруза Мунаваровна": 8,
-      "Мугалимов Рамиль Ханифович": 2,
-      "Мусин Денис Мухамедьянович": 2,
-      "Шайхутдинов Рифат Габдулхакович": 172
+      "gas:candidate-vibid:4024042167179": 14,
+      "gas:candidate-vibid:4024042166953": 41,
+      "gas:candidate-vibid:4024042153627": 11,
+      "gas:candidate-vibid:4024042167201": 8,
+      "gas:candidate-vibid:4024042167292": 2,
+      "gas:candidate-vibid:4024042167246": 2,
+      "gas:candidate-vibid:4024042166564": 172
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/bashkortostan?action=show&root=1000009&tvd=20220001684963&vrn=100100067795849&region=3&global=&sub_region=3&prver=0&pronetvd=null&vibid=20220001684963&type=464",
@@ -12634,13 +12634,13 @@ export const duma_2016_uik_463_region_3_part_007 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Анохин Сергей Владимирович": 13,
-      "Галин Ильгам Илюсович": 72,
-      "Иванов Дмитрий Владимирович": 12,
-      "Латыпова Файруза Мунаваровна": 15,
-      "Мугалимов Рамиль Ханифович": 9,
-      "Мусин Денис Мухамедьянович": 3,
-      "Шайхутдинов Рифат Габдулхакович": 126
+      "gas:candidate-vibid:4024042167179": 13,
+      "gas:candidate-vibid:4024042166953": 72,
+      "gas:candidate-vibid:4024042153627": 12,
+      "gas:candidate-vibid:4024042167201": 15,
+      "gas:candidate-vibid:4024042167292": 9,
+      "gas:candidate-vibid:4024042167246": 3,
+      "gas:candidate-vibid:4024042166564": 126
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/bashkortostan?action=show&root=1000009&tvd=20220001684963&vrn=100100067795849&region=3&global=&sub_region=3&prver=0&pronetvd=null&vibid=20220001684963&type=464",
@@ -12691,13 +12691,13 @@ export const duma_2016_uik_463_region_3_part_007 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Анохин Сергей Владимирович": 21,
-      "Галин Ильгам Илюсович": 140,
-      "Иванов Дмитрий Владимирович": 16,
-      "Латыпова Файруза Мунаваровна": 20,
-      "Мугалимов Рамиль Ханифович": 14,
-      "Мусин Денис Мухамедьянович": 11,
-      "Шайхутдинов Рифат Габдулхакович": 219
+      "gas:candidate-vibid:4024042167179": 21,
+      "gas:candidate-vibid:4024042166953": 140,
+      "gas:candidate-vibid:4024042153627": 16,
+      "gas:candidate-vibid:4024042167201": 20,
+      "gas:candidate-vibid:4024042167292": 14,
+      "gas:candidate-vibid:4024042167246": 11,
+      "gas:candidate-vibid:4024042166564": 219
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/bashkortostan?action=show&root=1000009&tvd=20220001684963&vrn=100100067795849&region=3&global=&sub_region=3&prver=0&pronetvd=null&vibid=20220001684963&type=464",
@@ -12748,13 +12748,13 @@ export const duma_2016_uik_463_region_3_part_007 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Анохин Сергей Владимирович": 18,
-      "Галин Ильгам Илюсович": 107,
-      "Иванов Дмитрий Владимирович": 1,
-      "Латыпова Файруза Мунаваровна": 5,
-      "Мугалимов Рамиль Ханифович": 4,
-      "Мусин Денис Мухамедьянович": 3,
-      "Шайхутдинов Рифат Габдулхакович": 112
+      "gas:candidate-vibid:4024042167179": 18,
+      "gas:candidate-vibid:4024042166953": 107,
+      "gas:candidate-vibid:4024042153627": 1,
+      "gas:candidate-vibid:4024042167201": 5,
+      "gas:candidate-vibid:4024042167292": 4,
+      "gas:candidate-vibid:4024042167246": 3,
+      "gas:candidate-vibid:4024042166564": 112
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/bashkortostan?action=show&root=1000009&tvd=20220001684963&vrn=100100067795849&region=3&global=&sub_region=3&prver=0&pronetvd=null&vibid=20220001684963&type=464",
@@ -12805,13 +12805,13 @@ export const duma_2016_uik_463_region_3_part_007 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Анохин Сергей Владимирович": 28,
-      "Галин Ильгам Илюсович": 55,
-      "Иванов Дмитрий Владимирович": 14,
-      "Латыпова Файруза Мунаваровна": 7,
-      "Мугалимов Рамиль Ханифович": 4,
-      "Мусин Денис Мухамедьянович": 5,
-      "Шайхутдинов Рифат Габдулхакович": 78
+      "gas:candidate-vibid:4024042167179": 28,
+      "gas:candidate-vibid:4024042166953": 55,
+      "gas:candidate-vibid:4024042153627": 14,
+      "gas:candidate-vibid:4024042167201": 7,
+      "gas:candidate-vibid:4024042167292": 4,
+      "gas:candidate-vibid:4024042167246": 5,
+      "gas:candidate-vibid:4024042166564": 78
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/bashkortostan?action=show&root=1000009&tvd=20220001684963&vrn=100100067795849&region=3&global=&sub_region=3&prver=0&pronetvd=null&vibid=20220001684963&type=464",
@@ -12862,13 +12862,13 @@ export const duma_2016_uik_463_region_3_part_007 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Анохин Сергей Владимирович": 23,
-      "Галин Ильгам Илюсович": 78,
-      "Иванов Дмитрий Владимирович": 12,
-      "Латыпова Файруза Мунаваровна": 34,
-      "Мугалимов Рамиль Ханифович": 10,
-      "Мусин Денис Мухамедьянович": 9,
-      "Шайхутдинов Рифат Габдулхакович": 226
+      "gas:candidate-vibid:4024042167179": 23,
+      "gas:candidate-vibid:4024042166953": 78,
+      "gas:candidate-vibid:4024042153627": 12,
+      "gas:candidate-vibid:4024042167201": 34,
+      "gas:candidate-vibid:4024042167292": 10,
+      "gas:candidate-vibid:4024042167246": 9,
+      "gas:candidate-vibid:4024042166564": 226
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/bashkortostan?action=show&root=1000009&tvd=20220001684963&vrn=100100067795849&region=3&global=&sub_region=3&prver=0&pronetvd=null&vibid=20220001684963&type=464",
@@ -12919,13 +12919,13 @@ export const duma_2016_uik_463_region_3_part_007 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Анохин Сергей Владимирович": 26,
-      "Галин Ильгам Илюсович": 63,
-      "Иванов Дмитрий Владимирович": 9,
-      "Латыпова Файруза Мунаваровна": 8,
-      "Мугалимов Рамиль Ханифович": 8,
-      "Мусин Денис Мухамедьянович": 7,
-      "Шайхутдинов Рифат Габдулхакович": 324
+      "gas:candidate-vibid:4024042167179": 26,
+      "gas:candidate-vibid:4024042166953": 63,
+      "gas:candidate-vibid:4024042153627": 9,
+      "gas:candidate-vibid:4024042167201": 8,
+      "gas:candidate-vibid:4024042167292": 8,
+      "gas:candidate-vibid:4024042167246": 7,
+      "gas:candidate-vibid:4024042166564": 324
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/bashkortostan?action=show&root=1000009&tvd=20220001684963&vrn=100100067795849&region=3&global=&sub_region=3&prver=0&pronetvd=null&vibid=20220001684963&type=464",
@@ -12976,13 +12976,13 @@ export const duma_2016_uik_463_region_3_part_007 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Анохин Сергей Владимирович": 25,
-      "Галин Ильгам Илюсович": 109,
-      "Иванов Дмитрий Владимирович": 17,
-      "Латыпова Файруза Мунаваровна": 30,
-      "Мугалимов Рамиль Ханифович": 30,
-      "Мусин Денис Мухамедьянович": 3,
-      "Шайхутдинов Рифат Габдулхакович": 253
+      "gas:candidate-vibid:4024042167179": 25,
+      "gas:candidate-vibid:4024042166953": 109,
+      "gas:candidate-vibid:4024042153627": 17,
+      "gas:candidate-vibid:4024042167201": 30,
+      "gas:candidate-vibid:4024042167292": 30,
+      "gas:candidate-vibid:4024042167246": 3,
+      "gas:candidate-vibid:4024042166564": 253
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/bashkortostan?action=show&root=1000009&tvd=20220001684963&vrn=100100067795849&region=3&global=&sub_region=3&prver=0&pronetvd=null&vibid=20220001684963&type=464",
@@ -13033,13 +13033,13 @@ export const duma_2016_uik_463_region_3_part_007 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Анохин Сергей Владимирович": 61,
-      "Галин Ильгам Илюсович": 88,
-      "Иванов Дмитрий Владимирович": 42,
-      "Латыпова Файруза Мунаваровна": 17,
-      "Мугалимов Рамиль Ханифович": 19,
-      "Мусин Денис Мухамедьянович": 10,
-      "Шайхутдинов Рифат Габдулхакович": 201
+      "gas:candidate-vibid:4024042167179": 61,
+      "gas:candidate-vibid:4024042166953": 88,
+      "gas:candidate-vibid:4024042153627": 42,
+      "gas:candidate-vibid:4024042167201": 17,
+      "gas:candidate-vibid:4024042167292": 19,
+      "gas:candidate-vibid:4024042167246": 10,
+      "gas:candidate-vibid:4024042166564": 201
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/bashkortostan?action=show&root=1000009&tvd=20220001684963&vrn=100100067795849&region=3&global=&sub_region=3&prver=0&pronetvd=null&vibid=20220001684963&type=464",
@@ -13090,13 +13090,13 @@ export const duma_2016_uik_463_region_3_part_007 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Анохин Сергей Владимирович": 21,
-      "Галин Ильгам Илюсович": 106,
-      "Иванов Дмитрий Владимирович": 6,
-      "Латыпова Файруза Мунаваровна": 6,
-      "Мугалимов Рамиль Ханифович": 5,
-      "Мусин Денис Мухамедьянович": 17,
-      "Шайхутдинов Рифат Габдулхакович": 310
+      "gas:candidate-vibid:4024042167179": 21,
+      "gas:candidate-vibid:4024042166953": 106,
+      "gas:candidate-vibid:4024042153627": 6,
+      "gas:candidate-vibid:4024042167201": 6,
+      "gas:candidate-vibid:4024042167292": 5,
+      "gas:candidate-vibid:4024042167246": 17,
+      "gas:candidate-vibid:4024042166564": 310
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/bashkortostan?action=show&root=1000009&tvd=20220001684963&vrn=100100067795849&region=3&global=&sub_region=3&prver=0&pronetvd=null&vibid=20220001684963&type=464",
@@ -13147,13 +13147,13 @@ export const duma_2016_uik_463_region_3_part_007 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Анохин Сергей Владимирович": 6,
-      "Галин Ильгам Илюсович": 66,
-      "Иванов Дмитрий Владимирович": 6,
-      "Латыпова Файруза Мунаваровна": 14,
-      "Мугалимов Рамиль Ханифович": 13,
-      "Мусин Денис Мухамедьянович": 11,
-      "Шайхутдинов Рифат Габдулхакович": 123
+      "gas:candidate-vibid:4024042167179": 6,
+      "gas:candidate-vibid:4024042166953": 66,
+      "gas:candidate-vibid:4024042153627": 6,
+      "gas:candidate-vibid:4024042167201": 14,
+      "gas:candidate-vibid:4024042167292": 13,
+      "gas:candidate-vibid:4024042167246": 11,
+      "gas:candidate-vibid:4024042166564": 123
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/bashkortostan?action=show&root=1000009&tvd=20220001684963&vrn=100100067795849&region=3&global=&sub_region=3&prver=0&pronetvd=null&vibid=20220001684963&type=464",
@@ -13204,13 +13204,13 @@ export const duma_2016_uik_463_region_3_part_007 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Анохин Сергей Владимирович": 54,
-      "Галин Ильгам Илюсович": 189,
-      "Иванов Дмитрий Владимирович": 24,
-      "Латыпова Файруза Мунаваровна": 17,
-      "Мугалимов Рамиль Ханифович": 9,
-      "Мусин Денис Мухамедьянович": 9,
-      "Шайхутдинов Рифат Габдулхакович": 267
+      "gas:candidate-vibid:4024042167179": 54,
+      "gas:candidate-vibid:4024042166953": 189,
+      "gas:candidate-vibid:4024042153627": 24,
+      "gas:candidate-vibid:4024042167201": 17,
+      "gas:candidate-vibid:4024042167292": 9,
+      "gas:candidate-vibid:4024042167246": 9,
+      "gas:candidate-vibid:4024042166564": 267
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/bashkortostan?action=show&root=1000009&tvd=20220001684963&vrn=100100067795849&region=3&global=&sub_region=3&prver=0&pronetvd=null&vibid=20220001684963&type=464",
@@ -13261,13 +13261,13 @@ export const duma_2016_uik_463_region_3_part_007 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Анохин Сергей Владимирович": 84,
-      "Галин Ильгам Илюсович": 66,
-      "Иванов Дмитрий Владимирович": 47,
-      "Латыпова Файруза Мунаваровна": 11,
-      "Мугалимов Рамиль Ханифович": 11,
-      "Мусин Денис Мухамедьянович": 5,
-      "Шайхутдинов Рифат Габдулхакович": 8
+      "gas:candidate-vibid:4024042167179": 84,
+      "gas:candidate-vibid:4024042166953": 66,
+      "gas:candidate-vibid:4024042153627": 47,
+      "gas:candidate-vibid:4024042167201": 11,
+      "gas:candidate-vibid:4024042167292": 11,
+      "gas:candidate-vibid:4024042167246": 5,
+      "gas:candidate-vibid:4024042166564": 8
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/bashkortostan?action=show&root=1000009&tvd=20220001684963&vrn=100100067795849&region=3&global=&sub_region=3&prver=0&pronetvd=null&vibid=20220001684963&type=464",
@@ -13318,13 +13318,13 @@ export const duma_2016_uik_463_region_3_part_007 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Анохин Сергей Владимирович": 7,
-      "Галин Ильгам Илюсович": 123,
-      "Иванов Дмитрий Владимирович": 24,
-      "Латыпова Файруза Мунаваровна": 29,
-      "Мугалимов Рамиль Ханифович": 22,
-      "Мусин Денис Мухамедьянович": 5,
-      "Шайхутдинов Рифат Габдулхакович": 254
+      "gas:candidate-vibid:4024042167179": 7,
+      "gas:candidate-vibid:4024042166953": 123,
+      "gas:candidate-vibid:4024042153627": 24,
+      "gas:candidate-vibid:4024042167201": 29,
+      "gas:candidate-vibid:4024042167292": 22,
+      "gas:candidate-vibid:4024042167246": 5,
+      "gas:candidate-vibid:4024042166564": 254
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/bashkortostan?action=show&root=1000009&tvd=20220001684963&vrn=100100067795849&region=3&global=&sub_region=3&prver=0&pronetvd=null&vibid=20220001684963&type=464",
@@ -13375,13 +13375,13 @@ export const duma_2016_uik_463_region_3_part_007 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Анохин Сергей Владимирович": 2,
-      "Галин Ильгам Илюсович": 69,
-      "Иванов Дмитрий Владимирович": 12,
-      "Латыпова Файруза Мунаваровна": 6,
-      "Мугалимов Рамиль Ханифович": 15,
-      "Мусин Денис Мухамедьянович": 7,
-      "Шайхутдинов Рифат Габдулхакович": 179
+      "gas:candidate-vibid:4024042167179": 2,
+      "gas:candidate-vibid:4024042166953": 69,
+      "gas:candidate-vibid:4024042153627": 12,
+      "gas:candidate-vibid:4024042167201": 6,
+      "gas:candidate-vibid:4024042167292": 15,
+      "gas:candidate-vibid:4024042167246": 7,
+      "gas:candidate-vibid:4024042166564": 179
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/bashkortostan?action=show&root=1000009&tvd=20220001684963&vrn=100100067795849&region=3&global=&sub_region=3&prver=0&pronetvd=null&vibid=20220001684963&type=464",
@@ -13432,13 +13432,13 @@ export const duma_2016_uik_463_region_3_part_007 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Анохин Сергей Владимирович": 9,
-      "Галин Ильгам Илюсович": 44,
-      "Иванов Дмитрий Владимирович": 16,
-      "Латыпова Файруза Мунаваровна": 13,
-      "Мугалимов Рамиль Ханифович": 6,
-      "Мусин Денис Мухамедьянович": 5,
-      "Шайхутдинов Рифат Габдулхакович": 205
+      "gas:candidate-vibid:4024042167179": 9,
+      "gas:candidate-vibid:4024042166953": 44,
+      "gas:candidate-vibid:4024042153627": 16,
+      "gas:candidate-vibid:4024042167201": 13,
+      "gas:candidate-vibid:4024042167292": 6,
+      "gas:candidate-vibid:4024042167246": 5,
+      "gas:candidate-vibid:4024042166564": 205
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/bashkortostan?action=show&root=1000009&tvd=20220001684963&vrn=100100067795849&region=3&global=&sub_region=3&prver=0&pronetvd=null&vibid=20220001684963&type=464",
@@ -13489,13 +13489,13 @@ export const duma_2016_uik_463_region_3_part_007 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Анохин Сергей Владимирович": 18,
-      "Галин Ильгам Илюсович": 42,
-      "Иванов Дмитрий Владимирович": 9,
-      "Латыпова Файруза Мунаваровна": 14,
-      "Мугалимов Рамиль Ханифович": 6,
-      "Мусин Денис Мухамедьянович": 1,
-      "Шайхутдинов Рифат Габдулхакович": 105
+      "gas:candidate-vibid:4024042167179": 18,
+      "gas:candidate-vibid:4024042166953": 42,
+      "gas:candidate-vibid:4024042153627": 9,
+      "gas:candidate-vibid:4024042167201": 14,
+      "gas:candidate-vibid:4024042167292": 6,
+      "gas:candidate-vibid:4024042167246": 1,
+      "gas:candidate-vibid:4024042166564": 105
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/bashkortostan?action=show&root=1000009&tvd=20220001684963&vrn=100100067795849&region=3&global=&sub_region=3&prver=0&pronetvd=null&vibid=20220001684963&type=464",
@@ -13546,13 +13546,13 @@ export const duma_2016_uik_463_region_3_part_007 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Анохин Сергей Владимирович": 29,
-      "Галин Ильгам Илюсович": 130,
-      "Иванов Дмитрий Владимирович": 20,
-      "Латыпова Файруза Мунаваровна": 23,
-      "Мугалимов Рамиль Ханифович": 21,
-      "Мусин Денис Мухамедьянович": 8,
-      "Шайхутдинов Рифат Габдулхакович": 344
+      "gas:candidate-vibid:4024042167179": 29,
+      "gas:candidate-vibid:4024042166953": 130,
+      "gas:candidate-vibid:4024042153627": 20,
+      "gas:candidate-vibid:4024042167201": 23,
+      "gas:candidate-vibid:4024042167292": 21,
+      "gas:candidate-vibid:4024042167246": 8,
+      "gas:candidate-vibid:4024042166564": 344
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/bashkortostan?action=show&root=1000009&tvd=20220001684963&vrn=100100067795849&region=3&global=&sub_region=3&prver=0&pronetvd=null&vibid=20220001684963&type=464",
@@ -13603,13 +13603,13 @@ export const duma_2016_uik_463_region_3_part_007 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Анохин Сергей Владимирович": 11,
-      "Галин Ильгам Илюсович": 204,
-      "Иванов Дмитрий Владимирович": 2,
-      "Латыпова Файруза Мунаваровна": 5,
-      "Мугалимов Рамиль Ханифович": 4,
-      "Мусин Денис Мухамедьянович": 3,
-      "Шайхутдинов Рифат Габдулхакович": 272
+      "gas:candidate-vibid:4024042167179": 11,
+      "gas:candidate-vibid:4024042166953": 204,
+      "gas:candidate-vibid:4024042153627": 2,
+      "gas:candidate-vibid:4024042167201": 5,
+      "gas:candidate-vibid:4024042167292": 4,
+      "gas:candidate-vibid:4024042167246": 3,
+      "gas:candidate-vibid:4024042166564": 272
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/bashkortostan?action=show&root=1000009&tvd=20220001684963&vrn=100100067795849&region=3&global=&sub_region=3&prver=0&pronetvd=null&vibid=20220001684963&type=464",
@@ -13660,13 +13660,13 @@ export const duma_2016_uik_463_region_3_part_007 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Анохин Сергей Владимирович": 9,
-      "Галин Ильгам Илюсович": 396,
-      "Иванов Дмитрий Владимирович": 13,
-      "Латыпова Файруза Мунаваровна": 8,
-      "Мугалимов Рамиль Ханифович": 11,
-      "Мусин Денис Мухамедьянович": 12,
-      "Шайхутдинов Рифат Габдулхакович": 503
+      "gas:candidate-vibid:4024042167179": 9,
+      "gas:candidate-vibid:4024042166953": 396,
+      "gas:candidate-vibid:4024042153627": 13,
+      "gas:candidate-vibid:4024042167201": 8,
+      "gas:candidate-vibid:4024042167292": 11,
+      "gas:candidate-vibid:4024042167246": 12,
+      "gas:candidate-vibid:4024042166564": 503
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/bashkortostan?action=show&root=1000009&tvd=20220001684963&vrn=100100067795849&region=3&global=&sub_region=3&prver=0&pronetvd=null&vibid=20220001684963&type=464",
@@ -13717,13 +13717,13 @@ export const duma_2016_uik_463_region_3_part_007 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Анохин Сергей Владимирович": 21,
-      "Галин Ильгам Илюсович": 202,
-      "Иванов Дмитрий Владимирович": 7,
-      "Латыпова Файруза Мунаваровна": 16,
-      "Мугалимов Рамиль Ханифович": 5,
-      "Мусин Денис Мухамедьянович": 7,
-      "Шайхутдинов Рифат Габдулхакович": 208
+      "gas:candidate-vibid:4024042167179": 21,
+      "gas:candidate-vibid:4024042166953": 202,
+      "gas:candidate-vibid:4024042153627": 7,
+      "gas:candidate-vibid:4024042167201": 16,
+      "gas:candidate-vibid:4024042167292": 5,
+      "gas:candidate-vibid:4024042167246": 7,
+      "gas:candidate-vibid:4024042166564": 208
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/bashkortostan?action=show&root=1000009&tvd=20220001684963&vrn=100100067795849&region=3&global=&sub_region=3&prver=0&pronetvd=null&vibid=20220001684963&type=464",
@@ -13774,13 +13774,13 @@ export const duma_2016_uik_463_region_3_part_007 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Анохин Сергей Владимирович": 2,
-      "Галин Ильгам Илюсович": 122,
-      "Иванов Дмитрий Владимирович": 3,
-      "Латыпова Файруза Мунаваровна": 8,
-      "Мугалимов Рамиль Ханифович": 10,
-      "Мусин Денис Мухамедьянович": 12,
-      "Шайхутдинов Рифат Габдулхакович": 178
+      "gas:candidate-vibid:4024042167179": 2,
+      "gas:candidate-vibid:4024042166953": 122,
+      "gas:candidate-vibid:4024042153627": 3,
+      "gas:candidate-vibid:4024042167201": 8,
+      "gas:candidate-vibid:4024042167292": 10,
+      "gas:candidate-vibid:4024042167246": 12,
+      "gas:candidate-vibid:4024042166564": 178
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/bashkortostan?action=show&root=1000009&tvd=20220001684964&vrn=100100067795849&region=3&global=&sub_region=3&prver=0&pronetvd=null&vibid=20220001684964&type=464",
@@ -13831,13 +13831,13 @@ export const duma_2016_uik_463_region_3_part_007 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Анохин Сергей Владимирович": 10,
-      "Галин Ильгам Илюсович": 31,
-      "Иванов Дмитрий Владимирович": 12,
-      "Латыпова Файруза Мунаваровна": 16,
-      "Мугалимов Рамиль Ханифович": 3,
-      "Мусин Денис Мухамедьянович": 6,
-      "Шайхутдинов Рифат Габдулхакович": 173
+      "gas:candidate-vibid:4024042167179": 10,
+      "gas:candidate-vibid:4024042166953": 31,
+      "gas:candidate-vibid:4024042153627": 12,
+      "gas:candidate-vibid:4024042167201": 16,
+      "gas:candidate-vibid:4024042167292": 3,
+      "gas:candidate-vibid:4024042167246": 6,
+      "gas:candidate-vibid:4024042166564": 173
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/bashkortostan?action=show&root=1000009&tvd=20220001684964&vrn=100100067795849&region=3&global=&sub_region=3&prver=0&pronetvd=null&vibid=20220001684964&type=464",
@@ -13888,13 +13888,13 @@ export const duma_2016_uik_463_region_3_part_007 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Анохин Сергей Владимирович": 18,
-      "Галин Ильгам Илюсович": 39,
-      "Иванов Дмитрий Владимирович": 9,
-      "Латыпова Файруза Мунаваровна": 0,
-      "Мугалимов Рамиль Ханифович": 0,
-      "Мусин Денис Мухамедьянович": 1,
-      "Шайхутдинов Рифат Габдулхакович": 92
+      "gas:candidate-vibid:4024042167179": 18,
+      "gas:candidate-vibid:4024042166953": 39,
+      "gas:candidate-vibid:4024042153627": 9,
+      "gas:candidate-vibid:4024042167201": 0,
+      "gas:candidate-vibid:4024042167292": 0,
+      "gas:candidate-vibid:4024042167246": 1,
+      "gas:candidate-vibid:4024042166564": 92
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/bashkortostan?action=show&root=1000009&tvd=20220001684964&vrn=100100067795849&region=3&global=&sub_region=3&prver=0&pronetvd=null&vibid=20220001684964&type=464",
@@ -13945,13 +13945,13 @@ export const duma_2016_uik_463_region_3_part_007 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Анохин Сергей Владимирович": 18,
-      "Галин Ильгам Илюсович": 62,
-      "Иванов Дмитрий Владимирович": 10,
-      "Латыпова Файруза Мунаваровна": 5,
-      "Мугалимов Рамиль Ханифович": 2,
-      "Мусин Денис Мухамедьянович": 4,
-      "Шайхутдинов Рифат Габдулхакович": 216
+      "gas:candidate-vibid:4024042167179": 18,
+      "gas:candidate-vibid:4024042166953": 62,
+      "gas:candidate-vibid:4024042153627": 10,
+      "gas:candidate-vibid:4024042167201": 5,
+      "gas:candidate-vibid:4024042167292": 2,
+      "gas:candidate-vibid:4024042167246": 4,
+      "gas:candidate-vibid:4024042166564": 216
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/bashkortostan?action=show&root=1000009&tvd=20220001684964&vrn=100100067795849&region=3&global=&sub_region=3&prver=0&pronetvd=null&vibid=20220001684964&type=464",
@@ -14002,13 +14002,13 @@ export const duma_2016_uik_463_region_3_part_007 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Анохин Сергей Владимирович": 12,
-      "Галин Ильгам Илюсович": 10,
-      "Иванов Дмитрий Владимирович": 3,
-      "Латыпова Файруза Мунаваровна": 2,
-      "Мугалимов Рамиль Ханифович": 1,
-      "Мусин Денис Мухамедьянович": 1,
-      "Шайхутдинов Рифат Габдулхакович": 103
+      "gas:candidate-vibid:4024042167179": 12,
+      "gas:candidate-vibid:4024042166953": 10,
+      "gas:candidate-vibid:4024042153627": 3,
+      "gas:candidate-vibid:4024042167201": 2,
+      "gas:candidate-vibid:4024042167292": 1,
+      "gas:candidate-vibid:4024042167246": 1,
+      "gas:candidate-vibid:4024042166564": 103
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/bashkortostan?action=show&root=1000009&tvd=20220001684964&vrn=100100067795849&region=3&global=&sub_region=3&prver=0&pronetvd=null&vibid=20220001684964&type=464",
@@ -14059,13 +14059,13 @@ export const duma_2016_uik_463_region_3_part_007 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Анохин Сергей Владимирович": 20,
-      "Галин Ильгам Илюсович": 141,
-      "Иванов Дмитрий Владимирович": 18,
-      "Латыпова Файруза Мунаваровна": 10,
-      "Мугалимов Рамиль Ханифович": 2,
-      "Мусин Денис Мухамедьянович": 10,
-      "Шайхутдинов Рифат Габдулхакович": 266
+      "gas:candidate-vibid:4024042167179": 20,
+      "gas:candidate-vibid:4024042166953": 141,
+      "gas:candidate-vibid:4024042153627": 18,
+      "gas:candidate-vibid:4024042167201": 10,
+      "gas:candidate-vibid:4024042167292": 2,
+      "gas:candidate-vibid:4024042167246": 10,
+      "gas:candidate-vibid:4024042166564": 266
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/bashkortostan?action=show&root=1000009&tvd=20220001684964&vrn=100100067795849&region=3&global=&sub_region=3&prver=0&pronetvd=null&vibid=20220001684964&type=464",
@@ -14116,13 +14116,13 @@ export const duma_2016_uik_463_region_3_part_007 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Анохин Сергей Владимирович": 20,
-      "Галин Ильгам Илюсович": 111,
-      "Иванов Дмитрий Владимирович": 15,
-      "Латыпова Файруза Мунаваровна": 2,
-      "Мугалимов Рамиль Ханифович": 2,
-      "Мусин Денис Мухамедьянович": 16,
-      "Шайхутдинов Рифат Габдулхакович": 274
+      "gas:candidate-vibid:4024042167179": 20,
+      "gas:candidate-vibid:4024042166953": 111,
+      "gas:candidate-vibid:4024042153627": 15,
+      "gas:candidate-vibid:4024042167201": 2,
+      "gas:candidate-vibid:4024042167292": 2,
+      "gas:candidate-vibid:4024042167246": 16,
+      "gas:candidate-vibid:4024042166564": 274
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/bashkortostan?action=show&root=1000009&tvd=20220001684964&vrn=100100067795849&region=3&global=&sub_region=3&prver=0&pronetvd=null&vibid=20220001684964&type=464",
@@ -14173,13 +14173,13 @@ export const duma_2016_uik_463_region_3_part_007 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Анохин Сергей Владимирович": 28,
-      "Галин Ильгам Илюсович": 58,
-      "Иванов Дмитрий Владимирович": 17,
-      "Латыпова Файруза Мунаваровна": 62,
-      "Мугалимов Рамиль Ханифович": 8,
-      "Мусин Денис Мухамедьянович": 23,
-      "Шайхутдинов Рифат Габдулхакович": 223
+      "gas:candidate-vibid:4024042167179": 28,
+      "gas:candidate-vibid:4024042166953": 58,
+      "gas:candidate-vibid:4024042153627": 17,
+      "gas:candidate-vibid:4024042167201": 62,
+      "gas:candidate-vibid:4024042167292": 8,
+      "gas:candidate-vibid:4024042167246": 23,
+      "gas:candidate-vibid:4024042166564": 223
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/bashkortostan?action=show&root=1000009&tvd=20220001684964&vrn=100100067795849&region=3&global=&sub_region=3&prver=0&pronetvd=null&vibid=20220001684964&type=464",
@@ -14230,13 +14230,13 @@ export const duma_2016_uik_463_region_3_part_007 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Анохин Сергей Владимирович": 20,
-      "Галин Ильгам Илюсович": 38,
-      "Иванов Дмитрий Владимирович": 15,
-      "Латыпова Файруза Мунаваровна": 13,
-      "Мугалимов Рамиль Ханифович": 3,
-      "Мусин Денис Мухамедьянович": 13,
-      "Шайхутдинов Рифат Габдулхакович": 91
+      "gas:candidate-vibid:4024042167179": 20,
+      "gas:candidate-vibid:4024042166953": 38,
+      "gas:candidate-vibid:4024042153627": 15,
+      "gas:candidate-vibid:4024042167201": 13,
+      "gas:candidate-vibid:4024042167292": 3,
+      "gas:candidate-vibid:4024042167246": 13,
+      "gas:candidate-vibid:4024042166564": 91
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/bashkortostan?action=show&root=1000009&tvd=20220001684964&vrn=100100067795849&region=3&global=&sub_region=3&prver=0&pronetvd=null&vibid=20220001684964&type=464",
@@ -14287,13 +14287,13 @@ export const duma_2016_uik_463_region_3_part_007 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Анохин Сергей Владимирович": 26,
-      "Галин Ильгам Илюсович": 68,
-      "Иванов Дмитрий Владимирович": 35,
-      "Латыпова Файруза Мунаваровна": 4,
-      "Мугалимов Рамиль Ханифович": 5,
-      "Мусин Денис Мухамедьянович": 10,
-      "Шайхутдинов Рифат Габдулхакович": 202
+      "gas:candidate-vibid:4024042167179": 26,
+      "gas:candidate-vibid:4024042166953": 68,
+      "gas:candidate-vibid:4024042153627": 35,
+      "gas:candidate-vibid:4024042167201": 4,
+      "gas:candidate-vibid:4024042167292": 5,
+      "gas:candidate-vibid:4024042167246": 10,
+      "gas:candidate-vibid:4024042166564": 202
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/bashkortostan?action=show&root=1000009&tvd=20220001684964&vrn=100100067795849&region=3&global=&sub_region=3&prver=0&pronetvd=null&vibid=20220001684964&type=464",
@@ -14344,13 +14344,13 @@ export const duma_2016_uik_463_region_3_part_007 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Анохин Сергей Владимирович": 16,
-      "Галин Ильгам Илюсович": 48,
-      "Иванов Дмитрий Владимирович": 12,
-      "Латыпова Файруза Мунаваровна": 15,
-      "Мугалимов Рамиль Ханифович": 1,
-      "Мусин Денис Мухамедьянович": 3,
-      "Шайхутдинов Рифат Габдулхакович": 163
+      "gas:candidate-vibid:4024042167179": 16,
+      "gas:candidate-vibid:4024042166953": 48,
+      "gas:candidate-vibid:4024042153627": 12,
+      "gas:candidate-vibid:4024042167201": 15,
+      "gas:candidate-vibid:4024042167292": 1,
+      "gas:candidate-vibid:4024042167246": 3,
+      "gas:candidate-vibid:4024042166564": 163
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/bashkortostan?action=show&root=1000009&tvd=20220001684964&vrn=100100067795849&region=3&global=&sub_region=3&prver=0&pronetvd=null&vibid=20220001684964&type=464",

@@ -42,16 +42,16 @@ export const duma_2003_uik_428_region_3_part_009 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Богданова Дарья Максимовна": 12,
-      "Генералов Михаил Афанасьевич": 2,
-      "Джалилов Рафаиль Алиевич": 7,
-      "Диков Павел Михайлович": 7,
-      "Зарифьянов Рафис Раисович": 11,
-      "Ишбульдин Ирек Хайрутдинович": 6,
-      "Квят Вячеслав Яковлевич": 19,
-      "Сексяева Вера Кирилловна": 24,
-      "Фурман Александр Борисович": 176,
-      "Против всех": 9
+      "gas:candidate-vibid:1001000194996": 12,
+      "gas:candidate-vibid:302300467057": 2,
+      "gas:candidate-vibid:302300466831": 7,
+      "gas:candidate-vibid:1001000187981": 7,
+      "gas:candidate-vibid:1001000135992": 11,
+      "gas:candidate-vibid:302300466837": 6,
+      "gas:candidate-vibid:302300467045": 19,
+      "gas:candidate-vibid:1001000121786": 24,
+      "gas:candidate-vibid:1001000225869": 176,
+      "special:against-all": 9
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=22000043&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=202200066858&region=0&sub_region=0&type=429",
@@ -101,16 +101,16 @@ export const duma_2003_uik_428_region_3_part_009 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Богданова Дарья Максимовна": 6,
-      "Генералов Михаил Афанасьевич": 3,
-      "Джалилов Рафаиль Алиевич": 0,
-      "Диков Павел Михайлович": 1,
-      "Зарифьянов Рафис Раисович": 6,
-      "Ишбульдин Ирек Хайрутдинович": 1,
-      "Квят Вячеслав Яковлевич": 13,
-      "Сексяева Вера Кирилловна": 12,
-      "Фурман Александр Борисович": 231,
-      "Против всех": 6
+      "gas:candidate-vibid:1001000194996": 6,
+      "gas:candidate-vibid:302300467057": 3,
+      "gas:candidate-vibid:302300466831": 0,
+      "gas:candidate-vibid:1001000187981": 1,
+      "gas:candidate-vibid:1001000135992": 6,
+      "gas:candidate-vibid:302300466837": 1,
+      "gas:candidate-vibid:302300467045": 13,
+      "gas:candidate-vibid:1001000121786": 12,
+      "gas:candidate-vibid:1001000225869": 231,
+      "special:against-all": 6
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=22000043&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=202200066858&region=0&sub_region=0&type=429",
@@ -160,16 +160,16 @@ export const duma_2003_uik_428_region_3_part_009 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Богданова Дарья Максимовна": 9,
-      "Генералов Михаил Афанасьевич": 6,
-      "Джалилов Рафаиль Алиевич": 26,
-      "Диков Павел Михайлович": 2,
-      "Зарифьянов Рафис Раисович": 12,
-      "Ишбульдин Ирек Хайрутдинович": 18,
-      "Квят Вячеслав Яковлевич": 18,
-      "Сексяева Вера Кирилловна": 11,
-      "Фурман Александр Борисович": 452,
-      "Против всех": 9
+      "gas:candidate-vibid:1001000194996": 9,
+      "gas:candidate-vibid:302300467057": 6,
+      "gas:candidate-vibid:302300466831": 26,
+      "gas:candidate-vibid:1001000187981": 2,
+      "gas:candidate-vibid:1001000135992": 12,
+      "gas:candidate-vibid:302300466837": 18,
+      "gas:candidate-vibid:302300467045": 18,
+      "gas:candidate-vibid:1001000121786": 11,
+      "gas:candidate-vibid:1001000225869": 452,
+      "special:against-all": 9
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=22000043&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=202200066858&region=0&sub_region=0&type=429",
@@ -219,16 +219,16 @@ export const duma_2003_uik_428_region_3_part_009 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Богданова Дарья Максимовна": 23,
-      "Генералов Михаил Афанасьевич": 8,
-      "Джалилов Рафаиль Алиевич": 4,
-      "Диков Павел Михайлович": 8,
-      "Зарифьянов Рафис Раисович": 6,
-      "Ишбульдин Ирек Хайрутдинович": 11,
-      "Квят Вячеслав Яковлевич": 15,
-      "Сексяева Вера Кирилловна": 32,
-      "Фурман Александр Борисович": 199,
-      "Против всех": 16
+      "gas:candidate-vibid:1001000194996": 23,
+      "gas:candidate-vibid:302300467057": 8,
+      "gas:candidate-vibid:302300466831": 4,
+      "gas:candidate-vibid:1001000187981": 8,
+      "gas:candidate-vibid:1001000135992": 6,
+      "gas:candidate-vibid:302300466837": 11,
+      "gas:candidate-vibid:302300467045": 15,
+      "gas:candidate-vibid:1001000121786": 32,
+      "gas:candidate-vibid:1001000225869": 199,
+      "special:against-all": 16
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=22000043&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=202200066858&region=0&sub_region=0&type=429",
@@ -278,16 +278,16 @@ export const duma_2003_uik_428_region_3_part_009 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Богданова Дарья Максимовна": 4,
-      "Генералов Михаил Афанасьевич": 0,
-      "Джалилов Рафаиль Алиевич": 8,
-      "Диков Павел Михайлович": 1,
-      "Зарифьянов Рафис Раисович": 12,
-      "Ишбульдин Ирек Хайрутдинович": 7,
-      "Квят Вячеслав Яковлевич": 48,
-      "Сексяева Вера Кирилловна": 6,
-      "Фурман Александр Борисович": 62,
-      "Против всех": 6
+      "gas:candidate-vibid:1001000194996": 4,
+      "gas:candidate-vibid:302300467057": 0,
+      "gas:candidate-vibid:302300466831": 8,
+      "gas:candidate-vibid:1001000187981": 1,
+      "gas:candidate-vibid:1001000135992": 12,
+      "gas:candidate-vibid:302300466837": 7,
+      "gas:candidate-vibid:302300467045": 48,
+      "gas:candidate-vibid:1001000121786": 6,
+      "gas:candidate-vibid:1001000225869": 62,
+      "special:against-all": 6
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=22000043&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=202200066858&region=0&sub_region=0&type=429",
@@ -337,16 +337,16 @@ export const duma_2003_uik_428_region_3_part_009 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Богданова Дарья Максимовна": 7,
-      "Генералов Михаил Афанасьевич": 2,
-      "Джалилов Рафаиль Алиевич": 12,
-      "Диков Павел Михайлович": 7,
-      "Зарифьянов Рафис Раисович": 11,
-      "Ишбульдин Ирек Хайрутдинович": 17,
-      "Квят Вячеслав Яковлевич": 25,
-      "Сексяева Вера Кирилловна": 8,
-      "Фурман Александр Борисович": 177,
-      "Против всех": 7
+      "gas:candidate-vibid:1001000194996": 7,
+      "gas:candidate-vibid:302300467057": 2,
+      "gas:candidate-vibid:302300466831": 12,
+      "gas:candidate-vibid:1001000187981": 7,
+      "gas:candidate-vibid:1001000135992": 11,
+      "gas:candidate-vibid:302300466837": 17,
+      "gas:candidate-vibid:302300467045": 25,
+      "gas:candidate-vibid:1001000121786": 8,
+      "gas:candidate-vibid:1001000225869": 177,
+      "special:against-all": 7
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=22000043&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=202200066858&region=0&sub_region=0&type=429",
@@ -396,16 +396,16 @@ export const duma_2003_uik_428_region_3_part_009 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Богданова Дарья Максимовна": 0,
-      "Генералов Михаил Афанасьевич": 0,
-      "Джалилов Рафаиль Алиевич": 8,
-      "Диков Павел Михайлович": 2,
-      "Зарифьянов Рафис Раисович": 2,
-      "Ишбульдин Ирек Хайрутдинович": 9,
-      "Квят Вячеслав Яковлевич": 3,
-      "Сексяева Вера Кирилловна": 3,
-      "Фурман Александр Борисович": 225,
-      "Против всех": 7
+      "gas:candidate-vibid:1001000194996": 0,
+      "gas:candidate-vibid:302300467057": 0,
+      "gas:candidate-vibid:302300466831": 8,
+      "gas:candidate-vibid:1001000187981": 2,
+      "gas:candidate-vibid:1001000135992": 2,
+      "gas:candidate-vibid:302300466837": 9,
+      "gas:candidate-vibid:302300467045": 3,
+      "gas:candidate-vibid:1001000121786": 3,
+      "gas:candidate-vibid:1001000225869": 225,
+      "special:against-all": 7
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=22000043&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=202200066858&region=0&sub_region=0&type=429",
@@ -455,16 +455,16 @@ export const duma_2003_uik_428_region_3_part_009 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Богданова Дарья Максимовна": 1,
-      "Генералов Михаил Афанасьевич": 1,
-      "Джалилов Рафаиль Алиевич": 1,
-      "Диков Павел Михайлович": 1,
-      "Зарифьянов Рафис Раисович": 3,
-      "Ишбульдин Ирек Хайрутдинович": 0,
-      "Квят Вячеслав Яковлевич": 1,
-      "Сексяева Вера Кирилловна": 6,
-      "Фурман Александр Борисович": 95,
-      "Против всех": 1
+      "gas:candidate-vibid:1001000194996": 1,
+      "gas:candidate-vibid:302300467057": 1,
+      "gas:candidate-vibid:302300466831": 1,
+      "gas:candidate-vibid:1001000187981": 1,
+      "gas:candidate-vibid:1001000135992": 3,
+      "gas:candidate-vibid:302300466837": 0,
+      "gas:candidate-vibid:302300467045": 1,
+      "gas:candidate-vibid:1001000121786": 6,
+      "gas:candidate-vibid:1001000225869": 95,
+      "special:against-all": 1
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=22000043&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=202200066858&region=0&sub_region=0&type=429",
@@ -514,16 +514,16 @@ export const duma_2003_uik_428_region_3_part_009 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Богданова Дарья Максимовна": 3,
-      "Генералов Михаил Афанасьевич": 5,
-      "Джалилов Рафаиль Алиевич": 5,
-      "Диков Павел Михайлович": 3,
-      "Зарифьянов Рафис Раисович": 6,
-      "Ишбульдин Ирек Хайрутдинович": 4,
-      "Квят Вячеслав Яковлевич": 5,
-      "Сексяева Вера Кирилловна": 7,
-      "Фурман Александр Борисович": 148,
-      "Против всех": 5
+      "gas:candidate-vibid:1001000194996": 3,
+      "gas:candidate-vibid:302300467057": 5,
+      "gas:candidate-vibid:302300466831": 5,
+      "gas:candidate-vibid:1001000187981": 3,
+      "gas:candidate-vibid:1001000135992": 6,
+      "gas:candidate-vibid:302300466837": 4,
+      "gas:candidate-vibid:302300467045": 5,
+      "gas:candidate-vibid:1001000121786": 7,
+      "gas:candidate-vibid:1001000225869": 148,
+      "special:against-all": 5
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=22000043&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=202200066858&region=0&sub_region=0&type=429",
@@ -573,16 +573,16 @@ export const duma_2003_uik_428_region_3_part_009 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Богданова Дарья Максимовна": 8,
-      "Генералов Михаил Афанасьевич": 1,
-      "Джалилов Рафаиль Алиевич": 13,
-      "Диков Павел Михайлович": 2,
-      "Зарифьянов Рафис Раисович": 13,
-      "Ишбульдин Ирек Хайрутдинович": 10,
-      "Квят Вячеслав Яковлевич": 12,
-      "Сексяева Вера Кирилловна": 11,
-      "Фурман Александр Борисович": 123,
-      "Против всех": 10
+      "gas:candidate-vibid:1001000194996": 8,
+      "gas:candidate-vibid:302300467057": 1,
+      "gas:candidate-vibid:302300466831": 13,
+      "gas:candidate-vibid:1001000187981": 2,
+      "gas:candidate-vibid:1001000135992": 13,
+      "gas:candidate-vibid:302300466837": 10,
+      "gas:candidate-vibid:302300467045": 12,
+      "gas:candidate-vibid:1001000121786": 11,
+      "gas:candidate-vibid:1001000225869": 123,
+      "special:against-all": 10
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=22000043&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=202200066858&region=0&sub_region=0&type=429",
@@ -632,16 +632,16 @@ export const duma_2003_uik_428_region_3_part_009 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Богданова Дарья Максимовна": 11,
-      "Генералов Михаил Афанасьевич": 7,
-      "Джалилов Рафаиль Алиевич": 2,
-      "Диков Павел Михайлович": 3,
-      "Зарифьянов Рафис Раисович": 9,
-      "Ишбульдин Ирек Хайрутдинович": 3,
-      "Квят Вячеслав Яковлевич": 8,
-      "Сексяева Вера Кирилловна": 12,
-      "Фурман Александр Борисович": 117,
-      "Против всех": 8
+      "gas:candidate-vibid:1001000194996": 11,
+      "gas:candidate-vibid:302300467057": 7,
+      "gas:candidate-vibid:302300466831": 2,
+      "gas:candidate-vibid:1001000187981": 3,
+      "gas:candidate-vibid:1001000135992": 9,
+      "gas:candidate-vibid:302300466837": 3,
+      "gas:candidate-vibid:302300467045": 8,
+      "gas:candidate-vibid:1001000121786": 12,
+      "gas:candidate-vibid:1001000225869": 117,
+      "special:against-all": 8
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=22000043&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=202200066858&region=0&sub_region=0&type=429",
@@ -691,16 +691,16 @@ export const duma_2003_uik_428_region_3_part_009 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Богданова Дарья Максимовна": 7,
-      "Генералов Михаил Афанасьевич": 6,
-      "Джалилов Рафаиль Алиевич": 12,
-      "Диков Павел Михайлович": 4,
-      "Зарифьянов Рафис Раисович": 14,
-      "Ишбульдин Ирек Хайрутдинович": 5,
-      "Квят Вячеслав Яковлевич": 9,
-      "Сексяева Вера Кирилловна": 13,
-      "Фурман Александр Борисович": 105,
-      "Против всех": 13
+      "gas:candidate-vibid:1001000194996": 7,
+      "gas:candidate-vibid:302300467057": 6,
+      "gas:candidate-vibid:302300466831": 12,
+      "gas:candidate-vibid:1001000187981": 4,
+      "gas:candidate-vibid:1001000135992": 14,
+      "gas:candidate-vibid:302300466837": 5,
+      "gas:candidate-vibid:302300467045": 9,
+      "gas:candidate-vibid:1001000121786": 13,
+      "gas:candidate-vibid:1001000225869": 105,
+      "special:against-all": 13
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=22000043&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=202200066858&region=0&sub_region=0&type=429",
@@ -750,16 +750,16 @@ export const duma_2003_uik_428_region_3_part_009 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Богданова Дарья Максимовна": 25,
-      "Генералов Михаил Афанасьевич": 5,
-      "Джалилов Рафаиль Алиевич": 39,
-      "Диков Павел Михайлович": 5,
-      "Зарифьянов Рафис Раисович": 21,
-      "Ишбульдин Ирек Хайрутдинович": 23,
-      "Квят Вячеслав Яковлевич": 91,
-      "Сексяева Вера Кирилловна": 58,
-      "Фурман Александр Борисович": 381,
-      "Против всех": 22
+      "gas:candidate-vibid:1001000194996": 25,
+      "gas:candidate-vibid:302300467057": 5,
+      "gas:candidate-vibid:302300466831": 39,
+      "gas:candidate-vibid:1001000187981": 5,
+      "gas:candidate-vibid:1001000135992": 21,
+      "gas:candidate-vibid:302300466837": 23,
+      "gas:candidate-vibid:302300467045": 91,
+      "gas:candidate-vibid:1001000121786": 58,
+      "gas:candidate-vibid:1001000225869": 381,
+      "special:against-all": 22
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=22000043&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=202200066858&region=0&sub_region=0&type=429",
@@ -809,16 +809,16 @@ export const duma_2003_uik_428_region_3_part_009 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Богданова Дарья Максимовна": 23,
-      "Генералов Михаил Афанасьевич": 9,
-      "Джалилов Рафаиль Алиевич": 9,
-      "Диков Павел Михайлович": 8,
-      "Зарифьянов Рафис Раисович": 9,
-      "Ишбульдин Ирек Хайрутдинович": 6,
-      "Квят Вячеслав Яковлевич": 7,
-      "Сексяева Вера Кирилловна": 22,
-      "Фурман Александр Борисович": 166,
-      "Против всех": 27
+      "gas:candidate-vibid:1001000194996": 23,
+      "gas:candidate-vibid:302300467057": 9,
+      "gas:candidate-vibid:302300466831": 9,
+      "gas:candidate-vibid:1001000187981": 8,
+      "gas:candidate-vibid:1001000135992": 9,
+      "gas:candidate-vibid:302300466837": 6,
+      "gas:candidate-vibid:302300467045": 7,
+      "gas:candidate-vibid:1001000121786": 22,
+      "gas:candidate-vibid:1001000225869": 166,
+      "special:against-all": 27
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=22000043&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=202200066858&region=0&sub_region=0&type=429",
@@ -868,16 +868,16 @@ export const duma_2003_uik_428_region_3_part_009 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Богданова Дарья Максимовна": 4,
-      "Генералов Михаил Афанасьевич": 8,
-      "Джалилов Рафаиль Алиевич": 1,
-      "Диков Павел Михайлович": 4,
-      "Зарифьянов Рафис Раисович": 4,
-      "Ишбульдин Ирек Хайрутдинович": 8,
-      "Квят Вячеслав Яковлевич": 58,
-      "Сексяева Вера Кирилловна": 14,
-      "Фурман Александр Борисович": 223,
-      "Против всех": 7
+      "gas:candidate-vibid:1001000194996": 4,
+      "gas:candidate-vibid:302300467057": 8,
+      "gas:candidate-vibid:302300466831": 1,
+      "gas:candidate-vibid:1001000187981": 4,
+      "gas:candidate-vibid:1001000135992": 4,
+      "gas:candidate-vibid:302300466837": 8,
+      "gas:candidate-vibid:302300467045": 58,
+      "gas:candidate-vibid:1001000121786": 14,
+      "gas:candidate-vibid:1001000225869": 223,
+      "special:against-all": 7
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=22000043&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=202200066858&region=0&sub_region=0&type=429",
@@ -927,16 +927,16 @@ export const duma_2003_uik_428_region_3_part_009 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Богданова Дарья Максимовна": 13,
-      "Генералов Михаил Афанасьевич": 5,
-      "Джалилов Рафаиль Алиевич": 9,
-      "Диков Павел Михайлович": 11,
-      "Зарифьянов Рафис Раисович": 14,
-      "Ишбульдин Ирек Хайрутдинович": 18,
-      "Квят Вячеслав Яковлевич": 14,
-      "Сексяева Вера Кирилловна": 25,
-      "Фурман Александр Борисович": 628,
-      "Против всех": 18
+      "gas:candidate-vibid:1001000194996": 13,
+      "gas:candidate-vibid:302300467057": 5,
+      "gas:candidate-vibid:302300466831": 9,
+      "gas:candidate-vibid:1001000187981": 11,
+      "gas:candidate-vibid:1001000135992": 14,
+      "gas:candidate-vibid:302300466837": 18,
+      "gas:candidate-vibid:302300467045": 14,
+      "gas:candidate-vibid:1001000121786": 25,
+      "gas:candidate-vibid:1001000225869": 628,
+      "special:against-all": 18
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=22000043&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=202200066858&region=0&sub_region=0&type=429",
@@ -986,16 +986,16 @@ export const duma_2003_uik_428_region_3_part_009 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Богданова Дарья Максимовна": 18,
-      "Генералов Михаил Афанасьевич": 7,
-      "Джалилов Рафаиль Алиевич": 12,
-      "Диков Павел Михайлович": 2,
-      "Зарифьянов Рафис Раисович": 13,
-      "Ишбульдин Ирек Хайрутдинович": 14,
-      "Квят Вячеслав Яковлевич": 52,
-      "Сексяева Вера Кирилловна": 35,
-      "Фурман Александр Борисович": 218,
-      "Против всех": 20
+      "gas:candidate-vibid:1001000194996": 18,
+      "gas:candidate-vibid:302300467057": 7,
+      "gas:candidate-vibid:302300466831": 12,
+      "gas:candidate-vibid:1001000187981": 2,
+      "gas:candidate-vibid:1001000135992": 13,
+      "gas:candidate-vibid:302300466837": 14,
+      "gas:candidate-vibid:302300467045": 52,
+      "gas:candidate-vibid:1001000121786": 35,
+      "gas:candidate-vibid:1001000225869": 218,
+      "special:against-all": 20
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=22000043&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=202200066858&region=0&sub_region=0&type=429",
@@ -1045,16 +1045,16 @@ export const duma_2003_uik_428_region_3_part_009 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Богданова Дарья Максимовна": 11,
-      "Генералов Михаил Афанасьевич": 2,
-      "Джалилов Рафаиль Алиевич": 14,
-      "Диков Павел Михайлович": 3,
-      "Зарифьянов Рафис Раисович": 9,
-      "Ишбульдин Ирек Хайрутдинович": 8,
-      "Квят Вячеслав Яковлевич": 11,
-      "Сексяева Вера Кирилловна": 12,
-      "Фурман Александр Борисович": 225,
-      "Против всех": 9
+      "gas:candidate-vibid:1001000194996": 11,
+      "gas:candidate-vibid:302300467057": 2,
+      "gas:candidate-vibid:302300466831": 14,
+      "gas:candidate-vibid:1001000187981": 3,
+      "gas:candidate-vibid:1001000135992": 9,
+      "gas:candidate-vibid:302300466837": 8,
+      "gas:candidate-vibid:302300467045": 11,
+      "gas:candidate-vibid:1001000121786": 12,
+      "gas:candidate-vibid:1001000225869": 225,
+      "special:against-all": 9
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=22000043&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=202200066858&region=0&sub_region=0&type=429",
@@ -1104,16 +1104,16 @@ export const duma_2003_uik_428_region_3_part_009 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Богданова Дарья Максимовна": 4,
-      "Генералов Михаил Афанасьевич": 2,
-      "Джалилов Рафаиль Алиевич": 11,
-      "Диков Павел Михайлович": 3,
-      "Зарифьянов Рафис Раисович": 4,
-      "Ишбульдин Ирек Хайрутдинович": 8,
-      "Квят Вячеслав Яковлевич": 19,
-      "Сексяева Вера Кирилловна": 15,
-      "Фурман Александр Борисович": 230,
-      "Против всех": 7
+      "gas:candidate-vibid:1001000194996": 4,
+      "gas:candidate-vibid:302300467057": 2,
+      "gas:candidate-vibid:302300466831": 11,
+      "gas:candidate-vibid:1001000187981": 3,
+      "gas:candidate-vibid:1001000135992": 4,
+      "gas:candidate-vibid:302300466837": 8,
+      "gas:candidate-vibid:302300467045": 19,
+      "gas:candidate-vibid:1001000121786": 15,
+      "gas:candidate-vibid:1001000225869": 230,
+      "special:against-all": 7
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=22000043&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=202200066858&region=0&sub_region=0&type=429",
@@ -1163,16 +1163,16 @@ export const duma_2003_uik_428_region_3_part_009 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Богданова Дарья Максимовна": 13,
-      "Генералов Михаил Афанасьевич": 4,
-      "Джалилов Рафаиль Алиевич": 3,
-      "Диков Павел Михайлович": 9,
-      "Зарифьянов Рафис Раисович": 11,
-      "Ишбульдин Ирек Хайрутдинович": 3,
-      "Квят Вячеслав Яковлевич": 14,
-      "Сексяева Вера Кирилловна": 14,
-      "Фурман Александр Борисович": 225,
-      "Против всех": 14
+      "gas:candidate-vibid:1001000194996": 13,
+      "gas:candidate-vibid:302300467057": 4,
+      "gas:candidate-vibid:302300466831": 3,
+      "gas:candidate-vibid:1001000187981": 9,
+      "gas:candidate-vibid:1001000135992": 11,
+      "gas:candidate-vibid:302300466837": 3,
+      "gas:candidate-vibid:302300467045": 14,
+      "gas:candidate-vibid:1001000121786": 14,
+      "gas:candidate-vibid:1001000225869": 225,
+      "special:against-all": 14
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=22000043&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=202200066858&region=0&sub_region=0&type=429",
@@ -1222,16 +1222,16 @@ export const duma_2003_uik_428_region_3_part_009 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Богданова Дарья Максимовна": 15,
-      "Генералов Михаил Афанасьевич": 4,
-      "Джалилов Рафаиль Алиевич": 29,
-      "Диков Павел Михайлович": 4,
-      "Зарифьянов Рафис Раисович": 11,
-      "Ишбульдин Ирек Хайрутдинович": 23,
-      "Квят Вячеслав Яковлевич": 47,
-      "Сексяева Вера Кирилловна": 62,
-      "Фурман Александр Борисович": 287,
-      "Против всех": 13
+      "gas:candidate-vibid:1001000194996": 15,
+      "gas:candidate-vibid:302300467057": 4,
+      "gas:candidate-vibid:302300466831": 29,
+      "gas:candidate-vibid:1001000187981": 4,
+      "gas:candidate-vibid:1001000135992": 11,
+      "gas:candidate-vibid:302300466837": 23,
+      "gas:candidate-vibid:302300467045": 47,
+      "gas:candidate-vibid:1001000121786": 62,
+      "gas:candidate-vibid:1001000225869": 287,
+      "special:against-all": 13
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=22000043&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=202200066858&region=0&sub_region=0&type=429",
@@ -1281,16 +1281,16 @@ export const duma_2003_uik_428_region_3_part_009 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Богданова Дарья Максимовна": 11,
-      "Генералов Михаил Афанасьевич": 5,
-      "Джалилов Рафаиль Алиевич": 30,
-      "Диков Павел Михайлович": 4,
-      "Зарифьянов Рафис Раисович": 8,
-      "Ишбульдин Ирек Хайрутдинович": 17,
-      "Квят Вячеслав Яковлевич": 39,
-      "Сексяева Вера Кирилловна": 40,
-      "Фурман Александр Борисович": 229,
-      "Против всех": 18
+      "gas:candidate-vibid:1001000194996": 11,
+      "gas:candidate-vibid:302300467057": 5,
+      "gas:candidate-vibid:302300466831": 30,
+      "gas:candidate-vibid:1001000187981": 4,
+      "gas:candidate-vibid:1001000135992": 8,
+      "gas:candidate-vibid:302300466837": 17,
+      "gas:candidate-vibid:302300467045": 39,
+      "gas:candidate-vibid:1001000121786": 40,
+      "gas:candidate-vibid:1001000225869": 229,
+      "special:against-all": 18
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=22000043&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=202200066858&region=0&sub_region=0&type=429",
@@ -1340,16 +1340,16 @@ export const duma_2003_uik_428_region_3_part_009 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Богданова Дарья Максимовна": 3,
-      "Генералов Михаил Афанасьевич": 0,
-      "Джалилов Рафаиль Алиевич": 2,
-      "Диков Павел Михайлович": 3,
-      "Зарифьянов Рафис Раисович": 3,
-      "Ишбульдин Ирек Хайрутдинович": 4,
-      "Квят Вячеслав Яковлевич": 9,
-      "Сексяева Вера Кирилловна": 4,
-      "Фурман Александр Борисович": 162,
-      "Против всех": 4
+      "gas:candidate-vibid:1001000194996": 3,
+      "gas:candidate-vibid:302300467057": 0,
+      "gas:candidate-vibid:302300466831": 2,
+      "gas:candidate-vibid:1001000187981": 3,
+      "gas:candidate-vibid:1001000135992": 3,
+      "gas:candidate-vibid:302300466837": 4,
+      "gas:candidate-vibid:302300467045": 9,
+      "gas:candidate-vibid:1001000121786": 4,
+      "gas:candidate-vibid:1001000225869": 162,
+      "special:against-all": 4
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=22000043&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=202200066858&region=0&sub_region=0&type=429",
@@ -1399,16 +1399,16 @@ export const duma_2003_uik_428_region_3_part_009 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Богданова Дарья Максимовна": 1,
-      "Генералов Михаил Афанасьевич": 0,
-      "Джалилов Рафаиль Алиевич": 2,
-      "Диков Павел Михайлович": 0,
-      "Зарифьянов Рафис Раисович": 1,
-      "Ишбульдин Ирек Хайрутдинович": 5,
-      "Квят Вячеслав Яковлевич": 10,
-      "Сексяева Вера Кирилловна": 4,
-      "Фурман Александр Борисович": 114,
-      "Против всех": 5
+      "gas:candidate-vibid:1001000194996": 1,
+      "gas:candidate-vibid:302300467057": 0,
+      "gas:candidate-vibid:302300466831": 2,
+      "gas:candidate-vibid:1001000187981": 0,
+      "gas:candidate-vibid:1001000135992": 1,
+      "gas:candidate-vibid:302300466837": 5,
+      "gas:candidate-vibid:302300467045": 10,
+      "gas:candidate-vibid:1001000121786": 4,
+      "gas:candidate-vibid:1001000225869": 114,
+      "special:against-all": 5
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=22000043&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=202200066858&region=0&sub_region=0&type=429",
@@ -1458,16 +1458,16 @@ export const duma_2003_uik_428_region_3_part_009 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Богданова Дарья Максимовна": 4,
-      "Генералов Михаил Афанасьевич": 0,
-      "Джалилов Рафаиль Алиевич": 5,
-      "Диков Павел Михайлович": 0,
-      "Зарифьянов Рафис Раисович": 3,
-      "Ишбульдин Ирек Хайрутдинович": 6,
-      "Квят Вячеслав Яковлевич": 1,
-      "Сексяева Вера Кирилловна": 3,
-      "Фурман Александр Борисович": 254,
-      "Против всех": 12
+      "gas:candidate-vibid:1001000194996": 4,
+      "gas:candidate-vibid:302300467057": 0,
+      "gas:candidate-vibid:302300466831": 5,
+      "gas:candidate-vibid:1001000187981": 0,
+      "gas:candidate-vibid:1001000135992": 3,
+      "gas:candidate-vibid:302300466837": 6,
+      "gas:candidate-vibid:302300467045": 1,
+      "gas:candidate-vibid:1001000121786": 3,
+      "gas:candidate-vibid:1001000225869": 254,
+      "special:against-all": 12
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=22000043&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=202200066858&region=0&sub_region=0&type=429",
@@ -1517,16 +1517,16 @@ export const duma_2003_uik_428_region_3_part_009 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Богданова Дарья Максимовна": 7,
-      "Генералов Михаил Афанасьевич": 4,
-      "Джалилов Рафаиль Алиевич": 16,
-      "Диков Павел Михайлович": 5,
-      "Зарифьянов Рафис Раисович": 9,
-      "Ишбульдин Ирек Хайрутдинович": 10,
-      "Квят Вячеслав Яковлевич": 15,
-      "Сексяева Вера Кирилловна": 15,
-      "Фурман Александр Борисович": 176,
-      "Против всех": 14
+      "gas:candidate-vibid:1001000194996": 7,
+      "gas:candidate-vibid:302300467057": 4,
+      "gas:candidate-vibid:302300466831": 16,
+      "gas:candidate-vibid:1001000187981": 5,
+      "gas:candidate-vibid:1001000135992": 9,
+      "gas:candidate-vibid:302300466837": 10,
+      "gas:candidate-vibid:302300467045": 15,
+      "gas:candidate-vibid:1001000121786": 15,
+      "gas:candidate-vibid:1001000225869": 176,
+      "special:against-all": 14
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=22000043&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=202200066858&region=0&sub_region=0&type=429",
@@ -1576,16 +1576,16 @@ export const duma_2003_uik_428_region_3_part_009 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Богданова Дарья Максимовна": 43,
-      "Генералов Михаил Афанасьевич": 21,
-      "Джалилов Рафаиль Алиевич": 22,
-      "Диков Павел Михайлович": 17,
-      "Зарифьянов Рафис Раисович": 41,
-      "Ишбульдин Ирек Хайрутдинович": 15,
-      "Квят Вячеслав Яковлевич": 99,
-      "Сексяева Вера Кирилловна": 150,
-      "Фурман Александр Борисович": 227,
-      "Против всех": 27
+      "gas:candidate-vibid:1001000194996": 43,
+      "gas:candidate-vibid:302300467057": 21,
+      "gas:candidate-vibid:302300466831": 22,
+      "gas:candidate-vibid:1001000187981": 17,
+      "gas:candidate-vibid:1001000135992": 41,
+      "gas:candidate-vibid:302300466837": 15,
+      "gas:candidate-vibid:302300467045": 99,
+      "gas:candidate-vibid:1001000121786": 150,
+      "gas:candidate-vibid:1001000225869": 227,
+      "special:against-all": 27
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=22000043&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=202200066858&region=0&sub_region=0&type=429",
@@ -1635,16 +1635,16 @@ export const duma_2003_uik_428_region_3_part_009 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Богданова Дарья Максимовна": 11,
-      "Генералов Михаил Афанасьевич": 5,
-      "Джалилов Рафаиль Алиевич": 5,
-      "Диков Павел Михайлович": 10,
-      "Зарифьянов Рафис Раисович": 8,
-      "Ишбульдин Ирек Хайрутдинович": 3,
-      "Квят Вячеслав Яковлевич": 20,
-      "Сексяева Вера Кирилловна": 19,
-      "Фурман Александр Борисович": 206,
-      "Против всех": 13
+      "gas:candidate-vibid:1001000194996": 11,
+      "gas:candidate-vibid:302300467057": 5,
+      "gas:candidate-vibid:302300466831": 5,
+      "gas:candidate-vibid:1001000187981": 10,
+      "gas:candidate-vibid:1001000135992": 8,
+      "gas:candidate-vibid:302300466837": 3,
+      "gas:candidate-vibid:302300467045": 20,
+      "gas:candidate-vibid:1001000121786": 19,
+      "gas:candidate-vibid:1001000225869": 206,
+      "special:against-all": 13
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=22000043&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=202200066858&region=0&sub_region=0&type=429",
@@ -1694,16 +1694,16 @@ export const duma_2003_uik_428_region_3_part_009 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Богданова Дарья Максимовна": 3,
-      "Генералов Михаил Афанасьевич": 3,
-      "Джалилов Рафаиль Алиевич": 10,
-      "Диков Павел Михайлович": 2,
-      "Зарифьянов Рафис Раисович": 6,
-      "Ишбульдин Ирек Хайрутдинович": 6,
-      "Квят Вячеслав Яковлевич": 19,
-      "Сексяева Вера Кирилловна": 7,
-      "Фурман Александр Борисович": 71,
-      "Против всех": 5
+      "gas:candidate-vibid:1001000194996": 3,
+      "gas:candidate-vibid:302300467057": 3,
+      "gas:candidate-vibid:302300466831": 10,
+      "gas:candidate-vibid:1001000187981": 2,
+      "gas:candidate-vibid:1001000135992": 6,
+      "gas:candidate-vibid:302300466837": 6,
+      "gas:candidate-vibid:302300467045": 19,
+      "gas:candidate-vibid:1001000121786": 7,
+      "gas:candidate-vibid:1001000225869": 71,
+      "special:against-all": 5
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=22000043&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=202200066858&region=0&sub_region=0&type=429",
@@ -1753,16 +1753,16 @@ export const duma_2003_uik_428_region_3_part_009 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Богданова Дарья Максимовна": 5,
-      "Генералов Михаил Афанасьевич": 2,
-      "Джалилов Рафаиль Алиевич": 14,
-      "Диков Павел Михайлович": 2,
-      "Зарифьянов Рафис Раисович": 9,
-      "Ишбульдин Ирек Хайрутдинович": 10,
-      "Квят Вячеслав Яковлевич": 17,
-      "Сексяева Вера Кирилловна": 16,
-      "Фурман Александр Борисович": 348,
-      "Против всех": 12
+      "gas:candidate-vibid:1001000194996": 5,
+      "gas:candidate-vibid:302300467057": 2,
+      "gas:candidate-vibid:302300466831": 14,
+      "gas:candidate-vibid:1001000187981": 2,
+      "gas:candidate-vibid:1001000135992": 9,
+      "gas:candidate-vibid:302300466837": 10,
+      "gas:candidate-vibid:302300467045": 17,
+      "gas:candidate-vibid:1001000121786": 16,
+      "gas:candidate-vibid:1001000225869": 348,
+      "special:against-all": 12
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=22000043&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=202200066858&region=0&sub_region=0&type=429",
@@ -1812,16 +1812,16 @@ export const duma_2003_uik_428_region_3_part_009 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Богданова Дарья Максимовна": 12,
-      "Генералов Михаил Афанасьевич": 9,
-      "Джалилов Рафаиль Алиевич": 4,
-      "Диков Павел Михайлович": 5,
-      "Зарифьянов Рафис Раисович": 8,
-      "Ишбульдин Ирек Хайрутдинович": 10,
-      "Квят Вячеслав Яковлевич": 69,
-      "Сексяева Вера Кирилловна": 19,
-      "Фурман Александр Борисович": 172,
-      "Против всех": 10
+      "gas:candidate-vibid:1001000194996": 12,
+      "gas:candidate-vibid:302300467057": 9,
+      "gas:candidate-vibid:302300466831": 4,
+      "gas:candidate-vibid:1001000187981": 5,
+      "gas:candidate-vibid:1001000135992": 8,
+      "gas:candidate-vibid:302300466837": 10,
+      "gas:candidate-vibid:302300467045": 69,
+      "gas:candidate-vibid:1001000121786": 19,
+      "gas:candidate-vibid:1001000225869": 172,
+      "special:against-all": 10
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=22000043&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=202200066858&region=0&sub_region=0&type=429",
@@ -1871,16 +1871,16 @@ export const duma_2003_uik_428_region_3_part_009 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Богданова Дарья Максимовна": 3,
-      "Генералов Михаил Афанасьевич": 1,
-      "Джалилов Рафаиль Алиевич": 12,
-      "Диков Павел Михайлович": 1,
-      "Зарифьянов Рафис Раисович": 3,
-      "Ишбульдин Ирек Хайрутдинович": 11,
-      "Квят Вячеслав Яковлевич": 1,
-      "Сексяева Вера Кирилловна": 5,
-      "Фурман Александр Борисович": 114,
-      "Против всех": 14
+      "gas:candidate-vibid:1001000194996": 3,
+      "gas:candidate-vibid:302300467057": 1,
+      "gas:candidate-vibid:302300466831": 12,
+      "gas:candidate-vibid:1001000187981": 1,
+      "gas:candidate-vibid:1001000135992": 3,
+      "gas:candidate-vibid:302300466837": 11,
+      "gas:candidate-vibid:302300467045": 1,
+      "gas:candidate-vibid:1001000121786": 5,
+      "gas:candidate-vibid:1001000225869": 114,
+      "special:against-all": 14
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=22000043&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=202200066858&region=0&sub_region=0&type=429",
@@ -1930,16 +1930,16 @@ export const duma_2003_uik_428_region_3_part_009 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Богданова Дарья Максимовна": 1,
-      "Генералов Михаил Афанасьевич": 0,
-      "Джалилов Рафаиль Алиевич": 3,
-      "Диков Павел Михайлович": 0,
-      "Зарифьянов Рафис Раисович": 4,
-      "Ишбульдин Ирек Хайрутдинович": 0,
-      "Квят Вячеслав Яковлевич": 3,
-      "Сексяева Вера Кирилловна": 2,
-      "Фурман Александр Борисович": 43,
-      "Против всех": 0
+      "gas:candidate-vibid:1001000194996": 1,
+      "gas:candidate-vibid:302300467057": 0,
+      "gas:candidate-vibid:302300466831": 3,
+      "gas:candidate-vibid:1001000187981": 0,
+      "gas:candidate-vibid:1001000135992": 4,
+      "gas:candidate-vibid:302300466837": 0,
+      "gas:candidate-vibid:302300467045": 3,
+      "gas:candidate-vibid:1001000121786": 2,
+      "gas:candidate-vibid:1001000225869": 43,
+      "special:against-all": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=22000043&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=202200066858&region=0&sub_region=0&type=429",
@@ -1989,16 +1989,16 @@ export const duma_2003_uik_428_region_3_part_009 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Богданова Дарья Максимовна": 2,
-      "Генералов Михаил Афанасьевич": 0,
-      "Джалилов Рафаиль Алиевич": 1,
-      "Диков Павел Михайлович": 0,
-      "Зарифьянов Рафис Раисович": 2,
-      "Ишбульдин Ирек Хайрутдинович": 3,
-      "Квят Вячеслав Яковлевич": 3,
-      "Сексяева Вера Кирилловна": 3,
-      "Фурман Александр Борисович": 95,
-      "Против всех": 2
+      "gas:candidate-vibid:1001000194996": 2,
+      "gas:candidate-vibid:302300467057": 0,
+      "gas:candidate-vibid:302300466831": 1,
+      "gas:candidate-vibid:1001000187981": 0,
+      "gas:candidate-vibid:1001000135992": 2,
+      "gas:candidate-vibid:302300466837": 3,
+      "gas:candidate-vibid:302300467045": 3,
+      "gas:candidate-vibid:1001000121786": 3,
+      "gas:candidate-vibid:1001000225869": 95,
+      "special:against-all": 2
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=22000043&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=202200066858&region=0&sub_region=0&type=429",
@@ -2048,16 +2048,16 @@ export const duma_2003_uik_428_region_3_part_009 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Богданова Дарья Максимовна": 5,
-      "Генералов Михаил Афанасьевич": 1,
-      "Джалилов Рафаиль Алиевич": 5,
-      "Диков Павел Михайлович": 1,
-      "Зарифьянов Рафис Раисович": 1,
-      "Ишбульдин Ирек Хайрутдинович": 10,
-      "Квят Вячеслав Яковлевич": 9,
-      "Сексяева Вера Кирилловна": 8,
-      "Фурман Александр Борисович": 82,
-      "Против всех": 6
+      "gas:candidate-vibid:1001000194996": 5,
+      "gas:candidate-vibid:302300467057": 1,
+      "gas:candidate-vibid:302300466831": 5,
+      "gas:candidate-vibid:1001000187981": 1,
+      "gas:candidate-vibid:1001000135992": 1,
+      "gas:candidate-vibid:302300466837": 10,
+      "gas:candidate-vibid:302300467045": 9,
+      "gas:candidate-vibid:1001000121786": 8,
+      "gas:candidate-vibid:1001000225869": 82,
+      "special:against-all": 6
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=22000043&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=202200066858&region=0&sub_region=0&type=429",
@@ -2107,16 +2107,16 @@ export const duma_2003_uik_428_region_3_part_009 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Богданова Дарья Максимовна": 8,
-      "Генералов Михаил Афанасьевич": 2,
-      "Джалилов Рафаиль Алиевич": 8,
-      "Диков Павел Михайлович": 2,
-      "Зарифьянов Рафис Раисович": 4,
-      "Ишбульдин Ирек Хайрутдинович": 4,
-      "Квят Вячеслав Яковлевич": 7,
-      "Сексяева Вера Кирилловна": 12,
-      "Фурман Александр Борисович": 81,
-      "Против всех": 3
+      "gas:candidate-vibid:1001000194996": 8,
+      "gas:candidate-vibid:302300467057": 2,
+      "gas:candidate-vibid:302300466831": 8,
+      "gas:candidate-vibid:1001000187981": 2,
+      "gas:candidate-vibid:1001000135992": 4,
+      "gas:candidate-vibid:302300466837": 4,
+      "gas:candidate-vibid:302300467045": 7,
+      "gas:candidate-vibid:1001000121786": 12,
+      "gas:candidate-vibid:1001000225869": 81,
+      "special:against-all": 3
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=22000043&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=202200066858&region=0&sub_region=0&type=429",
@@ -2166,16 +2166,16 @@ export const duma_2003_uik_428_region_3_part_009 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Богданова Дарья Максимовна": 18,
-      "Генералов Михаил Афанасьевич": 5,
-      "Джалилов Рафаиль Алиевич": 26,
-      "Диков Павел Михайлович": 22,
-      "Зарифьянов Рафис Раисович": 43,
-      "Ишбульдин Ирек Хайрутдинович": 54,
-      "Квят Вячеслав Яковлевич": 218,
-      "Сексяева Вера Кирилловна": 102,
-      "Фурман Александр Борисович": 728,
-      "Против всех": 102
+      "gas:candidate-vibid:1001000194996": 18,
+      "gas:candidate-vibid:302300467057": 5,
+      "gas:candidate-vibid:302300466831": 26,
+      "gas:candidate-vibid:1001000187981": 22,
+      "gas:candidate-vibid:1001000135992": 43,
+      "gas:candidate-vibid:302300466837": 54,
+      "gas:candidate-vibid:302300467045": 218,
+      "gas:candidate-vibid:1001000121786": 102,
+      "gas:candidate-vibid:1001000225869": 728,
+      "special:against-all": 102
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=22000044&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=202200066859&region=0&sub_region=0&type=429",
@@ -2225,16 +2225,16 @@ export const duma_2003_uik_428_region_3_part_009 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Богданова Дарья Максимовна": 32,
-      "Генералов Михаил Афанасьевич": 16,
-      "Джалилов Рафаиль Алиевич": 47,
-      "Диков Павел Михайлович": 25,
-      "Зарифьянов Рафис Раисович": 80,
-      "Ишбульдин Ирек Хайрутдинович": 94,
-      "Квят Вячеслав Яковлевич": 217,
-      "Сексяева Вера Кирилловна": 151,
-      "Фурман Александр Борисович": 1123,
-      "Против всех": 137
+      "gas:candidate-vibid:1001000194996": 32,
+      "gas:candidate-vibid:302300467057": 16,
+      "gas:candidate-vibid:302300466831": 47,
+      "gas:candidate-vibid:1001000187981": 25,
+      "gas:candidate-vibid:1001000135992": 80,
+      "gas:candidate-vibid:302300466837": 94,
+      "gas:candidate-vibid:302300467045": 217,
+      "gas:candidate-vibid:1001000121786": 151,
+      "gas:candidate-vibid:1001000225869": 1123,
+      "special:against-all": 137
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=22000044&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=202200066859&region=0&sub_region=0&type=429",
@@ -2284,16 +2284,16 @@ export const duma_2003_uik_428_region_3_part_009 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Богданова Дарья Максимовна": 14,
-      "Генералов Михаил Афанасьевич": 7,
-      "Джалилов Рафаиль Алиевич": 29,
-      "Диков Павел Михайлович": 29,
-      "Зарифьянов Рафис Раисович": 80,
-      "Ишбульдин Ирек Хайрутдинович": 85,
-      "Квят Вячеслав Яковлевич": 341,
-      "Сексяева Вера Кирилловна": 163,
-      "Фурман Александр Борисович": 1150,
-      "Против всех": 126
+      "gas:candidate-vibid:1001000194996": 14,
+      "gas:candidate-vibid:302300467057": 7,
+      "gas:candidate-vibid:302300466831": 29,
+      "gas:candidate-vibid:1001000187981": 29,
+      "gas:candidate-vibid:1001000135992": 80,
+      "gas:candidate-vibid:302300466837": 85,
+      "gas:candidate-vibid:302300467045": 341,
+      "gas:candidate-vibid:1001000121786": 163,
+      "gas:candidate-vibid:1001000225869": 1150,
+      "special:against-all": 126
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=22000044&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=202200066859&region=0&sub_region=0&type=429",
@@ -2343,16 +2343,16 @@ export const duma_2003_uik_428_region_3_part_009 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Богданова Дарья Максимовна": 20,
-      "Генералов Михаил Афанасьевич": 7,
-      "Джалилов Рафаиль Алиевич": 38,
-      "Диков Павел Михайлович": 21,
-      "Зарифьянов Рафис Раисович": 70,
-      "Ишбульдин Ирек Хайрутдинович": 106,
-      "Квят Вячеслав Яковлевич": 228,
-      "Сексяева Вера Кирилловна": 107,
-      "Фурман Александр Борисович": 906,
-      "Против всех": 124
+      "gas:candidate-vibid:1001000194996": 20,
+      "gas:candidate-vibid:302300467057": 7,
+      "gas:candidate-vibid:302300466831": 38,
+      "gas:candidate-vibid:1001000187981": 21,
+      "gas:candidate-vibid:1001000135992": 70,
+      "gas:candidate-vibid:302300466837": 106,
+      "gas:candidate-vibid:302300467045": 228,
+      "gas:candidate-vibid:1001000121786": 107,
+      "gas:candidate-vibid:1001000225869": 906,
+      "special:against-all": 124
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=22000044&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=202200066859&region=0&sub_region=0&type=429",
@@ -2402,16 +2402,16 @@ export const duma_2003_uik_428_region_3_part_009 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Богданова Дарья Максимовна": 22,
-      "Генералов Михаил Афанасьевич": 5,
-      "Джалилов Рафаиль Алиевич": 40,
-      "Диков Павел Михайлович": 21,
-      "Зарифьянов Рафис Раисович": 59,
-      "Ишбульдин Ирек Хайрутдинович": 94,
-      "Квят Вячеслав Яковлевич": 282,
-      "Сексяева Вера Кирилловна": 121,
-      "Фурман Александр Борисович": 983,
-      "Против всех": 113
+      "gas:candidate-vibid:1001000194996": 22,
+      "gas:candidate-vibid:302300467057": 5,
+      "gas:candidate-vibid:302300466831": 40,
+      "gas:candidate-vibid:1001000187981": 21,
+      "gas:candidate-vibid:1001000135992": 59,
+      "gas:candidate-vibid:302300466837": 94,
+      "gas:candidate-vibid:302300467045": 282,
+      "gas:candidate-vibid:1001000121786": 121,
+      "gas:candidate-vibid:1001000225869": 983,
+      "special:against-all": 113
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=22000044&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=202200066859&region=0&sub_region=0&type=429",
@@ -2461,16 +2461,16 @@ export const duma_2003_uik_428_region_3_part_009 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Богданова Дарья Максимовна": 47,
-      "Генералов Михаил Афанасьевич": 14,
-      "Джалилов Рафаиль Алиевич": 85,
-      "Диков Павел Михайлович": 59,
-      "Зарифьянов Рафис Раисович": 144,
-      "Ишбульдин Ирек Хайрутдинович": 162,
-      "Квят Вячеслав Яковлевич": 390,
-      "Сексяева Вера Кирилловна": 165,
-      "Фурман Александр Борисович": 551,
-      "Против всех": 209
+      "gas:candidate-vibid:1001000194996": 47,
+      "gas:candidate-vibid:302300467057": 14,
+      "gas:candidate-vibid:302300466831": 85,
+      "gas:candidate-vibid:1001000187981": 59,
+      "gas:candidate-vibid:1001000135992": 144,
+      "gas:candidate-vibid:302300466837": 162,
+      "gas:candidate-vibid:302300467045": 390,
+      "gas:candidate-vibid:1001000121786": 165,
+      "gas:candidate-vibid:1001000225869": 551,
+      "special:against-all": 209
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=22000045&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=202200066860&region=0&sub_region=0&type=429",
@@ -2520,16 +2520,16 @@ export const duma_2003_uik_428_region_3_part_009 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Богданова Дарья Максимовна": 33,
-      "Генералов Михаил Афанасьевич": 19,
-      "Джалилов Рафаиль Алиевич": 52,
-      "Диков Павел Михайлович": 25,
-      "Зарифьянов Рафис Раисович": 97,
-      "Ишбульдин Ирек Хайрутдинович": 117,
-      "Квят Вячеслав Яковлевич": 377,
-      "Сексяева Вера Кирилловна": 121,
-      "Фурман Александр Борисович": 501,
-      "Против всех": 136
+      "gas:candidate-vibid:1001000194996": 33,
+      "gas:candidate-vibid:302300467057": 19,
+      "gas:candidate-vibid:302300466831": 52,
+      "gas:candidate-vibid:1001000187981": 25,
+      "gas:candidate-vibid:1001000135992": 97,
+      "gas:candidate-vibid:302300466837": 117,
+      "gas:candidate-vibid:302300467045": 377,
+      "gas:candidate-vibid:1001000121786": 121,
+      "gas:candidate-vibid:1001000225869": 501,
+      "special:against-all": 136
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=22000045&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=202200066860&region=0&sub_region=0&type=429",
@@ -2579,16 +2579,16 @@ export const duma_2003_uik_428_region_3_part_009 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Богданова Дарья Максимовна": 48,
-      "Генералов Михаил Афанасьевич": 24,
-      "Джалилов Рафаиль Алиевич": 62,
-      "Диков Павел Михайлович": 34,
-      "Зарифьянов Рафис Раисович": 132,
-      "Ишбульдин Ирек Хайрутдинович": 132,
-      "Квят Вячеслав Яковлевич": 310,
-      "Сексяева Вера Кирилловна": 118,
-      "Фурман Александр Борисович": 481,
-      "Против всех": 155
+      "gas:candidate-vibid:1001000194996": 48,
+      "gas:candidate-vibid:302300467057": 24,
+      "gas:candidate-vibid:302300466831": 62,
+      "gas:candidate-vibid:1001000187981": 34,
+      "gas:candidate-vibid:1001000135992": 132,
+      "gas:candidate-vibid:302300466837": 132,
+      "gas:candidate-vibid:302300467045": 310,
+      "gas:candidate-vibid:1001000121786": 118,
+      "gas:candidate-vibid:1001000225869": 481,
+      "special:against-all": 155
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=22000045&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=202200066860&region=0&sub_region=0&type=429",
@@ -2638,16 +2638,16 @@ export const duma_2003_uik_428_region_3_part_009 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Богданова Дарья Максимовна": 26,
-      "Генералов Михаил Афанасьевич": 22,
-      "Джалилов Рафаиль Алиевич": 37,
-      "Диков Павел Михайлович": 30,
-      "Зарифьянов Рафис Раисович": 133,
-      "Ишбульдин Ирек Хайрутдинович": 81,
-      "Квят Вячеслав Яковлевич": 276,
-      "Сексяева Вера Кирилловна": 147,
-      "Фурман Александр Борисович": 490,
-      "Против всех": 149
+      "gas:candidate-vibid:1001000194996": 26,
+      "gas:candidate-vibid:302300467057": 22,
+      "gas:candidate-vibid:302300466831": 37,
+      "gas:candidate-vibid:1001000187981": 30,
+      "gas:candidate-vibid:1001000135992": 133,
+      "gas:candidate-vibid:302300466837": 81,
+      "gas:candidate-vibid:302300467045": 276,
+      "gas:candidate-vibid:1001000121786": 147,
+      "gas:candidate-vibid:1001000225869": 490,
+      "special:against-all": 149
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=22000045&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=202200066860&region=0&sub_region=0&type=429",
@@ -2697,16 +2697,16 @@ export const duma_2003_uik_428_region_3_part_009 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Богданова Дарья Максимовна": 39,
-      "Генералов Михаил Афанасьевич": 23,
-      "Джалилов Рафаиль Алиевич": 36,
-      "Диков Павел Михайлович": 59,
-      "Зарифьянов Рафис Раисович": 126,
-      "Ишбульдин Ирек Хайрутдинович": 129,
-      "Квят Вячеслав Яковлевич": 213,
-      "Сексяева Вера Кирилловна": 239,
-      "Фурман Александр Борисович": 446,
-      "Против всех": 155
+      "gas:candidate-vibid:1001000194996": 39,
+      "gas:candidate-vibid:302300467057": 23,
+      "gas:candidate-vibid:302300466831": 36,
+      "gas:candidate-vibid:1001000187981": 59,
+      "gas:candidate-vibid:1001000135992": 126,
+      "gas:candidate-vibid:302300466837": 129,
+      "gas:candidate-vibid:302300467045": 213,
+      "gas:candidate-vibid:1001000121786": 239,
+      "gas:candidate-vibid:1001000225869": 446,
+      "special:against-all": 155
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=22000045&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=202200066860&region=0&sub_region=0&type=429",
@@ -2756,16 +2756,16 @@ export const duma_2003_uik_428_region_3_part_009 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Богданова Дарья Максимовна": 40,
-      "Генералов Михаил Афанасьевич": 22,
-      "Джалилов Рафаиль Алиевич": 39,
-      "Диков Павел Михайлович": 32,
-      "Зарифьянов Рафис Раисович": 145,
-      "Ишбульдин Ирек Хайрутдинович": 130,
-      "Квят Вячеслав Яковлевич": 268,
-      "Сексяева Вера Кирилловна": 177,
-      "Фурман Александр Борисович": 431,
-      "Против всех": 151
+      "gas:candidate-vibid:1001000194996": 40,
+      "gas:candidate-vibid:302300467057": 22,
+      "gas:candidate-vibid:302300466831": 39,
+      "gas:candidate-vibid:1001000187981": 32,
+      "gas:candidate-vibid:1001000135992": 145,
+      "gas:candidate-vibid:302300466837": 130,
+      "gas:candidate-vibid:302300467045": 268,
+      "gas:candidate-vibid:1001000121786": 177,
+      "gas:candidate-vibid:1001000225869": 431,
+      "special:against-all": 151
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=22000045&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=202200066860&region=0&sub_region=0&type=429",
@@ -2815,16 +2815,16 @@ export const duma_2003_uik_428_region_3_part_009 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Богданова Дарья Максимовна": 43,
-      "Генералов Михаил Афанасьевич": 17,
-      "Джалилов Рафаиль Алиевич": 42,
-      "Диков Павел Михайлович": 40,
-      "Зарифьянов Рафис Раисович": 125,
-      "Ишбульдин Ирек Хайрутдинович": 107,
-      "Квят Вячеслав Яковлевич": 286,
-      "Сексяева Вера Кирилловна": 144,
-      "Фурман Александр Борисович": 553,
-      "Против всех": 130
+      "gas:candidate-vibid:1001000194996": 43,
+      "gas:candidate-vibid:302300467057": 17,
+      "gas:candidate-vibid:302300466831": 42,
+      "gas:candidate-vibid:1001000187981": 40,
+      "gas:candidate-vibid:1001000135992": 125,
+      "gas:candidate-vibid:302300466837": 107,
+      "gas:candidate-vibid:302300467045": 286,
+      "gas:candidate-vibid:1001000121786": 144,
+      "gas:candidate-vibid:1001000225869": 553,
+      "special:against-all": 130
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=22000045&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=202200066860&region=0&sub_region=0&type=429",
@@ -2874,16 +2874,16 @@ export const duma_2003_uik_428_region_3_part_009 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Богданова Дарья Максимовна": 42,
-      "Генералов Михаил Афанасьевич": 19,
-      "Джалилов Рафаиль Алиевич": 51,
-      "Диков Павел Михайлович": 36,
-      "Зарифьянов Рафис Раисович": 113,
-      "Ишбульдин Ирек Хайрутдинович": 123,
-      "Квят Вячеслав Яковлевич": 343,
-      "Сексяева Вера Кирилловна": 172,
-      "Фурман Александр Борисович": 506,
-      "Против всех": 154
+      "gas:candidate-vibid:1001000194996": 42,
+      "gas:candidate-vibid:302300467057": 19,
+      "gas:candidate-vibid:302300466831": 51,
+      "gas:candidate-vibid:1001000187981": 36,
+      "gas:candidate-vibid:1001000135992": 113,
+      "gas:candidate-vibid:302300466837": 123,
+      "gas:candidate-vibid:302300467045": 343,
+      "gas:candidate-vibid:1001000121786": 172,
+      "gas:candidate-vibid:1001000225869": 506,
+      "special:against-all": 154
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=22000045&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=202200066860&region=0&sub_region=0&type=429",
@@ -2933,16 +2933,16 @@ export const duma_2003_uik_428_region_3_part_009 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Богданова Дарья Максимовна": 32,
-      "Генералов Михаил Афанасьевич": 19,
-      "Джалилов Рафаиль Алиевич": 44,
-      "Диков Павел Михайлович": 35,
-      "Зарифьянов Рафис Раисович": 79,
-      "Ишбульдин Ирек Хайрутдинович": 114,
-      "Квят Вячеслав Яковлевич": 370,
-      "Сексяева Вера Кирилловна": 175,
-      "Фурман Александр Борисович": 451,
-      "Против всех": 111
+      "gas:candidate-vibid:1001000194996": 32,
+      "gas:candidate-vibid:302300467057": 19,
+      "gas:candidate-vibid:302300466831": 44,
+      "gas:candidate-vibid:1001000187981": 35,
+      "gas:candidate-vibid:1001000135992": 79,
+      "gas:candidate-vibid:302300466837": 114,
+      "gas:candidate-vibid:302300467045": 370,
+      "gas:candidate-vibid:1001000121786": 175,
+      "gas:candidate-vibid:1001000225869": 451,
+      "special:against-all": 111
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=22000045&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=202200066860&region=0&sub_region=0&type=429",
@@ -2992,16 +2992,16 @@ export const duma_2003_uik_428_region_3_part_009 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Богданова Дарья Максимовна": 30,
-      "Генералов Михаил Афанасьевич": 16,
-      "Джалилов Рафаиль Алиевич": 38,
-      "Диков Павел Михайлович": 45,
-      "Зарифьянов Рафис Раисович": 102,
-      "Ишбульдин Ирек Хайрутдинович": 132,
-      "Квят Вячеслав Яковлевич": 331,
-      "Сексяева Вера Кирилловна": 156,
-      "Фурман Александр Борисович": 498,
-      "Против всех": 143
+      "gas:candidate-vibid:1001000194996": 30,
+      "gas:candidate-vibid:302300467057": 16,
+      "gas:candidate-vibid:302300466831": 38,
+      "gas:candidate-vibid:1001000187981": 45,
+      "gas:candidate-vibid:1001000135992": 102,
+      "gas:candidate-vibid:302300466837": 132,
+      "gas:candidate-vibid:302300467045": 331,
+      "gas:candidate-vibid:1001000121786": 156,
+      "gas:candidate-vibid:1001000225869": 498,
+      "special:against-all": 143
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=22000045&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=202200066860&region=0&sub_region=0&type=429",
@@ -3051,16 +3051,16 @@ export const duma_2003_uik_428_region_3_part_009 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Богданова Дарья Максимовна": 38,
-      "Генералов Михаил Афанасьевич": 12,
-      "Джалилов Рафаиль Алиевич": 51,
-      "Диков Павел Михайлович": 45,
-      "Зарифьянов Рафис Раисович": 127,
-      "Ишбульдин Ирек Хайрутдинович": 127,
-      "Квят Вячеслав Яковлевич": 249,
-      "Сексяева Вера Кирилловна": 125,
-      "Фурман Александр Борисович": 473,
-      "Против всех": 125
+      "gas:candidate-vibid:1001000194996": 38,
+      "gas:candidate-vibid:302300467057": 12,
+      "gas:candidate-vibid:302300466831": 51,
+      "gas:candidate-vibid:1001000187981": 45,
+      "gas:candidate-vibid:1001000135992": 127,
+      "gas:candidate-vibid:302300466837": 127,
+      "gas:candidate-vibid:302300467045": 249,
+      "gas:candidate-vibid:1001000121786": 125,
+      "gas:candidate-vibid:1001000225869": 473,
+      "special:against-all": 125
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=22000045&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=202200066860&region=0&sub_region=0&type=429",
@@ -3110,16 +3110,16 @@ export const duma_2003_uik_428_region_3_part_009 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Богданова Дарья Максимовна": 30,
-      "Генералов Михаил Афанасьевич": 15,
-      "Джалилов Рафаиль Алиевич": 53,
-      "Диков Павел Михайлович": 46,
-      "Зарифьянов Рафис Раисович": 77,
-      "Ишбульдин Ирек Хайрутдинович": 116,
-      "Квят Вячеслав Яковлевич": 271,
-      "Сексяева Вера Кирилловна": 152,
-      "Фурман Александр Борисович": 497,
-      "Против всех": 142
+      "gas:candidate-vibid:1001000194996": 30,
+      "gas:candidate-vibid:302300467057": 15,
+      "gas:candidate-vibid:302300466831": 53,
+      "gas:candidate-vibid:1001000187981": 46,
+      "gas:candidate-vibid:1001000135992": 77,
+      "gas:candidate-vibid:302300466837": 116,
+      "gas:candidate-vibid:302300467045": 271,
+      "gas:candidate-vibid:1001000121786": 152,
+      "gas:candidate-vibid:1001000225869": 497,
+      "special:against-all": 142
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=22000045&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=202200066860&region=0&sub_region=0&type=429",
@@ -3169,16 +3169,16 @@ export const duma_2003_uik_428_region_3_part_009 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Богданова Дарья Максимовна": 50,
-      "Генералов Михаил Афанасьевич": 19,
-      "Джалилов Рафаиль Алиевич": 69,
-      "Диков Павел Михайлович": 57,
-      "Зарифьянов Рафис Раисович": 122,
-      "Ишбульдин Ирек Хайрутдинович": 108,
-      "Квят Вячеслав Яковлевич": 357,
-      "Сексяева Вера Кирилловна": 158,
-      "Фурман Александр Борисович": 461,
-      "Против всех": 149
+      "gas:candidate-vibid:1001000194996": 50,
+      "gas:candidate-vibid:302300467057": 19,
+      "gas:candidate-vibid:302300466831": 69,
+      "gas:candidate-vibid:1001000187981": 57,
+      "gas:candidate-vibid:1001000135992": 122,
+      "gas:candidate-vibid:302300466837": 108,
+      "gas:candidate-vibid:302300467045": 357,
+      "gas:candidate-vibid:1001000121786": 158,
+      "gas:candidate-vibid:1001000225869": 461,
+      "special:against-all": 149
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=22000045&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=202200066860&region=0&sub_region=0&type=429",
@@ -3228,16 +3228,16 @@ export const duma_2003_uik_428_region_3_part_009 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Богданова Дарья Максимовна": 42,
-      "Генералов Михаил Афанасьевич": 22,
-      "Джалилов Рафаиль Алиевич": 46,
-      "Диков Павел Михайлович": 52,
-      "Зарифьянов Рафис Раисович": 133,
-      "Ишбульдин Ирек Хайрутдинович": 128,
-      "Квят Вячеслав Яковлевич": 294,
-      "Сексяева Вера Кирилловна": 144,
-      "Фурман Александр Борисович": 502,
-      "Против всех": 136
+      "gas:candidate-vibid:1001000194996": 42,
+      "gas:candidate-vibid:302300467057": 22,
+      "gas:candidate-vibid:302300466831": 46,
+      "gas:candidate-vibid:1001000187981": 52,
+      "gas:candidate-vibid:1001000135992": 133,
+      "gas:candidate-vibid:302300466837": 128,
+      "gas:candidate-vibid:302300467045": 294,
+      "gas:candidate-vibid:1001000121786": 144,
+      "gas:candidate-vibid:1001000225869": 502,
+      "special:against-all": 136
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=22000045&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=202200066860&region=0&sub_region=0&type=429",
@@ -3287,16 +3287,16 @@ export const duma_2003_uik_428_region_3_part_009 = [
       "Число не учтенных при получении бюллетеней": 2
     },
     "votes": {
-      "Богданова Дарья Максимовна": 38,
-      "Генералов Михаил Афанасьевич": 16,
-      "Джалилов Рафаиль Алиевич": 41,
-      "Диков Павел Михайлович": 43,
-      "Зарифьянов Рафис Раисович": 118,
-      "Ишбульдин Ирек Хайрутдинович": 96,
-      "Квят Вячеслав Яковлевич": 408,
-      "Сексяева Вера Кирилловна": 186,
-      "Фурман Александр Борисович": 544,
-      "Против всех": 180
+      "gas:candidate-vibid:1001000194996": 38,
+      "gas:candidate-vibid:302300467057": 16,
+      "gas:candidate-vibid:302300466831": 41,
+      "gas:candidate-vibid:1001000187981": 43,
+      "gas:candidate-vibid:1001000135992": 118,
+      "gas:candidate-vibid:302300466837": 96,
+      "gas:candidate-vibid:302300467045": 408,
+      "gas:candidate-vibid:1001000121786": 186,
+      "gas:candidate-vibid:1001000225869": 544,
+      "special:against-all": 180
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=22000045&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=202200066860&region=0&sub_region=0&type=429",
@@ -3346,16 +3346,16 @@ export const duma_2003_uik_428_region_3_part_009 = [
       "Число не учтенных при получении бюллетеней": 1
     },
     "votes": {
-      "Богданова Дарья Максимовна": 39,
-      "Генералов Михаил Афанасьевич": 14,
-      "Джалилов Рафаиль Алиевич": 46,
-      "Диков Павел Михайлович": 44,
-      "Зарифьянов Рафис Раисович": 103,
-      "Ишбульдин Ирек Хайрутдинович": 209,
-      "Квят Вячеслав Яковлевич": 463,
-      "Сексяева Вера Кирилловна": 193,
-      "Фурман Александр Борисович": 451,
-      "Против всех": 178
+      "gas:candidate-vibid:1001000194996": 39,
+      "gas:candidate-vibid:302300467057": 14,
+      "gas:candidate-vibid:302300466831": 46,
+      "gas:candidate-vibid:1001000187981": 44,
+      "gas:candidate-vibid:1001000135992": 103,
+      "gas:candidate-vibid:302300466837": 209,
+      "gas:candidate-vibid:302300467045": 463,
+      "gas:candidate-vibid:1001000121786": 193,
+      "gas:candidate-vibid:1001000225869": 451,
+      "special:against-all": 178
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=22000045&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=202200066860&region=0&sub_region=0&type=429",
@@ -3405,16 +3405,16 @@ export const duma_2003_uik_428_region_3_part_009 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Богданова Дарья Максимовна": 44,
-      "Генералов Михаил Афанасьевич": 29,
-      "Джалилов Рафаиль Алиевич": 89,
-      "Диков Павел Михайлович": 32,
-      "Зарифьянов Рафис Раисович": 146,
-      "Ишбульдин Ирек Хайрутдинович": 160,
-      "Квят Вячеслав Яковлевич": 293,
-      "Сексяева Вера Кирилловна": 178,
-      "Фурман Александр Борисович": 533,
-      "Против всех": 222
+      "gas:candidate-vibid:1001000194996": 44,
+      "gas:candidate-vibid:302300467057": 29,
+      "gas:candidate-vibid:302300466831": 89,
+      "gas:candidate-vibid:1001000187981": 32,
+      "gas:candidate-vibid:1001000135992": 146,
+      "gas:candidate-vibid:302300466837": 160,
+      "gas:candidate-vibid:302300467045": 293,
+      "gas:candidate-vibid:1001000121786": 178,
+      "gas:candidate-vibid:1001000225869": 533,
+      "special:against-all": 222
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=22000045&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=202200066860&region=0&sub_region=0&type=429",
@@ -3464,16 +3464,16 @@ export const duma_2003_uik_428_region_3_part_009 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Богданова Дарья Максимовна": 49,
-      "Генералов Михаил Афанасьевич": 16,
-      "Джалилов Рафаиль Алиевич": 68,
-      "Диков Павел Михайлович": 39,
-      "Зарифьянов Рафис Раисович": 116,
-      "Ишбульдин Ирек Хайрутдинович": 197,
-      "Квят Вячеслав Яковлевич": 277,
-      "Сексяева Вера Кирилловна": 139,
-      "Фурман Александр Борисович": 549,
-      "Против всех": 189
+      "gas:candidate-vibid:1001000194996": 49,
+      "gas:candidate-vibid:302300467057": 16,
+      "gas:candidate-vibid:302300466831": 68,
+      "gas:candidate-vibid:1001000187981": 39,
+      "gas:candidate-vibid:1001000135992": 116,
+      "gas:candidate-vibid:302300466837": 197,
+      "gas:candidate-vibid:302300467045": 277,
+      "gas:candidate-vibid:1001000121786": 139,
+      "gas:candidate-vibid:1001000225869": 549,
+      "special:against-all": 189
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=22000045&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=202200066860&region=0&sub_region=0&type=429",
@@ -3523,16 +3523,16 @@ export const duma_2003_uik_428_region_3_part_009 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Богданова Дарья Максимовна": 40,
-      "Генералов Михаил Афанасьевич": 24,
-      "Джалилов Рафаиль Алиевич": 37,
-      "Диков Павел Михайлович": 72,
-      "Зарифьянов Рафис Раисович": 113,
-      "Ишбульдин Ирек Хайрутдинович": 146,
-      "Квят Вячеслав Яковлевич": 320,
-      "Сексяева Вера Кирилловна": 124,
-      "Фурман Александр Борисович": 503,
-      "Против всех": 153
+      "gas:candidate-vibid:1001000194996": 40,
+      "gas:candidate-vibid:302300467057": 24,
+      "gas:candidate-vibid:302300466831": 37,
+      "gas:candidate-vibid:1001000187981": 72,
+      "gas:candidate-vibid:1001000135992": 113,
+      "gas:candidate-vibid:302300466837": 146,
+      "gas:candidate-vibid:302300467045": 320,
+      "gas:candidate-vibid:1001000121786": 124,
+      "gas:candidate-vibid:1001000225869": 503,
+      "special:against-all": 153
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=22000045&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=202200066860&region=0&sub_region=0&type=429",
@@ -3582,16 +3582,16 @@ export const duma_2003_uik_428_region_3_part_009 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Богданова Дарья Максимовна": 49,
-      "Генералов Михаил Афанасьевич": 21,
-      "Джалилов Рафаиль Алиевич": 39,
-      "Диков Павел Михайлович": 45,
-      "Зарифьянов Рафис Раисович": 137,
-      "Ишбульдин Ирек Хайрутдинович": 190,
-      "Квят Вячеслав Яковлевич": 189,
-      "Сексяева Вера Кирилловна": 142,
-      "Фурман Александр Борисович": 590,
-      "Против всех": 176
+      "gas:candidate-vibid:1001000194996": 49,
+      "gas:candidate-vibid:302300467057": 21,
+      "gas:candidate-vibid:302300466831": 39,
+      "gas:candidate-vibid:1001000187981": 45,
+      "gas:candidate-vibid:1001000135992": 137,
+      "gas:candidate-vibid:302300466837": 190,
+      "gas:candidate-vibid:302300467045": 189,
+      "gas:candidate-vibid:1001000121786": 142,
+      "gas:candidate-vibid:1001000225869": 590,
+      "special:against-all": 176
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=22000045&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=202200066860&region=0&sub_region=0&type=429",
@@ -3641,16 +3641,16 @@ export const duma_2003_uik_428_region_3_part_009 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Богданова Дарья Максимовна": 18,
-      "Генералов Михаил Афанасьевич": 3,
-      "Джалилов Рафаиль Алиевич": 18,
-      "Диков Павел Михайлович": 6,
-      "Зарифьянов Рафис Раисович": 25,
-      "Ишбульдин Ирек Хайрутдинович": 22,
-      "Квят Вячеслав Яковлевич": 32,
-      "Сексяева Вера Кирилловна": 21,
-      "Фурман Александр Борисович": 62,
-      "Против всех": 20
+      "gas:candidate-vibid:1001000194996": 18,
+      "gas:candidate-vibid:302300467057": 3,
+      "gas:candidate-vibid:302300466831": 18,
+      "gas:candidate-vibid:1001000187981": 6,
+      "gas:candidate-vibid:1001000135992": 25,
+      "gas:candidate-vibid:302300466837": 22,
+      "gas:candidate-vibid:302300467045": 32,
+      "gas:candidate-vibid:1001000121786": 21,
+      "gas:candidate-vibid:1001000225869": 62,
+      "special:against-all": 20
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=22000045&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=202200066860&region=0&sub_region=0&type=429",
@@ -3700,16 +3700,16 @@ export const duma_2003_uik_428_region_3_part_009 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Богданова Дарья Максимовна": 39,
-      "Генералов Михаил Афанасьевич": 19,
-      "Джалилов Рафаиль Алиевич": 53,
-      "Диков Павел Михайлович": 51,
-      "Зарифьянов Рафис Раисович": 139,
-      "Ишбульдин Ирек Хайрутдинович": 115,
-      "Квят Вячеслав Яковлевич": 293,
-      "Сексяева Вера Кирилловна": 148,
-      "Фурман Александр Борисович": 579,
-      "Против всех": 175
+      "gas:candidate-vibid:1001000194996": 39,
+      "gas:candidate-vibid:302300467057": 19,
+      "gas:candidate-vibid:302300466831": 53,
+      "gas:candidate-vibid:1001000187981": 51,
+      "gas:candidate-vibid:1001000135992": 139,
+      "gas:candidate-vibid:302300466837": 115,
+      "gas:candidate-vibid:302300467045": 293,
+      "gas:candidate-vibid:1001000121786": 148,
+      "gas:candidate-vibid:1001000225869": 579,
+      "special:against-all": 175
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=22000045&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=202200066860&region=0&sub_region=0&type=429",
@@ -3759,16 +3759,16 @@ export const duma_2003_uik_428_region_3_part_009 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Богданова Дарья Максимовна": 32,
-      "Генералов Михаил Афанасьевич": 10,
-      "Джалилов Рафаиль Алиевич": 38,
-      "Диков Павел Михайлович": 34,
-      "Зарифьянов Рафис Раисович": 119,
-      "Ишбульдин Ирек Хайрутдинович": 117,
-      "Квят Вячеслав Яковлевич": 192,
-      "Сексяева Вера Кирилловна": 144,
-      "Фурман Александр Борисович": 497,
-      "Против всех": 158
+      "gas:candidate-vibid:1001000194996": 32,
+      "gas:candidate-vibid:302300467057": 10,
+      "gas:candidate-vibid:302300466831": 38,
+      "gas:candidate-vibid:1001000187981": 34,
+      "gas:candidate-vibid:1001000135992": 119,
+      "gas:candidate-vibid:302300466837": 117,
+      "gas:candidate-vibid:302300467045": 192,
+      "gas:candidate-vibid:1001000121786": 144,
+      "gas:candidate-vibid:1001000225869": 497,
+      "special:against-all": 158
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=22000045&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=202200066860&region=0&sub_region=0&type=429",
@@ -3818,16 +3818,16 @@ export const duma_2003_uik_428_region_3_part_009 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Богданова Дарья Максимовна": 12,
-      "Генералов Михаил Афанасьевич": 6,
-      "Джалилов Рафаиль Алиевич": 5,
-      "Диков Павел Михайлович": 5,
-      "Зарифьянов Рафис Раисович": 14,
-      "Ишбульдин Ирек Хайрутдинович": 7,
-      "Квят Вячеслав Яковлевич": 8,
-      "Сексяева Вера Кирилловна": 10,
-      "Фурман Александр Борисович": 129,
-      "Против всех": 11
+      "gas:candidate-vibid:1001000194996": 12,
+      "gas:candidate-vibid:302300467057": 6,
+      "gas:candidate-vibid:302300466831": 5,
+      "gas:candidate-vibid:1001000187981": 5,
+      "gas:candidate-vibid:1001000135992": 14,
+      "gas:candidate-vibid:302300466837": 7,
+      "gas:candidate-vibid:302300467045": 8,
+      "gas:candidate-vibid:1001000121786": 10,
+      "gas:candidate-vibid:1001000225869": 129,
+      "special:against-all": 11
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=22000045&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=202200066860&region=0&sub_region=0&type=429",
@@ -3877,16 +3877,16 @@ export const duma_2003_uik_428_region_3_part_009 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Богданова Дарья Максимовна": 45,
-      "Генералов Михаил Афанасьевич": 19,
-      "Джалилов Рафаиль Алиевич": 45,
-      "Диков Павел Михайлович": 80,
-      "Зарифьянов Рафис Раисович": 103,
-      "Ишбульдин Ирек Хайрутдинович": 151,
-      "Квят Вячеслав Яковлевич": 269,
-      "Сексяева Вера Кирилловна": 205,
-      "Фурман Александр Борисович": 590,
-      "Против всех": 154
+      "gas:candidate-vibid:1001000194996": 45,
+      "gas:candidate-vibid:302300467057": 19,
+      "gas:candidate-vibid:302300466831": 45,
+      "gas:candidate-vibid:1001000187981": 80,
+      "gas:candidate-vibid:1001000135992": 103,
+      "gas:candidate-vibid:302300466837": 151,
+      "gas:candidate-vibid:302300467045": 269,
+      "gas:candidate-vibid:1001000121786": 205,
+      "gas:candidate-vibid:1001000225869": 590,
+      "special:against-all": 154
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=22000045&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=202200066860&region=0&sub_region=0&type=429",
@@ -3936,16 +3936,16 @@ export const duma_2003_uik_428_region_3_part_009 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Богданова Дарья Максимовна": 48,
-      "Генералов Михаил Афанасьевич": 20,
-      "Джалилов Рафаиль Алиевич": 76,
-      "Диков Павел Михайлович": 0,
-      "Зарифьянов Рафис Раисович": 182,
-      "Ишбульдин Ирек Хайрутдинович": 144,
-      "Квят Вячеслав Яковлевич": 302,
-      "Сексяева Вера Кирилловна": 166,
-      "Фурман Александр Борисович": 552,
-      "Против всех": 199
+      "gas:candidate-vibid:1001000194996": 48,
+      "gas:candidate-vibid:302300467057": 20,
+      "gas:candidate-vibid:302300466831": 76,
+      "gas:candidate-vibid:1001000187981": 0,
+      "gas:candidate-vibid:1001000135992": 182,
+      "gas:candidate-vibid:302300466837": 144,
+      "gas:candidate-vibid:302300467045": 302,
+      "gas:candidate-vibid:1001000121786": 166,
+      "gas:candidate-vibid:1001000225869": 552,
+      "special:against-all": 199
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=22000045&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=202200066860&region=0&sub_region=0&type=429",
@@ -3995,16 +3995,16 @@ export const duma_2003_uik_428_region_3_part_009 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Богданова Дарья Максимовна": 48,
-      "Генералов Михаил Афанасьевич": 21,
-      "Джалилов Рафаиль Алиевич": 74,
-      "Диков Павел Михайлович": 43,
-      "Зарифьянов Рафис Раисович": 129,
-      "Ишбульдин Ирек Хайрутдинович": 187,
-      "Квят Вячеслав Яковлевич": 246,
-      "Сексяева Вера Кирилловна": 140,
-      "Фурман Александр Борисович": 610,
-      "Против всех": 211
+      "gas:candidate-vibid:1001000194996": 48,
+      "gas:candidate-vibid:302300467057": 21,
+      "gas:candidate-vibid:302300466831": 74,
+      "gas:candidate-vibid:1001000187981": 43,
+      "gas:candidate-vibid:1001000135992": 129,
+      "gas:candidate-vibid:302300466837": 187,
+      "gas:candidate-vibid:302300467045": 246,
+      "gas:candidate-vibid:1001000121786": 140,
+      "gas:candidate-vibid:1001000225869": 610,
+      "special:against-all": 211
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=22000045&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=202200066860&region=0&sub_region=0&type=429",
@@ -4054,16 +4054,16 @@ export const duma_2003_uik_428_region_3_part_009 = [
       "Число не учтенных при получении бюллетеней": 1
     },
     "votes": {
-      "Богданова Дарья Максимовна": 50,
-      "Генералов Михаил Афанасьевич": 15,
-      "Джалилов Рафаиль Алиевич": 57,
-      "Диков Павел Михайлович": 52,
-      "Зарифьянов Рафис Раисович": 128,
-      "Ишбульдин Ирек Хайрутдинович": 112,
-      "Квят Вячеслав Яковлевич": 289,
-      "Сексяева Вера Кирилловна": 153,
-      "Фурман Александр Борисович": 480,
-      "Против всех": 192
+      "gas:candidate-vibid:1001000194996": 50,
+      "gas:candidate-vibid:302300467057": 15,
+      "gas:candidate-vibid:302300466831": 57,
+      "gas:candidate-vibid:1001000187981": 52,
+      "gas:candidate-vibid:1001000135992": 128,
+      "gas:candidate-vibid:302300466837": 112,
+      "gas:candidate-vibid:302300467045": 289,
+      "gas:candidate-vibid:1001000121786": 153,
+      "gas:candidate-vibid:1001000225869": 480,
+      "special:against-all": 192
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=22000045&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=202200066860&region=0&sub_region=0&type=429",
@@ -4113,16 +4113,16 @@ export const duma_2003_uik_428_region_3_part_009 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Богданова Дарья Максимовна": 43,
-      "Генералов Михаил Афанасьевич": 15,
-      "Джалилов Рафаиль Алиевич": 52,
-      "Диков Павел Михайлович": 31,
-      "Зарифьянов Рафис Раисович": 141,
-      "Ишбульдин Ирек Хайрутдинович": 120,
-      "Квят Вячеслав Яковлевич": 350,
-      "Сексяева Вера Кирилловна": 101,
-      "Фурман Александр Борисович": 550,
-      "Против всех": 167
+      "gas:candidate-vibid:1001000194996": 43,
+      "gas:candidate-vibid:302300467057": 15,
+      "gas:candidate-vibid:302300466831": 52,
+      "gas:candidate-vibid:1001000187981": 31,
+      "gas:candidate-vibid:1001000135992": 141,
+      "gas:candidate-vibid:302300466837": 120,
+      "gas:candidate-vibid:302300467045": 350,
+      "gas:candidate-vibid:1001000121786": 101,
+      "gas:candidate-vibid:1001000225869": 550,
+      "special:against-all": 167
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=22000045&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=202200066860&region=0&sub_region=0&type=429",
@@ -4172,16 +4172,16 @@ export const duma_2003_uik_428_region_3_part_009 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Богданова Дарья Максимовна": 61,
-      "Генералов Михаил Афанасьевич": 14,
-      "Джалилов Рафаиль Алиевич": 54,
-      "Диков Павел Михайлович": 49,
-      "Зарифьянов Рафис Раисович": 165,
-      "Ишбульдин Ирек Хайрутдинович": 158,
-      "Квят Вячеслав Яковлевич": 323,
-      "Сексяева Вера Кирилловна": 164,
-      "Фурман Александр Борисович": 536,
-      "Против всех": 191
+      "gas:candidate-vibid:1001000194996": 61,
+      "gas:candidate-vibid:302300467057": 14,
+      "gas:candidate-vibid:302300466831": 54,
+      "gas:candidate-vibid:1001000187981": 49,
+      "gas:candidate-vibid:1001000135992": 165,
+      "gas:candidate-vibid:302300466837": 158,
+      "gas:candidate-vibid:302300467045": 323,
+      "gas:candidate-vibid:1001000121786": 164,
+      "gas:candidate-vibid:1001000225869": 536,
+      "special:against-all": 191
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=22000045&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=202200066860&region=0&sub_region=0&type=429",
@@ -4231,16 +4231,16 @@ export const duma_2003_uik_428_region_3_part_009 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Богданова Дарья Максимовна": 39,
-      "Генералов Михаил Афанасьевич": 18,
-      "Джалилов Рафаиль Алиевич": 53,
-      "Диков Павел Михайлович": 24,
-      "Зарифьянов Рафис Раисович": 128,
-      "Ишбульдин Ирек Хайрутдинович": 162,
-      "Квят Вячеслав Яковлевич": 231,
-      "Сексяева Вера Кирилловна": 163,
-      "Фурман Александр Борисович": 561,
-      "Против всех": 165
+      "gas:candidate-vibid:1001000194996": 39,
+      "gas:candidate-vibid:302300467057": 18,
+      "gas:candidate-vibid:302300466831": 53,
+      "gas:candidate-vibid:1001000187981": 24,
+      "gas:candidate-vibid:1001000135992": 128,
+      "gas:candidate-vibid:302300466837": 162,
+      "gas:candidate-vibid:302300467045": 231,
+      "gas:candidate-vibid:1001000121786": 163,
+      "gas:candidate-vibid:1001000225869": 561,
+      "special:against-all": 165
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=22000045&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=202200066860&region=0&sub_region=0&type=429",
@@ -4290,16 +4290,16 @@ export const duma_2003_uik_428_region_3_part_009 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Богданова Дарья Максимовна": 45,
-      "Генералов Михаил Афанасьевич": 16,
-      "Джалилов Рафаиль Алиевич": 64,
-      "Диков Павел Михайлович": 63,
-      "Зарифьянов Рафис Раисович": 157,
-      "Ишбульдин Ирек Хайрутдинович": 177,
-      "Квят Вячеслав Яковлевич": 256,
-      "Сексяева Вера Кирилловна": 139,
-      "Фурман Александр Борисович": 710,
-      "Против всех": 162
+      "gas:candidate-vibid:1001000194996": 45,
+      "gas:candidate-vibid:302300467057": 16,
+      "gas:candidate-vibid:302300466831": 64,
+      "gas:candidate-vibid:1001000187981": 63,
+      "gas:candidate-vibid:1001000135992": 157,
+      "gas:candidate-vibid:302300466837": 177,
+      "gas:candidate-vibid:302300467045": 256,
+      "gas:candidate-vibid:1001000121786": 139,
+      "gas:candidate-vibid:1001000225869": 710,
+      "special:against-all": 162
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=22000045&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=202200066860&region=0&sub_region=0&type=429",
@@ -4349,16 +4349,16 @@ export const duma_2003_uik_428_region_3_part_009 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Богданова Дарья Максимовна": 46,
-      "Генералов Михаил Афанасьевич": 27,
-      "Джалилов Рафаиль Алиевич": 49,
-      "Диков Павел Михайлович": 45,
-      "Зарифьянов Рафис Раисович": 122,
-      "Ишбульдин Ирек Хайрутдинович": 134,
-      "Квят Вячеслав Яковлевич": 274,
-      "Сексяева Вера Кирилловна": 132,
-      "Фурман Александр Борисович": 561,
-      "Против всех": 189
+      "gas:candidate-vibid:1001000194996": 46,
+      "gas:candidate-vibid:302300467057": 27,
+      "gas:candidate-vibid:302300466831": 49,
+      "gas:candidate-vibid:1001000187981": 45,
+      "gas:candidate-vibid:1001000135992": 122,
+      "gas:candidate-vibid:302300466837": 134,
+      "gas:candidate-vibid:302300467045": 274,
+      "gas:candidate-vibid:1001000121786": 132,
+      "gas:candidate-vibid:1001000225869": 561,
+      "special:against-all": 189
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=22000045&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=202200066860&region=0&sub_region=0&type=429",
@@ -4408,16 +4408,16 @@ export const duma_2003_uik_428_region_3_part_009 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Богданова Дарья Максимовна": 62,
-      "Генералов Михаил Афанасьевич": 29,
-      "Джалилов Рафаиль Алиевич": 54,
-      "Диков Павел Михайлович": 54,
-      "Зарифьянов Рафис Раисович": 141,
-      "Ишбульдин Ирек Хайрутдинович": 120,
-      "Квят Вячеслав Яковлевич": 273,
-      "Сексяева Вера Кирилловна": 184,
-      "Фурман Александр Борисович": 681,
-      "Против всех": 189
+      "gas:candidate-vibid:1001000194996": 62,
+      "gas:candidate-vibid:302300467057": 29,
+      "gas:candidate-vibid:302300466831": 54,
+      "gas:candidate-vibid:1001000187981": 54,
+      "gas:candidate-vibid:1001000135992": 141,
+      "gas:candidate-vibid:302300466837": 120,
+      "gas:candidate-vibid:302300467045": 273,
+      "gas:candidate-vibid:1001000121786": 184,
+      "gas:candidate-vibid:1001000225869": 681,
+      "special:against-all": 189
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=22000045&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=202200066860&region=0&sub_region=0&type=429",
@@ -4467,16 +4467,16 @@ export const duma_2003_uik_428_region_3_part_009 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Богданова Дарья Максимовна": 48,
-      "Генералов Михаил Афанасьевич": 13,
-      "Джалилов Рафаиль Алиевич": 50,
-      "Диков Павел Михайлович": 32,
-      "Зарифьянов Рафис Раисович": 131,
-      "Ишбульдин Ирек Хайрутдинович": 143,
-      "Квят Вячеслав Яковлевич": 274,
-      "Сексяева Вера Кирилловна": 188,
-      "Фурман Александр Борисович": 644,
-      "Против всех": 212
+      "gas:candidate-vibid:1001000194996": 48,
+      "gas:candidate-vibid:302300467057": 13,
+      "gas:candidate-vibid:302300466831": 50,
+      "gas:candidate-vibid:1001000187981": 32,
+      "gas:candidate-vibid:1001000135992": 131,
+      "gas:candidate-vibid:302300466837": 143,
+      "gas:candidate-vibid:302300467045": 274,
+      "gas:candidate-vibid:1001000121786": 188,
+      "gas:candidate-vibid:1001000225869": 644,
+      "special:against-all": 212
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=22000045&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=202200066860&region=0&sub_region=0&type=429",
@@ -4526,16 +4526,16 @@ export const duma_2003_uik_428_region_3_part_009 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Богданова Дарья Максимовна": 58,
-      "Генералов Михаил Афанасьевич": 18,
-      "Джалилов Рафаиль Алиевич": 34,
-      "Диков Павел Михайлович": 40,
-      "Зарифьянов Рафис Раисович": 116,
-      "Ишбульдин Ирек Хайрутдинович": 138,
-      "Квят Вячеслав Яковлевич": 302,
-      "Сексяева Вера Кирилловна": 132,
-      "Фурман Александр Борисович": 384,
-      "Против всех": 159
+      "gas:candidate-vibid:1001000194996": 58,
+      "gas:candidate-vibid:302300467057": 18,
+      "gas:candidate-vibid:302300466831": 34,
+      "gas:candidate-vibid:1001000187981": 40,
+      "gas:candidate-vibid:1001000135992": 116,
+      "gas:candidate-vibid:302300466837": 138,
+      "gas:candidate-vibid:302300467045": 302,
+      "gas:candidate-vibid:1001000121786": 132,
+      "gas:candidate-vibid:1001000225869": 384,
+      "special:against-all": 159
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=22000045&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=202200066860&region=0&sub_region=0&type=429",
@@ -4585,16 +4585,16 @@ export const duma_2003_uik_428_region_3_part_009 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Богданова Дарья Максимовна": 7,
-      "Генералов Михаил Афанасьевич": 3,
-      "Джалилов Рафаиль Алиевич": 7,
-      "Диков Павел Михайлович": 1,
-      "Зарифьянов Рафис Раисович": 13,
-      "Ишбульдин Ирек Хайрутдинович": 6,
-      "Квят Вячеслав Яковлевич": 20,
-      "Сексяева Вера Кирилловна": 15,
-      "Фурман Александр Борисович": 65,
-      "Против всех": 12
+      "gas:candidate-vibid:1001000194996": 7,
+      "gas:candidate-vibid:302300467057": 3,
+      "gas:candidate-vibid:302300466831": 7,
+      "gas:candidate-vibid:1001000187981": 1,
+      "gas:candidate-vibid:1001000135992": 13,
+      "gas:candidate-vibid:302300466837": 6,
+      "gas:candidate-vibid:302300467045": 20,
+      "gas:candidate-vibid:1001000121786": 15,
+      "gas:candidate-vibid:1001000225869": 65,
+      "special:against-all": 12
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=22000045&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=202200066860&region=0&sub_region=0&type=429",
@@ -4644,16 +4644,16 @@ export const duma_2003_uik_428_region_3_part_009 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Богданова Дарья Максимовна": 5,
-      "Генералов Михаил Афанасьевич": 3,
-      "Джалилов Рафаиль Алиевич": 3,
-      "Диков Павел Михайлович": 3,
-      "Зарифьянов Рафис Раисович": 10,
-      "Ишбульдин Ирек Хайрутдинович": 18,
-      "Квят Вячеслав Яковлевич": 40,
-      "Сексяева Вера Кирилловна": 27,
-      "Фурман Александр Борисович": 102,
-      "Против всех": 20
+      "gas:candidate-vibid:1001000194996": 5,
+      "gas:candidate-vibid:302300467057": 3,
+      "gas:candidate-vibid:302300466831": 3,
+      "gas:candidate-vibid:1001000187981": 3,
+      "gas:candidate-vibid:1001000135992": 10,
+      "gas:candidate-vibid:302300466837": 18,
+      "gas:candidate-vibid:302300467045": 40,
+      "gas:candidate-vibid:1001000121786": 27,
+      "gas:candidate-vibid:1001000225869": 102,
+      "special:against-all": 20
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=22000045&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=202200066860&region=0&sub_region=0&type=429",
@@ -4703,16 +4703,16 @@ export const duma_2003_uik_428_region_3_part_009 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Богданова Дарья Максимовна": 40,
-      "Генералов Михаил Афанасьевич": 26,
-      "Джалилов Рафаиль Алиевич": 66,
-      "Диков Павел Михайлович": 30,
-      "Зарифьянов Рафис Раисович": 124,
-      "Ишбульдин Ирек Хайрутдинович": 105,
-      "Квят Вячеслав Яковлевич": 299,
-      "Сексяева Вера Кирилловна": 200,
-      "Фурман Александр Борисович": 548,
-      "Против всех": 152
+      "gas:candidate-vibid:1001000194996": 40,
+      "gas:candidate-vibid:302300467057": 26,
+      "gas:candidate-vibid:302300466831": 66,
+      "gas:candidate-vibid:1001000187981": 30,
+      "gas:candidate-vibid:1001000135992": 124,
+      "gas:candidate-vibid:302300466837": 105,
+      "gas:candidate-vibid:302300467045": 299,
+      "gas:candidate-vibid:1001000121786": 200,
+      "gas:candidate-vibid:1001000225869": 548,
+      "special:against-all": 152
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=22000045&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=202200066860&region=0&sub_region=0&type=429",
@@ -4762,16 +4762,16 @@ export const duma_2003_uik_428_region_3_part_009 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Богданова Дарья Максимовна": 62,
-      "Генералов Михаил Афанасьевич": 23,
-      "Джалилов Рафаиль Алиевич": 65,
-      "Диков Павел Михайлович": 54,
-      "Зарифьянов Рафис Раисович": 155,
-      "Ишбульдин Ирек Хайрутдинович": 94,
-      "Квят Вячеслав Яковлевич": 255,
-      "Сексяева Вера Кирилловна": 169,
-      "Фурман Александр Борисович": 496,
-      "Против всех": 162
+      "gas:candidate-vibid:1001000194996": 62,
+      "gas:candidate-vibid:302300467057": 23,
+      "gas:candidate-vibid:302300466831": 65,
+      "gas:candidate-vibid:1001000187981": 54,
+      "gas:candidate-vibid:1001000135992": 155,
+      "gas:candidate-vibid:302300466837": 94,
+      "gas:candidate-vibid:302300467045": 255,
+      "gas:candidate-vibid:1001000121786": 169,
+      "gas:candidate-vibid:1001000225869": 496,
+      "special:against-all": 162
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=22000045&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=202200066860&region=0&sub_region=0&type=429",
@@ -4821,16 +4821,16 @@ export const duma_2003_uik_428_region_3_part_009 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Богданова Дарья Максимовна": 66,
-      "Генералов Михаил Афанасьевич": 31,
-      "Джалилов Рафаиль Алиевич": 62,
-      "Диков Павел Михайлович": 43,
-      "Зарифьянов Рафис Раисович": 182,
-      "Ишбульдин Ирек Хайрутдинович": 155,
-      "Квят Вячеслав Яковлевич": 190,
-      "Сексяева Вера Кирилловна": 203,
-      "Фурман Александр Борисович": 566,
-      "Против всех": 156
+      "gas:candidate-vibid:1001000194996": 66,
+      "gas:candidate-vibid:302300467057": 31,
+      "gas:candidate-vibid:302300466831": 62,
+      "gas:candidate-vibid:1001000187981": 43,
+      "gas:candidate-vibid:1001000135992": 182,
+      "gas:candidate-vibid:302300466837": 155,
+      "gas:candidate-vibid:302300467045": 190,
+      "gas:candidate-vibid:1001000121786": 203,
+      "gas:candidate-vibid:1001000225869": 566,
+      "special:against-all": 156
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=22000045&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=202200066860&region=0&sub_region=0&type=429",
@@ -4880,16 +4880,16 @@ export const duma_2003_uik_428_region_3_part_009 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Богданова Дарья Максимовна": 47,
-      "Генералов Михаил Афанасьевич": 29,
-      "Джалилов Рафаиль Алиевич": 66,
-      "Диков Павел Михайлович": 54,
-      "Зарифьянов Рафис Раисович": 150,
-      "Ишбульдин Ирек Хайрутдинович": 143,
-      "Квят Вячеслав Яковлевич": 178,
-      "Сексяева Вера Кирилловна": 154,
-      "Фурман Александр Борисович": 655,
-      "Против всех": 181
+      "gas:candidate-vibid:1001000194996": 47,
+      "gas:candidate-vibid:302300467057": 29,
+      "gas:candidate-vibid:302300466831": 66,
+      "gas:candidate-vibid:1001000187981": 54,
+      "gas:candidate-vibid:1001000135992": 150,
+      "gas:candidate-vibid:302300466837": 143,
+      "gas:candidate-vibid:302300467045": 178,
+      "gas:candidate-vibid:1001000121786": 154,
+      "gas:candidate-vibid:1001000225869": 655,
+      "special:against-all": 181
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=22000045&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=202200066860&region=0&sub_region=0&type=429",
@@ -4939,16 +4939,16 @@ export const duma_2003_uik_428_region_3_part_009 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Богданова Дарья Максимовна": 62,
-      "Генералов Михаил Афанасьевич": 29,
-      "Джалилов Рафаиль Алиевич": 71,
-      "Диков Павел Михайлович": 49,
-      "Зарифьянов Рафис Раисович": 174,
-      "Ишбульдин Ирек Хайрутдинович": 203,
-      "Квят Вячеслав Яковлевич": 197,
-      "Сексяева Вера Кирилловна": 171,
-      "Фурман Александр Борисович": 697,
-      "Против всех": 187
+      "gas:candidate-vibid:1001000194996": 62,
+      "gas:candidate-vibid:302300467057": 29,
+      "gas:candidate-vibid:302300466831": 71,
+      "gas:candidate-vibid:1001000187981": 49,
+      "gas:candidate-vibid:1001000135992": 174,
+      "gas:candidate-vibid:302300466837": 203,
+      "gas:candidate-vibid:302300467045": 197,
+      "gas:candidate-vibid:1001000121786": 171,
+      "gas:candidate-vibid:1001000225869": 697,
+      "special:against-all": 187
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=22000045&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=202200066860&region=0&sub_region=0&type=429",
@@ -4998,16 +4998,16 @@ export const duma_2003_uik_428_region_3_part_009 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Богданова Дарья Максимовна": 38,
-      "Генералов Михаил Афанасьевич": 14,
-      "Джалилов Рафаиль Алиевич": 45,
-      "Диков Павел Михайлович": 18,
-      "Зарифьянов Рафис Раисович": 79,
-      "Ишбульдин Ирек Хайрутдинович": 95,
-      "Квят Вячеслав Яковлевич": 225,
-      "Сексяева Вера Кирилловна": 123,
-      "Фурман Александр Борисович": 429,
-      "Против всех": 106
+      "gas:candidate-vibid:1001000194996": 38,
+      "gas:candidate-vibid:302300467057": 14,
+      "gas:candidate-vibid:302300466831": 45,
+      "gas:candidate-vibid:1001000187981": 18,
+      "gas:candidate-vibid:1001000135992": 79,
+      "gas:candidate-vibid:302300466837": 95,
+      "gas:candidate-vibid:302300467045": 225,
+      "gas:candidate-vibid:1001000121786": 123,
+      "gas:candidate-vibid:1001000225869": 429,
+      "special:against-all": 106
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=22000045&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=202200066860&region=0&sub_region=0&type=429",
@@ -5057,16 +5057,16 @@ export const duma_2003_uik_428_region_3_part_009 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Богданова Дарья Максимовна": 48,
-      "Генералов Михаил Афанасьевич": 19,
-      "Джалилов Рафаиль Алиевич": 19,
-      "Диков Павел Михайлович": 44,
-      "Зарифьянов Рафис Раисович": 82,
-      "Ишбульдин Ирек Хайрутдинович": 35,
-      "Квят Вячеслав Яковлевич": 458,
-      "Сексяева Вера Кирилловна": 71,
-      "Фурман Александр Борисович": 426,
-      "Против всех": 113
+      "gas:candidate-vibid:1001000194996": 48,
+      "gas:candidate-vibid:302300467057": 19,
+      "gas:candidate-vibid:302300466831": 19,
+      "gas:candidate-vibid:1001000187981": 44,
+      "gas:candidate-vibid:1001000135992": 82,
+      "gas:candidate-vibid:302300466837": 35,
+      "gas:candidate-vibid:302300467045": 458,
+      "gas:candidate-vibid:1001000121786": 71,
+      "gas:candidate-vibid:1001000225869": 426,
+      "special:against-all": 113
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=22000045&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=202200066860&region=0&sub_region=0&type=429",
@@ -5116,16 +5116,16 @@ export const duma_2003_uik_428_region_3_part_009 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Богданова Дарья Максимовна": 32,
-      "Генералов Михаил Афанасьевич": 16,
-      "Джалилов Рафаиль Алиевич": 31,
-      "Диков Павел Михайлович": 23,
-      "Зарифьянов Рафис Раисович": 92,
-      "Ишбульдин Ирек Хайрутдинович": 62,
-      "Квят Вячеслав Яковлевич": 370,
-      "Сексяева Вера Кирилловна": 66,
-      "Фурман Александр Борисович": 374,
-      "Против всех": 97
+      "gas:candidate-vibid:1001000194996": 32,
+      "gas:candidate-vibid:302300467057": 16,
+      "gas:candidate-vibid:302300466831": 31,
+      "gas:candidate-vibid:1001000187981": 23,
+      "gas:candidate-vibid:1001000135992": 92,
+      "gas:candidate-vibid:302300466837": 62,
+      "gas:candidate-vibid:302300467045": 370,
+      "gas:candidate-vibid:1001000121786": 66,
+      "gas:candidate-vibid:1001000225869": 374,
+      "special:against-all": 97
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=22000045&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=202200066860&region=0&sub_region=0&type=429",
@@ -5175,16 +5175,16 @@ export const duma_2003_uik_428_region_3_part_009 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Богданова Дарья Максимовна": 89,
-      "Генералов Михаил Афанасьевич": 32,
-      "Джалилов Рафаиль Алиевич": 63,
-      "Диков Павел Михайлович": 45,
-      "Зарифьянов Рафис Раисович": 237,
-      "Ишбульдин Ирек Хайрутдинович": 212,
-      "Квят Вячеслав Яковлевич": 193,
-      "Сексяева Вера Кирилловна": 220,
-      "Фурман Александр Борисович": 514,
-      "Против всех": 223
+      "gas:candidate-vibid:1001000194996": 89,
+      "gas:candidate-vibid:302300467057": 32,
+      "gas:candidate-vibid:302300466831": 63,
+      "gas:candidate-vibid:1001000187981": 45,
+      "gas:candidate-vibid:1001000135992": 237,
+      "gas:candidate-vibid:302300466837": 212,
+      "gas:candidate-vibid:302300467045": 193,
+      "gas:candidate-vibid:1001000121786": 220,
+      "gas:candidate-vibid:1001000225869": 514,
+      "special:against-all": 223
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=22000045&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=202200066860&region=0&sub_region=0&type=429",
@@ -5234,16 +5234,16 @@ export const duma_2003_uik_428_region_3_part_009 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Богданова Дарья Максимовна": 12,
-      "Генералов Михаил Афанасьевич": 8,
-      "Джалилов Рафаиль Алиевич": 9,
-      "Диков Павел Михайлович": 10,
-      "Зарифьянов Рафис Раисович": 16,
-      "Ишбульдин Ирек Хайрутдинович": 8,
-      "Квят Вячеслав Яковлевич": 649,
-      "Сексяева Вера Кирилловна": 207,
-      "Фурман Александр Борисович": 235,
-      "Против всех": 43
+      "gas:candidate-vibid:1001000194996": 12,
+      "gas:candidate-vibid:302300467057": 8,
+      "gas:candidate-vibid:302300466831": 9,
+      "gas:candidate-vibid:1001000187981": 10,
+      "gas:candidate-vibid:1001000135992": 16,
+      "gas:candidate-vibid:302300466837": 8,
+      "gas:candidate-vibid:302300467045": 649,
+      "gas:candidate-vibid:1001000121786": 207,
+      "gas:candidate-vibid:1001000225869": 235,
+      "special:against-all": 43
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=22000046&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=202200066861&region=0&sub_region=0&type=429",
@@ -5293,16 +5293,16 @@ export const duma_2003_uik_428_region_3_part_009 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Богданова Дарья Максимовна": 21,
-      "Генералов Михаил Афанасьевич": 15,
-      "Джалилов Рафаиль Алиевич": 9,
-      "Диков Павел Михайлович": 21,
-      "Зарифьянов Рафис Раисович": 12,
-      "Ишбульдин Ирек Хайрутдинович": 10,
-      "Квят Вячеслав Яковлевич": 664,
-      "Сексяева Вера Кирилловна": 189,
-      "Фурман Александр Борисович": 277,
-      "Против всех": 80
+      "gas:candidate-vibid:1001000194996": 21,
+      "gas:candidate-vibid:302300467057": 15,
+      "gas:candidate-vibid:302300466831": 9,
+      "gas:candidate-vibid:1001000187981": 21,
+      "gas:candidate-vibid:1001000135992": 12,
+      "gas:candidate-vibid:302300466837": 10,
+      "gas:candidate-vibid:302300467045": 664,
+      "gas:candidate-vibid:1001000121786": 189,
+      "gas:candidate-vibid:1001000225869": 277,
+      "special:against-all": 80
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=22000046&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=202200066861&region=0&sub_region=0&type=429",
@@ -5352,16 +5352,16 @@ export const duma_2003_uik_428_region_3_part_009 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Богданова Дарья Максимовна": 11,
-      "Генералов Михаил Афанасьевич": 9,
-      "Джалилов Рафаиль Алиевич": 9,
-      "Диков Павел Михайлович": 24,
-      "Зарифьянов Рафис Раисович": 19,
-      "Ишбульдин Ирек Хайрутдинович": 4,
-      "Квят Вячеслав Яковлевич": 1009,
-      "Сексяева Вера Кирилловна": 322,
-      "Фурман Александр Борисович": 340,
-      "Против всех": 75
+      "gas:candidate-vibid:1001000194996": 11,
+      "gas:candidate-vibid:302300467057": 9,
+      "gas:candidate-vibid:302300466831": 9,
+      "gas:candidate-vibid:1001000187981": 24,
+      "gas:candidate-vibid:1001000135992": 19,
+      "gas:candidate-vibid:302300466837": 4,
+      "gas:candidate-vibid:302300467045": 1009,
+      "gas:candidate-vibid:1001000121786": 322,
+      "gas:candidate-vibid:1001000225869": 340,
+      "special:against-all": 75
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=22000046&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=202200066861&region=0&sub_region=0&type=429",
@@ -5411,16 +5411,16 @@ export const duma_2003_uik_428_region_3_part_009 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Богданова Дарья Максимовна": 17,
-      "Генералов Михаил Афанасьевич": 7,
-      "Джалилов Рафаиль Алиевич": 5,
-      "Диков Павел Михайлович": 11,
-      "Зарифьянов Рафис Раисович": 18,
-      "Ишбульдин Ирек Хайрутдинович": 6,
-      "Квят Вячеслав Яковлевич": 490,
-      "Сексяева Вера Кирилловна": 174,
-      "Фурман Александр Борисович": 321,
-      "Против всех": 53
+      "gas:candidate-vibid:1001000194996": 17,
+      "gas:candidate-vibid:302300467057": 7,
+      "gas:candidate-vibid:302300466831": 5,
+      "gas:candidate-vibid:1001000187981": 11,
+      "gas:candidate-vibid:1001000135992": 18,
+      "gas:candidate-vibid:302300466837": 6,
+      "gas:candidate-vibid:302300467045": 490,
+      "gas:candidate-vibid:1001000121786": 174,
+      "gas:candidate-vibid:1001000225869": 321,
+      "special:against-all": 53
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=22000046&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=202200066861&region=0&sub_region=0&type=429",
@@ -5470,16 +5470,16 @@ export const duma_2003_uik_428_region_3_part_009 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Богданова Дарья Максимовна": 14,
-      "Генералов Михаил Афанасьевич": 9,
-      "Джалилов Рафаиль Алиевич": 13,
-      "Диков Павел Михайлович": 17,
-      "Зарифьянов Рафис Раисович": 22,
-      "Ишбульдин Ирек Хайрутдинович": 19,
-      "Квят Вячеслав Яковлевич": 983,
-      "Сексяева Вера Кирилловна": 353,
-      "Фурман Александр Борисович": 429,
-      "Против всех": 103
+      "gas:candidate-vibid:1001000194996": 14,
+      "gas:candidate-vibid:302300467057": 9,
+      "gas:candidate-vibid:302300466831": 13,
+      "gas:candidate-vibid:1001000187981": 17,
+      "gas:candidate-vibid:1001000135992": 22,
+      "gas:candidate-vibid:302300466837": 19,
+      "gas:candidate-vibid:302300467045": 983,
+      "gas:candidate-vibid:1001000121786": 353,
+      "gas:candidate-vibid:1001000225869": 429,
+      "special:against-all": 103
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=22000046&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=202200066861&region=0&sub_region=0&type=429",
@@ -5529,16 +5529,16 @@ export const duma_2003_uik_428_region_3_part_009 = [
       "Число не учтенных при получении бюллетеней": 3
     },
     "votes": {
-      "Богданова Дарья Максимовна": 13,
-      "Генералов Михаил Афанасьевич": 1,
-      "Джалилов Рафаиль Алиевич": 3,
-      "Диков Павел Михайлович": 18,
-      "Зарифьянов Рафис Раисович": 9,
-      "Ишбульдин Ирек Хайрутдинович": 3,
-      "Квят Вячеслав Яковлевич": 655,
-      "Сексяева Вера Кирилловна": 189,
-      "Фурман Александр Борисович": 320,
-      "Против всех": 59
+      "gas:candidate-vibid:1001000194996": 13,
+      "gas:candidate-vibid:302300467057": 1,
+      "gas:candidate-vibid:302300466831": 3,
+      "gas:candidate-vibid:1001000187981": 18,
+      "gas:candidate-vibid:1001000135992": 9,
+      "gas:candidate-vibid:302300466837": 3,
+      "gas:candidate-vibid:302300467045": 655,
+      "gas:candidate-vibid:1001000121786": 189,
+      "gas:candidate-vibid:1001000225869": 320,
+      "special:against-all": 59
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=22000046&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=202200066861&region=0&sub_region=0&type=429",
@@ -5588,16 +5588,16 @@ export const duma_2003_uik_428_region_3_part_009 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Богданова Дарья Максимовна": 20,
-      "Генералов Михаил Афанасьевич": 8,
-      "Джалилов Рафаиль Алиевич": 2,
-      "Диков Павел Михайлович": 19,
-      "Зарифьянов Рафис Раисович": 22,
-      "Ишбульдин Ирек Хайрутдинович": 12,
-      "Квят Вячеслав Яковлевич": 950,
-      "Сексяева Вера Кирилловна": 318,
-      "Фурман Александр Борисович": 370,
-      "Против всех": 82
+      "gas:candidate-vibid:1001000194996": 20,
+      "gas:candidate-vibid:302300467057": 8,
+      "gas:candidate-vibid:302300466831": 2,
+      "gas:candidate-vibid:1001000187981": 19,
+      "gas:candidate-vibid:1001000135992": 22,
+      "gas:candidate-vibid:302300466837": 12,
+      "gas:candidate-vibid:302300467045": 950,
+      "gas:candidate-vibid:1001000121786": 318,
+      "gas:candidate-vibid:1001000225869": 370,
+      "special:against-all": 82
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=22000046&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=202200066861&region=0&sub_region=0&type=429",
@@ -5647,16 +5647,16 @@ export const duma_2003_uik_428_region_3_part_009 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Богданова Дарья Максимовна": 7,
-      "Генералов Михаил Афанасьевич": 3,
-      "Джалилов Рафаиль Алиевич": 2,
-      "Диков Павел Михайлович": 9,
-      "Зарифьянов Рафис Раисович": 5,
-      "Ишбульдин Ирек Хайрутдинович": 6,
-      "Квят Вячеслав Яковлевич": 405,
-      "Сексяева Вера Кирилловна": 119,
-      "Фурман Александр Борисович": 157,
-      "Против всех": 25
+      "gas:candidate-vibid:1001000194996": 7,
+      "gas:candidate-vibid:302300467057": 3,
+      "gas:candidate-vibid:302300466831": 2,
+      "gas:candidate-vibid:1001000187981": 9,
+      "gas:candidate-vibid:1001000135992": 5,
+      "gas:candidate-vibid:302300466837": 6,
+      "gas:candidate-vibid:302300467045": 405,
+      "gas:candidate-vibid:1001000121786": 119,
+      "gas:candidate-vibid:1001000225869": 157,
+      "special:against-all": 25
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=22000046&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=202200066861&region=0&sub_region=0&type=429",
@@ -5706,16 +5706,16 @@ export const duma_2003_uik_428_region_3_part_009 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Богданова Дарья Максимовна": 5,
-      "Генералов Михаил Афанасьевич": 3,
-      "Джалилов Рафаиль Алиевич": 2,
-      "Диков Павел Михайлович": 16,
-      "Зарифьянов Рафис Раисович": 14,
-      "Ишбульдин Ирек Хайрутдинович": 7,
-      "Квят Вячеслав Яковлевич": 677,
-      "Сексяева Вера Кирилловна": 234,
-      "Фурман Александр Борисович": 270,
-      "Против всех": 46
+      "gas:candidate-vibid:1001000194996": 5,
+      "gas:candidate-vibid:302300467057": 3,
+      "gas:candidate-vibid:302300466831": 2,
+      "gas:candidate-vibid:1001000187981": 16,
+      "gas:candidate-vibid:1001000135992": 14,
+      "gas:candidate-vibid:302300466837": 7,
+      "gas:candidate-vibid:302300467045": 677,
+      "gas:candidate-vibid:1001000121786": 234,
+      "gas:candidate-vibid:1001000225869": 270,
+      "special:against-all": 46
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=22000046&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=202200066861&region=0&sub_region=0&type=429",
@@ -5765,16 +5765,16 @@ export const duma_2003_uik_428_region_3_part_009 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Богданова Дарья Максимовна": 16,
-      "Генералов Михаил Афанасьевич": 8,
-      "Джалилов Рафаиль Алиевич": 21,
-      "Диков Павел Михайлович": 10,
-      "Зарифьянов Рафис Раисович": 25,
-      "Ишбульдин Ирек Хайрутдинович": 15,
-      "Квят Вячеслав Яковлевич": 749,
-      "Сексяева Вера Кирилловна": 178,
-      "Фурман Александр Борисович": 441,
-      "Против всех": 103
+      "gas:candidate-vibid:1001000194996": 16,
+      "gas:candidate-vibid:302300467057": 8,
+      "gas:candidate-vibid:302300466831": 21,
+      "gas:candidate-vibid:1001000187981": 10,
+      "gas:candidate-vibid:1001000135992": 25,
+      "gas:candidate-vibid:302300466837": 15,
+      "gas:candidate-vibid:302300467045": 749,
+      "gas:candidate-vibid:1001000121786": 178,
+      "gas:candidate-vibid:1001000225869": 441,
+      "special:against-all": 103
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=22000046&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=202200066861&region=0&sub_region=0&type=429",
@@ -5824,16 +5824,16 @@ export const duma_2003_uik_428_region_3_part_009 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Богданова Дарья Максимовна": 30,
-      "Генералов Михаил Афанасьевич": 7,
-      "Джалилов Рафаиль Алиевич": 26,
-      "Диков Павел Михайлович": 33,
-      "Зарифьянов Рафис Раисович": 31,
-      "Ишбульдин Ирек Хайрутдинович": 33,
-      "Квят Вячеслав Яковлевич": 797,
-      "Сексяева Вера Кирилловна": 259,
-      "Фурман Александр Борисович": 806,
-      "Против всех": 170
+      "gas:candidate-vibid:1001000194996": 30,
+      "gas:candidate-vibid:302300467057": 7,
+      "gas:candidate-vibid:302300466831": 26,
+      "gas:candidate-vibid:1001000187981": 33,
+      "gas:candidate-vibid:1001000135992": 31,
+      "gas:candidate-vibid:302300466837": 33,
+      "gas:candidate-vibid:302300467045": 797,
+      "gas:candidate-vibid:1001000121786": 259,
+      "gas:candidate-vibid:1001000225869": 806,
+      "special:against-all": 170
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=22000046&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=202200066861&region=0&sub_region=0&type=429",
@@ -5883,16 +5883,16 @@ export const duma_2003_uik_428_region_3_part_009 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Богданова Дарья Максимовна": 17,
-      "Генералов Михаил Афанасьевич": 7,
-      "Джалилов Рафаиль Алиевич": 12,
-      "Диков Павел Михайлович": 10,
-      "Зарифьянов Рафис Раисович": 12,
-      "Ишбульдин Ирек Хайрутдинович": 9,
-      "Квят Вячеслав Яковлевич": 799,
-      "Сексяева Вера Кирилловна": 188,
-      "Фурман Александр Борисович": 362,
-      "Против всех": 63
+      "gas:candidate-vibid:1001000194996": 17,
+      "gas:candidate-vibid:302300467057": 7,
+      "gas:candidate-vibid:302300466831": 12,
+      "gas:candidate-vibid:1001000187981": 10,
+      "gas:candidate-vibid:1001000135992": 12,
+      "gas:candidate-vibid:302300466837": 9,
+      "gas:candidate-vibid:302300467045": 799,
+      "gas:candidate-vibid:1001000121786": 188,
+      "gas:candidate-vibid:1001000225869": 362,
+      "special:against-all": 63
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=22000046&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=202200066861&region=0&sub_region=0&type=429",
@@ -5942,16 +5942,16 @@ export const duma_2003_uik_428_region_3_part_009 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Богданова Дарья Максимовна": 12,
-      "Генералов Михаил Афанасьевич": 19,
-      "Джалилов Рафаиль Алиевич": 15,
-      "Диков Павел Михайлович": 30,
-      "Зарифьянов Рафис Раисович": 27,
-      "Ишбульдин Ирек Хайрутдинович": 15,
-      "Квят Вячеслав Яковлевич": 1179,
-      "Сексяева Вера Кирилловна": 268,
-      "Фурман Александр Борисович": 449,
-      "Против всех": 106
+      "gas:candidate-vibid:1001000194996": 12,
+      "gas:candidate-vibid:302300467057": 19,
+      "gas:candidate-vibid:302300466831": 15,
+      "gas:candidate-vibid:1001000187981": 30,
+      "gas:candidate-vibid:1001000135992": 27,
+      "gas:candidate-vibid:302300466837": 15,
+      "gas:candidate-vibid:302300467045": 1179,
+      "gas:candidate-vibid:1001000121786": 268,
+      "gas:candidate-vibid:1001000225869": 449,
+      "special:against-all": 106
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=22000046&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=202200066861&region=0&sub_region=0&type=429",
@@ -6001,16 +6001,16 @@ export const duma_2003_uik_428_region_3_part_009 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Богданова Дарья Максимовна": 7,
-      "Генералов Михаил Афанасьевич": 3,
-      "Джалилов Рафаиль Алиевич": 5,
-      "Диков Павел Михайлович": 5,
-      "Зарифьянов Рафис Раисович": 23,
-      "Ишбульдин Ирек Хайрутдинович": 8,
-      "Квят Вячеслав Яковлевич": 372,
-      "Сексяева Вера Кирилловна": 102,
-      "Фурман Александр Борисович": 180,
-      "Против всех": 20
+      "gas:candidate-vibid:1001000194996": 7,
+      "gas:candidate-vibid:302300467057": 3,
+      "gas:candidate-vibid:302300466831": 5,
+      "gas:candidate-vibid:1001000187981": 5,
+      "gas:candidate-vibid:1001000135992": 23,
+      "gas:candidate-vibid:302300466837": 8,
+      "gas:candidate-vibid:302300467045": 372,
+      "gas:candidate-vibid:1001000121786": 102,
+      "gas:candidate-vibid:1001000225869": 180,
+      "special:against-all": 20
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=22000046&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=202200066861&region=0&sub_region=0&type=429",
@@ -6060,16 +6060,16 @@ export const duma_2003_uik_428_region_3_part_009 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Богданова Дарья Максимовна": 7,
-      "Генералов Михаил Афанасьевич": 4,
-      "Джалилов Рафаиль Алиевич": 3,
-      "Диков Павел Михайлович": 4,
-      "Зарифьянов Рафис Раисович": 6,
-      "Ишбульдин Ирек Хайрутдинович": 3,
-      "Квят Вячеслав Яковлевич": 158,
-      "Сексяева Вера Кирилловна": 42,
-      "Фурман Александр Борисович": 152,
-      "Против всех": 11
+      "gas:candidate-vibid:1001000194996": 7,
+      "gas:candidate-vibid:302300467057": 4,
+      "gas:candidate-vibid:302300466831": 3,
+      "gas:candidate-vibid:1001000187981": 4,
+      "gas:candidate-vibid:1001000135992": 6,
+      "gas:candidate-vibid:302300466837": 3,
+      "gas:candidate-vibid:302300467045": 158,
+      "gas:candidate-vibid:1001000121786": 42,
+      "gas:candidate-vibid:1001000225869": 152,
+      "special:against-all": 11
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=22000046&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=202200066861&region=0&sub_region=0&type=429",
@@ -6119,16 +6119,16 @@ export const duma_2003_uik_428_region_3_part_009 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Богданова Дарья Максимовна": 8,
-      "Генералов Михаил Афанасьевич": 6,
-      "Джалилов Рафаиль Алиевич": 2,
-      "Диков Павел Михайлович": 6,
-      "Зарифьянов Рафис Раисович": 3,
-      "Ишбульдин Ирек Хайрутдинович": 4,
-      "Квят Вячеслав Яковлевич": 123,
-      "Сексяева Вера Кирилловна": 107,
-      "Фурман Александр Борисович": 147,
-      "Против всех": 12
+      "gas:candidate-vibid:1001000194996": 8,
+      "gas:candidate-vibid:302300467057": 6,
+      "gas:candidate-vibid:302300466831": 2,
+      "gas:candidate-vibid:1001000187981": 6,
+      "gas:candidate-vibid:1001000135992": 3,
+      "gas:candidate-vibid:302300466837": 4,
+      "gas:candidate-vibid:302300467045": 123,
+      "gas:candidate-vibid:1001000121786": 107,
+      "gas:candidate-vibid:1001000225869": 147,
+      "special:against-all": 12
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=22000046&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=202200066861&region=0&sub_region=0&type=429",
@@ -6178,16 +6178,16 @@ export const duma_2003_uik_428_region_3_part_009 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Богданова Дарья Максимовна": 5,
-      "Генералов Михаил Афанасьевич": 0,
-      "Джалилов Рафаиль Алиевич": 0,
-      "Диков Павел Михайлович": 2,
-      "Зарифьянов Рафис Раисович": 1,
-      "Ишбульдин Ирек Хайрутдинович": 3,
-      "Квят Вячеслав Яковлевич": 143,
-      "Сексяева Вера Кирилловна": 106,
-      "Фурман Александр Борисович": 55,
-      "Против всех": 6
+      "gas:candidate-vibid:1001000194996": 5,
+      "gas:candidate-vibid:302300467057": 0,
+      "gas:candidate-vibid:302300466831": 0,
+      "gas:candidate-vibid:1001000187981": 2,
+      "gas:candidate-vibid:1001000135992": 1,
+      "gas:candidate-vibid:302300466837": 3,
+      "gas:candidate-vibid:302300467045": 143,
+      "gas:candidate-vibid:1001000121786": 106,
+      "gas:candidate-vibid:1001000225869": 55,
+      "special:against-all": 6
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=22000046&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=202200066861&region=0&sub_region=0&type=429",
@@ -6237,16 +6237,16 @@ export const duma_2003_uik_428_region_3_part_009 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Богданова Дарья Максимовна": 9,
-      "Генералов Михаил Афанасьевич": 2,
-      "Джалилов Рафаиль Алиевич": 3,
-      "Диков Павел Михайлович": 6,
-      "Зарифьянов Рафис Раисович": 5,
-      "Ишбульдин Ирек Хайрутдинович": 1,
-      "Квят Вячеслав Яковлевич": 76,
-      "Сексяева Вера Кирилловна": 40,
-      "Фурман Александр Борисович": 169,
-      "Против всех": 16
+      "gas:candidate-vibid:1001000194996": 9,
+      "gas:candidate-vibid:302300467057": 2,
+      "gas:candidate-vibid:302300466831": 3,
+      "gas:candidate-vibid:1001000187981": 6,
+      "gas:candidate-vibid:1001000135992": 5,
+      "gas:candidate-vibid:302300466837": 1,
+      "gas:candidate-vibid:302300467045": 76,
+      "gas:candidate-vibid:1001000121786": 40,
+      "gas:candidate-vibid:1001000225869": 169,
+      "special:against-all": 16
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=22000046&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=202200066861&region=0&sub_region=0&type=429",
@@ -6296,16 +6296,16 @@ export const duma_2003_uik_428_region_3_part_009 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Богданова Дарья Максимовна": 10,
-      "Генералов Михаил Афанасьевич": 1,
-      "Джалилов Рафаиль Алиевич": 1,
-      "Диков Павел Михайлович": 7,
-      "Зарифьянов Рафис Раисович": 6,
-      "Ишбульдин Ирек Хайрутдинович": 3,
-      "Квят Вячеслав Яковлевич": 124,
-      "Сексяева Вера Кирилловна": 39,
-      "Фурман Александр Борисович": 53,
-      "Против всех": 0
+      "gas:candidate-vibid:1001000194996": 10,
+      "gas:candidate-vibid:302300467057": 1,
+      "gas:candidate-vibid:302300466831": 1,
+      "gas:candidate-vibid:1001000187981": 7,
+      "gas:candidate-vibid:1001000135992": 6,
+      "gas:candidate-vibid:302300466837": 3,
+      "gas:candidate-vibid:302300467045": 124,
+      "gas:candidate-vibid:1001000121786": 39,
+      "gas:candidate-vibid:1001000225869": 53,
+      "special:against-all": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=22000046&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=202200066861&region=0&sub_region=0&type=429",
@@ -6355,16 +6355,16 @@ export const duma_2003_uik_428_region_3_part_009 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Богданова Дарья Максимовна": 15,
-      "Генералов Михаил Афанасьевич": 12,
-      "Джалилов Рафаиль Алиевич": 2,
-      "Диков Павел Михайлович": 11,
-      "Зарифьянов Рафис Раисович": 10,
-      "Ишбульдин Ирек Хайрутдинович": 4,
-      "Квят Вячеслав Яковлевич": 220,
-      "Сексяева Вера Кирилловна": 132,
-      "Фурман Александр Борисович": 170,
-      "Против всех": 36
+      "gas:candidate-vibid:1001000194996": 15,
+      "gas:candidate-vibid:302300467057": 12,
+      "gas:candidate-vibid:302300466831": 2,
+      "gas:candidate-vibid:1001000187981": 11,
+      "gas:candidate-vibid:1001000135992": 10,
+      "gas:candidate-vibid:302300466837": 4,
+      "gas:candidate-vibid:302300467045": 220,
+      "gas:candidate-vibid:1001000121786": 132,
+      "gas:candidate-vibid:1001000225869": 170,
+      "special:against-all": 36
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=22000046&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=202200066861&region=0&sub_region=0&type=429",
@@ -6414,16 +6414,16 @@ export const duma_2003_uik_428_region_3_part_009 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Богданова Дарья Максимовна": 8,
-      "Генералов Михаил Афанасьевич": 2,
-      "Джалилов Рафаиль Алиевич": 5,
-      "Диков Павел Михайлович": 2,
-      "Зарифьянов Рафис Раисович": 10,
-      "Ишбульдин Ирек Хайрутдинович": 6,
-      "Квят Вячеслав Яковлевич": 39,
-      "Сексяева Вера Кирилловна": 55,
-      "Фурман Александр Борисович": 167,
-      "Против всех": 5
+      "gas:candidate-vibid:1001000194996": 8,
+      "gas:candidate-vibid:302300467057": 2,
+      "gas:candidate-vibid:302300466831": 5,
+      "gas:candidate-vibid:1001000187981": 2,
+      "gas:candidate-vibid:1001000135992": 10,
+      "gas:candidate-vibid:302300466837": 6,
+      "gas:candidate-vibid:302300467045": 39,
+      "gas:candidate-vibid:1001000121786": 55,
+      "gas:candidate-vibid:1001000225869": 167,
+      "special:against-all": 5
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=22000046&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=202200066861&region=0&sub_region=0&type=429",
@@ -6473,16 +6473,16 @@ export const duma_2003_uik_428_region_3_part_009 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Богданова Дарья Максимовна": 1,
-      "Генералов Михаил Афанасьевич": 1,
-      "Джалилов Рафаиль Алиевич": 4,
-      "Диков Павел Михайлович": 0,
-      "Зарифьянов Рафис Раисович": 5,
-      "Ишбульдин Ирек Хайрутдинович": 5,
-      "Квят Вячеслав Яковлевич": 37,
-      "Сексяева Вера Кирилловна": 52,
-      "Фурман Александр Борисович": 84,
-      "Против всех": 5
+      "gas:candidate-vibid:1001000194996": 1,
+      "gas:candidate-vibid:302300467057": 1,
+      "gas:candidate-vibid:302300466831": 4,
+      "gas:candidate-vibid:1001000187981": 0,
+      "gas:candidate-vibid:1001000135992": 5,
+      "gas:candidate-vibid:302300466837": 5,
+      "gas:candidate-vibid:302300467045": 37,
+      "gas:candidate-vibid:1001000121786": 52,
+      "gas:candidate-vibid:1001000225869": 84,
+      "special:against-all": 5
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=22000046&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=202200066861&region=0&sub_region=0&type=429",
@@ -6532,16 +6532,16 @@ export const duma_2003_uik_428_region_3_part_009 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Богданова Дарья Максимовна": 4,
-      "Генералов Михаил Афанасьевич": 0,
-      "Джалилов Рафаиль Алиевич": 2,
-      "Диков Павел Михайлович": 0,
-      "Зарифьянов Рафис Раисович": 2,
-      "Ишбульдин Ирек Хайрутдинович": 0,
-      "Квят Вячеслав Яковлевич": 20,
-      "Сексяева Вера Кирилловна": 18,
-      "Фурман Александр Борисович": 54,
-      "Против всех": 6
+      "gas:candidate-vibid:1001000194996": 4,
+      "gas:candidate-vibid:302300467057": 0,
+      "gas:candidate-vibid:302300466831": 2,
+      "gas:candidate-vibid:1001000187981": 0,
+      "gas:candidate-vibid:1001000135992": 2,
+      "gas:candidate-vibid:302300466837": 0,
+      "gas:candidate-vibid:302300467045": 20,
+      "gas:candidate-vibid:1001000121786": 18,
+      "gas:candidate-vibid:1001000225869": 54,
+      "special:against-all": 6
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=22000046&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=202200066861&region=0&sub_region=0&type=429",
@@ -6591,16 +6591,16 @@ export const duma_2003_uik_428_region_3_part_009 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Богданова Дарья Максимовна": 30,
-      "Генералов Михаил Афанасьевич": 12,
-      "Джалилов Рафаиль Алиевич": 4,
-      "Диков Павел Михайлович": 7,
-      "Зарифьянов Рафис Раисович": 11,
-      "Ишбульдин Ирек Хайрутдинович": 3,
-      "Квят Вячеслав Яковлевич": 109,
-      "Сексяева Вера Кирилловна": 86,
-      "Фурман Александр Борисович": 205,
-      "Против всех": 38
+      "gas:candidate-vibid:1001000194996": 30,
+      "gas:candidate-vibid:302300467057": 12,
+      "gas:candidate-vibid:302300466831": 4,
+      "gas:candidate-vibid:1001000187981": 7,
+      "gas:candidate-vibid:1001000135992": 11,
+      "gas:candidate-vibid:302300466837": 3,
+      "gas:candidate-vibid:302300467045": 109,
+      "gas:candidate-vibid:1001000121786": 86,
+      "gas:candidate-vibid:1001000225869": 205,
+      "special:against-all": 38
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=22000046&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=202200066861&region=0&sub_region=0&type=429",
@@ -6650,16 +6650,16 @@ export const duma_2003_uik_428_region_3_part_009 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Богданова Дарья Максимовна": 2,
-      "Генералов Михаил Афанасьевич": 4,
-      "Джалилов Рафаиль Алиевич": 2,
-      "Диков Павел Михайлович": 2,
-      "Зарифьянов Рафис Раисович": 3,
-      "Ишбульдин Ирек Хайрутдинович": 2,
-      "Квят Вячеслав Яковлевич": 27,
-      "Сексяева Вера Кирилловна": 9,
-      "Фурман Александр Борисович": 9,
-      "Против всех": 2
+      "gas:candidate-vibid:1001000194996": 2,
+      "gas:candidate-vibid:302300467057": 4,
+      "gas:candidate-vibid:302300466831": 2,
+      "gas:candidate-vibid:1001000187981": 2,
+      "gas:candidate-vibid:1001000135992": 3,
+      "gas:candidate-vibid:302300466837": 2,
+      "gas:candidate-vibid:302300467045": 27,
+      "gas:candidate-vibid:1001000121786": 9,
+      "gas:candidate-vibid:1001000225869": 9,
+      "special:against-all": 2
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=22000046&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=202200066861&region=0&sub_region=0&type=429",
@@ -6709,16 +6709,16 @@ export const duma_2003_uik_428_region_3_part_009 = [
       "Число не учтенных при получении бюллетеней": 1
     },
     "votes": {
-      "Богданова Дарья Максимовна": 8,
-      "Генералов Михаил Афанасьевич": 7,
-      "Джалилов Рафаиль Алиевич": 4,
-      "Диков Павел Михайлович": 6,
-      "Зарифьянов Рафис Раисович": 6,
-      "Ишбульдин Ирек Хайрутдинович": 2,
-      "Квят Вячеслав Яковлевич": 88,
-      "Сексяева Вера Кирилловна": 48,
-      "Фурман Александр Борисович": 96,
-      "Против всех": 17
+      "gas:candidate-vibid:1001000194996": 8,
+      "gas:candidate-vibid:302300467057": 7,
+      "gas:candidate-vibid:302300466831": 4,
+      "gas:candidate-vibid:1001000187981": 6,
+      "gas:candidate-vibid:1001000135992": 6,
+      "gas:candidate-vibid:302300466837": 2,
+      "gas:candidate-vibid:302300467045": 88,
+      "gas:candidate-vibid:1001000121786": 48,
+      "gas:candidate-vibid:1001000225869": 96,
+      "special:against-all": 17
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=22000046&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=202200066861&region=0&sub_region=0&type=429",
@@ -6768,16 +6768,16 @@ export const duma_2003_uik_428_region_3_part_009 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Богданова Дарья Максимовна": 2,
-      "Генералов Михаил Афанасьевич": 2,
-      "Джалилов Рафаиль Алиевич": 0,
-      "Диков Павел Михайлович": 0,
-      "Зарифьянов Рафис Раисович": 3,
-      "Ишбульдин Ирек Хайрутдинович": 0,
-      "Квят Вячеслав Яковлевич": 136,
-      "Сексяева Вера Кирилловна": 32,
-      "Фурман Александр Борисович": 62,
-      "Против всех": 6
+      "gas:candidate-vibid:1001000194996": 2,
+      "gas:candidate-vibid:302300467057": 2,
+      "gas:candidate-vibid:302300466831": 0,
+      "gas:candidate-vibid:1001000187981": 0,
+      "gas:candidate-vibid:1001000135992": 3,
+      "gas:candidate-vibid:302300466837": 0,
+      "gas:candidate-vibid:302300467045": 136,
+      "gas:candidate-vibid:1001000121786": 32,
+      "gas:candidate-vibid:1001000225869": 62,
+      "special:against-all": 6
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=22000046&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=202200066861&region=0&sub_region=0&type=429",
@@ -6827,16 +6827,16 @@ export const duma_2003_uik_428_region_3_part_009 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Богданова Дарья Максимовна": 5,
-      "Генералов Михаил Афанасьевич": 1,
-      "Джалилов Рафаиль Алиевич": 1,
-      "Диков Павел Михайлович": 2,
-      "Зарифьянов Рафис Раисович": 3,
-      "Ишбульдин Ирек Хайрутдинович": 2,
-      "Квят Вячеслав Яковлевич": 115,
-      "Сексяева Вера Кирилловна": 33,
-      "Фурман Александр Борисович": 83,
-      "Против всех": 12
+      "gas:candidate-vibid:1001000194996": 5,
+      "gas:candidate-vibid:302300467057": 1,
+      "gas:candidate-vibid:302300466831": 1,
+      "gas:candidate-vibid:1001000187981": 2,
+      "gas:candidate-vibid:1001000135992": 3,
+      "gas:candidate-vibid:302300466837": 2,
+      "gas:candidate-vibid:302300467045": 115,
+      "gas:candidate-vibid:1001000121786": 33,
+      "gas:candidate-vibid:1001000225869": 83,
+      "special:against-all": 12
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=22000046&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=202200066861&region=0&sub_region=0&type=429",
@@ -6886,16 +6886,16 @@ export const duma_2003_uik_428_region_3_part_009 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Богданова Дарья Максимовна": 4,
-      "Генералов Михаил Афанасьевич": 1,
-      "Джалилов Рафаиль Алиевич": 3,
-      "Диков Павел Михайлович": 0,
-      "Зарифьянов Рафис Раисович": 4,
-      "Ишбульдин Ирек Хайрутдинович": 2,
-      "Квят Вячеслав Яковлевич": 7,
-      "Сексяева Вера Кирилловна": 66,
-      "Фурман Александр Борисович": 48,
-      "Против всех": 6
+      "gas:candidate-vibid:1001000194996": 4,
+      "gas:candidate-vibid:302300467057": 1,
+      "gas:candidate-vibid:302300466831": 3,
+      "gas:candidate-vibid:1001000187981": 0,
+      "gas:candidate-vibid:1001000135992": 4,
+      "gas:candidate-vibid:302300466837": 2,
+      "gas:candidate-vibid:302300467045": 7,
+      "gas:candidate-vibid:1001000121786": 66,
+      "gas:candidate-vibid:1001000225869": 48,
+      "special:against-all": 6
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=22000046&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=202200066861&region=0&sub_region=0&type=429",
@@ -6945,16 +6945,16 @@ export const duma_2003_uik_428_region_3_part_009 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Богданова Дарья Максимовна": 8,
-      "Генералов Михаил Афанасьевич": 11,
-      "Джалилов Рафаиль Алиевич": 4,
-      "Диков Павел Михайлович": 4,
-      "Зарифьянов Рафис Раисович": 3,
-      "Ишбульдин Ирек Хайрутдинович": 9,
-      "Квят Вячеслав Яковлевич": 89,
-      "Сексяева Вера Кирилловна": 124,
-      "Фурман Александр Борисович": 57,
-      "Против всех": 12
+      "gas:candidate-vibid:1001000194996": 8,
+      "gas:candidate-vibid:302300467057": 11,
+      "gas:candidate-vibid:302300466831": 4,
+      "gas:candidate-vibid:1001000187981": 4,
+      "gas:candidate-vibid:1001000135992": 3,
+      "gas:candidate-vibid:302300466837": 9,
+      "gas:candidate-vibid:302300467045": 89,
+      "gas:candidate-vibid:1001000121786": 124,
+      "gas:candidate-vibid:1001000225869": 57,
+      "special:against-all": 12
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=22000046&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=202200066861&region=0&sub_region=0&type=429",
@@ -7004,16 +7004,16 @@ export const duma_2003_uik_428_region_3_part_009 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Богданова Дарья Максимовна": 15,
-      "Генералов Михаил Афанасьевич": 16,
-      "Джалилов Рафаиль Алиевич": 3,
-      "Диков Павел Михайлович": 6,
-      "Зарифьянов Рафис Раисович": 6,
-      "Ишбульдин Ирек Хайрутдинович": 7,
-      "Квят Вячеслав Яковлевич": 244,
-      "Сексяева Вера Кирилловна": 90,
-      "Фурман Александр Борисович": 168,
-      "Против всех": 34
+      "gas:candidate-vibid:1001000194996": 15,
+      "gas:candidate-vibid:302300467057": 16,
+      "gas:candidate-vibid:302300466831": 3,
+      "gas:candidate-vibid:1001000187981": 6,
+      "gas:candidate-vibid:1001000135992": 6,
+      "gas:candidate-vibid:302300466837": 7,
+      "gas:candidate-vibid:302300467045": 244,
+      "gas:candidate-vibid:1001000121786": 90,
+      "gas:candidate-vibid:1001000225869": 168,
+      "special:against-all": 34
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=22000046&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=202200066861&region=0&sub_region=0&type=429",
@@ -7063,16 +7063,16 @@ export const duma_2003_uik_428_region_3_part_009 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Богданова Дарья Максимовна": 12,
-      "Генералов Михаил Афанасьевич": 9,
-      "Джалилов Рафаиль Алиевич": 3,
-      "Диков Павел Михайлович": 22,
-      "Зарифьянов Рафис Раисович": 6,
-      "Ишбульдин Ирек Хайрутдинович": 5,
-      "Квят Вячеслав Яковлевич": 389,
-      "Сексяева Вера Кирилловна": 111,
-      "Фурман Александр Борисович": 216,
-      "Против всех": 59
+      "gas:candidate-vibid:1001000194996": 12,
+      "gas:candidate-vibid:302300467057": 9,
+      "gas:candidate-vibid:302300466831": 3,
+      "gas:candidate-vibid:1001000187981": 22,
+      "gas:candidate-vibid:1001000135992": 6,
+      "gas:candidate-vibid:302300466837": 5,
+      "gas:candidate-vibid:302300467045": 389,
+      "gas:candidate-vibid:1001000121786": 111,
+      "gas:candidate-vibid:1001000225869": 216,
+      "special:against-all": 59
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=22000046&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=202200066861&region=0&sub_region=0&type=429",
@@ -7122,16 +7122,16 @@ export const duma_2003_uik_428_region_3_part_009 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Богданова Дарья Максимовна": 6,
-      "Генералов Михаил Афанасьевич": 7,
-      "Джалилов Рафаиль Алиевич": 2,
-      "Диков Павел Михайлович": 4,
-      "Зарифьянов Рафис Раисович": 4,
-      "Ишбульдин Ирек Хайрутдинович": 3,
-      "Квят Вячеслав Яковлевич": 150,
-      "Сексяева Вера Кирилловна": 24,
-      "Фурман Александр Борисович": 84,
-      "Против всех": 14
+      "gas:candidate-vibid:1001000194996": 6,
+      "gas:candidate-vibid:302300467057": 7,
+      "gas:candidate-vibid:302300466831": 2,
+      "gas:candidate-vibid:1001000187981": 4,
+      "gas:candidate-vibid:1001000135992": 4,
+      "gas:candidate-vibid:302300466837": 3,
+      "gas:candidate-vibid:302300467045": 150,
+      "gas:candidate-vibid:1001000121786": 24,
+      "gas:candidate-vibid:1001000225869": 84,
+      "special:against-all": 14
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=22000046&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=202200066861&region=0&sub_region=0&type=429",
@@ -7181,16 +7181,16 @@ export const duma_2003_uik_428_region_3_part_009 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Богданова Дарья Максимовна": 7,
-      "Генералов Михаил Афанасьевич": 9,
-      "Джалилов Рафаиль Алиевич": 7,
-      "Диков Павел Михайлович": 5,
-      "Зарифьянов Рафис Раисович": 6,
-      "Ишбульдин Ирек Хайрутдинович": 5,
-      "Квят Вячеслав Яковлевич": 151,
-      "Сексяева Вера Кирилловна": 69,
-      "Фурман Александр Борисович": 83,
-      "Против всех": 16
+      "gas:candidate-vibid:1001000194996": 7,
+      "gas:candidate-vibid:302300467057": 9,
+      "gas:candidate-vibid:302300466831": 7,
+      "gas:candidate-vibid:1001000187981": 5,
+      "gas:candidate-vibid:1001000135992": 6,
+      "gas:candidate-vibid:302300466837": 5,
+      "gas:candidate-vibid:302300467045": 151,
+      "gas:candidate-vibid:1001000121786": 69,
+      "gas:candidate-vibid:1001000225869": 83,
+      "special:against-all": 16
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=22000046&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=202200066861&region=0&sub_region=0&type=429",
@@ -7240,16 +7240,16 @@ export const duma_2003_uik_428_region_3_part_009 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Богданова Дарья Максимовна": 1,
-      "Генералов Михаил Афанасьевич": 3,
-      "Джалилов Рафаиль Алиевич": 0,
-      "Диков Павел Михайлович": 2,
-      "Зарифьянов Рафис Раисович": 1,
-      "Ишбульдин Ирек Хайрутдинович": 1,
-      "Квят Вячеслав Яковлевич": 34,
-      "Сексяева Вера Кирилловна": 7,
-      "Фурман Александр Борисович": 14,
-      "Против всех": 3
+      "gas:candidate-vibid:1001000194996": 1,
+      "gas:candidate-vibid:302300467057": 3,
+      "gas:candidate-vibid:302300466831": 0,
+      "gas:candidate-vibid:1001000187981": 2,
+      "gas:candidate-vibid:1001000135992": 1,
+      "gas:candidate-vibid:302300466837": 1,
+      "gas:candidate-vibid:302300467045": 34,
+      "gas:candidate-vibid:1001000121786": 7,
+      "gas:candidate-vibid:1001000225869": 14,
+      "special:against-all": 3
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=22000046&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=202200066861&region=0&sub_region=0&type=429",
@@ -7299,16 +7299,16 @@ export const duma_2003_uik_428_region_3_part_009 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Богданова Дарья Максимовна": 3,
-      "Генералов Михаил Афанасьевич": 0,
-      "Джалилов Рафаиль Алиевич": 0,
-      "Диков Павел Михайлович": 0,
-      "Зарифьянов Рафис Раисович": 1,
-      "Ишбульдин Ирек Хайрутдинович": 0,
-      "Квят Вячеслав Яковлевич": 38,
-      "Сексяева Вера Кирилловна": 36,
-      "Фурман Александр Борисович": 6,
-      "Против всех": 5
+      "gas:candidate-vibid:1001000194996": 3,
+      "gas:candidate-vibid:302300467057": 0,
+      "gas:candidate-vibid:302300466831": 0,
+      "gas:candidate-vibid:1001000187981": 0,
+      "gas:candidate-vibid:1001000135992": 1,
+      "gas:candidate-vibid:302300466837": 0,
+      "gas:candidate-vibid:302300467045": 38,
+      "gas:candidate-vibid:1001000121786": 36,
+      "gas:candidate-vibid:1001000225869": 6,
+      "special:against-all": 5
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=22000046&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=202200066861&region=0&sub_region=0&type=429",
@@ -7358,16 +7358,16 @@ export const duma_2003_uik_428_region_3_part_009 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Богданова Дарья Максимовна": 12,
-      "Генералов Михаил Афанасьевич": 9,
-      "Джалилов Рафаиль Алиевич": 3,
-      "Диков Павел Михайлович": 7,
-      "Зарифьянов Рафис Раисович": 10,
-      "Ишбульдин Ирек Хайрутдинович": 10,
-      "Квят Вячеслав Яковлевич": 199,
-      "Сексяева Вера Кирилловна": 207,
-      "Фурман Александр Борисович": 148,
-      "Против всех": 20
+      "gas:candidate-vibid:1001000194996": 12,
+      "gas:candidate-vibid:302300467057": 9,
+      "gas:candidate-vibid:302300466831": 3,
+      "gas:candidate-vibid:1001000187981": 7,
+      "gas:candidate-vibid:1001000135992": 10,
+      "gas:candidate-vibid:302300466837": 10,
+      "gas:candidate-vibid:302300467045": 199,
+      "gas:candidate-vibid:1001000121786": 207,
+      "gas:candidate-vibid:1001000225869": 148,
+      "special:against-all": 20
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=22000046&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=202200066861&region=0&sub_region=0&type=429",
@@ -7417,16 +7417,16 @@ export const duma_2003_uik_428_region_3_part_009 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Богданова Дарья Максимовна": 12,
-      "Генералов Михаил Афанасьевич": 14,
-      "Джалилов Рафаиль Алиевич": 3,
-      "Диков Павел Михайлович": 7,
-      "Зарифьянов Рафис Раисович": 6,
-      "Ишбульдин Ирек Хайрутдинович": 6,
-      "Квят Вячеслав Яковлевич": 137,
-      "Сексяева Вера Кирилловна": 51,
-      "Фурман Александр Борисович": 186,
-      "Против всех": 29
+      "gas:candidate-vibid:1001000194996": 12,
+      "gas:candidate-vibid:302300467057": 14,
+      "gas:candidate-vibid:302300466831": 3,
+      "gas:candidate-vibid:1001000187981": 7,
+      "gas:candidate-vibid:1001000135992": 6,
+      "gas:candidate-vibid:302300466837": 6,
+      "gas:candidate-vibid:302300467045": 137,
+      "gas:candidate-vibid:1001000121786": 51,
+      "gas:candidate-vibid:1001000225869": 186,
+      "special:against-all": 29
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=22000046&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=202200066861&region=0&sub_region=0&type=429",
@@ -7476,16 +7476,16 @@ export const duma_2003_uik_428_region_3_part_009 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Богданова Дарья Максимовна": 5,
-      "Генералов Михаил Афанасьевич": 2,
-      "Джалилов Рафаиль Алиевич": 4,
-      "Диков Павел Михайлович": 5,
-      "Зарифьянов Рафис Раисович": 4,
-      "Ишбульдин Ирек Хайрутдинович": 3,
-      "Квят Вячеслав Яковлевич": 26,
-      "Сексяева Вера Кирилловна": 68,
-      "Фурман Александр Борисович": 103,
-      "Против всех": 6
+      "gas:candidate-vibid:1001000194996": 5,
+      "gas:candidate-vibid:302300467057": 2,
+      "gas:candidate-vibid:302300466831": 4,
+      "gas:candidate-vibid:1001000187981": 5,
+      "gas:candidate-vibid:1001000135992": 4,
+      "gas:candidate-vibid:302300466837": 3,
+      "gas:candidate-vibid:302300467045": 26,
+      "gas:candidate-vibid:1001000121786": 68,
+      "gas:candidate-vibid:1001000225869": 103,
+      "special:against-all": 6
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=22000046&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=202200066861&region=0&sub_region=0&type=429",
@@ -7535,16 +7535,16 @@ export const duma_2003_uik_428_region_3_part_009 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Богданова Дарья Максимовна": 8,
-      "Генералов Михаил Афанасьевич": 2,
-      "Джалилов Рафаиль Алиевич": 3,
-      "Диков Павел Михайлович": 1,
-      "Зарифьянов Рафис Раисович": 7,
-      "Ишбульдин Ирек Хайрутдинович": 6,
-      "Квят Вячеслав Яковлевич": 152,
-      "Сексяева Вера Кирилловна": 83,
-      "Фурман Александр Борисович": 145,
-      "Против всех": 13
+      "gas:candidate-vibid:1001000194996": 8,
+      "gas:candidate-vibid:302300467057": 2,
+      "gas:candidate-vibid:302300466831": 3,
+      "gas:candidate-vibid:1001000187981": 1,
+      "gas:candidate-vibid:1001000135992": 7,
+      "gas:candidate-vibid:302300466837": 6,
+      "gas:candidate-vibid:302300467045": 152,
+      "gas:candidate-vibid:1001000121786": 83,
+      "gas:candidate-vibid:1001000225869": 145,
+      "special:against-all": 13
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=22000046&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=202200066861&region=0&sub_region=0&type=429",
@@ -7594,16 +7594,16 @@ export const duma_2003_uik_428_region_3_part_009 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Богданова Дарья Максимовна": 1,
-      "Генералов Михаил Афанасьевич": 2,
-      "Джалилов Рафаиль Алиевич": 2,
-      "Диков Павел Михайлович": 1,
-      "Зарифьянов Рафис Раисович": 3,
-      "Ишбульдин Ирек Хайрутдинович": 4,
-      "Квят Вячеслав Яковлевич": 156,
-      "Сексяева Вера Кирилловна": 87,
-      "Фурман Александр Борисович": 30,
-      "Против всех": 9
+      "gas:candidate-vibid:1001000194996": 1,
+      "gas:candidate-vibid:302300467057": 2,
+      "gas:candidate-vibid:302300466831": 2,
+      "gas:candidate-vibid:1001000187981": 1,
+      "gas:candidate-vibid:1001000135992": 3,
+      "gas:candidate-vibid:302300466837": 4,
+      "gas:candidate-vibid:302300467045": 156,
+      "gas:candidate-vibid:1001000121786": 87,
+      "gas:candidate-vibid:1001000225869": 30,
+      "special:against-all": 9
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=22000046&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=202200066861&region=0&sub_region=0&type=429",
@@ -7653,16 +7653,16 @@ export const duma_2003_uik_428_region_3_part_009 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Богданова Дарья Максимовна": 4,
-      "Генералов Михаил Афанасьевич": 1,
-      "Джалилов Рафаиль Алиевич": 9,
-      "Диков Павел Михайлович": 2,
-      "Зарифьянов Рафис Раисович": 3,
-      "Ишбульдин Ирек Хайрутдинович": 3,
-      "Квят Вячеслав Яковлевич": 78,
-      "Сексяева Вера Кирилловна": 28,
-      "Фурман Александр Борисович": 122,
-      "Против всех": 10
+      "gas:candidate-vibid:1001000194996": 4,
+      "gas:candidate-vibid:302300467057": 1,
+      "gas:candidate-vibid:302300466831": 9,
+      "gas:candidate-vibid:1001000187981": 2,
+      "gas:candidate-vibid:1001000135992": 3,
+      "gas:candidate-vibid:302300466837": 3,
+      "gas:candidate-vibid:302300467045": 78,
+      "gas:candidate-vibid:1001000121786": 28,
+      "gas:candidate-vibid:1001000225869": 122,
+      "special:against-all": 10
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=22000046&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=202200066861&region=0&sub_region=0&type=429",
@@ -7712,16 +7712,16 @@ export const duma_2003_uik_428_region_3_part_009 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Богданова Дарья Максимовна": 5,
-      "Генералов Михаил Афанасьевич": 4,
-      "Джалилов Рафаиль Алиевич": 2,
-      "Диков Павел Михайлович": 4,
-      "Зарифьянов Рафис Раисович": 3,
-      "Ишбульдин Ирек Хайрутдинович": 5,
-      "Квят Вячеслав Яковлевич": 123,
-      "Сексяева Вера Кирилловна": 78,
-      "Фурман Александр Борисович": 69,
-      "Против всех": 24
+      "gas:candidate-vibid:1001000194996": 5,
+      "gas:candidate-vibid:302300467057": 4,
+      "gas:candidate-vibid:302300466831": 2,
+      "gas:candidate-vibid:1001000187981": 4,
+      "gas:candidate-vibid:1001000135992": 3,
+      "gas:candidate-vibid:302300466837": 5,
+      "gas:candidate-vibid:302300467045": 123,
+      "gas:candidate-vibid:1001000121786": 78,
+      "gas:candidate-vibid:1001000225869": 69,
+      "special:against-all": 24
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=22000046&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=202200066861&region=0&sub_region=0&type=429",
@@ -7771,16 +7771,16 @@ export const duma_2003_uik_428_region_3_part_009 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Богданова Дарья Максимовна": 6,
-      "Генералов Михаил Афанасьевич": 3,
-      "Джалилов Рафаиль Алиевич": 4,
-      "Диков Павел Михайлович": 1,
-      "Зарифьянов Рафис Раисович": 8,
-      "Ишбульдин Ирек Хайрутдинович": 4,
-      "Квят Вячеслав Яковлевич": 121,
-      "Сексяева Вера Кирилловна": 91,
-      "Фурман Александр Борисович": 35,
-      "Против всех": 9
+      "gas:candidate-vibid:1001000194996": 6,
+      "gas:candidate-vibid:302300467057": 3,
+      "gas:candidate-vibid:302300466831": 4,
+      "gas:candidate-vibid:1001000187981": 1,
+      "gas:candidate-vibid:1001000135992": 8,
+      "gas:candidate-vibid:302300466837": 4,
+      "gas:candidate-vibid:302300467045": 121,
+      "gas:candidate-vibid:1001000121786": 91,
+      "gas:candidate-vibid:1001000225869": 35,
+      "special:against-all": 9
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=22000046&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=202200066861&region=0&sub_region=0&type=429",
@@ -7830,16 +7830,16 @@ export const duma_2003_uik_428_region_3_part_009 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Богданова Дарья Максимовна": 39,
-      "Генералов Михаил Афанасьевич": 12,
-      "Джалилов Рафаиль Алиевич": 12,
-      "Диков Павел Михайлович": 19,
-      "Зарифьянов Рафис Раисович": 26,
-      "Ишбульдин Ирек Хайрутдинович": 3,
-      "Квят Вячеслав Яковлевич": 184,
-      "Сексяева Вера Кирилловна": 30,
-      "Фурман Александр Борисович": 279,
-      "Против всех": 52
+      "gas:candidate-vibid:1001000194996": 39,
+      "gas:candidate-vibid:302300467057": 12,
+      "gas:candidate-vibid:302300466831": 12,
+      "gas:candidate-vibid:1001000187981": 19,
+      "gas:candidate-vibid:1001000135992": 26,
+      "gas:candidate-vibid:302300466837": 3,
+      "gas:candidate-vibid:302300467045": 184,
+      "gas:candidate-vibid:1001000121786": 30,
+      "gas:candidate-vibid:1001000225869": 279,
+      "special:against-all": 52
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=22000047&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=202200066862&region=0&sub_region=0&type=429",
@@ -7889,16 +7889,16 @@ export const duma_2003_uik_428_region_3_part_009 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Богданова Дарья Максимовна": 15,
-      "Генералов Михаил Афанасьевич": 2,
-      "Джалилов Рафаиль Алиевич": 2,
-      "Диков Павел Михайлович": 3,
-      "Зарифьянов Рафис Раисович": 4,
-      "Ишбульдин Ирек Хайрутдинович": 6,
-      "Квят Вячеслав Яковлевич": 74,
-      "Сексяева Вера Кирилловна": 12,
-      "Фурман Александр Борисович": 150,
-      "Против всех": 28
+      "gas:candidate-vibid:1001000194996": 15,
+      "gas:candidate-vibid:302300467057": 2,
+      "gas:candidate-vibid:302300466831": 2,
+      "gas:candidate-vibid:1001000187981": 3,
+      "gas:candidate-vibid:1001000135992": 4,
+      "gas:candidate-vibid:302300466837": 6,
+      "gas:candidate-vibid:302300467045": 74,
+      "gas:candidate-vibid:1001000121786": 12,
+      "gas:candidate-vibid:1001000225869": 150,
+      "special:against-all": 28
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=22000047&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=202200066862&region=0&sub_region=0&type=429",
@@ -7948,16 +7948,16 @@ export const duma_2003_uik_428_region_3_part_009 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Богданова Дарья Максимовна": 24,
-      "Генералов Михаил Афанасьевич": 5,
-      "Джалилов Рафаиль Алиевич": 12,
-      "Диков Павел Михайлович": 7,
-      "Зарифьянов Рафис Раисович": 23,
-      "Ишбульдин Ирек Хайрутдинович": 10,
-      "Квят Вячеслав Яковлевич": 122,
-      "Сексяева Вера Кирилловна": 20,
-      "Фурман Александр Борисович": 294,
-      "Против всех": 41
+      "gas:candidate-vibid:1001000194996": 24,
+      "gas:candidate-vibid:302300467057": 5,
+      "gas:candidate-vibid:302300466831": 12,
+      "gas:candidate-vibid:1001000187981": 7,
+      "gas:candidate-vibid:1001000135992": 23,
+      "gas:candidate-vibid:302300466837": 10,
+      "gas:candidate-vibid:302300467045": 122,
+      "gas:candidate-vibid:1001000121786": 20,
+      "gas:candidate-vibid:1001000225869": 294,
+      "special:against-all": 41
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=22000047&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=202200066862&region=0&sub_region=0&type=429",
@@ -8007,16 +8007,16 @@ export const duma_2003_uik_428_region_3_part_009 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Богданова Дарья Максимовна": 44,
-      "Генералов Михаил Афанасьевич": 15,
-      "Джалилов Рафаиль Алиевич": 5,
-      "Диков Павел Михайлович": 30,
-      "Зарифьянов Рафис Раисович": 13,
-      "Ишбульдин Ирек Хайрутдинович": 10,
-      "Квят Вячеслав Яковлевич": 180,
-      "Сексяева Вера Кирилловна": 32,
-      "Фурман Александр Борисович": 352,
-      "Против всех": 62
+      "gas:candidate-vibid:1001000194996": 44,
+      "gas:candidate-vibid:302300467057": 15,
+      "gas:candidate-vibid:302300466831": 5,
+      "gas:candidate-vibid:1001000187981": 30,
+      "gas:candidate-vibid:1001000135992": 13,
+      "gas:candidate-vibid:302300466837": 10,
+      "gas:candidate-vibid:302300467045": 180,
+      "gas:candidate-vibid:1001000121786": 32,
+      "gas:candidate-vibid:1001000225869": 352,
+      "special:against-all": 62
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=22000047&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=202200066862&region=0&sub_region=0&type=429",
@@ -8066,16 +8066,16 @@ export const duma_2003_uik_428_region_3_part_009 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Богданова Дарья Максимовна": 34,
-      "Генералов Михаил Афанасьевич": 27,
-      "Джалилов Рафаиль Алиевич": 9,
-      "Диков Павел Михайлович": 15,
-      "Зарифьянов Рафис Раисович": 17,
-      "Ишбульдин Ирек Хайрутдинович": 3,
-      "Квят Вячеслав Яковлевич": 166,
-      "Сексяева Вера Кирилловна": 36,
-      "Фурман Александр Борисович": 307,
-      "Против всех": 55
+      "gas:candidate-vibid:1001000194996": 34,
+      "gas:candidate-vibid:302300467057": 27,
+      "gas:candidate-vibid:302300466831": 9,
+      "gas:candidate-vibid:1001000187981": 15,
+      "gas:candidate-vibid:1001000135992": 17,
+      "gas:candidate-vibid:302300466837": 3,
+      "gas:candidate-vibid:302300467045": 166,
+      "gas:candidate-vibid:1001000121786": 36,
+      "gas:candidate-vibid:1001000225869": 307,
+      "special:against-all": 55
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=22000047&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=202200066862&region=0&sub_region=0&type=429",
@@ -8125,16 +8125,16 @@ export const duma_2003_uik_428_region_3_part_009 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Богданова Дарья Максимовна": 54,
-      "Генералов Михаил Афанасьевич": 11,
-      "Джалилов Рафаиль Алиевич": 5,
-      "Диков Павел Михайлович": 31,
-      "Зарифьянов Рафис Раисович": 10,
-      "Ишбульдин Ирек Хайрутдинович": 6,
-      "Квят Вячеслав Яковлевич": 159,
-      "Сексяева Вера Кирилловна": 38,
-      "Фурман Александр Борисович": 243,
-      "Против всех": 56
+      "gas:candidate-vibid:1001000194996": 54,
+      "gas:candidate-vibid:302300467057": 11,
+      "gas:candidate-vibid:302300466831": 5,
+      "gas:candidate-vibid:1001000187981": 31,
+      "gas:candidate-vibid:1001000135992": 10,
+      "gas:candidate-vibid:302300466837": 6,
+      "gas:candidate-vibid:302300467045": 159,
+      "gas:candidate-vibid:1001000121786": 38,
+      "gas:candidate-vibid:1001000225869": 243,
+      "special:against-all": 56
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=22000047&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=202200066862&region=0&sub_region=0&type=429",
@@ -8184,16 +8184,16 @@ export const duma_2003_uik_428_region_3_part_009 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Богданова Дарья Максимовна": 3,
-      "Генералов Михаил Афанасьевич": 4,
-      "Джалилов Рафаиль Алиевич": 7,
-      "Диков Павел Михайлович": 6,
-      "Зарифьянов Рафис Раисович": 7,
-      "Ишбульдин Ирек Хайрутдинович": 4,
-      "Квят Вячеслав Яковлевич": 29,
-      "Сексяева Вера Кирилловна": 10,
-      "Фурман Александр Борисович": 52,
-      "Против всех": 13
+      "gas:candidate-vibid:1001000194996": 3,
+      "gas:candidate-vibid:302300467057": 4,
+      "gas:candidate-vibid:302300466831": 7,
+      "gas:candidate-vibid:1001000187981": 6,
+      "gas:candidate-vibid:1001000135992": 7,
+      "gas:candidate-vibid:302300466837": 4,
+      "gas:candidate-vibid:302300467045": 29,
+      "gas:candidate-vibid:1001000121786": 10,
+      "gas:candidate-vibid:1001000225869": 52,
+      "special:against-all": 13
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=22000047&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=202200066862&region=0&sub_region=0&type=429",
@@ -8243,16 +8243,16 @@ export const duma_2003_uik_428_region_3_part_009 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Богданова Дарья Максимовна": 24,
-      "Генералов Михаил Афанасьевич": 16,
-      "Джалилов Рафаиль Алиевич": 5,
-      "Диков Павел Михайлович": 27,
-      "Зарифьянов Рафис Раисович": 19,
-      "Ишбульдин Ирек Хайрутдинович": 5,
-      "Квят Вячеслав Яковлевич": 181,
-      "Сексяева Вера Кирилловна": 31,
-      "Фурман Александр Борисович": 260,
-      "Против всех": 39
+      "gas:candidate-vibid:1001000194996": 24,
+      "gas:candidate-vibid:302300467057": 16,
+      "gas:candidate-vibid:302300466831": 5,
+      "gas:candidate-vibid:1001000187981": 27,
+      "gas:candidate-vibid:1001000135992": 19,
+      "gas:candidate-vibid:302300466837": 5,
+      "gas:candidate-vibid:302300467045": 181,
+      "gas:candidate-vibid:1001000121786": 31,
+      "gas:candidate-vibid:1001000225869": 260,
+      "special:against-all": 39
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=22000047&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=202200066862&region=0&sub_region=0&type=429",
@@ -8302,16 +8302,16 @@ export const duma_2003_uik_428_region_3_part_009 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Богданова Дарья Максимовна": 35,
-      "Генералов Михаил Афанасьевич": 9,
-      "Джалилов Рафаиль Алиевич": 7,
-      "Диков Павел Михайлович": 10,
-      "Зарифьянов Рафис Раисович": 12,
-      "Ишбульдин Ирек Хайрутдинович": 2,
-      "Квят Вячеслав Яковлевич": 122,
-      "Сексяева Вера Кирилловна": 42,
-      "Фурман Александр Борисович": 251,
-      "Против всех": 53
+      "gas:candidate-vibid:1001000194996": 35,
+      "gas:candidate-vibid:302300467057": 9,
+      "gas:candidate-vibid:302300466831": 7,
+      "gas:candidate-vibid:1001000187981": 10,
+      "gas:candidate-vibid:1001000135992": 12,
+      "gas:candidate-vibid:302300466837": 2,
+      "gas:candidate-vibid:302300467045": 122,
+      "gas:candidate-vibid:1001000121786": 42,
+      "gas:candidate-vibid:1001000225869": 251,
+      "special:against-all": 53
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=22000047&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=202200066862&region=0&sub_region=0&type=429",
@@ -8361,16 +8361,16 @@ export const duma_2003_uik_428_region_3_part_009 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Богданова Дарья Максимовна": 48,
-      "Генералов Михаил Афанасьевич": 21,
-      "Джалилов Рафаиль Алиевич": 10,
-      "Диков Павел Михайлович": 32,
-      "Зарифьянов Рафис Раисович": 25,
-      "Ишбульдин Ирек Хайрутдинович": 7,
-      "Квят Вячеслав Яковлевич": 299,
-      "Сексяева Вера Кирилловна": 77,
-      "Фурман Александр Борисович": 683,
-      "Против всех": 93
+      "gas:candidate-vibid:1001000194996": 48,
+      "gas:candidate-vibid:302300467057": 21,
+      "gas:candidate-vibid:302300466831": 10,
+      "gas:candidate-vibid:1001000187981": 32,
+      "gas:candidate-vibid:1001000135992": 25,
+      "gas:candidate-vibid:302300466837": 7,
+      "gas:candidate-vibid:302300467045": 299,
+      "gas:candidate-vibid:1001000121786": 77,
+      "gas:candidate-vibid:1001000225869": 683,
+      "special:against-all": 93
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=22000047&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=202200066862&region=0&sub_region=0&type=429",
@@ -8420,16 +8420,16 @@ export const duma_2003_uik_428_region_3_part_009 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Богданова Дарья Максимовна": 37,
-      "Генералов Михаил Афанасьевич": 15,
-      "Джалилов Рафаиль Алиевич": 13,
-      "Диков Павел Михайлович": 15,
-      "Зарифьянов Рафис Раисович": 7,
-      "Ишбульдин Ирек Хайрутдинович": 4,
-      "Квят Вячеслав Яковлевич": 110,
-      "Сексяева Вера Кирилловна": 38,
-      "Фурман Александр Борисович": 279,
-      "Против всех": 40
+      "gas:candidate-vibid:1001000194996": 37,
+      "gas:candidate-vibid:302300467057": 15,
+      "gas:candidate-vibid:302300466831": 13,
+      "gas:candidate-vibid:1001000187981": 15,
+      "gas:candidate-vibid:1001000135992": 7,
+      "gas:candidate-vibid:302300466837": 4,
+      "gas:candidate-vibid:302300467045": 110,
+      "gas:candidate-vibid:1001000121786": 38,
+      "gas:candidate-vibid:1001000225869": 279,
+      "special:against-all": 40
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=22000047&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=202200066862&region=0&sub_region=0&type=429",
@@ -8479,16 +8479,16 @@ export const duma_2003_uik_428_region_3_part_009 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Богданова Дарья Максимовна": 30,
-      "Генералов Михаил Афанасьевич": 15,
-      "Джалилов Рафаиль Алиевич": 7,
-      "Диков Павел Михайлович": 17,
-      "Зарифьянов Рафис Раисович": 11,
-      "Ишбульдин Ирек Хайрутдинович": 4,
-      "Квят Вячеслав Яковлевич": 149,
-      "Сексяева Вера Кирилловна": 39,
-      "Фурман Александр Борисович": 245,
-      "Против всех": 49
+      "gas:candidate-vibid:1001000194996": 30,
+      "gas:candidate-vibid:302300467057": 15,
+      "gas:candidate-vibid:302300466831": 7,
+      "gas:candidate-vibid:1001000187981": 17,
+      "gas:candidate-vibid:1001000135992": 11,
+      "gas:candidate-vibid:302300466837": 4,
+      "gas:candidate-vibid:302300467045": 149,
+      "gas:candidate-vibid:1001000121786": 39,
+      "gas:candidate-vibid:1001000225869": 245,
+      "special:against-all": 49
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=22000047&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=202200066862&region=0&sub_region=0&type=429",
@@ -8538,16 +8538,16 @@ export const duma_2003_uik_428_region_3_part_009 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Богданова Дарья Максимовна": 51,
-      "Генералов Михаил Афанасьевич": 27,
-      "Джалилов Рафаиль Алиевич": 18,
-      "Диков Павел Михайлович": 36,
-      "Зарифьянов Рафис Раисович": 42,
-      "Ишбульдин Ирек Хайрутдинович": 20,
-      "Квят Вячеслав Яковлевич": 359,
-      "Сексяева Вера Кирилловна": 70,
-      "Фурман Александр Борисович": 580,
-      "Против всех": 135
+      "gas:candidate-vibid:1001000194996": 51,
+      "gas:candidate-vibid:302300467057": 27,
+      "gas:candidate-vibid:302300466831": 18,
+      "gas:candidate-vibid:1001000187981": 36,
+      "gas:candidate-vibid:1001000135992": 42,
+      "gas:candidate-vibid:302300466837": 20,
+      "gas:candidate-vibid:302300467045": 359,
+      "gas:candidate-vibid:1001000121786": 70,
+      "gas:candidate-vibid:1001000225869": 580,
+      "special:against-all": 135
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=22000047&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=202200066862&region=0&sub_region=0&type=429",
@@ -8597,16 +8597,16 @@ export const duma_2003_uik_428_region_3_part_009 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Богданова Дарья Максимовна": 53,
-      "Генералов Михаил Афанасьевич": 19,
-      "Джалилов Рафаиль Алиевич": 17,
-      "Диков Павел Михайлович": 47,
-      "Зарифьянов Рафис Раисович": 31,
-      "Ишбульдин Ирек Хайрутдинович": 9,
-      "Квят Вячеслав Яковлевич": 308,
-      "Сексяева Вера Кирилловна": 95,
-      "Фурман Александр Борисович": 476,
-      "Против всех": 94
+      "gas:candidate-vibid:1001000194996": 53,
+      "gas:candidate-vibid:302300467057": 19,
+      "gas:candidate-vibid:302300466831": 17,
+      "gas:candidate-vibid:1001000187981": 47,
+      "gas:candidate-vibid:1001000135992": 31,
+      "gas:candidate-vibid:302300466837": 9,
+      "gas:candidate-vibid:302300467045": 308,
+      "gas:candidate-vibid:1001000121786": 95,
+      "gas:candidate-vibid:1001000225869": 476,
+      "special:against-all": 94
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=22000047&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=202200066862&region=0&sub_region=0&type=429",
@@ -8656,16 +8656,16 @@ export const duma_2003_uik_428_region_3_part_009 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Богданова Дарья Максимовна": 52,
-      "Генералов Михаил Афанасьевич": 19,
-      "Джалилов Рафаиль Алиевич": 20,
-      "Диков Павел Михайлович": 42,
-      "Зарифьянов Рафис Раисович": 22,
-      "Ишбульдин Ирек Хайрутдинович": 19,
-      "Квят Вячеслав Яковлевич": 313,
-      "Сексяева Вера Кирилловна": 70,
-      "Фурман Александр Борисович": 546,
-      "Против всех": 124
+      "gas:candidate-vibid:1001000194996": 52,
+      "gas:candidate-vibid:302300467057": 19,
+      "gas:candidate-vibid:302300466831": 20,
+      "gas:candidate-vibid:1001000187981": 42,
+      "gas:candidate-vibid:1001000135992": 22,
+      "gas:candidate-vibid:302300466837": 19,
+      "gas:candidate-vibid:302300467045": 313,
+      "gas:candidate-vibid:1001000121786": 70,
+      "gas:candidate-vibid:1001000225869": 546,
+      "special:against-all": 124
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=22000047&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=202200066862&region=0&sub_region=0&type=429",
@@ -8715,16 +8715,16 @@ export const duma_2003_uik_428_region_3_part_009 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Богданова Дарья Максимовна": 84,
-      "Генералов Михаил Афанасьевич": 25,
-      "Джалилов Рафаиль Алиевич": 23,
-      "Диков Павел Михайлович": 84,
-      "Зарифьянов Рафис Раисович": 52,
-      "Ишбульдин Ирек Хайрутдинович": 27,
-      "Квят Вячеслав Яковлевич": 396,
-      "Сексяева Вера Кирилловна": 152,
-      "Фурман Александр Борисович": 710,
-      "Против всех": 172
+      "gas:candidate-vibid:1001000194996": 84,
+      "gas:candidate-vibid:302300467057": 25,
+      "gas:candidate-vibid:302300466831": 23,
+      "gas:candidate-vibid:1001000187981": 84,
+      "gas:candidate-vibid:1001000135992": 52,
+      "gas:candidate-vibid:302300466837": 27,
+      "gas:candidate-vibid:302300467045": 396,
+      "gas:candidate-vibid:1001000121786": 152,
+      "gas:candidate-vibid:1001000225869": 710,
+      "special:against-all": 172
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=22000047&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=202200066862&region=0&sub_region=0&type=429",
@@ -8774,16 +8774,16 @@ export const duma_2003_uik_428_region_3_part_009 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Богданова Дарья Максимовна": 53,
-      "Генералов Михаил Афанасьевич": 18,
-      "Джалилов Рафаиль Алиевич": 23,
-      "Диков Павел Михайлович": 58,
-      "Зарифьянов Рафис Раисович": 28,
-      "Ишбульдин Ирек Хайрутдинович": 18,
-      "Квят Вячеслав Яковлевич": 262,
-      "Сексяева Вера Кирилловна": 102,
-      "Фурман Александр Борисович": 445,
-      "Против всех": 127
+      "gas:candidate-vibid:1001000194996": 53,
+      "gas:candidate-vibid:302300467057": 18,
+      "gas:candidate-vibid:302300466831": 23,
+      "gas:candidate-vibid:1001000187981": 58,
+      "gas:candidate-vibid:1001000135992": 28,
+      "gas:candidate-vibid:302300466837": 18,
+      "gas:candidate-vibid:302300467045": 262,
+      "gas:candidate-vibid:1001000121786": 102,
+      "gas:candidate-vibid:1001000225869": 445,
+      "special:against-all": 127
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=22000047&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=202200066862&region=0&sub_region=0&type=429",
@@ -8833,16 +8833,16 @@ export const duma_2003_uik_428_region_3_part_009 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Богданова Дарья Максимовна": 53,
-      "Генералов Михаил Афанасьевич": 21,
-      "Джалилов Рафаиль Алиевич": 26,
-      "Диков Павел Михайлович": 71,
-      "Зарифьянов Рафис Раисович": 44,
-      "Ишбульдин Ирек Хайрутдинович": 30,
-      "Квят Вячеслав Яковлевич": 361,
-      "Сексяева Вера Кирилловна": 100,
-      "Фурман Александр Борисович": 627,
-      "Против всех": 119
+      "gas:candidate-vibid:1001000194996": 53,
+      "gas:candidate-vibid:302300467057": 21,
+      "gas:candidate-vibid:302300466831": 26,
+      "gas:candidate-vibid:1001000187981": 71,
+      "gas:candidate-vibid:1001000135992": 44,
+      "gas:candidate-vibid:302300466837": 30,
+      "gas:candidate-vibid:302300467045": 361,
+      "gas:candidate-vibid:1001000121786": 100,
+      "gas:candidate-vibid:1001000225869": 627,
+      "special:against-all": 119
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=22000047&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=202200066862&region=0&sub_region=0&type=429",
@@ -8892,16 +8892,16 @@ export const duma_2003_uik_428_region_3_part_009 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Богданова Дарья Максимовна": 6,
-      "Генералов Михаил Афанасьевич": 5,
-      "Джалилов Рафаиль Алиевич": 1,
-      "Диков Павел Михайлович": 5,
-      "Зарифьянов Рафис Раисович": 7,
-      "Ишбульдин Ирек Хайрутдинович": 3,
-      "Квят Вячеслав Яковлевич": 83,
-      "Сексяева Вера Кирилловна": 17,
-      "Фурман Александр Борисович": 179,
-      "Против всех": 17
+      "gas:candidate-vibid:1001000194996": 6,
+      "gas:candidate-vibid:302300467057": 5,
+      "gas:candidate-vibid:302300466831": 1,
+      "gas:candidate-vibid:1001000187981": 5,
+      "gas:candidate-vibid:1001000135992": 7,
+      "gas:candidate-vibid:302300466837": 3,
+      "gas:candidate-vibid:302300467045": 83,
+      "gas:candidate-vibid:1001000121786": 17,
+      "gas:candidate-vibid:1001000225869": 179,
+      "special:against-all": 17
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=22000047&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=202200066862&region=0&sub_region=0&type=429",
@@ -8951,16 +8951,16 @@ export const duma_2003_uik_428_region_3_part_009 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Богданова Дарья Максимовна": 6,
-      "Генералов Михаил Афанасьевич": 4,
-      "Джалилов Рафаиль Алиевич": 0,
-      "Диков Павел Михайлович": 2,
-      "Зарифьянов Рафис Раисович": 5,
-      "Ишбульдин Ирек Хайрутдинович": 1,
-      "Квят Вячеслав Яковлевич": 37,
-      "Сексяева Вера Кирилловна": 11,
-      "Фурман Александр Борисович": 90,
-      "Против всех": 4
+      "gas:candidate-vibid:1001000194996": 6,
+      "gas:candidate-vibid:302300467057": 4,
+      "gas:candidate-vibid:302300466831": 0,
+      "gas:candidate-vibid:1001000187981": 2,
+      "gas:candidate-vibid:1001000135992": 5,
+      "gas:candidate-vibid:302300466837": 1,
+      "gas:candidate-vibid:302300467045": 37,
+      "gas:candidate-vibid:1001000121786": 11,
+      "gas:candidate-vibid:1001000225869": 90,
+      "special:against-all": 4
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=22000047&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=202200066862&region=0&sub_region=0&type=429",
@@ -9010,16 +9010,16 @@ export const duma_2003_uik_428_region_3_part_009 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Богданова Дарья Максимовна": 13,
-      "Генералов Михаил Афанасьевич": 7,
-      "Джалилов Рафаиль Алиевич": 1,
-      "Диков Павел Михайлович": 14,
-      "Зарифьянов Рафис Раисович": 6,
-      "Ишбульдин Ирек Хайрутдинович": 2,
-      "Квят Вячеслав Яковлевич": 98,
-      "Сексяева Вера Кирилловна": 16,
-      "Фурман Александр Борисович": 332,
-      "Против всех": 21
+      "gas:candidate-vibid:1001000194996": 13,
+      "gas:candidate-vibid:302300467057": 7,
+      "gas:candidate-vibid:302300466831": 1,
+      "gas:candidate-vibid:1001000187981": 14,
+      "gas:candidate-vibid:1001000135992": 6,
+      "gas:candidate-vibid:302300466837": 2,
+      "gas:candidate-vibid:302300467045": 98,
+      "gas:candidate-vibid:1001000121786": 16,
+      "gas:candidate-vibid:1001000225869": 332,
+      "special:against-all": 21
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=22000047&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=202200066862&region=0&sub_region=0&type=429",
@@ -9069,16 +9069,16 @@ export const duma_2003_uik_428_region_3_part_009 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Богданова Дарья Максимовна": 8,
-      "Генералов Михаил Афанасьевич": 2,
-      "Джалилов Рафаиль Алиевич": 5,
-      "Диков Павел Михайлович": 4,
-      "Зарифьянов Рафис Раисович": 5,
-      "Ишбульдин Ирек Хайрутдинович": 5,
-      "Квят Вячеслав Яковлевич": 8,
-      "Сексяева Вера Кирилловна": 6,
-      "Фурман Александр Борисович": 162,
-      "Против всех": 10
+      "gas:candidate-vibid:1001000194996": 8,
+      "gas:candidate-vibid:302300467057": 2,
+      "gas:candidate-vibid:302300466831": 5,
+      "gas:candidate-vibid:1001000187981": 4,
+      "gas:candidate-vibid:1001000135992": 5,
+      "gas:candidate-vibid:302300466837": 5,
+      "gas:candidate-vibid:302300467045": 8,
+      "gas:candidate-vibid:1001000121786": 6,
+      "gas:candidate-vibid:1001000225869": 162,
+      "special:against-all": 10
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=22000047&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=202200066862&region=0&sub_region=0&type=429",
@@ -9128,16 +9128,16 @@ export const duma_2003_uik_428_region_3_part_009 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Богданова Дарья Максимовна": 9,
-      "Генералов Михаил Афанасьевич": 6,
-      "Джалилов Рафаиль Алиевич": 0,
-      "Диков Павел Михайлович": 2,
-      "Зарифьянов Рафис Раисович": 3,
-      "Ишбульдин Ирек Хайрутдинович": 3,
-      "Квят Вячеслав Яковлевич": 37,
-      "Сексяева Вера Кирилловна": 2,
-      "Фурман Александр Борисович": 182,
-      "Против всех": 9
+      "gas:candidate-vibid:1001000194996": 9,
+      "gas:candidate-vibid:302300467057": 6,
+      "gas:candidate-vibid:302300466831": 0,
+      "gas:candidate-vibid:1001000187981": 2,
+      "gas:candidate-vibid:1001000135992": 3,
+      "gas:candidate-vibid:302300466837": 3,
+      "gas:candidate-vibid:302300467045": 37,
+      "gas:candidate-vibid:1001000121786": 2,
+      "gas:candidate-vibid:1001000225869": 182,
+      "special:against-all": 9
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=22000047&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=202200066862&region=0&sub_region=0&type=429",
@@ -9187,16 +9187,16 @@ export const duma_2003_uik_428_region_3_part_009 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Богданова Дарья Максимовна": 7,
-      "Генералов Михаил Афанасьевич": 5,
-      "Джалилов Рафаиль Алиевич": 2,
-      "Диков Павел Михайлович": 5,
-      "Зарифьянов Рафис Раисович": 7,
-      "Ишбульдин Ирек Хайрутдинович": 3,
-      "Квят Вячеслав Яковлевич": 63,
-      "Сексяева Вера Кирилловна": 15,
-      "Фурман Александр Борисович": 222,
-      "Против всех": 25
+      "gas:candidate-vibid:1001000194996": 7,
+      "gas:candidate-vibid:302300467057": 5,
+      "gas:candidate-vibid:302300466831": 2,
+      "gas:candidate-vibid:1001000187981": 5,
+      "gas:candidate-vibid:1001000135992": 7,
+      "gas:candidate-vibid:302300466837": 3,
+      "gas:candidate-vibid:302300467045": 63,
+      "gas:candidate-vibid:1001000121786": 15,
+      "gas:candidate-vibid:1001000225869": 222,
+      "special:against-all": 25
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=22000047&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=202200066862&region=0&sub_region=0&type=429",
@@ -9246,16 +9246,16 @@ export const duma_2003_uik_428_region_3_part_009 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Богданова Дарья Максимовна": 1,
-      "Генералов Михаил Афанасьевич": 0,
-      "Джалилов Рафаиль Алиевич": 1,
-      "Диков Павел Михайлович": 0,
-      "Зарифьянов Рафис Раисович": 0,
-      "Ишбульдин Ирек Хайрутдинович": 1,
-      "Квят Вячеслав Яковлевич": 6,
-      "Сексяева Вера Кирилловна": 4,
-      "Фурман Александр Борисович": 114,
-      "Против всех": 1
+      "gas:candidate-vibid:1001000194996": 1,
+      "gas:candidate-vibid:302300467057": 0,
+      "gas:candidate-vibid:302300466831": 1,
+      "gas:candidate-vibid:1001000187981": 0,
+      "gas:candidate-vibid:1001000135992": 0,
+      "gas:candidate-vibid:302300466837": 1,
+      "gas:candidate-vibid:302300467045": 6,
+      "gas:candidate-vibid:1001000121786": 4,
+      "gas:candidate-vibid:1001000225869": 114,
+      "special:against-all": 1
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=22000047&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=202200066862&region=0&sub_region=0&type=429",
@@ -9305,16 +9305,16 @@ export const duma_2003_uik_428_region_3_part_009 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Богданова Дарья Максимовна": 10,
-      "Генералов Михаил Афанасьевич": 6,
-      "Джалилов Рафаиль Алиевич": 1,
-      "Диков Павел Михайлович": 1,
-      "Зарифьянов Рафис Раисович": 6,
-      "Ишбульдин Ирек Хайрутдинович": 4,
-      "Квят Вячеслав Яковлевич": 11,
-      "Сексяева Вера Кирилловна": 25,
-      "Фурман Александр Борисович": 192,
-      "Против всех": 7
+      "gas:candidate-vibid:1001000194996": 10,
+      "gas:candidate-vibid:302300467057": 6,
+      "gas:candidate-vibid:302300466831": 1,
+      "gas:candidate-vibid:1001000187981": 1,
+      "gas:candidate-vibid:1001000135992": 6,
+      "gas:candidate-vibid:302300466837": 4,
+      "gas:candidate-vibid:302300467045": 11,
+      "gas:candidate-vibid:1001000121786": 25,
+      "gas:candidate-vibid:1001000225869": 192,
+      "special:against-all": 7
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=22000047&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=202200066862&region=0&sub_region=0&type=429",
@@ -9364,16 +9364,16 @@ export const duma_2003_uik_428_region_3_part_009 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Богданова Дарья Максимовна": 8,
-      "Генералов Михаил Афанасьевич": 3,
-      "Джалилов Рафаиль Алиевич": 1,
-      "Диков Павел Михайлович": 5,
-      "Зарифьянов Рафис Раисович": 4,
-      "Ишбульдин Ирек Хайрутдинович": 1,
-      "Квят Вячеслав Яковлевич": 7,
-      "Сексяева Вера Кирилловна": 25,
-      "Фурман Александр Борисович": 69,
-      "Против всех": 3
+      "gas:candidate-vibid:1001000194996": 8,
+      "gas:candidate-vibid:302300467057": 3,
+      "gas:candidate-vibid:302300466831": 1,
+      "gas:candidate-vibid:1001000187981": 5,
+      "gas:candidate-vibid:1001000135992": 4,
+      "gas:candidate-vibid:302300466837": 1,
+      "gas:candidate-vibid:302300467045": 7,
+      "gas:candidate-vibid:1001000121786": 25,
+      "gas:candidate-vibid:1001000225869": 69,
+      "special:against-all": 3
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=22000047&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=202200066862&region=0&sub_region=0&type=429",
@@ -9423,16 +9423,16 @@ export const duma_2003_uik_428_region_3_part_009 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Богданова Дарья Максимовна": 4,
-      "Генералов Михаил Афанасьевич": 4,
-      "Джалилов Рафаиль Алиевич": 2,
-      "Диков Павел Михайлович": 0,
-      "Зарифьянов Рафис Раисович": 3,
-      "Ишбульдин Ирек Хайрутдинович": 6,
-      "Квят Вячеслав Яковлевич": 17,
-      "Сексяева Вера Кирилловна": 19,
-      "Фурман Александр Борисович": 186,
-      "Против всех": 15
+      "gas:candidate-vibid:1001000194996": 4,
+      "gas:candidate-vibid:302300467057": 4,
+      "gas:candidate-vibid:302300466831": 2,
+      "gas:candidate-vibid:1001000187981": 0,
+      "gas:candidate-vibid:1001000135992": 3,
+      "gas:candidate-vibid:302300466837": 6,
+      "gas:candidate-vibid:302300467045": 17,
+      "gas:candidate-vibid:1001000121786": 19,
+      "gas:candidate-vibid:1001000225869": 186,
+      "special:against-all": 15
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=22000047&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=202200066862&region=0&sub_region=0&type=429",
@@ -9482,16 +9482,16 @@ export const duma_2003_uik_428_region_3_part_009 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Богданова Дарья Максимовна": 1,
-      "Генералов Михаил Афанасьевич": 2,
-      "Джалилов Рафаиль Алиевич": 1,
-      "Диков Павел Михайлович": 3,
-      "Зарифьянов Рафис Раисович": 11,
-      "Ишбульдин Ирек Хайрутдинович": 6,
-      "Квят Вячеслав Яковлевич": 3,
-      "Сексяева Вера Кирилловна": 7,
-      "Фурман Александр Борисович": 114,
-      "Против всех": 6
+      "gas:candidate-vibid:1001000194996": 1,
+      "gas:candidate-vibid:302300467057": 2,
+      "gas:candidate-vibid:302300466831": 1,
+      "gas:candidate-vibid:1001000187981": 3,
+      "gas:candidate-vibid:1001000135992": 11,
+      "gas:candidate-vibid:302300466837": 6,
+      "gas:candidate-vibid:302300467045": 3,
+      "gas:candidate-vibid:1001000121786": 7,
+      "gas:candidate-vibid:1001000225869": 114,
+      "special:against-all": 6
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=22000047&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=202200066862&region=0&sub_region=0&type=429",
@@ -9541,16 +9541,16 @@ export const duma_2003_uik_428_region_3_part_009 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Богданова Дарья Максимовна": 4,
-      "Генералов Михаил Афанасьевич": 3,
-      "Джалилов Рафаиль Алиевич": 1,
-      "Диков Павел Михайлович": 4,
-      "Зарифьянов Рафис Раисович": 3,
-      "Ишбульдин Ирек Хайрутдинович": 0,
-      "Квят Вячеслав Яковлевич": 1,
-      "Сексяева Вера Кирилловна": 10,
-      "Фурман Александр Борисович": 25,
-      "Против всех": 6
+      "gas:candidate-vibid:1001000194996": 4,
+      "gas:candidate-vibid:302300467057": 3,
+      "gas:candidate-vibid:302300466831": 1,
+      "gas:candidate-vibid:1001000187981": 4,
+      "gas:candidate-vibid:1001000135992": 3,
+      "gas:candidate-vibid:302300466837": 0,
+      "gas:candidate-vibid:302300467045": 1,
+      "gas:candidate-vibid:1001000121786": 10,
+      "gas:candidate-vibid:1001000225869": 25,
+      "special:against-all": 6
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=22000047&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=202200066862&region=0&sub_region=0&type=429",
@@ -9600,16 +9600,16 @@ export const duma_2003_uik_428_region_3_part_009 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Богданова Дарья Максимовна": 19,
-      "Генералов Михаил Афанасьевич": 17,
-      "Джалилов Рафаиль Алиевич": 4,
-      "Диков Павел Михайлович": 19,
-      "Зарифьянов Рафис Раисович": 8,
-      "Ишбульдин Ирек Хайрутдинович": 3,
-      "Квят Вячеслав Яковлевич": 356,
-      "Сексяева Вера Кирилловна": 55,
-      "Фурман Александр Борисович": 317,
-      "Против всех": 31
+      "gas:candidate-vibid:1001000194996": 19,
+      "gas:candidate-vibid:302300467057": 17,
+      "gas:candidate-vibid:302300466831": 4,
+      "gas:candidate-vibid:1001000187981": 19,
+      "gas:candidate-vibid:1001000135992": 8,
+      "gas:candidate-vibid:302300466837": 3,
+      "gas:candidate-vibid:302300467045": 356,
+      "gas:candidate-vibid:1001000121786": 55,
+      "gas:candidate-vibid:1001000225869": 317,
+      "special:against-all": 31
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=22000047&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=202200066862&region=0&sub_region=0&type=429",
@@ -9659,16 +9659,16 @@ export const duma_2003_uik_428_region_3_part_009 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Богданова Дарья Максимовна": 6,
-      "Генералов Михаил Афанасьевич": 3,
-      "Джалилов Рафаиль Алиевич": 0,
-      "Диков Павел Михайлович": 6,
-      "Зарифьянов Рафис Раисович": 6,
-      "Ишбульдин Ирек Хайрутдинович": 3,
-      "Квят Вячеслав Яковлевич": 68,
-      "Сексяева Вера Кирилловна": 6,
-      "Фурман Александр Борисович": 76,
-      "Против всех": 13
+      "gas:candidate-vibid:1001000194996": 6,
+      "gas:candidate-vibid:302300467057": 3,
+      "gas:candidate-vibid:302300466831": 0,
+      "gas:candidate-vibid:1001000187981": 6,
+      "gas:candidate-vibid:1001000135992": 6,
+      "gas:candidate-vibid:302300466837": 3,
+      "gas:candidate-vibid:302300467045": 68,
+      "gas:candidate-vibid:1001000121786": 6,
+      "gas:candidate-vibid:1001000225869": 76,
+      "special:against-all": 13
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=22000047&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=202200066862&region=0&sub_region=0&type=429",
@@ -9718,16 +9718,16 @@ export const duma_2003_uik_428_region_3_part_009 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Богданова Дарья Максимовна": 6,
-      "Генералов Михаил Афанасьевич": 1,
-      "Джалилов Рафаиль Алиевич": 1,
-      "Диков Павел Михайлович": 2,
-      "Зарифьянов Рафис Раисович": 5,
-      "Ишбульдин Ирек Хайрутдинович": 3,
-      "Квят Вячеслав Яковлевич": 41,
-      "Сексяева Вера Кирилловна": 6,
-      "Фурман Александр Борисович": 42,
-      "Против всех": 5
+      "gas:candidate-vibid:1001000194996": 6,
+      "gas:candidate-vibid:302300467057": 1,
+      "gas:candidate-vibid:302300466831": 1,
+      "gas:candidate-vibid:1001000187981": 2,
+      "gas:candidate-vibid:1001000135992": 5,
+      "gas:candidate-vibid:302300466837": 3,
+      "gas:candidate-vibid:302300467045": 41,
+      "gas:candidate-vibid:1001000121786": 6,
+      "gas:candidate-vibid:1001000225869": 42,
+      "special:against-all": 5
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=22000047&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=202200066862&region=0&sub_region=0&type=429",
@@ -9777,16 +9777,16 @@ export const duma_2003_uik_428_region_3_part_009 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Богданова Дарья Максимовна": 10,
-      "Генералов Михаил Афанасьевич": 5,
-      "Джалилов Рафаиль Алиевич": 3,
-      "Диков Павел Михайлович": 5,
-      "Зарифьянов Рафис Раисович": 3,
-      "Ишбульдин Ирек Хайрутдинович": 5,
-      "Квят Вячеслав Яковлевич": 91,
-      "Сексяева Вера Кирилловна": 9,
-      "Фурман Александр Борисович": 167,
-      "Против всех": 9
+      "gas:candidate-vibid:1001000194996": 10,
+      "gas:candidate-vibid:302300467057": 5,
+      "gas:candidate-vibid:302300466831": 3,
+      "gas:candidate-vibid:1001000187981": 5,
+      "gas:candidate-vibid:1001000135992": 3,
+      "gas:candidate-vibid:302300466837": 5,
+      "gas:candidate-vibid:302300467045": 91,
+      "gas:candidate-vibid:1001000121786": 9,
+      "gas:candidate-vibid:1001000225869": 167,
+      "special:against-all": 9
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=22000047&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=202200066862&region=0&sub_region=0&type=429",
@@ -9836,16 +9836,16 @@ export const duma_2003_uik_428_region_3_part_009 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Богданова Дарья Максимовна": 5,
-      "Генералов Михаил Афанасьевич": 4,
-      "Джалилов Рафаиль Алиевич": 5,
-      "Диков Павел Михайлович": 10,
-      "Зарифьянов Рафис Раисович": 9,
-      "Ишбульдин Ирек Хайрутдинович": 5,
-      "Квят Вячеслав Яковлевич": 65,
-      "Сексяева Вера Кирилловна": 13,
-      "Фурман Александр Борисович": 151,
-      "Против всех": 11
+      "gas:candidate-vibid:1001000194996": 5,
+      "gas:candidate-vibid:302300467057": 4,
+      "gas:candidate-vibid:302300466831": 5,
+      "gas:candidate-vibid:1001000187981": 10,
+      "gas:candidate-vibid:1001000135992": 9,
+      "gas:candidate-vibid:302300466837": 5,
+      "gas:candidate-vibid:302300467045": 65,
+      "gas:candidate-vibid:1001000121786": 13,
+      "gas:candidate-vibid:1001000225869": 151,
+      "special:against-all": 11
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=22000047&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=202200066862&region=0&sub_region=0&type=429",
@@ -9895,16 +9895,16 @@ export const duma_2003_uik_428_region_3_part_009 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Богданова Дарья Максимовна": 10,
-      "Генералов Михаил Афанасьевич": 5,
-      "Джалилов Рафаиль Алиевич": 3,
-      "Диков Павел Михайлович": 4,
-      "Зарифьянов Рафис Раисович": 4,
-      "Ишбульдин Ирек Хайрутдинович": 3,
-      "Квят Вячеслав Яковлевич": 11,
-      "Сексяева Вера Кирилловна": 9,
-      "Фурман Александр Борисович": 151,
-      "Против всех": 12
+      "gas:candidate-vibid:1001000194996": 10,
+      "gas:candidate-vibid:302300467057": 5,
+      "gas:candidate-vibid:302300466831": 3,
+      "gas:candidate-vibid:1001000187981": 4,
+      "gas:candidate-vibid:1001000135992": 4,
+      "gas:candidate-vibid:302300466837": 3,
+      "gas:candidate-vibid:302300467045": 11,
+      "gas:candidate-vibid:1001000121786": 9,
+      "gas:candidate-vibid:1001000225869": 151,
+      "special:against-all": 12
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=22000047&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=202200066862&region=0&sub_region=0&type=429",
@@ -9954,16 +9954,16 @@ export const duma_2003_uik_428_region_3_part_009 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Богданова Дарья Максимовна": 6,
-      "Генералов Михаил Афанасьевич": 8,
-      "Джалилов Рафаиль Алиевич": 1,
-      "Диков Павел Михайлович": 6,
-      "Зарифьянов Рафис Раисович": 6,
-      "Ишбульдин Ирек Хайрутдинович": 5,
-      "Квят Вячеслав Яковлевич": 75,
-      "Сексяева Вера Кирилловна": 18,
-      "Фурман Александр Борисович": 146,
-      "Против всех": 22
+      "gas:candidate-vibid:1001000194996": 6,
+      "gas:candidate-vibid:302300467057": 8,
+      "gas:candidate-vibid:302300466831": 1,
+      "gas:candidate-vibid:1001000187981": 6,
+      "gas:candidate-vibid:1001000135992": 6,
+      "gas:candidate-vibid:302300466837": 5,
+      "gas:candidate-vibid:302300467045": 75,
+      "gas:candidate-vibid:1001000121786": 18,
+      "gas:candidate-vibid:1001000225869": 146,
+      "special:against-all": 22
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=22000047&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=202200066862&region=0&sub_region=0&type=429",
@@ -10013,16 +10013,16 @@ export const duma_2003_uik_428_region_3_part_009 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Богданова Дарья Максимовна": 2,
-      "Генералов Михаил Афанасьевич": 3,
-      "Джалилов Рафаиль Алиевич": 0,
-      "Диков Павел Михайлович": 0,
-      "Зарифьянов Рафис Раисович": 0,
-      "Ишбульдин Ирек Хайрутдинович": 0,
-      "Квят Вячеслав Яковлевич": 34,
-      "Сексяева Вера Кирилловна": 2,
-      "Фурман Александр Борисович": 91,
-      "Против всех": 7
+      "gas:candidate-vibid:1001000194996": 2,
+      "gas:candidate-vibid:302300467057": 3,
+      "gas:candidate-vibid:302300466831": 0,
+      "gas:candidate-vibid:1001000187981": 0,
+      "gas:candidate-vibid:1001000135992": 0,
+      "gas:candidate-vibid:302300466837": 0,
+      "gas:candidate-vibid:302300467045": 34,
+      "gas:candidate-vibid:1001000121786": 2,
+      "gas:candidate-vibid:1001000225869": 91,
+      "special:against-all": 7
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=22000047&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=202200066862&region=0&sub_region=0&type=429",
@@ -10072,16 +10072,16 @@ export const duma_2003_uik_428_region_3_part_009 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Богданова Дарья Максимовна": 7,
-      "Генералов Михаил Афанасьевич": 5,
-      "Джалилов Рафаиль Алиевич": 3,
-      "Диков Павел Михайлович": 2,
-      "Зарифьянов Рафис Раисович": 3,
-      "Ишбульдин Ирек Хайрутдинович": 12,
-      "Квят Вячеслав Яковлевич": 60,
-      "Сексяева Вера Кирилловна": 14,
-      "Фурман Александр Борисович": 265,
-      "Против всех": 14
+      "gas:candidate-vibid:1001000194996": 7,
+      "gas:candidate-vibid:302300467057": 5,
+      "gas:candidate-vibid:302300466831": 3,
+      "gas:candidate-vibid:1001000187981": 2,
+      "gas:candidate-vibid:1001000135992": 3,
+      "gas:candidate-vibid:302300466837": 12,
+      "gas:candidate-vibid:302300467045": 60,
+      "gas:candidate-vibid:1001000121786": 14,
+      "gas:candidate-vibid:1001000225869": 265,
+      "special:against-all": 14
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=22000047&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=202200066862&region=0&sub_region=0&type=429",
@@ -10131,16 +10131,16 @@ export const duma_2003_uik_428_region_3_part_009 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Богданова Дарья Максимовна": 6,
-      "Генералов Михаил Афанасьевич": 2,
-      "Джалилов Рафаиль Алиевич": 3,
-      "Диков Павел Михайлович": 0,
-      "Зарифьянов Рафис Раисович": 5,
-      "Ишбульдин Ирек Хайрутдинович": 4,
-      "Квят Вячеслав Яковлевич": 51,
-      "Сексяева Вера Кирилловна": 5,
-      "Фурман Александр Борисович": 85,
-      "Против всех": 14
+      "gas:candidate-vibid:1001000194996": 6,
+      "gas:candidate-vibid:302300467057": 2,
+      "gas:candidate-vibid:302300466831": 3,
+      "gas:candidate-vibid:1001000187981": 0,
+      "gas:candidate-vibid:1001000135992": 5,
+      "gas:candidate-vibid:302300466837": 4,
+      "gas:candidate-vibid:302300467045": 51,
+      "gas:candidate-vibid:1001000121786": 5,
+      "gas:candidate-vibid:1001000225869": 85,
+      "special:against-all": 14
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=22000047&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=202200066862&region=0&sub_region=0&type=429",
@@ -10190,16 +10190,16 @@ export const duma_2003_uik_428_region_3_part_009 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Богданова Дарья Максимовна": 18,
-      "Генералов Михаил Афанасьевич": 9,
-      "Джалилов Рафаиль Алиевич": 4,
-      "Диков Павел Михайлович": 7,
-      "Зарифьянов Рафис Раисович": 16,
-      "Ишбульдин Ирек Хайрутдинович": 3,
-      "Квят Вячеслав Яковлевич": 45,
-      "Сексяева Вера Кирилловна": 43,
-      "Фурман Александр Борисович": 121,
-      "Против всех": 26
+      "gas:candidate-vibid:1001000194996": 18,
+      "gas:candidate-vibid:302300467057": 9,
+      "gas:candidate-vibid:302300466831": 4,
+      "gas:candidate-vibid:1001000187981": 7,
+      "gas:candidate-vibid:1001000135992": 16,
+      "gas:candidate-vibid:302300466837": 3,
+      "gas:candidate-vibid:302300467045": 45,
+      "gas:candidate-vibid:1001000121786": 43,
+      "gas:candidate-vibid:1001000225869": 121,
+      "special:against-all": 26
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=22000047&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=202200066862&region=0&sub_region=0&type=429",
@@ -10249,16 +10249,16 @@ export const duma_2003_uik_428_region_3_part_009 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Богданова Дарья Максимовна": 46,
-      "Генералов Михаил Афанасьевич": 18,
-      "Джалилов Рафаиль Алиевич": 11,
-      "Диков Павел Михайлович": 29,
-      "Зарифьянов Рафис Раисович": 23,
-      "Ишбульдин Ирек Хайрутдинович": 8,
-      "Квят Вячеслав Яковлевич": 155,
-      "Сексяева Вера Кирилловна": 72,
-      "Фурман Александр Борисович": 725,
-      "Против всех": 69
+      "gas:candidate-vibid:1001000194996": 46,
+      "gas:candidate-vibid:302300467057": 18,
+      "gas:candidate-vibid:302300466831": 11,
+      "gas:candidate-vibid:1001000187981": 29,
+      "gas:candidate-vibid:1001000135992": 23,
+      "gas:candidate-vibid:302300466837": 8,
+      "gas:candidate-vibid:302300467045": 155,
+      "gas:candidate-vibid:1001000121786": 72,
+      "gas:candidate-vibid:1001000225869": 725,
+      "special:against-all": 69
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=22000047&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=202200066862&region=0&sub_region=0&type=429",
@@ -10308,16 +10308,16 @@ export const duma_2003_uik_428_region_3_part_009 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Богданова Дарья Максимовна": 8,
-      "Генералов Михаил Афанасьевич": 3,
-      "Джалилов Рафаиль Алиевич": 8,
-      "Диков Павел Михайлович": 2,
-      "Зарифьянов Рафис Раисович": 15,
-      "Ишбульдин Ирек Хайрутдинович": 12,
-      "Квят Вячеслав Яковлевич": 73,
-      "Сексяева Вера Кирилловна": 42,
-      "Фурман Александр Борисович": 337,
-      "Против всех": 15
+      "gas:candidate-vibid:1001000194996": 8,
+      "gas:candidate-vibid:302300467057": 3,
+      "gas:candidate-vibid:302300466831": 8,
+      "gas:candidate-vibid:1001000187981": 2,
+      "gas:candidate-vibid:1001000135992": 15,
+      "gas:candidate-vibid:302300466837": 12,
+      "gas:candidate-vibid:302300467045": 73,
+      "gas:candidate-vibid:1001000121786": 42,
+      "gas:candidate-vibid:1001000225869": 337,
+      "special:against-all": 15
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=22000047&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=202200066862&region=0&sub_region=0&type=429",
@@ -10367,16 +10367,16 @@ export const duma_2003_uik_428_region_3_part_009 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Богданова Дарья Максимовна": 9,
-      "Генералов Михаил Афанасьевич": 5,
-      "Джалилов Рафаиль Алиевич": 6,
-      "Диков Павел Михайлович": 3,
-      "Зарифьянов Рафис Раисович": 4,
-      "Ишбульдин Ирек Хайрутдинович": 3,
-      "Квят Вячеслав Яковлевич": 27,
-      "Сексяева Вера Кирилловна": 71,
-      "Фурман Александр Борисович": 195,
-      "Против всех": 29
+      "gas:candidate-vibid:1001000194996": 9,
+      "gas:candidate-vibid:302300467057": 5,
+      "gas:candidate-vibid:302300466831": 6,
+      "gas:candidate-vibid:1001000187981": 3,
+      "gas:candidate-vibid:1001000135992": 4,
+      "gas:candidate-vibid:302300466837": 3,
+      "gas:candidate-vibid:302300467045": 27,
+      "gas:candidate-vibid:1001000121786": 71,
+      "gas:candidate-vibid:1001000225869": 195,
+      "special:against-all": 29
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=22000047&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=202200066862&region=0&sub_region=0&type=429",
@@ -10426,16 +10426,16 @@ export const duma_2003_uik_428_region_3_part_009 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Богданова Дарья Максимовна": 40,
-      "Генералов Михаил Афанасьевич": 16,
-      "Джалилов Рафаиль Алиевич": 122,
-      "Диков Павел Михайлович": 29,
-      "Зарифьянов Рафис Раисович": 79,
-      "Ишбульдин Ирек Хайрутдинович": 60,
-      "Квят Вячеслав Яковлевич": 545,
-      "Сексяева Вера Кирилловна": 179,
-      "Фурман Александр Борисович": 677,
-      "Против всех": 123
+      "gas:candidate-vibid:1001000194996": 40,
+      "gas:candidate-vibid:302300467057": 16,
+      "gas:candidate-vibid:302300466831": 122,
+      "gas:candidate-vibid:1001000187981": 29,
+      "gas:candidate-vibid:1001000135992": 79,
+      "gas:candidate-vibid:302300466837": 60,
+      "gas:candidate-vibid:302300467045": 545,
+      "gas:candidate-vibid:1001000121786": 179,
+      "gas:candidate-vibid:1001000225869": 677,
+      "special:against-all": 123
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=22000048&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=202200066863&region=0&sub_region=0&type=429",
@@ -10485,16 +10485,16 @@ export const duma_2003_uik_428_region_3_part_009 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Богданова Дарья Максимовна": 37,
-      "Генералов Михаил Афанасьевич": 13,
-      "Джалилов Рафаиль Алиевич": 100,
-      "Диков Павел Михайлович": 22,
-      "Зарифьянов Рафис Раисович": 60,
-      "Ишбульдин Ирек Хайрутдинович": 52,
-      "Квят Вячеслав Яковлевич": 507,
-      "Сексяева Вера Кирилловна": 185,
-      "Фурман Александр Борисович": 522,
-      "Против всех": 104
+      "gas:candidate-vibid:1001000194996": 37,
+      "gas:candidate-vibid:302300467057": 13,
+      "gas:candidate-vibid:302300466831": 100,
+      "gas:candidate-vibid:1001000187981": 22,
+      "gas:candidate-vibid:1001000135992": 60,
+      "gas:candidate-vibid:302300466837": 52,
+      "gas:candidate-vibid:302300467045": 507,
+      "gas:candidate-vibid:1001000121786": 185,
+      "gas:candidate-vibid:1001000225869": 522,
+      "special:against-all": 104
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=22000048&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=202200066863&region=0&sub_region=0&type=429",
@@ -10544,16 +10544,16 @@ export const duma_2003_uik_428_region_3_part_009 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Богданова Дарья Максимовна": 36,
-      "Генералов Михаил Афанасьевич": 15,
-      "Джалилов Рафаиль Алиевич": 138,
-      "Диков Павел Михайлович": 14,
-      "Зарифьянов Рафис Раисович": 69,
-      "Ишбульдин Ирек Хайрутдинович": 72,
-      "Квят Вячеслав Яковлевич": 587,
-      "Сексяева Вера Кирилловна": 136,
-      "Фурман Александр Борисович": 521,
-      "Против всех": 105
+      "gas:candidate-vibid:1001000194996": 36,
+      "gas:candidate-vibid:302300467057": 15,
+      "gas:candidate-vibid:302300466831": 138,
+      "gas:candidate-vibid:1001000187981": 14,
+      "gas:candidate-vibid:1001000135992": 69,
+      "gas:candidate-vibid:302300466837": 72,
+      "gas:candidate-vibid:302300467045": 587,
+      "gas:candidate-vibid:1001000121786": 136,
+      "gas:candidate-vibid:1001000225869": 521,
+      "special:against-all": 105
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=22000048&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=202200066863&region=0&sub_region=0&type=429",
@@ -10603,16 +10603,16 @@ export const duma_2003_uik_428_region_3_part_009 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Богданова Дарья Максимовна": 29,
-      "Генералов Михаил Афанасьевич": 13,
-      "Джалилов Рафаиль Алиевич": 126,
-      "Диков Павел Михайлович": 22,
-      "Зарифьянов Рафис Раисович": 60,
-      "Ишбульдин Ирек Хайрутдинович": 69,
-      "Квят Вячеслав Яковлевич": 638,
-      "Сексяева Вера Кирилловна": 121,
-      "Фурман Александр Борисович": 524,
-      "Против всех": 125
+      "gas:candidate-vibid:1001000194996": 29,
+      "gas:candidate-vibid:302300467057": 13,
+      "gas:candidate-vibid:302300466831": 126,
+      "gas:candidate-vibid:1001000187981": 22,
+      "gas:candidate-vibid:1001000135992": 60,
+      "gas:candidate-vibid:302300466837": 69,
+      "gas:candidate-vibid:302300467045": 638,
+      "gas:candidate-vibid:1001000121786": 121,
+      "gas:candidate-vibid:1001000225869": 524,
+      "special:against-all": 125
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=22000048&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=202200066863&region=0&sub_region=0&type=429",
@@ -10662,16 +10662,16 @@ export const duma_2003_uik_428_region_3_part_009 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Богданова Дарья Максимовна": 37,
-      "Генералов Михаил Афанасьевич": 12,
-      "Джалилов Рафаиль Алиевич": 112,
-      "Диков Павел Михайлович": 28,
-      "Зарифьянов Рафис Раисович": 61,
-      "Ишбульдин Ирек Хайрутдинович": 71,
-      "Квят Вячеслав Яковлевич": 743,
-      "Сексяева Вера Кирилловна": 173,
-      "Фурман Александр Борисович": 520,
-      "Против всех": 128
+      "gas:candidate-vibid:1001000194996": 37,
+      "gas:candidate-vibid:302300467057": 12,
+      "gas:candidate-vibid:302300466831": 112,
+      "gas:candidate-vibid:1001000187981": 28,
+      "gas:candidate-vibid:1001000135992": 61,
+      "gas:candidate-vibid:302300466837": 71,
+      "gas:candidate-vibid:302300467045": 743,
+      "gas:candidate-vibid:1001000121786": 173,
+      "gas:candidate-vibid:1001000225869": 520,
+      "special:against-all": 128
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=22000048&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=202200066863&region=0&sub_region=0&type=429",
@@ -10721,16 +10721,16 @@ export const duma_2003_uik_428_region_3_part_009 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Богданова Дарья Максимовна": 38,
-      "Генералов Михаил Афанасьевич": 13,
-      "Джалилов Рафаиль Алиевич": 114,
-      "Диков Павел Михайлович": 29,
-      "Зарифьянов Рафис Раисович": 58,
-      "Ишбульдин Ирек Хайрутдинович": 66,
-      "Квят Вячеслав Яковлевич": 696,
-      "Сексяева Вера Кирилловна": 140,
-      "Фурман Александр Борисович": 580,
-      "Против всех": 98
+      "gas:candidate-vibid:1001000194996": 38,
+      "gas:candidate-vibid:302300467057": 13,
+      "gas:candidate-vibid:302300466831": 114,
+      "gas:candidate-vibid:1001000187981": 29,
+      "gas:candidate-vibid:1001000135992": 58,
+      "gas:candidate-vibid:302300466837": 66,
+      "gas:candidate-vibid:302300467045": 696,
+      "gas:candidate-vibid:1001000121786": 140,
+      "gas:candidate-vibid:1001000225869": 580,
+      "special:against-all": 98
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=22000048&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=202200066863&region=0&sub_region=0&type=429",
@@ -10780,16 +10780,16 @@ export const duma_2003_uik_428_region_3_part_009 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Богданова Дарья Максимовна": 37,
-      "Генералов Михаил Афанасьевич": 15,
-      "Джалилов Рафаиль Алиевич": 101,
-      "Диков Павел Михайлович": 25,
-      "Зарифьянов Рафис Раисович": 66,
-      "Ишбульдин Ирек Хайрутдинович": 54,
-      "Квят Вячеслав Яковлевич": 392,
-      "Сексяева Вера Кирилловна": 180,
-      "Фурман Александр Борисович": 622,
-      "Против всех": 102
+      "gas:candidate-vibid:1001000194996": 37,
+      "gas:candidate-vibid:302300467057": 15,
+      "gas:candidate-vibid:302300466831": 101,
+      "gas:candidate-vibid:1001000187981": 25,
+      "gas:candidate-vibid:1001000135992": 66,
+      "gas:candidate-vibid:302300466837": 54,
+      "gas:candidate-vibid:302300467045": 392,
+      "gas:candidate-vibid:1001000121786": 180,
+      "gas:candidate-vibid:1001000225869": 622,
+      "special:against-all": 102
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=22000048&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=202200066863&region=0&sub_region=0&type=429",
@@ -10839,16 +10839,16 @@ export const duma_2003_uik_428_region_3_part_009 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Богданова Дарья Максимовна": 29,
-      "Генералов Михаил Афанасьевич": 16,
-      "Джалилов Рафаиль Алиевич": 136,
-      "Диков Павел Михайлович": 15,
-      "Зарифьянов Рафис Раисович": 63,
-      "Ишбульдин Ирек Хайрутдинович": 73,
-      "Квят Вячеслав Яковлевич": 306,
-      "Сексяева Вера Кирилловна": 101,
-      "Фурман Александр Борисович": 548,
-      "Против всех": 37
+      "gas:candidate-vibid:1001000194996": 29,
+      "gas:candidate-vibid:302300467057": 16,
+      "gas:candidate-vibid:302300466831": 136,
+      "gas:candidate-vibid:1001000187981": 15,
+      "gas:candidate-vibid:1001000135992": 63,
+      "gas:candidate-vibid:302300466837": 73,
+      "gas:candidate-vibid:302300467045": 306,
+      "gas:candidate-vibid:1001000121786": 101,
+      "gas:candidate-vibid:1001000225869": 548,
+      "special:against-all": 37
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=22000048&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=202200066863&region=0&sub_region=0&type=429",
@@ -10898,16 +10898,16 @@ export const duma_2003_uik_428_region_3_part_009 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Богданова Дарья Максимовна": 21,
-      "Генералов Михаил Афанасьевич": 10,
-      "Джалилов Рафаиль Алиевич": 99,
-      "Диков Павел Михайлович": 25,
-      "Зарифьянов Рафис Раисович": 46,
-      "Ишбульдин Ирек Хайрутдинович": 54,
-      "Квят Вячеслав Яковлевич": 496,
-      "Сексяева Вера Кирилловна": 106,
-      "Фурман Александр Борисович": 452,
-      "Против всех": 84
+      "gas:candidate-vibid:1001000194996": 21,
+      "gas:candidate-vibid:302300467057": 10,
+      "gas:candidate-vibid:302300466831": 99,
+      "gas:candidate-vibid:1001000187981": 25,
+      "gas:candidate-vibid:1001000135992": 46,
+      "gas:candidate-vibid:302300466837": 54,
+      "gas:candidate-vibid:302300467045": 496,
+      "gas:candidate-vibid:1001000121786": 106,
+      "gas:candidate-vibid:1001000225869": 452,
+      "special:against-all": 84
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=22000048&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=202200066863&region=0&sub_region=0&type=429",
@@ -10957,16 +10957,16 @@ export const duma_2003_uik_428_region_3_part_009 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Богданова Дарья Максимовна": 28,
-      "Генералов Михаил Афанасьевич": 13,
-      "Джалилов Рафаиль Алиевич": 145,
-      "Диков Павел Михайлович": 33,
-      "Зарифьянов Рафис Раисович": 76,
-      "Ишбульдин Ирек Хайрутдинович": 87,
-      "Квят Вячеслав Яковлевич": 599,
-      "Сексяева Вера Кирилловна": 180,
-      "Фурман Александр Борисович": 661,
-      "Против всех": 130
+      "gas:candidate-vibid:1001000194996": 28,
+      "gas:candidate-vibid:302300467057": 13,
+      "gas:candidate-vibid:302300466831": 145,
+      "gas:candidate-vibid:1001000187981": 33,
+      "gas:candidate-vibid:1001000135992": 76,
+      "gas:candidate-vibid:302300466837": 87,
+      "gas:candidate-vibid:302300467045": 599,
+      "gas:candidate-vibid:1001000121786": 180,
+      "gas:candidate-vibid:1001000225869": 661,
+      "special:against-all": 130
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=22000048&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=202200066863&region=0&sub_region=0&type=429",
@@ -11016,16 +11016,16 @@ export const duma_2003_uik_428_region_3_part_009 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Богданова Дарья Максимовна": 0,
-      "Генералов Михаил Афанасьевич": 0,
-      "Джалилов Рафаиль Алиевич": 2,
-      "Диков Павел Михайлович": 0,
-      "Зарифьянов Рафис Раисович": 1,
-      "Ишбульдин Ирек Хайрутдинович": 2,
-      "Квят Вячеслав Яковлевич": 2,
-      "Сексяева Вера Кирилловна": 1,
-      "Фурман Александр Борисович": 15,
-      "Против всех": 1
+      "gas:candidate-vibid:1001000194996": 0,
+      "gas:candidate-vibid:302300467057": 0,
+      "gas:candidate-vibid:302300466831": 2,
+      "gas:candidate-vibid:1001000187981": 0,
+      "gas:candidate-vibid:1001000135992": 1,
+      "gas:candidate-vibid:302300466837": 2,
+      "gas:candidate-vibid:302300467045": 2,
+      "gas:candidate-vibid:1001000121786": 1,
+      "gas:candidate-vibid:1001000225869": 15,
+      "special:against-all": 1
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=22000048&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=202200066863&region=0&sub_region=0&type=429",
@@ -11075,16 +11075,16 @@ export const duma_2003_uik_428_region_3_part_009 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Богданова Дарья Максимовна": 22,
-      "Генералов Михаил Афанасьевич": 10,
-      "Джалилов Рафаиль Алиевич": 15,
-      "Диков Павел Михайлович": 3,
-      "Зарифьянов Рафис Раисович": 26,
-      "Ишбульдин Ирек Хайрутдинович": 8,
-      "Квят Вячеслав Яковлевич": 6,
-      "Сексяева Вера Кирилловна": 6,
-      "Фурман Александр Борисович": 25,
-      "Против всех": 19
+      "gas:candidate-vibid:1001000194996": 22,
+      "gas:candidate-vibid:302300467057": 10,
+      "gas:candidate-vibid:302300466831": 15,
+      "gas:candidate-vibid:1001000187981": 3,
+      "gas:candidate-vibid:1001000135992": 26,
+      "gas:candidate-vibid:302300466837": 8,
+      "gas:candidate-vibid:302300467045": 6,
+      "gas:candidate-vibid:1001000121786": 6,
+      "gas:candidate-vibid:1001000225869": 25,
+      "special:against-all": 19
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=22000048&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=202200066863&region=0&sub_region=0&type=429",
@@ -11134,16 +11134,16 @@ export const duma_2003_uik_428_region_3_part_009 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Богданова Дарья Максимовна": 29,
-      "Генералов Михаил Афанасьевич": 16,
-      "Джалилов Рафаиль Алиевич": 182,
-      "Диков Павел Михайлович": 17,
-      "Зарифьянов Рафис Раисович": 39,
-      "Ишбульдин Ирек Хайрутдинович": 55,
-      "Квят Вячеслав Яковлевич": 426,
-      "Сексяева Вера Кирилловна": 78,
-      "Фурман Александр Борисович": 283,
-      "Против всех": 63
+      "gas:candidate-vibid:1001000194996": 29,
+      "gas:candidate-vibid:302300467057": 16,
+      "gas:candidate-vibid:302300466831": 182,
+      "gas:candidate-vibid:1001000187981": 17,
+      "gas:candidate-vibid:1001000135992": 39,
+      "gas:candidate-vibid:302300466837": 55,
+      "gas:candidate-vibid:302300467045": 426,
+      "gas:candidate-vibid:1001000121786": 78,
+      "gas:candidate-vibid:1001000225869": 283,
+      "special:against-all": 63
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=22000048&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=202200066863&region=0&sub_region=0&type=429",
@@ -11193,16 +11193,16 @@ export const duma_2003_uik_428_region_3_part_009 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Богданова Дарья Максимовна": 23,
-      "Генералов Михаил Афанасьевич": 9,
-      "Джалилов Рафаиль Алиевич": 225,
-      "Диков Павел Михайлович": 13,
-      "Зарифьянов Рафис Раисович": 61,
-      "Ишбульдин Ирек Хайрутдинович": 53,
-      "Квят Вячеслав Яковлевич": 388,
-      "Сексяева Вера Кирилловна": 58,
-      "Фурман Александр Борисович": 267,
-      "Против всех": 51
+      "gas:candidate-vibid:1001000194996": 23,
+      "gas:candidate-vibid:302300467057": 9,
+      "gas:candidate-vibid:302300466831": 225,
+      "gas:candidate-vibid:1001000187981": 13,
+      "gas:candidate-vibid:1001000135992": 61,
+      "gas:candidate-vibid:302300466837": 53,
+      "gas:candidate-vibid:302300467045": 388,
+      "gas:candidate-vibid:1001000121786": 58,
+      "gas:candidate-vibid:1001000225869": 267,
+      "special:against-all": 51
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=22000048&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=202200066863&region=0&sub_region=0&type=429",
@@ -11252,16 +11252,16 @@ export const duma_2003_uik_428_region_3_part_009 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Богданова Дарья Максимовна": 24,
-      "Генералов Михаил Афанасьевич": 8,
-      "Джалилов Рафаиль Алиевич": 38,
-      "Диков Павел Михайлович": 4,
-      "Зарифьянов Рафис Раисович": 21,
-      "Ишбульдин Ирек Хайрутдинович": 25,
-      "Квят Вячеслав Яковлевич": 113,
-      "Сексяева Вера Кирилловна": 35,
-      "Фурман Александр Борисович": 355,
-      "Против всех": 23
+      "gas:candidate-vibid:1001000194996": 24,
+      "gas:candidate-vibid:302300467057": 8,
+      "gas:candidate-vibid:302300466831": 38,
+      "gas:candidate-vibid:1001000187981": 4,
+      "gas:candidate-vibid:1001000135992": 21,
+      "gas:candidate-vibid:302300466837": 25,
+      "gas:candidate-vibid:302300467045": 113,
+      "gas:candidate-vibid:1001000121786": 35,
+      "gas:candidate-vibid:1001000225869": 355,
+      "special:against-all": 23
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=22000048&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=202200066863&region=0&sub_region=0&type=429",
@@ -11311,16 +11311,16 @@ export const duma_2003_uik_428_region_3_part_009 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Богданова Дарья Максимовна": 7,
-      "Генералов Михаил Афанасьевич": 9,
-      "Джалилов Рафаиль Алиевич": 11,
-      "Диков Павел Михайлович": 5,
-      "Зарифьянов Рафис Раисович": 7,
-      "Ишбульдин Ирек Хайрутдинович": 0,
-      "Квят Вячеслав Яковлевич": 29,
-      "Сексяева Вера Кирилловна": 17,
-      "Фурман Александр Борисович": 150,
-      "Против всех": 0
+      "gas:candidate-vibid:1001000194996": 7,
+      "gas:candidate-vibid:302300467057": 9,
+      "gas:candidate-vibid:302300466831": 11,
+      "gas:candidate-vibid:1001000187981": 5,
+      "gas:candidate-vibid:1001000135992": 7,
+      "gas:candidate-vibid:302300466837": 0,
+      "gas:candidate-vibid:302300467045": 29,
+      "gas:candidate-vibid:1001000121786": 17,
+      "gas:candidate-vibid:1001000225869": 150,
+      "special:against-all": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=22000048&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=202200066863&region=0&sub_region=0&type=429",
@@ -11370,16 +11370,16 @@ export const duma_2003_uik_428_region_3_part_009 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Богданова Дарья Максимовна": 10,
-      "Генералов Михаил Афанасьевич": 5,
-      "Джалилов Рафаиль Алиевич": 17,
-      "Диков Павел Михайлович": 2,
-      "Зарифьянов Рафис Раисович": 8,
-      "Ишбульдин Ирек Хайрутдинович": 13,
-      "Квят Вячеслав Яковлевич": 138,
-      "Сексяева Вера Кирилловна": 16,
-      "Фурман Александр Борисович": 299,
-      "Против всех": 8
+      "gas:candidate-vibid:1001000194996": 10,
+      "gas:candidate-vibid:302300467057": 5,
+      "gas:candidate-vibid:302300466831": 17,
+      "gas:candidate-vibid:1001000187981": 2,
+      "gas:candidate-vibid:1001000135992": 8,
+      "gas:candidate-vibid:302300466837": 13,
+      "gas:candidate-vibid:302300467045": 138,
+      "gas:candidate-vibid:1001000121786": 16,
+      "gas:candidate-vibid:1001000225869": 299,
+      "special:against-all": 8
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=22000048&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=202200066863&region=0&sub_region=0&type=429",
@@ -11429,16 +11429,16 @@ export const duma_2003_uik_428_region_3_part_009 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Богданова Дарья Максимовна": 7,
-      "Генералов Михаил Афанасьевич": 1,
-      "Джалилов Рафаиль Алиевич": 4,
-      "Диков Павел Михайлович": 3,
-      "Зарифьянов Рафис Раисович": 8,
-      "Ишбульдин Ирек Хайрутдинович": 9,
-      "Квят Вячеслав Яковлевич": 42,
-      "Сексяева Вера Кирилловна": 7,
-      "Фурман Александр Борисович": 258,
-      "Против всех": 9
+      "gas:candidate-vibid:1001000194996": 7,
+      "gas:candidate-vibid:302300467057": 1,
+      "gas:candidate-vibid:302300466831": 4,
+      "gas:candidate-vibid:1001000187981": 3,
+      "gas:candidate-vibid:1001000135992": 8,
+      "gas:candidate-vibid:302300466837": 9,
+      "gas:candidate-vibid:302300467045": 42,
+      "gas:candidate-vibid:1001000121786": 7,
+      "gas:candidate-vibid:1001000225869": 258,
+      "special:against-all": 9
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=22000048&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=202200066863&region=0&sub_region=0&type=429",
@@ -11488,16 +11488,16 @@ export const duma_2003_uik_428_region_3_part_009 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Богданова Дарья Максимовна": 4,
-      "Генералов Михаил Афанасьевич": 0,
-      "Джалилов Рафаиль Алиевич": 3,
-      "Диков Павел Михайлович": 1,
-      "Зарифьянов Рафис Раисович": 5,
-      "Ишбульдин Ирек Хайрутдинович": 6,
-      "Квят Вячеслав Яковлевич": 35,
-      "Сексяева Вера Кирилловна": 60,
-      "Фурман Александр Борисович": 218,
-      "Против всех": 5
+      "gas:candidate-vibid:1001000194996": 4,
+      "gas:candidate-vibid:302300467057": 0,
+      "gas:candidate-vibid:302300466831": 3,
+      "gas:candidate-vibid:1001000187981": 1,
+      "gas:candidate-vibid:1001000135992": 5,
+      "gas:candidate-vibid:302300466837": 6,
+      "gas:candidate-vibid:302300467045": 35,
+      "gas:candidate-vibid:1001000121786": 60,
+      "gas:candidate-vibid:1001000225869": 218,
+      "special:against-all": 5
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=22000048&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=202200066863&region=0&sub_region=0&type=429",
@@ -11547,16 +11547,16 @@ export const duma_2003_uik_428_region_3_part_009 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Богданова Дарья Максимовна": 3,
-      "Генералов Михаил Афанасьевич": 1,
-      "Джалилов Рафаиль Алиевич": 2,
-      "Диков Павел Михайлович": 2,
-      "Зарифьянов Рафис Раисович": 8,
-      "Ишбульдин Ирек Хайрутдинович": 6,
-      "Квят Вячеслав Яковлевич": 23,
-      "Сексяева Вера Кирилловна": 5,
-      "Фурман Александр Борисович": 50,
-      "Против всех": 2
+      "gas:candidate-vibid:1001000194996": 3,
+      "gas:candidate-vibid:302300467057": 1,
+      "gas:candidate-vibid:302300466831": 2,
+      "gas:candidate-vibid:1001000187981": 2,
+      "gas:candidate-vibid:1001000135992": 8,
+      "gas:candidate-vibid:302300466837": 6,
+      "gas:candidate-vibid:302300467045": 23,
+      "gas:candidate-vibid:1001000121786": 5,
+      "gas:candidate-vibid:1001000225869": 50,
+      "special:against-all": 2
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=22000048&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=202200066863&region=0&sub_region=0&type=429",
@@ -11606,16 +11606,16 @@ export const duma_2003_uik_428_region_3_part_009 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Богданова Дарья Максимовна": 13,
-      "Генералов Михаил Афанасьевич": 7,
-      "Джалилов Рафаиль Алиевич": 26,
-      "Диков Павел Михайлович": 5,
-      "Зарифьянов Рафис Раисович": 18,
-      "Ишбульдин Ирек Хайрутдинович": 16,
-      "Квят Вячеслав Яковлевич": 178,
-      "Сексяева Вера Кирилловна": 16,
-      "Фурман Александр Борисович": 152,
-      "Против всех": 21
+      "gas:candidate-vibid:1001000194996": 13,
+      "gas:candidate-vibid:302300467057": 7,
+      "gas:candidate-vibid:302300466831": 26,
+      "gas:candidate-vibid:1001000187981": 5,
+      "gas:candidate-vibid:1001000135992": 18,
+      "gas:candidate-vibid:302300466837": 16,
+      "gas:candidate-vibid:302300467045": 178,
+      "gas:candidate-vibid:1001000121786": 16,
+      "gas:candidate-vibid:1001000225869": 152,
+      "special:against-all": 21
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=22000048&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=202200066863&region=0&sub_region=0&type=429",
@@ -11665,16 +11665,16 @@ export const duma_2003_uik_428_region_3_part_009 = [
       "Число не учтенных при получении бюллетеней": 1
     },
     "votes": {
-      "Богданова Дарья Максимовна": 5,
-      "Генералов Михаил Афанасьевич": 0,
-      "Джалилов Рафаиль Алиевич": 4,
-      "Диков Павел Михайлович": 9,
-      "Зарифьянов Рафис Раисович": 5,
-      "Ишбульдин Ирек Хайрутдинович": 8,
-      "Квят Вячеслав Яковлевич": 56,
-      "Сексяева Вера Кирилловна": 9,
-      "Фурман Александр Борисович": 113,
-      "Против всех": 8
+      "gas:candidate-vibid:1001000194996": 5,
+      "gas:candidate-vibid:302300467057": 0,
+      "gas:candidate-vibid:302300466831": 4,
+      "gas:candidate-vibid:1001000187981": 9,
+      "gas:candidate-vibid:1001000135992": 5,
+      "gas:candidate-vibid:302300466837": 8,
+      "gas:candidate-vibid:302300467045": 56,
+      "gas:candidate-vibid:1001000121786": 9,
+      "gas:candidate-vibid:1001000225869": 113,
+      "special:against-all": 8
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=22000048&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=202200066863&region=0&sub_region=0&type=429",
@@ -11724,16 +11724,16 @@ export const duma_2003_uik_428_region_3_part_009 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Богданова Дарья Максимовна": 6,
-      "Генералов Михаил Афанасьевич": 12,
-      "Джалилов Рафаиль Алиевич": 13,
-      "Диков Павел Михайлович": 2,
-      "Зарифьянов Рафис Раисович": 9,
-      "Ишбульдин Ирек Хайрутдинович": 7,
-      "Квят Вячеслав Яковлевич": 77,
-      "Сексяева Вера Кирилловна": 9,
-      "Фурман Александр Борисович": 96,
-      "Против всех": 12
+      "gas:candidate-vibid:1001000194996": 6,
+      "gas:candidate-vibid:302300467057": 12,
+      "gas:candidate-vibid:302300466831": 13,
+      "gas:candidate-vibid:1001000187981": 2,
+      "gas:candidate-vibid:1001000135992": 9,
+      "gas:candidate-vibid:302300466837": 7,
+      "gas:candidate-vibid:302300467045": 77,
+      "gas:candidate-vibid:1001000121786": 9,
+      "gas:candidate-vibid:1001000225869": 96,
+      "special:against-all": 12
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=22000048&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=202200066863&region=0&sub_region=0&type=429",
@@ -11783,16 +11783,16 @@ export const duma_2003_uik_428_region_3_part_009 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Богданова Дарья Максимовна": 10,
-      "Генералов Михаил Афанасьевич": 8,
-      "Джалилов Рафаиль Алиевич": 13,
-      "Диков Павел Михайлович": 4,
-      "Зарифьянов Рафис Раисович": 6,
-      "Ишбульдин Ирек Хайрутдинович": 11,
-      "Квят Вячеслав Яковлевич": 92,
-      "Сексяева Вера Кирилловна": 12,
-      "Фурман Александр Борисович": 211,
-      "Против всех": 13
+      "gas:candidate-vibid:1001000194996": 10,
+      "gas:candidate-vibid:302300467057": 8,
+      "gas:candidate-vibid:302300466831": 13,
+      "gas:candidate-vibid:1001000187981": 4,
+      "gas:candidate-vibid:1001000135992": 6,
+      "gas:candidate-vibid:302300466837": 11,
+      "gas:candidate-vibid:302300467045": 92,
+      "gas:candidate-vibid:1001000121786": 12,
+      "gas:candidate-vibid:1001000225869": 211,
+      "special:against-all": 13
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=22000048&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=202200066863&region=0&sub_region=0&type=429",
@@ -11842,16 +11842,16 @@ export const duma_2003_uik_428_region_3_part_009 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Богданова Дарья Максимовна": 10,
-      "Генералов Михаил Афанасьевич": 3,
-      "Джалилов Рафаиль Алиевич": 15,
-      "Диков Павел Михайлович": 3,
-      "Зарифьянов Рафис Раисович": 9,
-      "Ишбульдин Ирек Хайрутдинович": 14,
-      "Квят Вячеслав Яковлевич": 188,
-      "Сексяева Вера Кирилловна": 6,
-      "Фурман Александр Борисович": 155,
-      "Против всех": 22
+      "gas:candidate-vibid:1001000194996": 10,
+      "gas:candidate-vibid:302300467057": 3,
+      "gas:candidate-vibid:302300466831": 15,
+      "gas:candidate-vibid:1001000187981": 3,
+      "gas:candidate-vibid:1001000135992": 9,
+      "gas:candidate-vibid:302300466837": 14,
+      "gas:candidate-vibid:302300467045": 188,
+      "gas:candidate-vibid:1001000121786": 6,
+      "gas:candidate-vibid:1001000225869": 155,
+      "special:against-all": 22
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=22000048&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=202200066863&region=0&sub_region=0&type=429",
@@ -11901,16 +11901,16 @@ export const duma_2003_uik_428_region_3_part_009 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Богданова Дарья Максимовна": 4,
-      "Генералов Михаил Афанасьевич": 2,
-      "Джалилов Рафаиль Алиевич": 6,
-      "Диков Павел Михайлович": 1,
-      "Зарифьянов Рафис Раисович": 5,
-      "Ишбульдин Ирек Хайрутдинович": 2,
-      "Квят Вячеслав Яковлевич": 33,
-      "Сексяева Вера Кирилловна": 7,
-      "Фурман Александр Борисович": 158,
-      "Против всех": 10
+      "gas:candidate-vibid:1001000194996": 4,
+      "gas:candidate-vibid:302300467057": 2,
+      "gas:candidate-vibid:302300466831": 6,
+      "gas:candidate-vibid:1001000187981": 1,
+      "gas:candidate-vibid:1001000135992": 5,
+      "gas:candidate-vibid:302300466837": 2,
+      "gas:candidate-vibid:302300467045": 33,
+      "gas:candidate-vibid:1001000121786": 7,
+      "gas:candidate-vibid:1001000225869": 158,
+      "special:against-all": 10
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=22000048&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=202200066863&region=0&sub_region=0&type=429",
@@ -11960,16 +11960,16 @@ export const duma_2003_uik_428_region_3_part_009 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Богданова Дарья Максимовна": 15,
-      "Генералов Михаил Афанасьевич": 11,
-      "Джалилов Рафаиль Алиевич": 4,
-      "Диков Павел Михайлович": 8,
-      "Зарифьянов Рафис Раисович": 11,
-      "Ишбульдин Ирек Хайрутдинович": 8,
-      "Квят Вячеслав Яковлевич": 122,
-      "Сексяева Вера Кирилловна": 15,
-      "Фурман Александр Борисович": 208,
-      "Против всех": 28
+      "gas:candidate-vibid:1001000194996": 15,
+      "gas:candidate-vibid:302300467057": 11,
+      "gas:candidate-vibid:302300466831": 4,
+      "gas:candidate-vibid:1001000187981": 8,
+      "gas:candidate-vibid:1001000135992": 11,
+      "gas:candidate-vibid:302300466837": 8,
+      "gas:candidate-vibid:302300467045": 122,
+      "gas:candidate-vibid:1001000121786": 15,
+      "gas:candidate-vibid:1001000225869": 208,
+      "special:against-all": 28
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=22000048&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=202200066863&region=0&sub_region=0&type=429",
@@ -12019,16 +12019,16 @@ export const duma_2003_uik_428_region_3_part_009 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Богданова Дарья Максимовна": 2,
-      "Генералов Михаил Афанасьевич": 2,
-      "Джалилов Рафаиль Алиевич": 9,
-      "Диков Павел Михайлович": 2,
-      "Зарифьянов Рафис Раисович": 9,
-      "Ишбульдин Ирек Хайрутдинович": 10,
-      "Квят Вячеслав Яковлевич": 106,
-      "Сексяева Вера Кирилловна": 2,
-      "Фурман Александр Борисович": 117,
-      "Против всех": 9
+      "gas:candidate-vibid:1001000194996": 2,
+      "gas:candidate-vibid:302300467057": 2,
+      "gas:candidate-vibid:302300466831": 9,
+      "gas:candidate-vibid:1001000187981": 2,
+      "gas:candidate-vibid:1001000135992": 9,
+      "gas:candidate-vibid:302300466837": 10,
+      "gas:candidate-vibid:302300467045": 106,
+      "gas:candidate-vibid:1001000121786": 2,
+      "gas:candidate-vibid:1001000225869": 117,
+      "special:against-all": 9
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=22000048&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=202200066863&region=0&sub_region=0&type=429",
@@ -12078,16 +12078,16 @@ export const duma_2003_uik_428_region_3_part_009 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Богданова Дарья Максимовна": 10,
-      "Генералов Михаил Афанасьевич": 3,
-      "Джалилов Рафаиль Алиевич": 21,
-      "Диков Павел Михайлович": 2,
-      "Зарифьянов Рафис Раисович": 27,
-      "Ишбульдин Ирек Хайрутдинович": 19,
-      "Квят Вячеслав Яковлевич": 105,
-      "Сексяева Вера Кирилловна": 22,
-      "Фурман Александр Борисович": 178,
-      "Против всех": 13
+      "gas:candidate-vibid:1001000194996": 10,
+      "gas:candidate-vibid:302300467057": 3,
+      "gas:candidate-vibid:302300466831": 21,
+      "gas:candidate-vibid:1001000187981": 2,
+      "gas:candidate-vibid:1001000135992": 27,
+      "gas:candidate-vibid:302300466837": 19,
+      "gas:candidate-vibid:302300467045": 105,
+      "gas:candidate-vibid:1001000121786": 22,
+      "gas:candidate-vibid:1001000225869": 178,
+      "special:against-all": 13
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=22000048&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=202200066863&region=0&sub_region=0&type=429",
@@ -12137,16 +12137,16 @@ export const duma_2003_uik_428_region_3_part_009 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Богданова Дарья Максимовна": 8,
-      "Генералов Михаил Афанасьевич": 4,
-      "Джалилов Рафаиль Алиевич": 10,
-      "Диков Павел Михайлович": 6,
-      "Зарифьянов Рафис Раисович": 13,
-      "Ишбульдин Ирек Хайрутдинович": 4,
-      "Квят Вячеслав Яковлевич": 82,
-      "Сексяева Вера Кирилловна": 17,
-      "Фурман Александр Борисович": 76,
-      "Против всех": 10
+      "gas:candidate-vibid:1001000194996": 8,
+      "gas:candidate-vibid:302300467057": 4,
+      "gas:candidate-vibid:302300466831": 10,
+      "gas:candidate-vibid:1001000187981": 6,
+      "gas:candidate-vibid:1001000135992": 13,
+      "gas:candidate-vibid:302300466837": 4,
+      "gas:candidate-vibid:302300467045": 82,
+      "gas:candidate-vibid:1001000121786": 17,
+      "gas:candidate-vibid:1001000225869": 76,
+      "special:against-all": 10
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=22000048&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=202200066863&region=0&sub_region=0&type=429",
@@ -12196,16 +12196,16 @@ export const duma_2003_uik_428_region_3_part_009 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Богданова Дарья Максимовна": 68,
-      "Генералов Михаил Афанасьевич": 22,
-      "Джалилов Рафаиль Алиевич": 27,
-      "Диков Павел Михайлович": 15,
-      "Зарифьянов Рафис Раисович": 31,
-      "Ишбульдин Ирек Хайрутдинович": 23,
-      "Квят Вячеслав Яковлевич": 190,
-      "Сексяева Вера Кирилловна": 88,
-      "Фурман Александр Борисович": 467,
-      "Против всех": 65
+      "gas:candidate-vibid:1001000194996": 68,
+      "gas:candidate-vibid:302300467057": 22,
+      "gas:candidate-vibid:302300466831": 27,
+      "gas:candidate-vibid:1001000187981": 15,
+      "gas:candidate-vibid:1001000135992": 31,
+      "gas:candidate-vibid:302300466837": 23,
+      "gas:candidate-vibid:302300467045": 190,
+      "gas:candidate-vibid:1001000121786": 88,
+      "gas:candidate-vibid:1001000225869": 467,
+      "special:against-all": 65
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=22000048&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=202200066863&region=0&sub_region=0&type=429",
@@ -12255,16 +12255,16 @@ export const duma_2003_uik_428_region_3_part_009 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Богданова Дарья Максимовна": 7,
-      "Генералов Михаил Афанасьевич": 7,
-      "Джалилов Рафаиль Алиевич": 11,
-      "Диков Павел Михайлович": 3,
-      "Зарифьянов Рафис Раисович": 11,
-      "Ишбульдин Ирек Хайрутдинович": 10,
-      "Квят Вячеслав Яковлевич": 140,
-      "Сексяева Вера Кирилловна": 19,
-      "Фурман Александр Борисович": 136,
-      "Против всех": 11
+      "gas:candidate-vibid:1001000194996": 7,
+      "gas:candidate-vibid:302300467057": 7,
+      "gas:candidate-vibid:302300466831": 11,
+      "gas:candidate-vibid:1001000187981": 3,
+      "gas:candidate-vibid:1001000135992": 11,
+      "gas:candidate-vibid:302300466837": 10,
+      "gas:candidate-vibid:302300467045": 140,
+      "gas:candidate-vibid:1001000121786": 19,
+      "gas:candidate-vibid:1001000225869": 136,
+      "special:against-all": 11
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=22000048&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=202200066863&region=0&sub_region=0&type=429",
@@ -12314,16 +12314,16 @@ export const duma_2003_uik_428_region_3_part_009 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Богданова Дарья Максимовна": 7,
-      "Генералов Михаил Афанасьевич": 4,
-      "Джалилов Рафаиль Алиевич": 5,
-      "Диков Павел Михайлович": 6,
-      "Зарифьянов Рафис Раисович": 6,
-      "Ишбульдин Ирек Хайрутдинович": 11,
-      "Квят Вячеслав Яковлевич": 65,
-      "Сексяева Вера Кирилловна": 29,
-      "Фурман Александр Борисович": 207,
-      "Против всех": 9
+      "gas:candidate-vibid:1001000194996": 7,
+      "gas:candidate-vibid:302300467057": 4,
+      "gas:candidate-vibid:302300466831": 5,
+      "gas:candidate-vibid:1001000187981": 6,
+      "gas:candidate-vibid:1001000135992": 6,
+      "gas:candidate-vibid:302300466837": 11,
+      "gas:candidate-vibid:302300467045": 65,
+      "gas:candidate-vibid:1001000121786": 29,
+      "gas:candidate-vibid:1001000225869": 207,
+      "special:against-all": 9
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=22000048&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=202200066863&region=0&sub_region=0&type=429",
@@ -12373,16 +12373,16 @@ export const duma_2003_uik_428_region_3_part_009 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Богданова Дарья Максимовна": 16,
-      "Генералов Михаил Афанасьевич": 6,
-      "Джалилов Рафаиль Алиевич": 41,
-      "Диков Павел Михайлович": 3,
-      "Зарифьянов Рафис Раисович": 21,
-      "Ишбульдин Ирек Хайрутдинович": 31,
-      "Квят Вячеслав Яковлевич": 95,
-      "Сексяева Вера Кирилловна": 23,
-      "Фурман Александр Борисович": 177,
-      "Против всех": 18
+      "gas:candidate-vibid:1001000194996": 16,
+      "gas:candidate-vibid:302300467057": 6,
+      "gas:candidate-vibid:302300466831": 41,
+      "gas:candidate-vibid:1001000187981": 3,
+      "gas:candidate-vibid:1001000135992": 21,
+      "gas:candidate-vibid:302300466837": 31,
+      "gas:candidate-vibid:302300467045": 95,
+      "gas:candidate-vibid:1001000121786": 23,
+      "gas:candidate-vibid:1001000225869": 177,
+      "special:against-all": 18
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=22000048&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=202200066863&region=0&sub_region=0&type=429",
@@ -12432,16 +12432,16 @@ export const duma_2003_uik_428_region_3_part_009 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Богданова Дарья Максимовна": 14,
-      "Генералов Михаил Афанасьевич": 10,
-      "Джалилов Рафаиль Алиевич": 60,
-      "Диков Павел Михайлович": 9,
-      "Зарифьянов Рафис Раисович": 27,
-      "Ишбульдин Ирек Хайрутдинович": 53,
-      "Квят Вячеслав Яковлевич": 214,
-      "Сексяева Вера Кирилловна": 69,
-      "Фурман Александр Борисович": 290,
-      "Против всех": 45
+      "gas:candidate-vibid:1001000194996": 14,
+      "gas:candidate-vibid:302300467057": 10,
+      "gas:candidate-vibid:302300466831": 60,
+      "gas:candidate-vibid:1001000187981": 9,
+      "gas:candidate-vibid:1001000135992": 27,
+      "gas:candidate-vibid:302300466837": 53,
+      "gas:candidate-vibid:302300467045": 214,
+      "gas:candidate-vibid:1001000121786": 69,
+      "gas:candidate-vibid:1001000225869": 290,
+      "special:against-all": 45
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=22000048&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=202200066863&region=0&sub_region=0&type=429",
@@ -12491,16 +12491,16 @@ export const duma_2003_uik_428_region_3_part_009 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Богданова Дарья Максимовна": 7,
-      "Генералов Михаил Афанасьевич": 3,
-      "Джалилов Рафаиль Алиевич": 14,
-      "Диков Павел Михайлович": 4,
-      "Зарифьянов Рафис Раисович": 13,
-      "Ишбульдин Ирек Хайрутдинович": 14,
-      "Квят Вячеслав Яковлевич": 91,
-      "Сексяева Вера Кирилловна": 10,
-      "Фурман Александр Борисович": 65,
-      "Против всех": 21
+      "gas:candidate-vibid:1001000194996": 7,
+      "gas:candidate-vibid:302300467057": 3,
+      "gas:candidate-vibid:302300466831": 14,
+      "gas:candidate-vibid:1001000187981": 4,
+      "gas:candidate-vibid:1001000135992": 13,
+      "gas:candidate-vibid:302300466837": 14,
+      "gas:candidate-vibid:302300467045": 91,
+      "gas:candidate-vibid:1001000121786": 10,
+      "gas:candidate-vibid:1001000225869": 65,
+      "special:against-all": 21
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=22000048&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=202200066863&region=0&sub_region=0&type=429",
@@ -12550,16 +12550,16 @@ export const duma_2003_uik_428_region_3_part_009 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Богданова Дарья Максимовна": 1,
-      "Генералов Михаил Афанасьевич": 1,
-      "Джалилов Рафаиль Алиевич": 5,
-      "Диков Павел Михайлович": 2,
-      "Зарифьянов Рафис Раисович": 4,
-      "Ишбульдин Ирек Хайрутдинович": 9,
-      "Квят Вячеслав Яковлевич": 70,
-      "Сексяева Вера Кирилловна": 9,
-      "Фурман Александр Борисович": 69,
-      "Против всех": 1
+      "gas:candidate-vibid:1001000194996": 1,
+      "gas:candidate-vibid:302300467057": 1,
+      "gas:candidate-vibid:302300466831": 5,
+      "gas:candidate-vibid:1001000187981": 2,
+      "gas:candidate-vibid:1001000135992": 4,
+      "gas:candidate-vibid:302300466837": 9,
+      "gas:candidate-vibid:302300467045": 70,
+      "gas:candidate-vibid:1001000121786": 9,
+      "gas:candidate-vibid:1001000225869": 69,
+      "special:against-all": 1
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=22000048&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=202200066863&region=0&sub_region=0&type=429",
@@ -12609,16 +12609,16 @@ export const duma_2003_uik_428_region_3_part_009 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Богданова Дарья Максимовна": 5,
-      "Генералов Михаил Афанасьевич": 0,
-      "Джалилов Рафаиль Алиевич": 13,
-      "Диков Павел Михайлович": 2,
-      "Зарифьянов Рафис Раисович": 6,
-      "Ишбульдин Ирек Хайрутдинович": 8,
-      "Квят Вячеслав Яковлевич": 193,
-      "Сексяева Вера Кирилловна": 7,
-      "Фурман Александр Борисович": 51,
-      "Против всех": 39
+      "gas:candidate-vibid:1001000194996": 5,
+      "gas:candidate-vibid:302300467057": 0,
+      "gas:candidate-vibid:302300466831": 13,
+      "gas:candidate-vibid:1001000187981": 2,
+      "gas:candidate-vibid:1001000135992": 6,
+      "gas:candidate-vibid:302300466837": 8,
+      "gas:candidate-vibid:302300467045": 193,
+      "gas:candidate-vibid:1001000121786": 7,
+      "gas:candidate-vibid:1001000225869": 51,
+      "special:against-all": 39
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=22000048&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=202200066863&region=0&sub_region=0&type=429",
@@ -12668,16 +12668,16 @@ export const duma_2003_uik_428_region_3_part_009 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Богданова Дарья Максимовна": 6,
-      "Генералов Михаил Афанасьевич": 1,
-      "Джалилов Рафаиль Алиевич": 17,
-      "Диков Павел Михайлович": 4,
-      "Зарифьянов Рафис Раисович": 6,
-      "Ишбульдин Ирек Хайрутдинович": 5,
-      "Квят Вячеслав Яковлевич": 123,
-      "Сексяева Вера Кирилловна": 16,
-      "Фурман Александр Борисович": 92,
-      "Против всех": 8
+      "gas:candidate-vibid:1001000194996": 6,
+      "gas:candidate-vibid:302300467057": 1,
+      "gas:candidate-vibid:302300466831": 17,
+      "gas:candidate-vibid:1001000187981": 4,
+      "gas:candidate-vibid:1001000135992": 6,
+      "gas:candidate-vibid:302300466837": 5,
+      "gas:candidate-vibid:302300467045": 123,
+      "gas:candidate-vibid:1001000121786": 16,
+      "gas:candidate-vibid:1001000225869": 92,
+      "special:against-all": 8
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=22000048&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=202200066863&region=0&sub_region=0&type=429",
@@ -12727,16 +12727,16 @@ export const duma_2003_uik_428_region_3_part_009 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Богданова Дарья Максимовна": 8,
-      "Генералов Михаил Афанасьевич": 2,
-      "Джалилов Рафаиль Алиевич": 24,
-      "Диков Павел Михайлович": 5,
-      "Зарифьянов Рафис Раисович": 13,
-      "Ишбульдин Ирек Хайрутдинович": 8,
-      "Квят Вячеслав Яковлевич": 128,
-      "Сексяева Вера Кирилловна": 30,
-      "Фурман Александр Борисович": 117,
-      "Против всех": 10
+      "gas:candidate-vibid:1001000194996": 8,
+      "gas:candidate-vibid:302300467057": 2,
+      "gas:candidate-vibid:302300466831": 24,
+      "gas:candidate-vibid:1001000187981": 5,
+      "gas:candidate-vibid:1001000135992": 13,
+      "gas:candidate-vibid:302300466837": 8,
+      "gas:candidate-vibid:302300467045": 128,
+      "gas:candidate-vibid:1001000121786": 30,
+      "gas:candidate-vibid:1001000225869": 117,
+      "special:against-all": 10
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=22000048&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=202200066863&region=0&sub_region=0&type=429",
@@ -12786,16 +12786,16 @@ export const duma_2003_uik_428_region_3_part_009 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Богданова Дарья Максимовна": 2,
-      "Генералов Михаил Афанасьевич": 0,
-      "Джалилов Рафаиль Алиевич": 2,
-      "Диков Павел Михайлович": 0,
-      "Зарифьянов Рафис Раисович": 0,
-      "Ишбульдин Ирек Хайрутдинович": 1,
-      "Квят Вячеслав Яковлевич": 17,
-      "Сексяева Вера Кирилловна": 10,
-      "Фурман Александр Борисович": 26,
-      "Против всех": 2
+      "gas:candidate-vibid:1001000194996": 2,
+      "gas:candidate-vibid:302300467057": 0,
+      "gas:candidate-vibid:302300466831": 2,
+      "gas:candidate-vibid:1001000187981": 0,
+      "gas:candidate-vibid:1001000135992": 0,
+      "gas:candidate-vibid:302300466837": 1,
+      "gas:candidate-vibid:302300467045": 17,
+      "gas:candidate-vibid:1001000121786": 10,
+      "gas:candidate-vibid:1001000225869": 26,
+      "special:against-all": 2
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=22000048&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=202200066863&region=0&sub_region=0&type=429",
@@ -12845,16 +12845,16 @@ export const duma_2003_uik_428_region_3_part_009 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Богданова Дарья Максимовна": 53,
-      "Генералов Михаил Афанасьевич": 14,
-      "Джалилов Рафаиль Алиевич": 91,
-      "Диков Павел Михайлович": 9,
-      "Зарифьянов Рафис Раисович": 44,
-      "Ишбульдин Ирек Хайрутдинович": 32,
-      "Квят Вячеслав Яковлевич": 186,
-      "Сексяева Вера Кирилловна": 70,
-      "Фурман Александр Борисович": 554,
-      "Против всех": 69
+      "gas:candidate-vibid:1001000194996": 53,
+      "gas:candidate-vibid:302300467057": 14,
+      "gas:candidate-vibid:302300466831": 91,
+      "gas:candidate-vibid:1001000187981": 9,
+      "gas:candidate-vibid:1001000135992": 44,
+      "gas:candidate-vibid:302300466837": 32,
+      "gas:candidate-vibid:302300467045": 186,
+      "gas:candidate-vibid:1001000121786": 70,
+      "gas:candidate-vibid:1001000225869": 554,
+      "special:against-all": 69
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=22000048&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=202200066863&region=0&sub_region=0&type=429",
@@ -12904,16 +12904,16 @@ export const duma_2003_uik_428_region_3_part_009 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Богданова Дарья Максимовна": 4,
-      "Генералов Михаил Афанасьевич": 3,
-      "Джалилов Рафаиль Алиевич": 14,
-      "Диков Павел Михайлович": 0,
-      "Зарифьянов Рафис Раисович": 5,
-      "Ишбульдин Ирек Хайрутдинович": 2,
-      "Квят Вячеслав Яковлевич": 33,
-      "Сексяева Вера Кирилловна": 2,
-      "Фурман Александр Борисович": 100,
-      "Против всех": 0
+      "gas:candidate-vibid:1001000194996": 4,
+      "gas:candidate-vibid:302300467057": 3,
+      "gas:candidate-vibid:302300466831": 14,
+      "gas:candidate-vibid:1001000187981": 0,
+      "gas:candidate-vibid:1001000135992": 5,
+      "gas:candidate-vibid:302300466837": 2,
+      "gas:candidate-vibid:302300467045": 33,
+      "gas:candidate-vibid:1001000121786": 2,
+      "gas:candidate-vibid:1001000225869": 100,
+      "special:against-all": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=22000048&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=202200066863&region=0&sub_region=0&type=429",
@@ -12963,16 +12963,16 @@ export const duma_2003_uik_428_region_3_part_009 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Богданова Дарья Максимовна": 1,
-      "Генералов Михаил Афанасьевич": 2,
-      "Джалилов Рафаиль Алиевич": 4,
-      "Диков Павел Михайлович": 1,
-      "Зарифьянов Рафис Раисович": 6,
-      "Ишбульдин Ирек Хайрутдинович": 2,
-      "Квят Вячеслав Яковлевич": 16,
-      "Сексяева Вера Кирилловна": 7,
-      "Фурман Александр Борисович": 36,
-      "Против всех": 3
+      "gas:candidate-vibid:1001000194996": 1,
+      "gas:candidate-vibid:302300467057": 2,
+      "gas:candidate-vibid:302300466831": 4,
+      "gas:candidate-vibid:1001000187981": 1,
+      "gas:candidate-vibid:1001000135992": 6,
+      "gas:candidate-vibid:302300466837": 2,
+      "gas:candidate-vibid:302300467045": 16,
+      "gas:candidate-vibid:1001000121786": 7,
+      "gas:candidate-vibid:1001000225869": 36,
+      "special:against-all": 3
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=22000048&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=202200066863&region=0&sub_region=0&type=429",
@@ -13022,16 +13022,16 @@ export const duma_2003_uik_428_region_3_part_009 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Богданова Дарья Максимовна": 3,
-      "Генералов Михаил Афанасьевич": 0,
-      "Джалилов Рафаиль Алиевич": 21,
-      "Диков Павел Михайлович": 3,
-      "Зарифьянов Рафис Раисович": 12,
-      "Ишбульдин Ирек Хайрутдинович": 16,
-      "Квят Вячеслав Яковлевич": 89,
-      "Сексяева Вера Кирилловна": 26,
-      "Фурман Александр Борисович": 343,
-      "Против всех": 7
+      "gas:candidate-vibid:1001000194996": 3,
+      "gas:candidate-vibid:302300467057": 0,
+      "gas:candidate-vibid:302300466831": 21,
+      "gas:candidate-vibid:1001000187981": 3,
+      "gas:candidate-vibid:1001000135992": 12,
+      "gas:candidate-vibid:302300466837": 16,
+      "gas:candidate-vibid:302300467045": 89,
+      "gas:candidate-vibid:1001000121786": 26,
+      "gas:candidate-vibid:1001000225869": 343,
+      "special:against-all": 7
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=22000048&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=202200066863&region=0&sub_region=0&type=429",
@@ -13081,16 +13081,16 @@ export const duma_2003_uik_428_region_3_part_009 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Богданова Дарья Максимовна": 6,
-      "Генералов Михаил Афанасьевич": 7,
-      "Джалилов Рафаиль Алиевич": 66,
-      "Диков Павел Михайлович": 6,
-      "Зарифьянов Рафис Раисович": 18,
-      "Ишбульдин Ирек Хайрутдинович": 17,
-      "Квят Вячеслав Яковлевич": 103,
-      "Сексяева Вера Кирилловна": 28,
-      "Фурман Александр Борисович": 364,
-      "Против всех": 12
+      "gas:candidate-vibid:1001000194996": 6,
+      "gas:candidate-vibid:302300467057": 7,
+      "gas:candidate-vibid:302300466831": 66,
+      "gas:candidate-vibid:1001000187981": 6,
+      "gas:candidate-vibid:1001000135992": 18,
+      "gas:candidate-vibid:302300466837": 17,
+      "gas:candidate-vibid:302300467045": 103,
+      "gas:candidate-vibid:1001000121786": 28,
+      "gas:candidate-vibid:1001000225869": 364,
+      "special:against-all": 12
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=22000048&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=202200066863&region=0&sub_region=0&type=429",
@@ -13140,16 +13140,16 @@ export const duma_2003_uik_428_region_3_part_009 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Богданова Дарья Максимовна": 6,
-      "Генералов Михаил Афанасьевич": 6,
-      "Джалилов Рафаиль Алиевич": 45,
-      "Диков Павел Михайлович": 8,
-      "Зарифьянов Рафис Раисович": 15,
-      "Ишбульдин Ирек Хайрутдинович": 16,
-      "Квят Вячеслав Яковлевич": 104,
-      "Сексяева Вера Кирилловна": 10,
-      "Фурман Александр Борисович": 366,
-      "Против всех": 9
+      "gas:candidate-vibid:1001000194996": 6,
+      "gas:candidate-vibid:302300467057": 6,
+      "gas:candidate-vibid:302300466831": 45,
+      "gas:candidate-vibid:1001000187981": 8,
+      "gas:candidate-vibid:1001000135992": 15,
+      "gas:candidate-vibid:302300466837": 16,
+      "gas:candidate-vibid:302300467045": 104,
+      "gas:candidate-vibid:1001000121786": 10,
+      "gas:candidate-vibid:1001000225869": 366,
+      "special:against-all": 9
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=22000048&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=202200066863&region=0&sub_region=0&type=429",
@@ -13199,16 +13199,16 @@ export const duma_2003_uik_428_region_3_part_009 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Богданова Дарья Максимовна": 0,
-      "Генералов Михаил Афанасьевич": 1,
-      "Джалилов Рафаиль Алиевич": 25,
-      "Диков Павел Михайлович": 0,
-      "Зарифьянов Рафис Раисович": 7,
-      "Ишбульдин Ирек Хайрутдинович": 24,
-      "Квят Вячеслав Яковлевич": 59,
-      "Сексяева Вера Кирилловна": 12,
-      "Фурман Александр Борисович": 212,
-      "Против всех": 15
+      "gas:candidate-vibid:1001000194996": 0,
+      "gas:candidate-vibid:302300467057": 1,
+      "gas:candidate-vibid:302300466831": 25,
+      "gas:candidate-vibid:1001000187981": 0,
+      "gas:candidate-vibid:1001000135992": 7,
+      "gas:candidate-vibid:302300466837": 24,
+      "gas:candidate-vibid:302300467045": 59,
+      "gas:candidate-vibid:1001000121786": 12,
+      "gas:candidate-vibid:1001000225869": 212,
+      "special:against-all": 15
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=22000048&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=202200066863&region=0&sub_region=0&type=429",
@@ -13258,16 +13258,16 @@ export const duma_2003_uik_428_region_3_part_009 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Богданова Дарья Максимовна": 8,
-      "Генералов Михаил Афанасьевич": 2,
-      "Джалилов Рафаиль Алиевич": 25,
-      "Диков Павел Михайлович": 2,
-      "Зарифьянов Рафис Раисович": 13,
-      "Ишбульдин Ирек Хайрутдинович": 11,
-      "Квят Вячеслав Яковлевич": 62,
-      "Сексяева Вера Кирилловна": 17,
-      "Фурман Александр Борисович": 175,
-      "Против всех": 7
+      "gas:candidate-vibid:1001000194996": 8,
+      "gas:candidate-vibid:302300467057": 2,
+      "gas:candidate-vibid:302300466831": 25,
+      "gas:candidate-vibid:1001000187981": 2,
+      "gas:candidate-vibid:1001000135992": 13,
+      "gas:candidate-vibid:302300466837": 11,
+      "gas:candidate-vibid:302300467045": 62,
+      "gas:candidate-vibid:1001000121786": 17,
+      "gas:candidate-vibid:1001000225869": 175,
+      "special:against-all": 7
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=22000048&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=202200066863&region=0&sub_region=0&type=429",
@@ -13317,16 +13317,16 @@ export const duma_2003_uik_428_region_3_part_009 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Богданова Дарья Максимовна": 6,
-      "Генералов Михаил Афанасьевич": 5,
-      "Джалилов Рафаиль Алиевич": 37,
-      "Диков Павел Михайлович": 3,
-      "Зарифьянов Рафис Раисович": 29,
-      "Ишбульдин Ирек Хайрутдинович": 22,
-      "Квят Вячеслав Яковлевич": 153,
-      "Сексяева Вера Кирилловна": 13,
-      "Фурман Александр Борисович": 215,
-      "Против всех": 6
+      "gas:candidate-vibid:1001000194996": 6,
+      "gas:candidate-vibid:302300467057": 5,
+      "gas:candidate-vibid:302300466831": 37,
+      "gas:candidate-vibid:1001000187981": 3,
+      "gas:candidate-vibid:1001000135992": 29,
+      "gas:candidate-vibid:302300466837": 22,
+      "gas:candidate-vibid:302300467045": 153,
+      "gas:candidate-vibid:1001000121786": 13,
+      "gas:candidate-vibid:1001000225869": 215,
+      "special:against-all": 6
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=22000048&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=202200066863&region=0&sub_region=0&type=429",
@@ -13376,16 +13376,16 @@ export const duma_2003_uik_428_region_3_part_009 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Богданова Дарья Максимовна": 4,
-      "Генералов Михаил Афанасьевич": 4,
-      "Джалилов Рафаиль Алиевич": 16,
-      "Диков Павел Михайлович": 2,
-      "Зарифьянов Рафис Раисович": 9,
-      "Ишбульдин Ирек Хайрутдинович": 10,
-      "Квят Вячеслав Яковлевич": 45,
-      "Сексяева Вера Кирилловна": 14,
-      "Фурман Александр Борисович": 265,
-      "Против всех": 18
+      "gas:candidate-vibid:1001000194996": 4,
+      "gas:candidate-vibid:302300467057": 4,
+      "gas:candidate-vibid:302300466831": 16,
+      "gas:candidate-vibid:1001000187981": 2,
+      "gas:candidate-vibid:1001000135992": 9,
+      "gas:candidate-vibid:302300466837": 10,
+      "gas:candidate-vibid:302300467045": 45,
+      "gas:candidate-vibid:1001000121786": 14,
+      "gas:candidate-vibid:1001000225869": 265,
+      "special:against-all": 18
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=22000048&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=202200066863&region=0&sub_region=0&type=429",
@@ -13435,16 +13435,16 @@ export const duma_2003_uik_428_region_3_part_009 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Богданова Дарья Максимовна": 6,
-      "Генералов Михаил Афанасьевич": 2,
-      "Джалилов Рафаиль Алиевич": 5,
-      "Диков Павел Михайлович": 1,
-      "Зарифьянов Рафис Раисович": 10,
-      "Ишбульдин Ирек Хайрутдинович": 10,
-      "Квят Вячеслав Яковлевич": 150,
-      "Сексяева Вера Кирилловна": 51,
-      "Фурман Александр Борисович": 149,
-      "Против всех": 11
+      "gas:candidate-vibid:1001000194996": 6,
+      "gas:candidate-vibid:302300467057": 2,
+      "gas:candidate-vibid:302300466831": 5,
+      "gas:candidate-vibid:1001000187981": 1,
+      "gas:candidate-vibid:1001000135992": 10,
+      "gas:candidate-vibid:302300466837": 10,
+      "gas:candidate-vibid:302300467045": 150,
+      "gas:candidate-vibid:1001000121786": 51,
+      "gas:candidate-vibid:1001000225869": 149,
+      "special:against-all": 11
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=22000048&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=202200066863&region=0&sub_region=0&type=429",
@@ -13494,16 +13494,16 @@ export const duma_2003_uik_428_region_3_part_009 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Богданова Дарья Максимовна": 3,
-      "Генералов Михаил Афанасьевич": 2,
-      "Джалилов Рафаиль Алиевич": 12,
-      "Диков Павел Михайлович": 0,
-      "Зарифьянов Рафис Раисович": 5,
-      "Ишбульдин Ирек Хайрутдинович": 5,
-      "Квят Вячеслав Яковлевич": 59,
-      "Сексяева Вера Кирилловна": 15,
-      "Фурман Александр Борисович": 123,
-      "Против всех": 1
+      "gas:candidate-vibid:1001000194996": 3,
+      "gas:candidate-vibid:302300467057": 2,
+      "gas:candidate-vibid:302300466831": 12,
+      "gas:candidate-vibid:1001000187981": 0,
+      "gas:candidate-vibid:1001000135992": 5,
+      "gas:candidate-vibid:302300466837": 5,
+      "gas:candidate-vibid:302300467045": 59,
+      "gas:candidate-vibid:1001000121786": 15,
+      "gas:candidate-vibid:1001000225869": 123,
+      "special:against-all": 1
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=22000048&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=202200066863&region=0&sub_region=0&type=429",
@@ -13553,16 +13553,16 @@ export const duma_2003_uik_428_region_3_part_009 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Богданова Дарья Максимовна": 10,
-      "Генералов Михаил Афанасьевич": 8,
-      "Джалилов Рафаиль Алиевич": 7,
-      "Диков Павел Михайлович": 5,
-      "Зарифьянов Рафис Раисович": 12,
-      "Ишбульдин Ирек Хайрутдинович": 5,
-      "Квят Вячеслав Яковлевич": 52,
-      "Сексяева Вера Кирилловна": 31,
-      "Фурман Александр Борисович": 130,
-      "Против всех": 13
+      "gas:candidate-vibid:1001000194996": 10,
+      "gas:candidate-vibid:302300467057": 8,
+      "gas:candidate-vibid:302300466831": 7,
+      "gas:candidate-vibid:1001000187981": 5,
+      "gas:candidate-vibid:1001000135992": 12,
+      "gas:candidate-vibid:302300466837": 5,
+      "gas:candidate-vibid:302300467045": 52,
+      "gas:candidate-vibid:1001000121786": 31,
+      "gas:candidate-vibid:1001000225869": 130,
+      "special:against-all": 13
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=22000048&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=202200066863&region=0&sub_region=0&type=429",
@@ -13612,16 +13612,16 @@ export const duma_2003_uik_428_region_3_part_009 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Богданова Дарья Максимовна": 16,
-      "Генералов Михаил Афанасьевич": 6,
-      "Джалилов Рафаиль Алиевич": 54,
-      "Диков Павел Михайлович": 4,
-      "Зарифьянов Рафис Раисович": 28,
-      "Ишбульдин Ирек Хайрутдинович": 32,
-      "Квят Вячеслав Яковлевич": 222,
-      "Сексяева Вера Кирилловна": 23,
-      "Фурман Александр Борисович": 498,
-      "Против всех": 53
+      "gas:candidate-vibid:1001000194996": 16,
+      "gas:candidate-vibid:302300467057": 6,
+      "gas:candidate-vibid:302300466831": 54,
+      "gas:candidate-vibid:1001000187981": 4,
+      "gas:candidate-vibid:1001000135992": 28,
+      "gas:candidate-vibid:302300466837": 32,
+      "gas:candidate-vibid:302300467045": 222,
+      "gas:candidate-vibid:1001000121786": 23,
+      "gas:candidate-vibid:1001000225869": 498,
+      "special:against-all": 53
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=22000048&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=202200066863&region=0&sub_region=0&type=429",
@@ -13671,16 +13671,16 @@ export const duma_2003_uik_428_region_3_part_009 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Богданова Дарья Максимовна": 4,
-      "Генералов Михаил Афанасьевич": 4,
-      "Джалилов Рафаиль Алиевич": 10,
-      "Диков Павел Михайлович": 1,
-      "Зарифьянов Рафис Раисович": 11,
-      "Ишбульдин Ирек Хайрутдинович": 7,
-      "Квят Вячеслав Яковлевич": 20,
-      "Сексяева Вера Кирилловна": 8,
-      "Фурман Александр Борисович": 186,
-      "Против всех": 11
+      "gas:candidate-vibid:1001000194996": 4,
+      "gas:candidate-vibid:302300467057": 4,
+      "gas:candidate-vibid:302300466831": 10,
+      "gas:candidate-vibid:1001000187981": 1,
+      "gas:candidate-vibid:1001000135992": 11,
+      "gas:candidate-vibid:302300466837": 7,
+      "gas:candidate-vibid:302300467045": 20,
+      "gas:candidate-vibid:1001000121786": 8,
+      "gas:candidate-vibid:1001000225869": 186,
+      "special:against-all": 11
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=22000048&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=202200066863&region=0&sub_region=0&type=429",
@@ -13730,16 +13730,16 @@ export const duma_2003_uik_428_region_3_part_009 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Богданова Дарья Максимовна": 1,
-      "Генералов Михаил Афанасьевич": 0,
-      "Джалилов Рафаиль Алиевич": 51,
-      "Диков Павел Михайлович": 1,
-      "Зарифьянов Рафис Раисович": 6,
-      "Ишбульдин Ирек Хайрутдинович": 4,
-      "Квят Вячеслав Яковлевич": 6,
-      "Сексяева Вера Кирилловна": 4,
-      "Фурман Александр Борисович": 323,
-      "Против всех": 3
+      "gas:candidate-vibid:1001000194996": 1,
+      "gas:candidate-vibid:302300467057": 0,
+      "gas:candidate-vibid:302300466831": 51,
+      "gas:candidate-vibid:1001000187981": 1,
+      "gas:candidate-vibid:1001000135992": 6,
+      "gas:candidate-vibid:302300466837": 4,
+      "gas:candidate-vibid:302300467045": 6,
+      "gas:candidate-vibid:1001000121786": 4,
+      "gas:candidate-vibid:1001000225869": 323,
+      "special:against-all": 3
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=22000049&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=202200066864&region=0&sub_region=0&type=429",
@@ -13789,16 +13789,16 @@ export const duma_2003_uik_428_region_3_part_009 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Богданова Дарья Максимовна": 0,
-      "Генералов Михаил Афанасьевич": 0,
-      "Джалилов Рафаиль Алиевич": 1,
-      "Диков Павел Михайлович": 0,
-      "Зарифьянов Рафис Раисович": 1,
-      "Ишбульдин Ирек Хайрутдинович": 0,
-      "Квят Вячеслав Яковлевич": 10,
-      "Сексяева Вера Кирилловна": 0,
-      "Фурман Александр Борисович": 93,
-      "Против всех": 0
+      "gas:candidate-vibid:1001000194996": 0,
+      "gas:candidate-vibid:302300467057": 0,
+      "gas:candidate-vibid:302300466831": 1,
+      "gas:candidate-vibid:1001000187981": 0,
+      "gas:candidate-vibid:1001000135992": 1,
+      "gas:candidate-vibid:302300466837": 0,
+      "gas:candidate-vibid:302300467045": 10,
+      "gas:candidate-vibid:1001000121786": 0,
+      "gas:candidate-vibid:1001000225869": 93,
+      "special:against-all": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=22000049&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=202200066864&region=0&sub_region=0&type=429",
@@ -13848,16 +13848,16 @@ export const duma_2003_uik_428_region_3_part_009 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Богданова Дарья Максимовна": 3,
-      "Генералов Михаил Афанасьевич": 0,
-      "Джалилов Рафаиль Алиевич": 8,
-      "Диков Павел Михайлович": 0,
-      "Зарифьянов Рафис Раисович": 4,
-      "Ишбульдин Ирек Хайрутдинович": 3,
-      "Квят Вячеслав Яковлевич": 11,
-      "Сексяева Вера Кирилловна": 2,
-      "Фурман Александр Борисович": 178,
-      "Против всех": 5
+      "gas:candidate-vibid:1001000194996": 3,
+      "gas:candidate-vibid:302300467057": 0,
+      "gas:candidate-vibid:302300466831": 8,
+      "gas:candidate-vibid:1001000187981": 0,
+      "gas:candidate-vibid:1001000135992": 4,
+      "gas:candidate-vibid:302300466837": 3,
+      "gas:candidate-vibid:302300467045": 11,
+      "gas:candidate-vibid:1001000121786": 2,
+      "gas:candidate-vibid:1001000225869": 178,
+      "special:against-all": 5
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=22000049&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=202200066864&region=0&sub_region=0&type=429",
@@ -13907,16 +13907,16 @@ export const duma_2003_uik_428_region_3_part_009 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Богданова Дарья Максимовна": 16,
-      "Генералов Михаил Афанасьевич": 9,
-      "Джалилов Рафаиль Алиевич": 57,
-      "Диков Павел Михайлович": 12,
-      "Зарифьянов Рафис Раисович": 19,
-      "Ишбульдин Ирек Хайрутдинович": 21,
-      "Квят Вячеслав Яковлевич": 148,
-      "Сексяева Вера Кирилловна": 18,
-      "Фурман Александр Борисович": 177,
-      "Против всех": 32
+      "gas:candidate-vibid:1001000194996": 16,
+      "gas:candidate-vibid:302300467057": 9,
+      "gas:candidate-vibid:302300466831": 57,
+      "gas:candidate-vibid:1001000187981": 12,
+      "gas:candidate-vibid:1001000135992": 19,
+      "gas:candidate-vibid:302300466837": 21,
+      "gas:candidate-vibid:302300467045": 148,
+      "gas:candidate-vibid:1001000121786": 18,
+      "gas:candidate-vibid:1001000225869": 177,
+      "special:against-all": 32
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=22000049&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=202200066864&region=0&sub_region=0&type=429",
@@ -13966,16 +13966,16 @@ export const duma_2003_uik_428_region_3_part_009 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Богданова Дарья Максимовна": 3,
-      "Генералов Михаил Афанасьевич": 2,
-      "Джалилов Рафаиль Алиевич": 8,
-      "Диков Павел Михайлович": 3,
-      "Зарифьянов Рафис Раисович": 2,
-      "Ишбульдин Ирек Хайрутдинович": 5,
-      "Квят Вячеслав Яковлевич": 83,
-      "Сексяева Вера Кирилловна": 6,
-      "Фурман Александр Борисович": 105,
-      "Против всех": 2
+      "gas:candidate-vibid:1001000194996": 3,
+      "gas:candidate-vibid:302300467057": 2,
+      "gas:candidate-vibid:302300466831": 8,
+      "gas:candidate-vibid:1001000187981": 3,
+      "gas:candidate-vibid:1001000135992": 2,
+      "gas:candidate-vibid:302300466837": 5,
+      "gas:candidate-vibid:302300467045": 83,
+      "gas:candidate-vibid:1001000121786": 6,
+      "gas:candidate-vibid:1001000225869": 105,
+      "special:against-all": 2
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=22000049&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=202200066864&region=0&sub_region=0&type=429",
@@ -14025,16 +14025,16 @@ export const duma_2003_uik_428_region_3_part_009 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Богданова Дарья Максимовна": 1,
-      "Генералов Михаил Афанасьевич": 0,
-      "Джалилов Рафаиль Алиевич": 5,
-      "Диков Павел Михайлович": 0,
-      "Зарифьянов Рафис Раисович": 5,
-      "Ишбульдин Ирек Хайрутдинович": 0,
-      "Квят Вячеслав Яковлевич": 41,
-      "Сексяева Вера Кирилловна": 16,
-      "Фурман Александр Борисович": 66,
-      "Против всех": 4
+      "gas:candidate-vibid:1001000194996": 1,
+      "gas:candidate-vibid:302300467057": 0,
+      "gas:candidate-vibid:302300466831": 5,
+      "gas:candidate-vibid:1001000187981": 0,
+      "gas:candidate-vibid:1001000135992": 5,
+      "gas:candidate-vibid:302300466837": 0,
+      "gas:candidate-vibid:302300467045": 41,
+      "gas:candidate-vibid:1001000121786": 16,
+      "gas:candidate-vibid:1001000225869": 66,
+      "special:against-all": 4
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=22000049&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=202200066864&region=0&sub_region=0&type=429",
@@ -14084,16 +14084,16 @@ export const duma_2003_uik_428_region_3_part_009 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Богданова Дарья Максимовна": 1,
-      "Генералов Михаил Афанасьевич": 0,
-      "Джалилов Рафаиль Алиевич": 95,
-      "Диков Павел Михайлович": 1,
-      "Зарифьянов Рафис Раисович": 14,
-      "Ишбульдин Ирек Хайрутдинович": 12,
-      "Квят Вячеслав Яковлевич": 131,
-      "Сексяева Вера Кирилловна": 16,
-      "Фурман Александр Борисович": 183,
-      "Против всех": 12
+      "gas:candidate-vibid:1001000194996": 1,
+      "gas:candidate-vibid:302300467057": 0,
+      "gas:candidate-vibid:302300466831": 95,
+      "gas:candidate-vibid:1001000187981": 1,
+      "gas:candidate-vibid:1001000135992": 14,
+      "gas:candidate-vibid:302300466837": 12,
+      "gas:candidate-vibid:302300467045": 131,
+      "gas:candidate-vibid:1001000121786": 16,
+      "gas:candidate-vibid:1001000225869": 183,
+      "special:against-all": 12
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=22000049&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=202200066864&region=0&sub_region=0&type=429",
@@ -14143,16 +14143,16 @@ export const duma_2003_uik_428_region_3_part_009 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Богданова Дарья Максимовна": 6,
-      "Генералов Михаил Афанасьевич": 4,
-      "Джалилов Рафаиль Алиевич": 14,
-      "Диков Павел Михайлович": 0,
-      "Зарифьянов Рафис Раисович": 2,
-      "Ишбульдин Ирек Хайрутдинович": 3,
-      "Квят Вячеслав Яковлевич": 68,
-      "Сексяева Вера Кирилловна": 0,
-      "Фурман Александр Борисович": 69,
-      "Против всех": 0
+      "gas:candidate-vibid:1001000194996": 6,
+      "gas:candidate-vibid:302300467057": 4,
+      "gas:candidate-vibid:302300466831": 14,
+      "gas:candidate-vibid:1001000187981": 0,
+      "gas:candidate-vibid:1001000135992": 2,
+      "gas:candidate-vibid:302300466837": 3,
+      "gas:candidate-vibid:302300467045": 68,
+      "gas:candidate-vibid:1001000121786": 0,
+      "gas:candidate-vibid:1001000225869": 69,
+      "special:against-all": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=22000049&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=202200066864&region=0&sub_region=0&type=429",
@@ -14202,16 +14202,16 @@ export const duma_2003_uik_428_region_3_part_009 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Богданова Дарья Максимовна": 7,
-      "Генералов Михаил Афанасьевич": 5,
-      "Джалилов Рафаиль Алиевич": 17,
-      "Диков Павел Михайлович": 0,
-      "Зарифьянов Рафис Раисович": 6,
-      "Ишбульдин Ирек Хайрутдинович": 6,
-      "Квят Вячеслав Яковлевич": 100,
-      "Сексяева Вера Кирилловна": 24,
-      "Фурман Александр Борисович": 145,
-      "Против всех": 7
+      "gas:candidate-vibid:1001000194996": 7,
+      "gas:candidate-vibid:302300467057": 5,
+      "gas:candidate-vibid:302300466831": 17,
+      "gas:candidate-vibid:1001000187981": 0,
+      "gas:candidate-vibid:1001000135992": 6,
+      "gas:candidate-vibid:302300466837": 6,
+      "gas:candidate-vibid:302300467045": 100,
+      "gas:candidate-vibid:1001000121786": 24,
+      "gas:candidate-vibid:1001000225869": 145,
+      "special:against-all": 7
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=22000049&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=202200066864&region=0&sub_region=0&type=429",
@@ -14261,16 +14261,16 @@ export const duma_2003_uik_428_region_3_part_009 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Богданова Дарья Максимовна": 3,
-      "Генералов Михаил Афанасьевич": 2,
-      "Джалилов Рафаиль Алиевич": 21,
-      "Диков Павел Михайлович": 1,
-      "Зарифьянов Рафис Раисович": 5,
-      "Ишбульдин Ирек Хайрутдинович": 4,
-      "Квят Вячеслав Яковлевич": 40,
-      "Сексяева Вера Кирилловна": 4,
-      "Фурман Александр Борисович": 175,
-      "Против всех": 5
+      "gas:candidate-vibid:1001000194996": 3,
+      "gas:candidate-vibid:302300467057": 2,
+      "gas:candidate-vibid:302300466831": 21,
+      "gas:candidate-vibid:1001000187981": 1,
+      "gas:candidate-vibid:1001000135992": 5,
+      "gas:candidate-vibid:302300466837": 4,
+      "gas:candidate-vibid:302300467045": 40,
+      "gas:candidate-vibid:1001000121786": 4,
+      "gas:candidate-vibid:1001000225869": 175,
+      "special:against-all": 5
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=22000049&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=202200066864&region=0&sub_region=0&type=429",
@@ -14320,16 +14320,16 @@ export const duma_2003_uik_428_region_3_part_009 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Богданова Дарья Максимовна": 0,
-      "Генералов Михаил Афанасьевич": 0,
-      "Джалилов Рафаиль Алиевич": 7,
-      "Диков Павел Михайлович": 0,
-      "Зарифьянов Рафис Раисович": 0,
-      "Ишбульдин Ирек Хайрутдинович": 1,
-      "Квят Вячеслав Яковлевич": 22,
-      "Сексяева Вера Кирилловна": 0,
-      "Фурман Александр Борисович": 38,
-      "Против всех": 4
+      "gas:candidate-vibid:1001000194996": 0,
+      "gas:candidate-vibid:302300467057": 0,
+      "gas:candidate-vibid:302300466831": 7,
+      "gas:candidate-vibid:1001000187981": 0,
+      "gas:candidate-vibid:1001000135992": 0,
+      "gas:candidate-vibid:302300466837": 1,
+      "gas:candidate-vibid:302300467045": 22,
+      "gas:candidate-vibid:1001000121786": 0,
+      "gas:candidate-vibid:1001000225869": 38,
+      "special:against-all": 4
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=22000049&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=202200066864&region=0&sub_region=0&type=429",
@@ -14379,16 +14379,16 @@ export const duma_2003_uik_428_region_3_part_009 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Богданова Дарья Максимовна": 2,
-      "Генералов Михаил Афанасьевич": 3,
-      "Джалилов Рафаиль Алиевич": 39,
-      "Диков Павел Михайлович": 1,
-      "Зарифьянов Рафис Раисович": 3,
-      "Ишбульдин Ирек Хайрутдинович": 3,
-      "Квят Вячеслав Яковлевич": 24,
-      "Сексяева Вера Кирилловна": 23,
-      "Фурман Александр Борисович": 195,
-      "Против всех": 0
+      "gas:candidate-vibid:1001000194996": 2,
+      "gas:candidate-vibid:302300467057": 3,
+      "gas:candidate-vibid:302300466831": 39,
+      "gas:candidate-vibid:1001000187981": 1,
+      "gas:candidate-vibid:1001000135992": 3,
+      "gas:candidate-vibid:302300466837": 3,
+      "gas:candidate-vibid:302300467045": 24,
+      "gas:candidate-vibid:1001000121786": 23,
+      "gas:candidate-vibid:1001000225869": 195,
+      "special:against-all": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=22000049&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=202200066864&region=0&sub_region=0&type=429",
@@ -14438,16 +14438,16 @@ export const duma_2003_uik_428_region_3_part_009 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Богданова Дарья Максимовна": 0,
-      "Генералов Михаил Афанасьевич": 0,
-      "Джалилов Рафаиль Алиевич": 7,
-      "Диков Павел Михайлович": 1,
-      "Зарифьянов Рафис Раисович": 2,
-      "Ишбульдин Ирек Хайрутдинович": 2,
-      "Квят Вячеслав Яковлевич": 9,
-      "Сексяева Вера Кирилловна": 36,
-      "Фурман Александр Борисович": 121,
-      "Против всех": 2
+      "gas:candidate-vibid:1001000194996": 0,
+      "gas:candidate-vibid:302300467057": 0,
+      "gas:candidate-vibid:302300466831": 7,
+      "gas:candidate-vibid:1001000187981": 1,
+      "gas:candidate-vibid:1001000135992": 2,
+      "gas:candidate-vibid:302300466837": 2,
+      "gas:candidate-vibid:302300467045": 9,
+      "gas:candidate-vibid:1001000121786": 36,
+      "gas:candidate-vibid:1001000225869": 121,
+      "special:against-all": 2
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=22000049&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=202200066864&region=0&sub_region=0&type=429",
@@ -14497,16 +14497,16 @@ export const duma_2003_uik_428_region_3_part_009 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Богданова Дарья Максимовна": 2,
-      "Генералов Михаил Афанасьевич": 3,
-      "Джалилов Рафаиль Алиевич": 19,
-      "Диков Павел Михайлович": 0,
-      "Зарифьянов Рафис Раисович": 2,
-      "Ишбульдин Ирек Хайрутдинович": 4,
-      "Квят Вячеслав Яковлевич": 26,
-      "Сексяева Вера Кирилловна": 11,
-      "Фурман Александр Борисович": 173,
-      "Против всех": 5
+      "gas:candidate-vibid:1001000194996": 2,
+      "gas:candidate-vibid:302300467057": 3,
+      "gas:candidate-vibid:302300466831": 19,
+      "gas:candidate-vibid:1001000187981": 0,
+      "gas:candidate-vibid:1001000135992": 2,
+      "gas:candidate-vibid:302300466837": 4,
+      "gas:candidate-vibid:302300467045": 26,
+      "gas:candidate-vibid:1001000121786": 11,
+      "gas:candidate-vibid:1001000225869": 173,
+      "special:against-all": 5
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=22000049&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=202200066864&region=0&sub_region=0&type=429",
@@ -14556,16 +14556,16 @@ export const duma_2003_uik_428_region_3_part_009 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Богданова Дарья Максимовна": 2,
-      "Генералов Михаил Афанасьевич": 4,
-      "Джалилов Рафаиль Алиевич": 30,
-      "Диков Павел Михайлович": 2,
-      "Зарифьянов Рафис Раисович": 8,
-      "Ишбульдин Ирек Хайрутдинович": 6,
-      "Квят Вячеслав Яковлевич": 25,
-      "Сексяева Вера Кирилловна": 9,
-      "Фурман Александр Борисович": 286,
-      "Против всех": 7
+      "gas:candidate-vibid:1001000194996": 2,
+      "gas:candidate-vibid:302300467057": 4,
+      "gas:candidate-vibid:302300466831": 30,
+      "gas:candidate-vibid:1001000187981": 2,
+      "gas:candidate-vibid:1001000135992": 8,
+      "gas:candidate-vibid:302300466837": 6,
+      "gas:candidate-vibid:302300467045": 25,
+      "gas:candidate-vibid:1001000121786": 9,
+      "gas:candidate-vibid:1001000225869": 286,
+      "special:against-all": 7
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=22000049&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=202200066864&region=0&sub_region=0&type=429",
@@ -14615,16 +14615,16 @@ export const duma_2003_uik_428_region_3_part_009 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Богданова Дарья Максимовна": 9,
-      "Генералов Михаил Афанасьевич": 6,
-      "Джалилов Рафаиль Алиевич": 67,
-      "Диков Павел Михайлович": 0,
-      "Зарифьянов Рафис Раисович": 5,
-      "Ишбульдин Ирек Хайрутдинович": 14,
-      "Квят Вячеслав Яковлевич": 59,
-      "Сексяева Вера Кирилловна": 14,
-      "Фурман Александр Борисович": 371,
-      "Против всех": 15
+      "gas:candidate-vibid:1001000194996": 9,
+      "gas:candidate-vibid:302300467057": 6,
+      "gas:candidate-vibid:302300466831": 67,
+      "gas:candidate-vibid:1001000187981": 0,
+      "gas:candidate-vibid:1001000135992": 5,
+      "gas:candidate-vibid:302300466837": 14,
+      "gas:candidate-vibid:302300467045": 59,
+      "gas:candidate-vibid:1001000121786": 14,
+      "gas:candidate-vibid:1001000225869": 371,
+      "special:against-all": 15
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=22000049&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=202200066864&region=0&sub_region=0&type=429",
@@ -14674,16 +14674,16 @@ export const duma_2003_uik_428_region_3_part_009 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Богданова Дарья Максимовна": 0,
-      "Генералов Михаил Афанасьевич": 0,
-      "Джалилов Рафаиль Алиевич": 4,
-      "Диков Павел Михайлович": 0,
-      "Зарифьянов Рафис Раисович": 4,
-      "Ишбульдин Ирек Хайрутдинович": 4,
-      "Квят Вячеслав Яковлевич": 7,
-      "Сексяева Вера Кирилловна": 2,
-      "Фурман Александр Борисович": 66,
-      "Против всех": 2
+      "gas:candidate-vibid:1001000194996": 0,
+      "gas:candidate-vibid:302300467057": 0,
+      "gas:candidate-vibid:302300466831": 4,
+      "gas:candidate-vibid:1001000187981": 0,
+      "gas:candidate-vibid:1001000135992": 4,
+      "gas:candidate-vibid:302300466837": 4,
+      "gas:candidate-vibid:302300467045": 7,
+      "gas:candidate-vibid:1001000121786": 2,
+      "gas:candidate-vibid:1001000225869": 66,
+      "special:against-all": 2
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=22000049&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=202200066864&region=0&sub_region=0&type=429",
@@ -14733,16 +14733,16 @@ export const duma_2003_uik_428_region_3_part_009 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Богданова Дарья Максимовна": 1,
-      "Генералов Михаил Афанасьевич": 0,
-      "Джалилов Рафаиль Алиевич": 7,
-      "Диков Павел Михайлович": 0,
-      "Зарифьянов Рафис Раисович": 4,
-      "Ишбульдин Ирек Хайрутдинович": 2,
-      "Квят Вячеслав Яковлевич": 3,
-      "Сексяева Вера Кирилловна": 0,
-      "Фурман Александр Борисович": 73,
-      "Против всех": 1
+      "gas:candidate-vibid:1001000194996": 1,
+      "gas:candidate-vibid:302300467057": 0,
+      "gas:candidate-vibid:302300466831": 7,
+      "gas:candidate-vibid:1001000187981": 0,
+      "gas:candidate-vibid:1001000135992": 4,
+      "gas:candidate-vibid:302300466837": 2,
+      "gas:candidate-vibid:302300467045": 3,
+      "gas:candidate-vibid:1001000121786": 0,
+      "gas:candidate-vibid:1001000225869": 73,
+      "special:against-all": 1
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=22000049&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=202200066864&region=0&sub_region=0&type=429",

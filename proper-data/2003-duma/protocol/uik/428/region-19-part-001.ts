@@ -42,13 +42,13 @@ export const duma_2003_uik_428_region_19_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Кильчичакова Елена Михайловна": 175,
-      "Мустонен Александр Хейнович": 12,
-      "Сагалаков Валерий Евгеньевич": 37,
-      "Семенов Александр Геннадьевич": 207,
-      "Семигин Геннадий Юрьевич": 762,
-      "Чаптыков Василий Иванович": 42,
-      "Против всех": 198
+      "gas:candidate-vibid:219200066689": 175,
+      "gas:candidate-vibid:219200066695": 12,
+      "gas:candidate-vibid:1001000202284": 37,
+      "gas:candidate-vibid:1001000136007": 207,
+      "gas:candidate-vibid:1001000121805": 762,
+      "gas:candidate-vibid:1001000258381": 42,
+      "special:against-all": 198
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=192000001&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=219200066728&region=0&sub_region=0&type=429",
@@ -98,13 +98,13 @@ export const duma_2003_uik_428_region_19_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Кильчичакова Елена Михайловна": 132,
-      "Мустонен Александр Хейнович": 6,
-      "Сагалаков Валерий Евгеньевич": 34,
-      "Семенов Александр Геннадьевич": 116,
-      "Семигин Геннадий Юрьевич": 479,
-      "Чаптыков Василий Иванович": 41,
-      "Против всех": 158
+      "gas:candidate-vibid:219200066689": 132,
+      "gas:candidate-vibid:219200066695": 6,
+      "gas:candidate-vibid:1001000202284": 34,
+      "gas:candidate-vibid:1001000136007": 116,
+      "gas:candidate-vibid:1001000121805": 479,
+      "gas:candidate-vibid:1001000258381": 41,
+      "special:against-all": 158
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=192000001&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=219200066728&region=0&sub_region=0&type=429",
@@ -154,13 +154,13 @@ export const duma_2003_uik_428_region_19_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Кильчичакова Елена Михайловна": 78,
-      "Мустонен Александр Хейнович": 6,
-      "Сагалаков Валерий Евгеньевич": 28,
-      "Семенов Александр Геннадьевич": 108,
-      "Семигин Геннадий Юрьевич": 375,
-      "Чаптыков Василий Иванович": 21,
-      "Против всех": 104
+      "gas:candidate-vibid:219200066689": 78,
+      "gas:candidate-vibid:219200066695": 6,
+      "gas:candidate-vibid:1001000202284": 28,
+      "gas:candidate-vibid:1001000136007": 108,
+      "gas:candidate-vibid:1001000121805": 375,
+      "gas:candidate-vibid:1001000258381": 21,
+      "special:against-all": 104
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=192000001&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=219200066728&region=0&sub_region=0&type=429",
@@ -210,13 +210,13 @@ export const duma_2003_uik_428_region_19_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Кильчичакова Елена Михайловна": 77,
-      "Мустонен Александр Хейнович": 4,
-      "Сагалаков Валерий Евгеньевич": 18,
-      "Семенов Александр Геннадьевич": 136,
-      "Семигин Геннадий Юрьевич": 359,
-      "Чаптыков Василий Иванович": 28,
-      "Против всех": 95
+      "gas:candidate-vibid:219200066689": 77,
+      "gas:candidate-vibid:219200066695": 4,
+      "gas:candidate-vibid:1001000202284": 18,
+      "gas:candidate-vibid:1001000136007": 136,
+      "gas:candidate-vibid:1001000121805": 359,
+      "gas:candidate-vibid:1001000258381": 28,
+      "special:against-all": 95
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=192000001&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=219200066728&region=0&sub_region=0&type=429",
@@ -266,13 +266,13 @@ export const duma_2003_uik_428_region_19_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Кильчичакова Елена Михайловна": 111,
-      "Мустонен Александр Хейнович": 2,
-      "Сагалаков Валерий Евгеньевич": 26,
-      "Семенов Александр Геннадьевич": 118,
-      "Семигин Геннадий Юрьевич": 525,
-      "Чаптыков Василий Иванович": 37,
-      "Против всех": 157
+      "gas:candidate-vibid:219200066689": 111,
+      "gas:candidate-vibid:219200066695": 2,
+      "gas:candidate-vibid:1001000202284": 26,
+      "gas:candidate-vibid:1001000136007": 118,
+      "gas:candidate-vibid:1001000121805": 525,
+      "gas:candidate-vibid:1001000258381": 37,
+      "special:against-all": 157
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=192000001&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=219200066728&region=0&sub_region=0&type=429",
@@ -322,13 +322,13 @@ export const duma_2003_uik_428_region_19_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Кильчичакова Елена Михайловна": 66,
-      "Мустонен Александр Хейнович": 5,
-      "Сагалаков Валерий Евгеньевич": 16,
-      "Семенов Александр Геннадьевич": 57,
-      "Семигин Геннадий Юрьевич": 218,
-      "Чаптыков Василий Иванович": 11,
-      "Против всех": 83
+      "gas:candidate-vibid:219200066689": 66,
+      "gas:candidate-vibid:219200066695": 5,
+      "gas:candidate-vibid:1001000202284": 16,
+      "gas:candidate-vibid:1001000136007": 57,
+      "gas:candidate-vibid:1001000121805": 218,
+      "gas:candidate-vibid:1001000258381": 11,
+      "special:against-all": 83
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=192000001&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=219200066728&region=0&sub_region=0&type=429",
@@ -378,13 +378,13 @@ export const duma_2003_uik_428_region_19_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Кильчичакова Елена Михайловна": 35,
-      "Мустонен Александр Хейнович": 5,
-      "Сагалаков Валерий Евгеньевич": 13,
-      "Семенов Александр Геннадьевич": 52,
-      "Семигин Геннадий Юрьевич": 223,
-      "Чаптыков Василий Иванович": 17,
-      "Против всех": 59
+      "gas:candidate-vibid:219200066689": 35,
+      "gas:candidate-vibid:219200066695": 5,
+      "gas:candidate-vibid:1001000202284": 13,
+      "gas:candidate-vibid:1001000136007": 52,
+      "gas:candidate-vibid:1001000121805": 223,
+      "gas:candidate-vibid:1001000258381": 17,
+      "special:against-all": 59
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=192000001&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=219200066728&region=0&sub_region=0&type=429",
@@ -434,13 +434,13 @@ export const duma_2003_uik_428_region_19_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Кильчичакова Елена Михайловна": 87,
-      "Мустонен Александр Хейнович": 4,
-      "Сагалаков Валерий Евгеньевич": 49,
-      "Семенов Александр Геннадьевич": 162,
-      "Семигин Геннадий Юрьевич": 533,
-      "Чаптыков Василий Иванович": 29,
-      "Против всех": 146
+      "gas:candidate-vibid:219200066689": 87,
+      "gas:candidate-vibid:219200066695": 4,
+      "gas:candidate-vibid:1001000202284": 49,
+      "gas:candidate-vibid:1001000136007": 162,
+      "gas:candidate-vibid:1001000121805": 533,
+      "gas:candidate-vibid:1001000258381": 29,
+      "special:against-all": 146
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=192000001&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=219200066728&region=0&sub_region=0&type=429",
@@ -490,13 +490,13 @@ export const duma_2003_uik_428_region_19_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Кильчичакова Елена Михайловна": 118,
-      "Мустонен Александр Хейнович": 7,
-      "Сагалаков Валерий Евгеньевич": 28,
-      "Семенов Александр Геннадьевич": 111,
-      "Семигин Геннадий Юрьевич": 512,
-      "Чаптыков Василий Иванович": 41,
-      "Против всех": 108
+      "gas:candidate-vibid:219200066689": 118,
+      "gas:candidate-vibid:219200066695": 7,
+      "gas:candidate-vibid:1001000202284": 28,
+      "gas:candidate-vibid:1001000136007": 111,
+      "gas:candidate-vibid:1001000121805": 512,
+      "gas:candidate-vibid:1001000258381": 41,
+      "special:against-all": 108
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=192000002&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=219200066729&region=0&sub_region=0&type=429",
@@ -546,13 +546,13 @@ export const duma_2003_uik_428_region_19_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Кильчичакова Елена Михайловна": 110,
-      "Мустонен Александр Хейнович": 2,
-      "Сагалаков Валерий Евгеньевич": 25,
-      "Семенов Александр Геннадьевич": 110,
-      "Семигин Геннадий Юрьевич": 420,
-      "Чаптыков Василий Иванович": 20,
-      "Против всех": 77
+      "gas:candidate-vibid:219200066689": 110,
+      "gas:candidate-vibid:219200066695": 2,
+      "gas:candidate-vibid:1001000202284": 25,
+      "gas:candidate-vibid:1001000136007": 110,
+      "gas:candidate-vibid:1001000121805": 420,
+      "gas:candidate-vibid:1001000258381": 20,
+      "special:against-all": 77
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=192000002&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=219200066729&region=0&sub_region=0&type=429",
@@ -602,13 +602,13 @@ export const duma_2003_uik_428_region_19_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Кильчичакова Елена Михайловна": 148,
-      "Мустонен Александр Хейнович": 3,
-      "Сагалаков Валерий Евгеньевич": 25,
-      "Семенов Александр Геннадьевич": 93,
-      "Семигин Геннадий Юрьевич": 438,
-      "Чаптыков Василий Иванович": 34,
-      "Против всех": 119
+      "gas:candidate-vibid:219200066689": 148,
+      "gas:candidate-vibid:219200066695": 3,
+      "gas:candidate-vibid:1001000202284": 25,
+      "gas:candidate-vibid:1001000136007": 93,
+      "gas:candidate-vibid:1001000121805": 438,
+      "gas:candidate-vibid:1001000258381": 34,
+      "special:against-all": 119
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=192000002&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=219200066729&region=0&sub_region=0&type=429",
@@ -658,13 +658,13 @@ export const duma_2003_uik_428_region_19_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Кильчичакова Елена Михайловна": 158,
-      "Мустонен Александр Хейнович": 2,
-      "Сагалаков Валерий Евгеньевич": 24,
-      "Семенов Александр Геннадьевич": 103,
-      "Семигин Геннадий Юрьевич": 463,
-      "Чаптыков Василий Иванович": 43,
-      "Против всех": 116
+      "gas:candidate-vibid:219200066689": 158,
+      "gas:candidate-vibid:219200066695": 2,
+      "gas:candidate-vibid:1001000202284": 24,
+      "gas:candidate-vibid:1001000136007": 103,
+      "gas:candidate-vibid:1001000121805": 463,
+      "gas:candidate-vibid:1001000258381": 43,
+      "special:against-all": 116
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=192000002&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=219200066729&region=0&sub_region=0&type=429",
@@ -714,13 +714,13 @@ export const duma_2003_uik_428_region_19_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Кильчичакова Елена Михайловна": 77,
-      "Мустонен Александр Хейнович": 2,
-      "Сагалаков Валерий Евгеньевич": 3,
-      "Семенов Александр Геннадьевич": 39,
-      "Семигин Геннадий Юрьевич": 146,
-      "Чаптыков Василий Иванович": 5,
-      "Против всех": 41
+      "gas:candidate-vibid:219200066689": 77,
+      "gas:candidate-vibid:219200066695": 2,
+      "gas:candidate-vibid:1001000202284": 3,
+      "gas:candidate-vibid:1001000136007": 39,
+      "gas:candidate-vibid:1001000121805": 146,
+      "gas:candidate-vibid:1001000258381": 5,
+      "special:against-all": 41
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=192000002&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=219200066729&region=0&sub_region=0&type=429",
@@ -770,13 +770,13 @@ export const duma_2003_uik_428_region_19_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Кильчичакова Елена Михайловна": 96,
-      "Мустонен Александр Хейнович": 3,
-      "Сагалаков Валерий Евгеньевич": 47,
-      "Семенов Александр Геннадьевич": 147,
-      "Семигин Геннадий Юрьевич": 516,
-      "Чаптыков Василий Иванович": 21,
-      "Против всех": 122
+      "gas:candidate-vibid:219200066689": 96,
+      "gas:candidate-vibid:219200066695": 3,
+      "gas:candidate-vibid:1001000202284": 47,
+      "gas:candidate-vibid:1001000136007": 147,
+      "gas:candidate-vibid:1001000121805": 516,
+      "gas:candidate-vibid:1001000258381": 21,
+      "special:against-all": 122
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=192000003&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=219200066730&region=0&sub_region=0&type=429",
@@ -826,13 +826,13 @@ export const duma_2003_uik_428_region_19_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Кильчичакова Елена Михайловна": 37,
-      "Мустонен Александр Хейнович": 1,
-      "Сагалаков Валерий Евгеньевич": 29,
-      "Семенов Александр Геннадьевич": 84,
-      "Семигин Геннадий Юрьевич": 302,
-      "Чаптыков Василий Иванович": 15,
-      "Против всех": 50
+      "gas:candidate-vibid:219200066689": 37,
+      "gas:candidate-vibid:219200066695": 1,
+      "gas:candidate-vibid:1001000202284": 29,
+      "gas:candidate-vibid:1001000136007": 84,
+      "gas:candidate-vibid:1001000121805": 302,
+      "gas:candidate-vibid:1001000258381": 15,
+      "special:against-all": 50
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=192000003&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=219200066730&region=0&sub_region=0&type=429",
@@ -882,13 +882,13 @@ export const duma_2003_uik_428_region_19_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Кильчичакова Елена Михайловна": 34,
-      "Мустонен Александр Хейнович": 2,
-      "Сагалаков Валерий Евгеньевич": 33,
-      "Семенов Александр Геннадьевич": 81,
-      "Семигин Геннадий Юрьевич": 280,
-      "Чаптыков Василий Иванович": 8,
-      "Против всех": 47
+      "gas:candidate-vibid:219200066689": 34,
+      "gas:candidate-vibid:219200066695": 2,
+      "gas:candidate-vibid:1001000202284": 33,
+      "gas:candidate-vibid:1001000136007": 81,
+      "gas:candidate-vibid:1001000121805": 280,
+      "gas:candidate-vibid:1001000258381": 8,
+      "special:against-all": 47
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=192000003&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=219200066730&region=0&sub_region=0&type=429",
@@ -938,13 +938,13 @@ export const duma_2003_uik_428_region_19_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Кильчичакова Елена Михайловна": 34,
-      "Мустонен Александр Хейнович": 3,
-      "Сагалаков Валерий Евгеньевич": 33,
-      "Семенов Александр Геннадьевич": 101,
-      "Семигин Геннадий Юрьевич": 396,
-      "Чаптыков Василий Иванович": 25,
-      "Против всех": 93
+      "gas:candidate-vibid:219200066689": 34,
+      "gas:candidate-vibid:219200066695": 3,
+      "gas:candidate-vibid:1001000202284": 33,
+      "gas:candidate-vibid:1001000136007": 101,
+      "gas:candidate-vibid:1001000121805": 396,
+      "gas:candidate-vibid:1001000258381": 25,
+      "special:against-all": 93
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=192000003&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=219200066730&region=0&sub_region=0&type=429",
@@ -994,13 +994,13 @@ export const duma_2003_uik_428_region_19_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Кильчичакова Елена Михайловна": 35,
-      "Мустонен Александр Хейнович": 1,
-      "Сагалаков Валерий Евгеньевич": 35,
-      "Семенов Александр Геннадьевич": 102,
-      "Семигин Геннадий Юрьевич": 539,
-      "Чаптыков Василий Иванович": 25,
-      "Против всех": 67
+      "gas:candidate-vibid:219200066689": 35,
+      "gas:candidate-vibid:219200066695": 1,
+      "gas:candidate-vibid:1001000202284": 35,
+      "gas:candidate-vibid:1001000136007": 102,
+      "gas:candidate-vibid:1001000121805": 539,
+      "gas:candidate-vibid:1001000258381": 25,
+      "special:against-all": 67
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=192000003&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=219200066730&region=0&sub_region=0&type=429",
@@ -1050,13 +1050,13 @@ export const duma_2003_uik_428_region_19_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Кильчичакова Елена Михайловна": 17,
-      "Мустонен Александр Хейнович": 3,
-      "Сагалаков Валерий Евгеньевич": 5,
-      "Семенов Александр Геннадьевич": 23,
-      "Семигин Геннадий Юрьевич": 113,
-      "Чаптыков Василий Иванович": 10,
-      "Против всех": 29
+      "gas:candidate-vibid:219200066689": 17,
+      "gas:candidate-vibid:219200066695": 3,
+      "gas:candidate-vibid:1001000202284": 5,
+      "gas:candidate-vibid:1001000136007": 23,
+      "gas:candidate-vibid:1001000121805": 113,
+      "gas:candidate-vibid:1001000258381": 10,
+      "special:against-all": 29
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=192000003&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=219200066730&region=0&sub_region=0&type=429",
@@ -1106,13 +1106,13 @@ export const duma_2003_uik_428_region_19_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Кильчичакова Елена Михайловна": 48,
-      "Мустонен Александр Хейнович": 0,
-      "Сагалаков Валерий Евгеньевич": 25,
-      "Семенов Александр Геннадьевич": 74,
-      "Семигин Геннадий Юрьевич": 270,
-      "Чаптыков Василий Иванович": 14,
-      "Против всех": 53
+      "gas:candidate-vibid:219200066689": 48,
+      "gas:candidate-vibid:219200066695": 0,
+      "gas:candidate-vibid:1001000202284": 25,
+      "gas:candidate-vibid:1001000136007": 74,
+      "gas:candidate-vibid:1001000121805": 270,
+      "gas:candidate-vibid:1001000258381": 14,
+      "special:against-all": 53
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=192000003&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=219200066730&region=0&sub_region=0&type=429",
@@ -1162,13 +1162,13 @@ export const duma_2003_uik_428_region_19_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Кильчичакова Елена Михайловна": 27,
-      "Мустонен Александр Хейнович": 0,
-      "Сагалаков Валерий Евгеньевич": 14,
-      "Семенов Александр Геннадьевич": 61,
-      "Семигин Геннадий Юрьевич": 262,
-      "Чаптыков Василий Иванович": 13,
-      "Против всех": 64
+      "gas:candidate-vibid:219200066689": 27,
+      "gas:candidate-vibid:219200066695": 0,
+      "gas:candidate-vibid:1001000202284": 14,
+      "gas:candidate-vibid:1001000136007": 61,
+      "gas:candidate-vibid:1001000121805": 262,
+      "gas:candidate-vibid:1001000258381": 13,
+      "special:against-all": 64
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=192000003&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=219200066730&region=0&sub_region=0&type=429",
@@ -1218,13 +1218,13 @@ export const duma_2003_uik_428_region_19_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Кильчичакова Елена Михайловна": 24,
-      "Мустонен Александр Хейнович": 2,
-      "Сагалаков Валерий Евгеньевич": 27,
-      "Семенов Александр Геннадьевич": 51,
-      "Семигин Геннадий Юрьевич": 270,
-      "Чаптыков Василий Иванович": 6,
-      "Против всех": 43
+      "gas:candidate-vibid:219200066689": 24,
+      "gas:candidate-vibid:219200066695": 2,
+      "gas:candidate-vibid:1001000202284": 27,
+      "gas:candidate-vibid:1001000136007": 51,
+      "gas:candidate-vibid:1001000121805": 270,
+      "gas:candidate-vibid:1001000258381": 6,
+      "special:against-all": 43
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=192000003&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=219200066730&region=0&sub_region=0&type=429",
@@ -1274,13 +1274,13 @@ export const duma_2003_uik_428_region_19_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Кильчичакова Елена Михайловна": 32,
-      "Мустонен Александр Хейнович": 1,
-      "Сагалаков Валерий Евгеньевич": 19,
-      "Семенов Александр Геннадьевич": 85,
-      "Семигин Геннадий Юрьевич": 201,
-      "Чаптыков Василий Иванович": 12,
-      "Против всех": 40
+      "gas:candidate-vibid:219200066689": 32,
+      "gas:candidate-vibid:219200066695": 1,
+      "gas:candidate-vibid:1001000202284": 19,
+      "gas:candidate-vibid:1001000136007": 85,
+      "gas:candidate-vibid:1001000121805": 201,
+      "gas:candidate-vibid:1001000258381": 12,
+      "special:against-all": 40
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=192000003&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=219200066730&region=0&sub_region=0&type=429",
@@ -1330,13 +1330,13 @@ export const duma_2003_uik_428_region_19_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Кильчичакова Елена Михайловна": 70,
-      "Мустонен Александр Хейнович": 7,
-      "Сагалаков Валерий Евгеньевич": 72,
-      "Семенов Александр Геннадьевич": 153,
-      "Семигин Геннадий Юрьевич": 554,
-      "Чаптыков Василий Иванович": 37,
-      "Против всех": 108
+      "gas:candidate-vibid:219200066689": 70,
+      "gas:candidate-vibid:219200066695": 7,
+      "gas:candidate-vibid:1001000202284": 72,
+      "gas:candidate-vibid:1001000136007": 153,
+      "gas:candidate-vibid:1001000121805": 554,
+      "gas:candidate-vibid:1001000258381": 37,
+      "special:against-all": 108
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=192000003&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=219200066730&region=0&sub_region=0&type=429",
@@ -1386,13 +1386,13 @@ export const duma_2003_uik_428_region_19_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Кильчичакова Елена Михайловна": 43,
-      "Мустонен Александр Хейнович": 0,
-      "Сагалаков Валерий Евгеньевич": 13,
-      "Семенов Александр Геннадьевич": 88,
-      "Семигин Геннадий Юрьевич": 247,
-      "Чаптыков Василий Иванович": 11,
-      "Против всех": 59
+      "gas:candidate-vibid:219200066689": 43,
+      "gas:candidate-vibid:219200066695": 0,
+      "gas:candidate-vibid:1001000202284": 13,
+      "gas:candidate-vibid:1001000136007": 88,
+      "gas:candidate-vibid:1001000121805": 247,
+      "gas:candidate-vibid:1001000258381": 11,
+      "special:against-all": 59
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=192000003&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=219200066730&region=0&sub_region=0&type=429",
@@ -1442,13 +1442,13 @@ export const duma_2003_uik_428_region_19_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Кильчичакова Елена Михайловна": 44,
-      "Мустонен Александр Хейнович": 3,
-      "Сагалаков Валерий Евгеньевич": 12,
-      "Семенов Александр Геннадьевич": 67,
-      "Семигин Геннадий Юрьевич": 211,
-      "Чаптыков Василий Иванович": 16,
-      "Против всех": 59
+      "gas:candidate-vibid:219200066689": 44,
+      "gas:candidate-vibid:219200066695": 3,
+      "gas:candidate-vibid:1001000202284": 12,
+      "gas:candidate-vibid:1001000136007": 67,
+      "gas:candidate-vibid:1001000121805": 211,
+      "gas:candidate-vibid:1001000258381": 16,
+      "special:against-all": 59
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=192000003&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=219200066730&region=0&sub_region=0&type=429",
@@ -1498,13 +1498,13 @@ export const duma_2003_uik_428_region_19_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Кильчичакова Елена Михайловна": 26,
-      "Мустонен Александр Хейнович": 2,
-      "Сагалаков Валерий Евгеньевич": 19,
-      "Семенов Александр Геннадьевич": 89,
-      "Семигин Геннадий Юрьевич": 277,
-      "Чаптыков Василий Иванович": 21,
-      "Против всех": 76
+      "gas:candidate-vibid:219200066689": 26,
+      "gas:candidate-vibid:219200066695": 2,
+      "gas:candidate-vibid:1001000202284": 19,
+      "gas:candidate-vibid:1001000136007": 89,
+      "gas:candidate-vibid:1001000121805": 277,
+      "gas:candidate-vibid:1001000258381": 21,
+      "special:against-all": 76
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=192000003&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=219200066730&region=0&sub_region=0&type=429",
@@ -1554,13 +1554,13 @@ export const duma_2003_uik_428_region_19_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Кильчичакова Елена Михайловна": 38,
-      "Мустонен Александр Хейнович": 7,
-      "Сагалаков Валерий Евгеньевич": 21,
-      "Семенов Александр Геннадьевич": 82,
-      "Семигин Геннадий Юрьевич": 259,
-      "Чаптыков Василий Иванович": 15,
-      "Против всех": 72
+      "gas:candidate-vibid:219200066689": 38,
+      "gas:candidate-vibid:219200066695": 7,
+      "gas:candidate-vibid:1001000202284": 21,
+      "gas:candidate-vibid:1001000136007": 82,
+      "gas:candidate-vibid:1001000121805": 259,
+      "gas:candidate-vibid:1001000258381": 15,
+      "special:against-all": 72
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=192000003&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=219200066730&region=0&sub_region=0&type=429",
@@ -1610,13 +1610,13 @@ export const duma_2003_uik_428_region_19_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Кильчичакова Елена Михайловна": 48,
-      "Мустонен Александр Хейнович": 2,
-      "Сагалаков Валерий Евгеньевич": 28,
-      "Семенов Александр Геннадьевич": 93,
-      "Семигин Геннадий Юрьевич": 344,
-      "Чаптыков Василий Иванович": 11,
-      "Против всех": 72
+      "gas:candidate-vibid:219200066689": 48,
+      "gas:candidate-vibid:219200066695": 2,
+      "gas:candidate-vibid:1001000202284": 28,
+      "gas:candidate-vibid:1001000136007": 93,
+      "gas:candidate-vibid:1001000121805": 344,
+      "gas:candidate-vibid:1001000258381": 11,
+      "special:against-all": 72
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=192000003&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=219200066730&region=0&sub_region=0&type=429",
@@ -1666,13 +1666,13 @@ export const duma_2003_uik_428_region_19_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Кильчичакова Елена Михайловна": 24,
-      "Мустонен Александр Хейнович": 5,
-      "Сагалаков Валерий Евгеньевич": 14,
-      "Семенов Александр Геннадьевич": 49,
-      "Семигин Геннадий Юрьевич": 207,
-      "Чаптыков Василий Иванович": 6,
-      "Против всех": 58
+      "gas:candidate-vibid:219200066689": 24,
+      "gas:candidate-vibid:219200066695": 5,
+      "gas:candidate-vibid:1001000202284": 14,
+      "gas:candidate-vibid:1001000136007": 49,
+      "gas:candidate-vibid:1001000121805": 207,
+      "gas:candidate-vibid:1001000258381": 6,
+      "special:against-all": 58
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=192000003&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=219200066730&region=0&sub_region=0&type=429",
@@ -1722,13 +1722,13 @@ export const duma_2003_uik_428_region_19_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Кильчичакова Елена Михайловна": 45,
-      "Мустонен Александр Хейнович": 3,
-      "Сагалаков Валерий Евгеньевич": 27,
-      "Семенов Александр Геннадьевич": 89,
-      "Семигин Геннадий Юрьевич": 323,
-      "Чаптыков Василий Иванович": 9,
-      "Против всех": 62
+      "gas:candidate-vibid:219200066689": 45,
+      "gas:candidate-vibid:219200066695": 3,
+      "gas:candidate-vibid:1001000202284": 27,
+      "gas:candidate-vibid:1001000136007": 89,
+      "gas:candidate-vibid:1001000121805": 323,
+      "gas:candidate-vibid:1001000258381": 9,
+      "special:against-all": 62
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=192000003&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=219200066730&region=0&sub_region=0&type=429",
@@ -1778,13 +1778,13 @@ export const duma_2003_uik_428_region_19_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Кильчичакова Елена Михайловна": 35,
-      "Мустонен Александр Хейнович": 6,
-      "Сагалаков Валерий Евгеньевич": 18,
-      "Семенов Александр Геннадьевич": 92,
-      "Семигин Геннадий Юрьевич": 317,
-      "Чаптыков Василий Иванович": 9,
-      "Против всех": 65
+      "gas:candidate-vibid:219200066689": 35,
+      "gas:candidate-vibid:219200066695": 6,
+      "gas:candidate-vibid:1001000202284": 18,
+      "gas:candidate-vibid:1001000136007": 92,
+      "gas:candidate-vibid:1001000121805": 317,
+      "gas:candidate-vibid:1001000258381": 9,
+      "special:against-all": 65
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=192000003&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=219200066730&region=0&sub_region=0&type=429",
@@ -1834,13 +1834,13 @@ export const duma_2003_uik_428_region_19_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Кильчичакова Елена Михайловна": 58,
-      "Мустонен Александр Хейнович": 2,
-      "Сагалаков Валерий Евгеньевич": 34,
-      "Семенов Александр Геннадьевич": 178,
-      "Семигин Геннадий Юрьевич": 513,
-      "Чаптыков Василий Иванович": 35,
-      "Против всех": 126
+      "gas:candidate-vibid:219200066689": 58,
+      "gas:candidate-vibid:219200066695": 2,
+      "gas:candidate-vibid:1001000202284": 34,
+      "gas:candidate-vibid:1001000136007": 178,
+      "gas:candidate-vibid:1001000121805": 513,
+      "gas:candidate-vibid:1001000258381": 35,
+      "special:against-all": 126
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=192000003&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=219200066730&region=0&sub_region=0&type=429",
@@ -1890,13 +1890,13 @@ export const duma_2003_uik_428_region_19_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Кильчичакова Елена Михайловна": 43,
-      "Мустонен Александр Хейнович": 0,
-      "Сагалаков Валерий Евгеньевич": 37,
-      "Семенов Александр Геннадьевич": 85,
-      "Семигин Геннадий Юрьевич": 302,
-      "Чаптыков Василий Иванович": 12,
-      "Против всех": 56
+      "gas:candidate-vibid:219200066689": 43,
+      "gas:candidate-vibid:219200066695": 0,
+      "gas:candidate-vibid:1001000202284": 37,
+      "gas:candidate-vibid:1001000136007": 85,
+      "gas:candidate-vibid:1001000121805": 302,
+      "gas:candidate-vibid:1001000258381": 12,
+      "special:against-all": 56
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=192000003&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=219200066730&region=0&sub_region=0&type=429",
@@ -1946,13 +1946,13 @@ export const duma_2003_uik_428_region_19_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Кильчичакова Елена Михайловна": 29,
-      "Мустонен Александр Хейнович": 2,
-      "Сагалаков Валерий Евгеньевич": 13,
-      "Семенов Александр Геннадьевич": 31,
-      "Семигин Геннадий Юрьевич": 149,
-      "Чаптыков Василий Иванович": 4,
-      "Против всех": 32
+      "gas:candidate-vibid:219200066689": 29,
+      "gas:candidate-vibid:219200066695": 2,
+      "gas:candidate-vibid:1001000202284": 13,
+      "gas:candidate-vibid:1001000136007": 31,
+      "gas:candidate-vibid:1001000121805": 149,
+      "gas:candidate-vibid:1001000258381": 4,
+      "special:against-all": 32
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=192000003&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=219200066730&region=0&sub_region=0&type=429",
@@ -2002,13 +2002,13 @@ export const duma_2003_uik_428_region_19_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Кильчичакова Елена Михайловна": 120,
-      "Мустонен Александр Хейнович": 6,
-      "Сагалаков Валерий Евгеньевич": 36,
-      "Семенов Александр Геннадьевич": 126,
-      "Семигин Геннадий Юрьевич": 465,
-      "Чаптыков Василий Иванович": 24,
-      "Против всех": 86
+      "gas:candidate-vibid:219200066689": 120,
+      "gas:candidate-vibid:219200066695": 6,
+      "gas:candidate-vibid:1001000202284": 36,
+      "gas:candidate-vibid:1001000136007": 126,
+      "gas:candidate-vibid:1001000121805": 465,
+      "gas:candidate-vibid:1001000258381": 24,
+      "special:against-all": 86
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=192000003&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=219200066730&region=0&sub_region=0&type=429",
@@ -2058,13 +2058,13 @@ export const duma_2003_uik_428_region_19_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Кильчичакова Елена Михайловна": 69,
-      "Мустонен Александр Хейнович": 4,
-      "Сагалаков Валерий Евгеньевич": 39,
-      "Семенов Александр Геннадьевич": 135,
-      "Семигин Геннадий Юрьевич": 462,
-      "Чаптыков Василий Иванович": 30,
-      "Против всех": 114
+      "gas:candidate-vibid:219200066689": 69,
+      "gas:candidate-vibid:219200066695": 4,
+      "gas:candidate-vibid:1001000202284": 39,
+      "gas:candidate-vibid:1001000136007": 135,
+      "gas:candidate-vibid:1001000121805": 462,
+      "gas:candidate-vibid:1001000258381": 30,
+      "special:against-all": 114
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=192000003&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=219200066730&region=0&sub_region=0&type=429",
@@ -2114,13 +2114,13 @@ export const duma_2003_uik_428_region_19_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Кильчичакова Елена Михайловна": 82,
-      "Мустонен Александр Хейнович": 1,
-      "Сагалаков Валерий Евгеньевич": 54,
-      "Семенов Александр Геннадьевич": 140,
-      "Семигин Геннадий Юрьевич": 518,
-      "Чаптыков Василий Иванович": 24,
-      "Против всех": 123
+      "gas:candidate-vibid:219200066689": 82,
+      "gas:candidate-vibid:219200066695": 1,
+      "gas:candidate-vibid:1001000202284": 54,
+      "gas:candidate-vibid:1001000136007": 140,
+      "gas:candidate-vibid:1001000121805": 518,
+      "gas:candidate-vibid:1001000258381": 24,
+      "special:against-all": 123
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=192000003&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=219200066730&region=0&sub_region=0&type=429",
@@ -2170,13 +2170,13 @@ export const duma_2003_uik_428_region_19_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Кильчичакова Елена Михайловна": 28,
-      "Мустонен Александр Хейнович": 2,
-      "Сагалаков Валерий Евгеньевич": 10,
-      "Семенов Александр Геннадьевич": 82,
-      "Семигин Геннадий Юрьевич": 236,
-      "Чаптыков Василий Иванович": 8,
-      "Против всех": 79
+      "gas:candidate-vibid:219200066689": 28,
+      "gas:candidate-vibid:219200066695": 2,
+      "gas:candidate-vibid:1001000202284": 10,
+      "gas:candidate-vibid:1001000136007": 82,
+      "gas:candidate-vibid:1001000121805": 236,
+      "gas:candidate-vibid:1001000258381": 8,
+      "special:against-all": 79
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=192000003&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=219200066730&region=0&sub_region=0&type=429",
@@ -2226,13 +2226,13 @@ export const duma_2003_uik_428_region_19_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Кильчичакова Елена Михайловна": 50,
-      "Мустонен Александр Хейнович": 0,
-      "Сагалаков Валерий Евгеньевич": 35,
-      "Семенов Александр Геннадьевич": 65,
-      "Семигин Геннадий Юрьевич": 228,
-      "Чаптыков Василий Иванович": 14,
-      "Против всех": 76
+      "gas:candidate-vibid:219200066689": 50,
+      "gas:candidate-vibid:219200066695": 0,
+      "gas:candidate-vibid:1001000202284": 35,
+      "gas:candidate-vibid:1001000136007": 65,
+      "gas:candidate-vibid:1001000121805": 228,
+      "gas:candidate-vibid:1001000258381": 14,
+      "special:against-all": 76
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=192000003&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=219200066730&region=0&sub_region=0&type=429",
@@ -2282,13 +2282,13 @@ export const duma_2003_uik_428_region_19_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Кильчичакова Елена Михайловна": 54,
-      "Мустонен Александр Хейнович": 2,
-      "Сагалаков Валерий Евгеньевич": 51,
-      "Семенов Александр Геннадьевич": 168,
-      "Семигин Геннадий Юрьевич": 425,
-      "Чаптыков Василий Иванович": 15,
-      "Против всех": 154
+      "gas:candidate-vibid:219200066689": 54,
+      "gas:candidate-vibid:219200066695": 2,
+      "gas:candidate-vibid:1001000202284": 51,
+      "gas:candidate-vibid:1001000136007": 168,
+      "gas:candidate-vibid:1001000121805": 425,
+      "gas:candidate-vibid:1001000258381": 15,
+      "special:against-all": 154
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=192000003&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=219200066730&region=0&sub_region=0&type=429",
@@ -2338,13 +2338,13 @@ export const duma_2003_uik_428_region_19_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Кильчичакова Елена Михайловна": 56,
-      "Мустонен Александр Хейнович": 0,
-      "Сагалаков Валерий Евгеньевич": 48,
-      "Семенов Александр Геннадьевич": 164,
-      "Семигин Геннадий Юрьевич": 418,
-      "Чаптыков Василий Иванович": 17,
-      "Против всех": 110
+      "gas:candidate-vibid:219200066689": 56,
+      "gas:candidate-vibid:219200066695": 0,
+      "gas:candidate-vibid:1001000202284": 48,
+      "gas:candidate-vibid:1001000136007": 164,
+      "gas:candidate-vibid:1001000121805": 418,
+      "gas:candidate-vibid:1001000258381": 17,
+      "special:against-all": 110
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=192000003&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=219200066730&region=0&sub_region=0&type=429",
@@ -2394,13 +2394,13 @@ export const duma_2003_uik_428_region_19_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Кильчичакова Елена Михайловна": 47,
-      "Мустонен Александр Хейнович": 1,
-      "Сагалаков Валерий Евгеньевич": 44,
-      "Семенов Александр Геннадьевич": 136,
-      "Семигин Геннадий Юрьевич": 419,
-      "Чаптыков Василий Иванович": 17,
-      "Против всех": 102
+      "gas:candidate-vibid:219200066689": 47,
+      "gas:candidate-vibid:219200066695": 1,
+      "gas:candidate-vibid:1001000202284": 44,
+      "gas:candidate-vibid:1001000136007": 136,
+      "gas:candidate-vibid:1001000121805": 419,
+      "gas:candidate-vibid:1001000258381": 17,
+      "special:against-all": 102
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=192000003&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=219200066730&region=0&sub_region=0&type=429",
@@ -2450,13 +2450,13 @@ export const duma_2003_uik_428_region_19_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Кильчичакова Елена Михайловна": 47,
-      "Мустонен Александр Хейнович": 0,
-      "Сагалаков Валерий Евгеньевич": 31,
-      "Семенов Александр Геннадьевич": 82,
-      "Семигин Геннадий Юрьевич": 230,
-      "Чаптыков Василий Иванович": 13,
-      "Против всех": 53
+      "gas:candidate-vibid:219200066689": 47,
+      "gas:candidate-vibid:219200066695": 0,
+      "gas:candidate-vibid:1001000202284": 31,
+      "gas:candidate-vibid:1001000136007": 82,
+      "gas:candidate-vibid:1001000121805": 230,
+      "gas:candidate-vibid:1001000258381": 13,
+      "special:against-all": 53
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=192000003&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=219200066730&region=0&sub_region=0&type=429",
@@ -2506,13 +2506,13 @@ export const duma_2003_uik_428_region_19_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Кильчичакова Елена Михайловна": 22,
-      "Мустонен Александр Хейнович": 0,
-      "Сагалаков Валерий Евгеньевич": 22,
-      "Семенов Александр Геннадьевич": 67,
-      "Семигин Геннадий Юрьевич": 218,
-      "Чаптыков Василий Иванович": 2,
-      "Против всех": 60
+      "gas:candidate-vibid:219200066689": 22,
+      "gas:candidate-vibid:219200066695": 0,
+      "gas:candidate-vibid:1001000202284": 22,
+      "gas:candidate-vibid:1001000136007": 67,
+      "gas:candidate-vibid:1001000121805": 218,
+      "gas:candidate-vibid:1001000258381": 2,
+      "special:against-all": 60
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=192000003&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=219200066730&region=0&sub_region=0&type=429",
@@ -2562,13 +2562,13 @@ export const duma_2003_uik_428_region_19_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Кильчичакова Елена Михайловна": 81,
-      "Мустонен Александр Хейнович": 3,
-      "Сагалаков Валерий Евгеньевич": 40,
-      "Семенов Александр Геннадьевич": 149,
-      "Семигин Геннадий Юрьевич": 428,
-      "Чаптыков Василий Иванович": 21,
-      "Против всех": 111
+      "gas:candidate-vibid:219200066689": 81,
+      "gas:candidate-vibid:219200066695": 3,
+      "gas:candidate-vibid:1001000202284": 40,
+      "gas:candidate-vibid:1001000136007": 149,
+      "gas:candidate-vibid:1001000121805": 428,
+      "gas:candidate-vibid:1001000258381": 21,
+      "special:against-all": 111
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=192000003&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=219200066730&region=0&sub_region=0&type=429",
@@ -2618,13 +2618,13 @@ export const duma_2003_uik_428_region_19_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Кильчичакова Елена Михайловна": 67,
-      "Мустонен Александр Хейнович": 2,
-      "Сагалаков Валерий Евгеньевич": 47,
-      "Семенов Александр Геннадьевич": 168,
-      "Семигин Геннадий Юрьевич": 400,
-      "Чаптыков Василий Иванович": 24,
-      "Против всех": 130
+      "gas:candidate-vibid:219200066689": 67,
+      "gas:candidate-vibid:219200066695": 2,
+      "gas:candidate-vibid:1001000202284": 47,
+      "gas:candidate-vibid:1001000136007": 168,
+      "gas:candidate-vibid:1001000121805": 400,
+      "gas:candidate-vibid:1001000258381": 24,
+      "special:against-all": 130
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=192000003&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=219200066730&region=0&sub_region=0&type=429",
@@ -2674,13 +2674,13 @@ export const duma_2003_uik_428_region_19_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Кильчичакова Елена Михайловна": 11,
-      "Мустонен Александр Хейнович": 3,
-      "Сагалаков Валерий Евгеньевич": 12,
-      "Семенов Александр Геннадьевич": 33,
-      "Семигин Геннадий Юрьевич": 128,
-      "Чаптыков Василий Иванович": 6,
-      "Против всех": 13
+      "gas:candidate-vibid:219200066689": 11,
+      "gas:candidate-vibid:219200066695": 3,
+      "gas:candidate-vibid:1001000202284": 12,
+      "gas:candidate-vibid:1001000136007": 33,
+      "gas:candidate-vibid:1001000121805": 128,
+      "gas:candidate-vibid:1001000258381": 6,
+      "special:against-all": 13
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=192000003&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=219200066730&region=0&sub_region=0&type=429",
@@ -2730,13 +2730,13 @@ export const duma_2003_uik_428_region_19_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Кильчичакова Елена Михайловна": 68,
-      "Мустонен Александр Хейнович": 7,
-      "Сагалаков Валерий Евгеньевич": 42,
-      "Семенов Александр Геннадьевич": 146,
-      "Семигин Геннадий Юрьевич": 476,
-      "Чаптыков Василий Иванович": 30,
-      "Против всех": 104
+      "gas:candidate-vibid:219200066689": 68,
+      "gas:candidate-vibid:219200066695": 7,
+      "gas:candidate-vibid:1001000202284": 42,
+      "gas:candidate-vibid:1001000136007": 146,
+      "gas:candidate-vibid:1001000121805": 476,
+      "gas:candidate-vibid:1001000258381": 30,
+      "special:against-all": 104
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=192000003&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=219200066730&region=0&sub_region=0&type=429",
@@ -2786,13 +2786,13 @@ export const duma_2003_uik_428_region_19_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Кильчичакова Елена Михайловна": 30,
-      "Мустонен Александр Хейнович": 0,
-      "Сагалаков Валерий Евгеньевич": 11,
-      "Семенов Александр Геннадьевич": 50,
-      "Семигин Геннадий Юрьевич": 122,
-      "Чаптыков Василий Иванович": 4,
-      "Против всех": 41
+      "gas:candidate-vibid:219200066689": 30,
+      "gas:candidate-vibid:219200066695": 0,
+      "gas:candidate-vibid:1001000202284": 11,
+      "gas:candidate-vibid:1001000136007": 50,
+      "gas:candidate-vibid:1001000121805": 122,
+      "gas:candidate-vibid:1001000258381": 4,
+      "special:against-all": 41
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=192000003&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=219200066730&region=0&sub_region=0&type=429",
@@ -2842,13 +2842,13 @@ export const duma_2003_uik_428_region_19_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Кильчичакова Елена Михайловна": 50,
-      "Мустонен Александр Хейнович": 1,
-      "Сагалаков Валерий Евгеньевич": 27,
-      "Семенов Александр Геннадьевич": 133,
-      "Семигин Геннадий Юрьевич": 329,
-      "Чаптыков Василий Иванович": 11,
-      "Против всех": 92
+      "gas:candidate-vibid:219200066689": 50,
+      "gas:candidate-vibid:219200066695": 1,
+      "gas:candidate-vibid:1001000202284": 27,
+      "gas:candidate-vibid:1001000136007": 133,
+      "gas:candidate-vibid:1001000121805": 329,
+      "gas:candidate-vibid:1001000258381": 11,
+      "special:against-all": 92
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=192000003&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=219200066730&region=0&sub_region=0&type=429",
@@ -2898,13 +2898,13 @@ export const duma_2003_uik_428_region_19_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Кильчичакова Елена Михайловна": 62,
-      "Мустонен Александр Хейнович": 4,
-      "Сагалаков Валерий Евгеньевич": 15,
-      "Семенов Александр Геннадьевич": 103,
-      "Семигин Геннадий Юрьевич": 258,
-      "Чаптыков Василий Иванович": 38,
-      "Против всех": 68
+      "gas:candidate-vibid:219200066689": 62,
+      "gas:candidate-vibid:219200066695": 4,
+      "gas:candidate-vibid:1001000202284": 15,
+      "gas:candidate-vibid:1001000136007": 103,
+      "gas:candidate-vibid:1001000121805": 258,
+      "gas:candidate-vibid:1001000258381": 38,
+      "special:against-all": 68
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=192000004&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=219200066731&region=0&sub_region=0&type=429",
@@ -2954,13 +2954,13 @@ export const duma_2003_uik_428_region_19_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Кильчичакова Елена Михайловна": 135,
-      "Мустонен Александр Хейнович": 5,
-      "Сагалаков Валерий Евгеньевич": 19,
-      "Семенов Александр Геннадьевич": 243,
-      "Семигин Геннадий Юрьевич": 411,
-      "Чаптыков Василий Иванович": 48,
-      "Против всех": 107
+      "gas:candidate-vibid:219200066689": 135,
+      "gas:candidate-vibid:219200066695": 5,
+      "gas:candidate-vibid:1001000202284": 19,
+      "gas:candidate-vibid:1001000136007": 243,
+      "gas:candidate-vibid:1001000121805": 411,
+      "gas:candidate-vibid:1001000258381": 48,
+      "special:against-all": 107
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=192000004&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=219200066731&region=0&sub_region=0&type=429",
@@ -3010,13 +3010,13 @@ export const duma_2003_uik_428_region_19_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Кильчичакова Елена Михайловна": 199,
-      "Мустонен Александр Хейнович": 9,
-      "Сагалаков Валерий Евгеньевич": 20,
-      "Семенов Александр Геннадьевич": 246,
-      "Семигин Геннадий Юрьевич": 505,
-      "Чаптыков Василий Иванович": 60,
-      "Против всех": 147
+      "gas:candidate-vibid:219200066689": 199,
+      "gas:candidate-vibid:219200066695": 9,
+      "gas:candidate-vibid:1001000202284": 20,
+      "gas:candidate-vibid:1001000136007": 246,
+      "gas:candidate-vibid:1001000121805": 505,
+      "gas:candidate-vibid:1001000258381": 60,
+      "special:against-all": 147
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=192000004&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=219200066731&region=0&sub_region=0&type=429",
@@ -3066,13 +3066,13 @@ export const duma_2003_uik_428_region_19_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Кильчичакова Елена Михайловна": 78,
-      "Мустонен Александр Хейнович": 1,
-      "Сагалаков Валерий Евгеньевич": 10,
-      "Семенов Александр Геннадьевич": 119,
-      "Семигин Геннадий Юрьевич": 306,
-      "Чаптыков Василий Иванович": 38,
-      "Против всех": 69
+      "gas:candidate-vibid:219200066689": 78,
+      "gas:candidate-vibid:219200066695": 1,
+      "gas:candidate-vibid:1001000202284": 10,
+      "gas:candidate-vibid:1001000136007": 119,
+      "gas:candidate-vibid:1001000121805": 306,
+      "gas:candidate-vibid:1001000258381": 38,
+      "special:against-all": 69
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=192000004&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=219200066731&region=0&sub_region=0&type=429",
@@ -3122,13 +3122,13 @@ export const duma_2003_uik_428_region_19_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Кильчичакова Елена Михайловна": 27,
-      "Мустонен Александр Хейнович": 0,
-      "Сагалаков Валерий Евгеньевич": 1,
-      "Семенов Александр Геннадьевич": 5,
-      "Семигин Геннадий Юрьевич": 58,
-      "Чаптыков Василий Иванович": 6,
-      "Против всех": 6
+      "gas:candidate-vibid:219200066689": 27,
+      "gas:candidate-vibid:219200066695": 0,
+      "gas:candidate-vibid:1001000202284": 1,
+      "gas:candidate-vibid:1001000136007": 5,
+      "gas:candidate-vibid:1001000121805": 58,
+      "gas:candidate-vibid:1001000258381": 6,
+      "special:against-all": 6
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=192000004&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=219200066731&region=0&sub_region=0&type=429",
@@ -3178,13 +3178,13 @@ export const duma_2003_uik_428_region_19_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Кильчичакова Елена Михайловна": 31,
-      "Мустонен Александр Хейнович": 0,
-      "Сагалаков Валерий Евгеньевич": 1,
-      "Семенов Александр Геннадьевич": 1,
-      "Семигин Геннадий Юрьевич": 64,
-      "Чаптыков Василий Иванович": 29,
-      "Против всех": 5
+      "gas:candidate-vibid:219200066689": 31,
+      "gas:candidate-vibid:219200066695": 0,
+      "gas:candidate-vibid:1001000202284": 1,
+      "gas:candidate-vibid:1001000136007": 1,
+      "gas:candidate-vibid:1001000121805": 64,
+      "gas:candidate-vibid:1001000258381": 29,
+      "special:against-all": 5
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=192000004&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=219200066731&region=0&sub_region=0&type=429",
@@ -3234,13 +3234,13 @@ export const duma_2003_uik_428_region_19_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Кильчичакова Елена Михайловна": 23,
-      "Мустонен Александр Хейнович": 0,
-      "Сагалаков Валерий Евгеньевич": 3,
-      "Семенов Александр Геннадьевич": 1,
-      "Семигин Геннадий Юрьевич": 56,
-      "Чаптыков Василий Иванович": 25,
-      "Против всех": 5
+      "gas:candidate-vibid:219200066689": 23,
+      "gas:candidate-vibid:219200066695": 0,
+      "gas:candidate-vibid:1001000202284": 3,
+      "gas:candidate-vibid:1001000136007": 1,
+      "gas:candidate-vibid:1001000121805": 56,
+      "gas:candidate-vibid:1001000258381": 25,
+      "special:against-all": 5
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=192000004&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=219200066731&region=0&sub_region=0&type=429",
@@ -3290,13 +3290,13 @@ export const duma_2003_uik_428_region_19_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Кильчичакова Елена Михайловна": 221,
-      "Мустонен Александр Хейнович": 1,
-      "Сагалаков Валерий Евгеньевич": 16,
-      "Семенов Александр Геннадьевич": 120,
-      "Семигин Геннадий Юрьевич": 352,
-      "Чаптыков Василий Иванович": 29,
-      "Против всех": 94
+      "gas:candidate-vibid:219200066689": 221,
+      "gas:candidate-vibid:219200066695": 1,
+      "gas:candidate-vibid:1001000202284": 16,
+      "gas:candidate-vibid:1001000136007": 120,
+      "gas:candidate-vibid:1001000121805": 352,
+      "gas:candidate-vibid:1001000258381": 29,
+      "special:against-all": 94
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=192000004&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=219200066731&region=0&sub_region=0&type=429",
@@ -3346,13 +3346,13 @@ export const duma_2003_uik_428_region_19_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Кильчичакова Елена Михайловна": 98,
-      "Мустонен Александр Хейнович": 4,
-      "Сагалаков Валерий Евгеньевич": 24,
-      "Семенов Александр Геннадьевич": 111,
-      "Семигин Геннадий Юрьевич": 391,
-      "Чаптыков Василий Иванович": 22,
-      "Против всех": 85
+      "gas:candidate-vibid:219200066689": 98,
+      "gas:candidate-vibid:219200066695": 4,
+      "gas:candidate-vibid:1001000202284": 24,
+      "gas:candidate-vibid:1001000136007": 111,
+      "gas:candidate-vibid:1001000121805": 391,
+      "gas:candidate-vibid:1001000258381": 22,
+      "special:against-all": 85
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=192000004&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=219200066731&region=0&sub_region=0&type=429",
@@ -3402,13 +3402,13 @@ export const duma_2003_uik_428_region_19_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Кильчичакова Елена Михайловна": 15,
-      "Мустонен Александр Хейнович": 1,
-      "Сагалаков Валерий Евгеньевич": 1,
-      "Семенов Александр Геннадьевич": 17,
-      "Семигин Геннадий Юрьевич": 57,
-      "Чаптыков Василий Иванович": 6,
-      "Против всех": 8
+      "gas:candidate-vibid:219200066689": 15,
+      "gas:candidate-vibid:219200066695": 1,
+      "gas:candidate-vibid:1001000202284": 1,
+      "gas:candidate-vibid:1001000136007": 17,
+      "gas:candidate-vibid:1001000121805": 57,
+      "gas:candidate-vibid:1001000258381": 6,
+      "special:against-all": 8
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=192000004&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=219200066731&region=0&sub_region=0&type=429",
@@ -3458,13 +3458,13 @@ export const duma_2003_uik_428_region_19_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Кильчичакова Елена Михайловна": 91,
-      "Мустонен Александр Хейнович": 4,
-      "Сагалаков Валерий Евгеньевич": 15,
-      "Семенов Александр Геннадьевич": 63,
-      "Семигин Геннадий Юрьевич": 337,
-      "Чаптыков Василий Иванович": 36,
-      "Против всех": 80
+      "gas:candidate-vibid:219200066689": 91,
+      "gas:candidate-vibid:219200066695": 4,
+      "gas:candidate-vibid:1001000202284": 15,
+      "gas:candidate-vibid:1001000136007": 63,
+      "gas:candidate-vibid:1001000121805": 337,
+      "gas:candidate-vibid:1001000258381": 36,
+      "special:against-all": 80
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=192000004&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=219200066731&region=0&sub_region=0&type=429",
@@ -3514,13 +3514,13 @@ export const duma_2003_uik_428_region_19_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Кильчичакова Елена Михайловна": 178,
-      "Мустонен Александр Хейнович": 8,
-      "Сагалаков Валерий Евгеньевич": 33,
-      "Семенов Александр Геннадьевич": 112,
-      "Семигин Геннадий Юрьевич": 228,
-      "Чаптыков Василий Иванович": 50,
-      "Против всех": 141
+      "gas:candidate-vibid:219200066689": 178,
+      "gas:candidate-vibid:219200066695": 8,
+      "gas:candidate-vibid:1001000202284": 33,
+      "gas:candidate-vibid:1001000136007": 112,
+      "gas:candidate-vibid:1001000121805": 228,
+      "gas:candidate-vibid:1001000258381": 50,
+      "special:against-all": 141
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=192000004&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=219200066731&region=0&sub_region=0&type=429",
@@ -3570,13 +3570,13 @@ export const duma_2003_uik_428_region_19_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Кильчичакова Елена Михайловна": 44,
-      "Мустонен Александр Хейнович": 2,
-      "Сагалаков Валерий Евгеньевич": 10,
-      "Семенов Александр Геннадьевич": 19,
-      "Семигин Геннадий Юрьевич": 82,
-      "Чаптыков Василий Иванович": 8,
-      "Против всех": 24
+      "gas:candidate-vibid:219200066689": 44,
+      "gas:candidate-vibid:219200066695": 2,
+      "gas:candidate-vibid:1001000202284": 10,
+      "gas:candidate-vibid:1001000136007": 19,
+      "gas:candidate-vibid:1001000121805": 82,
+      "gas:candidate-vibid:1001000258381": 8,
+      "special:against-all": 24
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=192000004&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=219200066731&region=0&sub_region=0&type=429",
@@ -3626,13 +3626,13 @@ export const duma_2003_uik_428_region_19_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Кильчичакова Елена Михайловна": 97,
-      "Мустонен Александр Хейнович": 1,
-      "Сагалаков Валерий Евгеньевич": 5,
-      "Семенов Александр Геннадьевич": 12,
-      "Семигин Геннадий Юрьевич": 156,
-      "Чаптыков Василий Иванович": 26,
-      "Против всех": 16
+      "gas:candidate-vibid:219200066689": 97,
+      "gas:candidate-vibid:219200066695": 1,
+      "gas:candidate-vibid:1001000202284": 5,
+      "gas:candidate-vibid:1001000136007": 12,
+      "gas:candidate-vibid:1001000121805": 156,
+      "gas:candidate-vibid:1001000258381": 26,
+      "special:against-all": 16
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=192000004&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=219200066731&region=0&sub_region=0&type=429",
@@ -3682,13 +3682,13 @@ export const duma_2003_uik_428_region_19_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Кильчичакова Елена Михайловна": 9,
-      "Мустонен Александр Хейнович": 0,
-      "Сагалаков Валерий Евгеньевич": 2,
-      "Семенов Александр Геннадьевич": 6,
-      "Семигин Геннадий Юрьевич": 62,
-      "Чаптыков Василий Иванович": 1,
-      "Против всех": 7
+      "gas:candidate-vibid:219200066689": 9,
+      "gas:candidate-vibid:219200066695": 0,
+      "gas:candidate-vibid:1001000202284": 2,
+      "gas:candidate-vibid:1001000136007": 6,
+      "gas:candidate-vibid:1001000121805": 62,
+      "gas:candidate-vibid:1001000258381": 1,
+      "special:against-all": 7
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=192000004&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=219200066731&region=0&sub_region=0&type=429",
@@ -3738,13 +3738,13 @@ export const duma_2003_uik_428_region_19_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Кильчичакова Елена Михайловна": 34,
-      "Мустонен Александр Хейнович": 2,
-      "Сагалаков Валерий Евгеньевич": 11,
-      "Семенов Александр Геннадьевич": 21,
-      "Семигин Геннадий Юрьевич": 133,
-      "Чаптыков Василий Иванович": 17,
-      "Против всех": 38
+      "gas:candidate-vibid:219200066689": 34,
+      "gas:candidate-vibid:219200066695": 2,
+      "gas:candidate-vibid:1001000202284": 11,
+      "gas:candidate-vibid:1001000136007": 21,
+      "gas:candidate-vibid:1001000121805": 133,
+      "gas:candidate-vibid:1001000258381": 17,
+      "special:against-all": 38
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=192000004&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=219200066731&region=0&sub_region=0&type=429",
@@ -3794,13 +3794,13 @@ export const duma_2003_uik_428_region_19_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Кильчичакова Елена Михайловна": 11,
-      "Мустонен Александр Хейнович": 0,
-      "Сагалаков Валерий Евгеньевич": 2,
-      "Семенов Александр Геннадьевич": 1,
-      "Семигин Геннадий Юрьевич": 61,
-      "Чаптыков Василий Иванович": 67,
-      "Против всех": 7
+      "gas:candidate-vibid:219200066689": 11,
+      "gas:candidate-vibid:219200066695": 0,
+      "gas:candidate-vibid:1001000202284": 2,
+      "gas:candidate-vibid:1001000136007": 1,
+      "gas:candidate-vibid:1001000121805": 61,
+      "gas:candidate-vibid:1001000258381": 67,
+      "special:against-all": 7
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=192000004&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=219200066731&region=0&sub_region=0&type=429",
@@ -3850,13 +3850,13 @@ export const duma_2003_uik_428_region_19_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Кильчичакова Елена Михайловна": 12,
-      "Мустонен Александр Хейнович": 0,
-      "Сагалаков Валерий Евгеньевич": 1,
-      "Семенов Александр Геннадьевич": 6,
-      "Семигин Геннадий Юрьевич": 18,
-      "Чаптыков Василий Иванович": 7,
-      "Против всех": 7
+      "gas:candidate-vibid:219200066689": 12,
+      "gas:candidate-vibid:219200066695": 0,
+      "gas:candidate-vibid:1001000202284": 1,
+      "gas:candidate-vibid:1001000136007": 6,
+      "gas:candidate-vibid:1001000121805": 18,
+      "gas:candidate-vibid:1001000258381": 7,
+      "special:against-all": 7
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=192000004&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=219200066731&region=0&sub_region=0&type=429",
@@ -3906,13 +3906,13 @@ export const duma_2003_uik_428_region_19_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Кильчичакова Елена Михайловна": 96,
-      "Мустонен Александр Хейнович": 2,
-      "Сагалаков Валерий Евгеньевич": 6,
-      "Семенов Александр Геннадьевич": 40,
-      "Семигин Геннадий Юрьевич": 196,
-      "Чаптыков Василий Иванович": 15,
-      "Против всех": 27
+      "gas:candidate-vibid:219200066689": 96,
+      "gas:candidate-vibid:219200066695": 2,
+      "gas:candidate-vibid:1001000202284": 6,
+      "gas:candidate-vibid:1001000136007": 40,
+      "gas:candidate-vibid:1001000121805": 196,
+      "gas:candidate-vibid:1001000258381": 15,
+      "special:against-all": 27
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=192000004&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=219200066731&region=0&sub_region=0&type=429",
@@ -3962,13 +3962,13 @@ export const duma_2003_uik_428_region_19_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Кильчичакова Елена Михайловна": 22,
-      "Мустонен Александр Хейнович": 3,
-      "Сагалаков Валерий Евгеньевич": 6,
-      "Семенов Александр Геннадьевич": 3,
-      "Семигин Геннадий Юрьевич": 35,
-      "Чаптыков Василий Иванович": 7,
-      "Против всех": 4
+      "gas:candidate-vibid:219200066689": 22,
+      "gas:candidate-vibid:219200066695": 3,
+      "gas:candidate-vibid:1001000202284": 6,
+      "gas:candidate-vibid:1001000136007": 3,
+      "gas:candidate-vibid:1001000121805": 35,
+      "gas:candidate-vibid:1001000258381": 7,
+      "special:against-all": 4
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=192000004&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=219200066731&region=0&sub_region=0&type=429",
@@ -4018,13 +4018,13 @@ export const duma_2003_uik_428_region_19_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Кильчичакова Елена Михайловна": 31,
-      "Мустонен Александр Хейнович": 2,
-      "Сагалаков Валерий Евгеньевич": 4,
-      "Семенов Александр Геннадьевич": 13,
-      "Семигин Геннадий Юрьевич": 52,
-      "Чаптыков Василий Иванович": 5,
-      "Против всех": 10
+      "gas:candidate-vibid:219200066689": 31,
+      "gas:candidate-vibid:219200066695": 2,
+      "gas:candidate-vibid:1001000202284": 4,
+      "gas:candidate-vibid:1001000136007": 13,
+      "gas:candidate-vibid:1001000121805": 52,
+      "gas:candidate-vibid:1001000258381": 5,
+      "special:against-all": 10
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=192000004&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=219200066731&region=0&sub_region=0&type=429",
@@ -4074,13 +4074,13 @@ export const duma_2003_uik_428_region_19_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Кильчичакова Елена Михайловна": 9,
-      "Мустонен Александр Хейнович": 1,
-      "Сагалаков Валерий Евгеньевич": 1,
-      "Семенов Александр Геннадьевич": 9,
-      "Семигин Геннадий Юрьевич": 61,
-      "Чаптыков Василий Иванович": 8,
-      "Против всех": 2
+      "gas:candidate-vibid:219200066689": 9,
+      "gas:candidate-vibid:219200066695": 1,
+      "gas:candidate-vibid:1001000202284": 1,
+      "gas:candidate-vibid:1001000136007": 9,
+      "gas:candidate-vibid:1001000121805": 61,
+      "gas:candidate-vibid:1001000258381": 8,
+      "special:against-all": 2
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=192000004&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=219200066731&region=0&sub_region=0&type=429",
@@ -4130,13 +4130,13 @@ export const duma_2003_uik_428_region_19_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Кильчичакова Елена Михайловна": 66,
-      "Мустонен Александр Хейнович": 4,
-      "Сагалаков Валерий Евгеньевич": 22,
-      "Семенов Александр Геннадьевич": 33,
-      "Семигин Геннадий Юрьевич": 152,
-      "Чаптыков Василий Иванович": 19,
-      "Против всех": 30
+      "gas:candidate-vibid:219200066689": 66,
+      "gas:candidate-vibid:219200066695": 4,
+      "gas:candidate-vibid:1001000202284": 22,
+      "gas:candidate-vibid:1001000136007": 33,
+      "gas:candidate-vibid:1001000121805": 152,
+      "gas:candidate-vibid:1001000258381": 19,
+      "special:against-all": 30
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=192000004&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=219200066731&region=0&sub_region=0&type=429",
@@ -4186,13 +4186,13 @@ export const duma_2003_uik_428_region_19_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Кильчичакова Елена Михайловна": 48,
-      "Мустонен Александр Хейнович": 5,
-      "Сагалаков Валерий Евгеньевич": 12,
-      "Семенов Александр Геннадьевич": 22,
-      "Семигин Геннадий Юрьевич": 160,
-      "Чаптыков Василий Иванович": 9,
-      "Против всех": 14
+      "gas:candidate-vibid:219200066689": 48,
+      "gas:candidate-vibid:219200066695": 5,
+      "gas:candidate-vibid:1001000202284": 12,
+      "gas:candidate-vibid:1001000136007": 22,
+      "gas:candidate-vibid:1001000121805": 160,
+      "gas:candidate-vibid:1001000258381": 9,
+      "special:against-all": 14
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=192000004&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=219200066731&region=0&sub_region=0&type=429",
@@ -4242,13 +4242,13 @@ export const duma_2003_uik_428_region_19_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Кильчичакова Елена Михайловна": 144,
-      "Мустонен Александр Хейнович": 4,
-      "Сагалаков Валерий Евгеньевич": 9,
-      "Семенов Александр Геннадьевич": 52,
-      "Семигин Геннадий Юрьевич": 212,
-      "Чаптыков Василий Иванович": 27,
-      "Против всех": 46
+      "gas:candidate-vibid:219200066689": 144,
+      "gas:candidate-vibid:219200066695": 4,
+      "gas:candidate-vibid:1001000202284": 9,
+      "gas:candidate-vibid:1001000136007": 52,
+      "gas:candidate-vibid:1001000121805": 212,
+      "gas:candidate-vibid:1001000258381": 27,
+      "special:against-all": 46
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=192000004&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=219200066731&region=0&sub_region=0&type=429",
@@ -4298,13 +4298,13 @@ export const duma_2003_uik_428_region_19_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Кильчичакова Елена Михайловна": 82,
-      "Мустонен Александр Хейнович": 1,
-      "Сагалаков Валерий Евгеньевич": 1,
-      "Семенов Александр Геннадьевич": 29,
-      "Семигин Геннадий Юрьевич": 150,
-      "Чаптыков Василий Иванович": 6,
-      "Против всех": 20
+      "gas:candidate-vibid:219200066689": 82,
+      "gas:candidate-vibid:219200066695": 1,
+      "gas:candidate-vibid:1001000202284": 1,
+      "gas:candidate-vibid:1001000136007": 29,
+      "gas:candidate-vibid:1001000121805": 150,
+      "gas:candidate-vibid:1001000258381": 6,
+      "special:against-all": 20
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=192000004&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=219200066731&region=0&sub_region=0&type=429",
@@ -4354,13 +4354,13 @@ export const duma_2003_uik_428_region_19_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Кильчичакова Елена Михайловна": 66,
-      "Мустонен Александр Хейнович": 3,
-      "Сагалаков Валерий Евгеньевич": 4,
-      "Семенов Александр Геннадьевич": 28,
-      "Семигин Геннадий Юрьевич": 208,
-      "Чаптыков Василий Иванович": 32,
-      "Против всех": 30
+      "gas:candidate-vibid:219200066689": 66,
+      "gas:candidate-vibid:219200066695": 3,
+      "gas:candidate-vibid:1001000202284": 4,
+      "gas:candidate-vibid:1001000136007": 28,
+      "gas:candidate-vibid:1001000121805": 208,
+      "gas:candidate-vibid:1001000258381": 32,
+      "special:against-all": 30
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=192000004&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=219200066731&region=0&sub_region=0&type=429",
@@ -4410,13 +4410,13 @@ export const duma_2003_uik_428_region_19_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Кильчичакова Елена Михайловна": 64,
-      "Мустонен Александр Хейнович": 0,
-      "Сагалаков Валерий Евгеньевич": 13,
-      "Семенов Александр Геннадьевич": 56,
-      "Семигин Геннадий Юрьевич": 298,
-      "Чаптыков Василий Иванович": 17,
-      "Против всех": 25
+      "gas:candidate-vibid:219200066689": 64,
+      "gas:candidate-vibid:219200066695": 0,
+      "gas:candidate-vibid:1001000202284": 13,
+      "gas:candidate-vibid:1001000136007": 56,
+      "gas:candidate-vibid:1001000121805": 298,
+      "gas:candidate-vibid:1001000258381": 17,
+      "special:against-all": 25
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=192000004&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=219200066731&region=0&sub_region=0&type=429",
@@ -4466,13 +4466,13 @@ export const duma_2003_uik_428_region_19_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Кильчичакова Елена Михайловна": 14,
-      "Мустонен Александр Хейнович": 0,
-      "Сагалаков Валерий Евгеньевич": 4,
-      "Семенов Александр Геннадьевич": 13,
-      "Семигин Геннадий Юрьевич": 52,
-      "Чаптыков Василий Иванович": 2,
-      "Против всех": 5
+      "gas:candidate-vibid:219200066689": 14,
+      "gas:candidate-vibid:219200066695": 0,
+      "gas:candidate-vibid:1001000202284": 4,
+      "gas:candidate-vibid:1001000136007": 13,
+      "gas:candidate-vibid:1001000121805": 52,
+      "gas:candidate-vibid:1001000258381": 2,
+      "special:against-all": 5
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=192000004&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=219200066731&region=0&sub_region=0&type=429",
@@ -4522,13 +4522,13 @@ export const duma_2003_uik_428_region_19_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Кильчичакова Елена Михайловна": 37,
-      "Мустонен Александр Хейнович": 0,
-      "Сагалаков Валерий Евгеньевич": 4,
-      "Семенов Александр Геннадьевич": 23,
-      "Семигин Геннадий Юрьевич": 179,
-      "Чаптыков Василий Иванович": 4,
-      "Против всех": 30
+      "gas:candidate-vibid:219200066689": 37,
+      "gas:candidate-vibid:219200066695": 0,
+      "gas:candidate-vibid:1001000202284": 4,
+      "gas:candidate-vibid:1001000136007": 23,
+      "gas:candidate-vibid:1001000121805": 179,
+      "gas:candidate-vibid:1001000258381": 4,
+      "special:against-all": 30
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=192000004&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=219200066731&region=0&sub_region=0&type=429",
@@ -4578,13 +4578,13 @@ export const duma_2003_uik_428_region_19_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Кильчичакова Елена Михайловна": 10,
-      "Мустонен Александр Хейнович": 3,
-      "Сагалаков Валерий Евгеньевич": 1,
-      "Семенов Александр Геннадьевич": 11,
-      "Семигин Геннадий Юрьевич": 78,
-      "Чаптыков Василий Иванович": 2,
-      "Против всех": 2
+      "gas:candidate-vibid:219200066689": 10,
+      "gas:candidate-vibid:219200066695": 3,
+      "gas:candidate-vibid:1001000202284": 1,
+      "gas:candidate-vibid:1001000136007": 11,
+      "gas:candidate-vibid:1001000121805": 78,
+      "gas:candidate-vibid:1001000258381": 2,
+      "special:against-all": 2
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=192000004&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=219200066731&region=0&sub_region=0&type=429",
@@ -4634,13 +4634,13 @@ export const duma_2003_uik_428_region_19_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Кильчичакова Елена Михайловна": 4,
-      "Мустонен Александр Хейнович": 0,
-      "Сагалаков Валерий Евгеньевич": 1,
-      "Семенов Александр Геннадьевич": 2,
-      "Семигин Геннадий Юрьевич": 51,
-      "Чаптыков Василий Иванович": 0,
-      "Против всех": 0
+      "gas:candidate-vibid:219200066689": 4,
+      "gas:candidate-vibid:219200066695": 0,
+      "gas:candidate-vibid:1001000202284": 1,
+      "gas:candidate-vibid:1001000136007": 2,
+      "gas:candidate-vibid:1001000121805": 51,
+      "gas:candidate-vibid:1001000258381": 0,
+      "special:against-all": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=192000004&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=219200066731&region=0&sub_region=0&type=429",
@@ -4690,13 +4690,13 @@ export const duma_2003_uik_428_region_19_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Кильчичакова Елена Михайловна": 8,
-      "Мустонен Александр Хейнович": 0,
-      "Сагалаков Валерий Евгеньевич": 1,
-      "Семенов Александр Геннадьевич": 19,
-      "Семигин Геннадий Юрьевич": 101,
-      "Чаптыков Василий Иванович": 1,
-      "Против всех": 19
+      "gas:candidate-vibid:219200066689": 8,
+      "gas:candidate-vibid:219200066695": 0,
+      "gas:candidate-vibid:1001000202284": 1,
+      "gas:candidate-vibid:1001000136007": 19,
+      "gas:candidate-vibid:1001000121805": 101,
+      "gas:candidate-vibid:1001000258381": 1,
+      "special:against-all": 19
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=192000004&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=219200066731&region=0&sub_region=0&type=429",
@@ -4746,13 +4746,13 @@ export const duma_2003_uik_428_region_19_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Кильчичакова Елена Михайловна": 199,
-      "Мустонен Александр Хейнович": 3,
-      "Сагалаков Валерий Евгеньевич": 17,
-      "Семенов Александр Геннадьевич": 59,
-      "Семигин Геннадий Юрьевич": 384,
-      "Чаптыков Василий Иванович": 16,
-      "Против всех": 36
+      "gas:candidate-vibid:219200066689": 199,
+      "gas:candidate-vibid:219200066695": 3,
+      "gas:candidate-vibid:1001000202284": 17,
+      "gas:candidate-vibid:1001000136007": 59,
+      "gas:candidate-vibid:1001000121805": 384,
+      "gas:candidate-vibid:1001000258381": 16,
+      "special:against-all": 36
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=192000005&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=219200066732&region=0&sub_region=0&type=429",
@@ -4802,13 +4802,13 @@ export const duma_2003_uik_428_region_19_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Кильчичакова Елена Михайловна": 84,
-      "Мустонен Александр Хейнович": 0,
-      "Сагалаков Валерий Евгеньевич": 11,
-      "Семенов Александр Геннадьевич": 55,
-      "Семигин Геннадий Юрьевич": 268,
-      "Чаптыков Василий Иванович": 7,
-      "Против всех": 27
+      "gas:candidate-vibid:219200066689": 84,
+      "gas:candidate-vibid:219200066695": 0,
+      "gas:candidate-vibid:1001000202284": 11,
+      "gas:candidate-vibid:1001000136007": 55,
+      "gas:candidate-vibid:1001000121805": 268,
+      "gas:candidate-vibid:1001000258381": 7,
+      "special:against-all": 27
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=192000005&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=219200066732&region=0&sub_region=0&type=429",
@@ -4858,13 +4858,13 @@ export const duma_2003_uik_428_region_19_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Кильчичакова Елена Михайловна": 202,
-      "Мустонен Александр Хейнович": 5,
-      "Сагалаков Валерий Евгеньевич": 19,
-      "Семенов Александр Геннадьевич": 104,
-      "Семигин Геннадий Юрьевич": 639,
-      "Чаптыков Василий Иванович": 44,
-      "Против всех": 67
+      "gas:candidate-vibid:219200066689": 202,
+      "gas:candidate-vibid:219200066695": 5,
+      "gas:candidate-vibid:1001000202284": 19,
+      "gas:candidate-vibid:1001000136007": 104,
+      "gas:candidate-vibid:1001000121805": 639,
+      "gas:candidate-vibid:1001000258381": 44,
+      "special:against-all": 67
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=192000005&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=219200066732&region=0&sub_region=0&type=429",
@@ -4914,13 +4914,13 @@ export const duma_2003_uik_428_region_19_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Кильчичакова Елена Михайловна": 36,
-      "Мустонен Александр Хейнович": 1,
-      "Сагалаков Валерий Евгеньевич": 3,
-      "Семенов Александр Геннадьевич": 17,
-      "Семигин Геннадий Юрьевич": 112,
-      "Чаптыков Василий Иванович": 0,
-      "Против всех": 2
+      "gas:candidate-vibid:219200066689": 36,
+      "gas:candidate-vibid:219200066695": 1,
+      "gas:candidate-vibid:1001000202284": 3,
+      "gas:candidate-vibid:1001000136007": 17,
+      "gas:candidate-vibid:1001000121805": 112,
+      "gas:candidate-vibid:1001000258381": 0,
+      "special:against-all": 2
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=192000005&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=219200066732&region=0&sub_region=0&type=429",
@@ -4970,13 +4970,13 @@ export const duma_2003_uik_428_region_19_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Кильчичакова Елена Михайловна": 39,
-      "Мустонен Александр Хейнович": 0,
-      "Сагалаков Валерий Евгеньевич": 1,
-      "Семенов Александр Геннадьевич": 2,
-      "Семигин Геннадий Юрьевич": 51,
-      "Чаптыков Василий Иванович": 8,
-      "Против всех": 1
+      "gas:candidate-vibid:219200066689": 39,
+      "gas:candidate-vibid:219200066695": 0,
+      "gas:candidate-vibid:1001000202284": 1,
+      "gas:candidate-vibid:1001000136007": 2,
+      "gas:candidate-vibid:1001000121805": 51,
+      "gas:candidate-vibid:1001000258381": 8,
+      "special:against-all": 1
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=192000005&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=219200066732&region=0&sub_region=0&type=429",
@@ -5026,13 +5026,13 @@ export const duma_2003_uik_428_region_19_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Кильчичакова Елена Михайловна": 14,
-      "Мустонен Александр Хейнович": 0,
-      "Сагалаков Валерий Евгеньевич": 1,
-      "Семенов Александр Геннадьевич": 28,
-      "Семигин Геннадий Юрьевич": 72,
-      "Чаптыков Василий Иванович": 2,
-      "Против всех": 11
+      "gas:candidate-vibid:219200066689": 14,
+      "gas:candidate-vibid:219200066695": 0,
+      "gas:candidate-vibid:1001000202284": 1,
+      "gas:candidate-vibid:1001000136007": 28,
+      "gas:candidate-vibid:1001000121805": 72,
+      "gas:candidate-vibid:1001000258381": 2,
+      "special:against-all": 11
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=192000005&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=219200066732&region=0&sub_region=0&type=429",
@@ -5082,13 +5082,13 @@ export const duma_2003_uik_428_region_19_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Кильчичакова Елена Михайловна": 10,
-      "Мустонен Александр Хейнович": 0,
-      "Сагалаков Валерий Евгеньевич": 0,
-      "Семенов Александр Геннадьевич": 0,
-      "Семигин Геннадий Юрьевич": 66,
-      "Чаптыков Василий Иванович": 3,
-      "Против всех": 2
+      "gas:candidate-vibid:219200066689": 10,
+      "gas:candidate-vibid:219200066695": 0,
+      "gas:candidate-vibid:1001000202284": 0,
+      "gas:candidate-vibid:1001000136007": 0,
+      "gas:candidate-vibid:1001000121805": 66,
+      "gas:candidate-vibid:1001000258381": 3,
+      "special:against-all": 2
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=192000005&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=219200066732&region=0&sub_region=0&type=429",
@@ -5138,13 +5138,13 @@ export const duma_2003_uik_428_region_19_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Кильчичакова Елена Михайловна": 19,
-      "Мустонен Александр Хейнович": 0,
-      "Сагалаков Валерий Евгеньевич": 0,
-      "Семенов Александр Геннадьевич": 4,
-      "Семигин Геннадий Юрьевич": 71,
-      "Чаптыков Василий Иванович": 2,
-      "Против всех": 3
+      "gas:candidate-vibid:219200066689": 19,
+      "gas:candidate-vibid:219200066695": 0,
+      "gas:candidate-vibid:1001000202284": 0,
+      "gas:candidate-vibid:1001000136007": 4,
+      "gas:candidate-vibid:1001000121805": 71,
+      "gas:candidate-vibid:1001000258381": 2,
+      "special:against-all": 3
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=192000005&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=219200066732&region=0&sub_region=0&type=429",
@@ -5194,13 +5194,13 @@ export const duma_2003_uik_428_region_19_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Кильчичакова Елена Михайловна": 121,
-      "Мустонен Александр Хейнович": 4,
-      "Сагалаков Валерий Евгеньевич": 6,
-      "Семенов Александр Геннадьевич": 40,
-      "Семигин Геннадий Юрьевич": 198,
-      "Чаптыков Василий Иванович": 29,
-      "Против всех": 40
+      "gas:candidate-vibid:219200066689": 121,
+      "gas:candidate-vibid:219200066695": 4,
+      "gas:candidate-vibid:1001000202284": 6,
+      "gas:candidate-vibid:1001000136007": 40,
+      "gas:candidate-vibid:1001000121805": 198,
+      "gas:candidate-vibid:1001000258381": 29,
+      "special:against-all": 40
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=192000005&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=219200066732&region=0&sub_region=0&type=429",
@@ -5250,13 +5250,13 @@ export const duma_2003_uik_428_region_19_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Кильчичакова Елена Михайловна": 24,
-      "Мустонен Александр Хейнович": 0,
-      "Сагалаков Валерий Евгеньевич": 8,
-      "Семенов Александр Геннадьевич": 27,
-      "Семигин Геннадий Юрьевич": 102,
-      "Чаптыков Василий Иванович": 9,
-      "Против всех": 8
+      "gas:candidate-vibid:219200066689": 24,
+      "gas:candidate-vibid:219200066695": 0,
+      "gas:candidate-vibid:1001000202284": 8,
+      "gas:candidate-vibid:1001000136007": 27,
+      "gas:candidate-vibid:1001000121805": 102,
+      "gas:candidate-vibid:1001000258381": 9,
+      "special:against-all": 8
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=192000005&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=219200066732&region=0&sub_region=0&type=429",
@@ -5306,13 +5306,13 @@ export const duma_2003_uik_428_region_19_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Кильчичакова Елена Михайловна": 4,
-      "Мустонен Александр Хейнович": 0,
-      "Сагалаков Валерий Евгеньевич": 4,
-      "Семенов Александр Геннадьевич": 0,
-      "Семигин Геннадий Юрьевич": 58,
-      "Чаптыков Василий Иванович": 1,
-      "Против всех": 0
+      "gas:candidate-vibid:219200066689": 4,
+      "gas:candidate-vibid:219200066695": 0,
+      "gas:candidate-vibid:1001000202284": 4,
+      "gas:candidate-vibid:1001000136007": 0,
+      "gas:candidate-vibid:1001000121805": 58,
+      "gas:candidate-vibid:1001000258381": 1,
+      "special:against-all": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=192000005&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=219200066732&region=0&sub_region=0&type=429",
@@ -5362,13 +5362,13 @@ export const duma_2003_uik_428_region_19_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Кильчичакова Елена Михайловна": 42,
-      "Мустонен Александр Хейнович": 0,
-      "Сагалаков Валерий Евгеньевич": 8,
-      "Семенов Александр Геннадьевич": 4,
-      "Семигин Геннадий Юрьевич": 86,
-      "Чаптыков Василий Иванович": 15,
-      "Против всех": 6
+      "gas:candidate-vibid:219200066689": 42,
+      "gas:candidate-vibid:219200066695": 0,
+      "gas:candidate-vibid:1001000202284": 8,
+      "gas:candidate-vibid:1001000136007": 4,
+      "gas:candidate-vibid:1001000121805": 86,
+      "gas:candidate-vibid:1001000258381": 15,
+      "special:against-all": 6
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=192000005&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=219200066732&region=0&sub_region=0&type=429",
@@ -5418,13 +5418,13 @@ export const duma_2003_uik_428_region_19_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Кильчичакова Елена Михайловна": 60,
-      "Мустонен Александр Хейнович": 0,
-      "Сагалаков Валерий Евгеньевич": 5,
-      "Семенов Александр Геннадьевич": 19,
-      "Семигин Геннадий Юрьевич": 97,
-      "Чаптыков Василий Иванович": 17,
-      "Против всех": 2
+      "gas:candidate-vibid:219200066689": 60,
+      "gas:candidate-vibid:219200066695": 0,
+      "gas:candidate-vibid:1001000202284": 5,
+      "gas:candidate-vibid:1001000136007": 19,
+      "gas:candidate-vibid:1001000121805": 97,
+      "gas:candidate-vibid:1001000258381": 17,
+      "special:against-all": 2
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=192000005&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=219200066732&region=0&sub_region=0&type=429",
@@ -5474,13 +5474,13 @@ export const duma_2003_uik_428_region_19_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Кильчичакова Елена Михайловна": 9,
-      "Мустонен Александр Хейнович": 1,
-      "Сагалаков Валерий Евгеньевич": 2,
-      "Семенов Александр Геннадьевич": 4,
-      "Семигин Геннадий Юрьевич": 108,
-      "Чаптыков Василий Иванович": 5,
-      "Против всех": 9
+      "gas:candidate-vibid:219200066689": 9,
+      "gas:candidate-vibid:219200066695": 1,
+      "gas:candidate-vibid:1001000202284": 2,
+      "gas:candidate-vibid:1001000136007": 4,
+      "gas:candidate-vibid:1001000121805": 108,
+      "gas:candidate-vibid:1001000258381": 5,
+      "special:against-all": 9
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=192000005&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=219200066732&region=0&sub_region=0&type=429",
@@ -5530,13 +5530,13 @@ export const duma_2003_uik_428_region_19_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Кильчичакова Елена Михайловна": 35,
-      "Мустонен Александр Хейнович": 0,
-      "Сагалаков Валерий Евгеньевич": 0,
-      "Семенов Александр Геннадьевич": 18,
-      "Семигин Геннадий Юрьевич": 105,
-      "Чаптыков Василий Иванович": 2,
-      "Против всех": 13
+      "gas:candidate-vibid:219200066689": 35,
+      "gas:candidate-vibid:219200066695": 0,
+      "gas:candidate-vibid:1001000202284": 0,
+      "gas:candidate-vibid:1001000136007": 18,
+      "gas:candidate-vibid:1001000121805": 105,
+      "gas:candidate-vibid:1001000258381": 2,
+      "special:against-all": 13
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=192000005&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=219200066732&region=0&sub_region=0&type=429",
@@ -5586,13 +5586,13 @@ export const duma_2003_uik_428_region_19_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Кильчичакова Елена Михайловна": 27,
-      "Мустонен Александр Хейнович": 0,
-      "Сагалаков Валерий Евгеньевич": 3,
-      "Семенов Александр Геннадьевич": 0,
-      "Семигин Геннадий Юрьевич": 74,
-      "Чаптыков Василий Иванович": 7,
-      "Против всех": 4
+      "gas:candidate-vibid:219200066689": 27,
+      "gas:candidate-vibid:219200066695": 0,
+      "gas:candidate-vibid:1001000202284": 3,
+      "gas:candidate-vibid:1001000136007": 0,
+      "gas:candidate-vibid:1001000121805": 74,
+      "gas:candidate-vibid:1001000258381": 7,
+      "special:against-all": 4
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=192000005&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=219200066732&region=0&sub_region=0&type=429",
@@ -5642,13 +5642,13 @@ export const duma_2003_uik_428_region_19_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Кильчичакова Елена Михайловна": 12,
-      "Мустонен Александр Хейнович": 1,
-      "Сагалаков Валерий Евгеньевич": 8,
-      "Семенов Александр Геннадьевич": 8,
-      "Семигин Геннадий Юрьевич": 48,
-      "Чаптыков Василий Иванович": 10,
-      "Против всех": 1
+      "gas:candidate-vibid:219200066689": 12,
+      "gas:candidate-vibid:219200066695": 1,
+      "gas:candidate-vibid:1001000202284": 8,
+      "gas:candidate-vibid:1001000136007": 8,
+      "gas:candidate-vibid:1001000121805": 48,
+      "gas:candidate-vibid:1001000258381": 10,
+      "special:against-all": 1
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=192000005&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=219200066732&region=0&sub_region=0&type=429",
@@ -5698,13 +5698,13 @@ export const duma_2003_uik_428_region_19_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Кильчичакова Елена Михайловна": 41,
-      "Мустонен Александр Хейнович": 4,
-      "Сагалаков Валерий Евгеньевич": 12,
-      "Семенов Александр Геннадьевич": 53,
-      "Семигин Геннадий Юрьевич": 201,
-      "Чаптыков Василий Иванович": 15,
-      "Против всех": 16
+      "gas:candidate-vibid:219200066689": 41,
+      "gas:candidate-vibid:219200066695": 4,
+      "gas:candidate-vibid:1001000202284": 12,
+      "gas:candidate-vibid:1001000136007": 53,
+      "gas:candidate-vibid:1001000121805": 201,
+      "gas:candidate-vibid:1001000258381": 15,
+      "special:against-all": 16
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=192000005&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=219200066732&region=0&sub_region=0&type=429",
@@ -5754,13 +5754,13 @@ export const duma_2003_uik_428_region_19_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Кильчичакова Елена Михайловна": 16,
-      "Мустонен Александр Хейнович": 2,
-      "Сагалаков Валерий Евгеньевич": 8,
-      "Семенов Александр Геннадьевич": 11,
-      "Семигин Геннадий Юрьевич": 46,
-      "Чаптыков Василий Иванович": 3,
-      "Против всех": 10
+      "gas:candidate-vibid:219200066689": 16,
+      "gas:candidate-vibid:219200066695": 2,
+      "gas:candidate-vibid:1001000202284": 8,
+      "gas:candidate-vibid:1001000136007": 11,
+      "gas:candidate-vibid:1001000121805": 46,
+      "gas:candidate-vibid:1001000258381": 3,
+      "special:against-all": 10
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=192000005&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=219200066732&region=0&sub_region=0&type=429",
@@ -5810,13 +5810,13 @@ export const duma_2003_uik_428_region_19_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Кильчичакова Елена Михайловна": 43,
-      "Мустонен Александр Хейнович": 3,
-      "Сагалаков Валерий Евгеньевич": 13,
-      "Семенов Александр Геннадьевич": 28,
-      "Семигин Геннадий Юрьевич": 249,
-      "Чаптыков Василий Иванович": 5,
-      "Против всех": 20
+      "gas:candidate-vibid:219200066689": 43,
+      "gas:candidate-vibid:219200066695": 3,
+      "gas:candidate-vibid:1001000202284": 13,
+      "gas:candidate-vibid:1001000136007": 28,
+      "gas:candidate-vibid:1001000121805": 249,
+      "gas:candidate-vibid:1001000258381": 5,
+      "special:against-all": 20
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=192000005&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=219200066732&region=0&sub_region=0&type=429",
@@ -5866,13 +5866,13 @@ export const duma_2003_uik_428_region_19_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Кильчичакова Елена Михайловна": 5,
-      "Мустонен Александр Хейнович": 0,
-      "Сагалаков Валерий Евгеньевич": 6,
-      "Семенов Александр Геннадьевич": 2,
-      "Семигин Геннадий Юрьевич": 27,
-      "Чаптыков Василий Иванович": 8,
-      "Против всех": 1
+      "gas:candidate-vibid:219200066689": 5,
+      "gas:candidate-vibid:219200066695": 0,
+      "gas:candidate-vibid:1001000202284": 6,
+      "gas:candidate-vibid:1001000136007": 2,
+      "gas:candidate-vibid:1001000121805": 27,
+      "gas:candidate-vibid:1001000258381": 8,
+      "special:against-all": 1
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=192000005&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=219200066732&region=0&sub_region=0&type=429",
@@ -5922,13 +5922,13 @@ export const duma_2003_uik_428_region_19_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Кильчичакова Елена Михайловна": 63,
-      "Мустонен Александр Хейнович": 2,
-      "Сагалаков Валерий Евгеньевич": 23,
-      "Семенов Александр Геннадьевич": 50,
-      "Семигин Геннадий Юрьевич": 310,
-      "Чаптыков Василий Иванович": 21,
-      "Против всех": 48
+      "gas:candidate-vibid:219200066689": 63,
+      "gas:candidate-vibid:219200066695": 2,
+      "gas:candidate-vibid:1001000202284": 23,
+      "gas:candidate-vibid:1001000136007": 50,
+      "gas:candidate-vibid:1001000121805": 310,
+      "gas:candidate-vibid:1001000258381": 21,
+      "special:against-all": 48
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=192000005&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=219200066732&region=0&sub_region=0&type=429",
@@ -5978,13 +5978,13 @@ export const duma_2003_uik_428_region_19_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Кильчичакова Елена Михайловна": 14,
-      "Мустонен Александр Хейнович": 0,
-      "Сагалаков Валерий Евгеньевич": 4,
-      "Семенов Александр Геннадьевич": 3,
-      "Семигин Геннадий Юрьевич": 61,
-      "Чаптыков Василий Иванович": 10,
-      "Против всех": 5
+      "gas:candidate-vibid:219200066689": 14,
+      "gas:candidate-vibid:219200066695": 0,
+      "gas:candidate-vibid:1001000202284": 4,
+      "gas:candidate-vibid:1001000136007": 3,
+      "gas:candidate-vibid:1001000121805": 61,
+      "gas:candidate-vibid:1001000258381": 10,
+      "special:against-all": 5
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=192000005&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=219200066732&region=0&sub_region=0&type=429",
@@ -6034,13 +6034,13 @@ export const duma_2003_uik_428_region_19_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Кильчичакова Елена Михайловна": 52,
-      "Мустонен Александр Хейнович": 0,
-      "Сагалаков Валерий Евгеньевич": 3,
-      "Семенов Александр Геннадьевич": 1,
-      "Семигин Геннадий Юрьевич": 88,
-      "Чаптыков Василий Иванович": 6,
-      "Против всех": 1
+      "gas:candidate-vibid:219200066689": 52,
+      "gas:candidate-vibid:219200066695": 0,
+      "gas:candidate-vibid:1001000202284": 3,
+      "gas:candidate-vibid:1001000136007": 1,
+      "gas:candidate-vibid:1001000121805": 88,
+      "gas:candidate-vibid:1001000258381": 6,
+      "special:against-all": 1
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=192000005&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=219200066732&region=0&sub_region=0&type=429",
@@ -6090,13 +6090,13 @@ export const duma_2003_uik_428_region_19_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Кильчичакова Елена Михайловна": 22,
-      "Мустонен Александр Хейнович": 0,
-      "Сагалаков Валерий Евгеньевич": 1,
-      "Семенов Александр Геннадьевич": 1,
-      "Семигин Геннадий Юрьевич": 69,
-      "Чаптыков Василий Иванович": 11,
-      "Против всех": 2
+      "gas:candidate-vibid:219200066689": 22,
+      "gas:candidate-vibid:219200066695": 0,
+      "gas:candidate-vibid:1001000202284": 1,
+      "gas:candidate-vibid:1001000136007": 1,
+      "gas:candidate-vibid:1001000121805": 69,
+      "gas:candidate-vibid:1001000258381": 11,
+      "special:against-all": 2
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=192000005&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=219200066732&region=0&sub_region=0&type=429",
@@ -6146,13 +6146,13 @@ export const duma_2003_uik_428_region_19_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Кильчичакова Елена Михайловна": 33,
-      "Мустонен Александр Хейнович": 5,
-      "Сагалаков Валерий Евгеньевич": 11,
-      "Семенов Александр Геннадьевич": 77,
-      "Семигин Геннадий Юрьевич": 153,
-      "Чаптыков Василий Иванович": 4,
-      "Против всех": 20
+      "gas:candidate-vibid:219200066689": 33,
+      "gas:candidate-vibid:219200066695": 5,
+      "gas:candidate-vibid:1001000202284": 11,
+      "gas:candidate-vibid:1001000136007": 77,
+      "gas:candidate-vibid:1001000121805": 153,
+      "gas:candidate-vibid:1001000258381": 4,
+      "special:against-all": 20
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=192000006&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=219200066733&region=0&sub_region=0&type=429",
@@ -6202,13 +6202,13 @@ export const duma_2003_uik_428_region_19_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Кильчичакова Елена Михайловна": 46,
-      "Мустонен Александр Хейнович": 0,
-      "Сагалаков Валерий Евгеньевич": 11,
-      "Семенов Александр Геннадьевич": 146,
-      "Семигин Геннадий Юрьевич": 316,
-      "Чаптыков Василий Иванович": 8,
-      "Против всех": 57
+      "gas:candidate-vibid:219200066689": 46,
+      "gas:candidate-vibid:219200066695": 0,
+      "gas:candidate-vibid:1001000202284": 11,
+      "gas:candidate-vibid:1001000136007": 146,
+      "gas:candidate-vibid:1001000121805": 316,
+      "gas:candidate-vibid:1001000258381": 8,
+      "special:against-all": 57
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=192000006&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=219200066733&region=0&sub_region=0&type=429",
@@ -6258,13 +6258,13 @@ export const duma_2003_uik_428_region_19_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Кильчичакова Елена Михайловна": 78,
-      "Мустонен Александр Хейнович": 2,
-      "Сагалаков Валерий Евгеньевич": 26,
-      "Семенов Александр Геннадьевич": 331,
-      "Семигин Геннадий Юрьевич": 538,
-      "Чаптыков Василий Иванович": 37,
-      "Против всех": 118
+      "gas:candidate-vibid:219200066689": 78,
+      "gas:candidate-vibid:219200066695": 2,
+      "gas:candidate-vibid:1001000202284": 26,
+      "gas:candidate-vibid:1001000136007": 331,
+      "gas:candidate-vibid:1001000121805": 538,
+      "gas:candidate-vibid:1001000258381": 37,
+      "special:against-all": 118
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=192000006&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=219200066733&region=0&sub_region=0&type=429",
@@ -6314,13 +6314,13 @@ export const duma_2003_uik_428_region_19_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Кильчичакова Елена Михайловна": 79,
-      "Мустонен Александр Хейнович": 9,
-      "Сагалаков Валерий Евгеньевич": 16,
-      "Семенов Александр Геннадьевич": 187,
-      "Семигин Геннадий Юрьевич": 355,
-      "Чаптыков Василий Иванович": 16,
-      "Против всех": 76
+      "gas:candidate-vibid:219200066689": 79,
+      "gas:candidate-vibid:219200066695": 9,
+      "gas:candidate-vibid:1001000202284": 16,
+      "gas:candidate-vibid:1001000136007": 187,
+      "gas:candidate-vibid:1001000121805": 355,
+      "gas:candidate-vibid:1001000258381": 16,
+      "special:against-all": 76
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=192000006&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=219200066733&region=0&sub_region=0&type=429",
@@ -6370,13 +6370,13 @@ export const duma_2003_uik_428_region_19_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Кильчичакова Елена Михайловна": 56,
-      "Мустонен Александр Хейнович": 1,
-      "Сагалаков Валерий Евгеньевич": 20,
-      "Семенов Александр Геннадьевич": 338,
-      "Семигин Геннадий Юрьевич": 461,
-      "Чаптыков Василий Иванович": 26,
-      "Против всех": 143
+      "gas:candidate-vibid:219200066689": 56,
+      "gas:candidate-vibid:219200066695": 1,
+      "gas:candidate-vibid:1001000202284": 20,
+      "gas:candidate-vibid:1001000136007": 338,
+      "gas:candidate-vibid:1001000121805": 461,
+      "gas:candidate-vibid:1001000258381": 26,
+      "special:against-all": 143
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=192000006&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=219200066733&region=0&sub_region=0&type=429",
@@ -6426,13 +6426,13 @@ export const duma_2003_uik_428_region_19_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Кильчичакова Елена Михайловна": 46,
-      "Мустонен Александр Хейнович": 4,
-      "Сагалаков Валерий Евгеньевич": 13,
-      "Семенов Александр Геннадьевич": 162,
-      "Семигин Геннадий Юрьевич": 278,
-      "Чаптыков Василий Иванович": 15,
-      "Против всех": 95
+      "gas:candidate-vibid:219200066689": 46,
+      "gas:candidate-vibid:219200066695": 4,
+      "gas:candidate-vibid:1001000202284": 13,
+      "gas:candidate-vibid:1001000136007": 162,
+      "gas:candidate-vibid:1001000121805": 278,
+      "gas:candidate-vibid:1001000258381": 15,
+      "special:against-all": 95
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=192000006&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=219200066733&region=0&sub_region=0&type=429",
@@ -6482,13 +6482,13 @@ export const duma_2003_uik_428_region_19_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Кильчичакова Елена Михайловна": 48,
-      "Мустонен Александр Хейнович": 5,
-      "Сагалаков Валерий Евгеньевич": 6,
-      "Семенов Александр Геннадьевич": 133,
-      "Семигин Геннадий Юрьевич": 190,
-      "Чаптыков Василий Иванович": 12,
-      "Против всех": 53
+      "gas:candidate-vibid:219200066689": 48,
+      "gas:candidate-vibid:219200066695": 5,
+      "gas:candidate-vibid:1001000202284": 6,
+      "gas:candidate-vibid:1001000136007": 133,
+      "gas:candidate-vibid:1001000121805": 190,
+      "gas:candidate-vibid:1001000258381": 12,
+      "special:against-all": 53
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=192000006&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=219200066733&region=0&sub_region=0&type=429",
@@ -6538,13 +6538,13 @@ export const duma_2003_uik_428_region_19_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Кильчичакова Елена Михайловна": 9,
-      "Мустонен Александр Хейнович": 1,
-      "Сагалаков Валерий Евгеньевич": 4,
-      "Семенов Александр Геннадьевич": 69,
-      "Семигин Геннадий Юрьевич": 80,
-      "Чаптыков Василий Иванович": 1,
-      "Против всех": 16
+      "gas:candidate-vibid:219200066689": 9,
+      "gas:candidate-vibid:219200066695": 1,
+      "gas:candidate-vibid:1001000202284": 4,
+      "gas:candidate-vibid:1001000136007": 69,
+      "gas:candidate-vibid:1001000121805": 80,
+      "gas:candidate-vibid:1001000258381": 1,
+      "special:against-all": 16
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=192000006&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=219200066733&region=0&sub_region=0&type=429",
@@ -6594,13 +6594,13 @@ export const duma_2003_uik_428_region_19_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Кильчичакова Елена Михайловна": 14,
-      "Мустонен Александр Хейнович": 0,
-      "Сагалаков Валерий Евгеньевич": 2,
-      "Семенов Александр Геннадьевич": 49,
-      "Семигин Геннадий Юрьевич": 83,
-      "Чаптыков Василий Иванович": 3,
-      "Против всех": 27
+      "gas:candidate-vibid:219200066689": 14,
+      "gas:candidate-vibid:219200066695": 0,
+      "gas:candidate-vibid:1001000202284": 2,
+      "gas:candidate-vibid:1001000136007": 49,
+      "gas:candidate-vibid:1001000121805": 83,
+      "gas:candidate-vibid:1001000258381": 3,
+      "special:against-all": 27
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=192000006&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=219200066733&region=0&sub_region=0&type=429",
@@ -6650,13 +6650,13 @@ export const duma_2003_uik_428_region_19_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Кильчичакова Елена Михайловна": 23,
-      "Мустонен Александр Хейнович": 1,
-      "Сагалаков Валерий Евгеньевич": 3,
-      "Семенов Александр Геннадьевич": 52,
-      "Семигин Геннадий Юрьевич": 78,
-      "Чаптыков Василий Иванович": 10,
-      "Против всех": 17
+      "gas:candidate-vibid:219200066689": 23,
+      "gas:candidate-vibid:219200066695": 1,
+      "gas:candidate-vibid:1001000202284": 3,
+      "gas:candidate-vibid:1001000136007": 52,
+      "gas:candidate-vibid:1001000121805": 78,
+      "gas:candidate-vibid:1001000258381": 10,
+      "special:against-all": 17
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=192000006&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=219200066733&region=0&sub_region=0&type=429",
@@ -6706,13 +6706,13 @@ export const duma_2003_uik_428_region_19_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Кильчичакова Елена Михайловна": 53,
-      "Мустонен Александр Хейнович": 2,
-      "Сагалаков Валерий Евгеньевич": 19,
-      "Семенов Александр Геннадьевич": 107,
-      "Семигин Геннадий Юрьевич": 299,
-      "Чаптыков Василий Иванович": 11,
-      "Против всех": 71
+      "gas:candidate-vibid:219200066689": 53,
+      "gas:candidate-vibid:219200066695": 2,
+      "gas:candidate-vibid:1001000202284": 19,
+      "gas:candidate-vibid:1001000136007": 107,
+      "gas:candidate-vibid:1001000121805": 299,
+      "gas:candidate-vibid:1001000258381": 11,
+      "special:against-all": 71
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=192000006&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=219200066733&region=0&sub_region=0&type=429",
@@ -6762,13 +6762,13 @@ export const duma_2003_uik_428_region_19_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Кильчичакова Елена Михайловна": 51,
-      "Мустонен Александр Хейнович": 3,
-      "Сагалаков Валерий Евгеньевич": 10,
-      "Семенов Александр Геннадьевич": 103,
-      "Семигин Геннадий Юрьевич": 245,
-      "Чаптыков Василий Иванович": 8,
-      "Против всех": 74
+      "gas:candidate-vibid:219200066689": 51,
+      "gas:candidate-vibid:219200066695": 3,
+      "gas:candidate-vibid:1001000202284": 10,
+      "gas:candidate-vibid:1001000136007": 103,
+      "gas:candidate-vibid:1001000121805": 245,
+      "gas:candidate-vibid:1001000258381": 8,
+      "special:against-all": 74
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=192000006&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=219200066733&region=0&sub_region=0&type=429",
@@ -6818,13 +6818,13 @@ export const duma_2003_uik_428_region_19_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Кильчичакова Елена Михайловна": 53,
-      "Мустонен Александр Хейнович": 0,
-      "Сагалаков Валерий Евгеньевич": 9,
-      "Семенов Александр Геннадьевич": 101,
-      "Семигин Геннадий Юрьевич": 377,
-      "Чаптыков Василий Иванович": 9,
-      "Против всех": 49
+      "gas:candidate-vibid:219200066689": 53,
+      "gas:candidate-vibid:219200066695": 0,
+      "gas:candidate-vibid:1001000202284": 9,
+      "gas:candidate-vibid:1001000136007": 101,
+      "gas:candidate-vibid:1001000121805": 377,
+      "gas:candidate-vibid:1001000258381": 9,
+      "special:against-all": 49
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=192000006&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=219200066733&region=0&sub_region=0&type=429",
@@ -6874,13 +6874,13 @@ export const duma_2003_uik_428_region_19_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Кильчичакова Елена Михайловна": 52,
-      "Мустонен Александр Хейнович": 2,
-      "Сагалаков Валерий Евгеньевич": 10,
-      "Семенов Александр Геннадьевич": 134,
-      "Семигин Геннадий Юрьевич": 352,
-      "Чаптыков Василий Иванович": 10,
-      "Против всех": 99
+      "gas:candidate-vibid:219200066689": 52,
+      "gas:candidate-vibid:219200066695": 2,
+      "gas:candidate-vibid:1001000202284": 10,
+      "gas:candidate-vibid:1001000136007": 134,
+      "gas:candidate-vibid:1001000121805": 352,
+      "gas:candidate-vibid:1001000258381": 10,
+      "special:against-all": 99
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=192000006&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=219200066733&region=0&sub_region=0&type=429",
@@ -6930,13 +6930,13 @@ export const duma_2003_uik_428_region_19_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Кильчичакова Елена Михайловна": 25,
-      "Мустонен Александр Хейнович": 1,
-      "Сагалаков Валерий Евгеньевич": 1,
-      "Семенов Александр Геннадьевич": 114,
-      "Семигин Геннадий Юрьевич": 182,
-      "Чаптыков Василий Иванович": 14,
-      "Против всех": 37
+      "gas:candidate-vibid:219200066689": 25,
+      "gas:candidate-vibid:219200066695": 1,
+      "gas:candidate-vibid:1001000202284": 1,
+      "gas:candidate-vibid:1001000136007": 114,
+      "gas:candidate-vibid:1001000121805": 182,
+      "gas:candidate-vibid:1001000258381": 14,
+      "special:against-all": 37
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=192000006&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=219200066733&region=0&sub_region=0&type=429",
@@ -6986,13 +6986,13 @@ export const duma_2003_uik_428_region_19_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Кильчичакова Елена Михайловна": 18,
-      "Мустонен Александр Хейнович": 1,
-      "Сагалаков Валерий Евгеньевич": 2,
-      "Семенов Александр Геннадьевич": 89,
-      "Семигин Геннадий Юрьевич": 219,
-      "Чаптыков Василий Иванович": 7,
-      "Против всех": 26
+      "gas:candidate-vibid:219200066689": 18,
+      "gas:candidate-vibid:219200066695": 1,
+      "gas:candidate-vibid:1001000202284": 2,
+      "gas:candidate-vibid:1001000136007": 89,
+      "gas:candidate-vibid:1001000121805": 219,
+      "gas:candidate-vibid:1001000258381": 7,
+      "special:against-all": 26
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=192000006&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=219200066733&region=0&sub_region=0&type=429",
@@ -7042,13 +7042,13 @@ export const duma_2003_uik_428_region_19_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Кильчичакова Елена Михайловна": 51,
-      "Мустонен Александр Хейнович": 2,
-      "Сагалаков Валерий Евгеньевич": 7,
-      "Семенов Александр Геннадьевич": 88,
-      "Семигин Геннадий Юрьевич": 260,
-      "Чаптыков Василий Иванович": 29,
-      "Против всех": 38
+      "gas:candidate-vibid:219200066689": 51,
+      "gas:candidate-vibid:219200066695": 2,
+      "gas:candidate-vibid:1001000202284": 7,
+      "gas:candidate-vibid:1001000136007": 88,
+      "gas:candidate-vibid:1001000121805": 260,
+      "gas:candidate-vibid:1001000258381": 29,
+      "special:against-all": 38
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=192000006&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=219200066733&region=0&sub_region=0&type=429",
@@ -7098,13 +7098,13 @@ export const duma_2003_uik_428_region_19_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Кильчичакова Елена Михайловна": 31,
-      "Мустонен Александр Хейнович": 2,
-      "Сагалаков Валерий Евгеньевич": 4,
-      "Семенов Александр Геннадьевич": 83,
-      "Семигин Геннадий Юрьевич": 147,
-      "Чаптыков Василий Иванович": 9,
-      "Против всех": 34
+      "gas:candidate-vibid:219200066689": 31,
+      "gas:candidate-vibid:219200066695": 2,
+      "gas:candidate-vibid:1001000202284": 4,
+      "gas:candidate-vibid:1001000136007": 83,
+      "gas:candidate-vibid:1001000121805": 147,
+      "gas:candidate-vibid:1001000258381": 9,
+      "special:against-all": 34
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=192000006&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=219200066733&region=0&sub_region=0&type=429",
@@ -7154,13 +7154,13 @@ export const duma_2003_uik_428_region_19_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Кильчичакова Елена Михайловна": 98,
-      "Мустонен Александр Хейнович": 3,
-      "Сагалаков Валерий Евгеньевич": 12,
-      "Семенов Александр Геннадьевич": 223,
-      "Семигин Геннадий Юрьевич": 354,
-      "Чаптыков Василий Иванович": 23,
-      "Против всех": 51
+      "gas:candidate-vibid:219200066689": 98,
+      "gas:candidate-vibid:219200066695": 3,
+      "gas:candidate-vibid:1001000202284": 12,
+      "gas:candidate-vibid:1001000136007": 223,
+      "gas:candidate-vibid:1001000121805": 354,
+      "gas:candidate-vibid:1001000258381": 23,
+      "special:against-all": 51
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=192000006&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=219200066733&region=0&sub_region=0&type=429",
@@ -7210,13 +7210,13 @@ export const duma_2003_uik_428_region_19_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Кильчичакова Елена Михайловна": 72,
-      "Мустонен Александр Хейнович": 1,
-      "Сагалаков Валерий Евгеньевич": 4,
-      "Семенов Александр Геннадьевич": 73,
-      "Семигин Геннадий Юрьевич": 288,
-      "Чаптыков Василий Иванович": 15,
-      "Против всех": 23
+      "gas:candidate-vibid:219200066689": 72,
+      "gas:candidate-vibid:219200066695": 1,
+      "gas:candidate-vibid:1001000202284": 4,
+      "gas:candidate-vibid:1001000136007": 73,
+      "gas:candidate-vibid:1001000121805": 288,
+      "gas:candidate-vibid:1001000258381": 15,
+      "special:against-all": 23
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=192000006&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=219200066733&region=0&sub_region=0&type=429",
@@ -7266,13 +7266,13 @@ export const duma_2003_uik_428_region_19_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Кильчичакова Елена Михайловна": 16,
-      "Мустонен Александр Хейнович": 0,
-      "Сагалаков Валерий Евгеньевич": 0,
-      "Семенов Александр Геннадьевич": 23,
-      "Семигин Геннадий Юрьевич": 82,
-      "Чаптыков Василий Иванович": 5,
-      "Против всех": 8
+      "gas:candidate-vibid:219200066689": 16,
+      "gas:candidate-vibid:219200066695": 0,
+      "gas:candidate-vibid:1001000202284": 0,
+      "gas:candidate-vibid:1001000136007": 23,
+      "gas:candidate-vibid:1001000121805": 82,
+      "gas:candidate-vibid:1001000258381": 5,
+      "special:against-all": 8
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=192000006&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=219200066733&region=0&sub_region=0&type=429",
@@ -7322,13 +7322,13 @@ export const duma_2003_uik_428_region_19_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Кильчичакова Елена Михайловна": 41,
-      "Мустонен Александр Хейнович": 0,
-      "Сагалаков Валерий Евгеньевич": 6,
-      "Семенов Александр Геннадьевич": 79,
-      "Семигин Геннадий Юрьевич": 188,
-      "Чаптыков Василий Иванович": 5,
-      "Против всех": 20
+      "gas:candidate-vibid:219200066689": 41,
+      "gas:candidate-vibid:219200066695": 0,
+      "gas:candidate-vibid:1001000202284": 6,
+      "gas:candidate-vibid:1001000136007": 79,
+      "gas:candidate-vibid:1001000121805": 188,
+      "gas:candidate-vibid:1001000258381": 5,
+      "special:against-all": 20
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=192000006&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=219200066733&region=0&sub_region=0&type=429",
@@ -7378,13 +7378,13 @@ export const duma_2003_uik_428_region_19_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Кильчичакова Елена Михайловна": 13,
-      "Мустонен Александр Хейнович": 1,
-      "Сагалаков Валерий Евгеньевич": 4,
-      "Семенов Александр Геннадьевич": 12,
-      "Семигин Геннадий Юрьевич": 74,
-      "Чаптыков Василий Иванович": 1,
-      "Против всех": 4
+      "gas:candidate-vibid:219200066689": 13,
+      "gas:candidate-vibid:219200066695": 1,
+      "gas:candidate-vibid:1001000202284": 4,
+      "gas:candidate-vibid:1001000136007": 12,
+      "gas:candidate-vibid:1001000121805": 74,
+      "gas:candidate-vibid:1001000258381": 1,
+      "special:against-all": 4
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=192000006&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=219200066733&region=0&sub_region=0&type=429",
@@ -7434,13 +7434,13 @@ export const duma_2003_uik_428_region_19_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Кильчичакова Елена Михайловна": 143,
-      "Мустонен Александр Хейнович": 1,
-      "Сагалаков Валерий Евгеньевич": 12,
-      "Семенов Александр Геннадьевич": 57,
-      "Семигин Геннадий Юрьевич": 206,
-      "Чаптыков Василий Иванович": 24,
-      "Против всех": 31
+      "gas:candidate-vibid:219200066689": 143,
+      "gas:candidate-vibid:219200066695": 1,
+      "gas:candidate-vibid:1001000202284": 12,
+      "gas:candidate-vibid:1001000136007": 57,
+      "gas:candidate-vibid:1001000121805": 206,
+      "gas:candidate-vibid:1001000258381": 24,
+      "special:against-all": 31
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=192000006&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=219200066733&region=0&sub_region=0&type=429",
@@ -7490,13 +7490,13 @@ export const duma_2003_uik_428_region_19_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Кильчичакова Елена Михайловна": 10,
-      "Мустонен Александр Хейнович": 0,
-      "Сагалаков Валерий Евгеньевич": 2,
-      "Семенов Александр Геннадьевич": 3,
-      "Семигин Геннадий Юрьевич": 44,
-      "Чаптыков Василий Иванович": 7,
-      "Против всех": 1
+      "gas:candidate-vibid:219200066689": 10,
+      "gas:candidate-vibid:219200066695": 0,
+      "gas:candidate-vibid:1001000202284": 2,
+      "gas:candidate-vibid:1001000136007": 3,
+      "gas:candidate-vibid:1001000121805": 44,
+      "gas:candidate-vibid:1001000258381": 7,
+      "special:against-all": 1
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=192000006&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=219200066733&region=0&sub_region=0&type=429",
@@ -7546,13 +7546,13 @@ export const duma_2003_uik_428_region_19_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Кильчичакова Елена Михайловна": 141,
-      "Мустонен Александр Хейнович": 1,
-      "Сагалаков Валерий Евгеньевич": 26,
-      "Семенов Александр Геннадьевич": 134,
-      "Семигин Геннадий Юрьевич": 411,
-      "Чаптыков Василий Иванович": 20,
-      "Против всех": 51
+      "gas:candidate-vibid:219200066689": 141,
+      "gas:candidate-vibid:219200066695": 1,
+      "gas:candidate-vibid:1001000202284": 26,
+      "gas:candidate-vibid:1001000136007": 134,
+      "gas:candidate-vibid:1001000121805": 411,
+      "gas:candidate-vibid:1001000258381": 20,
+      "special:against-all": 51
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=192000006&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=219200066733&region=0&sub_region=0&type=429",
@@ -7602,13 +7602,13 @@ export const duma_2003_uik_428_region_19_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Кильчичакова Елена Михайловна": 19,
-      "Мустонен Александр Хейнович": 0,
-      "Сагалаков Валерий Евгеньевич": 3,
-      "Семенов Александр Геннадьевич": 7,
-      "Семигин Геннадий Юрьевич": 59,
-      "Чаптыков Василий Иванович": 5,
-      "Против всех": 2
+      "gas:candidate-vibid:219200066689": 19,
+      "gas:candidate-vibid:219200066695": 0,
+      "gas:candidate-vibid:1001000202284": 3,
+      "gas:candidate-vibid:1001000136007": 7,
+      "gas:candidate-vibid:1001000121805": 59,
+      "gas:candidate-vibid:1001000258381": 5,
+      "special:against-all": 2
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=192000006&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=219200066733&region=0&sub_region=0&type=429",
@@ -7658,13 +7658,13 @@ export const duma_2003_uik_428_region_19_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Кильчичакова Елена Михайловна": 43,
-      "Мустонен Александр Хейнович": 1,
-      "Сагалаков Валерий Евгеньевич": 7,
-      "Семенов Александр Геннадьевич": 104,
-      "Семигин Геннадий Юрьевич": 286,
-      "Чаптыков Василий Иванович": 8,
-      "Против всех": 34
+      "gas:candidate-vibid:219200066689": 43,
+      "gas:candidate-vibid:219200066695": 1,
+      "gas:candidate-vibid:1001000202284": 7,
+      "gas:candidate-vibid:1001000136007": 104,
+      "gas:candidate-vibid:1001000121805": 286,
+      "gas:candidate-vibid:1001000258381": 8,
+      "special:against-all": 34
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=192000006&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=219200066733&region=0&sub_region=0&type=429",
@@ -7714,13 +7714,13 @@ export const duma_2003_uik_428_region_19_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Кильчичакова Елена Михайловна": 5,
-      "Мустонен Александр Хейнович": 0,
-      "Сагалаков Валерий Евгеньевич": 10,
-      "Семенов Александр Геннадьевич": 4,
-      "Семигин Геннадий Юрьевич": 42,
-      "Чаптыков Василий Иванович": 2,
-      "Против всех": 3
+      "gas:candidate-vibid:219200066689": 5,
+      "gas:candidate-vibid:219200066695": 0,
+      "gas:candidate-vibid:1001000202284": 10,
+      "gas:candidate-vibid:1001000136007": 4,
+      "gas:candidate-vibid:1001000121805": 42,
+      "gas:candidate-vibid:1001000258381": 2,
+      "special:against-all": 3
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=192000006&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=219200066733&region=0&sub_region=0&type=429",
@@ -7770,13 +7770,13 @@ export const duma_2003_uik_428_region_19_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Кильчичакова Елена Михайловна": 72,
-      "Мустонен Александр Хейнович": 0,
-      "Сагалаков Валерий Евгеньевич": 15,
-      "Семенов Александр Геннадьевич": 106,
-      "Семигин Геннадий Юрьевич": 193,
-      "Чаптыков Василий Иванович": 27,
-      "Против всех": 33
+      "gas:candidate-vibid:219200066689": 72,
+      "gas:candidate-vibid:219200066695": 0,
+      "gas:candidate-vibid:1001000202284": 15,
+      "gas:candidate-vibid:1001000136007": 106,
+      "gas:candidate-vibid:1001000121805": 193,
+      "gas:candidate-vibid:1001000258381": 27,
+      "special:against-all": 33
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=192000006&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=219200066733&region=0&sub_region=0&type=429",
@@ -7826,13 +7826,13 @@ export const duma_2003_uik_428_region_19_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Кильчичакова Елена Михайловна": 30,
-      "Мустонен Александр Хейнович": 0,
-      "Сагалаков Валерий Евгеньевич": 4,
-      "Семенов Александр Геннадьевич": 58,
-      "Семигин Геннадий Юрьевич": 189,
-      "Чаптыков Василий Иванович": 12,
-      "Против всех": 39
+      "gas:candidate-vibid:219200066689": 30,
+      "gas:candidate-vibid:219200066695": 0,
+      "gas:candidate-vibid:1001000202284": 4,
+      "gas:candidate-vibid:1001000136007": 58,
+      "gas:candidate-vibid:1001000121805": 189,
+      "gas:candidate-vibid:1001000258381": 12,
+      "special:against-all": 39
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=192000006&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=219200066733&region=0&sub_region=0&type=429",
@@ -7882,13 +7882,13 @@ export const duma_2003_uik_428_region_19_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Кильчичакова Елена Михайловна": 37,
-      "Мустонен Александр Хейнович": 1,
-      "Сагалаков Валерий Евгеньевич": 2,
-      "Семенов Александр Геннадьевич": 54,
-      "Семигин Геннадий Юрьевич": 136,
-      "Чаптыков Василий Иванович": 16,
-      "Против всех": 26
+      "gas:candidate-vibid:219200066689": 37,
+      "gas:candidate-vibid:219200066695": 1,
+      "gas:candidate-vibid:1001000202284": 2,
+      "gas:candidate-vibid:1001000136007": 54,
+      "gas:candidate-vibid:1001000121805": 136,
+      "gas:candidate-vibid:1001000258381": 16,
+      "special:against-all": 26
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=192000006&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=219200066733&region=0&sub_region=0&type=429",
@@ -7938,13 +7938,13 @@ export const duma_2003_uik_428_region_19_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Кильчичакова Елена Михайловна": 42,
-      "Мустонен Александр Хейнович": 1,
-      "Сагалаков Валерий Евгеньевич": 6,
-      "Семенов Александр Геннадьевич": 9,
-      "Семигин Геннадий Юрьевич": 59,
-      "Чаптыков Василий Иванович": 1,
-      "Против всех": 4
+      "gas:candidate-vibid:219200066689": 42,
+      "gas:candidate-vibid:219200066695": 1,
+      "gas:candidate-vibid:1001000202284": 6,
+      "gas:candidate-vibid:1001000136007": 9,
+      "gas:candidate-vibid:1001000121805": 59,
+      "gas:candidate-vibid:1001000258381": 1,
+      "special:against-all": 4
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=192000006&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=219200066733&region=0&sub_region=0&type=429",
@@ -7994,13 +7994,13 @@ export const duma_2003_uik_428_region_19_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Кильчичакова Елена Михайловна": 101,
-      "Мустонен Александр Хейнович": 10,
-      "Сагалаков Валерий Евгеньевич": 18,
-      "Семенов Александр Геннадьевич": 158,
-      "Семигин Геннадий Юрьевич": 434,
-      "Чаптыков Василий Иванович": 70,
-      "Против всех": 209
+      "gas:candidate-vibid:219200066689": 101,
+      "gas:candidate-vibid:219200066695": 10,
+      "gas:candidate-vibid:1001000202284": 18,
+      "gas:candidate-vibid:1001000136007": 158,
+      "gas:candidate-vibid:1001000121805": 434,
+      "gas:candidate-vibid:1001000258381": 70,
+      "special:against-all": 209
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=192000007&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=219200066734&region=0&sub_region=0&type=429",
@@ -8050,13 +8050,13 @@ export const duma_2003_uik_428_region_19_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Кильчичакова Елена Михайловна": 107,
-      "Мустонен Александр Хейнович": 12,
-      "Сагалаков Валерий Евгеньевич": 35,
-      "Семенов Александр Геннадьевич": 162,
-      "Семигин Геннадий Юрьевич": 421,
-      "Чаптыков Василий Иванович": 59,
-      "Против всех": 232
+      "gas:candidate-vibid:219200066689": 107,
+      "gas:candidate-vibid:219200066695": 12,
+      "gas:candidate-vibid:1001000202284": 35,
+      "gas:candidate-vibid:1001000136007": 162,
+      "gas:candidate-vibid:1001000121805": 421,
+      "gas:candidate-vibid:1001000258381": 59,
+      "special:against-all": 232
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=192000007&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=219200066734&region=0&sub_region=0&type=429",
@@ -8106,13 +8106,13 @@ export const duma_2003_uik_428_region_19_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Кильчичакова Елена Михайловна": 114,
-      "Мустонен Александр Хейнович": 7,
-      "Сагалаков Валерий Евгеньевич": 20,
-      "Семенов Александр Геннадьевич": 132,
-      "Семигин Геннадий Юрьевич": 330,
-      "Чаптыков Василий Иванович": 49,
-      "Против всех": 170
+      "gas:candidate-vibid:219200066689": 114,
+      "gas:candidate-vibid:219200066695": 7,
+      "gas:candidate-vibid:1001000202284": 20,
+      "gas:candidate-vibid:1001000136007": 132,
+      "gas:candidate-vibid:1001000121805": 330,
+      "gas:candidate-vibid:1001000258381": 49,
+      "special:against-all": 170
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=192000007&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=219200066734&region=0&sub_region=0&type=429",
@@ -8162,13 +8162,13 @@ export const duma_2003_uik_428_region_19_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Кильчичакова Елена Михайловна": 114,
-      "Мустонен Александр Хейнович": 8,
-      "Сагалаков Валерий Евгеньевич": 23,
-      "Семенов Александр Геннадьевич": 180,
-      "Семигин Геннадий Юрьевич": 445,
-      "Чаптыков Василий Иванович": 100,
-      "Против всех": 220
+      "gas:candidate-vibid:219200066689": 114,
+      "gas:candidate-vibid:219200066695": 8,
+      "gas:candidate-vibid:1001000202284": 23,
+      "gas:candidate-vibid:1001000136007": 180,
+      "gas:candidate-vibid:1001000121805": 445,
+      "gas:candidate-vibid:1001000258381": 100,
+      "special:against-all": 220
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=192000007&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=219200066734&region=0&sub_region=0&type=429",
@@ -8218,13 +8218,13 @@ export const duma_2003_uik_428_region_19_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Кильчичакова Елена Михайловна": 142,
-      "Мустонен Александр Хейнович": 4,
-      "Сагалаков Валерий Евгеньевич": 33,
-      "Семенов Александр Геннадьевич": 176,
-      "Семигин Геннадий Юрьевич": 441,
-      "Чаптыков Василий Иванович": 63,
-      "Против всех": 192
+      "gas:candidate-vibid:219200066689": 142,
+      "gas:candidate-vibid:219200066695": 4,
+      "gas:candidate-vibid:1001000202284": 33,
+      "gas:candidate-vibid:1001000136007": 176,
+      "gas:candidate-vibid:1001000121805": 441,
+      "gas:candidate-vibid:1001000258381": 63,
+      "special:against-all": 192
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=192000007&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=219200066734&region=0&sub_region=0&type=429",
@@ -8274,13 +8274,13 @@ export const duma_2003_uik_428_region_19_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Кильчичакова Елена Михайловна": 146,
-      "Мустонен Александр Хейнович": 5,
-      "Сагалаков Валерий Евгеньевич": 37,
-      "Семенов Александр Геннадьевич": 197,
-      "Семигин Геннадий Юрьевич": 520,
-      "Чаптыков Василий Иванович": 74,
-      "Против всех": 227
+      "gas:candidate-vibid:219200066689": 146,
+      "gas:candidate-vibid:219200066695": 5,
+      "gas:candidate-vibid:1001000202284": 37,
+      "gas:candidate-vibid:1001000136007": 197,
+      "gas:candidate-vibid:1001000121805": 520,
+      "gas:candidate-vibid:1001000258381": 74,
+      "special:against-all": 227
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=192000007&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=219200066734&region=0&sub_region=0&type=429",
@@ -8330,13 +8330,13 @@ export const duma_2003_uik_428_region_19_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Кильчичакова Елена Михайловна": 121,
-      "Мустонен Александр Хейнович": 4,
-      "Сагалаков Валерий Евгеньевич": 33,
-      "Семенов Александр Геннадьевич": 178,
-      "Семигин Геннадий Юрьевич": 512,
-      "Чаптыков Василий Иванович": 66,
-      "Против всех": 201
+      "gas:candidate-vibid:219200066689": 121,
+      "gas:candidate-vibid:219200066695": 4,
+      "gas:candidate-vibid:1001000202284": 33,
+      "gas:candidate-vibid:1001000136007": 178,
+      "gas:candidate-vibid:1001000121805": 512,
+      "gas:candidate-vibid:1001000258381": 66,
+      "special:against-all": 201
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=192000007&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=219200066734&region=0&sub_region=0&type=429",
@@ -8386,13 +8386,13 @@ export const duma_2003_uik_428_region_19_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Кильчичакова Елена Михайловна": 152,
-      "Мустонен Александр Хейнович": 1,
-      "Сагалаков Валерий Евгеньевич": 23,
-      "Семенов Александр Геннадьевич": 165,
-      "Семигин Геннадий Юрьевич": 496,
-      "Чаптыков Василий Иванович": 55,
-      "Против всех": 161
+      "gas:candidate-vibid:219200066689": 152,
+      "gas:candidate-vibid:219200066695": 1,
+      "gas:candidate-vibid:1001000202284": 23,
+      "gas:candidate-vibid:1001000136007": 165,
+      "gas:candidate-vibid:1001000121805": 496,
+      "gas:candidate-vibid:1001000258381": 55,
+      "special:against-all": 161
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=192000007&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=219200066734&region=0&sub_region=0&type=429",
@@ -8442,13 +8442,13 @@ export const duma_2003_uik_428_region_19_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Кильчичакова Елена Михайловна": 109,
-      "Мустонен Александр Хейнович": 7,
-      "Сагалаков Валерий Евгеньевич": 20,
-      "Семенов Александр Геннадьевич": 167,
-      "Семигин Геннадий Юрьевич": 435,
-      "Чаптыков Василий Иванович": 57,
-      "Против всех": 160
+      "gas:candidate-vibid:219200066689": 109,
+      "gas:candidate-vibid:219200066695": 7,
+      "gas:candidate-vibid:1001000202284": 20,
+      "gas:candidate-vibid:1001000136007": 167,
+      "gas:candidate-vibid:1001000121805": 435,
+      "gas:candidate-vibid:1001000258381": 57,
+      "special:against-all": 160
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=192000007&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=219200066734&region=0&sub_region=0&type=429",
@@ -8498,13 +8498,13 @@ export const duma_2003_uik_428_region_19_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Кильчичакова Елена Михайловна": 126,
-      "Мустонен Александр Хейнович": 4,
-      "Сагалаков Валерий Евгеньевич": 26,
-      "Семенов Александр Геннадьевич": 187,
-      "Семигин Геннадий Юрьевич": 510,
-      "Чаптыков Василий Иванович": 66,
-      "Против всех": 167
+      "gas:candidate-vibid:219200066689": 126,
+      "gas:candidate-vibid:219200066695": 4,
+      "gas:candidate-vibid:1001000202284": 26,
+      "gas:candidate-vibid:1001000136007": 187,
+      "gas:candidate-vibid:1001000121805": 510,
+      "gas:candidate-vibid:1001000258381": 66,
+      "special:against-all": 167
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=192000007&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=219200066734&region=0&sub_region=0&type=429",
@@ -8554,13 +8554,13 @@ export const duma_2003_uik_428_region_19_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Кильчичакова Елена Михайловна": 148,
-      "Мустонен Александр Хейнович": 6,
-      "Сагалаков Валерий Евгеньевич": 19,
-      "Семенов Александр Геннадьевич": 186,
-      "Семигин Геннадий Юрьевич": 434,
-      "Чаптыков Василий Иванович": 37,
-      "Против всех": 207
+      "gas:candidate-vibid:219200066689": 148,
+      "gas:candidate-vibid:219200066695": 6,
+      "gas:candidate-vibid:1001000202284": 19,
+      "gas:candidate-vibid:1001000136007": 186,
+      "gas:candidate-vibid:1001000121805": 434,
+      "gas:candidate-vibid:1001000258381": 37,
+      "special:against-all": 207
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=192000007&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=219200066734&region=0&sub_region=0&type=429",
@@ -8610,13 +8610,13 @@ export const duma_2003_uik_428_region_19_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Кильчичакова Елена Михайловна": 113,
-      "Мустонен Александр Хейнович": 2,
-      "Сагалаков Валерий Евгеньевич": 22,
-      "Семенов Александр Геннадьевич": 151,
-      "Семигин Геннадий Юрьевич": 377,
-      "Чаптыков Василий Иванович": 64,
-      "Против всех": 197
+      "gas:candidate-vibid:219200066689": 113,
+      "gas:candidate-vibid:219200066695": 2,
+      "gas:candidate-vibid:1001000202284": 22,
+      "gas:candidate-vibid:1001000136007": 151,
+      "gas:candidate-vibid:1001000121805": 377,
+      "gas:candidate-vibid:1001000258381": 64,
+      "special:against-all": 197
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=192000007&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=219200066734&region=0&sub_region=0&type=429",
@@ -8666,13 +8666,13 @@ export const duma_2003_uik_428_region_19_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Кильчичакова Елена Михайловна": 121,
-      "Мустонен Александр Хейнович": 2,
-      "Сагалаков Валерий Евгеньевич": 25,
-      "Семенов Александр Геннадьевич": 183,
-      "Семигин Геннадий Юрьевич": 386,
-      "Чаптыков Василий Иванович": 52,
-      "Против всех": 201
+      "gas:candidate-vibid:219200066689": 121,
+      "gas:candidate-vibid:219200066695": 2,
+      "gas:candidate-vibid:1001000202284": 25,
+      "gas:candidate-vibid:1001000136007": 183,
+      "gas:candidate-vibid:1001000121805": 386,
+      "gas:candidate-vibid:1001000258381": 52,
+      "special:against-all": 201
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=192000007&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=219200066734&region=0&sub_region=0&type=429",
@@ -8722,13 +8722,13 @@ export const duma_2003_uik_428_region_19_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Кильчичакова Елена Михайловна": 129,
-      "Мустонен Александр Хейнович": 7,
-      "Сагалаков Валерий Евгеньевич": 27,
-      "Семенов Александр Геннадьевич": 121,
-      "Семигин Геннадий Юрьевич": 509,
-      "Чаптыков Василий Иванович": 49,
-      "Против всех": 222
+      "gas:candidate-vibid:219200066689": 129,
+      "gas:candidate-vibid:219200066695": 7,
+      "gas:candidate-vibid:1001000202284": 27,
+      "gas:candidate-vibid:1001000136007": 121,
+      "gas:candidate-vibid:1001000121805": 509,
+      "gas:candidate-vibid:1001000258381": 49,
+      "special:against-all": 222
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=192000007&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=219200066734&region=0&sub_region=0&type=429",
@@ -8778,13 +8778,13 @@ export const duma_2003_uik_428_region_19_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Кильчичакова Елена Михайловна": 102,
-      "Мустонен Александр Хейнович": 4,
-      "Сагалаков Валерий Евгеньевич": 23,
-      "Семенов Александр Геннадьевич": 194,
-      "Семигин Геннадий Юрьевич": 377,
-      "Чаптыков Василий Иванович": 69,
-      "Против всех": 215
+      "gas:candidate-vibid:219200066689": 102,
+      "gas:candidate-vibid:219200066695": 4,
+      "gas:candidate-vibid:1001000202284": 23,
+      "gas:candidate-vibid:1001000136007": 194,
+      "gas:candidate-vibid:1001000121805": 377,
+      "gas:candidate-vibid:1001000258381": 69,
+      "special:against-all": 215
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=192000007&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=219200066734&region=0&sub_region=0&type=429",
@@ -8834,13 +8834,13 @@ export const duma_2003_uik_428_region_19_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Кильчичакова Елена Михайловна": 171,
-      "Мустонен Александр Хейнович": 6,
-      "Сагалаков Валерий Евгеньевич": 30,
-      "Семенов Александр Геннадьевич": 197,
-      "Семигин Геннадий Юрьевич": 585,
-      "Чаптыков Василий Иванович": 73,
-      "Против всех": 181
+      "gas:candidate-vibid:219200066689": 171,
+      "gas:candidate-vibid:219200066695": 6,
+      "gas:candidate-vibid:1001000202284": 30,
+      "gas:candidate-vibid:1001000136007": 197,
+      "gas:candidate-vibid:1001000121805": 585,
+      "gas:candidate-vibid:1001000258381": 73,
+      "special:against-all": 181
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=192000007&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=219200066734&region=0&sub_region=0&type=429",
@@ -8890,13 +8890,13 @@ export const duma_2003_uik_428_region_19_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Кильчичакова Елена Михайловна": 125,
-      "Мустонен Александр Хейнович": 3,
-      "Сагалаков Валерий Евгеньевич": 21,
-      "Семенов Александр Геннадьевич": 173,
-      "Семигин Геннадий Юрьевич": 440,
-      "Чаптыков Василий Иванович": 38,
-      "Против всех": 143
+      "gas:candidate-vibid:219200066689": 125,
+      "gas:candidate-vibid:219200066695": 3,
+      "gas:candidate-vibid:1001000202284": 21,
+      "gas:candidate-vibid:1001000136007": 173,
+      "gas:candidate-vibid:1001000121805": 440,
+      "gas:candidate-vibid:1001000258381": 38,
+      "special:against-all": 143
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=192000007&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=219200066734&region=0&sub_region=0&type=429",
@@ -8946,13 +8946,13 @@ export const duma_2003_uik_428_region_19_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Кильчичакова Елена Михайловна": 166,
-      "Мустонен Александр Хейнович": 3,
-      "Сагалаков Валерий Евгеньевич": 15,
-      "Семенов Александр Геннадьевич": 144,
-      "Семигин Геннадий Юрьевич": 415,
-      "Чаптыков Василий Иванович": 32,
-      "Против всех": 149
+      "gas:candidate-vibid:219200066689": 166,
+      "gas:candidate-vibid:219200066695": 3,
+      "gas:candidate-vibid:1001000202284": 15,
+      "gas:candidate-vibid:1001000136007": 144,
+      "gas:candidate-vibid:1001000121805": 415,
+      "gas:candidate-vibid:1001000258381": 32,
+      "special:against-all": 149
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=192000007&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=219200066734&region=0&sub_region=0&type=429",
@@ -9002,13 +9002,13 @@ export const duma_2003_uik_428_region_19_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Кильчичакова Елена Михайловна": 102,
-      "Мустонен Александр Хейнович": 5,
-      "Сагалаков Валерий Евгеньевич": 30,
-      "Семенов Александр Геннадьевич": 155,
-      "Семигин Геннадий Юрьевич": 401,
-      "Чаптыков Василий Иванович": 57,
-      "Против всех": 127
+      "gas:candidate-vibid:219200066689": 102,
+      "gas:candidate-vibid:219200066695": 5,
+      "gas:candidate-vibid:1001000202284": 30,
+      "gas:candidate-vibid:1001000136007": 155,
+      "gas:candidate-vibid:1001000121805": 401,
+      "gas:candidate-vibid:1001000258381": 57,
+      "special:against-all": 127
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=192000007&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=219200066734&region=0&sub_region=0&type=429",
@@ -9058,13 +9058,13 @@ export const duma_2003_uik_428_region_19_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Кильчичакова Елена Михайловна": 91,
-      "Мустонен Александр Хейнович": 1,
-      "Сагалаков Валерий Евгеньевич": 26,
-      "Семенов Александр Геннадьевич": 134,
-      "Семигин Геннадий Юрьевич": 618,
-      "Чаптыков Василий Иванович": 29,
-      "Против всех": 136
+      "gas:candidate-vibid:219200066689": 91,
+      "gas:candidate-vibid:219200066695": 1,
+      "gas:candidate-vibid:1001000202284": 26,
+      "gas:candidate-vibid:1001000136007": 134,
+      "gas:candidate-vibid:1001000121805": 618,
+      "gas:candidate-vibid:1001000258381": 29,
+      "special:against-all": 136
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=192000007&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=219200066734&region=0&sub_region=0&type=429",
@@ -9114,13 +9114,13 @@ export const duma_2003_uik_428_region_19_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Кильчичакова Елена Михайловна": 113,
-      "Мустонен Александр Хейнович": 6,
-      "Сагалаков Валерий Евгеньевич": 19,
-      "Семенов Александр Геннадьевич": 125,
-      "Семигин Геннадий Юрьевич": 579,
-      "Чаптыков Василий Иванович": 25,
-      "Против всех": 112
+      "gas:candidate-vibid:219200066689": 113,
+      "gas:candidate-vibid:219200066695": 6,
+      "gas:candidate-vibid:1001000202284": 19,
+      "gas:candidate-vibid:1001000136007": 125,
+      "gas:candidate-vibid:1001000121805": 579,
+      "gas:candidate-vibid:1001000258381": 25,
+      "special:against-all": 112
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=192000007&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=219200066734&region=0&sub_region=0&type=429",
@@ -9170,13 +9170,13 @@ export const duma_2003_uik_428_region_19_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Кильчичакова Елена Михайловна": 7,
-      "Мустонен Александр Хейнович": 0,
-      "Сагалаков Валерий Евгеньевич": 5,
-      "Семенов Александр Геннадьевич": 6,
-      "Семигин Геннадий Юрьевич": 59,
-      "Чаптыков Василий Иванович": 10,
-      "Против всех": 10
+      "gas:candidate-vibid:219200066689": 7,
+      "gas:candidate-vibid:219200066695": 0,
+      "gas:candidate-vibid:1001000202284": 5,
+      "gas:candidate-vibid:1001000136007": 6,
+      "gas:candidate-vibid:1001000121805": 59,
+      "gas:candidate-vibid:1001000258381": 10,
+      "special:against-all": 10
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=192000007&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=219200066734&region=0&sub_region=0&type=429",
@@ -9226,13 +9226,13 @@ export const duma_2003_uik_428_region_19_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Кильчичакова Елена Михайловна": 173,
-      "Мустонен Александр Хейнович": 12,
-      "Сагалаков Валерий Евгеньевич": 33,
-      "Семенов Александр Геннадьевич": 259,
-      "Семигин Геннадий Юрьевич": 458,
-      "Чаптыков Василий Иванович": 46,
-      "Против всех": 221
+      "gas:candidate-vibid:219200066689": 173,
+      "gas:candidate-vibid:219200066695": 12,
+      "gas:candidate-vibid:1001000202284": 33,
+      "gas:candidate-vibid:1001000136007": 259,
+      "gas:candidate-vibid:1001000121805": 458,
+      "gas:candidate-vibid:1001000258381": 46,
+      "special:against-all": 221
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=192000007&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=219200066734&region=0&sub_region=0&type=429",
@@ -9282,13 +9282,13 @@ export const duma_2003_uik_428_region_19_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Кильчичакова Елена Михайловна": 125,
-      "Мустонен Александр Хейнович": 6,
-      "Сагалаков Валерий Евгеньевич": 38,
-      "Семенов Александр Геннадьевич": 341,
-      "Семигин Геннадий Юрьевич": 601,
-      "Чаптыков Василий Иванович": 61,
-      "Против всех": 256
+      "gas:candidate-vibid:219200066689": 125,
+      "gas:candidate-vibid:219200066695": 6,
+      "gas:candidate-vibid:1001000202284": 38,
+      "gas:candidate-vibid:1001000136007": 341,
+      "gas:candidate-vibid:1001000121805": 601,
+      "gas:candidate-vibid:1001000258381": 61,
+      "special:against-all": 256
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=192000007&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=219200066734&region=0&sub_region=0&type=429",
@@ -9338,13 +9338,13 @@ export const duma_2003_uik_428_region_19_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Кильчичакова Елена Михайловна": 160,
-      "Мустонен Александр Хейнович": 12,
-      "Сагалаков Валерий Евгеньевич": 44,
-      "Семенов Александр Геннадьевич": 356,
-      "Семигин Геннадий Юрьевич": 525,
-      "Чаптыков Василий Иванович": 66,
-      "Против всех": 270
+      "gas:candidate-vibid:219200066689": 160,
+      "gas:candidate-vibid:219200066695": 12,
+      "gas:candidate-vibid:1001000202284": 44,
+      "gas:candidate-vibid:1001000136007": 356,
+      "gas:candidate-vibid:1001000121805": 525,
+      "gas:candidate-vibid:1001000258381": 66,
+      "special:against-all": 270
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=192000007&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=219200066734&region=0&sub_region=0&type=429",
@@ -9394,13 +9394,13 @@ export const duma_2003_uik_428_region_19_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Кильчичакова Елена Михайловна": 50,
-      "Мустонен Александр Хейнович": 3,
-      "Сагалаков Валерий Евгеньевич": 12,
-      "Семенов Александр Геннадьевич": 31,
-      "Семигин Геннадий Юрьевич": 172,
-      "Чаптыков Василий Иванович": 15,
-      "Против всех": 28
+      "gas:candidate-vibid:219200066689": 50,
+      "gas:candidate-vibid:219200066695": 3,
+      "gas:candidate-vibid:1001000202284": 12,
+      "gas:candidate-vibid:1001000136007": 31,
+      "gas:candidate-vibid:1001000121805": 172,
+      "gas:candidate-vibid:1001000258381": 15,
+      "special:against-all": 28
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=192000008&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=219200066735&region=0&sub_region=0&type=429",
@@ -9450,13 +9450,13 @@ export const duma_2003_uik_428_region_19_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Кильчичакова Елена Михайловна": 4,
-      "Мустонен Александр Хейнович": 0,
-      "Сагалаков Валерий Евгеньевич": 2,
-      "Семенов Александр Геннадьевич": 4,
-      "Семигин Геннадий Юрьевич": 36,
-      "Чаптыков Василий Иванович": 3,
-      "Против всех": 3
+      "gas:candidate-vibid:219200066689": 4,
+      "gas:candidate-vibid:219200066695": 0,
+      "gas:candidate-vibid:1001000202284": 2,
+      "gas:candidate-vibid:1001000136007": 4,
+      "gas:candidate-vibid:1001000121805": 36,
+      "gas:candidate-vibid:1001000258381": 3,
+      "special:against-all": 3
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=192000008&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=219200066735&region=0&sub_region=0&type=429",
@@ -9506,13 +9506,13 @@ export const duma_2003_uik_428_region_19_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Кильчичакова Елена Михайловна": 61,
-      "Мустонен Александр Хейнович": 5,
-      "Сагалаков Валерий Евгеньевич": 19,
-      "Семенов Александр Геннадьевич": 65,
-      "Семигин Геннадий Юрьевич": 310,
-      "Чаптыков Василий Иванович": 22,
-      "Против всех": 37
+      "gas:candidate-vibid:219200066689": 61,
+      "gas:candidate-vibid:219200066695": 5,
+      "gas:candidate-vibid:1001000202284": 19,
+      "gas:candidate-vibid:1001000136007": 65,
+      "gas:candidate-vibid:1001000121805": 310,
+      "gas:candidate-vibid:1001000258381": 22,
+      "special:against-all": 37
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=192000008&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=219200066735&region=0&sub_region=0&type=429",
@@ -9562,13 +9562,13 @@ export const duma_2003_uik_428_region_19_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Кильчичакова Елена Михайловна": 16,
-      "Мустонен Александр Хейнович": 1,
-      "Сагалаков Валерий Евгеньевич": 4,
-      "Семенов Александр Геннадьевич": 29,
-      "Семигин Геннадий Юрьевич": 69,
-      "Чаптыков Василий Иванович": 4,
-      "Против всех": 11
+      "gas:candidate-vibid:219200066689": 16,
+      "gas:candidate-vibid:219200066695": 1,
+      "gas:candidate-vibid:1001000202284": 4,
+      "gas:candidate-vibid:1001000136007": 29,
+      "gas:candidate-vibid:1001000121805": 69,
+      "gas:candidate-vibid:1001000258381": 4,
+      "special:against-all": 11
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=192000008&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=219200066735&region=0&sub_region=0&type=429",
@@ -9618,13 +9618,13 @@ export const duma_2003_uik_428_region_19_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Кильчичакова Елена Михайловна": 13,
-      "Мустонен Александр Хейнович": 0,
-      "Сагалаков Валерий Евгеньевич": 0,
-      "Семенов Александр Геннадьевич": 3,
-      "Семигин Геннадий Юрьевич": 43,
-      "Чаптыков Василий Иванович": 3,
-      "Против всех": 1
+      "gas:candidate-vibid:219200066689": 13,
+      "gas:candidate-vibid:219200066695": 0,
+      "gas:candidate-vibid:1001000202284": 0,
+      "gas:candidate-vibid:1001000136007": 3,
+      "gas:candidate-vibid:1001000121805": 43,
+      "gas:candidate-vibid:1001000258381": 3,
+      "special:against-all": 1
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=192000008&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=219200066735&region=0&sub_region=0&type=429",
@@ -9674,13 +9674,13 @@ export const duma_2003_uik_428_region_19_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Кильчичакова Елена Михайловна": 8,
-      "Мустонен Александр Хейнович": 1,
-      "Сагалаков Валерий Евгеньевич": 4,
-      "Семенов Александр Геннадьевич": 19,
-      "Семигин Геннадий Юрьевич": 25,
-      "Чаптыков Василий Иванович": 2,
-      "Против всех": 3
+      "gas:candidate-vibid:219200066689": 8,
+      "gas:candidate-vibid:219200066695": 1,
+      "gas:candidate-vibid:1001000202284": 4,
+      "gas:candidate-vibid:1001000136007": 19,
+      "gas:candidate-vibid:1001000121805": 25,
+      "gas:candidate-vibid:1001000258381": 2,
+      "special:against-all": 3
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=192000008&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=219200066735&region=0&sub_region=0&type=429",
@@ -9730,13 +9730,13 @@ export const duma_2003_uik_428_region_19_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Кильчичакова Елена Михайловна": 60,
-      "Мустонен Александр Хейнович": 4,
-      "Сагалаков Валерий Евгеньевич": 16,
-      "Семенов Александр Геннадьевич": 122,
-      "Семигин Геннадий Юрьевич": 341,
-      "Чаптыков Василий Иванович": 24,
-      "Против всех": 88
+      "gas:candidate-vibid:219200066689": 60,
+      "gas:candidate-vibid:219200066695": 4,
+      "gas:candidate-vibid:1001000202284": 16,
+      "gas:candidate-vibid:1001000136007": 122,
+      "gas:candidate-vibid:1001000121805": 341,
+      "gas:candidate-vibid:1001000258381": 24,
+      "special:against-all": 88
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=192000008&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=219200066735&region=0&sub_region=0&type=429",
@@ -9786,13 +9786,13 @@ export const duma_2003_uik_428_region_19_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Кильчичакова Елена Михайловна": 4,
-      "Мустонен Александр Хейнович": 0,
-      "Сагалаков Валерий Евгеньевич": 1,
-      "Семенов Александр Геннадьевич": 4,
-      "Семигин Геннадий Юрьевич": 61,
-      "Чаптыков Василий Иванович": 1,
-      "Против всех": 1
+      "gas:candidate-vibid:219200066689": 4,
+      "gas:candidate-vibid:219200066695": 0,
+      "gas:candidate-vibid:1001000202284": 1,
+      "gas:candidate-vibid:1001000136007": 4,
+      "gas:candidate-vibid:1001000121805": 61,
+      "gas:candidate-vibid:1001000258381": 1,
+      "special:against-all": 1
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=192000008&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=219200066735&region=0&sub_region=0&type=429",
@@ -9842,13 +9842,13 @@ export const duma_2003_uik_428_region_19_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Кильчичакова Елена Михайловна": 5,
-      "Мустонен Александр Хейнович": 0,
-      "Сагалаков Валерий Евгеньевич": 6,
-      "Семенов Александр Геннадьевич": 22,
-      "Семигин Геннадий Юрьевич": 83,
-      "Чаптыков Василий Иванович": 1,
-      "Против всех": 22
+      "gas:candidate-vibid:219200066689": 5,
+      "gas:candidate-vibid:219200066695": 0,
+      "gas:candidate-vibid:1001000202284": 6,
+      "gas:candidate-vibid:1001000136007": 22,
+      "gas:candidate-vibid:1001000121805": 83,
+      "gas:candidate-vibid:1001000258381": 1,
+      "special:against-all": 22
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=192000008&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=219200066735&region=0&sub_region=0&type=429",
@@ -9898,13 +9898,13 @@ export const duma_2003_uik_428_region_19_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Кильчичакова Елена Михайловна": 17,
-      "Мустонен Александр Хейнович": 2,
-      "Сагалаков Валерий Евгеньевич": 4,
-      "Семенов Александр Геннадьевич": 37,
-      "Семигин Геннадий Юрьевич": 168,
-      "Чаптыков Василий Иванович": 8,
-      "Против всех": 23
+      "gas:candidate-vibid:219200066689": 17,
+      "gas:candidate-vibid:219200066695": 2,
+      "gas:candidate-vibid:1001000202284": 4,
+      "gas:candidate-vibid:1001000136007": 37,
+      "gas:candidate-vibid:1001000121805": 168,
+      "gas:candidate-vibid:1001000258381": 8,
+      "special:against-all": 23
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=192000008&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=219200066735&region=0&sub_region=0&type=429",
@@ -9954,13 +9954,13 @@ export const duma_2003_uik_428_region_19_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Кильчичакова Елена Михайловна": 10,
-      "Мустонен Александр Хейнович": 2,
-      "Сагалаков Валерий Евгеньевич": 0,
-      "Семенов Александр Геннадьевич": 14,
-      "Семигин Геннадий Юрьевич": 48,
-      "Чаптыков Василий Иванович": 1,
-      "Против всех": 10
+      "gas:candidate-vibid:219200066689": 10,
+      "gas:candidate-vibid:219200066695": 2,
+      "gas:candidate-vibid:1001000202284": 0,
+      "gas:candidate-vibid:1001000136007": 14,
+      "gas:candidate-vibid:1001000121805": 48,
+      "gas:candidate-vibid:1001000258381": 1,
+      "special:against-all": 10
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=192000008&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=219200066735&region=0&sub_region=0&type=429",
@@ -10010,13 +10010,13 @@ export const duma_2003_uik_428_region_19_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Кильчичакова Елена Михайловна": 60,
-      "Мустонен Александр Хейнович": 0,
-      "Сагалаков Валерий Евгеньевич": 17,
-      "Семенов Александр Геннадьевич": 60,
-      "Семигин Геннадий Юрьевич": 284,
-      "Чаптыков Василий Иванович": 18,
-      "Против всех": 53
+      "gas:candidate-vibid:219200066689": 60,
+      "gas:candidate-vibid:219200066695": 0,
+      "gas:candidate-vibid:1001000202284": 17,
+      "gas:candidate-vibid:1001000136007": 60,
+      "gas:candidate-vibid:1001000121805": 284,
+      "gas:candidate-vibid:1001000258381": 18,
+      "special:against-all": 53
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=192000008&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=219200066735&region=0&sub_region=0&type=429",
@@ -10066,13 +10066,13 @@ export const duma_2003_uik_428_region_19_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Кильчичакова Елена Михайловна": 3,
-      "Мустонен Александр Хейнович": 0,
-      "Сагалаков Валерий Евгеньевич": 5,
-      "Семенов Александр Геннадьевич": 5,
-      "Семигин Геннадий Юрьевич": 50,
-      "Чаптыков Василий Иванович": 2,
-      "Против всех": 9
+      "gas:candidate-vibid:219200066689": 3,
+      "gas:candidate-vibid:219200066695": 0,
+      "gas:candidate-vibid:1001000202284": 5,
+      "gas:candidate-vibid:1001000136007": 5,
+      "gas:candidate-vibid:1001000121805": 50,
+      "gas:candidate-vibid:1001000258381": 2,
+      "special:against-all": 9
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=192000008&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=219200066735&region=0&sub_region=0&type=429",
@@ -10122,13 +10122,13 @@ export const duma_2003_uik_428_region_19_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Кильчичакова Елена Михайловна": 11,
-      "Мустонен Александр Хейнович": 1,
-      "Сагалаков Валерий Евгеньевич": 3,
-      "Семенов Александр Геннадьевич": 17,
-      "Семигин Геннадий Юрьевич": 74,
-      "Чаптыков Василий Иванович": 6,
-      "Против всех": 21
+      "gas:candidate-vibid:219200066689": 11,
+      "gas:candidate-vibid:219200066695": 1,
+      "gas:candidate-vibid:1001000202284": 3,
+      "gas:candidate-vibid:1001000136007": 17,
+      "gas:candidate-vibid:1001000121805": 74,
+      "gas:candidate-vibid:1001000258381": 6,
+      "special:against-all": 21
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=192000008&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=219200066735&region=0&sub_region=0&type=429",
@@ -10178,13 +10178,13 @@ export const duma_2003_uik_428_region_19_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Кильчичакова Елена Михайловна": 9,
-      "Мустонен Александр Хейнович": 1,
-      "Сагалаков Валерий Евгеньевич": 3,
-      "Семенов Александр Геннадьевич": 9,
-      "Семигин Геннадий Юрьевич": 51,
-      "Чаптыков Василий Иванович": 1,
-      "Против всех": 9
+      "gas:candidate-vibid:219200066689": 9,
+      "gas:candidate-vibid:219200066695": 1,
+      "gas:candidate-vibid:1001000202284": 3,
+      "gas:candidate-vibid:1001000136007": 9,
+      "gas:candidate-vibid:1001000121805": 51,
+      "gas:candidate-vibid:1001000258381": 1,
+      "special:against-all": 9
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=192000008&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=219200066735&region=0&sub_region=0&type=429",
@@ -10234,13 +10234,13 @@ export const duma_2003_uik_428_region_19_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Кильчичакова Елена Михайловна": 12,
-      "Мустонен Александр Хейнович": 1,
-      "Сагалаков Валерий Евгеньевич": 8,
-      "Семенов Александр Геннадьевич": 34,
-      "Семигин Геннадий Юрьевич": 223,
-      "Чаптыков Василий Иванович": 14,
-      "Против всех": 29
+      "gas:candidate-vibid:219200066689": 12,
+      "gas:candidate-vibid:219200066695": 1,
+      "gas:candidate-vibid:1001000202284": 8,
+      "gas:candidate-vibid:1001000136007": 34,
+      "gas:candidate-vibid:1001000121805": 223,
+      "gas:candidate-vibid:1001000258381": 14,
+      "special:against-all": 29
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=192000008&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=219200066735&region=0&sub_region=0&type=429",
@@ -10290,13 +10290,13 @@ export const duma_2003_uik_428_region_19_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Кильчичакова Елена Михайловна": 1,
-      "Мустонен Александр Хейнович": 0,
-      "Сагалаков Валерий Евгеньевич": 2,
-      "Семенов Александр Геннадьевич": 3,
-      "Семигин Геннадий Юрьевич": 46,
-      "Чаптыков Василий Иванович": 1,
-      "Против всех": 19
+      "gas:candidate-vibid:219200066689": 1,
+      "gas:candidate-vibid:219200066695": 0,
+      "gas:candidate-vibid:1001000202284": 2,
+      "gas:candidate-vibid:1001000136007": 3,
+      "gas:candidate-vibid:1001000121805": 46,
+      "gas:candidate-vibid:1001000258381": 1,
+      "special:against-all": 19
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=192000008&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=219200066735&region=0&sub_region=0&type=429",
@@ -10346,13 +10346,13 @@ export const duma_2003_uik_428_region_19_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Кильчичакова Елена Михайловна": 72,
-      "Мустонен Александр Хейнович": 2,
-      "Сагалаков Валерий Евгеньевич": 19,
-      "Семенов Александр Геннадьевич": 149,
-      "Семигин Геннадий Юрьевич": 396,
-      "Чаптыков Василий Иванович": 23,
-      "Против всех": 81
+      "gas:candidate-vibid:219200066689": 72,
+      "gas:candidate-vibid:219200066695": 2,
+      "gas:candidate-vibid:1001000202284": 19,
+      "gas:candidate-vibid:1001000136007": 149,
+      "gas:candidate-vibid:1001000121805": 396,
+      "gas:candidate-vibid:1001000258381": 23,
+      "special:against-all": 81
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=192000008&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=219200066735&region=0&sub_region=0&type=429",
@@ -10402,13 +10402,13 @@ export const duma_2003_uik_428_region_19_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Кильчичакова Елена Михайловна": 84,
-      "Мустонен Александр Хейнович": 0,
-      "Сагалаков Валерий Евгеньевич": 14,
-      "Семенов Александр Геннадьевич": 159,
-      "Семигин Геннадий Юрьевич": 376,
-      "Чаптыков Василий Иванович": 31,
-      "Против всех": 83
+      "gas:candidate-vibid:219200066689": 84,
+      "gas:candidate-vibid:219200066695": 0,
+      "gas:candidate-vibid:1001000202284": 14,
+      "gas:candidate-vibid:1001000136007": 159,
+      "gas:candidate-vibid:1001000121805": 376,
+      "gas:candidate-vibid:1001000258381": 31,
+      "special:against-all": 83
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=192000008&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=219200066735&region=0&sub_region=0&type=429",
@@ -10458,13 +10458,13 @@ export const duma_2003_uik_428_region_19_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Кильчичакова Елена Михайловна": 20,
-      "Мустонен Александр Хейнович": 2,
-      "Сагалаков Валерий Евгеньевич": 10,
-      "Семенов Александр Геннадьевич": 74,
-      "Семигин Геннадий Юрьевич": 172,
-      "Чаптыков Василий Иванович": 17,
-      "Против всех": 50
+      "gas:candidate-vibid:219200066689": 20,
+      "gas:candidate-vibid:219200066695": 2,
+      "gas:candidate-vibid:1001000202284": 10,
+      "gas:candidate-vibid:1001000136007": 74,
+      "gas:candidate-vibid:1001000121805": 172,
+      "gas:candidate-vibid:1001000258381": 17,
+      "special:against-all": 50
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=192000008&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=219200066735&region=0&sub_region=0&type=429",
@@ -10514,13 +10514,13 @@ export const duma_2003_uik_428_region_19_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Кильчичакова Елена Михайловна": 0,
-      "Мустонен Александр Хейнович": 1,
-      "Сагалаков Валерий Евгеньевич": 3,
-      "Семенов Александр Геннадьевич": 13,
-      "Семигин Геннадий Юрьевич": 25,
-      "Чаптыков Василий Иванович": 4,
-      "Против всех": 15
+      "gas:candidate-vibid:219200066689": 0,
+      "gas:candidate-vibid:219200066695": 1,
+      "gas:candidate-vibid:1001000202284": 3,
+      "gas:candidate-vibid:1001000136007": 13,
+      "gas:candidate-vibid:1001000121805": 25,
+      "gas:candidate-vibid:1001000258381": 4,
+      "special:against-all": 15
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=192000008&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=219200066735&region=0&sub_region=0&type=429",
@@ -10570,13 +10570,13 @@ export const duma_2003_uik_428_region_19_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Кильчичакова Елена Михайловна": 1,
-      "Мустонен Александр Хейнович": 0,
-      "Сагалаков Валерий Евгеньевич": 0,
-      "Семенов Александр Геннадьевич": 1,
-      "Семигин Геннадий Юрьевич": 9,
-      "Чаптыков Василий Иванович": 3,
-      "Против всех": 4
+      "gas:candidate-vibid:219200066689": 1,
+      "gas:candidate-vibid:219200066695": 0,
+      "gas:candidate-vibid:1001000202284": 0,
+      "gas:candidate-vibid:1001000136007": 1,
+      "gas:candidate-vibid:1001000121805": 9,
+      "gas:candidate-vibid:1001000258381": 3,
+      "special:against-all": 4
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=192000008&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=219200066735&region=0&sub_region=0&type=429",
@@ -10626,13 +10626,13 @@ export const duma_2003_uik_428_region_19_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Кильчичакова Елена Михайловна": 20,
-      "Мустонен Александр Хейнович": 0,
-      "Сагалаков Валерий Евгеньевич": 4,
-      "Семенов Александр Геннадьевич": 95,
-      "Семигин Геннадий Юрьевич": 186,
-      "Чаптыков Василий Иванович": 7,
-      "Против всех": 25
+      "gas:candidate-vibid:219200066689": 20,
+      "gas:candidate-vibid:219200066695": 0,
+      "gas:candidate-vibid:1001000202284": 4,
+      "gas:candidate-vibid:1001000136007": 95,
+      "gas:candidate-vibid:1001000121805": 186,
+      "gas:candidate-vibid:1001000258381": 7,
+      "special:against-all": 25
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=192000008&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=219200066735&region=0&sub_region=0&type=429",
@@ -10682,13 +10682,13 @@ export const duma_2003_uik_428_region_19_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Кильчичакова Елена Михайловна": 11,
-      "Мустонен Александр Хейнович": 0,
-      "Сагалаков Валерий Евгеньевич": 0,
-      "Семенов Александр Геннадьевич": 5,
-      "Семигин Геннадий Юрьевич": 69,
-      "Чаптыков Василий Иванович": 7,
-      "Против всех": 4
+      "gas:candidate-vibid:219200066689": 11,
+      "gas:candidate-vibid:219200066695": 0,
+      "gas:candidate-vibid:1001000202284": 0,
+      "gas:candidate-vibid:1001000136007": 5,
+      "gas:candidate-vibid:1001000121805": 69,
+      "gas:candidate-vibid:1001000258381": 7,
+      "special:against-all": 4
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=192000008&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=219200066735&region=0&sub_region=0&type=429",
@@ -10738,13 +10738,13 @@ export const duma_2003_uik_428_region_19_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Кильчичакова Елена Михайловна": 3,
-      "Мустонен Александр Хейнович": 0,
-      "Сагалаков Валерий Евгеньевич": 3,
-      "Семенов Александр Геннадьевич": 9,
-      "Семигин Геннадий Юрьевич": 39,
-      "Чаптыков Василий Иванович": 0,
-      "Против всех": 7
+      "gas:candidate-vibid:219200066689": 3,
+      "gas:candidate-vibid:219200066695": 0,
+      "gas:candidate-vibid:1001000202284": 3,
+      "gas:candidate-vibid:1001000136007": 9,
+      "gas:candidate-vibid:1001000121805": 39,
+      "gas:candidate-vibid:1001000258381": 0,
+      "special:against-all": 7
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=192000008&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=219200066735&region=0&sub_region=0&type=429",
@@ -10794,13 +10794,13 @@ export const duma_2003_uik_428_region_19_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Кильчичакова Елена Михайловна": 19,
-      "Мустонен Александр Хейнович": 3,
-      "Сагалаков Валерий Евгеньевич": 10,
-      "Семенов Александр Геннадьевич": 17,
-      "Семигин Геннадий Юрьевич": 231,
-      "Чаптыков Василий Иванович": 12,
-      "Против всех": 31
+      "gas:candidate-vibid:219200066689": 19,
+      "gas:candidate-vibid:219200066695": 3,
+      "gas:candidate-vibid:1001000202284": 10,
+      "gas:candidate-vibid:1001000136007": 17,
+      "gas:candidate-vibid:1001000121805": 231,
+      "gas:candidate-vibid:1001000258381": 12,
+      "special:against-all": 31
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=192000008&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=219200066735&region=0&sub_region=0&type=429",
@@ -10850,13 +10850,13 @@ export const duma_2003_uik_428_region_19_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Кильчичакова Елена Михайловна": 9,
-      "Мустонен Александр Хейнович": 0,
-      "Сагалаков Валерий Евгеньевич": 2,
-      "Семенов Александр Геннадьевич": 57,
-      "Семигин Геннадий Юрьевич": 233,
-      "Чаптыков Василий Иванович": 6,
-      "Против всех": 25
+      "gas:candidate-vibid:219200066689": 9,
+      "gas:candidate-vibid:219200066695": 0,
+      "gas:candidate-vibid:1001000202284": 2,
+      "gas:candidate-vibid:1001000136007": 57,
+      "gas:candidate-vibid:1001000121805": 233,
+      "gas:candidate-vibid:1001000258381": 6,
+      "special:against-all": 25
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=192000008&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=219200066735&region=0&sub_region=0&type=429",
@@ -10906,13 +10906,13 @@ export const duma_2003_uik_428_region_19_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Кильчичакова Елена Михайловна": 21,
-      "Мустонен Александр Хейнович": 0,
-      "Сагалаков Валерий Евгеньевич": 8,
-      "Семенов Александр Геннадьевич": 33,
-      "Семигин Геннадий Юрьевич": 217,
-      "Чаптыков Василий Иванович": 6,
-      "Против всех": 8
+      "gas:candidate-vibid:219200066689": 21,
+      "gas:candidate-vibid:219200066695": 0,
+      "gas:candidate-vibid:1001000202284": 8,
+      "gas:candidate-vibid:1001000136007": 33,
+      "gas:candidate-vibid:1001000121805": 217,
+      "gas:candidate-vibid:1001000258381": 6,
+      "special:against-all": 8
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=192000009&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=219200066736&region=0&sub_region=0&type=429",
@@ -10962,13 +10962,13 @@ export const duma_2003_uik_428_region_19_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Кильчичакова Елена Михайловна": 12,
-      "Мустонен Александр Хейнович": 0,
-      "Сагалаков Валерий Евгеньевич": 6,
-      "Семенов Александр Геннадьевич": 9,
-      "Семигин Геннадий Юрьевич": 108,
-      "Чаптыков Василий Иванович": 17,
-      "Против всех": 0
+      "gas:candidate-vibid:219200066689": 12,
+      "gas:candidate-vibid:219200066695": 0,
+      "gas:candidate-vibid:1001000202284": 6,
+      "gas:candidate-vibid:1001000136007": 9,
+      "gas:candidate-vibid:1001000121805": 108,
+      "gas:candidate-vibid:1001000258381": 17,
+      "special:against-all": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=192000009&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=219200066736&region=0&sub_region=0&type=429",
@@ -11018,13 +11018,13 @@ export const duma_2003_uik_428_region_19_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Кильчичакова Елена Михайловна": 17,
-      "Мустонен Александр Хейнович": 0,
-      "Сагалаков Валерий Евгеньевич": 15,
-      "Семенов Александр Геннадьевич": 4,
-      "Семигин Геннадий Юрьевич": 63,
-      "Чаптыков Василий Иванович": 8,
-      "Против всех": 2
+      "gas:candidate-vibid:219200066689": 17,
+      "gas:candidate-vibid:219200066695": 0,
+      "gas:candidate-vibid:1001000202284": 15,
+      "gas:candidate-vibid:1001000136007": 4,
+      "gas:candidate-vibid:1001000121805": 63,
+      "gas:candidate-vibid:1001000258381": 8,
+      "special:against-all": 2
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=192000009&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=219200066736&region=0&sub_region=0&type=429",
@@ -11074,13 +11074,13 @@ export const duma_2003_uik_428_region_19_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Кильчичакова Елена Михайловна": 77,
-      "Мустонен Александр Хейнович": 1,
-      "Сагалаков Валерий Евгеньевич": 16,
-      "Семенов Александр Геннадьевич": 167,
-      "Семигин Геннадий Юрьевич": 353,
-      "Чаптыков Василий Иванович": 18,
-      "Против всех": 54
+      "gas:candidate-vibid:219200066689": 77,
+      "gas:candidate-vibid:219200066695": 1,
+      "gas:candidate-vibid:1001000202284": 16,
+      "gas:candidate-vibid:1001000136007": 167,
+      "gas:candidate-vibid:1001000121805": 353,
+      "gas:candidate-vibid:1001000258381": 18,
+      "special:against-all": 54
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=192000009&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=219200066736&region=0&sub_region=0&type=429",
@@ -11130,13 +11130,13 @@ export const duma_2003_uik_428_region_19_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Кильчичакова Елена Михайловна": 38,
-      "Мустонен Александр Хейнович": 0,
-      "Сагалаков Валерий Евгеньевич": 4,
-      "Семенов Александр Геннадьевич": 3,
-      "Семигин Геннадий Юрьевич": 104,
-      "Чаптыков Василий Иванович": 3,
-      "Против всех": 1
+      "gas:candidate-vibid:219200066689": 38,
+      "gas:candidate-vibid:219200066695": 0,
+      "gas:candidate-vibid:1001000202284": 4,
+      "gas:candidate-vibid:1001000136007": 3,
+      "gas:candidate-vibid:1001000121805": 104,
+      "gas:candidate-vibid:1001000258381": 3,
+      "special:against-all": 1
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=192000009&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=219200066736&region=0&sub_region=0&type=429",
@@ -11186,13 +11186,13 @@ export const duma_2003_uik_428_region_19_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Кильчичакова Елена Михайловна": 9,
-      "Мустонен Александр Хейнович": 3,
-      "Сагалаков Валерий Евгеньевич": 1,
-      "Семенов Александр Геннадьевич": 22,
-      "Семигин Геннадий Юрьевич": 105,
-      "Чаптыков Василий Иванович": 1,
-      "Против всех": 1
+      "gas:candidate-vibid:219200066689": 9,
+      "gas:candidate-vibid:219200066695": 3,
+      "gas:candidate-vibid:1001000202284": 1,
+      "gas:candidate-vibid:1001000136007": 22,
+      "gas:candidate-vibid:1001000121805": 105,
+      "gas:candidate-vibid:1001000258381": 1,
+      "special:against-all": 1
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=192000009&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=219200066736&region=0&sub_region=0&type=429",
@@ -11242,13 +11242,13 @@ export const duma_2003_uik_428_region_19_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Кильчичакова Елена Михайловна": 96,
-      "Мустонен Александр Хейнович": 4,
-      "Сагалаков Валерий Евгеньевич": 5,
-      "Семенов Александр Геннадьевич": 93,
-      "Семигин Геннадий Юрьевич": 262,
-      "Чаптыков Василий Иванович": 12,
-      "Против всех": 51
+      "gas:candidate-vibid:219200066689": 96,
+      "gas:candidate-vibid:219200066695": 4,
+      "gas:candidate-vibid:1001000202284": 5,
+      "gas:candidate-vibid:1001000136007": 93,
+      "gas:candidate-vibid:1001000121805": 262,
+      "gas:candidate-vibid:1001000258381": 12,
+      "special:against-all": 51
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=192000009&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=219200066736&region=0&sub_region=0&type=429",
@@ -11298,13 +11298,13 @@ export const duma_2003_uik_428_region_19_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Кильчичакова Елена Михайловна": 27,
-      "Мустонен Александр Хейнович": 0,
-      "Сагалаков Валерий Евгеньевич": 1,
-      "Семенов Александр Геннадьевич": 35,
-      "Семигин Геннадий Юрьевич": 122,
-      "Чаптыков Василий Иванович": 9,
-      "Против всех": 17
+      "gas:candidate-vibid:219200066689": 27,
+      "gas:candidate-vibid:219200066695": 0,
+      "gas:candidate-vibid:1001000202284": 1,
+      "gas:candidate-vibid:1001000136007": 35,
+      "gas:candidate-vibid:1001000121805": 122,
+      "gas:candidate-vibid:1001000258381": 9,
+      "special:against-all": 17
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=192000009&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=219200066736&region=0&sub_region=0&type=429",
@@ -11354,13 +11354,13 @@ export const duma_2003_uik_428_region_19_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Кильчичакова Елена Михайловна": 18,
-      "Мустонен Александр Хейнович": 0,
-      "Сагалаков Валерий Евгеньевич": 0,
-      "Семенов Александр Геннадьевич": 2,
-      "Семигин Геннадий Юрьевич": 108,
-      "Чаптыков Василий Иванович": 6,
-      "Против всех": 2
+      "gas:candidate-vibid:219200066689": 18,
+      "gas:candidate-vibid:219200066695": 0,
+      "gas:candidate-vibid:1001000202284": 0,
+      "gas:candidate-vibid:1001000136007": 2,
+      "gas:candidate-vibid:1001000121805": 108,
+      "gas:candidate-vibid:1001000258381": 6,
+      "special:against-all": 2
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=192000009&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=219200066736&region=0&sub_region=0&type=429",
@@ -11410,13 +11410,13 @@ export const duma_2003_uik_428_region_19_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Кильчичакова Елена Михайловна": 62,
-      "Мустонен Александр Хейнович": 3,
-      "Сагалаков Валерий Евгеньевич": 6,
-      "Семенов Александр Геннадьевич": 205,
-      "Семигин Геннадий Юрьевич": 638,
-      "Чаптыков Василий Иванович": 36,
-      "Против всех": 111
+      "gas:candidate-vibid:219200066689": 62,
+      "gas:candidate-vibid:219200066695": 3,
+      "gas:candidate-vibid:1001000202284": 6,
+      "gas:candidate-vibid:1001000136007": 205,
+      "gas:candidate-vibid:1001000121805": 638,
+      "gas:candidate-vibid:1001000258381": 36,
+      "special:against-all": 111
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=192000009&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=219200066736&region=0&sub_region=0&type=429",
@@ -11466,13 +11466,13 @@ export const duma_2003_uik_428_region_19_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Кильчичакова Елена Михайловна": 33,
-      "Мустонен Александр Хейнович": 2,
-      "Сагалаков Валерий Евгеньевич": 7,
-      "Семенов Александр Геннадьевич": 79,
-      "Семигин Геннадий Юрьевич": 355,
-      "Чаптыков Василий Иванович": 19,
-      "Против всех": 54
+      "gas:candidate-vibid:219200066689": 33,
+      "gas:candidate-vibid:219200066695": 2,
+      "gas:candidate-vibid:1001000202284": 7,
+      "gas:candidate-vibid:1001000136007": 79,
+      "gas:candidate-vibid:1001000121805": 355,
+      "gas:candidate-vibid:1001000258381": 19,
+      "special:against-all": 54
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=192000009&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=219200066736&region=0&sub_region=0&type=429",
@@ -11522,13 +11522,13 @@ export const duma_2003_uik_428_region_19_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Кильчичакова Елена Михайловна": 27,
-      "Мустонен Александр Хейнович": 0,
-      "Сагалаков Валерий Евгеньевич": 13,
-      "Семенов Александр Геннадьевич": 107,
-      "Семигин Геннадий Юрьевич": 344,
-      "Чаптыков Василий Иванович": 6,
-      "Против всех": 38
+      "gas:candidate-vibid:219200066689": 27,
+      "gas:candidate-vibid:219200066695": 0,
+      "gas:candidate-vibid:1001000202284": 13,
+      "gas:candidate-vibid:1001000136007": 107,
+      "gas:candidate-vibid:1001000121805": 344,
+      "gas:candidate-vibid:1001000258381": 6,
+      "special:against-all": 38
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=192000009&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=219200066736&region=0&sub_region=0&type=429",
@@ -11578,13 +11578,13 @@ export const duma_2003_uik_428_region_19_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Кильчичакова Елена Михайловна": 6,
-      "Мустонен Александр Хейнович": 0,
-      "Сагалаков Валерий Евгеньевич": 2,
-      "Семенов Александр Геннадьевич": 6,
-      "Семигин Геннадий Юрьевич": 43,
-      "Чаптыков Василий Иванович": 2,
-      "Против всех": 6
+      "gas:candidate-vibid:219200066689": 6,
+      "gas:candidate-vibid:219200066695": 0,
+      "gas:candidate-vibid:1001000202284": 2,
+      "gas:candidate-vibid:1001000136007": 6,
+      "gas:candidate-vibid:1001000121805": 43,
+      "gas:candidate-vibid:1001000258381": 2,
+      "special:against-all": 6
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=192000009&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=219200066736&region=0&sub_region=0&type=429",
@@ -11634,13 +11634,13 @@ export const duma_2003_uik_428_region_19_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Кильчичакова Елена Михайловна": 46,
-      "Мустонен Александр Хейнович": 0,
-      "Сагалаков Валерий Евгеньевич": 3,
-      "Семенов Александр Геннадьевич": 10,
-      "Семигин Геннадий Юрьевич": 118,
-      "Чаптыков Василий Иванович": 48,
-      "Против всех": 10
+      "gas:candidate-vibid:219200066689": 46,
+      "gas:candidate-vibid:219200066695": 0,
+      "gas:candidate-vibid:1001000202284": 3,
+      "gas:candidate-vibid:1001000136007": 10,
+      "gas:candidate-vibid:1001000121805": 118,
+      "gas:candidate-vibid:1001000258381": 48,
+      "special:against-all": 10
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=192000009&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=219200066736&region=0&sub_region=0&type=429",
@@ -11690,13 +11690,13 @@ export const duma_2003_uik_428_region_19_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Кильчичакова Елена Михайловна": 12,
-      "Мустонен Александр Хейнович": 0,
-      "Сагалаков Валерий Евгеньевич": 2,
-      "Семенов Александр Геннадьевич": 6,
-      "Семигин Геннадий Юрьевич": 54,
-      "Чаптыков Василий Иванович": 18,
-      "Против всех": 2
+      "gas:candidate-vibid:219200066689": 12,
+      "gas:candidate-vibid:219200066695": 0,
+      "gas:candidate-vibid:1001000202284": 2,
+      "gas:candidate-vibid:1001000136007": 6,
+      "gas:candidate-vibid:1001000121805": 54,
+      "gas:candidate-vibid:1001000258381": 18,
+      "special:against-all": 2
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=192000009&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=219200066736&region=0&sub_region=0&type=429",
@@ -11746,13 +11746,13 @@ export const duma_2003_uik_428_region_19_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Кильчичакова Елена Михайловна": 24,
-      "Мустонен Александр Хейнович": 0,
-      "Сагалаков Валерий Евгеньевич": 1,
-      "Семенов Александр Геннадьевич": 13,
-      "Семигин Геннадий Юрьевич": 64,
-      "Чаптыков Василий Иванович": 13,
-      "Против всех": 7
+      "gas:candidate-vibid:219200066689": 24,
+      "gas:candidate-vibid:219200066695": 0,
+      "gas:candidate-vibid:1001000202284": 1,
+      "gas:candidate-vibid:1001000136007": 13,
+      "gas:candidate-vibid:1001000121805": 64,
+      "gas:candidate-vibid:1001000258381": 13,
+      "special:against-all": 7
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=192000009&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=219200066736&region=0&sub_region=0&type=429",
@@ -11802,13 +11802,13 @@ export const duma_2003_uik_428_region_19_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Кильчичакова Елена Михайловна": 29,
-      "Мустонен Александр Хейнович": 0,
-      "Сагалаков Валерий Евгеньевич": 1,
-      "Семенов Александр Геннадьевич": 5,
-      "Семигин Геннадий Юрьевич": 68,
-      "Чаптыков Василий Иванович": 16,
-      "Против всех": 2
+      "gas:candidate-vibid:219200066689": 29,
+      "gas:candidate-vibid:219200066695": 0,
+      "gas:candidate-vibid:1001000202284": 1,
+      "gas:candidate-vibid:1001000136007": 5,
+      "gas:candidate-vibid:1001000121805": 68,
+      "gas:candidate-vibid:1001000258381": 16,
+      "special:against-all": 2
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=192000009&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=219200066736&region=0&sub_region=0&type=429",
@@ -11858,13 +11858,13 @@ export const duma_2003_uik_428_region_19_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Кильчичакова Елена Михайловна": 9,
-      "Мустонен Александр Хейнович": 0,
-      "Сагалаков Валерий Евгеньевич": 6,
-      "Семенов Александр Геннадьевич": 6,
-      "Семигин Геннадий Юрьевич": 63,
-      "Чаптыков Василий Иванович": 4,
-      "Против всех": 4
+      "gas:candidate-vibid:219200066689": 9,
+      "gas:candidate-vibid:219200066695": 0,
+      "gas:candidate-vibid:1001000202284": 6,
+      "gas:candidate-vibid:1001000136007": 6,
+      "gas:candidate-vibid:1001000121805": 63,
+      "gas:candidate-vibid:1001000258381": 4,
+      "special:against-all": 4
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=192000009&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=219200066736&region=0&sub_region=0&type=429",
@@ -11914,13 +11914,13 @@ export const duma_2003_uik_428_region_19_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Кильчичакова Елена Михайловна": 21,
-      "Мустонен Александр Хейнович": 1,
-      "Сагалаков Валерий Евгеньевич": 7,
-      "Семенов Александр Геннадьевич": 41,
-      "Семигин Геннадий Юрьевич": 226,
-      "Чаптыков Василий Иванович": 8,
-      "Против всех": 27
+      "gas:candidate-vibid:219200066689": 21,
+      "gas:candidate-vibid:219200066695": 1,
+      "gas:candidate-vibid:1001000202284": 7,
+      "gas:candidate-vibid:1001000136007": 41,
+      "gas:candidate-vibid:1001000121805": 226,
+      "gas:candidate-vibid:1001000258381": 8,
+      "special:against-all": 27
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=192000009&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=219200066736&region=0&sub_region=0&type=429",
@@ -11970,13 +11970,13 @@ export const duma_2003_uik_428_region_19_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Кильчичакова Елена Михайловна": 45,
-      "Мустонен Александр Хейнович": 3,
-      "Сагалаков Валерий Евгеньевич": 13,
-      "Семенов Александр Геннадьевич": 104,
-      "Семигин Геннадий Юрьевич": 260,
-      "Чаптыков Василий Иванович": 31,
-      "Против всех": 52
+      "gas:candidate-vibid:219200066689": 45,
+      "gas:candidate-vibid:219200066695": 3,
+      "gas:candidate-vibid:1001000202284": 13,
+      "gas:candidate-vibid:1001000136007": 104,
+      "gas:candidate-vibid:1001000121805": 260,
+      "gas:candidate-vibid:1001000258381": 31,
+      "special:against-all": 52
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=192000009&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=219200066736&region=0&sub_region=0&type=429",
@@ -12026,13 +12026,13 @@ export const duma_2003_uik_428_region_19_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Кильчичакова Елена Михайловна": 28,
-      "Мустонен Александр Хейнович": 3,
-      "Сагалаков Валерий Евгеньевич": 11,
-      "Семенов Александр Геннадьевич": 51,
-      "Семигин Геннадий Юрьевич": 274,
-      "Чаптыков Василий Иванович": 14,
-      "Против всех": 25
+      "gas:candidate-vibid:219200066689": 28,
+      "gas:candidate-vibid:219200066695": 3,
+      "gas:candidate-vibid:1001000202284": 11,
+      "gas:candidate-vibid:1001000136007": 51,
+      "gas:candidate-vibid:1001000121805": 274,
+      "gas:candidate-vibid:1001000258381": 14,
+      "special:against-all": 25
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=192000009&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=219200066736&region=0&sub_region=0&type=429",
@@ -12082,13 +12082,13 @@ export const duma_2003_uik_428_region_19_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Кильчичакова Елена Михайловна": 32,
-      "Мустонен Александр Хейнович": 1,
-      "Сагалаков Валерий Евгеньевич": 13,
-      "Семенов Александр Геннадьевич": 58,
-      "Семигин Геннадий Юрьевич": 253,
-      "Чаптыков Василий Иванович": 17,
-      "Против всех": 79
+      "gas:candidate-vibid:219200066689": 32,
+      "gas:candidate-vibid:219200066695": 1,
+      "gas:candidate-vibid:1001000202284": 13,
+      "gas:candidate-vibid:1001000136007": 58,
+      "gas:candidate-vibid:1001000121805": 253,
+      "gas:candidate-vibid:1001000258381": 17,
+      "special:against-all": 79
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=192000009&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=219200066736&region=0&sub_region=0&type=429",
@@ -12138,13 +12138,13 @@ export const duma_2003_uik_428_region_19_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Кильчичакова Елена Михайловна": 30,
-      "Мустонен Александр Хейнович": 0,
-      "Сагалаков Валерий Евгеньевич": 7,
-      "Семенов Александр Геннадьевич": 35,
-      "Семигин Геннадий Юрьевич": 178,
-      "Чаптыков Василий Иванович": 3,
-      "Против всех": 23
+      "gas:candidate-vibid:219200066689": 30,
+      "gas:candidate-vibid:219200066695": 0,
+      "gas:candidate-vibid:1001000202284": 7,
+      "gas:candidate-vibid:1001000136007": 35,
+      "gas:candidate-vibid:1001000121805": 178,
+      "gas:candidate-vibid:1001000258381": 3,
+      "special:against-all": 23
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=192000009&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=219200066736&region=0&sub_region=0&type=429",
@@ -12194,13 +12194,13 @@ export const duma_2003_uik_428_region_19_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Кильчичакова Елена Михайловна": 5,
-      "Мустонен Александр Хейнович": 0,
-      "Сагалаков Валерий Евгеньевич": 1,
-      "Семенов Александр Геннадьевич": 4,
-      "Семигин Геннадий Юрьевич": 57,
-      "Чаптыков Василий Иванович": 4,
-      "Против всех": 1
+      "gas:candidate-vibid:219200066689": 5,
+      "gas:candidate-vibid:219200066695": 0,
+      "gas:candidate-vibid:1001000202284": 1,
+      "gas:candidate-vibid:1001000136007": 4,
+      "gas:candidate-vibid:1001000121805": 57,
+      "gas:candidate-vibid:1001000258381": 4,
+      "special:against-all": 1
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=192000009&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=219200066736&region=0&sub_region=0&type=429",
@@ -12250,13 +12250,13 @@ export const duma_2003_uik_428_region_19_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Кильчичакова Елена Михайловна": 20,
-      "Мустонен Александр Хейнович": 3,
-      "Сагалаков Валерий Евгеньевич": 10,
-      "Семенов Александр Геннадьевич": 57,
-      "Семигин Геннадий Юрьевич": 269,
-      "Чаптыков Василий Иванович": 11,
-      "Против всех": 36
+      "gas:candidate-vibid:219200066689": 20,
+      "gas:candidate-vibid:219200066695": 3,
+      "gas:candidate-vibid:1001000202284": 10,
+      "gas:candidate-vibid:1001000136007": 57,
+      "gas:candidate-vibid:1001000121805": 269,
+      "gas:candidate-vibid:1001000258381": 11,
+      "special:against-all": 36
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=192000009&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=219200066736&region=0&sub_region=0&type=429",
@@ -12306,13 +12306,13 @@ export const duma_2003_uik_428_region_19_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Кильчичакова Елена Михайловна": 15,
-      "Мустонен Александр Хейнович": 2,
-      "Сагалаков Валерий Евгеньевич": 3,
-      "Семенов Александр Геннадьевич": 34,
-      "Семигин Геннадий Юрьевич": 188,
-      "Чаптыков Василий Иванович": 3,
-      "Против всех": 20
+      "gas:candidate-vibid:219200066689": 15,
+      "gas:candidate-vibid:219200066695": 2,
+      "gas:candidate-vibid:1001000202284": 3,
+      "gas:candidate-vibid:1001000136007": 34,
+      "gas:candidate-vibid:1001000121805": 188,
+      "gas:candidate-vibid:1001000258381": 3,
+      "special:against-all": 20
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=192000009&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=219200066736&region=0&sub_region=0&type=429",
@@ -12362,13 +12362,13 @@ export const duma_2003_uik_428_region_19_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Кильчичакова Елена Михайловна": 3,
-      "Мустонен Александр Хейнович": 1,
-      "Сагалаков Валерий Евгеньевич": 1,
-      "Семенов Александр Геннадьевич": 9,
-      "Семигин Геннадий Юрьевич": 52,
-      "Чаптыков Василий Иванович": 5,
-      "Против всех": 4
+      "gas:candidate-vibid:219200066689": 3,
+      "gas:candidate-vibid:219200066695": 1,
+      "gas:candidate-vibid:1001000202284": 1,
+      "gas:candidate-vibid:1001000136007": 9,
+      "gas:candidate-vibid:1001000121805": 52,
+      "gas:candidate-vibid:1001000258381": 5,
+      "special:against-all": 4
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=192000009&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=219200066736&region=0&sub_region=0&type=429",
@@ -12418,13 +12418,13 @@ export const duma_2003_uik_428_region_19_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Кильчичакова Елена Михайловна": 76,
-      "Мустонен Александр Хейнович": 4,
-      "Сагалаков Валерий Евгеньевич": 17,
-      "Семенов Александр Геннадьевич": 162,
-      "Семигин Геннадий Юрьевич": 294,
-      "Чаптыков Василий Иванович": 30,
-      "Против всех": 91
+      "gas:candidate-vibid:219200066689": 76,
+      "gas:candidate-vibid:219200066695": 4,
+      "gas:candidate-vibid:1001000202284": 17,
+      "gas:candidate-vibid:1001000136007": 162,
+      "gas:candidate-vibid:1001000121805": 294,
+      "gas:candidate-vibid:1001000258381": 30,
+      "special:against-all": 91
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=192000010&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=219200066737&region=0&sub_region=0&type=429",
@@ -12474,13 +12474,13 @@ export const duma_2003_uik_428_region_19_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Кильчичакова Елена Михайловна": 77,
-      "Мустонен Александр Хейнович": 8,
-      "Сагалаков Валерий Евгеньевич": 25,
-      "Семенов Александр Геннадьевич": 151,
-      "Семигин Геннадий Юрьевич": 353,
-      "Чаптыков Василий Иванович": 40,
-      "Против всех": 139
+      "gas:candidate-vibid:219200066689": 77,
+      "gas:candidate-vibid:219200066695": 8,
+      "gas:candidate-vibid:1001000202284": 25,
+      "gas:candidate-vibid:1001000136007": 151,
+      "gas:candidate-vibid:1001000121805": 353,
+      "gas:candidate-vibid:1001000258381": 40,
+      "special:against-all": 139
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=192000010&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=219200066737&region=0&sub_region=0&type=429",
@@ -12530,13 +12530,13 @@ export const duma_2003_uik_428_region_19_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Кильчичакова Елена Михайловна": 17,
-      "Мустонен Александр Хейнович": 3,
-      "Сагалаков Валерий Евгеньевич": 8,
-      "Семенов Александр Геннадьевич": 43,
-      "Семигин Геннадий Юрьевич": 59,
-      "Чаптыков Василий Иванович": 10,
-      "Против всех": 36
+      "gas:candidate-vibid:219200066689": 17,
+      "gas:candidate-vibid:219200066695": 3,
+      "gas:candidate-vibid:1001000202284": 8,
+      "gas:candidate-vibid:1001000136007": 43,
+      "gas:candidate-vibid:1001000121805": 59,
+      "gas:candidate-vibid:1001000258381": 10,
+      "special:against-all": 36
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=192000010&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=219200066737&region=0&sub_region=0&type=429",
@@ -12586,13 +12586,13 @@ export const duma_2003_uik_428_region_19_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Кильчичакова Елена Михайловна": 40,
-      "Мустонен Александр Хейнович": 1,
-      "Сагалаков Валерий Евгеньевич": 7,
-      "Семенов Александр Геннадьевич": 81,
-      "Семигин Геннадий Юрьевич": 129,
-      "Чаптыков Василий Иванович": 17,
-      "Против всех": 37
+      "gas:candidate-vibid:219200066689": 40,
+      "gas:candidate-vibid:219200066695": 1,
+      "gas:candidate-vibid:1001000202284": 7,
+      "gas:candidate-vibid:1001000136007": 81,
+      "gas:candidate-vibid:1001000121805": 129,
+      "gas:candidate-vibid:1001000258381": 17,
+      "special:against-all": 37
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=192000010&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=219200066737&region=0&sub_region=0&type=429",
@@ -12642,13 +12642,13 @@ export const duma_2003_uik_428_region_19_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Кильчичакова Елена Михайловна": 29,
-      "Мустонен Александр Хейнович": 1,
-      "Сагалаков Валерий Евгеньевич": 4,
-      "Семенов Александр Геннадьевич": 29,
-      "Семигин Геннадий Юрьевич": 56,
-      "Чаптыков Василий Иванович": 9,
-      "Против всех": 9
+      "gas:candidate-vibid:219200066689": 29,
+      "gas:candidate-vibid:219200066695": 1,
+      "gas:candidate-vibid:1001000202284": 4,
+      "gas:candidate-vibid:1001000136007": 29,
+      "gas:candidate-vibid:1001000121805": 56,
+      "gas:candidate-vibid:1001000258381": 9,
+      "special:against-all": 9
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=192000010&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=219200066737&region=0&sub_region=0&type=429",
@@ -12698,13 +12698,13 @@ export const duma_2003_uik_428_region_19_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Кильчичакова Елена Михайловна": 5,
-      "Мустонен Александр Хейнович": 0,
-      "Сагалаков Валерий Евгеньевич": 3,
-      "Семенов Александр Геннадьевич": 19,
-      "Семигин Геннадий Юрьевич": 45,
-      "Чаптыков Василий Иванович": 2,
-      "Против всех": 8
+      "gas:candidate-vibid:219200066689": 5,
+      "gas:candidate-vibid:219200066695": 0,
+      "gas:candidate-vibid:1001000202284": 3,
+      "gas:candidate-vibid:1001000136007": 19,
+      "gas:candidate-vibid:1001000121805": 45,
+      "gas:candidate-vibid:1001000258381": 2,
+      "special:against-all": 8
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=192000010&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=219200066737&region=0&sub_region=0&type=429",
@@ -12754,13 +12754,13 @@ export const duma_2003_uik_428_region_19_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Кильчичакова Елена Михайловна": 37,
-      "Мустонен Александр Хейнович": 5,
-      "Сагалаков Валерий Евгеньевич": 20,
-      "Семенов Александр Геннадьевич": 84,
-      "Семигин Геннадий Юрьевич": 305,
-      "Чаптыков Василий Иванович": 11,
-      "Против всех": 43
+      "gas:candidate-vibid:219200066689": 37,
+      "gas:candidate-vibid:219200066695": 5,
+      "gas:candidate-vibid:1001000202284": 20,
+      "gas:candidate-vibid:1001000136007": 84,
+      "gas:candidate-vibid:1001000121805": 305,
+      "gas:candidate-vibid:1001000258381": 11,
+      "special:against-all": 43
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=192000010&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=219200066737&region=0&sub_region=0&type=429",
@@ -12810,13 +12810,13 @@ export const duma_2003_uik_428_region_19_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Кильчичакова Елена Михайловна": 16,
-      "Мустонен Александр Хейнович": 1,
-      "Сагалаков Валерий Евгеньевич": 3,
-      "Семенов Александр Геннадьевич": 7,
-      "Семигин Геннадий Юрьевич": 56,
-      "Чаптыков Василий Иванович": 20,
-      "Против всех": 11
+      "gas:candidate-vibid:219200066689": 16,
+      "gas:candidate-vibid:219200066695": 1,
+      "gas:candidate-vibid:1001000202284": 3,
+      "gas:candidate-vibid:1001000136007": 7,
+      "gas:candidate-vibid:1001000121805": 56,
+      "gas:candidate-vibid:1001000258381": 20,
+      "special:against-all": 11
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=192000010&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=219200066737&region=0&sub_region=0&type=429",
@@ -12866,13 +12866,13 @@ export const duma_2003_uik_428_region_19_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Кильчичакова Елена Михайловна": 5,
-      "Мустонен Александр Хейнович": 1,
-      "Сагалаков Валерий Евгеньевич": 1,
-      "Семенов Александр Геннадьевич": 10,
-      "Семигин Геннадий Юрьевич": 95,
-      "Чаптыков Василий Иванович": 4,
-      "Против всех": 6
+      "gas:candidate-vibid:219200066689": 5,
+      "gas:candidate-vibid:219200066695": 1,
+      "gas:candidate-vibid:1001000202284": 1,
+      "gas:candidate-vibid:1001000136007": 10,
+      "gas:candidate-vibid:1001000121805": 95,
+      "gas:candidate-vibid:1001000258381": 4,
+      "special:against-all": 6
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=192000010&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=219200066737&region=0&sub_region=0&type=429",
@@ -12922,13 +12922,13 @@ export const duma_2003_uik_428_region_19_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Кильчичакова Елена Михайловна": 7,
-      "Мустонен Александр Хейнович": 0,
-      "Сагалаков Валерий Евгеньевич": 1,
-      "Семенов Александр Геннадьевич": 8,
-      "Семигин Геннадий Юрьевич": 33,
-      "Чаптыков Василий Иванович": 13,
-      "Против всех": 12
+      "gas:candidate-vibid:219200066689": 7,
+      "gas:candidate-vibid:219200066695": 0,
+      "gas:candidate-vibid:1001000202284": 1,
+      "gas:candidate-vibid:1001000136007": 8,
+      "gas:candidate-vibid:1001000121805": 33,
+      "gas:candidate-vibid:1001000258381": 13,
+      "special:against-all": 12
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=192000010&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=219200066737&region=0&sub_region=0&type=429",
@@ -12978,13 +12978,13 @@ export const duma_2003_uik_428_region_19_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Кильчичакова Елена Михайловна": 17,
-      "Мустонен Александр Хейнович": 0,
-      "Сагалаков Валерий Евгеньевич": 6,
-      "Семенов Александр Геннадьевич": 19,
-      "Семигин Геннадий Юрьевич": 117,
-      "Чаптыков Василий Иванович": 5,
-      "Против всех": 6
+      "gas:candidate-vibid:219200066689": 17,
+      "gas:candidate-vibid:219200066695": 0,
+      "gas:candidate-vibid:1001000202284": 6,
+      "gas:candidate-vibid:1001000136007": 19,
+      "gas:candidate-vibid:1001000121805": 117,
+      "gas:candidate-vibid:1001000258381": 5,
+      "special:against-all": 6
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=192000010&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=219200066737&region=0&sub_region=0&type=429",
@@ -13034,13 +13034,13 @@ export const duma_2003_uik_428_region_19_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Кильчичакова Елена Михайловна": 76,
-      "Мустонен Александр Хейнович": 7,
-      "Сагалаков Валерий Евгеньевич": 17,
-      "Семенов Александр Геннадьевич": 51,
-      "Семигин Геннадий Юрьевич": 197,
-      "Чаптыков Василий Иванович": 33,
-      "Против всех": 35
+      "gas:candidate-vibid:219200066689": 76,
+      "gas:candidate-vibid:219200066695": 7,
+      "gas:candidate-vibid:1001000202284": 17,
+      "gas:candidate-vibid:1001000136007": 51,
+      "gas:candidate-vibid:1001000121805": 197,
+      "gas:candidate-vibid:1001000258381": 33,
+      "special:against-all": 35
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=192000010&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=219200066737&region=0&sub_region=0&type=429",
@@ -13090,13 +13090,13 @@ export const duma_2003_uik_428_region_19_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Кильчичакова Елена Михайловна": 33,
-      "Мустонен Александр Хейнович": 0,
-      "Сагалаков Валерий Евгеньевич": 0,
-      "Семенов Александр Геннадьевич": 9,
-      "Семигин Геннадий Юрьевич": 28,
-      "Чаптыков Василий Иванович": 10,
-      "Против всех": 4
+      "gas:candidate-vibid:219200066689": 33,
+      "gas:candidate-vibid:219200066695": 0,
+      "gas:candidate-vibid:1001000202284": 0,
+      "gas:candidate-vibid:1001000136007": 9,
+      "gas:candidate-vibid:1001000121805": 28,
+      "gas:candidate-vibid:1001000258381": 10,
+      "special:against-all": 4
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=192000010&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=219200066737&region=0&sub_region=0&type=429",
@@ -13146,13 +13146,13 @@ export const duma_2003_uik_428_region_19_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Кильчичакова Елена Михайловна": 13,
-      "Мустонен Александр Хейнович": 0,
-      "Сагалаков Валерий Евгеньевич": 3,
-      "Семенов Александр Геннадьевич": 1,
-      "Семигин Геннадий Юрьевич": 41,
-      "Чаптыков Василий Иванович": 6,
-      "Против всех": 1
+      "gas:candidate-vibid:219200066689": 13,
+      "gas:candidate-vibid:219200066695": 0,
+      "gas:candidate-vibid:1001000202284": 3,
+      "gas:candidate-vibid:1001000136007": 1,
+      "gas:candidate-vibid:1001000121805": 41,
+      "gas:candidate-vibid:1001000258381": 6,
+      "special:against-all": 1
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=192000010&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=219200066737&region=0&sub_region=0&type=429",
@@ -13202,13 +13202,13 @@ export const duma_2003_uik_428_region_19_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Кильчичакова Елена Михайловна": 7,
-      "Мустонен Александр Хейнович": 0,
-      "Сагалаков Валерий Евгеньевич": 0,
-      "Семенов Александр Геннадьевич": 36,
-      "Семигин Геннадий Юрьевич": 85,
-      "Чаптыков Василий Иванович": 1,
-      "Против всех": 6
+      "gas:candidate-vibid:219200066689": 7,
+      "gas:candidate-vibid:219200066695": 0,
+      "gas:candidate-vibid:1001000202284": 0,
+      "gas:candidate-vibid:1001000136007": 36,
+      "gas:candidate-vibid:1001000121805": 85,
+      "gas:candidate-vibid:1001000258381": 1,
+      "special:against-all": 6
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=192000010&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=219200066737&region=0&sub_region=0&type=429",
@@ -13258,13 +13258,13 @@ export const duma_2003_uik_428_region_19_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Кильчичакова Елена Михайловна": 29,
-      "Мустонен Александр Хейнович": 0,
-      "Сагалаков Валерий Евгеньевич": 3,
-      "Семенов Александр Геннадьевич": 15,
-      "Семигин Геннадий Юрьевич": 45,
-      "Чаптыков Василий Иванович": 20,
-      "Против всех": 6
+      "gas:candidate-vibid:219200066689": 29,
+      "gas:candidate-vibid:219200066695": 0,
+      "gas:candidate-vibid:1001000202284": 3,
+      "gas:candidate-vibid:1001000136007": 15,
+      "gas:candidate-vibid:1001000121805": 45,
+      "gas:candidate-vibid:1001000258381": 20,
+      "special:against-all": 6
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=192000010&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=219200066737&region=0&sub_region=0&type=429",
@@ -13314,13 +13314,13 @@ export const duma_2003_uik_428_region_19_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Кильчичакова Елена Михайловна": 43,
-      "Мустонен Александр Хейнович": 0,
-      "Сагалаков Валерий Евгеньевич": 16,
-      "Семенов Александр Геннадьевич": 99,
-      "Семигин Геннадий Юрьевич": 268,
-      "Чаптыков Василий Иванович": 19,
-      "Против всех": 47
+      "gas:candidate-vibid:219200066689": 43,
+      "gas:candidate-vibid:219200066695": 0,
+      "gas:candidate-vibid:1001000202284": 16,
+      "gas:candidate-vibid:1001000136007": 99,
+      "gas:candidate-vibid:1001000121805": 268,
+      "gas:candidate-vibid:1001000258381": 19,
+      "special:against-all": 47
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=192000010&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=219200066737&region=0&sub_region=0&type=429",
@@ -13370,13 +13370,13 @@ export const duma_2003_uik_428_region_19_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Кильчичакова Елена Михайловна": 23,
-      "Мустонен Александр Хейнович": 1,
-      "Сагалаков Валерий Евгеньевич": 3,
-      "Семенов Александр Геннадьевич": 36,
-      "Семигин Геннадий Юрьевич": 43,
-      "Чаптыков Василий Иванович": 3,
-      "Против всех": 3
+      "gas:candidate-vibid:219200066689": 23,
+      "gas:candidate-vibid:219200066695": 1,
+      "gas:candidate-vibid:1001000202284": 3,
+      "gas:candidate-vibid:1001000136007": 36,
+      "gas:candidate-vibid:1001000121805": 43,
+      "gas:candidate-vibid:1001000258381": 3,
+      "special:against-all": 3
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=192000010&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=219200066737&region=0&sub_region=0&type=429",
@@ -13426,13 +13426,13 @@ export const duma_2003_uik_428_region_19_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Кильчичакова Елена Михайловна": 36,
-      "Мустонен Александр Хейнович": 3,
-      "Сагалаков Валерий Евгеньевич": 14,
-      "Семенов Александр Геннадьевич": 25,
-      "Семигин Геннадий Юрьевич": 41,
-      "Чаптыков Василий Иванович": 26,
-      "Против всех": 24
+      "gas:candidate-vibid:219200066689": 36,
+      "gas:candidate-vibid:219200066695": 3,
+      "gas:candidate-vibid:1001000202284": 14,
+      "gas:candidate-vibid:1001000136007": 25,
+      "gas:candidate-vibid:1001000121805": 41,
+      "gas:candidate-vibid:1001000258381": 26,
+      "special:against-all": 24
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=192000010&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=219200066737&region=0&sub_region=0&type=429",
@@ -13482,13 +13482,13 @@ export const duma_2003_uik_428_region_19_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Кильчичакова Елена Михайловна": 50,
-      "Мустонен Александр Хейнович": 8,
-      "Сагалаков Валерий Евгеньевич": 12,
-      "Семенов Александр Геннадьевич": 56,
-      "Семигин Геннадий Юрьевич": 174,
-      "Чаптыков Василий Иванович": 11,
-      "Против всех": 34
+      "gas:candidate-vibid:219200066689": 50,
+      "gas:candidate-vibid:219200066695": 8,
+      "gas:candidate-vibid:1001000202284": 12,
+      "gas:candidate-vibid:1001000136007": 56,
+      "gas:candidate-vibid:1001000121805": 174,
+      "gas:candidate-vibid:1001000258381": 11,
+      "special:against-all": 34
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=192000010&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=219200066737&region=0&sub_region=0&type=429",
@@ -13538,13 +13538,13 @@ export const duma_2003_uik_428_region_19_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Кильчичакова Елена Михайловна": 33,
-      "Мустонен Александр Хейнович": 1,
-      "Сагалаков Валерий Евгеньевич": 7,
-      "Семенов Александр Геннадьевич": 41,
-      "Семигин Геннадий Юрьевич": 170,
-      "Чаптыков Василий Иванович": 10,
-      "Против всех": 20
+      "gas:candidate-vibid:219200066689": 33,
+      "gas:candidate-vibid:219200066695": 1,
+      "gas:candidate-vibid:1001000202284": 7,
+      "gas:candidate-vibid:1001000136007": 41,
+      "gas:candidate-vibid:1001000121805": 170,
+      "gas:candidate-vibid:1001000258381": 10,
+      "special:against-all": 20
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=192000010&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=219200066737&region=0&sub_region=0&type=429",
@@ -13594,13 +13594,13 @@ export const duma_2003_uik_428_region_19_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Кильчичакова Елена Михайловна": 33,
-      "Мустонен Александр Хейнович": 3,
-      "Сагалаков Валерий Евгеньевич": 7,
-      "Семенов Александр Геннадьевич": 54,
-      "Семигин Геннадий Юрьевич": 142,
-      "Чаптыков Василий Иванович": 4,
-      "Против всех": 36
+      "gas:candidate-vibid:219200066689": 33,
+      "gas:candidate-vibid:219200066695": 3,
+      "gas:candidate-vibid:1001000202284": 7,
+      "gas:candidate-vibid:1001000136007": 54,
+      "gas:candidate-vibid:1001000121805": 142,
+      "gas:candidate-vibid:1001000258381": 4,
+      "special:against-all": 36
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=192000010&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=219200066737&region=0&sub_region=0&type=429",
@@ -13650,13 +13650,13 @@ export const duma_2003_uik_428_region_19_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Кильчичакова Елена Михайловна": 77,
-      "Мустонен Александр Хейнович": 3,
-      "Сагалаков Валерий Евгеньевич": 6,
-      "Семенов Александр Геннадьевич": 125,
-      "Семигин Геннадий Юрьевич": 468,
-      "Чаптыков Василий Иванович": 21,
-      "Против всех": 69
+      "gas:candidate-vibid:219200066689": 77,
+      "gas:candidate-vibid:219200066695": 3,
+      "gas:candidate-vibid:1001000202284": 6,
+      "gas:candidate-vibid:1001000136007": 125,
+      "gas:candidate-vibid:1001000121805": 468,
+      "gas:candidate-vibid:1001000258381": 21,
+      "special:against-all": 69
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=192000011&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=219200066738&region=0&sub_region=0&type=429",
@@ -13706,13 +13706,13 @@ export const duma_2003_uik_428_region_19_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Кильчичакова Елена Михайловна": 63,
-      "Мустонен Александр Хейнович": 0,
-      "Сагалаков Валерий Евгеньевич": 10,
-      "Семенов Александр Геннадьевич": 130,
-      "Семигин Геннадий Юрьевич": 352,
-      "Чаптыков Василий Иванович": 22,
-      "Против всех": 62
+      "gas:candidate-vibid:219200066689": 63,
+      "gas:candidate-vibid:219200066695": 0,
+      "gas:candidate-vibid:1001000202284": 10,
+      "gas:candidate-vibid:1001000136007": 130,
+      "gas:candidate-vibid:1001000121805": 352,
+      "gas:candidate-vibid:1001000258381": 22,
+      "special:against-all": 62
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=192000011&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=219200066738&region=0&sub_region=0&type=429",
@@ -13762,13 +13762,13 @@ export const duma_2003_uik_428_region_19_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Кильчичакова Елена Михайловна": 90,
-      "Мустонен Александр Хейнович": 1,
-      "Сагалаков Валерий Евгеньевич": 6,
-      "Семенов Александр Геннадьевич": 114,
-      "Семигин Геннадий Юрьевич": 381,
-      "Чаптыков Василий Иванович": 17,
-      "Против всех": 52
+      "gas:candidate-vibid:219200066689": 90,
+      "gas:candidate-vibid:219200066695": 1,
+      "gas:candidate-vibid:1001000202284": 6,
+      "gas:candidate-vibid:1001000136007": 114,
+      "gas:candidate-vibid:1001000121805": 381,
+      "gas:candidate-vibid:1001000258381": 17,
+      "special:against-all": 52
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=192000011&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=219200066738&region=0&sub_region=0&type=429",
@@ -13818,13 +13818,13 @@ export const duma_2003_uik_428_region_19_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Кильчичакова Елена Михайловна": 65,
-      "Мустонен Александр Хейнович": 3,
-      "Сагалаков Валерий Евгеньевич": 3,
-      "Семенов Александр Геннадьевич": 76,
-      "Семигин Геннадий Юрьевич": 360,
-      "Чаптыков Василий Иванович": 22,
-      "Против всех": 50
+      "gas:candidate-vibid:219200066689": 65,
+      "gas:candidate-vibid:219200066695": 3,
+      "gas:candidate-vibid:1001000202284": 3,
+      "gas:candidate-vibid:1001000136007": 76,
+      "gas:candidate-vibid:1001000121805": 360,
+      "gas:candidate-vibid:1001000258381": 22,
+      "special:against-all": 50
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=192000011&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=219200066738&region=0&sub_region=0&type=429",
@@ -13874,13 +13874,13 @@ export const duma_2003_uik_428_region_19_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Кильчичакова Елена Михайловна": 37,
-      "Мустонен Александр Хейнович": 4,
-      "Сагалаков Валерий Евгеньевич": 5,
-      "Семенов Александр Геннадьевич": 55,
-      "Семигин Геннадий Юрьевич": 198,
-      "Чаптыков Василий Иванович": 7,
-      "Против всех": 50
+      "gas:candidate-vibid:219200066689": 37,
+      "gas:candidate-vibid:219200066695": 4,
+      "gas:candidate-vibid:1001000202284": 5,
+      "gas:candidate-vibid:1001000136007": 55,
+      "gas:candidate-vibid:1001000121805": 198,
+      "gas:candidate-vibid:1001000258381": 7,
+      "special:against-all": 50
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=192000011&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=219200066738&region=0&sub_region=0&type=429",
@@ -13930,13 +13930,13 @@ export const duma_2003_uik_428_region_19_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Кильчичакова Елена Михайловна": 56,
-      "Мустонен Александр Хейнович": 1,
-      "Сагалаков Валерий Евгеньевич": 12,
-      "Семенов Александр Геннадьевич": 86,
-      "Семигин Геннадий Юрьевич": 344,
-      "Чаптыков Василий Иванович": 17,
-      "Против всех": 62
+      "gas:candidate-vibid:219200066689": 56,
+      "gas:candidate-vibid:219200066695": 1,
+      "gas:candidate-vibid:1001000202284": 12,
+      "gas:candidate-vibid:1001000136007": 86,
+      "gas:candidate-vibid:1001000121805": 344,
+      "gas:candidate-vibid:1001000258381": 17,
+      "special:against-all": 62
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=192000011&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=219200066738&region=0&sub_region=0&type=429",
@@ -13986,13 +13986,13 @@ export const duma_2003_uik_428_region_19_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Кильчичакова Елена Михайловна": 67,
-      "Мустонен Александр Хейнович": 0,
-      "Сагалаков Валерий Евгеньевич": 2,
-      "Семенов Александр Геннадьевич": 83,
-      "Семигин Геннадий Юрьевич": 167,
-      "Чаптыков Василий Иванович": 6,
-      "Против всех": 29
+      "gas:candidate-vibid:219200066689": 67,
+      "gas:candidate-vibid:219200066695": 0,
+      "gas:candidate-vibid:1001000202284": 2,
+      "gas:candidate-vibid:1001000136007": 83,
+      "gas:candidate-vibid:1001000121805": 167,
+      "gas:candidate-vibid:1001000258381": 6,
+      "special:against-all": 29
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=192000011&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=219200066738&region=0&sub_region=0&type=429",

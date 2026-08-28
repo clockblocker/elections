@@ -43,14 +43,14 @@ export const duma_2016_uik_463_region_58_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Алексютин Анатолий Васильевич": 1,
-      "Есяков Сергей Яковлевич": 86,
-      "Камнев Георгий Петрович": 19,
-      "Коломыцева Людмила Викторовна": 6,
-      "Коробов Сергей Александрович": 0,
-      "Куликов Павел Владимирович": 7,
-      "Никифоров Андрей Васильевич": 1,
-      "Пакаев Алексей Федорович": 0
+      "gas:candidate-vibid:2582000740845": 1,
+      "gas:candidate-vibid:2582000740020": 86,
+      "gas:candidate-vibid:2582000740031": 19,
+      "gas:candidate-vibid:2582000738771": 6,
+      "gas:candidate-vibid:2582000739795": 0,
+      "gas:candidate-vibid:2582000734147": 7,
+      "gas:candidate-vibid:2582000741081": 1,
+      "gas:candidate-vibid:2582000740269": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/penza?action=show&root=1000193&tvd=2582000671223&vrn=100100067795849&region=58&global=&sub_region=58&prver=0&pronetvd=null&vibid=2582000671223&type=464",
@@ -101,14 +101,14 @@ export const duma_2016_uik_463_region_58_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Алексютин Анатолий Васильевич": 9,
-      "Есяков Сергей Яковлевич": 262,
-      "Камнев Георгий Петрович": 75,
-      "Коломыцева Людмила Викторовна": 25,
-      "Коробов Сергей Александрович": 7,
-      "Куликов Павел Владимирович": 27,
-      "Никифоров Андрей Васильевич": 7,
-      "Пакаев Алексей Федорович": 1
+      "gas:candidate-vibid:2582000740845": 9,
+      "gas:candidate-vibid:2582000740020": 262,
+      "gas:candidate-vibid:2582000740031": 75,
+      "gas:candidate-vibid:2582000738771": 25,
+      "gas:candidate-vibid:2582000739795": 7,
+      "gas:candidate-vibid:2582000734147": 27,
+      "gas:candidate-vibid:2582000741081": 7,
+      "gas:candidate-vibid:2582000740269": 1
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/penza?action=show&root=1000193&tvd=2582000671223&vrn=100100067795849&region=58&global=&sub_region=58&prver=0&pronetvd=null&vibid=2582000671223&type=464",
@@ -159,14 +159,14 @@ export const duma_2016_uik_463_region_58_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Алексютин Анатолий Васильевич": 8,
-      "Есяков Сергей Яковлевич": 178,
-      "Камнев Георгий Петрович": 10,
-      "Коломыцева Людмила Викторовна": 6,
-      "Коробов Сергей Александрович": 1,
-      "Куликов Павел Владимирович": 21,
-      "Никифоров Андрей Васильевич": 6,
-      "Пакаев Алексей Федорович": 2
+      "gas:candidate-vibid:2582000740845": 8,
+      "gas:candidate-vibid:2582000740020": 178,
+      "gas:candidate-vibid:2582000740031": 10,
+      "gas:candidate-vibid:2582000738771": 6,
+      "gas:candidate-vibid:2582000739795": 1,
+      "gas:candidate-vibid:2582000734147": 21,
+      "gas:candidate-vibid:2582000741081": 6,
+      "gas:candidate-vibid:2582000740269": 2
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/penza?action=show&root=1000193&tvd=2582000671223&vrn=100100067795849&region=58&global=&sub_region=58&prver=0&pronetvd=null&vibid=2582000671223&type=464",
@@ -217,14 +217,14 @@ export const duma_2016_uik_463_region_58_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Алексютин Анатолий Васильевич": 0,
-      "Есяков Сергей Яковлевич": 69,
-      "Камнев Георгий Петрович": 4,
-      "Коломыцева Людмила Викторовна": 3,
-      "Коробов Сергей Александрович": 0,
-      "Куликов Павел Владимирович": 0,
-      "Никифоров Андрей Васильевич": 3,
-      "Пакаев Алексей Федорович": 0
+      "gas:candidate-vibid:2582000740845": 0,
+      "gas:candidate-vibid:2582000740020": 69,
+      "gas:candidate-vibid:2582000740031": 4,
+      "gas:candidate-vibid:2582000738771": 3,
+      "gas:candidate-vibid:2582000739795": 0,
+      "gas:candidate-vibid:2582000734147": 0,
+      "gas:candidate-vibid:2582000741081": 3,
+      "gas:candidate-vibid:2582000740269": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/penza?action=show&root=1000193&tvd=2582000671224&vrn=100100067795849&region=58&global=&sub_region=58&prver=0&pronetvd=null&vibid=2582000671224&type=464",
@@ -275,14 +275,14 @@ export const duma_2016_uik_463_region_58_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Алексютин Анатолий Васильевич": 0,
-      "Есяков Сергей Яковлевич": 90,
-      "Камнев Георгий Петрович": 0,
-      "Коломыцева Людмила Викторовна": 1,
-      "Коробов Сергей Александрович": 0,
-      "Куликов Павел Владимирович": 0,
-      "Никифоров Андрей Васильевич": 0,
-      "Пакаев Алексей Федорович": 0
+      "gas:candidate-vibid:2582000740845": 0,
+      "gas:candidate-vibid:2582000740020": 90,
+      "gas:candidate-vibid:2582000740031": 0,
+      "gas:candidate-vibid:2582000738771": 1,
+      "gas:candidate-vibid:2582000739795": 0,
+      "gas:candidate-vibid:2582000734147": 0,
+      "gas:candidate-vibid:2582000741081": 0,
+      "gas:candidate-vibid:2582000740269": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/penza?action=show&root=1000193&tvd=2582000671224&vrn=100100067795849&region=58&global=&sub_region=58&prver=0&pronetvd=null&vibid=2582000671224&type=464",
@@ -333,14 +333,14 @@ export const duma_2016_uik_463_region_58_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Алексютин Анатолий Васильевич": 6,
-      "Есяков Сергей Яковлевич": 229,
-      "Камнев Георгий Петрович": 42,
-      "Коломыцева Людмила Викторовна": 13,
-      "Коробов Сергей Александрович": 2,
-      "Куликов Павел Владимирович": 11,
-      "Никифоров Андрей Васильевич": 9,
-      "Пакаев Алексей Федорович": 1
+      "gas:candidate-vibid:2582000740845": 6,
+      "gas:candidate-vibid:2582000740020": 229,
+      "gas:candidate-vibid:2582000740031": 42,
+      "gas:candidate-vibid:2582000738771": 13,
+      "gas:candidate-vibid:2582000739795": 2,
+      "gas:candidate-vibid:2582000734147": 11,
+      "gas:candidate-vibid:2582000741081": 9,
+      "gas:candidate-vibid:2582000740269": 1
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/penza?action=show&root=1000193&tvd=2582000671224&vrn=100100067795849&region=58&global=&sub_region=58&prver=0&pronetvd=null&vibid=2582000671224&type=464",
@@ -391,14 +391,14 @@ export const duma_2016_uik_463_region_58_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Алексютин Анатолий Васильевич": 8,
-      "Есяков Сергей Яковлевич": 244,
-      "Камнев Георгий Петрович": 8,
-      "Коломыцева Людмила Викторовна": 10,
-      "Коробов Сергей Александрович": 2,
-      "Куликов Павел Владимирович": 5,
-      "Никифоров Андрей Васильевич": 4,
-      "Пакаев Алексей Федорович": 0
+      "gas:candidate-vibid:2582000740845": 8,
+      "gas:candidate-vibid:2582000740020": 244,
+      "gas:candidate-vibid:2582000740031": 8,
+      "gas:candidate-vibid:2582000738771": 10,
+      "gas:candidate-vibid:2582000739795": 2,
+      "gas:candidate-vibid:2582000734147": 5,
+      "gas:candidate-vibid:2582000741081": 4,
+      "gas:candidate-vibid:2582000740269": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/penza?action=show&root=1000193&tvd=2582000671224&vrn=100100067795849&region=58&global=&sub_region=58&prver=0&pronetvd=null&vibid=2582000671224&type=464",
@@ -449,14 +449,14 @@ export const duma_2016_uik_463_region_58_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Алексютин Анатолий Васильевич": 5,
-      "Есяков Сергей Яковлевич": 224,
-      "Камнев Георгий Петрович": 15,
-      "Коломыцева Людмила Викторовна": 7,
-      "Коробов Сергей Александрович": 1,
-      "Куликов Павел Владимирович": 2,
-      "Никифоров Андрей Васильевич": 5,
-      "Пакаев Алексей Федорович": 2
+      "gas:candidate-vibid:2582000740845": 5,
+      "gas:candidate-vibid:2582000740020": 224,
+      "gas:candidate-vibid:2582000740031": 15,
+      "gas:candidate-vibid:2582000738771": 7,
+      "gas:candidate-vibid:2582000739795": 1,
+      "gas:candidate-vibid:2582000734147": 2,
+      "gas:candidate-vibid:2582000741081": 5,
+      "gas:candidate-vibid:2582000740269": 2
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/penza?action=show&root=1000193&tvd=2582000671224&vrn=100100067795849&region=58&global=&sub_region=58&prver=0&pronetvd=null&vibid=2582000671224&type=464",
@@ -507,14 +507,14 @@ export const duma_2016_uik_463_region_58_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Алексютин Анатолий Васильевич": 4,
-      "Есяков Сергей Яковлевич": 237,
-      "Камнев Георгий Петрович": 23,
-      "Коломыцева Людмила Викторовна": 12,
-      "Коробов Сергей Александрович": 1,
-      "Куликов Павел Владимирович": 6,
-      "Никифоров Андрей Васильевич": 1,
-      "Пакаев Алексей Федорович": 4
+      "gas:candidate-vibid:2582000740845": 4,
+      "gas:candidate-vibid:2582000740020": 237,
+      "gas:candidate-vibid:2582000740031": 23,
+      "gas:candidate-vibid:2582000738771": 12,
+      "gas:candidate-vibid:2582000739795": 1,
+      "gas:candidate-vibid:2582000734147": 6,
+      "gas:candidate-vibid:2582000741081": 1,
+      "gas:candidate-vibid:2582000740269": 4
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/penza?action=show&root=1000193&tvd=2582000671224&vrn=100100067795849&region=58&global=&sub_region=58&prver=0&pronetvd=null&vibid=2582000671224&type=464",
@@ -565,14 +565,14 @@ export const duma_2016_uik_463_region_58_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Алексютин Анатолий Васильевич": 0,
-      "Есяков Сергей Яковлевич": 227,
-      "Камнев Георгий Петрович": 9,
-      "Коломыцева Людмила Викторовна": 13,
-      "Коробов Сергей Александрович": 2,
-      "Куликов Павел Владимирович": 11,
-      "Никифоров Андрей Васильевич": 3,
-      "Пакаев Алексей Федорович": 0
+      "gas:candidate-vibid:2582000740845": 0,
+      "gas:candidate-vibid:2582000740020": 227,
+      "gas:candidate-vibid:2582000740031": 9,
+      "gas:candidate-vibid:2582000738771": 13,
+      "gas:candidate-vibid:2582000739795": 2,
+      "gas:candidate-vibid:2582000734147": 11,
+      "gas:candidate-vibid:2582000741081": 3,
+      "gas:candidate-vibid:2582000740269": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/penza?action=show&root=1000193&tvd=2582000671224&vrn=100100067795849&region=58&global=&sub_region=58&prver=0&pronetvd=null&vibid=2582000671224&type=464",
@@ -623,14 +623,14 @@ export const duma_2016_uik_463_region_58_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Алексютин Анатолий Васильевич": 5,
-      "Есяков Сергей Яковлевич": 534,
-      "Камнев Георгий Петрович": 51,
-      "Коломыцева Людмила Викторовна": 24,
-      "Коробов Сергей Александрович": 8,
-      "Куликов Павел Владимирович": 33,
-      "Никифоров Андрей Васильевич": 15,
-      "Пакаев Алексей Федорович": 2
+      "gas:candidate-vibid:2582000740845": 5,
+      "gas:candidate-vibid:2582000740020": 534,
+      "gas:candidate-vibid:2582000740031": 51,
+      "gas:candidate-vibid:2582000738771": 24,
+      "gas:candidate-vibid:2582000739795": 8,
+      "gas:candidate-vibid:2582000734147": 33,
+      "gas:candidate-vibid:2582000741081": 15,
+      "gas:candidate-vibid:2582000740269": 2
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/penza?action=show&root=1000193&tvd=2582000671224&vrn=100100067795849&region=58&global=&sub_region=58&prver=0&pronetvd=null&vibid=2582000671224&type=464",
@@ -681,14 +681,14 @@ export const duma_2016_uik_463_region_58_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Алексютин Анатолий Васильевич": 0,
-      "Есяков Сергей Яковлевич": 256,
-      "Камнев Георгий Петрович": 8,
-      "Коломыцева Людмила Викторовна": 6,
-      "Коробов Сергей Александрович": 0,
-      "Куликов Павел Владимирович": 0,
-      "Никифоров Андрей Васильевич": 3,
-      "Пакаев Алексей Федорович": 0
+      "gas:candidate-vibid:2582000740845": 0,
+      "gas:candidate-vibid:2582000740020": 256,
+      "gas:candidate-vibid:2582000740031": 8,
+      "gas:candidate-vibid:2582000738771": 6,
+      "gas:candidate-vibid:2582000739795": 0,
+      "gas:candidate-vibid:2582000734147": 0,
+      "gas:candidate-vibid:2582000741081": 3,
+      "gas:candidate-vibid:2582000740269": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/penza?action=show&root=1000193&tvd=2582000671224&vrn=100100067795849&region=58&global=&sub_region=58&prver=0&pronetvd=null&vibid=2582000671224&type=464",
@@ -739,14 +739,14 @@ export const duma_2016_uik_463_region_58_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Алексютин Анатолий Васильевич": 0,
-      "Есяков Сергей Яковлевич": 157,
-      "Камнев Георгий Петрович": 2,
-      "Коломыцева Людмила Викторовна": 5,
-      "Коробов Сергей Александрович": 5,
-      "Куликов Павел Владимирович": 3,
-      "Никифоров Андрей Васильевич": 0,
-      "Пакаев Алексей Федорович": 0
+      "gas:candidate-vibid:2582000740845": 0,
+      "gas:candidate-vibid:2582000740020": 157,
+      "gas:candidate-vibid:2582000740031": 2,
+      "gas:candidate-vibid:2582000738771": 5,
+      "gas:candidate-vibid:2582000739795": 5,
+      "gas:candidate-vibid:2582000734147": 3,
+      "gas:candidate-vibid:2582000741081": 0,
+      "gas:candidate-vibid:2582000740269": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/penza?action=show&root=1000193&tvd=2582000671224&vrn=100100067795849&region=58&global=&sub_region=58&prver=0&pronetvd=null&vibid=2582000671224&type=464",
@@ -797,14 +797,14 @@ export const duma_2016_uik_463_region_58_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Алексютин Анатолий Васильевич": 0,
-      "Есяков Сергей Яковлевич": 84,
-      "Камнев Георгий Петрович": 2,
-      "Коломыцева Людмила Викторовна": 3,
-      "Коробов Сергей Александрович": 2,
-      "Куликов Павел Владимирович": 2,
-      "Никифоров Андрей Васильевич": 1,
-      "Пакаев Алексей Федорович": 0
+      "gas:candidate-vibid:2582000740845": 0,
+      "gas:candidate-vibid:2582000740020": 84,
+      "gas:candidate-vibid:2582000740031": 2,
+      "gas:candidate-vibid:2582000738771": 3,
+      "gas:candidate-vibid:2582000739795": 2,
+      "gas:candidate-vibid:2582000734147": 2,
+      "gas:candidate-vibid:2582000741081": 1,
+      "gas:candidate-vibid:2582000740269": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/penza?action=show&root=1000193&tvd=2582000671224&vrn=100100067795849&region=58&global=&sub_region=58&prver=0&pronetvd=null&vibid=2582000671224&type=464",
@@ -855,14 +855,14 @@ export const duma_2016_uik_463_region_58_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Алексютин Анатолий Васильевич": 2,
-      "Есяков Сергей Яковлевич": 53,
-      "Камнев Георгий Петрович": 3,
-      "Коломыцева Людмила Викторовна": 2,
-      "Коробов Сергей Александрович": 0,
-      "Куликов Павел Владимирович": 1,
-      "Никифоров Андрей Васильевич": 2,
-      "Пакаев Алексей Федорович": 0
+      "gas:candidate-vibid:2582000740845": 2,
+      "gas:candidate-vibid:2582000740020": 53,
+      "gas:candidate-vibid:2582000740031": 3,
+      "gas:candidate-vibid:2582000738771": 2,
+      "gas:candidate-vibid:2582000739795": 0,
+      "gas:candidate-vibid:2582000734147": 1,
+      "gas:candidate-vibid:2582000741081": 2,
+      "gas:candidate-vibid:2582000740269": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/penza?action=show&root=1000193&tvd=2582000671224&vrn=100100067795849&region=58&global=&sub_region=58&prver=0&pronetvd=null&vibid=2582000671224&type=464",
@@ -913,14 +913,14 @@ export const duma_2016_uik_463_region_58_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Алексютин Анатолий Васильевич": 4,
-      "Есяков Сергей Яковлевич": 410,
-      "Камнев Георгий Петрович": 12,
-      "Коломыцева Людмила Викторовна": 3,
-      "Коробов Сергей Александрович": 0,
-      "Куликов Павел Владимирович": 3,
-      "Никифоров Андрей Васильевич": 6,
-      "Пакаев Алексей Федорович": 0
+      "gas:candidate-vibid:2582000740845": 4,
+      "gas:candidate-vibid:2582000740020": 410,
+      "gas:candidate-vibid:2582000740031": 12,
+      "gas:candidate-vibid:2582000738771": 3,
+      "gas:candidate-vibid:2582000739795": 0,
+      "gas:candidate-vibid:2582000734147": 3,
+      "gas:candidate-vibid:2582000741081": 6,
+      "gas:candidate-vibid:2582000740269": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/penza?action=show&root=1000193&tvd=2582000671224&vrn=100100067795849&region=58&global=&sub_region=58&prver=0&pronetvd=null&vibid=2582000671224&type=464",
@@ -971,14 +971,14 @@ export const duma_2016_uik_463_region_58_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Алексютин Анатолий Васильевич": 4,
-      "Есяков Сергей Яковлевич": 336,
-      "Камнев Георгий Петрович": 17,
-      "Коломыцева Людмила Викторовна": 7,
-      "Коробов Сергей Александрович": 2,
-      "Куликов Павел Владимирович": 4,
-      "Никифоров Андрей Васильевич": 5,
-      "Пакаев Алексей Федорович": 1
+      "gas:candidate-vibid:2582000740845": 4,
+      "gas:candidate-vibid:2582000740020": 336,
+      "gas:candidate-vibid:2582000740031": 17,
+      "gas:candidate-vibid:2582000738771": 7,
+      "gas:candidate-vibid:2582000739795": 2,
+      "gas:candidate-vibid:2582000734147": 4,
+      "gas:candidate-vibid:2582000741081": 5,
+      "gas:candidate-vibid:2582000740269": 1
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/penza?action=show&root=1000193&tvd=2582000671224&vrn=100100067795849&region=58&global=&sub_region=58&prver=0&pronetvd=null&vibid=2582000671224&type=464",
@@ -1029,14 +1029,14 @@ export const duma_2016_uik_463_region_58_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Алексютин Анатолий Васильевич": 11,
-      "Есяков Сергей Яковлевич": 976,
-      "Камнев Георгий Петрович": 128,
-      "Коломыцева Людмила Викторовна": 38,
-      "Коробов Сергей Александрович": 3,
-      "Куликов Павел Владимирович": 30,
-      "Никифоров Андрей Васильевич": 26,
-      "Пакаев Алексей Федорович": 7
+      "gas:candidate-vibid:2582000740845": 11,
+      "gas:candidate-vibid:2582000740020": 976,
+      "gas:candidate-vibid:2582000740031": 128,
+      "gas:candidate-vibid:2582000738771": 38,
+      "gas:candidate-vibid:2582000739795": 3,
+      "gas:candidate-vibid:2582000734147": 30,
+      "gas:candidate-vibid:2582000741081": 26,
+      "gas:candidate-vibid:2582000740269": 7
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/penza?action=show&root=1000193&tvd=2582000671224&vrn=100100067795849&region=58&global=&sub_region=58&prver=0&pronetvd=null&vibid=2582000671224&type=464",
@@ -1087,14 +1087,14 @@ export const duma_2016_uik_463_region_58_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Алексютин Анатолий Васильевич": 11,
-      "Есяков Сергей Яковлевич": 938,
-      "Камнев Георгий Петрович": 53,
-      "Коломыцева Людмила Викторовна": 45,
-      "Коробов Сергей Александрович": 0,
-      "Куликов Павел Владимирович": 14,
-      "Никифоров Андрей Васильевич": 9,
-      "Пакаев Алексей Федорович": 0
+      "gas:candidate-vibid:2582000740845": 11,
+      "gas:candidate-vibid:2582000740020": 938,
+      "gas:candidate-vibid:2582000740031": 53,
+      "gas:candidate-vibid:2582000738771": 45,
+      "gas:candidate-vibid:2582000739795": 0,
+      "gas:candidate-vibid:2582000734147": 14,
+      "gas:candidate-vibid:2582000741081": 9,
+      "gas:candidate-vibid:2582000740269": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/penza?action=show&root=1000193&tvd=2582000671224&vrn=100100067795849&region=58&global=&sub_region=58&prver=0&pronetvd=null&vibid=2582000671224&type=464",
@@ -1145,14 +1145,14 @@ export const duma_2016_uik_463_region_58_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Алексютин Анатолий Васильевич": 5,
-      "Есяков Сергей Яковлевич": 828,
-      "Камнев Георгий Петрович": 35,
-      "Коломыцева Людмила Викторовна": 29,
-      "Коробов Сергей Александрович": 6,
-      "Куликов Павел Владимирович": 9,
-      "Никифоров Андрей Васильевич": 6,
-      "Пакаев Алексей Федорович": 4
+      "gas:candidate-vibid:2582000740845": 5,
+      "gas:candidate-vibid:2582000740020": 828,
+      "gas:candidate-vibid:2582000740031": 35,
+      "gas:candidate-vibid:2582000738771": 29,
+      "gas:candidate-vibid:2582000739795": 6,
+      "gas:candidate-vibid:2582000734147": 9,
+      "gas:candidate-vibid:2582000741081": 6,
+      "gas:candidate-vibid:2582000740269": 4
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/penza?action=show&root=1000193&tvd=2582000671224&vrn=100100067795849&region=58&global=&sub_region=58&prver=0&pronetvd=null&vibid=2582000671224&type=464",
@@ -1203,14 +1203,14 @@ export const duma_2016_uik_463_region_58_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Алексютин Анатолий Васильевич": 4,
-      "Есяков Сергей Яковлевич": 135,
-      "Камнев Георгий Петрович": 20,
-      "Коломыцева Людмила Викторовна": 7,
-      "Коробов Сергей Александрович": 3,
-      "Куликов Павел Владимирович": 10,
-      "Никифоров Андрей Васильевич": 6,
-      "Пакаев Алексей Федорович": 1
+      "gas:candidate-vibid:2582000740845": 4,
+      "gas:candidate-vibid:2582000740020": 135,
+      "gas:candidate-vibid:2582000740031": 20,
+      "gas:candidate-vibid:2582000738771": 7,
+      "gas:candidate-vibid:2582000739795": 3,
+      "gas:candidate-vibid:2582000734147": 10,
+      "gas:candidate-vibid:2582000741081": 6,
+      "gas:candidate-vibid:2582000740269": 1
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/penza?action=show&root=1000193&tvd=2582000671224&vrn=100100067795849&region=58&global=&sub_region=58&prver=0&pronetvd=null&vibid=2582000671224&type=464",
@@ -1261,14 +1261,14 @@ export const duma_2016_uik_463_region_58_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Алексютин Анатолий Васильевич": 4,
-      "Есяков Сергей Яковлевич": 162,
-      "Камнев Георгий Петрович": 18,
-      "Коломыцева Людмила Викторовна": 6,
-      "Коробов Сергей Александрович": 0,
-      "Куликов Павел Владимирович": 7,
-      "Никифоров Андрей Васильевич": 2,
-      "Пакаев Алексей Федорович": 2
+      "gas:candidate-vibid:2582000740845": 4,
+      "gas:candidate-vibid:2582000740020": 162,
+      "gas:candidate-vibid:2582000740031": 18,
+      "gas:candidate-vibid:2582000738771": 6,
+      "gas:candidate-vibid:2582000739795": 0,
+      "gas:candidate-vibid:2582000734147": 7,
+      "gas:candidate-vibid:2582000741081": 2,
+      "gas:candidate-vibid:2582000740269": 2
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/penza?action=show&root=1000193&tvd=2582000671224&vrn=100100067795849&region=58&global=&sub_region=58&prver=0&pronetvd=null&vibid=2582000671224&type=464",
@@ -1319,14 +1319,14 @@ export const duma_2016_uik_463_region_58_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Алексютин Анатолий Васильевич": 7,
-      "Есяков Сергей Яковлевич": 330,
-      "Камнев Георгий Петрович": 13,
-      "Коломыцева Людмила Викторовна": 10,
-      "Коробов Сергей Александрович": 3,
-      "Куликов Павел Владимирович": 9,
-      "Никифоров Андрей Васильевич": 7,
-      "Пакаев Алексей Федорович": 1
+      "gas:candidate-vibid:2582000740845": 7,
+      "gas:candidate-vibid:2582000740020": 330,
+      "gas:candidate-vibid:2582000740031": 13,
+      "gas:candidate-vibid:2582000738771": 10,
+      "gas:candidate-vibid:2582000739795": 3,
+      "gas:candidate-vibid:2582000734147": 9,
+      "gas:candidate-vibid:2582000741081": 7,
+      "gas:candidate-vibid:2582000740269": 1
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/penza?action=show&root=1000193&tvd=2582000671224&vrn=100100067795849&region=58&global=&sub_region=58&prver=0&pronetvd=null&vibid=2582000671224&type=464",
@@ -1377,14 +1377,14 @@ export const duma_2016_uik_463_region_58_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Алексютин Анатолий Васильевич": 0,
-      "Есяков Сергей Яковлевич": 747,
-      "Камнев Георгий Петрович": 0,
-      "Коломыцева Людмила Викторовна": 3,
-      "Коробов Сергей Александрович": 0,
-      "Куликов Павел Владимирович": 0,
-      "Никифоров Андрей Васильевич": 2,
-      "Пакаев Алексей Федорович": 0
+      "gas:candidate-vibid:2582000740845": 0,
+      "gas:candidate-vibid:2582000740020": 747,
+      "gas:candidate-vibid:2582000740031": 0,
+      "gas:candidate-vibid:2582000738771": 3,
+      "gas:candidate-vibid:2582000739795": 0,
+      "gas:candidate-vibid:2582000734147": 0,
+      "gas:candidate-vibid:2582000741081": 2,
+      "gas:candidate-vibid:2582000740269": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/penza?action=show&root=1000193&tvd=2582000671224&vrn=100100067795849&region=58&global=&sub_region=58&prver=0&pronetvd=null&vibid=2582000671224&type=464",
@@ -1435,14 +1435,14 @@ export const duma_2016_uik_463_region_58_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Алексютин Анатолий Васильевич": 1,
-      "Есяков Сергей Яковлевич": 504,
-      "Камнев Георгий Петрович": 9,
-      "Коломыцева Людмила Викторовна": 6,
-      "Коробов Сергей Александрович": 1,
-      "Куликов Павел Владимирович": 3,
-      "Никифоров Андрей Васильевич": 4,
-      "Пакаев Алексей Федорович": 0
+      "gas:candidate-vibid:2582000740845": 1,
+      "gas:candidate-vibid:2582000740020": 504,
+      "gas:candidate-vibid:2582000740031": 9,
+      "gas:candidate-vibid:2582000738771": 6,
+      "gas:candidate-vibid:2582000739795": 1,
+      "gas:candidate-vibid:2582000734147": 3,
+      "gas:candidate-vibid:2582000741081": 4,
+      "gas:candidate-vibid:2582000740269": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/penza?action=show&root=1000193&tvd=2582000671224&vrn=100100067795849&region=58&global=&sub_region=58&prver=0&pronetvd=null&vibid=2582000671224&type=464",
@@ -1493,14 +1493,14 @@ export const duma_2016_uik_463_region_58_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Алексютин Анатолий Васильевич": 0,
-      "Есяков Сергей Яковлевич": 519,
-      "Камнев Георгий Петрович": 0,
-      "Коломыцева Людмила Викторовна": 0,
-      "Коробов Сергей Александрович": 1,
-      "Куликов Павел Владимирович": 0,
-      "Никифоров Андрей Васильевич": 2,
-      "Пакаев Алексей Федорович": 0
+      "gas:candidate-vibid:2582000740845": 0,
+      "gas:candidate-vibid:2582000740020": 519,
+      "gas:candidate-vibid:2582000740031": 0,
+      "gas:candidate-vibid:2582000738771": 0,
+      "gas:candidate-vibid:2582000739795": 1,
+      "gas:candidate-vibid:2582000734147": 0,
+      "gas:candidate-vibid:2582000741081": 2,
+      "gas:candidate-vibid:2582000740269": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/penza?action=show&root=1000193&tvd=2582000671224&vrn=100100067795849&region=58&global=&sub_region=58&prver=0&pronetvd=null&vibid=2582000671224&type=464",
@@ -1551,14 +1551,14 @@ export const duma_2016_uik_463_region_58_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Алексютин Анатолий Васильевич": 0,
-      "Есяков Сергей Яковлевич": 103,
-      "Камнев Георгий Петрович": 3,
-      "Коломыцева Людмила Викторовна": 0,
-      "Коробов Сергей Александрович": 0,
-      "Куликов Павел Владимирович": 3,
-      "Никифоров Андрей Васильевич": 0,
-      "Пакаев Алексей Федорович": 1
+      "gas:candidate-vibid:2582000740845": 0,
+      "gas:candidate-vibid:2582000740020": 103,
+      "gas:candidate-vibid:2582000740031": 3,
+      "gas:candidate-vibid:2582000738771": 0,
+      "gas:candidate-vibid:2582000739795": 0,
+      "gas:candidate-vibid:2582000734147": 3,
+      "gas:candidate-vibid:2582000741081": 0,
+      "gas:candidate-vibid:2582000740269": 1
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/penza?action=show&root=1000193&tvd=2582000671224&vrn=100100067795849&region=58&global=&sub_region=58&prver=0&pronetvd=null&vibid=2582000671224&type=464",
@@ -1609,14 +1609,14 @@ export const duma_2016_uik_463_region_58_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Алексютин Анатолий Васильевич": 0,
-      "Есяков Сергей Яковлевич": 139,
-      "Камнев Георгий Петрович": 18,
-      "Коломыцева Людмила Викторовна": 6,
-      "Коробов Сергей Александрович": 0,
-      "Куликов Павел Владимирович": 8,
-      "Никифоров Андрей Васильевич": 4,
-      "Пакаев Алексей Федорович": 0
+      "gas:candidate-vibid:2582000740845": 0,
+      "gas:candidate-vibid:2582000740020": 139,
+      "gas:candidate-vibid:2582000740031": 18,
+      "gas:candidate-vibid:2582000738771": 6,
+      "gas:candidate-vibid:2582000739795": 0,
+      "gas:candidate-vibid:2582000734147": 8,
+      "gas:candidate-vibid:2582000741081": 4,
+      "gas:candidate-vibid:2582000740269": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/penza?action=show&root=1000193&tvd=2582000671224&vrn=100100067795849&region=58&global=&sub_region=58&prver=0&pronetvd=null&vibid=2582000671224&type=464",
@@ -1667,14 +1667,14 @@ export const duma_2016_uik_463_region_58_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Алексютин Анатолий Васильевич": 1,
-      "Есяков Сергей Яковлевич": 62,
-      "Камнев Георгий Петрович": 9,
-      "Коломыцева Людмила Викторовна": 6,
-      "Коробов Сергей Александрович": 0,
-      "Куликов Павел Владимирович": 2,
-      "Никифоров Андрей Васильевич": 1,
-      "Пакаев Алексей Федорович": 0
+      "gas:candidate-vibid:2582000740845": 1,
+      "gas:candidate-vibid:2582000740020": 62,
+      "gas:candidate-vibid:2582000740031": 9,
+      "gas:candidate-vibid:2582000738771": 6,
+      "gas:candidate-vibid:2582000739795": 0,
+      "gas:candidate-vibid:2582000734147": 2,
+      "gas:candidate-vibid:2582000741081": 1,
+      "gas:candidate-vibid:2582000740269": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/penza?action=show&root=1000193&tvd=2582000671225&vrn=100100067795849&region=58&global=&sub_region=58&prver=0&pronetvd=null&vibid=2582000671225&type=464",
@@ -1725,14 +1725,14 @@ export const duma_2016_uik_463_region_58_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Алексютин Анатолий Васильевич": 4,
-      "Есяков Сергей Яковлевич": 256,
-      "Камнев Георгий Петрович": 29,
-      "Коломыцева Людмила Викторовна": 7,
-      "Коробов Сергей Александрович": 1,
-      "Куликов Павел Владимирович": 16,
-      "Никифоров Андрей Васильевич": 0,
-      "Пакаев Алексей Федорович": 3
+      "gas:candidate-vibid:2582000740845": 4,
+      "gas:candidate-vibid:2582000740020": 256,
+      "gas:candidate-vibid:2582000740031": 29,
+      "gas:candidate-vibid:2582000738771": 7,
+      "gas:candidate-vibid:2582000739795": 1,
+      "gas:candidate-vibid:2582000734147": 16,
+      "gas:candidate-vibid:2582000741081": 0,
+      "gas:candidate-vibid:2582000740269": 3
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/penza?action=show&root=1000193&tvd=2582000671225&vrn=100100067795849&region=58&global=&sub_region=58&prver=0&pronetvd=null&vibid=2582000671225&type=464",
@@ -1783,14 +1783,14 @@ export const duma_2016_uik_463_region_58_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Алексютин Анатолий Васильевич": 5,
-      "Есяков Сергей Яковлевич": 123,
-      "Камнев Георгий Петрович": 30,
-      "Коломыцева Людмила Викторовна": 10,
-      "Коробов Сергей Александрович": 1,
-      "Куликов Павел Владимирович": 5,
-      "Никифоров Андрей Васильевич": 1,
-      "Пакаев Алексей Федорович": 0
+      "gas:candidate-vibid:2582000740845": 5,
+      "gas:candidate-vibid:2582000740020": 123,
+      "gas:candidate-vibid:2582000740031": 30,
+      "gas:candidate-vibid:2582000738771": 10,
+      "gas:candidate-vibid:2582000739795": 1,
+      "gas:candidate-vibid:2582000734147": 5,
+      "gas:candidate-vibid:2582000741081": 1,
+      "gas:candidate-vibid:2582000740269": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/penza?action=show&root=1000193&tvd=2582000671225&vrn=100100067795849&region=58&global=&sub_region=58&prver=0&pronetvd=null&vibid=2582000671225&type=464",
@@ -1841,14 +1841,14 @@ export const duma_2016_uik_463_region_58_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Алексютин Анатолий Васильевич": 3,
-      "Есяков Сергей Яковлевич": 62,
-      "Камнев Георгий Петрович": 9,
-      "Коломыцева Людмила Викторовна": 10,
-      "Коробов Сергей Александрович": 2,
-      "Куликов Павел Владимирович": 4,
-      "Никифоров Андрей Васильевич": 2,
-      "Пакаев Алексей Федорович": 0
+      "gas:candidate-vibid:2582000740845": 3,
+      "gas:candidate-vibid:2582000740020": 62,
+      "gas:candidate-vibid:2582000740031": 9,
+      "gas:candidate-vibid:2582000738771": 10,
+      "gas:candidate-vibid:2582000739795": 2,
+      "gas:candidate-vibid:2582000734147": 4,
+      "gas:candidate-vibid:2582000741081": 2,
+      "gas:candidate-vibid:2582000740269": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/penza?action=show&root=1000193&tvd=2582000671225&vrn=100100067795849&region=58&global=&sub_region=58&prver=0&pronetvd=null&vibid=2582000671225&type=464",
@@ -1899,14 +1899,14 @@ export const duma_2016_uik_463_region_58_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Алексютин Анатолий Васильевич": 7,
-      "Есяков Сергей Яковлевич": 295,
-      "Камнев Георгий Петрович": 44,
-      "Коломыцева Людмила Викторовна": 26,
-      "Коробов Сергей Александрович": 3,
-      "Куликов Павел Владимирович": 51,
-      "Никифоров Андрей Васильевич": 7,
-      "Пакаев Алексей Федорович": 6
+      "gas:candidate-vibid:2582000740845": 7,
+      "gas:candidate-vibid:2582000740020": 295,
+      "gas:candidate-vibid:2582000740031": 44,
+      "gas:candidate-vibid:2582000738771": 26,
+      "gas:candidate-vibid:2582000739795": 3,
+      "gas:candidate-vibid:2582000734147": 51,
+      "gas:candidate-vibid:2582000741081": 7,
+      "gas:candidate-vibid:2582000740269": 6
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/penza?action=show&root=1000193&tvd=2582000671225&vrn=100100067795849&region=58&global=&sub_region=58&prver=0&pronetvd=null&vibid=2582000671225&type=464",
@@ -1957,14 +1957,14 @@ export const duma_2016_uik_463_region_58_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Алексютин Анатолий Васильевич": 2,
-      "Есяков Сергей Яковлевич": 65,
-      "Камнев Георгий Петрович": 2,
-      "Коломыцева Людмила Викторовна": 1,
-      "Коробов Сергей Александрович": 0,
-      "Куликов Павел Владимирович": 1,
-      "Никифоров Андрей Васильевич": 3,
-      "Пакаев Алексей Федорович": 0
+      "gas:candidate-vibid:2582000740845": 2,
+      "gas:candidate-vibid:2582000740020": 65,
+      "gas:candidate-vibid:2582000740031": 2,
+      "gas:candidate-vibid:2582000738771": 1,
+      "gas:candidate-vibid:2582000739795": 0,
+      "gas:candidate-vibid:2582000734147": 1,
+      "gas:candidate-vibid:2582000741081": 3,
+      "gas:candidate-vibid:2582000740269": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/penza?action=show&root=1000193&tvd=2582000671225&vrn=100100067795849&region=58&global=&sub_region=58&prver=0&pronetvd=null&vibid=2582000671225&type=464",
@@ -2015,14 +2015,14 @@ export const duma_2016_uik_463_region_58_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Алексютин Анатолий Васильевич": 3,
-      "Есяков Сергей Яковлевич": 138,
-      "Камнев Георгий Петрович": 13,
-      "Коломыцева Людмила Викторовна": 13,
-      "Коробов Сергей Александрович": 0,
-      "Куликов Павел Владимирович": 13,
-      "Никифоров Андрей Васильевич": 8,
-      "Пакаев Алексей Федорович": 5
+      "gas:candidate-vibid:2582000740845": 3,
+      "gas:candidate-vibid:2582000740020": 138,
+      "gas:candidate-vibid:2582000740031": 13,
+      "gas:candidate-vibid:2582000738771": 13,
+      "gas:candidate-vibid:2582000739795": 0,
+      "gas:candidate-vibid:2582000734147": 13,
+      "gas:candidate-vibid:2582000741081": 8,
+      "gas:candidate-vibid:2582000740269": 5
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/penza?action=show&root=1000193&tvd=2582000671225&vrn=100100067795849&region=58&global=&sub_region=58&prver=0&pronetvd=null&vibid=2582000671225&type=464",
@@ -2073,14 +2073,14 @@ export const duma_2016_uik_463_region_58_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Алексютин Анатолий Васильевич": 15,
-      "Есяков Сергей Яковлевич": 737,
-      "Камнев Георгий Петрович": 48,
-      "Коломыцева Людмила Викторовна": 60,
-      "Коробов Сергей Александрович": 10,
-      "Куликов Павел Владимирович": 65,
-      "Никифоров Андрей Васильевич": 23,
-      "Пакаев Алексей Федорович": 13
+      "gas:candidate-vibid:2582000740845": 15,
+      "gas:candidate-vibid:2582000740020": 737,
+      "gas:candidate-vibid:2582000740031": 48,
+      "gas:candidate-vibid:2582000738771": 60,
+      "gas:candidate-vibid:2582000739795": 10,
+      "gas:candidate-vibid:2582000734147": 65,
+      "gas:candidate-vibid:2582000741081": 23,
+      "gas:candidate-vibid:2582000740269": 13
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/penza?action=show&root=1000193&tvd=2582000671225&vrn=100100067795849&region=58&global=&sub_region=58&prver=0&pronetvd=null&vibid=2582000671225&type=464",
@@ -2131,14 +2131,14 @@ export const duma_2016_uik_463_region_58_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Алексютин Анатолий Васильевич": 14,
-      "Есяков Сергей Яковлевич": 823,
-      "Камнев Георгий Петрович": 90,
-      "Коломыцева Людмила Викторовна": 54,
-      "Коробов Сергей Александрович": 8,
-      "Куликов Павел Владимирович": 62,
-      "Никифоров Андрей Васильевич": 24,
-      "Пакаев Алексей Федорович": 10
+      "gas:candidate-vibid:2582000740845": 14,
+      "gas:candidate-vibid:2582000740020": 823,
+      "gas:candidate-vibid:2582000740031": 90,
+      "gas:candidate-vibid:2582000738771": 54,
+      "gas:candidate-vibid:2582000739795": 8,
+      "gas:candidate-vibid:2582000734147": 62,
+      "gas:candidate-vibid:2582000741081": 24,
+      "gas:candidate-vibid:2582000740269": 10
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/penza?action=show&root=1000193&tvd=2582000671225&vrn=100100067795849&region=58&global=&sub_region=58&prver=0&pronetvd=null&vibid=2582000671225&type=464",
@@ -2189,14 +2189,14 @@ export const duma_2016_uik_463_region_58_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Алексютин Анатолий Васильевич": 5,
-      "Есяков Сергей Яковлевич": 718,
-      "Камнев Георгий Петрович": 105,
-      "Коломыцева Людмила Викторовна": 50,
-      "Коробов Сергей Александрович": 9,
-      "Куликов Павел Владимирович": 55,
-      "Никифоров Андрей Васильевич": 22,
-      "Пакаев Алексей Федорович": 9
+      "gas:candidate-vibid:2582000740845": 5,
+      "gas:candidate-vibid:2582000740020": 718,
+      "gas:candidate-vibid:2582000740031": 105,
+      "gas:candidate-vibid:2582000738771": 50,
+      "gas:candidate-vibid:2582000739795": 9,
+      "gas:candidate-vibid:2582000734147": 55,
+      "gas:candidate-vibid:2582000741081": 22,
+      "gas:candidate-vibid:2582000740269": 9
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/penza?action=show&root=1000193&tvd=2582000671225&vrn=100100067795849&region=58&global=&sub_region=58&prver=0&pronetvd=null&vibid=2582000671225&type=464",
@@ -2247,14 +2247,14 @@ export const duma_2016_uik_463_region_58_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Алексютин Анатолий Васильевич": 28,
-      "Есяков Сергей Яковлевич": 719,
-      "Камнев Георгий Петрович": 72,
-      "Коломыцева Людмила Викторовна": 21,
-      "Коробов Сергей Александрович": 6,
-      "Куликов Павел Владимирович": 26,
-      "Никифоров Андрей Васильевич": 16,
-      "Пакаев Алексей Федорович": 5
+      "gas:candidate-vibid:2582000740845": 28,
+      "gas:candidate-vibid:2582000740020": 719,
+      "gas:candidate-vibid:2582000740031": 72,
+      "gas:candidate-vibid:2582000738771": 21,
+      "gas:candidate-vibid:2582000739795": 6,
+      "gas:candidate-vibid:2582000734147": 26,
+      "gas:candidate-vibid:2582000741081": 16,
+      "gas:candidate-vibid:2582000740269": 5
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/penza?action=show&root=1000193&tvd=2582000671225&vrn=100100067795849&region=58&global=&sub_region=58&prver=0&pronetvd=null&vibid=2582000671225&type=464",
@@ -2305,14 +2305,14 @@ export const duma_2016_uik_463_region_58_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Алексютин Анатолий Васильевич": 5,
-      "Есяков Сергей Яковлевич": 185,
-      "Камнев Георгий Петрович": 48,
-      "Коломыцева Людмила Викторовна": 19,
-      "Коробов Сергей Александрович": 2,
-      "Куликов Павел Владимирович": 19,
-      "Никифоров Андрей Васильевич": 13,
-      "Пакаев Алексей Федорович": 5
+      "gas:candidate-vibid:2582000740845": 5,
+      "gas:candidate-vibid:2582000740020": 185,
+      "gas:candidate-vibid:2582000740031": 48,
+      "gas:candidate-vibid:2582000738771": 19,
+      "gas:candidate-vibid:2582000739795": 2,
+      "gas:candidate-vibid:2582000734147": 19,
+      "gas:candidate-vibid:2582000741081": 13,
+      "gas:candidate-vibid:2582000740269": 5
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/penza?action=show&root=1000193&tvd=2582000671225&vrn=100100067795849&region=58&global=&sub_region=58&prver=0&pronetvd=null&vibid=2582000671225&type=464",
@@ -2363,14 +2363,14 @@ export const duma_2016_uik_463_region_58_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Алексютин Анатолий Васильевич": 0,
-      "Есяков Сергей Яковлевич": 281,
-      "Камнев Георгий Петрович": 8,
-      "Коломыцева Людмила Викторовна": 18,
-      "Коробов Сергей Александрович": 5,
-      "Куликов Павел Владимирович": 12,
-      "Никифоров Андрей Васильевич": 2,
-      "Пакаев Алексей Федорович": 1
+      "gas:candidate-vibid:2582000740845": 0,
+      "gas:candidate-vibid:2582000740020": 281,
+      "gas:candidate-vibid:2582000740031": 8,
+      "gas:candidate-vibid:2582000738771": 18,
+      "gas:candidate-vibid:2582000739795": 5,
+      "gas:candidate-vibid:2582000734147": 12,
+      "gas:candidate-vibid:2582000741081": 2,
+      "gas:candidate-vibid:2582000740269": 1
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/penza?action=show&root=1000193&tvd=2582000671225&vrn=100100067795849&region=58&global=&sub_region=58&prver=0&pronetvd=null&vibid=2582000671225&type=464",
@@ -2421,14 +2421,14 @@ export const duma_2016_uik_463_region_58_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Алексютин Анатолий Васильевич": 7,
-      "Есяков Сергей Яковлевич": 356,
-      "Камнев Георгий Петрович": 27,
-      "Коломыцева Людмила Викторовна": 21,
-      "Коробов Сергей Александрович": 5,
-      "Куликов Павел Владимирович": 34,
-      "Никифоров Андрей Васильевич": 4,
-      "Пакаев Алексей Федорович": 2
+      "gas:candidate-vibid:2582000740845": 7,
+      "gas:candidate-vibid:2582000740020": 356,
+      "gas:candidate-vibid:2582000740031": 27,
+      "gas:candidate-vibid:2582000738771": 21,
+      "gas:candidate-vibid:2582000739795": 5,
+      "gas:candidate-vibid:2582000734147": 34,
+      "gas:candidate-vibid:2582000741081": 4,
+      "gas:candidate-vibid:2582000740269": 2
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/penza?action=show&root=1000193&tvd=2582000671225&vrn=100100067795849&region=58&global=&sub_region=58&prver=0&pronetvd=null&vibid=2582000671225&type=464",
@@ -2479,14 +2479,14 @@ export const duma_2016_uik_463_region_58_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Алексютин Анатолий Васильевич": 12,
-      "Есяков Сергей Яковлевич": 912,
-      "Камнев Георгий Петрович": 139,
-      "Коломыцева Людмила Викторовна": 88,
-      "Коробов Сергей Александрович": 13,
-      "Куликов Павел Владимирович": 74,
-      "Никифоров Андрей Васильевич": 17,
-      "Пакаев Алексей Федорович": 5
+      "gas:candidate-vibid:2582000740845": 12,
+      "gas:candidate-vibid:2582000740020": 912,
+      "gas:candidate-vibid:2582000740031": 139,
+      "gas:candidate-vibid:2582000738771": 88,
+      "gas:candidate-vibid:2582000739795": 13,
+      "gas:candidate-vibid:2582000734147": 74,
+      "gas:candidate-vibid:2582000741081": 17,
+      "gas:candidate-vibid:2582000740269": 5
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/penza?action=show&root=1000193&tvd=2582000671225&vrn=100100067795849&region=58&global=&sub_region=58&prver=0&pronetvd=null&vibid=2582000671225&type=464",
@@ -2537,14 +2537,14 @@ export const duma_2016_uik_463_region_58_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Алексютин Анатолий Васильевич": 6,
-      "Есяков Сергей Яковлевич": 309,
-      "Камнев Георгий Петрович": 40,
-      "Коломыцева Людмила Викторовна": 17,
-      "Коробов Сергей Александрович": 4,
-      "Куликов Павел Владимирович": 58,
-      "Никифоров Андрей Васильевич": 6,
-      "Пакаев Алексей Федорович": 7
+      "gas:candidate-vibid:2582000740845": 6,
+      "gas:candidate-vibid:2582000740020": 309,
+      "gas:candidate-vibid:2582000740031": 40,
+      "gas:candidate-vibid:2582000738771": 17,
+      "gas:candidate-vibid:2582000739795": 4,
+      "gas:candidate-vibid:2582000734147": 58,
+      "gas:candidate-vibid:2582000741081": 6,
+      "gas:candidate-vibid:2582000740269": 7
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/penza?action=show&root=1000193&tvd=2582000671225&vrn=100100067795849&region=58&global=&sub_region=58&prver=0&pronetvd=null&vibid=2582000671225&type=464",
@@ -2595,14 +2595,14 @@ export const duma_2016_uik_463_region_58_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Алексютин Анатолий Васильевич": 3,
-      "Есяков Сергей Яковлевич": 152,
-      "Камнев Георгий Петрович": 22,
-      "Коломыцева Людмила Викторовна": 9,
-      "Коробов Сергей Александрович": 0,
-      "Куликов Павел Владимирович": 4,
-      "Никифоров Андрей Васильевич": 6,
-      "Пакаев Алексей Федорович": 2
+      "gas:candidate-vibid:2582000740845": 3,
+      "gas:candidate-vibid:2582000740020": 152,
+      "gas:candidate-vibid:2582000740031": 22,
+      "gas:candidate-vibid:2582000738771": 9,
+      "gas:candidate-vibid:2582000739795": 0,
+      "gas:candidate-vibid:2582000734147": 4,
+      "gas:candidate-vibid:2582000741081": 6,
+      "gas:candidate-vibid:2582000740269": 2
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/penza?action=show&root=1000193&tvd=2582000671225&vrn=100100067795849&region=58&global=&sub_region=58&prver=0&pronetvd=null&vibid=2582000671225&type=464",
@@ -2653,14 +2653,14 @@ export const duma_2016_uik_463_region_58_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Алексютин Анатолий Васильевич": 10,
-      "Есяков Сергей Яковлевич": 952,
-      "Камнев Георгий Петрович": 73,
-      "Коломыцева Людмила Викторовна": 24,
-      "Коробов Сергей Александрович": 4,
-      "Куликов Павел Владимирович": 41,
-      "Никифоров Андрей Васильевич": 26,
-      "Пакаев Алексей Федорович": 5
+      "gas:candidate-vibid:2582000740845": 10,
+      "gas:candidate-vibid:2582000740020": 952,
+      "gas:candidate-vibid:2582000740031": 73,
+      "gas:candidate-vibid:2582000738771": 24,
+      "gas:candidate-vibid:2582000739795": 4,
+      "gas:candidate-vibid:2582000734147": 41,
+      "gas:candidate-vibid:2582000741081": 26,
+      "gas:candidate-vibid:2582000740269": 5
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/penza?action=show&root=1000193&tvd=2582000671225&vrn=100100067795849&region=58&global=&sub_region=58&prver=0&pronetvd=null&vibid=2582000671225&type=464",
@@ -2711,14 +2711,14 @@ export const duma_2016_uik_463_region_58_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Алексютин Анатолий Васильевич": 10,
-      "Есяков Сергей Яковлевич": 726,
-      "Камнев Георгий Петрович": 85,
-      "Коломыцева Людмила Викторовна": 86,
-      "Коробов Сергей Александрович": 8,
-      "Куликов Павел Владимирович": 83,
-      "Никифоров Андрей Васильевич": 22,
-      "Пакаев Алексей Федорович": 9
+      "gas:candidate-vibid:2582000740845": 10,
+      "gas:candidate-vibid:2582000740020": 726,
+      "gas:candidate-vibid:2582000740031": 85,
+      "gas:candidate-vibid:2582000738771": 86,
+      "gas:candidate-vibid:2582000739795": 8,
+      "gas:candidate-vibid:2582000734147": 83,
+      "gas:candidate-vibid:2582000741081": 22,
+      "gas:candidate-vibid:2582000740269": 9
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/penza?action=show&root=1000193&tvd=2582000671225&vrn=100100067795849&region=58&global=&sub_region=58&prver=0&pronetvd=null&vibid=2582000671225&type=464",
@@ -2769,14 +2769,14 @@ export const duma_2016_uik_463_region_58_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Алексютин Анатолий Васильевич": 0,
-      "Есяков Сергей Яковлевич": 106,
-      "Камнев Георгий Петрович": 22,
-      "Коломыцева Людмила Викторовна": 4,
-      "Коробов Сергей Александрович": 0,
-      "Куликов Павел Владимирович": 4,
-      "Никифоров Андрей Васильевич": 0,
-      "Пакаев Алексей Федорович": 0
+      "gas:candidate-vibid:2582000740845": 0,
+      "gas:candidate-vibid:2582000740020": 106,
+      "gas:candidate-vibid:2582000740031": 22,
+      "gas:candidate-vibid:2582000738771": 4,
+      "gas:candidate-vibid:2582000739795": 0,
+      "gas:candidate-vibid:2582000734147": 4,
+      "gas:candidate-vibid:2582000741081": 0,
+      "gas:candidate-vibid:2582000740269": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/penza?action=show&root=1000193&tvd=2582000671225&vrn=100100067795849&region=58&global=&sub_region=58&prver=0&pronetvd=null&vibid=2582000671225&type=464",
@@ -2827,14 +2827,14 @@ export const duma_2016_uik_463_region_58_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Алексютин Анатолий Васильевич": 2,
-      "Есяков Сергей Яковлевич": 87,
-      "Камнев Георгий Петрович": 12,
-      "Коломыцева Людмила Викторовна": 18,
-      "Коробов Сергей Александрович": 5,
-      "Куликов Павел Владимирович": 23,
-      "Никифоров Андрей Васильевич": 1,
-      "Пакаев Алексей Федорович": 1
+      "gas:candidate-vibid:2582000740845": 2,
+      "gas:candidate-vibid:2582000740020": 87,
+      "gas:candidate-vibid:2582000740031": 12,
+      "gas:candidate-vibid:2582000738771": 18,
+      "gas:candidate-vibid:2582000739795": 5,
+      "gas:candidate-vibid:2582000734147": 23,
+      "gas:candidate-vibid:2582000741081": 1,
+      "gas:candidate-vibid:2582000740269": 1
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/penza?action=show&root=1000193&tvd=2582000671225&vrn=100100067795849&region=58&global=&sub_region=58&prver=0&pronetvd=null&vibid=2582000671225&type=464",
@@ -2885,14 +2885,14 @@ export const duma_2016_uik_463_region_58_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Алексютин Анатолий Васильевич": 9,
-      "Есяков Сергей Яковлевич": 565,
-      "Камнев Георгий Петрович": 58,
-      "Коломыцева Людмила Викторовна": 35,
-      "Коробов Сергей Александрович": 11,
-      "Куликов Павел Владимирович": 39,
-      "Никифоров Андрей Васильевич": 10,
-      "Пакаев Алексей Федорович": 2
+      "gas:candidate-vibid:2582000740845": 9,
+      "gas:candidate-vibid:2582000740020": 565,
+      "gas:candidate-vibid:2582000740031": 58,
+      "gas:candidate-vibid:2582000738771": 35,
+      "gas:candidate-vibid:2582000739795": 11,
+      "gas:candidate-vibid:2582000734147": 39,
+      "gas:candidate-vibid:2582000741081": 10,
+      "gas:candidate-vibid:2582000740269": 2
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/penza?action=show&root=1000193&tvd=2582000671225&vrn=100100067795849&region=58&global=&sub_region=58&prver=0&pronetvd=null&vibid=2582000671225&type=464",
@@ -2943,14 +2943,14 @@ export const duma_2016_uik_463_region_58_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Алексютин Анатолий Васильевич": 5,
-      "Есяков Сергей Яковлевич": 352,
-      "Камнев Георгий Петрович": 52,
-      "Коломыцева Людмила Викторовна": 34,
-      "Коробов Сергей Александрович": 4,
-      "Куликов Павел Владимирович": 32,
-      "Никифоров Андрей Васильевич": 3,
-      "Пакаев Алексей Федорович": 0
+      "gas:candidate-vibid:2582000740845": 5,
+      "gas:candidate-vibid:2582000740020": 352,
+      "gas:candidate-vibid:2582000740031": 52,
+      "gas:candidate-vibid:2582000738771": 34,
+      "gas:candidate-vibid:2582000739795": 4,
+      "gas:candidate-vibid:2582000734147": 32,
+      "gas:candidate-vibid:2582000741081": 3,
+      "gas:candidate-vibid:2582000740269": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/penza?action=show&root=1000193&tvd=2582000671225&vrn=100100067795849&region=58&global=&sub_region=58&prver=0&pronetvd=null&vibid=2582000671225&type=464",
@@ -3001,14 +3001,14 @@ export const duma_2016_uik_463_region_58_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Алексютин Анатолий Васильевич": 0,
-      "Есяков Сергей Яковлевич": 50,
-      "Камнев Георгий Петрович": 2,
-      "Коломыцева Людмила Викторовна": 3,
-      "Коробов Сергей Александрович": 0,
-      "Куликов Павел Владимирович": 2,
-      "Никифоров Андрей Васильевич": 0,
-      "Пакаев Алексей Федорович": 0
+      "gas:candidate-vibid:2582000740845": 0,
+      "gas:candidate-vibid:2582000740020": 50,
+      "gas:candidate-vibid:2582000740031": 2,
+      "gas:candidate-vibid:2582000738771": 3,
+      "gas:candidate-vibid:2582000739795": 0,
+      "gas:candidate-vibid:2582000734147": 2,
+      "gas:candidate-vibid:2582000741081": 0,
+      "gas:candidate-vibid:2582000740269": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/penza?action=show&root=1000193&tvd=2582000671225&vrn=100100067795849&region=58&global=&sub_region=58&prver=0&pronetvd=null&vibid=2582000671225&type=464",
@@ -3059,14 +3059,14 @@ export const duma_2016_uik_463_region_58_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Алексютин Анатолий Васильевич": 20,
-      "Есяков Сергей Яковлевич": 962,
-      "Камнев Георгий Петрович": 67,
-      "Коломыцева Людмила Викторовна": 90,
-      "Коробов Сергей Александрович": 11,
-      "Куликов Павел Владимирович": 61,
-      "Никифоров Андрей Васильевич": 21,
-      "Пакаев Алексей Федорович": 5
+      "gas:candidate-vibid:2582000740845": 20,
+      "gas:candidate-vibid:2582000740020": 962,
+      "gas:candidate-vibid:2582000740031": 67,
+      "gas:candidate-vibid:2582000738771": 90,
+      "gas:candidate-vibid:2582000739795": 11,
+      "gas:candidate-vibid:2582000734147": 61,
+      "gas:candidate-vibid:2582000741081": 21,
+      "gas:candidate-vibid:2582000740269": 5
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/penza?action=show&root=1000193&tvd=2582000671225&vrn=100100067795849&region=58&global=&sub_region=58&prver=0&pronetvd=null&vibid=2582000671225&type=464",
@@ -3117,14 +3117,14 @@ export const duma_2016_uik_463_region_58_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Алексютин Анатолий Васильевич": 3,
-      "Есяков Сергей Яковлевич": 284,
-      "Камнев Георгий Петрович": 5,
-      "Коломыцева Людмила Викторовна": 13,
-      "Коробов Сергей Александрович": 4,
-      "Куликов Павел Владимирович": 13,
-      "Никифоров Андрей Васильевич": 5,
-      "Пакаев Алексей Федорович": 2
+      "gas:candidate-vibid:2582000740845": 3,
+      "gas:candidate-vibid:2582000740020": 284,
+      "gas:candidate-vibid:2582000740031": 5,
+      "gas:candidate-vibid:2582000738771": 13,
+      "gas:candidate-vibid:2582000739795": 4,
+      "gas:candidate-vibid:2582000734147": 13,
+      "gas:candidate-vibid:2582000741081": 5,
+      "gas:candidate-vibid:2582000740269": 2
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/penza?action=show&root=1000193&tvd=2582000671225&vrn=100100067795849&region=58&global=&sub_region=58&prver=0&pronetvd=null&vibid=2582000671225&type=464",
@@ -3175,14 +3175,14 @@ export const duma_2016_uik_463_region_58_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Алексютин Анатолий Васильевич": 14,
-      "Есяков Сергей Яковлевич": 243,
-      "Камнев Георгий Петрович": 31,
-      "Коломыцева Людмила Викторовна": 12,
-      "Коробов Сергей Александрович": 1,
-      "Куликов Павел Владимирович": 24,
-      "Никифоров Андрей Васильевич": 10,
-      "Пакаев Алексей Федорович": 0
+      "gas:candidate-vibid:2582000740845": 14,
+      "gas:candidate-vibid:2582000740020": 243,
+      "gas:candidate-vibid:2582000740031": 31,
+      "gas:candidate-vibid:2582000738771": 12,
+      "gas:candidate-vibid:2582000739795": 1,
+      "gas:candidate-vibid:2582000734147": 24,
+      "gas:candidate-vibid:2582000741081": 10,
+      "gas:candidate-vibid:2582000740269": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/penza?action=show&root=1000193&tvd=2582000671225&vrn=100100067795849&region=58&global=&sub_region=58&prver=0&pronetvd=null&vibid=2582000671225&type=464",
@@ -3233,14 +3233,14 @@ export const duma_2016_uik_463_region_58_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Алексютин Анатолий Васильевич": 3,
-      "Есяков Сергей Яковлевич": 142,
-      "Камнев Георгий Петрович": 13,
-      "Коломыцева Людмила Викторовна": 7,
-      "Коробов Сергей Александрович": 0,
-      "Куликов Павел Владимирович": 8,
-      "Никифоров Андрей Васильевич": 1,
-      "Пакаев Алексей Федорович": 1
+      "gas:candidate-vibid:2582000740845": 3,
+      "gas:candidate-vibid:2582000740020": 142,
+      "gas:candidate-vibid:2582000740031": 13,
+      "gas:candidate-vibid:2582000738771": 7,
+      "gas:candidate-vibid:2582000739795": 0,
+      "gas:candidate-vibid:2582000734147": 8,
+      "gas:candidate-vibid:2582000741081": 1,
+      "gas:candidate-vibid:2582000740269": 1
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/penza?action=show&root=1000193&tvd=2582000671225&vrn=100100067795849&region=58&global=&sub_region=58&prver=0&pronetvd=null&vibid=2582000671225&type=464",
@@ -3291,14 +3291,14 @@ export const duma_2016_uik_463_region_58_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Алексютин Анатолий Васильевич": 10,
-      "Есяков Сергей Яковлевич": 443,
-      "Камнев Георгий Петрович": 59,
-      "Коломыцева Людмила Викторовна": 37,
-      "Коробов Сергей Александрович": 5,
-      "Куликов Павел Владимирович": 34,
-      "Никифоров Андрей Васильевич": 20,
-      "Пакаев Алексей Федорович": 0
+      "gas:candidate-vibid:2582000740845": 10,
+      "gas:candidate-vibid:2582000740020": 443,
+      "gas:candidate-vibid:2582000740031": 59,
+      "gas:candidate-vibid:2582000738771": 37,
+      "gas:candidate-vibid:2582000739795": 5,
+      "gas:candidate-vibid:2582000734147": 34,
+      "gas:candidate-vibid:2582000741081": 20,
+      "gas:candidate-vibid:2582000740269": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/penza?action=show&root=1000193&tvd=2582000671225&vrn=100100067795849&region=58&global=&sub_region=58&prver=0&pronetvd=null&vibid=2582000671225&type=464",
@@ -3349,14 +3349,14 @@ export const duma_2016_uik_463_region_58_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Алексютин Анатолий Васильевич": 12,
-      "Есяков Сергей Яковлевич": 656,
-      "Камнев Георгий Петрович": 61,
-      "Коломыцева Людмила Викторовна": 96,
-      "Коробов Сергей Александрович": 8,
-      "Куликов Павел Владимирович": 32,
-      "Никифоров Андрей Васильевич": 21,
-      "Пакаев Алексей Федорович": 13
+      "gas:candidate-vibid:2582000740845": 12,
+      "gas:candidate-vibid:2582000740020": 656,
+      "gas:candidate-vibid:2582000740031": 61,
+      "gas:candidate-vibid:2582000738771": 96,
+      "gas:candidate-vibid:2582000739795": 8,
+      "gas:candidate-vibid:2582000734147": 32,
+      "gas:candidate-vibid:2582000741081": 21,
+      "gas:candidate-vibid:2582000740269": 13
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/penza?action=show&root=1000193&tvd=2582000671225&vrn=100100067795849&region=58&global=&sub_region=58&prver=0&pronetvd=null&vibid=2582000671225&type=464",
@@ -3407,14 +3407,14 @@ export const duma_2016_uik_463_region_58_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Алексютин Анатолий Васильевич": 5,
-      "Есяков Сергей Яковлевич": 365,
-      "Камнев Георгий Петрович": 20,
-      "Коломыцева Людмила Викторовна": 13,
-      "Коробов Сергей Александрович": 3,
-      "Куликов Павел Владимирович": 16,
-      "Никифоров Андрей Васильевич": 5,
-      "Пакаев Алексей Федорович": 2
+      "gas:candidate-vibid:2582000740845": 5,
+      "gas:candidate-vibid:2582000740020": 365,
+      "gas:candidate-vibid:2582000740031": 20,
+      "gas:candidate-vibid:2582000738771": 13,
+      "gas:candidate-vibid:2582000739795": 3,
+      "gas:candidate-vibid:2582000734147": 16,
+      "gas:candidate-vibid:2582000741081": 5,
+      "gas:candidate-vibid:2582000740269": 2
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/penza?action=show&root=1000193&tvd=2582000671225&vrn=100100067795849&region=58&global=&sub_region=58&prver=0&pronetvd=null&vibid=2582000671225&type=464",
@@ -3465,14 +3465,14 @@ export const duma_2016_uik_463_region_58_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Алексютин Анатолий Васильевич": 0,
-      "Есяков Сергей Яковлевич": 95,
-      "Камнев Георгий Петрович": 13,
-      "Коломыцева Людмила Викторовна": 4,
-      "Коробов Сергей Александрович": 0,
-      "Куликов Павел Владимирович": 5,
-      "Никифоров Андрей Васильевич": 5,
-      "Пакаев Алексей Федорович": 3
+      "gas:candidate-vibid:2582000740845": 0,
+      "gas:candidate-vibid:2582000740020": 95,
+      "gas:candidate-vibid:2582000740031": 13,
+      "gas:candidate-vibid:2582000738771": 4,
+      "gas:candidate-vibid:2582000739795": 0,
+      "gas:candidate-vibid:2582000734147": 5,
+      "gas:candidate-vibid:2582000741081": 5,
+      "gas:candidate-vibid:2582000740269": 3
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/penza?action=show&root=1000193&tvd=2582000671225&vrn=100100067795849&region=58&global=&sub_region=58&prver=0&pronetvd=null&vibid=2582000671225&type=464",
@@ -3523,14 +3523,14 @@ export const duma_2016_uik_463_region_58_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Алексютин Анатолий Васильевич": 2,
-      "Есяков Сергей Яковлевич": 90,
-      "Камнев Георгий Петрович": 7,
-      "Коломыцева Людмила Викторовна": 9,
-      "Коробов Сергей Александрович": 0,
-      "Куликов Павел Владимирович": 5,
-      "Никифоров Андрей Васильевич": 1,
-      "Пакаев Алексей Федорович": 1
+      "gas:candidate-vibid:2582000740845": 2,
+      "gas:candidate-vibid:2582000740020": 90,
+      "gas:candidate-vibid:2582000740031": 7,
+      "gas:candidate-vibid:2582000738771": 9,
+      "gas:candidate-vibid:2582000739795": 0,
+      "gas:candidate-vibid:2582000734147": 5,
+      "gas:candidate-vibid:2582000741081": 1,
+      "gas:candidate-vibid:2582000740269": 1
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/penza?action=show&root=1000193&tvd=2582000671225&vrn=100100067795849&region=58&global=&sub_region=58&prver=0&pronetvd=null&vibid=2582000671225&type=464",
@@ -3581,14 +3581,14 @@ export const duma_2016_uik_463_region_58_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Алексютин Анатолий Васильевич": 15,
-      "Есяков Сергей Яковлевич": 878,
-      "Камнев Георгий Петрович": 62,
-      "Коломыцева Людмила Викторовна": 53,
-      "Коробов Сергей Александрович": 11,
-      "Куликов Павел Владимирович": 40,
-      "Никифоров Андрей Васильевич": 33,
-      "Пакаев Алексей Федорович": 9
+      "gas:candidate-vibid:2582000740845": 15,
+      "gas:candidate-vibid:2582000740020": 878,
+      "gas:candidate-vibid:2582000740031": 62,
+      "gas:candidate-vibid:2582000738771": 53,
+      "gas:candidate-vibid:2582000739795": 11,
+      "gas:candidate-vibid:2582000734147": 40,
+      "gas:candidate-vibid:2582000741081": 33,
+      "gas:candidate-vibid:2582000740269": 9
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/penza?action=show&root=1000193&tvd=2582000671225&vrn=100100067795849&region=58&global=&sub_region=58&prver=0&pronetvd=null&vibid=2582000671225&type=464",
@@ -3639,14 +3639,14 @@ export const duma_2016_uik_463_region_58_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Алексютин Анатолий Васильевич": 30,
-      "Есяков Сергей Яковлевич": 562,
-      "Камнев Георгий Петрович": 82,
-      "Коломыцева Людмила Викторовна": 39,
-      "Коробов Сергей Александрович": 6,
-      "Куликов Павел Владимирович": 14,
-      "Никифоров Андрей Васильевич": 30,
-      "Пакаев Алексей Федорович": 6
+      "gas:candidate-vibid:2582000740845": 30,
+      "gas:candidate-vibid:2582000740020": 562,
+      "gas:candidate-vibid:2582000740031": 82,
+      "gas:candidate-vibid:2582000738771": 39,
+      "gas:candidate-vibid:2582000739795": 6,
+      "gas:candidate-vibid:2582000734147": 14,
+      "gas:candidate-vibid:2582000741081": 30,
+      "gas:candidate-vibid:2582000740269": 6
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/penza?action=show&root=1000193&tvd=2582000671225&vrn=100100067795849&region=58&global=&sub_region=58&prver=0&pronetvd=null&vibid=2582000671225&type=464",
@@ -3697,14 +3697,14 @@ export const duma_2016_uik_463_region_58_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Алексютин Анатолий Васильевич": 28,
-      "Есяков Сергей Яковлевич": 1062,
-      "Камнев Георгий Петрович": 137,
-      "Коломыцева Людмила Викторовна": 32,
-      "Коробов Сергей Александрович": 16,
-      "Куликов Павел Владимирович": 31,
-      "Никифоров Андрей Васильевич": 38,
-      "Пакаев Алексей Федорович": 6
+      "gas:candidate-vibid:2582000740845": 28,
+      "gas:candidate-vibid:2582000740020": 1062,
+      "gas:candidate-vibid:2582000740031": 137,
+      "gas:candidate-vibid:2582000738771": 32,
+      "gas:candidate-vibid:2582000739795": 16,
+      "gas:candidate-vibid:2582000734147": 31,
+      "gas:candidate-vibid:2582000741081": 38,
+      "gas:candidate-vibid:2582000740269": 6
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/penza?action=show&root=1000193&tvd=2582000671225&vrn=100100067795849&region=58&global=&sub_region=58&prver=0&pronetvd=null&vibid=2582000671225&type=464",
@@ -3755,14 +3755,14 @@ export const duma_2016_uik_463_region_58_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Алексютин Анатолий Васильевич": 18,
-      "Есяков Сергей Яковлевич": 945,
-      "Камнев Георгий Петрович": 81,
-      "Коломыцева Людмила Викторовна": 48,
-      "Коробов Сергей Александрович": 12,
-      "Куликов Павел Владимирович": 68,
-      "Никифоров Андрей Васильевич": 31,
-      "Пакаев Алексей Федорович": 9
+      "gas:candidate-vibid:2582000740845": 18,
+      "gas:candidate-vibid:2582000740020": 945,
+      "gas:candidate-vibid:2582000740031": 81,
+      "gas:candidate-vibid:2582000738771": 48,
+      "gas:candidate-vibid:2582000739795": 12,
+      "gas:candidate-vibid:2582000734147": 68,
+      "gas:candidate-vibid:2582000741081": 31,
+      "gas:candidate-vibid:2582000740269": 9
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/penza?action=show&root=1000193&tvd=2582000671225&vrn=100100067795849&region=58&global=&sub_region=58&prver=0&pronetvd=null&vibid=2582000671225&type=464",
@@ -3813,14 +3813,14 @@ export const duma_2016_uik_463_region_58_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Алексютин Анатолий Васильевич": 28,
-      "Есяков Сергей Яковлевич": 643,
-      "Камнев Георгий Петрович": 73,
-      "Коломыцева Людмила Викторовна": 94,
-      "Коробов Сергей Александрович": 14,
-      "Куликов Павел Владимирович": 67,
-      "Никифоров Андрей Васильевич": 44,
-      "Пакаев Алексей Федорович": 6
+      "gas:candidate-vibid:2582000740845": 28,
+      "gas:candidate-vibid:2582000740020": 643,
+      "gas:candidate-vibid:2582000740031": 73,
+      "gas:candidate-vibid:2582000738771": 94,
+      "gas:candidate-vibid:2582000739795": 14,
+      "gas:candidate-vibid:2582000734147": 67,
+      "gas:candidate-vibid:2582000741081": 44,
+      "gas:candidate-vibid:2582000740269": 6
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/penza?action=show&root=1000193&tvd=2582000671225&vrn=100100067795849&region=58&global=&sub_region=58&prver=0&pronetvd=null&vibid=2582000671225&type=464",
@@ -3871,14 +3871,14 @@ export const duma_2016_uik_463_region_58_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Алексютин Анатолий Васильевич": 21,
-      "Есяков Сергей Яковлевич": 719,
-      "Камнев Георгий Петрович": 41,
-      "Коломыцева Людмила Викторовна": 56,
-      "Коробов Сергей Александрович": 7,
-      "Куликов Павел Владимирович": 48,
-      "Никифоров Андрей Васильевич": 16,
-      "Пакаев Алексей Федорович": 5
+      "gas:candidate-vibid:2582000740845": 21,
+      "gas:candidate-vibid:2582000740020": 719,
+      "gas:candidate-vibid:2582000740031": 41,
+      "gas:candidate-vibid:2582000738771": 56,
+      "gas:candidate-vibid:2582000739795": 7,
+      "gas:candidate-vibid:2582000734147": 48,
+      "gas:candidate-vibid:2582000741081": 16,
+      "gas:candidate-vibid:2582000740269": 5
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/penza?action=show&root=1000193&tvd=2582000671225&vrn=100100067795849&region=58&global=&sub_region=58&prver=0&pronetvd=null&vibid=2582000671225&type=464",
@@ -3929,14 +3929,14 @@ export const duma_2016_uik_463_region_58_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Алексютин Анатолий Васильевич": 3,
-      "Есяков Сергей Яковлевич": 153,
-      "Камнев Георгий Петрович": 65,
-      "Коломыцева Людмила Викторовна": 12,
-      "Коробов Сергей Александрович": 4,
-      "Куликов Павел Владимирович": 15,
-      "Никифоров Андрей Васильевич": 8,
-      "Пакаев Алексей Федорович": 1
+      "gas:candidate-vibid:2582000740845": 3,
+      "gas:candidate-vibid:2582000740020": 153,
+      "gas:candidate-vibid:2582000740031": 65,
+      "gas:candidate-vibid:2582000738771": 12,
+      "gas:candidate-vibid:2582000739795": 4,
+      "gas:candidate-vibid:2582000734147": 15,
+      "gas:candidate-vibid:2582000741081": 8,
+      "gas:candidate-vibid:2582000740269": 1
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/penza?action=show&root=1000193&tvd=2582000671226&vrn=100100067795849&region=58&global=&sub_region=58&prver=0&pronetvd=null&vibid=2582000671226&type=464",
@@ -3987,14 +3987,14 @@ export const duma_2016_uik_463_region_58_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Алексютин Анатолий Васильевич": 13,
-      "Есяков Сергей Яковлевич": 422,
-      "Камнев Георгий Петрович": 84,
-      "Коломыцева Людмила Викторовна": 16,
-      "Коробов Сергей Александрович": 7,
-      "Куликов Павел Владимирович": 43,
-      "Никифоров Андрей Васильевич": 22,
-      "Пакаев Алексей Федорович": 4
+      "gas:candidate-vibid:2582000740845": 13,
+      "gas:candidate-vibid:2582000740020": 422,
+      "gas:candidate-vibid:2582000740031": 84,
+      "gas:candidate-vibid:2582000738771": 16,
+      "gas:candidate-vibid:2582000739795": 7,
+      "gas:candidate-vibid:2582000734147": 43,
+      "gas:candidate-vibid:2582000741081": 22,
+      "gas:candidate-vibid:2582000740269": 4
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/penza?action=show&root=1000193&tvd=2582000671226&vrn=100100067795849&region=58&global=&sub_region=58&prver=0&pronetvd=null&vibid=2582000671226&type=464",
@@ -4045,14 +4045,14 @@ export const duma_2016_uik_463_region_58_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Алексютин Анатолий Васильевич": 6,
-      "Есяков Сергей Яковлевич": 152,
-      "Камнев Георгий Петрович": 41,
-      "Коломыцева Людмила Викторовна": 10,
-      "Коробов Сергей Александрович": 4,
-      "Куликов Павел Владимирович": 18,
-      "Никифоров Андрей Васильевич": 9,
-      "Пакаев Алексей Федорович": 4
+      "gas:candidate-vibid:2582000740845": 6,
+      "gas:candidate-vibid:2582000740020": 152,
+      "gas:candidate-vibid:2582000740031": 41,
+      "gas:candidate-vibid:2582000738771": 10,
+      "gas:candidate-vibid:2582000739795": 4,
+      "gas:candidate-vibid:2582000734147": 18,
+      "gas:candidate-vibid:2582000741081": 9,
+      "gas:candidate-vibid:2582000740269": 4
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/penza?action=show&root=1000193&tvd=2582000671226&vrn=100100067795849&region=58&global=&sub_region=58&prver=0&pronetvd=null&vibid=2582000671226&type=464",
@@ -4103,14 +4103,14 @@ export const duma_2016_uik_463_region_58_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Алексютин Анатолий Васильевич": 2,
-      "Есяков Сергей Яковлевич": 196,
-      "Камнев Георгий Петрович": 38,
-      "Коломыцева Людмила Викторовна": 18,
-      "Коробов Сергей Александрович": 5,
-      "Куликов Павел Владимирович": 18,
-      "Никифоров Андрей Васильевич": 7,
-      "Пакаев Алексей Федорович": 0
+      "gas:candidate-vibid:2582000740845": 2,
+      "gas:candidate-vibid:2582000740020": 196,
+      "gas:candidate-vibid:2582000740031": 38,
+      "gas:candidate-vibid:2582000738771": 18,
+      "gas:candidate-vibid:2582000739795": 5,
+      "gas:candidate-vibid:2582000734147": 18,
+      "gas:candidate-vibid:2582000741081": 7,
+      "gas:candidate-vibid:2582000740269": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/penza?action=show&root=1000193&tvd=2582000671226&vrn=100100067795849&region=58&global=&sub_region=58&prver=0&pronetvd=null&vibid=2582000671226&type=464",
@@ -4161,14 +4161,14 @@ export const duma_2016_uik_463_region_58_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Алексютин Анатолий Васильевич": 3,
-      "Есяков Сергей Яковлевич": 192,
-      "Камнев Георгий Петрович": 50,
-      "Коломыцева Людмила Викторовна": 13,
-      "Коробов Сергей Александрович": 3,
-      "Куликов Павел Владимирович": 12,
-      "Никифоров Андрей Васильевич": 4,
-      "Пакаев Алексей Федорович": 0
+      "gas:candidate-vibid:2582000740845": 3,
+      "gas:candidate-vibid:2582000740020": 192,
+      "gas:candidate-vibid:2582000740031": 50,
+      "gas:candidate-vibid:2582000738771": 13,
+      "gas:candidate-vibid:2582000739795": 3,
+      "gas:candidate-vibid:2582000734147": 12,
+      "gas:candidate-vibid:2582000741081": 4,
+      "gas:candidate-vibid:2582000740269": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/penza?action=show&root=1000193&tvd=2582000671226&vrn=100100067795849&region=58&global=&sub_region=58&prver=0&pronetvd=null&vibid=2582000671226&type=464",
@@ -4219,14 +4219,14 @@ export const duma_2016_uik_463_region_58_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Алексютин Анатолий Васильевич": 1,
-      "Есяков Сергей Яковлевич": 381,
-      "Камнев Георгий Петрович": 67,
-      "Коломыцева Людмила Викторовна": 15,
-      "Коробов Сергей Александрович": 2,
-      "Куликов Павел Владимирович": 12,
-      "Никифоров Андрей Васильевич": 8,
-      "Пакаев Алексей Федорович": 0
+      "gas:candidate-vibid:2582000740845": 1,
+      "gas:candidate-vibid:2582000740020": 381,
+      "gas:candidate-vibid:2582000740031": 67,
+      "gas:candidate-vibid:2582000738771": 15,
+      "gas:candidate-vibid:2582000739795": 2,
+      "gas:candidate-vibid:2582000734147": 12,
+      "gas:candidate-vibid:2582000741081": 8,
+      "gas:candidate-vibid:2582000740269": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/penza?action=show&root=1000193&tvd=2582000671226&vrn=100100067795849&region=58&global=&sub_region=58&prver=0&pronetvd=null&vibid=2582000671226&type=464",
@@ -4277,14 +4277,14 @@ export const duma_2016_uik_463_region_58_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Алексютин Анатолий Васильевич": 8,
-      "Есяков Сергей Яковлевич": 165,
-      "Камнев Георгий Петрович": 58,
-      "Коломыцева Людмила Викторовна": 37,
-      "Коробов Сергей Александрович": 1,
-      "Куликов Павел Владимирович": 45,
-      "Никифоров Андрей Васильевич": 8,
-      "Пакаев Алексей Федорович": 3
+      "gas:candidate-vibid:2582000740845": 8,
+      "gas:candidate-vibid:2582000740020": 165,
+      "gas:candidate-vibid:2582000740031": 58,
+      "gas:candidate-vibid:2582000738771": 37,
+      "gas:candidate-vibid:2582000739795": 1,
+      "gas:candidate-vibid:2582000734147": 45,
+      "gas:candidate-vibid:2582000741081": 8,
+      "gas:candidate-vibid:2582000740269": 3
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/penza?action=show&root=1000193&tvd=2582000671226&vrn=100100067795849&region=58&global=&sub_region=58&prver=0&pronetvd=null&vibid=2582000671226&type=464",
@@ -4335,14 +4335,14 @@ export const duma_2016_uik_463_region_58_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Алексютин Анатолий Васильевич": 7,
-      "Есяков Сергей Яковлевич": 594,
-      "Камнев Георгий Петрович": 99,
-      "Коломыцева Людмила Викторовна": 21,
-      "Коробов Сергей Александрович": 2,
-      "Куликов Павел Владимирович": 29,
-      "Никифоров Андрей Васильевич": 13,
-      "Пакаев Алексей Федорович": 6
+      "gas:candidate-vibid:2582000740845": 7,
+      "gas:candidate-vibid:2582000740020": 594,
+      "gas:candidate-vibid:2582000740031": 99,
+      "gas:candidate-vibid:2582000738771": 21,
+      "gas:candidate-vibid:2582000739795": 2,
+      "gas:candidate-vibid:2582000734147": 29,
+      "gas:candidate-vibid:2582000741081": 13,
+      "gas:candidate-vibid:2582000740269": 6
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/penza?action=show&root=1000193&tvd=2582000671226&vrn=100100067795849&region=58&global=&sub_region=58&prver=0&pronetvd=null&vibid=2582000671226&type=464",
@@ -4393,14 +4393,14 @@ export const duma_2016_uik_463_region_58_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Алексютин Анатолий Васильевич": 5,
-      "Есяков Сергей Яковлевич": 140,
-      "Камнев Георгий Петрович": 43,
-      "Коломыцева Людмила Викторовна": 29,
-      "Коробов Сергей Александрович": 14,
-      "Куликов Павел Владимирович": 17,
-      "Никифоров Андрей Васильевич": 13,
-      "Пакаев Алексей Федорович": 1
+      "gas:candidate-vibid:2582000740845": 5,
+      "gas:candidate-vibid:2582000740020": 140,
+      "gas:candidate-vibid:2582000740031": 43,
+      "gas:candidate-vibid:2582000738771": 29,
+      "gas:candidate-vibid:2582000739795": 14,
+      "gas:candidate-vibid:2582000734147": 17,
+      "gas:candidate-vibid:2582000741081": 13,
+      "gas:candidate-vibid:2582000740269": 1
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/penza?action=show&root=1000193&tvd=2582000671226&vrn=100100067795849&region=58&global=&sub_region=58&prver=0&pronetvd=null&vibid=2582000671226&type=464",
@@ -4451,14 +4451,14 @@ export const duma_2016_uik_463_region_58_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Алексютин Анатолий Васильевич": 3,
-      "Есяков Сергей Яковлевич": 294,
-      "Камнев Георгий Петрович": 71,
-      "Коломыцева Людмила Викторовна": 15,
-      "Коробов Сергей Александрович": 4,
-      "Куликов Павел Владимирович": 13,
-      "Никифоров Андрей Васильевич": 5,
-      "Пакаев Алексей Федорович": 1
+      "gas:candidate-vibid:2582000740845": 3,
+      "gas:candidate-vibid:2582000740020": 294,
+      "gas:candidate-vibid:2582000740031": 71,
+      "gas:candidate-vibid:2582000738771": 15,
+      "gas:candidate-vibid:2582000739795": 4,
+      "gas:candidate-vibid:2582000734147": 13,
+      "gas:candidate-vibid:2582000741081": 5,
+      "gas:candidate-vibid:2582000740269": 1
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/penza?action=show&root=1000193&tvd=2582000671226&vrn=100100067795849&region=58&global=&sub_region=58&prver=0&pronetvd=null&vibid=2582000671226&type=464",
@@ -4509,14 +4509,14 @@ export const duma_2016_uik_463_region_58_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Алексютин Анатолий Васильевич": 9,
-      "Есяков Сергей Яковлевич": 344,
-      "Камнев Георгий Петрович": 45,
-      "Коломыцева Людмила Викторовна": 19,
-      "Коробов Сергей Александрович": 4,
-      "Куликов Павел Владимирович": 14,
-      "Никифоров Андрей Васильевич": 5,
-      "Пакаев Алексей Федорович": 2
+      "gas:candidate-vibid:2582000740845": 9,
+      "gas:candidate-vibid:2582000740020": 344,
+      "gas:candidate-vibid:2582000740031": 45,
+      "gas:candidate-vibid:2582000738771": 19,
+      "gas:candidate-vibid:2582000739795": 4,
+      "gas:candidate-vibid:2582000734147": 14,
+      "gas:candidate-vibid:2582000741081": 5,
+      "gas:candidate-vibid:2582000740269": 2
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/penza?action=show&root=1000193&tvd=2582000671226&vrn=100100067795849&region=58&global=&sub_region=58&prver=0&pronetvd=null&vibid=2582000671226&type=464",
@@ -4567,14 +4567,14 @@ export const duma_2016_uik_463_region_58_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Алексютин Анатолий Васильевич": 9,
-      "Есяков Сергей Яковлевич": 193,
-      "Камнев Георгий Петрович": 69,
-      "Коломыцева Людмила Викторовна": 18,
-      "Коробов Сергей Александрович": 6,
-      "Куликов Павел Владимирович": 33,
-      "Никифоров Андрей Васильевич": 7,
-      "Пакаев Алексей Федорович": 4
+      "gas:candidate-vibid:2582000740845": 9,
+      "gas:candidate-vibid:2582000740020": 193,
+      "gas:candidate-vibid:2582000740031": 69,
+      "gas:candidate-vibid:2582000738771": 18,
+      "gas:candidate-vibid:2582000739795": 6,
+      "gas:candidate-vibid:2582000734147": 33,
+      "gas:candidate-vibid:2582000741081": 7,
+      "gas:candidate-vibid:2582000740269": 4
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/penza?action=show&root=1000193&tvd=2582000671226&vrn=100100067795849&region=58&global=&sub_region=58&prver=0&pronetvd=null&vibid=2582000671226&type=464",
@@ -4625,14 +4625,14 @@ export const duma_2016_uik_463_region_58_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Алексютин Анатолий Васильевич": 23,
-      "Есяков Сергей Яковлевич": 259,
-      "Камнев Георгий Петрович": 117,
-      "Коломыцева Людмила Викторовна": 42,
-      "Коробов Сергей Александрович": 6,
-      "Куликов Павел Владимирович": 45,
-      "Никифоров Андрей Васильевич": 11,
-      "Пакаев Алексей Федорович": 4
+      "gas:candidate-vibid:2582000740845": 23,
+      "gas:candidate-vibid:2582000740020": 259,
+      "gas:candidate-vibid:2582000740031": 117,
+      "gas:candidate-vibid:2582000738771": 42,
+      "gas:candidate-vibid:2582000739795": 6,
+      "gas:candidate-vibid:2582000734147": 45,
+      "gas:candidate-vibid:2582000741081": 11,
+      "gas:candidate-vibid:2582000740269": 4
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/penza?action=show&root=1000193&tvd=2582000671226&vrn=100100067795849&region=58&global=&sub_region=58&prver=0&pronetvd=null&vibid=2582000671226&type=464",
@@ -4683,14 +4683,14 @@ export const duma_2016_uik_463_region_58_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Алексютин Анатолий Васильевич": 11,
-      "Есяков Сергей Яковлевич": 199,
-      "Камнев Георгий Петрович": 63,
-      "Коломыцева Людмила Викторовна": 9,
-      "Коробов Сергей Александрович": 4,
-      "Куликов Павел Владимирович": 14,
-      "Никифоров Андрей Васильевич": 11,
-      "Пакаев Алексей Федорович": 2
+      "gas:candidate-vibid:2582000740845": 11,
+      "gas:candidate-vibid:2582000740020": 199,
+      "gas:candidate-vibid:2582000740031": 63,
+      "gas:candidate-vibid:2582000738771": 9,
+      "gas:candidate-vibid:2582000739795": 4,
+      "gas:candidate-vibid:2582000734147": 14,
+      "gas:candidate-vibid:2582000741081": 11,
+      "gas:candidate-vibid:2582000740269": 2
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/penza?action=show&root=1000193&tvd=2582000671226&vrn=100100067795849&region=58&global=&sub_region=58&prver=0&pronetvd=null&vibid=2582000671226&type=464",
@@ -4741,14 +4741,14 @@ export const duma_2016_uik_463_region_58_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Алексютин Анатолий Васильевич": 13,
-      "Есяков Сергей Яковлевич": 222,
-      "Камнев Георгий Петрович": 54,
-      "Коломыцева Людмила Викторовна": 23,
-      "Коробов Сергей Александрович": 10,
-      "Куликов Павел Владимирович": 33,
-      "Никифоров Андрей Васильевич": 7,
-      "Пакаев Алексей Федорович": 2
+      "gas:candidate-vibid:2582000740845": 13,
+      "gas:candidate-vibid:2582000740020": 222,
+      "gas:candidate-vibid:2582000740031": 54,
+      "gas:candidate-vibid:2582000738771": 23,
+      "gas:candidate-vibid:2582000739795": 10,
+      "gas:candidate-vibid:2582000734147": 33,
+      "gas:candidate-vibid:2582000741081": 7,
+      "gas:candidate-vibid:2582000740269": 2
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/penza?action=show&root=1000193&tvd=2582000671226&vrn=100100067795849&region=58&global=&sub_region=58&prver=0&pronetvd=null&vibid=2582000671226&type=464",
@@ -4799,14 +4799,14 @@ export const duma_2016_uik_463_region_58_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Алексютин Анатолий Васильевич": 4,
-      "Есяков Сергей Яковлевич": 416,
-      "Камнев Георгий Петрович": 66,
-      "Коломыцева Людмила Викторовна": 23,
-      "Коробов Сергей Александрович": 4,
-      "Куликов Павел Владимирович": 27,
-      "Никифоров Андрей Васильевич": 8,
-      "Пакаев Алексей Федорович": 1
+      "gas:candidate-vibid:2582000740845": 4,
+      "gas:candidate-vibid:2582000740020": 416,
+      "gas:candidate-vibid:2582000740031": 66,
+      "gas:candidate-vibid:2582000738771": 23,
+      "gas:candidate-vibid:2582000739795": 4,
+      "gas:candidate-vibid:2582000734147": 27,
+      "gas:candidate-vibid:2582000741081": 8,
+      "gas:candidate-vibid:2582000740269": 1
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/penza?action=show&root=1000193&tvd=2582000671226&vrn=100100067795849&region=58&global=&sub_region=58&prver=0&pronetvd=null&vibid=2582000671226&type=464",
@@ -4857,14 +4857,14 @@ export const duma_2016_uik_463_region_58_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Алексютин Анатолий Васильевич": 16,
-      "Есяков Сергей Яковлевич": 278,
-      "Камнев Георгий Петрович": 45,
-      "Коломыцева Людмила Викторовна": 18,
-      "Коробов Сергей Александрович": 5,
-      "Куликов Павел Владимирович": 20,
-      "Никифоров Андрей Васильевич": 9,
-      "Пакаев Алексей Федорович": 2
+      "gas:candidate-vibid:2582000740845": 16,
+      "gas:candidate-vibid:2582000740020": 278,
+      "gas:candidate-vibid:2582000740031": 45,
+      "gas:candidate-vibid:2582000738771": 18,
+      "gas:candidate-vibid:2582000739795": 5,
+      "gas:candidate-vibid:2582000734147": 20,
+      "gas:candidate-vibid:2582000741081": 9,
+      "gas:candidate-vibid:2582000740269": 2
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/penza?action=show&root=1000193&tvd=2582000671226&vrn=100100067795849&region=58&global=&sub_region=58&prver=0&pronetvd=null&vibid=2582000671226&type=464",
@@ -4915,14 +4915,14 @@ export const duma_2016_uik_463_region_58_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Алексютин Анатолий Васильевич": 1,
-      "Есяков Сергей Яковлевич": 70,
-      "Камнев Георгий Петрович": 39,
-      "Коломыцева Людмила Викторовна": 12,
-      "Коробов Сергей Александрович": 0,
-      "Куликов Павел Владимирович": 6,
-      "Никифоров Андрей Васильевич": 6,
-      "Пакаев Алексей Федорович": 0
+      "gas:candidate-vibid:2582000740845": 1,
+      "gas:candidate-vibid:2582000740020": 70,
+      "gas:candidate-vibid:2582000740031": 39,
+      "gas:candidate-vibid:2582000738771": 12,
+      "gas:candidate-vibid:2582000739795": 0,
+      "gas:candidate-vibid:2582000734147": 6,
+      "gas:candidate-vibid:2582000741081": 6,
+      "gas:candidate-vibid:2582000740269": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/penza?action=show&root=1000193&tvd=2582000671226&vrn=100100067795849&region=58&global=&sub_region=58&prver=0&pronetvd=null&vibid=2582000671226&type=464",
@@ -4973,14 +4973,14 @@ export const duma_2016_uik_463_region_58_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Алексютин Анатолий Васильевич": 11,
-      "Есяков Сергей Яковлевич": 452,
-      "Камнев Георгий Петрович": 100,
-      "Коломыцева Людмила Викторовна": 56,
-      "Коробов Сергей Александрович": 11,
-      "Куликов Павел Владимирович": 49,
-      "Никифоров Андрей Васильевич": 15,
-      "Пакаев Алексей Федорович": 5
+      "gas:candidate-vibid:2582000740845": 11,
+      "gas:candidate-vibid:2582000740020": 452,
+      "gas:candidate-vibid:2582000740031": 100,
+      "gas:candidate-vibid:2582000738771": 56,
+      "gas:candidate-vibid:2582000739795": 11,
+      "gas:candidate-vibid:2582000734147": 49,
+      "gas:candidate-vibid:2582000741081": 15,
+      "gas:candidate-vibid:2582000740269": 5
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/penza?action=show&root=1000193&tvd=2582000671226&vrn=100100067795849&region=58&global=&sub_region=58&prver=0&pronetvd=null&vibid=2582000671226&type=464",
@@ -5031,14 +5031,14 @@ export const duma_2016_uik_463_region_58_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Алексютин Анатолий Васильевич": 6,
-      "Есяков Сергей Яковлевич": 384,
-      "Камнев Георгий Петрович": 84,
-      "Коломыцева Людмила Викторовна": 47,
-      "Коробов Сергей Александрович": 7,
-      "Куликов Павел Владимирович": 46,
-      "Никифоров Андрей Васильевич": 13,
-      "Пакаев Алексей Федорович": 3
+      "gas:candidate-vibid:2582000740845": 6,
+      "gas:candidate-vibid:2582000740020": 384,
+      "gas:candidate-vibid:2582000740031": 84,
+      "gas:candidate-vibid:2582000738771": 47,
+      "gas:candidate-vibid:2582000739795": 7,
+      "gas:candidate-vibid:2582000734147": 46,
+      "gas:candidate-vibid:2582000741081": 13,
+      "gas:candidate-vibid:2582000740269": 3
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/penza?action=show&root=1000193&tvd=2582000671226&vrn=100100067795849&region=58&global=&sub_region=58&prver=0&pronetvd=null&vibid=2582000671226&type=464",
@@ -5089,14 +5089,14 @@ export const duma_2016_uik_463_region_58_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Алексютин Анатолий Васильевич": 12,
-      "Есяков Сергей Яковлевич": 273,
-      "Камнев Георгий Петрович": 115,
-      "Коломыцева Людмила Викторовна": 62,
-      "Коробов Сергей Александрович": 7,
-      "Куликов Павел Владимирович": 50,
-      "Никифоров Андрей Васильевич": 18,
-      "Пакаев Алексей Федорович": 6
+      "gas:candidate-vibid:2582000740845": 12,
+      "gas:candidate-vibid:2582000740020": 273,
+      "gas:candidate-vibid:2582000740031": 115,
+      "gas:candidate-vibid:2582000738771": 62,
+      "gas:candidate-vibid:2582000739795": 7,
+      "gas:candidate-vibid:2582000734147": 50,
+      "gas:candidate-vibid:2582000741081": 18,
+      "gas:candidate-vibid:2582000740269": 6
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/penza?action=show&root=1000193&tvd=2582000671226&vrn=100100067795849&region=58&global=&sub_region=58&prver=0&pronetvd=null&vibid=2582000671226&type=464",
@@ -5147,14 +5147,14 @@ export const duma_2016_uik_463_region_58_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Алексютин Анатолий Васильевич": 5,
-      "Есяков Сергей Яковлевич": 189,
-      "Камнев Георгий Петрович": 133,
-      "Коломыцева Людмила Викторовна": 74,
-      "Коробов Сергей Александрович": 8,
-      "Куликов Павел Владимирович": 36,
-      "Никифоров Андрей Васильевич": 14,
-      "Пакаев Алексей Федорович": 7
+      "gas:candidate-vibid:2582000740845": 5,
+      "gas:candidate-vibid:2582000740020": 189,
+      "gas:candidate-vibid:2582000740031": 133,
+      "gas:candidate-vibid:2582000738771": 74,
+      "gas:candidate-vibid:2582000739795": 8,
+      "gas:candidate-vibid:2582000734147": 36,
+      "gas:candidate-vibid:2582000741081": 14,
+      "gas:candidate-vibid:2582000740269": 7
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/penza?action=show&root=1000193&tvd=2582000671226&vrn=100100067795849&region=58&global=&sub_region=58&prver=0&pronetvd=null&vibid=2582000671226&type=464",
@@ -5205,14 +5205,14 @@ export const duma_2016_uik_463_region_58_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Алексютин Анатолий Васильевич": 19,
-      "Есяков Сергей Яковлевич": 328,
-      "Камнев Георгий Петрович": 141,
-      "Коломыцева Людмила Викторовна": 83,
-      "Коробов Сергей Александрович": 14,
-      "Куликов Павел Владимирович": 55,
-      "Никифоров Андрей Васильевич": 24,
-      "Пакаев Алексей Федорович": 13
+      "gas:candidate-vibid:2582000740845": 19,
+      "gas:candidate-vibid:2582000740020": 328,
+      "gas:candidate-vibid:2582000740031": 141,
+      "gas:candidate-vibid:2582000738771": 83,
+      "gas:candidate-vibid:2582000739795": 14,
+      "gas:candidate-vibid:2582000734147": 55,
+      "gas:candidate-vibid:2582000741081": 24,
+      "gas:candidate-vibid:2582000740269": 13
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/penza?action=show&root=1000193&tvd=2582000671226&vrn=100100067795849&region=58&global=&sub_region=58&prver=0&pronetvd=null&vibid=2582000671226&type=464",
@@ -5263,14 +5263,14 @@ export const duma_2016_uik_463_region_58_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Алексютин Анатолий Васильевич": 14,
-      "Есяков Сергей Яковлевич": 681,
-      "Камнев Георгий Петрович": 156,
-      "Коломыцева Людмила Викторовна": 54,
-      "Коробов Сергей Александрович": 8,
-      "Куликов Павел Владимирович": 50,
-      "Никифоров Андрей Васильевич": 18,
-      "Пакаев Алексей Федорович": 4
+      "gas:candidate-vibid:2582000740845": 14,
+      "gas:candidate-vibid:2582000740020": 681,
+      "gas:candidate-vibid:2582000740031": 156,
+      "gas:candidate-vibid:2582000738771": 54,
+      "gas:candidate-vibid:2582000739795": 8,
+      "gas:candidate-vibid:2582000734147": 50,
+      "gas:candidate-vibid:2582000741081": 18,
+      "gas:candidate-vibid:2582000740269": 4
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/penza?action=show&root=1000193&tvd=2582000671226&vrn=100100067795849&region=58&global=&sub_region=58&prver=0&pronetvd=null&vibid=2582000671226&type=464",
@@ -5321,14 +5321,14 @@ export const duma_2016_uik_463_region_58_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Алексютин Анатолий Васильевич": 4,
-      "Есяков Сергей Яковлевич": 335,
-      "Камнев Георгий Петрович": 74,
-      "Коломыцева Людмила Викторовна": 22,
-      "Коробов Сергей Александрович": 6,
-      "Куликов Павел Владимирович": 30,
-      "Никифоров Андрей Васильевич": 10,
-      "Пакаев Алексей Федорович": 1
+      "gas:candidate-vibid:2582000740845": 4,
+      "gas:candidate-vibid:2582000740020": 335,
+      "gas:candidate-vibid:2582000740031": 74,
+      "gas:candidate-vibid:2582000738771": 22,
+      "gas:candidate-vibid:2582000739795": 6,
+      "gas:candidate-vibid:2582000734147": 30,
+      "gas:candidate-vibid:2582000741081": 10,
+      "gas:candidate-vibid:2582000740269": 1
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/penza?action=show&root=1000193&tvd=2582000671226&vrn=100100067795849&region=58&global=&sub_region=58&prver=0&pronetvd=null&vibid=2582000671226&type=464",
@@ -5379,14 +5379,14 @@ export const duma_2016_uik_463_region_58_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Алексютин Анатолий Васильевич": 2,
-      "Есяков Сергей Яковлевич": 318,
-      "Камнев Георгий Петрович": 23,
-      "Коломыцева Людмила Викторовна": 2,
-      "Коробов Сергей Александрович": 1,
-      "Куликов Павел Владимирович": 0,
-      "Никифоров Андрей Васильевич": 0,
-      "Пакаев Алексей Федорович": 2
+      "gas:candidate-vibid:2582000740845": 2,
+      "gas:candidate-vibid:2582000740020": 318,
+      "gas:candidate-vibid:2582000740031": 23,
+      "gas:candidate-vibid:2582000738771": 2,
+      "gas:candidate-vibid:2582000739795": 1,
+      "gas:candidate-vibid:2582000734147": 0,
+      "gas:candidate-vibid:2582000741081": 0,
+      "gas:candidate-vibid:2582000740269": 2
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/penza?action=show&root=1000193&tvd=2582000671227&vrn=100100067795849&region=58&global=&sub_region=58&prver=0&pronetvd=null&vibid=2582000671227&type=464",
@@ -5437,14 +5437,14 @@ export const duma_2016_uik_463_region_58_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Алексютин Анатолий Васильевич": 0,
-      "Есяков Сергей Яковлевич": 86,
-      "Камнев Георгий Петрович": 3,
-      "Коломыцева Людмила Викторовна": 1,
-      "Коробов Сергей Александрович": 0,
-      "Куликов Павел Владимирович": 1,
-      "Никифоров Андрей Васильевич": 2,
-      "Пакаев Алексей Федорович": 1
+      "gas:candidate-vibid:2582000740845": 0,
+      "gas:candidate-vibid:2582000740020": 86,
+      "gas:candidate-vibid:2582000740031": 3,
+      "gas:candidate-vibid:2582000738771": 1,
+      "gas:candidate-vibid:2582000739795": 0,
+      "gas:candidate-vibid:2582000734147": 1,
+      "gas:candidate-vibid:2582000741081": 2,
+      "gas:candidate-vibid:2582000740269": 1
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/penza?action=show&root=1000193&tvd=2582000671227&vrn=100100067795849&region=58&global=&sub_region=58&prver=0&pronetvd=null&vibid=2582000671227&type=464",
@@ -5495,14 +5495,14 @@ export const duma_2016_uik_463_region_58_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Алексютин Анатолий Васильевич": 0,
-      "Есяков Сергей Яковлевич": 94,
-      "Камнев Георгий Петрович": 5,
-      "Коломыцева Людмила Викторовна": 0,
-      "Коробов Сергей Александрович": 0,
-      "Куликов Павел Владимирович": 4,
-      "Никифоров Андрей Васильевич": 0,
-      "Пакаев Алексей Федорович": 0
+      "gas:candidate-vibid:2582000740845": 0,
+      "gas:candidate-vibid:2582000740020": 94,
+      "gas:candidate-vibid:2582000740031": 5,
+      "gas:candidate-vibid:2582000738771": 0,
+      "gas:candidate-vibid:2582000739795": 0,
+      "gas:candidate-vibid:2582000734147": 4,
+      "gas:candidate-vibid:2582000741081": 0,
+      "gas:candidate-vibid:2582000740269": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/penza?action=show&root=1000193&tvd=2582000671227&vrn=100100067795849&region=58&global=&sub_region=58&prver=0&pronetvd=null&vibid=2582000671227&type=464",
@@ -5553,14 +5553,14 @@ export const duma_2016_uik_463_region_58_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Алексютин Анатолий Васильевич": 0,
-      "Есяков Сергей Яковлевич": 240,
-      "Камнев Георгий Петрович": 8,
-      "Коломыцева Людмила Викторовна": 0,
-      "Коробов Сергей Александрович": 0,
-      "Куликов Павел Владимирович": 0,
-      "Никифоров Андрей Васильевич": 0,
-      "Пакаев Алексей Федорович": 0
+      "gas:candidate-vibid:2582000740845": 0,
+      "gas:candidate-vibid:2582000740020": 240,
+      "gas:candidate-vibid:2582000740031": 8,
+      "gas:candidate-vibid:2582000738771": 0,
+      "gas:candidate-vibid:2582000739795": 0,
+      "gas:candidate-vibid:2582000734147": 0,
+      "gas:candidate-vibid:2582000741081": 0,
+      "gas:candidate-vibid:2582000740269": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/penza?action=show&root=1000193&tvd=2582000671227&vrn=100100067795849&region=58&global=&sub_region=58&prver=0&pronetvd=null&vibid=2582000671227&type=464",
@@ -5611,14 +5611,14 @@ export const duma_2016_uik_463_region_58_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Алексютин Анатолий Васильевич": 9,
-      "Есяков Сергей Яковлевич": 338,
-      "Камнев Георгий Петрович": 49,
-      "Коломыцева Людмила Викторовна": 22,
-      "Коробов Сергей Александрович": 0,
-      "Куликов Павел Владимирович": 24,
-      "Никифоров Андрей Васильевич": 9,
-      "Пакаев Алексей Федорович": 2
+      "gas:candidate-vibid:2582000740845": 9,
+      "gas:candidate-vibid:2582000740020": 338,
+      "gas:candidate-vibid:2582000740031": 49,
+      "gas:candidate-vibid:2582000738771": 22,
+      "gas:candidate-vibid:2582000739795": 0,
+      "gas:candidate-vibid:2582000734147": 24,
+      "gas:candidate-vibid:2582000741081": 9,
+      "gas:candidate-vibid:2582000740269": 2
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/penza?action=show&root=1000193&tvd=2582000671227&vrn=100100067795849&region=58&global=&sub_region=58&prver=0&pronetvd=null&vibid=2582000671227&type=464",
@@ -5669,14 +5669,14 @@ export const duma_2016_uik_463_region_58_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Алексютин Анатолий Васильевич": 0,
-      "Есяков Сергей Яковлевич": 62,
-      "Камнев Георгий Петрович": 1,
-      "Коломыцева Людмила Викторовна": 2,
-      "Коробов Сергей Александрович": 2,
-      "Куликов Павел Владимирович": 2,
-      "Никифоров Андрей Васильевич": 0,
-      "Пакаев Алексей Федорович": 0
+      "gas:candidate-vibid:2582000740845": 0,
+      "gas:candidate-vibid:2582000740020": 62,
+      "gas:candidate-vibid:2582000740031": 1,
+      "gas:candidate-vibid:2582000738771": 2,
+      "gas:candidate-vibid:2582000739795": 2,
+      "gas:candidate-vibid:2582000734147": 2,
+      "gas:candidate-vibid:2582000741081": 0,
+      "gas:candidate-vibid:2582000740269": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/penza?action=show&root=1000193&tvd=2582000671227&vrn=100100067795849&region=58&global=&sub_region=58&prver=0&pronetvd=null&vibid=2582000671227&type=464",
@@ -5727,14 +5727,14 @@ export const duma_2016_uik_463_region_58_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Алексютин Анатолий Васильевич": 0,
-      "Есяков Сергей Яковлевич": 256,
-      "Камнев Георгий Петрович": 30,
-      "Коломыцева Людмила Викторовна": 0,
-      "Коробов Сергей Александрович": 1,
-      "Куликов Павел Владимирович": 0,
-      "Никифоров Андрей Васильевич": 0,
-      "Пакаев Алексей Федорович": 0
+      "gas:candidate-vibid:2582000740845": 0,
+      "gas:candidate-vibid:2582000740020": 256,
+      "gas:candidate-vibid:2582000740031": 30,
+      "gas:candidate-vibid:2582000738771": 0,
+      "gas:candidate-vibid:2582000739795": 1,
+      "gas:candidate-vibid:2582000734147": 0,
+      "gas:candidate-vibid:2582000741081": 0,
+      "gas:candidate-vibid:2582000740269": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/penza?action=show&root=1000193&tvd=2582000671227&vrn=100100067795849&region=58&global=&sub_region=58&prver=0&pronetvd=null&vibid=2582000671227&type=464",
@@ -5785,14 +5785,14 @@ export const duma_2016_uik_463_region_58_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Алексютин Анатолий Васильевич": 0,
-      "Есяков Сергей Яковлевич": 171,
-      "Камнев Георгий Петрович": 6,
-      "Коломыцева Людмила Викторовна": 0,
-      "Коробов Сергей Александрович": 0,
-      "Куликов Павел Владимирович": 0,
-      "Никифоров Андрей Васильевич": 0,
-      "Пакаев Алексей Федорович": 0
+      "gas:candidate-vibid:2582000740845": 0,
+      "gas:candidate-vibid:2582000740020": 171,
+      "gas:candidate-vibid:2582000740031": 6,
+      "gas:candidate-vibid:2582000738771": 0,
+      "gas:candidate-vibid:2582000739795": 0,
+      "gas:candidate-vibid:2582000734147": 0,
+      "gas:candidate-vibid:2582000741081": 0,
+      "gas:candidate-vibid:2582000740269": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/penza?action=show&root=1000193&tvd=2582000671227&vrn=100100067795849&region=58&global=&sub_region=58&prver=0&pronetvd=null&vibid=2582000671227&type=464",
@@ -5843,14 +5843,14 @@ export const duma_2016_uik_463_region_58_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Алексютин Анатолий Васильевич": 4,
-      "Есяков Сергей Яковлевич": 217,
-      "Камнев Георгий Петрович": 16,
-      "Коломыцева Людмила Викторовна": 8,
-      "Коробов Сергей Александрович": 2,
-      "Куликов Павел Владимирович": 3,
-      "Никифоров Андрей Васильевич": 3,
-      "Пакаев Алексей Федорович": 1
+      "gas:candidate-vibid:2582000740845": 4,
+      "gas:candidate-vibid:2582000740020": 217,
+      "gas:candidate-vibid:2582000740031": 16,
+      "gas:candidate-vibid:2582000738771": 8,
+      "gas:candidate-vibid:2582000739795": 2,
+      "gas:candidate-vibid:2582000734147": 3,
+      "gas:candidate-vibid:2582000741081": 3,
+      "gas:candidate-vibid:2582000740269": 1
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/penza?action=show&root=1000193&tvd=2582000671227&vrn=100100067795849&region=58&global=&sub_region=58&prver=0&pronetvd=null&vibid=2582000671227&type=464",
@@ -5901,14 +5901,14 @@ export const duma_2016_uik_463_region_58_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Алексютин Анатолий Васильевич": 9,
-      "Есяков Сергей Яковлевич": 367,
-      "Камнев Георгий Петрович": 59,
-      "Коломыцева Людмила Викторовна": 12,
-      "Коробов Сергей Александрович": 0,
-      "Куликов Павел Владимирович": 31,
-      "Никифоров Андрей Васильевич": 11,
-      "Пакаев Алексей Федорович": 3
+      "gas:candidate-vibid:2582000740845": 9,
+      "gas:candidate-vibid:2582000740020": 367,
+      "gas:candidate-vibid:2582000740031": 59,
+      "gas:candidate-vibid:2582000738771": 12,
+      "gas:candidate-vibid:2582000739795": 0,
+      "gas:candidate-vibid:2582000734147": 31,
+      "gas:candidate-vibid:2582000741081": 11,
+      "gas:candidate-vibid:2582000740269": 3
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/penza?action=show&root=1000193&tvd=2582000671227&vrn=100100067795849&region=58&global=&sub_region=58&prver=0&pronetvd=null&vibid=2582000671227&type=464",
@@ -5959,14 +5959,14 @@ export const duma_2016_uik_463_region_58_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Алексютин Анатолий Васильевич": 11,
-      "Есяков Сергей Яковлевич": 367,
-      "Камнев Георгий Петрович": 34,
-      "Коломыцева Людмила Викторовна": 17,
-      "Коробов Сергей Александрович": 0,
-      "Куликов Павел Владимирович": 14,
-      "Никифоров Андрей Васильевич": 12,
-      "Пакаев Алексей Федорович": 0
+      "gas:candidate-vibid:2582000740845": 11,
+      "gas:candidate-vibid:2582000740020": 367,
+      "gas:candidate-vibid:2582000740031": 34,
+      "gas:candidate-vibid:2582000738771": 17,
+      "gas:candidate-vibid:2582000739795": 0,
+      "gas:candidate-vibid:2582000734147": 14,
+      "gas:candidate-vibid:2582000741081": 12,
+      "gas:candidate-vibid:2582000740269": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/penza?action=show&root=1000193&tvd=2582000671227&vrn=100100067795849&region=58&global=&sub_region=58&prver=0&pronetvd=null&vibid=2582000671227&type=464",
@@ -6017,14 +6017,14 @@ export const duma_2016_uik_463_region_58_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Алексютин Анатолий Васильевич": 0,
-      "Есяков Сергей Яковлевич": 40,
-      "Камнев Георгий Петрович": 1,
-      "Коломыцева Людмила Викторовна": 1,
-      "Коробов Сергей Александрович": 0,
-      "Куликов Павел Владимирович": 0,
-      "Никифоров Андрей Васильевич": 0,
-      "Пакаев Алексей Федорович": 0
+      "gas:candidate-vibid:2582000740845": 0,
+      "gas:candidate-vibid:2582000740020": 40,
+      "gas:candidate-vibid:2582000740031": 1,
+      "gas:candidate-vibid:2582000738771": 1,
+      "gas:candidate-vibid:2582000739795": 0,
+      "gas:candidate-vibid:2582000734147": 0,
+      "gas:candidate-vibid:2582000741081": 0,
+      "gas:candidate-vibid:2582000740269": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/penza?action=show&root=1000193&tvd=2582000671227&vrn=100100067795849&region=58&global=&sub_region=58&prver=0&pronetvd=null&vibid=2582000671227&type=464",
@@ -6075,14 +6075,14 @@ export const duma_2016_uik_463_region_58_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Алексютин Анатолий Васильевич": 0,
-      "Есяков Сергей Яковлевич": 74,
-      "Камнев Георгий Петрович": 7,
-      "Коломыцева Людмила Викторовна": 1,
-      "Коробов Сергей Александрович": 0,
-      "Куликов Павел Владимирович": 1,
-      "Никифоров Андрей Васильевич": 1,
-      "Пакаев Алексей Федорович": 0
+      "gas:candidate-vibid:2582000740845": 0,
+      "gas:candidate-vibid:2582000740020": 74,
+      "gas:candidate-vibid:2582000740031": 7,
+      "gas:candidate-vibid:2582000738771": 1,
+      "gas:candidate-vibid:2582000739795": 0,
+      "gas:candidate-vibid:2582000734147": 1,
+      "gas:candidate-vibid:2582000741081": 1,
+      "gas:candidate-vibid:2582000740269": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/penza?action=show&root=1000193&tvd=2582000671227&vrn=100100067795849&region=58&global=&sub_region=58&prver=0&pronetvd=null&vibid=2582000671227&type=464",
@@ -6133,14 +6133,14 @@ export const duma_2016_uik_463_region_58_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Алексютин Анатолий Васильевич": 3,
-      "Есяков Сергей Яковлевич": 199,
-      "Камнев Георгий Петрович": 19,
-      "Коломыцева Людмила Викторовна": 11,
-      "Коробов Сергей Александрович": 0,
-      "Куликов Павел Владимирович": 5,
-      "Никифоров Андрей Васильевич": 3,
-      "Пакаев Алексей Федорович": 4
+      "gas:candidate-vibid:2582000740845": 3,
+      "gas:candidate-vibid:2582000740020": 199,
+      "gas:candidate-vibid:2582000740031": 19,
+      "gas:candidate-vibid:2582000738771": 11,
+      "gas:candidate-vibid:2582000739795": 0,
+      "gas:candidate-vibid:2582000734147": 5,
+      "gas:candidate-vibid:2582000741081": 3,
+      "gas:candidate-vibid:2582000740269": 4
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/penza?action=show&root=1000193&tvd=2582000671227&vrn=100100067795849&region=58&global=&sub_region=58&prver=0&pronetvd=null&vibid=2582000671227&type=464",
@@ -6191,14 +6191,14 @@ export const duma_2016_uik_463_region_58_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Алексютин Анатолий Васильевич": 1,
-      "Есяков Сергей Яковлевич": 146,
-      "Камнев Георгий Петрович": 9,
-      "Коломыцева Людмила Викторовна": 3,
-      "Коробов Сергей Александрович": 0,
-      "Куликов Павел Владимирович": 2,
-      "Никифоров Андрей Васильевич": 2,
-      "Пакаев Алексей Федорович": 0
+      "gas:candidate-vibid:2582000740845": 1,
+      "gas:candidate-vibid:2582000740020": 146,
+      "gas:candidate-vibid:2582000740031": 9,
+      "gas:candidate-vibid:2582000738771": 3,
+      "gas:candidate-vibid:2582000739795": 0,
+      "gas:candidate-vibid:2582000734147": 2,
+      "gas:candidate-vibid:2582000741081": 2,
+      "gas:candidate-vibid:2582000740269": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/penza?action=show&root=1000193&tvd=2582000671227&vrn=100100067795849&region=58&global=&sub_region=58&prver=0&pronetvd=null&vibid=2582000671227&type=464",
@@ -6249,14 +6249,14 @@ export const duma_2016_uik_463_region_58_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Алексютин Анатолий Васильевич": 0,
-      "Есяков Сергей Яковлевич": 53,
-      "Камнев Георгий Петрович": 0,
-      "Коломыцева Людмила Викторовна": 2,
-      "Коробов Сергей Александрович": 0,
-      "Куликов Павел Владимирович": 1,
-      "Никифоров Андрей Васильевич": 0,
-      "Пакаев Алексей Федорович": 0
+      "gas:candidate-vibid:2582000740845": 0,
+      "gas:candidate-vibid:2582000740020": 53,
+      "gas:candidate-vibid:2582000740031": 0,
+      "gas:candidate-vibid:2582000738771": 2,
+      "gas:candidate-vibid:2582000739795": 0,
+      "gas:candidate-vibid:2582000734147": 1,
+      "gas:candidate-vibid:2582000741081": 0,
+      "gas:candidate-vibid:2582000740269": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/penza?action=show&root=1000193&tvd=2582000671227&vrn=100100067795849&region=58&global=&sub_region=58&prver=0&pronetvd=null&vibid=2582000671227&type=464",
@@ -6307,14 +6307,14 @@ export const duma_2016_uik_463_region_58_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Алексютин Анатолий Васильевич": 3,
-      "Есяков Сергей Яковлевич": 150,
-      "Камнев Георгий Петрович": 12,
-      "Коломыцева Людмила Викторовна": 1,
-      "Коробов Сергей Александрович": 1,
-      "Куликов Павел Владимирович": 1,
-      "Никифоров Андрей Васильевич": 2,
-      "Пакаев Алексей Федорович": 1
+      "gas:candidate-vibid:2582000740845": 3,
+      "gas:candidate-vibid:2582000740020": 150,
+      "gas:candidate-vibid:2582000740031": 12,
+      "gas:candidate-vibid:2582000738771": 1,
+      "gas:candidate-vibid:2582000739795": 1,
+      "gas:candidate-vibid:2582000734147": 1,
+      "gas:candidate-vibid:2582000741081": 2,
+      "gas:candidate-vibid:2582000740269": 1
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/penza?action=show&root=1000193&tvd=2582000671227&vrn=100100067795849&region=58&global=&sub_region=58&prver=0&pronetvd=null&vibid=2582000671227&type=464",
@@ -6365,14 +6365,14 @@ export const duma_2016_uik_463_region_58_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Алексютин Анатолий Васильевич": 2,
-      "Есяков Сергей Яковлевич": 205,
-      "Камнев Георгий Петрович": 11,
-      "Коломыцева Людмила Викторовна": 11,
-      "Коробов Сергей Александрович": 2,
-      "Куликов Павел Владимирович": 6,
-      "Никифоров Андрей Васильевич": 5,
-      "Пакаев Алексей Федорович": 1
+      "gas:candidate-vibid:2582000740845": 2,
+      "gas:candidate-vibid:2582000740020": 205,
+      "gas:candidate-vibid:2582000740031": 11,
+      "gas:candidate-vibid:2582000738771": 11,
+      "gas:candidate-vibid:2582000739795": 2,
+      "gas:candidate-vibid:2582000734147": 6,
+      "gas:candidate-vibid:2582000741081": 5,
+      "gas:candidate-vibid:2582000740269": 1
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/penza?action=show&root=1000193&tvd=2582000671227&vrn=100100067795849&region=58&global=&sub_region=58&prver=0&pronetvd=null&vibid=2582000671227&type=464",
@@ -6423,14 +6423,14 @@ export const duma_2016_uik_463_region_58_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Алексютин Анатолий Васильевич": 21,
-      "Есяков Сергей Яковлевич": 505,
-      "Камнев Георгий Петрович": 168,
-      "Коломыцева Людмила Викторовна": 90,
-      "Коробов Сергей Александрович": 14,
-      "Куликов Павел Владимирович": 87,
-      "Никифоров Андрей Васильевич": 30,
-      "Пакаев Алексей Федорович": 10
+      "gas:candidate-vibid:2582000740845": 21,
+      "gas:candidate-vibid:2582000740020": 505,
+      "gas:candidate-vibid:2582000740031": 168,
+      "gas:candidate-vibid:2582000738771": 90,
+      "gas:candidate-vibid:2582000739795": 14,
+      "gas:candidate-vibid:2582000734147": 87,
+      "gas:candidate-vibid:2582000741081": 30,
+      "gas:candidate-vibid:2582000740269": 10
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/penza?action=show&root=1000193&tvd=2582000671227&vrn=100100067795849&region=58&global=&sub_region=58&prver=0&pronetvd=null&vibid=2582000671227&type=464",
@@ -6481,14 +6481,14 @@ export const duma_2016_uik_463_region_58_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Алексютин Анатолий Васильевич": 10,
-      "Есяков Сергей Яковлевич": 359,
-      "Камнев Георгий Петрович": 62,
-      "Коломыцева Людмила Викторовна": 26,
-      "Коробов Сергей Александрович": 4,
-      "Куликов Павел Владимирович": 67,
-      "Никифоров Андрей Васильевич": 16,
-      "Пакаев Алексей Федорович": 5
+      "gas:candidate-vibid:2582000740845": 10,
+      "gas:candidate-vibid:2582000740020": 359,
+      "gas:candidate-vibid:2582000740031": 62,
+      "gas:candidate-vibid:2582000738771": 26,
+      "gas:candidate-vibid:2582000739795": 4,
+      "gas:candidate-vibid:2582000734147": 67,
+      "gas:candidate-vibid:2582000741081": 16,
+      "gas:candidate-vibid:2582000740269": 5
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/penza?action=show&root=1000193&tvd=2582000671227&vrn=100100067795849&region=58&global=&sub_region=58&prver=0&pronetvd=null&vibid=2582000671227&type=464",
@@ -6539,14 +6539,14 @@ export const duma_2016_uik_463_region_58_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Алексютин Анатолий Васильевич": 3,
-      "Есяков Сергей Яковлевич": 463,
-      "Камнев Георгий Петрович": 52,
-      "Коломыцева Людмила Викторовна": 7,
-      "Коробов Сергей Александрович": 2,
-      "Куликов Павел Владимирович": 13,
-      "Никифоров Андрей Васильевич": 10,
-      "Пакаев Алексей Федорович": 1
+      "gas:candidate-vibid:2582000740845": 3,
+      "gas:candidate-vibid:2582000740020": 463,
+      "gas:candidate-vibid:2582000740031": 52,
+      "gas:candidate-vibid:2582000738771": 7,
+      "gas:candidate-vibid:2582000739795": 2,
+      "gas:candidate-vibid:2582000734147": 13,
+      "gas:candidate-vibid:2582000741081": 10,
+      "gas:candidate-vibid:2582000740269": 1
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/penza?action=show&root=1000193&tvd=2582000671227&vrn=100100067795849&region=58&global=&sub_region=58&prver=0&pronetvd=null&vibid=2582000671227&type=464",
@@ -6597,14 +6597,14 @@ export const duma_2016_uik_463_region_58_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Алексютин Анатолий Васильевич": 8,
-      "Есяков Сергей Яковлевич": 461,
-      "Камнев Георгий Петрович": 81,
-      "Коломыцева Людмила Викторовна": 38,
-      "Коробов Сергей Александрович": 5,
-      "Куликов Павел Владимирович": 31,
-      "Никифоров Андрей Васильевич": 11,
-      "Пакаев Алексей Федорович": 10
+      "gas:candidate-vibid:2582000740845": 8,
+      "gas:candidate-vibid:2582000740020": 461,
+      "gas:candidate-vibid:2582000740031": 81,
+      "gas:candidate-vibid:2582000738771": 38,
+      "gas:candidate-vibid:2582000739795": 5,
+      "gas:candidate-vibid:2582000734147": 31,
+      "gas:candidate-vibid:2582000741081": 11,
+      "gas:candidate-vibid:2582000740269": 10
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/penza?action=show&root=1000193&tvd=2582000671227&vrn=100100067795849&region=58&global=&sub_region=58&prver=0&pronetvd=null&vibid=2582000671227&type=464",
@@ -6655,14 +6655,14 @@ export const duma_2016_uik_463_region_58_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Алексютин Анатолий Васильевич": 6,
-      "Есяков Сергей Яковлевич": 309,
-      "Камнев Георгий Петрович": 19,
-      "Коломыцева Людмила Викторовна": 11,
-      "Коробов Сергей Александрович": 3,
-      "Куликов Павел Владимирович": 14,
-      "Никифоров Андрей Васильевич": 0,
-      "Пакаев Алексей Федорович": 0
+      "gas:candidate-vibid:2582000740845": 6,
+      "gas:candidate-vibid:2582000740020": 309,
+      "gas:candidate-vibid:2582000740031": 19,
+      "gas:candidate-vibid:2582000738771": 11,
+      "gas:candidate-vibid:2582000739795": 3,
+      "gas:candidate-vibid:2582000734147": 14,
+      "gas:candidate-vibid:2582000741081": 0,
+      "gas:candidate-vibid:2582000740269": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/penza?action=show&root=1000193&tvd=2582000671227&vrn=100100067795849&region=58&global=&sub_region=58&prver=0&pronetvd=null&vibid=2582000671227&type=464",
@@ -6713,14 +6713,14 @@ export const duma_2016_uik_463_region_58_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Алексютин Анатолий Васильевич": 4,
-      "Есяков Сергей Яковлевич": 341,
-      "Камнев Георгий Петрович": 26,
-      "Коломыцева Людмила Викторовна": 6,
-      "Коробов Сергей Александрович": 0,
-      "Куликов Павел Владимирович": 14,
-      "Никифоров Андрей Васильевич": 5,
-      "Пакаев Алексей Федорович": 1
+      "gas:candidate-vibid:2582000740845": 4,
+      "gas:candidate-vibid:2582000740020": 341,
+      "gas:candidate-vibid:2582000740031": 26,
+      "gas:candidate-vibid:2582000738771": 6,
+      "gas:candidate-vibid:2582000739795": 0,
+      "gas:candidate-vibid:2582000734147": 14,
+      "gas:candidate-vibid:2582000741081": 5,
+      "gas:candidate-vibid:2582000740269": 1
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/penza?action=show&root=1000193&tvd=2582000671228&vrn=100100067795849&region=58&global=&sub_region=58&prver=0&pronetvd=null&vibid=2582000671228&type=464",
@@ -6771,14 +6771,14 @@ export const duma_2016_uik_463_region_58_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Алексютин Анатолий Васильевич": 8,
-      "Есяков Сергей Яковлевич": 517,
-      "Камнев Георгий Петрович": 23,
-      "Коломыцева Людмила Викторовна": 18,
-      "Коробов Сергей Александрович": 4,
-      "Куликов Павел Владимирович": 32,
-      "Никифоров Андрей Васильевич": 7,
-      "Пакаев Алексей Федорович": 3
+      "gas:candidate-vibid:2582000740845": 8,
+      "gas:candidate-vibid:2582000740020": 517,
+      "gas:candidate-vibid:2582000740031": 23,
+      "gas:candidate-vibid:2582000738771": 18,
+      "gas:candidate-vibid:2582000739795": 4,
+      "gas:candidate-vibid:2582000734147": 32,
+      "gas:candidate-vibid:2582000741081": 7,
+      "gas:candidate-vibid:2582000740269": 3
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/penza?action=show&root=1000193&tvd=2582000671228&vrn=100100067795849&region=58&global=&sub_region=58&prver=0&pronetvd=null&vibid=2582000671228&type=464",
@@ -6829,14 +6829,14 @@ export const duma_2016_uik_463_region_58_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Алексютин Анатолий Васильевич": 6,
-      "Есяков Сергей Яковлевич": 606,
-      "Камнев Георгий Петрович": 22,
-      "Коломыцева Людмила Викторовна": 12,
-      "Коробов Сергей Александрович": 2,
-      "Куликов Павел Владимирович": 25,
-      "Никифоров Андрей Васильевич": 17,
-      "Пакаев Алексей Федорович": 0
+      "gas:candidate-vibid:2582000740845": 6,
+      "gas:candidate-vibid:2582000740020": 606,
+      "gas:candidate-vibid:2582000740031": 22,
+      "gas:candidate-vibid:2582000738771": 12,
+      "gas:candidate-vibid:2582000739795": 2,
+      "gas:candidate-vibid:2582000734147": 25,
+      "gas:candidate-vibid:2582000741081": 17,
+      "gas:candidate-vibid:2582000740269": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/penza?action=show&root=1000193&tvd=2582000671228&vrn=100100067795849&region=58&global=&sub_region=58&prver=0&pronetvd=null&vibid=2582000671228&type=464",
@@ -6887,14 +6887,14 @@ export const duma_2016_uik_463_region_58_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Алексютин Анатолий Васильевич": 15,
-      "Есяков Сергей Яковлевич": 404,
-      "Камнев Георгий Петрович": 312,
-      "Коломыцева Людмила Викторовна": 56,
-      "Коробов Сергей Александрович": 17,
-      "Куликов Павел Владимирович": 42,
-      "Никифоров Андрей Васильевич": 21,
-      "Пакаев Алексей Федорович": 11
+      "gas:candidate-vibid:2582000740845": 15,
+      "gas:candidate-vibid:2582000740020": 404,
+      "gas:candidate-vibid:2582000740031": 312,
+      "gas:candidate-vibid:2582000738771": 56,
+      "gas:candidate-vibid:2582000739795": 17,
+      "gas:candidate-vibid:2582000734147": 42,
+      "gas:candidate-vibid:2582000741081": 21,
+      "gas:candidate-vibid:2582000740269": 11
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/penza?action=show&root=1000193&tvd=2582000671228&vrn=100100067795849&region=58&global=&sub_region=58&prver=0&pronetvd=null&vibid=2582000671228&type=464",
@@ -6945,14 +6945,14 @@ export const duma_2016_uik_463_region_58_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Алексютин Анатолий Васильевич": 19,
-      "Есяков Сергей Яковлевич": 843,
-      "Камнев Георгий Петрович": 136,
-      "Коломыцева Людмила Викторовна": 32,
-      "Коробов Сергей Александрович": 12,
-      "Куликов Павел Владимирович": 37,
-      "Никифоров Андрей Васильевич": 16,
-      "Пакаев Алексей Федорович": 9
+      "gas:candidate-vibid:2582000740845": 19,
+      "gas:candidate-vibid:2582000740020": 843,
+      "gas:candidate-vibid:2582000740031": 136,
+      "gas:candidate-vibid:2582000738771": 32,
+      "gas:candidate-vibid:2582000739795": 12,
+      "gas:candidate-vibid:2582000734147": 37,
+      "gas:candidate-vibid:2582000741081": 16,
+      "gas:candidate-vibid:2582000740269": 9
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/penza?action=show&root=1000193&tvd=2582000671228&vrn=100100067795849&region=58&global=&sub_region=58&prver=0&pronetvd=null&vibid=2582000671228&type=464",
@@ -7003,14 +7003,14 @@ export const duma_2016_uik_463_region_58_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Алексютин Анатолий Васильевич": 27,
-      "Есяков Сергей Яковлевич": 1240,
-      "Камнев Георгий Петрович": 213,
-      "Коломыцева Людмила Викторовна": 53,
-      "Коробов Сергей Александрович": 5,
-      "Куликов Павел Владимирович": 54,
-      "Никифоров Андрей Васильевич": 7,
-      "Пакаев Алексей Федорович": 8
+      "gas:candidate-vibid:2582000740845": 27,
+      "gas:candidate-vibid:2582000740020": 1240,
+      "gas:candidate-vibid:2582000740031": 213,
+      "gas:candidate-vibid:2582000738771": 53,
+      "gas:candidate-vibid:2582000739795": 5,
+      "gas:candidate-vibid:2582000734147": 54,
+      "gas:candidate-vibid:2582000741081": 7,
+      "gas:candidate-vibid:2582000740269": 8
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/penza?action=show&root=1000193&tvd=2582000671228&vrn=100100067795849&region=58&global=&sub_region=58&prver=0&pronetvd=null&vibid=2582000671228&type=464",
@@ -7061,14 +7061,14 @@ export const duma_2016_uik_463_region_58_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Алексютин Анатолий Васильевич": 4,
-      "Есяков Сергей Яковлевич": 376,
-      "Камнев Георгий Петрович": 19,
-      "Коломыцева Людмила Викторовна": 7,
-      "Коробов Сергей Александрович": 0,
-      "Куликов Павел Владимирович": 10,
-      "Никифоров Андрей Васильевич": 4,
-      "Пакаев Алексей Федорович": 2
+      "gas:candidate-vibid:2582000740845": 4,
+      "gas:candidate-vibid:2582000740020": 376,
+      "gas:candidate-vibid:2582000740031": 19,
+      "gas:candidate-vibid:2582000738771": 7,
+      "gas:candidate-vibid:2582000739795": 0,
+      "gas:candidate-vibid:2582000734147": 10,
+      "gas:candidate-vibid:2582000741081": 4,
+      "gas:candidate-vibid:2582000740269": 2
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/penza?action=show&root=1000193&tvd=2582000671228&vrn=100100067795849&region=58&global=&sub_region=58&prver=0&pronetvd=null&vibid=2582000671228&type=464",
@@ -7119,14 +7119,14 @@ export const duma_2016_uik_463_region_58_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Алексютин Анатолий Васильевич": 7,
-      "Есяков Сергей Яковлевич": 302,
-      "Камнев Георгий Петрович": 13,
-      "Коломыцева Людмила Викторовна": 10,
-      "Коробов Сергей Александрович": 3,
-      "Куликов Павел Владимирович": 5,
-      "Никифоров Андрей Васильевич": 4,
-      "Пакаев Алексей Федорович": 1
+      "gas:candidate-vibid:2582000740845": 7,
+      "gas:candidate-vibid:2582000740020": 302,
+      "gas:candidate-vibid:2582000740031": 13,
+      "gas:candidate-vibid:2582000738771": 10,
+      "gas:candidate-vibid:2582000739795": 3,
+      "gas:candidate-vibid:2582000734147": 5,
+      "gas:candidate-vibid:2582000741081": 4,
+      "gas:candidate-vibid:2582000740269": 1
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/penza?action=show&root=1000193&tvd=2582000671228&vrn=100100067795849&region=58&global=&sub_region=58&prver=0&pronetvd=null&vibid=2582000671228&type=464",
@@ -7177,14 +7177,14 @@ export const duma_2016_uik_463_region_58_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Алексютин Анатолий Васильевич": 3,
-      "Есяков Сергей Яковлевич": 460,
-      "Камнев Георгий Петрович": 26,
-      "Коломыцева Людмила Викторовна": 7,
-      "Коробов Сергей Александрович": 3,
-      "Куликов Павел Владимирович": 18,
-      "Никифоров Андрей Васильевич": 3,
-      "Пакаев Алексей Федорович": 4
+      "gas:candidate-vibid:2582000740845": 3,
+      "gas:candidate-vibid:2582000740020": 460,
+      "gas:candidate-vibid:2582000740031": 26,
+      "gas:candidate-vibid:2582000738771": 7,
+      "gas:candidate-vibid:2582000739795": 3,
+      "gas:candidate-vibid:2582000734147": 18,
+      "gas:candidate-vibid:2582000741081": 3,
+      "gas:candidate-vibid:2582000740269": 4
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/penza?action=show&root=1000193&tvd=2582000671228&vrn=100100067795849&region=58&global=&sub_region=58&prver=0&pronetvd=null&vibid=2582000671228&type=464",
@@ -7235,14 +7235,14 @@ export const duma_2016_uik_463_region_58_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Алексютин Анатолий Васильевич": 1,
-      "Есяков Сергей Яковлевич": 168,
-      "Камнев Георгий Петрович": 3,
-      "Коломыцева Людмила Викторовна": 2,
-      "Коробов Сергей Александрович": 0,
-      "Куликов Павел Владимирович": 3,
-      "Никифоров Андрей Васильевич": 0,
-      "Пакаев Алексей Федорович": 1
+      "gas:candidate-vibid:2582000740845": 1,
+      "gas:candidate-vibid:2582000740020": 168,
+      "gas:candidate-vibid:2582000740031": 3,
+      "gas:candidate-vibid:2582000738771": 2,
+      "gas:candidate-vibid:2582000739795": 0,
+      "gas:candidate-vibid:2582000734147": 3,
+      "gas:candidate-vibid:2582000741081": 0,
+      "gas:candidate-vibid:2582000740269": 1
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/penza?action=show&root=1000193&tvd=2582000671228&vrn=100100067795849&region=58&global=&sub_region=58&prver=0&pronetvd=null&vibid=2582000671228&type=464",
@@ -7293,14 +7293,14 @@ export const duma_2016_uik_463_region_58_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Алексютин Анатолий Васильевич": 1,
-      "Есяков Сергей Яковлевич": 146,
-      "Камнев Георгий Петрович": 14,
-      "Коломыцева Людмила Викторовна": 1,
-      "Коробов Сергей Александрович": 1,
-      "Куликов Павел Владимирович": 1,
-      "Никифоров Андрей Васильевич": 1,
-      "Пакаев Алексей Федорович": 0
+      "gas:candidate-vibid:2582000740845": 1,
+      "gas:candidate-vibid:2582000740020": 146,
+      "gas:candidate-vibid:2582000740031": 14,
+      "gas:candidate-vibid:2582000738771": 1,
+      "gas:candidate-vibid:2582000739795": 1,
+      "gas:candidate-vibid:2582000734147": 1,
+      "gas:candidate-vibid:2582000741081": 1,
+      "gas:candidate-vibid:2582000740269": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/penza?action=show&root=1000193&tvd=2582000671228&vrn=100100067795849&region=58&global=&sub_region=58&prver=0&pronetvd=null&vibid=2582000671228&type=464",
@@ -7351,14 +7351,14 @@ export const duma_2016_uik_463_region_58_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Алексютин Анатолий Васильевич": 1,
-      "Есяков Сергей Яковлевич": 309,
-      "Камнев Георгий Петрович": 9,
-      "Коломыцева Людмила Викторовна": 6,
-      "Коробов Сергей Александрович": 2,
-      "Куликов Павел Владимирович": 5,
-      "Никифоров Андрей Васильевич": 1,
-      "Пакаев Алексей Федорович": 2
+      "gas:candidate-vibid:2582000740845": 1,
+      "gas:candidate-vibid:2582000740020": 309,
+      "gas:candidate-vibid:2582000740031": 9,
+      "gas:candidate-vibid:2582000738771": 6,
+      "gas:candidate-vibid:2582000739795": 2,
+      "gas:candidate-vibid:2582000734147": 5,
+      "gas:candidate-vibid:2582000741081": 1,
+      "gas:candidate-vibid:2582000740269": 2
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/penza?action=show&root=1000193&tvd=2582000671228&vrn=100100067795849&region=58&global=&sub_region=58&prver=0&pronetvd=null&vibid=2582000671228&type=464",
@@ -7409,14 +7409,14 @@ export const duma_2016_uik_463_region_58_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Алексютин Анатолий Васильевич": 5,
-      "Есяков Сергей Яковлевич": 368,
-      "Камнев Георгий Петрович": 24,
-      "Коломыцева Людмила Викторовна": 13,
-      "Коробов Сергей Александрович": 5,
-      "Куликов Павел Владимирович": 14,
-      "Никифоров Андрей Васильевич": 4,
-      "Пакаев Алексей Федорович": 4
+      "gas:candidate-vibid:2582000740845": 5,
+      "gas:candidate-vibid:2582000740020": 368,
+      "gas:candidate-vibid:2582000740031": 24,
+      "gas:candidate-vibid:2582000738771": 13,
+      "gas:candidate-vibid:2582000739795": 5,
+      "gas:candidate-vibid:2582000734147": 14,
+      "gas:candidate-vibid:2582000741081": 4,
+      "gas:candidate-vibid:2582000740269": 4
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/penza?action=show&root=1000193&tvd=2582000671228&vrn=100100067795849&region=58&global=&sub_region=58&prver=0&pronetvd=null&vibid=2582000671228&type=464",
@@ -7467,14 +7467,14 @@ export const duma_2016_uik_463_region_58_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Алексютин Анатолий Васильевич": 1,
-      "Есяков Сергей Яковлевич": 185,
-      "Камнев Георгий Петрович": 7,
-      "Коломыцева Людмила Викторовна": 4,
-      "Коробов Сергей Александрович": 2,
-      "Куликов Павел Владимирович": 3,
-      "Никифоров Андрей Васильевич": 3,
-      "Пакаев Алексей Федорович": 0
+      "gas:candidate-vibid:2582000740845": 1,
+      "gas:candidate-vibid:2582000740020": 185,
+      "gas:candidate-vibid:2582000740031": 7,
+      "gas:candidate-vibid:2582000738771": 4,
+      "gas:candidate-vibid:2582000739795": 2,
+      "gas:candidate-vibid:2582000734147": 3,
+      "gas:candidate-vibid:2582000741081": 3,
+      "gas:candidate-vibid:2582000740269": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/penza?action=show&root=1000193&tvd=2582000671228&vrn=100100067795849&region=58&global=&sub_region=58&prver=0&pronetvd=null&vibid=2582000671228&type=464",
@@ -7525,14 +7525,14 @@ export const duma_2016_uik_463_region_58_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Алексютин Анатолий Васильевич": 1,
-      "Есяков Сергей Яковлевич": 182,
-      "Камнев Георгий Петрович": 5,
-      "Коломыцева Людмила Викторовна": 0,
-      "Коробов Сергей Александрович": 1,
-      "Куликов Павел Владимирович": 3,
-      "Никифоров Андрей Васильевич": 2,
-      "Пакаев Алексей Федорович": 1
+      "gas:candidate-vibid:2582000740845": 1,
+      "gas:candidate-vibid:2582000740020": 182,
+      "gas:candidate-vibid:2582000740031": 5,
+      "gas:candidate-vibid:2582000738771": 0,
+      "gas:candidate-vibid:2582000739795": 1,
+      "gas:candidate-vibid:2582000734147": 3,
+      "gas:candidate-vibid:2582000741081": 2,
+      "gas:candidate-vibid:2582000740269": 1
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/penza?action=show&root=1000193&tvd=2582000671228&vrn=100100067795849&region=58&global=&sub_region=58&prver=0&pronetvd=null&vibid=2582000671228&type=464",
@@ -7583,14 +7583,14 @@ export const duma_2016_uik_463_region_58_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Алексютин Анатолий Васильевич": 0,
-      "Есяков Сергей Яковлевич": 73,
-      "Камнев Георгий Петрович": 3,
-      "Коломыцева Людмила Викторовна": 3,
-      "Коробов Сергей Александрович": 0,
-      "Куликов Павел Владимирович": 1,
-      "Никифоров Андрей Васильевич": 2,
-      "Пакаев Алексей Федорович": 0
+      "gas:candidate-vibid:2582000740845": 0,
+      "gas:candidate-vibid:2582000740020": 73,
+      "gas:candidate-vibid:2582000740031": 3,
+      "gas:candidate-vibid:2582000738771": 3,
+      "gas:candidate-vibid:2582000739795": 0,
+      "gas:candidate-vibid:2582000734147": 1,
+      "gas:candidate-vibid:2582000741081": 2,
+      "gas:candidate-vibid:2582000740269": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/penza?action=show&root=1000193&tvd=2582000671228&vrn=100100067795849&region=58&global=&sub_region=58&prver=0&pronetvd=null&vibid=2582000671228&type=464",
@@ -7641,14 +7641,14 @@ export const duma_2016_uik_463_region_58_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Алексютин Анатолий Васильевич": 0,
-      "Есяков Сергей Яковлевич": 239,
-      "Камнев Георгий Петрович": 3,
-      "Коломыцева Людмила Викторовна": 1,
-      "Коробов Сергей Александрович": 0,
-      "Куликов Павел Владимирович": 1,
-      "Никифоров Андрей Васильевич": 3,
-      "Пакаев Алексей Федорович": 1
+      "gas:candidate-vibid:2582000740845": 0,
+      "gas:candidate-vibid:2582000740020": 239,
+      "gas:candidate-vibid:2582000740031": 3,
+      "gas:candidate-vibid:2582000738771": 1,
+      "gas:candidate-vibid:2582000739795": 0,
+      "gas:candidate-vibid:2582000734147": 1,
+      "gas:candidate-vibid:2582000741081": 3,
+      "gas:candidate-vibid:2582000740269": 1
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/penza?action=show&root=1000193&tvd=2582000671228&vrn=100100067795849&region=58&global=&sub_region=58&prver=0&pronetvd=null&vibid=2582000671228&type=464",
@@ -7699,14 +7699,14 @@ export const duma_2016_uik_463_region_58_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Алексютин Анатолий Васильевич": 8,
-      "Есяков Сергей Яковлевич": 226,
-      "Камнев Георгий Петрович": 52,
-      "Коломыцева Людмила Викторовна": 39,
-      "Коробов Сергей Александрович": 7,
-      "Куликов Павел Владимирович": 32,
-      "Никифоров Андрей Васильевич": 6,
-      "Пакаев Алексей Федорович": 4
+      "gas:candidate-vibid:2582000740845": 8,
+      "gas:candidate-vibid:2582000740020": 226,
+      "gas:candidate-vibid:2582000740031": 52,
+      "gas:candidate-vibid:2582000738771": 39,
+      "gas:candidate-vibid:2582000739795": 7,
+      "gas:candidate-vibid:2582000734147": 32,
+      "gas:candidate-vibid:2582000741081": 6,
+      "gas:candidate-vibid:2582000740269": 4
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/penza?action=show&root=1000193&tvd=2582000671228&vrn=100100067795849&region=58&global=&sub_region=58&prver=0&pronetvd=null&vibid=2582000671228&type=464",
@@ -7757,14 +7757,14 @@ export const duma_2016_uik_463_region_58_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Алексютин Анатолий Васильевич": 16,
-      "Есяков Сергей Яковлевич": 1227,
-      "Камнев Георгий Петрович": 133,
-      "Коломыцева Людмила Викторовна": 75,
-      "Коробов Сергей Александрович": 20,
-      "Куликов Павел Владимирович": 84,
-      "Никифоров Андрей Васильевич": 25,
-      "Пакаев Алексей Федорович": 23
+      "gas:candidate-vibid:2582000740845": 16,
+      "gas:candidate-vibid:2582000740020": 1227,
+      "gas:candidate-vibid:2582000740031": 133,
+      "gas:candidate-vibid:2582000738771": 75,
+      "gas:candidate-vibid:2582000739795": 20,
+      "gas:candidate-vibid:2582000734147": 84,
+      "gas:candidate-vibid:2582000741081": 25,
+      "gas:candidate-vibid:2582000740269": 23
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/penza?action=show&root=1000193&tvd=2582000671228&vrn=100100067795849&region=58&global=&sub_region=58&prver=0&pronetvd=null&vibid=2582000671228&type=464",
@@ -7815,14 +7815,14 @@ export const duma_2016_uik_463_region_58_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Алексютин Анатолий Васильевич": 12,
-      "Есяков Сергей Яковлевич": 1200,
-      "Камнев Георгий Петрович": 292,
-      "Коломыцева Людмила Викторовна": 26,
-      "Коробов Сергей Александрович": 22,
-      "Куликов Павел Владимирович": 59,
-      "Никифоров Андрей Васильевич": 11,
-      "Пакаев Алексей Федорович": 11
+      "gas:candidate-vibid:2582000740845": 12,
+      "gas:candidate-vibid:2582000740020": 1200,
+      "gas:candidate-vibid:2582000740031": 292,
+      "gas:candidate-vibid:2582000738771": 26,
+      "gas:candidate-vibid:2582000739795": 22,
+      "gas:candidate-vibid:2582000734147": 59,
+      "gas:candidate-vibid:2582000741081": 11,
+      "gas:candidate-vibid:2582000740269": 11
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/penza?action=show&root=1000193&tvd=2582000671228&vrn=100100067795849&region=58&global=&sub_region=58&prver=0&pronetvd=null&vibid=2582000671228&type=464",
@@ -7873,14 +7873,14 @@ export const duma_2016_uik_463_region_58_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Алексютин Анатолий Васильевич": 21,
-      "Есяков Сергей Яковлевич": 1021,
-      "Камнев Георгий Петрович": 173,
-      "Коломыцева Людмила Викторовна": 77,
-      "Коробов Сергей Александрович": 16,
-      "Куликов Павел Владимирович": 85,
-      "Никифоров Андрей Васильевич": 25,
-      "Пакаев Алексей Федорович": 6
+      "gas:candidate-vibid:2582000740845": 21,
+      "gas:candidate-vibid:2582000740020": 1021,
+      "gas:candidate-vibid:2582000740031": 173,
+      "gas:candidate-vibid:2582000738771": 77,
+      "gas:candidate-vibid:2582000739795": 16,
+      "gas:candidate-vibid:2582000734147": 85,
+      "gas:candidate-vibid:2582000741081": 25,
+      "gas:candidate-vibid:2582000740269": 6
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/penza?action=show&root=1000193&tvd=2582000671228&vrn=100100067795849&region=58&global=&sub_region=58&prver=0&pronetvd=null&vibid=2582000671228&type=464",
@@ -7931,14 +7931,14 @@ export const duma_2016_uik_463_region_58_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Алексютин Анатолий Васильевич": 1,
-      "Есяков Сергей Яковлевич": 1010,
-      "Камнев Георгий Петрович": 15,
-      "Коломыцева Людмила Викторовна": 5,
-      "Коробов Сергей Александрович": 2,
-      "Куликов Павел Владимирович": 6,
-      "Никифоров Андрей Васильевич": 1,
-      "Пакаев Алексей Федорович": 1
+      "gas:candidate-vibid:2582000740845": 1,
+      "gas:candidate-vibid:2582000740020": 1010,
+      "gas:candidate-vibid:2582000740031": 15,
+      "gas:candidate-vibid:2582000738771": 5,
+      "gas:candidate-vibid:2582000739795": 2,
+      "gas:candidate-vibid:2582000734147": 6,
+      "gas:candidate-vibid:2582000741081": 1,
+      "gas:candidate-vibid:2582000740269": 1
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/penza?action=show&root=1000193&tvd=2582000671228&vrn=100100067795849&region=58&global=&sub_region=58&prver=0&pronetvd=null&vibid=2582000671228&type=464",
@@ -7989,14 +7989,14 @@ export const duma_2016_uik_463_region_58_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Алексютин Анатолий Васильевич": 7,
-      "Есяков Сергей Яковлевич": 324,
-      "Камнев Георгий Петрович": 16,
-      "Коломыцева Людмила Викторовна": 4,
-      "Коробов Сергей Александрович": 0,
-      "Куликов Павел Владимирович": 9,
-      "Никифоров Андрей Васильевич": 4,
-      "Пакаев Алексей Федорович": 1
+      "gas:candidate-vibid:2582000740845": 7,
+      "gas:candidate-vibid:2582000740020": 324,
+      "gas:candidate-vibid:2582000740031": 16,
+      "gas:candidate-vibid:2582000738771": 4,
+      "gas:candidate-vibid:2582000739795": 0,
+      "gas:candidate-vibid:2582000734147": 9,
+      "gas:candidate-vibid:2582000741081": 4,
+      "gas:candidate-vibid:2582000740269": 1
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/penza?action=show&root=1000193&tvd=2582000671228&vrn=100100067795849&region=58&global=&sub_region=58&prver=0&pronetvd=null&vibid=2582000671228&type=464",
@@ -8047,14 +8047,14 @@ export const duma_2016_uik_463_region_58_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Алексютин Анатолий Васильевич": 11,
-      "Есяков Сергей Яковлевич": 853,
-      "Камнев Георгий Петрович": 74,
-      "Коломыцева Людмила Викторовна": 34,
-      "Коробов Сергей Александрович": 16,
-      "Куликов Павел Владимирович": 41,
-      "Никифоров Андрей Васильевич": 13,
-      "Пакаев Алексей Федорович": 3
+      "gas:candidate-vibid:2582000740845": 11,
+      "gas:candidate-vibid:2582000740020": 853,
+      "gas:candidate-vibid:2582000740031": 74,
+      "gas:candidate-vibid:2582000738771": 34,
+      "gas:candidate-vibid:2582000739795": 16,
+      "gas:candidate-vibid:2582000734147": 41,
+      "gas:candidate-vibid:2582000741081": 13,
+      "gas:candidate-vibid:2582000740269": 3
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/penza?action=show&root=1000193&tvd=2582000671228&vrn=100100067795849&region=58&global=&sub_region=58&prver=0&pronetvd=null&vibid=2582000671228&type=464",
@@ -8105,14 +8105,14 @@ export const duma_2016_uik_463_region_58_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Алексютин Анатолий Васильевич": 0,
-      "Есяков Сергей Яковлевич": 118,
-      "Камнев Георгий Петрович": 12,
-      "Коломыцева Людмила Викторовна": 7,
-      "Коробов Сергей Александрович": 0,
-      "Куликов Павел Владимирович": 3,
-      "Никифоров Андрей Васильевич": 4,
-      "Пакаев Алексей Федорович": 2
+      "gas:candidate-vibid:2582000740845": 0,
+      "gas:candidate-vibid:2582000740020": 118,
+      "gas:candidate-vibid:2582000740031": 12,
+      "gas:candidate-vibid:2582000738771": 7,
+      "gas:candidate-vibid:2582000739795": 0,
+      "gas:candidate-vibid:2582000734147": 3,
+      "gas:candidate-vibid:2582000741081": 4,
+      "gas:candidate-vibid:2582000740269": 2
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/penza?action=show&root=1000193&tvd=2582000671228&vrn=100100067795849&region=58&global=&sub_region=58&prver=0&pronetvd=null&vibid=2582000671228&type=464",
@@ -8163,14 +8163,14 @@ export const duma_2016_uik_463_region_58_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Алексютин Анатолий Васильевич": 13,
-      "Есяков Сергей Яковлевич": 535,
-      "Камнев Георгий Петрович": 403,
-      "Коломыцева Людмила Викторовна": 38,
-      "Коробов Сергей Александрович": 7,
-      "Куликов Павел Владимирович": 34,
-      "Никифоров Андрей Васильевич": 15,
-      "Пакаев Алексей Федорович": 2
+      "gas:candidate-vibid:2582000740845": 13,
+      "gas:candidate-vibid:2582000740020": 535,
+      "gas:candidate-vibid:2582000740031": 403,
+      "gas:candidate-vibid:2582000738771": 38,
+      "gas:candidate-vibid:2582000739795": 7,
+      "gas:candidate-vibid:2582000734147": 34,
+      "gas:candidate-vibid:2582000741081": 15,
+      "gas:candidate-vibid:2582000740269": 2
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/penza?action=show&root=1000193&tvd=2582000671228&vrn=100100067795849&region=58&global=&sub_region=58&prver=0&pronetvd=null&vibid=2582000671228&type=464",
@@ -8221,14 +8221,14 @@ export const duma_2016_uik_463_region_58_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Алексютин Анатолий Васильевич": 17,
-      "Есяков Сергей Яковлевич": 476,
-      "Камнев Георгий Петрович": 208,
-      "Коломыцева Людмила Викторовна": 40,
-      "Коробов Сергей Александрович": 17,
-      "Куликов Павел Владимирович": 48,
-      "Никифоров Андрей Васильевич": 14,
-      "Пакаев Алексей Федорович": 1
+      "gas:candidate-vibid:2582000740845": 17,
+      "gas:candidate-vibid:2582000740020": 476,
+      "gas:candidate-vibid:2582000740031": 208,
+      "gas:candidate-vibid:2582000738771": 40,
+      "gas:candidate-vibid:2582000739795": 17,
+      "gas:candidate-vibid:2582000734147": 48,
+      "gas:candidate-vibid:2582000741081": 14,
+      "gas:candidate-vibid:2582000740269": 1
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/penza?action=show&root=1000193&tvd=2582000671228&vrn=100100067795849&region=58&global=&sub_region=58&prver=0&pronetvd=null&vibid=2582000671228&type=464",
@@ -8279,14 +8279,14 @@ export const duma_2016_uik_463_region_58_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Алексютин Анатолий Васильевич": 8,
-      "Есяков Сергей Яковлевич": 216,
-      "Камнев Георгий Петрович": 166,
-      "Коломыцева Людмила Викторовна": 20,
-      "Коробов Сергей Александрович": 7,
-      "Куликов Павел Владимирович": 29,
-      "Никифоров Андрей Васильевич": 8,
-      "Пакаев Алексей Федорович": 2
+      "gas:candidate-vibid:2582000740845": 8,
+      "gas:candidate-vibid:2582000740020": 216,
+      "gas:candidate-vibid:2582000740031": 166,
+      "gas:candidate-vibid:2582000738771": 20,
+      "gas:candidate-vibid:2582000739795": 7,
+      "gas:candidate-vibid:2582000734147": 29,
+      "gas:candidate-vibid:2582000741081": 8,
+      "gas:candidate-vibid:2582000740269": 2
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/penza?action=show&root=1000193&tvd=2582000671228&vrn=100100067795849&region=58&global=&sub_region=58&prver=0&pronetvd=null&vibid=2582000671228&type=464",
@@ -8337,14 +8337,14 @@ export const duma_2016_uik_463_region_58_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Алексютин Анатолий Васильевич": 6,
-      "Есяков Сергей Яковлевич": 308,
-      "Камнев Георгий Петрович": 217,
-      "Коломыцева Людмила Викторовна": 17,
-      "Коробов Сергей Александрович": 3,
-      "Куликов Павел Владимирович": 17,
-      "Никифоров Андрей Васильевич": 5,
-      "Пакаев Алексей Федорович": 0
+      "gas:candidate-vibid:2582000740845": 6,
+      "gas:candidate-vibid:2582000740020": 308,
+      "gas:candidate-vibid:2582000740031": 217,
+      "gas:candidate-vibid:2582000738771": 17,
+      "gas:candidate-vibid:2582000739795": 3,
+      "gas:candidate-vibid:2582000734147": 17,
+      "gas:candidate-vibid:2582000741081": 5,
+      "gas:candidate-vibid:2582000740269": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/penza?action=show&root=1000193&tvd=2582000671228&vrn=100100067795849&region=58&global=&sub_region=58&prver=0&pronetvd=null&vibid=2582000671228&type=464",
@@ -8395,14 +8395,14 @@ export const duma_2016_uik_463_region_58_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Алексютин Анатолий Васильевич": 13,
-      "Есяков Сергей Яковлевич": 478,
-      "Камнев Георгий Петрович": 173,
-      "Коломыцева Людмила Викторовна": 44,
-      "Коробов Сергей Александрович": 9,
-      "Куликов Павел Владимирович": 37,
-      "Никифоров Андрей Васильевич": 19,
-      "Пакаев Алексей Федорович": 5
+      "gas:candidate-vibid:2582000740845": 13,
+      "gas:candidate-vibid:2582000740020": 478,
+      "gas:candidate-vibid:2582000740031": 173,
+      "gas:candidate-vibid:2582000738771": 44,
+      "gas:candidate-vibid:2582000739795": 9,
+      "gas:candidate-vibid:2582000734147": 37,
+      "gas:candidate-vibid:2582000741081": 19,
+      "gas:candidate-vibid:2582000740269": 5
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/penza?action=show&root=1000193&tvd=2582000671228&vrn=100100067795849&region=58&global=&sub_region=58&prver=0&pronetvd=null&vibid=2582000671228&type=464",
@@ -8453,14 +8453,14 @@ export const duma_2016_uik_463_region_58_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Алексютин Анатолий Васильевич": 1,
-      "Есяков Сергей Яковлевич": 111,
-      "Камнев Георгий Петрович": 7,
-      "Коломыцева Людмила Викторовна": 0,
-      "Коробов Сергей Александрович": 0,
-      "Куликов Павел Владимирович": 2,
-      "Никифоров Андрей Васильевич": 2,
-      "Пакаев Алексей Федорович": 0
+      "gas:candidate-vibid:2582000740845": 1,
+      "gas:candidate-vibid:2582000740020": 111,
+      "gas:candidate-vibid:2582000740031": 7,
+      "gas:candidate-vibid:2582000738771": 0,
+      "gas:candidate-vibid:2582000739795": 0,
+      "gas:candidate-vibid:2582000734147": 2,
+      "gas:candidate-vibid:2582000741081": 2,
+      "gas:candidate-vibid:2582000740269": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/penza?action=show&root=1000193&tvd=2582000671228&vrn=100100067795849&region=58&global=&sub_region=58&prver=0&pronetvd=null&vibid=2582000671228&type=464",
@@ -8511,14 +8511,14 @@ export const duma_2016_uik_463_region_58_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Алексютин Анатолий Васильевич": 0,
-      "Есяков Сергей Яковлевич": 1321,
-      "Камнев Георгий Петрович": 11,
-      "Коломыцева Людмила Викторовна": 2,
-      "Коробов Сергей Александрович": 0,
-      "Куликов Павел Владимирович": 120,
-      "Никифоров Андрей Васильевич": 1,
-      "Пакаев Алексей Федорович": 0
+      "gas:candidate-vibid:2582000740845": 0,
+      "gas:candidate-vibid:2582000740020": 1321,
+      "gas:candidate-vibid:2582000740031": 11,
+      "gas:candidate-vibid:2582000738771": 2,
+      "gas:candidate-vibid:2582000739795": 0,
+      "gas:candidate-vibid:2582000734147": 120,
+      "gas:candidate-vibid:2582000741081": 1,
+      "gas:candidate-vibid:2582000740269": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/penza?action=show&root=1000193&tvd=2582000671228&vrn=100100067795849&region=58&global=&sub_region=58&prver=0&pronetvd=null&vibid=2582000671228&type=464",
@@ -8569,14 +8569,14 @@ export const duma_2016_uik_463_region_58_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Алексютин Анатолий Васильевич": 0,
-      "Есяков Сергей Яковлевич": 231,
-      "Камнев Георгий Петрович": 0,
-      "Коломыцева Людмила Викторовна": 0,
-      "Коробов Сергей Александрович": 0,
-      "Куликов Павел Владимирович": 2,
-      "Никифоров Андрей Васильевич": 0,
-      "Пакаев Алексей Федорович": 0
+      "gas:candidate-vibid:2582000740845": 0,
+      "gas:candidate-vibid:2582000740020": 231,
+      "gas:candidate-vibid:2582000740031": 0,
+      "gas:candidate-vibid:2582000738771": 0,
+      "gas:candidate-vibid:2582000739795": 0,
+      "gas:candidate-vibid:2582000734147": 2,
+      "gas:candidate-vibid:2582000741081": 0,
+      "gas:candidate-vibid:2582000740269": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/penza?action=show&root=1000193&tvd=2582000671228&vrn=100100067795849&region=58&global=&sub_region=58&prver=0&pronetvd=null&vibid=2582000671228&type=464",
@@ -8627,14 +8627,14 @@ export const duma_2016_uik_463_region_58_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Алексютин Анатолий Васильевич": 8,
-      "Есяков Сергей Яковлевич": 1945,
-      "Камнев Георгий Петрович": 36,
-      "Коломыцева Людмила Викторовна": 29,
-      "Коробов Сергей Александрович": 8,
-      "Куликов Павел Владимирович": 14,
-      "Никифоров Андрей Васильевич": 15,
-      "Пакаев Алексей Федорович": 5
+      "gas:candidate-vibid:2582000740845": 8,
+      "gas:candidate-vibid:2582000740020": 1945,
+      "gas:candidate-vibid:2582000740031": 36,
+      "gas:candidate-vibid:2582000738771": 29,
+      "gas:candidate-vibid:2582000739795": 8,
+      "gas:candidate-vibid:2582000734147": 14,
+      "gas:candidate-vibid:2582000741081": 15,
+      "gas:candidate-vibid:2582000740269": 5
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/penza?action=show&root=1000193&tvd=2582000671228&vrn=100100067795849&region=58&global=&sub_region=58&prver=0&pronetvd=null&vibid=2582000671228&type=464",
@@ -8685,14 +8685,14 @@ export const duma_2016_uik_463_region_58_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Алексютин Анатолий Васильевич": 22,
-      "Есяков Сергей Яковлевич": 1502,
-      "Камнев Георгий Петрович": 40,
-      "Коломыцева Людмила Викторовна": 33,
-      "Коробов Сергей Александрович": 4,
-      "Куликов Павел Владимирович": 10,
-      "Никифоров Андрей Васильевич": 0,
-      "Пакаев Алексей Федорович": 5
+      "gas:candidate-vibid:2582000740845": 22,
+      "gas:candidate-vibid:2582000740020": 1502,
+      "gas:candidate-vibid:2582000740031": 40,
+      "gas:candidate-vibid:2582000738771": 33,
+      "gas:candidate-vibid:2582000739795": 4,
+      "gas:candidate-vibid:2582000734147": 10,
+      "gas:candidate-vibid:2582000741081": 0,
+      "gas:candidate-vibid:2582000740269": 5
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/penza?action=show&root=1000193&tvd=2582000671228&vrn=100100067795849&region=58&global=&sub_region=58&prver=0&pronetvd=null&vibid=2582000671228&type=464",
@@ -8743,14 +8743,14 @@ export const duma_2016_uik_463_region_58_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Алексютин Анатолий Васильевич": 28,
-      "Есяков Сергей Яковлевич": 2309,
-      "Камнев Георгий Петрович": 70,
-      "Коломыцева Людмила Викторовна": 39,
-      "Коробов Сергей Александрович": 17,
-      "Куликов Павел Владимирович": 15,
-      "Никифоров Андрей Васильевич": 15,
-      "Пакаев Алексей Федорович": 7
+      "gas:candidate-vibid:2582000740845": 28,
+      "gas:candidate-vibid:2582000740020": 2309,
+      "gas:candidate-vibid:2582000740031": 70,
+      "gas:candidate-vibid:2582000738771": 39,
+      "gas:candidate-vibid:2582000739795": 17,
+      "gas:candidate-vibid:2582000734147": 15,
+      "gas:candidate-vibid:2582000741081": 15,
+      "gas:candidate-vibid:2582000740269": 7
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/penza?action=show&root=1000193&tvd=2582000671228&vrn=100100067795849&region=58&global=&sub_region=58&prver=0&pronetvd=null&vibid=2582000671228&type=464",
@@ -8801,14 +8801,14 @@ export const duma_2016_uik_463_region_58_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Алексютин Анатолий Васильевич": 0,
-      "Есяков Сергей Яковлевич": 2044,
-      "Камнев Георгий Петрович": 20,
-      "Коломыцева Людмила Викторовна": 40,
-      "Коробов Сергей Александрович": 8,
-      "Куликов Павел Владимирович": 22,
-      "Никифоров Андрей Васильевич": 0,
-      "Пакаев Алексей Федорович": 6
+      "gas:candidate-vibid:2582000740845": 0,
+      "gas:candidate-vibid:2582000740020": 2044,
+      "gas:candidate-vibid:2582000740031": 20,
+      "gas:candidate-vibid:2582000738771": 40,
+      "gas:candidate-vibid:2582000739795": 8,
+      "gas:candidate-vibid:2582000734147": 22,
+      "gas:candidate-vibid:2582000741081": 0,
+      "gas:candidate-vibid:2582000740269": 6
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/penza?action=show&root=1000193&tvd=2582000671228&vrn=100100067795849&region=58&global=&sub_region=58&prver=0&pronetvd=null&vibid=2582000671228&type=464",
@@ -8859,14 +8859,14 @@ export const duma_2016_uik_463_region_58_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Алексютин Анатолий Васильевич": 19,
-      "Есяков Сергей Яковлевич": 587,
-      "Камнев Георгий Петрович": 198,
-      "Коломыцева Людмила Викторовна": 164,
-      "Коробов Сергей Александрович": 12,
-      "Куликов Павел Владимирович": 57,
-      "Никифоров Андрей Васильевич": 24,
-      "Пакаев Алексей Федорович": 10
+      "gas:candidate-vibid:2582000740845": 19,
+      "gas:candidate-vibid:2582000740020": 587,
+      "gas:candidate-vibid:2582000740031": 198,
+      "gas:candidate-vibid:2582000738771": 164,
+      "gas:candidate-vibid:2582000739795": 12,
+      "gas:candidate-vibid:2582000734147": 57,
+      "gas:candidate-vibid:2582000741081": 24,
+      "gas:candidate-vibid:2582000740269": 10
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/penza?action=show&root=1000193&tvd=2582000671229&vrn=100100067795849&region=58&global=&sub_region=58&prver=0&pronetvd=null&vibid=2582000671229&type=464",
@@ -8917,14 +8917,14 @@ export const duma_2016_uik_463_region_58_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Алексютин Анатолий Васильевич": 7,
-      "Есяков Сергей Яковлевич": 261,
-      "Камнев Георгий Петрович": 136,
-      "Коломыцева Людмила Викторовна": 116,
-      "Коробов Сергей Александрович": 9,
-      "Куликов Павел Владимирович": 60,
-      "Никифоров Андрей Васильевич": 12,
-      "Пакаев Алексей Федорович": 9
+      "gas:candidate-vibid:2582000740845": 7,
+      "gas:candidate-vibid:2582000740020": 261,
+      "gas:candidate-vibid:2582000740031": 136,
+      "gas:candidate-vibid:2582000738771": 116,
+      "gas:candidate-vibid:2582000739795": 9,
+      "gas:candidate-vibid:2582000734147": 60,
+      "gas:candidate-vibid:2582000741081": 12,
+      "gas:candidate-vibid:2582000740269": 9
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/penza?action=show&root=1000193&tvd=2582000671229&vrn=100100067795849&region=58&global=&sub_region=58&prver=0&pronetvd=null&vibid=2582000671229&type=464",
@@ -8975,14 +8975,14 @@ export const duma_2016_uik_463_region_58_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Алексютин Анатолий Васильевич": 11,
-      "Есяков Сергей Яковлевич": 244,
-      "Камнев Георгий Петрович": 106,
-      "Коломыцева Людмила Викторовна": 112,
-      "Коробов Сергей Александрович": 5,
-      "Куликов Павел Владимирович": 58,
-      "Никифоров Андрей Васильевич": 18,
-      "Пакаев Алексей Федорович": 5
+      "gas:candidate-vibid:2582000740845": 11,
+      "gas:candidate-vibid:2582000740020": 244,
+      "gas:candidate-vibid:2582000740031": 106,
+      "gas:candidate-vibid:2582000738771": 112,
+      "gas:candidate-vibid:2582000739795": 5,
+      "gas:candidate-vibid:2582000734147": 58,
+      "gas:candidate-vibid:2582000741081": 18,
+      "gas:candidate-vibid:2582000740269": 5
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/penza?action=show&root=1000193&tvd=2582000671229&vrn=100100067795849&region=58&global=&sub_region=58&prver=0&pronetvd=null&vibid=2582000671229&type=464",
@@ -9033,14 +9033,14 @@ export const duma_2016_uik_463_region_58_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Алексютин Анатолий Васильевич": 14,
-      "Есяков Сергей Яковлевич": 278,
-      "Камнев Георгий Петрович": 132,
-      "Коломыцева Людмила Викторовна": 55,
-      "Коробов Сергей Александрович": 10,
-      "Куликов Павел Владимирович": 53,
-      "Никифоров Андрей Васильевич": 24,
-      "Пакаев Алексей Федорович": 10
+      "gas:candidate-vibid:2582000740845": 14,
+      "gas:candidate-vibid:2582000740020": 278,
+      "gas:candidate-vibid:2582000740031": 132,
+      "gas:candidate-vibid:2582000738771": 55,
+      "gas:candidate-vibid:2582000739795": 10,
+      "gas:candidate-vibid:2582000734147": 53,
+      "gas:candidate-vibid:2582000741081": 24,
+      "gas:candidate-vibid:2582000740269": 10
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/penza?action=show&root=1000193&tvd=2582000671229&vrn=100100067795849&region=58&global=&sub_region=58&prver=0&pronetvd=null&vibid=2582000671229&type=464",
@@ -9091,14 +9091,14 @@ export const duma_2016_uik_463_region_58_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Алексютин Анатолий Васильевич": 9,
-      "Есяков Сергей Яковлевич": 177,
-      "Камнев Георгий Петрович": 116,
-      "Коломыцева Людмила Викторовна": 73,
-      "Коробов Сергей Александрович": 6,
-      "Куликов Павел Владимирович": 41,
-      "Никифоров Андрей Васильевич": 16,
-      "Пакаев Алексей Федорович": 7
+      "gas:candidate-vibid:2582000740845": 9,
+      "gas:candidate-vibid:2582000740020": 177,
+      "gas:candidate-vibid:2582000740031": 116,
+      "gas:candidate-vibid:2582000738771": 73,
+      "gas:candidate-vibid:2582000739795": 6,
+      "gas:candidate-vibid:2582000734147": 41,
+      "gas:candidate-vibid:2582000741081": 16,
+      "gas:candidate-vibid:2582000740269": 7
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/penza?action=show&root=1000193&tvd=2582000671229&vrn=100100067795849&region=58&global=&sub_region=58&prver=0&pronetvd=null&vibid=2582000671229&type=464",
@@ -9149,14 +9149,14 @@ export const duma_2016_uik_463_region_58_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Алексютин Анатолий Васильевич": 7,
-      "Есяков Сергей Яковлевич": 245,
-      "Камнев Георгий Петрович": 143,
-      "Коломыцева Людмила Викторовна": 110,
-      "Коробов Сергей Александрович": 8,
-      "Куликов Павел Владимирович": 73,
-      "Никифоров Андрей Васильевич": 16,
-      "Пакаев Алексей Федорович": 5
+      "gas:candidate-vibid:2582000740845": 7,
+      "gas:candidate-vibid:2582000740020": 245,
+      "gas:candidate-vibid:2582000740031": 143,
+      "gas:candidate-vibid:2582000738771": 110,
+      "gas:candidate-vibid:2582000739795": 8,
+      "gas:candidate-vibid:2582000734147": 73,
+      "gas:candidate-vibid:2582000741081": 16,
+      "gas:candidate-vibid:2582000740269": 5
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/penza?action=show&root=1000193&tvd=2582000671229&vrn=100100067795849&region=58&global=&sub_region=58&prver=0&pronetvd=null&vibid=2582000671229&type=464",
@@ -9207,14 +9207,14 @@ export const duma_2016_uik_463_region_58_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Алексютин Анатолий Васильевич": 20,
-      "Есяков Сергей Яковлевич": 773,
-      "Камнев Георгий Петрович": 133,
-      "Коломыцева Людмила Викторовна": 121,
-      "Коробов Сергей Александрович": 9,
-      "Куликов Павел Владимирович": 44,
-      "Никифоров Андрей Васильевич": 18,
-      "Пакаев Алексей Федорович": 17
+      "gas:candidate-vibid:2582000740845": 20,
+      "gas:candidate-vibid:2582000740020": 773,
+      "gas:candidate-vibid:2582000740031": 133,
+      "gas:candidate-vibid:2582000738771": 121,
+      "gas:candidate-vibid:2582000739795": 9,
+      "gas:candidate-vibid:2582000734147": 44,
+      "gas:candidate-vibid:2582000741081": 18,
+      "gas:candidate-vibid:2582000740269": 17
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/penza?action=show&root=1000193&tvd=2582000671229&vrn=100100067795849&region=58&global=&sub_region=58&prver=0&pronetvd=null&vibid=2582000671229&type=464",
@@ -9265,14 +9265,14 @@ export const duma_2016_uik_463_region_58_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Алексютин Анатолий Васильевич": 17,
-      "Есяков Сергей Яковлевич": 241,
-      "Камнев Георгий Петрович": 147,
-      "Коломыцева Людмила Викторовна": 102,
-      "Коробов Сергей Александрович": 6,
-      "Куликов Павел Владимирович": 56,
-      "Никифоров Андрей Васильевич": 26,
-      "Пакаев Алексей Федорович": 8
+      "gas:candidate-vibid:2582000740845": 17,
+      "gas:candidate-vibid:2582000740020": 241,
+      "gas:candidate-vibid:2582000740031": 147,
+      "gas:candidate-vibid:2582000738771": 102,
+      "gas:candidate-vibid:2582000739795": 6,
+      "gas:candidate-vibid:2582000734147": 56,
+      "gas:candidate-vibid:2582000741081": 26,
+      "gas:candidate-vibid:2582000740269": 8
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/penza?action=show&root=1000193&tvd=2582000671229&vrn=100100067795849&region=58&global=&sub_region=58&prver=0&pronetvd=null&vibid=2582000671229&type=464",
@@ -9323,14 +9323,14 @@ export const duma_2016_uik_463_region_58_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Алексютин Анатолий Васильевич": 21,
-      "Есяков Сергей Яковлевич": 260,
-      "Камнев Георгий Петрович": 159,
-      "Коломыцева Людмила Викторовна": 96,
-      "Коробов Сергей Александрович": 10,
-      "Куликов Павел Владимирович": 64,
-      "Никифоров Андрей Васильевич": 12,
-      "Пакаев Алексей Федорович": 11
+      "gas:candidate-vibid:2582000740845": 21,
+      "gas:candidate-vibid:2582000740020": 260,
+      "gas:candidate-vibid:2582000740031": 159,
+      "gas:candidate-vibid:2582000738771": 96,
+      "gas:candidate-vibid:2582000739795": 10,
+      "gas:candidate-vibid:2582000734147": 64,
+      "gas:candidate-vibid:2582000741081": 12,
+      "gas:candidate-vibid:2582000740269": 11
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/penza?action=show&root=1000193&tvd=2582000671229&vrn=100100067795849&region=58&global=&sub_region=58&prver=0&pronetvd=null&vibid=2582000671229&type=464",
@@ -9381,14 +9381,14 @@ export const duma_2016_uik_463_region_58_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Алексютин Анатолий Васильевич": 11,
-      "Есяков Сергей Яковлевич": 203,
-      "Камнев Георгий Петрович": 131,
-      "Коломыцева Людмила Викторовна": 63,
-      "Коробов Сергей Александрович": 11,
-      "Куликов Павел Владимирович": 47,
-      "Никифоров Андрей Васильевич": 27,
-      "Пакаев Алексей Федорович": 14
+      "gas:candidate-vibid:2582000740845": 11,
+      "gas:candidate-vibid:2582000740020": 203,
+      "gas:candidate-vibid:2582000740031": 131,
+      "gas:candidate-vibid:2582000738771": 63,
+      "gas:candidate-vibid:2582000739795": 11,
+      "gas:candidate-vibid:2582000734147": 47,
+      "gas:candidate-vibid:2582000741081": 27,
+      "gas:candidate-vibid:2582000740269": 14
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/penza?action=show&root=1000193&tvd=2582000671229&vrn=100100067795849&region=58&global=&sub_region=58&prver=0&pronetvd=null&vibid=2582000671229&type=464",
@@ -9439,14 +9439,14 @@ export const duma_2016_uik_463_region_58_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Алексютин Анатолий Васильевич": 24,
-      "Есяков Сергей Яковлевич": 265,
-      "Камнев Георгий Петрович": 157,
-      "Коломыцева Людмила Викторовна": 112,
-      "Коробов Сергей Александрович": 11,
-      "Куликов Павел Владимирович": 62,
-      "Никифоров Андрей Васильевич": 12,
-      "Пакаев Алексей Федорович": 17
+      "gas:candidate-vibid:2582000740845": 24,
+      "gas:candidate-vibid:2582000740020": 265,
+      "gas:candidate-vibid:2582000740031": 157,
+      "gas:candidate-vibid:2582000738771": 112,
+      "gas:candidate-vibid:2582000739795": 11,
+      "gas:candidate-vibid:2582000734147": 62,
+      "gas:candidate-vibid:2582000741081": 12,
+      "gas:candidate-vibid:2582000740269": 17
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/penza?action=show&root=1000193&tvd=2582000671229&vrn=100100067795849&region=58&global=&sub_region=58&prver=0&pronetvd=null&vibid=2582000671229&type=464",
@@ -9497,14 +9497,14 @@ export const duma_2016_uik_463_region_58_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Алексютин Анатолий Васильевич": 26,
-      "Есяков Сергей Яковлевич": 553,
-      "Камнев Георгий Петрович": 206,
-      "Коломыцева Людмила Викторовна": 117,
-      "Коробов Сергей Александрович": 25,
-      "Куликов Павел Владимирович": 49,
-      "Никифоров Андрей Васильевич": 39,
-      "Пакаев Алексей Федорович": 13
+      "gas:candidate-vibid:2582000740845": 26,
+      "gas:candidate-vibid:2582000740020": 553,
+      "gas:candidate-vibid:2582000740031": 206,
+      "gas:candidate-vibid:2582000738771": 117,
+      "gas:candidate-vibid:2582000739795": 25,
+      "gas:candidate-vibid:2582000734147": 49,
+      "gas:candidate-vibid:2582000741081": 39,
+      "gas:candidate-vibid:2582000740269": 13
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/penza?action=show&root=1000193&tvd=2582000671229&vrn=100100067795849&region=58&global=&sub_region=58&prver=0&pronetvd=null&vibid=2582000671229&type=464",
@@ -9555,14 +9555,14 @@ export const duma_2016_uik_463_region_58_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Алексютин Анатолий Васильевич": 11,
-      "Есяков Сергей Яковлевич": 188,
-      "Камнев Георгий Петрович": 91,
-      "Коломыцева Людмила Викторовна": 44,
-      "Коробов Сергей Александрович": 4,
-      "Куликов Павел Владимирович": 47,
-      "Никифоров Андрей Васильевич": 17,
-      "Пакаев Алексей Федорович": 3
+      "gas:candidate-vibid:2582000740845": 11,
+      "gas:candidate-vibid:2582000740020": 188,
+      "gas:candidate-vibid:2582000740031": 91,
+      "gas:candidate-vibid:2582000738771": 44,
+      "gas:candidate-vibid:2582000739795": 4,
+      "gas:candidate-vibid:2582000734147": 47,
+      "gas:candidate-vibid:2582000741081": 17,
+      "gas:candidate-vibid:2582000740269": 3
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/penza?action=show&root=1000193&tvd=2582000671229&vrn=100100067795849&region=58&global=&sub_region=58&prver=0&pronetvd=null&vibid=2582000671229&type=464",
@@ -9613,14 +9613,14 @@ export const duma_2016_uik_463_region_58_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Алексютин Анатолий Васильевич": 14,
-      "Есяков Сергей Яковлевич": 387,
-      "Камнев Георгий Петрович": 198,
-      "Коломыцева Людмила Викторовна": 116,
-      "Коробов Сергей Александрович": 14,
-      "Куликов Павел Владимирович": 99,
-      "Никифоров Андрей Васильевич": 25,
-      "Пакаев Алексей Федорович": 17
+      "gas:candidate-vibid:2582000740845": 14,
+      "gas:candidate-vibid:2582000740020": 387,
+      "gas:candidate-vibid:2582000740031": 198,
+      "gas:candidate-vibid:2582000738771": 116,
+      "gas:candidate-vibid:2582000739795": 14,
+      "gas:candidate-vibid:2582000734147": 99,
+      "gas:candidate-vibid:2582000741081": 25,
+      "gas:candidate-vibid:2582000740269": 17
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/penza?action=show&root=1000193&tvd=2582000671229&vrn=100100067795849&region=58&global=&sub_region=58&prver=0&pronetvd=null&vibid=2582000671229&type=464",
@@ -9671,14 +9671,14 @@ export const duma_2016_uik_463_region_58_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Алексютин Анатолий Васильевич": 20,
-      "Есяков Сергей Яковлевич": 446,
-      "Камнев Георгий Петрович": 178,
-      "Коломыцева Людмила Викторовна": 154,
-      "Коробов Сергей Александрович": 18,
-      "Куликов Павел Владимирович": 122,
-      "Никифоров Андрей Васильевич": 27,
-      "Пакаев Алексей Федорович": 27
+      "gas:candidate-vibid:2582000740845": 20,
+      "gas:candidate-vibid:2582000740020": 446,
+      "gas:candidate-vibid:2582000740031": 178,
+      "gas:candidate-vibid:2582000738771": 154,
+      "gas:candidate-vibid:2582000739795": 18,
+      "gas:candidate-vibid:2582000734147": 122,
+      "gas:candidate-vibid:2582000741081": 27,
+      "gas:candidate-vibid:2582000740269": 27
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/penza?action=show&root=1000193&tvd=2582000671229&vrn=100100067795849&region=58&global=&sub_region=58&prver=0&pronetvd=null&vibid=2582000671229&type=464",
@@ -9729,14 +9729,14 @@ export const duma_2016_uik_463_region_58_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Алексютин Анатолий Васильевич": 6,
-      "Есяков Сергей Яковлевич": 146,
-      "Камнев Георгий Петрович": 94,
-      "Коломыцева Людмила Викторовна": 38,
-      "Коробов Сергей Александрович": 4,
-      "Куликов Павел Владимирович": 45,
-      "Никифоров Андрей Васильевич": 13,
-      "Пакаев Алексей Федорович": 8
+      "gas:candidate-vibid:2582000740845": 6,
+      "gas:candidate-vibid:2582000740020": 146,
+      "gas:candidate-vibid:2582000740031": 94,
+      "gas:candidate-vibid:2582000738771": 38,
+      "gas:candidate-vibid:2582000739795": 4,
+      "gas:candidate-vibid:2582000734147": 45,
+      "gas:candidate-vibid:2582000741081": 13,
+      "gas:candidate-vibid:2582000740269": 8
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/penza?action=show&root=1000193&tvd=2582000671229&vrn=100100067795849&region=58&global=&sub_region=58&prver=0&pronetvd=null&vibid=2582000671229&type=464",
@@ -9787,14 +9787,14 @@ export const duma_2016_uik_463_region_58_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Алексютин Анатолий Васильевич": 10,
-      "Есяков Сергей Яковлевич": 457,
-      "Камнев Георгий Петрович": 92,
-      "Коломыцева Людмила Викторовна": 94,
-      "Коробов Сергей Александрович": 4,
-      "Куликов Павел Владимирович": 63,
-      "Никифоров Андрей Васильевич": 20,
-      "Пакаев Алексей Федорович": 4
+      "gas:candidate-vibid:2582000740845": 10,
+      "gas:candidate-vibid:2582000740020": 457,
+      "gas:candidate-vibid:2582000740031": 92,
+      "gas:candidate-vibid:2582000738771": 94,
+      "gas:candidate-vibid:2582000739795": 4,
+      "gas:candidate-vibid:2582000734147": 63,
+      "gas:candidate-vibid:2582000741081": 20,
+      "gas:candidate-vibid:2582000740269": 4
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/penza?action=show&root=1000193&tvd=2582000671229&vrn=100100067795849&region=58&global=&sub_region=58&prver=0&pronetvd=null&vibid=2582000671229&type=464",
@@ -9845,14 +9845,14 @@ export const duma_2016_uik_463_region_58_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Алексютин Анатолий Васильевич": 12,
-      "Есяков Сергей Яковлевич": 348,
-      "Камнев Георгий Петрович": 137,
-      "Коломыцева Людмила Викторовна": 112,
-      "Коробов Сергей Александрович": 9,
-      "Куликов Павел Владимирович": 70,
-      "Никифоров Андрей Васильевич": 21,
-      "Пакаев Алексей Федорович": 15
+      "gas:candidate-vibid:2582000740845": 12,
+      "gas:candidate-vibid:2582000740020": 348,
+      "gas:candidate-vibid:2582000740031": 137,
+      "gas:candidate-vibid:2582000738771": 112,
+      "gas:candidate-vibid:2582000739795": 9,
+      "gas:candidate-vibid:2582000734147": 70,
+      "gas:candidate-vibid:2582000741081": 21,
+      "gas:candidate-vibid:2582000740269": 15
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/penza?action=show&root=1000193&tvd=2582000671229&vrn=100100067795849&region=58&global=&sub_region=58&prver=0&pronetvd=null&vibid=2582000671229&type=464",
@@ -9903,14 +9903,14 @@ export const duma_2016_uik_463_region_58_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Алексютин Анатолий Васильевич": 24,
-      "Есяков Сергей Яковлевич": 409,
-      "Камнев Георгий Петрович": 135,
-      "Коломыцева Людмила Викторовна": 49,
-      "Коробов Сергей Александрович": 11,
-      "Куликов Павел Владимирович": 31,
-      "Никифоров Андрей Васильевич": 25,
-      "Пакаев Алексей Федорович": 12
+      "gas:candidate-vibid:2582000740845": 24,
+      "gas:candidate-vibid:2582000740020": 409,
+      "gas:candidate-vibid:2582000740031": 135,
+      "gas:candidate-vibid:2582000738771": 49,
+      "gas:candidate-vibid:2582000739795": 11,
+      "gas:candidate-vibid:2582000734147": 31,
+      "gas:candidate-vibid:2582000741081": 25,
+      "gas:candidate-vibid:2582000740269": 12
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/penza?action=show&root=1000193&tvd=2582000671229&vrn=100100067795849&region=58&global=&sub_region=58&prver=0&pronetvd=null&vibid=2582000671229&type=464",
@@ -9961,14 +9961,14 @@ export const duma_2016_uik_463_region_58_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Алексютин Анатолий Васильевич": 12,
-      "Есяков Сергей Яковлевич": 187,
-      "Камнев Георгий Петрович": 125,
-      "Коломыцева Людмила Викторовна": 62,
-      "Коробов Сергей Александрович": 6,
-      "Куликов Павел Владимирович": 49,
-      "Никифоров Андрей Васильевич": 19,
-      "Пакаев Алексей Федорович": 9
+      "gas:candidate-vibid:2582000740845": 12,
+      "gas:candidate-vibid:2582000740020": 187,
+      "gas:candidate-vibid:2582000740031": 125,
+      "gas:candidate-vibid:2582000738771": 62,
+      "gas:candidate-vibid:2582000739795": 6,
+      "gas:candidate-vibid:2582000734147": 49,
+      "gas:candidate-vibid:2582000741081": 19,
+      "gas:candidate-vibid:2582000740269": 9
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/penza?action=show&root=1000193&tvd=2582000671229&vrn=100100067795849&region=58&global=&sub_region=58&prver=0&pronetvd=null&vibid=2582000671229&type=464",
@@ -10019,14 +10019,14 @@ export const duma_2016_uik_463_region_58_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Алексютин Анатолий Васильевич": 10,
-      "Есяков Сергей Яковлевич": 161,
-      "Камнев Георгий Петрович": 71,
-      "Коломыцева Людмила Викторовна": 56,
-      "Коробов Сергей Александрович": 1,
-      "Куликов Павел Владимирович": 43,
-      "Никифоров Андрей Васильевич": 14,
-      "Пакаев Алексей Федорович": 12
+      "gas:candidate-vibid:2582000740845": 10,
+      "gas:candidate-vibid:2582000740020": 161,
+      "gas:candidate-vibid:2582000740031": 71,
+      "gas:candidate-vibid:2582000738771": 56,
+      "gas:candidate-vibid:2582000739795": 1,
+      "gas:candidate-vibid:2582000734147": 43,
+      "gas:candidate-vibid:2582000741081": 14,
+      "gas:candidate-vibid:2582000740269": 12
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/penza?action=show&root=1000193&tvd=2582000671229&vrn=100100067795849&region=58&global=&sub_region=58&prver=0&pronetvd=null&vibid=2582000671229&type=464",
@@ -10077,14 +10077,14 @@ export const duma_2016_uik_463_region_58_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Алексютин Анатолий Васильевич": 25,
-      "Есяков Сергей Яковлевич": 297,
-      "Камнев Георгий Петрович": 178,
-      "Коломыцева Людмила Викторовна": 109,
-      "Коробов Сергей Александрович": 17,
-      "Куликов Павел Владимирович": 84,
-      "Никифоров Андрей Васильевич": 16,
-      "Пакаев Алексей Федорович": 19
+      "gas:candidate-vibid:2582000740845": 25,
+      "gas:candidate-vibid:2582000740020": 297,
+      "gas:candidate-vibid:2582000740031": 178,
+      "gas:candidate-vibid:2582000738771": 109,
+      "gas:candidate-vibid:2582000739795": 17,
+      "gas:candidate-vibid:2582000734147": 84,
+      "gas:candidate-vibid:2582000741081": 16,
+      "gas:candidate-vibid:2582000740269": 19
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/penza?action=show&root=1000193&tvd=2582000671229&vrn=100100067795849&region=58&global=&sub_region=58&prver=0&pronetvd=null&vibid=2582000671229&type=464",
@@ -10135,14 +10135,14 @@ export const duma_2016_uik_463_region_58_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Алексютин Анатолий Васильевич": 4,
-      "Есяков Сергей Яковлевич": 129,
-      "Камнев Георгий Петрович": 99,
-      "Коломыцева Людмила Викторовна": 57,
-      "Коробов Сергей Александрович": 8,
-      "Куликов Павел Владимирович": 28,
-      "Никифоров Андрей Васильевич": 13,
-      "Пакаев Алексей Федорович": 8
+      "gas:candidate-vibid:2582000740845": 4,
+      "gas:candidate-vibid:2582000740020": 129,
+      "gas:candidate-vibid:2582000740031": 99,
+      "gas:candidate-vibid:2582000738771": 57,
+      "gas:candidate-vibid:2582000739795": 8,
+      "gas:candidate-vibid:2582000734147": 28,
+      "gas:candidate-vibid:2582000741081": 13,
+      "gas:candidate-vibid:2582000740269": 8
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/penza?action=show&root=1000193&tvd=2582000671229&vrn=100100067795849&region=58&global=&sub_region=58&prver=0&pronetvd=null&vibid=2582000671229&type=464",
@@ -10193,14 +10193,14 @@ export const duma_2016_uik_463_region_58_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Алексютин Анатолий Васильевич": 16,
-      "Есяков Сергей Яковлевич": 441,
-      "Камнев Георгий Петрович": 191,
-      "Коломыцева Людмила Викторовна": 108,
-      "Коробов Сергей Александрович": 15,
-      "Куликов Павел Владимирович": 78,
-      "Никифоров Андрей Васильевич": 12,
-      "Пакаев Алексей Федорович": 18
+      "gas:candidate-vibid:2582000740845": 16,
+      "gas:candidate-vibid:2582000740020": 441,
+      "gas:candidate-vibid:2582000740031": 191,
+      "gas:candidate-vibid:2582000738771": 108,
+      "gas:candidate-vibid:2582000739795": 15,
+      "gas:candidate-vibid:2582000734147": 78,
+      "gas:candidate-vibid:2582000741081": 12,
+      "gas:candidate-vibid:2582000740269": 18
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/penza?action=show&root=1000193&tvd=2582000671229&vrn=100100067795849&region=58&global=&sub_region=58&prver=0&pronetvd=null&vibid=2582000671229&type=464",
@@ -10251,14 +10251,14 @@ export const duma_2016_uik_463_region_58_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Алексютин Анатолий Васильевич": 23,
-      "Есяков Сергей Яковлевич": 375,
-      "Камнев Георгий Петрович": 210,
-      "Коломыцева Людмила Викторовна": 118,
-      "Коробов Сергей Александрович": 12,
-      "Куликов Павел Владимирович": 100,
-      "Никифоров Андрей Васильевич": 45,
-      "Пакаев Алексей Федорович": 6
+      "gas:candidate-vibid:2582000740845": 23,
+      "gas:candidate-vibid:2582000740020": 375,
+      "gas:candidate-vibid:2582000740031": 210,
+      "gas:candidate-vibid:2582000738771": 118,
+      "gas:candidate-vibid:2582000739795": 12,
+      "gas:candidate-vibid:2582000734147": 100,
+      "gas:candidate-vibid:2582000741081": 45,
+      "gas:candidate-vibid:2582000740269": 6
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/penza?action=show&root=1000193&tvd=2582000671229&vrn=100100067795849&region=58&global=&sub_region=58&prver=0&pronetvd=null&vibid=2582000671229&type=464",
@@ -10309,14 +10309,14 @@ export const duma_2016_uik_463_region_58_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Алексютин Анатолий Васильевич": 12,
-      "Есяков Сергей Яковлевич": 462,
-      "Камнев Георгий Петрович": 106,
-      "Коломыцева Людмила Викторовна": 81,
-      "Коробов Сергей Александрович": 14,
-      "Куликов Павел Владимирович": 72,
-      "Никифоров Андрей Васильевич": 20,
-      "Пакаев Алексей Федорович": 8
+      "gas:candidate-vibid:2582000740845": 12,
+      "gas:candidate-vibid:2582000740020": 462,
+      "gas:candidate-vibid:2582000740031": 106,
+      "gas:candidate-vibid:2582000738771": 81,
+      "gas:candidate-vibid:2582000739795": 14,
+      "gas:candidate-vibid:2582000734147": 72,
+      "gas:candidate-vibid:2582000741081": 20,
+      "gas:candidate-vibid:2582000740269": 8
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/penza?action=show&root=1000193&tvd=2582000671229&vrn=100100067795849&region=58&global=&sub_region=58&prver=0&pronetvd=null&vibid=2582000671229&type=464",
@@ -10367,14 +10367,14 @@ export const duma_2016_uik_463_region_58_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Алексютин Анатолий Васильевич": 14,
-      "Есяков Сергей Яковлевич": 359,
-      "Камнев Георгий Петрович": 76,
-      "Коломыцева Людмила Викторовна": 57,
-      "Коробов Сергей Александрович": 5,
-      "Куликов Павел Владимирович": 50,
-      "Никифоров Андрей Васильевич": 19,
-      "Пакаев Алексей Федорович": 6
+      "gas:candidate-vibid:2582000740845": 14,
+      "gas:candidate-vibid:2582000740020": 359,
+      "gas:candidate-vibid:2582000740031": 76,
+      "gas:candidate-vibid:2582000738771": 57,
+      "gas:candidate-vibid:2582000739795": 5,
+      "gas:candidate-vibid:2582000734147": 50,
+      "gas:candidate-vibid:2582000741081": 19,
+      "gas:candidate-vibid:2582000740269": 6
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/penza?action=show&root=1000193&tvd=2582000671229&vrn=100100067795849&region=58&global=&sub_region=58&prver=0&pronetvd=null&vibid=2582000671229&type=464",
@@ -10425,14 +10425,14 @@ export const duma_2016_uik_463_region_58_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Алексютин Анатолий Васильевич": 7,
-      "Есяков Сергей Яковлевич": 220,
-      "Камнев Георгий Петрович": 153,
-      "Коломыцева Людмила Викторовна": 96,
-      "Коробов Сергей Александрович": 5,
-      "Куликов Павел Владимирович": 46,
-      "Никифоров Андрей Васильевич": 12,
-      "Пакаев Алексей Федорович": 8
+      "gas:candidate-vibid:2582000740845": 7,
+      "gas:candidate-vibid:2582000740020": 220,
+      "gas:candidate-vibid:2582000740031": 153,
+      "gas:candidate-vibid:2582000738771": 96,
+      "gas:candidate-vibid:2582000739795": 5,
+      "gas:candidate-vibid:2582000734147": 46,
+      "gas:candidate-vibid:2582000741081": 12,
+      "gas:candidate-vibid:2582000740269": 8
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/penza?action=show&root=1000193&tvd=2582000671229&vrn=100100067795849&region=58&global=&sub_region=58&prver=0&pronetvd=null&vibid=2582000671229&type=464",
@@ -10483,14 +10483,14 @@ export const duma_2016_uik_463_region_58_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Алексютин Анатолий Васильевич": 17,
-      "Есяков Сергей Яковлевич": 410,
-      "Камнев Георгий Петрович": 211,
-      "Коломыцева Людмила Викторовна": 188,
-      "Коробов Сергей Александрович": 5,
-      "Куликов Павел Владимирович": 66,
-      "Никифоров Андрей Васильевич": 30,
-      "Пакаев Алексей Федорович": 16
+      "gas:candidate-vibid:2582000740845": 17,
+      "gas:candidate-vibid:2582000740020": 410,
+      "gas:candidate-vibid:2582000740031": 211,
+      "gas:candidate-vibid:2582000738771": 188,
+      "gas:candidate-vibid:2582000739795": 5,
+      "gas:candidate-vibid:2582000734147": 66,
+      "gas:candidate-vibid:2582000741081": 30,
+      "gas:candidate-vibid:2582000740269": 16
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/penza?action=show&root=1000193&tvd=2582000671229&vrn=100100067795849&region=58&global=&sub_region=58&prver=0&pronetvd=null&vibid=2582000671229&type=464",
@@ -10541,14 +10541,14 @@ export const duma_2016_uik_463_region_58_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Алексютин Анатолий Васильевич": 23,
-      "Есяков Сергей Яковлевич": 416,
-      "Камнев Георгий Петрович": 314,
-      "Коломыцева Людмила Викторовна": 214,
-      "Коробов Сергей Александрович": 10,
-      "Куликов Павел Владимирович": 75,
-      "Никифоров Андрей Васильевич": 23,
-      "Пакаев Алексей Федорович": 22
+      "gas:candidate-vibid:2582000740845": 23,
+      "gas:candidate-vibid:2582000740020": 416,
+      "gas:candidate-vibid:2582000740031": 314,
+      "gas:candidate-vibid:2582000738771": 214,
+      "gas:candidate-vibid:2582000739795": 10,
+      "gas:candidate-vibid:2582000734147": 75,
+      "gas:candidate-vibid:2582000741081": 23,
+      "gas:candidate-vibid:2582000740269": 22
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/penza?action=show&root=1000193&tvd=2582000671229&vrn=100100067795849&region=58&global=&sub_region=58&prver=0&pronetvd=null&vibid=2582000671229&type=464",
@@ -10599,14 +10599,14 @@ export const duma_2016_uik_463_region_58_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Алексютин Анатолий Васильевич": 33,
-      "Есяков Сергей Яковлевич": 500,
-      "Камнев Георгий Петрович": 181,
-      "Коломыцева Людмила Викторовна": 176,
-      "Коробов Сергей Александрович": 13,
-      "Куликов Павел Владимирович": 109,
-      "Никифоров Андрей Васильевич": 35,
-      "Пакаев Алексей Федорович": 12
+      "gas:candidate-vibid:2582000740845": 33,
+      "gas:candidate-vibid:2582000740020": 500,
+      "gas:candidate-vibid:2582000740031": 181,
+      "gas:candidate-vibid:2582000738771": 176,
+      "gas:candidate-vibid:2582000739795": 13,
+      "gas:candidate-vibid:2582000734147": 109,
+      "gas:candidate-vibid:2582000741081": 35,
+      "gas:candidate-vibid:2582000740269": 12
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/penza?action=show&root=1000193&tvd=2582000671229&vrn=100100067795849&region=58&global=&sub_region=58&prver=0&pronetvd=null&vibid=2582000671229&type=464",
@@ -10657,14 +10657,14 @@ export const duma_2016_uik_463_region_58_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Алексютин Анатолий Васильевич": 18,
-      "Есяков Сергей Яковлевич": 432,
-      "Камнев Георгий Петрович": 250,
-      "Коломыцева Людмила Викторовна": 118,
-      "Коробов Сергей Александрович": 17,
-      "Куликов Павел Владимирович": 88,
-      "Никифоров Андрей Васильевич": 34,
-      "Пакаев Алексей Федорович": 18
+      "gas:candidate-vibid:2582000740845": 18,
+      "gas:candidate-vibid:2582000740020": 432,
+      "gas:candidate-vibid:2582000740031": 250,
+      "gas:candidate-vibid:2582000738771": 118,
+      "gas:candidate-vibid:2582000739795": 17,
+      "gas:candidate-vibid:2582000734147": 88,
+      "gas:candidate-vibid:2582000741081": 34,
+      "gas:candidate-vibid:2582000740269": 18
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/penza?action=show&root=1000193&tvd=2582000671229&vrn=100100067795849&region=58&global=&sub_region=58&prver=0&pronetvd=null&vibid=2582000671229&type=464",
@@ -10715,14 +10715,14 @@ export const duma_2016_uik_463_region_58_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Алексютин Анатолий Васильевич": 31,
-      "Есяков Сергей Яковлевич": 262,
-      "Камнев Георгий Петрович": 88,
-      "Коломыцева Людмила Викторовна": 63,
-      "Коробов Сергей Александрович": 18,
-      "Куликов Павел Владимирович": 86,
-      "Никифоров Андрей Васильевич": 15,
-      "Пакаев Алексей Федорович": 11
+      "gas:candidate-vibid:2582000740845": 31,
+      "gas:candidate-vibid:2582000740020": 262,
+      "gas:candidate-vibid:2582000740031": 88,
+      "gas:candidate-vibid:2582000738771": 63,
+      "gas:candidate-vibid:2582000739795": 18,
+      "gas:candidate-vibid:2582000734147": 86,
+      "gas:candidate-vibid:2582000741081": 15,
+      "gas:candidate-vibid:2582000740269": 11
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/penza?action=show&root=1000193&tvd=2582000671229&vrn=100100067795849&region=58&global=&sub_region=58&prver=0&pronetvd=null&vibid=2582000671229&type=464",
@@ -10773,14 +10773,14 @@ export const duma_2016_uik_463_region_58_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Алексютин Анатолий Васильевич": 12,
-      "Есяков Сергей Яковлевич": 334,
-      "Камнев Георгий Петрович": 92,
-      "Коломыцева Людмила Викторовна": 102,
-      "Коробов Сергей Александрович": 10,
-      "Куликов Павел Владимирович": 42,
-      "Никифоров Андрей Васильевич": 21,
-      "Пакаев Алексей Федорович": 9
+      "gas:candidate-vibid:2582000740845": 12,
+      "gas:candidate-vibid:2582000740020": 334,
+      "gas:candidate-vibid:2582000740031": 92,
+      "gas:candidate-vibid:2582000738771": 102,
+      "gas:candidate-vibid:2582000739795": 10,
+      "gas:candidate-vibid:2582000734147": 42,
+      "gas:candidate-vibid:2582000741081": 21,
+      "gas:candidate-vibid:2582000740269": 9
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/penza?action=show&root=1000193&tvd=2582000671229&vrn=100100067795849&region=58&global=&sub_region=58&prver=0&pronetvd=null&vibid=2582000671229&type=464",
@@ -10831,14 +10831,14 @@ export const duma_2016_uik_463_region_58_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Алексютин Анатолий Васильевич": 21,
-      "Есяков Сергей Яковлевич": 322,
-      "Камнев Георгий Петрович": 175,
-      "Коломыцева Людмила Викторовна": 134,
-      "Коробов Сергей Александрович": 12,
-      "Куликов Павел Владимирович": 89,
-      "Никифоров Андрей Васильевич": 32,
-      "Пакаев Алексей Федорович": 15
+      "gas:candidate-vibid:2582000740845": 21,
+      "gas:candidate-vibid:2582000740020": 322,
+      "gas:candidate-vibid:2582000740031": 175,
+      "gas:candidate-vibid:2582000738771": 134,
+      "gas:candidate-vibid:2582000739795": 12,
+      "gas:candidate-vibid:2582000734147": 89,
+      "gas:candidate-vibid:2582000741081": 32,
+      "gas:candidate-vibid:2582000740269": 15
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/penza?action=show&root=1000193&tvd=2582000671229&vrn=100100067795849&region=58&global=&sub_region=58&prver=0&pronetvd=null&vibid=2582000671229&type=464",
@@ -10889,14 +10889,14 @@ export const duma_2016_uik_463_region_58_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Алексютин Анатолий Васильевич": 9,
-      "Есяков Сергей Яковлевич": 154,
-      "Камнев Георгий Петрович": 60,
-      "Коломыцева Людмила Викторовна": 58,
-      "Коробов Сергей Александрович": 5,
-      "Куликов Павел Владимирович": 39,
-      "Никифоров Андрей Васильевич": 16,
-      "Пакаев Алексей Федорович": 4
+      "gas:candidate-vibid:2582000740845": 9,
+      "gas:candidate-vibid:2582000740020": 154,
+      "gas:candidate-vibid:2582000740031": 60,
+      "gas:candidate-vibid:2582000738771": 58,
+      "gas:candidate-vibid:2582000739795": 5,
+      "gas:candidate-vibid:2582000734147": 39,
+      "gas:candidate-vibid:2582000741081": 16,
+      "gas:candidate-vibid:2582000740269": 4
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/penza?action=show&root=1000193&tvd=2582000671229&vrn=100100067795849&region=58&global=&sub_region=58&prver=0&pronetvd=null&vibid=2582000671229&type=464",
@@ -10947,14 +10947,14 @@ export const duma_2016_uik_463_region_58_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Алексютин Анатолий Васильевич": 66,
-      "Есяков Сергей Яковлевич": 722,
-      "Камнев Георгий Петрович": 181,
-      "Коломыцева Людмила Викторовна": 164,
-      "Коробов Сергей Александрович": 47,
-      "Куликов Павел Владимирович": 247,
-      "Никифоров Андрей Васильевич": 27,
-      "Пакаев Алексей Федорович": 40
+      "gas:candidate-vibid:2582000740845": 66,
+      "gas:candidate-vibid:2582000740020": 722,
+      "gas:candidate-vibid:2582000740031": 181,
+      "gas:candidate-vibid:2582000738771": 164,
+      "gas:candidate-vibid:2582000739795": 47,
+      "gas:candidate-vibid:2582000734147": 247,
+      "gas:candidate-vibid:2582000741081": 27,
+      "gas:candidate-vibid:2582000740269": 40
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/penza?action=show&root=1000193&tvd=2582000671229&vrn=100100067795849&region=58&global=&sub_region=58&prver=0&pronetvd=null&vibid=2582000671229&type=464",
@@ -11005,14 +11005,14 @@ export const duma_2016_uik_463_region_58_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Алексютин Анатолий Васильевич": 6,
-      "Есяков Сергей Яковлевич": 147,
-      "Камнев Георгий Петрович": 48,
-      "Коломыцева Людмила Викторовна": 38,
-      "Коробов Сергей Александрович": 6,
-      "Куликов Павел Владимирович": 26,
-      "Никифоров Андрей Васильевич": 15,
-      "Пакаев Алексей Федорович": 2
+      "gas:candidate-vibid:2582000740845": 6,
+      "gas:candidate-vibid:2582000740020": 147,
+      "gas:candidate-vibid:2582000740031": 48,
+      "gas:candidate-vibid:2582000738771": 38,
+      "gas:candidate-vibid:2582000739795": 6,
+      "gas:candidate-vibid:2582000734147": 26,
+      "gas:candidate-vibid:2582000741081": 15,
+      "gas:candidate-vibid:2582000740269": 2
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/penza?action=show&root=1000193&tvd=2582000671229&vrn=100100067795849&region=58&global=&sub_region=58&prver=0&pronetvd=null&vibid=2582000671229&type=464",
@@ -11063,14 +11063,14 @@ export const duma_2016_uik_463_region_58_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Алексютин Анатолий Васильевич": 31,
-      "Есяков Сергей Яковлевич": 340,
-      "Камнев Георгий Петрович": 217,
-      "Коломыцева Людмила Викторовна": 199,
-      "Коробов Сергей Александрович": 22,
-      "Куликов Павел Владимирович": 57,
-      "Никифоров Андрей Васильевич": 34,
-      "Пакаев Алексей Федорович": 30
+      "gas:candidate-vibid:2582000740845": 31,
+      "gas:candidate-vibid:2582000740020": 340,
+      "gas:candidate-vibid:2582000740031": 217,
+      "gas:candidate-vibid:2582000738771": 199,
+      "gas:candidate-vibid:2582000739795": 22,
+      "gas:candidate-vibid:2582000734147": 57,
+      "gas:candidate-vibid:2582000741081": 34,
+      "gas:candidate-vibid:2582000740269": 30
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/penza?action=show&root=1000193&tvd=2582000671230&vrn=100100067795849&region=58&global=&sub_region=58&prver=0&pronetvd=null&vibid=2582000671230&type=464",
@@ -11121,14 +11121,14 @@ export const duma_2016_uik_463_region_58_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Алексютин Анатолий Васильевич": 30,
-      "Есяков Сергей Яковлевич": 481,
-      "Камнев Георгий Петрович": 173,
-      "Коломыцева Людмила Викторовна": 122,
-      "Коробов Сергей Александрович": 13,
-      "Куликов Павел Владимирович": 49,
-      "Никифоров Андрей Васильевич": 15,
-      "Пакаев Алексей Федорович": 16
+      "gas:candidate-vibid:2582000740845": 30,
+      "gas:candidate-vibid:2582000740020": 481,
+      "gas:candidate-vibid:2582000740031": 173,
+      "gas:candidate-vibid:2582000738771": 122,
+      "gas:candidate-vibid:2582000739795": 13,
+      "gas:candidate-vibid:2582000734147": 49,
+      "gas:candidate-vibid:2582000741081": 15,
+      "gas:candidate-vibid:2582000740269": 16
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/penza?action=show&root=1000193&tvd=2582000671230&vrn=100100067795849&region=58&global=&sub_region=58&prver=0&pronetvd=null&vibid=2582000671230&type=464",
@@ -11179,14 +11179,14 @@ export const duma_2016_uik_463_region_58_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Алексютин Анатолий Васильевич": 26,
-      "Есяков Сергей Яковлевич": 551,
-      "Камнев Георгий Петрович": 152,
-      "Коломыцева Людмила Викторовна": 132,
-      "Коробов Сергей Александрович": 11,
-      "Куликов Павел Владимирович": 71,
-      "Никифоров Андрей Васильевич": 16,
-      "Пакаев Алексей Федорович": 13
+      "gas:candidate-vibid:2582000740845": 26,
+      "gas:candidate-vibid:2582000740020": 551,
+      "gas:candidate-vibid:2582000740031": 152,
+      "gas:candidate-vibid:2582000738771": 132,
+      "gas:candidate-vibid:2582000739795": 11,
+      "gas:candidate-vibid:2582000734147": 71,
+      "gas:candidate-vibid:2582000741081": 16,
+      "gas:candidate-vibid:2582000740269": 13
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/penza?action=show&root=1000193&tvd=2582000671230&vrn=100100067795849&region=58&global=&sub_region=58&prver=0&pronetvd=null&vibid=2582000671230&type=464",
@@ -11237,14 +11237,14 @@ export const duma_2016_uik_463_region_58_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Алексютин Анатолий Васильевич": 16,
-      "Есяков Сергей Яковлевич": 286,
-      "Камнев Георгий Петрович": 255,
-      "Коломыцева Людмила Викторовна": 143,
-      "Коробов Сергей Александрович": 23,
-      "Куликов Павел Владимирович": 86,
-      "Никифоров Андрей Васильевич": 27,
-      "Пакаев Алексей Федорович": 26
+      "gas:candidate-vibid:2582000740845": 16,
+      "gas:candidate-vibid:2582000740020": 286,
+      "gas:candidate-vibid:2582000740031": 255,
+      "gas:candidate-vibid:2582000738771": 143,
+      "gas:candidate-vibid:2582000739795": 23,
+      "gas:candidate-vibid:2582000734147": 86,
+      "gas:candidate-vibid:2582000741081": 27,
+      "gas:candidate-vibid:2582000740269": 26
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/penza?action=show&root=1000193&tvd=2582000671230&vrn=100100067795849&region=58&global=&sub_region=58&prver=0&pronetvd=null&vibid=2582000671230&type=464",
@@ -11295,14 +11295,14 @@ export const duma_2016_uik_463_region_58_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Алексютин Анатолий Васильевич": 31,
-      "Есяков Сергей Яковлевич": 243,
-      "Камнев Георгий Петрович": 206,
-      "Коломыцева Людмила Викторовна": 178,
-      "Коробов Сергей Александрович": 12,
-      "Куликов Павел Владимирович": 77,
-      "Никифоров Андрей Васильевич": 16,
-      "Пакаев Алексей Федорович": 19
+      "gas:candidate-vibid:2582000740845": 31,
+      "gas:candidate-vibid:2582000740020": 243,
+      "gas:candidate-vibid:2582000740031": 206,
+      "gas:candidate-vibid:2582000738771": 178,
+      "gas:candidate-vibid:2582000739795": 12,
+      "gas:candidate-vibid:2582000734147": 77,
+      "gas:candidate-vibid:2582000741081": 16,
+      "gas:candidate-vibid:2582000740269": 19
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/penza?action=show&root=1000193&tvd=2582000671230&vrn=100100067795849&region=58&global=&sub_region=58&prver=0&pronetvd=null&vibid=2582000671230&type=464",
@@ -11353,14 +11353,14 @@ export const duma_2016_uik_463_region_58_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Алексютин Анатолий Васильевич": 36,
-      "Есяков Сергей Яковлевич": 191,
-      "Камнев Георгий Петрович": 187,
-      "Коломыцева Людмила Викторовна": 108,
-      "Коробов Сергей Александрович": 10,
-      "Куликов Павел Владимирович": 53,
-      "Никифоров Андрей Васильевич": 17,
-      "Пакаев Алексей Федорович": 17
+      "gas:candidate-vibid:2582000740845": 36,
+      "gas:candidate-vibid:2582000740020": 191,
+      "gas:candidate-vibid:2582000740031": 187,
+      "gas:candidate-vibid:2582000738771": 108,
+      "gas:candidate-vibid:2582000739795": 10,
+      "gas:candidate-vibid:2582000734147": 53,
+      "gas:candidate-vibid:2582000741081": 17,
+      "gas:candidate-vibid:2582000740269": 17
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/penza?action=show&root=1000193&tvd=2582000671230&vrn=100100067795849&region=58&global=&sub_region=58&prver=0&pronetvd=null&vibid=2582000671230&type=464",
@@ -11411,14 +11411,14 @@ export const duma_2016_uik_463_region_58_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Алексютин Анатолий Васильевич": 24,
-      "Есяков Сергей Яковлевич": 209,
-      "Камнев Георгий Петрович": 140,
-      "Коломыцева Людмила Викторовна": 144,
-      "Коробов Сергей Александрович": 13,
-      "Куликов Павел Владимирович": 60,
-      "Никифоров Андрей Васильевич": 9,
-      "Пакаев Алексей Федорович": 24
+      "gas:candidate-vibid:2582000740845": 24,
+      "gas:candidate-vibid:2582000740020": 209,
+      "gas:candidate-vibid:2582000740031": 140,
+      "gas:candidate-vibid:2582000738771": 144,
+      "gas:candidate-vibid:2582000739795": 13,
+      "gas:candidate-vibid:2582000734147": 60,
+      "gas:candidate-vibid:2582000741081": 9,
+      "gas:candidate-vibid:2582000740269": 24
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/penza?action=show&root=1000193&tvd=2582000671230&vrn=100100067795849&region=58&global=&sub_region=58&prver=0&pronetvd=null&vibid=2582000671230&type=464",
@@ -11469,14 +11469,14 @@ export const duma_2016_uik_463_region_58_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Алексютин Анатолий Васильевич": 30,
-      "Есяков Сергей Яковлевич": 210,
-      "Камнев Георгий Петрович": 140,
-      "Коломыцева Людмила Викторовна": 115,
-      "Коробов Сергей Александрович": 14,
-      "Куликов Павел Владимирович": 59,
-      "Никифоров Андрей Васильевич": 10,
-      "Пакаев Алексей Федорович": 24
+      "gas:candidate-vibid:2582000740845": 30,
+      "gas:candidate-vibid:2582000740020": 210,
+      "gas:candidate-vibid:2582000740031": 140,
+      "gas:candidate-vibid:2582000738771": 115,
+      "gas:candidate-vibid:2582000739795": 14,
+      "gas:candidate-vibid:2582000734147": 59,
+      "gas:candidate-vibid:2582000741081": 10,
+      "gas:candidate-vibid:2582000740269": 24
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/penza?action=show&root=1000193&tvd=2582000671230&vrn=100100067795849&region=58&global=&sub_region=58&prver=0&pronetvd=null&vibid=2582000671230&type=464",
@@ -11527,14 +11527,14 @@ export const duma_2016_uik_463_region_58_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Алексютин Анатолий Васильевич": 36,
-      "Есяков Сергей Яковлевич": 934,
-      "Камнев Георгий Петрович": 154,
-      "Коломыцева Людмила Викторовна": 89,
-      "Коробов Сергей Александрович": 11,
-      "Куликов Павел Владимирович": 76,
-      "Никифоров Андрей Васильевич": 29,
-      "Пакаев Алексей Федорович": 18
+      "gas:candidate-vibid:2582000740845": 36,
+      "gas:candidate-vibid:2582000740020": 934,
+      "gas:candidate-vibid:2582000740031": 154,
+      "gas:candidate-vibid:2582000738771": 89,
+      "gas:candidate-vibid:2582000739795": 11,
+      "gas:candidate-vibid:2582000734147": 76,
+      "gas:candidate-vibid:2582000741081": 29,
+      "gas:candidate-vibid:2582000740269": 18
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/penza?action=show&root=1000193&tvd=2582000671230&vrn=100100067795849&region=58&global=&sub_region=58&prver=0&pronetvd=null&vibid=2582000671230&type=464",
@@ -11585,14 +11585,14 @@ export const duma_2016_uik_463_region_58_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Алексютин Анатолий Васильевич": 58,
-      "Есяков Сергей Яковлевич": 660,
-      "Камнев Георгий Петрович": 167,
-      "Коломыцева Людмила Викторовна": 150,
-      "Коробов Сергей Александрович": 35,
-      "Куликов Павел Владимирович": 119,
-      "Никифоров Андрей Васильевич": 43,
-      "Пакаев Алексей Федорович": 33
+      "gas:candidate-vibid:2582000740845": 58,
+      "gas:candidate-vibid:2582000740020": 660,
+      "gas:candidate-vibid:2582000740031": 167,
+      "gas:candidate-vibid:2582000738771": 150,
+      "gas:candidate-vibid:2582000739795": 35,
+      "gas:candidate-vibid:2582000734147": 119,
+      "gas:candidate-vibid:2582000741081": 43,
+      "gas:candidate-vibid:2582000740269": 33
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/penza?action=show&root=1000193&tvd=2582000671230&vrn=100100067795849&region=58&global=&sub_region=58&prver=0&pronetvd=null&vibid=2582000671230&type=464",
@@ -11643,14 +11643,14 @@ export const duma_2016_uik_463_region_58_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Алексютин Анатолий Васильевич": 39,
-      "Есяков Сергей Яковлевич": 286,
-      "Камнев Георгий Петрович": 187,
-      "Коломыцева Людмила Викторовна": 93,
-      "Коробов Сергей Александрович": 19,
-      "Куликов Павел Владимирович": 81,
-      "Никифоров Андрей Васильевич": 15,
-      "Пакаев Алексей Федорович": 23
+      "gas:candidate-vibid:2582000740845": 39,
+      "gas:candidate-vibid:2582000740020": 286,
+      "gas:candidate-vibid:2582000740031": 187,
+      "gas:candidate-vibid:2582000738771": 93,
+      "gas:candidate-vibid:2582000739795": 19,
+      "gas:candidate-vibid:2582000734147": 81,
+      "gas:candidate-vibid:2582000741081": 15,
+      "gas:candidate-vibid:2582000740269": 23
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/penza?action=show&root=1000193&tvd=2582000671230&vrn=100100067795849&region=58&global=&sub_region=58&prver=0&pronetvd=null&vibid=2582000671230&type=464",
@@ -11701,14 +11701,14 @@ export const duma_2016_uik_463_region_58_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Алексютин Анатолий Васильевич": 28,
-      "Есяков Сергей Яковлевич": 167,
-      "Камнев Георгий Петрович": 141,
-      "Коломыцева Людмила Викторовна": 118,
-      "Коробов Сергей Александрович": 15,
-      "Куликов Павел Владимирович": 39,
-      "Никифоров Андрей Васильевич": 13,
-      "Пакаев Алексей Федорович": 26
+      "gas:candidate-vibid:2582000740845": 28,
+      "gas:candidate-vibid:2582000740020": 167,
+      "gas:candidate-vibid:2582000740031": 141,
+      "gas:candidate-vibid:2582000738771": 118,
+      "gas:candidate-vibid:2582000739795": 15,
+      "gas:candidate-vibid:2582000734147": 39,
+      "gas:candidate-vibid:2582000741081": 13,
+      "gas:candidate-vibid:2582000740269": 26
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/penza?action=show&root=1000193&tvd=2582000671230&vrn=100100067795849&region=58&global=&sub_region=58&prver=0&pronetvd=null&vibid=2582000671230&type=464",
@@ -11759,14 +11759,14 @@ export const duma_2016_uik_463_region_58_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Алексютин Анатолий Васильевич": 34,
-      "Есяков Сергей Яковлевич": 329,
-      "Камнев Георгий Петрович": 210,
-      "Коломыцева Людмила Викторовна": 183,
-      "Коробов Сергей Александрович": 23,
-      "Куликов Павел Владимирович": 69,
-      "Никифоров Андрей Васильевич": 31,
-      "Пакаев Алексей Федорович": 31
+      "gas:candidate-vibid:2582000740845": 34,
+      "gas:candidate-vibid:2582000740020": 329,
+      "gas:candidate-vibid:2582000740031": 210,
+      "gas:candidate-vibid:2582000738771": 183,
+      "gas:candidate-vibid:2582000739795": 23,
+      "gas:candidate-vibid:2582000734147": 69,
+      "gas:candidate-vibid:2582000741081": 31,
+      "gas:candidate-vibid:2582000740269": 31
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/penza?action=show&root=1000193&tvd=2582000671230&vrn=100100067795849&region=58&global=&sub_region=58&prver=0&pronetvd=null&vibid=2582000671230&type=464",
@@ -11817,14 +11817,14 @@ export const duma_2016_uik_463_region_58_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Алексютин Анатолий Васильевич": 15,
-      "Есяков Сергей Яковлевич": 283,
-      "Камнев Георгий Петрович": 142,
-      "Коломыцева Людмила Викторовна": 96,
-      "Коробов Сергей Александрович": 23,
-      "Куликов Павел Владимирович": 72,
-      "Никифоров Андрей Васильевич": 22,
-      "Пакаев Алексей Федорович": 28
+      "gas:candidate-vibid:2582000740845": 15,
+      "gas:candidate-vibid:2582000740020": 283,
+      "gas:candidate-vibid:2582000740031": 142,
+      "gas:candidate-vibid:2582000738771": 96,
+      "gas:candidate-vibid:2582000739795": 23,
+      "gas:candidate-vibid:2582000734147": 72,
+      "gas:candidate-vibid:2582000741081": 22,
+      "gas:candidate-vibid:2582000740269": 28
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/penza?action=show&root=1000193&tvd=2582000671230&vrn=100100067795849&region=58&global=&sub_region=58&prver=0&pronetvd=null&vibid=2582000671230&type=464",
@@ -11875,14 +11875,14 @@ export const duma_2016_uik_463_region_58_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Алексютин Анатолий Васильевич": 35,
-      "Есяков Сергей Яковлевич": 349,
-      "Камнев Георгий Петрович": 249,
-      "Коломыцева Людмила Викторовна": 177,
-      "Коробов Сергей Александрович": 36,
-      "Куликов Павел Владимирович": 89,
-      "Никифоров Андрей Васильевич": 18,
-      "Пакаев Алексей Федорович": 32
+      "gas:candidate-vibid:2582000740845": 35,
+      "gas:candidate-vibid:2582000740020": 349,
+      "gas:candidate-vibid:2582000740031": 249,
+      "gas:candidate-vibid:2582000738771": 177,
+      "gas:candidate-vibid:2582000739795": 36,
+      "gas:candidate-vibid:2582000734147": 89,
+      "gas:candidate-vibid:2582000741081": 18,
+      "gas:candidate-vibid:2582000740269": 32
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/penza?action=show&root=1000193&tvd=2582000671230&vrn=100100067795849&region=58&global=&sub_region=58&prver=0&pronetvd=null&vibid=2582000671230&type=464",
@@ -11933,14 +11933,14 @@ export const duma_2016_uik_463_region_58_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Алексютин Анатолий Васильевич": 32,
-      "Есяков Сергей Яковлевич": 333,
-      "Камнев Георгий Петрович": 288,
-      "Коломыцева Людмила Викторовна": 172,
-      "Коробов Сергей Александрович": 26,
-      "Куликов Павел Владимирович": 97,
-      "Никифоров Андрей Васильевич": 32,
-      "Пакаев Алексей Федорович": 35
+      "gas:candidate-vibid:2582000740845": 32,
+      "gas:candidate-vibid:2582000740020": 333,
+      "gas:candidate-vibid:2582000740031": 288,
+      "gas:candidate-vibid:2582000738771": 172,
+      "gas:candidate-vibid:2582000739795": 26,
+      "gas:candidate-vibid:2582000734147": 97,
+      "gas:candidate-vibid:2582000741081": 32,
+      "gas:candidate-vibid:2582000740269": 35
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/penza?action=show&root=1000193&tvd=2582000671230&vrn=100100067795849&region=58&global=&sub_region=58&prver=0&pronetvd=null&vibid=2582000671230&type=464",
@@ -11991,14 +11991,14 @@ export const duma_2016_uik_463_region_58_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Алексютин Анатолий Васильевич": 6,
-      "Есяков Сергей Яковлевич": 109,
-      "Камнев Георгий Петрович": 63,
-      "Коломыцева Людмила Викторовна": 41,
-      "Коробов Сергей Александрович": 4,
-      "Куликов Павел Владимирович": 34,
-      "Никифоров Андрей Васильевич": 13,
-      "Пакаев Алексей Федорович": 1
+      "gas:candidate-vibid:2582000740845": 6,
+      "gas:candidate-vibid:2582000740020": 109,
+      "gas:candidate-vibid:2582000740031": 63,
+      "gas:candidate-vibid:2582000738771": 41,
+      "gas:candidate-vibid:2582000739795": 4,
+      "gas:candidate-vibid:2582000734147": 34,
+      "gas:candidate-vibid:2582000741081": 13,
+      "gas:candidate-vibid:2582000740269": 1
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/penza?action=show&root=1000193&tvd=2582000671230&vrn=100100067795849&region=58&global=&sub_region=58&prver=0&pronetvd=null&vibid=2582000671230&type=464",
@@ -12049,14 +12049,14 @@ export const duma_2016_uik_463_region_58_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Алексютин Анатолий Васильевич": 18,
-      "Есяков Сергей Яковлевич": 281,
-      "Камнев Георгий Петрович": 158,
-      "Коломыцева Людмила Викторовна": 120,
-      "Коробов Сергей Александрович": 3,
-      "Куликов Павел Владимирович": 83,
-      "Никифоров Андрей Васильевич": 19,
-      "Пакаев Алексей Федорович": 21
+      "gas:candidate-vibid:2582000740845": 18,
+      "gas:candidate-vibid:2582000740020": 281,
+      "gas:candidate-vibid:2582000740031": 158,
+      "gas:candidate-vibid:2582000738771": 120,
+      "gas:candidate-vibid:2582000739795": 3,
+      "gas:candidate-vibid:2582000734147": 83,
+      "gas:candidate-vibid:2582000741081": 19,
+      "gas:candidate-vibid:2582000740269": 21
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/penza?action=show&root=1000193&tvd=2582000671230&vrn=100100067795849&region=58&global=&sub_region=58&prver=0&pronetvd=null&vibid=2582000671230&type=464",
@@ -12107,14 +12107,14 @@ export const duma_2016_uik_463_region_58_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Алексютин Анатолий Васильевич": 19,
-      "Есяков Сергей Яковлевич": 251,
-      "Камнев Георгий Петрович": 110,
-      "Коломыцева Людмила Викторовна": 92,
-      "Коробов Сергей Александрович": 13,
-      "Куликов Павел Владимирович": 63,
-      "Никифоров Андрей Васильевич": 29,
-      "Пакаев Алексей Федорович": 31
+      "gas:candidate-vibid:2582000740845": 19,
+      "gas:candidate-vibid:2582000740020": 251,
+      "gas:candidate-vibid:2582000740031": 110,
+      "gas:candidate-vibid:2582000738771": 92,
+      "gas:candidate-vibid:2582000739795": 13,
+      "gas:candidate-vibid:2582000734147": 63,
+      "gas:candidate-vibid:2582000741081": 29,
+      "gas:candidate-vibid:2582000740269": 31
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/penza?action=show&root=1000193&tvd=2582000671230&vrn=100100067795849&region=58&global=&sub_region=58&prver=0&pronetvd=null&vibid=2582000671230&type=464",
@@ -12165,14 +12165,14 @@ export const duma_2016_uik_463_region_58_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Алексютин Анатолий Васильевич": 27,
-      "Есяков Сергей Яковлевич": 269,
-      "Камнев Георгий Петрович": 116,
-      "Коломыцева Людмила Викторовна": 107,
-      "Коробов Сергей Александрович": 21,
-      "Куликов Павел Владимирович": 70,
-      "Никифоров Андрей Васильевич": 20,
-      "Пакаев Алексей Федорович": 36
+      "gas:candidate-vibid:2582000740845": 27,
+      "gas:candidate-vibid:2582000740020": 269,
+      "gas:candidate-vibid:2582000740031": 116,
+      "gas:candidate-vibid:2582000738771": 107,
+      "gas:candidate-vibid:2582000739795": 21,
+      "gas:candidate-vibid:2582000734147": 70,
+      "gas:candidate-vibid:2582000741081": 20,
+      "gas:candidate-vibid:2582000740269": 36
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/penza?action=show&root=1000193&tvd=2582000671230&vrn=100100067795849&region=58&global=&sub_region=58&prver=0&pronetvd=null&vibid=2582000671230&type=464",
@@ -12223,14 +12223,14 @@ export const duma_2016_uik_463_region_58_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Алексютин Анатолий Васильевич": 6,
-      "Есяков Сергей Яковлевич": 141,
-      "Камнев Георгий Петрович": 80,
-      "Коломыцева Людмила Викторовна": 61,
-      "Коробов Сергей Александрович": 4,
-      "Куликов Павел Владимирович": 31,
-      "Никифоров Андрей Васильевич": 10,
-      "Пакаев Алексей Федорович": 3
+      "gas:candidate-vibid:2582000740845": 6,
+      "gas:candidate-vibid:2582000740020": 141,
+      "gas:candidate-vibid:2582000740031": 80,
+      "gas:candidate-vibid:2582000738771": 61,
+      "gas:candidate-vibid:2582000739795": 4,
+      "gas:candidate-vibid:2582000734147": 31,
+      "gas:candidate-vibid:2582000741081": 10,
+      "gas:candidate-vibid:2582000740269": 3
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/penza?action=show&root=1000193&tvd=2582000671230&vrn=100100067795849&region=58&global=&sub_region=58&prver=0&pronetvd=null&vibid=2582000671230&type=464",
@@ -12281,14 +12281,14 @@ export const duma_2016_uik_463_region_58_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Алексютин Анатолий Васильевич": 16,
-      "Есяков Сергей Яковлевич": 227,
-      "Камнев Георгий Петрович": 151,
-      "Коломыцева Людмила Викторовна": 117,
-      "Коробов Сергей Александрович": 7,
-      "Куликов Павел Владимирович": 66,
-      "Никифоров Андрей Васильевич": 15,
-      "Пакаев Алексей Федорович": 16
+      "gas:candidate-vibid:2582000740845": 16,
+      "gas:candidate-vibid:2582000740020": 227,
+      "gas:candidate-vibid:2582000740031": 151,
+      "gas:candidate-vibid:2582000738771": 117,
+      "gas:candidate-vibid:2582000739795": 7,
+      "gas:candidate-vibid:2582000734147": 66,
+      "gas:candidate-vibid:2582000741081": 15,
+      "gas:candidate-vibid:2582000740269": 16
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/penza?action=show&root=1000193&tvd=2582000671230&vrn=100100067795849&region=58&global=&sub_region=58&prver=0&pronetvd=null&vibid=2582000671230&type=464",
@@ -12339,14 +12339,14 @@ export const duma_2016_uik_463_region_58_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Алексютин Анатолий Васильевич": 17,
-      "Есяков Сергей Яковлевич": 275,
-      "Камнев Георгий Петрович": 170,
-      "Коломыцева Людмила Викторовна": 150,
-      "Коробов Сергей Александрович": 11,
-      "Куликов Павел Владимирович": 86,
-      "Никифоров Андрей Васильевич": 17,
-      "Пакаев Алексей Федорович": 14
+      "gas:candidate-vibid:2582000740845": 17,
+      "gas:candidate-vibid:2582000740020": 275,
+      "gas:candidate-vibid:2582000740031": 170,
+      "gas:candidate-vibid:2582000738771": 150,
+      "gas:candidate-vibid:2582000739795": 11,
+      "gas:candidate-vibid:2582000734147": 86,
+      "gas:candidate-vibid:2582000741081": 17,
+      "gas:candidate-vibid:2582000740269": 14
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/penza?action=show&root=1000193&tvd=2582000671230&vrn=100100067795849&region=58&global=&sub_region=58&prver=0&pronetvd=null&vibid=2582000671230&type=464",
@@ -12397,14 +12397,14 @@ export const duma_2016_uik_463_region_58_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Алексютин Анатолий Васильевич": 29,
-      "Есяков Сергей Яковлевич": 442,
-      "Камнев Георгий Петрович": 98,
-      "Коломыцева Людмила Викторовна": 146,
-      "Коробов Сергей Александрович": 6,
-      "Куликов Павел Владимирович": 57,
-      "Никифоров Андрей Васильевич": 21,
-      "Пакаев Алексей Федорович": 13
+      "gas:candidate-vibid:2582000740845": 29,
+      "gas:candidate-vibid:2582000740020": 442,
+      "gas:candidate-vibid:2582000740031": 98,
+      "gas:candidate-vibid:2582000738771": 146,
+      "gas:candidate-vibid:2582000739795": 6,
+      "gas:candidate-vibid:2582000734147": 57,
+      "gas:candidate-vibid:2582000741081": 21,
+      "gas:candidate-vibid:2582000740269": 13
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/penza?action=show&root=1000193&tvd=2582000671230&vrn=100100067795849&region=58&global=&sub_region=58&prver=0&pronetvd=null&vibid=2582000671230&type=464",
@@ -12455,14 +12455,14 @@ export const duma_2016_uik_463_region_58_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Алексютин Анатолий Васильевич": 20,
-      "Есяков Сергей Яковлевич": 381,
-      "Камнев Георгий Петрович": 180,
-      "Коломыцева Людмила Викторовна": 83,
-      "Коробов Сергей Александрович": 17,
-      "Куликов Павел Владимирович": 103,
-      "Никифоров Андрей Васильевич": 29,
-      "Пакаев Алексей Федорович": 15
+      "gas:candidate-vibid:2582000740845": 20,
+      "gas:candidate-vibid:2582000740020": 381,
+      "gas:candidate-vibid:2582000740031": 180,
+      "gas:candidate-vibid:2582000738771": 83,
+      "gas:candidate-vibid:2582000739795": 17,
+      "gas:candidate-vibid:2582000734147": 103,
+      "gas:candidate-vibid:2582000741081": 29,
+      "gas:candidate-vibid:2582000740269": 15
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/penza?action=show&root=1000193&tvd=2582000671230&vrn=100100067795849&region=58&global=&sub_region=58&prver=0&pronetvd=null&vibid=2582000671230&type=464",
@@ -12513,14 +12513,14 @@ export const duma_2016_uik_463_region_58_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Алексютин Анатолий Васильевич": 29,
-      "Есяков Сергей Яковлевич": 320,
-      "Камнев Георгий Петрович": 135,
-      "Коломыцева Людмила Викторовна": 83,
-      "Коробов Сергей Александрович": 17,
-      "Куликов Павел Владимирович": 78,
-      "Никифоров Андрей Васильевич": 22,
-      "Пакаев Алексей Федорович": 20
+      "gas:candidate-vibid:2582000740845": 29,
+      "gas:candidate-vibid:2582000740020": 320,
+      "gas:candidate-vibid:2582000740031": 135,
+      "gas:candidate-vibid:2582000738771": 83,
+      "gas:candidate-vibid:2582000739795": 17,
+      "gas:candidate-vibid:2582000734147": 78,
+      "gas:candidate-vibid:2582000741081": 22,
+      "gas:candidate-vibid:2582000740269": 20
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/penza?action=show&root=1000193&tvd=2582000671230&vrn=100100067795849&region=58&global=&sub_region=58&prver=0&pronetvd=null&vibid=2582000671230&type=464",
@@ -12571,14 +12571,14 @@ export const duma_2016_uik_463_region_58_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Алексютин Анатолий Васильевич": 22,
-      "Есяков Сергей Яковлевич": 486,
-      "Камнев Георгий Петрович": 148,
-      "Коломыцева Людмила Викторовна": 117,
-      "Коробов Сергей Александрович": 16,
-      "Куликов Павел Владимирович": 77,
-      "Никифоров Андрей Васильевич": 21,
-      "Пакаев Алексей Федорович": 24
+      "gas:candidate-vibid:2582000740845": 22,
+      "gas:candidate-vibid:2582000740020": 486,
+      "gas:candidate-vibid:2582000740031": 148,
+      "gas:candidate-vibid:2582000738771": 117,
+      "gas:candidate-vibid:2582000739795": 16,
+      "gas:candidate-vibid:2582000734147": 77,
+      "gas:candidate-vibid:2582000741081": 21,
+      "gas:candidate-vibid:2582000740269": 24
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/penza?action=show&root=1000193&tvd=2582000671230&vrn=100100067795849&region=58&global=&sub_region=58&prver=0&pronetvd=null&vibid=2582000671230&type=464",
@@ -12629,14 +12629,14 @@ export const duma_2016_uik_463_region_58_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Алексютин Анатолий Васильевич": 28,
-      "Есяков Сергей Яковлевич": 405,
-      "Камнев Георгий Петрович": 218,
-      "Коломыцева Людмила Викторовна": 261,
-      "Коробов Сергей Александрович": 21,
-      "Куликов Павел Владимирович": 85,
-      "Никифоров Андрей Васильевич": 25,
-      "Пакаев Алексей Федорович": 27
+      "gas:candidate-vibid:2582000740845": 28,
+      "gas:candidate-vibid:2582000740020": 405,
+      "gas:candidate-vibid:2582000740031": 218,
+      "gas:candidate-vibid:2582000738771": 261,
+      "gas:candidate-vibid:2582000739795": 21,
+      "gas:candidate-vibid:2582000734147": 85,
+      "gas:candidate-vibid:2582000741081": 25,
+      "gas:candidate-vibid:2582000740269": 27
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/penza?action=show&root=1000193&tvd=2582000671230&vrn=100100067795849&region=58&global=&sub_region=58&prver=0&pronetvd=null&vibid=2582000671230&type=464",
@@ -12687,14 +12687,14 @@ export const duma_2016_uik_463_region_58_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Алексютин Анатолий Васильевич": 38,
-      "Есяков Сергей Яковлевич": 308,
-      "Камнев Георгий Петрович": 227,
-      "Коломыцева Людмила Викторовна": 189,
-      "Коробов Сергей Александрович": 33,
-      "Куликов Павел Владимирович": 65,
-      "Никифоров Андрей Васильевич": 29,
-      "Пакаев Алексей Федорович": 27
+      "gas:candidate-vibid:2582000740845": 38,
+      "gas:candidate-vibid:2582000740020": 308,
+      "gas:candidate-vibid:2582000740031": 227,
+      "gas:candidate-vibid:2582000738771": 189,
+      "gas:candidate-vibid:2582000739795": 33,
+      "gas:candidate-vibid:2582000734147": 65,
+      "gas:candidate-vibid:2582000741081": 29,
+      "gas:candidate-vibid:2582000740269": 27
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/penza?action=show&root=1000193&tvd=2582000671230&vrn=100100067795849&region=58&global=&sub_region=58&prver=0&pronetvd=null&vibid=2582000671230&type=464",
@@ -12745,14 +12745,14 @@ export const duma_2016_uik_463_region_58_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Алексютин Анатолий Васильевич": 32,
-      "Есяков Сергей Яковлевич": 436,
-      "Камнев Георгий Петрович": 175,
-      "Коломыцева Людмила Викторовна": 162,
-      "Коробов Сергей Александрович": 21,
-      "Куликов Павел Владимирович": 66,
-      "Никифоров Андрей Васильевич": 27,
-      "Пакаев Алексей Федорович": 22
+      "gas:candidate-vibid:2582000740845": 32,
+      "gas:candidate-vibid:2582000740020": 436,
+      "gas:candidate-vibid:2582000740031": 175,
+      "gas:candidate-vibid:2582000738771": 162,
+      "gas:candidate-vibid:2582000739795": 21,
+      "gas:candidate-vibid:2582000734147": 66,
+      "gas:candidate-vibid:2582000741081": 27,
+      "gas:candidate-vibid:2582000740269": 22
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/penza?action=show&root=1000193&tvd=2582000671230&vrn=100100067795849&region=58&global=&sub_region=58&prver=0&pronetvd=null&vibid=2582000671230&type=464",
@@ -12803,14 +12803,14 @@ export const duma_2016_uik_463_region_58_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Алексютин Анатолий Васильевич": 40,
-      "Есяков Сергей Яковлевич": 465,
-      "Камнев Георгий Петрович": 238,
-      "Коломыцева Людмила Викторовна": 210,
-      "Коробов Сергей Александрович": 35,
-      "Куликов Павел Владимирович": 114,
-      "Никифоров Андрей Васильевич": 20,
-      "Пакаев Алексей Федорович": 28
+      "gas:candidate-vibid:2582000740845": 40,
+      "gas:candidate-vibid:2582000740020": 465,
+      "gas:candidate-vibid:2582000740031": 238,
+      "gas:candidate-vibid:2582000738771": 210,
+      "gas:candidate-vibid:2582000739795": 35,
+      "gas:candidate-vibid:2582000734147": 114,
+      "gas:candidate-vibid:2582000741081": 20,
+      "gas:candidate-vibid:2582000740269": 28
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/penza?action=show&root=1000193&tvd=2582000671230&vrn=100100067795849&region=58&global=&sub_region=58&prver=0&pronetvd=null&vibid=2582000671230&type=464",
@@ -12861,14 +12861,14 @@ export const duma_2016_uik_463_region_58_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Алексютин Анатолий Васильевич": 13,
-      "Есяков Сергей Яковлевич": 196,
-      "Камнев Георгий Петрович": 108,
-      "Коломыцева Людмила Викторовна": 95,
-      "Коробов Сергей Александрович": 11,
-      "Куликов Павел Владимирович": 64,
-      "Никифоров Андрей Васильевич": 26,
-      "Пакаев Алексей Федорович": 12
+      "gas:candidate-vibid:2582000740845": 13,
+      "gas:candidate-vibid:2582000740020": 196,
+      "gas:candidate-vibid:2582000740031": 108,
+      "gas:candidate-vibid:2582000738771": 95,
+      "gas:candidate-vibid:2582000739795": 11,
+      "gas:candidate-vibid:2582000734147": 64,
+      "gas:candidate-vibid:2582000741081": 26,
+      "gas:candidate-vibid:2582000740269": 12
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/penza?action=show&root=1000193&tvd=2582000671230&vrn=100100067795849&region=58&global=&sub_region=58&prver=0&pronetvd=null&vibid=2582000671230&type=464",
@@ -12919,14 +12919,14 @@ export const duma_2016_uik_463_region_58_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Алексютин Анатолий Васильевич": 18,
-      "Есяков Сергей Яковлевич": 224,
-      "Камнев Георгий Петрович": 155,
-      "Коломыцева Людмила Викторовна": 134,
-      "Коробов Сергей Александрович": 14,
-      "Куликов Павел Владимирович": 56,
-      "Никифоров Андрей Васильевич": 16,
-      "Пакаев Алексей Федорович": 20
+      "gas:candidate-vibid:2582000740845": 18,
+      "gas:candidate-vibid:2582000740020": 224,
+      "gas:candidate-vibid:2582000740031": 155,
+      "gas:candidate-vibid:2582000738771": 134,
+      "gas:candidate-vibid:2582000739795": 14,
+      "gas:candidate-vibid:2582000734147": 56,
+      "gas:candidate-vibid:2582000741081": 16,
+      "gas:candidate-vibid:2582000740269": 20
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/penza?action=show&root=1000193&tvd=2582000671230&vrn=100100067795849&region=58&global=&sub_region=58&prver=0&pronetvd=null&vibid=2582000671230&type=464",
@@ -12977,14 +12977,14 @@ export const duma_2016_uik_463_region_58_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Алексютин Анатолий Васильевич": 18,
-      "Есяков Сергей Яковлевич": 251,
-      "Камнев Георгий Петрович": 130,
-      "Коломыцева Людмила Викторовна": 128,
-      "Коробов Сергей Александрович": 14,
-      "Куликов Павел Владимирович": 70,
-      "Никифоров Андрей Васильевич": 28,
-      "Пакаев Алексей Федорович": 18
+      "gas:candidate-vibid:2582000740845": 18,
+      "gas:candidate-vibid:2582000740020": 251,
+      "gas:candidate-vibid:2582000740031": 130,
+      "gas:candidate-vibid:2582000738771": 128,
+      "gas:candidate-vibid:2582000739795": 14,
+      "gas:candidate-vibid:2582000734147": 70,
+      "gas:candidate-vibid:2582000741081": 28,
+      "gas:candidate-vibid:2582000740269": 18
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/penza?action=show&root=1000193&tvd=2582000671230&vrn=100100067795849&region=58&global=&sub_region=58&prver=0&pronetvd=null&vibid=2582000671230&type=464",
@@ -13035,14 +13035,14 @@ export const duma_2016_uik_463_region_58_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Алексютин Анатолий Васильевич": 18,
-      "Есяков Сергей Яковлевич": 203,
-      "Камнев Георгий Петрович": 148,
-      "Коломыцева Людмила Викторовна": 121,
-      "Коробов Сергей Александрович": 12,
-      "Куликов Павел Владимирович": 72,
-      "Никифоров Андрей Васильевич": 15,
-      "Пакаев Алексей Федорович": 15
+      "gas:candidate-vibid:2582000740845": 18,
+      "gas:candidate-vibid:2582000740020": 203,
+      "gas:candidate-vibid:2582000740031": 148,
+      "gas:candidate-vibid:2582000738771": 121,
+      "gas:candidate-vibid:2582000739795": 12,
+      "gas:candidate-vibid:2582000734147": 72,
+      "gas:candidate-vibid:2582000741081": 15,
+      "gas:candidate-vibid:2582000740269": 15
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/penza?action=show&root=1000193&tvd=2582000671230&vrn=100100067795849&region=58&global=&sub_region=58&prver=0&pronetvd=null&vibid=2582000671230&type=464",
@@ -13093,14 +13093,14 @@ export const duma_2016_uik_463_region_58_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Алексютин Анатолий Васильевич": 32,
-      "Есяков Сергей Яковлевич": 356,
-      "Камнев Георгий Петрович": 174,
-      "Коломыцева Людмила Викторовна": 180,
-      "Коробов Сергей Александрович": 28,
-      "Куликов Павел Владимирович": 96,
-      "Никифоров Андрей Васильевич": 24,
-      "Пакаев Алексей Федорович": 30
+      "gas:candidate-vibid:2582000740845": 32,
+      "gas:candidate-vibid:2582000740020": 356,
+      "gas:candidate-vibid:2582000740031": 174,
+      "gas:candidate-vibid:2582000738771": 180,
+      "gas:candidate-vibid:2582000739795": 28,
+      "gas:candidate-vibid:2582000734147": 96,
+      "gas:candidate-vibid:2582000741081": 24,
+      "gas:candidate-vibid:2582000740269": 30
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/penza?action=show&root=1000193&tvd=2582000671230&vrn=100100067795849&region=58&global=&sub_region=58&prver=0&pronetvd=null&vibid=2582000671230&type=464",
@@ -13151,14 +13151,14 @@ export const duma_2016_uik_463_region_58_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Алексютин Анатолий Васильевич": 44,
-      "Есяков Сергей Яковлевич": 494,
-      "Камнев Георгий Петрович": 252,
-      "Коломыцева Людмила Викторовна": 226,
-      "Коробов Сергей Александрович": 20,
-      "Куликов Павел Владимирович": 90,
-      "Никифоров Андрей Васильевич": 19,
-      "Пакаев Алексей Федорович": 36
+      "gas:candidate-vibid:2582000740845": 44,
+      "gas:candidate-vibid:2582000740020": 494,
+      "gas:candidate-vibid:2582000740031": 252,
+      "gas:candidate-vibid:2582000738771": 226,
+      "gas:candidate-vibid:2582000739795": 20,
+      "gas:candidate-vibid:2582000734147": 90,
+      "gas:candidate-vibid:2582000741081": 19,
+      "gas:candidate-vibid:2582000740269": 36
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/penza?action=show&root=1000193&tvd=2582000671230&vrn=100100067795849&region=58&global=&sub_region=58&prver=0&pronetvd=null&vibid=2582000671230&type=464",
@@ -13209,14 +13209,14 @@ export const duma_2016_uik_463_region_58_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Алексютин Анатолий Васильевич": 12,
-      "Есяков Сергей Яковлевич": 203,
-      "Камнев Георгий Петрович": 88,
-      "Коломыцева Людмила Викторовна": 84,
-      "Коробов Сергей Александрович": 8,
-      "Куликов Павел Владимирович": 35,
-      "Никифоров Андрей Васильевич": 16,
-      "Пакаев Алексей Федорович": 8
+      "gas:candidate-vibid:2582000740845": 12,
+      "gas:candidate-vibid:2582000740020": 203,
+      "gas:candidate-vibid:2582000740031": 88,
+      "gas:candidate-vibid:2582000738771": 84,
+      "gas:candidate-vibid:2582000739795": 8,
+      "gas:candidate-vibid:2582000734147": 35,
+      "gas:candidate-vibid:2582000741081": 16,
+      "gas:candidate-vibid:2582000740269": 8
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/penza?action=show&root=1000193&tvd=2582000671230&vrn=100100067795849&region=58&global=&sub_region=58&prver=0&pronetvd=null&vibid=2582000671230&type=464",
@@ -13267,14 +13267,14 @@ export const duma_2016_uik_463_region_58_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Алексютин Анатолий Васильевич": 17,
-      "Есяков Сергей Яковлевич": 228,
-      "Камнев Георгий Петрович": 111,
-      "Коломыцева Людмила Викторовна": 60,
-      "Коробов Сергей Александрович": 5,
-      "Куликов Павел Владимирович": 67,
-      "Никифоров Андрей Васильевич": 15,
-      "Пакаев Алексей Федорович": 16
+      "gas:candidate-vibid:2582000740845": 17,
+      "gas:candidate-vibid:2582000740020": 228,
+      "gas:candidate-vibid:2582000740031": 111,
+      "gas:candidate-vibid:2582000738771": 60,
+      "gas:candidate-vibid:2582000739795": 5,
+      "gas:candidate-vibid:2582000734147": 67,
+      "gas:candidate-vibid:2582000741081": 15,
+      "gas:candidate-vibid:2582000740269": 16
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/penza?action=show&root=1000193&tvd=2582000671230&vrn=100100067795849&region=58&global=&sub_region=58&prver=0&pronetvd=null&vibid=2582000671230&type=464",
@@ -13325,14 +13325,14 @@ export const duma_2016_uik_463_region_58_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Алексютин Анатолий Васильевич": 37,
-      "Есяков Сергей Яковлевич": 518,
-      "Камнев Георгий Петрович": 218,
-      "Коломыцева Людмила Викторовна": 142,
-      "Коробов Сергей Александрович": 29,
-      "Куликов Павел Владимирович": 107,
-      "Никифоров Андрей Васильевич": 42,
-      "Пакаев Алексей Федорович": 19
+      "gas:candidate-vibid:2582000740845": 37,
+      "gas:candidate-vibid:2582000740020": 518,
+      "gas:candidate-vibid:2582000740031": 218,
+      "gas:candidate-vibid:2582000738771": 142,
+      "gas:candidate-vibid:2582000739795": 29,
+      "gas:candidate-vibid:2582000734147": 107,
+      "gas:candidate-vibid:2582000741081": 42,
+      "gas:candidate-vibid:2582000740269": 19
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/penza?action=show&root=1000193&tvd=2582000671230&vrn=100100067795849&region=58&global=&sub_region=58&prver=0&pronetvd=null&vibid=2582000671230&type=464",
@@ -13383,14 +13383,14 @@ export const duma_2016_uik_463_region_58_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Алексютин Анатолий Васильевич": 27,
-      "Есяков Сергей Яковлевич": 327,
-      "Камнев Георгий Петрович": 139,
-      "Коломыцева Людмила Викторовна": 105,
-      "Коробов Сергей Александрович": 12,
-      "Куликов Павел Владимирович": 84,
-      "Никифоров Андрей Васильевич": 25,
-      "Пакаев Алексей Федорович": 19
+      "gas:candidate-vibid:2582000740845": 27,
+      "gas:candidate-vibid:2582000740020": 327,
+      "gas:candidate-vibid:2582000740031": 139,
+      "gas:candidate-vibid:2582000738771": 105,
+      "gas:candidate-vibid:2582000739795": 12,
+      "gas:candidate-vibid:2582000734147": 84,
+      "gas:candidate-vibid:2582000741081": 25,
+      "gas:candidate-vibid:2582000740269": 19
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/penza?action=show&root=1000193&tvd=2582000671230&vrn=100100067795849&region=58&global=&sub_region=58&prver=0&pronetvd=null&vibid=2582000671230&type=464",
@@ -13441,14 +13441,14 @@ export const duma_2016_uik_463_region_58_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Алексютин Анатолий Васильевич": 22,
-      "Есяков Сергей Яковлевич": 631,
-      "Камнев Георгий Петрович": 168,
-      "Коломыцева Людмила Викторовна": 97,
-      "Коробов Сергей Александрович": 11,
-      "Куликов Павел Владимирович": 130,
-      "Никифоров Андрей Васильевич": 27,
-      "Пакаев Алексей Федорович": 20
+      "gas:candidate-vibid:2582000740845": 22,
+      "gas:candidate-vibid:2582000740020": 631,
+      "gas:candidate-vibid:2582000740031": 168,
+      "gas:candidate-vibid:2582000738771": 97,
+      "gas:candidate-vibid:2582000739795": 11,
+      "gas:candidate-vibid:2582000734147": 130,
+      "gas:candidate-vibid:2582000741081": 27,
+      "gas:candidate-vibid:2582000740269": 20
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/penza?action=show&root=1000193&tvd=2582000671230&vrn=100100067795849&region=58&global=&sub_region=58&prver=0&pronetvd=null&vibid=2582000671230&type=464",
@@ -13499,14 +13499,14 @@ export const duma_2016_uik_463_region_58_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Алексютин Анатолий Васильевич": 36,
-      "Есяков Сергей Яковлевич": 408,
-      "Камнев Георгий Петрович": 190,
-      "Коломыцева Людмила Викторовна": 101,
-      "Коробов Сергей Александрович": 33,
-      "Куликов Павел Владимирович": 131,
-      "Никифоров Андрей Васильевич": 25,
-      "Пакаев Алексей Федорович": 30
+      "gas:candidate-vibid:2582000740845": 36,
+      "gas:candidate-vibid:2582000740020": 408,
+      "gas:candidate-vibid:2582000740031": 190,
+      "gas:candidate-vibid:2582000738771": 101,
+      "gas:candidate-vibid:2582000739795": 33,
+      "gas:candidate-vibid:2582000734147": 131,
+      "gas:candidate-vibid:2582000741081": 25,
+      "gas:candidate-vibid:2582000740269": 30
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/penza?action=show&root=1000193&tvd=2582000671230&vrn=100100067795849&region=58&global=&sub_region=58&prver=0&pronetvd=null&vibid=2582000671230&type=464",
@@ -13557,14 +13557,14 @@ export const duma_2016_uik_463_region_58_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Алексютин Анатолий Васильевич": 24,
-      "Есяков Сергей Яковлевич": 267,
-      "Камнев Георгий Петрович": 176,
-      "Коломыцева Людмила Викторовна": 110,
-      "Коробов Сергей Александрович": 22,
-      "Куликов Павел Владимирович": 76,
-      "Никифоров Андрей Васильевич": 17,
-      "Пакаев Алексей Федорович": 21
+      "gas:candidate-vibid:2582000740845": 24,
+      "gas:candidate-vibid:2582000740020": 267,
+      "gas:candidate-vibid:2582000740031": 176,
+      "gas:candidate-vibid:2582000738771": 110,
+      "gas:candidate-vibid:2582000739795": 22,
+      "gas:candidate-vibid:2582000734147": 76,
+      "gas:candidate-vibid:2582000741081": 17,
+      "gas:candidate-vibid:2582000740269": 21
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/penza?action=show&root=1000193&tvd=2582000671230&vrn=100100067795849&region=58&global=&sub_region=58&prver=0&pronetvd=null&vibid=2582000671230&type=464",
@@ -13615,14 +13615,14 @@ export const duma_2016_uik_463_region_58_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Алексютин Анатолий Васильевич": 29,
-      "Есяков Сергей Яковлевич": 234,
-      "Камнев Георгий Петрович": 206,
-      "Коломыцева Людмила Викторовна": 137,
-      "Коробов Сергей Александрович": 14,
-      "Куликов Павел Владимирович": 85,
-      "Никифоров Андрей Васильевич": 26,
-      "Пакаев Алексей Федорович": 24
+      "gas:candidate-vibid:2582000740845": 29,
+      "gas:candidate-vibid:2582000740020": 234,
+      "gas:candidate-vibid:2582000740031": 206,
+      "gas:candidate-vibid:2582000738771": 137,
+      "gas:candidate-vibid:2582000739795": 14,
+      "gas:candidate-vibid:2582000734147": 85,
+      "gas:candidate-vibid:2582000741081": 26,
+      "gas:candidate-vibid:2582000740269": 24
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/penza?action=show&root=1000193&tvd=2582000671230&vrn=100100067795849&region=58&global=&sub_region=58&prver=0&pronetvd=null&vibid=2582000671230&type=464",
@@ -13673,14 +13673,14 @@ export const duma_2016_uik_463_region_58_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Алексютин Анатолий Васильевич": 31,
-      "Есяков Сергей Яковлевич": 258,
-      "Камнев Георгий Петрович": 233,
-      "Коломыцева Людмила Викторовна": 143,
-      "Коробов Сергей Александрович": 17,
-      "Куликов Павел Владимирович": 109,
-      "Никифоров Андрей Васильевич": 19,
-      "Пакаев Алексей Федорович": 28
+      "gas:candidate-vibid:2582000740845": 31,
+      "gas:candidate-vibid:2582000740020": 258,
+      "gas:candidate-vibid:2582000740031": 233,
+      "gas:candidate-vibid:2582000738771": 143,
+      "gas:candidate-vibid:2582000739795": 17,
+      "gas:candidate-vibid:2582000734147": 109,
+      "gas:candidate-vibid:2582000741081": 19,
+      "gas:candidate-vibid:2582000740269": 28
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/penza?action=show&root=1000193&tvd=2582000671230&vrn=100100067795849&region=58&global=&sub_region=58&prver=0&pronetvd=null&vibid=2582000671230&type=464",
@@ -13731,14 +13731,14 @@ export const duma_2016_uik_463_region_58_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Алексютин Анатолий Васильевич": 28,
-      "Есяков Сергей Яковлевич": 227,
-      "Камнев Георгий Петрович": 181,
-      "Коломыцева Людмила Викторовна": 163,
-      "Коробов Сергей Александрович": 23,
-      "Куликов Павел Владимирович": 79,
-      "Никифоров Андрей Васильевич": 27,
-      "Пакаев Алексей Федорович": 32
+      "gas:candidate-vibid:2582000740845": 28,
+      "gas:candidate-vibid:2582000740020": 227,
+      "gas:candidate-vibid:2582000740031": 181,
+      "gas:candidate-vibid:2582000738771": 163,
+      "gas:candidate-vibid:2582000739795": 23,
+      "gas:candidate-vibid:2582000734147": 79,
+      "gas:candidate-vibid:2582000741081": 27,
+      "gas:candidate-vibid:2582000740269": 32
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/penza?action=show&root=1000193&tvd=2582000671230&vrn=100100067795849&region=58&global=&sub_region=58&prver=0&pronetvd=null&vibid=2582000671230&type=464",
@@ -13789,14 +13789,14 @@ export const duma_2016_uik_463_region_58_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Алексютин Анатолий Васильевич": 26,
-      "Есяков Сергей Яковлевич": 262,
-      "Камнев Георгий Петрович": 150,
-      "Коломыцева Людмила Викторовна": 102,
-      "Коробов Сергей Александрович": 10,
-      "Куликов Павел Владимирович": 49,
-      "Никифоров Андрей Васильевич": 17,
-      "Пакаев Алексей Федорович": 10
+      "gas:candidate-vibid:2582000740845": 26,
+      "gas:candidate-vibid:2582000740020": 262,
+      "gas:candidate-vibid:2582000740031": 150,
+      "gas:candidate-vibid:2582000738771": 102,
+      "gas:candidate-vibid:2582000739795": 10,
+      "gas:candidate-vibid:2582000734147": 49,
+      "gas:candidate-vibid:2582000741081": 17,
+      "gas:candidate-vibid:2582000740269": 10
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/penza?action=show&root=1000193&tvd=2582000671230&vrn=100100067795849&region=58&global=&sub_region=58&prver=0&pronetvd=null&vibid=2582000671230&type=464",
@@ -13847,14 +13847,14 @@ export const duma_2016_uik_463_region_58_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Алексютин Анатолий Васильевич": 20,
-      "Есяков Сергей Яковлевич": 195,
-      "Камнев Георгий Петрович": 160,
-      "Коломыцева Людмила Викторовна": 113,
-      "Коробов Сергей Александрович": 10,
-      "Куликов Павел Владимирович": 65,
-      "Никифоров Андрей Васильевич": 23,
-      "Пакаев Алексей Федорович": 30
+      "gas:candidate-vibid:2582000740845": 20,
+      "gas:candidate-vibid:2582000740020": 195,
+      "gas:candidate-vibid:2582000740031": 160,
+      "gas:candidate-vibid:2582000738771": 113,
+      "gas:candidate-vibid:2582000739795": 10,
+      "gas:candidate-vibid:2582000734147": 65,
+      "gas:candidate-vibid:2582000741081": 23,
+      "gas:candidate-vibid:2582000740269": 30
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/penza?action=show&root=1000193&tvd=2582000671230&vrn=100100067795849&region=58&global=&sub_region=58&prver=0&pronetvd=null&vibid=2582000671230&type=464",
@@ -13905,14 +13905,14 @@ export const duma_2016_uik_463_region_58_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Алексютин Анатолий Васильевич": 25,
-      "Есяков Сергей Яковлевич": 385,
-      "Камнев Георгий Петрович": 135,
-      "Коломыцева Людмила Викторовна": 105,
-      "Коробов Сергей Александрович": 11,
-      "Куликов Павел Владимирович": 103,
-      "Никифоров Андрей Васильевич": 25,
-      "Пакаев Алексей Федорович": 18
+      "gas:candidate-vibid:2582000740845": 25,
+      "gas:candidate-vibid:2582000740020": 385,
+      "gas:candidate-vibid:2582000740031": 135,
+      "gas:candidate-vibid:2582000738771": 105,
+      "gas:candidate-vibid:2582000739795": 11,
+      "gas:candidate-vibid:2582000734147": 103,
+      "gas:candidate-vibid:2582000741081": 25,
+      "gas:candidate-vibid:2582000740269": 18
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/penza?action=show&root=1000193&tvd=2582000671230&vrn=100100067795849&region=58&global=&sub_region=58&prver=0&pronetvd=null&vibid=2582000671230&type=464",
@@ -13963,14 +13963,14 @@ export const duma_2016_uik_463_region_58_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Алексютин Анатолий Васильевич": 24,
-      "Есяков Сергей Яковлевич": 487,
-      "Камнев Георгий Петрович": 252,
-      "Коломыцева Людмила Викторовна": 123,
-      "Коробов Сергей Александрович": 9,
-      "Куликов Павел Владимирович": 89,
-      "Никифоров Андрей Васильевич": 20,
-      "Пакаев Алексей Федорович": 29
+      "gas:candidate-vibid:2582000740845": 24,
+      "gas:candidate-vibid:2582000740020": 487,
+      "gas:candidate-vibid:2582000740031": 252,
+      "gas:candidate-vibid:2582000738771": 123,
+      "gas:candidate-vibid:2582000739795": 9,
+      "gas:candidate-vibid:2582000734147": 89,
+      "gas:candidate-vibid:2582000741081": 20,
+      "gas:candidate-vibid:2582000740269": 29
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/penza?action=show&root=1000193&tvd=2582000671230&vrn=100100067795849&region=58&global=&sub_region=58&prver=0&pronetvd=null&vibid=2582000671230&type=464",
@@ -14021,14 +14021,14 @@ export const duma_2016_uik_463_region_58_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Алексютин Анатолий Васильевич": 26,
-      "Есяков Сергей Яковлевич": 911,
-      "Камнев Георгий Петрович": 176,
-      "Коломыцева Людмила Викторовна": 147,
-      "Коробов Сергей Александрович": 20,
-      "Куликов Павел Владимирович": 43,
-      "Никифоров Андрей Васильевич": 21,
-      "Пакаев Алексей Федорович": 22
+      "gas:candidate-vibid:2582000740845": 26,
+      "gas:candidate-vibid:2582000740020": 911,
+      "gas:candidate-vibid:2582000740031": 176,
+      "gas:candidate-vibid:2582000738771": 147,
+      "gas:candidate-vibid:2582000739795": 20,
+      "gas:candidate-vibid:2582000734147": 43,
+      "gas:candidate-vibid:2582000741081": 21,
+      "gas:candidate-vibid:2582000740269": 22
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/penza?action=show&root=1000193&tvd=2582000671230&vrn=100100067795849&region=58&global=&sub_region=58&prver=0&pronetvd=null&vibid=2582000671230&type=464",
@@ -14079,14 +14079,14 @@ export const duma_2016_uik_463_region_58_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Алексютин Анатолий Васильевич": 24,
-      "Есяков Сергей Яковлевич": 430,
-      "Камнев Георгий Петрович": 270,
-      "Коломыцева Людмила Викторовна": 142,
-      "Коробов Сергей Александрович": 15,
-      "Куликов Павел Владимирович": 95,
-      "Никифоров Андрей Васильевич": 12,
-      "Пакаев Алексей Федорович": 17
+      "gas:candidate-vibid:2582000740845": 24,
+      "gas:candidate-vibid:2582000740020": 430,
+      "gas:candidate-vibid:2582000740031": 270,
+      "gas:candidate-vibid:2582000738771": 142,
+      "gas:candidate-vibid:2582000739795": 15,
+      "gas:candidate-vibid:2582000734147": 95,
+      "gas:candidate-vibid:2582000741081": 12,
+      "gas:candidate-vibid:2582000740269": 17
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/penza?action=show&root=1000193&tvd=2582000671230&vrn=100100067795849&region=58&global=&sub_region=58&prver=0&pronetvd=null&vibid=2582000671230&type=464",
@@ -14137,14 +14137,14 @@ export const duma_2016_uik_463_region_58_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Алексютин Анатолий Васильевич": 25,
-      "Есяков Сергей Яковлевич": 374,
-      "Камнев Георгий Петрович": 207,
-      "Коломыцева Людмила Викторовна": 139,
-      "Коробов Сергей Александрович": 17,
-      "Куликов Павел Владимирович": 103,
-      "Никифоров Андрей Васильевич": 27,
-      "Пакаев Алексей Федорович": 11
+      "gas:candidate-vibid:2582000740845": 25,
+      "gas:candidate-vibid:2582000740020": 374,
+      "gas:candidate-vibid:2582000740031": 207,
+      "gas:candidate-vibid:2582000738771": 139,
+      "gas:candidate-vibid:2582000739795": 17,
+      "gas:candidate-vibid:2582000734147": 103,
+      "gas:candidate-vibid:2582000741081": 27,
+      "gas:candidate-vibid:2582000740269": 11
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/penza?action=show&root=1000193&tvd=2582000671230&vrn=100100067795849&region=58&global=&sub_region=58&prver=0&pronetvd=null&vibid=2582000671230&type=464",
@@ -14195,14 +14195,14 @@ export const duma_2016_uik_463_region_58_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Алексютин Анатолий Васильевич": 9,
-      "Есяков Сергей Яковлевич": 89,
-      "Камнев Георгий Петрович": 70,
-      "Коломыцева Людмила Викторовна": 50,
-      "Коробов Сергей Александрович": 6,
-      "Куликов Павел Владимирович": 44,
-      "Никифоров Андрей Васильевич": 8,
-      "Пакаев Алексей Федорович": 9
+      "gas:candidate-vibid:2582000740845": 9,
+      "gas:candidate-vibid:2582000740020": 89,
+      "gas:candidate-vibid:2582000740031": 70,
+      "gas:candidate-vibid:2582000738771": 50,
+      "gas:candidate-vibid:2582000739795": 6,
+      "gas:candidate-vibid:2582000734147": 44,
+      "gas:candidate-vibid:2582000741081": 8,
+      "gas:candidate-vibid:2582000740269": 9
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/penza?action=show&root=1000193&tvd=2582000671230&vrn=100100067795849&region=58&global=&sub_region=58&prver=0&pronetvd=null&vibid=2582000671230&type=464",
@@ -14253,14 +14253,14 @@ export const duma_2016_uik_463_region_58_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Алексютин Анатолий Васильевич": 18,
-      "Есяков Сергей Яковлевич": 471,
-      "Камнев Георгий Петрович": 38,
-      "Коломыцева Людмила Викторовна": 20,
-      "Коробов Сергей Александрович": 5,
-      "Куликов Павел Владимирович": 19,
-      "Никифоров Андрей Васильевич": 18,
-      "Пакаев Алексей Федорович": 4
+      "gas:candidate-vibid:2582000740845": 18,
+      "gas:candidate-vibid:2582000740020": 471,
+      "gas:candidate-vibid:2582000740031": 38,
+      "gas:candidate-vibid:2582000738771": 20,
+      "gas:candidate-vibid:2582000739795": 5,
+      "gas:candidate-vibid:2582000734147": 19,
+      "gas:candidate-vibid:2582000741081": 18,
+      "gas:candidate-vibid:2582000740269": 4
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/penza?action=show&root=1000193&tvd=2582000671230&vrn=100100067795849&region=58&global=&sub_region=58&prver=0&pronetvd=null&vibid=2582000671230&type=464",
@@ -14311,14 +14311,14 @@ export const duma_2016_uik_463_region_58_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Алексютин Анатолий Васильевич": 7,
-      "Есяков Сергей Яковлевич": 384,
-      "Камнев Георгий Петрович": 10,
-      "Коломыцева Людмила Викторовна": 9,
-      "Коробов Сергей Александрович": 0,
-      "Куликов Павел Владимирович": 7,
-      "Никифоров Андрей Васильевич": 2,
-      "Пакаев Алексей Федорович": 1
+      "gas:candidate-vibid:2582000740845": 7,
+      "gas:candidate-vibid:2582000740020": 384,
+      "gas:candidate-vibid:2582000740031": 10,
+      "gas:candidate-vibid:2582000738771": 9,
+      "gas:candidate-vibid:2582000739795": 0,
+      "gas:candidate-vibid:2582000734147": 7,
+      "gas:candidate-vibid:2582000741081": 2,
+      "gas:candidate-vibid:2582000740269": 1
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/penza?action=show&root=1000193&tvd=2582000671230&vrn=100100067795849&region=58&global=&sub_region=58&prver=0&pronetvd=null&vibid=2582000671230&type=464",
@@ -14369,14 +14369,14 @@ export const duma_2016_uik_463_region_58_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Алексютин Анатолий Васильевич": 0,
-      "Есяков Сергей Яковлевич": 181,
-      "Камнев Георгий Петрович": 16,
-      "Коломыцева Людмила Викторовна": 0,
-      "Коробов Сергей Александрович": 0,
-      "Куликов Павел Владимирович": 6,
-      "Никифоров Андрей Васильевич": 0,
-      "Пакаев Алексей Федорович": 0
+      "gas:candidate-vibid:2582000740845": 0,
+      "gas:candidate-vibid:2582000740020": 181,
+      "gas:candidate-vibid:2582000740031": 16,
+      "gas:candidate-vibid:2582000738771": 0,
+      "gas:candidate-vibid:2582000739795": 0,
+      "gas:candidate-vibid:2582000734147": 6,
+      "gas:candidate-vibid:2582000741081": 0,
+      "gas:candidate-vibid:2582000740269": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/penza?action=show&root=1000193&tvd=2582000671230&vrn=100100067795849&region=58&global=&sub_region=58&prver=0&pronetvd=null&vibid=2582000671230&type=464",
@@ -14427,14 +14427,14 @@ export const duma_2016_uik_463_region_58_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Алексютин Анатолий Васильевич": 0,
-      "Есяков Сергей Яковлевич": 130,
-      "Камнев Георгий Петрович": 2,
-      "Коломыцева Людмила Викторовна": 2,
-      "Коробов Сергей Александрович": 0,
-      "Куликов Павел Владимирович": 4,
-      "Никифоров Андрей Васильевич": 0,
-      "Пакаев Алексей Федорович": 0
+      "gas:candidate-vibid:2582000740845": 0,
+      "gas:candidate-vibid:2582000740020": 130,
+      "gas:candidate-vibid:2582000740031": 2,
+      "gas:candidate-vibid:2582000738771": 2,
+      "gas:candidate-vibid:2582000739795": 0,
+      "gas:candidate-vibid:2582000734147": 4,
+      "gas:candidate-vibid:2582000741081": 0,
+      "gas:candidate-vibid:2582000740269": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/penza?action=show&root=1000193&tvd=2582000671230&vrn=100100067795849&region=58&global=&sub_region=58&prver=0&pronetvd=null&vibid=2582000671230&type=464",
@@ -14485,14 +14485,14 @@ export const duma_2016_uik_463_region_58_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Алексютин Анатолий Васильевич": 0,
-      "Есяков Сергей Яковлевич": 51,
-      "Камнев Георгий Петрович": 7,
-      "Коломыцева Людмила Викторовна": 5,
-      "Коробов Сергей Александрович": 3,
-      "Куликов Павел Владимирович": 6,
-      "Никифоров Андрей Васильевич": 0,
-      "Пакаев Алексей Федорович": 0
+      "gas:candidate-vibid:2582000740845": 0,
+      "gas:candidate-vibid:2582000740020": 51,
+      "gas:candidate-vibid:2582000740031": 7,
+      "gas:candidate-vibid:2582000738771": 5,
+      "gas:candidate-vibid:2582000739795": 3,
+      "gas:candidate-vibid:2582000734147": 6,
+      "gas:candidate-vibid:2582000741081": 0,
+      "gas:candidate-vibid:2582000740269": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/penza?action=show&root=1000193&tvd=2582000671230&vrn=100100067795849&region=58&global=&sub_region=58&prver=0&pronetvd=null&vibid=2582000671230&type=464",

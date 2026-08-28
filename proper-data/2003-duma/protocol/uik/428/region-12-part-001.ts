@@ -42,16 +42,16 @@ export const duma_2003_uik_428_region_12_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бочкарев Евгений Михайлович": 6,
-      "Гильманова Резеда Ямиловна": 21,
-      "Казанков Иван Иванович": 277,
-      "Карпочев Владимир Андреевич": 19,
-      "Кислицын Вячеслав Александрович": 146,
-      "Комиссаров Валерий Яковлевич": 426,
-      "Кудрявцев Игорь Михайлович": 58,
-      "Мурадов Намик Ибрагим-оглы": 2,
-      "Свистунов Николай Юрьевич": 119,
-      "Против всех": 111
+      "gas:candidate-vibid:1001000212549": 6,
+      "gas:candidate-vibid:1001000195027": 21,
+      "gas:candidate-vibid:1001000121794": 277,
+      "gas:candidate-vibid:212200067142": 19,
+      "gas:candidate-vibid:212200067260": 146,
+      "gas:candidate-vibid:1001000225879": 426,
+      "gas:candidate-vibid:1001000217879": 58,
+      "gas:candidate-vibid:1001000201798": 2,
+      "gas:candidate-vibid:212200066725": 119,
+      "special:against-all": 111
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=122000004&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=212200066598&region=0&sub_region=0&type=429",
@@ -101,16 +101,16 @@ export const duma_2003_uik_428_region_12_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бочкарев Евгений Михайлович": 10,
-      "Гильманова Резеда Ямиловна": 16,
-      "Казанков Иван Иванович": 225,
-      "Карпочев Владимир Андреевич": 31,
-      "Кислицын Вячеслав Александрович": 107,
-      "Комиссаров Валерий Яковлевич": 355,
-      "Кудрявцев Игорь Михайлович": 63,
-      "Мурадов Намик Ибрагим-оглы": 6,
-      "Свистунов Николай Юрьевич": 86,
-      "Против всех": 90
+      "gas:candidate-vibid:1001000212549": 10,
+      "gas:candidate-vibid:1001000195027": 16,
+      "gas:candidate-vibid:1001000121794": 225,
+      "gas:candidate-vibid:212200067142": 31,
+      "gas:candidate-vibid:212200067260": 107,
+      "gas:candidate-vibid:1001000225879": 355,
+      "gas:candidate-vibid:1001000217879": 63,
+      "gas:candidate-vibid:1001000201798": 6,
+      "gas:candidate-vibid:212200066725": 86,
+      "special:against-all": 90
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=122000004&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=212200066598&region=0&sub_region=0&type=429",
@@ -160,16 +160,16 @@ export const duma_2003_uik_428_region_12_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бочкарев Евгений Михайлович": 23,
-      "Гильманова Резеда Ямиловна": 17,
-      "Казанков Иван Иванович": 229,
-      "Карпочев Владимир Андреевич": 33,
-      "Кислицын Вячеслав Александрович": 122,
-      "Комиссаров Валерий Яковлевич": 390,
-      "Кудрявцев Игорь Михайлович": 52,
-      "Мурадов Намик Ибрагим-оглы": 6,
-      "Свистунов Николай Юрьевич": 85,
-      "Против всех": 114
+      "gas:candidate-vibid:1001000212549": 23,
+      "gas:candidate-vibid:1001000195027": 17,
+      "gas:candidate-vibid:1001000121794": 229,
+      "gas:candidate-vibid:212200067142": 33,
+      "gas:candidate-vibid:212200067260": 122,
+      "gas:candidate-vibid:1001000225879": 390,
+      "gas:candidate-vibid:1001000217879": 52,
+      "gas:candidate-vibid:1001000201798": 6,
+      "gas:candidate-vibid:212200066725": 85,
+      "special:against-all": 114
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=122000004&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=212200066598&region=0&sub_region=0&type=429",
@@ -219,16 +219,16 @@ export const duma_2003_uik_428_region_12_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бочкарев Евгений Михайлович": 11,
-      "Гильманова Резеда Ямиловна": 8,
-      "Казанков Иван Иванович": 315,
-      "Карпочев Владимир Андреевич": 22,
-      "Кислицын Вячеслав Александрович": 106,
-      "Комиссаров Валерий Яковлевич": 375,
-      "Кудрявцев Игорь Михайлович": 64,
-      "Мурадов Намик Ибрагим-оглы": 5,
-      "Свистунов Николай Юрьевич": 127,
-      "Против всех": 160
+      "gas:candidate-vibid:1001000212549": 11,
+      "gas:candidate-vibid:1001000195027": 8,
+      "gas:candidate-vibid:1001000121794": 315,
+      "gas:candidate-vibid:212200067142": 22,
+      "gas:candidate-vibid:212200067260": 106,
+      "gas:candidate-vibid:1001000225879": 375,
+      "gas:candidate-vibid:1001000217879": 64,
+      "gas:candidate-vibid:1001000201798": 5,
+      "gas:candidate-vibid:212200066725": 127,
+      "special:against-all": 160
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=122000004&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=212200066598&region=0&sub_region=0&type=429",
@@ -278,16 +278,16 @@ export const duma_2003_uik_428_region_12_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бочкарев Евгений Михайлович": 10,
-      "Гильманова Резеда Ямиловна": 12,
-      "Казанков Иван Иванович": 350,
-      "Карпочев Владимир Андреевич": 40,
-      "Кислицын Вячеслав Александрович": 110,
-      "Комиссаров Валерий Яковлевич": 322,
-      "Кудрявцев Игорь Михайлович": 62,
-      "Мурадов Намик Ибрагим-оглы": 6,
-      "Свистунов Николай Юрьевич": 117,
-      "Против всех": 142
+      "gas:candidate-vibid:1001000212549": 10,
+      "gas:candidate-vibid:1001000195027": 12,
+      "gas:candidate-vibid:1001000121794": 350,
+      "gas:candidate-vibid:212200067142": 40,
+      "gas:candidate-vibid:212200067260": 110,
+      "gas:candidate-vibid:1001000225879": 322,
+      "gas:candidate-vibid:1001000217879": 62,
+      "gas:candidate-vibid:1001000201798": 6,
+      "gas:candidate-vibid:212200066725": 117,
+      "special:against-all": 142
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=122000004&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=212200066598&region=0&sub_region=0&type=429",
@@ -337,16 +337,16 @@ export const duma_2003_uik_428_region_12_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бочкарев Евгений Михайлович": 8,
-      "Гильманова Резеда Ямиловна": 20,
-      "Казанков Иван Иванович": 311,
-      "Карпочев Владимир Андреевич": 24,
-      "Кислицын Вячеслав Александрович": 95,
-      "Комиссаров Валерий Яковлевич": 269,
-      "Кудрявцев Игорь Михайлович": 45,
-      "Мурадов Намик Ибрагим-оглы": 1,
-      "Свистунов Николай Юрьевич": 118,
-      "Против всех": 119
+      "gas:candidate-vibid:1001000212549": 8,
+      "gas:candidate-vibid:1001000195027": 20,
+      "gas:candidate-vibid:1001000121794": 311,
+      "gas:candidate-vibid:212200067142": 24,
+      "gas:candidate-vibid:212200067260": 95,
+      "gas:candidate-vibid:1001000225879": 269,
+      "gas:candidate-vibid:1001000217879": 45,
+      "gas:candidate-vibid:1001000201798": 1,
+      "gas:candidate-vibid:212200066725": 118,
+      "special:against-all": 119
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=122000004&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=212200066598&region=0&sub_region=0&type=429",
@@ -396,16 +396,16 @@ export const duma_2003_uik_428_region_12_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бочкарев Евгений Михайлович": 7,
-      "Гильманова Резеда Ямиловна": 18,
-      "Казанков Иван Иванович": 295,
-      "Карпочев Владимир Андреевич": 24,
-      "Кислицын Вячеслав Александрович": 106,
-      "Комиссаров Валерий Яковлевич": 239,
-      "Кудрявцев Игорь Михайлович": 64,
-      "Мурадов Намик Ибрагим-оглы": 5,
-      "Свистунов Николай Юрьевич": 133,
-      "Против всех": 102
+      "gas:candidate-vibid:1001000212549": 7,
+      "gas:candidate-vibid:1001000195027": 18,
+      "gas:candidate-vibid:1001000121794": 295,
+      "gas:candidate-vibid:212200067142": 24,
+      "gas:candidate-vibid:212200067260": 106,
+      "gas:candidate-vibid:1001000225879": 239,
+      "gas:candidate-vibid:1001000217879": 64,
+      "gas:candidate-vibid:1001000201798": 5,
+      "gas:candidate-vibid:212200066725": 133,
+      "special:against-all": 102
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=122000004&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=212200066598&region=0&sub_region=0&type=429",
@@ -455,16 +455,16 @@ export const duma_2003_uik_428_region_12_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бочкарев Евгений Михайлович": 8,
-      "Гильманова Резеда Ямиловна": 12,
-      "Казанков Иван Иванович": 295,
-      "Карпочев Владимир Андреевич": 23,
-      "Кислицын Вячеслав Александрович": 122,
-      "Комиссаров Валерий Яковлевич": 213,
-      "Кудрявцев Игорь Михайлович": 57,
-      "Мурадов Намик Ибрагим-оглы": 3,
-      "Свистунов Николай Юрьевич": 119,
-      "Против всех": 116
+      "gas:candidate-vibid:1001000212549": 8,
+      "gas:candidate-vibid:1001000195027": 12,
+      "gas:candidate-vibid:1001000121794": 295,
+      "gas:candidate-vibid:212200067142": 23,
+      "gas:candidate-vibid:212200067260": 122,
+      "gas:candidate-vibid:1001000225879": 213,
+      "gas:candidate-vibid:1001000217879": 57,
+      "gas:candidate-vibid:1001000201798": 3,
+      "gas:candidate-vibid:212200066725": 119,
+      "special:against-all": 116
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=122000004&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=212200066598&region=0&sub_region=0&type=429",
@@ -514,16 +514,16 @@ export const duma_2003_uik_428_region_12_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бочкарев Евгений Михайлович": 8,
-      "Гильманова Резеда Ямиловна": 10,
-      "Казанков Иван Иванович": 298,
-      "Карпочев Владимир Андреевич": 29,
-      "Кислицын Вячеслав Александрович": 110,
-      "Комиссаров Валерий Яковлевич": 226,
-      "Кудрявцев Игорь Михайлович": 53,
-      "Мурадов Намик Ибрагим-оглы": 5,
-      "Свистунов Николай Юрьевич": 140,
-      "Против всех": 154
+      "gas:candidate-vibid:1001000212549": 8,
+      "gas:candidate-vibid:1001000195027": 10,
+      "gas:candidate-vibid:1001000121794": 298,
+      "gas:candidate-vibid:212200067142": 29,
+      "gas:candidate-vibid:212200067260": 110,
+      "gas:candidate-vibid:1001000225879": 226,
+      "gas:candidate-vibid:1001000217879": 53,
+      "gas:candidate-vibid:1001000201798": 5,
+      "gas:candidate-vibid:212200066725": 140,
+      "special:against-all": 154
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=122000004&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=212200066598&region=0&sub_region=0&type=429",
@@ -573,16 +573,16 @@ export const duma_2003_uik_428_region_12_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бочкарев Евгений Михайлович": 13,
-      "Гильманова Резеда Ямиловна": 10,
-      "Казанков Иван Иванович": 267,
-      "Карпочев Владимир Андреевич": 25,
-      "Кислицын Вячеслав Александрович": 92,
-      "Комиссаров Валерий Яковлевич": 211,
-      "Кудрявцев Игорь Михайлович": 83,
-      "Мурадов Намик Ибрагим-оглы": 1,
-      "Свистунов Николай Юрьевич": 142,
-      "Против всех": 139
+      "gas:candidate-vibid:1001000212549": 13,
+      "gas:candidate-vibid:1001000195027": 10,
+      "gas:candidate-vibid:1001000121794": 267,
+      "gas:candidate-vibid:212200067142": 25,
+      "gas:candidate-vibid:212200067260": 92,
+      "gas:candidate-vibid:1001000225879": 211,
+      "gas:candidate-vibid:1001000217879": 83,
+      "gas:candidate-vibid:1001000201798": 1,
+      "gas:candidate-vibid:212200066725": 142,
+      "special:against-all": 139
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=122000004&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=212200066598&region=0&sub_region=0&type=429",
@@ -632,16 +632,16 @@ export const duma_2003_uik_428_region_12_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бочкарев Евгений Михайлович": 14,
-      "Гильманова Резеда Ямиловна": 5,
-      "Казанков Иван Иванович": 214,
-      "Карпочев Владимир Андреевич": 21,
-      "Кислицын Вячеслав Александрович": 124,
-      "Комиссаров Валерий Яковлевич": 201,
-      "Кудрявцев Игорь Михайлович": 68,
-      "Мурадов Намик Ибрагим-оглы": 0,
-      "Свистунов Николай Юрьевич": 92,
-      "Против всех": 107
+      "gas:candidate-vibid:1001000212549": 14,
+      "gas:candidate-vibid:1001000195027": 5,
+      "gas:candidate-vibid:1001000121794": 214,
+      "gas:candidate-vibid:212200067142": 21,
+      "gas:candidate-vibid:212200067260": 124,
+      "gas:candidate-vibid:1001000225879": 201,
+      "gas:candidate-vibid:1001000217879": 68,
+      "gas:candidate-vibid:1001000201798": 0,
+      "gas:candidate-vibid:212200066725": 92,
+      "special:against-all": 107
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=122000004&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=212200066598&region=0&sub_region=0&type=429",
@@ -691,16 +691,16 @@ export const duma_2003_uik_428_region_12_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бочкарев Евгений Михайлович": 9,
-      "Гильманова Резеда Ямиловна": 18,
-      "Казанков Иван Иванович": 212,
-      "Карпочев Владимир Андреевич": 32,
-      "Кислицын Вячеслав Александрович": 116,
-      "Комиссаров Валерий Яковлевич": 238,
-      "Кудрявцев Игорь Михайлович": 45,
-      "Мурадов Намик Ибрагим-оглы": 3,
-      "Свистунов Николай Юрьевич": 147,
-      "Против всех": 126
+      "gas:candidate-vibid:1001000212549": 9,
+      "gas:candidate-vibid:1001000195027": 18,
+      "gas:candidate-vibid:1001000121794": 212,
+      "gas:candidate-vibid:212200067142": 32,
+      "gas:candidate-vibid:212200067260": 116,
+      "gas:candidate-vibid:1001000225879": 238,
+      "gas:candidate-vibid:1001000217879": 45,
+      "gas:candidate-vibid:1001000201798": 3,
+      "gas:candidate-vibid:212200066725": 147,
+      "special:against-all": 126
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=122000004&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=212200066598&region=0&sub_region=0&type=429",
@@ -750,16 +750,16 @@ export const duma_2003_uik_428_region_12_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бочкарев Евгений Михайлович": 7,
-      "Гильманова Резеда Ямиловна": 17,
-      "Казанков Иван Иванович": 257,
-      "Карпочев Владимир Андреевич": 15,
-      "Кислицын Вячеслав Александрович": 55,
-      "Комиссаров Валерий Яковлевич": 258,
-      "Кудрявцев Игорь Михайлович": 46,
-      "Мурадов Намик Ибрагим-оглы": 1,
-      "Свистунов Николай Юрьевич": 93,
-      "Против всех": 93
+      "gas:candidate-vibid:1001000212549": 7,
+      "gas:candidate-vibid:1001000195027": 17,
+      "gas:candidate-vibid:1001000121794": 257,
+      "gas:candidate-vibid:212200067142": 15,
+      "gas:candidate-vibid:212200067260": 55,
+      "gas:candidate-vibid:1001000225879": 258,
+      "gas:candidate-vibid:1001000217879": 46,
+      "gas:candidate-vibid:1001000201798": 1,
+      "gas:candidate-vibid:212200066725": 93,
+      "special:against-all": 93
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=122000004&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=212200066598&region=0&sub_region=0&type=429",
@@ -809,16 +809,16 @@ export const duma_2003_uik_428_region_12_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бочкарев Евгений Михайлович": 16,
-      "Гильманова Резеда Ямиловна": 6,
-      "Казанков Иван Иванович": 423,
-      "Карпочев Владимир Андреевич": 29,
-      "Кислицын Вячеслав Александрович": 70,
-      "Комиссаров Валерий Яковлевич": 265,
-      "Кудрявцев Игорь Михайлович": 89,
-      "Мурадов Намик Ибрагим-оглы": 2,
-      "Свистунов Николай Юрьевич": 158,
-      "Против всех": 152
+      "gas:candidate-vibid:1001000212549": 16,
+      "gas:candidate-vibid:1001000195027": 6,
+      "gas:candidate-vibid:1001000121794": 423,
+      "gas:candidate-vibid:212200067142": 29,
+      "gas:candidate-vibid:212200067260": 70,
+      "gas:candidate-vibid:1001000225879": 265,
+      "gas:candidate-vibid:1001000217879": 89,
+      "gas:candidate-vibid:1001000201798": 2,
+      "gas:candidate-vibid:212200066725": 158,
+      "special:against-all": 152
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=122000004&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=212200066598&region=0&sub_region=0&type=429",
@@ -868,16 +868,16 @@ export const duma_2003_uik_428_region_12_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бочкарев Евгений Михайлович": 14,
-      "Гильманова Резеда Ямиловна": 22,
-      "Казанков Иван Иванович": 419,
-      "Карпочев Владимир Андреевич": 35,
-      "Кислицын Вячеслав Александрович": 106,
-      "Комиссаров Валерий Яковлевич": 304,
-      "Кудрявцев Игорь Михайлович": 79,
-      "Мурадов Намик Ибрагим-оглы": 1,
-      "Свистунов Николай Юрьевич": 179,
-      "Против всех": 145
+      "gas:candidate-vibid:1001000212549": 14,
+      "gas:candidate-vibid:1001000195027": 22,
+      "gas:candidate-vibid:1001000121794": 419,
+      "gas:candidate-vibid:212200067142": 35,
+      "gas:candidate-vibid:212200067260": 106,
+      "gas:candidate-vibid:1001000225879": 304,
+      "gas:candidate-vibid:1001000217879": 79,
+      "gas:candidate-vibid:1001000201798": 1,
+      "gas:candidate-vibid:212200066725": 179,
+      "special:against-all": 145
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=122000004&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=212200066598&region=0&sub_region=0&type=429",
@@ -927,16 +927,16 @@ export const duma_2003_uik_428_region_12_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бочкарев Евгений Михайлович": 12,
-      "Гильманова Резеда Ямиловна": 27,
-      "Казанков Иван Иванович": 418,
-      "Карпочев Владимир Андреевич": 31,
-      "Кислицын Вячеслав Александрович": 68,
-      "Комиссаров Валерий Яковлевич": 267,
-      "Кудрявцев Игорь Михайлович": 71,
-      "Мурадов Намик Ибрагим-оглы": 3,
-      "Свистунов Николай Юрьевич": 179,
-      "Против всех": 184
+      "gas:candidate-vibid:1001000212549": 12,
+      "gas:candidate-vibid:1001000195027": 27,
+      "gas:candidate-vibid:1001000121794": 418,
+      "gas:candidate-vibid:212200067142": 31,
+      "gas:candidate-vibid:212200067260": 68,
+      "gas:candidate-vibid:1001000225879": 267,
+      "gas:candidate-vibid:1001000217879": 71,
+      "gas:candidate-vibid:1001000201798": 3,
+      "gas:candidate-vibid:212200066725": 179,
+      "special:against-all": 184
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=122000004&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=212200066598&region=0&sub_region=0&type=429",
@@ -986,16 +986,16 @@ export const duma_2003_uik_428_region_12_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бочкарев Евгений Михайлович": 23,
-      "Гильманова Резеда Ямиловна": 23,
-      "Казанков Иван Иванович": 329,
-      "Карпочев Владимир Андреевич": 26,
-      "Кислицын Вячеслав Александрович": 98,
-      "Комиссаров Валерий Яковлевич": 259,
-      "Кудрявцев Игорь Михайлович": 79,
-      "Мурадов Намик Ибрагим-оглы": 1,
-      "Свистунов Николай Юрьевич": 149,
-      "Против всех": 125
+      "gas:candidate-vibid:1001000212549": 23,
+      "gas:candidate-vibid:1001000195027": 23,
+      "gas:candidate-vibid:1001000121794": 329,
+      "gas:candidate-vibid:212200067142": 26,
+      "gas:candidate-vibid:212200067260": 98,
+      "gas:candidate-vibid:1001000225879": 259,
+      "gas:candidate-vibid:1001000217879": 79,
+      "gas:candidate-vibid:1001000201798": 1,
+      "gas:candidate-vibid:212200066725": 149,
+      "special:against-all": 125
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=122000004&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=212200066598&region=0&sub_region=0&type=429",
@@ -1045,16 +1045,16 @@ export const duma_2003_uik_428_region_12_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бочкарев Евгений Михайлович": 10,
-      "Гильманова Резеда Ямиловна": 17,
-      "Казанков Иван Иванович": 359,
-      "Карпочев Владимир Андреевич": 40,
-      "Кислицын Вячеслав Александрович": 128,
-      "Комиссаров Валерий Яковлевич": 287,
-      "Кудрявцев Игорь Михайлович": 65,
-      "Мурадов Намик Ибрагим-оглы": 5,
-      "Свистунов Николай Юрьевич": 196,
-      "Против всех": 144
+      "gas:candidate-vibid:1001000212549": 10,
+      "gas:candidate-vibid:1001000195027": 17,
+      "gas:candidate-vibid:1001000121794": 359,
+      "gas:candidate-vibid:212200067142": 40,
+      "gas:candidate-vibid:212200067260": 128,
+      "gas:candidate-vibid:1001000225879": 287,
+      "gas:candidate-vibid:1001000217879": 65,
+      "gas:candidate-vibid:1001000201798": 5,
+      "gas:candidate-vibid:212200066725": 196,
+      "special:against-all": 144
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=122000004&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=212200066598&region=0&sub_region=0&type=429",
@@ -1104,16 +1104,16 @@ export const duma_2003_uik_428_region_12_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бочкарев Евгений Михайлович": 13,
-      "Гильманова Резеда Ямиловна": 13,
-      "Казанков Иван Иванович": 260,
-      "Карпочев Владимир Андреевич": 30,
-      "Кислицын Вячеслав Александрович": 87,
-      "Комиссаров Валерий Яковлевич": 202,
-      "Кудрявцев Игорь Михайлович": 35,
-      "Мурадов Намик Ибрагим-оглы": 4,
-      "Свистунов Николай Юрьевич": 129,
-      "Против всех": 108
+      "gas:candidate-vibid:1001000212549": 13,
+      "gas:candidate-vibid:1001000195027": 13,
+      "gas:candidate-vibid:1001000121794": 260,
+      "gas:candidate-vibid:212200067142": 30,
+      "gas:candidate-vibid:212200067260": 87,
+      "gas:candidate-vibid:1001000225879": 202,
+      "gas:candidate-vibid:1001000217879": 35,
+      "gas:candidate-vibid:1001000201798": 4,
+      "gas:candidate-vibid:212200066725": 129,
+      "special:against-all": 108
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=122000004&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=212200066598&region=0&sub_region=0&type=429",
@@ -1163,16 +1163,16 @@ export const duma_2003_uik_428_region_12_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бочкарев Евгений Михайлович": 10,
-      "Гильманова Резеда Ямиловна": 16,
-      "Казанков Иван Иванович": 403,
-      "Карпочев Владимир Андреевич": 39,
-      "Кислицын Вячеслав Александрович": 106,
-      "Комиссаров Валерий Яковлевич": 294,
-      "Кудрявцев Игорь Михайлович": 40,
-      "Мурадов Намик Ибрагим-оглы": 5,
-      "Свистунов Николай Юрьевич": 179,
-      "Против всех": 109
+      "gas:candidate-vibid:1001000212549": 10,
+      "gas:candidate-vibid:1001000195027": 16,
+      "gas:candidate-vibid:1001000121794": 403,
+      "gas:candidate-vibid:212200067142": 39,
+      "gas:candidate-vibid:212200067260": 106,
+      "gas:candidate-vibid:1001000225879": 294,
+      "gas:candidate-vibid:1001000217879": 40,
+      "gas:candidate-vibid:1001000201798": 5,
+      "gas:candidate-vibid:212200066725": 179,
+      "special:against-all": 109
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=122000004&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=212200066598&region=0&sub_region=0&type=429",
@@ -1222,16 +1222,16 @@ export const duma_2003_uik_428_region_12_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бочкарев Евгений Михайлович": 8,
-      "Гильманова Резеда Ямиловна": 21,
-      "Казанков Иван Иванович": 321,
-      "Карпочев Владимир Андреевич": 33,
-      "Кислицын Вячеслав Александрович": 81,
-      "Комиссаров Валерий Яковлевич": 256,
-      "Кудрявцев Игорь Михайлович": 63,
-      "Мурадов Намик Ибрагим-оглы": 6,
-      "Свистунов Николай Юрьевич": 150,
-      "Против всех": 140
+      "gas:candidate-vibid:1001000212549": 8,
+      "gas:candidate-vibid:1001000195027": 21,
+      "gas:candidate-vibid:1001000121794": 321,
+      "gas:candidate-vibid:212200067142": 33,
+      "gas:candidate-vibid:212200067260": 81,
+      "gas:candidate-vibid:1001000225879": 256,
+      "gas:candidate-vibid:1001000217879": 63,
+      "gas:candidate-vibid:1001000201798": 6,
+      "gas:candidate-vibid:212200066725": 150,
+      "special:against-all": 140
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=122000004&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=212200066598&region=0&sub_region=0&type=429",
@@ -1281,16 +1281,16 @@ export const duma_2003_uik_428_region_12_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бочкарев Евгений Михайлович": 13,
-      "Гильманова Резеда Ямиловна": 5,
-      "Казанков Иван Иванович": 289,
-      "Карпочев Владимир Андреевич": 16,
-      "Кислицын Вячеслав Александрович": 114,
-      "Комиссаров Валерий Яковлевич": 217,
-      "Кудрявцев Игорь Михайлович": 70,
-      "Мурадов Намик Ибрагим-оглы": 1,
-      "Свистунов Николай Юрьевич": 117,
-      "Против всех": 91
+      "gas:candidate-vibid:1001000212549": 13,
+      "gas:candidate-vibid:1001000195027": 5,
+      "gas:candidate-vibid:1001000121794": 289,
+      "gas:candidate-vibid:212200067142": 16,
+      "gas:candidate-vibid:212200067260": 114,
+      "gas:candidate-vibid:1001000225879": 217,
+      "gas:candidate-vibid:1001000217879": 70,
+      "gas:candidate-vibid:1001000201798": 1,
+      "gas:candidate-vibid:212200066725": 117,
+      "special:against-all": 91
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=122000004&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=212200066598&region=0&sub_region=0&type=429",
@@ -1340,16 +1340,16 @@ export const duma_2003_uik_428_region_12_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бочкарев Евгений Михайлович": 8,
-      "Гильманова Резеда Ямиловна": 7,
-      "Казанков Иван Иванович": 244,
-      "Карпочев Владимир Андреевич": 17,
-      "Кислицын Вячеслав Александрович": 168,
-      "Комиссаров Валерий Яковлевич": 211,
-      "Кудрявцев Игорь Михайлович": 57,
-      "Мурадов Намик Ибрагим-оглы": 4,
-      "Свистунов Николай Юрьевич": 113,
-      "Против всех": 102
+      "gas:candidate-vibid:1001000212549": 8,
+      "gas:candidate-vibid:1001000195027": 7,
+      "gas:candidate-vibid:1001000121794": 244,
+      "gas:candidate-vibid:212200067142": 17,
+      "gas:candidate-vibid:212200067260": 168,
+      "gas:candidate-vibid:1001000225879": 211,
+      "gas:candidate-vibid:1001000217879": 57,
+      "gas:candidate-vibid:1001000201798": 4,
+      "gas:candidate-vibid:212200066725": 113,
+      "special:against-all": 102
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=122000004&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=212200066598&region=0&sub_region=0&type=429",
@@ -1399,16 +1399,16 @@ export const duma_2003_uik_428_region_12_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бочкарев Евгений Михайлович": 11,
-      "Гильманова Резеда Ямиловна": 11,
-      "Казанков Иван Иванович": 264,
-      "Карпочев Владимир Андреевич": 18,
-      "Кислицын Вячеслав Александрович": 108,
-      "Комиссаров Валерий Яковлевич": 196,
-      "Кудрявцев Игорь Михайлович": 44,
-      "Мурадов Намик Ибрагим-оглы": 2,
-      "Свистунов Николай Юрьевич": 112,
-      "Против всех": 104
+      "gas:candidate-vibid:1001000212549": 11,
+      "gas:candidate-vibid:1001000195027": 11,
+      "gas:candidate-vibid:1001000121794": 264,
+      "gas:candidate-vibid:212200067142": 18,
+      "gas:candidate-vibid:212200067260": 108,
+      "gas:candidate-vibid:1001000225879": 196,
+      "gas:candidate-vibid:1001000217879": 44,
+      "gas:candidate-vibid:1001000201798": 2,
+      "gas:candidate-vibid:212200066725": 112,
+      "special:against-all": 104
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=122000004&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=212200066598&region=0&sub_region=0&type=429",
@@ -1458,16 +1458,16 @@ export const duma_2003_uik_428_region_12_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бочкарев Евгений Михайлович": 3,
-      "Гильманова Резеда Ямиловна": 2,
-      "Казанков Иван Иванович": 62,
-      "Карпочев Владимир Андреевич": 11,
-      "Кислицын Вячеслав Александрович": 13,
-      "Комиссаров Валерий Яковлевич": 52,
-      "Кудрявцев Игорь Михайлович": 30,
-      "Мурадов Намик Ибрагим-оглы": 2,
-      "Свистунов Николай Юрьевич": 34,
-      "Против всех": 22
+      "gas:candidate-vibid:1001000212549": 3,
+      "gas:candidate-vibid:1001000195027": 2,
+      "gas:candidate-vibid:1001000121794": 62,
+      "gas:candidate-vibid:212200067142": 11,
+      "gas:candidate-vibid:212200067260": 13,
+      "gas:candidate-vibid:1001000225879": 52,
+      "gas:candidate-vibid:1001000217879": 30,
+      "gas:candidate-vibid:1001000201798": 2,
+      "gas:candidate-vibid:212200066725": 34,
+      "special:against-all": 22
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=122000004&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=212200066598&region=0&sub_region=0&type=429",
@@ -1517,16 +1517,16 @@ export const duma_2003_uik_428_region_12_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бочкарев Евгений Михайлович": 5,
-      "Гильманова Резеда Ямиловна": 2,
-      "Казанков Иван Иванович": 100,
-      "Карпочев Владимир Андреевич": 11,
-      "Кислицын Вячеслав Александрович": 25,
-      "Комиссаров Валерий Яковлевич": 77,
-      "Кудрявцев Игорь Михайлович": 8,
-      "Мурадов Намик Ибрагим-оглы": 3,
-      "Свистунов Николай Юрьевич": 37,
-      "Против всех": 18
+      "gas:candidate-vibid:1001000212549": 5,
+      "gas:candidate-vibid:1001000195027": 2,
+      "gas:candidate-vibid:1001000121794": 100,
+      "gas:candidate-vibid:212200067142": 11,
+      "gas:candidate-vibid:212200067260": 25,
+      "gas:candidate-vibid:1001000225879": 77,
+      "gas:candidate-vibid:1001000217879": 8,
+      "gas:candidate-vibid:1001000201798": 3,
+      "gas:candidate-vibid:212200066725": 37,
+      "special:against-all": 18
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=122000004&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=212200066598&region=0&sub_region=0&type=429",
@@ -1576,16 +1576,16 @@ export const duma_2003_uik_428_region_12_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бочкарев Евгений Михайлович": 8,
-      "Гильманова Резеда Ямиловна": 2,
-      "Казанков Иван Иванович": 51,
-      "Карпочев Владимир Андреевич": 10,
-      "Кислицын Вячеслав Александрович": 5,
-      "Комиссаров Валерий Яковлевич": 69,
-      "Кудрявцев Игорь Михайлович": 49,
-      "Мурадов Намик Ибрагим-оглы": 1,
-      "Свистунов Николай Юрьевич": 2,
-      "Против всех": 6
+      "gas:candidate-vibid:1001000212549": 8,
+      "gas:candidate-vibid:1001000195027": 2,
+      "gas:candidate-vibid:1001000121794": 51,
+      "gas:candidate-vibid:212200067142": 10,
+      "gas:candidate-vibid:212200067260": 5,
+      "gas:candidate-vibid:1001000225879": 69,
+      "gas:candidate-vibid:1001000217879": 49,
+      "gas:candidate-vibid:1001000201798": 1,
+      "gas:candidate-vibid:212200066725": 2,
+      "special:against-all": 6
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=122000005&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=212200066599&region=0&sub_region=0&type=429",
@@ -1635,16 +1635,16 @@ export const duma_2003_uik_428_region_12_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бочкарев Евгений Михайлович": 21,
-      "Гильманова Резеда Ямиловна": 6,
-      "Казанков Иван Иванович": 27,
-      "Карпочев Владимир Андреевич": 15,
-      "Кислицын Вячеслав Александрович": 8,
-      "Комиссаров Валерий Яковлевич": 232,
-      "Кудрявцев Игорь Михайлович": 295,
-      "Мурадов Намик Ибрагим-оглы": 2,
-      "Свистунов Николай Юрьевич": 6,
-      "Против всех": 28
+      "gas:candidate-vibid:1001000212549": 21,
+      "gas:candidate-vibid:1001000195027": 6,
+      "gas:candidate-vibid:1001000121794": 27,
+      "gas:candidate-vibid:212200067142": 15,
+      "gas:candidate-vibid:212200067260": 8,
+      "gas:candidate-vibid:1001000225879": 232,
+      "gas:candidate-vibid:1001000217879": 295,
+      "gas:candidate-vibid:1001000201798": 2,
+      "gas:candidate-vibid:212200066725": 6,
+      "special:against-all": 28
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=122000005&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=212200066599&region=0&sub_region=0&type=429",
@@ -1694,16 +1694,16 @@ export const duma_2003_uik_428_region_12_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бочкарев Евгений Михайлович": 0,
-      "Гильманова Резеда Ямиловна": 3,
-      "Казанков Иван Иванович": 22,
-      "Карпочев Владимир Андреевич": 15,
-      "Кислицын Вячеслав Александрович": 7,
-      "Комиссаров Валерий Яковлевич": 108,
-      "Кудрявцев Игорь Михайлович": 90,
-      "Мурадов Намик Ибрагим-оглы": 0,
-      "Свистунов Николай Юрьевич": 1,
-      "Против всех": 13
+      "gas:candidate-vibid:1001000212549": 0,
+      "gas:candidate-vibid:1001000195027": 3,
+      "gas:candidate-vibid:1001000121794": 22,
+      "gas:candidate-vibid:212200067142": 15,
+      "gas:candidate-vibid:212200067260": 7,
+      "gas:candidate-vibid:1001000225879": 108,
+      "gas:candidate-vibid:1001000217879": 90,
+      "gas:candidate-vibid:1001000201798": 0,
+      "gas:candidate-vibid:212200066725": 1,
+      "special:against-all": 13
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=122000005&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=212200066599&region=0&sub_region=0&type=429",
@@ -1753,16 +1753,16 @@ export const duma_2003_uik_428_region_12_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бочкарев Евгений Михайлович": 6,
-      "Гильманова Резеда Ямиловна": 1,
-      "Казанков Иван Иванович": 72,
-      "Карпочев Владимир Андреевич": 8,
-      "Кислицын Вячеслав Александрович": 8,
-      "Комиссаров Валерий Яковлевич": 52,
-      "Кудрявцев Игорь Михайлович": 41,
-      "Мурадов Намик Ибрагим-оглы": 2,
-      "Свистунов Николай Юрьевич": 1,
-      "Против всех": 6
+      "gas:candidate-vibid:1001000212549": 6,
+      "gas:candidate-vibid:1001000195027": 1,
+      "gas:candidate-vibid:1001000121794": 72,
+      "gas:candidate-vibid:212200067142": 8,
+      "gas:candidate-vibid:212200067260": 8,
+      "gas:candidate-vibid:1001000225879": 52,
+      "gas:candidate-vibid:1001000217879": 41,
+      "gas:candidate-vibid:1001000201798": 2,
+      "gas:candidate-vibid:212200066725": 1,
+      "special:against-all": 6
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=122000005&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=212200066599&region=0&sub_region=0&type=429",
@@ -1812,16 +1812,16 @@ export const duma_2003_uik_428_region_12_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бочкарев Евгений Михайлович": 4,
-      "Гильманова Резеда Ямиловна": 1,
-      "Казанков Иван Иванович": 82,
-      "Карпочев Владимир Андреевич": 4,
-      "Кислицын Вячеслав Александрович": 9,
-      "Комиссаров Валерий Яковлевич": 108,
-      "Кудрявцев Игорь Михайлович": 118,
-      "Мурадов Намик Ибрагим-оглы": 2,
-      "Свистунов Николай Юрьевич": 1,
-      "Против всех": 13
+      "gas:candidate-vibid:1001000212549": 4,
+      "gas:candidate-vibid:1001000195027": 1,
+      "gas:candidate-vibid:1001000121794": 82,
+      "gas:candidate-vibid:212200067142": 4,
+      "gas:candidate-vibid:212200067260": 9,
+      "gas:candidate-vibid:1001000225879": 108,
+      "gas:candidate-vibid:1001000217879": 118,
+      "gas:candidate-vibid:1001000201798": 2,
+      "gas:candidate-vibid:212200066725": 1,
+      "special:against-all": 13
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=122000005&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=212200066599&region=0&sub_region=0&type=429",
@@ -1871,16 +1871,16 @@ export const duma_2003_uik_428_region_12_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бочкарев Евгений Михайлович": 4,
-      "Гильманова Резеда Ямиловна": 2,
-      "Казанков Иван Иванович": 18,
-      "Карпочев Владимир Андреевич": 4,
-      "Кислицын Вячеслав Александрович": 11,
-      "Комиссаров Валерий Яковлевич": 60,
-      "Кудрявцев Игорь Михайлович": 29,
-      "Мурадов Намик Ибрагим-оглы": 1,
-      "Свистунов Николай Юрьевич": 1,
-      "Против всех": 5
+      "gas:candidate-vibid:1001000212549": 4,
+      "gas:candidate-vibid:1001000195027": 2,
+      "gas:candidate-vibid:1001000121794": 18,
+      "gas:candidate-vibid:212200067142": 4,
+      "gas:candidate-vibid:212200067260": 11,
+      "gas:candidate-vibid:1001000225879": 60,
+      "gas:candidate-vibid:1001000217879": 29,
+      "gas:candidate-vibid:1001000201798": 1,
+      "gas:candidate-vibid:212200066725": 1,
+      "special:against-all": 5
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=122000005&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=212200066599&region=0&sub_region=0&type=429",
@@ -1930,16 +1930,16 @@ export const duma_2003_uik_428_region_12_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бочкарев Евгений Михайлович": 5,
-      "Гильманова Резеда Ямиловна": 2,
-      "Казанков Иван Иванович": 98,
-      "Карпочев Владимир Андреевич": 13,
-      "Кислицын Вячеслав Александрович": 10,
-      "Комиссаров Валерий Яковлевич": 375,
-      "Кудрявцев Игорь Михайлович": 91,
-      "Мурадов Намик Ибрагим-оглы": 2,
-      "Свистунов Николай Юрьевич": 2,
-      "Против всех": 12
+      "gas:candidate-vibid:1001000212549": 5,
+      "gas:candidate-vibid:1001000195027": 2,
+      "gas:candidate-vibid:1001000121794": 98,
+      "gas:candidate-vibid:212200067142": 13,
+      "gas:candidate-vibid:212200067260": 10,
+      "gas:candidate-vibid:1001000225879": 375,
+      "gas:candidate-vibid:1001000217879": 91,
+      "gas:candidate-vibid:1001000201798": 2,
+      "gas:candidate-vibid:212200066725": 2,
+      "special:against-all": 12
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=122000005&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=212200066599&region=0&sub_region=0&type=429",
@@ -1989,16 +1989,16 @@ export const duma_2003_uik_428_region_12_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бочкарев Евгений Михайлович": 3,
-      "Гильманова Резеда Ямиловна": 2,
-      "Казанков Иван Иванович": 37,
-      "Карпочев Владимир Андреевич": 10,
-      "Кислицын Вячеслав Александрович": 20,
-      "Комиссаров Валерий Яковлевич": 77,
-      "Кудрявцев Игорь Михайлович": 39,
-      "Мурадов Намик Ибрагим-оглы": 0,
-      "Свистунов Николай Юрьевич": 6,
-      "Против всех": 17
+      "gas:candidate-vibid:1001000212549": 3,
+      "gas:candidate-vibid:1001000195027": 2,
+      "gas:candidate-vibid:1001000121794": 37,
+      "gas:candidate-vibid:212200067142": 10,
+      "gas:candidate-vibid:212200067260": 20,
+      "gas:candidate-vibid:1001000225879": 77,
+      "gas:candidate-vibid:1001000217879": 39,
+      "gas:candidate-vibid:1001000201798": 0,
+      "gas:candidate-vibid:212200066725": 6,
+      "special:against-all": 17
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=122000005&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=212200066599&region=0&sub_region=0&type=429",
@@ -2048,16 +2048,16 @@ export const duma_2003_uik_428_region_12_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бочкарев Евгений Михайлович": 8,
-      "Гильманова Резеда Ямиловна": 4,
-      "Казанков Иван Иванович": 32,
-      "Карпочев Владимир Андреевич": 3,
-      "Кислицын Вячеслав Александрович": 14,
-      "Комиссаров Валерий Яковлевич": 67,
-      "Кудрявцев Игорь Михайлович": 14,
-      "Мурадов Намик Ибрагим-оглы": 0,
-      "Свистунов Николай Юрьевич": 1,
-      "Против всех": 21
+      "gas:candidate-vibid:1001000212549": 8,
+      "gas:candidate-vibid:1001000195027": 4,
+      "gas:candidate-vibid:1001000121794": 32,
+      "gas:candidate-vibid:212200067142": 3,
+      "gas:candidate-vibid:212200067260": 14,
+      "gas:candidate-vibid:1001000225879": 67,
+      "gas:candidate-vibid:1001000217879": 14,
+      "gas:candidate-vibid:1001000201798": 0,
+      "gas:candidate-vibid:212200066725": 1,
+      "special:against-all": 21
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=122000005&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=212200066599&region=0&sub_region=0&type=429",
@@ -2107,16 +2107,16 @@ export const duma_2003_uik_428_region_12_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бочкарев Евгений Михайлович": 25,
-      "Гильманова Резеда Ямиловна": 2,
-      "Казанков Иван Иванович": 49,
-      "Карпочев Владимир Андреевич": 209,
-      "Кислицын Вячеслав Александрович": 14,
-      "Комиссаров Валерий Яковлевич": 117,
-      "Кудрявцев Игорь Михайлович": 145,
-      "Мурадов Намик Ибрагим-оглы": 0,
-      "Свистунов Николай Юрьевич": 9,
-      "Против всех": 16
+      "gas:candidate-vibid:1001000212549": 25,
+      "gas:candidate-vibid:1001000195027": 2,
+      "gas:candidate-vibid:1001000121794": 49,
+      "gas:candidate-vibid:212200067142": 209,
+      "gas:candidate-vibid:212200067260": 14,
+      "gas:candidate-vibid:1001000225879": 117,
+      "gas:candidate-vibid:1001000217879": 145,
+      "gas:candidate-vibid:1001000201798": 0,
+      "gas:candidate-vibid:212200066725": 9,
+      "special:against-all": 16
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=122000005&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=212200066599&region=0&sub_region=0&type=429",
@@ -2166,16 +2166,16 @@ export const duma_2003_uik_428_region_12_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бочкарев Евгений Михайлович": 1,
-      "Гильманова Резеда Ямиловна": 0,
-      "Казанков Иван Иванович": 23,
-      "Карпочев Владимир Андреевич": 4,
-      "Кислицын Вячеслав Александрович": 5,
-      "Комиссаров Валерий Яковлевич": 27,
-      "Кудрявцев Игорь Михайлович": 47,
-      "Мурадов Намик Ибрагим-оглы": 1,
-      "Свистунов Николай Юрьевич": 5,
-      "Против всех": 1
+      "gas:candidate-vibid:1001000212549": 1,
+      "gas:candidate-vibid:1001000195027": 0,
+      "gas:candidate-vibid:1001000121794": 23,
+      "gas:candidate-vibid:212200067142": 4,
+      "gas:candidate-vibid:212200067260": 5,
+      "gas:candidate-vibid:1001000225879": 27,
+      "gas:candidate-vibid:1001000217879": 47,
+      "gas:candidate-vibid:1001000201798": 1,
+      "gas:candidate-vibid:212200066725": 5,
+      "special:against-all": 1
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=122000005&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=212200066599&region=0&sub_region=0&type=429",
@@ -2225,16 +2225,16 @@ export const duma_2003_uik_428_region_12_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бочкарев Евгений Михайлович": 4,
-      "Гильманова Резеда Ямиловна": 0,
-      "Казанков Иван Иванович": 98,
-      "Карпочев Владимир Андреевич": 5,
-      "Кислицын Вячеслав Александрович": 6,
-      "Комиссаров Валерий Яковлевич": 83,
-      "Кудрявцев Игорь Михайлович": 163,
-      "Мурадов Намик Ибрагим-оглы": 0,
-      "Свистунов Николай Юрьевич": 8,
-      "Против всех": 7
+      "gas:candidate-vibid:1001000212549": 4,
+      "gas:candidate-vibid:1001000195027": 0,
+      "gas:candidate-vibid:1001000121794": 98,
+      "gas:candidate-vibid:212200067142": 5,
+      "gas:candidate-vibid:212200067260": 6,
+      "gas:candidate-vibid:1001000225879": 83,
+      "gas:candidate-vibid:1001000217879": 163,
+      "gas:candidate-vibid:1001000201798": 0,
+      "gas:candidate-vibid:212200066725": 8,
+      "special:against-all": 7
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=122000005&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=212200066599&region=0&sub_region=0&type=429",
@@ -2284,16 +2284,16 @@ export const duma_2003_uik_428_region_12_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бочкарев Евгений Михайлович": 1,
-      "Гильманова Резеда Ямиловна": 1,
-      "Казанков Иван Иванович": 49,
-      "Карпочев Владимир Андреевич": 5,
-      "Кислицын Вячеслав Александрович": 2,
-      "Комиссаров Валерий Яковлевич": 44,
-      "Кудрявцев Игорь Михайлович": 114,
-      "Мурадов Намик Ибрагим-оглы": 1,
-      "Свистунов Николай Юрьевич": 1,
-      "Против всех": 2
+      "gas:candidate-vibid:1001000212549": 1,
+      "gas:candidate-vibid:1001000195027": 1,
+      "gas:candidate-vibid:1001000121794": 49,
+      "gas:candidate-vibid:212200067142": 5,
+      "gas:candidate-vibid:212200067260": 2,
+      "gas:candidate-vibid:1001000225879": 44,
+      "gas:candidate-vibid:1001000217879": 114,
+      "gas:candidate-vibid:1001000201798": 1,
+      "gas:candidate-vibid:212200066725": 1,
+      "special:against-all": 2
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=122000005&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=212200066599&region=0&sub_region=0&type=429",
@@ -2343,16 +2343,16 @@ export const duma_2003_uik_428_region_12_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бочкарев Евгений Михайлович": 3,
-      "Гильманова Резеда Ямиловна": 0,
-      "Казанков Иван Иванович": 28,
-      "Карпочев Владимир Андреевич": 2,
-      "Кислицын Вячеслав Александрович": 5,
-      "Комиссаров Валерий Яковлевич": 14,
-      "Кудрявцев Игорь Михайлович": 34,
-      "Мурадов Намик Ибрагим-оглы": 0,
-      "Свистунов Николай Юрьевич": 0,
-      "Против всех": 1
+      "gas:candidate-vibid:1001000212549": 3,
+      "gas:candidate-vibid:1001000195027": 0,
+      "gas:candidate-vibid:1001000121794": 28,
+      "gas:candidate-vibid:212200067142": 2,
+      "gas:candidate-vibid:212200067260": 5,
+      "gas:candidate-vibid:1001000225879": 14,
+      "gas:candidate-vibid:1001000217879": 34,
+      "gas:candidate-vibid:1001000201798": 0,
+      "gas:candidate-vibid:212200066725": 0,
+      "special:against-all": 1
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=122000005&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=212200066599&region=0&sub_region=0&type=429",
@@ -2402,16 +2402,16 @@ export const duma_2003_uik_428_region_12_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бочкарев Евгений Михайлович": 6,
-      "Гильманова Резеда Ямиловна": 1,
-      "Казанков Иван Иванович": 21,
-      "Карпочев Владимир Андреевич": 8,
-      "Кислицын Вячеслав Александрович": 6,
-      "Комиссаров Валерий Яковлевич": 32,
-      "Кудрявцев Игорь Михайлович": 72,
-      "Мурадов Намик Ибрагим-оглы": 1,
-      "Свистунов Николай Юрьевич": 4,
-      "Против всех": 10
+      "gas:candidate-vibid:1001000212549": 6,
+      "gas:candidate-vibid:1001000195027": 1,
+      "gas:candidate-vibid:1001000121794": 21,
+      "gas:candidate-vibid:212200067142": 8,
+      "gas:candidate-vibid:212200067260": 6,
+      "gas:candidate-vibid:1001000225879": 32,
+      "gas:candidate-vibid:1001000217879": 72,
+      "gas:candidate-vibid:1001000201798": 1,
+      "gas:candidate-vibid:212200066725": 4,
+      "special:against-all": 10
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=122000005&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=212200066599&region=0&sub_region=0&type=429",
@@ -2461,16 +2461,16 @@ export const duma_2003_uik_428_region_12_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бочкарев Евгений Михайлович": 11,
-      "Гильманова Резеда Ямиловна": 1,
-      "Казанков Иван Иванович": 68,
-      "Карпочев Владимир Андреевич": 16,
-      "Кислицын Вячеслав Александрович": 19,
-      "Комиссаров Валерий Яковлевич": 179,
-      "Кудрявцев Игорь Михайлович": 512,
-      "Мурадов Намик Ибрагим-оглы": 4,
-      "Свистунов Николай Юрьевич": 6,
-      "Против всех": 31
+      "gas:candidate-vibid:1001000212549": 11,
+      "gas:candidate-vibid:1001000195027": 1,
+      "gas:candidate-vibid:1001000121794": 68,
+      "gas:candidate-vibid:212200067142": 16,
+      "gas:candidate-vibid:212200067260": 19,
+      "gas:candidate-vibid:1001000225879": 179,
+      "gas:candidate-vibid:1001000217879": 512,
+      "gas:candidate-vibid:1001000201798": 4,
+      "gas:candidate-vibid:212200066725": 6,
+      "special:against-all": 31
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=122000005&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=212200066599&region=0&sub_region=0&type=429",
@@ -2520,16 +2520,16 @@ export const duma_2003_uik_428_region_12_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бочкарев Евгений Михайлович": 7,
-      "Гильманова Резеда Ямиловна": 2,
-      "Казанков Иван Иванович": 56,
-      "Карпочев Владимир Андреевич": 18,
-      "Кислицын Вячеслав Александрович": 13,
-      "Комиссаров Валерий Яковлевич": 199,
-      "Кудрявцев Игорь Михайлович": 165,
-      "Мурадов Намик Ибрагим-оглы": 0,
-      "Свистунов Николай Юрьевич": 11,
-      "Против всех": 27
+      "gas:candidate-vibid:1001000212549": 7,
+      "gas:candidate-vibid:1001000195027": 2,
+      "gas:candidate-vibid:1001000121794": 56,
+      "gas:candidate-vibid:212200067142": 18,
+      "gas:candidate-vibid:212200067260": 13,
+      "gas:candidate-vibid:1001000225879": 199,
+      "gas:candidate-vibid:1001000217879": 165,
+      "gas:candidate-vibid:1001000201798": 0,
+      "gas:candidate-vibid:212200066725": 11,
+      "special:against-all": 27
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=122000005&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=212200066599&region=0&sub_region=0&type=429",
@@ -2579,16 +2579,16 @@ export const duma_2003_uik_428_region_12_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бочкарев Евгений Михайлович": 15,
-      "Гильманова Резеда Ямиловна": 4,
-      "Казанков Иван Иванович": 120,
-      "Карпочев Владимир Андреевич": 28,
-      "Кислицын Вячеслав Александрович": 15,
-      "Комиссаров Валерий Яковлевич": 338,
-      "Кудрявцев Игорь Михайлович": 325,
-      "Мурадов Намик Ибрагим-оглы": 0,
-      "Свистунов Николай Юрьевич": 13,
-      "Против всех": 55
+      "gas:candidate-vibid:1001000212549": 15,
+      "gas:candidate-vibid:1001000195027": 4,
+      "gas:candidate-vibid:1001000121794": 120,
+      "gas:candidate-vibid:212200067142": 28,
+      "gas:candidate-vibid:212200067260": 15,
+      "gas:candidate-vibid:1001000225879": 338,
+      "gas:candidate-vibid:1001000217879": 325,
+      "gas:candidate-vibid:1001000201798": 0,
+      "gas:candidate-vibid:212200066725": 13,
+      "special:against-all": 55
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=122000005&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=212200066599&region=0&sub_region=0&type=429",
@@ -2638,16 +2638,16 @@ export const duma_2003_uik_428_region_12_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бочкарев Евгений Михайлович": 10,
-      "Гильманова Резеда Ямиловна": 2,
-      "Казанков Иван Иванович": 54,
-      "Карпочев Владимир Андреевич": 19,
-      "Кислицын Вячеслав Александрович": 21,
-      "Комиссаров Валерий Яковлевич": 423,
-      "Кудрявцев Игорь Михайлович": 343,
-      "Мурадов Намик Ибрагим-оглы": 3,
-      "Свистунов Николай Юрьевич": 12,
-      "Против всех": 47
+      "gas:candidate-vibid:1001000212549": 10,
+      "gas:candidate-vibid:1001000195027": 2,
+      "gas:candidate-vibid:1001000121794": 54,
+      "gas:candidate-vibid:212200067142": 19,
+      "gas:candidate-vibid:212200067260": 21,
+      "gas:candidate-vibid:1001000225879": 423,
+      "gas:candidate-vibid:1001000217879": 343,
+      "gas:candidate-vibid:1001000201798": 3,
+      "gas:candidate-vibid:212200066725": 12,
+      "special:against-all": 47
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=122000005&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=212200066599&region=0&sub_region=0&type=429",
@@ -2697,16 +2697,16 @@ export const duma_2003_uik_428_region_12_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бочкарев Евгений Михайлович": 3,
-      "Гильманова Резеда Ямиловна": 1,
-      "Казанков Иван Иванович": 46,
-      "Карпочев Владимир Андреевич": 9,
-      "Кислицын Вячеслав Александрович": 7,
-      "Комиссаров Валерий Яковлевич": 55,
-      "Кудрявцев Игорь Михайлович": 34,
-      "Мурадов Намик Ибрагим-оглы": 2,
-      "Свистунов Николай Юрьевич": 3,
-      "Против всех": 2
+      "gas:candidate-vibid:1001000212549": 3,
+      "gas:candidate-vibid:1001000195027": 1,
+      "gas:candidate-vibid:1001000121794": 46,
+      "gas:candidate-vibid:212200067142": 9,
+      "gas:candidate-vibid:212200067260": 7,
+      "gas:candidate-vibid:1001000225879": 55,
+      "gas:candidate-vibid:1001000217879": 34,
+      "gas:candidate-vibid:1001000201798": 2,
+      "gas:candidate-vibid:212200066725": 3,
+      "special:against-all": 2
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=122000005&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=212200066599&region=0&sub_region=0&type=429",
@@ -2756,16 +2756,16 @@ export const duma_2003_uik_428_region_12_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бочкарев Евгений Михайлович": 6,
-      "Гильманова Резеда Ямиловна": 0,
-      "Казанков Иван Иванович": 137,
-      "Карпочев Владимир Андреевич": 22,
-      "Кислицын Вячеслав Александрович": 15,
-      "Комиссаров Валерий Яковлевич": 170,
-      "Кудрявцев Игорь Михайлович": 117,
-      "Мурадов Намик Ибрагим-оглы": 1,
-      "Свистунов Николай Юрьевич": 8,
-      "Против всех": 20
+      "gas:candidate-vibid:1001000212549": 6,
+      "gas:candidate-vibid:1001000195027": 0,
+      "gas:candidate-vibid:1001000121794": 137,
+      "gas:candidate-vibid:212200067142": 22,
+      "gas:candidate-vibid:212200067260": 15,
+      "gas:candidate-vibid:1001000225879": 170,
+      "gas:candidate-vibid:1001000217879": 117,
+      "gas:candidate-vibid:1001000201798": 1,
+      "gas:candidate-vibid:212200066725": 8,
+      "special:against-all": 20
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=122000005&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=212200066599&region=0&sub_region=0&type=429",
@@ -2815,16 +2815,16 @@ export const duma_2003_uik_428_region_12_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бочкарев Евгений Михайлович": 6,
-      "Гильманова Резеда Ямиловна": 2,
-      "Казанков Иван Иванович": 140,
-      "Карпочев Владимир Андреевич": 8,
-      "Кислицын Вячеслав Александрович": 7,
-      "Комиссаров Валерий Яковлевич": 42,
-      "Кудрявцев Игорь Михайлович": 44,
-      "Мурадов Намик Ибрагим-оглы": 0,
-      "Свистунов Николай Юрьевич": 3,
-      "Против всех": 5
+      "gas:candidate-vibid:1001000212549": 6,
+      "gas:candidate-vibid:1001000195027": 2,
+      "gas:candidate-vibid:1001000121794": 140,
+      "gas:candidate-vibid:212200067142": 8,
+      "gas:candidate-vibid:212200067260": 7,
+      "gas:candidate-vibid:1001000225879": 42,
+      "gas:candidate-vibid:1001000217879": 44,
+      "gas:candidate-vibid:1001000201798": 0,
+      "gas:candidate-vibid:212200066725": 3,
+      "special:against-all": 5
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=122000005&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=212200066599&region=0&sub_region=0&type=429",
@@ -2874,16 +2874,16 @@ export const duma_2003_uik_428_region_12_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бочкарев Евгений Михайлович": 3,
-      "Гильманова Резеда Ямиловна": 3,
-      "Казанков Иван Иванович": 49,
-      "Карпочев Владимир Андреевич": 8,
-      "Кислицын Вячеслав Александрович": 3,
-      "Комиссаров Валерий Яковлевич": 117,
-      "Кудрявцев Игорь Михайлович": 137,
-      "Мурадов Намик Ибрагим-оглы": 1,
-      "Свистунов Николай Юрьевич": 4,
-      "Против всех": 10
+      "gas:candidate-vibid:1001000212549": 3,
+      "gas:candidate-vibid:1001000195027": 3,
+      "gas:candidate-vibid:1001000121794": 49,
+      "gas:candidate-vibid:212200067142": 8,
+      "gas:candidate-vibid:212200067260": 3,
+      "gas:candidate-vibid:1001000225879": 117,
+      "gas:candidate-vibid:1001000217879": 137,
+      "gas:candidate-vibid:1001000201798": 1,
+      "gas:candidate-vibid:212200066725": 4,
+      "special:against-all": 10
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=122000005&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=212200066599&region=0&sub_region=0&type=429",
@@ -2933,16 +2933,16 @@ export const duma_2003_uik_428_region_12_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бочкарев Евгений Михайлович": 2,
-      "Гильманова Резеда Ямиловна": 3,
-      "Казанков Иван Иванович": 19,
-      "Карпочев Владимир Андреевич": 10,
-      "Кислицын Вячеслав Александрович": 2,
-      "Комиссаров Валерий Яковлевич": 90,
-      "Кудрявцев Игорь Михайлович": 63,
-      "Мурадов Намик Ибрагим-оглы": 1,
-      "Свистунов Николай Юрьевич": 4,
-      "Против всех": 9
+      "gas:candidate-vibid:1001000212549": 2,
+      "gas:candidate-vibid:1001000195027": 3,
+      "gas:candidate-vibid:1001000121794": 19,
+      "gas:candidate-vibid:212200067142": 10,
+      "gas:candidate-vibid:212200067260": 2,
+      "gas:candidate-vibid:1001000225879": 90,
+      "gas:candidate-vibid:1001000217879": 63,
+      "gas:candidate-vibid:1001000201798": 1,
+      "gas:candidate-vibid:212200066725": 4,
+      "special:against-all": 9
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=122000005&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=212200066599&region=0&sub_region=0&type=429",
@@ -2992,16 +2992,16 @@ export const duma_2003_uik_428_region_12_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бочкарев Евгений Михайлович": 9,
-      "Гильманова Резеда Ямиловна": 5,
-      "Казанков Иван Иванович": 62,
-      "Карпочев Владимир Андреевич": 13,
-      "Кислицын Вячеслав Александрович": 10,
-      "Комиссаров Валерий Яковлевич": 140,
-      "Кудрявцев Игорь Михайлович": 259,
-      "Мурадов Намик Ибрагим-оглы": 5,
-      "Свистунов Николай Юрьевич": 5,
-      "Против всех": 24
+      "gas:candidate-vibid:1001000212549": 9,
+      "gas:candidate-vibid:1001000195027": 5,
+      "gas:candidate-vibid:1001000121794": 62,
+      "gas:candidate-vibid:212200067142": 13,
+      "gas:candidate-vibid:212200067260": 10,
+      "gas:candidate-vibid:1001000225879": 140,
+      "gas:candidate-vibid:1001000217879": 259,
+      "gas:candidate-vibid:1001000201798": 5,
+      "gas:candidate-vibid:212200066725": 5,
+      "special:against-all": 24
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=122000005&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=212200066599&region=0&sub_region=0&type=429",
@@ -3051,16 +3051,16 @@ export const duma_2003_uik_428_region_12_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бочкарев Евгений Михайлович": 6,
-      "Гильманова Резеда Ямиловна": 3,
-      "Казанков Иван Иванович": 41,
-      "Карпочев Владимир Андреевич": 0,
-      "Кислицын Вячеслав Александрович": 4,
-      "Комиссаров Валерий Яковлевич": 275,
-      "Кудрявцев Игорь Михайлович": 20,
-      "Мурадов Намик Ибрагим-оглы": 0,
-      "Свистунов Николай Юрьевич": 2,
-      "Против всех": 14
+      "gas:candidate-vibid:1001000212549": 6,
+      "gas:candidate-vibid:1001000195027": 3,
+      "gas:candidate-vibid:1001000121794": 41,
+      "gas:candidate-vibid:212200067142": 0,
+      "gas:candidate-vibid:212200067260": 4,
+      "gas:candidate-vibid:1001000225879": 275,
+      "gas:candidate-vibid:1001000217879": 20,
+      "gas:candidate-vibid:1001000201798": 0,
+      "gas:candidate-vibid:212200066725": 2,
+      "special:against-all": 14
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=122000007&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=212200066616&region=0&sub_region=0&type=429",
@@ -3110,16 +3110,16 @@ export const duma_2003_uik_428_region_12_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бочкарев Евгений Михайлович": 11,
-      "Гильманова Резеда Ямиловна": 4,
-      "Казанков Иван Иванович": 65,
-      "Карпочев Владимир Андреевич": 1,
-      "Кислицын Вячеслав Александрович": 39,
-      "Комиссаров Валерий Яковлевич": 172,
-      "Кудрявцев Игорь Михайлович": 29,
-      "Мурадов Намик Ибрагим-оглы": 1,
-      "Свистунов Николай Юрьевич": 8,
-      "Против всех": 14
+      "gas:candidate-vibid:1001000212549": 11,
+      "gas:candidate-vibid:1001000195027": 4,
+      "gas:candidate-vibid:1001000121794": 65,
+      "gas:candidate-vibid:212200067142": 1,
+      "gas:candidate-vibid:212200067260": 39,
+      "gas:candidate-vibid:1001000225879": 172,
+      "gas:candidate-vibid:1001000217879": 29,
+      "gas:candidate-vibid:1001000201798": 1,
+      "gas:candidate-vibid:212200066725": 8,
+      "special:against-all": 14
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=122000007&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=212200066616&region=0&sub_region=0&type=429",
@@ -3169,16 +3169,16 @@ export const duma_2003_uik_428_region_12_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бочкарев Евгений Михайлович": 10,
-      "Гильманова Резеда Ямиловна": 3,
-      "Казанков Иван Иванович": 103,
-      "Карпочев Владимир Андреевич": 0,
-      "Кислицын Вячеслав Александрович": 24,
-      "Комиссаров Валерий Яковлевич": 199,
-      "Кудрявцев Игорь Михайлович": 78,
-      "Мурадов Намик Ибрагим-оглы": 1,
-      "Свистунов Николай Юрьевич": 2,
-      "Против всех": 26
+      "gas:candidate-vibid:1001000212549": 10,
+      "gas:candidate-vibid:1001000195027": 3,
+      "gas:candidate-vibid:1001000121794": 103,
+      "gas:candidate-vibid:212200067142": 0,
+      "gas:candidate-vibid:212200067260": 24,
+      "gas:candidate-vibid:1001000225879": 199,
+      "gas:candidate-vibid:1001000217879": 78,
+      "gas:candidate-vibid:1001000201798": 1,
+      "gas:candidate-vibid:212200066725": 2,
+      "special:against-all": 26
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=122000007&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=212200066616&region=0&sub_region=0&type=429",
@@ -3228,16 +3228,16 @@ export const duma_2003_uik_428_region_12_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бочкарев Евгений Михайлович": 6,
-      "Гильманова Резеда Ямиловна": 2,
-      "Казанков Иван Иванович": 68,
-      "Карпочев Владимир Андреевич": 1,
-      "Кислицын Вячеслав Александрович": 41,
-      "Комиссаров Валерий Яковлевич": 111,
-      "Кудрявцев Игорь Михайлович": 29,
-      "Мурадов Намик Ибрагим-оглы": 1,
-      "Свистунов Николай Юрьевич": 4,
-      "Против всех": 8
+      "gas:candidate-vibid:1001000212549": 6,
+      "gas:candidate-vibid:1001000195027": 2,
+      "gas:candidate-vibid:1001000121794": 68,
+      "gas:candidate-vibid:212200067142": 1,
+      "gas:candidate-vibid:212200067260": 41,
+      "gas:candidate-vibid:1001000225879": 111,
+      "gas:candidate-vibid:1001000217879": 29,
+      "gas:candidate-vibid:1001000201798": 1,
+      "gas:candidate-vibid:212200066725": 4,
+      "special:against-all": 8
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=122000007&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=212200066616&region=0&sub_region=0&type=429",
@@ -3287,16 +3287,16 @@ export const duma_2003_uik_428_region_12_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бочкарев Евгений Михайлович": 7,
-      "Гильманова Резеда Ямиловна": 3,
-      "Казанков Иван Иванович": 22,
-      "Карпочев Владимир Андреевич": 0,
-      "Кислицын Вячеслав Александрович": 17,
-      "Комиссаров Валерий Яковлевич": 128,
-      "Кудрявцев Игорь Михайлович": 16,
-      "Мурадов Намик Ибрагим-оглы": 2,
-      "Свистунов Николай Юрьевич": 3,
-      "Против всех": 6
+      "gas:candidate-vibid:1001000212549": 7,
+      "gas:candidate-vibid:1001000195027": 3,
+      "gas:candidate-vibid:1001000121794": 22,
+      "gas:candidate-vibid:212200067142": 0,
+      "gas:candidate-vibid:212200067260": 17,
+      "gas:candidate-vibid:1001000225879": 128,
+      "gas:candidate-vibid:1001000217879": 16,
+      "gas:candidate-vibid:1001000201798": 2,
+      "gas:candidate-vibid:212200066725": 3,
+      "special:against-all": 6
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=122000007&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=212200066616&region=0&sub_region=0&type=429",
@@ -3346,16 +3346,16 @@ export const duma_2003_uik_428_region_12_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бочкарев Евгений Михайлович": 0,
-      "Гильманова Резеда Ямиловна": 0,
-      "Казанков Иван Иванович": 16,
-      "Карпочев Владимир Андреевич": 0,
-      "Кислицын Вячеслав Александрович": 5,
-      "Комиссаров Валерий Яковлевич": 59,
-      "Кудрявцев Игорь Михайлович": 3,
-      "Мурадов Намик Ибрагим-оглы": 0,
-      "Свистунов Николай Юрьевич": 1,
-      "Против всех": 5
+      "gas:candidate-vibid:1001000212549": 0,
+      "gas:candidate-vibid:1001000195027": 0,
+      "gas:candidate-vibid:1001000121794": 16,
+      "gas:candidate-vibid:212200067142": 0,
+      "gas:candidate-vibid:212200067260": 5,
+      "gas:candidate-vibid:1001000225879": 59,
+      "gas:candidate-vibid:1001000217879": 3,
+      "gas:candidate-vibid:1001000201798": 0,
+      "gas:candidate-vibid:212200066725": 1,
+      "special:against-all": 5
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=122000007&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=212200066616&region=0&sub_region=0&type=429",
@@ -3405,16 +3405,16 @@ export const duma_2003_uik_428_region_12_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бочкарев Евгений Михайлович": 8,
-      "Гильманова Резеда Ямиловна": 1,
-      "Казанков Иван Иванович": 34,
-      "Карпочев Владимир Андреевич": 1,
-      "Кислицын Вячеслав Александрович": 19,
-      "Комиссаров Валерий Яковлевич": 153,
-      "Кудрявцев Игорь Михайлович": 13,
-      "Мурадов Намик Ибрагим-оглы": 3,
-      "Свистунов Николай Юрьевич": 12,
-      "Против всех": 14
+      "gas:candidate-vibid:1001000212549": 8,
+      "gas:candidate-vibid:1001000195027": 1,
+      "gas:candidate-vibid:1001000121794": 34,
+      "gas:candidate-vibid:212200067142": 1,
+      "gas:candidate-vibid:212200067260": 19,
+      "gas:candidate-vibid:1001000225879": 153,
+      "gas:candidate-vibid:1001000217879": 13,
+      "gas:candidate-vibid:1001000201798": 3,
+      "gas:candidate-vibid:212200066725": 12,
+      "special:against-all": 14
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=122000007&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=212200066616&region=0&sub_region=0&type=429",
@@ -3464,16 +3464,16 @@ export const duma_2003_uik_428_region_12_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бочкарев Евгений Михайлович": 13,
-      "Гильманова Резеда Ямиловна": 2,
-      "Казанков Иван Иванович": 63,
-      "Карпочев Владимир Андреевич": 1,
-      "Кислицын Вячеслав Александрович": 22,
-      "Комиссаров Валерий Яковлевич": 121,
-      "Кудрявцев Игорь Михайлович": 6,
-      "Мурадов Намик Ибрагим-оглы": 1,
-      "Свистунов Николай Юрьевич": 2,
-      "Против всех": 13
+      "gas:candidate-vibid:1001000212549": 13,
+      "gas:candidate-vibid:1001000195027": 2,
+      "gas:candidate-vibid:1001000121794": 63,
+      "gas:candidate-vibid:212200067142": 1,
+      "gas:candidate-vibid:212200067260": 22,
+      "gas:candidate-vibid:1001000225879": 121,
+      "gas:candidate-vibid:1001000217879": 6,
+      "gas:candidate-vibid:1001000201798": 1,
+      "gas:candidate-vibid:212200066725": 2,
+      "special:against-all": 13
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=122000007&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=212200066616&region=0&sub_region=0&type=429",
@@ -3523,16 +3523,16 @@ export const duma_2003_uik_428_region_12_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бочкарев Евгений Михайлович": 10,
-      "Гильманова Резеда Ямиловна": 6,
-      "Казанков Иван Иванович": 239,
-      "Карпочев Владимир Андреевич": 3,
-      "Кислицын Вячеслав Александрович": 27,
-      "Комиссаров Валерий Яковлевич": 344,
-      "Кудрявцев Игорь Михайлович": 56,
-      "Мурадов Намик Ибрагим-оглы": 1,
-      "Свистунов Николай Юрьевич": 13,
-      "Против всех": 39
+      "gas:candidate-vibid:1001000212549": 10,
+      "gas:candidate-vibid:1001000195027": 6,
+      "gas:candidate-vibid:1001000121794": 239,
+      "gas:candidate-vibid:212200067142": 3,
+      "gas:candidate-vibid:212200067260": 27,
+      "gas:candidate-vibid:1001000225879": 344,
+      "gas:candidate-vibid:1001000217879": 56,
+      "gas:candidate-vibid:1001000201798": 1,
+      "gas:candidate-vibid:212200066725": 13,
+      "special:against-all": 39
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=122000007&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=212200066616&region=0&sub_region=0&type=429",
@@ -3582,16 +3582,16 @@ export const duma_2003_uik_428_region_12_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бочкарев Евгений Михайлович": 7,
-      "Гильманова Резеда Ямиловна": 0,
-      "Казанков Иван Иванович": 96,
-      "Карпочев Владимир Андреевич": 1,
-      "Кислицын Вячеслав Александрович": 8,
-      "Комиссаров Валерий Яковлевич": 114,
-      "Кудрявцев Игорь Михайлович": 11,
-      "Мурадов Намик Ибрагим-оглы": 2,
-      "Свистунов Николай Юрьевич": 8,
-      "Против всех": 10
+      "gas:candidate-vibid:1001000212549": 7,
+      "gas:candidate-vibid:1001000195027": 0,
+      "gas:candidate-vibid:1001000121794": 96,
+      "gas:candidate-vibid:212200067142": 1,
+      "gas:candidate-vibid:212200067260": 8,
+      "gas:candidate-vibid:1001000225879": 114,
+      "gas:candidate-vibid:1001000217879": 11,
+      "gas:candidate-vibid:1001000201798": 2,
+      "gas:candidate-vibid:212200066725": 8,
+      "special:against-all": 10
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=122000007&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=212200066616&region=0&sub_region=0&type=429",
@@ -3641,16 +3641,16 @@ export const duma_2003_uik_428_region_12_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бочкарев Евгений Михайлович": 1,
-      "Гильманова Резеда Ямиловна": 1,
-      "Казанков Иван Иванович": 101,
-      "Карпочев Владимир Андреевич": 0,
-      "Кислицын Вячеслав Александрович": 8,
-      "Комиссаров Валерий Яковлевич": 74,
-      "Кудрявцев Игорь Михайлович": 9,
-      "Мурадов Намик Ибрагим-оглы": 1,
-      "Свистунов Николай Юрьевич": 0,
-      "Против всех": 15
+      "gas:candidate-vibid:1001000212549": 1,
+      "gas:candidate-vibid:1001000195027": 1,
+      "gas:candidate-vibid:1001000121794": 101,
+      "gas:candidate-vibid:212200067142": 0,
+      "gas:candidate-vibid:212200067260": 8,
+      "gas:candidate-vibid:1001000225879": 74,
+      "gas:candidate-vibid:1001000217879": 9,
+      "gas:candidate-vibid:1001000201798": 1,
+      "gas:candidate-vibid:212200066725": 0,
+      "special:against-all": 15
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=122000007&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=212200066616&region=0&sub_region=0&type=429",
@@ -3700,16 +3700,16 @@ export const duma_2003_uik_428_region_12_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бочкарев Евгений Михайлович": 4,
-      "Гильманова Резеда Ямиловна": 2,
-      "Казанков Иван Иванович": 75,
-      "Карпочев Владимир Андреевич": 0,
-      "Кислицын Вячеслав Александрович": 8,
-      "Комиссаров Валерий Яковлевич": 51,
-      "Кудрявцев Игорь Михайлович": 2,
-      "Мурадов Намик Ибрагим-оглы": 1,
-      "Свистунов Николай Юрьевич": 4,
-      "Против всех": 7
+      "gas:candidate-vibid:1001000212549": 4,
+      "gas:candidate-vibid:1001000195027": 2,
+      "gas:candidate-vibid:1001000121794": 75,
+      "gas:candidate-vibid:212200067142": 0,
+      "gas:candidate-vibid:212200067260": 8,
+      "gas:candidate-vibid:1001000225879": 51,
+      "gas:candidate-vibid:1001000217879": 2,
+      "gas:candidate-vibid:1001000201798": 1,
+      "gas:candidate-vibid:212200066725": 4,
+      "special:against-all": 7
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=122000007&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=212200066616&region=0&sub_region=0&type=429",
@@ -3759,16 +3759,16 @@ export const duma_2003_uik_428_region_12_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бочкарев Евгений Михайлович": 4,
-      "Гильманова Резеда Ямиловна": 3,
-      "Казанков Иван Иванович": 94,
-      "Карпочев Владимир Андреевич": 2,
-      "Кислицын Вячеслав Александрович": 14,
-      "Комиссаров Валерий Яковлевич": 179,
-      "Кудрявцев Игорь Михайлович": 19,
-      "Мурадов Намик Ибрагим-оглы": 1,
-      "Свистунов Николай Юрьевич": 3,
-      "Против всех": 11
+      "gas:candidate-vibid:1001000212549": 4,
+      "gas:candidate-vibid:1001000195027": 3,
+      "gas:candidate-vibid:1001000121794": 94,
+      "gas:candidate-vibid:212200067142": 2,
+      "gas:candidate-vibid:212200067260": 14,
+      "gas:candidate-vibid:1001000225879": 179,
+      "gas:candidate-vibid:1001000217879": 19,
+      "gas:candidate-vibid:1001000201798": 1,
+      "gas:candidate-vibid:212200066725": 3,
+      "special:against-all": 11
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=122000007&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=212200066616&region=0&sub_region=0&type=429",
@@ -3818,16 +3818,16 @@ export const duma_2003_uik_428_region_12_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бочкарев Евгений Михайлович": 0,
-      "Гильманова Резеда Ямиловна": 0,
-      "Казанков Иван Иванович": 69,
-      "Карпочев Владимир Андреевич": 0,
-      "Кислицын Вячеслав Александрович": 6,
-      "Комиссаров Валерий Яковлевич": 91,
-      "Кудрявцев Игорь Михайлович": 0,
-      "Мурадов Намик Ибрагим-оглы": 0,
-      "Свистунов Николай Юрьевич": 2,
-      "Против всех": 6
+      "gas:candidate-vibid:1001000212549": 0,
+      "gas:candidate-vibid:1001000195027": 0,
+      "gas:candidate-vibid:1001000121794": 69,
+      "gas:candidate-vibid:212200067142": 0,
+      "gas:candidate-vibid:212200067260": 6,
+      "gas:candidate-vibid:1001000225879": 91,
+      "gas:candidate-vibid:1001000217879": 0,
+      "gas:candidate-vibid:1001000201798": 0,
+      "gas:candidate-vibid:212200066725": 2,
+      "special:against-all": 6
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=122000007&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=212200066616&region=0&sub_region=0&type=429",
@@ -3877,16 +3877,16 @@ export const duma_2003_uik_428_region_12_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бочкарев Евгений Михайлович": 0,
-      "Гильманова Резеда Ямиловна": 0,
-      "Казанков Иван Иванович": 7,
-      "Карпочев Владимир Андреевич": 0,
-      "Кислицын Вячеслав Александрович": 3,
-      "Комиссаров Валерий Яковлевич": 51,
-      "Кудрявцев Игорь Михайлович": 0,
-      "Мурадов Намик Ибрагим-оглы": 1,
-      "Свистунов Николай Юрьевич": 2,
-      "Против всех": 3
+      "gas:candidate-vibid:1001000212549": 0,
+      "gas:candidate-vibid:1001000195027": 0,
+      "gas:candidate-vibid:1001000121794": 7,
+      "gas:candidate-vibid:212200067142": 0,
+      "gas:candidate-vibid:212200067260": 3,
+      "gas:candidate-vibid:1001000225879": 51,
+      "gas:candidate-vibid:1001000217879": 0,
+      "gas:candidate-vibid:1001000201798": 1,
+      "gas:candidate-vibid:212200066725": 2,
+      "special:against-all": 3
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=122000007&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=212200066616&region=0&sub_region=0&type=429",
@@ -3936,16 +3936,16 @@ export const duma_2003_uik_428_region_12_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бочкарев Евгений Михайлович": 5,
-      "Гильманова Резеда Ямиловна": 3,
-      "Казанков Иван Иванович": 111,
-      "Карпочев Владимир Андреевич": 2,
-      "Кислицын Вячеслав Александрович": 13,
-      "Комиссаров Валерий Яковлевич": 132,
-      "Кудрявцев Игорь Михайлович": 19,
-      "Мурадов Намик Ибрагим-оглы": 1,
-      "Свистунов Николай Юрьевич": 5,
-      "Против всех": 11
+      "gas:candidate-vibid:1001000212549": 5,
+      "gas:candidate-vibid:1001000195027": 3,
+      "gas:candidate-vibid:1001000121794": 111,
+      "gas:candidate-vibid:212200067142": 2,
+      "gas:candidate-vibid:212200067260": 13,
+      "gas:candidate-vibid:1001000225879": 132,
+      "gas:candidate-vibid:1001000217879": 19,
+      "gas:candidate-vibid:1001000201798": 1,
+      "gas:candidate-vibid:212200066725": 5,
+      "special:against-all": 11
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=122000007&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=212200066616&region=0&sub_region=0&type=429",
@@ -3995,16 +3995,16 @@ export const duma_2003_uik_428_region_12_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бочкарев Евгений Михайлович": 11,
-      "Гильманова Резеда Ямиловна": 5,
-      "Казанков Иван Иванович": 134,
-      "Карпочев Владимир Андреевич": 1,
-      "Кислицын Вячеслав Александрович": 20,
-      "Комиссаров Валерий Яковлевич": 181,
-      "Кудрявцев Игорь Михайлович": 30,
-      "Мурадов Намик Ибрагим-оглы": 4,
-      "Свистунов Николай Юрьевич": 11,
-      "Против всех": 26
+      "gas:candidate-vibid:1001000212549": 11,
+      "gas:candidate-vibid:1001000195027": 5,
+      "gas:candidate-vibid:1001000121794": 134,
+      "gas:candidate-vibid:212200067142": 1,
+      "gas:candidate-vibid:212200067260": 20,
+      "gas:candidate-vibid:1001000225879": 181,
+      "gas:candidate-vibid:1001000217879": 30,
+      "gas:candidate-vibid:1001000201798": 4,
+      "gas:candidate-vibid:212200066725": 11,
+      "special:against-all": 26
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=122000007&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=212200066616&region=0&sub_region=0&type=429",
@@ -4054,16 +4054,16 @@ export const duma_2003_uik_428_region_12_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бочкарев Евгений Михайлович": 6,
-      "Гильманова Резеда Ямиловна": 2,
-      "Казанков Иван Иванович": 77,
-      "Карпочев Владимир Андреевич": 1,
-      "Кислицын Вячеслав Александрович": 33,
-      "Комиссаров Валерий Яковлевич": 318,
-      "Кудрявцев Игорь Михайлович": 35,
-      "Мурадов Намик Ибрагим-оглы": 1,
-      "Свистунов Николай Юрьевич": 4,
-      "Против всех": 22
+      "gas:candidate-vibid:1001000212549": 6,
+      "gas:candidate-vibid:1001000195027": 2,
+      "gas:candidate-vibid:1001000121794": 77,
+      "gas:candidate-vibid:212200067142": 1,
+      "gas:candidate-vibid:212200067260": 33,
+      "gas:candidate-vibid:1001000225879": 318,
+      "gas:candidate-vibid:1001000217879": 35,
+      "gas:candidate-vibid:1001000201798": 1,
+      "gas:candidate-vibid:212200066725": 4,
+      "special:against-all": 22
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=122000007&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=212200066616&region=0&sub_region=0&type=429",
@@ -4113,16 +4113,16 @@ export const duma_2003_uik_428_region_12_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бочкарев Евгений Михайлович": 2,
-      "Гильманова Резеда Ямиловна": 2,
-      "Казанков Иван Иванович": 24,
-      "Карпочев Владимир Андреевич": 4,
-      "Кислицын Вячеслав Александрович": 14,
-      "Комиссаров Валерий Яковлевич": 117,
-      "Кудрявцев Игорь Михайлович": 10,
-      "Мурадов Намик Ибрагим-оглы": 3,
-      "Свистунов Николай Юрьевич": 0,
-      "Против всех": 18
+      "gas:candidate-vibid:1001000212549": 2,
+      "gas:candidate-vibid:1001000195027": 2,
+      "gas:candidate-vibid:1001000121794": 24,
+      "gas:candidate-vibid:212200067142": 4,
+      "gas:candidate-vibid:212200067260": 14,
+      "gas:candidate-vibid:1001000225879": 117,
+      "gas:candidate-vibid:1001000217879": 10,
+      "gas:candidate-vibid:1001000201798": 3,
+      "gas:candidate-vibid:212200066725": 0,
+      "special:against-all": 18
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=122000007&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=212200066616&region=0&sub_region=0&type=429",
@@ -4172,16 +4172,16 @@ export const duma_2003_uik_428_region_12_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бочкарев Евгений Михайлович": 6,
-      "Гильманова Резеда Ямиловна": 5,
-      "Казанков Иван Иванович": 25,
-      "Карпочев Владимир Андреевич": 1,
-      "Кислицын Вячеслав Александрович": 12,
-      "Комиссаров Валерий Яковлевич": 141,
-      "Кудрявцев Игорь Михайлович": 5,
-      "Мурадов Намик Ибрагим-оглы": 0,
-      "Свистунов Николай Юрьевич": 5,
-      "Против всех": 8
+      "gas:candidate-vibid:1001000212549": 6,
+      "gas:candidate-vibid:1001000195027": 5,
+      "gas:candidate-vibid:1001000121794": 25,
+      "gas:candidate-vibid:212200067142": 1,
+      "gas:candidate-vibid:212200067260": 12,
+      "gas:candidate-vibid:1001000225879": 141,
+      "gas:candidate-vibid:1001000217879": 5,
+      "gas:candidate-vibid:1001000201798": 0,
+      "gas:candidate-vibid:212200066725": 5,
+      "special:against-all": 8
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=122000007&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=212200066616&region=0&sub_region=0&type=429",
@@ -4231,16 +4231,16 @@ export const duma_2003_uik_428_region_12_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бочкарев Евгений Михайлович": 6,
-      "Гильманова Резеда Ямиловна": 2,
-      "Казанков Иван Иванович": 75,
-      "Карпочев Владимир Андреевич": 3,
-      "Кислицын Вячеслав Александрович": 48,
-      "Комиссаров Валерий Яковлевич": 328,
-      "Кудрявцев Игорь Михайлович": 19,
-      "Мурадов Намик Ибрагим-оглы": 2,
-      "Свистунов Николай Юрьевич": 8,
-      "Против всех": 30
+      "gas:candidate-vibid:1001000212549": 6,
+      "gas:candidate-vibid:1001000195027": 2,
+      "gas:candidate-vibid:1001000121794": 75,
+      "gas:candidate-vibid:212200067142": 3,
+      "gas:candidate-vibid:212200067260": 48,
+      "gas:candidate-vibid:1001000225879": 328,
+      "gas:candidate-vibid:1001000217879": 19,
+      "gas:candidate-vibid:1001000201798": 2,
+      "gas:candidate-vibid:212200066725": 8,
+      "special:against-all": 30
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=122000007&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=212200066616&region=0&sub_region=0&type=429",
@@ -4290,16 +4290,16 @@ export const duma_2003_uik_428_region_12_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бочкарев Евгений Михайлович": 21,
-      "Гильманова Резеда Ямиловна": 7,
-      "Казанков Иван Иванович": 19,
-      "Карпочев Владимир Андреевич": 0,
-      "Кислицын Вячеслав Александрович": 13,
-      "Комиссаров Валерий Яковлевич": 78,
-      "Кудрявцев Игорь Михайлович": 4,
-      "Мурадов Намик Ибрагим-оглы": 3,
-      "Свистунов Николай Юрьевич": 2,
-      "Против всех": 5
+      "gas:candidate-vibid:1001000212549": 21,
+      "gas:candidate-vibid:1001000195027": 7,
+      "gas:candidate-vibid:1001000121794": 19,
+      "gas:candidate-vibid:212200067142": 0,
+      "gas:candidate-vibid:212200067260": 13,
+      "gas:candidate-vibid:1001000225879": 78,
+      "gas:candidate-vibid:1001000217879": 4,
+      "gas:candidate-vibid:1001000201798": 3,
+      "gas:candidate-vibid:212200066725": 2,
+      "special:against-all": 5
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=122000007&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=212200066616&region=0&sub_region=0&type=429",
@@ -4349,16 +4349,16 @@ export const duma_2003_uik_428_region_12_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бочкарев Евгений Михайлович": 5,
-      "Гильманова Резеда Ямиловна": 1,
-      "Казанков Иван Иванович": 45,
-      "Карпочев Владимир Андреевич": 1,
-      "Кислицын Вячеслав Александрович": 19,
-      "Комиссаров Валерий Яковлевич": 221,
-      "Кудрявцев Игорь Михайлович": 10,
-      "Мурадов Намик Ибрагим-оглы": 1,
-      "Свистунов Николай Юрьевич": 4,
-      "Против всех": 9
+      "gas:candidate-vibid:1001000212549": 5,
+      "gas:candidate-vibid:1001000195027": 1,
+      "gas:candidate-vibid:1001000121794": 45,
+      "gas:candidate-vibid:212200067142": 1,
+      "gas:candidate-vibid:212200067260": 19,
+      "gas:candidate-vibid:1001000225879": 221,
+      "gas:candidate-vibid:1001000217879": 10,
+      "gas:candidate-vibid:1001000201798": 1,
+      "gas:candidate-vibid:212200066725": 4,
+      "special:against-all": 9
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=122000007&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=212200066616&region=0&sub_region=0&type=429",
@@ -4408,16 +4408,16 @@ export const duma_2003_uik_428_region_12_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бочкарев Евгений Михайлович": 4,
-      "Гильманова Резеда Ямиловна": 5,
-      "Казанков Иван Иванович": 94,
-      "Карпочев Владимир Андреевич": 2,
-      "Кислицын Вячеслав Александрович": 23,
-      "Комиссаров Валерий Яковлевич": 416,
-      "Кудрявцев Игорь Михайлович": 79,
-      "Мурадов Намик Ибрагим-оглы": 1,
-      "Свистунов Николай Юрьевич": 12,
-      "Против всех": 24
+      "gas:candidate-vibid:1001000212549": 4,
+      "gas:candidate-vibid:1001000195027": 5,
+      "gas:candidate-vibid:1001000121794": 94,
+      "gas:candidate-vibid:212200067142": 2,
+      "gas:candidate-vibid:212200067260": 23,
+      "gas:candidate-vibid:1001000225879": 416,
+      "gas:candidate-vibid:1001000217879": 79,
+      "gas:candidate-vibid:1001000201798": 1,
+      "gas:candidate-vibid:212200066725": 12,
+      "special:against-all": 24
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=122000007&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=212200066616&region=0&sub_region=0&type=429",
@@ -4467,16 +4467,16 @@ export const duma_2003_uik_428_region_12_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бочкарев Евгений Михайлович": 5,
-      "Гильманова Резеда Ямиловна": 1,
-      "Казанков Иван Иванович": 64,
-      "Карпочев Владимир Андреевич": 2,
-      "Кислицын Вячеслав Александрович": 13,
-      "Комиссаров Валерий Яковлевич": 376,
-      "Кудрявцев Игорь Михайлович": 9,
-      "Мурадов Намик Ибрагим-оглы": 0,
-      "Свистунов Николай Юрьевич": 5,
-      "Против всех": 15
+      "gas:candidate-vibid:1001000212549": 5,
+      "gas:candidate-vibid:1001000195027": 1,
+      "gas:candidate-vibid:1001000121794": 64,
+      "gas:candidate-vibid:212200067142": 2,
+      "gas:candidate-vibid:212200067260": 13,
+      "gas:candidate-vibid:1001000225879": 376,
+      "gas:candidate-vibid:1001000217879": 9,
+      "gas:candidate-vibid:1001000201798": 0,
+      "gas:candidate-vibid:212200066725": 5,
+      "special:against-all": 15
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=122000007&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=212200066616&region=0&sub_region=0&type=429",
@@ -4526,16 +4526,16 @@ export const duma_2003_uik_428_region_12_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бочкарев Евгений Михайлович": 1,
-      "Гильманова Резеда Ямиловна": 5,
-      "Казанков Иван Иванович": 35,
-      "Карпочев Владимир Андреевич": 4,
-      "Кислицын Вячеслав Александрович": 33,
-      "Комиссаров Валерий Яковлевич": 281,
-      "Кудрявцев Игорь Михайлович": 5,
-      "Мурадов Намик Ибрагим-оглы": 1,
-      "Свистунов Николай Юрьевич": 3,
-      "Против всех": 26
+      "gas:candidate-vibid:1001000212549": 1,
+      "gas:candidate-vibid:1001000195027": 5,
+      "gas:candidate-vibid:1001000121794": 35,
+      "gas:candidate-vibid:212200067142": 4,
+      "gas:candidate-vibid:212200067260": 33,
+      "gas:candidate-vibid:1001000225879": 281,
+      "gas:candidate-vibid:1001000217879": 5,
+      "gas:candidate-vibid:1001000201798": 1,
+      "gas:candidate-vibid:212200066725": 3,
+      "special:against-all": 26
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=122000007&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=212200066616&region=0&sub_region=0&type=429",
@@ -4585,16 +4585,16 @@ export const duma_2003_uik_428_region_12_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бочкарев Евгений Михайлович": 14,
-      "Гильманова Резеда Ямиловна": 3,
-      "Казанков Иван Иванович": 63,
-      "Карпочев Владимир Андреевич": 6,
-      "Кислицын Вячеслав Александрович": 21,
-      "Комиссаров Валерий Яковлевич": 223,
-      "Кудрявцев Игорь Михайлович": 11,
-      "Мурадов Намик Ибрагим-оглы": 3,
-      "Свистунов Николай Юрьевич": 6,
-      "Против всех": 42
+      "gas:candidate-vibid:1001000212549": 14,
+      "gas:candidate-vibid:1001000195027": 3,
+      "gas:candidate-vibid:1001000121794": 63,
+      "gas:candidate-vibid:212200067142": 6,
+      "gas:candidate-vibid:212200067260": 21,
+      "gas:candidate-vibid:1001000225879": 223,
+      "gas:candidate-vibid:1001000217879": 11,
+      "gas:candidate-vibid:1001000201798": 3,
+      "gas:candidate-vibid:212200066725": 6,
+      "special:against-all": 42
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=122000007&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=212200066616&region=0&sub_region=0&type=429",
@@ -4644,16 +4644,16 @@ export const duma_2003_uik_428_region_12_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бочкарев Евгений Михайлович": 6,
-      "Гильманова Резеда Ямиловна": 0,
-      "Казанков Иван Иванович": 39,
-      "Карпочев Владимир Андреевич": 1,
-      "Кислицын Вячеслав Александрович": 11,
-      "Комиссаров Валерий Яковлевич": 178,
-      "Кудрявцев Игорь Михайлович": 5,
-      "Мурадов Намик Ибрагим-оглы": 0,
-      "Свистунов Николай Юрьевич": 1,
-      "Против всех": 7
+      "gas:candidate-vibid:1001000212549": 6,
+      "gas:candidate-vibid:1001000195027": 0,
+      "gas:candidate-vibid:1001000121794": 39,
+      "gas:candidate-vibid:212200067142": 1,
+      "gas:candidate-vibid:212200067260": 11,
+      "gas:candidate-vibid:1001000225879": 178,
+      "gas:candidate-vibid:1001000217879": 5,
+      "gas:candidate-vibid:1001000201798": 0,
+      "gas:candidate-vibid:212200066725": 1,
+      "special:against-all": 7
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=122000007&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=212200066616&region=0&sub_region=0&type=429",
@@ -4703,16 +4703,16 @@ export const duma_2003_uik_428_region_12_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бочкарев Евгений Михайлович": 5,
-      "Гильманова Резеда Ямиловна": 1,
-      "Казанков Иван Иванович": 5,
-      "Карпочев Владимир Андреевич": 1,
-      "Кислицын Вячеслав Александрович": 0,
-      "Комиссаров Валерий Яковлевич": 88,
-      "Кудрявцев Игорь Михайлович": 1,
-      "Мурадов Намик Ибрагим-оглы": 2,
-      "Свистунов Николай Юрьевич": 3,
-      "Против всех": 3
+      "gas:candidate-vibid:1001000212549": 5,
+      "gas:candidate-vibid:1001000195027": 1,
+      "gas:candidate-vibid:1001000121794": 5,
+      "gas:candidate-vibid:212200067142": 1,
+      "gas:candidate-vibid:212200067260": 0,
+      "gas:candidate-vibid:1001000225879": 88,
+      "gas:candidate-vibid:1001000217879": 1,
+      "gas:candidate-vibid:1001000201798": 2,
+      "gas:candidate-vibid:212200066725": 3,
+      "special:against-all": 3
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=122000007&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=212200066616&region=0&sub_region=0&type=429",
@@ -4762,16 +4762,16 @@ export const duma_2003_uik_428_region_12_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бочкарев Евгений Михайлович": 2,
-      "Гильманова Резеда Ямиловна": 0,
-      "Казанков Иван Иванович": 50,
-      "Карпочев Владимир Андреевич": 3,
-      "Кислицын Вячеслав Александрович": 10,
-      "Комиссаров Валерий Яковлевич": 179,
-      "Кудрявцев Игорь Михайлович": 4,
-      "Мурадов Намик Ибрагим-оглы": 0,
-      "Свистунов Николай Юрьевич": 2,
-      "Против всех": 7
+      "gas:candidate-vibid:1001000212549": 2,
+      "gas:candidate-vibid:1001000195027": 0,
+      "gas:candidate-vibid:1001000121794": 50,
+      "gas:candidate-vibid:212200067142": 3,
+      "gas:candidate-vibid:212200067260": 10,
+      "gas:candidate-vibid:1001000225879": 179,
+      "gas:candidate-vibid:1001000217879": 4,
+      "gas:candidate-vibid:1001000201798": 0,
+      "gas:candidate-vibid:212200066725": 2,
+      "special:against-all": 7
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=122000007&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=212200066616&region=0&sub_region=0&type=429",
@@ -4821,16 +4821,16 @@ export const duma_2003_uik_428_region_12_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бочкарев Евгений Михайлович": 6,
-      "Гильманова Резеда Ямиловна": 0,
-      "Казанков Иван Иванович": 22,
-      "Карпочев Владимир Андреевич": 0,
-      "Кислицын Вячеслав Александрович": 5,
-      "Комиссаров Валерий Яковлевич": 162,
-      "Кудрявцев Игорь Михайлович": 6,
-      "Мурадов Намик Ибрагим-оглы": 1,
-      "Свистунов Николай Юрьевич": 3,
-      "Против всех": 3
+      "gas:candidate-vibid:1001000212549": 6,
+      "gas:candidate-vibid:1001000195027": 0,
+      "gas:candidate-vibid:1001000121794": 22,
+      "gas:candidate-vibid:212200067142": 0,
+      "gas:candidate-vibid:212200067260": 5,
+      "gas:candidate-vibid:1001000225879": 162,
+      "gas:candidate-vibid:1001000217879": 6,
+      "gas:candidate-vibid:1001000201798": 1,
+      "gas:candidate-vibid:212200066725": 3,
+      "special:against-all": 3
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=122000007&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=212200066616&region=0&sub_region=0&type=429",
@@ -4880,16 +4880,16 @@ export const duma_2003_uik_428_region_12_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бочкарев Евгений Михайлович": 4,
-      "Гильманова Резеда Ямиловна": 1,
-      "Казанков Иван Иванович": 97,
-      "Карпочев Владимир Андреевич": 1,
-      "Кислицын Вячеслав Александрович": 11,
-      "Комиссаров Валерий Яковлевич": 316,
-      "Кудрявцев Игорь Михайлович": 38,
-      "Мурадов Намик Ибрагим-оглы": 0,
-      "Свистунов Николай Юрьевич": 4,
-      "Против всех": 12
+      "gas:candidate-vibid:1001000212549": 4,
+      "gas:candidate-vibid:1001000195027": 1,
+      "gas:candidate-vibid:1001000121794": 97,
+      "gas:candidate-vibid:212200067142": 1,
+      "gas:candidate-vibid:212200067260": 11,
+      "gas:candidate-vibid:1001000225879": 316,
+      "gas:candidate-vibid:1001000217879": 38,
+      "gas:candidate-vibid:1001000201798": 0,
+      "gas:candidate-vibid:212200066725": 4,
+      "special:against-all": 12
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=122000007&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=212200066616&region=0&sub_region=0&type=429",
@@ -4939,16 +4939,16 @@ export const duma_2003_uik_428_region_12_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бочкарев Евгений Михайлович": 1,
-      "Гильманова Резеда Ямиловна": 1,
-      "Казанков Иван Иванович": 70,
-      "Карпочев Владимир Андреевич": 1,
-      "Кислицын Вячеслав Александрович": 10,
-      "Комиссаров Валерий Яковлевич": 327,
-      "Кудрявцев Игорь Михайлович": 14,
-      "Мурадов Намик Ибрагим-оглы": 1,
-      "Свистунов Николай Юрьевич": 4,
-      "Против всех": 9
+      "gas:candidate-vibid:1001000212549": 1,
+      "gas:candidate-vibid:1001000195027": 1,
+      "gas:candidate-vibid:1001000121794": 70,
+      "gas:candidate-vibid:212200067142": 1,
+      "gas:candidate-vibid:212200067260": 10,
+      "gas:candidate-vibid:1001000225879": 327,
+      "gas:candidate-vibid:1001000217879": 14,
+      "gas:candidate-vibid:1001000201798": 1,
+      "gas:candidate-vibid:212200066725": 4,
+      "special:against-all": 9
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=122000007&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=212200066616&region=0&sub_region=0&type=429",
@@ -4998,16 +4998,16 @@ export const duma_2003_uik_428_region_12_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бочкарев Евгений Михайлович": 3,
-      "Гильманова Резеда Ямиловна": 1,
-      "Казанков Иван Иванович": 43,
-      "Карпочев Владимир Андреевич": 0,
-      "Кислицын Вячеслав Александрович": 18,
-      "Комиссаров Валерий Яковлевич": 123,
-      "Кудрявцев Игорь Михайлович": 6,
-      "Мурадов Намик Ибрагим-оглы": 0,
-      "Свистунов Николай Юрьевич": 1,
-      "Против всех": 14
+      "gas:candidate-vibid:1001000212549": 3,
+      "gas:candidate-vibid:1001000195027": 1,
+      "gas:candidate-vibid:1001000121794": 43,
+      "gas:candidate-vibid:212200067142": 0,
+      "gas:candidate-vibid:212200067260": 18,
+      "gas:candidate-vibid:1001000225879": 123,
+      "gas:candidate-vibid:1001000217879": 6,
+      "gas:candidate-vibid:1001000201798": 0,
+      "gas:candidate-vibid:212200066725": 1,
+      "special:against-all": 14
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=122000007&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=212200066616&region=0&sub_region=0&type=429",
@@ -5057,16 +5057,16 @@ export const duma_2003_uik_428_region_12_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бочкарев Евгений Михайлович": 0,
-      "Гильманова Резеда Ямиловна": 0,
-      "Казанков Иван Иванович": 33,
-      "Карпочев Владимир Андреевич": 1,
-      "Кислицын Вячеслав Александрович": 2,
-      "Комиссаров Валерий Яковлевич": 117,
-      "Кудрявцев Игорь Михайлович": 2,
-      "Мурадов Намик Ибрагим-оглы": 0,
-      "Свистунов Николай Юрьевич": 1,
-      "Против всех": 6
+      "gas:candidate-vibid:1001000212549": 0,
+      "gas:candidate-vibid:1001000195027": 0,
+      "gas:candidate-vibid:1001000121794": 33,
+      "gas:candidate-vibid:212200067142": 1,
+      "gas:candidate-vibid:212200067260": 2,
+      "gas:candidate-vibid:1001000225879": 117,
+      "gas:candidate-vibid:1001000217879": 2,
+      "gas:candidate-vibid:1001000201798": 0,
+      "gas:candidate-vibid:212200066725": 1,
+      "special:against-all": 6
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=122000007&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=212200066616&region=0&sub_region=0&type=429",
@@ -5116,16 +5116,16 @@ export const duma_2003_uik_428_region_12_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бочкарев Евгений Михайлович": 2,
-      "Гильманова Резеда Ямиловна": 2,
-      "Казанков Иван Иванович": 93,
-      "Карпочев Владимир Андреевич": 0,
-      "Кислицын Вячеслав Александрович": 30,
-      "Комиссаров Валерий Яковлевич": 142,
-      "Кудрявцев Игорь Михайлович": 5,
-      "Мурадов Намик Ибрагим-оглы": 0,
-      "Свистунов Николай Юрьевич": 4,
-      "Против всех": 12
+      "gas:candidate-vibid:1001000212549": 2,
+      "gas:candidate-vibid:1001000195027": 2,
+      "gas:candidate-vibid:1001000121794": 93,
+      "gas:candidate-vibid:212200067142": 0,
+      "gas:candidate-vibid:212200067260": 30,
+      "gas:candidate-vibid:1001000225879": 142,
+      "gas:candidate-vibid:1001000217879": 5,
+      "gas:candidate-vibid:1001000201798": 0,
+      "gas:candidate-vibid:212200066725": 4,
+      "special:against-all": 12
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=122000007&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=212200066616&region=0&sub_region=0&type=429",
@@ -5175,16 +5175,16 @@ export const duma_2003_uik_428_region_12_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бочкарев Евгений Михайлович": 1,
-      "Гильманова Резеда Ямиловна": 0,
-      "Казанков Иван Иванович": 16,
-      "Карпочев Владимир Андреевич": 0,
-      "Кислицын Вячеслав Александрович": 1,
-      "Комиссаров Валерий Яковлевич": 18,
-      "Кудрявцев Игорь Михайлович": 0,
-      "Мурадов Намик Ибрагим-оглы": 1,
-      "Свистунов Николай Юрьевич": 1,
-      "Против всех": 4
+      "gas:candidate-vibid:1001000212549": 1,
+      "gas:candidate-vibid:1001000195027": 0,
+      "gas:candidate-vibid:1001000121794": 16,
+      "gas:candidate-vibid:212200067142": 0,
+      "gas:candidate-vibid:212200067260": 1,
+      "gas:candidate-vibid:1001000225879": 18,
+      "gas:candidate-vibid:1001000217879": 0,
+      "gas:candidate-vibid:1001000201798": 1,
+      "gas:candidate-vibid:212200066725": 1,
+      "special:against-all": 4
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=122000007&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=212200066616&region=0&sub_region=0&type=429",
@@ -5234,16 +5234,16 @@ export const duma_2003_uik_428_region_12_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бочкарев Евгений Михайлович": 4,
-      "Гильманова Резеда Ямиловна": 0,
-      "Казанков Иван Иванович": 41,
-      "Карпочев Владимир Андреевич": 0,
-      "Кислицын Вячеслав Александрович": 10,
-      "Комиссаров Валерий Яковлевич": 100,
-      "Кудрявцев Игорь Михайлович": 0,
-      "Мурадов Намик Ибрагим-оглы": 0,
-      "Свистунов Николай Юрьевич": 2,
-      "Против всех": 23
+      "gas:candidate-vibid:1001000212549": 4,
+      "gas:candidate-vibid:1001000195027": 0,
+      "gas:candidate-vibid:1001000121794": 41,
+      "gas:candidate-vibid:212200067142": 0,
+      "gas:candidate-vibid:212200067260": 10,
+      "gas:candidate-vibid:1001000225879": 100,
+      "gas:candidate-vibid:1001000217879": 0,
+      "gas:candidate-vibid:1001000201798": 0,
+      "gas:candidate-vibid:212200066725": 2,
+      "special:against-all": 23
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=122000007&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=212200066616&region=0&sub_region=0&type=429",
@@ -5293,16 +5293,16 @@ export const duma_2003_uik_428_region_12_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бочкарев Евгений Михайлович": 0,
-      "Гильманова Резеда Ямиловна": 0,
-      "Казанков Иван Иванович": 40,
-      "Карпочев Владимир Андреевич": 0,
-      "Кислицын Вячеслав Александрович": 5,
-      "Комиссаров Валерий Яковлевич": 87,
-      "Кудрявцев Игорь Михайлович": 2,
-      "Мурадов Намик Ибрагим-оглы": 1,
-      "Свистунов Николай Юрьевич": 2,
-      "Против всех": 8
+      "gas:candidate-vibid:1001000212549": 0,
+      "gas:candidate-vibid:1001000195027": 0,
+      "gas:candidate-vibid:1001000121794": 40,
+      "gas:candidate-vibid:212200067142": 0,
+      "gas:candidate-vibid:212200067260": 5,
+      "gas:candidate-vibid:1001000225879": 87,
+      "gas:candidate-vibid:1001000217879": 2,
+      "gas:candidate-vibid:1001000201798": 1,
+      "gas:candidate-vibid:212200066725": 2,
+      "special:against-all": 8
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=122000007&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=212200066616&region=0&sub_region=0&type=429",
@@ -5352,16 +5352,16 @@ export const duma_2003_uik_428_region_12_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бочкарев Евгений Михайлович": 8,
-      "Гильманова Резеда Ямиловна": 0,
-      "Казанков Иван Иванович": 90,
-      "Карпочев Владимир Андреевич": 1,
-      "Кислицын Вячеслав Александрович": 12,
-      "Комиссаров Валерий Яковлевич": 97,
-      "Кудрявцев Игорь Михайлович": 4,
-      "Мурадов Намик Ибрагим-оглы": 1,
-      "Свистунов Николай Юрьевич": 3,
-      "Против всех": 5
+      "gas:candidate-vibid:1001000212549": 8,
+      "gas:candidate-vibid:1001000195027": 0,
+      "gas:candidate-vibid:1001000121794": 90,
+      "gas:candidate-vibid:212200067142": 1,
+      "gas:candidate-vibid:212200067260": 12,
+      "gas:candidate-vibid:1001000225879": 97,
+      "gas:candidate-vibid:1001000217879": 4,
+      "gas:candidate-vibid:1001000201798": 1,
+      "gas:candidate-vibid:212200066725": 3,
+      "special:against-all": 5
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=122000007&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=212200066616&region=0&sub_region=0&type=429",
@@ -5411,16 +5411,16 @@ export const duma_2003_uik_428_region_12_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бочкарев Евгений Михайлович": 0,
-      "Гильманова Резеда Ямиловна": 1,
-      "Казанков Иван Иванович": 28,
-      "Карпочев Владимир Андреевич": 2,
-      "Кислицын Вячеслав Александрович": 1,
-      "Комиссаров Валерий Яковлевич": 78,
-      "Кудрявцев Игорь Михайлович": 4,
-      "Мурадов Намик Ибрагим-оглы": 1,
-      "Свистунов Николай Юрьевич": 1,
-      "Против всех": 4
+      "gas:candidate-vibid:1001000212549": 0,
+      "gas:candidate-vibid:1001000195027": 1,
+      "gas:candidate-vibid:1001000121794": 28,
+      "gas:candidate-vibid:212200067142": 2,
+      "gas:candidate-vibid:212200067260": 1,
+      "gas:candidate-vibid:1001000225879": 78,
+      "gas:candidate-vibid:1001000217879": 4,
+      "gas:candidate-vibid:1001000201798": 1,
+      "gas:candidate-vibid:212200066725": 1,
+      "special:against-all": 4
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=122000007&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=212200066616&region=0&sub_region=0&type=429",
@@ -5470,16 +5470,16 @@ export const duma_2003_uik_428_region_12_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бочкарев Евгений Михайлович": 7,
-      "Гильманова Резеда Ямиловна": 1,
-      "Казанков Иван Иванович": 64,
-      "Карпочев Владимир Андреевич": 1,
-      "Кислицын Вячеслав Александрович": 13,
-      "Комиссаров Валерий Яковлевич": 292,
-      "Кудрявцев Игорь Михайлович": 6,
-      "Мурадов Намик Ибрагим-оглы": 0,
-      "Свистунов Николай Юрьевич": 3,
-      "Против всех": 28
+      "gas:candidate-vibid:1001000212549": 7,
+      "gas:candidate-vibid:1001000195027": 1,
+      "gas:candidate-vibid:1001000121794": 64,
+      "gas:candidate-vibid:212200067142": 1,
+      "gas:candidate-vibid:212200067260": 13,
+      "gas:candidate-vibid:1001000225879": 292,
+      "gas:candidate-vibid:1001000217879": 6,
+      "gas:candidate-vibid:1001000201798": 0,
+      "gas:candidate-vibid:212200066725": 3,
+      "special:against-all": 28
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=122000007&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=212200066616&region=0&sub_region=0&type=429",
@@ -5529,16 +5529,16 @@ export const duma_2003_uik_428_region_12_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бочкарев Евгений Михайлович": 1,
-      "Гильманова Резеда Ямиловна": 3,
-      "Казанков Иван Иванович": 66,
-      "Карпочев Владимир Андреевич": 0,
-      "Кислицын Вячеслав Александрович": 16,
-      "Комиссаров Валерий Яковлевич": 176,
-      "Кудрявцев Игорь Михайлович": 19,
-      "Мурадов Намик Ибрагим-оглы": 0,
-      "Свистунов Николай Юрьевич": 5,
-      "Против всех": 16
+      "gas:candidate-vibid:1001000212549": 1,
+      "gas:candidate-vibid:1001000195027": 3,
+      "gas:candidate-vibid:1001000121794": 66,
+      "gas:candidate-vibid:212200067142": 0,
+      "gas:candidate-vibid:212200067260": 16,
+      "gas:candidate-vibid:1001000225879": 176,
+      "gas:candidate-vibid:1001000217879": 19,
+      "gas:candidate-vibid:1001000201798": 0,
+      "gas:candidate-vibid:212200066725": 5,
+      "special:against-all": 16
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=122000007&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=212200066616&region=0&sub_region=0&type=429",
@@ -5588,16 +5588,16 @@ export const duma_2003_uik_428_region_12_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бочкарев Евгений Михайлович": 17,
-      "Гильманова Резеда Ямиловна": 14,
-      "Казанков Иван Иванович": 436,
-      "Карпочев Владимир Андреевич": 18,
-      "Кислицын Вячеслав Александрович": 29,
-      "Комиссаров Валерий Яковлевич": 593,
-      "Кудрявцев Игорь Михайлович": 28,
-      "Мурадов Намик Ибрагим-оглы": 5,
-      "Свистунов Николай Юрьевич": 43,
-      "Против всех": 173
+      "gas:candidate-vibid:1001000212549": 17,
+      "gas:candidate-vibid:1001000195027": 14,
+      "gas:candidate-vibid:1001000121794": 436,
+      "gas:candidate-vibid:212200067142": 18,
+      "gas:candidate-vibid:212200067260": 29,
+      "gas:candidate-vibid:1001000225879": 593,
+      "gas:candidate-vibid:1001000217879": 28,
+      "gas:candidate-vibid:1001000201798": 5,
+      "gas:candidate-vibid:212200066725": 43,
+      "special:against-all": 173
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=122000008&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=212200066617&region=0&sub_region=0&type=429",
@@ -5647,16 +5647,16 @@ export const duma_2003_uik_428_region_12_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бочкарев Евгений Михайлович": 33,
-      "Гильманова Резеда Ямиловна": 10,
-      "Казанков Иван Иванович": 299,
-      "Карпочев Владимир Андреевич": 20,
-      "Кислицын Вячеслав Александрович": 32,
-      "Комиссаров Валерий Яковлевич": 441,
-      "Кудрявцев Игорь Михайлович": 35,
-      "Мурадов Намик Ибрагим-оглы": 5,
-      "Свистунов Николай Юрьевич": 28,
-      "Против всех": 97
+      "gas:candidate-vibid:1001000212549": 33,
+      "gas:candidate-vibid:1001000195027": 10,
+      "gas:candidate-vibid:1001000121794": 299,
+      "gas:candidate-vibid:212200067142": 20,
+      "gas:candidate-vibid:212200067260": 32,
+      "gas:candidate-vibid:1001000225879": 441,
+      "gas:candidate-vibid:1001000217879": 35,
+      "gas:candidate-vibid:1001000201798": 5,
+      "gas:candidate-vibid:212200066725": 28,
+      "special:against-all": 97
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=122000008&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=212200066617&region=0&sub_region=0&type=429",
@@ -5706,16 +5706,16 @@ export const duma_2003_uik_428_region_12_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бочкарев Евгений Михайлович": 36,
-      "Гильманова Резеда Ямиловна": 8,
-      "Казанков Иван Иванович": 345,
-      "Карпочев Владимир Андреевич": 19,
-      "Кислицын Вячеслав Александрович": 28,
-      "Комиссаров Валерий Яковлевич": 633,
-      "Кудрявцев Игорь Михайлович": 41,
-      "Мурадов Намик Ибрагим-оглы": 2,
-      "Свистунов Николай Юрьевич": 45,
-      "Против всех": 151
+      "gas:candidate-vibid:1001000212549": 36,
+      "gas:candidate-vibid:1001000195027": 8,
+      "gas:candidate-vibid:1001000121794": 345,
+      "gas:candidate-vibid:212200067142": 19,
+      "gas:candidate-vibid:212200067260": 28,
+      "gas:candidate-vibid:1001000225879": 633,
+      "gas:candidate-vibid:1001000217879": 41,
+      "gas:candidate-vibid:1001000201798": 2,
+      "gas:candidate-vibid:212200066725": 45,
+      "special:against-all": 151
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=122000008&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=212200066617&region=0&sub_region=0&type=429",
@@ -5765,16 +5765,16 @@ export const duma_2003_uik_428_region_12_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бочкарев Евгений Михайлович": 23,
-      "Гильманова Резеда Ямиловна": 12,
-      "Казанков Иван Иванович": 257,
-      "Карпочев Владимир Андреевич": 19,
-      "Кислицын Вячеслав Александрович": 34,
-      "Комиссаров Валерий Яковлевич": 449,
-      "Кудрявцев Игорь Михайлович": 25,
-      "Мурадов Намик Ибрагим-оглы": 3,
-      "Свистунов Николай Юрьевич": 25,
-      "Против всех": 134
+      "gas:candidate-vibid:1001000212549": 23,
+      "gas:candidate-vibid:1001000195027": 12,
+      "gas:candidate-vibid:1001000121794": 257,
+      "gas:candidate-vibid:212200067142": 19,
+      "gas:candidate-vibid:212200067260": 34,
+      "gas:candidate-vibid:1001000225879": 449,
+      "gas:candidate-vibid:1001000217879": 25,
+      "gas:candidate-vibid:1001000201798": 3,
+      "gas:candidate-vibid:212200066725": 25,
+      "special:against-all": 134
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=122000008&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=212200066617&region=0&sub_region=0&type=429",
@@ -5824,16 +5824,16 @@ export const duma_2003_uik_428_region_12_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бочкарев Евгений Михайлович": 28,
-      "Гильманова Резеда Ямиловна": 9,
-      "Казанков Иван Иванович": 337,
-      "Карпочев Владимир Андреевич": 16,
-      "Кислицын Вячеслав Александрович": 33,
-      "Комиссаров Валерий Яковлевич": 424,
-      "Кудрявцев Игорь Михайлович": 41,
-      "Мурадов Намик Ибрагим-оглы": 4,
-      "Свистунов Николай Юрьевич": 19,
-      "Против всех": 112
+      "gas:candidate-vibid:1001000212549": 28,
+      "gas:candidate-vibid:1001000195027": 9,
+      "gas:candidate-vibid:1001000121794": 337,
+      "gas:candidate-vibid:212200067142": 16,
+      "gas:candidate-vibid:212200067260": 33,
+      "gas:candidate-vibid:1001000225879": 424,
+      "gas:candidate-vibid:1001000217879": 41,
+      "gas:candidate-vibid:1001000201798": 4,
+      "gas:candidate-vibid:212200066725": 19,
+      "special:against-all": 112
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=122000008&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=212200066617&region=0&sub_region=0&type=429",
@@ -5883,16 +5883,16 @@ export const duma_2003_uik_428_region_12_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бочкарев Евгений Михайлович": 7,
-      "Гильманова Резеда Ямиловна": 8,
-      "Казанков Иван Иванович": 53,
-      "Карпочев Владимир Андреевич": 6,
-      "Кислицын Вячеслав Александрович": 22,
-      "Комиссаров Валерий Яковлевич": 314,
-      "Кудрявцев Игорь Михайлович": 11,
-      "Мурадов Намик Ибрагим-оглы": 4,
-      "Свистунов Николай Юрьевич": 9,
-      "Против всех": 22
+      "gas:candidate-vibid:1001000212549": 7,
+      "gas:candidate-vibid:1001000195027": 8,
+      "gas:candidate-vibid:1001000121794": 53,
+      "gas:candidate-vibid:212200067142": 6,
+      "gas:candidate-vibid:212200067260": 22,
+      "gas:candidate-vibid:1001000225879": 314,
+      "gas:candidate-vibid:1001000217879": 11,
+      "gas:candidate-vibid:1001000201798": 4,
+      "gas:candidate-vibid:212200066725": 9,
+      "special:against-all": 22
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=122000008&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=212200066617&region=0&sub_region=0&type=429",
@@ -5942,16 +5942,16 @@ export const duma_2003_uik_428_region_12_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бочкарев Евгений Михайлович": 19,
-      "Гильманова Резеда Ямиловна": 17,
-      "Казанков Иван Иванович": 112,
-      "Карпочев Владимир Андреевич": 10,
-      "Кислицын Вячеслав Александрович": 38,
-      "Комиссаров Валерий Яковлевич": 533,
-      "Кудрявцев Игорь Михайлович": 8,
-      "Мурадов Намик Ибрагим-оглы": 3,
-      "Свистунов Николай Юрьевич": 32,
-      "Против всех": 64
+      "gas:candidate-vibid:1001000212549": 19,
+      "gas:candidate-vibid:1001000195027": 17,
+      "gas:candidate-vibid:1001000121794": 112,
+      "gas:candidate-vibid:212200067142": 10,
+      "gas:candidate-vibid:212200067260": 38,
+      "gas:candidate-vibid:1001000225879": 533,
+      "gas:candidate-vibid:1001000217879": 8,
+      "gas:candidate-vibid:1001000201798": 3,
+      "gas:candidate-vibid:212200066725": 32,
+      "special:against-all": 64
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=122000008&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=212200066617&region=0&sub_region=0&type=429",
@@ -6001,16 +6001,16 @@ export const duma_2003_uik_428_region_12_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бочкарев Евгений Михайлович": 15,
-      "Гильманова Резеда Ямиловна": 13,
-      "Казанков Иван Иванович": 129,
-      "Карпочев Владимир Андреевич": 9,
-      "Кислицын Вячеслав Александрович": 18,
-      "Комиссаров Валерий Яковлевич": 487,
-      "Кудрявцев Игорь Михайлович": 16,
-      "Мурадов Намик Ибрагим-оглы": 4,
-      "Свистунов Николай Юрьевич": 15,
-      "Против всех": 71
+      "gas:candidate-vibid:1001000212549": 15,
+      "gas:candidate-vibid:1001000195027": 13,
+      "gas:candidate-vibid:1001000121794": 129,
+      "gas:candidate-vibid:212200067142": 9,
+      "gas:candidate-vibid:212200067260": 18,
+      "gas:candidate-vibid:1001000225879": 487,
+      "gas:candidate-vibid:1001000217879": 16,
+      "gas:candidate-vibid:1001000201798": 4,
+      "gas:candidate-vibid:212200066725": 15,
+      "special:against-all": 71
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=122000008&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=212200066617&region=0&sub_region=0&type=429",
@@ -6060,16 +6060,16 @@ export const duma_2003_uik_428_region_12_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бочкарев Евгений Михайлович": 15,
-      "Гильманова Резеда Ямиловна": 11,
-      "Казанков Иван Иванович": 153,
-      "Карпочев Владимир Андреевич": 10,
-      "Кислицын Вячеслав Александрович": 30,
-      "Комиссаров Валерий Яковлевич": 449,
-      "Кудрявцев Игорь Михайлович": 19,
-      "Мурадов Намик Ибрагим-оглы": 2,
-      "Свистунов Николай Юрьевич": 18,
-      "Против всех": 54
+      "gas:candidate-vibid:1001000212549": 15,
+      "gas:candidate-vibid:1001000195027": 11,
+      "gas:candidate-vibid:1001000121794": 153,
+      "gas:candidate-vibid:212200067142": 10,
+      "gas:candidate-vibid:212200067260": 30,
+      "gas:candidate-vibid:1001000225879": 449,
+      "gas:candidate-vibid:1001000217879": 19,
+      "gas:candidate-vibid:1001000201798": 2,
+      "gas:candidate-vibid:212200066725": 18,
+      "special:against-all": 54
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=122000008&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=212200066617&region=0&sub_region=0&type=429",
@@ -6119,16 +6119,16 @@ export const duma_2003_uik_428_region_12_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бочкарев Евгений Михайлович": 19,
-      "Гильманова Резеда Ямиловна": 6,
-      "Казанков Иван Иванович": 136,
-      "Карпочев Владимир Андреевич": 12,
-      "Кислицын Вячеслав Александрович": 30,
-      "Комиссаров Валерий Яковлевич": 400,
-      "Кудрявцев Игорь Михайлович": 24,
-      "Мурадов Намик Ибрагим-оглы": 4,
-      "Свистунов Николай Юрьевич": 19,
-      "Против всех": 82
+      "gas:candidate-vibid:1001000212549": 19,
+      "gas:candidate-vibid:1001000195027": 6,
+      "gas:candidate-vibid:1001000121794": 136,
+      "gas:candidate-vibid:212200067142": 12,
+      "gas:candidate-vibid:212200067260": 30,
+      "gas:candidate-vibid:1001000225879": 400,
+      "gas:candidate-vibid:1001000217879": 24,
+      "gas:candidate-vibid:1001000201798": 4,
+      "gas:candidate-vibid:212200066725": 19,
+      "special:against-all": 82
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=122000008&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=212200066617&region=0&sub_region=0&type=429",
@@ -6178,16 +6178,16 @@ export const duma_2003_uik_428_region_12_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бочкарев Евгений Михайлович": 19,
-      "Гильманова Резеда Ямиловна": 11,
-      "Казанков Иван Иванович": 290,
-      "Карпочев Владимир Андреевич": 16,
-      "Кислицын Вячеслав Александрович": 29,
-      "Комиссаров Валерий Яковлевич": 470,
-      "Кудрявцев Игорь Михайлович": 21,
-      "Мурадов Намик Ибрагим-оглы": 2,
-      "Свистунов Николай Юрьевич": 7,
-      "Против всех": 62
+      "gas:candidate-vibid:1001000212549": 19,
+      "gas:candidate-vibid:1001000195027": 11,
+      "gas:candidate-vibid:1001000121794": 290,
+      "gas:candidate-vibid:212200067142": 16,
+      "gas:candidate-vibid:212200067260": 29,
+      "gas:candidate-vibid:1001000225879": 470,
+      "gas:candidate-vibid:1001000217879": 21,
+      "gas:candidate-vibid:1001000201798": 2,
+      "gas:candidate-vibid:212200066725": 7,
+      "special:against-all": 62
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=122000008&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=212200066617&region=0&sub_region=0&type=429",
@@ -6237,16 +6237,16 @@ export const duma_2003_uik_428_region_12_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бочкарев Евгений Михайлович": 10,
-      "Гильманова Резеда Ямиловна": 2,
-      "Казанков Иван Иванович": 135,
-      "Карпочев Владимир Андреевич": 3,
-      "Кислицын Вячеслав Александрович": 10,
-      "Комиссаров Валерий Яковлевич": 123,
-      "Кудрявцев Игорь Михайлович": 6,
-      "Мурадов Намик Ибрагим-оглы": 2,
-      "Свистунов Николай Юрьевич": 1,
-      "Против всех": 13
+      "gas:candidate-vibid:1001000212549": 10,
+      "gas:candidate-vibid:1001000195027": 2,
+      "gas:candidate-vibid:1001000121794": 135,
+      "gas:candidate-vibid:212200067142": 3,
+      "gas:candidate-vibid:212200067260": 10,
+      "gas:candidate-vibid:1001000225879": 123,
+      "gas:candidate-vibid:1001000217879": 6,
+      "gas:candidate-vibid:1001000201798": 2,
+      "gas:candidate-vibid:212200066725": 1,
+      "special:against-all": 13
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=122000008&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=212200066617&region=0&sub_region=0&type=429",
@@ -6296,16 +6296,16 @@ export const duma_2003_uik_428_region_12_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бочкарев Евгений Михайлович": 2,
-      "Гильманова Резеда Ямиловна": 1,
-      "Казанков Иван Иванович": 71,
-      "Карпочев Владимир Андреевич": 1,
-      "Кислицын Вячеслав Александрович": 0,
-      "Комиссаров Валерий Яковлевич": 15,
-      "Кудрявцев Игорь Михайлович": 2,
-      "Мурадов Намик Ибрагим-оглы": 0,
-      "Свистунов Николай Юрьевич": 0,
-      "Против всех": 6
+      "gas:candidate-vibid:1001000212549": 2,
+      "gas:candidate-vibid:1001000195027": 1,
+      "gas:candidate-vibid:1001000121794": 71,
+      "gas:candidate-vibid:212200067142": 1,
+      "gas:candidate-vibid:212200067260": 0,
+      "gas:candidate-vibid:1001000225879": 15,
+      "gas:candidate-vibid:1001000217879": 2,
+      "gas:candidate-vibid:1001000201798": 0,
+      "gas:candidate-vibid:212200066725": 0,
+      "special:against-all": 6
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=122000008&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=212200066617&region=0&sub_region=0&type=429",
@@ -6355,16 +6355,16 @@ export const duma_2003_uik_428_region_12_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бочкарев Евгений Михайлович": 12,
-      "Гильманова Резеда Ямиловна": 4,
-      "Казанков Иван Иванович": 751,
-      "Карпочев Владимир Андреевич": 6,
-      "Кислицын Вячеслав Александрович": 11,
-      "Комиссаров Валерий Яковлевич": 335,
-      "Кудрявцев Игорь Михайлович": 16,
-      "Мурадов Намик Ибрагим-оглы": 1,
-      "Свистунов Николай Юрьевич": 13,
-      "Против всех": 35
+      "gas:candidate-vibid:1001000212549": 12,
+      "gas:candidate-vibid:1001000195027": 4,
+      "gas:candidate-vibid:1001000121794": 751,
+      "gas:candidate-vibid:212200067142": 6,
+      "gas:candidate-vibid:212200067260": 11,
+      "gas:candidate-vibid:1001000225879": 335,
+      "gas:candidate-vibid:1001000217879": 16,
+      "gas:candidate-vibid:1001000201798": 1,
+      "gas:candidate-vibid:212200066725": 13,
+      "special:against-all": 35
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=122000008&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=212200066617&region=0&sub_region=0&type=429",
@@ -6414,16 +6414,16 @@ export const duma_2003_uik_428_region_12_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бочкарев Евгений Михайлович": 7,
-      "Гильманова Резеда Ямиловна": 3,
-      "Казанков Иван Иванович": 194,
-      "Карпочев Владимир Андреевич": 7,
-      "Кислицын Вячеслав Александрович": 21,
-      "Комиссаров Валерий Яковлевич": 350,
-      "Кудрявцев Игорь Михайлович": 11,
-      "Мурадов Намик Ибрагим-оглы": 1,
-      "Свистунов Николай Юрьевич": 11,
-      "Против всех": 51
+      "gas:candidate-vibid:1001000212549": 7,
+      "gas:candidate-vibid:1001000195027": 3,
+      "gas:candidate-vibid:1001000121794": 194,
+      "gas:candidate-vibid:212200067142": 7,
+      "gas:candidate-vibid:212200067260": 21,
+      "gas:candidate-vibid:1001000225879": 350,
+      "gas:candidate-vibid:1001000217879": 11,
+      "gas:candidate-vibid:1001000201798": 1,
+      "gas:candidate-vibid:212200066725": 11,
+      "special:against-all": 51
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=122000008&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=212200066617&region=0&sub_region=0&type=429",
@@ -6473,16 +6473,16 @@ export const duma_2003_uik_428_region_12_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бочкарев Евгений Михайлович": 4,
-      "Гильманова Резеда Ямиловна": 1,
-      "Казанков Иван Иванович": 34,
-      "Карпочев Владимир Андреевич": 1,
-      "Кислицын Вячеслав Александрович": 12,
-      "Комиссаров Валерий Яковлевич": 130,
-      "Кудрявцев Игорь Михайлович": 2,
-      "Мурадов Намик Ибрагим-оглы": 1,
-      "Свистунов Николай Юрьевич": 4,
-      "Против всех": 9
+      "gas:candidate-vibid:1001000212549": 4,
+      "gas:candidate-vibid:1001000195027": 1,
+      "gas:candidate-vibid:1001000121794": 34,
+      "gas:candidate-vibid:212200067142": 1,
+      "gas:candidate-vibid:212200067260": 12,
+      "gas:candidate-vibid:1001000225879": 130,
+      "gas:candidate-vibid:1001000217879": 2,
+      "gas:candidate-vibid:1001000201798": 1,
+      "gas:candidate-vibid:212200066725": 4,
+      "special:against-all": 9
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=122000008&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=212200066617&region=0&sub_region=0&type=429",
@@ -6532,16 +6532,16 @@ export const duma_2003_uik_428_region_12_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бочкарев Евгений Михайлович": 2,
-      "Гильманова Резеда Ямиловна": 0,
-      "Казанков Иван Иванович": 15,
-      "Карпочев Владимир Андреевич": 1,
-      "Кислицын Вячеслав Александрович": 4,
-      "Комиссаров Валерий Яковлевич": 84,
-      "Кудрявцев Игорь Михайлович": 8,
-      "Мурадов Намик Ибрагим-оглы": 1,
-      "Свистунов Николай Юрьевич": 1,
-      "Против всех": 4
+      "gas:candidate-vibid:1001000212549": 2,
+      "gas:candidate-vibid:1001000195027": 0,
+      "gas:candidate-vibid:1001000121794": 15,
+      "gas:candidate-vibid:212200067142": 1,
+      "gas:candidate-vibid:212200067260": 4,
+      "gas:candidate-vibid:1001000225879": 84,
+      "gas:candidate-vibid:1001000217879": 8,
+      "gas:candidate-vibid:1001000201798": 1,
+      "gas:candidate-vibid:212200066725": 1,
+      "special:against-all": 4
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=122000008&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=212200066617&region=0&sub_region=0&type=429",
@@ -6591,16 +6591,16 @@ export const duma_2003_uik_428_region_12_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бочкарев Евгений Михайлович": 27,
-      "Гильманова Резеда Ямиловна": 19,
-      "Казанков Иван Иванович": 214,
-      "Карпочев Владимир Андреевич": 6,
-      "Кислицын Вячеслав Александрович": 29,
-      "Комиссаров Валерий Яковлевич": 519,
-      "Кудрявцев Игорь Михайлович": 20,
-      "Мурадов Намик Ибрагим-оглы": 3,
-      "Свистунов Николай Юрьевич": 4,
-      "Против всех": 90
+      "gas:candidate-vibid:1001000212549": 27,
+      "gas:candidate-vibid:1001000195027": 19,
+      "gas:candidate-vibid:1001000121794": 214,
+      "gas:candidate-vibid:212200067142": 6,
+      "gas:candidate-vibid:212200067260": 29,
+      "gas:candidate-vibid:1001000225879": 519,
+      "gas:candidate-vibid:1001000217879": 20,
+      "gas:candidate-vibid:1001000201798": 3,
+      "gas:candidate-vibid:212200066725": 4,
+      "special:against-all": 90
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=122000008&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=212200066617&region=0&sub_region=0&type=429",
@@ -6650,16 +6650,16 @@ export const duma_2003_uik_428_region_12_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бочкарев Евгений Михайлович": 11,
-      "Гильманова Резеда Ямиловна": 10,
-      "Казанков Иван Иванович": 79,
-      "Карпочев Владимир Андреевич": 5,
-      "Кислицын Вячеслав Александрович": 31,
-      "Комиссаров Валерий Яковлевич": 301,
-      "Кудрявцев Игорь Михайлович": 10,
-      "Мурадов Намик Ибрагим-оглы": 4,
-      "Свистунов Николай Юрьевич": 10,
-      "Против всех": 53
+      "gas:candidate-vibid:1001000212549": 11,
+      "gas:candidate-vibid:1001000195027": 10,
+      "gas:candidate-vibid:1001000121794": 79,
+      "gas:candidate-vibid:212200067142": 5,
+      "gas:candidate-vibid:212200067260": 31,
+      "gas:candidate-vibid:1001000225879": 301,
+      "gas:candidate-vibid:1001000217879": 10,
+      "gas:candidate-vibid:1001000201798": 4,
+      "gas:candidate-vibid:212200066725": 10,
+      "special:against-all": 53
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=122000008&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=212200066617&region=0&sub_region=0&type=429",
@@ -6709,16 +6709,16 @@ export const duma_2003_uik_428_region_12_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бочкарев Евгений Михайлович": 43,
-      "Гильманова Резеда Ямиловна": 2,
-      "Казанков Иван Иванович": 54,
-      "Карпочев Владимир Андреевич": 13,
-      "Кислицын Вячеслав Александрович": 11,
-      "Комиссаров Валерий Яковлевич": 282,
-      "Кудрявцев Игорь Михайлович": 30,
-      "Мурадов Намик Ибрагим-оглы": 0,
-      "Свистунов Николай Юрьевич": 6,
-      "Против всех": 13
+      "gas:candidate-vibid:1001000212549": 43,
+      "gas:candidate-vibid:1001000195027": 2,
+      "gas:candidate-vibid:1001000121794": 54,
+      "gas:candidate-vibid:212200067142": 13,
+      "gas:candidate-vibid:212200067260": 11,
+      "gas:candidate-vibid:1001000225879": 282,
+      "gas:candidate-vibid:1001000217879": 30,
+      "gas:candidate-vibid:1001000201798": 0,
+      "gas:candidate-vibid:212200066725": 6,
+      "special:against-all": 13
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=122000008&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=212200066617&region=0&sub_region=0&type=429",
@@ -6768,16 +6768,16 @@ export const duma_2003_uik_428_region_12_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бочкарев Евгений Михайлович": 10,
-      "Гильманова Резеда Ямиловна": 2,
-      "Казанков Иван Иванович": 68,
-      "Карпочев Владимир Андреевич": 10,
-      "Кислицын Вячеслав Александрович": 10,
-      "Комиссаров Валерий Яковлевич": 175,
-      "Кудрявцев Игорь Михайлович": 30,
-      "Мурадов Намик Ибрагим-оглы": 0,
-      "Свистунов Николай Юрьевич": 3,
-      "Против всех": 18
+      "gas:candidate-vibid:1001000212549": 10,
+      "gas:candidate-vibid:1001000195027": 2,
+      "gas:candidate-vibid:1001000121794": 68,
+      "gas:candidate-vibid:212200067142": 10,
+      "gas:candidate-vibid:212200067260": 10,
+      "gas:candidate-vibid:1001000225879": 175,
+      "gas:candidate-vibid:1001000217879": 30,
+      "gas:candidate-vibid:1001000201798": 0,
+      "gas:candidate-vibid:212200066725": 3,
+      "special:against-all": 18
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=122000008&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=212200066617&region=0&sub_region=0&type=429",
@@ -6827,16 +6827,16 @@ export const duma_2003_uik_428_region_12_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бочкарев Евгений Михайлович": 2,
-      "Гильманова Резеда Ямиловна": 0,
-      "Казанков Иван Иванович": 66,
-      "Карпочев Владимир Андреевич": 1,
-      "Кислицын Вячеслав Александрович": 0,
-      "Комиссаров Валерий Яковлевич": 87,
-      "Кудрявцев Игорь Михайлович": 0,
-      "Мурадов Намик Ибрагим-оглы": 0,
-      "Свистунов Николай Юрьевич": 2,
-      "Против всех": 11
+      "gas:candidate-vibid:1001000212549": 2,
+      "gas:candidate-vibid:1001000195027": 0,
+      "gas:candidate-vibid:1001000121794": 66,
+      "gas:candidate-vibid:212200067142": 1,
+      "gas:candidate-vibid:212200067260": 0,
+      "gas:candidate-vibid:1001000225879": 87,
+      "gas:candidate-vibid:1001000217879": 0,
+      "gas:candidate-vibid:1001000201798": 0,
+      "gas:candidate-vibid:212200066725": 2,
+      "special:against-all": 11
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=122000008&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=212200066617&region=0&sub_region=0&type=429",
@@ -6886,16 +6886,16 @@ export const duma_2003_uik_428_region_12_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бочкарев Евгений Михайлович": 0,
-      "Гильманова Резеда Ямиловна": 1,
-      "Казанков Иван Иванович": 12,
-      "Карпочев Владимир Андреевич": 0,
-      "Кислицын Вячеслав Александрович": 1,
-      "Комиссаров Валерий Яковлевич": 31,
-      "Кудрявцев Игорь Михайлович": 0,
-      "Мурадов Намик Ибрагим-оглы": 0,
-      "Свистунов Николай Юрьевич": 0,
-      "Против всех": 1
+      "gas:candidate-vibid:1001000212549": 0,
+      "gas:candidate-vibid:1001000195027": 1,
+      "gas:candidate-vibid:1001000121794": 12,
+      "gas:candidate-vibid:212200067142": 0,
+      "gas:candidate-vibid:212200067260": 1,
+      "gas:candidate-vibid:1001000225879": 31,
+      "gas:candidate-vibid:1001000217879": 0,
+      "gas:candidate-vibid:1001000201798": 0,
+      "gas:candidate-vibid:212200066725": 0,
+      "special:against-all": 1
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=122000008&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=212200066617&region=0&sub_region=0&type=429",
@@ -6945,16 +6945,16 @@ export const duma_2003_uik_428_region_12_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бочкарев Евгений Михайлович": 4,
-      "Гильманова Резеда Ямиловна": 1,
-      "Казанков Иван Иванович": 68,
-      "Карпочев Владимир Андреевич": 8,
-      "Кислицын Вячеслав Александрович": 12,
-      "Комиссаров Валерий Яковлевич": 220,
-      "Кудрявцев Игорь Михайлович": 31,
-      "Мурадов Намик Ибрагим-оглы": 1,
-      "Свистунов Николай Юрьевич": 4,
-      "Против всех": 9
+      "gas:candidate-vibid:1001000212549": 4,
+      "gas:candidate-vibid:1001000195027": 1,
+      "gas:candidate-vibid:1001000121794": 68,
+      "gas:candidate-vibid:212200067142": 8,
+      "gas:candidate-vibid:212200067260": 12,
+      "gas:candidate-vibid:1001000225879": 220,
+      "gas:candidate-vibid:1001000217879": 31,
+      "gas:candidate-vibid:1001000201798": 1,
+      "gas:candidate-vibid:212200066725": 4,
+      "special:against-all": 9
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=122000008&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=212200066617&region=0&sub_region=0&type=429",
@@ -7004,16 +7004,16 @@ export const duma_2003_uik_428_region_12_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бочкарев Евгений Михайлович": 0,
-      "Гильманова Резеда Ямиловна": 3,
-      "Казанков Иван Иванович": 20,
-      "Карпочев Владимир Андреевич": 0,
-      "Кислицын Вячеслав Александрович": 2,
-      "Комиссаров Валерий Яковлевич": 30,
-      "Кудрявцев Игорь Михайлович": 0,
-      "Мурадов Намик Ибрагим-оглы": 0,
-      "Свистунов Николай Юрьевич": 0,
-      "Против всех": 1
+      "gas:candidate-vibid:1001000212549": 0,
+      "gas:candidate-vibid:1001000195027": 3,
+      "gas:candidate-vibid:1001000121794": 20,
+      "gas:candidate-vibid:212200067142": 0,
+      "gas:candidate-vibid:212200067260": 2,
+      "gas:candidate-vibid:1001000225879": 30,
+      "gas:candidate-vibid:1001000217879": 0,
+      "gas:candidate-vibid:1001000201798": 0,
+      "gas:candidate-vibid:212200066725": 0,
+      "special:against-all": 1
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=122000008&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=212200066617&region=0&sub_region=0&type=429",
@@ -7063,16 +7063,16 @@ export const duma_2003_uik_428_region_12_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бочкарев Евгений Михайлович": 3,
-      "Гильманова Резеда Ямиловна": 1,
-      "Казанков Иван Иванович": 69,
-      "Карпочев Владимир Андреевич": 3,
-      "Кислицын Вячеслав Александрович": 10,
-      "Комиссаров Валерий Яковлевич": 139,
-      "Кудрявцев Игорь Михайлович": 10,
-      "Мурадов Намик Ибрагим-оглы": 2,
-      "Свистунов Николай Юрьевич": 2,
-      "Против всех": 14
+      "gas:candidate-vibid:1001000212549": 3,
+      "gas:candidate-vibid:1001000195027": 1,
+      "gas:candidate-vibid:1001000121794": 69,
+      "gas:candidate-vibid:212200067142": 3,
+      "gas:candidate-vibid:212200067260": 10,
+      "gas:candidate-vibid:1001000225879": 139,
+      "gas:candidate-vibid:1001000217879": 10,
+      "gas:candidate-vibid:1001000201798": 2,
+      "gas:candidate-vibid:212200066725": 2,
+      "special:against-all": 14
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=122000008&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=212200066617&region=0&sub_region=0&type=429",
@@ -7122,16 +7122,16 @@ export const duma_2003_uik_428_region_12_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бочкарев Евгений Михайлович": 1,
-      "Гильманова Резеда Ямиловна": 0,
-      "Казанков Иван Иванович": 15,
-      "Карпочев Владимир Андреевич": 1,
-      "Кислицын Вячеслав Александрович": 1,
-      "Комиссаров Валерий Яковлевич": 10,
-      "Кудрявцев Игорь Михайлович": 4,
-      "Мурадов Намик Ибрагим-оглы": 0,
-      "Свистунов Николай Юрьевич": 0,
-      "Против всех": 1
+      "gas:candidate-vibid:1001000212549": 1,
+      "gas:candidate-vibid:1001000195027": 0,
+      "gas:candidate-vibid:1001000121794": 15,
+      "gas:candidate-vibid:212200067142": 1,
+      "gas:candidate-vibid:212200067260": 1,
+      "gas:candidate-vibid:1001000225879": 10,
+      "gas:candidate-vibid:1001000217879": 4,
+      "gas:candidate-vibid:1001000201798": 0,
+      "gas:candidate-vibid:212200066725": 0,
+      "special:against-all": 1
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=122000008&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=212200066617&region=0&sub_region=0&type=429",
@@ -7181,16 +7181,16 @@ export const duma_2003_uik_428_region_12_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бочкарев Евгений Михайлович": 5,
-      "Гильманова Резеда Ямиловна": 3,
-      "Казанков Иван Иванович": 73,
-      "Карпочев Владимир Андреевич": 3,
-      "Кислицын Вячеслав Александрович": 5,
-      "Комиссаров Валерий Яковлевич": 115,
-      "Кудрявцев Игорь Михайлович": 9,
-      "Мурадов Намик Ибрагим-оглы": 1,
-      "Свистунов Николай Юрьевич": 3,
-      "Против всех": 15
+      "gas:candidate-vibid:1001000212549": 5,
+      "gas:candidate-vibid:1001000195027": 3,
+      "gas:candidate-vibid:1001000121794": 73,
+      "gas:candidate-vibid:212200067142": 3,
+      "gas:candidate-vibid:212200067260": 5,
+      "gas:candidate-vibid:1001000225879": 115,
+      "gas:candidate-vibid:1001000217879": 9,
+      "gas:candidate-vibid:1001000201798": 1,
+      "gas:candidate-vibid:212200066725": 3,
+      "special:against-all": 15
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=122000008&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=212200066617&region=0&sub_region=0&type=429",
@@ -7240,16 +7240,16 @@ export const duma_2003_uik_428_region_12_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бочкарев Евгений Михайлович": 14,
-      "Гильманова Резеда Ямиловна": 0,
-      "Казанков Иван Иванович": 245,
-      "Карпочев Владимир Андреевич": 18,
-      "Кислицын Вячеслав Александрович": 26,
-      "Комиссаров Валерий Яковлевич": 407,
-      "Кудрявцев Игорь Михайлович": 34,
-      "Мурадов Намик Ибрагим-оглы": 4,
-      "Свистунов Николай Юрьевич": 13,
-      "Против всех": 61
+      "gas:candidate-vibid:1001000212549": 14,
+      "gas:candidate-vibid:1001000195027": 0,
+      "gas:candidate-vibid:1001000121794": 245,
+      "gas:candidate-vibid:212200067142": 18,
+      "gas:candidate-vibid:212200067260": 26,
+      "gas:candidate-vibid:1001000225879": 407,
+      "gas:candidate-vibid:1001000217879": 34,
+      "gas:candidate-vibid:1001000201798": 4,
+      "gas:candidate-vibid:212200066725": 13,
+      "special:against-all": 61
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=122000008&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=212200066617&region=0&sub_region=0&type=429",
@@ -7299,16 +7299,16 @@ export const duma_2003_uik_428_region_12_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бочкарев Евгений Михайлович": 16,
-      "Гильманова Резеда Ямиловна": 3,
-      "Казанков Иван Иванович": 239,
-      "Карпочев Владимир Андреевич": 12,
-      "Кислицын Вячеслав Александрович": 14,
-      "Комиссаров Валерий Яковлевич": 236,
-      "Кудрявцев Игорь Михайлович": 31,
-      "Мурадов Намик Ибрагим-оглы": 1,
-      "Свистунов Николай Юрьевич": 3,
-      "Против всех": 25
+      "gas:candidate-vibid:1001000212549": 16,
+      "gas:candidate-vibid:1001000195027": 3,
+      "gas:candidate-vibid:1001000121794": 239,
+      "gas:candidate-vibid:212200067142": 12,
+      "gas:candidate-vibid:212200067260": 14,
+      "gas:candidate-vibid:1001000225879": 236,
+      "gas:candidate-vibid:1001000217879": 31,
+      "gas:candidate-vibid:1001000201798": 1,
+      "gas:candidate-vibid:212200066725": 3,
+      "special:against-all": 25
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=122000008&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=212200066617&region=0&sub_region=0&type=429",
@@ -7358,16 +7358,16 @@ export const duma_2003_uik_428_region_12_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бочкарев Евгений Михайлович": 2,
-      "Гильманова Резеда Ямиловна": 0,
-      "Казанков Иван Иванович": 82,
-      "Карпочев Владимир Андреевич": 4,
-      "Кислицын Вячеслав Александрович": 7,
-      "Комиссаров Валерий Яковлевич": 221,
-      "Кудрявцев Игорь Михайлович": 12,
-      "Мурадов Намик Ибрагим-оглы": 2,
-      "Свистунов Николай Юрьевич": 2,
-      "Против всех": 10
+      "gas:candidate-vibid:1001000212549": 2,
+      "gas:candidate-vibid:1001000195027": 0,
+      "gas:candidate-vibid:1001000121794": 82,
+      "gas:candidate-vibid:212200067142": 4,
+      "gas:candidate-vibid:212200067260": 7,
+      "gas:candidate-vibid:1001000225879": 221,
+      "gas:candidate-vibid:1001000217879": 12,
+      "gas:candidate-vibid:1001000201798": 2,
+      "gas:candidate-vibid:212200066725": 2,
+      "special:against-all": 10
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=122000008&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=212200066617&region=0&sub_region=0&type=429",
@@ -7417,16 +7417,16 @@ export const duma_2003_uik_428_region_12_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бочкарев Евгений Михайлович": 4,
-      "Гильманова Резеда Ямиловна": 6,
-      "Казанков Иван Иванович": 96,
-      "Карпочев Владимир Андреевич": 2,
-      "Кислицын Вячеслав Александрович": 3,
-      "Комиссаров Валерий Яковлевич": 168,
-      "Кудрявцев Игорь Михайлович": 8,
-      "Мурадов Намик Ибрагим-оглы": 0,
-      "Свистунов Николай Юрьевич": 2,
-      "Против всех": 10
+      "gas:candidate-vibid:1001000212549": 4,
+      "gas:candidate-vibid:1001000195027": 6,
+      "gas:candidate-vibid:1001000121794": 96,
+      "gas:candidate-vibid:212200067142": 2,
+      "gas:candidate-vibid:212200067260": 3,
+      "gas:candidate-vibid:1001000225879": 168,
+      "gas:candidate-vibid:1001000217879": 8,
+      "gas:candidate-vibid:1001000201798": 0,
+      "gas:candidate-vibid:212200066725": 2,
+      "special:against-all": 10
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=122000008&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=212200066617&region=0&sub_region=0&type=429",
@@ -7476,16 +7476,16 @@ export const duma_2003_uik_428_region_12_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бочкарев Евгений Михайлович": 13,
-      "Гильманова Резеда Ямиловна": 1,
-      "Казанков Иван Иванович": 194,
-      "Карпочев Владимир Андреевич": 1,
-      "Кислицын Вячеслав Александрович": 10,
-      "Комиссаров Валерий Яковлевич": 212,
-      "Кудрявцев Игорь Михайлович": 9,
-      "Мурадов Намик Ибрагим-оглы": 1,
-      "Свистунов Николай Юрьевич": 5,
-      "Против всех": 16
+      "gas:candidate-vibid:1001000212549": 13,
+      "gas:candidate-vibid:1001000195027": 1,
+      "gas:candidate-vibid:1001000121794": 194,
+      "gas:candidate-vibid:212200067142": 1,
+      "gas:candidate-vibid:212200067260": 10,
+      "gas:candidate-vibid:1001000225879": 212,
+      "gas:candidate-vibid:1001000217879": 9,
+      "gas:candidate-vibid:1001000201798": 1,
+      "gas:candidate-vibid:212200066725": 5,
+      "special:against-all": 16
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=122000008&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=212200066617&region=0&sub_region=0&type=429",
@@ -7535,16 +7535,16 @@ export const duma_2003_uik_428_region_12_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бочкарев Евгений Михайлович": 0,
-      "Гильманова Резеда Ямиловна": 0,
-      "Казанков Иван Иванович": 21,
-      "Карпочев Владимир Андреевич": 0,
-      "Кислицын Вячеслав Александрович": 2,
-      "Комиссаров Валерий Яковлевич": 72,
-      "Кудрявцев Игорь Михайлович": 0,
-      "Мурадов Намик Ибрагим-оглы": 0,
-      "Свистунов Николай Юрьевич": 0,
-      "Против всех": 8
+      "gas:candidate-vibid:1001000212549": 0,
+      "gas:candidate-vibid:1001000195027": 0,
+      "gas:candidate-vibid:1001000121794": 21,
+      "gas:candidate-vibid:212200067142": 0,
+      "gas:candidate-vibid:212200067260": 2,
+      "gas:candidate-vibid:1001000225879": 72,
+      "gas:candidate-vibid:1001000217879": 0,
+      "gas:candidate-vibid:1001000201798": 0,
+      "gas:candidate-vibid:212200066725": 0,
+      "special:against-all": 8
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=122000008&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=212200066617&region=0&sub_region=0&type=429",
@@ -7594,16 +7594,16 @@ export const duma_2003_uik_428_region_12_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бочкарев Евгений Михайлович": 5,
-      "Гильманова Резеда Ямиловна": 0,
-      "Казанков Иван Иванович": 18,
-      "Карпочев Владимир Андреевич": 0,
-      "Кислицын Вячеслав Александрович": 5,
-      "Комиссаров Валерий Яковлевич": 93,
-      "Кудрявцев Игорь Михайлович": 3,
-      "Мурадов Намик Ибрагим-оглы": 2,
-      "Свистунов Николай Юрьевич": 3,
-      "Против всех": 7
+      "gas:candidate-vibid:1001000212549": 5,
+      "gas:candidate-vibid:1001000195027": 0,
+      "gas:candidate-vibid:1001000121794": 18,
+      "gas:candidate-vibid:212200067142": 0,
+      "gas:candidate-vibid:212200067260": 5,
+      "gas:candidate-vibid:1001000225879": 93,
+      "gas:candidate-vibid:1001000217879": 3,
+      "gas:candidate-vibid:1001000201798": 2,
+      "gas:candidate-vibid:212200066725": 3,
+      "special:against-all": 7
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=122000008&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=212200066617&region=0&sub_region=0&type=429",
@@ -7653,16 +7653,16 @@ export const duma_2003_uik_428_region_12_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бочкарев Евгений Михайлович": 3,
-      "Гильманова Резеда Ямиловна": 0,
-      "Казанков Иван Иванович": 49,
-      "Карпочев Владимир Андреевич": 1,
-      "Кислицын Вячеслав Александрович": 7,
-      "Комиссаров Валерий Яковлевич": 134,
-      "Кудрявцев Игорь Михайлович": 6,
-      "Мурадов Намик Ибрагим-оглы": 2,
-      "Свистунов Николай Юрьевич": 3,
-      "Против всех": 15
+      "gas:candidate-vibid:1001000212549": 3,
+      "gas:candidate-vibid:1001000195027": 0,
+      "gas:candidate-vibid:1001000121794": 49,
+      "gas:candidate-vibid:212200067142": 1,
+      "gas:candidate-vibid:212200067260": 7,
+      "gas:candidate-vibid:1001000225879": 134,
+      "gas:candidate-vibid:1001000217879": 6,
+      "gas:candidate-vibid:1001000201798": 2,
+      "gas:candidate-vibid:212200066725": 3,
+      "special:against-all": 15
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=122000008&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=212200066617&region=0&sub_region=0&type=429",
@@ -7712,16 +7712,16 @@ export const duma_2003_uik_428_region_12_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бочкарев Евгений Михайлович": 28,
-      "Гильманова Резеда Ямиловна": 11,
-      "Казанков Иван Иванович": 103,
-      "Карпочев Владимир Андреевич": 1,
-      "Кислицын Вячеслав Александрович": 13,
-      "Комиссаров Валерий Яковлевич": 155,
-      "Кудрявцев Игорь Михайлович": 43,
-      "Мурадов Намик Ибрагим-оглы": 7,
-      "Свистунов Николай Юрьевич": 15,
-      "Против всех": 118
+      "gas:candidate-vibid:1001000212549": 28,
+      "gas:candidate-vibid:1001000195027": 11,
+      "gas:candidate-vibid:1001000121794": 103,
+      "gas:candidate-vibid:212200067142": 1,
+      "gas:candidate-vibid:212200067260": 13,
+      "gas:candidate-vibid:1001000225879": 155,
+      "gas:candidate-vibid:1001000217879": 43,
+      "gas:candidate-vibid:1001000201798": 7,
+      "gas:candidate-vibid:212200066725": 15,
+      "special:against-all": 118
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=122000011&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=212200066620&region=0&sub_region=0&type=429",
@@ -7771,16 +7771,16 @@ export const duma_2003_uik_428_region_12_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бочкарев Евгений Михайлович": 32,
-      "Гильманова Резеда Ямиловна": 3,
-      "Казанков Иван Иванович": 125,
-      "Карпочев Владимир Андреевич": 6,
-      "Кислицын Вячеслав Александрович": 27,
-      "Комиссаров Валерий Яковлевич": 144,
-      "Кудрявцев Игорь Михайлович": 44,
-      "Мурадов Намик Ибрагим-оглы": 1,
-      "Свистунов Николай Юрьевич": 31,
-      "Против всех": 92
+      "gas:candidate-vibid:1001000212549": 32,
+      "gas:candidate-vibid:1001000195027": 3,
+      "gas:candidate-vibid:1001000121794": 125,
+      "gas:candidate-vibid:212200067142": 6,
+      "gas:candidate-vibid:212200067260": 27,
+      "gas:candidate-vibid:1001000225879": 144,
+      "gas:candidate-vibid:1001000217879": 44,
+      "gas:candidate-vibid:1001000201798": 1,
+      "gas:candidate-vibid:212200066725": 31,
+      "special:against-all": 92
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=122000011&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=212200066620&region=0&sub_region=0&type=429",
@@ -7830,16 +7830,16 @@ export const duma_2003_uik_428_region_12_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бочкарев Евгений Михайлович": 56,
-      "Гильманова Резеда Ямиловна": 13,
-      "Казанков Иван Иванович": 225,
-      "Карпочев Владимир Андреевич": 7,
-      "Кислицын Вячеслав Александрович": 38,
-      "Комиссаров Валерий Яковлевич": 241,
-      "Кудрявцев Игорь Михайлович": 36,
-      "Мурадов Намик Ибрагим-оглы": 1,
-      "Свистунов Николай Юрьевич": 40,
-      "Против всех": 109
+      "gas:candidate-vibid:1001000212549": 56,
+      "gas:candidate-vibid:1001000195027": 13,
+      "gas:candidate-vibid:1001000121794": 225,
+      "gas:candidate-vibid:212200067142": 7,
+      "gas:candidate-vibid:212200067260": 38,
+      "gas:candidate-vibid:1001000225879": 241,
+      "gas:candidate-vibid:1001000217879": 36,
+      "gas:candidate-vibid:1001000201798": 1,
+      "gas:candidate-vibid:212200066725": 40,
+      "special:against-all": 109
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=122000011&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=212200066620&region=0&sub_region=0&type=429",
@@ -7889,16 +7889,16 @@ export const duma_2003_uik_428_region_12_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бочкарев Евгений Михайлович": 75,
-      "Гильманова Резеда Ямиловна": 18,
-      "Казанков Иван Иванович": 226,
-      "Карпочев Владимир Андреевич": 9,
-      "Кислицын Вячеслав Александрович": 60,
-      "Комиссаров Валерий Яковлевич": 343,
-      "Кудрявцев Игорь Михайлович": 72,
-      "Мурадов Намик Ибрагим-оглы": 9,
-      "Свистунов Николай Юрьевич": 55,
-      "Против всех": 183
+      "gas:candidate-vibid:1001000212549": 75,
+      "gas:candidate-vibid:1001000195027": 18,
+      "gas:candidate-vibid:1001000121794": 226,
+      "gas:candidate-vibid:212200067142": 9,
+      "gas:candidate-vibid:212200067260": 60,
+      "gas:candidate-vibid:1001000225879": 343,
+      "gas:candidate-vibid:1001000217879": 72,
+      "gas:candidate-vibid:1001000201798": 9,
+      "gas:candidate-vibid:212200066725": 55,
+      "special:against-all": 183
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=122000011&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=212200066620&region=0&sub_region=0&type=429",
@@ -7948,16 +7948,16 @@ export const duma_2003_uik_428_region_12_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бочкарев Евгений Михайлович": 61,
-      "Гильманова Резеда Ямиловна": 17,
-      "Казанков Иван Иванович": 238,
-      "Карпочев Владимир Андреевич": 7,
-      "Кислицын Вячеслав Александрович": 52,
-      "Комиссаров Валерий Яковлевич": 321,
-      "Кудрявцев Игорь Михайлович": 70,
-      "Мурадов Намик Ибрагим-оглы": 3,
-      "Свистунов Николай Юрьевич": 42,
-      "Против всех": 151
+      "gas:candidate-vibid:1001000212549": 61,
+      "gas:candidate-vibid:1001000195027": 17,
+      "gas:candidate-vibid:1001000121794": 238,
+      "gas:candidate-vibid:212200067142": 7,
+      "gas:candidate-vibid:212200067260": 52,
+      "gas:candidate-vibid:1001000225879": 321,
+      "gas:candidate-vibid:1001000217879": 70,
+      "gas:candidate-vibid:1001000201798": 3,
+      "gas:candidate-vibid:212200066725": 42,
+      "special:against-all": 151
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=122000011&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=212200066620&region=0&sub_region=0&type=429",
@@ -8007,16 +8007,16 @@ export const duma_2003_uik_428_region_12_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бочкарев Евгений Михайлович": 59,
-      "Гильманова Резеда Ямиловна": 17,
-      "Казанков Иван Иванович": 202,
-      "Карпочев Владимир Андреевич": 11,
-      "Кислицын Вячеслав Александрович": 39,
-      "Комиссаров Валерий Яковлевич": 323,
-      "Кудрявцев Игорь Михайлович": 58,
-      "Мурадов Намик Ибрагим-оглы": 3,
-      "Свистунов Николай Юрьевич": 53,
-      "Против всех": 230
+      "gas:candidate-vibid:1001000212549": 59,
+      "gas:candidate-vibid:1001000195027": 17,
+      "gas:candidate-vibid:1001000121794": 202,
+      "gas:candidate-vibid:212200067142": 11,
+      "gas:candidate-vibid:212200067260": 39,
+      "gas:candidate-vibid:1001000225879": 323,
+      "gas:candidate-vibid:1001000217879": 58,
+      "gas:candidate-vibid:1001000201798": 3,
+      "gas:candidate-vibid:212200066725": 53,
+      "special:against-all": 230
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=122000011&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=212200066620&region=0&sub_region=0&type=429",
@@ -8066,16 +8066,16 @@ export const duma_2003_uik_428_region_12_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бочкарев Евгений Михайлович": 7,
-      "Гильманова Резеда Ямиловна": 9,
-      "Казанков Иван Иванович": 11,
-      "Карпочев Владимир Андреевич": 5,
-      "Кислицын Вячеслав Александрович": 8,
-      "Комиссаров Валерий Яковлевич": 64,
-      "Кудрявцев Игорь Михайлович": 5,
-      "Мурадов Намик Ибрагим-оглы": 0,
-      "Свистунов Николай Юрьевич": 83,
-      "Против всех": 54
+      "gas:candidate-vibid:1001000212549": 7,
+      "gas:candidate-vibid:1001000195027": 9,
+      "gas:candidate-vibid:1001000121794": 11,
+      "gas:candidate-vibid:212200067142": 5,
+      "gas:candidate-vibid:212200067260": 8,
+      "gas:candidate-vibid:1001000225879": 64,
+      "gas:candidate-vibid:1001000217879": 5,
+      "gas:candidate-vibid:1001000201798": 0,
+      "gas:candidate-vibid:212200066725": 83,
+      "special:against-all": 54
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=122000011&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=212200066620&region=0&sub_region=0&type=429",
@@ -8125,16 +8125,16 @@ export const duma_2003_uik_428_region_12_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бочкарев Евгений Михайлович": 38,
-      "Гильманова Резеда Ямиловна": 6,
-      "Казанков Иван Иванович": 149,
-      "Карпочев Владимир Андреевич": 5,
-      "Кислицын Вячеслав Александрович": 38,
-      "Комиссаров Валерий Яковлевич": 240,
-      "Кудрявцев Игорь Михайлович": 38,
-      "Мурадов Намик Ибрагим-оглы": 3,
-      "Свистунов Николай Юрьевич": 26,
-      "Против всех": 137
+      "gas:candidate-vibid:1001000212549": 38,
+      "gas:candidate-vibid:1001000195027": 6,
+      "gas:candidate-vibid:1001000121794": 149,
+      "gas:candidate-vibid:212200067142": 5,
+      "gas:candidate-vibid:212200067260": 38,
+      "gas:candidate-vibid:1001000225879": 240,
+      "gas:candidate-vibid:1001000217879": 38,
+      "gas:candidate-vibid:1001000201798": 3,
+      "gas:candidate-vibid:212200066725": 26,
+      "special:against-all": 137
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=122000011&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=212200066620&region=0&sub_region=0&type=429",
@@ -8184,16 +8184,16 @@ export const duma_2003_uik_428_region_12_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бочкарев Евгений Михайлович": 114,
-      "Гильманова Резеда Ямиловна": 15,
-      "Казанков Иван Иванович": 274,
-      "Карпочев Владимир Андреевич": 15,
-      "Кислицын Вячеслав Александрович": 78,
-      "Комиссаров Валерий Яковлевич": 555,
-      "Кудрявцев Игорь Михайлович": 57,
-      "Мурадов Намик Ибрагим-оглы": 4,
-      "Свистунов Николай Юрьевич": 96,
-      "Против всех": 274
+      "gas:candidate-vibid:1001000212549": 114,
+      "gas:candidate-vibid:1001000195027": 15,
+      "gas:candidate-vibid:1001000121794": 274,
+      "gas:candidate-vibid:212200067142": 15,
+      "gas:candidate-vibid:212200067260": 78,
+      "gas:candidate-vibid:1001000225879": 555,
+      "gas:candidate-vibid:1001000217879": 57,
+      "gas:candidate-vibid:1001000201798": 4,
+      "gas:candidate-vibid:212200066725": 96,
+      "special:against-all": 274
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=122000011&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=212200066620&region=0&sub_region=0&type=429",
@@ -8243,16 +8243,16 @@ export const duma_2003_uik_428_region_12_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бочкарев Евгений Михайлович": 77,
-      "Гильманова Резеда Ямиловна": 14,
-      "Казанков Иван Иванович": 238,
-      "Карпочев Владимир Андреевич": 10,
-      "Кислицын Вячеслав Александрович": 71,
-      "Комиссаров Валерий Яковлевич": 397,
-      "Кудрявцев Игорь Михайлович": 61,
-      "Мурадов Намик Ибрагим-оглы": 6,
-      "Свистунов Николай Юрьевич": 54,
-      "Против всех": 254
+      "gas:candidate-vibid:1001000212549": 77,
+      "gas:candidate-vibid:1001000195027": 14,
+      "gas:candidate-vibid:1001000121794": 238,
+      "gas:candidate-vibid:212200067142": 10,
+      "gas:candidate-vibid:212200067260": 71,
+      "gas:candidate-vibid:1001000225879": 397,
+      "gas:candidate-vibid:1001000217879": 61,
+      "gas:candidate-vibid:1001000201798": 6,
+      "gas:candidate-vibid:212200066725": 54,
+      "special:against-all": 254
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=122000011&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=212200066620&region=0&sub_region=0&type=429",
@@ -8302,16 +8302,16 @@ export const duma_2003_uik_428_region_12_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бочкарев Евгений Михайлович": 111,
-      "Гильманова Резеда Ямиловна": 18,
-      "Казанков Иван Иванович": 320,
-      "Карпочев Владимир Андреевич": 24,
-      "Кислицын Вячеслав Александрович": 90,
-      "Комиссаров Валерий Яковлевич": 514,
-      "Кудрявцев Игорь Михайлович": 82,
-      "Мурадов Намик Ибрагим-оглы": 4,
-      "Свистунов Николай Юрьевич": 56,
-      "Против всех": 251
+      "gas:candidate-vibid:1001000212549": 111,
+      "gas:candidate-vibid:1001000195027": 18,
+      "gas:candidate-vibid:1001000121794": 320,
+      "gas:candidate-vibid:212200067142": 24,
+      "gas:candidate-vibid:212200067260": 90,
+      "gas:candidate-vibid:1001000225879": 514,
+      "gas:candidate-vibid:1001000217879": 82,
+      "gas:candidate-vibid:1001000201798": 4,
+      "gas:candidate-vibid:212200066725": 56,
+      "special:against-all": 251
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=122000011&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=212200066620&region=0&sub_region=0&type=429",
@@ -8361,16 +8361,16 @@ export const duma_2003_uik_428_region_12_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бочкарев Евгений Михайлович": 91,
-      "Гильманова Резеда Ямиловна": 22,
-      "Казанков Иван Иванович": 297,
-      "Карпочев Владимир Андреевич": 10,
-      "Кислицын Вячеслав Александрович": 79,
-      "Комиссаров Валерий Яковлевич": 414,
-      "Кудрявцев Игорь Михайлович": 70,
-      "Мурадов Намик Ибрагим-оглы": 3,
-      "Свистунов Николай Юрьевич": 59,
-      "Против всех": 260
+      "gas:candidate-vibid:1001000212549": 91,
+      "gas:candidate-vibid:1001000195027": 22,
+      "gas:candidate-vibid:1001000121794": 297,
+      "gas:candidate-vibid:212200067142": 10,
+      "gas:candidate-vibid:212200067260": 79,
+      "gas:candidate-vibid:1001000225879": 414,
+      "gas:candidate-vibid:1001000217879": 70,
+      "gas:candidate-vibid:1001000201798": 3,
+      "gas:candidate-vibid:212200066725": 59,
+      "special:against-all": 260
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=122000011&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=212200066620&region=0&sub_region=0&type=429",
@@ -8420,16 +8420,16 @@ export const duma_2003_uik_428_region_12_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бочкарев Евгений Михайлович": 58,
-      "Гильманова Резеда Ямиловна": 12,
-      "Казанков Иван Иванович": 208,
-      "Карпочев Владимир Андреевич": 11,
-      "Кислицын Вячеслав Александрович": 49,
-      "Комиссаров Валерий Яковлевич": 358,
-      "Кудрявцев Игорь Михайлович": 65,
-      "Мурадов Намик Ибрагим-оглы": 2,
-      "Свистунов Николай Юрьевич": 31,
-      "Против всех": 189
+      "gas:candidate-vibid:1001000212549": 58,
+      "gas:candidate-vibid:1001000195027": 12,
+      "gas:candidate-vibid:1001000121794": 208,
+      "gas:candidate-vibid:212200067142": 11,
+      "gas:candidate-vibid:212200067260": 49,
+      "gas:candidate-vibid:1001000225879": 358,
+      "gas:candidate-vibid:1001000217879": 65,
+      "gas:candidate-vibid:1001000201798": 2,
+      "gas:candidate-vibid:212200066725": 31,
+      "special:against-all": 189
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=122000011&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=212200066620&region=0&sub_region=0&type=429",
@@ -8479,16 +8479,16 @@ export const duma_2003_uik_428_region_12_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бочкарев Евгений Михайлович": 42,
-      "Гильманова Резеда Ямиловна": 22,
-      "Казанков Иван Иванович": 152,
-      "Карпочев Владимир Андреевич": 4,
-      "Кислицын Вячеслав Александрович": 36,
-      "Комиссаров Валерий Яковлевич": 332,
-      "Кудрявцев Игорь Михайлович": 41,
-      "Мурадов Намик Ибрагим-оглы": 2,
-      "Свистунов Николай Юрьевич": 49,
-      "Против всех": 134
+      "gas:candidate-vibid:1001000212549": 42,
+      "gas:candidate-vibid:1001000195027": 22,
+      "gas:candidate-vibid:1001000121794": 152,
+      "gas:candidate-vibid:212200067142": 4,
+      "gas:candidate-vibid:212200067260": 36,
+      "gas:candidate-vibid:1001000225879": 332,
+      "gas:candidate-vibid:1001000217879": 41,
+      "gas:candidate-vibid:1001000201798": 2,
+      "gas:candidate-vibid:212200066725": 49,
+      "special:against-all": 134
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=122000011&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=212200066620&region=0&sub_region=0&type=429",
@@ -8538,16 +8538,16 @@ export const duma_2003_uik_428_region_12_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бочкарев Евгений Михайлович": 70,
-      "Гильманова Резеда Ямиловна": 12,
-      "Казанков Иван Иванович": 247,
-      "Карпочев Владимир Андреевич": 2,
-      "Кислицын Вячеслав Александрович": 71,
-      "Комиссаров Валерий Яковлевич": 339,
-      "Кудрявцев Игорь Михайлович": 56,
-      "Мурадов Намик Ибрагим-оглы": 7,
-      "Свистунов Николай Юрьевич": 66,
-      "Против всех": 154
+      "gas:candidate-vibid:1001000212549": 70,
+      "gas:candidate-vibid:1001000195027": 12,
+      "gas:candidate-vibid:1001000121794": 247,
+      "gas:candidate-vibid:212200067142": 2,
+      "gas:candidate-vibid:212200067260": 71,
+      "gas:candidate-vibid:1001000225879": 339,
+      "gas:candidate-vibid:1001000217879": 56,
+      "gas:candidate-vibid:1001000201798": 7,
+      "gas:candidate-vibid:212200066725": 66,
+      "special:against-all": 154
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=122000011&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=212200066620&region=0&sub_region=0&type=429",
@@ -8597,16 +8597,16 @@ export const duma_2003_uik_428_region_12_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бочкарев Евгений Михайлович": 67,
-      "Гильманова Резеда Ямиловна": 21,
-      "Казанков Иван Иванович": 320,
-      "Карпочев Владимир Андреевич": 6,
-      "Кислицын Вячеслав Александрович": 66,
-      "Комиссаров Валерий Яковлевич": 333,
-      "Кудрявцев Игорь Михайлович": 68,
-      "Мурадов Намик Ибрагим-оглы": 3,
-      "Свистунов Николай Юрьевич": 56,
-      "Против всех": 182
+      "gas:candidate-vibid:1001000212549": 67,
+      "gas:candidate-vibid:1001000195027": 21,
+      "gas:candidate-vibid:1001000121794": 320,
+      "gas:candidate-vibid:212200067142": 6,
+      "gas:candidate-vibid:212200067260": 66,
+      "gas:candidate-vibid:1001000225879": 333,
+      "gas:candidate-vibid:1001000217879": 68,
+      "gas:candidate-vibid:1001000201798": 3,
+      "gas:candidate-vibid:212200066725": 56,
+      "special:against-all": 182
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=122000011&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=212200066620&region=0&sub_region=0&type=429",
@@ -8656,16 +8656,16 @@ export const duma_2003_uik_428_region_12_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бочкарев Евгений Михайлович": 97,
-      "Гильманова Резеда Ямиловна": 27,
-      "Казанков Иван Иванович": 305,
-      "Карпочев Владимир Андреевич": 13,
-      "Кислицын Вячеслав Александрович": 73,
-      "Комиссаров Валерий Яковлевич": 391,
-      "Кудрявцев Игорь Михайлович": 76,
-      "Мурадов Намик Ибрагим-оглы": 6,
-      "Свистунов Николай Юрьевич": 68,
-      "Против всех": 215
+      "gas:candidate-vibid:1001000212549": 97,
+      "gas:candidate-vibid:1001000195027": 27,
+      "gas:candidate-vibid:1001000121794": 305,
+      "gas:candidate-vibid:212200067142": 13,
+      "gas:candidate-vibid:212200067260": 73,
+      "gas:candidate-vibid:1001000225879": 391,
+      "gas:candidate-vibid:1001000217879": 76,
+      "gas:candidate-vibid:1001000201798": 6,
+      "gas:candidate-vibid:212200066725": 68,
+      "special:against-all": 215
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=122000011&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=212200066620&region=0&sub_region=0&type=429",
@@ -8715,16 +8715,16 @@ export const duma_2003_uik_428_region_12_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бочкарев Евгений Михайлович": 67,
-      "Гильманова Резеда Ямиловна": 24,
-      "Казанков Иван Иванович": 345,
-      "Карпочев Владимир Андреевич": 8,
-      "Кислицын Вячеслав Александрович": 61,
-      "Комиссаров Валерий Яковлевич": 437,
-      "Кудрявцев Игорь Михайлович": 78,
-      "Мурадов Намик Ибрагим-оглы": 3,
-      "Свистунов Николай Юрьевич": 64,
-      "Против всех": 244
+      "gas:candidate-vibid:1001000212549": 67,
+      "gas:candidate-vibid:1001000195027": 24,
+      "gas:candidate-vibid:1001000121794": 345,
+      "gas:candidate-vibid:212200067142": 8,
+      "gas:candidate-vibid:212200067260": 61,
+      "gas:candidate-vibid:1001000225879": 437,
+      "gas:candidate-vibid:1001000217879": 78,
+      "gas:candidate-vibid:1001000201798": 3,
+      "gas:candidate-vibid:212200066725": 64,
+      "special:against-all": 244
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=122000011&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=212200066620&region=0&sub_region=0&type=429",
@@ -8774,16 +8774,16 @@ export const duma_2003_uik_428_region_12_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бочкарев Евгений Михайлович": 76,
-      "Гильманова Резеда Ямиловна": 20,
-      "Казанков Иван Иванович": 271,
-      "Карпочев Владимир Андреевич": 14,
-      "Кислицын Вячеслав Александрович": 37,
-      "Комиссаров Валерий Яковлевич": 472,
-      "Кудрявцев Игорь Михайлович": 95,
-      "Мурадов Намик Ибрагим-оглы": 10,
-      "Свистунов Николай Юрьевич": 46,
-      "Против всех": 209
+      "gas:candidate-vibid:1001000212549": 76,
+      "gas:candidate-vibid:1001000195027": 20,
+      "gas:candidate-vibid:1001000121794": 271,
+      "gas:candidate-vibid:212200067142": 14,
+      "gas:candidate-vibid:212200067260": 37,
+      "gas:candidate-vibid:1001000225879": 472,
+      "gas:candidate-vibid:1001000217879": 95,
+      "gas:candidate-vibid:1001000201798": 10,
+      "gas:candidate-vibid:212200066725": 46,
+      "special:against-all": 209
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=122000011&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=212200066620&region=0&sub_region=0&type=429",
@@ -8833,16 +8833,16 @@ export const duma_2003_uik_428_region_12_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бочкарев Евгений Михайлович": 33,
-      "Гильманова Резеда Ямиловна": 6,
-      "Казанков Иван Иванович": 125,
-      "Карпочев Владимир Андреевич": 3,
-      "Кислицын Вячеслав Александрович": 41,
-      "Комиссаров Валерий Яковлевич": 267,
-      "Кудрявцев Игорь Михайлович": 39,
-      "Мурадов Намик Ибрагим-оглы": 2,
-      "Свистунов Николай Юрьевич": 23,
-      "Против всех": 145
+      "gas:candidate-vibid:1001000212549": 33,
+      "gas:candidate-vibid:1001000195027": 6,
+      "gas:candidate-vibid:1001000121794": 125,
+      "gas:candidate-vibid:212200067142": 3,
+      "gas:candidate-vibid:212200067260": 41,
+      "gas:candidate-vibid:1001000225879": 267,
+      "gas:candidate-vibid:1001000217879": 39,
+      "gas:candidate-vibid:1001000201798": 2,
+      "gas:candidate-vibid:212200066725": 23,
+      "special:against-all": 145
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=122000011&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=212200066620&region=0&sub_region=0&type=429",
@@ -8892,16 +8892,16 @@ export const duma_2003_uik_428_region_12_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бочкарев Евгений Михайлович": 63,
-      "Гильманова Резеда Ямиловна": 27,
-      "Казанков Иван Иванович": 244,
-      "Карпочев Владимир Андреевич": 12,
-      "Кислицын Вячеслав Александрович": 50,
-      "Комиссаров Валерий Яковлевич": 478,
-      "Кудрявцев Игорь Михайлович": 38,
-      "Мурадов Намик Ибрагим-оглы": 2,
-      "Свистунов Николай Юрьевич": 45,
-      "Против всех": 281
+      "gas:candidate-vibid:1001000212549": 63,
+      "gas:candidate-vibid:1001000195027": 27,
+      "gas:candidate-vibid:1001000121794": 244,
+      "gas:candidate-vibid:212200067142": 12,
+      "gas:candidate-vibid:212200067260": 50,
+      "gas:candidate-vibid:1001000225879": 478,
+      "gas:candidate-vibid:1001000217879": 38,
+      "gas:candidate-vibid:1001000201798": 2,
+      "gas:candidate-vibid:212200066725": 45,
+      "special:against-all": 281
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=122000011&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=212200066620&region=0&sub_region=0&type=429",
@@ -8951,16 +8951,16 @@ export const duma_2003_uik_428_region_12_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бочкарев Евгений Михайлович": 92,
-      "Гильманова Резеда Ямиловна": 18,
-      "Казанков Иван Иванович": 303,
-      "Карпочев Владимир Андреевич": 16,
-      "Кислицын Вячеслав Александрович": 70,
-      "Комиссаров Валерий Яковлевич": 521,
-      "Кудрявцев Игорь Михайлович": 95,
-      "Мурадов Намик Ибрагим-оглы": 4,
-      "Свистунов Николай Юрьевич": 87,
-      "Против всех": 261
+      "gas:candidate-vibid:1001000212549": 92,
+      "gas:candidate-vibid:1001000195027": 18,
+      "gas:candidate-vibid:1001000121794": 303,
+      "gas:candidate-vibid:212200067142": 16,
+      "gas:candidate-vibid:212200067260": 70,
+      "gas:candidate-vibid:1001000225879": 521,
+      "gas:candidate-vibid:1001000217879": 95,
+      "gas:candidate-vibid:1001000201798": 4,
+      "gas:candidate-vibid:212200066725": 87,
+      "special:against-all": 261
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=122000011&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=212200066620&region=0&sub_region=0&type=429",
@@ -9010,16 +9010,16 @@ export const duma_2003_uik_428_region_12_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бочкарев Евгений Михайлович": 60,
-      "Гильманова Резеда Ямиловна": 19,
-      "Казанков Иван Иванович": 337,
-      "Карпочев Владимир Андреевич": 9,
-      "Кислицын Вячеслав Александрович": 43,
-      "Комиссаров Валерий Яковлевич": 342,
-      "Кудрявцев Игорь Михайлович": 70,
-      "Мурадов Намик Ибрагим-оглы": 2,
-      "Свистунов Николай Юрьевич": 55,
-      "Против всех": 181
+      "gas:candidate-vibid:1001000212549": 60,
+      "gas:candidate-vibid:1001000195027": 19,
+      "gas:candidate-vibid:1001000121794": 337,
+      "gas:candidate-vibid:212200067142": 9,
+      "gas:candidate-vibid:212200067260": 43,
+      "gas:candidate-vibid:1001000225879": 342,
+      "gas:candidate-vibid:1001000217879": 70,
+      "gas:candidate-vibid:1001000201798": 2,
+      "gas:candidate-vibid:212200066725": 55,
+      "special:against-all": 181
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=122000011&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=212200066620&region=0&sub_region=0&type=429",
@@ -9069,16 +9069,16 @@ export const duma_2003_uik_428_region_12_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бочкарев Евгений Михайлович": 78,
-      "Гильманова Резеда Ямиловна": 18,
-      "Казанков Иван Иванович": 291,
-      "Карпочев Владимир Андреевич": 14,
-      "Кислицын Вячеслав Александрович": 64,
-      "Комиссаров Валерий Яковлевич": 382,
-      "Кудрявцев Игорь Михайлович": 87,
-      "Мурадов Намик Ибрагим-оглы": 2,
-      "Свистунов Николай Юрьевич": 60,
-      "Против всех": 221
+      "gas:candidate-vibid:1001000212549": 78,
+      "gas:candidate-vibid:1001000195027": 18,
+      "gas:candidate-vibid:1001000121794": 291,
+      "gas:candidate-vibid:212200067142": 14,
+      "gas:candidate-vibid:212200067260": 64,
+      "gas:candidate-vibid:1001000225879": 382,
+      "gas:candidate-vibid:1001000217879": 87,
+      "gas:candidate-vibid:1001000201798": 2,
+      "gas:candidate-vibid:212200066725": 60,
+      "special:against-all": 221
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=122000011&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=212200066620&region=0&sub_region=0&type=429",
@@ -9128,16 +9128,16 @@ export const duma_2003_uik_428_region_12_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бочкарев Евгений Михайлович": 75,
-      "Гильманова Резеда Ямиловна": 18,
-      "Казанков Иван Иванович": 210,
-      "Карпочев Владимир Андреевич": 9,
-      "Кислицын Вячеслав Александрович": 40,
-      "Комиссаров Валерий Яковлевич": 369,
-      "Кудрявцев Игорь Михайлович": 59,
-      "Мурадов Намик Ибрагим-оглы": 2,
-      "Свистунов Николай Юрьевич": 40,
-      "Против всех": 198
+      "gas:candidate-vibid:1001000212549": 75,
+      "gas:candidate-vibid:1001000195027": 18,
+      "gas:candidate-vibid:1001000121794": 210,
+      "gas:candidate-vibid:212200067142": 9,
+      "gas:candidate-vibid:212200067260": 40,
+      "gas:candidate-vibid:1001000225879": 369,
+      "gas:candidate-vibid:1001000217879": 59,
+      "gas:candidate-vibid:1001000201798": 2,
+      "gas:candidate-vibid:212200066725": 40,
+      "special:against-all": 198
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=122000011&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=212200066620&region=0&sub_region=0&type=429",
@@ -9187,16 +9187,16 @@ export const duma_2003_uik_428_region_12_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бочкарев Евгений Михайлович": 75,
-      "Гильманова Резеда Ямиловна": 19,
-      "Казанков Иван Иванович": 311,
-      "Карпочев Владимир Андреевич": 12,
-      "Кислицын Вячеслав Александрович": 97,
-      "Комиссаров Валерий Яковлевич": 426,
-      "Кудрявцев Игорь Михайлович": 71,
-      "Мурадов Намик Ибрагим-оглы": 6,
-      "Свистунов Николай Юрьевич": 76,
-      "Против всех": 283
+      "gas:candidate-vibid:1001000212549": 75,
+      "gas:candidate-vibid:1001000195027": 19,
+      "gas:candidate-vibid:1001000121794": 311,
+      "gas:candidate-vibid:212200067142": 12,
+      "gas:candidate-vibid:212200067260": 97,
+      "gas:candidate-vibid:1001000225879": 426,
+      "gas:candidate-vibid:1001000217879": 71,
+      "gas:candidate-vibid:1001000201798": 6,
+      "gas:candidate-vibid:212200066725": 76,
+      "special:against-all": 283
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=122000011&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=212200066620&region=0&sub_region=0&type=429",
@@ -9246,16 +9246,16 @@ export const duma_2003_uik_428_region_12_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бочкарев Евгений Михайлович": 99,
-      "Гильманова Резеда Ямиловна": 23,
-      "Казанков Иван Иванович": 290,
-      "Карпочев Владимир Андреевич": 18,
-      "Кислицын Вячеслав Александрович": 68,
-      "Комиссаров Валерий Яковлевич": 499,
-      "Кудрявцев Игорь Михайлович": 90,
-      "Мурадов Намик Ибрагим-оглы": 6,
-      "Свистунов Николай Юрьевич": 74,
-      "Против всех": 272
+      "gas:candidate-vibid:1001000212549": 99,
+      "gas:candidate-vibid:1001000195027": 23,
+      "gas:candidate-vibid:1001000121794": 290,
+      "gas:candidate-vibid:212200067142": 18,
+      "gas:candidate-vibid:212200067260": 68,
+      "gas:candidate-vibid:1001000225879": 499,
+      "gas:candidate-vibid:1001000217879": 90,
+      "gas:candidate-vibid:1001000201798": 6,
+      "gas:candidate-vibid:212200066725": 74,
+      "special:against-all": 272
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=122000011&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=212200066620&region=0&sub_region=0&type=429",
@@ -9305,16 +9305,16 @@ export const duma_2003_uik_428_region_12_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бочкарев Евгений Михайлович": 81,
-      "Гильманова Резеда Ямиловна": 18,
-      "Казанков Иван Иванович": 161,
-      "Карпочев Владимир Андреевич": 7,
-      "Кислицын Вячеслав Александрович": 44,
-      "Комиссаров Валерий Яковлевич": 375,
-      "Кудрявцев Игорь Михайлович": 65,
-      "Мурадов Намик Ибрагим-оглы": 2,
-      "Свистунов Николай Юрьевич": 34,
-      "Против всех": 172
+      "gas:candidate-vibid:1001000212549": 81,
+      "gas:candidate-vibid:1001000195027": 18,
+      "gas:candidate-vibid:1001000121794": 161,
+      "gas:candidate-vibid:212200067142": 7,
+      "gas:candidate-vibid:212200067260": 44,
+      "gas:candidate-vibid:1001000225879": 375,
+      "gas:candidate-vibid:1001000217879": 65,
+      "gas:candidate-vibid:1001000201798": 2,
+      "gas:candidate-vibid:212200066725": 34,
+      "special:against-all": 172
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=122000011&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=212200066620&region=0&sub_region=0&type=429",
@@ -9364,16 +9364,16 @@ export const duma_2003_uik_428_region_12_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бочкарев Евгений Михайлович": 84,
-      "Гильманова Резеда Ямиловна": 22,
-      "Казанков Иван Иванович": 216,
-      "Карпочев Владимир Андреевич": 12,
-      "Кислицын Вячеслав Александрович": 45,
-      "Комиссаров Валерий Яковлевич": 471,
-      "Кудрявцев Игорь Михайлович": 86,
-      "Мурадов Намик Ибрагим-оглы": 2,
-      "Свистунов Николай Юрьевич": 48,
-      "Против всех": 261
+      "gas:candidate-vibid:1001000212549": 84,
+      "gas:candidate-vibid:1001000195027": 22,
+      "gas:candidate-vibid:1001000121794": 216,
+      "gas:candidate-vibid:212200067142": 12,
+      "gas:candidate-vibid:212200067260": 45,
+      "gas:candidate-vibid:1001000225879": 471,
+      "gas:candidate-vibid:1001000217879": 86,
+      "gas:candidate-vibid:1001000201798": 2,
+      "gas:candidate-vibid:212200066725": 48,
+      "special:against-all": 261
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=122000011&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=212200066620&region=0&sub_region=0&type=429",
@@ -9423,16 +9423,16 @@ export const duma_2003_uik_428_region_12_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бочкарев Евгений Михайлович": 94,
-      "Гильманова Резеда Ямиловна": 35,
-      "Казанков Иван Иванович": 244,
-      "Карпочев Владимир Андреевич": 12,
-      "Кислицын Вячеслав Александрович": 57,
-      "Комиссаров Валерий Яковлевич": 513,
-      "Кудрявцев Игорь Михайлович": 90,
-      "Мурадов Намик Ибрагим-оглы": 2,
-      "Свистунов Николай Юрьевич": 40,
-      "Против всех": 284
+      "gas:candidate-vibid:1001000212549": 94,
+      "gas:candidate-vibid:1001000195027": 35,
+      "gas:candidate-vibid:1001000121794": 244,
+      "gas:candidate-vibid:212200067142": 12,
+      "gas:candidate-vibid:212200067260": 57,
+      "gas:candidate-vibid:1001000225879": 513,
+      "gas:candidate-vibid:1001000217879": 90,
+      "gas:candidate-vibid:1001000201798": 2,
+      "gas:candidate-vibid:212200066725": 40,
+      "special:against-all": 284
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=122000011&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=212200066620&region=0&sub_region=0&type=429",
@@ -9482,16 +9482,16 @@ export const duma_2003_uik_428_region_12_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бочкарев Евгений Михайлович": 82,
-      "Гильманова Резеда Ямиловна": 22,
-      "Казанков Иван Иванович": 160,
-      "Карпочев Владимир Андреевич": 13,
-      "Кислицын Вячеслав Александрович": 44,
-      "Комиссаров Валерий Яковлевич": 418,
-      "Кудрявцев Игорь Михайлович": 62,
-      "Мурадов Намик Ибрагим-оглы": 5,
-      "Свистунов Николай Юрьевич": 43,
-      "Против всех": 189
+      "gas:candidate-vibid:1001000212549": 82,
+      "gas:candidate-vibid:1001000195027": 22,
+      "gas:candidate-vibid:1001000121794": 160,
+      "gas:candidate-vibid:212200067142": 13,
+      "gas:candidate-vibid:212200067260": 44,
+      "gas:candidate-vibid:1001000225879": 418,
+      "gas:candidate-vibid:1001000217879": 62,
+      "gas:candidate-vibid:1001000201798": 5,
+      "gas:candidate-vibid:212200066725": 43,
+      "special:against-all": 189
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=122000011&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=212200066620&region=0&sub_region=0&type=429",
@@ -9541,16 +9541,16 @@ export const duma_2003_uik_428_region_12_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бочкарев Евгений Михайлович": 106,
-      "Гильманова Резеда Ямиловна": 31,
-      "Казанков Иван Иванович": 237,
-      "Карпочев Владимир Андреевич": 14,
-      "Кислицын Вячеслав Александрович": 44,
-      "Комиссаров Валерий Яковлевич": 449,
-      "Кудрявцев Игорь Михайлович": 69,
-      "Мурадов Намик Ибрагим-оглы": 4,
-      "Свистунов Николай Юрьевич": 58,
-      "Против всех": 240
+      "gas:candidate-vibid:1001000212549": 106,
+      "gas:candidate-vibid:1001000195027": 31,
+      "gas:candidate-vibid:1001000121794": 237,
+      "gas:candidate-vibid:212200067142": 14,
+      "gas:candidate-vibid:212200067260": 44,
+      "gas:candidate-vibid:1001000225879": 449,
+      "gas:candidate-vibid:1001000217879": 69,
+      "gas:candidate-vibid:1001000201798": 4,
+      "gas:candidate-vibid:212200066725": 58,
+      "special:against-all": 240
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=122000011&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=212200066620&region=0&sub_region=0&type=429",
@@ -9600,16 +9600,16 @@ export const duma_2003_uik_428_region_12_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бочкарев Евгений Михайлович": 93,
-      "Гильманова Резеда Ямиловна": 39,
-      "Казанков Иван Иванович": 250,
-      "Карпочев Владимир Андреевич": 12,
-      "Кислицын Вячеслав Александрович": 51,
-      "Комиссаров Валерий Яковлевич": 500,
-      "Кудрявцев Игорь Михайлович": 105,
-      "Мурадов Намик Ибрагим-оглы": 4,
-      "Свистунов Николай Юрьевич": 61,
-      "Против всех": 262
+      "gas:candidate-vibid:1001000212549": 93,
+      "gas:candidate-vibid:1001000195027": 39,
+      "gas:candidate-vibid:1001000121794": 250,
+      "gas:candidate-vibid:212200067142": 12,
+      "gas:candidate-vibid:212200067260": 51,
+      "gas:candidate-vibid:1001000225879": 500,
+      "gas:candidate-vibid:1001000217879": 105,
+      "gas:candidate-vibid:1001000201798": 4,
+      "gas:candidate-vibid:212200066725": 61,
+      "special:against-all": 262
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=122000011&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=212200066620&region=0&sub_region=0&type=429",
@@ -9659,16 +9659,16 @@ export const duma_2003_uik_428_region_12_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бочкарев Евгений Михайлович": 98,
-      "Гильманова Резеда Ямиловна": 22,
-      "Казанков Иван Иванович": 285,
-      "Карпочев Владимир Андреевич": 9,
-      "Кислицын Вячеслав Александрович": 45,
-      "Комиссаров Валерий Яковлевич": 505,
-      "Кудрявцев Игорь Михайлович": 60,
-      "Мурадов Намик Ибрагим-оглы": 3,
-      "Свистунов Николай Юрьевич": 65,
-      "Против всех": 311
+      "gas:candidate-vibid:1001000212549": 98,
+      "gas:candidate-vibid:1001000195027": 22,
+      "gas:candidate-vibid:1001000121794": 285,
+      "gas:candidate-vibid:212200067142": 9,
+      "gas:candidate-vibid:212200067260": 45,
+      "gas:candidate-vibid:1001000225879": 505,
+      "gas:candidate-vibid:1001000217879": 60,
+      "gas:candidate-vibid:1001000201798": 3,
+      "gas:candidate-vibid:212200066725": 65,
+      "special:against-all": 311
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=122000011&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=212200066620&region=0&sub_region=0&type=429",
@@ -9718,16 +9718,16 @@ export const duma_2003_uik_428_region_12_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бочкарев Евгений Михайлович": 77,
-      "Гильманова Резеда Ямиловна": 37,
-      "Казанков Иван Иванович": 270,
-      "Карпочев Владимир Андреевич": 12,
-      "Кислицын Вячеслав Александрович": 55,
-      "Комиссаров Валерий Яковлевич": 516,
-      "Кудрявцев Игорь Михайлович": 98,
-      "Мурадов Намик Ибрагим-оглы": 5,
-      "Свистунов Николай Юрьевич": 72,
-      "Против всех": 274
+      "gas:candidate-vibid:1001000212549": 77,
+      "gas:candidate-vibid:1001000195027": 37,
+      "gas:candidate-vibid:1001000121794": 270,
+      "gas:candidate-vibid:212200067142": 12,
+      "gas:candidate-vibid:212200067260": 55,
+      "gas:candidate-vibid:1001000225879": 516,
+      "gas:candidate-vibid:1001000217879": 98,
+      "gas:candidate-vibid:1001000201798": 5,
+      "gas:candidate-vibid:212200066725": 72,
+      "special:against-all": 274
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=122000011&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=212200066620&region=0&sub_region=0&type=429",
@@ -9777,16 +9777,16 @@ export const duma_2003_uik_428_region_12_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бочкарев Евгений Михайлович": 77,
-      "Гильманова Резеда Ямиловна": 23,
-      "Казанков Иван Иванович": 223,
-      "Карпочев Владимир Андреевич": 12,
-      "Кислицын Вячеслав Александрович": 60,
-      "Комиссаров Валерий Яковлевич": 453,
-      "Кудрявцев Игорь Михайлович": 62,
-      "Мурадов Намик Ибрагим-оглы": 2,
-      "Свистунов Николай Юрьевич": 52,
-      "Против всех": 276
+      "gas:candidate-vibid:1001000212549": 77,
+      "gas:candidate-vibid:1001000195027": 23,
+      "gas:candidate-vibid:1001000121794": 223,
+      "gas:candidate-vibid:212200067142": 12,
+      "gas:candidate-vibid:212200067260": 60,
+      "gas:candidate-vibid:1001000225879": 453,
+      "gas:candidate-vibid:1001000217879": 62,
+      "gas:candidate-vibid:1001000201798": 2,
+      "gas:candidate-vibid:212200066725": 52,
+      "special:against-all": 276
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=122000011&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=212200066620&region=0&sub_region=0&type=429",
@@ -9836,16 +9836,16 @@ export const duma_2003_uik_428_region_12_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бочкарев Евгений Михайлович": 49,
-      "Гильманова Резеда Ямиловна": 24,
-      "Казанков Иван Иванович": 133,
-      "Карпочев Владимир Андреевич": 3,
-      "Кислицын Вячеслав Александрович": 38,
-      "Комиссаров Валерий Яковлевич": 303,
-      "Кудрявцев Игорь Михайлович": 48,
-      "Мурадов Намик Ибрагим-оглы": 4,
-      "Свистунов Николай Юрьевич": 56,
-      "Против всех": 140
+      "gas:candidate-vibid:1001000212549": 49,
+      "gas:candidate-vibid:1001000195027": 24,
+      "gas:candidate-vibid:1001000121794": 133,
+      "gas:candidate-vibid:212200067142": 3,
+      "gas:candidate-vibid:212200067260": 38,
+      "gas:candidate-vibid:1001000225879": 303,
+      "gas:candidate-vibid:1001000217879": 48,
+      "gas:candidate-vibid:1001000201798": 4,
+      "gas:candidate-vibid:212200066725": 56,
+      "special:against-all": 140
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=122000011&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=212200066620&region=0&sub_region=0&type=429",
@@ -9895,16 +9895,16 @@ export const duma_2003_uik_428_region_12_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бочкарев Евгений Михайлович": 37,
-      "Гильманова Резеда Ямиловна": 17,
-      "Казанков Иван Иванович": 134,
-      "Карпочев Владимир Андреевич": 3,
-      "Кислицын Вячеслав Александрович": 28,
-      "Комиссаров Валерий Яковлевич": 329,
-      "Кудрявцев Игорь Михайлович": 37,
-      "Мурадов Намик Ибрагим-оглы": 3,
-      "Свистунов Николай Юрьевич": 29,
-      "Против всех": 126
+      "gas:candidate-vibid:1001000212549": 37,
+      "gas:candidate-vibid:1001000195027": 17,
+      "gas:candidate-vibid:1001000121794": 134,
+      "gas:candidate-vibid:212200067142": 3,
+      "gas:candidate-vibid:212200067260": 28,
+      "gas:candidate-vibid:1001000225879": 329,
+      "gas:candidate-vibid:1001000217879": 37,
+      "gas:candidate-vibid:1001000201798": 3,
+      "gas:candidate-vibid:212200066725": 29,
+      "special:against-all": 126
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=122000011&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=212200066620&region=0&sub_region=0&type=429",
@@ -9954,16 +9954,16 @@ export const duma_2003_uik_428_region_12_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бочкарев Евгений Михайлович": 9,
-      "Гильманова Резеда Ямиловна": 4,
-      "Казанков Иван Иванович": 21,
-      "Карпочев Владимир Андреевич": 0,
-      "Кислицын Вячеслав Александрович": 6,
-      "Комиссаров Валерий Яковлевич": 81,
-      "Кудрявцев Игорь Михайлович": 4,
-      "Мурадов Намик Ибрагим-оглы": 1,
-      "Свистунов Николай Юрьевич": 5,
-      "Против всех": 25
+      "gas:candidate-vibid:1001000212549": 9,
+      "gas:candidate-vibid:1001000195027": 4,
+      "gas:candidate-vibid:1001000121794": 21,
+      "gas:candidate-vibid:212200067142": 0,
+      "gas:candidate-vibid:212200067260": 6,
+      "gas:candidate-vibid:1001000225879": 81,
+      "gas:candidate-vibid:1001000217879": 4,
+      "gas:candidate-vibid:1001000201798": 1,
+      "gas:candidate-vibid:212200066725": 5,
+      "special:against-all": 25
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=122000011&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=212200066620&region=0&sub_region=0&type=429",
@@ -10013,16 +10013,16 @@ export const duma_2003_uik_428_region_12_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бочкарев Евгений Михайлович": 74,
-      "Гильманова Резеда Ямиловна": 15,
-      "Казанков Иван Иванович": 275,
-      "Карпочев Владимир Андреевич": 7,
-      "Кислицын Вячеслав Александрович": 52,
-      "Комиссаров Валерий Яковлевич": 468,
-      "Кудрявцев Игорь Михайлович": 67,
-      "Мурадов Намик Ибрагим-оглы": 6,
-      "Свистунов Николай Юрьевич": 45,
-      "Против всех": 220
+      "gas:candidate-vibid:1001000212549": 74,
+      "gas:candidate-vibid:1001000195027": 15,
+      "gas:candidate-vibid:1001000121794": 275,
+      "gas:candidate-vibid:212200067142": 7,
+      "gas:candidate-vibid:212200067260": 52,
+      "gas:candidate-vibid:1001000225879": 468,
+      "gas:candidate-vibid:1001000217879": 67,
+      "gas:candidate-vibid:1001000201798": 6,
+      "gas:candidate-vibid:212200066725": 45,
+      "special:against-all": 220
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=122000011&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=212200066620&region=0&sub_region=0&type=429",
@@ -10072,16 +10072,16 @@ export const duma_2003_uik_428_region_12_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бочкарев Евгений Михайлович": 28,
-      "Гильманова Резеда Ямиловна": 6,
-      "Казанков Иван Иванович": 88,
-      "Карпочев Владимир Андреевич": 2,
-      "Кислицын Вячеслав Александрович": 10,
-      "Комиссаров Валерий Яковлевич": 158,
-      "Кудрявцев Игорь Михайлович": 24,
-      "Мурадов Намик Ибрагим-оглы": 3,
-      "Свистунов Николай Юрьевич": 15,
-      "Против всех": 58
+      "gas:candidate-vibid:1001000212549": 28,
+      "gas:candidate-vibid:1001000195027": 6,
+      "gas:candidate-vibid:1001000121794": 88,
+      "gas:candidate-vibid:212200067142": 2,
+      "gas:candidate-vibid:212200067260": 10,
+      "gas:candidate-vibid:1001000225879": 158,
+      "gas:candidate-vibid:1001000217879": 24,
+      "gas:candidate-vibid:1001000201798": 3,
+      "gas:candidate-vibid:212200066725": 15,
+      "special:against-all": 58
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=122000011&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=212200066620&region=0&sub_region=0&type=429",
@@ -10131,16 +10131,16 @@ export const duma_2003_uik_428_region_12_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бочкарев Евгений Михайлович": 88,
-      "Гильманова Резеда Ямиловна": 22,
-      "Казанков Иван Иванович": 224,
-      "Карпочев Владимир Андреевич": 9,
-      "Кислицын Вячеслав Александрович": 48,
-      "Комиссаров Валерий Яковлевич": 421,
-      "Кудрявцев Игорь Михайлович": 69,
-      "Мурадов Намик Ибрагим-оглы": 7,
-      "Свистунов Николай Юрьевич": 68,
-      "Против всех": 216
+      "gas:candidate-vibid:1001000212549": 88,
+      "gas:candidate-vibid:1001000195027": 22,
+      "gas:candidate-vibid:1001000121794": 224,
+      "gas:candidate-vibid:212200067142": 9,
+      "gas:candidate-vibid:212200067260": 48,
+      "gas:candidate-vibid:1001000225879": 421,
+      "gas:candidate-vibid:1001000217879": 69,
+      "gas:candidate-vibid:1001000201798": 7,
+      "gas:candidate-vibid:212200066725": 68,
+      "special:against-all": 216
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=122000011&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=212200066620&region=0&sub_region=0&type=429",
@@ -10190,16 +10190,16 @@ export const duma_2003_uik_428_region_12_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бочкарев Евгений Михайлович": 59,
-      "Гильманова Резеда Ямиловна": 18,
-      "Казанков Иван Иванович": 211,
-      "Карпочев Владимир Андреевич": 5,
-      "Кислицын Вячеслав Александрович": 69,
-      "Комиссаров Валерий Яковлевич": 471,
-      "Кудрявцев Игорь Михайлович": 52,
-      "Мурадов Намик Ибрагим-оглы": 4,
-      "Свистунов Николай Юрьевич": 37,
-      "Против всех": 179
+      "gas:candidate-vibid:1001000212549": 59,
+      "gas:candidate-vibid:1001000195027": 18,
+      "gas:candidate-vibid:1001000121794": 211,
+      "gas:candidate-vibid:212200067142": 5,
+      "gas:candidate-vibid:212200067260": 69,
+      "gas:candidate-vibid:1001000225879": 471,
+      "gas:candidate-vibid:1001000217879": 52,
+      "gas:candidate-vibid:1001000201798": 4,
+      "gas:candidate-vibid:212200066725": 37,
+      "special:against-all": 179
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=122000011&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=212200066620&region=0&sub_region=0&type=429",
@@ -10249,16 +10249,16 @@ export const duma_2003_uik_428_region_12_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бочкарев Евгений Михайлович": 51,
-      "Гильманова Резеда Ямиловна": 17,
-      "Казанков Иван Иванович": 235,
-      "Карпочев Владимир Андреевич": 5,
-      "Кислицын Вячеслав Александрович": 46,
-      "Комиссаров Валерий Яковлевич": 461,
-      "Кудрявцев Игорь Михайлович": 63,
-      "Мурадов Намик Ибрагим-оглы": 12,
-      "Свистунов Николай Юрьевич": 43,
-      "Против всех": 172
+      "gas:candidate-vibid:1001000212549": 51,
+      "gas:candidate-vibid:1001000195027": 17,
+      "gas:candidate-vibid:1001000121794": 235,
+      "gas:candidate-vibid:212200067142": 5,
+      "gas:candidate-vibid:212200067260": 46,
+      "gas:candidate-vibid:1001000225879": 461,
+      "gas:candidate-vibid:1001000217879": 63,
+      "gas:candidate-vibid:1001000201798": 12,
+      "gas:candidate-vibid:212200066725": 43,
+      "special:against-all": 172
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=122000011&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=212200066620&region=0&sub_region=0&type=429",
@@ -10308,16 +10308,16 @@ export const duma_2003_uik_428_region_12_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бочкарев Евгений Михайлович": 63,
-      "Гильманова Резеда Ямиловна": 14,
-      "Казанков Иван Иванович": 224,
-      "Карпочев Владимир Андреевич": 14,
-      "Кислицын Вячеслав Александрович": 45,
-      "Комиссаров Валерий Яковлевич": 425,
-      "Кудрявцев Игорь Михайлович": 71,
-      "Мурадов Намик Ибрагим-оглы": 4,
-      "Свистунов Николай Юрьевич": 31,
-      "Против всех": 158
+      "gas:candidate-vibid:1001000212549": 63,
+      "gas:candidate-vibid:1001000195027": 14,
+      "gas:candidate-vibid:1001000121794": 224,
+      "gas:candidate-vibid:212200067142": 14,
+      "gas:candidate-vibid:212200067260": 45,
+      "gas:candidate-vibid:1001000225879": 425,
+      "gas:candidate-vibid:1001000217879": 71,
+      "gas:candidate-vibid:1001000201798": 4,
+      "gas:candidate-vibid:212200066725": 31,
+      "special:against-all": 158
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=122000011&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=212200066620&region=0&sub_region=0&type=429",
@@ -10367,16 +10367,16 @@ export const duma_2003_uik_428_region_12_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бочкарев Евгений Михайлович": 65,
-      "Гильманова Резеда Ямиловна": 20,
-      "Казанков Иван Иванович": 162,
-      "Карпочев Владимир Андреевич": 11,
-      "Кислицын Вячеслав Александрович": 59,
-      "Комиссаров Валерий Яковлевич": 322,
-      "Кудрявцев Игорь Михайлович": 62,
-      "Мурадов Намик Ибрагим-оглы": 1,
-      "Свистунов Николай Юрьевич": 52,
-      "Против всех": 124
+      "gas:candidate-vibid:1001000212549": 65,
+      "gas:candidate-vibid:1001000195027": 20,
+      "gas:candidate-vibid:1001000121794": 162,
+      "gas:candidate-vibid:212200067142": 11,
+      "gas:candidate-vibid:212200067260": 59,
+      "gas:candidate-vibid:1001000225879": 322,
+      "gas:candidate-vibid:1001000217879": 62,
+      "gas:candidate-vibid:1001000201798": 1,
+      "gas:candidate-vibid:212200066725": 52,
+      "special:against-all": 124
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=122000011&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=212200066620&region=0&sub_region=0&type=429",
@@ -10426,16 +10426,16 @@ export const duma_2003_uik_428_region_12_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бочкарев Евгений Михайлович": 49,
-      "Гильманова Резеда Ямиловна": 15,
-      "Казанков Иван Иванович": 244,
-      "Карпочев Владимир Андреевич": 7,
-      "Кислицын Вячеслав Александрович": 53,
-      "Комиссаров Валерий Яковлевич": 512,
-      "Кудрявцев Игорь Михайлович": 50,
-      "Мурадов Намик Ибрагим-оглы": 2,
-      "Свистунов Николай Юрьевич": 51,
-      "Против всех": 191
+      "gas:candidate-vibid:1001000212549": 49,
+      "gas:candidate-vibid:1001000195027": 15,
+      "gas:candidate-vibid:1001000121794": 244,
+      "gas:candidate-vibid:212200067142": 7,
+      "gas:candidate-vibid:212200067260": 53,
+      "gas:candidate-vibid:1001000225879": 512,
+      "gas:candidate-vibid:1001000217879": 50,
+      "gas:candidate-vibid:1001000201798": 2,
+      "gas:candidate-vibid:212200066725": 51,
+      "special:against-all": 191
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=122000011&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=212200066620&region=0&sub_region=0&type=429",
@@ -10485,16 +10485,16 @@ export const duma_2003_uik_428_region_12_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бочкарев Евгений Михайлович": 71,
-      "Гильманова Резеда Ямиловна": 29,
-      "Казанков Иван Иванович": 208,
-      "Карпочев Владимир Андреевич": 4,
-      "Кислицын Вячеслав Александрович": 56,
-      "Комиссаров Валерий Яковлевич": 461,
-      "Кудрявцев Игорь Михайлович": 43,
-      "Мурадов Намик Ибрагим-оглы": 5,
-      "Свистунов Николай Юрьевич": 37,
-      "Против всех": 187
+      "gas:candidate-vibid:1001000212549": 71,
+      "gas:candidate-vibid:1001000195027": 29,
+      "gas:candidate-vibid:1001000121794": 208,
+      "gas:candidate-vibid:212200067142": 4,
+      "gas:candidate-vibid:212200067260": 56,
+      "gas:candidate-vibid:1001000225879": 461,
+      "gas:candidate-vibid:1001000217879": 43,
+      "gas:candidate-vibid:1001000201798": 5,
+      "gas:candidate-vibid:212200066725": 37,
+      "special:against-all": 187
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=122000011&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=212200066620&region=0&sub_region=0&type=429",
@@ -10544,16 +10544,16 @@ export const duma_2003_uik_428_region_12_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бочкарев Евгений Михайлович": 116,
-      "Гильманова Резеда Ямиловна": 16,
-      "Казанков Иван Иванович": 366,
-      "Карпочев Владимир Андреевич": 10,
-      "Кислицын Вячеслав Александрович": 78,
-      "Комиссаров Валерий Яковлевич": 516,
-      "Кудрявцев Игорь Михайлович": 50,
-      "Мурадов Намик Ибрагим-оглы": 6,
-      "Свистунов Николай Юрьевич": 46,
-      "Против всех": 256
+      "gas:candidate-vibid:1001000212549": 116,
+      "gas:candidate-vibid:1001000195027": 16,
+      "gas:candidate-vibid:1001000121794": 366,
+      "gas:candidate-vibid:212200067142": 10,
+      "gas:candidate-vibid:212200067260": 78,
+      "gas:candidate-vibid:1001000225879": 516,
+      "gas:candidate-vibid:1001000217879": 50,
+      "gas:candidate-vibid:1001000201798": 6,
+      "gas:candidate-vibid:212200066725": 46,
+      "special:against-all": 256
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=122000011&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=212200066620&region=0&sub_region=0&type=429",
@@ -10603,16 +10603,16 @@ export const duma_2003_uik_428_region_12_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бочкарев Евгений Михайлович": 73,
-      "Гильманова Резеда Ямиловна": 16,
-      "Казанков Иван Иванович": 261,
-      "Карпочев Владимир Андреевич": 20,
-      "Кислицын Вячеслав Александрович": 70,
-      "Комиссаров Валерий Яковлевич": 498,
-      "Кудрявцев Игорь Михайлович": 70,
-      "Мурадов Намик Ибрагим-оглы": 7,
-      "Свистунов Николай Юрьевич": 36,
-      "Против всех": 215
+      "gas:candidate-vibid:1001000212549": 73,
+      "gas:candidate-vibid:1001000195027": 16,
+      "gas:candidate-vibid:1001000121794": 261,
+      "gas:candidate-vibid:212200067142": 20,
+      "gas:candidate-vibid:212200067260": 70,
+      "gas:candidate-vibid:1001000225879": 498,
+      "gas:candidate-vibid:1001000217879": 70,
+      "gas:candidate-vibid:1001000201798": 7,
+      "gas:candidate-vibid:212200066725": 36,
+      "special:against-all": 215
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=122000011&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=212200066620&region=0&sub_region=0&type=429",
@@ -10662,16 +10662,16 @@ export const duma_2003_uik_428_region_12_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бочкарев Евгений Михайлович": 51,
-      "Гильманова Резеда Ямиловна": 24,
-      "Казанков Иван Иванович": 184,
-      "Карпочев Владимир Андреевич": 4,
-      "Кислицын Вячеслав Александрович": 41,
-      "Комиссаров Валерий Яковлевич": 366,
-      "Кудрявцев Игорь Михайлович": 50,
-      "Мурадов Намик Ибрагим-оглы": 2,
-      "Свистунов Николай Юрьевич": 35,
-      "Против всех": 164
+      "gas:candidate-vibid:1001000212549": 51,
+      "gas:candidate-vibid:1001000195027": 24,
+      "gas:candidate-vibid:1001000121794": 184,
+      "gas:candidate-vibid:212200067142": 4,
+      "gas:candidate-vibid:212200067260": 41,
+      "gas:candidate-vibid:1001000225879": 366,
+      "gas:candidate-vibid:1001000217879": 50,
+      "gas:candidate-vibid:1001000201798": 2,
+      "gas:candidate-vibid:212200066725": 35,
+      "special:against-all": 164
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=122000011&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=212200066620&region=0&sub_region=0&type=429",
@@ -10721,16 +10721,16 @@ export const duma_2003_uik_428_region_12_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бочкарев Евгений Михайлович": 50,
-      "Гильманова Резеда Ямиловна": 16,
-      "Казанков Иван Иванович": 180,
-      "Карпочев Владимир Андреевич": 2,
-      "Кислицын Вячеслав Александрович": 55,
-      "Комиссаров Валерий Яковлевич": 362,
-      "Кудрявцев Игорь Михайлович": 54,
-      "Мурадов Намик Ибрагим-оглы": 4,
-      "Свистунов Николай Юрьевич": 27,
-      "Против всех": 198
+      "gas:candidate-vibid:1001000212549": 50,
+      "gas:candidate-vibid:1001000195027": 16,
+      "gas:candidate-vibid:1001000121794": 180,
+      "gas:candidate-vibid:212200067142": 2,
+      "gas:candidate-vibid:212200067260": 55,
+      "gas:candidate-vibid:1001000225879": 362,
+      "gas:candidate-vibid:1001000217879": 54,
+      "gas:candidate-vibid:1001000201798": 4,
+      "gas:candidate-vibid:212200066725": 27,
+      "special:against-all": 198
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=122000011&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=212200066620&region=0&sub_region=0&type=429",
@@ -10780,16 +10780,16 @@ export const duma_2003_uik_428_region_12_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бочкарев Евгений Михайлович": 84,
-      "Гильманова Резеда Ямиловна": 47,
-      "Казанков Иван Иванович": 87,
-      "Карпочев Владимир Андреевич": 13,
-      "Кислицын Вячеслав Александрович": 134,
-      "Комиссаров Валерий Яковлевич": 465,
-      "Кудрявцев Игорь Михайлович": 98,
-      "Мурадов Намик Ибрагим-оглы": 16,
-      "Свистунов Николай Юрьевич": 31,
-      "Против всех": 345
+      "gas:candidate-vibid:1001000212549": 84,
+      "gas:candidate-vibid:1001000195027": 47,
+      "gas:candidate-vibid:1001000121794": 87,
+      "gas:candidate-vibid:212200067142": 13,
+      "gas:candidate-vibid:212200067260": 134,
+      "gas:candidate-vibid:1001000225879": 465,
+      "gas:candidate-vibid:1001000217879": 98,
+      "gas:candidate-vibid:1001000201798": 16,
+      "gas:candidate-vibid:212200066725": 31,
+      "special:against-all": 345
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=122000011&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=212200066620&region=0&sub_region=0&type=429",
@@ -10839,16 +10839,16 @@ export const duma_2003_uik_428_region_12_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бочкарев Евгений Михайлович": 26,
-      "Гильманова Резеда Ямиловна": 9,
-      "Казанков Иван Иванович": 163,
-      "Карпочев Владимир Андреевич": 3,
-      "Кислицын Вячеслав Александрович": 27,
-      "Комиссаров Валерий Яковлевич": 238,
-      "Кудрявцев Игорь Михайлович": 32,
-      "Мурадов Намик Ибрагим-оглы": 3,
-      "Свистунов Николай Юрьевич": 14,
-      "Против всех": 95
+      "gas:candidate-vibid:1001000212549": 26,
+      "gas:candidate-vibid:1001000195027": 9,
+      "gas:candidate-vibid:1001000121794": 163,
+      "gas:candidate-vibid:212200067142": 3,
+      "gas:candidate-vibid:212200067260": 27,
+      "gas:candidate-vibid:1001000225879": 238,
+      "gas:candidate-vibid:1001000217879": 32,
+      "gas:candidate-vibid:1001000201798": 3,
+      "gas:candidate-vibid:212200066725": 14,
+      "special:against-all": 95
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=122000011&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=212200066620&region=0&sub_region=0&type=429",
@@ -10898,16 +10898,16 @@ export const duma_2003_uik_428_region_12_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бочкарев Евгений Михайлович": 6,
-      "Гильманова Резеда Ямиловна": 13,
-      "Казанков Иван Иванович": 64,
-      "Карпочев Владимир Андреевич": 1,
-      "Кислицын Вячеслав Александрович": 83,
-      "Комиссаров Валерий Яковлевич": 142,
-      "Кудрявцев Игорь Михайлович": 13,
-      "Мурадов Намик Ибрагим-оглы": 1,
-      "Свистунов Николай Юрьевич": 12,
-      "Против всех": 47
+      "gas:candidate-vibid:1001000212549": 6,
+      "gas:candidate-vibid:1001000195027": 13,
+      "gas:candidate-vibid:1001000121794": 64,
+      "gas:candidate-vibid:212200067142": 1,
+      "gas:candidate-vibid:212200067260": 83,
+      "gas:candidate-vibid:1001000225879": 142,
+      "gas:candidate-vibid:1001000217879": 13,
+      "gas:candidate-vibid:1001000201798": 1,
+      "gas:candidate-vibid:212200066725": 12,
+      "special:against-all": 47
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=122000011&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=212200066620&region=0&sub_region=0&type=429",
@@ -10957,16 +10957,16 @@ export const duma_2003_uik_428_region_12_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бочкарев Евгений Михайлович": 11,
-      "Гильманова Резеда Ямиловна": 12,
-      "Казанков Иван Иванович": 100,
-      "Карпочев Владимир Андреевич": 3,
-      "Кислицын Вячеслав Александрович": 45,
-      "Комиссаров Валерий Яковлевич": 527,
-      "Кудрявцев Игорь Михайлович": 18,
-      "Мурадов Намик Ибрагим-оглы": 3,
-      "Свистунов Николай Юрьевич": 10,
-      "Против всех": 76
+      "gas:candidate-vibid:1001000212549": 11,
+      "gas:candidate-vibid:1001000195027": 12,
+      "gas:candidate-vibid:1001000121794": 100,
+      "gas:candidate-vibid:212200067142": 3,
+      "gas:candidate-vibid:212200067260": 45,
+      "gas:candidate-vibid:1001000225879": 527,
+      "gas:candidate-vibid:1001000217879": 18,
+      "gas:candidate-vibid:1001000201798": 3,
+      "gas:candidate-vibid:212200066725": 10,
+      "special:against-all": 76
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=122000011&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=212200066620&region=0&sub_region=0&type=429",
@@ -11016,16 +11016,16 @@ export const duma_2003_uik_428_region_12_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бочкарев Евгений Михайлович": 57,
-      "Гильманова Резеда Ямиловна": 14,
-      "Казанков Иван Иванович": 340,
-      "Карпочев Владимир Андреевич": 8,
-      "Кислицын Вячеслав Александрович": 46,
-      "Комиссаров Валерий Яковлевич": 529,
-      "Кудрявцев Игорь Михайлович": 37,
-      "Мурадов Намик Ибрагим-оглы": 5,
-      "Свистунов Николай Юрьевич": 31,
-      "Против всех": 229
+      "gas:candidate-vibid:1001000212549": 57,
+      "gas:candidate-vibid:1001000195027": 14,
+      "gas:candidate-vibid:1001000121794": 340,
+      "gas:candidate-vibid:212200067142": 8,
+      "gas:candidate-vibid:212200067260": 46,
+      "gas:candidate-vibid:1001000225879": 529,
+      "gas:candidate-vibid:1001000217879": 37,
+      "gas:candidate-vibid:1001000201798": 5,
+      "gas:candidate-vibid:212200066725": 31,
+      "special:against-all": 229
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=122000011&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=212200066620&region=0&sub_region=0&type=429",
@@ -11075,16 +11075,16 @@ export const duma_2003_uik_428_region_12_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бочкарев Евгений Михайлович": 34,
-      "Гильманова Резеда Ямиловна": 8,
-      "Казанков Иван Иванович": 190,
-      "Карпочев Владимир Андреевич": 2,
-      "Кислицын Вячеслав Александрович": 38,
-      "Комиссаров Валерий Яковлевич": 235,
-      "Кудрявцев Игорь Михайлович": 43,
-      "Мурадов Намик Ибрагим-оглы": 1,
-      "Свистунов Николай Юрьевич": 22,
-      "Против всех": 85
+      "gas:candidate-vibid:1001000212549": 34,
+      "gas:candidate-vibid:1001000195027": 8,
+      "gas:candidate-vibid:1001000121794": 190,
+      "gas:candidate-vibid:212200067142": 2,
+      "gas:candidate-vibid:212200067260": 38,
+      "gas:candidate-vibid:1001000225879": 235,
+      "gas:candidate-vibid:1001000217879": 43,
+      "gas:candidate-vibid:1001000201798": 1,
+      "gas:candidate-vibid:212200066725": 22,
+      "special:against-all": 85
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=122000011&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=212200066620&region=0&sub_region=0&type=429",
@@ -11134,16 +11134,16 @@ export const duma_2003_uik_428_region_12_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бочкарев Евгений Михайлович": 56,
-      "Гильманова Резеда Ямиловна": 22,
-      "Казанков Иван Иванович": 339,
-      "Карпочев Владимир Андреевич": 4,
-      "Кислицын Вячеслав Александрович": 52,
-      "Комиссаров Валерий Яковлевич": 335,
-      "Кудрявцев Игорь Михайлович": 40,
-      "Мурадов Намик Ибрагим-оглы": 1,
-      "Свистунов Николай Юрьевич": 19,
-      "Против всех": 203
+      "gas:candidate-vibid:1001000212549": 56,
+      "gas:candidate-vibid:1001000195027": 22,
+      "gas:candidate-vibid:1001000121794": 339,
+      "gas:candidate-vibid:212200067142": 4,
+      "gas:candidate-vibid:212200067260": 52,
+      "gas:candidate-vibid:1001000225879": 335,
+      "gas:candidate-vibid:1001000217879": 40,
+      "gas:candidate-vibid:1001000201798": 1,
+      "gas:candidate-vibid:212200066725": 19,
+      "special:against-all": 203
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=122000011&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=212200066620&region=0&sub_region=0&type=429",
@@ -11193,16 +11193,16 @@ export const duma_2003_uik_428_region_12_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бочкарев Евгений Михайлович": 49,
-      "Гильманова Резеда Ямиловна": 18,
-      "Казанков Иван Иванович": 183,
-      "Карпочев Владимир Андреевич": 4,
-      "Кислицын Вячеслав Александрович": 24,
-      "Комиссаров Валерий Яковлевич": 455,
-      "Кудрявцев Игорь Михайлович": 43,
-      "Мурадов Намик Ибрагим-оглы": 7,
-      "Свистунов Николай Юрьевич": 32,
-      "Против всех": 227
+      "gas:candidate-vibid:1001000212549": 49,
+      "gas:candidate-vibid:1001000195027": 18,
+      "gas:candidate-vibid:1001000121794": 183,
+      "gas:candidate-vibid:212200067142": 4,
+      "gas:candidate-vibid:212200067260": 24,
+      "gas:candidate-vibid:1001000225879": 455,
+      "gas:candidate-vibid:1001000217879": 43,
+      "gas:candidate-vibid:1001000201798": 7,
+      "gas:candidate-vibid:212200066725": 32,
+      "special:against-all": 227
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=122000011&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=212200066620&region=0&sub_region=0&type=429",
@@ -11252,16 +11252,16 @@ export const duma_2003_uik_428_region_12_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бочкарев Евгений Михайлович": 21,
-      "Гильманова Резеда Ямиловна": 10,
-      "Казанков Иван Иванович": 156,
-      "Карпочев Владимир Андреевич": 4,
-      "Кислицын Вячеслав Александрович": 19,
-      "Комиссаров Валерий Яковлевич": 203,
-      "Кудрявцев Игорь Михайлович": 23,
-      "Мурадов Намик Ибрагим-оглы": 5,
-      "Свистунов Николай Юрьевич": 8,
-      "Против всех": 114
+      "gas:candidate-vibid:1001000212549": 21,
+      "gas:candidate-vibid:1001000195027": 10,
+      "gas:candidate-vibid:1001000121794": 156,
+      "gas:candidate-vibid:212200067142": 4,
+      "gas:candidate-vibid:212200067260": 19,
+      "gas:candidate-vibid:1001000225879": 203,
+      "gas:candidate-vibid:1001000217879": 23,
+      "gas:candidate-vibid:1001000201798": 5,
+      "gas:candidate-vibid:212200066725": 8,
+      "special:against-all": 114
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=122000011&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=212200066620&region=0&sub_region=0&type=429",
@@ -11311,16 +11311,16 @@ export const duma_2003_uik_428_region_12_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бочкарев Евгений Михайлович": 4,
-      "Гильманова Резеда Ямиловна": 4,
-      "Казанков Иван Иванович": 35,
-      "Карпочев Владимир Андреевич": 4,
-      "Кислицын Вячеслав Александрович": 18,
-      "Комиссаров Валерий Яковлевич": 104,
-      "Кудрявцев Игорь Михайлович": 8,
-      "Мурадов Намик Ибрагим-оглы": 0,
-      "Свистунов Николай Юрьевич": 7,
-      "Против всех": 22
+      "gas:candidate-vibid:1001000212549": 4,
+      "gas:candidate-vibid:1001000195027": 4,
+      "gas:candidate-vibid:1001000121794": 35,
+      "gas:candidate-vibid:212200067142": 4,
+      "gas:candidate-vibid:212200067260": 18,
+      "gas:candidate-vibid:1001000225879": 104,
+      "gas:candidate-vibid:1001000217879": 8,
+      "gas:candidate-vibid:1001000201798": 0,
+      "gas:candidate-vibid:212200066725": 7,
+      "special:against-all": 22
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=122000011&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=212200066620&region=0&sub_region=0&type=429",
@@ -11370,16 +11370,16 @@ export const duma_2003_uik_428_region_12_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бочкарев Евгений Михайлович": 9,
-      "Гильманова Резеда Ямиловна": 2,
-      "Казанков Иван Иванович": 51,
-      "Карпочев Владимир Андреевич": 2,
-      "Кислицын Вячеслав Александрович": 6,
-      "Комиссаров Валерий Яковлевич": 78,
-      "Кудрявцев Игорь Михайлович": 12,
-      "Мурадов Намик Ибрагим-оглы": 1,
-      "Свистунов Николай Юрьевич": 4,
-      "Против всех": 17
+      "gas:candidate-vibid:1001000212549": 9,
+      "gas:candidate-vibid:1001000195027": 2,
+      "gas:candidate-vibid:1001000121794": 51,
+      "gas:candidate-vibid:212200067142": 2,
+      "gas:candidate-vibid:212200067260": 6,
+      "gas:candidate-vibid:1001000225879": 78,
+      "gas:candidate-vibid:1001000217879": 12,
+      "gas:candidate-vibid:1001000201798": 1,
+      "gas:candidate-vibid:212200066725": 4,
+      "special:against-all": 17
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=122000011&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=212200066620&region=0&sub_region=0&type=429",
@@ -11429,16 +11429,16 @@ export const duma_2003_uik_428_region_12_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бочкарев Евгений Михайлович": 86,
-      "Гильманова Резеда Ямиловна": 24,
-      "Казанков Иван Иванович": 309,
-      "Карпочев Владимир Андреевич": 15,
-      "Кислицын Вячеслав Александрович": 87,
-      "Комиссаров Валерий Яковлевич": 528,
-      "Кудрявцев Игорь Михайлович": 61,
-      "Мурадов Намик Ибрагим-оглы": 5,
-      "Свистунов Николай Юрьевич": 78,
-      "Против всех": 216
+      "gas:candidate-vibid:1001000212549": 86,
+      "gas:candidate-vibid:1001000195027": 24,
+      "gas:candidate-vibid:1001000121794": 309,
+      "gas:candidate-vibid:212200067142": 15,
+      "gas:candidate-vibid:212200067260": 87,
+      "gas:candidate-vibid:1001000225879": 528,
+      "gas:candidate-vibid:1001000217879": 61,
+      "gas:candidate-vibid:1001000201798": 5,
+      "gas:candidate-vibid:212200066725": 78,
+      "special:against-all": 216
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=122000011&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=212200066620&region=0&sub_region=0&type=429",
@@ -11488,16 +11488,16 @@ export const duma_2003_uik_428_region_12_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бочкарев Евгений Михайлович": 81,
-      "Гильманова Резеда Ямиловна": 24,
-      "Казанков Иван Иванович": 277,
-      "Карпочев Владимир Андреевич": 15,
-      "Кислицын Вячеслав Александрович": 47,
-      "Комиссаров Валерий Яковлевич": 432,
-      "Кудрявцев Игорь Михайлович": 51,
-      "Мурадов Намик Ибрагим-оглы": 6,
-      "Свистунов Николай Юрьевич": 76,
-      "Против всех": 228
+      "gas:candidate-vibid:1001000212549": 81,
+      "gas:candidate-vibid:1001000195027": 24,
+      "gas:candidate-vibid:1001000121794": 277,
+      "gas:candidate-vibid:212200067142": 15,
+      "gas:candidate-vibid:212200067260": 47,
+      "gas:candidate-vibid:1001000225879": 432,
+      "gas:candidate-vibid:1001000217879": 51,
+      "gas:candidate-vibid:1001000201798": 6,
+      "gas:candidate-vibid:212200066725": 76,
+      "special:against-all": 228
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=122000011&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=212200066620&region=0&sub_region=0&type=429",
@@ -11547,16 +11547,16 @@ export const duma_2003_uik_428_region_12_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бочкарев Евгений Михайлович": 66,
-      "Гильманова Резеда Ямиловна": 13,
-      "Казанков Иван Иванович": 225,
-      "Карпочев Владимир Андреевич": 8,
-      "Кислицын Вячеслав Александрович": 60,
-      "Комиссаров Валерий Яковлевич": 325,
-      "Кудрявцев Игорь Михайлович": 69,
-      "Мурадов Намик Ибрагим-оглы": 3,
-      "Свистунов Николай Юрьевич": 57,
-      "Против всех": 165
+      "gas:candidate-vibid:1001000212549": 66,
+      "gas:candidate-vibid:1001000195027": 13,
+      "gas:candidate-vibid:1001000121794": 225,
+      "gas:candidate-vibid:212200067142": 8,
+      "gas:candidate-vibid:212200067260": 60,
+      "gas:candidate-vibid:1001000225879": 325,
+      "gas:candidate-vibid:1001000217879": 69,
+      "gas:candidate-vibid:1001000201798": 3,
+      "gas:candidate-vibid:212200066725": 57,
+      "special:against-all": 165
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=122000011&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=212200066620&region=0&sub_region=0&type=429",
@@ -11606,16 +11606,16 @@ export const duma_2003_uik_428_region_12_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бочкарев Евгений Михайлович": 84,
-      "Гильманова Резеда Ямиловна": 23,
-      "Казанков Иван Иванович": 265,
-      "Карпочев Владимир Андреевич": 15,
-      "Кислицын Вячеслав Александрович": 70,
-      "Комиссаров Валерий Яковлевич": 446,
-      "Кудрявцев Игорь Михайлович": 53,
-      "Мурадов Намик Ибрагим-оглы": 11,
-      "Свистунов Николай Юрьевич": 77,
-      "Против всех": 203
+      "gas:candidate-vibid:1001000212549": 84,
+      "gas:candidate-vibid:1001000195027": 23,
+      "gas:candidate-vibid:1001000121794": 265,
+      "gas:candidate-vibid:212200067142": 15,
+      "gas:candidate-vibid:212200067260": 70,
+      "gas:candidate-vibid:1001000225879": 446,
+      "gas:candidate-vibid:1001000217879": 53,
+      "gas:candidate-vibid:1001000201798": 11,
+      "gas:candidate-vibid:212200066725": 77,
+      "special:against-all": 203
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=122000011&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=212200066620&region=0&sub_region=0&type=429",
@@ -11665,16 +11665,16 @@ export const duma_2003_uik_428_region_12_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бочкарев Евгений Михайлович": 61,
-      "Гильманова Резеда Ямиловна": 21,
-      "Казанков Иван Иванович": 249,
-      "Карпочев Владимир Андреевич": 8,
-      "Кислицын Вячеслав Александрович": 33,
-      "Комиссаров Валерий Яковлевич": 322,
-      "Кудрявцев Игорь Михайлович": 49,
-      "Мурадов Намик Ибрагим-оглы": 0,
-      "Свистунов Николай Юрьевич": 50,
-      "Против всех": 173
+      "gas:candidate-vibid:1001000212549": 61,
+      "gas:candidate-vibid:1001000195027": 21,
+      "gas:candidate-vibid:1001000121794": 249,
+      "gas:candidate-vibid:212200067142": 8,
+      "gas:candidate-vibid:212200067260": 33,
+      "gas:candidate-vibid:1001000225879": 322,
+      "gas:candidate-vibid:1001000217879": 49,
+      "gas:candidate-vibid:1001000201798": 0,
+      "gas:candidate-vibid:212200066725": 50,
+      "special:against-all": 173
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=122000011&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=212200066620&region=0&sub_region=0&type=429",
@@ -11724,16 +11724,16 @@ export const duma_2003_uik_428_region_12_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бочкарев Евгений Михайлович": 58,
-      "Гильманова Резеда Ямиловна": 26,
-      "Казанков Иван Иванович": 171,
-      "Карпочев Владимир Андреевич": 6,
-      "Кислицын Вячеслав Александрович": 67,
-      "Комиссаров Валерий Яковлевич": 304,
-      "Кудрявцев Игорь Михайлович": 28,
-      "Мурадов Намик Ибрагим-оглы": 5,
-      "Свистунов Николай Юрьевич": 54,
-      "Против всех": 149
+      "gas:candidate-vibid:1001000212549": 58,
+      "gas:candidate-vibid:1001000195027": 26,
+      "gas:candidate-vibid:1001000121794": 171,
+      "gas:candidate-vibid:212200067142": 6,
+      "gas:candidate-vibid:212200067260": 67,
+      "gas:candidate-vibid:1001000225879": 304,
+      "gas:candidate-vibid:1001000217879": 28,
+      "gas:candidate-vibid:1001000201798": 5,
+      "gas:candidate-vibid:212200066725": 54,
+      "special:against-all": 149
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=122000011&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=212200066620&region=0&sub_region=0&type=429",
@@ -11783,16 +11783,16 @@ export const duma_2003_uik_428_region_12_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бочкарев Евгений Михайлович": 110,
-      "Гильманова Резеда Ямиловна": 25,
-      "Казанков Иван Иванович": 307,
-      "Карпочев Владимир Андреевич": 8,
-      "Кислицын Вячеслав Александрович": 41,
-      "Комиссаров Валерий Яковлевич": 304,
-      "Кудрявцев Игорь Михайлович": 101,
-      "Мурадов Намик Ибрагим-оглы": 8,
-      "Свистунов Николай Юрьевич": 61,
-      "Против всех": 193
+      "gas:candidate-vibid:1001000212549": 110,
+      "gas:candidate-vibid:1001000195027": 25,
+      "gas:candidate-vibid:1001000121794": 307,
+      "gas:candidate-vibid:212200067142": 8,
+      "gas:candidate-vibid:212200067260": 41,
+      "gas:candidate-vibid:1001000225879": 304,
+      "gas:candidate-vibid:1001000217879": 101,
+      "gas:candidate-vibid:1001000201798": 8,
+      "gas:candidate-vibid:212200066725": 61,
+      "special:against-all": 193
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=122000011&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=212200066620&region=0&sub_region=0&type=429",
@@ -11842,16 +11842,16 @@ export const duma_2003_uik_428_region_12_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бочкарев Евгений Михайлович": 56,
-      "Гильманова Резеда Ямиловна": 10,
-      "Казанков Иван Иванович": 187,
-      "Карпочев Владимир Андреевич": 3,
-      "Кислицын Вячеслав Александрович": 41,
-      "Комиссаров Валерий Яковлевич": 242,
-      "Кудрявцев Игорь Михайлович": 98,
-      "Мурадов Намик Ибрагим-оглы": 4,
-      "Свистунов Николай Юрьевич": 20,
-      "Против всех": 160
+      "gas:candidate-vibid:1001000212549": 56,
+      "gas:candidate-vibid:1001000195027": 10,
+      "gas:candidate-vibid:1001000121794": 187,
+      "gas:candidate-vibid:212200067142": 3,
+      "gas:candidate-vibid:212200067260": 41,
+      "gas:candidate-vibid:1001000225879": 242,
+      "gas:candidate-vibid:1001000217879": 98,
+      "gas:candidate-vibid:1001000201798": 4,
+      "gas:candidate-vibid:212200066725": 20,
+      "special:against-all": 160
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=122000011&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=212200066620&region=0&sub_region=0&type=429",
@@ -11901,16 +11901,16 @@ export const duma_2003_uik_428_region_12_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бочкарев Евгений Михайлович": 150,
-      "Гильманова Резеда Ямиловна": 26,
-      "Казанков Иван Иванович": 251,
-      "Карпочев Владимир Андреевич": 11,
-      "Кислицын Вячеслав Александрович": 47,
-      "Комиссаров Валерий Яковлевич": 386,
-      "Кудрявцев Игорь Михайлович": 117,
-      "Мурадов Намик Ибрагим-оглы": 1,
-      "Свистунов Николай Юрьевич": 35,
-      "Против всех": 216
+      "gas:candidate-vibid:1001000212549": 150,
+      "gas:candidate-vibid:1001000195027": 26,
+      "gas:candidate-vibid:1001000121794": 251,
+      "gas:candidate-vibid:212200067142": 11,
+      "gas:candidate-vibid:212200067260": 47,
+      "gas:candidate-vibid:1001000225879": 386,
+      "gas:candidate-vibid:1001000217879": 117,
+      "gas:candidate-vibid:1001000201798": 1,
+      "gas:candidate-vibid:212200066725": 35,
+      "special:against-all": 216
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=122000011&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=212200066620&region=0&sub_region=0&type=429",
@@ -11960,16 +11960,16 @@ export const duma_2003_uik_428_region_12_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бочкарев Евгений Михайлович": 62,
-      "Гильманова Резеда Ямиловна": 20,
-      "Казанков Иван Иванович": 203,
-      "Карпочев Владимир Андреевич": 7,
-      "Кислицын Вячеслав Александрович": 59,
-      "Комиссаров Валерий Яковлевич": 371,
-      "Кудрявцев Игорь Михайлович": 73,
-      "Мурадов Намик Ибрагим-оглы": 5,
-      "Свистунов Николай Юрьевич": 45,
-      "Против всех": 202
+      "gas:candidate-vibid:1001000212549": 62,
+      "gas:candidate-vibid:1001000195027": 20,
+      "gas:candidate-vibid:1001000121794": 203,
+      "gas:candidate-vibid:212200067142": 7,
+      "gas:candidate-vibid:212200067260": 59,
+      "gas:candidate-vibid:1001000225879": 371,
+      "gas:candidate-vibid:1001000217879": 73,
+      "gas:candidate-vibid:1001000201798": 5,
+      "gas:candidate-vibid:212200066725": 45,
+      "special:against-all": 202
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=122000011&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=212200066620&region=0&sub_region=0&type=429",
@@ -12019,16 +12019,16 @@ export const duma_2003_uik_428_region_12_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бочкарев Евгений Михайлович": 143,
-      "Гильманова Резеда Ямиловна": 21,
-      "Казанков Иван Иванович": 253,
-      "Карпочев Владимир Андреевич": 14,
-      "Кислицын Вячеслав Александрович": 76,
-      "Комиссаров Валерий Яковлевич": 514,
-      "Кудрявцев Игорь Михайлович": 97,
-      "Мурадов Намик Ибрагим-оглы": 7,
-      "Свистунов Николай Юрьевич": 86,
-      "Против всех": 255
+      "gas:candidate-vibid:1001000212549": 143,
+      "gas:candidate-vibid:1001000195027": 21,
+      "gas:candidate-vibid:1001000121794": 253,
+      "gas:candidate-vibid:212200067142": 14,
+      "gas:candidate-vibid:212200067260": 76,
+      "gas:candidate-vibid:1001000225879": 514,
+      "gas:candidate-vibid:1001000217879": 97,
+      "gas:candidate-vibid:1001000201798": 7,
+      "gas:candidate-vibid:212200066725": 86,
+      "special:against-all": 255
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=122000011&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=212200066620&region=0&sub_region=0&type=429",
@@ -12078,16 +12078,16 @@ export const duma_2003_uik_428_region_12_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бочкарев Евгений Михайлович": 36,
-      "Гильманова Резеда Ямиловна": 24,
-      "Казанков Иван Иванович": 96,
-      "Карпочев Владимир Андреевич": 3,
-      "Кислицын Вячеслав Александрович": 34,
-      "Комиссаров Валерий Яковлевич": 285,
-      "Кудрявцев Игорь Михайлович": 41,
-      "Мурадов Намик Ибрагим-оглы": 4,
-      "Свистунов Николай Юрьевич": 27,
-      "Против всех": 98
+      "gas:candidate-vibid:1001000212549": 36,
+      "gas:candidate-vibid:1001000195027": 24,
+      "gas:candidate-vibid:1001000121794": 96,
+      "gas:candidate-vibid:212200067142": 3,
+      "gas:candidate-vibid:212200067260": 34,
+      "gas:candidate-vibid:1001000225879": 285,
+      "gas:candidate-vibid:1001000217879": 41,
+      "gas:candidate-vibid:1001000201798": 4,
+      "gas:candidate-vibid:212200066725": 27,
+      "special:against-all": 98
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=122000011&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=212200066620&region=0&sub_region=0&type=429",
@@ -12137,16 +12137,16 @@ export const duma_2003_uik_428_region_12_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бочкарев Евгений Михайлович": 45,
-      "Гильманова Резеда Ямиловна": 19,
-      "Казанков Иван Иванович": 129,
-      "Карпочев Владимир Андреевич": 4,
-      "Кислицын Вячеслав Александрович": 34,
-      "Комиссаров Валерий Яковлевич": 225,
-      "Кудрявцев Игорь Михайлович": 54,
-      "Мурадов Намик Ибрагим-оглы": 3,
-      "Свистунов Николай Юрьевич": 23,
-      "Против всех": 115
+      "gas:candidate-vibid:1001000212549": 45,
+      "gas:candidate-vibid:1001000195027": 19,
+      "gas:candidate-vibid:1001000121794": 129,
+      "gas:candidate-vibid:212200067142": 4,
+      "gas:candidate-vibid:212200067260": 34,
+      "gas:candidate-vibid:1001000225879": 225,
+      "gas:candidate-vibid:1001000217879": 54,
+      "gas:candidate-vibid:1001000201798": 3,
+      "gas:candidate-vibid:212200066725": 23,
+      "special:against-all": 115
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=122000011&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=212200066620&region=0&sub_region=0&type=429",
@@ -12196,16 +12196,16 @@ export const duma_2003_uik_428_region_12_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бочкарев Евгений Михайлович": 0,
-      "Гильманова Резеда Ямиловна": 1,
-      "Казанков Иван Иванович": 43,
-      "Карпочев Владимир Андреевич": 3,
-      "Кислицын Вячеслав Александрович": 19,
-      "Комиссаров Валерий Яковлевич": 41,
-      "Кудрявцев Игорь Михайлович": 11,
-      "Мурадов Намик Ибрагим-оглы": 1,
-      "Свистунов Николай Юрьевич": 4,
-      "Против всех": 20
+      "gas:candidate-vibid:1001000212549": 0,
+      "gas:candidate-vibid:1001000195027": 1,
+      "gas:candidate-vibid:1001000121794": 43,
+      "gas:candidate-vibid:212200067142": 3,
+      "gas:candidate-vibid:212200067260": 19,
+      "gas:candidate-vibid:1001000225879": 41,
+      "gas:candidate-vibid:1001000217879": 11,
+      "gas:candidate-vibid:1001000201798": 1,
+      "gas:candidate-vibid:212200066725": 4,
+      "special:against-all": 20
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=122000011&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=212200066620&region=0&sub_region=0&type=429",
@@ -12255,16 +12255,16 @@ export const duma_2003_uik_428_region_12_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бочкарев Евгений Михайлович": 13,
-      "Гильманова Резеда Ямиловна": 8,
-      "Казанков Иван Иванович": 29,
-      "Карпочев Владимир Андреевич": 4,
-      "Кислицын Вячеслав Александрович": 8,
-      "Комиссаров Валерий Яковлевич": 53,
-      "Кудрявцев Игорь Михайлович": 16,
-      "Мурадов Намик Ибрагим-оглы": 2,
-      "Свистунов Николай Юрьевич": 11,
-      "Против всех": 17
+      "gas:candidate-vibid:1001000212549": 13,
+      "gas:candidate-vibid:1001000195027": 8,
+      "gas:candidate-vibid:1001000121794": 29,
+      "gas:candidate-vibid:212200067142": 4,
+      "gas:candidate-vibid:212200067260": 8,
+      "gas:candidate-vibid:1001000225879": 53,
+      "gas:candidate-vibid:1001000217879": 16,
+      "gas:candidate-vibid:1001000201798": 2,
+      "gas:candidate-vibid:212200066725": 11,
+      "special:against-all": 17
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=122000011&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=212200066620&region=0&sub_region=0&type=429",
@@ -12314,16 +12314,16 @@ export const duma_2003_uik_428_region_12_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бочкарев Евгений Михайлович": 68,
-      "Гильманова Резеда Ямиловна": 15,
-      "Казанков Иван Иванович": 213,
-      "Карпочев Владимир Андреевич": 12,
-      "Кислицын Вячеслав Александрович": 46,
-      "Комиссаров Валерий Яковлевич": 377,
-      "Кудрявцев Игорь Михайлович": 38,
-      "Мурадов Намик Ибрагим-оглы": 0,
-      "Свистунов Николай Юрьевич": 42,
-      "Против всех": 166
+      "gas:candidate-vibid:1001000212549": 68,
+      "gas:candidate-vibid:1001000195027": 15,
+      "gas:candidate-vibid:1001000121794": 213,
+      "gas:candidate-vibid:212200067142": 12,
+      "gas:candidate-vibid:212200067260": 46,
+      "gas:candidate-vibid:1001000225879": 377,
+      "gas:candidate-vibid:1001000217879": 38,
+      "gas:candidate-vibid:1001000201798": 0,
+      "gas:candidate-vibid:212200066725": 42,
+      "special:against-all": 166
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=122000011&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=212200066620&region=0&sub_region=0&type=429",
@@ -12373,16 +12373,16 @@ export const duma_2003_uik_428_region_12_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бочкарев Евгений Михайлович": 83,
-      "Гильманова Резеда Ямиловна": 14,
-      "Казанков Иван Иванович": 178,
-      "Карпочев Владимир Андреевич": 2,
-      "Кислицын Вячеслав Александрович": 44,
-      "Комиссаров Валерий Яковлевич": 346,
-      "Кудрявцев Игорь Михайлович": 106,
-      "Мурадов Намик Ибрагим-оглы": 8,
-      "Свистунов Николай Юрьевич": 48,
-      "Против всех": 176
+      "gas:candidate-vibid:1001000212549": 83,
+      "gas:candidate-vibid:1001000195027": 14,
+      "gas:candidate-vibid:1001000121794": 178,
+      "gas:candidate-vibid:212200067142": 2,
+      "gas:candidate-vibid:212200067260": 44,
+      "gas:candidate-vibid:1001000225879": 346,
+      "gas:candidate-vibid:1001000217879": 106,
+      "gas:candidate-vibid:1001000201798": 8,
+      "gas:candidate-vibid:212200066725": 48,
+      "special:against-all": 176
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=122000011&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=212200066620&region=0&sub_region=0&type=429",
@@ -12432,16 +12432,16 @@ export const duma_2003_uik_428_region_12_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бочкарев Евгений Михайлович": 56,
-      "Гильманова Резеда Ямиловна": 23,
-      "Казанков Иван Иванович": 297,
-      "Карпочев Владимир Андреевич": 6,
-      "Кислицын Вячеслав Александрович": 45,
-      "Комиссаров Валерий Яковлевич": 436,
-      "Кудрявцев Игорь Михайлович": 60,
-      "Мурадов Намик Ибрагим-оглы": 8,
-      "Свистунов Николай Юрьевич": 51,
-      "Против всех": 166
+      "gas:candidate-vibid:1001000212549": 56,
+      "gas:candidate-vibid:1001000195027": 23,
+      "gas:candidate-vibid:1001000121794": 297,
+      "gas:candidate-vibid:212200067142": 6,
+      "gas:candidate-vibid:212200067260": 45,
+      "gas:candidate-vibid:1001000225879": 436,
+      "gas:candidate-vibid:1001000217879": 60,
+      "gas:candidate-vibid:1001000201798": 8,
+      "gas:candidate-vibid:212200066725": 51,
+      "special:against-all": 166
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=122000011&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=212200066620&region=0&sub_region=0&type=429",
@@ -12491,16 +12491,16 @@ export const duma_2003_uik_428_region_12_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бочкарев Евгений Михайлович": 105,
-      "Гильманова Резеда Ямиловна": 34,
-      "Казанков Иван Иванович": 295,
-      "Карпочев Владимир Андреевич": 13,
-      "Кислицын Вячеслав Александрович": 62,
-      "Комиссаров Валерий Яковлевич": 465,
-      "Кудрявцев Игорь Михайлович": 75,
-      "Мурадов Намик Ибрагим-оглы": 2,
-      "Свистунов Николай Юрьевич": 75,
-      "Против всех": 291
+      "gas:candidate-vibid:1001000212549": 105,
+      "gas:candidate-vibid:1001000195027": 34,
+      "gas:candidate-vibid:1001000121794": 295,
+      "gas:candidate-vibid:212200067142": 13,
+      "gas:candidate-vibid:212200067260": 62,
+      "gas:candidate-vibid:1001000225879": 465,
+      "gas:candidate-vibid:1001000217879": 75,
+      "gas:candidate-vibid:1001000201798": 2,
+      "gas:candidate-vibid:212200066725": 75,
+      "special:against-all": 291
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=122000011&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=212200066620&region=0&sub_region=0&type=429",
@@ -12550,16 +12550,16 @@ export const duma_2003_uik_428_region_12_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бочкарев Евгений Михайлович": 98,
-      "Гильманова Резеда Ямиловна": 36,
-      "Казанков Иван Иванович": 299,
-      "Карпочев Владимир Андреевич": 18,
-      "Кислицын Вячеслав Александрович": 72,
-      "Комиссаров Валерий Яковлевич": 564,
-      "Кудрявцев Игорь Михайлович": 85,
-      "Мурадов Намик Ибрагим-оглы": 6,
-      "Свистунов Николай Юрьевич": 98,
-      "Против всех": 237
+      "gas:candidate-vibid:1001000212549": 98,
+      "gas:candidate-vibid:1001000195027": 36,
+      "gas:candidate-vibid:1001000121794": 299,
+      "gas:candidate-vibid:212200067142": 18,
+      "gas:candidate-vibid:212200067260": 72,
+      "gas:candidate-vibid:1001000225879": 564,
+      "gas:candidate-vibid:1001000217879": 85,
+      "gas:candidate-vibid:1001000201798": 6,
+      "gas:candidate-vibid:212200066725": 98,
+      "special:against-all": 237
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=122000011&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=212200066620&region=0&sub_region=0&type=429",
@@ -12609,16 +12609,16 @@ export const duma_2003_uik_428_region_12_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бочкарев Евгений Михайлович": 55,
-      "Гильманова Резеда Ямиловна": 19,
-      "Казанков Иван Иванович": 256,
-      "Карпочев Владимир Андреевич": 6,
-      "Кислицын Вячеслав Александрович": 50,
-      "Комиссаров Валерий Яковлевич": 410,
-      "Кудрявцев Игорь Михайлович": 89,
-      "Мурадов Намик Ибрагим-оглы": 3,
-      "Свистунов Николай Юрьевич": 62,
-      "Против всех": 196
+      "gas:candidate-vibid:1001000212549": 55,
+      "gas:candidate-vibid:1001000195027": 19,
+      "gas:candidate-vibid:1001000121794": 256,
+      "gas:candidate-vibid:212200067142": 6,
+      "gas:candidate-vibid:212200067260": 50,
+      "gas:candidate-vibid:1001000225879": 410,
+      "gas:candidate-vibid:1001000217879": 89,
+      "gas:candidate-vibid:1001000201798": 3,
+      "gas:candidate-vibid:212200066725": 62,
+      "special:against-all": 196
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=122000011&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=212200066620&region=0&sub_region=0&type=429",
@@ -12668,16 +12668,16 @@ export const duma_2003_uik_428_region_12_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бочкарев Евгений Михайлович": 100,
-      "Гильманова Резеда Ямиловна": 21,
-      "Казанков Иван Иванович": 271,
-      "Карпочев Владимир Андреевич": 11,
-      "Кислицын Вячеслав Александрович": 50,
-      "Комиссаров Валерий Яковлевич": 520,
-      "Кудрявцев Игорь Михайлович": 72,
-      "Мурадов Намик Ибрагим-оглы": 6,
-      "Свистунов Николай Юрьевич": 82,
-      "Против всех": 246
+      "gas:candidate-vibid:1001000212549": 100,
+      "gas:candidate-vibid:1001000195027": 21,
+      "gas:candidate-vibid:1001000121794": 271,
+      "gas:candidate-vibid:212200067142": 11,
+      "gas:candidate-vibid:212200067260": 50,
+      "gas:candidate-vibid:1001000225879": 520,
+      "gas:candidate-vibid:1001000217879": 72,
+      "gas:candidate-vibid:1001000201798": 6,
+      "gas:candidate-vibid:212200066725": 82,
+      "special:against-all": 246
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=122000011&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=212200066620&region=0&sub_region=0&type=429",
@@ -12727,16 +12727,16 @@ export const duma_2003_uik_428_region_12_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бочкарев Евгений Михайлович": 89,
-      "Гильманова Резеда Ямиловна": 42,
-      "Казанков Иван Иванович": 328,
-      "Карпочев Владимир Андреевич": 9,
-      "Кислицын Вячеслав Александрович": 67,
-      "Комиссаров Валерий Яковлевич": 457,
-      "Кудрявцев Игорь Михайлович": 82,
-      "Мурадов Намик Ибрагим-оглы": 7,
-      "Свистунов Николай Юрьевич": 54,
-      "Против всех": 203
+      "gas:candidate-vibid:1001000212549": 89,
+      "gas:candidate-vibid:1001000195027": 42,
+      "gas:candidate-vibid:1001000121794": 328,
+      "gas:candidate-vibid:212200067142": 9,
+      "gas:candidate-vibid:212200067260": 67,
+      "gas:candidate-vibid:1001000225879": 457,
+      "gas:candidate-vibid:1001000217879": 82,
+      "gas:candidate-vibid:1001000201798": 7,
+      "gas:candidate-vibid:212200066725": 54,
+      "special:against-all": 203
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=122000011&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=212200066620&region=0&sub_region=0&type=429",
@@ -12786,16 +12786,16 @@ export const duma_2003_uik_428_region_12_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бочкарев Евгений Михайлович": 63,
-      "Гильманова Резеда Ямиловна": 20,
-      "Казанков Иван Иванович": 176,
-      "Карпочев Владимир Андреевич": 2,
-      "Кислицын Вячеслав Александрович": 54,
-      "Комиссаров Валерий Яковлевич": 310,
-      "Кудрявцев Игорь Михайлович": 50,
-      "Мурадов Намик Ибрагим-оглы": 4,
-      "Свистунов Николай Юрьевич": 29,
-      "Против всех": 196
+      "gas:candidate-vibid:1001000212549": 63,
+      "gas:candidate-vibid:1001000195027": 20,
+      "gas:candidate-vibid:1001000121794": 176,
+      "gas:candidate-vibid:212200067142": 2,
+      "gas:candidate-vibid:212200067260": 54,
+      "gas:candidate-vibid:1001000225879": 310,
+      "gas:candidate-vibid:1001000217879": 50,
+      "gas:candidate-vibid:1001000201798": 4,
+      "gas:candidate-vibid:212200066725": 29,
+      "special:against-all": 196
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=122000011&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=212200066620&region=0&sub_region=0&type=429",
@@ -12845,16 +12845,16 @@ export const duma_2003_uik_428_region_12_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бочкарев Евгений Михайлович": 66,
-      "Гильманова Резеда Ямиловна": 19,
-      "Казанков Иван Иванович": 268,
-      "Карпочев Владимир Андреевич": 7,
-      "Кислицын Вячеслав Александрович": 59,
-      "Комиссаров Валерий Яковлевич": 342,
-      "Кудрявцев Игорь Михайлович": 35,
-      "Мурадов Намик Ибрагим-оглы": 0,
-      "Свистунов Николай Юрьевич": 51,
-      "Против всех": 160
+      "gas:candidate-vibid:1001000212549": 66,
+      "gas:candidate-vibid:1001000195027": 19,
+      "gas:candidate-vibid:1001000121794": 268,
+      "gas:candidate-vibid:212200067142": 7,
+      "gas:candidate-vibid:212200067260": 59,
+      "gas:candidate-vibid:1001000225879": 342,
+      "gas:candidate-vibid:1001000217879": 35,
+      "gas:candidate-vibid:1001000201798": 0,
+      "gas:candidate-vibid:212200066725": 51,
+      "special:against-all": 160
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=122000011&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=212200066620&region=0&sub_region=0&type=429",
@@ -12904,16 +12904,16 @@ export const duma_2003_uik_428_region_12_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бочкарев Евгений Михайлович": 96,
-      "Гильманова Резеда Ямиловна": 23,
-      "Казанков Иван Иванович": 212,
-      "Карпочев Владимир Андреевич": 9,
-      "Кислицын Вячеслав Александрович": 53,
-      "Комиссаров Валерий Яковлевич": 466,
-      "Кудрявцев Игорь Михайлович": 96,
-      "Мурадов Намик Ибрагим-оглы": 2,
-      "Свистунов Николай Юрьевич": 64,
-      "Против всех": 245
+      "gas:candidate-vibid:1001000212549": 96,
+      "gas:candidate-vibid:1001000195027": 23,
+      "gas:candidate-vibid:1001000121794": 212,
+      "gas:candidate-vibid:212200067142": 9,
+      "gas:candidate-vibid:212200067260": 53,
+      "gas:candidate-vibid:1001000225879": 466,
+      "gas:candidate-vibid:1001000217879": 96,
+      "gas:candidate-vibid:1001000201798": 2,
+      "gas:candidate-vibid:212200066725": 64,
+      "special:against-all": 245
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=122000011&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=212200066620&region=0&sub_region=0&type=429",
@@ -12963,16 +12963,16 @@ export const duma_2003_uik_428_region_12_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бочкарев Евгений Михайлович": 95,
-      "Гильманова Резеда Ямиловна": 40,
-      "Казанков Иван Иванович": 190,
-      "Карпочев Владимир Андреевич": 10,
-      "Кислицын Вячеслав Александрович": 64,
-      "Комиссаров Валерий Яковлевич": 476,
-      "Кудрявцев Игорь Михайлович": 74,
-      "Мурадов Намик Ибрагим-оглы": 7,
-      "Свистунов Николай Юрьевич": 43,
-      "Против всех": 274
+      "gas:candidate-vibid:1001000212549": 95,
+      "gas:candidate-vibid:1001000195027": 40,
+      "gas:candidate-vibid:1001000121794": 190,
+      "gas:candidate-vibid:212200067142": 10,
+      "gas:candidate-vibid:212200067260": 64,
+      "gas:candidate-vibid:1001000225879": 476,
+      "gas:candidate-vibid:1001000217879": 74,
+      "gas:candidate-vibid:1001000201798": 7,
+      "gas:candidate-vibid:212200066725": 43,
+      "special:against-all": 274
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=122000011&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=212200066620&region=0&sub_region=0&type=429",
@@ -13022,16 +13022,16 @@ export const duma_2003_uik_428_region_12_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бочкарев Евгений Михайлович": 67,
-      "Гильманова Резеда Ямиловна": 27,
-      "Казанков Иван Иванович": 193,
-      "Карпочев Владимир Андреевич": 5,
-      "Кислицын Вячеслав Александрович": 49,
-      "Комиссаров Валерий Яковлевич": 365,
-      "Кудрявцев Игорь Михайлович": 66,
-      "Мурадов Намик Ибрагим-оглы": 8,
-      "Свистунов Николай Юрьевич": 64,
-      "Против всех": 183
+      "gas:candidate-vibid:1001000212549": 67,
+      "gas:candidate-vibid:1001000195027": 27,
+      "gas:candidate-vibid:1001000121794": 193,
+      "gas:candidate-vibid:212200067142": 5,
+      "gas:candidate-vibid:212200067260": 49,
+      "gas:candidate-vibid:1001000225879": 365,
+      "gas:candidate-vibid:1001000217879": 66,
+      "gas:candidate-vibid:1001000201798": 8,
+      "gas:candidate-vibid:212200066725": 64,
+      "special:against-all": 183
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=122000011&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=212200066620&region=0&sub_region=0&type=429",
@@ -13081,16 +13081,16 @@ export const duma_2003_uik_428_region_12_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бочкарев Евгений Михайлович": 84,
-      "Гильманова Резеда Ямиловна": 17,
-      "Казанков Иван Иванович": 141,
-      "Карпочев Владимир Андреевич": 7,
-      "Кислицын Вячеслав Александрович": 36,
-      "Комиссаров Валерий Яковлевич": 388,
-      "Кудрявцев Игорь Михайлович": 37,
-      "Мурадов Намик Ибрагим-оглы": 5,
-      "Свистунов Николай Юрьевич": 51,
-      "Против всех": 173
+      "gas:candidate-vibid:1001000212549": 84,
+      "gas:candidate-vibid:1001000195027": 17,
+      "gas:candidate-vibid:1001000121794": 141,
+      "gas:candidate-vibid:212200067142": 7,
+      "gas:candidate-vibid:212200067260": 36,
+      "gas:candidate-vibid:1001000225879": 388,
+      "gas:candidate-vibid:1001000217879": 37,
+      "gas:candidate-vibid:1001000201798": 5,
+      "gas:candidate-vibid:212200066725": 51,
+      "special:against-all": 173
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=122000011&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=212200066620&region=0&sub_region=0&type=429",
@@ -13140,16 +13140,16 @@ export const duma_2003_uik_428_region_12_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бочкарев Евгений Михайлович": 1,
-      "Гильманова Резеда Ямиловна": 4,
-      "Казанков Иван Иванович": 10,
-      "Карпочев Владимир Андреевич": 1,
-      "Кислицын Вячеслав Александрович": 2,
-      "Комиссаров Валерий Яковлевич": 100,
-      "Кудрявцев Игорь Михайлович": 15,
-      "Мурадов Намик Ибрагим-оглы": 2,
-      "Свистунов Николай Юрьевич": 1,
-      "Против всех": 33
+      "gas:candidate-vibid:1001000212549": 1,
+      "gas:candidate-vibid:1001000195027": 4,
+      "gas:candidate-vibid:1001000121794": 10,
+      "gas:candidate-vibid:212200067142": 1,
+      "gas:candidate-vibid:212200067260": 2,
+      "gas:candidate-vibid:1001000225879": 100,
+      "gas:candidate-vibid:1001000217879": 15,
+      "gas:candidate-vibid:1001000201798": 2,
+      "gas:candidate-vibid:212200066725": 1,
+      "special:against-all": 33
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=122000011&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=212200066620&region=0&sub_region=0&type=429",
@@ -13199,16 +13199,16 @@ export const duma_2003_uik_428_region_12_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бочкарев Евгений Михайлович": 31,
-      "Гильманова Резеда Ямиловна": 35,
-      "Казанков Иван Иванович": 114,
-      "Карпочев Владимир Андреевич": 6,
-      "Кислицын Вячеслав Александрович": 50,
-      "Комиссаров Валерий Яковлевич": 273,
-      "Кудрявцев Игорь Михайлович": 36,
-      "Мурадов Намик Ибрагим-оглы": 11,
-      "Свистунов Николай Юрьевич": 32,
-      "Против всех": 111
+      "gas:candidate-vibid:1001000212549": 31,
+      "gas:candidate-vibid:1001000195027": 35,
+      "gas:candidate-vibid:1001000121794": 114,
+      "gas:candidate-vibid:212200067142": 6,
+      "gas:candidate-vibid:212200067260": 50,
+      "gas:candidate-vibid:1001000225879": 273,
+      "gas:candidate-vibid:1001000217879": 36,
+      "gas:candidate-vibid:1001000201798": 11,
+      "gas:candidate-vibid:212200066725": 32,
+      "special:against-all": 111
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=122000011&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=212200066620&region=0&sub_region=0&type=429",
@@ -13258,16 +13258,16 @@ export const duma_2003_uik_428_region_12_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бочкарев Евгений Михайлович": 30,
-      "Гильманова Резеда Ямиловна": 23,
-      "Казанков Иван Иванович": 146,
-      "Карпочев Владимир Андреевич": 1,
-      "Кислицын Вячеслав Александрович": 36,
-      "Комиссаров Валерий Яковлевич": 218,
-      "Кудрявцев Игорь Михайлович": 38,
-      "Мурадов Намик Ибрагим-оглы": 6,
-      "Свистунов Николай Юрьевич": 28,
-      "Против всех": 86
+      "gas:candidate-vibid:1001000212549": 30,
+      "gas:candidate-vibid:1001000195027": 23,
+      "gas:candidate-vibid:1001000121794": 146,
+      "gas:candidate-vibid:212200067142": 1,
+      "gas:candidate-vibid:212200067260": 36,
+      "gas:candidate-vibid:1001000225879": 218,
+      "gas:candidate-vibid:1001000217879": 38,
+      "gas:candidate-vibid:1001000201798": 6,
+      "gas:candidate-vibid:212200066725": 28,
+      "special:against-all": 86
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=122000011&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=212200066620&region=0&sub_region=0&type=429",
@@ -13317,16 +13317,16 @@ export const duma_2003_uik_428_region_12_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бочкарев Евгений Михайлович": 59,
-      "Гильманова Резеда Ямиловна": 29,
-      "Казанков Иван Иванович": 196,
-      "Карпочев Владимир Андреевич": 11,
-      "Кислицын Вячеслав Александрович": 37,
-      "Комиссаров Валерий Яковлевич": 466,
-      "Кудрявцев Игорь Михайлович": 70,
-      "Мурадов Намик Ибрагим-оглы": 3,
-      "Свистунов Николай Юрьевич": 48,
-      "Против всех": 219
+      "gas:candidate-vibid:1001000212549": 59,
+      "gas:candidate-vibid:1001000195027": 29,
+      "gas:candidate-vibid:1001000121794": 196,
+      "gas:candidate-vibid:212200067142": 11,
+      "gas:candidate-vibid:212200067260": 37,
+      "gas:candidate-vibid:1001000225879": 466,
+      "gas:candidate-vibid:1001000217879": 70,
+      "gas:candidate-vibid:1001000201798": 3,
+      "gas:candidate-vibid:212200066725": 48,
+      "special:against-all": 219
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=122000011&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=212200066620&region=0&sub_region=0&type=429",
@@ -13376,16 +13376,16 @@ export const duma_2003_uik_428_region_12_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бочкарев Евгений Михайлович": 62,
-      "Гильманова Резеда Ямиловна": 16,
-      "Казанков Иван Иванович": 164,
-      "Карпочев Владимир Андреевич": 5,
-      "Кислицын Вячеслав Александрович": 63,
-      "Комиссаров Валерий Яковлевич": 475,
-      "Кудрявцев Игорь Михайлович": 72,
-      "Мурадов Намик Ибрагим-оглы": 6,
-      "Свистунов Николай Юрьевич": 56,
-      "Против всех": 203
+      "gas:candidate-vibid:1001000212549": 62,
+      "gas:candidate-vibid:1001000195027": 16,
+      "gas:candidate-vibid:1001000121794": 164,
+      "gas:candidate-vibid:212200067142": 5,
+      "gas:candidate-vibid:212200067260": 63,
+      "gas:candidate-vibid:1001000225879": 475,
+      "gas:candidate-vibid:1001000217879": 72,
+      "gas:candidate-vibid:1001000201798": 6,
+      "gas:candidate-vibid:212200066725": 56,
+      "special:against-all": 203
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=122000011&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=212200066620&region=0&sub_region=0&type=429",
@@ -13435,16 +13435,16 @@ export const duma_2003_uik_428_region_12_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бочкарев Евгений Михайлович": 142,
-      "Гильманова Резеда Ямиловна": 35,
-      "Казанков Иван Иванович": 288,
-      "Карпочев Владимир Андреевич": 16,
-      "Кислицын Вячеслав Александрович": 67,
-      "Комиссаров Валерий Яковлевич": 521,
-      "Кудрявцев Игорь Михайлович": 49,
-      "Мурадов Намик Ибрагим-оглы": 6,
-      "Свистунов Николай Юрьевич": 59,
-      "Против всех": 239
+      "gas:candidate-vibid:1001000212549": 142,
+      "gas:candidate-vibid:1001000195027": 35,
+      "gas:candidate-vibid:1001000121794": 288,
+      "gas:candidate-vibid:212200067142": 16,
+      "gas:candidate-vibid:212200067260": 67,
+      "gas:candidate-vibid:1001000225879": 521,
+      "gas:candidate-vibid:1001000217879": 49,
+      "gas:candidate-vibid:1001000201798": 6,
+      "gas:candidate-vibid:212200066725": 59,
+      "special:against-all": 239
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=122000011&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=212200066620&region=0&sub_region=0&type=429",
@@ -13494,16 +13494,16 @@ export const duma_2003_uik_428_region_12_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бочкарев Евгений Михайлович": 91,
-      "Гильманова Резеда Ямиловна": 14,
-      "Казанков Иван Иванович": 189,
-      "Карпочев Владимир Андреевич": 10,
-      "Кислицын Вячеслав Александрович": 40,
-      "Комиссаров Валерий Яковлевич": 425,
-      "Кудрявцев Игорь Михайлович": 54,
-      "Мурадов Намик Ибрагим-оглы": 5,
-      "Свистунов Николай Юрьевич": 39,
-      "Против всех": 214
+      "gas:candidate-vibid:1001000212549": 91,
+      "gas:candidate-vibid:1001000195027": 14,
+      "gas:candidate-vibid:1001000121794": 189,
+      "gas:candidate-vibid:212200067142": 10,
+      "gas:candidate-vibid:212200067260": 40,
+      "gas:candidate-vibid:1001000225879": 425,
+      "gas:candidate-vibid:1001000217879": 54,
+      "gas:candidate-vibid:1001000201798": 5,
+      "gas:candidate-vibid:212200066725": 39,
+      "special:against-all": 214
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=122000011&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=212200066620&region=0&sub_region=0&type=429",
@@ -13553,16 +13553,16 @@ export const duma_2003_uik_428_region_12_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бочкарев Евгений Михайлович": 89,
-      "Гильманова Резеда Ямиловна": 38,
-      "Казанков Иван Иванович": 174,
-      "Карпочев Владимир Андреевич": 7,
-      "Кислицын Вячеслав Александрович": 58,
-      "Комиссаров Валерий Яковлевич": 498,
-      "Кудрявцев Игорь Михайлович": 85,
-      "Мурадов Намик Ибрагим-оглы": 8,
-      "Свистунов Николай Юрьевич": 41,
-      "Против всех": 224
+      "gas:candidate-vibid:1001000212549": 89,
+      "gas:candidate-vibid:1001000195027": 38,
+      "gas:candidate-vibid:1001000121794": 174,
+      "gas:candidate-vibid:212200067142": 7,
+      "gas:candidate-vibid:212200067260": 58,
+      "gas:candidate-vibid:1001000225879": 498,
+      "gas:candidate-vibid:1001000217879": 85,
+      "gas:candidate-vibid:1001000201798": 8,
+      "gas:candidate-vibid:212200066725": 41,
+      "special:against-all": 224
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=122000011&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=212200066620&region=0&sub_region=0&type=429",
@@ -13612,16 +13612,16 @@ export const duma_2003_uik_428_region_12_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бочкарев Евгений Михайлович": 102,
-      "Гильманова Резеда Ямиловна": 24,
-      "Казанков Иван Иванович": 249,
-      "Карпочев Владимир Андреевич": 6,
-      "Кислицын Вячеслав Александрович": 51,
-      "Комиссаров Валерий Яковлевич": 485,
-      "Кудрявцев Игорь Михайлович": 67,
-      "Мурадов Намик Ибрагим-оглы": 3,
-      "Свистунов Николай Юрьевич": 61,
-      "Против всех": 238
+      "gas:candidate-vibid:1001000212549": 102,
+      "gas:candidate-vibid:1001000195027": 24,
+      "gas:candidate-vibid:1001000121794": 249,
+      "gas:candidate-vibid:212200067142": 6,
+      "gas:candidate-vibid:212200067260": 51,
+      "gas:candidate-vibid:1001000225879": 485,
+      "gas:candidate-vibid:1001000217879": 67,
+      "gas:candidate-vibid:1001000201798": 3,
+      "gas:candidate-vibid:212200066725": 61,
+      "special:against-all": 238
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=122000011&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=212200066620&region=0&sub_region=0&type=429",
@@ -13671,16 +13671,16 @@ export const duma_2003_uik_428_region_12_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бочкарев Евгений Михайлович": 60,
-      "Гильманова Резеда Ямиловна": 8,
-      "Казанков Иван Иванович": 175,
-      "Карпочев Владимир Андреевич": 6,
-      "Кислицын Вячеслав Александрович": 36,
-      "Комиссаров Валерий Яковлевич": 331,
-      "Кудрявцев Игорь Михайлович": 38,
-      "Мурадов Намик Ибрагим-оглы": 3,
-      "Свистунов Николай Юрьевич": 25,
-      "Против всех": 105
+      "gas:candidate-vibid:1001000212549": 60,
+      "gas:candidate-vibid:1001000195027": 8,
+      "gas:candidate-vibid:1001000121794": 175,
+      "gas:candidate-vibid:212200067142": 6,
+      "gas:candidate-vibid:212200067260": 36,
+      "gas:candidate-vibid:1001000225879": 331,
+      "gas:candidate-vibid:1001000217879": 38,
+      "gas:candidate-vibid:1001000201798": 3,
+      "gas:candidate-vibid:212200066725": 25,
+      "special:against-all": 105
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=122000011&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=212200066620&region=0&sub_region=0&type=429",
@@ -13730,16 +13730,16 @@ export const duma_2003_uik_428_region_12_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бочкарев Евгений Михайлович": 73,
-      "Гильманова Резеда Ямиловна": 10,
-      "Казанков Иван Иванович": 159,
-      "Карпочев Владимир Андреевич": 9,
-      "Кислицын Вячеслав Александрович": 29,
-      "Комиссаров Валерий Яковлевич": 428,
-      "Кудрявцев Игорь Михайлович": 45,
-      "Мурадов Намик Ибрагим-оглы": 5,
-      "Свистунов Николай Юрьевич": 36,
-      "Против всех": 159
+      "gas:candidate-vibid:1001000212549": 73,
+      "gas:candidate-vibid:1001000195027": 10,
+      "gas:candidate-vibid:1001000121794": 159,
+      "gas:candidate-vibid:212200067142": 9,
+      "gas:candidate-vibid:212200067260": 29,
+      "gas:candidate-vibid:1001000225879": 428,
+      "gas:candidate-vibid:1001000217879": 45,
+      "gas:candidate-vibid:1001000201798": 5,
+      "gas:candidate-vibid:212200066725": 36,
+      "special:against-all": 159
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=122000011&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=212200066620&region=0&sub_region=0&type=429",
@@ -13789,16 +13789,16 @@ export const duma_2003_uik_428_region_12_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бочкарев Евгений Михайлович": 102,
-      "Гильманова Резеда Ямиловна": 25,
-      "Казанков Иван Иванович": 270,
-      "Карпочев Владимир Андреевич": 11,
-      "Кислицын Вячеслав Александрович": 44,
-      "Комиссаров Валерий Яковлевич": 464,
-      "Кудрявцев Игорь Михайлович": 68,
-      "Мурадов Намик Ибрагим-оглы": 5,
-      "Свистунов Николай Юрьевич": 45,
-      "Против всех": 188
+      "gas:candidate-vibid:1001000212549": 102,
+      "gas:candidate-vibid:1001000195027": 25,
+      "gas:candidate-vibid:1001000121794": 270,
+      "gas:candidate-vibid:212200067142": 11,
+      "gas:candidate-vibid:212200067260": 44,
+      "gas:candidate-vibid:1001000225879": 464,
+      "gas:candidate-vibid:1001000217879": 68,
+      "gas:candidate-vibid:1001000201798": 5,
+      "gas:candidate-vibid:212200066725": 45,
+      "special:against-all": 188
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=122000011&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=212200066620&region=0&sub_region=0&type=429",
@@ -13848,16 +13848,16 @@ export const duma_2003_uik_428_region_12_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бочкарев Евгений Михайлович": 123,
-      "Гильманова Резеда Ямиловна": 20,
-      "Казанков Иван Иванович": 194,
-      "Карпочев Владимир Андреевич": 8,
-      "Кислицын Вячеслав Александрович": 48,
-      "Комиссаров Валерий Яковлевич": 506,
-      "Кудрявцев Игорь Михайлович": 53,
-      "Мурадов Намик Ибрагим-оглы": 5,
-      "Свистунов Николай Юрьевич": 37,
-      "Против всех": 200
+      "gas:candidate-vibid:1001000212549": 123,
+      "gas:candidate-vibid:1001000195027": 20,
+      "gas:candidate-vibid:1001000121794": 194,
+      "gas:candidate-vibid:212200067142": 8,
+      "gas:candidate-vibid:212200067260": 48,
+      "gas:candidate-vibid:1001000225879": 506,
+      "gas:candidate-vibid:1001000217879": 53,
+      "gas:candidate-vibid:1001000201798": 5,
+      "gas:candidate-vibid:212200066725": 37,
+      "special:against-all": 200
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=122000011&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=212200066620&region=0&sub_region=0&type=429",
@@ -13907,16 +13907,16 @@ export const duma_2003_uik_428_region_12_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бочкарев Евгений Михайлович": 109,
-      "Гильманова Резеда Ямиловна": 8,
-      "Казанков Иван Иванович": 200,
-      "Карпочев Владимир Андреевич": 13,
-      "Кислицын Вячеслав Александрович": 45,
-      "Комиссаров Валерий Яковлевич": 357,
-      "Кудрявцев Игорь Михайлович": 61,
-      "Мурадов Намик Ибрагим-оглы": 1,
-      "Свистунов Николай Юрьевич": 43,
-      "Против всех": 180
+      "gas:candidate-vibid:1001000212549": 109,
+      "gas:candidate-vibid:1001000195027": 8,
+      "gas:candidate-vibid:1001000121794": 200,
+      "gas:candidate-vibid:212200067142": 13,
+      "gas:candidate-vibid:212200067260": 45,
+      "gas:candidate-vibid:1001000225879": 357,
+      "gas:candidate-vibid:1001000217879": 61,
+      "gas:candidate-vibid:1001000201798": 1,
+      "gas:candidate-vibid:212200066725": 43,
+      "special:against-all": 180
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=122000011&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=212200066620&region=0&sub_region=0&type=429",
@@ -13966,16 +13966,16 @@ export const duma_2003_uik_428_region_12_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бочкарев Евгений Михайлович": 101,
-      "Гильманова Резеда Ямиловна": 15,
-      "Казанков Иван Иванович": 209,
-      "Карпочев Владимир Андреевич": 7,
-      "Кислицын Вячеслав Александрович": 52,
-      "Комиссаров Валерий Яковлевич": 395,
-      "Кудрявцев Игорь Михайлович": 73,
-      "Мурадов Намик Ибрагим-оглы": 5,
-      "Свистунов Николай Юрьевич": 51,
-      "Против всех": 177
+      "gas:candidate-vibid:1001000212549": 101,
+      "gas:candidate-vibid:1001000195027": 15,
+      "gas:candidate-vibid:1001000121794": 209,
+      "gas:candidate-vibid:212200067142": 7,
+      "gas:candidate-vibid:212200067260": 52,
+      "gas:candidate-vibid:1001000225879": 395,
+      "gas:candidate-vibid:1001000217879": 73,
+      "gas:candidate-vibid:1001000201798": 5,
+      "gas:candidate-vibid:212200066725": 51,
+      "special:against-all": 177
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=122000011&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=212200066620&region=0&sub_region=0&type=429",
@@ -14025,16 +14025,16 @@ export const duma_2003_uik_428_region_12_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бочкарев Евгений Михайлович": 56,
-      "Гильманова Резеда Ямиловна": 12,
-      "Казанков Иван Иванович": 135,
-      "Карпочев Владимир Андреевич": 5,
-      "Кислицын Вячеслав Александрович": 26,
-      "Комиссаров Валерий Яковлевич": 335,
-      "Кудрявцев Игорь Михайлович": 45,
-      "Мурадов Намик Ибрагим-оглы": 1,
-      "Свистунов Николай Юрьевич": 18,
-      "Против всех": 133
+      "gas:candidate-vibid:1001000212549": 56,
+      "gas:candidate-vibid:1001000195027": 12,
+      "gas:candidate-vibid:1001000121794": 135,
+      "gas:candidate-vibid:212200067142": 5,
+      "gas:candidate-vibid:212200067260": 26,
+      "gas:candidate-vibid:1001000225879": 335,
+      "gas:candidate-vibid:1001000217879": 45,
+      "gas:candidate-vibid:1001000201798": 1,
+      "gas:candidate-vibid:212200066725": 18,
+      "special:against-all": 133
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=122000011&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=212200066620&region=0&sub_region=0&type=429",
@@ -14084,16 +14084,16 @@ export const duma_2003_uik_428_region_12_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бочкарев Евгений Михайлович": 97,
-      "Гильманова Резеда Ямиловна": 20,
-      "Казанков Иван Иванович": 255,
-      "Карпочев Владимир Андреевич": 11,
-      "Кислицын Вячеслав Александрович": 51,
-      "Комиссаров Валерий Яковлевич": 396,
-      "Кудрявцев Игорь Михайлович": 57,
-      "Мурадов Намик Ибрагим-оглы": 5,
-      "Свистунов Николай Юрьевич": 36,
-      "Против всех": 193
+      "gas:candidate-vibid:1001000212549": 97,
+      "gas:candidate-vibid:1001000195027": 20,
+      "gas:candidate-vibid:1001000121794": 255,
+      "gas:candidate-vibid:212200067142": 11,
+      "gas:candidate-vibid:212200067260": 51,
+      "gas:candidate-vibid:1001000225879": 396,
+      "gas:candidate-vibid:1001000217879": 57,
+      "gas:candidate-vibid:1001000201798": 5,
+      "gas:candidate-vibid:212200066725": 36,
+      "special:against-all": 193
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=122000011&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=212200066620&region=0&sub_region=0&type=429",
@@ -14143,16 +14143,16 @@ export const duma_2003_uik_428_region_12_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бочкарев Евгений Михайлович": 81,
-      "Гильманова Резеда Ямиловна": 23,
-      "Казанков Иван Иванович": 167,
-      "Карпочев Владимир Андреевич": 5,
-      "Кислицын Вячеслав Александрович": 42,
-      "Комиссаров Валерий Яковлевич": 332,
-      "Кудрявцев Игорь Михайлович": 51,
-      "Мурадов Намик Ибрагим-оглы": 6,
-      "Свистунов Николай Юрьевич": 44,
-      "Против всех": 156
+      "gas:candidate-vibid:1001000212549": 81,
+      "gas:candidate-vibid:1001000195027": 23,
+      "gas:candidate-vibid:1001000121794": 167,
+      "gas:candidate-vibid:212200067142": 5,
+      "gas:candidate-vibid:212200067260": 42,
+      "gas:candidate-vibid:1001000225879": 332,
+      "gas:candidate-vibid:1001000217879": 51,
+      "gas:candidate-vibid:1001000201798": 6,
+      "gas:candidate-vibid:212200066725": 44,
+      "special:against-all": 156
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=122000011&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=212200066620&region=0&sub_region=0&type=429",
@@ -14202,16 +14202,16 @@ export const duma_2003_uik_428_region_12_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бочкарев Евгений Михайлович": 77,
-      "Гильманова Резеда Ямиловна": 14,
-      "Казанков Иван Иванович": 150,
-      "Карпочев Владимир Андреевич": 4,
-      "Кислицын Вячеслав Александрович": 62,
-      "Комиссаров Валерий Яковлевич": 348,
-      "Кудрявцев Игорь Михайлович": 73,
-      "Мурадов Намик Ибрагим-оглы": 8,
-      "Свистунов Николай Юрьевич": 53,
-      "Против всех": 147
+      "gas:candidate-vibid:1001000212549": 77,
+      "gas:candidate-vibid:1001000195027": 14,
+      "gas:candidate-vibid:1001000121794": 150,
+      "gas:candidate-vibid:212200067142": 4,
+      "gas:candidate-vibid:212200067260": 62,
+      "gas:candidate-vibid:1001000225879": 348,
+      "gas:candidate-vibid:1001000217879": 73,
+      "gas:candidate-vibid:1001000201798": 8,
+      "gas:candidate-vibid:212200066725": 53,
+      "special:against-all": 147
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=122000011&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=212200066620&region=0&sub_region=0&type=429",
@@ -14261,16 +14261,16 @@ export const duma_2003_uik_428_region_12_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бочкарев Евгений Михайлович": 84,
-      "Гильманова Резеда Ямиловна": 16,
-      "Казанков Иван Иванович": 202,
-      "Карпочев Владимир Андреевич": 9,
-      "Кислицын Вячеслав Александрович": 54,
-      "Комиссаров Валерий Яковлевич": 427,
-      "Кудрявцев Игорь Михайлович": 66,
-      "Мурадов Намик Ибрагим-оглы": 5,
-      "Свистунов Николай Юрьевич": 63,
-      "Против всех": 200
+      "gas:candidate-vibid:1001000212549": 84,
+      "gas:candidate-vibid:1001000195027": 16,
+      "gas:candidate-vibid:1001000121794": 202,
+      "gas:candidate-vibid:212200067142": 9,
+      "gas:candidate-vibid:212200067260": 54,
+      "gas:candidate-vibid:1001000225879": 427,
+      "gas:candidate-vibid:1001000217879": 66,
+      "gas:candidate-vibid:1001000201798": 5,
+      "gas:candidate-vibid:212200066725": 63,
+      "special:against-all": 200
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=122000011&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=212200066620&region=0&sub_region=0&type=429",
@@ -14320,16 +14320,16 @@ export const duma_2003_uik_428_region_12_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бочкарев Евгений Михайлович": 104,
-      "Гильманова Резеда Ямиловна": 19,
-      "Казанков Иван Иванович": 182,
-      "Карпочев Владимир Андреевич": 10,
-      "Кислицын Вячеслав Александрович": 71,
-      "Комиссаров Валерий Яковлевич": 529,
-      "Кудрявцев Игорь Михайлович": 73,
-      "Мурадов Намик Ибрагим-оглы": 7,
-      "Свистунов Николай Юрьевич": 74,
-      "Против всех": 242
+      "gas:candidate-vibid:1001000212549": 104,
+      "gas:candidate-vibid:1001000195027": 19,
+      "gas:candidate-vibid:1001000121794": 182,
+      "gas:candidate-vibid:212200067142": 10,
+      "gas:candidate-vibid:212200067260": 71,
+      "gas:candidate-vibid:1001000225879": 529,
+      "gas:candidate-vibid:1001000217879": 73,
+      "gas:candidate-vibid:1001000201798": 7,
+      "gas:candidate-vibid:212200066725": 74,
+      "special:against-all": 242
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=122000011&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=212200066620&region=0&sub_region=0&type=429",
@@ -14379,16 +14379,16 @@ export const duma_2003_uik_428_region_12_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бочкарев Евгений Михайлович": 55,
-      "Гильманова Резеда Ямиловна": 14,
-      "Казанков Иван Иванович": 116,
-      "Карпочев Владимир Андреевич": 7,
-      "Кислицын Вячеслав Александрович": 48,
-      "Комиссаров Валерий Яковлевич": 317,
-      "Кудрявцев Игорь Михайлович": 28,
-      "Мурадов Намик Ибрагим-оглы": 4,
-      "Свистунов Николай Юрьевич": 34,
-      "Против всех": 147
+      "gas:candidate-vibid:1001000212549": 55,
+      "gas:candidate-vibid:1001000195027": 14,
+      "gas:candidate-vibid:1001000121794": 116,
+      "gas:candidate-vibid:212200067142": 7,
+      "gas:candidate-vibid:212200067260": 48,
+      "gas:candidate-vibid:1001000225879": 317,
+      "gas:candidate-vibid:1001000217879": 28,
+      "gas:candidate-vibid:1001000201798": 4,
+      "gas:candidate-vibid:212200066725": 34,
+      "special:against-all": 147
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=122000011&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=212200066620&region=0&sub_region=0&type=429",
@@ -14438,16 +14438,16 @@ export const duma_2003_uik_428_region_12_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бочкарев Евгений Михайлович": 23,
-      "Гильманова Резеда Ямиловна": 8,
-      "Казанков Иван Иванович": 105,
-      "Карпочев Владимир Андреевич": 0,
-      "Кислицын Вячеслав Александрович": 28,
-      "Комиссаров Валерий Яковлевич": 174,
-      "Кудрявцев Игорь Михайлович": 23,
-      "Мурадов Намик Ибрагим-оглы": 1,
-      "Свистунов Николай Юрьевич": 26,
-      "Против всех": 91
+      "gas:candidate-vibid:1001000212549": 23,
+      "gas:candidate-vibid:1001000195027": 8,
+      "gas:candidate-vibid:1001000121794": 105,
+      "gas:candidate-vibid:212200067142": 0,
+      "gas:candidate-vibid:212200067260": 28,
+      "gas:candidate-vibid:1001000225879": 174,
+      "gas:candidate-vibid:1001000217879": 23,
+      "gas:candidate-vibid:1001000201798": 1,
+      "gas:candidate-vibid:212200066725": 26,
+      "special:against-all": 91
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=122000011&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=212200066620&region=0&sub_region=0&type=429",
@@ -14497,16 +14497,16 @@ export const duma_2003_uik_428_region_12_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бочкарев Евгений Михайлович": 20,
-      "Гильманова Резеда Ямиловна": 5,
-      "Казанков Иван Иванович": 49,
-      "Карпочев Владимир Андреевич": 0,
-      "Кислицын Вячеслав Александрович": 17,
-      "Комиссаров Валерий Яковлевич": 89,
-      "Кудрявцев Игорь Михайлович": 16,
-      "Мурадов Намик Ибрагим-оглы": 0,
-      "Свистунов Николай Юрьевич": 15,
-      "Против всех": 57
+      "gas:candidate-vibid:1001000212549": 20,
+      "gas:candidate-vibid:1001000195027": 5,
+      "gas:candidate-vibid:1001000121794": 49,
+      "gas:candidate-vibid:212200067142": 0,
+      "gas:candidate-vibid:212200067260": 17,
+      "gas:candidate-vibid:1001000225879": 89,
+      "gas:candidate-vibid:1001000217879": 16,
+      "gas:candidate-vibid:1001000201798": 0,
+      "gas:candidate-vibid:212200066725": 15,
+      "special:against-all": 57
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=122000011&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=212200066620&region=0&sub_region=0&type=429",
@@ -14556,16 +14556,16 @@ export const duma_2003_uik_428_region_12_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бочкарев Евгений Михайлович": 70,
-      "Гильманова Резеда Ямиловна": 10,
-      "Казанков Иван Иванович": 188,
-      "Карпочев Владимир Андреевич": 8,
-      "Кислицын Вячеслав Александрович": 38,
-      "Комиссаров Валерий Яковлевич": 338,
-      "Кудрявцев Игорь Михайлович": 44,
-      "Мурадов Намик Ибрагим-оглы": 1,
-      "Свистунов Николай Юрьевич": 37,
-      "Против всех": 154
+      "gas:candidate-vibid:1001000212549": 70,
+      "gas:candidate-vibid:1001000195027": 10,
+      "gas:candidate-vibid:1001000121794": 188,
+      "gas:candidate-vibid:212200067142": 8,
+      "gas:candidate-vibid:212200067260": 38,
+      "gas:candidate-vibid:1001000225879": 338,
+      "gas:candidate-vibid:1001000217879": 44,
+      "gas:candidate-vibid:1001000201798": 1,
+      "gas:candidate-vibid:212200066725": 37,
+      "special:against-all": 154
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=122000011&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=212200066620&region=0&sub_region=0&type=429",
@@ -14615,16 +14615,16 @@ export const duma_2003_uik_428_region_12_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бочкарев Евгений Михайлович": 6,
-      "Гильманова Резеда Ямиловна": 4,
-      "Казанков Иван Иванович": 70,
-      "Карпочев Владимир Андреевич": 3,
-      "Кислицын Вячеслав Александрович": 8,
-      "Комиссаров Валерий Яковлевич": 87,
-      "Кудрявцев Игорь Михайлович": 13,
-      "Мурадов Намик Ибрагим-оглы": 3,
-      "Свистунов Николай Юрьевич": 7,
-      "Против всех": 31
+      "gas:candidate-vibid:1001000212549": 6,
+      "gas:candidate-vibid:1001000195027": 4,
+      "gas:candidate-vibid:1001000121794": 70,
+      "gas:candidate-vibid:212200067142": 3,
+      "gas:candidate-vibid:212200067260": 8,
+      "gas:candidate-vibid:1001000225879": 87,
+      "gas:candidate-vibid:1001000217879": 13,
+      "gas:candidate-vibid:1001000201798": 3,
+      "gas:candidate-vibid:212200066725": 7,
+      "special:against-all": 31
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=122000011&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=212200066620&region=0&sub_region=0&type=429",
@@ -14674,16 +14674,16 @@ export const duma_2003_uik_428_region_12_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бочкарев Евгений Михайлович": 16,
-      "Гильманова Резеда Ямиловна": 7,
-      "Казанков Иван Иванович": 69,
-      "Карпочев Владимир Андреевич": 4,
-      "Кислицын Вячеслав Александрович": 14,
-      "Комиссаров Валерий Яковлевич": 133,
-      "Кудрявцев Игорь Михайлович": 13,
-      "Мурадов Намик Ибрагим-оглы": 1,
-      "Свистунов Николай Юрьевич": 16,
-      "Против всех": 65
+      "gas:candidate-vibid:1001000212549": 16,
+      "gas:candidate-vibid:1001000195027": 7,
+      "gas:candidate-vibid:1001000121794": 69,
+      "gas:candidate-vibid:212200067142": 4,
+      "gas:candidate-vibid:212200067260": 14,
+      "gas:candidate-vibid:1001000225879": 133,
+      "gas:candidate-vibid:1001000217879": 13,
+      "gas:candidate-vibid:1001000201798": 1,
+      "gas:candidate-vibid:212200066725": 16,
+      "special:against-all": 65
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=122000011&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=212200066620&region=0&sub_region=0&type=429",
@@ -14733,16 +14733,16 @@ export const duma_2003_uik_428_region_12_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бочкарев Евгений Михайлович": 17,
-      "Гильманова Резеда Ямиловна": 8,
-      "Казанков Иван Иванович": 57,
-      "Карпочев Владимир Андреевич": 6,
-      "Кислицын Вячеслав Александрович": 32,
-      "Комиссаров Валерий Яковлевич": 154,
-      "Кудрявцев Игорь Михайлович": 15,
-      "Мурадов Намик Ибрагим-оглы": 1,
-      "Свистунов Николай Юрьевич": 6,
-      "Против всех": 58
+      "gas:candidate-vibid:1001000212549": 17,
+      "gas:candidate-vibid:1001000195027": 8,
+      "gas:candidate-vibid:1001000121794": 57,
+      "gas:candidate-vibid:212200067142": 6,
+      "gas:candidate-vibid:212200067260": 32,
+      "gas:candidate-vibid:1001000225879": 154,
+      "gas:candidate-vibid:1001000217879": 15,
+      "gas:candidate-vibid:1001000201798": 1,
+      "gas:candidate-vibid:212200066725": 6,
+      "special:against-all": 58
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=122000011&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=212200066620&region=0&sub_region=0&type=429",

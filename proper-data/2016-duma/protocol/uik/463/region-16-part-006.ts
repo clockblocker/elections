@@ -43,13 +43,13 @@ export const duma_2016_uik_463_region_16_part_006 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Артемьева Анна Владимировна": 15,
-      "Вильданов Дамир Насырович": 4,
-      "Закиров Ринат Замильевич": 6,
-      "Иосипов Евгений Константинович": 17,
-      "Лукин Андрей Михайлович": 8,
-      "Хайруллин Айрат Назипович": 531,
-      "Ягудин Альберт Ахметвагизович": 9
+      "gas:candidate-vibid:4164038200292": 15,
+      "gas:candidate-vibid:4164038200488": 4,
+      "gas:candidate-vibid:4164038200318": 6,
+      "gas:candidate-vibid:4164038200535": 17,
+      "gas:candidate-vibid:4164038200618": 8,
+      "gas:candidate-vibid:4164038200764": 531,
+      "gas:candidate-vibid:4164038200659": 9
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tatarstan?action=show&root=1000041&tvd=21620001562294&vrn=100100067795849&region=16&global=&sub_region=16&prver=0&pronetvd=null&vibid=21620001562294&type=464",
@@ -100,13 +100,13 @@ export const duma_2016_uik_463_region_16_part_006 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Артемьева Анна Владимировна": 0,
-      "Вильданов Дамир Насырович": 2,
-      "Закиров Ринат Замильевич": 0,
-      "Иосипов Евгений Константинович": 1,
-      "Лукин Андрей Михайлович": 0,
-      "Хайруллин Айрат Назипович": 69,
-      "Ягудин Альберт Ахметвагизович": 0
+      "gas:candidate-vibid:4164038200292": 0,
+      "gas:candidate-vibid:4164038200488": 2,
+      "gas:candidate-vibid:4164038200318": 0,
+      "gas:candidate-vibid:4164038200535": 1,
+      "gas:candidate-vibid:4164038200618": 0,
+      "gas:candidate-vibid:4164038200764": 69,
+      "gas:candidate-vibid:4164038200659": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tatarstan?action=show&root=1000041&tvd=21620001562294&vrn=100100067795849&region=16&global=&sub_region=16&prver=0&pronetvd=null&vibid=21620001562294&type=464",
@@ -157,13 +157,13 @@ export const duma_2016_uik_463_region_16_part_006 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Артемьева Анна Владимировна": 0,
-      "Вильданов Дамир Насырович": 1,
-      "Закиров Ринат Замильевич": 0,
-      "Иосипов Евгений Константинович": 0,
-      "Лукин Андрей Михайлович": 0,
-      "Хайруллин Айрат Назипович": 95,
-      "Ягудин Альберт Ахметвагизович": 0
+      "gas:candidate-vibid:4164038200292": 0,
+      "gas:candidate-vibid:4164038200488": 1,
+      "gas:candidate-vibid:4164038200318": 0,
+      "gas:candidate-vibid:4164038200535": 0,
+      "gas:candidate-vibid:4164038200618": 0,
+      "gas:candidate-vibid:4164038200764": 95,
+      "gas:candidate-vibid:4164038200659": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tatarstan?action=show&root=1000041&tvd=21620001562294&vrn=100100067795849&region=16&global=&sub_region=16&prver=0&pronetvd=null&vibid=21620001562294&type=464",
@@ -214,13 +214,13 @@ export const duma_2016_uik_463_region_16_part_006 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Артемьева Анна Владимировна": 5,
-      "Вильданов Дамир Насырович": 3,
-      "Закиров Ринат Замильевич": 4,
-      "Иосипов Евгений Константинович": 1,
-      "Лукин Андрей Михайлович": 3,
-      "Хайруллин Айрат Назипович": 286,
-      "Ягудин Альберт Ахметвагизович": 3
+      "gas:candidate-vibid:4164038200292": 5,
+      "gas:candidate-vibid:4164038200488": 3,
+      "gas:candidate-vibid:4164038200318": 4,
+      "gas:candidate-vibid:4164038200535": 1,
+      "gas:candidate-vibid:4164038200618": 3,
+      "gas:candidate-vibid:4164038200764": 286,
+      "gas:candidate-vibid:4164038200659": 3
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tatarstan?action=show&root=1000041&tvd=21620001562294&vrn=100100067795849&region=16&global=&sub_region=16&prver=0&pronetvd=null&vibid=21620001562294&type=464",
@@ -271,13 +271,13 @@ export const duma_2016_uik_463_region_16_part_006 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Артемьева Анна Владимировна": 0,
-      "Вильданов Дамир Насырович": 0,
-      "Закиров Ринат Замильевич": 0,
-      "Иосипов Евгений Константинович": 1,
-      "Лукин Андрей Михайлович": 1,
-      "Хайруллин Айрат Назипович": 115,
-      "Ягудин Альберт Ахметвагизович": 1
+      "gas:candidate-vibid:4164038200292": 0,
+      "gas:candidate-vibid:4164038200488": 0,
+      "gas:candidate-vibid:4164038200318": 0,
+      "gas:candidate-vibid:4164038200535": 1,
+      "gas:candidate-vibid:4164038200618": 1,
+      "gas:candidate-vibid:4164038200764": 115,
+      "gas:candidate-vibid:4164038200659": 1
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tatarstan?action=show&root=1000041&tvd=21620001562294&vrn=100100067795849&region=16&global=&sub_region=16&prver=0&pronetvd=null&vibid=21620001562294&type=464",
@@ -328,13 +328,13 @@ export const duma_2016_uik_463_region_16_part_006 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Артемьева Анна Владимировна": 13,
-      "Вильданов Дамир Насырович": 5,
-      "Закиров Ринат Замильевич": 0,
-      "Иосипов Евгений Константинович": 0,
-      "Лукин Андрей Михайлович": 0,
-      "Хайруллин Айрат Назипович": 485,
-      "Ягудин Альберт Ахметвагизович": 15
+      "gas:candidate-vibid:4164038200292": 13,
+      "gas:candidate-vibid:4164038200488": 5,
+      "gas:candidate-vibid:4164038200318": 0,
+      "gas:candidate-vibid:4164038200535": 0,
+      "gas:candidate-vibid:4164038200618": 0,
+      "gas:candidate-vibid:4164038200764": 485,
+      "gas:candidate-vibid:4164038200659": 15
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tatarstan?action=show&root=1000041&tvd=21620001562294&vrn=100100067795849&region=16&global=&sub_region=16&prver=0&pronetvd=null&vibid=21620001562294&type=464",
@@ -385,13 +385,13 @@ export const duma_2016_uik_463_region_16_part_006 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Артемьева Анна Владимировна": 2,
-      "Вильданов Дамир Насырович": 0,
-      "Закиров Ринат Замильевич": 0,
-      "Иосипов Евгений Константинович": 0,
-      "Лукин Андрей Михайлович": 0,
-      "Хайруллин Айрат Назипович": 188,
-      "Ягудин Альберт Ахметвагизович": 2
+      "gas:candidate-vibid:4164038200292": 2,
+      "gas:candidate-vibid:4164038200488": 0,
+      "gas:candidate-vibid:4164038200318": 0,
+      "gas:candidate-vibid:4164038200535": 0,
+      "gas:candidate-vibid:4164038200618": 0,
+      "gas:candidate-vibid:4164038200764": 188,
+      "gas:candidate-vibid:4164038200659": 2
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tatarstan?action=show&root=1000041&tvd=21620001562294&vrn=100100067795849&region=16&global=&sub_region=16&prver=0&pronetvd=null&vibid=21620001562294&type=464",
@@ -442,13 +442,13 @@ export const duma_2016_uik_463_region_16_part_006 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Артемьева Анна Владимировна": 5,
-      "Вильданов Дамир Насырович": 3,
-      "Закиров Ринат Замильевич": 6,
-      "Иосипов Евгений Константинович": 4,
-      "Лукин Андрей Михайлович": 2,
-      "Хайруллин Айрат Назипович": 456,
-      "Ягудин Альберт Ахметвагизович": 9
+      "gas:candidate-vibid:4164038200292": 5,
+      "gas:candidate-vibid:4164038200488": 3,
+      "gas:candidate-vibid:4164038200318": 6,
+      "gas:candidate-vibid:4164038200535": 4,
+      "gas:candidate-vibid:4164038200618": 2,
+      "gas:candidate-vibid:4164038200764": 456,
+      "gas:candidate-vibid:4164038200659": 9
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tatarstan?action=show&root=1000041&tvd=21620001562294&vrn=100100067795849&region=16&global=&sub_region=16&prver=0&pronetvd=null&vibid=21620001562294&type=464",
@@ -499,13 +499,13 @@ export const duma_2016_uik_463_region_16_part_006 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Артемьева Анна Владимировна": 2,
-      "Вильданов Дамир Насырович": 2,
-      "Закиров Ринат Замильевич": 1,
-      "Иосипов Евгений Константинович": 1,
-      "Лукин Андрей Михайлович": 1,
-      "Хайруллин Айрат Назипович": 146,
-      "Ягудин Альберт Ахметвагизович": 2
+      "gas:candidate-vibid:4164038200292": 2,
+      "gas:candidate-vibid:4164038200488": 2,
+      "gas:candidate-vibid:4164038200318": 1,
+      "gas:candidate-vibid:4164038200535": 1,
+      "gas:candidate-vibid:4164038200618": 1,
+      "gas:candidate-vibid:4164038200764": 146,
+      "gas:candidate-vibid:4164038200659": 2
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tatarstan?action=show&root=1000041&tvd=21620001562294&vrn=100100067795849&region=16&global=&sub_region=16&prver=0&pronetvd=null&vibid=21620001562294&type=464",
@@ -556,13 +556,13 @@ export const duma_2016_uik_463_region_16_part_006 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Артемьева Анна Владимировна": 2,
-      "Вильданов Дамир Насырович": 0,
-      "Закиров Ринат Замильевич": 5,
-      "Иосипов Евгений Константинович": 4,
-      "Лукин Андрей Михайлович": 0,
-      "Хайруллин Айрат Назипович": 219,
-      "Ягудин Альберт Ахметвагизович": 7
+      "gas:candidate-vibid:4164038200292": 2,
+      "gas:candidate-vibid:4164038200488": 0,
+      "gas:candidate-vibid:4164038200318": 5,
+      "gas:candidate-vibid:4164038200535": 4,
+      "gas:candidate-vibid:4164038200618": 0,
+      "gas:candidate-vibid:4164038200764": 219,
+      "gas:candidate-vibid:4164038200659": 7
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tatarstan?action=show&root=1000041&tvd=21620001562294&vrn=100100067795849&region=16&global=&sub_region=16&prver=0&pronetvd=null&vibid=21620001562294&type=464",
@@ -613,13 +613,13 @@ export const duma_2016_uik_463_region_16_part_006 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Артемьева Анна Владимировна": 1,
-      "Вильданов Дамир Насырович": 0,
-      "Закиров Ринат Замильевич": 0,
-      "Иосипов Евгений Константинович": 2,
-      "Лукин Андрей Михайлович": 0,
-      "Хайруллин Айрат Назипович": 211,
-      "Ягудин Альберт Ахметвагизович": 0
+      "gas:candidate-vibid:4164038200292": 1,
+      "gas:candidate-vibid:4164038200488": 0,
+      "gas:candidate-vibid:4164038200318": 0,
+      "gas:candidate-vibid:4164038200535": 2,
+      "gas:candidate-vibid:4164038200618": 0,
+      "gas:candidate-vibid:4164038200764": 211,
+      "gas:candidate-vibid:4164038200659": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tatarstan?action=show&root=1000041&tvd=21620001562294&vrn=100100067795849&region=16&global=&sub_region=16&prver=0&pronetvd=null&vibid=21620001562294&type=464",
@@ -670,13 +670,13 @@ export const duma_2016_uik_463_region_16_part_006 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Артемьева Анна Владимировна": 0,
-      "Вильданов Дамир Насырович": 3,
-      "Закиров Ринат Замильевич": 0,
-      "Иосипов Евгений Константинович": 0,
-      "Лукин Андрей Михайлович": 0,
-      "Хайруллин Айрат Назипович": 197,
-      "Ягудин Альберт Ахметвагизович": 0
+      "gas:candidate-vibid:4164038200292": 0,
+      "gas:candidate-vibid:4164038200488": 3,
+      "gas:candidate-vibid:4164038200318": 0,
+      "gas:candidate-vibid:4164038200535": 0,
+      "gas:candidate-vibid:4164038200618": 0,
+      "gas:candidate-vibid:4164038200764": 197,
+      "gas:candidate-vibid:4164038200659": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tatarstan?action=show&root=1000041&tvd=21620001562294&vrn=100100067795849&region=16&global=&sub_region=16&prver=0&pronetvd=null&vibid=21620001562294&type=464",
@@ -727,13 +727,13 @@ export const duma_2016_uik_463_region_16_part_006 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Артемьева Анна Владимировна": 1,
-      "Вильданов Дамир Насырович": 2,
-      "Закиров Ринат Замильевич": 0,
-      "Иосипов Евгений Константинович": 2,
-      "Лукин Андрей Михайлович": 0,
-      "Хайруллин Айрат Назипович": 184,
-      "Ягудин Альберт Ахметвагизович": 3
+      "gas:candidate-vibid:4164038200292": 1,
+      "gas:candidate-vibid:4164038200488": 2,
+      "gas:candidate-vibid:4164038200318": 0,
+      "gas:candidate-vibid:4164038200535": 2,
+      "gas:candidate-vibid:4164038200618": 0,
+      "gas:candidate-vibid:4164038200764": 184,
+      "gas:candidate-vibid:4164038200659": 3
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tatarstan?action=show&root=1000041&tvd=21620001562294&vrn=100100067795849&region=16&global=&sub_region=16&prver=0&pronetvd=null&vibid=21620001562294&type=464",
@@ -784,13 +784,13 @@ export const duma_2016_uik_463_region_16_part_006 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Артемьева Анна Владимировна": 3,
-      "Вильданов Дамир Насырович": 2,
-      "Закиров Ринат Замильевич": 2,
-      "Иосипов Евгений Константинович": 1,
-      "Лукин Андрей Михайлович": 1,
-      "Хайруллин Айрат Назипович": 237,
-      "Ягудин Альберт Ахметвагизович": 0
+      "gas:candidate-vibid:4164038200292": 3,
+      "gas:candidate-vibid:4164038200488": 2,
+      "gas:candidate-vibid:4164038200318": 2,
+      "gas:candidate-vibid:4164038200535": 1,
+      "gas:candidate-vibid:4164038200618": 1,
+      "gas:candidate-vibid:4164038200764": 237,
+      "gas:candidate-vibid:4164038200659": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tatarstan?action=show&root=1000041&tvd=21620001562294&vrn=100100067795849&region=16&global=&sub_region=16&prver=0&pronetvd=null&vibid=21620001562294&type=464",
@@ -841,13 +841,13 @@ export const duma_2016_uik_463_region_16_part_006 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Артемьева Анна Владимировна": 3,
-      "Вильданов Дамир Насырович": 5,
-      "Закиров Ринат Замильевич": 0,
-      "Иосипов Евгений Константинович": 0,
-      "Лукин Андрей Михайлович": 0,
-      "Хайруллин Айрат Назипович": 286,
-      "Ягудин Альберт Ахметвагизович": 5
+      "gas:candidate-vibid:4164038200292": 3,
+      "gas:candidate-vibid:4164038200488": 5,
+      "gas:candidate-vibid:4164038200318": 0,
+      "gas:candidate-vibid:4164038200535": 0,
+      "gas:candidate-vibid:4164038200618": 0,
+      "gas:candidate-vibid:4164038200764": 286,
+      "gas:candidate-vibid:4164038200659": 5
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tatarstan?action=show&root=1000041&tvd=21620001562294&vrn=100100067795849&region=16&global=&sub_region=16&prver=0&pronetvd=null&vibid=21620001562294&type=464",
@@ -898,13 +898,13 @@ export const duma_2016_uik_463_region_16_part_006 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Артемьева Анна Владимировна": 4,
-      "Вильданов Дамир Насырович": 2,
-      "Закиров Ринат Замильевич": 1,
-      "Иосипов Евгений Константинович": 1,
-      "Лукин Андрей Михайлович": 1,
-      "Хайруллин Айрат Назипович": 350,
-      "Ягудин Альберт Ахметвагизович": 1
+      "gas:candidate-vibid:4164038200292": 4,
+      "gas:candidate-vibid:4164038200488": 2,
+      "gas:candidate-vibid:4164038200318": 1,
+      "gas:candidate-vibid:4164038200535": 1,
+      "gas:candidate-vibid:4164038200618": 1,
+      "gas:candidate-vibid:4164038200764": 350,
+      "gas:candidate-vibid:4164038200659": 1
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tatarstan?action=show&root=1000041&tvd=21620001562294&vrn=100100067795849&region=16&global=&sub_region=16&prver=0&pronetvd=null&vibid=21620001562294&type=464",
@@ -955,13 +955,13 @@ export const duma_2016_uik_463_region_16_part_006 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Артемьева Анна Владимировна": 2,
-      "Вильданов Дамир Насырович": 9,
-      "Закиров Ринат Замильевич": 2,
-      "Иосипов Евгений Константинович": 2,
-      "Лукин Андрей Михайлович": 2,
-      "Хайруллин Айрат Назипович": 346,
-      "Ягудин Альберт Ахметвагизович": 6
+      "gas:candidate-vibid:4164038200292": 2,
+      "gas:candidate-vibid:4164038200488": 9,
+      "gas:candidate-vibid:4164038200318": 2,
+      "gas:candidate-vibid:4164038200535": 2,
+      "gas:candidate-vibid:4164038200618": 2,
+      "gas:candidate-vibid:4164038200764": 346,
+      "gas:candidate-vibid:4164038200659": 6
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tatarstan?action=show&root=1000041&tvd=21620001562294&vrn=100100067795849&region=16&global=&sub_region=16&prver=0&pronetvd=null&vibid=21620001562294&type=464",
@@ -1012,13 +1012,13 @@ export const duma_2016_uik_463_region_16_part_006 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Артемьева Анна Владимировна": 0,
-      "Вильданов Дамир Насырович": 1,
-      "Закиров Ринат Замильевич": 0,
-      "Иосипов Евгений Константинович": 3,
-      "Лукин Андрей Михайлович": 0,
-      "Хайруллин Айрат Назипович": 328,
-      "Ягудин Альберт Ахметвагизович": 1
+      "gas:candidate-vibid:4164038200292": 0,
+      "gas:candidate-vibid:4164038200488": 1,
+      "gas:candidate-vibid:4164038200318": 0,
+      "gas:candidate-vibid:4164038200535": 3,
+      "gas:candidate-vibid:4164038200618": 0,
+      "gas:candidate-vibid:4164038200764": 328,
+      "gas:candidate-vibid:4164038200659": 1
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tatarstan?action=show&root=1000041&tvd=21620001562294&vrn=100100067795849&region=16&global=&sub_region=16&prver=0&pronetvd=null&vibid=21620001562294&type=464",
@@ -1069,13 +1069,13 @@ export const duma_2016_uik_463_region_16_part_006 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Артемьева Анна Владимировна": 0,
-      "Вильданов Дамир Насырович": 0,
-      "Закиров Ринат Замильевич": 0,
-      "Иосипов Евгений Константинович": 0,
-      "Лукин Андрей Михайлович": 0,
-      "Хайруллин Айрат Назипович": 96,
-      "Ягудин Альберт Ахметвагизович": 0
+      "gas:candidate-vibid:4164038200292": 0,
+      "gas:candidate-vibid:4164038200488": 0,
+      "gas:candidate-vibid:4164038200318": 0,
+      "gas:candidate-vibid:4164038200535": 0,
+      "gas:candidate-vibid:4164038200618": 0,
+      "gas:candidate-vibid:4164038200764": 96,
+      "gas:candidate-vibid:4164038200659": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tatarstan?action=show&root=1000041&tvd=21620001562294&vrn=100100067795849&region=16&global=&sub_region=16&prver=0&pronetvd=null&vibid=21620001562294&type=464",
@@ -1126,13 +1126,13 @@ export const duma_2016_uik_463_region_16_part_006 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Артемьева Анна Владимировна": 1,
-      "Вильданов Дамир Насырович": 1,
-      "Закиров Ринат Замильевич": 0,
-      "Иосипов Евгений Константинович": 5,
-      "Лукин Андрей Михайлович": 0,
-      "Хайруллин Айрат Назипович": 247,
-      "Ягудин Альберт Ахметвагизович": 4
+      "gas:candidate-vibid:4164038200292": 1,
+      "gas:candidate-vibid:4164038200488": 1,
+      "gas:candidate-vibid:4164038200318": 0,
+      "gas:candidate-vibid:4164038200535": 5,
+      "gas:candidate-vibid:4164038200618": 0,
+      "gas:candidate-vibid:4164038200764": 247,
+      "gas:candidate-vibid:4164038200659": 4
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tatarstan?action=show&root=1000041&tvd=21620001562294&vrn=100100067795849&region=16&global=&sub_region=16&prver=0&pronetvd=null&vibid=21620001562294&type=464",
@@ -1183,13 +1183,13 @@ export const duma_2016_uik_463_region_16_part_006 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Артемьева Анна Владимировна": 0,
-      "Вильданов Дамир Насырович": 0,
-      "Закиров Ринат Замильевич": 0,
-      "Иосипов Евгений Константинович": 0,
-      "Лукин Андрей Михайлович": 0,
-      "Хайруллин Айрат Назипович": 98,
-      "Ягудин Альберт Ахметвагизович": 0
+      "gas:candidate-vibid:4164038200292": 0,
+      "gas:candidate-vibid:4164038200488": 0,
+      "gas:candidate-vibid:4164038200318": 0,
+      "gas:candidate-vibid:4164038200535": 0,
+      "gas:candidate-vibid:4164038200618": 0,
+      "gas:candidate-vibid:4164038200764": 98,
+      "gas:candidate-vibid:4164038200659": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tatarstan?action=show&root=1000041&tvd=21620001562294&vrn=100100067795849&region=16&global=&sub_region=16&prver=0&pronetvd=null&vibid=21620001562294&type=464",
@@ -1240,13 +1240,13 @@ export const duma_2016_uik_463_region_16_part_006 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Артемьева Анна Владимировна": 3,
-      "Вильданов Дамир Насырович": 1,
-      "Закиров Ринат Замильевич": 1,
-      "Иосипов Евгений Константинович": 0,
-      "Лукин Андрей Михайлович": 0,
-      "Хайруллин Айрат Назипович": 189,
-      "Ягудин Альберт Ахметвагизович": 2
+      "gas:candidate-vibid:4164038200292": 3,
+      "gas:candidate-vibid:4164038200488": 1,
+      "gas:candidate-vibid:4164038200318": 1,
+      "gas:candidate-vibid:4164038200535": 0,
+      "gas:candidate-vibid:4164038200618": 0,
+      "gas:candidate-vibid:4164038200764": 189,
+      "gas:candidate-vibid:4164038200659": 2
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tatarstan?action=show&root=1000041&tvd=21620001562294&vrn=100100067795849&region=16&global=&sub_region=16&prver=0&pronetvd=null&vibid=21620001562294&type=464",
@@ -1297,13 +1297,13 @@ export const duma_2016_uik_463_region_16_part_006 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Артемьева Анна Владимировна": 2,
-      "Вильданов Дамир Насырович": 2,
-      "Закиров Ринат Замильевич": 0,
-      "Иосипов Евгений Константинович": 3,
-      "Лукин Андрей Михайлович": 2,
-      "Хайруллин Айрат Назипович": 576,
-      "Ягудин Альберт Ахметвагизович": 7
+      "gas:candidate-vibid:4164038200292": 2,
+      "gas:candidate-vibid:4164038200488": 2,
+      "gas:candidate-vibid:4164038200318": 0,
+      "gas:candidate-vibid:4164038200535": 3,
+      "gas:candidate-vibid:4164038200618": 2,
+      "gas:candidate-vibid:4164038200764": 576,
+      "gas:candidate-vibid:4164038200659": 7
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tatarstan?action=show&root=1000041&tvd=21620001562294&vrn=100100067795849&region=16&global=&sub_region=16&prver=0&pronetvd=null&vibid=21620001562294&type=464",
@@ -1354,13 +1354,13 @@ export const duma_2016_uik_463_region_16_part_006 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Артемьева Анна Владимировна": 11,
-      "Вильданов Дамир Насырович": 10,
-      "Закиров Ринат Замильевич": 2,
-      "Иосипов Евгений Константинович": 46,
-      "Лукин Андрей Михайлович": 2,
-      "Хайруллин Айрат Назипович": 1344,
-      "Ягудин Альберт Ахметвагизович": 175
+      "gas:candidate-vibid:4164038200292": 11,
+      "gas:candidate-vibid:4164038200488": 10,
+      "gas:candidate-vibid:4164038200318": 2,
+      "gas:candidate-vibid:4164038200535": 46,
+      "gas:candidate-vibid:4164038200618": 2,
+      "gas:candidate-vibid:4164038200764": 1344,
+      "gas:candidate-vibid:4164038200659": 175
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tatarstan?action=show&root=1000041&tvd=21620001562295&vrn=100100067795849&region=16&global=&sub_region=16&prver=0&pronetvd=null&vibid=21620001562295&type=464",
@@ -1411,13 +1411,13 @@ export const duma_2016_uik_463_region_16_part_006 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Артемьева Анна Владимировна": 56,
-      "Вильданов Дамир Насырович": 74,
-      "Закиров Ринат Замильевич": 6,
-      "Иосипов Евгений Константинович": 115,
-      "Лукин Андрей Михайлович": 15,
-      "Хайруллин Айрат Назипович": 1759,
-      "Ягудин Альберт Ахметвагизович": 112
+      "gas:candidate-vibid:4164038200292": 56,
+      "gas:candidate-vibid:4164038200488": 74,
+      "gas:candidate-vibid:4164038200318": 6,
+      "gas:candidate-vibid:4164038200535": 115,
+      "gas:candidate-vibid:4164038200618": 15,
+      "gas:candidate-vibid:4164038200764": 1759,
+      "gas:candidate-vibid:4164038200659": 112
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tatarstan?action=show&root=1000041&tvd=21620001562295&vrn=100100067795849&region=16&global=&sub_region=16&prver=0&pronetvd=null&vibid=21620001562295&type=464",
@@ -1468,13 +1468,13 @@ export const duma_2016_uik_463_region_16_part_006 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Артемьева Анна Владимировна": 87,
-      "Вильданов Дамир Насырович": 43,
-      "Закиров Ринат Замильевич": 33,
-      "Иосипов Евгений Константинович": 58,
-      "Лукин Андрей Михайлович": 47,
-      "Хайруллин Айрат Назипович": 1173,
-      "Ягудин Альберт Ахметвагизович": 90
+      "gas:candidate-vibid:4164038200292": 87,
+      "gas:candidate-vibid:4164038200488": 43,
+      "gas:candidate-vibid:4164038200318": 33,
+      "gas:candidate-vibid:4164038200535": 58,
+      "gas:candidate-vibid:4164038200618": 47,
+      "gas:candidate-vibid:4164038200764": 1173,
+      "gas:candidate-vibid:4164038200659": 90
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tatarstan?action=show&root=1000041&tvd=21620001562295&vrn=100100067795849&region=16&global=&sub_region=16&prver=0&pronetvd=null&vibid=21620001562295&type=464",
@@ -1525,13 +1525,13 @@ export const duma_2016_uik_463_region_16_part_006 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Артемьева Анна Владимировна": 72,
-      "Вильданов Дамир Насырович": 12,
-      "Закиров Ринат Замильевич": 15,
-      "Иосипов Евгений Константинович": 20,
-      "Лукин Андрей Михайлович": 14,
-      "Хайруллин Айрат Назипович": 1766,
-      "Ягудин Альберт Ахметвагизович": 223
+      "gas:candidate-vibid:4164038200292": 72,
+      "gas:candidate-vibid:4164038200488": 12,
+      "gas:candidate-vibid:4164038200318": 15,
+      "gas:candidate-vibid:4164038200535": 20,
+      "gas:candidate-vibid:4164038200618": 14,
+      "gas:candidate-vibid:4164038200764": 1766,
+      "gas:candidate-vibid:4164038200659": 223
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tatarstan?action=show&root=1000041&tvd=21620001562295&vrn=100100067795849&region=16&global=&sub_region=16&prver=0&pronetvd=null&vibid=21620001562295&type=464",
@@ -1582,13 +1582,13 @@ export const duma_2016_uik_463_region_16_part_006 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Артемьева Анна Владимировна": 76,
-      "Вильданов Дамир Насырович": 70,
-      "Закиров Ринат Замильевич": 23,
-      "Иосипов Евгений Константинович": 23,
-      "Лукин Андрей Михайлович": 71,
-      "Хайруллин Айрат Назипович": 1216,
-      "Ягудин Альберт Ахметвагизович": 78
+      "gas:candidate-vibid:4164038200292": 76,
+      "gas:candidate-vibid:4164038200488": 70,
+      "gas:candidate-vibid:4164038200318": 23,
+      "gas:candidate-vibid:4164038200535": 23,
+      "gas:candidate-vibid:4164038200618": 71,
+      "gas:candidate-vibid:4164038200764": 1216,
+      "gas:candidate-vibid:4164038200659": 78
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tatarstan?action=show&root=1000041&tvd=21620001562295&vrn=100100067795849&region=16&global=&sub_region=16&prver=0&pronetvd=null&vibid=21620001562295&type=464",
@@ -1639,13 +1639,13 @@ export const duma_2016_uik_463_region_16_part_006 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Артемьева Анна Владимировна": 106,
-      "Вильданов Дамир Насырович": 21,
-      "Закиров Ринат Замильевич": 2,
-      "Иосипов Евгений Константинович": 4,
-      "Лукин Андрей Михайлович": 43,
-      "Хайруллин Айрат Назипович": 1715,
-      "Ягудин Альберт Ахметвагизович": 234
+      "gas:candidate-vibid:4164038200292": 106,
+      "gas:candidate-vibid:4164038200488": 21,
+      "gas:candidate-vibid:4164038200318": 2,
+      "gas:candidate-vibid:4164038200535": 4,
+      "gas:candidate-vibid:4164038200618": 43,
+      "gas:candidate-vibid:4164038200764": 1715,
+      "gas:candidate-vibid:4164038200659": 234
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tatarstan?action=show&root=1000041&tvd=21620001562295&vrn=100100067795849&region=16&global=&sub_region=16&prver=0&pronetvd=null&vibid=21620001562295&type=464",
@@ -1696,13 +1696,13 @@ export const duma_2016_uik_463_region_16_part_006 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Артемьева Анна Владимировна": 144,
-      "Вильданов Дамир Насырович": 48,
-      "Закиров Ринат Замильевич": 12,
-      "Иосипов Евгений Константинович": 21,
-      "Лукин Андрей Михайлович": 3,
-      "Хайруллин Айрат Назипович": 1967,
-      "Ягудин Альберт Ахметвагизович": 216
+      "gas:candidate-vibid:4164038200292": 144,
+      "gas:candidate-vibid:4164038200488": 48,
+      "gas:candidate-vibid:4164038200318": 12,
+      "gas:candidate-vibid:4164038200535": 21,
+      "gas:candidate-vibid:4164038200618": 3,
+      "gas:candidate-vibid:4164038200764": 1967,
+      "gas:candidate-vibid:4164038200659": 216
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tatarstan?action=show&root=1000041&tvd=21620001562295&vrn=100100067795849&region=16&global=&sub_region=16&prver=0&pronetvd=null&vibid=21620001562295&type=464",
@@ -1753,13 +1753,13 @@ export const duma_2016_uik_463_region_16_part_006 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Артемьева Анна Владимировна": 36,
-      "Вильданов Дамир Насырович": 169,
-      "Закиров Ринат Замильевич": 12,
-      "Иосипов Евгений Константинович": 55,
-      "Лукин Андрей Михайлович": 12,
-      "Хайруллин Айрат Назипович": 1421,
-      "Ягудин Альберт Ахметвагизович": 69
+      "gas:candidate-vibid:4164038200292": 36,
+      "gas:candidate-vibid:4164038200488": 169,
+      "gas:candidate-vibid:4164038200318": 12,
+      "gas:candidate-vibid:4164038200535": 55,
+      "gas:candidate-vibid:4164038200618": 12,
+      "gas:candidate-vibid:4164038200764": 1421,
+      "gas:candidate-vibid:4164038200659": 69
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tatarstan?action=show&root=1000041&tvd=21620001562295&vrn=100100067795849&region=16&global=&sub_region=16&prver=0&pronetvd=null&vibid=21620001562295&type=464",
@@ -1810,13 +1810,13 @@ export const duma_2016_uik_463_region_16_part_006 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Артемьева Анна Владимировна": 135,
-      "Вильданов Дамир Насырович": 82,
-      "Закиров Ринат Замильевич": 28,
-      "Иосипов Евгений Константинович": 34,
-      "Лукин Андрей Михайлович": 36,
-      "Хайруллин Айрат Назипович": 2101,
-      "Ягудин Альберт Ахметвагизович": 239
+      "gas:candidate-vibid:4164038200292": 135,
+      "gas:candidate-vibid:4164038200488": 82,
+      "gas:candidate-vibid:4164038200318": 28,
+      "gas:candidate-vibid:4164038200535": 34,
+      "gas:candidate-vibid:4164038200618": 36,
+      "gas:candidate-vibid:4164038200764": 2101,
+      "gas:candidate-vibid:4164038200659": 239
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tatarstan?action=show&root=1000041&tvd=21620001562295&vrn=100100067795849&region=16&global=&sub_region=16&prver=0&pronetvd=null&vibid=21620001562295&type=464",
@@ -1867,13 +1867,13 @@ export const duma_2016_uik_463_region_16_part_006 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Артемьева Анна Владимировна": 76,
-      "Вильданов Дамир Насырович": 72,
-      "Закиров Ринат Замильевич": 42,
-      "Иосипов Евгений Константинович": 47,
-      "Лукин Андрей Михайлович": 42,
-      "Хайруллин Айрат Назипович": 1884,
-      "Ягудин Альберт Ахметвагизович": 236
+      "gas:candidate-vibid:4164038200292": 76,
+      "gas:candidate-vibid:4164038200488": 72,
+      "gas:candidate-vibid:4164038200318": 42,
+      "gas:candidate-vibid:4164038200535": 47,
+      "gas:candidate-vibid:4164038200618": 42,
+      "gas:candidate-vibid:4164038200764": 1884,
+      "gas:candidate-vibid:4164038200659": 236
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tatarstan?action=show&root=1000041&tvd=21620001562295&vrn=100100067795849&region=16&global=&sub_region=16&prver=0&pronetvd=null&vibid=21620001562295&type=464",
@@ -1924,13 +1924,13 @@ export const duma_2016_uik_463_region_16_part_006 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Артемьева Анна Владимировна": 87,
-      "Вильданов Дамир Насырович": 34,
-      "Закиров Ринат Замильевич": 2,
-      "Иосипов Евгений Константинович": 15,
-      "Лукин Андрей Михайлович": 3,
-      "Хайруллин Айрат Назипович": 1166,
-      "Ягудин Альберт Ахметвагизович": 201
+      "gas:candidate-vibid:4164038200292": 87,
+      "gas:candidate-vibid:4164038200488": 34,
+      "gas:candidate-vibid:4164038200318": 2,
+      "gas:candidate-vibid:4164038200535": 15,
+      "gas:candidate-vibid:4164038200618": 3,
+      "gas:candidate-vibid:4164038200764": 1166,
+      "gas:candidate-vibid:4164038200659": 201
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tatarstan?action=show&root=1000041&tvd=21620001562295&vrn=100100067795849&region=16&global=&sub_region=16&prver=0&pronetvd=null&vibid=21620001562295&type=464",
@@ -1981,13 +1981,13 @@ export const duma_2016_uik_463_region_16_part_006 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Артемьева Анна Владимировна": 33,
-      "Вильданов Дамир Насырович": 89,
-      "Закиров Ринат Замильевич": 2,
-      "Иосипов Евгений Константинович": 199,
-      "Лукин Андрей Михайлович": 5,
-      "Хайруллин Айрат Назипович": 2168,
-      "Ягудин Альберт Ахметвагизович": 280
+      "gas:candidate-vibid:4164038200292": 33,
+      "gas:candidate-vibid:4164038200488": 89,
+      "gas:candidate-vibid:4164038200318": 2,
+      "gas:candidate-vibid:4164038200535": 199,
+      "gas:candidate-vibid:4164038200618": 5,
+      "gas:candidate-vibid:4164038200764": 2168,
+      "gas:candidate-vibid:4164038200659": 280
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tatarstan?action=show&root=1000041&tvd=21620001562295&vrn=100100067795849&region=16&global=&sub_region=16&prver=0&pronetvd=null&vibid=21620001562295&type=464",
@@ -2038,13 +2038,13 @@ export const duma_2016_uik_463_region_16_part_006 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Артемьева Анна Владимировна": 0,
-      "Вильданов Дамир Насырович": 0,
-      "Закиров Ринат Замильевич": 0,
-      "Иосипов Евгений Константинович": 0,
-      "Лукин Андрей Михайлович": 0,
-      "Хайруллин Айрат Назипович": 50,
-      "Ягудин Альберт Ахметвагизович": 1
+      "gas:candidate-vibid:4164038200292": 0,
+      "gas:candidate-vibid:4164038200488": 0,
+      "gas:candidate-vibid:4164038200318": 0,
+      "gas:candidate-vibid:4164038200535": 0,
+      "gas:candidate-vibid:4164038200618": 0,
+      "gas:candidate-vibid:4164038200764": 50,
+      "gas:candidate-vibid:4164038200659": 1
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tatarstan?action=show&root=1000041&tvd=21620001562295&vrn=100100067795849&region=16&global=&sub_region=16&prver=0&pronetvd=null&vibid=21620001562295&type=464",
@@ -2095,13 +2095,13 @@ export const duma_2016_uik_463_region_16_part_006 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Артемьева Анна Владимировна": 2,
-      "Вильданов Дамир Насырович": 3,
-      "Закиров Ринат Замильевич": 1,
-      "Иосипов Евгений Константинович": 2,
-      "Лукин Андрей Михайлович": 1,
-      "Хайруллин Айрат Назипович": 589,
-      "Ягудин Альберт Ахметвагизович": 9
+      "gas:candidate-vibid:4164038200292": 2,
+      "gas:candidate-vibid:4164038200488": 3,
+      "gas:candidate-vibid:4164038200318": 1,
+      "gas:candidate-vibid:4164038200535": 2,
+      "gas:candidate-vibid:4164038200618": 1,
+      "gas:candidate-vibid:4164038200764": 589,
+      "gas:candidate-vibid:4164038200659": 9
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tatarstan?action=show&root=1000041&tvd=21620001562295&vrn=100100067795849&region=16&global=&sub_region=16&prver=0&pronetvd=null&vibid=21620001562295&type=464",
@@ -2152,13 +2152,13 @@ export const duma_2016_uik_463_region_16_part_006 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Артемьева Анна Владимировна": 2,
-      "Вильданов Дамир Насырович": 1,
-      "Закиров Ринат Замильевич": 0,
-      "Иосипов Евгений Константинович": 1,
-      "Лукин Андрей Михайлович": 1,
-      "Хайруллин Айрат Назипович": 489,
-      "Ягудин Альберт Ахметвагизович": 11
+      "gas:candidate-vibid:4164038200292": 2,
+      "gas:candidate-vibid:4164038200488": 1,
+      "gas:candidate-vibid:4164038200318": 0,
+      "gas:candidate-vibid:4164038200535": 1,
+      "gas:candidate-vibid:4164038200618": 1,
+      "gas:candidate-vibid:4164038200764": 489,
+      "gas:candidate-vibid:4164038200659": 11
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tatarstan?action=show&root=1000041&tvd=21620001562295&vrn=100100067795849&region=16&global=&sub_region=16&prver=0&pronetvd=null&vibid=21620001562295&type=464",
@@ -2209,13 +2209,13 @@ export const duma_2016_uik_463_region_16_part_006 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Артемьева Анна Владимировна": 12,
-      "Вильданов Дамир Насырович": 7,
-      "Закиров Ринат Замильевич": 9,
-      "Иосипов Евгений Константинович": 8,
-      "Лукин Андрей Михайлович": 10,
-      "Хайруллин Айрат Назипович": 265,
-      "Ягудин Альберт Ахметвагизович": 16
+      "gas:candidate-vibid:4164038200292": 12,
+      "gas:candidate-vibid:4164038200488": 7,
+      "gas:candidate-vibid:4164038200318": 9,
+      "gas:candidate-vibid:4164038200535": 8,
+      "gas:candidate-vibid:4164038200618": 10,
+      "gas:candidate-vibid:4164038200764": 265,
+      "gas:candidate-vibid:4164038200659": 16
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tatarstan?action=show&root=1000041&tvd=21620001562295&vrn=100100067795849&region=16&global=&sub_region=16&prver=0&pronetvd=null&vibid=21620001562295&type=464",
@@ -2266,13 +2266,13 @@ export const duma_2016_uik_463_region_16_part_006 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Артемьева Анна Владимировна": 10,
-      "Вильданов Дамир Насырович": 81,
-      "Закиров Ринат Замильевич": 69,
-      "Иосипов Евгений Константинович": 50,
-      "Лукин Андрей Михайлович": 0,
-      "Хайруллин Айрат Назипович": 607,
-      "Ягудин Альберт Ахметвагизович": 20
+      "gas:candidate-vibid:4164038200292": 10,
+      "gas:candidate-vibid:4164038200488": 81,
+      "gas:candidate-vibid:4164038200318": 69,
+      "gas:candidate-vibid:4164038200535": 50,
+      "gas:candidate-vibid:4164038200618": 0,
+      "gas:candidate-vibid:4164038200764": 607,
+      "gas:candidate-vibid:4164038200659": 20
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tatarstan?action=show&root=1000041&tvd=21620001562296&vrn=100100067795849&region=16&global=&sub_region=16&prver=0&pronetvd=null&vibid=21620001562296&type=464",
@@ -2323,13 +2323,13 @@ export const duma_2016_uik_463_region_16_part_006 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Артемьева Анна Владимировна": 0,
-      "Вильданов Дамир Насырович": 1,
-      "Закиров Ринат Замильевич": 0,
-      "Иосипов Евгений Константинович": 2,
-      "Лукин Андрей Михайлович": 0,
-      "Хайруллин Айрат Назипович": 185,
-      "Ягудин Альберт Ахметвагизович": 4
+      "gas:candidate-vibid:4164038200292": 0,
+      "gas:candidate-vibid:4164038200488": 1,
+      "gas:candidate-vibid:4164038200318": 0,
+      "gas:candidate-vibid:4164038200535": 2,
+      "gas:candidate-vibid:4164038200618": 0,
+      "gas:candidate-vibid:4164038200764": 185,
+      "gas:candidate-vibid:4164038200659": 4
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tatarstan?action=show&root=1000041&tvd=21620001562296&vrn=100100067795849&region=16&global=&sub_region=16&prver=0&pronetvd=null&vibid=21620001562296&type=464",
@@ -2380,13 +2380,13 @@ export const duma_2016_uik_463_region_16_part_006 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Артемьева Анна Владимировна": 3,
-      "Вильданов Дамир Насырович": 0,
-      "Закиров Ринат Замильевич": 0,
-      "Иосипов Евгений Константинович": 0,
-      "Лукин Андрей Михайлович": 0,
-      "Хайруллин Айрат Назипович": 184,
-      "Ягудин Альберт Ахметвагизович": 4
+      "gas:candidate-vibid:4164038200292": 3,
+      "gas:candidate-vibid:4164038200488": 0,
+      "gas:candidate-vibid:4164038200318": 0,
+      "gas:candidate-vibid:4164038200535": 0,
+      "gas:candidate-vibid:4164038200618": 0,
+      "gas:candidate-vibid:4164038200764": 184,
+      "gas:candidate-vibid:4164038200659": 4
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tatarstan?action=show&root=1000041&tvd=21620001562296&vrn=100100067795849&region=16&global=&sub_region=16&prver=0&pronetvd=null&vibid=21620001562296&type=464",
@@ -2437,13 +2437,13 @@ export const duma_2016_uik_463_region_16_part_006 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Артемьева Анна Владимировна": 0,
-      "Вильданов Дамир Насырович": 0,
-      "Закиров Ринат Замильевич": 0,
-      "Иосипов Евгений Константинович": 11,
-      "Лукин Андрей Михайлович": 0,
-      "Хайруллин Айрат Назипович": 269,
-      "Ягудин Альберт Ахметвагизович": 0
+      "gas:candidate-vibid:4164038200292": 0,
+      "gas:candidate-vibid:4164038200488": 0,
+      "gas:candidate-vibid:4164038200318": 0,
+      "gas:candidate-vibid:4164038200535": 11,
+      "gas:candidate-vibid:4164038200618": 0,
+      "gas:candidate-vibid:4164038200764": 269,
+      "gas:candidate-vibid:4164038200659": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tatarstan?action=show&root=1000041&tvd=21620001562296&vrn=100100067795849&region=16&global=&sub_region=16&prver=0&pronetvd=null&vibid=21620001562296&type=464",
@@ -2494,13 +2494,13 @@ export const duma_2016_uik_463_region_16_part_006 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Артемьева Анна Владимировна": 4,
-      "Вильданов Дамир Насырович": 2,
-      "Закиров Ринат Замильевич": 1,
-      "Иосипов Евгений Константинович": 1,
-      "Лукин Андрей Михайлович": 1,
-      "Хайруллин Айрат Назипович": 320,
-      "Ягудин Альберт Ахметвагизович": 4
+      "gas:candidate-vibid:4164038200292": 4,
+      "gas:candidate-vibid:4164038200488": 2,
+      "gas:candidate-vibid:4164038200318": 1,
+      "gas:candidate-vibid:4164038200535": 1,
+      "gas:candidate-vibid:4164038200618": 1,
+      "gas:candidate-vibid:4164038200764": 320,
+      "gas:candidate-vibid:4164038200659": 4
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tatarstan?action=show&root=1000041&tvd=21620001562296&vrn=100100067795849&region=16&global=&sub_region=16&prver=0&pronetvd=null&vibid=21620001562296&type=464",
@@ -2551,13 +2551,13 @@ export const duma_2016_uik_463_region_16_part_006 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Артемьева Анна Владимировна": 0,
-      "Вильданов Дамир Насырович": 0,
-      "Закиров Ринат Замильевич": 0,
-      "Иосипов Евгений Константинович": 0,
-      "Лукин Андрей Михайлович": 0,
-      "Хайруллин Айрат Назипович": 119,
-      "Ягудин Альберт Ахметвагизович": 1
+      "gas:candidate-vibid:4164038200292": 0,
+      "gas:candidate-vibid:4164038200488": 0,
+      "gas:candidate-vibid:4164038200318": 0,
+      "gas:candidate-vibid:4164038200535": 0,
+      "gas:candidate-vibid:4164038200618": 0,
+      "gas:candidate-vibid:4164038200764": 119,
+      "gas:candidate-vibid:4164038200659": 1
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tatarstan?action=show&root=1000041&tvd=21620001562296&vrn=100100067795849&region=16&global=&sub_region=16&prver=0&pronetvd=null&vibid=21620001562296&type=464",
@@ -2608,13 +2608,13 @@ export const duma_2016_uik_463_region_16_part_006 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Артемьева Анна Владимировна": 2,
-      "Вильданов Дамир Насырович": 2,
-      "Закиров Ринат Замильевич": 0,
-      "Иосипов Евгений Константинович": 1,
-      "Лукин Андрей Михайлович": 3,
-      "Хайруллин Айрат Назипович": 335,
-      "Ягудин Альберт Ахметвагизович": 3
+      "gas:candidate-vibid:4164038200292": 2,
+      "gas:candidate-vibid:4164038200488": 2,
+      "gas:candidate-vibid:4164038200318": 0,
+      "gas:candidate-vibid:4164038200535": 1,
+      "gas:candidate-vibid:4164038200618": 3,
+      "gas:candidate-vibid:4164038200764": 335,
+      "gas:candidate-vibid:4164038200659": 3
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tatarstan?action=show&root=1000041&tvd=21620001562296&vrn=100100067795849&region=16&global=&sub_region=16&prver=0&pronetvd=null&vibid=21620001562296&type=464",
@@ -2665,13 +2665,13 @@ export const duma_2016_uik_463_region_16_part_006 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Артемьева Анна Владимировна": 2,
-      "Вильданов Дамир Насырович": 0,
-      "Закиров Ринат Замильевич": 0,
-      "Иосипов Евгений Константинович": 0,
-      "Лукин Андрей Михайлович": 0,
-      "Хайруллин Айрат Назипович": 142,
-      "Ягудин Альберт Ахметвагизович": 4
+      "gas:candidate-vibid:4164038200292": 2,
+      "gas:candidate-vibid:4164038200488": 0,
+      "gas:candidate-vibid:4164038200318": 0,
+      "gas:candidate-vibid:4164038200535": 0,
+      "gas:candidate-vibid:4164038200618": 0,
+      "gas:candidate-vibid:4164038200764": 142,
+      "gas:candidate-vibid:4164038200659": 4
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tatarstan?action=show&root=1000041&tvd=21620001562296&vrn=100100067795849&region=16&global=&sub_region=16&prver=0&pronetvd=null&vibid=21620001562296&type=464",
@@ -2722,13 +2722,13 @@ export const duma_2016_uik_463_region_16_part_006 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Артемьева Анна Владимировна": 2,
-      "Вильданов Дамир Насырович": 2,
-      "Закиров Ринат Замильевич": 4,
-      "Иосипов Евгений Константинович": 0,
-      "Лукин Андрей Михайлович": 0,
-      "Хайруллин Айрат Назипович": 282,
-      "Ягудин Альберт Ахметвагизович": 3
+      "gas:candidate-vibid:4164038200292": 2,
+      "gas:candidate-vibid:4164038200488": 2,
+      "gas:candidate-vibid:4164038200318": 4,
+      "gas:candidate-vibid:4164038200535": 0,
+      "gas:candidate-vibid:4164038200618": 0,
+      "gas:candidate-vibid:4164038200764": 282,
+      "gas:candidate-vibid:4164038200659": 3
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tatarstan?action=show&root=1000041&tvd=21620001562296&vrn=100100067795849&region=16&global=&sub_region=16&prver=0&pronetvd=null&vibid=21620001562296&type=464",
@@ -2779,13 +2779,13 @@ export const duma_2016_uik_463_region_16_part_006 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Артемьева Анна Владимировна": 0,
-      "Вильданов Дамир Насырович": 3,
-      "Закиров Ринат Замильевич": 2,
-      "Иосипов Евгений Константинович": 4,
-      "Лукин Андрей Михайлович": 0,
-      "Хайруллин Айрат Назипович": 444,
-      "Ягудин Альберт Ахметвагизович": 9
+      "gas:candidate-vibid:4164038200292": 0,
+      "gas:candidate-vibid:4164038200488": 3,
+      "gas:candidate-vibid:4164038200318": 2,
+      "gas:candidate-vibid:4164038200535": 4,
+      "gas:candidate-vibid:4164038200618": 0,
+      "gas:candidate-vibid:4164038200764": 444,
+      "gas:candidate-vibid:4164038200659": 9
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tatarstan?action=show&root=1000041&tvd=21620001562296&vrn=100100067795849&region=16&global=&sub_region=16&prver=0&pronetvd=null&vibid=21620001562296&type=464",
@@ -2836,13 +2836,13 @@ export const duma_2016_uik_463_region_16_part_006 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Артемьева Анна Владимировна": 0,
-      "Вильданов Дамир Насырович": 0,
-      "Закиров Ринат Замильевич": 1,
-      "Иосипов Евгений Константинович": 0,
-      "Лукин Андрей Михайлович": 0,
-      "Хайруллин Айрат Назипович": 383,
-      "Ягудин Альберт Ахметвагизович": 0
+      "gas:candidate-vibid:4164038200292": 0,
+      "gas:candidate-vibid:4164038200488": 0,
+      "gas:candidate-vibid:4164038200318": 1,
+      "gas:candidate-vibid:4164038200535": 0,
+      "gas:candidate-vibid:4164038200618": 0,
+      "gas:candidate-vibid:4164038200764": 383,
+      "gas:candidate-vibid:4164038200659": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tatarstan?action=show&root=1000041&tvd=21620001562296&vrn=100100067795849&region=16&global=&sub_region=16&prver=0&pronetvd=null&vibid=21620001562296&type=464",
@@ -2893,13 +2893,13 @@ export const duma_2016_uik_463_region_16_part_006 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Артемьева Анна Владимировна": 3,
-      "Вильданов Дамир Насырович": 1,
-      "Закиров Ринат Замильевич": 0,
-      "Иосипов Евгений Константинович": 0,
-      "Лукин Андрей Михайлович": 0,
-      "Хайруллин Айрат Назипович": 210,
-      "Ягудин Альберт Ахметвагизович": 5
+      "gas:candidate-vibid:4164038200292": 3,
+      "gas:candidate-vibid:4164038200488": 1,
+      "gas:candidate-vibid:4164038200318": 0,
+      "gas:candidate-vibid:4164038200535": 0,
+      "gas:candidate-vibid:4164038200618": 0,
+      "gas:candidate-vibid:4164038200764": 210,
+      "gas:candidate-vibid:4164038200659": 5
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tatarstan?action=show&root=1000041&tvd=21620001562296&vrn=100100067795849&region=16&global=&sub_region=16&prver=0&pronetvd=null&vibid=21620001562296&type=464",
@@ -2950,13 +2950,13 @@ export const duma_2016_uik_463_region_16_part_006 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Артемьева Анна Владимировна": 4,
-      "Вильданов Дамир Насырович": 0,
-      "Закиров Ринат Замильевич": 5,
-      "Иосипов Евгений Константинович": 0,
-      "Лукин Андрей Михайлович": 0,
-      "Хайруллин Айрат Назипович": 343,
-      "Ягудин Альберт Ахметвагизович": 5
+      "gas:candidate-vibid:4164038200292": 4,
+      "gas:candidate-vibid:4164038200488": 0,
+      "gas:candidate-vibid:4164038200318": 5,
+      "gas:candidate-vibid:4164038200535": 0,
+      "gas:candidate-vibid:4164038200618": 0,
+      "gas:candidate-vibid:4164038200764": 343,
+      "gas:candidate-vibid:4164038200659": 5
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tatarstan?action=show&root=1000041&tvd=21620001562296&vrn=100100067795849&region=16&global=&sub_region=16&prver=0&pronetvd=null&vibid=21620001562296&type=464",
@@ -3007,13 +3007,13 @@ export const duma_2016_uik_463_region_16_part_006 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Артемьева Анна Владимировна": 2,
-      "Вильданов Дамир Насырович": 0,
-      "Закиров Ринат Замильевич": 3,
-      "Иосипов Евгений Константинович": 0,
-      "Лукин Андрей Михайлович": 5,
-      "Хайруллин Айрат Назипович": 260,
-      "Ягудин Альберт Ахметвагизович": 0
+      "gas:candidate-vibid:4164038200292": 2,
+      "gas:candidate-vibid:4164038200488": 0,
+      "gas:candidate-vibid:4164038200318": 3,
+      "gas:candidate-vibid:4164038200535": 0,
+      "gas:candidate-vibid:4164038200618": 5,
+      "gas:candidate-vibid:4164038200764": 260,
+      "gas:candidate-vibid:4164038200659": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tatarstan?action=show&root=1000041&tvd=21620001562296&vrn=100100067795849&region=16&global=&sub_region=16&prver=0&pronetvd=null&vibid=21620001562296&type=464",
@@ -3064,13 +3064,13 @@ export const duma_2016_uik_463_region_16_part_006 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Артемьева Анна Владимировна": 1,
-      "Вильданов Дамир Насырович": 0,
-      "Закиров Ринат Замильевич": 0,
-      "Иосипов Евгений Константинович": 0,
-      "Лукин Андрей Михайлович": 1,
-      "Хайруллин Айрат Назипович": 313,
-      "Ягудин Альберт Ахметвагизович": 0
+      "gas:candidate-vibid:4164038200292": 1,
+      "gas:candidate-vibid:4164038200488": 0,
+      "gas:candidate-vibid:4164038200318": 0,
+      "gas:candidate-vibid:4164038200535": 0,
+      "gas:candidate-vibid:4164038200618": 1,
+      "gas:candidate-vibid:4164038200764": 313,
+      "gas:candidate-vibid:4164038200659": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tatarstan?action=show&root=1000041&tvd=21620001562296&vrn=100100067795849&region=16&global=&sub_region=16&prver=0&pronetvd=null&vibid=21620001562296&type=464",
@@ -3121,13 +3121,13 @@ export const duma_2016_uik_463_region_16_part_006 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Артемьева Анна Владимировна": 0,
-      "Вильданов Дамир Насырович": 1,
-      "Закиров Ринат Замильевич": 0,
-      "Иосипов Евгений Константинович": 0,
-      "Лукин Андрей Михайлович": 0,
-      "Хайруллин Айрат Назипович": 576,
-      "Ягудин Альберт Ахметвагизович": 1
+      "gas:candidate-vibid:4164038200292": 0,
+      "gas:candidate-vibid:4164038200488": 1,
+      "gas:candidate-vibid:4164038200318": 0,
+      "gas:candidate-vibid:4164038200535": 0,
+      "gas:candidate-vibid:4164038200618": 0,
+      "gas:candidate-vibid:4164038200764": 576,
+      "gas:candidate-vibid:4164038200659": 1
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tatarstan?action=show&root=1000041&tvd=21620001562296&vrn=100100067795849&region=16&global=&sub_region=16&prver=0&pronetvd=null&vibid=21620001562296&type=464",
@@ -3178,13 +3178,13 @@ export const duma_2016_uik_463_region_16_part_006 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Артемьева Анна Владимировна": 2,
-      "Вильданов Дамир Насырович": 2,
-      "Закиров Ринат Замильевич": 3,
-      "Иосипов Евгений Константинович": 1,
-      "Лукин Андрей Михайлович": 0,
-      "Хайруллин Айрат Назипович": 225,
-      "Ягудин Альберт Ахметвагизович": 1
+      "gas:candidate-vibid:4164038200292": 2,
+      "gas:candidate-vibid:4164038200488": 2,
+      "gas:candidate-vibid:4164038200318": 3,
+      "gas:candidate-vibid:4164038200535": 1,
+      "gas:candidate-vibid:4164038200618": 0,
+      "gas:candidate-vibid:4164038200764": 225,
+      "gas:candidate-vibid:4164038200659": 1
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tatarstan?action=show&root=1000041&tvd=21620001562296&vrn=100100067795849&region=16&global=&sub_region=16&prver=0&pronetvd=null&vibid=21620001562296&type=464",
@@ -3235,13 +3235,13 @@ export const duma_2016_uik_463_region_16_part_006 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Артемьева Анна Владимировна": 47,
-      "Вильданов Дамир Насырович": 19,
-      "Закиров Ринат Замильевич": 33,
-      "Иосипов Евгений Константинович": 58,
-      "Лукин Андрей Михайлович": 35,
-      "Хайруллин Айрат Назипович": 389,
-      "Ягудин Альберт Ахметвагизович": 41
+      "gas:candidate-vibid:4164038200292": 47,
+      "gas:candidate-vibid:4164038200488": 19,
+      "gas:candidate-vibid:4164038200318": 33,
+      "gas:candidate-vibid:4164038200535": 58,
+      "gas:candidate-vibid:4164038200618": 35,
+      "gas:candidate-vibid:4164038200764": 389,
+      "gas:candidate-vibid:4164038200659": 41
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tatarstan?action=show&root=1000041&tvd=21620001562296&vrn=100100067795849&region=16&global=&sub_region=16&prver=0&pronetvd=null&vibid=21620001562296&type=464",
@@ -3292,13 +3292,13 @@ export const duma_2016_uik_463_region_16_part_006 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Артемьева Анна Владимировна": 12,
-      "Вильданов Дамир Насырович": 4,
-      "Закиров Ринат Замильевич": 12,
-      "Иосипов Евгений Константинович": 10,
-      "Лукин Андрей Михайлович": 24,
-      "Хайруллин Айрат Назипович": 192,
-      "Ягудин Альберт Ахметвагизович": 10
+      "gas:candidate-vibid:4164038200292": 12,
+      "gas:candidate-vibid:4164038200488": 4,
+      "gas:candidate-vibid:4164038200318": 12,
+      "gas:candidate-vibid:4164038200535": 10,
+      "gas:candidate-vibid:4164038200618": 24,
+      "gas:candidate-vibid:4164038200764": 192,
+      "gas:candidate-vibid:4164038200659": 10
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tatarstan?action=show&root=1000041&tvd=21620001562296&vrn=100100067795849&region=16&global=&sub_region=16&prver=0&pronetvd=null&vibid=21620001562296&type=464",
@@ -3349,13 +3349,13 @@ export const duma_2016_uik_463_region_16_part_006 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Артемьева Анна Владимировна": 6,
-      "Вильданов Дамир Насырович": 6,
-      "Закиров Ринат Замильевич": 5,
-      "Иосипов Евгений Константинович": 7,
-      "Лукин Андрей Михайлович": 5,
-      "Хайруллин Айрат Назипович": 72,
-      "Ягудин Альберт Ахметвагизович": 8
+      "gas:candidate-vibid:4164038200292": 6,
+      "gas:candidate-vibid:4164038200488": 6,
+      "gas:candidate-vibid:4164038200318": 5,
+      "gas:candidate-vibid:4164038200535": 7,
+      "gas:candidate-vibid:4164038200618": 5,
+      "gas:candidate-vibid:4164038200764": 72,
+      "gas:candidate-vibid:4164038200659": 8
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tatarstan?action=show&root=1000041&tvd=21620001562296&vrn=100100067795849&region=16&global=&sub_region=16&prver=0&pronetvd=null&vibid=21620001562296&type=464",
@@ -3406,13 +3406,13 @@ export const duma_2016_uik_463_region_16_part_006 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Артемьева Анна Владимировна": 11,
-      "Вильданов Дамир Насырович": 0,
-      "Закиров Ринат Замильевич": 20,
-      "Иосипов Евгений Константинович": 40,
-      "Лукин Андрей Михайлович": 18,
-      "Хайруллин Айрат Назипович": 294,
-      "Ягудин Альберт Ахметвагизович": 8
+      "gas:candidate-vibid:4164038200292": 11,
+      "gas:candidate-vibid:4164038200488": 0,
+      "gas:candidate-vibid:4164038200318": 20,
+      "gas:candidate-vibid:4164038200535": 40,
+      "gas:candidate-vibid:4164038200618": 18,
+      "gas:candidate-vibid:4164038200764": 294,
+      "gas:candidate-vibid:4164038200659": 8
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tatarstan?action=show&root=1000041&tvd=21620001562296&vrn=100100067795849&region=16&global=&sub_region=16&prver=0&pronetvd=null&vibid=21620001562296&type=464",
@@ -3463,13 +3463,13 @@ export const duma_2016_uik_463_region_16_part_006 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Артемьева Анна Владимировна": 4,
-      "Вильданов Дамир Насырович": 2,
-      "Закиров Ринат Замильевич": 0,
-      "Иосипов Евгений Константинович": 0,
-      "Лукин Андрей Михайлович": 0,
-      "Хайруллин Айрат Назипович": 347,
-      "Ягудин Альберт Ахметвагизович": 8
+      "gas:candidate-vibid:4164038200292": 4,
+      "gas:candidate-vibid:4164038200488": 2,
+      "gas:candidate-vibid:4164038200318": 0,
+      "gas:candidate-vibid:4164038200535": 0,
+      "gas:candidate-vibid:4164038200618": 0,
+      "gas:candidate-vibid:4164038200764": 347,
+      "gas:candidate-vibid:4164038200659": 8
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tatarstan?action=show&root=1000041&tvd=21620001562296&vrn=100100067795849&region=16&global=&sub_region=16&prver=0&pronetvd=null&vibid=21620001562296&type=464",
@@ -3520,13 +3520,13 @@ export const duma_2016_uik_463_region_16_part_006 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Артемьева Анна Владимировна": 23,
-      "Вильданов Дамир Насырович": 17,
-      "Закиров Ринат Замильевич": 27,
-      "Иосипов Евгений Константинович": 20,
-      "Лукин Андрей Михайлович": 41,
-      "Хайруллин Айрат Назипович": 504,
-      "Ягудин Альберт Ахметвагизович": 35
+      "gas:candidate-vibid:4164038200292": 23,
+      "gas:candidate-vibid:4164038200488": 17,
+      "gas:candidate-vibid:4164038200318": 27,
+      "gas:candidate-vibid:4164038200535": 20,
+      "gas:candidate-vibid:4164038200618": 41,
+      "gas:candidate-vibid:4164038200764": 504,
+      "gas:candidate-vibid:4164038200659": 35
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tatarstan?action=show&root=1000041&tvd=21620001562296&vrn=100100067795849&region=16&global=&sub_region=16&prver=0&pronetvd=null&vibid=21620001562296&type=464",
@@ -3577,13 +3577,13 @@ export const duma_2016_uik_463_region_16_part_006 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Артемьева Анна Владимировна": 28,
-      "Вильданов Дамир Насырович": 48,
-      "Закиров Ринат Замильевич": 32,
-      "Иосипов Евгений Константинович": 30,
-      "Лукин Андрей Михайлович": 22,
-      "Хайруллин Айрат Назипович": 374,
-      "Ягудин Альберт Ахметвагизович": 23
+      "gas:candidate-vibid:4164038200292": 28,
+      "gas:candidate-vibid:4164038200488": 48,
+      "gas:candidate-vibid:4164038200318": 32,
+      "gas:candidate-vibid:4164038200535": 30,
+      "gas:candidate-vibid:4164038200618": 22,
+      "gas:candidate-vibid:4164038200764": 374,
+      "gas:candidate-vibid:4164038200659": 23
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tatarstan?action=show&root=1000041&tvd=21620001562296&vrn=100100067795849&region=16&global=&sub_region=16&prver=0&pronetvd=null&vibid=21620001562296&type=464",
@@ -3634,13 +3634,13 @@ export const duma_2016_uik_463_region_16_part_006 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Артемьева Анна Владимировна": 23,
-      "Вильданов Дамир Насырович": 15,
-      "Закиров Ринат Замильевич": 13,
-      "Иосипов Евгений Константинович": 22,
-      "Лукин Андрей Михайлович": 23,
-      "Хайруллин Айрат Назипович": 491,
-      "Ягудин Альберт Ахметвагизович": 33
+      "gas:candidate-vibid:4164038200292": 23,
+      "gas:candidate-vibid:4164038200488": 15,
+      "gas:candidate-vibid:4164038200318": 13,
+      "gas:candidate-vibid:4164038200535": 22,
+      "gas:candidate-vibid:4164038200618": 23,
+      "gas:candidate-vibid:4164038200764": 491,
+      "gas:candidate-vibid:4164038200659": 33
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tatarstan?action=show&root=1000041&tvd=21620001562296&vrn=100100067795849&region=16&global=&sub_region=16&prver=0&pronetvd=null&vibid=21620001562296&type=464",
@@ -3691,13 +3691,13 @@ export const duma_2016_uik_463_region_16_part_006 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Артемьева Анна Владимировна": 30,
-      "Вильданов Дамир Насырович": 20,
-      "Закиров Ринат Замильевич": 10,
-      "Иосипов Евгений Константинович": 10,
-      "Лукин Андрей Михайлович": 5,
-      "Хайруллин Айрат Назипович": 248,
-      "Ягудин Альберт Ахметвагизович": 46
+      "gas:candidate-vibid:4164038200292": 30,
+      "gas:candidate-vibid:4164038200488": 20,
+      "gas:candidate-vibid:4164038200318": 10,
+      "gas:candidate-vibid:4164038200535": 10,
+      "gas:candidate-vibid:4164038200618": 5,
+      "gas:candidate-vibid:4164038200764": 248,
+      "gas:candidate-vibid:4164038200659": 46
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tatarstan?action=show&root=1000041&tvd=21620001562296&vrn=100100067795849&region=16&global=&sub_region=16&prver=0&pronetvd=null&vibid=21620001562296&type=464",
@@ -3748,13 +3748,13 @@ export const duma_2016_uik_463_region_16_part_006 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Артемьева Анна Владимировна": 16,
-      "Вильданов Дамир Насырович": 18,
-      "Закиров Ринат Замильевич": 17,
-      "Иосипов Евгений Константинович": 6,
-      "Лукин Андрей Михайлович": 7,
-      "Хайруллин Айрат Назипович": 783,
-      "Ягудин Альберт Ахметвагизович": 20
+      "gas:candidate-vibid:4164038200292": 16,
+      "gas:candidate-vibid:4164038200488": 18,
+      "gas:candidate-vibid:4164038200318": 17,
+      "gas:candidate-vibid:4164038200535": 6,
+      "gas:candidate-vibid:4164038200618": 7,
+      "gas:candidate-vibid:4164038200764": 783,
+      "gas:candidate-vibid:4164038200659": 20
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tatarstan?action=show&root=1000041&tvd=21620001562296&vrn=100100067795849&region=16&global=&sub_region=16&prver=0&pronetvd=null&vibid=21620001562296&type=464",
@@ -3805,13 +3805,13 @@ export const duma_2016_uik_463_region_16_part_006 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Артемьева Анна Владимировна": 0,
-      "Вильданов Дамир Насырович": 0,
-      "Закиров Ринат Замильевич": 0,
-      "Иосипов Евгений Константинович": 10,
-      "Лукин Андрей Михайлович": 0,
-      "Хайруллин Айрат Назипович": 508,
-      "Ягудин Альберт Ахметвагизович": 11
+      "gas:candidate-vibid:4164038200292": 0,
+      "gas:candidate-vibid:4164038200488": 0,
+      "gas:candidate-vibid:4164038200318": 0,
+      "gas:candidate-vibid:4164038200535": 10,
+      "gas:candidate-vibid:4164038200618": 0,
+      "gas:candidate-vibid:4164038200764": 508,
+      "gas:candidate-vibid:4164038200659": 11
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tatarstan?action=show&root=1000041&tvd=21620001562296&vrn=100100067795849&region=16&global=&sub_region=16&prver=0&pronetvd=null&vibid=21620001562296&type=464",
@@ -3862,13 +3862,13 @@ export const duma_2016_uik_463_region_16_part_006 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Артемьева Анна Владимировна": 57,
-      "Вильданов Дамир Насырович": 35,
-      "Закиров Ринат Замильевич": 4,
-      "Иосипов Евгений Константинович": 83,
-      "Лукин Андрей Михайлович": 6,
-      "Хайруллин Айрат Назипович": 569,
-      "Ягудин Альберт Ахметвагизович": 14
+      "gas:candidate-vibid:4164038200292": 57,
+      "gas:candidate-vibid:4164038200488": 35,
+      "gas:candidate-vibid:4164038200318": 4,
+      "gas:candidate-vibid:4164038200535": 83,
+      "gas:candidate-vibid:4164038200618": 6,
+      "gas:candidate-vibid:4164038200764": 569,
+      "gas:candidate-vibid:4164038200659": 14
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tatarstan?action=show&root=1000041&tvd=21620001562296&vrn=100100067795849&region=16&global=&sub_region=16&prver=0&pronetvd=null&vibid=21620001562296&type=464",
@@ -3919,13 +3919,13 @@ export const duma_2016_uik_463_region_16_part_006 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Артемьева Анна Владимировна": 32,
-      "Вильданов Дамир Насырович": 35,
-      "Закиров Ринат Замильевич": 10,
-      "Иосипов Евгений Константинович": 15,
-      "Лукин Андрей Михайлович": 5,
-      "Хайруллин Айрат Назипович": 323,
-      "Ягудин Альберт Ахметвагизович": 15
+      "gas:candidate-vibid:4164038200292": 32,
+      "gas:candidate-vibid:4164038200488": 35,
+      "gas:candidate-vibid:4164038200318": 10,
+      "gas:candidate-vibid:4164038200535": 15,
+      "gas:candidate-vibid:4164038200618": 5,
+      "gas:candidate-vibid:4164038200764": 323,
+      "gas:candidate-vibid:4164038200659": 15
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tatarstan?action=show&root=1000041&tvd=21620001562296&vrn=100100067795849&region=16&global=&sub_region=16&prver=0&pronetvd=null&vibid=21620001562296&type=464",
@@ -3976,13 +3976,13 @@ export const duma_2016_uik_463_region_16_part_006 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Артемьева Анна Владимировна": 84,
-      "Вильданов Дамир Насырович": 49,
-      "Закиров Ринат Замильевич": 7,
-      "Иосипов Евгений Константинович": 119,
-      "Лукин Андрей Михайлович": 14,
-      "Хайруллин Айрат Назипович": 514,
-      "Ягудин Альберт Ахметвагизович": 97
+      "gas:candidate-vibid:4164038200292": 84,
+      "gas:candidate-vibid:4164038200488": 49,
+      "gas:candidate-vibid:4164038200318": 7,
+      "gas:candidate-vibid:4164038200535": 119,
+      "gas:candidate-vibid:4164038200618": 14,
+      "gas:candidate-vibid:4164038200764": 514,
+      "gas:candidate-vibid:4164038200659": 97
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tatarstan?action=show&root=1000041&tvd=21620001562296&vrn=100100067795849&region=16&global=&sub_region=16&prver=0&pronetvd=null&vibid=21620001562296&type=464",
@@ -4033,13 +4033,13 @@ export const duma_2016_uik_463_region_16_part_006 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Артемьева Анна Владимировна": 35,
-      "Вильданов Дамир Насырович": 48,
-      "Закиров Ринат Замильевич": 79,
-      "Иосипов Евгений Константинович": 81,
-      "Лукин Андрей Михайлович": 68,
-      "Хайруллин Айрат Назипович": 501,
-      "Ягудин Альберт Ахметвагизович": 23
+      "gas:candidate-vibid:4164038200292": 35,
+      "gas:candidate-vibid:4164038200488": 48,
+      "gas:candidate-vibid:4164038200318": 79,
+      "gas:candidate-vibid:4164038200535": 81,
+      "gas:candidate-vibid:4164038200618": 68,
+      "gas:candidate-vibid:4164038200764": 501,
+      "gas:candidate-vibid:4164038200659": 23
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tatarstan?action=show&root=1000041&tvd=21620001562296&vrn=100100067795849&region=16&global=&sub_region=16&prver=0&pronetvd=null&vibid=21620001562296&type=464",
@@ -4090,13 +4090,13 @@ export const duma_2016_uik_463_region_16_part_006 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Артемьева Анна Владимировна": 3,
-      "Вильданов Дамир Насырович": 0,
-      "Закиров Ринат Замильевич": 0,
-      "Иосипов Евгений Константинович": 6,
-      "Лукин Андрей Михайлович": 0,
-      "Хайруллин Айрат Назипович": 436,
-      "Ягудин Альберт Ахметвагизович": 9
+      "gas:candidate-vibid:4164038200292": 3,
+      "gas:candidate-vibid:4164038200488": 0,
+      "gas:candidate-vibid:4164038200318": 0,
+      "gas:candidate-vibid:4164038200535": 6,
+      "gas:candidate-vibid:4164038200618": 0,
+      "gas:candidate-vibid:4164038200764": 436,
+      "gas:candidate-vibid:4164038200659": 9
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tatarstan?action=show&root=1000041&tvd=21620001562296&vrn=100100067795849&region=16&global=&sub_region=16&prver=0&pronetvd=null&vibid=21620001562296&type=464",
@@ -4147,13 +4147,13 @@ export const duma_2016_uik_463_region_16_part_006 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Артемьева Анна Владимировна": 3,
-      "Вильданов Дамир Насырович": 0,
-      "Закиров Ринат Замильевич": 2,
-      "Иосипов Евгений Константинович": 0,
-      "Лукин Андрей Михайлович": 0,
-      "Хайруллин Айрат Назипович": 377,
-      "Ягудин Альберт Ахметвагизович": 5
+      "gas:candidate-vibid:4164038200292": 3,
+      "gas:candidate-vibid:4164038200488": 0,
+      "gas:candidate-vibid:4164038200318": 2,
+      "gas:candidate-vibid:4164038200535": 0,
+      "gas:candidate-vibid:4164038200618": 0,
+      "gas:candidate-vibid:4164038200764": 377,
+      "gas:candidate-vibid:4164038200659": 5
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tatarstan?action=show&root=1000041&tvd=21620001562296&vrn=100100067795849&region=16&global=&sub_region=16&prver=0&pronetvd=null&vibid=21620001562296&type=464",
@@ -4204,13 +4204,13 @@ export const duma_2016_uik_463_region_16_part_006 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Артемьева Анна Владимировна": 0,
-      "Вильданов Дамир Насырович": 0,
-      "Закиров Ринат Замильевич": 4,
-      "Иосипов Евгений Константинович": 0,
-      "Лукин Андрей Михайлович": 0,
-      "Хайруллин Айрат Назипович": 240,
-      "Ягудин Альберт Ахметвагизович": 4
+      "gas:candidate-vibid:4164038200292": 0,
+      "gas:candidate-vibid:4164038200488": 0,
+      "gas:candidate-vibid:4164038200318": 4,
+      "gas:candidate-vibid:4164038200535": 0,
+      "gas:candidate-vibid:4164038200618": 0,
+      "gas:candidate-vibid:4164038200764": 240,
+      "gas:candidate-vibid:4164038200659": 4
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tatarstan?action=show&root=1000041&tvd=21620001562296&vrn=100100067795849&region=16&global=&sub_region=16&prver=0&pronetvd=null&vibid=21620001562296&type=464",
@@ -4261,13 +4261,13 @@ export const duma_2016_uik_463_region_16_part_006 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Артемьева Анна Владимировна": 0,
-      "Вильданов Дамир Насырович": 0,
-      "Закиров Ринат Замильевич": 2,
-      "Иосипов Евгений Константинович": 0,
-      "Лукин Андрей Михайлович": 0,
-      "Хайруллин Айрат Назипович": 135,
-      "Ягудин Альберт Ахметвагизович": 4
+      "gas:candidate-vibid:4164038200292": 0,
+      "gas:candidate-vibid:4164038200488": 0,
+      "gas:candidate-vibid:4164038200318": 2,
+      "gas:candidate-vibid:4164038200535": 0,
+      "gas:candidate-vibid:4164038200618": 0,
+      "gas:candidate-vibid:4164038200764": 135,
+      "gas:candidate-vibid:4164038200659": 4
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tatarstan?action=show&root=1000041&tvd=21620001562296&vrn=100100067795849&region=16&global=&sub_region=16&prver=0&pronetvd=null&vibid=21620001562296&type=464",
@@ -4318,13 +4318,13 @@ export const duma_2016_uik_463_region_16_part_006 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Артемьева Анна Владимировна": 0,
-      "Вильданов Дамир Насырович": 0,
-      "Закиров Ринат Замильевич": 2,
-      "Иосипов Евгений Константинович": 0,
-      "Лукин Андрей Михайлович": 0,
-      "Хайруллин Айрат Назипович": 93,
-      "Ягудин Альберт Ахметвагизович": 2
+      "gas:candidate-vibid:4164038200292": 0,
+      "gas:candidate-vibid:4164038200488": 0,
+      "gas:candidate-vibid:4164038200318": 2,
+      "gas:candidate-vibid:4164038200535": 0,
+      "gas:candidate-vibid:4164038200618": 0,
+      "gas:candidate-vibid:4164038200764": 93,
+      "gas:candidate-vibid:4164038200659": 2
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tatarstan?action=show&root=1000041&tvd=21620001562296&vrn=100100067795849&region=16&global=&sub_region=16&prver=0&pronetvd=null&vibid=21620001562296&type=464",
@@ -4375,13 +4375,13 @@ export const duma_2016_uik_463_region_16_part_006 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Артемьева Анна Владимировна": 5,
-      "Вильданов Дамир Насырович": 2,
-      "Закиров Ринат Замильевич": 0,
-      "Иосипов Евгений Константинович": 0,
-      "Лукин Андрей Михайлович": 0,
-      "Хайруллин Айрат Назипович": 452,
-      "Ягудин Альберт Ахметвагизович": 7
+      "gas:candidate-vibid:4164038200292": 5,
+      "gas:candidate-vibid:4164038200488": 2,
+      "gas:candidate-vibid:4164038200318": 0,
+      "gas:candidate-vibid:4164038200535": 0,
+      "gas:candidate-vibid:4164038200618": 0,
+      "gas:candidate-vibid:4164038200764": 452,
+      "gas:candidate-vibid:4164038200659": 7
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tatarstan?action=show&root=1000041&tvd=21620001562296&vrn=100100067795849&region=16&global=&sub_region=16&prver=0&pronetvd=null&vibid=21620001562296&type=464",
@@ -4432,13 +4432,13 @@ export const duma_2016_uik_463_region_16_part_006 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Артемьева Анна Владимировна": 5,
-      "Вильданов Дамир Насырович": 5,
-      "Закиров Ринат Замильевич": 3,
-      "Иосипов Евгений Константинович": 2,
-      "Лукин Андрей Михайлович": 1,
-      "Хайруллин Айрат Назипович": 538,
-      "Ягудин Альберт Ахметвагизович": 7
+      "gas:candidate-vibid:4164038200292": 5,
+      "gas:candidate-vibid:4164038200488": 5,
+      "gas:candidate-vibid:4164038200318": 3,
+      "gas:candidate-vibid:4164038200535": 2,
+      "gas:candidate-vibid:4164038200618": 1,
+      "gas:candidate-vibid:4164038200764": 538,
+      "gas:candidate-vibid:4164038200659": 7
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tatarstan?action=show&root=1000041&tvd=21620001562296&vrn=100100067795849&region=16&global=&sub_region=16&prver=0&pronetvd=null&vibid=21620001562296&type=464",
@@ -4489,13 +4489,13 @@ export const duma_2016_uik_463_region_16_part_006 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Артемьева Анна Владимировна": 28,
-      "Вильданов Дамир Насырович": 18,
-      "Закиров Ринат Замильевич": 15,
-      "Иосипов Евгений Константинович": 21,
-      "Лукин Андрей Михайлович": 19,
-      "Хайруллин Айрат Назипович": 251,
-      "Ягудин Альберт Ахметвагизович": 23
+      "gas:candidate-vibid:4164038200292": 28,
+      "gas:candidate-vibid:4164038200488": 18,
+      "gas:candidate-vibid:4164038200318": 15,
+      "gas:candidate-vibid:4164038200535": 21,
+      "gas:candidate-vibid:4164038200618": 19,
+      "gas:candidate-vibid:4164038200764": 251,
+      "gas:candidate-vibid:4164038200659": 23
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tatarstan?action=show&root=1000041&tvd=21620001562296&vrn=100100067795849&region=16&global=&sub_region=16&prver=0&pronetvd=null&vibid=21620001562296&type=464",
@@ -4546,13 +4546,13 @@ export const duma_2016_uik_463_region_16_part_006 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Артемьева Анна Владимировна": 5,
-      "Вильданов Дамир Насырович": 7,
-      "Закиров Ринат Замильевич": 6,
-      "Иосипов Евгений Константинович": 7,
-      "Лукин Андрей Михайлович": 6,
-      "Хайруллин Айрат Назипович": 71,
-      "Ягудин Альберт Ахметвагизович": 12
+      "gas:candidate-vibid:4164038200292": 5,
+      "gas:candidate-vibid:4164038200488": 7,
+      "gas:candidate-vibid:4164038200318": 6,
+      "gas:candidate-vibid:4164038200535": 7,
+      "gas:candidate-vibid:4164038200618": 6,
+      "gas:candidate-vibid:4164038200764": 71,
+      "gas:candidate-vibid:4164038200659": 12
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tatarstan?action=show&root=1000041&tvd=21620001562296&vrn=100100067795849&region=16&global=&sub_region=16&prver=0&pronetvd=null&vibid=21620001562296&type=464",
@@ -4603,13 +4603,13 @@ export const duma_2016_uik_463_region_16_part_006 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Артемьева Анна Владимировна": 2,
-      "Вильданов Дамир Насырович": 1,
-      "Закиров Ринат Замильевич": 2,
-      "Иосипов Евгений Константинович": 1,
-      "Лукин Андрей Михайлович": 1,
-      "Хайруллин Айрат Назипович": 190,
-      "Ягудин Альберт Ахметвагизович": 0
+      "gas:candidate-vibid:4164038200292": 2,
+      "gas:candidate-vibid:4164038200488": 1,
+      "gas:candidate-vibid:4164038200318": 2,
+      "gas:candidate-vibid:4164038200535": 1,
+      "gas:candidate-vibid:4164038200618": 1,
+      "gas:candidate-vibid:4164038200764": 190,
+      "gas:candidate-vibid:4164038200659": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tatarstan?action=show&root=1000041&tvd=21620001562296&vrn=100100067795849&region=16&global=&sub_region=16&prver=0&pronetvd=null&vibid=21620001562296&type=464",
@@ -4660,13 +4660,13 @@ export const duma_2016_uik_463_region_16_part_006 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Артемьева Анна Владимировна": 27,
-      "Вильданов Дамир Насырович": 18,
-      "Закиров Ринат Замильевич": 10,
-      "Иосипов Евгений Константинович": 30,
-      "Лукин Андрей Михайлович": 5,
-      "Хайруллин Айрат Назипович": 302,
-      "Ягудин Альберт Ахметвагизович": 10
+      "gas:candidate-vibid:4164038200292": 27,
+      "gas:candidate-vibid:4164038200488": 18,
+      "gas:candidate-vibid:4164038200318": 10,
+      "gas:candidate-vibid:4164038200535": 30,
+      "gas:candidate-vibid:4164038200618": 5,
+      "gas:candidate-vibid:4164038200764": 302,
+      "gas:candidate-vibid:4164038200659": 10
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tatarstan?action=show&root=1000041&tvd=21620001562296&vrn=100100067795849&region=16&global=&sub_region=16&prver=0&pronetvd=null&vibid=21620001562296&type=464",
@@ -4717,13 +4717,13 @@ export const duma_2016_uik_463_region_16_part_006 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Артемьева Анна Владимировна": 11,
-      "Вильданов Дамир Насырович": 19,
-      "Закиров Ринат Замильевич": 12,
-      "Иосипов Евгений Константинович": 4,
-      "Лукин Андрей Михайлович": 4,
-      "Хайруллин Айрат Назипович": 116,
-      "Ягудин Альберт Ахметвагизович": 5
+      "gas:candidate-vibid:4164038200292": 11,
+      "gas:candidate-vibid:4164038200488": 19,
+      "gas:candidate-vibid:4164038200318": 12,
+      "gas:candidate-vibid:4164038200535": 4,
+      "gas:candidate-vibid:4164038200618": 4,
+      "gas:candidate-vibid:4164038200764": 116,
+      "gas:candidate-vibid:4164038200659": 5
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tatarstan?action=show&root=1000041&tvd=21620001562296&vrn=100100067795849&region=16&global=&sub_region=16&prver=0&pronetvd=null&vibid=21620001562296&type=464",
@@ -4774,13 +4774,13 @@ export const duma_2016_uik_463_region_16_part_006 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Артемьева Анна Владимировна": 0,
-      "Вильданов Дамир Насырович": 1,
-      "Закиров Ринат Замильевич": 0,
-      "Иосипов Евгений Константинович": 0,
-      "Лукин Андрей Михайлович": 1,
-      "Хайруллин Айрат Назипович": 300,
-      "Ягудин Альберт Ахметвагизович": 1
+      "gas:candidate-vibid:4164038200292": 0,
+      "gas:candidate-vibid:4164038200488": 1,
+      "gas:candidate-vibid:4164038200318": 0,
+      "gas:candidate-vibid:4164038200535": 0,
+      "gas:candidate-vibid:4164038200618": 1,
+      "gas:candidate-vibid:4164038200764": 300,
+      "gas:candidate-vibid:4164038200659": 1
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tatarstan?action=show&root=1000041&tvd=21620001562297&vrn=100100067795849&region=16&global=&sub_region=16&prver=0&pronetvd=null&vibid=21620001562297&type=464",
@@ -4831,13 +4831,13 @@ export const duma_2016_uik_463_region_16_part_006 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Артемьева Анна Владимировна": 0,
-      "Вильданов Дамир Насырович": 0,
-      "Закиров Ринат Замильевич": 0,
-      "Иосипов Евгений Константинович": 0,
-      "Лукин Андрей Михайлович": 0,
-      "Хайруллин Айрат Назипович": 456,
-      "Ягудин Альберт Ахметвагизович": 1
+      "gas:candidate-vibid:4164038200292": 0,
+      "gas:candidate-vibid:4164038200488": 0,
+      "gas:candidate-vibid:4164038200318": 0,
+      "gas:candidate-vibid:4164038200535": 0,
+      "gas:candidate-vibid:4164038200618": 0,
+      "gas:candidate-vibid:4164038200764": 456,
+      "gas:candidate-vibid:4164038200659": 1
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tatarstan?action=show&root=1000041&tvd=21620001562297&vrn=100100067795849&region=16&global=&sub_region=16&prver=0&pronetvd=null&vibid=21620001562297&type=464",
@@ -4888,13 +4888,13 @@ export const duma_2016_uik_463_region_16_part_006 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Артемьева Анна Владимировна": 1,
-      "Вильданов Дамир Насырович": 1,
-      "Закиров Ринат Замильевич": 0,
-      "Иосипов Евгений Константинович": 1,
-      "Лукин Андрей Михайлович": 1,
-      "Хайруллин Айрат Назипович": 382,
-      "Ягудин Альберт Ахметвагизович": 1
+      "gas:candidate-vibid:4164038200292": 1,
+      "gas:candidate-vibid:4164038200488": 1,
+      "gas:candidate-vibid:4164038200318": 0,
+      "gas:candidate-vibid:4164038200535": 1,
+      "gas:candidate-vibid:4164038200618": 1,
+      "gas:candidate-vibid:4164038200764": 382,
+      "gas:candidate-vibid:4164038200659": 1
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tatarstan?action=show&root=1000041&tvd=21620001562297&vrn=100100067795849&region=16&global=&sub_region=16&prver=0&pronetvd=null&vibid=21620001562297&type=464",
@@ -4945,13 +4945,13 @@ export const duma_2016_uik_463_region_16_part_006 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Артемьева Анна Владимировна": 101,
-      "Вильданов Дамир Насырович": 1,
-      "Закиров Ринат Замильевич": 36,
-      "Иосипов Евгений Константинович": 5,
-      "Лукин Андрей Михайлович": 3,
-      "Хайруллин Айрат Назипович": 116,
-      "Ягудин Альберт Ахметвагизович": 5
+      "gas:candidate-vibid:4164038200292": 101,
+      "gas:candidate-vibid:4164038200488": 1,
+      "gas:candidate-vibid:4164038200318": 36,
+      "gas:candidate-vibid:4164038200535": 5,
+      "gas:candidate-vibid:4164038200618": 3,
+      "gas:candidate-vibid:4164038200764": 116,
+      "gas:candidate-vibid:4164038200659": 5
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tatarstan?action=show&root=1000041&tvd=21620001562297&vrn=100100067795849&region=16&global=&sub_region=16&prver=0&pronetvd=null&vibid=21620001562297&type=464",
@@ -5002,13 +5002,13 @@ export const duma_2016_uik_463_region_16_part_006 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Артемьева Анна Владимировна": 16,
-      "Вильданов Дамир Насырович": 19,
-      "Закиров Ринат Замильевич": 0,
-      "Иосипов Евгений Константинович": 12,
-      "Лукин Андрей Михайлович": 13,
-      "Хайруллин Айрат Назипович": 264,
-      "Ягудин Альберт Ахметвагизович": 34
+      "gas:candidate-vibid:4164038200292": 16,
+      "gas:candidate-vibid:4164038200488": 19,
+      "gas:candidate-vibid:4164038200318": 0,
+      "gas:candidate-vibid:4164038200535": 12,
+      "gas:candidate-vibid:4164038200618": 13,
+      "gas:candidate-vibid:4164038200764": 264,
+      "gas:candidate-vibid:4164038200659": 34
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tatarstan?action=show&root=1000041&tvd=21620001562297&vrn=100100067795849&region=16&global=&sub_region=16&prver=0&pronetvd=null&vibid=21620001562297&type=464",
@@ -5059,13 +5059,13 @@ export const duma_2016_uik_463_region_16_part_006 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Артемьева Анна Владимировна": 0,
-      "Вильданов Дамир Насырович": 0,
-      "Закиров Ринат Замильевич": 0,
-      "Иосипов Евгений Константинович": 0,
-      "Лукин Андрей Михайлович": 2,
-      "Хайруллин Айрат Назипович": 168,
-      "Ягудин Альберт Ахметвагизович": 3
+      "gas:candidate-vibid:4164038200292": 0,
+      "gas:candidate-vibid:4164038200488": 0,
+      "gas:candidate-vibid:4164038200318": 0,
+      "gas:candidate-vibid:4164038200535": 0,
+      "gas:candidate-vibid:4164038200618": 2,
+      "gas:candidate-vibid:4164038200764": 168,
+      "gas:candidate-vibid:4164038200659": 3
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tatarstan?action=show&root=1000041&tvd=21620001562297&vrn=100100067795849&region=16&global=&sub_region=16&prver=0&pronetvd=null&vibid=21620001562297&type=464",
@@ -5116,13 +5116,13 @@ export const duma_2016_uik_463_region_16_part_006 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Артемьева Анна Владимировна": 6,
-      "Вильданов Дамир Насырович": 10,
-      "Закиров Ринат Замильевич": 23,
-      "Иосипов Евгений Константинович": 12,
-      "Лукин Андрей Михайлович": 3,
-      "Хайруллин Айрат Назипович": 339,
-      "Ягудин Альберт Ахметвагизович": 213
+      "gas:candidate-vibid:4164038200292": 6,
+      "gas:candidate-vibid:4164038200488": 10,
+      "gas:candidate-vibid:4164038200318": 23,
+      "gas:candidate-vibid:4164038200535": 12,
+      "gas:candidate-vibid:4164038200618": 3,
+      "gas:candidate-vibid:4164038200764": 339,
+      "gas:candidate-vibid:4164038200659": 213
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tatarstan?action=show&root=1000041&tvd=21620001562297&vrn=100100067795849&region=16&global=&sub_region=16&prver=0&pronetvd=null&vibid=21620001562297&type=464",
@@ -5173,13 +5173,13 @@ export const duma_2016_uik_463_region_16_part_006 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Артемьева Анна Владимировна": 1,
-      "Вильданов Дамир Насырович": 0,
-      "Закиров Ринат Замильевич": 0,
-      "Иосипов Евгений Константинович": 11,
-      "Лукин Андрей Михайлович": 3,
-      "Хайруллин Айрат Назипович": 484,
-      "Ягудин Альберт Ахметвагизович": 6
+      "gas:candidate-vibid:4164038200292": 1,
+      "gas:candidate-vibid:4164038200488": 0,
+      "gas:candidate-vibid:4164038200318": 0,
+      "gas:candidate-vibid:4164038200535": 11,
+      "gas:candidate-vibid:4164038200618": 3,
+      "gas:candidate-vibid:4164038200764": 484,
+      "gas:candidate-vibid:4164038200659": 6
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tatarstan?action=show&root=1000041&tvd=21620001562297&vrn=100100067795849&region=16&global=&sub_region=16&prver=0&pronetvd=null&vibid=21620001562297&type=464",
@@ -5230,13 +5230,13 @@ export const duma_2016_uik_463_region_16_part_006 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Артемьева Анна Владимировна": 2,
-      "Вильданов Дамир Насырович": 0,
-      "Закиров Ринат Замильевич": 0,
-      "Иосипов Евгений Константинович": 0,
-      "Лукин Андрей Михайлович": 0,
-      "Хайруллин Айрат Назипович": 91,
-      "Ягудин Альберт Ахметвагизович": 0
+      "gas:candidate-vibid:4164038200292": 2,
+      "gas:candidate-vibid:4164038200488": 0,
+      "gas:candidate-vibid:4164038200318": 0,
+      "gas:candidate-vibid:4164038200535": 0,
+      "gas:candidate-vibid:4164038200618": 0,
+      "gas:candidate-vibid:4164038200764": 91,
+      "gas:candidate-vibid:4164038200659": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tatarstan?action=show&root=1000041&tvd=21620001562297&vrn=100100067795849&region=16&global=&sub_region=16&prver=0&pronetvd=null&vibid=21620001562297&type=464",
@@ -5287,13 +5287,13 @@ export const duma_2016_uik_463_region_16_part_006 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Артемьева Анна Владимировна": 0,
-      "Вильданов Дамир Насырович": 0,
-      "Закиров Ринат Замильевич": 0,
-      "Иосипов Евгений Константинович": 0,
-      "Лукин Андрей Михайлович": 0,
-      "Хайруллин Айрат Назипович": 88,
-      "Ягудин Альберт Ахметвагизович": 1
+      "gas:candidate-vibid:4164038200292": 0,
+      "gas:candidate-vibid:4164038200488": 0,
+      "gas:candidate-vibid:4164038200318": 0,
+      "gas:candidate-vibid:4164038200535": 0,
+      "gas:candidate-vibid:4164038200618": 0,
+      "gas:candidate-vibid:4164038200764": 88,
+      "gas:candidate-vibid:4164038200659": 1
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tatarstan?action=show&root=1000041&tvd=21620001562297&vrn=100100067795849&region=16&global=&sub_region=16&prver=0&pronetvd=null&vibid=21620001562297&type=464",
@@ -5344,13 +5344,13 @@ export const duma_2016_uik_463_region_16_part_006 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Артемьева Анна Владимировна": 53,
-      "Вильданов Дамир Насырович": 53,
-      "Закиров Ринат Замильевич": 0,
-      "Иосипов Евгений Константинович": 0,
-      "Лукин Андрей Михайлович": 0,
-      "Хайруллин Айрат Назипович": 258,
-      "Ягудин Альберт Ахметвагизович": 106
+      "gas:candidate-vibid:4164038200292": 53,
+      "gas:candidate-vibid:4164038200488": 53,
+      "gas:candidate-vibid:4164038200318": 0,
+      "gas:candidate-vibid:4164038200535": 0,
+      "gas:candidate-vibid:4164038200618": 0,
+      "gas:candidate-vibid:4164038200764": 258,
+      "gas:candidate-vibid:4164038200659": 106
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tatarstan?action=show&root=1000041&tvd=21620001562297&vrn=100100067795849&region=16&global=&sub_region=16&prver=0&pronetvd=null&vibid=21620001562297&type=464",
@@ -5401,13 +5401,13 @@ export const duma_2016_uik_463_region_16_part_006 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Артемьева Анна Владимировна": 1,
-      "Вильданов Дамир Насырович": 0,
-      "Закиров Ринат Замильевич": 1,
-      "Иосипов Евгений Константинович": 0,
-      "Лукин Андрей Михайлович": 0,
-      "Хайруллин Айрат Назипович": 117,
-      "Ягудин Альберт Ахметвагизович": 2
+      "gas:candidate-vibid:4164038200292": 1,
+      "gas:candidate-vibid:4164038200488": 0,
+      "gas:candidate-vibid:4164038200318": 1,
+      "gas:candidate-vibid:4164038200535": 0,
+      "gas:candidate-vibid:4164038200618": 0,
+      "gas:candidate-vibid:4164038200764": 117,
+      "gas:candidate-vibid:4164038200659": 2
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tatarstan?action=show&root=1000041&tvd=21620001562297&vrn=100100067795849&region=16&global=&sub_region=16&prver=0&pronetvd=null&vibid=21620001562297&type=464",
@@ -5458,13 +5458,13 @@ export const duma_2016_uik_463_region_16_part_006 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Артемьева Анна Владимировна": 3,
-      "Вильданов Дамир Насырович": 0,
-      "Закиров Ринат Замильевич": 0,
-      "Иосипов Евгений Константинович": 0,
-      "Лукин Андрей Михайлович": 0,
-      "Хайруллин Айрат Назипович": 378,
-      "Ягудин Альберт Ахметвагизович": 0
+      "gas:candidate-vibid:4164038200292": 3,
+      "gas:candidate-vibid:4164038200488": 0,
+      "gas:candidate-vibid:4164038200318": 0,
+      "gas:candidate-vibid:4164038200535": 0,
+      "gas:candidate-vibid:4164038200618": 0,
+      "gas:candidate-vibid:4164038200764": 378,
+      "gas:candidate-vibid:4164038200659": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tatarstan?action=show&root=1000041&tvd=21620001562297&vrn=100100067795849&region=16&global=&sub_region=16&prver=0&pronetvd=null&vibid=21620001562297&type=464",
@@ -5515,13 +5515,13 @@ export const duma_2016_uik_463_region_16_part_006 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Артемьева Анна Владимировна": 70,
-      "Вильданов Дамир Насырович": 51,
-      "Закиров Ринат Замильевич": 30,
-      "Иосипов Евгений Константинович": 68,
-      "Лукин Андрей Михайлович": 25,
-      "Хайруллин Айрат Назипович": 413,
-      "Ягудин Альберт Ахметвагизович": 81
+      "gas:candidate-vibid:4164038200292": 70,
+      "gas:candidate-vibid:4164038200488": 51,
+      "gas:candidate-vibid:4164038200318": 30,
+      "gas:candidate-vibid:4164038200535": 68,
+      "gas:candidate-vibid:4164038200618": 25,
+      "gas:candidate-vibid:4164038200764": 413,
+      "gas:candidate-vibid:4164038200659": 81
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tatarstan?action=show&root=1000041&tvd=21620001562297&vrn=100100067795849&region=16&global=&sub_region=16&prver=0&pronetvd=null&vibid=21620001562297&type=464",
@@ -5572,13 +5572,13 @@ export const duma_2016_uik_463_region_16_part_006 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Артемьева Анна Владимировна": 69,
-      "Вильданов Дамир Насырович": 34,
-      "Закиров Ринат Замильевич": 13,
-      "Иосипов Евгений Константинович": 9,
-      "Лукин Андрей Михайлович": 13,
-      "Хайруллин Айрат Назипович": 448,
-      "Ягудин Альберт Ахметвагизович": 103
+      "gas:candidate-vibid:4164038200292": 69,
+      "gas:candidate-vibid:4164038200488": 34,
+      "gas:candidate-vibid:4164038200318": 13,
+      "gas:candidate-vibid:4164038200535": 9,
+      "gas:candidate-vibid:4164038200618": 13,
+      "gas:candidate-vibid:4164038200764": 448,
+      "gas:candidate-vibid:4164038200659": 103
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tatarstan?action=show&root=1000041&tvd=21620001562297&vrn=100100067795849&region=16&global=&sub_region=16&prver=0&pronetvd=null&vibid=21620001562297&type=464",
@@ -5629,13 +5629,13 @@ export const duma_2016_uik_463_region_16_part_006 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Артемьева Анна Владимировна": 110,
-      "Вильданов Дамир Насырович": 30,
-      "Закиров Ринат Замильевич": 23,
-      "Иосипов Евгений Константинович": 77,
-      "Лукин Андрей Михайлович": 30,
-      "Хайруллин Айрат Назипович": 740,
-      "Ягудин Альберт Ахметвагизович": 127
+      "gas:candidate-vibid:4164038200292": 110,
+      "gas:candidate-vibid:4164038200488": 30,
+      "gas:candidate-vibid:4164038200318": 23,
+      "gas:candidate-vibid:4164038200535": 77,
+      "gas:candidate-vibid:4164038200618": 30,
+      "gas:candidate-vibid:4164038200764": 740,
+      "gas:candidate-vibid:4164038200659": 127
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tatarstan?action=show&root=1000041&tvd=21620001562297&vrn=100100067795849&region=16&global=&sub_region=16&prver=0&pronetvd=null&vibid=21620001562297&type=464",
@@ -5686,13 +5686,13 @@ export const duma_2016_uik_463_region_16_part_006 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Артемьева Анна Владимировна": 66,
-      "Вильданов Дамир Насырович": 0,
-      "Закиров Ринат Замильевич": 60,
-      "Иосипов Евгений Константинович": 24,
-      "Лукин Андрей Михайлович": 29,
-      "Хайруллин Айрат Назипович": 453,
-      "Ягудин Альберт Ахметвагизович": 70
+      "gas:candidate-vibid:4164038200292": 66,
+      "gas:candidate-vibid:4164038200488": 0,
+      "gas:candidate-vibid:4164038200318": 60,
+      "gas:candidate-vibid:4164038200535": 24,
+      "gas:candidate-vibid:4164038200618": 29,
+      "gas:candidate-vibid:4164038200764": 453,
+      "gas:candidate-vibid:4164038200659": 70
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tatarstan?action=show&root=1000041&tvd=21620001562297&vrn=100100067795849&region=16&global=&sub_region=16&prver=0&pronetvd=null&vibid=21620001562297&type=464",
@@ -5743,13 +5743,13 @@ export const duma_2016_uik_463_region_16_part_006 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Артемьева Анна Владимировна": 2,
-      "Вильданов Дамир Насырович": 0,
-      "Закиров Ринат Замильевич": 1,
-      "Иосипов Евгений Константинович": 0,
-      "Лукин Андрей Михайлович": 1,
-      "Хайруллин Айрат Назипович": 288,
-      "Ягудин Альберт Ахметвагизович": 205
+      "gas:candidate-vibid:4164038200292": 2,
+      "gas:candidate-vibid:4164038200488": 0,
+      "gas:candidate-vibid:4164038200318": 1,
+      "gas:candidate-vibid:4164038200535": 0,
+      "gas:candidate-vibid:4164038200618": 1,
+      "gas:candidate-vibid:4164038200764": 288,
+      "gas:candidate-vibid:4164038200659": 205
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tatarstan?action=show&root=1000041&tvd=21620001562297&vrn=100100067795849&region=16&global=&sub_region=16&prver=0&pronetvd=null&vibid=21620001562297&type=464",
@@ -5800,13 +5800,13 @@ export const duma_2016_uik_463_region_16_part_006 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Артемьева Анна Владимировна": 0,
-      "Вильданов Дамир Насырович": 0,
-      "Закиров Ринат Замильевич": 0,
-      "Иосипов Евгений Константинович": 0,
-      "Лукин Андрей Михайлович": 0,
-      "Хайруллин Айрат Назипович": 98,
-      "Ягудин Альберт Ахметвагизович": 1
+      "gas:candidate-vibid:4164038200292": 0,
+      "gas:candidate-vibid:4164038200488": 0,
+      "gas:candidate-vibid:4164038200318": 0,
+      "gas:candidate-vibid:4164038200535": 0,
+      "gas:candidate-vibid:4164038200618": 0,
+      "gas:candidate-vibid:4164038200764": 98,
+      "gas:candidate-vibid:4164038200659": 1
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tatarstan?action=show&root=1000041&tvd=21620001562297&vrn=100100067795849&region=16&global=&sub_region=16&prver=0&pronetvd=null&vibid=21620001562297&type=464",
@@ -5857,13 +5857,13 @@ export const duma_2016_uik_463_region_16_part_006 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Артемьева Анна Владимировна": 2,
-      "Вильданов Дамир Насырович": 0,
-      "Закиров Ринат Замильевич": 0,
-      "Иосипов Евгений Константинович": 2,
-      "Лукин Андрей Михайлович": 1,
-      "Хайруллин Айрат Назипович": 491,
-      "Ягудин Альберт Ахметвагизович": 4
+      "gas:candidate-vibid:4164038200292": 2,
+      "gas:candidate-vibid:4164038200488": 0,
+      "gas:candidate-vibid:4164038200318": 0,
+      "gas:candidate-vibid:4164038200535": 2,
+      "gas:candidate-vibid:4164038200618": 1,
+      "gas:candidate-vibid:4164038200764": 491,
+      "gas:candidate-vibid:4164038200659": 4
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tatarstan?action=show&root=1000041&tvd=21620001562297&vrn=100100067795849&region=16&global=&sub_region=16&prver=0&pronetvd=null&vibid=21620001562297&type=464",
@@ -5914,13 +5914,13 @@ export const duma_2016_uik_463_region_16_part_006 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Артемьева Анна Владимировна": 44,
-      "Вильданов Дамир Насырович": 36,
-      "Закиров Ринат Замильевич": 10,
-      "Иосипов Евгений Константинович": 16,
-      "Лукин Андрей Михайлович": 13,
-      "Хайруллин Айрат Назипович": 383,
-      "Ягудин Альберт Ахметвагизович": 22
+      "gas:candidate-vibid:4164038200292": 44,
+      "gas:candidate-vibid:4164038200488": 36,
+      "gas:candidate-vibid:4164038200318": 10,
+      "gas:candidate-vibid:4164038200535": 16,
+      "gas:candidate-vibid:4164038200618": 13,
+      "gas:candidate-vibid:4164038200764": 383,
+      "gas:candidate-vibid:4164038200659": 22
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tatarstan?action=show&root=1000041&tvd=21620001562297&vrn=100100067795849&region=16&global=&sub_region=16&prver=0&pronetvd=null&vibid=21620001562297&type=464",
@@ -5971,13 +5971,13 @@ export const duma_2016_uik_463_region_16_part_006 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Артемьева Анна Владимировна": 2,
-      "Вильданов Дамир Насырович": 0,
-      "Закиров Ринат Замильевич": 0,
-      "Иосипов Евгений Константинович": 0,
-      "Лукин Андрей Михайлович": 0,
-      "Хайруллин Айрат Назипович": 126,
-      "Ягудин Альберт Ахметвагизович": 0
+      "gas:candidate-vibid:4164038200292": 2,
+      "gas:candidate-vibid:4164038200488": 0,
+      "gas:candidate-vibid:4164038200318": 0,
+      "gas:candidate-vibid:4164038200535": 0,
+      "gas:candidate-vibid:4164038200618": 0,
+      "gas:candidate-vibid:4164038200764": 126,
+      "gas:candidate-vibid:4164038200659": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tatarstan?action=show&root=1000041&tvd=21620001562297&vrn=100100067795849&region=16&global=&sub_region=16&prver=0&pronetvd=null&vibid=21620001562297&type=464",
@@ -6028,13 +6028,13 @@ export const duma_2016_uik_463_region_16_part_006 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Артемьева Анна Владимировна": 5,
-      "Вильданов Дамир Насырович": 3,
-      "Закиров Ринат Замильевич": 6,
-      "Иосипов Евгений Константинович": 0,
-      "Лукин Андрей Михайлович": 5,
-      "Хайруллин Айрат Назипович": 285,
-      "Ягудин Альберт Ахметвагизович": 22
+      "gas:candidate-vibid:4164038200292": 5,
+      "gas:candidate-vibid:4164038200488": 3,
+      "gas:candidate-vibid:4164038200318": 6,
+      "gas:candidate-vibid:4164038200535": 0,
+      "gas:candidate-vibid:4164038200618": 5,
+      "gas:candidate-vibid:4164038200764": 285,
+      "gas:candidate-vibid:4164038200659": 22
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tatarstan?action=show&root=1000041&tvd=21620001562297&vrn=100100067795849&region=16&global=&sub_region=16&prver=0&pronetvd=null&vibid=21620001562297&type=464",
@@ -6085,13 +6085,13 @@ export const duma_2016_uik_463_region_16_part_006 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Артемьева Анна Владимировна": 232,
-      "Вильданов Дамир Насырович": 1,
-      "Закиров Ринат Замильевич": 0,
-      "Иосипов Евгений Константинович": 1,
-      "Лукин Андрей Михайлович": 2,
-      "Хайруллин Айрат Назипович": 330,
-      "Ягудин Альберт Ахметвагизович": 3
+      "gas:candidate-vibid:4164038200292": 232,
+      "gas:candidate-vibid:4164038200488": 1,
+      "gas:candidate-vibid:4164038200318": 0,
+      "gas:candidate-vibid:4164038200535": 1,
+      "gas:candidate-vibid:4164038200618": 2,
+      "gas:candidate-vibid:4164038200764": 330,
+      "gas:candidate-vibid:4164038200659": 3
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tatarstan?action=show&root=1000041&tvd=21620001562297&vrn=100100067795849&region=16&global=&sub_region=16&prver=0&pronetvd=null&vibid=21620001562297&type=464",
@@ -6142,13 +6142,13 @@ export const duma_2016_uik_463_region_16_part_006 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Артемьева Анна Владимировна": 0,
-      "Вильданов Дамир Насырович": 0,
-      "Закиров Ринат Замильевич": 0,
-      "Иосипов Евгений Константинович": 0,
-      "Лукин Андрей Михайлович": 0,
-      "Хайруллин Айрат Назипович": 392,
-      "Ягудин Альберт Ахметвагизович": 6
+      "gas:candidate-vibid:4164038200292": 0,
+      "gas:candidate-vibid:4164038200488": 0,
+      "gas:candidate-vibid:4164038200318": 0,
+      "gas:candidate-vibid:4164038200535": 0,
+      "gas:candidate-vibid:4164038200618": 0,
+      "gas:candidate-vibid:4164038200764": 392,
+      "gas:candidate-vibid:4164038200659": 6
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tatarstan?action=show&root=1000041&tvd=21620001562297&vrn=100100067795849&region=16&global=&sub_region=16&prver=0&pronetvd=null&vibid=21620001562297&type=464",
@@ -6199,13 +6199,13 @@ export const duma_2016_uik_463_region_16_part_006 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Артемьева Анна Владимировна": 0,
-      "Вильданов Дамир Насырович": 2,
-      "Закиров Ринат Замильевич": 2,
-      "Иосипов Евгений Константинович": 0,
-      "Лукин Андрей Михайлович": 0,
-      "Хайруллин Айрат Назипович": 389,
-      "Ягудин Альберт Ахметвагизович": 0
+      "gas:candidate-vibid:4164038200292": 0,
+      "gas:candidate-vibid:4164038200488": 2,
+      "gas:candidate-vibid:4164038200318": 2,
+      "gas:candidate-vibid:4164038200535": 0,
+      "gas:candidate-vibid:4164038200618": 0,
+      "gas:candidate-vibid:4164038200764": 389,
+      "gas:candidate-vibid:4164038200659": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tatarstan?action=show&root=1000041&tvd=21620001562297&vrn=100100067795849&region=16&global=&sub_region=16&prver=0&pronetvd=null&vibid=21620001562297&type=464",
@@ -6256,13 +6256,13 @@ export const duma_2016_uik_463_region_16_part_006 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Артемьева Анна Владимировна": 0,
-      "Вильданов Дамир Насырович": 0,
-      "Закиров Ринат Замильевич": 0,
-      "Иосипов Евгений Константинович": 0,
-      "Лукин Андрей Михайлович": 0,
-      "Хайруллин Айрат Назипович": 227,
-      "Ягудин Альберт Ахметвагизович": 4
+      "gas:candidate-vibid:4164038200292": 0,
+      "gas:candidate-vibid:4164038200488": 0,
+      "gas:candidate-vibid:4164038200318": 0,
+      "gas:candidate-vibid:4164038200535": 0,
+      "gas:candidate-vibid:4164038200618": 0,
+      "gas:candidate-vibid:4164038200764": 227,
+      "gas:candidate-vibid:4164038200659": 4
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tatarstan?action=show&root=1000041&tvd=21620001562297&vrn=100100067795849&region=16&global=&sub_region=16&prver=0&pronetvd=null&vibid=21620001562297&type=464",
@@ -6313,13 +6313,13 @@ export const duma_2016_uik_463_region_16_part_006 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Артемьева Анна Владимировна": 30,
-      "Вильданов Дамир Насырович": 107,
-      "Закиров Ринат Замильевич": 21,
-      "Иосипов Евгений Константинович": 20,
-      "Лукин Андрей Михайлович": 24,
-      "Хайруллин Айрат Назипович": 1235,
-      "Ягудин Альберт Ахметвагизович": 11
+      "gas:candidate-vibid:4164038200292": 30,
+      "gas:candidate-vibid:4164038200488": 107,
+      "gas:candidate-vibid:4164038200318": 21,
+      "gas:candidate-vibid:4164038200535": 20,
+      "gas:candidate-vibid:4164038200618": 24,
+      "gas:candidate-vibid:4164038200764": 1235,
+      "gas:candidate-vibid:4164038200659": 11
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tatarstan?action=show&root=1000041&tvd=21620001562298&vrn=100100067795849&region=16&global=&sub_region=16&prver=0&pronetvd=null&vibid=21620001562298&type=464",
@@ -6370,13 +6370,13 @@ export const duma_2016_uik_463_region_16_part_006 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Артемьева Анна Владимировна": 3,
-      "Вильданов Дамир Насырович": 109,
-      "Закиров Ринат Замильевич": 2,
-      "Иосипов Евгений Константинович": 10,
-      "Лукин Андрей Михайлович": 9,
-      "Хайруллин Айрат Назипович": 1765,
-      "Ягудин Альберт Ахметвагизович": 149
+      "gas:candidate-vibid:4164038200292": 3,
+      "gas:candidate-vibid:4164038200488": 109,
+      "gas:candidate-vibid:4164038200318": 2,
+      "gas:candidate-vibid:4164038200535": 10,
+      "gas:candidate-vibid:4164038200618": 9,
+      "gas:candidate-vibid:4164038200764": 1765,
+      "gas:candidate-vibid:4164038200659": 149
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tatarstan?action=show&root=1000041&tvd=21620001562298&vrn=100100067795849&region=16&global=&sub_region=16&prver=0&pronetvd=null&vibid=21620001562298&type=464",
@@ -6427,13 +6427,13 @@ export const duma_2016_uik_463_region_16_part_006 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Артемьева Анна Владимировна": 11,
-      "Вильданов Дамир Насырович": 81,
-      "Закиров Ринат Замильевич": 4,
-      "Иосипов Евгений Константинович": 10,
-      "Лукин Андрей Михайлович": 15,
-      "Хайруллин Айрат Назипович": 1490,
-      "Ягудин Альберт Ахметвагизович": 141
+      "gas:candidate-vibid:4164038200292": 11,
+      "gas:candidate-vibid:4164038200488": 81,
+      "gas:candidate-vibid:4164038200318": 4,
+      "gas:candidate-vibid:4164038200535": 10,
+      "gas:candidate-vibid:4164038200618": 15,
+      "gas:candidate-vibid:4164038200764": 1490,
+      "gas:candidate-vibid:4164038200659": 141
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tatarstan?action=show&root=1000041&tvd=21620001562298&vrn=100100067795849&region=16&global=&sub_region=16&prver=0&pronetvd=null&vibid=21620001562298&type=464",
@@ -6484,13 +6484,13 @@ export const duma_2016_uik_463_region_16_part_006 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Артемьева Анна Владимировна": 14,
-      "Вильданов Дамир Насырович": 47,
-      "Закиров Ринат Замильевич": 2,
-      "Иосипов Евгений Константинович": 2,
-      "Лукин Андрей Михайлович": 2,
-      "Хайруллин Айрат Назипович": 1652,
-      "Ягудин Альберт Ахметвагизович": 80
+      "gas:candidate-vibid:4164038200292": 14,
+      "gas:candidate-vibid:4164038200488": 47,
+      "gas:candidate-vibid:4164038200318": 2,
+      "gas:candidate-vibid:4164038200535": 2,
+      "gas:candidate-vibid:4164038200618": 2,
+      "gas:candidate-vibid:4164038200764": 1652,
+      "gas:candidate-vibid:4164038200659": 80
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tatarstan?action=show&root=1000041&tvd=21620001562298&vrn=100100067795849&region=16&global=&sub_region=16&prver=0&pronetvd=null&vibid=21620001562298&type=464",
@@ -6541,13 +6541,13 @@ export const duma_2016_uik_463_region_16_part_006 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Артемьева Анна Владимировна": 7,
-      "Вильданов Дамир Насырович": 43,
-      "Закиров Ринат Замильевич": 7,
-      "Иосипов Евгений Константинович": 5,
-      "Лукин Андрей Михайлович": 2,
-      "Хайруллин Айрат Назипович": 1459,
-      "Ягудин Альберт Ахметвагизович": 54
+      "gas:candidate-vibid:4164038200292": 7,
+      "gas:candidate-vibid:4164038200488": 43,
+      "gas:candidate-vibid:4164038200318": 7,
+      "gas:candidate-vibid:4164038200535": 5,
+      "gas:candidate-vibid:4164038200618": 2,
+      "gas:candidate-vibid:4164038200764": 1459,
+      "gas:candidate-vibid:4164038200659": 54
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tatarstan?action=show&root=1000041&tvd=21620001562298&vrn=100100067795849&region=16&global=&sub_region=16&prver=0&pronetvd=null&vibid=21620001562298&type=464",
@@ -6598,13 +6598,13 @@ export const duma_2016_uik_463_region_16_part_006 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Артемьева Анна Владимировна": 6,
-      "Вильданов Дамир Насырович": 64,
-      "Закиров Ринат Замильевич": 3,
-      "Иосипов Евгений Константинович": 5,
-      "Лукин Андрей Михайлович": 8,
-      "Хайруллин Айрат Назипович": 1228,
-      "Ягудин Альберт Ахметвагизович": 114
+      "gas:candidate-vibid:4164038200292": 6,
+      "gas:candidate-vibid:4164038200488": 64,
+      "gas:candidate-vibid:4164038200318": 3,
+      "gas:candidate-vibid:4164038200535": 5,
+      "gas:candidate-vibid:4164038200618": 8,
+      "gas:candidate-vibid:4164038200764": 1228,
+      "gas:candidate-vibid:4164038200659": 114
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tatarstan?action=show&root=1000041&tvd=21620001562298&vrn=100100067795849&region=16&global=&sub_region=16&prver=0&pronetvd=null&vibid=21620001562298&type=464",
@@ -6655,13 +6655,13 @@ export const duma_2016_uik_463_region_16_part_006 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Артемьева Анна Владимировна": 3,
-      "Вильданов Дамир Насырович": 76,
-      "Закиров Ринат Замильевич": 1,
-      "Иосипов Евгений Константинович": 6,
-      "Лукин Андрей Михайлович": 9,
-      "Хайруллин Айрат Назипович": 1037,
-      "Ягудин Альберт Ахметвагизович": 87
+      "gas:candidate-vibid:4164038200292": 3,
+      "gas:candidate-vibid:4164038200488": 76,
+      "gas:candidate-vibid:4164038200318": 1,
+      "gas:candidate-vibid:4164038200535": 6,
+      "gas:candidate-vibid:4164038200618": 9,
+      "gas:candidate-vibid:4164038200764": 1037,
+      "gas:candidate-vibid:4164038200659": 87
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tatarstan?action=show&root=1000041&tvd=21620001562298&vrn=100100067795849&region=16&global=&sub_region=16&prver=0&pronetvd=null&vibid=21620001562298&type=464",
@@ -6712,13 +6712,13 @@ export const duma_2016_uik_463_region_16_part_006 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Артемьева Анна Владимировна": 3,
-      "Вильданов Дамир Насырович": 78,
-      "Закиров Ринат Замильевич": 11,
-      "Иосипов Евгений Константинович": 4,
-      "Лукин Андрей Михайлович": 3,
-      "Хайруллин Айрат Назипович": 1491,
-      "Ягудин Альберт Ахметвагизович": 140
+      "gas:candidate-vibid:4164038200292": 3,
+      "gas:candidate-vibid:4164038200488": 78,
+      "gas:candidate-vibid:4164038200318": 11,
+      "gas:candidate-vibid:4164038200535": 4,
+      "gas:candidate-vibid:4164038200618": 3,
+      "gas:candidate-vibid:4164038200764": 1491,
+      "gas:candidate-vibid:4164038200659": 140
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tatarstan?action=show&root=1000041&tvd=21620001562298&vrn=100100067795849&region=16&global=&sub_region=16&prver=0&pronetvd=null&vibid=21620001562298&type=464",
@@ -6769,13 +6769,13 @@ export const duma_2016_uik_463_region_16_part_006 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Артемьева Анна Владимировна": 7,
-      "Вильданов Дамир Насырович": 47,
-      "Закиров Ринат Замильевич": 4,
-      "Иосипов Евгений Константинович": 6,
-      "Лукин Андрей Михайлович": 5,
-      "Хайруллин Айрат Назипович": 1377,
-      "Ягудин Альберт Ахметвагизович": 119
+      "gas:candidate-vibid:4164038200292": 7,
+      "gas:candidate-vibid:4164038200488": 47,
+      "gas:candidate-vibid:4164038200318": 4,
+      "gas:candidate-vibid:4164038200535": 6,
+      "gas:candidate-vibid:4164038200618": 5,
+      "gas:candidate-vibid:4164038200764": 1377,
+      "gas:candidate-vibid:4164038200659": 119
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tatarstan?action=show&root=1000041&tvd=21620001562298&vrn=100100067795849&region=16&global=&sub_region=16&prver=0&pronetvd=null&vibid=21620001562298&type=464",
@@ -6826,13 +6826,13 @@ export const duma_2016_uik_463_region_16_part_006 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Артемьева Анна Владимировна": 5,
-      "Вильданов Дамир Насырович": 91,
-      "Закиров Ринат Замильевич": 11,
-      "Иосипов Евгений Константинович": 13,
-      "Лукин Андрей Михайлович": 12,
-      "Хайруллин Айрат Назипович": 1784,
-      "Ягудин Альберт Ахметвагизович": 180
+      "gas:candidate-vibid:4164038200292": 5,
+      "gas:candidate-vibid:4164038200488": 91,
+      "gas:candidate-vibid:4164038200318": 11,
+      "gas:candidate-vibid:4164038200535": 13,
+      "gas:candidate-vibid:4164038200618": 12,
+      "gas:candidate-vibid:4164038200764": 1784,
+      "gas:candidate-vibid:4164038200659": 180
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tatarstan?action=show&root=1000041&tvd=21620001562298&vrn=100100067795849&region=16&global=&sub_region=16&prver=0&pronetvd=null&vibid=21620001562298&type=464",
@@ -6883,13 +6883,13 @@ export const duma_2016_uik_463_region_16_part_006 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Артемьева Анна Владимировна": 10,
-      "Вильданов Дамир Насырович": 54,
-      "Закиров Ринат Замильевич": 9,
-      "Иосипов Евгений Константинович": 8,
-      "Лукин Андрей Михайлович": 1,
-      "Хайруллин Айрат Назипович": 1275,
-      "Ягудин Альберт Ахметвагизович": 108
+      "gas:candidate-vibid:4164038200292": 10,
+      "gas:candidate-vibid:4164038200488": 54,
+      "gas:candidate-vibid:4164038200318": 9,
+      "gas:candidate-vibid:4164038200535": 8,
+      "gas:candidate-vibid:4164038200618": 1,
+      "gas:candidate-vibid:4164038200764": 1275,
+      "gas:candidate-vibid:4164038200659": 108
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tatarstan?action=show&root=1000041&tvd=21620001562298&vrn=100100067795849&region=16&global=&sub_region=16&prver=0&pronetvd=null&vibid=21620001562298&type=464",
@@ -6940,13 +6940,13 @@ export const duma_2016_uik_463_region_16_part_006 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Артемьева Анна Владимировна": 0,
-      "Вильданов Дамир Насырович": 20,
-      "Закиров Ринат Замильевич": 3,
-      "Иосипов Евгений Константинович": 3,
-      "Лукин Андрей Михайлович": 2,
-      "Хайруллин Айрат Назипович": 358,
-      "Ягудин Альберт Ахметвагизович": 35
+      "gas:candidate-vibid:4164038200292": 0,
+      "gas:candidate-vibid:4164038200488": 20,
+      "gas:candidate-vibid:4164038200318": 3,
+      "gas:candidate-vibid:4164038200535": 3,
+      "gas:candidate-vibid:4164038200618": 2,
+      "gas:candidate-vibid:4164038200764": 358,
+      "gas:candidate-vibid:4164038200659": 35
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tatarstan?action=show&root=1000041&tvd=21620001562298&vrn=100100067795849&region=16&global=&sub_region=16&prver=0&pronetvd=null&vibid=21620001562298&type=464",
@@ -6997,13 +6997,13 @@ export const duma_2016_uik_463_region_16_part_006 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Артемьева Анна Владимировна": 2,
-      "Вильданов Дамир Насырович": 24,
-      "Закиров Ринат Замильевич": 1,
-      "Иосипов Евгений Константинович": 1,
-      "Лукин Андрей Михайлович": 1,
-      "Хайруллин Айрат Назипович": 555,
-      "Ягудин Альберт Ахметвагизович": 54
+      "gas:candidate-vibid:4164038200292": 2,
+      "gas:candidate-vibid:4164038200488": 24,
+      "gas:candidate-vibid:4164038200318": 1,
+      "gas:candidate-vibid:4164038200535": 1,
+      "gas:candidate-vibid:4164038200618": 1,
+      "gas:candidate-vibid:4164038200764": 555,
+      "gas:candidate-vibid:4164038200659": 54
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tatarstan?action=show&root=1000041&tvd=21620001562298&vrn=100100067795849&region=16&global=&sub_region=16&prver=0&pronetvd=null&vibid=21620001562298&type=464",
@@ -7054,13 +7054,13 @@ export const duma_2016_uik_463_region_16_part_006 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Артемьева Анна Владимировна": 1,
-      "Вильданов Дамир Насырович": 80,
-      "Закиров Ринат Замильевич": 1,
-      "Иосипов Евгений Константинович": 1,
-      "Лукин Андрей Михайлович": 1,
-      "Хайруллин Айрат Назипович": 1410,
-      "Ягудин Альберт Ахметвагизович": 133
+      "gas:candidate-vibid:4164038200292": 1,
+      "gas:candidate-vibid:4164038200488": 80,
+      "gas:candidate-vibid:4164038200318": 1,
+      "gas:candidate-vibid:4164038200535": 1,
+      "gas:candidate-vibid:4164038200618": 1,
+      "gas:candidate-vibid:4164038200764": 1410,
+      "gas:candidate-vibid:4164038200659": 133
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tatarstan?action=show&root=1000041&tvd=21620001562298&vrn=100100067795849&region=16&global=&sub_region=16&prver=0&pronetvd=null&vibid=21620001562298&type=464",
@@ -7111,13 +7111,13 @@ export const duma_2016_uik_463_region_16_part_006 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Артемьева Анна Владимировна": 12,
-      "Вильданов Дамир Насырович": 90,
-      "Закиров Ринат Замильевич": 8,
-      "Иосипов Евгений Константинович": 7,
-      "Лукин Андрей Михайлович": 5,
-      "Хайруллин Айрат Назипович": 1560,
-      "Ягудин Альберт Ахметвагизович": 83
+      "gas:candidate-vibid:4164038200292": 12,
+      "gas:candidate-vibid:4164038200488": 90,
+      "gas:candidate-vibid:4164038200318": 8,
+      "gas:candidate-vibid:4164038200535": 7,
+      "gas:candidate-vibid:4164038200618": 5,
+      "gas:candidate-vibid:4164038200764": 1560,
+      "gas:candidate-vibid:4164038200659": 83
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tatarstan?action=show&root=1000041&tvd=21620001562298&vrn=100100067795849&region=16&global=&sub_region=16&prver=0&pronetvd=null&vibid=21620001562298&type=464",
@@ -7168,13 +7168,13 @@ export const duma_2016_uik_463_region_16_part_006 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Артемьева Анна Владимировна": 68,
-      "Вильданов Дамир Насырович": 117,
-      "Закиров Ринат Замильевич": 29,
-      "Иосипов Евгений Константинович": 17,
-      "Лукин Андрей Михайлович": 34,
-      "Хайруллин Айрат Назипович": 689,
-      "Ягудин Альберт Ахметвагизович": 195
+      "gas:candidate-vibid:4164038200292": 68,
+      "gas:candidate-vibid:4164038200488": 117,
+      "gas:candidate-vibid:4164038200318": 29,
+      "gas:candidate-vibid:4164038200535": 17,
+      "gas:candidate-vibid:4164038200618": 34,
+      "gas:candidate-vibid:4164038200764": 689,
+      "gas:candidate-vibid:4164038200659": 195
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tatarstan?action=show&root=1000041&tvd=21620001562298&vrn=100100067795849&region=16&global=&sub_region=16&prver=0&pronetvd=null&vibid=21620001562298&type=464",
@@ -7225,13 +7225,13 @@ export const duma_2016_uik_463_region_16_part_006 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Артемьева Анна Владимировна": 3,
-      "Вильданов Дамир Насырович": 93,
-      "Закиров Ринат Замильевич": 3,
-      "Иосипов Евгений Константинович": 3,
-      "Лукин Андрей Михайлович": 3,
-      "Хайруллин Айрат Назипович": 1678,
-      "Ягудин Альберт Ахметвагизович": 167
+      "gas:candidate-vibid:4164038200292": 3,
+      "gas:candidate-vibid:4164038200488": 93,
+      "gas:candidate-vibid:4164038200318": 3,
+      "gas:candidate-vibid:4164038200535": 3,
+      "gas:candidate-vibid:4164038200618": 3,
+      "gas:candidate-vibid:4164038200764": 1678,
+      "gas:candidate-vibid:4164038200659": 167
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tatarstan?action=show&root=1000041&tvd=21620001562298&vrn=100100067795849&region=16&global=&sub_region=16&prver=0&pronetvd=null&vibid=21620001562298&type=464",
@@ -7282,13 +7282,13 @@ export const duma_2016_uik_463_region_16_part_006 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Артемьева Анна Владимировна": 36,
-      "Вильданов Дамир Насырович": 73,
-      "Закиров Ринат Замильевич": 27,
-      "Иосипов Евгений Константинович": 33,
-      "Лукин Андрей Михайлович": 11,
-      "Хайруллин Айрат Назипович": 2033,
-      "Ягудин Альберт Ахметвагизович": 124
+      "gas:candidate-vibid:4164038200292": 36,
+      "gas:candidate-vibid:4164038200488": 73,
+      "gas:candidate-vibid:4164038200318": 27,
+      "gas:candidate-vibid:4164038200535": 33,
+      "gas:candidate-vibid:4164038200618": 11,
+      "gas:candidate-vibid:4164038200764": 2033,
+      "gas:candidate-vibid:4164038200659": 124
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tatarstan?action=show&root=1000041&tvd=21620001562298&vrn=100100067795849&region=16&global=&sub_region=16&prver=0&pronetvd=null&vibid=21620001562298&type=464",
@@ -7339,13 +7339,13 @@ export const duma_2016_uik_463_region_16_part_006 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Артемьева Анна Владимировна": 11,
-      "Вильданов Дамир Насырович": 125,
-      "Закиров Ринат Замильевич": 16,
-      "Иосипов Евгений Константинович": 26,
-      "Лукин Андрей Михайлович": 29,
-      "Хайруллин Айрат Назипович": 1775,
-      "Ягудин Альберт Ахметвагизович": 54
+      "gas:candidate-vibid:4164038200292": 11,
+      "gas:candidate-vibid:4164038200488": 125,
+      "gas:candidate-vibid:4164038200318": 16,
+      "gas:candidate-vibid:4164038200535": 26,
+      "gas:candidate-vibid:4164038200618": 29,
+      "gas:candidate-vibid:4164038200764": 1775,
+      "gas:candidate-vibid:4164038200659": 54
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tatarstan?action=show&root=1000041&tvd=21620001562298&vrn=100100067795849&region=16&global=&sub_region=16&prver=0&pronetvd=null&vibid=21620001562298&type=464",
@@ -7396,13 +7396,13 @@ export const duma_2016_uik_463_region_16_part_006 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Артемьева Анна Владимировна": 17,
-      "Вильданов Дамир Насырович": 93,
-      "Закиров Ринат Замильевич": 6,
-      "Иосипов Евгений Константинович": 12,
-      "Лукин Андрей Михайлович": 10,
-      "Хайруллин Айрат Назипович": 1544,
-      "Ягудин Альберт Ахметвагизович": 84
+      "gas:candidate-vibid:4164038200292": 17,
+      "gas:candidate-vibid:4164038200488": 93,
+      "gas:candidate-vibid:4164038200318": 6,
+      "gas:candidate-vibid:4164038200535": 12,
+      "gas:candidate-vibid:4164038200618": 10,
+      "gas:candidate-vibid:4164038200764": 1544,
+      "gas:candidate-vibid:4164038200659": 84
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tatarstan?action=show&root=1000041&tvd=21620001562298&vrn=100100067795849&region=16&global=&sub_region=16&prver=0&pronetvd=null&vibid=21620001562298&type=464",
@@ -7453,13 +7453,13 @@ export const duma_2016_uik_463_region_16_part_006 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Артемьева Анна Владимировна": 98,
-      "Вильданов Дамир Насырович": 134,
-      "Закиров Ринат Замильевич": 28,
-      "Иосипов Евгений Константинович": 45,
-      "Лукин Андрей Михайлович": 38,
-      "Хайруллин Айрат Назипович": 1447,
-      "Ягудин Альберт Ахметвагизович": 107
+      "gas:candidate-vibid:4164038200292": 98,
+      "gas:candidate-vibid:4164038200488": 134,
+      "gas:candidate-vibid:4164038200318": 28,
+      "gas:candidate-vibid:4164038200535": 45,
+      "gas:candidate-vibid:4164038200618": 38,
+      "gas:candidate-vibid:4164038200764": 1447,
+      "gas:candidate-vibid:4164038200659": 107
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tatarstan?action=show&root=1000041&tvd=21620001562298&vrn=100100067795849&region=16&global=&sub_region=16&prver=0&pronetvd=null&vibid=21620001562298&type=464",
@@ -7510,13 +7510,13 @@ export const duma_2016_uik_463_region_16_part_006 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Артемьева Анна Владимировна": 91,
-      "Вильданов Дамир Насырович": 138,
-      "Закиров Ринат Замильевич": 35,
-      "Иосипов Евгений Константинович": 84,
-      "Лукин Андрей Михайлович": 31,
-      "Хайруллин Айрат Назипович": 701,
-      "Ягудин Альберт Ахметвагизович": 127
+      "gas:candidate-vibid:4164038200292": 91,
+      "gas:candidate-vibid:4164038200488": 138,
+      "gas:candidate-vibid:4164038200318": 35,
+      "gas:candidate-vibid:4164038200535": 84,
+      "gas:candidate-vibid:4164038200618": 31,
+      "gas:candidate-vibid:4164038200764": 701,
+      "gas:candidate-vibid:4164038200659": 127
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tatarstan?action=show&root=1000041&tvd=21620001562298&vrn=100100067795849&region=16&global=&sub_region=16&prver=0&pronetvd=null&vibid=21620001562298&type=464",
@@ -7567,13 +7567,13 @@ export const duma_2016_uik_463_region_16_part_006 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Артемьева Анна Владимировна": 5,
-      "Вильданов Дамир Насырович": 92,
-      "Закиров Ринат Замильевич": 6,
-      "Иосипов Евгений Константинович": 2,
-      "Лукин Андрей Михайлович": 3,
-      "Хайруллин Айрат Назипович": 1689,
-      "Ягудин Альберт Ахметвагизович": 167
+      "gas:candidate-vibid:4164038200292": 5,
+      "gas:candidate-vibid:4164038200488": 92,
+      "gas:candidate-vibid:4164038200318": 6,
+      "gas:candidate-vibid:4164038200535": 2,
+      "gas:candidate-vibid:4164038200618": 3,
+      "gas:candidate-vibid:4164038200764": 1689,
+      "gas:candidate-vibid:4164038200659": 167
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tatarstan?action=show&root=1000041&tvd=21620001562298&vrn=100100067795849&region=16&global=&sub_region=16&prver=0&pronetvd=null&vibid=21620001562298&type=464",
@@ -7624,13 +7624,13 @@ export const duma_2016_uik_463_region_16_part_006 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Артемьева Анна Владимировна": 73,
-      "Вильданов Дамир Насырович": 78,
-      "Закиров Ринат Замильевич": 18,
-      "Иосипов Евгений Константинович": 31,
-      "Лукин Андрей Михайлович": 23,
-      "Хайруллин Айрат Назипович": 1652,
-      "Ягудин Альберт Ахметвагизович": 46
+      "gas:candidate-vibid:4164038200292": 73,
+      "gas:candidate-vibid:4164038200488": 78,
+      "gas:candidate-vibid:4164038200318": 18,
+      "gas:candidate-vibid:4164038200535": 31,
+      "gas:candidate-vibid:4164038200618": 23,
+      "gas:candidate-vibid:4164038200764": 1652,
+      "gas:candidate-vibid:4164038200659": 46
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tatarstan?action=show&root=1000041&tvd=21620001562298&vrn=100100067795849&region=16&global=&sub_region=16&prver=0&pronetvd=null&vibid=21620001562298&type=464",
@@ -7681,13 +7681,13 @@ export const duma_2016_uik_463_region_16_part_006 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Артемьева Анна Владимировна": 17,
-      "Вильданов Дамир Насырович": 107,
-      "Закиров Ринат Замильевич": 10,
-      "Иосипов Евгений Константинович": 8,
-      "Лукин Андрей Михайлович": 18,
-      "Хайруллин Айрат Назипович": 850,
-      "Ягудин Альберт Ахметвагизович": 115
+      "gas:candidate-vibid:4164038200292": 17,
+      "gas:candidate-vibid:4164038200488": 107,
+      "gas:candidate-vibid:4164038200318": 10,
+      "gas:candidate-vibid:4164038200535": 8,
+      "gas:candidate-vibid:4164038200618": 18,
+      "gas:candidate-vibid:4164038200764": 850,
+      "gas:candidate-vibid:4164038200659": 115
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tatarstan?action=show&root=1000041&tvd=21620001562298&vrn=100100067795849&region=16&global=&sub_region=16&prver=0&pronetvd=null&vibid=21620001562298&type=464",
@@ -7738,13 +7738,13 @@ export const duma_2016_uik_463_region_16_part_006 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Артемьева Анна Владимировна": 3,
-      "Вильданов Дамир Насырович": 26,
-      "Закиров Ринат Замильевич": 3,
-      "Иосипов Евгений Константинович": 43,
-      "Лукин Андрей Михайлович": 51,
-      "Хайруллин Айрат Назипович": 1312,
-      "Ягудин Альберт Ахметвагизович": 95
+      "gas:candidate-vibid:4164038200292": 3,
+      "gas:candidate-vibid:4164038200488": 26,
+      "gas:candidate-vibid:4164038200318": 3,
+      "gas:candidate-vibid:4164038200535": 43,
+      "gas:candidate-vibid:4164038200618": 51,
+      "gas:candidate-vibid:4164038200764": 1312,
+      "gas:candidate-vibid:4164038200659": 95
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tatarstan?action=show&root=1000041&tvd=21620001562298&vrn=100100067795849&region=16&global=&sub_region=16&prver=0&pronetvd=null&vibid=21620001562298&type=464",
@@ -7795,13 +7795,13 @@ export const duma_2016_uik_463_region_16_part_006 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Артемьева Анна Владимировна": 10,
-      "Вильданов Дамир Насырович": 192,
-      "Закиров Ринат Замильевич": 9,
-      "Иосипов Евгений Константинович": 9,
-      "Лукин Андрей Михайлович": 6,
-      "Хайруллин Айрат Назипович": 1542,
-      "Ягудин Альберт Ахметвагизович": 157
+      "gas:candidate-vibid:4164038200292": 10,
+      "gas:candidate-vibid:4164038200488": 192,
+      "gas:candidate-vibid:4164038200318": 9,
+      "gas:candidate-vibid:4164038200535": 9,
+      "gas:candidate-vibid:4164038200618": 6,
+      "gas:candidate-vibid:4164038200764": 1542,
+      "gas:candidate-vibid:4164038200659": 157
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tatarstan?action=show&root=1000041&tvd=21620001562298&vrn=100100067795849&region=16&global=&sub_region=16&prver=0&pronetvd=null&vibid=21620001562298&type=464",
@@ -7852,13 +7852,13 @@ export const duma_2016_uik_463_region_16_part_006 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Артемьева Анна Владимировна": 5,
-      "Вильданов Дамир Насырович": 93,
-      "Закиров Ринат Замильевич": 5,
-      "Иосипов Евгений Константинович": 15,
-      "Лукин Андрей Михайлович": 5,
-      "Хайруллин Айрат Назипович": 1692,
-      "Ягудин Альберт Ахметвагизович": 170
+      "gas:candidate-vibid:4164038200292": 5,
+      "gas:candidate-vibid:4164038200488": 93,
+      "gas:candidate-vibid:4164038200318": 5,
+      "gas:candidate-vibid:4164038200535": 15,
+      "gas:candidate-vibid:4164038200618": 5,
+      "gas:candidate-vibid:4164038200764": 1692,
+      "gas:candidate-vibid:4164038200659": 170
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tatarstan?action=show&root=1000041&tvd=21620001562298&vrn=100100067795849&region=16&global=&sub_region=16&prver=0&pronetvd=null&vibid=21620001562298&type=464",
@@ -7909,13 +7909,13 @@ export const duma_2016_uik_463_region_16_part_006 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Артемьева Анна Владимировна": 37,
-      "Вильданов Дамир Насырович": 81,
-      "Закиров Ринат Замильевич": 34,
-      "Иосипов Евгений Константинович": 31,
-      "Лукин Андрей Михайлович": 35,
-      "Хайруллин Айрат Назипович": 1798,
-      "Ягудин Альберт Ахметвагизович": 74
+      "gas:candidate-vibid:4164038200292": 37,
+      "gas:candidate-vibid:4164038200488": 81,
+      "gas:candidate-vibid:4164038200318": 34,
+      "gas:candidate-vibid:4164038200535": 31,
+      "gas:candidate-vibid:4164038200618": 35,
+      "gas:candidate-vibid:4164038200764": 1798,
+      "gas:candidate-vibid:4164038200659": 74
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tatarstan?action=show&root=1000041&tvd=21620001562298&vrn=100100067795849&region=16&global=&sub_region=16&prver=0&pronetvd=null&vibid=21620001562298&type=464",
@@ -7966,13 +7966,13 @@ export const duma_2016_uik_463_region_16_part_006 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Артемьева Анна Владимировна": 5,
-      "Вильданов Дамир Насырович": 81,
-      "Закиров Ринат Замильевич": 4,
-      "Иосипов Евгений Константинович": 3,
-      "Лукин Андрей Михайлович": 7,
-      "Хайруллин Айрат Назипович": 1532,
-      "Ягудин Альберт Ахметвагизович": 149
+      "gas:candidate-vibid:4164038200292": 5,
+      "gas:candidate-vibid:4164038200488": 81,
+      "gas:candidate-vibid:4164038200318": 4,
+      "gas:candidate-vibid:4164038200535": 3,
+      "gas:candidate-vibid:4164038200618": 7,
+      "gas:candidate-vibid:4164038200764": 1532,
+      "gas:candidate-vibid:4164038200659": 149
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tatarstan?action=show&root=1000041&tvd=21620001562298&vrn=100100067795849&region=16&global=&sub_region=16&prver=0&pronetvd=null&vibid=21620001562298&type=464",
@@ -8023,13 +8023,13 @@ export const duma_2016_uik_463_region_16_part_006 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Артемьева Анна Владимировна": 133,
-      "Вильданов Дамир Насырович": 190,
-      "Закиров Ринат Замильевич": 29,
-      "Иосипов Евгений Константинович": 91,
-      "Лукин Андрей Михайлович": 39,
-      "Хайруллин Айрат Назипович": 532,
-      "Ягудин Альберт Ахметвагизович": 129
+      "gas:candidate-vibid:4164038200292": 133,
+      "gas:candidate-vibid:4164038200488": 190,
+      "gas:candidate-vibid:4164038200318": 29,
+      "gas:candidate-vibid:4164038200535": 91,
+      "gas:candidate-vibid:4164038200618": 39,
+      "gas:candidate-vibid:4164038200764": 532,
+      "gas:candidate-vibid:4164038200659": 129
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tatarstan?action=show&root=1000041&tvd=21620001562298&vrn=100100067795849&region=16&global=&sub_region=16&prver=0&pronetvd=null&vibid=21620001562298&type=464",
@@ -8080,13 +8080,13 @@ export const duma_2016_uik_463_region_16_part_006 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Артемьева Анна Владимировна": 15,
-      "Вильданов Дамир Насырович": 85,
-      "Закиров Ринат Замильевич": 11,
-      "Иосипов Евгений Константинович": 9,
-      "Лукин Андрей Михайлович": 6,
-      "Хайруллин Айрат Назипович": 1996,
-      "Ягудин Альберт Ахметвагизович": 172
+      "gas:candidate-vibid:4164038200292": 15,
+      "gas:candidate-vibid:4164038200488": 85,
+      "gas:candidate-vibid:4164038200318": 11,
+      "gas:candidate-vibid:4164038200535": 9,
+      "gas:candidate-vibid:4164038200618": 6,
+      "gas:candidate-vibid:4164038200764": 1996,
+      "gas:candidate-vibid:4164038200659": 172
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tatarstan?action=show&root=1000041&tvd=21620001562298&vrn=100100067795849&region=16&global=&sub_region=16&prver=0&pronetvd=null&vibid=21620001562298&type=464",
@@ -8137,13 +8137,13 @@ export const duma_2016_uik_463_region_16_part_006 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Артемьева Анна Владимировна": 13,
-      "Вильданов Дамир Насырович": 104,
-      "Закиров Ринат Замильевич": 17,
-      "Иосипов Евгений Константинович": 26,
-      "Лукин Андрей Михайлович": 13,
-      "Хайруллин Айрат Назипович": 1411,
-      "Ягудин Альберт Ахметвагизович": 147
+      "gas:candidate-vibid:4164038200292": 13,
+      "gas:candidate-vibid:4164038200488": 104,
+      "gas:candidate-vibid:4164038200318": 17,
+      "gas:candidate-vibid:4164038200535": 26,
+      "gas:candidate-vibid:4164038200618": 13,
+      "gas:candidate-vibid:4164038200764": 1411,
+      "gas:candidate-vibid:4164038200659": 147
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tatarstan?action=show&root=1000041&tvd=21620001562298&vrn=100100067795849&region=16&global=&sub_region=16&prver=0&pronetvd=null&vibid=21620001562298&type=464",
@@ -8194,13 +8194,13 @@ export const duma_2016_uik_463_region_16_part_006 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Артемьева Анна Владимировна": 9,
-      "Вильданов Дамир Насырович": 65,
-      "Закиров Ринат Замильевич": 3,
-      "Иосипов Евгений Константинович": 5,
-      "Лукин Андрей Михайлович": 2,
-      "Хайруллин Айрат Назипович": 1219,
-      "Ягудин Альберт Ахметвагизович": 116
+      "gas:candidate-vibid:4164038200292": 9,
+      "gas:candidate-vibid:4164038200488": 65,
+      "gas:candidate-vibid:4164038200318": 3,
+      "gas:candidate-vibid:4164038200535": 5,
+      "gas:candidate-vibid:4164038200618": 2,
+      "gas:candidate-vibid:4164038200764": 1219,
+      "gas:candidate-vibid:4164038200659": 116
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tatarstan?action=show&root=1000041&tvd=21620001562298&vrn=100100067795849&region=16&global=&sub_region=16&prver=0&pronetvd=null&vibid=21620001562298&type=464",
@@ -8251,13 +8251,13 @@ export const duma_2016_uik_463_region_16_part_006 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Артемьева Анна Владимировна": 11,
-      "Вильданов Дамир Насырович": 80,
-      "Закиров Ринат Замильевич": 17,
-      "Иосипов Евгений Константинович": 4,
-      "Лукин Андрей Михайлович": 3,
-      "Хайруллин Айрат Назипович": 1523,
-      "Ягудин Альберт Ахметвагизович": 103
+      "gas:candidate-vibid:4164038200292": 11,
+      "gas:candidate-vibid:4164038200488": 80,
+      "gas:candidate-vibid:4164038200318": 17,
+      "gas:candidate-vibid:4164038200535": 4,
+      "gas:candidate-vibid:4164038200618": 3,
+      "gas:candidate-vibid:4164038200764": 1523,
+      "gas:candidate-vibid:4164038200659": 103
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tatarstan?action=show&root=1000041&tvd=21620001562298&vrn=100100067795849&region=16&global=&sub_region=16&prver=0&pronetvd=null&vibid=21620001562298&type=464",
@@ -8308,13 +8308,13 @@ export const duma_2016_uik_463_region_16_part_006 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Артемьева Анна Владимировна": 6,
-      "Вильданов Дамир Насырович": 80,
-      "Закиров Ринат Замильевич": 8,
-      "Иосипов Евгений Константинович": 8,
-      "Лукин Андрей Михайлович": 30,
-      "Хайруллин Айрат Назипович": 1504,
-      "Ягудин Альберт Ахметвагизович": 112
+      "gas:candidate-vibid:4164038200292": 6,
+      "gas:candidate-vibid:4164038200488": 80,
+      "gas:candidate-vibid:4164038200318": 8,
+      "gas:candidate-vibid:4164038200535": 8,
+      "gas:candidate-vibid:4164038200618": 30,
+      "gas:candidate-vibid:4164038200764": 1504,
+      "gas:candidate-vibid:4164038200659": 112
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tatarstan?action=show&root=1000041&tvd=21620001562298&vrn=100100067795849&region=16&global=&sub_region=16&prver=0&pronetvd=null&vibid=21620001562298&type=464",
@@ -8365,13 +8365,13 @@ export const duma_2016_uik_463_region_16_part_006 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Артемьева Анна Владимировна": 12,
-      "Вильданов Дамир Насырович": 106,
-      "Закиров Ринат Замильевич": 16,
-      "Иосипов Евгений Константинович": 14,
-      "Лукин Андрей Михайлович": 12,
-      "Хайруллин Айрат Назипович": 1693,
-      "Ягудин Альберт Ахметвагизович": 95
+      "gas:candidate-vibid:4164038200292": 12,
+      "gas:candidate-vibid:4164038200488": 106,
+      "gas:candidate-vibid:4164038200318": 16,
+      "gas:candidate-vibid:4164038200535": 14,
+      "gas:candidate-vibid:4164038200618": 12,
+      "gas:candidate-vibid:4164038200764": 1693,
+      "gas:candidate-vibid:4164038200659": 95
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tatarstan?action=show&root=1000041&tvd=21620001562298&vrn=100100067795849&region=16&global=&sub_region=16&prver=0&pronetvd=null&vibid=21620001562298&type=464",
@@ -8422,13 +8422,13 @@ export const duma_2016_uik_463_region_16_part_006 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Артемьева Анна Владимировна": 6,
-      "Вильданов Дамир Насырович": 155,
-      "Закиров Ринат Замильевич": 15,
-      "Иосипов Евгений Константинович": 7,
-      "Лукин Андрей Михайлович": 78,
-      "Хайруллин Айрат Назипович": 1644,
-      "Ягудин Альберт Ахметвагизович": 7
+      "gas:candidate-vibid:4164038200292": 6,
+      "gas:candidate-vibid:4164038200488": 155,
+      "gas:candidate-vibid:4164038200318": 15,
+      "gas:candidate-vibid:4164038200535": 7,
+      "gas:candidate-vibid:4164038200618": 78,
+      "gas:candidate-vibid:4164038200764": 1644,
+      "gas:candidate-vibid:4164038200659": 7
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tatarstan?action=show&root=1000041&tvd=21620001562298&vrn=100100067795849&region=16&global=&sub_region=16&prver=0&pronetvd=null&vibid=21620001562298&type=464",
@@ -8479,13 +8479,13 @@ export const duma_2016_uik_463_region_16_part_006 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Артемьева Анна Владимировна": 5,
-      "Вильданов Дамир Насырович": 77,
-      "Закиров Ринат Замильевич": 4,
-      "Иосипов Евгений Константинович": 4,
-      "Лукин Андрей Михайлович": 0,
-      "Хайруллин Айрат Назипович": 1413,
-      "Ягудин Альберт Ахметвагизович": 140
+      "gas:candidate-vibid:4164038200292": 5,
+      "gas:candidate-vibid:4164038200488": 77,
+      "gas:candidate-vibid:4164038200318": 4,
+      "gas:candidate-vibid:4164038200535": 4,
+      "gas:candidate-vibid:4164038200618": 0,
+      "gas:candidate-vibid:4164038200764": 1413,
+      "gas:candidate-vibid:4164038200659": 140
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tatarstan?action=show&root=1000041&tvd=21620001562298&vrn=100100067795849&region=16&global=&sub_region=16&prver=0&pronetvd=null&vibid=21620001562298&type=464",
@@ -8536,13 +8536,13 @@ export const duma_2016_uik_463_region_16_part_006 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Артемьева Анна Владимировна": 46,
-      "Вильданов Дамир Насырович": 68,
-      "Закиров Ринат Замильевич": 18,
-      "Иосипов Евгений Константинович": 19,
-      "Лукин Андрей Михайлович": 21,
-      "Хайруллин Айрат Назипович": 1310,
-      "Ягудин Альберт Ахметвагизович": 41
+      "gas:candidate-vibid:4164038200292": 46,
+      "gas:candidate-vibid:4164038200488": 68,
+      "gas:candidate-vibid:4164038200318": 18,
+      "gas:candidate-vibid:4164038200535": 19,
+      "gas:candidate-vibid:4164038200618": 21,
+      "gas:candidate-vibid:4164038200764": 1310,
+      "gas:candidate-vibid:4164038200659": 41
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tatarstan?action=show&root=1000041&tvd=21620001562298&vrn=100100067795849&region=16&global=&sub_region=16&prver=0&pronetvd=null&vibid=21620001562298&type=464",
@@ -8593,13 +8593,13 @@ export const duma_2016_uik_463_region_16_part_006 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Артемьева Анна Владимировна": 11,
-      "Вильданов Дамир Насырович": 86,
-      "Закиров Ринат Замильевич": 9,
-      "Иосипов Евгений Константинович": 5,
-      "Лукин Андрей Михайлович": 3,
-      "Хайруллин Айрат Назипович": 1569,
-      "Ягудин Альберт Ахметвагизович": 156
+      "gas:candidate-vibid:4164038200292": 11,
+      "gas:candidate-vibid:4164038200488": 86,
+      "gas:candidate-vibid:4164038200318": 9,
+      "gas:candidate-vibid:4164038200535": 5,
+      "gas:candidate-vibid:4164038200618": 3,
+      "gas:candidate-vibid:4164038200764": 1569,
+      "gas:candidate-vibid:4164038200659": 156
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tatarstan?action=show&root=1000041&tvd=21620001562298&vrn=100100067795849&region=16&global=&sub_region=16&prver=0&pronetvd=null&vibid=21620001562298&type=464",
@@ -8650,13 +8650,13 @@ export const duma_2016_uik_463_region_16_part_006 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Артемьева Анна Владимировна": 7,
-      "Вильданов Дамир Насырович": 95,
-      "Закиров Ринат Замильевич": 10,
-      "Иосипов Евгений Константинович": 0,
-      "Лукин Андрей Михайлович": 0,
-      "Хайруллин Айрат Назипович": 1750,
-      "Ягудин Альберт Ахметвагизович": 173
+      "gas:candidate-vibid:4164038200292": 7,
+      "gas:candidate-vibid:4164038200488": 95,
+      "gas:candidate-vibid:4164038200318": 10,
+      "gas:candidate-vibid:4164038200535": 0,
+      "gas:candidate-vibid:4164038200618": 0,
+      "gas:candidate-vibid:4164038200764": 1750,
+      "gas:candidate-vibid:4164038200659": 173
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tatarstan?action=show&root=1000041&tvd=21620001562298&vrn=100100067795849&region=16&global=&sub_region=16&prver=0&pronetvd=null&vibid=21620001562298&type=464",
@@ -8707,13 +8707,13 @@ export const duma_2016_uik_463_region_16_part_006 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Артемьева Анна Владимировна": 0,
-      "Вильданов Дамир Насырович": 90,
-      "Закиров Ринат Замильевич": 0,
-      "Иосипов Евгений Константинович": 0,
-      "Лукин Андрей Михайлович": 0,
-      "Хайруллин Айрат Назипович": 1659,
-      "Ягудин Альберт Ахметвагизович": 162
+      "gas:candidate-vibid:4164038200292": 0,
+      "gas:candidate-vibid:4164038200488": 90,
+      "gas:candidate-vibid:4164038200318": 0,
+      "gas:candidate-vibid:4164038200535": 0,
+      "gas:candidate-vibid:4164038200618": 0,
+      "gas:candidate-vibid:4164038200764": 1659,
+      "gas:candidate-vibid:4164038200659": 162
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tatarstan?action=show&root=1000041&tvd=21620001562298&vrn=100100067795849&region=16&global=&sub_region=16&prver=0&pronetvd=null&vibid=21620001562298&type=464",
@@ -8764,13 +8764,13 @@ export const duma_2016_uik_463_region_16_part_006 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Артемьева Анна Владимировна": 45,
-      "Вильданов Дамир Насырович": 103,
-      "Закиров Ринат Замильевич": 7,
-      "Иосипов Евгений Константинович": 51,
-      "Лукин Андрей Михайлович": 10,
-      "Хайруллин Айрат Назипович": 1604,
-      "Ягудин Альберт Ахметвагизович": 49
+      "gas:candidate-vibid:4164038200292": 45,
+      "gas:candidate-vibid:4164038200488": 103,
+      "gas:candidate-vibid:4164038200318": 7,
+      "gas:candidate-vibid:4164038200535": 51,
+      "gas:candidate-vibid:4164038200618": 10,
+      "gas:candidate-vibid:4164038200764": 1604,
+      "gas:candidate-vibid:4164038200659": 49
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tatarstan?action=show&root=1000041&tvd=21620001562298&vrn=100100067795849&region=16&global=&sub_region=16&prver=0&pronetvd=null&vibid=21620001562298&type=464",
@@ -8821,13 +8821,13 @@ export const duma_2016_uik_463_region_16_part_006 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Артемьева Анна Владимировна": 101,
-      "Вильданов Дамир Насырович": 148,
-      "Закиров Ринат Замильевич": 27,
-      "Иосипов Евгений Константинович": 71,
-      "Лукин Андрей Михайлович": 36,
-      "Хайруллин Айрат Назипович": 1291,
-      "Ягудин Альберт Ахметвагизович": 106
+      "gas:candidate-vibid:4164038200292": 101,
+      "gas:candidate-vibid:4164038200488": 148,
+      "gas:candidate-vibid:4164038200318": 27,
+      "gas:candidate-vibid:4164038200535": 71,
+      "gas:candidate-vibid:4164038200618": 36,
+      "gas:candidate-vibid:4164038200764": 1291,
+      "gas:candidate-vibid:4164038200659": 106
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tatarstan?action=show&root=1000041&tvd=21620001562298&vrn=100100067795849&region=16&global=&sub_region=16&prver=0&pronetvd=null&vibid=21620001562298&type=464",
@@ -8878,13 +8878,13 @@ export const duma_2016_uik_463_region_16_part_006 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Артемьева Анна Владимировна": 2,
-      "Вильданов Дамир Насырович": 95,
-      "Закиров Ринат Замильевич": 2,
-      "Иосипов Евгений Константинович": 0,
-      "Лукин Андрей Михайлович": 0,
-      "Хайруллин Айрат Назипович": 1801,
-      "Ягудин Альберт Ахметвагизович": 173
+      "gas:candidate-vibid:4164038200292": 2,
+      "gas:candidate-vibid:4164038200488": 95,
+      "gas:candidate-vibid:4164038200318": 2,
+      "gas:candidate-vibid:4164038200535": 0,
+      "gas:candidate-vibid:4164038200618": 0,
+      "gas:candidate-vibid:4164038200764": 1801,
+      "gas:candidate-vibid:4164038200659": 173
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tatarstan?action=show&root=1000041&tvd=21620001562298&vrn=100100067795849&region=16&global=&sub_region=16&prver=0&pronetvd=null&vibid=21620001562298&type=464",
@@ -8935,13 +8935,13 @@ export const duma_2016_uik_463_region_16_part_006 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Артемьева Анна Владимировна": 9,
-      "Вильданов Дамир Насырович": 88,
-      "Закиров Ринат Замильевич": 2,
-      "Иосипов Евгений Константинович": 3,
-      "Лукин Андрей Михайлович": 2,
-      "Хайруллин Айрат Назипович": 1621,
-      "Ягудин Альберт Ахметвагизович": 160
+      "gas:candidate-vibid:4164038200292": 9,
+      "gas:candidate-vibid:4164038200488": 88,
+      "gas:candidate-vibid:4164038200318": 2,
+      "gas:candidate-vibid:4164038200535": 3,
+      "gas:candidate-vibid:4164038200618": 2,
+      "gas:candidate-vibid:4164038200764": 1621,
+      "gas:candidate-vibid:4164038200659": 160
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tatarstan?action=show&root=1000041&tvd=21620001562298&vrn=100100067795849&region=16&global=&sub_region=16&prver=0&pronetvd=null&vibid=21620001562298&type=464",
@@ -8992,13 +8992,13 @@ export const duma_2016_uik_463_region_16_part_006 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Артемьева Анна Владимировна": 8,
-      "Вильданов Дамир Насырович": 74,
-      "Закиров Ринат Замильевич": 7,
-      "Иосипов Евгений Константинович": 9,
-      "Лукин Андрей Михайлович": 9,
-      "Хайруллин Айрат Назипович": 1693,
-      "Ягудин Альберт Ахметвагизович": 146
+      "gas:candidate-vibid:4164038200292": 8,
+      "gas:candidate-vibid:4164038200488": 74,
+      "gas:candidate-vibid:4164038200318": 7,
+      "gas:candidate-vibid:4164038200535": 9,
+      "gas:candidate-vibid:4164038200618": 9,
+      "gas:candidate-vibid:4164038200764": 1693,
+      "gas:candidate-vibid:4164038200659": 146
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tatarstan?action=show&root=1000041&tvd=21620001562298&vrn=100100067795849&region=16&global=&sub_region=16&prver=0&pronetvd=null&vibid=21620001562298&type=464",
@@ -9049,13 +9049,13 @@ export const duma_2016_uik_463_region_16_part_006 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Артемьева Анна Владимировна": 2,
-      "Вильданов Дамир Насырович": 102,
-      "Закиров Ринат Замильевич": 8,
-      "Иосипов Евгений Константинович": 8,
-      "Лукин Андрей Михайлович": 17,
-      "Хайруллин Айрат Назипович": 1762,
-      "Ягудин Альберт Ахметвагизович": 72
+      "gas:candidate-vibid:4164038200292": 2,
+      "gas:candidate-vibid:4164038200488": 102,
+      "gas:candidate-vibid:4164038200318": 8,
+      "gas:candidate-vibid:4164038200535": 8,
+      "gas:candidate-vibid:4164038200618": 17,
+      "gas:candidate-vibid:4164038200764": 1762,
+      "gas:candidate-vibid:4164038200659": 72
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tatarstan?action=show&root=1000041&tvd=21620001562298&vrn=100100067795849&region=16&global=&sub_region=16&prver=0&pronetvd=null&vibid=21620001562298&type=464",
@@ -9106,13 +9106,13 @@ export const duma_2016_uik_463_region_16_part_006 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Артемьева Анна Владимировна": 0,
-      "Вильданов Дамир Насырович": 6,
-      "Закиров Ринат Замильевич": 0,
-      "Иосипов Евгений Константинович": 0,
-      "Лукин Андрей Михайлович": 0,
-      "Хайруллин Айрат Назипович": 145,
-      "Ягудин Альберт Ахметвагизович": 14
+      "gas:candidate-vibid:4164038200292": 0,
+      "gas:candidate-vibid:4164038200488": 6,
+      "gas:candidate-vibid:4164038200318": 0,
+      "gas:candidate-vibid:4164038200535": 0,
+      "gas:candidate-vibid:4164038200618": 0,
+      "gas:candidate-vibid:4164038200764": 145,
+      "gas:candidate-vibid:4164038200659": 14
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tatarstan?action=show&root=1000041&tvd=21620001562298&vrn=100100067795849&region=16&global=&sub_region=16&prver=0&pronetvd=null&vibid=21620001562298&type=464",
@@ -9163,13 +9163,13 @@ export const duma_2016_uik_463_region_16_part_006 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Артемьева Анна Владимировна": 15,
-      "Вильданов Дамир Насырович": 177,
-      "Закиров Ринат Замильевич": 18,
-      "Иосипов Евгений Константинович": 14,
-      "Лукин Андрей Михайлович": 11,
-      "Хайруллин Айрат Назипович": 896,
-      "Ягудин Альберт Ахметвагизович": 49
+      "gas:candidate-vibid:4164038200292": 15,
+      "gas:candidate-vibid:4164038200488": 177,
+      "gas:candidate-vibid:4164038200318": 18,
+      "gas:candidate-vibid:4164038200535": 14,
+      "gas:candidate-vibid:4164038200618": 11,
+      "gas:candidate-vibid:4164038200764": 896,
+      "gas:candidate-vibid:4164038200659": 49
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tatarstan?action=show&root=1000041&tvd=21620001562298&vrn=100100067795849&region=16&global=&sub_region=16&prver=0&pronetvd=null&vibid=21620001562298&type=464",
@@ -9220,13 +9220,13 @@ export const duma_2016_uik_463_region_16_part_006 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Артемьева Анна Владимировна": 2,
-      "Вильданов Дамир Насырович": 69,
-      "Закиров Ринат Замильевич": 5,
-      "Иосипов Евгений Константинович": 6,
-      "Лукин Андрей Михайлович": 4,
-      "Хайруллин Айрат Назипович": 1257,
-      "Ягудин Альберт Ахметвагизович": 126
+      "gas:candidate-vibid:4164038200292": 2,
+      "gas:candidate-vibid:4164038200488": 69,
+      "gas:candidate-vibid:4164038200318": 5,
+      "gas:candidate-vibid:4164038200535": 6,
+      "gas:candidate-vibid:4164038200618": 4,
+      "gas:candidate-vibid:4164038200764": 1257,
+      "gas:candidate-vibid:4164038200659": 126
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tatarstan?action=show&root=1000041&tvd=21620001562298&vrn=100100067795849&region=16&global=&sub_region=16&prver=0&pronetvd=null&vibid=21620001562298&type=464",
@@ -9277,13 +9277,13 @@ export const duma_2016_uik_463_region_16_part_006 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Артемьева Анна Владимировна": 3,
-      "Вильданов Дамир Насырович": 76,
-      "Закиров Ринат Замильевич": 8,
-      "Иосипов Евгений Константинович": 6,
-      "Лукин Андрей Михайлович": 5,
-      "Хайруллин Айрат Назипович": 1562,
-      "Ягудин Альберт Ахметвагизович": 145
+      "gas:candidate-vibid:4164038200292": 3,
+      "gas:candidate-vibid:4164038200488": 76,
+      "gas:candidate-vibid:4164038200318": 8,
+      "gas:candidate-vibid:4164038200535": 6,
+      "gas:candidate-vibid:4164038200618": 5,
+      "gas:candidate-vibid:4164038200764": 1562,
+      "gas:candidate-vibid:4164038200659": 145
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tatarstan?action=show&root=1000041&tvd=21620001562298&vrn=100100067795849&region=16&global=&sub_region=16&prver=0&pronetvd=null&vibid=21620001562298&type=464",
@@ -9334,13 +9334,13 @@ export const duma_2016_uik_463_region_16_part_006 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Артемьева Анна Владимировна": 13,
-      "Вильданов Дамир Насырович": 96,
-      "Закиров Ринат Замильевич": 5,
-      "Иосипов Евгений Константинович": 7,
-      "Лукин Андрей Михайлович": 24,
-      "Хайруллин Айрат Назипович": 1526,
-      "Ягудин Альберт Ахметвагизович": 154
+      "gas:candidate-vibid:4164038200292": 13,
+      "gas:candidate-vibid:4164038200488": 96,
+      "gas:candidate-vibid:4164038200318": 5,
+      "gas:candidate-vibid:4164038200535": 7,
+      "gas:candidate-vibid:4164038200618": 24,
+      "gas:candidate-vibid:4164038200764": 1526,
+      "gas:candidate-vibid:4164038200659": 154
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tatarstan?action=show&root=1000041&tvd=21620001562298&vrn=100100067795849&region=16&global=&sub_region=16&prver=0&pronetvd=null&vibid=21620001562298&type=464",
@@ -9391,13 +9391,13 @@ export const duma_2016_uik_463_region_16_part_006 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Артемьева Анна Владимировна": 18,
-      "Вильданов Дамир Насырович": 64,
-      "Закиров Ринат Замильевич": 5,
-      "Иосипов Евгений Константинович": 12,
-      "Лукин Андрей Михайлович": 5,
-      "Хайруллин Айрат Назипович": 2194,
-      "Ягудин Альберт Ахметвагизович": 86
+      "gas:candidate-vibid:4164038200292": 18,
+      "gas:candidate-vibid:4164038200488": 64,
+      "gas:candidate-vibid:4164038200318": 5,
+      "gas:candidate-vibid:4164038200535": 12,
+      "gas:candidate-vibid:4164038200618": 5,
+      "gas:candidate-vibid:4164038200764": 2194,
+      "gas:candidate-vibid:4164038200659": 86
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tatarstan?action=show&root=1000041&tvd=21620001562298&vrn=100100067795849&region=16&global=&sub_region=16&prver=0&pronetvd=null&vibid=21620001562298&type=464",
@@ -9448,13 +9448,13 @@ export const duma_2016_uik_463_region_16_part_006 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Артемьева Анна Владимировна": 2,
-      "Вильданов Дамир Насырович": 104,
-      "Закиров Ринат Замильевич": 4,
-      "Иосипов Евгений Константинович": 2,
-      "Лукин Андрей Михайлович": 0,
-      "Хайруллин Айрат Назипович": 2028,
-      "Ягудин Альберт Ахметвагизович": 185
+      "gas:candidate-vibid:4164038200292": 2,
+      "gas:candidate-vibid:4164038200488": 104,
+      "gas:candidate-vibid:4164038200318": 4,
+      "gas:candidate-vibid:4164038200535": 2,
+      "gas:candidate-vibid:4164038200618": 0,
+      "gas:candidate-vibid:4164038200764": 2028,
+      "gas:candidate-vibid:4164038200659": 185
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tatarstan?action=show&root=1000041&tvd=21620001562298&vrn=100100067795849&region=16&global=&sub_region=16&prver=0&pronetvd=null&vibid=21620001562298&type=464",
@@ -9505,13 +9505,13 @@ export const duma_2016_uik_463_region_16_part_006 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Артемьева Анна Владимировна": 8,
-      "Вильданов Дамир Насырович": 97,
-      "Закиров Ринат Замильевич": 12,
-      "Иосипов Евгений Константинович": 13,
-      "Лукин Андрей Михайлович": 7,
-      "Хайруллин Айрат Назипович": 1799,
-      "Ягудин Альберт Ахметвагизович": 181
+      "gas:candidate-vibid:4164038200292": 8,
+      "gas:candidate-vibid:4164038200488": 97,
+      "gas:candidate-vibid:4164038200318": 12,
+      "gas:candidate-vibid:4164038200535": 13,
+      "gas:candidate-vibid:4164038200618": 7,
+      "gas:candidate-vibid:4164038200764": 1799,
+      "gas:candidate-vibid:4164038200659": 181
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tatarstan?action=show&root=1000041&tvd=21620001562298&vrn=100100067795849&region=16&global=&sub_region=16&prver=0&pronetvd=null&vibid=21620001562298&type=464",
@@ -9562,13 +9562,13 @@ export const duma_2016_uik_463_region_16_part_006 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Артемьева Анна Владимировна": 5,
-      "Вильданов Дамир Насырович": 99,
-      "Закиров Ринат Замильевич": 2,
-      "Иосипов Евгений Константинович": 1,
-      "Лукин Андрей Михайлович": 12,
-      "Хайруллин Айрат Назипович": 1843,
-      "Ягудин Альберт Ахметвагизович": 181
+      "gas:candidate-vibid:4164038200292": 5,
+      "gas:candidate-vibid:4164038200488": 99,
+      "gas:candidate-vibid:4164038200318": 2,
+      "gas:candidate-vibid:4164038200535": 1,
+      "gas:candidate-vibid:4164038200618": 12,
+      "gas:candidate-vibid:4164038200764": 1843,
+      "gas:candidate-vibid:4164038200659": 181
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tatarstan?action=show&root=1000041&tvd=21620001562298&vrn=100100067795849&region=16&global=&sub_region=16&prver=0&pronetvd=null&vibid=21620001562298&type=464",
@@ -9619,13 +9619,13 @@ export const duma_2016_uik_463_region_16_part_006 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Артемьева Анна Владимировна": 15,
-      "Вильданов Дамир Насырович": 30,
-      "Закиров Ринат Замильевич": 5,
-      "Иосипов Евгений Константинович": 6,
-      "Лукин Андрей Михайлович": 15,
-      "Хайруллин Айрат Назипович": 1735,
-      "Ягудин Альберт Ахметвагизович": 105
+      "gas:candidate-vibid:4164038200292": 15,
+      "gas:candidate-vibid:4164038200488": 30,
+      "gas:candidate-vibid:4164038200318": 5,
+      "gas:candidate-vibid:4164038200535": 6,
+      "gas:candidate-vibid:4164038200618": 15,
+      "gas:candidate-vibid:4164038200764": 1735,
+      "gas:candidate-vibid:4164038200659": 105
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tatarstan?action=show&root=1000041&tvd=21620001562298&vrn=100100067795849&region=16&global=&sub_region=16&prver=0&pronetvd=null&vibid=21620001562298&type=464",
@@ -9676,13 +9676,13 @@ export const duma_2016_uik_463_region_16_part_006 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Артемьева Анна Владимировна": 9,
-      "Вильданов Дамир Насырович": 81,
-      "Закиров Ринат Замильевич": 8,
-      "Иосипов Евгений Константинович": 3,
-      "Лукин Андрей Михайлович": 33,
-      "Хайруллин Айрат Назипович": 1481,
-      "Ягудин Альберт Ахметвагизович": 107
+      "gas:candidate-vibid:4164038200292": 9,
+      "gas:candidate-vibid:4164038200488": 81,
+      "gas:candidate-vibid:4164038200318": 8,
+      "gas:candidate-vibid:4164038200535": 3,
+      "gas:candidate-vibid:4164038200618": 33,
+      "gas:candidate-vibid:4164038200764": 1481,
+      "gas:candidate-vibid:4164038200659": 107
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tatarstan?action=show&root=1000041&tvd=21620001562298&vrn=100100067795849&region=16&global=&sub_region=16&prver=0&pronetvd=null&vibid=21620001562298&type=464",
@@ -9733,13 +9733,13 @@ export const duma_2016_uik_463_region_16_part_006 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Артемьева Анна Владимировна": 18,
-      "Вильданов Дамир Насырович": 89,
-      "Закиров Ринат Замильевич": 12,
-      "Иосипов Евгений Константинович": 13,
-      "Лукин Андрей Михайлович": 56,
-      "Хайруллин Айрат Назипович": 1553,
-      "Ягудин Альберт Ахметвагизович": 87
+      "gas:candidate-vibid:4164038200292": 18,
+      "gas:candidate-vibid:4164038200488": 89,
+      "gas:candidate-vibid:4164038200318": 12,
+      "gas:candidate-vibid:4164038200535": 13,
+      "gas:candidate-vibid:4164038200618": 56,
+      "gas:candidate-vibid:4164038200764": 1553,
+      "gas:candidate-vibid:4164038200659": 87
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tatarstan?action=show&root=1000041&tvd=21620001562298&vrn=100100067795849&region=16&global=&sub_region=16&prver=0&pronetvd=null&vibid=21620001562298&type=464",
@@ -9790,13 +9790,13 @@ export const duma_2016_uik_463_region_16_part_006 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Артемьева Анна Владимировна": 0,
-      "Вильданов Дамир Насырович": 86,
-      "Закиров Ринат Замильевич": 0,
-      "Иосипов Евгений Константинович": 0,
-      "Лукин Андрей Михайлович": 0,
-      "Хайруллин Айрат Назипович": 1627,
-      "Ягудин Альберт Ахметвагизович": 153
+      "gas:candidate-vibid:4164038200292": 0,
+      "gas:candidate-vibid:4164038200488": 86,
+      "gas:candidate-vibid:4164038200318": 0,
+      "gas:candidate-vibid:4164038200535": 0,
+      "gas:candidate-vibid:4164038200618": 0,
+      "gas:candidate-vibid:4164038200764": 1627,
+      "gas:candidate-vibid:4164038200659": 153
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tatarstan?action=show&root=1000041&tvd=21620001562298&vrn=100100067795849&region=16&global=&sub_region=16&prver=0&pronetvd=null&vibid=21620001562298&type=464",
@@ -9847,13 +9847,13 @@ export const duma_2016_uik_463_region_16_part_006 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Артемьева Анна Владимировна": 33,
-      "Вильданов Дамир Насырович": 96,
-      "Закиров Ринат Замильевич": 0,
-      "Иосипов Евгений Константинович": 23,
-      "Лукин Андрей Михайлович": 0,
-      "Хайруллин Айрат Назипович": 1772,
-      "Ягудин Альберт Ахметвагизович": 122
+      "gas:candidate-vibid:4164038200292": 33,
+      "gas:candidate-vibid:4164038200488": 96,
+      "gas:candidate-vibid:4164038200318": 0,
+      "gas:candidate-vibid:4164038200535": 23,
+      "gas:candidate-vibid:4164038200618": 0,
+      "gas:candidate-vibid:4164038200764": 1772,
+      "gas:candidate-vibid:4164038200659": 122
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tatarstan?action=show&root=1000041&tvd=21620001562298&vrn=100100067795849&region=16&global=&sub_region=16&prver=0&pronetvd=null&vibid=21620001562298&type=464",
@@ -9904,13 +9904,13 @@ export const duma_2016_uik_463_region_16_part_006 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Артемьева Анна Владимировна": 3,
-      "Вильданов Дамир Насырович": 41,
-      "Закиров Ринат Замильевич": 1,
-      "Иосипов Евгений Константинович": 3,
-      "Лукин Андрей Михайлович": 3,
-      "Хайруллин Айрат Назипович": 880,
-      "Ягудин Альберт Ахметвагизович": 80
+      "gas:candidate-vibid:4164038200292": 3,
+      "gas:candidate-vibid:4164038200488": 41,
+      "gas:candidate-vibid:4164038200318": 1,
+      "gas:candidate-vibid:4164038200535": 3,
+      "gas:candidate-vibid:4164038200618": 3,
+      "gas:candidate-vibid:4164038200764": 880,
+      "gas:candidate-vibid:4164038200659": 80
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tatarstan?action=show&root=1000041&tvd=21620001562298&vrn=100100067795849&region=16&global=&sub_region=16&prver=0&pronetvd=null&vibid=21620001562298&type=464",
@@ -9961,13 +9961,13 @@ export const duma_2016_uik_463_region_16_part_006 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Артемьева Анна Владимировна": 15,
-      "Вильданов Дамир Насырович": 116,
-      "Закиров Ринат Замильевич": 18,
-      "Иосипов Евгений Константинович": 14,
-      "Лукин Андрей Михайлович": 8,
-      "Хайруллин Айрат Назипович": 2102,
-      "Ягудин Альберт Ахметвагизович": 210
+      "gas:candidate-vibid:4164038200292": 15,
+      "gas:candidate-vibid:4164038200488": 116,
+      "gas:candidate-vibid:4164038200318": 18,
+      "gas:candidate-vibid:4164038200535": 14,
+      "gas:candidate-vibid:4164038200618": 8,
+      "gas:candidate-vibid:4164038200764": 2102,
+      "gas:candidate-vibid:4164038200659": 210
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tatarstan?action=show&root=1000041&tvd=21620001562298&vrn=100100067795849&region=16&global=&sub_region=16&prver=0&pronetvd=null&vibid=21620001562298&type=464",
@@ -10018,13 +10018,13 @@ export const duma_2016_uik_463_region_16_part_006 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Артемьева Анна Владимировна": 15,
-      "Вильданов Дамир Насырович": 157,
-      "Закиров Ринат Замильевич": 19,
-      "Иосипов Евгений Константинович": 4,
-      "Лукин Андрей Михайлович": 6,
-      "Хайруллин Айрат Назипович": 2016,
-      "Ягудин Альберт Ахметвагизович": 155
+      "gas:candidate-vibid:4164038200292": 15,
+      "gas:candidate-vibid:4164038200488": 157,
+      "gas:candidate-vibid:4164038200318": 19,
+      "gas:candidate-vibid:4164038200535": 4,
+      "gas:candidate-vibid:4164038200618": 6,
+      "gas:candidate-vibid:4164038200764": 2016,
+      "gas:candidate-vibid:4164038200659": 155
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tatarstan?action=show&root=1000041&tvd=21620001562298&vrn=100100067795849&region=16&global=&sub_region=16&prver=0&pronetvd=null&vibid=21620001562298&type=464",
@@ -10075,13 +10075,13 @@ export const duma_2016_uik_463_region_16_part_006 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Артемьева Анна Владимировна": 13,
-      "Вильданов Дамир Насырович": 109,
-      "Закиров Ринат Замильевич": 7,
-      "Иосипов Евгений Константинович": 27,
-      "Лукин Андрей Михайлович": 9,
-      "Хайруллин Айрат Назипович": 2130,
-      "Ягудин Альберт Ахметвагизович": 183
+      "gas:candidate-vibid:4164038200292": 13,
+      "gas:candidate-vibid:4164038200488": 109,
+      "gas:candidate-vibid:4164038200318": 7,
+      "gas:candidate-vibid:4164038200535": 27,
+      "gas:candidate-vibid:4164038200618": 9,
+      "gas:candidate-vibid:4164038200764": 2130,
+      "gas:candidate-vibid:4164038200659": 183
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tatarstan?action=show&root=1000041&tvd=21620001562298&vrn=100100067795849&region=16&global=&sub_region=16&prver=0&pronetvd=null&vibid=21620001562298&type=464",
@@ -10132,13 +10132,13 @@ export const duma_2016_uik_463_region_16_part_006 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Артемьева Анна Владимировна": 38,
-      "Вильданов Дамир Насырович": 86,
-      "Закиров Ринат Замильевич": 46,
-      "Иосипов Евгений Константинович": 63,
-      "Лукин Андрей Михайлович": 66,
-      "Хайруллин Айрат Назипович": 1399,
-      "Ягудин Альберт Ахметвагизович": 161
+      "gas:candidate-vibid:4164038200292": 38,
+      "gas:candidate-vibid:4164038200488": 86,
+      "gas:candidate-vibid:4164038200318": 46,
+      "gas:candidate-vibid:4164038200535": 63,
+      "gas:candidate-vibid:4164038200618": 66,
+      "gas:candidate-vibid:4164038200764": 1399,
+      "gas:candidate-vibid:4164038200659": 161
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tatarstan?action=show&root=1000041&tvd=21620001562298&vrn=100100067795849&region=16&global=&sub_region=16&prver=0&pronetvd=null&vibid=21620001562298&type=464",
@@ -10189,13 +10189,13 @@ export const duma_2016_uik_463_region_16_part_006 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Артемьева Анна Владимировна": 0,
-      "Вильданов Дамир Насырович": 347,
-      "Закиров Ринат Замильевич": 2,
-      "Иосипов Евгений Константинович": 1,
-      "Лукин Андрей Михайлович": 5,
-      "Хайруллин Айрат Назипович": 1947,
-      "Ягудин Альберт Ахметвагизович": 2
+      "gas:candidate-vibid:4164038200292": 0,
+      "gas:candidate-vibid:4164038200488": 347,
+      "gas:candidate-vibid:4164038200318": 2,
+      "gas:candidate-vibid:4164038200535": 1,
+      "gas:candidate-vibid:4164038200618": 5,
+      "gas:candidate-vibid:4164038200764": 1947,
+      "gas:candidate-vibid:4164038200659": 2
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tatarstan?action=show&root=1000041&tvd=21620001562298&vrn=100100067795849&region=16&global=&sub_region=16&prver=0&pronetvd=null&vibid=21620001562298&type=464",
@@ -10246,13 +10246,13 @@ export const duma_2016_uik_463_region_16_part_006 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Артемьева Анна Владимировна": 5,
-      "Вильданов Дамир Насырович": 82,
-      "Закиров Ринат Замильевич": 10,
-      "Иосипов Евгений Константинович": 11,
-      "Лукин Андрей Михайлович": 0,
-      "Хайруллин Айрат Назипович": 1478,
-      "Ягудин Альберт Ахметвагизович": 148
+      "gas:candidate-vibid:4164038200292": 5,
+      "gas:candidate-vibid:4164038200488": 82,
+      "gas:candidate-vibid:4164038200318": 10,
+      "gas:candidate-vibid:4164038200535": 11,
+      "gas:candidate-vibid:4164038200618": 0,
+      "gas:candidate-vibid:4164038200764": 1478,
+      "gas:candidate-vibid:4164038200659": 148
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tatarstan?action=show&root=1000041&tvd=21620001562298&vrn=100100067795849&region=16&global=&sub_region=16&prver=0&pronetvd=null&vibid=21620001562298&type=464",
@@ -10303,13 +10303,13 @@ export const duma_2016_uik_463_region_16_part_006 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Артемьева Анна Владимировна": 5,
-      "Вильданов Дамир Насырович": 95,
-      "Закиров Ринат Замильевич": 4,
-      "Иосипов Евгений Константинович": 7,
-      "Лукин Андрей Михайлович": 4,
-      "Хайруллин Айрат Назипович": 1734,
-      "Ягудин Альберт Ахметвагизович": 171
+      "gas:candidate-vibid:4164038200292": 5,
+      "gas:candidate-vibid:4164038200488": 95,
+      "gas:candidate-vibid:4164038200318": 4,
+      "gas:candidate-vibid:4164038200535": 7,
+      "gas:candidate-vibid:4164038200618": 4,
+      "gas:candidate-vibid:4164038200764": 1734,
+      "gas:candidate-vibid:4164038200659": 171
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tatarstan?action=show&root=1000041&tvd=21620001562298&vrn=100100067795849&region=16&global=&sub_region=16&prver=0&pronetvd=null&vibid=21620001562298&type=464",
@@ -10360,13 +10360,13 @@ export const duma_2016_uik_463_region_16_part_006 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Артемьева Анна Владимировна": 79,
-      "Вильданов Дамир Насырович": 119,
-      "Закиров Ринат Замильевич": 24,
-      "Иосипов Евгений Константинович": 17,
-      "Лукин Андрей Михайлович": 24,
-      "Хайруллин Айрат Назипович": 1997,
-      "Ягудин Альберт Ахметвагизович": 63
+      "gas:candidate-vibid:4164038200292": 79,
+      "gas:candidate-vibid:4164038200488": 119,
+      "gas:candidate-vibid:4164038200318": 24,
+      "gas:candidate-vibid:4164038200535": 17,
+      "gas:candidate-vibid:4164038200618": 24,
+      "gas:candidate-vibid:4164038200764": 1997,
+      "gas:candidate-vibid:4164038200659": 63
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tatarstan?action=show&root=1000041&tvd=21620001562298&vrn=100100067795849&region=16&global=&sub_region=16&prver=0&pronetvd=null&vibid=21620001562298&type=464",
@@ -10417,13 +10417,13 @@ export const duma_2016_uik_463_region_16_part_006 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Артемьева Анна Владимировна": 3,
-      "Вильданов Дамир Насырович": 113,
-      "Закиров Ринат Замильевич": 12,
-      "Иосипов Евгений Константинович": 27,
-      "Лукин Андрей Михайлович": 29,
-      "Хайруллин Айрат Назипович": 1882,
-      "Ягудин Альберт Ахметвагизович": 19
+      "gas:candidate-vibid:4164038200292": 3,
+      "gas:candidate-vibid:4164038200488": 113,
+      "gas:candidate-vibid:4164038200318": 12,
+      "gas:candidate-vibid:4164038200535": 27,
+      "gas:candidate-vibid:4164038200618": 29,
+      "gas:candidate-vibid:4164038200764": 1882,
+      "gas:candidate-vibid:4164038200659": 19
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tatarstan?action=show&root=1000041&tvd=21620001562298&vrn=100100067795849&region=16&global=&sub_region=16&prver=0&pronetvd=null&vibid=21620001562298&type=464",
@@ -10474,13 +10474,13 @@ export const duma_2016_uik_463_region_16_part_006 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Артемьева Анна Владимировна": 8,
-      "Вильданов Дамир Насырович": 76,
-      "Закиров Ринат Замильевич": 5,
-      "Иосипов Евгений Константинович": 10,
-      "Лукин Андрей Михайлович": 11,
-      "Хайруллин Айрат Назипович": 1473,
-      "Ягудин Альберт Ахметвагизович": 110
+      "gas:candidate-vibid:4164038200292": 8,
+      "gas:candidate-vibid:4164038200488": 76,
+      "gas:candidate-vibid:4164038200318": 5,
+      "gas:candidate-vibid:4164038200535": 10,
+      "gas:candidate-vibid:4164038200618": 11,
+      "gas:candidate-vibid:4164038200764": 1473,
+      "gas:candidate-vibid:4164038200659": 110
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tatarstan?action=show&root=1000041&tvd=21620001562298&vrn=100100067795849&region=16&global=&sub_region=16&prver=0&pronetvd=null&vibid=21620001562298&type=464",
@@ -10531,13 +10531,13 @@ export const duma_2016_uik_463_region_16_part_006 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Артемьева Анна Владимировна": 5,
-      "Вильданов Дамир Насырович": 83,
-      "Закиров Ринат Замильевич": 4,
-      "Иосипов Евгений Константинович": 4,
-      "Лукин Андрей Михайлович": 3,
-      "Хайруллин Айрат Назипович": 1534,
-      "Ягудин Альберт Ахметвагизович": 151
+      "gas:candidate-vibid:4164038200292": 5,
+      "gas:candidate-vibid:4164038200488": 83,
+      "gas:candidate-vibid:4164038200318": 4,
+      "gas:candidate-vibid:4164038200535": 4,
+      "gas:candidate-vibid:4164038200618": 3,
+      "gas:candidate-vibid:4164038200764": 1534,
+      "gas:candidate-vibid:4164038200659": 151
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tatarstan?action=show&root=1000041&tvd=21620001562298&vrn=100100067795849&region=16&global=&sub_region=16&prver=0&pronetvd=null&vibid=21620001562298&type=464",
@@ -10588,13 +10588,13 @@ export const duma_2016_uik_463_region_16_part_006 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Артемьева Анна Владимировна": 9,
-      "Вильданов Дамир Насырович": 103,
-      "Закиров Ринат Замильевич": 8,
-      "Иосипов Евгений Константинович": 11,
-      "Лукин Андрей Михайлович": 7,
-      "Хайруллин Айрат Назипович": 1971,
-      "Ягудин Альберт Ахметвагизович": 183
+      "gas:candidate-vibid:4164038200292": 9,
+      "gas:candidate-vibid:4164038200488": 103,
+      "gas:candidate-vibid:4164038200318": 8,
+      "gas:candidate-vibid:4164038200535": 11,
+      "gas:candidate-vibid:4164038200618": 7,
+      "gas:candidate-vibid:4164038200764": 1971,
+      "gas:candidate-vibid:4164038200659": 183
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tatarstan?action=show&root=1000041&tvd=21620001562298&vrn=100100067795849&region=16&global=&sub_region=16&prver=0&pronetvd=null&vibid=21620001562298&type=464",
@@ -10645,13 +10645,13 @@ export const duma_2016_uik_463_region_16_part_006 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Артемьева Анна Владимировна": 11,
-      "Вильданов Дамир Насырович": 88,
-      "Закиров Ринат Замильевич": 3,
-      "Иосипов Евгений Константинович": 5,
-      "Лукин Андрей Михайлович": 19,
-      "Хайруллин Айрат Назипович": 1658,
-      "Ягудин Альберт Ахметвагизович": 122
+      "gas:candidate-vibid:4164038200292": 11,
+      "gas:candidate-vibid:4164038200488": 88,
+      "gas:candidate-vibid:4164038200318": 3,
+      "gas:candidate-vibid:4164038200535": 5,
+      "gas:candidate-vibid:4164038200618": 19,
+      "gas:candidate-vibid:4164038200764": 1658,
+      "gas:candidate-vibid:4164038200659": 122
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tatarstan?action=show&root=1000041&tvd=21620001562298&vrn=100100067795849&region=16&global=&sub_region=16&prver=0&pronetvd=null&vibid=21620001562298&type=464",
@@ -10702,13 +10702,13 @@ export const duma_2016_uik_463_region_16_part_006 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Артемьева Анна Владимировна": 17,
-      "Вильданов Дамир Насырович": 187,
-      "Закиров Ринат Замильевич": 28,
-      "Иосипов Евгений Константинович": 8,
-      "Лукин Андрей Михайлович": 7,
-      "Хайруллин Айрат Назипович": 1782,
-      "Ягудин Альберт Ахметвагизович": 17
+      "gas:candidate-vibid:4164038200292": 17,
+      "gas:candidate-vibid:4164038200488": 187,
+      "gas:candidate-vibid:4164038200318": 28,
+      "gas:candidate-vibid:4164038200535": 8,
+      "gas:candidate-vibid:4164038200618": 7,
+      "gas:candidate-vibid:4164038200764": 1782,
+      "gas:candidate-vibid:4164038200659": 17
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tatarstan?action=show&root=1000041&tvd=21620001562298&vrn=100100067795849&region=16&global=&sub_region=16&prver=0&pronetvd=null&vibid=21620001562298&type=464",
@@ -10759,13 +10759,13 @@ export const duma_2016_uik_463_region_16_part_006 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Артемьева Анна Владимировна": 9,
-      "Вильданов Дамир Насырович": 100,
-      "Закиров Ринат Замильевич": 6,
-      "Иосипов Евгений Константинович": 8,
-      "Лукин Андрей Михайлович": 9,
-      "Хайруллин Айрат Назипович": 1880,
-      "Ягудин Альберт Ахметвагизович": 174
+      "gas:candidate-vibid:4164038200292": 9,
+      "gas:candidate-vibid:4164038200488": 100,
+      "gas:candidate-vibid:4164038200318": 6,
+      "gas:candidate-vibid:4164038200535": 8,
+      "gas:candidate-vibid:4164038200618": 9,
+      "gas:candidate-vibid:4164038200764": 1880,
+      "gas:candidate-vibid:4164038200659": 174
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tatarstan?action=show&root=1000041&tvd=21620001562298&vrn=100100067795849&region=16&global=&sub_region=16&prver=0&pronetvd=null&vibid=21620001562298&type=464",
@@ -10816,13 +10816,13 @@ export const duma_2016_uik_463_region_16_part_006 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Артемьева Анна Владимировна": 2,
-      "Вильданов Дамир Насырович": 195,
-      "Закиров Ринат Замильевич": 5,
-      "Иосипов Евгений Константинович": 8,
-      "Лукин Андрей Михайлович": 38,
-      "Хайруллин Айрат Назипович": 2151,
-      "Ягудин Альберт Ахметвагизович": 74
+      "gas:candidate-vibid:4164038200292": 2,
+      "gas:candidate-vibid:4164038200488": 195,
+      "gas:candidate-vibid:4164038200318": 5,
+      "gas:candidate-vibid:4164038200535": 8,
+      "gas:candidate-vibid:4164038200618": 38,
+      "gas:candidate-vibid:4164038200764": 2151,
+      "gas:candidate-vibid:4164038200659": 74
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tatarstan?action=show&root=1000041&tvd=21620001562298&vrn=100100067795849&region=16&global=&sub_region=16&prver=0&pronetvd=null&vibid=21620001562298&type=464",
@@ -10873,13 +10873,13 @@ export const duma_2016_uik_463_region_16_part_006 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Артемьева Анна Владимировна": 12,
-      "Вильданов Дамир Насырович": 115,
-      "Закиров Ринат Замильевич": 10,
-      "Иосипов Евгений Константинович": 0,
-      "Лукин Андрей Михайлович": 0,
-      "Хайруллин Айрат Назипович": 2123,
-      "Ягудин Альберт Ахметвагизович": 209
+      "gas:candidate-vibid:4164038200292": 12,
+      "gas:candidate-vibid:4164038200488": 115,
+      "gas:candidate-vibid:4164038200318": 10,
+      "gas:candidate-vibid:4164038200535": 0,
+      "gas:candidate-vibid:4164038200618": 0,
+      "gas:candidate-vibid:4164038200764": 2123,
+      "gas:candidate-vibid:4164038200659": 209
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tatarstan?action=show&root=1000041&tvd=21620001562298&vrn=100100067795849&region=16&global=&sub_region=16&prver=0&pronetvd=null&vibid=21620001562298&type=464",
@@ -10930,13 +10930,13 @@ export const duma_2016_uik_463_region_16_part_006 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Артемьева Анна Владимировна": 31,
-      "Вильданов Дамир Насырович": 25,
-      "Закиров Ринат Замильевич": 23,
-      "Иосипов Евгений Константинович": 22,
-      "Лукин Андрей Михайлович": 79,
-      "Хайруллин Айрат Назипович": 102,
-      "Ягудин Альберт Ахметвагизович": 31
+      "gas:candidate-vibid:4164038200292": 31,
+      "gas:candidate-vibid:4164038200488": 25,
+      "gas:candidate-vibid:4164038200318": 23,
+      "gas:candidate-vibid:4164038200535": 22,
+      "gas:candidate-vibid:4164038200618": 79,
+      "gas:candidate-vibid:4164038200764": 102,
+      "gas:candidate-vibid:4164038200659": 31
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tatarstan?action=show&root=1000041&tvd=21620001562298&vrn=100100067795849&region=16&global=&sub_region=16&prver=0&pronetvd=null&vibid=21620001562298&type=464",
@@ -10987,13 +10987,13 @@ export const duma_2016_uik_463_region_16_part_006 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Артемьева Анна Владимировна": 15,
-      "Вильданов Дамир Насырович": 2,
-      "Закиров Ринат Замильевич": 10,
-      "Иосипов Евгений Константинович": 5,
-      "Лукин Андрей Михайлович": 29,
-      "Хайруллин Айрат Назипович": 20,
-      "Ягудин Альберт Ахметвагизович": 2
+      "gas:candidate-vibid:4164038200292": 15,
+      "gas:candidate-vibid:4164038200488": 2,
+      "gas:candidate-vibid:4164038200318": 10,
+      "gas:candidate-vibid:4164038200535": 5,
+      "gas:candidate-vibid:4164038200618": 29,
+      "gas:candidate-vibid:4164038200764": 20,
+      "gas:candidate-vibid:4164038200659": 2
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tatarstan?action=show&root=1000041&tvd=21620001562298&vrn=100100067795849&region=16&global=&sub_region=16&prver=0&pronetvd=null&vibid=21620001562298&type=464",
@@ -11044,13 +11044,13 @@ export const duma_2016_uik_463_region_16_part_006 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Артемьева Анна Владимировна": 48,
-      "Вильданов Дамир Насырович": 24,
-      "Закиров Ринат Замильевич": 12,
-      "Иосипов Евгений Константинович": 11,
-      "Лукин Андрей Михайлович": 31,
-      "Хайруллин Айрат Назипович": 59,
-      "Ягудин Альберт Ахметвагизович": 14
+      "gas:candidate-vibid:4164038200292": 48,
+      "gas:candidate-vibid:4164038200488": 24,
+      "gas:candidate-vibid:4164038200318": 12,
+      "gas:candidate-vibid:4164038200535": 11,
+      "gas:candidate-vibid:4164038200618": 31,
+      "gas:candidate-vibid:4164038200764": 59,
+      "gas:candidate-vibid:4164038200659": 14
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tatarstan?action=show&root=1000041&tvd=21620001562298&vrn=100100067795849&region=16&global=&sub_region=16&prver=0&pronetvd=null&vibid=21620001562298&type=464",
@@ -11101,13 +11101,13 @@ export const duma_2016_uik_463_region_16_part_006 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Артемьева Анна Владимировна": 28,
-      "Вильданов Дамир Насырович": 13,
-      "Закиров Ринат Замильевич": 17,
-      "Иосипов Евгений Константинович": 12,
-      "Лукин Андрей Михайлович": 170,
-      "Хайруллин Айрат Назипович": 44,
-      "Ягудин Альберт Ахметвагизович": 16
+      "gas:candidate-vibid:4164038200292": 28,
+      "gas:candidate-vibid:4164038200488": 13,
+      "gas:candidate-vibid:4164038200318": 17,
+      "gas:candidate-vibid:4164038200535": 12,
+      "gas:candidate-vibid:4164038200618": 170,
+      "gas:candidate-vibid:4164038200764": 44,
+      "gas:candidate-vibid:4164038200659": 16
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tatarstan?action=show&root=1000041&tvd=21620001562298&vrn=100100067795849&region=16&global=&sub_region=16&prver=0&pronetvd=null&vibid=21620001562298&type=464",
@@ -11158,13 +11158,13 @@ export const duma_2016_uik_463_region_16_part_006 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Артемьева Анна Владимировна": 15,
-      "Вильданов Дамир Насырович": 73,
-      "Закиров Ринат Замильевич": 14,
-      "Иосипов Евгений Константинович": 34,
-      "Лукин Андрей Михайлович": 15,
-      "Хайруллин Айрат Назипович": 1116,
-      "Ягудин Альберт Ахметвагизович": 45
+      "gas:candidate-vibid:4164038200292": 15,
+      "gas:candidate-vibid:4164038200488": 73,
+      "gas:candidate-vibid:4164038200318": 14,
+      "gas:candidate-vibid:4164038200535": 34,
+      "gas:candidate-vibid:4164038200618": 15,
+      "gas:candidate-vibid:4164038200764": 1116,
+      "gas:candidate-vibid:4164038200659": 45
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tatarstan?action=show&root=1000041&tvd=21620001562299&vrn=100100067795849&region=16&global=&sub_region=16&prver=0&pronetvd=null&vibid=21620001562299&type=464",
@@ -11215,13 +11215,13 @@ export const duma_2016_uik_463_region_16_part_006 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Артемьева Анна Владимировна": 46,
-      "Вильданов Дамир Насырович": 52,
-      "Закиров Ринат Замильевич": 19,
-      "Иосипов Евгений Константинович": 19,
-      "Лукин Андрей Михайлович": 13,
-      "Хайруллин Айрат Назипович": 1069,
-      "Ягудин Альберт Ахметвагизович": 26
+      "gas:candidate-vibid:4164038200292": 46,
+      "gas:candidate-vibid:4164038200488": 52,
+      "gas:candidate-vibid:4164038200318": 19,
+      "gas:candidate-vibid:4164038200535": 19,
+      "gas:candidate-vibid:4164038200618": 13,
+      "gas:candidate-vibid:4164038200764": 1069,
+      "gas:candidate-vibid:4164038200659": 26
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tatarstan?action=show&root=1000041&tvd=21620001562299&vrn=100100067795849&region=16&global=&sub_region=16&prver=0&pronetvd=null&vibid=21620001562299&type=464",
@@ -11272,13 +11272,13 @@ export const duma_2016_uik_463_region_16_part_006 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Артемьева Анна Владимировна": 15,
-      "Вильданов Дамир Насырович": 20,
-      "Закиров Ринат Замильевич": 3,
-      "Иосипов Евгений Константинович": 12,
-      "Лукин Андрей Михайлович": 7,
-      "Хайруллин Айрат Назипович": 402,
-      "Ягудин Альберт Ахметвагизович": 9
+      "gas:candidate-vibid:4164038200292": 15,
+      "gas:candidate-vibid:4164038200488": 20,
+      "gas:candidate-vibid:4164038200318": 3,
+      "gas:candidate-vibid:4164038200535": 12,
+      "gas:candidate-vibid:4164038200618": 7,
+      "gas:candidate-vibid:4164038200764": 402,
+      "gas:candidate-vibid:4164038200659": 9
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tatarstan?action=show&root=1000041&tvd=21620001562299&vrn=100100067795849&region=16&global=&sub_region=16&prver=0&pronetvd=null&vibid=21620001562299&type=464",
@@ -11329,13 +11329,13 @@ export const duma_2016_uik_463_region_16_part_006 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Артемьева Анна Владимировна": 67,
-      "Вильданов Дамир Насырович": 71,
-      "Закиров Ринат Замильевич": 12,
-      "Иосипов Евгений Константинович": 37,
-      "Лукин Андрей Михайлович": 36,
-      "Хайруллин Айрат Назипович": 1725,
-      "Ягудин Альберт Ахметвагизович": 58
+      "gas:candidate-vibid:4164038200292": 67,
+      "gas:candidate-vibid:4164038200488": 71,
+      "gas:candidate-vibid:4164038200318": 12,
+      "gas:candidate-vibid:4164038200535": 37,
+      "gas:candidate-vibid:4164038200618": 36,
+      "gas:candidate-vibid:4164038200764": 1725,
+      "gas:candidate-vibid:4164038200659": 58
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tatarstan?action=show&root=1000041&tvd=21620001562299&vrn=100100067795849&region=16&global=&sub_region=16&prver=0&pronetvd=null&vibid=21620001562299&type=464",
@@ -11386,13 +11386,13 @@ export const duma_2016_uik_463_region_16_part_006 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Артемьева Анна Владимировна": 13,
-      "Вильданов Дамир Насырович": 27,
-      "Закиров Ринат Замильевич": 10,
-      "Иосипов Евгений Константинович": 21,
-      "Лукин Андрей Михайлович": 13,
-      "Хайруллин Айрат Назипович": 630,
-      "Ягудин Альберт Ахметвагизович": 27
+      "gas:candidate-vibid:4164038200292": 13,
+      "gas:candidate-vibid:4164038200488": 27,
+      "gas:candidate-vibid:4164038200318": 10,
+      "gas:candidate-vibid:4164038200535": 21,
+      "gas:candidate-vibid:4164038200618": 13,
+      "gas:candidate-vibid:4164038200764": 630,
+      "gas:candidate-vibid:4164038200659": 27
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tatarstan?action=show&root=1000041&tvd=21620001562299&vrn=100100067795849&region=16&global=&sub_region=16&prver=0&pronetvd=null&vibid=21620001562299&type=464",
@@ -11443,13 +11443,13 @@ export const duma_2016_uik_463_region_16_part_006 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Артемьева Анна Владимировна": 3,
-      "Вильданов Дамир Насырович": 6,
-      "Закиров Ринат Замильевич": 3,
-      "Иосипов Евгений Константинович": 2,
-      "Лукин Андрей Михайлович": 4,
-      "Хайруллин Айрат Назипович": 295,
-      "Ягудин Альберт Ахметвагизович": 8
+      "gas:candidate-vibid:4164038200292": 3,
+      "gas:candidate-vibid:4164038200488": 6,
+      "gas:candidate-vibid:4164038200318": 3,
+      "gas:candidate-vibid:4164038200535": 2,
+      "gas:candidate-vibid:4164038200618": 4,
+      "gas:candidate-vibid:4164038200764": 295,
+      "gas:candidate-vibid:4164038200659": 8
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tatarstan?action=show&root=1000041&tvd=21620001562299&vrn=100100067795849&region=16&global=&sub_region=16&prver=0&pronetvd=null&vibid=21620001562299&type=464",
@@ -11500,13 +11500,13 @@ export const duma_2016_uik_463_region_16_part_006 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Артемьева Анна Владимировна": 13,
-      "Вильданов Дамир Насырович": 21,
-      "Закиров Ринат Замильевич": 8,
-      "Иосипов Евгений Константинович": 7,
-      "Лукин Андрей Михайлович": 5,
-      "Хайруллин Айрат Назипович": 339,
-      "Ягудин Альберт Ахметвагизович": 11
+      "gas:candidate-vibid:4164038200292": 13,
+      "gas:candidate-vibid:4164038200488": 21,
+      "gas:candidate-vibid:4164038200318": 8,
+      "gas:candidate-vibid:4164038200535": 7,
+      "gas:candidate-vibid:4164038200618": 5,
+      "gas:candidate-vibid:4164038200764": 339,
+      "gas:candidate-vibid:4164038200659": 11
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tatarstan?action=show&root=1000041&tvd=21620001562299&vrn=100100067795849&region=16&global=&sub_region=16&prver=0&pronetvd=null&vibid=21620001562299&type=464",
@@ -11557,13 +11557,13 @@ export const duma_2016_uik_463_region_16_part_006 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Артемьева Анна Владимировна": 20,
-      "Вильданов Дамир Насырович": 7,
-      "Закиров Ринат Замильевич": 20,
-      "Иосипов Евгений Константинович": 18,
-      "Лукин Андрей Михайлович": 11,
-      "Хайруллин Айрат Назипович": 709,
-      "Ягудин Альберт Ахметвагизович": 8
+      "gas:candidate-vibid:4164038200292": 20,
+      "gas:candidate-vibid:4164038200488": 7,
+      "gas:candidate-vibid:4164038200318": 20,
+      "gas:candidate-vibid:4164038200535": 18,
+      "gas:candidate-vibid:4164038200618": 11,
+      "gas:candidate-vibid:4164038200764": 709,
+      "gas:candidate-vibid:4164038200659": 8
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tatarstan?action=show&root=1000041&tvd=21620001562299&vrn=100100067795849&region=16&global=&sub_region=16&prver=0&pronetvd=null&vibid=21620001562299&type=464",
@@ -11614,13 +11614,13 @@ export const duma_2016_uik_463_region_16_part_006 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Артемьева Анна Владимировна": 4,
-      "Вильданов Дамир Насырович": 20,
-      "Закиров Ринат Замильевич": 0,
-      "Иосипов Евгений Константинович": 0,
-      "Лукин Андрей Михайлович": 0,
-      "Хайруллин Айрат Назипович": 294,
-      "Ягудин Альберт Ахметвагизович": 0
+      "gas:candidate-vibid:4164038200292": 4,
+      "gas:candidate-vibid:4164038200488": 20,
+      "gas:candidate-vibid:4164038200318": 0,
+      "gas:candidate-vibid:4164038200535": 0,
+      "gas:candidate-vibid:4164038200618": 0,
+      "gas:candidate-vibid:4164038200764": 294,
+      "gas:candidate-vibid:4164038200659": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tatarstan?action=show&root=1000041&tvd=21620001562299&vrn=100100067795849&region=16&global=&sub_region=16&prver=0&pronetvd=null&vibid=21620001562299&type=464",
@@ -11671,13 +11671,13 @@ export const duma_2016_uik_463_region_16_part_006 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Артемьева Анна Владимировна": 10,
-      "Вильданов Дамир Насырович": 16,
-      "Закиров Ринат Замильевич": 4,
-      "Иосипов Евгений Константинович": 16,
-      "Лукин Андрей Михайлович": 4,
-      "Хайруллин Айрат Назипович": 394,
-      "Ягудин Альберт Ахметвагизович": 8
+      "gas:candidate-vibid:4164038200292": 10,
+      "gas:candidate-vibid:4164038200488": 16,
+      "gas:candidate-vibid:4164038200318": 4,
+      "gas:candidate-vibid:4164038200535": 16,
+      "gas:candidate-vibid:4164038200618": 4,
+      "gas:candidate-vibid:4164038200764": 394,
+      "gas:candidate-vibid:4164038200659": 8
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tatarstan?action=show&root=1000041&tvd=21620001562299&vrn=100100067795849&region=16&global=&sub_region=16&prver=0&pronetvd=null&vibid=21620001562299&type=464",
@@ -11728,13 +11728,13 @@ export const duma_2016_uik_463_region_16_part_006 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Артемьева Анна Владимировна": 13,
-      "Вильданов Дамир Насырович": 21,
-      "Закиров Ринат Замильевич": 7,
-      "Иосипов Евгений Константинович": 9,
-      "Лукин Андрей Михайлович": 15,
-      "Хайруллин Айрат Назипович": 554,
-      "Ягудин Альберт Ахметвагизович": 17
+      "gas:candidate-vibid:4164038200292": 13,
+      "gas:candidate-vibid:4164038200488": 21,
+      "gas:candidate-vibid:4164038200318": 7,
+      "gas:candidate-vibid:4164038200535": 9,
+      "gas:candidate-vibid:4164038200618": 15,
+      "gas:candidate-vibid:4164038200764": 554,
+      "gas:candidate-vibid:4164038200659": 17
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tatarstan?action=show&root=1000041&tvd=21620001562299&vrn=100100067795849&region=16&global=&sub_region=16&prver=0&pronetvd=null&vibid=21620001562299&type=464",
@@ -11785,13 +11785,13 @@ export const duma_2016_uik_463_region_16_part_006 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Артемьева Анна Владимировна": 6,
-      "Вильданов Дамир Насырович": 5,
-      "Закиров Ринат Замильевич": 2,
-      "Иосипов Евгений Константинович": 5,
-      "Лукин Андрей Михайлович": 3,
-      "Хайруллин Айрат Назипович": 270,
-      "Ягудин Альберт Ахметвагизович": 5
+      "gas:candidate-vibid:4164038200292": 6,
+      "gas:candidate-vibid:4164038200488": 5,
+      "gas:candidate-vibid:4164038200318": 2,
+      "gas:candidate-vibid:4164038200535": 5,
+      "gas:candidate-vibid:4164038200618": 3,
+      "gas:candidate-vibid:4164038200764": 270,
+      "gas:candidate-vibid:4164038200659": 5
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tatarstan?action=show&root=1000041&tvd=21620001562299&vrn=100100067795849&region=16&global=&sub_region=16&prver=0&pronetvd=null&vibid=21620001562299&type=464",
@@ -11842,13 +11842,13 @@ export const duma_2016_uik_463_region_16_part_006 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Артемьева Анна Владимировна": 0,
-      "Вильданов Дамир Насырович": 15,
-      "Закиров Ринат Замильевич": 5,
-      "Иосипов Евгений Константинович": 4,
-      "Лукин Андрей Михайлович": 1,
-      "Хайруллин Айрат Назипович": 427,
-      "Ягудин Альберт Ахметвагизович": 13
+      "gas:candidate-vibid:4164038200292": 0,
+      "gas:candidate-vibid:4164038200488": 15,
+      "gas:candidate-vibid:4164038200318": 5,
+      "gas:candidate-vibid:4164038200535": 4,
+      "gas:candidate-vibid:4164038200618": 1,
+      "gas:candidate-vibid:4164038200764": 427,
+      "gas:candidate-vibid:4164038200659": 13
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tatarstan?action=show&root=1000041&tvd=21620001562299&vrn=100100067795849&region=16&global=&sub_region=16&prver=0&pronetvd=null&vibid=21620001562299&type=464",
@@ -11899,13 +11899,13 @@ export const duma_2016_uik_463_region_16_part_006 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Артемьева Анна Владимировна": 0,
-      "Вильданов Дамир Насырович": 0,
-      "Закиров Ринат Замильевич": 0,
-      "Иосипов Евгений Константинович": 0,
-      "Лукин Андрей Михайлович": 0,
-      "Хайруллин Айрат Назипович": 198,
-      "Ягудин Альберт Ахметвагизович": 0
+      "gas:candidate-vibid:4164038200292": 0,
+      "gas:candidate-vibid:4164038200488": 0,
+      "gas:candidate-vibid:4164038200318": 0,
+      "gas:candidate-vibid:4164038200535": 0,
+      "gas:candidate-vibid:4164038200618": 0,
+      "gas:candidate-vibid:4164038200764": 198,
+      "gas:candidate-vibid:4164038200659": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tatarstan?action=show&root=1000041&tvd=21620001562299&vrn=100100067795849&region=16&global=&sub_region=16&prver=0&pronetvd=null&vibid=21620001562299&type=464",
@@ -11956,13 +11956,13 @@ export const duma_2016_uik_463_region_16_part_006 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Артемьева Анна Владимировна": 6,
-      "Вильданов Дамир Насырович": 12,
-      "Закиров Ринат Замильевич": 9,
-      "Иосипов Евгений Константинович": 6,
-      "Лукин Андрей Михайлович": 0,
-      "Хайруллин Айрат Назипович": 250,
-      "Ягудин Альберт Ахметвагизович": 14
+      "gas:candidate-vibid:4164038200292": 6,
+      "gas:candidate-vibid:4164038200488": 12,
+      "gas:candidate-vibid:4164038200318": 9,
+      "gas:candidate-vibid:4164038200535": 6,
+      "gas:candidate-vibid:4164038200618": 0,
+      "gas:candidate-vibid:4164038200764": 250,
+      "gas:candidate-vibid:4164038200659": 14
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tatarstan?action=show&root=1000041&tvd=21620001562299&vrn=100100067795849&region=16&global=&sub_region=16&prver=0&pronetvd=null&vibid=21620001562299&type=464",
@@ -12013,13 +12013,13 @@ export const duma_2016_uik_463_region_16_part_006 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Артемьева Анна Владимировна": 0,
-      "Вильданов Дамир Насырович": 5,
-      "Закиров Ринат Замильевич": 2,
-      "Иосипов Евгений Константинович": 0,
-      "Лукин Андрей Михайлович": 0,
-      "Хайруллин Айрат Назипович": 220,
-      "Ягудин Альберт Ахметвагизович": 3
+      "gas:candidate-vibid:4164038200292": 0,
+      "gas:candidate-vibid:4164038200488": 5,
+      "gas:candidate-vibid:4164038200318": 2,
+      "gas:candidate-vibid:4164038200535": 0,
+      "gas:candidate-vibid:4164038200618": 0,
+      "gas:candidate-vibid:4164038200764": 220,
+      "gas:candidate-vibid:4164038200659": 3
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tatarstan?action=show&root=1000041&tvd=21620001562299&vrn=100100067795849&region=16&global=&sub_region=16&prver=0&pronetvd=null&vibid=21620001562299&type=464",
@@ -12070,13 +12070,13 @@ export const duma_2016_uik_463_region_16_part_006 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Артемьева Анна Владимировна": 13,
-      "Вильданов Дамир Насырович": 11,
-      "Закиров Ринат Замильевич": 0,
-      "Иосипов Евгений Константинович": 0,
-      "Лукин Андрей Михайлович": 0,
-      "Хайруллин Айрат Назипович": 444,
-      "Ягудин Альберт Ахметвагизович": 13
+      "gas:candidate-vibid:4164038200292": 13,
+      "gas:candidate-vibid:4164038200488": 11,
+      "gas:candidate-vibid:4164038200318": 0,
+      "gas:candidate-vibid:4164038200535": 0,
+      "gas:candidate-vibid:4164038200618": 0,
+      "gas:candidate-vibid:4164038200764": 444,
+      "gas:candidate-vibid:4164038200659": 13
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tatarstan?action=show&root=1000041&tvd=21620001562299&vrn=100100067795849&region=16&global=&sub_region=16&prver=0&pronetvd=null&vibid=21620001562299&type=464",
@@ -12127,13 +12127,13 @@ export const duma_2016_uik_463_region_16_part_006 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Артемьева Анна Владимировна": 55,
-      "Вильданов Дамир Насырович": 33,
-      "Закиров Ринат Замильевич": 11,
-      "Иосипов Евгений Константинович": 23,
-      "Лукин Андрей Михайлович": 20,
-      "Хайруллин Айрат Назипович": 800,
-      "Ягудин Альберт Ахметвагизович": 54
+      "gas:candidate-vibid:4164038200292": 55,
+      "gas:candidate-vibid:4164038200488": 33,
+      "gas:candidate-vibid:4164038200318": 11,
+      "gas:candidate-vibid:4164038200535": 23,
+      "gas:candidate-vibid:4164038200618": 20,
+      "gas:candidate-vibid:4164038200764": 800,
+      "gas:candidate-vibid:4164038200659": 54
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tatarstan?action=show&root=1000041&tvd=21620001562299&vrn=100100067795849&region=16&global=&sub_region=16&prver=0&pronetvd=null&vibid=21620001562299&type=464",
@@ -12184,13 +12184,13 @@ export const duma_2016_uik_463_region_16_part_006 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Артемьева Анна Владимировна": 1,
-      "Вильданов Дамир Насырович": 0,
-      "Закиров Ринат Замильевич": 1,
-      "Иосипов Евгений Константинович": 0,
-      "Лукин Андрей Михайлович": 1,
-      "Хайруллин Айрат Назипович": 137,
-      "Ягудин Альберт Ахметвагизович": 11
+      "gas:candidate-vibid:4164038200292": 1,
+      "gas:candidate-vibid:4164038200488": 0,
+      "gas:candidate-vibid:4164038200318": 1,
+      "gas:candidate-vibid:4164038200535": 0,
+      "gas:candidate-vibid:4164038200618": 1,
+      "gas:candidate-vibid:4164038200764": 137,
+      "gas:candidate-vibid:4164038200659": 11
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tatarstan?action=show&root=1000041&tvd=21620001562299&vrn=100100067795849&region=16&global=&sub_region=16&prver=0&pronetvd=null&vibid=21620001562299&type=464",
@@ -12241,13 +12241,13 @@ export const duma_2016_uik_463_region_16_part_006 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Артемьева Анна Владимировна": 5,
-      "Вильданов Дамир Насырович": 5,
-      "Закиров Ринат Замильевич": 0,
-      "Иосипов Евгений Константинович": 1,
-      "Лукин Андрей Михайлович": 3,
-      "Хайруллин Айрат Назипович": 267,
-      "Ягудин Альберт Ахметвагизович": 7
+      "gas:candidate-vibid:4164038200292": 5,
+      "gas:candidate-vibid:4164038200488": 5,
+      "gas:candidate-vibid:4164038200318": 0,
+      "gas:candidate-vibid:4164038200535": 1,
+      "gas:candidate-vibid:4164038200618": 3,
+      "gas:candidate-vibid:4164038200764": 267,
+      "gas:candidate-vibid:4164038200659": 7
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tatarstan?action=show&root=1000041&tvd=21620001562299&vrn=100100067795849&region=16&global=&sub_region=16&prver=0&pronetvd=null&vibid=21620001562299&type=464",
@@ -12298,13 +12298,13 @@ export const duma_2016_uik_463_region_16_part_006 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Артемьева Анна Владимировна": 5,
-      "Вильданов Дамир Насырович": 49,
-      "Закиров Ринат Замильевич": 8,
-      "Иосипов Евгений Константинович": 4,
-      "Лукин Андрей Михайлович": 4,
-      "Хайруллин Айрат Назипович": 550,
-      "Ягудин Альберт Ахметвагизович": 4
+      "gas:candidate-vibid:4164038200292": 5,
+      "gas:candidate-vibid:4164038200488": 49,
+      "gas:candidate-vibid:4164038200318": 8,
+      "gas:candidate-vibid:4164038200535": 4,
+      "gas:candidate-vibid:4164038200618": 4,
+      "gas:candidate-vibid:4164038200764": 550,
+      "gas:candidate-vibid:4164038200659": 4
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tatarstan?action=show&root=1000041&tvd=21620001562299&vrn=100100067795849&region=16&global=&sub_region=16&prver=0&pronetvd=null&vibid=21620001562299&type=464",
@@ -12355,13 +12355,13 @@ export const duma_2016_uik_463_region_16_part_006 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Артемьева Анна Владимировна": 9,
-      "Вильданов Дамир Насырович": 4,
-      "Закиров Ринат Замильевич": 2,
-      "Иосипов Евгений Константинович": 10,
-      "Лукин Андрей Михайлович": 6,
-      "Хайруллин Айрат Назипович": 592,
-      "Ягудин Альберт Ахметвагизович": 3
+      "gas:candidate-vibid:4164038200292": 9,
+      "gas:candidate-vibid:4164038200488": 4,
+      "gas:candidate-vibid:4164038200318": 2,
+      "gas:candidate-vibid:4164038200535": 10,
+      "gas:candidate-vibid:4164038200618": 6,
+      "gas:candidate-vibid:4164038200764": 592,
+      "gas:candidate-vibid:4164038200659": 3
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tatarstan?action=show&root=1000041&tvd=21620001562299&vrn=100100067795849&region=16&global=&sub_region=16&prver=0&pronetvd=null&vibid=21620001562299&type=464",
@@ -12412,13 +12412,13 @@ export const duma_2016_uik_463_region_16_part_006 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Артемьева Анна Владимировна": 27,
-      "Вильданов Дамир Насырович": 9,
-      "Закиров Ринат Замильевич": 5,
-      "Иосипов Евгений Константинович": 9,
-      "Лукин Андрей Михайлович": 9,
-      "Хайруллин Айрат Назипович": 491,
-      "Ягудин Альберт Ахметвагизович": 17
+      "gas:candidate-vibid:4164038200292": 27,
+      "gas:candidate-vibid:4164038200488": 9,
+      "gas:candidate-vibid:4164038200318": 5,
+      "gas:candidate-vibid:4164038200535": 9,
+      "gas:candidate-vibid:4164038200618": 9,
+      "gas:candidate-vibid:4164038200764": 491,
+      "gas:candidate-vibid:4164038200659": 17
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tatarstan?action=show&root=1000041&tvd=21620001562299&vrn=100100067795849&region=16&global=&sub_region=16&prver=0&pronetvd=null&vibid=21620001562299&type=464",
@@ -12469,13 +12469,13 @@ export const duma_2016_uik_463_region_16_part_006 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Артемьева Анна Владимировна": 27,
-      "Вильданов Дамир Насырович": 7,
-      "Закиров Ринат Замильевич": 1,
-      "Иосипов Евгений Константинович": 10,
-      "Лукин Андрей Михайлович": 7,
-      "Хайруллин Айрат Назипович": 446,
-      "Ягудин Альберт Ахметвагизович": 5
+      "gas:candidate-vibid:4164038200292": 27,
+      "gas:candidate-vibid:4164038200488": 7,
+      "gas:candidate-vibid:4164038200318": 1,
+      "gas:candidate-vibid:4164038200535": 10,
+      "gas:candidate-vibid:4164038200618": 7,
+      "gas:candidate-vibid:4164038200764": 446,
+      "gas:candidate-vibid:4164038200659": 5
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tatarstan?action=show&root=1000041&tvd=21620001562299&vrn=100100067795849&region=16&global=&sub_region=16&prver=0&pronetvd=null&vibid=21620001562299&type=464",
@@ -12526,13 +12526,13 @@ export const duma_2016_uik_463_region_16_part_006 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Артемьева Анна Владимировна": 1,
-      "Вильданов Дамир Насырович": 6,
-      "Закиров Ринат Замильевич": 4,
-      "Иосипов Евгений Константинович": 8,
-      "Лукин Андрей Михайлович": 3,
-      "Хайруллин Айрат Назипович": 204,
-      "Ягудин Альберт Ахметвагизович": 9
+      "gas:candidate-vibid:4164038200292": 1,
+      "gas:candidate-vibid:4164038200488": 6,
+      "gas:candidate-vibid:4164038200318": 4,
+      "gas:candidate-vibid:4164038200535": 8,
+      "gas:candidate-vibid:4164038200618": 3,
+      "gas:candidate-vibid:4164038200764": 204,
+      "gas:candidate-vibid:4164038200659": 9
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tatarstan?action=show&root=1000041&tvd=21620001562299&vrn=100100067795849&region=16&global=&sub_region=16&prver=0&pronetvd=null&vibid=21620001562299&type=464",
@@ -12583,13 +12583,13 @@ export const duma_2016_uik_463_region_16_part_006 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Артемьева Анна Владимировна": 10,
-      "Вильданов Дамир Насырович": 11,
-      "Закиров Ринат Замильевич": 4,
-      "Иосипов Евгений Константинович": 8,
-      "Лукин Андрей Михайлович": 8,
-      "Хайруллин Айрат Назипович": 374,
-      "Ягудин Альберт Ахметвагизович": 10
+      "gas:candidate-vibid:4164038200292": 10,
+      "gas:candidate-vibid:4164038200488": 11,
+      "gas:candidate-vibid:4164038200318": 4,
+      "gas:candidate-vibid:4164038200535": 8,
+      "gas:candidate-vibid:4164038200618": 8,
+      "gas:candidate-vibid:4164038200764": 374,
+      "gas:candidate-vibid:4164038200659": 10
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tatarstan?action=show&root=1000041&tvd=21620001562299&vrn=100100067795849&region=16&global=&sub_region=16&prver=0&pronetvd=null&vibid=21620001562299&type=464",
@@ -12640,13 +12640,13 @@ export const duma_2016_uik_463_region_16_part_006 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Артемьева Анна Владимировна": 33,
-      "Вильданов Дамир Насырович": 13,
-      "Закиров Ринат Замильевич": 0,
-      "Иосипов Евгений Константинович": 16,
-      "Лукин Андрей Михайлович": 0,
-      "Хайруллин Айрат Назипович": 441,
-      "Ягудин Альберт Ахметвагизович": 0
+      "gas:candidate-vibid:4164038200292": 33,
+      "gas:candidate-vibid:4164038200488": 13,
+      "gas:candidate-vibid:4164038200318": 0,
+      "gas:candidate-vibid:4164038200535": 16,
+      "gas:candidate-vibid:4164038200618": 0,
+      "gas:candidate-vibid:4164038200764": 441,
+      "gas:candidate-vibid:4164038200659": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tatarstan?action=show&root=1000041&tvd=21620001562299&vrn=100100067795849&region=16&global=&sub_region=16&prver=0&pronetvd=null&vibid=21620001562299&type=464",
@@ -12697,13 +12697,13 @@ export const duma_2016_uik_463_region_16_part_006 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Артемьева Анна Владимировна": 28,
-      "Вильданов Дамир Насырович": 23,
-      "Закиров Ринат Замильевич": 21,
-      "Иосипов Евгений Константинович": 20,
-      "Лукин Андрей Михайлович": 22,
-      "Хайруллин Айрат Назипович": 840,
-      "Ягудин Альберт Ахметвагизович": 36
+      "gas:candidate-vibid:4164038200292": 28,
+      "gas:candidate-vibid:4164038200488": 23,
+      "gas:candidate-vibid:4164038200318": 21,
+      "gas:candidate-vibid:4164038200535": 20,
+      "gas:candidate-vibid:4164038200618": 22,
+      "gas:candidate-vibid:4164038200764": 840,
+      "gas:candidate-vibid:4164038200659": 36
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tatarstan?action=show&root=1000041&tvd=21620001562299&vrn=100100067795849&region=16&global=&sub_region=16&prver=0&pronetvd=null&vibid=21620001562299&type=464",
@@ -12754,13 +12754,13 @@ export const duma_2016_uik_463_region_16_part_006 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Артемьева Анна Владимировна": 6,
-      "Вильданов Дамир Насырович": 42,
-      "Закиров Ринат Замильевич": 5,
-      "Иосипов Евгений Константинович": 4,
-      "Лукин Андрей Михайлович": 8,
-      "Хайруллин Айрат Назипович": 2086,
-      "Ягудин Альберт Ахметвагизович": 44
+      "gas:candidate-vibid:4164038200292": 6,
+      "gas:candidate-vibid:4164038200488": 42,
+      "gas:candidate-vibid:4164038200318": 5,
+      "gas:candidate-vibid:4164038200535": 4,
+      "gas:candidate-vibid:4164038200618": 8,
+      "gas:candidate-vibid:4164038200764": 2086,
+      "gas:candidate-vibid:4164038200659": 44
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tatarstan?action=show&root=1000041&tvd=21620001562299&vrn=100100067795849&region=16&global=&sub_region=16&prver=0&pronetvd=null&vibid=21620001562299&type=464",
@@ -12811,13 +12811,13 @@ export const duma_2016_uik_463_region_16_part_006 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Артемьева Анна Владимировна": 4,
-      "Вильданов Дамир Насырович": 32,
-      "Закиров Ринат Замильевич": 2,
-      "Иосипов Евгений Константинович": 3,
-      "Лукин Андрей Михайлович": 4,
-      "Хайруллин Айрат Назипович": 2030,
-      "Ягудин Альберт Ахметвагизович": 40
+      "gas:candidate-vibid:4164038200292": 4,
+      "gas:candidate-vibid:4164038200488": 32,
+      "gas:candidate-vibid:4164038200318": 2,
+      "gas:candidate-vibid:4164038200535": 3,
+      "gas:candidate-vibid:4164038200618": 4,
+      "gas:candidate-vibid:4164038200764": 2030,
+      "gas:candidate-vibid:4164038200659": 40
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tatarstan?action=show&root=1000041&tvd=21620001562299&vrn=100100067795849&region=16&global=&sub_region=16&prver=0&pronetvd=null&vibid=21620001562299&type=464",
@@ -12868,13 +12868,13 @@ export const duma_2016_uik_463_region_16_part_006 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Артемьева Анна Владимировна": 36,
-      "Вильданов Дамир Насырович": 9,
-      "Закиров Ринат Замильевич": 0,
-      "Иосипов Евгений Константинович": 0,
-      "Лукин Андрей Михайлович": 0,
-      "Хайруллин Айрат Назипович": 2049,
-      "Ягудин Альберт Ахметвагизович": 40
+      "gas:candidate-vibid:4164038200292": 36,
+      "gas:candidate-vibid:4164038200488": 9,
+      "gas:candidate-vibid:4164038200318": 0,
+      "gas:candidate-vibid:4164038200535": 0,
+      "gas:candidate-vibid:4164038200618": 0,
+      "gas:candidate-vibid:4164038200764": 2049,
+      "gas:candidate-vibid:4164038200659": 40
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tatarstan?action=show&root=1000041&tvd=21620001562299&vrn=100100067795849&region=16&global=&sub_region=16&prver=0&pronetvd=null&vibid=21620001562299&type=464",
@@ -12925,13 +12925,13 @@ export const duma_2016_uik_463_region_16_part_006 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Артемьева Анна Владимировна": 18,
-      "Вильданов Дамир Насырович": 25,
-      "Закиров Ринат Замильевич": 3,
-      "Иосипов Евгений Константинович": 2,
-      "Лукин Андрей Михайлович": 2,
-      "Хайруллин Айрат Назипович": 1903,
-      "Ягудин Альберт Ахметвагизович": 29
+      "gas:candidate-vibid:4164038200292": 18,
+      "gas:candidate-vibid:4164038200488": 25,
+      "gas:candidate-vibid:4164038200318": 3,
+      "gas:candidate-vibid:4164038200535": 2,
+      "gas:candidate-vibid:4164038200618": 2,
+      "gas:candidate-vibid:4164038200764": 1903,
+      "gas:candidate-vibid:4164038200659": 29
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tatarstan?action=show&root=1000041&tvd=21620001562299&vrn=100100067795849&region=16&global=&sub_region=16&prver=0&pronetvd=null&vibid=21620001562299&type=464",
@@ -12982,13 +12982,13 @@ export const duma_2016_uik_463_region_16_part_006 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Артемьева Анна Владимировна": 21,
-      "Вильданов Дамир Насырович": 24,
-      "Закиров Ринат Замильевич": 23,
-      "Иосипов Евгений Константинович": 11,
-      "Лукин Андрей Михайлович": 17,
-      "Хайруллин Айрат Назипович": 2203,
-      "Ягудин Альберт Ахметвагизович": 22
+      "gas:candidate-vibid:4164038200292": 21,
+      "gas:candidate-vibid:4164038200488": 24,
+      "gas:candidate-vibid:4164038200318": 23,
+      "gas:candidate-vibid:4164038200535": 11,
+      "gas:candidate-vibid:4164038200618": 17,
+      "gas:candidate-vibid:4164038200764": 2203,
+      "gas:candidate-vibid:4164038200659": 22
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tatarstan?action=show&root=1000041&tvd=21620001562299&vrn=100100067795849&region=16&global=&sub_region=16&prver=0&pronetvd=null&vibid=21620001562299&type=464",
@@ -13039,13 +13039,13 @@ export const duma_2016_uik_463_region_16_part_006 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Артемьева Анна Владимировна": 32,
-      "Вильданов Дамир Насырович": 30,
-      "Закиров Ринат Замильевич": 24,
-      "Иосипов Евгений Константинович": 11,
-      "Лукин Андрей Михайлович": 5,
-      "Хайруллин Айрат Назипович": 1229,
-      "Ягудин Альберт Ахметвагизович": 37
+      "gas:candidate-vibid:4164038200292": 32,
+      "gas:candidate-vibid:4164038200488": 30,
+      "gas:candidate-vibid:4164038200318": 24,
+      "gas:candidate-vibid:4164038200535": 11,
+      "gas:candidate-vibid:4164038200618": 5,
+      "gas:candidate-vibid:4164038200764": 1229,
+      "gas:candidate-vibid:4164038200659": 37
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tatarstan?action=show&root=1000041&tvd=21620001562300&vrn=100100067795849&region=16&global=&sub_region=16&prver=0&pronetvd=null&vibid=21620001562300&type=464",
@@ -13096,13 +13096,13 @@ export const duma_2016_uik_463_region_16_part_006 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Артемьева Анна Владимировна": 38,
-      "Вильданов Дамир Насырович": 21,
-      "Закиров Ринат Замильевич": 17,
-      "Иосипов Евгений Константинович": 9,
-      "Лукин Андрей Михайлович": 47,
-      "Хайруллин Айрат Назипович": 1241,
-      "Ягудин Альберт Ахметвагизович": 14
+      "gas:candidate-vibid:4164038200292": 38,
+      "gas:candidate-vibid:4164038200488": 21,
+      "gas:candidate-vibid:4164038200318": 17,
+      "gas:candidate-vibid:4164038200535": 9,
+      "gas:candidate-vibid:4164038200618": 47,
+      "gas:candidate-vibid:4164038200764": 1241,
+      "gas:candidate-vibid:4164038200659": 14
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tatarstan?action=show&root=1000041&tvd=21620001562300&vrn=100100067795849&region=16&global=&sub_region=16&prver=0&pronetvd=null&vibid=21620001562300&type=464",
@@ -13153,13 +13153,13 @@ export const duma_2016_uik_463_region_16_part_006 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Артемьева Анна Владимировна": 11,
-      "Вильданов Дамир Насырович": 15,
-      "Закиров Ринат Замильевич": 0,
-      "Иосипов Евгений Константинович": 0,
-      "Лукин Андрей Михайлович": 16,
-      "Хайруллин Айрат Назипович": 1370,
-      "Ягудин Альберт Ахметвагизович": 79
+      "gas:candidate-vibid:4164038200292": 11,
+      "gas:candidate-vibid:4164038200488": 15,
+      "gas:candidate-vibid:4164038200318": 0,
+      "gas:candidate-vibid:4164038200535": 0,
+      "gas:candidate-vibid:4164038200618": 16,
+      "gas:candidate-vibid:4164038200764": 1370,
+      "gas:candidate-vibid:4164038200659": 79
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tatarstan?action=show&root=1000041&tvd=21620001562300&vrn=100100067795849&region=16&global=&sub_region=16&prver=0&pronetvd=null&vibid=21620001562300&type=464",
@@ -13210,13 +13210,13 @@ export const duma_2016_uik_463_region_16_part_006 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Артемьева Анна Владимировна": 14,
-      "Вильданов Дамир Насырович": 14,
-      "Закиров Ринат Замильевич": 6,
-      "Иосипов Евгений Константинович": 7,
-      "Лукин Андрей Михайлович": 27,
-      "Хайруллин Айрат Назипович": 1149,
-      "Ягудин Альберт Ахметвагизович": 157
+      "gas:candidate-vibid:4164038200292": 14,
+      "gas:candidate-vibid:4164038200488": 14,
+      "gas:candidate-vibid:4164038200318": 6,
+      "gas:candidate-vibid:4164038200535": 7,
+      "gas:candidate-vibid:4164038200618": 27,
+      "gas:candidate-vibid:4164038200764": 1149,
+      "gas:candidate-vibid:4164038200659": 157
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tatarstan?action=show&root=1000041&tvd=21620001562300&vrn=100100067795849&region=16&global=&sub_region=16&prver=0&pronetvd=null&vibid=21620001562300&type=464",
@@ -13267,13 +13267,13 @@ export const duma_2016_uik_463_region_16_part_006 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Артемьева Анна Владимировна": 25,
-      "Вильданов Дамир Насырович": 20,
-      "Закиров Ринат Замильевич": 7,
-      "Иосипов Евгений Константинович": 26,
-      "Лукин Андрей Михайлович": 19,
-      "Хайруллин Айрат Назипович": 1147,
-      "Ягудин Альберт Ахметвагизович": 66
+      "gas:candidate-vibid:4164038200292": 25,
+      "gas:candidate-vibid:4164038200488": 20,
+      "gas:candidate-vibid:4164038200318": 7,
+      "gas:candidate-vibid:4164038200535": 26,
+      "gas:candidate-vibid:4164038200618": 19,
+      "gas:candidate-vibid:4164038200764": 1147,
+      "gas:candidate-vibid:4164038200659": 66
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tatarstan?action=show&root=1000041&tvd=21620001562300&vrn=100100067795849&region=16&global=&sub_region=16&prver=0&pronetvd=null&vibid=21620001562300&type=464",
@@ -13324,13 +13324,13 @@ export const duma_2016_uik_463_region_16_part_006 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Артемьева Анна Владимировна": 6,
-      "Вильданов Дамир Насырович": 5,
-      "Закиров Ринат Замильевич": 5,
-      "Иосипов Евгений Константинович": 12,
-      "Лукин Андрей Михайлович": 47,
-      "Хайруллин Айрат Назипович": 1195,
-      "Ягудин Альберт Ахметвагизович": 65
+      "gas:candidate-vibid:4164038200292": 6,
+      "gas:candidate-vibid:4164038200488": 5,
+      "gas:candidate-vibid:4164038200318": 5,
+      "gas:candidate-vibid:4164038200535": 12,
+      "gas:candidate-vibid:4164038200618": 47,
+      "gas:candidate-vibid:4164038200764": 1195,
+      "gas:candidate-vibid:4164038200659": 65
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tatarstan?action=show&root=1000041&tvd=21620001562300&vrn=100100067795849&region=16&global=&sub_region=16&prver=0&pronetvd=null&vibid=21620001562300&type=464",
@@ -13381,13 +13381,13 @@ export const duma_2016_uik_463_region_16_part_006 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Артемьева Анна Владимировна": 51,
-      "Вильданов Дамир Насырович": 44,
-      "Закиров Ринат Замильевич": 6,
-      "Иосипов Евгений Константинович": 16,
-      "Лукин Андрей Михайлович": 18,
-      "Хайруллин Айрат Назипович": 1190,
-      "Ягудин Альберт Ахметвагизович": 34
+      "gas:candidate-vibid:4164038200292": 51,
+      "gas:candidate-vibid:4164038200488": 44,
+      "gas:candidate-vibid:4164038200318": 6,
+      "gas:candidate-vibid:4164038200535": 16,
+      "gas:candidate-vibid:4164038200618": 18,
+      "gas:candidate-vibid:4164038200764": 1190,
+      "gas:candidate-vibid:4164038200659": 34
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tatarstan?action=show&root=1000041&tvd=21620001562300&vrn=100100067795849&region=16&global=&sub_region=16&prver=0&pronetvd=null&vibid=21620001562300&type=464",
@@ -13438,13 +13438,13 @@ export const duma_2016_uik_463_region_16_part_006 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Артемьева Анна Владимировна": 18,
-      "Вильданов Дамир Насырович": 4,
-      "Закиров Ринат Замильевич": 2,
-      "Иосипов Евгений Константинович": 4,
-      "Лукин Андрей Михайлович": 3,
-      "Хайруллин Айрат Назипович": 1251,
-      "Ягудин Альберт Ахметвагизович": 111
+      "gas:candidate-vibid:4164038200292": 18,
+      "gas:candidate-vibid:4164038200488": 4,
+      "gas:candidate-vibid:4164038200318": 2,
+      "gas:candidate-vibid:4164038200535": 4,
+      "gas:candidate-vibid:4164038200618": 3,
+      "gas:candidate-vibid:4164038200764": 1251,
+      "gas:candidate-vibid:4164038200659": 111
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tatarstan?action=show&root=1000041&tvd=21620001562300&vrn=100100067795849&region=16&global=&sub_region=16&prver=0&pronetvd=null&vibid=21620001562300&type=464",
@@ -13495,13 +13495,13 @@ export const duma_2016_uik_463_region_16_part_006 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Артемьева Анна Владимировна": 26,
-      "Вильданов Дамир Насырович": 28,
-      "Закиров Ринат Замильевич": 0,
-      "Иосипов Евгений Константинович": 0,
-      "Лукин Андрей Михайлович": 0,
-      "Хайруллин Айрат Назипович": 1249,
-      "Ягудин Альберт Ахметвагизович": 89
+      "gas:candidate-vibid:4164038200292": 26,
+      "gas:candidate-vibid:4164038200488": 28,
+      "gas:candidate-vibid:4164038200318": 0,
+      "gas:candidate-vibid:4164038200535": 0,
+      "gas:candidate-vibid:4164038200618": 0,
+      "gas:candidate-vibid:4164038200764": 1249,
+      "gas:candidate-vibid:4164038200659": 89
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tatarstan?action=show&root=1000041&tvd=21620001562300&vrn=100100067795849&region=16&global=&sub_region=16&prver=0&pronetvd=null&vibid=21620001562300&type=464",
@@ -13552,13 +13552,13 @@ export const duma_2016_uik_463_region_16_part_006 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Артемьева Анна Владимировна": 19,
-      "Вильданов Дамир Насырович": 17,
-      "Закиров Ринат Замильевич": 9,
-      "Иосипов Евгений Константинович": 1,
-      "Лукин Андрей Михайлович": 40,
-      "Хайруллин Айрат Назипович": 1309,
-      "Ягудин Альберт Ахметвагизович": 45
+      "gas:candidate-vibid:4164038200292": 19,
+      "gas:candidate-vibid:4164038200488": 17,
+      "gas:candidate-vibid:4164038200318": 9,
+      "gas:candidate-vibid:4164038200535": 1,
+      "gas:candidate-vibid:4164038200618": 40,
+      "gas:candidate-vibid:4164038200764": 1309,
+      "gas:candidate-vibid:4164038200659": 45
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tatarstan?action=show&root=1000041&tvd=21620001562300&vrn=100100067795849&region=16&global=&sub_region=16&prver=0&pronetvd=null&vibid=21620001562300&type=464",
@@ -13609,13 +13609,13 @@ export const duma_2016_uik_463_region_16_part_006 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Артемьева Анна Владимировна": 43,
-      "Вильданов Дамир Насырович": 12,
-      "Закиров Ринат Замильевич": 1,
-      "Иосипов Евгений Константинович": 5,
-      "Лукин Андрей Михайлович": 13,
-      "Хайруллин Айрат Назипович": 1401,
-      "Ягудин Альберт Ахметвагизович": 91
+      "gas:candidate-vibid:4164038200292": 43,
+      "gas:candidate-vibid:4164038200488": 12,
+      "gas:candidate-vibid:4164038200318": 1,
+      "gas:candidate-vibid:4164038200535": 5,
+      "gas:candidate-vibid:4164038200618": 13,
+      "gas:candidate-vibid:4164038200764": 1401,
+      "gas:candidate-vibid:4164038200659": 91
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tatarstan?action=show&root=1000041&tvd=21620001562300&vrn=100100067795849&region=16&global=&sub_region=16&prver=0&pronetvd=null&vibid=21620001562300&type=464",
@@ -13666,13 +13666,13 @@ export const duma_2016_uik_463_region_16_part_006 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Артемьева Анна Владимировна": 23,
-      "Вильданов Дамир Насырович": 37,
-      "Закиров Ринат Замильевич": 11,
-      "Иосипов Евгений Константинович": 79,
-      "Лукин Андрей Михайлович": 19,
-      "Хайруллин Айрат Назипович": 1274,
-      "Ягудин Альберт Ахметвагизович": 0
+      "gas:candidate-vibid:4164038200292": 23,
+      "gas:candidate-vibid:4164038200488": 37,
+      "gas:candidate-vibid:4164038200318": 11,
+      "gas:candidate-vibid:4164038200535": 79,
+      "gas:candidate-vibid:4164038200618": 19,
+      "gas:candidate-vibid:4164038200764": 1274,
+      "gas:candidate-vibid:4164038200659": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tatarstan?action=show&root=1000041&tvd=21620001562300&vrn=100100067795849&region=16&global=&sub_region=16&prver=0&pronetvd=null&vibid=21620001562300&type=464",
@@ -13723,13 +13723,13 @@ export const duma_2016_uik_463_region_16_part_006 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Артемьева Анна Владимировна": 6,
-      "Вильданов Дамир Насырович": 17,
-      "Закиров Ринат Замильевич": 22,
-      "Иосипов Евгений Константинович": 16,
-      "Лукин Андрей Михайлович": 18,
-      "Хайруллин Айрат Назипович": 1377,
-      "Ягудин Альберт Ахметвагизович": 49
+      "gas:candidate-vibid:4164038200292": 6,
+      "gas:candidate-vibid:4164038200488": 17,
+      "gas:candidate-vibid:4164038200318": 22,
+      "gas:candidate-vibid:4164038200535": 16,
+      "gas:candidate-vibid:4164038200618": 18,
+      "gas:candidate-vibid:4164038200764": 1377,
+      "gas:candidate-vibid:4164038200659": 49
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tatarstan?action=show&root=1000041&tvd=21620001562300&vrn=100100067795849&region=16&global=&sub_region=16&prver=0&pronetvd=null&vibid=21620001562300&type=464",
@@ -13780,13 +13780,13 @@ export const duma_2016_uik_463_region_16_part_006 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Артемьева Анна Владимировна": 27,
-      "Вильданов Дамир Насырович": 36,
-      "Закиров Ринат Замильевич": 25,
-      "Иосипов Евгений Константинович": 23,
-      "Лукин Андрей Михайлович": 28,
-      "Хайруллин Айрат Назипович": 1293,
-      "Ягудин Альберт Ахметвагизович": 85
+      "gas:candidate-vibid:4164038200292": 27,
+      "gas:candidate-vibid:4164038200488": 36,
+      "gas:candidate-vibid:4164038200318": 25,
+      "gas:candidate-vibid:4164038200535": 23,
+      "gas:candidate-vibid:4164038200618": 28,
+      "gas:candidate-vibid:4164038200764": 1293,
+      "gas:candidate-vibid:4164038200659": 85
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tatarstan?action=show&root=1000041&tvd=21620001562300&vrn=100100067795849&region=16&global=&sub_region=16&prver=0&pronetvd=null&vibid=21620001562300&type=464",
@@ -13837,13 +13837,13 @@ export const duma_2016_uik_463_region_16_part_006 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Артемьева Анна Владимировна": 16,
-      "Вильданов Дамир Насырович": 13,
-      "Закиров Ринат Замильевич": 9,
-      "Иосипов Евгений Константинович": 9,
-      "Лукин Андрей Михайлович": 35,
-      "Хайруллин Айрат Назипович": 1305,
-      "Ягудин Альберт Ахметвагизович": 5
+      "gas:candidate-vibid:4164038200292": 16,
+      "gas:candidate-vibid:4164038200488": 13,
+      "gas:candidate-vibid:4164038200318": 9,
+      "gas:candidate-vibid:4164038200535": 9,
+      "gas:candidate-vibid:4164038200618": 35,
+      "gas:candidate-vibid:4164038200764": 1305,
+      "gas:candidate-vibid:4164038200659": 5
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tatarstan?action=show&root=1000041&tvd=21620001562300&vrn=100100067795849&region=16&global=&sub_region=16&prver=0&pronetvd=null&vibid=21620001562300&type=464",
@@ -13894,13 +13894,13 @@ export const duma_2016_uik_463_region_16_part_006 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Артемьева Анна Владимировна": 3,
-      "Вильданов Дамир Насырович": 5,
-      "Закиров Ринат Замильевич": 4,
-      "Иосипов Евгений Константинович": 7,
-      "Лукин Андрей Михайлович": 128,
-      "Хайруллин Айрат Назипович": 1474,
-      "Ягудин Альберт Ахметвагизович": 12
+      "gas:candidate-vibid:4164038200292": 3,
+      "gas:candidate-vibid:4164038200488": 5,
+      "gas:candidate-vibid:4164038200318": 4,
+      "gas:candidate-vibid:4164038200535": 7,
+      "gas:candidate-vibid:4164038200618": 128,
+      "gas:candidate-vibid:4164038200764": 1474,
+      "gas:candidate-vibid:4164038200659": 12
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tatarstan?action=show&root=1000041&tvd=21620001562300&vrn=100100067795849&region=16&global=&sub_region=16&prver=0&pronetvd=null&vibid=21620001562300&type=464",
@@ -13951,13 +13951,13 @@ export const duma_2016_uik_463_region_16_part_006 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Артемьева Анна Владимировна": 17,
-      "Вильданов Дамир Насырович": 13,
-      "Закиров Ринат Замильевич": 21,
-      "Иосипов Евгений Константинович": 18,
-      "Лукин Андрей Михайлович": 29,
-      "Хайруллин Айрат Назипович": 1463,
-      "Ягудин Альберт Ахметвагизович": 47
+      "gas:candidate-vibid:4164038200292": 17,
+      "gas:candidate-vibid:4164038200488": 13,
+      "gas:candidate-vibid:4164038200318": 21,
+      "gas:candidate-vibid:4164038200535": 18,
+      "gas:candidate-vibid:4164038200618": 29,
+      "gas:candidate-vibid:4164038200764": 1463,
+      "gas:candidate-vibid:4164038200659": 47
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tatarstan?action=show&root=1000041&tvd=21620001562300&vrn=100100067795849&region=16&global=&sub_region=16&prver=0&pronetvd=null&vibid=21620001562300&type=464",
@@ -14008,13 +14008,13 @@ export const duma_2016_uik_463_region_16_part_006 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Артемьева Анна Владимировна": 61,
-      "Вильданов Дамир Насырович": 34,
-      "Закиров Ринат Замильевич": 12,
-      "Иосипов Евгений Константинович": 11,
-      "Лукин Андрей Михайлович": 35,
-      "Хайруллин Айрат Назипович": 1471,
-      "Ягудин Альберт Ахметвагизович": 9
+      "gas:candidate-vibid:4164038200292": 61,
+      "gas:candidate-vibid:4164038200488": 34,
+      "gas:candidate-vibid:4164038200318": 12,
+      "gas:candidate-vibid:4164038200535": 11,
+      "gas:candidate-vibid:4164038200618": 35,
+      "gas:candidate-vibid:4164038200764": 1471,
+      "gas:candidate-vibid:4164038200659": 9
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tatarstan?action=show&root=1000041&tvd=21620001562300&vrn=100100067795849&region=16&global=&sub_region=16&prver=0&pronetvd=null&vibid=21620001562300&type=464",
@@ -14065,13 +14065,13 @@ export const duma_2016_uik_463_region_16_part_006 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Артемьева Анна Владимировна": 15,
-      "Вильданов Дамир Насырович": 11,
-      "Закиров Ринат Замильевич": 4,
-      "Иосипов Евгений Константинович": 10,
-      "Лукин Андрей Михайлович": 36,
-      "Хайруллин Айрат Назипович": 1593,
-      "Ягудин Альберт Ахметвагизович": 75
+      "gas:candidate-vibid:4164038200292": 15,
+      "gas:candidate-vibid:4164038200488": 11,
+      "gas:candidate-vibid:4164038200318": 4,
+      "gas:candidate-vibid:4164038200535": 10,
+      "gas:candidate-vibid:4164038200618": 36,
+      "gas:candidate-vibid:4164038200764": 1593,
+      "gas:candidate-vibid:4164038200659": 75
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tatarstan?action=show&root=1000041&tvd=21620001562300&vrn=100100067795849&region=16&global=&sub_region=16&prver=0&pronetvd=null&vibid=21620001562300&type=464",
@@ -14122,13 +14122,13 @@ export const duma_2016_uik_463_region_16_part_006 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Артемьева Анна Владимировна": 12,
-      "Вильданов Дамир Насырович": 26,
-      "Закиров Ринат Замильевич": 20,
-      "Иосипов Евгений Константинович": 35,
-      "Лукин Андрей Михайлович": 49,
-      "Хайруллин Айрат Назипович": 1564,
-      "Ягудин Альберт Ахметвагизович": 45
+      "gas:candidate-vibid:4164038200292": 12,
+      "gas:candidate-vibid:4164038200488": 26,
+      "gas:candidate-vibid:4164038200318": 20,
+      "gas:candidate-vibid:4164038200535": 35,
+      "gas:candidate-vibid:4164038200618": 49,
+      "gas:candidate-vibid:4164038200764": 1564,
+      "gas:candidate-vibid:4164038200659": 45
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tatarstan?action=show&root=1000041&tvd=21620001562300&vrn=100100067795849&region=16&global=&sub_region=16&prver=0&pronetvd=null&vibid=21620001562300&type=464",
@@ -14179,13 +14179,13 @@ export const duma_2016_uik_463_region_16_part_006 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Артемьева Анна Владимировна": 4,
-      "Вильданов Дамир Насырович": 4,
-      "Закиров Ринат Замильевич": 2,
-      "Иосипов Евгений Константинович": 2,
-      "Лукин Андрей Михайлович": 3,
-      "Хайруллин Айрат Назипович": 777,
-      "Ягудин Альберт Ахметвагизович": 3
+      "gas:candidate-vibid:4164038200292": 4,
+      "gas:candidate-vibid:4164038200488": 4,
+      "gas:candidate-vibid:4164038200318": 2,
+      "gas:candidate-vibid:4164038200535": 2,
+      "gas:candidate-vibid:4164038200618": 3,
+      "gas:candidate-vibid:4164038200764": 777,
+      "gas:candidate-vibid:4164038200659": 3
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tatarstan?action=show&root=1000041&tvd=21620001562301&vrn=100100067795849&region=16&global=&sub_region=16&prver=0&pronetvd=null&vibid=21620001562301&type=464",
@@ -14236,13 +14236,13 @@ export const duma_2016_uik_463_region_16_part_006 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Артемьева Анна Владимировна": 1,
-      "Вильданов Дамир Насырович": 0,
-      "Закиров Ринат Замильевич": 1,
-      "Иосипов Евгений Константинович": 2,
-      "Лукин Андрей Михайлович": 0,
-      "Хайруллин Айрат Назипович": 186,
-      "Ягудин Альберт Ахметвагизович": 0
+      "gas:candidate-vibid:4164038200292": 1,
+      "gas:candidate-vibid:4164038200488": 0,
+      "gas:candidate-vibid:4164038200318": 1,
+      "gas:candidate-vibid:4164038200535": 2,
+      "gas:candidate-vibid:4164038200618": 0,
+      "gas:candidate-vibid:4164038200764": 186,
+      "gas:candidate-vibid:4164038200659": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tatarstan?action=show&root=1000041&tvd=21620001562301&vrn=100100067795849&region=16&global=&sub_region=16&prver=0&pronetvd=null&vibid=21620001562301&type=464",

@@ -38,11 +38,11 @@ export const president_2012_uik_226_region_39_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Жириновский Владимир Вольфович": 71,
-      "Зюганов Геннадий Андреевич": 298,
-      "Миронов Сергей Михайлович": 36,
-      "Прохоров Михаил Дмитриевич": 67,
-      "Путин Владимир Владимирович": 935
+      "gas:candidate-vibid:100100032152680": 71,
+      "gas:candidate-vibid:100100032159240": 298,
+      "gas:candidate-vibid:100100032143255": 36,
+      "gas:candidate-vibid:100100032152563": 67,
+      "gas:candidate-vibid:100100032111402": 935
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kaliningrad?action=show&root=1000071&tvd=2392000257499&vrn=100100031793505&region=39&global=&sub_region=39&prver=0&pronetvd=null&vibid=2392000257499&type=227",
@@ -88,11 +88,11 @@ export const president_2012_uik_226_region_39_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Жириновский Владимир Вольфович": 90,
-      "Зюганов Геннадий Андреевич": 261,
-      "Миронов Сергей Михайлович": 36,
-      "Прохоров Михаил Дмитриевич": 108,
-      "Путин Владимир Владимирович": 800
+      "gas:candidate-vibid:100100032152680": 90,
+      "gas:candidate-vibid:100100032159240": 261,
+      "gas:candidate-vibid:100100032143255": 36,
+      "gas:candidate-vibid:100100032152563": 108,
+      "gas:candidate-vibid:100100032111402": 800
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kaliningrad?action=show&root=1000071&tvd=2392000257499&vrn=100100031793505&region=39&global=&sub_region=39&prver=0&pronetvd=null&vibid=2392000257499&type=227",
@@ -138,11 +138,11 @@ export const president_2012_uik_226_region_39_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Жириновский Владимир Вольфович": 55,
-      "Зюганов Геннадий Андреевич": 128,
-      "Миронов Сергей Михайлович": 24,
-      "Прохоров Михаил Дмитриевич": 63,
-      "Путин Владимир Владимирович": 644
+      "gas:candidate-vibid:100100032152680": 55,
+      "gas:candidate-vibid:100100032159240": 128,
+      "gas:candidate-vibid:100100032143255": 24,
+      "gas:candidate-vibid:100100032152563": 63,
+      "gas:candidate-vibid:100100032111402": 644
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kaliningrad?action=show&root=1000071&tvd=2392000257499&vrn=100100031793505&region=39&global=&sub_region=39&prver=0&pronetvd=null&vibid=2392000257499&type=227",
@@ -188,11 +188,11 @@ export const president_2012_uik_226_region_39_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Жириновский Владимир Вольфович": 54,
-      "Зюганов Геннадий Андреевич": 207,
-      "Миронов Сергей Михайлович": 31,
-      "Прохоров Михаил Дмитриевич": 68,
-      "Путин Владимир Владимирович": 530
+      "gas:candidate-vibid:100100032152680": 54,
+      "gas:candidate-vibid:100100032159240": 207,
+      "gas:candidate-vibid:100100032143255": 31,
+      "gas:candidate-vibid:100100032152563": 68,
+      "gas:candidate-vibid:100100032111402": 530
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kaliningrad?action=show&root=1000071&tvd=2392000257499&vrn=100100031793505&region=39&global=&sub_region=39&prver=0&pronetvd=null&vibid=2392000257499&type=227",
@@ -238,11 +238,11 @@ export const president_2012_uik_226_region_39_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Жириновский Владимир Вольфович": 55,
-      "Зюганов Геннадий Андреевич": 200,
-      "Миронов Сергей Михайлович": 40,
-      "Прохоров Михаил Дмитриевич": 72,
-      "Путин Владимир Владимирович": 580
+      "gas:candidate-vibid:100100032152680": 55,
+      "gas:candidate-vibid:100100032159240": 200,
+      "gas:candidate-vibid:100100032143255": 40,
+      "gas:candidate-vibid:100100032152563": 72,
+      "gas:candidate-vibid:100100032111402": 580
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kaliningrad?action=show&root=1000071&tvd=2392000257499&vrn=100100031793505&region=39&global=&sub_region=39&prver=0&pronetvd=null&vibid=2392000257499&type=227",
@@ -288,11 +288,11 @@ export const president_2012_uik_226_region_39_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Жириновский Владимир Вольфович": 61,
-      "Зюганов Геннадий Андреевич": 224,
-      "Миронов Сергей Михайлович": 39,
-      "Прохоров Михаил Дмитриевич": 102,
-      "Путин Владимир Владимирович": 758
+      "gas:candidate-vibid:100100032152680": 61,
+      "gas:candidate-vibid:100100032159240": 224,
+      "gas:candidate-vibid:100100032143255": 39,
+      "gas:candidate-vibid:100100032152563": 102,
+      "gas:candidate-vibid:100100032111402": 758
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kaliningrad?action=show&root=1000071&tvd=2392000257499&vrn=100100031793505&region=39&global=&sub_region=39&prver=0&pronetvd=null&vibid=2392000257499&type=227",
@@ -338,11 +338,11 @@ export const president_2012_uik_226_region_39_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Жириновский Владимир Вольфович": 44,
-      "Зюганов Геннадий Андреевич": 223,
-      "Миронов Сергей Михайлович": 35,
-      "Прохоров Михаил Дмитриевич": 77,
-      "Путин Владимир Владимирович": 773
+      "gas:candidate-vibid:100100032152680": 44,
+      "gas:candidate-vibid:100100032159240": 223,
+      "gas:candidate-vibid:100100032143255": 35,
+      "gas:candidate-vibid:100100032152563": 77,
+      "gas:candidate-vibid:100100032111402": 773
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kaliningrad?action=show&root=1000071&tvd=2392000257499&vrn=100100031793505&region=39&global=&sub_region=39&prver=0&pronetvd=null&vibid=2392000257499&type=227",
@@ -388,11 +388,11 @@ export const president_2012_uik_226_region_39_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Жириновский Владимир Вольфович": 64,
-      "Зюганов Геннадий Андреевич": 193,
-      "Миронов Сергей Михайлович": 31,
-      "Прохоров Михаил Дмитриевич": 99,
-      "Путин Владимир Владимирович": 547
+      "gas:candidate-vibid:100100032152680": 64,
+      "gas:candidate-vibid:100100032159240": 193,
+      "gas:candidate-vibid:100100032143255": 31,
+      "gas:candidate-vibid:100100032152563": 99,
+      "gas:candidate-vibid:100100032111402": 547
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kaliningrad?action=show&root=1000071&tvd=2392000257499&vrn=100100031793505&region=39&global=&sub_region=39&prver=0&pronetvd=null&vibid=2392000257499&type=227",
@@ -438,11 +438,11 @@ export const president_2012_uik_226_region_39_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Жириновский Владимир Вольфович": 53,
-      "Зюганов Геннадий Андреевич": 122,
-      "Миронов Сергей Михайлович": 25,
-      "Прохоров Михаил Дмитриевич": 89,
-      "Путин Владимир Владимирович": 682
+      "gas:candidate-vibid:100100032152680": 53,
+      "gas:candidate-vibid:100100032159240": 122,
+      "gas:candidate-vibid:100100032143255": 25,
+      "gas:candidate-vibid:100100032152563": 89,
+      "gas:candidate-vibid:100100032111402": 682
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kaliningrad?action=show&root=1000071&tvd=2392000257499&vrn=100100031793505&region=39&global=&sub_region=39&prver=0&pronetvd=null&vibid=2392000257499&type=227",
@@ -488,11 +488,11 @@ export const president_2012_uik_226_region_39_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Жириновский Владимир Вольфович": 67,
-      "Зюганов Геннадий Андреевич": 152,
-      "Миронов Сергей Михайлович": 31,
-      "Прохоров Михаил Дмитриевич": 66,
-      "Путин Владимир Владимирович": 603
+      "gas:candidate-vibid:100100032152680": 67,
+      "gas:candidate-vibid:100100032159240": 152,
+      "gas:candidate-vibid:100100032143255": 31,
+      "gas:candidate-vibid:100100032152563": 66,
+      "gas:candidate-vibid:100100032111402": 603
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kaliningrad?action=show&root=1000071&tvd=2392000257499&vrn=100100031793505&region=39&global=&sub_region=39&prver=0&pronetvd=null&vibid=2392000257499&type=227",
@@ -538,11 +538,11 @@ export const president_2012_uik_226_region_39_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Жириновский Владимир Вольфович": 76,
-      "Зюганов Геннадий Андреевич": 267,
-      "Миронов Сергей Михайлович": 84,
-      "Прохоров Михаил Дмитриевич": 107,
-      "Путин Владимир Владимирович": 679
+      "gas:candidate-vibid:100100032152680": 76,
+      "gas:candidate-vibid:100100032159240": 267,
+      "gas:candidate-vibid:100100032143255": 84,
+      "gas:candidate-vibid:100100032152563": 107,
+      "gas:candidate-vibid:100100032111402": 679
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kaliningrad?action=show&root=1000071&tvd=2392000257500&vrn=100100031793505&region=39&global=&sub_region=39&prver=0&pronetvd=null&vibid=2392000257500&type=227",
@@ -588,11 +588,11 @@ export const president_2012_uik_226_region_39_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Жириновский Владимир Вольфович": 60,
-      "Зюганов Геннадий Андреевич": 136,
-      "Миронов Сергей Михайлович": 39,
-      "Прохоров Михаил Дмитриевич": 74,
-      "Путин Владимир Владимирович": 488
+      "gas:candidate-vibid:100100032152680": 60,
+      "gas:candidate-vibid:100100032159240": 136,
+      "gas:candidate-vibid:100100032143255": 39,
+      "gas:candidate-vibid:100100032152563": 74,
+      "gas:candidate-vibid:100100032111402": 488
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kaliningrad?action=show&root=1000071&tvd=2392000257500&vrn=100100031793505&region=39&global=&sub_region=39&prver=0&pronetvd=null&vibid=2392000257500&type=227",
@@ -638,11 +638,11 @@ export const president_2012_uik_226_region_39_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Жириновский Владимир Вольфович": 116,
-      "Зюганов Геннадий Андреевич": 134,
-      "Миронов Сергей Михайлович": 44,
-      "Прохоров Михаил Дмитриевич": 64,
-      "Путин Владимир Владимирович": 544
+      "gas:candidate-vibid:100100032152680": 116,
+      "gas:candidate-vibid:100100032159240": 134,
+      "gas:candidate-vibid:100100032143255": 44,
+      "gas:candidate-vibid:100100032152563": 64,
+      "gas:candidate-vibid:100100032111402": 544
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kaliningrad?action=show&root=1000071&tvd=2392000257500&vrn=100100031793505&region=39&global=&sub_region=39&prver=0&pronetvd=null&vibid=2392000257500&type=227",
@@ -688,11 +688,11 @@ export const president_2012_uik_226_region_39_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Жириновский Владимир Вольфович": 19,
-      "Зюганов Геннадий Андреевич": 29,
-      "Миронов Сергей Михайлович": 7,
-      "Прохоров Михаил Дмитриевич": 11,
-      "Путин Владимир Владимирович": 111
+      "gas:candidate-vibid:100100032152680": 19,
+      "gas:candidate-vibid:100100032159240": 29,
+      "gas:candidate-vibid:100100032143255": 7,
+      "gas:candidate-vibid:100100032152563": 11,
+      "gas:candidate-vibid:100100032111402": 111
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kaliningrad?action=show&root=1000071&tvd=2392000257500&vrn=100100031793505&region=39&global=&sub_region=39&prver=0&pronetvd=null&vibid=2392000257500&type=227",
@@ -738,11 +738,11 @@ export const president_2012_uik_226_region_39_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Жириновский Владимир Вольфович": 5,
-      "Зюганов Геннадий Андреевич": 11,
-      "Миронов Сергей Михайлович": 3,
-      "Прохоров Михаил Дмитриевич": 5,
-      "Путин Владимир Владимирович": 87
+      "gas:candidate-vibid:100100032152680": 5,
+      "gas:candidate-vibid:100100032159240": 11,
+      "gas:candidate-vibid:100100032143255": 3,
+      "gas:candidate-vibid:100100032152563": 5,
+      "gas:candidate-vibid:100100032111402": 87
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kaliningrad?action=show&root=1000071&tvd=2392000257500&vrn=100100031793505&region=39&global=&sub_region=39&prver=0&pronetvd=null&vibid=2392000257500&type=227",
@@ -788,11 +788,11 @@ export const president_2012_uik_226_region_39_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Жириновский Владимир Вольфович": 20,
-      "Зюганов Геннадий Андреевич": 35,
-      "Миронов Сергей Михайлович": 8,
-      "Прохоров Михаил Дмитриевич": 33,
-      "Путин Владимир Владимирович": 159
+      "gas:candidate-vibid:100100032152680": 20,
+      "gas:candidate-vibid:100100032159240": 35,
+      "gas:candidate-vibid:100100032143255": 8,
+      "gas:candidate-vibid:100100032152563": 33,
+      "gas:candidate-vibid:100100032111402": 159
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kaliningrad?action=show&root=1000071&tvd=2392000257500&vrn=100100031793505&region=39&global=&sub_region=39&prver=0&pronetvd=null&vibid=2392000257500&type=227",
@@ -838,11 +838,11 @@ export const president_2012_uik_226_region_39_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Жириновский Владимир Вольфович": 18,
-      "Зюганов Геннадий Андреевич": 17,
-      "Миронов Сергей Михайлович": 4,
-      "Прохоров Михаил Дмитриевич": 10,
-      "Путин Владимир Владимирович": 132
+      "gas:candidate-vibid:100100032152680": 18,
+      "gas:candidate-vibid:100100032159240": 17,
+      "gas:candidate-vibid:100100032143255": 4,
+      "gas:candidate-vibid:100100032152563": 10,
+      "gas:candidate-vibid:100100032111402": 132
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kaliningrad?action=show&root=1000071&tvd=2392000257500&vrn=100100031793505&region=39&global=&sub_region=39&prver=0&pronetvd=null&vibid=2392000257500&type=227",
@@ -888,11 +888,11 @@ export const president_2012_uik_226_region_39_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Жириновский Владимир Вольфович": 5,
-      "Зюганов Геннадий Андреевич": 9,
-      "Миронов Сергей Михайлович": 5,
-      "Прохоров Михаил Дмитриевич": 8,
-      "Путин Владимир Владимирович": 59
+      "gas:candidate-vibid:100100032152680": 5,
+      "gas:candidate-vibid:100100032159240": 9,
+      "gas:candidate-vibid:100100032143255": 5,
+      "gas:candidate-vibid:100100032152563": 8,
+      "gas:candidate-vibid:100100032111402": 59
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kaliningrad?action=show&root=1000071&tvd=2392000257500&vrn=100100031793505&region=39&global=&sub_region=39&prver=0&pronetvd=null&vibid=2392000257500&type=227",
@@ -938,11 +938,11 @@ export const president_2012_uik_226_region_39_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Жириновский Владимир Вольфович": 33,
-      "Зюганов Геннадий Андреевич": 62,
-      "Миронов Сергей Михайлович": 9,
-      "Прохоров Михаил Дмитриевич": 20,
-      "Путин Владимир Владимирович": 246
+      "gas:candidate-vibid:100100032152680": 33,
+      "gas:candidate-vibid:100100032159240": 62,
+      "gas:candidate-vibid:100100032143255": 9,
+      "gas:candidate-vibid:100100032152563": 20,
+      "gas:candidate-vibid:100100032111402": 246
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kaliningrad?action=show&root=1000071&tvd=2392000257500&vrn=100100031793505&region=39&global=&sub_region=39&prver=0&pronetvd=null&vibid=2392000257500&type=227",
@@ -988,11 +988,11 @@ export const president_2012_uik_226_region_39_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Жириновский Владимир Вольфович": 41,
-      "Зюганов Геннадий Андреевич": 37,
-      "Миронов Сергей Михайлович": 14,
-      "Прохоров Михаил Дмитриевич": 12,
-      "Путин Владимир Владимирович": 181
+      "gas:candidate-vibid:100100032152680": 41,
+      "gas:candidate-vibid:100100032159240": 37,
+      "gas:candidate-vibid:100100032143255": 14,
+      "gas:candidate-vibid:100100032152563": 12,
+      "gas:candidate-vibid:100100032111402": 181
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kaliningrad?action=show&root=1000071&tvd=2392000257500&vrn=100100031793505&region=39&global=&sub_region=39&prver=0&pronetvd=null&vibid=2392000257500&type=227",
@@ -1038,11 +1038,11 @@ export const president_2012_uik_226_region_39_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Жириновский Владимир Вольфович": 4,
-      "Зюганов Геннадий Андреевич": 24,
-      "Миронов Сергей Михайлович": 11,
-      "Прохоров Михаил Дмитриевич": 9,
-      "Путин Владимир Владимирович": 116
+      "gas:candidate-vibid:100100032152680": 4,
+      "gas:candidate-vibid:100100032159240": 24,
+      "gas:candidate-vibid:100100032143255": 11,
+      "gas:candidate-vibid:100100032152563": 9,
+      "gas:candidate-vibid:100100032111402": 116
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kaliningrad?action=show&root=1000071&tvd=2392000257500&vrn=100100031793505&region=39&global=&sub_region=39&prver=0&pronetvd=null&vibid=2392000257500&type=227",
@@ -1088,11 +1088,11 @@ export const president_2012_uik_226_region_39_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Жириновский Владимир Вольфович": 23,
-      "Зюганов Геннадий Андреевич": 43,
-      "Миронов Сергей Михайлович": 9,
-      "Прохоров Михаил Дмитриевич": 13,
-      "Путин Владимир Владимирович": 199
+      "gas:candidate-vibid:100100032152680": 23,
+      "gas:candidate-vibid:100100032159240": 43,
+      "gas:candidate-vibid:100100032143255": 9,
+      "gas:candidate-vibid:100100032152563": 13,
+      "gas:candidate-vibid:100100032111402": 199
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kaliningrad?action=show&root=1000071&tvd=2392000257500&vrn=100100031793505&region=39&global=&sub_region=39&prver=0&pronetvd=null&vibid=2392000257500&type=227",
@@ -1138,11 +1138,11 @@ export const president_2012_uik_226_region_39_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Жириновский Владимир Вольфович": 25,
-      "Зюганов Геннадий Андреевич": 35,
-      "Миронов Сергей Михайлович": 11,
-      "Прохоров Михаил Дмитриевич": 13,
-      "Путин Владимир Владимирович": 206
+      "gas:candidate-vibid:100100032152680": 25,
+      "gas:candidate-vibid:100100032159240": 35,
+      "gas:candidate-vibid:100100032143255": 11,
+      "gas:candidate-vibid:100100032152563": 13,
+      "gas:candidate-vibid:100100032111402": 206
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kaliningrad?action=show&root=1000071&tvd=2392000257500&vrn=100100031793505&region=39&global=&sub_region=39&prver=0&pronetvd=null&vibid=2392000257500&type=227",
@@ -1188,11 +1188,11 @@ export const president_2012_uik_226_region_39_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Жириновский Владимир Вольфович": 23,
-      "Зюганов Геннадий Андреевич": 32,
-      "Миронов Сергей Михайлович": 11,
-      "Прохоров Михаил Дмитриевич": 2,
-      "Путин Владимир Владимирович": 112
+      "gas:candidate-vibid:100100032152680": 23,
+      "gas:candidate-vibid:100100032159240": 32,
+      "gas:candidate-vibid:100100032143255": 11,
+      "gas:candidate-vibid:100100032152563": 2,
+      "gas:candidate-vibid:100100032111402": 112
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kaliningrad?action=show&root=1000071&tvd=2392000257500&vrn=100100031793505&region=39&global=&sub_region=39&prver=0&pronetvd=null&vibid=2392000257500&type=227",
@@ -1238,11 +1238,11 @@ export const president_2012_uik_226_region_39_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Жириновский Владимир Вольфович": 47,
-      "Зюганов Геннадий Андреевич": 98,
-      "Миронов Сергей Михайлович": 23,
-      "Прохоров Михаил Дмитриевич": 41,
-      "Путин Владимир Владимирович": 336
+      "gas:candidate-vibid:100100032152680": 47,
+      "gas:candidate-vibid:100100032159240": 98,
+      "gas:candidate-vibid:100100032143255": 23,
+      "gas:candidate-vibid:100100032152563": 41,
+      "gas:candidate-vibid:100100032111402": 336
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kaliningrad?action=show&root=1000071&tvd=2392000257500&vrn=100100031793505&region=39&global=&sub_region=39&prver=0&pronetvd=null&vibid=2392000257500&type=227",
@@ -1288,11 +1288,11 @@ export const president_2012_uik_226_region_39_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Жириновский Владимир Вольфович": 23,
-      "Зюганов Геннадий Андреевич": 52,
-      "Миронов Сергей Михайлович": 8,
-      "Прохоров Михаил Дмитриевич": 19,
-      "Путин Владимир Владимирович": 228
+      "gas:candidate-vibid:100100032152680": 23,
+      "gas:candidate-vibid:100100032159240": 52,
+      "gas:candidate-vibid:100100032143255": 8,
+      "gas:candidate-vibid:100100032152563": 19,
+      "gas:candidate-vibid:100100032111402": 228
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kaliningrad?action=show&root=1000071&tvd=2392000257500&vrn=100100031793505&region=39&global=&sub_region=39&prver=0&pronetvd=null&vibid=2392000257500&type=227",
@@ -1338,11 +1338,11 @@ export const president_2012_uik_226_region_39_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Жириновский Владимир Вольфович": 50,
-      "Зюганов Геннадий Андреевич": 102,
-      "Миронов Сергей Михайлович": 23,
-      "Прохоров Михаил Дмитриевич": 19,
-      "Путин Владимир Владимирович": 500
+      "gas:candidate-vibid:100100032152680": 50,
+      "gas:candidate-vibid:100100032159240": 102,
+      "gas:candidate-vibid:100100032143255": 23,
+      "gas:candidate-vibid:100100032152563": 19,
+      "gas:candidate-vibid:100100032111402": 500
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kaliningrad?action=show&root=1000071&tvd=2392000257500&vrn=100100031793505&region=39&global=&sub_region=39&prver=0&pronetvd=null&vibid=2392000257500&type=227",
@@ -1388,11 +1388,11 @@ export const president_2012_uik_226_region_39_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Жириновский Владимир Вольфович": 19,
-      "Зюганов Геннадий Андреевич": 24,
-      "Миронов Сергей Михайлович": 6,
-      "Прохоров Михаил Дмитриевич": 2,
-      "Путин Владимир Владимирович": 106
+      "gas:candidate-vibid:100100032152680": 19,
+      "gas:candidate-vibid:100100032159240": 24,
+      "gas:candidate-vibid:100100032143255": 6,
+      "gas:candidate-vibid:100100032152563": 2,
+      "gas:candidate-vibid:100100032111402": 106
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kaliningrad?action=show&root=1000071&tvd=2392000257500&vrn=100100031793505&region=39&global=&sub_region=39&prver=0&pronetvd=null&vibid=2392000257500&type=227",
@@ -1438,11 +1438,11 @@ export const president_2012_uik_226_region_39_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Жириновский Владимир Вольфович": 6,
-      "Зюганов Геннадий Андреевич": 49,
-      "Миронов Сергей Михайлович": 6,
-      "Прохоров Михаил Дмитриевич": 7,
-      "Путин Владимир Владимирович": 62
+      "gas:candidate-vibid:100100032152680": 6,
+      "gas:candidate-vibid:100100032159240": 49,
+      "gas:candidate-vibid:100100032143255": 6,
+      "gas:candidate-vibid:100100032152563": 7,
+      "gas:candidate-vibid:100100032111402": 62
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kaliningrad?action=show&root=1000071&tvd=2392000257500&vrn=100100031793505&region=39&global=&sub_region=39&prver=0&pronetvd=null&vibid=2392000257500&type=227",
@@ -1488,11 +1488,11 @@ export const president_2012_uik_226_region_39_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Жириновский Владимир Вольфович": 95,
-      "Зюганов Геннадий Андреевич": 244,
-      "Миронов Сергей Михайлович": 28,
-      "Прохоров Михаил Дмитриевич": 123,
-      "Путин Владимир Владимирович": 625
+      "gas:candidate-vibid:100100032152680": 95,
+      "gas:candidate-vibid:100100032159240": 244,
+      "gas:candidate-vibid:100100032143255": 28,
+      "gas:candidate-vibid:100100032152563": 123,
+      "gas:candidate-vibid:100100032111402": 625
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kaliningrad?action=show&root=1000071&tvd=2392000257501&vrn=100100031793505&region=39&global=&sub_region=39&prver=0&pronetvd=null&vibid=2392000257501&type=227",
@@ -1538,11 +1538,11 @@ export const president_2012_uik_226_region_39_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Жириновский Владимир Вольфович": 88,
-      "Зюганов Геннадий Андреевич": 251,
-      "Миронов Сергей Михайлович": 39,
-      "Прохоров Михаил Дмитриевич": 161,
-      "Путин Владимир Владимирович": 523
+      "gas:candidate-vibid:100100032152680": 88,
+      "gas:candidate-vibid:100100032159240": 251,
+      "gas:candidate-vibid:100100032143255": 39,
+      "gas:candidate-vibid:100100032152563": 161,
+      "gas:candidate-vibid:100100032111402": 523
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kaliningrad?action=show&root=1000071&tvd=2392000257501&vrn=100100031793505&region=39&global=&sub_region=39&prver=0&pronetvd=null&vibid=2392000257501&type=227",
@@ -1588,11 +1588,11 @@ export const president_2012_uik_226_region_39_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Жириновский Владимир Вольфович": 92,
-      "Зюганов Геннадий Андреевич": 247,
-      "Миронов Сергей Михайлович": 35,
-      "Прохоров Михаил Дмитриевич": 137,
-      "Путин Владимир Владимирович": 519
+      "gas:candidate-vibid:100100032152680": 92,
+      "gas:candidate-vibid:100100032159240": 247,
+      "gas:candidate-vibid:100100032143255": 35,
+      "gas:candidate-vibid:100100032152563": 137,
+      "gas:candidate-vibid:100100032111402": 519
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kaliningrad?action=show&root=1000071&tvd=2392000257501&vrn=100100031793505&region=39&global=&sub_region=39&prver=0&pronetvd=null&vibid=2392000257501&type=227",
@@ -1638,11 +1638,11 @@ export const president_2012_uik_226_region_39_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Жириновский Владимир Вольфович": 79,
-      "Зюганов Геннадий Андреевич": 237,
-      "Миронов Сергей Михайлович": 40,
-      "Прохоров Михаил Дмитриевич": 117,
-      "Путин Владимир Владимирович": 507
+      "gas:candidate-vibid:100100032152680": 79,
+      "gas:candidate-vibid:100100032159240": 237,
+      "gas:candidate-vibid:100100032143255": 40,
+      "gas:candidate-vibid:100100032152563": 117,
+      "gas:candidate-vibid:100100032111402": 507
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kaliningrad?action=show&root=1000071&tvd=2392000257501&vrn=100100031793505&region=39&global=&sub_region=39&prver=0&pronetvd=null&vibid=2392000257501&type=227",
@@ -1688,11 +1688,11 @@ export const president_2012_uik_226_region_39_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Жириновский Владимир Вольфович": 125,
-      "Зюганов Геннадий Андреевич": 331,
-      "Миронов Сергей Михайлович": 65,
-      "Прохоров Михаил Дмитриевич": 194,
-      "Путин Владимир Владимирович": 631
+      "gas:candidate-vibid:100100032152680": 125,
+      "gas:candidate-vibid:100100032159240": 331,
+      "gas:candidate-vibid:100100032143255": 65,
+      "gas:candidate-vibid:100100032152563": 194,
+      "gas:candidate-vibid:100100032111402": 631
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kaliningrad?action=show&root=1000071&tvd=2392000257501&vrn=100100031793505&region=39&global=&sub_region=39&prver=0&pronetvd=null&vibid=2392000257501&type=227",
@@ -1738,11 +1738,11 @@ export const president_2012_uik_226_region_39_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Жириновский Владимир Вольфович": 90,
-      "Зюганов Геннадий Андреевич": 254,
-      "Миронов Сергей Михайлович": 54,
-      "Прохоров Михаил Дмитриевич": 129,
-      "Путин Владимир Владимирович": 520
+      "gas:candidate-vibid:100100032152680": 90,
+      "gas:candidate-vibid:100100032159240": 254,
+      "gas:candidate-vibid:100100032143255": 54,
+      "gas:candidate-vibid:100100032152563": 129,
+      "gas:candidate-vibid:100100032111402": 520
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kaliningrad?action=show&root=1000071&tvd=2392000257501&vrn=100100031793505&region=39&global=&sub_region=39&prver=0&pronetvd=null&vibid=2392000257501&type=227",
@@ -1788,11 +1788,11 @@ export const president_2012_uik_226_region_39_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Жириновский Владимир Вольфович": 54,
-      "Зюганов Геннадий Андреевич": 155,
-      "Миронов Сергей Михайлович": 20,
-      "Прохоров Михаил Дмитриевич": 48,
-      "Путин Владимир Владимирович": 328
+      "gas:candidate-vibid:100100032152680": 54,
+      "gas:candidate-vibid:100100032159240": 155,
+      "gas:candidate-vibid:100100032143255": 20,
+      "gas:candidate-vibid:100100032152563": 48,
+      "gas:candidate-vibid:100100032111402": 328
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kaliningrad?action=show&root=1000071&tvd=2392000257501&vrn=100100031793505&region=39&global=&sub_region=39&prver=0&pronetvd=null&vibid=2392000257501&type=227",
@@ -1838,11 +1838,11 @@ export const president_2012_uik_226_region_39_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Жириновский Владимир Вольфович": 92,
-      "Зюганов Геннадий Андреевич": 227,
-      "Миронов Сергей Михайлович": 38,
-      "Прохоров Михаил Дмитриевич": 140,
-      "Путин Владимир Владимирович": 531
+      "gas:candidate-vibid:100100032152680": 92,
+      "gas:candidate-vibid:100100032159240": 227,
+      "gas:candidate-vibid:100100032143255": 38,
+      "gas:candidate-vibid:100100032152563": 140,
+      "gas:candidate-vibid:100100032111402": 531
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kaliningrad?action=show&root=1000071&tvd=2392000257501&vrn=100100031793505&region=39&global=&sub_region=39&prver=0&pronetvd=null&vibid=2392000257501&type=227",
@@ -1888,11 +1888,11 @@ export const president_2012_uik_226_region_39_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Жириновский Владимир Вольфович": 83,
-      "Зюганов Геннадий Андреевич": 231,
-      "Миронов Сергей Михайлович": 35,
-      "Прохоров Михаил Дмитриевич": 127,
-      "Путин Владимир Владимирович": 475
+      "gas:candidate-vibid:100100032152680": 83,
+      "gas:candidate-vibid:100100032159240": 231,
+      "gas:candidate-vibid:100100032143255": 35,
+      "gas:candidate-vibid:100100032152563": 127,
+      "gas:candidate-vibid:100100032111402": 475
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kaliningrad?action=show&root=1000071&tvd=2392000257501&vrn=100100031793505&region=39&global=&sub_region=39&prver=0&pronetvd=null&vibid=2392000257501&type=227",
@@ -1938,11 +1938,11 @@ export const president_2012_uik_226_region_39_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Жириновский Владимир Вольфович": 83,
-      "Зюганов Геннадий Андреевич": 237,
-      "Миронов Сергей Михайлович": 39,
-      "Прохоров Михаил Дмитриевич": 146,
-      "Путин Владимир Владимирович": 478
+      "gas:candidate-vibid:100100032152680": 83,
+      "gas:candidate-vibid:100100032159240": 237,
+      "gas:candidate-vibid:100100032143255": 39,
+      "gas:candidate-vibid:100100032152563": 146,
+      "gas:candidate-vibid:100100032111402": 478
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kaliningrad?action=show&root=1000071&tvd=2392000257501&vrn=100100031793505&region=39&global=&sub_region=39&prver=0&pronetvd=null&vibid=2392000257501&type=227",
@@ -1988,11 +1988,11 @@ export const president_2012_uik_226_region_39_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Жириновский Владимир Вольфович": 103,
-      "Зюганов Геннадий Андреевич": 297,
-      "Миронов Сергей Михайлович": 44,
-      "Прохоров Михаил Дмитриевич": 117,
-      "Путин Владимир Владимирович": 612
+      "gas:candidate-vibid:100100032152680": 103,
+      "gas:candidate-vibid:100100032159240": 297,
+      "gas:candidate-vibid:100100032143255": 44,
+      "gas:candidate-vibid:100100032152563": 117,
+      "gas:candidate-vibid:100100032111402": 612
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kaliningrad?action=show&root=1000071&tvd=2392000257501&vrn=100100031793505&region=39&global=&sub_region=39&prver=0&pronetvd=null&vibid=2392000257501&type=227",
@@ -2038,11 +2038,11 @@ export const president_2012_uik_226_region_39_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Жириновский Владимир Вольфович": 70,
-      "Зюганов Геннадий Андреевич": 146,
-      "Миронов Сергей Михайлович": 38,
-      "Прохоров Михаил Дмитриевич": 102,
-      "Путин Владимир Владимирович": 531
+      "gas:candidate-vibid:100100032152680": 70,
+      "gas:candidate-vibid:100100032159240": 146,
+      "gas:candidate-vibid:100100032143255": 38,
+      "gas:candidate-vibid:100100032152563": 102,
+      "gas:candidate-vibid:100100032111402": 531
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kaliningrad?action=show&root=1000071&tvd=2392000257501&vrn=100100031793505&region=39&global=&sub_region=39&prver=0&pronetvd=null&vibid=2392000257501&type=227",
@@ -2088,11 +2088,11 @@ export const president_2012_uik_226_region_39_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Жириновский Владимир Вольфович": 94,
-      "Зюганов Геннадий Андреевич": 196,
-      "Миронов Сергей Михайлович": 38,
-      "Прохоров Михаил Дмитриевич": 145,
-      "Путин Владимир Владимирович": 555
+      "gas:candidate-vibid:100100032152680": 94,
+      "gas:candidate-vibid:100100032159240": 196,
+      "gas:candidate-vibid:100100032143255": 38,
+      "gas:candidate-vibid:100100032152563": 145,
+      "gas:candidate-vibid:100100032111402": 555
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kaliningrad?action=show&root=1000071&tvd=2392000257501&vrn=100100031793505&region=39&global=&sub_region=39&prver=0&pronetvd=null&vibid=2392000257501&type=227",
@@ -2138,11 +2138,11 @@ export const president_2012_uik_226_region_39_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Жириновский Владимир Вольфович": 93,
-      "Зюганов Геннадий Андреевич": 179,
-      "Миронов Сергей Михайлович": 18,
-      "Прохоров Михаил Дмитриевич": 103,
-      "Путин Владимир Владимирович": 507
+      "gas:candidate-vibid:100100032152680": 93,
+      "gas:candidate-vibid:100100032159240": 179,
+      "gas:candidate-vibid:100100032143255": 18,
+      "gas:candidate-vibid:100100032152563": 103,
+      "gas:candidate-vibid:100100032111402": 507
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kaliningrad?action=show&root=1000071&tvd=2392000257501&vrn=100100031793505&region=39&global=&sub_region=39&prver=0&pronetvd=null&vibid=2392000257501&type=227",
@@ -2188,11 +2188,11 @@ export const president_2012_uik_226_region_39_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Жириновский Владимир Вольфович": 37,
-      "Зюганов Геннадий Андреевич": 34,
-      "Миронов Сергей Михайлович": 2,
-      "Прохоров Михаил Дмитриевич": 27,
-      "Путин Владимир Владимирович": 194
+      "gas:candidate-vibid:100100032152680": 37,
+      "gas:candidate-vibid:100100032159240": 34,
+      "gas:candidate-vibid:100100032143255": 2,
+      "gas:candidate-vibid:100100032152563": 27,
+      "gas:candidate-vibid:100100032111402": 194
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kaliningrad?action=show&root=1000071&tvd=2392000257501&vrn=100100031793505&region=39&global=&sub_region=39&prver=0&pronetvd=null&vibid=2392000257501&type=227",
@@ -2238,11 +2238,11 @@ export const president_2012_uik_226_region_39_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Жириновский Владимир Вольфович": 112,
-      "Зюганов Геннадий Андреевич": 374,
-      "Миронов Сергей Михайлович": 80,
-      "Прохоров Михаил Дмитриевич": 227,
-      "Путин Владимир Владимирович": 873
+      "gas:candidate-vibid:100100032152680": 112,
+      "gas:candidate-vibid:100100032159240": 374,
+      "gas:candidate-vibid:100100032143255": 80,
+      "gas:candidate-vibid:100100032152563": 227,
+      "gas:candidate-vibid:100100032111402": 873
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kaliningrad?action=show&root=1000071&tvd=2392000257502&vrn=100100031793505&region=39&global=&sub_region=39&prver=0&pronetvd=null&vibid=2392000257502&type=227",
@@ -2288,11 +2288,11 @@ export const president_2012_uik_226_region_39_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Жириновский Владимир Вольфович": 79,
-      "Зюганов Геннадий Андреевич": 395,
-      "Миронов Сергей Михайлович": 63,
-      "Прохоров Михаил Дмитриевич": 231,
-      "Путин Владимир Владимирович": 886
+      "gas:candidate-vibid:100100032152680": 79,
+      "gas:candidate-vibid:100100032159240": 395,
+      "gas:candidate-vibid:100100032143255": 63,
+      "gas:candidate-vibid:100100032152563": 231,
+      "gas:candidate-vibid:100100032111402": 886
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kaliningrad?action=show&root=1000071&tvd=2392000257502&vrn=100100031793505&region=39&global=&sub_region=39&prver=0&pronetvd=null&vibid=2392000257502&type=227",
@@ -2338,11 +2338,11 @@ export const president_2012_uik_226_region_39_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Жириновский Владимир Вольфович": 60,
-      "Зюганов Геннадий Андреевич": 187,
-      "Миронов Сергей Михайлович": 24,
-      "Прохоров Михаил Дмитриевич": 169,
-      "Путин Владимир Владимирович": 447
+      "gas:candidate-vibid:100100032152680": 60,
+      "gas:candidate-vibid:100100032159240": 187,
+      "gas:candidate-vibid:100100032143255": 24,
+      "gas:candidate-vibid:100100032152563": 169,
+      "gas:candidate-vibid:100100032111402": 447
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kaliningrad?action=show&root=1000071&tvd=2392000257502&vrn=100100031793505&region=39&global=&sub_region=39&prver=0&pronetvd=null&vibid=2392000257502&type=227",
@@ -2388,11 +2388,11 @@ export const president_2012_uik_226_region_39_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Жириновский Владимир Вольфович": 77,
-      "Зюганов Геннадий Андреевич": 229,
-      "Миронов Сергей Михайлович": 54,
-      "Прохоров Михаил Дмитриевич": 180,
-      "Путин Владимир Владимирович": 551
+      "gas:candidate-vibid:100100032152680": 77,
+      "gas:candidate-vibid:100100032159240": 229,
+      "gas:candidate-vibid:100100032143255": 54,
+      "gas:candidate-vibid:100100032152563": 180,
+      "gas:candidate-vibid:100100032111402": 551
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kaliningrad?action=show&root=1000071&tvd=2392000257502&vrn=100100031793505&region=39&global=&sub_region=39&prver=0&pronetvd=null&vibid=2392000257502&type=227",
@@ -2438,11 +2438,11 @@ export const president_2012_uik_226_region_39_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Жириновский Владимир Вольфович": 47,
-      "Зюганов Геннадий Андреевич": 133,
-      "Миронов Сергей Михайлович": 25,
-      "Прохоров Михаил Дмитриевич": 81,
-      "Путин Владимир Владимирович": 347
+      "gas:candidate-vibid:100100032152680": 47,
+      "gas:candidate-vibid:100100032159240": 133,
+      "gas:candidate-vibid:100100032143255": 25,
+      "gas:candidate-vibid:100100032152563": 81,
+      "gas:candidate-vibid:100100032111402": 347
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kaliningrad?action=show&root=1000071&tvd=2392000257502&vrn=100100031793505&region=39&global=&sub_region=39&prver=0&pronetvd=null&vibid=2392000257502&type=227",
@@ -2488,11 +2488,11 @@ export const president_2012_uik_226_region_39_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Жириновский Владимир Вольфович": 47,
-      "Зюганов Геннадий Андреевич": 98,
-      "Миронов Сергей Михайлович": 12,
-      "Прохоров Михаил Дмитриевич": 61,
-      "Путин Владимир Владимирович": 302
+      "gas:candidate-vibid:100100032152680": 47,
+      "gas:candidate-vibid:100100032159240": 98,
+      "gas:candidate-vibid:100100032143255": 12,
+      "gas:candidate-vibid:100100032152563": 61,
+      "gas:candidate-vibid:100100032111402": 302
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kaliningrad?action=show&root=1000071&tvd=2392000257502&vrn=100100031793505&region=39&global=&sub_region=39&prver=0&pronetvd=null&vibid=2392000257502&type=227",
@@ -2538,11 +2538,11 @@ export const president_2012_uik_226_region_39_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Жириновский Владимир Вольфович": 144,
-      "Зюганов Геннадий Андреевич": 342,
-      "Миронов Сергей Михайлович": 52,
-      "Прохоров Михаил Дмитриевич": 163,
-      "Путин Владимир Владимирович": 807
+      "gas:candidate-vibid:100100032152680": 144,
+      "gas:candidate-vibid:100100032159240": 342,
+      "gas:candidate-vibid:100100032143255": 52,
+      "gas:candidate-vibid:100100032152563": 163,
+      "gas:candidate-vibid:100100032111402": 807
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kaliningrad?action=show&root=1000071&tvd=2392000257502&vrn=100100031793505&region=39&global=&sub_region=39&prver=0&pronetvd=null&vibid=2392000257502&type=227",

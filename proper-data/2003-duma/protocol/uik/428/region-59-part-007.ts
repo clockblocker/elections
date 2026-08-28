@@ -42,17 +42,17 @@ export const duma_2003_uik_428_region_59_part_007 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Абдрашитов Халил Робертович": 9,
-      "Анохин Павел Викторович": 271,
-      "Вахрин Вячеслав Михайлович": 41,
-      "Корсун Владимир Кузьмич": 27,
-      "Мубаракшин Александр Вазирович": 27,
-      "Неворотов Игорь Владимирович": 24,
-      "Неустроев Илья Григорьевич": 154,
-      "Семенов Сергей Геннадьевич": 9,
-      "Черепанова Ирина Юрьевна": 38,
-      "Черных Алексей Васильевич": 34,
-      "Против всех": 142
+      "gas:candidate-vibid:359300366626": 9,
+      "gas:candidate-vibid:359300366617": 271,
+      "gas:candidate-vibid:359300366644": 41,
+      "gas:candidate-vibid:1001000121892": 27,
+      "gas:candidate-vibid:1001000217948": 27,
+      "gas:candidate-vibid:1001000136101": 24,
+      "gas:candidate-vibid:1001000113966": 154,
+      "gas:candidate-vibid:359300367042": 9,
+      "gas:candidate-vibid:359300366650": 38,
+      "gas:candidate-vibid:1001000188017": 34,
+      "special:against-all": 142
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=593003005&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=359300366982&region=0&sub_region=0&type=429",
@@ -102,17 +102,17 @@ export const duma_2003_uik_428_region_59_part_007 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Абдрашитов Халил Робертович": 16,
-      "Анохин Павел Викторович": 332,
-      "Вахрин Вячеслав Михайлович": 79,
-      "Корсун Владимир Кузьмич": 54,
-      "Мубаракшин Александр Вазирович": 27,
-      "Неворотов Игорь Владимирович": 22,
-      "Неустроев Илья Григорьевич": 214,
-      "Семенов Сергей Геннадьевич": 9,
-      "Черепанова Ирина Юрьевна": 47,
-      "Черных Алексей Васильевич": 40,
-      "Против всех": 171
+      "gas:candidate-vibid:359300366626": 16,
+      "gas:candidate-vibid:359300366617": 332,
+      "gas:candidate-vibid:359300366644": 79,
+      "gas:candidate-vibid:1001000121892": 54,
+      "gas:candidate-vibid:1001000217948": 27,
+      "gas:candidate-vibid:1001000136101": 22,
+      "gas:candidate-vibid:1001000113966": 214,
+      "gas:candidate-vibid:359300367042": 9,
+      "gas:candidate-vibid:359300366650": 47,
+      "gas:candidate-vibid:1001000188017": 40,
+      "special:against-all": 171
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=593003005&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=359300366982&region=0&sub_region=0&type=429",
@@ -162,17 +162,17 @@ export const duma_2003_uik_428_region_59_part_007 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Абдрашитов Халил Робертович": 11,
-      "Анохин Павел Викторович": 284,
-      "Вахрин Вячеслав Михайлович": 97,
-      "Корсун Владимир Кузьмич": 35,
-      "Мубаракшин Александр Вазирович": 18,
-      "Неворотов Игорь Владимирович": 13,
-      "Неустроев Илья Григорьевич": 207,
-      "Семенов Сергей Геннадьевич": 13,
-      "Черепанова Ирина Юрьевна": 58,
-      "Черных Алексей Васильевич": 29,
-      "Против всех": 212
+      "gas:candidate-vibid:359300366626": 11,
+      "gas:candidate-vibid:359300366617": 284,
+      "gas:candidate-vibid:359300366644": 97,
+      "gas:candidate-vibid:1001000121892": 35,
+      "gas:candidate-vibid:1001000217948": 18,
+      "gas:candidate-vibid:1001000136101": 13,
+      "gas:candidate-vibid:1001000113966": 207,
+      "gas:candidate-vibid:359300367042": 13,
+      "gas:candidate-vibid:359300366650": 58,
+      "gas:candidate-vibid:1001000188017": 29,
+      "special:against-all": 212
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=593003005&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=359300366982&region=0&sub_region=0&type=429",
@@ -222,17 +222,17 @@ export const duma_2003_uik_428_region_59_part_007 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Абдрашитов Халил Робертович": 10,
-      "Анохин Павел Викторович": 374,
-      "Вахрин Вячеслав Михайлович": 71,
-      "Корсун Владимир Кузьмич": 40,
-      "Мубаракшин Александр Вазирович": 24,
-      "Неворотов Игорь Владимирович": 21,
-      "Неустроев Илья Григорьевич": 190,
-      "Семенов Сергей Геннадьевич": 7,
-      "Черепанова Ирина Юрьевна": 41,
-      "Черных Алексей Васильевич": 33,
-      "Против всех": 137
+      "gas:candidate-vibid:359300366626": 10,
+      "gas:candidate-vibid:359300366617": 374,
+      "gas:candidate-vibid:359300366644": 71,
+      "gas:candidate-vibid:1001000121892": 40,
+      "gas:candidate-vibid:1001000217948": 24,
+      "gas:candidate-vibid:1001000136101": 21,
+      "gas:candidate-vibid:1001000113966": 190,
+      "gas:candidate-vibid:359300367042": 7,
+      "gas:candidate-vibid:359300366650": 41,
+      "gas:candidate-vibid:1001000188017": 33,
+      "special:against-all": 137
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=593003005&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=359300366982&region=0&sub_region=0&type=429",
@@ -282,17 +282,17 @@ export const duma_2003_uik_428_region_59_part_007 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Абдрашитов Халил Робертович": 21,
-      "Анохин Павел Викторович": 276,
-      "Вахрин Вячеслав Михайлович": 95,
-      "Корсун Владимир Кузьмич": 36,
-      "Мубаракшин Александр Вазирович": 23,
-      "Неворотов Игорь Владимирович": 16,
-      "Неустроев Илья Григорьевич": 226,
-      "Семенов Сергей Геннадьевич": 2,
-      "Черепанова Ирина Юрьевна": 39,
-      "Черных Алексей Васильевич": 34,
-      "Против всех": 189
+      "gas:candidate-vibid:359300366626": 21,
+      "gas:candidate-vibid:359300366617": 276,
+      "gas:candidate-vibid:359300366644": 95,
+      "gas:candidate-vibid:1001000121892": 36,
+      "gas:candidate-vibid:1001000217948": 23,
+      "gas:candidate-vibid:1001000136101": 16,
+      "gas:candidate-vibid:1001000113966": 226,
+      "gas:candidate-vibid:359300367042": 2,
+      "gas:candidate-vibid:359300366650": 39,
+      "gas:candidate-vibid:1001000188017": 34,
+      "special:against-all": 189
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=593003005&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=359300366982&region=0&sub_region=0&type=429",
@@ -342,17 +342,17 @@ export const duma_2003_uik_428_region_59_part_007 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Абдрашитов Халил Робертович": 14,
-      "Анохин Павел Викторович": 310,
-      "Вахрин Вячеслав Михайлович": 118,
-      "Корсун Владимир Кузьмич": 55,
-      "Мубаракшин Александр Вазирович": 31,
-      "Неворотов Игорь Владимирович": 24,
-      "Неустроев Илья Григорьевич": 254,
-      "Семенов Сергей Геннадьевич": 18,
-      "Черепанова Ирина Юрьевна": 33,
-      "Черных Алексей Васильевич": 47,
-      "Против всех": 220
+      "gas:candidate-vibid:359300366626": 14,
+      "gas:candidate-vibid:359300366617": 310,
+      "gas:candidate-vibid:359300366644": 118,
+      "gas:candidate-vibid:1001000121892": 55,
+      "gas:candidate-vibid:1001000217948": 31,
+      "gas:candidate-vibid:1001000136101": 24,
+      "gas:candidate-vibid:1001000113966": 254,
+      "gas:candidate-vibid:359300367042": 18,
+      "gas:candidate-vibid:359300366650": 33,
+      "gas:candidate-vibid:1001000188017": 47,
+      "special:against-all": 220
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=593003005&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=359300366982&region=0&sub_region=0&type=429",
@@ -402,17 +402,17 @@ export const duma_2003_uik_428_region_59_part_007 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Абдрашитов Халил Робертович": 12,
-      "Анохин Павел Викторович": 257,
-      "Вахрин Вячеслав Михайлович": 70,
-      "Корсун Владимир Кузьмич": 42,
-      "Мубаракшин Александр Вазирович": 50,
-      "Неворотов Игорь Владимирович": 21,
-      "Неустроев Илья Григорьевич": 181,
-      "Семенов Сергей Геннадьевич": 9,
-      "Черепанова Ирина Юрьевна": 35,
-      "Черных Алексей Васильевич": 30,
-      "Против всех": 190
+      "gas:candidate-vibid:359300366626": 12,
+      "gas:candidate-vibid:359300366617": 257,
+      "gas:candidate-vibid:359300366644": 70,
+      "gas:candidate-vibid:1001000121892": 42,
+      "gas:candidate-vibid:1001000217948": 50,
+      "gas:candidate-vibid:1001000136101": 21,
+      "gas:candidate-vibid:1001000113966": 181,
+      "gas:candidate-vibid:359300367042": 9,
+      "gas:candidate-vibid:359300366650": 35,
+      "gas:candidate-vibid:1001000188017": 30,
+      "special:against-all": 190
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=593003005&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=359300366982&region=0&sub_region=0&type=429",
@@ -462,17 +462,17 @@ export const duma_2003_uik_428_region_59_part_007 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Абдрашитов Халил Робертович": 12,
-      "Анохин Павел Викторович": 254,
-      "Вахрин Вячеслав Михайлович": 87,
-      "Корсун Владимир Кузьмич": 38,
-      "Мубаракшин Александр Вазирович": 27,
-      "Неворотов Игорь Владимирович": 23,
-      "Неустроев Илья Григорьевич": 181,
-      "Семенов Сергей Геннадьевич": 15,
-      "Черепанова Ирина Юрьевна": 34,
-      "Черных Алексей Васильевич": 54,
-      "Против всех": 166
+      "gas:candidate-vibid:359300366626": 12,
+      "gas:candidate-vibid:359300366617": 254,
+      "gas:candidate-vibid:359300366644": 87,
+      "gas:candidate-vibid:1001000121892": 38,
+      "gas:candidate-vibid:1001000217948": 27,
+      "gas:candidate-vibid:1001000136101": 23,
+      "gas:candidate-vibid:1001000113966": 181,
+      "gas:candidate-vibid:359300367042": 15,
+      "gas:candidate-vibid:359300366650": 34,
+      "gas:candidate-vibid:1001000188017": 54,
+      "special:against-all": 166
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=593003005&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=359300366982&region=0&sub_region=0&type=429",
@@ -522,17 +522,17 @@ export const duma_2003_uik_428_region_59_part_007 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Абдрашитов Халил Робертович": 10,
-      "Анохин Павел Викторович": 327,
-      "Вахрин Вячеслав Михайлович": 73,
-      "Корсун Владимир Кузьмич": 58,
-      "Мубаракшин Александр Вазирович": 33,
-      "Неворотов Игорь Владимирович": 17,
-      "Неустроев Илья Григорьевич": 192,
-      "Семенов Сергей Геннадьевич": 19,
-      "Черепанова Ирина Юрьевна": 47,
-      "Черных Алексей Васильевич": 70,
-      "Против всех": 220
+      "gas:candidate-vibid:359300366626": 10,
+      "gas:candidate-vibid:359300366617": 327,
+      "gas:candidate-vibid:359300366644": 73,
+      "gas:candidate-vibid:1001000121892": 58,
+      "gas:candidate-vibid:1001000217948": 33,
+      "gas:candidate-vibid:1001000136101": 17,
+      "gas:candidate-vibid:1001000113966": 192,
+      "gas:candidate-vibid:359300367042": 19,
+      "gas:candidate-vibid:359300366650": 47,
+      "gas:candidate-vibid:1001000188017": 70,
+      "special:against-all": 220
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=593003005&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=359300366982&region=0&sub_region=0&type=429",
@@ -582,17 +582,17 @@ export const duma_2003_uik_428_region_59_part_007 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Абдрашитов Халил Робертович": 9,
-      "Анохин Павел Викторович": 503,
-      "Вахрин Вячеслав Михайлович": 108,
-      "Корсун Владимир Кузьмич": 88,
-      "Мубаракшин Александр Вазирович": 70,
-      "Неворотов Игорь Владимирович": 26,
-      "Неустроев Илья Григорьевич": 307,
-      "Семенов Сергей Геннадьевич": 11,
-      "Черепанова Ирина Юрьевна": 64,
-      "Черных Алексей Васильевич": 59,
-      "Против всех": 262
+      "gas:candidate-vibid:359300366626": 9,
+      "gas:candidate-vibid:359300366617": 503,
+      "gas:candidate-vibid:359300366644": 108,
+      "gas:candidate-vibid:1001000121892": 88,
+      "gas:candidate-vibid:1001000217948": 70,
+      "gas:candidate-vibid:1001000136101": 26,
+      "gas:candidate-vibid:1001000113966": 307,
+      "gas:candidate-vibid:359300367042": 11,
+      "gas:candidate-vibid:359300366650": 64,
+      "gas:candidate-vibid:1001000188017": 59,
+      "special:against-all": 262
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=593003005&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=359300366982&region=0&sub_region=0&type=429",
@@ -642,17 +642,17 @@ export const duma_2003_uik_428_region_59_part_007 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Абдрашитов Халил Робертович": 12,
-      "Анохин Павел Викторович": 311,
-      "Вахрин Вячеслав Михайлович": 93,
-      "Корсун Владимир Кузьмич": 66,
-      "Мубаракшин Александр Вазирович": 26,
-      "Неворотов Игорь Владимирович": 16,
-      "Неустроев Илья Григорьевич": 273,
-      "Семенов Сергей Геннадьевич": 19,
-      "Черепанова Ирина Юрьевна": 51,
-      "Черных Алексей Васильевич": 51,
-      "Против всех": 261
+      "gas:candidate-vibid:359300366626": 12,
+      "gas:candidate-vibid:359300366617": 311,
+      "gas:candidate-vibid:359300366644": 93,
+      "gas:candidate-vibid:1001000121892": 66,
+      "gas:candidate-vibid:1001000217948": 26,
+      "gas:candidate-vibid:1001000136101": 16,
+      "gas:candidate-vibid:1001000113966": 273,
+      "gas:candidate-vibid:359300367042": 19,
+      "gas:candidate-vibid:359300366650": 51,
+      "gas:candidate-vibid:1001000188017": 51,
+      "special:against-all": 261
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=593003005&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=359300366982&region=0&sub_region=0&type=429",
@@ -702,17 +702,17 @@ export const duma_2003_uik_428_region_59_part_007 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Абдрашитов Халил Робертович": 7,
-      "Анохин Павел Викторович": 243,
-      "Вахрин Вячеслав Михайлович": 75,
-      "Корсун Владимир Кузьмич": 40,
-      "Мубаракшин Александр Вазирович": 22,
-      "Неворотов Игорь Владимирович": 15,
-      "Неустроев Илья Григорьевич": 173,
-      "Семенов Сергей Геннадьевич": 8,
-      "Черепанова Ирина Юрьевна": 35,
-      "Черных Алексей Васильевич": 26,
-      "Против всех": 165
+      "gas:candidate-vibid:359300366626": 7,
+      "gas:candidate-vibid:359300366617": 243,
+      "gas:candidate-vibid:359300366644": 75,
+      "gas:candidate-vibid:1001000121892": 40,
+      "gas:candidate-vibid:1001000217948": 22,
+      "gas:candidate-vibid:1001000136101": 15,
+      "gas:candidate-vibid:1001000113966": 173,
+      "gas:candidate-vibid:359300367042": 8,
+      "gas:candidate-vibid:359300366650": 35,
+      "gas:candidate-vibid:1001000188017": 26,
+      "special:against-all": 165
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=593003005&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=359300366982&region=0&sub_region=0&type=429",
@@ -762,17 +762,17 @@ export const duma_2003_uik_428_region_59_part_007 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Абдрашитов Халил Робертович": 13,
-      "Анохин Павел Викторович": 373,
-      "Вахрин Вячеслав Михайлович": 90,
-      "Корсун Владимир Кузьмич": 49,
-      "Мубаракшин Александр Вазирович": 31,
-      "Неворотов Игорь Владимирович": 13,
-      "Неустроев Илья Григорьевич": 237,
-      "Семенов Сергей Геннадьевич": 12,
-      "Черепанова Ирина Юрьевна": 43,
-      "Черных Алексей Васильевич": 38,
-      "Против всех": 209
+      "gas:candidate-vibid:359300366626": 13,
+      "gas:candidate-vibid:359300366617": 373,
+      "gas:candidate-vibid:359300366644": 90,
+      "gas:candidate-vibid:1001000121892": 49,
+      "gas:candidate-vibid:1001000217948": 31,
+      "gas:candidate-vibid:1001000136101": 13,
+      "gas:candidate-vibid:1001000113966": 237,
+      "gas:candidate-vibid:359300367042": 12,
+      "gas:candidate-vibid:359300366650": 43,
+      "gas:candidate-vibid:1001000188017": 38,
+      "special:against-all": 209
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=593003005&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=359300366982&region=0&sub_region=0&type=429",
@@ -822,17 +822,17 @@ export const duma_2003_uik_428_region_59_part_007 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Абдрашитов Халил Робертович": 8,
-      "Анохин Павел Викторович": 420,
-      "Вахрин Вячеслав Михайлович": 96,
-      "Корсун Владимир Кузьмич": 56,
-      "Мубаракшин Александр Вазирович": 21,
-      "Неворотов Игорь Владимирович": 13,
-      "Неустроев Илья Григорьевич": 198,
-      "Семенов Сергей Геннадьевич": 8,
-      "Черепанова Ирина Юрьевна": 52,
-      "Черных Алексей Васильевич": 38,
-      "Против всех": 203
+      "gas:candidate-vibid:359300366626": 8,
+      "gas:candidate-vibid:359300366617": 420,
+      "gas:candidate-vibid:359300366644": 96,
+      "gas:candidate-vibid:1001000121892": 56,
+      "gas:candidate-vibid:1001000217948": 21,
+      "gas:candidate-vibid:1001000136101": 13,
+      "gas:candidate-vibid:1001000113966": 198,
+      "gas:candidate-vibid:359300367042": 8,
+      "gas:candidate-vibid:359300366650": 52,
+      "gas:candidate-vibid:1001000188017": 38,
+      "special:against-all": 203
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=593003005&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=359300366982&region=0&sub_region=0&type=429",
@@ -882,17 +882,17 @@ export const duma_2003_uik_428_region_59_part_007 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Абдрашитов Халил Робертович": 21,
-      "Анохин Павел Викторович": 427,
-      "Вахрин Вячеслав Михайлович": 77,
-      "Корсун Владимир Кузьмич": 84,
-      "Мубаракшин Александр Вазирович": 50,
-      "Неворотов Игорь Владимирович": 30,
-      "Неустроев Илья Григорьевич": 268,
-      "Семенов Сергей Геннадьевич": 11,
-      "Черепанова Ирина Юрьевна": 49,
-      "Черных Алексей Васильевич": 59,
-      "Против всех": 256
+      "gas:candidate-vibid:359300366626": 21,
+      "gas:candidate-vibid:359300366617": 427,
+      "gas:candidate-vibid:359300366644": 77,
+      "gas:candidate-vibid:1001000121892": 84,
+      "gas:candidate-vibid:1001000217948": 50,
+      "gas:candidate-vibid:1001000136101": 30,
+      "gas:candidate-vibid:1001000113966": 268,
+      "gas:candidate-vibid:359300367042": 11,
+      "gas:candidate-vibid:359300366650": 49,
+      "gas:candidate-vibid:1001000188017": 59,
+      "special:against-all": 256
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=593003005&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=359300366982&region=0&sub_region=0&type=429",
@@ -942,17 +942,17 @@ export const duma_2003_uik_428_region_59_part_007 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Абдрашитов Халил Робертович": 7,
-      "Анохин Павел Викторович": 141,
-      "Вахрин Вячеслав Михайлович": 58,
-      "Корсун Владимир Кузьмич": 11,
-      "Мубаракшин Александр Вазирович": 16,
-      "Неворотов Игорь Владимирович": 11,
-      "Неустроев Илья Григорьевич": 220,
-      "Семенов Сергей Геннадьевич": 11,
-      "Черепанова Ирина Юрьевна": 33,
-      "Черных Алексей Васильевич": 26,
-      "Против всех": 306
+      "gas:candidate-vibid:359300366626": 7,
+      "gas:candidate-vibid:359300366617": 141,
+      "gas:candidate-vibid:359300366644": 58,
+      "gas:candidate-vibid:1001000121892": 11,
+      "gas:candidate-vibid:1001000217948": 16,
+      "gas:candidate-vibid:1001000136101": 11,
+      "gas:candidate-vibid:1001000113966": 220,
+      "gas:candidate-vibid:359300367042": 11,
+      "gas:candidate-vibid:359300366650": 33,
+      "gas:candidate-vibid:1001000188017": 26,
+      "special:against-all": 306
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=593003005&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=359300366982&region=0&sub_region=0&type=429",
@@ -1002,17 +1002,17 @@ export const duma_2003_uik_428_region_59_part_007 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Абдрашитов Халил Робертович": 19,
-      "Анохин Павел Викторович": 383,
-      "Вахрин Вячеслав Михайлович": 87,
-      "Корсун Владимир Кузьмич": 47,
-      "Мубаракшин Александр Вазирович": 24,
-      "Неворотов Игорь Владимирович": 30,
-      "Неустроев Илья Григорьевич": 256,
-      "Семенов Сергей Геннадьевич": 16,
-      "Черепанова Ирина Юрьевна": 41,
-      "Черных Алексей Васильевич": 41,
-      "Против всех": 257
+      "gas:candidate-vibid:359300366626": 19,
+      "gas:candidate-vibid:359300366617": 383,
+      "gas:candidate-vibid:359300366644": 87,
+      "gas:candidate-vibid:1001000121892": 47,
+      "gas:candidate-vibid:1001000217948": 24,
+      "gas:candidate-vibid:1001000136101": 30,
+      "gas:candidate-vibid:1001000113966": 256,
+      "gas:candidate-vibid:359300367042": 16,
+      "gas:candidate-vibid:359300366650": 41,
+      "gas:candidate-vibid:1001000188017": 41,
+      "special:against-all": 257
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=593003005&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=359300366982&region=0&sub_region=0&type=429",
@@ -1062,17 +1062,17 @@ export const duma_2003_uik_428_region_59_part_007 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Абдрашитов Халил Робертович": 9,
-      "Анохин Павел Викторович": 291,
-      "Вахрин Вячеслав Михайлович": 83,
-      "Корсун Владимир Кузьмич": 54,
-      "Мубаракшин Александр Вазирович": 21,
-      "Неворотов Игорь Владимирович": 23,
-      "Неустроев Илья Григорьевич": 215,
-      "Семенов Сергей Геннадьевич": 3,
-      "Черепанова Ирина Юрьевна": 37,
-      "Черных Алексей Васильевич": 58,
-      "Против всех": 176
+      "gas:candidate-vibid:359300366626": 9,
+      "gas:candidate-vibid:359300366617": 291,
+      "gas:candidate-vibid:359300366644": 83,
+      "gas:candidate-vibid:1001000121892": 54,
+      "gas:candidate-vibid:1001000217948": 21,
+      "gas:candidate-vibid:1001000136101": 23,
+      "gas:candidate-vibid:1001000113966": 215,
+      "gas:candidate-vibid:359300367042": 3,
+      "gas:candidate-vibid:359300366650": 37,
+      "gas:candidate-vibid:1001000188017": 58,
+      "special:against-all": 176
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=593003005&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=359300366982&region=0&sub_region=0&type=429",
@@ -1122,17 +1122,17 @@ export const duma_2003_uik_428_region_59_part_007 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Абдрашитов Халил Робертович": 10,
-      "Анохин Павел Викторович": 282,
-      "Вахрин Вячеслав Михайлович": 110,
-      "Корсун Владимир Кузьмич": 53,
-      "Мубаракшин Александр Вазирович": 28,
-      "Неворотов Игорь Владимирович": 26,
-      "Неустроев Илья Григорьевич": 212,
-      "Семенов Сергей Геннадьевич": 10,
-      "Черепанова Ирина Юрьевна": 47,
-      "Черных Алексей Васильевич": 52,
-      "Против всех": 195
+      "gas:candidate-vibid:359300366626": 10,
+      "gas:candidate-vibid:359300366617": 282,
+      "gas:candidate-vibid:359300366644": 110,
+      "gas:candidate-vibid:1001000121892": 53,
+      "gas:candidate-vibid:1001000217948": 28,
+      "gas:candidate-vibid:1001000136101": 26,
+      "gas:candidate-vibid:1001000113966": 212,
+      "gas:candidate-vibid:359300367042": 10,
+      "gas:candidate-vibid:359300366650": 47,
+      "gas:candidate-vibid:1001000188017": 52,
+      "special:against-all": 195
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=593003005&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=359300366982&region=0&sub_region=0&type=429",
@@ -1182,17 +1182,17 @@ export const duma_2003_uik_428_region_59_part_007 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Абдрашитов Халил Робертович": 9,
-      "Анохин Павел Викторович": 301,
-      "Вахрин Вячеслав Михайлович": 79,
-      "Корсун Владимир Кузьмич": 35,
-      "Мубаракшин Александр Вазирович": 20,
-      "Неворотов Игорь Владимирович": 16,
-      "Неустроев Илья Григорьевич": 186,
-      "Семенов Сергей Геннадьевич": 14,
-      "Черепанова Ирина Юрьевна": 41,
-      "Черных Алексей Васильевич": 50,
-      "Против всех": 134
+      "gas:candidate-vibid:359300366626": 9,
+      "gas:candidate-vibid:359300366617": 301,
+      "gas:candidate-vibid:359300366644": 79,
+      "gas:candidate-vibid:1001000121892": 35,
+      "gas:candidate-vibid:1001000217948": 20,
+      "gas:candidate-vibid:1001000136101": 16,
+      "gas:candidate-vibid:1001000113966": 186,
+      "gas:candidate-vibid:359300367042": 14,
+      "gas:candidate-vibid:359300366650": 41,
+      "gas:candidate-vibid:1001000188017": 50,
+      "special:against-all": 134
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=593003005&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=359300366982&region=0&sub_region=0&type=429",
@@ -1242,17 +1242,17 @@ export const duma_2003_uik_428_region_59_part_007 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Абдрашитов Халил Робертович": 15,
-      "Анохин Павел Викторович": 413,
-      "Вахрин Вячеслав Михайлович": 104,
-      "Корсун Владимир Кузьмич": 28,
-      "Мубаракшин Александр Вазирович": 32,
-      "Неворотов Игорь Владимирович": 29,
-      "Неустроев Илья Григорьевич": 236,
-      "Семенов Сергей Геннадьевич": 14,
-      "Черепанова Ирина Юрьевна": 34,
-      "Черных Алексей Васильевич": 40,
-      "Против всех": 160
+      "gas:candidate-vibid:359300366626": 15,
+      "gas:candidate-vibid:359300366617": 413,
+      "gas:candidate-vibid:359300366644": 104,
+      "gas:candidate-vibid:1001000121892": 28,
+      "gas:candidate-vibid:1001000217948": 32,
+      "gas:candidate-vibid:1001000136101": 29,
+      "gas:candidate-vibid:1001000113966": 236,
+      "gas:candidate-vibid:359300367042": 14,
+      "gas:candidate-vibid:359300366650": 34,
+      "gas:candidate-vibid:1001000188017": 40,
+      "special:against-all": 160
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=593003005&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=359300366982&region=0&sub_region=0&type=429",
@@ -1302,17 +1302,17 @@ export const duma_2003_uik_428_region_59_part_007 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Абдрашитов Халил Робертович": 15,
-      "Анохин Павел Викторович": 383,
-      "Вахрин Вячеслав Михайлович": 85,
-      "Корсун Владимир Кузьмич": 41,
-      "Мубаракшин Александр Вазирович": 20,
-      "Неворотов Игорь Владимирович": 25,
-      "Неустроев Илья Григорьевич": 254,
-      "Семенов Сергей Геннадьевич": 17,
-      "Черепанова Ирина Юрьевна": 37,
-      "Черных Алексей Васильевич": 28,
-      "Против всех": 227
+      "gas:candidate-vibid:359300366626": 15,
+      "gas:candidate-vibid:359300366617": 383,
+      "gas:candidate-vibid:359300366644": 85,
+      "gas:candidate-vibid:1001000121892": 41,
+      "gas:candidate-vibid:1001000217948": 20,
+      "gas:candidate-vibid:1001000136101": 25,
+      "gas:candidate-vibid:1001000113966": 254,
+      "gas:candidate-vibid:359300367042": 17,
+      "gas:candidate-vibid:359300366650": 37,
+      "gas:candidate-vibid:1001000188017": 28,
+      "special:against-all": 227
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=593003005&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=359300366982&region=0&sub_region=0&type=429",
@@ -1362,17 +1362,17 @@ export const duma_2003_uik_428_region_59_part_007 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Абдрашитов Халил Робертович": 14,
-      "Анохин Павел Викторович": 297,
-      "Вахрин Вячеслав Михайлович": 83,
-      "Корсун Владимир Кузьмич": 43,
-      "Мубаракшин Александр Вазирович": 73,
-      "Неворотов Игорь Владимирович": 20,
-      "Неустроев Илья Григорьевич": 298,
-      "Семенов Сергей Геннадьевич": 11,
-      "Черепанова Ирина Юрьевна": 64,
-      "Черных Алексей Васильевич": 47,
-      "Против всех": 290
+      "gas:candidate-vibid:359300366626": 14,
+      "gas:candidate-vibid:359300366617": 297,
+      "gas:candidate-vibid:359300366644": 83,
+      "gas:candidate-vibid:1001000121892": 43,
+      "gas:candidate-vibid:1001000217948": 73,
+      "gas:candidate-vibid:1001000136101": 20,
+      "gas:candidate-vibid:1001000113966": 298,
+      "gas:candidate-vibid:359300367042": 11,
+      "gas:candidate-vibid:359300366650": 64,
+      "gas:candidate-vibid:1001000188017": 47,
+      "special:against-all": 290
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=593003005&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=359300366982&region=0&sub_region=0&type=429",
@@ -1422,17 +1422,17 @@ export const duma_2003_uik_428_region_59_part_007 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Абдрашитов Халил Робертович": 4,
-      "Анохин Павел Викторович": 315,
-      "Вахрин Вячеслав Михайлович": 106,
-      "Корсун Владимир Кузьмич": 41,
-      "Мубаракшин Александр Вазирович": 51,
-      "Неворотов Игорь Владимирович": 22,
-      "Неустроев Илья Григорьевич": 262,
-      "Семенов Сергей Геннадьевич": 12,
-      "Черепанова Ирина Юрьевна": 58,
-      "Черных Алексей Васильевич": 33,
-      "Против всех": 215
+      "gas:candidate-vibid:359300366626": 4,
+      "gas:candidate-vibid:359300366617": 315,
+      "gas:candidate-vibid:359300366644": 106,
+      "gas:candidate-vibid:1001000121892": 41,
+      "gas:candidate-vibid:1001000217948": 51,
+      "gas:candidate-vibid:1001000136101": 22,
+      "gas:candidate-vibid:1001000113966": 262,
+      "gas:candidate-vibid:359300367042": 12,
+      "gas:candidate-vibid:359300366650": 58,
+      "gas:candidate-vibid:1001000188017": 33,
+      "special:against-all": 215
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=593003005&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=359300366982&region=0&sub_region=0&type=429",
@@ -1482,17 +1482,17 @@ export const duma_2003_uik_428_region_59_part_007 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Абдрашитов Халил Робертович": 16,
-      "Анохин Павел Викторович": 338,
-      "Вахрин Вячеслав Михайлович": 153,
-      "Корсун Владимир Кузьмич": 59,
-      "Мубаракшин Александр Вазирович": 66,
-      "Неворотов Игорь Владимирович": 34,
-      "Неустроев Илья Григорьевич": 310,
-      "Семенов Сергей Геннадьевич": 21,
-      "Черепанова Ирина Юрьевна": 61,
-      "Черных Алексей Васильевич": 75,
-      "Против всех": 334
+      "gas:candidate-vibid:359300366626": 16,
+      "gas:candidate-vibid:359300366617": 338,
+      "gas:candidate-vibid:359300366644": 153,
+      "gas:candidate-vibid:1001000121892": 59,
+      "gas:candidate-vibid:1001000217948": 66,
+      "gas:candidate-vibid:1001000136101": 34,
+      "gas:candidate-vibid:1001000113966": 310,
+      "gas:candidate-vibid:359300367042": 21,
+      "gas:candidate-vibid:359300366650": 61,
+      "gas:candidate-vibid:1001000188017": 75,
+      "special:against-all": 334
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=593003005&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=359300366982&region=0&sub_region=0&type=429",
@@ -1542,17 +1542,17 @@ export const duma_2003_uik_428_region_59_part_007 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Абдрашитов Халил Робертович": 13,
-      "Анохин Павел Викторович": 312,
-      "Вахрин Вячеслав Михайлович": 86,
-      "Корсун Владимир Кузьмич": 66,
-      "Мубаракшин Александр Вазирович": 64,
-      "Неворотов Игорь Владимирович": 31,
-      "Неустроев Илья Григорьевич": 253,
-      "Семенов Сергей Геннадьевич": 20,
-      "Черепанова Ирина Юрьевна": 44,
-      "Черных Алексей Васильевич": 45,
-      "Против всех": 218
+      "gas:candidate-vibid:359300366626": 13,
+      "gas:candidate-vibid:359300366617": 312,
+      "gas:candidate-vibid:359300366644": 86,
+      "gas:candidate-vibid:1001000121892": 66,
+      "gas:candidate-vibid:1001000217948": 64,
+      "gas:candidate-vibid:1001000136101": 31,
+      "gas:candidate-vibid:1001000113966": 253,
+      "gas:candidate-vibid:359300367042": 20,
+      "gas:candidate-vibid:359300366650": 44,
+      "gas:candidate-vibid:1001000188017": 45,
+      "special:against-all": 218
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=593003005&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=359300366982&region=0&sub_region=0&type=429",
@@ -1602,17 +1602,17 @@ export const duma_2003_uik_428_region_59_part_007 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Абдрашитов Халил Робертович": 8,
-      "Анохин Павел Викторович": 342,
-      "Вахрин Вячеслав Михайлович": 88,
-      "Корсун Владимир Кузьмич": 42,
-      "Мубаракшин Александр Вазирович": 51,
-      "Неворотов Игорь Владимирович": 18,
-      "Неустроев Илья Григорьевич": 221,
-      "Семенов Сергей Геннадьевич": 11,
-      "Черепанова Ирина Юрьевна": 63,
-      "Черных Алексей Васильевич": 41,
-      "Против всех": 175
+      "gas:candidate-vibid:359300366626": 8,
+      "gas:candidate-vibid:359300366617": 342,
+      "gas:candidate-vibid:359300366644": 88,
+      "gas:candidate-vibid:1001000121892": 42,
+      "gas:candidate-vibid:1001000217948": 51,
+      "gas:candidate-vibid:1001000136101": 18,
+      "gas:candidate-vibid:1001000113966": 221,
+      "gas:candidate-vibid:359300367042": 11,
+      "gas:candidate-vibid:359300366650": 63,
+      "gas:candidate-vibid:1001000188017": 41,
+      "special:against-all": 175
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=593003005&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=359300366982&region=0&sub_region=0&type=429",
@@ -1662,17 +1662,17 @@ export const duma_2003_uik_428_region_59_part_007 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Абдрашитов Халил Робертович": 18,
-      "Анохин Павел Викторович": 370,
-      "Вахрин Вячеслав Михайлович": 132,
-      "Корсун Владимир Кузьмич": 70,
-      "Мубаракшин Александр Вазирович": 78,
-      "Неворотов Игорь Владимирович": 29,
-      "Неустроев Илья Григорьевич": 301,
-      "Семенов Сергей Геннадьевич": 27,
-      "Черепанова Ирина Юрьевна": 47,
-      "Черных Алексей Васильевич": 74,
-      "Против всех": 322
+      "gas:candidate-vibid:359300366626": 18,
+      "gas:candidate-vibid:359300366617": 370,
+      "gas:candidate-vibid:359300366644": 132,
+      "gas:candidate-vibid:1001000121892": 70,
+      "gas:candidate-vibid:1001000217948": 78,
+      "gas:candidate-vibid:1001000136101": 29,
+      "gas:candidate-vibid:1001000113966": 301,
+      "gas:candidate-vibid:359300367042": 27,
+      "gas:candidate-vibid:359300366650": 47,
+      "gas:candidate-vibid:1001000188017": 74,
+      "special:against-all": 322
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=593003005&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=359300366982&region=0&sub_region=0&type=429",
@@ -1722,17 +1722,17 @@ export const duma_2003_uik_428_region_59_part_007 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Абдрашитов Халил Робертович": 15,
-      "Анохин Павел Викторович": 336,
-      "Вахрин Вячеслав Михайлович": 126,
-      "Корсун Владимир Кузьмич": 69,
-      "Мубаракшин Александр Вазирович": 55,
-      "Неворотов Игорь Владимирович": 29,
-      "Неустроев Илья Григорьевич": 278,
-      "Семенов Сергей Геннадьевич": 25,
-      "Черепанова Ирина Юрьевна": 59,
-      "Черных Алексей Васильевич": 67,
-      "Против всех": 319
+      "gas:candidate-vibid:359300366626": 15,
+      "gas:candidate-vibid:359300366617": 336,
+      "gas:candidate-vibid:359300366644": 126,
+      "gas:candidate-vibid:1001000121892": 69,
+      "gas:candidate-vibid:1001000217948": 55,
+      "gas:candidate-vibid:1001000136101": 29,
+      "gas:candidate-vibid:1001000113966": 278,
+      "gas:candidate-vibid:359300367042": 25,
+      "gas:candidate-vibid:359300366650": 59,
+      "gas:candidate-vibid:1001000188017": 67,
+      "special:against-all": 319
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=593003005&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=359300366982&region=0&sub_region=0&type=429",
@@ -1782,17 +1782,17 @@ export const duma_2003_uik_428_region_59_part_007 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Абдрашитов Халил Робертович": 11,
-      "Анохин Павел Викторович": 300,
-      "Вахрин Вячеслав Михайлович": 146,
-      "Корсун Владимир Кузьмич": 59,
-      "Мубаракшин Александр Вазирович": 72,
-      "Неворотов Игорь Владимирович": 30,
-      "Неустроев Илья Григорьевич": 332,
-      "Семенов Сергей Геннадьевич": 15,
-      "Черепанова Ирина Юрьевна": 78,
-      "Черных Алексей Васильевич": 47,
-      "Против всех": 327
+      "gas:candidate-vibid:359300366626": 11,
+      "gas:candidate-vibid:359300366617": 300,
+      "gas:candidate-vibid:359300366644": 146,
+      "gas:candidate-vibid:1001000121892": 59,
+      "gas:candidate-vibid:1001000217948": 72,
+      "gas:candidate-vibid:1001000136101": 30,
+      "gas:candidate-vibid:1001000113966": 332,
+      "gas:candidate-vibid:359300367042": 15,
+      "gas:candidate-vibid:359300366650": 78,
+      "gas:candidate-vibid:1001000188017": 47,
+      "special:against-all": 327
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=593003005&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=359300366982&region=0&sub_region=0&type=429",
@@ -1842,17 +1842,17 @@ export const duma_2003_uik_428_region_59_part_007 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Абдрашитов Халил Робертович": 16,
-      "Анохин Павел Викторович": 388,
-      "Вахрин Вячеслав Михайлович": 138,
-      "Корсун Владимир Кузьмич": 34,
-      "Мубаракшин Александр Вазирович": 32,
-      "Неворотов Игорь Владимирович": 29,
-      "Неустроев Илья Григорьевич": 258,
-      "Семенов Сергей Геннадьевич": 12,
-      "Черепанова Ирина Юрьевна": 60,
-      "Черных Алексей Васильевич": 49,
-      "Против всех": 296
+      "gas:candidate-vibid:359300366626": 16,
+      "gas:candidate-vibid:359300366617": 388,
+      "gas:candidate-vibid:359300366644": 138,
+      "gas:candidate-vibid:1001000121892": 34,
+      "gas:candidate-vibid:1001000217948": 32,
+      "gas:candidate-vibid:1001000136101": 29,
+      "gas:candidate-vibid:1001000113966": 258,
+      "gas:candidate-vibid:359300367042": 12,
+      "gas:candidate-vibid:359300366650": 60,
+      "gas:candidate-vibid:1001000188017": 49,
+      "special:against-all": 296
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=593003005&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=359300366982&region=0&sub_region=0&type=429",
@@ -1902,17 +1902,17 @@ export const duma_2003_uik_428_region_59_part_007 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Абдрашитов Халил Робертович": 22,
-      "Анохин Павел Викторович": 308,
-      "Вахрин Вячеслав Михайлович": 100,
-      "Корсун Владимир Кузьмич": 23,
-      "Мубаракшин Александр Вазирович": 52,
-      "Неворотов Игорь Владимирович": 24,
-      "Неустроев Илья Григорьевич": 211,
-      "Семенов Сергей Геннадьевич": 14,
-      "Черепанова Ирина Юрьевна": 59,
-      "Черных Алексей Васильевич": 43,
-      "Против всех": 232
+      "gas:candidate-vibid:359300366626": 22,
+      "gas:candidate-vibid:359300366617": 308,
+      "gas:candidate-vibid:359300366644": 100,
+      "gas:candidate-vibid:1001000121892": 23,
+      "gas:candidate-vibid:1001000217948": 52,
+      "gas:candidate-vibid:1001000136101": 24,
+      "gas:candidate-vibid:1001000113966": 211,
+      "gas:candidate-vibid:359300367042": 14,
+      "gas:candidate-vibid:359300366650": 59,
+      "gas:candidate-vibid:1001000188017": 43,
+      "special:against-all": 232
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=593003005&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=359300366982&region=0&sub_region=0&type=429",
@@ -1962,17 +1962,17 @@ export const duma_2003_uik_428_region_59_part_007 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Абдрашитов Халил Робертович": 16,
-      "Анохин Павел Викторович": 254,
-      "Вахрин Вячеслав Михайлович": 106,
-      "Корсун Владимир Кузьмич": 30,
-      "Мубаракшин Александр Вазирович": 47,
-      "Неворотов Игорь Владимирович": 22,
-      "Неустроев Илья Григорьевич": 309,
-      "Семенов Сергей Геннадьевич": 15,
-      "Черепанова Ирина Юрьевна": 49,
-      "Черных Алексей Васильевич": 44,
-      "Против всех": 223
+      "gas:candidate-vibid:359300366626": 16,
+      "gas:candidate-vibid:359300366617": 254,
+      "gas:candidate-vibid:359300366644": 106,
+      "gas:candidate-vibid:1001000121892": 30,
+      "gas:candidate-vibid:1001000217948": 47,
+      "gas:candidate-vibid:1001000136101": 22,
+      "gas:candidate-vibid:1001000113966": 309,
+      "gas:candidate-vibid:359300367042": 15,
+      "gas:candidate-vibid:359300366650": 49,
+      "gas:candidate-vibid:1001000188017": 44,
+      "special:against-all": 223
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=593003005&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=359300366982&region=0&sub_region=0&type=429",
@@ -2022,17 +2022,17 @@ export const duma_2003_uik_428_region_59_part_007 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Абдрашитов Халил Робертович": 10,
-      "Анохин Павел Викторович": 314,
-      "Вахрин Вячеслав Михайлович": 138,
-      "Корсун Владимир Кузьмич": 59,
-      "Мубаракшин Александр Вазирович": 39,
-      "Неворотов Игорь Владимирович": 24,
-      "Неустроев Илья Григорьевич": 189,
-      "Семенов Сергей Геннадьевич": 17,
-      "Черепанова Ирина Юрьевна": 49,
-      "Черных Алексей Васильевич": 52,
-      "Против всех": 272
+      "gas:candidate-vibid:359300366626": 10,
+      "gas:candidate-vibid:359300366617": 314,
+      "gas:candidate-vibid:359300366644": 138,
+      "gas:candidate-vibid:1001000121892": 59,
+      "gas:candidate-vibid:1001000217948": 39,
+      "gas:candidate-vibid:1001000136101": 24,
+      "gas:candidate-vibid:1001000113966": 189,
+      "gas:candidate-vibid:359300367042": 17,
+      "gas:candidate-vibid:359300366650": 49,
+      "gas:candidate-vibid:1001000188017": 52,
+      "special:against-all": 272
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=593003005&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=359300366982&region=0&sub_region=0&type=429",
@@ -2082,17 +2082,17 @@ export const duma_2003_uik_428_region_59_part_007 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Абдрашитов Халил Робертович": 14,
-      "Анохин Павел Викторович": 445,
-      "Вахрин Вячеслав Михайлович": 123,
-      "Корсун Владимир Кузьмич": 30,
-      "Мубаракшин Александр Вазирович": 70,
-      "Неворотов Игорь Владимирович": 28,
-      "Неустроев Илья Григорьевич": 303,
-      "Семенов Сергей Геннадьевич": 10,
-      "Черепанова Ирина Юрьевна": 61,
-      "Черных Алексей Васильевич": 52,
-      "Против всех": 271
+      "gas:candidate-vibid:359300366626": 14,
+      "gas:candidate-vibid:359300366617": 445,
+      "gas:candidate-vibid:359300366644": 123,
+      "gas:candidate-vibid:1001000121892": 30,
+      "gas:candidate-vibid:1001000217948": 70,
+      "gas:candidate-vibid:1001000136101": 28,
+      "gas:candidate-vibid:1001000113966": 303,
+      "gas:candidate-vibid:359300367042": 10,
+      "gas:candidate-vibid:359300366650": 61,
+      "gas:candidate-vibid:1001000188017": 52,
+      "special:against-all": 271
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=593003005&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=359300366982&region=0&sub_region=0&type=429",
@@ -2142,17 +2142,17 @@ export const duma_2003_uik_428_region_59_part_007 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Абдрашитов Халил Робертович": 21,
-      "Анохин Павел Викторович": 329,
-      "Вахрин Вячеслав Михайлович": 118,
-      "Корсун Владимир Кузьмич": 49,
-      "Мубаракшин Александр Вазирович": 67,
-      "Неворотов Игорь Владимирович": 35,
-      "Неустроев Илья Григорьевич": 276,
-      "Семенов Сергей Геннадьевич": 12,
-      "Черепанова Ирина Юрьевна": 64,
-      "Черных Алексей Васильевич": 56,
-      "Против всех": 313
+      "gas:candidate-vibid:359300366626": 21,
+      "gas:candidate-vibid:359300366617": 329,
+      "gas:candidate-vibid:359300366644": 118,
+      "gas:candidate-vibid:1001000121892": 49,
+      "gas:candidate-vibid:1001000217948": 67,
+      "gas:candidate-vibid:1001000136101": 35,
+      "gas:candidate-vibid:1001000113966": 276,
+      "gas:candidate-vibid:359300367042": 12,
+      "gas:candidate-vibid:359300366650": 64,
+      "gas:candidate-vibid:1001000188017": 56,
+      "special:against-all": 313
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=593003005&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=359300366982&region=0&sub_region=0&type=429",
@@ -2202,17 +2202,17 @@ export const duma_2003_uik_428_region_59_part_007 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Абдрашитов Халил Робертович": 12,
-      "Анохин Павел Викторович": 389,
-      "Вахрин Вячеслав Михайлович": 129,
-      "Корсун Владимир Кузьмич": 65,
-      "Мубаракшин Александр Вазирович": 44,
-      "Неворотов Игорь Владимирович": 33,
-      "Неустроев Илья Григорьевич": 301,
-      "Семенов Сергей Геннадьевич": 29,
-      "Черепанова Ирина Юрьевна": 57,
-      "Черных Алексей Васильевич": 38,
-      "Против всех": 288
+      "gas:candidate-vibid:359300366626": 12,
+      "gas:candidate-vibid:359300366617": 389,
+      "gas:candidate-vibid:359300366644": 129,
+      "gas:candidate-vibid:1001000121892": 65,
+      "gas:candidate-vibid:1001000217948": 44,
+      "gas:candidate-vibid:1001000136101": 33,
+      "gas:candidate-vibid:1001000113966": 301,
+      "gas:candidate-vibid:359300367042": 29,
+      "gas:candidate-vibid:359300366650": 57,
+      "gas:candidate-vibid:1001000188017": 38,
+      "special:against-all": 288
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=593003005&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=359300366982&region=0&sub_region=0&type=429",
@@ -2262,17 +2262,17 @@ export const duma_2003_uik_428_region_59_part_007 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Абдрашитов Халил Робертович": 9,
-      "Анохин Павел Викторович": 488,
-      "Вахрин Вячеслав Михайлович": 120,
-      "Корсун Владимир Кузьмич": 51,
-      "Мубаракшин Александр Вазирович": 18,
-      "Неворотов Игорь Владимирович": 18,
-      "Неустроев Илья Григорьевич": 164,
-      "Семенов Сергей Геннадьевич": 4,
-      "Черепанова Ирина Юрьевна": 38,
-      "Черных Алексей Васильевич": 25,
-      "Против всех": 163
+      "gas:candidate-vibid:359300366626": 9,
+      "gas:candidate-vibid:359300366617": 488,
+      "gas:candidate-vibid:359300366644": 120,
+      "gas:candidate-vibid:1001000121892": 51,
+      "gas:candidate-vibid:1001000217948": 18,
+      "gas:candidate-vibid:1001000136101": 18,
+      "gas:candidate-vibid:1001000113966": 164,
+      "gas:candidate-vibid:359300367042": 4,
+      "gas:candidate-vibid:359300366650": 38,
+      "gas:candidate-vibid:1001000188017": 25,
+      "special:against-all": 163
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=593003005&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=359300366982&region=0&sub_region=0&type=429",
@@ -2322,17 +2322,17 @@ export const duma_2003_uik_428_region_59_part_007 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Абдрашитов Халил Робертович": 10,
-      "Анохин Павел Викторович": 470,
-      "Вахрин Вячеслав Михайлович": 87,
-      "Корсун Владимир Кузьмич": 35,
-      "Мубаракшин Александр Вазирович": 17,
-      "Неворотов Игорь Владимирович": 29,
-      "Неустроев Илья Григорьевич": 131,
-      "Семенов Сергей Геннадьевич": 10,
-      "Черепанова Ирина Юрьевна": 34,
-      "Черных Алексей Васильевич": 22,
-      "Против всех": 198
+      "gas:candidate-vibid:359300366626": 10,
+      "gas:candidate-vibid:359300366617": 470,
+      "gas:candidate-vibid:359300366644": 87,
+      "gas:candidate-vibid:1001000121892": 35,
+      "gas:candidate-vibid:1001000217948": 17,
+      "gas:candidate-vibid:1001000136101": 29,
+      "gas:candidate-vibid:1001000113966": 131,
+      "gas:candidate-vibid:359300367042": 10,
+      "gas:candidate-vibid:359300366650": 34,
+      "gas:candidate-vibid:1001000188017": 22,
+      "special:against-all": 198
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=593003005&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=359300366982&region=0&sub_region=0&type=429",
@@ -2382,17 +2382,17 @@ export const duma_2003_uik_428_region_59_part_007 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Абдрашитов Халил Робертович": 12,
-      "Анохин Павел Викторович": 569,
-      "Вахрин Вячеслав Михайлович": 183,
-      "Корсун Владимир Кузьмич": 41,
-      "Мубаракшин Александр Вазирович": 24,
-      "Неворотов Игорь Владимирович": 26,
-      "Неустроев Илья Григорьевич": 177,
-      "Семенов Сергей Геннадьевич": 15,
-      "Черепанова Ирина Юрьевна": 56,
-      "Черных Алексей Васильевич": 43,
-      "Против всех": 315
+      "gas:candidate-vibid:359300366626": 12,
+      "gas:candidate-vibid:359300366617": 569,
+      "gas:candidate-vibid:359300366644": 183,
+      "gas:candidate-vibid:1001000121892": 41,
+      "gas:candidate-vibid:1001000217948": 24,
+      "gas:candidate-vibid:1001000136101": 26,
+      "gas:candidate-vibid:1001000113966": 177,
+      "gas:candidate-vibid:359300367042": 15,
+      "gas:candidate-vibid:359300366650": 56,
+      "gas:candidate-vibid:1001000188017": 43,
+      "special:against-all": 315
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=593003005&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=359300366982&region=0&sub_region=0&type=429",
@@ -2442,17 +2442,17 @@ export const duma_2003_uik_428_region_59_part_007 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Абдрашитов Халил Робертович": 23,
-      "Анохин Павел Викторович": 609,
-      "Вахрин Вячеслав Михайлович": 195,
-      "Корсун Владимир Кузьмич": 33,
-      "Мубаракшин Александр Вазирович": 46,
-      "Неворотов Игорь Владимирович": 53,
-      "Неустроев Илья Григорьевич": 239,
-      "Семенов Сергей Геннадьевич": 16,
-      "Черепанова Ирина Юрьевна": 63,
-      "Черных Алексей Васильевич": 46,
-      "Против всех": 390
+      "gas:candidate-vibid:359300366626": 23,
+      "gas:candidate-vibid:359300366617": 609,
+      "gas:candidate-vibid:359300366644": 195,
+      "gas:candidate-vibid:1001000121892": 33,
+      "gas:candidate-vibid:1001000217948": 46,
+      "gas:candidate-vibid:1001000136101": 53,
+      "gas:candidate-vibid:1001000113966": 239,
+      "gas:candidate-vibid:359300367042": 16,
+      "gas:candidate-vibid:359300366650": 63,
+      "gas:candidate-vibid:1001000188017": 46,
+      "special:against-all": 390
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=593003005&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=359300366982&region=0&sub_region=0&type=429",
@@ -2502,17 +2502,17 @@ export const duma_2003_uik_428_region_59_part_007 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Абдрашитов Халил Робертович": 11,
-      "Анохин Павел Викторович": 642,
-      "Вахрин Вячеслав Михайлович": 173,
-      "Корсун Владимир Кузьмич": 40,
-      "Мубаракшин Александр Вазирович": 25,
-      "Неворотов Игорь Владимирович": 35,
-      "Неустроев Илья Григорьевич": 139,
-      "Семенов Сергей Геннадьевич": 19,
-      "Черепанова Ирина Юрьевна": 37,
-      "Черных Алексей Васильевич": 30,
-      "Против всех": 255
+      "gas:candidate-vibid:359300366626": 11,
+      "gas:candidate-vibid:359300366617": 642,
+      "gas:candidate-vibid:359300366644": 173,
+      "gas:candidate-vibid:1001000121892": 40,
+      "gas:candidate-vibid:1001000217948": 25,
+      "gas:candidate-vibid:1001000136101": 35,
+      "gas:candidate-vibid:1001000113966": 139,
+      "gas:candidate-vibid:359300367042": 19,
+      "gas:candidate-vibid:359300366650": 37,
+      "gas:candidate-vibid:1001000188017": 30,
+      "special:against-all": 255
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=593003005&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=359300366982&region=0&sub_region=0&type=429",
@@ -2562,17 +2562,17 @@ export const duma_2003_uik_428_region_59_part_007 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Абдрашитов Халил Робертович": 10,
-      "Анохин Павел Викторович": 381,
-      "Вахрин Вячеслав Михайлович": 67,
-      "Корсун Владимир Кузьмич": 23,
-      "Мубаракшин Александр Вазирович": 17,
-      "Неворотов Игорь Владимирович": 20,
-      "Неустроев Илья Григорьевич": 109,
-      "Семенов Сергей Геннадьевич": 5,
-      "Черепанова Ирина Юрьевна": 20,
-      "Черных Алексей Васильевич": 33,
-      "Против всех": 131
+      "gas:candidate-vibid:359300366626": 10,
+      "gas:candidate-vibid:359300366617": 381,
+      "gas:candidate-vibid:359300366644": 67,
+      "gas:candidate-vibid:1001000121892": 23,
+      "gas:candidate-vibid:1001000217948": 17,
+      "gas:candidate-vibid:1001000136101": 20,
+      "gas:candidate-vibid:1001000113966": 109,
+      "gas:candidate-vibid:359300367042": 5,
+      "gas:candidate-vibid:359300366650": 20,
+      "gas:candidate-vibid:1001000188017": 33,
+      "special:against-all": 131
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=593003005&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=359300366982&region=0&sub_region=0&type=429",
@@ -2622,17 +2622,17 @@ export const duma_2003_uik_428_region_59_part_007 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Абдрашитов Халил Робертович": 6,
-      "Анохин Павел Викторович": 330,
-      "Вахрин Вячеслав Михайлович": 88,
-      "Корсун Владимир Кузьмич": 29,
-      "Мубаракшин Александр Вазирович": 21,
-      "Неворотов Игорь Владимирович": 20,
-      "Неустроев Илья Григорьевич": 165,
-      "Семенов Сергей Геннадьевич": 9,
-      "Черепанова Ирина Юрьевна": 9,
-      "Черных Алексей Васильевич": 10,
-      "Против всех": 123
+      "gas:candidate-vibid:359300366626": 6,
+      "gas:candidate-vibid:359300366617": 330,
+      "gas:candidate-vibid:359300366644": 88,
+      "gas:candidate-vibid:1001000121892": 29,
+      "gas:candidate-vibid:1001000217948": 21,
+      "gas:candidate-vibid:1001000136101": 20,
+      "gas:candidate-vibid:1001000113966": 165,
+      "gas:candidate-vibid:359300367042": 9,
+      "gas:candidate-vibid:359300366650": 9,
+      "gas:candidate-vibid:1001000188017": 10,
+      "special:against-all": 123
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=593003005&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=359300366982&region=0&sub_region=0&type=429",
@@ -2682,17 +2682,17 @@ export const duma_2003_uik_428_region_59_part_007 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Абдрашитов Халил Робертович": 6,
-      "Анохин Павел Викторович": 341,
-      "Вахрин Вячеслав Михайлович": 90,
-      "Корсун Владимир Кузьмич": 41,
-      "Мубаракшин Александр Вазирович": 17,
-      "Неворотов Игорь Владимирович": 15,
-      "Неустроев Илья Григорьевич": 106,
-      "Семенов Сергей Геннадьевич": 8,
-      "Черепанова Ирина Юрьевна": 19,
-      "Черных Алексей Васильевич": 11,
-      "Против всех": 147
+      "gas:candidate-vibid:359300366626": 6,
+      "gas:candidate-vibid:359300366617": 341,
+      "gas:candidate-vibid:359300366644": 90,
+      "gas:candidate-vibid:1001000121892": 41,
+      "gas:candidate-vibid:1001000217948": 17,
+      "gas:candidate-vibid:1001000136101": 15,
+      "gas:candidate-vibid:1001000113966": 106,
+      "gas:candidate-vibid:359300367042": 8,
+      "gas:candidate-vibid:359300366650": 19,
+      "gas:candidate-vibid:1001000188017": 11,
+      "special:against-all": 147
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=593003005&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=359300366982&region=0&sub_region=0&type=429",
@@ -2742,17 +2742,17 @@ export const duma_2003_uik_428_region_59_part_007 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Абдрашитов Халил Робертович": 10,
-      "Анохин Павел Викторович": 426,
-      "Вахрин Вячеслав Михайлович": 127,
-      "Корсун Владимир Кузьмич": 27,
-      "Мубаракшин Александр Вазирович": 6,
-      "Неворотов Игорь Владимирович": 13,
-      "Неустроев Илья Григорьевич": 134,
-      "Семенов Сергей Геннадьевич": 10,
-      "Черепанова Ирина Юрьевна": 25,
-      "Черных Алексей Васильевич": 15,
-      "Против всех": 158
+      "gas:candidate-vibid:359300366626": 10,
+      "gas:candidate-vibid:359300366617": 426,
+      "gas:candidate-vibid:359300366644": 127,
+      "gas:candidate-vibid:1001000121892": 27,
+      "gas:candidate-vibid:1001000217948": 6,
+      "gas:candidate-vibid:1001000136101": 13,
+      "gas:candidate-vibid:1001000113966": 134,
+      "gas:candidate-vibid:359300367042": 10,
+      "gas:candidate-vibid:359300366650": 25,
+      "gas:candidate-vibid:1001000188017": 15,
+      "special:against-all": 158
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=593003005&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=359300366982&region=0&sub_region=0&type=429",
@@ -2802,17 +2802,17 @@ export const duma_2003_uik_428_region_59_part_007 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Абдрашитов Халил Робертович": 7,
-      "Анохин Павел Викторович": 447,
-      "Вахрин Вячеслав Михайлович": 126,
-      "Корсун Владимир Кузьмич": 38,
-      "Мубаракшин Александр Вазирович": 12,
-      "Неворотов Игорь Владимирович": 19,
-      "Неустроев Илья Григорьевич": 170,
-      "Семенов Сергей Геннадьевич": 7,
-      "Черепанова Ирина Юрьевна": 41,
-      "Черных Алексей Васильевич": 30,
-      "Против всех": 167
+      "gas:candidate-vibid:359300366626": 7,
+      "gas:candidate-vibid:359300366617": 447,
+      "gas:candidate-vibid:359300366644": 126,
+      "gas:candidate-vibid:1001000121892": 38,
+      "gas:candidate-vibid:1001000217948": 12,
+      "gas:candidate-vibid:1001000136101": 19,
+      "gas:candidate-vibid:1001000113966": 170,
+      "gas:candidate-vibid:359300367042": 7,
+      "gas:candidate-vibid:359300366650": 41,
+      "gas:candidate-vibid:1001000188017": 30,
+      "special:against-all": 167
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=593003005&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=359300366982&region=0&sub_region=0&type=429",
@@ -2862,17 +2862,17 @@ export const duma_2003_uik_428_region_59_part_007 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Абдрашитов Халил Робертович": 8,
-      "Анохин Павел Викторович": 388,
-      "Вахрин Вячеслав Михайлович": 128,
-      "Корсун Владимир Кузьмич": 33,
-      "Мубаракшин Александр Вазирович": 23,
-      "Неворотов Игорь Владимирович": 24,
-      "Неустроев Илья Григорьевич": 219,
-      "Семенов Сергей Геннадьевич": 5,
-      "Черепанова Ирина Юрьевна": 33,
-      "Черных Алексей Васильевич": 23,
-      "Против всех": 175
+      "gas:candidate-vibid:359300366626": 8,
+      "gas:candidate-vibid:359300366617": 388,
+      "gas:candidate-vibid:359300366644": 128,
+      "gas:candidate-vibid:1001000121892": 33,
+      "gas:candidate-vibid:1001000217948": 23,
+      "gas:candidate-vibid:1001000136101": 24,
+      "gas:candidate-vibid:1001000113966": 219,
+      "gas:candidate-vibid:359300367042": 5,
+      "gas:candidate-vibid:359300366650": 33,
+      "gas:candidate-vibid:1001000188017": 23,
+      "special:against-all": 175
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=593003005&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=359300366982&region=0&sub_region=0&type=429",
@@ -2922,17 +2922,17 @@ export const duma_2003_uik_428_region_59_part_007 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Абдрашитов Халил Робертович": 9,
-      "Анохин Павел Викторович": 607,
-      "Вахрин Вячеслав Михайлович": 86,
-      "Корсун Владимир Кузьмич": 31,
-      "Мубаракшин Александр Вазирович": 17,
-      "Неворотов Игорь Владимирович": 24,
-      "Неустроев Илья Григорьевич": 187,
-      "Семенов Сергей Геннадьевич": 11,
-      "Черепанова Ирина Юрьевна": 19,
-      "Черных Алексей Васильевич": 24,
-      "Против всех": 174
+      "gas:candidate-vibid:359300366626": 9,
+      "gas:candidate-vibid:359300366617": 607,
+      "gas:candidate-vibid:359300366644": 86,
+      "gas:candidate-vibid:1001000121892": 31,
+      "gas:candidate-vibid:1001000217948": 17,
+      "gas:candidate-vibid:1001000136101": 24,
+      "gas:candidate-vibid:1001000113966": 187,
+      "gas:candidate-vibid:359300367042": 11,
+      "gas:candidate-vibid:359300366650": 19,
+      "gas:candidate-vibid:1001000188017": 24,
+      "special:against-all": 174
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=593003005&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=359300366982&region=0&sub_region=0&type=429",
@@ -2982,17 +2982,17 @@ export const duma_2003_uik_428_region_59_part_007 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Абдрашитов Халил Робертович": 7,
-      "Анохин Павел Викторович": 465,
-      "Вахрин Вячеслав Михайлович": 111,
-      "Корсун Владимир Кузьмич": 27,
-      "Мубаракшин Александр Вазирович": 15,
-      "Неворотов Игорь Владимирович": 27,
-      "Неустроев Илья Григорьевич": 178,
-      "Семенов Сергей Геннадьевич": 14,
-      "Черепанова Ирина Юрьевна": 31,
-      "Черных Алексей Васильевич": 36,
-      "Против всех": 166
+      "gas:candidate-vibid:359300366626": 7,
+      "gas:candidate-vibid:359300366617": 465,
+      "gas:candidate-vibid:359300366644": 111,
+      "gas:candidate-vibid:1001000121892": 27,
+      "gas:candidate-vibid:1001000217948": 15,
+      "gas:candidate-vibid:1001000136101": 27,
+      "gas:candidate-vibid:1001000113966": 178,
+      "gas:candidate-vibid:359300367042": 14,
+      "gas:candidate-vibid:359300366650": 31,
+      "gas:candidate-vibid:1001000188017": 36,
+      "special:against-all": 166
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=593003005&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=359300366982&region=0&sub_region=0&type=429",
@@ -3042,17 +3042,17 @@ export const duma_2003_uik_428_region_59_part_007 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Абдрашитов Халил Робертович": 0,
-      "Анохин Павел Викторович": 36,
-      "Вахрин Вячеслав Михайлович": 8,
-      "Корсун Владимир Кузьмич": 9,
-      "Мубаракшин Александр Вазирович": 3,
-      "Неворотов Игорь Владимирович": 1,
-      "Неустроев Илья Григорьевич": 35,
-      "Семенов Сергей Геннадьевич": 3,
-      "Черепанова Ирина Юрьевна": 7,
-      "Черных Алексей Васильевич": 5,
-      "Против всех": 21
+      "gas:candidate-vibid:359300366626": 0,
+      "gas:candidate-vibid:359300366617": 36,
+      "gas:candidate-vibid:359300366644": 8,
+      "gas:candidate-vibid:1001000121892": 9,
+      "gas:candidate-vibid:1001000217948": 3,
+      "gas:candidate-vibid:1001000136101": 1,
+      "gas:candidate-vibid:1001000113966": 35,
+      "gas:candidate-vibid:359300367042": 3,
+      "gas:candidate-vibid:359300366650": 7,
+      "gas:candidate-vibid:1001000188017": 5,
+      "special:against-all": 21
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=593003005&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=359300366982&region=0&sub_region=0&type=429",
@@ -3102,17 +3102,17 @@ export const duma_2003_uik_428_region_59_part_007 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Абдрашитов Халил Робертович": 0,
-      "Анохин Павел Викторович": 27,
-      "Вахрин Вячеслав Михайлович": 12,
-      "Корсун Владимир Кузьмич": 2,
-      "Мубаракшин Александр Вазирович": 0,
-      "Неворотов Игорь Владимирович": 0,
-      "Неустроев Илья Григорьевич": 10,
-      "Семенов Сергей Геннадьевич": 0,
-      "Черепанова Ирина Юрьевна": 3,
-      "Черных Алексей Васильевич": 1,
-      "Против всех": 16
+      "gas:candidate-vibid:359300366626": 0,
+      "gas:candidate-vibid:359300366617": 27,
+      "gas:candidate-vibid:359300366644": 12,
+      "gas:candidate-vibid:1001000121892": 2,
+      "gas:candidate-vibid:1001000217948": 0,
+      "gas:candidate-vibid:1001000136101": 0,
+      "gas:candidate-vibid:1001000113966": 10,
+      "gas:candidate-vibid:359300367042": 0,
+      "gas:candidate-vibid:359300366650": 3,
+      "gas:candidate-vibid:1001000188017": 1,
+      "special:against-all": 16
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=593003005&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=359300366982&region=0&sub_region=0&type=429",
@@ -3162,17 +3162,17 @@ export const duma_2003_uik_428_region_59_part_007 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Абдрашитов Халил Робертович": 8,
-      "Анохин Павел Викторович": 157,
-      "Вахрин Вячеслав Михайлович": 31,
-      "Корсун Владимир Кузьмич": 19,
-      "Мубаракшин Александр Вазирович": 8,
-      "Неворотов Игорь Владимирович": 5,
-      "Неустроев Илья Григорьевич": 115,
-      "Семенов Сергей Геннадьевич": 5,
-      "Черепанова Ирина Юрьевна": 19,
-      "Черных Алексей Васильевич": 16,
-      "Против всех": 127
+      "gas:candidate-vibid:359300366626": 8,
+      "gas:candidate-vibid:359300366617": 157,
+      "gas:candidate-vibid:359300366644": 31,
+      "gas:candidate-vibid:1001000121892": 19,
+      "gas:candidate-vibid:1001000217948": 8,
+      "gas:candidate-vibid:1001000136101": 5,
+      "gas:candidate-vibid:1001000113966": 115,
+      "gas:candidate-vibid:359300367042": 5,
+      "gas:candidate-vibid:359300366650": 19,
+      "gas:candidate-vibid:1001000188017": 16,
+      "special:against-all": 127
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=593003005&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=359300366982&region=0&sub_region=0&type=429",
@@ -3222,17 +3222,17 @@ export const duma_2003_uik_428_region_59_part_007 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Абдрашитов Халил Робертович": 5,
-      "Анохин Павел Викторович": 402,
-      "Вахрин Вячеслав Михайлович": 63,
-      "Корсун Владимир Кузьмич": 36,
-      "Мубаракшин Александр Вазирович": 17,
-      "Неворотов Игорь Владимирович": 16,
-      "Неустроев Илья Григорьевич": 103,
-      "Семенов Сергей Геннадьевич": 11,
-      "Черепанова Ирина Юрьевна": 12,
-      "Черных Алексей Васильевич": 21,
-      "Против всех": 139
+      "gas:candidate-vibid:359300366626": 5,
+      "gas:candidate-vibid:359300366617": 402,
+      "gas:candidate-vibid:359300366644": 63,
+      "gas:candidate-vibid:1001000121892": 36,
+      "gas:candidate-vibid:1001000217948": 17,
+      "gas:candidate-vibid:1001000136101": 16,
+      "gas:candidate-vibid:1001000113966": 103,
+      "gas:candidate-vibid:359300367042": 11,
+      "gas:candidate-vibid:359300366650": 12,
+      "gas:candidate-vibid:1001000188017": 21,
+      "special:against-all": 139
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=593003005&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=359300366982&region=0&sub_region=0&type=429",
@@ -3282,17 +3282,17 @@ export const duma_2003_uik_428_region_59_part_007 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Абдрашитов Халил Робертович": 9,
-      "Анохин Павел Викторович": 377,
-      "Вахрин Вячеслав Михайлович": 130,
-      "Корсун Владимир Кузьмич": 30,
-      "Мубаракшин Александр Вазирович": 17,
-      "Неворотов Игорь Владимирович": 36,
-      "Неустроев Илья Григорьевич": 238,
-      "Семенов Сергей Геннадьевич": 10,
-      "Черепанова Ирина Юрьевна": 43,
-      "Черных Алексей Васильевич": 22,
-      "Против всех": 223
+      "gas:candidate-vibid:359300366626": 9,
+      "gas:candidate-vibid:359300366617": 377,
+      "gas:candidate-vibid:359300366644": 130,
+      "gas:candidate-vibid:1001000121892": 30,
+      "gas:candidate-vibid:1001000217948": 17,
+      "gas:candidate-vibid:1001000136101": 36,
+      "gas:candidate-vibid:1001000113966": 238,
+      "gas:candidate-vibid:359300367042": 10,
+      "gas:candidate-vibid:359300366650": 43,
+      "gas:candidate-vibid:1001000188017": 22,
+      "special:against-all": 223
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=593003005&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=359300366982&region=0&sub_region=0&type=429",
@@ -3342,17 +3342,17 @@ export const duma_2003_uik_428_region_59_part_007 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Абдрашитов Халил Робертович": 10,
-      "Анохин Павел Викторович": 409,
-      "Вахрин Вячеслав Михайлович": 139,
-      "Корсун Владимир Кузьмич": 73,
-      "Мубаракшин Александр Вазирович": 41,
-      "Неворотов Игорь Владимирович": 34,
-      "Неустроев Илья Григорьевич": 305,
-      "Семенов Сергей Геннадьевич": 24,
-      "Черепанова Ирина Юрьевна": 55,
-      "Черных Алексей Васильевич": 56,
-      "Против всех": 352
+      "gas:candidate-vibid:359300366626": 10,
+      "gas:candidate-vibid:359300366617": 409,
+      "gas:candidate-vibid:359300366644": 139,
+      "gas:candidate-vibid:1001000121892": 73,
+      "gas:candidate-vibid:1001000217948": 41,
+      "gas:candidate-vibid:1001000136101": 34,
+      "gas:candidate-vibid:1001000113966": 305,
+      "gas:candidate-vibid:359300367042": 24,
+      "gas:candidate-vibid:359300366650": 55,
+      "gas:candidate-vibid:1001000188017": 56,
+      "special:against-all": 352
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=593003005&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=359300366982&region=0&sub_region=0&type=429",
@@ -3402,17 +3402,17 @@ export const duma_2003_uik_428_region_59_part_007 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Абдрашитов Халил Робертович": 1,
-      "Анохин Павел Викторович": 48,
-      "Вахрин Вячеслав Михайлович": 30,
-      "Корсун Владимир Кузьмич": 0,
-      "Мубаракшин Александр Вазирович": 1,
-      "Неворотов Игорь Владимирович": 3,
-      "Неустроев Илья Григорьевич": 15,
-      "Семенов Сергей Геннадьевич": 2,
-      "Черепанова Ирина Юрьевна": 4,
-      "Черных Алексей Васильевич": 10,
-      "Против всех": 15
+      "gas:candidate-vibid:359300366626": 1,
+      "gas:candidate-vibid:359300366617": 48,
+      "gas:candidate-vibid:359300366644": 30,
+      "gas:candidate-vibid:1001000121892": 0,
+      "gas:candidate-vibid:1001000217948": 1,
+      "gas:candidate-vibid:1001000136101": 3,
+      "gas:candidate-vibid:1001000113966": 15,
+      "gas:candidate-vibid:359300367042": 2,
+      "gas:candidate-vibid:359300366650": 4,
+      "gas:candidate-vibid:1001000188017": 10,
+      "special:against-all": 15
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=593003005&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=359300366982&region=0&sub_region=0&type=429",
@@ -3462,17 +3462,17 @@ export const duma_2003_uik_428_region_59_part_007 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Абдрашитов Халил Робертович": 9,
-      "Анохин Павел Викторович": 357,
-      "Вахрин Вячеслав Михайлович": 85,
-      "Корсун Владимир Кузьмич": 34,
-      "Мубаракшин Александр Вазирович": 18,
-      "Неворотов Игорь Владимирович": 14,
-      "Неустроев Илья Григорьевич": 216,
-      "Семенов Сергей Геннадьевич": 6,
-      "Черепанова Ирина Юрьевна": 28,
-      "Черных Алексей Васильевич": 36,
-      "Против всех": 142
+      "gas:candidate-vibid:359300366626": 9,
+      "gas:candidate-vibid:359300366617": 357,
+      "gas:candidate-vibid:359300366644": 85,
+      "gas:candidate-vibid:1001000121892": 34,
+      "gas:candidate-vibid:1001000217948": 18,
+      "gas:candidate-vibid:1001000136101": 14,
+      "gas:candidate-vibid:1001000113966": 216,
+      "gas:candidate-vibid:359300367042": 6,
+      "gas:candidate-vibid:359300366650": 28,
+      "gas:candidate-vibid:1001000188017": 36,
+      "special:against-all": 142
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=593003006&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=359300366983&region=0&sub_region=0&type=429",
@@ -3522,17 +3522,17 @@ export const duma_2003_uik_428_region_59_part_007 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Абдрашитов Халил Робертович": 13,
-      "Анохин Павел Викторович": 263,
-      "Вахрин Вячеслав Михайлович": 63,
-      "Корсун Владимир Кузьмич": 38,
-      "Мубаракшин Александр Вазирович": 20,
-      "Неворотов Игорь Владимирович": 20,
-      "Неустроев Илья Григорьевич": 199,
-      "Семенов Сергей Геннадьевич": 6,
-      "Черепанова Ирина Юрьевна": 32,
-      "Черных Алексей Васильевич": 23,
-      "Против всех": 201
+      "gas:candidate-vibid:359300366626": 13,
+      "gas:candidate-vibid:359300366617": 263,
+      "gas:candidate-vibid:359300366644": 63,
+      "gas:candidate-vibid:1001000121892": 38,
+      "gas:candidate-vibid:1001000217948": 20,
+      "gas:candidate-vibid:1001000136101": 20,
+      "gas:candidate-vibid:1001000113966": 199,
+      "gas:candidate-vibid:359300367042": 6,
+      "gas:candidate-vibid:359300366650": 32,
+      "gas:candidate-vibid:1001000188017": 23,
+      "special:against-all": 201
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=593003006&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=359300366983&region=0&sub_region=0&type=429",
@@ -3582,17 +3582,17 @@ export const duma_2003_uik_428_region_59_part_007 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Абдрашитов Халил Робертович": 9,
-      "Анохин Павел Викторович": 367,
-      "Вахрин Вячеслав Михайлович": 75,
-      "Корсун Владимир Кузьмич": 49,
-      "Мубаракшин Александр Вазирович": 19,
-      "Неворотов Игорь Владимирович": 19,
-      "Неустроев Илья Григорьевич": 249,
-      "Семенов Сергей Геннадьевич": 9,
-      "Черепанова Ирина Юрьевна": 35,
-      "Черных Алексей Васильевич": 31,
-      "Против всех": 204
+      "gas:candidate-vibid:359300366626": 9,
+      "gas:candidate-vibid:359300366617": 367,
+      "gas:candidate-vibid:359300366644": 75,
+      "gas:candidate-vibid:1001000121892": 49,
+      "gas:candidate-vibid:1001000217948": 19,
+      "gas:candidate-vibid:1001000136101": 19,
+      "gas:candidate-vibid:1001000113966": 249,
+      "gas:candidate-vibid:359300367042": 9,
+      "gas:candidate-vibid:359300366650": 35,
+      "gas:candidate-vibid:1001000188017": 31,
+      "special:against-all": 204
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=593003006&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=359300366983&region=0&sub_region=0&type=429",
@@ -3642,17 +3642,17 @@ export const duma_2003_uik_428_region_59_part_007 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Абдрашитов Халил Робертович": 17,
-      "Анохин Павел Викторович": 367,
-      "Вахрин Вячеслав Михайлович": 86,
-      "Корсун Владимир Кузьмич": 45,
-      "Мубаракшин Александр Вазирович": 21,
-      "Неворотов Игорь Владимирович": 18,
-      "Неустроев Илья Григорьевич": 255,
-      "Семенов Сергей Геннадьевич": 10,
-      "Черепанова Ирина Юрьевна": 41,
-      "Черных Алексей Васильевич": 32,
-      "Против всех": 193
+      "gas:candidate-vibid:359300366626": 17,
+      "gas:candidate-vibid:359300366617": 367,
+      "gas:candidate-vibid:359300366644": 86,
+      "gas:candidate-vibid:1001000121892": 45,
+      "gas:candidate-vibid:1001000217948": 21,
+      "gas:candidate-vibid:1001000136101": 18,
+      "gas:candidate-vibid:1001000113966": 255,
+      "gas:candidate-vibid:359300367042": 10,
+      "gas:candidate-vibid:359300366650": 41,
+      "gas:candidate-vibid:1001000188017": 32,
+      "special:against-all": 193
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=593003006&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=359300366983&region=0&sub_region=0&type=429",
@@ -3702,17 +3702,17 @@ export const duma_2003_uik_428_region_59_part_007 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Абдрашитов Халил Робертович": 6,
-      "Анохин Павел Викторович": 343,
-      "Вахрин Вячеслав Михайлович": 80,
-      "Корсун Владимир Кузьмич": 44,
-      "Мубаракшин Александр Вазирович": 20,
-      "Неворотов Игорь Владимирович": 19,
-      "Неустроев Илья Григорьевич": 213,
-      "Семенов Сергей Геннадьевич": 9,
-      "Черепанова Ирина Юрьевна": 33,
-      "Черных Алексей Васильевич": 56,
-      "Против всех": 178
+      "gas:candidate-vibid:359300366626": 6,
+      "gas:candidate-vibid:359300366617": 343,
+      "gas:candidate-vibid:359300366644": 80,
+      "gas:candidate-vibid:1001000121892": 44,
+      "gas:candidate-vibid:1001000217948": 20,
+      "gas:candidate-vibid:1001000136101": 19,
+      "gas:candidate-vibid:1001000113966": 213,
+      "gas:candidate-vibid:359300367042": 9,
+      "gas:candidate-vibid:359300366650": 33,
+      "gas:candidate-vibid:1001000188017": 56,
+      "special:against-all": 178
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=593003006&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=359300366983&region=0&sub_region=0&type=429",
@@ -3762,17 +3762,17 @@ export const duma_2003_uik_428_region_59_part_007 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Абдрашитов Халил Робертович": 8,
-      "Анохин Павел Викторович": 370,
-      "Вахрин Вячеслав Михайлович": 88,
-      "Корсун Владимир Кузьмич": 49,
-      "Мубаракшин Александр Вазирович": 26,
-      "Неворотов Игорь Владимирович": 23,
-      "Неустроев Илья Григорьевич": 289,
-      "Семенов Сергей Геннадьевич": 9,
-      "Черепанова Ирина Юрьевна": 42,
-      "Черных Алексей Васильевич": 36,
-      "Против всех": 228
+      "gas:candidate-vibid:359300366626": 8,
+      "gas:candidate-vibid:359300366617": 370,
+      "gas:candidate-vibid:359300366644": 88,
+      "gas:candidate-vibid:1001000121892": 49,
+      "gas:candidate-vibid:1001000217948": 26,
+      "gas:candidate-vibid:1001000136101": 23,
+      "gas:candidate-vibid:1001000113966": 289,
+      "gas:candidate-vibid:359300367042": 9,
+      "gas:candidate-vibid:359300366650": 42,
+      "gas:candidate-vibid:1001000188017": 36,
+      "special:against-all": 228
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=593003006&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=359300366983&region=0&sub_region=0&type=429",
@@ -3822,17 +3822,17 @@ export const duma_2003_uik_428_region_59_part_007 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Абдрашитов Халил Робертович": 12,
-      "Анохин Павел Викторович": 438,
-      "Вахрин Вячеслав Михайлович": 88,
-      "Корсун Владимир Кузьмич": 52,
-      "Мубаракшин Александр Вазирович": 23,
-      "Неворотов Игорь Владимирович": 17,
-      "Неустроев Илья Григорьевич": 312,
-      "Семенов Сергей Геннадьевич": 6,
-      "Черепанова Ирина Юрьевна": 36,
-      "Черных Алексей Васильевич": 36,
-      "Против всех": 192
+      "gas:candidate-vibid:359300366626": 12,
+      "gas:candidate-vibid:359300366617": 438,
+      "gas:candidate-vibid:359300366644": 88,
+      "gas:candidate-vibid:1001000121892": 52,
+      "gas:candidate-vibid:1001000217948": 23,
+      "gas:candidate-vibid:1001000136101": 17,
+      "gas:candidate-vibid:1001000113966": 312,
+      "gas:candidate-vibid:359300367042": 6,
+      "gas:candidate-vibid:359300366650": 36,
+      "gas:candidate-vibid:1001000188017": 36,
+      "special:against-all": 192
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=593003006&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=359300366983&region=0&sub_region=0&type=429",
@@ -3882,17 +3882,17 @@ export const duma_2003_uik_428_region_59_part_007 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Абдрашитов Халил Робертович": 10,
-      "Анохин Павел Викторович": 323,
-      "Вахрин Вячеслав Михайлович": 66,
-      "Корсун Владимир Кузьмич": 37,
-      "Мубаракшин Александр Вазирович": 12,
-      "Неворотов Игорь Владимирович": 14,
-      "Неустроев Илья Григорьевич": 240,
-      "Семенов Сергей Геннадьевич": 5,
-      "Черепанова Ирина Юрьевна": 28,
-      "Черных Алексей Васильевич": 35,
-      "Против всех": 153
+      "gas:candidate-vibid:359300366626": 10,
+      "gas:candidate-vibid:359300366617": 323,
+      "gas:candidate-vibid:359300366644": 66,
+      "gas:candidate-vibid:1001000121892": 37,
+      "gas:candidate-vibid:1001000217948": 12,
+      "gas:candidate-vibid:1001000136101": 14,
+      "gas:candidate-vibid:1001000113966": 240,
+      "gas:candidate-vibid:359300367042": 5,
+      "gas:candidate-vibid:359300366650": 28,
+      "gas:candidate-vibid:1001000188017": 35,
+      "special:against-all": 153
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=593003006&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=359300366983&region=0&sub_region=0&type=429",
@@ -3942,17 +3942,17 @@ export const duma_2003_uik_428_region_59_part_007 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Абдрашитов Халил Робертович": 14,
-      "Анохин Павел Викторович": 508,
-      "Вахрин Вячеслав Михайлович": 127,
-      "Корсун Владимир Кузьмич": 77,
-      "Мубаракшин Александр Вазирович": 31,
-      "Неворотов Игорь Владимирович": 25,
-      "Неустроев Илья Григорьевич": 452,
-      "Семенов Сергей Геннадьевич": 8,
-      "Черепанова Ирина Юрьевна": 24,
-      "Черных Алексей Васильевич": 49,
-      "Против всех": 317
+      "gas:candidate-vibid:359300366626": 14,
+      "gas:candidate-vibid:359300366617": 508,
+      "gas:candidate-vibid:359300366644": 127,
+      "gas:candidate-vibid:1001000121892": 77,
+      "gas:candidate-vibid:1001000217948": 31,
+      "gas:candidate-vibid:1001000136101": 25,
+      "gas:candidate-vibid:1001000113966": 452,
+      "gas:candidate-vibid:359300367042": 8,
+      "gas:candidate-vibid:359300366650": 24,
+      "gas:candidate-vibid:1001000188017": 49,
+      "special:against-all": 317
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=593003006&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=359300366983&region=0&sub_region=0&type=429",
@@ -4002,17 +4002,17 @@ export const duma_2003_uik_428_region_59_part_007 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Абдрашитов Халил Робертович": 17,
-      "Анохин Павел Викторович": 488,
-      "Вахрин Вячеслав Михайлович": 100,
-      "Корсун Владимир Кузьмич": 79,
-      "Мубаракшин Александр Вазирович": 30,
-      "Неворотов Игорь Владимирович": 25,
-      "Неустроев Илья Григорьевич": 397,
-      "Семенов Сергей Геннадьевич": 9,
-      "Черепанова Ирина Юрьевна": 35,
-      "Черных Алексей Васильевич": 36,
-      "Против всех": 218
+      "gas:candidate-vibid:359300366626": 17,
+      "gas:candidate-vibid:359300366617": 488,
+      "gas:candidate-vibid:359300366644": 100,
+      "gas:candidate-vibid:1001000121892": 79,
+      "gas:candidate-vibid:1001000217948": 30,
+      "gas:candidate-vibid:1001000136101": 25,
+      "gas:candidate-vibid:1001000113966": 397,
+      "gas:candidate-vibid:359300367042": 9,
+      "gas:candidate-vibid:359300366650": 35,
+      "gas:candidate-vibid:1001000188017": 36,
+      "special:against-all": 218
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=593003006&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=359300366983&region=0&sub_region=0&type=429",
@@ -4062,17 +4062,17 @@ export const duma_2003_uik_428_region_59_part_007 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Абдрашитов Халил Робертович": 10,
-      "Анохин Павел Викторович": 374,
-      "Вахрин Вячеслав Михайлович": 88,
-      "Корсун Владимир Кузьмич": 62,
-      "Мубаракшин Александр Вазирович": 24,
-      "Неворотов Игорь Владимирович": 23,
-      "Неустроев Илья Григорьевич": 458,
-      "Семенов Сергей Геннадьевич": 11,
-      "Черепанова Ирина Юрьевна": 47,
-      "Черных Алексей Васильевич": 35,
-      "Против всех": 249
+      "gas:candidate-vibid:359300366626": 10,
+      "gas:candidate-vibid:359300366617": 374,
+      "gas:candidate-vibid:359300366644": 88,
+      "gas:candidate-vibid:1001000121892": 62,
+      "gas:candidate-vibid:1001000217948": 24,
+      "gas:candidate-vibid:1001000136101": 23,
+      "gas:candidate-vibid:1001000113966": 458,
+      "gas:candidate-vibid:359300367042": 11,
+      "gas:candidate-vibid:359300366650": 47,
+      "gas:candidate-vibid:1001000188017": 35,
+      "special:against-all": 249
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=593003006&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=359300366983&region=0&sub_region=0&type=429",
@@ -4122,17 +4122,17 @@ export const duma_2003_uik_428_region_59_part_007 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Абдрашитов Халил Робертович": 13,
-      "Анохин Павел Викторович": 463,
-      "Вахрин Вячеслав Михайлович": 166,
-      "Корсун Владимир Кузьмич": 53,
-      "Мубаракшин Александр Вазирович": 30,
-      "Неворотов Игорь Владимирович": 28,
-      "Неустроев Илья Григорьевич": 397,
-      "Семенов Сергей Геннадьевич": 11,
-      "Черепанова Ирина Юрьевна": 54,
-      "Черных Алексей Васильевич": 56,
-      "Против всех": 340
+      "gas:candidate-vibid:359300366626": 13,
+      "gas:candidate-vibid:359300366617": 463,
+      "gas:candidate-vibid:359300366644": 166,
+      "gas:candidate-vibid:1001000121892": 53,
+      "gas:candidate-vibid:1001000217948": 30,
+      "gas:candidate-vibid:1001000136101": 28,
+      "gas:candidate-vibid:1001000113966": 397,
+      "gas:candidate-vibid:359300367042": 11,
+      "gas:candidate-vibid:359300366650": 54,
+      "gas:candidate-vibid:1001000188017": 56,
+      "special:against-all": 340
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=593003006&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=359300366983&region=0&sub_region=0&type=429",
@@ -4182,17 +4182,17 @@ export const duma_2003_uik_428_region_59_part_007 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Абдрашитов Халил Робертович": 12,
-      "Анохин Павел Викторович": 485,
-      "Вахрин Вячеслав Михайлович": 94,
-      "Корсун Владимир Кузьмич": 46,
-      "Мубаракшин Александр Вазирович": 28,
-      "Неворотов Игорь Владимирович": 18,
-      "Неустроев Илья Григорьевич": 307,
-      "Семенов Сергей Геннадьевич": 9,
-      "Черепанова Ирина Юрьевна": 31,
-      "Черных Алексей Васильевич": 40,
-      "Против всех": 181
+      "gas:candidate-vibid:359300366626": 12,
+      "gas:candidate-vibid:359300366617": 485,
+      "gas:candidate-vibid:359300366644": 94,
+      "gas:candidate-vibid:1001000121892": 46,
+      "gas:candidate-vibid:1001000217948": 28,
+      "gas:candidate-vibid:1001000136101": 18,
+      "gas:candidate-vibid:1001000113966": 307,
+      "gas:candidate-vibid:359300367042": 9,
+      "gas:candidate-vibid:359300366650": 31,
+      "gas:candidate-vibid:1001000188017": 40,
+      "special:against-all": 181
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=593003006&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=359300366983&region=0&sub_region=0&type=429",
@@ -4242,17 +4242,17 @@ export const duma_2003_uik_428_region_59_part_007 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Абдрашитов Халил Робертович": 20,
-      "Анохин Павел Викторович": 441,
-      "Вахрин Вячеслав Михайлович": 76,
-      "Корсун Владимир Кузьмич": 44,
-      "Мубаракшин Александр Вазирович": 23,
-      "Неворотов Игорь Владимирович": 27,
-      "Неустроев Илья Григорьевич": 405,
-      "Семенов Сергей Геннадьевич": 5,
-      "Черепанова Ирина Юрьевна": 43,
-      "Черных Алексей Васильевич": 46,
-      "Против всех": 247
+      "gas:candidate-vibid:359300366626": 20,
+      "gas:candidate-vibid:359300366617": 441,
+      "gas:candidate-vibid:359300366644": 76,
+      "gas:candidate-vibid:1001000121892": 44,
+      "gas:candidate-vibid:1001000217948": 23,
+      "gas:candidate-vibid:1001000136101": 27,
+      "gas:candidate-vibid:1001000113966": 405,
+      "gas:candidate-vibid:359300367042": 5,
+      "gas:candidate-vibid:359300366650": 43,
+      "gas:candidate-vibid:1001000188017": 46,
+      "special:against-all": 247
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=593003006&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=359300366983&region=0&sub_region=0&type=429",
@@ -4302,17 +4302,17 @@ export const duma_2003_uik_428_region_59_part_007 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Абдрашитов Халил Робертович": 16,
-      "Анохин Павел Викторович": 442,
-      "Вахрин Вячеслав Михайлович": 83,
-      "Корсун Владимир Кузьмич": 35,
-      "Мубаракшин Александр Вазирович": 20,
-      "Неворотов Игорь Владимирович": 20,
-      "Неустроев Илья Григорьевич": 257,
-      "Семенов Сергей Геннадьевич": 9,
-      "Черепанова Ирина Юрьевна": 51,
-      "Черных Алексей Васильевич": 36,
-      "Против всех": 255
+      "gas:candidate-vibid:359300366626": 16,
+      "gas:candidate-vibid:359300366617": 442,
+      "gas:candidate-vibid:359300366644": 83,
+      "gas:candidate-vibid:1001000121892": 35,
+      "gas:candidate-vibid:1001000217948": 20,
+      "gas:candidate-vibid:1001000136101": 20,
+      "gas:candidate-vibid:1001000113966": 257,
+      "gas:candidate-vibid:359300367042": 9,
+      "gas:candidate-vibid:359300366650": 51,
+      "gas:candidate-vibid:1001000188017": 36,
+      "special:against-all": 255
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=593003006&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=359300366983&region=0&sub_region=0&type=429",
@@ -4362,17 +4362,17 @@ export const duma_2003_uik_428_region_59_part_007 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Абдрашитов Халил Робертович": 12,
-      "Анохин Павел Викторович": 394,
-      "Вахрин Вячеслав Михайлович": 124,
-      "Корсун Владимир Кузьмич": 39,
-      "Мубаракшин Александр Вазирович": 20,
-      "Неворотов Игорь Владимирович": 20,
-      "Неустроев Илья Григорьевич": 366,
-      "Семенов Сергей Геннадьевич": 6,
-      "Черепанова Ирина Юрьевна": 56,
-      "Черных Алексей Васильевич": 59,
-      "Против всех": 242
+      "gas:candidate-vibid:359300366626": 12,
+      "gas:candidate-vibid:359300366617": 394,
+      "gas:candidate-vibid:359300366644": 124,
+      "gas:candidate-vibid:1001000121892": 39,
+      "gas:candidate-vibid:1001000217948": 20,
+      "gas:candidate-vibid:1001000136101": 20,
+      "gas:candidate-vibid:1001000113966": 366,
+      "gas:candidate-vibid:359300367042": 6,
+      "gas:candidate-vibid:359300366650": 56,
+      "gas:candidate-vibid:1001000188017": 59,
+      "special:against-all": 242
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=593003006&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=359300366983&region=0&sub_region=0&type=429",
@@ -4422,17 +4422,17 @@ export const duma_2003_uik_428_region_59_part_007 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Абдрашитов Халил Робертович": 6,
-      "Анохин Павел Викторович": 275,
-      "Вахрин Вячеслав Михайлович": 60,
-      "Корсун Владимир Кузьмич": 25,
-      "Мубаракшин Александр Вазирович": 19,
-      "Неворотов Игорь Владимирович": 14,
-      "Неустроев Илья Григорьевич": 270,
-      "Семенов Сергей Геннадьевич": 8,
-      "Черепанова Ирина Юрьевна": 30,
-      "Черных Алексей Васильевич": 26,
-      "Против всех": 219
+      "gas:candidate-vibid:359300366626": 6,
+      "gas:candidate-vibid:359300366617": 275,
+      "gas:candidate-vibid:359300366644": 60,
+      "gas:candidate-vibid:1001000121892": 25,
+      "gas:candidate-vibid:1001000217948": 19,
+      "gas:candidate-vibid:1001000136101": 14,
+      "gas:candidate-vibid:1001000113966": 270,
+      "gas:candidate-vibid:359300367042": 8,
+      "gas:candidate-vibid:359300366650": 30,
+      "gas:candidate-vibid:1001000188017": 26,
+      "special:against-all": 219
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=593003006&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=359300366983&region=0&sub_region=0&type=429",
@@ -4482,17 +4482,17 @@ export const duma_2003_uik_428_region_59_part_007 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Абдрашитов Халил Робертович": 6,
-      "Анохин Павел Викторович": 509,
-      "Вахрин Вячеслав Михайлович": 108,
-      "Корсун Владимир Кузьмич": 32,
-      "Мубаракшин Александр Вазирович": 31,
-      "Неворотов Игорь Владимирович": 22,
-      "Неустроев Илья Григорьевич": 301,
-      "Семенов Сергей Геннадьевич": 13,
-      "Черепанова Ирина Юрьевна": 59,
-      "Черных Алексей Васильевич": 41,
-      "Против всех": 318
+      "gas:candidate-vibid:359300366626": 6,
+      "gas:candidate-vibid:359300366617": 509,
+      "gas:candidate-vibid:359300366644": 108,
+      "gas:candidate-vibid:1001000121892": 32,
+      "gas:candidate-vibid:1001000217948": 31,
+      "gas:candidate-vibid:1001000136101": 22,
+      "gas:candidate-vibid:1001000113966": 301,
+      "gas:candidate-vibid:359300367042": 13,
+      "gas:candidate-vibid:359300366650": 59,
+      "gas:candidate-vibid:1001000188017": 41,
+      "special:against-all": 318
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=593003006&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=359300366983&region=0&sub_region=0&type=429",
@@ -4542,17 +4542,17 @@ export const duma_2003_uik_428_region_59_part_007 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Абдрашитов Халил Робертович": 6,
-      "Анохин Павел Викторович": 219,
-      "Вахрин Вячеслав Михайлович": 45,
-      "Корсун Владимир Кузьмич": 21,
-      "Мубаракшин Александр Вазирович": 16,
-      "Неворотов Игорь Владимирович": 8,
-      "Неустроев Илья Григорьевич": 144,
-      "Семенов Сергей Геннадьевич": 9,
-      "Черепанова Ирина Юрьевна": 14,
-      "Черных Алексей Васильевич": 25,
-      "Против всех": 124
+      "gas:candidate-vibid:359300366626": 6,
+      "gas:candidate-vibid:359300366617": 219,
+      "gas:candidate-vibid:359300366644": 45,
+      "gas:candidate-vibid:1001000121892": 21,
+      "gas:candidate-vibid:1001000217948": 16,
+      "gas:candidate-vibid:1001000136101": 8,
+      "gas:candidate-vibid:1001000113966": 144,
+      "gas:candidate-vibid:359300367042": 9,
+      "gas:candidate-vibid:359300366650": 14,
+      "gas:candidate-vibid:1001000188017": 25,
+      "special:against-all": 124
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=593003006&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=359300366983&region=0&sub_region=0&type=429",
@@ -4602,17 +4602,17 @@ export const duma_2003_uik_428_region_59_part_007 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Абдрашитов Халил Робертович": 5,
-      "Анохин Павел Викторович": 372,
-      "Вахрин Вячеслав Михайлович": 59,
-      "Корсун Владимир Кузьмич": 45,
-      "Мубаракшин Александр Вазирович": 32,
-      "Неворотов Игорь Владимирович": 21,
-      "Неустроев Илья Григорьевич": 213,
-      "Семенов Сергей Геннадьевич": 5,
-      "Черепанова Ирина Юрьевна": 35,
-      "Черных Алексей Васильевич": 16,
-      "Против всех": 154
+      "gas:candidate-vibid:359300366626": 5,
+      "gas:candidate-vibid:359300366617": 372,
+      "gas:candidate-vibid:359300366644": 59,
+      "gas:candidate-vibid:1001000121892": 45,
+      "gas:candidate-vibid:1001000217948": 32,
+      "gas:candidate-vibid:1001000136101": 21,
+      "gas:candidate-vibid:1001000113966": 213,
+      "gas:candidate-vibid:359300367042": 5,
+      "gas:candidate-vibid:359300366650": 35,
+      "gas:candidate-vibid:1001000188017": 16,
+      "special:against-all": 154
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=593003006&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=359300366983&region=0&sub_region=0&type=429",
@@ -4662,17 +4662,17 @@ export const duma_2003_uik_428_region_59_part_007 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Абдрашитов Халил Робертович": 9,
-      "Анохин Павел Викторович": 343,
-      "Вахрин Вячеслав Михайлович": 75,
-      "Корсун Владимир Кузьмич": 39,
-      "Мубаракшин Александр Вазирович": 37,
-      "Неворотов Игорь Владимирович": 19,
-      "Неустроев Илья Григорьевич": 289,
-      "Семенов Сергей Геннадьевич": 15,
-      "Черепанова Ирина Юрьевна": 32,
-      "Черных Алексей Васильевич": 25,
-      "Против всех": 164
+      "gas:candidate-vibid:359300366626": 9,
+      "gas:candidate-vibid:359300366617": 343,
+      "gas:candidate-vibid:359300366644": 75,
+      "gas:candidate-vibid:1001000121892": 39,
+      "gas:candidate-vibid:1001000217948": 37,
+      "gas:candidate-vibid:1001000136101": 19,
+      "gas:candidate-vibid:1001000113966": 289,
+      "gas:candidate-vibid:359300367042": 15,
+      "gas:candidate-vibid:359300366650": 32,
+      "gas:candidate-vibid:1001000188017": 25,
+      "special:against-all": 164
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=593003006&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=359300366983&region=0&sub_region=0&type=429",
@@ -4722,17 +4722,17 @@ export const duma_2003_uik_428_region_59_part_007 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Абдрашитов Халил Робертович": 17,
-      "Анохин Павел Викторович": 525,
-      "Вахрин Вячеслав Михайлович": 65,
-      "Корсун Владимир Кузьмич": 50,
-      "Мубаракшин Александр Вазирович": 30,
-      "Неворотов Игорь Владимирович": 12,
-      "Неустроев Илья Григорьевич": 330,
-      "Семенов Сергей Геннадьевич": 8,
-      "Черепанова Ирина Юрьевна": 51,
-      "Черных Алексей Васильевич": 35,
-      "Против всех": 242
+      "gas:candidate-vibid:359300366626": 17,
+      "gas:candidate-vibid:359300366617": 525,
+      "gas:candidate-vibid:359300366644": 65,
+      "gas:candidate-vibid:1001000121892": 50,
+      "gas:candidate-vibid:1001000217948": 30,
+      "gas:candidate-vibid:1001000136101": 12,
+      "gas:candidate-vibid:1001000113966": 330,
+      "gas:candidate-vibid:359300367042": 8,
+      "gas:candidate-vibid:359300366650": 51,
+      "gas:candidate-vibid:1001000188017": 35,
+      "special:against-all": 242
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=593003006&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=359300366983&region=0&sub_region=0&type=429",
@@ -4782,17 +4782,17 @@ export const duma_2003_uik_428_region_59_part_007 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Абдрашитов Халил Робертович": 8,
-      "Анохин Павел Викторович": 487,
-      "Вахрин Вячеслав Михайлович": 84,
-      "Корсун Владимир Кузьмич": 43,
-      "Мубаракшин Александр Вазирович": 37,
-      "Неворотов Игорь Владимирович": 17,
-      "Неустроев Илья Григорьевич": 371,
-      "Семенов Сергей Геннадьевич": 18,
-      "Черепанова Ирина Юрьевна": 57,
-      "Черных Алексей Васильевич": 34,
-      "Против всех": 272
+      "gas:candidate-vibid:359300366626": 8,
+      "gas:candidate-vibid:359300366617": 487,
+      "gas:candidate-vibid:359300366644": 84,
+      "gas:candidate-vibid:1001000121892": 43,
+      "gas:candidate-vibid:1001000217948": 37,
+      "gas:candidate-vibid:1001000136101": 17,
+      "gas:candidate-vibid:1001000113966": 371,
+      "gas:candidate-vibid:359300367042": 18,
+      "gas:candidate-vibid:359300366650": 57,
+      "gas:candidate-vibid:1001000188017": 34,
+      "special:against-all": 272
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=593003006&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=359300366983&region=0&sub_region=0&type=429",
@@ -4842,17 +4842,17 @@ export const duma_2003_uik_428_region_59_part_007 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Абдрашитов Халил Робертович": 11,
-      "Анохин Павел Викторович": 478,
-      "Вахрин Вячеслав Михайлович": 103,
-      "Корсун Владимир Кузьмич": 50,
-      "Мубаракшин Александр Вазирович": 20,
-      "Неворотов Игорь Владимирович": 26,
-      "Неустроев Илья Григорьевич": 295,
-      "Семенов Сергей Геннадьевич": 12,
-      "Черепанова Ирина Юрьевна": 52,
-      "Черных Алексей Васильевич": 47,
-      "Против всех": 267
+      "gas:candidate-vibid:359300366626": 11,
+      "gas:candidate-vibid:359300366617": 478,
+      "gas:candidate-vibid:359300366644": 103,
+      "gas:candidate-vibid:1001000121892": 50,
+      "gas:candidate-vibid:1001000217948": 20,
+      "gas:candidate-vibid:1001000136101": 26,
+      "gas:candidate-vibid:1001000113966": 295,
+      "gas:candidate-vibid:359300367042": 12,
+      "gas:candidate-vibid:359300366650": 52,
+      "gas:candidate-vibid:1001000188017": 47,
+      "special:against-all": 267
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=593003006&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=359300366983&region=0&sub_region=0&type=429",
@@ -4902,17 +4902,17 @@ export const duma_2003_uik_428_region_59_part_007 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Абдрашитов Халил Робертович": 12,
-      "Анохин Павел Викторович": 362,
-      "Вахрин Вячеслав Михайлович": 98,
-      "Корсун Владимир Кузьмич": 38,
-      "Мубаракшин Александр Вазирович": 27,
-      "Неворотов Игорь Владимирович": 17,
-      "Неустроев Илья Григорьевич": 306,
-      "Семенов Сергей Геннадьевич": 12,
-      "Черепанова Ирина Юрьевна": 34,
-      "Черных Алексей Васильевич": 20,
-      "Против всех": 303
+      "gas:candidate-vibid:359300366626": 12,
+      "gas:candidate-vibid:359300366617": 362,
+      "gas:candidate-vibid:359300366644": 98,
+      "gas:candidate-vibid:1001000121892": 38,
+      "gas:candidate-vibid:1001000217948": 27,
+      "gas:candidate-vibid:1001000136101": 17,
+      "gas:candidate-vibid:1001000113966": 306,
+      "gas:candidate-vibid:359300367042": 12,
+      "gas:candidate-vibid:359300366650": 34,
+      "gas:candidate-vibid:1001000188017": 20,
+      "special:against-all": 303
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=593003006&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=359300366983&region=0&sub_region=0&type=429",
@@ -4962,17 +4962,17 @@ export const duma_2003_uik_428_region_59_part_007 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Абдрашитов Халил Робертович": 9,
-      "Анохин Павел Викторович": 397,
-      "Вахрин Вячеслав Михайлович": 101,
-      "Корсун Владимир Кузьмич": 48,
-      "Мубаракшин Александр Вазирович": 24,
-      "Неворотов Игорь Владимирович": 15,
-      "Неустроев Илья Григорьевич": 303,
-      "Семенов Сергей Геннадьевич": 9,
-      "Черепанова Ирина Юрьевна": 35,
-      "Черных Алексей Васильевич": 33,
-      "Против всех": 214
+      "gas:candidate-vibid:359300366626": 9,
+      "gas:candidate-vibid:359300366617": 397,
+      "gas:candidate-vibid:359300366644": 101,
+      "gas:candidate-vibid:1001000121892": 48,
+      "gas:candidate-vibid:1001000217948": 24,
+      "gas:candidate-vibid:1001000136101": 15,
+      "gas:candidate-vibid:1001000113966": 303,
+      "gas:candidate-vibid:359300367042": 9,
+      "gas:candidate-vibid:359300366650": 35,
+      "gas:candidate-vibid:1001000188017": 33,
+      "special:against-all": 214
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=593003006&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=359300366983&region=0&sub_region=0&type=429",
@@ -5022,17 +5022,17 @@ export const duma_2003_uik_428_region_59_part_007 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Абдрашитов Халил Робертович": 9,
-      "Анохин Павел Викторович": 304,
-      "Вахрин Вячеслав Михайлович": 84,
-      "Корсун Владимир Кузьмич": 36,
-      "Мубаракшин Александр Вазирович": 33,
-      "Неворотов Игорь Владимирович": 16,
-      "Неустроев Илья Григорьевич": 423,
-      "Семенов Сергей Геннадьевич": 6,
-      "Черепанова Ирина Юрьевна": 30,
-      "Черных Алексей Васильевич": 28,
-      "Против всех": 217
+      "gas:candidate-vibid:359300366626": 9,
+      "gas:candidate-vibid:359300366617": 304,
+      "gas:candidate-vibid:359300366644": 84,
+      "gas:candidate-vibid:1001000121892": 36,
+      "gas:candidate-vibid:1001000217948": 33,
+      "gas:candidate-vibid:1001000136101": 16,
+      "gas:candidate-vibid:1001000113966": 423,
+      "gas:candidate-vibid:359300367042": 6,
+      "gas:candidate-vibid:359300366650": 30,
+      "gas:candidate-vibid:1001000188017": 28,
+      "special:against-all": 217
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=593003006&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=359300366983&region=0&sub_region=0&type=429",
@@ -5082,17 +5082,17 @@ export const duma_2003_uik_428_region_59_part_007 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Абдрашитов Халил Робертович": 14,
-      "Анохин Павел Викторович": 374,
-      "Вахрин Вячеслав Михайлович": 92,
-      "Корсун Владимир Кузьмич": 50,
-      "Мубаракшин Александр Вазирович": 15,
-      "Неворотов Игорь Владимирович": 16,
-      "Неустроев Илья Григорьевич": 276,
-      "Семенов Сергей Геннадьевич": 6,
-      "Черепанова Ирина Юрьевна": 34,
-      "Черных Алексей Васильевич": 24,
-      "Против всех": 181
+      "gas:candidate-vibid:359300366626": 14,
+      "gas:candidate-vibid:359300366617": 374,
+      "gas:candidate-vibid:359300366644": 92,
+      "gas:candidate-vibid:1001000121892": 50,
+      "gas:candidate-vibid:1001000217948": 15,
+      "gas:candidate-vibid:1001000136101": 16,
+      "gas:candidate-vibid:1001000113966": 276,
+      "gas:candidate-vibid:359300367042": 6,
+      "gas:candidate-vibid:359300366650": 34,
+      "gas:candidate-vibid:1001000188017": 24,
+      "special:against-all": 181
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=593003006&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=359300366983&region=0&sub_region=0&type=429",
@@ -5142,17 +5142,17 @@ export const duma_2003_uik_428_region_59_part_007 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Абдрашитов Халил Робертович": 16,
-      "Анохин Павел Викторович": 287,
-      "Вахрин Вячеслав Михайлович": 86,
-      "Корсун Владимир Кузьмич": 33,
-      "Мубаракшин Александр Вазирович": 20,
-      "Неворотов Игорь Владимирович": 22,
-      "Неустроев Илья Григорьевич": 278,
-      "Семенов Сергей Геннадьевич": 12,
-      "Черепанова Ирина Юрьевна": 20,
-      "Черных Алексей Васильевич": 18,
-      "Против всех": 158
+      "gas:candidate-vibid:359300366626": 16,
+      "gas:candidate-vibid:359300366617": 287,
+      "gas:candidate-vibid:359300366644": 86,
+      "gas:candidate-vibid:1001000121892": 33,
+      "gas:candidate-vibid:1001000217948": 20,
+      "gas:candidate-vibid:1001000136101": 22,
+      "gas:candidate-vibid:1001000113966": 278,
+      "gas:candidate-vibid:359300367042": 12,
+      "gas:candidate-vibid:359300366650": 20,
+      "gas:candidate-vibid:1001000188017": 18,
+      "special:against-all": 158
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=593003006&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=359300366983&region=0&sub_region=0&type=429",
@@ -5202,17 +5202,17 @@ export const duma_2003_uik_428_region_59_part_007 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Абдрашитов Халил Робертович": 4,
-      "Анохин Павел Викторович": 232,
-      "Вахрин Вячеслав Михайлович": 66,
-      "Корсун Владимир Кузьмич": 31,
-      "Мубаракшин Александр Вазирович": 19,
-      "Неворотов Игорь Владимирович": 11,
-      "Неустроев Илья Григорьевич": 230,
-      "Семенов Сергей Геннадьевич": 7,
-      "Черепанова Ирина Юрьевна": 28,
-      "Черных Алексей Васильевич": 24,
-      "Против всех": 125
+      "gas:candidate-vibid:359300366626": 4,
+      "gas:candidate-vibid:359300366617": 232,
+      "gas:candidate-vibid:359300366644": 66,
+      "gas:candidate-vibid:1001000121892": 31,
+      "gas:candidate-vibid:1001000217948": 19,
+      "gas:candidate-vibid:1001000136101": 11,
+      "gas:candidate-vibid:1001000113966": 230,
+      "gas:candidate-vibid:359300367042": 7,
+      "gas:candidate-vibid:359300366650": 28,
+      "gas:candidate-vibid:1001000188017": 24,
+      "special:against-all": 125
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=593003006&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=359300366983&region=0&sub_region=0&type=429",
@@ -5262,17 +5262,17 @@ export const duma_2003_uik_428_region_59_part_007 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Абдрашитов Халил Робертович": 10,
-      "Анохин Павел Викторович": 276,
-      "Вахрин Вячеслав Михайлович": 71,
-      "Корсун Владимир Кузьмич": 33,
-      "Мубаракшин Александр Вазирович": 15,
-      "Неворотов Игорь Владимирович": 18,
-      "Неустроев Илья Григорьевич": 221,
-      "Семенов Сергей Геннадьевич": 9,
-      "Черепанова Ирина Юрьевна": 28,
-      "Черных Алексей Васильевич": 33,
-      "Против всех": 120
+      "gas:candidate-vibid:359300366626": 10,
+      "gas:candidate-vibid:359300366617": 276,
+      "gas:candidate-vibid:359300366644": 71,
+      "gas:candidate-vibid:1001000121892": 33,
+      "gas:candidate-vibid:1001000217948": 15,
+      "gas:candidate-vibid:1001000136101": 18,
+      "gas:candidate-vibid:1001000113966": 221,
+      "gas:candidate-vibid:359300367042": 9,
+      "gas:candidate-vibid:359300366650": 28,
+      "gas:candidate-vibid:1001000188017": 33,
+      "special:against-all": 120
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=593003006&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=359300366983&region=0&sub_region=0&type=429",
@@ -5322,17 +5322,17 @@ export const duma_2003_uik_428_region_59_part_007 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Абдрашитов Халил Робертович": 7,
-      "Анохин Павел Викторович": 226,
-      "Вахрин Вячеслав Михайлович": 76,
-      "Корсун Владимир Кузьмич": 33,
-      "Мубаракшин Александр Вазирович": 18,
-      "Неворотов Игорь Владимирович": 20,
-      "Неустроев Илья Григорьевич": 334,
-      "Семенов Сергей Геннадьевич": 10,
-      "Черепанова Ирина Юрьевна": 38,
-      "Черных Алексей Васильевич": 20,
-      "Против всех": 158
+      "gas:candidate-vibid:359300366626": 7,
+      "gas:candidate-vibid:359300366617": 226,
+      "gas:candidate-vibid:359300366644": 76,
+      "gas:candidate-vibid:1001000121892": 33,
+      "gas:candidate-vibid:1001000217948": 18,
+      "gas:candidate-vibid:1001000136101": 20,
+      "gas:candidate-vibid:1001000113966": 334,
+      "gas:candidate-vibid:359300367042": 10,
+      "gas:candidate-vibid:359300366650": 38,
+      "gas:candidate-vibid:1001000188017": 20,
+      "special:against-all": 158
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=593003006&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=359300366983&region=0&sub_region=0&type=429",
@@ -5382,17 +5382,17 @@ export const duma_2003_uik_428_region_59_part_007 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Абдрашитов Халил Робертович": 2,
-      "Анохин Павел Викторович": 198,
-      "Вахрин Вячеслав Михайлович": 45,
-      "Корсун Владимир Кузьмич": 24,
-      "Мубаракшин Александр Вазирович": 13,
-      "Неворотов Игорь Владимирович": 11,
-      "Неустроев Илья Григорьевич": 240,
-      "Семенов Сергей Геннадьевич": 2,
-      "Черепанова Ирина Юрьевна": 20,
-      "Черных Алексей Васильевич": 21,
-      "Против всех": 123
+      "gas:candidate-vibid:359300366626": 2,
+      "gas:candidate-vibid:359300366617": 198,
+      "gas:candidate-vibid:359300366644": 45,
+      "gas:candidate-vibid:1001000121892": 24,
+      "gas:candidate-vibid:1001000217948": 13,
+      "gas:candidate-vibid:1001000136101": 11,
+      "gas:candidate-vibid:1001000113966": 240,
+      "gas:candidate-vibid:359300367042": 2,
+      "gas:candidate-vibid:359300366650": 20,
+      "gas:candidate-vibid:1001000188017": 21,
+      "special:against-all": 123
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=593003006&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=359300366983&region=0&sub_region=0&type=429",
@@ -5442,17 +5442,17 @@ export const duma_2003_uik_428_region_59_part_007 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Абдрашитов Халил Робертович": 7,
-      "Анохин Павел Викторович": 266,
-      "Вахрин Вячеслав Михайлович": 70,
-      "Корсун Владимир Кузьмич": 30,
-      "Мубаракшин Александр Вазирович": 24,
-      "Неворотов Игорь Владимирович": 20,
-      "Неустроев Илья Григорьевич": 287,
-      "Семенов Сергей Геннадьевич": 6,
-      "Черепанова Ирина Юрьевна": 21,
-      "Черных Алексей Васильевич": 25,
-      "Против всех": 151
+      "gas:candidate-vibid:359300366626": 7,
+      "gas:candidate-vibid:359300366617": 266,
+      "gas:candidate-vibid:359300366644": 70,
+      "gas:candidate-vibid:1001000121892": 30,
+      "gas:candidate-vibid:1001000217948": 24,
+      "gas:candidate-vibid:1001000136101": 20,
+      "gas:candidate-vibid:1001000113966": 287,
+      "gas:candidate-vibid:359300367042": 6,
+      "gas:candidate-vibid:359300366650": 21,
+      "gas:candidate-vibid:1001000188017": 25,
+      "special:against-all": 151
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=593003006&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=359300366983&region=0&sub_region=0&type=429",
@@ -5502,17 +5502,17 @@ export const duma_2003_uik_428_region_59_part_007 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Абдрашитов Халил Робертович": 9,
-      "Анохин Павел Викторович": 266,
-      "Вахрин Вячеслав Михайлович": 63,
-      "Корсун Владимир Кузьмич": 33,
-      "Мубаракшин Александр Вазирович": 17,
-      "Неворотов Игорь Владимирович": 14,
-      "Неустроев Илья Григорьевич": 242,
-      "Семенов Сергей Геннадьевич": 11,
-      "Черепанова Ирина Юрьевна": 34,
-      "Черных Алексей Васильевич": 19,
-      "Против всех": 158
+      "gas:candidate-vibid:359300366626": 9,
+      "gas:candidate-vibid:359300366617": 266,
+      "gas:candidate-vibid:359300366644": 63,
+      "gas:candidate-vibid:1001000121892": 33,
+      "gas:candidate-vibid:1001000217948": 17,
+      "gas:candidate-vibid:1001000136101": 14,
+      "gas:candidate-vibid:1001000113966": 242,
+      "gas:candidate-vibid:359300367042": 11,
+      "gas:candidate-vibid:359300366650": 34,
+      "gas:candidate-vibid:1001000188017": 19,
+      "special:against-all": 158
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=593003006&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=359300366983&region=0&sub_region=0&type=429",
@@ -5562,17 +5562,17 @@ export const duma_2003_uik_428_region_59_part_007 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Абдрашитов Халил Робертович": 4,
-      "Анохин Павел Викторович": 201,
-      "Вахрин Вячеслав Михайлович": 70,
-      "Корсун Владимир Кузьмич": 35,
-      "Мубаракшин Александр Вазирович": 23,
-      "Неворотов Игорь Владимирович": 11,
-      "Неустроев Илья Григорьевич": 257,
-      "Семенов Сергей Геннадьевич": 16,
-      "Черепанова Ирина Юрьевна": 30,
-      "Черных Алексей Васильевич": 26,
-      "Против всех": 138
+      "gas:candidate-vibid:359300366626": 4,
+      "gas:candidate-vibid:359300366617": 201,
+      "gas:candidate-vibid:359300366644": 70,
+      "gas:candidate-vibid:1001000121892": 35,
+      "gas:candidate-vibid:1001000217948": 23,
+      "gas:candidate-vibid:1001000136101": 11,
+      "gas:candidate-vibid:1001000113966": 257,
+      "gas:candidate-vibid:359300367042": 16,
+      "gas:candidate-vibid:359300366650": 30,
+      "gas:candidate-vibid:1001000188017": 26,
+      "special:against-all": 138
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=593003006&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=359300366983&region=0&sub_region=0&type=429",
@@ -5622,17 +5622,17 @@ export const duma_2003_uik_428_region_59_part_007 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Абдрашитов Халил Робертович": 11,
-      "Анохин Павел Викторович": 272,
-      "Вахрин Вячеслав Михайлович": 96,
-      "Корсун Владимир Кузьмич": 44,
-      "Мубаракшин Александр Вазирович": 33,
-      "Неворотов Игорь Владимирович": 13,
-      "Неустроев Илья Григорьевич": 346,
-      "Семенов Сергей Геннадьевич": 7,
-      "Черепанова Ирина Юрьевна": 23,
-      "Черных Алексей Васильевич": 24,
-      "Против всех": 214
+      "gas:candidate-vibid:359300366626": 11,
+      "gas:candidate-vibid:359300366617": 272,
+      "gas:candidate-vibid:359300366644": 96,
+      "gas:candidate-vibid:1001000121892": 44,
+      "gas:candidate-vibid:1001000217948": 33,
+      "gas:candidate-vibid:1001000136101": 13,
+      "gas:candidate-vibid:1001000113966": 346,
+      "gas:candidate-vibid:359300367042": 7,
+      "gas:candidate-vibid:359300366650": 23,
+      "gas:candidate-vibid:1001000188017": 24,
+      "special:against-all": 214
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=593003006&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=359300366983&region=0&sub_region=0&type=429",
@@ -5682,17 +5682,17 @@ export const duma_2003_uik_428_region_59_part_007 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Абдрашитов Халил Робертович": 19,
-      "Анохин Павел Викторович": 494,
-      "Вахрин Вячеслав Михайлович": 89,
-      "Корсун Владимир Кузьмич": 45,
-      "Мубаракшин Александр Вазирович": 25,
-      "Неворотов Игорь Владимирович": 28,
-      "Неустроев Илья Григорьевич": 306,
-      "Семенов Сергей Геннадьевич": 16,
-      "Черепанова Ирина Юрьевна": 55,
-      "Черных Алексей Васильевич": 55,
-      "Против всех": 284
+      "gas:candidate-vibid:359300366626": 19,
+      "gas:candidate-vibid:359300366617": 494,
+      "gas:candidate-vibid:359300366644": 89,
+      "gas:candidate-vibid:1001000121892": 45,
+      "gas:candidate-vibid:1001000217948": 25,
+      "gas:candidate-vibid:1001000136101": 28,
+      "gas:candidate-vibid:1001000113966": 306,
+      "gas:candidate-vibid:359300367042": 16,
+      "gas:candidate-vibid:359300366650": 55,
+      "gas:candidate-vibid:1001000188017": 55,
+      "special:against-all": 284
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=593003006&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=359300366983&region=0&sub_region=0&type=429",
@@ -5742,17 +5742,17 @@ export const duma_2003_uik_428_region_59_part_007 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Абдрашитов Халил Робертович": 15,
-      "Анохин Павел Викторович": 423,
-      "Вахрин Вячеслав Михайлович": 110,
-      "Корсун Владимир Кузьмич": 41,
-      "Мубаракшин Александр Вазирович": 24,
-      "Неворотов Игорь Владимирович": 23,
-      "Неустроев Илья Григорьевич": 280,
-      "Семенов Сергей Геннадьевич": 7,
-      "Черепанова Ирина Юрьевна": 47,
-      "Черных Алексей Васильевич": 38,
-      "Против всех": 235
+      "gas:candidate-vibid:359300366626": 15,
+      "gas:candidate-vibid:359300366617": 423,
+      "gas:candidate-vibid:359300366644": 110,
+      "gas:candidate-vibid:1001000121892": 41,
+      "gas:candidate-vibid:1001000217948": 24,
+      "gas:candidate-vibid:1001000136101": 23,
+      "gas:candidate-vibid:1001000113966": 280,
+      "gas:candidate-vibid:359300367042": 7,
+      "gas:candidate-vibid:359300366650": 47,
+      "gas:candidate-vibid:1001000188017": 38,
+      "special:against-all": 235
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=593003006&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=359300366983&region=0&sub_region=0&type=429",
@@ -5802,17 +5802,17 @@ export const duma_2003_uik_428_region_59_part_007 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Абдрашитов Халил Робертович": 11,
-      "Анохин Павел Викторович": 537,
-      "Вахрин Вячеслав Михайлович": 102,
-      "Корсун Владимир Кузьмич": 63,
-      "Мубаракшин Александр Вазирович": 25,
-      "Неворотов Игорь Владимирович": 39,
-      "Неустроев Илья Григорьевич": 414,
-      "Семенов Сергей Геннадьевич": 12,
-      "Черепанова Ирина Юрьевна": 50,
-      "Черных Алексей Васильевич": 58,
-      "Против всех": 363
+      "gas:candidate-vibid:359300366626": 11,
+      "gas:candidate-vibid:359300366617": 537,
+      "gas:candidate-vibid:359300366644": 102,
+      "gas:candidate-vibid:1001000121892": 63,
+      "gas:candidate-vibid:1001000217948": 25,
+      "gas:candidate-vibid:1001000136101": 39,
+      "gas:candidate-vibid:1001000113966": 414,
+      "gas:candidate-vibid:359300367042": 12,
+      "gas:candidate-vibid:359300366650": 50,
+      "gas:candidate-vibid:1001000188017": 58,
+      "special:against-all": 363
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=593003006&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=359300366983&region=0&sub_region=0&type=429",
@@ -5862,17 +5862,17 @@ export const duma_2003_uik_428_region_59_part_007 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Абдрашитов Халил Робертович": 7,
-      "Анохин Павел Викторович": 409,
-      "Вахрин Вячеслав Михайлович": 84,
-      "Корсун Владимир Кузьмич": 57,
-      "Мубаракшин Александр Вазирович": 29,
-      "Неворотов Игорь Владимирович": 29,
-      "Неустроев Илья Григорьевич": 535,
-      "Семенов Сергей Геннадьевич": 7,
-      "Черепанова Ирина Юрьевна": 28,
-      "Черных Алексей Васильевич": 36,
-      "Против всех": 231
+      "gas:candidate-vibid:359300366626": 7,
+      "gas:candidate-vibid:359300366617": 409,
+      "gas:candidate-vibid:359300366644": 84,
+      "gas:candidate-vibid:1001000121892": 57,
+      "gas:candidate-vibid:1001000217948": 29,
+      "gas:candidate-vibid:1001000136101": 29,
+      "gas:candidate-vibid:1001000113966": 535,
+      "gas:candidate-vibid:359300367042": 7,
+      "gas:candidate-vibid:359300366650": 28,
+      "gas:candidate-vibid:1001000188017": 36,
+      "special:against-all": 231
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=593003006&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=359300366983&region=0&sub_region=0&type=429",
@@ -5922,17 +5922,17 @@ export const duma_2003_uik_428_region_59_part_007 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Абдрашитов Халил Робертович": 12,
-      "Анохин Павел Викторович": 361,
-      "Вахрин Вячеслав Михайлович": 86,
-      "Корсун Владимир Кузьмич": 62,
-      "Мубаракшин Александр Вазирович": 22,
-      "Неворотов Игорь Владимирович": 31,
-      "Неустроев Илья Григорьевич": 526,
-      "Семенов Сергей Геннадьевич": 6,
-      "Черепанова Ирина Юрьевна": 52,
-      "Черных Алексей Васильевич": 43,
-      "Против всех": 210
+      "gas:candidate-vibid:359300366626": 12,
+      "gas:candidate-vibid:359300366617": 361,
+      "gas:candidate-vibid:359300366644": 86,
+      "gas:candidate-vibid:1001000121892": 62,
+      "gas:candidate-vibid:1001000217948": 22,
+      "gas:candidate-vibid:1001000136101": 31,
+      "gas:candidate-vibid:1001000113966": 526,
+      "gas:candidate-vibid:359300367042": 6,
+      "gas:candidate-vibid:359300366650": 52,
+      "gas:candidate-vibid:1001000188017": 43,
+      "special:against-all": 210
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=593003006&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=359300366983&region=0&sub_region=0&type=429",
@@ -5982,17 +5982,17 @@ export const duma_2003_uik_428_region_59_part_007 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Абдрашитов Халил Робертович": 12,
-      "Анохин Павел Викторович": 414,
-      "Вахрин Вячеслав Михайлович": 118,
-      "Корсун Владимир Кузьмич": 46,
-      "Мубаракшин Александр Вазирович": 22,
-      "Неворотов Игорь Владимирович": 21,
-      "Неустроев Илья Григорьевич": 517,
-      "Семенов Сергей Геннадьевич": 6,
-      "Черепанова Ирина Юрьевна": 33,
-      "Черных Алексей Васильевич": 24,
-      "Против всех": 222
+      "gas:candidate-vibid:359300366626": 12,
+      "gas:candidate-vibid:359300366617": 414,
+      "gas:candidate-vibid:359300366644": 118,
+      "gas:candidate-vibid:1001000121892": 46,
+      "gas:candidate-vibid:1001000217948": 22,
+      "gas:candidate-vibid:1001000136101": 21,
+      "gas:candidate-vibid:1001000113966": 517,
+      "gas:candidate-vibid:359300367042": 6,
+      "gas:candidate-vibid:359300366650": 33,
+      "gas:candidate-vibid:1001000188017": 24,
+      "special:against-all": 222
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=593003006&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=359300366983&region=0&sub_region=0&type=429",
@@ -6042,17 +6042,17 @@ export const duma_2003_uik_428_region_59_part_007 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Абдрашитов Халил Робертович": 14,
-      "Анохин Павел Викторович": 451,
-      "Вахрин Вячеслав Михайлович": 107,
-      "Корсун Владимир Кузьмич": 53,
-      "Мубаракшин Александр Вазирович": 38,
-      "Неворотов Игорь Владимирович": 20,
-      "Неустроев Илья Григорьевич": 543,
-      "Семенов Сергей Геннадьевич": 15,
-      "Черепанова Ирина Юрьевна": 32,
-      "Черных Алексей Васильевич": 39,
-      "Против всех": 271
+      "gas:candidate-vibid:359300366626": 14,
+      "gas:candidate-vibid:359300366617": 451,
+      "gas:candidate-vibid:359300366644": 107,
+      "gas:candidate-vibid:1001000121892": 53,
+      "gas:candidate-vibid:1001000217948": 38,
+      "gas:candidate-vibid:1001000136101": 20,
+      "gas:candidate-vibid:1001000113966": 543,
+      "gas:candidate-vibid:359300367042": 15,
+      "gas:candidate-vibid:359300366650": 32,
+      "gas:candidate-vibid:1001000188017": 39,
+      "special:against-all": 271
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=593003006&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=359300366983&region=0&sub_region=0&type=429",
@@ -6102,17 +6102,17 @@ export const duma_2003_uik_428_region_59_part_007 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Абдрашитов Халил Робертович": 8,
-      "Анохин Павел Викторович": 364,
-      "Вахрин Вячеслав Михайлович": 64,
-      "Корсун Владимир Кузьмич": 32,
-      "Мубаракшин Александр Вазирович": 32,
-      "Неворотов Игорь Владимирович": 24,
-      "Неустроев Илья Григорьевич": 514,
-      "Семенов Сергей Геннадьевич": 4,
-      "Черепанова Ирина Юрьевна": 44,
-      "Черных Алексей Васильевич": 22,
-      "Против всех": 206
+      "gas:candidate-vibid:359300366626": 8,
+      "gas:candidate-vibid:359300366617": 364,
+      "gas:candidate-vibid:359300366644": 64,
+      "gas:candidate-vibid:1001000121892": 32,
+      "gas:candidate-vibid:1001000217948": 32,
+      "gas:candidate-vibid:1001000136101": 24,
+      "gas:candidate-vibid:1001000113966": 514,
+      "gas:candidate-vibid:359300367042": 4,
+      "gas:candidate-vibid:359300366650": 44,
+      "gas:candidate-vibid:1001000188017": 22,
+      "special:against-all": 206
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=593003006&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=359300366983&region=0&sub_region=0&type=429",
@@ -6162,17 +6162,17 @@ export const duma_2003_uik_428_region_59_part_007 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Абдрашитов Халил Робертович": 11,
-      "Анохин Павел Викторович": 374,
-      "Вахрин Вячеслав Михайлович": 75,
-      "Корсун Владимир Кузьмич": 51,
-      "Мубаракшин Александр Вазирович": 33,
-      "Неворотов Игорь Владимирович": 18,
-      "Неустроев Илья Григорьевич": 523,
-      "Семенов Сергей Геннадьевич": 15,
-      "Черепанова Ирина Юрьевна": 43,
-      "Черных Алексей Васильевич": 49,
-      "Против всех": 230
+      "gas:candidate-vibid:359300366626": 11,
+      "gas:candidate-vibid:359300366617": 374,
+      "gas:candidate-vibid:359300366644": 75,
+      "gas:candidate-vibid:1001000121892": 51,
+      "gas:candidate-vibid:1001000217948": 33,
+      "gas:candidate-vibid:1001000136101": 18,
+      "gas:candidate-vibid:1001000113966": 523,
+      "gas:candidate-vibid:359300367042": 15,
+      "gas:candidate-vibid:359300366650": 43,
+      "gas:candidate-vibid:1001000188017": 49,
+      "special:against-all": 230
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=593003006&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=359300366983&region=0&sub_region=0&type=429",
@@ -6222,17 +6222,17 @@ export const duma_2003_uik_428_region_59_part_007 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Абдрашитов Халил Робертович": 12,
-      "Анохин Павел Викторович": 297,
-      "Вахрин Вячеслав Михайлович": 100,
-      "Корсун Владимир Кузьмич": 47,
-      "Мубаракшин Александр Вазирович": 18,
-      "Неворотов Игорь Владимирович": 15,
-      "Неустроев Илья Григорьевич": 629,
-      "Семенов Сергей Геннадьевич": 13,
-      "Черепанова Ирина Юрьевна": 69,
-      "Черных Алексей Васильевич": 43,
-      "Против всех": 224
+      "gas:candidate-vibid:359300366626": 12,
+      "gas:candidate-vibid:359300366617": 297,
+      "gas:candidate-vibid:359300366644": 100,
+      "gas:candidate-vibid:1001000121892": 47,
+      "gas:candidate-vibid:1001000217948": 18,
+      "gas:candidate-vibid:1001000136101": 15,
+      "gas:candidate-vibid:1001000113966": 629,
+      "gas:candidate-vibid:359300367042": 13,
+      "gas:candidate-vibid:359300366650": 69,
+      "gas:candidate-vibid:1001000188017": 43,
+      "special:against-all": 224
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=593003006&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=359300366983&region=0&sub_region=0&type=429",
@@ -6282,17 +6282,17 @@ export const duma_2003_uik_428_region_59_part_007 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Абдрашитов Халил Робертович": 12,
-      "Анохин Павел Викторович": 277,
-      "Вахрин Вячеслав Михайлович": 101,
-      "Корсун Владимир Кузьмич": 53,
-      "Мубаракшин Александр Вазирович": 22,
-      "Неворотов Игорь Владимирович": 28,
-      "Неустроев Илья Григорьевич": 661,
-      "Семенов Сергей Геннадьевич": 13,
-      "Черепанова Ирина Юрьевна": 53,
-      "Черных Алексей Васильевич": 30,
-      "Против всех": 258
+      "gas:candidate-vibid:359300366626": 12,
+      "gas:candidate-vibid:359300366617": 277,
+      "gas:candidate-vibid:359300366644": 101,
+      "gas:candidate-vibid:1001000121892": 53,
+      "gas:candidate-vibid:1001000217948": 22,
+      "gas:candidate-vibid:1001000136101": 28,
+      "gas:candidate-vibid:1001000113966": 661,
+      "gas:candidate-vibid:359300367042": 13,
+      "gas:candidate-vibid:359300366650": 53,
+      "gas:candidate-vibid:1001000188017": 30,
+      "special:against-all": 258
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=593003006&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=359300366983&region=0&sub_region=0&type=429",
@@ -6342,17 +6342,17 @@ export const duma_2003_uik_428_region_59_part_007 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Абдрашитов Халил Робертович": 6,
-      "Анохин Павел Викторович": 226,
-      "Вахрин Вячеслав Михайлович": 88,
-      "Корсун Владимир Кузьмич": 31,
-      "Мубаракшин Александр Вазирович": 13,
-      "Неворотов Игорь Владимирович": 15,
-      "Неустроев Илья Григорьевич": 675,
-      "Семенов Сергей Геннадьевич": 3,
-      "Черепанова Ирина Юрьевна": 20,
-      "Черных Алексей Васильевич": 27,
-      "Против всех": 165
+      "gas:candidate-vibid:359300366626": 6,
+      "gas:candidate-vibid:359300366617": 226,
+      "gas:candidate-vibid:359300366644": 88,
+      "gas:candidate-vibid:1001000121892": 31,
+      "gas:candidate-vibid:1001000217948": 13,
+      "gas:candidate-vibid:1001000136101": 15,
+      "gas:candidate-vibid:1001000113966": 675,
+      "gas:candidate-vibid:359300367042": 3,
+      "gas:candidate-vibid:359300366650": 20,
+      "gas:candidate-vibid:1001000188017": 27,
+      "special:against-all": 165
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=593003006&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=359300366983&region=0&sub_region=0&type=429",
@@ -6402,17 +6402,17 @@ export const duma_2003_uik_428_region_59_part_007 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Абдрашитов Халил Робертович": 9,
-      "Анохин Павел Викторович": 254,
-      "Вахрин Вячеслав Михайлович": 116,
-      "Корсун Владимир Кузьмич": 32,
-      "Мубаракшин Александр Вазирович": 20,
-      "Неворотов Игорь Владимирович": 18,
-      "Неустроев Илья Григорьевич": 524,
-      "Семенов Сергей Геннадьевич": 9,
-      "Черепанова Ирина Юрьевна": 33,
-      "Черных Алексей Васильевич": 34,
-      "Против всех": 176
+      "gas:candidate-vibid:359300366626": 9,
+      "gas:candidate-vibid:359300366617": 254,
+      "gas:candidate-vibid:359300366644": 116,
+      "gas:candidate-vibid:1001000121892": 32,
+      "gas:candidate-vibid:1001000217948": 20,
+      "gas:candidate-vibid:1001000136101": 18,
+      "gas:candidate-vibid:1001000113966": 524,
+      "gas:candidate-vibid:359300367042": 9,
+      "gas:candidate-vibid:359300366650": 33,
+      "gas:candidate-vibid:1001000188017": 34,
+      "special:against-all": 176
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=593003006&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=359300366983&region=0&sub_region=0&type=429",
@@ -6462,17 +6462,17 @@ export const duma_2003_uik_428_region_59_part_007 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Абдрашитов Халил Робертович": 6,
-      "Анохин Павел Викторович": 275,
-      "Вахрин Вячеслав Михайлович": 87,
-      "Корсун Владимир Кузьмич": 48,
-      "Мубаракшин Александр Вазирович": 12,
-      "Неворотов Игорь Владимирович": 20,
-      "Неустроев Илья Григорьевич": 474,
-      "Семенов Сергей Геннадьевич": 13,
-      "Черепанова Ирина Юрьевна": 29,
-      "Черных Алексей Васильевич": 18,
-      "Против всех": 188
+      "gas:candidate-vibid:359300366626": 6,
+      "gas:candidate-vibid:359300366617": 275,
+      "gas:candidate-vibid:359300366644": 87,
+      "gas:candidate-vibid:1001000121892": 48,
+      "gas:candidate-vibid:1001000217948": 12,
+      "gas:candidate-vibid:1001000136101": 20,
+      "gas:candidate-vibid:1001000113966": 474,
+      "gas:candidate-vibid:359300367042": 13,
+      "gas:candidate-vibid:359300366650": 29,
+      "gas:candidate-vibid:1001000188017": 18,
+      "special:against-all": 188
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=593003006&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=359300366983&region=0&sub_region=0&type=429",
@@ -6522,17 +6522,17 @@ export const duma_2003_uik_428_region_59_part_007 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Абдрашитов Халил Робертович": 9,
-      "Анохин Павел Викторович": 265,
-      "Вахрин Вячеслав Михайлович": 120,
-      "Корсун Владимир Кузьмич": 36,
-      "Мубаракшин Александр Вазирович": 21,
-      "Неворотов Игорь Владимирович": 39,
-      "Неустроев Илья Григорьевич": 496,
-      "Семенов Сергей Геннадьевич": 9,
-      "Черепанова Ирина Юрьевна": 41,
-      "Черных Алексей Васильевич": 23,
-      "Против всех": 212
+      "gas:candidate-vibid:359300366626": 9,
+      "gas:candidate-vibid:359300366617": 265,
+      "gas:candidate-vibid:359300366644": 120,
+      "gas:candidate-vibid:1001000121892": 36,
+      "gas:candidate-vibid:1001000217948": 21,
+      "gas:candidate-vibid:1001000136101": 39,
+      "gas:candidate-vibid:1001000113966": 496,
+      "gas:candidate-vibid:359300367042": 9,
+      "gas:candidate-vibid:359300366650": 41,
+      "gas:candidate-vibid:1001000188017": 23,
+      "special:against-all": 212
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=593003006&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=359300366983&region=0&sub_region=0&type=429",
@@ -6582,17 +6582,17 @@ export const duma_2003_uik_428_region_59_part_007 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Абдрашитов Халил Робертович": 6,
-      "Анохин Павел Викторович": 141,
-      "Вахрин Вячеслав Михайлович": 76,
-      "Корсун Владимир Кузьмич": 29,
-      "Мубаракшин Александр Вазирович": 31,
-      "Неворотов Игорь Владимирович": 17,
-      "Неустроев Илья Григорьевич": 417,
-      "Семенов Сергей Геннадьевич": 5,
-      "Черепанова Ирина Юрьевна": 16,
-      "Черных Алексей Васильевич": 18,
-      "Против всех": 139
+      "gas:candidate-vibid:359300366626": 6,
+      "gas:candidate-vibid:359300366617": 141,
+      "gas:candidate-vibid:359300366644": 76,
+      "gas:candidate-vibid:1001000121892": 29,
+      "gas:candidate-vibid:1001000217948": 31,
+      "gas:candidate-vibid:1001000136101": 17,
+      "gas:candidate-vibid:1001000113966": 417,
+      "gas:candidate-vibid:359300367042": 5,
+      "gas:candidate-vibid:359300366650": 16,
+      "gas:candidate-vibid:1001000188017": 18,
+      "special:against-all": 139
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=593003006&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=359300366983&region=0&sub_region=0&type=429",
@@ -6642,17 +6642,17 @@ export const duma_2003_uik_428_region_59_part_007 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Абдрашитов Халил Робертович": 12,
-      "Анохин Павел Викторович": 178,
-      "Вахрин Вячеслав Михайлович": 59,
-      "Корсун Владимир Кузьмич": 33,
-      "Мубаракшин Александр Вазирович": 32,
-      "Неворотов Игорь Владимирович": 24,
-      "Неустроев Илья Григорьевич": 360,
-      "Семенов Сергей Геннадьевич": 8,
-      "Черепанова Ирина Юрьевна": 49,
-      "Черных Алексей Васильевич": 23,
-      "Против всех": 149
+      "gas:candidate-vibid:359300366626": 12,
+      "gas:candidate-vibid:359300366617": 178,
+      "gas:candidate-vibid:359300366644": 59,
+      "gas:candidate-vibid:1001000121892": 33,
+      "gas:candidate-vibid:1001000217948": 32,
+      "gas:candidate-vibid:1001000136101": 24,
+      "gas:candidate-vibid:1001000113966": 360,
+      "gas:candidate-vibid:359300367042": 8,
+      "gas:candidate-vibid:359300366650": 49,
+      "gas:candidate-vibid:1001000188017": 23,
+      "special:against-all": 149
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=593003006&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=359300366983&region=0&sub_region=0&type=429",
@@ -6702,17 +6702,17 @@ export const duma_2003_uik_428_region_59_part_007 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Абдрашитов Халил Робертович": 16,
-      "Анохин Павел Викторович": 253,
-      "Вахрин Вячеслав Михайлович": 98,
-      "Корсун Владимир Кузьмич": 34,
-      "Мубаракшин Александр Вазирович": 57,
-      "Неворотов Игорь Владимирович": 16,
-      "Неустроев Илья Григорьевич": 505,
-      "Семенов Сергей Геннадьевич": 17,
-      "Черепанова Ирина Юрьевна": 51,
-      "Черных Алексей Васильевич": 46,
-      "Против всех": 259
+      "gas:candidate-vibid:359300366626": 16,
+      "gas:candidate-vibid:359300366617": 253,
+      "gas:candidate-vibid:359300366644": 98,
+      "gas:candidate-vibid:1001000121892": 34,
+      "gas:candidate-vibid:1001000217948": 57,
+      "gas:candidate-vibid:1001000136101": 16,
+      "gas:candidate-vibid:1001000113966": 505,
+      "gas:candidate-vibid:359300367042": 17,
+      "gas:candidate-vibid:359300366650": 51,
+      "gas:candidate-vibid:1001000188017": 46,
+      "special:against-all": 259
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=593003006&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=359300366983&region=0&sub_region=0&type=429",
@@ -6762,17 +6762,17 @@ export const duma_2003_uik_428_region_59_part_007 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Абдрашитов Халил Робертович": 11,
-      "Анохин Павел Викторович": 243,
-      "Вахрин Вячеслав Михайлович": 126,
-      "Корсун Владимир Кузьмич": 32,
-      "Мубаракшин Александр Вазирович": 38,
-      "Неворотов Игорь Владимирович": 27,
-      "Неустроев Илья Григорьевич": 558,
-      "Семенов Сергей Геннадьевич": 17,
-      "Черепанова Ирина Юрьевна": 50,
-      "Черных Алексей Васильевич": 30,
-      "Против всех": 240
+      "gas:candidate-vibid:359300366626": 11,
+      "gas:candidate-vibid:359300366617": 243,
+      "gas:candidate-vibid:359300366644": 126,
+      "gas:candidate-vibid:1001000121892": 32,
+      "gas:candidate-vibid:1001000217948": 38,
+      "gas:candidate-vibid:1001000136101": 27,
+      "gas:candidate-vibid:1001000113966": 558,
+      "gas:candidate-vibid:359300367042": 17,
+      "gas:candidate-vibid:359300366650": 50,
+      "gas:candidate-vibid:1001000188017": 30,
+      "special:against-all": 240
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=593003006&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=359300366983&region=0&sub_region=0&type=429",
@@ -6822,17 +6822,17 @@ export const duma_2003_uik_428_region_59_part_007 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Абдрашитов Халил Робертович": 7,
-      "Анохин Павел Викторович": 183,
-      "Вахрин Вячеслав Михайлович": 78,
-      "Корсун Владимир Кузьмич": 22,
-      "Мубаракшин Александр Вазирович": 24,
-      "Неворотов Игорь Владимирович": 21,
-      "Неустроев Илья Григорьевич": 294,
-      "Семенов Сергей Геннадьевич": 3,
-      "Черепанова Ирина Юрьевна": 17,
-      "Черных Алексей Васильевич": 8,
-      "Против всех": 108
+      "gas:candidate-vibid:359300366626": 7,
+      "gas:candidate-vibid:359300366617": 183,
+      "gas:candidate-vibid:359300366644": 78,
+      "gas:candidate-vibid:1001000121892": 22,
+      "gas:candidate-vibid:1001000217948": 24,
+      "gas:candidate-vibid:1001000136101": 21,
+      "gas:candidate-vibid:1001000113966": 294,
+      "gas:candidate-vibid:359300367042": 3,
+      "gas:candidate-vibid:359300366650": 17,
+      "gas:candidate-vibid:1001000188017": 8,
+      "special:against-all": 108
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=593003006&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=359300366983&region=0&sub_region=0&type=429",
@@ -6882,17 +6882,17 @@ export const duma_2003_uik_428_region_59_part_007 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Абдрашитов Халил Робертович": 7,
-      "Анохин Павел Викторович": 139,
-      "Вахрин Вячеслав Михайлович": 41,
-      "Корсун Владимир Кузьмич": 17,
-      "Мубаракшин Александр Вазирович": 18,
-      "Неворотов Игорь Владимирович": 14,
-      "Неустроев Илья Григорьевич": 230,
-      "Семенов Сергей Геннадьевич": 5,
-      "Черепанова Ирина Юрьевна": 14,
-      "Черных Алексей Васильевич": 14,
-      "Против всех": 93
+      "gas:candidate-vibid:359300366626": 7,
+      "gas:candidate-vibid:359300366617": 139,
+      "gas:candidate-vibid:359300366644": 41,
+      "gas:candidate-vibid:1001000121892": 17,
+      "gas:candidate-vibid:1001000217948": 18,
+      "gas:candidate-vibid:1001000136101": 14,
+      "gas:candidate-vibid:1001000113966": 230,
+      "gas:candidate-vibid:359300367042": 5,
+      "gas:candidate-vibid:359300366650": 14,
+      "gas:candidate-vibid:1001000188017": 14,
+      "special:against-all": 93
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=593003006&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=359300366983&region=0&sub_region=0&type=429",
@@ -6942,17 +6942,17 @@ export const duma_2003_uik_428_region_59_part_007 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Абдрашитов Халил Робертович": 5,
-      "Анохин Павел Викторович": 306,
-      "Вахрин Вячеслав Михайлович": 70,
-      "Корсун Владимир Кузьмич": 17,
-      "Мубаракшин Александр Вазирович": 31,
-      "Неворотов Игорь Владимирович": 22,
-      "Неустроев Илья Григорьевич": 248,
-      "Семенов Сергей Геннадьевич": 6,
-      "Черепанова Ирина Юрьевна": 11,
-      "Черных Алексей Васильевич": 17,
-      "Против всех": 140
+      "gas:candidate-vibid:359300366626": 5,
+      "gas:candidate-vibid:359300366617": 306,
+      "gas:candidate-vibid:359300366644": 70,
+      "gas:candidate-vibid:1001000121892": 17,
+      "gas:candidate-vibid:1001000217948": 31,
+      "gas:candidate-vibid:1001000136101": 22,
+      "gas:candidate-vibid:1001000113966": 248,
+      "gas:candidate-vibid:359300367042": 6,
+      "gas:candidate-vibid:359300366650": 11,
+      "gas:candidate-vibid:1001000188017": 17,
+      "special:against-all": 140
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=593003006&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=359300366983&region=0&sub_region=0&type=429",
@@ -7002,17 +7002,17 @@ export const duma_2003_uik_428_region_59_part_007 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Абдрашитов Халил Робертович": 0,
-      "Анохин Павел Викторович": 88,
-      "Вахрин Вячеслав Михайлович": 14,
-      "Корсун Владимир Кузьмич": 5,
-      "Мубаракшин Александр Вазирович": 5,
-      "Неворотов Игорь Владимирович": 3,
-      "Неустроев Илья Григорьевич": 48,
-      "Семенов Сергей Геннадьевич": 2,
-      "Черепанова Ирина Юрьевна": 4,
-      "Черных Алексей Васильевич": 4,
-      "Против всех": 50
+      "gas:candidate-vibid:359300366626": 0,
+      "gas:candidate-vibid:359300366617": 88,
+      "gas:candidate-vibid:359300366644": 14,
+      "gas:candidate-vibid:1001000121892": 5,
+      "gas:candidate-vibid:1001000217948": 5,
+      "gas:candidate-vibid:1001000136101": 3,
+      "gas:candidate-vibid:1001000113966": 48,
+      "gas:candidate-vibid:359300367042": 2,
+      "gas:candidate-vibid:359300366650": 4,
+      "gas:candidate-vibid:1001000188017": 4,
+      "special:against-all": 50
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=593003006&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=359300366983&region=0&sub_region=0&type=429",
@@ -7062,17 +7062,17 @@ export const duma_2003_uik_428_region_59_part_007 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Абдрашитов Халил Робертович": 16,
-      "Анохин Павел Викторович": 443,
-      "Вахрин Вячеслав Михайлович": 131,
-      "Корсун Владимир Кузьмич": 31,
-      "Мубаракшин Александр Вазирович": 26,
-      "Неворотов Игорь Владимирович": 28,
-      "Неустроев Илья Григорьевич": 389,
-      "Семенов Сергей Геннадьевич": 10,
-      "Черепанова Ирина Юрьевна": 64,
-      "Черных Алексей Васильевич": 39,
-      "Против всех": 349
+      "gas:candidate-vibid:359300366626": 16,
+      "gas:candidate-vibid:359300366617": 443,
+      "gas:candidate-vibid:359300366644": 131,
+      "gas:candidate-vibid:1001000121892": 31,
+      "gas:candidate-vibid:1001000217948": 26,
+      "gas:candidate-vibid:1001000136101": 28,
+      "gas:candidate-vibid:1001000113966": 389,
+      "gas:candidate-vibid:359300367042": 10,
+      "gas:candidate-vibid:359300366650": 64,
+      "gas:candidate-vibid:1001000188017": 39,
+      "special:against-all": 349
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=593003006&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=359300366983&region=0&sub_region=0&type=429",
@@ -7122,17 +7122,17 @@ export const duma_2003_uik_428_region_59_part_007 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Абдрашитов Халил Робертович": 5,
-      "Анохин Павел Викторович": 87,
-      "Вахрин Вячеслав Михайлович": 20,
-      "Корсун Владимир Кузьмич": 7,
-      "Мубаракшин Александр Вазирович": 0,
-      "Неворотов Игорь Владимирович": 4,
-      "Неустроев Илья Григорьевич": 61,
-      "Семенов Сергей Геннадьевич": 0,
-      "Черепанова Ирина Юрьевна": 2,
-      "Черных Алексей Васильевич": 1,
-      "Против всех": 66
+      "gas:candidate-vibid:359300366626": 5,
+      "gas:candidate-vibid:359300366617": 87,
+      "gas:candidate-vibid:359300366644": 20,
+      "gas:candidate-vibid:1001000121892": 7,
+      "gas:candidate-vibid:1001000217948": 0,
+      "gas:candidate-vibid:1001000136101": 4,
+      "gas:candidate-vibid:1001000113966": 61,
+      "gas:candidate-vibid:359300367042": 0,
+      "gas:candidate-vibid:359300366650": 2,
+      "gas:candidate-vibid:1001000188017": 1,
+      "special:against-all": 66
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=593003006&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=359300366983&region=0&sub_region=0&type=429",
@@ -7182,17 +7182,17 @@ export const duma_2003_uik_428_region_59_part_007 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Абдрашитов Халил Робертович": 1,
-      "Анохин Павел Викторович": 91,
-      "Вахрин Вячеслав Михайлович": 55,
-      "Корсун Владимир Кузьмич": 5,
-      "Мубаракшин Александр Вазирович": 7,
-      "Неворотов Игорь Владимирович": 2,
-      "Неустроев Илья Григорьевич": 63,
-      "Семенов Сергей Геннадьевич": 1,
-      "Черепанова Ирина Юрьевна": 10,
-      "Черных Алексей Васильевич": 2,
-      "Против всех": 69
+      "gas:candidate-vibid:359300366626": 1,
+      "gas:candidate-vibid:359300366617": 91,
+      "gas:candidate-vibid:359300366644": 55,
+      "gas:candidate-vibid:1001000121892": 5,
+      "gas:candidate-vibid:1001000217948": 7,
+      "gas:candidate-vibid:1001000136101": 2,
+      "gas:candidate-vibid:1001000113966": 63,
+      "gas:candidate-vibid:359300367042": 1,
+      "gas:candidate-vibid:359300366650": 10,
+      "gas:candidate-vibid:1001000188017": 2,
+      "special:against-all": 69
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=593003006&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=359300366983&region=0&sub_region=0&type=429",
@@ -7242,17 +7242,17 @@ export const duma_2003_uik_428_region_59_part_007 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Абдрашитов Халил Робертович": 10,
-      "Анохин Павел Викторович": 265,
-      "Вахрин Вячеслав Михайлович": 104,
-      "Корсун Владимир Кузьмич": 24,
-      "Мубаракшин Александр Вазирович": 18,
-      "Неворотов Игорь Владимирович": 19,
-      "Неустроев Илья Григорьевич": 289,
-      "Семенов Сергей Геннадьевич": 14,
-      "Черепанова Ирина Юрьевна": 36,
-      "Черных Алексей Васильевич": 17,
-      "Против всех": 257
+      "gas:candidate-vibid:359300366626": 10,
+      "gas:candidate-vibid:359300366617": 265,
+      "gas:candidate-vibid:359300366644": 104,
+      "gas:candidate-vibid:1001000121892": 24,
+      "gas:candidate-vibid:1001000217948": 18,
+      "gas:candidate-vibid:1001000136101": 19,
+      "gas:candidate-vibid:1001000113966": 289,
+      "gas:candidate-vibid:359300367042": 14,
+      "gas:candidate-vibid:359300366650": 36,
+      "gas:candidate-vibid:1001000188017": 17,
+      "special:against-all": 257
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=593003006&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=359300366983&region=0&sub_region=0&type=429",
@@ -7302,17 +7302,17 @@ export const duma_2003_uik_428_region_59_part_007 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Абдрашитов Халил Робертович": 6,
-      "Анохин Павел Викторович": 255,
-      "Вахрин Вячеслав Михайлович": 141,
-      "Корсун Владимир Кузьмич": 65,
-      "Мубаракшин Александр Вазирович": 21,
-      "Неворотов Игорь Владимирович": 16,
-      "Неустроев Илья Григорьевич": 132,
-      "Семенов Сергей Геннадьевич": 4,
-      "Черепанова Ирина Юрьевна": 26,
-      "Черных Алексей Васильевич": 21,
-      "Против всех": 145
+      "gas:candidate-vibid:359300366626": 6,
+      "gas:candidate-vibid:359300366617": 255,
+      "gas:candidate-vibid:359300366644": 141,
+      "gas:candidate-vibid:1001000121892": 65,
+      "gas:candidate-vibid:1001000217948": 21,
+      "gas:candidate-vibid:1001000136101": 16,
+      "gas:candidate-vibid:1001000113966": 132,
+      "gas:candidate-vibid:359300367042": 4,
+      "gas:candidate-vibid:359300366650": 26,
+      "gas:candidate-vibid:1001000188017": 21,
+      "special:against-all": 145
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=593003007&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=359300366984&region=0&sub_region=0&type=429",
@@ -7362,17 +7362,17 @@ export const duma_2003_uik_428_region_59_part_007 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Абдрашитов Халил Робертович": 10,
-      "Анохин Павел Викторович": 292,
-      "Вахрин Вячеслав Михайлович": 129,
-      "Корсун Владимир Кузьмич": 77,
-      "Мубаракшин Александр Вазирович": 31,
-      "Неворотов Игорь Владимирович": 32,
-      "Неустроев Илья Григорьевич": 158,
-      "Семенов Сергей Геннадьевич": 10,
-      "Черепанова Ирина Юрьевна": 25,
-      "Черных Алексей Васильевич": 27,
-      "Против всех": 171
+      "gas:candidate-vibid:359300366626": 10,
+      "gas:candidate-vibid:359300366617": 292,
+      "gas:candidate-vibid:359300366644": 129,
+      "gas:candidate-vibid:1001000121892": 77,
+      "gas:candidate-vibid:1001000217948": 31,
+      "gas:candidate-vibid:1001000136101": 32,
+      "gas:candidate-vibid:1001000113966": 158,
+      "gas:candidate-vibid:359300367042": 10,
+      "gas:candidate-vibid:359300366650": 25,
+      "gas:candidate-vibid:1001000188017": 27,
+      "special:against-all": 171
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=593003007&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=359300366984&region=0&sub_region=0&type=429",
@@ -7422,17 +7422,17 @@ export const duma_2003_uik_428_region_59_part_007 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Абдрашитов Халил Робертович": 4,
-      "Анохин Павел Викторович": 242,
-      "Вахрин Вячеслав Михайлович": 148,
-      "Корсун Владимир Кузьмич": 96,
-      "Мубаракшин Александр Вазирович": 33,
-      "Неворотов Игорь Владимирович": 29,
-      "Неустроев Илья Григорьевич": 162,
-      "Семенов Сергей Геннадьевич": 26,
-      "Черепанова Ирина Юрьевна": 43,
-      "Черных Алексей Васильевич": 29,
-      "Против всех": 194
+      "gas:candidate-vibid:359300366626": 4,
+      "gas:candidate-vibid:359300366617": 242,
+      "gas:candidate-vibid:359300366644": 148,
+      "gas:candidate-vibid:1001000121892": 96,
+      "gas:candidate-vibid:1001000217948": 33,
+      "gas:candidate-vibid:1001000136101": 29,
+      "gas:candidate-vibid:1001000113966": 162,
+      "gas:candidate-vibid:359300367042": 26,
+      "gas:candidate-vibid:359300366650": 43,
+      "gas:candidate-vibid:1001000188017": 29,
+      "special:against-all": 194
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=593003007&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=359300366984&region=0&sub_region=0&type=429",
@@ -7482,17 +7482,17 @@ export const duma_2003_uik_428_region_59_part_007 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Абдрашитов Халил Робертович": 10,
-      "Анохин Павел Викторович": 418,
-      "Вахрин Вячеслав Михайлович": 177,
-      "Корсун Владимир Кузьмич": 89,
-      "Мубаракшин Александр Вазирович": 32,
-      "Неворотов Игорь Владимирович": 30,
-      "Неустроев Илья Григорьевич": 260,
-      "Семенов Сергей Геннадьевич": 11,
-      "Черепанова Ирина Юрьевна": 54,
-      "Черных Алексей Васильевич": 53,
-      "Против всех": 281
+      "gas:candidate-vibid:359300366626": 10,
+      "gas:candidate-vibid:359300366617": 418,
+      "gas:candidate-vibid:359300366644": 177,
+      "gas:candidate-vibid:1001000121892": 89,
+      "gas:candidate-vibid:1001000217948": 32,
+      "gas:candidate-vibid:1001000136101": 30,
+      "gas:candidate-vibid:1001000113966": 260,
+      "gas:candidate-vibid:359300367042": 11,
+      "gas:candidate-vibid:359300366650": 54,
+      "gas:candidate-vibid:1001000188017": 53,
+      "special:against-all": 281
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=593003007&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=359300366984&region=0&sub_region=0&type=429",
@@ -7542,17 +7542,17 @@ export const duma_2003_uik_428_region_59_part_007 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Абдрашитов Халил Робертович": 8,
-      "Анохин Павел Викторович": 343,
-      "Вахрин Вячеслав Михайлович": 78,
-      "Корсун Владимир Кузьмич": 59,
-      "Мубаракшин Александр Вазирович": 27,
-      "Неворотов Игорь Владимирович": 14,
-      "Неустроев Илья Григорьевич": 128,
-      "Семенов Сергей Геннадьевич": 6,
-      "Черепанова Ирина Юрьевна": 18,
-      "Черных Алексей Васильевич": 20,
-      "Против всех": 111
+      "gas:candidate-vibid:359300366626": 8,
+      "gas:candidate-vibid:359300366617": 343,
+      "gas:candidate-vibid:359300366644": 78,
+      "gas:candidate-vibid:1001000121892": 59,
+      "gas:candidate-vibid:1001000217948": 27,
+      "gas:candidate-vibid:1001000136101": 14,
+      "gas:candidate-vibid:1001000113966": 128,
+      "gas:candidate-vibid:359300367042": 6,
+      "gas:candidate-vibid:359300366650": 18,
+      "gas:candidate-vibid:1001000188017": 20,
+      "special:against-all": 111
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=593003007&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=359300366984&region=0&sub_region=0&type=429",
@@ -7602,17 +7602,17 @@ export const duma_2003_uik_428_region_59_part_007 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Абдрашитов Халил Робертович": 8,
-      "Анохин Павел Викторович": 327,
-      "Вахрин Вячеслав Михайлович": 59,
-      "Корсун Владимир Кузьмич": 66,
-      "Мубаракшин Александр Вазирович": 17,
-      "Неворотов Игорь Владимирович": 24,
-      "Неустроев Илья Григорьевич": 174,
-      "Семенов Сергей Геннадьевич": 5,
-      "Черепанова Ирина Юрьевна": 10,
-      "Черных Алексей Васильевич": 26,
-      "Против всех": 118
+      "gas:candidate-vibid:359300366626": 8,
+      "gas:candidate-vibid:359300366617": 327,
+      "gas:candidate-vibid:359300366644": 59,
+      "gas:candidate-vibid:1001000121892": 66,
+      "gas:candidate-vibid:1001000217948": 17,
+      "gas:candidate-vibid:1001000136101": 24,
+      "gas:candidate-vibid:1001000113966": 174,
+      "gas:candidate-vibid:359300367042": 5,
+      "gas:candidate-vibid:359300366650": 10,
+      "gas:candidate-vibid:1001000188017": 26,
+      "special:against-all": 118
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=593003007&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=359300366984&region=0&sub_region=0&type=429",
@@ -7662,17 +7662,17 @@ export const duma_2003_uik_428_region_59_part_007 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Абдрашитов Халил Робертович": 12,
-      "Анохин Павел Викторович": 443,
-      "Вахрин Вячеслав Михайлович": 138,
-      "Корсун Владимир Кузьмич": 97,
-      "Мубаракшин Александр Вазирович": 24,
-      "Неворотов Игорь Владимирович": 38,
-      "Неустроев Илья Григорьевич": 238,
-      "Семенов Сергей Геннадьевич": 13,
-      "Черепанова Ирина Юрьевна": 53,
-      "Черных Алексей Васильевич": 23,
-      "Против всех": 203
+      "gas:candidate-vibid:359300366626": 12,
+      "gas:candidate-vibid:359300366617": 443,
+      "gas:candidate-vibid:359300366644": 138,
+      "gas:candidate-vibid:1001000121892": 97,
+      "gas:candidate-vibid:1001000217948": 24,
+      "gas:candidate-vibid:1001000136101": 38,
+      "gas:candidate-vibid:1001000113966": 238,
+      "gas:candidate-vibid:359300367042": 13,
+      "gas:candidate-vibid:359300366650": 53,
+      "gas:candidate-vibid:1001000188017": 23,
+      "special:against-all": 203
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=593003007&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=359300366984&region=0&sub_region=0&type=429",
@@ -7722,17 +7722,17 @@ export const duma_2003_uik_428_region_59_part_007 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Абдрашитов Халил Робертович": 10,
-      "Анохин Павел Викторович": 372,
-      "Вахрин Вячеслав Михайлович": 85,
-      "Корсун Владимир Кузьмич": 77,
-      "Мубаракшин Александр Вазирович": 22,
-      "Неворотов Игорь Владимирович": 27,
-      "Неустроев Илья Григорьевич": 118,
-      "Семенов Сергей Геннадьевич": 6,
-      "Черепанова Ирина Юрьевна": 33,
-      "Черных Алексей Васильевич": 9,
-      "Против всех": 142
+      "gas:candidate-vibid:359300366626": 10,
+      "gas:candidate-vibid:359300366617": 372,
+      "gas:candidate-vibid:359300366644": 85,
+      "gas:candidate-vibid:1001000121892": 77,
+      "gas:candidate-vibid:1001000217948": 22,
+      "gas:candidate-vibid:1001000136101": 27,
+      "gas:candidate-vibid:1001000113966": 118,
+      "gas:candidate-vibid:359300367042": 6,
+      "gas:candidate-vibid:359300366650": 33,
+      "gas:candidate-vibid:1001000188017": 9,
+      "special:against-all": 142
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=593003007&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=359300366984&region=0&sub_region=0&type=429",
@@ -7782,17 +7782,17 @@ export const duma_2003_uik_428_region_59_part_007 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Абдрашитов Халил Робертович": 6,
-      "Анохин Павел Викторович": 328,
-      "Вахрин Вячеслав Михайлович": 77,
-      "Корсун Владимир Кузьмич": 101,
-      "Мубаракшин Александр Вазирович": 15,
-      "Неворотов Игорь Владимирович": 18,
-      "Неустроев Илья Григорьевич": 163,
-      "Семенов Сергей Геннадьевич": 12,
-      "Черепанова Ирина Юрьевна": 36,
-      "Черных Алексей Васильевич": 30,
-      "Против всех": 141
+      "gas:candidate-vibid:359300366626": 6,
+      "gas:candidate-vibid:359300366617": 328,
+      "gas:candidate-vibid:359300366644": 77,
+      "gas:candidate-vibid:1001000121892": 101,
+      "gas:candidate-vibid:1001000217948": 15,
+      "gas:candidate-vibid:1001000136101": 18,
+      "gas:candidate-vibid:1001000113966": 163,
+      "gas:candidate-vibid:359300367042": 12,
+      "gas:candidate-vibid:359300366650": 36,
+      "gas:candidate-vibid:1001000188017": 30,
+      "special:against-all": 141
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=593003007&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=359300366984&region=0&sub_region=0&type=429",
@@ -7842,17 +7842,17 @@ export const duma_2003_uik_428_region_59_part_007 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Абдрашитов Халил Робертович": 14,
-      "Анохин Павел Викторович": 315,
-      "Вахрин Вячеслав Михайлович": 129,
-      "Корсун Владимир Кузьмич": 80,
-      "Мубаракшин Александр Вазирович": 17,
-      "Неворотов Игорь Владимирович": 28,
-      "Неустроев Илья Григорьевич": 213,
-      "Семенов Сергей Геннадьевич": 8,
-      "Черепанова Ирина Юрьевна": 32,
-      "Черных Алексей Васильевич": 24,
-      "Против всех": 188
+      "gas:candidate-vibid:359300366626": 14,
+      "gas:candidate-vibid:359300366617": 315,
+      "gas:candidate-vibid:359300366644": 129,
+      "gas:candidate-vibid:1001000121892": 80,
+      "gas:candidate-vibid:1001000217948": 17,
+      "gas:candidate-vibid:1001000136101": 28,
+      "gas:candidate-vibid:1001000113966": 213,
+      "gas:candidate-vibid:359300367042": 8,
+      "gas:candidate-vibid:359300366650": 32,
+      "gas:candidate-vibid:1001000188017": 24,
+      "special:against-all": 188
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=593003007&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=359300366984&region=0&sub_region=0&type=429",
@@ -7902,17 +7902,17 @@ export const duma_2003_uik_428_region_59_part_007 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Абдрашитов Халил Робертович": 14,
-      "Анохин Павел Викторович": 428,
-      "Вахрин Вячеслав Михайлович": 109,
-      "Корсун Владимир Кузьмич": 123,
-      "Мубаракшин Александр Вазирович": 31,
-      "Неворотов Игорь Владимирович": 21,
-      "Неустроев Илья Григорьевич": 212,
-      "Семенов Сергей Геннадьевич": 16,
-      "Черепанова Ирина Юрьевна": 28,
-      "Черных Алексей Васильевич": 22,
-      "Против всех": 190
+      "gas:candidate-vibid:359300366626": 14,
+      "gas:candidate-vibid:359300366617": 428,
+      "gas:candidate-vibid:359300366644": 109,
+      "gas:candidate-vibid:1001000121892": 123,
+      "gas:candidate-vibid:1001000217948": 31,
+      "gas:candidate-vibid:1001000136101": 21,
+      "gas:candidate-vibid:1001000113966": 212,
+      "gas:candidate-vibid:359300367042": 16,
+      "gas:candidate-vibid:359300366650": 28,
+      "gas:candidate-vibid:1001000188017": 22,
+      "special:against-all": 190
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=593003007&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=359300366984&region=0&sub_region=0&type=429",
@@ -7962,17 +7962,17 @@ export const duma_2003_uik_428_region_59_part_007 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Абдрашитов Халил Робертович": 14,
-      "Анохин Павел Викторович": 394,
-      "Вахрин Вячеслав Михайлович": 106,
-      "Корсун Владимир Кузьмич": 98,
-      "Мубаракшин Александр Вазирович": 34,
-      "Неворотов Игорь Владимирович": 30,
-      "Неустроев Илья Григорьевич": 155,
-      "Семенов Сергей Геннадьевич": 10,
-      "Черепанова Ирина Юрьевна": 35,
-      "Черных Алексей Васильевич": 29,
-      "Против всех": 179
+      "gas:candidate-vibid:359300366626": 14,
+      "gas:candidate-vibid:359300366617": 394,
+      "gas:candidate-vibid:359300366644": 106,
+      "gas:candidate-vibid:1001000121892": 98,
+      "gas:candidate-vibid:1001000217948": 34,
+      "gas:candidate-vibid:1001000136101": 30,
+      "gas:candidate-vibid:1001000113966": 155,
+      "gas:candidate-vibid:359300367042": 10,
+      "gas:candidate-vibid:359300366650": 35,
+      "gas:candidate-vibid:1001000188017": 29,
+      "special:against-all": 179
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=593003007&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=359300366984&region=0&sub_region=0&type=429",
@@ -8022,17 +8022,17 @@ export const duma_2003_uik_428_region_59_part_007 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Абдрашитов Халил Робертович": 1,
-      "Анохин Павел Викторович": 141,
-      "Вахрин Вячеслав Михайлович": 49,
-      "Корсун Владимир Кузьмич": 43,
-      "Мубаракшин Александр Вазирович": 8,
-      "Неворотов Игорь Владимирович": 18,
-      "Неустроев Илья Григорьевич": 99,
-      "Семенов Сергей Геннадьевич": 8,
-      "Черепанова Ирина Юрьевна": 12,
-      "Черных Алексей Васильевич": 4,
-      "Против всех": 83
+      "gas:candidate-vibid:359300366626": 1,
+      "gas:candidate-vibid:359300366617": 141,
+      "gas:candidate-vibid:359300366644": 49,
+      "gas:candidate-vibid:1001000121892": 43,
+      "gas:candidate-vibid:1001000217948": 8,
+      "gas:candidate-vibid:1001000136101": 18,
+      "gas:candidate-vibid:1001000113966": 99,
+      "gas:candidate-vibid:359300367042": 8,
+      "gas:candidate-vibid:359300366650": 12,
+      "gas:candidate-vibid:1001000188017": 4,
+      "special:against-all": 83
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=593003007&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=359300366984&region=0&sub_region=0&type=429",
@@ -8082,17 +8082,17 @@ export const duma_2003_uik_428_region_59_part_007 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Абдрашитов Халил Робертович": 9,
-      "Анохин Павел Викторович": 256,
-      "Вахрин Вячеслав Михайлович": 139,
-      "Корсун Владимир Кузьмич": 111,
-      "Мубаракшин Александр Вазирович": 27,
-      "Неворотов Игорь Владимирович": 30,
-      "Неустроев Илья Григорьевич": 253,
-      "Семенов Сергей Геннадьевич": 10,
-      "Черепанова Ирина Юрьевна": 47,
-      "Черных Алексей Васильевич": 27,
-      "Против всех": 180
+      "gas:candidate-vibid:359300366626": 9,
+      "gas:candidate-vibid:359300366617": 256,
+      "gas:candidate-vibid:359300366644": 139,
+      "gas:candidate-vibid:1001000121892": 111,
+      "gas:candidate-vibid:1001000217948": 27,
+      "gas:candidate-vibid:1001000136101": 30,
+      "gas:candidate-vibid:1001000113966": 253,
+      "gas:candidate-vibid:359300367042": 10,
+      "gas:candidate-vibid:359300366650": 47,
+      "gas:candidate-vibid:1001000188017": 27,
+      "special:against-all": 180
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=593003007&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=359300366984&region=0&sub_region=0&type=429",
@@ -8142,17 +8142,17 @@ export const duma_2003_uik_428_region_59_part_007 = [
       "Число не учтенных при получении бюллетеней": 1
     },
     "votes": {
-      "Абдрашитов Халил Робертович": 10,
-      "Анохин Павел Викторович": 159,
-      "Вахрин Вячеслав Михайлович": 55,
-      "Корсун Владимир Кузьмич": 39,
-      "Мубаракшин Александр Вазирович": 7,
-      "Неворотов Игорь Владимирович": 13,
-      "Неустроев Илья Григорьевич": 172,
-      "Семенов Сергей Геннадьевич": 6,
-      "Черепанова Ирина Юрьевна": 14,
-      "Черных Алексей Васильевич": 13,
-      "Против всех": 115
+      "gas:candidate-vibid:359300366626": 10,
+      "gas:candidate-vibid:359300366617": 159,
+      "gas:candidate-vibid:359300366644": 55,
+      "gas:candidate-vibid:1001000121892": 39,
+      "gas:candidate-vibid:1001000217948": 7,
+      "gas:candidate-vibid:1001000136101": 13,
+      "gas:candidate-vibid:1001000113966": 172,
+      "gas:candidate-vibid:359300367042": 6,
+      "gas:candidate-vibid:359300366650": 14,
+      "gas:candidate-vibid:1001000188017": 13,
+      "special:against-all": 115
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=593003007&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=359300366984&region=0&sub_region=0&type=429",
@@ -8202,17 +8202,17 @@ export const duma_2003_uik_428_region_59_part_007 = [
       "Число не учтенных при получении бюллетеней": 1
     },
     "votes": {
-      "Абдрашитов Халил Робертович": 7,
-      "Анохин Павел Викторович": 263,
-      "Вахрин Вячеслав Михайлович": 108,
-      "Корсун Владимир Кузьмич": 80,
-      "Мубаракшин Александр Вазирович": 22,
-      "Неворотов Игорь Владимирович": 22,
-      "Неустроев Илья Григорьевич": 234,
-      "Семенов Сергей Геннадьевич": 7,
-      "Черепанова Ирина Юрьевна": 48,
-      "Черных Алексей Васильевич": 36,
-      "Против всех": 200
+      "gas:candidate-vibid:359300366626": 7,
+      "gas:candidate-vibid:359300366617": 263,
+      "gas:candidate-vibid:359300366644": 108,
+      "gas:candidate-vibid:1001000121892": 80,
+      "gas:candidate-vibid:1001000217948": 22,
+      "gas:candidate-vibid:1001000136101": 22,
+      "gas:candidate-vibid:1001000113966": 234,
+      "gas:candidate-vibid:359300367042": 7,
+      "gas:candidate-vibid:359300366650": 48,
+      "gas:candidate-vibid:1001000188017": 36,
+      "special:against-all": 200
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=593003007&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=359300366984&region=0&sub_region=0&type=429",
@@ -8262,17 +8262,17 @@ export const duma_2003_uik_428_region_59_part_007 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Абдрашитов Халил Робертович": 9,
-      "Анохин Павел Викторович": 201,
-      "Вахрин Вячеслав Михайлович": 95,
-      "Корсун Владимир Кузьмич": 73,
-      "Мубаракшин Александр Вазирович": 23,
-      "Неворотов Игорь Владимирович": 22,
-      "Неустроев Илья Григорьевич": 157,
-      "Семенов Сергей Геннадьевич": 4,
-      "Черепанова Ирина Юрьевна": 17,
-      "Черных Алексей Васильевич": 32,
-      "Против всех": 109
+      "gas:candidate-vibid:359300366626": 9,
+      "gas:candidate-vibid:359300366617": 201,
+      "gas:candidate-vibid:359300366644": 95,
+      "gas:candidate-vibid:1001000121892": 73,
+      "gas:candidate-vibid:1001000217948": 23,
+      "gas:candidate-vibid:1001000136101": 22,
+      "gas:candidate-vibid:1001000113966": 157,
+      "gas:candidate-vibid:359300367042": 4,
+      "gas:candidate-vibid:359300366650": 17,
+      "gas:candidate-vibid:1001000188017": 32,
+      "special:against-all": 109
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=593003007&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=359300366984&region=0&sub_region=0&type=429",
@@ -8322,17 +8322,17 @@ export const duma_2003_uik_428_region_59_part_007 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Абдрашитов Халил Робертович": 5,
-      "Анохин Павел Викторович": 248,
-      "Вахрин Вячеслав Михайлович": 117,
-      "Корсун Владимир Кузьмич": 82,
-      "Мубаракшин Александр Вазирович": 26,
-      "Неворотов Игорь Владимирович": 13,
-      "Неустроев Илья Григорьевич": 207,
-      "Семенов Сергей Геннадьевич": 6,
-      "Черепанова Ирина Юрьевна": 41,
-      "Черных Алексей Васильевич": 39,
-      "Против всех": 174
+      "gas:candidate-vibid:359300366626": 5,
+      "gas:candidate-vibid:359300366617": 248,
+      "gas:candidate-vibid:359300366644": 117,
+      "gas:candidate-vibid:1001000121892": 82,
+      "gas:candidate-vibid:1001000217948": 26,
+      "gas:candidate-vibid:1001000136101": 13,
+      "gas:candidate-vibid:1001000113966": 207,
+      "gas:candidate-vibid:359300367042": 6,
+      "gas:candidate-vibid:359300366650": 41,
+      "gas:candidate-vibid:1001000188017": 39,
+      "special:against-all": 174
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=593003007&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=359300366984&region=0&sub_region=0&type=429",
@@ -8382,17 +8382,17 @@ export const duma_2003_uik_428_region_59_part_007 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Абдрашитов Халил Робертович": 7,
-      "Анохин Павел Викторович": 212,
-      "Вахрин Вячеслав Михайлович": 71,
-      "Корсун Владимир Кузьмич": 86,
-      "Мубаракшин Александр Вазирович": 23,
-      "Неворотов Игорь Владимирович": 12,
-      "Неустроев Илья Григорьевич": 179,
-      "Семенов Сергей Геннадьевич": 4,
-      "Черепанова Ирина Юрьевна": 41,
-      "Черных Алексей Васильевич": 24,
-      "Против всех": 165
+      "gas:candidate-vibid:359300366626": 7,
+      "gas:candidate-vibid:359300366617": 212,
+      "gas:candidate-vibid:359300366644": 71,
+      "gas:candidate-vibid:1001000121892": 86,
+      "gas:candidate-vibid:1001000217948": 23,
+      "gas:candidate-vibid:1001000136101": 12,
+      "gas:candidate-vibid:1001000113966": 179,
+      "gas:candidate-vibid:359300367042": 4,
+      "gas:candidate-vibid:359300366650": 41,
+      "gas:candidate-vibid:1001000188017": 24,
+      "special:against-all": 165
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=593003007&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=359300366984&region=0&sub_region=0&type=429",
@@ -8442,17 +8442,17 @@ export const duma_2003_uik_428_region_59_part_007 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Абдрашитов Халил Робертович": 13,
-      "Анохин Павел Викторович": 285,
-      "Вахрин Вячеслав Михайлович": 115,
-      "Корсун Владимир Кузьмич": 106,
-      "Мубаракшин Александр Вазирович": 18,
-      "Неворотов Игорь Владимирович": 16,
-      "Неустроев Илья Григорьевич": 236,
-      "Семенов Сергей Геннадьевич": 14,
-      "Черепанова Ирина Юрьевна": 37,
-      "Черных Алексей Васильевич": 34,
-      "Против всех": 172
+      "gas:candidate-vibid:359300366626": 13,
+      "gas:candidate-vibid:359300366617": 285,
+      "gas:candidate-vibid:359300366644": 115,
+      "gas:candidate-vibid:1001000121892": 106,
+      "gas:candidate-vibid:1001000217948": 18,
+      "gas:candidate-vibid:1001000136101": 16,
+      "gas:candidate-vibid:1001000113966": 236,
+      "gas:candidate-vibid:359300367042": 14,
+      "gas:candidate-vibid:359300366650": 37,
+      "gas:candidate-vibid:1001000188017": 34,
+      "special:against-all": 172
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=593003007&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=359300366984&region=0&sub_region=0&type=429",
@@ -8502,17 +8502,17 @@ export const duma_2003_uik_428_region_59_part_007 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Абдрашитов Халил Робертович": 7,
-      "Анохин Павел Викторович": 201,
-      "Вахрин Вячеслав Михайлович": 94,
-      "Корсун Владимир Кузьмич": 107,
-      "Мубаракшин Александр Вазирович": 20,
-      "Неворотов Игорь Владимирович": 13,
-      "Неустроев Илья Григорьевич": 221,
-      "Семенов Сергей Геннадьевич": 9,
-      "Черепанова Ирина Юрьевна": 43,
-      "Черных Алексей Васильевич": 21,
-      "Против всех": 154
+      "gas:candidate-vibid:359300366626": 7,
+      "gas:candidate-vibid:359300366617": 201,
+      "gas:candidate-vibid:359300366644": 94,
+      "gas:candidate-vibid:1001000121892": 107,
+      "gas:candidate-vibid:1001000217948": 20,
+      "gas:candidate-vibid:1001000136101": 13,
+      "gas:candidate-vibid:1001000113966": 221,
+      "gas:candidate-vibid:359300367042": 9,
+      "gas:candidate-vibid:359300366650": 43,
+      "gas:candidate-vibid:1001000188017": 21,
+      "special:against-all": 154
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=593003007&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=359300366984&region=0&sub_region=0&type=429",
@@ -8562,17 +8562,17 @@ export const duma_2003_uik_428_region_59_part_007 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Абдрашитов Халил Робертович": 6,
-      "Анохин Павел Викторович": 357,
-      "Вахрин Вячеслав Михайлович": 158,
-      "Корсун Владимир Кузьмич": 118,
-      "Мубаракшин Александр Вазирович": 24,
-      "Неворотов Игорь Владимирович": 36,
-      "Неустроев Илья Григорьевич": 262,
-      "Семенов Сергей Геннадьевич": 11,
-      "Черепанова Ирина Юрьевна": 43,
-      "Черных Алексей Васильевич": 42,
-      "Против всех": 239
+      "gas:candidate-vibid:359300366626": 6,
+      "gas:candidate-vibid:359300366617": 357,
+      "gas:candidate-vibid:359300366644": 158,
+      "gas:candidate-vibid:1001000121892": 118,
+      "gas:candidate-vibid:1001000217948": 24,
+      "gas:candidate-vibid:1001000136101": 36,
+      "gas:candidate-vibid:1001000113966": 262,
+      "gas:candidate-vibid:359300367042": 11,
+      "gas:candidate-vibid:359300366650": 43,
+      "gas:candidate-vibid:1001000188017": 42,
+      "special:against-all": 239
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=593003007&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=359300366984&region=0&sub_region=0&type=429",
@@ -8622,17 +8622,17 @@ export const duma_2003_uik_428_region_59_part_007 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Абдрашитов Халил Робертович": 3,
-      "Анохин Павел Викторович": 264,
-      "Вахрин Вячеслав Михайлович": 124,
-      "Корсун Владимир Кузьмич": 91,
-      "Мубаракшин Александр Вазирович": 33,
-      "Неворотов Игорь Владимирович": 27,
-      "Неустроев Илья Григорьевич": 281,
-      "Семенов Сергей Геннадьевич": 17,
-      "Черепанова Ирина Юрьевна": 43,
-      "Черных Алексей Васильевич": 30,
-      "Против всех": 211
+      "gas:candidate-vibid:359300366626": 3,
+      "gas:candidate-vibid:359300366617": 264,
+      "gas:candidate-vibid:359300366644": 124,
+      "gas:candidate-vibid:1001000121892": 91,
+      "gas:candidate-vibid:1001000217948": 33,
+      "gas:candidate-vibid:1001000136101": 27,
+      "gas:candidate-vibid:1001000113966": 281,
+      "gas:candidate-vibid:359300367042": 17,
+      "gas:candidate-vibid:359300366650": 43,
+      "gas:candidate-vibid:1001000188017": 30,
+      "special:against-all": 211
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=593003007&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=359300366984&region=0&sub_region=0&type=429",
@@ -8682,17 +8682,17 @@ export const duma_2003_uik_428_region_59_part_007 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Абдрашитов Халил Робертович": 13,
-      "Анохин Павел Викторович": 362,
-      "Вахрин Вячеслав Михайлович": 154,
-      "Корсун Владимир Кузьмич": 131,
-      "Мубаракшин Александр Вазирович": 34,
-      "Неворотов Игорь Владимирович": 30,
-      "Неустроев Илья Григорьевич": 244,
-      "Семенов Сергей Геннадьевич": 6,
-      "Черепанова Ирина Юрьевна": 42,
-      "Черных Алексей Васильевич": 37,
-      "Против всех": 181
+      "gas:candidate-vibid:359300366626": 13,
+      "gas:candidate-vibid:359300366617": 362,
+      "gas:candidate-vibid:359300366644": 154,
+      "gas:candidate-vibid:1001000121892": 131,
+      "gas:candidate-vibid:1001000217948": 34,
+      "gas:candidate-vibid:1001000136101": 30,
+      "gas:candidate-vibid:1001000113966": 244,
+      "gas:candidate-vibid:359300367042": 6,
+      "gas:candidate-vibid:359300366650": 42,
+      "gas:candidate-vibid:1001000188017": 37,
+      "special:against-all": 181
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=593003007&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=359300366984&region=0&sub_region=0&type=429",
@@ -8742,17 +8742,17 @@ export const duma_2003_uik_428_region_59_part_007 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Абдрашитов Халил Робертович": 7,
-      "Анохин Павел Викторович": 255,
-      "Вахрин Вячеслав Михайлович": 155,
-      "Корсун Владимир Кузьмич": 126,
-      "Мубаракшин Александр Вазирович": 41,
-      "Неворотов Игорь Владимирович": 16,
-      "Неустроев Илья Григорьевич": 258,
-      "Семенов Сергей Геннадьевич": 13,
-      "Черепанова Ирина Юрьевна": 45,
-      "Черных Алексей Васильевич": 25,
-      "Против всех": 204
+      "gas:candidate-vibid:359300366626": 7,
+      "gas:candidate-vibid:359300366617": 255,
+      "gas:candidate-vibid:359300366644": 155,
+      "gas:candidate-vibid:1001000121892": 126,
+      "gas:candidate-vibid:1001000217948": 41,
+      "gas:candidate-vibid:1001000136101": 16,
+      "gas:candidate-vibid:1001000113966": 258,
+      "gas:candidate-vibid:359300367042": 13,
+      "gas:candidate-vibid:359300366650": 45,
+      "gas:candidate-vibid:1001000188017": 25,
+      "special:against-all": 204
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=593003007&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=359300366984&region=0&sub_region=0&type=429",
@@ -8802,17 +8802,17 @@ export const duma_2003_uik_428_region_59_part_007 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Абдрашитов Халил Робертович": 7,
-      "Анохин Павел Викторович": 224,
-      "Вахрин Вячеслав Михайлович": 88,
-      "Корсун Владимир Кузьмич": 91,
-      "Мубаракшин Александр Вазирович": 24,
-      "Неворотов Игорь Владимирович": 24,
-      "Неустроев Илья Григорьевич": 234,
-      "Семенов Сергей Геннадьевич": 7,
-      "Черепанова Ирина Юрьевна": 23,
-      "Черных Алексей Васильевич": 41,
-      "Против всех": 170
+      "gas:candidate-vibid:359300366626": 7,
+      "gas:candidate-vibid:359300366617": 224,
+      "gas:candidate-vibid:359300366644": 88,
+      "gas:candidate-vibid:1001000121892": 91,
+      "gas:candidate-vibid:1001000217948": 24,
+      "gas:candidate-vibid:1001000136101": 24,
+      "gas:candidate-vibid:1001000113966": 234,
+      "gas:candidate-vibid:359300367042": 7,
+      "gas:candidate-vibid:359300366650": 23,
+      "gas:candidate-vibid:1001000188017": 41,
+      "special:against-all": 170
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=593003007&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=359300366984&region=0&sub_region=0&type=429",
@@ -8862,17 +8862,17 @@ export const duma_2003_uik_428_region_59_part_007 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Абдрашитов Халил Робертович": 7,
-      "Анохин Павел Викторович": 219,
-      "Вахрин Вячеслав Михайлович": 114,
-      "Корсун Владимир Кузьмич": 99,
-      "Мубаракшин Александр Вазирович": 31,
-      "Неворотов Игорь Владимирович": 26,
-      "Неустроев Илья Григорьевич": 215,
-      "Семенов Сергей Геннадьевич": 5,
-      "Черепанова Ирина Юрьевна": 38,
-      "Черных Алексей Васильевич": 25,
-      "Против всех": 172
+      "gas:candidate-vibid:359300366626": 7,
+      "gas:candidate-vibid:359300366617": 219,
+      "gas:candidate-vibid:359300366644": 114,
+      "gas:candidate-vibid:1001000121892": 99,
+      "gas:candidate-vibid:1001000217948": 31,
+      "gas:candidate-vibid:1001000136101": 26,
+      "gas:candidate-vibid:1001000113966": 215,
+      "gas:candidate-vibid:359300367042": 5,
+      "gas:candidate-vibid:359300366650": 38,
+      "gas:candidate-vibid:1001000188017": 25,
+      "special:against-all": 172
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=593003007&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=359300366984&region=0&sub_region=0&type=429",
@@ -8922,17 +8922,17 @@ export const duma_2003_uik_428_region_59_part_007 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Абдрашитов Халил Робертович": 9,
-      "Анохин Павел Викторович": 299,
-      "Вахрин Вячеслав Михайлович": 140,
-      "Корсун Владимир Кузьмич": 99,
-      "Мубаракшин Александр Вазирович": 37,
-      "Неворотов Игорь Владимирович": 27,
-      "Неустроев Илья Григорьевич": 240,
-      "Семенов Сергей Геннадьевич": 5,
-      "Черепанова Ирина Юрьевна": 46,
-      "Черных Алексей Васильевич": 24,
-      "Против всех": 171
+      "gas:candidate-vibid:359300366626": 9,
+      "gas:candidate-vibid:359300366617": 299,
+      "gas:candidate-vibid:359300366644": 140,
+      "gas:candidate-vibid:1001000121892": 99,
+      "gas:candidate-vibid:1001000217948": 37,
+      "gas:candidate-vibid:1001000136101": 27,
+      "gas:candidate-vibid:1001000113966": 240,
+      "gas:candidate-vibid:359300367042": 5,
+      "gas:candidate-vibid:359300366650": 46,
+      "gas:candidate-vibid:1001000188017": 24,
+      "special:against-all": 171
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=593003007&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=359300366984&region=0&sub_region=0&type=429",
@@ -8982,17 +8982,17 @@ export const duma_2003_uik_428_region_59_part_007 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Абдрашитов Халил Робертович": 15,
-      "Анохин Павел Викторович": 310,
-      "Вахрин Вячеслав Михайлович": 149,
-      "Корсун Владимир Кузьмич": 100,
-      "Мубаракшин Александр Вазирович": 32,
-      "Неворотов Игорь Владимирович": 32,
-      "Неустроев Илья Григорьевич": 363,
-      "Семенов Сергей Геннадьевич": 12,
-      "Черепанова Ирина Юрьевна": 55,
-      "Черных Алексей Васильевич": 25,
-      "Против всех": 217
+      "gas:candidate-vibid:359300366626": 15,
+      "gas:candidate-vibid:359300366617": 310,
+      "gas:candidate-vibid:359300366644": 149,
+      "gas:candidate-vibid:1001000121892": 100,
+      "gas:candidate-vibid:1001000217948": 32,
+      "gas:candidate-vibid:1001000136101": 32,
+      "gas:candidate-vibid:1001000113966": 363,
+      "gas:candidate-vibid:359300367042": 12,
+      "gas:candidate-vibid:359300366650": 55,
+      "gas:candidate-vibid:1001000188017": 25,
+      "special:against-all": 217
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=593003007&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=359300366984&region=0&sub_region=0&type=429",
@@ -9042,17 +9042,17 @@ export const duma_2003_uik_428_region_59_part_007 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Абдрашитов Халил Робертович": 6,
-      "Анохин Павел Викторович": 228,
-      "Вахрин Вячеслав Михайлович": 107,
-      "Корсун Владимир Кузьмич": 72,
-      "Мубаракшин Александр Вазирович": 22,
-      "Неворотов Игорь Владимирович": 19,
-      "Неустроев Илья Григорьевич": 194,
-      "Семенов Сергей Геннадьевич": 3,
-      "Черепанова Ирина Юрьевна": 30,
-      "Черных Алексей Васильевич": 21,
-      "Против всех": 170
+      "gas:candidate-vibid:359300366626": 6,
+      "gas:candidate-vibid:359300366617": 228,
+      "gas:candidate-vibid:359300366644": 107,
+      "gas:candidate-vibid:1001000121892": 72,
+      "gas:candidate-vibid:1001000217948": 22,
+      "gas:candidate-vibid:1001000136101": 19,
+      "gas:candidate-vibid:1001000113966": 194,
+      "gas:candidate-vibid:359300367042": 3,
+      "gas:candidate-vibid:359300366650": 30,
+      "gas:candidate-vibid:1001000188017": 21,
+      "special:against-all": 170
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=593003007&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=359300366984&region=0&sub_region=0&type=429",
@@ -9102,17 +9102,17 @@ export const duma_2003_uik_428_region_59_part_007 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Абдрашитов Халил Робертович": 6,
-      "Анохин Павел Викторович": 256,
-      "Вахрин Вячеслав Михайлович": 129,
-      "Корсун Владимир Кузьмич": 87,
-      "Мубаракшин Александр Вазирович": 20,
-      "Неворотов Игорь Владимирович": 15,
-      "Неустроев Илья Григорьевич": 261,
-      "Семенов Сергей Геннадьевич": 4,
-      "Черепанова Ирина Юрьевна": 33,
-      "Черных Алексей Васильевич": 27,
-      "Против всех": 201
+      "gas:candidate-vibid:359300366626": 6,
+      "gas:candidate-vibid:359300366617": 256,
+      "gas:candidate-vibid:359300366644": 129,
+      "gas:candidate-vibid:1001000121892": 87,
+      "gas:candidate-vibid:1001000217948": 20,
+      "gas:candidate-vibid:1001000136101": 15,
+      "gas:candidate-vibid:1001000113966": 261,
+      "gas:candidate-vibid:359300367042": 4,
+      "gas:candidate-vibid:359300366650": 33,
+      "gas:candidate-vibid:1001000188017": 27,
+      "special:against-all": 201
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=593003007&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=359300366984&region=0&sub_region=0&type=429",
@@ -9162,17 +9162,17 @@ export const duma_2003_uik_428_region_59_part_007 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Абдрашитов Халил Робертович": 2,
-      "Анохин Павел Викторович": 297,
-      "Вахрин Вячеслав Михайлович": 164,
-      "Корсун Владимир Кузьмич": 98,
-      "Мубаракшин Александр Вазирович": 22,
-      "Неворотов Игорь Владимирович": 30,
-      "Неустроев Илья Григорьевич": 279,
-      "Семенов Сергей Геннадьевич": 12,
-      "Черепанова Ирина Юрьевна": 58,
-      "Черных Алексей Васильевич": 50,
-      "Против всех": 220
+      "gas:candidate-vibid:359300366626": 2,
+      "gas:candidate-vibid:359300366617": 297,
+      "gas:candidate-vibid:359300366644": 164,
+      "gas:candidate-vibid:1001000121892": 98,
+      "gas:candidate-vibid:1001000217948": 22,
+      "gas:candidate-vibid:1001000136101": 30,
+      "gas:candidate-vibid:1001000113966": 279,
+      "gas:candidate-vibid:359300367042": 12,
+      "gas:candidate-vibid:359300366650": 58,
+      "gas:candidate-vibid:1001000188017": 50,
+      "special:against-all": 220
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=593003007&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=359300366984&region=0&sub_region=0&type=429",
@@ -9222,17 +9222,17 @@ export const duma_2003_uik_428_region_59_part_007 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Абдрашитов Халил Робертович": 12,
-      "Анохин Павел Викторович": 301,
-      "Вахрин Вячеслав Михайлович": 203,
-      "Корсун Владимир Кузьмич": 92,
-      "Мубаракшин Александр Вазирович": 50,
-      "Неворотов Игорь Владимирович": 38,
-      "Неустроев Илья Григорьевич": 291,
-      "Семенов Сергей Геннадьевич": 13,
-      "Черепанова Ирина Юрьевна": 55,
-      "Черных Алексей Васильевич": 37,
-      "Против всех": 257
+      "gas:candidate-vibid:359300366626": 12,
+      "gas:candidate-vibid:359300366617": 301,
+      "gas:candidate-vibid:359300366644": 203,
+      "gas:candidate-vibid:1001000121892": 92,
+      "gas:candidate-vibid:1001000217948": 50,
+      "gas:candidate-vibid:1001000136101": 38,
+      "gas:candidate-vibid:1001000113966": 291,
+      "gas:candidate-vibid:359300367042": 13,
+      "gas:candidate-vibid:359300366650": 55,
+      "gas:candidate-vibid:1001000188017": 37,
+      "special:against-all": 257
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=593003007&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=359300366984&region=0&sub_region=0&type=429",
@@ -9282,17 +9282,17 @@ export const duma_2003_uik_428_region_59_part_007 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Абдрашитов Халил Робертович": 10,
-      "Анохин Павел Викторович": 295,
-      "Вахрин Вячеслав Михайлович": 140,
-      "Корсун Владимир Кузьмич": 94,
-      "Мубаракшин Александр Вазирович": 54,
-      "Неворотов Игорь Владимирович": 35,
-      "Неустроев Илья Григорьевич": 259,
-      "Семенов Сергей Геннадьевич": 19,
-      "Черепанова Ирина Юрьевна": 48,
-      "Черных Алексей Васильевич": 55,
-      "Против всех": 262
+      "gas:candidate-vibid:359300366626": 10,
+      "gas:candidate-vibid:359300366617": 295,
+      "gas:candidate-vibid:359300366644": 140,
+      "gas:candidate-vibid:1001000121892": 94,
+      "gas:candidate-vibid:1001000217948": 54,
+      "gas:candidate-vibid:1001000136101": 35,
+      "gas:candidate-vibid:1001000113966": 259,
+      "gas:candidate-vibid:359300367042": 19,
+      "gas:candidate-vibid:359300366650": 48,
+      "gas:candidate-vibid:1001000188017": 55,
+      "special:against-all": 262
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=593003007&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=359300366984&region=0&sub_region=0&type=429",
@@ -9342,17 +9342,17 @@ export const duma_2003_uik_428_region_59_part_007 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Абдрашитов Халил Робертович": 11,
-      "Анохин Павел Викторович": 284,
-      "Вахрин Вячеслав Михайлович": 221,
-      "Корсун Владимир Кузьмич": 105,
-      "Мубаракшин Александр Вазирович": 44,
-      "Неворотов Игорь Владимирович": 31,
-      "Неустроев Илья Григорьевич": 399,
-      "Семенов Сергей Геннадьевич": 14,
-      "Черепанова Ирина Юрьевна": 52,
-      "Черных Алексей Васильевич": 43,
-      "Против всех": 238
+      "gas:candidate-vibid:359300366626": 11,
+      "gas:candidate-vibid:359300366617": 284,
+      "gas:candidate-vibid:359300366644": 221,
+      "gas:candidate-vibid:1001000121892": 105,
+      "gas:candidate-vibid:1001000217948": 44,
+      "gas:candidate-vibid:1001000136101": 31,
+      "gas:candidate-vibid:1001000113966": 399,
+      "gas:candidate-vibid:359300367042": 14,
+      "gas:candidate-vibid:359300366650": 52,
+      "gas:candidate-vibid:1001000188017": 43,
+      "special:against-all": 238
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=593003007&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=359300366984&region=0&sub_region=0&type=429",
@@ -9402,17 +9402,17 @@ export const duma_2003_uik_428_region_59_part_007 = [
       "Число не учтенных при получении бюллетеней": 1
     },
     "votes": {
-      "Абдрашитов Халил Робертович": 10,
-      "Анохин Павел Викторович": 321,
-      "Вахрин Вячеслав Михайлович": 188,
-      "Корсун Владимир Кузьмич": 51,
-      "Мубаракшин Александр Вазирович": 19,
-      "Неворотов Игорь Владимирович": 29,
-      "Неустроев Илья Григорьевич": 233,
-      "Семенов Сергей Геннадьевич": 9,
-      "Черепанова Ирина Юрьевна": 50,
-      "Черных Алексей Васильевич": 37,
-      "Против всех": 257
+      "gas:candidate-vibid:359300366626": 10,
+      "gas:candidate-vibid:359300366617": 321,
+      "gas:candidate-vibid:359300366644": 188,
+      "gas:candidate-vibid:1001000121892": 51,
+      "gas:candidate-vibid:1001000217948": 19,
+      "gas:candidate-vibid:1001000136101": 29,
+      "gas:candidate-vibid:1001000113966": 233,
+      "gas:candidate-vibid:359300367042": 9,
+      "gas:candidate-vibid:359300366650": 50,
+      "gas:candidate-vibid:1001000188017": 37,
+      "special:against-all": 257
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=593003007&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=359300366984&region=0&sub_region=0&type=429",
@@ -9462,17 +9462,17 @@ export const duma_2003_uik_428_region_59_part_007 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Абдрашитов Халил Робертович": 5,
-      "Анохин Павел Викторович": 320,
-      "Вахрин Вячеслав Михайлович": 169,
-      "Корсун Владимир Кузьмич": 80,
-      "Мубаракшин Александр Вазирович": 19,
-      "Неворотов Игорь Владимирович": 31,
-      "Неустроев Илья Григорьевич": 224,
-      "Семенов Сергей Геннадьевич": 4,
-      "Черепанова Ирина Юрьевна": 38,
-      "Черных Алексей Васильевич": 45,
-      "Против всех": 240
+      "gas:candidate-vibid:359300366626": 5,
+      "gas:candidate-vibid:359300366617": 320,
+      "gas:candidate-vibid:359300366644": 169,
+      "gas:candidate-vibid:1001000121892": 80,
+      "gas:candidate-vibid:1001000217948": 19,
+      "gas:candidate-vibid:1001000136101": 31,
+      "gas:candidate-vibid:1001000113966": 224,
+      "gas:candidate-vibid:359300367042": 4,
+      "gas:candidate-vibid:359300366650": 38,
+      "gas:candidate-vibid:1001000188017": 45,
+      "special:against-all": 240
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=593003007&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=359300366984&region=0&sub_region=0&type=429",
@@ -9522,17 +9522,17 @@ export const duma_2003_uik_428_region_59_part_007 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Абдрашитов Халил Робертович": 10,
-      "Анохин Павел Викторович": 254,
-      "Вахрин Вячеслав Михайлович": 102,
-      "Корсун Владимир Кузьмич": 83,
-      "Мубаракшин Александр Вазирович": 21,
-      "Неворотов Игорь Владимирович": 21,
-      "Неустроев Илья Григорьевич": 254,
-      "Семенов Сергей Геннадьевич": 12,
-      "Черепанова Ирина Юрьевна": 37,
-      "Черных Алексей Васильевич": 52,
-      "Против всех": 221
+      "gas:candidate-vibid:359300366626": 10,
+      "gas:candidate-vibid:359300366617": 254,
+      "gas:candidate-vibid:359300366644": 102,
+      "gas:candidate-vibid:1001000121892": 83,
+      "gas:candidate-vibid:1001000217948": 21,
+      "gas:candidate-vibid:1001000136101": 21,
+      "gas:candidate-vibid:1001000113966": 254,
+      "gas:candidate-vibid:359300367042": 12,
+      "gas:candidate-vibid:359300366650": 37,
+      "gas:candidate-vibid:1001000188017": 52,
+      "special:against-all": 221
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=593003007&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=359300366984&region=0&sub_region=0&type=429",
@@ -9582,17 +9582,17 @@ export const duma_2003_uik_428_region_59_part_007 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Абдрашитов Халил Робертович": 14,
-      "Анохин Павел Викторович": 208,
-      "Вахрин Вячеслав Михайлович": 101,
-      "Корсун Владимир Кузьмич": 55,
-      "Мубаракшин Александр Вазирович": 20,
-      "Неворотов Игорь Владимирович": 29,
-      "Неустроев Илья Григорьевич": 187,
-      "Семенов Сергей Геннадьевич": 3,
-      "Черепанова Ирина Юрьевна": 37,
-      "Черных Алексей Васильевич": 31,
-      "Против всех": 154
+      "gas:candidate-vibid:359300366626": 14,
+      "gas:candidate-vibid:359300366617": 208,
+      "gas:candidate-vibid:359300366644": 101,
+      "gas:candidate-vibid:1001000121892": 55,
+      "gas:candidate-vibid:1001000217948": 20,
+      "gas:candidate-vibid:1001000136101": 29,
+      "gas:candidate-vibid:1001000113966": 187,
+      "gas:candidate-vibid:359300367042": 3,
+      "gas:candidate-vibid:359300366650": 37,
+      "gas:candidate-vibid:1001000188017": 31,
+      "special:against-all": 154
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=593003007&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=359300366984&region=0&sub_region=0&type=429",
@@ -9642,17 +9642,17 @@ export const duma_2003_uik_428_region_59_part_007 = [
       "Число не учтенных при получении бюллетеней": 1
     },
     "votes": {
-      "Абдрашитов Халил Робертович": 8,
-      "Анохин Павел Викторович": 287,
-      "Вахрин Вячеслав Михайлович": 143,
-      "Корсун Владимир Кузьмич": 52,
-      "Мубаракшин Александр Вазирович": 30,
-      "Неворотов Игорь Владимирович": 22,
-      "Неустроев Илья Григорьевич": 203,
-      "Семенов Сергей Геннадьевич": 6,
-      "Черепанова Ирина Юрьевна": 25,
-      "Черных Алексей Васильевич": 35,
-      "Против всех": 174
+      "gas:candidate-vibid:359300366626": 8,
+      "gas:candidate-vibid:359300366617": 287,
+      "gas:candidate-vibid:359300366644": 143,
+      "gas:candidate-vibid:1001000121892": 52,
+      "gas:candidate-vibid:1001000217948": 30,
+      "gas:candidate-vibid:1001000136101": 22,
+      "gas:candidate-vibid:1001000113966": 203,
+      "gas:candidate-vibid:359300367042": 6,
+      "gas:candidate-vibid:359300366650": 25,
+      "gas:candidate-vibid:1001000188017": 35,
+      "special:against-all": 174
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=593003007&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=359300366984&region=0&sub_region=0&type=429",
@@ -9702,17 +9702,17 @@ export const duma_2003_uik_428_region_59_part_007 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Абдрашитов Халил Робертович": 1,
-      "Анохин Павел Викторович": 119,
-      "Вахрин Вячеслав Михайлович": 47,
-      "Корсун Владимир Кузьмич": 16,
-      "Мубаракшин Александр Вазирович": 11,
-      "Неворотов Игорь Владимирович": 6,
-      "Неустроев Илья Григорьевич": 67,
-      "Семенов Сергей Геннадьевич": 3,
-      "Черепанова Ирина Юрьевна": 6,
-      "Черных Алексей Васильевич": 8,
-      "Против всех": 45
+      "gas:candidate-vibid:359300366626": 1,
+      "gas:candidate-vibid:359300366617": 119,
+      "gas:candidate-vibid:359300366644": 47,
+      "gas:candidate-vibid:1001000121892": 16,
+      "gas:candidate-vibid:1001000217948": 11,
+      "gas:candidate-vibid:1001000136101": 6,
+      "gas:candidate-vibid:1001000113966": 67,
+      "gas:candidate-vibid:359300367042": 3,
+      "gas:candidate-vibid:359300366650": 6,
+      "gas:candidate-vibid:1001000188017": 8,
+      "special:against-all": 45
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=593003007&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=359300366984&region=0&sub_region=0&type=429",
@@ -9762,17 +9762,17 @@ export const duma_2003_uik_428_region_59_part_007 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Абдрашитов Халил Робертович": 12,
-      "Анохин Павел Викторович": 292,
-      "Вахрин Вячеслав Михайлович": 133,
-      "Корсун Владимир Кузьмич": 65,
-      "Мубаракшин Александр Вазирович": 37,
-      "Неворотов Игорь Владимирович": 23,
-      "Неустроев Илья Григорьевич": 249,
-      "Семенов Сергей Геннадьевич": 9,
-      "Черепанова Ирина Юрьевна": 33,
-      "Черных Алексей Васильевич": 40,
-      "Против всех": 211
+      "gas:candidate-vibid:359300366626": 12,
+      "gas:candidate-vibid:359300366617": 292,
+      "gas:candidate-vibid:359300366644": 133,
+      "gas:candidate-vibid:1001000121892": 65,
+      "gas:candidate-vibid:1001000217948": 37,
+      "gas:candidate-vibid:1001000136101": 23,
+      "gas:candidate-vibid:1001000113966": 249,
+      "gas:candidate-vibid:359300367042": 9,
+      "gas:candidate-vibid:359300366650": 33,
+      "gas:candidate-vibid:1001000188017": 40,
+      "special:against-all": 211
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=593003007&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=359300366984&region=0&sub_region=0&type=429",
@@ -9822,17 +9822,17 @@ export const duma_2003_uik_428_region_59_part_007 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Абдрашитов Халил Робертович": 8,
-      "Анохин Павел Викторович": 270,
-      "Вахрин Вячеслав Михайлович": 142,
-      "Корсун Владимир Кузьмич": 68,
-      "Мубаракшин Александр Вазирович": 29,
-      "Неворотов Игорь Владимирович": 27,
-      "Неустроев Илья Григорьевич": 178,
-      "Семенов Сергей Геннадьевич": 11,
-      "Черепанова Ирина Юрьевна": 27,
-      "Черных Алексей Васильевич": 31,
-      "Против всех": 157
+      "gas:candidate-vibid:359300366626": 8,
+      "gas:candidate-vibid:359300366617": 270,
+      "gas:candidate-vibid:359300366644": 142,
+      "gas:candidate-vibid:1001000121892": 68,
+      "gas:candidate-vibid:1001000217948": 29,
+      "gas:candidate-vibid:1001000136101": 27,
+      "gas:candidate-vibid:1001000113966": 178,
+      "gas:candidate-vibid:359300367042": 11,
+      "gas:candidate-vibid:359300366650": 27,
+      "gas:candidate-vibid:1001000188017": 31,
+      "special:against-all": 157
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=593003007&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=359300366984&region=0&sub_region=0&type=429",
@@ -9882,17 +9882,17 @@ export const duma_2003_uik_428_region_59_part_007 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Абдрашитов Халил Робертович": 7,
-      "Анохин Павел Викторович": 203,
-      "Вахрин Вячеслав Михайлович": 172,
-      "Корсун Владимир Кузьмич": 58,
-      "Мубаракшин Александр Вазирович": 29,
-      "Неворотов Игорь Владимирович": 24,
-      "Неустроев Илья Григорьевич": 201,
-      "Семенов Сергей Геннадьевич": 12,
-      "Черепанова Ирина Юрьевна": 29,
-      "Черных Алексей Васильевич": 28,
-      "Против всех": 183
+      "gas:candidate-vibid:359300366626": 7,
+      "gas:candidate-vibid:359300366617": 203,
+      "gas:candidate-vibid:359300366644": 172,
+      "gas:candidate-vibid:1001000121892": 58,
+      "gas:candidate-vibid:1001000217948": 29,
+      "gas:candidate-vibid:1001000136101": 24,
+      "gas:candidate-vibid:1001000113966": 201,
+      "gas:candidate-vibid:359300367042": 12,
+      "gas:candidate-vibid:359300366650": 29,
+      "gas:candidate-vibid:1001000188017": 28,
+      "special:against-all": 183
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=593003007&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=359300366984&region=0&sub_region=0&type=429",
@@ -9942,17 +9942,17 @@ export const duma_2003_uik_428_region_59_part_007 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Абдрашитов Халил Робертович": 7,
-      "Анохин Павел Викторович": 244,
-      "Вахрин Вячеслав Михайлович": 130,
-      "Корсун Владимир Кузьмич": 42,
-      "Мубаракшин Александр Вазирович": 26,
-      "Неворотов Игорь Владимирович": 25,
-      "Неустроев Илья Григорьевич": 240,
-      "Семенов Сергей Геннадьевич": 16,
-      "Черепанова Ирина Юрьевна": 17,
-      "Черных Алексей Васильевич": 29,
-      "Против всех": 211
+      "gas:candidate-vibid:359300366626": 7,
+      "gas:candidate-vibid:359300366617": 244,
+      "gas:candidate-vibid:359300366644": 130,
+      "gas:candidate-vibid:1001000121892": 42,
+      "gas:candidate-vibid:1001000217948": 26,
+      "gas:candidate-vibid:1001000136101": 25,
+      "gas:candidate-vibid:1001000113966": 240,
+      "gas:candidate-vibid:359300367042": 16,
+      "gas:candidate-vibid:359300366650": 17,
+      "gas:candidate-vibid:1001000188017": 29,
+      "special:against-all": 211
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=593003007&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=359300366984&region=0&sub_region=0&type=429",
@@ -10002,17 +10002,17 @@ export const duma_2003_uik_428_region_59_part_007 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Абдрашитов Халил Робертович": 4,
-      "Анохин Павел Викторович": 126,
-      "Вахрин Вячеслав Михайлович": 115,
-      "Корсун Владимир Кузьмич": 28,
-      "Мубаракшин Александр Вазирович": 21,
-      "Неворотов Игорь Владимирович": 25,
-      "Неустроев Илья Григорьевич": 140,
-      "Семенов Сергей Геннадьевич": 10,
-      "Черепанова Ирина Юрьевна": 9,
-      "Черных Алексей Васильевич": 18,
-      "Против всех": 133
+      "gas:candidate-vibid:359300366626": 4,
+      "gas:candidate-vibid:359300366617": 126,
+      "gas:candidate-vibid:359300366644": 115,
+      "gas:candidate-vibid:1001000121892": 28,
+      "gas:candidate-vibid:1001000217948": 21,
+      "gas:candidate-vibid:1001000136101": 25,
+      "gas:candidate-vibid:1001000113966": 140,
+      "gas:candidate-vibid:359300367042": 10,
+      "gas:candidate-vibid:359300366650": 9,
+      "gas:candidate-vibid:1001000188017": 18,
+      "special:against-all": 133
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=593003007&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=359300366984&region=0&sub_region=0&type=429",
@@ -10062,17 +10062,17 @@ export const duma_2003_uik_428_region_59_part_007 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Абдрашитов Халил Робертович": 13,
-      "Анохин Павел Викторович": 333,
-      "Вахрин Вячеслав Михайлович": 95,
-      "Корсун Владимир Кузьмич": 68,
-      "Мубаракшин Александр Вазирович": 48,
-      "Неворотов Игорь Владимирович": 16,
-      "Неустроев Илья Григорьевич": 270,
-      "Семенов Сергей Геннадьевич": 28,
-      "Черепанова Ирина Юрьевна": 39,
-      "Черных Алексей Васильевич": 30,
-      "Против всех": 184
+      "gas:candidate-vibid:359300366626": 13,
+      "gas:candidate-vibid:359300366617": 333,
+      "gas:candidate-vibid:359300366644": 95,
+      "gas:candidate-vibid:1001000121892": 68,
+      "gas:candidate-vibid:1001000217948": 48,
+      "gas:candidate-vibid:1001000136101": 16,
+      "gas:candidate-vibid:1001000113966": 270,
+      "gas:candidate-vibid:359300367042": 28,
+      "gas:candidate-vibid:359300366650": 39,
+      "gas:candidate-vibid:1001000188017": 30,
+      "special:against-all": 184
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=593003007&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=359300366984&region=0&sub_region=0&type=429",
@@ -10122,17 +10122,17 @@ export const duma_2003_uik_428_region_59_part_007 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Абдрашитов Халил Робертович": 10,
-      "Анохин Павел Викторович": 312,
-      "Вахрин Вячеслав Михайлович": 131,
-      "Корсун Владимир Кузьмич": 59,
-      "Мубаракшин Александр Вазирович": 34,
-      "Неворотов Игорь Владимирович": 23,
-      "Неустроев Илья Григорьевич": 217,
-      "Семенов Сергей Геннадьевич": 9,
-      "Черепанова Ирина Юрьевна": 29,
-      "Черных Алексей Васильевич": 39,
-      "Против всех": 180
+      "gas:candidate-vibid:359300366626": 10,
+      "gas:candidate-vibid:359300366617": 312,
+      "gas:candidate-vibid:359300366644": 131,
+      "gas:candidate-vibid:1001000121892": 59,
+      "gas:candidate-vibid:1001000217948": 34,
+      "gas:candidate-vibid:1001000136101": 23,
+      "gas:candidate-vibid:1001000113966": 217,
+      "gas:candidate-vibid:359300367042": 9,
+      "gas:candidate-vibid:359300366650": 29,
+      "gas:candidate-vibid:1001000188017": 39,
+      "special:against-all": 180
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=593003007&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=359300366984&region=0&sub_region=0&type=429",
@@ -10182,17 +10182,17 @@ export const duma_2003_uik_428_region_59_part_007 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Абдрашитов Халил Робертович": 8,
-      "Анохин Павел Викторович": 327,
-      "Вахрин Вячеслав Михайлович": 122,
-      "Корсун Владимир Кузьмич": 69,
-      "Мубаракшин Александр Вазирович": 29,
-      "Неворотов Игорь Владимирович": 23,
-      "Неустроев Илья Григорьевич": 259,
-      "Семенов Сергей Геннадьевич": 19,
-      "Черепанова Ирина Юрьевна": 40,
-      "Черных Алексей Васильевич": 39,
-      "Против всех": 186
+      "gas:candidate-vibid:359300366626": 8,
+      "gas:candidate-vibid:359300366617": 327,
+      "gas:candidate-vibid:359300366644": 122,
+      "gas:candidate-vibid:1001000121892": 69,
+      "gas:candidate-vibid:1001000217948": 29,
+      "gas:candidate-vibid:1001000136101": 23,
+      "gas:candidate-vibid:1001000113966": 259,
+      "gas:candidate-vibid:359300367042": 19,
+      "gas:candidate-vibid:359300366650": 40,
+      "gas:candidate-vibid:1001000188017": 39,
+      "special:against-all": 186
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=593003007&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=359300366984&region=0&sub_region=0&type=429",
@@ -10242,17 +10242,17 @@ export const duma_2003_uik_428_region_59_part_007 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Абдрашитов Халил Робертович": 8,
-      "Анохин Павел Викторович": 398,
-      "Вахрин Вячеслав Михайлович": 127,
-      "Корсун Владимир Кузьмич": 81,
-      "Мубаракшин Александр Вазирович": 46,
-      "Неворотов Игорь Владимирович": 31,
-      "Неустроев Илья Григорьевич": 297,
-      "Семенов Сергей Геннадьевич": 11,
-      "Черепанова Ирина Юрьевна": 43,
-      "Черных Алексей Васильевич": 34,
-      "Против всех": 205
+      "gas:candidate-vibid:359300366626": 8,
+      "gas:candidate-vibid:359300366617": 398,
+      "gas:candidate-vibid:359300366644": 127,
+      "gas:candidate-vibid:1001000121892": 81,
+      "gas:candidate-vibid:1001000217948": 46,
+      "gas:candidate-vibid:1001000136101": 31,
+      "gas:candidate-vibid:1001000113966": 297,
+      "gas:candidate-vibid:359300367042": 11,
+      "gas:candidate-vibid:359300366650": 43,
+      "gas:candidate-vibid:1001000188017": 34,
+      "special:against-all": 205
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=593003007&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=359300366984&region=0&sub_region=0&type=429",
@@ -10302,17 +10302,17 @@ export const duma_2003_uik_428_region_59_part_007 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Абдрашитов Халил Робертович": 7,
-      "Анохин Павел Викторович": 364,
-      "Вахрин Вячеслав Михайлович": 127,
-      "Корсун Владимир Кузьмич": 35,
-      "Мубаракшин Александр Вазирович": 25,
-      "Неворотов Игорь Владимирович": 16,
-      "Неустроев Илья Григорьевич": 236,
-      "Семенов Сергей Геннадьевич": 8,
-      "Черепанова Ирина Юрьевна": 21,
-      "Черных Алексей Васильевич": 29,
-      "Против всех": 103
+      "gas:candidate-vibid:359300366626": 7,
+      "gas:candidate-vibid:359300366617": 364,
+      "gas:candidate-vibid:359300366644": 127,
+      "gas:candidate-vibid:1001000121892": 35,
+      "gas:candidate-vibid:1001000217948": 25,
+      "gas:candidate-vibid:1001000136101": 16,
+      "gas:candidate-vibid:1001000113966": 236,
+      "gas:candidate-vibid:359300367042": 8,
+      "gas:candidate-vibid:359300366650": 21,
+      "gas:candidate-vibid:1001000188017": 29,
+      "special:against-all": 103
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=593003007&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=359300366984&region=0&sub_region=0&type=429",
@@ -10362,17 +10362,17 @@ export const duma_2003_uik_428_region_59_part_007 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Абдрашитов Халил Робертович": 3,
-      "Анохин Павел Викторович": 99,
-      "Вахрин Вячеслав Михайлович": 64,
-      "Корсун Владимир Кузьмич": 6,
-      "Мубаракшин Александр Вазирович": 2,
-      "Неворотов Игорь Владимирович": 6,
-      "Неустроев Илья Григорьевич": 61,
-      "Семенов Сергей Геннадьевич": 1,
-      "Черепанова Ирина Юрьевна": 6,
-      "Черных Алексей Васильевич": 7,
-      "Против всех": 42
+      "gas:candidate-vibid:359300366626": 3,
+      "gas:candidate-vibid:359300366617": 99,
+      "gas:candidate-vibid:359300366644": 64,
+      "gas:candidate-vibid:1001000121892": 6,
+      "gas:candidate-vibid:1001000217948": 2,
+      "gas:candidate-vibid:1001000136101": 6,
+      "gas:candidate-vibid:1001000113966": 61,
+      "gas:candidate-vibid:359300367042": 1,
+      "gas:candidate-vibid:359300366650": 6,
+      "gas:candidate-vibid:1001000188017": 7,
+      "special:against-all": 42
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=593003007&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=359300366984&region=0&sub_region=0&type=429",
@@ -10422,17 +10422,17 @@ export const duma_2003_uik_428_region_59_part_007 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Абдрашитов Халил Робертович": 7,
-      "Анохин Павел Викторович": 192,
-      "Вахрин Вячеслав Михайлович": 140,
-      "Корсун Владимир Кузьмич": 57,
-      "Мубаракшин Александр Вазирович": 10,
-      "Неворотов Игорь Владимирович": 12,
-      "Неустроев Илья Григорьевич": 126,
-      "Семенов Сергей Геннадьевич": 7,
-      "Черепанова Ирина Юрьевна": 19,
-      "Черных Алексей Васильевич": 14,
-      "Против всех": 151
+      "gas:candidate-vibid:359300366626": 7,
+      "gas:candidate-vibid:359300366617": 192,
+      "gas:candidate-vibid:359300366644": 140,
+      "gas:candidate-vibid:1001000121892": 57,
+      "gas:candidate-vibid:1001000217948": 10,
+      "gas:candidate-vibid:1001000136101": 12,
+      "gas:candidate-vibid:1001000113966": 126,
+      "gas:candidate-vibid:359300367042": 7,
+      "gas:candidate-vibid:359300366650": 19,
+      "gas:candidate-vibid:1001000188017": 14,
+      "special:against-all": 151
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=593003007&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=359300366984&region=0&sub_region=0&type=429",
@@ -10482,17 +10482,17 @@ export const duma_2003_uik_428_region_59_part_007 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Абдрашитов Халил Робертович": 0,
-      "Анохин Павел Викторович": 47,
-      "Вахрин Вячеслав Михайлович": 26,
-      "Корсун Владимир Кузьмич": 19,
-      "Мубаракшин Александр Вазирович": 4,
-      "Неворотов Игорь Владимирович": 4,
-      "Неустроев Илья Григорьевич": 44,
-      "Семенов Сергей Геннадьевич": 5,
-      "Черепанова Ирина Юрьевна": 7,
-      "Черных Алексей Васильевич": 6,
-      "Против всех": 53
+      "gas:candidate-vibid:359300366626": 0,
+      "gas:candidate-vibid:359300366617": 47,
+      "gas:candidate-vibid:359300366644": 26,
+      "gas:candidate-vibid:1001000121892": 19,
+      "gas:candidate-vibid:1001000217948": 4,
+      "gas:candidate-vibid:1001000136101": 4,
+      "gas:candidate-vibid:1001000113966": 44,
+      "gas:candidate-vibid:359300367042": 5,
+      "gas:candidate-vibid:359300366650": 7,
+      "gas:candidate-vibid:1001000188017": 6,
+      "special:against-all": 53
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=593003007&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=359300366984&region=0&sub_region=0&type=429",
@@ -10542,17 +10542,17 @@ export const duma_2003_uik_428_region_59_part_007 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Абдрашитов Халил Робертович": 3,
-      "Анохин Павел Викторович": 144,
-      "Вахрин Вячеслав Михайлович": 90,
-      "Корсун Владимир Кузьмич": 45,
-      "Мубаракшин Александр Вазирович": 9,
-      "Неворотов Игорь Владимирович": 11,
-      "Неустроев Илья Григорьевич": 124,
-      "Семенов Сергей Геннадьевич": 14,
-      "Черепанова Ирина Юрьевна": 27,
-      "Черных Алексей Васильевич": 9,
-      "Против всех": 183
+      "gas:candidate-vibid:359300366626": 3,
+      "gas:candidate-vibid:359300366617": 144,
+      "gas:candidate-vibid:359300366644": 90,
+      "gas:candidate-vibid:1001000121892": 45,
+      "gas:candidate-vibid:1001000217948": 9,
+      "gas:candidate-vibid:1001000136101": 11,
+      "gas:candidate-vibid:1001000113966": 124,
+      "gas:candidate-vibid:359300367042": 14,
+      "gas:candidate-vibid:359300366650": 27,
+      "gas:candidate-vibid:1001000188017": 9,
+      "special:against-all": 183
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=593003007&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=359300366984&region=0&sub_region=0&type=429",
@@ -10602,17 +10602,17 @@ export const duma_2003_uik_428_region_59_part_007 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Абдрашитов Халил Робертович": 0,
-      "Анохин Павел Викторович": 30,
-      "Вахрин Вячеслав Михайлович": 27,
-      "Корсун Владимир Кузьмич": 4,
-      "Мубаракшин Александр Вазирович": 2,
-      "Неворотов Игорь Владимирович": 2,
-      "Неустроев Илья Григорьевич": 36,
-      "Семенов Сергей Геннадьевич": 0,
-      "Черепанова Ирина Юрьевна": 2,
-      "Черных Алексей Васильевич": 0,
-      "Против всех": 7
+      "gas:candidate-vibid:359300366626": 0,
+      "gas:candidate-vibid:359300366617": 30,
+      "gas:candidate-vibid:359300366644": 27,
+      "gas:candidate-vibid:1001000121892": 4,
+      "gas:candidate-vibid:1001000217948": 2,
+      "gas:candidate-vibid:1001000136101": 2,
+      "gas:candidate-vibid:1001000113966": 36,
+      "gas:candidate-vibid:359300367042": 0,
+      "gas:candidate-vibid:359300366650": 2,
+      "gas:candidate-vibid:1001000188017": 0,
+      "special:against-all": 7
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=592000016&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=359300366986&region=0&sub_region=0&type=429",
@@ -10662,17 +10662,17 @@ export const duma_2003_uik_428_region_59_part_007 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Абдрашитов Халил Робертович": 1,
-      "Анохин Павел Викторович": 33,
-      "Вахрин Вячеслав Михайлович": 61,
-      "Корсун Владимир Кузьмич": 2,
-      "Мубаракшин Александр Вазирович": 0,
-      "Неворотов Игорь Владимирович": 3,
-      "Неустроев Илья Григорьевич": 28,
-      "Семенов Сергей Геннадьевич": 1,
-      "Черепанова Ирина Юрьевна": 3,
-      "Черных Алексей Васильевич": 1,
-      "Против всех": 24
+      "gas:candidate-vibid:359300366626": 1,
+      "gas:candidate-vibid:359300366617": 33,
+      "gas:candidate-vibid:359300366644": 61,
+      "gas:candidate-vibid:1001000121892": 2,
+      "gas:candidate-vibid:1001000217948": 0,
+      "gas:candidate-vibid:1001000136101": 3,
+      "gas:candidate-vibid:1001000113966": 28,
+      "gas:candidate-vibid:359300367042": 1,
+      "gas:candidate-vibid:359300366650": 3,
+      "gas:candidate-vibid:1001000188017": 1,
+      "special:against-all": 24
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=592000016&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=359300366986&region=0&sub_region=0&type=429",
@@ -10722,17 +10722,17 @@ export const duma_2003_uik_428_region_59_part_007 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Абдрашитов Халил Робертович": 1,
-      "Анохин Павел Викторович": 131,
-      "Вахрин Вячеслав Михайлович": 90,
-      "Корсун Владимир Кузьмич": 37,
-      "Мубаракшин Александр Вазирович": 14,
-      "Неворотов Игорь Владимирович": 4,
-      "Неустроев Илья Григорьевич": 42,
-      "Семенов Сергей Геннадьевич": 1,
-      "Черепанова Ирина Юрьевна": 2,
-      "Черных Алексей Васильевич": 2,
-      "Против всех": 13
+      "gas:candidate-vibid:359300366626": 1,
+      "gas:candidate-vibid:359300366617": 131,
+      "gas:candidate-vibid:359300366644": 90,
+      "gas:candidate-vibid:1001000121892": 37,
+      "gas:candidate-vibid:1001000217948": 14,
+      "gas:candidate-vibid:1001000136101": 4,
+      "gas:candidate-vibid:1001000113966": 42,
+      "gas:candidate-vibid:359300367042": 1,
+      "gas:candidate-vibid:359300366650": 2,
+      "gas:candidate-vibid:1001000188017": 2,
+      "special:against-all": 13
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=592000016&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=359300366986&region=0&sub_region=0&type=429",
@@ -10782,17 +10782,17 @@ export const duma_2003_uik_428_region_59_part_007 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Абдрашитов Халил Робертович": 0,
-      "Анохин Павел Викторович": 66,
-      "Вахрин Вячеслав Михайлович": 95,
-      "Корсун Владимир Кузьмич": 5,
-      "Мубаракшин Александр Вазирович": 7,
-      "Неворотов Игорь Владимирович": 0,
-      "Неустроев Илья Григорьевич": 16,
-      "Семенов Сергей Геннадьевич": 0,
-      "Черепанова Ирина Юрьевна": 0,
-      "Черных Алексей Васильевич": 0,
-      "Против всех": 13
+      "gas:candidate-vibid:359300366626": 0,
+      "gas:candidate-vibid:359300366617": 66,
+      "gas:candidate-vibid:359300366644": 95,
+      "gas:candidate-vibid:1001000121892": 5,
+      "gas:candidate-vibid:1001000217948": 7,
+      "gas:candidate-vibid:1001000136101": 0,
+      "gas:candidate-vibid:1001000113966": 16,
+      "gas:candidate-vibid:359300367042": 0,
+      "gas:candidate-vibid:359300366650": 0,
+      "gas:candidate-vibid:1001000188017": 0,
+      "special:against-all": 13
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=592000016&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=359300366986&region=0&sub_region=0&type=429",
@@ -10842,17 +10842,17 @@ export const duma_2003_uik_428_region_59_part_007 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Абдрашитов Халил Робертович": 2,
-      "Анохин Павел Викторович": 205,
-      "Вахрин Вячеслав Михайлович": 279,
-      "Корсун Владимир Кузьмич": 41,
-      "Мубаракшин Александр Вазирович": 125,
-      "Неворотов Игорь Владимирович": 2,
-      "Неустроев Илья Григорьевич": 66,
-      "Семенов Сергей Геннадьевич": 1,
-      "Черепанова Ирина Юрьевна": 6,
-      "Черных Алексей Васильевич": 5,
-      "Против всех": 54
+      "gas:candidate-vibid:359300366626": 2,
+      "gas:candidate-vibid:359300366617": 205,
+      "gas:candidate-vibid:359300366644": 279,
+      "gas:candidate-vibid:1001000121892": 41,
+      "gas:candidate-vibid:1001000217948": 125,
+      "gas:candidate-vibid:1001000136101": 2,
+      "gas:candidate-vibid:1001000113966": 66,
+      "gas:candidate-vibid:359300367042": 1,
+      "gas:candidate-vibid:359300366650": 6,
+      "gas:candidate-vibid:1001000188017": 5,
+      "special:against-all": 54
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=592000016&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=359300366986&region=0&sub_region=0&type=429",
@@ -10902,17 +10902,17 @@ export const duma_2003_uik_428_region_59_part_007 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Абдрашитов Халил Робертович": 0,
-      "Анохин Павел Викторович": 53,
-      "Вахрин Вячеслав Михайлович": 16,
-      "Корсун Владимир Кузьмич": 0,
-      "Мубаракшин Александр Вазирович": 4,
-      "Неворотов Игорь Владимирович": 2,
-      "Неустроев Илья Григорьевич": 21,
-      "Семенов Сергей Геннадьевич": 1,
-      "Черепанова Ирина Юрьевна": 0,
-      "Черных Алексей Васильевич": 0,
-      "Против всех": 2
+      "gas:candidate-vibid:359300366626": 0,
+      "gas:candidate-vibid:359300366617": 53,
+      "gas:candidate-vibid:359300366644": 16,
+      "gas:candidate-vibid:1001000121892": 0,
+      "gas:candidate-vibid:1001000217948": 4,
+      "gas:candidate-vibid:1001000136101": 2,
+      "gas:candidate-vibid:1001000113966": 21,
+      "gas:candidate-vibid:359300367042": 1,
+      "gas:candidate-vibid:359300366650": 0,
+      "gas:candidate-vibid:1001000188017": 0,
+      "special:against-all": 2
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=592000016&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=359300366986&region=0&sub_region=0&type=429",
@@ -10962,17 +10962,17 @@ export const duma_2003_uik_428_region_59_part_007 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Абдрашитов Халил Робертович": 0,
-      "Анохин Павел Викторович": 23,
-      "Вахрин Вячеслав Михайлович": 21,
-      "Корсун Владимир Кузьмич": 0,
-      "Мубаракшин Александр Вазирович": 0,
-      "Неворотов Игорь Владимирович": 1,
-      "Неустроев Илья Григорьевич": 11,
-      "Семенов Сергей Геннадьевич": 0,
-      "Черепанова Ирина Юрьевна": 3,
-      "Черных Алексей Васильевич": 1,
-      "Против всех": 4
+      "gas:candidate-vibid:359300366626": 0,
+      "gas:candidate-vibid:359300366617": 23,
+      "gas:candidate-vibid:359300366644": 21,
+      "gas:candidate-vibid:1001000121892": 0,
+      "gas:candidate-vibid:1001000217948": 0,
+      "gas:candidate-vibid:1001000136101": 1,
+      "gas:candidate-vibid:1001000113966": 11,
+      "gas:candidate-vibid:359300367042": 0,
+      "gas:candidate-vibid:359300366650": 3,
+      "gas:candidate-vibid:1001000188017": 1,
+      "special:against-all": 4
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=592000016&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=359300366986&region=0&sub_region=0&type=429",
@@ -11022,17 +11022,17 @@ export const duma_2003_uik_428_region_59_part_007 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Абдрашитов Халил Робертович": 0,
-      "Анохин Павел Викторович": 153,
-      "Вахрин Вячеслав Михайлович": 200,
-      "Корсун Владимир Кузьмич": 10,
-      "Мубаракшин Александр Вазирович": 11,
-      "Неворотов Игорь Владимирович": 3,
-      "Неустроев Илья Григорьевич": 56,
-      "Семенов Сергей Геннадьевич": 2,
-      "Черепанова Ирина Юрьевна": 5,
-      "Черных Алексей Васильевич": 2,
-      "Против всех": 26
+      "gas:candidate-vibid:359300366626": 0,
+      "gas:candidate-vibid:359300366617": 153,
+      "gas:candidate-vibid:359300366644": 200,
+      "gas:candidate-vibid:1001000121892": 10,
+      "gas:candidate-vibid:1001000217948": 11,
+      "gas:candidate-vibid:1001000136101": 3,
+      "gas:candidate-vibid:1001000113966": 56,
+      "gas:candidate-vibid:359300367042": 2,
+      "gas:candidate-vibid:359300366650": 5,
+      "gas:candidate-vibid:1001000188017": 2,
+      "special:against-all": 26
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=592000016&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=359300366986&region=0&sub_region=0&type=429",
@@ -11082,17 +11082,17 @@ export const duma_2003_uik_428_region_59_part_007 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Абдрашитов Халил Робертович": 0,
-      "Анохин Павел Викторович": 35,
-      "Вахрин Вячеслав Михайлович": 16,
-      "Корсун Владимир Кузьмич": 0,
-      "Мубаракшин Александр Вазирович": 0,
-      "Неворотов Игорь Владимирович": 0,
-      "Неустроев Илья Григорьевич": 10,
-      "Семенов Сергей Геннадьевич": 0,
-      "Черепанова Ирина Юрьевна": 0,
-      "Черных Алексей Васильевич": 2,
-      "Против всех": 0
+      "gas:candidate-vibid:359300366626": 0,
+      "gas:candidate-vibid:359300366617": 35,
+      "gas:candidate-vibid:359300366644": 16,
+      "gas:candidate-vibid:1001000121892": 0,
+      "gas:candidate-vibid:1001000217948": 0,
+      "gas:candidate-vibid:1001000136101": 0,
+      "gas:candidate-vibid:1001000113966": 10,
+      "gas:candidate-vibid:359300367042": 0,
+      "gas:candidate-vibid:359300366650": 0,
+      "gas:candidate-vibid:1001000188017": 2,
+      "special:against-all": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=592000016&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=359300366986&region=0&sub_region=0&type=429",
@@ -11142,17 +11142,17 @@ export const duma_2003_uik_428_region_59_part_007 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Абдрашитов Халил Робертович": 1,
-      "Анохин Павел Викторович": 121,
-      "Вахрин Вячеслав Михайлович": 130,
-      "Корсун Владимир Кузьмич": 4,
-      "Мубаракшин Александр Вазирович": 11,
-      "Неворотов Игорь Владимирович": 3,
-      "Неустроев Илья Григорьевич": 42,
-      "Семенов Сергей Геннадьевич": 4,
-      "Черепанова Ирина Юрьевна": 3,
-      "Черных Алексей Васильевич": 0,
-      "Против всех": 20
+      "gas:candidate-vibid:359300366626": 1,
+      "gas:candidate-vibid:359300366617": 121,
+      "gas:candidate-vibid:359300366644": 130,
+      "gas:candidate-vibid:1001000121892": 4,
+      "gas:candidate-vibid:1001000217948": 11,
+      "gas:candidate-vibid:1001000136101": 3,
+      "gas:candidate-vibid:1001000113966": 42,
+      "gas:candidate-vibid:359300367042": 4,
+      "gas:candidate-vibid:359300366650": 3,
+      "gas:candidate-vibid:1001000188017": 0,
+      "special:against-all": 20
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=592000016&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=359300366986&region=0&sub_region=0&type=429",
@@ -11202,17 +11202,17 @@ export const duma_2003_uik_428_region_59_part_007 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Абдрашитов Халил Робертович": 0,
-      "Анохин Павел Викторович": 39,
-      "Вахрин Вячеслав Михайлович": 9,
-      "Корсун Владимир Кузьмич": 0,
-      "Мубаракшин Александр Вазирович": 1,
-      "Неворотов Игорь Владимирович": 0,
-      "Неустроев Илья Григорьевич": 0,
-      "Семенов Сергей Геннадьевич": 0,
-      "Черепанова Ирина Юрьевна": 0,
-      "Черных Алексей Васильевич": 0,
-      "Против всех": 1
+      "gas:candidate-vibid:359300366626": 0,
+      "gas:candidate-vibid:359300366617": 39,
+      "gas:candidate-vibid:359300366644": 9,
+      "gas:candidate-vibid:1001000121892": 0,
+      "gas:candidate-vibid:1001000217948": 1,
+      "gas:candidate-vibid:1001000136101": 0,
+      "gas:candidate-vibid:1001000113966": 0,
+      "gas:candidate-vibid:359300367042": 0,
+      "gas:candidate-vibid:359300366650": 0,
+      "gas:candidate-vibid:1001000188017": 0,
+      "special:against-all": 1
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=592000016&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=359300366986&region=0&sub_region=0&type=429",
@@ -11262,17 +11262,17 @@ export const duma_2003_uik_428_region_59_part_007 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Абдрашитов Халил Робертович": 1,
-      "Анохин Павел Викторович": 61,
-      "Вахрин Вячеслав Михайлович": 77,
-      "Корсун Владимир Кузьмич": 7,
-      "Мубаракшин Александр Вазирович": 4,
-      "Неворотов Игорь Владимирович": 3,
-      "Неустроев Илья Григорьевич": 4,
-      "Семенов Сергей Геннадьевич": 0,
-      "Черепанова Ирина Юрьевна": 3,
-      "Черных Алексей Васильевич": 2,
-      "Против всех": 21
+      "gas:candidate-vibid:359300366626": 1,
+      "gas:candidate-vibid:359300366617": 61,
+      "gas:candidate-vibid:359300366644": 77,
+      "gas:candidate-vibid:1001000121892": 7,
+      "gas:candidate-vibid:1001000217948": 4,
+      "gas:candidate-vibid:1001000136101": 3,
+      "gas:candidate-vibid:1001000113966": 4,
+      "gas:candidate-vibid:359300367042": 0,
+      "gas:candidate-vibid:359300366650": 3,
+      "gas:candidate-vibid:1001000188017": 2,
+      "special:against-all": 21
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=592000016&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=359300366986&region=0&sub_region=0&type=429",
@@ -11322,17 +11322,17 @@ export const duma_2003_uik_428_region_59_part_007 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Абдрашитов Халил Робертович": 1,
-      "Анохин Павел Викторович": 171,
-      "Вахрин Вячеслав Михайлович": 65,
-      "Корсун Владимир Кузьмич": 25,
-      "Мубаракшин Александр Вазирович": 13,
-      "Неворотов Игорь Владимирович": 4,
-      "Неустроев Илья Григорьевич": 47,
-      "Семенов Сергей Геннадьевич": 0,
-      "Черепанова Ирина Юрьевна": 6,
-      "Черных Алексей Васильевич": 2,
-      "Против всех": 28
+      "gas:candidate-vibid:359300366626": 1,
+      "gas:candidate-vibid:359300366617": 171,
+      "gas:candidate-vibid:359300366644": 65,
+      "gas:candidate-vibid:1001000121892": 25,
+      "gas:candidate-vibid:1001000217948": 13,
+      "gas:candidate-vibid:1001000136101": 4,
+      "gas:candidate-vibid:1001000113966": 47,
+      "gas:candidate-vibid:359300367042": 0,
+      "gas:candidate-vibid:359300366650": 6,
+      "gas:candidate-vibid:1001000188017": 2,
+      "special:against-all": 28
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=592000016&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=359300366986&region=0&sub_region=0&type=429",
@@ -11382,17 +11382,17 @@ export const duma_2003_uik_428_region_59_part_007 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Абдрашитов Халил Робертович": 0,
-      "Анохин Павел Викторович": 33,
-      "Вахрин Вячеслав Михайлович": 12,
-      "Корсун Владимир Кузьмич": 1,
-      "Мубаракшин Александр Вазирович": 0,
-      "Неворотов Игорь Владимирович": 1,
-      "Неустроев Илья Григорьевич": 11,
-      "Семенов Сергей Геннадьевич": 0,
-      "Черепанова Ирина Юрьевна": 2,
-      "Черных Алексей Васильевич": 0,
-      "Против всех": 3
+      "gas:candidate-vibid:359300366626": 0,
+      "gas:candidate-vibid:359300366617": 33,
+      "gas:candidate-vibid:359300366644": 12,
+      "gas:candidate-vibid:1001000121892": 1,
+      "gas:candidate-vibid:1001000217948": 0,
+      "gas:candidate-vibid:1001000136101": 1,
+      "gas:candidate-vibid:1001000113966": 11,
+      "gas:candidate-vibid:359300367042": 0,
+      "gas:candidate-vibid:359300366650": 2,
+      "gas:candidate-vibid:1001000188017": 0,
+      "special:against-all": 3
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=592000016&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=359300366986&region=0&sub_region=0&type=429",
@@ -11442,17 +11442,17 @@ export const duma_2003_uik_428_region_59_part_007 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Абдрашитов Халил Робертович": 1,
-      "Анохин Павел Викторович": 77,
-      "Вахрин Вячеслав Михайлович": 30,
-      "Корсун Владимир Кузьмич": 0,
-      "Мубаракшин Александр Вазирович": 10,
-      "Неворотов Игорь Владимирович": 1,
-      "Неустроев Илья Григорьевич": 16,
-      "Семенов Сергей Геннадьевич": 0,
-      "Черепанова Ирина Юрьевна": 0,
-      "Черных Алексей Васильевич": 0,
-      "Против всех": 9
+      "gas:candidate-vibid:359300366626": 1,
+      "gas:candidate-vibid:359300366617": 77,
+      "gas:candidate-vibid:359300366644": 30,
+      "gas:candidate-vibid:1001000121892": 0,
+      "gas:candidate-vibid:1001000217948": 10,
+      "gas:candidate-vibid:1001000136101": 1,
+      "gas:candidate-vibid:1001000113966": 16,
+      "gas:candidate-vibid:359300367042": 0,
+      "gas:candidate-vibid:359300366650": 0,
+      "gas:candidate-vibid:1001000188017": 0,
+      "special:against-all": 9
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=592000016&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=359300366986&region=0&sub_region=0&type=429",
@@ -11502,17 +11502,17 @@ export const duma_2003_uik_428_region_59_part_007 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Абдрашитов Халил Робертович": 6,
-      "Анохин Павел Викторович": 311,
-      "Вахрин Вячеслав Михайлович": 300,
-      "Корсун Владимир Кузьмич": 36,
-      "Мубаракшин Александр Вазирович": 113,
-      "Неворотов Игорь Владимирович": 6,
-      "Неустроев Илья Григорьевич": 68,
-      "Семенов Сергей Геннадьевич": 4,
-      "Черепанова Ирина Юрьевна": 12,
-      "Черных Алексей Васильевич": 5,
-      "Против всех": 66
+      "gas:candidate-vibid:359300366626": 6,
+      "gas:candidate-vibid:359300366617": 311,
+      "gas:candidate-vibid:359300366644": 300,
+      "gas:candidate-vibid:1001000121892": 36,
+      "gas:candidate-vibid:1001000217948": 113,
+      "gas:candidate-vibid:1001000136101": 6,
+      "gas:candidate-vibid:1001000113966": 68,
+      "gas:candidate-vibid:359300367042": 4,
+      "gas:candidate-vibid:359300366650": 12,
+      "gas:candidate-vibid:1001000188017": 5,
+      "special:against-all": 66
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=592000016&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=359300366986&region=0&sub_region=0&type=429",
@@ -11562,17 +11562,17 @@ export const duma_2003_uik_428_region_59_part_007 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Абдрашитов Халил Робертович": 0,
-      "Анохин Павел Викторович": 35,
-      "Вахрин Вячеслав Михайлович": 37,
-      "Корсун Владимир Кузьмич": 3,
-      "Мубаракшин Александр Вазирович": 1,
-      "Неворотов Игорь Владимирович": 2,
-      "Неустроев Илья Григорьевич": 41,
-      "Семенов Сергей Геннадьевич": 1,
-      "Черепанова Ирина Юрьевна": 1,
-      "Черных Алексей Васильевич": 0,
-      "Против всех": 8
+      "gas:candidate-vibid:359300366626": 0,
+      "gas:candidate-vibid:359300366617": 35,
+      "gas:candidate-vibid:359300366644": 37,
+      "gas:candidate-vibid:1001000121892": 3,
+      "gas:candidate-vibid:1001000217948": 1,
+      "gas:candidate-vibid:1001000136101": 2,
+      "gas:candidate-vibid:1001000113966": 41,
+      "gas:candidate-vibid:359300367042": 1,
+      "gas:candidate-vibid:359300366650": 1,
+      "gas:candidate-vibid:1001000188017": 0,
+      "special:against-all": 8
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=592000016&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=359300366986&region=0&sub_region=0&type=429",
@@ -11622,17 +11622,17 @@ export const duma_2003_uik_428_region_59_part_007 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Абдрашитов Халил Робертович": 2,
-      "Анохин Павел Викторович": 63,
-      "Вахрин Вячеслав Михайлович": 51,
-      "Корсун Владимир Кузьмич": 2,
-      "Мубаракшин Александр Вазирович": 37,
-      "Неворотов Игорь Владимирович": 0,
-      "Неустроев Илья Григорьевич": 19,
-      "Семенов Сергей Геннадьевич": 1,
-      "Черепанова Ирина Юрьевна": 2,
-      "Черных Алексей Васильевич": 0,
-      "Против всех": 10
+      "gas:candidate-vibid:359300366626": 2,
+      "gas:candidate-vibid:359300366617": 63,
+      "gas:candidate-vibid:359300366644": 51,
+      "gas:candidate-vibid:1001000121892": 2,
+      "gas:candidate-vibid:1001000217948": 37,
+      "gas:candidate-vibid:1001000136101": 0,
+      "gas:candidate-vibid:1001000113966": 19,
+      "gas:candidate-vibid:359300367042": 1,
+      "gas:candidate-vibid:359300366650": 2,
+      "gas:candidate-vibid:1001000188017": 0,
+      "special:against-all": 10
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=592000016&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=359300366986&region=0&sub_region=0&type=429",
@@ -11682,17 +11682,17 @@ export const duma_2003_uik_428_region_59_part_007 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Абдрашитов Халил Робертович": 0,
-      "Анохин Павел Викторович": 77,
-      "Вахрин Вячеслав Михайлович": 67,
-      "Корсун Владимир Кузьмич": 5,
-      "Мубаракшин Александр Вазирович": 9,
-      "Неворотов Игорь Владимирович": 0,
-      "Неустроев Илья Григорьевич": 44,
-      "Семенов Сергей Геннадьевич": 1,
-      "Черепанова Ирина Юрьевна": 1,
-      "Черных Алексей Васильевич": 1,
-      "Против всех": 14
+      "gas:candidate-vibid:359300366626": 0,
+      "gas:candidate-vibid:359300366617": 77,
+      "gas:candidate-vibid:359300366644": 67,
+      "gas:candidate-vibid:1001000121892": 5,
+      "gas:candidate-vibid:1001000217948": 9,
+      "gas:candidate-vibid:1001000136101": 0,
+      "gas:candidate-vibid:1001000113966": 44,
+      "gas:candidate-vibid:359300367042": 1,
+      "gas:candidate-vibid:359300366650": 1,
+      "gas:candidate-vibid:1001000188017": 1,
+      "special:against-all": 14
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=592000016&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=359300366986&region=0&sub_region=0&type=429",
@@ -11742,17 +11742,17 @@ export const duma_2003_uik_428_region_59_part_007 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Абдрашитов Халил Робертович": 0,
-      "Анохин Павел Викторович": 165,
-      "Вахрин Вячеслав Михайлович": 51,
-      "Корсун Владимир Кузьмич": 3,
-      "Мубаракшин Александр Вазирович": 7,
-      "Неворотов Игорь Владимирович": 10,
-      "Неустроев Илья Григорьевич": 33,
-      "Семенов Сергей Геннадьевич": 0,
-      "Черепанова Ирина Юрьевна": 3,
-      "Черных Алексей Васильевич": 0,
-      "Против всех": 33
+      "gas:candidate-vibid:359300366626": 0,
+      "gas:candidate-vibid:359300366617": 165,
+      "gas:candidate-vibid:359300366644": 51,
+      "gas:candidate-vibid:1001000121892": 3,
+      "gas:candidate-vibid:1001000217948": 7,
+      "gas:candidate-vibid:1001000136101": 10,
+      "gas:candidate-vibid:1001000113966": 33,
+      "gas:candidate-vibid:359300367042": 0,
+      "gas:candidate-vibid:359300366650": 3,
+      "gas:candidate-vibid:1001000188017": 0,
+      "special:against-all": 33
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=592000016&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=359300366986&region=0&sub_region=0&type=429",
@@ -11802,17 +11802,17 @@ export const duma_2003_uik_428_region_59_part_007 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Абдрашитов Халил Робертович": 6,
-      "Анохин Павел Викторович": 437,
-      "Вахрин Вячеслав Михайлович": 305,
-      "Корсун Владимир Кузьмич": 58,
-      "Мубаракшин Александр Вазирович": 30,
-      "Неворотов Игорь Владимирович": 12,
-      "Неустроев Илья Григорьевич": 105,
-      "Семенов Сергей Геннадьевич": 6,
-      "Черепанова Ирина Юрьевна": 16,
-      "Черных Алексей Васильевич": 10,
-      "Против всех": 84
+      "gas:candidate-vibid:359300366626": 6,
+      "gas:candidate-vibid:359300366617": 437,
+      "gas:candidate-vibid:359300366644": 305,
+      "gas:candidate-vibid:1001000121892": 58,
+      "gas:candidate-vibid:1001000217948": 30,
+      "gas:candidate-vibid:1001000136101": 12,
+      "gas:candidate-vibid:1001000113966": 105,
+      "gas:candidate-vibid:359300367042": 6,
+      "gas:candidate-vibid:359300366650": 16,
+      "gas:candidate-vibid:1001000188017": 10,
+      "special:against-all": 84
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=592000016&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=359300366986&region=0&sub_region=0&type=429",
@@ -11862,17 +11862,17 @@ export const duma_2003_uik_428_region_59_part_007 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Абдрашитов Халил Робертович": 0,
-      "Анохин Павел Викторович": 362,
-      "Вахрин Вячеслав Михайлович": 239,
-      "Корсун Владимир Кузьмич": 27,
-      "Мубаракшин Александр Вазирович": 18,
-      "Неворотов Игорь Владимирович": 7,
-      "Неустроев Илья Григорьевич": 69,
-      "Семенов Сергей Геннадьевич": 3,
-      "Черепанова Ирина Юрьевна": 11,
-      "Черных Алексей Васильевич": 6,
-      "Против всех": 82
+      "gas:candidate-vibid:359300366626": 0,
+      "gas:candidate-vibid:359300366617": 362,
+      "gas:candidate-vibid:359300366644": 239,
+      "gas:candidate-vibid:1001000121892": 27,
+      "gas:candidate-vibid:1001000217948": 18,
+      "gas:candidate-vibid:1001000136101": 7,
+      "gas:candidate-vibid:1001000113966": 69,
+      "gas:candidate-vibid:359300367042": 3,
+      "gas:candidate-vibid:359300366650": 11,
+      "gas:candidate-vibid:1001000188017": 6,
+      "special:against-all": 82
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=592000016&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=359300366986&region=0&sub_region=0&type=429",
@@ -11922,17 +11922,17 @@ export const duma_2003_uik_428_region_59_part_007 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Абдрашитов Халил Робертович": 1,
-      "Анохин Павел Викторович": 101,
-      "Вахрин Вячеслав Михайлович": 88,
-      "Корсун Владимир Кузьмич": 6,
-      "Мубаракшин Александр Вазирович": 28,
-      "Неворотов Игорь Владимирович": 3,
-      "Неустроев Илья Григорьевич": 39,
-      "Семенов Сергей Геннадьевич": 0,
-      "Черепанова Ирина Юрьевна": 2,
-      "Черных Алексей Васильевич": 1,
-      "Против всех": 25
+      "gas:candidate-vibid:359300366626": 1,
+      "gas:candidate-vibid:359300366617": 101,
+      "gas:candidate-vibid:359300366644": 88,
+      "gas:candidate-vibid:1001000121892": 6,
+      "gas:candidate-vibid:1001000217948": 28,
+      "gas:candidate-vibid:1001000136101": 3,
+      "gas:candidate-vibid:1001000113966": 39,
+      "gas:candidate-vibid:359300367042": 0,
+      "gas:candidate-vibid:359300366650": 2,
+      "gas:candidate-vibid:1001000188017": 1,
+      "special:against-all": 25
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=592000016&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=359300366986&region=0&sub_region=0&type=429",
@@ -11982,17 +11982,17 @@ export const duma_2003_uik_428_region_59_part_007 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Абдрашитов Халил Робертович": 1,
-      "Анохин Павел Викторович": 193,
-      "Вахрин Вячеслав Михайлович": 125,
-      "Корсун Владимир Кузьмич": 7,
-      "Мубаракшин Александр Вазирович": 33,
-      "Неворотов Игорь Владимирович": 10,
-      "Неустроев Илья Григорьевич": 42,
-      "Семенов Сергей Геннадьевич": 0,
-      "Черепанова Ирина Юрьевна": 2,
-      "Черных Алексей Васильевич": 1,
-      "Против всех": 25
+      "gas:candidate-vibid:359300366626": 1,
+      "gas:candidate-vibid:359300366617": 193,
+      "gas:candidate-vibid:359300366644": 125,
+      "gas:candidate-vibid:1001000121892": 7,
+      "gas:candidate-vibid:1001000217948": 33,
+      "gas:candidate-vibid:1001000136101": 10,
+      "gas:candidate-vibid:1001000113966": 42,
+      "gas:candidate-vibid:359300367042": 0,
+      "gas:candidate-vibid:359300366650": 2,
+      "gas:candidate-vibid:1001000188017": 1,
+      "special:against-all": 25
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=592000016&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=359300366986&region=0&sub_region=0&type=429",
@@ -12042,17 +12042,17 @@ export const duma_2003_uik_428_region_59_part_007 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Абдрашитов Халил Робертович": 0,
-      "Анохин Павел Викторович": 60,
-      "Вахрин Вячеслав Михайлович": 46,
-      "Корсун Владимир Кузьмич": 10,
-      "Мубаракшин Александр Вазирович": 3,
-      "Неворотов Игорь Владимирович": 0,
-      "Неустроев Илья Григорьевич": 12,
-      "Семенов Сергей Геннадьевич": 0,
-      "Черепанова Ирина Юрьевна": 2,
-      "Черных Алексей Васильевич": 1,
-      "Против всех": 15
+      "gas:candidate-vibid:359300366626": 0,
+      "gas:candidate-vibid:359300366617": 60,
+      "gas:candidate-vibid:359300366644": 46,
+      "gas:candidate-vibid:1001000121892": 10,
+      "gas:candidate-vibid:1001000217948": 3,
+      "gas:candidate-vibid:1001000136101": 0,
+      "gas:candidate-vibid:1001000113966": 12,
+      "gas:candidate-vibid:359300367042": 0,
+      "gas:candidate-vibid:359300366650": 2,
+      "gas:candidate-vibid:1001000188017": 1,
+      "special:against-all": 15
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=592000016&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=359300366986&region=0&sub_region=0&type=429",
@@ -12102,17 +12102,17 @@ export const duma_2003_uik_428_region_59_part_007 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Абдрашитов Халил Робертович": 0,
-      "Анохин Павел Викторович": 79,
-      "Вахрин Вячеслав Михайлович": 45,
-      "Корсун Владимир Кузьмич": 4,
-      "Мубаракшин Александр Вазирович": 11,
-      "Неворотов Игорь Владимирович": 0,
-      "Неустроев Илья Григорьевич": 8,
-      "Семенов Сергей Геннадьевич": 1,
-      "Черепанова Ирина Юрьевна": 1,
-      "Черных Алексей Васильевич": 0,
-      "Против всех": 17
+      "gas:candidate-vibid:359300366626": 0,
+      "gas:candidate-vibid:359300366617": 79,
+      "gas:candidate-vibid:359300366644": 45,
+      "gas:candidate-vibid:1001000121892": 4,
+      "gas:candidate-vibid:1001000217948": 11,
+      "gas:candidate-vibid:1001000136101": 0,
+      "gas:candidate-vibid:1001000113966": 8,
+      "gas:candidate-vibid:359300367042": 1,
+      "gas:candidate-vibid:359300366650": 1,
+      "gas:candidate-vibid:1001000188017": 0,
+      "special:against-all": 17
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=592000016&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=359300366986&region=0&sub_region=0&type=429",

@@ -42,12 +42,12 @@ export const duma_2003_uik_428_region_42_part_005 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Гульняшкин Александр Алексеевич": 8,
-      "Корыстов Альберт Александрович": 2,
-      "Красаков Андрей Валентинович": 52,
-      "Неверов Сергей Иванович": 595,
-      "Ямщикова Елена Николаевна": 91,
-      "Против всех": 145
+      "gas:candidate-vibid:1001000250449": 8,
+      "gas:candidate-vibid:1001000195081": 2,
+      "gas:candidate-vibid:1001000136062": 52,
+      "gas:candidate-vibid:1001000225943": 595,
+      "gas:candidate-vibid:342300366648": 91,
+      "special:against-all": 145
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=423003002&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=342300367330&region=0&sub_region=0&type=429",
@@ -97,12 +97,12 @@ export const duma_2003_uik_428_region_42_part_005 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Гульняшкин Александр Алексеевич": 21,
-      "Корыстов Альберт Александрович": 20,
-      "Красаков Андрей Валентинович": 87,
-      "Неверов Сергей Иванович": 852,
-      "Ямщикова Елена Николаевна": 172,
-      "Против всех": 224
+      "gas:candidate-vibid:1001000250449": 21,
+      "gas:candidate-vibid:1001000195081": 20,
+      "gas:candidate-vibid:1001000136062": 87,
+      "gas:candidate-vibid:1001000225943": 852,
+      "gas:candidate-vibid:342300366648": 172,
+      "special:against-all": 224
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=423003002&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=342300367330&region=0&sub_region=0&type=429",
@@ -152,12 +152,12 @@ export const duma_2003_uik_428_region_42_part_005 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Гульняшкин Александр Алексеевич": 15,
-      "Корыстов Альберт Александрович": 9,
-      "Красаков Андрей Валентинович": 60,
-      "Неверов Сергей Иванович": 851,
-      "Ямщикова Елена Николаевна": 126,
-      "Против всех": 152
+      "gas:candidate-vibid:1001000250449": 15,
+      "gas:candidate-vibid:1001000195081": 9,
+      "gas:candidate-vibid:1001000136062": 60,
+      "gas:candidate-vibid:1001000225943": 851,
+      "gas:candidate-vibid:342300366648": 126,
+      "special:against-all": 152
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=423003002&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=342300367330&region=0&sub_region=0&type=429",
@@ -207,12 +207,12 @@ export const duma_2003_uik_428_region_42_part_005 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Гульняшкин Александр Алексеевич": 19,
-      "Корыстов Альберт Александрович": 6,
-      "Красаков Андрей Валентинович": 82,
-      "Неверов Сергей Иванович": 933,
-      "Ямщикова Елена Николаевна": 118,
-      "Против всех": 143
+      "gas:candidate-vibid:1001000250449": 19,
+      "gas:candidate-vibid:1001000195081": 6,
+      "gas:candidate-vibid:1001000136062": 82,
+      "gas:candidate-vibid:1001000225943": 933,
+      "gas:candidate-vibid:342300366648": 118,
+      "special:against-all": 143
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=423003002&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=342300367330&region=0&sub_region=0&type=429",
@@ -262,12 +262,12 @@ export const duma_2003_uik_428_region_42_part_005 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Гульняшкин Александр Алексеевич": 25,
-      "Корыстов Альберт Александрович": 12,
-      "Красаков Андрей Валентинович": 97,
-      "Неверов Сергей Иванович": 940,
-      "Ямщикова Елена Николаевна": 153,
-      "Против всех": 209
+      "gas:candidate-vibid:1001000250449": 25,
+      "gas:candidate-vibid:1001000195081": 12,
+      "gas:candidate-vibid:1001000136062": 97,
+      "gas:candidate-vibid:1001000225943": 940,
+      "gas:candidate-vibid:342300366648": 153,
+      "special:against-all": 209
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=423003002&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=342300367330&region=0&sub_region=0&type=429",
@@ -317,12 +317,12 @@ export const duma_2003_uik_428_region_42_part_005 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Гульняшкин Александр Алексеевич": 19,
-      "Корыстов Альберт Александрович": 7,
-      "Красаков Андрей Валентинович": 75,
-      "Неверов Сергей Иванович": 957,
-      "Ямщикова Елена Николаевна": 171,
-      "Против всех": 168
+      "gas:candidate-vibid:1001000250449": 19,
+      "gas:candidate-vibid:1001000195081": 7,
+      "gas:candidate-vibid:1001000136062": 75,
+      "gas:candidate-vibid:1001000225943": 957,
+      "gas:candidate-vibid:342300366648": 171,
+      "special:against-all": 168
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=423003002&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=342300367330&region=0&sub_region=0&type=429",
@@ -372,12 +372,12 @@ export const duma_2003_uik_428_region_42_part_005 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Гульняшкин Александр Алексеевич": 18,
-      "Корыстов Альберт Александрович": 10,
-      "Красаков Андрей Валентинович": 90,
-      "Неверов Сергей Иванович": 785,
-      "Ямщикова Елена Николаевна": 154,
-      "Против всех": 161
+      "gas:candidate-vibid:1001000250449": 18,
+      "gas:candidate-vibid:1001000195081": 10,
+      "gas:candidate-vibid:1001000136062": 90,
+      "gas:candidate-vibid:1001000225943": 785,
+      "gas:candidate-vibid:342300366648": 154,
+      "special:against-all": 161
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=423003002&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=342300367330&region=0&sub_region=0&type=429",
@@ -427,12 +427,12 @@ export const duma_2003_uik_428_region_42_part_005 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Гульняшкин Александр Алексеевич": 24,
-      "Корыстов Альберт Александрович": 6,
-      "Красаков Андрей Валентинович": 71,
-      "Неверов Сергей Иванович": 895,
-      "Ямщикова Елена Николаевна": 138,
-      "Против всех": 139
+      "gas:candidate-vibid:1001000250449": 24,
+      "gas:candidate-vibid:1001000195081": 6,
+      "gas:candidate-vibid:1001000136062": 71,
+      "gas:candidate-vibid:1001000225943": 895,
+      "gas:candidate-vibid:342300366648": 138,
+      "special:against-all": 139
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=423003002&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=342300367330&region=0&sub_region=0&type=429",
@@ -482,12 +482,12 @@ export const duma_2003_uik_428_region_42_part_005 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Гульняшкин Александр Алексеевич": 20,
-      "Корыстов Альберт Александрович": 9,
-      "Красаков Андрей Валентинович": 55,
-      "Неверов Сергей Иванович": 810,
-      "Ямщикова Елена Николаевна": 165,
-      "Против всех": 197
+      "gas:candidate-vibid:1001000250449": 20,
+      "gas:candidate-vibid:1001000195081": 9,
+      "gas:candidate-vibid:1001000136062": 55,
+      "gas:candidate-vibid:1001000225943": 810,
+      "gas:candidate-vibid:342300366648": 165,
+      "special:against-all": 197
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=423003002&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=342300367330&region=0&sub_region=0&type=429",
@@ -537,12 +537,12 @@ export const duma_2003_uik_428_region_42_part_005 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Гульняшкин Александр Алексеевич": 16,
-      "Корыстов Альберт Александрович": 5,
-      "Красаков Андрей Валентинович": 86,
-      "Неверов Сергей Иванович": 926,
-      "Ямщикова Елена Николаевна": 163,
-      "Против всех": 157
+      "gas:candidate-vibid:1001000250449": 16,
+      "gas:candidate-vibid:1001000195081": 5,
+      "gas:candidate-vibid:1001000136062": 86,
+      "gas:candidate-vibid:1001000225943": 926,
+      "gas:candidate-vibid:342300366648": 163,
+      "special:against-all": 157
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=423003002&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=342300367330&region=0&sub_region=0&type=429",
@@ -592,12 +592,12 @@ export const duma_2003_uik_428_region_42_part_005 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Гульняшкин Александр Алексеевич": 23,
-      "Корыстов Альберт Александрович": 5,
-      "Красаков Андрей Валентинович": 79,
-      "Неверов Сергей Иванович": 873,
-      "Ямщикова Елена Николаевна": 149,
-      "Против всех": 195
+      "gas:candidate-vibid:1001000250449": 23,
+      "gas:candidate-vibid:1001000195081": 5,
+      "gas:candidate-vibid:1001000136062": 79,
+      "gas:candidate-vibid:1001000225943": 873,
+      "gas:candidate-vibid:342300366648": 149,
+      "special:against-all": 195
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=423003002&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=342300367330&region=0&sub_region=0&type=429",
@@ -647,12 +647,12 @@ export const duma_2003_uik_428_region_42_part_005 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Гульняшкин Александр Алексеевич": 30,
-      "Корыстов Альберт Александрович": 8,
-      "Красаков Андрей Валентинович": 69,
-      "Неверов Сергей Иванович": 862,
-      "Ямщикова Елена Николаевна": 215,
-      "Против всех": 220
+      "gas:candidate-vibid:1001000250449": 30,
+      "gas:candidate-vibid:1001000195081": 8,
+      "gas:candidate-vibid:1001000136062": 69,
+      "gas:candidate-vibid:1001000225943": 862,
+      "gas:candidate-vibid:342300366648": 215,
+      "special:against-all": 220
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=423003002&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=342300367330&region=0&sub_region=0&type=429",
@@ -702,12 +702,12 @@ export const duma_2003_uik_428_region_42_part_005 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Гульняшкин Александр Алексеевич": 29,
-      "Корыстов Альберт Александрович": 8,
-      "Красаков Андрей Валентинович": 68,
-      "Неверов Сергей Иванович": 908,
-      "Ямщикова Елена Николаевна": 191,
-      "Против всех": 223
+      "gas:candidate-vibid:1001000250449": 29,
+      "gas:candidate-vibid:1001000195081": 8,
+      "gas:candidate-vibid:1001000136062": 68,
+      "gas:candidate-vibid:1001000225943": 908,
+      "gas:candidate-vibid:342300366648": 191,
+      "special:against-all": 223
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=423003002&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=342300367330&region=0&sub_region=0&type=429",
@@ -757,12 +757,12 @@ export const duma_2003_uik_428_region_42_part_005 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Гульняшкин Александр Алексеевич": 25,
-      "Корыстов Альберт Александрович": 3,
-      "Красаков Андрей Валентинович": 63,
-      "Неверов Сергей Иванович": 707,
-      "Ямщикова Елена Николаевна": 111,
-      "Против всех": 167
+      "gas:candidate-vibid:1001000250449": 25,
+      "gas:candidate-vibid:1001000195081": 3,
+      "gas:candidate-vibid:1001000136062": 63,
+      "gas:candidate-vibid:1001000225943": 707,
+      "gas:candidate-vibid:342300366648": 111,
+      "special:against-all": 167
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=423003002&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=342300367330&region=0&sub_region=0&type=429",
@@ -812,12 +812,12 @@ export const duma_2003_uik_428_region_42_part_005 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Гульняшкин Александр Алексеевич": 12,
-      "Корыстов Альберт Александрович": 8,
-      "Красаков Андрей Валентинович": 45,
-      "Неверов Сергей Иванович": 807,
-      "Ямщикова Елена Николаевна": 138,
-      "Против всех": 134
+      "gas:candidate-vibid:1001000250449": 12,
+      "gas:candidate-vibid:1001000195081": 8,
+      "gas:candidate-vibid:1001000136062": 45,
+      "gas:candidate-vibid:1001000225943": 807,
+      "gas:candidate-vibid:342300366648": 138,
+      "special:against-all": 134
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=423003002&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=342300367330&region=0&sub_region=0&type=429",
@@ -867,12 +867,12 @@ export const duma_2003_uik_428_region_42_part_005 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Гульняшкин Александр Алексеевич": 6,
-      "Корыстов Альберт Александрович": 2,
-      "Красаков Андрей Валентинович": 31,
-      "Неверов Сергей Иванович": 397,
-      "Ямщикова Елена Николаевна": 77,
-      "Против всех": 95
+      "gas:candidate-vibid:1001000250449": 6,
+      "gas:candidate-vibid:1001000195081": 2,
+      "gas:candidate-vibid:1001000136062": 31,
+      "gas:candidate-vibid:1001000225943": 397,
+      "gas:candidate-vibid:342300366648": 77,
+      "special:against-all": 95
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=423003002&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=342300367330&region=0&sub_region=0&type=429",
@@ -922,12 +922,12 @@ export const duma_2003_uik_428_region_42_part_005 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Гульняшкин Александр Алексеевич": 10,
-      "Корыстов Альберт Александрович": 5,
-      "Красаков Андрей Валентинович": 38,
-      "Неверов Сергей Иванович": 503,
-      "Ямщикова Елена Николаевна": 98,
-      "Против всех": 102
+      "gas:candidate-vibid:1001000250449": 10,
+      "gas:candidate-vibid:1001000195081": 5,
+      "gas:candidate-vibid:1001000136062": 38,
+      "gas:candidate-vibid:1001000225943": 503,
+      "gas:candidate-vibid:342300366648": 98,
+      "special:against-all": 102
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=423003002&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=342300367330&region=0&sub_region=0&type=429",
@@ -977,12 +977,12 @@ export const duma_2003_uik_428_region_42_part_005 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Гульняшкин Александр Алексеевич": 17,
-      "Корыстов Альберт Александрович": 2,
-      "Красаков Андрей Валентинович": 52,
-      "Неверов Сергей Иванович": 548,
-      "Ямщикова Елена Николаевна": 121,
-      "Против всех": 97
+      "gas:candidate-vibid:1001000250449": 17,
+      "gas:candidate-vibid:1001000195081": 2,
+      "gas:candidate-vibid:1001000136062": 52,
+      "gas:candidate-vibid:1001000225943": 548,
+      "gas:candidate-vibid:342300366648": 121,
+      "special:against-all": 97
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=423003002&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=342300367330&region=0&sub_region=0&type=429",
@@ -1032,12 +1032,12 @@ export const duma_2003_uik_428_region_42_part_005 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Гульняшкин Александр Алексеевич": 8,
-      "Корыстов Альберт Александрович": 4,
-      "Красаков Андрей Валентинович": 34,
-      "Неверов Сергей Иванович": 413,
-      "Ямщикова Елена Николаевна": 64,
-      "Против всех": 57
+      "gas:candidate-vibid:1001000250449": 8,
+      "gas:candidate-vibid:1001000195081": 4,
+      "gas:candidate-vibid:1001000136062": 34,
+      "gas:candidate-vibid:1001000225943": 413,
+      "gas:candidate-vibid:342300366648": 64,
+      "special:against-all": 57
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=423003002&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=342300367330&region=0&sub_region=0&type=429",
@@ -1087,12 +1087,12 @@ export const duma_2003_uik_428_region_42_part_005 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Гульняшкин Александр Алексеевич": 14,
-      "Корыстов Альберт Александрович": 1,
-      "Красаков Андрей Валентинович": 33,
-      "Неверов Сергей Иванович": 558,
-      "Ямщикова Елена Николаевна": 101,
-      "Против всех": 75
+      "gas:candidate-vibid:1001000250449": 14,
+      "gas:candidate-vibid:1001000195081": 1,
+      "gas:candidate-vibid:1001000136062": 33,
+      "gas:candidate-vibid:1001000225943": 558,
+      "gas:candidate-vibid:342300366648": 101,
+      "special:against-all": 75
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=423003002&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=342300367330&region=0&sub_region=0&type=429",
@@ -1142,12 +1142,12 @@ export const duma_2003_uik_428_region_42_part_005 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Гульняшкин Александр Алексеевич": 10,
-      "Корыстов Альберт Александрович": 7,
-      "Красаков Андрей Валентинович": 43,
-      "Неверов Сергей Иванович": 471,
-      "Ямщикова Елена Николаевна": 100,
-      "Против всех": 67
+      "gas:candidate-vibid:1001000250449": 10,
+      "gas:candidate-vibid:1001000195081": 7,
+      "gas:candidate-vibid:1001000136062": 43,
+      "gas:candidate-vibid:1001000225943": 471,
+      "gas:candidate-vibid:342300366648": 100,
+      "special:against-all": 67
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=423003003&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=342300367331&region=0&sub_region=0&type=429",
@@ -1197,12 +1197,12 @@ export const duma_2003_uik_428_region_42_part_005 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Гульняшкин Александр Алексеевич": 28,
-      "Корыстов Альберт Александрович": 11,
-      "Красаков Андрей Валентинович": 78,
-      "Неверов Сергей Иванович": 787,
-      "Ямщикова Елена Николаевна": 180,
-      "Против всех": 191
+      "gas:candidate-vibid:1001000250449": 28,
+      "gas:candidate-vibid:1001000195081": 11,
+      "gas:candidate-vibid:1001000136062": 78,
+      "gas:candidate-vibid:1001000225943": 787,
+      "gas:candidate-vibid:342300366648": 180,
+      "special:against-all": 191
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=423003003&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=342300367331&region=0&sub_region=0&type=429",
@@ -1252,12 +1252,12 @@ export const duma_2003_uik_428_region_42_part_005 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Гульняшкин Александр Алексеевич": 21,
-      "Корыстов Альберт Александрович": 32,
-      "Красаков Андрей Валентинович": 23,
-      "Неверов Сергей Иванович": 667,
-      "Ямщикова Елена Николаевна": 128,
-      "Против всех": 140
+      "gas:candidate-vibid:1001000250449": 21,
+      "gas:candidate-vibid:1001000195081": 32,
+      "gas:candidate-vibid:1001000136062": 23,
+      "gas:candidate-vibid:1001000225943": 667,
+      "gas:candidate-vibid:342300366648": 128,
+      "special:against-all": 140
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=423003003&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=342300367331&region=0&sub_region=0&type=429",
@@ -1307,12 +1307,12 @@ export const duma_2003_uik_428_region_42_part_005 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Гульняшкин Александр Алексеевич": 22,
-      "Корыстов Альберт Александрович": 4,
-      "Красаков Андрей Валентинович": 65,
-      "Неверов Сергей Иванович": 643,
-      "Ямщикова Елена Николаевна": 129,
-      "Против всех": 157
+      "gas:candidate-vibid:1001000250449": 22,
+      "gas:candidate-vibid:1001000195081": 4,
+      "gas:candidate-vibid:1001000136062": 65,
+      "gas:candidate-vibid:1001000225943": 643,
+      "gas:candidate-vibid:342300366648": 129,
+      "special:against-all": 157
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=423003003&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=342300367331&region=0&sub_region=0&type=429",
@@ -1362,12 +1362,12 @@ export const duma_2003_uik_428_region_42_part_005 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Гульняшкин Александр Алексеевич": 27,
-      "Корыстов Альберт Александрович": 9,
-      "Красаков Андрей Валентинович": 51,
-      "Неверов Сергей Иванович": 855,
-      "Ямщикова Елена Николаевна": 152,
-      "Против всех": 171
+      "gas:candidate-vibid:1001000250449": 27,
+      "gas:candidate-vibid:1001000195081": 9,
+      "gas:candidate-vibid:1001000136062": 51,
+      "gas:candidate-vibid:1001000225943": 855,
+      "gas:candidate-vibid:342300366648": 152,
+      "special:against-all": 171
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=423003003&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=342300367331&region=0&sub_region=0&type=429",
@@ -1417,12 +1417,12 @@ export const duma_2003_uik_428_region_42_part_005 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Гульняшкин Александр Алексеевич": 34,
-      "Корыстов Альберт Александрович": 14,
-      "Красаков Андрей Валентинович": 76,
-      "Неверов Сергей Иванович": 779,
-      "Ямщикова Елена Николаевна": 146,
-      "Против всех": 232
+      "gas:candidate-vibid:1001000250449": 34,
+      "gas:candidate-vibid:1001000195081": 14,
+      "gas:candidate-vibid:1001000136062": 76,
+      "gas:candidate-vibid:1001000225943": 779,
+      "gas:candidate-vibid:342300366648": 146,
+      "special:against-all": 232
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=423003003&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=342300367331&region=0&sub_region=0&type=429",
@@ -1472,12 +1472,12 @@ export const duma_2003_uik_428_region_42_part_005 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Гульняшкин Александр Алексеевич": 24,
-      "Корыстов Альберт Александрович": 6,
-      "Красаков Андрей Валентинович": 101,
-      "Неверов Сергей Иванович": 781,
-      "Ямщикова Елена Николаевна": 204,
-      "Против всех": 175
+      "gas:candidate-vibid:1001000250449": 24,
+      "gas:candidate-vibid:1001000195081": 6,
+      "gas:candidate-vibid:1001000136062": 101,
+      "gas:candidate-vibid:1001000225943": 781,
+      "gas:candidate-vibid:342300366648": 204,
+      "special:against-all": 175
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=423003003&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=342300367331&region=0&sub_region=0&type=429",
@@ -1527,12 +1527,12 @@ export const duma_2003_uik_428_region_42_part_005 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Гульняшкин Александр Алексеевич": 19,
-      "Корыстов Альберт Александрович": 8,
-      "Красаков Андрей Валентинович": 66,
-      "Неверов Сергей Иванович": 626,
-      "Ямщикова Елена Николаевна": 138,
-      "Против всех": 144
+      "gas:candidate-vibid:1001000250449": 19,
+      "gas:candidate-vibid:1001000195081": 8,
+      "gas:candidate-vibid:1001000136062": 66,
+      "gas:candidate-vibid:1001000225943": 626,
+      "gas:candidate-vibid:342300366648": 138,
+      "special:against-all": 144
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=423003003&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=342300367331&region=0&sub_region=0&type=429",
@@ -1582,12 +1582,12 @@ export const duma_2003_uik_428_region_42_part_005 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Гульняшкин Александр Алексеевич": 18,
-      "Корыстов Альберт Александрович": 14,
-      "Красаков Андрей Валентинович": 71,
-      "Неверов Сергей Иванович": 738,
-      "Ямщикова Елена Николаевна": 116,
-      "Против всех": 101
+      "gas:candidate-vibid:1001000250449": 18,
+      "gas:candidate-vibid:1001000195081": 14,
+      "gas:candidate-vibid:1001000136062": 71,
+      "gas:candidate-vibid:1001000225943": 738,
+      "gas:candidate-vibid:342300366648": 116,
+      "special:against-all": 101
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=423003003&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=342300367331&region=0&sub_region=0&type=429",
@@ -1637,12 +1637,12 @@ export const duma_2003_uik_428_region_42_part_005 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Гульняшкин Александр Алексеевич": 12,
-      "Корыстов Альберт Александрович": 9,
-      "Красаков Андрей Валентинович": 61,
-      "Неверов Сергей Иванович": 599,
-      "Ямщикова Елена Николаевна": 136,
-      "Против всех": 146
+      "gas:candidate-vibid:1001000250449": 12,
+      "gas:candidate-vibid:1001000195081": 9,
+      "gas:candidate-vibid:1001000136062": 61,
+      "gas:candidate-vibid:1001000225943": 599,
+      "gas:candidate-vibid:342300366648": 136,
+      "special:against-all": 146
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=423003003&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=342300367331&region=0&sub_region=0&type=429",
@@ -1692,12 +1692,12 @@ export const duma_2003_uik_428_region_42_part_005 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Гульняшкин Александр Алексеевич": 36,
-      "Корыстов Альберт Александрович": 17,
-      "Красаков Андрей Валентинович": 63,
-      "Неверов Сергей Иванович": 722,
-      "Ямщикова Елена Николаевна": 198,
-      "Против всех": 198
+      "gas:candidate-vibid:1001000250449": 36,
+      "gas:candidate-vibid:1001000195081": 17,
+      "gas:candidate-vibid:1001000136062": 63,
+      "gas:candidate-vibid:1001000225943": 722,
+      "gas:candidate-vibid:342300366648": 198,
+      "special:against-all": 198
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=423003003&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=342300367331&region=0&sub_region=0&type=429",
@@ -1747,12 +1747,12 @@ export const duma_2003_uik_428_region_42_part_005 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Гульняшкин Александр Алексеевич": 36,
-      "Корыстов Альберт Александрович": 6,
-      "Красаков Андрей Валентинович": 68,
-      "Неверов Сергей Иванович": 681,
-      "Ямщикова Елена Николаевна": 162,
-      "Против всех": 233
+      "gas:candidate-vibid:1001000250449": 36,
+      "gas:candidate-vibid:1001000195081": 6,
+      "gas:candidate-vibid:1001000136062": 68,
+      "gas:candidate-vibid:1001000225943": 681,
+      "gas:candidate-vibid:342300366648": 162,
+      "special:against-all": 233
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=423003003&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=342300367331&region=0&sub_region=0&type=429",
@@ -1802,12 +1802,12 @@ export const duma_2003_uik_428_region_42_part_005 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Гульняшкин Александр Алексеевич": 22,
-      "Корыстов Альберт Александрович": 17,
-      "Красаков Андрей Валентинович": 56,
-      "Неверов Сергей Иванович": 703,
-      "Ямщикова Елена Николаевна": 144,
-      "Против всех": 143
+      "gas:candidate-vibid:1001000250449": 22,
+      "gas:candidate-vibid:1001000195081": 17,
+      "gas:candidate-vibid:1001000136062": 56,
+      "gas:candidate-vibid:1001000225943": 703,
+      "gas:candidate-vibid:342300366648": 144,
+      "special:against-all": 143
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=423003003&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=342300367331&region=0&sub_region=0&type=429",
@@ -1857,12 +1857,12 @@ export const duma_2003_uik_428_region_42_part_005 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Гульняшкин Александр Алексеевич": 33,
-      "Корыстов Альберт Александрович": 9,
-      "Красаков Андрей Валентинович": 72,
-      "Неверов Сергей Иванович": 670,
-      "Ямщикова Елена Николаевна": 159,
-      "Против всех": 152
+      "gas:candidate-vibid:1001000250449": 33,
+      "gas:candidate-vibid:1001000195081": 9,
+      "gas:candidate-vibid:1001000136062": 72,
+      "gas:candidate-vibid:1001000225943": 670,
+      "gas:candidate-vibid:342300366648": 159,
+      "special:against-all": 152
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=423003003&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=342300367331&region=0&sub_region=0&type=429",
@@ -1912,12 +1912,12 @@ export const duma_2003_uik_428_region_42_part_005 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Гульняшкин Александр Алексеевич": 16,
-      "Корыстов Альберт Александрович": 9,
-      "Красаков Андрей Валентинович": 72,
-      "Неверов Сергей Иванович": 692,
-      "Ямщикова Елена Николаевна": 127,
-      "Против всех": 144
+      "gas:candidate-vibid:1001000250449": 16,
+      "gas:candidate-vibid:1001000195081": 9,
+      "gas:candidate-vibid:1001000136062": 72,
+      "gas:candidate-vibid:1001000225943": 692,
+      "gas:candidate-vibid:342300366648": 127,
+      "special:against-all": 144
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=423003003&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=342300367331&region=0&sub_region=0&type=429",
@@ -1967,12 +1967,12 @@ export const duma_2003_uik_428_region_42_part_005 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Гульняшкин Александр Алексеевич": 30,
-      "Корыстов Альберт Александрович": 9,
-      "Красаков Андрей Валентинович": 52,
-      "Неверов Сергей Иванович": 748,
-      "Ямщикова Елена Николаевна": 197,
-      "Против всех": 190
+      "gas:candidate-vibid:1001000250449": 30,
+      "gas:candidate-vibid:1001000195081": 9,
+      "gas:candidate-vibid:1001000136062": 52,
+      "gas:candidate-vibid:1001000225943": 748,
+      "gas:candidate-vibid:342300366648": 197,
+      "special:against-all": 190
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=423003003&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=342300367331&region=0&sub_region=0&type=429",
@@ -2022,12 +2022,12 @@ export const duma_2003_uik_428_region_42_part_005 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Гульняшкин Александр Алексеевич": 0,
-      "Корыстов Альберт Александрович": 0,
-      "Красаков Андрей Валентинович": 3,
-      "Неверов Сергей Иванович": 348,
-      "Ямщикова Елена Николаевна": 2,
-      "Против всех": 1
+      "gas:candidate-vibid:1001000250449": 0,
+      "gas:candidate-vibid:1001000195081": 0,
+      "gas:candidate-vibid:1001000136062": 3,
+      "gas:candidate-vibid:1001000225943": 348,
+      "gas:candidate-vibid:342300366648": 2,
+      "special:against-all": 1
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=423003003&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=342300367331&region=0&sub_region=0&type=429",
@@ -2077,12 +2077,12 @@ export const duma_2003_uik_428_region_42_part_005 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Гульняшкин Александр Алексеевич": 10,
-      "Корыстов Альберт Александрович": 1,
-      "Красаков Андрей Валентинович": 29,
-      "Неверов Сергей Иванович": 347,
-      "Ямщикова Елена Николаевна": 81,
-      "Против всех": 45
+      "gas:candidate-vibid:1001000250449": 10,
+      "gas:candidate-vibid:1001000195081": 1,
+      "gas:candidate-vibid:1001000136062": 29,
+      "gas:candidate-vibid:1001000225943": 347,
+      "gas:candidate-vibid:342300366648": 81,
+      "special:against-all": 45
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=423003004&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=342300367332&region=0&sub_region=0&type=429",
@@ -2132,12 +2132,12 @@ export const duma_2003_uik_428_region_42_part_005 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Гульняшкин Александр Алексеевич": 7,
-      "Корыстов Альберт Александрович": 2,
-      "Красаков Андрей Валентинович": 19,
-      "Неверов Сергей Иванович": 294,
-      "Ямщикова Елена Николаевна": 57,
-      "Против всех": 63
+      "gas:candidate-vibid:1001000250449": 7,
+      "gas:candidate-vibid:1001000195081": 2,
+      "gas:candidate-vibid:1001000136062": 19,
+      "gas:candidate-vibid:1001000225943": 294,
+      "gas:candidate-vibid:342300366648": 57,
+      "special:against-all": 63
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=423003004&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=342300367332&region=0&sub_region=0&type=429",
@@ -2187,12 +2187,12 @@ export const duma_2003_uik_428_region_42_part_005 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Гульняшкин Александр Алексеевич": 15,
-      "Корыстов Альберт Александрович": 0,
-      "Красаков Андрей Валентинович": 34,
-      "Неверов Сергей Иванович": 274,
-      "Ямщикова Елена Николаевна": 37,
-      "Против всех": 51
+      "gas:candidate-vibid:1001000250449": 15,
+      "gas:candidate-vibid:1001000195081": 0,
+      "gas:candidate-vibid:1001000136062": 34,
+      "gas:candidate-vibid:1001000225943": 274,
+      "gas:candidate-vibid:342300366648": 37,
+      "special:against-all": 51
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=423003004&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=342300367332&region=0&sub_region=0&type=429",
@@ -2242,12 +2242,12 @@ export const duma_2003_uik_428_region_42_part_005 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Гульняшкин Александр Алексеевич": 24,
-      "Корыстов Альберт Александрович": 6,
-      "Красаков Андрей Валентинович": 61,
-      "Неверов Сергей Иванович": 607,
-      "Ямщикова Елена Николаевна": 148,
-      "Против всех": 152
+      "gas:candidate-vibid:1001000250449": 24,
+      "gas:candidate-vibid:1001000195081": 6,
+      "gas:candidate-vibid:1001000136062": 61,
+      "gas:candidate-vibid:1001000225943": 607,
+      "gas:candidate-vibid:342300366648": 148,
+      "special:against-all": 152
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=423003004&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=342300367332&region=0&sub_region=0&type=429",
@@ -2297,12 +2297,12 @@ export const duma_2003_uik_428_region_42_part_005 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Гульняшкин Александр Алексеевич": 24,
-      "Корыстов Альберт Александрович": 6,
-      "Красаков Андрей Валентинович": 88,
-      "Неверов Сергей Иванович": 721,
-      "Ямщикова Елена Николаевна": 173,
-      "Против всех": 155
+      "gas:candidate-vibid:1001000250449": 24,
+      "gas:candidate-vibid:1001000195081": 6,
+      "gas:candidate-vibid:1001000136062": 88,
+      "gas:candidate-vibid:1001000225943": 721,
+      "gas:candidate-vibid:342300366648": 173,
+      "special:against-all": 155
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=423003004&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=342300367332&region=0&sub_region=0&type=429",
@@ -2352,12 +2352,12 @@ export const duma_2003_uik_428_region_42_part_005 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Гульняшкин Александр Алексеевич": 5,
-      "Корыстов Альберт Александрович": 2,
-      "Красаков Андрей Валентинович": 37,
-      "Неверов Сергей Иванович": 732,
-      "Ямщикова Елена Николаевна": 161,
-      "Против всех": 118
+      "gas:candidate-vibid:1001000250449": 5,
+      "gas:candidate-vibid:1001000195081": 2,
+      "gas:candidate-vibid:1001000136062": 37,
+      "gas:candidate-vibid:1001000225943": 732,
+      "gas:candidate-vibid:342300366648": 161,
+      "special:against-all": 118
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=423003004&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=342300367332&region=0&sub_region=0&type=429",
@@ -2407,12 +2407,12 @@ export const duma_2003_uik_428_region_42_part_005 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Гульняшкин Александр Алексеевич": 13,
-      "Корыстов Альберт Александрович": 5,
-      "Красаков Андрей Валентинович": 31,
-      "Неверов Сергей Иванович": 403,
-      "Ямщикова Елена Николаевна": 122,
-      "Против всех": 98
+      "gas:candidate-vibid:1001000250449": 13,
+      "gas:candidate-vibid:1001000195081": 5,
+      "gas:candidate-vibid:1001000136062": 31,
+      "gas:candidate-vibid:1001000225943": 403,
+      "gas:candidate-vibid:342300366648": 122,
+      "special:against-all": 98
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=423003004&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=342300367332&region=0&sub_region=0&type=429",
@@ -2462,12 +2462,12 @@ export const duma_2003_uik_428_region_42_part_005 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Гульняшкин Александр Алексеевич": 15,
-      "Корыстов Альберт Александрович": 5,
-      "Красаков Андрей Валентинович": 52,
-      "Неверов Сергей Иванович": 529,
-      "Ямщикова Елена Николаевна": 140,
-      "Против всех": 77
+      "gas:candidate-vibid:1001000250449": 15,
+      "gas:candidate-vibid:1001000195081": 5,
+      "gas:candidate-vibid:1001000136062": 52,
+      "gas:candidate-vibid:1001000225943": 529,
+      "gas:candidate-vibid:342300366648": 140,
+      "special:against-all": 77
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=423003004&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=342300367332&region=0&sub_region=0&type=429",
@@ -2517,12 +2517,12 @@ export const duma_2003_uik_428_region_42_part_005 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Гульняшкин Александр Алексеевич": 9,
-      "Корыстов Альберт Александрович": 7,
-      "Красаков Андрей Валентинович": 47,
-      "Неверов Сергей Иванович": 338,
-      "Ямщикова Елена Николаевна": 79,
-      "Против всех": 83
+      "gas:candidate-vibid:1001000250449": 9,
+      "gas:candidate-vibid:1001000195081": 7,
+      "gas:candidate-vibid:1001000136062": 47,
+      "gas:candidate-vibid:1001000225943": 338,
+      "gas:candidate-vibid:342300366648": 79,
+      "special:against-all": 83
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=423003004&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=342300367332&region=0&sub_region=0&type=429",
@@ -2572,12 +2572,12 @@ export const duma_2003_uik_428_region_42_part_005 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Гульняшкин Александр Алексеевич": 3,
-      "Корыстов Альберт Александрович": 1,
-      "Красаков Андрей Валентинович": 9,
-      "Неверов Сергей Иванович": 179,
-      "Ямщикова Елена Николаевна": 37,
-      "Против всех": 24
+      "gas:candidate-vibid:1001000250449": 3,
+      "gas:candidate-vibid:1001000195081": 1,
+      "gas:candidate-vibid:1001000136062": 9,
+      "gas:candidate-vibid:1001000225943": 179,
+      "gas:candidate-vibid:342300366648": 37,
+      "special:against-all": 24
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=423003004&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=342300367332&region=0&sub_region=0&type=429",
@@ -2627,12 +2627,12 @@ export const duma_2003_uik_428_region_42_part_005 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Гульняшкин Александр Алексеевич": 5,
-      "Корыстов Альберт Александрович": 2,
-      "Красаков Андрей Валентинович": 9,
-      "Неверов Сергей Иванович": 206,
-      "Ямщикова Елена Николаевна": 33,
-      "Против всех": 40
+      "gas:candidate-vibid:1001000250449": 5,
+      "gas:candidate-vibid:1001000195081": 2,
+      "gas:candidate-vibid:1001000136062": 9,
+      "gas:candidate-vibid:1001000225943": 206,
+      "gas:candidate-vibid:342300366648": 33,
+      "special:against-all": 40
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=423003004&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=342300367332&region=0&sub_region=0&type=429",
@@ -2682,12 +2682,12 @@ export const duma_2003_uik_428_region_42_part_005 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Гульняшкин Александр Алексеевич": 3,
-      "Корыстов Альберт Александрович": 2,
-      "Красаков Андрей Валентинович": 13,
-      "Неверов Сергей Иванович": 159,
-      "Ямщикова Елена Николаевна": 24,
-      "Против всех": 25
+      "gas:candidate-vibid:1001000250449": 3,
+      "gas:candidate-vibid:1001000195081": 2,
+      "gas:candidate-vibid:1001000136062": 13,
+      "gas:candidate-vibid:1001000225943": 159,
+      "gas:candidate-vibid:342300366648": 24,
+      "special:against-all": 25
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=423003004&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=342300367332&region=0&sub_region=0&type=429",
@@ -2737,12 +2737,12 @@ export const duma_2003_uik_428_region_42_part_005 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Гульняшкин Александр Алексеевич": 25,
-      "Корыстов Альберт Александрович": 9,
-      "Красаков Андрей Валентинович": 50,
-      "Неверов Сергей Иванович": 610,
-      "Ямщикова Елена Николаевна": 105,
-      "Против всех": 91
+      "gas:candidate-vibid:1001000250449": 25,
+      "gas:candidate-vibid:1001000195081": 9,
+      "gas:candidate-vibid:1001000136062": 50,
+      "gas:candidate-vibid:1001000225943": 610,
+      "gas:candidate-vibid:342300366648": 105,
+      "special:against-all": 91
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=423003004&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=342300367332&region=0&sub_region=0&type=429",
@@ -2792,12 +2792,12 @@ export const duma_2003_uik_428_region_42_part_005 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Гульняшкин Александр Алексеевич": 25,
-      "Корыстов Альберт Александрович": 4,
-      "Красаков Андрей Валентинович": 48,
-      "Неверов Сергей Иванович": 529,
-      "Ямщикова Елена Николаевна": 88,
-      "Против всех": 124
+      "gas:candidate-vibid:1001000250449": 25,
+      "gas:candidate-vibid:1001000195081": 4,
+      "gas:candidate-vibid:1001000136062": 48,
+      "gas:candidate-vibid:1001000225943": 529,
+      "gas:candidate-vibid:342300366648": 88,
+      "special:against-all": 124
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=423003004&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=342300367332&region=0&sub_region=0&type=429",
@@ -2847,12 +2847,12 @@ export const duma_2003_uik_428_region_42_part_005 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Гульняшкин Александр Алексеевич": 17,
-      "Корыстов Альберт Александрович": 8,
-      "Красаков Андрей Валентинович": 38,
-      "Неверов Сергей Иванович": 500,
-      "Ямщикова Елена Николаевна": 91,
-      "Против всех": 126
+      "gas:candidate-vibid:1001000250449": 17,
+      "gas:candidate-vibid:1001000195081": 8,
+      "gas:candidate-vibid:1001000136062": 38,
+      "gas:candidate-vibid:1001000225943": 500,
+      "gas:candidate-vibid:342300366648": 91,
+      "special:against-all": 126
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=423003004&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=342300367332&region=0&sub_region=0&type=429",
@@ -2902,12 +2902,12 @@ export const duma_2003_uik_428_region_42_part_005 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Гульняшкин Александр Алексеевич": 30,
-      "Корыстов Альберт Александрович": 11,
-      "Красаков Андрей Валентинович": 60,
-      "Неверов Сергей Иванович": 713,
-      "Ямщикова Елена Николаевна": 136,
-      "Против всех": 162
+      "gas:candidate-vibid:1001000250449": 30,
+      "gas:candidate-vibid:1001000195081": 11,
+      "gas:candidate-vibid:1001000136062": 60,
+      "gas:candidate-vibid:1001000225943": 713,
+      "gas:candidate-vibid:342300366648": 136,
+      "special:against-all": 162
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=423003004&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=342300367332&region=0&sub_region=0&type=429",
@@ -2957,12 +2957,12 @@ export const duma_2003_uik_428_region_42_part_005 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Гульняшкин Александр Алексеевич": 17,
-      "Корыстов Альберт Александрович": 5,
-      "Красаков Андрей Валентинович": 54,
-      "Неверов Сергей Иванович": 662,
-      "Ямщикова Елена Николаевна": 123,
-      "Против всех": 152
+      "gas:candidate-vibid:1001000250449": 17,
+      "gas:candidate-vibid:1001000195081": 5,
+      "gas:candidate-vibid:1001000136062": 54,
+      "gas:candidate-vibid:1001000225943": 662,
+      "gas:candidate-vibid:342300366648": 123,
+      "special:against-all": 152
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=423003004&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=342300367332&region=0&sub_region=0&type=429",
@@ -3012,12 +3012,12 @@ export const duma_2003_uik_428_region_42_part_005 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Гульняшкин Александр Алексеевич": 17,
-      "Корыстов Альберт Александрович": 0,
-      "Красаков Андрей Валентинович": 37,
-      "Неверов Сергей Иванович": 314,
-      "Ямщикова Елена Николаевна": 81,
-      "Против всех": 98
+      "gas:candidate-vibid:1001000250449": 17,
+      "gas:candidate-vibid:1001000195081": 0,
+      "gas:candidate-vibid:1001000136062": 37,
+      "gas:candidate-vibid:1001000225943": 314,
+      "gas:candidate-vibid:342300366648": 81,
+      "special:against-all": 98
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=423003004&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=342300367332&region=0&sub_region=0&type=429",
@@ -3067,12 +3067,12 @@ export const duma_2003_uik_428_region_42_part_005 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Гульняшкин Александр Алексеевич": 13,
-      "Корыстов Альберт Александрович": 7,
-      "Красаков Андрей Валентинович": 32,
-      "Неверов Сергей Иванович": 416,
-      "Ямщикова Елена Николаевна": 85,
-      "Против всех": 105
+      "gas:candidate-vibid:1001000250449": 13,
+      "gas:candidate-vibid:1001000195081": 7,
+      "gas:candidate-vibid:1001000136062": 32,
+      "gas:candidate-vibid:1001000225943": 416,
+      "gas:candidate-vibid:342300366648": 85,
+      "special:against-all": 105
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=423003004&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=342300367332&region=0&sub_region=0&type=429",
@@ -3122,12 +3122,12 @@ export const duma_2003_uik_428_region_42_part_005 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Гульняшкин Александр Алексеевич": 27,
-      "Корыстов Альберт Александрович": 9,
-      "Красаков Андрей Валентинович": 76,
-      "Неверов Сергей Иванович": 811,
-      "Ямщикова Елена Николаевна": 189,
-      "Против всех": 188
+      "gas:candidate-vibid:1001000250449": 27,
+      "gas:candidate-vibid:1001000195081": 9,
+      "gas:candidate-vibid:1001000136062": 76,
+      "gas:candidate-vibid:1001000225943": 811,
+      "gas:candidate-vibid:342300366648": 189,
+      "special:against-all": 188
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=423003004&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=342300367332&region=0&sub_region=0&type=429",
@@ -3177,12 +3177,12 @@ export const duma_2003_uik_428_region_42_part_005 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Гульняшкин Александр Алексеевич": 5,
-      "Корыстов Альберт Александрович": 3,
-      "Красаков Андрей Валентинович": 32,
-      "Неверов Сергей Иванович": 250,
-      "Ямщикова Елена Николаевна": 52,
-      "Против всех": 39
+      "gas:candidate-vibid:1001000250449": 5,
+      "gas:candidate-vibid:1001000195081": 3,
+      "gas:candidate-vibid:1001000136062": 32,
+      "gas:candidate-vibid:1001000225943": 250,
+      "gas:candidate-vibid:342300366648": 52,
+      "special:against-all": 39
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=423003004&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=342300367332&region=0&sub_region=0&type=429",
@@ -3232,12 +3232,12 @@ export const duma_2003_uik_428_region_42_part_005 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Гульняшкин Александр Алексеевич": 36,
-      "Корыстов Альберт Александрович": 3,
-      "Красаков Андрей Валентинович": 11,
-      "Неверов Сергей Иванович": 354,
-      "Ямщикова Елена Николаевна": 88,
-      "Против всех": 80
+      "gas:candidate-vibid:1001000250449": 36,
+      "gas:candidate-vibid:1001000195081": 3,
+      "gas:candidate-vibid:1001000136062": 11,
+      "gas:candidate-vibid:1001000225943": 354,
+      "gas:candidate-vibid:342300366648": 88,
+      "special:against-all": 80
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=423003004&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=342300367332&region=0&sub_region=0&type=429",
@@ -3287,12 +3287,12 @@ export const duma_2003_uik_428_region_42_part_005 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Гульняшкин Александр Алексеевич": 15,
-      "Корыстов Альберт Александрович": 8,
-      "Красаков Андрей Валентинович": 54,
-      "Неверов Сергей Иванович": 648,
-      "Ямщикова Елена Николаевна": 109,
-      "Против всех": 73
+      "gas:candidate-vibid:1001000250449": 15,
+      "gas:candidate-vibid:1001000195081": 8,
+      "gas:candidate-vibid:1001000136062": 54,
+      "gas:candidate-vibid:1001000225943": 648,
+      "gas:candidate-vibid:342300366648": 109,
+      "special:against-all": 73
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=423003004&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=342300367332&region=0&sub_region=0&type=429",
@@ -3342,12 +3342,12 @@ export const duma_2003_uik_428_region_42_part_005 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Гульняшкин Александр Алексеевич": 20,
-      "Корыстов Альберт Александрович": 9,
-      "Красаков Андрей Валентинович": 55,
-      "Неверов Сергей Иванович": 604,
-      "Ямщикова Елена Николаевна": 77,
-      "Против всех": 72
+      "gas:candidate-vibid:1001000250449": 20,
+      "gas:candidate-vibid:1001000195081": 9,
+      "gas:candidate-vibid:1001000136062": 55,
+      "gas:candidate-vibid:1001000225943": 604,
+      "gas:candidate-vibid:342300366648": 77,
+      "special:against-all": 72
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=423003004&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=342300367332&region=0&sub_region=0&type=429",
@@ -3397,12 +3397,12 @@ export const duma_2003_uik_428_region_42_part_005 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Гульняшкин Александр Алексеевич": 18,
-      "Корыстов Альберт Александрович": 9,
-      "Красаков Андрей Валентинович": 80,
-      "Неверов Сергей Иванович": 657,
-      "Ямщикова Елена Николаевна": 140,
-      "Против всех": 138
+      "gas:candidate-vibid:1001000250449": 18,
+      "gas:candidate-vibid:1001000195081": 9,
+      "gas:candidate-vibid:1001000136062": 80,
+      "gas:candidate-vibid:1001000225943": 657,
+      "gas:candidate-vibid:342300366648": 140,
+      "special:against-all": 138
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=423003004&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=342300367332&region=0&sub_region=0&type=429",
@@ -3452,12 +3452,12 @@ export const duma_2003_uik_428_region_42_part_005 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Гульняшкин Александр Алексеевич": 11,
-      "Корыстов Альберт Александрович": 2,
-      "Красаков Андрей Валентинович": 44,
-      "Неверов Сергей Иванович": 364,
-      "Ямщикова Елена Николаевна": 71,
-      "Против всех": 58
+      "gas:candidate-vibid:1001000250449": 11,
+      "gas:candidate-vibid:1001000195081": 2,
+      "gas:candidate-vibid:1001000136062": 44,
+      "gas:candidate-vibid:1001000225943": 364,
+      "gas:candidate-vibid:342300366648": 71,
+      "special:against-all": 58
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=423003004&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=342300367332&region=0&sub_region=0&type=429",
@@ -3507,12 +3507,12 @@ export const duma_2003_uik_428_region_42_part_005 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Гульняшкин Александр Алексеевич": 10,
-      "Корыстов Альберт Александрович": 2,
-      "Красаков Андрей Валентинович": 35,
-      "Неверов Сергей Иванович": 318,
-      "Ямщикова Елена Николаевна": 69,
-      "Против всех": 46
+      "gas:candidate-vibid:1001000250449": 10,
+      "gas:candidate-vibid:1001000195081": 2,
+      "gas:candidate-vibid:1001000136062": 35,
+      "gas:candidate-vibid:1001000225943": 318,
+      "gas:candidate-vibid:342300366648": 69,
+      "special:against-all": 46
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=423003004&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=342300367332&region=0&sub_region=0&type=429",
@@ -3562,12 +3562,12 @@ export const duma_2003_uik_428_region_42_part_005 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Гульняшкин Александр Алексеевич": 31,
-      "Корыстов Альберт Александрович": 9,
-      "Красаков Андрей Валентинович": 80,
-      "Неверов Сергей Иванович": 700,
-      "Ямщикова Елена Николаевна": 192,
-      "Против всех": 197
+      "gas:candidate-vibid:1001000250449": 31,
+      "gas:candidate-vibid:1001000195081": 9,
+      "gas:candidate-vibid:1001000136062": 80,
+      "gas:candidate-vibid:1001000225943": 700,
+      "gas:candidate-vibid:342300366648": 192,
+      "special:against-all": 197
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=423003004&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=342300367332&region=0&sub_region=0&type=429",
@@ -3617,12 +3617,12 @@ export const duma_2003_uik_428_region_42_part_005 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Гульняшкин Александр Алексеевич": 25,
-      "Корыстов Альберт Александрович": 5,
-      "Красаков Андрей Валентинович": 55,
-      "Неверов Сергей Иванович": 664,
-      "Ямщикова Елена Николаевна": 113,
-      "Против всех": 118
+      "gas:candidate-vibid:1001000250449": 25,
+      "gas:candidate-vibid:1001000195081": 5,
+      "gas:candidate-vibid:1001000136062": 55,
+      "gas:candidate-vibid:1001000225943": 664,
+      "gas:candidate-vibid:342300366648": 113,
+      "special:against-all": 118
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=423003004&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=342300367332&region=0&sub_region=0&type=429",
@@ -3672,12 +3672,12 @@ export const duma_2003_uik_428_region_42_part_005 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Гульняшкин Александр Алексеевич": 14,
-      "Корыстов Альберт Александрович": 124,
-      "Красаков Андрей Валентинович": 7,
-      "Неверов Сергей Иванович": 52,
-      "Ямщикова Елена Николаевна": 588,
-      "Против всех": 181
+      "gas:candidate-vibid:1001000250449": 14,
+      "gas:candidate-vibid:1001000195081": 124,
+      "gas:candidate-vibid:1001000136062": 7,
+      "gas:candidate-vibid:1001000225943": 52,
+      "gas:candidate-vibid:342300366648": 588,
+      "special:against-all": 181
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=423003004&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=342300367332&region=0&sub_region=0&type=429",
@@ -3727,12 +3727,12 @@ export const duma_2003_uik_428_region_42_part_005 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Гульняшкин Александр Алексеевич": 6,
-      "Корыстов Альберт Александрович": 9,
-      "Красаков Андрей Валентинович": 48,
-      "Неверов Сергей Иванович": 572,
-      "Ямщикова Елена Николаевна": 127,
-      "Против всех": 138
+      "gas:candidate-vibid:1001000250449": 6,
+      "gas:candidate-vibid:1001000195081": 9,
+      "gas:candidate-vibid:1001000136062": 48,
+      "gas:candidate-vibid:1001000225943": 572,
+      "gas:candidate-vibid:342300366648": 127,
+      "special:against-all": 138
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=423003004&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=342300367332&region=0&sub_region=0&type=429",
@@ -3782,12 +3782,12 @@ export const duma_2003_uik_428_region_42_part_005 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Гульняшкин Александр Алексеевич": 37,
-      "Корыстов Альберт Александрович": 8,
-      "Красаков Андрей Валентинович": 46,
-      "Неверов Сергей Иванович": 620,
-      "Ямщикова Елена Николаевна": 129,
-      "Против всех": 154
+      "gas:candidate-vibid:1001000250449": 37,
+      "gas:candidate-vibid:1001000195081": 8,
+      "gas:candidate-vibid:1001000136062": 46,
+      "gas:candidate-vibid:1001000225943": 620,
+      "gas:candidate-vibid:342300366648": 129,
+      "special:against-all": 154
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=423003004&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=342300367332&region=0&sub_region=0&type=429",
@@ -3837,12 +3837,12 @@ export const duma_2003_uik_428_region_42_part_005 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Гульняшкин Александр Алексеевич": 60,
-      "Корыстов Альберт Александрович": 9,
-      "Красаков Андрей Валентинович": 71,
-      "Неверов Сергей Иванович": 894,
-      "Ямщикова Елена Николаевна": 204,
-      "Против всех": 256
+      "gas:candidate-vibid:1001000250449": 60,
+      "gas:candidate-vibid:1001000195081": 9,
+      "gas:candidate-vibid:1001000136062": 71,
+      "gas:candidate-vibid:1001000225943": 894,
+      "gas:candidate-vibid:342300366648": 204,
+      "special:against-all": 256
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=423003004&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=342300367332&region=0&sub_region=0&type=429",
@@ -3892,12 +3892,12 @@ export const duma_2003_uik_428_region_42_part_005 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Гульняшкин Александр Алексеевич": 124,
-      "Корыстов Альберт Александрович": 21,
-      "Красаков Андрей Валентинович": 10,
-      "Неверов Сергей Иванович": 5,
-      "Ямщикова Елена Николаевна": 2,
-      "Против всех": 17
+      "gas:candidate-vibid:1001000250449": 124,
+      "gas:candidate-vibid:1001000195081": 21,
+      "gas:candidate-vibid:1001000136062": 10,
+      "gas:candidate-vibid:1001000225943": 5,
+      "gas:candidate-vibid:342300366648": 2,
+      "special:against-all": 17
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=423003004&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=342300367332&region=0&sub_region=0&type=429",
@@ -3947,12 +3947,12 @@ export const duma_2003_uik_428_region_42_part_005 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Гульняшкин Александр Алексеевич": 3,
-      "Корыстов Альберт Александрович": 0,
-      "Красаков Андрей Валентинович": 17,
-      "Неверов Сергей Иванович": 202,
-      "Ямщикова Елена Николаевна": 40,
-      "Против всех": 35
+      "gas:candidate-vibid:1001000250449": 3,
+      "gas:candidate-vibid:1001000195081": 0,
+      "gas:candidate-vibid:1001000136062": 17,
+      "gas:candidate-vibid:1001000225943": 202,
+      "gas:candidate-vibid:342300366648": 40,
+      "special:against-all": 35
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=423003004&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=342300367332&region=0&sub_region=0&type=429",
@@ -4002,12 +4002,12 @@ export const duma_2003_uik_428_region_42_part_005 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Гульняшкин Александр Алексеевич": 20,
-      "Корыстов Альберт Александрович": 13,
-      "Красаков Андрей Валентинович": 77,
-      "Неверов Сергей Иванович": 865,
-      "Ямщикова Елена Николаевна": 218,
-      "Против всех": 151
+      "gas:candidate-vibid:1001000250449": 20,
+      "gas:candidate-vibid:1001000195081": 13,
+      "gas:candidate-vibid:1001000136062": 77,
+      "gas:candidate-vibid:1001000225943": 865,
+      "gas:candidate-vibid:342300366648": 218,
+      "special:against-all": 151
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=423003004&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=342300367332&region=0&sub_region=0&type=429",
@@ -4057,12 +4057,12 @@ export const duma_2003_uik_428_region_42_part_005 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Гульняшкин Александр Алексеевич": 6,
-      "Корыстов Альберт Александрович": 4,
-      "Красаков Андрей Валентинович": 29,
-      "Неверов Сергей Иванович": 332,
-      "Ямщикова Елена Николаевна": 55,
-      "Против всех": 45
+      "gas:candidate-vibid:1001000250449": 6,
+      "gas:candidate-vibid:1001000195081": 4,
+      "gas:candidate-vibid:1001000136062": 29,
+      "gas:candidate-vibid:1001000225943": 332,
+      "gas:candidate-vibid:342300366648": 55,
+      "special:against-all": 45
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=423003004&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=342300367332&region=0&sub_region=0&type=429",
@@ -4112,12 +4112,12 @@ export const duma_2003_uik_428_region_42_part_005 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Гульняшкин Александр Алексеевич": 26,
-      "Корыстов Альберт Александрович": 8,
-      "Красаков Андрей Валентинович": 28,
-      "Неверов Сергей Иванович": 881,
-      "Ямщикова Елена Николаевна": 110,
-      "Против всех": 100
+      "gas:candidate-vibid:1001000250449": 26,
+      "gas:candidate-vibid:1001000195081": 8,
+      "gas:candidate-vibid:1001000136062": 28,
+      "gas:candidate-vibid:1001000225943": 881,
+      "gas:candidate-vibid:342300366648": 110,
+      "special:against-all": 100
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=423003004&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=342300367332&region=0&sub_region=0&type=429",
@@ -4167,12 +4167,12 @@ export const duma_2003_uik_428_region_42_part_005 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Гульняшкин Александр Алексеевич": 2,
-      "Корыстов Альберт Александрович": 2,
-      "Красаков Андрей Валентинович": 12,
-      "Неверов Сергей Иванович": 148,
-      "Ямщикова Елена Николаевна": 21,
-      "Против всех": 21
+      "gas:candidate-vibid:1001000250449": 2,
+      "gas:candidate-vibid:1001000195081": 2,
+      "gas:candidate-vibid:1001000136062": 12,
+      "gas:candidate-vibid:1001000225943": 148,
+      "gas:candidate-vibid:342300366648": 21,
+      "special:against-all": 21
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=423003004&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=342300367332&region=0&sub_region=0&type=429",
@@ -4222,12 +4222,12 @@ export const duma_2003_uik_428_region_42_part_005 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Гульняшкин Александр Алексеевич": 4,
-      "Корыстов Альберт Александрович": 3,
-      "Красаков Андрей Валентинович": 1,
-      "Неверов Сергей Иванович": 157,
-      "Ямщикова Елена Николаевна": 15,
-      "Против всех": 11
+      "gas:candidate-vibid:1001000250449": 4,
+      "gas:candidate-vibid:1001000195081": 3,
+      "gas:candidate-vibid:1001000136062": 1,
+      "gas:candidate-vibid:1001000225943": 157,
+      "gas:candidate-vibid:342300366648": 15,
+      "special:against-all": 11
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=423003004&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=342300367332&region=0&sub_region=0&type=429",
@@ -4277,12 +4277,12 @@ export const duma_2003_uik_428_region_42_part_005 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Гульняшкин Александр Алексеевич": 7,
-      "Корыстов Альберт Александрович": 2,
-      "Красаков Андрей Валентинович": 21,
-      "Неверов Сергей Иванович": 479,
-      "Ямщикова Елена Николаевна": 32,
-      "Против всех": 31
+      "gas:candidate-vibid:1001000250449": 7,
+      "gas:candidate-vibid:1001000195081": 2,
+      "gas:candidate-vibid:1001000136062": 21,
+      "gas:candidate-vibid:1001000225943": 479,
+      "gas:candidate-vibid:342300366648": 32,
+      "special:against-all": 31
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=423003004&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=342300367332&region=0&sub_region=0&type=429",
@@ -4332,12 +4332,12 @@ export const duma_2003_uik_428_region_42_part_005 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Гульняшкин Александр Алексеевич": 3,
-      "Корыстов Альберт Александрович": 1,
-      "Красаков Андрей Валентинович": 5,
-      "Неверов Сергей Иванович": 84,
-      "Ямщикова Елена Николаевна": 8,
-      "Против всех": 1
+      "gas:candidate-vibid:1001000250449": 3,
+      "gas:candidate-vibid:1001000195081": 1,
+      "gas:candidate-vibid:1001000136062": 5,
+      "gas:candidate-vibid:1001000225943": 84,
+      "gas:candidate-vibid:342300366648": 8,
+      "special:against-all": 1
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=423003004&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=342300367332&region=0&sub_region=0&type=429",
@@ -4387,12 +4387,12 @@ export const duma_2003_uik_428_region_42_part_005 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Гульняшкин Александр Алексеевич": 0,
-      "Корыстов Альберт Александрович": 2,
-      "Красаков Андрей Валентинович": 5,
-      "Неверов Сергей Иванович": 133,
-      "Ямщикова Елена Николаевна": 7,
-      "Против всех": 13
+      "gas:candidate-vibid:1001000250449": 0,
+      "gas:candidate-vibid:1001000195081": 2,
+      "gas:candidate-vibid:1001000136062": 5,
+      "gas:candidate-vibid:1001000225943": 133,
+      "gas:candidate-vibid:342300366648": 7,
+      "special:against-all": 13
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=423003004&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=342300367332&region=0&sub_region=0&type=429",
@@ -4442,12 +4442,12 @@ export const duma_2003_uik_428_region_42_part_005 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Гульняшкин Александр Алексеевич": 1,
-      "Корыстов Альберт Александрович": 2,
-      "Красаков Андрей Валентинович": 5,
-      "Неверов Сергей Иванович": 133,
-      "Ямщикова Елена Николаевна": 16,
-      "Против всех": 10
+      "gas:candidate-vibid:1001000250449": 1,
+      "gas:candidate-vibid:1001000195081": 2,
+      "gas:candidate-vibid:1001000136062": 5,
+      "gas:candidate-vibid:1001000225943": 133,
+      "gas:candidate-vibid:342300366648": 16,
+      "special:against-all": 10
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=423003004&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=342300367332&region=0&sub_region=0&type=429",
@@ -4497,12 +4497,12 @@ export const duma_2003_uik_428_region_42_part_005 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Гульняшкин Александр Алексеевич": 1,
-      "Корыстов Альберт Александрович": 0,
-      "Красаков Андрей Валентинович": 2,
-      "Неверов Сергей Иванович": 135,
-      "Ямщикова Елена Николаевна": 2,
-      "Против всех": 3
+      "gas:candidate-vibid:1001000250449": 1,
+      "gas:candidate-vibid:1001000195081": 0,
+      "gas:candidate-vibid:1001000136062": 2,
+      "gas:candidate-vibid:1001000225943": 135,
+      "gas:candidate-vibid:342300366648": 2,
+      "special:against-all": 3
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=423003004&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=342300367332&region=0&sub_region=0&type=429",
@@ -4552,12 +4552,12 @@ export const duma_2003_uik_428_region_42_part_005 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Гульняшкин Александр Алексеевич": 23,
-      "Корыстов Альберт Александрович": 11,
-      "Красаков Андрей Валентинович": 84,
-      "Неверов Сергей Иванович": 800,
-      "Ямщикова Елена Николаевна": 159,
-      "Против всех": 185
+      "gas:candidate-vibid:1001000250449": 23,
+      "gas:candidate-vibid:1001000195081": 11,
+      "gas:candidate-vibid:1001000136062": 84,
+      "gas:candidate-vibid:1001000225943": 800,
+      "gas:candidate-vibid:342300366648": 159,
+      "special:against-all": 185
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=423003005&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=342300367333&region=0&sub_region=0&type=429",
@@ -4607,12 +4607,12 @@ export const duma_2003_uik_428_region_42_part_005 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Гульняшкин Александр Алексеевич": 5,
-      "Корыстов Альберт Александрович": 5,
-      "Красаков Андрей Валентинович": 94,
-      "Неверов Сергей Иванович": 697,
-      "Ямщикова Елена Николаевна": 136,
-      "Против всех": 158
+      "gas:candidate-vibid:1001000250449": 5,
+      "gas:candidate-vibid:1001000195081": 5,
+      "gas:candidate-vibid:1001000136062": 94,
+      "gas:candidate-vibid:1001000225943": 697,
+      "gas:candidate-vibid:342300366648": 136,
+      "special:against-all": 158
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=423003005&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=342300367333&region=0&sub_region=0&type=429",
@@ -4662,12 +4662,12 @@ export const duma_2003_uik_428_region_42_part_005 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Гульняшкин Александр Алексеевич": 11,
-      "Корыстов Альберт Александрович": 6,
-      "Красаков Андрей Валентинович": 83,
-      "Неверов Сергей Иванович": 867,
-      "Ямщикова Елена Николаевна": 202,
-      "Против всех": 228
+      "gas:candidate-vibid:1001000250449": 11,
+      "gas:candidate-vibid:1001000195081": 6,
+      "gas:candidate-vibid:1001000136062": 83,
+      "gas:candidate-vibid:1001000225943": 867,
+      "gas:candidate-vibid:342300366648": 202,
+      "special:against-all": 228
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=423003005&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=342300367333&region=0&sub_region=0&type=429",
@@ -4717,12 +4717,12 @@ export const duma_2003_uik_428_region_42_part_005 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Гульняшкин Александр Алексеевич": 20,
-      "Корыстов Альберт Александрович": 8,
-      "Красаков Андрей Валентинович": 84,
-      "Неверов Сергей Иванович": 818,
-      "Ямщикова Елена Николаевна": 199,
-      "Против всех": 228
+      "gas:candidate-vibid:1001000250449": 20,
+      "gas:candidate-vibid:1001000195081": 8,
+      "gas:candidate-vibid:1001000136062": 84,
+      "gas:candidate-vibid:1001000225943": 818,
+      "gas:candidate-vibid:342300366648": 199,
+      "special:against-all": 228
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=423003005&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=342300367333&region=0&sub_region=0&type=429",
@@ -4772,12 +4772,12 @@ export const duma_2003_uik_428_region_42_part_005 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Гульняшкин Александр Алексеевич": 5,
-      "Корыстов Альберт Александрович": 7,
-      "Красаков Андрей Валентинович": 66,
-      "Неверов Сергей Иванович": 709,
-      "Ямщикова Елена Николаевна": 166,
-      "Против всех": 151
+      "gas:candidate-vibid:1001000250449": 5,
+      "gas:candidate-vibid:1001000195081": 7,
+      "gas:candidate-vibid:1001000136062": 66,
+      "gas:candidate-vibid:1001000225943": 709,
+      "gas:candidate-vibid:342300366648": 166,
+      "special:against-all": 151
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=423003005&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=342300367333&region=0&sub_region=0&type=429",
@@ -4827,12 +4827,12 @@ export const duma_2003_uik_428_region_42_part_005 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Гульняшкин Александр Алексеевич": 22,
-      "Корыстов Альберт Александрович": 10,
-      "Красаков Андрей Валентинович": 113,
-      "Неверов Сергей Иванович": 714,
-      "Ямщикова Елена Николаевна": 199,
-      "Против всех": 227
+      "gas:candidate-vibid:1001000250449": 22,
+      "gas:candidate-vibid:1001000195081": 10,
+      "gas:candidate-vibid:1001000136062": 113,
+      "gas:candidate-vibid:1001000225943": 714,
+      "gas:candidate-vibid:342300366648": 199,
+      "special:against-all": 227
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=423003005&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=342300367333&region=0&sub_region=0&type=429",
@@ -4882,12 +4882,12 @@ export const duma_2003_uik_428_region_42_part_005 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Гульняшкин Александр Алексеевич": 14,
-      "Корыстов Альберт Александрович": 5,
-      "Красаков Андрей Валентинович": 98,
-      "Неверов Сергей Иванович": 820,
-      "Ямщикова Елена Николаевна": 196,
-      "Против всех": 231
+      "gas:candidate-vibid:1001000250449": 14,
+      "gas:candidate-vibid:1001000195081": 5,
+      "gas:candidate-vibid:1001000136062": 98,
+      "gas:candidate-vibid:1001000225943": 820,
+      "gas:candidate-vibid:342300366648": 196,
+      "special:against-all": 231
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=423003005&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=342300367333&region=0&sub_region=0&type=429",
@@ -4937,12 +4937,12 @@ export const duma_2003_uik_428_region_42_part_005 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Гульняшкин Александр Алексеевич": 19,
-      "Корыстов Альберт Александрович": 8,
-      "Красаков Андрей Валентинович": 95,
-      "Неверов Сергей Иванович": 900,
-      "Ямщикова Елена Николаевна": 237,
-      "Против всех": 245
+      "gas:candidate-vibid:1001000250449": 19,
+      "gas:candidate-vibid:1001000195081": 8,
+      "gas:candidate-vibid:1001000136062": 95,
+      "gas:candidate-vibid:1001000225943": 900,
+      "gas:candidate-vibid:342300366648": 237,
+      "special:against-all": 245
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=423003005&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=342300367333&region=0&sub_region=0&type=429",
@@ -4992,12 +4992,12 @@ export const duma_2003_uik_428_region_42_part_005 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Гульняшкин Александр Алексеевич": 898,
-      "Корыстов Альберт Александрович": 63,
-      "Красаков Андрей Валентинович": 19,
-      "Неверов Сергей Иванович": 241,
-      "Ямщикова Елена Николаевна": 5,
-      "Против всех": 226
+      "gas:candidate-vibid:1001000250449": 898,
+      "gas:candidate-vibid:1001000195081": 63,
+      "gas:candidate-vibid:1001000136062": 19,
+      "gas:candidate-vibid:1001000225943": 241,
+      "gas:candidate-vibid:342300366648": 5,
+      "special:against-all": 226
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=423003005&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=342300367333&region=0&sub_region=0&type=429",
@@ -5047,12 +5047,12 @@ export const duma_2003_uik_428_region_42_part_005 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Гульняшкин Александр Алексеевич": 30,
-      "Корыстов Альберт Александрович": 8,
-      "Красаков Андрей Валентинович": 63,
-      "Неверов Сергей Иванович": 590,
-      "Ямщикова Елена Николаевна": 145,
-      "Против всех": 155
+      "gas:candidate-vibid:1001000250449": 30,
+      "gas:candidate-vibid:1001000195081": 8,
+      "gas:candidate-vibid:1001000136062": 63,
+      "gas:candidate-vibid:1001000225943": 590,
+      "gas:candidate-vibid:342300366648": 145,
+      "special:against-all": 155
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=423003005&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=342300367333&region=0&sub_region=0&type=429",
@@ -5102,12 +5102,12 @@ export const duma_2003_uik_428_region_42_part_005 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Гульняшкин Александр Алексеевич": 22,
-      "Корыстов Альберт Александрович": 9,
-      "Красаков Андрей Валентинович": 101,
-      "Неверов Сергей Иванович": 914,
-      "Ямщикова Елена Николаевна": 174,
-      "Против всех": 243
+      "gas:candidate-vibid:1001000250449": 22,
+      "gas:candidate-vibid:1001000195081": 9,
+      "gas:candidate-vibid:1001000136062": 101,
+      "gas:candidate-vibid:1001000225943": 914,
+      "gas:candidate-vibid:342300366648": 174,
+      "special:against-all": 243
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=423003005&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=342300367333&region=0&sub_region=0&type=429",
@@ -5157,12 +5157,12 @@ export const duma_2003_uik_428_region_42_part_005 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Гульняшкин Александр Алексеевич": 12,
-      "Корыстов Альберт Александрович": 7,
-      "Красаков Андрей Валентинович": 49,
-      "Неверов Сергей Иванович": 552,
-      "Ямщикова Елена Николаевна": 157,
-      "Против всех": 144
+      "gas:candidate-vibid:1001000250449": 12,
+      "gas:candidate-vibid:1001000195081": 7,
+      "gas:candidate-vibid:1001000136062": 49,
+      "gas:candidate-vibid:1001000225943": 552,
+      "gas:candidate-vibid:342300366648": 157,
+      "special:against-all": 144
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=423003005&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=342300367333&region=0&sub_region=0&type=429",
@@ -5212,12 +5212,12 @@ export const duma_2003_uik_428_region_42_part_005 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Гульняшкин Александр Алексеевич": 21,
-      "Корыстов Альберт Александрович": 56,
-      "Красаков Андрей Валентинович": 4,
-      "Неверов Сергей Иванович": 643,
-      "Ямщикова Елена Николаевна": 145,
-      "Против всех": 128
+      "gas:candidate-vibid:1001000250449": 21,
+      "gas:candidate-vibid:1001000195081": 56,
+      "gas:candidate-vibid:1001000136062": 4,
+      "gas:candidate-vibid:1001000225943": 643,
+      "gas:candidate-vibid:342300366648": 145,
+      "special:against-all": 128
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=423003005&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=342300367333&region=0&sub_region=0&type=429",
@@ -5267,12 +5267,12 @@ export const duma_2003_uik_428_region_42_part_005 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Гульняшкин Александр Алексеевич": 15,
-      "Корыстов Альберт Александрович": 4,
-      "Красаков Андрей Валентинович": 54,
-      "Неверов Сергей Иванович": 651,
-      "Ямщикова Елена Николаевна": 171,
-      "Против всех": 167
+      "gas:candidate-vibid:1001000250449": 15,
+      "gas:candidate-vibid:1001000195081": 4,
+      "gas:candidate-vibid:1001000136062": 54,
+      "gas:candidate-vibid:1001000225943": 651,
+      "gas:candidate-vibid:342300366648": 171,
+      "special:against-all": 167
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=423003005&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=342300367333&region=0&sub_region=0&type=429",
@@ -5322,12 +5322,12 @@ export const duma_2003_uik_428_region_42_part_005 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Гульняшкин Александр Алексеевич": 8,
-      "Корыстов Альберт Александрович": 3,
-      "Красаков Андрей Валентинович": 31,
-      "Неверов Сергей Иванович": 520,
-      "Ямщикова Елена Николаевна": 102,
-      "Против всех": 110
+      "gas:candidate-vibid:1001000250449": 8,
+      "gas:candidate-vibid:1001000195081": 3,
+      "gas:candidate-vibid:1001000136062": 31,
+      "gas:candidate-vibid:1001000225943": 520,
+      "gas:candidate-vibid:342300366648": 102,
+      "special:against-all": 110
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=423003005&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=342300367333&region=0&sub_region=0&type=429",
@@ -5377,12 +5377,12 @@ export const duma_2003_uik_428_region_42_part_005 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Гульняшкин Александр Алексеевич": 23,
-      "Корыстов Альберт Александрович": 6,
-      "Красаков Андрей Валентинович": 49,
-      "Неверов Сергей Иванович": 686,
-      "Ямщикова Елена Николаевна": 188,
-      "Против всех": 166
+      "gas:candidate-vibid:1001000250449": 23,
+      "gas:candidate-vibid:1001000195081": 6,
+      "gas:candidate-vibid:1001000136062": 49,
+      "gas:candidate-vibid:1001000225943": 686,
+      "gas:candidate-vibid:342300366648": 188,
+      "special:against-all": 166
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=423003005&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=342300367333&region=0&sub_region=0&type=429",
@@ -5432,12 +5432,12 @@ export const duma_2003_uik_428_region_42_part_005 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Гульняшкин Александр Алексеевич": 25,
-      "Корыстов Альберт Александрович": 9,
-      "Красаков Андрей Валентинович": 71,
-      "Неверов Сергей Иванович": 888,
-      "Ямщикова Елена Николаевна": 245,
-      "Против всех": 210
+      "gas:candidate-vibid:1001000250449": 25,
+      "gas:candidate-vibid:1001000195081": 9,
+      "gas:candidate-vibid:1001000136062": 71,
+      "gas:candidate-vibid:1001000225943": 888,
+      "gas:candidate-vibid:342300366648": 245,
+      "special:against-all": 210
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=423003005&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=342300367333&region=0&sub_region=0&type=429",
@@ -5487,12 +5487,12 @@ export const duma_2003_uik_428_region_42_part_005 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Гульняшкин Александр Алексеевич": 19,
-      "Корыстов Альберт Александрович": 6,
-      "Красаков Андрей Валентинович": 82,
-      "Неверов Сергей Иванович": 963,
-      "Ямщикова Елена Николаевна": 208,
-      "Против всех": 203
+      "gas:candidate-vibid:1001000250449": 19,
+      "gas:candidate-vibid:1001000195081": 6,
+      "gas:candidate-vibid:1001000136062": 82,
+      "gas:candidate-vibid:1001000225943": 963,
+      "gas:candidate-vibid:342300366648": 208,
+      "special:against-all": 203
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=423003005&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=342300367333&region=0&sub_region=0&type=429",
@@ -5542,12 +5542,12 @@ export const duma_2003_uik_428_region_42_part_005 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Гульняшкин Александр Алексеевич": 23,
-      "Корыстов Альберт Александрович": 11,
-      "Красаков Андрей Валентинович": 81,
-      "Неверов Сергей Иванович": 934,
-      "Ямщикова Елена Николаевна": 234,
-      "Против всех": 223
+      "gas:candidate-vibid:1001000250449": 23,
+      "gas:candidate-vibid:1001000195081": 11,
+      "gas:candidate-vibid:1001000136062": 81,
+      "gas:candidate-vibid:1001000225943": 934,
+      "gas:candidate-vibid:342300366648": 234,
+      "special:against-all": 223
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=423003005&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=342300367333&region=0&sub_region=0&type=429",
@@ -5597,12 +5597,12 @@ export const duma_2003_uik_428_region_42_part_005 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Гульняшкин Александр Алексеевич": 31,
-      "Корыстов Альберт Александрович": 11,
-      "Красаков Андрей Валентинович": 75,
-      "Неверов Сергей Иванович": 927,
-      "Ямщикова Елена Николаевна": 231,
-      "Против всех": 301
+      "gas:candidate-vibid:1001000250449": 31,
+      "gas:candidate-vibid:1001000195081": 11,
+      "gas:candidate-vibid:1001000136062": 75,
+      "gas:candidate-vibid:1001000225943": 927,
+      "gas:candidate-vibid:342300366648": 231,
+      "special:against-all": 301
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=423003005&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=342300367333&region=0&sub_region=0&type=429",
@@ -5652,12 +5652,12 @@ export const duma_2003_uik_428_region_42_part_005 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Гульняшкин Александр Алексеевич": 17,
-      "Корыстов Альберт Александрович": 12,
-      "Красаков Андрей Валентинович": 87,
-      "Неверов Сергей Иванович": 1174,
-      "Ямщикова Елена Николаевна": 252,
-      "Против всех": 233
+      "gas:candidate-vibid:1001000250449": 17,
+      "gas:candidate-vibid:1001000195081": 12,
+      "gas:candidate-vibid:1001000136062": 87,
+      "gas:candidate-vibid:1001000225943": 1174,
+      "gas:candidate-vibid:342300366648": 252,
+      "special:against-all": 233
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=423003005&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=342300367333&region=0&sub_region=0&type=429",
@@ -5707,12 +5707,12 @@ export const duma_2003_uik_428_region_42_part_005 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Гульняшкин Александр Алексеевич": 16,
-      "Корыстов Альберт Александрович": 3,
-      "Красаков Андрей Валентинович": 49,
-      "Неверов Сергей Иванович": 760,
-      "Ямщикова Елена Николаевна": 263,
-      "Против всех": 169
+      "gas:candidate-vibid:1001000250449": 16,
+      "gas:candidate-vibid:1001000195081": 3,
+      "gas:candidate-vibid:1001000136062": 49,
+      "gas:candidate-vibid:1001000225943": 760,
+      "gas:candidate-vibid:342300366648": 263,
+      "special:against-all": 169
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=423003005&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=342300367333&region=0&sub_region=0&type=429",
@@ -5762,12 +5762,12 @@ export const duma_2003_uik_428_region_42_part_005 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Гульняшкин Александр Алексеевич": 7,
-      "Корыстов Альберт Александрович": 8,
-      "Красаков Андрей Валентинович": 43,
-      "Неверов Сергей Иванович": 362,
-      "Ямщикова Елена Николаевна": 60,
-      "Против всех": 59
+      "gas:candidate-vibid:1001000250449": 7,
+      "gas:candidate-vibid:1001000195081": 8,
+      "gas:candidate-vibid:1001000136062": 43,
+      "gas:candidate-vibid:1001000225943": 362,
+      "gas:candidate-vibid:342300366648": 60,
+      "special:against-all": 59
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=423003006&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=342300367334&region=0&sub_region=0&type=429",
@@ -5817,12 +5817,12 @@ export const duma_2003_uik_428_region_42_part_005 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Гульняшкин Александр Алексеевич": 2,
-      "Корыстов Альберт Александрович": 1,
-      "Красаков Андрей Валентинович": 16,
-      "Неверов Сергей Иванович": 155,
-      "Ямщикова Елена Николаевна": 21,
-      "Против всех": 23
+      "gas:candidate-vibid:1001000250449": 2,
+      "gas:candidate-vibid:1001000195081": 1,
+      "gas:candidate-vibid:1001000136062": 16,
+      "gas:candidate-vibid:1001000225943": 155,
+      "gas:candidate-vibid:342300366648": 21,
+      "special:against-all": 23
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=423003006&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=342300367334&region=0&sub_region=0&type=429",
@@ -5872,12 +5872,12 @@ export const duma_2003_uik_428_region_42_part_005 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Гульняшкин Александр Алексеевич": 12,
-      "Корыстов Альберт Александрович": 8,
-      "Красаков Андрей Валентинович": 55,
-      "Неверов Сергей Иванович": 531,
-      "Ямщикова Елена Николаевна": 134,
-      "Против всех": 110
+      "gas:candidate-vibid:1001000250449": 12,
+      "gas:candidate-vibid:1001000195081": 8,
+      "gas:candidate-vibid:1001000136062": 55,
+      "gas:candidate-vibid:1001000225943": 531,
+      "gas:candidate-vibid:342300366648": 134,
+      "special:against-all": 110
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=423003006&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=342300367334&region=0&sub_region=0&type=429",
@@ -5927,12 +5927,12 @@ export const duma_2003_uik_428_region_42_part_005 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Гульняшкин Александр Алексеевич": 8,
-      "Корыстов Альберт Александрович": 2,
-      "Красаков Андрей Валентинович": 18,
-      "Неверов Сергей Иванович": 181,
-      "Ямщикова Елена Николаевна": 30,
-      "Против всех": 25
+      "gas:candidate-vibid:1001000250449": 8,
+      "gas:candidate-vibid:1001000195081": 2,
+      "gas:candidate-vibid:1001000136062": 18,
+      "gas:candidate-vibid:1001000225943": 181,
+      "gas:candidate-vibid:342300366648": 30,
+      "special:against-all": 25
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=423003006&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=342300367334&region=0&sub_region=0&type=429",
@@ -5982,12 +5982,12 @@ export const duma_2003_uik_428_region_42_part_005 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Гульняшкин Александр Алексеевич": 9,
-      "Корыстов Альберт Александрович": 8,
-      "Красаков Андрей Валентинович": 50,
-      "Неверов Сергей Иванович": 496,
-      "Ямщикова Елена Николаевна": 101,
-      "Против всех": 115
+      "gas:candidate-vibid:1001000250449": 9,
+      "gas:candidate-vibid:1001000195081": 8,
+      "gas:candidate-vibid:1001000136062": 50,
+      "gas:candidate-vibid:1001000225943": 496,
+      "gas:candidate-vibid:342300366648": 101,
+      "special:against-all": 115
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=423003006&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=342300367334&region=0&sub_region=0&type=429",
@@ -6037,12 +6037,12 @@ export const duma_2003_uik_428_region_42_part_005 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Гульняшкин Александр Алексеевич": 22,
-      "Корыстов Альберт Александрович": 9,
-      "Красаков Андрей Валентинович": 56,
-      "Неверов Сергей Иванович": 577,
-      "Ямщикова Елена Николаевна": 141,
-      "Против всех": 127
+      "gas:candidate-vibid:1001000250449": 22,
+      "gas:candidate-vibid:1001000195081": 9,
+      "gas:candidate-vibid:1001000136062": 56,
+      "gas:candidate-vibid:1001000225943": 577,
+      "gas:candidate-vibid:342300366648": 141,
+      "special:against-all": 127
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=423003006&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=342300367334&region=0&sub_region=0&type=429",
@@ -6092,12 +6092,12 @@ export const duma_2003_uik_428_region_42_part_005 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Гульняшкин Александр Алексеевич": 13,
-      "Корыстов Альберт Александрович": 6,
-      "Красаков Андрей Валентинович": 84,
-      "Неверов Сергей Иванович": 829,
-      "Ямщикова Елена Николаевна": 176,
-      "Против всех": 222
+      "gas:candidate-vibid:1001000250449": 13,
+      "gas:candidate-vibid:1001000195081": 6,
+      "gas:candidate-vibid:1001000136062": 84,
+      "gas:candidate-vibid:1001000225943": 829,
+      "gas:candidate-vibid:342300366648": 176,
+      "special:against-all": 222
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=423003006&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=342300367334&region=0&sub_region=0&type=429",
@@ -6147,12 +6147,12 @@ export const duma_2003_uik_428_region_42_part_005 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Гульняшкин Александр Алексеевич": 13,
-      "Корыстов Альберт Александрович": 11,
-      "Красаков Андрей Валентинович": 93,
-      "Неверов Сергей Иванович": 779,
-      "Ямщикова Елена Николаевна": 185,
-      "Против всех": 171
+      "gas:candidate-vibid:1001000250449": 13,
+      "gas:candidate-vibid:1001000195081": 11,
+      "gas:candidate-vibid:1001000136062": 93,
+      "gas:candidate-vibid:1001000225943": 779,
+      "gas:candidate-vibid:342300366648": 185,
+      "special:against-all": 171
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=423003006&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=342300367334&region=0&sub_region=0&type=429",
@@ -6202,12 +6202,12 @@ export const duma_2003_uik_428_region_42_part_005 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Гульняшкин Александр Алексеевич": 12,
-      "Корыстов Альберт Александрович": 6,
-      "Красаков Андрей Валентинович": 49,
-      "Неверов Сергей Иванович": 476,
-      "Ямщикова Елена Николаевна": 99,
-      "Против всех": 75
+      "gas:candidate-vibid:1001000250449": 12,
+      "gas:candidate-vibid:1001000195081": 6,
+      "gas:candidate-vibid:1001000136062": 49,
+      "gas:candidate-vibid:1001000225943": 476,
+      "gas:candidate-vibid:342300366648": 99,
+      "special:against-all": 75
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=423003006&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=342300367334&region=0&sub_region=0&type=429",
@@ -6257,12 +6257,12 @@ export const duma_2003_uik_428_region_42_part_005 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Гульняшкин Александр Алексеевич": 25,
-      "Корыстов Альберт Александрович": 7,
-      "Красаков Андрей Валентинович": 116,
-      "Неверов Сергей Иванович": 1000,
-      "Ямщикова Елена Николаевна": 206,
-      "Против всех": 240
+      "gas:candidate-vibid:1001000250449": 25,
+      "gas:candidate-vibid:1001000195081": 7,
+      "gas:candidate-vibid:1001000136062": 116,
+      "gas:candidate-vibid:1001000225943": 1000,
+      "gas:candidate-vibid:342300366648": 206,
+      "special:against-all": 240
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=423003006&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=342300367334&region=0&sub_region=0&type=429",
@@ -6312,12 +6312,12 @@ export const duma_2003_uik_428_region_42_part_005 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Гульняшкин Александр Алексеевич": 20,
-      "Корыстов Альберт Александрович": 2,
-      "Красаков Андрей Валентинович": 75,
-      "Неверов Сергей Иванович": 524,
-      "Ямщикова Елена Николаевна": 128,
-      "Против всех": 134
+      "gas:candidate-vibid:1001000250449": 20,
+      "gas:candidate-vibid:1001000195081": 2,
+      "gas:candidate-vibid:1001000136062": 75,
+      "gas:candidate-vibid:1001000225943": 524,
+      "gas:candidate-vibid:342300366648": 128,
+      "special:against-all": 134
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=423003006&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=342300367334&region=0&sub_region=0&type=429",
@@ -6367,12 +6367,12 @@ export const duma_2003_uik_428_region_42_part_005 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Гульняшкин Александр Алексеевич": 23,
-      "Корыстов Альберт Александрович": 3,
-      "Красаков Андрей Валентинович": 71,
-      "Неверов Сергей Иванович": 709,
-      "Ямщикова Елена Николаевна": 183,
-      "Против всех": 140
+      "gas:candidate-vibid:1001000250449": 23,
+      "gas:candidate-vibid:1001000195081": 3,
+      "gas:candidate-vibid:1001000136062": 71,
+      "gas:candidate-vibid:1001000225943": 709,
+      "gas:candidate-vibid:342300366648": 183,
+      "special:against-all": 140
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=423003006&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=342300367334&region=0&sub_region=0&type=429",
@@ -6422,12 +6422,12 @@ export const duma_2003_uik_428_region_42_part_005 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Гульняшкин Александр Алексеевич": 23,
-      "Корыстов Альберт Александрович": 12,
-      "Красаков Андрей Валентинович": 68,
-      "Неверов Сергей Иванович": 682,
-      "Ямщикова Елена Николаевна": 168,
-      "Против всех": 179
+      "gas:candidate-vibid:1001000250449": 23,
+      "gas:candidate-vibid:1001000195081": 12,
+      "gas:candidate-vibid:1001000136062": 68,
+      "gas:candidate-vibid:1001000225943": 682,
+      "gas:candidate-vibid:342300366648": 168,
+      "special:against-all": 179
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=423003006&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=342300367334&region=0&sub_region=0&type=429",
@@ -6477,12 +6477,12 @@ export const duma_2003_uik_428_region_42_part_005 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Гульняшкин Александр Алексеевич": 22,
-      "Корыстов Альберт Александрович": 14,
-      "Красаков Андрей Валентинович": 77,
-      "Неверов Сергей Иванович": 782,
-      "Ямщикова Елена Николаевна": 192,
-      "Против всех": 223
+      "gas:candidate-vibid:1001000250449": 22,
+      "gas:candidate-vibid:1001000195081": 14,
+      "gas:candidate-vibid:1001000136062": 77,
+      "gas:candidate-vibid:1001000225943": 782,
+      "gas:candidate-vibid:342300366648": 192,
+      "special:against-all": 223
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=423003006&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=342300367334&region=0&sub_region=0&type=429",
@@ -6532,12 +6532,12 @@ export const duma_2003_uik_428_region_42_part_005 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Гульняшкин Александр Алексеевич": 3,
-      "Корыстов Альберт Александрович": 2,
-      "Красаков Андрей Валентинович": 52,
-      "Неверов Сергей Иванович": 490,
-      "Ямщикова Елена Николаевна": 81,
-      "Против всех": 89
+      "gas:candidate-vibid:1001000250449": 3,
+      "gas:candidate-vibid:1001000195081": 2,
+      "gas:candidate-vibid:1001000136062": 52,
+      "gas:candidate-vibid:1001000225943": 490,
+      "gas:candidate-vibid:342300366648": 81,
+      "special:against-all": 89
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=423003006&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=342300367334&region=0&sub_region=0&type=429",
@@ -6587,12 +6587,12 @@ export const duma_2003_uik_428_region_42_part_005 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Гульняшкин Александр Алексеевич": 3,
-      "Корыстов Альберт Александрович": 2,
-      "Красаков Андрей Валентинович": 45,
-      "Неверов Сергей Иванович": 603,
-      "Ямщикова Елена Николаевна": 113,
-      "Против всех": 88
+      "gas:candidate-vibid:1001000250449": 3,
+      "gas:candidate-vibid:1001000195081": 2,
+      "gas:candidate-vibid:1001000136062": 45,
+      "gas:candidate-vibid:1001000225943": 603,
+      "gas:candidate-vibid:342300366648": 113,
+      "special:against-all": 88
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=423003006&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=342300367334&region=0&sub_region=0&type=429",
@@ -6642,12 +6642,12 @@ export const duma_2003_uik_428_region_42_part_005 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Гульняшкин Александр Алексеевич": 21,
-      "Корыстов Альберт Александрович": 6,
-      "Красаков Андрей Валентинович": 63,
-      "Неверов Сергей Иванович": 652,
-      "Ямщикова Елена Николаевна": 140,
-      "Против всех": 155
+      "gas:candidate-vibid:1001000250449": 21,
+      "gas:candidate-vibid:1001000195081": 6,
+      "gas:candidate-vibid:1001000136062": 63,
+      "gas:candidate-vibid:1001000225943": 652,
+      "gas:candidate-vibid:342300366648": 140,
+      "special:against-all": 155
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=423003006&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=342300367334&region=0&sub_region=0&type=429",
@@ -6697,12 +6697,12 @@ export const duma_2003_uik_428_region_42_part_005 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Гульняшкин Александр Алексеевич": 9,
-      "Корыстов Альберт Александрович": 6,
-      "Красаков Андрей Валентинович": 39,
-      "Неверов Сергей Иванович": 442,
-      "Ямщикова Елена Николаевна": 86,
-      "Против всех": 77
+      "gas:candidate-vibid:1001000250449": 9,
+      "gas:candidate-vibid:1001000195081": 6,
+      "gas:candidate-vibid:1001000136062": 39,
+      "gas:candidate-vibid:1001000225943": 442,
+      "gas:candidate-vibid:342300366648": 86,
+      "special:against-all": 77
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=423003006&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=342300367334&region=0&sub_region=0&type=429",
@@ -6752,12 +6752,12 @@ export const duma_2003_uik_428_region_42_part_005 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Гульняшкин Александр Алексеевич": 8,
-      "Корыстов Альберт Александрович": 2,
-      "Красаков Андрей Валентинович": 21,
-      "Неверов Сергей Иванович": 265,
-      "Ямщикова Елена Николаевна": 47,
-      "Против всех": 47
+      "gas:candidate-vibid:1001000250449": 8,
+      "gas:candidate-vibid:1001000195081": 2,
+      "gas:candidate-vibid:1001000136062": 21,
+      "gas:candidate-vibid:1001000225943": 265,
+      "gas:candidate-vibid:342300366648": 47,
+      "special:against-all": 47
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=423003006&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=342300367334&region=0&sub_region=0&type=429",
@@ -6807,12 +6807,12 @@ export const duma_2003_uik_428_region_42_part_005 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Гульняшкин Александр Алексеевич": 10,
-      "Корыстов Альберт Александрович": 2,
-      "Красаков Андрей Валентинович": 37,
-      "Неверов Сергей Иванович": 493,
-      "Ямщикова Елена Николаевна": 99,
-      "Против всех": 55
+      "gas:candidate-vibid:1001000250449": 10,
+      "gas:candidate-vibid:1001000195081": 2,
+      "gas:candidate-vibid:1001000136062": 37,
+      "gas:candidate-vibid:1001000225943": 493,
+      "gas:candidate-vibid:342300366648": 99,
+      "special:against-all": 55
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=423003006&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=342300367334&region=0&sub_region=0&type=429",
@@ -6862,12 +6862,12 @@ export const duma_2003_uik_428_region_42_part_005 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Гульняшкин Александр Алексеевич": 2,
-      "Корыстов Альберт Александрович": 5,
-      "Красаков Андрей Валентинович": 43,
-      "Неверов Сергей Иванович": 469,
-      "Ямщикова Елена Николаевна": 136,
-      "Против всех": 135
+      "gas:candidate-vibid:1001000250449": 2,
+      "gas:candidate-vibid:1001000195081": 5,
+      "gas:candidate-vibid:1001000136062": 43,
+      "gas:candidate-vibid:1001000225943": 469,
+      "gas:candidate-vibid:342300366648": 136,
+      "special:against-all": 135
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=423003006&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=342300367334&region=0&sub_region=0&type=429",
@@ -6917,12 +6917,12 @@ export const duma_2003_uik_428_region_42_part_005 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Гульняшкин Александр Алексеевич": 18,
-      "Корыстов Альберт Александрович": 5,
-      "Красаков Андрей Валентинович": 62,
-      "Неверов Сергей Иванович": 708,
-      "Ямщикова Елена Николаевна": 149,
-      "Против всех": 178
+      "gas:candidate-vibid:1001000250449": 18,
+      "gas:candidate-vibid:1001000195081": 5,
+      "gas:candidate-vibid:1001000136062": 62,
+      "gas:candidate-vibid:1001000225943": 708,
+      "gas:candidate-vibid:342300366648": 149,
+      "special:against-all": 178
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=423003006&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=342300367334&region=0&sub_region=0&type=429",
@@ -6972,12 +6972,12 @@ export const duma_2003_uik_428_region_42_part_005 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Гульняшкин Александр Алексеевич": 11,
-      "Корыстов Альберт Александрович": 14,
-      "Красаков Андрей Валентинович": 56,
-      "Неверов Сергей Иванович": 601,
-      "Ямщикова Елена Николаевна": 162,
-      "Против всех": 164
+      "gas:candidate-vibid:1001000250449": 11,
+      "gas:candidate-vibid:1001000195081": 14,
+      "gas:candidate-vibid:1001000136062": 56,
+      "gas:candidate-vibid:1001000225943": 601,
+      "gas:candidate-vibid:342300366648": 162,
+      "special:against-all": 164
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=423003006&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=342300367334&region=0&sub_region=0&type=429",
@@ -7027,12 +7027,12 @@ export const duma_2003_uik_428_region_42_part_005 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Гульняшкин Александр Алексеевич": 27,
-      "Корыстов Альберт Александрович": 4,
-      "Красаков Андрей Валентинович": 105,
-      "Неверов Сергей Иванович": 842,
-      "Ямщикова Елена Николаевна": 170,
-      "Против всех": 205
+      "gas:candidate-vibid:1001000250449": 27,
+      "gas:candidate-vibid:1001000195081": 4,
+      "gas:candidate-vibid:1001000136062": 105,
+      "gas:candidate-vibid:1001000225943": 842,
+      "gas:candidate-vibid:342300366648": 170,
+      "special:against-all": 205
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=423003006&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=342300367334&region=0&sub_region=0&type=429",
@@ -7082,12 +7082,12 @@ export const duma_2003_uik_428_region_42_part_005 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Гульняшкин Александр Алексеевич": 30,
-      "Корыстов Альберт Александрович": 8,
-      "Красаков Андрей Валентинович": 87,
-      "Неверов Сергей Иванович": 697,
-      "Ямщикова Елена Николаевна": 177,
-      "Против всех": 188
+      "gas:candidate-vibid:1001000250449": 30,
+      "gas:candidate-vibid:1001000195081": 8,
+      "gas:candidate-vibid:1001000136062": 87,
+      "gas:candidate-vibid:1001000225943": 697,
+      "gas:candidate-vibid:342300366648": 177,
+      "special:against-all": 188
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=423003006&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=342300367334&region=0&sub_region=0&type=429",
@@ -7137,12 +7137,12 @@ export const duma_2003_uik_428_region_42_part_005 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Гульняшкин Александр Алексеевич": 37,
-      "Корыстов Альберт Александрович": 11,
-      "Красаков Андрей Валентинович": 135,
-      "Неверов Сергей Иванович": 807,
-      "Ямщикова Елена Николаевна": 250,
-      "Против всех": 230
+      "gas:candidate-vibid:1001000250449": 37,
+      "gas:candidate-vibid:1001000195081": 11,
+      "gas:candidate-vibid:1001000136062": 135,
+      "gas:candidate-vibid:1001000225943": 807,
+      "gas:candidate-vibid:342300366648": 250,
+      "special:against-all": 230
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=423003006&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=342300367334&region=0&sub_region=0&type=429",
@@ -7192,12 +7192,12 @@ export const duma_2003_uik_428_region_42_part_005 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Гульняшкин Александр Алексеевич": 23,
-      "Корыстов Альберт Александрович": 9,
-      "Красаков Андрей Валентинович": 120,
-      "Неверов Сергей Иванович": 815,
-      "Ямщикова Елена Николаевна": 186,
-      "Против всех": 229
+      "gas:candidate-vibid:1001000250449": 23,
+      "gas:candidate-vibid:1001000195081": 9,
+      "gas:candidate-vibid:1001000136062": 120,
+      "gas:candidate-vibid:1001000225943": 815,
+      "gas:candidate-vibid:342300366648": 186,
+      "special:against-all": 229
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=423003006&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=342300367334&region=0&sub_region=0&type=429",
@@ -7247,12 +7247,12 @@ export const duma_2003_uik_428_region_42_part_005 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Гульняшкин Александр Алексеевич": 33,
-      "Корыстов Альберт Александрович": 10,
-      "Красаков Андрей Валентинович": 75,
-      "Неверов Сергей Иванович": 762,
-      "Ямщикова Елена Николаевна": 181,
-      "Против всех": 217
+      "gas:candidate-vibid:1001000250449": 33,
+      "gas:candidate-vibid:1001000195081": 10,
+      "gas:candidate-vibid:1001000136062": 75,
+      "gas:candidate-vibid:1001000225943": 762,
+      "gas:candidate-vibid:342300366648": 181,
+      "special:against-all": 217
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=423003006&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=342300367334&region=0&sub_region=0&type=429",
@@ -7302,12 +7302,12 @@ export const duma_2003_uik_428_region_42_part_005 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Гульняшкин Александр Алексеевич": 25,
-      "Корыстов Альберт Александрович": 7,
-      "Красаков Андрей Валентинович": 106,
-      "Неверов Сергей Иванович": 1025,
-      "Ямщикова Елена Николаевна": 234,
-      "Против всех": 247
+      "gas:candidate-vibid:1001000250449": 25,
+      "gas:candidate-vibid:1001000195081": 7,
+      "gas:candidate-vibid:1001000136062": 106,
+      "gas:candidate-vibid:1001000225943": 1025,
+      "gas:candidate-vibid:342300366648": 234,
+      "special:against-all": 247
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=423003006&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=342300367334&region=0&sub_region=0&type=429",
@@ -7357,12 +7357,12 @@ export const duma_2003_uik_428_region_42_part_005 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Гульняшкин Александр Алексеевич": 8,
-      "Корыстов Альберт Александрович": 2,
-      "Красаков Андрей Валентинович": 20,
-      "Неверов Сергей Иванович": 236,
-      "Ямщикова Елена Николаевна": 58,
-      "Против всех": 39
+      "gas:candidate-vibid:1001000250449": 8,
+      "gas:candidate-vibid:1001000195081": 2,
+      "gas:candidate-vibid:1001000136062": 20,
+      "gas:candidate-vibid:1001000225943": 236,
+      "gas:candidate-vibid:342300366648": 58,
+      "special:against-all": 39
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=423003006&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=342300367334&region=0&sub_region=0&type=429",
@@ -7412,12 +7412,12 @@ export const duma_2003_uik_428_region_42_part_005 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Гульняшкин Александр Алексеевич": 20,
-      "Корыстов Альберт Александрович": 7,
-      "Красаков Андрей Валентинович": 59,
-      "Неверов Сергей Иванович": 688,
-      "Ямщикова Елена Николаевна": 118,
-      "Против всех": 124
+      "gas:candidate-vibid:1001000250449": 20,
+      "gas:candidate-vibid:1001000195081": 7,
+      "gas:candidate-vibid:1001000136062": 59,
+      "gas:candidate-vibid:1001000225943": 688,
+      "gas:candidate-vibid:342300366648": 118,
+      "special:against-all": 124
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=423003007&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=342300367335&region=0&sub_region=0&type=429",
@@ -7467,12 +7467,12 @@ export const duma_2003_uik_428_region_42_part_005 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Гульняшкин Александр Алексеевич": 29,
-      "Корыстов Альберт Александрович": 11,
-      "Красаков Андрей Валентинович": 64,
-      "Неверов Сергей Иванович": 558,
-      "Ямщикова Елена Николаевна": 147,
-      "Против всех": 133
+      "gas:candidate-vibid:1001000250449": 29,
+      "gas:candidate-vibid:1001000195081": 11,
+      "gas:candidate-vibid:1001000136062": 64,
+      "gas:candidate-vibid:1001000225943": 558,
+      "gas:candidate-vibid:342300366648": 147,
+      "special:against-all": 133
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=423003007&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=342300367335&region=0&sub_region=0&type=429",
@@ -7522,12 +7522,12 @@ export const duma_2003_uik_428_region_42_part_005 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Гульняшкин Александр Алексеевич": 25,
-      "Корыстов Альберт Александрович": 9,
-      "Красаков Андрей Валентинович": 70,
-      "Неверов Сергей Иванович": 757,
-      "Ямщикова Елена Николаевна": 150,
-      "Против всех": 149
+      "gas:candidate-vibid:1001000250449": 25,
+      "gas:candidate-vibid:1001000195081": 9,
+      "gas:candidate-vibid:1001000136062": 70,
+      "gas:candidate-vibid:1001000225943": 757,
+      "gas:candidate-vibid:342300366648": 150,
+      "special:against-all": 149
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=423003007&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=342300367335&region=0&sub_region=0&type=429",
@@ -7577,12 +7577,12 @@ export const duma_2003_uik_428_region_42_part_005 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Гульняшкин Александр Алексеевич": 36,
-      "Корыстов Альберт Александрович": 12,
-      "Красаков Андрей Валентинович": 79,
-      "Неверов Сергей Иванович": 790,
-      "Ямщикова Елена Николаевна": 199,
-      "Против всех": 229
+      "gas:candidate-vibid:1001000250449": 36,
+      "gas:candidate-vibid:1001000195081": 12,
+      "gas:candidate-vibid:1001000136062": 79,
+      "gas:candidate-vibid:1001000225943": 790,
+      "gas:candidate-vibid:342300366648": 199,
+      "special:against-all": 229
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=423003007&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=342300367335&region=0&sub_region=0&type=429",
@@ -7632,12 +7632,12 @@ export const duma_2003_uik_428_region_42_part_005 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Гульняшкин Александр Алексеевич": 31,
-      "Корыстов Альберт Александрович": 5,
-      "Красаков Андрей Валентинович": 91,
-      "Неверов Сергей Иванович": 875,
-      "Ямщикова Елена Николаевна": 199,
-      "Против всех": 223
+      "gas:candidate-vibid:1001000250449": 31,
+      "gas:candidate-vibid:1001000195081": 5,
+      "gas:candidate-vibid:1001000136062": 91,
+      "gas:candidate-vibid:1001000225943": 875,
+      "gas:candidate-vibid:342300366648": 199,
+      "special:against-all": 223
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=423003007&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=342300367335&region=0&sub_region=0&type=429",
@@ -7687,12 +7687,12 @@ export const duma_2003_uik_428_region_42_part_005 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Гульняшкин Александр Алексеевич": 33,
-      "Корыстов Альберт Александрович": 6,
-      "Красаков Андрей Валентинович": 76,
-      "Неверов Сергей Иванович": 845,
-      "Ямщикова Елена Николаевна": 166,
-      "Против всех": 222
+      "gas:candidate-vibid:1001000250449": 33,
+      "gas:candidate-vibid:1001000195081": 6,
+      "gas:candidate-vibid:1001000136062": 76,
+      "gas:candidate-vibid:1001000225943": 845,
+      "gas:candidate-vibid:342300366648": 166,
+      "special:against-all": 222
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=423003007&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=342300367335&region=0&sub_region=0&type=429",
@@ -7742,12 +7742,12 @@ export const duma_2003_uik_428_region_42_part_005 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Гульняшкин Александр Алексеевич": 23,
-      "Корыстов Альберт Александрович": 10,
-      "Красаков Андрей Валентинович": 91,
-      "Неверов Сергей Иванович": 740,
-      "Ямщикова Елена Николаевна": 206,
-      "Против всех": 265
+      "gas:candidate-vibid:1001000250449": 23,
+      "gas:candidate-vibid:1001000195081": 10,
+      "gas:candidate-vibid:1001000136062": 91,
+      "gas:candidate-vibid:1001000225943": 740,
+      "gas:candidate-vibid:342300366648": 206,
+      "special:against-all": 265
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=423003007&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=342300367335&region=0&sub_region=0&type=429",
@@ -7797,12 +7797,12 @@ export const duma_2003_uik_428_region_42_part_005 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Гульняшкин Александр Алексеевич": 35,
-      "Корыстов Альберт Александрович": 12,
-      "Красаков Андрей Валентинович": 76,
-      "Неверов Сергей Иванович": 772,
-      "Ямщикова Елена Николаевна": 239,
-      "Против всех": 270
+      "gas:candidate-vibid:1001000250449": 35,
+      "gas:candidate-vibid:1001000195081": 12,
+      "gas:candidate-vibid:1001000136062": 76,
+      "gas:candidate-vibid:1001000225943": 772,
+      "gas:candidate-vibid:342300366648": 239,
+      "special:against-all": 270
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=423003007&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=342300367335&region=0&sub_region=0&type=429",
@@ -7852,12 +7852,12 @@ export const duma_2003_uik_428_region_42_part_005 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Гульняшкин Александр Алексеевич": 29,
-      "Корыстов Альберт Александрович": 16,
-      "Красаков Андрей Валентинович": 56,
-      "Неверов Сергей Иванович": 720,
-      "Ямщикова Елена Николаевна": 190,
-      "Против всех": 199
+      "gas:candidate-vibid:1001000250449": 29,
+      "gas:candidate-vibid:1001000195081": 16,
+      "gas:candidate-vibid:1001000136062": 56,
+      "gas:candidate-vibid:1001000225943": 720,
+      "gas:candidate-vibid:342300366648": 190,
+      "special:against-all": 199
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=423003007&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=342300367335&region=0&sub_region=0&type=429",
@@ -7907,12 +7907,12 @@ export const duma_2003_uik_428_region_42_part_005 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Гульняшкин Александр Алексеевич": 37,
-      "Корыстов Альберт Александрович": 8,
-      "Красаков Андрей Валентинович": 87,
-      "Неверов Сергей Иванович": 851,
-      "Ямщикова Елена Николаевна": 209,
-      "Против всех": 297
+      "gas:candidate-vibid:1001000250449": 37,
+      "gas:candidate-vibid:1001000195081": 8,
+      "gas:candidate-vibid:1001000136062": 87,
+      "gas:candidate-vibid:1001000225943": 851,
+      "gas:candidate-vibid:342300366648": 209,
+      "special:against-all": 297
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=423003007&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=342300367335&region=0&sub_region=0&type=429",
@@ -7962,12 +7962,12 @@ export const duma_2003_uik_428_region_42_part_005 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Гульняшкин Александр Алексеевич": 33,
-      "Корыстов Альберт Александрович": 14,
-      "Красаков Андрей Валентинович": 102,
-      "Неверов Сергей Иванович": 835,
-      "Ямщикова Елена Николаевна": 213,
-      "Против всех": 251
+      "gas:candidate-vibid:1001000250449": 33,
+      "gas:candidate-vibid:1001000195081": 14,
+      "gas:candidate-vibid:1001000136062": 102,
+      "gas:candidate-vibid:1001000225943": 835,
+      "gas:candidate-vibid:342300366648": 213,
+      "special:against-all": 251
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=423003007&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=342300367335&region=0&sub_region=0&type=429",
@@ -8017,12 +8017,12 @@ export const duma_2003_uik_428_region_42_part_005 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Гульняшкин Александр Алексеевич": 26,
-      "Корыстов Альберт Александрович": 5,
-      "Красаков Андрей Валентинович": 83,
-      "Неверов Сергей Иванович": 852,
-      "Ямщикова Елена Николаевна": 191,
-      "Против всех": 202
+      "gas:candidate-vibid:1001000250449": 26,
+      "gas:candidate-vibid:1001000195081": 5,
+      "gas:candidate-vibid:1001000136062": 83,
+      "gas:candidate-vibid:1001000225943": 852,
+      "gas:candidate-vibid:342300366648": 191,
+      "special:against-all": 202
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=423003007&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=342300367335&region=0&sub_region=0&type=429",
@@ -8072,12 +8072,12 @@ export const duma_2003_uik_428_region_42_part_005 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Гульняшкин Александр Алексеевич": 27,
-      "Корыстов Альберт Александрович": 6,
-      "Красаков Андрей Валентинович": 60,
-      "Неверов Сергей Иванович": 758,
-      "Ямщикова Елена Николаевна": 188,
-      "Против всех": 204
+      "gas:candidate-vibid:1001000250449": 27,
+      "gas:candidate-vibid:1001000195081": 6,
+      "gas:candidate-vibid:1001000136062": 60,
+      "gas:candidate-vibid:1001000225943": 758,
+      "gas:candidate-vibid:342300366648": 188,
+      "special:against-all": 204
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=423003007&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=342300367335&region=0&sub_region=0&type=429",
@@ -8127,12 +8127,12 @@ export const duma_2003_uik_428_region_42_part_005 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Гульняшкин Александр Алексеевич": 32,
-      "Корыстов Альберт Александрович": 7,
-      "Красаков Андрей Валентинович": 72,
-      "Неверов Сергей Иванович": 671,
-      "Ямщикова Елена Николаевна": 143,
-      "Против всех": 198
+      "gas:candidate-vibid:1001000250449": 32,
+      "gas:candidate-vibid:1001000195081": 7,
+      "gas:candidate-vibid:1001000136062": 72,
+      "gas:candidate-vibid:1001000225943": 671,
+      "gas:candidate-vibid:342300366648": 143,
+      "special:against-all": 198
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=423003007&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=342300367335&region=0&sub_region=0&type=429",
@@ -8182,12 +8182,12 @@ export const duma_2003_uik_428_region_42_part_005 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Гульняшкин Александр Алексеевич": 40,
-      "Корыстов Альберт Александрович": 7,
-      "Красаков Андрей Валентинович": 47,
-      "Неверов Сергей Иванович": 779,
-      "Ямщикова Елена Николаевна": 182,
-      "Против всех": 222
+      "gas:candidate-vibid:1001000250449": 40,
+      "gas:candidate-vibid:1001000195081": 7,
+      "gas:candidate-vibid:1001000136062": 47,
+      "gas:candidate-vibid:1001000225943": 779,
+      "gas:candidate-vibid:342300366648": 182,
+      "special:against-all": 222
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=423003007&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=342300367335&region=0&sub_region=0&type=429",
@@ -8237,12 +8237,12 @@ export const duma_2003_uik_428_region_42_part_005 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Гульняшкин Александр Алексеевич": 24,
-      "Корыстов Альберт Александрович": 3,
-      "Красаков Андрей Валентинович": 59,
-      "Неверов Сергей Иванович": 565,
-      "Ямщикова Елена Николаевна": 128,
-      "Против всех": 155
+      "gas:candidate-vibid:1001000250449": 24,
+      "gas:candidate-vibid:1001000195081": 3,
+      "gas:candidate-vibid:1001000136062": 59,
+      "gas:candidate-vibid:1001000225943": 565,
+      "gas:candidate-vibid:342300366648": 128,
+      "special:against-all": 155
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=423003007&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=342300367335&region=0&sub_region=0&type=429",
@@ -8292,12 +8292,12 @@ export const duma_2003_uik_428_region_42_part_005 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Гульняшкин Александр Алексеевич": 31,
-      "Корыстов Альберт Александрович": 8,
-      "Красаков Андрей Валентинович": 70,
-      "Неверов Сергей Иванович": 747,
-      "Ямщикова Елена Николаевна": 180,
-      "Против всех": 186
+      "gas:candidate-vibid:1001000250449": 31,
+      "gas:candidate-vibid:1001000195081": 8,
+      "gas:candidate-vibid:1001000136062": 70,
+      "gas:candidate-vibid:1001000225943": 747,
+      "gas:candidate-vibid:342300366648": 180,
+      "special:against-all": 186
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=423003007&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=342300367335&region=0&sub_region=0&type=429",
@@ -8347,12 +8347,12 @@ export const duma_2003_uik_428_region_42_part_005 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Гульняшкин Александр Алексеевич": 29,
-      "Корыстов Альберт Александрович": 11,
-      "Красаков Андрей Валентинович": 100,
-      "Неверов Сергей Иванович": 761,
-      "Ямщикова Елена Николаевна": 155,
-      "Против всех": 204
+      "gas:candidate-vibid:1001000250449": 29,
+      "gas:candidate-vibid:1001000195081": 11,
+      "gas:candidate-vibid:1001000136062": 100,
+      "gas:candidate-vibid:1001000225943": 761,
+      "gas:candidate-vibid:342300366648": 155,
+      "special:against-all": 204
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=423003007&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=342300367335&region=0&sub_region=0&type=429",
@@ -8402,12 +8402,12 @@ export const duma_2003_uik_428_region_42_part_005 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Гульняшкин Александр Алексеевич": 25,
-      "Корыстов Альберт Александрович": 8,
-      "Красаков Андрей Валентинович": 54,
-      "Неверов Сергей Иванович": 620,
-      "Ямщикова Елена Николаевна": 143,
-      "Против всех": 184
+      "gas:candidate-vibid:1001000250449": 25,
+      "gas:candidate-vibid:1001000195081": 8,
+      "gas:candidate-vibid:1001000136062": 54,
+      "gas:candidate-vibid:1001000225943": 620,
+      "gas:candidate-vibid:342300366648": 143,
+      "special:against-all": 184
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=423003007&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=342300367335&region=0&sub_region=0&type=429",
@@ -8457,12 +8457,12 @@ export const duma_2003_uik_428_region_42_part_005 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Гульняшкин Александр Алексеевич": 18,
-      "Корыстов Альберт Александрович": 6,
-      "Красаков Андрей Валентинович": 65,
-      "Неверов Сергей Иванович": 507,
-      "Ямщикова Елена Николаевна": 114,
-      "Против всех": 145
+      "gas:candidate-vibid:1001000250449": 18,
+      "gas:candidate-vibid:1001000195081": 6,
+      "gas:candidate-vibid:1001000136062": 65,
+      "gas:candidate-vibid:1001000225943": 507,
+      "gas:candidate-vibid:342300366648": 114,
+      "special:against-all": 145
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=423003007&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=342300367335&region=0&sub_region=0&type=429",
@@ -8512,12 +8512,12 @@ export const duma_2003_uik_428_region_42_part_005 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Гульняшкин Александр Алексеевич": 20,
-      "Корыстов Альберт Александрович": 7,
-      "Красаков Андрей Валентинович": 59,
-      "Неверов Сергей Иванович": 639,
-      "Ямщикова Елена Николаевна": 151,
-      "Против всех": 152
+      "gas:candidate-vibid:1001000250449": 20,
+      "gas:candidate-vibid:1001000195081": 7,
+      "gas:candidate-vibid:1001000136062": 59,
+      "gas:candidate-vibid:1001000225943": 639,
+      "gas:candidate-vibid:342300366648": 151,
+      "special:against-all": 152
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=423003007&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=342300367335&region=0&sub_region=0&type=429",
@@ -8567,12 +8567,12 @@ export const duma_2003_uik_428_region_42_part_005 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Гульняшкин Александр Алексеевич": 35,
-      "Корыстов Альберт Александрович": 17,
-      "Красаков Андрей Валентинович": 55,
-      "Неверов Сергей Иванович": 729,
-      "Ямщикова Елена Николаевна": 200,
-      "Против всех": 250
+      "gas:candidate-vibid:1001000250449": 35,
+      "gas:candidate-vibid:1001000195081": 17,
+      "gas:candidate-vibid:1001000136062": 55,
+      "gas:candidate-vibid:1001000225943": 729,
+      "gas:candidate-vibid:342300366648": 200,
+      "special:against-all": 250
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=423003007&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=342300367335&region=0&sub_region=0&type=429",
@@ -8622,12 +8622,12 @@ export const duma_2003_uik_428_region_42_part_005 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Гульняшкин Александр Алексеевич": 38,
-      "Корыстов Альберт Александрович": 11,
-      "Красаков Андрей Валентинович": 54,
-      "Неверов Сергей Иванович": 663,
-      "Ямщикова Елена Николаевна": 182,
-      "Против всех": 255
+      "gas:candidate-vibid:1001000250449": 38,
+      "gas:candidate-vibid:1001000195081": 11,
+      "gas:candidate-vibid:1001000136062": 54,
+      "gas:candidate-vibid:1001000225943": 663,
+      "gas:candidate-vibid:342300366648": 182,
+      "special:against-all": 255
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=423003007&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=342300367335&region=0&sub_region=0&type=429",
@@ -8677,12 +8677,12 @@ export const duma_2003_uik_428_region_42_part_005 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Гульняшкин Александр Алексеевич": 21,
-      "Корыстов Альберт Александрович": 4,
-      "Красаков Андрей Валентинович": 50,
-      "Неверов Сергей Иванович": 430,
-      "Ямщикова Елена Николаевна": 133,
-      "Против всех": 183
+      "gas:candidate-vibid:1001000250449": 21,
+      "gas:candidate-vibid:1001000195081": 4,
+      "gas:candidate-vibid:1001000136062": 50,
+      "gas:candidate-vibid:1001000225943": 430,
+      "gas:candidate-vibid:342300366648": 133,
+      "special:against-all": 183
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=423003007&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=342300367335&region=0&sub_region=0&type=429",
@@ -8732,12 +8732,12 @@ export const duma_2003_uik_428_region_42_part_005 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Гульняшкин Александр Алексеевич": 25,
-      "Корыстов Альберт Александрович": 7,
-      "Красаков Андрей Валентинович": 48,
-      "Неверов Сергей Иванович": 607,
-      "Ямщикова Елена Николаевна": 180,
-      "Против всех": 185
+      "gas:candidate-vibid:1001000250449": 25,
+      "gas:candidate-vibid:1001000195081": 7,
+      "gas:candidate-vibid:1001000136062": 48,
+      "gas:candidate-vibid:1001000225943": 607,
+      "gas:candidate-vibid:342300366648": 180,
+      "special:against-all": 185
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=423003007&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=342300367335&region=0&sub_region=0&type=429",
@@ -8787,12 +8787,12 @@ export const duma_2003_uik_428_region_42_part_005 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Гульняшкин Александр Алексеевич": 18,
-      "Корыстов Альберт Александрович": 8,
-      "Красаков Андрей Валентинович": 54,
-      "Неверов Сергей Иванович": 863,
-      "Ямщикова Елена Николаевна": 165,
-      "Против всех": 181
+      "gas:candidate-vibid:1001000250449": 18,
+      "gas:candidate-vibid:1001000195081": 8,
+      "gas:candidate-vibid:1001000136062": 54,
+      "gas:candidate-vibid:1001000225943": 863,
+      "gas:candidate-vibid:342300366648": 165,
+      "special:against-all": 181
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=423003007&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=342300367335&region=0&sub_region=0&type=429",
@@ -8842,12 +8842,12 @@ export const duma_2003_uik_428_region_42_part_005 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Гульняшкин Александр Алексеевич": 21,
-      "Корыстов Альберт Александрович": 8,
-      "Красаков Андрей Валентинович": 83,
-      "Неверов Сергей Иванович": 849,
-      "Ямщикова Елена Николаевна": 165,
-      "Против всех": 161
+      "gas:candidate-vibid:1001000250449": 21,
+      "gas:candidate-vibid:1001000195081": 8,
+      "gas:candidate-vibid:1001000136062": 83,
+      "gas:candidate-vibid:1001000225943": 849,
+      "gas:candidate-vibid:342300366648": 165,
+      "special:against-all": 161
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=423003007&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=342300367335&region=0&sub_region=0&type=429",
@@ -8897,12 +8897,12 @@ export const duma_2003_uik_428_region_42_part_005 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Гульняшкин Александр Алексеевич": 39,
-      "Корыстов Альберт Александрович": 9,
-      "Красаков Андрей Валентинович": 64,
-      "Неверов Сергей Иванович": 1039,
-      "Ямщикова Елена Николаевна": 194,
-      "Против всех": 237
+      "gas:candidate-vibid:1001000250449": 39,
+      "gas:candidate-vibid:1001000195081": 9,
+      "gas:candidate-vibid:1001000136062": 64,
+      "gas:candidate-vibid:1001000225943": 1039,
+      "gas:candidate-vibid:342300366648": 194,
+      "special:against-all": 237
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=423003007&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=342300367335&region=0&sub_region=0&type=429",
@@ -8952,12 +8952,12 @@ export const duma_2003_uik_428_region_42_part_005 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Гульняшкин Александр Алексеевич": 36,
-      "Корыстов Альберт Александрович": 14,
-      "Красаков Андрей Валентинович": 65,
-      "Неверов Сергей Иванович": 887,
-      "Ямщикова Елена Николаевна": 163,
-      "Против всех": 232
+      "gas:candidate-vibid:1001000250449": 36,
+      "gas:candidate-vibid:1001000195081": 14,
+      "gas:candidate-vibid:1001000136062": 65,
+      "gas:candidate-vibid:1001000225943": 887,
+      "gas:candidate-vibid:342300366648": 163,
+      "special:against-all": 232
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=423003007&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=342300367335&region=0&sub_region=0&type=429",
@@ -9007,12 +9007,12 @@ export const duma_2003_uik_428_region_42_part_005 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Гульняшкин Александр Алексеевич": 21,
-      "Корыстов Альберт Александрович": 8,
-      "Красаков Андрей Валентинович": 63,
-      "Неверов Сергей Иванович": 879,
-      "Ямщикова Елена Николаевна": 172,
-      "Против всех": 204
+      "gas:candidate-vibid:1001000250449": 21,
+      "gas:candidate-vibid:1001000195081": 8,
+      "gas:candidate-vibid:1001000136062": 63,
+      "gas:candidate-vibid:1001000225943": 879,
+      "gas:candidate-vibid:342300366648": 172,
+      "special:against-all": 204
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=423003007&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=342300367335&region=0&sub_region=0&type=429",
@@ -9062,12 +9062,12 @@ export const duma_2003_uik_428_region_42_part_005 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Гульняшкин Александр Алексеевич": 24,
-      "Корыстов Альберт Александрович": 2,
-      "Красаков Андрей Валентинович": 77,
-      "Неверов Сергей Иванович": 767,
-      "Ямщикова Елена Николаевна": 173,
-      "Против всех": 173
+      "gas:candidate-vibid:1001000250449": 24,
+      "gas:candidate-vibid:1001000195081": 2,
+      "gas:candidate-vibid:1001000136062": 77,
+      "gas:candidate-vibid:1001000225943": 767,
+      "gas:candidate-vibid:342300366648": 173,
+      "special:against-all": 173
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=423003007&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=342300367335&region=0&sub_region=0&type=429",
@@ -9117,12 +9117,12 @@ export const duma_2003_uik_428_region_42_part_005 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Гульняшкин Александр Алексеевич": 35,
-      "Корыстов Альберт Александрович": 8,
-      "Красаков Андрей Валентинович": 47,
-      "Неверов Сергей Иванович": 783,
-      "Ямщикова Елена Николаевна": 134,
-      "Против всех": 150
+      "gas:candidate-vibid:1001000250449": 35,
+      "gas:candidate-vibid:1001000195081": 8,
+      "gas:candidate-vibid:1001000136062": 47,
+      "gas:candidate-vibid:1001000225943": 783,
+      "gas:candidate-vibid:342300366648": 134,
+      "special:against-all": 150
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=423003007&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=342300367335&region=0&sub_region=0&type=429",
@@ -9172,12 +9172,12 @@ export const duma_2003_uik_428_region_42_part_005 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Гульняшкин Александр Алексеевич": 23,
-      "Корыстов Альберт Александрович": 10,
-      "Красаков Андрей Валентинович": 70,
-      "Неверов Сергей Иванович": 816,
-      "Ямщикова Елена Николаевна": 143,
-      "Против всех": 193
+      "gas:candidate-vibid:1001000250449": 23,
+      "gas:candidate-vibid:1001000195081": 10,
+      "gas:candidate-vibid:1001000136062": 70,
+      "gas:candidate-vibid:1001000225943": 816,
+      "gas:candidate-vibid:342300366648": 143,
+      "special:against-all": 193
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=423003007&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=342300367335&region=0&sub_region=0&type=429",
@@ -9227,12 +9227,12 @@ export const duma_2003_uik_428_region_42_part_005 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Гульняшкин Александр Алексеевич": 18,
-      "Корыстов Альберт Александрович": 7,
-      "Красаков Андрей Валентинович": 74,
-      "Неверов Сергей Иванович": 814,
-      "Ямщикова Елена Николаевна": 151,
-      "Против всех": 206
+      "gas:candidate-vibid:1001000250449": 18,
+      "gas:candidate-vibid:1001000195081": 7,
+      "gas:candidate-vibid:1001000136062": 74,
+      "gas:candidate-vibid:1001000225943": 814,
+      "gas:candidate-vibid:342300366648": 151,
+      "special:against-all": 206
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=423003007&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=342300367335&region=0&sub_region=0&type=429",
@@ -9282,12 +9282,12 @@ export const duma_2003_uik_428_region_42_part_005 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Гульняшкин Александр Алексеевич": 48,
-      "Корыстов Альберт Александрович": 11,
-      "Красаков Андрей Валентинович": 82,
-      "Неверов Сергей Иванович": 939,
-      "Ямщикова Елена Николаевна": 215,
-      "Против всех": 266
+      "gas:candidate-vibid:1001000250449": 48,
+      "gas:candidate-vibid:1001000195081": 11,
+      "gas:candidate-vibid:1001000136062": 82,
+      "gas:candidate-vibid:1001000225943": 939,
+      "gas:candidate-vibid:342300366648": 215,
+      "special:against-all": 266
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=423003007&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=342300367335&region=0&sub_region=0&type=429",
@@ -9337,12 +9337,12 @@ export const duma_2003_uik_428_region_42_part_005 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Гульняшкин Александр Алексеевич": 40,
-      "Корыстов Альберт Александрович": 16,
-      "Красаков Андрей Валентинович": 85,
-      "Неверов Сергей Иванович": 813,
-      "Ямщикова Елена Николаевна": 251,
-      "Против всех": 277
+      "gas:candidate-vibid:1001000250449": 40,
+      "gas:candidate-vibid:1001000195081": 16,
+      "gas:candidate-vibid:1001000136062": 85,
+      "gas:candidate-vibid:1001000225943": 813,
+      "gas:candidate-vibid:342300366648": 251,
+      "special:against-all": 277
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=423003007&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=342300367335&region=0&sub_region=0&type=429",
@@ -9392,12 +9392,12 @@ export const duma_2003_uik_428_region_42_part_005 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Гульняшкин Александр Алексеевич": 46,
-      "Корыстов Альберт Александрович": 7,
-      "Красаков Андрей Валентинович": 94,
-      "Неверов Сергей Иванович": 786,
-      "Ямщикова Елена Николаевна": 225,
-      "Против всех": 221
+      "gas:candidate-vibid:1001000250449": 46,
+      "gas:candidate-vibid:1001000195081": 7,
+      "gas:candidate-vibid:1001000136062": 94,
+      "gas:candidate-vibid:1001000225943": 786,
+      "gas:candidate-vibid:342300366648": 225,
+      "special:against-all": 221
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=423003007&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=342300367335&region=0&sub_region=0&type=429",
@@ -9447,12 +9447,12 @@ export const duma_2003_uik_428_region_42_part_005 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Гульняшкин Александр Алексеевич": 40,
-      "Корыстов Альберт Александрович": 7,
-      "Красаков Андрей Валентинович": 82,
-      "Неверов Сергей Иванович": 867,
-      "Ямщикова Елена Николаевна": 229,
-      "Против всех": 294
+      "gas:candidate-vibid:1001000250449": 40,
+      "gas:candidate-vibid:1001000195081": 7,
+      "gas:candidate-vibid:1001000136062": 82,
+      "gas:candidate-vibid:1001000225943": 867,
+      "gas:candidate-vibid:342300366648": 229,
+      "special:against-all": 294
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=423003007&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=342300367335&region=0&sub_region=0&type=429",
@@ -9502,12 +9502,12 @@ export const duma_2003_uik_428_region_42_part_005 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Гульняшкин Александр Алексеевич": 50,
-      "Корыстов Альберт Александрович": 7,
-      "Красаков Андрей Валентинович": 101,
-      "Неверов Сергей Иванович": 773,
-      "Ямщикова Елена Николаевна": 238,
-      "Против всех": 276
+      "gas:candidate-vibid:1001000250449": 50,
+      "gas:candidate-vibid:1001000195081": 7,
+      "gas:candidate-vibid:1001000136062": 101,
+      "gas:candidate-vibid:1001000225943": 773,
+      "gas:candidate-vibid:342300366648": 238,
+      "special:against-all": 276
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=423003007&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=342300367335&region=0&sub_region=0&type=429",
@@ -9557,12 +9557,12 @@ export const duma_2003_uik_428_region_42_part_005 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Гульняшкин Александр Алексеевич": 20,
-      "Корыстов Альберт Александрович": 5,
-      "Красаков Андрей Валентинович": 58,
-      "Неверов Сергей Иванович": 594,
-      "Ямщикова Елена Николаевна": 134,
-      "Против всех": 165
+      "gas:candidate-vibid:1001000250449": 20,
+      "gas:candidate-vibid:1001000195081": 5,
+      "gas:candidate-vibid:1001000136062": 58,
+      "gas:candidate-vibid:1001000225943": 594,
+      "gas:candidate-vibid:342300366648": 134,
+      "special:against-all": 165
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=423003007&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=342300367335&region=0&sub_region=0&type=429",
@@ -9612,12 +9612,12 @@ export const duma_2003_uik_428_region_42_part_005 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Гульняшкин Александр Алексеевич": 32,
-      "Корыстов Альберт Александрович": 13,
-      "Красаков Андрей Валентинович": 73,
-      "Неверов Сергей Иванович": 638,
-      "Ямщикова Елена Николаевна": 148,
-      "Против всех": 182
+      "gas:candidate-vibid:1001000250449": 32,
+      "gas:candidate-vibid:1001000195081": 13,
+      "gas:candidate-vibid:1001000136062": 73,
+      "gas:candidate-vibid:1001000225943": 638,
+      "gas:candidate-vibid:342300366648": 148,
+      "special:against-all": 182
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=423003007&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=342300367335&region=0&sub_region=0&type=429",
@@ -9667,12 +9667,12 @@ export const duma_2003_uik_428_region_42_part_005 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Гульняшкин Александр Алексеевич": 13,
-      "Корыстов Альберт Александрович": 11,
-      "Красаков Андрей Валентинович": 60,
-      "Неверов Сергей Иванович": 692,
-      "Ямщикова Елена Николаевна": 199,
-      "Против всех": 205
+      "gas:candidate-vibid:1001000250449": 13,
+      "gas:candidate-vibid:1001000195081": 11,
+      "gas:candidate-vibid:1001000136062": 60,
+      "gas:candidate-vibid:1001000225943": 692,
+      "gas:candidate-vibid:342300366648": 199,
+      "special:against-all": 205
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=423003007&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=342300367335&region=0&sub_region=0&type=429",
@@ -9722,12 +9722,12 @@ export const duma_2003_uik_428_region_42_part_005 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Гульняшкин Александр Алексеевич": 22,
-      "Корыстов Альберт Александрович": 6,
-      "Красаков Андрей Валентинович": 59,
-      "Неверов Сергей Иванович": 657,
-      "Ямщикова Елена Николаевна": 163,
-      "Против всех": 208
+      "gas:candidate-vibid:1001000250449": 22,
+      "gas:candidate-vibid:1001000195081": 6,
+      "gas:candidate-vibid:1001000136062": 59,
+      "gas:candidate-vibid:1001000225943": 657,
+      "gas:candidate-vibid:342300366648": 163,
+      "special:against-all": 208
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=423003007&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=342300367335&region=0&sub_region=0&type=429",
@@ -9777,12 +9777,12 @@ export const duma_2003_uik_428_region_42_part_005 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Гульняшкин Александр Алексеевич": 28,
-      "Корыстов Альберт Александрович": 5,
-      "Красаков Андрей Валентинович": 61,
-      "Неверов Сергей Иванович": 649,
-      "Ямщикова Елена Николаевна": 178,
-      "Против всех": 151
+      "gas:candidate-vibid:1001000250449": 28,
+      "gas:candidate-vibid:1001000195081": 5,
+      "gas:candidate-vibid:1001000136062": 61,
+      "gas:candidate-vibid:1001000225943": 649,
+      "gas:candidate-vibid:342300366648": 178,
+      "special:against-all": 151
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=423003007&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=342300367335&region=0&sub_region=0&type=429",
@@ -9832,12 +9832,12 @@ export const duma_2003_uik_428_region_42_part_005 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Гульняшкин Александр Алексеевич": 28,
-      "Корыстов Альберт Александрович": 6,
-      "Красаков Андрей Валентинович": 100,
-      "Неверов Сергей Иванович": 835,
-      "Ямщикова Елена Николаевна": 182,
-      "Против всех": 189
+      "gas:candidate-vibid:1001000250449": 28,
+      "gas:candidate-vibid:1001000195081": 6,
+      "gas:candidate-vibid:1001000136062": 100,
+      "gas:candidate-vibid:1001000225943": 835,
+      "gas:candidate-vibid:342300366648": 182,
+      "special:against-all": 189
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=423003007&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=342300367335&region=0&sub_region=0&type=429",
@@ -9887,12 +9887,12 @@ export const duma_2003_uik_428_region_42_part_005 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Гульняшкин Александр Алексеевич": 33,
-      "Корыстов Альберт Александрович": 6,
-      "Красаков Андрей Валентинович": 81,
-      "Неверов Сергей Иванович": 851,
-      "Ямщикова Елена Николаевна": 193,
-      "Против всех": 212
+      "gas:candidate-vibid:1001000250449": 33,
+      "gas:candidate-vibid:1001000195081": 6,
+      "gas:candidate-vibid:1001000136062": 81,
+      "gas:candidate-vibid:1001000225943": 851,
+      "gas:candidate-vibid:342300366648": 193,
+      "special:against-all": 212
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=423003007&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=342300367335&region=0&sub_region=0&type=429",
@@ -9942,12 +9942,12 @@ export const duma_2003_uik_428_region_42_part_005 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Гульняшкин Александр Алексеевич": 19,
-      "Корыстов Альберт Александрович": 3,
-      "Красаков Андрей Валентинович": 51,
-      "Неверов Сергей Иванович": 740,
-      "Ямщикова Елена Николаевна": 137,
-      "Против всех": 166
+      "gas:candidate-vibid:1001000250449": 19,
+      "gas:candidate-vibid:1001000195081": 3,
+      "gas:candidate-vibid:1001000136062": 51,
+      "gas:candidate-vibid:1001000225943": 740,
+      "gas:candidate-vibid:342300366648": 137,
+      "special:against-all": 166
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=423003007&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=342300367335&region=0&sub_region=0&type=429",
@@ -9997,12 +9997,12 @@ export const duma_2003_uik_428_region_42_part_005 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Гульняшкин Александр Алексеевич": 27,
-      "Корыстов Альберт Александрович": 7,
-      "Красаков Андрей Валентинович": 71,
-      "Неверов Сергей Иванович": 786,
-      "Ямщикова Елена Николаевна": 174,
-      "Против всех": 178
+      "gas:candidate-vibid:1001000250449": 27,
+      "gas:candidate-vibid:1001000195081": 7,
+      "gas:candidate-vibid:1001000136062": 71,
+      "gas:candidate-vibid:1001000225943": 786,
+      "gas:candidate-vibid:342300366648": 174,
+      "special:against-all": 178
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=423003007&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=342300367335&region=0&sub_region=0&type=429",
@@ -10052,12 +10052,12 @@ export const duma_2003_uik_428_region_42_part_005 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Гульняшкин Александр Алексеевич": 44,
-      "Корыстов Альберт Александрович": 4,
-      "Красаков Андрей Валентинович": 65,
-      "Неверов Сергей Иванович": 772,
-      "Ямщикова Елена Николаевна": 163,
-      "Против всех": 212
+      "gas:candidate-vibid:1001000250449": 44,
+      "gas:candidate-vibid:1001000195081": 4,
+      "gas:candidate-vibid:1001000136062": 65,
+      "gas:candidate-vibid:1001000225943": 772,
+      "gas:candidate-vibid:342300366648": 163,
+      "special:against-all": 212
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=423003007&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=342300367335&region=0&sub_region=0&type=429",
@@ -10107,12 +10107,12 @@ export const duma_2003_uik_428_region_42_part_005 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Гульняшкин Александр Алексеевич": 48,
-      "Корыстов Альберт Александрович": 13,
-      "Красаков Андрей Валентинович": 91,
-      "Неверов Сергей Иванович": 940,
-      "Ямщикова Елена Николаевна": 183,
-      "Против всех": 224
+      "gas:candidate-vibid:1001000250449": 48,
+      "gas:candidate-vibid:1001000195081": 13,
+      "gas:candidate-vibid:1001000136062": 91,
+      "gas:candidate-vibid:1001000225943": 940,
+      "gas:candidate-vibid:342300366648": 183,
+      "special:against-all": 224
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=423003007&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=342300367335&region=0&sub_region=0&type=429",
@@ -10162,12 +10162,12 @@ export const duma_2003_uik_428_region_42_part_005 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Гульняшкин Александр Алексеевич": 29,
-      "Корыстов Альберт Александрович": 13,
-      "Красаков Андрей Валентинович": 69,
-      "Неверов Сергей Иванович": 731,
-      "Ямщикова Елена Николаевна": 171,
-      "Против всех": 161
+      "gas:candidate-vibid:1001000250449": 29,
+      "gas:candidate-vibid:1001000195081": 13,
+      "gas:candidate-vibid:1001000136062": 69,
+      "gas:candidate-vibid:1001000225943": 731,
+      "gas:candidate-vibid:342300366648": 171,
+      "special:against-all": 161
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=423003007&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=342300367335&region=0&sub_region=0&type=429",
@@ -10217,12 +10217,12 @@ export const duma_2003_uik_428_region_42_part_005 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Гульняшкин Александр Алексеевич": 36,
-      "Корыстов Альберт Александрович": 9,
-      "Красаков Андрей Валентинович": 89,
-      "Неверов Сергей Иванович": 859,
-      "Ямщикова Елена Николаевна": 220,
-      "Против всех": 211
+      "gas:candidate-vibid:1001000250449": 36,
+      "gas:candidate-vibid:1001000195081": 9,
+      "gas:candidate-vibid:1001000136062": 89,
+      "gas:candidate-vibid:1001000225943": 859,
+      "gas:candidate-vibid:342300366648": 220,
+      "special:against-all": 211
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=423003007&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=342300367335&region=0&sub_region=0&type=429",
@@ -10272,12 +10272,12 @@ export const duma_2003_uik_428_region_42_part_005 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Гульняшкин Александр Алексеевич": 34,
-      "Корыстов Альберт Александрович": 8,
-      "Красаков Андрей Валентинович": 63,
-      "Неверов Сергей Иванович": 702,
-      "Ямщикова Елена Николаевна": 177,
-      "Против всех": 179
+      "gas:candidate-vibid:1001000250449": 34,
+      "gas:candidate-vibid:1001000195081": 8,
+      "gas:candidate-vibid:1001000136062": 63,
+      "gas:candidate-vibid:1001000225943": 702,
+      "gas:candidate-vibid:342300366648": 177,
+      "special:against-all": 179
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=423003007&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=342300367335&region=0&sub_region=0&type=429",
@@ -10327,12 +10327,12 @@ export const duma_2003_uik_428_region_42_part_005 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Гульняшкин Александр Алексеевич": 19,
-      "Корыстов Альберт Александрович": 7,
-      "Красаков Андрей Валентинович": 78,
-      "Неверов Сергей Иванович": 725,
-      "Ямщикова Елена Николаевна": 143,
-      "Против всех": 160
+      "gas:candidate-vibid:1001000250449": 19,
+      "gas:candidate-vibid:1001000195081": 7,
+      "gas:candidate-vibid:1001000136062": 78,
+      "gas:candidate-vibid:1001000225943": 725,
+      "gas:candidate-vibid:342300366648": 143,
+      "special:against-all": 160
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=423003007&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=342300367335&region=0&sub_region=0&type=429",
@@ -10382,12 +10382,12 @@ export const duma_2003_uik_428_region_42_part_005 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Гульняшкин Александр Алексеевич": 33,
-      "Корыстов Альберт Александрович": 8,
-      "Красаков Андрей Валентинович": 85,
-      "Неверов Сергей Иванович": 878,
-      "Ямщикова Елена Николаевна": 197,
-      "Против всех": 213
+      "gas:candidate-vibid:1001000250449": 33,
+      "gas:candidate-vibid:1001000195081": 8,
+      "gas:candidate-vibid:1001000136062": 85,
+      "gas:candidate-vibid:1001000225943": 878,
+      "gas:candidate-vibid:342300366648": 197,
+      "special:against-all": 213
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=423003007&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=342300367335&region=0&sub_region=0&type=429",
@@ -10437,12 +10437,12 @@ export const duma_2003_uik_428_region_42_part_005 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Гульняшкин Александр Алексеевич": 35,
-      "Корыстов Альберт Александрович": 2,
-      "Красаков Андрей Валентинович": 82,
-      "Неверов Сергей Иванович": 751,
-      "Ямщикова Елена Николаевна": 185,
-      "Против всех": 234
+      "gas:candidate-vibid:1001000250449": 35,
+      "gas:candidate-vibid:1001000195081": 2,
+      "gas:candidate-vibid:1001000136062": 82,
+      "gas:candidate-vibid:1001000225943": 751,
+      "gas:candidate-vibid:342300366648": 185,
+      "special:against-all": 234
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=423003007&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=342300367335&region=0&sub_region=0&type=429",
@@ -10492,12 +10492,12 @@ export const duma_2003_uik_428_region_42_part_005 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Гульняшкин Александр Алексеевич": 22,
-      "Корыстов Альберт Александрович": 5,
-      "Красаков Андрей Валентинович": 52,
-      "Неверов Сергей Иванович": 932,
-      "Ямщикова Елена Николаевна": 159,
-      "Против всех": 113
+      "gas:candidate-vibid:1001000250449": 22,
+      "gas:candidate-vibid:1001000195081": 5,
+      "gas:candidate-vibid:1001000136062": 52,
+      "gas:candidate-vibid:1001000225943": 932,
+      "gas:candidate-vibid:342300366648": 159,
+      "special:against-all": 113
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=423003007&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=342300367335&region=0&sub_region=0&type=429",
@@ -10547,12 +10547,12 @@ export const duma_2003_uik_428_region_42_part_005 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Гульняшкин Александр Алексеевич": 14,
-      "Корыстов Альберт Александрович": 8,
-      "Красаков Андрей Валентинович": 39,
-      "Неверов Сергей Иванович": 1140,
-      "Ямщикова Елена Николаевна": 92,
-      "Против всех": 133
+      "gas:candidate-vibid:1001000250449": 14,
+      "gas:candidate-vibid:1001000195081": 8,
+      "gas:candidate-vibid:1001000136062": 39,
+      "gas:candidate-vibid:1001000225943": 1140,
+      "gas:candidate-vibid:342300366648": 92,
+      "special:against-all": 133
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=423003008&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=342300367336&region=0&sub_region=0&type=429",
@@ -10602,12 +10602,12 @@ export const duma_2003_uik_428_region_42_part_005 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Гульняшкин Александр Алексеевич": 14,
-      "Корыстов Альберт Александрович": 7,
-      "Красаков Андрей Валентинович": 45,
-      "Неверов Сергей Иванович": 1174,
-      "Ямщикова Елена Николаевна": 75,
-      "Против всех": 94
+      "gas:candidate-vibid:1001000250449": 14,
+      "gas:candidate-vibid:1001000195081": 7,
+      "gas:candidate-vibid:1001000136062": 45,
+      "gas:candidate-vibid:1001000225943": 1174,
+      "gas:candidate-vibid:342300366648": 75,
+      "special:against-all": 94
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=423003008&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=342300367336&region=0&sub_region=0&type=429",
@@ -10657,12 +10657,12 @@ export const duma_2003_uik_428_region_42_part_005 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Гульняшкин Александр Алексеевич": 4,
-      "Корыстов Альберт Александрович": 7,
-      "Красаков Андрей Валентинович": 8,
-      "Неверов Сергей Иванович": 1305,
-      "Ямщикова Елена Николаевна": 52,
-      "Против всех": 29
+      "gas:candidate-vibid:1001000250449": 4,
+      "gas:candidate-vibid:1001000195081": 7,
+      "gas:candidate-vibid:1001000136062": 8,
+      "gas:candidate-vibid:1001000225943": 1305,
+      "gas:candidate-vibid:342300366648": 52,
+      "special:against-all": 29
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=423003008&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=342300367336&region=0&sub_region=0&type=429",
@@ -10712,12 +10712,12 @@ export const duma_2003_uik_428_region_42_part_005 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Гульняшкин Александр Алексеевич": 13,
-      "Корыстов Альберт Александрович": 8,
-      "Красаков Андрей Валентинович": 37,
-      "Неверов Сергей Иванович": 1181,
-      "Ямщикова Елена Николаевна": 83,
-      "Против всех": 101
+      "gas:candidate-vibid:1001000250449": 13,
+      "gas:candidate-vibid:1001000195081": 8,
+      "gas:candidate-vibid:1001000136062": 37,
+      "gas:candidate-vibid:1001000225943": 1181,
+      "gas:candidate-vibid:342300366648": 83,
+      "special:against-all": 101
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=423003008&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=342300367336&region=0&sub_region=0&type=429",
@@ -10767,12 +10767,12 @@ export const duma_2003_uik_428_region_42_part_005 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Гульняшкин Александр Алексеевич": 11,
-      "Корыстов Альберт Александрович": 2,
-      "Красаков Андрей Валентинович": 43,
-      "Неверов Сергей Иванович": 1177,
-      "Ямщикова Елена Николаевна": 79,
-      "Против всех": 134
+      "gas:candidate-vibid:1001000250449": 11,
+      "gas:candidate-vibid:1001000195081": 2,
+      "gas:candidate-vibid:1001000136062": 43,
+      "gas:candidate-vibid:1001000225943": 1177,
+      "gas:candidate-vibid:342300366648": 79,
+      "special:against-all": 134
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=423003008&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=342300367336&region=0&sub_region=0&type=429",
@@ -10822,12 +10822,12 @@ export const duma_2003_uik_428_region_42_part_005 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Гульняшкин Александр Алексеевич": 21,
-      "Корыстов Альберт Александрович": 5,
-      "Красаков Андрей Валентинович": 39,
-      "Неверов Сергей Иванович": 1156,
-      "Ямщикова Елена Николаевна": 134,
-      "Против всех": 123
+      "gas:candidate-vibid:1001000250449": 21,
+      "gas:candidate-vibid:1001000195081": 5,
+      "gas:candidate-vibid:1001000136062": 39,
+      "gas:candidate-vibid:1001000225943": 1156,
+      "gas:candidate-vibid:342300366648": 134,
+      "special:against-all": 123
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=423003008&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=342300367336&region=0&sub_region=0&type=429",
@@ -10877,12 +10877,12 @@ export const duma_2003_uik_428_region_42_part_005 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Гульняшкин Александр Алексеевич": 12,
-      "Корыстов Альберт Александрович": 9,
-      "Красаков Андрей Валентинович": 55,
-      "Неверов Сергей Иванович": 1126,
-      "Ямщикова Елена Николаевна": 95,
-      "Против всех": 153
+      "gas:candidate-vibid:1001000250449": 12,
+      "gas:candidate-vibid:1001000195081": 9,
+      "gas:candidate-vibid:1001000136062": 55,
+      "gas:candidate-vibid:1001000225943": 1126,
+      "gas:candidate-vibid:342300366648": 95,
+      "special:against-all": 153
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=423003008&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=342300367336&region=0&sub_region=0&type=429",
@@ -10932,12 +10932,12 @@ export const duma_2003_uik_428_region_42_part_005 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Гульняшкин Александр Алексеевич": 5,
-      "Корыстов Альберт Александрович": 5,
-      "Красаков Андрей Валентинович": 21,
-      "Неверов Сергей Иванович": 515,
-      "Ямщикова Елена Николаевна": 72,
-      "Против всех": 56
+      "gas:candidate-vibid:1001000250449": 5,
+      "gas:candidate-vibid:1001000195081": 5,
+      "gas:candidate-vibid:1001000136062": 21,
+      "gas:candidate-vibid:1001000225943": 515,
+      "gas:candidate-vibid:342300366648": 72,
+      "special:against-all": 56
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=423003008&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=342300367336&region=0&sub_region=0&type=429",
@@ -10987,12 +10987,12 @@ export const duma_2003_uik_428_region_42_part_005 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Гульняшкин Александр Алексеевич": 15,
-      "Корыстов Альберт Александрович": 7,
-      "Красаков Андрей Валентинович": 37,
-      "Неверов Сергей Иванович": 609,
-      "Ямщикова Елена Николаевна": 50,
-      "Против всех": 59
+      "gas:candidate-vibid:1001000250449": 15,
+      "gas:candidate-vibid:1001000195081": 7,
+      "gas:candidate-vibid:1001000136062": 37,
+      "gas:candidate-vibid:1001000225943": 609,
+      "gas:candidate-vibid:342300366648": 50,
+      "special:against-all": 59
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=423003008&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=342300367336&region=0&sub_region=0&type=429",
@@ -11042,12 +11042,12 @@ export const duma_2003_uik_428_region_42_part_005 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Гульняшкин Александр Алексеевич": 5,
-      "Корыстов Альберт Александрович": 3,
-      "Красаков Андрей Валентинович": 4,
-      "Неверов Сергей Иванович": 271,
-      "Ямщикова Елена Николаевна": 26,
-      "Против всех": 8
+      "gas:candidate-vibid:1001000250449": 5,
+      "gas:candidate-vibid:1001000195081": 3,
+      "gas:candidate-vibid:1001000136062": 4,
+      "gas:candidate-vibid:1001000225943": 271,
+      "gas:candidate-vibid:342300366648": 26,
+      "special:against-all": 8
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=423003008&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=342300367336&region=0&sub_region=0&type=429",
@@ -11097,12 +11097,12 @@ export const duma_2003_uik_428_region_42_part_005 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Гульняшкин Александр Алексеевич": 11,
-      "Корыстов Альберт Александрович": 5,
-      "Красаков Андрей Валентинович": 43,
-      "Неверов Сергей Иванович": 714,
-      "Ямщикова Елена Николаевна": 36,
-      "Против всех": 53
+      "gas:candidate-vibid:1001000250449": 11,
+      "gas:candidate-vibid:1001000195081": 5,
+      "gas:candidate-vibid:1001000136062": 43,
+      "gas:candidate-vibid:1001000225943": 714,
+      "gas:candidate-vibid:342300366648": 36,
+      "special:against-all": 53
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=423003008&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=342300367336&region=0&sub_region=0&type=429",
@@ -11152,12 +11152,12 @@ export const duma_2003_uik_428_region_42_part_005 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Гульняшкин Александр Алексеевич": 8,
-      "Корыстов Альберт Александрович": 1,
-      "Красаков Андрей Валентинович": 21,
-      "Неверов Сергей Иванович": 513,
-      "Ямщикова Елена Николаевна": 36,
-      "Против всех": 37
+      "gas:candidate-vibid:1001000250449": 8,
+      "gas:candidate-vibid:1001000195081": 1,
+      "gas:candidate-vibid:1001000136062": 21,
+      "gas:candidate-vibid:1001000225943": 513,
+      "gas:candidate-vibid:342300366648": 36,
+      "special:against-all": 37
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=423003008&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=342300367336&region=0&sub_region=0&type=429",
@@ -11207,12 +11207,12 @@ export const duma_2003_uik_428_region_42_part_005 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Гульняшкин Александр Алексеевич": 5,
-      "Корыстов Альберт Александрович": 2,
-      "Красаков Андрей Валентинович": 28,
-      "Неверов Сергей Иванович": 596,
-      "Ямщикова Елена Николаевна": 37,
-      "Против всех": 64
+      "gas:candidate-vibid:1001000250449": 5,
+      "gas:candidate-vibid:1001000195081": 2,
+      "gas:candidate-vibid:1001000136062": 28,
+      "gas:candidate-vibid:1001000225943": 596,
+      "gas:candidate-vibid:342300366648": 37,
+      "special:against-all": 64
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=423003008&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=342300367336&region=0&sub_region=0&type=429",
@@ -11262,12 +11262,12 @@ export const duma_2003_uik_428_region_42_part_005 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Гульняшкин Александр Алексеевич": 9,
-      "Корыстов Альберт Александрович": 4,
-      "Красаков Андрей Валентинович": 40,
-      "Неверов Сергей Иванович": 898,
-      "Ямщикова Елена Николаевна": 45,
-      "Против всех": 70
+      "gas:candidate-vibid:1001000250449": 9,
+      "gas:candidate-vibid:1001000195081": 4,
+      "gas:candidate-vibid:1001000136062": 40,
+      "gas:candidate-vibid:1001000225943": 898,
+      "gas:candidate-vibid:342300366648": 45,
+      "special:against-all": 70
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=423003008&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=342300367336&region=0&sub_region=0&type=429",
@@ -11317,12 +11317,12 @@ export const duma_2003_uik_428_region_42_part_005 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Гульняшкин Александр Алексеевич": 2,
-      "Корыстов Альберт Александрович": 5,
-      "Красаков Андрей Валентинович": 34,
-      "Неверов Сергей Иванович": 578,
-      "Ямщикова Елена Николаевна": 28,
-      "Против всех": 51
+      "gas:candidate-vibid:1001000250449": 2,
+      "gas:candidate-vibid:1001000195081": 5,
+      "gas:candidate-vibid:1001000136062": 34,
+      "gas:candidate-vibid:1001000225943": 578,
+      "gas:candidate-vibid:342300366648": 28,
+      "special:against-all": 51
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=423003008&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=342300367336&region=0&sub_region=0&type=429",
@@ -11372,12 +11372,12 @@ export const duma_2003_uik_428_region_42_part_005 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Гульняшкин Александр Алексеевич": 3,
-      "Корыстов Альберт Александрович": 1,
-      "Красаков Андрей Валентинович": 33,
-      "Неверов Сергей Иванович": 480,
-      "Ямщикова Елена Николаевна": 16,
-      "Против всех": 30
+      "gas:candidate-vibid:1001000250449": 3,
+      "gas:candidate-vibid:1001000195081": 1,
+      "gas:candidate-vibid:1001000136062": 33,
+      "gas:candidate-vibid:1001000225943": 480,
+      "gas:candidate-vibid:342300366648": 16,
+      "special:against-all": 30
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=423003008&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=342300367336&region=0&sub_region=0&type=429",
@@ -11427,12 +11427,12 @@ export const duma_2003_uik_428_region_42_part_005 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Гульняшкин Александр Алексеевич": 8,
-      "Корыстов Альберт Александрович": 5,
-      "Красаков Андрей Валентинович": 35,
-      "Неверов Сергей Иванович": 593,
-      "Ямщикова Елена Николаевна": 33,
-      "Против всех": 52
+      "gas:candidate-vibid:1001000250449": 8,
+      "gas:candidate-vibid:1001000195081": 5,
+      "gas:candidate-vibid:1001000136062": 35,
+      "gas:candidate-vibid:1001000225943": 593,
+      "gas:candidate-vibid:342300366648": 33,
+      "special:against-all": 52
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=423003008&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=342300367336&region=0&sub_region=0&type=429",
@@ -11482,12 +11482,12 @@ export const duma_2003_uik_428_region_42_part_005 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Гульняшкин Александр Алексеевич": 4,
-      "Корыстов Альберт Александрович": 4,
-      "Красаков Андрей Валентинович": 21,
-      "Неверов Сергей Иванович": 399,
-      "Ямщикова Елена Николаевна": 28,
-      "Против всех": 30
+      "gas:candidate-vibid:1001000250449": 4,
+      "gas:candidate-vibid:1001000195081": 4,
+      "gas:candidate-vibid:1001000136062": 21,
+      "gas:candidate-vibid:1001000225943": 399,
+      "gas:candidate-vibid:342300366648": 28,
+      "special:against-all": 30
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=423003008&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=342300367336&region=0&sub_region=0&type=429",
@@ -11537,12 +11537,12 @@ export const duma_2003_uik_428_region_42_part_005 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Гульняшкин Александр Алексеевич": 9,
-      "Корыстов Альберт Александрович": 1,
-      "Красаков Андрей Валентинович": 20,
-      "Неверов Сергей Иванович": 688,
-      "Ямщикова Елена Николаевна": 22,
-      "Против всех": 42
+      "gas:candidate-vibid:1001000250449": 9,
+      "gas:candidate-vibid:1001000195081": 1,
+      "gas:candidate-vibid:1001000136062": 20,
+      "gas:candidate-vibid:1001000225943": 688,
+      "gas:candidate-vibid:342300366648": 22,
+      "special:against-all": 42
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=423003008&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=342300367336&region=0&sub_region=0&type=429",
@@ -11592,12 +11592,12 @@ export const duma_2003_uik_428_region_42_part_005 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Гульняшкин Александр Алексеевич": 1,
-      "Корыстов Альберт Александрович": 1,
-      "Красаков Андрей Валентинович": 11,
-      "Неверов Сергей Иванович": 340,
-      "Ямщикова Елена Николаевна": 9,
-      "Против всех": 11
+      "gas:candidate-vibid:1001000250449": 1,
+      "gas:candidate-vibid:1001000195081": 1,
+      "gas:candidate-vibid:1001000136062": 11,
+      "gas:candidate-vibid:1001000225943": 340,
+      "gas:candidate-vibid:342300366648": 9,
+      "special:against-all": 11
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=423003008&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=342300367336&region=0&sub_region=0&type=429",
@@ -11647,12 +11647,12 @@ export const duma_2003_uik_428_region_42_part_005 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Гульняшкин Александр Алексеевич": 9,
-      "Корыстов Альберт Александрович": 2,
-      "Красаков Андрей Валентинович": 29,
-      "Неверов Сергей Иванович": 768,
-      "Ямщикова Елена Николаевна": 52,
-      "Против всех": 63
+      "gas:candidate-vibid:1001000250449": 9,
+      "gas:candidate-vibid:1001000195081": 2,
+      "gas:candidate-vibid:1001000136062": 29,
+      "gas:candidate-vibid:1001000225943": 768,
+      "gas:candidate-vibid:342300366648": 52,
+      "special:against-all": 63
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=423003008&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=342300367336&region=0&sub_region=0&type=429",
@@ -11702,12 +11702,12 @@ export const duma_2003_uik_428_region_42_part_005 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Гульняшкин Александр Алексеевич": 6,
-      "Корыстов Альберт Александрович": 0,
-      "Красаков Андрей Валентинович": 7,
-      "Неверов Сергей Иванович": 219,
-      "Ямщикова Елена Николаевна": 4,
-      "Против всех": 10
+      "gas:candidate-vibid:1001000250449": 6,
+      "gas:candidate-vibid:1001000195081": 0,
+      "gas:candidate-vibid:1001000136062": 7,
+      "gas:candidate-vibid:1001000225943": 219,
+      "gas:candidate-vibid:342300366648": 4,
+      "special:against-all": 10
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=423003008&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=342300367336&region=0&sub_region=0&type=429",
@@ -11757,12 +11757,12 @@ export const duma_2003_uik_428_region_42_part_005 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Гульняшкин Александр Алексеевич": 2,
-      "Корыстов Альберт Александрович": 0,
-      "Красаков Андрей Валентинович": 11,
-      "Неверов Сергей Иванович": 204,
-      "Ямщикова Елена Николаевна": 21,
-      "Против всех": 16
+      "gas:candidate-vibid:1001000250449": 2,
+      "gas:candidate-vibid:1001000195081": 0,
+      "gas:candidate-vibid:1001000136062": 11,
+      "gas:candidate-vibid:1001000225943": 204,
+      "gas:candidate-vibid:342300366648": 21,
+      "special:against-all": 16
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=423003008&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=342300367336&region=0&sub_region=0&type=429",
@@ -11812,12 +11812,12 @@ export const duma_2003_uik_428_region_42_part_005 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Гульняшкин Александр Алексеевич": 6,
-      "Корыстов Альберт Александрович": 2,
-      "Красаков Андрей Валентинович": 17,
-      "Неверов Сергей Иванович": 674,
-      "Ямщикова Елена Николаевна": 35,
-      "Против всех": 36
+      "gas:candidate-vibid:1001000250449": 6,
+      "gas:candidate-vibid:1001000195081": 2,
+      "gas:candidate-vibid:1001000136062": 17,
+      "gas:candidate-vibid:1001000225943": 674,
+      "gas:candidate-vibid:342300366648": 35,
+      "special:against-all": 36
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=423003008&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=342300367336&region=0&sub_region=0&type=429",
@@ -11867,12 +11867,12 @@ export const duma_2003_uik_428_region_42_part_005 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Гульняшкин Александр Алексеевич": 9,
-      "Корыстов Альберт Александрович": 2,
-      "Красаков Андрей Валентинович": 33,
-      "Неверов Сергей Иванович": 1070,
-      "Ямщикова Елена Николаевна": 57,
-      "Против всех": 107
+      "gas:candidate-vibid:1001000250449": 9,
+      "gas:candidate-vibid:1001000195081": 2,
+      "gas:candidate-vibid:1001000136062": 33,
+      "gas:candidate-vibid:1001000225943": 1070,
+      "gas:candidate-vibid:342300366648": 57,
+      "special:against-all": 107
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=423003008&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=342300367336&region=0&sub_region=0&type=429",
@@ -11922,12 +11922,12 @@ export const duma_2003_uik_428_region_42_part_005 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Гульняшкин Александр Алексеевич": 6,
-      "Корыстов Альберт Александрович": 2,
-      "Красаков Андрей Валентинович": 25,
-      "Неверов Сергей Иванович": 411,
-      "Ямщикова Елена Николаевна": 27,
-      "Против всех": 29
+      "gas:candidate-vibid:1001000250449": 6,
+      "gas:candidate-vibid:1001000195081": 2,
+      "gas:candidate-vibid:1001000136062": 25,
+      "gas:candidate-vibid:1001000225943": 411,
+      "gas:candidate-vibid:342300366648": 27,
+      "special:against-all": 29
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=423003008&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=342300367336&region=0&sub_region=0&type=429",
@@ -11977,12 +11977,12 @@ export const duma_2003_uik_428_region_42_part_005 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Гульняшкин Александр Алексеевич": 10,
-      "Корыстов Альберт Александрович": 8,
-      "Красаков Андрей Валентинович": 54,
-      "Неверов Сергей Иванович": 840,
-      "Ямщикова Елена Николаевна": 75,
-      "Против всех": 103
+      "gas:candidate-vibid:1001000250449": 10,
+      "gas:candidate-vibid:1001000195081": 8,
+      "gas:candidate-vibid:1001000136062": 54,
+      "gas:candidate-vibid:1001000225943": 840,
+      "gas:candidate-vibid:342300366648": 75,
+      "special:against-all": 103
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=423003008&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=342300367336&region=0&sub_region=0&type=429",
@@ -12032,12 +12032,12 @@ export const duma_2003_uik_428_region_42_part_005 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Гульняшкин Александр Алексеевич": 10,
-      "Корыстов Альберт Александрович": 4,
-      "Красаков Андрей Валентинович": 120,
-      "Неверов Сергей Иванович": 1256,
-      "Ямщикова Елена Николаевна": 106,
-      "Против всех": 170
+      "gas:candidate-vibid:1001000250449": 10,
+      "gas:candidate-vibid:1001000195081": 4,
+      "gas:candidate-vibid:1001000136062": 120,
+      "gas:candidate-vibid:1001000225943": 1256,
+      "gas:candidate-vibid:342300366648": 106,
+      "special:against-all": 170
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=423003008&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=342300367336&region=0&sub_region=0&type=429",
@@ -12087,12 +12087,12 @@ export const duma_2003_uik_428_region_42_part_005 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Гульняшкин Александр Алексеевич": 10,
-      "Корыстов Альберт Александрович": 10,
-      "Красаков Андрей Валентинович": 65,
-      "Неверов Сергей Иванович": 1058,
-      "Ямщикова Елена Николаевна": 72,
-      "Против всех": 100
+      "gas:candidate-vibid:1001000250449": 10,
+      "gas:candidate-vibid:1001000195081": 10,
+      "gas:candidate-vibid:1001000136062": 65,
+      "gas:candidate-vibid:1001000225943": 1058,
+      "gas:candidate-vibid:342300366648": 72,
+      "special:against-all": 100
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=423003008&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=342300367336&region=0&sub_region=0&type=429",
@@ -12142,11 +12142,11 @@ export const duma_2003_uik_428_region_42_part_005 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Баловнев Владислав Петрович": 24,
-      "Овсянников Владимир Анатольевич": 33,
-      "Останина Нина Александровна": 520,
-      "Суродин Владимир Иванович": 7,
-      "Против всех": 39
+      "gas:candidate-vibid:342300466822": 24,
+      "gas:candidate-vibid:1001000136063": 33,
+      "gas:candidate-vibid:1001000121855": 520,
+      "gas:candidate-vibid:1001000195082": 7,
+      "special:against-all": 39
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=423004001&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=342300467001&region=0&sub_region=0&type=429",
@@ -12196,11 +12196,11 @@ export const duma_2003_uik_428_region_42_part_005 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Баловнев Владислав Петрович": 40,
-      "Овсянников Владимир Анатольевич": 49,
-      "Останина Нина Александровна": 538,
-      "Суродин Владимир Иванович": 6,
-      "Против всех": 49
+      "gas:candidate-vibid:342300466822": 40,
+      "gas:candidate-vibid:1001000136063": 49,
+      "gas:candidate-vibid:1001000121855": 538,
+      "gas:candidate-vibid:1001000195082": 6,
+      "special:against-all": 49
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=423004001&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=342300467001&region=0&sub_region=0&type=429",
@@ -12250,11 +12250,11 @@ export const duma_2003_uik_428_region_42_part_005 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Баловнев Владислав Петрович": 12,
-      "Овсянников Владимир Анатольевич": 2,
-      "Останина Нина Александровна": 125,
-      "Суродин Владимир Иванович": 0,
-      "Против всех": 13
+      "gas:candidate-vibid:342300466822": 12,
+      "gas:candidate-vibid:1001000136063": 2,
+      "gas:candidate-vibid:1001000121855": 125,
+      "gas:candidate-vibid:1001000195082": 0,
+      "special:against-all": 13
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=423004001&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=342300467001&region=0&sub_region=0&type=429",
@@ -12304,11 +12304,11 @@ export const duma_2003_uik_428_region_42_part_005 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Баловнев Владислав Петрович": 12,
-      "Овсянников Владимир Анатольевич": 12,
-      "Останина Нина Александровна": 411,
-      "Суродин Владимир Иванович": 1,
-      "Против всех": 32
+      "gas:candidate-vibid:342300466822": 12,
+      "gas:candidate-vibid:1001000136063": 12,
+      "gas:candidate-vibid:1001000121855": 411,
+      "gas:candidate-vibid:1001000195082": 1,
+      "special:against-all": 32
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=423004001&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=342300467001&region=0&sub_region=0&type=429",
@@ -12358,11 +12358,11 @@ export const duma_2003_uik_428_region_42_part_005 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Баловнев Владислав Петрович": 4,
-      "Овсянников Владимир Анатольевич": 4,
-      "Останина Нина Александровна": 90,
-      "Суродин Владимир Иванович": 2,
-      "Против всех": 1
+      "gas:candidate-vibid:342300466822": 4,
+      "gas:candidate-vibid:1001000136063": 4,
+      "gas:candidate-vibid:1001000121855": 90,
+      "gas:candidate-vibid:1001000195082": 2,
+      "special:against-all": 1
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=423004001&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=342300467001&region=0&sub_region=0&type=429",
@@ -12412,11 +12412,11 @@ export const duma_2003_uik_428_region_42_part_005 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Баловнев Владислав Петрович": 50,
-      "Овсянников Владимир Анатольевич": 27,
-      "Останина Нина Александровна": 394,
-      "Суродин Владимир Иванович": 5,
-      "Против всех": 33
+      "gas:candidate-vibid:342300466822": 50,
+      "gas:candidate-vibid:1001000136063": 27,
+      "gas:candidate-vibid:1001000121855": 394,
+      "gas:candidate-vibid:1001000195082": 5,
+      "special:against-all": 33
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=423004001&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=342300467001&region=0&sub_region=0&type=429",
@@ -12466,11 +12466,11 @@ export const duma_2003_uik_428_region_42_part_005 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Баловнев Владислав Петрович": 6,
-      "Овсянников Владимир Анатольевич": 12,
-      "Останина Нина Александровна": 132,
-      "Суродин Владимир Иванович": 2,
-      "Против всех": 19
+      "gas:candidate-vibid:342300466822": 6,
+      "gas:candidate-vibid:1001000136063": 12,
+      "gas:candidate-vibid:1001000121855": 132,
+      "gas:candidate-vibid:1001000195082": 2,
+      "special:against-all": 19
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=423004001&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=342300467001&region=0&sub_region=0&type=429",
@@ -12520,11 +12520,11 @@ export const duma_2003_uik_428_region_42_part_005 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Баловнев Владислав Петрович": 13,
-      "Овсянников Владимир Анатольевич": 23,
-      "Останина Нина Александровна": 525,
-      "Суродин Владимир Иванович": 9,
-      "Против всех": 18
+      "gas:candidate-vibid:342300466822": 13,
+      "gas:candidate-vibid:1001000136063": 23,
+      "gas:candidate-vibid:1001000121855": 525,
+      "gas:candidate-vibid:1001000195082": 9,
+      "special:against-all": 18
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=423004001&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=342300467001&region=0&sub_region=0&type=429",
@@ -12574,11 +12574,11 @@ export const duma_2003_uik_428_region_42_part_005 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Баловнев Владислав Петрович": 8,
-      "Овсянников Владимир Анатольевич": 19,
-      "Останина Нина Александровна": 258,
-      "Суродин Владимир Иванович": 4,
-      "Против всех": 9
+      "gas:candidate-vibid:342300466822": 8,
+      "gas:candidate-vibid:1001000136063": 19,
+      "gas:candidate-vibid:1001000121855": 258,
+      "gas:candidate-vibid:1001000195082": 4,
+      "special:against-all": 9
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=423004001&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=342300467001&region=0&sub_region=0&type=429",
@@ -12628,11 +12628,11 @@ export const duma_2003_uik_428_region_42_part_005 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Баловнев Владислав Петрович": 3,
-      "Овсянников Владимир Анатольевич": 11,
-      "Останина Нина Александровна": 182,
-      "Суродин Владимир Иванович": 1,
-      "Против всех": 7
+      "gas:candidate-vibid:342300466822": 3,
+      "gas:candidate-vibid:1001000136063": 11,
+      "gas:candidate-vibid:1001000121855": 182,
+      "gas:candidate-vibid:1001000195082": 1,
+      "special:against-all": 7
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=423004001&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=342300467001&region=0&sub_region=0&type=429",
@@ -12682,11 +12682,11 @@ export const duma_2003_uik_428_region_42_part_005 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Баловнев Владислав Петрович": 0,
-      "Овсянников Владимир Анатольевич": 7,
-      "Останина Нина Александровна": 115,
-      "Суродин Владимир Иванович": 0,
-      "Против всех": 6
+      "gas:candidate-vibid:342300466822": 0,
+      "gas:candidate-vibid:1001000136063": 7,
+      "gas:candidate-vibid:1001000121855": 115,
+      "gas:candidate-vibid:1001000195082": 0,
+      "special:against-all": 6
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=423004001&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=342300467001&region=0&sub_region=0&type=429",
@@ -12736,11 +12736,11 @@ export const duma_2003_uik_428_region_42_part_005 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Баловнев Владислав Петрович": 6,
-      "Овсянников Владимир Анатольевич": 16,
-      "Останина Нина Александровна": 256,
-      "Суродин Владимир Иванович": 0,
-      "Против всех": 21
+      "gas:candidate-vibid:342300466822": 6,
+      "gas:candidate-vibid:1001000136063": 16,
+      "gas:candidate-vibid:1001000121855": 256,
+      "gas:candidate-vibid:1001000195082": 0,
+      "special:against-all": 21
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=423004001&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=342300467001&region=0&sub_region=0&type=429",
@@ -12790,11 +12790,11 @@ export const duma_2003_uik_428_region_42_part_005 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Баловнев Владислав Петрович": 2,
-      "Овсянников Владимир Анатольевич": 14,
-      "Останина Нина Александровна": 207,
-      "Суродин Владимир Иванович": 0,
-      "Против всех": 15
+      "gas:candidate-vibid:342300466822": 2,
+      "gas:candidate-vibid:1001000136063": 14,
+      "gas:candidate-vibid:1001000121855": 207,
+      "gas:candidate-vibid:1001000195082": 0,
+      "special:against-all": 15
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=423004001&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=342300467001&region=0&sub_region=0&type=429",
@@ -12844,11 +12844,11 @@ export const duma_2003_uik_428_region_42_part_005 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Баловнев Владислав Петрович": 7,
-      "Овсянников Владимир Анатольевич": 9,
-      "Останина Нина Александровна": 85,
-      "Суродин Владимир Иванович": 1,
-      "Против всех": 6
+      "gas:candidate-vibid:342300466822": 7,
+      "gas:candidate-vibid:1001000136063": 9,
+      "gas:candidate-vibid:1001000121855": 85,
+      "gas:candidate-vibid:1001000195082": 1,
+      "special:against-all": 6
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=423004001&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=342300467001&region=0&sub_region=0&type=429",
@@ -12898,11 +12898,11 @@ export const duma_2003_uik_428_region_42_part_005 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Баловнев Владислав Петрович": 20,
-      "Овсянников Владимир Анатольевич": 27,
-      "Останина Нина Александровна": 390,
-      "Суродин Владимир Иванович": 5,
-      "Против всех": 18
+      "gas:candidate-vibid:342300466822": 20,
+      "gas:candidate-vibid:1001000136063": 27,
+      "gas:candidate-vibid:1001000121855": 390,
+      "gas:candidate-vibid:1001000195082": 5,
+      "special:against-all": 18
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=423004001&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=342300467001&region=0&sub_region=0&type=429",
@@ -12952,11 +12952,11 @@ export const duma_2003_uik_428_region_42_part_005 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Баловнев Владислав Петрович": 5,
-      "Овсянников Владимир Анатольевич": 1,
-      "Останина Нина Александровна": 100,
-      "Суродин Владимир Иванович": 0,
-      "Против всех": 1
+      "gas:candidate-vibid:342300466822": 5,
+      "gas:candidate-vibid:1001000136063": 1,
+      "gas:candidate-vibid:1001000121855": 100,
+      "gas:candidate-vibid:1001000195082": 0,
+      "special:against-all": 1
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=423004001&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=342300467001&region=0&sub_region=0&type=429",
@@ -13006,11 +13006,11 @@ export const duma_2003_uik_428_region_42_part_005 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Баловнев Владислав Петрович": 24,
-      "Овсянников Владимир Анатольевич": 15,
-      "Останина Нина Александровна": 175,
-      "Суродин Владимир Иванович": 2,
-      "Против всех": 19
+      "gas:candidate-vibid:342300466822": 24,
+      "gas:candidate-vibid:1001000136063": 15,
+      "gas:candidate-vibid:1001000121855": 175,
+      "gas:candidate-vibid:1001000195082": 2,
+      "special:against-all": 19
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=423004001&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=342300467001&region=0&sub_region=0&type=429",
@@ -13060,11 +13060,11 @@ export const duma_2003_uik_428_region_42_part_005 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Баловнев Владислав Петрович": 1,
-      "Овсянников Владимир Анатольевич": 5,
-      "Останина Нина Александровна": 68,
-      "Суродин Владимир Иванович": 1,
-      "Против всех": 3
+      "gas:candidate-vibid:342300466822": 1,
+      "gas:candidate-vibid:1001000136063": 5,
+      "gas:candidate-vibid:1001000121855": 68,
+      "gas:candidate-vibid:1001000195082": 1,
+      "special:against-all": 3
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=423004001&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=342300467001&region=0&sub_region=0&type=429",
@@ -13114,11 +13114,11 @@ export const duma_2003_uik_428_region_42_part_005 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Баловнев Владислав Петрович": 0,
-      "Овсянников Владимир Анатольевич": 8,
-      "Останина Нина Александровна": 127,
-      "Суродин Владимир Иванович": 0,
-      "Против всех": 10
+      "gas:candidate-vibid:342300466822": 0,
+      "gas:candidate-vibid:1001000136063": 8,
+      "gas:candidate-vibid:1001000121855": 127,
+      "gas:candidate-vibid:1001000195082": 0,
+      "special:against-all": 10
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=423004001&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=342300467001&region=0&sub_region=0&type=429",
@@ -13168,11 +13168,11 @@ export const duma_2003_uik_428_region_42_part_005 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Баловнев Владислав Петрович": 4,
-      "Овсянников Владимир Анатольевич": 0,
-      "Останина Нина Александровна": 101,
-      "Суродин Владимир Иванович": 3,
-      "Против всех": 5
+      "gas:candidate-vibid:342300466822": 4,
+      "gas:candidate-vibid:1001000136063": 0,
+      "gas:candidate-vibid:1001000121855": 101,
+      "gas:candidate-vibid:1001000195082": 3,
+      "special:against-all": 5
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=423004001&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=342300467001&region=0&sub_region=0&type=429",
@@ -13222,11 +13222,11 @@ export const duma_2003_uik_428_region_42_part_005 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Баловнев Владислав Петрович": 0,
-      "Овсянников Владимир Анатольевич": 3,
-      "Останина Нина Александровна": 89,
-      "Суродин Владимир Иванович": 0,
-      "Против всех": 10
+      "gas:candidate-vibid:342300466822": 0,
+      "gas:candidate-vibid:1001000136063": 3,
+      "gas:candidate-vibid:1001000121855": 89,
+      "gas:candidate-vibid:1001000195082": 0,
+      "special:against-all": 10
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=423004001&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=342300467001&region=0&sub_region=0&type=429",
@@ -13276,11 +13276,11 @@ export const duma_2003_uik_428_region_42_part_005 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Баловнев Владислав Петрович": 86,
-      "Овсянников Владимир Анатольевич": 57,
-      "Останина Нина Александровна": 426,
-      "Суродин Владимир Иванович": 5,
-      "Против всех": 38
+      "gas:candidate-vibid:342300466822": 86,
+      "gas:candidate-vibid:1001000136063": 57,
+      "gas:candidate-vibid:1001000121855": 426,
+      "gas:candidate-vibid:1001000195082": 5,
+      "special:against-all": 38
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=423004002&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=342300467002&region=0&sub_region=0&type=429",
@@ -13330,11 +13330,11 @@ export const duma_2003_uik_428_region_42_part_005 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Баловнев Владислав Петрович": 49,
-      "Овсянников Владимир Анатольевич": 37,
-      "Останина Нина Александровна": 304,
-      "Суродин Владимир Иванович": 7,
-      "Против всех": 30
+      "gas:candidate-vibid:342300466822": 49,
+      "gas:candidate-vibid:1001000136063": 37,
+      "gas:candidate-vibid:1001000121855": 304,
+      "gas:candidate-vibid:1001000195082": 7,
+      "special:against-all": 30
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=423004002&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=342300467002&region=0&sub_region=0&type=429",
@@ -13384,11 +13384,11 @@ export const duma_2003_uik_428_region_42_part_005 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Баловнев Владислав Петрович": 31,
-      "Овсянников Владимир Анатольевич": 88,
-      "Останина Нина Александровна": 511,
-      "Суродин Владимир Иванович": 6,
-      "Против всех": 48
+      "gas:candidate-vibid:342300466822": 31,
+      "gas:candidate-vibid:1001000136063": 88,
+      "gas:candidate-vibid:1001000121855": 511,
+      "gas:candidate-vibid:1001000195082": 6,
+      "special:against-all": 48
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=423004002&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=342300467002&region=0&sub_region=0&type=429",
@@ -13438,11 +13438,11 @@ export const duma_2003_uik_428_region_42_part_005 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Баловнев Владислав Петрович": 48,
-      "Овсянников Владимир Анатольевич": 59,
-      "Останина Нина Александровна": 428,
-      "Суродин Владимир Иванович": 10,
-      "Против всех": 51
+      "gas:candidate-vibid:342300466822": 48,
+      "gas:candidate-vibid:1001000136063": 59,
+      "gas:candidate-vibid:1001000121855": 428,
+      "gas:candidate-vibid:1001000195082": 10,
+      "special:against-all": 51
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=423004002&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=342300467002&region=0&sub_region=0&type=429",
@@ -13492,11 +13492,11 @@ export const duma_2003_uik_428_region_42_part_005 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Баловнев Владислав Петрович": 56,
-      "Овсянников Владимир Анатольевич": 76,
-      "Останина Нина Александровна": 550,
-      "Суродин Владимир Иванович": 8,
-      "Против всех": 98
+      "gas:candidate-vibid:342300466822": 56,
+      "gas:candidate-vibid:1001000136063": 76,
+      "gas:candidate-vibid:1001000121855": 550,
+      "gas:candidate-vibid:1001000195082": 8,
+      "special:against-all": 98
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=423004002&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=342300467002&region=0&sub_region=0&type=429",
@@ -13546,11 +13546,11 @@ export const duma_2003_uik_428_region_42_part_005 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Баловнев Владислав Петрович": 42,
-      "Овсянников Владимир Анатольевич": 56,
-      "Останина Нина Александровна": 325,
-      "Суродин Владимир Иванович": 9,
-      "Против всех": 53
+      "gas:candidate-vibid:342300466822": 42,
+      "gas:candidate-vibid:1001000136063": 56,
+      "gas:candidate-vibid:1001000121855": 325,
+      "gas:candidate-vibid:1001000195082": 9,
+      "special:against-all": 53
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=423004002&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=342300467002&region=0&sub_region=0&type=429",
@@ -13600,11 +13600,11 @@ export const duma_2003_uik_428_region_42_part_005 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Баловнев Владислав Петрович": 121,
-      "Овсянников Владимир Анатольевич": 78,
-      "Останина Нина Александровна": 761,
-      "Суродин Владимир Иванович": 7,
-      "Против всех": 135
+      "gas:candidate-vibid:342300466822": 121,
+      "gas:candidate-vibid:1001000136063": 78,
+      "gas:candidate-vibid:1001000121855": 761,
+      "gas:candidate-vibid:1001000195082": 7,
+      "special:against-all": 135
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=423004002&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=342300467002&region=0&sub_region=0&type=429",
@@ -13654,11 +13654,11 @@ export const duma_2003_uik_428_region_42_part_005 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Баловнев Владислав Петрович": 79,
-      "Овсянников Владимир Анатольевич": 52,
-      "Останина Нина Александровна": 594,
-      "Суродин Владимир Иванович": 6,
-      "Против всех": 65
+      "gas:candidate-vibid:342300466822": 79,
+      "gas:candidate-vibid:1001000136063": 52,
+      "gas:candidate-vibid:1001000121855": 594,
+      "gas:candidate-vibid:1001000195082": 6,
+      "special:against-all": 65
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=423004002&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=342300467002&region=0&sub_region=0&type=429",
@@ -13708,11 +13708,11 @@ export const duma_2003_uik_428_region_42_part_005 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Баловнев Владислав Петрович": 103,
-      "Овсянников Владимир Анатольевич": 64,
-      "Останина Нина Александровна": 347,
-      "Суродин Владимир Иванович": 11,
-      "Против всех": 79
+      "gas:candidate-vibid:342300466822": 103,
+      "gas:candidate-vibid:1001000136063": 64,
+      "gas:candidate-vibid:1001000121855": 347,
+      "gas:candidate-vibid:1001000195082": 11,
+      "special:against-all": 79
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=423004002&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=342300467002&region=0&sub_region=0&type=429",

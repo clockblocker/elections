@@ -42,13 +42,13 @@ export const duma_2003_uik_428_region_54_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Гвоздев Анатолий Викторович": 6,
-      "Каргаполов Юрий Сидорович": 5,
-      "Логинов Евгений Леонидович": 36,
-      "Мельниченко Наталья Владимировна": 7,
-      "Миронов Борис Сергеевич": 13,
-      "Харитонов Николай Михайлович": 184,
-      "Против всех": 26
+      "gas:candidate-vibid:1001000113957": 6,
+      "gas:candidate-vibid:354300166795": 5,
+      "gas:candidate-vibid:1001000136089": 36,
+      "gas:candidate-vibid:1001000217940": 7,
+      "gas:candidate-vibid:354300166792": 13,
+      "gas:candidate-vibid:1001000121879": 184,
+      "special:against-all": 26
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=543001023&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=354300167042&region=0&sub_region=0&type=429",
@@ -98,13 +98,13 @@ export const duma_2003_uik_428_region_54_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Гвоздев Анатолий Викторович": 6,
-      "Каргаполов Юрий Сидорович": 2,
-      "Логинов Евгений Леонидович": 14,
-      "Мельниченко Наталья Владимировна": 10,
-      "Миронов Борис Сергеевич": 3,
-      "Харитонов Николай Михайлович": 101,
-      "Против всех": 35
+      "gas:candidate-vibid:1001000113957": 6,
+      "gas:candidate-vibid:354300166795": 2,
+      "gas:candidate-vibid:1001000136089": 14,
+      "gas:candidate-vibid:1001000217940": 10,
+      "gas:candidate-vibid:354300166792": 3,
+      "gas:candidate-vibid:1001000121879": 101,
+      "special:against-all": 35
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=543001023&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=354300167042&region=0&sub_region=0&type=429",
@@ -154,13 +154,13 @@ export const duma_2003_uik_428_region_54_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Гвоздев Анатолий Викторович": 9,
-      "Каргаполов Юрий Сидорович": 5,
-      "Логинов Евгений Леонидович": 15,
-      "Мельниченко Наталья Владимировна": 6,
-      "Миронов Борис Сергеевич": 1,
-      "Харитонов Николай Михайлович": 26,
-      "Против всех": 26
+      "gas:candidate-vibid:1001000113957": 9,
+      "gas:candidate-vibid:354300166795": 5,
+      "gas:candidate-vibid:1001000136089": 15,
+      "gas:candidate-vibid:1001000217940": 6,
+      "gas:candidate-vibid:354300166792": 1,
+      "gas:candidate-vibid:1001000121879": 26,
+      "special:against-all": 26
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=543001023&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=354300167042&region=0&sub_region=0&type=429",
@@ -210,13 +210,13 @@ export const duma_2003_uik_428_region_54_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Гвоздев Анатолий Викторович": 2,
-      "Каргаполов Юрий Сидорович": 2,
-      "Логинов Евгений Леонидович": 5,
-      "Мельниченко Наталья Владимировна": 6,
-      "Миронов Борис Сергеевич": 23,
-      "Харитонов Николай Михайлович": 33,
-      "Против всех": 6
+      "gas:candidate-vibid:1001000113957": 2,
+      "gas:candidate-vibid:354300166795": 2,
+      "gas:candidate-vibid:1001000136089": 5,
+      "gas:candidate-vibid:1001000217940": 6,
+      "gas:candidate-vibid:354300166792": 23,
+      "gas:candidate-vibid:1001000121879": 33,
+      "special:against-all": 6
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=543001023&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=354300167042&region=0&sub_region=0&type=429",
@@ -266,13 +266,13 @@ export const duma_2003_uik_428_region_54_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Гвоздев Анатолий Викторович": 4,
-      "Каргаполов Юрий Сидорович": 9,
-      "Логинов Евгений Леонидович": 23,
-      "Мельниченко Наталья Владимировна": 6,
-      "Миронов Борис Сергеевич": 2,
-      "Харитонов Николай Михайлович": 96,
-      "Против всех": 6
+      "gas:candidate-vibid:1001000113957": 4,
+      "gas:candidate-vibid:354300166795": 9,
+      "gas:candidate-vibid:1001000136089": 23,
+      "gas:candidate-vibid:1001000217940": 6,
+      "gas:candidate-vibid:354300166792": 2,
+      "gas:candidate-vibid:1001000121879": 96,
+      "special:against-all": 6
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=543001023&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=354300167042&region=0&sub_region=0&type=429",
@@ -322,13 +322,13 @@ export const duma_2003_uik_428_region_54_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Гвоздев Анатолий Викторович": 4,
-      "Каргаполов Юрий Сидорович": 11,
-      "Логинов Евгений Леонидович": 18,
-      "Мельниченко Наталья Владимировна": 19,
-      "Миронов Борис Сергеевич": 7,
-      "Харитонов Николай Михайлович": 204,
-      "Против всех": 11
+      "gas:candidate-vibid:1001000113957": 4,
+      "gas:candidate-vibid:354300166795": 11,
+      "gas:candidate-vibid:1001000136089": 18,
+      "gas:candidate-vibid:1001000217940": 19,
+      "gas:candidate-vibid:354300166792": 7,
+      "gas:candidate-vibid:1001000121879": 204,
+      "special:against-all": 11
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=543001023&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=354300167042&region=0&sub_region=0&type=429",
@@ -378,13 +378,13 @@ export const duma_2003_uik_428_region_54_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Гвоздев Анатолий Викторович": 1,
-      "Каргаполов Юрий Сидорович": 0,
-      "Логинов Евгений Леонидович": 5,
-      "Мельниченко Наталья Владимировна": 7,
-      "Миронов Борис Сергеевич": 0,
-      "Харитонов Николай Михайлович": 99,
-      "Против всех": 10
+      "gas:candidate-vibid:1001000113957": 1,
+      "gas:candidate-vibid:354300166795": 0,
+      "gas:candidate-vibid:1001000136089": 5,
+      "gas:candidate-vibid:1001000217940": 7,
+      "gas:candidate-vibid:354300166792": 0,
+      "gas:candidate-vibid:1001000121879": 99,
+      "special:against-all": 10
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=543001023&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=354300167042&region=0&sub_region=0&type=429",
@@ -434,13 +434,13 @@ export const duma_2003_uik_428_region_54_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Гвоздев Анатолий Викторович": 3,
-      "Каргаполов Юрий Сидорович": 33,
-      "Логинов Евгений Леонидович": 31,
-      "Мельниченко Наталья Владимировна": 7,
-      "Миронов Борис Сергеевич": 4,
-      "Харитонов Николай Михайлович": 80,
-      "Против всех": 14
+      "gas:candidate-vibid:1001000113957": 3,
+      "gas:candidate-vibid:354300166795": 33,
+      "gas:candidate-vibid:1001000136089": 31,
+      "gas:candidate-vibid:1001000217940": 7,
+      "gas:candidate-vibid:354300166792": 4,
+      "gas:candidate-vibid:1001000121879": 80,
+      "special:against-all": 14
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=543001023&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=354300167042&region=0&sub_region=0&type=429",
@@ -490,13 +490,13 @@ export const duma_2003_uik_428_region_54_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Гвоздев Анатолий Викторович": 6,
-      "Каргаполов Юрий Сидорович": 6,
-      "Логинов Евгений Леонидович": 43,
-      "Мельниченко Наталья Владимировна": 47,
-      "Миронов Борис Сергеевич": 5,
-      "Харитонов Николай Михайлович": 222,
-      "Против всех": 36
+      "gas:candidate-vibid:1001000113957": 6,
+      "gas:candidate-vibid:354300166795": 6,
+      "gas:candidate-vibid:1001000136089": 43,
+      "gas:candidate-vibid:1001000217940": 47,
+      "gas:candidate-vibid:354300166792": 5,
+      "gas:candidate-vibid:1001000121879": 222,
+      "special:against-all": 36
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=543001023&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=354300167042&region=0&sub_region=0&type=429",
@@ -546,13 +546,13 @@ export const duma_2003_uik_428_region_54_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Гвоздев Анатолий Викторович": 4,
-      "Каргаполов Юрий Сидорович": 1,
-      "Логинов Евгений Леонидович": 6,
-      "Мельниченко Наталья Владимировна": 5,
-      "Миронов Борис Сергеевич": 4,
-      "Харитонов Николай Михайлович": 77,
-      "Против всех": 21
+      "gas:candidate-vibid:1001000113957": 4,
+      "gas:candidate-vibid:354300166795": 1,
+      "gas:candidate-vibid:1001000136089": 6,
+      "gas:candidate-vibid:1001000217940": 5,
+      "gas:candidate-vibid:354300166792": 4,
+      "gas:candidate-vibid:1001000121879": 77,
+      "special:against-all": 21
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=543001023&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=354300167042&region=0&sub_region=0&type=429",
@@ -602,13 +602,13 @@ export const duma_2003_uik_428_region_54_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Гвоздев Анатолий Викторович": 8,
-      "Каргаполов Юрий Сидорович": 4,
-      "Логинов Евгений Леонидович": 9,
-      "Мельниченко Наталья Владимировна": 40,
-      "Миронов Борис Сергеевич": 9,
-      "Харитонов Николай Михайлович": 118,
-      "Против всех": 10
+      "gas:candidate-vibid:1001000113957": 8,
+      "gas:candidate-vibid:354300166795": 4,
+      "gas:candidate-vibid:1001000136089": 9,
+      "gas:candidate-vibid:1001000217940": 40,
+      "gas:candidate-vibid:354300166792": 9,
+      "gas:candidate-vibid:1001000121879": 118,
+      "special:against-all": 10
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=543001023&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=354300167042&region=0&sub_region=0&type=429",
@@ -658,13 +658,13 @@ export const duma_2003_uik_428_region_54_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Гвоздев Анатолий Викторович": 0,
-      "Каргаполов Юрий Сидорович": 5,
-      "Логинов Евгений Леонидович": 18,
-      "Мельниченко Наталья Владимировна": 2,
-      "Миронов Борис Сергеевич": 1,
-      "Харитонов Николай Михайлович": 64,
-      "Против всех": 14
+      "gas:candidate-vibid:1001000113957": 0,
+      "gas:candidate-vibid:354300166795": 5,
+      "gas:candidate-vibid:1001000136089": 18,
+      "gas:candidate-vibid:1001000217940": 2,
+      "gas:candidate-vibid:354300166792": 1,
+      "gas:candidate-vibid:1001000121879": 64,
+      "special:against-all": 14
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=543001023&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=354300167042&region=0&sub_region=0&type=429",
@@ -714,13 +714,13 @@ export const duma_2003_uik_428_region_54_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Гвоздев Анатолий Викторович": 13,
-      "Каргаполов Юрий Сидорович": 8,
-      "Логинов Евгений Леонидович": 18,
-      "Мельниченко Наталья Владимировна": 15,
-      "Миронов Борис Сергеевич": 4,
-      "Харитонов Николай Михайлович": 77,
-      "Против всех": 24
+      "gas:candidate-vibid:1001000113957": 13,
+      "gas:candidate-vibid:354300166795": 8,
+      "gas:candidate-vibid:1001000136089": 18,
+      "gas:candidate-vibid:1001000217940": 15,
+      "gas:candidate-vibid:354300166792": 4,
+      "gas:candidate-vibid:1001000121879": 77,
+      "special:against-all": 24
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=543001023&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=354300167042&region=0&sub_region=0&type=429",
@@ -770,13 +770,13 @@ export const duma_2003_uik_428_region_54_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Гвоздев Анатолий Викторович": 10,
-      "Каргаполов Юрий Сидорович": 7,
-      "Логинов Евгений Леонидович": 43,
-      "Мельниченко Наталья Владимировна": 23,
-      "Миронов Борис Сергеевич": 9,
-      "Харитонов Николай Михайлович": 243,
-      "Против всех": 43
+      "gas:candidate-vibid:1001000113957": 10,
+      "gas:candidate-vibid:354300166795": 7,
+      "gas:candidate-vibid:1001000136089": 43,
+      "gas:candidate-vibid:1001000217940": 23,
+      "gas:candidate-vibid:354300166792": 9,
+      "gas:candidate-vibid:1001000121879": 243,
+      "special:against-all": 43
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=543001023&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=354300167042&region=0&sub_region=0&type=429",
@@ -826,13 +826,13 @@ export const duma_2003_uik_428_region_54_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Гвоздев Анатолий Викторович": 1,
-      "Каргаполов Юрий Сидорович": 7,
-      "Логинов Евгений Леонидович": 20,
-      "Мельниченко Наталья Владимировна": 4,
-      "Миронов Борис Сергеевич": 3,
-      "Харитонов Николай Михайлович": 68,
-      "Против всех": 11
+      "gas:candidate-vibid:1001000113957": 1,
+      "gas:candidate-vibid:354300166795": 7,
+      "gas:candidate-vibid:1001000136089": 20,
+      "gas:candidate-vibid:1001000217940": 4,
+      "gas:candidate-vibid:354300166792": 3,
+      "gas:candidate-vibid:1001000121879": 68,
+      "special:against-all": 11
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=543001023&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=354300167042&region=0&sub_region=0&type=429",
@@ -882,13 +882,13 @@ export const duma_2003_uik_428_region_54_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Гвоздев Анатолий Викторович": 12,
-      "Каргаполов Юрий Сидорович": 14,
-      "Логинов Евгений Леонидович": 31,
-      "Мельниченко Наталья Владимировна": 21,
-      "Миронов Борис Сергеевич": 1,
-      "Харитонов Николай Михайлович": 70,
-      "Против всех": 10
+      "gas:candidate-vibid:1001000113957": 12,
+      "gas:candidate-vibid:354300166795": 14,
+      "gas:candidate-vibid:1001000136089": 31,
+      "gas:candidate-vibid:1001000217940": 21,
+      "gas:candidate-vibid:354300166792": 1,
+      "gas:candidate-vibid:1001000121879": 70,
+      "special:against-all": 10
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=543001023&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=354300167042&region=0&sub_region=0&type=429",
@@ -938,13 +938,13 @@ export const duma_2003_uik_428_region_54_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Гвоздев Анатолий Викторович": 10,
-      "Каргаполов Юрий Сидорович": 4,
-      "Логинов Евгений Леонидович": 19,
-      "Мельниченко Наталья Владимировна": 15,
-      "Миронов Борис Сергеевич": 3,
-      "Харитонов Николай Михайлович": 67,
-      "Против всех": 29
+      "gas:candidate-vibid:1001000113957": 10,
+      "gas:candidate-vibid:354300166795": 4,
+      "gas:candidate-vibid:1001000136089": 19,
+      "gas:candidate-vibid:1001000217940": 15,
+      "gas:candidate-vibid:354300166792": 3,
+      "gas:candidate-vibid:1001000121879": 67,
+      "special:against-all": 29
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=543001023&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=354300167042&region=0&sub_region=0&type=429",
@@ -994,13 +994,13 @@ export const duma_2003_uik_428_region_54_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Гвоздев Анатолий Викторович": 9,
-      "Каргаполов Юрий Сидорович": 18,
-      "Логинов Евгений Леонидович": 30,
-      "Мельниченко Наталья Владимировна": 18,
-      "Миронов Борис Сергеевич": 15,
-      "Харитонов Николай Михайлович": 233,
-      "Против всех": 36
+      "gas:candidate-vibid:1001000113957": 9,
+      "gas:candidate-vibid:354300166795": 18,
+      "gas:candidate-vibid:1001000136089": 30,
+      "gas:candidate-vibid:1001000217940": 18,
+      "gas:candidate-vibid:354300166792": 15,
+      "gas:candidate-vibid:1001000121879": 233,
+      "special:against-all": 36
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=543001023&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=354300167042&region=0&sub_region=0&type=429",
@@ -1050,13 +1050,13 @@ export const duma_2003_uik_428_region_54_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Гвоздев Анатолий Викторович": 5,
-      "Каргаполов Юрий Сидорович": 5,
-      "Логинов Евгений Леонидович": 21,
-      "Мельниченко Наталья Владимировна": 6,
-      "Миронов Борис Сергеевич": 1,
-      "Харитонов Николай Михайлович": 23,
-      "Против всех": 10
+      "gas:candidate-vibid:1001000113957": 5,
+      "gas:candidate-vibid:354300166795": 5,
+      "gas:candidate-vibid:1001000136089": 21,
+      "gas:candidate-vibid:1001000217940": 6,
+      "gas:candidate-vibid:354300166792": 1,
+      "gas:candidate-vibid:1001000121879": 23,
+      "special:against-all": 10
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=543001023&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=354300167042&region=0&sub_region=0&type=429",
@@ -1106,13 +1106,13 @@ export const duma_2003_uik_428_region_54_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Гвоздев Анатолий Викторович": 1,
-      "Каргаполов Юрий Сидорович": 0,
-      "Логинов Евгений Леонидович": 2,
-      "Мельниченко Наталья Владимировна": 0,
-      "Миронов Борис Сергеевич": 1,
-      "Харитонов Николай Михайлович": 50,
-      "Против всех": 11
+      "gas:candidate-vibid:1001000113957": 1,
+      "gas:candidate-vibid:354300166795": 0,
+      "gas:candidate-vibid:1001000136089": 2,
+      "gas:candidate-vibid:1001000217940": 0,
+      "gas:candidate-vibid:354300166792": 1,
+      "gas:candidate-vibid:1001000121879": 50,
+      "special:against-all": 11
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=543001023&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=354300167042&region=0&sub_region=0&type=429",
@@ -1162,13 +1162,13 @@ export const duma_2003_uik_428_region_54_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Гвоздев Анатолий Викторович": 15,
-      "Каргаполов Юрий Сидорович": 7,
-      "Логинов Евгений Леонидович": 24,
-      "Мельниченко Наталья Владимировна": 9,
-      "Миронов Борис Сергеевич": 22,
-      "Харитонов Николай Михайлович": 218,
-      "Против всех": 15
+      "gas:candidate-vibid:1001000113957": 15,
+      "gas:candidate-vibid:354300166795": 7,
+      "gas:candidate-vibid:1001000136089": 24,
+      "gas:candidate-vibid:1001000217940": 9,
+      "gas:candidate-vibid:354300166792": 22,
+      "gas:candidate-vibid:1001000121879": 218,
+      "special:against-all": 15
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=543001023&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=354300167042&region=0&sub_region=0&type=429",
@@ -1218,13 +1218,13 @@ export const duma_2003_uik_428_region_54_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Гвоздев Анатолий Викторович": 2,
-      "Каргаполов Юрий Сидорович": 2,
-      "Логинов Евгений Леонидович": 4,
-      "Мельниченко Наталья Владимировна": 3,
-      "Миронов Борис Сергеевич": 5,
-      "Харитонов Николай Михайлович": 71,
-      "Против всех": 5
+      "gas:candidate-vibid:1001000113957": 2,
+      "gas:candidate-vibid:354300166795": 2,
+      "gas:candidate-vibid:1001000136089": 4,
+      "gas:candidate-vibid:1001000217940": 3,
+      "gas:candidate-vibid:354300166792": 5,
+      "gas:candidate-vibid:1001000121879": 71,
+      "special:against-all": 5
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=543001023&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=354300167042&region=0&sub_region=0&type=429",
@@ -1274,13 +1274,13 @@ export const duma_2003_uik_428_region_54_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Гвоздев Анатолий Викторович": 7,
-      "Каргаполов Юрий Сидорович": 2,
-      "Логинов Евгений Леонидович": 28,
-      "Мельниченко Наталья Владимировна": 10,
-      "Миронов Борис Сергеевич": 6,
-      "Харитонов Николай Михайлович": 40,
-      "Против всех": 23
+      "gas:candidate-vibid:1001000113957": 7,
+      "gas:candidate-vibid:354300166795": 2,
+      "gas:candidate-vibid:1001000136089": 28,
+      "gas:candidate-vibid:1001000217940": 10,
+      "gas:candidate-vibid:354300166792": 6,
+      "gas:candidate-vibid:1001000121879": 40,
+      "special:against-all": 23
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=543001023&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=354300167042&region=0&sub_region=0&type=429",
@@ -1330,13 +1330,13 @@ export const duma_2003_uik_428_region_54_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Гвоздев Анатолий Викторович": 22,
-      "Каргаполов Юрий Сидорович": 43,
-      "Логинов Евгений Леонидович": 52,
-      "Мельниченко Наталья Владимировна": 70,
-      "Миронов Борис Сергеевич": 33,
-      "Харитонов Николай Михайлович": 297,
-      "Против всех": 49
+      "gas:candidate-vibid:1001000113957": 22,
+      "gas:candidate-vibid:354300166795": 43,
+      "gas:candidate-vibid:1001000136089": 52,
+      "gas:candidate-vibid:1001000217940": 70,
+      "gas:candidate-vibid:354300166792": 33,
+      "gas:candidate-vibid:1001000121879": 297,
+      "special:against-all": 49
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=543001023&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=354300167042&region=0&sub_region=0&type=429",
@@ -1386,13 +1386,13 @@ export const duma_2003_uik_428_region_54_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Гвоздев Анатолий Викторович": 16,
-      "Каргаполов Юрий Сидорович": 12,
-      "Логинов Евгений Леонидович": 65,
-      "Мельниченко Наталья Владимировна": 26,
-      "Миронов Борис Сергеевич": 7,
-      "Харитонов Николай Михайлович": 214,
-      "Против всех": 60
+      "gas:candidate-vibid:1001000113957": 16,
+      "gas:candidate-vibid:354300166795": 12,
+      "gas:candidate-vibid:1001000136089": 65,
+      "gas:candidate-vibid:1001000217940": 26,
+      "gas:candidate-vibid:354300166792": 7,
+      "gas:candidate-vibid:1001000121879": 214,
+      "special:against-all": 60
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=543001023&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=354300167042&region=0&sub_region=0&type=429",
@@ -1442,13 +1442,13 @@ export const duma_2003_uik_428_region_54_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Гвоздев Анатолий Викторович": 18,
-      "Каргаполов Юрий Сидорович": 19,
-      "Логинов Евгений Леонидович": 28,
-      "Мельниченко Наталья Владимировна": 21,
-      "Миронов Борис Сергеевич": 8,
-      "Харитонов Николай Михайлович": 235,
-      "Против всех": 33
+      "gas:candidate-vibid:1001000113957": 18,
+      "gas:candidate-vibid:354300166795": 19,
+      "gas:candidate-vibid:1001000136089": 28,
+      "gas:candidate-vibid:1001000217940": 21,
+      "gas:candidate-vibid:354300166792": 8,
+      "gas:candidate-vibid:1001000121879": 235,
+      "special:against-all": 33
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=543001023&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=354300167042&region=0&sub_region=0&type=429",
@@ -1498,13 +1498,13 @@ export const duma_2003_uik_428_region_54_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Гвоздев Анатолий Викторович": 5,
-      "Каргаполов Юрий Сидорович": 7,
-      "Логинов Евгений Леонидович": 36,
-      "Мельниченко Наталья Владимировна": 10,
-      "Миронов Борис Сергеевич": 5,
-      "Харитонов Николай Михайлович": 82,
-      "Против всех": 18
+      "gas:candidate-vibid:1001000113957": 5,
+      "gas:candidate-vibid:354300166795": 7,
+      "gas:candidate-vibid:1001000136089": 36,
+      "gas:candidate-vibid:1001000217940": 10,
+      "gas:candidate-vibid:354300166792": 5,
+      "gas:candidate-vibid:1001000121879": 82,
+      "special:against-all": 18
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=543001023&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=354300167042&region=0&sub_region=0&type=429",
@@ -1554,13 +1554,13 @@ export const duma_2003_uik_428_region_54_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Гвоздев Анатолий Викторович": 2,
-      "Каргаполов Юрий Сидорович": 1,
-      "Логинов Евгений Леонидович": 7,
-      "Мельниченко Наталья Владимировна": 1,
-      "Миронов Борис Сергеевич": 4,
-      "Харитонов Николай Михайлович": 91,
-      "Против всех": 12
+      "gas:candidate-vibid:1001000113957": 2,
+      "gas:candidate-vibid:354300166795": 1,
+      "gas:candidate-vibid:1001000136089": 7,
+      "gas:candidate-vibid:1001000217940": 1,
+      "gas:candidate-vibid:354300166792": 4,
+      "gas:candidate-vibid:1001000121879": 91,
+      "special:against-all": 12
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=543001023&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=354300167042&region=0&sub_region=0&type=429",
@@ -1610,13 +1610,13 @@ export const duma_2003_uik_428_region_54_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Гвоздев Анатолий Викторович": 3,
-      "Каргаполов Юрий Сидорович": 3,
-      "Логинов Евгений Леонидович": 4,
-      "Мельниченко Наталья Владимировна": 4,
-      "Миронов Борис Сергеевич": 5,
-      "Харитонов Николай Михайлович": 96,
-      "Против всех": 16
+      "gas:candidate-vibid:1001000113957": 3,
+      "gas:candidate-vibid:354300166795": 3,
+      "gas:candidate-vibid:1001000136089": 4,
+      "gas:candidate-vibid:1001000217940": 4,
+      "gas:candidate-vibid:354300166792": 5,
+      "gas:candidate-vibid:1001000121879": 96,
+      "special:against-all": 16
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=543001023&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=354300167042&region=0&sub_region=0&type=429",
@@ -1666,13 +1666,13 @@ export const duma_2003_uik_428_region_54_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Гвоздев Анатолий Викторович": 4,
-      "Каргаполов Юрий Сидорович": 1,
-      "Логинов Евгений Леонидович": 3,
-      "Мельниченко Наталья Владимировна": 2,
-      "Миронов Борис Сергеевич": 7,
-      "Харитонов Николай Михайлович": 18,
-      "Против всех": 0
+      "gas:candidate-vibid:1001000113957": 4,
+      "gas:candidate-vibid:354300166795": 1,
+      "gas:candidate-vibid:1001000136089": 3,
+      "gas:candidate-vibid:1001000217940": 2,
+      "gas:candidate-vibid:354300166792": 7,
+      "gas:candidate-vibid:1001000121879": 18,
+      "special:against-all": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=543001023&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=354300167042&region=0&sub_region=0&type=429",
@@ -1722,13 +1722,13 @@ export const duma_2003_uik_428_region_54_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Гвоздев Анатолий Викторович": 9,
-      "Каргаполов Юрий Сидорович": 34,
-      "Логинов Евгений Леонидович": 39,
-      "Мельниченко Наталья Владимировна": 11,
-      "Миронов Борис Сергеевич": 3,
-      "Харитонов Николай Михайлович": 49,
-      "Против всех": 25
+      "gas:candidate-vibid:1001000113957": 9,
+      "gas:candidate-vibid:354300166795": 34,
+      "gas:candidate-vibid:1001000136089": 39,
+      "gas:candidate-vibid:1001000217940": 11,
+      "gas:candidate-vibid:354300166792": 3,
+      "gas:candidate-vibid:1001000121879": 49,
+      "special:against-all": 25
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=543001023&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=354300167042&region=0&sub_region=0&type=429",
@@ -1778,13 +1778,13 @@ export const duma_2003_uik_428_region_54_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Гвоздев Анатолий Викторович": 22,
-      "Каргаполов Юрий Сидорович": 6,
-      "Логинов Евгений Леонидович": 50,
-      "Мельниченко Наталья Владимировна": 18,
-      "Миронов Борис Сергеевич": 7,
-      "Харитонов Николай Михайлович": 168,
-      "Против всех": 46
+      "gas:candidate-vibid:1001000113957": 22,
+      "gas:candidate-vibid:354300166795": 6,
+      "gas:candidate-vibid:1001000136089": 50,
+      "gas:candidate-vibid:1001000217940": 18,
+      "gas:candidate-vibid:354300166792": 7,
+      "gas:candidate-vibid:1001000121879": 168,
+      "special:against-all": 46
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=543001023&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=354300167042&region=0&sub_region=0&type=429",
@@ -1834,13 +1834,13 @@ export const duma_2003_uik_428_region_54_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Гвоздев Анатолий Викторович": 6,
-      "Каргаполов Юрий Сидорович": 8,
-      "Логинов Евгений Леонидович": 11,
-      "Мельниченко Наталья Владимировна": 8,
-      "Миронов Борис Сергеевич": 2,
-      "Харитонов Николай Михайлович": 83,
-      "Против всех": 9
+      "gas:candidate-vibid:1001000113957": 6,
+      "gas:candidate-vibid:354300166795": 8,
+      "gas:candidate-vibid:1001000136089": 11,
+      "gas:candidate-vibid:1001000217940": 8,
+      "gas:candidate-vibid:354300166792": 2,
+      "gas:candidate-vibid:1001000121879": 83,
+      "special:against-all": 9
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=543001023&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=354300167042&region=0&sub_region=0&type=429",
@@ -1890,13 +1890,13 @@ export const duma_2003_uik_428_region_54_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Гвоздев Анатолий Викторович": 6,
-      "Каргаполов Юрий Сидорович": 13,
-      "Логинов Евгений Леонидович": 11,
-      "Мельниченко Наталья Владимировна": 9,
-      "Миронов Борис Сергеевич": 6,
-      "Харитонов Николай Михайлович": 188,
-      "Против всех": 14
+      "gas:candidate-vibid:1001000113957": 6,
+      "gas:candidate-vibid:354300166795": 13,
+      "gas:candidate-vibid:1001000136089": 11,
+      "gas:candidate-vibid:1001000217940": 9,
+      "gas:candidate-vibid:354300166792": 6,
+      "gas:candidate-vibid:1001000121879": 188,
+      "special:against-all": 14
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=543001023&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=354300167042&region=0&sub_region=0&type=429",
@@ -1946,13 +1946,13 @@ export const duma_2003_uik_428_region_54_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Гвоздев Анатолий Викторович": 1,
-      "Каргаполов Юрий Сидорович": 4,
-      "Логинов Евгений Леонидович": 10,
-      "Мельниченко Наталья Владимировна": 9,
-      "Миронов Борис Сергеевич": 2,
-      "Харитонов Николай Михайлович": 56,
-      "Против всех": 1
+      "gas:candidate-vibid:1001000113957": 1,
+      "gas:candidate-vibid:354300166795": 4,
+      "gas:candidate-vibid:1001000136089": 10,
+      "gas:candidate-vibid:1001000217940": 9,
+      "gas:candidate-vibid:354300166792": 2,
+      "gas:candidate-vibid:1001000121879": 56,
+      "special:against-all": 1
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=543001023&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=354300167042&region=0&sub_region=0&type=429",
@@ -2002,13 +2002,13 @@ export const duma_2003_uik_428_region_54_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Гвоздев Анатолий Викторович": 15,
-      "Каргаполов Юрий Сидорович": 10,
-      "Логинов Евгений Леонидович": 61,
-      "Мельниченко Наталья Владимировна": 27,
-      "Миронов Борис Сергеевич": 3,
-      "Харитонов Николай Михайлович": 114,
-      "Против всех": 18
+      "gas:candidate-vibid:1001000113957": 15,
+      "gas:candidate-vibid:354300166795": 10,
+      "gas:candidate-vibid:1001000136089": 61,
+      "gas:candidate-vibid:1001000217940": 27,
+      "gas:candidate-vibid:354300166792": 3,
+      "gas:candidate-vibid:1001000121879": 114,
+      "special:against-all": 18
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=543001023&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=354300167042&region=0&sub_region=0&type=429",
@@ -2058,13 +2058,13 @@ export const duma_2003_uik_428_region_54_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Гвоздев Анатолий Викторович": 8,
-      "Каргаполов Юрий Сидорович": 24,
-      "Логинов Евгений Леонидович": 37,
-      "Мельниченко Наталья Владимировна": 42,
-      "Миронов Борис Сергеевич": 8,
-      "Харитонов Николай Михайлович": 101,
-      "Против всех": 39
+      "gas:candidate-vibid:1001000113957": 8,
+      "gas:candidate-vibid:354300166795": 24,
+      "gas:candidate-vibid:1001000136089": 37,
+      "gas:candidate-vibid:1001000217940": 42,
+      "gas:candidate-vibid:354300166792": 8,
+      "gas:candidate-vibid:1001000121879": 101,
+      "special:against-all": 39
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=543001023&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=354300167042&region=0&sub_region=0&type=429",
@@ -2114,13 +2114,13 @@ export const duma_2003_uik_428_region_54_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Гвоздев Анатолий Викторович": 27,
-      "Каргаполов Юрий Сидорович": 36,
-      "Логинов Евгений Леонидович": 115,
-      "Мельниченко Наталья Владимировна": 64,
-      "Миронов Борис Сергеевич": 11,
-      "Харитонов Николай Михайлович": 236,
-      "Против всех": 62
+      "gas:candidate-vibid:1001000113957": 27,
+      "gas:candidate-vibid:354300166795": 36,
+      "gas:candidate-vibid:1001000136089": 115,
+      "gas:candidate-vibid:1001000217940": 64,
+      "gas:candidate-vibid:354300166792": 11,
+      "gas:candidate-vibid:1001000121879": 236,
+      "special:against-all": 62
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=543001023&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=354300167042&region=0&sub_region=0&type=429",
@@ -2170,13 +2170,13 @@ export const duma_2003_uik_428_region_54_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Гвоздев Анатолий Викторович": 4,
-      "Каргаполов Юрий Сидорович": 5,
-      "Логинов Евгений Леонидович": 22,
-      "Мельниченко Наталья Владимировна": 30,
-      "Миронов Борис Сергеевич": 11,
-      "Харитонов Николай Михайлович": 128,
-      "Против всех": 15
+      "gas:candidate-vibid:1001000113957": 4,
+      "gas:candidate-vibid:354300166795": 5,
+      "gas:candidate-vibid:1001000136089": 22,
+      "gas:candidate-vibid:1001000217940": 30,
+      "gas:candidate-vibid:354300166792": 11,
+      "gas:candidate-vibid:1001000121879": 128,
+      "special:against-all": 15
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=543001023&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=354300167042&region=0&sub_region=0&type=429",
@@ -2226,13 +2226,13 @@ export const duma_2003_uik_428_region_54_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Гвоздев Анатолий Викторович": 7,
-      "Каргаполов Юрий Сидорович": 12,
-      "Логинов Евгений Леонидович": 21,
-      "Мельниченко Наталья Владимировна": 24,
-      "Миронов Борис Сергеевич": 1,
-      "Харитонов Николай Михайлович": 162,
-      "Против всех": 29
+      "gas:candidate-vibid:1001000113957": 7,
+      "gas:candidate-vibid:354300166795": 12,
+      "gas:candidate-vibid:1001000136089": 21,
+      "gas:candidate-vibid:1001000217940": 24,
+      "gas:candidate-vibid:354300166792": 1,
+      "gas:candidate-vibid:1001000121879": 162,
+      "special:against-all": 29
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=543001023&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=354300167042&region=0&sub_region=0&type=429",
@@ -2282,13 +2282,13 @@ export const duma_2003_uik_428_region_54_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Гвоздев Анатолий Викторович": 5,
-      "Каргаполов Юрий Сидорович": 10,
-      "Логинов Евгений Леонидович": 9,
-      "Мельниченко Наталья Владимировна": 13,
-      "Миронов Борис Сергеевич": 8,
-      "Харитонов Николай Михайлович": 67,
-      "Против всех": 27
+      "gas:candidate-vibid:1001000113957": 5,
+      "gas:candidate-vibid:354300166795": 10,
+      "gas:candidate-vibid:1001000136089": 9,
+      "gas:candidate-vibid:1001000217940": 13,
+      "gas:candidate-vibid:354300166792": 8,
+      "gas:candidate-vibid:1001000121879": 67,
+      "special:against-all": 27
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=543001023&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=354300167042&region=0&sub_region=0&type=429",
@@ -2338,13 +2338,13 @@ export const duma_2003_uik_428_region_54_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Гвоздев Анатолий Викторович": 7,
-      "Каргаполов Юрий Сидорович": 20,
-      "Логинов Евгений Леонидович": 26,
-      "Мельниченко Наталья Владимировна": 8,
-      "Миронов Борис Сергеевич": 6,
-      "Харитонов Николай Михайлович": 109,
-      "Против всех": 14
+      "gas:candidate-vibid:1001000113957": 7,
+      "gas:candidate-vibid:354300166795": 20,
+      "gas:candidate-vibid:1001000136089": 26,
+      "gas:candidate-vibid:1001000217940": 8,
+      "gas:candidate-vibid:354300166792": 6,
+      "gas:candidate-vibid:1001000121879": 109,
+      "special:against-all": 14
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=543001023&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=354300167042&region=0&sub_region=0&type=429",
@@ -2394,13 +2394,13 @@ export const duma_2003_uik_428_region_54_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Гвоздев Анатолий Викторович": 1,
-      "Каргаполов Юрий Сидорович": 9,
-      "Логинов Евгений Леонидович": 19,
-      "Мельниченко Наталья Владимировна": 8,
-      "Миронов Борис Сергеевич": 1,
-      "Харитонов Николай Михайлович": 34,
-      "Против всех": 9
+      "gas:candidate-vibid:1001000113957": 1,
+      "gas:candidate-vibid:354300166795": 9,
+      "gas:candidate-vibid:1001000136089": 19,
+      "gas:candidate-vibid:1001000217940": 8,
+      "gas:candidate-vibid:354300166792": 1,
+      "gas:candidate-vibid:1001000121879": 34,
+      "special:against-all": 9
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=543001023&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=354300167042&region=0&sub_region=0&type=429",
@@ -2450,13 +2450,13 @@ export const duma_2003_uik_428_region_54_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Гвоздев Анатолий Викторович": 4,
-      "Каргаполов Юрий Сидорович": 17,
-      "Логинов Евгений Леонидович": 17,
-      "Мельниченко Наталья Владимировна": 15,
-      "Миронов Борис Сергеевич": 4,
-      "Харитонов Николай Михайлович": 152,
-      "Против всех": 17
+      "gas:candidate-vibid:1001000113957": 4,
+      "gas:candidate-vibid:354300166795": 17,
+      "gas:candidate-vibid:1001000136089": 17,
+      "gas:candidate-vibid:1001000217940": 15,
+      "gas:candidate-vibid:354300166792": 4,
+      "gas:candidate-vibid:1001000121879": 152,
+      "special:against-all": 17
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=543001023&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=354300167042&region=0&sub_region=0&type=429",
@@ -2506,13 +2506,13 @@ export const duma_2003_uik_428_region_54_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Гвоздев Анатолий Викторович": 16,
-      "Каргаполов Юрий Сидорович": 8,
-      "Логинов Евгений Леонидович": 12,
-      "Мельниченко Наталья Владимировна": 5,
-      "Миронов Борис Сергеевич": 6,
-      "Харитонов Николай Михайлович": 156,
-      "Против всех": 38
+      "gas:candidate-vibid:1001000113957": 16,
+      "gas:candidate-vibid:354300166795": 8,
+      "gas:candidate-vibid:1001000136089": 12,
+      "gas:candidate-vibid:1001000217940": 5,
+      "gas:candidate-vibid:354300166792": 6,
+      "gas:candidate-vibid:1001000121879": 156,
+      "special:against-all": 38
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=543001024&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=354300167043&region=0&sub_region=0&type=429",
@@ -2562,13 +2562,13 @@ export const duma_2003_uik_428_region_54_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Гвоздев Анатолий Викторович": 29,
-      "Каргаполов Юрий Сидорович": 7,
-      "Логинов Евгений Леонидович": 32,
-      "Мельниченко Наталья Владимировна": 15,
-      "Миронов Борис Сергеевич": 8,
-      "Харитонов Николай Михайлович": 347,
-      "Против всех": 55
+      "gas:candidate-vibid:1001000113957": 29,
+      "gas:candidate-vibid:354300166795": 7,
+      "gas:candidate-vibid:1001000136089": 32,
+      "gas:candidate-vibid:1001000217940": 15,
+      "gas:candidate-vibid:354300166792": 8,
+      "gas:candidate-vibid:1001000121879": 347,
+      "special:against-all": 55
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=543001024&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=354300167043&region=0&sub_region=0&type=429",
@@ -2618,13 +2618,13 @@ export const duma_2003_uik_428_region_54_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Гвоздев Анатолий Викторович": 48,
-      "Каргаполов Юрий Сидорович": 12,
-      "Логинов Евгений Леонидович": 24,
-      "Мельниченко Наталья Владимировна": 31,
-      "Миронов Борис Сергеевич": 19,
-      "Харитонов Николай Михайлович": 471,
-      "Против всех": 72
+      "gas:candidate-vibid:1001000113957": 48,
+      "gas:candidate-vibid:354300166795": 12,
+      "gas:candidate-vibid:1001000136089": 24,
+      "gas:candidate-vibid:1001000217940": 31,
+      "gas:candidate-vibid:354300166792": 19,
+      "gas:candidate-vibid:1001000121879": 471,
+      "special:against-all": 72
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=543001024&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=354300167043&region=0&sub_region=0&type=429",
@@ -2674,13 +2674,13 @@ export const duma_2003_uik_428_region_54_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Гвоздев Анатолий Викторович": 56,
-      "Каргаполов Юрий Сидорович": 7,
-      "Логинов Евгений Леонидович": 16,
-      "Мельниченко Наталья Владимировна": 40,
-      "Миронов Борис Сергеевич": 10,
-      "Харитонов Николай Михайлович": 491,
-      "Против всех": 51
+      "gas:candidate-vibid:1001000113957": 56,
+      "gas:candidate-vibid:354300166795": 7,
+      "gas:candidate-vibid:1001000136089": 16,
+      "gas:candidate-vibid:1001000217940": 40,
+      "gas:candidate-vibid:354300166792": 10,
+      "gas:candidate-vibid:1001000121879": 491,
+      "special:against-all": 51
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=543001024&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=354300167043&region=0&sub_region=0&type=429",
@@ -2730,13 +2730,13 @@ export const duma_2003_uik_428_region_54_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Гвоздев Анатолий Викторович": 62,
-      "Каргаполов Юрий Сидорович": 10,
-      "Логинов Евгений Леонидович": 23,
-      "Мельниченко Наталья Владимировна": 28,
-      "Миронов Борис Сергеевич": 14,
-      "Харитонов Николай Михайлович": 410,
-      "Против всех": 55
+      "gas:candidate-vibid:1001000113957": 62,
+      "gas:candidate-vibid:354300166795": 10,
+      "gas:candidate-vibid:1001000136089": 23,
+      "gas:candidate-vibid:1001000217940": 28,
+      "gas:candidate-vibid:354300166792": 14,
+      "gas:candidate-vibid:1001000121879": 410,
+      "special:against-all": 55
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=543001024&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=354300167043&region=0&sub_region=0&type=429",
@@ -2786,13 +2786,13 @@ export const duma_2003_uik_428_region_54_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Гвоздев Анатолий Викторович": 38,
-      "Каргаполов Юрий Сидорович": 5,
-      "Логинов Евгений Леонидович": 20,
-      "Мельниченко Наталья Владимировна": 33,
-      "Миронов Борис Сергеевич": 17,
-      "Харитонов Николай Михайлович": 502,
-      "Против всех": 71
+      "gas:candidate-vibid:1001000113957": 38,
+      "gas:candidate-vibid:354300166795": 5,
+      "gas:candidate-vibid:1001000136089": 20,
+      "gas:candidate-vibid:1001000217940": 33,
+      "gas:candidate-vibid:354300166792": 17,
+      "gas:candidate-vibid:1001000121879": 502,
+      "special:against-all": 71
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=543001024&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=354300167043&region=0&sub_region=0&type=429",
@@ -2842,13 +2842,13 @@ export const duma_2003_uik_428_region_54_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Гвоздев Анатолий Викторович": 10,
-      "Каргаполов Юрий Сидорович": 2,
-      "Логинов Евгений Леонидович": 3,
-      "Мельниченко Наталья Владимировна": 8,
-      "Миронов Борис Сергеевич": 2,
-      "Харитонов Николай Михайлович": 55,
-      "Против всех": 12
+      "gas:candidate-vibid:1001000113957": 10,
+      "gas:candidate-vibid:354300166795": 2,
+      "gas:candidate-vibid:1001000136089": 3,
+      "gas:candidate-vibid:1001000217940": 8,
+      "gas:candidate-vibid:354300166792": 2,
+      "gas:candidate-vibid:1001000121879": 55,
+      "special:against-all": 12
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=543001024&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=354300167043&region=0&sub_region=0&type=429",
@@ -2898,13 +2898,13 @@ export const duma_2003_uik_428_region_54_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Гвоздев Анатолий Викторович": 9,
-      "Каргаполов Юрий Сидорович": 0,
-      "Логинов Евгений Леонидович": 0,
-      "Мельниченко Наталья Владимировна": 1,
-      "Миронов Борис Сергеевич": 2,
-      "Харитонов Николай Михайлович": 48,
-      "Против всех": 3
+      "gas:candidate-vibid:1001000113957": 9,
+      "gas:candidate-vibid:354300166795": 0,
+      "gas:candidate-vibid:1001000136089": 0,
+      "gas:candidate-vibid:1001000217940": 1,
+      "gas:candidate-vibid:354300166792": 2,
+      "gas:candidate-vibid:1001000121879": 48,
+      "special:against-all": 3
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=543001024&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=354300167043&region=0&sub_region=0&type=429",
@@ -2954,13 +2954,13 @@ export const duma_2003_uik_428_region_54_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Гвоздев Анатолий Викторович": 9,
-      "Каргаполов Юрий Сидорович": 0,
-      "Логинов Евгений Леонидович": 15,
-      "Мельниченко Наталья Владимировна": 9,
-      "Миронов Борис Сергеевич": 5,
-      "Харитонов Николай Михайлович": 233,
-      "Против всех": 16
+      "gas:candidate-vibid:1001000113957": 9,
+      "gas:candidate-vibid:354300166795": 0,
+      "gas:candidate-vibid:1001000136089": 15,
+      "gas:candidate-vibid:1001000217940": 9,
+      "gas:candidate-vibid:354300166792": 5,
+      "gas:candidate-vibid:1001000121879": 233,
+      "special:against-all": 16
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=543001024&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=354300167043&region=0&sub_region=0&type=429",
@@ -3010,13 +3010,13 @@ export const duma_2003_uik_428_region_54_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Гвоздев Анатолий Викторович": 1,
-      "Каргаполов Юрий Сидорович": 3,
-      "Логинов Евгений Леонидович": 7,
-      "Мельниченко Наталья Владимировна": 1,
-      "Миронов Борис Сергеевич": 0,
-      "Харитонов Николай Михайлович": 33,
-      "Против всех": 9
+      "gas:candidate-vibid:1001000113957": 1,
+      "gas:candidate-vibid:354300166795": 3,
+      "gas:candidate-vibid:1001000136089": 7,
+      "gas:candidate-vibid:1001000217940": 1,
+      "gas:candidate-vibid:354300166792": 0,
+      "gas:candidate-vibid:1001000121879": 33,
+      "special:against-all": 9
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=543001024&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=354300167043&region=0&sub_region=0&type=429",
@@ -3066,13 +3066,13 @@ export const duma_2003_uik_428_region_54_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Гвоздев Анатолий Викторович": 1,
-      "Каргаполов Юрий Сидорович": 1,
-      "Логинов Евгений Леонидович": 44,
-      "Мельниченко Наталья Владимировна": 3,
-      "Миронов Борис Сергеевич": 3,
-      "Харитонов Николай Михайлович": 167,
-      "Против всех": 24
+      "gas:candidate-vibid:1001000113957": 1,
+      "gas:candidate-vibid:354300166795": 1,
+      "gas:candidate-vibid:1001000136089": 44,
+      "gas:candidate-vibid:1001000217940": 3,
+      "gas:candidate-vibid:354300166792": 3,
+      "gas:candidate-vibid:1001000121879": 167,
+      "special:against-all": 24
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=543001024&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=354300167043&region=0&sub_region=0&type=429",
@@ -3122,13 +3122,13 @@ export const duma_2003_uik_428_region_54_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Гвоздев Анатолий Викторович": 16,
-      "Каргаполов Юрий Сидорович": 3,
-      "Логинов Евгений Леонидович": 13,
-      "Мельниченко Наталья Владимировна": 33,
-      "Миронов Борис Сергеевич": 9,
-      "Харитонов Николай Михайлович": 432,
-      "Против всех": 35
+      "gas:candidate-vibid:1001000113957": 16,
+      "gas:candidate-vibid:354300166795": 3,
+      "gas:candidate-vibid:1001000136089": 13,
+      "gas:candidate-vibid:1001000217940": 33,
+      "gas:candidate-vibid:354300166792": 9,
+      "gas:candidate-vibid:1001000121879": 432,
+      "special:against-all": 35
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=543001024&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=354300167043&region=0&sub_region=0&type=429",
@@ -3178,13 +3178,13 @@ export const duma_2003_uik_428_region_54_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Гвоздев Анатолий Викторович": 23,
-      "Каргаполов Юрий Сидорович": 7,
-      "Логинов Евгений Леонидович": 18,
-      "Мельниченко Наталья Владимировна": 13,
-      "Миронов Борис Сергеевич": 185,
-      "Харитонов Николай Михайлович": 37,
-      "Против всех": 89
+      "gas:candidate-vibid:1001000113957": 23,
+      "gas:candidate-vibid:354300166795": 7,
+      "gas:candidate-vibid:1001000136089": 18,
+      "gas:candidate-vibid:1001000217940": 13,
+      "gas:candidate-vibid:354300166792": 185,
+      "gas:candidate-vibid:1001000121879": 37,
+      "special:against-all": 89
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=543001024&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=354300167043&region=0&sub_region=0&type=429",
@@ -3234,13 +3234,13 @@ export const duma_2003_uik_428_region_54_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Гвоздев Анатолий Викторович": 22,
-      "Каргаполов Юрий Сидорович": 15,
-      "Логинов Евгений Леонидович": 51,
-      "Мельниченко Наталья Владимировна": 26,
-      "Миронов Борис Сергеевич": 6,
-      "Харитонов Николай Михайлович": 135,
-      "Против всех": 51
+      "gas:candidate-vibid:1001000113957": 22,
+      "gas:candidate-vibid:354300166795": 15,
+      "gas:candidate-vibid:1001000136089": 51,
+      "gas:candidate-vibid:1001000217940": 26,
+      "gas:candidate-vibid:354300166792": 6,
+      "gas:candidate-vibid:1001000121879": 135,
+      "special:against-all": 51
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=543001024&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=354300167043&region=0&sub_region=0&type=429",
@@ -3290,13 +3290,13 @@ export const duma_2003_uik_428_region_54_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Гвоздев Анатолий Викторович": 6,
-      "Каргаполов Юрий Сидорович": 0,
-      "Логинов Евгений Леонидович": 10,
-      "Мельниченко Наталья Владимировна": 5,
-      "Миронов Борис Сергеевич": 3,
-      "Харитонов Николай Михайлович": 88,
-      "Против всех": 6
+      "gas:candidate-vibid:1001000113957": 6,
+      "gas:candidate-vibid:354300166795": 0,
+      "gas:candidate-vibid:1001000136089": 10,
+      "gas:candidate-vibid:1001000217940": 5,
+      "gas:candidate-vibid:354300166792": 3,
+      "gas:candidate-vibid:1001000121879": 88,
+      "special:against-all": 6
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=543001024&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=354300167043&region=0&sub_region=0&type=429",
@@ -3346,13 +3346,13 @@ export const duma_2003_uik_428_region_54_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Гвоздев Анатолий Викторович": 0,
-      "Каргаполов Юрий Сидорович": 0,
-      "Логинов Евгений Леонидович": 0,
-      "Мельниченко Наталья Владимировна": 1,
-      "Миронов Борис Сергеевич": 0,
-      "Харитонов Николай Михайлович": 33,
-      "Против всех": 1
+      "gas:candidate-vibid:1001000113957": 0,
+      "gas:candidate-vibid:354300166795": 0,
+      "gas:candidate-vibid:1001000136089": 0,
+      "gas:candidate-vibid:1001000217940": 1,
+      "gas:candidate-vibid:354300166792": 0,
+      "gas:candidate-vibid:1001000121879": 33,
+      "special:against-all": 1
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=543001024&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=354300167043&region=0&sub_region=0&type=429",
@@ -3402,13 +3402,13 @@ export const duma_2003_uik_428_region_54_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Гвоздев Анатолий Викторович": 45,
-      "Каргаполов Юрий Сидорович": 13,
-      "Логинов Евгений Леонидович": 32,
-      "Мельниченко Наталья Владимировна": 30,
-      "Миронов Борис Сергеевич": 8,
-      "Харитонов Николай Михайлович": 203,
-      "Против всех": 46
+      "gas:candidate-vibid:1001000113957": 45,
+      "gas:candidate-vibid:354300166795": 13,
+      "gas:candidate-vibid:1001000136089": 32,
+      "gas:candidate-vibid:1001000217940": 30,
+      "gas:candidate-vibid:354300166792": 8,
+      "gas:candidate-vibid:1001000121879": 203,
+      "special:against-all": 46
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=543001024&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=354300167043&region=0&sub_region=0&type=429",
@@ -3458,13 +3458,13 @@ export const duma_2003_uik_428_region_54_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Гвоздев Анатолий Викторович": 1,
-      "Каргаполов Юрий Сидорович": 0,
-      "Логинов Евгений Леонидович": 3,
-      "Мельниченко Наталья Владимировна": 2,
-      "Миронов Борис Сергеевич": 0,
-      "Харитонов Николай Михайлович": 19,
-      "Против всех": 2
+      "gas:candidate-vibid:1001000113957": 1,
+      "gas:candidate-vibid:354300166795": 0,
+      "gas:candidate-vibid:1001000136089": 3,
+      "gas:candidate-vibid:1001000217940": 2,
+      "gas:candidate-vibid:354300166792": 0,
+      "gas:candidate-vibid:1001000121879": 19,
+      "special:against-all": 2
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=543001024&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=354300167043&region=0&sub_region=0&type=429",
@@ -3514,13 +3514,13 @@ export const duma_2003_uik_428_region_54_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Гвоздев Анатолий Викторович": 12,
-      "Каргаполов Юрий Сидорович": 7,
-      "Логинов Евгений Леонидович": 17,
-      "Мельниченко Наталья Владимировна": 17,
-      "Миронов Борис Сергеевич": 3,
-      "Харитонов Николай Михайлович": 79,
-      "Против всех": 13
+      "gas:candidate-vibid:1001000113957": 12,
+      "gas:candidate-vibid:354300166795": 7,
+      "gas:candidate-vibid:1001000136089": 17,
+      "gas:candidate-vibid:1001000217940": 17,
+      "gas:candidate-vibid:354300166792": 3,
+      "gas:candidate-vibid:1001000121879": 79,
+      "special:against-all": 13
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=543001024&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=354300167043&region=0&sub_region=0&type=429",
@@ -3570,13 +3570,13 @@ export const duma_2003_uik_428_region_54_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Гвоздев Анатолий Викторович": 17,
-      "Каргаполов Юрий Сидорович": 4,
-      "Логинов Евгений Леонидович": 8,
-      "Мельниченко Наталья Владимировна": 7,
-      "Миронов Борис Сергеевич": 7,
-      "Харитонов Николай Михайлович": 177,
-      "Против всех": 28
+      "gas:candidate-vibid:1001000113957": 17,
+      "gas:candidate-vibid:354300166795": 4,
+      "gas:candidate-vibid:1001000136089": 8,
+      "gas:candidate-vibid:1001000217940": 7,
+      "gas:candidate-vibid:354300166792": 7,
+      "gas:candidate-vibid:1001000121879": 177,
+      "special:against-all": 28
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=543001024&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=354300167043&region=0&sub_region=0&type=429",
@@ -3626,13 +3626,13 @@ export const duma_2003_uik_428_region_54_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Гвоздев Анатолий Викторович": 24,
-      "Каргаполов Юрий Сидорович": 3,
-      "Логинов Евгений Леонидович": 24,
-      "Мельниченко Наталья Владимировна": 15,
-      "Миронов Борис Сергеевич": 12,
-      "Харитонов Николай Михайлович": 138,
-      "Против всех": 31
+      "gas:candidate-vibid:1001000113957": 24,
+      "gas:candidate-vibid:354300166795": 3,
+      "gas:candidate-vibid:1001000136089": 24,
+      "gas:candidate-vibid:1001000217940": 15,
+      "gas:candidate-vibid:354300166792": 12,
+      "gas:candidate-vibid:1001000121879": 138,
+      "special:against-all": 31
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=543001024&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=354300167043&region=0&sub_region=0&type=429",
@@ -3682,13 +3682,13 @@ export const duma_2003_uik_428_region_54_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Гвоздев Анатолий Викторович": 2,
-      "Каргаполов Юрий Сидорович": 1,
-      "Логинов Евгений Леонидович": 14,
-      "Мельниченко Наталья Владимировна": 5,
-      "Миронов Борис Сергеевич": 7,
-      "Харитонов Николай Михайлович": 60,
-      "Против всех": 9
+      "gas:candidate-vibid:1001000113957": 2,
+      "gas:candidate-vibid:354300166795": 1,
+      "gas:candidate-vibid:1001000136089": 14,
+      "gas:candidate-vibid:1001000217940": 5,
+      "gas:candidate-vibid:354300166792": 7,
+      "gas:candidate-vibid:1001000121879": 60,
+      "special:against-all": 9
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=543001024&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=354300167043&region=0&sub_region=0&type=429",
@@ -3738,13 +3738,13 @@ export const duma_2003_uik_428_region_54_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Гвоздев Анатолий Викторович": 11,
-      "Каргаполов Юрий Сидорович": 9,
-      "Логинов Евгений Леонидович": 19,
-      "Мельниченко Наталья Владимировна": 38,
-      "Миронов Борис Сергеевич": 5,
-      "Харитонов Николай Михайлович": 241,
-      "Против всех": 26
+      "gas:candidate-vibid:1001000113957": 11,
+      "gas:candidate-vibid:354300166795": 9,
+      "gas:candidate-vibid:1001000136089": 19,
+      "gas:candidate-vibid:1001000217940": 38,
+      "gas:candidate-vibid:354300166792": 5,
+      "gas:candidate-vibid:1001000121879": 241,
+      "special:against-all": 26
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=543001024&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=354300167043&region=0&sub_region=0&type=429",
@@ -3794,13 +3794,13 @@ export const duma_2003_uik_428_region_54_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Гвоздев Анатолий Викторович": 3,
-      "Каргаполов Юрий Сидорович": 1,
-      "Логинов Евгений Леонидович": 7,
-      "Мельниченко Наталья Владимировна": 29,
-      "Миронов Борис Сергеевич": 3,
-      "Харитонов Николай Михайлович": 70,
-      "Против всех": 5
+      "gas:candidate-vibid:1001000113957": 3,
+      "gas:candidate-vibid:354300166795": 1,
+      "gas:candidate-vibid:1001000136089": 7,
+      "gas:candidate-vibid:1001000217940": 29,
+      "gas:candidate-vibid:354300166792": 3,
+      "gas:candidate-vibid:1001000121879": 70,
+      "special:against-all": 5
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=543001024&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=354300167043&region=0&sub_region=0&type=429",
@@ -3850,13 +3850,13 @@ export const duma_2003_uik_428_region_54_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Гвоздев Анатолий Викторович": 0,
-      "Каргаполов Юрий Сидорович": 1,
-      "Логинов Евгений Леонидович": 0,
-      "Мельниченко Наталья Владимировна": 6,
-      "Миронов Борис Сергеевич": 3,
-      "Харитонов Николай Михайлович": 40,
-      "Против всех": 7
+      "gas:candidate-vibid:1001000113957": 0,
+      "gas:candidate-vibid:354300166795": 1,
+      "gas:candidate-vibid:1001000136089": 0,
+      "gas:candidate-vibid:1001000217940": 6,
+      "gas:candidate-vibid:354300166792": 3,
+      "gas:candidate-vibid:1001000121879": 40,
+      "special:against-all": 7
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=543001024&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=354300167043&region=0&sub_region=0&type=429",
@@ -3906,13 +3906,13 @@ export const duma_2003_uik_428_region_54_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Гвоздев Анатолий Викторович": 22,
-      "Каргаполов Юрий Сидорович": 8,
-      "Логинов Евгений Леонидович": 6,
-      "Мельниченко Наталья Владимировна": 48,
-      "Миронов Борис Сергеевич": 14,
-      "Харитонов Николай Михайлович": 239,
-      "Против всех": 39
+      "gas:candidate-vibid:1001000113957": 22,
+      "gas:candidate-vibid:354300166795": 8,
+      "gas:candidate-vibid:1001000136089": 6,
+      "gas:candidate-vibid:1001000217940": 48,
+      "gas:candidate-vibid:354300166792": 14,
+      "gas:candidate-vibid:1001000121879": 239,
+      "special:against-all": 39
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=543001024&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=354300167043&region=0&sub_region=0&type=429",
@@ -3962,13 +3962,13 @@ export const duma_2003_uik_428_region_54_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Гвоздев Анатолий Викторович": 5,
-      "Каргаполов Юрий Сидорович": 0,
-      "Логинов Евгений Леонидович": 4,
-      "Мельниченко Наталья Владимировна": 3,
-      "Миронов Борис Сергеевич": 2,
-      "Харитонов Николай Михайлович": 43,
-      "Против всех": 6
+      "gas:candidate-vibid:1001000113957": 5,
+      "gas:candidate-vibid:354300166795": 0,
+      "gas:candidate-vibid:1001000136089": 4,
+      "gas:candidate-vibid:1001000217940": 3,
+      "gas:candidate-vibid:354300166792": 2,
+      "gas:candidate-vibid:1001000121879": 43,
+      "special:against-all": 6
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=543001024&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=354300167043&region=0&sub_region=0&type=429",
@@ -4018,13 +4018,13 @@ export const duma_2003_uik_428_region_54_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Гвоздев Анатолий Викторович": 13,
-      "Каргаполов Юрий Сидорович": 4,
-      "Логинов Евгений Леонидович": 8,
-      "Мельниченко Наталья Владимировна": 2,
-      "Миронов Борис Сергеевич": 5,
-      "Харитонов Николай Михайлович": 240,
-      "Против всех": 29
+      "gas:candidate-vibid:1001000113957": 13,
+      "gas:candidate-vibid:354300166795": 4,
+      "gas:candidate-vibid:1001000136089": 8,
+      "gas:candidate-vibid:1001000217940": 2,
+      "gas:candidate-vibid:354300166792": 5,
+      "gas:candidate-vibid:1001000121879": 240,
+      "special:against-all": 29
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=543001024&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=354300167043&region=0&sub_region=0&type=429",
@@ -4074,13 +4074,13 @@ export const duma_2003_uik_428_region_54_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Гвоздев Анатолий Викторович": 16,
-      "Каргаполов Юрий Сидорович": 14,
-      "Логинов Евгений Леонидович": 29,
-      "Мельниченко Наталья Владимировна": 24,
-      "Миронов Борис Сергеевич": 21,
-      "Харитонов Николай Михайлович": 275,
-      "Против всех": 30
+      "gas:candidate-vibid:1001000113957": 16,
+      "gas:candidate-vibid:354300166795": 14,
+      "gas:candidate-vibid:1001000136089": 29,
+      "gas:candidate-vibid:1001000217940": 24,
+      "gas:candidate-vibid:354300166792": 21,
+      "gas:candidate-vibid:1001000121879": 275,
+      "special:against-all": 30
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=543001024&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=354300167043&region=0&sub_region=0&type=429",
@@ -4130,13 +4130,13 @@ export const duma_2003_uik_428_region_54_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Гвоздев Анатолий Викторович": 14,
-      "Каргаполов Юрий Сидорович": 2,
-      "Логинов Евгений Леонидович": 10,
-      "Мельниченко Наталья Владимировна": 11,
-      "Миронов Борис Сергеевич": 2,
-      "Харитонов Николай Михайлович": 240,
-      "Против всех": 22
+      "gas:candidate-vibid:1001000113957": 14,
+      "gas:candidate-vibid:354300166795": 2,
+      "gas:candidate-vibid:1001000136089": 10,
+      "gas:candidate-vibid:1001000217940": 11,
+      "gas:candidate-vibid:354300166792": 2,
+      "gas:candidate-vibid:1001000121879": 240,
+      "special:against-all": 22
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=543001024&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=354300167043&region=0&sub_region=0&type=429",
@@ -4186,13 +4186,13 @@ export const duma_2003_uik_428_region_54_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Гвоздев Анатолий Викторович": 0,
-      "Каргаполов Юрий Сидорович": 0,
-      "Логинов Евгений Леонидович": 0,
-      "Мельниченко Наталья Владимировна": 3,
-      "Миронов Борис Сергеевич": 1,
-      "Харитонов Николай Михайлович": 53,
-      "Против всех": 1
+      "gas:candidate-vibid:1001000113957": 0,
+      "gas:candidate-vibid:354300166795": 0,
+      "gas:candidate-vibid:1001000136089": 0,
+      "gas:candidate-vibid:1001000217940": 3,
+      "gas:candidate-vibid:354300166792": 1,
+      "gas:candidate-vibid:1001000121879": 53,
+      "special:against-all": 1
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=543001024&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=354300167043&region=0&sub_region=0&type=429",
@@ -4242,13 +4242,13 @@ export const duma_2003_uik_428_region_54_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Гвоздев Анатолий Викторович": 7,
-      "Каргаполов Юрий Сидорович": 5,
-      "Логинов Евгений Леонидович": 11,
-      "Мельниченко Наталья Владимировна": 20,
-      "Миронов Борис Сергеевич": 6,
-      "Харитонов Николай Михайлович": 196,
-      "Против всех": 23
+      "gas:candidate-vibid:1001000113957": 7,
+      "gas:candidate-vibid:354300166795": 5,
+      "gas:candidate-vibid:1001000136089": 11,
+      "gas:candidate-vibid:1001000217940": 20,
+      "gas:candidate-vibid:354300166792": 6,
+      "gas:candidate-vibid:1001000121879": 196,
+      "special:against-all": 23
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=543001024&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=354300167043&region=0&sub_region=0&type=429",
@@ -4298,13 +4298,13 @@ export const duma_2003_uik_428_region_54_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Гвоздев Анатолий Викторович": 6,
-      "Каргаполов Юрий Сидорович": 0,
-      "Логинов Евгений Леонидович": 2,
-      "Мельниченко Наталья Владимировна": 7,
-      "Миронов Борис Сергеевич": 6,
-      "Харитонов Николай Михайлович": 70,
-      "Против всех": 5
+      "gas:candidate-vibid:1001000113957": 6,
+      "gas:candidate-vibid:354300166795": 0,
+      "gas:candidate-vibid:1001000136089": 2,
+      "gas:candidate-vibid:1001000217940": 7,
+      "gas:candidate-vibid:354300166792": 6,
+      "gas:candidate-vibid:1001000121879": 70,
+      "special:against-all": 5
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=543001024&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=354300167043&region=0&sub_region=0&type=429",
@@ -4354,13 +4354,13 @@ export const duma_2003_uik_428_region_54_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Гвоздев Анатолий Викторович": 12,
-      "Каргаполов Юрий Сидорович": 4,
-      "Логинов Евгений Леонидович": 6,
-      "Мельниченко Наталья Владимировна": 16,
-      "Миронов Борис Сергеевич": 10,
-      "Харитонов Николай Михайлович": 144,
-      "Против всех": 24
+      "gas:candidate-vibid:1001000113957": 12,
+      "gas:candidate-vibid:354300166795": 4,
+      "gas:candidate-vibid:1001000136089": 6,
+      "gas:candidate-vibid:1001000217940": 16,
+      "gas:candidate-vibid:354300166792": 10,
+      "gas:candidate-vibid:1001000121879": 144,
+      "special:against-all": 24
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=543001024&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=354300167043&region=0&sub_region=0&type=429",
@@ -4410,13 +4410,13 @@ export const duma_2003_uik_428_region_54_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Гвоздев Анатолий Викторович": 3,
-      "Каргаполов Юрий Сидорович": 0,
-      "Логинов Евгений Леонидович": 4,
-      "Мельниченко Наталья Владимировна": 1,
-      "Миронов Борис Сергеевич": 0,
-      "Харитонов Николай Михайлович": 35,
-      "Против всех": 4
+      "gas:candidate-vibid:1001000113957": 3,
+      "gas:candidate-vibid:354300166795": 0,
+      "gas:candidate-vibid:1001000136089": 4,
+      "gas:candidate-vibid:1001000217940": 1,
+      "gas:candidate-vibid:354300166792": 0,
+      "gas:candidate-vibid:1001000121879": 35,
+      "special:against-all": 4
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=543001024&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=354300167043&region=0&sub_region=0&type=429",
@@ -4466,13 +4466,13 @@ export const duma_2003_uik_428_region_54_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Гвоздев Анатолий Викторович": 6,
-      "Каргаполов Юрий Сидорович": 3,
-      "Логинов Евгений Леонидович": 11,
-      "Мельниченко Наталья Владимировна": 11,
-      "Миронов Борис Сергеевич": 5,
-      "Харитонов Николай Михайлович": 192,
-      "Против всех": 16
+      "gas:candidate-vibid:1001000113957": 6,
+      "gas:candidate-vibid:354300166795": 3,
+      "gas:candidate-vibid:1001000136089": 11,
+      "gas:candidate-vibid:1001000217940": 11,
+      "gas:candidate-vibid:354300166792": 5,
+      "gas:candidate-vibid:1001000121879": 192,
+      "special:against-all": 16
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=543001024&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=354300167043&region=0&sub_region=0&type=429",
@@ -4522,13 +4522,13 @@ export const duma_2003_uik_428_region_54_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Гвоздев Анатолий Викторович": 20,
-      "Каргаполов Юрий Сидорович": 5,
-      "Логинов Евгений Леонидович": 11,
-      "Мельниченко Наталья Владимировна": 15,
-      "Миронов Борис Сергеевич": 14,
-      "Харитонов Николай Михайлович": 250,
-      "Против всех": 16
+      "gas:candidate-vibid:1001000113957": 20,
+      "gas:candidate-vibid:354300166795": 5,
+      "gas:candidate-vibid:1001000136089": 11,
+      "gas:candidate-vibid:1001000217940": 15,
+      "gas:candidate-vibid:354300166792": 14,
+      "gas:candidate-vibid:1001000121879": 250,
+      "special:against-all": 16
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=543001024&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=354300167043&region=0&sub_region=0&type=429",
@@ -4578,13 +4578,13 @@ export const duma_2003_uik_428_region_54_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Гвоздев Анатолий Викторович": 37,
-      "Каргаполов Юрий Сидорович": 1,
-      "Логинов Евгений Леонидович": 6,
-      "Мельниченко Наталья Владимировна": 1,
-      "Миронов Борис Сергеевич": 0,
-      "Харитонов Николай Михайлович": 27,
-      "Против всех": 3
+      "gas:candidate-vibid:1001000113957": 37,
+      "gas:candidate-vibid:354300166795": 1,
+      "gas:candidate-vibid:1001000136089": 6,
+      "gas:candidate-vibid:1001000217940": 1,
+      "gas:candidate-vibid:354300166792": 0,
+      "gas:candidate-vibid:1001000121879": 27,
+      "special:against-all": 3
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=543001024&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=354300167043&region=0&sub_region=0&type=429",
@@ -4634,13 +4634,13 @@ export const duma_2003_uik_428_region_54_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Гвоздев Анатолий Викторович": 0,
-      "Каргаполов Юрий Сидорович": 0,
-      "Логинов Евгений Леонидович": 1,
-      "Мельниченко Наталья Владимировна": 3,
-      "Миронов Борис Сергеевич": 0,
-      "Харитонов Николай Михайлович": 32,
-      "Против всех": 10
+      "gas:candidate-vibid:1001000113957": 0,
+      "gas:candidate-vibid:354300166795": 0,
+      "gas:candidate-vibid:1001000136089": 1,
+      "gas:candidate-vibid:1001000217940": 3,
+      "gas:candidate-vibid:354300166792": 0,
+      "gas:candidate-vibid:1001000121879": 32,
+      "special:against-all": 10
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=543001024&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=354300167043&region=0&sub_region=0&type=429",
@@ -4690,13 +4690,13 @@ export const duma_2003_uik_428_region_54_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Гвоздев Анатолий Викторович": 6,
-      "Каргаполов Юрий Сидорович": 4,
-      "Логинов Евгений Леонидович": 5,
-      "Мельниченко Наталья Владимировна": 5,
-      "Миронов Борис Сергеевич": 4,
-      "Харитонов Николай Михайлович": 149,
-      "Против всех": 15
+      "gas:candidate-vibid:1001000113957": 6,
+      "gas:candidate-vibid:354300166795": 4,
+      "gas:candidate-vibid:1001000136089": 5,
+      "gas:candidate-vibid:1001000217940": 5,
+      "gas:candidate-vibid:354300166792": 4,
+      "gas:candidate-vibid:1001000121879": 149,
+      "special:against-all": 15
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=543001024&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=354300167043&region=0&sub_region=0&type=429",
@@ -4746,13 +4746,13 @@ export const duma_2003_uik_428_region_54_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Гвоздев Анатолий Викторович": 3,
-      "Каргаполов Юрий Сидорович": 0,
-      "Логинов Евгений Леонидович": 6,
-      "Мельниченко Наталья Владимировна": 1,
-      "Миронов Борис Сергеевич": 2,
-      "Харитонов Николай Михайлович": 42,
-      "Против всех": 4
+      "gas:candidate-vibid:1001000113957": 3,
+      "gas:candidate-vibid:354300166795": 0,
+      "gas:candidate-vibid:1001000136089": 6,
+      "gas:candidate-vibid:1001000217940": 1,
+      "gas:candidate-vibid:354300166792": 2,
+      "gas:candidate-vibid:1001000121879": 42,
+      "special:against-all": 4
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=543001024&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=354300167043&region=0&sub_region=0&type=429",
@@ -4802,13 +4802,13 @@ export const duma_2003_uik_428_region_54_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Гвоздев Анатолий Викторович": 1,
-      "Каргаполов Юрий Сидорович": 1,
-      "Логинов Евгений Леонидович": 10,
-      "Мельниченко Наталья Владимировна": 2,
-      "Миронов Борис Сергеевич": 4,
-      "Харитонов Николай Михайлович": 43,
-      "Против всех": 19
+      "gas:candidate-vibid:1001000113957": 1,
+      "gas:candidate-vibid:354300166795": 1,
+      "gas:candidate-vibid:1001000136089": 10,
+      "gas:candidate-vibid:1001000217940": 2,
+      "gas:candidate-vibid:354300166792": 4,
+      "gas:candidate-vibid:1001000121879": 43,
+      "special:against-all": 19
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=543001024&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=354300167043&region=0&sub_region=0&type=429",
@@ -4858,13 +4858,13 @@ export const duma_2003_uik_428_region_54_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Гвоздев Анатолий Викторович": 0,
-      "Каргаполов Юрий Сидорович": 0,
-      "Логинов Евгений Леонидович": 3,
-      "Мельниченко Наталья Владимировна": 0,
-      "Миронов Борис Сергеевич": 0,
-      "Харитонов Николай Михайлович": 22,
-      "Против всех": 3
+      "gas:candidate-vibid:1001000113957": 0,
+      "gas:candidate-vibid:354300166795": 0,
+      "gas:candidate-vibid:1001000136089": 3,
+      "gas:candidate-vibid:1001000217940": 0,
+      "gas:candidate-vibid:354300166792": 0,
+      "gas:candidate-vibid:1001000121879": 22,
+      "special:against-all": 3
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=543001024&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=354300167043&region=0&sub_region=0&type=429",
@@ -4914,13 +4914,13 @@ export const duma_2003_uik_428_region_54_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Гвоздев Анатолий Викторович": 35,
-      "Каргаполов Юрий Сидорович": 19,
-      "Логинов Евгений Леонидович": 93,
-      "Мельниченко Наталья Владимировна": 41,
-      "Миронов Борис Сергеевич": 18,
-      "Харитонов Николай Михайлович": 252,
-      "Против всех": 103
+      "gas:candidate-vibid:1001000113957": 35,
+      "gas:candidate-vibid:354300166795": 19,
+      "gas:candidate-vibid:1001000136089": 93,
+      "gas:candidate-vibid:1001000217940": 41,
+      "gas:candidate-vibid:354300166792": 18,
+      "gas:candidate-vibid:1001000121879": 252,
+      "special:against-all": 103
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=543001025&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=354300167044&region=0&sub_region=0&type=429",
@@ -4970,13 +4970,13 @@ export const duma_2003_uik_428_region_54_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Гвоздев Анатолий Викторович": 39,
-      "Каргаполов Юрий Сидорович": 15,
-      "Логинов Евгений Леонидович": 167,
-      "Мельниченко Наталья Владимировна": 30,
-      "Миронов Борис Сергеевич": 42,
-      "Харитонов Николай Михайлович": 259,
-      "Против всех": 119
+      "gas:candidate-vibid:1001000113957": 39,
+      "gas:candidate-vibid:354300166795": 15,
+      "gas:candidate-vibid:1001000136089": 167,
+      "gas:candidate-vibid:1001000217940": 30,
+      "gas:candidate-vibid:354300166792": 42,
+      "gas:candidate-vibid:1001000121879": 259,
+      "special:against-all": 119
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=543001025&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=354300167044&region=0&sub_region=0&type=429",
@@ -5026,13 +5026,13 @@ export const duma_2003_uik_428_region_54_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Гвоздев Анатолий Викторович": 27,
-      "Каргаполов Юрий Сидорович": 14,
-      "Логинов Евгений Леонидович": 123,
-      "Мельниченко Наталья Владимировна": 37,
-      "Миронов Борис Сергеевич": 27,
-      "Харитонов Николай Михайлович": 330,
-      "Против всех": 131
+      "gas:candidate-vibid:1001000113957": 27,
+      "gas:candidate-vibid:354300166795": 14,
+      "gas:candidate-vibid:1001000136089": 123,
+      "gas:candidate-vibid:1001000217940": 37,
+      "gas:candidate-vibid:354300166792": 27,
+      "gas:candidate-vibid:1001000121879": 330,
+      "special:against-all": 131
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=543001025&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=354300167044&region=0&sub_region=0&type=429",
@@ -5082,13 +5082,13 @@ export const duma_2003_uik_428_region_54_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Гвоздев Анатолий Викторович": 42,
-      "Каргаполов Юрий Сидорович": 9,
-      "Логинов Евгений Леонидович": 103,
-      "Мельниченко Наталья Владимировна": 22,
-      "Миронов Борис Сергеевич": 15,
-      "Харитонов Николай Михайлович": 220,
-      "Против всех": 100
+      "gas:candidate-vibid:1001000113957": 42,
+      "gas:candidate-vibid:354300166795": 9,
+      "gas:candidate-vibid:1001000136089": 103,
+      "gas:candidate-vibid:1001000217940": 22,
+      "gas:candidate-vibid:354300166792": 15,
+      "gas:candidate-vibid:1001000121879": 220,
+      "special:against-all": 100
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=543001025&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=354300167044&region=0&sub_region=0&type=429",
@@ -5138,13 +5138,13 @@ export const duma_2003_uik_428_region_54_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Гвоздев Анатолий Викторович": 38,
-      "Каргаполов Юрий Сидорович": 22,
-      "Логинов Евгений Леонидович": 120,
-      "Мельниченко Наталья Владимировна": 40,
-      "Миронов Борис Сергеевич": 29,
-      "Харитонов Николай Михайлович": 220,
-      "Против всех": 107
+      "gas:candidate-vibid:1001000113957": 38,
+      "gas:candidate-vibid:354300166795": 22,
+      "gas:candidate-vibid:1001000136089": 120,
+      "gas:candidate-vibid:1001000217940": 40,
+      "gas:candidate-vibid:354300166792": 29,
+      "gas:candidate-vibid:1001000121879": 220,
+      "special:against-all": 107
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=543001025&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=354300167044&region=0&sub_region=0&type=429",
@@ -5194,13 +5194,13 @@ export const duma_2003_uik_428_region_54_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Гвоздев Анатолий Викторович": 33,
-      "Каргаполов Юрий Сидорович": 10,
-      "Логинов Евгений Леонидович": 59,
-      "Мельниченко Наталья Владимировна": 21,
-      "Миронов Борис Сергеевич": 15,
-      "Харитонов Николай Михайлович": 148,
-      "Против всех": 94
+      "gas:candidate-vibid:1001000113957": 33,
+      "gas:candidate-vibid:354300166795": 10,
+      "gas:candidate-vibid:1001000136089": 59,
+      "gas:candidate-vibid:1001000217940": 21,
+      "gas:candidate-vibid:354300166792": 15,
+      "gas:candidate-vibid:1001000121879": 148,
+      "special:against-all": 94
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=543001025&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=354300167044&region=0&sub_region=0&type=429",
@@ -5250,13 +5250,13 @@ export const duma_2003_uik_428_region_54_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Гвоздев Анатолий Викторович": 46,
-      "Каргаполов Юрий Сидорович": 17,
-      "Логинов Евгений Леонидович": 168,
-      "Мельниченко Наталья Владимировна": 50,
-      "Миронов Борис Сергеевич": 31,
-      "Харитонов Николай Михайлович": 259,
-      "Против всех": 145
+      "gas:candidate-vibid:1001000113957": 46,
+      "gas:candidate-vibid:354300166795": 17,
+      "gas:candidate-vibid:1001000136089": 168,
+      "gas:candidate-vibid:1001000217940": 50,
+      "gas:candidate-vibid:354300166792": 31,
+      "gas:candidate-vibid:1001000121879": 259,
+      "special:against-all": 145
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=543001025&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=354300167044&region=0&sub_region=0&type=429",
@@ -5306,13 +5306,13 @@ export const duma_2003_uik_428_region_54_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Гвоздев Анатолий Викторович": 25,
-      "Каргаполов Юрий Сидорович": 9,
-      "Логинов Евгений Леонидович": 91,
-      "Мельниченко Наталья Владимировна": 15,
-      "Миронов Борис Сергеевич": 15,
-      "Харитонов Николай Михайлович": 162,
-      "Против всех": 80
+      "gas:candidate-vibid:1001000113957": 25,
+      "gas:candidate-vibid:354300166795": 9,
+      "gas:candidate-vibid:1001000136089": 91,
+      "gas:candidate-vibid:1001000217940": 15,
+      "gas:candidate-vibid:354300166792": 15,
+      "gas:candidate-vibid:1001000121879": 162,
+      "special:against-all": 80
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=543001025&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=354300167044&region=0&sub_region=0&type=429",
@@ -5362,13 +5362,13 @@ export const duma_2003_uik_428_region_54_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Гвоздев Анатолий Викторович": 16,
-      "Каргаполов Юрий Сидорович": 6,
-      "Логинов Евгений Леонидович": 66,
-      "Мельниченко Наталья Владимировна": 13,
-      "Миронов Борис Сергеевич": 9,
-      "Харитонов Николай Михайлович": 145,
-      "Против всех": 69
+      "gas:candidate-vibid:1001000113957": 16,
+      "gas:candidate-vibid:354300166795": 6,
+      "gas:candidate-vibid:1001000136089": 66,
+      "gas:candidate-vibid:1001000217940": 13,
+      "gas:candidate-vibid:354300166792": 9,
+      "gas:candidate-vibid:1001000121879": 145,
+      "special:against-all": 69
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=543001025&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=354300167044&region=0&sub_region=0&type=429",
@@ -5418,13 +5418,13 @@ export const duma_2003_uik_428_region_54_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Гвоздев Анатолий Викторович": 19,
-      "Каргаполов Юрий Сидорович": 12,
-      "Логинов Евгений Леонидович": 61,
-      "Мельниченко Наталья Владимировна": 21,
-      "Миронов Борис Сергеевич": 18,
-      "Харитонов Николай Михайлович": 78,
-      "Против всех": 65
+      "gas:candidate-vibid:1001000113957": 19,
+      "gas:candidate-vibid:354300166795": 12,
+      "gas:candidate-vibid:1001000136089": 61,
+      "gas:candidate-vibid:1001000217940": 21,
+      "gas:candidate-vibid:354300166792": 18,
+      "gas:candidate-vibid:1001000121879": 78,
+      "special:against-all": 65
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=543001025&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=354300167044&region=0&sub_region=0&type=429",
@@ -5474,13 +5474,13 @@ export const duma_2003_uik_428_region_54_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Гвоздев Анатолий Викторович": 23,
-      "Каргаполов Юрий Сидорович": 10,
-      "Логинов Евгений Леонидович": 47,
-      "Мельниченко Наталья Владимировна": 27,
-      "Миронов Борис Сергеевич": 15,
-      "Харитонов Николай Михайлович": 154,
-      "Против всех": 58
+      "gas:candidate-vibid:1001000113957": 23,
+      "gas:candidate-vibid:354300166795": 10,
+      "gas:candidate-vibid:1001000136089": 47,
+      "gas:candidate-vibid:1001000217940": 27,
+      "gas:candidate-vibid:354300166792": 15,
+      "gas:candidate-vibid:1001000121879": 154,
+      "special:against-all": 58
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=543001025&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=354300167044&region=0&sub_region=0&type=429",
@@ -5530,13 +5530,13 @@ export const duma_2003_uik_428_region_54_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Гвоздев Анатолий Викторович": 0,
-      "Каргаполов Юрий Сидорович": 0,
-      "Логинов Евгений Леонидович": 0,
-      "Мельниченко Наталья Владимировна": 0,
-      "Миронов Борис Сергеевич": 2,
-      "Харитонов Николай Михайлович": 37,
-      "Против всех": 6
+      "gas:candidate-vibid:1001000113957": 0,
+      "gas:candidate-vibid:354300166795": 0,
+      "gas:candidate-vibid:1001000136089": 0,
+      "gas:candidate-vibid:1001000217940": 0,
+      "gas:candidate-vibid:354300166792": 2,
+      "gas:candidate-vibid:1001000121879": 37,
+      "special:against-all": 6
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=543001025&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=354300167044&region=0&sub_region=0&type=429",
@@ -5586,13 +5586,13 @@ export const duma_2003_uik_428_region_54_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Гвоздев Анатолий Викторович": 0,
-      "Каргаполов Юрий Сидорович": 0,
-      "Логинов Евгений Леонидович": 2,
-      "Мельниченко Наталья Владимировна": 4,
-      "Миронов Борис Сергеевич": 3,
-      "Харитонов Николай Михайлович": 37,
-      "Против всех": 3
+      "gas:candidate-vibid:1001000113957": 0,
+      "gas:candidate-vibid:354300166795": 0,
+      "gas:candidate-vibid:1001000136089": 2,
+      "gas:candidate-vibid:1001000217940": 4,
+      "gas:candidate-vibid:354300166792": 3,
+      "gas:candidate-vibid:1001000121879": 37,
+      "special:against-all": 3
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=543001025&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=354300167044&region=0&sub_region=0&type=429",
@@ -5642,13 +5642,13 @@ export const duma_2003_uik_428_region_54_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Гвоздев Анатолий Викторович": 13,
-      "Каргаполов Юрий Сидорович": 5,
-      "Логинов Евгений Леонидович": 49,
-      "Мельниченко Наталья Владимировна": 17,
-      "Миронов Борис Сергеевич": 15,
-      "Харитонов Николай Михайлович": 170,
-      "Против всех": 33
+      "gas:candidate-vibid:1001000113957": 13,
+      "gas:candidate-vibid:354300166795": 5,
+      "gas:candidate-vibid:1001000136089": 49,
+      "gas:candidate-vibid:1001000217940": 17,
+      "gas:candidate-vibid:354300166792": 15,
+      "gas:candidate-vibid:1001000121879": 170,
+      "special:against-all": 33
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=543001025&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=354300167044&region=0&sub_region=0&type=429",
@@ -5698,13 +5698,13 @@ export const duma_2003_uik_428_region_54_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Гвоздев Анатолий Викторович": 2,
-      "Каргаполов Юрий Сидорович": 2,
-      "Логинов Евгений Леонидович": 9,
-      "Мельниченко Наталья Владимировна": 1,
-      "Миронов Борис Сергеевич": 3,
-      "Харитонов Николай Михайлович": 46,
-      "Против всех": 14
+      "gas:candidate-vibid:1001000113957": 2,
+      "gas:candidate-vibid:354300166795": 2,
+      "gas:candidate-vibid:1001000136089": 9,
+      "gas:candidate-vibid:1001000217940": 1,
+      "gas:candidate-vibid:354300166792": 3,
+      "gas:candidate-vibid:1001000121879": 46,
+      "special:against-all": 14
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=543001025&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=354300167044&region=0&sub_region=0&type=429",
@@ -5754,13 +5754,13 @@ export const duma_2003_uik_428_region_54_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Гвоздев Анатолий Викторович": 4,
-      "Каргаполов Юрий Сидорович": 4,
-      "Логинов Евгений Леонидович": 5,
-      "Мельниченко Наталья Владимировна": 6,
-      "Миронов Борис Сергеевич": 2,
-      "Харитонов Николай Михайлович": 35,
-      "Против всех": 13
+      "gas:candidate-vibid:1001000113957": 4,
+      "gas:candidate-vibid:354300166795": 4,
+      "gas:candidate-vibid:1001000136089": 5,
+      "gas:candidate-vibid:1001000217940": 6,
+      "gas:candidate-vibid:354300166792": 2,
+      "gas:candidate-vibid:1001000121879": 35,
+      "special:against-all": 13
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=543001025&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=354300167044&region=0&sub_region=0&type=429",
@@ -5810,13 +5810,13 @@ export const duma_2003_uik_428_region_54_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Гвоздев Анатолий Викторович": 14,
-      "Каргаполов Юрий Сидорович": 3,
-      "Логинов Евгений Леонидович": 24,
-      "Мельниченко Наталья Владимировна": 20,
-      "Миронов Борис Сергеевич": 15,
-      "Харитонов Николай Михайлович": 88,
-      "Против всех": 27
+      "gas:candidate-vibid:1001000113957": 14,
+      "gas:candidate-vibid:354300166795": 3,
+      "gas:candidate-vibid:1001000136089": 24,
+      "gas:candidate-vibid:1001000217940": 20,
+      "gas:candidate-vibid:354300166792": 15,
+      "gas:candidate-vibid:1001000121879": 88,
+      "special:against-all": 27
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=543001025&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=354300167044&region=0&sub_region=0&type=429",
@@ -5866,13 +5866,13 @@ export const duma_2003_uik_428_region_54_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Гвоздев Анатолий Викторович": 7,
-      "Каргаполов Юрий Сидорович": 4,
-      "Логинов Евгений Леонидович": 11,
-      "Мельниченко Наталья Владимировна": 4,
-      "Миронов Борис Сергеевич": 6,
-      "Харитонов Николай Михайлович": 174,
-      "Против всех": 22
+      "gas:candidate-vibid:1001000113957": 7,
+      "gas:candidate-vibid:354300166795": 4,
+      "gas:candidate-vibid:1001000136089": 11,
+      "gas:candidate-vibid:1001000217940": 4,
+      "gas:candidate-vibid:354300166792": 6,
+      "gas:candidate-vibid:1001000121879": 174,
+      "special:against-all": 22
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=543001025&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=354300167044&region=0&sub_region=0&type=429",
@@ -5922,13 +5922,13 @@ export const duma_2003_uik_428_region_54_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Гвоздев Анатолий Викторович": 25,
-      "Каргаполов Юрий Сидорович": 6,
-      "Логинов Евгений Леонидович": 30,
-      "Мельниченко Наталья Владимировна": 21,
-      "Миронов Борис Сергеевич": 18,
-      "Харитонов Николай Михайлович": 195,
-      "Против всех": 38
+      "gas:candidate-vibid:1001000113957": 25,
+      "gas:candidate-vibid:354300166795": 6,
+      "gas:candidate-vibid:1001000136089": 30,
+      "gas:candidate-vibid:1001000217940": 21,
+      "gas:candidate-vibid:354300166792": 18,
+      "gas:candidate-vibid:1001000121879": 195,
+      "special:against-all": 38
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=543001025&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=354300167044&region=0&sub_region=0&type=429",
@@ -5978,13 +5978,13 @@ export const duma_2003_uik_428_region_54_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Гвоздев Анатолий Викторович": 7,
-      "Каргаполов Юрий Сидорович": 3,
-      "Логинов Евгений Леонидович": 42,
-      "Мельниченко Наталья Владимировна": 15,
-      "Миронов Борис Сергеевич": 15,
-      "Харитонов Николай Михайлович": 202,
-      "Против всех": 67
+      "gas:candidate-vibid:1001000113957": 7,
+      "gas:candidate-vibid:354300166795": 3,
+      "gas:candidate-vibid:1001000136089": 42,
+      "gas:candidate-vibid:1001000217940": 15,
+      "gas:candidate-vibid:354300166792": 15,
+      "gas:candidate-vibid:1001000121879": 202,
+      "special:against-all": 67
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=543001025&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=354300167044&region=0&sub_region=0&type=429",
@@ -6034,13 +6034,13 @@ export const duma_2003_uik_428_region_54_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Гвоздев Анатолий Викторович": 0,
-      "Каргаполов Юрий Сидорович": 0,
-      "Логинов Евгений Леонидович": 0,
-      "Мельниченко Наталья Владимировна": 0,
-      "Миронов Борис Сергеевич": 0,
-      "Харитонов Николай Михайлович": 22,
-      "Против всех": 2
+      "gas:candidate-vibid:1001000113957": 0,
+      "gas:candidate-vibid:354300166795": 0,
+      "gas:candidate-vibid:1001000136089": 0,
+      "gas:candidate-vibid:1001000217940": 0,
+      "gas:candidate-vibid:354300166792": 0,
+      "gas:candidate-vibid:1001000121879": 22,
+      "special:against-all": 2
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=543001025&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=354300167044&region=0&sub_region=0&type=429",
@@ -6090,13 +6090,13 @@ export const duma_2003_uik_428_region_54_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Гвоздев Анатолий Викторович": 1,
-      "Каргаполов Юрий Сидорович": 0,
-      "Логинов Евгений Леонидович": 3,
-      "Мельниченко Наталья Владимировна": 0,
-      "Миронов Борис Сергеевич": 1,
-      "Харитонов Николай Михайлович": 33,
-      "Против всех": 2
+      "gas:candidate-vibid:1001000113957": 1,
+      "gas:candidate-vibid:354300166795": 0,
+      "gas:candidate-vibid:1001000136089": 3,
+      "gas:candidate-vibid:1001000217940": 0,
+      "gas:candidate-vibid:354300166792": 1,
+      "gas:candidate-vibid:1001000121879": 33,
+      "special:against-all": 2
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=543001025&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=354300167044&region=0&sub_region=0&type=429",
@@ -6146,13 +6146,13 @@ export const duma_2003_uik_428_region_54_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Гвоздев Анатолий Викторович": 36,
-      "Каргаполов Юрий Сидорович": 12,
-      "Логинов Евгений Леонидович": 86,
-      "Мельниченко Наталья Владимировна": 150,
-      "Миронов Борис Сергеевич": 16,
-      "Харитонов Николай Михайлович": 389,
-      "Против всех": 65
+      "gas:candidate-vibid:1001000113957": 36,
+      "gas:candidate-vibid:354300166795": 12,
+      "gas:candidate-vibid:1001000136089": 86,
+      "gas:candidate-vibid:1001000217940": 150,
+      "gas:candidate-vibid:354300166792": 16,
+      "gas:candidate-vibid:1001000121879": 389,
+      "special:against-all": 65
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=543001025&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=354300167044&region=0&sub_region=0&type=429",
@@ -6202,13 +6202,13 @@ export const duma_2003_uik_428_region_54_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Гвоздев Анатолий Викторович": 0,
-      "Каргаполов Юрий Сидорович": 0,
-      "Логинов Евгений Леонидович": 11,
-      "Мельниченко Наталья Владимировна": 1,
-      "Миронов Борис Сергеевич": 2,
-      "Харитонов Николай Михайлович": 41,
-      "Против всех": 3
+      "gas:candidate-vibid:1001000113957": 0,
+      "gas:candidate-vibid:354300166795": 0,
+      "gas:candidate-vibid:1001000136089": 11,
+      "gas:candidate-vibid:1001000217940": 1,
+      "gas:candidate-vibid:354300166792": 2,
+      "gas:candidate-vibid:1001000121879": 41,
+      "special:against-all": 3
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=543001025&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=354300167044&region=0&sub_region=0&type=429",
@@ -6258,13 +6258,13 @@ export const duma_2003_uik_428_region_54_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Гвоздев Анатолий Викторович": 18,
-      "Каргаполов Юрий Сидорович": 8,
-      "Логинов Евгений Леонидович": 29,
-      "Мельниченко Наталья Владимировна": 16,
-      "Миронов Борис Сергеевич": 8,
-      "Харитонов Николай Михайлович": 105,
-      "Против всех": 36
+      "gas:candidate-vibid:1001000113957": 18,
+      "gas:candidate-vibid:354300166795": 8,
+      "gas:candidate-vibid:1001000136089": 29,
+      "gas:candidate-vibid:1001000217940": 16,
+      "gas:candidate-vibid:354300166792": 8,
+      "gas:candidate-vibid:1001000121879": 105,
+      "special:against-all": 36
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=543001025&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=354300167044&region=0&sub_region=0&type=429",
@@ -6314,13 +6314,13 @@ export const duma_2003_uik_428_region_54_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Гвоздев Анатолий Викторович": 0,
-      "Каргаполов Юрий Сидорович": 0,
-      "Логинов Евгений Леонидович": 3,
-      "Мельниченко Наталья Владимировна": 0,
-      "Миронов Борис Сергеевич": 1,
-      "Харитонов Николай Михайлович": 45,
-      "Против всех": 6
+      "gas:candidate-vibid:1001000113957": 0,
+      "gas:candidate-vibid:354300166795": 0,
+      "gas:candidate-vibid:1001000136089": 3,
+      "gas:candidate-vibid:1001000217940": 0,
+      "gas:candidate-vibid:354300166792": 1,
+      "gas:candidate-vibid:1001000121879": 45,
+      "special:against-all": 6
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=543001025&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=354300167044&region=0&sub_region=0&type=429",
@@ -6370,13 +6370,13 @@ export const duma_2003_uik_428_region_54_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Гвоздев Анатолий Викторович": 14,
-      "Каргаполов Юрий Сидорович": 10,
-      "Логинов Евгений Леонидович": 66,
-      "Мельниченко Наталья Владимировна": 17,
-      "Миронов Борис Сергеевич": 23,
-      "Харитонов Николай Михайлович": 167,
-      "Против всех": 51
+      "gas:candidate-vibid:1001000113957": 14,
+      "gas:candidate-vibid:354300166795": 10,
+      "gas:candidate-vibid:1001000136089": 66,
+      "gas:candidate-vibid:1001000217940": 17,
+      "gas:candidate-vibid:354300166792": 23,
+      "gas:candidate-vibid:1001000121879": 167,
+      "special:against-all": 51
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=543001025&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=354300167044&region=0&sub_region=0&type=429",
@@ -6426,13 +6426,13 @@ export const duma_2003_uik_428_region_54_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Гвоздев Анатолий Викторович": 0,
-      "Каргаполов Юрий Сидорович": 1,
-      "Логинов Евгений Леонидович": 0,
-      "Мельниченко Наталья Владимировна": 0,
-      "Миронов Борис Сергеевич": 0,
-      "Харитонов Николай Михайлович": 24,
-      "Против всех": 2
+      "gas:candidate-vibid:1001000113957": 0,
+      "gas:candidate-vibid:354300166795": 1,
+      "gas:candidate-vibid:1001000136089": 0,
+      "gas:candidate-vibid:1001000217940": 0,
+      "gas:candidate-vibid:354300166792": 0,
+      "gas:candidate-vibid:1001000121879": 24,
+      "special:against-all": 2
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=543001025&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=354300167044&region=0&sub_region=0&type=429",
@@ -6482,13 +6482,13 @@ export const duma_2003_uik_428_region_54_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Гвоздев Анатолий Викторович": 15,
-      "Каргаполов Юрий Сидорович": 8,
-      "Логинов Евгений Леонидович": 54,
-      "Мельниченко Наталья Владимировна": 17,
-      "Миронов Борис Сергеевич": 8,
-      "Харитонов Николай Михайлович": 118,
-      "Против всех": 55
+      "gas:candidate-vibid:1001000113957": 15,
+      "gas:candidate-vibid:354300166795": 8,
+      "gas:candidate-vibid:1001000136089": 54,
+      "gas:candidate-vibid:1001000217940": 17,
+      "gas:candidate-vibid:354300166792": 8,
+      "gas:candidate-vibid:1001000121879": 118,
+      "special:against-all": 55
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=543001025&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=354300167044&region=0&sub_region=0&type=429",
@@ -6538,13 +6538,13 @@ export const duma_2003_uik_428_region_54_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Гвоздев Анатолий Викторович": 0,
-      "Каргаполов Юрий Сидорович": 2,
-      "Логинов Евгений Леонидович": 8,
-      "Мельниченко Наталья Владимировна": 2,
-      "Миронов Борис Сергеевич": 4,
-      "Харитонов Николай Михайлович": 70,
-      "Против всех": 19
+      "gas:candidate-vibid:1001000113957": 0,
+      "gas:candidate-vibid:354300166795": 2,
+      "gas:candidate-vibid:1001000136089": 8,
+      "gas:candidate-vibid:1001000217940": 2,
+      "gas:candidate-vibid:354300166792": 4,
+      "gas:candidate-vibid:1001000121879": 70,
+      "special:against-all": 19
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=543001025&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=354300167044&region=0&sub_region=0&type=429",
@@ -6594,13 +6594,13 @@ export const duma_2003_uik_428_region_54_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Гвоздев Анатолий Викторович": 2,
-      "Каргаполов Юрий Сидорович": 0,
-      "Логинов Евгений Леонидович": 16,
-      "Мельниченко Наталья Владимировна": 5,
-      "Миронов Борис Сергеевич": 2,
-      "Харитонов Николай Михайлович": 18,
-      "Против всех": 9
+      "gas:candidate-vibid:1001000113957": 2,
+      "gas:candidate-vibid:354300166795": 0,
+      "gas:candidate-vibid:1001000136089": 16,
+      "gas:candidate-vibid:1001000217940": 5,
+      "gas:candidate-vibid:354300166792": 2,
+      "gas:candidate-vibid:1001000121879": 18,
+      "special:against-all": 9
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=543001025&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=354300167044&region=0&sub_region=0&type=429",
@@ -6650,13 +6650,13 @@ export const duma_2003_uik_428_region_54_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Гвоздев Анатолий Викторович": 4,
-      "Каргаполов Юрий Сидорович": 4,
-      "Логинов Евгений Леонидович": 49,
-      "Мельниченко Наталья Владимировна": 20,
-      "Миронов Борис Сергеевич": 5,
-      "Харитонов Николай Михайлович": 94,
-      "Против всех": 49
+      "gas:candidate-vibid:1001000113957": 4,
+      "gas:candidate-vibid:354300166795": 4,
+      "gas:candidate-vibid:1001000136089": 49,
+      "gas:candidate-vibid:1001000217940": 20,
+      "gas:candidate-vibid:354300166792": 5,
+      "gas:candidate-vibid:1001000121879": 94,
+      "special:against-all": 49
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=543001025&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=354300167044&region=0&sub_region=0&type=429",
@@ -6706,13 +6706,13 @@ export const duma_2003_uik_428_region_54_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Гвоздев Анатолий Викторович": 16,
-      "Каргаполов Юрий Сидорович": 8,
-      "Логинов Евгений Леонидович": 43,
-      "Мельниченко Наталья Владимировна": 30,
-      "Миронов Борис Сергеевич": 11,
-      "Харитонов Николай Михайлович": 158,
-      "Против всех": 64
+      "gas:candidate-vibid:1001000113957": 16,
+      "gas:candidate-vibid:354300166795": 8,
+      "gas:candidate-vibid:1001000136089": 43,
+      "gas:candidate-vibid:1001000217940": 30,
+      "gas:candidate-vibid:354300166792": 11,
+      "gas:candidate-vibid:1001000121879": 158,
+      "special:against-all": 64
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=543001025&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=354300167044&region=0&sub_region=0&type=429",
@@ -6762,13 +6762,13 @@ export const duma_2003_uik_428_region_54_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Гвоздев Анатолий Викторович": 3,
-      "Каргаполов Юрий Сидорович": 0,
-      "Логинов Евгений Леонидович": 37,
-      "Мельниченко Наталья Владимировна": 1,
-      "Миронов Борис Сергеевич": 6,
-      "Харитонов Николай Михайлович": 35,
-      "Против всех": 7
+      "gas:candidate-vibid:1001000113957": 3,
+      "gas:candidate-vibid:354300166795": 0,
+      "gas:candidate-vibid:1001000136089": 37,
+      "gas:candidate-vibid:1001000217940": 1,
+      "gas:candidate-vibid:354300166792": 6,
+      "gas:candidate-vibid:1001000121879": 35,
+      "special:against-all": 7
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=543001025&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=354300167044&region=0&sub_region=0&type=429",
@@ -6818,13 +6818,13 @@ export const duma_2003_uik_428_region_54_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Гвоздев Анатолий Викторович": 2,
-      "Каргаполов Юрий Сидорович": 1,
-      "Логинов Евгений Леонидович": 7,
-      "Мельниченко Наталья Владимировна": 3,
-      "Миронов Борис Сергеевич": 3,
-      "Харитонов Николай Михайлович": 43,
-      "Против всех": 10
+      "gas:candidate-vibid:1001000113957": 2,
+      "gas:candidate-vibid:354300166795": 1,
+      "gas:candidate-vibid:1001000136089": 7,
+      "gas:candidate-vibid:1001000217940": 3,
+      "gas:candidate-vibid:354300166792": 3,
+      "gas:candidate-vibid:1001000121879": 43,
+      "special:against-all": 10
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=543001025&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=354300167044&region=0&sub_region=0&type=429",
@@ -6874,13 +6874,13 @@ export const duma_2003_uik_428_region_54_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Гвоздев Анатолий Викторович": 3,
-      "Каргаполов Юрий Сидорович": 2,
-      "Логинов Евгений Леонидович": 7,
-      "Мельниченко Наталья Владимировна": 0,
-      "Миронов Борис Сергеевич": 0,
-      "Харитонов Николай Михайлович": 32,
-      "Против всех": 1
+      "gas:candidate-vibid:1001000113957": 3,
+      "gas:candidate-vibid:354300166795": 2,
+      "gas:candidate-vibid:1001000136089": 7,
+      "gas:candidate-vibid:1001000217940": 0,
+      "gas:candidate-vibid:354300166792": 0,
+      "gas:candidate-vibid:1001000121879": 32,
+      "special:against-all": 1
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=543001025&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=354300167044&region=0&sub_region=0&type=429",
@@ -6930,13 +6930,13 @@ export const duma_2003_uik_428_region_54_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Гвоздев Анатолий Викторович": 0,
-      "Каргаполов Юрий Сидорович": 0,
-      "Логинов Евгений Леонидович": 28,
-      "Мельниченко Наталья Владимировна": 6,
-      "Миронов Борис Сергеевич": 1,
-      "Харитонов Николай Михайлович": 8,
-      "Против всех": 18
+      "gas:candidate-vibid:1001000113957": 0,
+      "gas:candidate-vibid:354300166795": 0,
+      "gas:candidate-vibid:1001000136089": 28,
+      "gas:candidate-vibid:1001000217940": 6,
+      "gas:candidate-vibid:354300166792": 1,
+      "gas:candidate-vibid:1001000121879": 8,
+      "special:against-all": 18
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=543001025&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=354300167044&region=0&sub_region=0&type=429",
@@ -6986,13 +6986,13 @@ export const duma_2003_uik_428_region_54_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Гвоздев Анатолий Викторович": 35,
-      "Каргаполов Юрий Сидорович": 12,
-      "Логинов Евгений Леонидович": 63,
-      "Мельниченко Наталья Владимировна": 19,
-      "Миронов Борис Сергеевич": 22,
-      "Харитонов Николай Михайлович": 216,
-      "Против всех": 72
+      "gas:candidate-vibid:1001000113957": 35,
+      "gas:candidate-vibid:354300166795": 12,
+      "gas:candidate-vibid:1001000136089": 63,
+      "gas:candidate-vibid:1001000217940": 19,
+      "gas:candidate-vibid:354300166792": 22,
+      "gas:candidate-vibid:1001000121879": 216,
+      "special:against-all": 72
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=543001025&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=354300167044&region=0&sub_region=0&type=429",
@@ -7042,13 +7042,13 @@ export const duma_2003_uik_428_region_54_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Гвоздев Анатолий Викторович": 1,
-      "Каргаполов Юрий Сидорович": 0,
-      "Логинов Евгений Леонидович": 27,
-      "Мельниченко Наталья Владимировна": 5,
-      "Миронов Борис Сергеевич": 4,
-      "Харитонов Николай Михайлович": 24,
-      "Против всех": 17
+      "gas:candidate-vibid:1001000113957": 1,
+      "gas:candidate-vibid:354300166795": 0,
+      "gas:candidate-vibid:1001000136089": 27,
+      "gas:candidate-vibid:1001000217940": 5,
+      "gas:candidate-vibid:354300166792": 4,
+      "gas:candidate-vibid:1001000121879": 24,
+      "special:against-all": 17
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=543001025&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=354300167044&region=0&sub_region=0&type=429",
@@ -7098,13 +7098,13 @@ export const duma_2003_uik_428_region_54_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Гвоздев Анатолий Викторович": 4,
-      "Каргаполов Юрий Сидорович": 2,
-      "Логинов Евгений Леонидович": 22,
-      "Мельниченко Наталья Владимировна": 2,
-      "Миронов Борис Сергеевич": 2,
-      "Харитонов Николай Михайлович": 30,
-      "Против всех": 12
+      "gas:candidate-vibid:1001000113957": 4,
+      "gas:candidate-vibid:354300166795": 2,
+      "gas:candidate-vibid:1001000136089": 22,
+      "gas:candidate-vibid:1001000217940": 2,
+      "gas:candidate-vibid:354300166792": 2,
+      "gas:candidate-vibid:1001000121879": 30,
+      "special:against-all": 12
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=543001025&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=354300167044&region=0&sub_region=0&type=429",
@@ -7154,13 +7154,13 @@ export const duma_2003_uik_428_region_54_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Гвоздев Анатолий Викторович": 2,
-      "Каргаполов Юрий Сидорович": 0,
-      "Логинов Евгений Леонидович": 24,
-      "Мельниченко Наталья Владимировна": 5,
-      "Миронов Борис Сергеевич": 1,
-      "Харитонов Николай Михайлович": 19,
-      "Против всех": 4
+      "gas:candidate-vibid:1001000113957": 2,
+      "gas:candidate-vibid:354300166795": 0,
+      "gas:candidate-vibid:1001000136089": 24,
+      "gas:candidate-vibid:1001000217940": 5,
+      "gas:candidate-vibid:354300166792": 1,
+      "gas:candidate-vibid:1001000121879": 19,
+      "special:against-all": 4
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=543001025&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=354300167044&region=0&sub_region=0&type=429",
@@ -7210,13 +7210,13 @@ export const duma_2003_uik_428_region_54_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Гвоздев Анатолий Викторович": 14,
-      "Каргаполов Юрий Сидорович": 19,
-      "Логинов Евгений Леонидович": 38,
-      "Мельниченко Наталья Владимировна": 26,
-      "Миронов Борис Сергеевич": 8,
-      "Харитонов Николай Михайлович": 225,
-      "Против всех": 82
+      "gas:candidate-vibid:1001000113957": 14,
+      "gas:candidate-vibid:354300166795": 19,
+      "gas:candidate-vibid:1001000136089": 38,
+      "gas:candidate-vibid:1001000217940": 26,
+      "gas:candidate-vibid:354300166792": 8,
+      "gas:candidate-vibid:1001000121879": 225,
+      "special:against-all": 82
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=543001025&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=354300167044&region=0&sub_region=0&type=429",
@@ -7266,13 +7266,13 @@ export const duma_2003_uik_428_region_54_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Гвоздев Анатолий Викторович": 5,
-      "Каргаполов Юрий Сидорович": 2,
-      "Логинов Евгений Леонидович": 11,
-      "Мельниченко Наталья Владимировна": 0,
-      "Миронов Борис Сергеевич": 2,
-      "Харитонов Николай Михайлович": 21,
-      "Против всех": 5
+      "gas:candidate-vibid:1001000113957": 5,
+      "gas:candidate-vibid:354300166795": 2,
+      "gas:candidate-vibid:1001000136089": 11,
+      "gas:candidate-vibid:1001000217940": 0,
+      "gas:candidate-vibid:354300166792": 2,
+      "gas:candidate-vibid:1001000121879": 21,
+      "special:against-all": 5
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=543001025&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=354300167044&region=0&sub_region=0&type=429",
@@ -7322,13 +7322,13 @@ export const duma_2003_uik_428_region_54_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Гвоздев Анатолий Викторович": 39,
-      "Каргаполов Юрий Сидорович": 18,
-      "Логинов Евгений Леонидович": 67,
-      "Мельниченко Наталья Владимировна": 38,
-      "Миронов Борис Сергеевич": 18,
-      "Харитонов Николай Михайлович": 256,
-      "Против всех": 61
+      "gas:candidate-vibid:1001000113957": 39,
+      "gas:candidate-vibid:354300166795": 18,
+      "gas:candidate-vibid:1001000136089": 67,
+      "gas:candidate-vibid:1001000217940": 38,
+      "gas:candidate-vibid:354300166792": 18,
+      "gas:candidate-vibid:1001000121879": 256,
+      "special:against-all": 61
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=543001025&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=354300167044&region=0&sub_region=0&type=429",
@@ -7378,13 +7378,13 @@ export const duma_2003_uik_428_region_54_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Гвоздев Анатолий Викторович": 0,
-      "Каргаполов Юрий Сидорович": 6,
-      "Логинов Евгений Леонидович": 15,
-      "Мельниченко Наталья Владимировна": 2,
-      "Миронов Борис Сергеевич": 1,
-      "Харитонов Николай Михайлович": 45,
-      "Против всех": 23
+      "gas:candidate-vibid:1001000113957": 0,
+      "gas:candidate-vibid:354300166795": 6,
+      "gas:candidate-vibid:1001000136089": 15,
+      "gas:candidate-vibid:1001000217940": 2,
+      "gas:candidate-vibid:354300166792": 1,
+      "gas:candidate-vibid:1001000121879": 45,
+      "special:against-all": 23
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=543001025&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=354300167044&region=0&sub_region=0&type=429",
@@ -7434,13 +7434,13 @@ export const duma_2003_uik_428_region_54_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Гвоздев Анатолий Викторович": 17,
-      "Каргаполов Юрий Сидорович": 12,
-      "Логинов Евгений Леонидович": 117,
-      "Мельниченко Наталья Владимировна": 30,
-      "Миронов Борис Сергеевич": 20,
-      "Харитонов Николай Михайлович": 247,
-      "Против всех": 76
+      "gas:candidate-vibid:1001000113957": 17,
+      "gas:candidate-vibid:354300166795": 12,
+      "gas:candidate-vibid:1001000136089": 117,
+      "gas:candidate-vibid:1001000217940": 30,
+      "gas:candidate-vibid:354300166792": 20,
+      "gas:candidate-vibid:1001000121879": 247,
+      "special:against-all": 76
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=543001025&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=354300167044&region=0&sub_region=0&type=429",
@@ -7490,13 +7490,13 @@ export const duma_2003_uik_428_region_54_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Гвоздев Анатолий Викторович": 5,
-      "Каргаполов Юрий Сидорович": 1,
-      "Логинов Евгений Леонидович": 54,
-      "Мельниченко Наталья Владимировна": 13,
-      "Миронов Борис Сергеевич": 2,
-      "Харитонов Николай Михайлович": 45,
-      "Против всех": 28
+      "gas:candidate-vibid:1001000113957": 5,
+      "gas:candidate-vibid:354300166795": 1,
+      "gas:candidate-vibid:1001000136089": 54,
+      "gas:candidate-vibid:1001000217940": 13,
+      "gas:candidate-vibid:354300166792": 2,
+      "gas:candidate-vibid:1001000121879": 45,
+      "special:against-all": 28
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=543001025&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=354300167044&region=0&sub_region=0&type=429",
@@ -7546,13 +7546,13 @@ export const duma_2003_uik_428_region_54_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Гвоздев Анатолий Викторович": 6,
-      "Каргаполов Юрий Сидорович": 2,
-      "Логинов Евгений Леонидович": 19,
-      "Мельниченко Наталья Владимировна": 3,
-      "Миронов Борис Сергеевич": 1,
-      "Харитонов Николай Михайлович": 37,
-      "Против всех": 9
+      "gas:candidate-vibid:1001000113957": 6,
+      "gas:candidate-vibid:354300166795": 2,
+      "gas:candidate-vibid:1001000136089": 19,
+      "gas:candidate-vibid:1001000217940": 3,
+      "gas:candidate-vibid:354300166792": 1,
+      "gas:candidate-vibid:1001000121879": 37,
+      "special:against-all": 9
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=543001025&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=354300167044&region=0&sub_region=0&type=429",
@@ -7602,13 +7602,13 @@ export const duma_2003_uik_428_region_54_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Гвоздев Анатолий Викторович": 4,
-      "Каргаполов Юрий Сидорович": 0,
-      "Логинов Евгений Леонидович": 8,
-      "Мельниченко Наталья Владимировна": 1,
-      "Миронов Борис Сергеевич": 1,
-      "Харитонов Николай Михайлович": 47,
-      "Против всех": 5
+      "gas:candidate-vibid:1001000113957": 4,
+      "gas:candidate-vibid:354300166795": 0,
+      "gas:candidate-vibid:1001000136089": 8,
+      "gas:candidate-vibid:1001000217940": 1,
+      "gas:candidate-vibid:354300166792": 1,
+      "gas:candidate-vibid:1001000121879": 47,
+      "special:against-all": 5
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=543001025&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=354300167044&region=0&sub_region=0&type=429",
@@ -7658,13 +7658,13 @@ export const duma_2003_uik_428_region_54_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Гвоздев Анатолий Викторович": 2,
-      "Каргаполов Юрий Сидорович": 0,
-      "Логинов Евгений Леонидович": 12,
-      "Мельниченко Наталья Владимировна": 10,
-      "Миронов Борис Сергеевич": 1,
-      "Харитонов Николай Михайлович": 33,
-      "Против всех": 14
+      "gas:candidate-vibid:1001000113957": 2,
+      "gas:candidate-vibid:354300166795": 0,
+      "gas:candidate-vibid:1001000136089": 12,
+      "gas:candidate-vibid:1001000217940": 10,
+      "gas:candidate-vibid:354300166792": 1,
+      "gas:candidate-vibid:1001000121879": 33,
+      "special:against-all": 14
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=543001025&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=354300167044&region=0&sub_region=0&type=429",
@@ -7714,13 +7714,13 @@ export const duma_2003_uik_428_region_54_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Гвоздев Анатолий Викторович": 35,
-      "Каргаполов Юрий Сидорович": 12,
-      "Логинов Евгений Леонидович": 84,
-      "Мельниченко Наталья Владимировна": 43,
-      "Миронов Борис Сергеевич": 31,
-      "Харитонов Николай Михайлович": 323,
-      "Против всех": 52
+      "gas:candidate-vibid:1001000113957": 35,
+      "gas:candidate-vibid:354300166795": 12,
+      "gas:candidate-vibid:1001000136089": 84,
+      "gas:candidate-vibid:1001000217940": 43,
+      "gas:candidate-vibid:354300166792": 31,
+      "gas:candidate-vibid:1001000121879": 323,
+      "special:against-all": 52
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=543001026&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=354300167482&region=0&sub_region=0&type=429",
@@ -7770,13 +7770,13 @@ export const duma_2003_uik_428_region_54_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Гвоздев Анатолий Викторович": 98,
-      "Каргаполов Юрий Сидорович": 23,
-      "Логинов Евгений Леонидович": 172,
-      "Мельниченко Наталья Владимировна": 100,
-      "Миронов Борис Сергеевич": 47,
-      "Харитонов Николай Михайлович": 645,
-      "Против всех": 198
+      "gas:candidate-vibid:1001000113957": 98,
+      "gas:candidate-vibid:354300166795": 23,
+      "gas:candidate-vibid:1001000136089": 172,
+      "gas:candidate-vibid:1001000217940": 100,
+      "gas:candidate-vibid:354300166792": 47,
+      "gas:candidate-vibid:1001000121879": 645,
+      "special:against-all": 198
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=543001026&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=354300167482&region=0&sub_region=0&type=429",
@@ -7826,13 +7826,13 @@ export const duma_2003_uik_428_region_54_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Гвоздев Анатолий Викторович": 71,
-      "Каргаполов Юрий Сидорович": 15,
-      "Логинов Евгений Леонидович": 154,
-      "Мельниченко Наталья Владимировна": 70,
-      "Миронов Борис Сергеевич": 18,
-      "Харитонов Николай Михайлович": 569,
-      "Против всех": 160
+      "gas:candidate-vibid:1001000113957": 71,
+      "gas:candidate-vibid:354300166795": 15,
+      "gas:candidate-vibid:1001000136089": 154,
+      "gas:candidate-vibid:1001000217940": 70,
+      "gas:candidate-vibid:354300166792": 18,
+      "gas:candidate-vibid:1001000121879": 569,
+      "special:against-all": 160
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=543001026&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=354300167482&region=0&sub_region=0&type=429",
@@ -7882,13 +7882,13 @@ export const duma_2003_uik_428_region_54_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Гвоздев Анатолий Викторович": 75,
-      "Каргаполов Юрий Сидорович": 23,
-      "Логинов Евгений Леонидович": 154,
-      "Мельниченко Наталья Владимировна": 47,
-      "Миронов Борис Сергеевич": 16,
-      "Харитонов Николай Михайлович": 554,
-      "Против всех": 152
+      "gas:candidate-vibid:1001000113957": 75,
+      "gas:candidate-vibid:354300166795": 23,
+      "gas:candidate-vibid:1001000136089": 154,
+      "gas:candidate-vibid:1001000217940": 47,
+      "gas:candidate-vibid:354300166792": 16,
+      "gas:candidate-vibid:1001000121879": 554,
+      "special:against-all": 152
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=543001026&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=354300167482&region=0&sub_region=0&type=429",
@@ -7938,13 +7938,13 @@ export const duma_2003_uik_428_region_54_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Гвоздев Анатолий Викторович": 90,
-      "Каргаполов Юрий Сидорович": 13,
-      "Логинов Евгений Леонидович": 193,
-      "Мельниченко Наталья Владимировна": 90,
-      "Миронов Борис Сергеевич": 22,
-      "Харитонов Николай Михайлович": 801,
-      "Против всех": 177
+      "gas:candidate-vibid:1001000113957": 90,
+      "gas:candidate-vibid:354300166795": 13,
+      "gas:candidate-vibid:1001000136089": 193,
+      "gas:candidate-vibid:1001000217940": 90,
+      "gas:candidate-vibid:354300166792": 22,
+      "gas:candidate-vibid:1001000121879": 801,
+      "special:against-all": 177
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=543001026&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=354300167482&region=0&sub_region=0&type=429",
@@ -7994,13 +7994,13 @@ export const duma_2003_uik_428_region_54_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Гвоздев Анатолий Викторович": 46,
-      "Каргаполов Юрий Сидорович": 3,
-      "Логинов Евгений Леонидович": 69,
-      "Мельниченко Наталья Владимировна": 27,
-      "Миронов Борис Сергеевич": 8,
-      "Харитонов Николай Михайлович": 294,
-      "Против всех": 72
+      "gas:candidate-vibid:1001000113957": 46,
+      "gas:candidate-vibid:354300166795": 3,
+      "gas:candidate-vibid:1001000136089": 69,
+      "gas:candidate-vibid:1001000217940": 27,
+      "gas:candidate-vibid:354300166792": 8,
+      "gas:candidate-vibid:1001000121879": 294,
+      "special:against-all": 72
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=543001026&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=354300167482&region=0&sub_region=0&type=429",
@@ -8050,13 +8050,13 @@ export const duma_2003_uik_428_region_54_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Гвоздев Анатолий Викторович": 104,
-      "Каргаполов Юрий Сидорович": 16,
-      "Логинов Евгений Леонидович": 192,
-      "Мельниченко Наталья Владимировна": 99,
-      "Миронов Борис Сергеевич": 24,
-      "Харитонов Николай Михайлович": 560,
-      "Против всех": 132
+      "gas:candidate-vibid:1001000113957": 104,
+      "gas:candidate-vibid:354300166795": 16,
+      "gas:candidate-vibid:1001000136089": 192,
+      "gas:candidate-vibid:1001000217940": 99,
+      "gas:candidate-vibid:354300166792": 24,
+      "gas:candidate-vibid:1001000121879": 560,
+      "special:against-all": 132
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=543001026&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=354300167482&region=0&sub_region=0&type=429",
@@ -8106,13 +8106,13 @@ export const duma_2003_uik_428_region_54_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Гвоздев Анатолий Викторович": 77,
-      "Каргаполов Юрий Сидорович": 16,
-      "Логинов Евгений Леонидович": 147,
-      "Мельниченко Наталья Владимировна": 96,
-      "Миронов Борис Сергеевич": 27,
-      "Харитонов Николай Михайлович": 510,
-      "Против всех": 160
+      "gas:candidate-vibid:1001000113957": 77,
+      "gas:candidate-vibid:354300166795": 16,
+      "gas:candidate-vibid:1001000136089": 147,
+      "gas:candidate-vibid:1001000217940": 96,
+      "gas:candidate-vibid:354300166792": 27,
+      "gas:candidate-vibid:1001000121879": 510,
+      "special:against-all": 160
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=543001026&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=354300167482&region=0&sub_region=0&type=429",
@@ -8162,13 +8162,13 @@ export const duma_2003_uik_428_region_54_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Гвоздев Анатолий Викторович": 75,
-      "Каргаполов Юрий Сидорович": 23,
-      "Логинов Евгений Леонидович": 133,
-      "Мельниченко Наталья Владимировна": 63,
-      "Миронов Борис Сергеевич": 22,
-      "Харитонов Николай Михайлович": 329,
-      "Против всех": 159
+      "gas:candidate-vibid:1001000113957": 75,
+      "gas:candidate-vibid:354300166795": 23,
+      "gas:candidate-vibid:1001000136089": 133,
+      "gas:candidate-vibid:1001000217940": 63,
+      "gas:candidate-vibid:354300166792": 22,
+      "gas:candidate-vibid:1001000121879": 329,
+      "special:against-all": 159
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=543001026&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=354300167482&region=0&sub_region=0&type=429",
@@ -8218,13 +8218,13 @@ export const duma_2003_uik_428_region_54_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Гвоздев Анатолий Викторович": 85,
-      "Каргаполов Юрий Сидорович": 31,
-      "Логинов Евгений Леонидович": 174,
-      "Мельниченко Наталья Владимировна": 70,
-      "Миронов Борис Сергеевич": 26,
-      "Харитонов Николай Михайлович": 605,
-      "Против всех": 154
+      "gas:candidate-vibid:1001000113957": 85,
+      "gas:candidate-vibid:354300166795": 31,
+      "gas:candidate-vibid:1001000136089": 174,
+      "gas:candidate-vibid:1001000217940": 70,
+      "gas:candidate-vibid:354300166792": 26,
+      "gas:candidate-vibid:1001000121879": 605,
+      "special:against-all": 154
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=543001026&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=354300167482&region=0&sub_region=0&type=429",
@@ -8274,13 +8274,13 @@ export const duma_2003_uik_428_region_54_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Гвоздев Анатолий Викторович": 109,
-      "Каргаполов Юрий Сидорович": 30,
-      "Логинов Евгений Леонидович": 231,
-      "Мельниченко Наталья Владимировна": 95,
-      "Миронов Борис Сергеевич": 43,
-      "Харитонов Николай Михайлович": 727,
-      "Против всех": 204
+      "gas:candidate-vibid:1001000113957": 109,
+      "gas:candidate-vibid:354300166795": 30,
+      "gas:candidate-vibid:1001000136089": 231,
+      "gas:candidate-vibid:1001000217940": 95,
+      "gas:candidate-vibid:354300166792": 43,
+      "gas:candidate-vibid:1001000121879": 727,
+      "special:against-all": 204
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=543001026&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=354300167482&region=0&sub_region=0&type=429",
@@ -8330,13 +8330,13 @@ export const duma_2003_uik_428_region_54_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Гвоздев Анатолий Викторович": 10,
-      "Каргаполов Юрий Сидорович": 7,
-      "Логинов Евгений Леонидович": 34,
-      "Мельниченко Наталья Владимировна": 24,
-      "Миронов Борис Сергеевич": 14,
-      "Харитонов Николай Михайлович": 450,
-      "Против всех": 38
+      "gas:candidate-vibid:1001000113957": 10,
+      "gas:candidate-vibid:354300166795": 7,
+      "gas:candidate-vibid:1001000136089": 34,
+      "gas:candidate-vibid:1001000217940": 24,
+      "gas:candidate-vibid:354300166792": 14,
+      "gas:candidate-vibid:1001000121879": 450,
+      "special:against-all": 38
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=543001026&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=354300167482&region=0&sub_region=0&type=429",
@@ -8386,13 +8386,13 @@ export const duma_2003_uik_428_region_54_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Гвоздев Анатолий Викторович": 7,
-      "Каргаполов Юрий Сидорович": 2,
-      "Логинов Евгений Леонидович": 11,
-      "Мельниченко Наталья Владимировна": 12,
-      "Миронов Борис Сергеевич": 2,
-      "Харитонов Николай Михайлович": 240,
-      "Против всех": 27
+      "gas:candidate-vibid:1001000113957": 7,
+      "gas:candidate-vibid:354300166795": 2,
+      "gas:candidate-vibid:1001000136089": 11,
+      "gas:candidate-vibid:1001000217940": 12,
+      "gas:candidate-vibid:354300166792": 2,
+      "gas:candidate-vibid:1001000121879": 240,
+      "special:against-all": 27
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=543001026&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=354300167482&region=0&sub_region=0&type=429",
@@ -8442,13 +8442,13 @@ export const duma_2003_uik_428_region_54_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Гвоздев Анатолий Викторович": 3,
-      "Каргаполов Юрий Сидорович": 5,
-      "Логинов Евгений Леонидович": 29,
-      "Мельниченко Наталья Владимировна": 14,
-      "Миронов Борис Сергеевич": 8,
-      "Харитонов Николай Михайлович": 194,
-      "Против всех": 31
+      "gas:candidate-vibid:1001000113957": 3,
+      "gas:candidate-vibid:354300166795": 5,
+      "gas:candidate-vibid:1001000136089": 29,
+      "gas:candidate-vibid:1001000217940": 14,
+      "gas:candidate-vibid:354300166792": 8,
+      "gas:candidate-vibid:1001000121879": 194,
+      "special:against-all": 31
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=543001026&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=354300167482&region=0&sub_region=0&type=429",
@@ -8498,13 +8498,13 @@ export const duma_2003_uik_428_region_54_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Гвоздев Анатолий Викторович": 9,
-      "Каргаполов Юрий Сидорович": 3,
-      "Логинов Евгений Леонидович": 51,
-      "Мельниченко Наталья Владимировна": 39,
-      "Миронов Борис Сергеевич": 17,
-      "Харитонов Николай Михайлович": 412,
-      "Против всех": 40
+      "gas:candidate-vibid:1001000113957": 9,
+      "gas:candidate-vibid:354300166795": 3,
+      "gas:candidate-vibid:1001000136089": 51,
+      "gas:candidate-vibid:1001000217940": 39,
+      "gas:candidate-vibid:354300166792": 17,
+      "gas:candidate-vibid:1001000121879": 412,
+      "special:against-all": 40
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=543001026&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=354300167482&region=0&sub_region=0&type=429",
@@ -8554,13 +8554,13 @@ export const duma_2003_uik_428_region_54_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Гвоздев Анатолий Викторович": 31,
-      "Каргаполов Юрий Сидорович": 6,
-      "Логинов Евгений Леонидович": 46,
-      "Мельниченко Наталья Владимировна": 16,
-      "Миронов Борис Сергеевич": 9,
-      "Харитонов Николай Михайлович": 245,
-      "Против всех": 53
+      "gas:candidate-vibid:1001000113957": 31,
+      "gas:candidate-vibid:354300166795": 6,
+      "gas:candidate-vibid:1001000136089": 46,
+      "gas:candidate-vibid:1001000217940": 16,
+      "gas:candidate-vibid:354300166792": 9,
+      "gas:candidate-vibid:1001000121879": 245,
+      "special:against-all": 53
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=543001026&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=354300167482&region=0&sub_region=0&type=429",
@@ -8610,13 +8610,13 @@ export const duma_2003_uik_428_region_54_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Гвоздев Анатолий Викторович": 11,
-      "Каргаполов Юрий Сидорович": 6,
-      "Логинов Евгений Леонидович": 45,
-      "Мельниченко Наталья Владимировна": 11,
-      "Миронов Борис Сергеевич": 8,
-      "Харитонов Николай Михайлович": 252,
-      "Против всех": 30
+      "gas:candidate-vibid:1001000113957": 11,
+      "gas:candidate-vibid:354300166795": 6,
+      "gas:candidate-vibid:1001000136089": 45,
+      "gas:candidate-vibid:1001000217940": 11,
+      "gas:candidate-vibid:354300166792": 8,
+      "gas:candidate-vibid:1001000121879": 252,
+      "special:against-all": 30
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=543001026&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=354300167482&region=0&sub_region=0&type=429",
@@ -8666,13 +8666,13 @@ export const duma_2003_uik_428_region_54_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Гвоздев Анатолий Викторович": 6,
-      "Каргаполов Юрий Сидорович": 2,
-      "Логинов Евгений Леонидович": 17,
-      "Мельниченко Наталья Владимировна": 6,
-      "Миронов Борис Сергеевич": 0,
-      "Харитонов Николай Михайлович": 116,
-      "Против всех": 10
+      "gas:candidate-vibid:1001000113957": 6,
+      "gas:candidate-vibid:354300166795": 2,
+      "gas:candidate-vibid:1001000136089": 17,
+      "gas:candidate-vibid:1001000217940": 6,
+      "gas:candidate-vibid:354300166792": 0,
+      "gas:candidate-vibid:1001000121879": 116,
+      "special:against-all": 10
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=543001026&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=354300167482&region=0&sub_region=0&type=429",
@@ -8722,13 +8722,13 @@ export const duma_2003_uik_428_region_54_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Гвоздев Анатолий Викторович": 7,
-      "Каргаполов Юрий Сидорович": 2,
-      "Логинов Евгений Леонидович": 7,
-      "Мельниченко Наталья Владимировна": 6,
-      "Миронов Борис Сергеевич": 2,
-      "Харитонов Николай Михайлович": 109,
-      "Против всех": 4
+      "gas:candidate-vibid:1001000113957": 7,
+      "gas:candidate-vibid:354300166795": 2,
+      "gas:candidate-vibid:1001000136089": 7,
+      "gas:candidate-vibid:1001000217940": 6,
+      "gas:candidate-vibid:354300166792": 2,
+      "gas:candidate-vibid:1001000121879": 109,
+      "special:against-all": 4
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=543001026&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=354300167482&region=0&sub_region=0&type=429",
@@ -8778,13 +8778,13 @@ export const duma_2003_uik_428_region_54_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Гвоздев Анатолий Викторович": 21,
-      "Каргаполов Юрий Сидорович": 9,
-      "Логинов Евгений Леонидович": 42,
-      "Мельниченко Наталья Владимировна": 11,
-      "Миронов Борис Сергеевич": 7,
-      "Харитонов Николай Михайлович": 274,
-      "Против всех": 43
+      "gas:candidate-vibid:1001000113957": 21,
+      "gas:candidate-vibid:354300166795": 9,
+      "gas:candidate-vibid:1001000136089": 42,
+      "gas:candidate-vibid:1001000217940": 11,
+      "gas:candidate-vibid:354300166792": 7,
+      "gas:candidate-vibid:1001000121879": 274,
+      "special:against-all": 43
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=543001026&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=354300167482&region=0&sub_region=0&type=429",
@@ -8834,13 +8834,13 @@ export const duma_2003_uik_428_region_54_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Гвоздев Анатолий Викторович": 7,
-      "Каргаполов Юрий Сидорович": 3,
-      "Логинов Евгений Леонидович": 79,
-      "Мельниченко Наталья Владимировна": 22,
-      "Миронов Борис Сергеевич": 9,
-      "Харитонов Николай Михайлович": 230,
-      "Против всех": 48
+      "gas:candidate-vibid:1001000113957": 7,
+      "gas:candidate-vibid:354300166795": 3,
+      "gas:candidate-vibid:1001000136089": 79,
+      "gas:candidate-vibid:1001000217940": 22,
+      "gas:candidate-vibid:354300166792": 9,
+      "gas:candidate-vibid:1001000121879": 230,
+      "special:against-all": 48
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=543001026&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=354300167482&region=0&sub_region=0&type=429",
@@ -8890,13 +8890,13 @@ export const duma_2003_uik_428_region_54_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Гвоздев Анатолий Викторович": 6,
-      "Каргаполов Юрий Сидорович": 2,
-      "Логинов Евгений Леонидович": 16,
-      "Мельниченко Наталья Владимировна": 7,
-      "Миронов Борис Сергеевич": 5,
-      "Харитонов Николай Михайлович": 87,
-      "Против всех": 18
+      "gas:candidate-vibid:1001000113957": 6,
+      "gas:candidate-vibid:354300166795": 2,
+      "gas:candidate-vibid:1001000136089": 16,
+      "gas:candidate-vibid:1001000217940": 7,
+      "gas:candidate-vibid:354300166792": 5,
+      "gas:candidate-vibid:1001000121879": 87,
+      "special:against-all": 18
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=543001026&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=354300167482&region=0&sub_region=0&type=429",
@@ -8946,13 +8946,13 @@ export const duma_2003_uik_428_region_54_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Гвоздев Анатолий Викторович": 10,
-      "Каргаполов Юрий Сидорович": 1,
-      "Логинов Евгений Леонидович": 11,
-      "Мельниченко Наталья Владимировна": 3,
-      "Миронов Борис Сергеевич": 3,
-      "Харитонов Николай Михайлович": 109,
-      "Против всех": 16
+      "gas:candidate-vibid:1001000113957": 10,
+      "gas:candidate-vibid:354300166795": 1,
+      "gas:candidate-vibid:1001000136089": 11,
+      "gas:candidate-vibid:1001000217940": 3,
+      "gas:candidate-vibid:354300166792": 3,
+      "gas:candidate-vibid:1001000121879": 109,
+      "special:against-all": 16
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=543001026&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=354300167482&region=0&sub_region=0&type=429",
@@ -9002,13 +9002,13 @@ export const duma_2003_uik_428_region_54_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Гвоздев Анатолий Викторович": 18,
-      "Каргаполов Юрий Сидорович": 2,
-      "Логинов Евгений Леонидович": 25,
-      "Мельниченко Наталья Владимировна": 14,
-      "Миронов Борис Сергеевич": 1,
-      "Харитонов Николай Михайлович": 18,
-      "Против всех": 9
+      "gas:candidate-vibid:1001000113957": 18,
+      "gas:candidate-vibid:354300166795": 2,
+      "gas:candidate-vibid:1001000136089": 25,
+      "gas:candidate-vibid:1001000217940": 14,
+      "gas:candidate-vibid:354300166792": 1,
+      "gas:candidate-vibid:1001000121879": 18,
+      "special:against-all": 9
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=543001026&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=354300167482&region=0&sub_region=0&type=429",
@@ -9058,13 +9058,13 @@ export const duma_2003_uik_428_region_54_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Гвоздев Анатолий Викторович": 21,
-      "Каргаполов Юрий Сидорович": 4,
-      "Логинов Евгений Леонидович": 50,
-      "Мельниченко Наталья Владимировна": 8,
-      "Миронов Борис Сергеевич": 5,
-      "Харитонов Николай Михайлович": 197,
-      "Против всех": 52
+      "gas:candidate-vibid:1001000113957": 21,
+      "gas:candidate-vibid:354300166795": 4,
+      "gas:candidate-vibid:1001000136089": 50,
+      "gas:candidate-vibid:1001000217940": 8,
+      "gas:candidate-vibid:354300166792": 5,
+      "gas:candidate-vibid:1001000121879": 197,
+      "special:against-all": 52
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=543001026&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=354300167482&region=0&sub_region=0&type=429",
@@ -9114,13 +9114,13 @@ export const duma_2003_uik_428_region_54_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Гвоздев Анатолий Викторович": 5,
-      "Каргаполов Юрий Сидорович": 1,
-      "Логинов Евгений Леонидович": 10,
-      "Мельниченко Наталья Владимировна": 13,
-      "Миронов Борис Сергеевич": 1,
-      "Харитонов Николай Михайлович": 43,
-      "Против всех": 10
+      "gas:candidate-vibid:1001000113957": 5,
+      "gas:candidate-vibid:354300166795": 1,
+      "gas:candidate-vibid:1001000136089": 10,
+      "gas:candidate-vibid:1001000217940": 13,
+      "gas:candidate-vibid:354300166792": 1,
+      "gas:candidate-vibid:1001000121879": 43,
+      "special:against-all": 10
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=543001026&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=354300167482&region=0&sub_region=0&type=429",
@@ -9170,13 +9170,13 @@ export const duma_2003_uik_428_region_54_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Гвоздев Анатолий Викторович": 12,
-      "Каргаполов Юрий Сидорович": 1,
-      "Логинов Евгений Леонидович": 6,
-      "Мельниченко Наталья Владимировна": 4,
-      "Миронов Борис Сергеевич": 5,
-      "Харитонов Николай Михайлович": 33,
-      "Против всех": 11
+      "gas:candidate-vibid:1001000113957": 12,
+      "gas:candidate-vibid:354300166795": 1,
+      "gas:candidate-vibid:1001000136089": 6,
+      "gas:candidate-vibid:1001000217940": 4,
+      "gas:candidate-vibid:354300166792": 5,
+      "gas:candidate-vibid:1001000121879": 33,
+      "special:against-all": 11
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=543001026&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=354300167482&region=0&sub_region=0&type=429",
@@ -9226,13 +9226,13 @@ export const duma_2003_uik_428_region_54_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Гвоздев Анатолий Викторович": 4,
-      "Каргаполов Юрий Сидорович": 1,
-      "Логинов Евгений Леонидович": 16,
-      "Мельниченко Наталья Владимировна": 8,
-      "Миронов Борис Сергеевич": 2,
-      "Харитонов Николай Михайлович": 36,
-      "Против всех": 15
+      "gas:candidate-vibid:1001000113957": 4,
+      "gas:candidate-vibid:354300166795": 1,
+      "gas:candidate-vibid:1001000136089": 16,
+      "gas:candidate-vibid:1001000217940": 8,
+      "gas:candidate-vibid:354300166792": 2,
+      "gas:candidate-vibid:1001000121879": 36,
+      "special:against-all": 15
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=543001026&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=354300167482&region=0&sub_region=0&type=429",
@@ -9282,13 +9282,13 @@ export const duma_2003_uik_428_region_54_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Гвоздев Анатолий Викторович": 20,
-      "Каргаполов Юрий Сидорович": 19,
-      "Логинов Евгений Леонидович": 62,
-      "Мельниченко Наталья Владимировна": 43,
-      "Миронов Борис Сергеевич": 42,
-      "Харитонов Николай Михайлович": 369,
-      "Против всех": 75
+      "gas:candidate-vibid:1001000113957": 20,
+      "gas:candidate-vibid:354300166795": 19,
+      "gas:candidate-vibid:1001000136089": 62,
+      "gas:candidate-vibid:1001000217940": 43,
+      "gas:candidate-vibid:354300166792": 42,
+      "gas:candidate-vibid:1001000121879": 369,
+      "special:against-all": 75
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=543001026&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=354300167482&region=0&sub_region=0&type=429",
@@ -9338,13 +9338,13 @@ export const duma_2003_uik_428_region_54_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Гвоздев Анатолий Викторович": 0,
-      "Каргаполов Юрий Сидорович": 2,
-      "Логинов Евгений Леонидович": 15,
-      "Мельниченко Наталья Владимировна": 3,
-      "Миронов Борис Сергеевич": 3,
-      "Харитонов Николай Михайлович": 42,
-      "Против всех": 4
+      "gas:candidate-vibid:1001000113957": 0,
+      "gas:candidate-vibid:354300166795": 2,
+      "gas:candidate-vibid:1001000136089": 15,
+      "gas:candidate-vibid:1001000217940": 3,
+      "gas:candidate-vibid:354300166792": 3,
+      "gas:candidate-vibid:1001000121879": 42,
+      "special:against-all": 4
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=543001026&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=354300167482&region=0&sub_region=0&type=429",
@@ -9394,13 +9394,13 @@ export const duma_2003_uik_428_region_54_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Гвоздев Анатолий Викторович": 19,
-      "Каргаполов Юрий Сидорович": 4,
-      "Логинов Евгений Леонидович": 46,
-      "Мельниченко Наталья Владимировна": 20,
-      "Миронов Борис Сергеевич": 10,
-      "Харитонов Николай Михайлович": 188,
-      "Против всех": 33
+      "gas:candidate-vibid:1001000113957": 19,
+      "gas:candidate-vibid:354300166795": 4,
+      "gas:candidate-vibid:1001000136089": 46,
+      "gas:candidate-vibid:1001000217940": 20,
+      "gas:candidate-vibid:354300166792": 10,
+      "gas:candidate-vibid:1001000121879": 188,
+      "special:against-all": 33
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=543001026&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=354300167482&region=0&sub_region=0&type=429",
@@ -9450,13 +9450,13 @@ export const duma_2003_uik_428_region_54_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Гвоздев Анатолий Викторович": 5,
-      "Каргаполов Юрий Сидорович": 0,
-      "Логинов Евгений Леонидович": 37,
-      "Мельниченко Наталья Владимировна": 9,
-      "Миронов Борис Сергеевич": 7,
-      "Харитонов Николай Михайлович": 131,
-      "Против всех": 30
+      "gas:candidate-vibid:1001000113957": 5,
+      "gas:candidate-vibid:354300166795": 0,
+      "gas:candidate-vibid:1001000136089": 37,
+      "gas:candidate-vibid:1001000217940": 9,
+      "gas:candidate-vibid:354300166792": 7,
+      "gas:candidate-vibid:1001000121879": 131,
+      "special:against-all": 30
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=543001026&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=354300167482&region=0&sub_region=0&type=429",
@@ -9506,13 +9506,13 @@ export const duma_2003_uik_428_region_54_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Гвоздев Анатолий Викторович": 9,
-      "Каргаполов Юрий Сидорович": 4,
-      "Логинов Евгений Леонидович": 8,
-      "Мельниченко Наталья Владимировна": 7,
-      "Миронов Борис Сергеевич": 3,
-      "Харитонов Николай Михайлович": 109,
-      "Против всех": 7
+      "gas:candidate-vibid:1001000113957": 9,
+      "gas:candidate-vibid:354300166795": 4,
+      "gas:candidate-vibid:1001000136089": 8,
+      "gas:candidate-vibid:1001000217940": 7,
+      "gas:candidate-vibid:354300166792": 3,
+      "gas:candidate-vibid:1001000121879": 109,
+      "special:against-all": 7
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=543001026&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=354300167482&region=0&sub_region=0&type=429",
@@ -9562,13 +9562,13 @@ export const duma_2003_uik_428_region_54_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Гвоздев Анатолий Викторович": 6,
-      "Каргаполов Юрий Сидорович": 3,
-      "Логинов Евгений Леонидович": 18,
-      "Мельниченко Наталья Владимировна": 2,
-      "Миронов Борис Сергеевич": 3,
-      "Харитонов Николай Михайлович": 34,
-      "Против всех": 4
+      "gas:candidate-vibid:1001000113957": 6,
+      "gas:candidate-vibid:354300166795": 3,
+      "gas:candidate-vibid:1001000136089": 18,
+      "gas:candidate-vibid:1001000217940": 2,
+      "gas:candidate-vibid:354300166792": 3,
+      "gas:candidate-vibid:1001000121879": 34,
+      "special:against-all": 4
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=543001026&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=354300167482&region=0&sub_region=0&type=429",
@@ -9618,13 +9618,13 @@ export const duma_2003_uik_428_region_54_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Гвоздев Анатолий Викторович": 27,
-      "Каргаполов Юрий Сидорович": 19,
-      "Логинов Евгений Леонидович": 69,
-      "Мельниченко Наталья Владимировна": 34,
-      "Миронов Борис Сергеевич": 13,
-      "Харитонов Николай Михайлович": 259,
-      "Против всех": 80
+      "gas:candidate-vibid:1001000113957": 27,
+      "gas:candidate-vibid:354300166795": 19,
+      "gas:candidate-vibid:1001000136089": 69,
+      "gas:candidate-vibid:1001000217940": 34,
+      "gas:candidate-vibid:354300166792": 13,
+      "gas:candidate-vibid:1001000121879": 259,
+      "special:against-all": 80
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=543001026&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=354300167482&region=0&sub_region=0&type=429",
@@ -9674,13 +9674,13 @@ export const duma_2003_uik_428_region_54_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Гвоздев Анатолий Викторович": 16,
-      "Каргаполов Юрий Сидорович": 1,
-      "Логинов Евгений Леонидович": 22,
-      "Мельниченко Наталья Владимировна": 19,
-      "Миронов Борис Сергеевич": 9,
-      "Харитонов Николай Михайлович": 80,
-      "Против всех": 13
+      "gas:candidate-vibid:1001000113957": 16,
+      "gas:candidate-vibid:354300166795": 1,
+      "gas:candidate-vibid:1001000136089": 22,
+      "gas:candidate-vibid:1001000217940": 19,
+      "gas:candidate-vibid:354300166792": 9,
+      "gas:candidate-vibid:1001000121879": 80,
+      "special:against-all": 13
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=543001026&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=354300167482&region=0&sub_region=0&type=429",
@@ -9730,13 +9730,13 @@ export const duma_2003_uik_428_region_54_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Гвоздев Анатолий Викторович": 6,
-      "Каргаполов Юрий Сидорович": 3,
-      "Логинов Евгений Леонидович": 21,
-      "Мельниченко Наталья Владимировна": 8,
-      "Миронов Борис Сергеевич": 5,
-      "Харитонов Николай Михайлович": 118,
-      "Против всех": 4
+      "gas:candidate-vibid:1001000113957": 6,
+      "gas:candidate-vibid:354300166795": 3,
+      "gas:candidate-vibid:1001000136089": 21,
+      "gas:candidate-vibid:1001000217940": 8,
+      "gas:candidate-vibid:354300166792": 5,
+      "gas:candidate-vibid:1001000121879": 118,
+      "special:against-all": 4
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=543001026&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=354300167482&region=0&sub_region=0&type=429",
@@ -9786,13 +9786,13 @@ export const duma_2003_uik_428_region_54_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Гвоздев Анатолий Викторович": 5,
-      "Каргаполов Юрий Сидорович": 3,
-      "Логинов Евгений Леонидович": 18,
-      "Мельниченко Наталья Владимировна": 4,
-      "Миронов Борис Сергеевич": 8,
-      "Харитонов Николай Михайлович": 119,
-      "Против всех": 5
+      "gas:candidate-vibid:1001000113957": 5,
+      "gas:candidate-vibid:354300166795": 3,
+      "gas:candidate-vibid:1001000136089": 18,
+      "gas:candidate-vibid:1001000217940": 4,
+      "gas:candidate-vibid:354300166792": 8,
+      "gas:candidate-vibid:1001000121879": 119,
+      "special:against-all": 5
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=543001026&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=354300167482&region=0&sub_region=0&type=429",
@@ -9842,13 +9842,13 @@ export const duma_2003_uik_428_region_54_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Гвоздев Анатолий Викторович": 5,
-      "Каргаполов Юрий Сидорович": 2,
-      "Логинов Евгений Леонидович": 19,
-      "Мельниченко Наталья Владимировна": 7,
-      "Миронов Борис Сергеевич": 8,
-      "Харитонов Николай Михайлович": 49,
-      "Против всех": 10
+      "gas:candidate-vibid:1001000113957": 5,
+      "gas:candidate-vibid:354300166795": 2,
+      "gas:candidate-vibid:1001000136089": 19,
+      "gas:candidate-vibid:1001000217940": 7,
+      "gas:candidate-vibid:354300166792": 8,
+      "gas:candidate-vibid:1001000121879": 49,
+      "special:against-all": 10
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=543001026&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=354300167482&region=0&sub_region=0&type=429",
@@ -9898,13 +9898,13 @@ export const duma_2003_uik_428_region_54_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Гвоздев Анатолий Викторович": 22,
-      "Каргаполов Юрий Сидорович": 5,
-      "Логинов Евгений Леонидович": 59,
-      "Мельниченко Наталья Владимировна": 33,
-      "Миронов Борис Сергеевич": 12,
-      "Харитонов Николай Михайлович": 375,
-      "Против всех": 61
+      "gas:candidate-vibid:1001000113957": 22,
+      "gas:candidate-vibid:354300166795": 5,
+      "gas:candidate-vibid:1001000136089": 59,
+      "gas:candidate-vibid:1001000217940": 33,
+      "gas:candidate-vibid:354300166792": 12,
+      "gas:candidate-vibid:1001000121879": 375,
+      "special:against-all": 61
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=543001026&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=354300167482&region=0&sub_region=0&type=429",
@@ -9954,13 +9954,13 @@ export const duma_2003_uik_428_region_54_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Гвоздев Анатолий Викторович": 15,
-      "Каргаполов Юрий Сидорович": 6,
-      "Логинов Евгений Леонидович": 17,
-      "Мельниченко Наталья Владимировна": 12,
-      "Миронов Борис Сергеевич": 7,
-      "Харитонов Николай Михайлович": 90,
-      "Против всех": 29
+      "gas:candidate-vibid:1001000113957": 15,
+      "gas:candidate-vibid:354300166795": 6,
+      "gas:candidate-vibid:1001000136089": 17,
+      "gas:candidate-vibid:1001000217940": 12,
+      "gas:candidate-vibid:354300166792": 7,
+      "gas:candidate-vibid:1001000121879": 90,
+      "special:against-all": 29
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=543001026&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=354300167482&region=0&sub_region=0&type=429",
@@ -10010,13 +10010,13 @@ export const duma_2003_uik_428_region_54_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Гвоздев Анатолий Викторович": 9,
-      "Каргаполов Юрий Сидорович": 1,
-      "Логинов Евгений Леонидович": 5,
-      "Мельниченко Наталья Владимировна": 8,
-      "Миронов Борис Сергеевич": 6,
-      "Харитонов Николай Михайлович": 22,
-      "Против всех": 4
+      "gas:candidate-vibid:1001000113957": 9,
+      "gas:candidate-vibid:354300166795": 1,
+      "gas:candidate-vibid:1001000136089": 5,
+      "gas:candidate-vibid:1001000217940": 8,
+      "gas:candidate-vibid:354300166792": 6,
+      "gas:candidate-vibid:1001000121879": 22,
+      "special:against-all": 4
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=543001026&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=354300167482&region=0&sub_region=0&type=429",
@@ -10066,13 +10066,13 @@ export const duma_2003_uik_428_region_54_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Гвоздев Анатолий Викторович": 36,
-      "Каргаполов Юрий Сидорович": 3,
-      "Логинов Евгений Леонидович": 33,
-      "Мельниченко Наталья Владимировна": 31,
-      "Миронов Борис Сергеевич": 14,
-      "Харитонов Николай Михайлович": 213,
-      "Против всех": 55
+      "gas:candidate-vibid:1001000113957": 36,
+      "gas:candidate-vibid:354300166795": 3,
+      "gas:candidate-vibid:1001000136089": 33,
+      "gas:candidate-vibid:1001000217940": 31,
+      "gas:candidate-vibid:354300166792": 14,
+      "gas:candidate-vibid:1001000121879": 213,
+      "special:against-all": 55
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=543001026&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=354300167482&region=0&sub_region=0&type=429",
@@ -10122,13 +10122,13 @@ export const duma_2003_uik_428_region_54_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Гвоздев Анатолий Викторович": 5,
-      "Каргаполов Юрий Сидорович": 1,
-      "Логинов Евгений Леонидович": 11,
-      "Мельниченко Наталья Владимировна": 5,
-      "Миронов Борис Сергеевич": 4,
-      "Харитонов Николай Михайлович": 43,
-      "Против всех": 9
+      "gas:candidate-vibid:1001000113957": 5,
+      "gas:candidate-vibid:354300166795": 1,
+      "gas:candidate-vibid:1001000136089": 11,
+      "gas:candidate-vibid:1001000217940": 5,
+      "gas:candidate-vibid:354300166792": 4,
+      "gas:candidate-vibid:1001000121879": 43,
+      "special:against-all": 9
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=543001026&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=354300167482&region=0&sub_region=0&type=429",
@@ -10178,13 +10178,13 @@ export const duma_2003_uik_428_region_54_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Гвоздев Анатолий Викторович": 2,
-      "Каргаполов Юрий Сидорович": 1,
-      "Логинов Евгений Леонидович": 8,
-      "Мельниченко Наталья Владимировна": 1,
-      "Миронов Борис Сергеевич": 5,
-      "Харитонов Николай Михайлович": 34,
-      "Против всех": 7
+      "gas:candidate-vibid:1001000113957": 2,
+      "gas:candidate-vibid:354300166795": 1,
+      "gas:candidate-vibid:1001000136089": 8,
+      "gas:candidate-vibid:1001000217940": 1,
+      "gas:candidate-vibid:354300166792": 5,
+      "gas:candidate-vibid:1001000121879": 34,
+      "special:against-all": 7
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=543001026&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=354300167482&region=0&sub_region=0&type=429",
@@ -10234,13 +10234,13 @@ export const duma_2003_uik_428_region_54_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Гвоздев Анатолий Викторович": 12,
-      "Каргаполов Юрий Сидорович": 4,
-      "Логинов Евгений Леонидович": 35,
-      "Мельниченко Наталья Владимировна": 16,
-      "Миронов Борис Сергеевич": 4,
-      "Харитонов Николай Михайлович": 154,
-      "Против всех": 37
+      "gas:candidate-vibid:1001000113957": 12,
+      "gas:candidate-vibid:354300166795": 4,
+      "gas:candidate-vibid:1001000136089": 35,
+      "gas:candidate-vibid:1001000217940": 16,
+      "gas:candidate-vibid:354300166792": 4,
+      "gas:candidate-vibid:1001000121879": 154,
+      "special:against-all": 37
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=543001026&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=354300167482&region=0&sub_region=0&type=429",
@@ -10290,13 +10290,13 @@ export const duma_2003_uik_428_region_54_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Гвоздев Анатолий Викторович": 15,
-      "Каргаполов Юрий Сидорович": 5,
-      "Логинов Евгений Леонидович": 16,
-      "Мельниченко Наталья Владимировна": 7,
-      "Миронов Борис Сергеевич": 2,
-      "Харитонов Николай Михайлович": 55,
-      "Против всех": 11
+      "gas:candidate-vibid:1001000113957": 15,
+      "gas:candidate-vibid:354300166795": 5,
+      "gas:candidate-vibid:1001000136089": 16,
+      "gas:candidate-vibid:1001000217940": 7,
+      "gas:candidate-vibid:354300166792": 2,
+      "gas:candidate-vibid:1001000121879": 55,
+      "special:against-all": 11
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=543001026&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=354300167482&region=0&sub_region=0&type=429",
@@ -10346,13 +10346,13 @@ export const duma_2003_uik_428_region_54_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Гвоздев Анатолий Викторович": 13,
-      "Каргаполов Юрий Сидорович": 2,
-      "Логинов Евгений Леонидович": 42,
-      "Мельниченко Наталья Владимировна": 13,
-      "Миронов Борис Сергеевич": 1,
-      "Харитонов Николай Михайлович": 114,
-      "Против всех": 30
+      "gas:candidate-vibid:1001000113957": 13,
+      "gas:candidate-vibid:354300166795": 2,
+      "gas:candidate-vibid:1001000136089": 42,
+      "gas:candidate-vibid:1001000217940": 13,
+      "gas:candidate-vibid:354300166792": 1,
+      "gas:candidate-vibid:1001000121879": 114,
+      "special:against-all": 30
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=543001026&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=354300167482&region=0&sub_region=0&type=429",
@@ -10402,13 +10402,13 @@ export const duma_2003_uik_428_region_54_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Гвоздев Анатолий Викторович": 8,
-      "Каргаполов Юрий Сидорович": 3,
-      "Логинов Евгений Леонидович": 23,
-      "Мельниченко Наталья Владимировна": 8,
-      "Миронов Борис Сергеевич": 3,
-      "Харитонов Николай Михайлович": 74,
-      "Против всех": 11
+      "gas:candidate-vibid:1001000113957": 8,
+      "gas:candidate-vibid:354300166795": 3,
+      "gas:candidate-vibid:1001000136089": 23,
+      "gas:candidate-vibid:1001000217940": 8,
+      "gas:candidate-vibid:354300166792": 3,
+      "gas:candidate-vibid:1001000121879": 74,
+      "special:against-all": 11
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=543001026&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=354300167482&region=0&sub_region=0&type=429",
@@ -10458,13 +10458,13 @@ export const duma_2003_uik_428_region_54_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Гвоздев Анатолий Викторович": 9,
-      "Каргаполов Юрий Сидорович": 1,
-      "Логинов Евгений Леонидович": 32,
-      "Мельниченко Наталья Владимировна": 10,
-      "Миронов Борис Сергеевич": 6,
-      "Харитонов Николай Михайлович": 72,
-      "Против всех": 15
+      "gas:candidate-vibid:1001000113957": 9,
+      "gas:candidate-vibid:354300166795": 1,
+      "gas:candidate-vibid:1001000136089": 32,
+      "gas:candidate-vibid:1001000217940": 10,
+      "gas:candidate-vibid:354300166792": 6,
+      "gas:candidate-vibid:1001000121879": 72,
+      "special:against-all": 15
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=543001026&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=354300167482&region=0&sub_region=0&type=429",
@@ -10514,22 +10514,22 @@ export const duma_2003_uik_428_region_54_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Аничкин Иван Степанович": 45,
-      "Бессонов Геннадий Константинович": 22,
-      "Гавриленко Игорь Юрьевич": 40,
-      "Давиденко Владимир Иванович": 2,
-      "Дасманов Станислав Борисович": 3,
-      "Клестов Сергей Александрович": 93,
-      "Кожемякин Эдуард Анатольевич": 97,
-      "Кувшинов Юрий Борисович": 25,
-      "Люлько Александр Николаевич": 87,
-      "Марзан Николай Иванович": 3,
-      "Насташевский Святослав Анатольевич": 139,
-      "Радзивило Ирина Александровна": 4,
-      "Степаненко Александр Александрович": 2,
-      "Стрельченко Галина Ивановна": 51,
-      "Тиунов Владислав Георгиевич": 12,
-      "Против всех": 130
+      "gas:candidate-vibid:354300266806": 45,
+      "gas:candidate-vibid:354300266943": 22,
+      "gas:candidate-vibid:1001000112235": 40,
+      "gas:candidate-vibid:354300266947": 2,
+      "gas:candidate-vibid:1001000199630": 3,
+      "gas:candidate-vibid:1001000121880": 93,
+      "gas:candidate-vibid:1001000225966": 97,
+      "gas:candidate-vibid:1001000113958": 25,
+      "gas:candidate-vibid:1001000188014": 87,
+      "gas:candidate-vibid:1001000202321": 3,
+      "gas:candidate-vibid:354300266870": 139,
+      "gas:candidate-vibid:1001000190386": 4,
+      "gas:candidate-vibid:354300266873": 2,
+      "gas:candidate-vibid:354300266812": 51,
+      "gas:candidate-vibid:1001000136090": 12,
+      "special:against-all": 130
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=543002001&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=354300267119&region=0&sub_region=0&type=429",
@@ -10579,22 +10579,22 @@ export const duma_2003_uik_428_region_54_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Аничкин Иван Степанович": 20,
-      "Бессонов Геннадий Константинович": 11,
-      "Гавриленко Игорь Юрьевич": 34,
-      "Давиденко Владимир Иванович": 1,
-      "Дасманов Станислав Борисович": 3,
-      "Клестов Сергей Александрович": 64,
-      "Кожемякин Эдуард Анатольевич": 149,
-      "Кувшинов Юрий Борисович": 29,
-      "Люлько Александр Николаевич": 43,
-      "Марзан Николай Иванович": 2,
-      "Насташевский Святослав Анатольевич": 112,
-      "Радзивило Ирина Александровна": 8,
-      "Степаненко Александр Александрович": 4,
-      "Стрельченко Галина Ивановна": 64,
-      "Тиунов Владислав Георгиевич": 9,
-      "Против всех": 112
+      "gas:candidate-vibid:354300266806": 20,
+      "gas:candidate-vibid:354300266943": 11,
+      "gas:candidate-vibid:1001000112235": 34,
+      "gas:candidate-vibid:354300266947": 1,
+      "gas:candidate-vibid:1001000199630": 3,
+      "gas:candidate-vibid:1001000121880": 64,
+      "gas:candidate-vibid:1001000225966": 149,
+      "gas:candidate-vibid:1001000113958": 29,
+      "gas:candidate-vibid:1001000188014": 43,
+      "gas:candidate-vibid:1001000202321": 2,
+      "gas:candidate-vibid:354300266870": 112,
+      "gas:candidate-vibid:1001000190386": 8,
+      "gas:candidate-vibid:354300266873": 4,
+      "gas:candidate-vibid:354300266812": 64,
+      "gas:candidate-vibid:1001000136090": 9,
+      "special:against-all": 112
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=543002001&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=354300267119&region=0&sub_region=0&type=429",
@@ -10644,22 +10644,22 @@ export const duma_2003_uik_428_region_54_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Аничкин Иван Степанович": 65,
-      "Бессонов Геннадий Константинович": 18,
-      "Гавриленко Игорь Юрьевич": 64,
-      "Давиденко Владимир Иванович": 1,
-      "Дасманов Станислав Борисович": 3,
-      "Клестов Сергей Александрович": 123,
-      "Кожемякин Эдуард Анатольевич": 128,
-      "Кувшинов Юрий Борисович": 29,
-      "Люлько Александр Николаевич": 137,
-      "Марзан Николай Иванович": 1,
-      "Насташевский Святослав Анатольевич": 193,
-      "Радзивило Ирина Александровна": 3,
-      "Степаненко Александр Александрович": 9,
-      "Стрельченко Галина Ивановна": 62,
-      "Тиунов Владислав Георгиевич": 22,
-      "Против всех": 114
+      "gas:candidate-vibid:354300266806": 65,
+      "gas:candidate-vibid:354300266943": 18,
+      "gas:candidate-vibid:1001000112235": 64,
+      "gas:candidate-vibid:354300266947": 1,
+      "gas:candidate-vibid:1001000199630": 3,
+      "gas:candidate-vibid:1001000121880": 123,
+      "gas:candidate-vibid:1001000225966": 128,
+      "gas:candidate-vibid:1001000113958": 29,
+      "gas:candidate-vibid:1001000188014": 137,
+      "gas:candidate-vibid:1001000202321": 1,
+      "gas:candidate-vibid:354300266870": 193,
+      "gas:candidate-vibid:1001000190386": 3,
+      "gas:candidate-vibid:354300266873": 9,
+      "gas:candidate-vibid:354300266812": 62,
+      "gas:candidate-vibid:1001000136090": 22,
+      "special:against-all": 114
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=543002001&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=354300267119&region=0&sub_region=0&type=429",
@@ -10709,22 +10709,22 @@ export const duma_2003_uik_428_region_54_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Аничкин Иван Степанович": 42,
-      "Бессонов Геннадий Константинович": 36,
-      "Гавриленко Игорь Юрьевич": 64,
-      "Давиденко Владимир Иванович": 2,
-      "Дасманов Станислав Борисович": 10,
-      "Клестов Сергей Александрович": 86,
-      "Кожемякин Эдуард Анатольевич": 212,
-      "Кувшинов Юрий Борисович": 52,
-      "Люлько Александр Николаевич": 155,
-      "Марзан Николай Иванович": 3,
-      "Насташевский Святослав Анатольевич": 188,
-      "Радзивило Ирина Александровна": 7,
-      "Степаненко Александр Александрович": 5,
-      "Стрельченко Галина Ивановна": 83,
-      "Тиунов Владислав Георгиевич": 16,
-      "Против всех": 205
+      "gas:candidate-vibid:354300266806": 42,
+      "gas:candidate-vibid:354300266943": 36,
+      "gas:candidate-vibid:1001000112235": 64,
+      "gas:candidate-vibid:354300266947": 2,
+      "gas:candidate-vibid:1001000199630": 10,
+      "gas:candidate-vibid:1001000121880": 86,
+      "gas:candidate-vibid:1001000225966": 212,
+      "gas:candidate-vibid:1001000113958": 52,
+      "gas:candidate-vibid:1001000188014": 155,
+      "gas:candidate-vibid:1001000202321": 3,
+      "gas:candidate-vibid:354300266870": 188,
+      "gas:candidate-vibid:1001000190386": 7,
+      "gas:candidate-vibid:354300266873": 5,
+      "gas:candidate-vibid:354300266812": 83,
+      "gas:candidate-vibid:1001000136090": 16,
+      "special:against-all": 205
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=543002001&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=354300267119&region=0&sub_region=0&type=429",
@@ -10774,22 +10774,22 @@ export const duma_2003_uik_428_region_54_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Аничкин Иван Степанович": 14,
-      "Бессонов Геннадий Константинович": 7,
-      "Гавриленко Игорь Юрьевич": 35,
-      "Давиденко Владимир Иванович": 2,
-      "Дасманов Станислав Борисович": 1,
-      "Клестов Сергей Александрович": 33,
-      "Кожемякин Эдуард Анатольевич": 237,
-      "Кувшинов Юрий Борисович": 73,
-      "Люлько Александр Николаевич": 73,
-      "Марзан Николай Иванович": 2,
-      "Насташевский Святослав Анатольевич": 56,
-      "Радзивило Ирина Александровна": 10,
-      "Степаненко Александр Александрович": 4,
-      "Стрельченко Галина Ивановна": 72,
-      "Тиунов Владислав Георгиевич": 21,
-      "Против всех": 198
+      "gas:candidate-vibid:354300266806": 14,
+      "gas:candidate-vibid:354300266943": 7,
+      "gas:candidate-vibid:1001000112235": 35,
+      "gas:candidate-vibid:354300266947": 2,
+      "gas:candidate-vibid:1001000199630": 1,
+      "gas:candidate-vibid:1001000121880": 33,
+      "gas:candidate-vibid:1001000225966": 237,
+      "gas:candidate-vibid:1001000113958": 73,
+      "gas:candidate-vibid:1001000188014": 73,
+      "gas:candidate-vibid:1001000202321": 2,
+      "gas:candidate-vibid:354300266870": 56,
+      "gas:candidate-vibid:1001000190386": 10,
+      "gas:candidate-vibid:354300266873": 4,
+      "gas:candidate-vibid:354300266812": 72,
+      "gas:candidate-vibid:1001000136090": 21,
+      "special:against-all": 198
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=543002001&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=354300267119&region=0&sub_region=0&type=429",
@@ -10839,22 +10839,22 @@ export const duma_2003_uik_428_region_54_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Аничкин Иван Степанович": 71,
-      "Бессонов Геннадий Константинович": 26,
-      "Гавриленко Игорь Юрьевич": 37,
-      "Давиденко Владимир Иванович": 1,
-      "Дасманов Станислав Борисович": 2,
-      "Клестов Сергей Александрович": 127,
-      "Кожемякин Эдуард Анатольевич": 104,
-      "Кувшинов Юрий Борисович": 26,
-      "Люлько Александр Николаевич": 72,
-      "Марзан Николай Иванович": 3,
-      "Насташевский Святослав Анатольевич": 206,
-      "Радзивило Ирина Александровна": 1,
-      "Степаненко Александр Александрович": 2,
-      "Стрельченко Галина Ивановна": 37,
-      "Тиунов Владислав Георгиевич": 10,
-      "Против всех": 93
+      "gas:candidate-vibid:354300266806": 71,
+      "gas:candidate-vibid:354300266943": 26,
+      "gas:candidate-vibid:1001000112235": 37,
+      "gas:candidate-vibid:354300266947": 1,
+      "gas:candidate-vibid:1001000199630": 2,
+      "gas:candidate-vibid:1001000121880": 127,
+      "gas:candidate-vibid:1001000225966": 104,
+      "gas:candidate-vibid:1001000113958": 26,
+      "gas:candidate-vibid:1001000188014": 72,
+      "gas:candidate-vibid:1001000202321": 3,
+      "gas:candidate-vibid:354300266870": 206,
+      "gas:candidate-vibid:1001000190386": 1,
+      "gas:candidate-vibid:354300266873": 2,
+      "gas:candidate-vibid:354300266812": 37,
+      "gas:candidate-vibid:1001000136090": 10,
+      "special:against-all": 93
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=543002001&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=354300267119&region=0&sub_region=0&type=429",
@@ -10904,22 +10904,22 @@ export const duma_2003_uik_428_region_54_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Аничкин Иван Степанович": 59,
-      "Бессонов Геннадий Константинович": 17,
-      "Гавриленко Игорь Юрьевич": 35,
-      "Давиденко Владимир Иванович": 0,
-      "Дасманов Станислав Борисович": 4,
-      "Клестов Сергей Александрович": 89,
-      "Кожемякин Эдуард Анатольевич": 97,
-      "Кувшинов Юрий Борисович": 26,
-      "Люлько Александр Николаевич": 77,
-      "Марзан Николай Иванович": 3,
-      "Насташевский Святослав Анатольевич": 176,
-      "Радзивило Ирина Александровна": 3,
-      "Степаненко Александр Александрович": 4,
-      "Стрельченко Галина Ивановна": 31,
-      "Тиунов Владислав Георгиевич": 11,
-      "Против всех": 73
+      "gas:candidate-vibid:354300266806": 59,
+      "gas:candidate-vibid:354300266943": 17,
+      "gas:candidate-vibid:1001000112235": 35,
+      "gas:candidate-vibid:354300266947": 0,
+      "gas:candidate-vibid:1001000199630": 4,
+      "gas:candidate-vibid:1001000121880": 89,
+      "gas:candidate-vibid:1001000225966": 97,
+      "gas:candidate-vibid:1001000113958": 26,
+      "gas:candidate-vibid:1001000188014": 77,
+      "gas:candidate-vibid:1001000202321": 3,
+      "gas:candidate-vibid:354300266870": 176,
+      "gas:candidate-vibid:1001000190386": 3,
+      "gas:candidate-vibid:354300266873": 4,
+      "gas:candidate-vibid:354300266812": 31,
+      "gas:candidate-vibid:1001000136090": 11,
+      "special:against-all": 73
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=543002001&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=354300267119&region=0&sub_region=0&type=429",
@@ -10969,22 +10969,22 @@ export const duma_2003_uik_428_region_54_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Аничкин Иван Степанович": 76,
-      "Бессонов Геннадий Константинович": 19,
-      "Гавриленко Игорь Юрьевич": 37,
-      "Давиденко Владимир Иванович": 1,
-      "Дасманов Станислав Борисович": 0,
-      "Клестов Сергей Александрович": 99,
-      "Кожемякин Эдуард Анатольевич": 105,
-      "Кувшинов Юрий Борисович": 26,
-      "Люлько Александр Николаевич": 124,
-      "Марзан Николай Иванович": 3,
-      "Насташевский Святослав Анатольевич": 192,
-      "Радзивило Ирина Александровна": 1,
-      "Степаненко Александр Александрович": 2,
-      "Стрельченко Галина Ивановна": 47,
-      "Тиунов Владислав Георгиевич": 20,
-      "Против всех": 92
+      "gas:candidate-vibid:354300266806": 76,
+      "gas:candidate-vibid:354300266943": 19,
+      "gas:candidate-vibid:1001000112235": 37,
+      "gas:candidate-vibid:354300266947": 1,
+      "gas:candidate-vibid:1001000199630": 0,
+      "gas:candidate-vibid:1001000121880": 99,
+      "gas:candidate-vibid:1001000225966": 105,
+      "gas:candidate-vibid:1001000113958": 26,
+      "gas:candidate-vibid:1001000188014": 124,
+      "gas:candidate-vibid:1001000202321": 3,
+      "gas:candidate-vibid:354300266870": 192,
+      "gas:candidate-vibid:1001000190386": 1,
+      "gas:candidate-vibid:354300266873": 2,
+      "gas:candidate-vibid:354300266812": 47,
+      "gas:candidate-vibid:1001000136090": 20,
+      "special:against-all": 92
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=543002001&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=354300267119&region=0&sub_region=0&type=429",
@@ -11034,22 +11034,22 @@ export const duma_2003_uik_428_region_54_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Аничкин Иван Степанович": 50,
-      "Бессонов Геннадий Константинович": 25,
-      "Гавриленко Игорь Юрьевич": 53,
-      "Давиденко Владимир Иванович": 0,
-      "Дасманов Станислав Борисович": 3,
-      "Клестов Сергей Александрович": 134,
-      "Кожемякин Эдуард Анатольевич": 126,
-      "Кувшинов Юрий Борисович": 24,
-      "Люлько Александр Николаевич": 134,
-      "Марзан Николай Иванович": 3,
-      "Насташевский Святослав Анатольевич": 238,
-      "Радзивило Ирина Александровна": 9,
-      "Степаненко Александр Александрович": 2,
-      "Стрельченко Галина Ивановна": 58,
-      "Тиунов Владислав Георгиевич": 14,
-      "Против всех": 93
+      "gas:candidate-vibid:354300266806": 50,
+      "gas:candidate-vibid:354300266943": 25,
+      "gas:candidate-vibid:1001000112235": 53,
+      "gas:candidate-vibid:354300266947": 0,
+      "gas:candidate-vibid:1001000199630": 3,
+      "gas:candidate-vibid:1001000121880": 134,
+      "gas:candidate-vibid:1001000225966": 126,
+      "gas:candidate-vibid:1001000113958": 24,
+      "gas:candidate-vibid:1001000188014": 134,
+      "gas:candidate-vibid:1001000202321": 3,
+      "gas:candidate-vibid:354300266870": 238,
+      "gas:candidate-vibid:1001000190386": 9,
+      "gas:candidate-vibid:354300266873": 2,
+      "gas:candidate-vibid:354300266812": 58,
+      "gas:candidate-vibid:1001000136090": 14,
+      "special:against-all": 93
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=543002001&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=354300267119&region=0&sub_region=0&type=429",
@@ -11099,22 +11099,22 @@ export const duma_2003_uik_428_region_54_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Аничкин Иван Степанович": 121,
-      "Бессонов Геннадий Константинович": 18,
-      "Гавриленко Игорь Юрьевич": 88,
-      "Давиденко Владимир Иванович": 4,
-      "Дасманов Станислав Борисович": 3,
-      "Клестов Сергей Александрович": 198,
-      "Кожемякин Эдуард Анатольевич": 158,
-      "Кувшинов Юрий Борисович": 47,
-      "Люлько Александр Николаевич": 145,
-      "Марзан Николай Иванович": 6,
-      "Насташевский Святослав Анатольевич": 218,
-      "Радзивило Ирина Александровна": 7,
-      "Степаненко Александр Александрович": 2,
-      "Стрельченко Галина Ивановна": 78,
-      "Тиунов Владислав Георгиевич": 23,
-      "Против всех": 138
+      "gas:candidate-vibid:354300266806": 121,
+      "gas:candidate-vibid:354300266943": 18,
+      "gas:candidate-vibid:1001000112235": 88,
+      "gas:candidate-vibid:354300266947": 4,
+      "gas:candidate-vibid:1001000199630": 3,
+      "gas:candidate-vibid:1001000121880": 198,
+      "gas:candidate-vibid:1001000225966": 158,
+      "gas:candidate-vibid:1001000113958": 47,
+      "gas:candidate-vibid:1001000188014": 145,
+      "gas:candidate-vibid:1001000202321": 6,
+      "gas:candidate-vibid:354300266870": 218,
+      "gas:candidate-vibid:1001000190386": 7,
+      "gas:candidate-vibid:354300266873": 2,
+      "gas:candidate-vibid:354300266812": 78,
+      "gas:candidate-vibid:1001000136090": 23,
+      "special:against-all": 138
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=543002001&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=354300267119&region=0&sub_region=0&type=429",
@@ -11164,22 +11164,22 @@ export const duma_2003_uik_428_region_54_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Аничкин Иван Степанович": 52,
-      "Бессонов Геннадий Константинович": 29,
-      "Гавриленко Игорь Юрьевич": 80,
-      "Давиденко Владимир Иванович": 0,
-      "Дасманов Станислав Борисович": 3,
-      "Клестов Сергей Александрович": 231,
-      "Кожемякин Эдуард Анатольевич": 174,
-      "Кувшинов Юрий Борисович": 35,
-      "Люлько Александр Николаевич": 136,
-      "Марзан Николай Иванович": 1,
-      "Насташевский Святослав Анатольевич": 232,
-      "Радзивило Ирина Александровна": 9,
-      "Степаненко Александр Александрович": 2,
-      "Стрельченко Галина Ивановна": 95,
-      "Тиунов Владислав Георгиевич": 20,
-      "Против всех": 152
+      "gas:candidate-vibid:354300266806": 52,
+      "gas:candidate-vibid:354300266943": 29,
+      "gas:candidate-vibid:1001000112235": 80,
+      "gas:candidate-vibid:354300266947": 0,
+      "gas:candidate-vibid:1001000199630": 3,
+      "gas:candidate-vibid:1001000121880": 231,
+      "gas:candidate-vibid:1001000225966": 174,
+      "gas:candidate-vibid:1001000113958": 35,
+      "gas:candidate-vibid:1001000188014": 136,
+      "gas:candidate-vibid:1001000202321": 1,
+      "gas:candidate-vibid:354300266870": 232,
+      "gas:candidate-vibid:1001000190386": 9,
+      "gas:candidate-vibid:354300266873": 2,
+      "gas:candidate-vibid:354300266812": 95,
+      "gas:candidate-vibid:1001000136090": 20,
+      "special:against-all": 152
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=543002001&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=354300267119&region=0&sub_region=0&type=429",
@@ -11229,22 +11229,22 @@ export const duma_2003_uik_428_region_54_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Аничкин Иван Степанович": 77,
-      "Бессонов Геннадий Константинович": 13,
-      "Гавриленко Игорь Юрьевич": 48,
-      "Давиденко Владимир Иванович": 3,
-      "Дасманов Станислав Борисович": 4,
-      "Клестов Сергей Александрович": 126,
-      "Кожемякин Эдуард Анатольевич": 123,
-      "Кувшинов Юрий Борисович": 31,
-      "Люлько Александр Николаевич": 85,
-      "Марзан Николай Иванович": 3,
-      "Насташевский Святослав Анатольевич": 200,
-      "Радзивило Ирина Александровна": 9,
-      "Степаненко Александр Александрович": 1,
-      "Стрельченко Галина Ивановна": 79,
-      "Тиунов Владислав Георгиевич": 16,
-      "Против всех": 155
+      "gas:candidate-vibid:354300266806": 77,
+      "gas:candidate-vibid:354300266943": 13,
+      "gas:candidate-vibid:1001000112235": 48,
+      "gas:candidate-vibid:354300266947": 3,
+      "gas:candidate-vibid:1001000199630": 4,
+      "gas:candidate-vibid:1001000121880": 126,
+      "gas:candidate-vibid:1001000225966": 123,
+      "gas:candidate-vibid:1001000113958": 31,
+      "gas:candidate-vibid:1001000188014": 85,
+      "gas:candidate-vibid:1001000202321": 3,
+      "gas:candidate-vibid:354300266870": 200,
+      "gas:candidate-vibid:1001000190386": 9,
+      "gas:candidate-vibid:354300266873": 1,
+      "gas:candidate-vibid:354300266812": 79,
+      "gas:candidate-vibid:1001000136090": 16,
+      "special:against-all": 155
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=543002001&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=354300267119&region=0&sub_region=0&type=429",
@@ -11294,22 +11294,22 @@ export const duma_2003_uik_428_region_54_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Аничкин Иван Степанович": 56,
-      "Бессонов Геннадий Константинович": 8,
-      "Гавриленко Игорь Юрьевич": 35,
-      "Давиденко Владимир Иванович": 0,
-      "Дасманов Станислав Борисович": 5,
-      "Клестов Сергей Александрович": 147,
-      "Кожемякин Эдуард Анатольевич": 86,
-      "Кувшинов Юрий Борисович": 28,
-      "Люлько Александр Николаевич": 95,
-      "Марзан Николай Иванович": 2,
-      "Насташевский Святослав Анатольевич": 185,
-      "Радзивило Ирина Александровна": 10,
-      "Степаненко Александр Александрович": 2,
-      "Стрельченко Галина Ивановна": 41,
-      "Тиунов Владислав Георгиевич": 14,
-      "Против всех": 106
+      "gas:candidate-vibid:354300266806": 56,
+      "gas:candidate-vibid:354300266943": 8,
+      "gas:candidate-vibid:1001000112235": 35,
+      "gas:candidate-vibid:354300266947": 0,
+      "gas:candidate-vibid:1001000199630": 5,
+      "gas:candidate-vibid:1001000121880": 147,
+      "gas:candidate-vibid:1001000225966": 86,
+      "gas:candidate-vibid:1001000113958": 28,
+      "gas:candidate-vibid:1001000188014": 95,
+      "gas:candidate-vibid:1001000202321": 2,
+      "gas:candidate-vibid:354300266870": 185,
+      "gas:candidate-vibid:1001000190386": 10,
+      "gas:candidate-vibid:354300266873": 2,
+      "gas:candidate-vibid:354300266812": 41,
+      "gas:candidate-vibid:1001000136090": 14,
+      "special:against-all": 106
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=543002001&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=354300267119&region=0&sub_region=0&type=429",
@@ -11359,22 +11359,22 @@ export const duma_2003_uik_428_region_54_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Аничкин Иван Степанович": 67,
-      "Бессонов Геннадий Константинович": 12,
-      "Гавриленко Игорь Юрьевич": 44,
-      "Давиденко Владимир Иванович": 0,
-      "Дасманов Станислав Борисович": 4,
-      "Клестов Сергей Александрович": 135,
-      "Кожемякин Эдуард Анатольевич": 121,
-      "Кувшинов Юрий Борисович": 47,
-      "Люлько Александр Николаевич": 93,
-      "Марзан Николай Иванович": 1,
-      "Насташевский Святослав Анатольевич": 185,
-      "Радзивило Ирина Александровна": 7,
-      "Степаненко Александр Александрович": 6,
-      "Стрельченко Галина Ивановна": 50,
-      "Тиунов Владислав Георгиевич": 24,
-      "Против всех": 134
+      "gas:candidate-vibid:354300266806": 67,
+      "gas:candidate-vibid:354300266943": 12,
+      "gas:candidate-vibid:1001000112235": 44,
+      "gas:candidate-vibid:354300266947": 0,
+      "gas:candidate-vibid:1001000199630": 4,
+      "gas:candidate-vibid:1001000121880": 135,
+      "gas:candidate-vibid:1001000225966": 121,
+      "gas:candidate-vibid:1001000113958": 47,
+      "gas:candidate-vibid:1001000188014": 93,
+      "gas:candidate-vibid:1001000202321": 1,
+      "gas:candidate-vibid:354300266870": 185,
+      "gas:candidate-vibid:1001000190386": 7,
+      "gas:candidate-vibid:354300266873": 6,
+      "gas:candidate-vibid:354300266812": 50,
+      "gas:candidate-vibid:1001000136090": 24,
+      "special:against-all": 134
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=543002001&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=354300267119&region=0&sub_region=0&type=429",
@@ -11424,22 +11424,22 @@ export const duma_2003_uik_428_region_54_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Аничкин Иван Степанович": 106,
-      "Бессонов Геннадий Константинович": 23,
-      "Гавриленко Игорь Юрьевич": 67,
-      "Давиденко Владимир Иванович": 3,
-      "Дасманов Станислав Борисович": 8,
-      "Клестов Сергей Александрович": 167,
-      "Кожемякин Эдуард Анатольевич": 189,
-      "Кувшинов Юрий Борисович": 28,
-      "Люлько Александр Николаевич": 141,
-      "Марзан Николай Иванович": 6,
-      "Насташевский Святослав Анатольевич": 447,
-      "Радзивило Ирина Александровна": 12,
-      "Степаненко Александр Александрович": 6,
-      "Стрельченко Галина Ивановна": 111,
-      "Тиунов Владислав Георгиевич": 32,
-      "Против всех": 197
+      "gas:candidate-vibid:354300266806": 106,
+      "gas:candidate-vibid:354300266943": 23,
+      "gas:candidate-vibid:1001000112235": 67,
+      "gas:candidate-vibid:354300266947": 3,
+      "gas:candidate-vibid:1001000199630": 8,
+      "gas:candidate-vibid:1001000121880": 167,
+      "gas:candidate-vibid:1001000225966": 189,
+      "gas:candidate-vibid:1001000113958": 28,
+      "gas:candidate-vibid:1001000188014": 141,
+      "gas:candidate-vibid:1001000202321": 6,
+      "gas:candidate-vibid:354300266870": 447,
+      "gas:candidate-vibid:1001000190386": 12,
+      "gas:candidate-vibid:354300266873": 6,
+      "gas:candidate-vibid:354300266812": 111,
+      "gas:candidate-vibid:1001000136090": 32,
+      "special:against-all": 197
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=543002001&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=354300267119&region=0&sub_region=0&type=429",
@@ -11489,22 +11489,22 @@ export const duma_2003_uik_428_region_54_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Аничкин Иван Степанович": 68,
-      "Бессонов Геннадий Константинович": 8,
-      "Гавриленко Игорь Юрьевич": 42,
-      "Давиденко Владимир Иванович": 3,
-      "Дасманов Станислав Борисович": 5,
-      "Клестов Сергей Александрович": 134,
-      "Кожемякин Эдуард Анатольевич": 180,
-      "Кувшинов Юрий Борисович": 22,
-      "Люлько Александр Николаевич": 114,
-      "Марзан Николай Иванович": 2,
-      "Насташевский Святослав Анатольевич": 284,
-      "Радзивило Ирина Александровна": 8,
-      "Степаненко Александр Александрович": 6,
-      "Стрельченко Галина Ивановна": 115,
-      "Тиунов Владислав Георгиевич": 35,
-      "Против всех": 191
+      "gas:candidate-vibid:354300266806": 68,
+      "gas:candidate-vibid:354300266943": 8,
+      "gas:candidate-vibid:1001000112235": 42,
+      "gas:candidate-vibid:354300266947": 3,
+      "gas:candidate-vibid:1001000199630": 5,
+      "gas:candidate-vibid:1001000121880": 134,
+      "gas:candidate-vibid:1001000225966": 180,
+      "gas:candidate-vibid:1001000113958": 22,
+      "gas:candidate-vibid:1001000188014": 114,
+      "gas:candidate-vibid:1001000202321": 2,
+      "gas:candidate-vibid:354300266870": 284,
+      "gas:candidate-vibid:1001000190386": 8,
+      "gas:candidate-vibid:354300266873": 6,
+      "gas:candidate-vibid:354300266812": 115,
+      "gas:candidate-vibid:1001000136090": 35,
+      "special:against-all": 191
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=543002001&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=354300267119&region=0&sub_region=0&type=429",
@@ -11554,22 +11554,22 @@ export const duma_2003_uik_428_region_54_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Аничкин Иван Степанович": 72,
-      "Бессонов Геннадий Константинович": 13,
-      "Гавриленко Игорь Юрьевич": 51,
-      "Давиденко Владимир Иванович": 1,
-      "Дасманов Станислав Борисович": 2,
-      "Клестов Сергей Александрович": 202,
-      "Кожемякин Эдуард Анатольевич": 150,
-      "Кувшинов Юрий Борисович": 20,
-      "Люлько Александр Николаевич": 144,
-      "Марзан Николай Иванович": 5,
-      "Насташевский Святослав Анатольевич": 260,
-      "Радзивило Ирина Александровна": 10,
-      "Степаненко Александр Александрович": 2,
-      "Стрельченко Галина Ивановна": 97,
-      "Тиунов Владислав Георгиевич": 36,
-      "Против всех": 166
+      "gas:candidate-vibid:354300266806": 72,
+      "gas:candidate-vibid:354300266943": 13,
+      "gas:candidate-vibid:1001000112235": 51,
+      "gas:candidate-vibid:354300266947": 1,
+      "gas:candidate-vibid:1001000199630": 2,
+      "gas:candidate-vibid:1001000121880": 202,
+      "gas:candidate-vibid:1001000225966": 150,
+      "gas:candidate-vibid:1001000113958": 20,
+      "gas:candidate-vibid:1001000188014": 144,
+      "gas:candidate-vibid:1001000202321": 5,
+      "gas:candidate-vibid:354300266870": 260,
+      "gas:candidate-vibid:1001000190386": 10,
+      "gas:candidate-vibid:354300266873": 2,
+      "gas:candidate-vibid:354300266812": 97,
+      "gas:candidate-vibid:1001000136090": 36,
+      "special:against-all": 166
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=543002001&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=354300267119&region=0&sub_region=0&type=429",
@@ -11619,22 +11619,22 @@ export const duma_2003_uik_428_region_54_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Аничкин Иван Степанович": 60,
-      "Бессонов Геннадий Константинович": 15,
-      "Гавриленко Игорь Юрьевич": 39,
-      "Давиденко Владимир Иванович": 4,
-      "Дасманов Станислав Борисович": 3,
-      "Клестов Сергей Александрович": 118,
-      "Кожемякин Эдуард Анатольевич": 142,
-      "Кувшинов Юрий Борисович": 31,
-      "Люлько Александр Николаевич": 167,
-      "Марзан Николай Иванович": 3,
-      "Насташевский Святослав Анатольевич": 235,
-      "Радзивило Ирина Александровна": 5,
-      "Степаненко Александр Александрович": 2,
-      "Стрельченко Галина Ивановна": 40,
-      "Тиунов Владислав Георгиевич": 16,
-      "Против всех": 106
+      "gas:candidate-vibid:354300266806": 60,
+      "gas:candidate-vibid:354300266943": 15,
+      "gas:candidate-vibid:1001000112235": 39,
+      "gas:candidate-vibid:354300266947": 4,
+      "gas:candidate-vibid:1001000199630": 3,
+      "gas:candidate-vibid:1001000121880": 118,
+      "gas:candidate-vibid:1001000225966": 142,
+      "gas:candidate-vibid:1001000113958": 31,
+      "gas:candidate-vibid:1001000188014": 167,
+      "gas:candidate-vibid:1001000202321": 3,
+      "gas:candidate-vibid:354300266870": 235,
+      "gas:candidate-vibid:1001000190386": 5,
+      "gas:candidate-vibid:354300266873": 2,
+      "gas:candidate-vibid:354300266812": 40,
+      "gas:candidate-vibid:1001000136090": 16,
+      "special:against-all": 106
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=543002001&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=354300267119&region=0&sub_region=0&type=429",
@@ -11684,22 +11684,22 @@ export const duma_2003_uik_428_region_54_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Аничкин Иван Степанович": 52,
-      "Бессонов Геннадий Константинович": 20,
-      "Гавриленко Игорь Юрьевич": 23,
-      "Давиденко Владимир Иванович": 2,
-      "Дасманов Станислав Борисович": 5,
-      "Клестов Сергей Александрович": 127,
-      "Кожемякин Эдуард Анатольевич": 146,
-      "Кувшинов Юрий Борисович": 34,
-      "Люлько Александр Николаевич": 145,
-      "Марзан Николай Иванович": 2,
-      "Насташевский Святослав Анатольевич": 247,
-      "Радзивило Ирина Александровна": 6,
-      "Степаненко Александр Александрович": 4,
-      "Стрельченко Галина Ивановна": 49,
-      "Тиунов Владислав Георгиевич": 19,
-      "Против всех": 117
+      "gas:candidate-vibid:354300266806": 52,
+      "gas:candidate-vibid:354300266943": 20,
+      "gas:candidate-vibid:1001000112235": 23,
+      "gas:candidate-vibid:354300266947": 2,
+      "gas:candidate-vibid:1001000199630": 5,
+      "gas:candidate-vibid:1001000121880": 127,
+      "gas:candidate-vibid:1001000225966": 146,
+      "gas:candidate-vibid:1001000113958": 34,
+      "gas:candidate-vibid:1001000188014": 145,
+      "gas:candidate-vibid:1001000202321": 2,
+      "gas:candidate-vibid:354300266870": 247,
+      "gas:candidate-vibid:1001000190386": 6,
+      "gas:candidate-vibid:354300266873": 4,
+      "gas:candidate-vibid:354300266812": 49,
+      "gas:candidate-vibid:1001000136090": 19,
+      "special:against-all": 117
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=543002001&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=354300267119&region=0&sub_region=0&type=429",
@@ -11749,22 +11749,22 @@ export const duma_2003_uik_428_region_54_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Аничкин Иван Степанович": 29,
-      "Бессонов Геннадий Константинович": 21,
-      "Гавриленко Игорь Юрьевич": 30,
-      "Давиденко Владимир Иванович": 3,
-      "Дасманов Станислав Борисович": 2,
-      "Клестов Сергей Александрович": 105,
-      "Кожемякин Эдуард Анатольевич": 120,
-      "Кувшинов Юрий Борисович": 18,
-      "Люлько Александр Николаевич": 96,
-      "Марзан Николай Иванович": 1,
-      "Насташевский Святослав Анатольевич": 222,
-      "Радзивило Ирина Александровна": 5,
-      "Степаненко Александр Александрович": 3,
-      "Стрельченко Галина Ивановна": 66,
-      "Тиунов Владислав Георгиевич": 25,
-      "Против всех": 124
+      "gas:candidate-vibid:354300266806": 29,
+      "gas:candidate-vibid:354300266943": 21,
+      "gas:candidate-vibid:1001000112235": 30,
+      "gas:candidate-vibid:354300266947": 3,
+      "gas:candidate-vibid:1001000199630": 2,
+      "gas:candidate-vibid:1001000121880": 105,
+      "gas:candidate-vibid:1001000225966": 120,
+      "gas:candidate-vibid:1001000113958": 18,
+      "gas:candidate-vibid:1001000188014": 96,
+      "gas:candidate-vibid:1001000202321": 1,
+      "gas:candidate-vibid:354300266870": 222,
+      "gas:candidate-vibid:1001000190386": 5,
+      "gas:candidate-vibid:354300266873": 3,
+      "gas:candidate-vibid:354300266812": 66,
+      "gas:candidate-vibid:1001000136090": 25,
+      "special:against-all": 124
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=543002001&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=354300267119&region=0&sub_region=0&type=429",
@@ -11814,22 +11814,22 @@ export const duma_2003_uik_428_region_54_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Аничкин Иван Степанович": 22,
-      "Бессонов Геннадий Константинович": 27,
-      "Гавриленко Игорь Юрьевич": 33,
-      "Давиденко Владимир Иванович": 1,
-      "Дасманов Станислав Борисович": 4,
-      "Клестов Сергей Александрович": 154,
-      "Кожемякин Эдуард Анатольевич": 154,
-      "Кувшинов Юрий Борисович": 27,
-      "Люлько Александр Николаевич": 206,
-      "Марзан Николай Иванович": 3,
-      "Насташевский Святослав Анатольевич": 290,
-      "Радзивило Ирина Александровна": 10,
-      "Степаненко Александр Александрович": 2,
-      "Стрельченко Галина Ивановна": 86,
-      "Тиунов Владислав Георгиевич": 20,
-      "Против всех": 141
+      "gas:candidate-vibid:354300266806": 22,
+      "gas:candidate-vibid:354300266943": 27,
+      "gas:candidate-vibid:1001000112235": 33,
+      "gas:candidate-vibid:354300266947": 1,
+      "gas:candidate-vibid:1001000199630": 4,
+      "gas:candidate-vibid:1001000121880": 154,
+      "gas:candidate-vibid:1001000225966": 154,
+      "gas:candidate-vibid:1001000113958": 27,
+      "gas:candidate-vibid:1001000188014": 206,
+      "gas:candidate-vibid:1001000202321": 3,
+      "gas:candidate-vibid:354300266870": 290,
+      "gas:candidate-vibid:1001000190386": 10,
+      "gas:candidate-vibid:354300266873": 2,
+      "gas:candidate-vibid:354300266812": 86,
+      "gas:candidate-vibid:1001000136090": 20,
+      "special:against-all": 141
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=543002001&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=354300267119&region=0&sub_region=0&type=429",
@@ -11879,22 +11879,22 @@ export const duma_2003_uik_428_region_54_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Аничкин Иван Степанович": 36,
-      "Бессонов Геннадий Константинович": 14,
-      "Гавриленко Игорь Юрьевич": 41,
-      "Давиденко Владимир Иванович": 1,
-      "Дасманов Станислав Борисович": 9,
-      "Клестов Сергей Александрович": 166,
-      "Кожемякин Эдуард Анатольевич": 125,
-      "Кувшинов Юрий Борисович": 22,
-      "Люлько Александр Николаевич": 247,
-      "Марзан Николай Иванович": 3,
-      "Насташевский Святослав Анатольевич": 253,
-      "Радзивило Ирина Александровна": 4,
-      "Степаненко Александр Александрович": 6,
-      "Стрельченко Галина Ивановна": 73,
-      "Тиунов Владислав Георгиевич": 28,
-      "Против всех": 144
+      "gas:candidate-vibid:354300266806": 36,
+      "gas:candidate-vibid:354300266943": 14,
+      "gas:candidate-vibid:1001000112235": 41,
+      "gas:candidate-vibid:354300266947": 1,
+      "gas:candidate-vibid:1001000199630": 9,
+      "gas:candidate-vibid:1001000121880": 166,
+      "gas:candidate-vibid:1001000225966": 125,
+      "gas:candidate-vibid:1001000113958": 22,
+      "gas:candidate-vibid:1001000188014": 247,
+      "gas:candidate-vibid:1001000202321": 3,
+      "gas:candidate-vibid:354300266870": 253,
+      "gas:candidate-vibid:1001000190386": 4,
+      "gas:candidate-vibid:354300266873": 6,
+      "gas:candidate-vibid:354300266812": 73,
+      "gas:candidate-vibid:1001000136090": 28,
+      "special:against-all": 144
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=543002001&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=354300267119&region=0&sub_region=0&type=429",
@@ -11944,22 +11944,22 @@ export const duma_2003_uik_428_region_54_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Аничкин Иван Степанович": 26,
-      "Бессонов Геннадий Константинович": 17,
-      "Гавриленко Игорь Юрьевич": 30,
-      "Давиденко Владимир Иванович": 0,
-      "Дасманов Станислав Борисович": 5,
-      "Клестов Сергей Александрович": 99,
-      "Кожемякин Эдуард Анатольевич": 86,
-      "Кувшинов Юрий Борисович": 29,
-      "Люлько Александр Николаевич": 93,
-      "Марзан Николай Иванович": 0,
-      "Насташевский Святослав Анатольевич": 205,
-      "Радзивило Ирина Александровна": 8,
-      "Степаненко Александр Александрович": 11,
-      "Стрельченко Галина Ивановна": 58,
-      "Тиунов Владислав Георгиевич": 37,
-      "Против всех": 128
+      "gas:candidate-vibid:354300266806": 26,
+      "gas:candidate-vibid:354300266943": 17,
+      "gas:candidate-vibid:1001000112235": 30,
+      "gas:candidate-vibid:354300266947": 0,
+      "gas:candidate-vibid:1001000199630": 5,
+      "gas:candidate-vibid:1001000121880": 99,
+      "gas:candidate-vibid:1001000225966": 86,
+      "gas:candidate-vibid:1001000113958": 29,
+      "gas:candidate-vibid:1001000188014": 93,
+      "gas:candidate-vibid:1001000202321": 0,
+      "gas:candidate-vibid:354300266870": 205,
+      "gas:candidate-vibid:1001000190386": 8,
+      "gas:candidate-vibid:354300266873": 11,
+      "gas:candidate-vibid:354300266812": 58,
+      "gas:candidate-vibid:1001000136090": 37,
+      "special:against-all": 128
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=543002001&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=354300267119&region=0&sub_region=0&type=429",
@@ -12009,22 +12009,22 @@ export const duma_2003_uik_428_region_54_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Аничкин Иван Степанович": 24,
-      "Бессонов Геннадий Константинович": 15,
-      "Гавриленко Игорь Юрьевич": 31,
-      "Давиденко Владимир Иванович": 3,
-      "Дасманов Станислав Борисович": 4,
-      "Клестов Сергей Александрович": 112,
-      "Кожемякин Эдуард Анатольевич": 128,
-      "Кувшинов Юрий Борисович": 30,
-      "Люлько Александр Николаевич": 127,
-      "Марзан Николай Иванович": 3,
-      "Насташевский Святослав Анатольевич": 257,
-      "Радзивило Ирина Александровна": 6,
-      "Степаненко Александр Александрович": 5,
-      "Стрельченко Галина Ивановна": 66,
-      "Тиунов Владислав Георгиевич": 35,
-      "Против всех": 132
+      "gas:candidate-vibid:354300266806": 24,
+      "gas:candidate-vibid:354300266943": 15,
+      "gas:candidate-vibid:1001000112235": 31,
+      "gas:candidate-vibid:354300266947": 3,
+      "gas:candidate-vibid:1001000199630": 4,
+      "gas:candidate-vibid:1001000121880": 112,
+      "gas:candidate-vibid:1001000225966": 128,
+      "gas:candidate-vibid:1001000113958": 30,
+      "gas:candidate-vibid:1001000188014": 127,
+      "gas:candidate-vibid:1001000202321": 3,
+      "gas:candidate-vibid:354300266870": 257,
+      "gas:candidate-vibid:1001000190386": 6,
+      "gas:candidate-vibid:354300266873": 5,
+      "gas:candidate-vibid:354300266812": 66,
+      "gas:candidate-vibid:1001000136090": 35,
+      "special:against-all": 132
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=543002001&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=354300267119&region=0&sub_region=0&type=429",
@@ -12074,22 +12074,22 @@ export const duma_2003_uik_428_region_54_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Аничкин Иван Степанович": 27,
-      "Бессонов Геннадий Константинович": 11,
-      "Гавриленко Игорь Юрьевич": 25,
-      "Давиденко Владимир Иванович": 1,
-      "Дасманов Станислав Борисович": 1,
-      "Клестов Сергей Александрович": 91,
-      "Кожемякин Эдуард Анатольевич": 133,
-      "Кувшинов Юрий Борисович": 17,
-      "Люлько Александр Николаевич": 130,
-      "Марзан Николай Иванович": 5,
-      "Насташевский Святослав Анатольевич": 236,
-      "Радзивило Ирина Александровна": 6,
-      "Степаненко Александр Александрович": 6,
-      "Стрельченко Галина Ивановна": 60,
-      "Тиунов Владислав Георгиевич": 31,
-      "Против всех": 135
+      "gas:candidate-vibid:354300266806": 27,
+      "gas:candidate-vibid:354300266943": 11,
+      "gas:candidate-vibid:1001000112235": 25,
+      "gas:candidate-vibid:354300266947": 1,
+      "gas:candidate-vibid:1001000199630": 1,
+      "gas:candidate-vibid:1001000121880": 91,
+      "gas:candidate-vibid:1001000225966": 133,
+      "gas:candidate-vibid:1001000113958": 17,
+      "gas:candidate-vibid:1001000188014": 130,
+      "gas:candidate-vibid:1001000202321": 5,
+      "gas:candidate-vibid:354300266870": 236,
+      "gas:candidate-vibid:1001000190386": 6,
+      "gas:candidate-vibid:354300266873": 6,
+      "gas:candidate-vibid:354300266812": 60,
+      "gas:candidate-vibid:1001000136090": 31,
+      "special:against-all": 135
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=543002001&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=354300267119&region=0&sub_region=0&type=429",
@@ -12139,22 +12139,22 @@ export const duma_2003_uik_428_region_54_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Аничкин Иван Степанович": 55,
-      "Бессонов Геннадий Константинович": 16,
-      "Гавриленко Игорь Юрьевич": 43,
-      "Давиденко Владимир Иванович": 1,
-      "Дасманов Станислав Борисович": 4,
-      "Клестов Сергей Александрович": 126,
-      "Кожемякин Эдуард Анатольевич": 136,
-      "Кувшинов Юрий Борисович": 19,
-      "Люлько Александр Николаевич": 194,
-      "Марзан Николай Иванович": 4,
-      "Насташевский Святослав Анатольевич": 224,
-      "Радзивило Ирина Александровна": 7,
-      "Степаненко Александр Александрович": 2,
-      "Стрельченко Галина Ивановна": 75,
-      "Тиунов Владислав Георгиевич": 34,
-      "Против всех": 166
+      "gas:candidate-vibid:354300266806": 55,
+      "gas:candidate-vibid:354300266943": 16,
+      "gas:candidate-vibid:1001000112235": 43,
+      "gas:candidate-vibid:354300266947": 1,
+      "gas:candidate-vibid:1001000199630": 4,
+      "gas:candidate-vibid:1001000121880": 126,
+      "gas:candidate-vibid:1001000225966": 136,
+      "gas:candidate-vibid:1001000113958": 19,
+      "gas:candidate-vibid:1001000188014": 194,
+      "gas:candidate-vibid:1001000202321": 4,
+      "gas:candidate-vibid:354300266870": 224,
+      "gas:candidate-vibid:1001000190386": 7,
+      "gas:candidate-vibid:354300266873": 2,
+      "gas:candidate-vibid:354300266812": 75,
+      "gas:candidate-vibid:1001000136090": 34,
+      "special:against-all": 166
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=543002001&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=354300267119&region=0&sub_region=0&type=429",
@@ -12204,22 +12204,22 @@ export const duma_2003_uik_428_region_54_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Аничкин Иван Степанович": 64,
-      "Бессонов Геннадий Константинович": 13,
-      "Гавриленко Игорь Юрьевич": 42,
-      "Давиденко Владимир Иванович": 5,
-      "Дасманов Станислав Борисович": 11,
-      "Клестов Сергей Александрович": 159,
-      "Кожемякин Эдуард Анатольевич": 186,
-      "Кувшинов Юрий Борисович": 26,
-      "Люлько Александр Николаевич": 178,
-      "Марзан Николай Иванович": 2,
-      "Насташевский Святослав Анатольевич": 406,
-      "Радзивило Ирина Александровна": 4,
-      "Степаненко Александр Александрович": 6,
-      "Стрельченко Галина Ивановна": 95,
-      "Тиунов Владислав Георгиевич": 33,
-      "Против всех": 208
+      "gas:candidate-vibid:354300266806": 64,
+      "gas:candidate-vibid:354300266943": 13,
+      "gas:candidate-vibid:1001000112235": 42,
+      "gas:candidate-vibid:354300266947": 5,
+      "gas:candidate-vibid:1001000199630": 11,
+      "gas:candidate-vibid:1001000121880": 159,
+      "gas:candidate-vibid:1001000225966": 186,
+      "gas:candidate-vibid:1001000113958": 26,
+      "gas:candidate-vibid:1001000188014": 178,
+      "gas:candidate-vibid:1001000202321": 2,
+      "gas:candidate-vibid:354300266870": 406,
+      "gas:candidate-vibid:1001000190386": 4,
+      "gas:candidate-vibid:354300266873": 6,
+      "gas:candidate-vibid:354300266812": 95,
+      "gas:candidate-vibid:1001000136090": 33,
+      "special:against-all": 208
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=543002001&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=354300267119&region=0&sub_region=0&type=429",
@@ -12269,22 +12269,22 @@ export const duma_2003_uik_428_region_54_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Аничкин Иван Степанович": 50,
-      "Бессонов Геннадий Константинович": 9,
-      "Гавриленко Игорь Юрьевич": 60,
-      "Давиденко Владимир Иванович": 0,
-      "Дасманов Станислав Борисович": 0,
-      "Клестов Сергей Александрович": 172,
-      "Кожемякин Эдуард Анатольевич": 143,
-      "Кувшинов Юрий Борисович": 37,
-      "Люлько Александр Николаевич": 179,
-      "Марзан Николай Иванович": 1,
-      "Насташевский Святослав Анатольевич": 212,
-      "Радзивило Ирина Александровна": 4,
-      "Степаненко Александр Александрович": 6,
-      "Стрельченко Галина Ивановна": 42,
-      "Тиунов Владислав Георгиевич": 15,
-      "Против всех": 126
+      "gas:candidate-vibid:354300266806": 50,
+      "gas:candidate-vibid:354300266943": 9,
+      "gas:candidate-vibid:1001000112235": 60,
+      "gas:candidate-vibid:354300266947": 0,
+      "gas:candidate-vibid:1001000199630": 0,
+      "gas:candidate-vibid:1001000121880": 172,
+      "gas:candidate-vibid:1001000225966": 143,
+      "gas:candidate-vibid:1001000113958": 37,
+      "gas:candidate-vibid:1001000188014": 179,
+      "gas:candidate-vibid:1001000202321": 1,
+      "gas:candidate-vibid:354300266870": 212,
+      "gas:candidate-vibid:1001000190386": 4,
+      "gas:candidate-vibid:354300266873": 6,
+      "gas:candidate-vibid:354300266812": 42,
+      "gas:candidate-vibid:1001000136090": 15,
+      "special:against-all": 126
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=543002001&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=354300267119&region=0&sub_region=0&type=429",
@@ -12334,22 +12334,22 @@ export const duma_2003_uik_428_region_54_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Аничкин Иван Степанович": 71,
-      "Бессонов Геннадий Константинович": 13,
-      "Гавриленко Игорь Юрьевич": 34,
-      "Давиденко Владимир Иванович": 1,
-      "Дасманов Станислав Борисович": 6,
-      "Клестов Сергей Александрович": 187,
-      "Кожемякин Эдуард Анатольевич": 306,
-      "Кувшинов Юрий Борисович": 31,
-      "Люлько Александр Николаевич": 85,
-      "Марзан Николай Иванович": 4,
-      "Насташевский Святослав Анатольевич": 223,
-      "Радзивило Ирина Александровна": 9,
-      "Степаненко Александр Александрович": 5,
-      "Стрельченко Галина Ивановна": 66,
-      "Тиунов Владислав Георгиевич": 21,
-      "Против всех": 144
+      "gas:candidate-vibid:354300266806": 71,
+      "gas:candidate-vibid:354300266943": 13,
+      "gas:candidate-vibid:1001000112235": 34,
+      "gas:candidate-vibid:354300266947": 1,
+      "gas:candidate-vibid:1001000199630": 6,
+      "gas:candidate-vibid:1001000121880": 187,
+      "gas:candidate-vibid:1001000225966": 306,
+      "gas:candidate-vibid:1001000113958": 31,
+      "gas:candidate-vibid:1001000188014": 85,
+      "gas:candidate-vibid:1001000202321": 4,
+      "gas:candidate-vibid:354300266870": 223,
+      "gas:candidate-vibid:1001000190386": 9,
+      "gas:candidate-vibid:354300266873": 5,
+      "gas:candidate-vibid:354300266812": 66,
+      "gas:candidate-vibid:1001000136090": 21,
+      "special:against-all": 144
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=543002001&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=354300267119&region=0&sub_region=0&type=429",
@@ -12399,22 +12399,22 @@ export const duma_2003_uik_428_region_54_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Аничкин Иван Степанович": 36,
-      "Бессонов Геннадий Константинович": 18,
-      "Гавриленко Игорь Юрьевич": 71,
-      "Давиденко Владимир Иванович": 4,
-      "Дасманов Станислав Борисович": 7,
-      "Клестов Сергей Александрович": 188,
-      "Кожемякин Эдуард Анатольевич": 260,
-      "Кувшинов Юрий Борисович": 39,
-      "Люлько Александр Николаевич": 118,
-      "Марзан Николай Иванович": 0,
-      "Насташевский Святослав Анатольевич": 290,
-      "Радзивило Ирина Александровна": 13,
-      "Степаненко Александр Александрович": 3,
-      "Стрельченко Галина Ивановна": 66,
-      "Тиунов Владислав Георгиевич": 30,
-      "Против всех": 185
+      "gas:candidate-vibid:354300266806": 36,
+      "gas:candidate-vibid:354300266943": 18,
+      "gas:candidate-vibid:1001000112235": 71,
+      "gas:candidate-vibid:354300266947": 4,
+      "gas:candidate-vibid:1001000199630": 7,
+      "gas:candidate-vibid:1001000121880": 188,
+      "gas:candidate-vibid:1001000225966": 260,
+      "gas:candidate-vibid:1001000113958": 39,
+      "gas:candidate-vibid:1001000188014": 118,
+      "gas:candidate-vibid:1001000202321": 0,
+      "gas:candidate-vibid:354300266870": 290,
+      "gas:candidate-vibid:1001000190386": 13,
+      "gas:candidate-vibid:354300266873": 3,
+      "gas:candidate-vibid:354300266812": 66,
+      "gas:candidate-vibid:1001000136090": 30,
+      "special:against-all": 185
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=543002001&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=354300267119&region=0&sub_region=0&type=429",
@@ -12464,22 +12464,22 @@ export const duma_2003_uik_428_region_54_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Аничкин Иван Степанович": 36,
-      "Бессонов Геннадий Константинович": 13,
-      "Гавриленко Игорь Юрьевич": 15,
-      "Давиденко Владимир Иванович": 6,
-      "Дасманов Станислав Борисович": 3,
-      "Клестов Сергей Александрович": 44,
-      "Кожемякин Эдуард Анатольевич": 91,
-      "Кувшинов Юрий Борисович": 10,
-      "Люлько Александр Николаевич": 89,
-      "Марзан Николай Иванович": 0,
-      "Насташевский Святослав Анатольевич": 170,
-      "Радзивило Ирина Александровна": 7,
-      "Степаненко Александр Александрович": 1,
-      "Стрельченко Галина Ивановна": 86,
-      "Тиунов Владислав Георгиевич": 30,
-      "Против всех": 116
+      "gas:candidate-vibid:354300266806": 36,
+      "gas:candidate-vibid:354300266943": 13,
+      "gas:candidate-vibid:1001000112235": 15,
+      "gas:candidate-vibid:354300266947": 6,
+      "gas:candidate-vibid:1001000199630": 3,
+      "gas:candidate-vibid:1001000121880": 44,
+      "gas:candidate-vibid:1001000225966": 91,
+      "gas:candidate-vibid:1001000113958": 10,
+      "gas:candidate-vibid:1001000188014": 89,
+      "gas:candidate-vibid:1001000202321": 0,
+      "gas:candidate-vibid:354300266870": 170,
+      "gas:candidate-vibid:1001000190386": 7,
+      "gas:candidate-vibid:354300266873": 1,
+      "gas:candidate-vibid:354300266812": 86,
+      "gas:candidate-vibid:1001000136090": 30,
+      "special:against-all": 116
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=543002001&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=354300267119&region=0&sub_region=0&type=429",
@@ -12529,22 +12529,22 @@ export const duma_2003_uik_428_region_54_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Аничкин Иван Степанович": 18,
-      "Бессонов Геннадий Константинович": 15,
-      "Гавриленко Игорь Юрьевич": 9,
-      "Давиденко Владимир Иванович": 2,
-      "Дасманов Станислав Борисович": 1,
-      "Клестов Сергей Александрович": 38,
-      "Кожемякин Эдуард Анатольевич": 62,
-      "Кувшинов Юрий Борисович": 9,
-      "Люлько Александр Николаевич": 37,
-      "Марзан Николай Иванович": 0,
-      "Насташевский Святослав Анатольевич": 88,
-      "Радзивило Ирина Александровна": 1,
-      "Степаненко Александр Александрович": 2,
-      "Стрельченко Галина Ивановна": 39,
-      "Тиунов Владислав Георгиевич": 18,
-      "Против всех": 84
+      "gas:candidate-vibid:354300266806": 18,
+      "gas:candidate-vibid:354300266943": 15,
+      "gas:candidate-vibid:1001000112235": 9,
+      "gas:candidate-vibid:354300266947": 2,
+      "gas:candidate-vibid:1001000199630": 1,
+      "gas:candidate-vibid:1001000121880": 38,
+      "gas:candidate-vibid:1001000225966": 62,
+      "gas:candidate-vibid:1001000113958": 9,
+      "gas:candidate-vibid:1001000188014": 37,
+      "gas:candidate-vibid:1001000202321": 0,
+      "gas:candidate-vibid:354300266870": 88,
+      "gas:candidate-vibid:1001000190386": 1,
+      "gas:candidate-vibid:354300266873": 2,
+      "gas:candidate-vibid:354300266812": 39,
+      "gas:candidate-vibid:1001000136090": 18,
+      "special:against-all": 84
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=543002001&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=354300267119&region=0&sub_region=0&type=429",
@@ -12594,22 +12594,22 @@ export const duma_2003_uik_428_region_54_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Аничкин Иван Степанович": 49,
-      "Бессонов Геннадий Константинович": 9,
-      "Гавриленко Игорь Юрьевич": 21,
-      "Давиденко Владимир Иванович": 1,
-      "Дасманов Станислав Борисович": 1,
-      "Клестов Сергей Александрович": 85,
-      "Кожемякин Эдуард Анатольевич": 149,
-      "Кувшинов Юрий Борисович": 15,
-      "Люлько Александр Николаевич": 198,
-      "Марзан Николай Иванович": 1,
-      "Насташевский Святослав Анатольевич": 200,
-      "Радзивило Ирина Александровна": 6,
-      "Степаненко Александр Александрович": 9,
-      "Стрельченко Галина Ивановна": 253,
-      "Тиунов Владислав Георгиевич": 25,
-      "Против всех": 155
+      "gas:candidate-vibid:354300266806": 49,
+      "gas:candidate-vibid:354300266943": 9,
+      "gas:candidate-vibid:1001000112235": 21,
+      "gas:candidate-vibid:354300266947": 1,
+      "gas:candidate-vibid:1001000199630": 1,
+      "gas:candidate-vibid:1001000121880": 85,
+      "gas:candidate-vibid:1001000225966": 149,
+      "gas:candidate-vibid:1001000113958": 15,
+      "gas:candidate-vibid:1001000188014": 198,
+      "gas:candidate-vibid:1001000202321": 1,
+      "gas:candidate-vibid:354300266870": 200,
+      "gas:candidate-vibid:1001000190386": 6,
+      "gas:candidate-vibid:354300266873": 9,
+      "gas:candidate-vibid:354300266812": 253,
+      "gas:candidate-vibid:1001000136090": 25,
+      "special:against-all": 155
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=543002001&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=354300267119&region=0&sub_region=0&type=429",
@@ -12659,22 +12659,22 @@ export const duma_2003_uik_428_region_54_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Аничкин Иван Степанович": 17,
-      "Бессонов Геннадий Константинович": 9,
-      "Гавриленко Игорь Юрьевич": 5,
-      "Давиденко Владимир Иванович": 0,
-      "Дасманов Станислав Борисович": 3,
-      "Клестов Сергей Александрович": 26,
-      "Кожемякин Эдуард Анатольевич": 41,
-      "Кувшинов Юрий Борисович": 5,
-      "Люлько Александр Николаевич": 77,
-      "Марзан Николай Иванович": 1,
-      "Насташевский Святослав Анатольевич": 69,
-      "Радзивило Ирина Александровна": 0,
-      "Степаненко Александр Александрович": 2,
-      "Стрельченко Галина Ивановна": 79,
-      "Тиунов Владислав Георгиевич": 22,
-      "Против всех": 61
+      "gas:candidate-vibid:354300266806": 17,
+      "gas:candidate-vibid:354300266943": 9,
+      "gas:candidate-vibid:1001000112235": 5,
+      "gas:candidate-vibid:354300266947": 0,
+      "gas:candidate-vibid:1001000199630": 3,
+      "gas:candidate-vibid:1001000121880": 26,
+      "gas:candidate-vibid:1001000225966": 41,
+      "gas:candidate-vibid:1001000113958": 5,
+      "gas:candidate-vibid:1001000188014": 77,
+      "gas:candidate-vibid:1001000202321": 1,
+      "gas:candidate-vibid:354300266870": 69,
+      "gas:candidate-vibid:1001000190386": 0,
+      "gas:candidate-vibid:354300266873": 2,
+      "gas:candidate-vibid:354300266812": 79,
+      "gas:candidate-vibid:1001000136090": 22,
+      "special:against-all": 61
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=543002001&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=354300267119&region=0&sub_region=0&type=429",
@@ -12724,22 +12724,22 @@ export const duma_2003_uik_428_region_54_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Аничкин Иван Степанович": 16,
-      "Бессонов Геннадий Константинович": 4,
-      "Гавриленко Игорь Юрьевич": 7,
-      "Давиденко Владимир Иванович": 0,
-      "Дасманов Станислав Борисович": 3,
-      "Клестов Сергей Александрович": 39,
-      "Кожемякин Эдуард Анатольевич": 55,
-      "Кувшинов Юрий Борисович": 6,
-      "Люлько Александр Николаевич": 34,
-      "Марзан Николай Иванович": 1,
-      "Насташевский Святослав Анатольевич": 87,
-      "Радзивило Ирина Александровна": 3,
-      "Степаненко Александр Александрович": 1,
-      "Стрельченко Галина Ивановна": 40,
-      "Тиунов Владислав Георгиевич": 25,
-      "Против всех": 61
+      "gas:candidate-vibid:354300266806": 16,
+      "gas:candidate-vibid:354300266943": 4,
+      "gas:candidate-vibid:1001000112235": 7,
+      "gas:candidate-vibid:354300266947": 0,
+      "gas:candidate-vibid:1001000199630": 3,
+      "gas:candidate-vibid:1001000121880": 39,
+      "gas:candidate-vibid:1001000225966": 55,
+      "gas:candidate-vibid:1001000113958": 6,
+      "gas:candidate-vibid:1001000188014": 34,
+      "gas:candidate-vibid:1001000202321": 1,
+      "gas:candidate-vibid:354300266870": 87,
+      "gas:candidate-vibid:1001000190386": 3,
+      "gas:candidate-vibid:354300266873": 1,
+      "gas:candidate-vibid:354300266812": 40,
+      "gas:candidate-vibid:1001000136090": 25,
+      "special:against-all": 61
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=543002001&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=354300267119&region=0&sub_region=0&type=429",
@@ -12789,22 +12789,22 @@ export const duma_2003_uik_428_region_54_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Аничкин Иван Степанович": 24,
-      "Бессонов Геннадий Константинович": 3,
-      "Гавриленко Игорь Юрьевич": 6,
-      "Давиденко Владимир Иванович": 1,
-      "Дасманов Станислав Борисович": 3,
-      "Клестов Сергей Александрович": 46,
-      "Кожемякин Эдуард Анатольевич": 71,
-      "Кувшинов Юрий Борисович": 3,
-      "Люлько Александр Николаевич": 54,
-      "Марзан Николай Иванович": 3,
-      "Насташевский Святослав Анатольевич": 104,
-      "Радзивило Ирина Александровна": 2,
-      "Степаненко Александр Александрович": 6,
-      "Стрельченко Галина Ивановна": 45,
-      "Тиунов Владислав Георгиевич": 14,
-      "Против всех": 96
+      "gas:candidate-vibid:354300266806": 24,
+      "gas:candidate-vibid:354300266943": 3,
+      "gas:candidate-vibid:1001000112235": 6,
+      "gas:candidate-vibid:354300266947": 1,
+      "gas:candidate-vibid:1001000199630": 3,
+      "gas:candidate-vibid:1001000121880": 46,
+      "gas:candidate-vibid:1001000225966": 71,
+      "gas:candidate-vibid:1001000113958": 3,
+      "gas:candidate-vibid:1001000188014": 54,
+      "gas:candidate-vibid:1001000202321": 3,
+      "gas:candidate-vibid:354300266870": 104,
+      "gas:candidate-vibid:1001000190386": 2,
+      "gas:candidate-vibid:354300266873": 6,
+      "gas:candidate-vibid:354300266812": 45,
+      "gas:candidate-vibid:1001000136090": 14,
+      "special:against-all": 96
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=543002001&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=354300267119&region=0&sub_region=0&type=429",
@@ -12854,22 +12854,22 @@ export const duma_2003_uik_428_region_54_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Аничкин Иван Степанович": 82,
-      "Бессонов Геннадий Константинович": 20,
-      "Гавриленко Игорь Юрьевич": 53,
-      "Давиденко Владимир Иванович": 1,
-      "Дасманов Станислав Борисович": 3,
-      "Клестов Сергей Александрович": 150,
-      "Кожемякин Эдуард Анатольевич": 200,
-      "Кувшинов Юрий Борисович": 29,
-      "Люлько Александр Николаевич": 72,
-      "Марзан Николай Иванович": 4,
-      "Насташевский Святослав Анатольевич": 227,
-      "Радзивило Ирина Александровна": 7,
-      "Степаненко Александр Александрович": 5,
-      "Стрельченко Галина Ивановна": 47,
-      "Тиунов Владислав Георгиевич": 22,
-      "Против всех": 128
+      "gas:candidate-vibid:354300266806": 82,
+      "gas:candidate-vibid:354300266943": 20,
+      "gas:candidate-vibid:1001000112235": 53,
+      "gas:candidate-vibid:354300266947": 1,
+      "gas:candidate-vibid:1001000199630": 3,
+      "gas:candidate-vibid:1001000121880": 150,
+      "gas:candidate-vibid:1001000225966": 200,
+      "gas:candidate-vibid:1001000113958": 29,
+      "gas:candidate-vibid:1001000188014": 72,
+      "gas:candidate-vibid:1001000202321": 4,
+      "gas:candidate-vibid:354300266870": 227,
+      "gas:candidate-vibid:1001000190386": 7,
+      "gas:candidate-vibid:354300266873": 5,
+      "gas:candidate-vibid:354300266812": 47,
+      "gas:candidate-vibid:1001000136090": 22,
+      "special:against-all": 128
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=543002001&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=354300267119&region=0&sub_region=0&type=429",
@@ -12919,22 +12919,22 @@ export const duma_2003_uik_428_region_54_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Аничкин Иван Степанович": 67,
-      "Бессонов Геннадий Константинович": 16,
-      "Гавриленко Игорь Юрьевич": 34,
-      "Давиденко Владимир Иванович": 2,
-      "Дасманов Станислав Борисович": 7,
-      "Клестов Сергей Александрович": 241,
-      "Кожемякин Эдуард Анатольевич": 331,
-      "Кувшинов Юрий Борисович": 25,
-      "Люлько Александр Николаевич": 97,
-      "Марзан Николай Иванович": 5,
-      "Насташевский Святослав Анатольевич": 228,
-      "Радзивило Ирина Александровна": 7,
-      "Степаненко Александр Александрович": 6,
-      "Стрельченко Галина Ивановна": 101,
-      "Тиунов Владислав Георгиевич": 31,
-      "Против всех": 128
+      "gas:candidate-vibid:354300266806": 67,
+      "gas:candidate-vibid:354300266943": 16,
+      "gas:candidate-vibid:1001000112235": 34,
+      "gas:candidate-vibid:354300266947": 2,
+      "gas:candidate-vibid:1001000199630": 7,
+      "gas:candidate-vibid:1001000121880": 241,
+      "gas:candidate-vibid:1001000225966": 331,
+      "gas:candidate-vibid:1001000113958": 25,
+      "gas:candidate-vibid:1001000188014": 97,
+      "gas:candidate-vibid:1001000202321": 5,
+      "gas:candidate-vibid:354300266870": 228,
+      "gas:candidate-vibid:1001000190386": 7,
+      "gas:candidate-vibid:354300266873": 6,
+      "gas:candidate-vibid:354300266812": 101,
+      "gas:candidate-vibid:1001000136090": 31,
+      "special:against-all": 128
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=543002001&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=354300267119&region=0&sub_region=0&type=429",
@@ -12984,22 +12984,22 @@ export const duma_2003_uik_428_region_54_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Аничкин Иван Степанович": 36,
-      "Бессонов Геннадий Константинович": 14,
-      "Гавриленко Игорь Юрьевич": 11,
-      "Давиденко Владимир Иванович": 1,
-      "Дасманов Станислав Борисович": 1,
-      "Клестов Сергей Александрович": 76,
-      "Кожемякин Эдуард Анатольевич": 86,
-      "Кувшинов Юрий Борисович": 9,
-      "Люлько Александр Николаевич": 339,
-      "Марзан Николай Иванович": 7,
-      "Насташевский Святослав Анатольевич": 187,
-      "Радзивило Ирина Александровна": 2,
-      "Степаненко Александр Александрович": 5,
-      "Стрельченко Галина Ивановна": 119,
-      "Тиунов Владислав Георгиевич": 33,
-      "Против всех": 112
+      "gas:candidate-vibid:354300266806": 36,
+      "gas:candidate-vibid:354300266943": 14,
+      "gas:candidate-vibid:1001000112235": 11,
+      "gas:candidate-vibid:354300266947": 1,
+      "gas:candidate-vibid:1001000199630": 1,
+      "gas:candidate-vibid:1001000121880": 76,
+      "gas:candidate-vibid:1001000225966": 86,
+      "gas:candidate-vibid:1001000113958": 9,
+      "gas:candidate-vibid:1001000188014": 339,
+      "gas:candidate-vibid:1001000202321": 7,
+      "gas:candidate-vibid:354300266870": 187,
+      "gas:candidate-vibid:1001000190386": 2,
+      "gas:candidate-vibid:354300266873": 5,
+      "gas:candidate-vibid:354300266812": 119,
+      "gas:candidate-vibid:1001000136090": 33,
+      "special:against-all": 112
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=543002001&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=354300267119&region=0&sub_region=0&type=429",
@@ -13049,22 +13049,22 @@ export const duma_2003_uik_428_region_54_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Аничкин Иван Степанович": 110,
-      "Бессонов Геннадий Константинович": 29,
-      "Гавриленко Игорь Юрьевич": 62,
-      "Давиденко Владимир Иванович": 0,
-      "Дасманов Станислав Борисович": 3,
-      "Клестов Сергей Александрович": 227,
-      "Кожемякин Эдуард Анатольевич": 296,
-      "Кувшинов Юрий Борисович": 29,
-      "Люлько Александр Николаевич": 127,
-      "Марзан Николай Иванович": 5,
-      "Насташевский Святослав Анатольевич": 379,
-      "Радзивило Ирина Александровна": 6,
-      "Степаненко Александр Александрович": 2,
-      "Стрельченко Галина Ивановна": 80,
-      "Тиунов Владислав Георгиевич": 35,
-      "Против всех": 187
+      "gas:candidate-vibid:354300266806": 110,
+      "gas:candidate-vibid:354300266943": 29,
+      "gas:candidate-vibid:1001000112235": 62,
+      "gas:candidate-vibid:354300266947": 0,
+      "gas:candidate-vibid:1001000199630": 3,
+      "gas:candidate-vibid:1001000121880": 227,
+      "gas:candidate-vibid:1001000225966": 296,
+      "gas:candidate-vibid:1001000113958": 29,
+      "gas:candidate-vibid:1001000188014": 127,
+      "gas:candidate-vibid:1001000202321": 5,
+      "gas:candidate-vibid:354300266870": 379,
+      "gas:candidate-vibid:1001000190386": 6,
+      "gas:candidate-vibid:354300266873": 2,
+      "gas:candidate-vibid:354300266812": 80,
+      "gas:candidate-vibid:1001000136090": 35,
+      "special:against-all": 187
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=543002001&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=354300267119&region=0&sub_region=0&type=429",
@@ -13114,22 +13114,22 @@ export const duma_2003_uik_428_region_54_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Аничкин Иван Степанович": 69,
-      "Бессонов Геннадий Константинович": 20,
-      "Гавриленко Игорь Юрьевич": 57,
-      "Давиденко Владимир Иванович": 0,
-      "Дасманов Станислав Борисович": 4,
-      "Клестов Сергей Александрович": 186,
-      "Кожемякин Эдуард Анатольевич": 335,
-      "Кувшинов Юрий Борисович": 23,
-      "Люлько Александр Николаевич": 107,
-      "Марзан Николай Иванович": 2,
-      "Насташевский Святослав Анатольевич": 458,
-      "Радзивило Ирина Александровна": 14,
-      "Степаненко Александр Александрович": 7,
-      "Стрельченко Галина Ивановна": 108,
-      "Тиунов Владислав Георгиевич": 33,
-      "Против всех": 206
+      "gas:candidate-vibid:354300266806": 69,
+      "gas:candidate-vibid:354300266943": 20,
+      "gas:candidate-vibid:1001000112235": 57,
+      "gas:candidate-vibid:354300266947": 0,
+      "gas:candidate-vibid:1001000199630": 4,
+      "gas:candidate-vibid:1001000121880": 186,
+      "gas:candidate-vibid:1001000225966": 335,
+      "gas:candidate-vibid:1001000113958": 23,
+      "gas:candidate-vibid:1001000188014": 107,
+      "gas:candidate-vibid:1001000202321": 2,
+      "gas:candidate-vibid:354300266870": 458,
+      "gas:candidate-vibid:1001000190386": 14,
+      "gas:candidate-vibid:354300266873": 7,
+      "gas:candidate-vibid:354300266812": 108,
+      "gas:candidate-vibid:1001000136090": 33,
+      "special:against-all": 206
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=543002001&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=354300267119&region=0&sub_region=0&type=429",
@@ -13179,22 +13179,22 @@ export const duma_2003_uik_428_region_54_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Аничкин Иван Степанович": 53,
-      "Бессонов Геннадий Константинович": 29,
-      "Гавриленко Игорь Юрьевич": 42,
-      "Давиденко Владимир Иванович": 2,
-      "Дасманов Станислав Борисович": 2,
-      "Клестов Сергей Александрович": 128,
-      "Кожемякин Эдуард Анатольевич": 170,
-      "Кувшинов Юрий Борисович": 47,
-      "Люлько Александр Николаевич": 199,
-      "Марзан Николай Иванович": 3,
-      "Насташевский Святослав Анатольевич": 298,
-      "Радзивило Ирина Александровна": 11,
-      "Степаненко Александр Александрович": 7,
-      "Стрельченко Галина Ивановна": 114,
-      "Тиунов Владислав Георгиевич": 35,
-      "Против всех": 189
+      "gas:candidate-vibid:354300266806": 53,
+      "gas:candidate-vibid:354300266943": 29,
+      "gas:candidate-vibid:1001000112235": 42,
+      "gas:candidate-vibid:354300266947": 2,
+      "gas:candidate-vibid:1001000199630": 2,
+      "gas:candidate-vibid:1001000121880": 128,
+      "gas:candidate-vibid:1001000225966": 170,
+      "gas:candidate-vibid:1001000113958": 47,
+      "gas:candidate-vibid:1001000188014": 199,
+      "gas:candidate-vibid:1001000202321": 3,
+      "gas:candidate-vibid:354300266870": 298,
+      "gas:candidate-vibid:1001000190386": 11,
+      "gas:candidate-vibid:354300266873": 7,
+      "gas:candidate-vibid:354300266812": 114,
+      "gas:candidate-vibid:1001000136090": 35,
+      "special:against-all": 189
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=543002001&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=354300267119&region=0&sub_region=0&type=429",
@@ -13244,22 +13244,22 @@ export const duma_2003_uik_428_region_54_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Аничкин Иван Степанович": 72,
-      "Бессонов Геннадий Константинович": 29,
-      "Гавриленко Игорь Юрьевич": 59,
-      "Давиденко Владимир Иванович": 1,
-      "Дасманов Станислав Борисович": 8,
-      "Клестов Сергей Александрович": 196,
-      "Кожемякин Эдуард Анатольевич": 172,
-      "Кувшинов Юрий Борисович": 23,
-      "Люлько Александр Николаевич": 250,
-      "Марзан Николай Иванович": 2,
-      "Насташевский Святослав Анатольевич": 289,
-      "Радзивило Ирина Александровна": 8,
-      "Степаненко Александр Александрович": 7,
-      "Стрельченко Галина Ивановна": 91,
-      "Тиунов Владислав Георгиевич": 25,
-      "Против всех": 222
+      "gas:candidate-vibid:354300266806": 72,
+      "gas:candidate-vibid:354300266943": 29,
+      "gas:candidate-vibid:1001000112235": 59,
+      "gas:candidate-vibid:354300266947": 1,
+      "gas:candidate-vibid:1001000199630": 8,
+      "gas:candidate-vibid:1001000121880": 196,
+      "gas:candidate-vibid:1001000225966": 172,
+      "gas:candidate-vibid:1001000113958": 23,
+      "gas:candidate-vibid:1001000188014": 250,
+      "gas:candidate-vibid:1001000202321": 2,
+      "gas:candidate-vibid:354300266870": 289,
+      "gas:candidate-vibid:1001000190386": 8,
+      "gas:candidate-vibid:354300266873": 7,
+      "gas:candidate-vibid:354300266812": 91,
+      "gas:candidate-vibid:1001000136090": 25,
+      "special:against-all": 222
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=543002001&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=354300267119&region=0&sub_region=0&type=429",
@@ -13309,22 +13309,22 @@ export const duma_2003_uik_428_region_54_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Аничкин Иван Степанович": 93,
-      "Бессонов Геннадий Константинович": 54,
-      "Гавриленко Игорь Юрьевич": 56,
-      "Давиденко Владимир Иванович": 1,
-      "Дасманов Станислав Борисович": 11,
-      "Клестов Сергей Александрович": 263,
-      "Кожемякин Эдуард Анатольевич": 227,
-      "Кувшинов Юрий Борисович": 33,
-      "Люлько Александр Николаевич": 162,
-      "Марзан Николай Иванович": 2,
-      "Насташевский Святослав Анатольевич": 288,
-      "Радзивило Ирина Александровна": 3,
-      "Степаненко Александр Александрович": 7,
-      "Стрельченко Галина Ивановна": 107,
-      "Тиунов Владислав Георгиевич": 35,
-      "Против всех": 221
+      "gas:candidate-vibid:354300266806": 93,
+      "gas:candidate-vibid:354300266943": 54,
+      "gas:candidate-vibid:1001000112235": 56,
+      "gas:candidate-vibid:354300266947": 1,
+      "gas:candidate-vibid:1001000199630": 11,
+      "gas:candidate-vibid:1001000121880": 263,
+      "gas:candidate-vibid:1001000225966": 227,
+      "gas:candidate-vibid:1001000113958": 33,
+      "gas:candidate-vibid:1001000188014": 162,
+      "gas:candidate-vibid:1001000202321": 2,
+      "gas:candidate-vibid:354300266870": 288,
+      "gas:candidate-vibid:1001000190386": 3,
+      "gas:candidate-vibid:354300266873": 7,
+      "gas:candidate-vibid:354300266812": 107,
+      "gas:candidate-vibid:1001000136090": 35,
+      "special:against-all": 221
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=543002001&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=354300267119&region=0&sub_region=0&type=429",
@@ -13374,22 +13374,22 @@ export const duma_2003_uik_428_region_54_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Аничкин Иван Степанович": 24,
-      "Бессонов Геннадий Константинович": 12,
-      "Гавриленко Игорь Юрьевич": 32,
-      "Давиденко Владимир Иванович": 1,
-      "Дасманов Станислав Борисович": 3,
-      "Клестов Сергей Александрович": 81,
-      "Кожемякин Эдуард Анатольевич": 142,
-      "Кувшинов Юрий Борисович": 18,
-      "Люлько Александр Николаевич": 77,
-      "Марзан Николай Иванович": 0,
-      "Насташевский Святослав Анатольевич": 244,
-      "Радзивило Ирина Александровна": 7,
-      "Степаненко Александр Александрович": 5,
-      "Стрельченко Галина Ивановна": 62,
-      "Тиунов Владислав Георгиевич": 15,
-      "Против всех": 123
+      "gas:candidate-vibid:354300266806": 24,
+      "gas:candidate-vibid:354300266943": 12,
+      "gas:candidate-vibid:1001000112235": 32,
+      "gas:candidate-vibid:354300266947": 1,
+      "gas:candidate-vibid:1001000199630": 3,
+      "gas:candidate-vibid:1001000121880": 81,
+      "gas:candidate-vibid:1001000225966": 142,
+      "gas:candidate-vibid:1001000113958": 18,
+      "gas:candidate-vibid:1001000188014": 77,
+      "gas:candidate-vibid:1001000202321": 0,
+      "gas:candidate-vibid:354300266870": 244,
+      "gas:candidate-vibid:1001000190386": 7,
+      "gas:candidate-vibid:354300266873": 5,
+      "gas:candidate-vibid:354300266812": 62,
+      "gas:candidate-vibid:1001000136090": 15,
+      "special:against-all": 123
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=543002001&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=354300267119&region=0&sub_region=0&type=429",
@@ -13439,22 +13439,22 @@ export const duma_2003_uik_428_region_54_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Аничкин Иван Степанович": 31,
-      "Бессонов Геннадий Константинович": 17,
-      "Гавриленко Игорь Юрьевич": 35,
-      "Давиденко Владимир Иванович": 1,
-      "Дасманов Станислав Борисович": 4,
-      "Клестов Сергей Александрович": 102,
-      "Кожемякин Эдуард Анатольевич": 180,
-      "Кувшинов Юрий Борисович": 19,
-      "Люлько Александр Николаевич": 131,
-      "Марзан Николай Иванович": 0,
-      "Насташевский Святослав Анатольевич": 233,
-      "Радзивило Ирина Александровна": 2,
-      "Степаненко Александр Александрович": 3,
-      "Стрельченко Галина Ивановна": 47,
-      "Тиунов Владислав Георгиевич": 17,
-      "Против всех": 128
+      "gas:candidate-vibid:354300266806": 31,
+      "gas:candidate-vibid:354300266943": 17,
+      "gas:candidate-vibid:1001000112235": 35,
+      "gas:candidate-vibid:354300266947": 1,
+      "gas:candidate-vibid:1001000199630": 4,
+      "gas:candidate-vibid:1001000121880": 102,
+      "gas:candidate-vibid:1001000225966": 180,
+      "gas:candidate-vibid:1001000113958": 19,
+      "gas:candidate-vibid:1001000188014": 131,
+      "gas:candidate-vibid:1001000202321": 0,
+      "gas:candidate-vibid:354300266870": 233,
+      "gas:candidate-vibid:1001000190386": 2,
+      "gas:candidate-vibid:354300266873": 3,
+      "gas:candidate-vibid:354300266812": 47,
+      "gas:candidate-vibid:1001000136090": 17,
+      "special:against-all": 128
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=543002001&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=354300267119&region=0&sub_region=0&type=429",
@@ -13504,22 +13504,22 @@ export const duma_2003_uik_428_region_54_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Аничкин Иван Степанович": 21,
-      "Бессонов Геннадий Константинович": 19,
-      "Гавриленко Игорь Юрьевич": 9,
-      "Давиденко Владимир Иванович": 2,
-      "Дасманов Станислав Борисович": 1,
-      "Клестов Сергей Александрович": 57,
-      "Кожемякин Эдуард Анатольевич": 81,
-      "Кувшинов Юрий Борисович": 5,
-      "Люлько Александр Николаевич": 64,
-      "Марзан Николай Иванович": 0,
-      "Насташевский Святослав Анатольевич": 90,
-      "Радзивило Ирина Александровна": 3,
-      "Степаненко Александр Александрович": 5,
-      "Стрельченко Галина Ивановна": 35,
-      "Тиунов Владислав Георгиевич": 16,
-      "Против всех": 64
+      "gas:candidate-vibid:354300266806": 21,
+      "gas:candidate-vibid:354300266943": 19,
+      "gas:candidate-vibid:1001000112235": 9,
+      "gas:candidate-vibid:354300266947": 2,
+      "gas:candidate-vibid:1001000199630": 1,
+      "gas:candidate-vibid:1001000121880": 57,
+      "gas:candidate-vibid:1001000225966": 81,
+      "gas:candidate-vibid:1001000113958": 5,
+      "gas:candidate-vibid:1001000188014": 64,
+      "gas:candidate-vibid:1001000202321": 0,
+      "gas:candidate-vibid:354300266870": 90,
+      "gas:candidate-vibid:1001000190386": 3,
+      "gas:candidate-vibid:354300266873": 5,
+      "gas:candidate-vibid:354300266812": 35,
+      "gas:candidate-vibid:1001000136090": 16,
+      "special:against-all": 64
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=543002001&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=354300267119&region=0&sub_region=0&type=429",
@@ -13569,22 +13569,22 @@ export const duma_2003_uik_428_region_54_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Аничкин Иван Степанович": 54,
-      "Бессонов Геннадий Константинович": 37,
-      "Гавриленко Игорь Юрьевич": 57,
-      "Давиденко Владимир Иванович": 2,
-      "Дасманов Станислав Борисович": 7,
-      "Клестов Сергей Александрович": 263,
-      "Кожемякин Эдуард Анатольевич": 166,
-      "Кувшинов Юрий Борисович": 20,
-      "Люлько Александр Николаевич": 125,
-      "Марзан Николай Иванович": 0,
-      "Насташевский Святослав Анатольевич": 246,
-      "Радзивило Ирина Александровна": 4,
-      "Степаненко Александр Александрович": 5,
-      "Стрельченко Галина Ивановна": 96,
-      "Тиунов Владислав Георгиевич": 25,
-      "Против всех": 171
+      "gas:candidate-vibid:354300266806": 54,
+      "gas:candidate-vibid:354300266943": 37,
+      "gas:candidate-vibid:1001000112235": 57,
+      "gas:candidate-vibid:354300266947": 2,
+      "gas:candidate-vibid:1001000199630": 7,
+      "gas:candidate-vibid:1001000121880": 263,
+      "gas:candidate-vibid:1001000225966": 166,
+      "gas:candidate-vibid:1001000113958": 20,
+      "gas:candidate-vibid:1001000188014": 125,
+      "gas:candidate-vibid:1001000202321": 0,
+      "gas:candidate-vibid:354300266870": 246,
+      "gas:candidate-vibid:1001000190386": 4,
+      "gas:candidate-vibid:354300266873": 5,
+      "gas:candidate-vibid:354300266812": 96,
+      "gas:candidate-vibid:1001000136090": 25,
+      "special:against-all": 171
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=543002001&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=354300267119&region=0&sub_region=0&type=429",
@@ -13634,22 +13634,22 @@ export const duma_2003_uik_428_region_54_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Аничкин Иван Степанович": 45,
-      "Бессонов Геннадий Константинович": 53,
-      "Гавриленко Игорь Юрьевич": 43,
-      "Давиденко Владимир Иванович": 3,
-      "Дасманов Станислав Борисович": 2,
-      "Клестов Сергей Александрович": 147,
-      "Кожемякин Эдуард Анатольевич": 160,
-      "Кувшинов Юрий Борисович": 25,
-      "Люлько Александр Николаевич": 111,
-      "Марзан Николай Иванович": 2,
-      "Насташевский Святослав Анатольевич": 307,
-      "Радзивило Ирина Александровна": 12,
-      "Степаненко Александр Александрович": 6,
-      "Стрельченко Галина Ивановна": 84,
-      "Тиунов Владислав Георгиевич": 33,
-      "Против всех": 156
+      "gas:candidate-vibid:354300266806": 45,
+      "gas:candidate-vibid:354300266943": 53,
+      "gas:candidate-vibid:1001000112235": 43,
+      "gas:candidate-vibid:354300266947": 3,
+      "gas:candidate-vibid:1001000199630": 2,
+      "gas:candidate-vibid:1001000121880": 147,
+      "gas:candidate-vibid:1001000225966": 160,
+      "gas:candidate-vibid:1001000113958": 25,
+      "gas:candidate-vibid:1001000188014": 111,
+      "gas:candidate-vibid:1001000202321": 2,
+      "gas:candidate-vibid:354300266870": 307,
+      "gas:candidate-vibid:1001000190386": 12,
+      "gas:candidate-vibid:354300266873": 6,
+      "gas:candidate-vibid:354300266812": 84,
+      "gas:candidate-vibid:1001000136090": 33,
+      "special:against-all": 156
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=543002001&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=354300267119&region=0&sub_region=0&type=429",
@@ -13699,22 +13699,22 @@ export const duma_2003_uik_428_region_54_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Аничкин Иван Степанович": 75,
-      "Бессонов Геннадий Константинович": 13,
-      "Гавриленко Игорь Юрьевич": 38,
-      "Давиденко Владимир Иванович": 0,
-      "Дасманов Станислав Борисович": 4,
-      "Клестов Сергей Александрович": 158,
-      "Кожемякин Эдуард Анатольевич": 146,
-      "Кувшинов Юрий Борисович": 23,
-      "Люлько Александр Николаевич": 183,
-      "Марзан Николай Иванович": 5,
-      "Насташевский Святослав Анатольевич": 346,
-      "Радзивило Ирина Александровна": 4,
-      "Степаненко Александр Александрович": 6,
-      "Стрельченко Галина Ивановна": 57,
-      "Тиунов Владислав Георгиевич": 22,
-      "Против всех": 133
+      "gas:candidate-vibid:354300266806": 75,
+      "gas:candidate-vibid:354300266943": 13,
+      "gas:candidate-vibid:1001000112235": 38,
+      "gas:candidate-vibid:354300266947": 0,
+      "gas:candidate-vibid:1001000199630": 4,
+      "gas:candidate-vibid:1001000121880": 158,
+      "gas:candidate-vibid:1001000225966": 146,
+      "gas:candidate-vibid:1001000113958": 23,
+      "gas:candidate-vibid:1001000188014": 183,
+      "gas:candidate-vibid:1001000202321": 5,
+      "gas:candidate-vibid:354300266870": 346,
+      "gas:candidate-vibid:1001000190386": 4,
+      "gas:candidate-vibid:354300266873": 6,
+      "gas:candidate-vibid:354300266812": 57,
+      "gas:candidate-vibid:1001000136090": 22,
+      "special:against-all": 133
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=543002001&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=354300267119&region=0&sub_region=0&type=429",
@@ -13764,22 +13764,22 @@ export const duma_2003_uik_428_region_54_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Аничкин Иван Степанович": 65,
-      "Бессонов Геннадий Константинович": 16,
-      "Гавриленко Игорь Юрьевич": 41,
-      "Давиденко Владимир Иванович": 0,
-      "Дасманов Станислав Борисович": 4,
-      "Клестов Сергей Александрович": 197,
-      "Кожемякин Эдуард Анатольевич": 168,
-      "Кувшинов Юрий Борисович": 23,
-      "Люлько Александр Николаевич": 273,
-      "Марзан Николай Иванович": 5,
-      "Насташевский Святослав Анатольевич": 335,
-      "Радзивило Ирина Александровна": 9,
-      "Степаненко Александр Александрович": 6,
-      "Стрельченко Галина Ивановна": 51,
-      "Тиунов Владислав Георгиевич": 35,
-      "Против всех": 140
+      "gas:candidate-vibid:354300266806": 65,
+      "gas:candidate-vibid:354300266943": 16,
+      "gas:candidate-vibid:1001000112235": 41,
+      "gas:candidate-vibid:354300266947": 0,
+      "gas:candidate-vibid:1001000199630": 4,
+      "gas:candidate-vibid:1001000121880": 197,
+      "gas:candidate-vibid:1001000225966": 168,
+      "gas:candidate-vibid:1001000113958": 23,
+      "gas:candidate-vibid:1001000188014": 273,
+      "gas:candidate-vibid:1001000202321": 5,
+      "gas:candidate-vibid:354300266870": 335,
+      "gas:candidate-vibid:1001000190386": 9,
+      "gas:candidate-vibid:354300266873": 6,
+      "gas:candidate-vibid:354300266812": 51,
+      "gas:candidate-vibid:1001000136090": 35,
+      "special:against-all": 140
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=543002001&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=354300267119&region=0&sub_region=0&type=429",
@@ -13829,22 +13829,22 @@ export const duma_2003_uik_428_region_54_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Аничкин Иван Степанович": 80,
-      "Бессонов Геннадий Константинович": 21,
-      "Гавриленко Игорь Юрьевич": 27,
-      "Давиденко Владимир Иванович": 1,
-      "Дасманов Станислав Борисович": 9,
-      "Клестов Сергей Александрович": 180,
-      "Кожемякин Эдуард Анатольевич": 191,
-      "Кувшинов Юрий Борисович": 19,
-      "Люлько Александр Николаевич": 209,
-      "Марзан Николай Иванович": 0,
-      "Насташевский Святослав Анатольевич": 363,
-      "Радзивило Ирина Александровна": 8,
-      "Степаненко Александр Александрович": 8,
-      "Стрельченко Галина Ивановна": 83,
-      "Тиунов Владислав Георгиевич": 34,
-      "Против всех": 199
+      "gas:candidate-vibid:354300266806": 80,
+      "gas:candidate-vibid:354300266943": 21,
+      "gas:candidate-vibid:1001000112235": 27,
+      "gas:candidate-vibid:354300266947": 1,
+      "gas:candidate-vibid:1001000199630": 9,
+      "gas:candidate-vibid:1001000121880": 180,
+      "gas:candidate-vibid:1001000225966": 191,
+      "gas:candidate-vibid:1001000113958": 19,
+      "gas:candidate-vibid:1001000188014": 209,
+      "gas:candidate-vibid:1001000202321": 0,
+      "gas:candidate-vibid:354300266870": 363,
+      "gas:candidate-vibid:1001000190386": 8,
+      "gas:candidate-vibid:354300266873": 8,
+      "gas:candidate-vibid:354300266812": 83,
+      "gas:candidate-vibid:1001000136090": 34,
+      "special:against-all": 199
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=543002001&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=354300267119&region=0&sub_region=0&type=429",
@@ -13894,22 +13894,22 @@ export const duma_2003_uik_428_region_54_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Аничкин Иван Степанович": 80,
-      "Бессонов Геннадий Константинович": 30,
-      "Гавриленко Игорь Юрьевич": 40,
-      "Давиденко Владимир Иванович": 1,
-      "Дасманов Станислав Борисович": 5,
-      "Клестов Сергей Александрович": 207,
-      "Кожемякин Эдуард Анатольевич": 160,
-      "Кувшинов Юрий Борисович": 18,
-      "Люлько Александр Николаевич": 217,
-      "Марзан Николай Иванович": 5,
-      "Насташевский Святослав Анатольевич": 347,
-      "Радзивило Ирина Александровна": 5,
-      "Степаненко Александр Александрович": 4,
-      "Стрельченко Галина Ивановна": 96,
-      "Тиунов Владислав Георгиевич": 44,
-      "Против всех": 183
+      "gas:candidate-vibid:354300266806": 80,
+      "gas:candidate-vibid:354300266943": 30,
+      "gas:candidate-vibid:1001000112235": 40,
+      "gas:candidate-vibid:354300266947": 1,
+      "gas:candidate-vibid:1001000199630": 5,
+      "gas:candidate-vibid:1001000121880": 207,
+      "gas:candidate-vibid:1001000225966": 160,
+      "gas:candidate-vibid:1001000113958": 18,
+      "gas:candidate-vibid:1001000188014": 217,
+      "gas:candidate-vibid:1001000202321": 5,
+      "gas:candidate-vibid:354300266870": 347,
+      "gas:candidate-vibid:1001000190386": 5,
+      "gas:candidate-vibid:354300266873": 4,
+      "gas:candidate-vibid:354300266812": 96,
+      "gas:candidate-vibid:1001000136090": 44,
+      "special:against-all": 183
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=543002001&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=354300267119&region=0&sub_region=0&type=429",
@@ -13959,22 +13959,22 @@ export const duma_2003_uik_428_region_54_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Аничкин Иван Степанович": 17,
-      "Бессонов Геннадий Константинович": 15,
-      "Гавриленко Игорь Юрьевич": 7,
-      "Давиденко Владимир Иванович": 2,
-      "Дасманов Станислав Борисович": 4,
-      "Клестов Сергей Александрович": 71,
-      "Кожемякин Эдуард Анатольевич": 69,
-      "Кувшинов Юрий Борисович": 7,
-      "Люлько Александр Николаевич": 33,
-      "Марзан Николай Иванович": 1,
-      "Насташевский Святослав Анатольевич": 215,
-      "Радзивило Ирина Александровна": 5,
-      "Степаненко Александр Александрович": 0,
-      "Стрельченко Галина Ивановна": 40,
-      "Тиунов Владислав Георгиевич": 19,
-      "Против всех": 85
+      "gas:candidate-vibid:354300266806": 17,
+      "gas:candidate-vibid:354300266943": 15,
+      "gas:candidate-vibid:1001000112235": 7,
+      "gas:candidate-vibid:354300266947": 2,
+      "gas:candidate-vibid:1001000199630": 4,
+      "gas:candidate-vibid:1001000121880": 71,
+      "gas:candidate-vibid:1001000225966": 69,
+      "gas:candidate-vibid:1001000113958": 7,
+      "gas:candidate-vibid:1001000188014": 33,
+      "gas:candidate-vibid:1001000202321": 1,
+      "gas:candidate-vibid:354300266870": 215,
+      "gas:candidate-vibid:1001000190386": 5,
+      "gas:candidate-vibid:354300266873": 0,
+      "gas:candidate-vibid:354300266812": 40,
+      "gas:candidate-vibid:1001000136090": 19,
+      "special:against-all": 85
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=543002001&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=354300267119&region=0&sub_region=0&type=429",
@@ -14024,22 +14024,22 @@ export const duma_2003_uik_428_region_54_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Аничкин Иван Степанович": 47,
-      "Бессонов Геннадий Константинович": 8,
-      "Гавриленко Игорь Юрьевич": 26,
-      "Давиденко Владимир Иванович": 3,
-      "Дасманов Станислав Борисович": 8,
-      "Клестов Сергей Александрович": 66,
-      "Кожемякин Эдуард Анатольевич": 97,
-      "Кувшинов Юрий Борисович": 14,
-      "Люлько Александр Николаевич": 47,
-      "Марзан Николай Иванович": 0,
-      "Насташевский Святослав Анатольевич": 381,
-      "Радзивило Ирина Александровна": 18,
-      "Степаненко Александр Александрович": 13,
-      "Стрельченко Галина Ивановна": 54,
-      "Тиунов Владислав Георгиевич": 44,
-      "Против всех": 223
+      "gas:candidate-vibid:354300266806": 47,
+      "gas:candidate-vibid:354300266943": 8,
+      "gas:candidate-vibid:1001000112235": 26,
+      "gas:candidate-vibid:354300266947": 3,
+      "gas:candidate-vibid:1001000199630": 8,
+      "gas:candidate-vibid:1001000121880": 66,
+      "gas:candidate-vibid:1001000225966": 97,
+      "gas:candidate-vibid:1001000113958": 14,
+      "gas:candidate-vibid:1001000188014": 47,
+      "gas:candidate-vibid:1001000202321": 0,
+      "gas:candidate-vibid:354300266870": 381,
+      "gas:candidate-vibid:1001000190386": 18,
+      "gas:candidate-vibid:354300266873": 13,
+      "gas:candidate-vibid:354300266812": 54,
+      "gas:candidate-vibid:1001000136090": 44,
+      "special:against-all": 223
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=543002001&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=354300267119&region=0&sub_region=0&type=429",
@@ -14089,22 +14089,22 @@ export const duma_2003_uik_428_region_54_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Аничкин Иван Степанович": 26,
-      "Бессонов Геннадий Константинович": 5,
-      "Гавриленко Игорь Юрьевич": 17,
-      "Давиденко Владимир Иванович": 2,
-      "Дасманов Станислав Борисович": 2,
-      "Клестов Сергей Александрович": 113,
-      "Кожемякин Эдуард Анатольевич": 102,
-      "Кувшинов Юрий Борисович": 16,
-      "Люлько Александр Николаевич": 147,
-      "Марзан Николай Иванович": 1,
-      "Насташевский Святослав Анатольевич": 244,
-      "Радзивило Ирина Александровна": 2,
-      "Степаненко Александр Александрович": 4,
-      "Стрельченко Галина Ивановна": 55,
-      "Тиунов Владислав Георгиевич": 24,
-      "Против всех": 100
+      "gas:candidate-vibid:354300266806": 26,
+      "gas:candidate-vibid:354300266943": 5,
+      "gas:candidate-vibid:1001000112235": 17,
+      "gas:candidate-vibid:354300266947": 2,
+      "gas:candidate-vibid:1001000199630": 2,
+      "gas:candidate-vibid:1001000121880": 113,
+      "gas:candidate-vibid:1001000225966": 102,
+      "gas:candidate-vibid:1001000113958": 16,
+      "gas:candidate-vibid:1001000188014": 147,
+      "gas:candidate-vibid:1001000202321": 1,
+      "gas:candidate-vibid:354300266870": 244,
+      "gas:candidate-vibid:1001000190386": 2,
+      "gas:candidate-vibid:354300266873": 4,
+      "gas:candidate-vibid:354300266812": 55,
+      "gas:candidate-vibid:1001000136090": 24,
+      "special:against-all": 100
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=543002001&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=354300267119&region=0&sub_region=0&type=429",
@@ -14154,22 +14154,22 @@ export const duma_2003_uik_428_region_54_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Аничкин Иван Степанович": 35,
-      "Бессонов Геннадий Константинович": 9,
-      "Гавриленко Игорь Юрьевич": 18,
-      "Давиденко Владимир Иванович": 0,
-      "Дасманов Станислав Борисович": 8,
-      "Клестов Сергей Александрович": 59,
-      "Кожемякин Эдуард Анатольевич": 94,
-      "Кувшинов Юрий Борисович": 9,
-      "Люлько Александр Николаевич": 116,
-      "Марзан Николай Иванович": 0,
-      "Насташевский Святослав Анатольевич": 234,
-      "Радзивило Ирина Александровна": 4,
-      "Степаненко Александр Александрович": 2,
-      "Стрельченко Галина Ивановна": 41,
-      "Тиунов Владислав Георгиевич": 33,
-      "Против всех": 96
+      "gas:candidate-vibid:354300266806": 35,
+      "gas:candidate-vibid:354300266943": 9,
+      "gas:candidate-vibid:1001000112235": 18,
+      "gas:candidate-vibid:354300266947": 0,
+      "gas:candidate-vibid:1001000199630": 8,
+      "gas:candidate-vibid:1001000121880": 59,
+      "gas:candidate-vibid:1001000225966": 94,
+      "gas:candidate-vibid:1001000113958": 9,
+      "gas:candidate-vibid:1001000188014": 116,
+      "gas:candidate-vibid:1001000202321": 0,
+      "gas:candidate-vibid:354300266870": 234,
+      "gas:candidate-vibid:1001000190386": 4,
+      "gas:candidate-vibid:354300266873": 2,
+      "gas:candidate-vibid:354300266812": 41,
+      "gas:candidate-vibid:1001000136090": 33,
+      "special:against-all": 96
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=543002001&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=354300267119&region=0&sub_region=0&type=429",
@@ -14219,22 +14219,22 @@ export const duma_2003_uik_428_region_54_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Аничкин Иван Степанович": 37,
-      "Бессонов Геннадий Константинович": 7,
-      "Гавриленко Игорь Юрьевич": 11,
-      "Давиденко Владимир Иванович": 3,
-      "Дасманов Станислав Борисович": 5,
-      "Клестов Сергей Александрович": 78,
-      "Кожемякин Эдуард Анатольевич": 82,
-      "Кувшинов Юрий Борисович": 9,
-      "Люлько Александр Николаевич": 87,
-      "Марзан Николай Иванович": 0,
-      "Насташевский Святослав Анатольевич": 248,
-      "Радзивило Ирина Александровна": 3,
-      "Степаненко Александр Александрович": 4,
-      "Стрельченко Галина Ивановна": 51,
-      "Тиунов Владислав Георгиевич": 13,
-      "Против всех": 77
+      "gas:candidate-vibid:354300266806": 37,
+      "gas:candidate-vibid:354300266943": 7,
+      "gas:candidate-vibid:1001000112235": 11,
+      "gas:candidate-vibid:354300266947": 3,
+      "gas:candidate-vibid:1001000199630": 5,
+      "gas:candidate-vibid:1001000121880": 78,
+      "gas:candidate-vibid:1001000225966": 82,
+      "gas:candidate-vibid:1001000113958": 9,
+      "gas:candidate-vibid:1001000188014": 87,
+      "gas:candidate-vibid:1001000202321": 0,
+      "gas:candidate-vibid:354300266870": 248,
+      "gas:candidate-vibid:1001000190386": 3,
+      "gas:candidate-vibid:354300266873": 4,
+      "gas:candidate-vibid:354300266812": 51,
+      "gas:candidate-vibid:1001000136090": 13,
+      "special:against-all": 77
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=543002001&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=354300267119&region=0&sub_region=0&type=429",
@@ -14284,22 +14284,22 @@ export const duma_2003_uik_428_region_54_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Аничкин Иван Степанович": 55,
-      "Бессонов Геннадий Константинович": 13,
-      "Гавриленко Игорь Юрьевич": 23,
-      "Давиденко Владимир Иванович": 1,
-      "Дасманов Станислав Борисович": 1,
-      "Клестов Сергей Александрович": 135,
-      "Кожемякин Эдуард Анатольевич": 159,
-      "Кувшинов Юрий Борисович": 25,
-      "Люлько Александр Николаевич": 232,
-      "Марзан Николай Иванович": 1,
-      "Насташевский Святослав Анатольевич": 407,
-      "Радзивило Ирина Александровна": 4,
-      "Степаненко Александр Александрович": 4,
-      "Стрельченко Галина Ивановна": 87,
-      "Тиунов Владислав Георгиевич": 31,
-      "Против всех": 144
+      "gas:candidate-vibid:354300266806": 55,
+      "gas:candidate-vibid:354300266943": 13,
+      "gas:candidate-vibid:1001000112235": 23,
+      "gas:candidate-vibid:354300266947": 1,
+      "gas:candidate-vibid:1001000199630": 1,
+      "gas:candidate-vibid:1001000121880": 135,
+      "gas:candidate-vibid:1001000225966": 159,
+      "gas:candidate-vibid:1001000113958": 25,
+      "gas:candidate-vibid:1001000188014": 232,
+      "gas:candidate-vibid:1001000202321": 1,
+      "gas:candidate-vibid:354300266870": 407,
+      "gas:candidate-vibid:1001000190386": 4,
+      "gas:candidate-vibid:354300266873": 4,
+      "gas:candidate-vibid:354300266812": 87,
+      "gas:candidate-vibid:1001000136090": 31,
+      "special:against-all": 144
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=543002001&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=354300267119&region=0&sub_region=0&type=429",
@@ -14349,22 +14349,22 @@ export const duma_2003_uik_428_region_54_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Аничкин Иван Степанович": 58,
-      "Бессонов Геннадий Константинович": 15,
-      "Гавриленко Игорь Юрьевич": 27,
-      "Давиденко Владимир Иванович": 3,
-      "Дасманов Станислав Борисович": 6,
-      "Клестов Сергей Александрович": 149,
-      "Кожемякин Эдуард Анатольевич": 126,
-      "Кувшинов Юрий Борисович": 13,
-      "Люлько Александр Николаевич": 180,
-      "Марзан Николай Иванович": 1,
-      "Насташевский Святослав Анатольевич": 427,
-      "Радзивило Ирина Александровна": 4,
-      "Степаненко Александр Александрович": 6,
-      "Стрельченко Галина Ивановна": 78,
-      "Тиунов Владислав Георгиевич": 39,
-      "Против всех": 151
+      "gas:candidate-vibid:354300266806": 58,
+      "gas:candidate-vibid:354300266943": 15,
+      "gas:candidate-vibid:1001000112235": 27,
+      "gas:candidate-vibid:354300266947": 3,
+      "gas:candidate-vibid:1001000199630": 6,
+      "gas:candidate-vibid:1001000121880": 149,
+      "gas:candidate-vibid:1001000225966": 126,
+      "gas:candidate-vibid:1001000113958": 13,
+      "gas:candidate-vibid:1001000188014": 180,
+      "gas:candidate-vibid:1001000202321": 1,
+      "gas:candidate-vibid:354300266870": 427,
+      "gas:candidate-vibid:1001000190386": 4,
+      "gas:candidate-vibid:354300266873": 6,
+      "gas:candidate-vibid:354300266812": 78,
+      "gas:candidate-vibid:1001000136090": 39,
+      "special:against-all": 151
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=543002001&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=354300267119&region=0&sub_region=0&type=429",
@@ -14414,22 +14414,22 @@ export const duma_2003_uik_428_region_54_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Аничкин Иван Степанович": 72,
-      "Бессонов Геннадий Константинович": 16,
-      "Гавриленко Игорь Юрьевич": 22,
-      "Давиденко Владимир Иванович": 1,
-      "Дасманов Станислав Борисович": 8,
-      "Клестов Сергей Александрович": 143,
-      "Кожемякин Эдуард Анатольевич": 142,
-      "Кувшинов Юрий Борисович": 19,
-      "Люлько Александр Николаевич": 169,
-      "Марзан Николай Иванович": 3,
-      "Насташевский Святослав Анатольевич": 494,
-      "Радзивило Ирина Александровна": 4,
-      "Степаненко Александр Александрович": 3,
-      "Стрельченко Галина Ивановна": 80,
-      "Тиунов Владислав Георгиевич": 55,
-      "Против всех": 163
+      "gas:candidate-vibid:354300266806": 72,
+      "gas:candidate-vibid:354300266943": 16,
+      "gas:candidate-vibid:1001000112235": 22,
+      "gas:candidate-vibid:354300266947": 1,
+      "gas:candidate-vibid:1001000199630": 8,
+      "gas:candidate-vibid:1001000121880": 143,
+      "gas:candidate-vibid:1001000225966": 142,
+      "gas:candidate-vibid:1001000113958": 19,
+      "gas:candidate-vibid:1001000188014": 169,
+      "gas:candidate-vibid:1001000202321": 3,
+      "gas:candidate-vibid:354300266870": 494,
+      "gas:candidate-vibid:1001000190386": 4,
+      "gas:candidate-vibid:354300266873": 3,
+      "gas:candidate-vibid:354300266812": 80,
+      "gas:candidate-vibid:1001000136090": 55,
+      "special:against-all": 163
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=543002001&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=354300267119&region=0&sub_region=0&type=429",
@@ -14479,22 +14479,22 @@ export const duma_2003_uik_428_region_54_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Аничкин Иван Степанович": 65,
-      "Бессонов Геннадий Константинович": 18,
-      "Гавриленко Игорь Юрьевич": 37,
-      "Давиденко Владимир Иванович": 4,
-      "Дасманов Станислав Борисович": 3,
-      "Клестов Сергей Александрович": 179,
-      "Кожемякин Эдуард Анатольевич": 304,
-      "Кувшинов Юрий Борисович": 39,
-      "Люлько Александр Николаевич": 140,
-      "Марзан Николай Иванович": 4,
-      "Насташевский Святослав Анатольевич": 352,
-      "Радзивило Ирина Александровна": 11,
-      "Степаненко Александр Александрович": 4,
-      "Стрельченко Галина Ивановна": 75,
-      "Тиунов Владислав Георгиевич": 35,
-      "Против всех": 190
+      "gas:candidate-vibid:354300266806": 65,
+      "gas:candidate-vibid:354300266943": 18,
+      "gas:candidate-vibid:1001000112235": 37,
+      "gas:candidate-vibid:354300266947": 4,
+      "gas:candidate-vibid:1001000199630": 3,
+      "gas:candidate-vibid:1001000121880": 179,
+      "gas:candidate-vibid:1001000225966": 304,
+      "gas:candidate-vibid:1001000113958": 39,
+      "gas:candidate-vibid:1001000188014": 140,
+      "gas:candidate-vibid:1001000202321": 4,
+      "gas:candidate-vibid:354300266870": 352,
+      "gas:candidate-vibid:1001000190386": 11,
+      "gas:candidate-vibid:354300266873": 4,
+      "gas:candidate-vibid:354300266812": 75,
+      "gas:candidate-vibid:1001000136090": 35,
+      "special:against-all": 190
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=543002001&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=354300267119&region=0&sub_region=0&type=429",
@@ -14544,22 +14544,22 @@ export const duma_2003_uik_428_region_54_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Аничкин Иван Степанович": 70,
-      "Бессонов Геннадий Константинович": 11,
-      "Гавриленко Игорь Юрьевич": 33,
-      "Давиденко Владимир Иванович": 2,
-      "Дасманов Станислав Борисович": 7,
-      "Клестов Сергей Александрович": 183,
-      "Кожемякин Эдуард Анатольевич": 260,
-      "Кувшинов Юрий Борисович": 20,
-      "Люлько Александр Николаевич": 141,
-      "Марзан Николай Иванович": 2,
-      "Насташевский Святослав Анатольевич": 440,
-      "Радзивило Ирина Александровна": 1,
-      "Степаненко Александр Александрович": 8,
-      "Стрельченко Галина Ивановна": 74,
-      "Тиунов Владислав Георгиевич": 38,
-      "Против всех": 182
+      "gas:candidate-vibid:354300266806": 70,
+      "gas:candidate-vibid:354300266943": 11,
+      "gas:candidate-vibid:1001000112235": 33,
+      "gas:candidate-vibid:354300266947": 2,
+      "gas:candidate-vibid:1001000199630": 7,
+      "gas:candidate-vibid:1001000121880": 183,
+      "gas:candidate-vibid:1001000225966": 260,
+      "gas:candidate-vibid:1001000113958": 20,
+      "gas:candidate-vibid:1001000188014": 141,
+      "gas:candidate-vibid:1001000202321": 2,
+      "gas:candidate-vibid:354300266870": 440,
+      "gas:candidate-vibid:1001000190386": 1,
+      "gas:candidate-vibid:354300266873": 8,
+      "gas:candidate-vibid:354300266812": 74,
+      "gas:candidate-vibid:1001000136090": 38,
+      "special:against-all": 182
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=543002001&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=354300267119&region=0&sub_region=0&type=429",

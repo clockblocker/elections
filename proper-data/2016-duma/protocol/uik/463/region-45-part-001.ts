@@ -43,15 +43,15 @@ export const duma_2016_uik_463_region_45_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Ильтяков Александр Владимирович": 149,
-      "Ильчик Андрей Сергеевич": 7,
-      "Кислицын Василий Александрович": 36,
-      "Самойлов Александр Иванович": 9,
-      "Севостьянов Виктор Геннадьевич": 1,
-      "Тугушев Анар Эльдар Оглы": 2,
-      "Фельдшеров Дмитрий Александрович": 3,
-      "Юсупов Андрей Владимирович": 0,
-      "Ярушин Юрий Владимирович": 31
+      "gas:candidate-vibid:2452000840183": 149,
+      "gas:candidate-vibid:2452000838643": 7,
+      "gas:candidate-vibid:2452000838217": 36,
+      "gas:candidate-vibid:2452000839012": 9,
+      "gas:candidate-vibid:2452000840515": 1,
+      "gas:candidate-vibid:2452000838278": 2,
+      "gas:candidate-vibid:2452000839974": 3,
+      "gas:candidate-vibid:2452000840145": 0,
+      "gas:candidate-vibid:2452000835984": 31
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kurgan?action=show&root=1000142&tvd=2452000794234&vrn=100100067795849&region=45&global=&sub_region=45&prver=0&pronetvd=null&vibid=2452000794234&type=464",
@@ -102,15 +102,15 @@ export const duma_2016_uik_463_region_45_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Ильтяков Александр Владимирович": 167,
-      "Ильчик Андрей Сергеевич": 4,
-      "Кислицын Василий Александрович": 26,
-      "Самойлов Александр Иванович": 0,
-      "Севостьянов Виктор Геннадьевич": 2,
-      "Тугушев Анар Эльдар Оглы": 1,
-      "Фельдшеров Дмитрий Александрович": 1,
-      "Юсупов Андрей Владимирович": 4,
-      "Ярушин Юрий Владимирович": 10
+      "gas:candidate-vibid:2452000840183": 167,
+      "gas:candidate-vibid:2452000838643": 4,
+      "gas:candidate-vibid:2452000838217": 26,
+      "gas:candidate-vibid:2452000839012": 0,
+      "gas:candidate-vibid:2452000840515": 2,
+      "gas:candidate-vibid:2452000838278": 1,
+      "gas:candidate-vibid:2452000839974": 1,
+      "gas:candidate-vibid:2452000840145": 4,
+      "gas:candidate-vibid:2452000835984": 10
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kurgan?action=show&root=1000142&tvd=2452000794234&vrn=100100067795849&region=45&global=&sub_region=45&prver=0&pronetvd=null&vibid=2452000794234&type=464",
@@ -161,15 +161,15 @@ export const duma_2016_uik_463_region_45_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Ильтяков Александр Владимирович": 55,
-      "Ильчик Андрей Сергеевич": 4,
-      "Кислицын Василий Александрович": 9,
-      "Самойлов Александр Иванович": 4,
-      "Севостьянов Виктор Геннадьевич": 1,
-      "Тугушев Анар Эльдар Оглы": 3,
-      "Фельдшеров Дмитрий Александрович": 0,
-      "Юсупов Андрей Владимирович": 0,
-      "Ярушин Юрий Владимирович": 14
+      "gas:candidate-vibid:2452000840183": 55,
+      "gas:candidate-vibid:2452000838643": 4,
+      "gas:candidate-vibid:2452000838217": 9,
+      "gas:candidate-vibid:2452000839012": 4,
+      "gas:candidate-vibid:2452000840515": 1,
+      "gas:candidate-vibid:2452000838278": 3,
+      "gas:candidate-vibid:2452000839974": 0,
+      "gas:candidate-vibid:2452000840145": 0,
+      "gas:candidate-vibid:2452000835984": 14
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kurgan?action=show&root=1000142&tvd=2452000794234&vrn=100100067795849&region=45&global=&sub_region=45&prver=0&pronetvd=null&vibid=2452000794234&type=464",
@@ -220,15 +220,15 @@ export const duma_2016_uik_463_region_45_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Ильтяков Александр Владимирович": 309,
-      "Ильчик Андрей Сергеевич": 21,
-      "Кислицын Василий Александрович": 73,
-      "Самойлов Александр Иванович": 14,
-      "Севостьянов Виктор Геннадьевич": 12,
-      "Тугушев Анар Эльдар Оглы": 11,
-      "Фельдшеров Дмитрий Александрович": 5,
-      "Юсупов Андрей Владимирович": 9,
-      "Ярушин Юрий Владимирович": 39
+      "gas:candidate-vibid:2452000840183": 309,
+      "gas:candidate-vibid:2452000838643": 21,
+      "gas:candidate-vibid:2452000838217": 73,
+      "gas:candidate-vibid:2452000839012": 14,
+      "gas:candidate-vibid:2452000840515": 12,
+      "gas:candidate-vibid:2452000838278": 11,
+      "gas:candidate-vibid:2452000839974": 5,
+      "gas:candidate-vibid:2452000840145": 9,
+      "gas:candidate-vibid:2452000835984": 39
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kurgan?action=show&root=1000142&tvd=2452000794234&vrn=100100067795849&region=45&global=&sub_region=45&prver=0&pronetvd=null&vibid=2452000794234&type=464",
@@ -279,15 +279,15 @@ export const duma_2016_uik_463_region_45_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Ильтяков Александр Владимирович": 180,
-      "Ильчик Андрей Сергеевич": 9,
-      "Кислицын Василий Александрович": 43,
-      "Самойлов Александр Иванович": 17,
-      "Севостьянов Виктор Геннадьевич": 3,
-      "Тугушев Анар Эльдар Оглы": 8,
-      "Фельдшеров Дмитрий Александрович": 5,
-      "Юсупов Андрей Владимирович": 8,
-      "Ярушин Юрий Владимирович": 42
+      "gas:candidate-vibid:2452000840183": 180,
+      "gas:candidate-vibid:2452000838643": 9,
+      "gas:candidate-vibid:2452000838217": 43,
+      "gas:candidate-vibid:2452000839012": 17,
+      "gas:candidate-vibid:2452000840515": 3,
+      "gas:candidate-vibid:2452000838278": 8,
+      "gas:candidate-vibid:2452000839974": 5,
+      "gas:candidate-vibid:2452000840145": 8,
+      "gas:candidate-vibid:2452000835984": 42
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kurgan?action=show&root=1000142&tvd=2452000794234&vrn=100100067795849&region=45&global=&sub_region=45&prver=0&pronetvd=null&vibid=2452000794234&type=464",
@@ -338,15 +338,15 @@ export const duma_2016_uik_463_region_45_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Ильтяков Александр Владимирович": 193,
-      "Ильчик Андрей Сергеевич": 11,
-      "Кислицын Василий Александрович": 50,
-      "Самойлов Александр Иванович": 4,
-      "Севостьянов Виктор Геннадьевич": 9,
-      "Тугушев Анар Эльдар Оглы": 3,
-      "Фельдшеров Дмитрий Александрович": 1,
-      "Юсупов Андрей Владимирович": 3,
-      "Ярушин Юрий Владимирович": 32
+      "gas:candidate-vibid:2452000840183": 193,
+      "gas:candidate-vibid:2452000838643": 11,
+      "gas:candidate-vibid:2452000838217": 50,
+      "gas:candidate-vibid:2452000839012": 4,
+      "gas:candidate-vibid:2452000840515": 9,
+      "gas:candidate-vibid:2452000838278": 3,
+      "gas:candidate-vibid:2452000839974": 1,
+      "gas:candidate-vibid:2452000840145": 3,
+      "gas:candidate-vibid:2452000835984": 32
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kurgan?action=show&root=1000142&tvd=2452000794234&vrn=100100067795849&region=45&global=&sub_region=45&prver=0&pronetvd=null&vibid=2452000794234&type=464",
@@ -397,15 +397,15 @@ export const duma_2016_uik_463_region_45_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Ильтяков Александр Владимирович": 81,
-      "Ильчик Андрей Сергеевич": 4,
-      "Кислицын Василий Александрович": 13,
-      "Самойлов Александр Иванович": 2,
-      "Севостьянов Виктор Геннадьевич": 1,
-      "Тугушев Анар Эльдар Оглы": 4,
-      "Фельдшеров Дмитрий Александрович": 0,
-      "Юсупов Андрей Владимирович": 0,
-      "Ярушин Юрий Владимирович": 6
+      "gas:candidate-vibid:2452000840183": 81,
+      "gas:candidate-vibid:2452000838643": 4,
+      "gas:candidate-vibid:2452000838217": 13,
+      "gas:candidate-vibid:2452000839012": 2,
+      "gas:candidate-vibid:2452000840515": 1,
+      "gas:candidate-vibid:2452000838278": 4,
+      "gas:candidate-vibid:2452000839974": 0,
+      "gas:candidate-vibid:2452000840145": 0,
+      "gas:candidate-vibid:2452000835984": 6
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kurgan?action=show&root=1000142&tvd=2452000794234&vrn=100100067795849&region=45&global=&sub_region=45&prver=0&pronetvd=null&vibid=2452000794234&type=464",
@@ -456,15 +456,15 @@ export const duma_2016_uik_463_region_45_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Ильтяков Александр Владимирович": 285,
-      "Ильчик Андрей Сергеевич": 8,
-      "Кислицын Василий Александрович": 35,
-      "Самойлов Александр Иванович": 8,
-      "Севостьянов Виктор Геннадьевич": 10,
-      "Тугушев Анар Эльдар Оглы": 3,
-      "Фельдшеров Дмитрий Александрович": 1,
-      "Юсупов Андрей Владимирович": 9,
-      "Ярушин Юрий Владимирович": 39
+      "gas:candidate-vibid:2452000840183": 285,
+      "gas:candidate-vibid:2452000838643": 8,
+      "gas:candidate-vibid:2452000838217": 35,
+      "gas:candidate-vibid:2452000839012": 8,
+      "gas:candidate-vibid:2452000840515": 10,
+      "gas:candidate-vibid:2452000838278": 3,
+      "gas:candidate-vibid:2452000839974": 1,
+      "gas:candidate-vibid:2452000840145": 9,
+      "gas:candidate-vibid:2452000835984": 39
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kurgan?action=show&root=1000142&tvd=2452000794234&vrn=100100067795849&region=45&global=&sub_region=45&prver=0&pronetvd=null&vibid=2452000794234&type=464",
@@ -515,15 +515,15 @@ export const duma_2016_uik_463_region_45_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Ильтяков Александр Владимирович": 87,
-      "Ильчик Андрей Сергеевич": 7,
-      "Кислицын Василий Александрович": 16,
-      "Самойлов Александр Иванович": 1,
-      "Севостьянов Виктор Геннадьевич": 3,
-      "Тугушев Анар Эльдар Оглы": 1,
-      "Фельдшеров Дмитрий Александрович": 0,
-      "Юсупов Андрей Владимирович": 4,
-      "Ярушин Юрий Владимирович": 8
+      "gas:candidate-vibid:2452000840183": 87,
+      "gas:candidate-vibid:2452000838643": 7,
+      "gas:candidate-vibid:2452000838217": 16,
+      "gas:candidate-vibid:2452000839012": 1,
+      "gas:candidate-vibid:2452000840515": 3,
+      "gas:candidate-vibid:2452000838278": 1,
+      "gas:candidate-vibid:2452000839974": 0,
+      "gas:candidate-vibid:2452000840145": 4,
+      "gas:candidate-vibid:2452000835984": 8
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kurgan?action=show&root=1000142&tvd=2452000794234&vrn=100100067795849&region=45&global=&sub_region=45&prver=0&pronetvd=null&vibid=2452000794234&type=464",
@@ -574,15 +574,15 @@ export const duma_2016_uik_463_region_45_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Ильтяков Александр Владимирович": 148,
-      "Ильчик Андрей Сергеевич": 4,
-      "Кислицын Василий Александрович": 38,
-      "Самойлов Александр Иванович": 4,
-      "Севостьянов Виктор Геннадьевич": 1,
-      "Тугушев Анар Эльдар Оглы": 6,
-      "Фельдшеров Дмитрий Александрович": 1,
-      "Юсупов Андрей Владимирович": 2,
-      "Ярушин Юрий Владимирович": 26
+      "gas:candidate-vibid:2452000840183": 148,
+      "gas:candidate-vibid:2452000838643": 4,
+      "gas:candidate-vibid:2452000838217": 38,
+      "gas:candidate-vibid:2452000839012": 4,
+      "gas:candidate-vibid:2452000840515": 1,
+      "gas:candidate-vibid:2452000838278": 6,
+      "gas:candidate-vibid:2452000839974": 1,
+      "gas:candidate-vibid:2452000840145": 2,
+      "gas:candidate-vibid:2452000835984": 26
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kurgan?action=show&root=1000142&tvd=2452000794234&vrn=100100067795849&region=45&global=&sub_region=45&prver=0&pronetvd=null&vibid=2452000794234&type=464",
@@ -633,15 +633,15 @@ export const duma_2016_uik_463_region_45_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Ильтяков Александр Владимирович": 27,
-      "Ильчик Андрей Сергеевич": 2,
-      "Кислицын Василий Александрович": 4,
-      "Самойлов Александр Иванович": 2,
-      "Севостьянов Виктор Геннадьевич": 0,
-      "Тугушев Анар Эльдар Оглы": 0,
-      "Фельдшеров Дмитрий Александрович": 1,
-      "Юсупов Андрей Владимирович": 1,
-      "Ярушин Юрий Владимирович": 12
+      "gas:candidate-vibid:2452000840183": 27,
+      "gas:candidate-vibid:2452000838643": 2,
+      "gas:candidate-vibid:2452000838217": 4,
+      "gas:candidate-vibid:2452000839012": 2,
+      "gas:candidate-vibid:2452000840515": 0,
+      "gas:candidate-vibid:2452000838278": 0,
+      "gas:candidate-vibid:2452000839974": 1,
+      "gas:candidate-vibid:2452000840145": 1,
+      "gas:candidate-vibid:2452000835984": 12
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kurgan?action=show&root=1000142&tvd=2452000794234&vrn=100100067795849&region=45&global=&sub_region=45&prver=0&pronetvd=null&vibid=2452000794234&type=464",
@@ -692,15 +692,15 @@ export const duma_2016_uik_463_region_45_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Ильтяков Александр Владимирович": 42,
-      "Ильчик Андрей Сергеевич": 2,
-      "Кислицын Василий Александрович": 6,
-      "Самойлов Александр Иванович": 4,
-      "Севостьянов Виктор Геннадьевич": 4,
-      "Тугушев Анар Эльдар Оглы": 0,
-      "Фельдшеров Дмитрий Александрович": 0,
-      "Юсупов Андрей Владимирович": 1,
-      "Ярушин Юрий Владимирович": 6
+      "gas:candidate-vibid:2452000840183": 42,
+      "gas:candidate-vibid:2452000838643": 2,
+      "gas:candidate-vibid:2452000838217": 6,
+      "gas:candidate-vibid:2452000839012": 4,
+      "gas:candidate-vibid:2452000840515": 4,
+      "gas:candidate-vibid:2452000838278": 0,
+      "gas:candidate-vibid:2452000839974": 0,
+      "gas:candidate-vibid:2452000840145": 1,
+      "gas:candidate-vibid:2452000835984": 6
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kurgan?action=show&root=1000142&tvd=2452000794234&vrn=100100067795849&region=45&global=&sub_region=45&prver=0&pronetvd=null&vibid=2452000794234&type=464",
@@ -751,15 +751,15 @@ export const duma_2016_uik_463_region_45_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Ильтяков Александр Владимирович": 164,
-      "Ильчик Андрей Сергеевич": 3,
-      "Кислицын Василий Александрович": 17,
-      "Самойлов Александр Иванович": 3,
-      "Севостьянов Виктор Геннадьевич": 5,
-      "Тугушев Анар Эльдар Оглы": 6,
-      "Фельдшеров Дмитрий Александрович": 2,
-      "Юсупов Андрей Владимирович": 3,
-      "Ярушин Юрий Владимирович": 29
+      "gas:candidate-vibid:2452000840183": 164,
+      "gas:candidate-vibid:2452000838643": 3,
+      "gas:candidate-vibid:2452000838217": 17,
+      "gas:candidate-vibid:2452000839012": 3,
+      "gas:candidate-vibid:2452000840515": 5,
+      "gas:candidate-vibid:2452000838278": 6,
+      "gas:candidate-vibid:2452000839974": 2,
+      "gas:candidate-vibid:2452000840145": 3,
+      "gas:candidate-vibid:2452000835984": 29
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kurgan?action=show&root=1000142&tvd=2452000794234&vrn=100100067795849&region=45&global=&sub_region=45&prver=0&pronetvd=null&vibid=2452000794234&type=464",
@@ -810,15 +810,15 @@ export const duma_2016_uik_463_region_45_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Ильтяков Александр Владимирович": 82,
-      "Ильчик Андрей Сергеевич": 2,
-      "Кислицын Василий Александрович": 18,
-      "Самойлов Александр Иванович": 2,
-      "Севостьянов Виктор Геннадьевич": 1,
-      "Тугушев Анар Эльдар Оглы": 0,
-      "Фельдшеров Дмитрий Александрович": 3,
-      "Юсупов Андрей Владимирович": 0,
-      "Ярушин Юрий Владимирович": 13
+      "gas:candidate-vibid:2452000840183": 82,
+      "gas:candidate-vibid:2452000838643": 2,
+      "gas:candidate-vibid:2452000838217": 18,
+      "gas:candidate-vibid:2452000839012": 2,
+      "gas:candidate-vibid:2452000840515": 1,
+      "gas:candidate-vibid:2452000838278": 0,
+      "gas:candidate-vibid:2452000839974": 3,
+      "gas:candidate-vibid:2452000840145": 0,
+      "gas:candidate-vibid:2452000835984": 13
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kurgan?action=show&root=1000142&tvd=2452000794234&vrn=100100067795849&region=45&global=&sub_region=45&prver=0&pronetvd=null&vibid=2452000794234&type=464",
@@ -869,15 +869,15 @@ export const duma_2016_uik_463_region_45_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Ильтяков Александр Владимирович": 86,
-      "Ильчик Андрей Сергеевич": 8,
-      "Кислицын Василий Александрович": 20,
-      "Самойлов Александр Иванович": 13,
-      "Севостьянов Виктор Геннадьевич": 2,
-      "Тугушев Анар Эльдар Оглы": 3,
-      "Фельдшеров Дмитрий Александрович": 4,
-      "Юсупов Андрей Владимирович": 2,
-      "Ярушин Юрий Владимирович": 15
+      "gas:candidate-vibid:2452000840183": 86,
+      "gas:candidate-vibid:2452000838643": 8,
+      "gas:candidate-vibid:2452000838217": 20,
+      "gas:candidate-vibid:2452000839012": 13,
+      "gas:candidate-vibid:2452000840515": 2,
+      "gas:candidate-vibid:2452000838278": 3,
+      "gas:candidate-vibid:2452000839974": 4,
+      "gas:candidate-vibid:2452000840145": 2,
+      "gas:candidate-vibid:2452000835984": 15
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kurgan?action=show&root=1000142&tvd=2452000794234&vrn=100100067795849&region=45&global=&sub_region=45&prver=0&pronetvd=null&vibid=2452000794234&type=464",
@@ -928,15 +928,15 @@ export const duma_2016_uik_463_region_45_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Ильтяков Александр Владимирович": 97,
-      "Ильчик Андрей Сергеевич": 4,
-      "Кислицын Василий Александрович": 30,
-      "Самойлов Александр Иванович": 4,
-      "Севостьянов Виктор Геннадьевич": 3,
-      "Тугушев Анар Эльдар Оглы": 3,
-      "Фельдшеров Дмитрий Александрович": 1,
-      "Юсупов Андрей Владимирович": 3,
-      "Ярушин Юрий Владимирович": 20
+      "gas:candidate-vibid:2452000840183": 97,
+      "gas:candidate-vibid:2452000838643": 4,
+      "gas:candidate-vibid:2452000838217": 30,
+      "gas:candidate-vibid:2452000839012": 4,
+      "gas:candidate-vibid:2452000840515": 3,
+      "gas:candidate-vibid:2452000838278": 3,
+      "gas:candidate-vibid:2452000839974": 1,
+      "gas:candidate-vibid:2452000840145": 3,
+      "gas:candidate-vibid:2452000835984": 20
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kurgan?action=show&root=1000142&tvd=2452000794234&vrn=100100067795849&region=45&global=&sub_region=45&prver=0&pronetvd=null&vibid=2452000794234&type=464",
@@ -987,15 +987,15 @@ export const duma_2016_uik_463_region_45_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Ильтяков Александр Владимирович": 225,
-      "Ильчик Андрей Сергеевич": 10,
-      "Кислицын Василий Александрович": 33,
-      "Самойлов Александр Иванович": 6,
-      "Севостьянов Виктор Геннадьевич": 5,
-      "Тугушев Анар Эльдар Оглы": 10,
-      "Фельдшеров Дмитрий Александрович": 5,
-      "Юсупов Андрей Владимирович": 3,
-      "Ярушин Юрий Владимирович": 35
+      "gas:candidate-vibid:2452000840183": 225,
+      "gas:candidate-vibid:2452000838643": 10,
+      "gas:candidate-vibid:2452000838217": 33,
+      "gas:candidate-vibid:2452000839012": 6,
+      "gas:candidate-vibid:2452000840515": 5,
+      "gas:candidate-vibid:2452000838278": 10,
+      "gas:candidate-vibid:2452000839974": 5,
+      "gas:candidate-vibid:2452000840145": 3,
+      "gas:candidate-vibid:2452000835984": 35
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kurgan?action=show&root=1000142&tvd=2452000794234&vrn=100100067795849&region=45&global=&sub_region=45&prver=0&pronetvd=null&vibid=2452000794234&type=464",
@@ -1046,15 +1046,15 @@ export const duma_2016_uik_463_region_45_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Ильтяков Александр Владимирович": 74,
-      "Ильчик Андрей Сергеевич": 5,
-      "Кислицын Василий Александрович": 13,
-      "Самойлов Александр Иванович": 2,
-      "Севостьянов Виктор Геннадьевич": 1,
-      "Тугушев Анар Эльдар Оглы": 2,
-      "Фельдшеров Дмитрий Александрович": 0,
-      "Юсупов Андрей Владимирович": 1,
-      "Ярушин Юрий Владимирович": 15
+      "gas:candidate-vibid:2452000840183": 74,
+      "gas:candidate-vibid:2452000838643": 5,
+      "gas:candidate-vibid:2452000838217": 13,
+      "gas:candidate-vibid:2452000839012": 2,
+      "gas:candidate-vibid:2452000840515": 1,
+      "gas:candidate-vibid:2452000838278": 2,
+      "gas:candidate-vibid:2452000839974": 0,
+      "gas:candidate-vibid:2452000840145": 1,
+      "gas:candidate-vibid:2452000835984": 15
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kurgan?action=show&root=1000142&tvd=2452000794234&vrn=100100067795849&region=45&global=&sub_region=45&prver=0&pronetvd=null&vibid=2452000794234&type=464",
@@ -1105,15 +1105,15 @@ export const duma_2016_uik_463_region_45_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Ильтяков Александр Владимирович": 111,
-      "Ильчик Андрей Сергеевич": 0,
-      "Кислицын Василий Александрович": 8,
-      "Самойлов Александр Иванович": 0,
-      "Севостьянов Виктор Геннадьевич": 0,
-      "Тугушев Анар Эльдар Оглы": 2,
-      "Фельдшеров Дмитрий Александрович": 0,
-      "Юсупов Андрей Владимирович": 0,
-      "Ярушин Юрий Владимирович": 3
+      "gas:candidate-vibid:2452000840183": 111,
+      "gas:candidate-vibid:2452000838643": 0,
+      "gas:candidate-vibid:2452000838217": 8,
+      "gas:candidate-vibid:2452000839012": 0,
+      "gas:candidate-vibid:2452000840515": 0,
+      "gas:candidate-vibid:2452000838278": 2,
+      "gas:candidate-vibid:2452000839974": 0,
+      "gas:candidate-vibid:2452000840145": 0,
+      "gas:candidate-vibid:2452000835984": 3
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kurgan?action=show&root=1000142&tvd=2452000794234&vrn=100100067795849&region=45&global=&sub_region=45&prver=0&pronetvd=null&vibid=2452000794234&type=464",
@@ -1164,15 +1164,15 @@ export const duma_2016_uik_463_region_45_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Ильтяков Александр Владимирович": 45,
-      "Ильчик Андрей Сергеевич": 1,
-      "Кислицын Василий Александрович": 7,
-      "Самойлов Александр Иванович": 3,
-      "Севостьянов Виктор Геннадьевич": 1,
-      "Тугушев Анар Эльдар Оглы": 1,
-      "Фельдшеров Дмитрий Александрович": 1,
-      "Юсупов Андрей Владимирович": 2,
-      "Ярушин Юрий Владимирович": 18
+      "gas:candidate-vibid:2452000840183": 45,
+      "gas:candidate-vibid:2452000838643": 1,
+      "gas:candidate-vibid:2452000838217": 7,
+      "gas:candidate-vibid:2452000839012": 3,
+      "gas:candidate-vibid:2452000840515": 1,
+      "gas:candidate-vibid:2452000838278": 1,
+      "gas:candidate-vibid:2452000839974": 1,
+      "gas:candidate-vibid:2452000840145": 2,
+      "gas:candidate-vibid:2452000835984": 18
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kurgan?action=show&root=1000142&tvd=2452000794234&vrn=100100067795849&region=45&global=&sub_region=45&prver=0&pronetvd=null&vibid=2452000794234&type=464",
@@ -1223,15 +1223,15 @@ export const duma_2016_uik_463_region_45_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Ильтяков Александр Владимирович": 176,
-      "Ильчик Андрей Сергеевич": 9,
-      "Кислицын Василий Александрович": 17,
-      "Самойлов Александр Иванович": 10,
-      "Севостьянов Виктор Геннадьевич": 4,
-      "Тугушев Анар Эльдар Оглы": 3,
-      "Фельдшеров Дмитрий Александрович": 2,
-      "Юсупов Андрей Владимирович": 3,
-      "Ярушин Юрий Владимирович": 17
+      "gas:candidate-vibid:2452000840183": 176,
+      "gas:candidate-vibid:2452000838643": 9,
+      "gas:candidate-vibid:2452000838217": 17,
+      "gas:candidate-vibid:2452000839012": 10,
+      "gas:candidate-vibid:2452000840515": 4,
+      "gas:candidate-vibid:2452000838278": 3,
+      "gas:candidate-vibid:2452000839974": 2,
+      "gas:candidate-vibid:2452000840145": 3,
+      "gas:candidate-vibid:2452000835984": 17
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kurgan?action=show&root=1000142&tvd=2452000794234&vrn=100100067795849&region=45&global=&sub_region=45&prver=0&pronetvd=null&vibid=2452000794234&type=464",
@@ -1282,15 +1282,15 @@ export const duma_2016_uik_463_region_45_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Ильтяков Александр Владимирович": 72,
-      "Ильчик Андрей Сергеевич": 4,
-      "Кислицын Василий Александрович": 3,
-      "Самойлов Александр Иванович": 6,
-      "Севостьянов Виктор Геннадьевич": 1,
-      "Тугушев Анар Эльдар Оглы": 0,
-      "Фельдшеров Дмитрий Александрович": 2,
-      "Юсупов Андрей Владимирович": 1,
-      "Ярушин Юрий Владимирович": 7
+      "gas:candidate-vibid:2452000840183": 72,
+      "gas:candidate-vibid:2452000838643": 4,
+      "gas:candidate-vibid:2452000838217": 3,
+      "gas:candidate-vibid:2452000839012": 6,
+      "gas:candidate-vibid:2452000840515": 1,
+      "gas:candidate-vibid:2452000838278": 0,
+      "gas:candidate-vibid:2452000839974": 2,
+      "gas:candidate-vibid:2452000840145": 1,
+      "gas:candidate-vibid:2452000835984": 7
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kurgan?action=show&root=1000142&tvd=2452000794234&vrn=100100067795849&region=45&global=&sub_region=45&prver=0&pronetvd=null&vibid=2452000794234&type=464",
@@ -1341,15 +1341,15 @@ export const duma_2016_uik_463_region_45_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Ильтяков Александр Владимирович": 58,
-      "Ильчик Андрей Сергеевич": 4,
-      "Кислицын Василий Александрович": 13,
-      "Самойлов Александр Иванович": 7,
-      "Севостьянов Виктор Геннадьевич": 3,
-      "Тугушев Анар Эльдар Оглы": 1,
-      "Фельдшеров Дмитрий Александрович": 3,
-      "Юсупов Андрей Владимирович": 0,
-      "Ярушин Юрий Владимирович": 11
+      "gas:candidate-vibid:2452000840183": 58,
+      "gas:candidate-vibid:2452000838643": 4,
+      "gas:candidate-vibid:2452000838217": 13,
+      "gas:candidate-vibid:2452000839012": 7,
+      "gas:candidate-vibid:2452000840515": 3,
+      "gas:candidate-vibid:2452000838278": 1,
+      "gas:candidate-vibid:2452000839974": 3,
+      "gas:candidate-vibid:2452000840145": 0,
+      "gas:candidate-vibid:2452000835984": 11
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kurgan?action=show&root=1000142&tvd=2452000794234&vrn=100100067795849&region=45&global=&sub_region=45&prver=0&pronetvd=null&vibid=2452000794234&type=464",
@@ -1400,15 +1400,15 @@ export const duma_2016_uik_463_region_45_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Ильтяков Александр Владимирович": 262,
-      "Ильчик Андрей Сергеевич": 21,
-      "Кислицын Василий Александрович": 44,
-      "Самойлов Александр Иванович": 4,
-      "Севостьянов Виктор Геннадьевич": 5,
-      "Тугушев Анар Эльдар Оглы": 6,
-      "Фельдшеров Дмитрий Александрович": 4,
-      "Юсупов Андрей Владимирович": 7,
-      "Ярушин Юрий Владимирович": 60
+      "gas:candidate-vibid:2452000840183": 262,
+      "gas:candidate-vibid:2452000838643": 21,
+      "gas:candidate-vibid:2452000838217": 44,
+      "gas:candidate-vibid:2452000839012": 4,
+      "gas:candidate-vibid:2452000840515": 5,
+      "gas:candidate-vibid:2452000838278": 6,
+      "gas:candidate-vibid:2452000839974": 4,
+      "gas:candidate-vibid:2452000840145": 7,
+      "gas:candidate-vibid:2452000835984": 60
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kurgan?action=show&root=1000142&tvd=2452000794234&vrn=100100067795849&region=45&global=&sub_region=45&prver=0&pronetvd=null&vibid=2452000794234&type=464",
@@ -1459,15 +1459,15 @@ export const duma_2016_uik_463_region_45_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Ильтяков Александр Владимирович": 199,
-      "Ильчик Андрей Сергеевич": 20,
-      "Кислицын Василий Александрович": 50,
-      "Самойлов Александр Иванович": 7,
-      "Севостьянов Виктор Геннадьевич": 3,
-      "Тугушев Анар Эльдар Оглы": 4,
-      "Фельдшеров Дмитрий Александрович": 3,
-      "Юсупов Андрей Владимирович": 4,
-      "Ярушин Юрий Владимирович": 26
+      "gas:candidate-vibid:2452000840183": 199,
+      "gas:candidate-vibid:2452000838643": 20,
+      "gas:candidate-vibid:2452000838217": 50,
+      "gas:candidate-vibid:2452000839012": 7,
+      "gas:candidate-vibid:2452000840515": 3,
+      "gas:candidate-vibid:2452000838278": 4,
+      "gas:candidate-vibid:2452000839974": 3,
+      "gas:candidate-vibid:2452000840145": 4,
+      "gas:candidate-vibid:2452000835984": 26
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kurgan?action=show&root=1000142&tvd=2452000794234&vrn=100100067795849&region=45&global=&sub_region=45&prver=0&pronetvd=null&vibid=2452000794234&type=464",
@@ -1518,15 +1518,15 @@ export const duma_2016_uik_463_region_45_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Ильтяков Александр Владимирович": 159,
-      "Ильчик Андрей Сергеевич": 8,
-      "Кислицын Василий Александрович": 47,
-      "Самойлов Александр Иванович": 2,
-      "Севостьянов Виктор Геннадьевич": 1,
-      "Тугушев Анар Эльдар Оглы": 6,
-      "Фельдшеров Дмитрий Александрович": 2,
-      "Юсупов Андрей Владимирович": 0,
-      "Ярушин Юрий Владимирович": 39
+      "gas:candidate-vibid:2452000840183": 159,
+      "gas:candidate-vibid:2452000838643": 8,
+      "gas:candidate-vibid:2452000838217": 47,
+      "gas:candidate-vibid:2452000839012": 2,
+      "gas:candidate-vibid:2452000840515": 1,
+      "gas:candidate-vibid:2452000838278": 6,
+      "gas:candidate-vibid:2452000839974": 2,
+      "gas:candidate-vibid:2452000840145": 0,
+      "gas:candidate-vibid:2452000835984": 39
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kurgan?action=show&root=1000142&tvd=2452000794234&vrn=100100067795849&region=45&global=&sub_region=45&prver=0&pronetvd=null&vibid=2452000794234&type=464",
@@ -1577,15 +1577,15 @@ export const duma_2016_uik_463_region_45_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Ильтяков Александр Владимирович": 142,
-      "Ильчик Андрей Сергеевич": 21,
-      "Кислицын Василий Александрович": 41,
-      "Самойлов Александр Иванович": 3,
-      "Севостьянов Виктор Геннадьевич": 4,
-      "Тугушев Анар Эльдар Оглы": 6,
-      "Фельдшеров Дмитрий Александрович": 2,
-      "Юсупов Андрей Владимирович": 3,
-      "Ярушин Юрий Владимирович": 43
+      "gas:candidate-vibid:2452000840183": 142,
+      "gas:candidate-vibid:2452000838643": 21,
+      "gas:candidate-vibid:2452000838217": 41,
+      "gas:candidate-vibid:2452000839012": 3,
+      "gas:candidate-vibid:2452000840515": 4,
+      "gas:candidate-vibid:2452000838278": 6,
+      "gas:candidate-vibid:2452000839974": 2,
+      "gas:candidate-vibid:2452000840145": 3,
+      "gas:candidate-vibid:2452000835984": 43
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kurgan?action=show&root=1000142&tvd=2452000794234&vrn=100100067795849&region=45&global=&sub_region=45&prver=0&pronetvd=null&vibid=2452000794234&type=464",
@@ -1636,15 +1636,15 @@ export const duma_2016_uik_463_region_45_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Ильтяков Александр Владимирович": 230,
-      "Ильчик Андрей Сергеевич": 29,
-      "Кислицын Василий Александрович": 38,
-      "Самойлов Александр Иванович": 10,
-      "Севостьянов Виктор Геннадьевич": 4,
-      "Тугушев Анар Эльдар Оглы": 7,
-      "Фельдшеров Дмитрий Александрович": 3,
-      "Юсупов Андрей Владимирович": 2,
-      "Ярушин Юрий Владимирович": 61
+      "gas:candidate-vibid:2452000840183": 230,
+      "gas:candidate-vibid:2452000838643": 29,
+      "gas:candidate-vibid:2452000838217": 38,
+      "gas:candidate-vibid:2452000839012": 10,
+      "gas:candidate-vibid:2452000840515": 4,
+      "gas:candidate-vibid:2452000838278": 7,
+      "gas:candidate-vibid:2452000839974": 3,
+      "gas:candidate-vibid:2452000840145": 2,
+      "gas:candidate-vibid:2452000835984": 61
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kurgan?action=show&root=1000142&tvd=2452000794234&vrn=100100067795849&region=45&global=&sub_region=45&prver=0&pronetvd=null&vibid=2452000794234&type=464",
@@ -1695,15 +1695,15 @@ export const duma_2016_uik_463_region_45_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Ильтяков Александр Владимирович": 120,
-      "Ильчик Андрей Сергеевич": 11,
-      "Кислицын Василий Александрович": 34,
-      "Самойлов Александр Иванович": 5,
-      "Севостьянов Виктор Геннадьевич": 2,
-      "Тугушев Анар Эльдар Оглы": 2,
-      "Фельдшеров Дмитрий Александрович": 1,
-      "Юсупов Андрей Владимирович": 1,
-      "Ярушин Юрий Владимирович": 38
+      "gas:candidate-vibid:2452000840183": 120,
+      "gas:candidate-vibid:2452000838643": 11,
+      "gas:candidate-vibid:2452000838217": 34,
+      "gas:candidate-vibid:2452000839012": 5,
+      "gas:candidate-vibid:2452000840515": 2,
+      "gas:candidate-vibid:2452000838278": 2,
+      "gas:candidate-vibid:2452000839974": 1,
+      "gas:candidate-vibid:2452000840145": 1,
+      "gas:candidate-vibid:2452000835984": 38
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kurgan?action=show&root=1000142&tvd=2452000794234&vrn=100100067795849&region=45&global=&sub_region=45&prver=0&pronetvd=null&vibid=2452000794234&type=464",
@@ -1754,15 +1754,15 @@ export const duma_2016_uik_463_region_45_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Ильтяков Александр Владимирович": 125,
-      "Ильчик Андрей Сергеевич": 5,
-      "Кислицын Василий Александрович": 14,
-      "Самойлов Александр Иванович": 2,
-      "Севостьянов Виктор Геннадьевич": 3,
-      "Тугушев Анар Эльдар Оглы": 4,
-      "Фельдшеров Дмитрий Александрович": 0,
-      "Юсупов Андрей Владимирович": 3,
-      "Ярушин Юрий Владимирович": 35
+      "gas:candidate-vibid:2452000840183": 125,
+      "gas:candidate-vibid:2452000838643": 5,
+      "gas:candidate-vibid:2452000838217": 14,
+      "gas:candidate-vibid:2452000839012": 2,
+      "gas:candidate-vibid:2452000840515": 3,
+      "gas:candidate-vibid:2452000838278": 4,
+      "gas:candidate-vibid:2452000839974": 0,
+      "gas:candidate-vibid:2452000840145": 3,
+      "gas:candidate-vibid:2452000835984": 35
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kurgan?action=show&root=1000142&tvd=2452000794234&vrn=100100067795849&region=45&global=&sub_region=45&prver=0&pronetvd=null&vibid=2452000794234&type=464",
@@ -1813,15 +1813,15 @@ export const duma_2016_uik_463_region_45_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Ильтяков Александр Владимирович": 277,
-      "Ильчик Андрей Сергеевич": 31,
-      "Кислицын Василий Александрович": 41,
-      "Самойлов Александр Иванович": 6,
-      "Севостьянов Виктор Геннадьевич": 4,
-      "Тугушев Анар Эльдар Оглы": 9,
-      "Фельдшеров Дмитрий Александрович": 3,
-      "Юсупов Андрей Владимирович": 5,
-      "Ярушин Юрий Владимирович": 70
+      "gas:candidate-vibid:2452000840183": 277,
+      "gas:candidate-vibid:2452000838643": 31,
+      "gas:candidate-vibid:2452000838217": 41,
+      "gas:candidate-vibid:2452000839012": 6,
+      "gas:candidate-vibid:2452000840515": 4,
+      "gas:candidate-vibid:2452000838278": 9,
+      "gas:candidate-vibid:2452000839974": 3,
+      "gas:candidate-vibid:2452000840145": 5,
+      "gas:candidate-vibid:2452000835984": 70
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kurgan?action=show&root=1000142&tvd=2452000794234&vrn=100100067795849&region=45&global=&sub_region=45&prver=0&pronetvd=null&vibid=2452000794234&type=464",
@@ -1872,15 +1872,15 @@ export const duma_2016_uik_463_region_45_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Ильтяков Александр Владимирович": 84,
-      "Ильчик Андрей Сергеевич": 9,
-      "Кислицын Василий Александрович": 40,
-      "Самойлов Александр Иванович": 12,
-      "Севостьянов Виктор Геннадьевич": 4,
-      "Тугушев Анар Эльдар Оглы": 7,
-      "Фельдшеров Дмитрий Александрович": 4,
-      "Юсупов Андрей Владимирович": 5,
-      "Ярушин Юрий Владимирович": 23
+      "gas:candidate-vibid:2452000840183": 84,
+      "gas:candidate-vibid:2452000838643": 9,
+      "gas:candidate-vibid:2452000838217": 40,
+      "gas:candidate-vibid:2452000839012": 12,
+      "gas:candidate-vibid:2452000840515": 4,
+      "gas:candidate-vibid:2452000838278": 7,
+      "gas:candidate-vibid:2452000839974": 4,
+      "gas:candidate-vibid:2452000840145": 5,
+      "gas:candidate-vibid:2452000835984": 23
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kurgan?action=show&root=1000142&tvd=2452000794235&vrn=100100067795849&region=45&global=&sub_region=45&prver=0&pronetvd=null&vibid=2452000794235&type=464",
@@ -1931,15 +1931,15 @@ export const duma_2016_uik_463_region_45_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Ильтяков Александр Владимирович": 132,
-      "Ильчик Андрей Сергеевич": 26,
-      "Кислицын Василий Александрович": 60,
-      "Самойлов Александр Иванович": 12,
-      "Севостьянов Виктор Геннадьевич": 2,
-      "Тугушев Анар Эльдар Оглы": 3,
-      "Фельдшеров Дмитрий Александрович": 5,
-      "Юсупов Андрей Владимирович": 16,
-      "Ярушин Юрий Владимирович": 38
+      "gas:candidate-vibid:2452000840183": 132,
+      "gas:candidate-vibid:2452000838643": 26,
+      "gas:candidate-vibid:2452000838217": 60,
+      "gas:candidate-vibid:2452000839012": 12,
+      "gas:candidate-vibid:2452000840515": 2,
+      "gas:candidate-vibid:2452000838278": 3,
+      "gas:candidate-vibid:2452000839974": 5,
+      "gas:candidate-vibid:2452000840145": 16,
+      "gas:candidate-vibid:2452000835984": 38
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kurgan?action=show&root=1000142&tvd=2452000794235&vrn=100100067795849&region=45&global=&sub_region=45&prver=0&pronetvd=null&vibid=2452000794235&type=464",
@@ -1990,15 +1990,15 @@ export const duma_2016_uik_463_region_45_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Ильтяков Александр Владимирович": 263,
-      "Ильчик Андрей Сергеевич": 50,
-      "Кислицын Василий Александрович": 93,
-      "Самойлов Александр Иванович": 34,
-      "Севостьянов Виктор Геннадьевич": 9,
-      "Тугушев Анар Эльдар Оглы": 15,
-      "Фельдшеров Дмитрий Александрович": 11,
-      "Юсупов Андрей Владимирович": 18,
-      "Ярушин Юрий Владимирович": 87
+      "gas:candidate-vibid:2452000840183": 263,
+      "gas:candidate-vibid:2452000838643": 50,
+      "gas:candidate-vibid:2452000838217": 93,
+      "gas:candidate-vibid:2452000839012": 34,
+      "gas:candidate-vibid:2452000840515": 9,
+      "gas:candidate-vibid:2452000838278": 15,
+      "gas:candidate-vibid:2452000839974": 11,
+      "gas:candidate-vibid:2452000840145": 18,
+      "gas:candidate-vibid:2452000835984": 87
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kurgan?action=show&root=1000142&tvd=2452000794235&vrn=100100067795849&region=45&global=&sub_region=45&prver=0&pronetvd=null&vibid=2452000794235&type=464",
@@ -2049,15 +2049,15 @@ export const duma_2016_uik_463_region_45_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Ильтяков Александр Владимирович": 88,
-      "Ильчик Андрей Сергеевич": 9,
-      "Кислицын Василий Александрович": 32,
-      "Самойлов Александр Иванович": 5,
-      "Севостьянов Виктор Геннадьевич": 5,
-      "Тугушев Анар Эльдар Оглы": 3,
-      "Фельдшеров Дмитрий Александрович": 3,
-      "Юсупов Андрей Владимирович": 3,
-      "Ярушин Юрий Владимирович": 25
+      "gas:candidate-vibid:2452000840183": 88,
+      "gas:candidate-vibid:2452000838643": 9,
+      "gas:candidate-vibid:2452000838217": 32,
+      "gas:candidate-vibid:2452000839012": 5,
+      "gas:candidate-vibid:2452000840515": 5,
+      "gas:candidate-vibid:2452000838278": 3,
+      "gas:candidate-vibid:2452000839974": 3,
+      "gas:candidate-vibid:2452000840145": 3,
+      "gas:candidate-vibid:2452000835984": 25
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kurgan?action=show&root=1000142&tvd=2452000794235&vrn=100100067795849&region=45&global=&sub_region=45&prver=0&pronetvd=null&vibid=2452000794235&type=464",
@@ -2108,15 +2108,15 @@ export const duma_2016_uik_463_region_45_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Ильтяков Александр Владимирович": 173,
-      "Ильчик Андрей Сергеевич": 21,
-      "Кислицын Василий Александрович": 66,
-      "Самойлов Александр Иванович": 23,
-      "Севостьянов Виктор Геннадьевич": 9,
-      "Тугушев Анар Эльдар Оглы": 12,
-      "Фельдшеров Дмитрий Александрович": 5,
-      "Юсупов Андрей Владимирович": 22,
-      "Ярушин Юрий Владимирович": 51
+      "gas:candidate-vibid:2452000840183": 173,
+      "gas:candidate-vibid:2452000838643": 21,
+      "gas:candidate-vibid:2452000838217": 66,
+      "gas:candidate-vibid:2452000839012": 23,
+      "gas:candidate-vibid:2452000840515": 9,
+      "gas:candidate-vibid:2452000838278": 12,
+      "gas:candidate-vibid:2452000839974": 5,
+      "gas:candidate-vibid:2452000840145": 22,
+      "gas:candidate-vibid:2452000835984": 51
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kurgan?action=show&root=1000142&tvd=2452000794235&vrn=100100067795849&region=45&global=&sub_region=45&prver=0&pronetvd=null&vibid=2452000794235&type=464",
@@ -2167,15 +2167,15 @@ export const duma_2016_uik_463_region_45_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Ильтяков Александр Владимирович": 34,
-      "Ильчик Андрей Сергеевич": 3,
-      "Кислицын Василий Александрович": 8,
-      "Самойлов Александр Иванович": 3,
-      "Севостьянов Виктор Геннадьевич": 1,
-      "Тугушев Анар Эльдар Оглы": 4,
-      "Фельдшеров Дмитрий Александрович": 1,
-      "Юсупов Андрей Владимирович": 5,
-      "Ярушин Юрий Владимирович": 23
+      "gas:candidate-vibid:2452000840183": 34,
+      "gas:candidate-vibid:2452000838643": 3,
+      "gas:candidate-vibid:2452000838217": 8,
+      "gas:candidate-vibid:2452000839012": 3,
+      "gas:candidate-vibid:2452000840515": 1,
+      "gas:candidate-vibid:2452000838278": 4,
+      "gas:candidate-vibid:2452000839974": 1,
+      "gas:candidate-vibid:2452000840145": 5,
+      "gas:candidate-vibid:2452000835984": 23
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kurgan?action=show&root=1000142&tvd=2452000794235&vrn=100100067795849&region=45&global=&sub_region=45&prver=0&pronetvd=null&vibid=2452000794235&type=464",
@@ -2226,15 +2226,15 @@ export const duma_2016_uik_463_region_45_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Ильтяков Александр Владимирович": 184,
-      "Ильчик Андрей Сергеевич": 13,
-      "Кислицын Василий Александрович": 38,
-      "Самойлов Александр Иванович": 20,
-      "Севостьянов Виктор Геннадьевич": 3,
-      "Тугушев Анар Эльдар Оглы": 10,
-      "Фельдшеров Дмитрий Александрович": 8,
-      "Юсупов Андрей Владимирович": 12,
-      "Ярушин Юрий Владимирович": 46
+      "gas:candidate-vibid:2452000840183": 184,
+      "gas:candidate-vibid:2452000838643": 13,
+      "gas:candidate-vibid:2452000838217": 38,
+      "gas:candidate-vibid:2452000839012": 20,
+      "gas:candidate-vibid:2452000840515": 3,
+      "gas:candidate-vibid:2452000838278": 10,
+      "gas:candidate-vibid:2452000839974": 8,
+      "gas:candidate-vibid:2452000840145": 12,
+      "gas:candidate-vibid:2452000835984": 46
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kurgan?action=show&root=1000142&tvd=2452000794235&vrn=100100067795849&region=45&global=&sub_region=45&prver=0&pronetvd=null&vibid=2452000794235&type=464",
@@ -2285,15 +2285,15 @@ export const duma_2016_uik_463_region_45_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Ильтяков Александр Владимирович": 212,
-      "Ильчик Андрей Сергеевич": 33,
-      "Кислицын Василий Александрович": 23,
-      "Самойлов Александр Иванович": 15,
-      "Севостьянов Виктор Геннадьевич": 57,
-      "Тугушев Анар Эльдар Оглы": 9,
-      "Фельдшеров Дмитрий Александрович": 8,
-      "Юсупов Андрей Владимирович": 18,
-      "Ярушин Юрий Владимирович": 66
+      "gas:candidate-vibid:2452000840183": 212,
+      "gas:candidate-vibid:2452000838643": 33,
+      "gas:candidate-vibid:2452000838217": 23,
+      "gas:candidate-vibid:2452000839012": 15,
+      "gas:candidate-vibid:2452000840515": 57,
+      "gas:candidate-vibid:2452000838278": 9,
+      "gas:candidate-vibid:2452000839974": 8,
+      "gas:candidate-vibid:2452000840145": 18,
+      "gas:candidate-vibid:2452000835984": 66
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kurgan?action=show&root=1000142&tvd=2452000794235&vrn=100100067795849&region=45&global=&sub_region=45&prver=0&pronetvd=null&vibid=2452000794235&type=464",
@@ -2344,15 +2344,15 @@ export const duma_2016_uik_463_region_45_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Ильтяков Александр Владимирович": 184,
-      "Ильчик Андрей Сергеевич": 36,
-      "Кислицын Василий Александрович": 56,
-      "Самойлов Александр Иванович": 40,
-      "Севостьянов Виктор Геннадьевич": 8,
-      "Тугушев Анар Эльдар Оглы": 15,
-      "Фельдшеров Дмитрий Александрович": 12,
-      "Юсупов Андрей Владимирович": 26,
-      "Ярушин Юрий Владимирович": 108
+      "gas:candidate-vibid:2452000840183": 184,
+      "gas:candidate-vibid:2452000838643": 36,
+      "gas:candidate-vibid:2452000838217": 56,
+      "gas:candidate-vibid:2452000839012": 40,
+      "gas:candidate-vibid:2452000840515": 8,
+      "gas:candidate-vibid:2452000838278": 15,
+      "gas:candidate-vibid:2452000839974": 12,
+      "gas:candidate-vibid:2452000840145": 26,
+      "gas:candidate-vibid:2452000835984": 108
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kurgan?action=show&root=1000142&tvd=2452000794235&vrn=100100067795849&region=45&global=&sub_region=45&prver=0&pronetvd=null&vibid=2452000794235&type=464",
@@ -2403,15 +2403,15 @@ export const duma_2016_uik_463_region_45_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Ильтяков Александр Владимирович": 139,
-      "Ильчик Андрей Сергеевич": 12,
-      "Кислицын Василий Александрович": 24,
-      "Самойлов Александр Иванович": 7,
-      "Севостьянов Виктор Геннадьевич": 2,
-      "Тугушев Анар Эльдар Оглы": 9,
-      "Фельдшеров Дмитрий Александрович": 3,
-      "Юсупов Андрей Владимирович": 13,
-      "Ярушин Юрий Владимирович": 38
+      "gas:candidate-vibid:2452000840183": 139,
+      "gas:candidate-vibid:2452000838643": 12,
+      "gas:candidate-vibid:2452000838217": 24,
+      "gas:candidate-vibid:2452000839012": 7,
+      "gas:candidate-vibid:2452000840515": 2,
+      "gas:candidate-vibid:2452000838278": 9,
+      "gas:candidate-vibid:2452000839974": 3,
+      "gas:candidate-vibid:2452000840145": 13,
+      "gas:candidate-vibid:2452000835984": 38
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kurgan?action=show&root=1000142&tvd=2452000794235&vrn=100100067795849&region=45&global=&sub_region=45&prver=0&pronetvd=null&vibid=2452000794235&type=464",
@@ -2462,15 +2462,15 @@ export const duma_2016_uik_463_region_45_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Ильтяков Александр Владимирович": 74,
-      "Ильчик Андрей Сергеевич": 7,
-      "Кислицын Василий Александрович": 22,
-      "Самойлов Александр Иванович": 7,
-      "Севостьянов Виктор Геннадьевич": 4,
-      "Тугушев Анар Эльдар Оглы": 2,
-      "Фельдшеров Дмитрий Александрович": 1,
-      "Юсупов Андрей Владимирович": 4,
-      "Ярушин Юрий Владимирович": 16
+      "gas:candidate-vibid:2452000840183": 74,
+      "gas:candidate-vibid:2452000838643": 7,
+      "gas:candidate-vibid:2452000838217": 22,
+      "gas:candidate-vibid:2452000839012": 7,
+      "gas:candidate-vibid:2452000840515": 4,
+      "gas:candidate-vibid:2452000838278": 2,
+      "gas:candidate-vibid:2452000839974": 1,
+      "gas:candidate-vibid:2452000840145": 4,
+      "gas:candidate-vibid:2452000835984": 16
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kurgan?action=show&root=1000142&tvd=2452000794235&vrn=100100067795849&region=45&global=&sub_region=45&prver=0&pronetvd=null&vibid=2452000794235&type=464",
@@ -2521,15 +2521,15 @@ export const duma_2016_uik_463_region_45_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Ильтяков Александр Владимирович": 33,
-      "Ильчик Андрей Сергеевич": 1,
-      "Кислицын Василий Александрович": 5,
-      "Самойлов Александр Иванович": 1,
-      "Севостьянов Виктор Геннадьевич": 0,
-      "Тугушев Анар Эльдар Оглы": 6,
-      "Фельдшеров Дмитрий Александрович": 0,
-      "Юсупов Андрей Владимирович": 5,
-      "Ярушин Юрий Владимирович": 4
+      "gas:candidate-vibid:2452000840183": 33,
+      "gas:candidate-vibid:2452000838643": 1,
+      "gas:candidate-vibid:2452000838217": 5,
+      "gas:candidate-vibid:2452000839012": 1,
+      "gas:candidate-vibid:2452000840515": 0,
+      "gas:candidate-vibid:2452000838278": 6,
+      "gas:candidate-vibid:2452000839974": 0,
+      "gas:candidate-vibid:2452000840145": 5,
+      "gas:candidate-vibid:2452000835984": 4
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kurgan?action=show&root=1000142&tvd=2452000794235&vrn=100100067795849&region=45&global=&sub_region=45&prver=0&pronetvd=null&vibid=2452000794235&type=464",
@@ -2580,15 +2580,15 @@ export const duma_2016_uik_463_region_45_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Ильтяков Александр Владимирович": 108,
-      "Ильчик Андрей Сергеевич": 2,
-      "Кислицын Василий Александрович": 25,
-      "Самойлов Александр Иванович": 12,
-      "Севостьянов Виктор Геннадьевич": 4,
-      "Тугушев Анар Эльдар Оглы": 2,
-      "Фельдшеров Дмитрий Александрович": 1,
-      "Юсупов Андрей Владимирович": 3,
-      "Ярушин Юрий Владимирович": 8
+      "gas:candidate-vibid:2452000840183": 108,
+      "gas:candidate-vibid:2452000838643": 2,
+      "gas:candidate-vibid:2452000838217": 25,
+      "gas:candidate-vibid:2452000839012": 12,
+      "gas:candidate-vibid:2452000840515": 4,
+      "gas:candidate-vibid:2452000838278": 2,
+      "gas:candidate-vibid:2452000839974": 1,
+      "gas:candidate-vibid:2452000840145": 3,
+      "gas:candidate-vibid:2452000835984": 8
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kurgan?action=show&root=1000142&tvd=2452000794235&vrn=100100067795849&region=45&global=&sub_region=45&prver=0&pronetvd=null&vibid=2452000794235&type=464",
@@ -2639,15 +2639,15 @@ export const duma_2016_uik_463_region_45_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Ильтяков Александр Владимирович": 161,
-      "Ильчик Андрей Сергеевич": 18,
-      "Кислицын Василий Александрович": 32,
-      "Самойлов Александр Иванович": 8,
-      "Севостьянов Виктор Геннадьевич": 5,
-      "Тугушев Анар Эльдар Оглы": 7,
-      "Фельдшеров Дмитрий Александрович": 5,
-      "Юсупов Андрей Владимирович": 11,
-      "Ярушин Юрий Владимирович": 19
+      "gas:candidate-vibid:2452000840183": 161,
+      "gas:candidate-vibid:2452000838643": 18,
+      "gas:candidate-vibid:2452000838217": 32,
+      "gas:candidate-vibid:2452000839012": 8,
+      "gas:candidate-vibid:2452000840515": 5,
+      "gas:candidate-vibid:2452000838278": 7,
+      "gas:candidate-vibid:2452000839974": 5,
+      "gas:candidate-vibid:2452000840145": 11,
+      "gas:candidate-vibid:2452000835984": 19
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kurgan?action=show&root=1000142&tvd=2452000794235&vrn=100100067795849&region=45&global=&sub_region=45&prver=0&pronetvd=null&vibid=2452000794235&type=464",
@@ -2698,15 +2698,15 @@ export const duma_2016_uik_463_region_45_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Ильтяков Александр Владимирович": 72,
-      "Ильчик Андрей Сергеевич": 2,
-      "Кислицын Василий Александрович": 6,
-      "Самойлов Александр Иванович": 0,
-      "Севостьянов Виктор Геннадьевич": 0,
-      "Тугушев Анар Эльдар Оглы": 1,
-      "Фельдшеров Дмитрий Александрович": 0,
-      "Юсупов Андрей Владимирович": 3,
-      "Ярушин Юрий Владимирович": 5
+      "gas:candidate-vibid:2452000840183": 72,
+      "gas:candidate-vibid:2452000838643": 2,
+      "gas:candidate-vibid:2452000838217": 6,
+      "gas:candidate-vibid:2452000839012": 0,
+      "gas:candidate-vibid:2452000840515": 0,
+      "gas:candidate-vibid:2452000838278": 1,
+      "gas:candidate-vibid:2452000839974": 0,
+      "gas:candidate-vibid:2452000840145": 3,
+      "gas:candidate-vibid:2452000835984": 5
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kurgan?action=show&root=1000142&tvd=2452000794235&vrn=100100067795849&region=45&global=&sub_region=45&prver=0&pronetvd=null&vibid=2452000794235&type=464",
@@ -2757,15 +2757,15 @@ export const duma_2016_uik_463_region_45_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Ильтяков Александр Владимирович": 32,
-      "Ильчик Андрей Сергеевич": 2,
-      "Кислицын Василий Александрович": 10,
-      "Самойлов Александр Иванович": 0,
-      "Севостьянов Виктор Геннадьевич": 0,
-      "Тугушев Анар Эльдар Оглы": 5,
-      "Фельдшеров Дмитрий Александрович": 1,
-      "Юсупов Андрей Владимирович": 5,
-      "Ярушин Юрий Владимирович": 3
+      "gas:candidate-vibid:2452000840183": 32,
+      "gas:candidate-vibid:2452000838643": 2,
+      "gas:candidate-vibid:2452000838217": 10,
+      "gas:candidate-vibid:2452000839012": 0,
+      "gas:candidate-vibid:2452000840515": 0,
+      "gas:candidate-vibid:2452000838278": 5,
+      "gas:candidate-vibid:2452000839974": 1,
+      "gas:candidate-vibid:2452000840145": 5,
+      "gas:candidate-vibid:2452000835984": 3
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kurgan?action=show&root=1000142&tvd=2452000794235&vrn=100100067795849&region=45&global=&sub_region=45&prver=0&pronetvd=null&vibid=2452000794235&type=464",
@@ -2816,15 +2816,15 @@ export const duma_2016_uik_463_region_45_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Ильтяков Александр Владимирович": 94,
-      "Ильчик Андрей Сергеевич": 8,
-      "Кислицын Василий Александрович": 59,
-      "Самойлов Александр Иванович": 7,
-      "Севостьянов Виктор Геннадьевич": 12,
-      "Тугушев Анар Эльдар Оглы": 4,
-      "Фельдшеров Дмитрий Александрович": 1,
-      "Юсупов Андрей Владимирович": 3,
-      "Ярушин Юрий Владимирович": 12
+      "gas:candidate-vibid:2452000840183": 94,
+      "gas:candidate-vibid:2452000838643": 8,
+      "gas:candidate-vibid:2452000838217": 59,
+      "gas:candidate-vibid:2452000839012": 7,
+      "gas:candidate-vibid:2452000840515": 12,
+      "gas:candidate-vibid:2452000838278": 4,
+      "gas:candidate-vibid:2452000839974": 1,
+      "gas:candidate-vibid:2452000840145": 3,
+      "gas:candidate-vibid:2452000835984": 12
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kurgan?action=show&root=1000142&tvd=2452000794235&vrn=100100067795849&region=45&global=&sub_region=45&prver=0&pronetvd=null&vibid=2452000794235&type=464",
@@ -2875,15 +2875,15 @@ export const duma_2016_uik_463_region_45_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Ильтяков Александр Владимирович": 62,
-      "Ильчик Андрей Сергеевич": 22,
-      "Кислицын Василий Александрович": 21,
-      "Самойлов Александр Иванович": 9,
-      "Севостьянов Виктор Геннадьевич": 4,
-      "Тугушев Анар Эльдар Оглы": 4,
-      "Фельдшеров Дмитрий Александрович": 4,
-      "Юсупов Андрей Владимирович": 16,
-      "Ярушин Юрий Владимирович": 13
+      "gas:candidate-vibid:2452000840183": 62,
+      "gas:candidate-vibid:2452000838643": 22,
+      "gas:candidate-vibid:2452000838217": 21,
+      "gas:candidate-vibid:2452000839012": 9,
+      "gas:candidate-vibid:2452000840515": 4,
+      "gas:candidate-vibid:2452000838278": 4,
+      "gas:candidate-vibid:2452000839974": 4,
+      "gas:candidate-vibid:2452000840145": 16,
+      "gas:candidate-vibid:2452000835984": 13
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kurgan?action=show&root=1000142&tvd=2452000794235&vrn=100100067795849&region=45&global=&sub_region=45&prver=0&pronetvd=null&vibid=2452000794235&type=464",
@@ -2934,15 +2934,15 @@ export const duma_2016_uik_463_region_45_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Ильтяков Александр Владимирович": 38,
-      "Ильчик Андрей Сергеевич": 1,
-      "Кислицын Василий Александрович": 3,
-      "Самойлов Александр Иванович": 4,
-      "Севостьянов Виктор Геннадьевич": 1,
-      "Тугушев Анар Эльдар Оглы": 1,
-      "Фельдшеров Дмитрий Александрович": 0,
-      "Юсупов Андрей Владимирович": 1,
-      "Ярушин Юрий Владимирович": 6
+      "gas:candidate-vibid:2452000840183": 38,
+      "gas:candidate-vibid:2452000838643": 1,
+      "gas:candidate-vibid:2452000838217": 3,
+      "gas:candidate-vibid:2452000839012": 4,
+      "gas:candidate-vibid:2452000840515": 1,
+      "gas:candidate-vibid:2452000838278": 1,
+      "gas:candidate-vibid:2452000839974": 0,
+      "gas:candidate-vibid:2452000840145": 1,
+      "gas:candidate-vibid:2452000835984": 6
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kurgan?action=show&root=1000142&tvd=2452000794235&vrn=100100067795849&region=45&global=&sub_region=45&prver=0&pronetvd=null&vibid=2452000794235&type=464",
@@ -2993,15 +2993,15 @@ export const duma_2016_uik_463_region_45_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Ильтяков Александр Владимирович": 48,
-      "Ильчик Андрей Сергеевич": 2,
-      "Кислицын Василий Александрович": 14,
-      "Самойлов Александр Иванович": 7,
-      "Севостьянов Виктор Геннадьевич": 2,
-      "Тугушев Анар Эльдар Оглы": 3,
-      "Фельдшеров Дмитрий Александрович": 1,
-      "Юсупов Андрей Владимирович": 1,
-      "Ярушин Юрий Владимирович": 8
+      "gas:candidate-vibid:2452000840183": 48,
+      "gas:candidate-vibid:2452000838643": 2,
+      "gas:candidate-vibid:2452000838217": 14,
+      "gas:candidate-vibid:2452000839012": 7,
+      "gas:candidate-vibid:2452000840515": 2,
+      "gas:candidate-vibid:2452000838278": 3,
+      "gas:candidate-vibid:2452000839974": 1,
+      "gas:candidate-vibid:2452000840145": 1,
+      "gas:candidate-vibid:2452000835984": 8
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kurgan?action=show&root=1000142&tvd=2452000794235&vrn=100100067795849&region=45&global=&sub_region=45&prver=0&pronetvd=null&vibid=2452000794235&type=464",
@@ -3052,15 +3052,15 @@ export const duma_2016_uik_463_region_45_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Ильтяков Александр Владимирович": 82,
-      "Ильчик Андрей Сергеевич": 4,
-      "Кислицын Василий Александрович": 21,
-      "Самойлов Александр Иванович": 12,
-      "Севостьянов Виктор Геннадьевич": 1,
-      "Тугушев Анар Эльдар Оглы": 5,
-      "Фельдшеров Дмитрий Александрович": 2,
-      "Юсупов Андрей Владимирович": 2,
-      "Ярушин Юрий Владимирович": 6
+      "gas:candidate-vibid:2452000840183": 82,
+      "gas:candidate-vibid:2452000838643": 4,
+      "gas:candidate-vibid:2452000838217": 21,
+      "gas:candidate-vibid:2452000839012": 12,
+      "gas:candidate-vibid:2452000840515": 1,
+      "gas:candidate-vibid:2452000838278": 5,
+      "gas:candidate-vibid:2452000839974": 2,
+      "gas:candidate-vibid:2452000840145": 2,
+      "gas:candidate-vibid:2452000835984": 6
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kurgan?action=show&root=1000142&tvd=2452000794235&vrn=100100067795849&region=45&global=&sub_region=45&prver=0&pronetvd=null&vibid=2452000794235&type=464",
@@ -3111,15 +3111,15 @@ export const duma_2016_uik_463_region_45_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Ильтяков Александр Владимирович": 147,
-      "Ильчик Андрей Сергеевич": 10,
-      "Кислицын Василий Александрович": 25,
-      "Самойлов Александр Иванович": 11,
-      "Севостьянов Виктор Геннадьевич": 3,
-      "Тугушев Анар Эльдар Оглы": 9,
-      "Фельдшеров Дмитрий Александрович": 5,
-      "Юсупов Андрей Владимирович": 4,
-      "Ярушин Юрий Владимирович": 37
+      "gas:candidate-vibid:2452000840183": 147,
+      "gas:candidate-vibid:2452000838643": 10,
+      "gas:candidate-vibid:2452000838217": 25,
+      "gas:candidate-vibid:2452000839012": 11,
+      "gas:candidate-vibid:2452000840515": 3,
+      "gas:candidate-vibid:2452000838278": 9,
+      "gas:candidate-vibid:2452000839974": 5,
+      "gas:candidate-vibid:2452000840145": 4,
+      "gas:candidate-vibid:2452000835984": 37
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kurgan?action=show&root=1000142&tvd=2452000794235&vrn=100100067795849&region=45&global=&sub_region=45&prver=0&pronetvd=null&vibid=2452000794235&type=464",
@@ -3170,15 +3170,15 @@ export const duma_2016_uik_463_region_45_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Ильтяков Александр Владимирович": 26,
-      "Ильчик Андрей Сергеевич": 6,
-      "Кислицын Василий Александрович": 9,
-      "Самойлов Александр Иванович": 4,
-      "Севостьянов Виктор Геннадьевич": 2,
-      "Тугушев Анар Эльдар Оглы": 0,
-      "Фельдшеров Дмитрий Александрович": 1,
-      "Юсупов Андрей Владимирович": 5,
-      "Ярушин Юрий Владимирович": 9
+      "gas:candidate-vibid:2452000840183": 26,
+      "gas:candidate-vibid:2452000838643": 6,
+      "gas:candidate-vibid:2452000838217": 9,
+      "gas:candidate-vibid:2452000839012": 4,
+      "gas:candidate-vibid:2452000840515": 2,
+      "gas:candidate-vibid:2452000838278": 0,
+      "gas:candidate-vibid:2452000839974": 1,
+      "gas:candidate-vibid:2452000840145": 5,
+      "gas:candidate-vibid:2452000835984": 9
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kurgan?action=show&root=1000142&tvd=2452000794235&vrn=100100067795849&region=45&global=&sub_region=45&prver=0&pronetvd=null&vibid=2452000794235&type=464",
@@ -3229,15 +3229,15 @@ export const duma_2016_uik_463_region_45_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Ильтяков Александр Владимирович": 153,
-      "Ильчик Андрей Сергеевич": 17,
-      "Кислицын Василий Александрович": 101,
-      "Самойлов Александр Иванович": 19,
-      "Севостьянов Виктор Геннадьевич": 12,
-      "Тугушев Анар Эльдар Оглы": 8,
-      "Фельдшеров Дмитрий Александрович": 6,
-      "Юсупов Андрей Владимирович": 13,
-      "Ярушин Юрий Владимирович": 41
+      "gas:candidate-vibid:2452000840183": 153,
+      "gas:candidate-vibid:2452000838643": 17,
+      "gas:candidate-vibid:2452000838217": 101,
+      "gas:candidate-vibid:2452000839012": 19,
+      "gas:candidate-vibid:2452000840515": 12,
+      "gas:candidate-vibid:2452000838278": 8,
+      "gas:candidate-vibid:2452000839974": 6,
+      "gas:candidate-vibid:2452000840145": 13,
+      "gas:candidate-vibid:2452000835984": 41
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kurgan?action=show&root=1000142&tvd=2452000794235&vrn=100100067795849&region=45&global=&sub_region=45&prver=0&pronetvd=null&vibid=2452000794235&type=464",
@@ -3288,15 +3288,15 @@ export const duma_2016_uik_463_region_45_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Ильтяков Александр Владимирович": 34,
-      "Ильчик Андрей Сергеевич": 1,
-      "Кислицын Василий Александрович": 17,
-      "Самойлов Александр Иванович": 7,
-      "Севостьянов Виктор Геннадьевич": 3,
-      "Тугушев Анар Эльдар Оглы": 4,
-      "Фельдшеров Дмитрий Александрович": 3,
-      "Юсупов Андрей Владимирович": 3,
-      "Ярушин Юрий Владимирович": 3
+      "gas:candidate-vibid:2452000840183": 34,
+      "gas:candidate-vibid:2452000838643": 1,
+      "gas:candidate-vibid:2452000838217": 17,
+      "gas:candidate-vibid:2452000839012": 7,
+      "gas:candidate-vibid:2452000840515": 3,
+      "gas:candidate-vibid:2452000838278": 4,
+      "gas:candidate-vibid:2452000839974": 3,
+      "gas:candidate-vibid:2452000840145": 3,
+      "gas:candidate-vibid:2452000835984": 3
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kurgan?action=show&root=1000142&tvd=2452000794235&vrn=100100067795849&region=45&global=&sub_region=45&prver=0&pronetvd=null&vibid=2452000794235&type=464",
@@ -3347,15 +3347,15 @@ export const duma_2016_uik_463_region_45_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Ильтяков Александр Владимирович": 100,
-      "Ильчик Андрей Сергеевич": 2,
-      "Кислицын Василий Александрович": 25,
-      "Самойлов Александр Иванович": 7,
-      "Севостьянов Виктор Геннадьевич": 4,
-      "Тугушев Анар Эльдар Оглы": 2,
-      "Фельдшеров Дмитрий Александрович": 2,
-      "Юсупов Андрей Владимирович": 8,
-      "Ярушин Юрий Владимирович": 13
+      "gas:candidate-vibid:2452000840183": 100,
+      "gas:candidate-vibid:2452000838643": 2,
+      "gas:candidate-vibid:2452000838217": 25,
+      "gas:candidate-vibid:2452000839012": 7,
+      "gas:candidate-vibid:2452000840515": 4,
+      "gas:candidate-vibid:2452000838278": 2,
+      "gas:candidate-vibid:2452000839974": 2,
+      "gas:candidate-vibid:2452000840145": 8,
+      "gas:candidate-vibid:2452000835984": 13
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kurgan?action=show&root=1000142&tvd=2452000794235&vrn=100100067795849&region=45&global=&sub_region=45&prver=0&pronetvd=null&vibid=2452000794235&type=464",
@@ -3406,15 +3406,15 @@ export const duma_2016_uik_463_region_45_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Ильтяков Александр Владимирович": 50,
-      "Ильчик Андрей Сергеевич": 4,
-      "Кислицын Василий Александрович": 18,
-      "Самойлов Александр Иванович": 5,
-      "Севостьянов Виктор Геннадьевич": 7,
-      "Тугушев Анар Эльдар Оглы": 1,
-      "Фельдшеров Дмитрий Александрович": 2,
-      "Юсупов Андрей Владимирович": 1,
-      "Ярушин Юрий Владимирович": 11
+      "gas:candidate-vibid:2452000840183": 50,
+      "gas:candidate-vibid:2452000838643": 4,
+      "gas:candidate-vibid:2452000838217": 18,
+      "gas:candidate-vibid:2452000839012": 5,
+      "gas:candidate-vibid:2452000840515": 7,
+      "gas:candidate-vibid:2452000838278": 1,
+      "gas:candidate-vibid:2452000839974": 2,
+      "gas:candidate-vibid:2452000840145": 1,
+      "gas:candidate-vibid:2452000835984": 11
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kurgan?action=show&root=1000142&tvd=2452000794235&vrn=100100067795849&region=45&global=&sub_region=45&prver=0&pronetvd=null&vibid=2452000794235&type=464",
@@ -3465,15 +3465,15 @@ export const duma_2016_uik_463_region_45_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Ильтяков Александр Владимирович": 48,
-      "Ильчик Андрей Сергеевич": 9,
-      "Кислицын Василий Александрович": 12,
-      "Самойлов Александр Иванович": 8,
-      "Севостьянов Виктор Геннадьевич": 2,
-      "Тугушев Анар Эльдар Оглы": 2,
-      "Фельдшеров Дмитрий Александрович": 3,
-      "Юсупов Андрей Владимирович": 1,
-      "Ярушин Юрий Владимирович": 11
+      "gas:candidate-vibid:2452000840183": 48,
+      "gas:candidate-vibid:2452000838643": 9,
+      "gas:candidate-vibid:2452000838217": 12,
+      "gas:candidate-vibid:2452000839012": 8,
+      "gas:candidate-vibid:2452000840515": 2,
+      "gas:candidate-vibid:2452000838278": 2,
+      "gas:candidate-vibid:2452000839974": 3,
+      "gas:candidate-vibid:2452000840145": 1,
+      "gas:candidate-vibid:2452000835984": 11
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kurgan?action=show&root=1000142&tvd=2452000794235&vrn=100100067795849&region=45&global=&sub_region=45&prver=0&pronetvd=null&vibid=2452000794235&type=464",
@@ -3524,15 +3524,15 @@ export const duma_2016_uik_463_region_45_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Ильтяков Александр Владимирович": 11,
-      "Ильчик Андрей Сергеевич": 3,
-      "Кислицын Василий Александрович": 2,
-      "Самойлов Александр Иванович": 10,
-      "Севостьянов Виктор Геннадьевич": 3,
-      "Тугушев Анар Эльдар Оглы": 0,
-      "Фельдшеров Дмитрий Александрович": 2,
-      "Юсупов Андрей Владимирович": 3,
-      "Ярушин Юрий Владимирович": 4
+      "gas:candidate-vibid:2452000840183": 11,
+      "gas:candidate-vibid:2452000838643": 3,
+      "gas:candidate-vibid:2452000838217": 2,
+      "gas:candidate-vibid:2452000839012": 10,
+      "gas:candidate-vibid:2452000840515": 3,
+      "gas:candidate-vibid:2452000838278": 0,
+      "gas:candidate-vibid:2452000839974": 2,
+      "gas:candidate-vibid:2452000840145": 3,
+      "gas:candidate-vibid:2452000835984": 4
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kurgan?action=show&root=1000142&tvd=2452000794235&vrn=100100067795849&region=45&global=&sub_region=45&prver=0&pronetvd=null&vibid=2452000794235&type=464",
@@ -3583,15 +3583,15 @@ export const duma_2016_uik_463_region_45_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Ильтяков Александр Владимирович": 144,
-      "Ильчик Андрей Сергеевич": 16,
-      "Кислицын Василий Александрович": 22,
-      "Самойлов Александр Иванович": 13,
-      "Севостьянов Виктор Геннадьевич": 12,
-      "Тугушев Анар Эльдар Оглы": 13,
-      "Фельдшеров Дмитрий Александрович": 7,
-      "Юсупов Андрей Владимирович": 5,
-      "Ярушин Юрий Владимирович": 28
+      "gas:candidate-vibid:2452000840183": 144,
+      "gas:candidate-vibid:2452000838643": 16,
+      "gas:candidate-vibid:2452000838217": 22,
+      "gas:candidate-vibid:2452000839012": 13,
+      "gas:candidate-vibid:2452000840515": 12,
+      "gas:candidate-vibid:2452000838278": 13,
+      "gas:candidate-vibid:2452000839974": 7,
+      "gas:candidate-vibid:2452000840145": 5,
+      "gas:candidate-vibid:2452000835984": 28
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kurgan?action=show&root=1000142&tvd=2452000794235&vrn=100100067795849&region=45&global=&sub_region=45&prver=0&pronetvd=null&vibid=2452000794235&type=464",
@@ -3642,15 +3642,15 @@ export const duma_2016_uik_463_region_45_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Ильтяков Александр Владимирович": 17,
-      "Ильчик Андрей Сергеевич": 8,
-      "Кислицын Василий Александрович": 0,
-      "Самойлов Александр Иванович": 5,
-      "Севостьянов Виктор Геннадьевич": 3,
-      "Тугушев Анар Эльдар Оглы": 1,
-      "Фельдшеров Дмитрий Александрович": 3,
-      "Юсупов Андрей Владимирович": 3,
-      "Ярушин Юрий Владимирович": 14
+      "gas:candidate-vibid:2452000840183": 17,
+      "gas:candidate-vibid:2452000838643": 8,
+      "gas:candidate-vibid:2452000838217": 0,
+      "gas:candidate-vibid:2452000839012": 5,
+      "gas:candidate-vibid:2452000840515": 3,
+      "gas:candidate-vibid:2452000838278": 1,
+      "gas:candidate-vibid:2452000839974": 3,
+      "gas:candidate-vibid:2452000840145": 3,
+      "gas:candidate-vibid:2452000835984": 14
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kurgan?action=show&root=1000142&tvd=2452000794235&vrn=100100067795849&region=45&global=&sub_region=45&prver=0&pronetvd=null&vibid=2452000794235&type=464",
@@ -3701,15 +3701,15 @@ export const duma_2016_uik_463_region_45_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Ильтяков Александр Владимирович": 25,
-      "Ильчик Андрей Сергеевич": 11,
-      "Кислицын Василий Александрович": 10,
-      "Самойлов Александр Иванович": 3,
-      "Севостьянов Виктор Геннадьевич": 2,
-      "Тугушев Анар Эльдар Оглы": 3,
-      "Фельдшеров Дмитрий Александрович": 3,
-      "Юсупов Андрей Владимирович": 4,
-      "Ярушин Юрий Владимирович": 9
+      "gas:candidate-vibid:2452000840183": 25,
+      "gas:candidate-vibid:2452000838643": 11,
+      "gas:candidate-vibid:2452000838217": 10,
+      "gas:candidate-vibid:2452000839012": 3,
+      "gas:candidate-vibid:2452000840515": 2,
+      "gas:candidate-vibid:2452000838278": 3,
+      "gas:candidate-vibid:2452000839974": 3,
+      "gas:candidate-vibid:2452000840145": 4,
+      "gas:candidate-vibid:2452000835984": 9
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kurgan?action=show&root=1000142&tvd=2452000794235&vrn=100100067795849&region=45&global=&sub_region=45&prver=0&pronetvd=null&vibid=2452000794235&type=464",
@@ -3760,15 +3760,15 @@ export const duma_2016_uik_463_region_45_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Ильтяков Александр Владимирович": 109,
-      "Ильчик Андрей Сергеевич": 16,
-      "Кислицын Василий Александрович": 42,
-      "Самойлов Александр Иванович": 17,
-      "Севостьянов Виктор Геннадьевич": 5,
-      "Тугушев Анар Эльдар Оглы": 6,
-      "Фельдшеров Дмитрий Александрович": 3,
-      "Юсупов Андрей Владимирович": 12,
-      "Ярушин Юрий Владимирович": 28
+      "gas:candidate-vibid:2452000840183": 109,
+      "gas:candidate-vibid:2452000838643": 16,
+      "gas:candidate-vibid:2452000838217": 42,
+      "gas:candidate-vibid:2452000839012": 17,
+      "gas:candidate-vibid:2452000840515": 5,
+      "gas:candidate-vibid:2452000838278": 6,
+      "gas:candidate-vibid:2452000839974": 3,
+      "gas:candidate-vibid:2452000840145": 12,
+      "gas:candidate-vibid:2452000835984": 28
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kurgan?action=show&root=1000142&tvd=2452000794235&vrn=100100067795849&region=45&global=&sub_region=45&prver=0&pronetvd=null&vibid=2452000794235&type=464",
@@ -3819,15 +3819,15 @@ export const duma_2016_uik_463_region_45_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Ильтяков Александр Владимирович": 135,
-      "Ильчик Андрей Сергеевич": 11,
-      "Кислицын Василий Александрович": 8,
-      "Самойлов Александр Иванович": 9,
-      "Севостьянов Виктор Геннадьевич": 6,
-      "Тугушев Анар Эльдар Оглы": 2,
-      "Фельдшеров Дмитрий Александрович": 0,
-      "Юсупов Андрей Владимирович": 5,
-      "Ярушин Юрий Владимирович": 10
+      "gas:candidate-vibid:2452000840183": 135,
+      "gas:candidate-vibid:2452000838643": 11,
+      "gas:candidate-vibid:2452000838217": 8,
+      "gas:candidate-vibid:2452000839012": 9,
+      "gas:candidate-vibid:2452000840515": 6,
+      "gas:candidate-vibid:2452000838278": 2,
+      "gas:candidate-vibid:2452000839974": 0,
+      "gas:candidate-vibid:2452000840145": 5,
+      "gas:candidate-vibid:2452000835984": 10
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kurgan?action=show&root=1000142&tvd=2452000794235&vrn=100100067795849&region=45&global=&sub_region=45&prver=0&pronetvd=null&vibid=2452000794235&type=464",
@@ -3878,15 +3878,15 @@ export const duma_2016_uik_463_region_45_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Ильтяков Александр Владимирович": 38,
-      "Ильчик Андрей Сергеевич": 5,
-      "Кислицын Василий Александрович": 4,
-      "Самойлов Александр Иванович": 6,
-      "Севостьянов Виктор Геннадьевич": 0,
-      "Тугушев Анар Эльдар Оглы": 1,
-      "Фельдшеров Дмитрий Александрович": 0,
-      "Юсупов Андрей Владимирович": 6,
-      "Ярушин Юрий Владимирович": 13
+      "gas:candidate-vibid:2452000840183": 38,
+      "gas:candidate-vibid:2452000838643": 5,
+      "gas:candidate-vibid:2452000838217": 4,
+      "gas:candidate-vibid:2452000839012": 6,
+      "gas:candidate-vibid:2452000840515": 0,
+      "gas:candidate-vibid:2452000838278": 1,
+      "gas:candidate-vibid:2452000839974": 0,
+      "gas:candidate-vibid:2452000840145": 6,
+      "gas:candidate-vibid:2452000835984": 13
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kurgan?action=show&root=1000142&tvd=2452000794235&vrn=100100067795849&region=45&global=&sub_region=45&prver=0&pronetvd=null&vibid=2452000794235&type=464",
@@ -3937,15 +3937,15 @@ export const duma_2016_uik_463_region_45_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Ильтяков Александр Владимирович": 16,
-      "Ильчик Андрей Сергеевич": 4,
-      "Кислицын Василий Александрович": 4,
-      "Самойлов Александр Иванович": 5,
-      "Севостьянов Виктор Геннадьевич": 2,
-      "Тугушев Анар Эльдар Оглы": 2,
-      "Фельдшеров Дмитрий Александрович": 1,
-      "Юсупов Андрей Владимирович": 3,
-      "Ярушин Юрий Владимирович": 5
+      "gas:candidate-vibid:2452000840183": 16,
+      "gas:candidate-vibid:2452000838643": 4,
+      "gas:candidate-vibid:2452000838217": 4,
+      "gas:candidate-vibid:2452000839012": 5,
+      "gas:candidate-vibid:2452000840515": 2,
+      "gas:candidate-vibid:2452000838278": 2,
+      "gas:candidate-vibid:2452000839974": 1,
+      "gas:candidate-vibid:2452000840145": 3,
+      "gas:candidate-vibid:2452000835984": 5
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kurgan?action=show&root=1000142&tvd=2452000794235&vrn=100100067795849&region=45&global=&sub_region=45&prver=0&pronetvd=null&vibid=2452000794235&type=464",
@@ -3996,15 +3996,15 @@ export const duma_2016_uik_463_region_45_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Ильтяков Александр Владимирович": 78,
-      "Ильчик Андрей Сергеевич": 9,
-      "Кислицын Василий Александрович": 50,
-      "Самойлов Александр Иванович": 8,
-      "Севостьянов Виктор Геннадьевич": 1,
-      "Тугушев Анар Эльдар Оглы": 4,
-      "Фельдшеров Дмитрий Александрович": 1,
-      "Юсупов Андрей Владимирович": 2,
-      "Ярушин Юрий Владимирович": 17
+      "gas:candidate-vibid:2452000840183": 78,
+      "gas:candidate-vibid:2452000838643": 9,
+      "gas:candidate-vibid:2452000838217": 50,
+      "gas:candidate-vibid:2452000839012": 8,
+      "gas:candidate-vibid:2452000840515": 1,
+      "gas:candidate-vibid:2452000838278": 4,
+      "gas:candidate-vibid:2452000839974": 1,
+      "gas:candidate-vibid:2452000840145": 2,
+      "gas:candidate-vibid:2452000835984": 17
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kurgan?action=show&root=1000142&tvd=2452000794235&vrn=100100067795849&region=45&global=&sub_region=45&prver=0&pronetvd=null&vibid=2452000794235&type=464",
@@ -4055,15 +4055,15 @@ export const duma_2016_uik_463_region_45_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Ильтяков Александр Владимирович": 112,
-      "Ильчик Андрей Сергеевич": 4,
-      "Кислицын Василий Александрович": 10,
-      "Самойлов Александр Иванович": 5,
-      "Севостьянов Виктор Геннадьевич": 6,
-      "Тугушев Анар Эльдар Оглы": 3,
-      "Фельдшеров Дмитрий Александрович": 0,
-      "Юсупов Андрей Владимирович": 3,
-      "Ярушин Юрий Владимирович": 11
+      "gas:candidate-vibid:2452000840183": 112,
+      "gas:candidate-vibid:2452000838643": 4,
+      "gas:candidate-vibid:2452000838217": 10,
+      "gas:candidate-vibid:2452000839012": 5,
+      "gas:candidate-vibid:2452000840515": 6,
+      "gas:candidate-vibid:2452000838278": 3,
+      "gas:candidate-vibid:2452000839974": 0,
+      "gas:candidate-vibid:2452000840145": 3,
+      "gas:candidate-vibid:2452000835984": 11
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kurgan?action=show&root=1000142&tvd=2452000794235&vrn=100100067795849&region=45&global=&sub_region=45&prver=0&pronetvd=null&vibid=2452000794235&type=464",
@@ -4114,15 +4114,15 @@ export const duma_2016_uik_463_region_45_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Ильтяков Александр Владимирович": 47,
-      "Ильчик Андрей Сергеевич": 2,
-      "Кислицын Василий Александрович": 6,
-      "Самойлов Александр Иванович": 0,
-      "Севостьянов Виктор Геннадьевич": 4,
-      "Тугушев Анар Эльдар Оглы": 0,
-      "Фельдшеров Дмитрий Александрович": 0,
-      "Юсупов Андрей Владимирович": 1,
-      "Ярушин Юрий Владимирович": 12
+      "gas:candidate-vibid:2452000840183": 47,
+      "gas:candidate-vibid:2452000838643": 2,
+      "gas:candidate-vibid:2452000838217": 6,
+      "gas:candidate-vibid:2452000839012": 0,
+      "gas:candidate-vibid:2452000840515": 4,
+      "gas:candidate-vibid:2452000838278": 0,
+      "gas:candidate-vibid:2452000839974": 0,
+      "gas:candidate-vibid:2452000840145": 1,
+      "gas:candidate-vibid:2452000835984": 12
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kurgan?action=show&root=1000142&tvd=2452000794235&vrn=100100067795849&region=45&global=&sub_region=45&prver=0&pronetvd=null&vibid=2452000794235&type=464",
@@ -4173,15 +4173,15 @@ export const duma_2016_uik_463_region_45_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Ильтяков Александр Владимирович": 89,
-      "Ильчик Андрей Сергеевич": 5,
-      "Кислицын Василий Александрович": 28,
-      "Самойлов Александр Иванович": 15,
-      "Севостьянов Виктор Геннадьевич": 1,
-      "Тугушев Анар Эльдар Оглы": 4,
-      "Фельдшеров Дмитрий Александрович": 2,
-      "Юсупов Андрей Владимирович": 3,
-      "Ярушин Юрий Владимирович": 14
+      "gas:candidate-vibid:2452000840183": 89,
+      "gas:candidate-vibid:2452000838643": 5,
+      "gas:candidate-vibid:2452000838217": 28,
+      "gas:candidate-vibid:2452000839012": 15,
+      "gas:candidate-vibid:2452000840515": 1,
+      "gas:candidate-vibid:2452000838278": 4,
+      "gas:candidate-vibid:2452000839974": 2,
+      "gas:candidate-vibid:2452000840145": 3,
+      "gas:candidate-vibid:2452000835984": 14
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kurgan?action=show&root=1000142&tvd=2452000794235&vrn=100100067795849&region=45&global=&sub_region=45&prver=0&pronetvd=null&vibid=2452000794235&type=464",
@@ -4232,15 +4232,15 @@ export const duma_2016_uik_463_region_45_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Ильтяков Александр Владимирович": 38,
-      "Ильчик Андрей Сергеевич": 3,
-      "Кислицын Василий Александрович": 11,
-      "Самойлов Александр Иванович": 6,
-      "Севостьянов Виктор Геннадьевич": 1,
-      "Тугушев Анар Эльдар Оглы": 0,
-      "Фельдшеров Дмитрий Александрович": 2,
-      "Юсупов Андрей Владимирович": 2,
-      "Ярушин Юрий Владимирович": 3
+      "gas:candidate-vibid:2452000840183": 38,
+      "gas:candidate-vibid:2452000838643": 3,
+      "gas:candidate-vibid:2452000838217": 11,
+      "gas:candidate-vibid:2452000839012": 6,
+      "gas:candidate-vibid:2452000840515": 1,
+      "gas:candidate-vibid:2452000838278": 0,
+      "gas:candidate-vibid:2452000839974": 2,
+      "gas:candidate-vibid:2452000840145": 2,
+      "gas:candidate-vibid:2452000835984": 3
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kurgan?action=show&root=1000142&tvd=2452000794235&vrn=100100067795849&region=45&global=&sub_region=45&prver=0&pronetvd=null&vibid=2452000794235&type=464",
@@ -4291,15 +4291,15 @@ export const duma_2016_uik_463_region_45_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Ильтяков Александр Владимирович": 211,
-      "Ильчик Андрей Сергеевич": 24,
-      "Кислицын Василий Александрович": 41,
-      "Самойлов Александр Иванович": 33,
-      "Севостьянов Виктор Геннадьевич": 12,
-      "Тугушев Анар Эльдар Оглы": 11,
-      "Фельдшеров Дмитрий Александрович": 5,
-      "Юсупов Андрей Владимирович": 11,
-      "Ярушин Юрий Владимирович": 26
+      "gas:candidate-vibid:2452000840183": 211,
+      "gas:candidate-vibid:2452000838643": 24,
+      "gas:candidate-vibid:2452000838217": 41,
+      "gas:candidate-vibid:2452000839012": 33,
+      "gas:candidate-vibid:2452000840515": 12,
+      "gas:candidate-vibid:2452000838278": 11,
+      "gas:candidate-vibid:2452000839974": 5,
+      "gas:candidate-vibid:2452000840145": 11,
+      "gas:candidate-vibid:2452000835984": 26
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kurgan?action=show&root=1000142&tvd=2452000794235&vrn=100100067795849&region=45&global=&sub_region=45&prver=0&pronetvd=null&vibid=2452000794235&type=464",
@@ -4350,15 +4350,15 @@ export const duma_2016_uik_463_region_45_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Ильтяков Александр Владимирович": 74,
-      "Ильчик Андрей Сергеевич": 4,
-      "Кислицын Василий Александрович": 12,
-      "Самойлов Александр Иванович": 7,
-      "Севостьянов Виктор Геннадьевич": 0,
-      "Тугушев Анар Эльдар Оглы": 2,
-      "Фельдшеров Дмитрий Александрович": 0,
-      "Юсупов Андрей Владимирович": 1,
-      "Ярушин Юрий Владимирович": 6
+      "gas:candidate-vibid:2452000840183": 74,
+      "gas:candidate-vibid:2452000838643": 4,
+      "gas:candidate-vibid:2452000838217": 12,
+      "gas:candidate-vibid:2452000839012": 7,
+      "gas:candidate-vibid:2452000840515": 0,
+      "gas:candidate-vibid:2452000838278": 2,
+      "gas:candidate-vibid:2452000839974": 0,
+      "gas:candidate-vibid:2452000840145": 1,
+      "gas:candidate-vibid:2452000835984": 6
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kurgan?action=show&root=1000142&tvd=2452000794235&vrn=100100067795849&region=45&global=&sub_region=45&prver=0&pronetvd=null&vibid=2452000794235&type=464",
@@ -4409,15 +4409,15 @@ export const duma_2016_uik_463_region_45_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Ильтяков Александр Владимирович": 171,
-      "Ильчик Андрей Сергеевич": 40,
-      "Кислицын Василий Александрович": 62,
-      "Самойлов Александр Иванович": 9,
-      "Севостьянов Виктор Геннадьевич": 6,
-      "Тугушев Анар Эльдар Оглы": 6,
-      "Фельдшеров Дмитрий Александрович": 6,
-      "Юсупов Андрей Владимирович": 5,
-      "Ярушин Юрий Владимирович": 40
+      "gas:candidate-vibid:2452000840183": 171,
+      "gas:candidate-vibid:2452000838643": 40,
+      "gas:candidate-vibid:2452000838217": 62,
+      "gas:candidate-vibid:2452000839012": 9,
+      "gas:candidate-vibid:2452000840515": 6,
+      "gas:candidate-vibid:2452000838278": 6,
+      "gas:candidate-vibid:2452000839974": 6,
+      "gas:candidate-vibid:2452000840145": 5,
+      "gas:candidate-vibid:2452000835984": 40
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kurgan?action=show&root=1000142&tvd=2452000794236&vrn=100100067795849&region=45&global=&sub_region=45&prver=0&pronetvd=null&vibid=2452000794236&type=464",
@@ -4468,15 +4468,15 @@ export const duma_2016_uik_463_region_45_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Ильтяков Александр Владимирович": 249,
-      "Ильчик Андрей Сергеевич": 43,
-      "Кислицын Василий Александрович": 67,
-      "Самойлов Александр Иванович": 19,
-      "Севостьянов Виктор Геннадьевич": 14,
-      "Тугушев Анар Эльдар Оглы": 10,
-      "Фельдшеров Дмитрий Александрович": 11,
-      "Юсупов Андрей Владимирович": 3,
-      "Ярушин Юрий Владимирович": 45
+      "gas:candidate-vibid:2452000840183": 249,
+      "gas:candidate-vibid:2452000838643": 43,
+      "gas:candidate-vibid:2452000838217": 67,
+      "gas:candidate-vibid:2452000839012": 19,
+      "gas:candidate-vibid:2452000840515": 14,
+      "gas:candidate-vibid:2452000838278": 10,
+      "gas:candidate-vibid:2452000839974": 11,
+      "gas:candidate-vibid:2452000840145": 3,
+      "gas:candidate-vibid:2452000835984": 45
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kurgan?action=show&root=1000142&tvd=2452000794236&vrn=100100067795849&region=45&global=&sub_region=45&prver=0&pronetvd=null&vibid=2452000794236&type=464",
@@ -4527,15 +4527,15 @@ export const duma_2016_uik_463_region_45_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Ильтяков Александр Владимирович": 236,
-      "Ильчик Андрей Сергеевич": 49,
-      "Кислицын Василий Александрович": 55,
-      "Самойлов Александр Иванович": 20,
-      "Севостьянов Виктор Геннадьевич": 8,
-      "Тугушев Анар Эльдар Оглы": 14,
-      "Фельдшеров Дмитрий Александрович": 7,
-      "Юсупов Андрей Владимирович": 8,
-      "Ярушин Юрий Владимирович": 68
+      "gas:candidate-vibid:2452000840183": 236,
+      "gas:candidate-vibid:2452000838643": 49,
+      "gas:candidate-vibid:2452000838217": 55,
+      "gas:candidate-vibid:2452000839012": 20,
+      "gas:candidate-vibid:2452000840515": 8,
+      "gas:candidate-vibid:2452000838278": 14,
+      "gas:candidate-vibid:2452000839974": 7,
+      "gas:candidate-vibid:2452000840145": 8,
+      "gas:candidate-vibid:2452000835984": 68
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kurgan?action=show&root=1000142&tvd=2452000794236&vrn=100100067795849&region=45&global=&sub_region=45&prver=0&pronetvd=null&vibid=2452000794236&type=464",
@@ -4586,15 +4586,15 @@ export const duma_2016_uik_463_region_45_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Ильтяков Александр Владимирович": 212,
-      "Ильчик Андрей Сергеевич": 47,
-      "Кислицын Василий Александрович": 52,
-      "Самойлов Александр Иванович": 8,
-      "Севостьянов Виктор Геннадьевич": 5,
-      "Тугушев Анар Эльдар Оглы": 6,
-      "Фельдшеров Дмитрий Александрович": 6,
-      "Юсупов Андрей Владимирович": 6,
-      "Ярушин Юрий Владимирович": 73
+      "gas:candidate-vibid:2452000840183": 212,
+      "gas:candidate-vibid:2452000838643": 47,
+      "gas:candidate-vibid:2452000838217": 52,
+      "gas:candidate-vibid:2452000839012": 8,
+      "gas:candidate-vibid:2452000840515": 5,
+      "gas:candidate-vibid:2452000838278": 6,
+      "gas:candidate-vibid:2452000839974": 6,
+      "gas:candidate-vibid:2452000840145": 6,
+      "gas:candidate-vibid:2452000835984": 73
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kurgan?action=show&root=1000142&tvd=2452000794236&vrn=100100067795849&region=45&global=&sub_region=45&prver=0&pronetvd=null&vibid=2452000794236&type=464",
@@ -4645,15 +4645,15 @@ export const duma_2016_uik_463_region_45_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Ильтяков Александр Владимирович": 223,
-      "Ильчик Андрей Сергеевич": 28,
-      "Кислицын Василий Александрович": 79,
-      "Самойлов Александр Иванович": 12,
-      "Севостьянов Виктор Геннадьевич": 3,
-      "Тугушев Анар Эльдар Оглы": 12,
-      "Фельдшеров Дмитрий Александрович": 7,
-      "Юсупов Андрей Владимирович": 6,
-      "Ярушин Юрий Владимирович": 50
+      "gas:candidate-vibid:2452000840183": 223,
+      "gas:candidate-vibid:2452000838643": 28,
+      "gas:candidate-vibid:2452000838217": 79,
+      "gas:candidate-vibid:2452000839012": 12,
+      "gas:candidate-vibid:2452000840515": 3,
+      "gas:candidate-vibid:2452000838278": 12,
+      "gas:candidate-vibid:2452000839974": 7,
+      "gas:candidate-vibid:2452000840145": 6,
+      "gas:candidate-vibid:2452000835984": 50
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kurgan?action=show&root=1000142&tvd=2452000794236&vrn=100100067795849&region=45&global=&sub_region=45&prver=0&pronetvd=null&vibid=2452000794236&type=464",
@@ -4704,15 +4704,15 @@ export const duma_2016_uik_463_region_45_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Ильтяков Александр Владимирович": 200,
-      "Ильчик Андрей Сергеевич": 42,
-      "Кислицын Василий Александрович": 81,
-      "Самойлов Александр Иванович": 11,
-      "Севостьянов Виктор Геннадьевич": 8,
-      "Тугушев Анар Эльдар Оглы": 10,
-      "Фельдшеров Дмитрий Александрович": 2,
-      "Юсупов Андрей Владимирович": 9,
-      "Ярушин Юрий Владимирович": 69
+      "gas:candidate-vibid:2452000840183": 200,
+      "gas:candidate-vibid:2452000838643": 42,
+      "gas:candidate-vibid:2452000838217": 81,
+      "gas:candidate-vibid:2452000839012": 11,
+      "gas:candidate-vibid:2452000840515": 8,
+      "gas:candidate-vibid:2452000838278": 10,
+      "gas:candidate-vibid:2452000839974": 2,
+      "gas:candidate-vibid:2452000840145": 9,
+      "gas:candidate-vibid:2452000835984": 69
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kurgan?action=show&root=1000142&tvd=2452000794236&vrn=100100067795849&region=45&global=&sub_region=45&prver=0&pronetvd=null&vibid=2452000794236&type=464",
@@ -4763,15 +4763,15 @@ export const duma_2016_uik_463_region_45_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Ильтяков Александр Владимирович": 187,
-      "Ильчик Андрей Сергеевич": 38,
-      "Кислицын Василий Александрович": 52,
-      "Самойлов Александр Иванович": 12,
-      "Севостьянов Виктор Геннадьевич": 9,
-      "Тугушев Анар Эльдар Оглы": 10,
-      "Фельдшеров Дмитрий Александрович": 3,
-      "Юсупов Андрей Владимирович": 3,
-      "Ярушин Юрий Владимирович": 62
+      "gas:candidate-vibid:2452000840183": 187,
+      "gas:candidate-vibid:2452000838643": 38,
+      "gas:candidate-vibid:2452000838217": 52,
+      "gas:candidate-vibid:2452000839012": 12,
+      "gas:candidate-vibid:2452000840515": 9,
+      "gas:candidate-vibid:2452000838278": 10,
+      "gas:candidate-vibid:2452000839974": 3,
+      "gas:candidate-vibid:2452000840145": 3,
+      "gas:candidate-vibid:2452000835984": 62
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kurgan?action=show&root=1000142&tvd=2452000794236&vrn=100100067795849&region=45&global=&sub_region=45&prver=0&pronetvd=null&vibid=2452000794236&type=464",
@@ -4822,15 +4822,15 @@ export const duma_2016_uik_463_region_45_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Ильтяков Александр Владимирович": 278,
-      "Ильчик Андрей Сергеевич": 38,
-      "Кислицын Василий Александрович": 69,
-      "Самойлов Александр Иванович": 20,
-      "Севостьянов Виктор Геннадьевич": 5,
-      "Тугушев Анар Эльдар Оглы": 10,
-      "Фельдшеров Дмитрий Александрович": 5,
-      "Юсупов Андрей Владимирович": 11,
-      "Ярушин Юрий Владимирович": 67
+      "gas:candidate-vibid:2452000840183": 278,
+      "gas:candidate-vibid:2452000838643": 38,
+      "gas:candidate-vibid:2452000838217": 69,
+      "gas:candidate-vibid:2452000839012": 20,
+      "gas:candidate-vibid:2452000840515": 5,
+      "gas:candidate-vibid:2452000838278": 10,
+      "gas:candidate-vibid:2452000839974": 5,
+      "gas:candidate-vibid:2452000840145": 11,
+      "gas:candidate-vibid:2452000835984": 67
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kurgan?action=show&root=1000142&tvd=2452000794236&vrn=100100067795849&region=45&global=&sub_region=45&prver=0&pronetvd=null&vibid=2452000794236&type=464",
@@ -4881,15 +4881,15 @@ export const duma_2016_uik_463_region_45_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Ильтяков Александр Владимирович": 273,
-      "Ильчик Андрей Сергеевич": 30,
-      "Кислицын Василий Александрович": 74,
-      "Самойлов Александр Иванович": 24,
-      "Севостьянов Виктор Геннадьевич": 4,
-      "Тугушев Анар Эльдар Оглы": 9,
-      "Фельдшеров Дмитрий Александрович": 2,
-      "Юсупов Андрей Владимирович": 9,
-      "Ярушин Юрий Владимирович": 58
+      "gas:candidate-vibid:2452000840183": 273,
+      "gas:candidate-vibid:2452000838643": 30,
+      "gas:candidate-vibid:2452000838217": 74,
+      "gas:candidate-vibid:2452000839012": 24,
+      "gas:candidate-vibid:2452000840515": 4,
+      "gas:candidate-vibid:2452000838278": 9,
+      "gas:candidate-vibid:2452000839974": 2,
+      "gas:candidate-vibid:2452000840145": 9,
+      "gas:candidate-vibid:2452000835984": 58
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kurgan?action=show&root=1000142&tvd=2452000794236&vrn=100100067795849&region=45&global=&sub_region=45&prver=0&pronetvd=null&vibid=2452000794236&type=464",
@@ -4940,15 +4940,15 @@ export const duma_2016_uik_463_region_45_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Ильтяков Александр Владимирович": 126,
-      "Ильчик Андрей Сергеевич": 22,
-      "Кислицын Василий Александрович": 43,
-      "Самойлов Александр Иванович": 9,
-      "Севостьянов Виктор Геннадьевич": 3,
-      "Тугушев Анар Эльдар Оглы": 6,
-      "Фельдшеров Дмитрий Александрович": 6,
-      "Юсупов Андрей Владимирович": 7,
-      "Ярушин Юрий Владимирович": 49
+      "gas:candidate-vibid:2452000840183": 126,
+      "gas:candidate-vibid:2452000838643": 22,
+      "gas:candidate-vibid:2452000838217": 43,
+      "gas:candidate-vibid:2452000839012": 9,
+      "gas:candidate-vibid:2452000840515": 3,
+      "gas:candidate-vibid:2452000838278": 6,
+      "gas:candidate-vibid:2452000839974": 6,
+      "gas:candidate-vibid:2452000840145": 7,
+      "gas:candidate-vibid:2452000835984": 49
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kurgan?action=show&root=1000142&tvd=2452000794236&vrn=100100067795849&region=45&global=&sub_region=45&prver=0&pronetvd=null&vibid=2452000794236&type=464",
@@ -4999,15 +4999,15 @@ export const duma_2016_uik_463_region_45_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Ильтяков Александр Владимирович": 232,
-      "Ильчик Андрей Сергеевич": 28,
-      "Кислицын Василий Александрович": 85,
-      "Самойлов Александр Иванович": 24,
-      "Севостьянов Виктор Геннадьевич": 9,
-      "Тугушев Анар Эльдар Оглы": 14,
-      "Фельдшеров Дмитрий Александрович": 5,
-      "Юсупов Андрей Владимирович": 8,
-      "Ярушин Юрий Владимирович": 66
+      "gas:candidate-vibid:2452000840183": 232,
+      "gas:candidate-vibid:2452000838643": 28,
+      "gas:candidate-vibid:2452000838217": 85,
+      "gas:candidate-vibid:2452000839012": 24,
+      "gas:candidate-vibid:2452000840515": 9,
+      "gas:candidate-vibid:2452000838278": 14,
+      "gas:candidate-vibid:2452000839974": 5,
+      "gas:candidate-vibid:2452000840145": 8,
+      "gas:candidate-vibid:2452000835984": 66
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kurgan?action=show&root=1000142&tvd=2452000794236&vrn=100100067795849&region=45&global=&sub_region=45&prver=0&pronetvd=null&vibid=2452000794236&type=464",
@@ -5058,15 +5058,15 @@ export const duma_2016_uik_463_region_45_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Ильтяков Александр Владимирович": 374,
-      "Ильчик Андрей Сергеевич": 52,
-      "Кислицын Василий Александрович": 108,
-      "Самойлов Александр Иванович": 27,
-      "Севостьянов Виктор Геннадьевич": 9,
-      "Тугушев Анар Эльдар Оглы": 27,
-      "Фельдшеров Дмитрий Александрович": 5,
-      "Юсупов Андрей Владимирович": 14,
-      "Ярушин Юрий Владимирович": 79
+      "gas:candidate-vibid:2452000840183": 374,
+      "gas:candidate-vibid:2452000838643": 52,
+      "gas:candidate-vibid:2452000838217": 108,
+      "gas:candidate-vibid:2452000839012": 27,
+      "gas:candidate-vibid:2452000840515": 9,
+      "gas:candidate-vibid:2452000838278": 27,
+      "gas:candidate-vibid:2452000839974": 5,
+      "gas:candidate-vibid:2452000840145": 14,
+      "gas:candidate-vibid:2452000835984": 79
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kurgan?action=show&root=1000142&tvd=2452000794236&vrn=100100067795849&region=45&global=&sub_region=45&prver=0&pronetvd=null&vibid=2452000794236&type=464",
@@ -5117,15 +5117,15 @@ export const duma_2016_uik_463_region_45_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Ильтяков Александр Владимирович": 48,
-      "Ильчик Андрей Сергеевич": 5,
-      "Кислицын Василий Александрович": 23,
-      "Самойлов Александр Иванович": 3,
-      "Севостьянов Виктор Геннадьевич": 2,
-      "Тугушев Анар Эльдар Оглы": 1,
-      "Фельдшеров Дмитрий Александрович": 2,
-      "Юсупов Андрей Владимирович": 1,
-      "Ярушин Юрий Владимирович": 12
+      "gas:candidate-vibid:2452000840183": 48,
+      "gas:candidate-vibid:2452000838643": 5,
+      "gas:candidate-vibid:2452000838217": 23,
+      "gas:candidate-vibid:2452000839012": 3,
+      "gas:candidate-vibid:2452000840515": 2,
+      "gas:candidate-vibid:2452000838278": 1,
+      "gas:candidate-vibid:2452000839974": 2,
+      "gas:candidate-vibid:2452000840145": 1,
+      "gas:candidate-vibid:2452000835984": 12
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kurgan?action=show&root=1000142&tvd=2452000794236&vrn=100100067795849&region=45&global=&sub_region=45&prver=0&pronetvd=null&vibid=2452000794236&type=464",
@@ -5176,15 +5176,15 @@ export const duma_2016_uik_463_region_45_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Ильтяков Александр Владимирович": 125,
-      "Ильчик Андрей Сергеевич": 21,
-      "Кислицын Василий Александрович": 58,
-      "Самойлов Александр Иванович": 19,
-      "Севостьянов Виктор Геннадьевич": 7,
-      "Тугушев Анар Эльдар Оглы": 5,
-      "Фельдшеров Дмитрий Александрович": 4,
-      "Юсупов Андрей Владимирович": 5,
-      "Ярушин Юрий Владимирович": 37
+      "gas:candidate-vibid:2452000840183": 125,
+      "gas:candidate-vibid:2452000838643": 21,
+      "gas:candidate-vibid:2452000838217": 58,
+      "gas:candidate-vibid:2452000839012": 19,
+      "gas:candidate-vibid:2452000840515": 7,
+      "gas:candidate-vibid:2452000838278": 5,
+      "gas:candidate-vibid:2452000839974": 4,
+      "gas:candidate-vibid:2452000840145": 5,
+      "gas:candidate-vibid:2452000835984": 37
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kurgan?action=show&root=1000142&tvd=2452000794236&vrn=100100067795849&region=45&global=&sub_region=45&prver=0&pronetvd=null&vibid=2452000794236&type=464",
@@ -5235,15 +5235,15 @@ export const duma_2016_uik_463_region_45_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Ильтяков Александр Владимирович": 186,
-      "Ильчик Андрей Сергеевич": 17,
-      "Кислицын Василий Александрович": 51,
-      "Самойлов Александр Иванович": 16,
-      "Севостьянов Виктор Геннадьевич": 6,
-      "Тугушев Анар Эльдар Оглы": 10,
-      "Фельдшеров Дмитрий Александрович": 5,
-      "Юсупов Андрей Владимирович": 8,
-      "Ярушин Юрий Владимирович": 36
+      "gas:candidate-vibid:2452000840183": 186,
+      "gas:candidate-vibid:2452000838643": 17,
+      "gas:candidate-vibid:2452000838217": 51,
+      "gas:candidate-vibid:2452000839012": 16,
+      "gas:candidate-vibid:2452000840515": 6,
+      "gas:candidate-vibid:2452000838278": 10,
+      "gas:candidate-vibid:2452000839974": 5,
+      "gas:candidate-vibid:2452000840145": 8,
+      "gas:candidate-vibid:2452000835984": 36
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kurgan?action=show&root=1000142&tvd=2452000794236&vrn=100100067795849&region=45&global=&sub_region=45&prver=0&pronetvd=null&vibid=2452000794236&type=464",
@@ -5294,15 +5294,15 @@ export const duma_2016_uik_463_region_45_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Ильтяков Александр Владимирович": 117,
-      "Ильчик Андрей Сергеевич": 7,
-      "Кислицын Василий Александрович": 25,
-      "Самойлов Александр Иванович": 5,
-      "Севостьянов Виктор Геннадьевич": 6,
-      "Тугушев Анар Эльдар Оглы": 3,
-      "Фельдшеров Дмитрий Александрович": 1,
-      "Юсупов Андрей Владимирович": 2,
-      "Ярушин Юрий Владимирович": 28
+      "gas:candidate-vibid:2452000840183": 117,
+      "gas:candidate-vibid:2452000838643": 7,
+      "gas:candidate-vibid:2452000838217": 25,
+      "gas:candidate-vibid:2452000839012": 5,
+      "gas:candidate-vibid:2452000840515": 6,
+      "gas:candidate-vibid:2452000838278": 3,
+      "gas:candidate-vibid:2452000839974": 1,
+      "gas:candidate-vibid:2452000840145": 2,
+      "gas:candidate-vibid:2452000835984": 28
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kurgan?action=show&root=1000142&tvd=2452000794236&vrn=100100067795849&region=45&global=&sub_region=45&prver=0&pronetvd=null&vibid=2452000794236&type=464",
@@ -5353,15 +5353,15 @@ export const duma_2016_uik_463_region_45_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Ильтяков Александр Владимирович": 158,
-      "Ильчик Андрей Сергеевич": 7,
-      "Кислицын Василий Александрович": 82,
-      "Самойлов Александр Иванович": 6,
-      "Севостьянов Виктор Геннадьевич": 6,
-      "Тугушев Анар Эльдар Оглы": 8,
-      "Фельдшеров Дмитрий Александрович": 4,
-      "Юсупов Андрей Владимирович": 5,
-      "Ярушин Юрий Владимирович": 46
+      "gas:candidate-vibid:2452000840183": 158,
+      "gas:candidate-vibid:2452000838643": 7,
+      "gas:candidate-vibid:2452000838217": 82,
+      "gas:candidate-vibid:2452000839012": 6,
+      "gas:candidate-vibid:2452000840515": 6,
+      "gas:candidate-vibid:2452000838278": 8,
+      "gas:candidate-vibid:2452000839974": 4,
+      "gas:candidate-vibid:2452000840145": 5,
+      "gas:candidate-vibid:2452000835984": 46
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kurgan?action=show&root=1000142&tvd=2452000794236&vrn=100100067795849&region=45&global=&sub_region=45&prver=0&pronetvd=null&vibid=2452000794236&type=464",
@@ -5412,15 +5412,15 @@ export const duma_2016_uik_463_region_45_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Ильтяков Александр Владимирович": 177,
-      "Ильчик Андрей Сергеевич": 15,
-      "Кислицын Василий Александрович": 50,
-      "Самойлов Александр Иванович": 13,
-      "Севостьянов Виктор Геннадьевич": 9,
-      "Тугушев Анар Эльдар Оглы": 10,
-      "Фельдшеров Дмитрий Александрович": 2,
-      "Юсупов Андрей Владимирович": 7,
-      "Ярушин Юрий Владимирович": 34
+      "gas:candidate-vibid:2452000840183": 177,
+      "gas:candidate-vibid:2452000838643": 15,
+      "gas:candidate-vibid:2452000838217": 50,
+      "gas:candidate-vibid:2452000839012": 13,
+      "gas:candidate-vibid:2452000840515": 9,
+      "gas:candidate-vibid:2452000838278": 10,
+      "gas:candidate-vibid:2452000839974": 2,
+      "gas:candidate-vibid:2452000840145": 7,
+      "gas:candidate-vibid:2452000835984": 34
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kurgan?action=show&root=1000142&tvd=2452000794236&vrn=100100067795849&region=45&global=&sub_region=45&prver=0&pronetvd=null&vibid=2452000794236&type=464",
@@ -5471,15 +5471,15 @@ export const duma_2016_uik_463_region_45_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Ильтяков Александр Владимирович": 64,
-      "Ильчик Андрей Сергеевич": 12,
-      "Кислицын Василий Александрович": 14,
-      "Самойлов Александр Иванович": 3,
-      "Севостьянов Виктор Геннадьевич": 3,
-      "Тугушев Анар Эльдар Оглы": 1,
-      "Фельдшеров Дмитрий Александрович": 2,
-      "Юсупов Андрей Владимирович": 3,
-      "Ярушин Юрий Владимирович": 8
+      "gas:candidate-vibid:2452000840183": 64,
+      "gas:candidate-vibid:2452000838643": 12,
+      "gas:candidate-vibid:2452000838217": 14,
+      "gas:candidate-vibid:2452000839012": 3,
+      "gas:candidate-vibid:2452000840515": 3,
+      "gas:candidate-vibid:2452000838278": 1,
+      "gas:candidate-vibid:2452000839974": 2,
+      "gas:candidate-vibid:2452000840145": 3,
+      "gas:candidate-vibid:2452000835984": 8
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kurgan?action=show&root=1000142&tvd=2452000794236&vrn=100100067795849&region=45&global=&sub_region=45&prver=0&pronetvd=null&vibid=2452000794236&type=464",
@@ -5530,15 +5530,15 @@ export const duma_2016_uik_463_region_45_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Ильтяков Александр Владимирович": 57,
-      "Ильчик Андрей Сергеевич": 8,
-      "Кислицын Василий Александрович": 6,
-      "Самойлов Александр Иванович": 4,
-      "Севостьянов Виктор Геннадьевич": 3,
-      "Тугушев Анар Эльдар Оглы": 2,
-      "Фельдшеров Дмитрий Александрович": 0,
-      "Юсупов Андрей Владимирович": 2,
-      "Ярушин Юрий Владимирович": 9
+      "gas:candidate-vibid:2452000840183": 57,
+      "gas:candidate-vibid:2452000838643": 8,
+      "gas:candidate-vibid:2452000838217": 6,
+      "gas:candidate-vibid:2452000839012": 4,
+      "gas:candidate-vibid:2452000840515": 3,
+      "gas:candidate-vibid:2452000838278": 2,
+      "gas:candidate-vibid:2452000839974": 0,
+      "gas:candidate-vibid:2452000840145": 2,
+      "gas:candidate-vibid:2452000835984": 9
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kurgan?action=show&root=1000142&tvd=2452000794236&vrn=100100067795849&region=45&global=&sub_region=45&prver=0&pronetvd=null&vibid=2452000794236&type=464",
@@ -5589,15 +5589,15 @@ export const duma_2016_uik_463_region_45_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Ильтяков Александр Владимирович": 152,
-      "Ильчик Андрей Сергеевич": 14,
-      "Кислицын Василий Александрович": 44,
-      "Самойлов Александр Иванович": 16,
-      "Севостьянов Виктор Геннадьевич": 8,
-      "Тугушев Анар Эльдар Оглы": 4,
-      "Фельдшеров Дмитрий Александрович": 1,
-      "Юсупов Андрей Владимирович": 6,
-      "Ярушин Юрий Владимирович": 31
+      "gas:candidate-vibid:2452000840183": 152,
+      "gas:candidate-vibid:2452000838643": 14,
+      "gas:candidate-vibid:2452000838217": 44,
+      "gas:candidate-vibid:2452000839012": 16,
+      "gas:candidate-vibid:2452000840515": 8,
+      "gas:candidate-vibid:2452000838278": 4,
+      "gas:candidate-vibid:2452000839974": 1,
+      "gas:candidate-vibid:2452000840145": 6,
+      "gas:candidate-vibid:2452000835984": 31
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kurgan?action=show&root=1000142&tvd=2452000794236&vrn=100100067795849&region=45&global=&sub_region=45&prver=0&pronetvd=null&vibid=2452000794236&type=464",
@@ -5648,15 +5648,15 @@ export const duma_2016_uik_463_region_45_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Ильтяков Александр Владимирович": 94,
-      "Ильчик Андрей Сергеевич": 21,
-      "Кислицын Василий Александрович": 34,
-      "Самойлов Александр Иванович": 0,
-      "Севостьянов Виктор Геннадьевич": 3,
-      "Тугушев Анар Эльдар Оглы": 3,
-      "Фельдшеров Дмитрий Александрович": 2,
-      "Юсупов Андрей Владимирович": 1,
-      "Ярушин Юрий Владимирович": 19
+      "gas:candidate-vibid:2452000840183": 94,
+      "gas:candidate-vibid:2452000838643": 21,
+      "gas:candidate-vibid:2452000838217": 34,
+      "gas:candidate-vibid:2452000839012": 0,
+      "gas:candidate-vibid:2452000840515": 3,
+      "gas:candidate-vibid:2452000838278": 3,
+      "gas:candidate-vibid:2452000839974": 2,
+      "gas:candidate-vibid:2452000840145": 1,
+      "gas:candidate-vibid:2452000835984": 19
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kurgan?action=show&root=1000142&tvd=2452000794236&vrn=100100067795849&region=45&global=&sub_region=45&prver=0&pronetvd=null&vibid=2452000794236&type=464",
@@ -5707,15 +5707,15 @@ export const duma_2016_uik_463_region_45_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Ильтяков Александр Владимирович": 157,
-      "Ильчик Андрей Сергеевич": 15,
-      "Кислицын Василий Александрович": 24,
-      "Самойлов Александр Иванович": 6,
-      "Севостьянов Виктор Геннадьевич": 3,
-      "Тугушев Анар Эльдар Оглы": 7,
-      "Фельдшеров Дмитрий Александрович": 4,
-      "Юсупов Андрей Владимирович": 3,
-      "Ярушин Юрий Владимирович": 19
+      "gas:candidate-vibid:2452000840183": 157,
+      "gas:candidate-vibid:2452000838643": 15,
+      "gas:candidate-vibid:2452000838217": 24,
+      "gas:candidate-vibid:2452000839012": 6,
+      "gas:candidate-vibid:2452000840515": 3,
+      "gas:candidate-vibid:2452000838278": 7,
+      "gas:candidate-vibid:2452000839974": 4,
+      "gas:candidate-vibid:2452000840145": 3,
+      "gas:candidate-vibid:2452000835984": 19
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kurgan?action=show&root=1000142&tvd=2452000794236&vrn=100100067795849&region=45&global=&sub_region=45&prver=0&pronetvd=null&vibid=2452000794236&type=464",
@@ -5766,15 +5766,15 @@ export const duma_2016_uik_463_region_45_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Ильтяков Александр Владимирович": 99,
-      "Ильчик Андрей Сергеевич": 10,
-      "Кислицын Василий Александрович": 37,
-      "Самойлов Александр Иванович": 11,
-      "Севостьянов Виктор Геннадьевич": 2,
-      "Тугушев Анар Эльдар Оглы": 5,
-      "Фельдшеров Дмитрий Александрович": 0,
-      "Юсупов Андрей Владимирович": 2,
-      "Ярушин Юрий Владимирович": 12
+      "gas:candidate-vibid:2452000840183": 99,
+      "gas:candidate-vibid:2452000838643": 10,
+      "gas:candidate-vibid:2452000838217": 37,
+      "gas:candidate-vibid:2452000839012": 11,
+      "gas:candidate-vibid:2452000840515": 2,
+      "gas:candidate-vibid:2452000838278": 5,
+      "gas:candidate-vibid:2452000839974": 0,
+      "gas:candidate-vibid:2452000840145": 2,
+      "gas:candidate-vibid:2452000835984": 12
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kurgan?action=show&root=1000142&tvd=2452000794236&vrn=100100067795849&region=45&global=&sub_region=45&prver=0&pronetvd=null&vibid=2452000794236&type=464",
@@ -5825,15 +5825,15 @@ export const duma_2016_uik_463_region_45_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Ильтяков Александр Владимирович": 151,
-      "Ильчик Андрей Сергеевич": 7,
-      "Кислицын Василий Александрович": 31,
-      "Самойлов Александр Иванович": 9,
-      "Севостьянов Виктор Геннадьевич": 5,
-      "Тугушев Анар Эльдар Оглы": 7,
-      "Фельдшеров Дмитрий Александрович": 3,
-      "Юсупов Андрей Владимирович": 7,
-      "Ярушин Юрий Владимирович": 33
+      "gas:candidate-vibid:2452000840183": 151,
+      "gas:candidate-vibid:2452000838643": 7,
+      "gas:candidate-vibid:2452000838217": 31,
+      "gas:candidate-vibid:2452000839012": 9,
+      "gas:candidate-vibid:2452000840515": 5,
+      "gas:candidate-vibid:2452000838278": 7,
+      "gas:candidate-vibid:2452000839974": 3,
+      "gas:candidate-vibid:2452000840145": 7,
+      "gas:candidate-vibid:2452000835984": 33
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kurgan?action=show&root=1000142&tvd=2452000794236&vrn=100100067795849&region=45&global=&sub_region=45&prver=0&pronetvd=null&vibid=2452000794236&type=464",
@@ -5884,15 +5884,15 @@ export const duma_2016_uik_463_region_45_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Ильтяков Александр Владимирович": 73,
-      "Ильчик Андрей Сергеевич": 6,
-      "Кислицын Василий Александрович": 18,
-      "Самойлов Александр Иванович": 5,
-      "Севостьянов Виктор Геннадьевич": 5,
-      "Тугушев Анар Эльдар Оглы": 6,
-      "Фельдшеров Дмитрий Александрович": 1,
-      "Юсупов Андрей Владимирович": 2,
-      "Ярушин Юрий Владимирович": 20
+      "gas:candidate-vibid:2452000840183": 73,
+      "gas:candidate-vibid:2452000838643": 6,
+      "gas:candidate-vibid:2452000838217": 18,
+      "gas:candidate-vibid:2452000839012": 5,
+      "gas:candidate-vibid:2452000840515": 5,
+      "gas:candidate-vibid:2452000838278": 6,
+      "gas:candidate-vibid:2452000839974": 1,
+      "gas:candidate-vibid:2452000840145": 2,
+      "gas:candidate-vibid:2452000835984": 20
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kurgan?action=show&root=1000142&tvd=2452000794236&vrn=100100067795849&region=45&global=&sub_region=45&prver=0&pronetvd=null&vibid=2452000794236&type=464",
@@ -5943,15 +5943,15 @@ export const duma_2016_uik_463_region_45_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Ильтяков Александр Владимирович": 79,
-      "Ильчик Андрей Сергеевич": 16,
-      "Кислицын Василий Александрович": 58,
-      "Самойлов Александр Иванович": 7,
-      "Севостьянов Виктор Геннадьевич": 6,
-      "Тугушев Анар Эльдар Оглы": 6,
-      "Фельдшеров Дмитрий Александрович": 4,
-      "Юсупов Андрей Владимирович": 3,
-      "Ярушин Юрий Владимирович": 17
+      "gas:candidate-vibid:2452000840183": 79,
+      "gas:candidate-vibid:2452000838643": 16,
+      "gas:candidate-vibid:2452000838217": 58,
+      "gas:candidate-vibid:2452000839012": 7,
+      "gas:candidate-vibid:2452000840515": 6,
+      "gas:candidate-vibid:2452000838278": 6,
+      "gas:candidate-vibid:2452000839974": 4,
+      "gas:candidate-vibid:2452000840145": 3,
+      "gas:candidate-vibid:2452000835984": 17
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kurgan?action=show&root=1000142&tvd=2452000794236&vrn=100100067795849&region=45&global=&sub_region=45&prver=0&pronetvd=null&vibid=2452000794236&type=464",
@@ -6002,15 +6002,15 @@ export const duma_2016_uik_463_region_45_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Ильтяков Александр Владимирович": 66,
-      "Ильчик Андрей Сергеевич": 11,
-      "Кислицын Василий Александрович": 25,
-      "Самойлов Александр Иванович": 8,
-      "Севостьянов Виктор Геннадьевич": 5,
-      "Тугушев Анар Эльдар Оглы": 4,
-      "Фельдшеров Дмитрий Александрович": 1,
-      "Юсупов Андрей Владимирович": 5,
-      "Ярушин Юрий Владимирович": 29
+      "gas:candidate-vibid:2452000840183": 66,
+      "gas:candidate-vibid:2452000838643": 11,
+      "gas:candidate-vibid:2452000838217": 25,
+      "gas:candidate-vibid:2452000839012": 8,
+      "gas:candidate-vibid:2452000840515": 5,
+      "gas:candidate-vibid:2452000838278": 4,
+      "gas:candidate-vibid:2452000839974": 1,
+      "gas:candidate-vibid:2452000840145": 5,
+      "gas:candidate-vibid:2452000835984": 29
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kurgan?action=show&root=1000142&tvd=2452000794236&vrn=100100067795849&region=45&global=&sub_region=45&prver=0&pronetvd=null&vibid=2452000794236&type=464",
@@ -6061,15 +6061,15 @@ export const duma_2016_uik_463_region_45_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Ильтяков Александр Владимирович": 119,
-      "Ильчик Андрей Сергеевич": 9,
-      "Кислицын Василий Александрович": 28,
-      "Самойлов Александр Иванович": 14,
-      "Севостьянов Виктор Геннадьевич": 9,
-      "Тугушев Анар Эльдар Оглы": 6,
-      "Фельдшеров Дмитрий Александрович": 1,
-      "Юсупов Андрей Владимирович": 5,
-      "Ярушин Юрий Владимирович": 35
+      "gas:candidate-vibid:2452000840183": 119,
+      "gas:candidate-vibid:2452000838643": 9,
+      "gas:candidate-vibid:2452000838217": 28,
+      "gas:candidate-vibid:2452000839012": 14,
+      "gas:candidate-vibid:2452000840515": 9,
+      "gas:candidate-vibid:2452000838278": 6,
+      "gas:candidate-vibid:2452000839974": 1,
+      "gas:candidate-vibid:2452000840145": 5,
+      "gas:candidate-vibid:2452000835984": 35
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kurgan?action=show&root=1000142&tvd=2452000794236&vrn=100100067795849&region=45&global=&sub_region=45&prver=0&pronetvd=null&vibid=2452000794236&type=464",
@@ -6120,15 +6120,15 @@ export const duma_2016_uik_463_region_45_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Ильтяков Александр Владимирович": 122,
-      "Ильчик Андрей Сергеевич": 11,
-      "Кислицын Василий Александрович": 29,
-      "Самойлов Александр Иванович": 15,
-      "Севостьянов Виктор Геннадьевич": 9,
-      "Тугушев Анар Эльдар Оглы": 8,
-      "Фельдшеров Дмитрий Александрович": 3,
-      "Юсупов Андрей Владимирович": 7,
-      "Ярушин Юрий Владимирович": 48
+      "gas:candidate-vibid:2452000840183": 122,
+      "gas:candidate-vibid:2452000838643": 11,
+      "gas:candidate-vibid:2452000838217": 29,
+      "gas:candidate-vibid:2452000839012": 15,
+      "gas:candidate-vibid:2452000840515": 9,
+      "gas:candidate-vibid:2452000838278": 8,
+      "gas:candidate-vibid:2452000839974": 3,
+      "gas:candidate-vibid:2452000840145": 7,
+      "gas:candidate-vibid:2452000835984": 48
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kurgan?action=show&root=1000142&tvd=2452000794236&vrn=100100067795849&region=45&global=&sub_region=45&prver=0&pronetvd=null&vibid=2452000794236&type=464",
@@ -6179,15 +6179,15 @@ export const duma_2016_uik_463_region_45_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Ильтяков Александр Владимирович": 88,
-      "Ильчик Андрей Сергеевич": 8,
-      "Кислицын Василий Александрович": 29,
-      "Самойлов Александр Иванович": 12,
-      "Севостьянов Виктор Геннадьевич": 4,
-      "Тугушев Анар Эльдар Оглы": 4,
-      "Фельдшеров Дмитрий Александрович": 2,
-      "Юсупов Андрей Владимирович": 2,
-      "Ярушин Юрий Владимирович": 15
+      "gas:candidate-vibid:2452000840183": 88,
+      "gas:candidate-vibid:2452000838643": 8,
+      "gas:candidate-vibid:2452000838217": 29,
+      "gas:candidate-vibid:2452000839012": 12,
+      "gas:candidate-vibid:2452000840515": 4,
+      "gas:candidate-vibid:2452000838278": 4,
+      "gas:candidate-vibid:2452000839974": 2,
+      "gas:candidate-vibid:2452000840145": 2,
+      "gas:candidate-vibid:2452000835984": 15
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kurgan?action=show&root=1000142&tvd=2452000794236&vrn=100100067795849&region=45&global=&sub_region=45&prver=0&pronetvd=null&vibid=2452000794236&type=464",
@@ -6238,15 +6238,15 @@ export const duma_2016_uik_463_region_45_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Ильтяков Александр Владимирович": 110,
-      "Ильчик Андрей Сергеевич": 8,
-      "Кислицын Василий Александрович": 23,
-      "Самойлов Александр Иванович": 8,
-      "Севостьянов Виктор Геннадьевич": 5,
-      "Тугушев Анар Эльдар Оглы": 7,
-      "Фельдшеров Дмитрий Александрович": 0,
-      "Юсупов Андрей Владимирович": 6,
-      "Ярушин Юрий Владимирович": 37
+      "gas:candidate-vibid:2452000840183": 110,
+      "gas:candidate-vibid:2452000838643": 8,
+      "gas:candidate-vibid:2452000838217": 23,
+      "gas:candidate-vibid:2452000839012": 8,
+      "gas:candidate-vibid:2452000840515": 5,
+      "gas:candidate-vibid:2452000838278": 7,
+      "gas:candidate-vibid:2452000839974": 0,
+      "gas:candidate-vibid:2452000840145": 6,
+      "gas:candidate-vibid:2452000835984": 37
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kurgan?action=show&root=1000142&tvd=2452000794236&vrn=100100067795849&region=45&global=&sub_region=45&prver=0&pronetvd=null&vibid=2452000794236&type=464",
@@ -6297,15 +6297,15 @@ export const duma_2016_uik_463_region_45_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Ильтяков Александр Владимирович": 41,
-      "Ильчик Андрей Сергеевич": 6,
-      "Кислицын Василий Александрович": 17,
-      "Самойлов Александр Иванович": 2,
-      "Севостьянов Виктор Геннадьевич": 1,
-      "Тугушев Анар Эльдар Оглы": 3,
-      "Фельдшеров Дмитрий Александрович": 1,
-      "Юсупов Андрей Владимирович": 2,
-      "Ярушин Юрий Владимирович": 12
+      "gas:candidate-vibid:2452000840183": 41,
+      "gas:candidate-vibid:2452000838643": 6,
+      "gas:candidate-vibid:2452000838217": 17,
+      "gas:candidate-vibid:2452000839012": 2,
+      "gas:candidate-vibid:2452000840515": 1,
+      "gas:candidate-vibid:2452000838278": 3,
+      "gas:candidate-vibid:2452000839974": 1,
+      "gas:candidate-vibid:2452000840145": 2,
+      "gas:candidate-vibid:2452000835984": 12
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kurgan?action=show&root=1000142&tvd=2452000794236&vrn=100100067795849&region=45&global=&sub_region=45&prver=0&pronetvd=null&vibid=2452000794236&type=464",
@@ -6356,15 +6356,15 @@ export const duma_2016_uik_463_region_45_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Ильтяков Александр Владимирович": 124,
-      "Ильчик Андрей Сергеевич": 9,
-      "Кислицын Василий Александрович": 47,
-      "Самойлов Александр Иванович": 8,
-      "Севостьянов Виктор Геннадьевич": 4,
-      "Тугушев Анар Эльдар Оглы": 5,
-      "Фельдшеров Дмитрий Александрович": 2,
-      "Юсупов Андрей Владимирович": 6,
-      "Ярушин Юрий Владимирович": 26
+      "gas:candidate-vibid:2452000840183": 124,
+      "gas:candidate-vibid:2452000838643": 9,
+      "gas:candidate-vibid:2452000838217": 47,
+      "gas:candidate-vibid:2452000839012": 8,
+      "gas:candidate-vibid:2452000840515": 4,
+      "gas:candidate-vibid:2452000838278": 5,
+      "gas:candidate-vibid:2452000839974": 2,
+      "gas:candidate-vibid:2452000840145": 6,
+      "gas:candidate-vibid:2452000835984": 26
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kurgan?action=show&root=1000142&tvd=2452000794236&vrn=100100067795849&region=45&global=&sub_region=45&prver=0&pronetvd=null&vibid=2452000794236&type=464",
@@ -6415,15 +6415,15 @@ export const duma_2016_uik_463_region_45_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Ильтяков Александр Владимирович": 63,
-      "Ильчик Андрей Сергеевич": 6,
-      "Кислицын Василий Александрович": 20,
-      "Самойлов Александр Иванович": 7,
-      "Севостьянов Виктор Геннадьевич": 5,
-      "Тугушев Анар Эльдар Оглы": 9,
-      "Фельдшеров Дмитрий Александрович": 1,
-      "Юсупов Андрей Владимирович": 4,
-      "Ярушин Юрий Владимирович": 16
+      "gas:candidate-vibid:2452000840183": 63,
+      "gas:candidate-vibid:2452000838643": 6,
+      "gas:candidate-vibid:2452000838217": 20,
+      "gas:candidate-vibid:2452000839012": 7,
+      "gas:candidate-vibid:2452000840515": 5,
+      "gas:candidate-vibid:2452000838278": 9,
+      "gas:candidate-vibid:2452000839974": 1,
+      "gas:candidate-vibid:2452000840145": 4,
+      "gas:candidate-vibid:2452000835984": 16
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kurgan?action=show&root=1000142&tvd=2452000794236&vrn=100100067795849&region=45&global=&sub_region=45&prver=0&pronetvd=null&vibid=2452000794236&type=464",
@@ -6474,15 +6474,15 @@ export const duma_2016_uik_463_region_45_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Ильтяков Александр Владимирович": 226,
-      "Ильчик Андрей Сергеевич": 35,
-      "Кислицын Василий Александрович": 78,
-      "Самойлов Александр Иванович": 8,
-      "Севостьянов Виктор Геннадьевич": 3,
-      "Тугушев Анар Эльдар Оглы": 12,
-      "Фельдшеров Дмитрий Александрович": 3,
-      "Юсупов Андрей Владимирович": 2,
-      "Ярушин Юрий Владимирович": 44
+      "gas:candidate-vibid:2452000840183": 226,
+      "gas:candidate-vibid:2452000838643": 35,
+      "gas:candidate-vibid:2452000838217": 78,
+      "gas:candidate-vibid:2452000839012": 8,
+      "gas:candidate-vibid:2452000840515": 3,
+      "gas:candidate-vibid:2452000838278": 12,
+      "gas:candidate-vibid:2452000839974": 3,
+      "gas:candidate-vibid:2452000840145": 2,
+      "gas:candidate-vibid:2452000835984": 44
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kurgan?action=show&root=1000142&tvd=2452000794237&vrn=100100067795849&region=45&global=&sub_region=45&prver=0&pronetvd=null&vibid=2452000794237&type=464",
@@ -6533,15 +6533,15 @@ export const duma_2016_uik_463_region_45_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Ильтяков Александр Владимирович": 301,
-      "Ильчик Андрей Сергеевич": 51,
-      "Кислицын Василий Александрович": 103,
-      "Самойлов Александр Иванович": 15,
-      "Севостьянов Виктор Геннадьевич": 3,
-      "Тугушев Анар Эльдар Оглы": 10,
-      "Фельдшеров Дмитрий Александрович": 4,
-      "Юсупов Андрей Владимирович": 3,
-      "Ярушин Юрий Владимирович": 69
+      "gas:candidate-vibid:2452000840183": 301,
+      "gas:candidate-vibid:2452000838643": 51,
+      "gas:candidate-vibid:2452000838217": 103,
+      "gas:candidate-vibid:2452000839012": 15,
+      "gas:candidate-vibid:2452000840515": 3,
+      "gas:candidate-vibid:2452000838278": 10,
+      "gas:candidate-vibid:2452000839974": 4,
+      "gas:candidate-vibid:2452000840145": 3,
+      "gas:candidate-vibid:2452000835984": 69
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kurgan?action=show&root=1000142&tvd=2452000794237&vrn=100100067795849&region=45&global=&sub_region=45&prver=0&pronetvd=null&vibid=2452000794237&type=464",
@@ -6592,15 +6592,15 @@ export const duma_2016_uik_463_region_45_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Ильтяков Александр Владимирович": 291,
-      "Ильчик Андрей Сергеевич": 26,
-      "Кислицын Василий Александрович": 60,
-      "Самойлов Александр Иванович": 9,
-      "Севостьянов Виктор Геннадьевич": 2,
-      "Тугушев Анар Эльдар Оглы": 4,
-      "Фельдшеров Дмитрий Александрович": 4,
-      "Юсупов Андрей Владимирович": 2,
-      "Ярушин Юрий Владимирович": 36
+      "gas:candidate-vibid:2452000840183": 291,
+      "gas:candidate-vibid:2452000838643": 26,
+      "gas:candidate-vibid:2452000838217": 60,
+      "gas:candidate-vibid:2452000839012": 9,
+      "gas:candidate-vibid:2452000840515": 2,
+      "gas:candidate-vibid:2452000838278": 4,
+      "gas:candidate-vibid:2452000839974": 4,
+      "gas:candidate-vibid:2452000840145": 2,
+      "gas:candidate-vibid:2452000835984": 36
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kurgan?action=show&root=1000142&tvd=2452000794237&vrn=100100067795849&region=45&global=&sub_region=45&prver=0&pronetvd=null&vibid=2452000794237&type=464",
@@ -6651,15 +6651,15 @@ export const duma_2016_uik_463_region_45_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Ильтяков Александр Владимирович": 185,
-      "Ильчик Андрей Сергеевич": 33,
-      "Кислицын Василий Александрович": 67,
-      "Самойлов Александр Иванович": 8,
-      "Севостьянов Виктор Геннадьевич": 2,
-      "Тугушев Анар Эльдар Оглы": 8,
-      "Фельдшеров Дмитрий Александрович": 3,
-      "Юсупов Андрей Владимирович": 3,
-      "Ярушин Юрий Владимирович": 42
+      "gas:candidate-vibid:2452000840183": 185,
+      "gas:candidate-vibid:2452000838643": 33,
+      "gas:candidate-vibid:2452000838217": 67,
+      "gas:candidate-vibid:2452000839012": 8,
+      "gas:candidate-vibid:2452000840515": 2,
+      "gas:candidate-vibid:2452000838278": 8,
+      "gas:candidate-vibid:2452000839974": 3,
+      "gas:candidate-vibid:2452000840145": 3,
+      "gas:candidate-vibid:2452000835984": 42
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kurgan?action=show&root=1000142&tvd=2452000794237&vrn=100100067795849&region=45&global=&sub_region=45&prver=0&pronetvd=null&vibid=2452000794237&type=464",
@@ -6710,15 +6710,15 @@ export const duma_2016_uik_463_region_45_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Ильтяков Александр Владимирович": 285,
-      "Ильчик Андрей Сергеевич": 31,
-      "Кислицын Василий Александрович": 51,
-      "Самойлов Александр Иванович": 13,
-      "Севостьянов Виктор Геннадьевич": 5,
-      "Тугушев Анар Эльдар Оглы": 7,
-      "Фельдшеров Дмитрий Александрович": 9,
-      "Юсупов Андрей Владимирович": 5,
-      "Ярушин Юрий Владимирович": 46
+      "gas:candidate-vibid:2452000840183": 285,
+      "gas:candidate-vibid:2452000838643": 31,
+      "gas:candidate-vibid:2452000838217": 51,
+      "gas:candidate-vibid:2452000839012": 13,
+      "gas:candidate-vibid:2452000840515": 5,
+      "gas:candidate-vibid:2452000838278": 7,
+      "gas:candidate-vibid:2452000839974": 9,
+      "gas:candidate-vibid:2452000840145": 5,
+      "gas:candidate-vibid:2452000835984": 46
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kurgan?action=show&root=1000142&tvd=2452000794237&vrn=100100067795849&region=45&global=&sub_region=45&prver=0&pronetvd=null&vibid=2452000794237&type=464",
@@ -6769,15 +6769,15 @@ export const duma_2016_uik_463_region_45_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Ильтяков Александр Владимирович": 93,
-      "Ильчик Андрей Сергеевич": 5,
-      "Кислицын Василий Александрович": 10,
-      "Самойлов Александр Иванович": 0,
-      "Севостьянов Виктор Геннадьевич": 1,
-      "Тугушев Анар Эльдар Оглы": 1,
-      "Фельдшеров Дмитрий Александрович": 0,
-      "Юсупов Андрей Владимирович": 2,
-      "Ярушин Юрий Владимирович": 5
+      "gas:candidate-vibid:2452000840183": 93,
+      "gas:candidate-vibid:2452000838643": 5,
+      "gas:candidate-vibid:2452000838217": 10,
+      "gas:candidate-vibid:2452000839012": 0,
+      "gas:candidate-vibid:2452000840515": 1,
+      "gas:candidate-vibid:2452000838278": 1,
+      "gas:candidate-vibid:2452000839974": 0,
+      "gas:candidate-vibid:2452000840145": 2,
+      "gas:candidate-vibid:2452000835984": 5
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kurgan?action=show&root=1000142&tvd=2452000794237&vrn=100100067795849&region=45&global=&sub_region=45&prver=0&pronetvd=null&vibid=2452000794237&type=464",
@@ -6828,15 +6828,15 @@ export const duma_2016_uik_463_region_45_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Ильтяков Александр Владимирович": 33,
-      "Ильчик Андрей Сергеевич": 1,
-      "Кислицын Василий Александрович": 10,
-      "Самойлов Александр Иванович": 1,
-      "Севостьянов Виктор Геннадьевич": 3,
-      "Тугушев Анар Эльдар Оглы": 4,
-      "Фельдшеров Дмитрий Александрович": 2,
-      "Юсупов Андрей Владимирович": 2,
-      "Ярушин Юрий Владимирович": 11
+      "gas:candidate-vibid:2452000840183": 33,
+      "gas:candidate-vibid:2452000838643": 1,
+      "gas:candidate-vibid:2452000838217": 10,
+      "gas:candidate-vibid:2452000839012": 1,
+      "gas:candidate-vibid:2452000840515": 3,
+      "gas:candidate-vibid:2452000838278": 4,
+      "gas:candidate-vibid:2452000839974": 2,
+      "gas:candidate-vibid:2452000840145": 2,
+      "gas:candidate-vibid:2452000835984": 11
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kurgan?action=show&root=1000142&tvd=2452000794237&vrn=100100067795849&region=45&global=&sub_region=45&prver=0&pronetvd=null&vibid=2452000794237&type=464",
@@ -6887,15 +6887,15 @@ export const duma_2016_uik_463_region_45_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Ильтяков Александр Владимирович": 92,
-      "Ильчик Андрей Сергеевич": 4,
-      "Кислицын Василий Александрович": 12,
-      "Самойлов Александр Иванович": 1,
-      "Севостьянов Виктор Геннадьевич": 0,
-      "Тугушев Анар Эльдар Оглы": 1,
-      "Фельдшеров Дмитрий Александрович": 2,
-      "Юсупов Андрей Владимирович": 1,
-      "Ярушин Юрий Владимирович": 1
+      "gas:candidate-vibid:2452000840183": 92,
+      "gas:candidate-vibid:2452000838643": 4,
+      "gas:candidate-vibid:2452000838217": 12,
+      "gas:candidate-vibid:2452000839012": 1,
+      "gas:candidate-vibid:2452000840515": 0,
+      "gas:candidate-vibid:2452000838278": 1,
+      "gas:candidate-vibid:2452000839974": 2,
+      "gas:candidate-vibid:2452000840145": 1,
+      "gas:candidate-vibid:2452000835984": 1
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kurgan?action=show&root=1000142&tvd=2452000794237&vrn=100100067795849&region=45&global=&sub_region=45&prver=0&pronetvd=null&vibid=2452000794237&type=464",
@@ -6946,15 +6946,15 @@ export const duma_2016_uik_463_region_45_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Ильтяков Александр Владимирович": 194,
-      "Ильчик Андрей Сергеевич": 14,
-      "Кислицын Василий Александрович": 51,
-      "Самойлов Александр Иванович": 4,
-      "Севостьянов Виктор Геннадьевич": 3,
-      "Тугушев Анар Эльдар Оглы": 6,
-      "Фельдшеров Дмитрий Александрович": 3,
-      "Юсупов Андрей Владимирович": 6,
-      "Ярушин Юрий Владимирович": 19
+      "gas:candidate-vibid:2452000840183": 194,
+      "gas:candidate-vibid:2452000838643": 14,
+      "gas:candidate-vibid:2452000838217": 51,
+      "gas:candidate-vibid:2452000839012": 4,
+      "gas:candidate-vibid:2452000840515": 3,
+      "gas:candidate-vibid:2452000838278": 6,
+      "gas:candidate-vibid:2452000839974": 3,
+      "gas:candidate-vibid:2452000840145": 6,
+      "gas:candidate-vibid:2452000835984": 19
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kurgan?action=show&root=1000142&tvd=2452000794237&vrn=100100067795849&region=45&global=&sub_region=45&prver=0&pronetvd=null&vibid=2452000794237&type=464",
@@ -7005,15 +7005,15 @@ export const duma_2016_uik_463_region_45_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Ильтяков Александр Владимирович": 64,
-      "Ильчик Андрей Сергеевич": 2,
-      "Кислицын Василий Александрович": 6,
-      "Самойлов Александр Иванович": 1,
-      "Севостьянов Виктор Геннадьевич": 0,
-      "Тугушев Анар Эльдар Оглы": 1,
-      "Фельдшеров Дмитрий Александрович": 1,
-      "Юсупов Андрей Владимирович": 0,
-      "Ярушин Юрий Владимирович": 9
+      "gas:candidate-vibid:2452000840183": 64,
+      "gas:candidate-vibid:2452000838643": 2,
+      "gas:candidate-vibid:2452000838217": 6,
+      "gas:candidate-vibid:2452000839012": 1,
+      "gas:candidate-vibid:2452000840515": 0,
+      "gas:candidate-vibid:2452000838278": 1,
+      "gas:candidate-vibid:2452000839974": 1,
+      "gas:candidate-vibid:2452000840145": 0,
+      "gas:candidate-vibid:2452000835984": 9
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kurgan?action=show&root=1000142&tvd=2452000794237&vrn=100100067795849&region=45&global=&sub_region=45&prver=0&pronetvd=null&vibid=2452000794237&type=464",
@@ -7064,15 +7064,15 @@ export const duma_2016_uik_463_region_45_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Ильтяков Александр Владимирович": 196,
-      "Ильчик Андрей Сергеевич": 16,
-      "Кислицын Василий Александрович": 27,
-      "Самойлов Александр Иванович": 11,
-      "Севостьянов Виктор Геннадьевич": 2,
-      "Тугушев Анар Эльдар Оглы": 2,
-      "Фельдшеров Дмитрий Александрович": 2,
-      "Юсупов Андрей Владимирович": 2,
-      "Ярушин Юрий Владимирович": 24
+      "gas:candidate-vibid:2452000840183": 196,
+      "gas:candidate-vibid:2452000838643": 16,
+      "gas:candidate-vibid:2452000838217": 27,
+      "gas:candidate-vibid:2452000839012": 11,
+      "gas:candidate-vibid:2452000840515": 2,
+      "gas:candidate-vibid:2452000838278": 2,
+      "gas:candidate-vibid:2452000839974": 2,
+      "gas:candidate-vibid:2452000840145": 2,
+      "gas:candidate-vibid:2452000835984": 24
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kurgan?action=show&root=1000142&tvd=2452000794237&vrn=100100067795849&region=45&global=&sub_region=45&prver=0&pronetvd=null&vibid=2452000794237&type=464",
@@ -7123,15 +7123,15 @@ export const duma_2016_uik_463_region_45_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Ильтяков Александр Владимирович": 247,
-      "Ильчик Андрей Сергеевич": 22,
-      "Кислицын Василий Александрович": 34,
-      "Самойлов Александр Иванович": 10,
-      "Севостьянов Виктор Геннадьевич": 5,
-      "Тугушев Анар Эльдар Оглы": 4,
-      "Фельдшеров Дмитрий Александрович": 3,
-      "Юсупов Андрей Владимирович": 2,
-      "Ярушин Юрий Владимирович": 31
+      "gas:candidate-vibid:2452000840183": 247,
+      "gas:candidate-vibid:2452000838643": 22,
+      "gas:candidate-vibid:2452000838217": 34,
+      "gas:candidate-vibid:2452000839012": 10,
+      "gas:candidate-vibid:2452000840515": 5,
+      "gas:candidate-vibid:2452000838278": 4,
+      "gas:candidate-vibid:2452000839974": 3,
+      "gas:candidate-vibid:2452000840145": 2,
+      "gas:candidate-vibid:2452000835984": 31
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kurgan?action=show&root=1000142&tvd=2452000794237&vrn=100100067795849&region=45&global=&sub_region=45&prver=0&pronetvd=null&vibid=2452000794237&type=464",
@@ -7182,15 +7182,15 @@ export const duma_2016_uik_463_region_45_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Ильтяков Александр Владимирович": 305,
-      "Ильчик Андрей Сергеевич": 18,
-      "Кислицын Василий Александрович": 62,
-      "Самойлов Александр Иванович": 2,
-      "Севостьянов Виктор Геннадьевич": 1,
-      "Тугушев Анар Эльдар Оглы": 3,
-      "Фельдшеров Дмитрий Александрович": 3,
-      "Юсупов Андрей Владимирович": 6,
-      "Ярушин Юрий Владимирович": 13
+      "gas:candidate-vibid:2452000840183": 305,
+      "gas:candidate-vibid:2452000838643": 18,
+      "gas:candidate-vibid:2452000838217": 62,
+      "gas:candidate-vibid:2452000839012": 2,
+      "gas:candidate-vibid:2452000840515": 1,
+      "gas:candidate-vibid:2452000838278": 3,
+      "gas:candidate-vibid:2452000839974": 3,
+      "gas:candidate-vibid:2452000840145": 6,
+      "gas:candidate-vibid:2452000835984": 13
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kurgan?action=show&root=1000142&tvd=2452000794237&vrn=100100067795849&region=45&global=&sub_region=45&prver=0&pronetvd=null&vibid=2452000794237&type=464",
@@ -7241,15 +7241,15 @@ export const duma_2016_uik_463_region_45_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Ильтяков Александр Владимирович": 149,
-      "Ильчик Андрей Сергеевич": 11,
-      "Кислицын Василий Александрович": 40,
-      "Самойлов Александр Иванович": 14,
-      "Севостьянов Виктор Геннадьевич": 1,
-      "Тугушев Анар Эльдар Оглы": 15,
-      "Фельдшеров Дмитрий Александрович": 4,
-      "Юсупов Андрей Владимирович": 17,
-      "Ярушин Юрий Владимирович": 11
+      "gas:candidate-vibid:2452000840183": 149,
+      "gas:candidate-vibid:2452000838643": 11,
+      "gas:candidate-vibid:2452000838217": 40,
+      "gas:candidate-vibid:2452000839012": 14,
+      "gas:candidate-vibid:2452000840515": 1,
+      "gas:candidate-vibid:2452000838278": 15,
+      "gas:candidate-vibid:2452000839974": 4,
+      "gas:candidate-vibid:2452000840145": 17,
+      "gas:candidate-vibid:2452000835984": 11
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kurgan?action=show&root=1000142&tvd=2452000794237&vrn=100100067795849&region=45&global=&sub_region=45&prver=0&pronetvd=null&vibid=2452000794237&type=464",
@@ -7300,15 +7300,15 @@ export const duma_2016_uik_463_region_45_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Ильтяков Александр Владимирович": 83,
-      "Ильчик Андрей Сергеевич": 4,
-      "Кислицын Василий Александрович": 17,
-      "Самойлов Александр Иванович": 2,
-      "Севостьянов Виктор Геннадьевич": 1,
-      "Тугушев Анар Эльдар Оглы": 12,
-      "Фельдшеров Дмитрий Александрович": 0,
-      "Юсупов Андрей Владимирович": 17,
-      "Ярушин Юрий Владимирович": 8
+      "gas:candidate-vibid:2452000840183": 83,
+      "gas:candidate-vibid:2452000838643": 4,
+      "gas:candidate-vibid:2452000838217": 17,
+      "gas:candidate-vibid:2452000839012": 2,
+      "gas:candidate-vibid:2452000840515": 1,
+      "gas:candidate-vibid:2452000838278": 12,
+      "gas:candidate-vibid:2452000839974": 0,
+      "gas:candidate-vibid:2452000840145": 17,
+      "gas:candidate-vibid:2452000835984": 8
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kurgan?action=show&root=1000142&tvd=2452000794237&vrn=100100067795849&region=45&global=&sub_region=45&prver=0&pronetvd=null&vibid=2452000794237&type=464",
@@ -7359,15 +7359,15 @@ export const duma_2016_uik_463_region_45_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Ильтяков Александр Владимирович": 273,
-      "Ильчик Андрей Сергеевич": 29,
-      "Кислицын Василий Александрович": 101,
-      "Самойлов Александр Иванович": 16,
-      "Севостьянов Виктор Геннадьевич": 8,
-      "Тугушев Анар Эльдар Оглы": 11,
-      "Фельдшеров Дмитрий Александрович": 1,
-      "Юсупов Андрей Владимирович": 2,
-      "Ярушин Юрий Владимирович": 68
+      "gas:candidate-vibid:2452000840183": 273,
+      "gas:candidate-vibid:2452000838643": 29,
+      "gas:candidate-vibid:2452000838217": 101,
+      "gas:candidate-vibid:2452000839012": 16,
+      "gas:candidate-vibid:2452000840515": 8,
+      "gas:candidate-vibid:2452000838278": 11,
+      "gas:candidate-vibid:2452000839974": 1,
+      "gas:candidate-vibid:2452000840145": 2,
+      "gas:candidate-vibid:2452000835984": 68
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kurgan?action=show&root=1000142&tvd=2452000794237&vrn=100100067795849&region=45&global=&sub_region=45&prver=0&pronetvd=null&vibid=2452000794237&type=464",
@@ -7418,15 +7418,15 @@ export const duma_2016_uik_463_region_45_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Ильтяков Александр Владимирович": 114,
-      "Ильчик Андрей Сергеевич": 11,
-      "Кислицын Василий Александрович": 31,
-      "Самойлов Александр Иванович": 5,
-      "Севостьянов Виктор Геннадьевич": 3,
-      "Тугушев Анар Эльдар Оглы": 1,
-      "Фельдшеров Дмитрий Александрович": 0,
-      "Юсупов Андрей Владимирович": 4,
-      "Ярушин Юрий Владимирович": 11
+      "gas:candidate-vibid:2452000840183": 114,
+      "gas:candidate-vibid:2452000838643": 11,
+      "gas:candidate-vibid:2452000838217": 31,
+      "gas:candidate-vibid:2452000839012": 5,
+      "gas:candidate-vibid:2452000840515": 3,
+      "gas:candidate-vibid:2452000838278": 1,
+      "gas:candidate-vibid:2452000839974": 0,
+      "gas:candidate-vibid:2452000840145": 4,
+      "gas:candidate-vibid:2452000835984": 11
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kurgan?action=show&root=1000142&tvd=2452000794237&vrn=100100067795849&region=45&global=&sub_region=45&prver=0&pronetvd=null&vibid=2452000794237&type=464",
@@ -7477,15 +7477,15 @@ export const duma_2016_uik_463_region_45_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Ильтяков Александр Владимирович": 54,
-      "Ильчик Андрей Сергеевич": 5,
-      "Кислицын Василий Александрович": 9,
-      "Самойлов Александр Иванович": 3,
-      "Севостьянов Виктор Геннадьевич": 2,
-      "Тугушев Анар Эльдар Оглы": 1,
-      "Фельдшеров Дмитрий Александрович": 0,
-      "Юсупов Андрей Владимирович": 3,
-      "Ярушин Юрий Владимирович": 8
+      "gas:candidate-vibid:2452000840183": 54,
+      "gas:candidate-vibid:2452000838643": 5,
+      "gas:candidate-vibid:2452000838217": 9,
+      "gas:candidate-vibid:2452000839012": 3,
+      "gas:candidate-vibid:2452000840515": 2,
+      "gas:candidate-vibid:2452000838278": 1,
+      "gas:candidate-vibid:2452000839974": 0,
+      "gas:candidate-vibid:2452000840145": 3,
+      "gas:candidate-vibid:2452000835984": 8
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kurgan?action=show&root=1000142&tvd=2452000794237&vrn=100100067795849&region=45&global=&sub_region=45&prver=0&pronetvd=null&vibid=2452000794237&type=464",
@@ -7536,15 +7536,15 @@ export const duma_2016_uik_463_region_45_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Ильтяков Александр Владимирович": 29,
-      "Ильчик Андрей Сергеевич": 1,
-      "Кислицын Василий Александрович": 17,
-      "Самойлов Александр Иванович": 3,
-      "Севостьянов Виктор Геннадьевич": 1,
-      "Тугушев Анар Эльдар Оглы": 2,
-      "Фельдшеров Дмитрий Александрович": 0,
-      "Юсупов Андрей Владимирович": 0,
-      "Ярушин Юрий Владимирович": 13
+      "gas:candidate-vibid:2452000840183": 29,
+      "gas:candidate-vibid:2452000838643": 1,
+      "gas:candidate-vibid:2452000838217": 17,
+      "gas:candidate-vibid:2452000839012": 3,
+      "gas:candidate-vibid:2452000840515": 1,
+      "gas:candidate-vibid:2452000838278": 2,
+      "gas:candidate-vibid:2452000839974": 0,
+      "gas:candidate-vibid:2452000840145": 0,
+      "gas:candidate-vibid:2452000835984": 13
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kurgan?action=show&root=1000142&tvd=2452000794237&vrn=100100067795849&region=45&global=&sub_region=45&prver=0&pronetvd=null&vibid=2452000794237&type=464",
@@ -7595,15 +7595,15 @@ export const duma_2016_uik_463_region_45_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Ильтяков Александр Владимирович": 20,
-      "Ильчик Андрей Сергеевич": 6,
-      "Кислицын Василий Александрович": 2,
-      "Самойлов Александр Иванович": 0,
-      "Севостьянов Виктор Геннадьевич": 0,
-      "Тугушев Анар Эльдар Оглы": 5,
-      "Фельдшеров Дмитрий Александрович": 1,
-      "Юсупов Андрей Владимирович": 1,
-      "Ярушин Юрий Владимирович": 5
+      "gas:candidate-vibid:2452000840183": 20,
+      "gas:candidate-vibid:2452000838643": 6,
+      "gas:candidate-vibid:2452000838217": 2,
+      "gas:candidate-vibid:2452000839012": 0,
+      "gas:candidate-vibid:2452000840515": 0,
+      "gas:candidate-vibid:2452000838278": 5,
+      "gas:candidate-vibid:2452000839974": 1,
+      "gas:candidate-vibid:2452000840145": 1,
+      "gas:candidate-vibid:2452000835984": 5
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kurgan?action=show&root=1000142&tvd=2452000794237&vrn=100100067795849&region=45&global=&sub_region=45&prver=0&pronetvd=null&vibid=2452000794237&type=464",
@@ -7654,15 +7654,15 @@ export const duma_2016_uik_463_region_45_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Ильтяков Александр Владимирович": 138,
-      "Ильчик Андрей Сергеевич": 12,
-      "Кислицын Василий Александрович": 57,
-      "Самойлов Александр Иванович": 9,
-      "Севостьянов Виктор Геннадьевич": 3,
-      "Тугушев Анар Эльдар Оглы": 6,
-      "Фельдшеров Дмитрий Александрович": 3,
-      "Юсупов Андрей Владимирович": 4,
-      "Ярушин Юрий Владимирович": 21
+      "gas:candidate-vibid:2452000840183": 138,
+      "gas:candidate-vibid:2452000838643": 12,
+      "gas:candidate-vibid:2452000838217": 57,
+      "gas:candidate-vibid:2452000839012": 9,
+      "gas:candidate-vibid:2452000840515": 3,
+      "gas:candidate-vibid:2452000838278": 6,
+      "gas:candidate-vibid:2452000839974": 3,
+      "gas:candidate-vibid:2452000840145": 4,
+      "gas:candidate-vibid:2452000835984": 21
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kurgan?action=show&root=1000142&tvd=2452000794237&vrn=100100067795849&region=45&global=&sub_region=45&prver=0&pronetvd=null&vibid=2452000794237&type=464",
@@ -7713,15 +7713,15 @@ export const duma_2016_uik_463_region_45_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Ильтяков Александр Владимирович": 117,
-      "Ильчик Андрей Сергеевич": 4,
-      "Кислицын Василий Александрович": 19,
-      "Самойлов Александр Иванович": 2,
-      "Севостьянов Виктор Геннадьевич": 4,
-      "Тугушев Анар Эльдар Оглы": 1,
-      "Фельдшеров Дмитрий Александрович": 0,
-      "Юсупов Андрей Владимирович": 0,
-      "Ярушин Юрий Владимирович": 12
+      "gas:candidate-vibid:2452000840183": 117,
+      "gas:candidate-vibid:2452000838643": 4,
+      "gas:candidate-vibid:2452000838217": 19,
+      "gas:candidate-vibid:2452000839012": 2,
+      "gas:candidate-vibid:2452000840515": 4,
+      "gas:candidate-vibid:2452000838278": 1,
+      "gas:candidate-vibid:2452000839974": 0,
+      "gas:candidate-vibid:2452000840145": 0,
+      "gas:candidate-vibid:2452000835984": 12
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kurgan?action=show&root=1000142&tvd=2452000794237&vrn=100100067795849&region=45&global=&sub_region=45&prver=0&pronetvd=null&vibid=2452000794237&type=464",
@@ -7772,15 +7772,15 @@ export const duma_2016_uik_463_region_45_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Ильтяков Александр Владимирович": 200,
-      "Ильчик Андрей Сергеевич": 9,
-      "Кислицын Василий Александрович": 44,
-      "Самойлов Александр Иванович": 9,
-      "Севостьянов Виктор Геннадьевич": 6,
-      "Тугушев Анар Эльдар Оглы": 6,
-      "Фельдшеров Дмитрий Александрович": 3,
-      "Юсупов Андрей Владимирович": 1,
-      "Ярушин Юрий Владимирович": 17
+      "gas:candidate-vibid:2452000840183": 200,
+      "gas:candidate-vibid:2452000838643": 9,
+      "gas:candidate-vibid:2452000838217": 44,
+      "gas:candidate-vibid:2452000839012": 9,
+      "gas:candidate-vibid:2452000840515": 6,
+      "gas:candidate-vibid:2452000838278": 6,
+      "gas:candidate-vibid:2452000839974": 3,
+      "gas:candidate-vibid:2452000840145": 1,
+      "gas:candidate-vibid:2452000835984": 17
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kurgan?action=show&root=1000142&tvd=2452000794237&vrn=100100067795849&region=45&global=&sub_region=45&prver=0&pronetvd=null&vibid=2452000794237&type=464",
@@ -7831,15 +7831,15 @@ export const duma_2016_uik_463_region_45_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Ильтяков Александр Владимирович": 57,
-      "Ильчик Андрей Сергеевич": 3,
-      "Кислицын Василий Александрович": 9,
-      "Самойлов Александр Иванович": 0,
-      "Севостьянов Виктор Геннадьевич": 0,
-      "Тугушев Анар Эльдар Оглы": 1,
-      "Фельдшеров Дмитрий Александрович": 0,
-      "Юсупов Андрей Владимирович": 0,
-      "Ярушин Юрий Владимирович": 5
+      "gas:candidate-vibid:2452000840183": 57,
+      "gas:candidate-vibid:2452000838643": 3,
+      "gas:candidate-vibid:2452000838217": 9,
+      "gas:candidate-vibid:2452000839012": 0,
+      "gas:candidate-vibid:2452000840515": 0,
+      "gas:candidate-vibid:2452000838278": 1,
+      "gas:candidate-vibid:2452000839974": 0,
+      "gas:candidate-vibid:2452000840145": 0,
+      "gas:candidate-vibid:2452000835984": 5
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kurgan?action=show&root=1000142&tvd=2452000794237&vrn=100100067795849&region=45&global=&sub_region=45&prver=0&pronetvd=null&vibid=2452000794237&type=464",
@@ -7890,15 +7890,15 @@ export const duma_2016_uik_463_region_45_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Ильтяков Александр Владимирович": 71,
-      "Ильчик Андрей Сергеевич": 4,
-      "Кислицын Василий Александрович": 6,
-      "Самойлов Александр Иванович": 2,
-      "Севостьянов Виктор Геннадьевич": 1,
-      "Тугушев Анар Эльдар Оглы": 0,
-      "Фельдшеров Дмитрий Александрович": 0,
-      "Юсупов Андрей Владимирович": 2,
-      "Ярушин Юрий Владимирович": 3
+      "gas:candidate-vibid:2452000840183": 71,
+      "gas:candidate-vibid:2452000838643": 4,
+      "gas:candidate-vibid:2452000838217": 6,
+      "gas:candidate-vibid:2452000839012": 2,
+      "gas:candidate-vibid:2452000840515": 1,
+      "gas:candidate-vibid:2452000838278": 0,
+      "gas:candidate-vibid:2452000839974": 0,
+      "gas:candidate-vibid:2452000840145": 2,
+      "gas:candidate-vibid:2452000835984": 3
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kurgan?action=show&root=1000142&tvd=2452000794237&vrn=100100067795849&region=45&global=&sub_region=45&prver=0&pronetvd=null&vibid=2452000794237&type=464",
@@ -7949,15 +7949,15 @@ export const duma_2016_uik_463_region_45_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Ильтяков Александр Владимирович": 226,
-      "Ильчик Андрей Сергеевич": 35,
-      "Кислицын Василий Александрович": 77,
-      "Самойлов Александр Иванович": 4,
-      "Севостьянов Виктор Геннадьевич": 3,
-      "Тугушев Анар Эльдар Оглы": 12,
-      "Фельдшеров Дмитрий Александрович": 5,
-      "Юсупов Андрей Владимирович": 2,
-      "Ярушин Юрий Владимирович": 52
+      "gas:candidate-vibid:2452000840183": 226,
+      "gas:candidate-vibid:2452000838643": 35,
+      "gas:candidate-vibid:2452000838217": 77,
+      "gas:candidate-vibid:2452000839012": 4,
+      "gas:candidate-vibid:2452000840515": 3,
+      "gas:candidate-vibid:2452000838278": 12,
+      "gas:candidate-vibid:2452000839974": 5,
+      "gas:candidate-vibid:2452000840145": 2,
+      "gas:candidate-vibid:2452000835984": 52
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kurgan?action=show&root=1000142&tvd=2452000794237&vrn=100100067795849&region=45&global=&sub_region=45&prver=0&pronetvd=null&vibid=2452000794237&type=464",
@@ -8008,15 +8008,15 @@ export const duma_2016_uik_463_region_45_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Ильтяков Александр Владимирович": 143,
-      "Ильчик Андрей Сергеевич": 11,
-      "Кислицын Василий Александрович": 11,
-      "Самойлов Александр Иванович": 1,
-      "Севостьянов Виктор Геннадьевич": 0,
-      "Тугушев Анар Эльдар Оглы": 3,
-      "Фельдшеров Дмитрий Александрович": 2,
-      "Юсупов Андрей Владимирович": 2,
-      "Ярушин Юрий Владимирович": 14
+      "gas:candidate-vibid:2452000840183": 143,
+      "gas:candidate-vibid:2452000838643": 11,
+      "gas:candidate-vibid:2452000838217": 11,
+      "gas:candidate-vibid:2452000839012": 1,
+      "gas:candidate-vibid:2452000840515": 0,
+      "gas:candidate-vibid:2452000838278": 3,
+      "gas:candidate-vibid:2452000839974": 2,
+      "gas:candidate-vibid:2452000840145": 2,
+      "gas:candidate-vibid:2452000835984": 14
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kurgan?action=show&root=1000142&tvd=2452000794237&vrn=100100067795849&region=45&global=&sub_region=45&prver=0&pronetvd=null&vibid=2452000794237&type=464",
@@ -8067,15 +8067,15 @@ export const duma_2016_uik_463_region_45_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Ильтяков Александр Владимирович": 194,
-      "Ильчик Андрей Сергеевич": 14,
-      "Кислицын Василий Александрович": 44,
-      "Самойлов Александр Иванович": 5,
-      "Севостьянов Виктор Геннадьевич": 6,
-      "Тугушев Анар Эльдар Оглы": 11,
-      "Фельдшеров Дмитрий Александрович": 0,
-      "Юсупов Андрей Владимирович": 0,
-      "Ярушин Юрий Владимирович": 20
+      "gas:candidate-vibid:2452000840183": 194,
+      "gas:candidate-vibid:2452000838643": 14,
+      "gas:candidate-vibid:2452000838217": 44,
+      "gas:candidate-vibid:2452000839012": 5,
+      "gas:candidate-vibid:2452000840515": 6,
+      "gas:candidate-vibid:2452000838278": 11,
+      "gas:candidate-vibid:2452000839974": 0,
+      "gas:candidate-vibid:2452000840145": 0,
+      "gas:candidate-vibid:2452000835984": 20
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kurgan?action=show&root=1000142&tvd=2452000794237&vrn=100100067795849&region=45&global=&sub_region=45&prver=0&pronetvd=null&vibid=2452000794237&type=464",
@@ -8126,15 +8126,15 @@ export const duma_2016_uik_463_region_45_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Ильтяков Александр Владимирович": 56,
-      "Ильчик Андрей Сергеевич": 2,
-      "Кислицын Василий Александрович": 14,
-      "Самойлов Александр Иванович": 4,
-      "Севостьянов Виктор Геннадьевич": 1,
-      "Тугушев Анар Эльдар Оглы": 0,
-      "Фельдшеров Дмитрий Александрович": 0,
-      "Юсупов Андрей Владимирович": 0,
-      "Ярушин Юрий Владимирович": 8
+      "gas:candidate-vibid:2452000840183": 56,
+      "gas:candidate-vibid:2452000838643": 2,
+      "gas:candidate-vibid:2452000838217": 14,
+      "gas:candidate-vibid:2452000839012": 4,
+      "gas:candidate-vibid:2452000840515": 1,
+      "gas:candidate-vibid:2452000838278": 0,
+      "gas:candidate-vibid:2452000839974": 0,
+      "gas:candidate-vibid:2452000840145": 0,
+      "gas:candidate-vibid:2452000835984": 8
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kurgan?action=show&root=1000142&tvd=2452000794237&vrn=100100067795849&region=45&global=&sub_region=45&prver=0&pronetvd=null&vibid=2452000794237&type=464",
@@ -8185,15 +8185,15 @@ export const duma_2016_uik_463_region_45_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Ильтяков Александр Владимирович": 135,
-      "Ильчик Андрей Сергеевич": 12,
-      "Кислицын Василий Александрович": 17,
-      "Самойлов Александр Иванович": 0,
-      "Севостьянов Виктор Геннадьевич": 4,
-      "Тугушев Анар Эльдар Оглы": 1,
-      "Фельдшеров Дмитрий Александрович": 1,
-      "Юсупов Андрей Владимирович": 1,
-      "Ярушин Юрий Владимирович": 17
+      "gas:candidate-vibid:2452000840183": 135,
+      "gas:candidate-vibid:2452000838643": 12,
+      "gas:candidate-vibid:2452000838217": 17,
+      "gas:candidate-vibid:2452000839012": 0,
+      "gas:candidate-vibid:2452000840515": 4,
+      "gas:candidate-vibid:2452000838278": 1,
+      "gas:candidate-vibid:2452000839974": 1,
+      "gas:candidate-vibid:2452000840145": 1,
+      "gas:candidate-vibid:2452000835984": 17
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kurgan?action=show&root=1000142&tvd=2452000794237&vrn=100100067795849&region=45&global=&sub_region=45&prver=0&pronetvd=null&vibid=2452000794237&type=464",
@@ -8244,15 +8244,15 @@ export const duma_2016_uik_463_region_45_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Ильтяков Александр Владимирович": 99,
-      "Ильчик Андрей Сергеевич": 4,
-      "Кислицын Василий Александрович": 35,
-      "Самойлов Александр Иванович": 2,
-      "Севостьянов Виктор Геннадьевич": 2,
-      "Тугушев Анар Эльдар Оглы": 0,
-      "Фельдшеров Дмитрий Александрович": 1,
-      "Юсупов Андрей Владимирович": 0,
-      "Ярушин Юрий Владимирович": 6
+      "gas:candidate-vibid:2452000840183": 99,
+      "gas:candidate-vibid:2452000838643": 4,
+      "gas:candidate-vibid:2452000838217": 35,
+      "gas:candidate-vibid:2452000839012": 2,
+      "gas:candidate-vibid:2452000840515": 2,
+      "gas:candidate-vibid:2452000838278": 0,
+      "gas:candidate-vibid:2452000839974": 1,
+      "gas:candidate-vibid:2452000840145": 0,
+      "gas:candidate-vibid:2452000835984": 6
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kurgan?action=show&root=1000142&tvd=2452000794237&vrn=100100067795849&region=45&global=&sub_region=45&prver=0&pronetvd=null&vibid=2452000794237&type=464",
@@ -8303,15 +8303,15 @@ export const duma_2016_uik_463_region_45_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Ильтяков Александр Владимирович": 224,
-      "Ильчик Андрей Сергеевич": 39,
-      "Кислицын Василий Александрович": 79,
-      "Самойлов Александр Иванович": 7,
-      "Севостьянов Виктор Геннадьевич": 5,
-      "Тугушев Анар Эльдар Оглы": 5,
-      "Фельдшеров Дмитрий Александрович": 9,
-      "Юсупов Андрей Владимирович": 5,
-      "Ярушин Юрий Владимирович": 59
+      "gas:candidate-vibid:2452000840183": 224,
+      "gas:candidate-vibid:2452000838643": 39,
+      "gas:candidate-vibid:2452000838217": 79,
+      "gas:candidate-vibid:2452000839012": 7,
+      "gas:candidate-vibid:2452000840515": 5,
+      "gas:candidate-vibid:2452000838278": 5,
+      "gas:candidate-vibid:2452000839974": 9,
+      "gas:candidate-vibid:2452000840145": 5,
+      "gas:candidate-vibid:2452000835984": 59
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kurgan?action=show&root=1000142&tvd=2452000794238&vrn=100100067795849&region=45&global=&sub_region=45&prver=0&pronetvd=null&vibid=2452000794238&type=464",
@@ -8362,15 +8362,15 @@ export const duma_2016_uik_463_region_45_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Ильтяков Александр Владимирович": 215,
-      "Ильчик Андрей Сергеевич": 24,
-      "Кислицын Василий Александрович": 40,
-      "Самойлов Александр Иванович": 4,
-      "Севостьянов Виктор Геннадьевич": 4,
-      "Тугушев Анар Эльдар Оглы": 5,
-      "Фельдшеров Дмитрий Александрович": 1,
-      "Юсупов Андрей Владимирович": 4,
-      "Ярушин Юрий Владимирович": 35
+      "gas:candidate-vibid:2452000840183": 215,
+      "gas:candidate-vibid:2452000838643": 24,
+      "gas:candidate-vibid:2452000838217": 40,
+      "gas:candidate-vibid:2452000839012": 4,
+      "gas:candidate-vibid:2452000840515": 4,
+      "gas:candidate-vibid:2452000838278": 5,
+      "gas:candidate-vibid:2452000839974": 1,
+      "gas:candidate-vibid:2452000840145": 4,
+      "gas:candidate-vibid:2452000835984": 35
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kurgan?action=show&root=1000142&tvd=2452000794238&vrn=100100067795849&region=45&global=&sub_region=45&prver=0&pronetvd=null&vibid=2452000794238&type=464",
@@ -8421,15 +8421,15 @@ export const duma_2016_uik_463_region_45_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Ильтяков Александр Владимирович": 362,
-      "Ильчик Андрей Сергеевич": 11,
-      "Кислицын Василий Александрович": 8,
-      "Самойлов Александр Иванович": 9,
-      "Севостьянов Виктор Геннадьевич": 4,
-      "Тугушев Анар Эльдар Оглы": 4,
-      "Фельдшеров Дмитрий Александрович": 4,
-      "Юсупов Андрей Владимирович": 2,
-      "Ярушин Юрий Владимирович": 10
+      "gas:candidate-vibid:2452000840183": 362,
+      "gas:candidate-vibid:2452000838643": 11,
+      "gas:candidate-vibid:2452000838217": 8,
+      "gas:candidate-vibid:2452000839012": 9,
+      "gas:candidate-vibid:2452000840515": 4,
+      "gas:candidate-vibid:2452000838278": 4,
+      "gas:candidate-vibid:2452000839974": 4,
+      "gas:candidate-vibid:2452000840145": 2,
+      "gas:candidate-vibid:2452000835984": 10
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kurgan?action=show&root=1000142&tvd=2452000794238&vrn=100100067795849&region=45&global=&sub_region=45&prver=0&pronetvd=null&vibid=2452000794238&type=464",
@@ -8480,15 +8480,15 @@ export const duma_2016_uik_463_region_45_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Ильтяков Александр Владимирович": 186,
-      "Ильчик Андрей Сергеевич": 20,
-      "Кислицын Василий Александрович": 38,
-      "Самойлов Александр Иванович": 10,
-      "Севостьянов Виктор Геннадьевич": 1,
-      "Тугушев Анар Эльдар Оглы": 5,
-      "Фельдшеров Дмитрий Александрович": 3,
-      "Юсупов Андрей Владимирович": 5,
-      "Ярушин Юрий Владимирович": 37
+      "gas:candidate-vibid:2452000840183": 186,
+      "gas:candidate-vibid:2452000838643": 20,
+      "gas:candidate-vibid:2452000838217": 38,
+      "gas:candidate-vibid:2452000839012": 10,
+      "gas:candidate-vibid:2452000840515": 1,
+      "gas:candidate-vibid:2452000838278": 5,
+      "gas:candidate-vibid:2452000839974": 3,
+      "gas:candidate-vibid:2452000840145": 5,
+      "gas:candidate-vibid:2452000835984": 37
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kurgan?action=show&root=1000142&tvd=2452000794238&vrn=100100067795849&region=45&global=&sub_region=45&prver=0&pronetvd=null&vibid=2452000794238&type=464",
@@ -8539,15 +8539,15 @@ export const duma_2016_uik_463_region_45_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Ильтяков Александр Владимирович": 556,
-      "Ильчик Андрей Сергеевич": 136,
-      "Кислицын Василий Александрович": 135,
-      "Самойлов Александр Иванович": 21,
-      "Севостьянов Виктор Геннадьевич": 19,
-      "Тугушев Анар Эльдар Оглы": 22,
-      "Фельдшеров Дмитрий Александрович": 12,
-      "Юсупов Андрей Владимирович": 12,
-      "Ярушин Юрий Владимирович": 87
+      "gas:candidate-vibid:2452000840183": 556,
+      "gas:candidate-vibid:2452000838643": 136,
+      "gas:candidate-vibid:2452000838217": 135,
+      "gas:candidate-vibid:2452000839012": 21,
+      "gas:candidate-vibid:2452000840515": 19,
+      "gas:candidate-vibid:2452000838278": 22,
+      "gas:candidate-vibid:2452000839974": 12,
+      "gas:candidate-vibid:2452000840145": 12,
+      "gas:candidate-vibid:2452000835984": 87
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kurgan?action=show&root=1000142&tvd=2452000794238&vrn=100100067795849&region=45&global=&sub_region=45&prver=0&pronetvd=null&vibid=2452000794238&type=464",
@@ -8598,15 +8598,15 @@ export const duma_2016_uik_463_region_45_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Ильтяков Александр Владимирович": 522,
-      "Ильчик Андрей Сергеевич": 135,
-      "Кислицын Василий Александрович": 176,
-      "Самойлов Александр Иванович": 26,
-      "Севостьянов Виктор Геннадьевич": 24,
-      "Тугушев Анар Эльдар Оглы": 18,
-      "Фельдшеров Дмитрий Александрович": 14,
-      "Юсупов Андрей Владимирович": 5,
-      "Ярушин Юрий Владимирович": 104
+      "gas:candidate-vibid:2452000840183": 522,
+      "gas:candidate-vibid:2452000838643": 135,
+      "gas:candidate-vibid:2452000838217": 176,
+      "gas:candidate-vibid:2452000839012": 26,
+      "gas:candidate-vibid:2452000840515": 24,
+      "gas:candidate-vibid:2452000838278": 18,
+      "gas:candidate-vibid:2452000839974": 14,
+      "gas:candidate-vibid:2452000840145": 5,
+      "gas:candidate-vibid:2452000835984": 104
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kurgan?action=show&root=1000142&tvd=2452000794238&vrn=100100067795849&region=45&global=&sub_region=45&prver=0&pronetvd=null&vibid=2452000794238&type=464",
@@ -8657,15 +8657,15 @@ export const duma_2016_uik_463_region_45_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Ильтяков Александр Владимирович": 298,
-      "Ильчик Андрей Сергеевич": 62,
-      "Кислицын Василий Александрович": 97,
-      "Самойлов Александр Иванович": 11,
-      "Севостьянов Виктор Геннадьевич": 9,
-      "Тугушев Анар Эльдар Оглы": 8,
-      "Фельдшеров Дмитрий Александрович": 7,
-      "Юсупов Андрей Владимирович": 10,
-      "Ярушин Юрий Владимирович": 52
+      "gas:candidate-vibid:2452000840183": 298,
+      "gas:candidate-vibid:2452000838643": 62,
+      "gas:candidate-vibid:2452000838217": 97,
+      "gas:candidate-vibid:2452000839012": 11,
+      "gas:candidate-vibid:2452000840515": 9,
+      "gas:candidate-vibid:2452000838278": 8,
+      "gas:candidate-vibid:2452000839974": 7,
+      "gas:candidate-vibid:2452000840145": 10,
+      "gas:candidate-vibid:2452000835984": 52
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kurgan?action=show&root=1000142&tvd=2452000794238&vrn=100100067795849&region=45&global=&sub_region=45&prver=0&pronetvd=null&vibid=2452000794238&type=464",
@@ -8716,15 +8716,15 @@ export const duma_2016_uik_463_region_45_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Ильтяков Александр Владимирович": 143,
-      "Ильчик Андрей Сергеевич": 23,
-      "Кислицын Василий Александрович": 29,
-      "Самойлов Александр Иванович": 8,
-      "Севостьянов Виктор Геннадьевич": 8,
-      "Тугушев Анар Эльдар Оглы": 6,
-      "Фельдшеров Дмитрий Александрович": 8,
-      "Юсупов Андрей Владимирович": 1,
-      "Ярушин Юрий Владимирович": 27
+      "gas:candidate-vibid:2452000840183": 143,
+      "gas:candidate-vibid:2452000838643": 23,
+      "gas:candidate-vibid:2452000838217": 29,
+      "gas:candidate-vibid:2452000839012": 8,
+      "gas:candidate-vibid:2452000840515": 8,
+      "gas:candidate-vibid:2452000838278": 6,
+      "gas:candidate-vibid:2452000839974": 8,
+      "gas:candidate-vibid:2452000840145": 1,
+      "gas:candidate-vibid:2452000835984": 27
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kurgan?action=show&root=1000142&tvd=2452000794238&vrn=100100067795849&region=45&global=&sub_region=45&prver=0&pronetvd=null&vibid=2452000794238&type=464",
@@ -8775,15 +8775,15 @@ export const duma_2016_uik_463_region_45_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Ильтяков Александр Владимирович": 282,
-      "Ильчик Андрей Сергеевич": 22,
-      "Кислицын Василий Александрович": 73,
-      "Самойлов Александр Иванович": 9,
-      "Севостьянов Виктор Геннадьевич": 5,
-      "Тугушев Анар Эльдар Оглы": 10,
-      "Фельдшеров Дмитрий Александрович": 6,
-      "Юсупов Андрей Владимирович": 5,
-      "Ярушин Юрий Владимирович": 53
+      "gas:candidate-vibid:2452000840183": 282,
+      "gas:candidate-vibid:2452000838643": 22,
+      "gas:candidate-vibid:2452000838217": 73,
+      "gas:candidate-vibid:2452000839012": 9,
+      "gas:candidate-vibid:2452000840515": 5,
+      "gas:candidate-vibid:2452000838278": 10,
+      "gas:candidate-vibid:2452000839974": 6,
+      "gas:candidate-vibid:2452000840145": 5,
+      "gas:candidate-vibid:2452000835984": 53
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kurgan?action=show&root=1000142&tvd=2452000794238&vrn=100100067795849&region=45&global=&sub_region=45&prver=0&pronetvd=null&vibid=2452000794238&type=464",
@@ -8834,15 +8834,15 @@ export const duma_2016_uik_463_region_45_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Ильтяков Александр Владимирович": 191,
-      "Ильчик Андрей Сергеевич": 39,
-      "Кислицын Василий Александрович": 67,
-      "Самойлов Александр Иванович": 3,
-      "Севостьянов Виктор Геннадьевич": 10,
-      "Тугушев Анар Эльдар Оглы": 7,
-      "Фельдшеров Дмитрий Александрович": 6,
-      "Юсупов Андрей Владимирович": 5,
-      "Ярушин Юрий Владимирович": 47
+      "gas:candidate-vibid:2452000840183": 191,
+      "gas:candidate-vibid:2452000838643": 39,
+      "gas:candidate-vibid:2452000838217": 67,
+      "gas:candidate-vibid:2452000839012": 3,
+      "gas:candidate-vibid:2452000840515": 10,
+      "gas:candidate-vibid:2452000838278": 7,
+      "gas:candidate-vibid:2452000839974": 6,
+      "gas:candidate-vibid:2452000840145": 5,
+      "gas:candidate-vibid:2452000835984": 47
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kurgan?action=show&root=1000142&tvd=2452000794238&vrn=100100067795849&region=45&global=&sub_region=45&prver=0&pronetvd=null&vibid=2452000794238&type=464",
@@ -8893,15 +8893,15 @@ export const duma_2016_uik_463_region_45_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Ильтяков Александр Владимирович": 152,
-      "Ильчик Андрей Сергеевич": 34,
-      "Кислицын Василий Александрович": 40,
-      "Самойлов Александр Иванович": 5,
-      "Севостьянов Виктор Геннадьевич": 5,
-      "Тугушев Анар Эльдар Оглы": 5,
-      "Фельдшеров Дмитрий Александрович": 5,
-      "Юсупов Андрей Владимирович": 4,
-      "Ярушин Юрий Владимирович": 29
+      "gas:candidate-vibid:2452000840183": 152,
+      "gas:candidate-vibid:2452000838643": 34,
+      "gas:candidate-vibid:2452000838217": 40,
+      "gas:candidate-vibid:2452000839012": 5,
+      "gas:candidate-vibid:2452000840515": 5,
+      "gas:candidate-vibid:2452000838278": 5,
+      "gas:candidate-vibid:2452000839974": 5,
+      "gas:candidate-vibid:2452000840145": 4,
+      "gas:candidate-vibid:2452000835984": 29
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kurgan?action=show&root=1000142&tvd=2452000794238&vrn=100100067795849&region=45&global=&sub_region=45&prver=0&pronetvd=null&vibid=2452000794238&type=464",
@@ -8952,15 +8952,15 @@ export const duma_2016_uik_463_region_45_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Ильтяков Александр Владимирович": 260,
-      "Ильчик Андрей Сергеевич": 43,
-      "Кислицын Василий Александрович": 58,
-      "Самойлов Александр Иванович": 15,
-      "Севостьянов Виктор Геннадьевич": 9,
-      "Тугушев Анар Эльдар Оглы": 6,
-      "Фельдшеров Дмитрий Александрович": 11,
-      "Юсупов Андрей Владимирович": 8,
-      "Ярушин Юрий Владимирович": 72
+      "gas:candidate-vibid:2452000840183": 260,
+      "gas:candidate-vibid:2452000838643": 43,
+      "gas:candidate-vibid:2452000838217": 58,
+      "gas:candidate-vibid:2452000839012": 15,
+      "gas:candidate-vibid:2452000840515": 9,
+      "gas:candidate-vibid:2452000838278": 6,
+      "gas:candidate-vibid:2452000839974": 11,
+      "gas:candidate-vibid:2452000840145": 8,
+      "gas:candidate-vibid:2452000835984": 72
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kurgan?action=show&root=1000142&tvd=2452000794238&vrn=100100067795849&region=45&global=&sub_region=45&prver=0&pronetvd=null&vibid=2452000794238&type=464",
@@ -9011,15 +9011,15 @@ export const duma_2016_uik_463_region_45_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Ильтяков Александр Владимирович": 214,
-      "Ильчик Андрей Сергеевич": 31,
-      "Кислицын Василий Александрович": 68,
-      "Самойлов Александр Иванович": 9,
-      "Севостьянов Виктор Геннадьевич": 8,
-      "Тугушев Анар Эльдар Оглы": 10,
-      "Фельдшеров Дмитрий Александрович": 4,
-      "Юсупов Андрей Владимирович": 2,
-      "Ярушин Юрий Владимирович": 43
+      "gas:candidate-vibid:2452000840183": 214,
+      "gas:candidate-vibid:2452000838643": 31,
+      "gas:candidate-vibid:2452000838217": 68,
+      "gas:candidate-vibid:2452000839012": 9,
+      "gas:candidate-vibid:2452000840515": 8,
+      "gas:candidate-vibid:2452000838278": 10,
+      "gas:candidate-vibid:2452000839974": 4,
+      "gas:candidate-vibid:2452000840145": 2,
+      "gas:candidate-vibid:2452000835984": 43
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kurgan?action=show&root=1000142&tvd=2452000794238&vrn=100100067795849&region=45&global=&sub_region=45&prver=0&pronetvd=null&vibid=2452000794238&type=464",
@@ -9070,15 +9070,15 @@ export const duma_2016_uik_463_region_45_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Ильтяков Александр Владимирович": 188,
-      "Ильчик Андрей Сергеевич": 42,
-      "Кислицын Василий Александрович": 37,
-      "Самойлов Александр Иванович": 5,
-      "Севостьянов Виктор Геннадьевич": 4,
-      "Тугушев Анар Эльдар Оглы": 5,
-      "Фельдшеров Дмитрий Александрович": 9,
-      "Юсупов Андрей Владимирович": 2,
-      "Ярушин Юрий Владимирович": 41
+      "gas:candidate-vibid:2452000840183": 188,
+      "gas:candidate-vibid:2452000838643": 42,
+      "gas:candidate-vibid:2452000838217": 37,
+      "gas:candidate-vibid:2452000839012": 5,
+      "gas:candidate-vibid:2452000840515": 4,
+      "gas:candidate-vibid:2452000838278": 5,
+      "gas:candidate-vibid:2452000839974": 9,
+      "gas:candidate-vibid:2452000840145": 2,
+      "gas:candidate-vibid:2452000835984": 41
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kurgan?action=show&root=1000142&tvd=2452000794238&vrn=100100067795849&region=45&global=&sub_region=45&prver=0&pronetvd=null&vibid=2452000794238&type=464",
@@ -9129,15 +9129,15 @@ export const duma_2016_uik_463_region_45_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Ильтяков Александр Владимирович": 179,
-      "Ильчик Андрей Сергеевич": 48,
-      "Кислицын Василий Александрович": 51,
-      "Самойлов Александр Иванович": 9,
-      "Севостьянов Виктор Геннадьевич": 12,
-      "Тугушев Анар Эльдар Оглы": 3,
-      "Фельдшеров Дмитрий Александрович": 4,
-      "Юсупов Андрей Владимирович": 3,
-      "Ярушин Юрий Владимирович": 51
+      "gas:candidate-vibid:2452000840183": 179,
+      "gas:candidate-vibid:2452000838643": 48,
+      "gas:candidate-vibid:2452000838217": 51,
+      "gas:candidate-vibid:2452000839012": 9,
+      "gas:candidate-vibid:2452000840515": 12,
+      "gas:candidate-vibid:2452000838278": 3,
+      "gas:candidate-vibid:2452000839974": 4,
+      "gas:candidate-vibid:2452000840145": 3,
+      "gas:candidate-vibid:2452000835984": 51
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kurgan?action=show&root=1000142&tvd=2452000794238&vrn=100100067795849&region=45&global=&sub_region=45&prver=0&pronetvd=null&vibid=2452000794238&type=464",
@@ -9188,15 +9188,15 @@ export const duma_2016_uik_463_region_45_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Ильтяков Александр Владимирович": 241,
-      "Ильчик Андрей Сергеевич": 53,
-      "Кислицын Василий Александрович": 61,
-      "Самойлов Александр Иванович": 12,
-      "Севостьянов Виктор Геннадьевич": 5,
-      "Тугушев Анар Эльдар Оглы": 6,
-      "Фельдшеров Дмитрий Александрович": 8,
-      "Юсупов Андрей Владимирович": 7,
-      "Ярушин Юрий Владимирович": 64
+      "gas:candidate-vibid:2452000840183": 241,
+      "gas:candidate-vibid:2452000838643": 53,
+      "gas:candidate-vibid:2452000838217": 61,
+      "gas:candidate-vibid:2452000839012": 12,
+      "gas:candidate-vibid:2452000840515": 5,
+      "gas:candidate-vibid:2452000838278": 6,
+      "gas:candidate-vibid:2452000839974": 8,
+      "gas:candidate-vibid:2452000840145": 7,
+      "gas:candidate-vibid:2452000835984": 64
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kurgan?action=show&root=1000142&tvd=2452000794238&vrn=100100067795849&region=45&global=&sub_region=45&prver=0&pronetvd=null&vibid=2452000794238&type=464",
@@ -9247,15 +9247,15 @@ export const duma_2016_uik_463_region_45_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Ильтяков Александр Владимирович": 410,
-      "Ильчик Андрей Сергеевич": 87,
-      "Кислицын Василий Александрович": 62,
-      "Самойлов Александр Иванович": 22,
-      "Севостьянов Виктор Геннадьевич": 25,
-      "Тугушев Анар Эльдар Оглы": 15,
-      "Фельдшеров Дмитрий Александрович": 14,
-      "Юсупов Андрей Владимирович": 5,
-      "Ярушин Юрий Владимирович": 100
+      "gas:candidate-vibid:2452000840183": 410,
+      "gas:candidate-vibid:2452000838643": 87,
+      "gas:candidate-vibid:2452000838217": 62,
+      "gas:candidate-vibid:2452000839012": 22,
+      "gas:candidate-vibid:2452000840515": 25,
+      "gas:candidate-vibid:2452000838278": 15,
+      "gas:candidate-vibid:2452000839974": 14,
+      "gas:candidate-vibid:2452000840145": 5,
+      "gas:candidate-vibid:2452000835984": 100
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kurgan?action=show&root=1000142&tvd=2452000794238&vrn=100100067795849&region=45&global=&sub_region=45&prver=0&pronetvd=null&vibid=2452000794238&type=464",
@@ -9306,15 +9306,15 @@ export const duma_2016_uik_463_region_45_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Ильтяков Александр Владимирович": 351,
-      "Ильчик Андрей Сергеевич": 55,
-      "Кислицын Василий Александрович": 94,
-      "Самойлов Александр Иванович": 21,
-      "Севостьянов Виктор Геннадьевич": 11,
-      "Тугушев Анар Эльдар Оглы": 13,
-      "Фельдшеров Дмитрий Александрович": 12,
-      "Юсупов Андрей Владимирович": 8,
-      "Ярушин Юрий Владимирович": 76
+      "gas:candidate-vibid:2452000840183": 351,
+      "gas:candidate-vibid:2452000838643": 55,
+      "gas:candidate-vibid:2452000838217": 94,
+      "gas:candidate-vibid:2452000839012": 21,
+      "gas:candidate-vibid:2452000840515": 11,
+      "gas:candidate-vibid:2452000838278": 13,
+      "gas:candidate-vibid:2452000839974": 12,
+      "gas:candidate-vibid:2452000840145": 8,
+      "gas:candidate-vibid:2452000835984": 76
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kurgan?action=show&root=1000142&tvd=2452000794238&vrn=100100067795849&region=45&global=&sub_region=45&prver=0&pronetvd=null&vibid=2452000794238&type=464",
@@ -9365,15 +9365,15 @@ export const duma_2016_uik_463_region_45_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Ильтяков Александр Владимирович": 282,
-      "Ильчик Андрей Сергеевич": 44,
-      "Кислицын Василий Александрович": 69,
-      "Самойлов Александр Иванович": 9,
-      "Севостьянов Виктор Геннадьевич": 6,
-      "Тугушев Анар Эльдар Оглы": 8,
-      "Фельдшеров Дмитрий Александрович": 9,
-      "Юсупов Андрей Владимирович": 3,
-      "Ярушин Юрий Владимирович": 63
+      "gas:candidate-vibid:2452000840183": 282,
+      "gas:candidate-vibid:2452000838643": 44,
+      "gas:candidate-vibid:2452000838217": 69,
+      "gas:candidate-vibid:2452000839012": 9,
+      "gas:candidate-vibid:2452000840515": 6,
+      "gas:candidate-vibid:2452000838278": 8,
+      "gas:candidate-vibid:2452000839974": 9,
+      "gas:candidate-vibid:2452000840145": 3,
+      "gas:candidate-vibid:2452000835984": 63
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kurgan?action=show&root=1000142&tvd=2452000794238&vrn=100100067795849&region=45&global=&sub_region=45&prver=0&pronetvd=null&vibid=2452000794238&type=464",
@@ -9424,15 +9424,15 @@ export const duma_2016_uik_463_region_45_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Ильтяков Александр Владимирович": 345,
-      "Ильчик Андрей Сергеевич": 92,
-      "Кислицын Василий Александрович": 116,
-      "Самойлов Александр Иванович": 23,
-      "Севостьянов Виктор Геннадьевич": 17,
-      "Тугушев Анар Эльдар Оглы": 20,
-      "Фельдшеров Дмитрий Александрович": 10,
-      "Юсупов Андрей Владимирович": 11,
-      "Ярушин Юрий Владимирович": 49
+      "gas:candidate-vibid:2452000840183": 345,
+      "gas:candidate-vibid:2452000838643": 92,
+      "gas:candidate-vibid:2452000838217": 116,
+      "gas:candidate-vibid:2452000839012": 23,
+      "gas:candidate-vibid:2452000840515": 17,
+      "gas:candidate-vibid:2452000838278": 20,
+      "gas:candidate-vibid:2452000839974": 10,
+      "gas:candidate-vibid:2452000840145": 11,
+      "gas:candidate-vibid:2452000835984": 49
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kurgan?action=show&root=1000142&tvd=2452000794238&vrn=100100067795849&region=45&global=&sub_region=45&prver=0&pronetvd=null&vibid=2452000794238&type=464",
@@ -9483,15 +9483,15 @@ export const duma_2016_uik_463_region_45_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Ильтяков Александр Владимирович": 531,
-      "Ильчик Андрей Сергеевич": 131,
-      "Кислицын Василий Александрович": 163,
-      "Самойлов Александр Иванович": 24,
-      "Севостьянов Виктор Геннадьевич": 20,
-      "Тугушев Анар Эльдар Оглы": 13,
-      "Фельдшеров Дмитрий Александрович": 9,
-      "Юсупов Андрей Владимирович": 4,
-      "Ярушин Юрий Владимирович": 88
+      "gas:candidate-vibid:2452000840183": 531,
+      "gas:candidate-vibid:2452000838643": 131,
+      "gas:candidate-vibid:2452000838217": 163,
+      "gas:candidate-vibid:2452000839012": 24,
+      "gas:candidate-vibid:2452000840515": 20,
+      "gas:candidate-vibid:2452000838278": 13,
+      "gas:candidate-vibid:2452000839974": 9,
+      "gas:candidate-vibid:2452000840145": 4,
+      "gas:candidate-vibid:2452000835984": 88
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kurgan?action=show&root=1000142&tvd=2452000794238&vrn=100100067795849&region=45&global=&sub_region=45&prver=0&pronetvd=null&vibid=2452000794238&type=464",
@@ -9542,15 +9542,15 @@ export const duma_2016_uik_463_region_45_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Ильтяков Александр Владимирович": 423,
-      "Ильчик Андрей Сергеевич": 60,
-      "Кислицын Василий Александрович": 122,
-      "Самойлов Александр Иванович": 68,
-      "Севостьянов Виктор Геннадьевич": 7,
-      "Тугушев Анар Эльдар Оглы": 9,
-      "Фельдшеров Дмитрий Александрович": 13,
-      "Юсупов Андрей Владимирович": 9,
-      "Ярушин Юрий Владимирович": 81
+      "gas:candidate-vibid:2452000840183": 423,
+      "gas:candidate-vibid:2452000838643": 60,
+      "gas:candidate-vibid:2452000838217": 122,
+      "gas:candidate-vibid:2452000839012": 68,
+      "gas:candidate-vibid:2452000840515": 7,
+      "gas:candidate-vibid:2452000838278": 9,
+      "gas:candidate-vibid:2452000839974": 13,
+      "gas:candidate-vibid:2452000840145": 9,
+      "gas:candidate-vibid:2452000835984": 81
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kurgan?action=show&root=1000142&tvd=2452000794238&vrn=100100067795849&region=45&global=&sub_region=45&prver=0&pronetvd=null&vibid=2452000794238&type=464",
@@ -9601,15 +9601,15 @@ export const duma_2016_uik_463_region_45_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Ильтяков Александр Владимирович": 390,
-      "Ильчик Андрей Сергеевич": 101,
-      "Кислицын Василий Александрович": 140,
-      "Самойлов Александр Иванович": 19,
-      "Севостьянов Виктор Геннадьевич": 15,
-      "Тугушев Анар Эльдар Оглы": 19,
-      "Фельдшеров Дмитрий Александрович": 10,
-      "Юсупов Андрей Владимирович": 6,
-      "Ярушин Юрий Владимирович": 61
+      "gas:candidate-vibid:2452000840183": 390,
+      "gas:candidate-vibid:2452000838643": 101,
+      "gas:candidate-vibid:2452000838217": 140,
+      "gas:candidate-vibid:2452000839012": 19,
+      "gas:candidate-vibid:2452000840515": 15,
+      "gas:candidate-vibid:2452000838278": 19,
+      "gas:candidate-vibid:2452000839974": 10,
+      "gas:candidate-vibid:2452000840145": 6,
+      "gas:candidate-vibid:2452000835984": 61
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kurgan?action=show&root=1000142&tvd=2452000794238&vrn=100100067795849&region=45&global=&sub_region=45&prver=0&pronetvd=null&vibid=2452000794238&type=464",
@@ -9660,15 +9660,15 @@ export const duma_2016_uik_463_region_45_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Ильтяков Александр Владимирович": 491,
-      "Ильчик Андрей Сергеевич": 124,
-      "Кислицын Василий Александрович": 154,
-      "Самойлов Александр Иванович": 22,
-      "Севостьянов Виктор Геннадьевич": 18,
-      "Тугушев Анар Эльдар Оглы": 21,
-      "Фельдшеров Дмитрий Александрович": 17,
-      "Юсупов Андрей Владимирович": 14,
-      "Ярушин Юрий Владимирович": 79
+      "gas:candidate-vibid:2452000840183": 491,
+      "gas:candidate-vibid:2452000838643": 124,
+      "gas:candidate-vibid:2452000838217": 154,
+      "gas:candidate-vibid:2452000839012": 22,
+      "gas:candidate-vibid:2452000840515": 18,
+      "gas:candidate-vibid:2452000838278": 21,
+      "gas:candidate-vibid:2452000839974": 17,
+      "gas:candidate-vibid:2452000840145": 14,
+      "gas:candidate-vibid:2452000835984": 79
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kurgan?action=show&root=1000142&tvd=2452000794238&vrn=100100067795849&region=45&global=&sub_region=45&prver=0&pronetvd=null&vibid=2452000794238&type=464",
@@ -9719,15 +9719,15 @@ export const duma_2016_uik_463_region_45_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Ильтяков Александр Владимирович": 506,
-      "Ильчик Андрей Сергеевич": 108,
-      "Кислицын Василий Александрович": 115,
-      "Самойлов Александр Иванович": 16,
-      "Севостьянов Виктор Геннадьевич": 14,
-      "Тугушев Анар Эльдар Оглы": 18,
-      "Фельдшеров Дмитрий Александрович": 11,
-      "Юсупов Андрей Владимирович": 9,
-      "Ярушин Юрий Владимирович": 65
+      "gas:candidate-vibid:2452000840183": 506,
+      "gas:candidate-vibid:2452000838643": 108,
+      "gas:candidate-vibid:2452000838217": 115,
+      "gas:candidate-vibid:2452000839012": 16,
+      "gas:candidate-vibid:2452000840515": 14,
+      "gas:candidate-vibid:2452000838278": 18,
+      "gas:candidate-vibid:2452000839974": 11,
+      "gas:candidate-vibid:2452000840145": 9,
+      "gas:candidate-vibid:2452000835984": 65
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kurgan?action=show&root=1000142&tvd=2452000794238&vrn=100100067795849&region=45&global=&sub_region=45&prver=0&pronetvd=null&vibid=2452000794238&type=464",
@@ -9778,15 +9778,15 @@ export const duma_2016_uik_463_region_45_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Ильтяков Александр Владимирович": 253,
-      "Ильчик Андрей Сергеевич": 43,
-      "Кислицын Василий Александрович": 58,
-      "Самойлов Александр Иванович": 6,
-      "Севостьянов Виктор Геннадьевич": 10,
-      "Тугушев Анар Эльдар Оглы": 11,
-      "Фельдшеров Дмитрий Александрович": 4,
-      "Юсупов Андрей Владимирович": 7,
-      "Ярушин Юрий Владимирович": 30
+      "gas:candidate-vibid:2452000840183": 253,
+      "gas:candidate-vibid:2452000838643": 43,
+      "gas:candidate-vibid:2452000838217": 58,
+      "gas:candidate-vibid:2452000839012": 6,
+      "gas:candidate-vibid:2452000840515": 10,
+      "gas:candidate-vibid:2452000838278": 11,
+      "gas:candidate-vibid:2452000839974": 4,
+      "gas:candidate-vibid:2452000840145": 7,
+      "gas:candidate-vibid:2452000835984": 30
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kurgan?action=show&root=1000142&tvd=2452000794238&vrn=100100067795849&region=45&global=&sub_region=45&prver=0&pronetvd=null&vibid=2452000794238&type=464",
@@ -9837,15 +9837,15 @@ export const duma_2016_uik_463_region_45_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Ильтяков Александр Владимирович": 249,
-      "Ильчик Андрей Сергеевич": 46,
-      "Кислицын Василий Александрович": 67,
-      "Самойлов Александр Иванович": 9,
-      "Севостьянов Виктор Геннадьевич": 6,
-      "Тугушев Анар Эльдар Оглы": 10,
-      "Фельдшеров Дмитрий Александрович": 3,
-      "Юсупов Андрей Владимирович": 3,
-      "Ярушин Юрий Владимирович": 62
+      "gas:candidate-vibid:2452000840183": 249,
+      "gas:candidate-vibid:2452000838643": 46,
+      "gas:candidate-vibid:2452000838217": 67,
+      "gas:candidate-vibid:2452000839012": 9,
+      "gas:candidate-vibid:2452000840515": 6,
+      "gas:candidate-vibid:2452000838278": 10,
+      "gas:candidate-vibid:2452000839974": 3,
+      "gas:candidate-vibid:2452000840145": 3,
+      "gas:candidate-vibid:2452000835984": 62
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kurgan?action=show&root=1000142&tvd=2452000794238&vrn=100100067795849&region=45&global=&sub_region=45&prver=0&pronetvd=null&vibid=2452000794238&type=464",
@@ -9896,15 +9896,15 @@ export const duma_2016_uik_463_region_45_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Ильтяков Александр Владимирович": 271,
-      "Ильчик Андрей Сергеевич": 67,
-      "Кислицын Василий Александрович": 94,
-      "Самойлов Александр Иванович": 21,
-      "Севостьянов Виктор Геннадьевич": 6,
-      "Тугушев Анар Эльдар Оглы": 8,
-      "Фельдшеров Дмитрий Александрович": 12,
-      "Юсупов Андрей Владимирович": 5,
-      "Ярушин Юрий Владимирович": 40
+      "gas:candidate-vibid:2452000840183": 271,
+      "gas:candidate-vibid:2452000838643": 67,
+      "gas:candidate-vibid:2452000838217": 94,
+      "gas:candidate-vibid:2452000839012": 21,
+      "gas:candidate-vibid:2452000840515": 6,
+      "gas:candidate-vibid:2452000838278": 8,
+      "gas:candidate-vibid:2452000839974": 12,
+      "gas:candidate-vibid:2452000840145": 5,
+      "gas:candidate-vibid:2452000835984": 40
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kurgan?action=show&root=1000142&tvd=2452000794238&vrn=100100067795849&region=45&global=&sub_region=45&prver=0&pronetvd=null&vibid=2452000794238&type=464",
@@ -9955,15 +9955,15 @@ export const duma_2016_uik_463_region_45_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Ильтяков Александр Владимирович": 252,
-      "Ильчик Андрей Сергеевич": 45,
-      "Кислицын Василий Александрович": 98,
-      "Самойлов Александр Иванович": 13,
-      "Севостьянов Виктор Геннадьевич": 14,
-      "Тугушев Анар Эльдар Оглы": 8,
-      "Фельдшеров Дмитрий Александрович": 12,
-      "Юсупов Андрей Владимирович": 7,
-      "Ярушин Юрий Владимирович": 74
+      "gas:candidate-vibid:2452000840183": 252,
+      "gas:candidate-vibid:2452000838643": 45,
+      "gas:candidate-vibid:2452000838217": 98,
+      "gas:candidate-vibid:2452000839012": 13,
+      "gas:candidate-vibid:2452000840515": 14,
+      "gas:candidate-vibid:2452000838278": 8,
+      "gas:candidate-vibid:2452000839974": 12,
+      "gas:candidate-vibid:2452000840145": 7,
+      "gas:candidate-vibid:2452000835984": 74
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kurgan?action=show&root=1000142&tvd=2452000794238&vrn=100100067795849&region=45&global=&sub_region=45&prver=0&pronetvd=null&vibid=2452000794238&type=464",
@@ -10014,15 +10014,15 @@ export const duma_2016_uik_463_region_45_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Ильтяков Александр Владимирович": 464,
-      "Ильчик Андрей Сергеевич": 117,
-      "Кислицын Василий Александрович": 143,
-      "Самойлов Александр Иванович": 17,
-      "Севостьянов Виктор Геннадьевич": 12,
-      "Тугушев Анар Эльдар Оглы": 12,
-      "Фельдшеров Дмитрий Александрович": 19,
-      "Юсупов Андрей Владимирович": 9,
-      "Ярушин Юрий Владимирович": 86
+      "gas:candidate-vibid:2452000840183": 464,
+      "gas:candidate-vibid:2452000838643": 117,
+      "gas:candidate-vibid:2452000838217": 143,
+      "gas:candidate-vibid:2452000839012": 17,
+      "gas:candidate-vibid:2452000840515": 12,
+      "gas:candidate-vibid:2452000838278": 12,
+      "gas:candidate-vibid:2452000839974": 19,
+      "gas:candidate-vibid:2452000840145": 9,
+      "gas:candidate-vibid:2452000835984": 86
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kurgan?action=show&root=1000142&tvd=2452000794238&vrn=100100067795849&region=45&global=&sub_region=45&prver=0&pronetvd=null&vibid=2452000794238&type=464",
@@ -10073,15 +10073,15 @@ export const duma_2016_uik_463_region_45_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Ильтяков Александр Владимирович": 504,
-      "Ильчик Андрей Сергеевич": 106,
-      "Кислицын Василий Александрович": 113,
-      "Самойлов Александр Иванович": 21,
-      "Севостьянов Виктор Геннадьевич": 14,
-      "Тугушев Анар Эльдар Оглы": 24,
-      "Фельдшеров Дмитрий Александрович": 15,
-      "Юсупов Андрей Владимирович": 17,
-      "Ярушин Юрий Владимирович": 75
+      "gas:candidate-vibid:2452000840183": 504,
+      "gas:candidate-vibid:2452000838643": 106,
+      "gas:candidate-vibid:2452000838217": 113,
+      "gas:candidate-vibid:2452000839012": 21,
+      "gas:candidate-vibid:2452000840515": 14,
+      "gas:candidate-vibid:2452000838278": 24,
+      "gas:candidate-vibid:2452000839974": 15,
+      "gas:candidate-vibid:2452000840145": 17,
+      "gas:candidate-vibid:2452000835984": 75
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kurgan?action=show&root=1000142&tvd=2452000794238&vrn=100100067795849&region=45&global=&sub_region=45&prver=0&pronetvd=null&vibid=2452000794238&type=464",
@@ -10132,15 +10132,15 @@ export const duma_2016_uik_463_region_45_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Ильтяков Александр Владимирович": 255,
-      "Ильчик Андрей Сергеевич": 56,
-      "Кислицын Василий Александрович": 73,
-      "Самойлов Александр Иванович": 8,
-      "Севостьянов Виктор Геннадьевич": 8,
-      "Тугушев Анар Эльдар Оглы": 5,
-      "Фельдшеров Дмитрий Александрович": 8,
-      "Юсупов Андрей Владимирович": 6,
-      "Ярушин Юрий Владимирович": 41
+      "gas:candidate-vibid:2452000840183": 255,
+      "gas:candidate-vibid:2452000838643": 56,
+      "gas:candidate-vibid:2452000838217": 73,
+      "gas:candidate-vibid:2452000839012": 8,
+      "gas:candidate-vibid:2452000840515": 8,
+      "gas:candidate-vibid:2452000838278": 5,
+      "gas:candidate-vibid:2452000839974": 8,
+      "gas:candidate-vibid:2452000840145": 6,
+      "gas:candidate-vibid:2452000835984": 41
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kurgan?action=show&root=1000142&tvd=2452000794238&vrn=100100067795849&region=45&global=&sub_region=45&prver=0&pronetvd=null&vibid=2452000794238&type=464",
@@ -10191,15 +10191,15 @@ export const duma_2016_uik_463_region_45_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Ильтяков Александр Владимирович": 229,
-      "Ильчик Андрей Сергеевич": 54,
-      "Кислицын Василий Александрович": 64,
-      "Самойлов Александр Иванович": 11,
-      "Севостьянов Виктор Геннадьевич": 4,
-      "Тугушев Анар Эльдар Оглы": 6,
-      "Фельдшеров Дмитрий Александрович": 2,
-      "Юсупов Андрей Владимирович": 5,
-      "Ярушин Юрий Владимирович": 42
+      "gas:candidate-vibid:2452000840183": 229,
+      "gas:candidate-vibid:2452000838643": 54,
+      "gas:candidate-vibid:2452000838217": 64,
+      "gas:candidate-vibid:2452000839012": 11,
+      "gas:candidate-vibid:2452000840515": 4,
+      "gas:candidate-vibid:2452000838278": 6,
+      "gas:candidate-vibid:2452000839974": 2,
+      "gas:candidate-vibid:2452000840145": 5,
+      "gas:candidate-vibid:2452000835984": 42
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kurgan?action=show&root=1000142&tvd=2452000794238&vrn=100100067795849&region=45&global=&sub_region=45&prver=0&pronetvd=null&vibid=2452000794238&type=464",
@@ -10250,15 +10250,15 @@ export const duma_2016_uik_463_region_45_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Ильтяков Александр Владимирович": 293,
-      "Ильчик Андрей Сергеевич": 60,
-      "Кислицын Василий Александрович": 114,
-      "Самойлов Александр Иванович": 14,
-      "Севостьянов Виктор Геннадьевич": 6,
-      "Тугушев Анар Эльдар Оглы": 13,
-      "Фельдшеров Дмитрий Александрович": 9,
-      "Юсупов Андрей Владимирович": 7,
-      "Ярушин Юрий Владимирович": 42
+      "gas:candidate-vibid:2452000840183": 293,
+      "gas:candidate-vibid:2452000838643": 60,
+      "gas:candidate-vibid:2452000838217": 114,
+      "gas:candidate-vibid:2452000839012": 14,
+      "gas:candidate-vibid:2452000840515": 6,
+      "gas:candidate-vibid:2452000838278": 13,
+      "gas:candidate-vibid:2452000839974": 9,
+      "gas:candidate-vibid:2452000840145": 7,
+      "gas:candidate-vibid:2452000835984": 42
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kurgan?action=show&root=1000142&tvd=2452000794238&vrn=100100067795849&region=45&global=&sub_region=45&prver=0&pronetvd=null&vibid=2452000794238&type=464",
@@ -10309,15 +10309,15 @@ export const duma_2016_uik_463_region_45_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Ильтяков Александр Владимирович": 463,
-      "Ильчик Андрей Сергеевич": 115,
-      "Кислицын Василий Александрович": 150,
-      "Самойлов Александр Иванович": 17,
-      "Севостьянов Виктор Геннадьевич": 14,
-      "Тугушев Анар Эльдар Оглы": 18,
-      "Фельдшеров Дмитрий Александрович": 19,
-      "Юсупов Андрей Владимирович": 10,
-      "Ярушин Юрий Владимирович": 98
+      "gas:candidate-vibid:2452000840183": 463,
+      "gas:candidate-vibid:2452000838643": 115,
+      "gas:candidate-vibid:2452000838217": 150,
+      "gas:candidate-vibid:2452000839012": 17,
+      "gas:candidate-vibid:2452000840515": 14,
+      "gas:candidate-vibid:2452000838278": 18,
+      "gas:candidate-vibid:2452000839974": 19,
+      "gas:candidate-vibid:2452000840145": 10,
+      "gas:candidate-vibid:2452000835984": 98
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kurgan?action=show&root=1000142&tvd=2452000794238&vrn=100100067795849&region=45&global=&sub_region=45&prver=0&pronetvd=null&vibid=2452000794238&type=464",
@@ -10368,15 +10368,15 @@ export const duma_2016_uik_463_region_45_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Ильтяков Александр Владимирович": 219,
-      "Ильчик Андрей Сергеевич": 39,
-      "Кислицын Василий Александрович": 70,
-      "Самойлов Александр Иванович": 10,
-      "Севостьянов Виктор Геннадьевич": 3,
-      "Тугушев Анар Эльдар Оглы": 5,
-      "Фельдшеров Дмитрий Александрович": 6,
-      "Юсупов Андрей Владимирович": 5,
-      "Ярушин Юрий Владимирович": 54
+      "gas:candidate-vibid:2452000840183": 219,
+      "gas:candidate-vibid:2452000838643": 39,
+      "gas:candidate-vibid:2452000838217": 70,
+      "gas:candidate-vibid:2452000839012": 10,
+      "gas:candidate-vibid:2452000840515": 3,
+      "gas:candidate-vibid:2452000838278": 5,
+      "gas:candidate-vibid:2452000839974": 6,
+      "gas:candidate-vibid:2452000840145": 5,
+      "gas:candidate-vibid:2452000835984": 54
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kurgan?action=show&root=1000142&tvd=2452000794238&vrn=100100067795849&region=45&global=&sub_region=45&prver=0&pronetvd=null&vibid=2452000794238&type=464",
@@ -10427,15 +10427,15 @@ export const duma_2016_uik_463_region_45_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Ильтяков Александр Владимирович": 119,
-      "Ильчик Андрей Сергеевич": 32,
-      "Кислицын Василий Александрович": 42,
-      "Самойлов Александр Иванович": 4,
-      "Севостьянов Виктор Геннадьевич": 1,
-      "Тугушев Анар Эльдар Оглы": 3,
-      "Фельдшеров Дмитрий Александрович": 1,
-      "Юсупов Андрей Владимирович": 3,
-      "Ярушин Юрий Владимирович": 28
+      "gas:candidate-vibid:2452000840183": 119,
+      "gas:candidate-vibid:2452000838643": 32,
+      "gas:candidate-vibid:2452000838217": 42,
+      "gas:candidate-vibid:2452000839012": 4,
+      "gas:candidate-vibid:2452000840515": 1,
+      "gas:candidate-vibid:2452000838278": 3,
+      "gas:candidate-vibid:2452000839974": 1,
+      "gas:candidate-vibid:2452000840145": 3,
+      "gas:candidate-vibid:2452000835984": 28
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kurgan?action=show&root=1000142&tvd=2452000794238&vrn=100100067795849&region=45&global=&sub_region=45&prver=0&pronetvd=null&vibid=2452000794238&type=464",
@@ -10486,15 +10486,15 @@ export const duma_2016_uik_463_region_45_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Ильтяков Александр Владимирович": 37,
-      "Ильчик Андрей Сергеевич": 7,
-      "Кислицын Василий Александрович": 8,
-      "Самойлов Александр Иванович": 0,
-      "Севостьянов Виктор Геннадьевич": 0,
-      "Тугушев Анар Эльдар Оглы": 1,
-      "Фельдшеров Дмитрий Александрович": 2,
-      "Юсупов Андрей Владимирович": 1,
-      "Ярушин Юрий Владимирович": 7
+      "gas:candidate-vibid:2452000840183": 37,
+      "gas:candidate-vibid:2452000838643": 7,
+      "gas:candidate-vibid:2452000838217": 8,
+      "gas:candidate-vibid:2452000839012": 0,
+      "gas:candidate-vibid:2452000840515": 0,
+      "gas:candidate-vibid:2452000838278": 1,
+      "gas:candidate-vibid:2452000839974": 2,
+      "gas:candidate-vibid:2452000840145": 1,
+      "gas:candidate-vibid:2452000835984": 7
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kurgan?action=show&root=1000142&tvd=2452000794238&vrn=100100067795849&region=45&global=&sub_region=45&prver=0&pronetvd=null&vibid=2452000794238&type=464",
@@ -10545,15 +10545,15 @@ export const duma_2016_uik_463_region_45_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Ильтяков Александр Владимирович": 68,
-      "Ильчик Андрей Сергеевич": 10,
-      "Кислицын Василий Александрович": 29,
-      "Самойлов Александр Иванович": 3,
-      "Севостьянов Виктор Геннадьевич": 1,
-      "Тугушев Анар Эльдар Оглы": 4,
-      "Фельдшеров Дмитрий Александрович": 0,
-      "Юсупов Андрей Владимирович": 1,
-      "Ярушин Юрий Владимирович": 5
+      "gas:candidate-vibid:2452000840183": 68,
+      "gas:candidate-vibid:2452000838643": 10,
+      "gas:candidate-vibid:2452000838217": 29,
+      "gas:candidate-vibid:2452000839012": 3,
+      "gas:candidate-vibid:2452000840515": 1,
+      "gas:candidate-vibid:2452000838278": 4,
+      "gas:candidate-vibid:2452000839974": 0,
+      "gas:candidate-vibid:2452000840145": 1,
+      "gas:candidate-vibid:2452000835984": 5
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kurgan?action=show&root=1000142&tvd=2452000794239&vrn=100100067795849&region=45&global=&sub_region=45&prver=0&pronetvd=null&vibid=2452000794239&type=464",
@@ -10604,15 +10604,15 @@ export const duma_2016_uik_463_region_45_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Ильтяков Александр Владимирович": 37,
-      "Ильчик Андрей Сергеевич": 11,
-      "Кислицын Василий Александрович": 29,
-      "Самойлов Александр Иванович": 3,
-      "Севостьянов Виктор Геннадьевич": 4,
-      "Тугушев Анар Эльдар Оглы": 4,
-      "Фельдшеров Дмитрий Александрович": 2,
-      "Юсупов Андрей Владимирович": 1,
-      "Ярушин Юрий Владимирович": 10
+      "gas:candidate-vibid:2452000840183": 37,
+      "gas:candidate-vibid:2452000838643": 11,
+      "gas:candidate-vibid:2452000838217": 29,
+      "gas:candidate-vibid:2452000839012": 3,
+      "gas:candidate-vibid:2452000840515": 4,
+      "gas:candidate-vibid:2452000838278": 4,
+      "gas:candidate-vibid:2452000839974": 2,
+      "gas:candidate-vibid:2452000840145": 1,
+      "gas:candidate-vibid:2452000835984": 10
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kurgan?action=show&root=1000142&tvd=2452000794239&vrn=100100067795849&region=45&global=&sub_region=45&prver=0&pronetvd=null&vibid=2452000794239&type=464",
@@ -10663,15 +10663,15 @@ export const duma_2016_uik_463_region_45_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Ильтяков Александр Владимирович": 87,
-      "Ильчик Андрей Сергеевич": 1,
-      "Кислицын Василий Александрович": 1,
-      "Самойлов Александр Иванович": 2,
-      "Севостьянов Виктор Геннадьевич": 0,
-      "Тугушев Анар Эльдар Оглы": 0,
-      "Фельдшеров Дмитрий Александрович": 0,
-      "Юсупов Андрей Владимирович": 5,
-      "Ярушин Юрий Владимирович": 8
+      "gas:candidate-vibid:2452000840183": 87,
+      "gas:candidate-vibid:2452000838643": 1,
+      "gas:candidate-vibid:2452000838217": 1,
+      "gas:candidate-vibid:2452000839012": 2,
+      "gas:candidate-vibid:2452000840515": 0,
+      "gas:candidate-vibid:2452000838278": 0,
+      "gas:candidate-vibid:2452000839974": 0,
+      "gas:candidate-vibid:2452000840145": 5,
+      "gas:candidate-vibid:2452000835984": 8
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kurgan?action=show&root=1000142&tvd=2452000794239&vrn=100100067795849&region=45&global=&sub_region=45&prver=0&pronetvd=null&vibid=2452000794239&type=464",
@@ -10722,15 +10722,15 @@ export const duma_2016_uik_463_region_45_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Ильтяков Александр Владимирович": 407,
-      "Ильчик Андрей Сергеевич": 25,
-      "Кислицын Василий Александрович": 79,
-      "Самойлов Александр Иванович": 19,
-      "Севостьянов Виктор Геннадьевич": 12,
-      "Тугушев Анар Эльдар Оглы": 10,
-      "Фельдшеров Дмитрий Александрович": 2,
-      "Юсупов Андрей Владимирович": 5,
-      "Ярушин Юрий Владимирович": 29
+      "gas:candidate-vibid:2452000840183": 407,
+      "gas:candidate-vibid:2452000838643": 25,
+      "gas:candidate-vibid:2452000838217": 79,
+      "gas:candidate-vibid:2452000839012": 19,
+      "gas:candidate-vibid:2452000840515": 12,
+      "gas:candidate-vibid:2452000838278": 10,
+      "gas:candidate-vibid:2452000839974": 2,
+      "gas:candidate-vibid:2452000840145": 5,
+      "gas:candidate-vibid:2452000835984": 29
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kurgan?action=show&root=1000142&tvd=2452000794239&vrn=100100067795849&region=45&global=&sub_region=45&prver=0&pronetvd=null&vibid=2452000794239&type=464",
@@ -10781,15 +10781,15 @@ export const duma_2016_uik_463_region_45_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Ильтяков Александр Владимирович": 61,
-      "Ильчик Андрей Сергеевич": 14,
-      "Кислицын Василий Александрович": 15,
-      "Самойлов Александр Иванович": 0,
-      "Севостьянов Виктор Геннадьевич": 1,
-      "Тугушев Анар Эльдар Оглы": 1,
-      "Фельдшеров Дмитрий Александрович": 1,
-      "Юсупов Андрей Владимирович": 0,
-      "Ярушин Юрий Владимирович": 9
+      "gas:candidate-vibid:2452000840183": 61,
+      "gas:candidate-vibid:2452000838643": 14,
+      "gas:candidate-vibid:2452000838217": 15,
+      "gas:candidate-vibid:2452000839012": 0,
+      "gas:candidate-vibid:2452000840515": 1,
+      "gas:candidate-vibid:2452000838278": 1,
+      "gas:candidate-vibid:2452000839974": 1,
+      "gas:candidate-vibid:2452000840145": 0,
+      "gas:candidate-vibid:2452000835984": 9
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kurgan?action=show&root=1000142&tvd=2452000794239&vrn=100100067795849&region=45&global=&sub_region=45&prver=0&pronetvd=null&vibid=2452000794239&type=464",
@@ -10840,15 +10840,15 @@ export const duma_2016_uik_463_region_45_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Ильтяков Александр Владимирович": 81,
-      "Ильчик Андрей Сергеевич": 3,
-      "Кислицын Василий Александрович": 13,
-      "Самойлов Александр Иванович": 1,
-      "Севостьянов Виктор Геннадьевич": 0,
-      "Тугушев Анар Эльдар Оглы": 0,
-      "Фельдшеров Дмитрий Александрович": 1,
-      "Юсупов Андрей Владимирович": 3,
-      "Ярушин Юрий Владимирович": 14
+      "gas:candidate-vibid:2452000840183": 81,
+      "gas:candidate-vibid:2452000838643": 3,
+      "gas:candidate-vibid:2452000838217": 13,
+      "gas:candidate-vibid:2452000839012": 1,
+      "gas:candidate-vibid:2452000840515": 0,
+      "gas:candidate-vibid:2452000838278": 0,
+      "gas:candidate-vibid:2452000839974": 1,
+      "gas:candidate-vibid:2452000840145": 3,
+      "gas:candidate-vibid:2452000835984": 14
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kurgan?action=show&root=1000142&tvd=2452000794239&vrn=100100067795849&region=45&global=&sub_region=45&prver=0&pronetvd=null&vibid=2452000794239&type=464",
@@ -10899,15 +10899,15 @@ export const duma_2016_uik_463_region_45_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Ильтяков Александр Владимирович": 89,
-      "Ильчик Андрей Сергеевич": 8,
-      "Кислицын Василий Александрович": 5,
-      "Самойлов Александр Иванович": 1,
-      "Севостьянов Виктор Геннадьевич": 1,
-      "Тугушев Анар Эльдар Оглы": 2,
-      "Фельдшеров Дмитрий Александрович": 0,
-      "Юсупов Андрей Владимирович": 0,
-      "Ярушин Юрий Владимирович": 6
+      "gas:candidate-vibid:2452000840183": 89,
+      "gas:candidate-vibid:2452000838643": 8,
+      "gas:candidate-vibid:2452000838217": 5,
+      "gas:candidate-vibid:2452000839012": 1,
+      "gas:candidate-vibid:2452000840515": 1,
+      "gas:candidate-vibid:2452000838278": 2,
+      "gas:candidate-vibid:2452000839974": 0,
+      "gas:candidate-vibid:2452000840145": 0,
+      "gas:candidate-vibid:2452000835984": 6
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kurgan?action=show&root=1000142&tvd=2452000794239&vrn=100100067795849&region=45&global=&sub_region=45&prver=0&pronetvd=null&vibid=2452000794239&type=464",
@@ -10958,15 +10958,15 @@ export const duma_2016_uik_463_region_45_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Ильтяков Александр Владимирович": 58,
-      "Ильчик Андрей Сергеевич": 2,
-      "Кислицын Василий Александрович": 10,
-      "Самойлов Александр Иванович": 4,
-      "Севостьянов Виктор Геннадьевич": 0,
-      "Тугушев Анар Эльдар Оглы": 3,
-      "Фельдшеров Дмитрий Александрович": 0,
-      "Юсупов Андрей Владимирович": 1,
-      "Ярушин Юрий Владимирович": 6
+      "gas:candidate-vibid:2452000840183": 58,
+      "gas:candidate-vibid:2452000838643": 2,
+      "gas:candidate-vibid:2452000838217": 10,
+      "gas:candidate-vibid:2452000839012": 4,
+      "gas:candidate-vibid:2452000840515": 0,
+      "gas:candidate-vibid:2452000838278": 3,
+      "gas:candidate-vibid:2452000839974": 0,
+      "gas:candidate-vibid:2452000840145": 1,
+      "gas:candidate-vibid:2452000835984": 6
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kurgan?action=show&root=1000142&tvd=2452000794239&vrn=100100067795849&region=45&global=&sub_region=45&prver=0&pronetvd=null&vibid=2452000794239&type=464",
@@ -11017,15 +11017,15 @@ export const duma_2016_uik_463_region_45_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Ильтяков Александр Владимирович": 256,
-      "Ильчик Андрей Сергеевич": 36,
-      "Кислицын Василий Александрович": 93,
-      "Самойлов Александр Иванович": 5,
-      "Севостьянов Виктор Геннадьевич": 3,
-      "Тугушев Анар Эльдар Оглы": 10,
-      "Фельдшеров Дмитрий Александрович": 6,
-      "Юсупов Андрей Владимирович": 6,
-      "Ярушин Юрий Владимирович": 36
+      "gas:candidate-vibid:2452000840183": 256,
+      "gas:candidate-vibid:2452000838643": 36,
+      "gas:candidate-vibid:2452000838217": 93,
+      "gas:candidate-vibid:2452000839012": 5,
+      "gas:candidate-vibid:2452000840515": 3,
+      "gas:candidate-vibid:2452000838278": 10,
+      "gas:candidate-vibid:2452000839974": 6,
+      "gas:candidate-vibid:2452000840145": 6,
+      "gas:candidate-vibid:2452000835984": 36
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kurgan?action=show&root=1000142&tvd=2452000794239&vrn=100100067795849&region=45&global=&sub_region=45&prver=0&pronetvd=null&vibid=2452000794239&type=464",
@@ -11076,15 +11076,15 @@ export const duma_2016_uik_463_region_45_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Ильтяков Александр Владимирович": 94,
-      "Ильчик Андрей Сергеевич": 10,
-      "Кислицын Василий Александрович": 18,
-      "Самойлов Александр Иванович": 2,
-      "Севостьянов Виктор Геннадьевич": 1,
-      "Тугушев Анар Эльдар Оглы": 4,
-      "Фельдшеров Дмитрий Александрович": 0,
-      "Юсупов Андрей Владимирович": 2,
-      "Ярушин Юрий Владимирович": 8
+      "gas:candidate-vibid:2452000840183": 94,
+      "gas:candidate-vibid:2452000838643": 10,
+      "gas:candidate-vibid:2452000838217": 18,
+      "gas:candidate-vibid:2452000839012": 2,
+      "gas:candidate-vibid:2452000840515": 1,
+      "gas:candidate-vibid:2452000838278": 4,
+      "gas:candidate-vibid:2452000839974": 0,
+      "gas:candidate-vibid:2452000840145": 2,
+      "gas:candidate-vibid:2452000835984": 8
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kurgan?action=show&root=1000142&tvd=2452000794239&vrn=100100067795849&region=45&global=&sub_region=45&prver=0&pronetvd=null&vibid=2452000794239&type=464",
@@ -11135,15 +11135,15 @@ export const duma_2016_uik_463_region_45_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Ильтяков Александр Владимирович": 147,
-      "Ильчик Андрей Сергеевич": 11,
-      "Кислицын Василий Александрович": 12,
-      "Самойлов Александр Иванович": 5,
-      "Севостьянов Виктор Геннадьевич": 0,
-      "Тугушев Анар Эльдар Оглы": 3,
-      "Фельдшеров Дмитрий Александрович": 1,
-      "Юсупов Андрей Владимирович": 0,
-      "Ярушин Юрий Владимирович": 16
+      "gas:candidate-vibid:2452000840183": 147,
+      "gas:candidate-vibid:2452000838643": 11,
+      "gas:candidate-vibid:2452000838217": 12,
+      "gas:candidate-vibid:2452000839012": 5,
+      "gas:candidate-vibid:2452000840515": 0,
+      "gas:candidate-vibid:2452000838278": 3,
+      "gas:candidate-vibid:2452000839974": 1,
+      "gas:candidate-vibid:2452000840145": 0,
+      "gas:candidate-vibid:2452000835984": 16
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kurgan?action=show&root=1000142&tvd=2452000794239&vrn=100100067795849&region=45&global=&sub_region=45&prver=0&pronetvd=null&vibid=2452000794239&type=464",
@@ -11194,15 +11194,15 @@ export const duma_2016_uik_463_region_45_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Ильтяков Александр Владимирович": 91,
-      "Ильчик Андрей Сергеевич": 12,
-      "Кислицын Василий Александрович": 32,
-      "Самойлов Александр Иванович": 5,
-      "Севостьянов Виктор Геннадьевич": 2,
-      "Тугушев Анар Эльдар Оглы": 2,
-      "Фельдшеров Дмитрий Александрович": 2,
-      "Юсупов Андрей Владимирович": 2,
-      "Ярушин Юрий Владимирович": 35
+      "gas:candidate-vibid:2452000840183": 91,
+      "gas:candidate-vibid:2452000838643": 12,
+      "gas:candidate-vibid:2452000838217": 32,
+      "gas:candidate-vibid:2452000839012": 5,
+      "gas:candidate-vibid:2452000840515": 2,
+      "gas:candidate-vibid:2452000838278": 2,
+      "gas:candidate-vibid:2452000839974": 2,
+      "gas:candidate-vibid:2452000840145": 2,
+      "gas:candidate-vibid:2452000835984": 35
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kurgan?action=show&root=1000142&tvd=2452000794239&vrn=100100067795849&region=45&global=&sub_region=45&prver=0&pronetvd=null&vibid=2452000794239&type=464",
@@ -11253,15 +11253,15 @@ export const duma_2016_uik_463_region_45_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Ильтяков Александр Владимирович": 238,
-      "Ильчик Андрей Сергеевич": 42,
-      "Кислицын Василий Александрович": 82,
-      "Самойлов Александр Иванович": 19,
-      "Севостьянов Виктор Геннадьевич": 4,
-      "Тугушев Анар Эльдар Оглы": 10,
-      "Фельдшеров Дмитрий Александрович": 9,
-      "Юсупов Андрей Владимирович": 11,
-      "Ярушин Юрий Владимирович": 43
+      "gas:candidate-vibid:2452000840183": 238,
+      "gas:candidate-vibid:2452000838643": 42,
+      "gas:candidate-vibid:2452000838217": 82,
+      "gas:candidate-vibid:2452000839012": 19,
+      "gas:candidate-vibid:2452000840515": 4,
+      "gas:candidate-vibid:2452000838278": 10,
+      "gas:candidate-vibid:2452000839974": 9,
+      "gas:candidate-vibid:2452000840145": 11,
+      "gas:candidate-vibid:2452000835984": 43
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kurgan?action=show&root=1000142&tvd=2452000794239&vrn=100100067795849&region=45&global=&sub_region=45&prver=0&pronetvd=null&vibid=2452000794239&type=464",
@@ -11312,15 +11312,15 @@ export const duma_2016_uik_463_region_45_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Ильтяков Александр Владимирович": 173,
-      "Ильчик Андрей Сергеевич": 9,
-      "Кислицын Василий Александрович": 13,
-      "Самойлов Александр Иванович": 1,
-      "Севостьянов Виктор Геннадьевич": 1,
-      "Тугушев Анар Эльдар Оглы": 0,
-      "Фельдшеров Дмитрий Александрович": 0,
-      "Юсупов Андрей Владимирович": 2,
-      "Ярушин Юрий Владимирович": 10
+      "gas:candidate-vibid:2452000840183": 173,
+      "gas:candidate-vibid:2452000838643": 9,
+      "gas:candidate-vibid:2452000838217": 13,
+      "gas:candidate-vibid:2452000839012": 1,
+      "gas:candidate-vibid:2452000840515": 1,
+      "gas:candidate-vibid:2452000838278": 0,
+      "gas:candidate-vibid:2452000839974": 0,
+      "gas:candidate-vibid:2452000840145": 2,
+      "gas:candidate-vibid:2452000835984": 10
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kurgan?action=show&root=1000142&tvd=2452000794239&vrn=100100067795849&region=45&global=&sub_region=45&prver=0&pronetvd=null&vibid=2452000794239&type=464",
@@ -11371,15 +11371,15 @@ export const duma_2016_uik_463_region_45_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Ильтяков Александр Владимирович": 158,
-      "Ильчик Андрей Сергеевич": 24,
-      "Кислицын Василий Александрович": 55,
-      "Самойлов Александр Иванович": 8,
-      "Севостьянов Виктор Геннадьевич": 4,
-      "Тугушев Анар Эльдар Оглы": 3,
-      "Фельдшеров Дмитрий Александрович": 1,
-      "Юсупов Андрей Владимирович": 1,
-      "Ярушин Юрий Владимирович": 22
+      "gas:candidate-vibid:2452000840183": 158,
+      "gas:candidate-vibid:2452000838643": 24,
+      "gas:candidate-vibid:2452000838217": 55,
+      "gas:candidate-vibid:2452000839012": 8,
+      "gas:candidate-vibid:2452000840515": 4,
+      "gas:candidate-vibid:2452000838278": 3,
+      "gas:candidate-vibid:2452000839974": 1,
+      "gas:candidate-vibid:2452000840145": 1,
+      "gas:candidate-vibid:2452000835984": 22
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kurgan?action=show&root=1000142&tvd=2452000794239&vrn=100100067795849&region=45&global=&sub_region=45&prver=0&pronetvd=null&vibid=2452000794239&type=464",
@@ -11430,15 +11430,15 @@ export const duma_2016_uik_463_region_45_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Ильтяков Александр Владимирович": 328,
-      "Ильчик Андрей Сергеевич": 37,
-      "Кислицын Василий Александрович": 42,
-      "Самойлов Александр Иванович": 12,
-      "Севостьянов Виктор Геннадьевич": 10,
-      "Тугушев Анар Эльдар Оглы": 5,
-      "Фельдшеров Дмитрий Александрович": 2,
-      "Юсупов Андрей Владимирович": 8,
-      "Ярушин Юрий Владимирович": 34
+      "gas:candidate-vibid:2452000840183": 328,
+      "gas:candidate-vibid:2452000838643": 37,
+      "gas:candidate-vibid:2452000838217": 42,
+      "gas:candidate-vibid:2452000839012": 12,
+      "gas:candidate-vibid:2452000840515": 10,
+      "gas:candidate-vibid:2452000838278": 5,
+      "gas:candidate-vibid:2452000839974": 2,
+      "gas:candidate-vibid:2452000840145": 8,
+      "gas:candidate-vibid:2452000835984": 34
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kurgan?action=show&root=1000142&tvd=2452000794239&vrn=100100067795849&region=45&global=&sub_region=45&prver=0&pronetvd=null&vibid=2452000794239&type=464",
@@ -11489,15 +11489,15 @@ export const duma_2016_uik_463_region_45_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Ильтяков Александр Владимирович": 173,
-      "Ильчик Андрей Сергеевич": 34,
-      "Кислицын Василий Александрович": 55,
-      "Самойлов Александр Иванович": 13,
-      "Севостьянов Виктор Геннадьевич": 7,
-      "Тугушев Анар Эльдар Оглы": 8,
-      "Фельдшеров Дмитрий Александрович": 4,
-      "Юсупов Андрей Владимирович": 7,
-      "Ярушин Юрий Владимирович": 31
+      "gas:candidate-vibid:2452000840183": 173,
+      "gas:candidate-vibid:2452000838643": 34,
+      "gas:candidate-vibid:2452000838217": 55,
+      "gas:candidate-vibid:2452000839012": 13,
+      "gas:candidate-vibid:2452000840515": 7,
+      "gas:candidate-vibid:2452000838278": 8,
+      "gas:candidate-vibid:2452000839974": 4,
+      "gas:candidate-vibid:2452000840145": 7,
+      "gas:candidate-vibid:2452000835984": 31
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kurgan?action=show&root=1000142&tvd=2452000794239&vrn=100100067795849&region=45&global=&sub_region=45&prver=0&pronetvd=null&vibid=2452000794239&type=464",
@@ -11548,15 +11548,15 @@ export const duma_2016_uik_463_region_45_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Ильтяков Александр Владимирович": 53,
-      "Ильчик Андрей Сергеевич": 9,
-      "Кислицын Василий Александрович": 6,
-      "Самойлов Александр Иванович": 5,
-      "Севостьянов Виктор Геннадьевич": 3,
-      "Тугушев Анар Эльдар Оглы": 3,
-      "Фельдшеров Дмитрий Александрович": 0,
-      "Юсупов Андрей Владимирович": 1,
-      "Ярушин Юрий Владимирович": 15
+      "gas:candidate-vibid:2452000840183": 53,
+      "gas:candidate-vibid:2452000838643": 9,
+      "gas:candidate-vibid:2452000838217": 6,
+      "gas:candidate-vibid:2452000839012": 5,
+      "gas:candidate-vibid:2452000840515": 3,
+      "gas:candidate-vibid:2452000838278": 3,
+      "gas:candidate-vibid:2452000839974": 0,
+      "gas:candidate-vibid:2452000840145": 1,
+      "gas:candidate-vibid:2452000835984": 15
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kurgan?action=show&root=1000142&tvd=2452000794239&vrn=100100067795849&region=45&global=&sub_region=45&prver=0&pronetvd=null&vibid=2452000794239&type=464",
@@ -11607,15 +11607,15 @@ export const duma_2016_uik_463_region_45_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Ильтяков Александр Владимирович": 129,
-      "Ильчик Андрей Сергеевич": 10,
-      "Кислицын Василий Александрович": 23,
-      "Самойлов Александр Иванович": 3,
-      "Севостьянов Виктор Геннадьевич": 1,
-      "Тугушев Анар Эльдар Оглы": 4,
-      "Фельдшеров Дмитрий Александрович": 0,
-      "Юсупов Андрей Владимирович": 2,
-      "Ярушин Юрий Владимирович": 17
+      "gas:candidate-vibid:2452000840183": 129,
+      "gas:candidate-vibid:2452000838643": 10,
+      "gas:candidate-vibid:2452000838217": 23,
+      "gas:candidate-vibid:2452000839012": 3,
+      "gas:candidate-vibid:2452000840515": 1,
+      "gas:candidate-vibid:2452000838278": 4,
+      "gas:candidate-vibid:2452000839974": 0,
+      "gas:candidate-vibid:2452000840145": 2,
+      "gas:candidate-vibid:2452000835984": 17
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kurgan?action=show&root=1000142&tvd=2452000794239&vrn=100100067795849&region=45&global=&sub_region=45&prver=0&pronetvd=null&vibid=2452000794239&type=464",
@@ -11666,15 +11666,15 @@ export const duma_2016_uik_463_region_45_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Ильтяков Александр Владимирович": 258,
-      "Ильчик Андрей Сергеевич": 19,
-      "Кислицын Василий Александрович": 62,
-      "Самойлов Александр Иванович": 6,
-      "Севостьянов Виктор Геннадьевич": 4,
-      "Тугушев Анар Эльдар Оглы": 4,
-      "Фельдшеров Дмитрий Александрович": 1,
-      "Юсупов Андрей Владимирович": 0,
-      "Ярушин Юрий Владимирович": 36
+      "gas:candidate-vibid:2452000840183": 258,
+      "gas:candidate-vibid:2452000838643": 19,
+      "gas:candidate-vibid:2452000838217": 62,
+      "gas:candidate-vibid:2452000839012": 6,
+      "gas:candidate-vibid:2452000840515": 4,
+      "gas:candidate-vibid:2452000838278": 4,
+      "gas:candidate-vibid:2452000839974": 1,
+      "gas:candidate-vibid:2452000840145": 0,
+      "gas:candidate-vibid:2452000835984": 36
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kurgan?action=show&root=1000142&tvd=2452000794239&vrn=100100067795849&region=45&global=&sub_region=45&prver=0&pronetvd=null&vibid=2452000794239&type=464",
@@ -11725,15 +11725,15 @@ export const duma_2016_uik_463_region_45_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Ильтяков Александр Владимирович": 94,
-      "Ильчик Андрей Сергеевич": 6,
-      "Кислицын Василий Александрович": 24,
-      "Самойлов Александр Иванович": 4,
-      "Севостьянов Виктор Геннадьевич": 0,
-      "Тугушев Анар Эльдар Оглы": 4,
-      "Фельдшеров Дмитрий Александрович": 0,
-      "Юсупов Андрей Владимирович": 2,
-      "Ярушин Юрий Владимирович": 13
+      "gas:candidate-vibid:2452000840183": 94,
+      "gas:candidate-vibid:2452000838643": 6,
+      "gas:candidate-vibid:2452000838217": 24,
+      "gas:candidate-vibid:2452000839012": 4,
+      "gas:candidate-vibid:2452000840515": 0,
+      "gas:candidate-vibid:2452000838278": 4,
+      "gas:candidate-vibid:2452000839974": 0,
+      "gas:candidate-vibid:2452000840145": 2,
+      "gas:candidate-vibid:2452000835984": 13
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kurgan?action=show&root=1000142&tvd=2452000794239&vrn=100100067795849&region=45&global=&sub_region=45&prver=0&pronetvd=null&vibid=2452000794239&type=464",
@@ -11784,15 +11784,15 @@ export const duma_2016_uik_463_region_45_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Ильтяков Александр Владимирович": 156,
-      "Ильчик Андрей Сергеевич": 5,
-      "Кислицын Василий Александрович": 45,
-      "Самойлов Александр Иванович": 5,
-      "Севостьянов Виктор Геннадьевич": 2,
-      "Тугушев Анар Эльдар Оглы": 7,
-      "Фельдшеров Дмитрий Александрович": 0,
-      "Юсупов Андрей Владимирович": 1,
-      "Ярушин Юрий Владимирович": 15
+      "gas:candidate-vibid:2452000840183": 156,
+      "gas:candidate-vibid:2452000838643": 5,
+      "gas:candidate-vibid:2452000838217": 45,
+      "gas:candidate-vibid:2452000839012": 5,
+      "gas:candidate-vibid:2452000840515": 2,
+      "gas:candidate-vibid:2452000838278": 7,
+      "gas:candidate-vibid:2452000839974": 0,
+      "gas:candidate-vibid:2452000840145": 1,
+      "gas:candidate-vibid:2452000835984": 15
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kurgan?action=show&root=1000142&tvd=2452000794239&vrn=100100067795849&region=45&global=&sub_region=45&prver=0&pronetvd=null&vibid=2452000794239&type=464",
@@ -11843,15 +11843,15 @@ export const duma_2016_uik_463_region_45_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Ильтяков Александр Владимирович": 109,
-      "Ильчик Андрей Сергеевич": 5,
-      "Кислицын Василий Александрович": 24,
-      "Самойлов Александр Иванович": 1,
-      "Севостьянов Виктор Геннадьевич": 1,
-      "Тугушев Анар Эльдар Оглы": 2,
-      "Фельдшеров Дмитрий Александрович": 0,
-      "Юсупов Андрей Владимирович": 2,
-      "Ярушин Юрий Владимирович": 10
+      "gas:candidate-vibid:2452000840183": 109,
+      "gas:candidate-vibid:2452000838643": 5,
+      "gas:candidate-vibid:2452000838217": 24,
+      "gas:candidate-vibid:2452000839012": 1,
+      "gas:candidate-vibid:2452000840515": 1,
+      "gas:candidate-vibid:2452000838278": 2,
+      "gas:candidate-vibid:2452000839974": 0,
+      "gas:candidate-vibid:2452000840145": 2,
+      "gas:candidate-vibid:2452000835984": 10
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kurgan?action=show&root=1000142&tvd=2452000794239&vrn=100100067795849&region=45&global=&sub_region=45&prver=0&pronetvd=null&vibid=2452000794239&type=464",
@@ -11902,15 +11902,15 @@ export const duma_2016_uik_463_region_45_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Ильтяков Александр Владимирович": 184,
-      "Ильчик Андрей Сергеевич": 26,
-      "Кислицын Василий Александрович": 20,
-      "Самойлов Александр Иванович": 9,
-      "Севостьянов Виктор Геннадьевич": 1,
-      "Тугушев Анар Эльдар Оглы": 8,
-      "Фельдшеров Дмитрий Александрович": 3,
-      "Юсупов Андрей Владимирович": 0,
-      "Ярушин Юрий Владимирович": 26
+      "gas:candidate-vibid:2452000840183": 184,
+      "gas:candidate-vibid:2452000838643": 26,
+      "gas:candidate-vibid:2452000838217": 20,
+      "gas:candidate-vibid:2452000839012": 9,
+      "gas:candidate-vibid:2452000840515": 1,
+      "gas:candidate-vibid:2452000838278": 8,
+      "gas:candidate-vibid:2452000839974": 3,
+      "gas:candidate-vibid:2452000840145": 0,
+      "gas:candidate-vibid:2452000835984": 26
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kurgan?action=show&root=1000142&tvd=2452000794239&vrn=100100067795849&region=45&global=&sub_region=45&prver=0&pronetvd=null&vibid=2452000794239&type=464",
@@ -11961,15 +11961,15 @@ export const duma_2016_uik_463_region_45_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Ильтяков Александр Владимирович": 96,
-      "Ильчик Андрей Сергеевич": 1,
-      "Кислицын Василий Александрович": 7,
-      "Самойлов Александр Иванович": 0,
-      "Севостьянов Виктор Геннадьевич": 0,
-      "Тугушев Анар Эльдар Оглы": 2,
-      "Фельдшеров Дмитрий Александрович": 1,
-      "Юсупов Андрей Владимирович": 0,
-      "Ярушин Юрий Владимирович": 6
+      "gas:candidate-vibid:2452000840183": 96,
+      "gas:candidate-vibid:2452000838643": 1,
+      "gas:candidate-vibid:2452000838217": 7,
+      "gas:candidate-vibid:2452000839012": 0,
+      "gas:candidate-vibid:2452000840515": 0,
+      "gas:candidate-vibid:2452000838278": 2,
+      "gas:candidate-vibid:2452000839974": 1,
+      "gas:candidate-vibid:2452000840145": 0,
+      "gas:candidate-vibid:2452000835984": 6
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kurgan?action=show&root=1000142&tvd=2452000794239&vrn=100100067795849&region=45&global=&sub_region=45&prver=0&pronetvd=null&vibid=2452000794239&type=464",
@@ -12020,15 +12020,15 @@ export const duma_2016_uik_463_region_45_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Ильтяков Александр Владимирович": 160,
-      "Ильчик Андрей Сергеевич": 40,
-      "Кислицын Василий Александрович": 44,
-      "Самойлов Александр Иванович": 14,
-      "Севостьянов Виктор Геннадьевич": 7,
-      "Тугушев Анар Эльдар Оглы": 3,
-      "Фельдшеров Дмитрий Александрович": 4,
-      "Юсупов Андрей Владимирович": 4,
-      "Ярушин Юрий Владимирович": 28
+      "gas:candidate-vibid:2452000840183": 160,
+      "gas:candidate-vibid:2452000838643": 40,
+      "gas:candidate-vibid:2452000838217": 44,
+      "gas:candidate-vibid:2452000839012": 14,
+      "gas:candidate-vibid:2452000840515": 7,
+      "gas:candidate-vibid:2452000838278": 3,
+      "gas:candidate-vibid:2452000839974": 4,
+      "gas:candidate-vibid:2452000840145": 4,
+      "gas:candidate-vibid:2452000835984": 28
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kurgan?action=show&root=1000142&tvd=2452000794239&vrn=100100067795849&region=45&global=&sub_region=45&prver=0&pronetvd=null&vibid=2452000794239&type=464",
@@ -12079,15 +12079,15 @@ export const duma_2016_uik_463_region_45_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Ильтяков Александр Владимирович": 422,
-      "Ильчик Андрей Сергеевич": 48,
-      "Кислицын Василий Александрович": 115,
-      "Самойлов Александр Иванович": 9,
-      "Севостьянов Виктор Геннадьевич": 1,
-      "Тугушев Анар Эльдар Оглы": 6,
-      "Фельдшеров Дмитрий Александрович": 1,
-      "Юсупов Андрей Владимирович": 5,
-      "Ярушин Юрий Владимирович": 40
+      "gas:candidate-vibid:2452000840183": 422,
+      "gas:candidate-vibid:2452000838643": 48,
+      "gas:candidate-vibid:2452000838217": 115,
+      "gas:candidate-vibid:2452000839012": 9,
+      "gas:candidate-vibid:2452000840515": 1,
+      "gas:candidate-vibid:2452000838278": 6,
+      "gas:candidate-vibid:2452000839974": 1,
+      "gas:candidate-vibid:2452000840145": 5,
+      "gas:candidate-vibid:2452000835984": 40
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kurgan?action=show&root=1000142&tvd=2452000794239&vrn=100100067795849&region=45&global=&sub_region=45&prver=0&pronetvd=null&vibid=2452000794239&type=464",
@@ -12138,15 +12138,15 @@ export const duma_2016_uik_463_region_45_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Ильтяков Александр Владимирович": 261,
-      "Ильчик Андрей Сергеевич": 45,
-      "Кислицын Василий Александрович": 68,
-      "Самойлов Александр Иванович": 8,
-      "Севостьянов Виктор Геннадьевич": 5,
-      "Тугушев Анар Эльдар Оглы": 5,
-      "Фельдшеров Дмитрий Александрович": 3,
-      "Юсупов Андрей Владимирович": 0,
-      "Ярушин Юрий Владимирович": 25
+      "gas:candidate-vibid:2452000840183": 261,
+      "gas:candidate-vibid:2452000838643": 45,
+      "gas:candidate-vibid:2452000838217": 68,
+      "gas:candidate-vibid:2452000839012": 8,
+      "gas:candidate-vibid:2452000840515": 5,
+      "gas:candidate-vibid:2452000838278": 5,
+      "gas:candidate-vibid:2452000839974": 3,
+      "gas:candidate-vibid:2452000840145": 0,
+      "gas:candidate-vibid:2452000835984": 25
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kurgan?action=show&root=1000142&tvd=2452000794239&vrn=100100067795849&region=45&global=&sub_region=45&prver=0&pronetvd=null&vibid=2452000794239&type=464",
@@ -12197,15 +12197,15 @@ export const duma_2016_uik_463_region_45_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Ильтяков Александр Владимирович": 104,
-      "Ильчик Андрей Сергеевич": 7,
-      "Кислицын Василий Александрович": 43,
-      "Самойлов Александр Иванович": 4,
-      "Севостьянов Виктор Геннадьевич": 1,
-      "Тугушев Анар Эльдар Оглы": 2,
-      "Фельдшеров Дмитрий Александрович": 3,
-      "Юсупов Андрей Владимирович": 2,
-      "Ярушин Юрий Владимирович": 23
+      "gas:candidate-vibid:2452000840183": 104,
+      "gas:candidate-vibid:2452000838643": 7,
+      "gas:candidate-vibid:2452000838217": 43,
+      "gas:candidate-vibid:2452000839012": 4,
+      "gas:candidate-vibid:2452000840515": 1,
+      "gas:candidate-vibid:2452000838278": 2,
+      "gas:candidate-vibid:2452000839974": 3,
+      "gas:candidate-vibid:2452000840145": 2,
+      "gas:candidate-vibid:2452000835984": 23
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kurgan?action=show&root=1000142&tvd=2452000794239&vrn=100100067795849&region=45&global=&sub_region=45&prver=0&pronetvd=null&vibid=2452000794239&type=464",
@@ -12256,15 +12256,15 @@ export const duma_2016_uik_463_region_45_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Ильтяков Александр Владимирович": 69,
-      "Ильчик Андрей Сергеевич": 3,
-      "Кислицын Василий Александрович": 18,
-      "Самойлов Александр Иванович": 0,
-      "Севостьянов Виктор Геннадьевич": 3,
-      "Тугушев Анар Эльдар Оглы": 6,
-      "Фельдшеров Дмитрий Александрович": 0,
-      "Юсупов Андрей Владимирович": 1,
-      "Ярушин Юрий Владимирович": 13
+      "gas:candidate-vibid:2452000840183": 69,
+      "gas:candidate-vibid:2452000838643": 3,
+      "gas:candidate-vibid:2452000838217": 18,
+      "gas:candidate-vibid:2452000839012": 0,
+      "gas:candidate-vibid:2452000840515": 3,
+      "gas:candidate-vibid:2452000838278": 6,
+      "gas:candidate-vibid:2452000839974": 0,
+      "gas:candidate-vibid:2452000840145": 1,
+      "gas:candidate-vibid:2452000835984": 13
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kurgan?action=show&root=1000142&tvd=2452000794239&vrn=100100067795849&region=45&global=&sub_region=45&prver=0&pronetvd=null&vibid=2452000794239&type=464",
@@ -12315,15 +12315,15 @@ export const duma_2016_uik_463_region_45_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Ильтяков Александр Владимирович": 65,
-      "Ильчик Андрей Сергеевич": 2,
-      "Кислицын Василий Александрович": 20,
-      "Самойлов Александр Иванович": 3,
-      "Севостьянов Виктор Геннадьевич": 1,
-      "Тугушев Анар Эльдар Оглы": 1,
-      "Фельдшеров Дмитрий Александрович": 0,
-      "Юсупов Андрей Владимирович": 0,
-      "Ярушин Юрий Владимирович": 8
+      "gas:candidate-vibid:2452000840183": 65,
+      "gas:candidate-vibid:2452000838643": 2,
+      "gas:candidate-vibid:2452000838217": 20,
+      "gas:candidate-vibid:2452000839012": 3,
+      "gas:candidate-vibid:2452000840515": 1,
+      "gas:candidate-vibid:2452000838278": 1,
+      "gas:candidate-vibid:2452000839974": 0,
+      "gas:candidate-vibid:2452000840145": 0,
+      "gas:candidate-vibid:2452000835984": 8
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kurgan?action=show&root=1000142&tvd=2452000794239&vrn=100100067795849&region=45&global=&sub_region=45&prver=0&pronetvd=null&vibid=2452000794239&type=464",
@@ -12374,15 +12374,15 @@ export const duma_2016_uik_463_region_45_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Ильтяков Александр Владимирович": 143,
-      "Ильчик Андрей Сергеевич": 14,
-      "Кислицын Василий Александрович": 34,
-      "Самойлов Александр Иванович": 5,
-      "Севостьянов Виктор Геннадьевич": 1,
-      "Тугушев Анар Эльдар Оглы": 1,
-      "Фельдшеров Дмитрий Александрович": 1,
-      "Юсупов Андрей Владимирович": 2,
-      "Ярушин Юрий Владимирович": 26
+      "gas:candidate-vibid:2452000840183": 143,
+      "gas:candidate-vibid:2452000838643": 14,
+      "gas:candidate-vibid:2452000838217": 34,
+      "gas:candidate-vibid:2452000839012": 5,
+      "gas:candidate-vibid:2452000840515": 1,
+      "gas:candidate-vibid:2452000838278": 1,
+      "gas:candidate-vibid:2452000839974": 1,
+      "gas:candidate-vibid:2452000840145": 2,
+      "gas:candidate-vibid:2452000835984": 26
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kurgan?action=show&root=1000142&tvd=2452000794239&vrn=100100067795849&region=45&global=&sub_region=45&prver=0&pronetvd=null&vibid=2452000794239&type=464",
@@ -12433,15 +12433,15 @@ export const duma_2016_uik_463_region_45_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Ильтяков Александр Владимирович": 233,
-      "Ильчик Андрей Сергеевич": 23,
-      "Кислицын Василий Александрович": 28,
-      "Самойлов Александр Иванович": 9,
-      "Севостьянов Виктор Геннадьевич": 6,
-      "Тугушев Анар Эльдар Оглы": 5,
-      "Фельдшеров Дмитрий Александрович": 0,
-      "Юсупов Андрей Владимирович": 4,
-      "Ярушин Юрий Владимирович": 23
+      "gas:candidate-vibid:2452000840183": 233,
+      "gas:candidate-vibid:2452000838643": 23,
+      "gas:candidate-vibid:2452000838217": 28,
+      "gas:candidate-vibid:2452000839012": 9,
+      "gas:candidate-vibid:2452000840515": 6,
+      "gas:candidate-vibid:2452000838278": 5,
+      "gas:candidate-vibid:2452000839974": 0,
+      "gas:candidate-vibid:2452000840145": 4,
+      "gas:candidate-vibid:2452000835984": 23
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kurgan?action=show&root=1000142&tvd=2452000794239&vrn=100100067795849&region=45&global=&sub_region=45&prver=0&pronetvd=null&vibid=2452000794239&type=464",
@@ -12492,15 +12492,15 @@ export const duma_2016_uik_463_region_45_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Ильтяков Александр Владимирович": 325,
-      "Ильчик Андрей Сергеевич": 44,
-      "Кислицын Василий Александрович": 91,
-      "Самойлов Александр Иванович": 8,
-      "Севостьянов Виктор Геннадьевич": 5,
-      "Тугушев Анар Эльдар Оглы": 5,
-      "Фельдшеров Дмитрий Александрович": 2,
-      "Юсупов Андрей Владимирович": 9,
-      "Ярушин Юрий Владимирович": 75
+      "gas:candidate-vibid:2452000840183": 325,
+      "gas:candidate-vibid:2452000838643": 44,
+      "gas:candidate-vibid:2452000838217": 91,
+      "gas:candidate-vibid:2452000839012": 8,
+      "gas:candidate-vibid:2452000840515": 5,
+      "gas:candidate-vibid:2452000838278": 5,
+      "gas:candidate-vibid:2452000839974": 2,
+      "gas:candidate-vibid:2452000840145": 9,
+      "gas:candidate-vibid:2452000835984": 75
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kurgan?action=show&root=1000142&tvd=2452000794239&vrn=100100067795849&region=45&global=&sub_region=45&prver=0&pronetvd=null&vibid=2452000794239&type=464",
@@ -12551,15 +12551,15 @@ export const duma_2016_uik_463_region_45_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Ильтяков Александр Владимирович": 202,
-      "Ильчик Андрей Сергеевич": 31,
-      "Кислицын Василий Александрович": 40,
-      "Самойлов Александр Иванович": 13,
-      "Севостьянов Виктор Геннадьевич": 5,
-      "Тугушев Анар Эльдар Оглы": 6,
-      "Фельдшеров Дмитрий Александрович": 3,
-      "Юсупов Андрей Владимирович": 4,
-      "Ярушин Юрий Владимирович": 44
+      "gas:candidate-vibid:2452000840183": 202,
+      "gas:candidate-vibid:2452000838643": 31,
+      "gas:candidate-vibid:2452000838217": 40,
+      "gas:candidate-vibid:2452000839012": 13,
+      "gas:candidate-vibid:2452000840515": 5,
+      "gas:candidate-vibid:2452000838278": 6,
+      "gas:candidate-vibid:2452000839974": 3,
+      "gas:candidate-vibid:2452000840145": 4,
+      "gas:candidate-vibid:2452000835984": 44
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kurgan?action=show&root=1000142&tvd=2452000794239&vrn=100100067795849&region=45&global=&sub_region=45&prver=0&pronetvd=null&vibid=2452000794239&type=464",
@@ -12610,15 +12610,15 @@ export const duma_2016_uik_463_region_45_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Ильтяков Александр Владимирович": 246,
-      "Ильчик Андрей Сергеевич": 16,
-      "Кислицын Василий Александрович": 66,
-      "Самойлов Александр Иванович": 6,
-      "Севостьянов Виктор Геннадьевич": 2,
-      "Тугушев Анар Эльдар Оглы": 5,
-      "Фельдшеров Дмитрий Александрович": 2,
-      "Юсупов Андрей Владимирович": 2,
-      "Ярушин Юрий Владимирович": 42
+      "gas:candidate-vibid:2452000840183": 246,
+      "gas:candidate-vibid:2452000838643": 16,
+      "gas:candidate-vibid:2452000838217": 66,
+      "gas:candidate-vibid:2452000839012": 6,
+      "gas:candidate-vibid:2452000840515": 2,
+      "gas:candidate-vibid:2452000838278": 5,
+      "gas:candidate-vibid:2452000839974": 2,
+      "gas:candidate-vibid:2452000840145": 2,
+      "gas:candidate-vibid:2452000835984": 42
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kurgan?action=show&root=1000142&tvd=2452000794239&vrn=100100067795849&region=45&global=&sub_region=45&prver=0&pronetvd=null&vibid=2452000794239&type=464",
@@ -12669,15 +12669,15 @@ export const duma_2016_uik_463_region_45_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Ильтяков Александр Владимирович": 250,
-      "Ильчик Андрей Сергеевич": 9,
-      "Кислицын Василий Александрович": 39,
-      "Самойлов Александр Иванович": 5,
-      "Севостьянов Виктор Геннадьевич": 7,
-      "Тугушев Анар Эльдар Оглы": 9,
-      "Фельдшеров Дмитрий Александрович": 2,
-      "Юсупов Андрей Владимирович": 3,
-      "Ярушин Юрий Владимирович": 36
+      "gas:candidate-vibid:2452000840183": 250,
+      "gas:candidate-vibid:2452000838643": 9,
+      "gas:candidate-vibid:2452000838217": 39,
+      "gas:candidate-vibid:2452000839012": 5,
+      "gas:candidate-vibid:2452000840515": 7,
+      "gas:candidate-vibid:2452000838278": 9,
+      "gas:candidate-vibid:2452000839974": 2,
+      "gas:candidate-vibid:2452000840145": 3,
+      "gas:candidate-vibid:2452000835984": 36
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kurgan?action=show&root=1000142&tvd=2452000794239&vrn=100100067795849&region=45&global=&sub_region=45&prver=0&pronetvd=null&vibid=2452000794239&type=464",
@@ -12728,15 +12728,15 @@ export const duma_2016_uik_463_region_45_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Ильтяков Александр Владимирович": 88,
-      "Ильчик Андрей Сергеевич": 4,
-      "Кислицын Василий Александрович": 8,
-      "Самойлов Александр Иванович": 0,
-      "Севостьянов Виктор Геннадьевич": 0,
-      "Тугушев Анар Эльдар Оглы": 0,
-      "Фельдшеров Дмитрий Александрович": 0,
-      "Юсупов Андрей Владимирович": 0,
-      "Ярушин Юрий Владимирович": 0
+      "gas:candidate-vibid:2452000840183": 88,
+      "gas:candidate-vibid:2452000838643": 4,
+      "gas:candidate-vibid:2452000838217": 8,
+      "gas:candidate-vibid:2452000839012": 0,
+      "gas:candidate-vibid:2452000840515": 0,
+      "gas:candidate-vibid:2452000838278": 0,
+      "gas:candidate-vibid:2452000839974": 0,
+      "gas:candidate-vibid:2452000840145": 0,
+      "gas:candidate-vibid:2452000835984": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kurgan?action=show&root=1000142&tvd=2452000794239&vrn=100100067795849&region=45&global=&sub_region=45&prver=0&pronetvd=null&vibid=2452000794239&type=464",
@@ -12787,15 +12787,15 @@ export const duma_2016_uik_463_region_45_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Ильтяков Александр Владимирович": 155,
-      "Ильчик Андрей Сергеевич": 7,
-      "Кислицын Василий Александрович": 19,
-      "Самойлов Александр Иванович": 0,
-      "Севостьянов Виктор Геннадьевич": 0,
-      "Тугушев Анар Эльдар Оглы": 2,
-      "Фельдшеров Дмитрий Александрович": 0,
-      "Юсупов Андрей Владимирович": 0,
-      "Ярушин Юрий Владимирович": 10
+      "gas:candidate-vibid:2452000840183": 155,
+      "gas:candidate-vibid:2452000838643": 7,
+      "gas:candidate-vibid:2452000838217": 19,
+      "gas:candidate-vibid:2452000839012": 0,
+      "gas:candidate-vibid:2452000840515": 0,
+      "gas:candidate-vibid:2452000838278": 2,
+      "gas:candidate-vibid:2452000839974": 0,
+      "gas:candidate-vibid:2452000840145": 0,
+      "gas:candidate-vibid:2452000835984": 10
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kurgan?action=show&root=1000142&tvd=2452000794239&vrn=100100067795849&region=45&global=&sub_region=45&prver=0&pronetvd=null&vibid=2452000794239&type=464",
@@ -12846,15 +12846,15 @@ export const duma_2016_uik_463_region_45_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Ильтяков Александр Владимирович": 252,
-      "Ильчик Андрей Сергеевич": 22,
-      "Кислицын Василий Александрович": 92,
-      "Самойлов Александр Иванович": 3,
-      "Севостьянов Виктор Геннадьевич": 3,
-      "Тугушев Анар Эльдар Оглы": 10,
-      "Фельдшеров Дмитрий Александрович": 2,
-      "Юсупов Андрей Владимирович": 26,
-      "Ярушин Юрий Владимирович": 25
+      "gas:candidate-vibid:2452000840183": 252,
+      "gas:candidate-vibid:2452000838643": 22,
+      "gas:candidate-vibid:2452000838217": 92,
+      "gas:candidate-vibid:2452000839012": 3,
+      "gas:candidate-vibid:2452000840515": 3,
+      "gas:candidate-vibid:2452000838278": 10,
+      "gas:candidate-vibid:2452000839974": 2,
+      "gas:candidate-vibid:2452000840145": 26,
+      "gas:candidate-vibid:2452000835984": 25
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kurgan?action=show&root=1000142&tvd=2452000794239&vrn=100100067795849&region=45&global=&sub_region=45&prver=0&pronetvd=null&vibid=2452000794239&type=464",
@@ -12905,15 +12905,15 @@ export const duma_2016_uik_463_region_45_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Ильтяков Александр Владимирович": 210,
-      "Ильчик Андрей Сергеевич": 8,
-      "Кислицын Василий Александрович": 31,
-      "Самойлов Александр Иванович": 2,
-      "Севостьянов Виктор Геннадьевич": 2,
-      "Тугушев Анар Эльдар Оглы": 1,
-      "Фельдшеров Дмитрий Александрович": 0,
-      "Юсупов Андрей Владимирович": 0,
-      "Ярушин Юрий Владимирович": 5
+      "gas:candidate-vibid:2452000840183": 210,
+      "gas:candidate-vibid:2452000838643": 8,
+      "gas:candidate-vibid:2452000838217": 31,
+      "gas:candidate-vibid:2452000839012": 2,
+      "gas:candidate-vibid:2452000840515": 2,
+      "gas:candidate-vibid:2452000838278": 1,
+      "gas:candidate-vibid:2452000839974": 0,
+      "gas:candidate-vibid:2452000840145": 0,
+      "gas:candidate-vibid:2452000835984": 5
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kurgan?action=show&root=1000142&tvd=2452000794239&vrn=100100067795849&region=45&global=&sub_region=45&prver=0&pronetvd=null&vibid=2452000794239&type=464",
@@ -12964,15 +12964,15 @@ export const duma_2016_uik_463_region_45_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Ильтяков Александр Владимирович": 78,
-      "Ильчик Андрей Сергеевич": 6,
-      "Кислицын Василий Александрович": 29,
-      "Самойлов Александр Иванович": 1,
-      "Севостьянов Виктор Геннадьевич": 1,
-      "Тугушев Анар Эльдар Оглы": 1,
-      "Фельдшеров Дмитрий Александрович": 0,
-      "Юсупов Андрей Владимирович": 5,
-      "Ярушин Юрий Владимирович": 1
+      "gas:candidate-vibid:2452000840183": 78,
+      "gas:candidate-vibid:2452000838643": 6,
+      "gas:candidate-vibid:2452000838217": 29,
+      "gas:candidate-vibid:2452000839012": 1,
+      "gas:candidate-vibid:2452000840515": 1,
+      "gas:candidate-vibid:2452000838278": 1,
+      "gas:candidate-vibid:2452000839974": 0,
+      "gas:candidate-vibid:2452000840145": 5,
+      "gas:candidate-vibid:2452000835984": 1
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kurgan?action=show&root=1000142&tvd=2452000794239&vrn=100100067795849&region=45&global=&sub_region=45&prver=0&pronetvd=null&vibid=2452000794239&type=464",
@@ -13023,15 +13023,15 @@ export const duma_2016_uik_463_region_45_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Ильтяков Александр Владимирович": 55,
-      "Ильчик Андрей Сергеевич": 3,
-      "Кислицын Василий Александрович": 11,
-      "Самойлов Александр Иванович": 2,
-      "Севостьянов Виктор Геннадьевич": 0,
-      "Тугушев Анар Эльдар Оглы": 0,
-      "Фельдшеров Дмитрий Александрович": 0,
-      "Юсупов Андрей Владимирович": 1,
-      "Ярушин Юрий Владимирович": 6
+      "gas:candidate-vibid:2452000840183": 55,
+      "gas:candidate-vibid:2452000838643": 3,
+      "gas:candidate-vibid:2452000838217": 11,
+      "gas:candidate-vibid:2452000839012": 2,
+      "gas:candidate-vibid:2452000840515": 0,
+      "gas:candidate-vibid:2452000838278": 0,
+      "gas:candidate-vibid:2452000839974": 0,
+      "gas:candidate-vibid:2452000840145": 1,
+      "gas:candidate-vibid:2452000835984": 6
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kurgan?action=show&root=1000142&tvd=2452000794239&vrn=100100067795849&region=45&global=&sub_region=45&prver=0&pronetvd=null&vibid=2452000794239&type=464",
@@ -13082,15 +13082,15 @@ export const duma_2016_uik_463_region_45_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Ильтяков Александр Владимирович": 191,
-      "Ильчик Андрей Сергеевич": 11,
-      "Кислицын Василий Александрович": 41,
-      "Самойлов Александр Иванович": 6,
-      "Севостьянов Виктор Геннадьевич": 3,
-      "Тугушев Анар Эльдар Оглы": 7,
-      "Фельдшеров Дмитрий Александрович": 0,
-      "Юсупов Андрей Владимирович": 1,
-      "Ярушин Юрий Владимирович": 9
+      "gas:candidate-vibid:2452000840183": 191,
+      "gas:candidate-vibid:2452000838643": 11,
+      "gas:candidate-vibid:2452000838217": 41,
+      "gas:candidate-vibid:2452000839012": 6,
+      "gas:candidate-vibid:2452000840515": 3,
+      "gas:candidate-vibid:2452000838278": 7,
+      "gas:candidate-vibid:2452000839974": 0,
+      "gas:candidate-vibid:2452000840145": 1,
+      "gas:candidate-vibid:2452000835984": 9
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kurgan?action=show&root=1000142&tvd=2452000794239&vrn=100100067795849&region=45&global=&sub_region=45&prver=0&pronetvd=null&vibid=2452000794239&type=464",
@@ -13141,15 +13141,15 @@ export const duma_2016_uik_463_region_45_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Ильтяков Александр Владимирович": 341,
-      "Ильчик Андрей Сергеевич": 42,
-      "Кислицын Василий Александрович": 110,
-      "Самойлов Александр Иванович": 11,
-      "Севостьянов Виктор Геннадьевич": 9,
-      "Тугушев Анар Эльдар Оглы": 8,
-      "Фельдшеров Дмитрий Александрович": 2,
-      "Юсупов Андрей Владимирович": 9,
-      "Ярушин Юрий Владимирович": 33
+      "gas:candidate-vibid:2452000840183": 341,
+      "gas:candidate-vibid:2452000838643": 42,
+      "gas:candidate-vibid:2452000838217": 110,
+      "gas:candidate-vibid:2452000839012": 11,
+      "gas:candidate-vibid:2452000840515": 9,
+      "gas:candidate-vibid:2452000838278": 8,
+      "gas:candidate-vibid:2452000839974": 2,
+      "gas:candidate-vibid:2452000840145": 9,
+      "gas:candidate-vibid:2452000835984": 33
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kurgan?action=show&root=1000142&tvd=2452000794239&vrn=100100067795849&region=45&global=&sub_region=45&prver=0&pronetvd=null&vibid=2452000794239&type=464",
@@ -13200,15 +13200,15 @@ export const duma_2016_uik_463_region_45_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Ильтяков Александр Владимирович": 102,
-      "Ильчик Андрей Сергеевич": 3,
-      "Кислицын Василий Александрович": 9,
-      "Самойлов Александр Иванович": 4,
-      "Севостьянов Виктор Геннадьевич": 2,
-      "Тугушев Анар Эльдар Оглы": 1,
-      "Фельдшеров Дмитрий Александрович": 0,
-      "Юсупов Андрей Владимирович": 0,
-      "Ярушин Юрий Владимирович": 8
+      "gas:candidate-vibid:2452000840183": 102,
+      "gas:candidate-vibid:2452000838643": 3,
+      "gas:candidate-vibid:2452000838217": 9,
+      "gas:candidate-vibid:2452000839012": 4,
+      "gas:candidate-vibid:2452000840515": 2,
+      "gas:candidate-vibid:2452000838278": 1,
+      "gas:candidate-vibid:2452000839974": 0,
+      "gas:candidate-vibid:2452000840145": 0,
+      "gas:candidate-vibid:2452000835984": 8
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kurgan?action=show&root=1000142&tvd=2452000794239&vrn=100100067795849&region=45&global=&sub_region=45&prver=0&pronetvd=null&vibid=2452000794239&type=464",
@@ -13259,15 +13259,15 @@ export const duma_2016_uik_463_region_45_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Ильтяков Александр Владимирович": 173,
-      "Ильчик Андрей Сергеевич": 5,
-      "Кислицын Василий Александрович": 20,
-      "Самойлов Александр Иванович": 4,
-      "Севостьянов Виктор Геннадьевич": 1,
-      "Тугушев Анар Эльдар Оглы": 3,
-      "Фельдшеров Дмитрий Александрович": 3,
-      "Юсупов Андрей Владимирович": 2,
-      "Ярушин Юрий Владимирович": 13
+      "gas:candidate-vibid:2452000840183": 173,
+      "gas:candidate-vibid:2452000838643": 5,
+      "gas:candidate-vibid:2452000838217": 20,
+      "gas:candidate-vibid:2452000839012": 4,
+      "gas:candidate-vibid:2452000840515": 1,
+      "gas:candidate-vibid:2452000838278": 3,
+      "gas:candidate-vibid:2452000839974": 3,
+      "gas:candidate-vibid:2452000840145": 2,
+      "gas:candidate-vibid:2452000835984": 13
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kurgan?action=show&root=1000142&tvd=2452000794239&vrn=100100067795849&region=45&global=&sub_region=45&prver=0&pronetvd=null&vibid=2452000794239&type=464",
@@ -13318,15 +13318,15 @@ export const duma_2016_uik_463_region_45_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Ильтяков Александр Владимирович": 160,
-      "Ильчик Андрей Сергеевич": 4,
-      "Кислицын Василий Александрович": 29,
-      "Самойлов Александр Иванович": 2,
-      "Севостьянов Виктор Геннадьевич": 0,
-      "Тугушев Анар Эльдар Оглы": 1,
-      "Фельдшеров Дмитрий Александрович": 5,
-      "Юсупов Андрей Владимирович": 2,
-      "Ярушин Юрий Владимирович": 7
+      "gas:candidate-vibid:2452000840183": 160,
+      "gas:candidate-vibid:2452000838643": 4,
+      "gas:candidate-vibid:2452000838217": 29,
+      "gas:candidate-vibid:2452000839012": 2,
+      "gas:candidate-vibid:2452000840515": 0,
+      "gas:candidate-vibid:2452000838278": 1,
+      "gas:candidate-vibid:2452000839974": 5,
+      "gas:candidate-vibid:2452000840145": 2,
+      "gas:candidate-vibid:2452000835984": 7
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kurgan?action=show&root=1000142&tvd=2452000794239&vrn=100100067795849&region=45&global=&sub_region=45&prver=0&pronetvd=null&vibid=2452000794239&type=464",
@@ -13377,15 +13377,15 @@ export const duma_2016_uik_463_region_45_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Ильтяков Александр Владимирович": 135,
-      "Ильчик Андрей Сергеевич": 8,
-      "Кислицын Василий Александрович": 10,
-      "Самойлов Александр Иванович": 1,
-      "Севостьянов Виктор Геннадьевич": 0,
-      "Тугушев Анар Эльдар Оглы": 0,
-      "Фельдшеров Дмитрий Александрович": 0,
-      "Юсупов Андрей Владимирович": 2,
-      "Ярушин Юрий Владимирович": 10
+      "gas:candidate-vibid:2452000840183": 135,
+      "gas:candidate-vibid:2452000838643": 8,
+      "gas:candidate-vibid:2452000838217": 10,
+      "gas:candidate-vibid:2452000839012": 1,
+      "gas:candidate-vibid:2452000840515": 0,
+      "gas:candidate-vibid:2452000838278": 0,
+      "gas:candidate-vibid:2452000839974": 0,
+      "gas:candidate-vibid:2452000840145": 2,
+      "gas:candidate-vibid:2452000835984": 10
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kurgan?action=show&root=1000142&tvd=2452000794239&vrn=100100067795849&region=45&global=&sub_region=45&prver=0&pronetvd=null&vibid=2452000794239&type=464",
@@ -13436,15 +13436,15 @@ export const duma_2016_uik_463_region_45_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Ильтяков Александр Владимирович": 48,
-      "Ильчик Андрей Сергеевич": 1,
-      "Кислицын Василий Александрович": 3,
-      "Самойлов Александр Иванович": 0,
-      "Севостьянов Виктор Геннадьевич": 0,
-      "Тугушев Анар Эльдар Оглы": 0,
-      "Фельдшеров Дмитрий Александрович": 0,
-      "Юсупов Андрей Владимирович": 1,
-      "Ярушин Юрий Владимирович": 3
+      "gas:candidate-vibid:2452000840183": 48,
+      "gas:candidate-vibid:2452000838643": 1,
+      "gas:candidate-vibid:2452000838217": 3,
+      "gas:candidate-vibid:2452000839012": 0,
+      "gas:candidate-vibid:2452000840515": 0,
+      "gas:candidate-vibid:2452000838278": 0,
+      "gas:candidate-vibid:2452000839974": 0,
+      "gas:candidate-vibid:2452000840145": 1,
+      "gas:candidate-vibid:2452000835984": 3
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kurgan?action=show&root=1000142&tvd=2452000794239&vrn=100100067795849&region=45&global=&sub_region=45&prver=0&pronetvd=null&vibid=2452000794239&type=464",
@@ -13495,15 +13495,15 @@ export const duma_2016_uik_463_region_45_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Ильтяков Александр Владимирович": 453,
-      "Ильчик Андрей Сергеевич": 13,
-      "Кислицын Василий Александрович": 27,
-      "Самойлов Александр Иванович": 2,
-      "Севостьянов Виктор Геннадьевич": 1,
-      "Тугушев Анар Эльдар Оглы": 4,
-      "Фельдшеров Дмитрий Александрович": 1,
-      "Юсупов Андрей Владимирович": 1,
-      "Ярушин Юрий Владимирович": 8
+      "gas:candidate-vibid:2452000840183": 453,
+      "gas:candidate-vibid:2452000838643": 13,
+      "gas:candidate-vibid:2452000838217": 27,
+      "gas:candidate-vibid:2452000839012": 2,
+      "gas:candidate-vibid:2452000840515": 1,
+      "gas:candidate-vibid:2452000838278": 4,
+      "gas:candidate-vibid:2452000839974": 1,
+      "gas:candidate-vibid:2452000840145": 1,
+      "gas:candidate-vibid:2452000835984": 8
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kurgan?action=show&root=1000142&tvd=2452000794240&vrn=100100067795849&region=45&global=&sub_region=45&prver=0&pronetvd=null&vibid=2452000794240&type=464",
@@ -13554,15 +13554,15 @@ export const duma_2016_uik_463_region_45_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Ильтяков Александр Владимирович": 593,
-      "Ильчик Андрей Сергеевич": 20,
-      "Кислицын Василий Александрович": 27,
-      "Самойлов Александр Иванович": 9,
-      "Севостьянов Виктор Геннадьевич": 4,
-      "Тугушев Анар Эльдар Оглы": 6,
-      "Фельдшеров Дмитрий Александрович": 2,
-      "Юсупов Андрей Владимирович": 3,
-      "Ярушин Юрий Владимирович": 17
+      "gas:candidate-vibid:2452000840183": 593,
+      "gas:candidate-vibid:2452000838643": 20,
+      "gas:candidate-vibid:2452000838217": 27,
+      "gas:candidate-vibid:2452000839012": 9,
+      "gas:candidate-vibid:2452000840515": 4,
+      "gas:candidate-vibid:2452000838278": 6,
+      "gas:candidate-vibid:2452000839974": 2,
+      "gas:candidate-vibid:2452000840145": 3,
+      "gas:candidate-vibid:2452000835984": 17
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kurgan?action=show&root=1000142&tvd=2452000794240&vrn=100100067795849&region=45&global=&sub_region=45&prver=0&pronetvd=null&vibid=2452000794240&type=464",
@@ -13613,15 +13613,15 @@ export const duma_2016_uik_463_region_45_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Ильтяков Александр Владимирович": 269,
-      "Ильчик Андрей Сергеевич": 4,
-      "Кислицын Василий Александрович": 12,
-      "Самойлов Александр Иванович": 5,
-      "Севостьянов Виктор Геннадьевич": 1,
-      "Тугушев Анар Эльдар Оглы": 4,
-      "Фельдшеров Дмитрий Александрович": 2,
-      "Юсупов Андрей Владимирович": 2,
-      "Ярушин Юрий Владимирович": 6
+      "gas:candidate-vibid:2452000840183": 269,
+      "gas:candidate-vibid:2452000838643": 4,
+      "gas:candidate-vibid:2452000838217": 12,
+      "gas:candidate-vibid:2452000839012": 5,
+      "gas:candidate-vibid:2452000840515": 1,
+      "gas:candidate-vibid:2452000838278": 4,
+      "gas:candidate-vibid:2452000839974": 2,
+      "gas:candidate-vibid:2452000840145": 2,
+      "gas:candidate-vibid:2452000835984": 6
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kurgan?action=show&root=1000142&tvd=2452000794240&vrn=100100067795849&region=45&global=&sub_region=45&prver=0&pronetvd=null&vibid=2452000794240&type=464",
@@ -13672,15 +13672,15 @@ export const duma_2016_uik_463_region_45_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Ильтяков Александр Владимирович": 103,
-      "Ильчик Андрей Сергеевич": 2,
-      "Кислицын Василий Александрович": 4,
-      "Самойлов Александр Иванович": 2,
-      "Севостьянов Виктор Геннадьевич": 0,
-      "Тугушев Анар Эльдар Оглы": 0,
-      "Фельдшеров Дмитрий Александрович": 1,
-      "Юсупов Андрей Владимирович": 1,
-      "Ярушин Юрий Владимирович": 2
+      "gas:candidate-vibid:2452000840183": 103,
+      "gas:candidate-vibid:2452000838643": 2,
+      "gas:candidate-vibid:2452000838217": 4,
+      "gas:candidate-vibid:2452000839012": 2,
+      "gas:candidate-vibid:2452000840515": 0,
+      "gas:candidate-vibid:2452000838278": 0,
+      "gas:candidate-vibid:2452000839974": 1,
+      "gas:candidate-vibid:2452000840145": 1,
+      "gas:candidate-vibid:2452000835984": 2
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kurgan?action=show&root=1000142&tvd=2452000794240&vrn=100100067795849&region=45&global=&sub_region=45&prver=0&pronetvd=null&vibid=2452000794240&type=464",
@@ -13731,15 +13731,15 @@ export const duma_2016_uik_463_region_45_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Ильтяков Александр Владимирович": 22,
-      "Ильчик Андрей Сергеевич": 6,
-      "Кислицын Василий Александрович": 2,
-      "Самойлов Александр Иванович": 0,
-      "Севостьянов Виктор Геннадьевич": 0,
-      "Тугушев Анар Эльдар Оглы": 0,
-      "Фельдшеров Дмитрий Александрович": 0,
-      "Юсупов Андрей Владимирович": 0,
-      "Ярушин Юрий Владимирович": 6
+      "gas:candidate-vibid:2452000840183": 22,
+      "gas:candidate-vibid:2452000838643": 6,
+      "gas:candidate-vibid:2452000838217": 2,
+      "gas:candidate-vibid:2452000839012": 0,
+      "gas:candidate-vibid:2452000840515": 0,
+      "gas:candidate-vibid:2452000838278": 0,
+      "gas:candidate-vibid:2452000839974": 0,
+      "gas:candidate-vibid:2452000840145": 0,
+      "gas:candidate-vibid:2452000835984": 6
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kurgan?action=show&root=1000142&tvd=2452000794240&vrn=100100067795849&region=45&global=&sub_region=45&prver=0&pronetvd=null&vibid=2452000794240&type=464",
@@ -13790,15 +13790,15 @@ export const duma_2016_uik_463_region_45_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Ильтяков Александр Владимирович": 139,
-      "Ильчик Андрей Сергеевич": 2,
-      "Кислицын Василий Александрович": 16,
-      "Самойлов Александр Иванович": 0,
-      "Севостьянов Виктор Геннадьевич": 1,
-      "Тугушев Анар Эльдар Оглы": 1,
-      "Фельдшеров Дмитрий Александрович": 1,
-      "Юсупов Андрей Владимирович": 0,
-      "Ярушин Юрий Владимирович": 5
+      "gas:candidate-vibid:2452000840183": 139,
+      "gas:candidate-vibid:2452000838643": 2,
+      "gas:candidate-vibid:2452000838217": 16,
+      "gas:candidate-vibid:2452000839012": 0,
+      "gas:candidate-vibid:2452000840515": 1,
+      "gas:candidate-vibid:2452000838278": 1,
+      "gas:candidate-vibid:2452000839974": 1,
+      "gas:candidate-vibid:2452000840145": 0,
+      "gas:candidate-vibid:2452000835984": 5
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kurgan?action=show&root=1000142&tvd=2452000794240&vrn=100100067795849&region=45&global=&sub_region=45&prver=0&pronetvd=null&vibid=2452000794240&type=464",
@@ -13849,15 +13849,15 @@ export const duma_2016_uik_463_region_45_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Ильтяков Александр Владимирович": 138,
-      "Ильчик Андрей Сергеевич": 3,
-      "Кислицын Василий Александрович": 19,
-      "Самойлов Александр Иванович": 4,
-      "Севостьянов Виктор Геннадьевич": 0,
-      "Тугушев Анар Эльдар Оглы": 4,
-      "Фельдшеров Дмитрий Александрович": 0,
-      "Юсупов Андрей Владимирович": 4,
-      "Ярушин Юрий Владимирович": 5
+      "gas:candidate-vibid:2452000840183": 138,
+      "gas:candidate-vibid:2452000838643": 3,
+      "gas:candidate-vibid:2452000838217": 19,
+      "gas:candidate-vibid:2452000839012": 4,
+      "gas:candidate-vibid:2452000840515": 0,
+      "gas:candidate-vibid:2452000838278": 4,
+      "gas:candidate-vibid:2452000839974": 0,
+      "gas:candidate-vibid:2452000840145": 4,
+      "gas:candidate-vibid:2452000835984": 5
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kurgan?action=show&root=1000142&tvd=2452000794240&vrn=100100067795849&region=45&global=&sub_region=45&prver=0&pronetvd=null&vibid=2452000794240&type=464",
@@ -13908,15 +13908,15 @@ export const duma_2016_uik_463_region_45_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Ильтяков Александр Владимирович": 216,
-      "Ильчик Андрей Сергеевич": 5,
-      "Кислицын Василий Александрович": 6,
-      "Самойлов Александр Иванович": 0,
-      "Севостьянов Виктор Геннадьевич": 2,
-      "Тугушев Анар Эльдар Оглы": 5,
-      "Фельдшеров Дмитрий Александрович": 1,
-      "Юсупов Андрей Владимирович": 0,
-      "Ярушин Юрий Владимирович": 8
+      "gas:candidate-vibid:2452000840183": 216,
+      "gas:candidate-vibid:2452000838643": 5,
+      "gas:candidate-vibid:2452000838217": 6,
+      "gas:candidate-vibid:2452000839012": 0,
+      "gas:candidate-vibid:2452000840515": 2,
+      "gas:candidate-vibid:2452000838278": 5,
+      "gas:candidate-vibid:2452000839974": 1,
+      "gas:candidate-vibid:2452000840145": 0,
+      "gas:candidate-vibid:2452000835984": 8
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kurgan?action=show&root=1000142&tvd=2452000794240&vrn=100100067795849&region=45&global=&sub_region=45&prver=0&pronetvd=null&vibid=2452000794240&type=464",
@@ -13967,15 +13967,15 @@ export const duma_2016_uik_463_region_45_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Ильтяков Александр Владимирович": 60,
-      "Ильчик Андрей Сергеевич": 1,
-      "Кислицын Василий Александрович": 3,
-      "Самойлов Александр Иванович": 0,
-      "Севостьянов Виктор Геннадьевич": 0,
-      "Тугушев Анар Эльдар Оглы": 1,
-      "Фельдшеров Дмитрий Александрович": 0,
-      "Юсупов Андрей Владимирович": 0,
-      "Ярушин Юрий Владимирович": 0
+      "gas:candidate-vibid:2452000840183": 60,
+      "gas:candidate-vibid:2452000838643": 1,
+      "gas:candidate-vibid:2452000838217": 3,
+      "gas:candidate-vibid:2452000839012": 0,
+      "gas:candidate-vibid:2452000840515": 0,
+      "gas:candidate-vibid:2452000838278": 1,
+      "gas:candidate-vibid:2452000839974": 0,
+      "gas:candidate-vibid:2452000840145": 0,
+      "gas:candidate-vibid:2452000835984": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kurgan?action=show&root=1000142&tvd=2452000794240&vrn=100100067795849&region=45&global=&sub_region=45&prver=0&pronetvd=null&vibid=2452000794240&type=464",
@@ -14026,15 +14026,15 @@ export const duma_2016_uik_463_region_45_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Ильтяков Александр Владимирович": 40,
-      "Ильчик Андрей Сергеевич": 0,
-      "Кислицын Василий Александрович": 1,
-      "Самойлов Александр Иванович": 0,
-      "Севостьянов Виктор Геннадьевич": 0,
-      "Тугушев Анар Эльдар Оглы": 1,
-      "Фельдшеров Дмитрий Александрович": 0,
-      "Юсупов Андрей Владимирович": 0,
-      "Ярушин Юрий Владимирович": 1
+      "gas:candidate-vibid:2452000840183": 40,
+      "gas:candidate-vibid:2452000838643": 0,
+      "gas:candidate-vibid:2452000838217": 1,
+      "gas:candidate-vibid:2452000839012": 0,
+      "gas:candidate-vibid:2452000840515": 0,
+      "gas:candidate-vibid:2452000838278": 1,
+      "gas:candidate-vibid:2452000839974": 0,
+      "gas:candidate-vibid:2452000840145": 0,
+      "gas:candidate-vibid:2452000835984": 1
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kurgan?action=show&root=1000142&tvd=2452000794240&vrn=100100067795849&region=45&global=&sub_region=45&prver=0&pronetvd=null&vibid=2452000794240&type=464",
@@ -14085,15 +14085,15 @@ export const duma_2016_uik_463_region_45_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Ильтяков Александр Владимирович": 137,
-      "Ильчик Андрей Сергеевич": 11,
-      "Кислицын Василий Александрович": 24,
-      "Самойлов Александр Иванович": 4,
-      "Севостьянов Виктор Геннадьевич": 2,
-      "Тугушев Анар Эльдар Оглы": 3,
-      "Фельдшеров Дмитрий Александрович": 1,
-      "Юсупов Андрей Владимирович": 0,
-      "Ярушин Юрий Владимирович": 4
+      "gas:candidate-vibid:2452000840183": 137,
+      "gas:candidate-vibid:2452000838643": 11,
+      "gas:candidate-vibid:2452000838217": 24,
+      "gas:candidate-vibid:2452000839012": 4,
+      "gas:candidate-vibid:2452000840515": 2,
+      "gas:candidate-vibid:2452000838278": 3,
+      "gas:candidate-vibid:2452000839974": 1,
+      "gas:candidate-vibid:2452000840145": 0,
+      "gas:candidate-vibid:2452000835984": 4
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kurgan?action=show&root=1000142&tvd=2452000794240&vrn=100100067795849&region=45&global=&sub_region=45&prver=0&pronetvd=null&vibid=2452000794240&type=464",
@@ -14144,15 +14144,15 @@ export const duma_2016_uik_463_region_45_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Ильтяков Александр Владимирович": 20,
-      "Ильчик Андрей Сергеевич": 2,
-      "Кислицын Василий Александрович": 2,
-      "Самойлов Александр Иванович": 0,
-      "Севостьянов Виктор Геннадьевич": 0,
-      "Тугушев Анар Эльдар Оглы": 2,
-      "Фельдшеров Дмитрий Александрович": 0,
-      "Юсупов Андрей Владимирович": 0,
-      "Ярушин Юрий Владимирович": 1
+      "gas:candidate-vibid:2452000840183": 20,
+      "gas:candidate-vibid:2452000838643": 2,
+      "gas:candidate-vibid:2452000838217": 2,
+      "gas:candidate-vibid:2452000839012": 0,
+      "gas:candidate-vibid:2452000840515": 0,
+      "gas:candidate-vibid:2452000838278": 2,
+      "gas:candidate-vibid:2452000839974": 0,
+      "gas:candidate-vibid:2452000840145": 0,
+      "gas:candidate-vibid:2452000835984": 1
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kurgan?action=show&root=1000142&tvd=2452000794240&vrn=100100067795849&region=45&global=&sub_region=45&prver=0&pronetvd=null&vibid=2452000794240&type=464",
@@ -14203,15 +14203,15 @@ export const duma_2016_uik_463_region_45_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Ильтяков Александр Владимирович": 177,
-      "Ильчик Андрей Сергеевич": 12,
-      "Кислицын Василий Александрович": 23,
-      "Самойлов Александр Иванович": 10,
-      "Севостьянов Виктор Геннадьевич": 2,
-      "Тугушев Анар Эльдар Оглы": 7,
-      "Фельдшеров Дмитрий Александрович": 1,
-      "Юсупов Андрей Владимирович": 1,
-      "Ярушин Юрий Владимирович": 10
+      "gas:candidate-vibid:2452000840183": 177,
+      "gas:candidate-vibid:2452000838643": 12,
+      "gas:candidate-vibid:2452000838217": 23,
+      "gas:candidate-vibid:2452000839012": 10,
+      "gas:candidate-vibid:2452000840515": 2,
+      "gas:candidate-vibid:2452000838278": 7,
+      "gas:candidate-vibid:2452000839974": 1,
+      "gas:candidate-vibid:2452000840145": 1,
+      "gas:candidate-vibid:2452000835984": 10
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kurgan?action=show&root=1000142&tvd=2452000794240&vrn=100100067795849&region=45&global=&sub_region=45&prver=0&pronetvd=null&vibid=2452000794240&type=464",
@@ -14262,15 +14262,15 @@ export const duma_2016_uik_463_region_45_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Ильтяков Александр Владимирович": 50,
-      "Ильчик Андрей Сергеевич": 1,
-      "Кислицын Василий Александрович": 4,
-      "Самойлов Александр Иванович": 0,
-      "Севостьянов Виктор Геннадьевич": 1,
-      "Тугушев Анар Эльдар Оглы": 1,
-      "Фельдшеров Дмитрий Александрович": 0,
-      "Юсупов Андрей Владимирович": 0,
-      "Ярушин Юрий Владимирович": 3
+      "gas:candidate-vibid:2452000840183": 50,
+      "gas:candidate-vibid:2452000838643": 1,
+      "gas:candidate-vibid:2452000838217": 4,
+      "gas:candidate-vibid:2452000839012": 0,
+      "gas:candidate-vibid:2452000840515": 1,
+      "gas:candidate-vibid:2452000838278": 1,
+      "gas:candidate-vibid:2452000839974": 0,
+      "gas:candidate-vibid:2452000840145": 0,
+      "gas:candidate-vibid:2452000835984": 3
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kurgan?action=show&root=1000142&tvd=2452000794240&vrn=100100067795849&region=45&global=&sub_region=45&prver=0&pronetvd=null&vibid=2452000794240&type=464",
@@ -14321,15 +14321,15 @@ export const duma_2016_uik_463_region_45_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Ильтяков Александр Владимирович": 31,
-      "Ильчик Андрей Сергеевич": 1,
-      "Кислицын Василий Александрович": 1,
-      "Самойлов Александр Иванович": 2,
-      "Севостьянов Виктор Геннадьевич": 0,
-      "Тугушев Анар Эльдар Оглы": 1,
-      "Фельдшеров Дмитрий Александрович": 0,
-      "Юсупов Андрей Владимирович": 0,
-      "Ярушин Юрий Владимирович": 7
+      "gas:candidate-vibid:2452000840183": 31,
+      "gas:candidate-vibid:2452000838643": 1,
+      "gas:candidate-vibid:2452000838217": 1,
+      "gas:candidate-vibid:2452000839012": 2,
+      "gas:candidate-vibid:2452000840515": 0,
+      "gas:candidate-vibid:2452000838278": 1,
+      "gas:candidate-vibid:2452000839974": 0,
+      "gas:candidate-vibid:2452000840145": 0,
+      "gas:candidate-vibid:2452000835984": 7
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kurgan?action=show&root=1000142&tvd=2452000794240&vrn=100100067795849&region=45&global=&sub_region=45&prver=0&pronetvd=null&vibid=2452000794240&type=464",
@@ -14380,15 +14380,15 @@ export const duma_2016_uik_463_region_45_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Ильтяков Александр Владимирович": 176,
-      "Ильчик Андрей Сергеевич": 7,
-      "Кислицын Василий Александрович": 16,
-      "Самойлов Александр Иванович": 3,
-      "Севостьянов Виктор Геннадьевич": 1,
-      "Тугушев Анар Эльдар Оглы": 1,
-      "Фельдшеров Дмитрий Александрович": 3,
-      "Юсупов Андрей Владимирович": 1,
-      "Ярушин Юрий Владимирович": 6
+      "gas:candidate-vibid:2452000840183": 176,
+      "gas:candidate-vibid:2452000838643": 7,
+      "gas:candidate-vibid:2452000838217": 16,
+      "gas:candidate-vibid:2452000839012": 3,
+      "gas:candidate-vibid:2452000840515": 1,
+      "gas:candidate-vibid:2452000838278": 1,
+      "gas:candidate-vibid:2452000839974": 3,
+      "gas:candidate-vibid:2452000840145": 1,
+      "gas:candidate-vibid:2452000835984": 6
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kurgan?action=show&root=1000142&tvd=2452000794240&vrn=100100067795849&region=45&global=&sub_region=45&prver=0&pronetvd=null&vibid=2452000794240&type=464",
@@ -14439,15 +14439,15 @@ export const duma_2016_uik_463_region_45_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Ильтяков Александр Владимирович": 31,
-      "Ильчик Андрей Сергеевич": 1,
-      "Кислицын Василий Александрович": 1,
-      "Самойлов Александр Иванович": 0,
-      "Севостьянов Виктор Геннадьевич": 0,
-      "Тугушев Анар Эльдар Оглы": 0,
-      "Фельдшеров Дмитрий Александрович": 0,
-      "Юсупов Андрей Владимирович": 0,
-      "Ярушин Юрий Владимирович": 1
+      "gas:candidate-vibid:2452000840183": 31,
+      "gas:candidate-vibid:2452000838643": 1,
+      "gas:candidate-vibid:2452000838217": 1,
+      "gas:candidate-vibid:2452000839012": 0,
+      "gas:candidate-vibid:2452000840515": 0,
+      "gas:candidate-vibid:2452000838278": 0,
+      "gas:candidate-vibid:2452000839974": 0,
+      "gas:candidate-vibid:2452000840145": 0,
+      "gas:candidate-vibid:2452000835984": 1
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kurgan?action=show&root=1000142&tvd=2452000794240&vrn=100100067795849&region=45&global=&sub_region=45&prver=0&pronetvd=null&vibid=2452000794240&type=464",
@@ -14498,15 +14498,15 @@ export const duma_2016_uik_463_region_45_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Ильтяков Александр Владимирович": 59,
-      "Ильчик Андрей Сергеевич": 4,
-      "Кислицын Василий Александрович": 10,
-      "Самойлов Александр Иванович": 0,
-      "Севостьянов Виктор Геннадьевич": 0,
-      "Тугушев Анар Эльдар Оглы": 2,
-      "Фельдшеров Дмитрий Александрович": 0,
-      "Юсупов Андрей Владимирович": 1,
-      "Ярушин Юрий Владимирович": 5
+      "gas:candidate-vibid:2452000840183": 59,
+      "gas:candidate-vibid:2452000838643": 4,
+      "gas:candidate-vibid:2452000838217": 10,
+      "gas:candidate-vibid:2452000839012": 0,
+      "gas:candidate-vibid:2452000840515": 0,
+      "gas:candidate-vibid:2452000838278": 2,
+      "gas:candidate-vibid:2452000839974": 0,
+      "gas:candidate-vibid:2452000840145": 1,
+      "gas:candidate-vibid:2452000835984": 5
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kurgan?action=show&root=1000142&tvd=2452000794240&vrn=100100067795849&region=45&global=&sub_region=45&prver=0&pronetvd=null&vibid=2452000794240&type=464",
@@ -14557,15 +14557,15 @@ export const duma_2016_uik_463_region_45_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Ильтяков Александр Владимирович": 227,
-      "Ильчик Андрей Сергеевич": 30,
-      "Кислицын Василий Александрович": 80,
-      "Самойлов Александр Иванович": 6,
-      "Севостьянов Виктор Геннадьевич": 3,
-      "Тугушев Анар Эльдар Оглы": 15,
-      "Фельдшеров Дмитрий Александрович": 4,
-      "Юсупов Андрей Владимирович": 2,
-      "Ярушин Юрий Владимирович": 63
+      "gas:candidate-vibid:2452000840183": 227,
+      "gas:candidate-vibid:2452000838643": 30,
+      "gas:candidate-vibid:2452000838217": 80,
+      "gas:candidate-vibid:2452000839012": 6,
+      "gas:candidate-vibid:2452000840515": 3,
+      "gas:candidate-vibid:2452000838278": 15,
+      "gas:candidate-vibid:2452000839974": 4,
+      "gas:candidate-vibid:2452000840145": 2,
+      "gas:candidate-vibid:2452000835984": 63
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kurgan?action=show&root=1000142&tvd=2452000794241&vrn=100100067795849&region=45&global=&sub_region=45&prver=0&pronetvd=null&vibid=2452000794241&type=464",
@@ -14616,15 +14616,15 @@ export const duma_2016_uik_463_region_45_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Ильтяков Александр Владимирович": 220,
-      "Ильчик Андрей Сергеевич": 13,
-      "Кислицын Василий Александрович": 49,
-      "Самойлов Александр Иванович": 9,
-      "Севостьянов Виктор Геннадьевич": 5,
-      "Тугушев Анар Эльдар Оглы": 8,
-      "Фельдшеров Дмитрий Александрович": 6,
-      "Юсупов Андрей Владимирович": 8,
-      "Ярушин Юрий Владимирович": 54
+      "gas:candidate-vibid:2452000840183": 220,
+      "gas:candidate-vibid:2452000838643": 13,
+      "gas:candidate-vibid:2452000838217": 49,
+      "gas:candidate-vibid:2452000839012": 9,
+      "gas:candidate-vibid:2452000840515": 5,
+      "gas:candidate-vibid:2452000838278": 8,
+      "gas:candidate-vibid:2452000839974": 6,
+      "gas:candidate-vibid:2452000840145": 8,
+      "gas:candidate-vibid:2452000835984": 54
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kurgan?action=show&root=1000142&tvd=2452000794241&vrn=100100067795849&region=45&global=&sub_region=45&prver=0&pronetvd=null&vibid=2452000794241&type=464",
@@ -14675,15 +14675,15 @@ export const duma_2016_uik_463_region_45_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Ильтяков Александр Владимирович": 222,
-      "Ильчик Андрей Сергеевич": 20,
-      "Кислицын Василий Александрович": 90,
-      "Самойлов Александр Иванович": 7,
-      "Севостьянов Виктор Геннадьевич": 5,
-      "Тугушев Анар Эльдар Оглы": 14,
-      "Фельдшеров Дмитрий Александрович": 4,
-      "Юсупов Андрей Владимирович": 8,
-      "Ярушин Юрий Владимирович": 57
+      "gas:candidate-vibid:2452000840183": 222,
+      "gas:candidate-vibid:2452000838643": 20,
+      "gas:candidate-vibid:2452000838217": 90,
+      "gas:candidate-vibid:2452000839012": 7,
+      "gas:candidate-vibid:2452000840515": 5,
+      "gas:candidate-vibid:2452000838278": 14,
+      "gas:candidate-vibid:2452000839974": 4,
+      "gas:candidate-vibid:2452000840145": 8,
+      "gas:candidate-vibid:2452000835984": 57
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kurgan?action=show&root=1000142&tvd=2452000794241&vrn=100100067795849&region=45&global=&sub_region=45&prver=0&pronetvd=null&vibid=2452000794241&type=464",
@@ -14734,15 +14734,15 @@ export const duma_2016_uik_463_region_45_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Ильтяков Александр Владимирович": 283,
-      "Ильчик Андрей Сергеевич": 31,
-      "Кислицын Василий Александрович": 88,
-      "Самойлов Александр Иванович": 10,
-      "Севостьянов Виктор Геннадьевич": 8,
-      "Тугушев Анар Эльдар Оглы": 9,
-      "Фельдшеров Дмитрий Александрович": 6,
-      "Юсупов Андрей Владимирович": 4,
-      "Ярушин Юрий Владимирович": 55
+      "gas:candidate-vibid:2452000840183": 283,
+      "gas:candidate-vibid:2452000838643": 31,
+      "gas:candidate-vibid:2452000838217": 88,
+      "gas:candidate-vibid:2452000839012": 10,
+      "gas:candidate-vibid:2452000840515": 8,
+      "gas:candidate-vibid:2452000838278": 9,
+      "gas:candidate-vibid:2452000839974": 6,
+      "gas:candidate-vibid:2452000840145": 4,
+      "gas:candidate-vibid:2452000835984": 55
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kurgan?action=show&root=1000142&tvd=2452000794241&vrn=100100067795849&region=45&global=&sub_region=45&prver=0&pronetvd=null&vibid=2452000794241&type=464",

@@ -43,15 +43,15 @@ export const duma_2016_uik_463_region_61_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Волков Павел Николаевич": 24,
-      "Волощук Вячеслав Александрович": 2,
-      "Иванов Сергей Владимирович": 70,
-      "Котляров Анатолий Александрович": 20,
-      "Крылов Станислав Игоревич": 5,
-      "Мусиенко Александр Анатольевич": 10,
-      "Новиков Сергей Николаевич": 10,
-      "Тутова Лариса Николаевна": 1164,
-      "Фоменко Григорий Петрович": 36
+      "gas:candidate-vibid:4614045159596": 24,
+      "gas:candidate-vibid:4614045160769": 2,
+      "gas:candidate-vibid:4614045143478": 70,
+      "gas:candidate-vibid:4614045158891": 20,
+      "gas:candidate-vibid:4614045160315": 5,
+      "gas:candidate-vibid:4614045160268": 10,
+      "gas:candidate-vibid:4614045160434": 10,
+      "gas:candidate-vibid:4614045159562": 1164,
+      "gas:candidate-vibid:4614045159516": 36
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/rostov?action=show&root=1000198&tvd=26120001455432&vrn=100100067795849&region=61&global=&sub_region=61&prver=0&pronetvd=null&vibid=26120001455432&type=464",
@@ -102,15 +102,15 @@ export const duma_2016_uik_463_region_61_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Волков Павел Николаевич": 42,
-      "Волощук Вячеслав Александрович": 13,
-      "Иванов Сергей Владимирович": 135,
-      "Котляров Анатолий Александрович": 41,
-      "Крылов Станислав Игоревич": 22,
-      "Мусиенко Александр Анатольевич": 13,
-      "Новиков Сергей Николаевич": 10,
-      "Тутова Лариса Николаевна": 721,
-      "Фоменко Григорий Петрович": 58
+      "gas:candidate-vibid:4614045159596": 42,
+      "gas:candidate-vibid:4614045160769": 13,
+      "gas:candidate-vibid:4614045143478": 135,
+      "gas:candidate-vibid:4614045158891": 41,
+      "gas:candidate-vibid:4614045160315": 22,
+      "gas:candidate-vibid:4614045160268": 13,
+      "gas:candidate-vibid:4614045160434": 10,
+      "gas:candidate-vibid:4614045159562": 721,
+      "gas:candidate-vibid:4614045159516": 58
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/rostov?action=show&root=1000198&tvd=26120001455432&vrn=100100067795849&region=61&global=&sub_region=61&prver=0&pronetvd=null&vibid=26120001455432&type=464",
@@ -161,15 +161,15 @@ export const duma_2016_uik_463_region_61_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Волков Павел Николаевич": 21,
-      "Волощук Вячеслав Александрович": 5,
-      "Иванов Сергей Владимирович": 118,
-      "Котляров Анатолий Александрович": 21,
-      "Крылов Станислав Игоревич": 6,
-      "Мусиенко Александр Анатольевич": 6,
-      "Новиков Сергей Николаевич": 3,
-      "Тутова Лариса Николаевна": 705,
-      "Фоменко Григорий Петрович": 47
+      "gas:candidate-vibid:4614045159596": 21,
+      "gas:candidate-vibid:4614045160769": 5,
+      "gas:candidate-vibid:4614045143478": 118,
+      "gas:candidate-vibid:4614045158891": 21,
+      "gas:candidate-vibid:4614045160315": 6,
+      "gas:candidate-vibid:4614045160268": 6,
+      "gas:candidate-vibid:4614045160434": 3,
+      "gas:candidate-vibid:4614045159562": 705,
+      "gas:candidate-vibid:4614045159516": 47
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/rostov?action=show&root=1000198&tvd=26120001455432&vrn=100100067795849&region=61&global=&sub_region=61&prver=0&pronetvd=null&vibid=26120001455432&type=464",
@@ -220,15 +220,15 @@ export const duma_2016_uik_463_region_61_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Волков Павел Николаевич": 39,
-      "Волощук Вячеслав Александрович": 13,
-      "Иванов Сергей Владимирович": 129,
-      "Котляров Анатолий Александрович": 30,
-      "Крылов Станислав Игоревич": 5,
-      "Мусиенко Александр Анатольевич": 8,
-      "Новиков Сергей Николаевич": 7,
-      "Тутова Лариса Николаевна": 644,
-      "Фоменко Григорий Петрович": 61
+      "gas:candidate-vibid:4614045159596": 39,
+      "gas:candidate-vibid:4614045160769": 13,
+      "gas:candidate-vibid:4614045143478": 129,
+      "gas:candidate-vibid:4614045158891": 30,
+      "gas:candidate-vibid:4614045160315": 5,
+      "gas:candidate-vibid:4614045160268": 8,
+      "gas:candidate-vibid:4614045160434": 7,
+      "gas:candidate-vibid:4614045159562": 644,
+      "gas:candidate-vibid:4614045159516": 61
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/rostov?action=show&root=1000198&tvd=26120001455432&vrn=100100067795849&region=61&global=&sub_region=61&prver=0&pronetvd=null&vibid=26120001455432&type=464",
@@ -279,15 +279,15 @@ export const duma_2016_uik_463_region_61_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Волков Павел Николаевич": 23,
-      "Волощук Вячеслав Александрович": 4,
-      "Иванов Сергей Владимирович": 94,
-      "Котляров Анатолий Александрович": 19,
-      "Крылов Станислав Игоревич": 5,
-      "Мусиенко Александр Анатольевич": 2,
-      "Новиков Сергей Николаевич": 5,
-      "Тутова Лариса Николаевна": 714,
-      "Фоменко Григорий Петрович": 47
+      "gas:candidate-vibid:4614045159596": 23,
+      "gas:candidate-vibid:4614045160769": 4,
+      "gas:candidate-vibid:4614045143478": 94,
+      "gas:candidate-vibid:4614045158891": 19,
+      "gas:candidate-vibid:4614045160315": 5,
+      "gas:candidate-vibid:4614045160268": 2,
+      "gas:candidate-vibid:4614045160434": 5,
+      "gas:candidate-vibid:4614045159562": 714,
+      "gas:candidate-vibid:4614045159516": 47
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/rostov?action=show&root=1000198&tvd=26120001455432&vrn=100100067795849&region=61&global=&sub_region=61&prver=0&pronetvd=null&vibid=26120001455432&type=464",
@@ -338,15 +338,15 @@ export const duma_2016_uik_463_region_61_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Волков Павел Николаевич": 21,
-      "Волощук Вячеслав Александрович": 4,
-      "Иванов Сергей Владимирович": 85,
-      "Котляров Анатолий Александрович": 26,
-      "Крылов Станислав Игоревич": 9,
-      "Мусиенко Александр Анатольевич": 3,
-      "Новиков Сергей Николаевич": 6,
-      "Тутова Лариса Николаевна": 440,
-      "Фоменко Григорий Петрович": 38
+      "gas:candidate-vibid:4614045159596": 21,
+      "gas:candidate-vibid:4614045160769": 4,
+      "gas:candidate-vibid:4614045143478": 85,
+      "gas:candidate-vibid:4614045158891": 26,
+      "gas:candidate-vibid:4614045160315": 9,
+      "gas:candidate-vibid:4614045160268": 3,
+      "gas:candidate-vibid:4614045160434": 6,
+      "gas:candidate-vibid:4614045159562": 440,
+      "gas:candidate-vibid:4614045159516": 38
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/rostov?action=show&root=1000198&tvd=26120001455432&vrn=100100067795849&region=61&global=&sub_region=61&prver=0&pronetvd=null&vibid=26120001455432&type=464",
@@ -397,15 +397,15 @@ export const duma_2016_uik_463_region_61_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Волков Павел Николаевич": 49,
-      "Волощук Вячеслав Александрович": 3,
-      "Иванов Сергей Владимирович": 155,
-      "Котляров Анатолий Александрович": 31,
-      "Крылов Станислав Игоревич": 7,
-      "Мусиенко Александр Анатольевич": 16,
-      "Новиков Сергей Николаевич": 19,
-      "Тутова Лариса Николаевна": 965,
-      "Фоменко Григорий Петрович": 73
+      "gas:candidate-vibid:4614045159596": 49,
+      "gas:candidate-vibid:4614045160769": 3,
+      "gas:candidate-vibid:4614045143478": 155,
+      "gas:candidate-vibid:4614045158891": 31,
+      "gas:candidate-vibid:4614045160315": 7,
+      "gas:candidate-vibid:4614045160268": 16,
+      "gas:candidate-vibid:4614045160434": 19,
+      "gas:candidate-vibid:4614045159562": 965,
+      "gas:candidate-vibid:4614045159516": 73
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/rostov?action=show&root=1000198&tvd=26120001455432&vrn=100100067795849&region=61&global=&sub_region=61&prver=0&pronetvd=null&vibid=26120001455432&type=464",
@@ -456,15 +456,15 @@ export const duma_2016_uik_463_region_61_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Волков Павел Николаевич": 9,
-      "Волощук Вячеслав Александрович": 2,
-      "Иванов Сергей Владимирович": 61,
-      "Котляров Анатолий Александрович": 11,
-      "Крылов Станислав Игоревич": 4,
-      "Мусиенко Александр Анатольевич": 0,
-      "Новиков Сергей Николаевич": 2,
-      "Тутова Лариса Николаевна": 215,
-      "Фоменко Григорий Петрович": 13
+      "gas:candidate-vibid:4614045159596": 9,
+      "gas:candidate-vibid:4614045160769": 2,
+      "gas:candidate-vibid:4614045143478": 61,
+      "gas:candidate-vibid:4614045158891": 11,
+      "gas:candidate-vibid:4614045160315": 4,
+      "gas:candidate-vibid:4614045160268": 0,
+      "gas:candidate-vibid:4614045160434": 2,
+      "gas:candidate-vibid:4614045159562": 215,
+      "gas:candidate-vibid:4614045159516": 13
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/rostov?action=show&root=1000198&tvd=26120001455432&vrn=100100067795849&region=61&global=&sub_region=61&prver=0&pronetvd=null&vibid=26120001455432&type=464",
@@ -515,15 +515,15 @@ export const duma_2016_uik_463_region_61_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Волков Павел Николаевич": 15,
-      "Волощук Вячеслав Александрович": 3,
-      "Иванов Сергей Владимирович": 69,
-      "Котляров Анатолий Александрович": 16,
-      "Крылов Станислав Игоревич": 1,
-      "Мусиенко Александр Анатольевич": 1,
-      "Новиков Сергей Николаевич": 1,
-      "Тутова Лариса Николаевна": 473,
-      "Фоменко Григорий Петрович": 23
+      "gas:candidate-vibid:4614045159596": 15,
+      "gas:candidate-vibid:4614045160769": 3,
+      "gas:candidate-vibid:4614045143478": 69,
+      "gas:candidate-vibid:4614045158891": 16,
+      "gas:candidate-vibid:4614045160315": 1,
+      "gas:candidate-vibid:4614045160268": 1,
+      "gas:candidate-vibid:4614045160434": 1,
+      "gas:candidate-vibid:4614045159562": 473,
+      "gas:candidate-vibid:4614045159516": 23
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/rostov?action=show&root=1000198&tvd=26120001455432&vrn=100100067795849&region=61&global=&sub_region=61&prver=0&pronetvd=null&vibid=26120001455432&type=464",
@@ -574,15 +574,15 @@ export const duma_2016_uik_463_region_61_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Волков Павел Николаевич": 23,
-      "Волощук Вячеслав Александрович": 0,
-      "Иванов Сергей Владимирович": 51,
-      "Котляров Анатолий Александрович": 0,
-      "Крылов Станислав Игоревич": 0,
-      "Мусиенко Александр Анатольевич": 0,
-      "Новиков Сергей Николаевич": 0,
-      "Тутова Лариса Николаевна": 673,
-      "Фоменко Григорий Петрович": 49
+      "gas:candidate-vibid:4614045159596": 23,
+      "gas:candidate-vibid:4614045160769": 0,
+      "gas:candidate-vibid:4614045143478": 51,
+      "gas:candidate-vibid:4614045158891": 0,
+      "gas:candidate-vibid:4614045160315": 0,
+      "gas:candidate-vibid:4614045160268": 0,
+      "gas:candidate-vibid:4614045160434": 0,
+      "gas:candidate-vibid:4614045159562": 673,
+      "gas:candidate-vibid:4614045159516": 49
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/rostov?action=show&root=1000198&tvd=26120001455432&vrn=100100067795849&region=61&global=&sub_region=61&prver=0&pronetvd=null&vibid=26120001455432&type=464",
@@ -633,15 +633,15 @@ export const duma_2016_uik_463_region_61_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Волков Павел Николаевич": 11,
-      "Волощук Вячеслав Александрович": 7,
-      "Иванов Сергей Владимирович": 20,
-      "Котляров Анатолий Александрович": 32,
-      "Крылов Станислав Игоревич": 3,
-      "Мусиенко Александр Анатольевич": 26,
-      "Новиков Сергей Николаевич": 5,
-      "Тутова Лариса Николаевна": 552,
-      "Фоменко Григорий Петрович": 47
+      "gas:candidate-vibid:4614045159596": 11,
+      "gas:candidate-vibid:4614045160769": 7,
+      "gas:candidate-vibid:4614045143478": 20,
+      "gas:candidate-vibid:4614045158891": 32,
+      "gas:candidate-vibid:4614045160315": 3,
+      "gas:candidate-vibid:4614045160268": 26,
+      "gas:candidate-vibid:4614045160434": 5,
+      "gas:candidate-vibid:4614045159562": 552,
+      "gas:candidate-vibid:4614045159516": 47
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/rostov?action=show&root=1000198&tvd=26120001455432&vrn=100100067795849&region=61&global=&sub_region=61&prver=0&pronetvd=null&vibid=26120001455432&type=464",
@@ -692,15 +692,15 @@ export const duma_2016_uik_463_region_61_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Волков Павел Николаевич": 20,
-      "Волощук Вячеслав Александрович": 7,
-      "Иванов Сергей Владимирович": 73,
-      "Котляров Анатолий Александрович": 46,
-      "Крылов Станислав Игоревич": 6,
-      "Мусиенко Александр Анатольевич": 10,
-      "Новиков Сергей Николаевич": 4,
-      "Тутова Лариса Николаевна": 716,
-      "Фоменко Григорий Петрович": 144
+      "gas:candidate-vibid:4614045159596": 20,
+      "gas:candidate-vibid:4614045160769": 7,
+      "gas:candidate-vibid:4614045143478": 73,
+      "gas:candidate-vibid:4614045158891": 46,
+      "gas:candidate-vibid:4614045160315": 6,
+      "gas:candidate-vibid:4614045160268": 10,
+      "gas:candidate-vibid:4614045160434": 4,
+      "gas:candidate-vibid:4614045159562": 716,
+      "gas:candidate-vibid:4614045159516": 144
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/rostov?action=show&root=1000198&tvd=26120001455432&vrn=100100067795849&region=61&global=&sub_region=61&prver=0&pronetvd=null&vibid=26120001455432&type=464",
@@ -751,15 +751,15 @@ export const duma_2016_uik_463_region_61_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Волков Павел Николаевич": 0,
-      "Волощук Вячеслав Александрович": 0,
-      "Иванов Сергей Владимирович": 79,
-      "Котляров Анатолий Александрович": 12,
-      "Крылов Станислав Игоревич": 0,
-      "Мусиенко Александр Анатольевич": 0,
-      "Новиков Сергей Николаевич": 0,
-      "Тутова Лариса Николаевна": 586,
-      "Фоменко Григорий Петрович": 7
+      "gas:candidate-vibid:4614045159596": 0,
+      "gas:candidate-vibid:4614045160769": 0,
+      "gas:candidate-vibid:4614045143478": 79,
+      "gas:candidate-vibid:4614045158891": 12,
+      "gas:candidate-vibid:4614045160315": 0,
+      "gas:candidate-vibid:4614045160268": 0,
+      "gas:candidate-vibid:4614045160434": 0,
+      "gas:candidate-vibid:4614045159562": 586,
+      "gas:candidate-vibid:4614045159516": 7
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/rostov?action=show&root=1000198&tvd=26120001455432&vrn=100100067795849&region=61&global=&sub_region=61&prver=0&pronetvd=null&vibid=26120001455432&type=464",
@@ -810,15 +810,15 @@ export const duma_2016_uik_463_region_61_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Волков Павел Николаевич": 0,
-      "Волощук Вячеслав Александрович": 0,
-      "Иванов Сергей Владимирович": 67,
-      "Котляров Анатолий Александрович": 8,
-      "Крылов Станислав Игоревич": 0,
-      "Мусиенко Александр Анатольевич": 0,
-      "Новиков Сергей Николаевич": 0,
-      "Тутова Лариса Николаевна": 519,
-      "Фоменко Григорий Петрович": 6
+      "gas:candidate-vibid:4614045159596": 0,
+      "gas:candidate-vibid:4614045160769": 0,
+      "gas:candidate-vibid:4614045143478": 67,
+      "gas:candidate-vibid:4614045158891": 8,
+      "gas:candidate-vibid:4614045160315": 0,
+      "gas:candidate-vibid:4614045160268": 0,
+      "gas:candidate-vibid:4614045160434": 0,
+      "gas:candidate-vibid:4614045159562": 519,
+      "gas:candidate-vibid:4614045159516": 6
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/rostov?action=show&root=1000198&tvd=26120001455432&vrn=100100067795849&region=61&global=&sub_region=61&prver=0&pronetvd=null&vibid=26120001455432&type=464",
@@ -869,15 +869,15 @@ export const duma_2016_uik_463_region_61_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Волков Павел Николаевич": 16,
-      "Волощук Вячеслав Александрович": 0,
-      "Иванов Сергей Владимирович": 82,
-      "Котляров Анатолий Александрович": 6,
-      "Крылов Станислав Игоревич": 3,
-      "Мусиенко Александр Анатольевич": 4,
-      "Новиков Сергей Николаевич": 5,
-      "Тутова Лариса Николаевна": 767,
-      "Фоменко Григорий Петрович": 39
+      "gas:candidate-vibid:4614045159596": 16,
+      "gas:candidate-vibid:4614045160769": 0,
+      "gas:candidate-vibid:4614045143478": 82,
+      "gas:candidate-vibid:4614045158891": 6,
+      "gas:candidate-vibid:4614045160315": 3,
+      "gas:candidate-vibid:4614045160268": 4,
+      "gas:candidate-vibid:4614045160434": 5,
+      "gas:candidate-vibid:4614045159562": 767,
+      "gas:candidate-vibid:4614045159516": 39
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/rostov?action=show&root=1000198&tvd=26120001455432&vrn=100100067795849&region=61&global=&sub_region=61&prver=0&pronetvd=null&vibid=26120001455432&type=464",
@@ -928,15 +928,15 @@ export const duma_2016_uik_463_region_61_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Волков Павел Николаевич": 19,
-      "Волощук Вячеслав Александрович": 3,
-      "Иванов Сергей Владимирович": 78,
-      "Котляров Анатолий Александрович": 8,
-      "Крылов Станислав Игоревич": 8,
-      "Мусиенко Александр Анатольевич": 3,
-      "Новиков Сергей Николаевич": 22,
-      "Тутова Лариса Николаевна": 671,
-      "Фоменко Григорий Петрович": 14
+      "gas:candidate-vibid:4614045159596": 19,
+      "gas:candidate-vibid:4614045160769": 3,
+      "gas:candidate-vibid:4614045143478": 78,
+      "gas:candidate-vibid:4614045158891": 8,
+      "gas:candidate-vibid:4614045160315": 8,
+      "gas:candidate-vibid:4614045160268": 3,
+      "gas:candidate-vibid:4614045160434": 22,
+      "gas:candidate-vibid:4614045159562": 671,
+      "gas:candidate-vibid:4614045159516": 14
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/rostov?action=show&root=1000198&tvd=26120001455432&vrn=100100067795849&region=61&global=&sub_region=61&prver=0&pronetvd=null&vibid=26120001455432&type=464",
@@ -987,15 +987,15 @@ export const duma_2016_uik_463_region_61_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Волков Павел Николаевич": 9,
-      "Волощук Вячеслав Александрович": 0,
-      "Иванов Сергей Владимирович": 31,
-      "Котляров Анатолий Александрович": 11,
-      "Крылов Станислав Игоревич": 4,
-      "Мусиенко Александр Анатольевич": 0,
-      "Новиков Сергей Николаевич": 4,
-      "Тутова Лариса Николаевна": 500,
-      "Фоменко Григорий Петрович": 13
+      "gas:candidate-vibid:4614045159596": 9,
+      "gas:candidate-vibid:4614045160769": 0,
+      "gas:candidate-vibid:4614045143478": 31,
+      "gas:candidate-vibid:4614045158891": 11,
+      "gas:candidate-vibid:4614045160315": 4,
+      "gas:candidate-vibid:4614045160268": 0,
+      "gas:candidate-vibid:4614045160434": 4,
+      "gas:candidate-vibid:4614045159562": 500,
+      "gas:candidate-vibid:4614045159516": 13
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/rostov?action=show&root=1000198&tvd=26120001455432&vrn=100100067795849&region=61&global=&sub_region=61&prver=0&pronetvd=null&vibid=26120001455432&type=464",
@@ -1046,15 +1046,15 @@ export const duma_2016_uik_463_region_61_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Волков Павел Николаевич": 17,
-      "Волощук Вячеслав Александрович": 5,
-      "Иванов Сергей Владимирович": 91,
-      "Котляров Анатолий Александрович": 34,
-      "Крылов Станислав Игоревич": 11,
-      "Мусиенко Александр Анатольевич": 8,
-      "Новиков Сергей Николаевич": 9,
-      "Тутова Лариса Николаевна": 511,
-      "Фоменко Григорий Петрович": 68
+      "gas:candidate-vibid:4614045159596": 17,
+      "gas:candidate-vibid:4614045160769": 5,
+      "gas:candidate-vibid:4614045143478": 91,
+      "gas:candidate-vibid:4614045158891": 34,
+      "gas:candidate-vibid:4614045160315": 11,
+      "gas:candidate-vibid:4614045160268": 8,
+      "gas:candidate-vibid:4614045160434": 9,
+      "gas:candidate-vibid:4614045159562": 511,
+      "gas:candidate-vibid:4614045159516": 68
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/rostov?action=show&root=1000198&tvd=26120001455432&vrn=100100067795849&region=61&global=&sub_region=61&prver=0&pronetvd=null&vibid=26120001455432&type=464",
@@ -1105,15 +1105,15 @@ export const duma_2016_uik_463_region_61_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Волков Павел Николаевич": 12,
-      "Волощук Вячеслав Александрович": 3,
-      "Иванов Сергей Владимирович": 70,
-      "Котляров Анатолий Александрович": 19,
-      "Крылов Станислав Игоревич": 9,
-      "Мусиенко Александр Анатольевич": 3,
-      "Новиков Сергей Николаевич": 7,
-      "Тутова Лариса Николаевна": 451,
-      "Фоменко Григорий Петрович": 24
+      "gas:candidate-vibid:4614045159596": 12,
+      "gas:candidate-vibid:4614045160769": 3,
+      "gas:candidate-vibid:4614045143478": 70,
+      "gas:candidate-vibid:4614045158891": 19,
+      "gas:candidate-vibid:4614045160315": 9,
+      "gas:candidate-vibid:4614045160268": 3,
+      "gas:candidate-vibid:4614045160434": 7,
+      "gas:candidate-vibid:4614045159562": 451,
+      "gas:candidate-vibid:4614045159516": 24
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/rostov?action=show&root=1000198&tvd=26120001455432&vrn=100100067795849&region=61&global=&sub_region=61&prver=0&pronetvd=null&vibid=26120001455432&type=464",
@@ -1164,15 +1164,15 @@ export const duma_2016_uik_463_region_61_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Волков Павел Николаевич": 8,
-      "Волощук Вячеслав Александрович": 1,
-      "Иванов Сергей Владимирович": 25,
-      "Котляров Анатолий Александрович": 3,
-      "Крылов Станислав Игоревич": 2,
-      "Мусиенко Александр Анатольевич": 2,
-      "Новиков Сергей Николаевич": 1,
-      "Тутова Лариса Николаевна": 189,
-      "Фоменко Григорий Петрович": 19
+      "gas:candidate-vibid:4614045159596": 8,
+      "gas:candidate-vibid:4614045160769": 1,
+      "gas:candidate-vibid:4614045143478": 25,
+      "gas:candidate-vibid:4614045158891": 3,
+      "gas:candidate-vibid:4614045160315": 2,
+      "gas:candidate-vibid:4614045160268": 2,
+      "gas:candidate-vibid:4614045160434": 1,
+      "gas:candidate-vibid:4614045159562": 189,
+      "gas:candidate-vibid:4614045159516": 19
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/rostov?action=show&root=1000198&tvd=26120001455432&vrn=100100067795849&region=61&global=&sub_region=61&prver=0&pronetvd=null&vibid=26120001455432&type=464",
@@ -1223,15 +1223,15 @@ export const duma_2016_uik_463_region_61_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Волков Павел Николаевич": 9,
-      "Волощук Вячеслав Александрович": 0,
-      "Иванов Сергей Владимирович": 65,
-      "Котляров Анатолий Александрович": 0,
-      "Крылов Станислав Игоревич": 4,
-      "Мусиенко Александр Анатольевич": 0,
-      "Новиков Сергей Николаевич": 0,
-      "Тутова Лариса Николаевна": 794,
-      "Фоменко Григорий Петрович": 65
+      "gas:candidate-vibid:4614045159596": 9,
+      "gas:candidate-vibid:4614045160769": 0,
+      "gas:candidate-vibid:4614045143478": 65,
+      "gas:candidate-vibid:4614045158891": 0,
+      "gas:candidate-vibid:4614045160315": 4,
+      "gas:candidate-vibid:4614045160268": 0,
+      "gas:candidate-vibid:4614045160434": 0,
+      "gas:candidate-vibid:4614045159562": 794,
+      "gas:candidate-vibid:4614045159516": 65
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/rostov?action=show&root=1000198&tvd=26120001455432&vrn=100100067795849&region=61&global=&sub_region=61&prver=0&pronetvd=null&vibid=26120001455432&type=464",
@@ -1282,15 +1282,15 @@ export const duma_2016_uik_463_region_61_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Волков Павел Николаевич": 10,
-      "Волощук Вячеслав Александрович": 0,
-      "Иванов Сергей Владимирович": 40,
-      "Котляров Анатолий Александрович": 0,
-      "Крылов Станислав Игоревич": 0,
-      "Мусиенко Александр Анатольевич": 0,
-      "Новиков Сергей Николаевич": 0,
-      "Тутова Лариса Николаевна": 331,
-      "Фоменко Григорий Петрович": 24
+      "gas:candidate-vibid:4614045159596": 10,
+      "gas:candidate-vibid:4614045160769": 0,
+      "gas:candidate-vibid:4614045143478": 40,
+      "gas:candidate-vibid:4614045158891": 0,
+      "gas:candidate-vibid:4614045160315": 0,
+      "gas:candidate-vibid:4614045160268": 0,
+      "gas:candidate-vibid:4614045160434": 0,
+      "gas:candidate-vibid:4614045159562": 331,
+      "gas:candidate-vibid:4614045159516": 24
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/rostov?action=show&root=1000198&tvd=26120001455432&vrn=100100067795849&region=61&global=&sub_region=61&prver=0&pronetvd=null&vibid=26120001455432&type=464",
@@ -1341,15 +1341,15 @@ export const duma_2016_uik_463_region_61_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Волков Павел Николаевич": 45,
-      "Волощук Вячеслав Александрович": 4,
-      "Иванов Сергей Владимирович": 164,
-      "Котляров Анатолий Александрович": 36,
-      "Крылов Станислав Игоревич": 10,
-      "Мусиенко Александр Анатольевич": 10,
-      "Новиков Сергей Николаевич": 4,
-      "Тутова Лариса Николаевна": 1399,
-      "Фоменко Григорий Петрович": 103
+      "gas:candidate-vibid:4614045159596": 45,
+      "gas:candidate-vibid:4614045160769": 4,
+      "gas:candidate-vibid:4614045143478": 164,
+      "gas:candidate-vibid:4614045158891": 36,
+      "gas:candidate-vibid:4614045160315": 10,
+      "gas:candidate-vibid:4614045160268": 10,
+      "gas:candidate-vibid:4614045160434": 4,
+      "gas:candidate-vibid:4614045159562": 1399,
+      "gas:candidate-vibid:4614045159516": 103
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/rostov?action=show&root=1000198&tvd=26120001455433&vrn=100100067795849&region=61&global=&sub_region=61&prver=0&pronetvd=null&vibid=26120001455433&type=464",
@@ -1400,15 +1400,15 @@ export const duma_2016_uik_463_region_61_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Волков Павел Николаевич": 35,
-      "Волощук Вячеслав Александрович": 7,
-      "Иванов Сергей Владимирович": 164,
-      "Котляров Анатолий Александрович": 44,
-      "Крылов Станислав Игоревич": 11,
-      "Мусиенко Александр Анатольевич": 40,
-      "Новиков Сергей Николаевич": 18,
-      "Тутова Лариса Николаевна": 887,
-      "Фоменко Григорий Петрович": 137
+      "gas:candidate-vibid:4614045159596": 35,
+      "gas:candidate-vibid:4614045160769": 7,
+      "gas:candidate-vibid:4614045143478": 164,
+      "gas:candidate-vibid:4614045158891": 44,
+      "gas:candidate-vibid:4614045160315": 11,
+      "gas:candidate-vibid:4614045160268": 40,
+      "gas:candidate-vibid:4614045160434": 18,
+      "gas:candidate-vibid:4614045159562": 887,
+      "gas:candidate-vibid:4614045159516": 137
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/rostov?action=show&root=1000198&tvd=26120001455433&vrn=100100067795849&region=61&global=&sub_region=61&prver=0&pronetvd=null&vibid=26120001455433&type=464",
@@ -1459,15 +1459,15 @@ export const duma_2016_uik_463_region_61_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Волков Павел Николаевич": 43,
-      "Волощук Вячеслав Александрович": 2,
-      "Иванов Сергей Владимирович": 112,
-      "Котляров Анатолий Александрович": 37,
-      "Крылов Станислав Игоревич": 9,
-      "Мусиенко Александр Анатольевич": 8,
-      "Новиков Сергей Николаевич": 4,
-      "Тутова Лариса Николаевна": 1509,
-      "Фоменко Григорий Петрович": 98
+      "gas:candidate-vibid:4614045159596": 43,
+      "gas:candidate-vibid:4614045160769": 2,
+      "gas:candidate-vibid:4614045143478": 112,
+      "gas:candidate-vibid:4614045158891": 37,
+      "gas:candidate-vibid:4614045160315": 9,
+      "gas:candidate-vibid:4614045160268": 8,
+      "gas:candidate-vibid:4614045160434": 4,
+      "gas:candidate-vibid:4614045159562": 1509,
+      "gas:candidate-vibid:4614045159516": 98
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/rostov?action=show&root=1000198&tvd=26120001455433&vrn=100100067795849&region=61&global=&sub_region=61&prver=0&pronetvd=null&vibid=26120001455433&type=464",
@@ -1518,15 +1518,15 @@ export const duma_2016_uik_463_region_61_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Волков Павел Николаевич": 31,
-      "Волощук Вячеслав Александрович": 4,
-      "Иванов Сергей Владимирович": 191,
-      "Котляров Анатолий Александрович": 56,
-      "Крылов Станислав Игоревич": 7,
-      "Мусиенко Александр Анатольевич": 7,
-      "Новиков Сергей Николаевич": 10,
-      "Тутова Лариса Николаевна": 1371,
-      "Фоменко Григорий Петрович": 123
+      "gas:candidate-vibid:4614045159596": 31,
+      "gas:candidate-vibid:4614045160769": 4,
+      "gas:candidate-vibid:4614045143478": 191,
+      "gas:candidate-vibid:4614045158891": 56,
+      "gas:candidate-vibid:4614045160315": 7,
+      "gas:candidate-vibid:4614045160268": 7,
+      "gas:candidate-vibid:4614045160434": 10,
+      "gas:candidate-vibid:4614045159562": 1371,
+      "gas:candidate-vibid:4614045159516": 123
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/rostov?action=show&root=1000198&tvd=26120001455433&vrn=100100067795849&region=61&global=&sub_region=61&prver=0&pronetvd=null&vibid=26120001455433&type=464",
@@ -1577,15 +1577,15 @@ export const duma_2016_uik_463_region_61_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Волков Павел Николаевич": 48,
-      "Волощук Вячеслав Александрович": 10,
-      "Иванов Сергей Владимирович": 141,
-      "Котляров Анатолий Александрович": 60,
-      "Крылов Станислав Игоревич": 12,
-      "Мусиенко Александр Анатольевич": 20,
-      "Новиков Сергей Николаевич": 13,
-      "Тутова Лариса Николаевна": 617,
-      "Фоменко Григорий Петрович": 114
+      "gas:candidate-vibid:4614045159596": 48,
+      "gas:candidate-vibid:4614045160769": 10,
+      "gas:candidate-vibid:4614045143478": 141,
+      "gas:candidate-vibid:4614045158891": 60,
+      "gas:candidate-vibid:4614045160315": 12,
+      "gas:candidate-vibid:4614045160268": 20,
+      "gas:candidate-vibid:4614045160434": 13,
+      "gas:candidate-vibid:4614045159562": 617,
+      "gas:candidate-vibid:4614045159516": 114
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/rostov?action=show&root=1000198&tvd=26120001455433&vrn=100100067795849&region=61&global=&sub_region=61&prver=0&pronetvd=null&vibid=26120001455433&type=464",
@@ -1636,15 +1636,15 @@ export const duma_2016_uik_463_region_61_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Волков Павел Николаевич": 46,
-      "Волощук Вячеслав Александрович": 8,
-      "Иванов Сергей Владимирович": 135,
-      "Котляров Анатолий Александрович": 54,
-      "Крылов Станислав Игоревич": 8,
-      "Мусиенко Александр Анатольевич": 5,
-      "Новиков Сергей Николаевич": 7,
-      "Тутова Лариса Николаевна": 560,
-      "Фоменко Григорий Петрович": 155
+      "gas:candidate-vibid:4614045159596": 46,
+      "gas:candidate-vibid:4614045160769": 8,
+      "gas:candidate-vibid:4614045143478": 135,
+      "gas:candidate-vibid:4614045158891": 54,
+      "gas:candidate-vibid:4614045160315": 8,
+      "gas:candidate-vibid:4614045160268": 5,
+      "gas:candidate-vibid:4614045160434": 7,
+      "gas:candidate-vibid:4614045159562": 560,
+      "gas:candidate-vibid:4614045159516": 155
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/rostov?action=show&root=1000198&tvd=26120001455433&vrn=100100067795849&region=61&global=&sub_region=61&prver=0&pronetvd=null&vibid=26120001455433&type=464",
@@ -1695,15 +1695,15 @@ export const duma_2016_uik_463_region_61_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Волков Павел Николаевич": 21,
-      "Волощук Вячеслав Александрович": 5,
-      "Иванов Сергей Владимирович": 63,
-      "Котляров Анатолий Александрович": 29,
-      "Крылов Станислав Игоревич": 4,
-      "Мусиенко Александр Анатольевич": 13,
-      "Новиков Сергей Николаевич": 7,
-      "Тутова Лариса Николаевна": 1348,
-      "Фоменко Григорий Петрович": 118
+      "gas:candidate-vibid:4614045159596": 21,
+      "gas:candidate-vibid:4614045160769": 5,
+      "gas:candidate-vibid:4614045143478": 63,
+      "gas:candidate-vibid:4614045158891": 29,
+      "gas:candidate-vibid:4614045160315": 4,
+      "gas:candidate-vibid:4614045160268": 13,
+      "gas:candidate-vibid:4614045160434": 7,
+      "gas:candidate-vibid:4614045159562": 1348,
+      "gas:candidate-vibid:4614045159516": 118
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/rostov?action=show&root=1000198&tvd=26120001455433&vrn=100100067795849&region=61&global=&sub_region=61&prver=0&pronetvd=null&vibid=26120001455433&type=464",
@@ -1754,15 +1754,15 @@ export const duma_2016_uik_463_region_61_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Волков Павел Николаевич": 15,
-      "Волощук Вячеслав Александрович": 0,
-      "Иванов Сергей Владимирович": 39,
-      "Котляров Анатолий Александрович": 25,
-      "Крылов Станислав Игоревич": 7,
-      "Мусиенко Александр Анатольевич": 6,
-      "Новиков Сергей Николаевич": 7,
-      "Тутова Лариса Николаевна": 970,
-      "Фоменко Григорий Петрович": 74
+      "gas:candidate-vibid:4614045159596": 15,
+      "gas:candidate-vibid:4614045160769": 0,
+      "gas:candidate-vibid:4614045143478": 39,
+      "gas:candidate-vibid:4614045158891": 25,
+      "gas:candidate-vibid:4614045160315": 7,
+      "gas:candidate-vibid:4614045160268": 6,
+      "gas:candidate-vibid:4614045160434": 7,
+      "gas:candidate-vibid:4614045159562": 970,
+      "gas:candidate-vibid:4614045159516": 74
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/rostov?action=show&root=1000198&tvd=26120001455433&vrn=100100067795849&region=61&global=&sub_region=61&prver=0&pronetvd=null&vibid=26120001455433&type=464",
@@ -1813,15 +1813,15 @@ export const duma_2016_uik_463_region_61_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Волков Павел Николаевич": 23,
-      "Волощук Вячеслав Александрович": 7,
-      "Иванов Сергей Владимирович": 89,
-      "Котляров Анатолий Александрович": 40,
-      "Крылов Станислав Игоревич": 10,
-      "Мусиенко Александр Анатольевич": 8,
-      "Новиков Сергей Николаевич": 3,
-      "Тутова Лариса Николаевна": 516,
-      "Фоменко Григорий Петрович": 102
+      "gas:candidate-vibid:4614045159596": 23,
+      "gas:candidate-vibid:4614045160769": 7,
+      "gas:candidate-vibid:4614045143478": 89,
+      "gas:candidate-vibid:4614045158891": 40,
+      "gas:candidate-vibid:4614045160315": 10,
+      "gas:candidate-vibid:4614045160268": 8,
+      "gas:candidate-vibid:4614045160434": 3,
+      "gas:candidate-vibid:4614045159562": 516,
+      "gas:candidate-vibid:4614045159516": 102
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/rostov?action=show&root=1000198&tvd=26120001455433&vrn=100100067795849&region=61&global=&sub_region=61&prver=0&pronetvd=null&vibid=26120001455433&type=464",
@@ -1872,15 +1872,15 @@ export const duma_2016_uik_463_region_61_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Волков Павел Николаевич": 0,
-      "Волощук Вячеслав Александрович": 9,
-      "Иванов Сергей Владимирович": 242,
-      "Котляров Анатолий Александрович": 18,
-      "Крылов Станислав Игоревич": 8,
-      "Мусиенко Александр Анатольевич": 6,
-      "Новиков Сергей Николаевич": 5,
-      "Тутова Лариса Николаевна": 657,
-      "Фоменко Григорий Петрович": 163
+      "gas:candidate-vibid:4614045159596": 0,
+      "gas:candidate-vibid:4614045160769": 9,
+      "gas:candidate-vibid:4614045143478": 242,
+      "gas:candidate-vibid:4614045158891": 18,
+      "gas:candidate-vibid:4614045160315": 8,
+      "gas:candidate-vibid:4614045160268": 6,
+      "gas:candidate-vibid:4614045160434": 5,
+      "gas:candidate-vibid:4614045159562": 657,
+      "gas:candidate-vibid:4614045159516": 163
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/rostov?action=show&root=1000198&tvd=26120001455433&vrn=100100067795849&region=61&global=&sub_region=61&prver=0&pronetvd=null&vibid=26120001455433&type=464",
@@ -1931,15 +1931,15 @@ export const duma_2016_uik_463_region_61_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Волков Павел Николаевич": 44,
-      "Волощук Вячеслав Александрович": 4,
-      "Иванов Сергей Владимирович": 108,
-      "Котляров Анатолий Александрович": 48,
-      "Крылов Станислав Игоревич": 14,
-      "Мусиенко Александр Анатольевич": 8,
-      "Новиков Сергей Николаевич": 9,
-      "Тутова Лариса Николаевна": 1193,
-      "Фоменко Григорий Петрович": 94
+      "gas:candidate-vibid:4614045159596": 44,
+      "gas:candidate-vibid:4614045160769": 4,
+      "gas:candidate-vibid:4614045143478": 108,
+      "gas:candidate-vibid:4614045158891": 48,
+      "gas:candidate-vibid:4614045160315": 14,
+      "gas:candidate-vibid:4614045160268": 8,
+      "gas:candidate-vibid:4614045160434": 9,
+      "gas:candidate-vibid:4614045159562": 1193,
+      "gas:candidate-vibid:4614045159516": 94
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/rostov?action=show&root=1000198&tvd=26120001455433&vrn=100100067795849&region=61&global=&sub_region=61&prver=0&pronetvd=null&vibid=26120001455433&type=464",
@@ -1990,15 +1990,15 @@ export const duma_2016_uik_463_region_61_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Волков Павел Николаевич": 20,
-      "Волощук Вячеслав Александрович": 1,
-      "Иванов Сергей Владимирович": 108,
-      "Котляров Анатолий Александрович": 23,
-      "Крылов Станислав Игоревич": 12,
-      "Мусиенко Александр Анатольевич": 7,
-      "Новиков Сергей Николаевич": 2,
-      "Тутова Лариса Николаевна": 409,
-      "Фоменко Григорий Петрович": 105
+      "gas:candidate-vibid:4614045159596": 20,
+      "gas:candidate-vibid:4614045160769": 1,
+      "gas:candidate-vibid:4614045143478": 108,
+      "gas:candidate-vibid:4614045158891": 23,
+      "gas:candidate-vibid:4614045160315": 12,
+      "gas:candidate-vibid:4614045160268": 7,
+      "gas:candidate-vibid:4614045160434": 2,
+      "gas:candidate-vibid:4614045159562": 409,
+      "gas:candidate-vibid:4614045159516": 105
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/rostov?action=show&root=1000198&tvd=26120001455433&vrn=100100067795849&region=61&global=&sub_region=61&prver=0&pronetvd=null&vibid=26120001455433&type=464",
@@ -2049,15 +2049,15 @@ export const duma_2016_uik_463_region_61_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Волков Павел Николаевич": 242,
-      "Волощук Вячеслав Александрович": 12,
-      "Иванов Сергей Владимирович": 196,
-      "Котляров Анатолий Александрович": 30,
-      "Крылов Станислав Игоревич": 10,
-      "Мусиенко Александр Анатольевич": 25,
-      "Новиков Сергей Николаевич": 16,
-      "Тутова Лариса Николаевна": 1408,
-      "Фоменко Григорий Петрович": 42
+      "gas:candidate-vibid:4614045159596": 242,
+      "gas:candidate-vibid:4614045160769": 12,
+      "gas:candidate-vibid:4614045143478": 196,
+      "gas:candidate-vibid:4614045158891": 30,
+      "gas:candidate-vibid:4614045160315": 10,
+      "gas:candidate-vibid:4614045160268": 25,
+      "gas:candidate-vibid:4614045160434": 16,
+      "gas:candidate-vibid:4614045159562": 1408,
+      "gas:candidate-vibid:4614045159516": 42
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/rostov?action=show&root=1000198&tvd=26120001455433&vrn=100100067795849&region=61&global=&sub_region=61&prver=0&pronetvd=null&vibid=26120001455433&type=464",
@@ -2108,15 +2108,15 @@ export const duma_2016_uik_463_region_61_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Волков Павел Николаевич": 28,
-      "Волощук Вячеслав Александрович": 9,
-      "Иванов Сергей Владимирович": 107,
-      "Котляров Анатолий Александрович": 79,
-      "Крылов Станислав Игоревич": 11,
-      "Мусиенко Александр Анатольевич": 29,
-      "Новиков Сергей Николаевич": 12,
-      "Тутова Лариса Николаевна": 1162,
-      "Фоменко Григорий Петрович": 223
+      "gas:candidate-vibid:4614045159596": 28,
+      "gas:candidate-vibid:4614045160769": 9,
+      "gas:candidate-vibid:4614045143478": 107,
+      "gas:candidate-vibid:4614045158891": 79,
+      "gas:candidate-vibid:4614045160315": 11,
+      "gas:candidate-vibid:4614045160268": 29,
+      "gas:candidate-vibid:4614045160434": 12,
+      "gas:candidate-vibid:4614045159562": 1162,
+      "gas:candidate-vibid:4614045159516": 223
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/rostov?action=show&root=1000198&tvd=26120001455433&vrn=100100067795849&region=61&global=&sub_region=61&prver=0&pronetvd=null&vibid=26120001455433&type=464",
@@ -2167,15 +2167,15 @@ export const duma_2016_uik_463_region_61_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Волков Павел Николаевич": 87,
-      "Волощук Вячеслав Александрович": 17,
-      "Иванов Сергей Владимирович": 91,
-      "Котляров Анатолий Александрович": 11,
-      "Крылов Станислав Игоревич": 23,
-      "Мусиенко Александр Анатольевич": 14,
-      "Новиков Сергей Николаевич": 14,
-      "Тутова Лариса Николаевна": 1480,
-      "Фоменко Григорий Петрович": 113
+      "gas:candidate-vibid:4614045159596": 87,
+      "gas:candidate-vibid:4614045160769": 17,
+      "gas:candidate-vibid:4614045143478": 91,
+      "gas:candidate-vibid:4614045158891": 11,
+      "gas:candidate-vibid:4614045160315": 23,
+      "gas:candidate-vibid:4614045160268": 14,
+      "gas:candidate-vibid:4614045160434": 14,
+      "gas:candidate-vibid:4614045159562": 1480,
+      "gas:candidate-vibid:4614045159516": 113
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/rostov?action=show&root=1000198&tvd=26120001455433&vrn=100100067795849&region=61&global=&sub_region=61&prver=0&pronetvd=null&vibid=26120001455433&type=464",
@@ -2226,15 +2226,15 @@ export const duma_2016_uik_463_region_61_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Волков Павел Николаевич": 48,
-      "Волощук Вячеслав Александрович": 5,
-      "Иванов Сергей Владимирович": 145,
-      "Котляров Анатолий Александрович": 51,
-      "Крылов Станислав Игоревич": 5,
-      "Мусиенко Александр Анатольевич": 7,
-      "Новиков Сергей Николаевич": 5,
-      "Тутова Лариса Николаевна": 1229,
-      "Фоменко Григорий Петрович": 82
+      "gas:candidate-vibid:4614045159596": 48,
+      "gas:candidate-vibid:4614045160769": 5,
+      "gas:candidate-vibid:4614045143478": 145,
+      "gas:candidate-vibid:4614045158891": 51,
+      "gas:candidate-vibid:4614045160315": 5,
+      "gas:candidate-vibid:4614045160268": 7,
+      "gas:candidate-vibid:4614045160434": 5,
+      "gas:candidate-vibid:4614045159562": 1229,
+      "gas:candidate-vibid:4614045159516": 82
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/rostov?action=show&root=1000198&tvd=26120001455433&vrn=100100067795849&region=61&global=&sub_region=61&prver=0&pronetvd=null&vibid=26120001455433&type=464",
@@ -2285,15 +2285,15 @@ export const duma_2016_uik_463_region_61_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Волков Павел Николаевич": 17,
-      "Волощук Вячеслав Александрович": 4,
-      "Иванов Сергей Владимирович": 89,
-      "Котляров Анатолий Александрович": 104,
-      "Крылов Станислав Игоревич": 8,
-      "Мусиенко Александр Анатольевич": 3,
-      "Новиков Сергей Николаевич": 3,
-      "Тутова Лариса Николаевна": 1437,
-      "Фоменко Григорий Петрович": 298
+      "gas:candidate-vibid:4614045159596": 17,
+      "gas:candidate-vibid:4614045160769": 4,
+      "gas:candidate-vibid:4614045143478": 89,
+      "gas:candidate-vibid:4614045158891": 104,
+      "gas:candidate-vibid:4614045160315": 8,
+      "gas:candidate-vibid:4614045160268": 3,
+      "gas:candidate-vibid:4614045160434": 3,
+      "gas:candidate-vibid:4614045159562": 1437,
+      "gas:candidate-vibid:4614045159516": 298
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/rostov?action=show&root=1000198&tvd=26120001455433&vrn=100100067795849&region=61&global=&sub_region=61&prver=0&pronetvd=null&vibid=26120001455433&type=464",
@@ -2344,15 +2344,15 @@ export const duma_2016_uik_463_region_61_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Волков Павел Николаевич": 34,
-      "Волощук Вячеслав Александрович": 5,
-      "Иванов Сергей Владимирович": 91,
-      "Котляров Анатолий Александрович": 18,
-      "Крылов Станислав Игоревич": 4,
-      "Мусиенко Александр Анатольевич": 12,
-      "Новиков Сергей Николаевич": 6,
-      "Тутова Лариса Николаевна": 1141,
-      "Фоменко Григорий Петрович": 104
+      "gas:candidate-vibid:4614045159596": 34,
+      "gas:candidate-vibid:4614045160769": 5,
+      "gas:candidate-vibid:4614045143478": 91,
+      "gas:candidate-vibid:4614045158891": 18,
+      "gas:candidate-vibid:4614045160315": 4,
+      "gas:candidate-vibid:4614045160268": 12,
+      "gas:candidate-vibid:4614045160434": 6,
+      "gas:candidate-vibid:4614045159562": 1141,
+      "gas:candidate-vibid:4614045159516": 104
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/rostov?action=show&root=1000198&tvd=26120001455433&vrn=100100067795849&region=61&global=&sub_region=61&prver=0&pronetvd=null&vibid=26120001455433&type=464",
@@ -2403,15 +2403,15 @@ export const duma_2016_uik_463_region_61_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Волков Павел Николаевич": 32,
-      "Волощук Вячеслав Александрович": 0,
-      "Иванов Сергей Владимирович": 139,
-      "Котляров Анатолий Александрович": 30,
-      "Крылов Станислав Игоревич": 3,
-      "Мусиенко Александр Анатольевич": 6,
-      "Новиков Сергей Николаевич": 6,
-      "Тутова Лариса Николаевна": 1246,
-      "Фоменко Григорий Петрович": 80
+      "gas:candidate-vibid:4614045159596": 32,
+      "gas:candidate-vibid:4614045160769": 0,
+      "gas:candidate-vibid:4614045143478": 139,
+      "gas:candidate-vibid:4614045158891": 30,
+      "gas:candidate-vibid:4614045160315": 3,
+      "gas:candidate-vibid:4614045160268": 6,
+      "gas:candidate-vibid:4614045160434": 6,
+      "gas:candidate-vibid:4614045159562": 1246,
+      "gas:candidate-vibid:4614045159516": 80
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/rostov?action=show&root=1000198&tvd=26120001455433&vrn=100100067795849&region=61&global=&sub_region=61&prver=0&pronetvd=null&vibid=26120001455433&type=464",
@@ -2462,15 +2462,15 @@ export const duma_2016_uik_463_region_61_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Волков Павел Николаевич": 20,
-      "Волощук Вячеслав Александрович": 10,
-      "Иванов Сергей Владимирович": 50,
-      "Котляров Анатолий Александрович": 45,
-      "Крылов Станислав Игоревич": 15,
-      "Мусиенко Александр Анатольевич": 17,
-      "Новиков Сергей Николаевич": 15,
-      "Тутова Лариса Николаевна": 1956,
-      "Фоменко Григорий Петрович": 120
+      "gas:candidate-vibid:4614045159596": 20,
+      "gas:candidate-vibid:4614045160769": 10,
+      "gas:candidate-vibid:4614045143478": 50,
+      "gas:candidate-vibid:4614045158891": 45,
+      "gas:candidate-vibid:4614045160315": 15,
+      "gas:candidate-vibid:4614045160268": 17,
+      "gas:candidate-vibid:4614045160434": 15,
+      "gas:candidate-vibid:4614045159562": 1956,
+      "gas:candidate-vibid:4614045159516": 120
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/rostov?action=show&root=1000198&tvd=26120001455433&vrn=100100067795849&region=61&global=&sub_region=61&prver=0&pronetvd=null&vibid=26120001455433&type=464",
@@ -2521,15 +2521,15 @@ export const duma_2016_uik_463_region_61_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Волков Павел Николаевич": 9,
-      "Волощук Вячеслав Александрович": 7,
-      "Иванов Сергей Владимирович": 12,
-      "Котляров Анатолий Александрович": 12,
-      "Крылов Станислав Игоревич": 6,
-      "Мусиенко Александр Анатольевич": 9,
-      "Новиков Сергей Николаевич": 3,
-      "Тутова Лариса Николаевна": 194,
-      "Фоменко Григорий Петрович": 25
+      "gas:candidate-vibid:4614045159596": 9,
+      "gas:candidate-vibid:4614045160769": 7,
+      "gas:candidate-vibid:4614045143478": 12,
+      "gas:candidate-vibid:4614045158891": 12,
+      "gas:candidate-vibid:4614045160315": 6,
+      "gas:candidate-vibid:4614045160268": 9,
+      "gas:candidate-vibid:4614045160434": 3,
+      "gas:candidate-vibid:4614045159562": 194,
+      "gas:candidate-vibid:4614045159516": 25
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/rostov?action=show&root=1000198&tvd=26120001455433&vrn=100100067795849&region=61&global=&sub_region=61&prver=0&pronetvd=null&vibid=26120001455433&type=464",
@@ -2580,15 +2580,15 @@ export const duma_2016_uik_463_region_61_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Волков Павел Николаевич": 12,
-      "Волощук Вячеслав Александрович": 1,
-      "Иванов Сергей Владимирович": 46,
-      "Котляров Анатолий Александрович": 15,
-      "Крылов Станислав Игоревич": 4,
-      "Мусиенко Александр Анатольевич": 3,
-      "Новиков Сергей Николаевич": 1,
-      "Тутова Лариса Николаевна": 109,
-      "Фоменко Григорий Петрович": 19
+      "gas:candidate-vibid:4614045159596": 12,
+      "gas:candidate-vibid:4614045160769": 1,
+      "gas:candidate-vibid:4614045143478": 46,
+      "gas:candidate-vibid:4614045158891": 15,
+      "gas:candidate-vibid:4614045160315": 4,
+      "gas:candidate-vibid:4614045160268": 3,
+      "gas:candidate-vibid:4614045160434": 1,
+      "gas:candidate-vibid:4614045159562": 109,
+      "gas:candidate-vibid:4614045159516": 19
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/rostov?action=show&root=1000198&tvd=26120001455433&vrn=100100067795849&region=61&global=&sub_region=61&prver=0&pronetvd=null&vibid=26120001455433&type=464",
@@ -2639,15 +2639,15 @@ export const duma_2016_uik_463_region_61_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Волков Павел Николаевич": 9,
-      "Волощук Вячеслав Александрович": 0,
-      "Иванов Сергей Владимирович": 41,
-      "Котляров Анатолий Александрович": 10,
-      "Крылов Станислав Игоревич": 0,
-      "Мусиенко Александр Анатольевич": 0,
-      "Новиков Сергей Николаевич": 0,
-      "Тутова Лариса Николаевна": 1240,
-      "Фоменко Григорий Петрович": 35
+      "gas:candidate-vibid:4614045159596": 9,
+      "gas:candidate-vibid:4614045160769": 0,
+      "gas:candidate-vibid:4614045143478": 41,
+      "gas:candidate-vibid:4614045158891": 10,
+      "gas:candidate-vibid:4614045160315": 0,
+      "gas:candidate-vibid:4614045160268": 0,
+      "gas:candidate-vibid:4614045160434": 0,
+      "gas:candidate-vibid:4614045159562": 1240,
+      "gas:candidate-vibid:4614045159516": 35
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/rostov?action=show&root=1000198&tvd=26120001455433&vrn=100100067795849&region=61&global=&sub_region=61&prver=0&pronetvd=null&vibid=26120001455433&type=464",
@@ -2698,15 +2698,15 @@ export const duma_2016_uik_463_region_61_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Волков Павел Николаевич": 4,
-      "Волощук Вячеслав Александрович": 0,
-      "Иванов Сергей Владимирович": 20,
-      "Котляров Анатолий Александрович": 5,
-      "Крылов Станислав Игоревич": 0,
-      "Мусиенко Александр Анатольевич": 0,
-      "Новиков Сергей Николаевич": 3,
-      "Тутова Лариса Николаевна": 228,
-      "Фоменко Григорий Петрович": 10
+      "gas:candidate-vibid:4614045159596": 4,
+      "gas:candidate-vibid:4614045160769": 0,
+      "gas:candidate-vibid:4614045143478": 20,
+      "gas:candidate-vibid:4614045158891": 5,
+      "gas:candidate-vibid:4614045160315": 0,
+      "gas:candidate-vibid:4614045160268": 0,
+      "gas:candidate-vibid:4614045160434": 3,
+      "gas:candidate-vibid:4614045159562": 228,
+      "gas:candidate-vibid:4614045159516": 10
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/rostov?action=show&root=1000198&tvd=26120001455433&vrn=100100067795849&region=61&global=&sub_region=61&prver=0&pronetvd=null&vibid=26120001455433&type=464",
@@ -2757,15 +2757,15 @@ export const duma_2016_uik_463_region_61_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Волков Павел Николаевич": 3,
-      "Волощук Вячеслав Александрович": 3,
-      "Иванов Сергей Владимирович": 14,
-      "Котляров Анатолий Александрович": 4,
-      "Крылов Станислав Игоревич": 1,
-      "Мусиенко Александр Анатольевич": 2,
-      "Новиков Сергей Николаевич": 1,
-      "Тутова Лариса Николаевна": 174,
-      "Фоменко Григорий Петрович": 5
+      "gas:candidate-vibid:4614045159596": 3,
+      "gas:candidate-vibid:4614045160769": 3,
+      "gas:candidate-vibid:4614045143478": 14,
+      "gas:candidate-vibid:4614045158891": 4,
+      "gas:candidate-vibid:4614045160315": 1,
+      "gas:candidate-vibid:4614045160268": 2,
+      "gas:candidate-vibid:4614045160434": 1,
+      "gas:candidate-vibid:4614045159562": 174,
+      "gas:candidate-vibid:4614045159516": 5
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/rostov?action=show&root=1000198&tvd=26120001455433&vrn=100100067795849&region=61&global=&sub_region=61&prver=0&pronetvd=null&vibid=26120001455433&type=464",
@@ -2816,15 +2816,15 @@ export const duma_2016_uik_463_region_61_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Волков Павел Николаевич": 3,
-      "Волощук Вячеслав Александрович": 4,
-      "Иванов Сергей Владимирович": 15,
-      "Котляров Анатолий Александрович": 0,
-      "Крылов Станислав Игоревич": 3,
-      "Мусиенко Александр Анатольевич": 2,
-      "Новиков Сергей Николаевич": 2,
-      "Тутова Лариса Николаевна": 136,
-      "Фоменко Григорий Петрович": 4
+      "gas:candidate-vibid:4614045159596": 3,
+      "gas:candidate-vibid:4614045160769": 4,
+      "gas:candidate-vibid:4614045143478": 15,
+      "gas:candidate-vibid:4614045158891": 0,
+      "gas:candidate-vibid:4614045160315": 3,
+      "gas:candidate-vibid:4614045160268": 2,
+      "gas:candidate-vibid:4614045160434": 2,
+      "gas:candidate-vibid:4614045159562": 136,
+      "gas:candidate-vibid:4614045159516": 4
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/rostov?action=show&root=1000198&tvd=26120001455433&vrn=100100067795849&region=61&global=&sub_region=61&prver=0&pronetvd=null&vibid=26120001455433&type=464",
@@ -2875,15 +2875,15 @@ export const duma_2016_uik_463_region_61_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Волков Павел Николаевич": 6,
-      "Волощук Вячеслав Александрович": 15,
-      "Иванов Сергей Владимирович": 17,
-      "Котляров Анатолий Александрович": 20,
-      "Крылов Станислав Игоревич": 23,
-      "Мусиенко Александр Анатольевич": 6,
-      "Новиков Сергей Николаевич": 14,
-      "Тутова Лариса Николаевна": 576,
-      "Фоменко Григорий Петрович": 17
+      "gas:candidate-vibid:4614045159596": 6,
+      "gas:candidate-vibid:4614045160769": 15,
+      "gas:candidate-vibid:4614045143478": 17,
+      "gas:candidate-vibid:4614045158891": 20,
+      "gas:candidate-vibid:4614045160315": 23,
+      "gas:candidate-vibid:4614045160268": 6,
+      "gas:candidate-vibid:4614045160434": 14,
+      "gas:candidate-vibid:4614045159562": 576,
+      "gas:candidate-vibid:4614045159516": 17
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/rostov?action=show&root=1000198&tvd=26120001455433&vrn=100100067795849&region=61&global=&sub_region=61&prver=0&pronetvd=null&vibid=26120001455433&type=464",
@@ -2934,15 +2934,15 @@ export const duma_2016_uik_463_region_61_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Волков Павел Николаевич": 34,
-      "Волощук Вячеслав Александрович": 12,
-      "Иванов Сергей Владимирович": 87,
-      "Котляров Анатолий Александрович": 46,
-      "Крылов Станислав Игоревич": 12,
-      "Мусиенко Александр Анатольевич": 9,
-      "Новиков Сергей Николаевич": 11,
-      "Тутова Лариса Николаевна": 844,
-      "Фоменко Григорий Петрович": 129
+      "gas:candidate-vibid:4614045159596": 34,
+      "gas:candidate-vibid:4614045160769": 12,
+      "gas:candidate-vibid:4614045143478": 87,
+      "gas:candidate-vibid:4614045158891": 46,
+      "gas:candidate-vibid:4614045160315": 12,
+      "gas:candidate-vibid:4614045160268": 9,
+      "gas:candidate-vibid:4614045160434": 11,
+      "gas:candidate-vibid:4614045159562": 844,
+      "gas:candidate-vibid:4614045159516": 129
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/rostov?action=show&root=1000198&tvd=26120001455433&vrn=100100067795849&region=61&global=&sub_region=61&prver=0&pronetvd=null&vibid=26120001455433&type=464",
@@ -2993,15 +2993,15 @@ export const duma_2016_uik_463_region_61_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Волков Павел Николаевич": 35,
-      "Волощук Вячеслав Александрович": 2,
-      "Иванов Сергей Владимирович": 84,
-      "Котляров Анатолий Александрович": 36,
-      "Крылов Станислав Игоревич": 11,
-      "Мусиенко Александр Анатольевич": 6,
-      "Новиков Сергей Николаевич": 8,
-      "Тутова Лариса Николаевна": 226,
-      "Фоменко Григорий Петрович": 94
+      "gas:candidate-vibid:4614045159596": 35,
+      "gas:candidate-vibid:4614045160769": 2,
+      "gas:candidate-vibid:4614045143478": 84,
+      "gas:candidate-vibid:4614045158891": 36,
+      "gas:candidate-vibid:4614045160315": 11,
+      "gas:candidate-vibid:4614045160268": 6,
+      "gas:candidate-vibid:4614045160434": 8,
+      "gas:candidate-vibid:4614045159562": 226,
+      "gas:candidate-vibid:4614045159516": 94
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/rostov?action=show&root=1000198&tvd=26120001455433&vrn=100100067795849&region=61&global=&sub_region=61&prver=0&pronetvd=null&vibid=26120001455433&type=464",
@@ -3052,15 +3052,15 @@ export const duma_2016_uik_463_region_61_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Волков Павел Николаевич": 23,
-      "Волощук Вячеслав Александрович": 6,
-      "Иванов Сергей Владимирович": 46,
-      "Котляров Анатолий Александрович": 23,
-      "Крылов Станислав Игоревич": 6,
-      "Мусиенко Александр Анатольевич": 7,
-      "Новиков Сергей Николаевич": 1,
-      "Тутова Лариса Николаевна": 598,
-      "Фоменко Григорий Петрович": 55
+      "gas:candidate-vibid:4614045159596": 23,
+      "gas:candidate-vibid:4614045160769": 6,
+      "gas:candidate-vibid:4614045143478": 46,
+      "gas:candidate-vibid:4614045158891": 23,
+      "gas:candidate-vibid:4614045160315": 6,
+      "gas:candidate-vibid:4614045160268": 7,
+      "gas:candidate-vibid:4614045160434": 1,
+      "gas:candidate-vibid:4614045159562": 598,
+      "gas:candidate-vibid:4614045159516": 55
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/rostov?action=show&root=1000198&tvd=26120001455433&vrn=100100067795849&region=61&global=&sub_region=61&prver=0&pronetvd=null&vibid=26120001455433&type=464",
@@ -3111,15 +3111,15 @@ export const duma_2016_uik_463_region_61_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Волков Павел Николаевич": 57,
-      "Волощук Вячеслав Александрович": 6,
-      "Иванов Сергей Владимирович": 105,
-      "Котляров Анатолий Александрович": 53,
-      "Крылов Станислав Игоревич": 7,
-      "Мусиенко Александр Анатольевич": 5,
-      "Новиков Сергей Николаевич": 4,
-      "Тутова Лариса Николаевна": 1310,
-      "Фоменко Григорий Петрович": 121
+      "gas:candidate-vibid:4614045159596": 57,
+      "gas:candidate-vibid:4614045160769": 6,
+      "gas:candidate-vibid:4614045143478": 105,
+      "gas:candidate-vibid:4614045158891": 53,
+      "gas:candidate-vibid:4614045160315": 7,
+      "gas:candidate-vibid:4614045160268": 5,
+      "gas:candidate-vibid:4614045160434": 4,
+      "gas:candidate-vibid:4614045159562": 1310,
+      "gas:candidate-vibid:4614045159516": 121
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/rostov?action=show&root=1000198&tvd=26120001455433&vrn=100100067795849&region=61&global=&sub_region=61&prver=0&pronetvd=null&vibid=26120001455433&type=464",
@@ -3170,15 +3170,15 @@ export const duma_2016_uik_463_region_61_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Волков Павел Николаевич": 14,
-      "Волощук Вячеслав Александрович": 2,
-      "Иванов Сергей Владимирович": 27,
-      "Котляров Анатолий Александрович": 13,
-      "Крылов Станислав Игоревич": 3,
-      "Мусиенко Александр Анатольевич": 3,
-      "Новиков Сергей Николаевич": 1,
-      "Тутова Лариса Николаевна": 180,
-      "Фоменко Григорий Петрович": 29
+      "gas:candidate-vibid:4614045159596": 14,
+      "gas:candidate-vibid:4614045160769": 2,
+      "gas:candidate-vibid:4614045143478": 27,
+      "gas:candidate-vibid:4614045158891": 13,
+      "gas:candidate-vibid:4614045160315": 3,
+      "gas:candidate-vibid:4614045160268": 3,
+      "gas:candidate-vibid:4614045160434": 1,
+      "gas:candidate-vibid:4614045159562": 180,
+      "gas:candidate-vibid:4614045159516": 29
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/rostov?action=show&root=1000198&tvd=26120001455433&vrn=100100067795849&region=61&global=&sub_region=61&prver=0&pronetvd=null&vibid=26120001455433&type=464",
@@ -3229,15 +3229,15 @@ export const duma_2016_uik_463_region_61_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Волков Павел Николаевич": 27,
-      "Волощук Вячеслав Александрович": 5,
-      "Иванов Сергей Владимирович": 64,
-      "Котляров Анатолий Александрович": 21,
-      "Крылов Станислав Игоревич": 10,
-      "Мусиенко Александр Анатольевич": 4,
-      "Новиков Сергей Николаевич": 9,
-      "Тутова Лариса Николаевна": 231,
-      "Фоменко Григорий Петрович": 33
+      "gas:candidate-vibid:4614045159596": 27,
+      "gas:candidate-vibid:4614045160769": 5,
+      "gas:candidate-vibid:4614045143478": 64,
+      "gas:candidate-vibid:4614045158891": 21,
+      "gas:candidate-vibid:4614045160315": 10,
+      "gas:candidate-vibid:4614045160268": 4,
+      "gas:candidate-vibid:4614045160434": 9,
+      "gas:candidate-vibid:4614045159562": 231,
+      "gas:candidate-vibid:4614045159516": 33
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/rostov?action=show&root=1000198&tvd=26120001455433&vrn=100100067795849&region=61&global=&sub_region=61&prver=0&pronetvd=null&vibid=26120001455433&type=464",
@@ -3288,15 +3288,15 @@ export const duma_2016_uik_463_region_61_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Волков Павел Николаевич": 26,
-      "Волощук Вячеслав Александрович": 12,
-      "Иванов Сергей Владимирович": 32,
-      "Котляров Анатолий Александрович": 15,
-      "Крылов Станислав Игоревич": 4,
-      "Мусиенко Александр Анатольевич": 4,
-      "Новиков Сергей Николаевич": 1,
-      "Тутова Лариса Николаевна": 150,
-      "Фоменко Григорий Петрович": 25
+      "gas:candidate-vibid:4614045159596": 26,
+      "gas:candidate-vibid:4614045160769": 12,
+      "gas:candidate-vibid:4614045143478": 32,
+      "gas:candidate-vibid:4614045158891": 15,
+      "gas:candidate-vibid:4614045160315": 4,
+      "gas:candidate-vibid:4614045160268": 4,
+      "gas:candidate-vibid:4614045160434": 1,
+      "gas:candidate-vibid:4614045159562": 150,
+      "gas:candidate-vibid:4614045159516": 25
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/rostov?action=show&root=1000198&tvd=26120001455433&vrn=100100067795849&region=61&global=&sub_region=61&prver=0&pronetvd=null&vibid=26120001455433&type=464",
@@ -3347,15 +3347,15 @@ export const duma_2016_uik_463_region_61_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Волков Павел Николаевич": 11,
-      "Волощук Вячеслав Александрович": 4,
-      "Иванов Сергей Владимирович": 37,
-      "Котляров Анатолий Александрович": 9,
-      "Крылов Станислав Игоревич": 5,
-      "Мусиенко Александр Анатольевич": 0,
-      "Новиков Сергей Николаевич": 1,
-      "Тутова Лариса Николаевна": 404,
-      "Фоменко Григорий Петрович": 29
+      "gas:candidate-vibid:4614045159596": 11,
+      "gas:candidate-vibid:4614045160769": 4,
+      "gas:candidate-vibid:4614045143478": 37,
+      "gas:candidate-vibid:4614045158891": 9,
+      "gas:candidate-vibid:4614045160315": 5,
+      "gas:candidate-vibid:4614045160268": 0,
+      "gas:candidate-vibid:4614045160434": 1,
+      "gas:candidate-vibid:4614045159562": 404,
+      "gas:candidate-vibid:4614045159516": 29
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/rostov?action=show&root=1000198&tvd=26120001455433&vrn=100100067795849&region=61&global=&sub_region=61&prver=0&pronetvd=null&vibid=26120001455433&type=464",
@@ -3406,15 +3406,15 @@ export const duma_2016_uik_463_region_61_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Волков Павел Николаевич": 28,
-      "Волощук Вячеслав Александрович": 3,
-      "Иванов Сергей Владимирович": 76,
-      "Котляров Анатолий Александрович": 40,
-      "Крылов Станислав Игоревич": 5,
-      "Мусиенко Александр Анатольевич": 9,
-      "Новиков Сергей Николаевич": 5,
-      "Тутова Лариса Николаевна": 895,
-      "Фоменко Григорий Петрович": 99
+      "gas:candidate-vibid:4614045159596": 28,
+      "gas:candidate-vibid:4614045160769": 3,
+      "gas:candidate-vibid:4614045143478": 76,
+      "gas:candidate-vibid:4614045158891": 40,
+      "gas:candidate-vibid:4614045160315": 5,
+      "gas:candidate-vibid:4614045160268": 9,
+      "gas:candidate-vibid:4614045160434": 5,
+      "gas:candidate-vibid:4614045159562": 895,
+      "gas:candidate-vibid:4614045159516": 99
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/rostov?action=show&root=1000198&tvd=26120001455433&vrn=100100067795849&region=61&global=&sub_region=61&prver=0&pronetvd=null&vibid=26120001455433&type=464",
@@ -3465,15 +3465,15 @@ export const duma_2016_uik_463_region_61_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Волков Павел Николаевич": 14,
-      "Волощук Вячеслав Александрович": 5,
-      "Иванов Сергей Владимирович": 31,
-      "Котляров Анатолий Александрович": 9,
-      "Крылов Станислав Игоревич": 4,
-      "Мусиенко Александр Анатольевич": 5,
-      "Новиков Сергей Николаевич": 4,
-      "Тутова Лариса Николаевна": 713,
-      "Фоменко Григорий Петрович": 38
+      "gas:candidate-vibid:4614045159596": 14,
+      "gas:candidate-vibid:4614045160769": 5,
+      "gas:candidate-vibid:4614045143478": 31,
+      "gas:candidate-vibid:4614045158891": 9,
+      "gas:candidate-vibid:4614045160315": 4,
+      "gas:candidate-vibid:4614045160268": 5,
+      "gas:candidate-vibid:4614045160434": 4,
+      "gas:candidate-vibid:4614045159562": 713,
+      "gas:candidate-vibid:4614045159516": 38
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/rostov?action=show&root=1000198&tvd=26120001455433&vrn=100100067795849&region=61&global=&sub_region=61&prver=0&pronetvd=null&vibid=26120001455433&type=464",
@@ -3524,15 +3524,15 @@ export const duma_2016_uik_463_region_61_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Волков Павел Николаевич": 3,
-      "Волощук Вячеслав Александрович": 2,
-      "Иванов Сергей Владимирович": 7,
-      "Котляров Анатолий Александрович": 8,
-      "Крылов Станислав Игоревич": 2,
-      "Мусиенко Александр Анатольевич": 0,
-      "Новиков Сергей Николаевич": 1,
-      "Тутова Лариса Николаевна": 171,
-      "Фоменко Григорий Петрович": 6
+      "gas:candidate-vibid:4614045159596": 3,
+      "gas:candidate-vibid:4614045160769": 2,
+      "gas:candidate-vibid:4614045143478": 7,
+      "gas:candidate-vibid:4614045158891": 8,
+      "gas:candidate-vibid:4614045160315": 2,
+      "gas:candidate-vibid:4614045160268": 0,
+      "gas:candidate-vibid:4614045160434": 1,
+      "gas:candidate-vibid:4614045159562": 171,
+      "gas:candidate-vibid:4614045159516": 6
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/rostov?action=show&root=1000198&tvd=26120001455433&vrn=100100067795849&region=61&global=&sub_region=61&prver=0&pronetvd=null&vibid=26120001455433&type=464",
@@ -3583,15 +3583,15 @@ export const duma_2016_uik_463_region_61_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Волков Павел Николаевич": 0,
-      "Волощук Вячеслав Александрович": 0,
-      "Иванов Сергей Владимирович": 53,
-      "Котляров Анатолий Александрович": 0,
-      "Крылов Станислав Игоревич": 0,
-      "Мусиенко Александр Анатольевич": 0,
-      "Новиков Сергей Николаевич": 0,
-      "Тутова Лариса Николаевна": 834,
-      "Фоменко Григорий Петрович": 358
+      "gas:candidate-vibid:4614045159596": 0,
+      "gas:candidate-vibid:4614045160769": 0,
+      "gas:candidate-vibid:4614045143478": 53,
+      "gas:candidate-vibid:4614045158891": 0,
+      "gas:candidate-vibid:4614045160315": 0,
+      "gas:candidate-vibid:4614045160268": 0,
+      "gas:candidate-vibid:4614045160434": 0,
+      "gas:candidate-vibid:4614045159562": 834,
+      "gas:candidate-vibid:4614045159516": 358
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/rostov?action=show&root=1000198&tvd=26120001455433&vrn=100100067795849&region=61&global=&sub_region=61&prver=0&pronetvd=null&vibid=26120001455433&type=464",
@@ -3642,15 +3642,15 @@ export const duma_2016_uik_463_region_61_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Волков Павел Николаевич": 14,
-      "Волощук Вячеслав Александрович": 4,
-      "Иванов Сергей Владимирович": 54,
-      "Котляров Анатолий Александрович": 15,
-      "Крылов Станислав Игоревич": 5,
-      "Мусиенко Александр Анатольевич": 3,
-      "Новиков Сергей Николаевич": 2,
-      "Тутова Лариса Николаевна": 612,
-      "Фоменко Григорий Петрович": 36
+      "gas:candidate-vibid:4614045159596": 14,
+      "gas:candidate-vibid:4614045160769": 4,
+      "gas:candidate-vibid:4614045143478": 54,
+      "gas:candidate-vibid:4614045158891": 15,
+      "gas:candidate-vibid:4614045160315": 5,
+      "gas:candidate-vibid:4614045160268": 3,
+      "gas:candidate-vibid:4614045160434": 2,
+      "gas:candidate-vibid:4614045159562": 612,
+      "gas:candidate-vibid:4614045159516": 36
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/rostov?action=show&root=1000198&tvd=26120001455433&vrn=100100067795849&region=61&global=&sub_region=61&prver=0&pronetvd=null&vibid=26120001455433&type=464",
@@ -3701,15 +3701,15 @@ export const duma_2016_uik_463_region_61_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Волков Павел Николаевич": 29,
-      "Волощук Вячеслав Александрович": 2,
-      "Иванов Сергей Владимирович": 43,
-      "Котляров Анатолий Александрович": 34,
-      "Крылов Станислав Игоревич": 5,
-      "Мусиенко Александр Анатольевич": 7,
-      "Новиков Сергей Николаевич": 4,
-      "Тутова Лариса Николаевна": 1111,
-      "Фоменко Григорий Петрович": 76
+      "gas:candidate-vibid:4614045159596": 29,
+      "gas:candidate-vibid:4614045160769": 2,
+      "gas:candidate-vibid:4614045143478": 43,
+      "gas:candidate-vibid:4614045158891": 34,
+      "gas:candidate-vibid:4614045160315": 5,
+      "gas:candidate-vibid:4614045160268": 7,
+      "gas:candidate-vibid:4614045160434": 4,
+      "gas:candidate-vibid:4614045159562": 1111,
+      "gas:candidate-vibid:4614045159516": 76
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/rostov?action=show&root=1000198&tvd=26120001455433&vrn=100100067795849&region=61&global=&sub_region=61&prver=0&pronetvd=null&vibid=26120001455433&type=464",
@@ -3760,15 +3760,15 @@ export const duma_2016_uik_463_region_61_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Волков Павел Николаевич": 8,
-      "Волощук Вячеслав Александрович": 2,
-      "Иванов Сергей Владимирович": 4,
-      "Котляров Анатолий Александрович": 14,
-      "Крылов Станислав Игоревич": 4,
-      "Мусиенко Александр Анатольевич": 2,
-      "Новиков Сергей Николаевич": 2,
-      "Тутова Лариса Николаевна": 349,
-      "Фоменко Григорий Петрович": 15
+      "gas:candidate-vibid:4614045159596": 8,
+      "gas:candidate-vibid:4614045160769": 2,
+      "gas:candidate-vibid:4614045143478": 4,
+      "gas:candidate-vibid:4614045158891": 14,
+      "gas:candidate-vibid:4614045160315": 4,
+      "gas:candidate-vibid:4614045160268": 2,
+      "gas:candidate-vibid:4614045160434": 2,
+      "gas:candidate-vibid:4614045159562": 349,
+      "gas:candidate-vibid:4614045159516": 15
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/rostov?action=show&root=1000198&tvd=26120001455433&vrn=100100067795849&region=61&global=&sub_region=61&prver=0&pronetvd=null&vibid=26120001455433&type=464",
@@ -3819,15 +3819,15 @@ export const duma_2016_uik_463_region_61_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Волков Павел Николаевич": 10,
-      "Волощук Вячеслав Александрович": 2,
-      "Иванов Сергей Владимирович": 64,
-      "Котляров Анатолий Александрович": 21,
-      "Крылов Станислав Игоревич": 4,
-      "Мусиенко Александр Анатольевич": 7,
-      "Новиков Сергей Николаевич": 7,
-      "Тутова Лариса Николаевна": 485,
-      "Фоменко Григорий Петрович": 39
+      "gas:candidate-vibid:4614045159596": 10,
+      "gas:candidate-vibid:4614045160769": 2,
+      "gas:candidate-vibid:4614045143478": 64,
+      "gas:candidate-vibid:4614045158891": 21,
+      "gas:candidate-vibid:4614045160315": 4,
+      "gas:candidate-vibid:4614045160268": 7,
+      "gas:candidate-vibid:4614045160434": 7,
+      "gas:candidate-vibid:4614045159562": 485,
+      "gas:candidate-vibid:4614045159516": 39
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/rostov?action=show&root=1000198&tvd=26120001455433&vrn=100100067795849&region=61&global=&sub_region=61&prver=0&pronetvd=null&vibid=26120001455433&type=464",
@@ -3878,15 +3878,15 @@ export const duma_2016_uik_463_region_61_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Волков Павел Николаевич": 6,
-      "Волощук Вячеслав Александрович": 0,
-      "Иванов Сергей Владимирович": 22,
-      "Котляров Анатолий Александрович": 7,
-      "Крылов Станислав Игоревич": 2,
-      "Мусиенко Александр Анатольевич": 4,
-      "Новиков Сергей Николаевич": 6,
-      "Тутова Лариса Николаевна": 362,
-      "Фоменко Григорий Петрович": 3
+      "gas:candidate-vibid:4614045159596": 6,
+      "gas:candidate-vibid:4614045160769": 0,
+      "gas:candidate-vibid:4614045143478": 22,
+      "gas:candidate-vibid:4614045158891": 7,
+      "gas:candidate-vibid:4614045160315": 2,
+      "gas:candidate-vibid:4614045160268": 4,
+      "gas:candidate-vibid:4614045160434": 6,
+      "gas:candidate-vibid:4614045159562": 362,
+      "gas:candidate-vibid:4614045159516": 3
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/rostov?action=show&root=1000198&tvd=26120001455433&vrn=100100067795849&region=61&global=&sub_region=61&prver=0&pronetvd=null&vibid=26120001455433&type=464",
@@ -3937,15 +3937,15 @@ export const duma_2016_uik_463_region_61_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Волков Павел Николаевич": 2,
-      "Волощук Вячеслав Александрович": 3,
-      "Иванов Сергей Владимирович": 7,
-      "Котляров Анатолий Александрович": 4,
-      "Крылов Станислав Игоревич": 6,
-      "Мусиенко Александр Анатольевич": 3,
-      "Новиков Сергей Николаевич": 2,
-      "Тутова Лариса Николаевна": 104,
-      "Фоменко Григорий Петрович": 0
+      "gas:candidate-vibid:4614045159596": 2,
+      "gas:candidate-vibid:4614045160769": 3,
+      "gas:candidate-vibid:4614045143478": 7,
+      "gas:candidate-vibid:4614045158891": 4,
+      "gas:candidate-vibid:4614045160315": 6,
+      "gas:candidate-vibid:4614045160268": 3,
+      "gas:candidate-vibid:4614045160434": 2,
+      "gas:candidate-vibid:4614045159562": 104,
+      "gas:candidate-vibid:4614045159516": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/rostov?action=show&root=1000198&tvd=26120001455433&vrn=100100067795849&region=61&global=&sub_region=61&prver=0&pronetvd=null&vibid=26120001455433&type=464",
@@ -3996,15 +3996,15 @@ export const duma_2016_uik_463_region_61_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Волков Павел Николаевич": 13,
-      "Волощук Вячеслав Александрович": 3,
-      "Иванов Сергей Владимирович": 80,
-      "Котляров Анатолий Александрович": 18,
-      "Крылов Станислав Игоревич": 9,
-      "Мусиенко Александр Анатольевич": 3,
-      "Новиков Сергей Николаевич": 7,
-      "Тутова Лариса Николаевна": 599,
-      "Фоменко Григорий Петрович": 14
+      "gas:candidate-vibid:4614045159596": 13,
+      "gas:candidate-vibid:4614045160769": 3,
+      "gas:candidate-vibid:4614045143478": 80,
+      "gas:candidate-vibid:4614045158891": 18,
+      "gas:candidate-vibid:4614045160315": 9,
+      "gas:candidate-vibid:4614045160268": 3,
+      "gas:candidate-vibid:4614045160434": 7,
+      "gas:candidate-vibid:4614045159562": 599,
+      "gas:candidate-vibid:4614045159516": 14
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/rostov?action=show&root=1000198&tvd=26120001455433&vrn=100100067795849&region=61&global=&sub_region=61&prver=0&pronetvd=null&vibid=26120001455433&type=464",
@@ -4055,15 +4055,15 @@ export const duma_2016_uik_463_region_61_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Волков Павел Николаевич": 22,
-      "Волощук Вячеслав Александрович": 6,
-      "Иванов Сергей Владимирович": 25,
-      "Котляров Анатолий Александрович": 12,
-      "Крылов Станислав Игоревич": 4,
-      "Мусиенко Александр Анатольевич": 0,
-      "Новиков Сергей Николаевич": 6,
-      "Тутова Лариса Николаевна": 191,
-      "Фоменко Григорий Петрович": 49
+      "gas:candidate-vibid:4614045159596": 22,
+      "gas:candidate-vibid:4614045160769": 6,
+      "gas:candidate-vibid:4614045143478": 25,
+      "gas:candidate-vibid:4614045158891": 12,
+      "gas:candidate-vibid:4614045160315": 4,
+      "gas:candidate-vibid:4614045160268": 0,
+      "gas:candidate-vibid:4614045160434": 6,
+      "gas:candidate-vibid:4614045159562": 191,
+      "gas:candidate-vibid:4614045159516": 49
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/rostov?action=show&root=1000198&tvd=26120001455433&vrn=100100067795849&region=61&global=&sub_region=61&prver=0&pronetvd=null&vibid=26120001455433&type=464",
@@ -4114,15 +4114,15 @@ export const duma_2016_uik_463_region_61_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Волков Павел Николаевич": 12,
-      "Волощук Вячеслав Александрович": 3,
-      "Иванов Сергей Владимирович": 5,
-      "Котляров Анатолий Александрович": 11,
-      "Крылов Станислав Игоревич": 2,
-      "Мусиенко Александр Анатольевич": 4,
-      "Новиков Сергей Николаевич": 2,
-      "Тутова Лариса Николаевна": 277,
-      "Фоменко Григорий Петрович": 74
+      "gas:candidate-vibid:4614045159596": 12,
+      "gas:candidate-vibid:4614045160769": 3,
+      "gas:candidate-vibid:4614045143478": 5,
+      "gas:candidate-vibid:4614045158891": 11,
+      "gas:candidate-vibid:4614045160315": 2,
+      "gas:candidate-vibid:4614045160268": 4,
+      "gas:candidate-vibid:4614045160434": 2,
+      "gas:candidate-vibid:4614045159562": 277,
+      "gas:candidate-vibid:4614045159516": 74
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/rostov?action=show&root=1000198&tvd=26120001455433&vrn=100100067795849&region=61&global=&sub_region=61&prver=0&pronetvd=null&vibid=26120001455433&type=464",
@@ -4173,15 +4173,15 @@ export const duma_2016_uik_463_region_61_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Волков Павел Николаевич": 22,
-      "Волощук Вячеслав Александрович": 3,
-      "Иванов Сергей Владимирович": 59,
-      "Котляров Анатолий Александрович": 30,
-      "Крылов Станислав Игоревич": 3,
-      "Мусиенко Александр Анатольевич": 1,
-      "Новиков Сергей Николаевич": 3,
-      "Тутова Лариса Николаевна": 713,
-      "Фоменко Григорий Петрович": 143
+      "gas:candidate-vibid:4614045159596": 22,
+      "gas:candidate-vibid:4614045160769": 3,
+      "gas:candidate-vibid:4614045143478": 59,
+      "gas:candidate-vibid:4614045158891": 30,
+      "gas:candidate-vibid:4614045160315": 3,
+      "gas:candidate-vibid:4614045160268": 1,
+      "gas:candidate-vibid:4614045160434": 3,
+      "gas:candidate-vibid:4614045159562": 713,
+      "gas:candidate-vibid:4614045159516": 143
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/rostov?action=show&root=1000198&tvd=26120001455433&vrn=100100067795849&region=61&global=&sub_region=61&prver=0&pronetvd=null&vibid=26120001455433&type=464",
@@ -4232,15 +4232,15 @@ export const duma_2016_uik_463_region_61_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Волков Павел Николаевич": 6,
-      "Волощук Вячеслав Александрович": 4,
-      "Иванов Сергей Владимирович": 19,
-      "Котляров Анатолий Александрович": 5,
-      "Крылов Станислав Игоревич": 1,
-      "Мусиенко Александр Анатольевич": 1,
-      "Новиков Сергей Николаевич": 0,
-      "Тутова Лариса Николаевна": 513,
-      "Фоменко Григорий Петрович": 9
+      "gas:candidate-vibid:4614045159596": 6,
+      "gas:candidate-vibid:4614045160769": 4,
+      "gas:candidate-vibid:4614045143478": 19,
+      "gas:candidate-vibid:4614045158891": 5,
+      "gas:candidate-vibid:4614045160315": 1,
+      "gas:candidate-vibid:4614045160268": 1,
+      "gas:candidate-vibid:4614045160434": 0,
+      "gas:candidate-vibid:4614045159562": 513,
+      "gas:candidate-vibid:4614045159516": 9
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/rostov?action=show&root=1000198&tvd=26120001455433&vrn=100100067795849&region=61&global=&sub_region=61&prver=0&pronetvd=null&vibid=26120001455433&type=464",
@@ -4291,15 +4291,15 @@ export const duma_2016_uik_463_region_61_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Волков Павел Николаевич": 12,
-      "Волощук Вячеслав Александрович": 1,
-      "Иванов Сергей Владимирович": 12,
-      "Котляров Анатолий Александрович": 8,
-      "Крылов Станислав Игоревич": 0,
-      "Мусиенко Александр Анатольевич": 2,
-      "Новиков Сергей Николаевич": 0,
-      "Тутова Лариса Николаевна": 558,
-      "Фоменко Григорий Петрович": 11
+      "gas:candidate-vibid:4614045159596": 12,
+      "gas:candidate-vibid:4614045160769": 1,
+      "gas:candidate-vibid:4614045143478": 12,
+      "gas:candidate-vibid:4614045158891": 8,
+      "gas:candidate-vibid:4614045160315": 0,
+      "gas:candidate-vibid:4614045160268": 2,
+      "gas:candidate-vibid:4614045160434": 0,
+      "gas:candidate-vibid:4614045159562": 558,
+      "gas:candidate-vibid:4614045159516": 11
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/rostov?action=show&root=1000198&tvd=26120001455433&vrn=100100067795849&region=61&global=&sub_region=61&prver=0&pronetvd=null&vibid=26120001455433&type=464",
@@ -4350,15 +4350,15 @@ export const duma_2016_uik_463_region_61_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Волков Павел Николаевич": 30,
-      "Волощук Вячеслав Александрович": 9,
-      "Иванов Сергей Владимирович": 79,
-      "Котляров Анатолий Александрович": 20,
-      "Крылов Станислав Игоревич": 6,
-      "Мусиенко Александр Анатольевич": 3,
-      "Новиков Сергей Николаевич": 4,
-      "Тутова Лариса Николаевна": 753,
-      "Фоменко Григорий Петрович": 57
+      "gas:candidate-vibid:4614045159596": 30,
+      "gas:candidate-vibid:4614045160769": 9,
+      "gas:candidate-vibid:4614045143478": 79,
+      "gas:candidate-vibid:4614045158891": 20,
+      "gas:candidate-vibid:4614045160315": 6,
+      "gas:candidate-vibid:4614045160268": 3,
+      "gas:candidate-vibid:4614045160434": 4,
+      "gas:candidate-vibid:4614045159562": 753,
+      "gas:candidate-vibid:4614045159516": 57
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/rostov?action=show&root=1000198&tvd=26120001455433&vrn=100100067795849&region=61&global=&sub_region=61&prver=0&pronetvd=null&vibid=26120001455433&type=464",
@@ -4409,15 +4409,15 @@ export const duma_2016_uik_463_region_61_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Волков Павел Николаевич": 7,
-      "Волощук Вячеслав Александрович": 6,
-      "Иванов Сергей Владимирович": 18,
-      "Котляров Анатолий Александрович": 9,
-      "Крылов Станислав Игоревич": 1,
-      "Мусиенко Александр Анатольевич": 3,
-      "Новиков Сергей Николаевич": 4,
-      "Тутова Лариса Николаевна": 477,
-      "Фоменко Григорий Петрович": 33
+      "gas:candidate-vibid:4614045159596": 7,
+      "gas:candidate-vibid:4614045160769": 6,
+      "gas:candidate-vibid:4614045143478": 18,
+      "gas:candidate-vibid:4614045158891": 9,
+      "gas:candidate-vibid:4614045160315": 1,
+      "gas:candidate-vibid:4614045160268": 3,
+      "gas:candidate-vibid:4614045160434": 4,
+      "gas:candidate-vibid:4614045159562": 477,
+      "gas:candidate-vibid:4614045159516": 33
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/rostov?action=show&root=1000198&tvd=26120001455433&vrn=100100067795849&region=61&global=&sub_region=61&prver=0&pronetvd=null&vibid=26120001455433&type=464",
@@ -4468,15 +4468,15 @@ export const duma_2016_uik_463_region_61_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Волков Павел Николаевич": 12,
-      "Волощук Вячеслав Александрович": 12,
-      "Иванов Сергей Владимирович": 14,
-      "Котляров Анатолий Александрович": 9,
-      "Крылов Станислав Игоревич": 10,
-      "Мусиенко Александр Анатольевич": 12,
-      "Новиков Сергей Николаевич": 3,
-      "Тутова Лариса Николаевна": 2000,
-      "Фоменко Григорий Петрович": 51
+      "gas:candidate-vibid:4614045159596": 12,
+      "gas:candidate-vibid:4614045160769": 12,
+      "gas:candidate-vibid:4614045143478": 14,
+      "gas:candidate-vibid:4614045158891": 9,
+      "gas:candidate-vibid:4614045160315": 10,
+      "gas:candidate-vibid:4614045160268": 12,
+      "gas:candidate-vibid:4614045160434": 3,
+      "gas:candidate-vibid:4614045159562": 2000,
+      "gas:candidate-vibid:4614045159516": 51
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/rostov?action=show&root=1000198&tvd=26120001455433&vrn=100100067795849&region=61&global=&sub_region=61&prver=0&pronetvd=null&vibid=26120001455433&type=464",
@@ -4527,15 +4527,15 @@ export const duma_2016_uik_463_region_61_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Волков Павел Николаевич": 25,
-      "Волощук Вячеслав Александрович": 2,
-      "Иванов Сергей Владимирович": 63,
-      "Котляров Анатолий Александрович": 11,
-      "Крылов Станислав Игоревич": 2,
-      "Мусиенко Александр Анатольевич": 6,
-      "Новиков Сергей Николаевич": 6,
-      "Тутова Лариса Николаевна": 902,
-      "Фоменко Григорий Петрович": 86
+      "gas:candidate-vibid:4614045159596": 25,
+      "gas:candidate-vibid:4614045160769": 2,
+      "gas:candidate-vibid:4614045143478": 63,
+      "gas:candidate-vibid:4614045158891": 11,
+      "gas:candidate-vibid:4614045160315": 2,
+      "gas:candidate-vibid:4614045160268": 6,
+      "gas:candidate-vibid:4614045160434": 6,
+      "gas:candidate-vibid:4614045159562": 902,
+      "gas:candidate-vibid:4614045159516": 86
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/rostov?action=show&root=1000198&tvd=26120001455433&vrn=100100067795849&region=61&global=&sub_region=61&prver=0&pronetvd=null&vibid=26120001455433&type=464",
@@ -4586,15 +4586,15 @@ export const duma_2016_uik_463_region_61_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Волков Павел Николаевич": 14,
-      "Волощук Вячеслав Александрович": 4,
-      "Иванов Сергей Владимирович": 33,
-      "Котляров Анатолий Александрович": 1,
-      "Крылов Станислав Игоревич": 5,
-      "Мусиенко Александр Анатольевич": 5,
-      "Новиков Сергей Николаевич": 6,
-      "Тутова Лариса Николаевна": 424,
-      "Фоменко Григорий Петрович": 18
+      "gas:candidate-vibid:4614045159596": 14,
+      "gas:candidate-vibid:4614045160769": 4,
+      "gas:candidate-vibid:4614045143478": 33,
+      "gas:candidate-vibid:4614045158891": 1,
+      "gas:candidate-vibid:4614045160315": 5,
+      "gas:candidate-vibid:4614045160268": 5,
+      "gas:candidate-vibid:4614045160434": 6,
+      "gas:candidate-vibid:4614045159562": 424,
+      "gas:candidate-vibid:4614045159516": 18
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/rostov?action=show&root=1000198&tvd=26120001455433&vrn=100100067795849&region=61&global=&sub_region=61&prver=0&pronetvd=null&vibid=26120001455433&type=464",
@@ -4645,15 +4645,15 @@ export const duma_2016_uik_463_region_61_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Волков Павел Николаевич": 14,
-      "Волощук Вячеслав Александрович": 6,
-      "Иванов Сергей Владимирович": 49,
-      "Котляров Анатолий Александрович": 18,
-      "Крылов Станислав Игоревич": 5,
-      "Мусиенко Александр Анатольевич": 3,
-      "Новиков Сергей Николаевич": 3,
-      "Тутова Лариса Николаевна": 801,
-      "Фоменко Григорий Петрович": 19
+      "gas:candidate-vibid:4614045159596": 14,
+      "gas:candidate-vibid:4614045160769": 6,
+      "gas:candidate-vibid:4614045143478": 49,
+      "gas:candidate-vibid:4614045158891": 18,
+      "gas:candidate-vibid:4614045160315": 5,
+      "gas:candidate-vibid:4614045160268": 3,
+      "gas:candidate-vibid:4614045160434": 3,
+      "gas:candidate-vibid:4614045159562": 801,
+      "gas:candidate-vibid:4614045159516": 19
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/rostov?action=show&root=1000198&tvd=26120001455433&vrn=100100067795849&region=61&global=&sub_region=61&prver=0&pronetvd=null&vibid=26120001455433&type=464",
@@ -4704,15 +4704,15 @@ export const duma_2016_uik_463_region_61_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Волков Павел Николаевич": 15,
-      "Волощук Вячеслав Александрович": 6,
-      "Иванов Сергей Владимирович": 52,
-      "Котляров Анатолий Александрович": 35,
-      "Крылов Станислав Игоревич": 4,
-      "Мусиенко Александр Анатольевич": 28,
-      "Новиков Сергей Николаевич": 12,
-      "Тутова Лариса Николаевна": 415,
-      "Фоменко Григорий Петрович": 37
+      "gas:candidate-vibid:4614045159596": 15,
+      "gas:candidate-vibid:4614045160769": 6,
+      "gas:candidate-vibid:4614045143478": 52,
+      "gas:candidate-vibid:4614045158891": 35,
+      "gas:candidate-vibid:4614045160315": 4,
+      "gas:candidate-vibid:4614045160268": 28,
+      "gas:candidate-vibid:4614045160434": 12,
+      "gas:candidate-vibid:4614045159562": 415,
+      "gas:candidate-vibid:4614045159516": 37
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/rostov?action=show&root=1000198&tvd=26120001455434&vrn=100100067795849&region=61&global=&sub_region=61&prver=0&pronetvd=null&vibid=26120001455434&type=464",
@@ -4763,15 +4763,15 @@ export const duma_2016_uik_463_region_61_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Волков Павел Николаевич": 21,
-      "Волощук Вячеслав Александрович": 1,
-      "Иванов Сергей Владимирович": 44,
-      "Котляров Анатолий Александрович": 24,
-      "Крылов Станислав Игоревич": 5,
-      "Мусиенко Александр Анатольевич": 19,
-      "Новиков Сергей Николаевич": 0,
-      "Тутова Лариса Николаевна": 241,
-      "Фоменко Григорий Петрович": 36
+      "gas:candidate-vibid:4614045159596": 21,
+      "gas:candidate-vibid:4614045160769": 1,
+      "gas:candidate-vibid:4614045143478": 44,
+      "gas:candidate-vibid:4614045158891": 24,
+      "gas:candidate-vibid:4614045160315": 5,
+      "gas:candidate-vibid:4614045160268": 19,
+      "gas:candidate-vibid:4614045160434": 0,
+      "gas:candidate-vibid:4614045159562": 241,
+      "gas:candidate-vibid:4614045159516": 36
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/rostov?action=show&root=1000198&tvd=26120001455434&vrn=100100067795849&region=61&global=&sub_region=61&prver=0&pronetvd=null&vibid=26120001455434&type=464",
@@ -4822,15 +4822,15 @@ export const duma_2016_uik_463_region_61_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Волков Павел Николаевич": 23,
-      "Волощук Вячеслав Александрович": 3,
-      "Иванов Сергей Владимирович": 71,
-      "Котляров Анатолий Александрович": 42,
-      "Крылов Станислав Игоревич": 15,
-      "Мусиенко Александр Анатольевич": 35,
-      "Новиков Сергей Николаевич": 10,
-      "Тутова Лариса Николаевна": 433,
-      "Фоменко Григорий Петрович": 72
+      "gas:candidate-vibid:4614045159596": 23,
+      "gas:candidate-vibid:4614045160769": 3,
+      "gas:candidate-vibid:4614045143478": 71,
+      "gas:candidate-vibid:4614045158891": 42,
+      "gas:candidate-vibid:4614045160315": 15,
+      "gas:candidate-vibid:4614045160268": 35,
+      "gas:candidate-vibid:4614045160434": 10,
+      "gas:candidate-vibid:4614045159562": 433,
+      "gas:candidate-vibid:4614045159516": 72
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/rostov?action=show&root=1000198&tvd=26120001455434&vrn=100100067795849&region=61&global=&sub_region=61&prver=0&pronetvd=null&vibid=26120001455434&type=464",
@@ -4881,15 +4881,15 @@ export const duma_2016_uik_463_region_61_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Волков Павел Николаевич": 29,
-      "Волощук Вячеслав Александрович": 6,
-      "Иванов Сергей Владимирович": 77,
-      "Котляров Анатолий Александрович": 49,
-      "Крылов Станислав Игоревич": 21,
-      "Мусиенко Александр Анатольевич": 47,
-      "Новиков Сергей Николаевич": 17,
-      "Тутова Лариса Николаевна": 250,
-      "Фоменко Григорий Петрович": 116
+      "gas:candidate-vibid:4614045159596": 29,
+      "gas:candidate-vibid:4614045160769": 6,
+      "gas:candidate-vibid:4614045143478": 77,
+      "gas:candidate-vibid:4614045158891": 49,
+      "gas:candidate-vibid:4614045160315": 21,
+      "gas:candidate-vibid:4614045160268": 47,
+      "gas:candidate-vibid:4614045160434": 17,
+      "gas:candidate-vibid:4614045159562": 250,
+      "gas:candidate-vibid:4614045159516": 116
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/rostov?action=show&root=1000198&tvd=26120001455434&vrn=100100067795849&region=61&global=&sub_region=61&prver=0&pronetvd=null&vibid=26120001455434&type=464",
@@ -4940,15 +4940,15 @@ export const duma_2016_uik_463_region_61_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Волков Павел Николаевич": 23,
-      "Волощук Вячеслав Александрович": 3,
-      "Иванов Сергей Владимирович": 78,
-      "Котляров Анатолий Александрович": 62,
-      "Крылов Станислав Игоревич": 12,
-      "Мусиенко Александр Анатольевич": 57,
-      "Новиков Сергей Николаевич": 13,
-      "Тутова Лариса Николаевна": 385,
-      "Фоменко Григорий Петрович": 108
+      "gas:candidate-vibid:4614045159596": 23,
+      "gas:candidate-vibid:4614045160769": 3,
+      "gas:candidate-vibid:4614045143478": 78,
+      "gas:candidate-vibid:4614045158891": 62,
+      "gas:candidate-vibid:4614045160315": 12,
+      "gas:candidate-vibid:4614045160268": 57,
+      "gas:candidate-vibid:4614045160434": 13,
+      "gas:candidate-vibid:4614045159562": 385,
+      "gas:candidate-vibid:4614045159516": 108
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/rostov?action=show&root=1000198&tvd=26120001455434&vrn=100100067795849&region=61&global=&sub_region=61&prver=0&pronetvd=null&vibid=26120001455434&type=464",
@@ -4999,15 +4999,15 @@ export const duma_2016_uik_463_region_61_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Волков Павел Николаевич": 29,
-      "Волощук Вячеслав Александрович": 13,
-      "Иванов Сергей Владимирович": 91,
-      "Котляров Анатолий Александрович": 62,
-      "Крылов Станислав Игоревич": 18,
-      "Мусиенко Александр Анатольевич": 31,
-      "Новиков Сергей Николаевич": 12,
-      "Тутова Лариса Николаевна": 283,
-      "Фоменко Григорий Петрович": 75
+      "gas:candidate-vibid:4614045159596": 29,
+      "gas:candidate-vibid:4614045160769": 13,
+      "gas:candidate-vibid:4614045143478": 91,
+      "gas:candidate-vibid:4614045158891": 62,
+      "gas:candidate-vibid:4614045160315": 18,
+      "gas:candidate-vibid:4614045160268": 31,
+      "gas:candidate-vibid:4614045160434": 12,
+      "gas:candidate-vibid:4614045159562": 283,
+      "gas:candidate-vibid:4614045159516": 75
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/rostov?action=show&root=1000198&tvd=26120001455434&vrn=100100067795849&region=61&global=&sub_region=61&prver=0&pronetvd=null&vibid=26120001455434&type=464",
@@ -5058,15 +5058,15 @@ export const duma_2016_uik_463_region_61_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Волков Павел Николаевич": 21,
-      "Волощук Вячеслав Александрович": 6,
-      "Иванов Сергей Владимирович": 70,
-      "Котляров Анатолий Александрович": 52,
-      "Крылов Станислав Игоревич": 12,
-      "Мусиенко Александр Анатольевич": 32,
-      "Новиков Сергей Николаевич": 11,
-      "Тутова Лариса Николаевна": 343,
-      "Фоменко Григорий Петрович": 108
+      "gas:candidate-vibid:4614045159596": 21,
+      "gas:candidate-vibid:4614045160769": 6,
+      "gas:candidate-vibid:4614045143478": 70,
+      "gas:candidate-vibid:4614045158891": 52,
+      "gas:candidate-vibid:4614045160315": 12,
+      "gas:candidate-vibid:4614045160268": 32,
+      "gas:candidate-vibid:4614045160434": 11,
+      "gas:candidate-vibid:4614045159562": 343,
+      "gas:candidate-vibid:4614045159516": 108
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/rostov?action=show&root=1000198&tvd=26120001455434&vrn=100100067795849&region=61&global=&sub_region=61&prver=0&pronetvd=null&vibid=26120001455434&type=464",
@@ -5117,15 +5117,15 @@ export const duma_2016_uik_463_region_61_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Волков Павел Николаевич": 36,
-      "Волощук Вячеслав Александрович": 8,
-      "Иванов Сергей Владимирович": 71,
-      "Котляров Анатолий Александрович": 37,
-      "Крылов Станислав Игоревич": 15,
-      "Мусиенко Александр Анатольевич": 22,
-      "Новиков Сергей Николаевич": 14,
-      "Тутова Лариса Николаевна": 507,
-      "Фоменко Григорий Петрович": 92
+      "gas:candidate-vibid:4614045159596": 36,
+      "gas:candidate-vibid:4614045160769": 8,
+      "gas:candidate-vibid:4614045143478": 71,
+      "gas:candidate-vibid:4614045158891": 37,
+      "gas:candidate-vibid:4614045160315": 15,
+      "gas:candidate-vibid:4614045160268": 22,
+      "gas:candidate-vibid:4614045160434": 14,
+      "gas:candidate-vibid:4614045159562": 507,
+      "gas:candidate-vibid:4614045159516": 92
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/rostov?action=show&root=1000198&tvd=26120001455434&vrn=100100067795849&region=61&global=&sub_region=61&prver=0&pronetvd=null&vibid=26120001455434&type=464",
@@ -5176,15 +5176,15 @@ export const duma_2016_uik_463_region_61_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Волков Павел Николаевич": 1,
-      "Волощук Вячеслав Александрович": 0,
-      "Иванов Сергей Владимирович": 2,
-      "Котляров Анатолий Александрович": 0,
-      "Крылов Станислав Игоревич": 0,
-      "Мусиенко Александр Анатольевич": 0,
-      "Новиков Сергей Николаевич": 1,
-      "Тутова Лариса Николаевна": 70,
-      "Фоменко Григорий Петрович": 4
+      "gas:candidate-vibid:4614045159596": 1,
+      "gas:candidate-vibid:4614045160769": 0,
+      "gas:candidate-vibid:4614045143478": 2,
+      "gas:candidate-vibid:4614045158891": 0,
+      "gas:candidate-vibid:4614045160315": 0,
+      "gas:candidate-vibid:4614045160268": 0,
+      "gas:candidate-vibid:4614045160434": 1,
+      "gas:candidate-vibid:4614045159562": 70,
+      "gas:candidate-vibid:4614045159516": 4
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/rostov?action=show&root=1000198&tvd=26120001455434&vrn=100100067795849&region=61&global=&sub_region=61&prver=0&pronetvd=null&vibid=26120001455434&type=464",
@@ -5235,15 +5235,15 @@ export const duma_2016_uik_463_region_61_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Волков Павел Николаевич": 34,
-      "Волощук Вячеслав Александрович": 12,
-      "Иванов Сергей Владимирович": 58,
-      "Котляров Анатолий Александрович": 57,
-      "Крылов Станислав Игоревич": 15,
-      "Мусиенко Александр Анатольевич": 36,
-      "Новиков Сергей Николаевич": 9,
-      "Тутова Лариса Николаевна": 585,
-      "Фоменко Григорий Петрович": 72
+      "gas:candidate-vibid:4614045159596": 34,
+      "gas:candidate-vibid:4614045160769": 12,
+      "gas:candidate-vibid:4614045143478": 58,
+      "gas:candidate-vibid:4614045158891": 57,
+      "gas:candidate-vibid:4614045160315": 15,
+      "gas:candidate-vibid:4614045160268": 36,
+      "gas:candidate-vibid:4614045160434": 9,
+      "gas:candidate-vibid:4614045159562": 585,
+      "gas:candidate-vibid:4614045159516": 72
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/rostov?action=show&root=1000198&tvd=26120001455434&vrn=100100067795849&region=61&global=&sub_region=61&prver=0&pronetvd=null&vibid=26120001455434&type=464",
@@ -5294,15 +5294,15 @@ export const duma_2016_uik_463_region_61_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Волков Павел Николаевич": 22,
-      "Волощук Вячеслав Александрович": 4,
-      "Иванов Сергей Владимирович": 72,
-      "Котляров Анатолий Александрович": 45,
-      "Крылов Станислав Игоревич": 13,
-      "Мусиенко Александр Анатольевич": 33,
-      "Новиков Сергей Николаевич": 9,
-      "Тутова Лариса Николаевна": 215,
-      "Фоменко Григорий Петрович": 92
+      "gas:candidate-vibid:4614045159596": 22,
+      "gas:candidate-vibid:4614045160769": 4,
+      "gas:candidate-vibid:4614045143478": 72,
+      "gas:candidate-vibid:4614045158891": 45,
+      "gas:candidate-vibid:4614045160315": 13,
+      "gas:candidate-vibid:4614045160268": 33,
+      "gas:candidate-vibid:4614045160434": 9,
+      "gas:candidate-vibid:4614045159562": 215,
+      "gas:candidate-vibid:4614045159516": 92
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/rostov?action=show&root=1000198&tvd=26120001455434&vrn=100100067795849&region=61&global=&sub_region=61&prver=0&pronetvd=null&vibid=26120001455434&type=464",
@@ -5353,15 +5353,15 @@ export const duma_2016_uik_463_region_61_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Волков Павел Николаевич": 8,
-      "Волощук Вячеслав Александрович": 10,
-      "Иванов Сергей Владимирович": 38,
-      "Котляров Анатолий Александрович": 91,
-      "Крылов Станислав Игоревич": 15,
-      "Мусиенко Александр Анатольевич": 7,
-      "Новиков Сергей Николаевич": 13,
-      "Тутова Лариса Николаевна": 456,
-      "Фоменко Григорий Петрович": 149
+      "gas:candidate-vibid:4614045159596": 8,
+      "gas:candidate-vibid:4614045160769": 10,
+      "gas:candidate-vibid:4614045143478": 38,
+      "gas:candidate-vibid:4614045158891": 91,
+      "gas:candidate-vibid:4614045160315": 15,
+      "gas:candidate-vibid:4614045160268": 7,
+      "gas:candidate-vibid:4614045160434": 13,
+      "gas:candidate-vibid:4614045159562": 456,
+      "gas:candidate-vibid:4614045159516": 149
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/rostov?action=show&root=1000198&tvd=26120001455434&vrn=100100067795849&region=61&global=&sub_region=61&prver=0&pronetvd=null&vibid=26120001455434&type=464",
@@ -5412,15 +5412,15 @@ export const duma_2016_uik_463_region_61_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Волков Павел Николаевич": 7,
-      "Волощук Вячеслав Александрович": 0,
-      "Иванов Сергей Владимирович": 56,
-      "Котляров Анатолий Александрович": 50,
-      "Крылов Станислав Игоревич": 8,
-      "Мусиенко Александр Анатольевич": 17,
-      "Новиков Сергей Николаевич": 0,
-      "Тутова Лариса Николаевна": 561,
-      "Фоменко Григорий Петрович": 84
+      "gas:candidate-vibid:4614045159596": 7,
+      "gas:candidate-vibid:4614045160769": 0,
+      "gas:candidate-vibid:4614045143478": 56,
+      "gas:candidate-vibid:4614045158891": 50,
+      "gas:candidate-vibid:4614045160315": 8,
+      "gas:candidate-vibid:4614045160268": 17,
+      "gas:candidate-vibid:4614045160434": 0,
+      "gas:candidate-vibid:4614045159562": 561,
+      "gas:candidate-vibid:4614045159516": 84
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/rostov?action=show&root=1000198&tvd=26120001455434&vrn=100100067795849&region=61&global=&sub_region=61&prver=0&pronetvd=null&vibid=26120001455434&type=464",
@@ -5471,15 +5471,15 @@ export const duma_2016_uik_463_region_61_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Волков Павел Николаевич": 29,
-      "Волощук Вячеслав Александрович": 8,
-      "Иванов Сергей Владимирович": 86,
-      "Котляров Анатолий Александрович": 35,
-      "Крылов Станислав Игоревич": 9,
-      "Мусиенко Александр Анатольевич": 39,
-      "Новиков Сергей Николаевич": 35,
-      "Тутова Лариса Николаевна": 355,
-      "Фоменко Григорий Петрович": 83
+      "gas:candidate-vibid:4614045159596": 29,
+      "gas:candidate-vibid:4614045160769": 8,
+      "gas:candidate-vibid:4614045143478": 86,
+      "gas:candidate-vibid:4614045158891": 35,
+      "gas:candidate-vibid:4614045160315": 9,
+      "gas:candidate-vibid:4614045160268": 39,
+      "gas:candidate-vibid:4614045160434": 35,
+      "gas:candidate-vibid:4614045159562": 355,
+      "gas:candidate-vibid:4614045159516": 83
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/rostov?action=show&root=1000198&tvd=26120001455434&vrn=100100067795849&region=61&global=&sub_region=61&prver=0&pronetvd=null&vibid=26120001455434&type=464",
@@ -5530,15 +5530,15 @@ export const duma_2016_uik_463_region_61_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Волков Павел Николаевич": 32,
-      "Волощук Вячеслав Александрович": 13,
-      "Иванов Сергей Владимирович": 96,
-      "Котляров Анатолий Александрович": 69,
-      "Крылов Станислав Игоревич": 15,
-      "Мусиенко Александр Анатольевич": 37,
-      "Новиков Сергей Николаевич": 12,
-      "Тутова Лариса Николаевна": 396,
-      "Фоменко Григорий Петрович": 104
+      "gas:candidate-vibid:4614045159596": 32,
+      "gas:candidate-vibid:4614045160769": 13,
+      "gas:candidate-vibid:4614045143478": 96,
+      "gas:candidate-vibid:4614045158891": 69,
+      "gas:candidate-vibid:4614045160315": 15,
+      "gas:candidate-vibid:4614045160268": 37,
+      "gas:candidate-vibid:4614045160434": 12,
+      "gas:candidate-vibid:4614045159562": 396,
+      "gas:candidate-vibid:4614045159516": 104
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/rostov?action=show&root=1000198&tvd=26120001455434&vrn=100100067795849&region=61&global=&sub_region=61&prver=0&pronetvd=null&vibid=26120001455434&type=464",
@@ -5589,15 +5589,15 @@ export const duma_2016_uik_463_region_61_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Волков Павел Николаевич": 2,
-      "Волощук Вячеслав Александрович": 0,
-      "Иванов Сергей Владимирович": 1,
-      "Котляров Анатолий Александрович": 1,
-      "Крылов Станислав Игоревич": 0,
-      "Мусиенко Александр Анатольевич": 0,
-      "Новиков Сергей Николаевич": 0,
-      "Тутова Лариса Николаевна": 27,
-      "Фоменко Григорий Петрович": 2
+      "gas:candidate-vibid:4614045159596": 2,
+      "gas:candidate-vibid:4614045160769": 0,
+      "gas:candidate-vibid:4614045143478": 1,
+      "gas:candidate-vibid:4614045158891": 1,
+      "gas:candidate-vibid:4614045160315": 0,
+      "gas:candidate-vibid:4614045160268": 0,
+      "gas:candidate-vibid:4614045160434": 0,
+      "gas:candidate-vibid:4614045159562": 27,
+      "gas:candidate-vibid:4614045159516": 2
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/rostov?action=show&root=1000198&tvd=26120001455434&vrn=100100067795849&region=61&global=&sub_region=61&prver=0&pronetvd=null&vibid=26120001455434&type=464",
@@ -5648,15 +5648,15 @@ export const duma_2016_uik_463_region_61_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Волков Павел Николаевич": 15,
-      "Волощук Вячеслав Александрович": 0,
-      "Иванов Сергей Владимирович": 59,
-      "Котляров Анатолий Александрович": 141,
-      "Крылов Станислав Игоревич": 0,
-      "Мусиенко Александр Анатольевич": 19,
-      "Новиков Сергей Николаевич": 0,
-      "Тутова Лариса Николаевна": 706,
-      "Фоменко Григорий Петрович": 235
+      "gas:candidate-vibid:4614045159596": 15,
+      "gas:candidate-vibid:4614045160769": 0,
+      "gas:candidate-vibid:4614045143478": 59,
+      "gas:candidate-vibid:4614045158891": 141,
+      "gas:candidate-vibid:4614045160315": 0,
+      "gas:candidate-vibid:4614045160268": 19,
+      "gas:candidate-vibid:4614045160434": 0,
+      "gas:candidate-vibid:4614045159562": 706,
+      "gas:candidate-vibid:4614045159516": 235
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/rostov?action=show&root=1000198&tvd=26120001455434&vrn=100100067795849&region=61&global=&sub_region=61&prver=0&pronetvd=null&vibid=26120001455434&type=464",
@@ -5707,15 +5707,15 @@ export const duma_2016_uik_463_region_61_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Волков Павел Николаевич": 24,
-      "Волощук Вячеслав Александрович": 9,
-      "Иванов Сергей Владимирович": 72,
-      "Котляров Анатолий Александрович": 57,
-      "Крылов Станислав Игоревич": 13,
-      "Мусиенко Александр Анатольевич": 52,
-      "Новиков Сергей Николаевич": 12,
-      "Тутова Лариса Николаевна": 367,
-      "Фоменко Григорий Петрович": 106
+      "gas:candidate-vibid:4614045159596": 24,
+      "gas:candidate-vibid:4614045160769": 9,
+      "gas:candidate-vibid:4614045143478": 72,
+      "gas:candidate-vibid:4614045158891": 57,
+      "gas:candidate-vibid:4614045160315": 13,
+      "gas:candidate-vibid:4614045160268": 52,
+      "gas:candidate-vibid:4614045160434": 12,
+      "gas:candidate-vibid:4614045159562": 367,
+      "gas:candidate-vibid:4614045159516": 106
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/rostov?action=show&root=1000198&tvd=26120001455434&vrn=100100067795849&region=61&global=&sub_region=61&prver=0&pronetvd=null&vibid=26120001455434&type=464",
@@ -5766,15 +5766,15 @@ export const duma_2016_uik_463_region_61_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Волков Павел Николаевич": 15,
-      "Волощук Вячеслав Александрович": 3,
-      "Иванов Сергей Владимирович": 46,
-      "Котляров Анатолий Александрович": 31,
-      "Крылов Станислав Игоревич": 7,
-      "Мусиенко Александр Анатольевич": 16,
-      "Новиков Сергей Николаевич": 5,
-      "Тутова Лариса Николаевна": 167,
-      "Фоменко Григорий Петрович": 45
+      "gas:candidate-vibid:4614045159596": 15,
+      "gas:candidate-vibid:4614045160769": 3,
+      "gas:candidate-vibid:4614045143478": 46,
+      "gas:candidate-vibid:4614045158891": 31,
+      "gas:candidate-vibid:4614045160315": 7,
+      "gas:candidate-vibid:4614045160268": 16,
+      "gas:candidate-vibid:4614045160434": 5,
+      "gas:candidate-vibid:4614045159562": 167,
+      "gas:candidate-vibid:4614045159516": 45
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/rostov?action=show&root=1000198&tvd=26120001455434&vrn=100100067795849&region=61&global=&sub_region=61&prver=0&pronetvd=null&vibid=26120001455434&type=464",
@@ -5825,15 +5825,15 @@ export const duma_2016_uik_463_region_61_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Волков Павел Николаевич": 24,
-      "Волощук Вячеслав Александрович": 12,
-      "Иванов Сергей Владимирович": 111,
-      "Котляров Анатолий Александрович": 49,
-      "Крылов Станислав Игоревич": 9,
-      "Мусиенко Александр Анатольевич": 19,
-      "Новиков Сергей Николаевич": 21,
-      "Тутова Лариса Николаевна": 1170,
-      "Фоменко Григорий Петрович": 87
+      "gas:candidate-vibid:4614045159596": 24,
+      "gas:candidate-vibid:4614045160769": 12,
+      "gas:candidate-vibid:4614045143478": 111,
+      "gas:candidate-vibid:4614045158891": 49,
+      "gas:candidate-vibid:4614045160315": 9,
+      "gas:candidate-vibid:4614045160268": 19,
+      "gas:candidate-vibid:4614045160434": 21,
+      "gas:candidate-vibid:4614045159562": 1170,
+      "gas:candidate-vibid:4614045159516": 87
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/rostov?action=show&root=1000198&tvd=26120001455434&vrn=100100067795849&region=61&global=&sub_region=61&prver=0&pronetvd=null&vibid=26120001455434&type=464",
@@ -5884,15 +5884,15 @@ export const duma_2016_uik_463_region_61_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Волков Павел Николаевич": 28,
-      "Волощук Вячеслав Александрович": 3,
-      "Иванов Сергей Владимирович": 72,
-      "Котляров Анатолий Александрович": 31,
-      "Крылов Станислав Игоревич": 11,
-      "Мусиенко Александр Анатольевич": 22,
-      "Новиков Сергей Николаевич": 9,
-      "Тутова Лариса Николаевна": 323,
-      "Фоменко Григорий Петрович": 81
+      "gas:candidate-vibid:4614045159596": 28,
+      "gas:candidate-vibid:4614045160769": 3,
+      "gas:candidate-vibid:4614045143478": 72,
+      "gas:candidate-vibid:4614045158891": 31,
+      "gas:candidate-vibid:4614045160315": 11,
+      "gas:candidate-vibid:4614045160268": 22,
+      "gas:candidate-vibid:4614045160434": 9,
+      "gas:candidate-vibid:4614045159562": 323,
+      "gas:candidate-vibid:4614045159516": 81
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/rostov?action=show&root=1000198&tvd=26120001455434&vrn=100100067795849&region=61&global=&sub_region=61&prver=0&pronetvd=null&vibid=26120001455434&type=464",
@@ -5943,15 +5943,15 @@ export const duma_2016_uik_463_region_61_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Волков Павел Николаевич": 26,
-      "Волощук Вячеслав Александрович": 9,
-      "Иванов Сергей Владимирович": 70,
-      "Котляров Анатолий Александрович": 55,
-      "Крылов Станислав Игоревич": 10,
-      "Мусиенко Александр Анатольевич": 27,
-      "Новиков Сергей Николаевич": 11,
-      "Тутова Лариса Николаевна": 347,
-      "Фоменко Григорий Петрович": 81
+      "gas:candidate-vibid:4614045159596": 26,
+      "gas:candidate-vibid:4614045160769": 9,
+      "gas:candidate-vibid:4614045143478": 70,
+      "gas:candidate-vibid:4614045158891": 55,
+      "gas:candidate-vibid:4614045160315": 10,
+      "gas:candidate-vibid:4614045160268": 27,
+      "gas:candidate-vibid:4614045160434": 11,
+      "gas:candidate-vibid:4614045159562": 347,
+      "gas:candidate-vibid:4614045159516": 81
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/rostov?action=show&root=1000198&tvd=26120001455434&vrn=100100067795849&region=61&global=&sub_region=61&prver=0&pronetvd=null&vibid=26120001455434&type=464",
@@ -6002,15 +6002,15 @@ export const duma_2016_uik_463_region_61_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Волков Павел Николаевич": 16,
-      "Волощук Вячеслав Александрович": 6,
-      "Иванов Сергей Владимирович": 81,
-      "Котляров Анатолий Александрович": 39,
-      "Крылов Станислав Игоревич": 10,
-      "Мусиенко Александр Анатольевич": 33,
-      "Новиков Сергей Николаевич": 5,
-      "Тутова Лариса Николаевна": 248,
-      "Фоменко Григорий Петрович": 68
+      "gas:candidate-vibid:4614045159596": 16,
+      "gas:candidate-vibid:4614045160769": 6,
+      "gas:candidate-vibid:4614045143478": 81,
+      "gas:candidate-vibid:4614045158891": 39,
+      "gas:candidate-vibid:4614045160315": 10,
+      "gas:candidate-vibid:4614045160268": 33,
+      "gas:candidate-vibid:4614045160434": 5,
+      "gas:candidate-vibid:4614045159562": 248,
+      "gas:candidate-vibid:4614045159516": 68
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/rostov?action=show&root=1000198&tvd=26120001455434&vrn=100100067795849&region=61&global=&sub_region=61&prver=0&pronetvd=null&vibid=26120001455434&type=464",
@@ -6061,15 +6061,15 @@ export const duma_2016_uik_463_region_61_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Волков Павел Николаевич": 35,
-      "Волощук Вячеслав Александрович": 10,
-      "Иванов Сергей Владимирович": 84,
-      "Котляров Анатолий Александрович": 41,
-      "Крылов Станислав Игоревич": 11,
-      "Мусиенко Александр Анатольевич": 24,
-      "Новиков Сергей Николаевич": 6,
-      "Тутова Лариса Николаевна": 379,
-      "Фоменко Григорий Петрович": 86
+      "gas:candidate-vibid:4614045159596": 35,
+      "gas:candidate-vibid:4614045160769": 10,
+      "gas:candidate-vibid:4614045143478": 84,
+      "gas:candidate-vibid:4614045158891": 41,
+      "gas:candidate-vibid:4614045160315": 11,
+      "gas:candidate-vibid:4614045160268": 24,
+      "gas:candidate-vibid:4614045160434": 6,
+      "gas:candidate-vibid:4614045159562": 379,
+      "gas:candidate-vibid:4614045159516": 86
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/rostov?action=show&root=1000198&tvd=26120001455434&vrn=100100067795849&region=61&global=&sub_region=61&prver=0&pronetvd=null&vibid=26120001455434&type=464",
@@ -6120,15 +6120,15 @@ export const duma_2016_uik_463_region_61_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Волков Павел Николаевич": 15,
-      "Волощук Вячеслав Александрович": 8,
-      "Иванов Сергей Владимирович": 77,
-      "Котляров Анатолий Александрович": 39,
-      "Крылов Станислав Игоревич": 14,
-      "Мусиенко Александр Анатольевич": 16,
-      "Новиков Сергей Николаевич": 6,
-      "Тутова Лариса Николаевна": 1124,
-      "Фоменко Григорий Петрович": 56
+      "gas:candidate-vibid:4614045159596": 15,
+      "gas:candidate-vibid:4614045160769": 8,
+      "gas:candidate-vibid:4614045143478": 77,
+      "gas:candidate-vibid:4614045158891": 39,
+      "gas:candidate-vibid:4614045160315": 14,
+      "gas:candidate-vibid:4614045160268": 16,
+      "gas:candidate-vibid:4614045160434": 6,
+      "gas:candidate-vibid:4614045159562": 1124,
+      "gas:candidate-vibid:4614045159516": 56
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/rostov?action=show&root=1000198&tvd=26120001455434&vrn=100100067795849&region=61&global=&sub_region=61&prver=0&pronetvd=null&vibid=26120001455434&type=464",
@@ -6179,15 +6179,15 @@ export const duma_2016_uik_463_region_61_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Волков Павел Николаевич": 21,
-      "Волощук Вячеслав Александрович": 5,
-      "Иванов Сергей Владимирович": 94,
-      "Котляров Анатолий Александрович": 38,
-      "Крылов Станислав Игоревич": 11,
-      "Мусиенко Александр Анатольевич": 25,
-      "Новиков Сергей Николаевич": 10,
-      "Тутова Лариса Николаевна": 231,
-      "Фоменко Григорий Петрович": 87
+      "gas:candidate-vibid:4614045159596": 21,
+      "gas:candidate-vibid:4614045160769": 5,
+      "gas:candidate-vibid:4614045143478": 94,
+      "gas:candidate-vibid:4614045158891": 38,
+      "gas:candidate-vibid:4614045160315": 11,
+      "gas:candidate-vibid:4614045160268": 25,
+      "gas:candidate-vibid:4614045160434": 10,
+      "gas:candidate-vibid:4614045159562": 231,
+      "gas:candidate-vibid:4614045159516": 87
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/rostov?action=show&root=1000198&tvd=26120001455434&vrn=100100067795849&region=61&global=&sub_region=61&prver=0&pronetvd=null&vibid=26120001455434&type=464",
@@ -6238,15 +6238,15 @@ export const duma_2016_uik_463_region_61_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Волков Павел Николаевич": 3,
-      "Волощук Вячеслав Александрович": 7,
-      "Иванов Сергей Владимирович": 52,
-      "Котляров Анатолий Александрович": 53,
-      "Крылов Станислав Игоревич": 2,
-      "Мусиенко Александр Анатольевич": 7,
-      "Новиков Сергей Николаевич": 6,
-      "Тутова Лариса Николаевна": 1016,
-      "Фоменко Григорий Петрович": 98
+      "gas:candidate-vibid:4614045159596": 3,
+      "gas:candidate-vibid:4614045160769": 7,
+      "gas:candidate-vibid:4614045143478": 52,
+      "gas:candidate-vibid:4614045158891": 53,
+      "gas:candidate-vibid:4614045160315": 2,
+      "gas:candidate-vibid:4614045160268": 7,
+      "gas:candidate-vibid:4614045160434": 6,
+      "gas:candidate-vibid:4614045159562": 1016,
+      "gas:candidate-vibid:4614045159516": 98
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/rostov?action=show&root=1000198&tvd=26120001455434&vrn=100100067795849&region=61&global=&sub_region=61&prver=0&pronetvd=null&vibid=26120001455434&type=464",
@@ -6297,15 +6297,15 @@ export const duma_2016_uik_463_region_61_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Волков Павел Николаевич": 22,
-      "Волощук Вячеслав Александрович": 4,
-      "Иванов Сергей Владимирович": 58,
-      "Котляров Анатолий Александрович": 38,
-      "Крылов Станислав Игоревич": 5,
-      "Мусиенко Александр Анатольевич": 16,
-      "Новиков Сергей Николаевич": 8,
-      "Тутова Лариса Николаевна": 275,
-      "Фоменко Григорий Петрович": 44
+      "gas:candidate-vibid:4614045159596": 22,
+      "gas:candidate-vibid:4614045160769": 4,
+      "gas:candidate-vibid:4614045143478": 58,
+      "gas:candidate-vibid:4614045158891": 38,
+      "gas:candidate-vibid:4614045160315": 5,
+      "gas:candidate-vibid:4614045160268": 16,
+      "gas:candidate-vibid:4614045160434": 8,
+      "gas:candidate-vibid:4614045159562": 275,
+      "gas:candidate-vibid:4614045159516": 44
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/rostov?action=show&root=1000198&tvd=26120001455434&vrn=100100067795849&region=61&global=&sub_region=61&prver=0&pronetvd=null&vibid=26120001455434&type=464",
@@ -6356,15 +6356,15 @@ export const duma_2016_uik_463_region_61_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Волков Павел Николаевич": 27,
-      "Волощук Вячеслав Александрович": 3,
-      "Иванов Сергей Владимирович": 69,
-      "Котляров Анатолий Александрович": 47,
-      "Крылов Станислав Игоревич": 8,
-      "Мусиенко Александр Анатольевич": 12,
-      "Новиков Сергей Николаевич": 7,
-      "Тутова Лариса Николаевна": 183,
-      "Фоменко Григорий Петрович": 59
+      "gas:candidate-vibid:4614045159596": 27,
+      "gas:candidate-vibid:4614045160769": 3,
+      "gas:candidate-vibid:4614045143478": 69,
+      "gas:candidate-vibid:4614045158891": 47,
+      "gas:candidate-vibid:4614045160315": 8,
+      "gas:candidate-vibid:4614045160268": 12,
+      "gas:candidate-vibid:4614045160434": 7,
+      "gas:candidate-vibid:4614045159562": 183,
+      "gas:candidate-vibid:4614045159516": 59
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/rostov?action=show&root=1000198&tvd=26120001455434&vrn=100100067795849&region=61&global=&sub_region=61&prver=0&pronetvd=null&vibid=26120001455434&type=464",
@@ -6415,15 +6415,15 @@ export const duma_2016_uik_463_region_61_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Волков Павел Николаевич": 24,
-      "Волощук Вячеслав Александрович": 9,
-      "Иванов Сергей Владимирович": 79,
-      "Котляров Анатолий Александрович": 44,
-      "Крылов Станислав Игоревич": 5,
-      "Мусиенко Александр Анатольевич": 11,
-      "Новиков Сергей Николаевич": 7,
-      "Тутова Лариса Николаевна": 301,
-      "Фоменко Григорий Петрович": 63
+      "gas:candidate-vibid:4614045159596": 24,
+      "gas:candidate-vibid:4614045160769": 9,
+      "gas:candidate-vibid:4614045143478": 79,
+      "gas:candidate-vibid:4614045158891": 44,
+      "gas:candidate-vibid:4614045160315": 5,
+      "gas:candidate-vibid:4614045160268": 11,
+      "gas:candidate-vibid:4614045160434": 7,
+      "gas:candidate-vibid:4614045159562": 301,
+      "gas:candidate-vibid:4614045159516": 63
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/rostov?action=show&root=1000198&tvd=26120001455434&vrn=100100067795849&region=61&global=&sub_region=61&prver=0&pronetvd=null&vibid=26120001455434&type=464",
@@ -6474,15 +6474,15 @@ export const duma_2016_uik_463_region_61_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Волков Павел Николаевич": 33,
-      "Волощук Вячеслав Александрович": 8,
-      "Иванов Сергей Владимирович": 128,
-      "Котляров Анатолий Александрович": 62,
-      "Крылов Станислав Игоревич": 10,
-      "Мусиенко Александр Анатольевич": 13,
-      "Новиков Сергей Николаевич": 5,
-      "Тутова Лариса Николаевна": 357,
-      "Фоменко Григорий Петрович": 110
+      "gas:candidate-vibid:4614045159596": 33,
+      "gas:candidate-vibid:4614045160769": 8,
+      "gas:candidate-vibid:4614045143478": 128,
+      "gas:candidate-vibid:4614045158891": 62,
+      "gas:candidate-vibid:4614045160315": 10,
+      "gas:candidate-vibid:4614045160268": 13,
+      "gas:candidate-vibid:4614045160434": 5,
+      "gas:candidate-vibid:4614045159562": 357,
+      "gas:candidate-vibid:4614045159516": 110
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/rostov?action=show&root=1000198&tvd=26120001455434&vrn=100100067795849&region=61&global=&sub_region=61&prver=0&pronetvd=null&vibid=26120001455434&type=464",
@@ -6533,15 +6533,15 @@ export const duma_2016_uik_463_region_61_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Волков Павел Николаевич": 38,
-      "Волощук Вячеслав Александрович": 6,
-      "Иванов Сергей Владимирович": 115,
-      "Котляров Анатолий Александрович": 85,
-      "Крылов Станислав Игоревич": 16,
-      "Мусиенко Александр Анатольевич": 26,
-      "Новиков Сергей Николаевич": 9,
-      "Тутова Лариса Николаевна": 380,
-      "Фоменко Григорий Петрович": 76
+      "gas:candidate-vibid:4614045159596": 38,
+      "gas:candidate-vibid:4614045160769": 6,
+      "gas:candidate-vibid:4614045143478": 115,
+      "gas:candidate-vibid:4614045158891": 85,
+      "gas:candidate-vibid:4614045160315": 16,
+      "gas:candidate-vibid:4614045160268": 26,
+      "gas:candidate-vibid:4614045160434": 9,
+      "gas:candidate-vibid:4614045159562": 380,
+      "gas:candidate-vibid:4614045159516": 76
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/rostov?action=show&root=1000198&tvd=26120001455434&vrn=100100067795849&region=61&global=&sub_region=61&prver=0&pronetvd=null&vibid=26120001455434&type=464",
@@ -6592,15 +6592,15 @@ export const duma_2016_uik_463_region_61_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Волков Павел Николаевич": 11,
-      "Волощук Вячеслав Александрович": 3,
-      "Иванов Сергей Владимирович": 95,
-      "Котляров Анатолий Александрович": 169,
-      "Крылов Станислав Игоревич": 2,
-      "Мусиенко Александр Анатольевич": 2,
-      "Новиков Сергей Николаевич": 5,
-      "Тутова Лариса Николаевна": 362,
-      "Фоменко Григорий Петрович": 20
+      "gas:candidate-vibid:4614045159596": 11,
+      "gas:candidate-vibid:4614045160769": 3,
+      "gas:candidate-vibid:4614045143478": 95,
+      "gas:candidate-vibid:4614045158891": 169,
+      "gas:candidate-vibid:4614045160315": 2,
+      "gas:candidate-vibid:4614045160268": 2,
+      "gas:candidate-vibid:4614045160434": 5,
+      "gas:candidate-vibid:4614045159562": 362,
+      "gas:candidate-vibid:4614045159516": 20
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/rostov?action=show&root=1000198&tvd=26120001455434&vrn=100100067795849&region=61&global=&sub_region=61&prver=0&pronetvd=null&vibid=26120001455434&type=464",
@@ -6651,15 +6651,15 @@ export const duma_2016_uik_463_region_61_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Волков Павел Николаевич": 0,
-      "Волощук Вячеслав Александрович": 0,
-      "Иванов Сергей Владимирович": 3,
-      "Котляров Анатолий Александрович": 2,
-      "Крылов Станислав Игоревич": 0,
-      "Мусиенко Александр Анатольевич": 0,
-      "Новиков Сергей Николаевич": 1,
-      "Тутова Лариса Николаевна": 501,
-      "Фоменко Григорий Петрович": 5
+      "gas:candidate-vibid:4614045159596": 0,
+      "gas:candidate-vibid:4614045160769": 0,
+      "gas:candidate-vibid:4614045143478": 3,
+      "gas:candidate-vibid:4614045158891": 2,
+      "gas:candidate-vibid:4614045160315": 0,
+      "gas:candidate-vibid:4614045160268": 0,
+      "gas:candidate-vibid:4614045160434": 1,
+      "gas:candidate-vibid:4614045159562": 501,
+      "gas:candidate-vibid:4614045159516": 5
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/rostov?action=show&root=1000198&tvd=26120001455434&vrn=100100067795849&region=61&global=&sub_region=61&prver=0&pronetvd=null&vibid=26120001455434&type=464",
@@ -6710,15 +6710,15 @@ export const duma_2016_uik_463_region_61_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Волков Павел Николаевич": 25,
-      "Волощук Вячеслав Александрович": 19,
-      "Иванов Сергей Владимирович": 49,
-      "Котляров Анатолий Александрович": 58,
-      "Крылов Станислав Игоревич": 14,
-      "Мусиенко Александр Анатольевич": 10,
-      "Новиков Сергей Николаевич": 11,
-      "Тутова Лариса Николаевна": 772,
-      "Фоменко Григорий Петрович": 164
+      "gas:candidate-vibid:4614045159596": 25,
+      "gas:candidate-vibid:4614045160769": 19,
+      "gas:candidate-vibid:4614045143478": 49,
+      "gas:candidate-vibid:4614045158891": 58,
+      "gas:candidate-vibid:4614045160315": 14,
+      "gas:candidate-vibid:4614045160268": 10,
+      "gas:candidate-vibid:4614045160434": 11,
+      "gas:candidate-vibid:4614045159562": 772,
+      "gas:candidate-vibid:4614045159516": 164
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/rostov?action=show&root=1000198&tvd=26120001455434&vrn=100100067795849&region=61&global=&sub_region=61&prver=0&pronetvd=null&vibid=26120001455434&type=464",
@@ -6769,15 +6769,15 @@ export const duma_2016_uik_463_region_61_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Волков Павел Николаевич": 24,
-      "Волощук Вячеслав Александрович": 8,
-      "Иванов Сергей Владимирович": 68,
-      "Котляров Анатолий Александрович": 55,
-      "Крылов Станислав Игоревич": 9,
-      "Мусиенко Александр Анатольевич": 17,
-      "Новиков Сергей Николаевич": 7,
-      "Тутова Лариса Николаевна": 574,
-      "Фоменко Григорий Петрович": 48
+      "gas:candidate-vibid:4614045159596": 24,
+      "gas:candidate-vibid:4614045160769": 8,
+      "gas:candidate-vibid:4614045143478": 68,
+      "gas:candidate-vibid:4614045158891": 55,
+      "gas:candidate-vibid:4614045160315": 9,
+      "gas:candidate-vibid:4614045160268": 17,
+      "gas:candidate-vibid:4614045160434": 7,
+      "gas:candidate-vibid:4614045159562": 574,
+      "gas:candidate-vibid:4614045159516": 48
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/rostov?action=show&root=1000198&tvd=26120001455434&vrn=100100067795849&region=61&global=&sub_region=61&prver=0&pronetvd=null&vibid=26120001455434&type=464",
@@ -6828,15 +6828,15 @@ export const duma_2016_uik_463_region_61_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Волков Павел Николаевич": 17,
-      "Волощук Вячеслав Александрович": 6,
-      "Иванов Сергей Владимирович": 43,
-      "Котляров Анатолий Александрович": 68,
-      "Крылов Станислав Игоревич": 4,
-      "Мусиенко Александр Анатольевич": 9,
-      "Новиков Сергей Николаевич": 2,
-      "Тутова Лариса Николаевна": 642,
-      "Фоменко Григорий Петрович": 98
+      "gas:candidate-vibid:4614045159596": 17,
+      "gas:candidate-vibid:4614045160769": 6,
+      "gas:candidate-vibid:4614045143478": 43,
+      "gas:candidate-vibid:4614045158891": 68,
+      "gas:candidate-vibid:4614045160315": 4,
+      "gas:candidate-vibid:4614045160268": 9,
+      "gas:candidate-vibid:4614045160434": 2,
+      "gas:candidate-vibid:4614045159562": 642,
+      "gas:candidate-vibid:4614045159516": 98
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/rostov?action=show&root=1000198&tvd=26120001455434&vrn=100100067795849&region=61&global=&sub_region=61&prver=0&pronetvd=null&vibid=26120001455434&type=464",
@@ -6887,15 +6887,15 @@ export const duma_2016_uik_463_region_61_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Волков Павел Николаевич": 20,
-      "Волощук Вячеслав Александрович": 12,
-      "Иванов Сергей Владимирович": 55,
-      "Котляров Анатолий Александрович": 53,
-      "Крылов Станислав Игоревич": 13,
-      "Мусиенко Александр Анатольевич": 27,
-      "Новиков Сергей Николаевич": 13,
-      "Тутова Лариса Николаевна": 1392,
-      "Фоменко Григорий Петрович": 103
+      "gas:candidate-vibid:4614045159596": 20,
+      "gas:candidate-vibid:4614045160769": 12,
+      "gas:candidate-vibid:4614045143478": 55,
+      "gas:candidate-vibid:4614045158891": 53,
+      "gas:candidate-vibid:4614045160315": 13,
+      "gas:candidate-vibid:4614045160268": 27,
+      "gas:candidate-vibid:4614045160434": 13,
+      "gas:candidate-vibid:4614045159562": 1392,
+      "gas:candidate-vibid:4614045159516": 103
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/rostov?action=show&root=1000198&tvd=26120001455434&vrn=100100067795849&region=61&global=&sub_region=61&prver=0&pronetvd=null&vibid=26120001455434&type=464",
@@ -6946,15 +6946,15 @@ export const duma_2016_uik_463_region_61_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Волков Павел Николаевич": 27,
-      "Волощук Вячеслав Александрович": 9,
-      "Иванов Сергей Владимирович": 103,
-      "Котляров Анатолий Александрович": 106,
-      "Крылов Станислав Игоревич": 8,
-      "Мусиенко Александр Анатольевич": 22,
-      "Новиков Сергей Николаевич": 5,
-      "Тутова Лариса Николаевна": 561,
-      "Фоменко Григорий Петрович": 107
+      "gas:candidate-vibid:4614045159596": 27,
+      "gas:candidate-vibid:4614045160769": 9,
+      "gas:candidate-vibid:4614045143478": 103,
+      "gas:candidate-vibid:4614045158891": 106,
+      "gas:candidate-vibid:4614045160315": 8,
+      "gas:candidate-vibid:4614045160268": 22,
+      "gas:candidate-vibid:4614045160434": 5,
+      "gas:candidate-vibid:4614045159562": 561,
+      "gas:candidate-vibid:4614045159516": 107
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/rostov?action=show&root=1000198&tvd=26120001455434&vrn=100100067795849&region=61&global=&sub_region=61&prver=0&pronetvd=null&vibid=26120001455434&type=464",
@@ -7005,15 +7005,15 @@ export const duma_2016_uik_463_region_61_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Волков Павел Николаевич": 33,
-      "Волощук Вячеслав Александрович": 10,
-      "Иванов Сергей Владимирович": 102,
-      "Котляров Анатолий Александрович": 68,
-      "Крылов Станислав Игоревич": 11,
-      "Мусиенко Александр Анатольевич": 20,
-      "Новиков Сергей Николаевич": 6,
-      "Тутова Лариса Николаевна": 354,
-      "Фоменко Григорий Петрович": 107
+      "gas:candidate-vibid:4614045159596": 33,
+      "gas:candidate-vibid:4614045160769": 10,
+      "gas:candidate-vibid:4614045143478": 102,
+      "gas:candidate-vibid:4614045158891": 68,
+      "gas:candidate-vibid:4614045160315": 11,
+      "gas:candidate-vibid:4614045160268": 20,
+      "gas:candidate-vibid:4614045160434": 6,
+      "gas:candidate-vibid:4614045159562": 354,
+      "gas:candidate-vibid:4614045159516": 107
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/rostov?action=show&root=1000198&tvd=26120001455434&vrn=100100067795849&region=61&global=&sub_region=61&prver=0&pronetvd=null&vibid=26120001455434&type=464",
@@ -7064,15 +7064,15 @@ export const duma_2016_uik_463_region_61_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Волков Павел Николаевич": 37,
-      "Волощук Вячеслав Александрович": 17,
-      "Иванов Сергей Владимирович": 116,
-      "Котляров Анатолий Александрович": 99,
-      "Крылов Станислав Игоревич": 18,
-      "Мусиенко Александр Анатольевич": 31,
-      "Новиков Сергей Николаевич": 14,
-      "Тутова Лариса Николаевна": 283,
-      "Фоменко Григорий Петрович": 106
+      "gas:candidate-vibid:4614045159596": 37,
+      "gas:candidate-vibid:4614045160769": 17,
+      "gas:candidate-vibid:4614045143478": 116,
+      "gas:candidate-vibid:4614045158891": 99,
+      "gas:candidate-vibid:4614045160315": 18,
+      "gas:candidate-vibid:4614045160268": 31,
+      "gas:candidate-vibid:4614045160434": 14,
+      "gas:candidate-vibid:4614045159562": 283,
+      "gas:candidate-vibid:4614045159516": 106
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/rostov?action=show&root=1000198&tvd=26120001455434&vrn=100100067795849&region=61&global=&sub_region=61&prver=0&pronetvd=null&vibid=26120001455434&type=464",
@@ -7123,15 +7123,15 @@ export const duma_2016_uik_463_region_61_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Волков Павел Николаевич": 39,
-      "Волощук Вячеслав Александрович": 9,
-      "Иванов Сергей Владимирович": 73,
-      "Котляров Анатолий Александрович": 88,
-      "Крылов Станислав Игоревич": 9,
-      "Мусиенко Александр Анатольевич": 20,
-      "Новиков Сергей Николаевич": 2,
-      "Тутова Лариса Николаевна": 541,
-      "Фоменко Григорий Петрович": 140
+      "gas:candidate-vibid:4614045159596": 39,
+      "gas:candidate-vibid:4614045160769": 9,
+      "gas:candidate-vibid:4614045143478": 73,
+      "gas:candidate-vibid:4614045158891": 88,
+      "gas:candidate-vibid:4614045160315": 9,
+      "gas:candidate-vibid:4614045160268": 20,
+      "gas:candidate-vibid:4614045160434": 2,
+      "gas:candidate-vibid:4614045159562": 541,
+      "gas:candidate-vibid:4614045159516": 140
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/rostov?action=show&root=1000198&tvd=26120001455434&vrn=100100067795849&region=61&global=&sub_region=61&prver=0&pronetvd=null&vibid=26120001455434&type=464",
@@ -7182,15 +7182,15 @@ export const duma_2016_uik_463_region_61_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Волков Павел Николаевич": 11,
-      "Волощук Вячеслав Александрович": 6,
-      "Иванов Сергей Владимирович": 33,
-      "Котляров Анатолий Александрович": 123,
-      "Крылов Станислав Игоревич": 7,
-      "Мусиенко Александр Анатольевич": 7,
-      "Новиков Сергей Николаевич": 4,
-      "Тутова Лариса Николаевна": 648,
-      "Фоменко Григорий Петрович": 202
+      "gas:candidate-vibid:4614045159596": 11,
+      "gas:candidate-vibid:4614045160769": 6,
+      "gas:candidate-vibid:4614045143478": 33,
+      "gas:candidate-vibid:4614045158891": 123,
+      "gas:candidate-vibid:4614045160315": 7,
+      "gas:candidate-vibid:4614045160268": 7,
+      "gas:candidate-vibid:4614045160434": 4,
+      "gas:candidate-vibid:4614045159562": 648,
+      "gas:candidate-vibid:4614045159516": 202
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/rostov?action=show&root=1000198&tvd=26120001455434&vrn=100100067795849&region=61&global=&sub_region=61&prver=0&pronetvd=null&vibid=26120001455434&type=464",
@@ -7241,15 +7241,15 @@ export const duma_2016_uik_463_region_61_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Волков Павел Николаевич": 34,
-      "Волощук Вячеслав Александрович": 2,
-      "Иванов Сергей Владимирович": 80,
-      "Котляров Анатолий Александрович": 123,
-      "Крылов Станислав Игоревич": 13,
-      "Мусиенко Александр Анатольевич": 23,
-      "Новиков Сергей Николаевич": 15,
-      "Тутова Лариса Николаевна": 292,
-      "Фоменко Григорий Петрович": 77
+      "gas:candidate-vibid:4614045159596": 34,
+      "gas:candidate-vibid:4614045160769": 2,
+      "gas:candidate-vibid:4614045143478": 80,
+      "gas:candidate-vibid:4614045158891": 123,
+      "gas:candidate-vibid:4614045160315": 13,
+      "gas:candidate-vibid:4614045160268": 23,
+      "gas:candidate-vibid:4614045160434": 15,
+      "gas:candidate-vibid:4614045159562": 292,
+      "gas:candidate-vibid:4614045159516": 77
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/rostov?action=show&root=1000198&tvd=26120001455434&vrn=100100067795849&region=61&global=&sub_region=61&prver=0&pronetvd=null&vibid=26120001455434&type=464",
@@ -7300,15 +7300,15 @@ export const duma_2016_uik_463_region_61_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Волков Павел Николаевич": 43,
-      "Волощук Вячеслав Александрович": 9,
-      "Иванов Сергей Владимирович": 155,
-      "Котляров Анатолий Александрович": 121,
-      "Крылов Станислав Игоревич": 13,
-      "Мусиенко Александр Анатольевич": 30,
-      "Новиков Сергей Николаевич": 13,
-      "Тутова Лариса Николаевна": 301,
-      "Фоменко Григорий Петрович": 130
+      "gas:candidate-vibid:4614045159596": 43,
+      "gas:candidate-vibid:4614045160769": 9,
+      "gas:candidate-vibid:4614045143478": 155,
+      "gas:candidate-vibid:4614045158891": 121,
+      "gas:candidate-vibid:4614045160315": 13,
+      "gas:candidate-vibid:4614045160268": 30,
+      "gas:candidate-vibid:4614045160434": 13,
+      "gas:candidate-vibid:4614045159562": 301,
+      "gas:candidate-vibid:4614045159516": 130
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/rostov?action=show&root=1000198&tvd=26120001455434&vrn=100100067795849&region=61&global=&sub_region=61&prver=0&pronetvd=null&vibid=26120001455434&type=464",
@@ -7359,15 +7359,15 @@ export const duma_2016_uik_463_region_61_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Волков Павел Николаевич": 33,
-      "Волощук Вячеслав Александрович": 11,
-      "Иванов Сергей Владимирович": 121,
-      "Котляров Анатолий Александрович": 70,
-      "Крылов Станислав Игоревич": 17,
-      "Мусиенко Александр Анатольевич": 29,
-      "Новиков Сергей Николаевич": 15,
-      "Тутова Лариса Николаевна": 347,
-      "Фоменко Григорий Петрович": 138
+      "gas:candidate-vibid:4614045159596": 33,
+      "gas:candidate-vibid:4614045160769": 11,
+      "gas:candidate-vibid:4614045143478": 121,
+      "gas:candidate-vibid:4614045158891": 70,
+      "gas:candidate-vibid:4614045160315": 17,
+      "gas:candidate-vibid:4614045160268": 29,
+      "gas:candidate-vibid:4614045160434": 15,
+      "gas:candidate-vibid:4614045159562": 347,
+      "gas:candidate-vibid:4614045159516": 138
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/rostov?action=show&root=1000198&tvd=26120001455434&vrn=100100067795849&region=61&global=&sub_region=61&prver=0&pronetvd=null&vibid=26120001455434&type=464",
@@ -7418,15 +7418,15 @@ export const duma_2016_uik_463_region_61_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Волков Павел Николаевич": 30,
-      "Волощук Вячеслав Александрович": 8,
-      "Иванов Сергей Владимирович": 149,
-      "Котляров Анатолий Александрович": 105,
-      "Крылов Станислав Игоревич": 18,
-      "Мусиенко Александр Анатольевич": 21,
-      "Новиков Сергей Николаевич": 13,
-      "Тутова Лариса Николаевна": 312,
-      "Фоменко Григорий Петрович": 109
+      "gas:candidate-vibid:4614045159596": 30,
+      "gas:candidate-vibid:4614045160769": 8,
+      "gas:candidate-vibid:4614045143478": 149,
+      "gas:candidate-vibid:4614045158891": 105,
+      "gas:candidate-vibid:4614045160315": 18,
+      "gas:candidate-vibid:4614045160268": 21,
+      "gas:candidate-vibid:4614045160434": 13,
+      "gas:candidate-vibid:4614045159562": 312,
+      "gas:candidate-vibid:4614045159516": 109
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/rostov?action=show&root=1000198&tvd=26120001455434&vrn=100100067795849&region=61&global=&sub_region=61&prver=0&pronetvd=null&vibid=26120001455434&type=464",
@@ -7477,15 +7477,15 @@ export const duma_2016_uik_463_region_61_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Волков Павел Николаевич": 22,
-      "Волощук Вячеслав Александрович": 7,
-      "Иванов Сергей Владимирович": 88,
-      "Котляров Анатолий Александрович": 66,
-      "Крылов Станислав Игоревич": 5,
-      "Мусиенко Александр Анатольевич": 19,
-      "Новиков Сергей Николаевич": 9,
-      "Тутова Лариса Николаевна": 717,
-      "Фоменко Григорий Петрович": 108
+      "gas:candidate-vibid:4614045159596": 22,
+      "gas:candidate-vibid:4614045160769": 7,
+      "gas:candidate-vibid:4614045143478": 88,
+      "gas:candidate-vibid:4614045158891": 66,
+      "gas:candidate-vibid:4614045160315": 5,
+      "gas:candidate-vibid:4614045160268": 19,
+      "gas:candidate-vibid:4614045160434": 9,
+      "gas:candidate-vibid:4614045159562": 717,
+      "gas:candidate-vibid:4614045159516": 108
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/rostov?action=show&root=1000198&tvd=26120001455434&vrn=100100067795849&region=61&global=&sub_region=61&prver=0&pronetvd=null&vibid=26120001455434&type=464",
@@ -7536,15 +7536,15 @@ export const duma_2016_uik_463_region_61_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Волков Павел Николаевич": 25,
-      "Волощук Вячеслав Александрович": 13,
-      "Иванов Сергей Владимирович": 74,
-      "Котляров Анатолий Александрович": 65,
-      "Крылов Станислав Игоревич": 16,
-      "Мусиенко Александр Анатольевич": 24,
-      "Новиков Сергей Николаевич": 16,
-      "Тутова Лариса Николаевна": 782,
-      "Фоменко Григорий Петрович": 81
+      "gas:candidate-vibid:4614045159596": 25,
+      "gas:candidate-vibid:4614045160769": 13,
+      "gas:candidate-vibid:4614045143478": 74,
+      "gas:candidate-vibid:4614045158891": 65,
+      "gas:candidate-vibid:4614045160315": 16,
+      "gas:candidate-vibid:4614045160268": 24,
+      "gas:candidate-vibid:4614045160434": 16,
+      "gas:candidate-vibid:4614045159562": 782,
+      "gas:candidate-vibid:4614045159516": 81
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/rostov?action=show&root=1000198&tvd=26120001455434&vrn=100100067795849&region=61&global=&sub_region=61&prver=0&pronetvd=null&vibid=26120001455434&type=464",
@@ -7595,15 +7595,15 @@ export const duma_2016_uik_463_region_61_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Волков Павел Николаевич": 8,
-      "Волощук Вячеслав Александрович": 1,
-      "Иванов Сергей Владимирович": 36,
-      "Котляров Анатолий Александрович": 14,
-      "Крылов Станислав Игоревич": 3,
-      "Мусиенко Александр Анатольевич": 2,
-      "Новиков Сергей Николаевич": 1,
-      "Тутова Лариса Николаевна": 442,
-      "Фоменко Григорий Петрович": 46
+      "gas:candidate-vibid:4614045159596": 8,
+      "gas:candidate-vibid:4614045160769": 1,
+      "gas:candidate-vibid:4614045143478": 36,
+      "gas:candidate-vibid:4614045158891": 14,
+      "gas:candidate-vibid:4614045160315": 3,
+      "gas:candidate-vibid:4614045160268": 2,
+      "gas:candidate-vibid:4614045160434": 1,
+      "gas:candidate-vibid:4614045159562": 442,
+      "gas:candidate-vibid:4614045159516": 46
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/rostov?action=show&root=1000198&tvd=26120001455434&vrn=100100067795849&region=61&global=&sub_region=61&prver=0&pronetvd=null&vibid=26120001455434&type=464",
@@ -7654,15 +7654,15 @@ export const duma_2016_uik_463_region_61_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Волков Павел Николаевич": 26,
-      "Волощук Вячеслав Александрович": 7,
-      "Иванов Сергей Владимирович": 90,
-      "Котляров Анатолий Александрович": 67,
-      "Крылов Станислав Игоревич": 19,
-      "Мусиенко Александр Анатольевич": 60,
-      "Новиков Сергей Николаевич": 16,
-      "Тутова Лариса Николаевна": 328,
-      "Фоменко Григорий Петрович": 113
+      "gas:candidate-vibid:4614045159596": 26,
+      "gas:candidate-vibid:4614045160769": 7,
+      "gas:candidate-vibid:4614045143478": 90,
+      "gas:candidate-vibid:4614045158891": 67,
+      "gas:candidate-vibid:4614045160315": 19,
+      "gas:candidate-vibid:4614045160268": 60,
+      "gas:candidate-vibid:4614045160434": 16,
+      "gas:candidate-vibid:4614045159562": 328,
+      "gas:candidate-vibid:4614045159516": 113
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/rostov?action=show&root=1000198&tvd=26120001455435&vrn=100100067795849&region=61&global=&sub_region=61&prver=0&pronetvd=null&vibid=26120001455435&type=464",
@@ -7713,15 +7713,15 @@ export const duma_2016_uik_463_region_61_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Волков Павел Николаевич": 33,
-      "Волощук Вячеслав Александрович": 16,
-      "Иванов Сергей Владимирович": 92,
-      "Котляров Анатолий Александрович": 72,
-      "Крылов Станислав Игоревич": 18,
-      "Мусиенко Александр Анатольевич": 68,
-      "Новиков Сергей Николаевич": 20,
-      "Тутова Лариса Николаевна": 533,
-      "Фоменко Григорий Петрович": 110
+      "gas:candidate-vibid:4614045159596": 33,
+      "gas:candidate-vibid:4614045160769": 16,
+      "gas:candidate-vibid:4614045143478": 92,
+      "gas:candidate-vibid:4614045158891": 72,
+      "gas:candidate-vibid:4614045160315": 18,
+      "gas:candidate-vibid:4614045160268": 68,
+      "gas:candidate-vibid:4614045160434": 20,
+      "gas:candidate-vibid:4614045159562": 533,
+      "gas:candidate-vibid:4614045159516": 110
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/rostov?action=show&root=1000198&tvd=26120001455435&vrn=100100067795849&region=61&global=&sub_region=61&prver=0&pronetvd=null&vibid=26120001455435&type=464",
@@ -7772,15 +7772,15 @@ export const duma_2016_uik_463_region_61_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Волков Павел Николаевич": 18,
-      "Волощук Вячеслав Александрович": 22,
-      "Иванов Сергей Владимирович": 52,
-      "Котляров Анатолий Александрович": 32,
-      "Крылов Станислав Игоревич": 8,
-      "Мусиенко Александр Анатольевич": 29,
-      "Новиков Сергей Николаевич": 11,
-      "Тутова Лариса Николаевна": 594,
-      "Фоменко Григорий Петрович": 124
+      "gas:candidate-vibid:4614045159596": 18,
+      "gas:candidate-vibid:4614045160769": 22,
+      "gas:candidate-vibid:4614045143478": 52,
+      "gas:candidate-vibid:4614045158891": 32,
+      "gas:candidate-vibid:4614045160315": 8,
+      "gas:candidate-vibid:4614045160268": 29,
+      "gas:candidate-vibid:4614045160434": 11,
+      "gas:candidate-vibid:4614045159562": 594,
+      "gas:candidate-vibid:4614045159516": 124
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/rostov?action=show&root=1000198&tvd=26120001455435&vrn=100100067795849&region=61&global=&sub_region=61&prver=0&pronetvd=null&vibid=26120001455435&type=464",
@@ -7831,15 +7831,15 @@ export const duma_2016_uik_463_region_61_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Волков Павел Николаевич": 29,
-      "Волощук Вячеслав Александрович": 13,
-      "Иванов Сергей Владимирович": 99,
-      "Котляров Анатолий Александрович": 49,
-      "Крылов Станислав Игоревич": 18,
-      "Мусиенко Александр Анатольевич": 68,
-      "Новиков Сергей Николаевич": 16,
-      "Тутова Лариса Николаевна": 551,
-      "Фоменко Григорий Петрович": 109
+      "gas:candidate-vibid:4614045159596": 29,
+      "gas:candidate-vibid:4614045160769": 13,
+      "gas:candidate-vibid:4614045143478": 99,
+      "gas:candidate-vibid:4614045158891": 49,
+      "gas:candidate-vibid:4614045160315": 18,
+      "gas:candidate-vibid:4614045160268": 68,
+      "gas:candidate-vibid:4614045160434": 16,
+      "gas:candidate-vibid:4614045159562": 551,
+      "gas:candidate-vibid:4614045159516": 109
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/rostov?action=show&root=1000198&tvd=26120001455435&vrn=100100067795849&region=61&global=&sub_region=61&prver=0&pronetvd=null&vibid=26120001455435&type=464",
@@ -7890,15 +7890,15 @@ export const duma_2016_uik_463_region_61_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Волков Павел Николаевич": 12,
-      "Волощук Вячеслав Александрович": 3,
-      "Иванов Сергей Владимирович": 75,
-      "Котляров Анатолий Александрович": 47,
-      "Крылов Станислав Игоревич": 19,
-      "Мусиенко Александр Анатольевич": 39,
-      "Новиков Сергей Николаевич": 8,
-      "Тутова Лариса Николаевна": 509,
-      "Фоменко Григорий Петрович": 109
+      "gas:candidate-vibid:4614045159596": 12,
+      "gas:candidate-vibid:4614045160769": 3,
+      "gas:candidate-vibid:4614045143478": 75,
+      "gas:candidate-vibid:4614045158891": 47,
+      "gas:candidate-vibid:4614045160315": 19,
+      "gas:candidate-vibid:4614045160268": 39,
+      "gas:candidate-vibid:4614045160434": 8,
+      "gas:candidate-vibid:4614045159562": 509,
+      "gas:candidate-vibid:4614045159516": 109
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/rostov?action=show&root=1000198&tvd=26120001455435&vrn=100100067795849&region=61&global=&sub_region=61&prver=0&pronetvd=null&vibid=26120001455435&type=464",
@@ -7949,15 +7949,15 @@ export const duma_2016_uik_463_region_61_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Волков Павел Николаевич": 30,
-      "Волощук Вячеслав Александрович": 6,
-      "Иванов Сергей Владимирович": 85,
-      "Котляров Анатолий Александрович": 80,
-      "Крылов Станислав Игоревич": 29,
-      "Мусиенко Александр Анатольевич": 56,
-      "Новиков Сергей Николаевич": 15,
-      "Тутова Лариса Николаевна": 908,
-      "Фоменко Григорий Петрович": 122
+      "gas:candidate-vibid:4614045159596": 30,
+      "gas:candidate-vibid:4614045160769": 6,
+      "gas:candidate-vibid:4614045143478": 85,
+      "gas:candidate-vibid:4614045158891": 80,
+      "gas:candidate-vibid:4614045160315": 29,
+      "gas:candidate-vibid:4614045160268": 56,
+      "gas:candidate-vibid:4614045160434": 15,
+      "gas:candidate-vibid:4614045159562": 908,
+      "gas:candidate-vibid:4614045159516": 122
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/rostov?action=show&root=1000198&tvd=26120001455435&vrn=100100067795849&region=61&global=&sub_region=61&prver=0&pronetvd=null&vibid=26120001455435&type=464",
@@ -8008,15 +8008,15 @@ export const duma_2016_uik_463_region_61_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Волков Павел Николаевич": 18,
-      "Волощук Вячеслав Александрович": 3,
-      "Иванов Сергей Владимирович": 80,
-      "Котляров Анатолий Александрович": 23,
-      "Крылов Станислав Игоревич": 20,
-      "Мусиенко Александр Анатольевич": 33,
-      "Новиков Сергей Николаевич": 15,
-      "Тутова Лариса Николаевна": 662,
-      "Фоменко Григорий Петрович": 82
+      "gas:candidate-vibid:4614045159596": 18,
+      "gas:candidate-vibid:4614045160769": 3,
+      "gas:candidate-vibid:4614045143478": 80,
+      "gas:candidate-vibid:4614045158891": 23,
+      "gas:candidate-vibid:4614045160315": 20,
+      "gas:candidate-vibid:4614045160268": 33,
+      "gas:candidate-vibid:4614045160434": 15,
+      "gas:candidate-vibid:4614045159562": 662,
+      "gas:candidate-vibid:4614045159516": 82
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/rostov?action=show&root=1000198&tvd=26120001455435&vrn=100100067795849&region=61&global=&sub_region=61&prver=0&pronetvd=null&vibid=26120001455435&type=464",
@@ -8067,15 +8067,15 @@ export const duma_2016_uik_463_region_61_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Волков Павел Николаевич": 16,
-      "Волощук Вячеслав Александрович": 19,
-      "Иванов Сергей Владимирович": 48,
-      "Котляров Анатолий Александрович": 28,
-      "Крылов Станислав Игоревич": 9,
-      "Мусиенко Александр Анатольевич": 27,
-      "Новиков Сергей Николаевич": 10,
-      "Тутова Лариса Николаевна": 497,
-      "Фоменко Григорий Петрович": 110
+      "gas:candidate-vibid:4614045159596": 16,
+      "gas:candidate-vibid:4614045160769": 19,
+      "gas:candidate-vibid:4614045143478": 48,
+      "gas:candidate-vibid:4614045158891": 28,
+      "gas:candidate-vibid:4614045160315": 9,
+      "gas:candidate-vibid:4614045160268": 27,
+      "gas:candidate-vibid:4614045160434": 10,
+      "gas:candidate-vibid:4614045159562": 497,
+      "gas:candidate-vibid:4614045159516": 110
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/rostov?action=show&root=1000198&tvd=26120001455435&vrn=100100067795849&region=61&global=&sub_region=61&prver=0&pronetvd=null&vibid=26120001455435&type=464",
@@ -8126,15 +8126,15 @@ export const duma_2016_uik_463_region_61_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Волков Павел Николаевич": 17,
-      "Волощук Вячеслав Александрович": 20,
-      "Иванов Сергей Владимирович": 51,
-      "Котляров Анатолий Александрович": 30,
-      "Крылов Станислав Игоревич": 9,
-      "Мусиенко Александр Анатольевич": 28,
-      "Новиков Сергей Николаевич": 10,
-      "Тутова Лариса Николаевна": 544,
-      "Фоменко Григорий Петрович": 115
+      "gas:candidate-vibid:4614045159596": 17,
+      "gas:candidate-vibid:4614045160769": 20,
+      "gas:candidate-vibid:4614045143478": 51,
+      "gas:candidate-vibid:4614045158891": 30,
+      "gas:candidate-vibid:4614045160315": 9,
+      "gas:candidate-vibid:4614045160268": 28,
+      "gas:candidate-vibid:4614045160434": 10,
+      "gas:candidate-vibid:4614045159562": 544,
+      "gas:candidate-vibid:4614045159516": 115
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/rostov?action=show&root=1000198&tvd=26120001455435&vrn=100100067795849&region=61&global=&sub_region=61&prver=0&pronetvd=null&vibid=26120001455435&type=464",
@@ -8185,15 +8185,15 @@ export const duma_2016_uik_463_region_61_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Волков Павел Николаевич": 27,
-      "Волощук Вячеслав Александрович": 33,
-      "Иванов Сергей Владимирович": 85,
-      "Котляров Анатолий Александрович": 49,
-      "Крылов Станислав Игоревич": 16,
-      "Мусиенко Александр Анатольевич": 47,
-      "Новиков Сергей Николаевич": 18,
-      "Тутова Лариса Николаевна": 893,
-      "Фоменко Григорий Петрович": 193
+      "gas:candidate-vibid:4614045159596": 27,
+      "gas:candidate-vibid:4614045160769": 33,
+      "gas:candidate-vibid:4614045143478": 85,
+      "gas:candidate-vibid:4614045158891": 49,
+      "gas:candidate-vibid:4614045160315": 16,
+      "gas:candidate-vibid:4614045160268": 47,
+      "gas:candidate-vibid:4614045160434": 18,
+      "gas:candidate-vibid:4614045159562": 893,
+      "gas:candidate-vibid:4614045159516": 193
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/rostov?action=show&root=1000198&tvd=26120001455435&vrn=100100067795849&region=61&global=&sub_region=61&prver=0&pronetvd=null&vibid=26120001455435&type=464",
@@ -8244,15 +8244,15 @@ export const duma_2016_uik_463_region_61_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Волков Павел Николаевич": 39,
-      "Волощук Вячеслав Александрович": 10,
-      "Иванов Сергей Владимирович": 93,
-      "Котляров Анатолий Александрович": 63,
-      "Крылов Станислав Игоревич": 40,
-      "Мусиенко Александр Анатольевич": 101,
-      "Новиков Сергей Николаевич": 18,
-      "Тутова Лариса Николаевна": 478,
-      "Фоменко Григорий Петрович": 113
+      "gas:candidate-vibid:4614045159596": 39,
+      "gas:candidate-vibid:4614045160769": 10,
+      "gas:candidate-vibid:4614045143478": 93,
+      "gas:candidate-vibid:4614045158891": 63,
+      "gas:candidate-vibid:4614045160315": 40,
+      "gas:candidate-vibid:4614045160268": 101,
+      "gas:candidate-vibid:4614045160434": 18,
+      "gas:candidate-vibid:4614045159562": 478,
+      "gas:candidate-vibid:4614045159516": 113
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/rostov?action=show&root=1000198&tvd=26120001455435&vrn=100100067795849&region=61&global=&sub_region=61&prver=0&pronetvd=null&vibid=26120001455435&type=464",
@@ -8303,15 +8303,15 @@ export const duma_2016_uik_463_region_61_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Волков Павел Николаевич": 25,
-      "Волощук Вячеслав Александрович": 35,
-      "Иванов Сергей Владимирович": 125,
-      "Котляров Анатолий Александрович": 32,
-      "Крылов Станислав Игоревич": 12,
-      "Мусиенко Александр Анатольевич": 27,
-      "Новиков Сергей Николаевич": 7,
-      "Тутова Лариса Николаевна": 1194,
-      "Фоменко Григорий Петрович": 68
+      "gas:candidate-vibid:4614045159596": 25,
+      "gas:candidate-vibid:4614045160769": 35,
+      "gas:candidate-vibid:4614045143478": 125,
+      "gas:candidate-vibid:4614045158891": 32,
+      "gas:candidate-vibid:4614045160315": 12,
+      "gas:candidate-vibid:4614045160268": 27,
+      "gas:candidate-vibid:4614045160434": 7,
+      "gas:candidate-vibid:4614045159562": 1194,
+      "gas:candidate-vibid:4614045159516": 68
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/rostov?action=show&root=1000198&tvd=26120001455435&vrn=100100067795849&region=61&global=&sub_region=61&prver=0&pronetvd=null&vibid=26120001455435&type=464",
@@ -8362,15 +8362,15 @@ export const duma_2016_uik_463_region_61_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Волков Павел Николаевич": 13,
-      "Волощук Вячеслав Александрович": 3,
-      "Иванов Сергей Владимирович": 47,
-      "Котляров Анатолий Александрович": 132,
-      "Крылов Станислав Игоревич": 12,
-      "Мусиенко Александр Анатольевич": 22,
-      "Новиков Сергей Николаевич": 7,
-      "Тутова Лариса Николаевна": 676,
-      "Фоменко Григорий Петрович": 172
+      "gas:candidate-vibid:4614045159596": 13,
+      "gas:candidate-vibid:4614045160769": 3,
+      "gas:candidate-vibid:4614045143478": 47,
+      "gas:candidate-vibid:4614045158891": 132,
+      "gas:candidate-vibid:4614045160315": 12,
+      "gas:candidate-vibid:4614045160268": 22,
+      "gas:candidate-vibid:4614045160434": 7,
+      "gas:candidate-vibid:4614045159562": 676,
+      "gas:candidate-vibid:4614045159516": 172
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/rostov?action=show&root=1000198&tvd=26120001455435&vrn=100100067795849&region=61&global=&sub_region=61&prver=0&pronetvd=null&vibid=26120001455435&type=464",
@@ -8421,15 +8421,15 @@ export const duma_2016_uik_463_region_61_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Волков Павел Николаевич": 27,
-      "Волощук Вячеслав Александрович": 8,
-      "Иванов Сергей Владимирович": 42,
-      "Котляров Анатолий Александрович": 39,
-      "Крылов Станислав Игоревич": 21,
-      "Мусиенко Александр Анатольевич": 55,
-      "Новиков Сергей Николаевич": 9,
-      "Тутова Лариса Николаевна": 252,
-      "Фоменко Григорий Петрович": 82
+      "gas:candidate-vibid:4614045159596": 27,
+      "gas:candidate-vibid:4614045160769": 8,
+      "gas:candidate-vibid:4614045143478": 42,
+      "gas:candidate-vibid:4614045158891": 39,
+      "gas:candidate-vibid:4614045160315": 21,
+      "gas:candidate-vibid:4614045160268": 55,
+      "gas:candidate-vibid:4614045160434": 9,
+      "gas:candidate-vibid:4614045159562": 252,
+      "gas:candidate-vibid:4614045159516": 82
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/rostov?action=show&root=1000198&tvd=26120001455435&vrn=100100067795849&region=61&global=&sub_region=61&prver=0&pronetvd=null&vibid=26120001455435&type=464",
@@ -8480,15 +8480,15 @@ export const duma_2016_uik_463_region_61_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Волков Павел Николаевич": 43,
-      "Волощук Вячеслав Александрович": 11,
-      "Иванов Сергей Владимирович": 97,
-      "Котляров Анатолий Александрович": 77,
-      "Крылов Станислав Игоревич": 27,
-      "Мусиенко Александр Анатольевич": 55,
-      "Новиков Сергей Николаевич": 17,
-      "Тутова Лариса Николаевна": 534,
-      "Фоменко Григорий Петрович": 107
+      "gas:candidate-vibid:4614045159596": 43,
+      "gas:candidate-vibid:4614045160769": 11,
+      "gas:candidate-vibid:4614045143478": 97,
+      "gas:candidate-vibid:4614045158891": 77,
+      "gas:candidate-vibid:4614045160315": 27,
+      "gas:candidate-vibid:4614045160268": 55,
+      "gas:candidate-vibid:4614045160434": 17,
+      "gas:candidate-vibid:4614045159562": 534,
+      "gas:candidate-vibid:4614045159516": 107
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/rostov?action=show&root=1000198&tvd=26120001455435&vrn=100100067795849&region=61&global=&sub_region=61&prver=0&pronetvd=null&vibid=26120001455435&type=464",
@@ -8539,15 +8539,15 @@ export const duma_2016_uik_463_region_61_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Волков Павел Николаевич": 18,
-      "Волощук Вячеслав Александрович": 7,
-      "Иванов Сергей Владимирович": 58,
-      "Котляров Анатолий Александрович": 32,
-      "Крылов Станислав Игоревич": 20,
-      "Мусиенко Александр Анатольевич": 41,
-      "Новиков Сергей Николаевич": 13,
-      "Тутова Лариса Николаевна": 603,
-      "Фоменко Григорий Петрович": 76
+      "gas:candidate-vibid:4614045159596": 18,
+      "gas:candidate-vibid:4614045160769": 7,
+      "gas:candidate-vibid:4614045143478": 58,
+      "gas:candidate-vibid:4614045158891": 32,
+      "gas:candidate-vibid:4614045160315": 20,
+      "gas:candidate-vibid:4614045160268": 41,
+      "gas:candidate-vibid:4614045160434": 13,
+      "gas:candidate-vibid:4614045159562": 603,
+      "gas:candidate-vibid:4614045159516": 76
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/rostov?action=show&root=1000198&tvd=26120001455435&vrn=100100067795849&region=61&global=&sub_region=61&prver=0&pronetvd=null&vibid=26120001455435&type=464",
@@ -8598,15 +8598,15 @@ export const duma_2016_uik_463_region_61_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Волков Павел Николаевич": 24,
-      "Волощук Вячеслав Александрович": 5,
-      "Иванов Сергей Владимирович": 55,
-      "Котляров Анатолий Александрович": 51,
-      "Крылов Станислав Игоревич": 9,
-      "Мусиенко Александр Анатольевич": 18,
-      "Новиков Сергей Николаевич": 12,
-      "Тутова Лариса Николаевна": 379,
-      "Фоменко Григорий Петрович": 56
+      "gas:candidate-vibid:4614045159596": 24,
+      "gas:candidate-vibid:4614045160769": 5,
+      "gas:candidate-vibid:4614045143478": 55,
+      "gas:candidate-vibid:4614045158891": 51,
+      "gas:candidate-vibid:4614045160315": 9,
+      "gas:candidate-vibid:4614045160268": 18,
+      "gas:candidate-vibid:4614045160434": 12,
+      "gas:candidate-vibid:4614045159562": 379,
+      "gas:candidate-vibid:4614045159516": 56
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/rostov?action=show&root=1000198&tvd=26120001455435&vrn=100100067795849&region=61&global=&sub_region=61&prver=0&pronetvd=null&vibid=26120001455435&type=464",
@@ -8657,15 +8657,15 @@ export const duma_2016_uik_463_region_61_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Волков Павел Николаевич": 21,
-      "Волощук Вячеслав Александрович": 7,
-      "Иванов Сергей Владимирович": 74,
-      "Котляров Анатолий Александрович": 48,
-      "Крылов Станислав Игоревич": 14,
-      "Мусиенко Александр Анатольевич": 46,
-      "Новиков Сергей Николаевич": 12,
-      "Тутова Лариса Николаевна": 297,
-      "Фоменко Григорий Петрович": 101
+      "gas:candidate-vibid:4614045159596": 21,
+      "gas:candidate-vibid:4614045160769": 7,
+      "gas:candidate-vibid:4614045143478": 74,
+      "gas:candidate-vibid:4614045158891": 48,
+      "gas:candidate-vibid:4614045160315": 14,
+      "gas:candidate-vibid:4614045160268": 46,
+      "gas:candidate-vibid:4614045160434": 12,
+      "gas:candidate-vibid:4614045159562": 297,
+      "gas:candidate-vibid:4614045159516": 101
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/rostov?action=show&root=1000198&tvd=26120001455435&vrn=100100067795849&region=61&global=&sub_region=61&prver=0&pronetvd=null&vibid=26120001455435&type=464",
@@ -8716,15 +8716,15 @@ export const duma_2016_uik_463_region_61_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Волков Павел Николаевич": 23,
-      "Волощук Вячеслав Александрович": 6,
-      "Иванов Сергей Владимирович": 60,
-      "Котляров Анатолий Александрович": 56,
-      "Крылов Станислав Игоревич": 24,
-      "Мусиенко Александр Анатольевич": 31,
-      "Новиков Сергей Николаевич": 10,
-      "Тутова Лариса Николаевна": 458,
-      "Фоменко Григорий Петрович": 113
+      "gas:candidate-vibid:4614045159596": 23,
+      "gas:candidate-vibid:4614045160769": 6,
+      "gas:candidate-vibid:4614045143478": 60,
+      "gas:candidate-vibid:4614045158891": 56,
+      "gas:candidate-vibid:4614045160315": 24,
+      "gas:candidate-vibid:4614045160268": 31,
+      "gas:candidate-vibid:4614045160434": 10,
+      "gas:candidate-vibid:4614045159562": 458,
+      "gas:candidate-vibid:4614045159516": 113
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/rostov?action=show&root=1000198&tvd=26120001455435&vrn=100100067795849&region=61&global=&sub_region=61&prver=0&pronetvd=null&vibid=26120001455435&type=464",
@@ -8775,15 +8775,15 @@ export const duma_2016_uik_463_region_61_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Волков Павел Николаевич": 39,
-      "Волощук Вячеслав Александрович": 13,
-      "Иванов Сергей Владимирович": 135,
-      "Котляров Анатолий Александрович": 89,
-      "Крылов Станислав Игоревич": 24,
-      "Мусиенко Александр Анатольевич": 82,
-      "Новиков Сергей Николаевич": 20,
-      "Тутова Лариса Николаевна": 504,
-      "Фоменко Григорий Петрович": 149
+      "gas:candidate-vibid:4614045159596": 39,
+      "gas:candidate-vibid:4614045160769": 13,
+      "gas:candidate-vibid:4614045143478": 135,
+      "gas:candidate-vibid:4614045158891": 89,
+      "gas:candidate-vibid:4614045160315": 24,
+      "gas:candidate-vibid:4614045160268": 82,
+      "gas:candidate-vibid:4614045160434": 20,
+      "gas:candidate-vibid:4614045159562": 504,
+      "gas:candidate-vibid:4614045159516": 149
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/rostov?action=show&root=1000198&tvd=26120001455435&vrn=100100067795849&region=61&global=&sub_region=61&prver=0&pronetvd=null&vibid=26120001455435&type=464",
@@ -8834,15 +8834,15 @@ export const duma_2016_uik_463_region_61_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Волков Павел Николаевич": 30,
-      "Волощук Вячеслав Александрович": 8,
-      "Иванов Сергей Владимирович": 61,
-      "Котляров Анатолий Александрович": 48,
-      "Крылов Станислав Игоревич": 17,
-      "Мусиенко Александр Анатольевич": 33,
-      "Новиков Сергей Николаевич": 10,
-      "Тутова Лариса Николаевна": 374,
-      "Фоменко Григорий Петрович": 96
+      "gas:candidate-vibid:4614045159596": 30,
+      "gas:candidate-vibid:4614045160769": 8,
+      "gas:candidate-vibid:4614045143478": 61,
+      "gas:candidate-vibid:4614045158891": 48,
+      "gas:candidate-vibid:4614045160315": 17,
+      "gas:candidate-vibid:4614045160268": 33,
+      "gas:candidate-vibid:4614045160434": 10,
+      "gas:candidate-vibid:4614045159562": 374,
+      "gas:candidate-vibid:4614045159516": 96
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/rostov?action=show&root=1000198&tvd=26120001455435&vrn=100100067795849&region=61&global=&sub_region=61&prver=0&pronetvd=null&vibid=26120001455435&type=464",
@@ -8893,15 +8893,15 @@ export const duma_2016_uik_463_region_61_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Волков Павел Николаевич": 19,
-      "Волощук Вячеслав Александрович": 23,
-      "Иванов Сергей Владимирович": 58,
-      "Котляров Анатолий Александрович": 34,
-      "Крылов Станислав Игоревич": 11,
-      "Мусиенко Александр Анатольевич": 32,
-      "Новиков Сергей Николаевич": 12,
-      "Тутова Лариса Николаевна": 606,
-      "Фоменко Григорий Петрович": 130
+      "gas:candidate-vibid:4614045159596": 19,
+      "gas:candidate-vibid:4614045160769": 23,
+      "gas:candidate-vibid:4614045143478": 58,
+      "gas:candidate-vibid:4614045158891": 34,
+      "gas:candidate-vibid:4614045160315": 11,
+      "gas:candidate-vibid:4614045160268": 32,
+      "gas:candidate-vibid:4614045160434": 12,
+      "gas:candidate-vibid:4614045159562": 606,
+      "gas:candidate-vibid:4614045159516": 130
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/rostov?action=show&root=1000198&tvd=26120001455435&vrn=100100067795849&region=61&global=&sub_region=61&prver=0&pronetvd=null&vibid=26120001455435&type=464",
@@ -8952,15 +8952,15 @@ export const duma_2016_uik_463_region_61_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Волков Павел Николаевич": 12,
-      "Волощук Вячеслав Александрович": 8,
-      "Иванов Сергей Владимирович": 40,
-      "Котляров Анатолий Александрович": 25,
-      "Крылов Станислав Игоревич": 6,
-      "Мусиенко Александр Анатольевич": 29,
-      "Новиков Сергей Николаевич": 13,
-      "Тутова Лариса Николаевна": 394,
-      "Фоменко Григорий Петрович": 51
+      "gas:candidate-vibid:4614045159596": 12,
+      "gas:candidate-vibid:4614045160769": 8,
+      "gas:candidate-vibid:4614045143478": 40,
+      "gas:candidate-vibid:4614045158891": 25,
+      "gas:candidate-vibid:4614045160315": 6,
+      "gas:candidate-vibid:4614045160268": 29,
+      "gas:candidate-vibid:4614045160434": 13,
+      "gas:candidate-vibid:4614045159562": 394,
+      "gas:candidate-vibid:4614045159516": 51
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/rostov?action=show&root=1000198&tvd=26120001455435&vrn=100100067795849&region=61&global=&sub_region=61&prver=0&pronetvd=null&vibid=26120001455435&type=464",
@@ -9011,15 +9011,15 @@ export const duma_2016_uik_463_region_61_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Волков Павел Николаевич": 28,
-      "Волощук Вячеслав Александрович": 1,
-      "Иванов Сергей Владимирович": 86,
-      "Котляров Анатолий Александрович": 52,
-      "Крылов Станислав Игоревич": 10,
-      "Мусиенко Александр Анатольевич": 23,
-      "Новиков Сергей Николаевич": 13,
-      "Тутова Лариса Николаевна": 633,
-      "Фоменко Григорий Петрович": 77
+      "gas:candidate-vibid:4614045159596": 28,
+      "gas:candidate-vibid:4614045160769": 1,
+      "gas:candidate-vibid:4614045143478": 86,
+      "gas:candidate-vibid:4614045158891": 52,
+      "gas:candidate-vibid:4614045160315": 10,
+      "gas:candidate-vibid:4614045160268": 23,
+      "gas:candidate-vibid:4614045160434": 13,
+      "gas:candidate-vibid:4614045159562": 633,
+      "gas:candidate-vibid:4614045159516": 77
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/rostov?action=show&root=1000198&tvd=26120001455435&vrn=100100067795849&region=61&global=&sub_region=61&prver=0&pronetvd=null&vibid=26120001455435&type=464",
@@ -9070,15 +9070,15 @@ export const duma_2016_uik_463_region_61_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Волков Павел Николаевич": 2,
-      "Волощук Вячеслав Александрович": 0,
-      "Иванов Сергей Владимирович": 4,
-      "Котляров Анатолий Александрович": 0,
-      "Крылов Станислав Игоревич": 2,
-      "Мусиенко Александр Анатольевич": 2,
-      "Новиков Сергей Николаевич": 0,
-      "Тутова Лариса Николаевна": 319,
-      "Фоменко Григорий Петрович": 1
+      "gas:candidate-vibid:4614045159596": 2,
+      "gas:candidate-vibid:4614045160769": 0,
+      "gas:candidate-vibid:4614045143478": 4,
+      "gas:candidate-vibid:4614045158891": 0,
+      "gas:candidate-vibid:4614045160315": 2,
+      "gas:candidate-vibid:4614045160268": 2,
+      "gas:candidate-vibid:4614045160434": 0,
+      "gas:candidate-vibid:4614045159562": 319,
+      "gas:candidate-vibid:4614045159516": 1
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/rostov?action=show&root=1000198&tvd=26120001455435&vrn=100100067795849&region=61&global=&sub_region=61&prver=0&pronetvd=null&vibid=26120001455435&type=464",
@@ -9129,15 +9129,15 @@ export const duma_2016_uik_463_region_61_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Волков Павел Николаевич": 4,
-      "Волощук Вячеслав Александрович": 2,
-      "Иванов Сергей Владимирович": 14,
-      "Котляров Анатолий Александрович": 15,
-      "Крылов Станислав Игоревич": 6,
-      "Мусиенко Александр Анатольевич": 98,
-      "Новиков Сергей Николаевич": 3,
-      "Тутова Лариса Николаевна": 88,
-      "Фоменко Григорий Петрович": 26
+      "gas:candidate-vibid:4614045159596": 4,
+      "gas:candidate-vibid:4614045160769": 2,
+      "gas:candidate-vibid:4614045143478": 14,
+      "gas:candidate-vibid:4614045158891": 15,
+      "gas:candidate-vibid:4614045160315": 6,
+      "gas:candidate-vibid:4614045160268": 98,
+      "gas:candidate-vibid:4614045160434": 3,
+      "gas:candidate-vibid:4614045159562": 88,
+      "gas:candidate-vibid:4614045159516": 26
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/rostov?action=show&root=1000198&tvd=26120001455435&vrn=100100067795849&region=61&global=&sub_region=61&prver=0&pronetvd=null&vibid=26120001455435&type=464",
@@ -9188,15 +9188,15 @@ export const duma_2016_uik_463_region_61_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Волков Павел Николаевич": 7,
-      "Волощук Вячеслав Александрович": 6,
-      "Иванов Сергей Владимирович": 8,
-      "Котляров Анатолий Александрович": 22,
-      "Крылов Станислав Игоревич": 17,
-      "Мусиенко Александр Анатольевич": 99,
-      "Новиков Сергей Николаевич": 6,
-      "Тутова Лариса Николаевна": 56,
-      "Фоменко Григорий Петрович": 15
+      "gas:candidate-vibid:4614045159596": 7,
+      "gas:candidate-vibid:4614045160769": 6,
+      "gas:candidate-vibid:4614045143478": 8,
+      "gas:candidate-vibid:4614045158891": 22,
+      "gas:candidate-vibid:4614045160315": 17,
+      "gas:candidate-vibid:4614045160268": 99,
+      "gas:candidate-vibid:4614045160434": 6,
+      "gas:candidate-vibid:4614045159562": 56,
+      "gas:candidate-vibid:4614045159516": 15
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/rostov?action=show&root=1000198&tvd=26120001455435&vrn=100100067795849&region=61&global=&sub_region=61&prver=0&pronetvd=null&vibid=26120001455435&type=464",
@@ -9247,15 +9247,15 @@ export const duma_2016_uik_463_region_61_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Волков Павел Николаевич": 5,
-      "Волощук Вячеслав Александрович": 2,
-      "Иванов Сергей Владимирович": 16,
-      "Котляров Анатолий Александрович": 14,
-      "Крылов Станислав Игоревич": 12,
-      "Мусиенко Александр Анатольевич": 112,
-      "Новиков Сергей Николаевич": 2,
-      "Тутова Лариса Николаевна": 106,
-      "Фоменко Григорий Петрович": 12
+      "gas:candidate-vibid:4614045159596": 5,
+      "gas:candidate-vibid:4614045160769": 2,
+      "gas:candidate-vibid:4614045143478": 16,
+      "gas:candidate-vibid:4614045158891": 14,
+      "gas:candidate-vibid:4614045160315": 12,
+      "gas:candidate-vibid:4614045160268": 112,
+      "gas:candidate-vibid:4614045160434": 2,
+      "gas:candidate-vibid:4614045159562": 106,
+      "gas:candidate-vibid:4614045159516": 12
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/rostov?action=show&root=1000198&tvd=26120001455435&vrn=100100067795849&region=61&global=&sub_region=61&prver=0&pronetvd=null&vibid=26120001455435&type=464",
@@ -9306,15 +9306,15 @@ export const duma_2016_uik_463_region_61_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Волков Павел Николаевич": 38,
-      "Волощук Вячеслав Александрович": 3,
-      "Иванов Сергей Владимирович": 61,
-      "Котляров Анатолий Александрович": 21,
-      "Крылов Станислав Игоревич": 7,
-      "Мусиенко Александр Анатольевич": 5,
-      "Новиков Сергей Николаевич": 14,
-      "Тутова Лариса Николаевна": 740,
-      "Фоменко Григорий Петрович": 97
+      "gas:candidate-vibid:4614045159596": 38,
+      "gas:candidate-vibid:4614045160769": 3,
+      "gas:candidate-vibid:4614045143478": 61,
+      "gas:candidate-vibid:4614045158891": 21,
+      "gas:candidate-vibid:4614045160315": 7,
+      "gas:candidate-vibid:4614045160268": 5,
+      "gas:candidate-vibid:4614045160434": 14,
+      "gas:candidate-vibid:4614045159562": 740,
+      "gas:candidate-vibid:4614045159516": 97
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/rostov?action=show&root=1000198&tvd=26120001455436&vrn=100100067795849&region=61&global=&sub_region=61&prver=0&pronetvd=null&vibid=26120001455436&type=464",
@@ -9365,15 +9365,15 @@ export const duma_2016_uik_463_region_61_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Волков Павел Николаевич": 28,
-      "Волощук Вячеслав Александрович": 1,
-      "Иванов Сергей Владимирович": 62,
-      "Котляров Анатолий Александрович": 21,
-      "Крылов Станислав Игоревич": 5,
-      "Мусиенко Александр Анатольевич": 6,
-      "Новиков Сергей Николаевич": 11,
-      "Тутова Лариса Николаевна": 802,
-      "Фоменко Григорий Петрович": 78
+      "gas:candidate-vibid:4614045159596": 28,
+      "gas:candidate-vibid:4614045160769": 1,
+      "gas:candidate-vibid:4614045143478": 62,
+      "gas:candidate-vibid:4614045158891": 21,
+      "gas:candidate-vibid:4614045160315": 5,
+      "gas:candidate-vibid:4614045160268": 6,
+      "gas:candidate-vibid:4614045160434": 11,
+      "gas:candidate-vibid:4614045159562": 802,
+      "gas:candidate-vibid:4614045159516": 78
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/rostov?action=show&root=1000198&tvd=26120001455436&vrn=100100067795849&region=61&global=&sub_region=61&prver=0&pronetvd=null&vibid=26120001455436&type=464",
@@ -9424,15 +9424,15 @@ export const duma_2016_uik_463_region_61_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Волков Павел Николаевич": 44,
-      "Волощук Вячеслав Александрович": 1,
-      "Иванов Сергей Владимирович": 43,
-      "Котляров Анатолий Александрович": 27,
-      "Крылов Станислав Игоревич": 11,
-      "Мусиенко Александр Анатольевич": 7,
-      "Новиков Сергей Николаевич": 10,
-      "Тутова Лариса Николаевна": 589,
-      "Фоменко Григорий Петрович": 76
+      "gas:candidate-vibid:4614045159596": 44,
+      "gas:candidate-vibid:4614045160769": 1,
+      "gas:candidate-vibid:4614045143478": 43,
+      "gas:candidate-vibid:4614045158891": 27,
+      "gas:candidate-vibid:4614045160315": 11,
+      "gas:candidate-vibid:4614045160268": 7,
+      "gas:candidate-vibid:4614045160434": 10,
+      "gas:candidate-vibid:4614045159562": 589,
+      "gas:candidate-vibid:4614045159516": 76
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/rostov?action=show&root=1000198&tvd=26120001455436&vrn=100100067795849&region=61&global=&sub_region=61&prver=0&pronetvd=null&vibid=26120001455436&type=464",
@@ -9483,15 +9483,15 @@ export const duma_2016_uik_463_region_61_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Волков Павел Николаевич": 36,
-      "Волощук Вячеслав Александрович": 7,
-      "Иванов Сергей Владимирович": 51,
-      "Котляров Анатолий Александрович": 23,
-      "Крылов Станислав Игоревич": 4,
-      "Мусиенко Александр Анатольевич": 2,
-      "Новиков Сергей Николаевич": 7,
-      "Тутова Лариса Николаевна": 791,
-      "Фоменко Григорий Петрович": 80
+      "gas:candidate-vibid:4614045159596": 36,
+      "gas:candidate-vibid:4614045160769": 7,
+      "gas:candidate-vibid:4614045143478": 51,
+      "gas:candidate-vibid:4614045158891": 23,
+      "gas:candidate-vibid:4614045160315": 4,
+      "gas:candidate-vibid:4614045160268": 2,
+      "gas:candidate-vibid:4614045160434": 7,
+      "gas:candidate-vibid:4614045159562": 791,
+      "gas:candidate-vibid:4614045159516": 80
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/rostov?action=show&root=1000198&tvd=26120001455436&vrn=100100067795849&region=61&global=&sub_region=61&prver=0&pronetvd=null&vibid=26120001455436&type=464",
@@ -9542,15 +9542,15 @@ export const duma_2016_uik_463_region_61_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Волков Павел Николаевич": 18,
-      "Волощук Вячеслав Александрович": 2,
-      "Иванов Сергей Владимирович": 24,
-      "Котляров Анатолий Александрович": 18,
-      "Крылов Станислав Игоревич": 4,
-      "Мусиенко Александр Анатольевич": 4,
-      "Новиков Сергей Николаевич": 4,
-      "Тутова Лариса Николаевна": 838,
-      "Фоменко Григорий Петрович": 36
+      "gas:candidate-vibid:4614045159596": 18,
+      "gas:candidate-vibid:4614045160769": 2,
+      "gas:candidate-vibid:4614045143478": 24,
+      "gas:candidate-vibid:4614045158891": 18,
+      "gas:candidate-vibid:4614045160315": 4,
+      "gas:candidate-vibid:4614045160268": 4,
+      "gas:candidate-vibid:4614045160434": 4,
+      "gas:candidate-vibid:4614045159562": 838,
+      "gas:candidate-vibid:4614045159516": 36
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/rostov?action=show&root=1000198&tvd=26120001455436&vrn=100100067795849&region=61&global=&sub_region=61&prver=0&pronetvd=null&vibid=26120001455436&type=464",
@@ -9601,15 +9601,15 @@ export const duma_2016_uik_463_region_61_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Волков Павел Николаевич": 20,
-      "Волощук Вячеслав Александрович": 1,
-      "Иванов Сергей Владимирович": 36,
-      "Котляров Анатолий Александрович": 11,
-      "Крылов Станислав Игоревич": 1,
-      "Мусиенко Александр Анатольевич": 3,
-      "Новиков Сергей Николаевич": 0,
-      "Тутова Лариса Николаевна": 606,
-      "Фоменко Григорий Петрович": 42
+      "gas:candidate-vibid:4614045159596": 20,
+      "gas:candidate-vibid:4614045160769": 1,
+      "gas:candidate-vibid:4614045143478": 36,
+      "gas:candidate-vibid:4614045158891": 11,
+      "gas:candidate-vibid:4614045160315": 1,
+      "gas:candidate-vibid:4614045160268": 3,
+      "gas:candidate-vibid:4614045160434": 0,
+      "gas:candidate-vibid:4614045159562": 606,
+      "gas:candidate-vibid:4614045159516": 42
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/rostov?action=show&root=1000198&tvd=26120001455436&vrn=100100067795849&region=61&global=&sub_region=61&prver=0&pronetvd=null&vibid=26120001455436&type=464",
@@ -9660,15 +9660,15 @@ export const duma_2016_uik_463_region_61_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Волков Павел Николаевич": 3,
-      "Волощук Вячеслав Александрович": 4,
-      "Иванов Сергей Владимирович": 5,
-      "Котляров Анатолий Александрович": 5,
-      "Крылов Станислав Игоревич": 1,
-      "Мусиенко Александр Анатольевич": 0,
-      "Новиков Сергей Николаевич": 1,
-      "Тутова Лариса Николаевна": 374,
-      "Фоменко Григорий Петрович": 4
+      "gas:candidate-vibid:4614045159596": 3,
+      "gas:candidate-vibid:4614045160769": 4,
+      "gas:candidate-vibid:4614045143478": 5,
+      "gas:candidate-vibid:4614045158891": 5,
+      "gas:candidate-vibid:4614045160315": 1,
+      "gas:candidate-vibid:4614045160268": 0,
+      "gas:candidate-vibid:4614045160434": 1,
+      "gas:candidate-vibid:4614045159562": 374,
+      "gas:candidate-vibid:4614045159516": 4
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/rostov?action=show&root=1000198&tvd=26120001455436&vrn=100100067795849&region=61&global=&sub_region=61&prver=0&pronetvd=null&vibid=26120001455436&type=464",
@@ -9719,15 +9719,15 @@ export const duma_2016_uik_463_region_61_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Волков Павел Николаевич": 20,
-      "Волощук Вячеслав Александрович": 4,
-      "Иванов Сергей Владимирович": 34,
-      "Котляров Анатолий Александрович": 9,
-      "Крылов Станислав Игоревич": 3,
-      "Мусиенко Александр Анатольевич": 8,
-      "Новиков Сергей Николаевич": 0,
-      "Тутова Лариса Николаевна": 1366,
-      "Фоменко Григорий Петрович": 11
+      "gas:candidate-vibid:4614045159596": 20,
+      "gas:candidate-vibid:4614045160769": 4,
+      "gas:candidate-vibid:4614045143478": 34,
+      "gas:candidate-vibid:4614045158891": 9,
+      "gas:candidate-vibid:4614045160315": 3,
+      "gas:candidate-vibid:4614045160268": 8,
+      "gas:candidate-vibid:4614045160434": 0,
+      "gas:candidate-vibid:4614045159562": 1366,
+      "gas:candidate-vibid:4614045159516": 11
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/rostov?action=show&root=1000198&tvd=26120001455436&vrn=100100067795849&region=61&global=&sub_region=61&prver=0&pronetvd=null&vibid=26120001455436&type=464",
@@ -9778,15 +9778,15 @@ export const duma_2016_uik_463_region_61_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Волков Павел Николаевич": 8,
-      "Волощук Вячеслав Александрович": 5,
-      "Иванов Сергей Владимирович": 15,
-      "Котляров Анатолий Александрович": 14,
-      "Крылов Станислав Игоревич": 4,
-      "Мусиенко Александр Анатольевич": 2,
-      "Новиков Сергей Николаевич": 6,
-      "Тутова Лариса Николаевна": 981,
-      "Фоменко Григорий Петрович": 16
+      "gas:candidate-vibid:4614045159596": 8,
+      "gas:candidate-vibid:4614045160769": 5,
+      "gas:candidate-vibid:4614045143478": 15,
+      "gas:candidate-vibid:4614045158891": 14,
+      "gas:candidate-vibid:4614045160315": 4,
+      "gas:candidate-vibid:4614045160268": 2,
+      "gas:candidate-vibid:4614045160434": 6,
+      "gas:candidate-vibid:4614045159562": 981,
+      "gas:candidate-vibid:4614045159516": 16
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/rostov?action=show&root=1000198&tvd=26120001455436&vrn=100100067795849&region=61&global=&sub_region=61&prver=0&pronetvd=null&vibid=26120001455436&type=464",
@@ -9837,15 +9837,15 @@ export const duma_2016_uik_463_region_61_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Волков Павел Николаевич": 10,
-      "Волощук Вячеслав Александрович": 0,
-      "Иванов Сергей Владимирович": 6,
-      "Котляров Анатолий Александрович": 5,
-      "Крылов Станислав Игоревич": 1,
-      "Мусиенко Александр Анатольевич": 1,
-      "Новиков Сергей Николаевич": 1,
-      "Тутова Лариса Николаевна": 587,
-      "Фоменко Григорий Петрович": 14
+      "gas:candidate-vibid:4614045159596": 10,
+      "gas:candidate-vibid:4614045160769": 0,
+      "gas:candidate-vibid:4614045143478": 6,
+      "gas:candidate-vibid:4614045158891": 5,
+      "gas:candidate-vibid:4614045160315": 1,
+      "gas:candidate-vibid:4614045160268": 1,
+      "gas:candidate-vibid:4614045160434": 1,
+      "gas:candidate-vibid:4614045159562": 587,
+      "gas:candidate-vibid:4614045159516": 14
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/rostov?action=show&root=1000198&tvd=26120001455436&vrn=100100067795849&region=61&global=&sub_region=61&prver=0&pronetvd=null&vibid=26120001455436&type=464",
@@ -9896,15 +9896,15 @@ export const duma_2016_uik_463_region_61_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Волков Павел Николаевич": 5,
-      "Волощук Вячеслав Александрович": 0,
-      "Иванов Сергей Владимирович": 5,
-      "Котляров Анатолий Александрович": 4,
-      "Крылов Станислав Игоревич": 2,
-      "Мусиенко Александр Анатольевич": 1,
-      "Новиков Сергей Николаевич": 0,
-      "Тутова Лариса Николаевна": 673,
-      "Фоменко Григорий Петрович": 6
+      "gas:candidate-vibid:4614045159596": 5,
+      "gas:candidate-vibid:4614045160769": 0,
+      "gas:candidate-vibid:4614045143478": 5,
+      "gas:candidate-vibid:4614045158891": 4,
+      "gas:candidate-vibid:4614045160315": 2,
+      "gas:candidate-vibid:4614045160268": 1,
+      "gas:candidate-vibid:4614045160434": 0,
+      "gas:candidate-vibid:4614045159562": 673,
+      "gas:candidate-vibid:4614045159516": 6
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/rostov?action=show&root=1000198&tvd=26120001455436&vrn=100100067795849&region=61&global=&sub_region=61&prver=0&pronetvd=null&vibid=26120001455436&type=464",
@@ -9955,15 +9955,15 @@ export const duma_2016_uik_463_region_61_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Волков Павел Николаевич": 2,
-      "Волощук Вячеслав Александрович": 0,
-      "Иванов Сергей Владимирович": 30,
-      "Котляров Анатолий Александрович": 27,
-      "Крылов Станислав Игоревич": 1,
-      "Мусиенко Александр Анатольевич": 1,
-      "Новиков Сергей Николаевич": 2,
-      "Тутова Лариса Николаевна": 873,
-      "Фоменко Григорий Петрович": 0
+      "gas:candidate-vibid:4614045159596": 2,
+      "gas:candidate-vibid:4614045160769": 0,
+      "gas:candidate-vibid:4614045143478": 30,
+      "gas:candidate-vibid:4614045158891": 27,
+      "gas:candidate-vibid:4614045160315": 1,
+      "gas:candidate-vibid:4614045160268": 1,
+      "gas:candidate-vibid:4614045160434": 2,
+      "gas:candidate-vibid:4614045159562": 873,
+      "gas:candidate-vibid:4614045159516": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/rostov?action=show&root=1000198&tvd=26120001455436&vrn=100100067795849&region=61&global=&sub_region=61&prver=0&pronetvd=null&vibid=26120001455436&type=464",
@@ -10014,15 +10014,15 @@ export const duma_2016_uik_463_region_61_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Волков Павел Николаевич": 0,
-      "Волощук Вячеслав Александрович": 1,
-      "Иванов Сергей Владимирович": 38,
-      "Котляров Анатолий Александрович": 4,
-      "Крылов Станислав Игоревич": 1,
-      "Мусиенко Александр Анатольевич": 4,
-      "Новиков Сергей Николаевич": 1,
-      "Тутова Лариса Николаевна": 725,
-      "Фоменко Григорий Петрович": 4
+      "gas:candidate-vibid:4614045159596": 0,
+      "gas:candidate-vibid:4614045160769": 1,
+      "gas:candidate-vibid:4614045143478": 38,
+      "gas:candidate-vibid:4614045158891": 4,
+      "gas:candidate-vibid:4614045160315": 1,
+      "gas:candidate-vibid:4614045160268": 4,
+      "gas:candidate-vibid:4614045160434": 1,
+      "gas:candidate-vibid:4614045159562": 725,
+      "gas:candidate-vibid:4614045159516": 4
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/rostov?action=show&root=1000198&tvd=26120001455436&vrn=100100067795849&region=61&global=&sub_region=61&prver=0&pronetvd=null&vibid=26120001455436&type=464",
@@ -10073,15 +10073,15 @@ export const duma_2016_uik_463_region_61_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Волков Павел Николаевич": 8,
-      "Волощук Вячеслав Александрович": 0,
-      "Иванов Сергей Владимирович": 10,
-      "Котляров Анатолий Александрович": 7,
-      "Крылов Станислав Игоревич": 0,
-      "Мусиенко Александр Анатольевич": 1,
-      "Новиков Сергей Николаевич": 0,
-      "Тутова Лариса Николаевна": 466,
-      "Фоменко Григорий Петрович": 7
+      "gas:candidate-vibid:4614045159596": 8,
+      "gas:candidate-vibid:4614045160769": 0,
+      "gas:candidate-vibid:4614045143478": 10,
+      "gas:candidate-vibid:4614045158891": 7,
+      "gas:candidate-vibid:4614045160315": 0,
+      "gas:candidate-vibid:4614045160268": 1,
+      "gas:candidate-vibid:4614045160434": 0,
+      "gas:candidate-vibid:4614045159562": 466,
+      "gas:candidate-vibid:4614045159516": 7
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/rostov?action=show&root=1000198&tvd=26120001455436&vrn=100100067795849&region=61&global=&sub_region=61&prver=0&pronetvd=null&vibid=26120001455436&type=464",
@@ -10132,15 +10132,15 @@ export const duma_2016_uik_463_region_61_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Волков Павел Николаевич": 4,
-      "Волощук Вячеслав Александрович": 1,
-      "Иванов Сергей Владимирович": 11,
-      "Котляров Анатолий Александрович": 2,
-      "Крылов Станислав Игоревич": 2,
-      "Мусиенко Александр Анатольевич": 2,
-      "Новиков Сергей Николаевич": 5,
-      "Тутова Лариса Николаевна": 811,
-      "Фоменко Григорий Петрович": 21
+      "gas:candidate-vibid:4614045159596": 4,
+      "gas:candidate-vibid:4614045160769": 1,
+      "gas:candidate-vibid:4614045143478": 11,
+      "gas:candidate-vibid:4614045158891": 2,
+      "gas:candidate-vibid:4614045160315": 2,
+      "gas:candidate-vibid:4614045160268": 2,
+      "gas:candidate-vibid:4614045160434": 5,
+      "gas:candidate-vibid:4614045159562": 811,
+      "gas:candidate-vibid:4614045159516": 21
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/rostov?action=show&root=1000198&tvd=26120001455436&vrn=100100067795849&region=61&global=&sub_region=61&prver=0&pronetvd=null&vibid=26120001455436&type=464",
@@ -10191,15 +10191,15 @@ export const duma_2016_uik_463_region_61_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Волков Павел Николаевич": 3,
-      "Волощук Вячеслав Александрович": 1,
-      "Иванов Сергей Владимирович": 15,
-      "Котляров Анатолий Александрович": 6,
-      "Крылов Станислав Игоревич": 2,
-      "Мусиенко Александр Анатольевич": 1,
-      "Новиков Сергей Николаевич": 1,
-      "Тутова Лариса Николаевна": 571,
-      "Фоменко Григорий Петрович": 17
+      "gas:candidate-vibid:4614045159596": 3,
+      "gas:candidate-vibid:4614045160769": 1,
+      "gas:candidate-vibid:4614045143478": 15,
+      "gas:candidate-vibid:4614045158891": 6,
+      "gas:candidate-vibid:4614045160315": 2,
+      "gas:candidate-vibid:4614045160268": 1,
+      "gas:candidate-vibid:4614045160434": 1,
+      "gas:candidate-vibid:4614045159562": 571,
+      "gas:candidate-vibid:4614045159516": 17
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/rostov?action=show&root=1000198&tvd=26120001455436&vrn=100100067795849&region=61&global=&sub_region=61&prver=0&pronetvd=null&vibid=26120001455436&type=464",
@@ -10250,15 +10250,15 @@ export const duma_2016_uik_463_region_61_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Волков Павел Николаевич": 17,
-      "Волощук Вячеслав Александрович": 1,
-      "Иванов Сергей Владимирович": 30,
-      "Котляров Анатолий Александрович": 9,
-      "Крылов Станислав Игоревич": 1,
-      "Мусиенко Александр Анатольевич": 2,
-      "Новиков Сергей Николаевич": 2,
-      "Тутова Лариса Николаевна": 658,
-      "Фоменко Григорий Петрович": 59
+      "gas:candidate-vibid:4614045159596": 17,
+      "gas:candidate-vibid:4614045160769": 1,
+      "gas:candidate-vibid:4614045143478": 30,
+      "gas:candidate-vibid:4614045158891": 9,
+      "gas:candidate-vibid:4614045160315": 1,
+      "gas:candidate-vibid:4614045160268": 2,
+      "gas:candidate-vibid:4614045160434": 2,
+      "gas:candidate-vibid:4614045159562": 658,
+      "gas:candidate-vibid:4614045159516": 59
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/rostov?action=show&root=1000198&tvd=26120001455436&vrn=100100067795849&region=61&global=&sub_region=61&prver=0&pronetvd=null&vibid=26120001455436&type=464",
@@ -10309,15 +10309,15 @@ export const duma_2016_uik_463_region_61_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Волков Павел Николаевич": 18,
-      "Волощук Вячеслав Александрович": 1,
-      "Иванов Сергей Владимирович": 35,
-      "Котляров Анатолий Александрович": 11,
-      "Крылов Станислав Игоревич": 5,
-      "Мусиенко Александр Анатольевич": 7,
-      "Новиков Сергей Николаевич": 7,
-      "Тутова Лариса Николаевна": 722,
-      "Фоменко Григорий Петрович": 42
+      "gas:candidate-vibid:4614045159596": 18,
+      "gas:candidate-vibid:4614045160769": 1,
+      "gas:candidate-vibid:4614045143478": 35,
+      "gas:candidate-vibid:4614045158891": 11,
+      "gas:candidate-vibid:4614045160315": 5,
+      "gas:candidate-vibid:4614045160268": 7,
+      "gas:candidate-vibid:4614045160434": 7,
+      "gas:candidate-vibid:4614045159562": 722,
+      "gas:candidate-vibid:4614045159516": 42
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/rostov?action=show&root=1000198&tvd=26120001455436&vrn=100100067795849&region=61&global=&sub_region=61&prver=0&pronetvd=null&vibid=26120001455436&type=464",
@@ -10368,15 +10368,15 @@ export const duma_2016_uik_463_region_61_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Волков Павел Николаевич": 16,
-      "Волощук Вячеслав Александрович": 4,
-      "Иванов Сергей Владимирович": 38,
-      "Котляров Анатолий Александрович": 10,
-      "Крылов Станислав Игоревич": 3,
-      "Мусиенко Александр Анатольевич": 4,
-      "Новиков Сергей Николаевич": 2,
-      "Тутова Лариса Николаевна": 581,
-      "Фоменко Григорий Петрович": 33
+      "gas:candidate-vibid:4614045159596": 16,
+      "gas:candidate-vibid:4614045160769": 4,
+      "gas:candidate-vibid:4614045143478": 38,
+      "gas:candidate-vibid:4614045158891": 10,
+      "gas:candidate-vibid:4614045160315": 3,
+      "gas:candidate-vibid:4614045160268": 4,
+      "gas:candidate-vibid:4614045160434": 2,
+      "gas:candidate-vibid:4614045159562": 581,
+      "gas:candidate-vibid:4614045159516": 33
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/rostov?action=show&root=1000198&tvd=26120001455436&vrn=100100067795849&region=61&global=&sub_region=61&prver=0&pronetvd=null&vibid=26120001455436&type=464",
@@ -10427,15 +10427,15 @@ export const duma_2016_uik_463_region_61_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Волков Павел Николаевич": 10,
-      "Волощук Вячеслав Александрович": 0,
-      "Иванов Сергей Владимирович": 20,
-      "Котляров Анатолий Александрович": 10,
-      "Крылов Станислав Игоревич": 0,
-      "Мусиенко Александр Анатольевич": 0,
-      "Новиков Сергей Николаевич": 0,
-      "Тутова Лариса Николаевна": 762,
-      "Фоменко Григорий Петрович": 48
+      "gas:candidate-vibid:4614045159596": 10,
+      "gas:candidate-vibid:4614045160769": 0,
+      "gas:candidate-vibid:4614045143478": 20,
+      "gas:candidate-vibid:4614045158891": 10,
+      "gas:candidate-vibid:4614045160315": 0,
+      "gas:candidate-vibid:4614045160268": 0,
+      "gas:candidate-vibid:4614045160434": 0,
+      "gas:candidate-vibid:4614045159562": 762,
+      "gas:candidate-vibid:4614045159516": 48
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/rostov?action=show&root=1000198&tvd=26120001455436&vrn=100100067795849&region=61&global=&sub_region=61&prver=0&pronetvd=null&vibid=26120001455436&type=464",
@@ -10486,15 +10486,15 @@ export const duma_2016_uik_463_region_61_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Волков Павел Николаевич": 8,
-      "Волощук Вячеслав Александрович": 1,
-      "Иванов Сергей Владимирович": 11,
-      "Котляров Анатолий Александрович": 26,
-      "Крылов Станислав Игоревич": 3,
-      "Мусиенко Александр Анатольевич": 3,
-      "Новиков Сергей Николаевич": 5,
-      "Тутова Лариса Николаевна": 1183,
-      "Фоменко Григорий Петрович": 27
+      "gas:candidate-vibid:4614045159596": 8,
+      "gas:candidate-vibid:4614045160769": 1,
+      "gas:candidate-vibid:4614045143478": 11,
+      "gas:candidate-vibid:4614045158891": 26,
+      "gas:candidate-vibid:4614045160315": 3,
+      "gas:candidate-vibid:4614045160268": 3,
+      "gas:candidate-vibid:4614045160434": 5,
+      "gas:candidate-vibid:4614045159562": 1183,
+      "gas:candidate-vibid:4614045159516": 27
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/rostov?action=show&root=1000198&tvd=26120001455436&vrn=100100067795849&region=61&global=&sub_region=61&prver=0&pronetvd=null&vibid=26120001455436&type=464",
@@ -10545,15 +10545,15 @@ export const duma_2016_uik_463_region_61_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Волков Павел Николаевич": 13,
-      "Волощук Вячеслав Александрович": 1,
-      "Иванов Сергей Владимирович": 18,
-      "Котляров Анатолий Александрович": 6,
-      "Крылов Станислав Игоревич": 5,
-      "Мусиенко Александр Анатольевич": 3,
-      "Новиков Сергей Николаевич": 9,
-      "Тутова Лариса Николаевна": 94,
-      "Фоменко Григорий Петрович": 36
+      "gas:candidate-vibid:4614045159596": 13,
+      "gas:candidate-vibid:4614045160769": 1,
+      "gas:candidate-vibid:4614045143478": 18,
+      "gas:candidate-vibid:4614045158891": 6,
+      "gas:candidate-vibid:4614045160315": 5,
+      "gas:candidate-vibid:4614045160268": 3,
+      "gas:candidate-vibid:4614045160434": 9,
+      "gas:candidate-vibid:4614045159562": 94,
+      "gas:candidate-vibid:4614045159516": 36
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/rostov?action=show&root=1000198&tvd=26120001455437&vrn=100100067795849&region=61&global=&sub_region=61&prver=0&pronetvd=null&vibid=26120001455437&type=464",
@@ -10604,15 +10604,15 @@ export const duma_2016_uik_463_region_61_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Волков Павел Николаевич": 35,
-      "Волощук Вячеслав Александрович": 5,
-      "Иванов Сергей Владимирович": 46,
-      "Котляров Анатолий Александрович": 12,
-      "Крылов Станислав Игоревич": 6,
-      "Мусиенко Александр Анатольевич": 1,
-      "Новиков Сергей Николаевич": 2,
-      "Тутова Лариса Николаевна": 239,
-      "Фоменко Григорий Петрович": 77
+      "gas:candidate-vibid:4614045159596": 35,
+      "gas:candidate-vibid:4614045160769": 5,
+      "gas:candidate-vibid:4614045143478": 46,
+      "gas:candidate-vibid:4614045158891": 12,
+      "gas:candidate-vibid:4614045160315": 6,
+      "gas:candidate-vibid:4614045160268": 1,
+      "gas:candidate-vibid:4614045160434": 2,
+      "gas:candidate-vibid:4614045159562": 239,
+      "gas:candidate-vibid:4614045159516": 77
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/rostov?action=show&root=1000198&tvd=26120001455437&vrn=100100067795849&region=61&global=&sub_region=61&prver=0&pronetvd=null&vibid=26120001455437&type=464",
@@ -10663,15 +10663,15 @@ export const duma_2016_uik_463_region_61_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Волков Павел Николаевич": 6,
-      "Волощук Вячеслав Александрович": 0,
-      "Иванов Сергей Владимирович": 9,
-      "Котляров Анатолий Александрович": 6,
-      "Крылов Станислав Игоревич": 3,
-      "Мусиенко Александр Анатольевич": 7,
-      "Новиков Сергей Николаевич": 2,
-      "Тутова Лариса Николаевна": 61,
-      "Фоменко Григорий Петрович": 7
+      "gas:candidate-vibid:4614045159596": 6,
+      "gas:candidate-vibid:4614045160769": 0,
+      "gas:candidate-vibid:4614045143478": 9,
+      "gas:candidate-vibid:4614045158891": 6,
+      "gas:candidate-vibid:4614045160315": 3,
+      "gas:candidate-vibid:4614045160268": 7,
+      "gas:candidate-vibid:4614045160434": 2,
+      "gas:candidate-vibid:4614045159562": 61,
+      "gas:candidate-vibid:4614045159516": 7
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/rostov?action=show&root=1000198&tvd=26120001455437&vrn=100100067795849&region=61&global=&sub_region=61&prver=0&pronetvd=null&vibid=26120001455437&type=464",
@@ -10722,15 +10722,15 @@ export const duma_2016_uik_463_region_61_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Волков Павел Николаевич": 20,
-      "Волощук Вячеслав Александрович": 5,
-      "Иванов Сергей Владимирович": 61,
-      "Котляров Анатолий Александрович": 18,
-      "Крылов Станислав Игоревич": 7,
-      "Мусиенко Александр Анатольевич": 5,
-      "Новиков Сергей Николаевич": 3,
-      "Тутова Лариса Николаевна": 231,
-      "Фоменко Григорий Петрович": 44
+      "gas:candidate-vibid:4614045159596": 20,
+      "gas:candidate-vibid:4614045160769": 5,
+      "gas:candidate-vibid:4614045143478": 61,
+      "gas:candidate-vibid:4614045158891": 18,
+      "gas:candidate-vibid:4614045160315": 7,
+      "gas:candidate-vibid:4614045160268": 5,
+      "gas:candidate-vibid:4614045160434": 3,
+      "gas:candidate-vibid:4614045159562": 231,
+      "gas:candidate-vibid:4614045159516": 44
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/rostov?action=show&root=1000198&tvd=26120001455437&vrn=100100067795849&region=61&global=&sub_region=61&prver=0&pronetvd=null&vibid=26120001455437&type=464",
@@ -10781,15 +10781,15 @@ export const duma_2016_uik_463_region_61_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Волков Павел Николаевич": 37,
-      "Волощук Вячеслав Александрович": 4,
-      "Иванов Сергей Владимирович": 96,
-      "Котляров Анатолий Александрович": 15,
-      "Крылов Станислав Игоревич": 4,
-      "Мусиенко Александр Анатольевич": 8,
-      "Новиков Сергей Николаевич": 9,
-      "Тутова Лариса Николаевна": 343,
-      "Фоменко Григорий Петрович": 66
+      "gas:candidate-vibid:4614045159596": 37,
+      "gas:candidate-vibid:4614045160769": 4,
+      "gas:candidate-vibid:4614045143478": 96,
+      "gas:candidate-vibid:4614045158891": 15,
+      "gas:candidate-vibid:4614045160315": 4,
+      "gas:candidate-vibid:4614045160268": 8,
+      "gas:candidate-vibid:4614045160434": 9,
+      "gas:candidate-vibid:4614045159562": 343,
+      "gas:candidate-vibid:4614045159516": 66
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/rostov?action=show&root=1000198&tvd=26120001455437&vrn=100100067795849&region=61&global=&sub_region=61&prver=0&pronetvd=null&vibid=26120001455437&type=464",
@@ -10840,15 +10840,15 @@ export const duma_2016_uik_463_region_61_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Волков Павел Николаевич": 36,
-      "Волощук Вячеслав Александрович": 9,
-      "Иванов Сергей Владимирович": 66,
-      "Котляров Анатолий Александрович": 25,
-      "Крылов Станислав Игоревич": 8,
-      "Мусиенко Александр Анатольевич": 9,
-      "Новиков Сергей Николаевич": 11,
-      "Тутова Лариса Николаевна": 206,
-      "Фоменко Григорий Петрович": 57
+      "gas:candidate-vibid:4614045159596": 36,
+      "gas:candidate-vibid:4614045160769": 9,
+      "gas:candidate-vibid:4614045143478": 66,
+      "gas:candidate-vibid:4614045158891": 25,
+      "gas:candidate-vibid:4614045160315": 8,
+      "gas:candidate-vibid:4614045160268": 9,
+      "gas:candidate-vibid:4614045160434": 11,
+      "gas:candidate-vibid:4614045159562": 206,
+      "gas:candidate-vibid:4614045159516": 57
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/rostov?action=show&root=1000198&tvd=26120001455437&vrn=100100067795849&region=61&global=&sub_region=61&prver=0&pronetvd=null&vibid=26120001455437&type=464",
@@ -10899,15 +10899,15 @@ export const duma_2016_uik_463_region_61_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Волков Павел Николаевич": 26,
-      "Волощук Вячеслав Александрович": 1,
-      "Иванов Сергей Владимирович": 72,
-      "Котляров Анатолий Александрович": 30,
-      "Крылов Станислав Игоревич": 7,
-      "Мусиенко Александр Анатольевич": 6,
-      "Новиков Сергей Николаевич": 7,
-      "Тутова Лариса Николаевна": 191,
-      "Фоменко Григорий Петрович": 45
+      "gas:candidate-vibid:4614045159596": 26,
+      "gas:candidate-vibid:4614045160769": 1,
+      "gas:candidate-vibid:4614045143478": 72,
+      "gas:candidate-vibid:4614045158891": 30,
+      "gas:candidate-vibid:4614045160315": 7,
+      "gas:candidate-vibid:4614045160268": 6,
+      "gas:candidate-vibid:4614045160434": 7,
+      "gas:candidate-vibid:4614045159562": 191,
+      "gas:candidate-vibid:4614045159516": 45
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/rostov?action=show&root=1000198&tvd=26120001455437&vrn=100100067795849&region=61&global=&sub_region=61&prver=0&pronetvd=null&vibid=26120001455437&type=464",
@@ -10958,15 +10958,15 @@ export const duma_2016_uik_463_region_61_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Волков Павел Николаевич": 19,
-      "Волощук Вячеслав Александрович": 3,
-      "Иванов Сергей Владимирович": 30,
-      "Котляров Анатолий Александрович": 10,
-      "Крылов Станислав Игоревич": 1,
-      "Мусиенко Александр Анатольевич": 3,
-      "Новиков Сергей Николаевич": 2,
-      "Тутова Лариса Николаевна": 63,
-      "Фоменко Григорий Петрович": 31
+      "gas:candidate-vibid:4614045159596": 19,
+      "gas:candidate-vibid:4614045160769": 3,
+      "gas:candidate-vibid:4614045143478": 30,
+      "gas:candidate-vibid:4614045158891": 10,
+      "gas:candidate-vibid:4614045160315": 1,
+      "gas:candidate-vibid:4614045160268": 3,
+      "gas:candidate-vibid:4614045160434": 2,
+      "gas:candidate-vibid:4614045159562": 63,
+      "gas:candidate-vibid:4614045159516": 31
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/rostov?action=show&root=1000198&tvd=26120001455437&vrn=100100067795849&region=61&global=&sub_region=61&prver=0&pronetvd=null&vibid=26120001455437&type=464",
@@ -11017,15 +11017,15 @@ export const duma_2016_uik_463_region_61_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Волков Павел Николаевич": 35,
-      "Волощук Вячеслав Александрович": 3,
-      "Иванов Сергей Владимирович": 43,
-      "Котляров Анатолий Александрович": 19,
-      "Крылов Станислав Игоревич": 3,
-      "Мусиенко Александр Анатольевич": 3,
-      "Новиков Сергей Николаевич": 2,
-      "Тутова Лариса Николаевна": 140,
-      "Фоменко Григорий Петрович": 33
+      "gas:candidate-vibid:4614045159596": 35,
+      "gas:candidate-vibid:4614045160769": 3,
+      "gas:candidate-vibid:4614045143478": 43,
+      "gas:candidate-vibid:4614045158891": 19,
+      "gas:candidate-vibid:4614045160315": 3,
+      "gas:candidate-vibid:4614045160268": 3,
+      "gas:candidate-vibid:4614045160434": 2,
+      "gas:candidate-vibid:4614045159562": 140,
+      "gas:candidate-vibid:4614045159516": 33
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/rostov?action=show&root=1000198&tvd=26120001455437&vrn=100100067795849&region=61&global=&sub_region=61&prver=0&pronetvd=null&vibid=26120001455437&type=464",
@@ -11076,15 +11076,15 @@ export const duma_2016_uik_463_region_61_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Волков Павел Николаевич": 17,
-      "Волощук Вячеслав Александрович": 1,
-      "Иванов Сергей Владимирович": 29,
-      "Котляров Анатолий Александрович": 11,
-      "Крылов Станислав Игоревич": 3,
-      "Мусиенко Александр Анатольевич": 4,
-      "Новиков Сергей Николаевич": 2,
-      "Тутова Лариса Николаевна": 83,
-      "Фоменко Григорий Петрович": 34
+      "gas:candidate-vibid:4614045159596": 17,
+      "gas:candidate-vibid:4614045160769": 1,
+      "gas:candidate-vibid:4614045143478": 29,
+      "gas:candidate-vibid:4614045158891": 11,
+      "gas:candidate-vibid:4614045160315": 3,
+      "gas:candidate-vibid:4614045160268": 4,
+      "gas:candidate-vibid:4614045160434": 2,
+      "gas:candidate-vibid:4614045159562": 83,
+      "gas:candidate-vibid:4614045159516": 34
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/rostov?action=show&root=1000198&tvd=26120001455437&vrn=100100067795849&region=61&global=&sub_region=61&prver=0&pronetvd=null&vibid=26120001455437&type=464",
@@ -11135,15 +11135,15 @@ export const duma_2016_uik_463_region_61_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Волков Павел Николаевич": 8,
-      "Волощук Вячеслав Александрович": 4,
-      "Иванов Сергей Владимирович": 13,
-      "Котляров Анатолий Александрович": 4,
-      "Крылов Станислав Игоревич": 3,
-      "Мусиенко Александр Анатольевич": 0,
-      "Новиков Сергей Николаевич": 2,
-      "Тутова Лариса Николаевна": 52,
-      "Фоменко Григорий Петрович": 5
+      "gas:candidate-vibid:4614045159596": 8,
+      "gas:candidate-vibid:4614045160769": 4,
+      "gas:candidate-vibid:4614045143478": 13,
+      "gas:candidate-vibid:4614045158891": 4,
+      "gas:candidate-vibid:4614045160315": 3,
+      "gas:candidate-vibid:4614045160268": 0,
+      "gas:candidate-vibid:4614045160434": 2,
+      "gas:candidate-vibid:4614045159562": 52,
+      "gas:candidate-vibid:4614045159516": 5
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/rostov?action=show&root=1000198&tvd=26120001455437&vrn=100100067795849&region=61&global=&sub_region=61&prver=0&pronetvd=null&vibid=26120001455437&type=464",
@@ -11194,15 +11194,15 @@ export const duma_2016_uik_463_region_61_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Волков Павел Николаевич": 20,
-      "Волощук Вячеслав Александрович": 3,
-      "Иванов Сергей Владимирович": 32,
-      "Котляров Анатолий Александрович": 14,
-      "Крылов Станислав Игоревич": 4,
-      "Мусиенко Александр Анатольевич": 6,
-      "Новиков Сергей Николаевич": 2,
-      "Тутова Лариса Николаевна": 187,
-      "Фоменко Григорий Петрович": 36
+      "gas:candidate-vibid:4614045159596": 20,
+      "gas:candidate-vibid:4614045160769": 3,
+      "gas:candidate-vibid:4614045143478": 32,
+      "gas:candidate-vibid:4614045158891": 14,
+      "gas:candidate-vibid:4614045160315": 4,
+      "gas:candidate-vibid:4614045160268": 6,
+      "gas:candidate-vibid:4614045160434": 2,
+      "gas:candidate-vibid:4614045159562": 187,
+      "gas:candidate-vibid:4614045159516": 36
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/rostov?action=show&root=1000198&tvd=26120001455437&vrn=100100067795849&region=61&global=&sub_region=61&prver=0&pronetvd=null&vibid=26120001455437&type=464",
@@ -11253,15 +11253,15 @@ export const duma_2016_uik_463_region_61_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Волков Павел Николаевич": 16,
-      "Волощук Вячеслав Александрович": 2,
-      "Иванов Сергей Владимирович": 34,
-      "Котляров Анатолий Александрович": 8,
-      "Крылов Станислав Игоревич": 0,
-      "Мусиенко Александр Анатольевич": 2,
-      "Новиков Сергей Николаевич": 6,
-      "Тутова Лариса Николаевна": 327,
-      "Фоменко Григорий Петрович": 27
+      "gas:candidate-vibid:4614045159596": 16,
+      "gas:candidate-vibid:4614045160769": 2,
+      "gas:candidate-vibid:4614045143478": 34,
+      "gas:candidate-vibid:4614045158891": 8,
+      "gas:candidate-vibid:4614045160315": 0,
+      "gas:candidate-vibid:4614045160268": 2,
+      "gas:candidate-vibid:4614045160434": 6,
+      "gas:candidate-vibid:4614045159562": 327,
+      "gas:candidate-vibid:4614045159516": 27
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/rostov?action=show&root=1000198&tvd=26120001455437&vrn=100100067795849&region=61&global=&sub_region=61&prver=0&pronetvd=null&vibid=26120001455437&type=464",
@@ -11312,15 +11312,15 @@ export const duma_2016_uik_463_region_61_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Волков Павел Николаевич": 15,
-      "Волощук Вячеслав Александрович": 3,
-      "Иванов Сергей Владимирович": 15,
-      "Котляров Анатолий Александрович": 9,
-      "Крылов Станислав Игоревич": 0,
-      "Мусиенко Александр Анатольевич": 5,
-      "Новиков Сергей Николаевич": 0,
-      "Тутова Лариса Николаевна": 115,
-      "Фоменко Григорий Петрович": 5
+      "gas:candidate-vibid:4614045159596": 15,
+      "gas:candidate-vibid:4614045160769": 3,
+      "gas:candidate-vibid:4614045143478": 15,
+      "gas:candidate-vibid:4614045158891": 9,
+      "gas:candidate-vibid:4614045160315": 0,
+      "gas:candidate-vibid:4614045160268": 5,
+      "gas:candidate-vibid:4614045160434": 0,
+      "gas:candidate-vibid:4614045159562": 115,
+      "gas:candidate-vibid:4614045159516": 5
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/rostov?action=show&root=1000198&tvd=26120001455437&vrn=100100067795849&region=61&global=&sub_region=61&prver=0&pronetvd=null&vibid=26120001455437&type=464",
@@ -11371,15 +11371,15 @@ export const duma_2016_uik_463_region_61_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Волков Павел Николаевич": 2,
-      "Волощук Вячеслав Александрович": 1,
-      "Иванов Сергей Владимирович": 11,
-      "Котляров Анатолий Александрович": 3,
-      "Крылов Станислав Игоревич": 1,
-      "Мусиенко Александр Анатольевич": 8,
-      "Новиков Сергей Николаевич": 2,
-      "Тутова Лариса Николаевна": 144,
-      "Фоменко Григорий Петрович": 4
+      "gas:candidate-vibid:4614045159596": 2,
+      "gas:candidate-vibid:4614045160769": 1,
+      "gas:candidate-vibid:4614045143478": 11,
+      "gas:candidate-vibid:4614045158891": 3,
+      "gas:candidate-vibid:4614045160315": 1,
+      "gas:candidate-vibid:4614045160268": 8,
+      "gas:candidate-vibid:4614045160434": 2,
+      "gas:candidate-vibid:4614045159562": 144,
+      "gas:candidate-vibid:4614045159516": 4
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/rostov?action=show&root=1000198&tvd=26120001455437&vrn=100100067795849&region=61&global=&sub_region=61&prver=0&pronetvd=null&vibid=26120001455437&type=464",
@@ -11430,15 +11430,15 @@ export const duma_2016_uik_463_region_61_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Волков Павел Николаевич": 17,
-      "Волощук Вячеслав Александрович": 1,
-      "Иванов Сергей Владимирович": 21,
-      "Котляров Анатолий Александрович": 10,
-      "Крылов Станислав Игоревич": 4,
-      "Мусиенко Александр Анатольевич": 0,
-      "Новиков Сергей Николаевич": 3,
-      "Тутова Лариса Николаевна": 341,
-      "Фоменко Григорий Петрович": 25
+      "gas:candidate-vibid:4614045159596": 17,
+      "gas:candidate-vibid:4614045160769": 1,
+      "gas:candidate-vibid:4614045143478": 21,
+      "gas:candidate-vibid:4614045158891": 10,
+      "gas:candidate-vibid:4614045160315": 4,
+      "gas:candidate-vibid:4614045160268": 0,
+      "gas:candidate-vibid:4614045160434": 3,
+      "gas:candidate-vibid:4614045159562": 341,
+      "gas:candidate-vibid:4614045159516": 25
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/rostov?action=show&root=1000198&tvd=26120001455437&vrn=100100067795849&region=61&global=&sub_region=61&prver=0&pronetvd=null&vibid=26120001455437&type=464",
@@ -11489,15 +11489,15 @@ export const duma_2016_uik_463_region_61_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Волков Павел Николаевич": 24,
-      "Волощук Вячеслав Александрович": 3,
-      "Иванов Сергей Владимирович": 42,
-      "Котляров Анатолий Александрович": 18,
-      "Крылов Станислав Игоревич": 4,
-      "Мусиенко Александр Анатольевич": 11,
-      "Новиков Сергей Николаевич": 5,
-      "Тутова Лариса Николаевна": 474,
-      "Фоменко Григорий Петрович": 68
+      "gas:candidate-vibid:4614045159596": 24,
+      "gas:candidate-vibid:4614045160769": 3,
+      "gas:candidate-vibid:4614045143478": 42,
+      "gas:candidate-vibid:4614045158891": 18,
+      "gas:candidate-vibid:4614045160315": 4,
+      "gas:candidate-vibid:4614045160268": 11,
+      "gas:candidate-vibid:4614045160434": 5,
+      "gas:candidate-vibid:4614045159562": 474,
+      "gas:candidate-vibid:4614045159516": 68
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/rostov?action=show&root=1000198&tvd=26120001455437&vrn=100100067795849&region=61&global=&sub_region=61&prver=0&pronetvd=null&vibid=26120001455437&type=464",
@@ -11548,15 +11548,15 @@ export const duma_2016_uik_463_region_61_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Волков Павел Николаевич": 14,
-      "Волощук Вячеслав Александрович": 5,
-      "Иванов Сергей Владимирович": 31,
-      "Котляров Анатолий Александрович": 15,
-      "Крылов Станислав Игоревич": 5,
-      "Мусиенко Александр Анатольевич": 2,
-      "Новиков Сергей Николаевич": 0,
-      "Тутова Лариса Николаевна": 225,
-      "Фоменко Григорий Петрович": 28
+      "gas:candidate-vibid:4614045159596": 14,
+      "gas:candidate-vibid:4614045160769": 5,
+      "gas:candidate-vibid:4614045143478": 31,
+      "gas:candidate-vibid:4614045158891": 15,
+      "gas:candidate-vibid:4614045160315": 5,
+      "gas:candidate-vibid:4614045160268": 2,
+      "gas:candidate-vibid:4614045160434": 0,
+      "gas:candidate-vibid:4614045159562": 225,
+      "gas:candidate-vibid:4614045159516": 28
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/rostov?action=show&root=1000198&tvd=26120001455437&vrn=100100067795849&region=61&global=&sub_region=61&prver=0&pronetvd=null&vibid=26120001455437&type=464",
@@ -11607,15 +11607,15 @@ export const duma_2016_uik_463_region_61_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Волков Павел Николаевич": 0,
-      "Волощук Вячеслав Александрович": 0,
-      "Иванов Сергей Владимирович": 5,
-      "Котляров Анатолий Александрович": 5,
-      "Крылов Станислав Игоревич": 1,
-      "Мусиенко Александр Анатольевич": 0,
-      "Новиков Сергей Николаевич": 2,
-      "Тутова Лариса Николаевна": 96,
-      "Фоменко Григорий Петрович": 1
+      "gas:candidate-vibid:4614045159596": 0,
+      "gas:candidate-vibid:4614045160769": 0,
+      "gas:candidate-vibid:4614045143478": 5,
+      "gas:candidate-vibid:4614045158891": 5,
+      "gas:candidate-vibid:4614045160315": 1,
+      "gas:candidate-vibid:4614045160268": 0,
+      "gas:candidate-vibid:4614045160434": 2,
+      "gas:candidate-vibid:4614045159562": 96,
+      "gas:candidate-vibid:4614045159516": 1
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/rostov?action=show&root=1000198&tvd=26120001455437&vrn=100100067795849&region=61&global=&sub_region=61&prver=0&pronetvd=null&vibid=26120001455437&type=464",
@@ -11666,15 +11666,15 @@ export const duma_2016_uik_463_region_61_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Волков Павел Николаевич": 30,
-      "Волощук Вячеслав Александрович": 2,
-      "Иванов Сергей Владимирович": 43,
-      "Котляров Анатолий Александрович": 19,
-      "Крылов Станислав Игоревич": 4,
-      "Мусиенко Александр Анатольевич": 3,
-      "Новиков Сергей Николаевич": 0,
-      "Тутова Лариса Николаевна": 244,
-      "Фоменко Григорий Петрович": 47
+      "gas:candidate-vibid:4614045159596": 30,
+      "gas:candidate-vibid:4614045160769": 2,
+      "gas:candidate-vibid:4614045143478": 43,
+      "gas:candidate-vibid:4614045158891": 19,
+      "gas:candidate-vibid:4614045160315": 4,
+      "gas:candidate-vibid:4614045160268": 3,
+      "gas:candidate-vibid:4614045160434": 0,
+      "gas:candidate-vibid:4614045159562": 244,
+      "gas:candidate-vibid:4614045159516": 47
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/rostov?action=show&root=1000198&tvd=26120001455437&vrn=100100067795849&region=61&global=&sub_region=61&prver=0&pronetvd=null&vibid=26120001455437&type=464",
@@ -11725,15 +11725,15 @@ export const duma_2016_uik_463_region_61_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Волков Павел Николаевич": 47,
-      "Волощук Вячеслав Александрович": 6,
-      "Иванов Сергей Владимирович": 51,
-      "Котляров Анатолий Александрович": 10,
-      "Крылов Станислав Игоревич": 6,
-      "Мусиенко Александр Анатольевич": 15,
-      "Новиков Сергей Николаевич": 7,
-      "Тутова Лариса Николаевна": 280,
-      "Фоменко Григорий Петрович": 79
+      "gas:candidate-vibid:4614045159596": 47,
+      "gas:candidate-vibid:4614045160769": 6,
+      "gas:candidate-vibid:4614045143478": 51,
+      "gas:candidate-vibid:4614045158891": 10,
+      "gas:candidate-vibid:4614045160315": 6,
+      "gas:candidate-vibid:4614045160268": 15,
+      "gas:candidate-vibid:4614045160434": 7,
+      "gas:candidate-vibid:4614045159562": 280,
+      "gas:candidate-vibid:4614045159516": 79
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/rostov?action=show&root=1000198&tvd=26120001455437&vrn=100100067795849&region=61&global=&sub_region=61&prver=0&pronetvd=null&vibid=26120001455437&type=464",
@@ -11784,15 +11784,15 @@ export const duma_2016_uik_463_region_61_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Волков Павел Николаевич": 21,
-      "Волощук Вячеслав Александрович": 3,
-      "Иванов Сергей Владимирович": 37,
-      "Котляров Анатолий Александрович": 32,
-      "Крылов Станислав Игоревич": 4,
-      "Мусиенко Александр Анатольевич": 9,
-      "Новиков Сергей Николаевич": 6,
-      "Тутова Лариса Николаевна": 403,
-      "Фоменко Григорий Петрович": 43
+      "gas:candidate-vibid:4614045159596": 21,
+      "gas:candidate-vibid:4614045160769": 3,
+      "gas:candidate-vibid:4614045143478": 37,
+      "gas:candidate-vibid:4614045158891": 32,
+      "gas:candidate-vibid:4614045160315": 4,
+      "gas:candidate-vibid:4614045160268": 9,
+      "gas:candidate-vibid:4614045160434": 6,
+      "gas:candidate-vibid:4614045159562": 403,
+      "gas:candidate-vibid:4614045159516": 43
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/rostov?action=show&root=1000198&tvd=26120001455437&vrn=100100067795849&region=61&global=&sub_region=61&prver=0&pronetvd=null&vibid=26120001455437&type=464",
@@ -11843,15 +11843,15 @@ export const duma_2016_uik_463_region_61_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Волков Павел Николаевич": 9,
-      "Волощук Вячеслав Александрович": 4,
-      "Иванов Сергей Владимирович": 18,
-      "Котляров Анатолий Александрович": 9,
-      "Крылов Станислав Игоревич": 4,
-      "Мусиенко Александр Анатольевич": 2,
-      "Новиков Сергей Николаевич": 3,
-      "Тутова Лариса Николаевна": 138,
-      "Фоменко Григорий Петрович": 7
+      "gas:candidate-vibid:4614045159596": 9,
+      "gas:candidate-vibid:4614045160769": 4,
+      "gas:candidate-vibid:4614045143478": 18,
+      "gas:candidate-vibid:4614045158891": 9,
+      "gas:candidate-vibid:4614045160315": 4,
+      "gas:candidate-vibid:4614045160268": 2,
+      "gas:candidate-vibid:4614045160434": 3,
+      "gas:candidate-vibid:4614045159562": 138,
+      "gas:candidate-vibid:4614045159516": 7
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/rostov?action=show&root=1000198&tvd=26120001455437&vrn=100100067795849&region=61&global=&sub_region=61&prver=0&pronetvd=null&vibid=26120001455437&type=464",
@@ -11902,15 +11902,15 @@ export const duma_2016_uik_463_region_61_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Волков Павел Николаевич": 4,
-      "Волощук Вячеслав Александрович": 2,
-      "Иванов Сергей Владимирович": 21,
-      "Котляров Анатолий Александрович": 6,
-      "Крылов Станислав Игоревич": 2,
-      "Мусиенко Александр Анатольевич": 3,
-      "Новиков Сергей Николаевич": 7,
-      "Тутова Лариса Николаевна": 93,
-      "Фоменко Григорий Петрович": 12
+      "gas:candidate-vibid:4614045159596": 4,
+      "gas:candidate-vibid:4614045160769": 2,
+      "gas:candidate-vibid:4614045143478": 21,
+      "gas:candidate-vibid:4614045158891": 6,
+      "gas:candidate-vibid:4614045160315": 2,
+      "gas:candidate-vibid:4614045160268": 3,
+      "gas:candidate-vibid:4614045160434": 7,
+      "gas:candidate-vibid:4614045159562": 93,
+      "gas:candidate-vibid:4614045159516": 12
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/rostov?action=show&root=1000198&tvd=26120001455437&vrn=100100067795849&region=61&global=&sub_region=61&prver=0&pronetvd=null&vibid=26120001455437&type=464",
@@ -11961,15 +11961,15 @@ export const duma_2016_uik_463_region_61_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Волков Павел Николаевич": 58,
-      "Волощук Вячеслав Александрович": 13,
-      "Иванов Сергей Владимирович": 88,
-      "Котляров Анатолий Александрович": 45,
-      "Крылов Станислав Игоревич": 11,
-      "Мусиенко Александр Анатольевич": 10,
-      "Новиков Сергей Николаевич": 14,
-      "Тутова Лариса Николаевна": 284,
-      "Фоменко Григорий Петрович": 65
+      "gas:candidate-vibid:4614045159596": 58,
+      "gas:candidate-vibid:4614045160769": 13,
+      "gas:candidate-vibid:4614045143478": 88,
+      "gas:candidate-vibid:4614045158891": 45,
+      "gas:candidate-vibid:4614045160315": 11,
+      "gas:candidate-vibid:4614045160268": 10,
+      "gas:candidate-vibid:4614045160434": 14,
+      "gas:candidate-vibid:4614045159562": 284,
+      "gas:candidate-vibid:4614045159516": 65
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/rostov?action=show&root=1000198&tvd=26120001455437&vrn=100100067795849&region=61&global=&sub_region=61&prver=0&pronetvd=null&vibid=26120001455437&type=464",
@@ -12020,15 +12020,15 @@ export const duma_2016_uik_463_region_61_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Волков Павел Николаевич": 9,
-      "Волощук Вячеслав Александрович": 1,
-      "Иванов Сергей Владимирович": 15,
-      "Котляров Анатолий Александрович": 3,
-      "Крылов Станислав Игоревич": 1,
-      "Мусиенко Александр Анатольевич": 1,
-      "Новиков Сергей Николаевич": 2,
-      "Тутова Лариса Николаевна": 108,
-      "Фоменко Григорий Петрович": 6
+      "gas:candidate-vibid:4614045159596": 9,
+      "gas:candidate-vibid:4614045160769": 1,
+      "gas:candidate-vibid:4614045143478": 15,
+      "gas:candidate-vibid:4614045158891": 3,
+      "gas:candidate-vibid:4614045160315": 1,
+      "gas:candidate-vibid:4614045160268": 1,
+      "gas:candidate-vibid:4614045160434": 2,
+      "gas:candidate-vibid:4614045159562": 108,
+      "gas:candidate-vibid:4614045159516": 6
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/rostov?action=show&root=1000198&tvd=26120001455437&vrn=100100067795849&region=61&global=&sub_region=61&prver=0&pronetvd=null&vibid=26120001455437&type=464",
@@ -12079,15 +12079,15 @@ export const duma_2016_uik_463_region_61_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Волков Павел Николаевич": 5,
-      "Волощук Вячеслав Александрович": 3,
-      "Иванов Сергей Владимирович": 8,
-      "Котляров Анатолий Александрович": 3,
-      "Крылов Станислав Игоревич": 0,
-      "Мусиенко Александр Анатольевич": 0,
-      "Новиков Сергей Николаевич": 0,
-      "Тутова Лариса Николаевна": 64,
-      "Фоменко Григорий Петрович": 1
+      "gas:candidate-vibid:4614045159596": 5,
+      "gas:candidate-vibid:4614045160769": 3,
+      "gas:candidate-vibid:4614045143478": 8,
+      "gas:candidate-vibid:4614045158891": 3,
+      "gas:candidate-vibid:4614045160315": 0,
+      "gas:candidate-vibid:4614045160268": 0,
+      "gas:candidate-vibid:4614045160434": 0,
+      "gas:candidate-vibid:4614045159562": 64,
+      "gas:candidate-vibid:4614045159516": 1
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/rostov?action=show&root=1000198&tvd=26120001455437&vrn=100100067795849&region=61&global=&sub_region=61&prver=0&pronetvd=null&vibid=26120001455437&type=464",
@@ -12138,15 +12138,15 @@ export const duma_2016_uik_463_region_61_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Волков Павел Николаевич": 26,
-      "Волощук Вячеслав Александрович": 6,
-      "Иванов Сергей Владимирович": 55,
-      "Котляров Анатолий Александрович": 20,
-      "Крылов Станислав Игоревич": 3,
-      "Мусиенко Александр Анатольевич": 4,
-      "Новиков Сергей Николаевич": 2,
-      "Тутова Лариса Николаевна": 155,
-      "Фоменко Григорий Петрович": 25
+      "gas:candidate-vibid:4614045159596": 26,
+      "gas:candidate-vibid:4614045160769": 6,
+      "gas:candidate-vibid:4614045143478": 55,
+      "gas:candidate-vibid:4614045158891": 20,
+      "gas:candidate-vibid:4614045160315": 3,
+      "gas:candidate-vibid:4614045160268": 4,
+      "gas:candidate-vibid:4614045160434": 2,
+      "gas:candidate-vibid:4614045159562": 155,
+      "gas:candidate-vibid:4614045159516": 25
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/rostov?action=show&root=1000198&tvd=26120001455437&vrn=100100067795849&region=61&global=&sub_region=61&prver=0&pronetvd=null&vibid=26120001455437&type=464",
@@ -12197,15 +12197,15 @@ export const duma_2016_uik_463_region_61_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Волков Павел Николаевич": 44,
-      "Волощук Вячеслав Александрович": 6,
-      "Иванов Сергей Владимирович": 95,
-      "Котляров Анатолий Александрович": 35,
-      "Крылов Станислав Игоревич": 8,
-      "Мусиенко Александр Анатольевич": 16,
-      "Новиков Сергей Николаевич": 6,
-      "Тутова Лариса Николаевна": 325,
-      "Фоменко Григорий Петрович": 56
+      "gas:candidate-vibid:4614045159596": 44,
+      "gas:candidate-vibid:4614045160769": 6,
+      "gas:candidate-vibid:4614045143478": 95,
+      "gas:candidate-vibid:4614045158891": 35,
+      "gas:candidate-vibid:4614045160315": 8,
+      "gas:candidate-vibid:4614045160268": 16,
+      "gas:candidate-vibid:4614045160434": 6,
+      "gas:candidate-vibid:4614045159562": 325,
+      "gas:candidate-vibid:4614045159516": 56
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/rostov?action=show&root=1000198&tvd=26120001455437&vrn=100100067795849&region=61&global=&sub_region=61&prver=0&pronetvd=null&vibid=26120001455437&type=464",
@@ -12256,15 +12256,15 @@ export const duma_2016_uik_463_region_61_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Волков Павел Николаевич": 18,
-      "Волощук Вячеслав Александрович": 3,
-      "Иванов Сергей Владимирович": 39,
-      "Котляров Анатолий Александрович": 21,
-      "Крылов Станислав Игоревич": 2,
-      "Мусиенко Александр Анатольевич": 3,
-      "Новиков Сергей Николаевич": 1,
-      "Тутова Лариса Николаевна": 157,
-      "Фоменко Григорий Петрович": 34
+      "gas:candidate-vibid:4614045159596": 18,
+      "gas:candidate-vibid:4614045160769": 3,
+      "gas:candidate-vibid:4614045143478": 39,
+      "gas:candidate-vibid:4614045158891": 21,
+      "gas:candidate-vibid:4614045160315": 2,
+      "gas:candidate-vibid:4614045160268": 3,
+      "gas:candidate-vibid:4614045160434": 1,
+      "gas:candidate-vibid:4614045159562": 157,
+      "gas:candidate-vibid:4614045159516": 34
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/rostov?action=show&root=1000198&tvd=26120001455437&vrn=100100067795849&region=61&global=&sub_region=61&prver=0&pronetvd=null&vibid=26120001455437&type=464",
@@ -12315,15 +12315,15 @@ export const duma_2016_uik_463_region_61_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Волков Павел Николаевич": 21,
-      "Волощук Вячеслав Александрович": 4,
-      "Иванов Сергей Владимирович": 45,
-      "Котляров Анатолий Александрович": 14,
-      "Крылов Станислав Игоревич": 5,
-      "Мусиенко Александр Анатольевич": 4,
-      "Новиков Сергей Николаевич": 3,
-      "Тутова Лариса Николаевна": 170,
-      "Фоменко Григорий Петрович": 23
+      "gas:candidate-vibid:4614045159596": 21,
+      "gas:candidate-vibid:4614045160769": 4,
+      "gas:candidate-vibid:4614045143478": 45,
+      "gas:candidate-vibid:4614045158891": 14,
+      "gas:candidate-vibid:4614045160315": 5,
+      "gas:candidate-vibid:4614045160268": 4,
+      "gas:candidate-vibid:4614045160434": 3,
+      "gas:candidate-vibid:4614045159562": 170,
+      "gas:candidate-vibid:4614045159516": 23
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/rostov?action=show&root=1000198&tvd=26120001455437&vrn=100100067795849&region=61&global=&sub_region=61&prver=0&pronetvd=null&vibid=26120001455437&type=464",
@@ -12374,15 +12374,15 @@ export const duma_2016_uik_463_region_61_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Волков Павел Николаевич": 14,
-      "Волощук Вячеслав Александрович": 2,
-      "Иванов Сергей Владимирович": 49,
-      "Котляров Анатолий Александрович": 16,
-      "Крылов Станислав Игоревич": 4,
-      "Мусиенко Александр Анатольевич": 1,
-      "Новиков Сергей Николаевич": 3,
-      "Тутова Лариса Николаевна": 146,
-      "Фоменко Григорий Петрович": 12
+      "gas:candidate-vibid:4614045159596": 14,
+      "gas:candidate-vibid:4614045160769": 2,
+      "gas:candidate-vibid:4614045143478": 49,
+      "gas:candidate-vibid:4614045158891": 16,
+      "gas:candidate-vibid:4614045160315": 4,
+      "gas:candidate-vibid:4614045160268": 1,
+      "gas:candidate-vibid:4614045160434": 3,
+      "gas:candidate-vibid:4614045159562": 146,
+      "gas:candidate-vibid:4614045159516": 12
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/rostov?action=show&root=1000198&tvd=26120001455437&vrn=100100067795849&region=61&global=&sub_region=61&prver=0&pronetvd=null&vibid=26120001455437&type=464",
@@ -12433,15 +12433,15 @@ export const duma_2016_uik_463_region_61_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Волков Павел Николаевич": 10,
-      "Волощук Вячеслав Александрович": 4,
-      "Иванов Сергей Владимирович": 12,
-      "Котляров Анатолий Александрович": 5,
-      "Крылов Станислав Игоревич": 2,
-      "Мусиенко Александр Анатольевич": 0,
-      "Новиков Сергей Николаевич": 4,
-      "Тутова Лариса Николаевна": 94,
-      "Фоменко Григорий Петрович": 22
+      "gas:candidate-vibid:4614045159596": 10,
+      "gas:candidate-vibid:4614045160769": 4,
+      "gas:candidate-vibid:4614045143478": 12,
+      "gas:candidate-vibid:4614045158891": 5,
+      "gas:candidate-vibid:4614045160315": 2,
+      "gas:candidate-vibid:4614045160268": 0,
+      "gas:candidate-vibid:4614045160434": 4,
+      "gas:candidate-vibid:4614045159562": 94,
+      "gas:candidate-vibid:4614045159516": 22
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/rostov?action=show&root=1000198&tvd=26120001455437&vrn=100100067795849&region=61&global=&sub_region=61&prver=0&pronetvd=null&vibid=26120001455437&type=464",
@@ -12492,15 +12492,15 @@ export const duma_2016_uik_463_region_61_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Волков Павел Николаевич": 37,
-      "Волощук Вячеслав Александрович": 6,
-      "Иванов Сергей Владимирович": 40,
-      "Котляров Анатолий Александрович": 14,
-      "Крылов Станислав Игоревич": 8,
-      "Мусиенко Александр Анатольевич": 4,
-      "Новиков Сергей Николаевич": 8,
-      "Тутова Лариса Николаевна": 230,
-      "Фоменко Григорий Петрович": 55
+      "gas:candidate-vibid:4614045159596": 37,
+      "gas:candidate-vibid:4614045160769": 6,
+      "gas:candidate-vibid:4614045143478": 40,
+      "gas:candidate-vibid:4614045158891": 14,
+      "gas:candidate-vibid:4614045160315": 8,
+      "gas:candidate-vibid:4614045160268": 4,
+      "gas:candidate-vibid:4614045160434": 8,
+      "gas:candidate-vibid:4614045159562": 230,
+      "gas:candidate-vibid:4614045159516": 55
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/rostov?action=show&root=1000198&tvd=26120001455437&vrn=100100067795849&region=61&global=&sub_region=61&prver=0&pronetvd=null&vibid=26120001455437&type=464",
@@ -12551,15 +12551,15 @@ export const duma_2016_uik_463_region_61_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Волков Павел Николаевич": 0,
-      "Волощук Вячеслав Александрович": 0,
-      "Иванов Сергей Владимирович": 0,
-      "Котляров Анатолий Александрович": 0,
-      "Крылов Станислав Игоревич": 0,
-      "Мусиенко Александр Анатольевич": 0,
-      "Новиков Сергей Николаевич": 0,
-      "Тутова Лариса Николаевна": 40,
-      "Фоменко Григорий Петрович": 5
+      "gas:candidate-vibid:4614045159596": 0,
+      "gas:candidate-vibid:4614045160769": 0,
+      "gas:candidate-vibid:4614045143478": 0,
+      "gas:candidate-vibid:4614045158891": 0,
+      "gas:candidate-vibid:4614045160315": 0,
+      "gas:candidate-vibid:4614045160268": 0,
+      "gas:candidate-vibid:4614045160434": 0,
+      "gas:candidate-vibid:4614045159562": 40,
+      "gas:candidate-vibid:4614045159516": 5
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/rostov?action=show&root=1000198&tvd=26120001455437&vrn=100100067795849&region=61&global=&sub_region=61&prver=0&pronetvd=null&vibid=26120001455437&type=464",
@@ -12610,15 +12610,15 @@ export const duma_2016_uik_463_region_61_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Волков Павел Николаевич": 14,
-      "Волощук Вячеслав Александрович": 2,
-      "Иванов Сергей Владимирович": 16,
-      "Котляров Анатолий Александрович": 4,
-      "Крылов Станислав Игоревич": 2,
-      "Мусиенко Александр Анатольевич": 2,
-      "Новиков Сергей Николаевич": 2,
-      "Тутова Лариса Николаевна": 198,
-      "Фоменко Григорий Петрович": 19
+      "gas:candidate-vibid:4614045159596": 14,
+      "gas:candidate-vibid:4614045160769": 2,
+      "gas:candidate-vibid:4614045143478": 16,
+      "gas:candidate-vibid:4614045158891": 4,
+      "gas:candidate-vibid:4614045160315": 2,
+      "gas:candidate-vibid:4614045160268": 2,
+      "gas:candidate-vibid:4614045160434": 2,
+      "gas:candidate-vibid:4614045159562": 198,
+      "gas:candidate-vibid:4614045159516": 19
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/rostov?action=show&root=1000198&tvd=26120001455437&vrn=100100067795849&region=61&global=&sub_region=61&prver=0&pronetvd=null&vibid=26120001455437&type=464",
@@ -12669,15 +12669,15 @@ export const duma_2016_uik_463_region_61_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Волков Павел Николаевич": 6,
-      "Волощук Вячеслав Александрович": 3,
-      "Иванов Сергей Владимирович": 4,
-      "Котляров Анатолий Александрович": 2,
-      "Крылов Станислав Игоревич": 0,
-      "Мусиенко Александр Анатольевич": 0,
-      "Новиков Сергей Николаевич": 0,
-      "Тутова Лариса Николаевна": 92,
-      "Фоменко Григорий Петрович": 6
+      "gas:candidate-vibid:4614045159596": 6,
+      "gas:candidate-vibid:4614045160769": 3,
+      "gas:candidate-vibid:4614045143478": 4,
+      "gas:candidate-vibid:4614045158891": 2,
+      "gas:candidate-vibid:4614045160315": 0,
+      "gas:candidate-vibid:4614045160268": 0,
+      "gas:candidate-vibid:4614045160434": 0,
+      "gas:candidate-vibid:4614045159562": 92,
+      "gas:candidate-vibid:4614045159516": 6
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/rostov?action=show&root=1000198&tvd=26120001455437&vrn=100100067795849&region=61&global=&sub_region=61&prver=0&pronetvd=null&vibid=26120001455437&type=464",
@@ -12728,15 +12728,15 @@ export const duma_2016_uik_463_region_61_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Волков Павел Николаевич": 19,
-      "Волощук Вячеслав Александрович": 3,
-      "Иванов Сергей Владимирович": 43,
-      "Котляров Анатолий Александрович": 20,
-      "Крылов Станислав Игоревич": 6,
-      "Мусиенко Александр Анатольевич": 9,
-      "Новиков Сергей Николаевич": 6,
-      "Тутова Лариса Николаевна": 303,
-      "Фоменко Григорий Петрович": 29
+      "gas:candidate-vibid:4614045159596": 19,
+      "gas:candidate-vibid:4614045160769": 3,
+      "gas:candidate-vibid:4614045143478": 43,
+      "gas:candidate-vibid:4614045158891": 20,
+      "gas:candidate-vibid:4614045160315": 6,
+      "gas:candidate-vibid:4614045160268": 9,
+      "gas:candidate-vibid:4614045160434": 6,
+      "gas:candidate-vibid:4614045159562": 303,
+      "gas:candidate-vibid:4614045159516": 29
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/rostov?action=show&root=1000198&tvd=26120001455437&vrn=100100067795849&region=61&global=&sub_region=61&prver=0&pronetvd=null&vibid=26120001455437&type=464",
@@ -12787,15 +12787,15 @@ export const duma_2016_uik_463_region_61_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Волков Павел Николаевич": 5,
-      "Волощук Вячеслав Александрович": 1,
-      "Иванов Сергей Владимирович": 9,
-      "Котляров Анатолий Александрович": 7,
-      "Крылов Станислав Игоревич": 3,
-      "Мусиенко Александр Анатольевич": 1,
-      "Новиков Сергей Николаевич": 1,
-      "Тутова Лариса Николаевна": 51,
-      "Фоменко Григорий Петрович": 4
+      "gas:candidate-vibid:4614045159596": 5,
+      "gas:candidate-vibid:4614045160769": 1,
+      "gas:candidate-vibid:4614045143478": 9,
+      "gas:candidate-vibid:4614045158891": 7,
+      "gas:candidate-vibid:4614045160315": 3,
+      "gas:candidate-vibid:4614045160268": 1,
+      "gas:candidate-vibid:4614045160434": 1,
+      "gas:candidate-vibid:4614045159562": 51,
+      "gas:candidate-vibid:4614045159516": 4
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/rostov?action=show&root=1000198&tvd=26120001455437&vrn=100100067795849&region=61&global=&sub_region=61&prver=0&pronetvd=null&vibid=26120001455437&type=464",
@@ -12846,15 +12846,15 @@ export const duma_2016_uik_463_region_61_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Волков Павел Николаевич": 5,
-      "Волощук Вячеслав Александрович": 3,
-      "Иванов Сергей Владимирович": 9,
-      "Котляров Анатолий Александрович": 2,
-      "Крылов Станислав Игоревич": 4,
-      "Мусиенко Александр Анатольевич": 1,
-      "Новиков Сергей Николаевич": 4,
-      "Тутова Лариса Николаевна": 45,
-      "Фоменко Григорий Петрович": 13
+      "gas:candidate-vibid:4614045159596": 5,
+      "gas:candidate-vibid:4614045160769": 3,
+      "gas:candidate-vibid:4614045143478": 9,
+      "gas:candidate-vibid:4614045158891": 2,
+      "gas:candidate-vibid:4614045160315": 4,
+      "gas:candidate-vibid:4614045160268": 1,
+      "gas:candidate-vibid:4614045160434": 4,
+      "gas:candidate-vibid:4614045159562": 45,
+      "gas:candidate-vibid:4614045159516": 13
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/rostov?action=show&root=1000198&tvd=26120001455437&vrn=100100067795849&region=61&global=&sub_region=61&prver=0&pronetvd=null&vibid=26120001455437&type=464",
@@ -12905,15 +12905,15 @@ export const duma_2016_uik_463_region_61_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Волков Павел Николаевич": 19,
-      "Волощук Вячеслав Александрович": 3,
-      "Иванов Сергей Владимирович": 33,
-      "Котляров Анатолий Александрович": 12,
-      "Крылов Станислав Игоревич": 6,
-      "Мусиенко Александр Анатольевич": 5,
-      "Новиков Сергей Николаевич": 5,
-      "Тутова Лариса Николаевна": 360,
-      "Фоменко Григорий Петрович": 36
+      "gas:candidate-vibid:4614045159596": 19,
+      "gas:candidate-vibid:4614045160769": 3,
+      "gas:candidate-vibid:4614045143478": 33,
+      "gas:candidate-vibid:4614045158891": 12,
+      "gas:candidate-vibid:4614045160315": 6,
+      "gas:candidate-vibid:4614045160268": 5,
+      "gas:candidate-vibid:4614045160434": 5,
+      "gas:candidate-vibid:4614045159562": 360,
+      "gas:candidate-vibid:4614045159516": 36
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/rostov?action=show&root=1000198&tvd=26120001455438&vrn=100100067795849&region=61&global=&sub_region=61&prver=0&pronetvd=null&vibid=26120001455438&type=464",
@@ -12964,15 +12964,15 @@ export const duma_2016_uik_463_region_61_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Волков Павел Николаевич": 4,
-      "Волощук Вячеслав Александрович": 3,
-      "Иванов Сергей Владимирович": 16,
-      "Котляров Анатолий Александрович": 3,
-      "Крылов Станислав Игоревич": 1,
-      "Мусиенко Александр Анатольевич": 3,
-      "Новиков Сергей Николаевич": 1,
-      "Тутова Лариса Николаевна": 125,
-      "Фоменко Григорий Петрович": 10
+      "gas:candidate-vibid:4614045159596": 4,
+      "gas:candidate-vibid:4614045160769": 3,
+      "gas:candidate-vibid:4614045143478": 16,
+      "gas:candidate-vibid:4614045158891": 3,
+      "gas:candidate-vibid:4614045160315": 1,
+      "gas:candidate-vibid:4614045160268": 3,
+      "gas:candidate-vibid:4614045160434": 1,
+      "gas:candidate-vibid:4614045159562": 125,
+      "gas:candidate-vibid:4614045159516": 10
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/rostov?action=show&root=1000198&tvd=26120001455438&vrn=100100067795849&region=61&global=&sub_region=61&prver=0&pronetvd=null&vibid=26120001455438&type=464",
@@ -13023,15 +13023,15 @@ export const duma_2016_uik_463_region_61_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Волков Павел Николаевич": 7,
-      "Волощук Вячеслав Александрович": 0,
-      "Иванов Сергей Владимирович": 14,
-      "Котляров Анатолий Александрович": 5,
-      "Крылов Станислав Игоревич": 1,
-      "Мусиенко Александр Анатольевич": 3,
-      "Новиков Сергей Николаевич": 2,
-      "Тутова Лариса Николаевна": 71,
-      "Фоменко Григорий Петрович": 19
+      "gas:candidate-vibid:4614045159596": 7,
+      "gas:candidate-vibid:4614045160769": 0,
+      "gas:candidate-vibid:4614045143478": 14,
+      "gas:candidate-vibid:4614045158891": 5,
+      "gas:candidate-vibid:4614045160315": 1,
+      "gas:candidate-vibid:4614045160268": 3,
+      "gas:candidate-vibid:4614045160434": 2,
+      "gas:candidate-vibid:4614045159562": 71,
+      "gas:candidate-vibid:4614045159516": 19
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/rostov?action=show&root=1000198&tvd=26120001455438&vrn=100100067795849&region=61&global=&sub_region=61&prver=0&pronetvd=null&vibid=26120001455438&type=464",
@@ -13082,15 +13082,15 @@ export const duma_2016_uik_463_region_61_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Волков Павел Николаевич": 11,
-      "Волощук Вячеслав Александрович": 3,
-      "Иванов Сергей Владимирович": 19,
-      "Котляров Анатолий Александрович": 4,
-      "Крылов Станислав Игоревич": 3,
-      "Мусиенко Александр Анатольевич": 4,
-      "Новиков Сергей Николаевич": 2,
-      "Тутова Лариса Николаевна": 101,
-      "Фоменко Григорий Петрович": 15
+      "gas:candidate-vibid:4614045159596": 11,
+      "gas:candidate-vibid:4614045160769": 3,
+      "gas:candidate-vibid:4614045143478": 19,
+      "gas:candidate-vibid:4614045158891": 4,
+      "gas:candidate-vibid:4614045160315": 3,
+      "gas:candidate-vibid:4614045160268": 4,
+      "gas:candidate-vibid:4614045160434": 2,
+      "gas:candidate-vibid:4614045159562": 101,
+      "gas:candidate-vibid:4614045159516": 15
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/rostov?action=show&root=1000198&tvd=26120001455438&vrn=100100067795849&region=61&global=&sub_region=61&prver=0&pronetvd=null&vibid=26120001455438&type=464",
@@ -13141,15 +13141,15 @@ export const duma_2016_uik_463_region_61_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Волков Павел Николаевич": 5,
-      "Волощук Вячеслав Александрович": 0,
-      "Иванов Сергей Владимирович": 8,
-      "Котляров Анатолий Александрович": 1,
-      "Крылов Станислав Игоревич": 0,
-      "Мусиенко Александр Анатольевич": 0,
-      "Новиков Сергей Николаевич": 0,
-      "Тутова Лариса Николаевна": 34,
-      "Фоменко Григорий Петрович": 4
+      "gas:candidate-vibid:4614045159596": 5,
+      "gas:candidate-vibid:4614045160769": 0,
+      "gas:candidate-vibid:4614045143478": 8,
+      "gas:candidate-vibid:4614045158891": 1,
+      "gas:candidate-vibid:4614045160315": 0,
+      "gas:candidate-vibid:4614045160268": 0,
+      "gas:candidate-vibid:4614045160434": 0,
+      "gas:candidate-vibid:4614045159562": 34,
+      "gas:candidate-vibid:4614045159516": 4
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/rostov?action=show&root=1000198&tvd=26120001455438&vrn=100100067795849&region=61&global=&sub_region=61&prver=0&pronetvd=null&vibid=26120001455438&type=464",
@@ -13200,15 +13200,15 @@ export const duma_2016_uik_463_region_61_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Волков Павел Николаевич": 8,
-      "Волощук Вячеслав Александрович": 5,
-      "Иванов Сергей Владимирович": 11,
-      "Котляров Анатолий Александрович": 9,
-      "Крылов Станислав Игоревич": 0,
-      "Мусиенко Александр Анатольевич": 0,
-      "Новиков Сергей Николаевич": 1,
-      "Тутова Лариса Николаевна": 34,
-      "Фоменко Григорий Петрович": 16
+      "gas:candidate-vibid:4614045159596": 8,
+      "gas:candidate-vibid:4614045160769": 5,
+      "gas:candidate-vibid:4614045143478": 11,
+      "gas:candidate-vibid:4614045158891": 9,
+      "gas:candidate-vibid:4614045160315": 0,
+      "gas:candidate-vibid:4614045160268": 0,
+      "gas:candidate-vibid:4614045160434": 1,
+      "gas:candidate-vibid:4614045159562": 34,
+      "gas:candidate-vibid:4614045159516": 16
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/rostov?action=show&root=1000198&tvd=26120001455438&vrn=100100067795849&region=61&global=&sub_region=61&prver=0&pronetvd=null&vibid=26120001455438&type=464",
@@ -13259,15 +13259,15 @@ export const duma_2016_uik_463_region_61_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Волков Павел Николаевич": 84,
-      "Волощук Вячеслав Александрович": 11,
-      "Иванов Сергей Владимирович": 90,
-      "Котляров Анатолий Александрович": 39,
-      "Крылов Станислав Игоревич": 9,
-      "Мусиенко Александр Анатольевич": 3,
-      "Новиков Сергей Николаевич": 18,
-      "Тутова Лариса Николаевна": 566,
-      "Фоменко Григорий Петрович": 116
+      "gas:candidate-vibid:4614045159596": 84,
+      "gas:candidate-vibid:4614045160769": 11,
+      "gas:candidate-vibid:4614045143478": 90,
+      "gas:candidate-vibid:4614045158891": 39,
+      "gas:candidate-vibid:4614045160315": 9,
+      "gas:candidate-vibid:4614045160268": 3,
+      "gas:candidate-vibid:4614045160434": 18,
+      "gas:candidate-vibid:4614045159562": 566,
+      "gas:candidate-vibid:4614045159516": 116
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/rostov?action=show&root=1000198&tvd=26120001455438&vrn=100100067795849&region=61&global=&sub_region=61&prver=0&pronetvd=null&vibid=26120001455438&type=464",
@@ -13318,15 +13318,15 @@ export const duma_2016_uik_463_region_61_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Волков Павел Николаевич": 8,
-      "Волощук Вячеслав Александрович": 1,
-      "Иванов Сергей Владимирович": 6,
-      "Котляров Анатолий Александрович": 0,
-      "Крылов Станислав Игоревич": 1,
-      "Мусиенко Александр Анатольевич": 0,
-      "Новиков Сергей Николаевич": 2,
-      "Тутова Лариса Николаевна": 47,
-      "Фоменко Григорий Петрович": 10
+      "gas:candidate-vibid:4614045159596": 8,
+      "gas:candidate-vibid:4614045160769": 1,
+      "gas:candidate-vibid:4614045143478": 6,
+      "gas:candidate-vibid:4614045158891": 0,
+      "gas:candidate-vibid:4614045160315": 1,
+      "gas:candidate-vibid:4614045160268": 0,
+      "gas:candidate-vibid:4614045160434": 2,
+      "gas:candidate-vibid:4614045159562": 47,
+      "gas:candidate-vibid:4614045159516": 10
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/rostov?action=show&root=1000198&tvd=26120001455438&vrn=100100067795849&region=61&global=&sub_region=61&prver=0&pronetvd=null&vibid=26120001455438&type=464",
@@ -13377,15 +13377,15 @@ export const duma_2016_uik_463_region_61_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Волков Павел Николаевич": 7,
-      "Волощук Вячеслав Александрович": 0,
-      "Иванов Сергей Владимирович": 4,
-      "Котляров Анатолий Александрович": 7,
-      "Крылов Станислав Игоревич": 2,
-      "Мусиенко Александр Анатольевич": 2,
-      "Новиков Сергей Николаевич": 2,
-      "Тутова Лариса Николаевна": 64,
-      "Фоменко Григорий Петрович": 23
+      "gas:candidate-vibid:4614045159596": 7,
+      "gas:candidate-vibid:4614045160769": 0,
+      "gas:candidate-vibid:4614045143478": 4,
+      "gas:candidate-vibid:4614045158891": 7,
+      "gas:candidate-vibid:4614045160315": 2,
+      "gas:candidate-vibid:4614045160268": 2,
+      "gas:candidate-vibid:4614045160434": 2,
+      "gas:candidate-vibid:4614045159562": 64,
+      "gas:candidate-vibid:4614045159516": 23
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/rostov?action=show&root=1000198&tvd=26120001455438&vrn=100100067795849&region=61&global=&sub_region=61&prver=0&pronetvd=null&vibid=26120001455438&type=464",
@@ -13436,15 +13436,15 @@ export const duma_2016_uik_463_region_61_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Волков Павел Николаевич": 7,
-      "Волощук Вячеслав Александрович": 3,
-      "Иванов Сергей Владимирович": 14,
-      "Котляров Анатолий Александрович": 5,
-      "Крылов Станислав Игоревич": 4,
-      "Мусиенко Александр Анатольевич": 2,
-      "Новиков Сергей Николаевич": 4,
-      "Тутова Лариса Николаевна": 85,
-      "Фоменко Григорий Петрович": 12
+      "gas:candidate-vibid:4614045159596": 7,
+      "gas:candidate-vibid:4614045160769": 3,
+      "gas:candidate-vibid:4614045143478": 14,
+      "gas:candidate-vibid:4614045158891": 5,
+      "gas:candidate-vibid:4614045160315": 4,
+      "gas:candidate-vibid:4614045160268": 2,
+      "gas:candidate-vibid:4614045160434": 4,
+      "gas:candidate-vibid:4614045159562": 85,
+      "gas:candidate-vibid:4614045159516": 12
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/rostov?action=show&root=1000198&tvd=26120001455438&vrn=100100067795849&region=61&global=&sub_region=61&prver=0&pronetvd=null&vibid=26120001455438&type=464",
@@ -13495,15 +13495,15 @@ export const duma_2016_uik_463_region_61_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Волков Павел Николаевич": 18,
-      "Волощук Вячеслав Александрович": 3,
-      "Иванов Сергей Владимирович": 22,
-      "Котляров Анатолий Александрович": 9,
-      "Крылов Станислав Игоревич": 4,
-      "Мусиенко Александр Анатольевич": 2,
-      "Новиков Сергей Николаевич": 3,
-      "Тутова Лариса Николаевна": 93,
-      "Фоменко Григорий Петрович": 22
+      "gas:candidate-vibid:4614045159596": 18,
+      "gas:candidate-vibid:4614045160769": 3,
+      "gas:candidate-vibid:4614045143478": 22,
+      "gas:candidate-vibid:4614045158891": 9,
+      "gas:candidate-vibid:4614045160315": 4,
+      "gas:candidate-vibid:4614045160268": 2,
+      "gas:candidate-vibid:4614045160434": 3,
+      "gas:candidate-vibid:4614045159562": 93,
+      "gas:candidate-vibid:4614045159516": 22
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/rostov?action=show&root=1000198&tvd=26120001455438&vrn=100100067795849&region=61&global=&sub_region=61&prver=0&pronetvd=null&vibid=26120001455438&type=464",
@@ -13554,15 +13554,15 @@ export const duma_2016_uik_463_region_61_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Волков Павел Николаевич": 41,
-      "Волощук Вячеслав Александрович": 8,
-      "Иванов Сергей Владимирович": 58,
-      "Котляров Анатолий Александрович": 19,
-      "Крылов Станислав Игоревич": 5,
-      "Мусиенко Александр Анатольевич": 11,
-      "Новиков Сергей Николаевич": 11,
-      "Тутова Лариса Николаевна": 292,
-      "Фоменко Григорий Петрович": 108
+      "gas:candidate-vibid:4614045159596": 41,
+      "gas:candidate-vibid:4614045160769": 8,
+      "gas:candidate-vibid:4614045143478": 58,
+      "gas:candidate-vibid:4614045158891": 19,
+      "gas:candidate-vibid:4614045160315": 5,
+      "gas:candidate-vibid:4614045160268": 11,
+      "gas:candidate-vibid:4614045160434": 11,
+      "gas:candidate-vibid:4614045159562": 292,
+      "gas:candidate-vibid:4614045159516": 108
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/rostov?action=show&root=1000198&tvd=26120001455438&vrn=100100067795849&region=61&global=&sub_region=61&prver=0&pronetvd=null&vibid=26120001455438&type=464",
@@ -13613,15 +13613,15 @@ export const duma_2016_uik_463_region_61_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Волков Павел Николаевич": 10,
-      "Волощук Вячеслав Александрович": 2,
-      "Иванов Сергей Владимирович": 13,
-      "Котляров Анатолий Александрович": 3,
-      "Крылов Станислав Игоревич": 1,
-      "Мусиенко Александр Анатольевич": 1,
-      "Новиков Сергей Николаевич": 2,
-      "Тутова Лариса Николаевна": 66,
-      "Фоменко Григорий Петрович": 17
+      "gas:candidate-vibid:4614045159596": 10,
+      "gas:candidate-vibid:4614045160769": 2,
+      "gas:candidate-vibid:4614045143478": 13,
+      "gas:candidate-vibid:4614045158891": 3,
+      "gas:candidate-vibid:4614045160315": 1,
+      "gas:candidate-vibid:4614045160268": 1,
+      "gas:candidate-vibid:4614045160434": 2,
+      "gas:candidate-vibid:4614045159562": 66,
+      "gas:candidate-vibid:4614045159516": 17
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/rostov?action=show&root=1000198&tvd=26120001455438&vrn=100100067795849&region=61&global=&sub_region=61&prver=0&pronetvd=null&vibid=26120001455438&type=464",
@@ -13672,15 +13672,15 @@ export const duma_2016_uik_463_region_61_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Волков Павел Николаевич": 3,
-      "Волощук Вячеслав Александрович": 2,
-      "Иванов Сергей Владимирович": 5,
-      "Котляров Анатолий Александрович": 1,
-      "Крылов Станислав Игоревич": 0,
-      "Мусиенко Александр Анатольевич": 0,
-      "Новиков Сергей Николаевич": 0,
-      "Тутова Лариса Николаевна": 50,
-      "Фоменко Григорий Петрович": 14
+      "gas:candidate-vibid:4614045159596": 3,
+      "gas:candidate-vibid:4614045160769": 2,
+      "gas:candidate-vibid:4614045143478": 5,
+      "gas:candidate-vibid:4614045158891": 1,
+      "gas:candidate-vibid:4614045160315": 0,
+      "gas:candidate-vibid:4614045160268": 0,
+      "gas:candidate-vibid:4614045160434": 0,
+      "gas:candidate-vibid:4614045159562": 50,
+      "gas:candidate-vibid:4614045159516": 14
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/rostov?action=show&root=1000198&tvd=26120001455438&vrn=100100067795849&region=61&global=&sub_region=61&prver=0&pronetvd=null&vibid=26120001455438&type=464",
@@ -13731,15 +13731,15 @@ export const duma_2016_uik_463_region_61_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Волков Павел Николаевич": 12,
-      "Волощук Вячеслав Александрович": 1,
-      "Иванов Сергей Владимирович": 24,
-      "Котляров Анатолий Александрович": 7,
-      "Крылов Станислав Игоревич": 0,
-      "Мусиенко Александр Анатольевич": 2,
-      "Новиков Сергей Николаевич": 2,
-      "Тутова Лариса Николаевна": 60,
-      "Фоменко Григорий Петрович": 17
+      "gas:candidate-vibid:4614045159596": 12,
+      "gas:candidate-vibid:4614045160769": 1,
+      "gas:candidate-vibid:4614045143478": 24,
+      "gas:candidate-vibid:4614045158891": 7,
+      "gas:candidate-vibid:4614045160315": 0,
+      "gas:candidate-vibid:4614045160268": 2,
+      "gas:candidate-vibid:4614045160434": 2,
+      "gas:candidate-vibid:4614045159562": 60,
+      "gas:candidate-vibid:4614045159516": 17
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/rostov?action=show&root=1000198&tvd=26120001455438&vrn=100100067795849&region=61&global=&sub_region=61&prver=0&pronetvd=null&vibid=26120001455438&type=464",
@@ -13790,15 +13790,15 @@ export const duma_2016_uik_463_region_61_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Волков Павел Николаевич": 20,
-      "Волощук Вячеслав Александрович": 3,
-      "Иванов Сергей Владимирович": 27,
-      "Котляров Анатолий Александрович": 10,
-      "Крылов Станислав Игоревич": 3,
-      "Мусиенко Александр Анатольевич": 1,
-      "Новиков Сергей Николаевич": 3,
-      "Тутова Лариса Николаевна": 106,
-      "Фоменко Григорий Петрович": 10
+      "gas:candidate-vibid:4614045159596": 20,
+      "gas:candidate-vibid:4614045160769": 3,
+      "gas:candidate-vibid:4614045143478": 27,
+      "gas:candidate-vibid:4614045158891": 10,
+      "gas:candidate-vibid:4614045160315": 3,
+      "gas:candidate-vibid:4614045160268": 1,
+      "gas:candidate-vibid:4614045160434": 3,
+      "gas:candidate-vibid:4614045159562": 106,
+      "gas:candidate-vibid:4614045159516": 10
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/rostov?action=show&root=1000198&tvd=26120001455438&vrn=100100067795849&region=61&global=&sub_region=61&prver=0&pronetvd=null&vibid=26120001455438&type=464",
@@ -13849,15 +13849,15 @@ export const duma_2016_uik_463_region_61_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Волков Павел Николаевич": 33,
-      "Волощук Вячеслав Александрович": 3,
-      "Иванов Сергей Владимирович": 26,
-      "Котляров Анатолий Александрович": 16,
-      "Крылов Станислав Игоревич": 2,
-      "Мусиенко Александр Анатольевич": 7,
-      "Новиков Сергей Николаевич": 7,
-      "Тутова Лариса Николаевна": 157,
-      "Фоменко Григорий Петрович": 54
+      "gas:candidate-vibid:4614045159596": 33,
+      "gas:candidate-vibid:4614045160769": 3,
+      "gas:candidate-vibid:4614045143478": 26,
+      "gas:candidate-vibid:4614045158891": 16,
+      "gas:candidate-vibid:4614045160315": 2,
+      "gas:candidate-vibid:4614045160268": 7,
+      "gas:candidate-vibid:4614045160434": 7,
+      "gas:candidate-vibid:4614045159562": 157,
+      "gas:candidate-vibid:4614045159516": 54
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/rostov?action=show&root=1000198&tvd=26120001455438&vrn=100100067795849&region=61&global=&sub_region=61&prver=0&pronetvd=null&vibid=26120001455438&type=464",
@@ -13908,15 +13908,15 @@ export const duma_2016_uik_463_region_61_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Волков Павел Николаевич": 8,
-      "Волощук Вячеслав Александрович": 2,
-      "Иванов Сергей Владимирович": 8,
-      "Котляров Анатолий Александрович": 6,
-      "Крылов Станислав Игоревич": 2,
-      "Мусиенко Александр Анатольевич": 2,
-      "Новиков Сергей Николаевич": 2,
-      "Тутова Лариса Николаевна": 88,
-      "Фоменко Григорий Петрович": 8
+      "gas:candidate-vibid:4614045159596": 8,
+      "gas:candidate-vibid:4614045160769": 2,
+      "gas:candidate-vibid:4614045143478": 8,
+      "gas:candidate-vibid:4614045158891": 6,
+      "gas:candidate-vibid:4614045160315": 2,
+      "gas:candidate-vibid:4614045160268": 2,
+      "gas:candidate-vibid:4614045160434": 2,
+      "gas:candidate-vibid:4614045159562": 88,
+      "gas:candidate-vibid:4614045159516": 8
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/rostov?action=show&root=1000198&tvd=26120001455438&vrn=100100067795849&region=61&global=&sub_region=61&prver=0&pronetvd=null&vibid=26120001455438&type=464",
@@ -13967,15 +13967,15 @@ export const duma_2016_uik_463_region_61_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Волков Павел Николаевич": 13,
-      "Волощук Вячеслав Александрович": 2,
-      "Иванов Сергей Владимирович": 20,
-      "Котляров Анатолий Александрович": 7,
-      "Крылов Станислав Игоревич": 0,
-      "Мусиенко Александр Анатольевич": 1,
-      "Новиков Сергей Николаевич": 2,
-      "Тутова Лариса Николаевна": 69,
-      "Фоменко Григорий Петрович": 16
+      "gas:candidate-vibid:4614045159596": 13,
+      "gas:candidate-vibid:4614045160769": 2,
+      "gas:candidate-vibid:4614045143478": 20,
+      "gas:candidate-vibid:4614045158891": 7,
+      "gas:candidate-vibid:4614045160315": 0,
+      "gas:candidate-vibid:4614045160268": 1,
+      "gas:candidate-vibid:4614045160434": 2,
+      "gas:candidate-vibid:4614045159562": 69,
+      "gas:candidate-vibid:4614045159516": 16
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/rostov?action=show&root=1000198&tvd=26120001455438&vrn=100100067795849&region=61&global=&sub_region=61&prver=0&pronetvd=null&vibid=26120001455438&type=464",
@@ -14026,15 +14026,15 @@ export const duma_2016_uik_463_region_61_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Волков Павел Николаевич": 15,
-      "Волощук Вячеслав Александрович": 1,
-      "Иванов Сергей Владимирович": 25,
-      "Котляров Анатолий Александрович": 15,
-      "Крылов Станислав Игоревич": 2,
-      "Мусиенко Александр Анатольевич": 5,
-      "Новиков Сергей Николаевич": 4,
-      "Тутова Лариса Николаевна": 53,
-      "Фоменко Григорий Петрович": 19
+      "gas:candidate-vibid:4614045159596": 15,
+      "gas:candidate-vibid:4614045160769": 1,
+      "gas:candidate-vibid:4614045143478": 25,
+      "gas:candidate-vibid:4614045158891": 15,
+      "gas:candidate-vibid:4614045160315": 2,
+      "gas:candidate-vibid:4614045160268": 5,
+      "gas:candidate-vibid:4614045160434": 4,
+      "gas:candidate-vibid:4614045159562": 53,
+      "gas:candidate-vibid:4614045159516": 19
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/rostov?action=show&root=1000198&tvd=26120001455438&vrn=100100067795849&region=61&global=&sub_region=61&prver=0&pronetvd=null&vibid=26120001455438&type=464",
@@ -14085,15 +14085,15 @@ export const duma_2016_uik_463_region_61_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Волков Павел Николаевич": 70,
-      "Волощук Вячеслав Александрович": 11,
-      "Иванов Сергей Владимирович": 97,
-      "Котляров Анатолий Александрович": 41,
-      "Крылов Станислав Игоревич": 11,
-      "Мусиенко Александр Анатольевич": 11,
-      "Новиков Сергей Николаевич": 9,
-      "Тутова Лариса Николаевна": 365,
-      "Фоменко Григорий Петрович": 156
+      "gas:candidate-vibid:4614045159596": 70,
+      "gas:candidate-vibid:4614045160769": 11,
+      "gas:candidate-vibid:4614045143478": 97,
+      "gas:candidate-vibid:4614045158891": 41,
+      "gas:candidate-vibid:4614045160315": 11,
+      "gas:candidate-vibid:4614045160268": 11,
+      "gas:candidate-vibid:4614045160434": 9,
+      "gas:candidate-vibid:4614045159562": 365,
+      "gas:candidate-vibid:4614045159516": 156
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/rostov?action=show&root=1000198&tvd=26120001455438&vrn=100100067795849&region=61&global=&sub_region=61&prver=0&pronetvd=null&vibid=26120001455438&type=464",
@@ -14144,15 +14144,15 @@ export const duma_2016_uik_463_region_61_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Волков Павел Николаевич": 30,
-      "Волощук Вячеслав Александрович": 1,
-      "Иванов Сергей Владимирович": 39,
-      "Котляров Анатолий Александрович": 10,
-      "Крылов Станислав Игоревич": 4,
-      "Мусиенко Александр Анатольевич": 6,
-      "Новиков Сергей Николаевич": 3,
-      "Тутова Лариса Николаевна": 154,
-      "Фоменко Григорий Петрович": 39
+      "gas:candidate-vibid:4614045159596": 30,
+      "gas:candidate-vibid:4614045160769": 1,
+      "gas:candidate-vibid:4614045143478": 39,
+      "gas:candidate-vibid:4614045158891": 10,
+      "gas:candidate-vibid:4614045160315": 4,
+      "gas:candidate-vibid:4614045160268": 6,
+      "gas:candidate-vibid:4614045160434": 3,
+      "gas:candidate-vibid:4614045159562": 154,
+      "gas:candidate-vibid:4614045159516": 39
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/rostov?action=show&root=1000198&tvd=26120001455438&vrn=100100067795849&region=61&global=&sub_region=61&prver=0&pronetvd=null&vibid=26120001455438&type=464",
@@ -14203,15 +14203,15 @@ export const duma_2016_uik_463_region_61_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Волков Павел Николаевич": 82,
-      "Волощук Вячеслав Александрович": 12,
-      "Иванов Сергей Владимирович": 144,
-      "Котляров Анатолий Александрович": 83,
-      "Крылов Станислав Игоревич": 8,
-      "Мусиенко Александр Анатольевич": 14,
-      "Новиков Сергей Николаевич": 15,
-      "Тутова Лариса Николаевна": 365,
-      "Фоменко Григорий Петрович": 139
+      "gas:candidate-vibid:4614045159596": 82,
+      "gas:candidate-vibid:4614045160769": 12,
+      "gas:candidate-vibid:4614045143478": 144,
+      "gas:candidate-vibid:4614045158891": 83,
+      "gas:candidate-vibid:4614045160315": 8,
+      "gas:candidate-vibid:4614045160268": 14,
+      "gas:candidate-vibid:4614045160434": 15,
+      "gas:candidate-vibid:4614045159562": 365,
+      "gas:candidate-vibid:4614045159516": 139
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/rostov?action=show&root=1000198&tvd=26120001455438&vrn=100100067795849&region=61&global=&sub_region=61&prver=0&pronetvd=null&vibid=26120001455438&type=464",
@@ -14262,15 +14262,15 @@ export const duma_2016_uik_463_region_61_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Волков Павел Николаевич": 36,
-      "Волощук Вячеслав Александрович": 2,
-      "Иванов Сергей Владимирович": 63,
-      "Котляров Анатолий Александрович": 52,
-      "Крылов Станислав Игоревич": 4,
-      "Мусиенко Александр Анатольевич": 7,
-      "Новиков Сергей Николаевич": 1,
-      "Тутова Лариса Николаевна": 202,
-      "Фоменко Григорий Петрович": 71
+      "gas:candidate-vibid:4614045159596": 36,
+      "gas:candidate-vibid:4614045160769": 2,
+      "gas:candidate-vibid:4614045143478": 63,
+      "gas:candidate-vibid:4614045158891": 52,
+      "gas:candidate-vibid:4614045160315": 4,
+      "gas:candidate-vibid:4614045160268": 7,
+      "gas:candidate-vibid:4614045160434": 1,
+      "gas:candidate-vibid:4614045159562": 202,
+      "gas:candidate-vibid:4614045159516": 71
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/rostov?action=show&root=1000198&tvd=26120001455438&vrn=100100067795849&region=61&global=&sub_region=61&prver=0&pronetvd=null&vibid=26120001455438&type=464",
@@ -14321,15 +14321,15 @@ export const duma_2016_uik_463_region_61_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Волков Павел Николаевич": 42,
-      "Волощук Вячеслав Александрович": 10,
-      "Иванов Сергей Владимирович": 84,
-      "Котляров Анатолий Александрович": 28,
-      "Крылов Станислав Игоревич": 4,
-      "Мусиенко Александр Анатольевич": 6,
-      "Новиков Сергей Николаевич": 6,
-      "Тутова Лариса Николаевна": 192,
-      "Фоменко Григорий Петрович": 87
+      "gas:candidate-vibid:4614045159596": 42,
+      "gas:candidate-vibid:4614045160769": 10,
+      "gas:candidate-vibid:4614045143478": 84,
+      "gas:candidate-vibid:4614045158891": 28,
+      "gas:candidate-vibid:4614045160315": 4,
+      "gas:candidate-vibid:4614045160268": 6,
+      "gas:candidate-vibid:4614045160434": 6,
+      "gas:candidate-vibid:4614045159562": 192,
+      "gas:candidate-vibid:4614045159516": 87
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/rostov?action=show&root=1000198&tvd=26120001455438&vrn=100100067795849&region=61&global=&sub_region=61&prver=0&pronetvd=null&vibid=26120001455438&type=464",
@@ -14380,15 +14380,15 @@ export const duma_2016_uik_463_region_61_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Волков Павел Николаевич": 41,
-      "Волощук Вячеслав Александрович": 2,
-      "Иванов Сергей Владимирович": 66,
-      "Котляров Анатолий Александрович": 31,
-      "Крылов Станислав Игоревич": 8,
-      "Мусиенко Александр Анатольевич": 5,
-      "Новиков Сергей Николаевич": 5,
-      "Тутова Лариса Николаевна": 261,
-      "Фоменко Григорий Петрович": 112
+      "gas:candidate-vibid:4614045159596": 41,
+      "gas:candidate-vibid:4614045160769": 2,
+      "gas:candidate-vibid:4614045143478": 66,
+      "gas:candidate-vibid:4614045158891": 31,
+      "gas:candidate-vibid:4614045160315": 8,
+      "gas:candidate-vibid:4614045160268": 5,
+      "gas:candidate-vibid:4614045160434": 5,
+      "gas:candidate-vibid:4614045159562": 261,
+      "gas:candidate-vibid:4614045159516": 112
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/rostov?action=show&root=1000198&tvd=26120001455438&vrn=100100067795849&region=61&global=&sub_region=61&prver=0&pronetvd=null&vibid=26120001455438&type=464",
@@ -14439,15 +14439,15 @@ export const duma_2016_uik_463_region_61_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Волков Павел Николаевич": 25,
-      "Волощук Вячеслав Александрович": 3,
-      "Иванов Сергей Владимирович": 53,
-      "Котляров Анатолий Александрович": 15,
-      "Крылов Станислав Игоревич": 1,
-      "Мусиенко Александр Анатольевич": 3,
-      "Новиков Сергей Николаевич": 6,
-      "Тутова Лариса Николаевна": 127,
-      "Фоменко Григорий Петрович": 56
+      "gas:candidate-vibid:4614045159596": 25,
+      "gas:candidate-vibid:4614045160769": 3,
+      "gas:candidate-vibid:4614045143478": 53,
+      "gas:candidate-vibid:4614045158891": 15,
+      "gas:candidate-vibid:4614045160315": 1,
+      "gas:candidate-vibid:4614045160268": 3,
+      "gas:candidate-vibid:4614045160434": 6,
+      "gas:candidate-vibid:4614045159562": 127,
+      "gas:candidate-vibid:4614045159516": 56
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/rostov?action=show&root=1000198&tvd=26120001455438&vrn=100100067795849&region=61&global=&sub_region=61&prver=0&pronetvd=null&vibid=26120001455438&type=464",
@@ -14498,15 +14498,15 @@ export const duma_2016_uik_463_region_61_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Волков Павел Николаевич": 19,
-      "Волощук Вячеслав Александрович": 8,
-      "Иванов Сергей Владимирович": 63,
-      "Котляров Анатолий Александрович": 23,
-      "Крылов Станислав Игоревич": 11,
-      "Мусиенко Александр Анатольевич": 13,
-      "Новиков Сергей Николаевич": 8,
-      "Тутова Лариса Николаевна": 162,
-      "Фоменко Григорий Петрович": 124
+      "gas:candidate-vibid:4614045159596": 19,
+      "gas:candidate-vibid:4614045160769": 8,
+      "gas:candidate-vibid:4614045143478": 63,
+      "gas:candidate-vibid:4614045158891": 23,
+      "gas:candidate-vibid:4614045160315": 11,
+      "gas:candidate-vibid:4614045160268": 13,
+      "gas:candidate-vibid:4614045160434": 8,
+      "gas:candidate-vibid:4614045159562": 162,
+      "gas:candidate-vibid:4614045159516": 124
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/rostov?action=show&root=1000198&tvd=26120001455438&vrn=100100067795849&region=61&global=&sub_region=61&prver=0&pronetvd=null&vibid=26120001455438&type=464",
@@ -14557,15 +14557,15 @@ export const duma_2016_uik_463_region_61_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Волков Павел Николаевич": 37,
-      "Волощук Вячеслав Александрович": 3,
-      "Иванов Сергей Владимирович": 60,
-      "Котляров Анатолий Александрович": 28,
-      "Крылов Станислав Игоревич": 5,
-      "Мусиенко Александр Анатольевич": 6,
-      "Новиков Сергей Николаевич": 7,
-      "Тутова Лариса Николаевна": 195,
-      "Фоменко Григорий Петрович": 93
+      "gas:candidate-vibid:4614045159596": 37,
+      "gas:candidate-vibid:4614045160769": 3,
+      "gas:candidate-vibid:4614045143478": 60,
+      "gas:candidate-vibid:4614045158891": 28,
+      "gas:candidate-vibid:4614045160315": 5,
+      "gas:candidate-vibid:4614045160268": 6,
+      "gas:candidate-vibid:4614045160434": 7,
+      "gas:candidate-vibid:4614045159562": 195,
+      "gas:candidate-vibid:4614045159516": 93
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/rostov?action=show&root=1000198&tvd=26120001455438&vrn=100100067795849&region=61&global=&sub_region=61&prver=0&pronetvd=null&vibid=26120001455438&type=464",
@@ -14616,15 +14616,15 @@ export const duma_2016_uik_463_region_61_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Волков Павел Николаевич": 52,
-      "Волощук Вячеслав Александрович": 4,
-      "Иванов Сергей Владимирович": 61,
-      "Котляров Анатолий Александрович": 37,
-      "Крылов Станислав Игоревич": 9,
-      "Мусиенко Александр Анатольевич": 11,
-      "Новиков Сергей Николаевич": 12,
-      "Тутова Лариса Николаевна": 235,
-      "Фоменко Григорий Петрович": 99
+      "gas:candidate-vibid:4614045159596": 52,
+      "gas:candidate-vibid:4614045160769": 4,
+      "gas:candidate-vibid:4614045143478": 61,
+      "gas:candidate-vibid:4614045158891": 37,
+      "gas:candidate-vibid:4614045160315": 9,
+      "gas:candidate-vibid:4614045160268": 11,
+      "gas:candidate-vibid:4614045160434": 12,
+      "gas:candidate-vibid:4614045159562": 235,
+      "gas:candidate-vibid:4614045159516": 99
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/rostov?action=show&root=1000198&tvd=26120001455438&vrn=100100067795849&region=61&global=&sub_region=61&prver=0&pronetvd=null&vibid=26120001455438&type=464",
@@ -14675,15 +14675,15 @@ export const duma_2016_uik_463_region_61_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Волков Павел Николаевич": 18,
-      "Волощук Вячеслав Александрович": 3,
-      "Иванов Сергей Владимирович": 12,
-      "Котляров Анатолий Александрович": 3,
-      "Крылов Станислав Игоревич": 1,
-      "Мусиенко Александр Анатольевич": 1,
-      "Новиков Сергей Николаевич": 6,
-      "Тутова Лариса Николаевна": 56,
-      "Фоменко Григорий Петрович": 24
+      "gas:candidate-vibid:4614045159596": 18,
+      "gas:candidate-vibid:4614045160769": 3,
+      "gas:candidate-vibid:4614045143478": 12,
+      "gas:candidate-vibid:4614045158891": 3,
+      "gas:candidate-vibid:4614045160315": 1,
+      "gas:candidate-vibid:4614045160268": 1,
+      "gas:candidate-vibid:4614045160434": 6,
+      "gas:candidate-vibid:4614045159562": 56,
+      "gas:candidate-vibid:4614045159516": 24
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/rostov?action=show&root=1000198&tvd=26120001455438&vrn=100100067795849&region=61&global=&sub_region=61&prver=0&pronetvd=null&vibid=26120001455438&type=464",
@@ -14734,15 +14734,15 @@ export const duma_2016_uik_463_region_61_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Волков Павел Николаевич": 25,
-      "Волощук Вячеслав Александрович": 1,
-      "Иванов Сергей Владимирович": 55,
-      "Котляров Анатолий Александрович": 26,
-      "Крылов Станислав Игоревич": 3,
-      "Мусиенко Александр Анатольевич": 17,
-      "Новиков Сергей Николаевич": 5,
-      "Тутова Лариса Николаевна": 176,
-      "Фоменко Григорий Петрович": 71
+      "gas:candidate-vibid:4614045159596": 25,
+      "gas:candidate-vibid:4614045160769": 1,
+      "gas:candidate-vibid:4614045143478": 55,
+      "gas:candidate-vibid:4614045158891": 26,
+      "gas:candidate-vibid:4614045160315": 3,
+      "gas:candidate-vibid:4614045160268": 17,
+      "gas:candidate-vibid:4614045160434": 5,
+      "gas:candidate-vibid:4614045159562": 176,
+      "gas:candidate-vibid:4614045159516": 71
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/rostov?action=show&root=1000198&tvd=26120001455438&vrn=100100067795849&region=61&global=&sub_region=61&prver=0&pronetvd=null&vibid=26120001455438&type=464",

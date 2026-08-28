@@ -11,8 +11,12 @@ export const duma_2021_uik_463_region_87_part_001 = [
     "ballot": "single-member",
     "uikNumber": 30,
     "uikTvd": "4874005178919",
+    "uikName": "УИК №30",
     "tikTvd": "2872000371796",
     "tikName": "Эгвекинотская",
+    "regionCode": "87",
+    "regionTvd": "100100225883728",
+    "regionName": "Чукотский автономный округ",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 1018,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 1330,
@@ -28,11 +32,11 @@ export const duma_2021_uik_463_region_87_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бутакова Юлия Сергеевна": 125,
-      "Гальцов Владимир Анатольевич": 102,
-      "Евтюхова Елена Александровна": 59,
-      "Ефимова Мария Станиславовна": 196,
-      "Семериков Александр Александрович": 50
+      "2872000373350": 125,
+      "2872000373667": 102,
+      "2872000375496": 59,
+      "2872000376033": 196,
+      "2872000373483": 50
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/chukot?action=show&root=1000292&tvd=2872000371796&vrn=100100225883172&region=87&global=&sub_region=87&prver=0&pronetvd=null&vibid=2872000371796&type=464",
@@ -42,6 +46,10 @@ export const duma_2021_uik_463_region_87_part_001 = [
       "retrievedAt": "2026-08-26T08:13:31.714950+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/chukot?action=show&root=1000292&tvd=2872000371796&vrn=100100225883172&region=87&global=&sub_region=87&prver=0&pronetvd=null&vibid=2872000371796&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 224,
+      "oikTvd": "100100225883729"
     }
   },
   {
@@ -51,8 +59,12 @@ export const duma_2021_uik_463_region_87_part_001 = [
     "ballot": "single-member",
     "uikNumber": 31,
     "uikTvd": "4874005178920",
+    "uikName": "УИК №31",
     "tikTvd": "2872000371796",
     "tikName": "Эгвекинотская",
+    "regionCode": "87",
+    "regionTvd": "100100225883728",
+    "regionName": "Чукотский автономный округ",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 470,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 560,
@@ -68,11 +80,11 @@ export const duma_2021_uik_463_region_87_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бутакова Юлия Сергеевна": 80,
-      "Гальцов Владимир Анатольевич": 69,
-      "Евтюхова Елена Александровна": 90,
-      "Ефимова Мария Станиславовна": 53,
-      "Семериков Александр Александрович": 42
+      "2872000373350": 80,
+      "2872000373667": 69,
+      "2872000375496": 90,
+      "2872000376033": 53,
+      "2872000373483": 42
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/chukot?action=show&root=1000292&tvd=2872000371796&vrn=100100225883172&region=87&global=&sub_region=87&prver=0&pronetvd=null&vibid=2872000371796&type=464",
@@ -82,6 +94,10 @@ export const duma_2021_uik_463_region_87_part_001 = [
       "retrievedAt": "2026-08-26T08:13:31.714950+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/chukot?action=show&root=1000292&tvd=2872000371796&vrn=100100225883172&region=87&global=&sub_region=87&prver=0&pronetvd=null&vibid=2872000371796&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 224,
+      "oikTvd": "100100225883729"
     }
   },
   {
@@ -91,8 +107,12 @@ export const duma_2021_uik_463_region_87_part_001 = [
     "ballot": "single-member",
     "uikNumber": 32,
     "uikTvd": "4874005178921",
+    "uikName": "УИК №32",
     "tikTvd": "2872000371796",
     "tikName": "Эгвекинотская",
+    "regionCode": "87",
+    "regionTvd": "100100225883728",
+    "regionName": "Чукотский автономный округ",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 152,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 195,
@@ -108,11 +128,11 @@ export const duma_2021_uik_463_region_87_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бутакова Юлия Сергеевна": 26,
-      "Гальцов Владимир Анатольевич": 18,
-      "Евтюхова Елена Александровна": 52,
-      "Ефимова Мария Станиславовна": 21,
-      "Семериков Александр Александрович": 12
+      "2872000373350": 26,
+      "2872000373667": 18,
+      "2872000375496": 52,
+      "2872000376033": 21,
+      "2872000373483": 12
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/chukot?action=show&root=1000292&tvd=2872000371796&vrn=100100225883172&region=87&global=&sub_region=87&prver=0&pronetvd=null&vibid=2872000371796&type=464",
@@ -122,6 +142,10 @@ export const duma_2021_uik_463_region_87_part_001 = [
       "retrievedAt": "2026-08-26T08:13:31.714950+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/chukot?action=show&root=1000292&tvd=2872000371796&vrn=100100225883172&region=87&global=&sub_region=87&prver=0&pronetvd=null&vibid=2872000371796&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 224,
+      "oikTvd": "100100225883729"
     }
   },
   {
@@ -131,8 +155,12 @@ export const duma_2021_uik_463_region_87_part_001 = [
     "ballot": "single-member",
     "uikNumber": 33,
     "uikTvd": "4874005178922",
+    "uikName": "УИК №33",
     "tikTvd": "2872000371796",
     "tikName": "Эгвекинотская",
+    "regionCode": "87",
+    "regionTvd": "100100225883728",
+    "regionName": "Чукотский автономный округ",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 80,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 105,
@@ -148,11 +176,11 @@ export const duma_2021_uik_463_region_87_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бутакова Юлия Сергеевна": 23,
-      "Гальцов Владимир Анатольевич": 9,
-      "Евтюхова Елена Александровна": 17,
-      "Ефимова Мария Станиславовна": 12,
-      "Семериков Александр Александрович": 5
+      "2872000373350": 23,
+      "2872000373667": 9,
+      "2872000375496": 17,
+      "2872000376033": 12,
+      "2872000373483": 5
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/chukot?action=show&root=1000292&tvd=2872000371796&vrn=100100225883172&region=87&global=&sub_region=87&prver=0&pronetvd=null&vibid=2872000371796&type=464",
@@ -162,6 +190,10 @@ export const duma_2021_uik_463_region_87_part_001 = [
       "retrievedAt": "2026-08-26T08:13:31.714950+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/chukot?action=show&root=1000292&tvd=2872000371796&vrn=100100225883172&region=87&global=&sub_region=87&prver=0&pronetvd=null&vibid=2872000371796&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 224,
+      "oikTvd": "100100225883729"
     }
   },
   {
@@ -171,8 +203,12 @@ export const duma_2021_uik_463_region_87_part_001 = [
     "ballot": "single-member",
     "uikNumber": 34,
     "uikTvd": "4874005178923",
+    "uikName": "УИК №34",
     "tikTvd": "2872000371796",
     "tikName": "Эгвекинотская",
+    "regionCode": "87",
+    "regionTvd": "100100225883728",
+    "regionName": "Чукотский автономный округ",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 288,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 360,
@@ -188,11 +224,11 @@ export const duma_2021_uik_463_region_87_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бутакова Юлия Сергеевна": 48,
-      "Гальцов Владимир Анатольевич": 28,
-      "Евтюхова Елена Александровна": 100,
-      "Ефимова Мария Станиславовна": 36,
-      "Семериков Александр Александрович": 25
+      "2872000373350": 48,
+      "2872000373667": 28,
+      "2872000375496": 100,
+      "2872000376033": 36,
+      "2872000373483": 25
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/chukot?action=show&root=1000292&tvd=2872000371796&vrn=100100225883172&region=87&global=&sub_region=87&prver=0&pronetvd=null&vibid=2872000371796&type=464",
@@ -202,6 +238,10 @@ export const duma_2021_uik_463_region_87_part_001 = [
       "retrievedAt": "2026-08-26T08:13:31.714950+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/chukot?action=show&root=1000292&tvd=2872000371796&vrn=100100225883172&region=87&global=&sub_region=87&prver=0&pronetvd=null&vibid=2872000371796&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 224,
+      "oikTvd": "100100225883729"
     }
   },
   {
@@ -211,8 +251,12 @@ export const duma_2021_uik_463_region_87_part_001 = [
     "ballot": "single-member",
     "uikNumber": 35,
     "uikTvd": "4874005178924",
+    "uikName": "УИК №35",
     "tikTvd": "2872000371796",
     "tikName": "Эгвекинотская",
+    "regionCode": "87",
+    "regionTvd": "100100225883728",
+    "regionName": "Чукотский автономный округ",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 69,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 105,
@@ -228,11 +272,11 @@ export const duma_2021_uik_463_region_87_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бутакова Юлия Сергеевна": 12,
-      "Гальцов Владимир Анатольевич": 10,
-      "Евтюхова Елена Александровна": 26,
-      "Ефимова Мария Станиславовна": 8,
-      "Семериков Александр Александрович": 6
+      "2872000373350": 12,
+      "2872000373667": 10,
+      "2872000375496": 26,
+      "2872000376033": 8,
+      "2872000373483": 6
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/chukot?action=show&root=1000292&tvd=2872000371796&vrn=100100225883172&region=87&global=&sub_region=87&prver=0&pronetvd=null&vibid=2872000371796&type=464",
@@ -242,6 +286,10 @@ export const duma_2021_uik_463_region_87_part_001 = [
       "retrievedAt": "2026-08-26T08:13:31.714950+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/chukot?action=show&root=1000292&tvd=2872000371796&vrn=100100225883172&region=87&global=&sub_region=87&prver=0&pronetvd=null&vibid=2872000371796&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 224,
+      "oikTvd": "100100225883729"
     }
   },
   {
@@ -251,8 +299,12 @@ export const duma_2021_uik_463_region_87_part_001 = [
     "ballot": "single-member",
     "uikNumber": 36,
     "uikTvd": "4874005178925",
+    "uikName": "УИК №36",
     "tikTvd": "2872000371796",
     "tikName": "Эгвекинотская",
+    "regionCode": "87",
+    "regionTvd": "100100225883728",
+    "regionName": "Чукотский автономный округ",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 58,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 95,
@@ -268,11 +320,11 @@ export const duma_2021_uik_463_region_87_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бутакова Юлия Сергеевна": 15,
-      "Гальцов Владимир Анатольевич": 5,
-      "Евтюхова Елена Александровна": 18,
-      "Ефимова Мария Станиславовна": 4,
-      "Семериков Александр Александрович": 11
+      "2872000373350": 15,
+      "2872000373667": 5,
+      "2872000375496": 18,
+      "2872000376033": 4,
+      "2872000373483": 11
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/chukot?action=show&root=1000292&tvd=2872000371796&vrn=100100225883172&region=87&global=&sub_region=87&prver=0&pronetvd=null&vibid=2872000371796&type=464",
@@ -282,6 +334,10 @@ export const duma_2021_uik_463_region_87_part_001 = [
       "retrievedAt": "2026-08-26T08:13:31.714950+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/chukot?action=show&root=1000292&tvd=2872000371796&vrn=100100225883172&region=87&global=&sub_region=87&prver=0&pronetvd=null&vibid=2872000371796&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 224,
+      "oikTvd": "100100225883729"
     }
   },
   {
@@ -291,8 +347,12 @@ export const duma_2021_uik_463_region_87_part_001 = [
     "ballot": "single-member",
     "uikNumber": 37,
     "uikTvd": "4874005178926",
+    "uikName": "УИК №37",
     "tikTvd": "2872000371796",
     "tikName": "Эгвекинотская",
+    "regionCode": "87",
+    "regionTvd": "100100225883728",
+    "regionName": "Чукотский автономный округ",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 265,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 579,
@@ -308,11 +368,11 @@ export const duma_2021_uik_463_region_87_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бутакова Юлия Сергеевна": 26,
-      "Гальцов Владимир Анатольевич": 19,
-      "Евтюхова Елена Александровна": 142,
-      "Ефимова Мария Станиславовна": 21,
-      "Семериков Александр Александрович": 14
+      "2872000373350": 26,
+      "2872000373667": 19,
+      "2872000375496": 142,
+      "2872000376033": 21,
+      "2872000373483": 14
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/chukot?action=show&root=1000292&tvd=2872000371796&vrn=100100225883172&region=87&global=&sub_region=87&prver=0&pronetvd=null&vibid=2872000371796&type=464",
@@ -322,6 +382,10 @@ export const duma_2021_uik_463_region_87_part_001 = [
       "retrievedAt": "2026-08-26T08:13:31.714950+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/chukot?action=show&root=1000292&tvd=2872000371796&vrn=100100225883172&region=87&global=&sub_region=87&prver=0&pronetvd=null&vibid=2872000371796&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 224,
+      "oikTvd": "100100225883729"
     }
   },
   {
@@ -331,8 +395,12 @@ export const duma_2021_uik_463_region_87_part_001 = [
     "ballot": "single-member",
     "uikNumber": 50,
     "uikTvd": "4874008126893",
+    "uikName": "УИК №50",
     "tikTvd": "2872000371797",
     "tikName": "Чукотская",
+    "regionCode": "87",
+    "regionTvd": "100100225883728",
+    "regionName": "Чукотский автономный округ",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 237,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 379,
@@ -348,11 +416,11 @@ export const duma_2021_uik_463_region_87_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бутакова Юлия Сергеевна": 29,
-      "Гальцов Владимир Анатольевич": 33,
-      "Евтюхова Елена Александровна": 94,
-      "Ефимова Мария Станиславовна": 36,
-      "Семериков Александр Александрович": 17
+      "2872000373350": 29,
+      "2872000373667": 33,
+      "2872000375496": 94,
+      "2872000376033": 36,
+      "2872000373483": 17
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/chukot?action=show&root=1000292&tvd=2872000371797&vrn=100100225883172&region=87&global=&sub_region=87&prver=0&pronetvd=null&vibid=2872000371797&type=464",
@@ -362,6 +430,10 @@ export const duma_2021_uik_463_region_87_part_001 = [
       "retrievedAt": "2026-08-26T08:13:31.909785+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/chukot?action=show&root=1000292&tvd=2872000371797&vrn=100100225883172&region=87&global=&sub_region=87&prver=0&pronetvd=null&vibid=2872000371797&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 224,
+      "oikTvd": "100100225883729"
     }
   },
   {
@@ -371,8 +443,12 @@ export const duma_2021_uik_463_region_87_part_001 = [
     "ballot": "single-member",
     "uikNumber": 51,
     "uikTvd": "4874008126894",
+    "uikName": "УИК №51",
     "tikTvd": "2872000371797",
     "tikName": "Чукотская",
+    "regionCode": "87",
+    "regionTvd": "100100225883728",
+    "regionName": "Чукотский автономный округ",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 152,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 168,
@@ -388,11 +464,11 @@ export const duma_2021_uik_463_region_87_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бутакова Юлия Сергеевна": 23,
-      "Гальцов Владимир Анатольевич": 9,
-      "Евтюхова Елена Александровна": 69,
-      "Ефимова Мария Станиславовна": 8,
-      "Семериков Александр Александрович": 7
+      "2872000373350": 23,
+      "2872000373667": 9,
+      "2872000375496": 69,
+      "2872000376033": 8,
+      "2872000373483": 7
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/chukot?action=show&root=1000292&tvd=2872000371797&vrn=100100225883172&region=87&global=&sub_region=87&prver=0&pronetvd=null&vibid=2872000371797&type=464",
@@ -402,6 +478,10 @@ export const duma_2021_uik_463_region_87_part_001 = [
       "retrievedAt": "2026-08-26T08:13:31.909785+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/chukot?action=show&root=1000292&tvd=2872000371797&vrn=100100225883172&region=87&global=&sub_region=87&prver=0&pronetvd=null&vibid=2872000371797&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 224,
+      "oikTvd": "100100225883729"
     }
   },
   {
@@ -411,8 +491,12 @@ export const duma_2021_uik_463_region_87_part_001 = [
     "ballot": "single-member",
     "uikNumber": 52,
     "uikTvd": "4874008126895",
+    "uikName": "УИК №52",
     "tikTvd": "2872000371797",
     "tikName": "Чукотская",
+    "regionCode": "87",
+    "regionTvd": "100100225883728",
+    "regionName": "Чукотский автономный округ",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 222,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 232,
@@ -428,11 +512,11 @@ export const duma_2021_uik_463_region_87_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бутакова Юлия Сергеевна": 15,
-      "Гальцов Владимир Анатольевич": 18,
-      "Евтюхова Елена Александровна": 47,
-      "Ефимова Мария Станиславовна": 10,
-      "Семериков Александр Александрович": 17
+      "2872000373350": 15,
+      "2872000373667": 18,
+      "2872000375496": 47,
+      "2872000376033": 10,
+      "2872000373483": 17
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/chukot?action=show&root=1000292&tvd=2872000371797&vrn=100100225883172&region=87&global=&sub_region=87&prver=0&pronetvd=null&vibid=2872000371797&type=464",
@@ -442,6 +526,10 @@ export const duma_2021_uik_463_region_87_part_001 = [
       "retrievedAt": "2026-08-26T08:13:31.909785+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/chukot?action=show&root=1000292&tvd=2872000371797&vrn=100100225883172&region=87&global=&sub_region=87&prver=0&pronetvd=null&vibid=2872000371797&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 224,
+      "oikTvd": "100100225883729"
     }
   },
   {
@@ -451,8 +539,12 @@ export const duma_2021_uik_463_region_87_part_001 = [
     "ballot": "single-member",
     "uikNumber": 53,
     "uikTvd": "4874008126896",
+    "uikName": "УИК №53",
     "tikTvd": "2872000371797",
     "tikName": "Чукотская",
+    "regionCode": "87",
+    "regionTvd": "100100225883728",
+    "regionName": "Чукотский автономный округ",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 289,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 423,
@@ -468,11 +560,11 @@ export const duma_2021_uik_463_region_87_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бутакова Юлия Сергеевна": 34,
-      "Гальцов Владимир Анатольевич": 34,
-      "Евтюхова Елена Александровна": 112,
-      "Ефимова Мария Станиславовна": 30,
-      "Семериков Александр Александрович": 29
+      "2872000373350": 34,
+      "2872000373667": 34,
+      "2872000375496": 112,
+      "2872000376033": 30,
+      "2872000373483": 29
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/chukot?action=show&root=1000292&tvd=2872000371797&vrn=100100225883172&region=87&global=&sub_region=87&prver=0&pronetvd=null&vibid=2872000371797&type=464",
@@ -482,6 +574,10 @@ export const duma_2021_uik_463_region_87_part_001 = [
       "retrievedAt": "2026-08-26T08:13:31.909785+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/chukot?action=show&root=1000292&tvd=2872000371797&vrn=100100225883172&region=87&global=&sub_region=87&prver=0&pronetvd=null&vibid=2872000371797&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 224,
+      "oikTvd": "100100225883729"
     }
   },
   {
@@ -491,8 +587,12 @@ export const duma_2021_uik_463_region_87_part_001 = [
     "ballot": "single-member",
     "uikNumber": 54,
     "uikTvd": "4874008126897",
+    "uikName": "УИК №54",
     "tikTvd": "2872000371797",
     "tikName": "Чукотская",
+    "regionCode": "87",
+    "regionTvd": "100100225883728",
+    "regionName": "Чукотский автономный округ",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 589,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 705,
@@ -508,11 +608,11 @@ export const duma_2021_uik_463_region_87_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бутакова Юлия Сергеевна": 57,
-      "Гальцов Владимир Анатольевич": 50,
-      "Евтюхова Елена Александровна": 214,
-      "Ефимова Мария Станиславовна": 29,
-      "Семериков Александр Александрович": 38
+      "2872000373350": 57,
+      "2872000373667": 50,
+      "2872000375496": 214,
+      "2872000376033": 29,
+      "2872000373483": 38
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/chukot?action=show&root=1000292&tvd=2872000371797&vrn=100100225883172&region=87&global=&sub_region=87&prver=0&pronetvd=null&vibid=2872000371797&type=464",
@@ -522,6 +622,10 @@ export const duma_2021_uik_463_region_87_part_001 = [
       "retrievedAt": "2026-08-26T08:13:31.909785+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/chukot?action=show&root=1000292&tvd=2872000371797&vrn=100100225883172&region=87&global=&sub_region=87&prver=0&pronetvd=null&vibid=2872000371797&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 224,
+      "oikTvd": "100100225883729"
     }
   },
   {
@@ -531,8 +635,12 @@ export const duma_2021_uik_463_region_87_part_001 = [
     "ballot": "single-member",
     "uikNumber": 55,
     "uikTvd": "4874008126898",
+    "uikName": "УИК №55",
     "tikTvd": "2872000371797",
     "tikName": "Чукотская",
+    "regionCode": "87",
+    "regionTvd": "100100225883728",
+    "regionName": "Чукотский автономный округ",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 554,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 800,
@@ -548,11 +656,11 @@ export const duma_2021_uik_463_region_87_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бутакова Юлия Сергеевна": 37,
-      "Гальцов Владимир Анатольевич": 58,
-      "Евтюхова Елена Александровна": 204,
-      "Ефимова Мария Станиславовна": 47,
-      "Семериков Александр Александрович": 33
+      "2872000373350": 37,
+      "2872000373667": 58,
+      "2872000375496": 204,
+      "2872000376033": 47,
+      "2872000373483": 33
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/chukot?action=show&root=1000292&tvd=2872000371797&vrn=100100225883172&region=87&global=&sub_region=87&prver=0&pronetvd=null&vibid=2872000371797&type=464",
@@ -562,6 +670,10 @@ export const duma_2021_uik_463_region_87_part_001 = [
       "retrievedAt": "2026-08-26T08:13:31.909785+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/chukot?action=show&root=1000292&tvd=2872000371797&vrn=100100225883172&region=87&global=&sub_region=87&prver=0&pronetvd=null&vibid=2872000371797&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 224,
+      "oikTvd": "100100225883729"
     }
   },
   {
@@ -571,8 +683,12 @@ export const duma_2021_uik_463_region_87_part_001 = [
     "ballot": "single-member",
     "uikNumber": 6,
     "uikTvd": "4874001185702",
+    "uikName": "УИК №6",
     "tikTvd": "2872000371798",
     "tikName": "Анадырская",
+    "regionCode": "87",
+    "regionTvd": "100100225883728",
+    "regionName": "Чукотский автономный округ",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 589,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 591,
@@ -588,11 +704,11 @@ export const duma_2021_uik_463_region_87_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бутакова Юлия Сергеевна": 45,
-      "Гальцов Владимир Анатольевич": 50,
-      "Евтюхова Елена Александровна": 30,
-      "Ефимова Мария Станиславовна": 18,
-      "Семериков Александр Александрович": 22
+      "2872000373350": 45,
+      "2872000373667": 50,
+      "2872000375496": 30,
+      "2872000376033": 18,
+      "2872000373483": 22
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/chukot?action=show&root=1000292&tvd=2872000371798&vrn=100100225883172&region=87&global=&sub_region=87&prver=0&pronetvd=null&vibid=2872000371798&type=464",
@@ -602,6 +718,10 @@ export const duma_2021_uik_463_region_87_part_001 = [
       "retrievedAt": "2026-08-26T08:13:33.769817+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/chukot?action=show&root=1000292&tvd=2872000371798&vrn=100100225883172&region=87&global=&sub_region=87&prver=0&pronetvd=null&vibid=2872000371798&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 224,
+      "oikTvd": "100100225883729"
     }
   },
   {
@@ -611,8 +731,12 @@ export const duma_2021_uik_463_region_87_part_001 = [
     "ballot": "single-member",
     "uikNumber": 7,
     "uikTvd": "4874001185704",
+    "uikName": "УИК №7",
     "tikTvd": "2872000371798",
     "tikName": "Анадырская",
+    "regionCode": "87",
+    "regionTvd": "100100225883728",
+    "regionName": "Чукотский автономный округ",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 1079,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 1079,
@@ -628,11 +752,11 @@ export const duma_2021_uik_463_region_87_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бутакова Юлия Сергеевна": 91,
-      "Гальцов Владимир Анатольевич": 120,
-      "Евтюхова Елена Александровна": 104,
-      "Ефимова Мария Станиславовна": 29,
-      "Семериков Александр Александрович": 39
+      "2872000373350": 91,
+      "2872000373667": 120,
+      "2872000375496": 104,
+      "2872000376033": 29,
+      "2872000373483": 39
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/chukot?action=show&root=1000292&tvd=2872000371798&vrn=100100225883172&region=87&global=&sub_region=87&prver=0&pronetvd=null&vibid=2872000371798&type=464",
@@ -642,6 +766,10 @@ export const duma_2021_uik_463_region_87_part_001 = [
       "retrievedAt": "2026-08-26T08:13:33.769817+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/chukot?action=show&root=1000292&tvd=2872000371798&vrn=100100225883172&region=87&global=&sub_region=87&prver=0&pronetvd=null&vibid=2872000371798&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 224,
+      "oikTvd": "100100225883729"
     }
   },
   {
@@ -651,8 +779,12 @@ export const duma_2021_uik_463_region_87_part_001 = [
     "ballot": "single-member",
     "uikNumber": 8,
     "uikTvd": "4874001185705",
+    "uikName": "УИК №8",
     "tikTvd": "2872000371798",
     "tikName": "Анадырская",
+    "regionCode": "87",
+    "regionTvd": "100100225883728",
+    "regionName": "Чукотский автономный округ",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 504,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 507,
@@ -668,11 +800,11 @@ export const duma_2021_uik_463_region_87_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бутакова Юлия Сергеевна": 51,
-      "Гальцов Владимир Анатольевич": 37,
-      "Евтюхова Елена Александровна": 84,
-      "Ефимова Мария Станиславовна": 22,
-      "Семериков Александр Александрович": 19
+      "2872000373350": 51,
+      "2872000373667": 37,
+      "2872000375496": 84,
+      "2872000376033": 22,
+      "2872000373483": 19
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/chukot?action=show&root=1000292&tvd=2872000371798&vrn=100100225883172&region=87&global=&sub_region=87&prver=0&pronetvd=null&vibid=2872000371798&type=464",
@@ -682,6 +814,10 @@ export const duma_2021_uik_463_region_87_part_001 = [
       "retrievedAt": "2026-08-26T08:13:33.769817+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/chukot?action=show&root=1000292&tvd=2872000371798&vrn=100100225883172&region=87&global=&sub_region=87&prver=0&pronetvd=null&vibid=2872000371798&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 224,
+      "oikTvd": "100100225883729"
     }
   },
   {
@@ -691,8 +827,12 @@ export const duma_2021_uik_463_region_87_part_001 = [
     "ballot": "single-member",
     "uikNumber": 9,
     "uikTvd": "4874001185706",
+    "uikName": "УИК №9",
     "tikTvd": "2872000371798",
     "tikName": "Анадырская",
+    "regionCode": "87",
+    "regionTvd": "100100225883728",
+    "regionName": "Чукотский автономный округ",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 567,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 569,
@@ -708,11 +848,11 @@ export const duma_2021_uik_463_region_87_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бутакова Юлия Сергеевна": 46,
-      "Гальцов Владимир Анатольевич": 41,
-      "Евтюхова Елена Александровна": 107,
-      "Ефимова Мария Станиславовна": 29,
-      "Семериков Александр Александрович": 33
+      "2872000373350": 46,
+      "2872000373667": 41,
+      "2872000375496": 107,
+      "2872000376033": 29,
+      "2872000373483": 33
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/chukot?action=show&root=1000292&tvd=2872000371798&vrn=100100225883172&region=87&global=&sub_region=87&prver=0&pronetvd=null&vibid=2872000371798&type=464",
@@ -722,6 +862,10 @@ export const duma_2021_uik_463_region_87_part_001 = [
       "retrievedAt": "2026-08-26T08:13:33.769817+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/chukot?action=show&root=1000292&tvd=2872000371798&vrn=100100225883172&region=87&global=&sub_region=87&prver=0&pronetvd=null&vibid=2872000371798&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 224,
+      "oikTvd": "100100225883729"
     }
   },
   {
@@ -731,8 +875,12 @@ export const duma_2021_uik_463_region_87_part_001 = [
     "ballot": "single-member",
     "uikNumber": 10,
     "uikTvd": "4874001185707",
+    "uikName": "УИК №10",
     "tikTvd": "2872000371798",
     "tikName": "Анадырская",
+    "regionCode": "87",
+    "regionTvd": "100100225883728",
+    "regionName": "Чукотский автономный округ",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 266,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 266,
@@ -748,11 +896,11 @@ export const duma_2021_uik_463_region_87_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бутакова Юлия Сергеевна": 41,
-      "Гальцов Владимир Анатольевич": 24,
-      "Евтюхова Елена Александровна": 95,
-      "Ефимова Мария Станиславовна": 14,
-      "Семериков Александр Александрович": 16
+      "2872000373350": 41,
+      "2872000373667": 24,
+      "2872000375496": 95,
+      "2872000376033": 14,
+      "2872000373483": 16
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/chukot?action=show&root=1000292&tvd=2872000371798&vrn=100100225883172&region=87&global=&sub_region=87&prver=0&pronetvd=null&vibid=2872000371798&type=464",
@@ -762,6 +910,10 @@ export const duma_2021_uik_463_region_87_part_001 = [
       "retrievedAt": "2026-08-26T08:13:33.769817+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/chukot?action=show&root=1000292&tvd=2872000371798&vrn=100100225883172&region=87&global=&sub_region=87&prver=0&pronetvd=null&vibid=2872000371798&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 224,
+      "oikTvd": "100100225883729"
     }
   },
   {
@@ -771,8 +923,12 @@ export const duma_2021_uik_463_region_87_part_001 = [
     "ballot": "single-member",
     "uikNumber": 11,
     "uikTvd": "4874001185708",
+    "uikName": "УИК №11",
     "tikTvd": "2872000371798",
     "tikName": "Анадырская",
+    "regionCode": "87",
+    "regionTvd": "100100225883728",
+    "regionName": "Чукотский автономный округ",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 100,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 109,
@@ -788,11 +944,11 @@ export const duma_2021_uik_463_region_87_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бутакова Юлия Сергеевна": 11,
-      "Гальцов Владимир Анатольевич": 13,
-      "Евтюхова Елена Александровна": 14,
-      "Ефимова Мария Станиславовна": 15,
-      "Семериков Александр Александрович": 6
+      "2872000373350": 11,
+      "2872000373667": 13,
+      "2872000375496": 14,
+      "2872000376033": 15,
+      "2872000373483": 6
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/chukot?action=show&root=1000292&tvd=2872000371798&vrn=100100225883172&region=87&global=&sub_region=87&prver=0&pronetvd=null&vibid=2872000371798&type=464",
@@ -802,6 +958,10 @@ export const duma_2021_uik_463_region_87_part_001 = [
       "retrievedAt": "2026-08-26T08:13:33.769817+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/chukot?action=show&root=1000292&tvd=2872000371798&vrn=100100225883172&region=87&global=&sub_region=87&prver=0&pronetvd=null&vibid=2872000371798&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 224,
+      "oikTvd": "100100225883729"
     }
   },
   {
@@ -811,8 +971,12 @@ export const duma_2021_uik_463_region_87_part_001 = [
     "ballot": "single-member",
     "uikNumber": 12,
     "uikTvd": "4874001185709",
+    "uikName": "УИК №12",
     "tikTvd": "2872000371798",
     "tikName": "Анадырская",
+    "regionCode": "87",
+    "regionTvd": "100100225883728",
+    "regionName": "Чукотский автономный округ",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 121,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 123,
@@ -828,11 +992,11 @@ export const duma_2021_uik_463_region_87_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бутакова Юлия Сергеевна": 15,
-      "Гальцов Владимир Анатольевич": 8,
-      "Евтюхова Елена Александровна": 67,
-      "Ефимова Мария Станиславовна": 6,
-      "Семериков Александр Александрович": 5
+      "2872000373350": 15,
+      "2872000373667": 8,
+      "2872000375496": 67,
+      "2872000376033": 6,
+      "2872000373483": 5
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/chukot?action=show&root=1000292&tvd=2872000371798&vrn=100100225883172&region=87&global=&sub_region=87&prver=0&pronetvd=null&vibid=2872000371798&type=464",
@@ -842,6 +1006,10 @@ export const duma_2021_uik_463_region_87_part_001 = [
       "retrievedAt": "2026-08-26T08:13:33.769817+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/chukot?action=show&root=1000292&tvd=2872000371798&vrn=100100225883172&region=87&global=&sub_region=87&prver=0&pronetvd=null&vibid=2872000371798&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 224,
+      "oikTvd": "100100225883729"
     }
   },
   {
@@ -851,8 +1019,12 @@ export const duma_2021_uik_463_region_87_part_001 = [
     "ballot": "single-member",
     "uikNumber": 13,
     "uikTvd": "4874001185710",
+    "uikName": "УИК №13",
     "tikTvd": "2872000371798",
     "tikName": "Анадырская",
+    "regionCode": "87",
+    "regionTvd": "100100225883728",
+    "regionName": "Чукотский автономный округ",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 525,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 536,
@@ -868,11 +1040,11 @@ export const duma_2021_uik_463_region_87_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бутакова Юлия Сергеевна": 29,
-      "Гальцов Владимир Анатольевич": 17,
-      "Евтюхова Елена Александровна": 93,
-      "Ефимова Мария Станиславовна": 13,
-      "Семериков Александр Александрович": 8
+      "2872000373350": 29,
+      "2872000373667": 17,
+      "2872000375496": 93,
+      "2872000376033": 13,
+      "2872000373483": 8
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/chukot?action=show&root=1000292&tvd=2872000371798&vrn=100100225883172&region=87&global=&sub_region=87&prver=0&pronetvd=null&vibid=2872000371798&type=464",
@@ -882,6 +1054,10 @@ export const duma_2021_uik_463_region_87_part_001 = [
       "retrievedAt": "2026-08-26T08:13:33.769817+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/chukot?action=show&root=1000292&tvd=2872000371798&vrn=100100225883172&region=87&global=&sub_region=87&prver=0&pronetvd=null&vibid=2872000371798&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 224,
+      "oikTvd": "100100225883729"
     }
   },
   {
@@ -891,8 +1067,12 @@ export const duma_2021_uik_463_region_87_part_001 = [
     "ballot": "single-member",
     "uikNumber": 14,
     "uikTvd": "4874001185711",
+    "uikName": "УИК №14",
     "tikTvd": "2872000371798",
     "tikName": "Анадырская",
+    "regionCode": "87",
+    "regionTvd": "100100225883728",
+    "regionName": "Чукотский автономный округ",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 131,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 131,
@@ -908,11 +1088,11 @@ export const duma_2021_uik_463_region_87_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бутакова Юлия Сергеевна": 18,
-      "Гальцов Владимир Анатольевич": 11,
-      "Евтюхова Елена Александровна": 66,
-      "Ефимова Мария Станиславовна": 9,
-      "Семериков Александр Александрович": 18
+      "2872000373350": 18,
+      "2872000373667": 11,
+      "2872000375496": 66,
+      "2872000376033": 9,
+      "2872000373483": 18
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/chukot?action=show&root=1000292&tvd=2872000371798&vrn=100100225883172&region=87&global=&sub_region=87&prver=0&pronetvd=null&vibid=2872000371798&type=464",
@@ -922,6 +1102,10 @@ export const duma_2021_uik_463_region_87_part_001 = [
       "retrievedAt": "2026-08-26T08:13:33.769817+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/chukot?action=show&root=1000292&tvd=2872000371798&vrn=100100225883172&region=87&global=&sub_region=87&prver=0&pronetvd=null&vibid=2872000371798&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 224,
+      "oikTvd": "100100225883729"
     }
   },
   {
@@ -931,8 +1115,12 @@ export const duma_2021_uik_463_region_87_part_001 = [
     "ballot": "single-member",
     "uikNumber": 15,
     "uikTvd": "4874001185712",
+    "uikName": "УИК №15",
     "tikTvd": "2872000371798",
     "tikName": "Анадырская",
+    "regionCode": "87",
+    "regionTvd": "100100225883728",
+    "regionName": "Чукотский автономный округ",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 434,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 444,
@@ -948,11 +1136,11 @@ export const duma_2021_uik_463_region_87_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бутакова Юлия Сергеевна": 37,
-      "Гальцов Владимир Анатольевич": 35,
-      "Евтюхова Елена Александровна": 127,
-      "Ефимова Мария Станиславовна": 30,
-      "Семериков Александр Александрович": 26
+      "2872000373350": 37,
+      "2872000373667": 35,
+      "2872000375496": 127,
+      "2872000376033": 30,
+      "2872000373483": 26
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/chukot?action=show&root=1000292&tvd=2872000371798&vrn=100100225883172&region=87&global=&sub_region=87&prver=0&pronetvd=null&vibid=2872000371798&type=464",
@@ -962,6 +1150,10 @@ export const duma_2021_uik_463_region_87_part_001 = [
       "retrievedAt": "2026-08-26T08:13:33.769817+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/chukot?action=show&root=1000292&tvd=2872000371798&vrn=100100225883172&region=87&global=&sub_region=87&prver=0&pronetvd=null&vibid=2872000371798&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 224,
+      "oikTvd": "100100225883729"
     }
   },
   {
@@ -971,8 +1163,12 @@ export const duma_2021_uik_463_region_87_part_001 = [
     "ballot": "single-member",
     "uikNumber": 16,
     "uikTvd": "4874001185713",
+    "uikName": "УИК №16",
     "tikTvd": "2872000371798",
     "tikName": "Анадырская",
+    "regionCode": "87",
+    "regionTvd": "100100225883728",
+    "regionName": "Чукотский автономный округ",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 42,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 46,
@@ -988,11 +1184,11 @@ export const duma_2021_uik_463_region_87_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бутакова Юлия Сергеевна": 7,
-      "Гальцов Владимир Анатольевич": 5,
-      "Евтюхова Елена Александровна": 20,
-      "Ефимова Мария Станиславовна": 0,
-      "Семериков Александр Александрович": 5
+      "2872000373350": 7,
+      "2872000373667": 5,
+      "2872000375496": 20,
+      "2872000376033": 0,
+      "2872000373483": 5
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/chukot?action=show&root=1000292&tvd=2872000371798&vrn=100100225883172&region=87&global=&sub_region=87&prver=0&pronetvd=null&vibid=2872000371798&type=464",
@@ -1002,6 +1198,10 @@ export const duma_2021_uik_463_region_87_part_001 = [
       "retrievedAt": "2026-08-26T08:13:33.769817+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/chukot?action=show&root=1000292&tvd=2872000371798&vrn=100100225883172&region=87&global=&sub_region=87&prver=0&pronetvd=null&vibid=2872000371798&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 224,
+      "oikTvd": "100100225883729"
     }
   },
   {
@@ -1011,8 +1211,12 @@ export const duma_2021_uik_463_region_87_part_001 = [
     "ballot": "single-member",
     "uikNumber": 17,
     "uikTvd": "4874001185714",
+    "uikName": "УИК №17",
     "tikTvd": "2872000371798",
     "tikName": "Анадырская",
+    "regionCode": "87",
+    "regionTvd": "100100225883728",
+    "regionName": "Чукотский автономный округ",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 655,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 710,
@@ -1028,11 +1232,11 @@ export const duma_2021_uik_463_region_87_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бутакова Юлия Сергеевна": 98,
-      "Гальцов Владимир Анатольевич": 40,
-      "Евтюхова Елена Александровна": 189,
-      "Ефимова Мария Станиславовна": 32,
-      "Семериков Александр Александрович": 39
+      "2872000373350": 98,
+      "2872000373667": 40,
+      "2872000375496": 189,
+      "2872000376033": 32,
+      "2872000373483": 39
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/chukot?action=show&root=1000292&tvd=2872000371798&vrn=100100225883172&region=87&global=&sub_region=87&prver=0&pronetvd=null&vibid=2872000371798&type=464",
@@ -1042,6 +1246,10 @@ export const duma_2021_uik_463_region_87_part_001 = [
       "retrievedAt": "2026-08-26T08:13:33.769817+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/chukot?action=show&root=1000292&tvd=2872000371798&vrn=100100225883172&region=87&global=&sub_region=87&prver=0&pronetvd=null&vibid=2872000371798&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 224,
+      "oikTvd": "100100225883729"
     }
   },
   {
@@ -1051,8 +1259,12 @@ export const duma_2021_uik_463_region_87_part_001 = [
     "ballot": "single-member",
     "uikNumber": 18,
     "uikTvd": "4874001185715",
+    "uikName": "УИК №18",
     "tikTvd": "2872000371798",
     "tikName": "Анадырская",
+    "regionCode": "87",
+    "regionTvd": "100100225883728",
+    "regionName": "Чукотский автономный округ",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 119,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 120,
@@ -1068,11 +1280,11 @@ export const duma_2021_uik_463_region_87_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бутакова Юлия Сергеевна": 25,
-      "Гальцов Владимир Анатольевич": 11,
-      "Евтюхова Елена Александровна": 47,
-      "Ефимова Мария Станиславовна": 12,
-      "Семериков Александр Александрович": 8
+      "2872000373350": 25,
+      "2872000373667": 11,
+      "2872000375496": 47,
+      "2872000376033": 12,
+      "2872000373483": 8
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/chukot?action=show&root=1000292&tvd=2872000371798&vrn=100100225883172&region=87&global=&sub_region=87&prver=0&pronetvd=null&vibid=2872000371798&type=464",
@@ -1082,6 +1294,10 @@ export const duma_2021_uik_463_region_87_part_001 = [
       "retrievedAt": "2026-08-26T08:13:33.769817+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/chukot?action=show&root=1000292&tvd=2872000371798&vrn=100100225883172&region=87&global=&sub_region=87&prver=0&pronetvd=null&vibid=2872000371798&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 224,
+      "oikTvd": "100100225883729"
     }
   },
   {
@@ -1091,8 +1307,12 @@ export const duma_2021_uik_463_region_87_part_001 = [
     "ballot": "single-member",
     "uikNumber": 19,
     "uikTvd": "4874001185716",
+    "uikName": "УИК №19",
     "tikTvd": "2872000371798",
     "tikName": "Анадырская",
+    "regionCode": "87",
+    "regionTvd": "100100225883728",
+    "regionName": "Чукотский автономный округ",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 257,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 258,
@@ -1108,11 +1328,11 @@ export const duma_2021_uik_463_region_87_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бутакова Юлия Сергеевна": 29,
-      "Гальцов Владимир Анатольевич": 17,
-      "Евтюхова Елена Александровна": 93,
-      "Ефимова Мария Станиславовна": 13,
-      "Семериков Александр Александрович": 8
+      "2872000373350": 29,
+      "2872000373667": 17,
+      "2872000375496": 93,
+      "2872000376033": 13,
+      "2872000373483": 8
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/chukot?action=show&root=1000292&tvd=2872000371798&vrn=100100225883172&region=87&global=&sub_region=87&prver=0&pronetvd=null&vibid=2872000371798&type=464",
@@ -1122,6 +1342,10 @@ export const duma_2021_uik_463_region_87_part_001 = [
       "retrievedAt": "2026-08-26T08:13:33.769817+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/chukot?action=show&root=1000292&tvd=2872000371798&vrn=100100225883172&region=87&global=&sub_region=87&prver=0&pronetvd=null&vibid=2872000371798&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 224,
+      "oikTvd": "100100225883729"
     }
   },
   {
@@ -1131,8 +1355,12 @@ export const duma_2021_uik_463_region_87_part_001 = [
     "ballot": "single-member",
     "uikNumber": 20,
     "uikTvd": "4874001185717",
+    "uikName": "УИК №20",
     "tikTvd": "2872000371798",
     "tikName": "Анадырская",
+    "regionCode": "87",
+    "regionTvd": "100100225883728",
+    "regionName": "Чукотский автономный округ",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 237,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 240,
@@ -1148,11 +1376,11 @@ export const duma_2021_uik_463_region_87_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бутакова Юлия Сергеевна": 34,
-      "Гальцов Владимир Анатольевич": 21,
-      "Евтюхова Елена Александровна": 68,
-      "Ефимова Мария Станиславовна": 13,
-      "Семериков Александр Александрович": 13
+      "2872000373350": 34,
+      "2872000373667": 21,
+      "2872000375496": 68,
+      "2872000376033": 13,
+      "2872000373483": 13
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/chukot?action=show&root=1000292&tvd=2872000371798&vrn=100100225883172&region=87&global=&sub_region=87&prver=0&pronetvd=null&vibid=2872000371798&type=464",
@@ -1162,6 +1390,10 @@ export const duma_2021_uik_463_region_87_part_001 = [
       "retrievedAt": "2026-08-26T08:13:33.769817+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/chukot?action=show&root=1000292&tvd=2872000371798&vrn=100100225883172&region=87&global=&sub_region=87&prver=0&pronetvd=null&vibid=2872000371798&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 224,
+      "oikTvd": "100100225883729"
     }
   },
   {
@@ -1171,8 +1403,12 @@ export const duma_2021_uik_463_region_87_part_001 = [
     "ballot": "single-member",
     "uikNumber": 1,
     "uikTvd": "4874002127176",
+    "uikName": "УИК №1",
     "tikTvd": "2872000371799",
     "tikName": "Анадырская городская",
+    "regionCode": "87",
+    "regionTvd": "100100225883728",
+    "regionName": "Чукотский автономный округ",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 1828,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 1300,
@@ -1188,11 +1424,11 @@ export const duma_2021_uik_463_region_87_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бутакова Юлия Сергеевна": 295,
-      "Гальцов Владимир Анатольевич": 165,
-      "Евтюхова Елена Александровна": 281,
-      "Ефимова Мария Станиславовна": 86,
-      "Семериков Александр Александрович": 101
+      "2872000373350": 295,
+      "2872000373667": 165,
+      "2872000375496": 281,
+      "2872000376033": 86,
+      "2872000373483": 101
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/chukot?action=show&root=1000292&tvd=2872000371799&vrn=100100225883172&region=87&global=&sub_region=87&prver=0&pronetvd=null&vibid=2872000371799&type=464",
@@ -1202,6 +1438,10 @@ export const duma_2021_uik_463_region_87_part_001 = [
       "retrievedAt": "2026-08-26T08:15:52.665593+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/chukot?action=show&root=1000292&tvd=2872000371799&vrn=100100225883172&region=87&global=&sub_region=87&prver=0&pronetvd=null&vibid=2872000371799&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 224,
+      "oikTvd": "100100225883729"
     }
   },
   {
@@ -1211,8 +1451,12 @@ export const duma_2021_uik_463_region_87_part_001 = [
     "ballot": "single-member",
     "uikNumber": 2,
     "uikTvd": "4874002127177",
+    "uikName": "УИК №2",
     "tikTvd": "2872000371799",
     "tikName": "Анадырская городская",
+    "regionCode": "87",
+    "regionTvd": "100100225883728",
+    "regionName": "Чукотский автономный округ",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 2237,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 1800,
@@ -1228,11 +1472,11 @@ export const duma_2021_uik_463_region_87_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бутакова Юлия Сергеевна": 287,
-      "Гальцов Владимир Анатольевич": 178,
-      "Евтюхова Елена Александровна": 286,
-      "Ефимова Мария Станиславовна": 75,
-      "Семериков Александр Александрович": 103
+      "2872000373350": 287,
+      "2872000373667": 178,
+      "2872000375496": 286,
+      "2872000376033": 75,
+      "2872000373483": 103
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/chukot?action=show&root=1000292&tvd=2872000371799&vrn=100100225883172&region=87&global=&sub_region=87&prver=0&pronetvd=null&vibid=2872000371799&type=464",
@@ -1242,6 +1486,10 @@ export const duma_2021_uik_463_region_87_part_001 = [
       "retrievedAt": "2026-08-26T08:15:52.665593+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/chukot?action=show&root=1000292&tvd=2872000371799&vrn=100100225883172&region=87&global=&sub_region=87&prver=0&pronetvd=null&vibid=2872000371799&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 224,
+      "oikTvd": "100100225883729"
     }
   },
   {
@@ -1251,8 +1499,12 @@ export const duma_2021_uik_463_region_87_part_001 = [
     "ballot": "single-member",
     "uikNumber": 3,
     "uikTvd": "4874002127178",
+    "uikName": "УИК №3",
     "tikTvd": "2872000371799",
     "tikName": "Анадырская городская",
+    "regionCode": "87",
+    "regionTvd": "100100225883728",
+    "regionName": "Чукотский автономный округ",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 2246,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 1700,
@@ -1268,11 +1520,11 @@ export const duma_2021_uik_463_region_87_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бутакова Юлия Сергеевна": 268,
-      "Гальцов Владимир Анатольевич": 169,
-      "Евтюхова Елена Александровна": 309,
-      "Ефимова Мария Станиславовна": 74,
-      "Семериков Александр Александрович": 109
+      "2872000373350": 268,
+      "2872000373667": 169,
+      "2872000375496": 309,
+      "2872000376033": 74,
+      "2872000373483": 109
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/chukot?action=show&root=1000292&tvd=2872000371799&vrn=100100225883172&region=87&global=&sub_region=87&prver=0&pronetvd=null&vibid=2872000371799&type=464",
@@ -1282,6 +1534,10 @@ export const duma_2021_uik_463_region_87_part_001 = [
       "retrievedAt": "2026-08-26T08:15:52.665593+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/chukot?action=show&root=1000292&tvd=2872000371799&vrn=100100225883172&region=87&global=&sub_region=87&prver=0&pronetvd=null&vibid=2872000371799&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 224,
+      "oikTvd": "100100225883729"
     }
   },
   {
@@ -1291,8 +1547,12 @@ export const duma_2021_uik_463_region_87_part_001 = [
     "ballot": "single-member",
     "uikNumber": 4,
     "uikTvd": "4874002127179",
+    "uikName": "УИК №4",
     "tikTvd": "2872000371799",
     "tikName": "Анадырская городская",
+    "regionCode": "87",
+    "regionTvd": "100100225883728",
+    "regionName": "Чукотский автономный округ",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 2305,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 1905,
@@ -1308,11 +1568,11 @@ export const duma_2021_uik_463_region_87_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бутакова Юлия Сергеевна": 308,
-      "Гальцов Владимир Анатольевич": 207,
-      "Евтюхова Елена Александровна": 285,
-      "Ефимова Мария Станиславовна": 84,
-      "Семериков Александр Александрович": 97
+      "2872000373350": 308,
+      "2872000373667": 207,
+      "2872000375496": 285,
+      "2872000376033": 84,
+      "2872000373483": 97
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/chukot?action=show&root=1000292&tvd=2872000371799&vrn=100100225883172&region=87&global=&sub_region=87&prver=0&pronetvd=null&vibid=2872000371799&type=464",
@@ -1322,6 +1582,10 @@ export const duma_2021_uik_463_region_87_part_001 = [
       "retrievedAt": "2026-08-26T08:15:52.665593+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/chukot?action=show&root=1000292&tvd=2872000371799&vrn=100100225883172&region=87&global=&sub_region=87&prver=0&pronetvd=null&vibid=2872000371799&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 224,
+      "oikTvd": "100100225883729"
     }
   },
   {
@@ -1331,8 +1595,12 @@ export const duma_2021_uik_463_region_87_part_001 = [
     "ballot": "single-member",
     "uikNumber": 5,
     "uikTvd": "4874002127180",
+    "uikName": "УИК №5",
     "tikTvd": "2872000371799",
     "tikName": "Анадырская городская",
+    "regionCode": "87",
+    "regionTvd": "100100225883728",
+    "regionName": "Чукотский автономный округ",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 425,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 410,
@@ -1348,11 +1616,11 @@ export const duma_2021_uik_463_region_87_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бутакова Юлия Сергеевна": 61,
-      "Гальцов Владимир Анатольевич": 52,
-      "Евтюхова Елена Александровна": 126,
-      "Ефимова Мария Станиславовна": 20,
-      "Семериков Александр Александрович": 32
+      "2872000373350": 61,
+      "2872000373667": 52,
+      "2872000375496": 126,
+      "2872000376033": 20,
+      "2872000373483": 32
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/chukot?action=show&root=1000292&tvd=2872000371799&vrn=100100225883172&region=87&global=&sub_region=87&prver=0&pronetvd=null&vibid=2872000371799&type=464",
@@ -1362,6 +1630,10 @@ export const duma_2021_uik_463_region_87_part_001 = [
       "retrievedAt": "2026-08-26T08:15:52.665593+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/chukot?action=show&root=1000292&tvd=2872000371799&vrn=100100225883172&region=87&global=&sub_region=87&prver=0&pronetvd=null&vibid=2872000371799&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 224,
+      "oikTvd": "100100225883729"
     }
   },
   {
@@ -1371,8 +1643,12 @@ export const duma_2021_uik_463_region_87_part_001 = [
     "ballot": "single-member",
     "uikNumber": 56,
     "uikTvd": "4874002127773",
+    "uikName": "УИК №56",
     "tikTvd": "2872000371799",
     "tikName": "Анадырская городская",
+    "regionCode": "87",
+    "regionTvd": "100100225883728",
+    "regionName": "Чукотский автономный округ",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 0,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 0,
@@ -1388,11 +1664,11 @@ export const duma_2021_uik_463_region_87_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бутакова Юлия Сергеевна": 0,
-      "Гальцов Владимир Анатольевич": 0,
-      "Евтюхова Елена Александровна": 0,
-      "Ефимова Мария Станиславовна": 0,
-      "Семериков Александр Александрович": 0
+      "2872000373350": 0,
+      "2872000373667": 0,
+      "2872000375496": 0,
+      "2872000376033": 0,
+      "2872000373483": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/chukot?action=show&root=1000292&tvd=2872000371799&vrn=100100225883172&region=87&global=&sub_region=87&prver=0&pronetvd=null&vibid=2872000371799&type=464",
@@ -1402,6 +1678,10 @@ export const duma_2021_uik_463_region_87_part_001 = [
       "retrievedAt": "2026-08-26T08:15:52.665593+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/chukot?action=show&root=1000292&tvd=2872000371799&vrn=100100225883172&region=87&global=&sub_region=87&prver=0&pronetvd=null&vibid=2872000371799&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 224,
+      "oikTvd": "100100225883729"
     }
   },
   {
@@ -1411,8 +1691,12 @@ export const duma_2021_uik_463_region_87_part_001 = [
     "ballot": "single-member",
     "uikNumber": 57,
     "uikTvd": "4874002127774",
+    "uikName": "УИК №57",
     "tikTvd": "2872000371799",
     "tikName": "Анадырская городская",
+    "regionCode": "87",
+    "regionTvd": "100100225883728",
+    "regionName": "Чукотский автономный округ",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 0,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 0,
@@ -1428,11 +1712,11 @@ export const duma_2021_uik_463_region_87_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бутакова Юлия Сергеевна": 0,
-      "Гальцов Владимир Анатольевич": 0,
-      "Евтюхова Елена Александровна": 0,
-      "Ефимова Мария Станиславовна": 0,
-      "Семериков Александр Александрович": 0
+      "2872000373350": 0,
+      "2872000373667": 0,
+      "2872000375496": 0,
+      "2872000376033": 0,
+      "2872000373483": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/chukot?action=show&root=1000292&tvd=2872000371799&vrn=100100225883172&region=87&global=&sub_region=87&prver=0&pronetvd=null&vibid=2872000371799&type=464",
@@ -1442,6 +1726,10 @@ export const duma_2021_uik_463_region_87_part_001 = [
       "retrievedAt": "2026-08-26T08:15:52.665593+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/chukot?action=show&root=1000292&tvd=2872000371799&vrn=100100225883172&region=87&global=&sub_region=87&prver=0&pronetvd=null&vibid=2872000371799&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 224,
+      "oikTvd": "100100225883729"
     }
   },
   {
@@ -1451,8 +1739,12 @@ export const duma_2021_uik_463_region_87_part_001 = [
     "ballot": "single-member",
     "uikNumber": 58,
     "uikTvd": "4874002127775",
+    "uikName": "УИК №58",
     "tikTvd": "2872000371799",
     "tikName": "Анадырская городская",
+    "regionCode": "87",
+    "regionTvd": "100100225883728",
+    "regionName": "Чукотский автономный округ",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 0,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 0,
@@ -1468,11 +1760,11 @@ export const duma_2021_uik_463_region_87_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бутакова Юлия Сергеевна": 0,
-      "Гальцов Владимир Анатольевич": 0,
-      "Евтюхова Елена Александровна": 0,
-      "Ефимова Мария Станиславовна": 0,
-      "Семериков Александр Александрович": 0
+      "2872000373350": 0,
+      "2872000373667": 0,
+      "2872000375496": 0,
+      "2872000376033": 0,
+      "2872000373483": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/chukot?action=show&root=1000292&tvd=2872000371799&vrn=100100225883172&region=87&global=&sub_region=87&prver=0&pronetvd=null&vibid=2872000371799&type=464",
@@ -1482,6 +1774,10 @@ export const duma_2021_uik_463_region_87_part_001 = [
       "retrievedAt": "2026-08-26T08:15:52.665593+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/chukot?action=show&root=1000292&tvd=2872000371799&vrn=100100225883172&region=87&global=&sub_region=87&prver=0&pronetvd=null&vibid=2872000371799&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 224,
+      "oikTvd": "100100225883729"
     }
   },
   {
@@ -1491,8 +1787,12 @@ export const duma_2021_uik_463_region_87_part_001 = [
     "ballot": "single-member",
     "uikNumber": 60,
     "uikTvd": "4874002127777",
+    "uikName": "УИК №60",
     "tikTvd": "2872000371799",
     "tikName": "Анадырская городская",
+    "regionCode": "87",
+    "regionTvd": "100100225883728",
+    "regionName": "Чукотский автономный округ",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 0,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 0,
@@ -1508,11 +1808,11 @@ export const duma_2021_uik_463_region_87_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бутакова Юлия Сергеевна": 0,
-      "Гальцов Владимир Анатольевич": 0,
-      "Евтюхова Елена Александровна": 0,
-      "Ефимова Мария Станиславовна": 0,
-      "Семериков Александр Александрович": 0
+      "2872000373350": 0,
+      "2872000373667": 0,
+      "2872000375496": 0,
+      "2872000376033": 0,
+      "2872000373483": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/chukot?action=show&root=1000292&tvd=2872000371799&vrn=100100225883172&region=87&global=&sub_region=87&prver=0&pronetvd=null&vibid=2872000371799&type=464",
@@ -1522,6 +1822,10 @@ export const duma_2021_uik_463_region_87_part_001 = [
       "retrievedAt": "2026-08-26T08:15:52.665593+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/chukot?action=show&root=1000292&tvd=2872000371799&vrn=100100225883172&region=87&global=&sub_region=87&prver=0&pronetvd=null&vibid=2872000371799&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 224,
+      "oikTvd": "100100225883729"
     }
   },
   {
@@ -1531,8 +1835,12 @@ export const duma_2021_uik_463_region_87_part_001 = [
     "ballot": "single-member",
     "uikNumber": 61,
     "uikTvd": "4874002127778",
+    "uikName": "УИК №61",
     "tikTvd": "2872000371799",
     "tikName": "Анадырская городская",
+    "regionCode": "87",
+    "regionTvd": "100100225883728",
+    "regionName": "Чукотский автономный округ",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 0,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 0,
@@ -1548,11 +1856,11 @@ export const duma_2021_uik_463_region_87_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бутакова Юлия Сергеевна": 0,
-      "Гальцов Владимир Анатольевич": 0,
-      "Евтюхова Елена Александровна": 0,
-      "Ефимова Мария Станиславовна": 0,
-      "Семериков Александр Александрович": 0
+      "2872000373350": 0,
+      "2872000373667": 0,
+      "2872000375496": 0,
+      "2872000376033": 0,
+      "2872000373483": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/chukot?action=show&root=1000292&tvd=2872000371799&vrn=100100225883172&region=87&global=&sub_region=87&prver=0&pronetvd=null&vibid=2872000371799&type=464",
@@ -1562,6 +1870,10 @@ export const duma_2021_uik_463_region_87_part_001 = [
       "retrievedAt": "2026-08-26T08:15:52.665593+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/chukot?action=show&root=1000292&tvd=2872000371799&vrn=100100225883172&region=87&global=&sub_region=87&prver=0&pronetvd=null&vibid=2872000371799&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 224,
+      "oikTvd": "100100225883729"
     }
   },
   {
@@ -1571,8 +1883,12 @@ export const duma_2021_uik_463_region_87_part_001 = [
     "ballot": "single-member",
     "uikNumber": 63,
     "uikTvd": "4874002127779",
+    "uikName": "УИК №63",
     "tikTvd": "2872000371799",
     "tikName": "Анадырская городская",
+    "regionCode": "87",
+    "regionTvd": "100100225883728",
+    "regionName": "Чукотский автономный округ",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 0,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 0,
@@ -1588,11 +1904,11 @@ export const duma_2021_uik_463_region_87_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бутакова Юлия Сергеевна": 0,
-      "Гальцов Владимир Анатольевич": 0,
-      "Евтюхова Елена Александровна": 0,
-      "Ефимова Мария Станиславовна": 0,
-      "Семериков Александр Александрович": 0
+      "2872000373350": 0,
+      "2872000373667": 0,
+      "2872000375496": 0,
+      "2872000376033": 0,
+      "2872000373483": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/chukot?action=show&root=1000292&tvd=2872000371799&vrn=100100225883172&region=87&global=&sub_region=87&prver=0&pronetvd=null&vibid=2872000371799&type=464",
@@ -1602,6 +1918,10 @@ export const duma_2021_uik_463_region_87_part_001 = [
       "retrievedAt": "2026-08-26T08:15:52.665593+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/chukot?action=show&root=1000292&tvd=2872000371799&vrn=100100225883172&region=87&global=&sub_region=87&prver=0&pronetvd=null&vibid=2872000371799&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 224,
+      "oikTvd": "100100225883729"
     }
   },
   {
@@ -1611,8 +1931,12 @@ export const duma_2021_uik_463_region_87_part_001 = [
     "ballot": "single-member",
     "uikNumber": 38,
     "uikTvd": "4874006155819",
+    "uikName": "УИК №38",
     "tikTvd": "2872000371800",
     "tikName": "Провиденская",
+    "regionCode": "87",
+    "regionTvd": "100100225883728",
+    "regionName": "Чукотский автономный округ",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 122,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 124,
@@ -1628,11 +1952,11 @@ export const duma_2021_uik_463_region_87_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бутакова Юлия Сергеевна": 10,
-      "Гальцов Владимир Анатольевич": 6,
-      "Евтюхова Елена Александровна": 84,
-      "Ефимова Мария Станиславовна": 10,
-      "Семериков Александр Александрович": 4
+      "2872000373350": 10,
+      "2872000373667": 6,
+      "2872000375496": 84,
+      "2872000376033": 10,
+      "2872000373483": 4
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/chukot?action=show&root=1000292&tvd=2872000371800&vrn=100100225883172&region=87&global=&sub_region=87&prver=0&pronetvd=null&vibid=2872000371800&type=464",
@@ -1642,6 +1966,10 @@ export const duma_2021_uik_463_region_87_part_001 = [
       "retrievedAt": "2026-08-26T08:13:33.936498+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/chukot?action=show&root=1000292&tvd=2872000371800&vrn=100100225883172&region=87&global=&sub_region=87&prver=0&pronetvd=null&vibid=2872000371800&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 224,
+      "oikTvd": "100100225883729"
     }
   },
   {
@@ -1651,8 +1979,12 @@ export const duma_2021_uik_463_region_87_part_001 = [
     "ballot": "single-member",
     "uikNumber": 39,
     "uikTvd": "4874006155820",
+    "uikName": "УИК №39",
     "tikTvd": "2872000371800",
     "tikName": "Провиденская",
+    "regionCode": "87",
+    "regionTvd": "100100225883728",
+    "regionName": "Чукотский автономный округ",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 1110,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 1117,
@@ -1668,11 +2000,11 @@ export const duma_2021_uik_463_region_87_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бутакова Юлия Сергеевна": 80,
-      "Гальцов Владимир Анатольевич": 76,
-      "Евтюхова Елена Александровна": 385,
-      "Ефимова Мария Станиславовна": 76,
-      "Семериков Александр Александрович": 54
+      "2872000373350": 80,
+      "2872000373667": 76,
+      "2872000375496": 385,
+      "2872000376033": 76,
+      "2872000373483": 54
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/chukot?action=show&root=1000292&tvd=2872000371800&vrn=100100225883172&region=87&global=&sub_region=87&prver=0&pronetvd=null&vibid=2872000371800&type=464",
@@ -1682,6 +2014,10 @@ export const duma_2021_uik_463_region_87_part_001 = [
       "retrievedAt": "2026-08-26T08:13:33.936498+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/chukot?action=show&root=1000292&tvd=2872000371800&vrn=100100225883172&region=87&global=&sub_region=87&prver=0&pronetvd=null&vibid=2872000371800&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 224,
+      "oikTvd": "100100225883729"
     }
   },
   {
@@ -1691,8 +2027,12 @@ export const duma_2021_uik_463_region_87_part_001 = [
     "ballot": "single-member",
     "uikNumber": 40,
     "uikTvd": "4874006155821",
+    "uikName": "УИК №40",
     "tikTvd": "2872000371800",
     "tikName": "Провиденская",
+    "regionCode": "87",
+    "regionTvd": "100100225883728",
+    "regionName": "Чукотский автономный округ",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 175,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 178,
@@ -1708,11 +2048,11 @@ export const duma_2021_uik_463_region_87_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бутакова Юлия Сергеевна": 13,
-      "Гальцов Владимир Анатольевич": 22,
-      "Евтюхова Елена Александровна": 118,
-      "Ефимова Мария Станиславовна": 11,
-      "Семериков Александр Александрович": 5
+      "2872000373350": 13,
+      "2872000373667": 22,
+      "2872000375496": 118,
+      "2872000376033": 11,
+      "2872000373483": 5
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/chukot?action=show&root=1000292&tvd=2872000371800&vrn=100100225883172&region=87&global=&sub_region=87&prver=0&pronetvd=null&vibid=2872000371800&type=464",
@@ -1722,6 +2062,10 @@ export const duma_2021_uik_463_region_87_part_001 = [
       "retrievedAt": "2026-08-26T08:13:33.936498+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/chukot?action=show&root=1000292&tvd=2872000371800&vrn=100100225883172&region=87&global=&sub_region=87&prver=0&pronetvd=null&vibid=2872000371800&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 224,
+      "oikTvd": "100100225883729"
     }
   },
   {
@@ -1731,8 +2075,12 @@ export const duma_2021_uik_463_region_87_part_001 = [
     "ballot": "single-member",
     "uikNumber": 41,
     "uikTvd": "4874006155822",
+    "uikName": "УИК №41",
     "tikTvd": "2872000371800",
     "tikName": "Провиденская",
+    "regionCode": "87",
+    "regionTvd": "100100225883728",
+    "regionName": "Чукотский автономный округ",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 136,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 138,
@@ -1748,11 +2096,11 @@ export const duma_2021_uik_463_region_87_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бутакова Юлия Сергеевна": 21,
-      "Гальцов Владимир Анатольевич": 12,
-      "Евтюхова Елена Александровна": 42,
-      "Ефимова Мария Станиславовна": 18,
-      "Семериков Александр Александрович": 12
+      "2872000373350": 21,
+      "2872000373667": 12,
+      "2872000375496": 42,
+      "2872000376033": 18,
+      "2872000373483": 12
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/chukot?action=show&root=1000292&tvd=2872000371800&vrn=100100225883172&region=87&global=&sub_region=87&prver=0&pronetvd=null&vibid=2872000371800&type=464",
@@ -1762,6 +2110,10 @@ export const duma_2021_uik_463_region_87_part_001 = [
       "retrievedAt": "2026-08-26T08:13:33.936498+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/chukot?action=show&root=1000292&tvd=2872000371800&vrn=100100225883172&region=87&global=&sub_region=87&prver=0&pronetvd=null&vibid=2872000371800&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 224,
+      "oikTvd": "100100225883729"
     }
   },
   {
@@ -1771,8 +2123,12 @@ export const duma_2021_uik_463_region_87_part_001 = [
     "ballot": "single-member",
     "uikNumber": 42,
     "uikTvd": "4874006155823",
+    "uikName": "УИК №42",
     "tikTvd": "2872000371800",
     "tikName": "Провиденская",
+    "regionCode": "87",
+    "regionTvd": "100100225883728",
+    "regionName": "Чукотский автономный округ",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 136,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 138,
@@ -1788,11 +2144,11 @@ export const duma_2021_uik_463_region_87_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бутакова Юлия Сергеевна": 16,
-      "Гальцов Владимир Анатольевич": 14,
-      "Евтюхова Елена Александровна": 67,
-      "Ефимова Мария Станиславовна": 10,
-      "Семериков Александр Александрович": 15
+      "2872000373350": 16,
+      "2872000373667": 14,
+      "2872000375496": 67,
+      "2872000376033": 10,
+      "2872000373483": 15
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/chukot?action=show&root=1000292&tvd=2872000371800&vrn=100100225883172&region=87&global=&sub_region=87&prver=0&pronetvd=null&vibid=2872000371800&type=464",
@@ -1802,6 +2158,10 @@ export const duma_2021_uik_463_region_87_part_001 = [
       "retrievedAt": "2026-08-26T08:13:33.936498+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/chukot?action=show&root=1000292&tvd=2872000371800&vrn=100100225883172&region=87&global=&sub_region=87&prver=0&pronetvd=null&vibid=2872000371800&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 224,
+      "oikTvd": "100100225883729"
     }
   },
   {
@@ -1811,8 +2171,12 @@ export const duma_2021_uik_463_region_87_part_001 = [
     "ballot": "single-member",
     "uikNumber": 43,
     "uikTvd": "4874006155824",
+    "uikName": "УИК №43",
     "tikTvd": "2872000371800",
     "tikName": "Провиденская",
+    "regionCode": "87",
+    "regionTvd": "100100225883728",
+    "regionName": "Чукотский автономный округ",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 183,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 185,
@@ -1828,11 +2192,11 @@ export const duma_2021_uik_463_region_87_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бутакова Юлия Сергеевна": 18,
-      "Гальцов Владимир Анатольевич": 10,
-      "Евтюхова Елена Александровна": 97,
-      "Ефимова Мария Станиславовна": 20,
-      "Семериков Александр Александрович": 14
+      "2872000373350": 18,
+      "2872000373667": 10,
+      "2872000375496": 97,
+      "2872000376033": 20,
+      "2872000373483": 14
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/chukot?action=show&root=1000292&tvd=2872000371800&vrn=100100225883172&region=87&global=&sub_region=87&prver=0&pronetvd=null&vibid=2872000371800&type=464",
@@ -1842,6 +2206,10 @@ export const duma_2021_uik_463_region_87_part_001 = [
       "retrievedAt": "2026-08-26T08:13:33.936498+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/chukot?action=show&root=1000292&tvd=2872000371800&vrn=100100225883172&region=87&global=&sub_region=87&prver=0&pronetvd=null&vibid=2872000371800&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 224,
+      "oikTvd": "100100225883729"
     }
   },
   {
@@ -1851,8 +2219,12 @@ export const duma_2021_uik_463_region_87_part_001 = [
     "ballot": "single-member",
     "uikNumber": 44,
     "uikTvd": "4874007167973",
+    "uikName": "УИК №44",
     "tikTvd": "2872000371801",
     "tikName": "Певекская",
+    "regionCode": "87",
+    "regionTvd": "100100225883728",
+    "regionName": "Чукотский автономный округ",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 625,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 643,
@@ -1868,11 +2240,11 @@ export const duma_2021_uik_463_region_87_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бутакова Юлия Сергеевна": 40,
-      "Гальцов Владимир Анатольевич": 39,
-      "Евтюхова Елена Александровна": 149,
-      "Ефимова Мария Станиславовна": 18,
-      "Семериков Александр Александрович": 25
+      "2872000373350": 40,
+      "2872000373667": 39,
+      "2872000375496": 149,
+      "2872000376033": 18,
+      "2872000373483": 25
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/chukot?action=show&root=1000292&tvd=2872000371801&vrn=100100225883172&region=87&global=&sub_region=87&prver=0&pronetvd=null&vibid=2872000371801&type=464",
@@ -1882,6 +2254,10 @@ export const duma_2021_uik_463_region_87_part_001 = [
       "retrievedAt": "2026-08-26T08:13:35.563622+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/chukot?action=show&root=1000292&tvd=2872000371801&vrn=100100225883172&region=87&global=&sub_region=87&prver=0&pronetvd=null&vibid=2872000371801&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 224,
+      "oikTvd": "100100225883729"
     }
   },
   {
@@ -1891,8 +2267,12 @@ export const duma_2021_uik_463_region_87_part_001 = [
     "ballot": "single-member",
     "uikNumber": 45,
     "uikTvd": "4874007167974",
+    "uikName": "УИК №45",
     "tikTvd": "2872000371801",
     "tikName": "Певекская",
+    "regionCode": "87",
+    "regionTvd": "100100225883728",
+    "regionName": "Чукотский автономный округ",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 929,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 1003,
@@ -1908,11 +2288,11 @@ export const duma_2021_uik_463_region_87_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бутакова Юлия Сергеевна": 176,
-      "Гальцов Владимир Анатольевич": 92,
-      "Евтюхова Елена Александровна": 290,
-      "Ефимова Мария Станиславовна": 24,
-      "Семериков Александр Александрович": 34
+      "2872000373350": 176,
+      "2872000373667": 92,
+      "2872000375496": 290,
+      "2872000376033": 24,
+      "2872000373483": 34
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/chukot?action=show&root=1000292&tvd=2872000371801&vrn=100100225883172&region=87&global=&sub_region=87&prver=0&pronetvd=null&vibid=2872000371801&type=464",
@@ -1922,6 +2302,10 @@ export const duma_2021_uik_463_region_87_part_001 = [
       "retrievedAt": "2026-08-26T08:13:35.563622+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/chukot?action=show&root=1000292&tvd=2872000371801&vrn=100100225883172&region=87&global=&sub_region=87&prver=0&pronetvd=null&vibid=2872000371801&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 224,
+      "oikTvd": "100100225883729"
     }
   },
   {
@@ -1931,8 +2315,12 @@ export const duma_2021_uik_463_region_87_part_001 = [
     "ballot": "single-member",
     "uikNumber": 46,
     "uikTvd": "4874007167975",
+    "uikName": "УИК №46",
     "tikTvd": "2872000371801",
     "tikName": "Певекская",
+    "regionCode": "87",
+    "regionTvd": "100100225883728",
+    "regionName": "Чукотский автономный округ",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 1118,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 1256,
@@ -1948,11 +2336,11 @@ export const duma_2021_uik_463_region_87_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бутакова Юлия Сергеевна": 90,
-      "Гальцов Владимир Анатольевич": 97,
-      "Евтюхова Елена Александровна": 263,
-      "Ефимова Мария Станиславовна": 63,
-      "Семериков Александр Александрович": 78
+      "2872000373350": 90,
+      "2872000373667": 97,
+      "2872000375496": 263,
+      "2872000376033": 63,
+      "2872000373483": 78
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/chukot?action=show&root=1000292&tvd=2872000371801&vrn=100100225883172&region=87&global=&sub_region=87&prver=0&pronetvd=null&vibid=2872000371801&type=464",
@@ -1962,6 +2350,10 @@ export const duma_2021_uik_463_region_87_part_001 = [
       "retrievedAt": "2026-08-26T08:13:35.563622+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/chukot?action=show&root=1000292&tvd=2872000371801&vrn=100100225883172&region=87&global=&sub_region=87&prver=0&pronetvd=null&vibid=2872000371801&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 224,
+      "oikTvd": "100100225883729"
     }
   },
   {
@@ -1971,8 +2363,12 @@ export const duma_2021_uik_463_region_87_part_001 = [
     "ballot": "single-member",
     "uikNumber": 47,
     "uikTvd": "4874007167976",
+    "uikName": "УИК №47",
     "tikTvd": "2872000371801",
     "tikName": "Певекская",
+    "regionCode": "87",
+    "regionTvd": "100100225883728",
+    "regionName": "Чукотский автономный округ",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 206,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 225,
@@ -1988,11 +2384,11 @@ export const duma_2021_uik_463_region_87_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бутакова Юлия Сергеевна": 10,
-      "Гальцов Владимир Анатольевич": 18,
-      "Евтюхова Елена Александровна": 131,
-      "Ефимова Мария Станиславовна": 10,
-      "Семериков Александр Александрович": 9
+      "2872000373350": 10,
+      "2872000373667": 18,
+      "2872000375496": 131,
+      "2872000376033": 10,
+      "2872000373483": 9
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/chukot?action=show&root=1000292&tvd=2872000371801&vrn=100100225883172&region=87&global=&sub_region=87&prver=0&pronetvd=null&vibid=2872000371801&type=464",
@@ -2002,6 +2398,10 @@ export const duma_2021_uik_463_region_87_part_001 = [
       "retrievedAt": "2026-08-26T08:13:35.563622+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/chukot?action=show&root=1000292&tvd=2872000371801&vrn=100100225883172&region=87&global=&sub_region=87&prver=0&pronetvd=null&vibid=2872000371801&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 224,
+      "oikTvd": "100100225883729"
     }
   },
   {
@@ -2011,8 +2411,12 @@ export const duma_2021_uik_463_region_87_part_001 = [
     "ballot": "single-member",
     "uikNumber": 48,
     "uikTvd": "4874007167977",
+    "uikName": "УИК №48",
     "tikTvd": "2872000371801",
     "tikName": "Певекская",
+    "regionCode": "87",
+    "regionTvd": "100100225883728",
+    "regionName": "Чукотский автономный округ",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 102,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 130,
@@ -2028,11 +2432,11 @@ export const duma_2021_uik_463_region_87_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бутакова Юлия Сергеевна": 13,
-      "Гальцов Владимир Анатольевич": 7,
-      "Евтюхова Елена Александровна": 60,
-      "Ефимова Мария Станиславовна": 9,
-      "Семериков Александр Александрович": 5
+      "2872000373350": 13,
+      "2872000373667": 7,
+      "2872000375496": 60,
+      "2872000376033": 9,
+      "2872000373483": 5
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/chukot?action=show&root=1000292&tvd=2872000371801&vrn=100100225883172&region=87&global=&sub_region=87&prver=0&pronetvd=null&vibid=2872000371801&type=464",
@@ -2042,6 +2446,10 @@ export const duma_2021_uik_463_region_87_part_001 = [
       "retrievedAt": "2026-08-26T08:13:35.563622+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/chukot?action=show&root=1000292&tvd=2872000371801&vrn=100100225883172&region=87&global=&sub_region=87&prver=0&pronetvd=null&vibid=2872000371801&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 224,
+      "oikTvd": "100100225883729"
     }
   },
   {
@@ -2051,8 +2459,12 @@ export const duma_2021_uik_463_region_87_part_001 = [
     "ballot": "single-member",
     "uikNumber": 49,
     "uikTvd": "4874007167978",
+    "uikName": "УИК №49",
     "tikTvd": "2872000371801",
     "tikName": "Певекская",
+    "regionCode": "87",
+    "regionTvd": "100100225883728",
+    "regionName": "Чукотский автономный округ",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 87,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 100,
@@ -2068,11 +2480,11 @@ export const duma_2021_uik_463_region_87_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бутакова Юлия Сергеевна": 11,
-      "Гальцов Владимир Анатольевич": 0,
-      "Евтюхова Елена Александровна": 62,
-      "Ефимова Мария Станиславовна": 4,
-      "Семериков Александр Александрович": 5
+      "2872000373350": 11,
+      "2872000373667": 0,
+      "2872000375496": 62,
+      "2872000376033": 4,
+      "2872000373483": 5
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/chukot?action=show&root=1000292&tvd=2872000371801&vrn=100100225883172&region=87&global=&sub_region=87&prver=0&pronetvd=null&vibid=2872000371801&type=464",
@@ -2082,6 +2494,10 @@ export const duma_2021_uik_463_region_87_part_001 = [
       "retrievedAt": "2026-08-26T08:13:35.563622+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/chukot?action=show&root=1000292&tvd=2872000371801&vrn=100100225883172&region=87&global=&sub_region=87&prver=0&pronetvd=null&vibid=2872000371801&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 224,
+      "oikTvd": "100100225883729"
     }
   },
   {
@@ -2091,8 +2507,12 @@ export const duma_2021_uik_463_region_87_part_001 = [
     "ballot": "single-member",
     "uikNumber": 21,
     "uikTvd": "4874004140006",
+    "uikName": "УИК №21",
     "tikTvd": "2872000371802",
     "tikName": "Билибинская",
+    "regionCode": "87",
+    "regionTvd": "100100225883728",
+    "regionName": "Чукотский автономный округ",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 1406,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 1520,
@@ -2108,11 +2528,11 @@ export const duma_2021_uik_463_region_87_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бутакова Юлия Сергеевна": 151,
-      "Гальцов Владимир Анатольевич": 123,
-      "Евтюхова Елена Александровна": 135,
-      "Ефимова Мария Станиславовна": 59,
-      "Семериков Александр Александрович": 84
+      "2872000373350": 151,
+      "2872000373667": 123,
+      "2872000375496": 135,
+      "2872000376033": 59,
+      "2872000373483": 84
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/chukot?action=show&root=1000292&tvd=2872000371802&vrn=100100225883172&region=87&global=&sub_region=87&prver=0&pronetvd=null&vibid=2872000371802&type=464",
@@ -2122,6 +2542,10 @@ export const duma_2021_uik_463_region_87_part_001 = [
       "retrievedAt": "2026-08-26T08:13:35.947163+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/chukot?action=show&root=1000292&tvd=2872000371802&vrn=100100225883172&region=87&global=&sub_region=87&prver=0&pronetvd=null&vibid=2872000371802&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 224,
+      "oikTvd": "100100225883729"
     }
   },
   {
@@ -2131,8 +2555,12 @@ export const duma_2021_uik_463_region_87_part_001 = [
     "ballot": "single-member",
     "uikNumber": 22,
     "uikTvd": "4874004140007",
+    "uikName": "УИК №22",
     "tikTvd": "2872000371802",
     "tikName": "Билибинская",
+    "regionCode": "87",
+    "regionTvd": "100100225883728",
+    "regionName": "Чукотский автономный округ",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 885,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 1610,
@@ -2148,11 +2576,11 @@ export const duma_2021_uik_463_region_87_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бутакова Юлия Сергеевна": 81,
-      "Гальцов Владимир Анатольевич": 73,
-      "Евтюхова Елена Александровна": 89,
-      "Ефимова Мария Станиславовна": 42,
-      "Семериков Александр Александрович": 70
+      "2872000373350": 81,
+      "2872000373667": 73,
+      "2872000375496": 89,
+      "2872000376033": 42,
+      "2872000373483": 70
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/chukot?action=show&root=1000292&tvd=2872000371802&vrn=100100225883172&region=87&global=&sub_region=87&prver=0&pronetvd=null&vibid=2872000371802&type=464",
@@ -2162,6 +2590,10 @@ export const duma_2021_uik_463_region_87_part_001 = [
       "retrievedAt": "2026-08-26T08:13:35.947163+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/chukot?action=show&root=1000292&tvd=2872000371802&vrn=100100225883172&region=87&global=&sub_region=87&prver=0&pronetvd=null&vibid=2872000371802&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 224,
+      "oikTvd": "100100225883729"
     }
   },
   {
@@ -2171,8 +2603,12 @@ export const duma_2021_uik_463_region_87_part_001 = [
     "ballot": "single-member",
     "uikNumber": 23,
     "uikTvd": "4874004140008",
+    "uikName": "УИК №23",
     "tikTvd": "2872000371802",
     "tikName": "Билибинская",
+    "regionCode": "87",
+    "regionTvd": "100100225883728",
+    "regionName": "Чукотский автономный округ",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 1279,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 1162,
@@ -2188,11 +2624,11 @@ export const duma_2021_uik_463_region_87_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бутакова Юлия Сергеевна": 96,
-      "Гальцов Владимир Анатольевич": 128,
-      "Евтюхова Елена Александровна": 124,
-      "Ефимова Мария Станиславовна": 49,
-      "Семериков Александр Александрович": 61
+      "2872000373350": 96,
+      "2872000373667": 128,
+      "2872000375496": 124,
+      "2872000376033": 49,
+      "2872000373483": 61
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/chukot?action=show&root=1000292&tvd=2872000371802&vrn=100100225883172&region=87&global=&sub_region=87&prver=0&pronetvd=null&vibid=2872000371802&type=464",
@@ -2202,6 +2638,10 @@ export const duma_2021_uik_463_region_87_part_001 = [
       "retrievedAt": "2026-08-26T08:13:35.947163+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/chukot?action=show&root=1000292&tvd=2872000371802&vrn=100100225883172&region=87&global=&sub_region=87&prver=0&pronetvd=null&vibid=2872000371802&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 224,
+      "oikTvd": "100100225883729"
     }
   },
   {
@@ -2211,8 +2651,12 @@ export const duma_2021_uik_463_region_87_part_001 = [
     "ballot": "single-member",
     "uikNumber": 24,
     "uikTvd": "4874004140009",
+    "uikName": "УИК №24",
     "tikTvd": "2872000371802",
     "tikName": "Билибинская",
+    "regionCode": "87",
+    "regionTvd": "100100225883728",
+    "regionName": "Чукотский автономный округ",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 382,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 331,
@@ -2228,11 +2672,11 @@ export const duma_2021_uik_463_region_87_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бутакова Юлия Сергеевна": 25,
-      "Гальцов Владимир Анатольевич": 28,
-      "Евтюхова Елена Александровна": 41,
-      "Ефимова Мария Станиславовна": 11,
-      "Семериков Александр Александрович": 24
+      "2872000373350": 25,
+      "2872000373667": 28,
+      "2872000375496": 41,
+      "2872000376033": 11,
+      "2872000373483": 24
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/chukot?action=show&root=1000292&tvd=2872000371802&vrn=100100225883172&region=87&global=&sub_region=87&prver=0&pronetvd=null&vibid=2872000371802&type=464",
@@ -2242,6 +2686,10 @@ export const duma_2021_uik_463_region_87_part_001 = [
       "retrievedAt": "2026-08-26T08:13:35.947163+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/chukot?action=show&root=1000292&tvd=2872000371802&vrn=100100225883172&region=87&global=&sub_region=87&prver=0&pronetvd=null&vibid=2872000371802&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 224,
+      "oikTvd": "100100225883729"
     }
   },
   {
@@ -2251,8 +2699,12 @@ export const duma_2021_uik_463_region_87_part_001 = [
     "ballot": "single-member",
     "uikNumber": 25,
     "uikTvd": "4874004140010",
+    "uikName": "УИК №25",
     "tikTvd": "2872000371802",
     "tikName": "Билибинская",
+    "regionCode": "87",
+    "regionTvd": "100100225883728",
+    "regionName": "Чукотский автономный округ",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 396,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 413,
@@ -2268,11 +2720,11 @@ export const duma_2021_uik_463_region_87_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бутакова Юлия Сергеевна": 32,
-      "Гальцов Владимир Анатольевич": 26,
-      "Евтюхова Елена Александровна": 102,
-      "Ефимова Мария Станиславовна": 22,
-      "Семериков Александр Александрович": 21
+      "2872000373350": 32,
+      "2872000373667": 26,
+      "2872000375496": 102,
+      "2872000376033": 22,
+      "2872000373483": 21
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/chukot?action=show&root=1000292&tvd=2872000371802&vrn=100100225883172&region=87&global=&sub_region=87&prver=0&pronetvd=null&vibid=2872000371802&type=464",
@@ -2282,6 +2734,10 @@ export const duma_2021_uik_463_region_87_part_001 = [
       "retrievedAt": "2026-08-26T08:13:35.947163+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/chukot?action=show&root=1000292&tvd=2872000371802&vrn=100100225883172&region=87&global=&sub_region=87&prver=0&pronetvd=null&vibid=2872000371802&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 224,
+      "oikTvd": "100100225883729"
     }
   },
   {
@@ -2291,8 +2747,12 @@ export const duma_2021_uik_463_region_87_part_001 = [
     "ballot": "single-member",
     "uikNumber": 26,
     "uikTvd": "4874004140011",
+    "uikName": "УИК №26",
     "tikTvd": "2872000371802",
     "tikName": "Билибинская",
+    "regionCode": "87",
+    "regionTvd": "100100225883728",
+    "regionName": "Чукотский автономный округ",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 217,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 171,
@@ -2308,11 +2768,11 @@ export const duma_2021_uik_463_region_87_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бутакова Юлия Сергеевна": 32,
-      "Гальцов Владимир Анатольевич": 18,
-      "Евтюхова Елена Александровна": 61,
-      "Ефимова Мария Станиславовна": 10,
-      "Семериков Александр Александрович": 16
+      "2872000373350": 32,
+      "2872000373667": 18,
+      "2872000375496": 61,
+      "2872000376033": 10,
+      "2872000373483": 16
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/chukot?action=show&root=1000292&tvd=2872000371802&vrn=100100225883172&region=87&global=&sub_region=87&prver=0&pronetvd=null&vibid=2872000371802&type=464",
@@ -2322,6 +2782,10 @@ export const duma_2021_uik_463_region_87_part_001 = [
       "retrievedAt": "2026-08-26T08:13:35.947163+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/chukot?action=show&root=1000292&tvd=2872000371802&vrn=100100225883172&region=87&global=&sub_region=87&prver=0&pronetvd=null&vibid=2872000371802&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 224,
+      "oikTvd": "100100225883729"
     }
   },
   {
@@ -2331,8 +2795,12 @@ export const duma_2021_uik_463_region_87_part_001 = [
     "ballot": "single-member",
     "uikNumber": 27,
     "uikTvd": "4874004140012",
+    "uikName": "УИК №27",
     "tikTvd": "2872000371802",
     "tikName": "Билибинская",
+    "regionCode": "87",
+    "regionTvd": "100100225883728",
+    "regionName": "Чукотский автономный округ",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 262,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 224,
@@ -2348,11 +2816,11 @@ export const duma_2021_uik_463_region_87_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бутакова Юлия Сергеевна": 22,
-      "Гальцов Владимир Анатольевич": 53,
-      "Евтюхова Елена Александровна": 47,
-      "Ефимова Мария Станиславовна": 9,
-      "Семериков Александр Александрович": 15
+      "2872000373350": 22,
+      "2872000373667": 53,
+      "2872000375496": 47,
+      "2872000376033": 9,
+      "2872000373483": 15
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/chukot?action=show&root=1000292&tvd=2872000371802&vrn=100100225883172&region=87&global=&sub_region=87&prver=0&pronetvd=null&vibid=2872000371802&type=464",
@@ -2362,6 +2830,10 @@ export const duma_2021_uik_463_region_87_part_001 = [
       "retrievedAt": "2026-08-26T08:13:35.947163+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/chukot?action=show&root=1000292&tvd=2872000371802&vrn=100100225883172&region=87&global=&sub_region=87&prver=0&pronetvd=null&vibid=2872000371802&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 224,
+      "oikTvd": "100100225883729"
     }
   },
   {
@@ -2371,8 +2843,12 @@ export const duma_2021_uik_463_region_87_part_001 = [
     "ballot": "single-member",
     "uikNumber": 28,
     "uikTvd": "4874004140013",
+    "uikName": "УИК №28",
     "tikTvd": "2872000371802",
     "tikName": "Билибинская",
+    "regionCode": "87",
+    "regionTvd": "100100225883728",
+    "regionName": "Чукотский автономный округ",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 130,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 380,
@@ -2388,11 +2864,11 @@ export const duma_2021_uik_463_region_87_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бутакова Юлия Сергеевна": 12,
-      "Гальцов Владимир Анатольевич": 9,
-      "Евтюхова Елена Александровна": 45,
-      "Ефимова Мария Станиславовна": 4,
-      "Семериков Александр Александрович": 4
+      "2872000373350": 12,
+      "2872000373667": 9,
+      "2872000375496": 45,
+      "2872000376033": 4,
+      "2872000373483": 4
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/chukot?action=show&root=1000292&tvd=2872000371802&vrn=100100225883172&region=87&global=&sub_region=87&prver=0&pronetvd=null&vibid=2872000371802&type=464",
@@ -2402,6 +2878,10 @@ export const duma_2021_uik_463_region_87_part_001 = [
       "retrievedAt": "2026-08-26T08:13:35.947163+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/chukot?action=show&root=1000292&tvd=2872000371802&vrn=100100225883172&region=87&global=&sub_region=87&prver=0&pronetvd=null&vibid=2872000371802&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 224,
+      "oikTvd": "100100225883729"
     }
   },
   {
@@ -2411,8 +2891,12 @@ export const duma_2021_uik_463_region_87_part_001 = [
     "ballot": "single-member",
     "uikNumber": 29,
     "uikTvd": "4874004140014",
+    "uikName": "УИК №29",
     "tikTvd": "2872000371802",
     "tikName": "Билибинская",
+    "regionCode": "87",
+    "regionTvd": "100100225883728",
+    "regionName": "Чукотский автономный округ",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 195,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 268,
@@ -2428,11 +2912,11 @@ export const duma_2021_uik_463_region_87_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бутакова Юлия Сергеевна": 15,
-      "Гальцов Владимир Анатольевич": 16,
-      "Евтюхова Елена Александровна": 29,
-      "Ефимова Мария Станиславовна": 9,
-      "Семериков Александр Александрович": 17
+      "2872000373350": 15,
+      "2872000373667": 16,
+      "2872000375496": 29,
+      "2872000376033": 9,
+      "2872000373483": 17
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/chukot?action=show&root=1000292&tvd=2872000371802&vrn=100100225883172&region=87&global=&sub_region=87&prver=0&pronetvd=null&vibid=2872000371802&type=464",
@@ -2442,6 +2926,10 @@ export const duma_2021_uik_463_region_87_part_001 = [
       "retrievedAt": "2026-08-26T08:13:35.947163+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/chukot?action=show&root=1000292&tvd=2872000371802&vrn=100100225883172&region=87&global=&sub_region=87&prver=0&pronetvd=null&vibid=2872000371802&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 224,
+      "oikTvd": "100100225883729"
     }
   }
 ] satisfies readonly UikProtocol[];

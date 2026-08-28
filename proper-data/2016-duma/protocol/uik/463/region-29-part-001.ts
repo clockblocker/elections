@@ -43,15 +43,15 @@ export const duma_2016_uik_463_region_29_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Буторин Михаил Вениаминович": 11,
-      "Епифанова Ольга Николаевна": 29,
-      "Ерыкалов Вячеслав Борисович": 1,
-      "Новиков Александр Владимирович": 15,
-      "Пивков Сергей Анатольевич": 21,
-      "Русаков Юрий Михайлович": 2,
-      "Силантьев Михаил Сергеевич": 3,
-      "Чураков Андрей Анатольевич": 1,
-      "Юрков Дмитрий Васильевич": 70
+      "gas:candidate-vibid:2292000789647": 11,
+      "gas:candidate-vibid:2292000786560": 29,
+      "gas:candidate-vibid:2292000788448": 1,
+      "gas:candidate-vibid:2292000787014": 15,
+      "gas:candidate-vibid:2292000777782": 21,
+      "gas:candidate-vibid:2292000788112": 2,
+      "gas:candidate-vibid:2292000790241": 3,
+      "gas:candidate-vibid:2292000789553": 1,
+      "gas:candidate-vibid:2292000789248": 70
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/arkhangelsk?action=show&root=1000091&tvd=2292000756625&vrn=100100067795849&region=29&global=&sub_region=29&prver=0&pronetvd=null&vibid=2292000756625&type=464",
@@ -102,15 +102,15 @@ export const duma_2016_uik_463_region_29_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Буторин Михаил Вениаминович": 11,
-      "Епифанова Ольга Николаевна": 116,
-      "Ерыкалов Вячеслав Борисович": 6,
-      "Новиков Александр Владимирович": 101,
-      "Пивков Сергей Анатольевич": 81,
-      "Русаков Юрий Михайлович": 5,
-      "Силантьев Михаил Сергеевич": 4,
-      "Чураков Андрей Анатольевич": 11,
-      "Юрков Дмитрий Васильевич": 92
+      "gas:candidate-vibid:2292000789647": 11,
+      "gas:candidate-vibid:2292000786560": 116,
+      "gas:candidate-vibid:2292000788448": 6,
+      "gas:candidate-vibid:2292000787014": 101,
+      "gas:candidate-vibid:2292000777782": 81,
+      "gas:candidate-vibid:2292000788112": 5,
+      "gas:candidate-vibid:2292000790241": 4,
+      "gas:candidate-vibid:2292000789553": 11,
+      "gas:candidate-vibid:2292000789248": 92
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/arkhangelsk?action=show&root=1000091&tvd=2292000756625&vrn=100100067795849&region=29&global=&sub_region=29&prver=0&pronetvd=null&vibid=2292000756625&type=464",
@@ -161,15 +161,15 @@ export const duma_2016_uik_463_region_29_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Буторин Михаил Вениаминович": 9,
-      "Епифанова Ольга Николаевна": 80,
-      "Ерыкалов Вячеслав Борисович": 6,
-      "Новиков Александр Владимирович": 73,
-      "Пивков Сергей Анатольевич": 58,
-      "Русаков Юрий Михайлович": 6,
-      "Силантьев Михаил Сергеевич": 16,
-      "Чураков Андрей Анатольевич": 10,
-      "Юрков Дмитрий Васильевич": 236
+      "gas:candidate-vibid:2292000789647": 9,
+      "gas:candidate-vibid:2292000786560": 80,
+      "gas:candidate-vibid:2292000788448": 6,
+      "gas:candidate-vibid:2292000787014": 73,
+      "gas:candidate-vibid:2292000777782": 58,
+      "gas:candidate-vibid:2292000788112": 6,
+      "gas:candidate-vibid:2292000790241": 16,
+      "gas:candidate-vibid:2292000789553": 10,
+      "gas:candidate-vibid:2292000789248": 236
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/arkhangelsk?action=show&root=1000091&tvd=2292000756625&vrn=100100067795849&region=29&global=&sub_region=29&prver=0&pronetvd=null&vibid=2292000756625&type=464",
@@ -220,15 +220,15 @@ export const duma_2016_uik_463_region_29_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Буторин Михаил Вениаминович": 7,
-      "Епифанова Ольга Николаевна": 86,
-      "Ерыкалов Вячеслав Борисович": 2,
-      "Новиков Александр Владимирович": 33,
-      "Пивков Сергей Анатольевич": 48,
-      "Русаков Юрий Михайлович": 5,
-      "Силантьев Михаил Сергеевич": 10,
-      "Чураков Андрей Анатольевич": 8,
-      "Юрков Дмитрий Васильевич": 138
+      "gas:candidate-vibid:2292000789647": 7,
+      "gas:candidate-vibid:2292000786560": 86,
+      "gas:candidate-vibid:2292000788448": 2,
+      "gas:candidate-vibid:2292000787014": 33,
+      "gas:candidate-vibid:2292000777782": 48,
+      "gas:candidate-vibid:2292000788112": 5,
+      "gas:candidate-vibid:2292000790241": 10,
+      "gas:candidate-vibid:2292000789553": 8,
+      "gas:candidate-vibid:2292000789248": 138
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/arkhangelsk?action=show&root=1000091&tvd=2292000756625&vrn=100100067795849&region=29&global=&sub_region=29&prver=0&pronetvd=null&vibid=2292000756625&type=464",
@@ -279,15 +279,15 @@ export const duma_2016_uik_463_region_29_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Буторин Михаил Вениаминович": 6,
-      "Епифанова Ольга Николаевна": 38,
-      "Ерыкалов Вячеслав Борисович": 2,
-      "Новиков Александр Владимирович": 19,
-      "Пивков Сергей Анатольевич": 26,
-      "Русаков Юрий Михайлович": 5,
-      "Силантьев Михаил Сергеевич": 5,
-      "Чураков Андрей Анатольевич": 2,
-      "Юрков Дмитрий Васильевич": 35
+      "gas:candidate-vibid:2292000789647": 6,
+      "gas:candidate-vibid:2292000786560": 38,
+      "gas:candidate-vibid:2292000788448": 2,
+      "gas:candidate-vibid:2292000787014": 19,
+      "gas:candidate-vibid:2292000777782": 26,
+      "gas:candidate-vibid:2292000788112": 5,
+      "gas:candidate-vibid:2292000790241": 5,
+      "gas:candidate-vibid:2292000789553": 2,
+      "gas:candidate-vibid:2292000789248": 35
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/arkhangelsk?action=show&root=1000091&tvd=2292000756625&vrn=100100067795849&region=29&global=&sub_region=29&prver=0&pronetvd=null&vibid=2292000756625&type=464",
@@ -338,15 +338,15 @@ export const duma_2016_uik_463_region_29_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Буторин Михаил Вениаминович": 4,
-      "Епифанова Ольга Николаевна": 15,
-      "Ерыкалов Вячеслав Борисович": 1,
-      "Новиков Александр Владимирович": 10,
-      "Пивков Сергей Анатольевич": 5,
-      "Русаков Юрий Михайлович": 6,
-      "Силантьев Михаил Сергеевич": 0,
-      "Чураков Андрей Анатольевич": 1,
-      "Юрков Дмитрий Васильевич": 46
+      "gas:candidate-vibid:2292000789647": 4,
+      "gas:candidate-vibid:2292000786560": 15,
+      "gas:candidate-vibid:2292000788448": 1,
+      "gas:candidate-vibid:2292000787014": 10,
+      "gas:candidate-vibid:2292000777782": 5,
+      "gas:candidate-vibid:2292000788112": 6,
+      "gas:candidate-vibid:2292000790241": 0,
+      "gas:candidate-vibid:2292000789553": 1,
+      "gas:candidate-vibid:2292000789248": 46
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/arkhangelsk?action=show&root=1000091&tvd=2292000756625&vrn=100100067795849&region=29&global=&sub_region=29&prver=0&pronetvd=null&vibid=2292000756625&type=464",
@@ -397,15 +397,15 @@ export const duma_2016_uik_463_region_29_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Буторин Михаил Вениаминович": 16,
-      "Епифанова Ольга Николаевна": 41,
-      "Ерыкалов Вячеслав Борисович": 3,
-      "Новиков Александр Владимирович": 30,
-      "Пивков Сергей Анатольевич": 53,
-      "Русаков Юрий Михайлович": 14,
-      "Силантьев Михаил Сергеевич": 5,
-      "Чураков Андрей Анатольевич": 6,
-      "Юрков Дмитрий Васильевич": 128
+      "gas:candidate-vibid:2292000789647": 16,
+      "gas:candidate-vibid:2292000786560": 41,
+      "gas:candidate-vibid:2292000788448": 3,
+      "gas:candidate-vibid:2292000787014": 30,
+      "gas:candidate-vibid:2292000777782": 53,
+      "gas:candidate-vibid:2292000788112": 14,
+      "gas:candidate-vibid:2292000790241": 5,
+      "gas:candidate-vibid:2292000789553": 6,
+      "gas:candidate-vibid:2292000789248": 128
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/arkhangelsk?action=show&root=1000091&tvd=2292000756625&vrn=100100067795849&region=29&global=&sub_region=29&prver=0&pronetvd=null&vibid=2292000756625&type=464",
@@ -456,15 +456,15 @@ export const duma_2016_uik_463_region_29_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Буторин Михаил Вениаминович": 12,
-      "Епифанова Ольга Николаевна": 28,
-      "Ерыкалов Вячеслав Борисович": 6,
-      "Новиков Александр Владимирович": 35,
-      "Пивков Сергей Анатольевич": 27,
-      "Русаков Юрий Михайлович": 6,
-      "Силантьев Михаил Сергеевич": 8,
-      "Чураков Андрей Анатольевич": 2,
-      "Юрков Дмитрий Васильевич": 48
+      "gas:candidate-vibid:2292000789647": 12,
+      "gas:candidate-vibid:2292000786560": 28,
+      "gas:candidate-vibid:2292000788448": 6,
+      "gas:candidate-vibid:2292000787014": 35,
+      "gas:candidate-vibid:2292000777782": 27,
+      "gas:candidate-vibid:2292000788112": 6,
+      "gas:candidate-vibid:2292000790241": 8,
+      "gas:candidate-vibid:2292000789553": 2,
+      "gas:candidate-vibid:2292000789248": 48
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/arkhangelsk?action=show&root=1000091&tvd=2292000756625&vrn=100100067795849&region=29&global=&sub_region=29&prver=0&pronetvd=null&vibid=2292000756625&type=464",
@@ -515,15 +515,15 @@ export const duma_2016_uik_463_region_29_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Буторин Михаил Вениаминович": 24,
-      "Епифанова Ольга Николаевна": 157,
-      "Ерыкалов Вячеслав Борисович": 11,
-      "Новиков Александр Владимирович": 107,
-      "Пивков Сергей Анатольевич": 90,
-      "Русаков Юрий Михайлович": 19,
-      "Силантьев Михаил Сергеевич": 12,
-      "Чураков Андрей Анатольевич": 6,
-      "Юрков Дмитрий Васильевич": 195
+      "gas:candidate-vibid:2292000789647": 24,
+      "gas:candidate-vibid:2292000786560": 157,
+      "gas:candidate-vibid:2292000788448": 11,
+      "gas:candidate-vibid:2292000787014": 107,
+      "gas:candidate-vibid:2292000777782": 90,
+      "gas:candidate-vibid:2292000788112": 19,
+      "gas:candidate-vibid:2292000790241": 12,
+      "gas:candidate-vibid:2292000789553": 6,
+      "gas:candidate-vibid:2292000789248": 195
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/arkhangelsk?action=show&root=1000091&tvd=2292000756625&vrn=100100067795849&region=29&global=&sub_region=29&prver=0&pronetvd=null&vibid=2292000756625&type=464",
@@ -574,15 +574,15 @@ export const duma_2016_uik_463_region_29_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Буторин Михаил Вениаминович": 18,
-      "Епифанова Ольга Николаевна": 101,
-      "Ерыкалов Вячеслав Борисович": 6,
-      "Новиков Александр Владимирович": 65,
-      "Пивков Сергей Анатольевич": 50,
-      "Русаков Юрий Михайлович": 14,
-      "Силантьев Михаил Сергеевич": 10,
-      "Чураков Андрей Анатольевич": 4,
-      "Юрков Дмитрий Васильевич": 103
+      "gas:candidate-vibid:2292000789647": 18,
+      "gas:candidate-vibid:2292000786560": 101,
+      "gas:candidate-vibid:2292000788448": 6,
+      "gas:candidate-vibid:2292000787014": 65,
+      "gas:candidate-vibid:2292000777782": 50,
+      "gas:candidate-vibid:2292000788112": 14,
+      "gas:candidate-vibid:2292000790241": 10,
+      "gas:candidate-vibid:2292000789553": 4,
+      "gas:candidate-vibid:2292000789248": 103
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/arkhangelsk?action=show&root=1000091&tvd=2292000756625&vrn=100100067795849&region=29&global=&sub_region=29&prver=0&pronetvd=null&vibid=2292000756625&type=464",
@@ -633,15 +633,15 @@ export const duma_2016_uik_463_region_29_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Буторин Михаил Вениаминович": 42,
-      "Епифанова Ольга Николаевна": 253,
-      "Ерыкалов Вячеслав Борисович": 11,
-      "Новиков Александр Владимирович": 120,
-      "Пивков Сергей Анатольевич": 97,
-      "Русаков Юрий Михайлович": 19,
-      "Силантьев Михаил Сергеевич": 18,
-      "Чураков Андрей Анатольевич": 18,
-      "Юрков Дмитрий Васильевич": 292
+      "gas:candidate-vibid:2292000789647": 42,
+      "gas:candidate-vibid:2292000786560": 253,
+      "gas:candidate-vibid:2292000788448": 11,
+      "gas:candidate-vibid:2292000787014": 120,
+      "gas:candidate-vibid:2292000777782": 97,
+      "gas:candidate-vibid:2292000788112": 19,
+      "gas:candidate-vibid:2292000790241": 18,
+      "gas:candidate-vibid:2292000789553": 18,
+      "gas:candidate-vibid:2292000789248": 292
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/arkhangelsk?action=show&root=1000091&tvd=2292000756625&vrn=100100067795849&region=29&global=&sub_region=29&prver=0&pronetvd=null&vibid=2292000756625&type=464",
@@ -692,15 +692,15 @@ export const duma_2016_uik_463_region_29_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Буторин Михаил Вениаминович": 4,
-      "Епифанова Ольга Николаевна": 9,
-      "Ерыкалов Вячеслав Борисович": 1,
-      "Новиков Александр Владимирович": 13,
-      "Пивков Сергей Анатольевич": 14,
-      "Русаков Юрий Михайлович": 4,
-      "Силантьев Михаил Сергеевич": 0,
-      "Чураков Андрей Анатольевич": 0,
-      "Юрков Дмитрий Васильевич": 70
+      "gas:candidate-vibid:2292000789647": 4,
+      "gas:candidate-vibid:2292000786560": 9,
+      "gas:candidate-vibid:2292000788448": 1,
+      "gas:candidate-vibid:2292000787014": 13,
+      "gas:candidate-vibid:2292000777782": 14,
+      "gas:candidate-vibid:2292000788112": 4,
+      "gas:candidate-vibid:2292000790241": 0,
+      "gas:candidate-vibid:2292000789553": 0,
+      "gas:candidate-vibid:2292000789248": 70
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/arkhangelsk?action=show&root=1000091&tvd=2292000756625&vrn=100100067795849&region=29&global=&sub_region=29&prver=0&pronetvd=null&vibid=2292000756625&type=464",
@@ -751,15 +751,15 @@ export const duma_2016_uik_463_region_29_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Буторин Михаил Вениаминович": 25,
-      "Епифанова Ольга Николаевна": 231,
-      "Ерыкалов Вячеслав Борисович": 6,
-      "Новиков Александр Владимирович": 120,
-      "Пивков Сергей Анатольевич": 98,
-      "Русаков Юрий Михайлович": 22,
-      "Силантьев Михаил Сергеевич": 19,
-      "Чураков Андрей Анатольевич": 16,
-      "Юрков Дмитрий Васильевич": 259
+      "gas:candidate-vibid:2292000789647": 25,
+      "gas:candidate-vibid:2292000786560": 231,
+      "gas:candidate-vibid:2292000788448": 6,
+      "gas:candidate-vibid:2292000787014": 120,
+      "gas:candidate-vibid:2292000777782": 98,
+      "gas:candidate-vibid:2292000788112": 22,
+      "gas:candidate-vibid:2292000790241": 19,
+      "gas:candidate-vibid:2292000789553": 16,
+      "gas:candidate-vibid:2292000789248": 259
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/arkhangelsk?action=show&root=1000091&tvd=2292000756625&vrn=100100067795849&region=29&global=&sub_region=29&prver=0&pronetvd=null&vibid=2292000756625&type=464",
@@ -810,15 +810,15 @@ export const duma_2016_uik_463_region_29_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Буторин Михаил Вениаминович": 11,
-      "Епифанова Ольга Николаевна": 81,
-      "Ерыкалов Вячеслав Борисович": 3,
-      "Новиков Александр Владимирович": 43,
-      "Пивков Сергей Анатольевич": 35,
-      "Русаков Юрий Михайлович": 5,
-      "Силантьев Михаил Сергеевич": 11,
-      "Чураков Андрей Анатольевич": 6,
-      "Юрков Дмитрий Васильевич": 117
+      "gas:candidate-vibid:2292000789647": 11,
+      "gas:candidate-vibid:2292000786560": 81,
+      "gas:candidate-vibid:2292000788448": 3,
+      "gas:candidate-vibid:2292000787014": 43,
+      "gas:candidate-vibid:2292000777782": 35,
+      "gas:candidate-vibid:2292000788112": 5,
+      "gas:candidate-vibid:2292000790241": 11,
+      "gas:candidate-vibid:2292000789553": 6,
+      "gas:candidate-vibid:2292000789248": 117
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/arkhangelsk?action=show&root=1000091&tvd=2292000756625&vrn=100100067795849&region=29&global=&sub_region=29&prver=0&pronetvd=null&vibid=2292000756625&type=464",
@@ -869,15 +869,15 @@ export const duma_2016_uik_463_region_29_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Буторин Михаил Вениаминович": 7,
-      "Епифанова Ольга Николаевна": 99,
-      "Ерыкалов Вячеслав Борисович": 7,
-      "Новиков Александр Владимирович": 47,
-      "Пивков Сергей Анатольевич": 53,
-      "Русаков Юрий Михайлович": 3,
-      "Силантьев Михаил Сергеевич": 8,
-      "Чураков Андрей Анатольевич": 10,
-      "Юрков Дмитрий Васильевич": 141
+      "gas:candidate-vibid:2292000789647": 7,
+      "gas:candidate-vibid:2292000786560": 99,
+      "gas:candidate-vibid:2292000788448": 7,
+      "gas:candidate-vibid:2292000787014": 47,
+      "gas:candidate-vibid:2292000777782": 53,
+      "gas:candidate-vibid:2292000788112": 3,
+      "gas:candidate-vibid:2292000790241": 8,
+      "gas:candidate-vibid:2292000789553": 10,
+      "gas:candidate-vibid:2292000789248": 141
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/arkhangelsk?action=show&root=1000091&tvd=2292000756625&vrn=100100067795849&region=29&global=&sub_region=29&prver=0&pronetvd=null&vibid=2292000756625&type=464",
@@ -928,15 +928,15 @@ export const duma_2016_uik_463_region_29_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Буторин Михаил Вениаминович": 41,
-      "Епифанова Ольга Николаевна": 225,
-      "Ерыкалов Вячеслав Борисович": 10,
-      "Новиков Александр Владимирович": 114,
-      "Пивков Сергей Анатольевич": 104,
-      "Русаков Юрий Михайлович": 24,
-      "Силантьев Михаил Сергеевич": 17,
-      "Чураков Андрей Анатольевич": 10,
-      "Юрков Дмитрий Васильевич": 263
+      "gas:candidate-vibid:2292000789647": 41,
+      "gas:candidate-vibid:2292000786560": 225,
+      "gas:candidate-vibid:2292000788448": 10,
+      "gas:candidate-vibid:2292000787014": 114,
+      "gas:candidate-vibid:2292000777782": 104,
+      "gas:candidate-vibid:2292000788112": 24,
+      "gas:candidate-vibid:2292000790241": 17,
+      "gas:candidate-vibid:2292000789553": 10,
+      "gas:candidate-vibid:2292000789248": 263
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/arkhangelsk?action=show&root=1000091&tvd=2292000756625&vrn=100100067795849&region=29&global=&sub_region=29&prver=0&pronetvd=null&vibid=2292000756625&type=464",
@@ -987,15 +987,15 @@ export const duma_2016_uik_463_region_29_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Буторин Михаил Вениаминович": 25,
-      "Епифанова Ольга Николаевна": 115,
-      "Ерыкалов Вячеслав Борисович": 8,
-      "Новиков Александр Владимирович": 75,
-      "Пивков Сергей Анатольевич": 91,
-      "Русаков Юрий Михайлович": 11,
-      "Силантьев Михаил Сергеевич": 7,
-      "Чураков Андрей Анатольевич": 12,
-      "Юрков Дмитрий Васильевич": 175
+      "gas:candidate-vibid:2292000789647": 25,
+      "gas:candidate-vibid:2292000786560": 115,
+      "gas:candidate-vibid:2292000788448": 8,
+      "gas:candidate-vibid:2292000787014": 75,
+      "gas:candidate-vibid:2292000777782": 91,
+      "gas:candidate-vibid:2292000788112": 11,
+      "gas:candidate-vibid:2292000790241": 7,
+      "gas:candidate-vibid:2292000789553": 12,
+      "gas:candidate-vibid:2292000789248": 175
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/arkhangelsk?action=show&root=1000091&tvd=2292000756625&vrn=100100067795849&region=29&global=&sub_region=29&prver=0&pronetvd=null&vibid=2292000756625&type=464",
@@ -1046,15 +1046,15 @@ export const duma_2016_uik_463_region_29_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Буторин Михаил Вениаминович": 7,
-      "Епифанова Ольга Николаевна": 26,
-      "Ерыкалов Вячеслав Борисович": 4,
-      "Новиков Александр Владимирович": 16,
-      "Пивков Сергей Анатольевич": 23,
-      "Русаков Юрий Михайлович": 0,
-      "Силантьев Михаил Сергеевич": 1,
-      "Чураков Андрей Анатольевич": 3,
-      "Юрков Дмитрий Васильевич": 67
+      "gas:candidate-vibid:2292000789647": 7,
+      "gas:candidate-vibid:2292000786560": 26,
+      "gas:candidate-vibid:2292000788448": 4,
+      "gas:candidate-vibid:2292000787014": 16,
+      "gas:candidate-vibid:2292000777782": 23,
+      "gas:candidate-vibid:2292000788112": 0,
+      "gas:candidate-vibid:2292000790241": 1,
+      "gas:candidate-vibid:2292000789553": 3,
+      "gas:candidate-vibid:2292000789248": 67
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/arkhangelsk?action=show&root=1000091&tvd=2292000756625&vrn=100100067795849&region=29&global=&sub_region=29&prver=0&pronetvd=null&vibid=2292000756625&type=464",
@@ -1105,15 +1105,15 @@ export const duma_2016_uik_463_region_29_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Буторин Михаил Вениаминович": 13,
-      "Епифанова Ольга Николаевна": 22,
-      "Ерыкалов Вячеслав Борисович": 1,
-      "Новиков Александр Владимирович": 8,
-      "Пивков Сергей Анатольевич": 15,
-      "Русаков Юрий Михайлович": 2,
-      "Силантьев Михаил Сергеевич": 3,
-      "Чураков Андрей Анатольевич": 1,
-      "Юрков Дмитрий Васильевич": 42
+      "gas:candidate-vibid:2292000789647": 13,
+      "gas:candidate-vibid:2292000786560": 22,
+      "gas:candidate-vibid:2292000788448": 1,
+      "gas:candidate-vibid:2292000787014": 8,
+      "gas:candidate-vibid:2292000777782": 15,
+      "gas:candidate-vibid:2292000788112": 2,
+      "gas:candidate-vibid:2292000790241": 3,
+      "gas:candidate-vibid:2292000789553": 1,
+      "gas:candidate-vibid:2292000789248": 42
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/arkhangelsk?action=show&root=1000091&tvd=2292000756625&vrn=100100067795849&region=29&global=&sub_region=29&prver=0&pronetvd=null&vibid=2292000756625&type=464",
@@ -1164,15 +1164,15 @@ export const duma_2016_uik_463_region_29_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Буторин Михаил Вениаминович": 9,
-      "Епифанова Ольга Николаевна": 35,
-      "Ерыкалов Вячеслав Борисович": 3,
-      "Новиков Александр Владимирович": 27,
-      "Пивков Сергей Анатольевич": 17,
-      "Русаков Юрий Михайлович": 5,
-      "Силантьев Михаил Сергеевич": 4,
-      "Чураков Андрей Анатольевич": 2,
-      "Юрков Дмитрий Васильевич": 140
+      "gas:candidate-vibid:2292000789647": 9,
+      "gas:candidate-vibid:2292000786560": 35,
+      "gas:candidate-vibid:2292000788448": 3,
+      "gas:candidate-vibid:2292000787014": 27,
+      "gas:candidate-vibid:2292000777782": 17,
+      "gas:candidate-vibid:2292000788112": 5,
+      "gas:candidate-vibid:2292000790241": 4,
+      "gas:candidate-vibid:2292000789553": 2,
+      "gas:candidate-vibid:2292000789248": 140
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/arkhangelsk?action=show&root=1000091&tvd=2292000756625&vrn=100100067795849&region=29&global=&sub_region=29&prver=0&pronetvd=null&vibid=2292000756625&type=464",
@@ -1223,15 +1223,15 @@ export const duma_2016_uik_463_region_29_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Буторин Михаил Вениаминович": 27,
-      "Епифанова Ольга Николаевна": 129,
-      "Ерыкалов Вячеслав Борисович": 9,
-      "Новиков Александр Владимирович": 67,
-      "Пивков Сергей Анатольевич": 75,
-      "Русаков Юрий Михайлович": 14,
-      "Силантьев Михаил Сергеевич": 6,
-      "Чураков Андрей Анатольевич": 17,
-      "Юрков Дмитрий Васильевич": 243
+      "gas:candidate-vibid:2292000789647": 27,
+      "gas:candidate-vibid:2292000786560": 129,
+      "gas:candidate-vibid:2292000788448": 9,
+      "gas:candidate-vibid:2292000787014": 67,
+      "gas:candidate-vibid:2292000777782": 75,
+      "gas:candidate-vibid:2292000788112": 14,
+      "gas:candidate-vibid:2292000790241": 6,
+      "gas:candidate-vibid:2292000789553": 17,
+      "gas:candidate-vibid:2292000789248": 243
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/arkhangelsk?action=show&root=1000091&tvd=2292000756625&vrn=100100067795849&region=29&global=&sub_region=29&prver=0&pronetvd=null&vibid=2292000756625&type=464",
@@ -1282,15 +1282,15 @@ export const duma_2016_uik_463_region_29_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Буторин Михаил Вениаминович": 35,
-      "Епифанова Ольга Николаевна": 157,
-      "Ерыкалов Вячеслав Борисович": 13,
-      "Новиков Александр Владимирович": 106,
-      "Пивков Сергей Анатольевич": 80,
-      "Русаков Юрий Михайлович": 19,
-      "Силантьев Михаил Сергеевич": 34,
-      "Чураков Андрей Анатольевич": 10,
-      "Юрков Дмитрий Васильевич": 316
+      "gas:candidate-vibid:2292000789647": 35,
+      "gas:candidate-vibid:2292000786560": 157,
+      "gas:candidate-vibid:2292000788448": 13,
+      "gas:candidate-vibid:2292000787014": 106,
+      "gas:candidate-vibid:2292000777782": 80,
+      "gas:candidate-vibid:2292000788112": 19,
+      "gas:candidate-vibid:2292000790241": 34,
+      "gas:candidate-vibid:2292000789553": 10,
+      "gas:candidate-vibid:2292000789248": 316
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/arkhangelsk?action=show&root=1000091&tvd=2292000756625&vrn=100100067795849&region=29&global=&sub_region=29&prver=0&pronetvd=null&vibid=2292000756625&type=464",
@@ -1341,15 +1341,15 @@ export const duma_2016_uik_463_region_29_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Буторин Михаил Вениаминович": 37,
-      "Епифанова Ольга Николаевна": 115,
-      "Ерыкалов Вячеслав Борисович": 6,
-      "Новиков Александр Владимирович": 89,
-      "Пивков Сергей Анатольевич": 86,
-      "Русаков Юрий Михайлович": 19,
-      "Силантьев Михаил Сергеевич": 14,
-      "Чураков Андрей Анатольевич": 12,
-      "Юрков Дмитрий Васильевич": 233
+      "gas:candidate-vibid:2292000789647": 37,
+      "gas:candidate-vibid:2292000786560": 115,
+      "gas:candidate-vibid:2292000788448": 6,
+      "gas:candidate-vibid:2292000787014": 89,
+      "gas:candidate-vibid:2292000777782": 86,
+      "gas:candidate-vibid:2292000788112": 19,
+      "gas:candidate-vibid:2292000790241": 14,
+      "gas:candidate-vibid:2292000789553": 12,
+      "gas:candidate-vibid:2292000789248": 233
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/arkhangelsk?action=show&root=1000091&tvd=2292000756625&vrn=100100067795849&region=29&global=&sub_region=29&prver=0&pronetvd=null&vibid=2292000756625&type=464",
@@ -1400,15 +1400,15 @@ export const duma_2016_uik_463_region_29_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Буторин Михаил Вениаминович": 4,
-      "Епифанова Ольга Николаевна": 52,
-      "Ерыкалов Вячеслав Борисович": 3,
-      "Новиков Александр Владимирович": 35,
-      "Пивков Сергей Анатольевич": 20,
-      "Русаков Юрий Михайлович": 1,
-      "Силантьев Михаил Сергеевич": 3,
-      "Чураков Андрей Анатольевич": 6,
-      "Юрков Дмитрий Васильевич": 95
+      "gas:candidate-vibid:2292000789647": 4,
+      "gas:candidate-vibid:2292000786560": 52,
+      "gas:candidate-vibid:2292000788448": 3,
+      "gas:candidate-vibid:2292000787014": 35,
+      "gas:candidate-vibid:2292000777782": 20,
+      "gas:candidate-vibid:2292000788112": 1,
+      "gas:candidate-vibid:2292000790241": 3,
+      "gas:candidate-vibid:2292000789553": 6,
+      "gas:candidate-vibid:2292000789248": 95
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/arkhangelsk?action=show&root=1000091&tvd=2292000756625&vrn=100100067795849&region=29&global=&sub_region=29&prver=0&pronetvd=null&vibid=2292000756625&type=464",
@@ -1459,15 +1459,15 @@ export const duma_2016_uik_463_region_29_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Буторин Михаил Вениаминович": 20,
-      "Епифанова Ольга Николаевна": 33,
-      "Ерыкалов Вячеслав Борисович": 4,
-      "Новиков Александр Владимирович": 31,
-      "Пивков Сергей Анатольевич": 24,
-      "Русаков Юрий Михайлович": 5,
-      "Силантьев Михаил Сергеевич": 2,
-      "Чураков Андрей Анатольевич": 2,
-      "Юрков Дмитрий Васильевич": 213
+      "gas:candidate-vibid:2292000789647": 20,
+      "gas:candidate-vibid:2292000786560": 33,
+      "gas:candidate-vibid:2292000788448": 4,
+      "gas:candidate-vibid:2292000787014": 31,
+      "gas:candidate-vibid:2292000777782": 24,
+      "gas:candidate-vibid:2292000788112": 5,
+      "gas:candidate-vibid:2292000790241": 2,
+      "gas:candidate-vibid:2292000789553": 2,
+      "gas:candidate-vibid:2292000789248": 213
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/arkhangelsk?action=show&root=1000091&tvd=2292000756625&vrn=100100067795849&region=29&global=&sub_region=29&prver=0&pronetvd=null&vibid=2292000756625&type=464",
@@ -1518,15 +1518,15 @@ export const duma_2016_uik_463_region_29_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Буторин Михаил Вениаминович": 32,
-      "Епифанова Ольга Николаевна": 173,
-      "Ерыкалов Вячеслав Борисович": 4,
-      "Новиков Александр Владимирович": 167,
-      "Пивков Сергей Анатольевич": 105,
-      "Русаков Юрий Михайлович": 23,
-      "Силантьев Михаил Сергеевич": 16,
-      "Чураков Андрей Анатольевич": 22,
-      "Юрков Дмитрий Васильевич": 326
+      "gas:candidate-vibid:2292000789647": 32,
+      "gas:candidate-vibid:2292000786560": 173,
+      "gas:candidate-vibid:2292000788448": 4,
+      "gas:candidate-vibid:2292000787014": 167,
+      "gas:candidate-vibid:2292000777782": 105,
+      "gas:candidate-vibid:2292000788112": 23,
+      "gas:candidate-vibid:2292000790241": 16,
+      "gas:candidate-vibid:2292000789553": 22,
+      "gas:candidate-vibid:2292000789248": 326
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/arkhangelsk?action=show&root=1000091&tvd=2292000756625&vrn=100100067795849&region=29&global=&sub_region=29&prver=0&pronetvd=null&vibid=2292000756625&type=464",
@@ -1577,15 +1577,15 @@ export const duma_2016_uik_463_region_29_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Буторин Михаил Вениаминович": 7,
-      "Епифанова Ольга Николаевна": 38,
-      "Ерыкалов Вячеслав Борисович": 3,
-      "Новиков Александр Владимирович": 27,
-      "Пивков Сергей Анатольевич": 14,
-      "Русаков Юрий Михайлович": 5,
-      "Силантьев Михаил Сергеевич": 2,
-      "Чураков Андрей Анатольевич": 2,
-      "Юрков Дмитрий Васильевич": 80
+      "gas:candidate-vibid:2292000789647": 7,
+      "gas:candidate-vibid:2292000786560": 38,
+      "gas:candidate-vibid:2292000788448": 3,
+      "gas:candidate-vibid:2292000787014": 27,
+      "gas:candidate-vibid:2292000777782": 14,
+      "gas:candidate-vibid:2292000788112": 5,
+      "gas:candidate-vibid:2292000790241": 2,
+      "gas:candidate-vibid:2292000789553": 2,
+      "gas:candidate-vibid:2292000789248": 80
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/arkhangelsk?action=show&root=1000091&tvd=2292000756625&vrn=100100067795849&region=29&global=&sub_region=29&prver=0&pronetvd=null&vibid=2292000756625&type=464",
@@ -1636,15 +1636,15 @@ export const duma_2016_uik_463_region_29_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Буторин Михаил Вениаминович": 5,
-      "Епифанова Ольга Николаевна": 27,
-      "Ерыкалов Вячеслав Борисович": 3,
-      "Новиков Александр Владимирович": 19,
-      "Пивков Сергей Анатольевич": 21,
-      "Русаков Юрий Михайлович": 2,
-      "Силантьев Михаил Сергеевич": 4,
-      "Чураков Андрей Анатольевич": 0,
-      "Юрков Дмитрий Васильевич": 55
+      "gas:candidate-vibid:2292000789647": 5,
+      "gas:candidate-vibid:2292000786560": 27,
+      "gas:candidate-vibid:2292000788448": 3,
+      "gas:candidate-vibid:2292000787014": 19,
+      "gas:candidate-vibid:2292000777782": 21,
+      "gas:candidate-vibid:2292000788112": 2,
+      "gas:candidate-vibid:2292000790241": 4,
+      "gas:candidate-vibid:2292000789553": 0,
+      "gas:candidate-vibid:2292000789248": 55
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/arkhangelsk?action=show&root=1000091&tvd=2292000756625&vrn=100100067795849&region=29&global=&sub_region=29&prver=0&pronetvd=null&vibid=2292000756625&type=464",
@@ -1695,15 +1695,15 @@ export const duma_2016_uik_463_region_29_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Буторин Михаил Вениаминович": 10,
-      "Епифанова Ольга Николаевна": 42,
-      "Ерыкалов Вячеслав Борисович": 6,
-      "Новиков Александр Владимирович": 37,
-      "Пивков Сергей Анатольевич": 22,
-      "Русаков Юрий Михайлович": 6,
-      "Силантьев Михаил Сергеевич": 3,
-      "Чураков Андрей Анатольевич": 1,
-      "Юрков Дмитрий Васильевич": 135
+      "gas:candidate-vibid:2292000789647": 10,
+      "gas:candidate-vibid:2292000786560": 42,
+      "gas:candidate-vibid:2292000788448": 6,
+      "gas:candidate-vibid:2292000787014": 37,
+      "gas:candidate-vibid:2292000777782": 22,
+      "gas:candidate-vibid:2292000788112": 6,
+      "gas:candidate-vibid:2292000790241": 3,
+      "gas:candidate-vibid:2292000789553": 1,
+      "gas:candidate-vibid:2292000789248": 135
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/arkhangelsk?action=show&root=1000091&tvd=2292000756625&vrn=100100067795849&region=29&global=&sub_region=29&prver=0&pronetvd=null&vibid=2292000756625&type=464",
@@ -1754,15 +1754,15 @@ export const duma_2016_uik_463_region_29_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Буторин Михаил Вениаминович": 1,
-      "Епифанова Ольга Николаевна": 45,
-      "Ерыкалов Вячеслав Борисович": 4,
-      "Новиков Александр Владимирович": 27,
-      "Пивков Сергей Анатольевич": 11,
-      "Русаков Юрий Михайлович": 6,
-      "Силантьев Михаил Сергеевич": 1,
-      "Чураков Андрей Анатольевич": 4,
-      "Юрков Дмитрий Васильевич": 89
+      "gas:candidate-vibid:2292000789647": 1,
+      "gas:candidate-vibid:2292000786560": 45,
+      "gas:candidate-vibid:2292000788448": 4,
+      "gas:candidate-vibid:2292000787014": 27,
+      "gas:candidate-vibid:2292000777782": 11,
+      "gas:candidate-vibid:2292000788112": 6,
+      "gas:candidate-vibid:2292000790241": 1,
+      "gas:candidate-vibid:2292000789553": 4,
+      "gas:candidate-vibid:2292000789248": 89
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/arkhangelsk?action=show&root=1000091&tvd=2292000756625&vrn=100100067795849&region=29&global=&sub_region=29&prver=0&pronetvd=null&vibid=2292000756625&type=464",
@@ -1813,15 +1813,15 @@ export const duma_2016_uik_463_region_29_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Буторин Михаил Вениаминович": 4,
-      "Епифанова Ольга Николаевна": 33,
-      "Ерыкалов Вячеслав Борисович": 7,
-      "Новиков Александр Владимирович": 27,
-      "Пивков Сергей Анатольевич": 8,
-      "Русаков Юрий Михайлович": 2,
-      "Силантьев Михаил Сергеевич": 1,
-      "Чураков Андрей Анатольевич": 2,
-      "Юрков Дмитрий Васильевич": 65
+      "gas:candidate-vibid:2292000789647": 4,
+      "gas:candidate-vibid:2292000786560": 33,
+      "gas:candidate-vibid:2292000788448": 7,
+      "gas:candidate-vibid:2292000787014": 27,
+      "gas:candidate-vibid:2292000777782": 8,
+      "gas:candidate-vibid:2292000788112": 2,
+      "gas:candidate-vibid:2292000790241": 1,
+      "gas:candidate-vibid:2292000789553": 2,
+      "gas:candidate-vibid:2292000789248": 65
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/arkhangelsk?action=show&root=1000091&tvd=2292000756625&vrn=100100067795849&region=29&global=&sub_region=29&prver=0&pronetvd=null&vibid=2292000756625&type=464",
@@ -1872,15 +1872,15 @@ export const duma_2016_uik_463_region_29_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Буторин Михаил Вениаминович": 6,
-      "Епифанова Ольга Николаевна": 38,
-      "Ерыкалов Вячеслав Борисович": 1,
-      "Новиков Александр Владимирович": 23,
-      "Пивков Сергей Анатольевич": 10,
-      "Русаков Юрий Михайлович": 5,
-      "Силантьев Михаил Сергеевич": 3,
-      "Чураков Андрей Анатольевич": 4,
-      "Юрков Дмитрий Васильевич": 52
+      "gas:candidate-vibid:2292000789647": 6,
+      "gas:candidate-vibid:2292000786560": 38,
+      "gas:candidate-vibid:2292000788448": 1,
+      "gas:candidate-vibid:2292000787014": 23,
+      "gas:candidate-vibid:2292000777782": 10,
+      "gas:candidate-vibid:2292000788112": 5,
+      "gas:candidate-vibid:2292000790241": 3,
+      "gas:candidate-vibid:2292000789553": 4,
+      "gas:candidate-vibid:2292000789248": 52
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/arkhangelsk?action=show&root=1000091&tvd=2292000756625&vrn=100100067795849&region=29&global=&sub_region=29&prver=0&pronetvd=null&vibid=2292000756625&type=464",
@@ -1931,15 +1931,15 @@ export const duma_2016_uik_463_region_29_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Буторин Михаил Вениаминович": 9,
-      "Епифанова Ольга Николаевна": 41,
-      "Ерыкалов Вячеслав Борисович": 1,
-      "Новиков Александр Владимирович": 37,
-      "Пивков Сергей Анатольевич": 20,
-      "Русаков Юрий Михайлович": 5,
-      "Силантьев Михаил Сергеевич": 4,
-      "Чураков Андрей Анатольевич": 2,
-      "Юрков Дмитрий Васильевич": 51
+      "gas:candidate-vibid:2292000789647": 9,
+      "gas:candidate-vibid:2292000786560": 41,
+      "gas:candidate-vibid:2292000788448": 1,
+      "gas:candidate-vibid:2292000787014": 37,
+      "gas:candidate-vibid:2292000777782": 20,
+      "gas:candidate-vibid:2292000788112": 5,
+      "gas:candidate-vibid:2292000790241": 4,
+      "gas:candidate-vibid:2292000789553": 2,
+      "gas:candidate-vibid:2292000789248": 51
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/arkhangelsk?action=show&root=1000091&tvd=2292000756625&vrn=100100067795849&region=29&global=&sub_region=29&prver=0&pronetvd=null&vibid=2292000756625&type=464",
@@ -1990,15 +1990,15 @@ export const duma_2016_uik_463_region_29_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Буторин Михаил Вениаминович": 3,
-      "Епифанова Ольга Николаевна": 7,
-      "Ерыкалов Вячеслав Борисович": 0,
-      "Новиков Александр Владимирович": 3,
-      "Пивков Сергей Анатольевич": 1,
-      "Русаков Юрий Михайлович": 2,
-      "Силантьев Михаил Сергеевич": 0,
-      "Чураков Андрей Анатольевич": 1,
-      "Юрков Дмитрий Васильевич": 88
+      "gas:candidate-vibid:2292000789647": 3,
+      "gas:candidate-vibid:2292000786560": 7,
+      "gas:candidate-vibid:2292000788448": 0,
+      "gas:candidate-vibid:2292000787014": 3,
+      "gas:candidate-vibid:2292000777782": 1,
+      "gas:candidate-vibid:2292000788112": 2,
+      "gas:candidate-vibid:2292000790241": 0,
+      "gas:candidate-vibid:2292000789553": 1,
+      "gas:candidate-vibid:2292000789248": 88
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/arkhangelsk?action=show&root=1000091&tvd=2292000756625&vrn=100100067795849&region=29&global=&sub_region=29&prver=0&pronetvd=null&vibid=2292000756625&type=464",
@@ -2049,15 +2049,15 @@ export const duma_2016_uik_463_region_29_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Буторин Михаил Вениаминович": 7,
-      "Епифанова Ольга Николаевна": 57,
-      "Ерыкалов Вячеслав Борисович": 1,
-      "Новиков Александр Владимирович": 28,
-      "Пивков Сергей Анатольевич": 27,
-      "Русаков Юрий Михайлович": 6,
-      "Силантьев Михаил Сергеевич": 5,
-      "Чураков Андрей Анатольевич": 4,
-      "Юрков Дмитрий Васильевич": 59
+      "gas:candidate-vibid:2292000789647": 7,
+      "gas:candidate-vibid:2292000786560": 57,
+      "gas:candidate-vibid:2292000788448": 1,
+      "gas:candidate-vibid:2292000787014": 28,
+      "gas:candidate-vibid:2292000777782": 27,
+      "gas:candidate-vibid:2292000788112": 6,
+      "gas:candidate-vibid:2292000790241": 5,
+      "gas:candidate-vibid:2292000789553": 4,
+      "gas:candidate-vibid:2292000789248": 59
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/arkhangelsk?action=show&root=1000091&tvd=2292000756625&vrn=100100067795849&region=29&global=&sub_region=29&prver=0&pronetvd=null&vibid=2292000756625&type=464",
@@ -2108,15 +2108,15 @@ export const duma_2016_uik_463_region_29_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Буторин Михаил Вениаминович": 27,
-      "Епифанова Ольга Николаевна": 283,
-      "Ерыкалов Вячеслав Борисович": 9,
-      "Новиков Александр Владимирович": 118,
-      "Пивков Сергей Анатольевич": 168,
-      "Русаков Юрий Михайлович": 16,
-      "Силантьев Михаил Сергеевич": 22,
-      "Чураков Андрей Анатольевич": 24,
-      "Юрков Дмитрий Васильевич": 328
+      "gas:candidate-vibid:2292000789647": 27,
+      "gas:candidate-vibid:2292000786560": 283,
+      "gas:candidate-vibid:2292000788448": 9,
+      "gas:candidate-vibid:2292000787014": 118,
+      "gas:candidate-vibid:2292000777782": 168,
+      "gas:candidate-vibid:2292000788112": 16,
+      "gas:candidate-vibid:2292000790241": 22,
+      "gas:candidate-vibid:2292000789553": 24,
+      "gas:candidate-vibid:2292000789248": 328
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/arkhangelsk?action=show&root=1000091&tvd=2292000756626&vrn=100100067795849&region=29&global=&sub_region=29&prver=0&pronetvd=null&vibid=2292000756626&type=464",
@@ -2167,15 +2167,15 @@ export const duma_2016_uik_463_region_29_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Буторин Михаил Вениаминович": 24,
-      "Епифанова Ольга Николаевна": 305,
-      "Ерыкалов Вячеслав Борисович": 6,
-      "Новиков Александр Владимирович": 137,
-      "Пивков Сергей Анатольевич": 129,
-      "Русаков Юрий Михайлович": 17,
-      "Силантьев Михаил Сергеевич": 24,
-      "Чураков Андрей Анатольевич": 15,
-      "Юрков Дмитрий Васильевич": 301
+      "gas:candidate-vibid:2292000789647": 24,
+      "gas:candidate-vibid:2292000786560": 305,
+      "gas:candidate-vibid:2292000788448": 6,
+      "gas:candidate-vibid:2292000787014": 137,
+      "gas:candidate-vibid:2292000777782": 129,
+      "gas:candidate-vibid:2292000788112": 17,
+      "gas:candidate-vibid:2292000790241": 24,
+      "gas:candidate-vibid:2292000789553": 15,
+      "gas:candidate-vibid:2292000789248": 301
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/arkhangelsk?action=show&root=1000091&tvd=2292000756626&vrn=100100067795849&region=29&global=&sub_region=29&prver=0&pronetvd=null&vibid=2292000756626&type=464",
@@ -2226,15 +2226,15 @@ export const duma_2016_uik_463_region_29_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Буторин Михаил Вениаминович": 14,
-      "Епифанова Ольга Николаевна": 234,
-      "Ерыкалов Вячеслав Борисович": 11,
-      "Новиков Александр Владимирович": 88,
-      "Пивков Сергей Анатольевич": 120,
-      "Русаков Юрий Михайлович": 15,
-      "Силантьев Михаил Сергеевич": 21,
-      "Чураков Андрей Анатольевич": 16,
-      "Юрков Дмитрий Васильевич": 252
+      "gas:candidate-vibid:2292000789647": 14,
+      "gas:candidate-vibid:2292000786560": 234,
+      "gas:candidate-vibid:2292000788448": 11,
+      "gas:candidate-vibid:2292000787014": 88,
+      "gas:candidate-vibid:2292000777782": 120,
+      "gas:candidate-vibid:2292000788112": 15,
+      "gas:candidate-vibid:2292000790241": 21,
+      "gas:candidate-vibid:2292000789553": 16,
+      "gas:candidate-vibid:2292000789248": 252
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/arkhangelsk?action=show&root=1000091&tvd=2292000756626&vrn=100100067795849&region=29&global=&sub_region=29&prver=0&pronetvd=null&vibid=2292000756626&type=464",
@@ -2285,15 +2285,15 @@ export const duma_2016_uik_463_region_29_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Буторин Михаил Вениаминович": 14,
-      "Епифанова Ольга Николаевна": 180,
-      "Ерыкалов Вячеслав Борисович": 8,
-      "Новиков Александр Владимирович": 69,
-      "Пивков Сергей Анатольевич": 117,
-      "Русаков Юрий Михайлович": 8,
-      "Силантьев Михаил Сергеевич": 15,
-      "Чураков Андрей Анатольевич": 14,
-      "Юрков Дмитрий Васильевич": 205
+      "gas:candidate-vibid:2292000789647": 14,
+      "gas:candidate-vibid:2292000786560": 180,
+      "gas:candidate-vibid:2292000788448": 8,
+      "gas:candidate-vibid:2292000787014": 69,
+      "gas:candidate-vibid:2292000777782": 117,
+      "gas:candidate-vibid:2292000788112": 8,
+      "gas:candidate-vibid:2292000790241": 15,
+      "gas:candidate-vibid:2292000789553": 14,
+      "gas:candidate-vibid:2292000789248": 205
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/arkhangelsk?action=show&root=1000091&tvd=2292000756626&vrn=100100067795849&region=29&global=&sub_region=29&prver=0&pronetvd=null&vibid=2292000756626&type=464",
@@ -2344,15 +2344,15 @@ export const duma_2016_uik_463_region_29_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Буторин Михаил Вениаминович": 19,
-      "Епифанова Ольга Николаевна": 136,
-      "Ерыкалов Вячеслав Борисович": 8,
-      "Новиков Александр Владимирович": 83,
-      "Пивков Сергей Анатольевич": 91,
-      "Русаков Юрий Михайлович": 18,
-      "Силантьев Михаил Сергеевич": 3,
-      "Чураков Андрей Анатольевич": 8,
-      "Юрков Дмитрий Васильевич": 203
+      "gas:candidate-vibid:2292000789647": 19,
+      "gas:candidate-vibid:2292000786560": 136,
+      "gas:candidate-vibid:2292000788448": 8,
+      "gas:candidate-vibid:2292000787014": 83,
+      "gas:candidate-vibid:2292000777782": 91,
+      "gas:candidate-vibid:2292000788112": 18,
+      "gas:candidate-vibid:2292000790241": 3,
+      "gas:candidate-vibid:2292000789553": 8,
+      "gas:candidate-vibid:2292000789248": 203
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/arkhangelsk?action=show&root=1000091&tvd=2292000756626&vrn=100100067795849&region=29&global=&sub_region=29&prver=0&pronetvd=null&vibid=2292000756626&type=464",
@@ -2403,15 +2403,15 @@ export const duma_2016_uik_463_region_29_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Буторин Михаил Вениаминович": 10,
-      "Епифанова Ольга Николаевна": 136,
-      "Ерыкалов Вячеслав Борисович": 2,
-      "Новиков Александр Владимирович": 56,
-      "Пивков Сергей Анатольевич": 123,
-      "Русаков Юрий Михайлович": 13,
-      "Силантьев Михаил Сергеевич": 6,
-      "Чураков Андрей Анатольевич": 6,
-      "Юрков Дмитрий Васильевич": 215
+      "gas:candidate-vibid:2292000789647": 10,
+      "gas:candidate-vibid:2292000786560": 136,
+      "gas:candidate-vibid:2292000788448": 2,
+      "gas:candidate-vibid:2292000787014": 56,
+      "gas:candidate-vibid:2292000777782": 123,
+      "gas:candidate-vibid:2292000788112": 13,
+      "gas:candidate-vibid:2292000790241": 6,
+      "gas:candidate-vibid:2292000789553": 6,
+      "gas:candidate-vibid:2292000789248": 215
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/arkhangelsk?action=show&root=1000091&tvd=2292000756626&vrn=100100067795849&region=29&global=&sub_region=29&prver=0&pronetvd=null&vibid=2292000756626&type=464",
@@ -2462,15 +2462,15 @@ export const duma_2016_uik_463_region_29_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Буторин Михаил Вениаминович": 13,
-      "Епифанова Ольга Николаевна": 139,
-      "Ерыкалов Вячеслав Борисович": 7,
-      "Новиков Александр Владимирович": 59,
-      "Пивков Сергей Анатольевич": 110,
-      "Русаков Юрий Михайлович": 13,
-      "Силантьев Михаил Сергеевич": 13,
-      "Чураков Андрей Анатольевич": 9,
-      "Юрков Дмитрий Васильевич": 167
+      "gas:candidate-vibid:2292000789647": 13,
+      "gas:candidate-vibid:2292000786560": 139,
+      "gas:candidate-vibid:2292000788448": 7,
+      "gas:candidate-vibid:2292000787014": 59,
+      "gas:candidate-vibid:2292000777782": 110,
+      "gas:candidate-vibid:2292000788112": 13,
+      "gas:candidate-vibid:2292000790241": 13,
+      "gas:candidate-vibid:2292000789553": 9,
+      "gas:candidate-vibid:2292000789248": 167
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/arkhangelsk?action=show&root=1000091&tvd=2292000756626&vrn=100100067795849&region=29&global=&sub_region=29&prver=0&pronetvd=null&vibid=2292000756626&type=464",
@@ -2521,15 +2521,15 @@ export const duma_2016_uik_463_region_29_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Буторин Михаил Вениаминович": 6,
-      "Епифанова Ольга Николаевна": 92,
-      "Ерыкалов Вячеслав Борисович": 1,
-      "Новиков Александр Владимирович": 41,
-      "Пивков Сергей Анатольевич": 45,
-      "Русаков Юрий Михайлович": 5,
-      "Силантьев Михаил Сергеевич": 5,
-      "Чураков Андрей Анатольевич": 3,
-      "Юрков Дмитрий Васильевич": 189
+      "gas:candidate-vibid:2292000789647": 6,
+      "gas:candidate-vibid:2292000786560": 92,
+      "gas:candidate-vibid:2292000788448": 1,
+      "gas:candidate-vibid:2292000787014": 41,
+      "gas:candidate-vibid:2292000777782": 45,
+      "gas:candidate-vibid:2292000788112": 5,
+      "gas:candidate-vibid:2292000790241": 5,
+      "gas:candidate-vibid:2292000789553": 3,
+      "gas:candidate-vibid:2292000789248": 189
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/arkhangelsk?action=show&root=1000091&tvd=2292000756626&vrn=100100067795849&region=29&global=&sub_region=29&prver=0&pronetvd=null&vibid=2292000756626&type=464",
@@ -2580,15 +2580,15 @@ export const duma_2016_uik_463_region_29_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Буторин Михаил Вениаминович": 3,
-      "Епифанова Ольга Николаевна": 25,
-      "Ерыкалов Вячеслав Борисович": 2,
-      "Новиков Александр Владимирович": 9,
-      "Пивков Сергей Анатольевич": 9,
-      "Русаков Юрий Михайлович": 0,
-      "Силантьев Михаил Сергеевич": 2,
-      "Чураков Андрей Анатольевич": 0,
-      "Юрков Дмитрий Васильевич": 35
+      "gas:candidate-vibid:2292000789647": 3,
+      "gas:candidate-vibid:2292000786560": 25,
+      "gas:candidate-vibid:2292000788448": 2,
+      "gas:candidate-vibid:2292000787014": 9,
+      "gas:candidate-vibid:2292000777782": 9,
+      "gas:candidate-vibid:2292000788112": 0,
+      "gas:candidate-vibid:2292000790241": 2,
+      "gas:candidate-vibid:2292000789553": 0,
+      "gas:candidate-vibid:2292000789248": 35
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/arkhangelsk?action=show&root=1000091&tvd=2292000756626&vrn=100100067795849&region=29&global=&sub_region=29&prver=0&pronetvd=null&vibid=2292000756626&type=464",
@@ -2639,15 +2639,15 @@ export const duma_2016_uik_463_region_29_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Буторин Михаил Вениаминович": 10,
-      "Епифанова Ольга Николаевна": 58,
-      "Ерыкалов Вячеслав Борисович": 4,
-      "Новиков Александр Владимирович": 32,
-      "Пивков Сергей Анатольевич": 75,
-      "Русаков Юрий Михайлович": 7,
-      "Силантьев Михаил Сергеевич": 8,
-      "Чураков Андрей Анатольевич": 7,
-      "Юрков Дмитрий Васильевич": 148
+      "gas:candidate-vibid:2292000789647": 10,
+      "gas:candidate-vibid:2292000786560": 58,
+      "gas:candidate-vibid:2292000788448": 4,
+      "gas:candidate-vibid:2292000787014": 32,
+      "gas:candidate-vibid:2292000777782": 75,
+      "gas:candidate-vibid:2292000788112": 7,
+      "gas:candidate-vibid:2292000790241": 8,
+      "gas:candidate-vibid:2292000789553": 7,
+      "gas:candidate-vibid:2292000789248": 148
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/arkhangelsk?action=show&root=1000091&tvd=2292000756626&vrn=100100067795849&region=29&global=&sub_region=29&prver=0&pronetvd=null&vibid=2292000756626&type=464",
@@ -2698,15 +2698,15 @@ export const duma_2016_uik_463_region_29_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Буторин Михаил Вениаминович": 7,
-      "Епифанова Ольга Николаевна": 31,
-      "Ерыкалов Вячеслав Борисович": 3,
-      "Новиков Александр Владимирович": 8,
-      "Пивков Сергей Анатольевич": 38,
-      "Русаков Юрий Михайлович": 4,
-      "Силантьев Михаил Сергеевич": 6,
-      "Чураков Андрей Анатольевич": 5,
-      "Юрков Дмитрий Васильевич": 88
+      "gas:candidate-vibid:2292000789647": 7,
+      "gas:candidate-vibid:2292000786560": 31,
+      "gas:candidate-vibid:2292000788448": 3,
+      "gas:candidate-vibid:2292000787014": 8,
+      "gas:candidate-vibid:2292000777782": 38,
+      "gas:candidate-vibid:2292000788112": 4,
+      "gas:candidate-vibid:2292000790241": 6,
+      "gas:candidate-vibid:2292000789553": 5,
+      "gas:candidate-vibid:2292000789248": 88
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/arkhangelsk?action=show&root=1000091&tvd=2292000756626&vrn=100100067795849&region=29&global=&sub_region=29&prver=0&pronetvd=null&vibid=2292000756626&type=464",
@@ -2757,15 +2757,15 @@ export const duma_2016_uik_463_region_29_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Буторин Михаил Вениаминович": 3,
-      "Епифанова Ольга Николаевна": 27,
-      "Ерыкалов Вячеслав Борисович": 3,
-      "Новиков Александр Владимирович": 10,
-      "Пивков Сергей Анатольевич": 20,
-      "Русаков Юрий Михайлович": 3,
-      "Силантьев Михаил Сергеевич": 2,
-      "Чураков Андрей Анатольевич": 1,
-      "Юрков Дмитрий Васильевич": 69
+      "gas:candidate-vibid:2292000789647": 3,
+      "gas:candidate-vibid:2292000786560": 27,
+      "gas:candidate-vibid:2292000788448": 3,
+      "gas:candidate-vibid:2292000787014": 10,
+      "gas:candidate-vibid:2292000777782": 20,
+      "gas:candidate-vibid:2292000788112": 3,
+      "gas:candidate-vibid:2292000790241": 2,
+      "gas:candidate-vibid:2292000789553": 1,
+      "gas:candidate-vibid:2292000789248": 69
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/arkhangelsk?action=show&root=1000091&tvd=2292000756626&vrn=100100067795849&region=29&global=&sub_region=29&prver=0&pronetvd=null&vibid=2292000756626&type=464",
@@ -2816,15 +2816,15 @@ export const duma_2016_uik_463_region_29_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Буторин Михаил Вениаминович": 1,
-      "Епифанова Ольга Николаевна": 27,
-      "Ерыкалов Вячеслав Борисович": 0,
-      "Новиков Александр Владимирович": 7,
-      "Пивков Сергей Анатольевич": 8,
-      "Русаков Юрий Михайлович": 1,
-      "Силантьев Михаил Сергеевич": 1,
-      "Чураков Андрей Анатольевич": 0,
-      "Юрков Дмитрий Васильевич": 27
+      "gas:candidate-vibid:2292000789647": 1,
+      "gas:candidate-vibid:2292000786560": 27,
+      "gas:candidate-vibid:2292000788448": 0,
+      "gas:candidate-vibid:2292000787014": 7,
+      "gas:candidate-vibid:2292000777782": 8,
+      "gas:candidate-vibid:2292000788112": 1,
+      "gas:candidate-vibid:2292000790241": 1,
+      "gas:candidate-vibid:2292000789553": 0,
+      "gas:candidate-vibid:2292000789248": 27
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/arkhangelsk?action=show&root=1000091&tvd=2292000756626&vrn=100100067795849&region=29&global=&sub_region=29&prver=0&pronetvd=null&vibid=2292000756626&type=464",
@@ -2875,15 +2875,15 @@ export const duma_2016_uik_463_region_29_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Буторин Михаил Вениаминович": 2,
-      "Епифанова Ольга Николаевна": 83,
-      "Ерыкалов Вячеслав Борисович": 1,
-      "Новиков Александр Владимирович": 15,
-      "Пивков Сергей Анатольевич": 33,
-      "Русаков Юрий Михайлович": 0,
-      "Силантьев Михаил Сергеевич": 0,
-      "Чураков Андрей Анатольевич": 0,
-      "Юрков Дмитрий Васильевич": 74
+      "gas:candidate-vibid:2292000789647": 2,
+      "gas:candidate-vibid:2292000786560": 83,
+      "gas:candidate-vibid:2292000788448": 1,
+      "gas:candidate-vibid:2292000787014": 15,
+      "gas:candidate-vibid:2292000777782": 33,
+      "gas:candidate-vibid:2292000788112": 0,
+      "gas:candidate-vibid:2292000790241": 0,
+      "gas:candidate-vibid:2292000789553": 0,
+      "gas:candidate-vibid:2292000789248": 74
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/arkhangelsk?action=show&root=1000091&tvd=2292000756626&vrn=100100067795849&region=29&global=&sub_region=29&prver=0&pronetvd=null&vibid=2292000756626&type=464",
@@ -2934,15 +2934,15 @@ export const duma_2016_uik_463_region_29_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Буторин Михаил Вениаминович": 2,
-      "Епифанова Ольга Николаевна": 31,
-      "Ерыкалов Вячеслав Борисович": 1,
-      "Новиков Александр Владимирович": 8,
-      "Пивков Сергей Анатольевич": 14,
-      "Русаков Юрий Михайлович": 0,
-      "Силантьев Михаил Сергеевич": 2,
-      "Чураков Андрей Анатольевич": 1,
-      "Юрков Дмитрий Васильевич": 42
+      "gas:candidate-vibid:2292000789647": 2,
+      "gas:candidate-vibid:2292000786560": 31,
+      "gas:candidate-vibid:2292000788448": 1,
+      "gas:candidate-vibid:2292000787014": 8,
+      "gas:candidate-vibid:2292000777782": 14,
+      "gas:candidate-vibid:2292000788112": 0,
+      "gas:candidate-vibid:2292000790241": 2,
+      "gas:candidate-vibid:2292000789553": 1,
+      "gas:candidate-vibid:2292000789248": 42
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/arkhangelsk?action=show&root=1000091&tvd=2292000756626&vrn=100100067795849&region=29&global=&sub_region=29&prver=0&pronetvd=null&vibid=2292000756626&type=464",
@@ -2993,15 +2993,15 @@ export const duma_2016_uik_463_region_29_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Буторин Михаил Вениаминович": 4,
-      "Епифанова Ольга Николаевна": 26,
-      "Ерыкалов Вячеслав Борисович": 3,
-      "Новиков Александр Владимирович": 7,
-      "Пивков Сергей Анатольевич": 12,
-      "Русаков Юрий Михайлович": 6,
-      "Силантьев Михаил Сергеевич": 3,
-      "Чураков Андрей Анатольевич": 3,
-      "Юрков Дмитрий Васильевич": 73
+      "gas:candidate-vibid:2292000789647": 4,
+      "gas:candidate-vibid:2292000786560": 26,
+      "gas:candidate-vibid:2292000788448": 3,
+      "gas:candidate-vibid:2292000787014": 7,
+      "gas:candidate-vibid:2292000777782": 12,
+      "gas:candidate-vibid:2292000788112": 6,
+      "gas:candidate-vibid:2292000790241": 3,
+      "gas:candidate-vibid:2292000789553": 3,
+      "gas:candidate-vibid:2292000789248": 73
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/arkhangelsk?action=show&root=1000091&tvd=2292000756626&vrn=100100067795849&region=29&global=&sub_region=29&prver=0&pronetvd=null&vibid=2292000756626&type=464",
@@ -3052,15 +3052,15 @@ export const duma_2016_uik_463_region_29_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Буторин Михаил Вениаминович": 3,
-      "Епифанова Ольга Николаевна": 34,
-      "Ерыкалов Вячеслав Борисович": 0,
-      "Новиков Александр Владимирович": 9,
-      "Пивков Сергей Анатольевич": 24,
-      "Русаков Юрий Михайлович": 2,
-      "Силантьев Михаил Сергеевич": 3,
-      "Чураков Андрей Анатольевич": 0,
-      "Юрков Дмитрий Васильевич": 46
+      "gas:candidate-vibid:2292000789647": 3,
+      "gas:candidate-vibid:2292000786560": 34,
+      "gas:candidate-vibid:2292000788448": 0,
+      "gas:candidate-vibid:2292000787014": 9,
+      "gas:candidate-vibid:2292000777782": 24,
+      "gas:candidate-vibid:2292000788112": 2,
+      "gas:candidate-vibid:2292000790241": 3,
+      "gas:candidate-vibid:2292000789553": 0,
+      "gas:candidate-vibid:2292000789248": 46
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/arkhangelsk?action=show&root=1000091&tvd=2292000756626&vrn=100100067795849&region=29&global=&sub_region=29&prver=0&pronetvd=null&vibid=2292000756626&type=464",
@@ -3111,15 +3111,15 @@ export const duma_2016_uik_463_region_29_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Буторин Михаил Вениаминович": 3,
-      "Епифанова Ольга Николаевна": 20,
-      "Ерыкалов Вячеслав Борисович": 1,
-      "Новиков Александр Владимирович": 6,
-      "Пивков Сергей Анатольевич": 8,
-      "Русаков Юрий Михайлович": 1,
-      "Силантьев Михаил Сергеевич": 2,
-      "Чураков Андрей Анатольевич": 0,
-      "Юрков Дмитрий Васильевич": 28
+      "gas:candidate-vibid:2292000789647": 3,
+      "gas:candidate-vibid:2292000786560": 20,
+      "gas:candidate-vibid:2292000788448": 1,
+      "gas:candidate-vibid:2292000787014": 6,
+      "gas:candidate-vibid:2292000777782": 8,
+      "gas:candidate-vibid:2292000788112": 1,
+      "gas:candidate-vibid:2292000790241": 2,
+      "gas:candidate-vibid:2292000789553": 0,
+      "gas:candidate-vibid:2292000789248": 28
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/arkhangelsk?action=show&root=1000091&tvd=2292000756626&vrn=100100067795849&region=29&global=&sub_region=29&prver=0&pronetvd=null&vibid=2292000756626&type=464",
@@ -3170,15 +3170,15 @@ export const duma_2016_uik_463_region_29_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Буторин Михаил Вениаминович": 0,
-      "Епифанова Ольга Николаевна": 6,
-      "Ерыкалов Вячеслав Борисович": 0,
-      "Новиков Александр Владимирович": 0,
-      "Пивков Сергей Анатольевич": 4,
-      "Русаков Юрий Михайлович": 0,
-      "Силантьев Михаил Сергеевич": 0,
-      "Чураков Андрей Анатольевич": 0,
-      "Юрков Дмитрий Васильевич": 21
+      "gas:candidate-vibid:2292000789647": 0,
+      "gas:candidate-vibid:2292000786560": 6,
+      "gas:candidate-vibid:2292000788448": 0,
+      "gas:candidate-vibid:2292000787014": 0,
+      "gas:candidate-vibid:2292000777782": 4,
+      "gas:candidate-vibid:2292000788112": 0,
+      "gas:candidate-vibid:2292000790241": 0,
+      "gas:candidate-vibid:2292000789553": 0,
+      "gas:candidate-vibid:2292000789248": 21
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/arkhangelsk?action=show&root=1000091&tvd=2292000756626&vrn=100100067795849&region=29&global=&sub_region=29&prver=0&pronetvd=null&vibid=2292000756626&type=464",
@@ -3229,15 +3229,15 @@ export const duma_2016_uik_463_region_29_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Буторин Михаил Вениаминович": 0,
-      "Епифанова Ольга Николаевна": 44,
-      "Ерыкалов Вячеслав Борисович": 1,
-      "Новиков Александр Владимирович": 22,
-      "Пивков Сергей Анатольевич": 8,
-      "Русаков Юрий Михайлович": 4,
-      "Силантьев Михаил Сергеевич": 1,
-      "Чураков Андрей Анатольевич": 1,
-      "Юрков Дмитрий Васильевич": 80
+      "gas:candidate-vibid:2292000789647": 0,
+      "gas:candidate-vibid:2292000786560": 44,
+      "gas:candidate-vibid:2292000788448": 1,
+      "gas:candidate-vibid:2292000787014": 22,
+      "gas:candidate-vibid:2292000777782": 8,
+      "gas:candidate-vibid:2292000788112": 4,
+      "gas:candidate-vibid:2292000790241": 1,
+      "gas:candidate-vibid:2292000789553": 1,
+      "gas:candidate-vibid:2292000789248": 80
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/arkhangelsk?action=show&root=1000091&tvd=2292000756626&vrn=100100067795849&region=29&global=&sub_region=29&prver=0&pronetvd=null&vibid=2292000756626&type=464",
@@ -3288,15 +3288,15 @@ export const duma_2016_uik_463_region_29_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Буторин Михаил Вениаминович": 2,
-      "Епифанова Ольга Николаевна": 19,
-      "Ерыкалов Вячеслав Борисович": 1,
-      "Новиков Александр Владимирович": 5,
-      "Пивков Сергей Анатольевич": 10,
-      "Русаков Юрий Михайлович": 2,
-      "Силантьев Михаил Сергеевич": 1,
-      "Чураков Андрей Анатольевич": 0,
-      "Юрков Дмитрий Васильевич": 50
+      "gas:candidate-vibid:2292000789647": 2,
+      "gas:candidate-vibid:2292000786560": 19,
+      "gas:candidate-vibid:2292000788448": 1,
+      "gas:candidate-vibid:2292000787014": 5,
+      "gas:candidate-vibid:2292000777782": 10,
+      "gas:candidate-vibid:2292000788112": 2,
+      "gas:candidate-vibid:2292000790241": 1,
+      "gas:candidate-vibid:2292000789553": 0,
+      "gas:candidate-vibid:2292000789248": 50
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/arkhangelsk?action=show&root=1000091&tvd=2292000756626&vrn=100100067795849&region=29&global=&sub_region=29&prver=0&pronetvd=null&vibid=2292000756626&type=464",
@@ -3347,15 +3347,15 @@ export const duma_2016_uik_463_region_29_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Буторин Михаил Вениаминович": 2,
-      "Епифанова Ольга Николаевна": 16,
-      "Ерыкалов Вячеслав Борисович": 1,
-      "Новиков Александр Владимирович": 6,
-      "Пивков Сергей Анатольевич": 5,
-      "Русаков Юрий Михайлович": 0,
-      "Силантьев Михаил Сергеевич": 0,
-      "Чураков Андрей Анатольевич": 2,
-      "Юрков Дмитрий Васильевич": 12
+      "gas:candidate-vibid:2292000789647": 2,
+      "gas:candidate-vibid:2292000786560": 16,
+      "gas:candidate-vibid:2292000788448": 1,
+      "gas:candidate-vibid:2292000787014": 6,
+      "gas:candidate-vibid:2292000777782": 5,
+      "gas:candidate-vibid:2292000788112": 0,
+      "gas:candidate-vibid:2292000790241": 0,
+      "gas:candidate-vibid:2292000789553": 2,
+      "gas:candidate-vibid:2292000789248": 12
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/arkhangelsk?action=show&root=1000091&tvd=2292000756626&vrn=100100067795849&region=29&global=&sub_region=29&prver=0&pronetvd=null&vibid=2292000756626&type=464",
@@ -3406,15 +3406,15 @@ export const duma_2016_uik_463_region_29_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Буторин Михаил Вениаминович": 0,
-      "Епифанова Ольга Николаевна": 54,
-      "Ерыкалов Вячеслав Борисович": 2,
-      "Новиков Александр Владимирович": 11,
-      "Пивков Сергей Анатольевич": 20,
-      "Русаков Юрий Михайлович": 5,
-      "Силантьев Михаил Сергеевич": 1,
-      "Чураков Андрей Анатольевич": 1,
-      "Юрков Дмитрий Васильевич": 28
+      "gas:candidate-vibid:2292000789647": 0,
+      "gas:candidate-vibid:2292000786560": 54,
+      "gas:candidate-vibid:2292000788448": 2,
+      "gas:candidate-vibid:2292000787014": 11,
+      "gas:candidate-vibid:2292000777782": 20,
+      "gas:candidate-vibid:2292000788112": 5,
+      "gas:candidate-vibid:2292000790241": 1,
+      "gas:candidate-vibid:2292000789553": 1,
+      "gas:candidate-vibid:2292000789248": 28
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/arkhangelsk?action=show&root=1000091&tvd=2292000756626&vrn=100100067795849&region=29&global=&sub_region=29&prver=0&pronetvd=null&vibid=2292000756626&type=464",
@@ -3465,15 +3465,15 @@ export const duma_2016_uik_463_region_29_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Буторин Михаил Вениаминович": 1,
-      "Епифанова Ольга Николаевна": 26,
-      "Ерыкалов Вячеслав Борисович": 0,
-      "Новиков Александр Владимирович": 8,
-      "Пивков Сергей Анатольевич": 13,
-      "Русаков Юрий Михайлович": 4,
-      "Силантьев Михаил Сергеевич": 0,
-      "Чураков Андрей Анатольевич": 1,
-      "Юрков Дмитрий Васильевич": 18
+      "gas:candidate-vibid:2292000789647": 1,
+      "gas:candidate-vibid:2292000786560": 26,
+      "gas:candidate-vibid:2292000788448": 0,
+      "gas:candidate-vibid:2292000787014": 8,
+      "gas:candidate-vibid:2292000777782": 13,
+      "gas:candidate-vibid:2292000788112": 4,
+      "gas:candidate-vibid:2292000790241": 0,
+      "gas:candidate-vibid:2292000789553": 1,
+      "gas:candidate-vibid:2292000789248": 18
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/arkhangelsk?action=show&root=1000091&tvd=2292000756626&vrn=100100067795849&region=29&global=&sub_region=29&prver=0&pronetvd=null&vibid=2292000756626&type=464",
@@ -3524,15 +3524,15 @@ export const duma_2016_uik_463_region_29_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Буторин Михаил Вениаминович": 6,
-      "Епифанова Ольга Николаевна": 27,
-      "Ерыкалов Вячеслав Борисович": 4,
-      "Новиков Александр Владимирович": 9,
-      "Пивков Сергей Анатольевич": 5,
-      "Русаков Юрий Михайлович": 2,
-      "Силантьев Михаил Сергеевич": 1,
-      "Чураков Андрей Анатольевич": 0,
-      "Юрков Дмитрий Васильевич": 25
+      "gas:candidate-vibid:2292000789647": 6,
+      "gas:candidate-vibid:2292000786560": 27,
+      "gas:candidate-vibid:2292000788448": 4,
+      "gas:candidate-vibid:2292000787014": 9,
+      "gas:candidate-vibid:2292000777782": 5,
+      "gas:candidate-vibid:2292000788112": 2,
+      "gas:candidate-vibid:2292000790241": 1,
+      "gas:candidate-vibid:2292000789553": 0,
+      "gas:candidate-vibid:2292000789248": 25
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/arkhangelsk?action=show&root=1000091&tvd=2292000756626&vrn=100100067795849&region=29&global=&sub_region=29&prver=0&pronetvd=null&vibid=2292000756626&type=464",
@@ -3583,15 +3583,15 @@ export const duma_2016_uik_463_region_29_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Буторин Михаил Вениаминович": 11,
-      "Епифанова Ольга Николаевна": 34,
-      "Ерыкалов Вячеслав Борисович": 3,
-      "Новиков Александр Владимирович": 13,
-      "Пивков Сергей Анатольевич": 32,
-      "Русаков Юрий Михайлович": 9,
-      "Силантьев Михаил Сергеевич": 4,
-      "Чураков Андрей Анатольевич": 2,
-      "Юрков Дмитрий Васильевич": 74
+      "gas:candidate-vibid:2292000789647": 11,
+      "gas:candidate-vibid:2292000786560": 34,
+      "gas:candidate-vibid:2292000788448": 3,
+      "gas:candidate-vibid:2292000787014": 13,
+      "gas:candidate-vibid:2292000777782": 32,
+      "gas:candidate-vibid:2292000788112": 9,
+      "gas:candidate-vibid:2292000790241": 4,
+      "gas:candidate-vibid:2292000789553": 2,
+      "gas:candidate-vibid:2292000789248": 74
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/arkhangelsk?action=show&root=1000091&tvd=2292000756626&vrn=100100067795849&region=29&global=&sub_region=29&prver=0&pronetvd=null&vibid=2292000756626&type=464",
@@ -3642,15 +3642,15 @@ export const duma_2016_uik_463_region_29_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Буторин Михаил Вениаминович": 1,
-      "Епифанова Ольга Николаевна": 34,
-      "Ерыкалов Вячеслав Борисович": 0,
-      "Новиков Александр Владимирович": 9,
-      "Пивков Сергей Анатольевич": 19,
-      "Русаков Юрий Михайлович": 1,
-      "Силантьев Михаил Сергеевич": 1,
-      "Чураков Андрей Анатольевич": 0,
-      "Юрков Дмитрий Васильевич": 28
+      "gas:candidate-vibid:2292000789647": 1,
+      "gas:candidate-vibid:2292000786560": 34,
+      "gas:candidate-vibid:2292000788448": 0,
+      "gas:candidate-vibid:2292000787014": 9,
+      "gas:candidate-vibid:2292000777782": 19,
+      "gas:candidate-vibid:2292000788112": 1,
+      "gas:candidate-vibid:2292000790241": 1,
+      "gas:candidate-vibid:2292000789553": 0,
+      "gas:candidate-vibid:2292000789248": 28
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/arkhangelsk?action=show&root=1000091&tvd=2292000756626&vrn=100100067795849&region=29&global=&sub_region=29&prver=0&pronetvd=null&vibid=2292000756626&type=464",
@@ -3701,15 +3701,15 @@ export const duma_2016_uik_463_region_29_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Буторин Михаил Вениаминович": 1,
-      "Епифанова Ольга Николаевна": 10,
-      "Ерыкалов Вячеслав Борисович": 0,
-      "Новиков Александр Владимирович": 6,
-      "Пивков Сергей Анатольевич": 5,
-      "Русаков Юрий Михайлович": 1,
-      "Силантьев Михаил Сергеевич": 0,
-      "Чураков Андрей Анатольевич": 0,
-      "Юрков Дмитрий Васильевич": 10
+      "gas:candidate-vibid:2292000789647": 1,
+      "gas:candidate-vibid:2292000786560": 10,
+      "gas:candidate-vibid:2292000788448": 0,
+      "gas:candidate-vibid:2292000787014": 6,
+      "gas:candidate-vibid:2292000777782": 5,
+      "gas:candidate-vibid:2292000788112": 1,
+      "gas:candidate-vibid:2292000790241": 0,
+      "gas:candidate-vibid:2292000789553": 0,
+      "gas:candidate-vibid:2292000789248": 10
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/arkhangelsk?action=show&root=1000091&tvd=2292000756626&vrn=100100067795849&region=29&global=&sub_region=29&prver=0&pronetvd=null&vibid=2292000756626&type=464",
@@ -3760,15 +3760,15 @@ export const duma_2016_uik_463_region_29_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Буторин Михаил Вениаминович": 7,
-      "Епифанова Ольга Николаевна": 123,
-      "Ерыкалов Вячеслав Борисович": 8,
-      "Новиков Александр Владимирович": 45,
-      "Пивков Сергей Анатольевич": 58,
-      "Русаков Юрий Михайлович": 8,
-      "Силантьев Михаил Сергеевич": 8,
-      "Чураков Андрей Анатольевич": 7,
-      "Юрков Дмитрий Васильевич": 135
+      "gas:candidate-vibid:2292000789647": 7,
+      "gas:candidate-vibid:2292000786560": 123,
+      "gas:candidate-vibid:2292000788448": 8,
+      "gas:candidate-vibid:2292000787014": 45,
+      "gas:candidate-vibid:2292000777782": 58,
+      "gas:candidate-vibid:2292000788112": 8,
+      "gas:candidate-vibid:2292000790241": 8,
+      "gas:candidate-vibid:2292000789553": 7,
+      "gas:candidate-vibid:2292000789248": 135
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/arkhangelsk?action=show&root=1000091&tvd=2292000756626&vrn=100100067795849&region=29&global=&sub_region=29&prver=0&pronetvd=null&vibid=2292000756626&type=464",
@@ -3819,15 +3819,15 @@ export const duma_2016_uik_463_region_29_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Буторин Михаил Вениаминович": 2,
-      "Епифанова Ольга Николаевна": 28,
-      "Ерыкалов Вячеслав Борисович": 5,
-      "Новиков Александр Владимирович": 12,
-      "Пивков Сергей Анатольевич": 19,
-      "Русаков Юрий Михайлович": 4,
-      "Силантьев Михаил Сергеевич": 2,
-      "Чураков Андрей Анатольевич": 3,
-      "Юрков Дмитрий Васильевич": 23
+      "gas:candidate-vibid:2292000789647": 2,
+      "gas:candidate-vibid:2292000786560": 28,
+      "gas:candidate-vibid:2292000788448": 5,
+      "gas:candidate-vibid:2292000787014": 12,
+      "gas:candidate-vibid:2292000777782": 19,
+      "gas:candidate-vibid:2292000788112": 4,
+      "gas:candidate-vibid:2292000790241": 2,
+      "gas:candidate-vibid:2292000789553": 3,
+      "gas:candidate-vibid:2292000789248": 23
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/arkhangelsk?action=show&root=1000091&tvd=2292000756626&vrn=100100067795849&region=29&global=&sub_region=29&prver=0&pronetvd=null&vibid=2292000756626&type=464",
@@ -3878,15 +3878,15 @@ export const duma_2016_uik_463_region_29_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Буторин Михаил Вениаминович": 3,
-      "Епифанова Ольга Николаевна": 14,
-      "Ерыкалов Вячеслав Борисович": 1,
-      "Новиков Александр Владимирович": 7,
-      "Пивков Сергей Анатольевич": 11,
-      "Русаков Юрий Михайлович": 3,
-      "Силантьев Михаил Сергеевич": 0,
-      "Чураков Андрей Анатольевич": 1,
-      "Юрков Дмитрий Васильевич": 49
+      "gas:candidate-vibid:2292000789647": 3,
+      "gas:candidate-vibid:2292000786560": 14,
+      "gas:candidate-vibid:2292000788448": 1,
+      "gas:candidate-vibid:2292000787014": 7,
+      "gas:candidate-vibid:2292000777782": 11,
+      "gas:candidate-vibid:2292000788112": 3,
+      "gas:candidate-vibid:2292000790241": 0,
+      "gas:candidate-vibid:2292000789553": 1,
+      "gas:candidate-vibid:2292000789248": 49
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/arkhangelsk?action=show&root=1000091&tvd=2292000756626&vrn=100100067795849&region=29&global=&sub_region=29&prver=0&pronetvd=null&vibid=2292000756626&type=464",
@@ -3937,15 +3937,15 @@ export const duma_2016_uik_463_region_29_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Буторин Михаил Вениаминович": 7,
-      "Епифанова Ольга Николаевна": 34,
-      "Ерыкалов Вячеслав Борисович": 3,
-      "Новиков Александр Владимирович": 13,
-      "Пивков Сергей Анатольевич": 20,
-      "Русаков Юрий Михайлович": 6,
-      "Силантьев Михаил Сергеевич": 5,
-      "Чураков Андрей Анатольевич": 1,
-      "Юрков Дмитрий Васильевич": 53
+      "gas:candidate-vibid:2292000789647": 7,
+      "gas:candidate-vibid:2292000786560": 34,
+      "gas:candidate-vibid:2292000788448": 3,
+      "gas:candidate-vibid:2292000787014": 13,
+      "gas:candidate-vibid:2292000777782": 20,
+      "gas:candidate-vibid:2292000788112": 6,
+      "gas:candidate-vibid:2292000790241": 5,
+      "gas:candidate-vibid:2292000789553": 1,
+      "gas:candidate-vibid:2292000789248": 53
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/arkhangelsk?action=show&root=1000091&tvd=2292000756626&vrn=100100067795849&region=29&global=&sub_region=29&prver=0&pronetvd=null&vibid=2292000756626&type=464",
@@ -3996,15 +3996,15 @@ export const duma_2016_uik_463_region_29_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Буторин Михаил Вениаминович": 3,
-      "Епифанова Ольга Николаевна": 18,
-      "Ерыкалов Вячеслав Борисович": 1,
-      "Новиков Александр Владимирович": 4,
-      "Пивков Сергей Анатольевич": 13,
-      "Русаков Юрий Михайлович": 1,
-      "Силантьев Михаил Сергеевич": 1,
-      "Чураков Андрей Анатольевич": 0,
-      "Юрков Дмитрий Васильевич": 36
+      "gas:candidate-vibid:2292000789647": 3,
+      "gas:candidate-vibid:2292000786560": 18,
+      "gas:candidate-vibid:2292000788448": 1,
+      "gas:candidate-vibid:2292000787014": 4,
+      "gas:candidate-vibid:2292000777782": 13,
+      "gas:candidate-vibid:2292000788112": 1,
+      "gas:candidate-vibid:2292000790241": 1,
+      "gas:candidate-vibid:2292000789553": 0,
+      "gas:candidate-vibid:2292000789248": 36
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/arkhangelsk?action=show&root=1000091&tvd=2292000756626&vrn=100100067795849&region=29&global=&sub_region=29&prver=0&pronetvd=null&vibid=2292000756626&type=464",
@@ -4055,15 +4055,15 @@ export const duma_2016_uik_463_region_29_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Буторин Михаил Вениаминович": 3,
-      "Епифанова Ольга Николаевна": 38,
-      "Ерыкалов Вячеслав Борисович": 3,
-      "Новиков Александр Владимирович": 16,
-      "Пивков Сергей Анатольевич": 24,
-      "Русаков Юрий Михайлович": 1,
-      "Силантьев Михаил Сергеевич": 3,
-      "Чураков Андрей Анатольевич": 1,
-      "Юрков Дмитрий Васильевич": 94
+      "gas:candidate-vibid:2292000789647": 3,
+      "gas:candidate-vibid:2292000786560": 38,
+      "gas:candidate-vibid:2292000788448": 3,
+      "gas:candidate-vibid:2292000787014": 16,
+      "gas:candidate-vibid:2292000777782": 24,
+      "gas:candidate-vibid:2292000788112": 1,
+      "gas:candidate-vibid:2292000790241": 3,
+      "gas:candidate-vibid:2292000789553": 1,
+      "gas:candidate-vibid:2292000789248": 94
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/arkhangelsk?action=show&root=1000091&tvd=2292000756626&vrn=100100067795849&region=29&global=&sub_region=29&prver=0&pronetvd=null&vibid=2292000756626&type=464",
@@ -4114,15 +4114,15 @@ export const duma_2016_uik_463_region_29_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Буторин Михаил Вениаминович": 1,
-      "Епифанова Ольга Николаевна": 22,
-      "Ерыкалов Вячеслав Борисович": 1,
-      "Новиков Александр Владимирович": 8,
-      "Пивков Сергей Анатольевич": 12,
-      "Русаков Юрий Михайлович": 1,
-      "Силантьев Михаил Сергеевич": 1,
-      "Чураков Андрей Анатольевич": 1,
-      "Юрков Дмитрий Васильевич": 49
+      "gas:candidate-vibid:2292000789647": 1,
+      "gas:candidate-vibid:2292000786560": 22,
+      "gas:candidate-vibid:2292000788448": 1,
+      "gas:candidate-vibid:2292000787014": 8,
+      "gas:candidate-vibid:2292000777782": 12,
+      "gas:candidate-vibid:2292000788112": 1,
+      "gas:candidate-vibid:2292000790241": 1,
+      "gas:candidate-vibid:2292000789553": 1,
+      "gas:candidate-vibid:2292000789248": 49
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/arkhangelsk?action=show&root=1000091&tvd=2292000756626&vrn=100100067795849&region=29&global=&sub_region=29&prver=0&pronetvd=null&vibid=2292000756626&type=464",
@@ -4173,15 +4173,15 @@ export const duma_2016_uik_463_region_29_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Буторин Михаил Вениаминович": 2,
-      "Епифанова Ольга Николаевна": 26,
-      "Ерыкалов Вячеслав Борисович": 0,
-      "Новиков Александр Владимирович": 7,
-      "Пивков Сергей Анатольевич": 5,
-      "Русаков Юрий Михайлович": 1,
-      "Силантьев Михаил Сергеевич": 1,
-      "Чураков Андрей Анатольевич": 1,
-      "Юрков Дмитрий Васильевич": 32
+      "gas:candidate-vibid:2292000789647": 2,
+      "gas:candidate-vibid:2292000786560": 26,
+      "gas:candidate-vibid:2292000788448": 0,
+      "gas:candidate-vibid:2292000787014": 7,
+      "gas:candidate-vibid:2292000777782": 5,
+      "gas:candidate-vibid:2292000788112": 1,
+      "gas:candidate-vibid:2292000790241": 1,
+      "gas:candidate-vibid:2292000789553": 1,
+      "gas:candidate-vibid:2292000789248": 32
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/arkhangelsk?action=show&root=1000091&tvd=2292000756626&vrn=100100067795849&region=29&global=&sub_region=29&prver=0&pronetvd=null&vibid=2292000756626&type=464",
@@ -4232,15 +4232,15 @@ export const duma_2016_uik_463_region_29_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Буторин Михаил Вениаминович": 5,
-      "Епифанова Ольга Николаевна": 28,
-      "Ерыкалов Вячеслав Борисович": 2,
-      "Новиков Александр Владимирович": 6,
-      "Пивков Сергей Анатольевич": 18,
-      "Русаков Юрий Михайлович": 6,
-      "Силантьев Михаил Сергеевич": 3,
-      "Чураков Андрей Анатольевич": 2,
-      "Юрков Дмитрий Васильевич": 24
+      "gas:candidate-vibid:2292000789647": 5,
+      "gas:candidate-vibid:2292000786560": 28,
+      "gas:candidate-vibid:2292000788448": 2,
+      "gas:candidate-vibid:2292000787014": 6,
+      "gas:candidate-vibid:2292000777782": 18,
+      "gas:candidate-vibid:2292000788112": 6,
+      "gas:candidate-vibid:2292000790241": 3,
+      "gas:candidate-vibid:2292000789553": 2,
+      "gas:candidate-vibid:2292000789248": 24
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/arkhangelsk?action=show&root=1000091&tvd=2292000756626&vrn=100100067795849&region=29&global=&sub_region=29&prver=0&pronetvd=null&vibid=2292000756626&type=464",
@@ -4291,15 +4291,15 @@ export const duma_2016_uik_463_region_29_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Буторин Михаил Вениаминович": 5,
-      "Епифанова Ольга Николаевна": 20,
-      "Ерыкалов Вячеслав Борисович": 2,
-      "Новиков Александр Владимирович": 9,
-      "Пивков Сергей Анатольевич": 10,
-      "Русаков Юрий Михайлович": 1,
-      "Силантьев Михаил Сергеевич": 1,
-      "Чураков Андрей Анатольевич": 3,
-      "Юрков Дмитрий Васильевич": 36
+      "gas:candidate-vibid:2292000789647": 5,
+      "gas:candidate-vibid:2292000786560": 20,
+      "gas:candidate-vibid:2292000788448": 2,
+      "gas:candidate-vibid:2292000787014": 9,
+      "gas:candidate-vibid:2292000777782": 10,
+      "gas:candidate-vibid:2292000788112": 1,
+      "gas:candidate-vibid:2292000790241": 1,
+      "gas:candidate-vibid:2292000789553": 3,
+      "gas:candidate-vibid:2292000789248": 36
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/arkhangelsk?action=show&root=1000091&tvd=2292000756626&vrn=100100067795849&region=29&global=&sub_region=29&prver=0&pronetvd=null&vibid=2292000756626&type=464",
@@ -4350,15 +4350,15 @@ export const duma_2016_uik_463_region_29_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Буторин Михаил Вениаминович": 1,
-      "Епифанова Ольга Николаевна": 23,
-      "Ерыкалов Вячеслав Борисович": 4,
-      "Новиков Александр Владимирович": 2,
-      "Пивков Сергей Анатольевич": 8,
-      "Русаков Юрий Михайлович": 3,
-      "Силантьев Михаил Сергеевич": 0,
-      "Чураков Андрей Анатольевич": 1,
-      "Юрков Дмитрий Васильевич": 27
+      "gas:candidate-vibid:2292000789647": 1,
+      "gas:candidate-vibid:2292000786560": 23,
+      "gas:candidate-vibid:2292000788448": 4,
+      "gas:candidate-vibid:2292000787014": 2,
+      "gas:candidate-vibid:2292000777782": 8,
+      "gas:candidate-vibid:2292000788112": 3,
+      "gas:candidate-vibid:2292000790241": 0,
+      "gas:candidate-vibid:2292000789553": 1,
+      "gas:candidate-vibid:2292000789248": 27
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/arkhangelsk?action=show&root=1000091&tvd=2292000756626&vrn=100100067795849&region=29&global=&sub_region=29&prver=0&pronetvd=null&vibid=2292000756626&type=464",
@@ -4409,15 +4409,15 @@ export const duma_2016_uik_463_region_29_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Буторин Михаил Вениаминович": 2,
-      "Епифанова Ольга Николаевна": 17,
-      "Ерыкалов Вячеслав Борисович": 0,
-      "Новиков Александр Владимирович": 5,
-      "Пивков Сергей Анатольевич": 10,
-      "Русаков Юрий Михайлович": 0,
-      "Силантьев Михаил Сергеевич": 3,
-      "Чураков Андрей Анатольевич": 0,
-      "Юрков Дмитрий Васильевич": 32
+      "gas:candidate-vibid:2292000789647": 2,
+      "gas:candidate-vibid:2292000786560": 17,
+      "gas:candidate-vibid:2292000788448": 0,
+      "gas:candidate-vibid:2292000787014": 5,
+      "gas:candidate-vibid:2292000777782": 10,
+      "gas:candidate-vibid:2292000788112": 0,
+      "gas:candidate-vibid:2292000790241": 3,
+      "gas:candidate-vibid:2292000789553": 0,
+      "gas:candidate-vibid:2292000789248": 32
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/arkhangelsk?action=show&root=1000091&tvd=2292000756626&vrn=100100067795849&region=29&global=&sub_region=29&prver=0&pronetvd=null&vibid=2292000756626&type=464",
@@ -4468,15 +4468,15 @@ export const duma_2016_uik_463_region_29_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Буторин Михаил Вениаминович": 8,
-      "Епифанова Ольга Николаевна": 67,
-      "Ерыкалов Вячеслав Борисович": 12,
-      "Новиков Александр Владимирович": 25,
-      "Пивков Сергей Анатольевич": 24,
-      "Русаков Юрий Михайлович": 13,
-      "Силантьев Михаил Сергеевич": 6,
-      "Чураков Андрей Анатольевич": 3,
-      "Юрков Дмитрий Васильевич": 123
+      "gas:candidate-vibid:2292000789647": 8,
+      "gas:candidate-vibid:2292000786560": 67,
+      "gas:candidate-vibid:2292000788448": 12,
+      "gas:candidate-vibid:2292000787014": 25,
+      "gas:candidate-vibid:2292000777782": 24,
+      "gas:candidate-vibid:2292000788112": 13,
+      "gas:candidate-vibid:2292000790241": 6,
+      "gas:candidate-vibid:2292000789553": 3,
+      "gas:candidate-vibid:2292000789248": 123
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/arkhangelsk?action=show&root=1000091&tvd=2292000756626&vrn=100100067795849&region=29&global=&sub_region=29&prver=0&pronetvd=null&vibid=2292000756626&type=464",
@@ -4527,15 +4527,15 @@ export const duma_2016_uik_463_region_29_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Буторин Михаил Вениаминович": 17,
-      "Епифанова Ольга Николаевна": 90,
-      "Ерыкалов Вячеслав Борисович": 3,
-      "Новиков Александр Владимирович": 40,
-      "Пивков Сергей Анатольевич": 76,
-      "Русаков Юрий Михайлович": 9,
-      "Силантьев Михаил Сергеевич": 12,
-      "Чураков Андрей Анатольевич": 1,
-      "Юрков Дмитрий Васильевич": 298
+      "gas:candidate-vibid:2292000789647": 17,
+      "gas:candidate-vibid:2292000786560": 90,
+      "gas:candidate-vibid:2292000788448": 3,
+      "gas:candidate-vibid:2292000787014": 40,
+      "gas:candidate-vibid:2292000777782": 76,
+      "gas:candidate-vibid:2292000788112": 9,
+      "gas:candidate-vibid:2292000790241": 12,
+      "gas:candidate-vibid:2292000789553": 1,
+      "gas:candidate-vibid:2292000789248": 298
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/arkhangelsk?action=show&root=1000091&tvd=2292000756627&vrn=100100067795849&region=29&global=&sub_region=29&prver=0&pronetvd=null&vibid=2292000756627&type=464",
@@ -4586,15 +4586,15 @@ export const duma_2016_uik_463_region_29_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Буторин Михаил Вениаминович": 11,
-      "Епифанова Ольга Николаевна": 61,
-      "Ерыкалов Вячеслав Борисович": 3,
-      "Новиков Александр Владимирович": 29,
-      "Пивков Сергей Анатольевич": 32,
-      "Русаков Юрий Михайлович": 6,
-      "Силантьев Михаил Сергеевич": 8,
-      "Чураков Андрей Анатольевич": 3,
-      "Юрков Дмитрий Васильевич": 156
+      "gas:candidate-vibid:2292000789647": 11,
+      "gas:candidate-vibid:2292000786560": 61,
+      "gas:candidate-vibid:2292000788448": 3,
+      "gas:candidate-vibid:2292000787014": 29,
+      "gas:candidate-vibid:2292000777782": 32,
+      "gas:candidate-vibid:2292000788112": 6,
+      "gas:candidate-vibid:2292000790241": 8,
+      "gas:candidate-vibid:2292000789553": 3,
+      "gas:candidate-vibid:2292000789248": 156
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/arkhangelsk?action=show&root=1000091&tvd=2292000756627&vrn=100100067795849&region=29&global=&sub_region=29&prver=0&pronetvd=null&vibid=2292000756627&type=464",
@@ -4645,15 +4645,15 @@ export const duma_2016_uik_463_region_29_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Буторин Михаил Вениаминович": 17,
-      "Епифанова Ольга Николаевна": 91,
-      "Ерыкалов Вячеслав Борисович": 1,
-      "Новиков Александр Владимирович": 33,
-      "Пивков Сергей Анатольевич": 78,
-      "Русаков Юрий Михайлович": 10,
-      "Силантьев Михаил Сергеевич": 9,
-      "Чураков Андрей Анатольевич": 4,
-      "Юрков Дмитрий Васильевич": 211
+      "gas:candidate-vibid:2292000789647": 17,
+      "gas:candidate-vibid:2292000786560": 91,
+      "gas:candidate-vibid:2292000788448": 1,
+      "gas:candidate-vibid:2292000787014": 33,
+      "gas:candidate-vibid:2292000777782": 78,
+      "gas:candidate-vibid:2292000788112": 10,
+      "gas:candidate-vibid:2292000790241": 9,
+      "gas:candidate-vibid:2292000789553": 4,
+      "gas:candidate-vibid:2292000789248": 211
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/arkhangelsk?action=show&root=1000091&tvd=2292000756627&vrn=100100067795849&region=29&global=&sub_region=29&prver=0&pronetvd=null&vibid=2292000756627&type=464",
@@ -4704,15 +4704,15 @@ export const duma_2016_uik_463_region_29_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Буторин Михаил Вениаминович": 12,
-      "Епифанова Ольга Николаевна": 147,
-      "Ерыкалов Вячеслав Борисович": 9,
-      "Новиков Александр Владимирович": 68,
-      "Пивков Сергей Анатольевич": 81,
-      "Русаков Юрий Михайлович": 14,
-      "Силантьев Михаил Сергеевич": 14,
-      "Чураков Андрей Анатольевич": 6,
-      "Юрков Дмитрий Васильевич": 288
+      "gas:candidate-vibid:2292000789647": 12,
+      "gas:candidate-vibid:2292000786560": 147,
+      "gas:candidate-vibid:2292000788448": 9,
+      "gas:candidate-vibid:2292000787014": 68,
+      "gas:candidate-vibid:2292000777782": 81,
+      "gas:candidate-vibid:2292000788112": 14,
+      "gas:candidate-vibid:2292000790241": 14,
+      "gas:candidate-vibid:2292000789553": 6,
+      "gas:candidate-vibid:2292000789248": 288
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/arkhangelsk?action=show&root=1000091&tvd=2292000756627&vrn=100100067795849&region=29&global=&sub_region=29&prver=0&pronetvd=null&vibid=2292000756627&type=464",
@@ -4763,15 +4763,15 @@ export const duma_2016_uik_463_region_29_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Буторин Михаил Вениаминович": 13,
-      "Епифанова Ольга Николаевна": 175,
-      "Ерыкалов Вячеслав Борисович": 12,
-      "Новиков Александр Владимирович": 66,
-      "Пивков Сергей Анатольевич": 96,
-      "Русаков Юрий Михайлович": 16,
-      "Силантьев Михаил Сергеевич": 12,
-      "Чураков Андрей Анатольевич": 8,
-      "Юрков Дмитрий Васильевич": 360
+      "gas:candidate-vibid:2292000789647": 13,
+      "gas:candidate-vibid:2292000786560": 175,
+      "gas:candidate-vibid:2292000788448": 12,
+      "gas:candidate-vibid:2292000787014": 66,
+      "gas:candidate-vibid:2292000777782": 96,
+      "gas:candidate-vibid:2292000788112": 16,
+      "gas:candidate-vibid:2292000790241": 12,
+      "gas:candidate-vibid:2292000789553": 8,
+      "gas:candidate-vibid:2292000789248": 360
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/arkhangelsk?action=show&root=1000091&tvd=2292000756627&vrn=100100067795849&region=29&global=&sub_region=29&prver=0&pronetvd=null&vibid=2292000756627&type=464",
@@ -4822,15 +4822,15 @@ export const duma_2016_uik_463_region_29_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Буторин Михаил Вениаминович": 21,
-      "Епифанова Ольга Николаевна": 146,
-      "Ерыкалов Вячеслав Борисович": 7,
-      "Новиков Александр Владимирович": 62,
-      "Пивков Сергей Анатольевич": 70,
-      "Русаков Юрий Михайлович": 11,
-      "Силантьев Михаил Сергеевич": 11,
-      "Чураков Андрей Анатольевич": 11,
-      "Юрков Дмитрий Васильевич": 308
+      "gas:candidate-vibid:2292000789647": 21,
+      "gas:candidate-vibid:2292000786560": 146,
+      "gas:candidate-vibid:2292000788448": 7,
+      "gas:candidate-vibid:2292000787014": 62,
+      "gas:candidate-vibid:2292000777782": 70,
+      "gas:candidate-vibid:2292000788112": 11,
+      "gas:candidate-vibid:2292000790241": 11,
+      "gas:candidate-vibid:2292000789553": 11,
+      "gas:candidate-vibid:2292000789248": 308
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/arkhangelsk?action=show&root=1000091&tvd=2292000756627&vrn=100100067795849&region=29&global=&sub_region=29&prver=0&pronetvd=null&vibid=2292000756627&type=464",
@@ -4881,15 +4881,15 @@ export const duma_2016_uik_463_region_29_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Буторин Михаил Вениаминович": 11,
-      "Епифанова Ольга Николаевна": 150,
-      "Ерыкалов Вячеслав Борисович": 10,
-      "Новиков Александр Владимирович": 55,
-      "Пивков Сергей Анатольевич": 57,
-      "Русаков Юрий Михайлович": 8,
-      "Силантьев Михаил Сергеевич": 18,
-      "Чураков Андрей Анатольевич": 9,
-      "Юрков Дмитрий Васильевич": 342
+      "gas:candidate-vibid:2292000789647": 11,
+      "gas:candidate-vibid:2292000786560": 150,
+      "gas:candidate-vibid:2292000788448": 10,
+      "gas:candidate-vibid:2292000787014": 55,
+      "gas:candidate-vibid:2292000777782": 57,
+      "gas:candidate-vibid:2292000788112": 8,
+      "gas:candidate-vibid:2292000790241": 18,
+      "gas:candidate-vibid:2292000789553": 9,
+      "gas:candidate-vibid:2292000789248": 342
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/arkhangelsk?action=show&root=1000091&tvd=2292000756627&vrn=100100067795849&region=29&global=&sub_region=29&prver=0&pronetvd=null&vibid=2292000756627&type=464",
@@ -4940,15 +4940,15 @@ export const duma_2016_uik_463_region_29_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Буторин Михаил Вениаминович": 14,
-      "Епифанова Ольга Николаевна": 94,
-      "Ерыкалов Вячеслав Борисович": 4,
-      "Новиков Александр Владимирович": 58,
-      "Пивков Сергей Анатольевич": 49,
-      "Русаков Юрий Михайлович": 9,
-      "Силантьев Михаил Сергеевич": 6,
-      "Чураков Андрей Анатольевич": 4,
-      "Юрков Дмитрий Васильевич": 213
+      "gas:candidate-vibid:2292000789647": 14,
+      "gas:candidate-vibid:2292000786560": 94,
+      "gas:candidate-vibid:2292000788448": 4,
+      "gas:candidate-vibid:2292000787014": 58,
+      "gas:candidate-vibid:2292000777782": 49,
+      "gas:candidate-vibid:2292000788112": 9,
+      "gas:candidate-vibid:2292000790241": 6,
+      "gas:candidate-vibid:2292000789553": 4,
+      "gas:candidate-vibid:2292000789248": 213
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/arkhangelsk?action=show&root=1000091&tvd=2292000756627&vrn=100100067795849&region=29&global=&sub_region=29&prver=0&pronetvd=null&vibid=2292000756627&type=464",
@@ -4999,15 +4999,15 @@ export const duma_2016_uik_463_region_29_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Буторин Михаил Вениаминович": 6,
-      "Епифанова Ольга Николаевна": 92,
-      "Ерыкалов Вячеслав Борисович": 6,
-      "Новиков Александр Владимирович": 38,
-      "Пивков Сергей Анатольевич": 71,
-      "Русаков Юрий Михайлович": 4,
-      "Силантьев Михаил Сергеевич": 8,
-      "Чураков Андрей Анатольевич": 7,
-      "Юрков Дмитрий Васильевич": 227
+      "gas:candidate-vibid:2292000789647": 6,
+      "gas:candidate-vibid:2292000786560": 92,
+      "gas:candidate-vibid:2292000788448": 6,
+      "gas:candidate-vibid:2292000787014": 38,
+      "gas:candidate-vibid:2292000777782": 71,
+      "gas:candidate-vibid:2292000788112": 4,
+      "gas:candidate-vibid:2292000790241": 8,
+      "gas:candidate-vibid:2292000789553": 7,
+      "gas:candidate-vibid:2292000789248": 227
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/arkhangelsk?action=show&root=1000091&tvd=2292000756627&vrn=100100067795849&region=29&global=&sub_region=29&prver=0&pronetvd=null&vibid=2292000756627&type=464",
@@ -5058,15 +5058,15 @@ export const duma_2016_uik_463_region_29_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Буторин Михаил Вениаминович": 20,
-      "Епифанова Ольга Николаевна": 70,
-      "Ерыкалов Вячеслав Борисович": 1,
-      "Новиков Александр Владимирович": 34,
-      "Пивков Сергей Анатольевич": 49,
-      "Русаков Юрий Михайлович": 3,
-      "Силантьев Михаил Сергеевич": 11,
-      "Чураков Андрей Анатольевич": 5,
-      "Юрков Дмитрий Васильевич": 204
+      "gas:candidate-vibid:2292000789647": 20,
+      "gas:candidate-vibid:2292000786560": 70,
+      "gas:candidate-vibid:2292000788448": 1,
+      "gas:candidate-vibid:2292000787014": 34,
+      "gas:candidate-vibid:2292000777782": 49,
+      "gas:candidate-vibid:2292000788112": 3,
+      "gas:candidate-vibid:2292000790241": 11,
+      "gas:candidate-vibid:2292000789553": 5,
+      "gas:candidate-vibid:2292000789248": 204
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/arkhangelsk?action=show&root=1000091&tvd=2292000756627&vrn=100100067795849&region=29&global=&sub_region=29&prver=0&pronetvd=null&vibid=2292000756627&type=464",
@@ -5117,15 +5117,15 @@ export const duma_2016_uik_463_region_29_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Буторин Михаил Вениаминович": 8,
-      "Епифанова Ольга Николаевна": 78,
-      "Ерыкалов Вячеслав Борисович": 7,
-      "Новиков Александр Владимирович": 34,
-      "Пивков Сергей Анатольевич": 59,
-      "Русаков Юрий Михайлович": 5,
-      "Силантьев Михаил Сергеевич": 10,
-      "Чураков Андрей Анатольевич": 5,
-      "Юрков Дмитрий Васильевич": 241
+      "gas:candidate-vibid:2292000789647": 8,
+      "gas:candidate-vibid:2292000786560": 78,
+      "gas:candidate-vibid:2292000788448": 7,
+      "gas:candidate-vibid:2292000787014": 34,
+      "gas:candidate-vibid:2292000777782": 59,
+      "gas:candidate-vibid:2292000788112": 5,
+      "gas:candidate-vibid:2292000790241": 10,
+      "gas:candidate-vibid:2292000789553": 5,
+      "gas:candidate-vibid:2292000789248": 241
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/arkhangelsk?action=show&root=1000091&tvd=2292000756627&vrn=100100067795849&region=29&global=&sub_region=29&prver=0&pronetvd=null&vibid=2292000756627&type=464",
@@ -5176,15 +5176,15 @@ export const duma_2016_uik_463_region_29_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Буторин Михаил Вениаминович": 21,
-      "Епифанова Ольга Николаевна": 64,
-      "Ерыкалов Вячеслав Борисович": 9,
-      "Новиков Александр Владимирович": 51,
-      "Пивков Сергей Анатольевич": 38,
-      "Русаков Юрий Михайлович": 11,
-      "Силантьев Михаил Сергеевич": 8,
-      "Чураков Андрей Анатольевич": 6,
-      "Юрков Дмитрий Васильевич": 212
+      "gas:candidate-vibid:2292000789647": 21,
+      "gas:candidate-vibid:2292000786560": 64,
+      "gas:candidate-vibid:2292000788448": 9,
+      "gas:candidate-vibid:2292000787014": 51,
+      "gas:candidate-vibid:2292000777782": 38,
+      "gas:candidate-vibid:2292000788112": 11,
+      "gas:candidate-vibid:2292000790241": 8,
+      "gas:candidate-vibid:2292000789553": 6,
+      "gas:candidate-vibid:2292000789248": 212
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/arkhangelsk?action=show&root=1000091&tvd=2292000756627&vrn=100100067795849&region=29&global=&sub_region=29&prver=0&pronetvd=null&vibid=2292000756627&type=464",
@@ -5235,15 +5235,15 @@ export const duma_2016_uik_463_region_29_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Буторин Михаил Вениаминович": 8,
-      "Епифанова Ольга Николаевна": 29,
-      "Ерыкалов Вячеслав Борисович": 2,
-      "Новиков Александр Владимирович": 21,
-      "Пивков Сергей Анатольевич": 27,
-      "Русаков Юрий Михайлович": 9,
-      "Силантьев Михаил Сергеевич": 9,
-      "Чураков Андрей Анатольевич": 3,
-      "Юрков Дмитрий Васильевич": 113
+      "gas:candidate-vibid:2292000789647": 8,
+      "gas:candidate-vibid:2292000786560": 29,
+      "gas:candidate-vibid:2292000788448": 2,
+      "gas:candidate-vibid:2292000787014": 21,
+      "gas:candidate-vibid:2292000777782": 27,
+      "gas:candidate-vibid:2292000788112": 9,
+      "gas:candidate-vibid:2292000790241": 9,
+      "gas:candidate-vibid:2292000789553": 3,
+      "gas:candidate-vibid:2292000789248": 113
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/arkhangelsk?action=show&root=1000091&tvd=2292000756627&vrn=100100067795849&region=29&global=&sub_region=29&prver=0&pronetvd=null&vibid=2292000756627&type=464",
@@ -5294,15 +5294,15 @@ export const duma_2016_uik_463_region_29_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Буторин Михаил Вениаминович": 10,
-      "Епифанова Ольга Николаевна": 36,
-      "Ерыкалов Вячеслав Борисович": 2,
-      "Новиков Александр Владимирович": 17,
-      "Пивков Сергей Анатольевич": 24,
-      "Русаков Юрий Михайлович": 8,
-      "Силантьев Михаил Сергеевич": 0,
-      "Чураков Андрей Анатольевич": 1,
-      "Юрков Дмитрий Васильевич": 84
+      "gas:candidate-vibid:2292000789647": 10,
+      "gas:candidate-vibid:2292000786560": 36,
+      "gas:candidate-vibid:2292000788448": 2,
+      "gas:candidate-vibid:2292000787014": 17,
+      "gas:candidate-vibid:2292000777782": 24,
+      "gas:candidate-vibid:2292000788112": 8,
+      "gas:candidate-vibid:2292000790241": 0,
+      "gas:candidate-vibid:2292000789553": 1,
+      "gas:candidate-vibid:2292000789248": 84
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/arkhangelsk?action=show&root=1000091&tvd=2292000756627&vrn=100100067795849&region=29&global=&sub_region=29&prver=0&pronetvd=null&vibid=2292000756627&type=464",
@@ -5353,15 +5353,15 @@ export const duma_2016_uik_463_region_29_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Буторин Михаил Вениаминович": 7,
-      "Епифанова Ольга Николаевна": 23,
-      "Ерыкалов Вячеслав Борисович": 0,
-      "Новиков Александр Владимирович": 4,
-      "Пивков Сергей Анатольевич": 18,
-      "Русаков Юрий Михайлович": 5,
-      "Силантьев Михаил Сергеевич": 0,
-      "Чураков Андрей Анатольевич": 2,
-      "Юрков Дмитрий Васильевич": 33
+      "gas:candidate-vibid:2292000789647": 7,
+      "gas:candidate-vibid:2292000786560": 23,
+      "gas:candidate-vibid:2292000788448": 0,
+      "gas:candidate-vibid:2292000787014": 4,
+      "gas:candidate-vibid:2292000777782": 18,
+      "gas:candidate-vibid:2292000788112": 5,
+      "gas:candidate-vibid:2292000790241": 0,
+      "gas:candidate-vibid:2292000789553": 2,
+      "gas:candidate-vibid:2292000789248": 33
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/arkhangelsk?action=show&root=1000091&tvd=2292000756627&vrn=100100067795849&region=29&global=&sub_region=29&prver=0&pronetvd=null&vibid=2292000756627&type=464",
@@ -5412,15 +5412,15 @@ export const duma_2016_uik_463_region_29_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Буторин Михаил Вениаминович": 14,
-      "Епифанова Ольга Николаевна": 27,
-      "Ерыкалов Вячеслав Борисович": 3,
-      "Новиков Александр Владимирович": 3,
-      "Пивков Сергей Анатольевич": 16,
-      "Русаков Юрий Михайлович": 2,
-      "Силантьев Михаил Сергеевич": 2,
-      "Чураков Андрей Анатольевич": 3,
-      "Юрков Дмитрий Васильевич": 42
+      "gas:candidate-vibid:2292000789647": 14,
+      "gas:candidate-vibid:2292000786560": 27,
+      "gas:candidate-vibid:2292000788448": 3,
+      "gas:candidate-vibid:2292000787014": 3,
+      "gas:candidate-vibid:2292000777782": 16,
+      "gas:candidate-vibid:2292000788112": 2,
+      "gas:candidate-vibid:2292000790241": 2,
+      "gas:candidate-vibid:2292000789553": 3,
+      "gas:candidate-vibid:2292000789248": 42
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/arkhangelsk?action=show&root=1000091&tvd=2292000756627&vrn=100100067795849&region=29&global=&sub_region=29&prver=0&pronetvd=null&vibid=2292000756627&type=464",
@@ -5471,15 +5471,15 @@ export const duma_2016_uik_463_region_29_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Буторин Михаил Вениаминович": 2,
-      "Епифанова Ольга Николаевна": 16,
-      "Ерыкалов Вячеслав Борисович": 1,
-      "Новиков Александр Владимирович": 8,
-      "Пивков Сергей Анатольевич": 7,
-      "Русаков Юрий Михайлович": 1,
-      "Силантьев Михаил Сергеевич": 2,
-      "Чураков Андрей Анатольевич": 1,
-      "Юрков Дмитрий Васильевич": 47
+      "gas:candidate-vibid:2292000789647": 2,
+      "gas:candidate-vibid:2292000786560": 16,
+      "gas:candidate-vibid:2292000788448": 1,
+      "gas:candidate-vibid:2292000787014": 8,
+      "gas:candidate-vibid:2292000777782": 7,
+      "gas:candidate-vibid:2292000788112": 1,
+      "gas:candidate-vibid:2292000790241": 2,
+      "gas:candidate-vibid:2292000789553": 1,
+      "gas:candidate-vibid:2292000789248": 47
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/arkhangelsk?action=show&root=1000091&tvd=2292000756627&vrn=100100067795849&region=29&global=&sub_region=29&prver=0&pronetvd=null&vibid=2292000756627&type=464",
@@ -5530,15 +5530,15 @@ export const duma_2016_uik_463_region_29_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Буторин Михаил Вениаминович": 12,
-      "Епифанова Ольга Николаевна": 62,
-      "Ерыкалов Вячеслав Борисович": 6,
-      "Новиков Александр Владимирович": 28,
-      "Пивков Сергей Анатольевич": 32,
-      "Русаков Юрий Михайлович": 6,
-      "Силантьев Михаил Сергеевич": 3,
-      "Чураков Андрей Анатольевич": 4,
-      "Юрков Дмитрий Васильевич": 139
+      "gas:candidate-vibid:2292000789647": 12,
+      "gas:candidate-vibid:2292000786560": 62,
+      "gas:candidate-vibid:2292000788448": 6,
+      "gas:candidate-vibid:2292000787014": 28,
+      "gas:candidate-vibid:2292000777782": 32,
+      "gas:candidate-vibid:2292000788112": 6,
+      "gas:candidate-vibid:2292000790241": 3,
+      "gas:candidate-vibid:2292000789553": 4,
+      "gas:candidate-vibid:2292000789248": 139
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/arkhangelsk?action=show&root=1000091&tvd=2292000756627&vrn=100100067795849&region=29&global=&sub_region=29&prver=0&pronetvd=null&vibid=2292000756627&type=464",
@@ -5589,15 +5589,15 @@ export const duma_2016_uik_463_region_29_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Буторин Михаил Вениаминович": 13,
-      "Епифанова Ольга Николаевна": 56,
-      "Ерыкалов Вячеслав Борисович": 6,
-      "Новиков Александр Владимирович": 31,
-      "Пивков Сергей Анатольевич": 30,
-      "Русаков Юрий Михайлович": 4,
-      "Силантьев Михаил Сергеевич": 5,
-      "Чураков Андрей Анатольевич": 2,
-      "Юрков Дмитрий Васильевич": 127
+      "gas:candidate-vibid:2292000789647": 13,
+      "gas:candidate-vibid:2292000786560": 56,
+      "gas:candidate-vibid:2292000788448": 6,
+      "gas:candidate-vibid:2292000787014": 31,
+      "gas:candidate-vibid:2292000777782": 30,
+      "gas:candidate-vibid:2292000788112": 4,
+      "gas:candidate-vibid:2292000790241": 5,
+      "gas:candidate-vibid:2292000789553": 2,
+      "gas:candidate-vibid:2292000789248": 127
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/arkhangelsk?action=show&root=1000091&tvd=2292000756627&vrn=100100067795849&region=29&global=&sub_region=29&prver=0&pronetvd=null&vibid=2292000756627&type=464",
@@ -5648,15 +5648,15 @@ export const duma_2016_uik_463_region_29_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Буторин Михаил Вениаминович": 8,
-      "Епифанова Ольга Николаевна": 30,
-      "Ерыкалов Вячеслав Борисович": 2,
-      "Новиков Александр Владимирович": 13,
-      "Пивков Сергей Анатольевич": 11,
-      "Русаков Юрий Михайлович": 2,
-      "Силантьев Михаил Сергеевич": 2,
-      "Чураков Андрей Анатольевич": 2,
-      "Юрков Дмитрий Васильевич": 35
+      "gas:candidate-vibid:2292000789647": 8,
+      "gas:candidate-vibid:2292000786560": 30,
+      "gas:candidate-vibid:2292000788448": 2,
+      "gas:candidate-vibid:2292000787014": 13,
+      "gas:candidate-vibid:2292000777782": 11,
+      "gas:candidate-vibid:2292000788112": 2,
+      "gas:candidate-vibid:2292000790241": 2,
+      "gas:candidate-vibid:2292000789553": 2,
+      "gas:candidate-vibid:2292000789248": 35
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/arkhangelsk?action=show&root=1000091&tvd=2292000756627&vrn=100100067795849&region=29&global=&sub_region=29&prver=0&pronetvd=null&vibid=2292000756627&type=464",
@@ -5707,15 +5707,15 @@ export const duma_2016_uik_463_region_29_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Буторин Михаил Вениаминович": 3,
-      "Епифанова Ольга Николаевна": 8,
-      "Ерыкалов Вячеслав Борисович": 0,
-      "Новиков Александр Владимирович": 8,
-      "Пивков Сергей Анатольевич": 14,
-      "Русаков Юрий Михайлович": 1,
-      "Силантьев Михаил Сергеевич": 0,
-      "Чураков Андрей Анатольевич": 0,
-      "Юрков Дмитрий Васильевич": 23
+      "gas:candidate-vibid:2292000789647": 3,
+      "gas:candidate-vibid:2292000786560": 8,
+      "gas:candidate-vibid:2292000788448": 0,
+      "gas:candidate-vibid:2292000787014": 8,
+      "gas:candidate-vibid:2292000777782": 14,
+      "gas:candidate-vibid:2292000788112": 1,
+      "gas:candidate-vibid:2292000790241": 0,
+      "gas:candidate-vibid:2292000789553": 0,
+      "gas:candidate-vibid:2292000789248": 23
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/arkhangelsk?action=show&root=1000091&tvd=2292000756627&vrn=100100067795849&region=29&global=&sub_region=29&prver=0&pronetvd=null&vibid=2292000756627&type=464",
@@ -5766,15 +5766,15 @@ export const duma_2016_uik_463_region_29_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Буторин Михаил Вениаминович": 0,
-      "Епифанова Ольга Николаевна": 6,
-      "Ерыкалов Вячеслав Борисович": 0,
-      "Новиков Александр Владимирович": 7,
-      "Пивков Сергей Анатольевич": 9,
-      "Русаков Юрий Михайлович": 1,
-      "Силантьев Михаил Сергеевич": 2,
-      "Чураков Андрей Анатольевич": 0,
-      "Юрков Дмитрий Васильевич": 23
+      "gas:candidate-vibid:2292000789647": 0,
+      "gas:candidate-vibid:2292000786560": 6,
+      "gas:candidate-vibid:2292000788448": 0,
+      "gas:candidate-vibid:2292000787014": 7,
+      "gas:candidate-vibid:2292000777782": 9,
+      "gas:candidate-vibid:2292000788112": 1,
+      "gas:candidate-vibid:2292000790241": 2,
+      "gas:candidate-vibid:2292000789553": 0,
+      "gas:candidate-vibid:2292000789248": 23
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/arkhangelsk?action=show&root=1000091&tvd=2292000756627&vrn=100100067795849&region=29&global=&sub_region=29&prver=0&pronetvd=null&vibid=2292000756627&type=464",
@@ -5825,15 +5825,15 @@ export const duma_2016_uik_463_region_29_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Буторин Михаил Вениаминович": 3,
-      "Епифанова Ольга Николаевна": 13,
-      "Ерыкалов Вячеслав Борисович": 0,
-      "Новиков Александр Владимирович": 7,
-      "Пивков Сергей Анатольевич": 1,
-      "Русаков Юрий Михайлович": 3,
-      "Силантьев Михаил Сергеевич": 0,
-      "Чураков Андрей Анатольевич": 0,
-      "Юрков Дмитрий Васильевич": 6
+      "gas:candidate-vibid:2292000789647": 3,
+      "gas:candidate-vibid:2292000786560": 13,
+      "gas:candidate-vibid:2292000788448": 0,
+      "gas:candidate-vibid:2292000787014": 7,
+      "gas:candidate-vibid:2292000777782": 1,
+      "gas:candidate-vibid:2292000788112": 3,
+      "gas:candidate-vibid:2292000790241": 0,
+      "gas:candidate-vibid:2292000789553": 0,
+      "gas:candidate-vibid:2292000789248": 6
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/arkhangelsk?action=show&root=1000091&tvd=2292000756627&vrn=100100067795849&region=29&global=&sub_region=29&prver=0&pronetvd=null&vibid=2292000756627&type=464",
@@ -5884,15 +5884,15 @@ export const duma_2016_uik_463_region_29_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Буторин Михаил Вениаминович": 6,
-      "Епифанова Ольга Николаевна": 49,
-      "Ерыкалов Вячеслав Борисович": 4,
-      "Новиков Александр Владимирович": 21,
-      "Пивков Сергей Анатольевич": 31,
-      "Русаков Юрий Михайлович": 5,
-      "Силантьев Михаил Сергеевич": 6,
-      "Чураков Андрей Анатольевич": 2,
-      "Юрков Дмитрий Васильевич": 77
+      "gas:candidate-vibid:2292000789647": 6,
+      "gas:candidate-vibid:2292000786560": 49,
+      "gas:candidate-vibid:2292000788448": 4,
+      "gas:candidate-vibid:2292000787014": 21,
+      "gas:candidate-vibid:2292000777782": 31,
+      "gas:candidate-vibid:2292000788112": 5,
+      "gas:candidate-vibid:2292000790241": 6,
+      "gas:candidate-vibid:2292000789553": 2,
+      "gas:candidate-vibid:2292000789248": 77
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/arkhangelsk?action=show&root=1000091&tvd=2292000756627&vrn=100100067795849&region=29&global=&sub_region=29&prver=0&pronetvd=null&vibid=2292000756627&type=464",
@@ -5943,15 +5943,15 @@ export const duma_2016_uik_463_region_29_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Буторин Михаил Вениаминович": 17,
-      "Епифанова Ольга Николаевна": 108,
-      "Ерыкалов Вячеслав Борисович": 7,
-      "Новиков Александр Владимирович": 47,
-      "Пивков Сергей Анатольевич": 78,
-      "Русаков Юрий Михайлович": 12,
-      "Силантьев Михаил Сергеевич": 10,
-      "Чураков Андрей Анатольевич": 5,
-      "Юрков Дмитрий Васильевич": 102
+      "gas:candidate-vibid:2292000789647": 17,
+      "gas:candidate-vibid:2292000786560": 108,
+      "gas:candidate-vibid:2292000788448": 7,
+      "gas:candidate-vibid:2292000787014": 47,
+      "gas:candidate-vibid:2292000777782": 78,
+      "gas:candidate-vibid:2292000788112": 12,
+      "gas:candidate-vibid:2292000790241": 10,
+      "gas:candidate-vibid:2292000789553": 5,
+      "gas:candidate-vibid:2292000789248": 102
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/arkhangelsk?action=show&root=1000091&tvd=2292000756627&vrn=100100067795849&region=29&global=&sub_region=29&prver=0&pronetvd=null&vibid=2292000756627&type=464",
@@ -6002,15 +6002,15 @@ export const duma_2016_uik_463_region_29_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Буторин Михаил Вениаминович": 4,
-      "Епифанова Ольга Николаевна": 38,
-      "Ерыкалов Вячеслав Борисович": 2,
-      "Новиков Александр Владимирович": 7,
-      "Пивков Сергей Анатольевич": 29,
-      "Русаков Юрий Михайлович": 3,
-      "Силантьев Михаил Сергеевич": 3,
-      "Чураков Андрей Анатольевич": 2,
-      "Юрков Дмитрий Васильевич": 59
+      "gas:candidate-vibid:2292000789647": 4,
+      "gas:candidate-vibid:2292000786560": 38,
+      "gas:candidate-vibid:2292000788448": 2,
+      "gas:candidate-vibid:2292000787014": 7,
+      "gas:candidate-vibid:2292000777782": 29,
+      "gas:candidate-vibid:2292000788112": 3,
+      "gas:candidate-vibid:2292000790241": 3,
+      "gas:candidate-vibid:2292000789553": 2,
+      "gas:candidate-vibid:2292000789248": 59
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/arkhangelsk?action=show&root=1000091&tvd=2292000756627&vrn=100100067795849&region=29&global=&sub_region=29&prver=0&pronetvd=null&vibid=2292000756627&type=464",
@@ -6061,15 +6061,15 @@ export const duma_2016_uik_463_region_29_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Буторин Михаил Вениаминович": 6,
-      "Епифанова Ольга Николаевна": 19,
-      "Ерыкалов Вячеслав Борисович": 0,
-      "Новиков Александр Владимирович": 16,
-      "Пивков Сергей Анатольевич": 22,
-      "Русаков Юрий Михайлович": 3,
-      "Силантьев Михаил Сергеевич": 5,
-      "Чураков Андрей Анатольевич": 1,
-      "Юрков Дмитрий Васильевич": 49
+      "gas:candidate-vibid:2292000789647": 6,
+      "gas:candidate-vibid:2292000786560": 19,
+      "gas:candidate-vibid:2292000788448": 0,
+      "gas:candidate-vibid:2292000787014": 16,
+      "gas:candidate-vibid:2292000777782": 22,
+      "gas:candidate-vibid:2292000788112": 3,
+      "gas:candidate-vibid:2292000790241": 5,
+      "gas:candidate-vibid:2292000789553": 1,
+      "gas:candidate-vibid:2292000789248": 49
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/arkhangelsk?action=show&root=1000091&tvd=2292000756627&vrn=100100067795849&region=29&global=&sub_region=29&prver=0&pronetvd=null&vibid=2292000756627&type=464",
@@ -6120,15 +6120,15 @@ export const duma_2016_uik_463_region_29_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Буторин Михаил Вениаминович": 1,
-      "Епифанова Ольга Николаевна": 9,
-      "Ерыкалов Вячеслав Борисович": 0,
-      "Новиков Александр Владимирович": 8,
-      "Пивков Сергей Анатольевич": 6,
-      "Русаков Юрий Михайлович": 1,
-      "Силантьев Михаил Сергеевич": 0,
-      "Чураков Андрей Анатольевич": 0,
-      "Юрков Дмитрий Васильевич": 13
+      "gas:candidate-vibid:2292000789647": 1,
+      "gas:candidate-vibid:2292000786560": 9,
+      "gas:candidate-vibid:2292000788448": 0,
+      "gas:candidate-vibid:2292000787014": 8,
+      "gas:candidate-vibid:2292000777782": 6,
+      "gas:candidate-vibid:2292000788112": 1,
+      "gas:candidate-vibid:2292000790241": 0,
+      "gas:candidate-vibid:2292000789553": 0,
+      "gas:candidate-vibid:2292000789248": 13
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/arkhangelsk?action=show&root=1000091&tvd=2292000756627&vrn=100100067795849&region=29&global=&sub_region=29&prver=0&pronetvd=null&vibid=2292000756627&type=464",
@@ -6179,15 +6179,15 @@ export const duma_2016_uik_463_region_29_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Буторин Михаил Вениаминович": 3,
-      "Епифанова Ольга Николаевна": 10,
-      "Ерыкалов Вячеслав Борисович": 2,
-      "Новиков Александр Владимирович": 5,
-      "Пивков Сергей Анатольевич": 4,
-      "Русаков Юрий Михайлович": 3,
-      "Силантьев Михаил Сергеевич": 2,
-      "Чураков Андрей Анатольевич": 0,
-      "Юрков Дмитрий Васильевич": 44
+      "gas:candidate-vibid:2292000789647": 3,
+      "gas:candidate-vibid:2292000786560": 10,
+      "gas:candidate-vibid:2292000788448": 2,
+      "gas:candidate-vibid:2292000787014": 5,
+      "gas:candidate-vibid:2292000777782": 4,
+      "gas:candidate-vibid:2292000788112": 3,
+      "gas:candidate-vibid:2292000790241": 2,
+      "gas:candidate-vibid:2292000789553": 0,
+      "gas:candidate-vibid:2292000789248": 44
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/arkhangelsk?action=show&root=1000091&tvd=2292000756627&vrn=100100067795849&region=29&global=&sub_region=29&prver=0&pronetvd=null&vibid=2292000756627&type=464",
@@ -6238,15 +6238,15 @@ export const duma_2016_uik_463_region_29_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Буторин Михаил Вениаминович": 3,
-      "Епифанова Ольга Николаевна": 23,
-      "Ерыкалов Вячеслав Борисович": 0,
-      "Новиков Александр Владимирович": 4,
-      "Пивков Сергей Анатольевич": 11,
-      "Русаков Юрий Михайлович": 2,
-      "Силантьев Михаил Сергеевич": 0,
-      "Чураков Андрей Анатольевич": 2,
-      "Юрков Дмитрий Васильевич": 74
+      "gas:candidate-vibid:2292000789647": 3,
+      "gas:candidate-vibid:2292000786560": 23,
+      "gas:candidate-vibid:2292000788448": 0,
+      "gas:candidate-vibid:2292000787014": 4,
+      "gas:candidate-vibid:2292000777782": 11,
+      "gas:candidate-vibid:2292000788112": 2,
+      "gas:candidate-vibid:2292000790241": 0,
+      "gas:candidate-vibid:2292000789553": 2,
+      "gas:candidate-vibid:2292000789248": 74
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/arkhangelsk?action=show&root=1000091&tvd=2292000756628&vrn=100100067795849&region=29&global=&sub_region=29&prver=0&pronetvd=null&vibid=2292000756628&type=464",
@@ -6297,15 +6297,15 @@ export const duma_2016_uik_463_region_29_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Буторин Михаил Вениаминович": 8,
-      "Епифанова Ольга Николаевна": 55,
-      "Ерыкалов Вячеслав Борисович": 3,
-      "Новиков Александр Владимирович": 37,
-      "Пивков Сергей Анатольевич": 42,
-      "Русаков Юрий Михайлович": 6,
-      "Силантьев Михаил Сергеевич": 4,
-      "Чураков Андрей Анатольевич": 6,
-      "Юрков Дмитрий Васильевич": 101
+      "gas:candidate-vibid:2292000789647": 8,
+      "gas:candidate-vibid:2292000786560": 55,
+      "gas:candidate-vibid:2292000788448": 3,
+      "gas:candidate-vibid:2292000787014": 37,
+      "gas:candidate-vibid:2292000777782": 42,
+      "gas:candidate-vibid:2292000788112": 6,
+      "gas:candidate-vibid:2292000790241": 4,
+      "gas:candidate-vibid:2292000789553": 6,
+      "gas:candidate-vibid:2292000789248": 101
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/arkhangelsk?action=show&root=1000091&tvd=2292000756628&vrn=100100067795849&region=29&global=&sub_region=29&prver=0&pronetvd=null&vibid=2292000756628&type=464",
@@ -6356,15 +6356,15 @@ export const duma_2016_uik_463_region_29_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Буторин Михаил Вениаминович": 9,
-      "Епифанова Ольга Николаевна": 18,
-      "Ерыкалов Вячеслав Борисович": 0,
-      "Новиков Александр Владимирович": 9,
-      "Пивков Сергей Анатольевич": 20,
-      "Русаков Юрий Михайлович": 9,
-      "Силантьев Михаил Сергеевич": 2,
-      "Чураков Андрей Анатольевич": 2,
-      "Юрков Дмитрий Васильевич": 117
+      "gas:candidate-vibid:2292000789647": 9,
+      "gas:candidate-vibid:2292000786560": 18,
+      "gas:candidate-vibid:2292000788448": 0,
+      "gas:candidate-vibid:2292000787014": 9,
+      "gas:candidate-vibid:2292000777782": 20,
+      "gas:candidate-vibid:2292000788112": 9,
+      "gas:candidate-vibid:2292000790241": 2,
+      "gas:candidate-vibid:2292000789553": 2,
+      "gas:candidate-vibid:2292000789248": 117
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/arkhangelsk?action=show&root=1000091&tvd=2292000756628&vrn=100100067795849&region=29&global=&sub_region=29&prver=0&pronetvd=null&vibid=2292000756628&type=464",
@@ -6415,15 +6415,15 @@ export const duma_2016_uik_463_region_29_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Буторин Михаил Вениаминович": 7,
-      "Епифанова Ольга Николаевна": 40,
-      "Ерыкалов Вячеслав Борисович": 3,
-      "Новиков Александр Владимирович": 12,
-      "Пивков Сергей Анатольевич": 20,
-      "Русаков Юрий Михайлович": 0,
-      "Силантьев Михаил Сергеевич": 1,
-      "Чураков Андрей Анатольевич": 3,
-      "Юрков Дмитрий Васильевич": 59
+      "gas:candidate-vibid:2292000789647": 7,
+      "gas:candidate-vibid:2292000786560": 40,
+      "gas:candidate-vibid:2292000788448": 3,
+      "gas:candidate-vibid:2292000787014": 12,
+      "gas:candidate-vibid:2292000777782": 20,
+      "gas:candidate-vibid:2292000788112": 0,
+      "gas:candidate-vibid:2292000790241": 1,
+      "gas:candidate-vibid:2292000789553": 3,
+      "gas:candidate-vibid:2292000789248": 59
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/arkhangelsk?action=show&root=1000091&tvd=2292000756628&vrn=100100067795849&region=29&global=&sub_region=29&prver=0&pronetvd=null&vibid=2292000756628&type=464",
@@ -6474,15 +6474,15 @@ export const duma_2016_uik_463_region_29_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Буторин Михаил Вениаминович": 3,
-      "Епифанова Ольга Николаевна": 22,
-      "Ерыкалов Вячеслав Борисович": 0,
-      "Новиков Александр Владимирович": 3,
-      "Пивков Сергей Анатольевич": 9,
-      "Русаков Юрий Михайлович": 0,
-      "Силантьев Михаил Сергеевич": 5,
-      "Чураков Андрей Анатольевич": 0,
-      "Юрков Дмитрий Васильевич": 13
+      "gas:candidate-vibid:2292000789647": 3,
+      "gas:candidate-vibid:2292000786560": 22,
+      "gas:candidate-vibid:2292000788448": 0,
+      "gas:candidate-vibid:2292000787014": 3,
+      "gas:candidate-vibid:2292000777782": 9,
+      "gas:candidate-vibid:2292000788112": 0,
+      "gas:candidate-vibid:2292000790241": 5,
+      "gas:candidate-vibid:2292000789553": 0,
+      "gas:candidate-vibid:2292000789248": 13
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/arkhangelsk?action=show&root=1000091&tvd=2292000756628&vrn=100100067795849&region=29&global=&sub_region=29&prver=0&pronetvd=null&vibid=2292000756628&type=464",
@@ -6533,15 +6533,15 @@ export const duma_2016_uik_463_region_29_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Буторин Михаил Вениаминович": 24,
-      "Епифанова Ольга Николаевна": 123,
-      "Ерыкалов Вячеслав Борисович": 12,
-      "Новиков Александр Владимирович": 53,
-      "Пивков Сергей Анатольевич": 195,
-      "Русаков Юрий Михайлович": 10,
-      "Силантьев Михаил Сергеевич": 7,
-      "Чураков Андрей Анатольевич": 13,
-      "Юрков Дмитрий Васильевич": 255
+      "gas:candidate-vibid:2292000789647": 24,
+      "gas:candidate-vibid:2292000786560": 123,
+      "gas:candidate-vibid:2292000788448": 12,
+      "gas:candidate-vibid:2292000787014": 53,
+      "gas:candidate-vibid:2292000777782": 195,
+      "gas:candidate-vibid:2292000788112": 10,
+      "gas:candidate-vibid:2292000790241": 7,
+      "gas:candidate-vibid:2292000789553": 13,
+      "gas:candidate-vibid:2292000789248": 255
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/arkhangelsk?action=show&root=1000091&tvd=2292000756628&vrn=100100067795849&region=29&global=&sub_region=29&prver=0&pronetvd=null&vibid=2292000756628&type=464",
@@ -6592,15 +6592,15 @@ export const duma_2016_uik_463_region_29_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Буторин Михаил Вениаминович": 3,
-      "Епифанова Ольга Николаевна": 28,
-      "Ерыкалов Вячеслав Борисович": 1,
-      "Новиков Александр Владимирович": 9,
-      "Пивков Сергей Анатольевич": 39,
-      "Русаков Юрий Михайлович": 1,
-      "Силантьев Михаил Сергеевич": 1,
-      "Чураков Андрей Анатольевич": 1,
-      "Юрков Дмитрий Васильевич": 51
+      "gas:candidate-vibid:2292000789647": 3,
+      "gas:candidate-vibid:2292000786560": 28,
+      "gas:candidate-vibid:2292000788448": 1,
+      "gas:candidate-vibid:2292000787014": 9,
+      "gas:candidate-vibid:2292000777782": 39,
+      "gas:candidate-vibid:2292000788112": 1,
+      "gas:candidate-vibid:2292000790241": 1,
+      "gas:candidate-vibid:2292000789553": 1,
+      "gas:candidate-vibid:2292000789248": 51
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/arkhangelsk?action=show&root=1000091&tvd=2292000756628&vrn=100100067795849&region=29&global=&sub_region=29&prver=0&pronetvd=null&vibid=2292000756628&type=464",
@@ -6651,15 +6651,15 @@ export const duma_2016_uik_463_region_29_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Буторин Михаил Вениаминович": 14,
-      "Епифанова Ольга Николаевна": 20,
-      "Ерыкалов Вячеслав Борисович": 5,
-      "Новиков Александр Владимирович": 20,
-      "Пивков Сергей Анатольевич": 30,
-      "Русаков Юрий Михайлович": 9,
-      "Силантьев Михаил Сергеевич": 6,
-      "Чураков Андрей Анатольевич": 1,
-      "Юрков Дмитрий Васильевич": 126
+      "gas:candidate-vibid:2292000789647": 14,
+      "gas:candidate-vibid:2292000786560": 20,
+      "gas:candidate-vibid:2292000788448": 5,
+      "gas:candidate-vibid:2292000787014": 20,
+      "gas:candidate-vibid:2292000777782": 30,
+      "gas:candidate-vibid:2292000788112": 9,
+      "gas:candidate-vibid:2292000790241": 6,
+      "gas:candidate-vibid:2292000789553": 1,
+      "gas:candidate-vibid:2292000789248": 126
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/arkhangelsk?action=show&root=1000091&tvd=2292000756628&vrn=100100067795849&region=29&global=&sub_region=29&prver=0&pronetvd=null&vibid=2292000756628&type=464",
@@ -6710,15 +6710,15 @@ export const duma_2016_uik_463_region_29_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Буторин Михаил Вениаминович": 7,
-      "Епифанова Ольга Николаевна": 106,
-      "Ерыкалов Вячеслав Борисович": 10,
-      "Новиков Александр Владимирович": 30,
-      "Пивков Сергей Анатольевич": 89,
-      "Русаков Юрий Михайлович": 4,
-      "Силантьев Михаил Сергеевич": 13,
-      "Чураков Андрей Анатольевич": 3,
-      "Юрков Дмитрий Васильевич": 120
+      "gas:candidate-vibid:2292000789647": 7,
+      "gas:candidate-vibid:2292000786560": 106,
+      "gas:candidate-vibid:2292000788448": 10,
+      "gas:candidate-vibid:2292000787014": 30,
+      "gas:candidate-vibid:2292000777782": 89,
+      "gas:candidate-vibid:2292000788112": 4,
+      "gas:candidate-vibid:2292000790241": 13,
+      "gas:candidate-vibid:2292000789553": 3,
+      "gas:candidate-vibid:2292000789248": 120
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/arkhangelsk?action=show&root=1000091&tvd=2292000756628&vrn=100100067795849&region=29&global=&sub_region=29&prver=0&pronetvd=null&vibid=2292000756628&type=464",
@@ -6769,15 +6769,15 @@ export const duma_2016_uik_463_region_29_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Буторин Михаил Вениаминович": 14,
-      "Епифанова Ольга Николаевна": 161,
-      "Ерыкалов Вячеслав Борисович": 2,
-      "Новиков Александр Владимирович": 61,
-      "Пивков Сергей Анатольевич": 116,
-      "Русаков Юрий Михайлович": 4,
-      "Силантьев Михаил Сергеевич": 10,
-      "Чураков Андрей Анатольевич": 6,
-      "Юрков Дмитрий Васильевич": 140
+      "gas:candidate-vibid:2292000789647": 14,
+      "gas:candidate-vibid:2292000786560": 161,
+      "gas:candidate-vibid:2292000788448": 2,
+      "gas:candidate-vibid:2292000787014": 61,
+      "gas:candidate-vibid:2292000777782": 116,
+      "gas:candidate-vibid:2292000788112": 4,
+      "gas:candidate-vibid:2292000790241": 10,
+      "gas:candidate-vibid:2292000789553": 6,
+      "gas:candidate-vibid:2292000789248": 140
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/arkhangelsk?action=show&root=1000091&tvd=2292000756628&vrn=100100067795849&region=29&global=&sub_region=29&prver=0&pronetvd=null&vibid=2292000756628&type=464",
@@ -6828,15 +6828,15 @@ export const duma_2016_uik_463_region_29_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Буторин Михаил Вениаминович": 6,
-      "Епифанова Ольга Николаевна": 118,
-      "Ерыкалов Вячеслав Борисович": 2,
-      "Новиков Александр Владимирович": 52,
-      "Пивков Сергей Анатольевич": 145,
-      "Русаков Юрий Михайлович": 2,
-      "Силантьев Михаил Сергеевич": 17,
-      "Чураков Андрей Анатольевич": 7,
-      "Юрков Дмитрий Васильевич": 160
+      "gas:candidate-vibid:2292000789647": 6,
+      "gas:candidate-vibid:2292000786560": 118,
+      "gas:candidate-vibid:2292000788448": 2,
+      "gas:candidate-vibid:2292000787014": 52,
+      "gas:candidate-vibid:2292000777782": 145,
+      "gas:candidate-vibid:2292000788112": 2,
+      "gas:candidate-vibid:2292000790241": 17,
+      "gas:candidate-vibid:2292000789553": 7,
+      "gas:candidate-vibid:2292000789248": 160
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/arkhangelsk?action=show&root=1000091&tvd=2292000756628&vrn=100100067795849&region=29&global=&sub_region=29&prver=0&pronetvd=null&vibid=2292000756628&type=464",
@@ -6887,15 +6887,15 @@ export const duma_2016_uik_463_region_29_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Буторин Михаил Вениаминович": 7,
-      "Епифанова Ольга Николаевна": 73,
-      "Ерыкалов Вячеслав Борисович": 4,
-      "Новиков Александр Владимирович": 32,
-      "Пивков Сергей Анатольевич": 97,
-      "Русаков Юрий Михайлович": 7,
-      "Силантьев Михаил Сергеевич": 3,
-      "Чураков Андрей Анатольевич": 3,
-      "Юрков Дмитрий Васильевич": 108
+      "gas:candidate-vibid:2292000789647": 7,
+      "gas:candidate-vibid:2292000786560": 73,
+      "gas:candidate-vibid:2292000788448": 4,
+      "gas:candidate-vibid:2292000787014": 32,
+      "gas:candidate-vibid:2292000777782": 97,
+      "gas:candidate-vibid:2292000788112": 7,
+      "gas:candidate-vibid:2292000790241": 3,
+      "gas:candidate-vibid:2292000789553": 3,
+      "gas:candidate-vibid:2292000789248": 108
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/arkhangelsk?action=show&root=1000091&tvd=2292000756628&vrn=100100067795849&region=29&global=&sub_region=29&prver=0&pronetvd=null&vibid=2292000756628&type=464",
@@ -6946,15 +6946,15 @@ export const duma_2016_uik_463_region_29_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Буторин Михаил Вениаминович": 10,
-      "Епифанова Ольга Николаевна": 128,
-      "Ерыкалов Вячеслав Борисович": 9,
-      "Новиков Александр Владимирович": 62,
-      "Пивков Сергей Анатольевич": 122,
-      "Русаков Юрий Михайлович": 5,
-      "Силантьев Михаил Сергеевич": 5,
-      "Чураков Андрей Анатольевич": 4,
-      "Юрков Дмитрий Васильевич": 129
+      "gas:candidate-vibid:2292000789647": 10,
+      "gas:candidate-vibid:2292000786560": 128,
+      "gas:candidate-vibid:2292000788448": 9,
+      "gas:candidate-vibid:2292000787014": 62,
+      "gas:candidate-vibid:2292000777782": 122,
+      "gas:candidate-vibid:2292000788112": 5,
+      "gas:candidate-vibid:2292000790241": 5,
+      "gas:candidate-vibid:2292000789553": 4,
+      "gas:candidate-vibid:2292000789248": 129
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/arkhangelsk?action=show&root=1000091&tvd=2292000756628&vrn=100100067795849&region=29&global=&sub_region=29&prver=0&pronetvd=null&vibid=2292000756628&type=464",
@@ -7005,15 +7005,15 @@ export const duma_2016_uik_463_region_29_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Буторин Михаил Вениаминович": 7,
-      "Епифанова Ольга Николаевна": 96,
-      "Ерыкалов Вячеслав Борисович": 2,
-      "Новиков Александр Владимирович": 26,
-      "Пивков Сергей Анатольевич": 94,
-      "Русаков Юрий Михайлович": 4,
-      "Силантьев Михаил Сергеевич": 6,
-      "Чураков Андрей Анатольевич": 7,
-      "Юрков Дмитрий Васильевич": 104
+      "gas:candidate-vibid:2292000789647": 7,
+      "gas:candidate-vibid:2292000786560": 96,
+      "gas:candidate-vibid:2292000788448": 2,
+      "gas:candidate-vibid:2292000787014": 26,
+      "gas:candidate-vibid:2292000777782": 94,
+      "gas:candidate-vibid:2292000788112": 4,
+      "gas:candidate-vibid:2292000790241": 6,
+      "gas:candidate-vibid:2292000789553": 7,
+      "gas:candidate-vibid:2292000789248": 104
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/arkhangelsk?action=show&root=1000091&tvd=2292000756628&vrn=100100067795849&region=29&global=&sub_region=29&prver=0&pronetvd=null&vibid=2292000756628&type=464",
@@ -7064,15 +7064,15 @@ export const duma_2016_uik_463_region_29_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Буторин Михаил Вениаминович": 5,
-      "Епифанова Ольга Николаевна": 99,
-      "Ерыкалов Вячеслав Борисович": 0,
-      "Новиков Александр Владимирович": 21,
-      "Пивков Сергей Анатольевич": 131,
-      "Русаков Юрий Михайлович": 3,
-      "Силантьев Михаил Сергеевич": 3,
-      "Чураков Андрей Анатольевич": 5,
-      "Юрков Дмитрий Васильевич": 210
+      "gas:candidate-vibid:2292000789647": 5,
+      "gas:candidate-vibid:2292000786560": 99,
+      "gas:candidate-vibid:2292000788448": 0,
+      "gas:candidate-vibid:2292000787014": 21,
+      "gas:candidate-vibid:2292000777782": 131,
+      "gas:candidate-vibid:2292000788112": 3,
+      "gas:candidate-vibid:2292000790241": 3,
+      "gas:candidate-vibid:2292000789553": 5,
+      "gas:candidate-vibid:2292000789248": 210
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/arkhangelsk?action=show&root=1000091&tvd=2292000756628&vrn=100100067795849&region=29&global=&sub_region=29&prver=0&pronetvd=null&vibid=2292000756628&type=464",
@@ -7123,15 +7123,15 @@ export const duma_2016_uik_463_region_29_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Буторин Михаил Вениаминович": 9,
-      "Епифанова Ольга Николаевна": 50,
-      "Ерыкалов Вячеслав Борисович": 4,
-      "Новиков Александр Владимирович": 9,
-      "Пивков Сергей Анатольевич": 49,
-      "Русаков Юрий Михайлович": 6,
-      "Силантьев Михаил Сергеевич": 3,
-      "Чураков Андрей Анатольевич": 2,
-      "Юрков Дмитрий Васильевич": 58
+      "gas:candidate-vibid:2292000789647": 9,
+      "gas:candidate-vibid:2292000786560": 50,
+      "gas:candidate-vibid:2292000788448": 4,
+      "gas:candidate-vibid:2292000787014": 9,
+      "gas:candidate-vibid:2292000777782": 49,
+      "gas:candidate-vibid:2292000788112": 6,
+      "gas:candidate-vibid:2292000790241": 3,
+      "gas:candidate-vibid:2292000789553": 2,
+      "gas:candidate-vibid:2292000789248": 58
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/arkhangelsk?action=show&root=1000091&tvd=2292000756628&vrn=100100067795849&region=29&global=&sub_region=29&prver=0&pronetvd=null&vibid=2292000756628&type=464",
@@ -7182,15 +7182,15 @@ export const duma_2016_uik_463_region_29_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Буторин Михаил Вениаминович": 5,
-      "Епифанова Ольга Николаевна": 46,
-      "Ерыкалов Вячеслав Борисович": 4,
-      "Новиков Александр Владимирович": 9,
-      "Пивков Сергей Анатольевич": 30,
-      "Русаков Юрий Михайлович": 4,
-      "Силантьев Михаил Сергеевич": 7,
-      "Чураков Андрей Анатольевич": 3,
-      "Юрков Дмитрий Васильевич": 47
+      "gas:candidate-vibid:2292000789647": 5,
+      "gas:candidate-vibid:2292000786560": 46,
+      "gas:candidate-vibid:2292000788448": 4,
+      "gas:candidate-vibid:2292000787014": 9,
+      "gas:candidate-vibid:2292000777782": 30,
+      "gas:candidate-vibid:2292000788112": 4,
+      "gas:candidate-vibid:2292000790241": 7,
+      "gas:candidate-vibid:2292000789553": 3,
+      "gas:candidate-vibid:2292000789248": 47
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/arkhangelsk?action=show&root=1000091&tvd=2292000756628&vrn=100100067795849&region=29&global=&sub_region=29&prver=0&pronetvd=null&vibid=2292000756628&type=464",
@@ -7241,15 +7241,15 @@ export const duma_2016_uik_463_region_29_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Буторин Михаил Вениаминович": 1,
-      "Епифанова Ольга Николаевна": 9,
-      "Ерыкалов Вячеслав Борисович": 2,
-      "Новиков Александр Владимирович": 3,
-      "Пивков Сергей Анатольевич": 8,
-      "Русаков Юрий Михайлович": 0,
-      "Силантьев Михаил Сергеевич": 2,
-      "Чураков Андрей Анатольевич": 1,
-      "Юрков Дмитрий Васильевич": 44
+      "gas:candidate-vibid:2292000789647": 1,
+      "gas:candidate-vibid:2292000786560": 9,
+      "gas:candidate-vibid:2292000788448": 2,
+      "gas:candidate-vibid:2292000787014": 3,
+      "gas:candidate-vibid:2292000777782": 8,
+      "gas:candidate-vibid:2292000788112": 0,
+      "gas:candidate-vibid:2292000790241": 2,
+      "gas:candidate-vibid:2292000789553": 1,
+      "gas:candidate-vibid:2292000789248": 44
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/arkhangelsk?action=show&root=1000091&tvd=2292000756628&vrn=100100067795849&region=29&global=&sub_region=29&prver=0&pronetvd=null&vibid=2292000756628&type=464",
@@ -7300,15 +7300,15 @@ export const duma_2016_uik_463_region_29_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Буторин Михаил Вениаминович": 6,
-      "Епифанова Ольга Николаевна": 17,
-      "Ерыкалов Вячеслав Борисович": 3,
-      "Новиков Александр Владимирович": 15,
-      "Пивков Сергей Анатольевич": 11,
-      "Русаков Юрий Михайлович": 7,
-      "Силантьев Михаил Сергеевич": 1,
-      "Чураков Андрей Анатольевич": 0,
-      "Юрков Дмитрий Васильевич": 80
+      "gas:candidate-vibid:2292000789647": 6,
+      "gas:candidate-vibid:2292000786560": 17,
+      "gas:candidate-vibid:2292000788448": 3,
+      "gas:candidate-vibid:2292000787014": 15,
+      "gas:candidate-vibid:2292000777782": 11,
+      "gas:candidate-vibid:2292000788112": 7,
+      "gas:candidate-vibid:2292000790241": 1,
+      "gas:candidate-vibid:2292000789553": 0,
+      "gas:candidate-vibid:2292000789248": 80
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/arkhangelsk?action=show&root=1000091&tvd=2292000756628&vrn=100100067795849&region=29&global=&sub_region=29&prver=0&pronetvd=null&vibid=2292000756628&type=464",
@@ -7359,15 +7359,15 @@ export const duma_2016_uik_463_region_29_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Буторин Михаил Вениаминович": 7,
-      "Епифанова Ольга Николаевна": 34,
-      "Ерыкалов Вячеслав Борисович": 3,
-      "Новиков Александр Владимирович": 7,
-      "Пивков Сергей Анатольевич": 29,
-      "Русаков Юрий Михайлович": 1,
-      "Силантьев Михаил Сергеевич": 4,
-      "Чураков Андрей Анатольевич": 3,
-      "Юрков Дмитрий Васильевич": 55
+      "gas:candidate-vibid:2292000789647": 7,
+      "gas:candidate-vibid:2292000786560": 34,
+      "gas:candidate-vibid:2292000788448": 3,
+      "gas:candidate-vibid:2292000787014": 7,
+      "gas:candidate-vibid:2292000777782": 29,
+      "gas:candidate-vibid:2292000788112": 1,
+      "gas:candidate-vibid:2292000790241": 4,
+      "gas:candidate-vibid:2292000789553": 3,
+      "gas:candidate-vibid:2292000789248": 55
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/arkhangelsk?action=show&root=1000091&tvd=2292000756628&vrn=100100067795849&region=29&global=&sub_region=29&prver=0&pronetvd=null&vibid=2292000756628&type=464",
@@ -7418,15 +7418,15 @@ export const duma_2016_uik_463_region_29_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Буторин Михаил Вениаминович": 0,
-      "Епифанова Ольга Николаевна": 6,
-      "Ерыкалов Вячеслав Борисович": 1,
-      "Новиков Александр Владимирович": 10,
-      "Пивков Сергей Анатольевич": 8,
-      "Русаков Юрий Михайлович": 3,
-      "Силантьев Михаил Сергеевич": 1,
-      "Чураков Андрей Анатольевич": 0,
-      "Юрков Дмитрий Васильевич": 9
+      "gas:candidate-vibid:2292000789647": 0,
+      "gas:candidate-vibid:2292000786560": 6,
+      "gas:candidate-vibid:2292000788448": 1,
+      "gas:candidate-vibid:2292000787014": 10,
+      "gas:candidate-vibid:2292000777782": 8,
+      "gas:candidate-vibid:2292000788112": 3,
+      "gas:candidate-vibid:2292000790241": 1,
+      "gas:candidate-vibid:2292000789553": 0,
+      "gas:candidate-vibid:2292000789248": 9
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/arkhangelsk?action=show&root=1000091&tvd=2292000756628&vrn=100100067795849&region=29&global=&sub_region=29&prver=0&pronetvd=null&vibid=2292000756628&type=464",
@@ -7477,15 +7477,15 @@ export const duma_2016_uik_463_region_29_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Буторин Михаил Вениаминович": 0,
-      "Епифанова Ольга Николаевна": 16,
-      "Ерыкалов Вячеслав Борисович": 2,
-      "Новиков Александр Владимирович": 10,
-      "Пивков Сергей Анатольевич": 6,
-      "Русаков Юрий Михайлович": 3,
-      "Силантьев Михаил Сергеевич": 1,
-      "Чураков Андрей Анатольевич": 0,
-      "Юрков Дмитрий Васильевич": 31
+      "gas:candidate-vibid:2292000789647": 0,
+      "gas:candidate-vibid:2292000786560": 16,
+      "gas:candidate-vibid:2292000788448": 2,
+      "gas:candidate-vibid:2292000787014": 10,
+      "gas:candidate-vibid:2292000777782": 6,
+      "gas:candidate-vibid:2292000788112": 3,
+      "gas:candidate-vibid:2292000790241": 1,
+      "gas:candidate-vibid:2292000789553": 0,
+      "gas:candidate-vibid:2292000789248": 31
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/arkhangelsk?action=show&root=1000091&tvd=2292000756628&vrn=100100067795849&region=29&global=&sub_region=29&prver=0&pronetvd=null&vibid=2292000756628&type=464",
@@ -7536,15 +7536,15 @@ export const duma_2016_uik_463_region_29_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Буторин Михаил Вениаминович": 4,
-      "Епифанова Ольга Николаевна": 6,
-      "Ерыкалов Вячеслав Борисович": 1,
-      "Новиков Александр Владимирович": 6,
-      "Пивков Сергей Анатольевич": 5,
-      "Русаков Юрий Михайлович": 0,
-      "Силантьев Михаил Сергеевич": 0,
-      "Чураков Андрей Анатольевич": 3,
-      "Юрков Дмитрий Васильевич": 21
+      "gas:candidate-vibid:2292000789647": 4,
+      "gas:candidate-vibid:2292000786560": 6,
+      "gas:candidate-vibid:2292000788448": 1,
+      "gas:candidate-vibid:2292000787014": 6,
+      "gas:candidate-vibid:2292000777782": 5,
+      "gas:candidate-vibid:2292000788112": 0,
+      "gas:candidate-vibid:2292000790241": 0,
+      "gas:candidate-vibid:2292000789553": 3,
+      "gas:candidate-vibid:2292000789248": 21
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/arkhangelsk?action=show&root=1000091&tvd=2292000756628&vrn=100100067795849&region=29&global=&sub_region=29&prver=0&pronetvd=null&vibid=2292000756628&type=464",
@@ -7595,15 +7595,15 @@ export const duma_2016_uik_463_region_29_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Буторин Михаил Вениаминович": 6,
-      "Епифанова Ольга Николаевна": 92,
-      "Ерыкалов Вячеслав Борисович": 5,
-      "Новиков Александр Владимирович": 53,
-      "Пивков Сергей Анатольевич": 65,
-      "Русаков Юрий Михайлович": 6,
-      "Силантьев Михаил Сергеевич": 6,
-      "Чураков Андрей Анатольевич": 7,
-      "Юрков Дмитрий Васильевич": 182
+      "gas:candidate-vibid:2292000789647": 6,
+      "gas:candidate-vibid:2292000786560": 92,
+      "gas:candidate-vibid:2292000788448": 5,
+      "gas:candidate-vibid:2292000787014": 53,
+      "gas:candidate-vibid:2292000777782": 65,
+      "gas:candidate-vibid:2292000788112": 6,
+      "gas:candidate-vibid:2292000790241": 6,
+      "gas:candidate-vibid:2292000789553": 7,
+      "gas:candidate-vibid:2292000789248": 182
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/arkhangelsk?action=show&root=1000091&tvd=2292000756628&vrn=100100067795849&region=29&global=&sub_region=29&prver=0&pronetvd=null&vibid=2292000756628&type=464",
@@ -7654,15 +7654,15 @@ export const duma_2016_uik_463_region_29_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Буторин Михаил Вениаминович": 17,
-      "Епифанова Ольга Николаевна": 66,
-      "Ерыкалов Вячеслав Борисович": 5,
-      "Новиков Александр Владимирович": 54,
-      "Пивков Сергей Анатольевич": 85,
-      "Русаков Юрий Михайлович": 9,
-      "Силантьев Михаил Сергеевич": 6,
-      "Чураков Андрей Анатольевич": 5,
-      "Юрков Дмитрий Васильевич": 212
+      "gas:candidate-vibid:2292000789647": 17,
+      "gas:candidate-vibid:2292000786560": 66,
+      "gas:candidate-vibid:2292000788448": 5,
+      "gas:candidate-vibid:2292000787014": 54,
+      "gas:candidate-vibid:2292000777782": 85,
+      "gas:candidate-vibid:2292000788112": 9,
+      "gas:candidate-vibid:2292000790241": 6,
+      "gas:candidate-vibid:2292000789553": 5,
+      "gas:candidate-vibid:2292000789248": 212
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/arkhangelsk?action=show&root=1000091&tvd=2292000756628&vrn=100100067795849&region=29&global=&sub_region=29&prver=0&pronetvd=null&vibid=2292000756628&type=464",
@@ -7713,15 +7713,15 @@ export const duma_2016_uik_463_region_29_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Буторин Михаил Вениаминович": 8,
-      "Епифанова Ольга Николаевна": 15,
-      "Ерыкалов Вячеслав Борисович": 2,
-      "Новиков Александр Владимирович": 7,
-      "Пивков Сергей Анатольевич": 1,
-      "Русаков Юрий Михайлович": 1,
-      "Силантьев Михаил Сергеевич": 2,
-      "Чураков Андрей Анатольевич": 1,
-      "Юрков Дмитрий Васильевич": 50
+      "gas:candidate-vibid:2292000789647": 8,
+      "gas:candidate-vibid:2292000786560": 15,
+      "gas:candidate-vibid:2292000788448": 2,
+      "gas:candidate-vibid:2292000787014": 7,
+      "gas:candidate-vibid:2292000777782": 1,
+      "gas:candidate-vibid:2292000788112": 1,
+      "gas:candidate-vibid:2292000790241": 2,
+      "gas:candidate-vibid:2292000789553": 1,
+      "gas:candidate-vibid:2292000789248": 50
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/arkhangelsk?action=show&root=1000091&tvd=2292000756628&vrn=100100067795849&region=29&global=&sub_region=29&prver=0&pronetvd=null&vibid=2292000756628&type=464",
@@ -7772,15 +7772,15 @@ export const duma_2016_uik_463_region_29_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Буторин Михаил Вениаминович": 2,
-      "Епифанова Ольга Николаевна": 16,
-      "Ерыкалов Вячеслав Борисович": 0,
-      "Новиков Александр Владимирович": 5,
-      "Пивков Сергей Анатольевич": 17,
-      "Русаков Юрий Михайлович": 2,
-      "Силантьев Михаил Сергеевич": 2,
-      "Чураков Андрей Анатольевич": 1,
-      "Юрков Дмитрий Васильевич": 29
+      "gas:candidate-vibid:2292000789647": 2,
+      "gas:candidate-vibid:2292000786560": 16,
+      "gas:candidate-vibid:2292000788448": 0,
+      "gas:candidate-vibid:2292000787014": 5,
+      "gas:candidate-vibid:2292000777782": 17,
+      "gas:candidate-vibid:2292000788112": 2,
+      "gas:candidate-vibid:2292000790241": 2,
+      "gas:candidate-vibid:2292000789553": 1,
+      "gas:candidate-vibid:2292000789248": 29
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/arkhangelsk?action=show&root=1000091&tvd=2292000756628&vrn=100100067795849&region=29&global=&sub_region=29&prver=0&pronetvd=null&vibid=2292000756628&type=464",
@@ -7831,15 +7831,15 @@ export const duma_2016_uik_463_region_29_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Буторин Михаил Вениаминович": 0,
-      "Епифанова Ольга Николаевна": 8,
-      "Ерыкалов Вячеслав Борисович": 2,
-      "Новиков Александр Владимирович": 1,
-      "Пивков Сергей Анатольевич": 1,
-      "Русаков Юрий Михайлович": 0,
-      "Силантьев Михаил Сергеевич": 0,
-      "Чураков Андрей Анатольевич": 0,
-      "Юрков Дмитрий Васильевич": 24
+      "gas:candidate-vibid:2292000789647": 0,
+      "gas:candidate-vibid:2292000786560": 8,
+      "gas:candidate-vibid:2292000788448": 2,
+      "gas:candidate-vibid:2292000787014": 1,
+      "gas:candidate-vibid:2292000777782": 1,
+      "gas:candidate-vibid:2292000788112": 0,
+      "gas:candidate-vibid:2292000790241": 0,
+      "gas:candidate-vibid:2292000789553": 0,
+      "gas:candidate-vibid:2292000789248": 24
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/arkhangelsk?action=show&root=1000091&tvd=2292000756628&vrn=100100067795849&region=29&global=&sub_region=29&prver=0&pronetvd=null&vibid=2292000756628&type=464",
@@ -7890,15 +7890,15 @@ export const duma_2016_uik_463_region_29_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Буторин Михаил Вениаминович": 2,
-      "Епифанова Ольга Николаевна": 7,
-      "Ерыкалов Вячеслав Борисович": 3,
-      "Новиков Александр Владимирович": 5,
-      "Пивков Сергей Анатольевич": 11,
-      "Русаков Юрий Михайлович": 3,
-      "Силантьев Михаил Сергеевич": 5,
-      "Чураков Андрей Анатольевич": 0,
-      "Юрков Дмитрий Васильевич": 50
+      "gas:candidate-vibid:2292000789647": 2,
+      "gas:candidate-vibid:2292000786560": 7,
+      "gas:candidate-vibid:2292000788448": 3,
+      "gas:candidate-vibid:2292000787014": 5,
+      "gas:candidate-vibid:2292000777782": 11,
+      "gas:candidate-vibid:2292000788112": 3,
+      "gas:candidate-vibid:2292000790241": 5,
+      "gas:candidate-vibid:2292000789553": 0,
+      "gas:candidate-vibid:2292000789248": 50
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/arkhangelsk?action=show&root=1000091&tvd=2292000756628&vrn=100100067795849&region=29&global=&sub_region=29&prver=0&pronetvd=null&vibid=2292000756628&type=464",
@@ -7949,15 +7949,15 @@ export const duma_2016_uik_463_region_29_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Буторин Михаил Вениаминович": 4,
-      "Епифанова Ольга Николаевна": 37,
-      "Ерыкалов Вячеслав Борисович": 2,
-      "Новиков Александр Владимирович": 8,
-      "Пивков Сергей Анатольевич": 22,
-      "Русаков Юрий Михайлович": 3,
-      "Силантьев Михаил Сергеевич": 1,
-      "Чураков Андрей Анатольевич": 5,
-      "Юрков Дмитрий Васильевич": 88
+      "gas:candidate-vibid:2292000789647": 4,
+      "gas:candidate-vibid:2292000786560": 37,
+      "gas:candidate-vibid:2292000788448": 2,
+      "gas:candidate-vibid:2292000787014": 8,
+      "gas:candidate-vibid:2292000777782": 22,
+      "gas:candidate-vibid:2292000788112": 3,
+      "gas:candidate-vibid:2292000790241": 1,
+      "gas:candidate-vibid:2292000789553": 5,
+      "gas:candidate-vibid:2292000789248": 88
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/arkhangelsk?action=show&root=1000091&tvd=2292000756628&vrn=100100067795849&region=29&global=&sub_region=29&prver=0&pronetvd=null&vibid=2292000756628&type=464",
@@ -8008,15 +8008,15 @@ export const duma_2016_uik_463_region_29_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Буторин Михаил Вениаминович": 6,
-      "Епифанова Ольга Николаевна": 56,
-      "Ерыкалов Вячеслав Борисович": 2,
-      "Новиков Александр Владимирович": 22,
-      "Пивков Сергей Анатольевич": 32,
-      "Русаков Юрий Михайлович": 5,
-      "Силантьев Михаил Сергеевич": 6,
-      "Чураков Андрей Анатольевич": 3,
-      "Юрков Дмитрий Васильевич": 106
+      "gas:candidate-vibid:2292000789647": 6,
+      "gas:candidate-vibid:2292000786560": 56,
+      "gas:candidate-vibid:2292000788448": 2,
+      "gas:candidate-vibid:2292000787014": 22,
+      "gas:candidate-vibid:2292000777782": 32,
+      "gas:candidate-vibid:2292000788112": 5,
+      "gas:candidate-vibid:2292000790241": 6,
+      "gas:candidate-vibid:2292000789553": 3,
+      "gas:candidate-vibid:2292000789248": 106
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/arkhangelsk?action=show&root=1000091&tvd=2292000756628&vrn=100100067795849&region=29&global=&sub_region=29&prver=0&pronetvd=null&vibid=2292000756628&type=464",
@@ -8067,15 +8067,15 @@ export const duma_2016_uik_463_region_29_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Буторин Михаил Вениаминович": 1,
-      "Епифанова Ольга Николаевна": 23,
-      "Ерыкалов Вячеслав Борисович": 1,
-      "Новиков Александр Владимирович": 6,
-      "Пивков Сергей Анатольевич": 11,
-      "Русаков Юрий Михайлович": 0,
-      "Силантьев Михаил Сергеевич": 0,
-      "Чураков Андрей Анатольевич": 2,
-      "Юрков Дмитрий Васильевич": 26
+      "gas:candidate-vibid:2292000789647": 1,
+      "gas:candidate-vibid:2292000786560": 23,
+      "gas:candidate-vibid:2292000788448": 1,
+      "gas:candidate-vibid:2292000787014": 6,
+      "gas:candidate-vibid:2292000777782": 11,
+      "gas:candidate-vibid:2292000788112": 0,
+      "gas:candidate-vibid:2292000790241": 0,
+      "gas:candidate-vibid:2292000789553": 2,
+      "gas:candidate-vibid:2292000789248": 26
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/arkhangelsk?action=show&root=1000091&tvd=2292000756628&vrn=100100067795849&region=29&global=&sub_region=29&prver=0&pronetvd=null&vibid=2292000756628&type=464",
@@ -8126,15 +8126,15 @@ export const duma_2016_uik_463_region_29_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Буторин Михаил Вениаминович": 8,
-      "Епифанова Ольга Николаевна": 15,
-      "Ерыкалов Вячеслав Борисович": 2,
-      "Новиков Александр Владимирович": 12,
-      "Пивков Сергей Анатольевич": 18,
-      "Русаков Юрий Михайлович": 2,
-      "Силантьев Михаил Сергеевич": 5,
-      "Чураков Андрей Анатольевич": 4,
-      "Юрков Дмитрий Васильевич": 53
+      "gas:candidate-vibid:2292000789647": 8,
+      "gas:candidate-vibid:2292000786560": 15,
+      "gas:candidate-vibid:2292000788448": 2,
+      "gas:candidate-vibid:2292000787014": 12,
+      "gas:candidate-vibid:2292000777782": 18,
+      "gas:candidate-vibid:2292000788112": 2,
+      "gas:candidate-vibid:2292000790241": 5,
+      "gas:candidate-vibid:2292000789553": 4,
+      "gas:candidate-vibid:2292000789248": 53
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/arkhangelsk?action=show&root=1000091&tvd=2292000756629&vrn=100100067795849&region=29&global=&sub_region=29&prver=0&pronetvd=null&vibid=2292000756629&type=464",
@@ -8185,15 +8185,15 @@ export const duma_2016_uik_463_region_29_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Буторин Михаил Вениаминович": 18,
-      "Епифанова Ольга Николаевна": 138,
-      "Ерыкалов Вячеслав Борисович": 5,
-      "Новиков Александр Владимирович": 79,
-      "Пивков Сергей Анатольевич": 74,
-      "Русаков Юрий Михайлович": 6,
-      "Силантьев Михаил Сергеевич": 11,
-      "Чураков Андрей Анатольевич": 4,
-      "Юрков Дмитрий Васильевич": 231
+      "gas:candidate-vibid:2292000789647": 18,
+      "gas:candidate-vibid:2292000786560": 138,
+      "gas:candidate-vibid:2292000788448": 5,
+      "gas:candidate-vibid:2292000787014": 79,
+      "gas:candidate-vibid:2292000777782": 74,
+      "gas:candidate-vibid:2292000788112": 6,
+      "gas:candidate-vibid:2292000790241": 11,
+      "gas:candidate-vibid:2292000789553": 4,
+      "gas:candidate-vibid:2292000789248": 231
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/arkhangelsk?action=show&root=1000091&tvd=2292000756629&vrn=100100067795849&region=29&global=&sub_region=29&prver=0&pronetvd=null&vibid=2292000756629&type=464",
@@ -8244,15 +8244,15 @@ export const duma_2016_uik_463_region_29_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Буторин Михаил Вениаминович": 26,
-      "Епифанова Ольга Николаевна": 106,
-      "Ерыкалов Вячеслав Борисович": 4,
-      "Новиков Александр Владимирович": 57,
-      "Пивков Сергей Анатольевич": 42,
-      "Русаков Юрий Михайлович": 5,
-      "Силантьев Михаил Сергеевич": 7,
-      "Чураков Андрей Анатольевич": 2,
-      "Юрков Дмитрий Васильевич": 142
+      "gas:candidate-vibid:2292000789647": 26,
+      "gas:candidate-vibid:2292000786560": 106,
+      "gas:candidate-vibid:2292000788448": 4,
+      "gas:candidate-vibid:2292000787014": 57,
+      "gas:candidate-vibid:2292000777782": 42,
+      "gas:candidate-vibid:2292000788112": 5,
+      "gas:candidate-vibid:2292000790241": 7,
+      "gas:candidate-vibid:2292000789553": 2,
+      "gas:candidate-vibid:2292000789248": 142
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/arkhangelsk?action=show&root=1000091&tvd=2292000756629&vrn=100100067795849&region=29&global=&sub_region=29&prver=0&pronetvd=null&vibid=2292000756629&type=464",
@@ -8303,15 +8303,15 @@ export const duma_2016_uik_463_region_29_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Буторин Михаил Вениаминович": 16,
-      "Епифанова Ольга Николаевна": 132,
-      "Ерыкалов Вячеслав Борисович": 5,
-      "Новиков Александр Владимирович": 79,
-      "Пивков Сергей Анатольевич": 64,
-      "Русаков Юрий Михайлович": 6,
-      "Силантьев Михаил Сергеевич": 7,
-      "Чураков Андрей Анатольевич": 7,
-      "Юрков Дмитрий Васильевич": 191
+      "gas:candidate-vibid:2292000789647": 16,
+      "gas:candidate-vibid:2292000786560": 132,
+      "gas:candidate-vibid:2292000788448": 5,
+      "gas:candidate-vibid:2292000787014": 79,
+      "gas:candidate-vibid:2292000777782": 64,
+      "gas:candidate-vibid:2292000788112": 6,
+      "gas:candidate-vibid:2292000790241": 7,
+      "gas:candidate-vibid:2292000789553": 7,
+      "gas:candidate-vibid:2292000789248": 191
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/arkhangelsk?action=show&root=1000091&tvd=2292000756629&vrn=100100067795849&region=29&global=&sub_region=29&prver=0&pronetvd=null&vibid=2292000756629&type=464",
@@ -8362,15 +8362,15 @@ export const duma_2016_uik_463_region_29_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Буторин Михаил Вениаминович": 24,
-      "Епифанова Ольга Николаевна": 167,
-      "Ерыкалов Вячеслав Борисович": 4,
-      "Новиков Александр Владимирович": 97,
-      "Пивков Сергей Анатольевич": 83,
-      "Русаков Юрий Михайлович": 11,
-      "Силантьев Михаил Сергеевич": 13,
-      "Чураков Андрей Анатольевич": 11,
-      "Юрков Дмитрий Васильевич": 258
+      "gas:candidate-vibid:2292000789647": 24,
+      "gas:candidate-vibid:2292000786560": 167,
+      "gas:candidate-vibid:2292000788448": 4,
+      "gas:candidate-vibid:2292000787014": 97,
+      "gas:candidate-vibid:2292000777782": 83,
+      "gas:candidate-vibid:2292000788112": 11,
+      "gas:candidate-vibid:2292000790241": 13,
+      "gas:candidate-vibid:2292000789553": 11,
+      "gas:candidate-vibid:2292000789248": 258
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/arkhangelsk?action=show&root=1000091&tvd=2292000756629&vrn=100100067795849&region=29&global=&sub_region=29&prver=0&pronetvd=null&vibid=2292000756629&type=464",
@@ -8421,15 +8421,15 @@ export const duma_2016_uik_463_region_29_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Буторин Михаил Вениаминович": 18,
-      "Епифанова Ольга Николаевна": 97,
-      "Ерыкалов Вячеслав Борисович": 3,
-      "Новиков Александр Владимирович": 68,
-      "Пивков Сергей Анатольевич": 58,
-      "Русаков Юрий Михайлович": 7,
-      "Силантьев Михаил Сергеевич": 10,
-      "Чураков Андрей Анатольевич": 3,
-      "Юрков Дмитрий Васильевич": 143
+      "gas:candidate-vibid:2292000789647": 18,
+      "gas:candidate-vibid:2292000786560": 97,
+      "gas:candidate-vibid:2292000788448": 3,
+      "gas:candidate-vibid:2292000787014": 68,
+      "gas:candidate-vibid:2292000777782": 58,
+      "gas:candidate-vibid:2292000788112": 7,
+      "gas:candidate-vibid:2292000790241": 10,
+      "gas:candidate-vibid:2292000789553": 3,
+      "gas:candidate-vibid:2292000789248": 143
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/arkhangelsk?action=show&root=1000091&tvd=2292000756629&vrn=100100067795849&region=29&global=&sub_region=29&prver=0&pronetvd=null&vibid=2292000756629&type=464",
@@ -8480,15 +8480,15 @@ export const duma_2016_uik_463_region_29_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Буторин Михаил Вениаминович": 4,
-      "Епифанова Ольга Николаевна": 64,
-      "Ерыкалов Вячеслав Борисович": 3,
-      "Новиков Александр Владимирович": 20,
-      "Пивков Сергей Анатольевич": 17,
-      "Русаков Юрий Михайлович": 3,
-      "Силантьев Михаил Сергеевич": 2,
-      "Чураков Андрей Анатольевич": 1,
-      "Юрков Дмитрий Васильевич": 77
+      "gas:candidate-vibid:2292000789647": 4,
+      "gas:candidate-vibid:2292000786560": 64,
+      "gas:candidate-vibid:2292000788448": 3,
+      "gas:candidate-vibid:2292000787014": 20,
+      "gas:candidate-vibid:2292000777782": 17,
+      "gas:candidate-vibid:2292000788112": 3,
+      "gas:candidate-vibid:2292000790241": 2,
+      "gas:candidate-vibid:2292000789553": 1,
+      "gas:candidate-vibid:2292000789248": 77
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/arkhangelsk?action=show&root=1000091&tvd=2292000756629&vrn=100100067795849&region=29&global=&sub_region=29&prver=0&pronetvd=null&vibid=2292000756629&type=464",
@@ -8539,15 +8539,15 @@ export const duma_2016_uik_463_region_29_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Буторин Михаил Вениаминович": 11,
-      "Епифанова Ольга Николаевна": 86,
-      "Ерыкалов Вячеслав Борисович": 3,
-      "Новиков Александр Владимирович": 34,
-      "Пивков Сергей Анатольевич": 50,
-      "Русаков Юрий Михайлович": 14,
-      "Силантьев Михаил Сергеевич": 5,
-      "Чураков Андрей Анатольевич": 6,
-      "Юрков Дмитрий Васильевич": 156
+      "gas:candidate-vibid:2292000789647": 11,
+      "gas:candidate-vibid:2292000786560": 86,
+      "gas:candidate-vibid:2292000788448": 3,
+      "gas:candidate-vibid:2292000787014": 34,
+      "gas:candidate-vibid:2292000777782": 50,
+      "gas:candidate-vibid:2292000788112": 14,
+      "gas:candidate-vibid:2292000790241": 5,
+      "gas:candidate-vibid:2292000789553": 6,
+      "gas:candidate-vibid:2292000789248": 156
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/arkhangelsk?action=show&root=1000091&tvd=2292000756629&vrn=100100067795849&region=29&global=&sub_region=29&prver=0&pronetvd=null&vibid=2292000756629&type=464",
@@ -8598,15 +8598,15 @@ export const duma_2016_uik_463_region_29_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Буторин Михаил Вениаминович": 6,
-      "Епифанова Ольга Николаевна": 38,
-      "Ерыкалов Вячеслав Борисович": 3,
-      "Новиков Александр Владимирович": 23,
-      "Пивков Сергей Анатольевич": 21,
-      "Русаков Юрий Михайлович": 5,
-      "Силантьев Михаил Сергеевич": 3,
-      "Чураков Андрей Анатольевич": 1,
-      "Юрков Дмитрий Васильевич": 73
+      "gas:candidate-vibid:2292000789647": 6,
+      "gas:candidate-vibid:2292000786560": 38,
+      "gas:candidate-vibid:2292000788448": 3,
+      "gas:candidate-vibid:2292000787014": 23,
+      "gas:candidate-vibid:2292000777782": 21,
+      "gas:candidate-vibid:2292000788112": 5,
+      "gas:candidate-vibid:2292000790241": 3,
+      "gas:candidate-vibid:2292000789553": 1,
+      "gas:candidate-vibid:2292000789248": 73
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/arkhangelsk?action=show&root=1000091&tvd=2292000756629&vrn=100100067795849&region=29&global=&sub_region=29&prver=0&pronetvd=null&vibid=2292000756629&type=464",
@@ -8657,15 +8657,15 @@ export const duma_2016_uik_463_region_29_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Буторин Михаил Вениаминович": 1,
-      "Епифанова Ольга Николаевна": 17,
-      "Ерыкалов Вячеслав Борисович": 0,
-      "Новиков Александр Владимирович": 22,
-      "Пивков Сергей Анатольевич": 10,
-      "Русаков Юрий Михайлович": 0,
-      "Силантьев Михаил Сергеевич": 0,
-      "Чураков Андрей Анатольевич": 1,
-      "Юрков Дмитрий Васильевич": 25
+      "gas:candidate-vibid:2292000789647": 1,
+      "gas:candidate-vibid:2292000786560": 17,
+      "gas:candidate-vibid:2292000788448": 0,
+      "gas:candidate-vibid:2292000787014": 22,
+      "gas:candidate-vibid:2292000777782": 10,
+      "gas:candidate-vibid:2292000788112": 0,
+      "gas:candidate-vibid:2292000790241": 0,
+      "gas:candidate-vibid:2292000789553": 1,
+      "gas:candidate-vibid:2292000789248": 25
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/arkhangelsk?action=show&root=1000091&tvd=2292000756629&vrn=100100067795849&region=29&global=&sub_region=29&prver=0&pronetvd=null&vibid=2292000756629&type=464",
@@ -8716,15 +8716,15 @@ export const duma_2016_uik_463_region_29_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Буторин Михаил Вениаминович": 6,
-      "Епифанова Ольга Николаевна": 7,
-      "Ерыкалов Вячеслав Борисович": 0,
-      "Новиков Александр Владимирович": 3,
-      "Пивков Сергей Анатольевич": 4,
-      "Русаков Юрий Михайлович": 3,
-      "Силантьев Михаил Сергеевич": 1,
-      "Чураков Андрей Анатольевич": 1,
-      "Юрков Дмитрий Васильевич": 20
+      "gas:candidate-vibid:2292000789647": 6,
+      "gas:candidate-vibid:2292000786560": 7,
+      "gas:candidate-vibid:2292000788448": 0,
+      "gas:candidate-vibid:2292000787014": 3,
+      "gas:candidate-vibid:2292000777782": 4,
+      "gas:candidate-vibid:2292000788112": 3,
+      "gas:candidate-vibid:2292000790241": 1,
+      "gas:candidate-vibid:2292000789553": 1,
+      "gas:candidate-vibid:2292000789248": 20
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/arkhangelsk?action=show&root=1000091&tvd=2292000756629&vrn=100100067795849&region=29&global=&sub_region=29&prver=0&pronetvd=null&vibid=2292000756629&type=464",
@@ -8775,15 +8775,15 @@ export const duma_2016_uik_463_region_29_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Буторин Михаил Вениаминович": 6,
-      "Епифанова Ольга Николаевна": 12,
-      "Ерыкалов Вячеслав Борисович": 0,
-      "Новиков Александр Владимирович": 9,
-      "Пивков Сергей Анатольевич": 14,
-      "Русаков Юрий Михайлович": 3,
-      "Силантьев Михаил Сергеевич": 4,
-      "Чураков Андрей Анатольевич": 0,
-      "Юрков Дмитрий Васильевич": 28
+      "gas:candidate-vibid:2292000789647": 6,
+      "gas:candidate-vibid:2292000786560": 12,
+      "gas:candidate-vibid:2292000788448": 0,
+      "gas:candidate-vibid:2292000787014": 9,
+      "gas:candidate-vibid:2292000777782": 14,
+      "gas:candidate-vibid:2292000788112": 3,
+      "gas:candidate-vibid:2292000790241": 4,
+      "gas:candidate-vibid:2292000789553": 0,
+      "gas:candidate-vibid:2292000789248": 28
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/arkhangelsk?action=show&root=1000091&tvd=2292000756629&vrn=100100067795849&region=29&global=&sub_region=29&prver=0&pronetvd=null&vibid=2292000756629&type=464",
@@ -8834,15 +8834,15 @@ export const duma_2016_uik_463_region_29_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Буторин Михаил Вениаминович": 1,
-      "Епифанова Ольга Николаевна": 17,
-      "Ерыкалов Вячеслав Борисович": 1,
-      "Новиков Александр Владимирович": 6,
-      "Пивков Сергей Анатольевич": 8,
-      "Русаков Юрий Михайлович": 2,
-      "Силантьев Михаил Сергеевич": 0,
-      "Чураков Андрей Анатольевич": 0,
-      "Юрков Дмитрий Васильевич": 8
+      "gas:candidate-vibid:2292000789647": 1,
+      "gas:candidate-vibid:2292000786560": 17,
+      "gas:candidate-vibid:2292000788448": 1,
+      "gas:candidate-vibid:2292000787014": 6,
+      "gas:candidate-vibid:2292000777782": 8,
+      "gas:candidate-vibid:2292000788112": 2,
+      "gas:candidate-vibid:2292000790241": 0,
+      "gas:candidate-vibid:2292000789553": 0,
+      "gas:candidate-vibid:2292000789248": 8
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/arkhangelsk?action=show&root=1000091&tvd=2292000756629&vrn=100100067795849&region=29&global=&sub_region=29&prver=0&pronetvd=null&vibid=2292000756629&type=464",
@@ -8893,15 +8893,15 @@ export const duma_2016_uik_463_region_29_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Буторин Михаил Вениаминович": 1,
-      "Епифанова Ольга Николаевна": 6,
-      "Ерыкалов Вячеслав Борисович": 1,
-      "Новиков Александр Владимирович": 11,
-      "Пивков Сергей Анатольевич": 13,
-      "Русаков Юрий Михайлович": 2,
-      "Силантьев Михаил Сергеевич": 1,
-      "Чураков Андрей Анатольевич": 0,
-      "Юрков Дмитрий Васильевич": 30
+      "gas:candidate-vibid:2292000789647": 1,
+      "gas:candidate-vibid:2292000786560": 6,
+      "gas:candidate-vibid:2292000788448": 1,
+      "gas:candidate-vibid:2292000787014": 11,
+      "gas:candidate-vibid:2292000777782": 13,
+      "gas:candidate-vibid:2292000788112": 2,
+      "gas:candidate-vibid:2292000790241": 1,
+      "gas:candidate-vibid:2292000789553": 0,
+      "gas:candidate-vibid:2292000789248": 30
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/arkhangelsk?action=show&root=1000091&tvd=2292000756629&vrn=100100067795849&region=29&global=&sub_region=29&prver=0&pronetvd=null&vibid=2292000756629&type=464",
@@ -8952,15 +8952,15 @@ export const duma_2016_uik_463_region_29_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Буторин Михаил Вениаминович": 1,
-      "Епифанова Ольга Николаевна": 14,
-      "Ерыкалов Вячеслав Борисович": 1,
-      "Новиков Александр Владимирович": 4,
-      "Пивков Сергей Анатольевич": 6,
-      "Русаков Юрий Михайлович": 0,
-      "Силантьев Михаил Сергеевич": 1,
-      "Чураков Андрей Анатольевич": 0,
-      "Юрков Дмитрий Васильевич": 49
+      "gas:candidate-vibid:2292000789647": 1,
+      "gas:candidate-vibid:2292000786560": 14,
+      "gas:candidate-vibid:2292000788448": 1,
+      "gas:candidate-vibid:2292000787014": 4,
+      "gas:candidate-vibid:2292000777782": 6,
+      "gas:candidate-vibid:2292000788112": 0,
+      "gas:candidate-vibid:2292000790241": 1,
+      "gas:candidate-vibid:2292000789553": 0,
+      "gas:candidate-vibid:2292000789248": 49
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/arkhangelsk?action=show&root=1000091&tvd=2292000756629&vrn=100100067795849&region=29&global=&sub_region=29&prver=0&pronetvd=null&vibid=2292000756629&type=464",
@@ -9011,15 +9011,15 @@ export const duma_2016_uik_463_region_29_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Буторин Михаил Вениаминович": 6,
-      "Епифанова Ольга Николаевна": 27,
-      "Ерыкалов Вячеслав Борисович": 2,
-      "Новиков Александр Владимирович": 12,
-      "Пивков Сергей Анатольевич": 11,
-      "Русаков Юрий Михайлович": 9,
-      "Силантьев Михаил Сергеевич": 0,
-      "Чураков Андрей Анатольевич": 0,
-      "Юрков Дмитрий Васильевич": 78
+      "gas:candidate-vibid:2292000789647": 6,
+      "gas:candidate-vibid:2292000786560": 27,
+      "gas:candidate-vibid:2292000788448": 2,
+      "gas:candidate-vibid:2292000787014": 12,
+      "gas:candidate-vibid:2292000777782": 11,
+      "gas:candidate-vibid:2292000788112": 9,
+      "gas:candidate-vibid:2292000790241": 0,
+      "gas:candidate-vibid:2292000789553": 0,
+      "gas:candidate-vibid:2292000789248": 78
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/arkhangelsk?action=show&root=1000091&tvd=2292000756629&vrn=100100067795849&region=29&global=&sub_region=29&prver=0&pronetvd=null&vibid=2292000756629&type=464",
@@ -9070,15 +9070,15 @@ export const duma_2016_uik_463_region_29_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Буторин Михаил Вениаминович": 1,
-      "Епифанова Ольга Николаевна": 14,
-      "Ерыкалов Вячеслав Борисович": 0,
-      "Новиков Александр Владимирович": 10,
-      "Пивков Сергей Анатольевич": 7,
-      "Русаков Юрий Михайлович": 1,
-      "Силантьев Михаил Сергеевич": 0,
-      "Чураков Андрей Анатольевич": 0,
-      "Юрков Дмитрий Васильевич": 23
+      "gas:candidate-vibid:2292000789647": 1,
+      "gas:candidate-vibid:2292000786560": 14,
+      "gas:candidate-vibid:2292000788448": 0,
+      "gas:candidate-vibid:2292000787014": 10,
+      "gas:candidate-vibid:2292000777782": 7,
+      "gas:candidate-vibid:2292000788112": 1,
+      "gas:candidate-vibid:2292000790241": 0,
+      "gas:candidate-vibid:2292000789553": 0,
+      "gas:candidate-vibid:2292000789248": 23
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/arkhangelsk?action=show&root=1000091&tvd=2292000756629&vrn=100100067795849&region=29&global=&sub_region=29&prver=0&pronetvd=null&vibid=2292000756629&type=464",
@@ -9129,15 +9129,15 @@ export const duma_2016_uik_463_region_29_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Буторин Михаил Вениаминович": 2,
-      "Епифанова Ольга Николаевна": 14,
-      "Ерыкалов Вячеслав Борисович": 3,
-      "Новиков Александр Владимирович": 10,
-      "Пивков Сергей Анатольевич": 17,
-      "Русаков Юрий Михайлович": 0,
-      "Силантьев Михаил Сергеевич": 1,
-      "Чураков Андрей Анатольевич": 1,
-      "Юрков Дмитрий Васильевич": 29
+      "gas:candidate-vibid:2292000789647": 2,
+      "gas:candidate-vibid:2292000786560": 14,
+      "gas:candidate-vibid:2292000788448": 3,
+      "gas:candidate-vibid:2292000787014": 10,
+      "gas:candidate-vibid:2292000777782": 17,
+      "gas:candidate-vibid:2292000788112": 0,
+      "gas:candidate-vibid:2292000790241": 1,
+      "gas:candidate-vibid:2292000789553": 1,
+      "gas:candidate-vibid:2292000789248": 29
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/arkhangelsk?action=show&root=1000091&tvd=2292000756629&vrn=100100067795849&region=29&global=&sub_region=29&prver=0&pronetvd=null&vibid=2292000756629&type=464",
@@ -9188,15 +9188,15 @@ export const duma_2016_uik_463_region_29_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Буторин Михаил Вениаминович": 5,
-      "Епифанова Ольга Николаевна": 7,
-      "Ерыкалов Вячеслав Борисович": 1,
-      "Новиков Александр Владимирович": 11,
-      "Пивков Сергей Анатольевич": 3,
-      "Русаков Юрий Михайлович": 0,
-      "Силантьев Михаил Сергеевич": 0,
-      "Чураков Андрей Анатольевич": 0,
-      "Юрков Дмитрий Васильевич": 8
+      "gas:candidate-vibid:2292000789647": 5,
+      "gas:candidate-vibid:2292000786560": 7,
+      "gas:candidate-vibid:2292000788448": 1,
+      "gas:candidate-vibid:2292000787014": 11,
+      "gas:candidate-vibid:2292000777782": 3,
+      "gas:candidate-vibid:2292000788112": 0,
+      "gas:candidate-vibid:2292000790241": 0,
+      "gas:candidate-vibid:2292000789553": 0,
+      "gas:candidate-vibid:2292000789248": 8
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/arkhangelsk?action=show&root=1000091&tvd=2292000756629&vrn=100100067795849&region=29&global=&sub_region=29&prver=0&pronetvd=null&vibid=2292000756629&type=464",
@@ -9247,15 +9247,15 @@ export const duma_2016_uik_463_region_29_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Буторин Михаил Вениаминович": 12,
-      "Епифанова Ольга Николаевна": 39,
-      "Ерыкалов Вячеслав Борисович": 7,
-      "Новиков Александр Владимирович": 28,
-      "Пивков Сергей Анатольевич": 22,
-      "Русаков Юрий Михайлович": 7,
-      "Силантьев Михаил Сергеевич": 5,
-      "Чураков Андрей Анатольевич": 1,
-      "Юрков Дмитрий Васильевич": 104
+      "gas:candidate-vibid:2292000789647": 12,
+      "gas:candidate-vibid:2292000786560": 39,
+      "gas:candidate-vibid:2292000788448": 7,
+      "gas:candidate-vibid:2292000787014": 28,
+      "gas:candidate-vibid:2292000777782": 22,
+      "gas:candidate-vibid:2292000788112": 7,
+      "gas:candidate-vibid:2292000790241": 5,
+      "gas:candidate-vibid:2292000789553": 1,
+      "gas:candidate-vibid:2292000789248": 104
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/arkhangelsk?action=show&root=1000091&tvd=2292000756629&vrn=100100067795849&region=29&global=&sub_region=29&prver=0&pronetvd=null&vibid=2292000756629&type=464",
@@ -9306,15 +9306,15 @@ export const duma_2016_uik_463_region_29_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Буторин Михаил Вениаминович": 5,
-      "Епифанова Ольга Николаевна": 19,
-      "Ерыкалов Вячеслав Борисович": 0,
-      "Новиков Александр Владимирович": 8,
-      "Пивков Сергей Анатольевич": 11,
-      "Русаков Юрий Михайлович": 1,
-      "Силантьев Михаил Сергеевич": 1,
-      "Чураков Андрей Анатольевич": 0,
-      "Юрков Дмитрий Васильевич": 17
+      "gas:candidate-vibid:2292000789647": 5,
+      "gas:candidate-vibid:2292000786560": 19,
+      "gas:candidate-vibid:2292000788448": 0,
+      "gas:candidate-vibid:2292000787014": 8,
+      "gas:candidate-vibid:2292000777782": 11,
+      "gas:candidate-vibid:2292000788112": 1,
+      "gas:candidate-vibid:2292000790241": 1,
+      "gas:candidate-vibid:2292000789553": 0,
+      "gas:candidate-vibid:2292000789248": 17
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/arkhangelsk?action=show&root=1000091&tvd=2292000756629&vrn=100100067795849&region=29&global=&sub_region=29&prver=0&pronetvd=null&vibid=2292000756629&type=464",
@@ -9365,15 +9365,15 @@ export const duma_2016_uik_463_region_29_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Буторин Михаил Вениаминович": 6,
-      "Епифанова Ольга Николаевна": 39,
-      "Ерыкалов Вячеслав Борисович": 4,
-      "Новиков Александр Владимирович": 17,
-      "Пивков Сергей Анатольевич": 24,
-      "Русаков Юрий Михайлович": 8,
-      "Силантьев Михаил Сергеевич": 3,
-      "Чураков Андрей Анатольевич": 3,
-      "Юрков Дмитрий Васильевич": 64
+      "gas:candidate-vibid:2292000789647": 6,
+      "gas:candidate-vibid:2292000786560": 39,
+      "gas:candidate-vibid:2292000788448": 4,
+      "gas:candidate-vibid:2292000787014": 17,
+      "gas:candidate-vibid:2292000777782": 24,
+      "gas:candidate-vibid:2292000788112": 8,
+      "gas:candidate-vibid:2292000790241": 3,
+      "gas:candidate-vibid:2292000789553": 3,
+      "gas:candidate-vibid:2292000789248": 64
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/arkhangelsk?action=show&root=1000091&tvd=2292000756629&vrn=100100067795849&region=29&global=&sub_region=29&prver=0&pronetvd=null&vibid=2292000756629&type=464",
@@ -9424,15 +9424,15 @@ export const duma_2016_uik_463_region_29_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Буторин Михаил Вениаминович": 10,
-      "Епифанова Ольга Николаевна": 81,
-      "Ерыкалов Вячеслав Борисович": 2,
-      "Новиков Александр Владимирович": 39,
-      "Пивков Сергей Анатольевич": 44,
-      "Русаков Юрий Михайлович": 4,
-      "Силантьев Михаил Сергеевич": 4,
-      "Чураков Андрей Анатольевич": 2,
-      "Юрков Дмитрий Васильевич": 145
+      "gas:candidate-vibid:2292000789647": 10,
+      "gas:candidate-vibid:2292000786560": 81,
+      "gas:candidate-vibid:2292000788448": 2,
+      "gas:candidate-vibid:2292000787014": 39,
+      "gas:candidate-vibid:2292000777782": 44,
+      "gas:candidate-vibid:2292000788112": 4,
+      "gas:candidate-vibid:2292000790241": 4,
+      "gas:candidate-vibid:2292000789553": 2,
+      "gas:candidate-vibid:2292000789248": 145
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/arkhangelsk?action=show&root=1000091&tvd=2292000756629&vrn=100100067795849&region=29&global=&sub_region=29&prver=0&pronetvd=null&vibid=2292000756629&type=464",
@@ -9483,15 +9483,15 @@ export const duma_2016_uik_463_region_29_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Буторин Михаил Вениаминович": 2,
-      "Епифанова Ольга Николаевна": 28,
-      "Ерыкалов Вячеслав Борисович": 1,
-      "Новиков Александр Владимирович": 17,
-      "Пивков Сергей Анатольевич": 8,
-      "Русаков Юрий Михайлович": 4,
-      "Силантьев Михаил Сергеевич": 1,
-      "Чураков Андрей Анатольевич": 1,
-      "Юрков Дмитрий Васильевич": 83
+      "gas:candidate-vibid:2292000789647": 2,
+      "gas:candidate-vibid:2292000786560": 28,
+      "gas:candidate-vibid:2292000788448": 1,
+      "gas:candidate-vibid:2292000787014": 17,
+      "gas:candidate-vibid:2292000777782": 8,
+      "gas:candidate-vibid:2292000788112": 4,
+      "gas:candidate-vibid:2292000790241": 1,
+      "gas:candidate-vibid:2292000789553": 1,
+      "gas:candidate-vibid:2292000789248": 83
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/arkhangelsk?action=show&root=1000091&tvd=2292000756629&vrn=100100067795849&region=29&global=&sub_region=29&prver=0&pronetvd=null&vibid=2292000756629&type=464",
@@ -9542,15 +9542,15 @@ export const duma_2016_uik_463_region_29_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Буторин Михаил Вениаминович": 8,
-      "Епифанова Ольга Николаевна": 34,
-      "Ерыкалов Вячеслав Борисович": 1,
-      "Новиков Александр Владимирович": 18,
-      "Пивков Сергей Анатольевич": 25,
-      "Русаков Юрий Михайлович": 4,
-      "Силантьев Михаил Сергеевич": 2,
-      "Чураков Андрей Анатольевич": 2,
-      "Юрков Дмитрий Васильевич": 103
+      "gas:candidate-vibid:2292000789647": 8,
+      "gas:candidate-vibid:2292000786560": 34,
+      "gas:candidate-vibid:2292000788448": 1,
+      "gas:candidate-vibid:2292000787014": 18,
+      "gas:candidate-vibid:2292000777782": 25,
+      "gas:candidate-vibid:2292000788112": 4,
+      "gas:candidate-vibid:2292000790241": 2,
+      "gas:candidate-vibid:2292000789553": 2,
+      "gas:candidate-vibid:2292000789248": 103
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/arkhangelsk?action=show&root=1000091&tvd=2292000756629&vrn=100100067795849&region=29&global=&sub_region=29&prver=0&pronetvd=null&vibid=2292000756629&type=464",
@@ -9601,15 +9601,15 @@ export const duma_2016_uik_463_region_29_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Буторин Михаил Вениаминович": 4,
-      "Епифанова Ольга Николаевна": 12,
-      "Ерыкалов Вячеслав Борисович": 2,
-      "Новиков Александр Владимирович": 6,
-      "Пивков Сергей Анатольевич": 10,
-      "Русаков Юрий Михайлович": 1,
-      "Силантьев Михаил Сергеевич": 1,
-      "Чураков Андрей Анатольевич": 0,
-      "Юрков Дмитрий Васильевич": 57
+      "gas:candidate-vibid:2292000789647": 4,
+      "gas:candidate-vibid:2292000786560": 12,
+      "gas:candidate-vibid:2292000788448": 2,
+      "gas:candidate-vibid:2292000787014": 6,
+      "gas:candidate-vibid:2292000777782": 10,
+      "gas:candidate-vibid:2292000788112": 1,
+      "gas:candidate-vibid:2292000790241": 1,
+      "gas:candidate-vibid:2292000789553": 0,
+      "gas:candidate-vibid:2292000789248": 57
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/arkhangelsk?action=show&root=1000091&tvd=2292000756629&vrn=100100067795849&region=29&global=&sub_region=29&prver=0&pronetvd=null&vibid=2292000756629&type=464",
@@ -9660,15 +9660,15 @@ export const duma_2016_uik_463_region_29_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Буторин Михаил Вениаминович": 3,
-      "Епифанова Ольга Николаевна": 56,
-      "Ерыкалов Вячеслав Борисович": 4,
-      "Новиков Александр Владимирович": 20,
-      "Пивков Сергей Анатольевич": 23,
-      "Русаков Юрий Михайлович": 3,
-      "Силантьев Михаил Сергеевич": 6,
-      "Чураков Андрей Анатольевич": 0,
-      "Юрков Дмитрий Васильевич": 78
+      "gas:candidate-vibid:2292000789647": 3,
+      "gas:candidate-vibid:2292000786560": 56,
+      "gas:candidate-vibid:2292000788448": 4,
+      "gas:candidate-vibid:2292000787014": 20,
+      "gas:candidate-vibid:2292000777782": 23,
+      "gas:candidate-vibid:2292000788112": 3,
+      "gas:candidate-vibid:2292000790241": 6,
+      "gas:candidate-vibid:2292000789553": 0,
+      "gas:candidate-vibid:2292000789248": 78
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/arkhangelsk?action=show&root=1000091&tvd=2292000756629&vrn=100100067795849&region=29&global=&sub_region=29&prver=0&pronetvd=null&vibid=2292000756629&type=464",
@@ -9719,15 +9719,15 @@ export const duma_2016_uik_463_region_29_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Буторин Михаил Вениаминович": 7,
-      "Епифанова Ольга Николаевна": 17,
-      "Ерыкалов Вячеслав Борисович": 0,
-      "Новиков Александр Владимирович": 10,
-      "Пивков Сергей Анатольевич": 3,
-      "Русаков Юрий Михайлович": 1,
-      "Силантьев Михаил Сергеевич": 0,
-      "Чураков Андрей Анатольевич": 1,
-      "Юрков Дмитрий Васильевич": 37
+      "gas:candidate-vibid:2292000789647": 7,
+      "gas:candidate-vibid:2292000786560": 17,
+      "gas:candidate-vibid:2292000788448": 0,
+      "gas:candidate-vibid:2292000787014": 10,
+      "gas:candidate-vibid:2292000777782": 3,
+      "gas:candidate-vibid:2292000788112": 1,
+      "gas:candidate-vibid:2292000790241": 0,
+      "gas:candidate-vibid:2292000789553": 1,
+      "gas:candidate-vibid:2292000789248": 37
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/arkhangelsk?action=show&root=1000091&tvd=2292000756629&vrn=100100067795849&region=29&global=&sub_region=29&prver=0&pronetvd=null&vibid=2292000756629&type=464",
@@ -9778,15 +9778,15 @@ export const duma_2016_uik_463_region_29_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Буторин Михаил Вениаминович": 3,
-      "Епифанова Ольга Николаевна": 3,
-      "Ерыкалов Вячеслав Борисович": 0,
-      "Новиков Александр Владимирович": 2,
-      "Пивков Сергей Анатольевич": 8,
-      "Русаков Юрий Михайлович": 1,
-      "Силантьев Михаил Сергеевич": 1,
-      "Чураков Андрей Анатольевич": 0,
-      "Юрков Дмитрий Васильевич": 37
+      "gas:candidate-vibid:2292000789647": 3,
+      "gas:candidate-vibid:2292000786560": 3,
+      "gas:candidate-vibid:2292000788448": 0,
+      "gas:candidate-vibid:2292000787014": 2,
+      "gas:candidate-vibid:2292000777782": 8,
+      "gas:candidate-vibid:2292000788112": 1,
+      "gas:candidate-vibid:2292000790241": 1,
+      "gas:candidate-vibid:2292000789553": 0,
+      "gas:candidate-vibid:2292000789248": 37
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/arkhangelsk?action=show&root=1000091&tvd=2292000756629&vrn=100100067795849&region=29&global=&sub_region=29&prver=0&pronetvd=null&vibid=2292000756629&type=464",
@@ -9837,15 +9837,15 @@ export const duma_2016_uik_463_region_29_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Буторин Михаил Вениаминович": 8,
-      "Епифанова Ольга Николаевна": 54,
-      "Ерыкалов Вячеслав Борисович": 5,
-      "Новиков Александр Владимирович": 30,
-      "Пивков Сергей Анатольевич": 21,
-      "Русаков Юрий Михайлович": 5,
-      "Силантьев Михаил Сергеевич": 3,
-      "Чураков Андрей Анатольевич": 0,
-      "Юрков Дмитрий Васильевич": 134
+      "gas:candidate-vibid:2292000789647": 8,
+      "gas:candidate-vibid:2292000786560": 54,
+      "gas:candidate-vibid:2292000788448": 5,
+      "gas:candidate-vibid:2292000787014": 30,
+      "gas:candidate-vibid:2292000777782": 21,
+      "gas:candidate-vibid:2292000788112": 5,
+      "gas:candidate-vibid:2292000790241": 3,
+      "gas:candidate-vibid:2292000789553": 0,
+      "gas:candidate-vibid:2292000789248": 134
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/arkhangelsk?action=show&root=1000091&tvd=2292000756629&vrn=100100067795849&region=29&global=&sub_region=29&prver=0&pronetvd=null&vibid=2292000756629&type=464",
@@ -9896,15 +9896,15 @@ export const duma_2016_uik_463_region_29_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Буторин Михаил Вениаминович": 2,
-      "Епифанова Ольга Николаевна": 10,
-      "Ерыкалов Вячеслав Борисович": 0,
-      "Новиков Александр Владимирович": 5,
-      "Пивков Сергей Анатольевич": 4,
-      "Русаков Юрий Михайлович": 3,
-      "Силантьев Михаил Сергеевич": 1,
-      "Чураков Андрей Анатольевич": 3,
-      "Юрков Дмитрий Васильевич": 50
+      "gas:candidate-vibid:2292000789647": 2,
+      "gas:candidate-vibid:2292000786560": 10,
+      "gas:candidate-vibid:2292000788448": 0,
+      "gas:candidate-vibid:2292000787014": 5,
+      "gas:candidate-vibid:2292000777782": 4,
+      "gas:candidate-vibid:2292000788112": 3,
+      "gas:candidate-vibid:2292000790241": 1,
+      "gas:candidate-vibid:2292000789553": 3,
+      "gas:candidate-vibid:2292000789248": 50
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/arkhangelsk?action=show&root=1000091&tvd=2292000756629&vrn=100100067795849&region=29&global=&sub_region=29&prver=0&pronetvd=null&vibid=2292000756629&type=464",
@@ -9955,15 +9955,15 @@ export const duma_2016_uik_463_region_29_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Буторин Михаил Вениаминович": 7,
-      "Епифанова Ольга Николаевна": 56,
-      "Ерыкалов Вячеслав Борисович": 2,
-      "Новиков Александр Владимирович": 20,
-      "Пивков Сергей Анатольевич": 19,
-      "Русаков Юрий Михайлович": 7,
-      "Силантьев Михаил Сергеевич": 9,
-      "Чураков Андрей Анатольевич": 5,
-      "Юрков Дмитрий Васильевич": 104
+      "gas:candidate-vibid:2292000789647": 7,
+      "gas:candidate-vibid:2292000786560": 56,
+      "gas:candidate-vibid:2292000788448": 2,
+      "gas:candidate-vibid:2292000787014": 20,
+      "gas:candidate-vibid:2292000777782": 19,
+      "gas:candidate-vibid:2292000788112": 7,
+      "gas:candidate-vibid:2292000790241": 9,
+      "gas:candidate-vibid:2292000789553": 5,
+      "gas:candidate-vibid:2292000789248": 104
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/arkhangelsk?action=show&root=1000091&tvd=2292000756629&vrn=100100067795849&region=29&global=&sub_region=29&prver=0&pronetvd=null&vibid=2292000756629&type=464",
@@ -10014,15 +10014,15 @@ export const duma_2016_uik_463_region_29_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Буторин Михаил Вениаминович": 3,
-      "Епифанова Ольга Николаевна": 49,
-      "Ерыкалов Вячеслав Борисович": 4,
-      "Новиков Александр Владимирович": 22,
-      "Пивков Сергей Анатольевич": 26,
-      "Русаков Юрий Михайлович": 5,
-      "Силантьев Михаил Сергеевич": 2,
-      "Чураков Андрей Анатольевич": 3,
-      "Юрков Дмитрий Васильевич": 54
+      "gas:candidate-vibid:2292000789647": 3,
+      "gas:candidate-vibid:2292000786560": 49,
+      "gas:candidate-vibid:2292000788448": 4,
+      "gas:candidate-vibid:2292000787014": 22,
+      "gas:candidate-vibid:2292000777782": 26,
+      "gas:candidate-vibid:2292000788112": 5,
+      "gas:candidate-vibid:2292000790241": 2,
+      "gas:candidate-vibid:2292000789553": 3,
+      "gas:candidate-vibid:2292000789248": 54
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/arkhangelsk?action=show&root=1000091&tvd=2292000756629&vrn=100100067795849&region=29&global=&sub_region=29&prver=0&pronetvd=null&vibid=2292000756629&type=464",
@@ -10073,15 +10073,15 @@ export const duma_2016_uik_463_region_29_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Буторин Михаил Вениаминович": 22,
-      "Епифанова Ольга Николаевна": 182,
-      "Ерыкалов Вячеслав Борисович": 11,
-      "Новиков Александр Владимирович": 71,
-      "Пивков Сергей Анатольевич": 46,
-      "Русаков Юрий Михайлович": 11,
-      "Силантьев Михаил Сергеевич": 10,
-      "Чураков Андрей Анатольевич": 13,
-      "Юрков Дмитрий Васильевич": 188
+      "gas:candidate-vibid:2292000789647": 22,
+      "gas:candidate-vibid:2292000786560": 182,
+      "gas:candidate-vibid:2292000788448": 11,
+      "gas:candidate-vibid:2292000787014": 71,
+      "gas:candidate-vibid:2292000777782": 46,
+      "gas:candidate-vibid:2292000788112": 11,
+      "gas:candidate-vibid:2292000790241": 10,
+      "gas:candidate-vibid:2292000789553": 13,
+      "gas:candidate-vibid:2292000789248": 188
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/arkhangelsk?action=show&root=1000091&tvd=2292000756630&vrn=100100067795849&region=29&global=&sub_region=29&prver=0&pronetvd=null&vibid=2292000756630&type=464",
@@ -10132,15 +10132,15 @@ export const duma_2016_uik_463_region_29_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Буторин Михаил Вениаминович": 11,
-      "Епифанова Ольга Николаевна": 90,
-      "Ерыкалов Вячеслав Борисович": 10,
-      "Новиков Александр Владимирович": 36,
-      "Пивков Сергей Анатольевич": 50,
-      "Русаков Юрий Михайлович": 9,
-      "Силантьев Михаил Сергеевич": 9,
-      "Чураков Андрей Анатольевич": 8,
-      "Юрков Дмитрий Васильевич": 101
+      "gas:candidate-vibid:2292000789647": 11,
+      "gas:candidate-vibid:2292000786560": 90,
+      "gas:candidate-vibid:2292000788448": 10,
+      "gas:candidate-vibid:2292000787014": 36,
+      "gas:candidate-vibid:2292000777782": 50,
+      "gas:candidate-vibid:2292000788112": 9,
+      "gas:candidate-vibid:2292000790241": 9,
+      "gas:candidate-vibid:2292000789553": 8,
+      "gas:candidate-vibid:2292000789248": 101
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/arkhangelsk?action=show&root=1000091&tvd=2292000756630&vrn=100100067795849&region=29&global=&sub_region=29&prver=0&pronetvd=null&vibid=2292000756630&type=464",
@@ -10191,15 +10191,15 @@ export const duma_2016_uik_463_region_29_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Буторин Михаил Вениаминович": 22,
-      "Епифанова Ольга Николаевна": 175,
-      "Ерыкалов Вячеслав Борисович": 5,
-      "Новиков Александр Владимирович": 63,
-      "Пивков Сергей Анатольевич": 83,
-      "Русаков Юрий Михайлович": 9,
-      "Силантьев Михаил Сергеевич": 6,
-      "Чураков Андрей Анатольевич": 10,
-      "Юрков Дмитрий Васильевич": 173
+      "gas:candidate-vibid:2292000789647": 22,
+      "gas:candidate-vibid:2292000786560": 175,
+      "gas:candidate-vibid:2292000788448": 5,
+      "gas:candidate-vibid:2292000787014": 63,
+      "gas:candidate-vibid:2292000777782": 83,
+      "gas:candidate-vibid:2292000788112": 9,
+      "gas:candidate-vibid:2292000790241": 6,
+      "gas:candidate-vibid:2292000789553": 10,
+      "gas:candidate-vibid:2292000789248": 173
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/arkhangelsk?action=show&root=1000091&tvd=2292000756630&vrn=100100067795849&region=29&global=&sub_region=29&prver=0&pronetvd=null&vibid=2292000756630&type=464",
@@ -10250,15 +10250,15 @@ export const duma_2016_uik_463_region_29_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Буторин Михаил Вениаминович": 15,
-      "Епифанова Ольга Николаевна": 148,
-      "Ерыкалов Вячеслав Борисович": 5,
-      "Новиков Александр Владимирович": 40,
-      "Пивков Сергей Анатольевич": 44,
-      "Русаков Юрий Михайлович": 10,
-      "Силантьев Михаил Сергеевич": 14,
-      "Чураков Андрей Анатольевич": 11,
-      "Юрков Дмитрий Васильевич": 126
+      "gas:candidate-vibid:2292000789647": 15,
+      "gas:candidate-vibid:2292000786560": 148,
+      "gas:candidate-vibid:2292000788448": 5,
+      "gas:candidate-vibid:2292000787014": 40,
+      "gas:candidate-vibid:2292000777782": 44,
+      "gas:candidate-vibid:2292000788112": 10,
+      "gas:candidate-vibid:2292000790241": 14,
+      "gas:candidate-vibid:2292000789553": 11,
+      "gas:candidate-vibid:2292000789248": 126
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/arkhangelsk?action=show&root=1000091&tvd=2292000756630&vrn=100100067795849&region=29&global=&sub_region=29&prver=0&pronetvd=null&vibid=2292000756630&type=464",
@@ -10309,15 +10309,15 @@ export const duma_2016_uik_463_region_29_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Буторин Михаил Вениаминович": 10,
-      "Епифанова Ольга Николаевна": 125,
-      "Ерыкалов Вячеслав Борисович": 5,
-      "Новиков Александр Владимирович": 63,
-      "Пивков Сергей Анатольевич": 37,
-      "Русаков Юрий Михайлович": 10,
-      "Силантьев Михаил Сергеевич": 11,
-      "Чураков Андрей Анатольевич": 8,
-      "Юрков Дмитрий Васильевич": 142
+      "gas:candidate-vibid:2292000789647": 10,
+      "gas:candidate-vibid:2292000786560": 125,
+      "gas:candidate-vibid:2292000788448": 5,
+      "gas:candidate-vibid:2292000787014": 63,
+      "gas:candidate-vibid:2292000777782": 37,
+      "gas:candidate-vibid:2292000788112": 10,
+      "gas:candidate-vibid:2292000790241": 11,
+      "gas:candidate-vibid:2292000789553": 8,
+      "gas:candidate-vibid:2292000789248": 142
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/arkhangelsk?action=show&root=1000091&tvd=2292000756630&vrn=100100067795849&region=29&global=&sub_region=29&prver=0&pronetvd=null&vibid=2292000756630&type=464",
@@ -10368,15 +10368,15 @@ export const duma_2016_uik_463_region_29_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Буторин Михаил Вениаминович": 26,
-      "Епифанова Ольга Николаевна": 167,
-      "Ерыкалов Вячеслав Борисович": 4,
-      "Новиков Александр Владимирович": 52,
-      "Пивков Сергей Анатольевич": 51,
-      "Русаков Юрий Михайлович": 8,
-      "Силантьев Михаил Сергеевич": 14,
-      "Чураков Андрей Анатольевич": 9,
-      "Юрков Дмитрий Васильевич": 136
+      "gas:candidate-vibid:2292000789647": 26,
+      "gas:candidate-vibid:2292000786560": 167,
+      "gas:candidate-vibid:2292000788448": 4,
+      "gas:candidate-vibid:2292000787014": 52,
+      "gas:candidate-vibid:2292000777782": 51,
+      "gas:candidate-vibid:2292000788112": 8,
+      "gas:candidate-vibid:2292000790241": 14,
+      "gas:candidate-vibid:2292000789553": 9,
+      "gas:candidate-vibid:2292000789248": 136
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/arkhangelsk?action=show&root=1000091&tvd=2292000756630&vrn=100100067795849&region=29&global=&sub_region=29&prver=0&pronetvd=null&vibid=2292000756630&type=464",
@@ -10427,15 +10427,15 @@ export const duma_2016_uik_463_region_29_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Буторин Михаил Вениаминович": 36,
-      "Епифанова Ольга Николаевна": 269,
-      "Ерыкалов Вячеслав Борисович": 7,
-      "Новиков Александр Владимирович": 90,
-      "Пивков Сергей Анатольевич": 79,
-      "Русаков Юрий Михайлович": 11,
-      "Силантьев Михаил Сергеевич": 14,
-      "Чураков Андрей Анатольевич": 20,
-      "Юрков Дмитрий Васильевич": 243
+      "gas:candidate-vibid:2292000789647": 36,
+      "gas:candidate-vibid:2292000786560": 269,
+      "gas:candidate-vibid:2292000788448": 7,
+      "gas:candidate-vibid:2292000787014": 90,
+      "gas:candidate-vibid:2292000777782": 79,
+      "gas:candidate-vibid:2292000788112": 11,
+      "gas:candidate-vibid:2292000790241": 14,
+      "gas:candidate-vibid:2292000789553": 20,
+      "gas:candidate-vibid:2292000789248": 243
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/arkhangelsk?action=show&root=1000091&tvd=2292000756630&vrn=100100067795849&region=29&global=&sub_region=29&prver=0&pronetvd=null&vibid=2292000756630&type=464",
@@ -10486,15 +10486,15 @@ export const duma_2016_uik_463_region_29_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Буторин Михаил Вениаминович": 3,
-      "Епифанова Ольга Николаевна": 26,
-      "Ерыкалов Вячеслав Борисович": 1,
-      "Новиков Александр Владимирович": 10,
-      "Пивков Сергей Анатольевич": 6,
-      "Русаков Юрий Михайлович": 1,
-      "Силантьев Михаил Сергеевич": 1,
-      "Чураков Андрей Анатольевич": 2,
-      "Юрков Дмитрий Васильевич": 37
+      "gas:candidate-vibid:2292000789647": 3,
+      "gas:candidate-vibid:2292000786560": 26,
+      "gas:candidate-vibid:2292000788448": 1,
+      "gas:candidate-vibid:2292000787014": 10,
+      "gas:candidate-vibid:2292000777782": 6,
+      "gas:candidate-vibid:2292000788112": 1,
+      "gas:candidate-vibid:2292000790241": 1,
+      "gas:candidate-vibid:2292000789553": 2,
+      "gas:candidate-vibid:2292000789248": 37
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/arkhangelsk?action=show&root=1000091&tvd=2292000756630&vrn=100100067795849&region=29&global=&sub_region=29&prver=0&pronetvd=null&vibid=2292000756630&type=464",
@@ -10545,15 +10545,15 @@ export const duma_2016_uik_463_region_29_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Буторин Михаил Вениаминович": 19,
-      "Епифанова Ольга Николаевна": 123,
-      "Ерыкалов Вячеслав Борисович": 4,
-      "Новиков Александр Владимирович": 34,
-      "Пивков Сергей Анатольевич": 40,
-      "Русаков Юрий Михайлович": 6,
-      "Силантьев Михаил Сергеевич": 7,
-      "Чураков Андрей Анатольевич": 5,
-      "Юрков Дмитрий Васильевич": 142
+      "gas:candidate-vibid:2292000789647": 19,
+      "gas:candidate-vibid:2292000786560": 123,
+      "gas:candidate-vibid:2292000788448": 4,
+      "gas:candidate-vibid:2292000787014": 34,
+      "gas:candidate-vibid:2292000777782": 40,
+      "gas:candidate-vibid:2292000788112": 6,
+      "gas:candidate-vibid:2292000790241": 7,
+      "gas:candidate-vibid:2292000789553": 5,
+      "gas:candidate-vibid:2292000789248": 142
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/arkhangelsk?action=show&root=1000091&tvd=2292000756630&vrn=100100067795849&region=29&global=&sub_region=29&prver=0&pronetvd=null&vibid=2292000756630&type=464",
@@ -10604,15 +10604,15 @@ export const duma_2016_uik_463_region_29_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Буторин Михаил Вениаминович": 20,
-      "Епифанова Ольга Николаевна": 198,
-      "Ерыкалов Вячеслав Борисович": 7,
-      "Новиков Александр Владимирович": 44,
-      "Пивков Сергей Анатольевич": 60,
-      "Русаков Юрий Михайлович": 6,
-      "Силантьев Михаил Сергеевич": 13,
-      "Чураков Андрей Анатольевич": 3,
-      "Юрков Дмитрий Васильевич": 170
+      "gas:candidate-vibid:2292000789647": 20,
+      "gas:candidate-vibid:2292000786560": 198,
+      "gas:candidate-vibid:2292000788448": 7,
+      "gas:candidate-vibid:2292000787014": 44,
+      "gas:candidate-vibid:2292000777782": 60,
+      "gas:candidate-vibid:2292000788112": 6,
+      "gas:candidate-vibid:2292000790241": 13,
+      "gas:candidate-vibid:2292000789553": 3,
+      "gas:candidate-vibid:2292000789248": 170
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/arkhangelsk?action=show&root=1000091&tvd=2292000756630&vrn=100100067795849&region=29&global=&sub_region=29&prver=0&pronetvd=null&vibid=2292000756630&type=464",
@@ -10663,15 +10663,15 @@ export const duma_2016_uik_463_region_29_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Буторин Михаил Вениаминович": 23,
-      "Епифанова Ольга Николаевна": 167,
-      "Ерыкалов Вячеслав Борисович": 8,
-      "Новиков Александр Владимирович": 83,
-      "Пивков Сергей Анатольевич": 56,
-      "Русаков Юрий Михайлович": 15,
-      "Силантьев Михаил Сергеевич": 15,
-      "Чураков Андрей Анатольевич": 7,
-      "Юрков Дмитрий Васильевич": 150
+      "gas:candidate-vibid:2292000789647": 23,
+      "gas:candidate-vibid:2292000786560": 167,
+      "gas:candidate-vibid:2292000788448": 8,
+      "gas:candidate-vibid:2292000787014": 83,
+      "gas:candidate-vibid:2292000777782": 56,
+      "gas:candidate-vibid:2292000788112": 15,
+      "gas:candidate-vibid:2292000790241": 15,
+      "gas:candidate-vibid:2292000789553": 7,
+      "gas:candidate-vibid:2292000789248": 150
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/arkhangelsk?action=show&root=1000091&tvd=2292000756630&vrn=100100067795849&region=29&global=&sub_region=29&prver=0&pronetvd=null&vibid=2292000756630&type=464",
@@ -10722,15 +10722,15 @@ export const duma_2016_uik_463_region_29_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Буторин Михаил Вениаминович": 31,
-      "Епифанова Ольга Николаевна": 199,
-      "Ерыкалов Вячеслав Борисович": 6,
-      "Новиков Александр Владимирович": 47,
-      "Пивков Сергей Анатольевич": 56,
-      "Русаков Юрий Михайлович": 10,
-      "Силантьев Михаил Сергеевич": 16,
-      "Чураков Андрей Анатольевич": 7,
-      "Юрков Дмитрий Васильевич": 162
+      "gas:candidate-vibid:2292000789647": 31,
+      "gas:candidate-vibid:2292000786560": 199,
+      "gas:candidate-vibid:2292000788448": 6,
+      "gas:candidate-vibid:2292000787014": 47,
+      "gas:candidate-vibid:2292000777782": 56,
+      "gas:candidate-vibid:2292000788112": 10,
+      "gas:candidate-vibid:2292000790241": 16,
+      "gas:candidate-vibid:2292000789553": 7,
+      "gas:candidate-vibid:2292000789248": 162
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/arkhangelsk?action=show&root=1000091&tvd=2292000756630&vrn=100100067795849&region=29&global=&sub_region=29&prver=0&pronetvd=null&vibid=2292000756630&type=464",
@@ -10781,15 +10781,15 @@ export const duma_2016_uik_463_region_29_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Буторин Михаил Вениаминович": 18,
-      "Епифанова Ольга Николаевна": 85,
-      "Ерыкалов Вячеслав Борисович": 5,
-      "Новиков Александр Владимирович": 56,
-      "Пивков Сергей Анатольевич": 51,
-      "Русаков Юрий Михайлович": 7,
-      "Силантьев Михаил Сергеевич": 9,
-      "Чураков Андрей Анатольевич": 4,
-      "Юрков Дмитрий Васильевич": 121
+      "gas:candidate-vibid:2292000789647": 18,
+      "gas:candidate-vibid:2292000786560": 85,
+      "gas:candidate-vibid:2292000788448": 5,
+      "gas:candidate-vibid:2292000787014": 56,
+      "gas:candidate-vibid:2292000777782": 51,
+      "gas:candidate-vibid:2292000788112": 7,
+      "gas:candidate-vibid:2292000790241": 9,
+      "gas:candidate-vibid:2292000789553": 4,
+      "gas:candidate-vibid:2292000789248": 121
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/arkhangelsk?action=show&root=1000091&tvd=2292000756630&vrn=100100067795849&region=29&global=&sub_region=29&prver=0&pronetvd=null&vibid=2292000756630&type=464",
@@ -10840,15 +10840,15 @@ export const duma_2016_uik_463_region_29_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Буторин Михаил Вениаминович": 25,
-      "Епифанова Ольга Николаевна": 137,
-      "Ерыкалов Вячеслав Борисович": 7,
-      "Новиков Александр Владимирович": 33,
-      "Пивков Сергей Анатольевич": 45,
-      "Русаков Юрий Михайлович": 7,
-      "Силантьев Михаил Сергеевич": 12,
-      "Чураков Андрей Анатольевич": 5,
-      "Юрков Дмитрий Васильевич": 125
+      "gas:candidate-vibid:2292000789647": 25,
+      "gas:candidate-vibid:2292000786560": 137,
+      "gas:candidate-vibid:2292000788448": 7,
+      "gas:candidate-vibid:2292000787014": 33,
+      "gas:candidate-vibid:2292000777782": 45,
+      "gas:candidate-vibid:2292000788112": 7,
+      "gas:candidate-vibid:2292000790241": 12,
+      "gas:candidate-vibid:2292000789553": 5,
+      "gas:candidate-vibid:2292000789248": 125
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/arkhangelsk?action=show&root=1000091&tvd=2292000756630&vrn=100100067795849&region=29&global=&sub_region=29&prver=0&pronetvd=null&vibid=2292000756630&type=464",
@@ -10899,15 +10899,15 @@ export const duma_2016_uik_463_region_29_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Буторин Михаил Вениаминович": 8,
-      "Епифанова Ольга Николаевна": 65,
-      "Ерыкалов Вячеслав Борисович": 1,
-      "Новиков Александр Владимирович": 24,
-      "Пивков Сергей Анатольевич": 12,
-      "Русаков Юрий Михайлович": 9,
-      "Силантьев Михаил Сергеевич": 6,
-      "Чураков Андрей Анатольевич": 3,
-      "Юрков Дмитрий Васильевич": 99
+      "gas:candidate-vibid:2292000789647": 8,
+      "gas:candidate-vibid:2292000786560": 65,
+      "gas:candidate-vibid:2292000788448": 1,
+      "gas:candidate-vibid:2292000787014": 24,
+      "gas:candidate-vibid:2292000777782": 12,
+      "gas:candidate-vibid:2292000788112": 9,
+      "gas:candidate-vibid:2292000790241": 6,
+      "gas:candidate-vibid:2292000789553": 3,
+      "gas:candidate-vibid:2292000789248": 99
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/arkhangelsk?action=show&root=1000091&tvd=2292000756630&vrn=100100067795849&region=29&global=&sub_region=29&prver=0&pronetvd=null&vibid=2292000756630&type=464",
@@ -10958,15 +10958,15 @@ export const duma_2016_uik_463_region_29_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Буторин Михаил Вениаминович": 4,
-      "Епифанова Ольга Николаевна": 3,
-      "Ерыкалов Вячеслав Борисович": 3,
-      "Новиков Александр Владимирович": 4,
-      "Пивков Сергей Анатольевич": 6,
-      "Русаков Юрий Михайлович": 0,
-      "Силантьев Михаил Сергеевич": 1,
-      "Чураков Андрей Анатольевич": 0,
-      "Юрков Дмитрий Васильевич": 19
+      "gas:candidate-vibid:2292000789647": 4,
+      "gas:candidate-vibid:2292000786560": 3,
+      "gas:candidate-vibid:2292000788448": 3,
+      "gas:candidate-vibid:2292000787014": 4,
+      "gas:candidate-vibid:2292000777782": 6,
+      "gas:candidate-vibid:2292000788112": 0,
+      "gas:candidate-vibid:2292000790241": 1,
+      "gas:candidate-vibid:2292000789553": 0,
+      "gas:candidate-vibid:2292000789248": 19
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/arkhangelsk?action=show&root=1000091&tvd=2292000756630&vrn=100100067795849&region=29&global=&sub_region=29&prver=0&pronetvd=null&vibid=2292000756630&type=464",
@@ -11017,15 +11017,15 @@ export const duma_2016_uik_463_region_29_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Буторин Михаил Вениаминович": 5,
-      "Епифанова Ольга Николаевна": 20,
-      "Ерыкалов Вячеслав Борисович": 1,
-      "Новиков Александр Владимирович": 4,
-      "Пивков Сергей Анатольевич": 5,
-      "Русаков Юрий Михайлович": 1,
-      "Силантьев Михаил Сергеевич": 0,
-      "Чураков Андрей Анатольевич": 2,
-      "Юрков Дмитрий Васильевич": 29
+      "gas:candidate-vibid:2292000789647": 5,
+      "gas:candidate-vibid:2292000786560": 20,
+      "gas:candidate-vibid:2292000788448": 1,
+      "gas:candidate-vibid:2292000787014": 4,
+      "gas:candidate-vibid:2292000777782": 5,
+      "gas:candidate-vibid:2292000788112": 1,
+      "gas:candidate-vibid:2292000790241": 0,
+      "gas:candidate-vibid:2292000789553": 2,
+      "gas:candidate-vibid:2292000789248": 29
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/arkhangelsk?action=show&root=1000091&tvd=2292000756630&vrn=100100067795849&region=29&global=&sub_region=29&prver=0&pronetvd=null&vibid=2292000756630&type=464",
@@ -11076,15 +11076,15 @@ export const duma_2016_uik_463_region_29_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Буторин Михаил Вениаминович": 22,
-      "Епифанова Ольга Николаевна": 49,
-      "Ерыкалов Вячеслав Борисович": 9,
-      "Новиков Александр Владимирович": 34,
-      "Пивков Сергей Анатольевич": 43,
-      "Русаков Юрий Михайлович": 7,
-      "Силантьев Михаил Сергеевич": 3,
-      "Чураков Андрей Анатольевич": 7,
-      "Юрков Дмитрий Васильевич": 194
+      "gas:candidate-vibid:2292000789647": 22,
+      "gas:candidate-vibid:2292000786560": 49,
+      "gas:candidate-vibid:2292000788448": 9,
+      "gas:candidate-vibid:2292000787014": 34,
+      "gas:candidate-vibid:2292000777782": 43,
+      "gas:candidate-vibid:2292000788112": 7,
+      "gas:candidate-vibid:2292000790241": 3,
+      "gas:candidate-vibid:2292000789553": 7,
+      "gas:candidate-vibid:2292000789248": 194
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/arkhangelsk?action=show&root=1000091&tvd=2292000756630&vrn=100100067795849&region=29&global=&sub_region=29&prver=0&pronetvd=null&vibid=2292000756630&type=464",
@@ -11135,15 +11135,15 @@ export const duma_2016_uik_463_region_29_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Буторин Михаил Вениаминович": 10,
-      "Епифанова Ольга Николаевна": 89,
-      "Ерыкалов Вячеслав Борисович": 4,
-      "Новиков Александр Владимирович": 38,
-      "Пивков Сергей Анатольевич": 45,
-      "Русаков Юрий Михайлович": 5,
-      "Силантьев Михаил Сергеевич": 9,
-      "Чураков Андрей Анатольевич": 3,
-      "Юрков Дмитрий Васильевич": 200
+      "gas:candidate-vibid:2292000789647": 10,
+      "gas:candidate-vibid:2292000786560": 89,
+      "gas:candidate-vibid:2292000788448": 4,
+      "gas:candidate-vibid:2292000787014": 38,
+      "gas:candidate-vibid:2292000777782": 45,
+      "gas:candidate-vibid:2292000788112": 5,
+      "gas:candidate-vibid:2292000790241": 9,
+      "gas:candidate-vibid:2292000789553": 3,
+      "gas:candidate-vibid:2292000789248": 200
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/arkhangelsk?action=show&root=1000091&tvd=2292000756630&vrn=100100067795849&region=29&global=&sub_region=29&prver=0&pronetvd=null&vibid=2292000756630&type=464",
@@ -11194,15 +11194,15 @@ export const duma_2016_uik_463_region_29_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Буторин Михаил Вениаминович": 3,
-      "Епифанова Ольга Николаевна": 3,
-      "Ерыкалов Вячеслав Борисович": 0,
-      "Новиков Александр Владимирович": 7,
-      "Пивков Сергей Анатольевич": 6,
-      "Русаков Юрий Михайлович": 0,
-      "Силантьев Михаил Сергеевич": 0,
-      "Чураков Андрей Анатольевич": 1,
-      "Юрков Дмитрий Васильевич": 21
+      "gas:candidate-vibid:2292000789647": 3,
+      "gas:candidate-vibid:2292000786560": 3,
+      "gas:candidate-vibid:2292000788448": 0,
+      "gas:candidate-vibid:2292000787014": 7,
+      "gas:candidate-vibid:2292000777782": 6,
+      "gas:candidate-vibid:2292000788112": 0,
+      "gas:candidate-vibid:2292000790241": 0,
+      "gas:candidate-vibid:2292000789553": 1,
+      "gas:candidate-vibid:2292000789248": 21
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/arkhangelsk?action=show&root=1000091&tvd=2292000756630&vrn=100100067795849&region=29&global=&sub_region=29&prver=0&pronetvd=null&vibid=2292000756630&type=464",
@@ -11253,15 +11253,15 @@ export const duma_2016_uik_463_region_29_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Буторин Михаил Вениаминович": 9,
-      "Епифанова Ольга Николаевна": 20,
-      "Ерыкалов Вячеслав Борисович": 2,
-      "Новиков Александр Владимирович": 9,
-      "Пивков Сергей Анатольевич": 9,
-      "Русаков Юрий Михайлович": 2,
-      "Силантьев Михаил Сергеевич": 3,
-      "Чураков Андрей Анатольевич": 2,
-      "Юрков Дмитрий Васильевич": 29
+      "gas:candidate-vibid:2292000789647": 9,
+      "gas:candidate-vibid:2292000786560": 20,
+      "gas:candidate-vibid:2292000788448": 2,
+      "gas:candidate-vibid:2292000787014": 9,
+      "gas:candidate-vibid:2292000777782": 9,
+      "gas:candidate-vibid:2292000788112": 2,
+      "gas:candidate-vibid:2292000790241": 3,
+      "gas:candidate-vibid:2292000789553": 2,
+      "gas:candidate-vibid:2292000789248": 29
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/arkhangelsk?action=show&root=1000091&tvd=2292000756630&vrn=100100067795849&region=29&global=&sub_region=29&prver=0&pronetvd=null&vibid=2292000756630&type=464",
@@ -11312,15 +11312,15 @@ export const duma_2016_uik_463_region_29_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Буторин Михаил Вениаминович": 7,
-      "Епифанова Ольга Николаевна": 17,
-      "Ерыкалов Вячеслав Борисович": 1,
-      "Новиков Александр Владимирович": 6,
-      "Пивков Сергей Анатольевич": 15,
-      "Русаков Юрий Михайлович": 1,
-      "Силантьев Михаил Сергеевич": 0,
-      "Чураков Андрей Анатольевич": 1,
-      "Юрков Дмитрий Васильевич": 46
+      "gas:candidate-vibid:2292000789647": 7,
+      "gas:candidate-vibid:2292000786560": 17,
+      "gas:candidate-vibid:2292000788448": 1,
+      "gas:candidate-vibid:2292000787014": 6,
+      "gas:candidate-vibid:2292000777782": 15,
+      "gas:candidate-vibid:2292000788112": 1,
+      "gas:candidate-vibid:2292000790241": 0,
+      "gas:candidate-vibid:2292000789553": 1,
+      "gas:candidate-vibid:2292000789248": 46
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/arkhangelsk?action=show&root=1000091&tvd=2292000756630&vrn=100100067795849&region=29&global=&sub_region=29&prver=0&pronetvd=null&vibid=2292000756630&type=464",
@@ -11371,15 +11371,15 @@ export const duma_2016_uik_463_region_29_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Буторин Михаил Вениаминович": 2,
-      "Епифанова Ольга Николаевна": 7,
-      "Ерыкалов Вячеслав Борисович": 4,
-      "Новиков Александр Владимирович": 11,
-      "Пивков Сергей Анатольевич": 4,
-      "Русаков Юрий Михайлович": 1,
-      "Силантьев Михаил Сергеевич": 2,
-      "Чураков Андрей Анатольевич": 1,
-      "Юрков Дмитрий Васильевич": 79
+      "gas:candidate-vibid:2292000789647": 2,
+      "gas:candidate-vibid:2292000786560": 7,
+      "gas:candidate-vibid:2292000788448": 4,
+      "gas:candidate-vibid:2292000787014": 11,
+      "gas:candidate-vibid:2292000777782": 4,
+      "gas:candidate-vibid:2292000788112": 1,
+      "gas:candidate-vibid:2292000790241": 2,
+      "gas:candidate-vibid:2292000789553": 1,
+      "gas:candidate-vibid:2292000789248": 79
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/arkhangelsk?action=show&root=1000091&tvd=2292000756630&vrn=100100067795849&region=29&global=&sub_region=29&prver=0&pronetvd=null&vibid=2292000756630&type=464",
@@ -11430,15 +11430,15 @@ export const duma_2016_uik_463_region_29_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Буторин Михаил Вениаминович": 6,
-      "Епифанова Ольга Николаевна": 13,
-      "Ерыкалов Вячеслав Борисович": 4,
-      "Новиков Александр Владимирович": 4,
-      "Пивков Сергей Анатольевич": 3,
-      "Русаков Юрий Михайлович": 3,
-      "Силантьев Михаил Сергеевич": 2,
-      "Чураков Андрей Анатольевич": 2,
-      "Юрков Дмитрий Васильевич": 44
+      "gas:candidate-vibid:2292000789647": 6,
+      "gas:candidate-vibid:2292000786560": 13,
+      "gas:candidate-vibid:2292000788448": 4,
+      "gas:candidate-vibid:2292000787014": 4,
+      "gas:candidate-vibid:2292000777782": 3,
+      "gas:candidate-vibid:2292000788112": 3,
+      "gas:candidate-vibid:2292000790241": 2,
+      "gas:candidate-vibid:2292000789553": 2,
+      "gas:candidate-vibid:2292000789248": 44
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/arkhangelsk?action=show&root=1000091&tvd=2292000756630&vrn=100100067795849&region=29&global=&sub_region=29&prver=0&pronetvd=null&vibid=2292000756630&type=464",
@@ -11489,15 +11489,15 @@ export const duma_2016_uik_463_region_29_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Буторин Михаил Вениаминович": 10,
-      "Епифанова Ольга Николаевна": 30,
-      "Ерыкалов Вячеслав Борисович": 5,
-      "Новиков Александр Владимирович": 33,
-      "Пивков Сергей Анатольевич": 27,
-      "Русаков Юрий Михайлович": 4,
-      "Силантьев Михаил Сергеевич": 0,
-      "Чураков Андрей Анатольевич": 3,
-      "Юрков Дмитрий Васильевич": 196
+      "gas:candidate-vibid:2292000789647": 10,
+      "gas:candidate-vibid:2292000786560": 30,
+      "gas:candidate-vibid:2292000788448": 5,
+      "gas:candidate-vibid:2292000787014": 33,
+      "gas:candidate-vibid:2292000777782": 27,
+      "gas:candidate-vibid:2292000788112": 4,
+      "gas:candidate-vibid:2292000790241": 0,
+      "gas:candidate-vibid:2292000789553": 3,
+      "gas:candidate-vibid:2292000789248": 196
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/arkhangelsk?action=show&root=1000091&tvd=2292000756630&vrn=100100067795849&region=29&global=&sub_region=29&prver=0&pronetvd=null&vibid=2292000756630&type=464",
@@ -11548,15 +11548,15 @@ export const duma_2016_uik_463_region_29_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Буторин Михаил Вениаминович": 9,
-      "Епифанова Ольга Николаевна": 52,
-      "Ерыкалов Вячеслав Борисович": 7,
-      "Новиков Александр Владимирович": 39,
-      "Пивков Сергей Анатольевич": 34,
-      "Русаков Юрий Михайлович": 7,
-      "Силантьев Михаил Сергеевич": 4,
-      "Чураков Андрей Анатольевич": 2,
-      "Юрков Дмитрий Васильевич": 132
+      "gas:candidate-vibid:2292000789647": 9,
+      "gas:candidate-vibid:2292000786560": 52,
+      "gas:candidate-vibid:2292000788448": 7,
+      "gas:candidate-vibid:2292000787014": 39,
+      "gas:candidate-vibid:2292000777782": 34,
+      "gas:candidate-vibid:2292000788112": 7,
+      "gas:candidate-vibid:2292000790241": 4,
+      "gas:candidate-vibid:2292000789553": 2,
+      "gas:candidate-vibid:2292000789248": 132
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/arkhangelsk?action=show&root=1000091&tvd=2292000756630&vrn=100100067795849&region=29&global=&sub_region=29&prver=0&pronetvd=null&vibid=2292000756630&type=464",
@@ -11607,15 +11607,15 @@ export const duma_2016_uik_463_region_29_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Буторин Михаил Вениаминович": 8,
-      "Епифанова Ольга Николаевна": 62,
-      "Ерыкалов Вячеслав Борисович": 7,
-      "Новиков Александр Владимирович": 25,
-      "Пивков Сергей Анатольевич": 29,
-      "Русаков Юрий Михайлович": 4,
-      "Силантьев Михаил Сергеевич": 3,
-      "Чураков Андрей Анатольевич": 1,
-      "Юрков Дмитрий Васильевич": 125
+      "gas:candidate-vibid:2292000789647": 8,
+      "gas:candidate-vibid:2292000786560": 62,
+      "gas:candidate-vibid:2292000788448": 7,
+      "gas:candidate-vibid:2292000787014": 25,
+      "gas:candidate-vibid:2292000777782": 29,
+      "gas:candidate-vibid:2292000788112": 4,
+      "gas:candidate-vibid:2292000790241": 3,
+      "gas:candidate-vibid:2292000789553": 1,
+      "gas:candidate-vibid:2292000789248": 125
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/arkhangelsk?action=show&root=1000091&tvd=2292000756630&vrn=100100067795849&region=29&global=&sub_region=29&prver=0&pronetvd=null&vibid=2292000756630&type=464",
@@ -11666,15 +11666,15 @@ export const duma_2016_uik_463_region_29_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Буторин Михаил Вениаминович": 10,
-      "Епифанова Ольга Николаевна": 47,
-      "Ерыкалов Вячеслав Борисович": 4,
-      "Новиков Александр Владимирович": 44,
-      "Пивков Сергей Анатольевич": 31,
-      "Русаков Юрий Михайлович": 3,
-      "Силантьев Михаил Сергеевич": 8,
-      "Чураков Андрей Анатольевич": 4,
-      "Юрков Дмитрий Васильевич": 107
+      "gas:candidate-vibid:2292000789647": 10,
+      "gas:candidate-vibid:2292000786560": 47,
+      "gas:candidate-vibid:2292000788448": 4,
+      "gas:candidate-vibid:2292000787014": 44,
+      "gas:candidate-vibid:2292000777782": 31,
+      "gas:candidate-vibid:2292000788112": 3,
+      "gas:candidate-vibid:2292000790241": 8,
+      "gas:candidate-vibid:2292000789553": 4,
+      "gas:candidate-vibid:2292000789248": 107
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/arkhangelsk?action=show&root=1000091&tvd=2292000756630&vrn=100100067795849&region=29&global=&sub_region=29&prver=0&pronetvd=null&vibid=2292000756630&type=464",
@@ -11725,15 +11725,15 @@ export const duma_2016_uik_463_region_29_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Буторин Михаил Вениаминович": 12,
-      "Епифанова Ольга Николаевна": 75,
-      "Ерыкалов Вячеслав Борисович": 10,
-      "Новиков Александр Владимирович": 53,
-      "Пивков Сергей Анатольевич": 41,
-      "Русаков Юрий Михайлович": 8,
-      "Силантьев Михаил Сергеевич": 11,
-      "Чураков Андрей Анатольевич": 5,
-      "Юрков Дмитрий Васильевич": 182
+      "gas:candidate-vibid:2292000789647": 12,
+      "gas:candidate-vibid:2292000786560": 75,
+      "gas:candidate-vibid:2292000788448": 10,
+      "gas:candidate-vibid:2292000787014": 53,
+      "gas:candidate-vibid:2292000777782": 41,
+      "gas:candidate-vibid:2292000788112": 8,
+      "gas:candidate-vibid:2292000790241": 11,
+      "gas:candidate-vibid:2292000789553": 5,
+      "gas:candidate-vibid:2292000789248": 182
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/arkhangelsk?action=show&root=1000091&tvd=2292000756630&vrn=100100067795849&region=29&global=&sub_region=29&prver=0&pronetvd=null&vibid=2292000756630&type=464",
@@ -11784,15 +11784,15 @@ export const duma_2016_uik_463_region_29_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Буторин Михаил Вениаминович": 13,
-      "Епифанова Ольга Николаевна": 58,
-      "Ерыкалов Вячеслав Борисович": 4,
-      "Новиков Александр Владимирович": 40,
-      "Пивков Сергей Анатольевич": 41,
-      "Русаков Юрий Михайлович": 7,
-      "Силантьев Михаил Сергеевич": 4,
-      "Чураков Андрей Анатольевич": 4,
-      "Юрков Дмитрий Васильевич": 111
+      "gas:candidate-vibid:2292000789647": 13,
+      "gas:candidate-vibid:2292000786560": 58,
+      "gas:candidate-vibid:2292000788448": 4,
+      "gas:candidate-vibid:2292000787014": 40,
+      "gas:candidate-vibid:2292000777782": 41,
+      "gas:candidate-vibid:2292000788112": 7,
+      "gas:candidate-vibid:2292000790241": 4,
+      "gas:candidate-vibid:2292000789553": 4,
+      "gas:candidate-vibid:2292000789248": 111
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/arkhangelsk?action=show&root=1000091&tvd=2292000756630&vrn=100100067795849&region=29&global=&sub_region=29&prver=0&pronetvd=null&vibid=2292000756630&type=464",
@@ -11843,15 +11843,15 @@ export const duma_2016_uik_463_region_29_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Буторин Михаил Вениаминович": 6,
-      "Епифанова Ольга Николаевна": 13,
-      "Ерыкалов Вячеслав Борисович": 2,
-      "Новиков Александр Владимирович": 12,
-      "Пивков Сергей Анатольевич": 12,
-      "Русаков Юрий Михайлович": 4,
-      "Силантьев Михаил Сергеевич": 1,
-      "Чураков Андрей Анатольевич": 1,
-      "Юрков Дмитрий Васильевич": 50
+      "gas:candidate-vibid:2292000789647": 6,
+      "gas:candidate-vibid:2292000786560": 13,
+      "gas:candidate-vibid:2292000788448": 2,
+      "gas:candidate-vibid:2292000787014": 12,
+      "gas:candidate-vibid:2292000777782": 12,
+      "gas:candidate-vibid:2292000788112": 4,
+      "gas:candidate-vibid:2292000790241": 1,
+      "gas:candidate-vibid:2292000789553": 1,
+      "gas:candidate-vibid:2292000789248": 50
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/arkhangelsk?action=show&root=1000091&tvd=2292000756630&vrn=100100067795849&region=29&global=&sub_region=29&prver=0&pronetvd=null&vibid=2292000756630&type=464",
@@ -11902,15 +11902,15 @@ export const duma_2016_uik_463_region_29_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Буторин Михаил Вениаминович": 5,
-      "Епифанова Ольга Николаевна": 8,
-      "Ерыкалов Вячеслав Борисович": 2,
-      "Новиков Александр Владимирович": 20,
-      "Пивков Сергей Анатольевич": 5,
-      "Русаков Юрий Михайлович": 5,
-      "Силантьев Михаил Сергеевич": 3,
-      "Чураков Андрей Анатольевич": 1,
-      "Юрков Дмитрий Васильевич": 94
+      "gas:candidate-vibid:2292000789647": 5,
+      "gas:candidate-vibid:2292000786560": 8,
+      "gas:candidate-vibid:2292000788448": 2,
+      "gas:candidate-vibid:2292000787014": 20,
+      "gas:candidate-vibid:2292000777782": 5,
+      "gas:candidate-vibid:2292000788112": 5,
+      "gas:candidate-vibid:2292000790241": 3,
+      "gas:candidate-vibid:2292000789553": 1,
+      "gas:candidate-vibid:2292000789248": 94
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/arkhangelsk?action=show&root=1000091&tvd=2292000756630&vrn=100100067795849&region=29&global=&sub_region=29&prver=0&pronetvd=null&vibid=2292000756630&type=464",
@@ -11961,15 +11961,15 @@ export const duma_2016_uik_463_region_29_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Буторин Михаил Вениаминович": 3,
-      "Епифанова Ольга Николаевна": 11,
-      "Ерыкалов Вячеслав Борисович": 1,
-      "Новиков Александр Владимирович": 9,
-      "Пивков Сергей Анатольевич": 5,
-      "Русаков Юрий Михайлович": 1,
-      "Силантьев Михаил Сергеевич": 2,
-      "Чураков Андрей Анатольевич": 0,
-      "Юрков Дмитрий Васильевич": 50
+      "gas:candidate-vibid:2292000789647": 3,
+      "gas:candidate-vibid:2292000786560": 11,
+      "gas:candidate-vibid:2292000788448": 1,
+      "gas:candidate-vibid:2292000787014": 9,
+      "gas:candidate-vibid:2292000777782": 5,
+      "gas:candidate-vibid:2292000788112": 1,
+      "gas:candidate-vibid:2292000790241": 2,
+      "gas:candidate-vibid:2292000789553": 0,
+      "gas:candidate-vibid:2292000789248": 50
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/arkhangelsk?action=show&root=1000091&tvd=2292000756630&vrn=100100067795849&region=29&global=&sub_region=29&prver=0&pronetvd=null&vibid=2292000756630&type=464",
@@ -12020,15 +12020,15 @@ export const duma_2016_uik_463_region_29_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Буторин Михаил Вениаминович": 22,
-      "Епифанова Ольга Николаевна": 114,
-      "Ерыкалов Вячеслав Борисович": 6,
-      "Новиков Александр Владимирович": 56,
-      "Пивков Сергей Анатольевич": 54,
-      "Русаков Юрий Михайлович": 10,
-      "Силантьев Михаил Сергеевич": 12,
-      "Чураков Андрей Анатольевич": 4,
-      "Юрков Дмитрий Васильевич": 158
+      "gas:candidate-vibid:2292000789647": 22,
+      "gas:candidate-vibid:2292000786560": 114,
+      "gas:candidate-vibid:2292000788448": 6,
+      "gas:candidate-vibid:2292000787014": 56,
+      "gas:candidate-vibid:2292000777782": 54,
+      "gas:candidate-vibid:2292000788112": 10,
+      "gas:candidate-vibid:2292000790241": 12,
+      "gas:candidate-vibid:2292000789553": 4,
+      "gas:candidate-vibid:2292000789248": 158
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/arkhangelsk?action=show&root=1000091&tvd=2292000756630&vrn=100100067795849&region=29&global=&sub_region=29&prver=0&pronetvd=null&vibid=2292000756630&type=464",
@@ -12079,15 +12079,15 @@ export const duma_2016_uik_463_region_29_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Буторин Михаил Вениаминович": 16,
-      "Епифанова Ольга Николаевна": 129,
-      "Ерыкалов Вячеслав Борисович": 15,
-      "Новиков Александр Владимирович": 65,
-      "Пивков Сергей Анатольевич": 102,
-      "Русаков Юрий Михайлович": 13,
-      "Силантьев Михаил Сергеевич": 21,
-      "Чураков Андрей Анатольевич": 20,
-      "Юрков Дмитрий Васильевич": 230
+      "gas:candidate-vibid:2292000789647": 16,
+      "gas:candidate-vibid:2292000786560": 129,
+      "gas:candidate-vibid:2292000788448": 15,
+      "gas:candidate-vibid:2292000787014": 65,
+      "gas:candidate-vibid:2292000777782": 102,
+      "gas:candidate-vibid:2292000788112": 13,
+      "gas:candidate-vibid:2292000790241": 21,
+      "gas:candidate-vibid:2292000789553": 20,
+      "gas:candidate-vibid:2292000789248": 230
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/arkhangelsk?action=show&root=1000091&tvd=2292000756630&vrn=100100067795849&region=29&global=&sub_region=29&prver=0&pronetvd=null&vibid=2292000756630&type=464",
@@ -12138,15 +12138,15 @@ export const duma_2016_uik_463_region_29_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Буторин Михаил Вениаминович": 14,
-      "Епифанова Ольга Николаевна": 52,
-      "Ерыкалов Вячеслав Борисович": 2,
-      "Новиков Александр Владимирович": 19,
-      "Пивков Сергей Анатольевич": 22,
-      "Русаков Юрий Михайлович": 6,
-      "Силантьев Михаил Сергеевич": 5,
-      "Чураков Андрей Анатольевич": 3,
-      "Юрков Дмитрий Васильевич": 85
+      "gas:candidate-vibid:2292000789647": 14,
+      "gas:candidate-vibid:2292000786560": 52,
+      "gas:candidate-vibid:2292000788448": 2,
+      "gas:candidate-vibid:2292000787014": 19,
+      "gas:candidate-vibid:2292000777782": 22,
+      "gas:candidate-vibid:2292000788112": 6,
+      "gas:candidate-vibid:2292000790241": 5,
+      "gas:candidate-vibid:2292000789553": 3,
+      "gas:candidate-vibid:2292000789248": 85
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/arkhangelsk?action=show&root=1000091&tvd=2292000756630&vrn=100100067795849&region=29&global=&sub_region=29&prver=0&pronetvd=null&vibid=2292000756630&type=464",
@@ -12197,15 +12197,15 @@ export const duma_2016_uik_463_region_29_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Буторин Михаил Вениаминович": 7,
-      "Епифанова Ольга Николаевна": 27,
-      "Ерыкалов Вячеслав Борисович": 2,
-      "Новиков Александр Владимирович": 14,
-      "Пивков Сергей Анатольевич": 16,
-      "Русаков Юрий Михайлович": 1,
-      "Силантьев Михаил Сергеевич": 3,
-      "Чураков Андрей Анатольевич": 2,
-      "Юрков Дмитрий Васильевич": 92
+      "gas:candidate-vibid:2292000789647": 7,
+      "gas:candidate-vibid:2292000786560": 27,
+      "gas:candidate-vibid:2292000788448": 2,
+      "gas:candidate-vibid:2292000787014": 14,
+      "gas:candidate-vibid:2292000777782": 16,
+      "gas:candidate-vibid:2292000788112": 1,
+      "gas:candidate-vibid:2292000790241": 3,
+      "gas:candidate-vibid:2292000789553": 2,
+      "gas:candidate-vibid:2292000789248": 92
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/arkhangelsk?action=show&root=1000091&tvd=2292000756630&vrn=100100067795849&region=29&global=&sub_region=29&prver=0&pronetvd=null&vibid=2292000756630&type=464",
@@ -12256,15 +12256,15 @@ export const duma_2016_uik_463_region_29_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Буторин Михаил Вениаминович": 3,
-      "Епифанова Ольга Николаевна": 18,
-      "Ерыкалов Вячеслав Борисович": 1,
-      "Новиков Александр Владимирович": 6,
-      "Пивков Сергей Анатольевич": 8,
-      "Русаков Юрий Михайлович": 3,
-      "Силантьев Михаил Сергеевич": 1,
-      "Чураков Андрей Анатольевич": 0,
-      "Юрков Дмитрий Васильевич": 57
+      "gas:candidate-vibid:2292000789647": 3,
+      "gas:candidate-vibid:2292000786560": 18,
+      "gas:candidate-vibid:2292000788448": 1,
+      "gas:candidate-vibid:2292000787014": 6,
+      "gas:candidate-vibid:2292000777782": 8,
+      "gas:candidate-vibid:2292000788112": 3,
+      "gas:candidate-vibid:2292000790241": 1,
+      "gas:candidate-vibid:2292000789553": 0,
+      "gas:candidate-vibid:2292000789248": 57
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/arkhangelsk?action=show&root=1000091&tvd=2292000756630&vrn=100100067795849&region=29&global=&sub_region=29&prver=0&pronetvd=null&vibid=2292000756630&type=464",
@@ -12315,15 +12315,15 @@ export const duma_2016_uik_463_region_29_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Буторин Михаил Вениаминович": 9,
-      "Епифанова Ольга Николаевна": 39,
-      "Ерыкалов Вячеслав Борисович": 3,
-      "Новиков Александр Владимирович": 27,
-      "Пивков Сергей Анатольевич": 16,
-      "Русаков Юрий Михайлович": 3,
-      "Силантьев Михаил Сергеевич": 3,
-      "Чураков Андрей Анатольевич": 3,
-      "Юрков Дмитрий Васильевич": 163
+      "gas:candidate-vibid:2292000789647": 9,
+      "gas:candidate-vibid:2292000786560": 39,
+      "gas:candidate-vibid:2292000788448": 3,
+      "gas:candidate-vibid:2292000787014": 27,
+      "gas:candidate-vibid:2292000777782": 16,
+      "gas:candidate-vibid:2292000788112": 3,
+      "gas:candidate-vibid:2292000790241": 3,
+      "gas:candidate-vibid:2292000789553": 3,
+      "gas:candidate-vibid:2292000789248": 163
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/arkhangelsk?action=show&root=1000091&tvd=2292000756630&vrn=100100067795849&region=29&global=&sub_region=29&prver=0&pronetvd=null&vibid=2292000756630&type=464",
@@ -12374,15 +12374,15 @@ export const duma_2016_uik_463_region_29_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Буторин Михаил Вениаминович": 20,
-      "Епифанова Ольга Николаевна": 66,
-      "Ерыкалов Вячеслав Борисович": 7,
-      "Новиков Александр Владимирович": 33,
-      "Пивков Сергей Анатольевич": 51,
-      "Русаков Юрий Михайлович": 8,
-      "Силантьев Михаил Сергеевич": 14,
-      "Чураков Андрей Анатольевич": 3,
-      "Юрков Дмитрий Васильевич": 175
+      "gas:candidate-vibid:2292000789647": 20,
+      "gas:candidate-vibid:2292000786560": 66,
+      "gas:candidate-vibid:2292000788448": 7,
+      "gas:candidate-vibid:2292000787014": 33,
+      "gas:candidate-vibid:2292000777782": 51,
+      "gas:candidate-vibid:2292000788112": 8,
+      "gas:candidate-vibid:2292000790241": 14,
+      "gas:candidate-vibid:2292000789553": 3,
+      "gas:candidate-vibid:2292000789248": 175
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/arkhangelsk?action=show&root=1000091&tvd=2292000756630&vrn=100100067795849&region=29&global=&sub_region=29&prver=0&pronetvd=null&vibid=2292000756630&type=464",
@@ -12433,15 +12433,15 @@ export const duma_2016_uik_463_region_29_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Буторин Михаил Вениаминович": 6,
-      "Епифанова Ольга Николаевна": 4,
-      "Ерыкалов Вячеслав Борисович": 0,
-      "Новиков Александр Владимирович": 3,
-      "Пивков Сергей Анатольевич": 5,
-      "Русаков Юрий Михайлович": 0,
-      "Силантьев Михаил Сергеевич": 2,
-      "Чураков Андрей Анатольевич": 0,
-      "Юрков Дмитрий Васильевич": 44
+      "gas:candidate-vibid:2292000789647": 6,
+      "gas:candidate-vibid:2292000786560": 4,
+      "gas:candidate-vibid:2292000788448": 0,
+      "gas:candidate-vibid:2292000787014": 3,
+      "gas:candidate-vibid:2292000777782": 5,
+      "gas:candidate-vibid:2292000788112": 0,
+      "gas:candidate-vibid:2292000790241": 2,
+      "gas:candidate-vibid:2292000789553": 0,
+      "gas:candidate-vibid:2292000789248": 44
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/arkhangelsk?action=show&root=1000091&tvd=2292000756630&vrn=100100067795849&region=29&global=&sub_region=29&prver=0&pronetvd=null&vibid=2292000756630&type=464",
@@ -12492,15 +12492,15 @@ export const duma_2016_uik_463_region_29_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Буторин Михаил Вениаминович": 9,
-      "Епифанова Ольга Николаевна": 4,
-      "Ерыкалов Вячеслав Борисович": 2,
-      "Новиков Александр Владимирович": 3,
-      "Пивков Сергей Анатольевич": 1,
-      "Русаков Юрий Михайлович": 0,
-      "Силантьев Михаил Сергеевич": 0,
-      "Чураков Андрей Анатольевич": 1,
-      "Юрков Дмитрий Васильевич": 51
+      "gas:candidate-vibid:2292000789647": 9,
+      "gas:candidate-vibid:2292000786560": 4,
+      "gas:candidate-vibid:2292000788448": 2,
+      "gas:candidate-vibid:2292000787014": 3,
+      "gas:candidate-vibid:2292000777782": 1,
+      "gas:candidate-vibid:2292000788112": 0,
+      "gas:candidate-vibid:2292000790241": 0,
+      "gas:candidate-vibid:2292000789553": 1,
+      "gas:candidate-vibid:2292000789248": 51
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/arkhangelsk?action=show&root=1000091&tvd=2292000756630&vrn=100100067795849&region=29&global=&sub_region=29&prver=0&pronetvd=null&vibid=2292000756630&type=464",
@@ -12551,15 +12551,15 @@ export const duma_2016_uik_463_region_29_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Буторин Михаил Вениаминович": 19,
-      "Епифанова Ольга Николаевна": 55,
-      "Ерыкалов Вячеслав Борисович": 3,
-      "Новиков Александр Владимирович": 54,
-      "Пивков Сергей Анатольевич": 41,
-      "Русаков Юрий Михайлович": 6,
-      "Силантьев Михаил Сергеевич": 6,
-      "Чураков Андрей Анатольевич": 4,
-      "Юрков Дмитрий Васильевич": 128
+      "gas:candidate-vibid:2292000789647": 19,
+      "gas:candidate-vibid:2292000786560": 55,
+      "gas:candidate-vibid:2292000788448": 3,
+      "gas:candidate-vibid:2292000787014": 54,
+      "gas:candidate-vibid:2292000777782": 41,
+      "gas:candidate-vibid:2292000788112": 6,
+      "gas:candidate-vibid:2292000790241": 6,
+      "gas:candidate-vibid:2292000789553": 4,
+      "gas:candidate-vibid:2292000789248": 128
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/arkhangelsk?action=show&root=1000091&tvd=2292000756630&vrn=100100067795849&region=29&global=&sub_region=29&prver=0&pronetvd=null&vibid=2292000756630&type=464",
@@ -12610,15 +12610,15 @@ export const duma_2016_uik_463_region_29_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Буторин Михаил Вениаминович": 6,
-      "Епифанова Ольга Николаевна": 29,
-      "Ерыкалов Вячеслав Борисович": 2,
-      "Новиков Александр Владимирович": 10,
-      "Пивков Сергей Анатольевич": 14,
-      "Русаков Юрий Михайлович": 5,
-      "Силантьев Михаил Сергеевич": 2,
-      "Чураков Андрей Анатольевич": 1,
-      "Юрков Дмитрий Васильевич": 60
+      "gas:candidate-vibid:2292000789647": 6,
+      "gas:candidate-vibid:2292000786560": 29,
+      "gas:candidate-vibid:2292000788448": 2,
+      "gas:candidate-vibid:2292000787014": 10,
+      "gas:candidate-vibid:2292000777782": 14,
+      "gas:candidate-vibid:2292000788112": 5,
+      "gas:candidate-vibid:2292000790241": 2,
+      "gas:candidate-vibid:2292000789553": 1,
+      "gas:candidate-vibid:2292000789248": 60
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/arkhangelsk?action=show&root=1000091&tvd=2292000756630&vrn=100100067795849&region=29&global=&sub_region=29&prver=0&pronetvd=null&vibid=2292000756630&type=464",
@@ -12669,15 +12669,15 @@ export const duma_2016_uik_463_region_29_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Буторин Михаил Вениаминович": 2,
-      "Епифанова Ольга Николаевна": 7,
-      "Ерыкалов Вячеслав Борисович": 1,
-      "Новиков Александр Владимирович": 8,
-      "Пивков Сергей Анатольевич": 6,
-      "Русаков Юрий Михайлович": 4,
-      "Силантьев Михаил Сергеевич": 2,
-      "Чураков Андрей Анатольевич": 0,
-      "Юрков Дмитрий Васильевич": 52
+      "gas:candidate-vibid:2292000789647": 2,
+      "gas:candidate-vibid:2292000786560": 7,
+      "gas:candidate-vibid:2292000788448": 1,
+      "gas:candidate-vibid:2292000787014": 8,
+      "gas:candidate-vibid:2292000777782": 6,
+      "gas:candidate-vibid:2292000788112": 4,
+      "gas:candidate-vibid:2292000790241": 2,
+      "gas:candidate-vibid:2292000789553": 0,
+      "gas:candidate-vibid:2292000789248": 52
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/arkhangelsk?action=show&root=1000091&tvd=2292000756630&vrn=100100067795849&region=29&global=&sub_region=29&prver=0&pronetvd=null&vibid=2292000756630&type=464",
@@ -12728,15 +12728,15 @@ export const duma_2016_uik_463_region_29_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Буторин Михаил Вениаминович": 5,
-      "Епифанова Ольга Николаевна": 28,
-      "Ерыкалов Вячеслав Борисович": 2,
-      "Новиков Александр Владимирович": 19,
-      "Пивков Сергей Анатольевич": 16,
-      "Русаков Юрий Михайлович": 4,
-      "Силантьев Михаил Сергеевич": 2,
-      "Чураков Андрей Анатольевич": 1,
-      "Юрков Дмитрий Васильевич": 92
+      "gas:candidate-vibid:2292000789647": 5,
+      "gas:candidate-vibid:2292000786560": 28,
+      "gas:candidate-vibid:2292000788448": 2,
+      "gas:candidate-vibid:2292000787014": 19,
+      "gas:candidate-vibid:2292000777782": 16,
+      "gas:candidate-vibid:2292000788112": 4,
+      "gas:candidate-vibid:2292000790241": 2,
+      "gas:candidate-vibid:2292000789553": 1,
+      "gas:candidate-vibid:2292000789248": 92
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/arkhangelsk?action=show&root=1000091&tvd=2292000756630&vrn=100100067795849&region=29&global=&sub_region=29&prver=0&pronetvd=null&vibid=2292000756630&type=464",
@@ -12787,15 +12787,15 @@ export const duma_2016_uik_463_region_29_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Буторин Михаил Вениаминович": 3,
-      "Епифанова Ольга Николаевна": 4,
-      "Ерыкалов Вячеслав Борисович": 0,
-      "Новиков Александр Владимирович": 2,
-      "Пивков Сергей Анатольевич": 6,
-      "Русаков Юрий Михайлович": 0,
-      "Силантьев Михаил Сергеевич": 1,
-      "Чураков Андрей Анатольевич": 0,
-      "Юрков Дмитрий Васильевич": 24
+      "gas:candidate-vibid:2292000789647": 3,
+      "gas:candidate-vibid:2292000786560": 4,
+      "gas:candidate-vibid:2292000788448": 0,
+      "gas:candidate-vibid:2292000787014": 2,
+      "gas:candidate-vibid:2292000777782": 6,
+      "gas:candidate-vibid:2292000788112": 0,
+      "gas:candidate-vibid:2292000790241": 1,
+      "gas:candidate-vibid:2292000789553": 0,
+      "gas:candidate-vibid:2292000789248": 24
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/arkhangelsk?action=show&root=1000091&tvd=2292000756630&vrn=100100067795849&region=29&global=&sub_region=29&prver=0&pronetvd=null&vibid=2292000756630&type=464",
@@ -12846,15 +12846,15 @@ export const duma_2016_uik_463_region_29_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Буторин Михаил Вениаминович": 13,
-      "Епифанова Ольга Николаевна": 106,
-      "Ерыкалов Вячеслав Борисович": 6,
-      "Новиков Александр Владимирович": 42,
-      "Пивков Сергей Анатольевич": 66,
-      "Русаков Юрий Михайлович": 15,
-      "Силантьев Михаил Сергеевич": 18,
-      "Чураков Андрей Анатольевич": 5,
-      "Юрков Дмитрий Васильевич": 261
+      "gas:candidate-vibid:2292000789647": 13,
+      "gas:candidate-vibid:2292000786560": 106,
+      "gas:candidate-vibid:2292000788448": 6,
+      "gas:candidate-vibid:2292000787014": 42,
+      "gas:candidate-vibid:2292000777782": 66,
+      "gas:candidate-vibid:2292000788112": 15,
+      "gas:candidate-vibid:2292000790241": 18,
+      "gas:candidate-vibid:2292000789553": 5,
+      "gas:candidate-vibid:2292000789248": 261
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/arkhangelsk?action=show&root=1000091&tvd=2292000756630&vrn=100100067795849&region=29&global=&sub_region=29&prver=0&pronetvd=null&vibid=2292000756630&type=464",
@@ -12905,15 +12905,15 @@ export const duma_2016_uik_463_region_29_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Буторин Михаил Вениаминович": 16,
-      "Епифанова Ольга Николаевна": 46,
-      "Ерыкалов Вячеслав Борисович": 3,
-      "Новиков Александр Владимирович": 30,
-      "Пивков Сергей Анатольевич": 31,
-      "Русаков Юрий Михайлович": 3,
-      "Силантьев Михаил Сергеевич": 6,
-      "Чураков Андрей Анатольевич": 6,
-      "Юрков Дмитрий Васильевич": 201
+      "gas:candidate-vibid:2292000789647": 16,
+      "gas:candidate-vibid:2292000786560": 46,
+      "gas:candidate-vibid:2292000788448": 3,
+      "gas:candidate-vibid:2292000787014": 30,
+      "gas:candidate-vibid:2292000777782": 31,
+      "gas:candidate-vibid:2292000788112": 3,
+      "gas:candidate-vibid:2292000790241": 6,
+      "gas:candidate-vibid:2292000789553": 6,
+      "gas:candidate-vibid:2292000789248": 201
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/arkhangelsk?action=show&root=1000091&tvd=2292000756630&vrn=100100067795849&region=29&global=&sub_region=29&prver=0&pronetvd=null&vibid=2292000756630&type=464",
@@ -12964,15 +12964,15 @@ export const duma_2016_uik_463_region_29_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Буторин Михаил Вениаминович": 4,
-      "Епифанова Ольга Николаевна": 18,
-      "Ерыкалов Вячеслав Борисович": 0,
-      "Новиков Александр Владимирович": 9,
-      "Пивков Сергей Анатольевич": 11,
-      "Русаков Юрий Михайлович": 3,
-      "Силантьев Михаил Сергеевич": 2,
-      "Чураков Андрей Анатольевич": 0,
-      "Юрков Дмитрий Васильевич": 66
+      "gas:candidate-vibid:2292000789647": 4,
+      "gas:candidate-vibid:2292000786560": 18,
+      "gas:candidate-vibid:2292000788448": 0,
+      "gas:candidate-vibid:2292000787014": 9,
+      "gas:candidate-vibid:2292000777782": 11,
+      "gas:candidate-vibid:2292000788112": 3,
+      "gas:candidate-vibid:2292000790241": 2,
+      "gas:candidate-vibid:2292000789553": 0,
+      "gas:candidate-vibid:2292000789248": 66
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/arkhangelsk?action=show&root=1000091&tvd=2292000756630&vrn=100100067795849&region=29&global=&sub_region=29&prver=0&pronetvd=null&vibid=2292000756630&type=464",
@@ -13023,15 +13023,15 @@ export const duma_2016_uik_463_region_29_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Буторин Михаил Вениаминович": 7,
-      "Епифанова Ольга Николаевна": 17,
-      "Ерыкалов Вячеслав Борисович": 5,
-      "Новиков Александр Владимирович": 31,
-      "Пивков Сергей Анатольевич": 26,
-      "Русаков Юрий Михайлович": 10,
-      "Силантьев Михаил Сергеевич": 4,
-      "Чураков Андрей Анатольевич": 1,
-      "Юрков Дмитрий Васильевич": 130
+      "gas:candidate-vibid:2292000789647": 7,
+      "gas:candidate-vibid:2292000786560": 17,
+      "gas:candidate-vibid:2292000788448": 5,
+      "gas:candidate-vibid:2292000787014": 31,
+      "gas:candidate-vibid:2292000777782": 26,
+      "gas:candidate-vibid:2292000788112": 10,
+      "gas:candidate-vibid:2292000790241": 4,
+      "gas:candidate-vibid:2292000789553": 1,
+      "gas:candidate-vibid:2292000789248": 130
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/arkhangelsk?action=show&root=1000091&tvd=2292000756630&vrn=100100067795849&region=29&global=&sub_region=29&prver=0&pronetvd=null&vibid=2292000756630&type=464",
@@ -13082,15 +13082,15 @@ export const duma_2016_uik_463_region_29_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Буторин Михаил Вениаминович": 2,
-      "Епифанова Ольга Николаевна": 23,
-      "Ерыкалов Вячеслав Борисович": 3,
-      "Новиков Александр Владимирович": 16,
-      "Пивков Сергей Анатольевич": 16,
-      "Русаков Юрий Михайлович": 4,
-      "Силантьев Михаил Сергеевич": 2,
-      "Чураков Андрей Анатольевич": 2,
-      "Юрков Дмитрий Васильевич": 63
+      "gas:candidate-vibid:2292000789647": 2,
+      "gas:candidate-vibid:2292000786560": 23,
+      "gas:candidate-vibid:2292000788448": 3,
+      "gas:candidate-vibid:2292000787014": 16,
+      "gas:candidate-vibid:2292000777782": 16,
+      "gas:candidate-vibid:2292000788112": 4,
+      "gas:candidate-vibid:2292000790241": 2,
+      "gas:candidate-vibid:2292000789553": 2,
+      "gas:candidate-vibid:2292000789248": 63
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/arkhangelsk?action=show&root=1000091&tvd=2292000756630&vrn=100100067795849&region=29&global=&sub_region=29&prver=0&pronetvd=null&vibid=2292000756630&type=464",
@@ -13141,15 +13141,15 @@ export const duma_2016_uik_463_region_29_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Буторин Михаил Вениаминович": 14,
-      "Епифанова Ольга Николаевна": 28,
-      "Ерыкалов Вячеслав Борисович": 4,
-      "Новиков Александр Владимирович": 13,
-      "Пивков Сергей Анатольевич": 17,
-      "Русаков Юрий Михайлович": 6,
-      "Силантьев Михаил Сергеевич": 6,
-      "Чураков Андрей Анатольевич": 4,
-      "Юрков Дмитрий Васильевич": 77
+      "gas:candidate-vibid:2292000789647": 14,
+      "gas:candidate-vibid:2292000786560": 28,
+      "gas:candidate-vibid:2292000788448": 4,
+      "gas:candidate-vibid:2292000787014": 13,
+      "gas:candidate-vibid:2292000777782": 17,
+      "gas:candidate-vibid:2292000788112": 6,
+      "gas:candidate-vibid:2292000790241": 6,
+      "gas:candidate-vibid:2292000789553": 4,
+      "gas:candidate-vibid:2292000789248": 77
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/arkhangelsk?action=show&root=1000091&tvd=2292000756630&vrn=100100067795849&region=29&global=&sub_region=29&prver=0&pronetvd=null&vibid=2292000756630&type=464",
@@ -13200,15 +13200,15 @@ export const duma_2016_uik_463_region_29_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Буторин Михаил Вениаминович": 4,
-      "Епифанова Ольга Николаевна": 14,
-      "Ерыкалов Вячеслав Борисович": 5,
-      "Новиков Александр Владимирович": 6,
-      "Пивков Сергей Анатольевич": 13,
-      "Русаков Юрий Михайлович": 1,
-      "Силантьев Михаил Сергеевич": 2,
-      "Чураков Андрей Анатольевич": 0,
-      "Юрков Дмитрий Васильевич": 40
+      "gas:candidate-vibid:2292000789647": 4,
+      "gas:candidate-vibid:2292000786560": 14,
+      "gas:candidate-vibid:2292000788448": 5,
+      "gas:candidate-vibid:2292000787014": 6,
+      "gas:candidate-vibid:2292000777782": 13,
+      "gas:candidate-vibid:2292000788112": 1,
+      "gas:candidate-vibid:2292000790241": 2,
+      "gas:candidate-vibid:2292000789553": 0,
+      "gas:candidate-vibid:2292000789248": 40
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/arkhangelsk?action=show&root=1000091&tvd=2292000756630&vrn=100100067795849&region=29&global=&sub_region=29&prver=0&pronetvd=null&vibid=2292000756630&type=464",
@@ -13259,15 +13259,15 @@ export const duma_2016_uik_463_region_29_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Буторин Михаил Вениаминович": 13,
-      "Епифанова Ольга Николаевна": 42,
-      "Ерыкалов Вячеслав Борисович": 5,
-      "Новиков Александр Владимирович": 19,
-      "Пивков Сергей Анатольевич": 25,
-      "Русаков Юрий Михайлович": 8,
-      "Силантьев Михаил Сергеевич": 5,
-      "Чураков Андрей Анатольевич": 1,
-      "Юрков Дмитрий Васильевич": 95
+      "gas:candidate-vibid:2292000789647": 13,
+      "gas:candidate-vibid:2292000786560": 42,
+      "gas:candidate-vibid:2292000788448": 5,
+      "gas:candidate-vibid:2292000787014": 19,
+      "gas:candidate-vibid:2292000777782": 25,
+      "gas:candidate-vibid:2292000788112": 8,
+      "gas:candidate-vibid:2292000790241": 5,
+      "gas:candidate-vibid:2292000789553": 1,
+      "gas:candidate-vibid:2292000789248": 95
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/arkhangelsk?action=show&root=1000091&tvd=2292000756630&vrn=100100067795849&region=29&global=&sub_region=29&prver=0&pronetvd=null&vibid=2292000756630&type=464",
@@ -13318,15 +13318,15 @@ export const duma_2016_uik_463_region_29_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Буторин Михаил Вениаминович": 20,
-      "Епифанова Ольга Николаевна": 36,
-      "Ерыкалов Вячеслав Борисович": 2,
-      "Новиков Александр Владимирович": 15,
-      "Пивков Сергей Анатольевич": 26,
-      "Русаков Юрий Михайлович": 11,
-      "Силантьев Михаил Сергеевич": 4,
-      "Чураков Андрей Анатольевич": 0,
-      "Юрков Дмитрий Васильевич": 85
+      "gas:candidate-vibid:2292000789647": 20,
+      "gas:candidate-vibid:2292000786560": 36,
+      "gas:candidate-vibid:2292000788448": 2,
+      "gas:candidate-vibid:2292000787014": 15,
+      "gas:candidate-vibid:2292000777782": 26,
+      "gas:candidate-vibid:2292000788112": 11,
+      "gas:candidate-vibid:2292000790241": 4,
+      "gas:candidate-vibid:2292000789553": 0,
+      "gas:candidate-vibid:2292000789248": 85
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/arkhangelsk?action=show&root=1000091&tvd=2292000756630&vrn=100100067795849&region=29&global=&sub_region=29&prver=0&pronetvd=null&vibid=2292000756630&type=464",
@@ -13377,15 +13377,15 @@ export const duma_2016_uik_463_region_29_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Буторин Михаил Вениаминович": 35,
-      "Епифанова Ольга Николаевна": 78,
-      "Ерыкалов Вячеслав Борисович": 8,
-      "Новиков Александр Владимирович": 60,
-      "Пивков Сергей Анатольевич": 38,
-      "Русаков Юрий Михайлович": 13,
-      "Силантьев Михаил Сергеевич": 12,
-      "Чураков Андрей Анатольевич": 8,
-      "Юрков Дмитрий Васильевич": 308
+      "gas:candidate-vibid:2292000789647": 35,
+      "gas:candidate-vibid:2292000786560": 78,
+      "gas:candidate-vibid:2292000788448": 8,
+      "gas:candidate-vibid:2292000787014": 60,
+      "gas:candidate-vibid:2292000777782": 38,
+      "gas:candidate-vibid:2292000788112": 13,
+      "gas:candidate-vibid:2292000790241": 12,
+      "gas:candidate-vibid:2292000789553": 8,
+      "gas:candidate-vibid:2292000789248": 308
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/arkhangelsk?action=show&root=1000091&tvd=2292000756630&vrn=100100067795849&region=29&global=&sub_region=29&prver=0&pronetvd=null&vibid=2292000756630&type=464",
@@ -13436,15 +13436,15 @@ export const duma_2016_uik_463_region_29_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Буторин Михаил Вениаминович": 4,
-      "Епифанова Ольга Николаевна": 15,
-      "Ерыкалов Вячеслав Борисович": 0,
-      "Новиков Александр Владимирович": 3,
-      "Пивков Сергей Анатольевич": 10,
-      "Русаков Юрий Михайлович": 1,
-      "Силантьев Михаил Сергеевич": 2,
-      "Чураков Андрей Анатольевич": 0,
-      "Юрков Дмитрий Васильевич": 35
+      "gas:candidate-vibid:2292000789647": 4,
+      "gas:candidate-vibid:2292000786560": 15,
+      "gas:candidate-vibid:2292000788448": 0,
+      "gas:candidate-vibid:2292000787014": 3,
+      "gas:candidate-vibid:2292000777782": 10,
+      "gas:candidate-vibid:2292000788112": 1,
+      "gas:candidate-vibid:2292000790241": 2,
+      "gas:candidate-vibid:2292000789553": 0,
+      "gas:candidate-vibid:2292000789248": 35
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/arkhangelsk?action=show&root=1000091&tvd=2292000756630&vrn=100100067795849&region=29&global=&sub_region=29&prver=0&pronetvd=null&vibid=2292000756630&type=464",
@@ -13495,15 +13495,15 @@ export const duma_2016_uik_463_region_29_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Буторин Михаил Вениаминович": 16,
-      "Епифанова Ольга Николаевна": 45,
-      "Ерыкалов Вячеслав Борисович": 4,
-      "Новиков Александр Владимирович": 12,
-      "Пивков Сергей Анатольевич": 15,
-      "Русаков Юрий Михайлович": 4,
-      "Силантьев Михаил Сергеевич": 4,
-      "Чураков Андрей Анатольевич": 2,
-      "Юрков Дмитрий Васильевич": 101
+      "gas:candidate-vibid:2292000789647": 16,
+      "gas:candidate-vibid:2292000786560": 45,
+      "gas:candidate-vibid:2292000788448": 4,
+      "gas:candidate-vibid:2292000787014": 12,
+      "gas:candidate-vibid:2292000777782": 15,
+      "gas:candidate-vibid:2292000788112": 4,
+      "gas:candidate-vibid:2292000790241": 4,
+      "gas:candidate-vibid:2292000789553": 2,
+      "gas:candidate-vibid:2292000789248": 101
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/arkhangelsk?action=show&root=1000091&tvd=2292000756630&vrn=100100067795849&region=29&global=&sub_region=29&prver=0&pronetvd=null&vibid=2292000756630&type=464",
@@ -13554,15 +13554,15 @@ export const duma_2016_uik_463_region_29_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Буторин Михаил Вениаминович": 7,
-      "Епифанова Ольга Николаевна": 35,
-      "Ерыкалов Вячеслав Борисович": 1,
-      "Новиков Александр Владимирович": 15,
-      "Пивков Сергей Анатольевич": 8,
-      "Русаков Юрий Михайлович": 2,
-      "Силантьев Михаил Сергеевич": 3,
-      "Чураков Андрей Анатольевич": 4,
-      "Юрков Дмитрий Васильевич": 74
+      "gas:candidate-vibid:2292000789647": 7,
+      "gas:candidate-vibid:2292000786560": 35,
+      "gas:candidate-vibid:2292000788448": 1,
+      "gas:candidate-vibid:2292000787014": 15,
+      "gas:candidate-vibid:2292000777782": 8,
+      "gas:candidate-vibid:2292000788112": 2,
+      "gas:candidate-vibid:2292000790241": 3,
+      "gas:candidate-vibid:2292000789553": 4,
+      "gas:candidate-vibid:2292000789248": 74
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/arkhangelsk?action=show&root=1000091&tvd=2292000756630&vrn=100100067795849&region=29&global=&sub_region=29&prver=0&pronetvd=null&vibid=2292000756630&type=464",
@@ -13613,15 +13613,15 @@ export const duma_2016_uik_463_region_29_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Буторин Михаил Вениаминович": 9,
-      "Епифанова Ольга Николаевна": 56,
-      "Ерыкалов Вячеслав Борисович": 6,
-      "Новиков Александр Владимирович": 16,
-      "Пивков Сергей Анатольевич": 18,
-      "Русаков Юрий Михайлович": 1,
-      "Силантьев Михаил Сергеевич": 2,
-      "Чураков Андрей Анатольевич": 3,
-      "Юрков Дмитрий Васильевич": 137
+      "gas:candidate-vibid:2292000789647": 9,
+      "gas:candidate-vibid:2292000786560": 56,
+      "gas:candidate-vibid:2292000788448": 6,
+      "gas:candidate-vibid:2292000787014": 16,
+      "gas:candidate-vibid:2292000777782": 18,
+      "gas:candidate-vibid:2292000788112": 1,
+      "gas:candidate-vibid:2292000790241": 2,
+      "gas:candidate-vibid:2292000789553": 3,
+      "gas:candidate-vibid:2292000789248": 137
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/arkhangelsk?action=show&root=1000091&tvd=2292000756630&vrn=100100067795849&region=29&global=&sub_region=29&prver=0&pronetvd=null&vibid=2292000756630&type=464",
@@ -13672,15 +13672,15 @@ export const duma_2016_uik_463_region_29_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Буторин Михаил Вениаминович": 5,
-      "Епифанова Ольга Николаевна": 16,
-      "Ерыкалов Вячеслав Борисович": 3,
-      "Новиков Александр Владимирович": 3,
-      "Пивков Сергей Анатольевич": 7,
-      "Русаков Юрий Михайлович": 2,
-      "Силантьев Михаил Сергеевич": 1,
-      "Чураков Андрей Анатольевич": 2,
-      "Юрков Дмитрий Васильевич": 32
+      "gas:candidate-vibid:2292000789647": 5,
+      "gas:candidate-vibid:2292000786560": 16,
+      "gas:candidate-vibid:2292000788448": 3,
+      "gas:candidate-vibid:2292000787014": 3,
+      "gas:candidate-vibid:2292000777782": 7,
+      "gas:candidate-vibid:2292000788112": 2,
+      "gas:candidate-vibid:2292000790241": 1,
+      "gas:candidate-vibid:2292000789553": 2,
+      "gas:candidate-vibid:2292000789248": 32
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/arkhangelsk?action=show&root=1000091&tvd=2292000756630&vrn=100100067795849&region=29&global=&sub_region=29&prver=0&pronetvd=null&vibid=2292000756630&type=464",
@@ -13731,15 +13731,15 @@ export const duma_2016_uik_463_region_29_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Буторин Михаил Вениаминович": 14,
-      "Епифанова Ольга Николаевна": 24,
-      "Ерыкалов Вячеслав Борисович": 1,
-      "Новиков Александр Владимирович": 20,
-      "Пивков Сергей Анатольевич": 16,
-      "Русаков Юрий Михайлович": 0,
-      "Силантьев Михаил Сергеевич": 5,
-      "Чураков Андрей Анатольевич": 2,
-      "Юрков Дмитрий Васильевич": 81
+      "gas:candidate-vibid:2292000789647": 14,
+      "gas:candidate-vibid:2292000786560": 24,
+      "gas:candidate-vibid:2292000788448": 1,
+      "gas:candidate-vibid:2292000787014": 20,
+      "gas:candidate-vibid:2292000777782": 16,
+      "gas:candidate-vibid:2292000788112": 0,
+      "gas:candidate-vibid:2292000790241": 5,
+      "gas:candidate-vibid:2292000789553": 2,
+      "gas:candidate-vibid:2292000789248": 81
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/arkhangelsk?action=show&root=1000091&tvd=2292000756630&vrn=100100067795849&region=29&global=&sub_region=29&prver=0&pronetvd=null&vibid=2292000756630&type=464",
@@ -13790,15 +13790,15 @@ export const duma_2016_uik_463_region_29_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Буторин Михаил Вениаминович": 23,
-      "Епифанова Ольга Николаевна": 177,
-      "Ерыкалов Вячеслав Борисович": 14,
-      "Новиков Александр Владимирович": 122,
-      "Пивков Сергей Анатольевич": 144,
-      "Русаков Юрий Михайлович": 16,
-      "Силантьев Михаил Сергеевич": 24,
-      "Чураков Андрей Анатольевич": 30,
-      "Юрков Дмитрий Васильевич": 297
+      "gas:candidate-vibid:2292000789647": 23,
+      "gas:candidate-vibid:2292000786560": 177,
+      "gas:candidate-vibid:2292000788448": 14,
+      "gas:candidate-vibid:2292000787014": 122,
+      "gas:candidate-vibid:2292000777782": 144,
+      "gas:candidate-vibid:2292000788112": 16,
+      "gas:candidate-vibid:2292000790241": 24,
+      "gas:candidate-vibid:2292000789553": 30,
+      "gas:candidate-vibid:2292000789248": 297
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/arkhangelsk?action=show&root=1000091&tvd=2292000756631&vrn=100100067795849&region=29&global=&sub_region=29&prver=0&pronetvd=null&vibid=2292000756631&type=464",
@@ -13849,15 +13849,15 @@ export const duma_2016_uik_463_region_29_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Буторин Михаил Вениаминович": 4,
-      "Епифанова Ольга Николаевна": 27,
-      "Ерыкалов Вячеслав Борисович": 2,
-      "Новиков Александр Владимирович": 17,
-      "Пивков Сергей Анатольевич": 4,
-      "Русаков Юрий Михайлович": 3,
-      "Силантьев Михаил Сергеевич": 0,
-      "Чураков Андрей Анатольевич": 4,
-      "Юрков Дмитрий Васильевич": 43
+      "gas:candidate-vibid:2292000789647": 4,
+      "gas:candidate-vibid:2292000786560": 27,
+      "gas:candidate-vibid:2292000788448": 2,
+      "gas:candidate-vibid:2292000787014": 17,
+      "gas:candidate-vibid:2292000777782": 4,
+      "gas:candidate-vibid:2292000788112": 3,
+      "gas:candidate-vibid:2292000790241": 0,
+      "gas:candidate-vibid:2292000789553": 4,
+      "gas:candidate-vibid:2292000789248": 43
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/arkhangelsk?action=show&root=1000091&tvd=2292000756631&vrn=100100067795849&region=29&global=&sub_region=29&prver=0&pronetvd=null&vibid=2292000756631&type=464",
@@ -13908,15 +13908,15 @@ export const duma_2016_uik_463_region_29_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Буторин Михаил Вениаминович": 9,
-      "Епифанова Ольга Николаевна": 149,
-      "Ерыкалов Вячеслав Борисович": 10,
-      "Новиков Александр Владимирович": 165,
-      "Пивков Сергей Анатольевич": 98,
-      "Русаков Юрий Михайлович": 5,
-      "Силантьев Михаил Сергеевич": 10,
-      "Чураков Андрей Анатольевич": 16,
-      "Юрков Дмитрий Васильевич": 235
+      "gas:candidate-vibid:2292000789647": 9,
+      "gas:candidate-vibid:2292000786560": 149,
+      "gas:candidate-vibid:2292000788448": 10,
+      "gas:candidate-vibid:2292000787014": 165,
+      "gas:candidate-vibid:2292000777782": 98,
+      "gas:candidate-vibid:2292000788112": 5,
+      "gas:candidate-vibid:2292000790241": 10,
+      "gas:candidate-vibid:2292000789553": 16,
+      "gas:candidate-vibid:2292000789248": 235
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/arkhangelsk?action=show&root=1000091&tvd=2292000756631&vrn=100100067795849&region=29&global=&sub_region=29&prver=0&pronetvd=null&vibid=2292000756631&type=464",
@@ -13967,15 +13967,15 @@ export const duma_2016_uik_463_region_29_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Буторин Михаил Вениаминович": 17,
-      "Епифанова Ольга Николаевна": 165,
-      "Ерыкалов Вячеслав Борисович": 8,
-      "Новиков Александр Владимирович": 193,
-      "Пивков Сергей Анатольевич": 90,
-      "Русаков Юрий Михайлович": 8,
-      "Силантьев Михаил Сергеевич": 23,
-      "Чураков Андрей Анатольевич": 29,
-      "Юрков Дмитрий Васильевич": 277
+      "gas:candidate-vibid:2292000789647": 17,
+      "gas:candidate-vibid:2292000786560": 165,
+      "gas:candidate-vibid:2292000788448": 8,
+      "gas:candidate-vibid:2292000787014": 193,
+      "gas:candidate-vibid:2292000777782": 90,
+      "gas:candidate-vibid:2292000788112": 8,
+      "gas:candidate-vibid:2292000790241": 23,
+      "gas:candidate-vibid:2292000789553": 29,
+      "gas:candidate-vibid:2292000789248": 277
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/arkhangelsk?action=show&root=1000091&tvd=2292000756631&vrn=100100067795849&region=29&global=&sub_region=29&prver=0&pronetvd=null&vibid=2292000756631&type=464",
@@ -14026,15 +14026,15 @@ export const duma_2016_uik_463_region_29_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Буторин Михаил Вениаминович": 11,
-      "Епифанова Ольга Николаевна": 160,
-      "Ерыкалов Вячеслав Борисович": 4,
-      "Новиков Александр Владимирович": 146,
-      "Пивков Сергей Анатольевич": 114,
-      "Русаков Юрий Михайлович": 16,
-      "Силантьев Михаил Сергеевич": 17,
-      "Чураков Андрей Анатольевич": 14,
-      "Юрков Дмитрий Васильевич": 253
+      "gas:candidate-vibid:2292000789647": 11,
+      "gas:candidate-vibid:2292000786560": 160,
+      "gas:candidate-vibid:2292000788448": 4,
+      "gas:candidate-vibid:2292000787014": 146,
+      "gas:candidate-vibid:2292000777782": 114,
+      "gas:candidate-vibid:2292000788112": 16,
+      "gas:candidate-vibid:2292000790241": 17,
+      "gas:candidate-vibid:2292000789553": 14,
+      "gas:candidate-vibid:2292000789248": 253
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/arkhangelsk?action=show&root=1000091&tvd=2292000756631&vrn=100100067795849&region=29&global=&sub_region=29&prver=0&pronetvd=null&vibid=2292000756631&type=464",
@@ -14085,15 +14085,15 @@ export const duma_2016_uik_463_region_29_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Буторин Михаил Вениаминович": 20,
-      "Епифанова Ольга Николаевна": 282,
-      "Ерыкалов Вячеслав Борисович": 8,
-      "Новиков Александр Владимирович": 176,
-      "Пивков Сергей Анатольевич": 123,
-      "Русаков Юрий Михайлович": 16,
-      "Силантьев Михаил Сергеевич": 18,
-      "Чураков Андрей Анатольевич": 22,
-      "Юрков Дмитрий Васильевич": 290
+      "gas:candidate-vibid:2292000789647": 20,
+      "gas:candidate-vibid:2292000786560": 282,
+      "gas:candidate-vibid:2292000788448": 8,
+      "gas:candidate-vibid:2292000787014": 176,
+      "gas:candidate-vibid:2292000777782": 123,
+      "gas:candidate-vibid:2292000788112": 16,
+      "gas:candidate-vibid:2292000790241": 18,
+      "gas:candidate-vibid:2292000789553": 22,
+      "gas:candidate-vibid:2292000789248": 290
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/arkhangelsk?action=show&root=1000091&tvd=2292000756631&vrn=100100067795849&region=29&global=&sub_region=29&prver=0&pronetvd=null&vibid=2292000756631&type=464",
@@ -14144,15 +14144,15 @@ export const duma_2016_uik_463_region_29_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Буторин Михаил Вениаминович": 22,
-      "Епифанова Ольга Николаевна": 210,
-      "Ерыкалов Вячеслав Борисович": 10,
-      "Новиков Александр Владимирович": 155,
-      "Пивков Сергей Анатольевич": 115,
-      "Русаков Юрий Михайлович": 18,
-      "Силантьев Михаил Сергеевич": 25,
-      "Чураков Андрей Анатольевич": 19,
-      "Юрков Дмитрий Васильевич": 261
+      "gas:candidate-vibid:2292000789647": 22,
+      "gas:candidate-vibid:2292000786560": 210,
+      "gas:candidate-vibid:2292000788448": 10,
+      "gas:candidate-vibid:2292000787014": 155,
+      "gas:candidate-vibid:2292000777782": 115,
+      "gas:candidate-vibid:2292000788112": 18,
+      "gas:candidate-vibid:2292000790241": 25,
+      "gas:candidate-vibid:2292000789553": 19,
+      "gas:candidate-vibid:2292000789248": 261
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/arkhangelsk?action=show&root=1000091&tvd=2292000756631&vrn=100100067795849&region=29&global=&sub_region=29&prver=0&pronetvd=null&vibid=2292000756631&type=464",
@@ -14203,15 +14203,15 @@ export const duma_2016_uik_463_region_29_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Буторин Михаил Вениаминович": 13,
-      "Епифанова Ольга Николаевна": 194,
-      "Ерыкалов Вячеслав Борисович": 9,
-      "Новиков Александр Владимирович": 175,
-      "Пивков Сергей Анатольевич": 106,
-      "Русаков Юрий Михайлович": 4,
-      "Силантьев Михаил Сергеевич": 29,
-      "Чураков Андрей Анатольевич": 20,
-      "Юрков Дмитрий Васильевич": 303
+      "gas:candidate-vibid:2292000789647": 13,
+      "gas:candidate-vibid:2292000786560": 194,
+      "gas:candidate-vibid:2292000788448": 9,
+      "gas:candidate-vibid:2292000787014": 175,
+      "gas:candidate-vibid:2292000777782": 106,
+      "gas:candidate-vibid:2292000788112": 4,
+      "gas:candidate-vibid:2292000790241": 29,
+      "gas:candidate-vibid:2292000789553": 20,
+      "gas:candidate-vibid:2292000789248": 303
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/arkhangelsk?action=show&root=1000091&tvd=2292000756631&vrn=100100067795849&region=29&global=&sub_region=29&prver=0&pronetvd=null&vibid=2292000756631&type=464",
@@ -14262,15 +14262,15 @@ export const duma_2016_uik_463_region_29_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Буторин Михаил Вениаминович": 36,
-      "Епифанова Ольга Николаевна": 144,
-      "Ерыкалов Вячеслав Борисович": 14,
-      "Новиков Александр Владимирович": 147,
-      "Пивков Сергей Анатольевич": 108,
-      "Русаков Юрий Михайлович": 15,
-      "Силантьев Михаил Сергеевич": 24,
-      "Чураков Андрей Анатольевич": 22,
-      "Юрков Дмитрий Васильевич": 263
+      "gas:candidate-vibid:2292000789647": 36,
+      "gas:candidate-vibid:2292000786560": 144,
+      "gas:candidate-vibid:2292000788448": 14,
+      "gas:candidate-vibid:2292000787014": 147,
+      "gas:candidate-vibid:2292000777782": 108,
+      "gas:candidate-vibid:2292000788112": 15,
+      "gas:candidate-vibid:2292000790241": 24,
+      "gas:candidate-vibid:2292000789553": 22,
+      "gas:candidate-vibid:2292000789248": 263
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/arkhangelsk?action=show&root=1000091&tvd=2292000756631&vrn=100100067795849&region=29&global=&sub_region=29&prver=0&pronetvd=null&vibid=2292000756631&type=464",
@@ -14321,15 +14321,15 @@ export const duma_2016_uik_463_region_29_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Буторин Михаил Вениаминович": 26,
-      "Епифанова Ольга Николаевна": 220,
-      "Ерыкалов Вячеслав Борисович": 11,
-      "Новиков Александр Владимирович": 123,
-      "Пивков Сергей Анатольевич": 111,
-      "Русаков Юрий Михайлович": 16,
-      "Силантьев Михаил Сергеевич": 22,
-      "Чураков Андрей Анатольевич": 25,
-      "Юрков Дмитрий Васильевич": 263
+      "gas:candidate-vibid:2292000789647": 26,
+      "gas:candidate-vibid:2292000786560": 220,
+      "gas:candidate-vibid:2292000788448": 11,
+      "gas:candidate-vibid:2292000787014": 123,
+      "gas:candidate-vibid:2292000777782": 111,
+      "gas:candidate-vibid:2292000788112": 16,
+      "gas:candidate-vibid:2292000790241": 22,
+      "gas:candidate-vibid:2292000789553": 25,
+      "gas:candidate-vibid:2292000789248": 263
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/arkhangelsk?action=show&root=1000091&tvd=2292000756631&vrn=100100067795849&region=29&global=&sub_region=29&prver=0&pronetvd=null&vibid=2292000756631&type=464",
@@ -14380,15 +14380,15 @@ export const duma_2016_uik_463_region_29_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Буторин Михаил Вениаминович": 16,
-      "Епифанова Ольга Николаевна": 161,
-      "Ерыкалов Вячеслав Борисович": 5,
-      "Новиков Александр Владимирович": 117,
-      "Пивков Сергей Анатольевич": 108,
-      "Русаков Юрий Михайлович": 10,
-      "Силантьев Михаил Сергеевич": 16,
-      "Чураков Андрей Анатольевич": 12,
-      "Юрков Дмитрий Васильевич": 209
+      "gas:candidate-vibid:2292000789647": 16,
+      "gas:candidate-vibid:2292000786560": 161,
+      "gas:candidate-vibid:2292000788448": 5,
+      "gas:candidate-vibid:2292000787014": 117,
+      "gas:candidate-vibid:2292000777782": 108,
+      "gas:candidate-vibid:2292000788112": 10,
+      "gas:candidate-vibid:2292000790241": 16,
+      "gas:candidate-vibid:2292000789553": 12,
+      "gas:candidate-vibid:2292000789248": 209
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/arkhangelsk?action=show&root=1000091&tvd=2292000756631&vrn=100100067795849&region=29&global=&sub_region=29&prver=0&pronetvd=null&vibid=2292000756631&type=464",
@@ -14439,15 +14439,15 @@ export const duma_2016_uik_463_region_29_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Буторин Михаил Вениаминович": 16,
-      "Епифанова Ольга Николаевна": 193,
-      "Ерыкалов Вячеслав Борисович": 4,
-      "Новиков Александр Владимирович": 109,
-      "Пивков Сергей Анатольевич": 111,
-      "Русаков Юрий Михайлович": 13,
-      "Силантьев Михаил Сергеевич": 20,
-      "Чураков Андрей Анатольевич": 15,
-      "Юрков Дмитрий Васильевич": 216
+      "gas:candidate-vibid:2292000789647": 16,
+      "gas:candidate-vibid:2292000786560": 193,
+      "gas:candidate-vibid:2292000788448": 4,
+      "gas:candidate-vibid:2292000787014": 109,
+      "gas:candidate-vibid:2292000777782": 111,
+      "gas:candidate-vibid:2292000788112": 13,
+      "gas:candidate-vibid:2292000790241": 20,
+      "gas:candidate-vibid:2292000789553": 15,
+      "gas:candidate-vibid:2292000789248": 216
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/arkhangelsk?action=show&root=1000091&tvd=2292000756631&vrn=100100067795849&region=29&global=&sub_region=29&prver=0&pronetvd=null&vibid=2292000756631&type=464",
@@ -14498,15 +14498,15 @@ export const duma_2016_uik_463_region_29_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Буторин Михаил Вениаминович": 31,
-      "Епифанова Ольга Николаевна": 239,
-      "Ерыкалов Вячеслав Борисович": 21,
-      "Новиков Александр Владимирович": 132,
-      "Пивков Сергей Анатольевич": 152,
-      "Русаков Юрий Михайлович": 21,
-      "Силантьев Михаил Сергеевич": 28,
-      "Чураков Андрей Анатольевич": 22,
-      "Юрков Дмитрий Васильевич": 285
+      "gas:candidate-vibid:2292000789647": 31,
+      "gas:candidate-vibid:2292000786560": 239,
+      "gas:candidate-vibid:2292000788448": 21,
+      "gas:candidate-vibid:2292000787014": 132,
+      "gas:candidate-vibid:2292000777782": 152,
+      "gas:candidate-vibid:2292000788112": 21,
+      "gas:candidate-vibid:2292000790241": 28,
+      "gas:candidate-vibid:2292000789553": 22,
+      "gas:candidate-vibid:2292000789248": 285
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/arkhangelsk?action=show&root=1000091&tvd=2292000756631&vrn=100100067795849&region=29&global=&sub_region=29&prver=0&pronetvd=null&vibid=2292000756631&type=464",
@@ -14557,15 +14557,15 @@ export const duma_2016_uik_463_region_29_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Буторин Михаил Вениаминович": 11,
-      "Епифанова Ольга Николаевна": 131,
-      "Ерыкалов Вячеслав Борисович": 1,
-      "Новиков Александр Владимирович": 76,
-      "Пивков Сергей Анатольевич": 86,
-      "Русаков Юрий Михайлович": 5,
-      "Силантьев Михаил Сергеевич": 14,
-      "Чураков Андрей Анатольевич": 5,
-      "Юрков Дмитрий Васильевич": 200
+      "gas:candidate-vibid:2292000789647": 11,
+      "gas:candidate-vibid:2292000786560": 131,
+      "gas:candidate-vibid:2292000788448": 1,
+      "gas:candidate-vibid:2292000787014": 76,
+      "gas:candidate-vibid:2292000777782": 86,
+      "gas:candidate-vibid:2292000788112": 5,
+      "gas:candidate-vibid:2292000790241": 14,
+      "gas:candidate-vibid:2292000789553": 5,
+      "gas:candidate-vibid:2292000789248": 200
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/arkhangelsk?action=show&root=1000091&tvd=2292000756631&vrn=100100067795849&region=29&global=&sub_region=29&prver=0&pronetvd=null&vibid=2292000756631&type=464",
@@ -14616,15 +14616,15 @@ export const duma_2016_uik_463_region_29_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Буторин Михаил Вениаминович": 19,
-      "Епифанова Ольга Николаевна": 272,
-      "Ерыкалов Вячеслав Борисович": 9,
-      "Новиков Александр Владимирович": 133,
-      "Пивков Сергей Анатольевич": 110,
-      "Русаков Юрий Михайлович": 11,
-      "Силантьев Михаил Сергеевич": 28,
-      "Чураков Андрей Анатольевич": 22,
-      "Юрков Дмитрий Васильевич": 283
+      "gas:candidate-vibid:2292000789647": 19,
+      "gas:candidate-vibid:2292000786560": 272,
+      "gas:candidate-vibid:2292000788448": 9,
+      "gas:candidate-vibid:2292000787014": 133,
+      "gas:candidate-vibid:2292000777782": 110,
+      "gas:candidate-vibid:2292000788112": 11,
+      "gas:candidate-vibid:2292000790241": 28,
+      "gas:candidate-vibid:2292000789553": 22,
+      "gas:candidate-vibid:2292000789248": 283
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/arkhangelsk?action=show&root=1000091&tvd=2292000756631&vrn=100100067795849&region=29&global=&sub_region=29&prver=0&pronetvd=null&vibid=2292000756631&type=464",
@@ -14675,15 +14675,15 @@ export const duma_2016_uik_463_region_29_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Буторин Михаил Вениаминович": 12,
-      "Епифанова Ольга Николаевна": 110,
-      "Ерыкалов Вячеслав Борисович": 5,
-      "Новиков Александр Владимирович": 84,
-      "Пивков Сергей Анатольевич": 62,
-      "Русаков Юрий Михайлович": 6,
-      "Силантьев Михаил Сергеевич": 16,
-      "Чураков Андрей Анатольевич": 13,
-      "Юрков Дмитрий Васильевич": 127
+      "gas:candidate-vibid:2292000789647": 12,
+      "gas:candidate-vibid:2292000786560": 110,
+      "gas:candidate-vibid:2292000788448": 5,
+      "gas:candidate-vibid:2292000787014": 84,
+      "gas:candidate-vibid:2292000777782": 62,
+      "gas:candidate-vibid:2292000788112": 6,
+      "gas:candidate-vibid:2292000790241": 16,
+      "gas:candidate-vibid:2292000789553": 13,
+      "gas:candidate-vibid:2292000789248": 127
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/arkhangelsk?action=show&root=1000091&tvd=2292000756631&vrn=100100067795849&region=29&global=&sub_region=29&prver=0&pronetvd=null&vibid=2292000756631&type=464",
@@ -14734,15 +14734,15 @@ export const duma_2016_uik_463_region_29_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Буторин Михаил Вениаминович": 1,
-      "Епифанова Ольга Николаевна": 89,
-      "Ерыкалов Вячеслав Борисович": 0,
-      "Новиков Александр Владимирович": 34,
-      "Пивков Сергей Анатольевич": 52,
-      "Русаков Юрий Михайлович": 4,
-      "Силантьев Михаил Сергеевич": 11,
-      "Чураков Андрей Анатольевич": 7,
-      "Юрков Дмитрий Васильевич": 83
+      "gas:candidate-vibid:2292000789647": 1,
+      "gas:candidate-vibid:2292000786560": 89,
+      "gas:candidate-vibid:2292000788448": 0,
+      "gas:candidate-vibid:2292000787014": 34,
+      "gas:candidate-vibid:2292000777782": 52,
+      "gas:candidate-vibid:2292000788112": 4,
+      "gas:candidate-vibid:2292000790241": 11,
+      "gas:candidate-vibid:2292000789553": 7,
+      "gas:candidate-vibid:2292000789248": 83
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/arkhangelsk?action=show&root=1000091&tvd=2292000756631&vrn=100100067795849&region=29&global=&sub_region=29&prver=0&pronetvd=null&vibid=2292000756631&type=464",

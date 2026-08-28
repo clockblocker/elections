@@ -42,14 +42,14 @@ export const duma_2003_uik_428_region_36_part_007 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Воронин Василий Михайлович": 55,
-      "Гостев Руслан Георгиевич": 37,
-      "Данилов Виталий Филиппович": 22,
-      "Золотарев Александр Иванович": 12,
-      "Милешко Виктор Стефанович": 4,
-      "Ольшанский Николай Михайлович": 439,
-      "Труфанов Александр Федорович": 17,
-      "Против всех": 48
+      "gas:candidate-vibid:1001000188002": 55,
+      "gas:candidate-vibid:1001000121844": 37,
+      "gas:candidate-vibid:1001000136050": 22,
+      "gas:candidate-vibid:1001000195071": 12,
+      "gas:candidate-vibid:336300370642": 4,
+      "gas:candidate-vibid:336300370522": 439,
+      "gas:candidate-vibid:1001000290477": 17,
+      "special:against-all": 48
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=362000036&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=236200073311&region=0&sub_region=0&type=429",
@@ -99,14 +99,14 @@ export const duma_2003_uik_428_region_36_part_007 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Воронин Василий Михайлович": 25,
-      "Гостев Руслан Георгиевич": 55,
-      "Данилов Виталий Филиппович": 17,
-      "Золотарев Александр Иванович": 1,
-      "Милешко Виктор Стефанович": 1,
-      "Ольшанский Николай Михайлович": 336,
-      "Труфанов Александр Федорович": 8,
-      "Против всех": 56
+      "gas:candidate-vibid:1001000188002": 25,
+      "gas:candidate-vibid:1001000121844": 55,
+      "gas:candidate-vibid:1001000136050": 17,
+      "gas:candidate-vibid:1001000195071": 1,
+      "gas:candidate-vibid:336300370642": 1,
+      "gas:candidate-vibid:336300370522": 336,
+      "gas:candidate-vibid:1001000290477": 8,
+      "special:against-all": 56
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=362000036&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=236200073311&region=0&sub_region=0&type=429",
@@ -156,14 +156,14 @@ export const duma_2003_uik_428_region_36_part_007 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Воронин Василий Михайлович": 18,
-      "Гостев Руслан Георгиевич": 25,
-      "Данилов Виталий Филиппович": 7,
-      "Золотарев Александр Иванович": 14,
-      "Милешко Виктор Стефанович": 4,
-      "Ольшанский Николай Михайлович": 224,
-      "Труфанов Александр Федорович": 4,
-      "Против всех": 40
+      "gas:candidate-vibid:1001000188002": 18,
+      "gas:candidate-vibid:1001000121844": 25,
+      "gas:candidate-vibid:1001000136050": 7,
+      "gas:candidate-vibid:1001000195071": 14,
+      "gas:candidate-vibid:336300370642": 4,
+      "gas:candidate-vibid:336300370522": 224,
+      "gas:candidate-vibid:1001000290477": 4,
+      "special:against-all": 40
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=362000036&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=236200073311&region=0&sub_region=0&type=429",
@@ -213,14 +213,14 @@ export const duma_2003_uik_428_region_36_part_007 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Воронин Василий Михайлович": 47,
-      "Гостев Руслан Георгиевич": 25,
-      "Данилов Виталий Филиппович": 34,
-      "Золотарев Александр Иванович": 6,
-      "Милешко Виктор Стефанович": 5,
-      "Ольшанский Николай Михайлович": 490,
-      "Труфанов Александр Федорович": 15,
-      "Против всех": 93
+      "gas:candidate-vibid:1001000188002": 47,
+      "gas:candidate-vibid:1001000121844": 25,
+      "gas:candidate-vibid:1001000136050": 34,
+      "gas:candidate-vibid:1001000195071": 6,
+      "gas:candidate-vibid:336300370642": 5,
+      "gas:candidate-vibid:336300370522": 490,
+      "gas:candidate-vibid:1001000290477": 15,
+      "special:against-all": 93
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=362000036&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=236200073311&region=0&sub_region=0&type=429",
@@ -270,14 +270,14 @@ export const duma_2003_uik_428_region_36_part_007 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Воронин Василий Михайлович": 62,
-      "Гостев Руслан Георгиевич": 101,
-      "Данилов Виталий Филиппович": 46,
-      "Золотарев Александр Иванович": 7,
-      "Милешко Виктор Стефанович": 3,
-      "Ольшанский Николай Михайлович": 536,
-      "Труфанов Александр Федорович": 14,
-      "Против всех": 108
+      "gas:candidate-vibid:1001000188002": 62,
+      "gas:candidate-vibid:1001000121844": 101,
+      "gas:candidate-vibid:1001000136050": 46,
+      "gas:candidate-vibid:1001000195071": 7,
+      "gas:candidate-vibid:336300370642": 3,
+      "gas:candidate-vibid:336300370522": 536,
+      "gas:candidate-vibid:1001000290477": 14,
+      "special:against-all": 108
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=362000036&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=236200073311&region=0&sub_region=0&type=429",
@@ -327,14 +327,14 @@ export const duma_2003_uik_428_region_36_part_007 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Воронин Василий Михайлович": 18,
-      "Гостев Руслан Георгиевич": 20,
-      "Данилов Виталий Филиппович": 14,
-      "Золотарев Александр Иванович": 4,
-      "Милешко Виктор Стефанович": 1,
-      "Ольшанский Николай Михайлович": 179,
-      "Труфанов Александр Федорович": 8,
-      "Против всех": 31
+      "gas:candidate-vibid:1001000188002": 18,
+      "gas:candidate-vibid:1001000121844": 20,
+      "gas:candidate-vibid:1001000136050": 14,
+      "gas:candidate-vibid:1001000195071": 4,
+      "gas:candidate-vibid:336300370642": 1,
+      "gas:candidate-vibid:336300370522": 179,
+      "gas:candidate-vibid:1001000290477": 8,
+      "special:against-all": 31
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=362000036&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=236200073311&region=0&sub_region=0&type=429",
@@ -384,14 +384,14 @@ export const duma_2003_uik_428_region_36_part_007 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Воронин Василий Михайлович": 32,
-      "Гостев Руслан Георгиевич": 55,
-      "Данилов Виталий Филиппович": 73,
-      "Золотарев Александр Иванович": 11,
-      "Милешко Виктор Стефанович": 3,
-      "Ольшанский Николай Михайлович": 463,
-      "Труфанов Александр Федорович": 7,
-      "Против всех": 51
+      "gas:candidate-vibid:1001000188002": 32,
+      "gas:candidate-vibid:1001000121844": 55,
+      "gas:candidate-vibid:1001000136050": 73,
+      "gas:candidate-vibid:1001000195071": 11,
+      "gas:candidate-vibid:336300370642": 3,
+      "gas:candidate-vibid:336300370522": 463,
+      "gas:candidate-vibid:1001000290477": 7,
+      "special:against-all": 51
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=362000036&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=236200073311&region=0&sub_region=0&type=429",
@@ -441,14 +441,14 @@ export const duma_2003_uik_428_region_36_part_007 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Воронин Василий Михайлович": 39,
-      "Гостев Руслан Георгиевич": 15,
-      "Данилов Виталий Филиппович": 24,
-      "Золотарев Александр Иванович": 4,
-      "Милешко Виктор Стефанович": 3,
-      "Ольшанский Николай Михайлович": 332,
-      "Труфанов Александр Федорович": 14,
-      "Против всех": 48
+      "gas:candidate-vibid:1001000188002": 39,
+      "gas:candidate-vibid:1001000121844": 15,
+      "gas:candidate-vibid:1001000136050": 24,
+      "gas:candidate-vibid:1001000195071": 4,
+      "gas:candidate-vibid:336300370642": 3,
+      "gas:candidate-vibid:336300370522": 332,
+      "gas:candidate-vibid:1001000290477": 14,
+      "special:against-all": 48
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=362000036&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=236200073311&region=0&sub_region=0&type=429",
@@ -498,14 +498,14 @@ export const duma_2003_uik_428_region_36_part_007 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Воронин Василий Михайлович": 24,
-      "Гостев Руслан Георгиевич": 15,
-      "Данилов Виталий Филиппович": 15,
-      "Золотарев Александр Иванович": 2,
-      "Милешко Виктор Стефанович": 5,
-      "Ольшанский Николай Михайлович": 368,
-      "Труфанов Александр Федорович": 14,
-      "Против всех": 57
+      "gas:candidate-vibid:1001000188002": 24,
+      "gas:candidate-vibid:1001000121844": 15,
+      "gas:candidate-vibid:1001000136050": 15,
+      "gas:candidate-vibid:1001000195071": 2,
+      "gas:candidate-vibid:336300370642": 5,
+      "gas:candidate-vibid:336300370522": 368,
+      "gas:candidate-vibid:1001000290477": 14,
+      "special:against-all": 57
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=362000036&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=236200073311&region=0&sub_region=0&type=429",
@@ -555,14 +555,14 @@ export const duma_2003_uik_428_region_36_part_007 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Воронин Василий Михайлович": 50,
-      "Гостев Руслан Георгиевич": 81,
-      "Данилов Виталий Филиппович": 45,
-      "Золотарев Александр Иванович": 6,
-      "Милешко Виктор Стефанович": 4,
-      "Ольшанский Николай Михайлович": 582,
-      "Труфанов Александр Федорович": 21,
-      "Против всех": 114
+      "gas:candidate-vibid:1001000188002": 50,
+      "gas:candidate-vibid:1001000121844": 81,
+      "gas:candidate-vibid:1001000136050": 45,
+      "gas:candidate-vibid:1001000195071": 6,
+      "gas:candidate-vibid:336300370642": 4,
+      "gas:candidate-vibid:336300370522": 582,
+      "gas:candidate-vibid:1001000290477": 21,
+      "special:against-all": 114
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=362000036&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=236200073311&region=0&sub_region=0&type=429",
@@ -612,14 +612,14 @@ export const duma_2003_uik_428_region_36_part_007 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Воронин Василий Михайлович": 101,
-      "Гостев Руслан Георгиевич": 244,
-      "Данилов Виталий Филиппович": 73,
-      "Золотарев Александр Иванович": 14,
-      "Милешко Виктор Стефанович": 15,
-      "Ольшанский Николай Михайлович": 533,
-      "Труфанов Александр Федорович": 53,
-      "Против всех": 254
+      "gas:candidate-vibid:1001000188002": 101,
+      "gas:candidate-vibid:1001000121844": 244,
+      "gas:candidate-vibid:1001000136050": 73,
+      "gas:candidate-vibid:1001000195071": 14,
+      "gas:candidate-vibid:336300370642": 15,
+      "gas:candidate-vibid:336300370522": 533,
+      "gas:candidate-vibid:1001000290477": 53,
+      "special:against-all": 254
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=362000037&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=236200073312&region=0&sub_region=0&type=429",
@@ -669,14 +669,14 @@ export const duma_2003_uik_428_region_36_part_007 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Воронин Василий Михайлович": 92,
-      "Гостев Руслан Георгиевич": 197,
-      "Данилов Виталий Филиппович": 51,
-      "Золотарев Александр Иванович": 10,
-      "Милешко Виктор Стефанович": 11,
-      "Ольшанский Николай Михайлович": 323,
-      "Труфанов Александр Федорович": 54,
-      "Против всех": 165
+      "gas:candidate-vibid:1001000188002": 92,
+      "gas:candidate-vibid:1001000121844": 197,
+      "gas:candidate-vibid:1001000136050": 51,
+      "gas:candidate-vibid:1001000195071": 10,
+      "gas:candidate-vibid:336300370642": 11,
+      "gas:candidate-vibid:336300370522": 323,
+      "gas:candidate-vibid:1001000290477": 54,
+      "special:against-all": 165
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=362000037&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=236200073312&region=0&sub_region=0&type=429",
@@ -726,14 +726,14 @@ export const duma_2003_uik_428_region_36_part_007 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Воронин Василий Михайлович": 112,
-      "Гостев Руслан Георгиевич": 226,
-      "Данилов Виталий Филиппович": 59,
-      "Золотарев Александр Иванович": 17,
-      "Милешко Виктор Стефанович": 8,
-      "Ольшанский Николай Михайлович": 392,
-      "Труфанов Александр Федорович": 59,
-      "Против всех": 228
+      "gas:candidate-vibid:1001000188002": 112,
+      "gas:candidate-vibid:1001000121844": 226,
+      "gas:candidate-vibid:1001000136050": 59,
+      "gas:candidate-vibid:1001000195071": 17,
+      "gas:candidate-vibid:336300370642": 8,
+      "gas:candidate-vibid:336300370522": 392,
+      "gas:candidate-vibid:1001000290477": 59,
+      "special:against-all": 228
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=362000037&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=236200073312&region=0&sub_region=0&type=429",
@@ -783,14 +783,14 @@ export const duma_2003_uik_428_region_36_part_007 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Воронин Василий Михайлович": 82,
-      "Гостев Руслан Георгиевич": 192,
-      "Данилов Виталий Филиппович": 42,
-      "Золотарев Александр Иванович": 10,
-      "Милешко Виктор Стефанович": 1,
-      "Ольшанский Николай Михайлович": 277,
-      "Труфанов Александр Федорович": 26,
-      "Против всех": 145
+      "gas:candidate-vibid:1001000188002": 82,
+      "gas:candidate-vibid:1001000121844": 192,
+      "gas:candidate-vibid:1001000136050": 42,
+      "gas:candidate-vibid:1001000195071": 10,
+      "gas:candidate-vibid:336300370642": 1,
+      "gas:candidate-vibid:336300370522": 277,
+      "gas:candidate-vibid:1001000290477": 26,
+      "special:against-all": 145
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=362000037&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=236200073312&region=0&sub_region=0&type=429",
@@ -840,14 +840,14 @@ export const duma_2003_uik_428_region_36_part_007 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Воронин Василий Михайлович": 96,
-      "Гостев Руслан Георгиевич": 252,
-      "Данилов Виталий Филиппович": 58,
-      "Золотарев Александр Иванович": 10,
-      "Милешко Виктор Стефанович": 6,
-      "Ольшанский Николай Михайлович": 405,
-      "Труфанов Александр Федорович": 47,
-      "Против всех": 219
+      "gas:candidate-vibid:1001000188002": 96,
+      "gas:candidate-vibid:1001000121844": 252,
+      "gas:candidate-vibid:1001000136050": 58,
+      "gas:candidate-vibid:1001000195071": 10,
+      "gas:candidate-vibid:336300370642": 6,
+      "gas:candidate-vibid:336300370522": 405,
+      "gas:candidate-vibid:1001000290477": 47,
+      "special:against-all": 219
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=362000037&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=236200073312&region=0&sub_region=0&type=429",
@@ -897,14 +897,14 @@ export const duma_2003_uik_428_region_36_part_007 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Воронин Василий Михайлович": 69,
-      "Гостев Руслан Георгиевич": 159,
-      "Данилов Виталий Филиппович": 74,
-      "Золотарев Александр Иванович": 7,
-      "Милешко Виктор Стефанович": 7,
-      "Ольшанский Николай Михайлович": 446,
-      "Труфанов Александр Федорович": 52,
-      "Против всех": 240
+      "gas:candidate-vibid:1001000188002": 69,
+      "gas:candidate-vibid:1001000121844": 159,
+      "gas:candidate-vibid:1001000136050": 74,
+      "gas:candidate-vibid:1001000195071": 7,
+      "gas:candidate-vibid:336300370642": 7,
+      "gas:candidate-vibid:336300370522": 446,
+      "gas:candidate-vibid:1001000290477": 52,
+      "special:against-all": 240
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=362000037&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=236200073312&region=0&sub_region=0&type=429",
@@ -954,14 +954,14 @@ export const duma_2003_uik_428_region_36_part_007 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Воронин Василий Михайлович": 57,
-      "Гостев Руслан Георгиевич": 119,
-      "Данилов Виталий Филиппович": 39,
-      "Золотарев Александр Иванович": 9,
-      "Милешко Виктор Стефанович": 6,
-      "Ольшанский Николай Михайлович": 322,
-      "Труфанов Александр Федорович": 41,
-      "Против всех": 157
+      "gas:candidate-vibid:1001000188002": 57,
+      "gas:candidate-vibid:1001000121844": 119,
+      "gas:candidate-vibid:1001000136050": 39,
+      "gas:candidate-vibid:1001000195071": 9,
+      "gas:candidate-vibid:336300370642": 6,
+      "gas:candidate-vibid:336300370522": 322,
+      "gas:candidate-vibid:1001000290477": 41,
+      "special:against-all": 157
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=362000037&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=236200073312&region=0&sub_region=0&type=429",
@@ -1011,14 +1011,14 @@ export const duma_2003_uik_428_region_36_part_007 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Воронин Василий Михайлович": 87,
-      "Гостев Руслан Георгиевич": 194,
-      "Данилов Виталий Филиппович": 56,
-      "Золотарев Александр Иванович": 11,
-      "Милешко Виктор Стефанович": 7,
-      "Ольшанский Николай Михайлович": 340,
-      "Труфанов Александр Федорович": 72,
-      "Против всех": 206
+      "gas:candidate-vibid:1001000188002": 87,
+      "gas:candidate-vibid:1001000121844": 194,
+      "gas:candidate-vibid:1001000136050": 56,
+      "gas:candidate-vibid:1001000195071": 11,
+      "gas:candidate-vibid:336300370642": 7,
+      "gas:candidate-vibid:336300370522": 340,
+      "gas:candidate-vibid:1001000290477": 72,
+      "special:against-all": 206
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=362000037&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=236200073312&region=0&sub_region=0&type=429",
@@ -1068,14 +1068,14 @@ export const duma_2003_uik_428_region_36_part_007 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Воронин Василий Михайлович": 7,
-      "Гостев Руслан Георгиевич": 11,
-      "Данилов Виталий Филиппович": 12,
-      "Золотарев Александр Иванович": 6,
-      "Милешко Виктор Стефанович": 5,
-      "Ольшанский Николай Михайлович": 128,
-      "Труфанов Александр Федорович": 23,
-      "Против всех": 36
+      "gas:candidate-vibid:1001000188002": 7,
+      "gas:candidate-vibid:1001000121844": 11,
+      "gas:candidate-vibid:1001000136050": 12,
+      "gas:candidate-vibid:1001000195071": 6,
+      "gas:candidate-vibid:336300370642": 5,
+      "gas:candidate-vibid:336300370522": 128,
+      "gas:candidate-vibid:1001000290477": 23,
+      "special:against-all": 36
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=362000037&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=236200073312&region=0&sub_region=0&type=429",
@@ -1125,14 +1125,14 @@ export const duma_2003_uik_428_region_36_part_007 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Воронин Василий Михайлович": 13,
-      "Гостев Руслан Георгиевич": 25,
-      "Данилов Виталий Филиппович": 13,
-      "Золотарев Александр Иванович": 7,
-      "Милешко Виктор Стефанович": 2,
-      "Ольшанский Николай Михайлович": 57,
-      "Труфанов Александр Федорович": 3,
-      "Против всех": 14
+      "gas:candidate-vibid:1001000188002": 13,
+      "gas:candidate-vibid:1001000121844": 25,
+      "gas:candidate-vibid:1001000136050": 13,
+      "gas:candidate-vibid:1001000195071": 7,
+      "gas:candidate-vibid:336300370642": 2,
+      "gas:candidate-vibid:336300370522": 57,
+      "gas:candidate-vibid:1001000290477": 3,
+      "special:against-all": 14
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=362000037&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=236200073312&region=0&sub_region=0&type=429",
@@ -1182,14 +1182,14 @@ export const duma_2003_uik_428_region_36_part_007 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Воронин Василий Михайлович": 132,
-      "Гостев Руслан Георгиевич": 293,
-      "Данилов Виталий Филиппович": 90,
-      "Золотарев Александр Иванович": 20,
-      "Милешко Виктор Стефанович": 4,
-      "Ольшанский Николай Михайлович": 678,
-      "Труфанов Александр Федорович": 52,
-      "Против всех": 266
+      "gas:candidate-vibid:1001000188002": 132,
+      "gas:candidate-vibid:1001000121844": 293,
+      "gas:candidate-vibid:1001000136050": 90,
+      "gas:candidate-vibid:1001000195071": 20,
+      "gas:candidate-vibid:336300370642": 4,
+      "gas:candidate-vibid:336300370522": 678,
+      "gas:candidate-vibid:1001000290477": 52,
+      "special:against-all": 266
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=362000037&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=236200073312&region=0&sub_region=0&type=429",
@@ -1239,14 +1239,14 @@ export const duma_2003_uik_428_region_36_part_007 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Воронин Василий Михайлович": 66,
-      "Гостев Руслан Георгиевич": 77,
-      "Данилов Виталий Филиппович": 60,
-      "Золотарев Александр Иванович": 8,
-      "Милешко Виктор Стефанович": 9,
-      "Ольшанский Николай Михайлович": 321,
-      "Труфанов Александр Федорович": 21,
-      "Против всех": 127
+      "gas:candidate-vibid:1001000188002": 66,
+      "gas:candidate-vibid:1001000121844": 77,
+      "gas:candidate-vibid:1001000136050": 60,
+      "gas:candidate-vibid:1001000195071": 8,
+      "gas:candidate-vibid:336300370642": 9,
+      "gas:candidate-vibid:336300370522": 321,
+      "gas:candidate-vibid:1001000290477": 21,
+      "special:against-all": 127
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=362000037&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=236200073312&region=0&sub_region=0&type=429",
@@ -1296,14 +1296,14 @@ export const duma_2003_uik_428_region_36_part_007 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Воронин Василий Михайлович": 99,
-      "Гостев Руслан Георгиевич": 121,
-      "Данилов Виталий Филиппович": 50,
-      "Золотарев Александр Иванович": 6,
-      "Милешко Виктор Стефанович": 3,
-      "Ольшанский Николай Михайлович": 280,
-      "Труфанов Александр Федорович": 21,
-      "Против всех": 136
+      "gas:candidate-vibid:1001000188002": 99,
+      "gas:candidate-vibid:1001000121844": 121,
+      "gas:candidate-vibid:1001000136050": 50,
+      "gas:candidate-vibid:1001000195071": 6,
+      "gas:candidate-vibid:336300370642": 3,
+      "gas:candidate-vibid:336300370522": 280,
+      "gas:candidate-vibid:1001000290477": 21,
+      "special:against-all": 136
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=362000037&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=236200073312&region=0&sub_region=0&type=429",
@@ -1353,14 +1353,14 @@ export const duma_2003_uik_428_region_36_part_007 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Воронин Василий Михайлович": 84,
-      "Гостев Руслан Георгиевич": 88,
-      "Данилов Виталий Филиппович": 52,
-      "Золотарев Александр Иванович": 7,
-      "Милешко Виктор Стефанович": 6,
-      "Ольшанский Николай Михайлович": 374,
-      "Труфанов Александр Федорович": 39,
-      "Против всех": 188
+      "gas:candidate-vibid:1001000188002": 84,
+      "gas:candidate-vibid:1001000121844": 88,
+      "gas:candidate-vibid:1001000136050": 52,
+      "gas:candidate-vibid:1001000195071": 7,
+      "gas:candidate-vibid:336300370642": 6,
+      "gas:candidate-vibid:336300370522": 374,
+      "gas:candidate-vibid:1001000290477": 39,
+      "special:against-all": 188
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=362000037&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=236200073312&region=0&sub_region=0&type=429",
@@ -1410,14 +1410,14 @@ export const duma_2003_uik_428_region_36_part_007 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Воронин Василий Михайлович": 63,
-      "Гостев Руслан Георгиевич": 61,
-      "Данилов Виталий Филиппович": 20,
-      "Золотарев Александр Иванович": 9,
-      "Милешко Виктор Стефанович": 2,
-      "Ольшанский Николай Михайлович": 264,
-      "Труфанов Александр Федорович": 15,
-      "Против всех": 108
+      "gas:candidate-vibid:1001000188002": 63,
+      "gas:candidate-vibid:1001000121844": 61,
+      "gas:candidate-vibid:1001000136050": 20,
+      "gas:candidate-vibid:1001000195071": 9,
+      "gas:candidate-vibid:336300370642": 2,
+      "gas:candidate-vibid:336300370522": 264,
+      "gas:candidate-vibid:1001000290477": 15,
+      "special:against-all": 108
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=362000037&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=236200073312&region=0&sub_region=0&type=429",
@@ -1467,14 +1467,14 @@ export const duma_2003_uik_428_region_36_part_007 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Воронин Василий Михайлович": 30,
-      "Гостев Руслан Георгиевич": 31,
-      "Данилов Виталий Филиппович": 24,
-      "Золотарев Александр Иванович": 6,
-      "Милешко Виктор Стефанович": 4,
-      "Ольшанский Николай Михайлович": 121,
-      "Труфанов Александр Федорович": 9,
-      "Против всех": 78
+      "gas:candidate-vibid:1001000188002": 30,
+      "gas:candidate-vibid:1001000121844": 31,
+      "gas:candidate-vibid:1001000136050": 24,
+      "gas:candidate-vibid:1001000195071": 6,
+      "gas:candidate-vibid:336300370642": 4,
+      "gas:candidate-vibid:336300370522": 121,
+      "gas:candidate-vibid:1001000290477": 9,
+      "special:against-all": 78
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=362000037&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=236200073312&region=0&sub_region=0&type=429",
@@ -1524,14 +1524,14 @@ export const duma_2003_uik_428_region_36_part_007 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Воронин Василий Михайлович": 48,
-      "Гостев Руслан Георгиевич": 62,
-      "Данилов Виталий Филиппович": 19,
-      "Золотарев Александр Иванович": 5,
-      "Милешко Виктор Стефанович": 6,
-      "Ольшанский Николай Михайлович": 274,
-      "Труфанов Александр Федорович": 14,
-      "Против всех": 48
+      "gas:candidate-vibid:1001000188002": 48,
+      "gas:candidate-vibid:1001000121844": 62,
+      "gas:candidate-vibid:1001000136050": 19,
+      "gas:candidate-vibid:1001000195071": 5,
+      "gas:candidate-vibid:336300370642": 6,
+      "gas:candidate-vibid:336300370522": 274,
+      "gas:candidate-vibid:1001000290477": 14,
+      "special:against-all": 48
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=362000037&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=236200073312&region=0&sub_region=0&type=429",
@@ -1581,14 +1581,14 @@ export const duma_2003_uik_428_region_36_part_007 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Воронин Василий Михайлович": 27,
-      "Гостев Руслан Георгиевич": 72,
-      "Данилов Виталий Филиппович": 17,
-      "Золотарев Александр Иванович": 12,
-      "Милешко Виктор Стефанович": 6,
-      "Ольшанский Николай Михайлович": 191,
-      "Труфанов Александр Федорович": 5,
-      "Против всех": 41
+      "gas:candidate-vibid:1001000188002": 27,
+      "gas:candidate-vibid:1001000121844": 72,
+      "gas:candidate-vibid:1001000136050": 17,
+      "gas:candidate-vibid:1001000195071": 12,
+      "gas:candidate-vibid:336300370642": 6,
+      "gas:candidate-vibid:336300370522": 191,
+      "gas:candidate-vibid:1001000290477": 5,
+      "special:against-all": 41
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=362000037&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=236200073312&region=0&sub_region=0&type=429",
@@ -1638,14 +1638,14 @@ export const duma_2003_uik_428_region_36_part_007 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Воронин Василий Михайлович": 11,
-      "Гостев Руслан Георгиевич": 32,
-      "Данилов Виталий Филиппович": 10,
-      "Золотарев Александр Иванович": 0,
-      "Милешко Виктор Стефанович": 3,
-      "Ольшанский Николай Михайлович": 53,
-      "Труфанов Александр Федорович": 2,
-      "Против всех": 10
+      "gas:candidate-vibid:1001000188002": 11,
+      "gas:candidate-vibid:1001000121844": 32,
+      "gas:candidate-vibid:1001000136050": 10,
+      "gas:candidate-vibid:1001000195071": 0,
+      "gas:candidate-vibid:336300370642": 3,
+      "gas:candidate-vibid:336300370522": 53,
+      "gas:candidate-vibid:1001000290477": 2,
+      "special:against-all": 10
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=362000037&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=236200073312&region=0&sub_region=0&type=429",
@@ -1695,14 +1695,14 @@ export const duma_2003_uik_428_region_36_part_007 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Воронин Василий Михайлович": 32,
-      "Гостев Руслан Георгиевич": 72,
-      "Данилов Виталий Филиппович": 26,
-      "Золотарев Александр Иванович": 2,
-      "Милешко Виктор Стефанович": 1,
-      "Ольшанский Николай Михайлович": 252,
-      "Труфанов Александр Федорович": 5,
-      "Против всех": 41
+      "gas:candidate-vibid:1001000188002": 32,
+      "gas:candidate-vibid:1001000121844": 72,
+      "gas:candidate-vibid:1001000136050": 26,
+      "gas:candidate-vibid:1001000195071": 2,
+      "gas:candidate-vibid:336300370642": 1,
+      "gas:candidate-vibid:336300370522": 252,
+      "gas:candidate-vibid:1001000290477": 5,
+      "special:against-all": 41
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=362000037&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=236200073312&region=0&sub_region=0&type=429",
@@ -1752,14 +1752,14 @@ export const duma_2003_uik_428_region_36_part_007 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Воронин Василий Михайлович": 55,
-      "Гостев Руслан Георгиевич": 94,
-      "Данилов Виталий Филиппович": 23,
-      "Золотарев Александр Иванович": 6,
-      "Милешко Виктор Стефанович": 2,
-      "Ольшанский Николай Михайлович": 305,
-      "Труфанов Александр Федорович": 7,
-      "Против всех": 92
+      "gas:candidate-vibid:1001000188002": 55,
+      "gas:candidate-vibid:1001000121844": 94,
+      "gas:candidate-vibid:1001000136050": 23,
+      "gas:candidate-vibid:1001000195071": 6,
+      "gas:candidate-vibid:336300370642": 2,
+      "gas:candidate-vibid:336300370522": 305,
+      "gas:candidate-vibid:1001000290477": 7,
+      "special:against-all": 92
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=362000037&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=236200073312&region=0&sub_region=0&type=429",
@@ -1809,14 +1809,14 @@ export const duma_2003_uik_428_region_36_part_007 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Воронин Василий Михайлович": 5,
-      "Гостев Руслан Георгиевич": 52,
-      "Данилов Виталий Филиппович": 3,
-      "Золотарев Александр Иванович": 1,
-      "Милешко Виктор Стефанович": 2,
-      "Ольшанский Николай Михайлович": 104,
-      "Труфанов Александр Федорович": 3,
-      "Против всех": 16
+      "gas:candidate-vibid:1001000188002": 5,
+      "gas:candidate-vibid:1001000121844": 52,
+      "gas:candidate-vibid:1001000136050": 3,
+      "gas:candidate-vibid:1001000195071": 1,
+      "gas:candidate-vibid:336300370642": 2,
+      "gas:candidate-vibid:336300370522": 104,
+      "gas:candidate-vibid:1001000290477": 3,
+      "special:against-all": 16
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=362000037&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=236200073312&region=0&sub_region=0&type=429",
@@ -1866,14 +1866,14 @@ export const duma_2003_uik_428_region_36_part_007 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Воронин Василий Михайлович": 8,
-      "Гостев Руслан Георгиевич": 25,
-      "Данилов Виталий Филиппович": 1,
-      "Золотарев Александр Иванович": 1,
-      "Милешко Виктор Стефанович": 2,
-      "Ольшанский Николай Михайлович": 150,
-      "Труфанов Александр Федорович": 4,
-      "Против всех": 6
+      "gas:candidate-vibid:1001000188002": 8,
+      "gas:candidate-vibid:1001000121844": 25,
+      "gas:candidate-vibid:1001000136050": 1,
+      "gas:candidate-vibid:1001000195071": 1,
+      "gas:candidate-vibid:336300370642": 2,
+      "gas:candidate-vibid:336300370522": 150,
+      "gas:candidate-vibid:1001000290477": 4,
+      "special:against-all": 6
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=362000037&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=236200073312&region=0&sub_region=0&type=429",
@@ -1923,14 +1923,14 @@ export const duma_2003_uik_428_region_36_part_007 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Воронин Василий Михайлович": 32,
-      "Гостев Руслан Георгиевич": 82,
-      "Данилов Виталий Филиппович": 29,
-      "Золотарев Александр Иванович": 14,
-      "Милешко Виктор Стефанович": 9,
-      "Ольшанский Николай Михайлович": 188,
-      "Труфанов Александр Федорович": 16,
-      "Против всех": 36
+      "gas:candidate-vibid:1001000188002": 32,
+      "gas:candidate-vibid:1001000121844": 82,
+      "gas:candidate-vibid:1001000136050": 29,
+      "gas:candidate-vibid:1001000195071": 14,
+      "gas:candidate-vibid:336300370642": 9,
+      "gas:candidate-vibid:336300370522": 188,
+      "gas:candidate-vibid:1001000290477": 16,
+      "special:against-all": 36
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=362000037&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=236200073312&region=0&sub_region=0&type=429",
@@ -1980,14 +1980,14 @@ export const duma_2003_uik_428_region_36_part_007 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Воронин Василий Михайлович": 21,
-      "Гостев Руслан Георгиевич": 44,
-      "Данилов Виталий Филиппович": 7,
-      "Золотарев Александр Иванович": 3,
-      "Милешко Виктор Стефанович": 2,
-      "Ольшанский Николай Михайлович": 172,
-      "Труфанов Александр Федорович": 5,
-      "Против всех": 28
+      "gas:candidate-vibid:1001000188002": 21,
+      "gas:candidate-vibid:1001000121844": 44,
+      "gas:candidate-vibid:1001000136050": 7,
+      "gas:candidate-vibid:1001000195071": 3,
+      "gas:candidate-vibid:336300370642": 2,
+      "gas:candidate-vibid:336300370522": 172,
+      "gas:candidate-vibid:1001000290477": 5,
+      "special:against-all": 28
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=362000037&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=236200073312&region=0&sub_region=0&type=429",
@@ -2037,14 +2037,14 @@ export const duma_2003_uik_428_region_36_part_007 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Воронин Василий Михайлович": 31,
-      "Гостев Руслан Георгиевич": 95,
-      "Данилов Виталий Филиппович": 12,
-      "Золотарев Александр Иванович": 4,
-      "Милешко Виктор Стефанович": 2,
-      "Ольшанский Николай Михайлович": 119,
-      "Труфанов Александр Федорович": 15,
-      "Против всех": 30
+      "gas:candidate-vibid:1001000188002": 31,
+      "gas:candidate-vibid:1001000121844": 95,
+      "gas:candidate-vibid:1001000136050": 12,
+      "gas:candidate-vibid:1001000195071": 4,
+      "gas:candidate-vibid:336300370642": 2,
+      "gas:candidate-vibid:336300370522": 119,
+      "gas:candidate-vibid:1001000290477": 15,
+      "special:against-all": 30
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=362000037&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=236200073312&region=0&sub_region=0&type=429",
@@ -2094,14 +2094,14 @@ export const duma_2003_uik_428_region_36_part_007 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Воронин Василий Михайлович": 2,
-      "Гостев Руслан Георгиевич": 15,
-      "Данилов Виталий Филиппович": 5,
-      "Золотарев Александр Иванович": 4,
-      "Милешко Виктор Стефанович": 3,
-      "Ольшанский Николай Михайлович": 87,
-      "Труфанов Александр Федорович": 1,
-      "Против всех": 8
+      "gas:candidate-vibid:1001000188002": 2,
+      "gas:candidate-vibid:1001000121844": 15,
+      "gas:candidate-vibid:1001000136050": 5,
+      "gas:candidate-vibid:1001000195071": 4,
+      "gas:candidate-vibid:336300370642": 3,
+      "gas:candidate-vibid:336300370522": 87,
+      "gas:candidate-vibid:1001000290477": 1,
+      "special:against-all": 8
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=362000037&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=236200073312&region=0&sub_region=0&type=429",
@@ -2151,14 +2151,14 @@ export const duma_2003_uik_428_region_36_part_007 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Воронин Василий Михайлович": 84,
-      "Гостев Руслан Георгиевич": 199,
-      "Данилов Виталий Филиппович": 46,
-      "Золотарев Александр Иванович": 21,
-      "Милешко Виктор Стефанович": 5,
-      "Ольшанский Николай Михайлович": 346,
-      "Труфанов Александр Федорович": 44,
-      "Против всех": 159
+      "gas:candidate-vibid:1001000188002": 84,
+      "gas:candidate-vibid:1001000121844": 199,
+      "gas:candidate-vibid:1001000136050": 46,
+      "gas:candidate-vibid:1001000195071": 21,
+      "gas:candidate-vibid:336300370642": 5,
+      "gas:candidate-vibid:336300370522": 346,
+      "gas:candidate-vibid:1001000290477": 44,
+      "special:against-all": 159
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=362000037&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=236200073312&region=0&sub_region=0&type=429",
@@ -2208,14 +2208,14 @@ export const duma_2003_uik_428_region_36_part_007 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Воронин Василий Михайлович": 148,
-      "Гостев Руслан Георгиевич": 284,
-      "Данилов Виталий Филиппович": 100,
-      "Золотарев Александр Иванович": 29,
-      "Милешко Виктор Стефанович": 10,
-      "Ольшанский Николай Михайлович": 580,
-      "Труфанов Александр Федорович": 88,
-      "Против всех": 324
+      "gas:candidate-vibid:1001000188002": 148,
+      "gas:candidate-vibid:1001000121844": 284,
+      "gas:candidate-vibid:1001000136050": 100,
+      "gas:candidate-vibid:1001000195071": 29,
+      "gas:candidate-vibid:336300370642": 10,
+      "gas:candidate-vibid:336300370522": 580,
+      "gas:candidate-vibid:1001000290477": 88,
+      "special:against-all": 324
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=362000037&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=236200073312&region=0&sub_region=0&type=429",
@@ -2265,14 +2265,14 @@ export const duma_2003_uik_428_region_36_part_007 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Воронин Василий Михайлович": 20,
-      "Гостев Руслан Георгиевич": 103,
-      "Данилов Виталий Филиппович": 23,
-      "Золотарев Александр Иванович": 0,
-      "Милешко Виктор Стефанович": 2,
-      "Ольшанский Николай Михайлович": 109,
-      "Труфанов Александр Федорович": 4,
-      "Против всех": 34
+      "gas:candidate-vibid:1001000188002": 20,
+      "gas:candidate-vibid:1001000121844": 103,
+      "gas:candidate-vibid:1001000136050": 23,
+      "gas:candidate-vibid:1001000195071": 0,
+      "gas:candidate-vibid:336300370642": 2,
+      "gas:candidate-vibid:336300370522": 109,
+      "gas:candidate-vibid:1001000290477": 4,
+      "special:against-all": 34
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=362000037&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=236200073312&region=0&sub_region=0&type=429",
@@ -2322,14 +2322,14 @@ export const duma_2003_uik_428_region_36_part_007 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Воронин Василий Михайлович": 56,
-      "Гостев Руслан Георгиевич": 60,
-      "Данилов Виталий Филиппович": 24,
-      "Золотарев Александр Иванович": 10,
-      "Милешко Виктор Стефанович": 2,
-      "Ольшанский Николай Михайлович": 294,
-      "Труфанов Александр Федорович": 19,
-      "Против всех": 71
+      "gas:candidate-vibid:1001000188002": 56,
+      "gas:candidate-vibid:1001000121844": 60,
+      "gas:candidate-vibid:1001000136050": 24,
+      "gas:candidate-vibid:1001000195071": 10,
+      "gas:candidate-vibid:336300370642": 2,
+      "gas:candidate-vibid:336300370522": 294,
+      "gas:candidate-vibid:1001000290477": 19,
+      "special:against-all": 71
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=362000037&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=236200073312&region=0&sub_region=0&type=429",
@@ -2379,14 +2379,14 @@ export const duma_2003_uik_428_region_36_part_007 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Воронин Василий Михайлович": 54,
-      "Гостев Руслан Георгиевич": 32,
-      "Данилов Виталий Филиппович": 26,
-      "Золотарев Александр Иванович": 6,
-      "Милешко Виктор Стефанович": 1,
-      "Ольшанский Николай Михайлович": 207,
-      "Труфанов Александр Федорович": 43,
-      "Против всех": 55
+      "gas:candidate-vibid:1001000188002": 54,
+      "gas:candidate-vibid:1001000121844": 32,
+      "gas:candidate-vibid:1001000136050": 26,
+      "gas:candidate-vibid:1001000195071": 6,
+      "gas:candidate-vibid:336300370642": 1,
+      "gas:candidate-vibid:336300370522": 207,
+      "gas:candidate-vibid:1001000290477": 43,
+      "special:against-all": 55
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=362000037&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=236200073312&region=0&sub_region=0&type=429",
@@ -2436,14 +2436,14 @@ export const duma_2003_uik_428_region_36_part_007 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Воронин Василий Михайлович": 78,
-      "Гостев Руслан Георгиевич": 150,
-      "Данилов Виталий Филиппович": 36,
-      "Золотарев Александр Иванович": 9,
-      "Милешко Виктор Стефанович": 9,
-      "Ольшанский Николай Михайлович": 330,
-      "Труфанов Александр Федорович": 28,
-      "Против всех": 107
+      "gas:candidate-vibid:1001000188002": 78,
+      "gas:candidate-vibid:1001000121844": 150,
+      "gas:candidate-vibid:1001000136050": 36,
+      "gas:candidate-vibid:1001000195071": 9,
+      "gas:candidate-vibid:336300370642": 9,
+      "gas:candidate-vibid:336300370522": 330,
+      "gas:candidate-vibid:1001000290477": 28,
+      "special:against-all": 107
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=362000037&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=236200073312&region=0&sub_region=0&type=429",
@@ -2493,14 +2493,14 @@ export const duma_2003_uik_428_region_36_part_007 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Воронин Василий Михайлович": 24,
-      "Гостев Руслан Георгиевич": 107,
-      "Данилов Виталий Филиппович": 24,
-      "Золотарев Александр Иванович": 10,
-      "Милешко Виктор Стефанович": 3,
-      "Ольшанский Николай Михайлович": 209,
-      "Труфанов Александр Федорович": 15,
-      "Против всех": 42
+      "gas:candidate-vibid:1001000188002": 24,
+      "gas:candidate-vibid:1001000121844": 107,
+      "gas:candidate-vibid:1001000136050": 24,
+      "gas:candidate-vibid:1001000195071": 10,
+      "gas:candidate-vibid:336300370642": 3,
+      "gas:candidate-vibid:336300370522": 209,
+      "gas:candidate-vibid:1001000290477": 15,
+      "special:against-all": 42
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=362000037&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=236200073312&region=0&sub_region=0&type=429",
@@ -2550,14 +2550,14 @@ export const duma_2003_uik_428_region_36_part_007 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Воронин Василий Михайлович": 45,
-      "Гостев Руслан Георгиевич": 599,
-      "Данилов Виталий Филиппович": 48,
-      "Золотарев Александр Иванович": 7,
-      "Милешко Виктор Стефанович": 4,
-      "Ольшанский Николай Михайлович": 195,
-      "Труфанов Александр Федорович": 27,
-      "Против всех": 92
+      "gas:candidate-vibid:1001000188002": 45,
+      "gas:candidate-vibid:1001000121844": 599,
+      "gas:candidate-vibid:1001000136050": 48,
+      "gas:candidate-vibid:1001000195071": 7,
+      "gas:candidate-vibid:336300370642": 4,
+      "gas:candidate-vibid:336300370522": 195,
+      "gas:candidate-vibid:1001000290477": 27,
+      "special:against-all": 92
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=362000037&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=236200073312&region=0&sub_region=0&type=429",
@@ -2607,14 +2607,14 @@ export const duma_2003_uik_428_region_36_part_007 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Воронин Василий Михайлович": 21,
-      "Гостев Руслан Георгиевич": 61,
-      "Данилов Виталий Филиппович": 30,
-      "Золотарев Александр Иванович": 6,
-      "Милешко Виктор Стефанович": 1,
-      "Ольшанский Николай Михайлович": 124,
-      "Труфанов Александр Федорович": 5,
-      "Против всех": 27
+      "gas:candidate-vibid:1001000188002": 21,
+      "gas:candidate-vibid:1001000121844": 61,
+      "gas:candidate-vibid:1001000136050": 30,
+      "gas:candidate-vibid:1001000195071": 6,
+      "gas:candidate-vibid:336300370642": 1,
+      "gas:candidate-vibid:336300370522": 124,
+      "gas:candidate-vibid:1001000290477": 5,
+      "special:against-all": 27
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=362000037&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=236200073312&region=0&sub_region=0&type=429",
@@ -2664,14 +2664,14 @@ export const duma_2003_uik_428_region_36_part_007 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Воронин Василий Михайлович": 7,
-      "Гостев Руслан Георгиевич": 15,
-      "Данилов Виталий Филиппович": 3,
-      "Золотарев Александр Иванович": 4,
-      "Милешко Виктор Стефанович": 2,
-      "Ольшанский Николай Михайлович": 29,
-      "Труфанов Александр Федорович": 5,
-      "Против всех": 6
+      "gas:candidate-vibid:1001000188002": 7,
+      "gas:candidate-vibid:1001000121844": 15,
+      "gas:candidate-vibid:1001000136050": 3,
+      "gas:candidate-vibid:1001000195071": 4,
+      "gas:candidate-vibid:336300370642": 2,
+      "gas:candidate-vibid:336300370522": 29,
+      "gas:candidate-vibid:1001000290477": 5,
+      "special:against-all": 6
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=362000037&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=236200073312&region=0&sub_region=0&type=429",
@@ -2721,14 +2721,14 @@ export const duma_2003_uik_428_region_36_part_007 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Воронин Василий Михайлович": 45,
-      "Гостев Руслан Георгиевич": 61,
-      "Данилов Виталий Филиппович": 21,
-      "Золотарев Александр Иванович": 12,
-      "Милешко Виктор Стефанович": 3,
-      "Ольшанский Николай Михайлович": 167,
-      "Труфанов Александр Федорович": 14,
-      "Против всех": 77
+      "gas:candidate-vibid:1001000188002": 45,
+      "gas:candidate-vibid:1001000121844": 61,
+      "gas:candidate-vibid:1001000136050": 21,
+      "gas:candidate-vibid:1001000195071": 12,
+      "gas:candidate-vibid:336300370642": 3,
+      "gas:candidate-vibid:336300370522": 167,
+      "gas:candidate-vibid:1001000290477": 14,
+      "special:against-all": 77
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=362000037&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=236200073312&region=0&sub_region=0&type=429",
@@ -2778,14 +2778,14 @@ export const duma_2003_uik_428_region_36_part_007 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Воронин Василий Михайлович": 80,
-      "Гостев Руслан Георгиевич": 254,
-      "Данилов Виталий Филиппович": 83,
-      "Золотарев Александр Иванович": 22,
-      "Милешко Виктор Стефанович": 20,
-      "Ольшанский Николай Михайлович": 388,
-      "Труфанов Александр Федорович": 14,
-      "Против всех": 130
+      "gas:candidate-vibid:1001000188002": 80,
+      "gas:candidate-vibid:1001000121844": 254,
+      "gas:candidate-vibid:1001000136050": 83,
+      "gas:candidate-vibid:1001000195071": 22,
+      "gas:candidate-vibid:336300370642": 20,
+      "gas:candidate-vibid:336300370522": 388,
+      "gas:candidate-vibid:1001000290477": 14,
+      "special:against-all": 130
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=362000037&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=236200073312&region=0&sub_region=0&type=429",
@@ -2835,14 +2835,14 @@ export const duma_2003_uik_428_region_36_part_007 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Воронин Василий Михайлович": 11,
-      "Гостев Руслан Георгиевич": 13,
-      "Данилов Виталий Филиппович": 8,
-      "Золотарев Александр Иванович": 1,
-      "Милешко Виктор Стефанович": 2,
-      "Ольшанский Николай Михайлович": 165,
-      "Труфанов Александр Федорович": 9,
-      "Против всех": 21
+      "gas:candidate-vibid:1001000188002": 11,
+      "gas:candidate-vibid:1001000121844": 13,
+      "gas:candidate-vibid:1001000136050": 8,
+      "gas:candidate-vibid:1001000195071": 1,
+      "gas:candidate-vibid:336300370642": 2,
+      "gas:candidate-vibid:336300370522": 165,
+      "gas:candidate-vibid:1001000290477": 9,
+      "special:against-all": 21
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=362000037&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=236200073312&region=0&sub_region=0&type=429",
@@ -2892,14 +2892,14 @@ export const duma_2003_uik_428_region_36_part_007 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Воронин Василий Михайлович": 19,
-      "Гостев Руслан Георгиевич": 40,
-      "Данилов Виталий Филиппович": 18,
-      "Золотарев Александр Иванович": 8,
-      "Милешко Виктор Стефанович": 5,
-      "Ольшанский Николай Михайлович": 182,
-      "Труфанов Александр Федорович": 10,
-      "Против всех": 31
+      "gas:candidate-vibid:1001000188002": 19,
+      "gas:candidate-vibid:1001000121844": 40,
+      "gas:candidate-vibid:1001000136050": 18,
+      "gas:candidate-vibid:1001000195071": 8,
+      "gas:candidate-vibid:336300370642": 5,
+      "gas:candidate-vibid:336300370522": 182,
+      "gas:candidate-vibid:1001000290477": 10,
+      "special:against-all": 31
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=362000037&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=236200073312&region=0&sub_region=0&type=429",
@@ -2949,14 +2949,14 @@ export const duma_2003_uik_428_region_36_part_007 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Воронин Василий Михайлович": 23,
-      "Гостев Руслан Георгиевич": 71,
-      "Данилов Виталий Филиппович": 6,
-      "Золотарев Александр Иванович": 2,
-      "Милешко Виктор Стефанович": 1,
-      "Ольшанский Николай Михайлович": 192,
-      "Труфанов Александр Федорович": 5,
-      "Против всех": 40
+      "gas:candidate-vibid:1001000188002": 23,
+      "gas:candidate-vibid:1001000121844": 71,
+      "gas:candidate-vibid:1001000136050": 6,
+      "gas:candidate-vibid:1001000195071": 2,
+      "gas:candidate-vibid:336300370642": 1,
+      "gas:candidate-vibid:336300370522": 192,
+      "gas:candidate-vibid:1001000290477": 5,
+      "special:against-all": 40
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=362000037&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=236200073312&region=0&sub_region=0&type=429",
@@ -3006,14 +3006,14 @@ export const duma_2003_uik_428_region_36_part_007 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Воронин Василий Михайлович": 41,
-      "Гостев Руслан Георгиевич": 82,
-      "Данилов Виталий Филиппович": 10,
-      "Золотарев Александр Иванович": 14,
-      "Милешко Виктор Стефанович": 3,
-      "Ольшанский Николай Михайлович": 190,
-      "Труфанов Александр Федорович": 5,
-      "Против всех": 53
+      "gas:candidate-vibid:1001000188002": 41,
+      "gas:candidate-vibid:1001000121844": 82,
+      "gas:candidate-vibid:1001000136050": 10,
+      "gas:candidate-vibid:1001000195071": 14,
+      "gas:candidate-vibid:336300370642": 3,
+      "gas:candidate-vibid:336300370522": 190,
+      "gas:candidate-vibid:1001000290477": 5,
+      "special:against-all": 53
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=362000037&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=236200073312&region=0&sub_region=0&type=429",
@@ -3063,14 +3063,14 @@ export const duma_2003_uik_428_region_36_part_007 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Воронин Василий Михайлович": 26,
-      "Гостев Руслан Георгиевич": 81,
-      "Данилов Виталий Филиппович": 11,
-      "Золотарев Александр Иванович": 0,
-      "Милешко Виктор Стефанович": 0,
-      "Ольшанский Николай Михайлович": 171,
-      "Труфанов Александр Федорович": 6,
-      "Против всех": 20
+      "gas:candidate-vibid:1001000188002": 26,
+      "gas:candidate-vibid:1001000121844": 81,
+      "gas:candidate-vibid:1001000136050": 11,
+      "gas:candidate-vibid:1001000195071": 0,
+      "gas:candidate-vibid:336300370642": 0,
+      "gas:candidate-vibid:336300370522": 171,
+      "gas:candidate-vibid:1001000290477": 6,
+      "special:against-all": 20
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=362000037&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=236200073312&region=0&sub_region=0&type=429",
@@ -3120,14 +3120,14 @@ export const duma_2003_uik_428_region_36_part_007 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Воронин Василий Михайлович": 10,
-      "Гостев Руслан Георгиевич": 15,
-      "Данилов Виталий Филиппович": 6,
-      "Золотарев Александр Иванович": 5,
-      "Милешко Виктор Стефанович": 3,
-      "Ольшанский Николай Михайлович": 120,
-      "Труфанов Александр Федорович": 6,
-      "Против всех": 35
+      "gas:candidate-vibid:1001000188002": 10,
+      "gas:candidate-vibid:1001000121844": 15,
+      "gas:candidate-vibid:1001000136050": 6,
+      "gas:candidate-vibid:1001000195071": 5,
+      "gas:candidate-vibid:336300370642": 3,
+      "gas:candidate-vibid:336300370522": 120,
+      "gas:candidate-vibid:1001000290477": 6,
+      "special:against-all": 35
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=362000037&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=236200073312&region=0&sub_region=0&type=429",
@@ -3177,14 +3177,14 @@ export const duma_2003_uik_428_region_36_part_007 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Воронин Василий Михайлович": 57,
-      "Гостев Руслан Георгиевич": 184,
-      "Данилов Виталий Филиппович": 29,
-      "Золотарев Александр Иванович": 7,
-      "Милешко Виктор Стефанович": 2,
-      "Ольшанский Николай Михайлович": 276,
-      "Труфанов Александр Федорович": 14,
-      "Против всех": 101
+      "gas:candidate-vibid:1001000188002": 57,
+      "gas:candidate-vibid:1001000121844": 184,
+      "gas:candidate-vibid:1001000136050": 29,
+      "gas:candidate-vibid:1001000195071": 7,
+      "gas:candidate-vibid:336300370642": 2,
+      "gas:candidate-vibid:336300370522": 276,
+      "gas:candidate-vibid:1001000290477": 14,
+      "special:against-all": 101
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=362000038&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=236200073313&region=0&sub_region=0&type=429",
@@ -3234,14 +3234,14 @@ export const duma_2003_uik_428_region_36_part_007 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Воронин Василий Михайлович": 43,
-      "Гостев Руслан Георгиевич": 139,
-      "Данилов Виталий Филиппович": 30,
-      "Золотарев Александр Иванович": 3,
-      "Милешко Виктор Стефанович": 10,
-      "Ольшанский Николай Михайлович": 304,
-      "Труфанов Александр Федорович": 15,
-      "Против всех": 97
+      "gas:candidate-vibid:1001000188002": 43,
+      "gas:candidate-vibid:1001000121844": 139,
+      "gas:candidate-vibid:1001000136050": 30,
+      "gas:candidate-vibid:1001000195071": 3,
+      "gas:candidate-vibid:336300370642": 10,
+      "gas:candidate-vibid:336300370522": 304,
+      "gas:candidate-vibid:1001000290477": 15,
+      "special:against-all": 97
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=362000038&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=236200073313&region=0&sub_region=0&type=429",
@@ -3291,14 +3291,14 @@ export const duma_2003_uik_428_region_36_part_007 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Воронин Василий Михайлович": 67,
-      "Гостев Руслан Георгиевич": 166,
-      "Данилов Виталий Филиппович": 45,
-      "Золотарев Александр Иванович": 4,
-      "Милешко Виктор Стефанович": 4,
-      "Ольшанский Николай Михайлович": 314,
-      "Труфанов Александр Федорович": 25,
-      "Против всех": 75
+      "gas:candidate-vibid:1001000188002": 67,
+      "gas:candidate-vibid:1001000121844": 166,
+      "gas:candidate-vibid:1001000136050": 45,
+      "gas:candidate-vibid:1001000195071": 4,
+      "gas:candidate-vibid:336300370642": 4,
+      "gas:candidate-vibid:336300370522": 314,
+      "gas:candidate-vibid:1001000290477": 25,
+      "special:against-all": 75
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=362000038&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=236200073313&region=0&sub_region=0&type=429",
@@ -3348,14 +3348,14 @@ export const duma_2003_uik_428_region_36_part_007 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Воронин Василий Михайлович": 77,
-      "Гостев Руслан Георгиевич": 179,
-      "Данилов Виталий Филиппович": 82,
-      "Золотарев Александр Иванович": 4,
-      "Милешко Виктор Стефанович": 3,
-      "Ольшанский Николай Михайлович": 446,
-      "Труфанов Александр Федорович": 23,
-      "Против всех": 162
+      "gas:candidate-vibid:1001000188002": 77,
+      "gas:candidate-vibid:1001000121844": 179,
+      "gas:candidate-vibid:1001000136050": 82,
+      "gas:candidate-vibid:1001000195071": 4,
+      "gas:candidate-vibid:336300370642": 3,
+      "gas:candidate-vibid:336300370522": 446,
+      "gas:candidate-vibid:1001000290477": 23,
+      "special:against-all": 162
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=362000038&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=236200073313&region=0&sub_region=0&type=429",
@@ -3405,14 +3405,14 @@ export const duma_2003_uik_428_region_36_part_007 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Воронин Василий Михайлович": 43,
-      "Гостев Руслан Георгиевич": 100,
-      "Данилов Виталий Филиппович": 29,
-      "Золотарев Александр Иванович": 2,
-      "Милешко Виктор Стефанович": 5,
-      "Ольшанский Николай Михайлович": 179,
-      "Труфанов Александр Федорович": 15,
-      "Против всех": 76
+      "gas:candidate-vibid:1001000188002": 43,
+      "gas:candidate-vibid:1001000121844": 100,
+      "gas:candidate-vibid:1001000136050": 29,
+      "gas:candidate-vibid:1001000195071": 2,
+      "gas:candidate-vibid:336300370642": 5,
+      "gas:candidate-vibid:336300370522": 179,
+      "gas:candidate-vibid:1001000290477": 15,
+      "special:against-all": 76
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=362000038&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=236200073313&region=0&sub_region=0&type=429",
@@ -3462,14 +3462,14 @@ export const duma_2003_uik_428_region_36_part_007 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Воронин Василий Михайлович": 62,
-      "Гостев Руслан Георгиевич": 165,
-      "Данилов Виталий Филиппович": 47,
-      "Золотарев Александр Иванович": 7,
-      "Милешко Виктор Стефанович": 21,
-      "Ольшанский Николай Михайлович": 363,
-      "Труфанов Александр Федорович": 15,
-      "Против всех": 123
+      "gas:candidate-vibid:1001000188002": 62,
+      "gas:candidate-vibid:1001000121844": 165,
+      "gas:candidate-vibid:1001000136050": 47,
+      "gas:candidate-vibid:1001000195071": 7,
+      "gas:candidate-vibid:336300370642": 21,
+      "gas:candidate-vibid:336300370522": 363,
+      "gas:candidate-vibid:1001000290477": 15,
+      "special:against-all": 123
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=362000038&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=236200073313&region=0&sub_region=0&type=429",
@@ -3519,14 +3519,14 @@ export const duma_2003_uik_428_region_36_part_007 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Воронин Василий Михайлович": 60,
-      "Гостев Руслан Георгиевич": 259,
-      "Данилов Виталий Филиппович": 60,
-      "Золотарев Александр Иванович": 6,
-      "Милешко Виктор Стефанович": 11,
-      "Ольшанский Николай Михайлович": 405,
-      "Труфанов Александр Федорович": 16,
-      "Против всех": 119
+      "gas:candidate-vibid:1001000188002": 60,
+      "gas:candidate-vibid:1001000121844": 259,
+      "gas:candidate-vibid:1001000136050": 60,
+      "gas:candidate-vibid:1001000195071": 6,
+      "gas:candidate-vibid:336300370642": 11,
+      "gas:candidate-vibid:336300370522": 405,
+      "gas:candidate-vibid:1001000290477": 16,
+      "special:against-all": 119
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=362000038&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=236200073313&region=0&sub_region=0&type=429",
@@ -3576,14 +3576,14 @@ export const duma_2003_uik_428_region_36_part_007 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Воронин Василий Михайлович": 2,
-      "Гостев Руслан Георгиевич": 9,
-      "Данилов Виталий Филиппович": 14,
-      "Золотарев Александр Иванович": 0,
-      "Милешко Виктор Стефанович": 0,
-      "Ольшанский Николай Михайлович": 42,
-      "Труфанов Александр Федорович": 1,
-      "Против всех": 6
+      "gas:candidate-vibid:1001000188002": 2,
+      "gas:candidate-vibid:1001000121844": 9,
+      "gas:candidate-vibid:1001000136050": 14,
+      "gas:candidate-vibid:1001000195071": 0,
+      "gas:candidate-vibid:336300370642": 0,
+      "gas:candidate-vibid:336300370522": 42,
+      "gas:candidate-vibid:1001000290477": 1,
+      "special:against-all": 6
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=362000038&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=236200073313&region=0&sub_region=0&type=429",
@@ -3633,14 +3633,14 @@ export const duma_2003_uik_428_region_36_part_007 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Воронин Василий Михайлович": 14,
-      "Гостев Руслан Георгиевич": 49,
-      "Данилов Виталий Филиппович": 16,
-      "Золотарев Александр Иванович": 2,
-      "Милешко Виктор Стефанович": 2,
-      "Ольшанский Николай Михайлович": 237,
-      "Труфанов Александр Федорович": 7,
-      "Против всех": 25
+      "gas:candidate-vibid:1001000188002": 14,
+      "gas:candidate-vibid:1001000121844": 49,
+      "gas:candidate-vibid:1001000136050": 16,
+      "gas:candidate-vibid:1001000195071": 2,
+      "gas:candidate-vibid:336300370642": 2,
+      "gas:candidate-vibid:336300370522": 237,
+      "gas:candidate-vibid:1001000290477": 7,
+      "special:against-all": 25
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=362000038&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=236200073313&region=0&sub_region=0&type=429",
@@ -3690,14 +3690,14 @@ export const duma_2003_uik_428_region_36_part_007 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Воронин Василий Михайлович": 13,
-      "Гостев Руслан Георгиевич": 98,
-      "Данилов Виталий Филиппович": 8,
-      "Золотарев Александр Иванович": 2,
-      "Милешко Виктор Стефанович": 3,
-      "Ольшанский Николай Михайлович": 188,
-      "Труфанов Александр Федорович": 12,
-      "Против всех": 22
+      "gas:candidate-vibid:1001000188002": 13,
+      "gas:candidate-vibid:1001000121844": 98,
+      "gas:candidate-vibid:1001000136050": 8,
+      "gas:candidate-vibid:1001000195071": 2,
+      "gas:candidate-vibid:336300370642": 3,
+      "gas:candidate-vibid:336300370522": 188,
+      "gas:candidate-vibid:1001000290477": 12,
+      "special:against-all": 22
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=362000038&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=236200073313&region=0&sub_region=0&type=429",
@@ -3747,14 +3747,14 @@ export const duma_2003_uik_428_region_36_part_007 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Воронин Василий Михайлович": 17,
-      "Гостев Руслан Георгиевич": 89,
-      "Данилов Виталий Филиппович": 8,
-      "Золотарев Александр Иванович": 1,
-      "Милешко Виктор Стефанович": 1,
-      "Ольшанский Николай Михайлович": 276,
-      "Труфанов Александр Федорович": 3,
-      "Против всех": 39
+      "gas:candidate-vibid:1001000188002": 17,
+      "gas:candidate-vibid:1001000121844": 89,
+      "gas:candidate-vibid:1001000136050": 8,
+      "gas:candidate-vibid:1001000195071": 1,
+      "gas:candidate-vibid:336300370642": 1,
+      "gas:candidate-vibid:336300370522": 276,
+      "gas:candidate-vibid:1001000290477": 3,
+      "special:against-all": 39
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=362000038&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=236200073313&region=0&sub_region=0&type=429",
@@ -3804,14 +3804,14 @@ export const duma_2003_uik_428_region_36_part_007 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Воронин Василий Михайлович": 19,
-      "Гостев Руслан Георгиевич": 32,
-      "Данилов Виталий Филиппович": 5,
-      "Золотарев Александр Иванович": 0,
-      "Милешко Виктор Стефанович": 2,
-      "Ольшанский Николай Михайлович": 138,
-      "Труфанов Александр Федорович": 0,
-      "Против всех": 15
+      "gas:candidate-vibid:1001000188002": 19,
+      "gas:candidate-vibid:1001000121844": 32,
+      "gas:candidate-vibid:1001000136050": 5,
+      "gas:candidate-vibid:1001000195071": 0,
+      "gas:candidate-vibid:336300370642": 2,
+      "gas:candidate-vibid:336300370522": 138,
+      "gas:candidate-vibid:1001000290477": 0,
+      "special:against-all": 15
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=362000038&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=236200073313&region=0&sub_region=0&type=429",
@@ -3861,14 +3861,14 @@ export const duma_2003_uik_428_region_36_part_007 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Воронин Василий Михайлович": 45,
-      "Гостев Руслан Георгиевич": 114,
-      "Данилов Виталий Филиппович": 28,
-      "Золотарев Александр Иванович": 4,
-      "Милешко Виктор Стефанович": 4,
-      "Ольшанский Николай Михайлович": 201,
-      "Труфанов Александр Федорович": 12,
-      "Против всех": 98
+      "gas:candidate-vibid:1001000188002": 45,
+      "gas:candidate-vibid:1001000121844": 114,
+      "gas:candidate-vibid:1001000136050": 28,
+      "gas:candidate-vibid:1001000195071": 4,
+      "gas:candidate-vibid:336300370642": 4,
+      "gas:candidate-vibid:336300370522": 201,
+      "gas:candidate-vibid:1001000290477": 12,
+      "special:against-all": 98
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=362000038&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=236200073313&region=0&sub_region=0&type=429",
@@ -3918,14 +3918,14 @@ export const duma_2003_uik_428_region_36_part_007 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Воронин Василий Михайлович": 17,
-      "Гостев Руслан Георгиевич": 29,
-      "Данилов Виталий Филиппович": 5,
-      "Золотарев Александр Иванович": 3,
-      "Милешко Виктор Стефанович": 1,
-      "Ольшанский Николай Михайлович": 91,
-      "Труфанов Александр Федорович": 2,
-      "Против всех": 27
+      "gas:candidate-vibid:1001000188002": 17,
+      "gas:candidate-vibid:1001000121844": 29,
+      "gas:candidate-vibid:1001000136050": 5,
+      "gas:candidate-vibid:1001000195071": 3,
+      "gas:candidate-vibid:336300370642": 1,
+      "gas:candidate-vibid:336300370522": 91,
+      "gas:candidate-vibid:1001000290477": 2,
+      "special:against-all": 27
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=362000038&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=236200073313&region=0&sub_region=0&type=429",
@@ -3975,14 +3975,14 @@ export const duma_2003_uik_428_region_36_part_007 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Воронин Василий Михайлович": 3,
-      "Гостев Руслан Георгиевич": 6,
-      "Данилов Виталий Филиппович": 6,
-      "Золотарев Александр Иванович": 0,
-      "Милешко Виктор Стефанович": 1,
-      "Ольшанский Николай Михайлович": 24,
-      "Труфанов Александр Федорович": 0,
-      "Против всех": 11
+      "gas:candidate-vibid:1001000188002": 3,
+      "gas:candidate-vibid:1001000121844": 6,
+      "gas:candidate-vibid:1001000136050": 6,
+      "gas:candidate-vibid:1001000195071": 0,
+      "gas:candidate-vibid:336300370642": 1,
+      "gas:candidate-vibid:336300370522": 24,
+      "gas:candidate-vibid:1001000290477": 0,
+      "special:against-all": 11
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=362000038&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=236200073313&region=0&sub_region=0&type=429",
@@ -4032,14 +4032,14 @@ export const duma_2003_uik_428_region_36_part_007 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Воронин Василий Михайлович": 23,
-      "Гостев Руслан Георгиевич": 101,
-      "Данилов Виталий Филиппович": 25,
-      "Золотарев Александр Иванович": 9,
-      "Милешко Виктор Стефанович": 3,
-      "Ольшанский Николай Михайлович": 209,
-      "Труфанов Александр Федорович": 12,
-      "Против всех": 47
+      "gas:candidate-vibid:1001000188002": 23,
+      "gas:candidate-vibid:1001000121844": 101,
+      "gas:candidate-vibid:1001000136050": 25,
+      "gas:candidate-vibid:1001000195071": 9,
+      "gas:candidate-vibid:336300370642": 3,
+      "gas:candidate-vibid:336300370522": 209,
+      "gas:candidate-vibid:1001000290477": 12,
+      "special:against-all": 47
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=362000038&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=236200073313&region=0&sub_region=0&type=429",
@@ -4089,14 +4089,14 @@ export const duma_2003_uik_428_region_36_part_007 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Воронин Василий Михайлович": 6,
-      "Гостев Руслан Георгиевич": 54,
-      "Данилов Виталий Филиппович": 13,
-      "Золотарев Александр Иванович": 4,
-      "Милешко Виктор Стефанович": 2,
-      "Ольшанский Николай Михайлович": 221,
-      "Труфанов Александр Федорович": 10,
-      "Против всех": 16
+      "gas:candidate-vibid:1001000188002": 6,
+      "gas:candidate-vibid:1001000121844": 54,
+      "gas:candidate-vibid:1001000136050": 13,
+      "gas:candidate-vibid:1001000195071": 4,
+      "gas:candidate-vibid:336300370642": 2,
+      "gas:candidate-vibid:336300370522": 221,
+      "gas:candidate-vibid:1001000290477": 10,
+      "special:against-all": 16
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=362000038&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=236200073313&region=0&sub_region=0&type=429",
@@ -4146,14 +4146,14 @@ export const duma_2003_uik_428_region_36_part_007 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Воронин Василий Михайлович": 16,
-      "Гостев Руслан Георгиевич": 109,
-      "Данилов Виталий Филиппович": 21,
-      "Золотарев Александр Иванович": 0,
-      "Милешко Виктор Стефанович": 0,
-      "Ольшанский Николай Михайлович": 144,
-      "Труфанов Александр Федорович": 9,
-      "Против всех": 55
+      "gas:candidate-vibid:1001000188002": 16,
+      "gas:candidate-vibid:1001000121844": 109,
+      "gas:candidate-vibid:1001000136050": 21,
+      "gas:candidate-vibid:1001000195071": 0,
+      "gas:candidate-vibid:336300370642": 0,
+      "gas:candidate-vibid:336300370522": 144,
+      "gas:candidate-vibid:1001000290477": 9,
+      "special:against-all": 55
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=362000038&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=236200073313&region=0&sub_region=0&type=429",
@@ -4203,14 +4203,14 @@ export const duma_2003_uik_428_region_36_part_007 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Воронин Василий Михайлович": 16,
-      "Гостев Руслан Георгиевич": 55,
-      "Данилов Виталий Филиппович": 6,
-      "Золотарев Александр Иванович": 1,
-      "Милешко Виктор Стефанович": 1,
-      "Ольшанский Николай Михайлович": 147,
-      "Труфанов Александр Федорович": 7,
-      "Против всех": 48
+      "gas:candidate-vibid:1001000188002": 16,
+      "gas:candidate-vibid:1001000121844": 55,
+      "gas:candidate-vibid:1001000136050": 6,
+      "gas:candidate-vibid:1001000195071": 1,
+      "gas:candidate-vibid:336300370642": 1,
+      "gas:candidate-vibid:336300370522": 147,
+      "gas:candidate-vibid:1001000290477": 7,
+      "special:against-all": 48
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=362000038&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=236200073313&region=0&sub_region=0&type=429",
@@ -4260,14 +4260,14 @@ export const duma_2003_uik_428_region_36_part_007 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Воронин Василий Михайлович": 13,
-      "Гостев Руслан Георгиевич": 246,
-      "Данилов Виталий Филиппович": 3,
-      "Золотарев Александр Иванович": 1,
-      "Милешко Виктор Стефанович": 2,
-      "Ольшанский Николай Михайлович": 105,
-      "Труфанов Александр Федорович": 1,
-      "Против всех": 41
+      "gas:candidate-vibid:1001000188002": 13,
+      "gas:candidate-vibid:1001000121844": 246,
+      "gas:candidate-vibid:1001000136050": 3,
+      "gas:candidate-vibid:1001000195071": 1,
+      "gas:candidate-vibid:336300370642": 2,
+      "gas:candidate-vibid:336300370522": 105,
+      "gas:candidate-vibid:1001000290477": 1,
+      "special:against-all": 41
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=362000038&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=236200073313&region=0&sub_region=0&type=429",
@@ -4317,14 +4317,14 @@ export const duma_2003_uik_428_region_36_part_007 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Воронин Василий Михайлович": 26,
-      "Гостев Руслан Георгиевич": 382,
-      "Данилов Виталий Филиппович": 13,
-      "Золотарев Александр Иванович": 0,
-      "Милешко Виктор Стефанович": 5,
-      "Ольшанский Николай Михайлович": 133,
-      "Труфанов Александр Федорович": 8,
-      "Против всех": 53
+      "gas:candidate-vibid:1001000188002": 26,
+      "gas:candidate-vibid:1001000121844": 382,
+      "gas:candidate-vibid:1001000136050": 13,
+      "gas:candidate-vibid:1001000195071": 0,
+      "gas:candidate-vibid:336300370642": 5,
+      "gas:candidate-vibid:336300370522": 133,
+      "gas:candidate-vibid:1001000290477": 8,
+      "special:against-all": 53
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=362000038&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=236200073313&region=0&sub_region=0&type=429",
@@ -4374,14 +4374,14 @@ export const duma_2003_uik_428_region_36_part_007 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Воронин Василий Михайлович": 13,
-      "Гостев Руслан Георгиевич": 225,
-      "Данилов Виталий Филиппович": 11,
-      "Золотарев Александр Иванович": 1,
-      "Милешко Виктор Стефанович": 1,
-      "Ольшанский Николай Михайлович": 82,
-      "Труфанов Александр Федорович": 6,
-      "Против всех": 26
+      "gas:candidate-vibid:1001000188002": 13,
+      "gas:candidate-vibid:1001000121844": 225,
+      "gas:candidate-vibid:1001000136050": 11,
+      "gas:candidate-vibid:1001000195071": 1,
+      "gas:candidate-vibid:336300370642": 1,
+      "gas:candidate-vibid:336300370522": 82,
+      "gas:candidate-vibid:1001000290477": 6,
+      "special:against-all": 26
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=362000038&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=236200073313&region=0&sub_region=0&type=429",
@@ -4431,14 +4431,14 @@ export const duma_2003_uik_428_region_36_part_007 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Воронин Василий Михайлович": 14,
-      "Гостев Руслан Георгиевич": 199,
-      "Данилов Виталий Филиппович": 13,
-      "Золотарев Александр Иванович": 2,
-      "Милешко Виктор Стефанович": 4,
-      "Ольшанский Николай Михайлович": 124,
-      "Труфанов Александр Федорович": 2,
-      "Против всех": 28
+      "gas:candidate-vibid:1001000188002": 14,
+      "gas:candidate-vibid:1001000121844": 199,
+      "gas:candidate-vibid:1001000136050": 13,
+      "gas:candidate-vibid:1001000195071": 2,
+      "gas:candidate-vibid:336300370642": 4,
+      "gas:candidate-vibid:336300370522": 124,
+      "gas:candidate-vibid:1001000290477": 2,
+      "special:against-all": 28
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=362000038&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=236200073313&region=0&sub_region=0&type=429",
@@ -4488,14 +4488,14 @@ export const duma_2003_uik_428_region_36_part_007 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Воронин Василий Михайлович": 26,
-      "Гостев Руслан Георгиевич": 520,
-      "Данилов Виталий Филиппович": 16,
-      "Золотарев Александр Иванович": 4,
-      "Милешко Виктор Стефанович": 3,
-      "Ольшанский Николай Михайлович": 146,
-      "Труфанов Александр Федорович": 7,
-      "Против всех": 45
+      "gas:candidate-vibid:1001000188002": 26,
+      "gas:candidate-vibid:1001000121844": 520,
+      "gas:candidate-vibid:1001000136050": 16,
+      "gas:candidate-vibid:1001000195071": 4,
+      "gas:candidate-vibid:336300370642": 3,
+      "gas:candidate-vibid:336300370522": 146,
+      "gas:candidate-vibid:1001000290477": 7,
+      "special:against-all": 45
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=362000038&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=236200073313&region=0&sub_region=0&type=429",
@@ -4545,14 +4545,14 @@ export const duma_2003_uik_428_region_36_part_007 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Воронин Василий Михайлович": 4,
-      "Гостев Руслан Георгиевич": 68,
-      "Данилов Виталий Филиппович": 2,
-      "Золотарев Александр Иванович": 0,
-      "Милешко Виктор Стефанович": 1,
-      "Ольшанский Николай Михайлович": 34,
-      "Труфанов Александр Федорович": 3,
-      "Против всех": 6
+      "gas:candidate-vibid:1001000188002": 4,
+      "gas:candidate-vibid:1001000121844": 68,
+      "gas:candidate-vibid:1001000136050": 2,
+      "gas:candidate-vibid:1001000195071": 0,
+      "gas:candidate-vibid:336300370642": 1,
+      "gas:candidate-vibid:336300370522": 34,
+      "gas:candidate-vibid:1001000290477": 3,
+      "special:against-all": 6
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=362000038&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=236200073313&region=0&sub_region=0&type=429",
@@ -4602,14 +4602,14 @@ export const duma_2003_uik_428_region_36_part_007 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Воронин Василий Михайлович": 11,
-      "Гостев Руслан Георгиевич": 158,
-      "Данилов Виталий Филиппович": 8,
-      "Золотарев Александр Иванович": 4,
-      "Милешко Виктор Стефанович": 2,
-      "Ольшанский Николай Михайлович": 46,
-      "Труфанов Александр Федорович": 1,
-      "Против всех": 15
+      "gas:candidate-vibid:1001000188002": 11,
+      "gas:candidate-vibid:1001000121844": 158,
+      "gas:candidate-vibid:1001000136050": 8,
+      "gas:candidate-vibid:1001000195071": 4,
+      "gas:candidate-vibid:336300370642": 2,
+      "gas:candidate-vibid:336300370522": 46,
+      "gas:candidate-vibid:1001000290477": 1,
+      "special:against-all": 15
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=362000038&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=236200073313&region=0&sub_region=0&type=429",
@@ -4659,14 +4659,14 @@ export const duma_2003_uik_428_region_36_part_007 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Воронин Василий Михайлович": 33,
-      "Гостев Руслан Георгиевич": 89,
-      "Данилов Виталий Филиппович": 17,
-      "Золотарев Александр Иванович": 6,
-      "Милешко Виктор Стефанович": 3,
-      "Ольшанский Николай Михайлович": 261,
-      "Труфанов Александр Федорович": 9,
-      "Против всех": 39
+      "gas:candidate-vibid:1001000188002": 33,
+      "gas:candidate-vibid:1001000121844": 89,
+      "gas:candidate-vibid:1001000136050": 17,
+      "gas:candidate-vibid:1001000195071": 6,
+      "gas:candidate-vibid:336300370642": 3,
+      "gas:candidate-vibid:336300370522": 261,
+      "gas:candidate-vibid:1001000290477": 9,
+      "special:against-all": 39
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=362000038&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=236200073313&region=0&sub_region=0&type=429",
@@ -4716,14 +4716,14 @@ export const duma_2003_uik_428_region_36_part_007 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Воронин Василий Михайлович": 5,
-      "Гостев Руслан Георгиевич": 66,
-      "Данилов Виталий Филиппович": 7,
-      "Золотарев Александр Иванович": 0,
-      "Милешко Виктор Стефанович": 0,
-      "Ольшанский Николай Михайлович": 61,
-      "Труфанов Александр Федорович": 6,
-      "Против всех": 6
+      "gas:candidate-vibid:1001000188002": 5,
+      "gas:candidate-vibid:1001000121844": 66,
+      "gas:candidate-vibid:1001000136050": 7,
+      "gas:candidate-vibid:1001000195071": 0,
+      "gas:candidate-vibid:336300370642": 0,
+      "gas:candidate-vibid:336300370522": 61,
+      "gas:candidate-vibid:1001000290477": 6,
+      "special:against-all": 6
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=362000038&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=236200073313&region=0&sub_region=0&type=429",
@@ -4773,14 +4773,14 @@ export const duma_2003_uik_428_region_36_part_007 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Воронин Василий Михайлович": 20,
-      "Гостев Руслан Георгиевич": 33,
-      "Данилов Виталий Филиппович": 6,
-      "Золотарев Александр Иванович": 1,
-      "Милешко Виктор Стефанович": 3,
-      "Ольшанский Николай Михайлович": 149,
-      "Труфанов Александр Федорович": 6,
-      "Против всех": 24
+      "gas:candidate-vibid:1001000188002": 20,
+      "gas:candidate-vibid:1001000121844": 33,
+      "gas:candidate-vibid:1001000136050": 6,
+      "gas:candidate-vibid:1001000195071": 1,
+      "gas:candidate-vibid:336300370642": 3,
+      "gas:candidate-vibid:336300370522": 149,
+      "gas:candidate-vibid:1001000290477": 6,
+      "special:against-all": 24
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=362000038&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=236200073313&region=0&sub_region=0&type=429",
@@ -4830,14 +4830,14 @@ export const duma_2003_uik_428_region_36_part_007 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Воронин Василий Михайлович": 37,
-      "Гостев Руслан Георгиевич": 237,
-      "Данилов Виталий Филиппович": 41,
-      "Золотарев Александр Иванович": 3,
-      "Милешко Виктор Стефанович": 7,
-      "Ольшанский Николай Михайлович": 421,
-      "Труфанов Александр Федорович": 14,
-      "Против всех": 60
+      "gas:candidate-vibid:1001000188002": 37,
+      "gas:candidate-vibid:1001000121844": 237,
+      "gas:candidate-vibid:1001000136050": 41,
+      "gas:candidate-vibid:1001000195071": 3,
+      "gas:candidate-vibid:336300370642": 7,
+      "gas:candidate-vibid:336300370522": 421,
+      "gas:candidate-vibid:1001000290477": 14,
+      "special:against-all": 60
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=362000038&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=236200073313&region=0&sub_region=0&type=429",
@@ -4887,14 +4887,14 @@ export const duma_2003_uik_428_region_36_part_007 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Воронин Василий Михайлович": 40,
-      "Гостев Руслан Георгиевич": 98,
-      "Данилов Виталий Филиппович": 17,
-      "Золотарев Александр Иванович": 1,
-      "Милешко Виктор Стефанович": 3,
-      "Ольшанский Николай Михайлович": 459,
-      "Труфанов Александр Федорович": 8,
-      "Против всех": 49
+      "gas:candidate-vibid:1001000188002": 40,
+      "gas:candidate-vibid:1001000121844": 98,
+      "gas:candidate-vibid:1001000136050": 17,
+      "gas:candidate-vibid:1001000195071": 1,
+      "gas:candidate-vibid:336300370642": 3,
+      "gas:candidate-vibid:336300370522": 459,
+      "gas:candidate-vibid:1001000290477": 8,
+      "special:against-all": 49
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=362000038&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=236200073313&region=0&sub_region=0&type=429",
@@ -4944,14 +4944,14 @@ export const duma_2003_uik_428_region_36_part_007 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Воронин Василий Михайлович": 19,
-      "Гостев Руслан Георгиевич": 40,
-      "Данилов Виталий Филиппович": 12,
-      "Золотарев Александр Иванович": 3,
-      "Милешко Виктор Стефанович": 1,
-      "Ольшанский Николай Михайлович": 159,
-      "Труфанов Александр Федорович": 2,
-      "Против всех": 25
+      "gas:candidate-vibid:1001000188002": 19,
+      "gas:candidate-vibid:1001000121844": 40,
+      "gas:candidate-vibid:1001000136050": 12,
+      "gas:candidate-vibid:1001000195071": 3,
+      "gas:candidate-vibid:336300370642": 1,
+      "gas:candidate-vibid:336300370522": 159,
+      "gas:candidate-vibid:1001000290477": 2,
+      "special:against-all": 25
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=362000038&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=236200073313&region=0&sub_region=0&type=429",
@@ -5001,14 +5001,14 @@ export const duma_2003_uik_428_region_36_part_007 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Воронин Василий Михайлович": 8,
-      "Гостев Руслан Георгиевич": 56,
-      "Данилов Виталий Филиппович": 11,
-      "Золотарев Александр Иванович": 2,
-      "Милешко Виктор Стефанович": 0,
-      "Ольшанский Николай Михайлович": 130,
-      "Труфанов Александр Федорович": 9,
-      "Против всех": 23
+      "gas:candidate-vibid:1001000188002": 8,
+      "gas:candidate-vibid:1001000121844": 56,
+      "gas:candidate-vibid:1001000136050": 11,
+      "gas:candidate-vibid:1001000195071": 2,
+      "gas:candidate-vibid:336300370642": 0,
+      "gas:candidate-vibid:336300370522": 130,
+      "gas:candidate-vibid:1001000290477": 9,
+      "special:against-all": 23
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=362000038&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=236200073313&region=0&sub_region=0&type=429",
@@ -5058,14 +5058,14 @@ export const duma_2003_uik_428_region_36_part_007 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Воронин Василий Михайлович": 2,
-      "Гостев Руслан Георгиевич": 7,
-      "Данилов Виталий Филиппович": 5,
-      "Золотарев Александр Иванович": 0,
-      "Милешко Виктор Стефанович": 2,
-      "Ольшанский Николай Михайлович": 124,
-      "Труфанов Александр Федорович": 1,
-      "Против всех": 5
+      "gas:candidate-vibid:1001000188002": 2,
+      "gas:candidate-vibid:1001000121844": 7,
+      "gas:candidate-vibid:1001000136050": 5,
+      "gas:candidate-vibid:1001000195071": 0,
+      "gas:candidate-vibid:336300370642": 2,
+      "gas:candidate-vibid:336300370522": 124,
+      "gas:candidate-vibid:1001000290477": 1,
+      "special:against-all": 5
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=362000038&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=236200073313&region=0&sub_region=0&type=429",
@@ -5115,14 +5115,14 @@ export const duma_2003_uik_428_region_36_part_007 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Воронин Василий Михайлович": 14,
-      "Гостев Руслан Георгиевич": 54,
-      "Данилов Виталий Филиппович": 13,
-      "Золотарев Александр Иванович": 2,
-      "Милешко Виктор Стефанович": 4,
-      "Ольшанский Николай Михайлович": 201,
-      "Труфанов Александр Федорович": 1,
-      "Против всех": 25
+      "gas:candidate-vibid:1001000188002": 14,
+      "gas:candidate-vibid:1001000121844": 54,
+      "gas:candidate-vibid:1001000136050": 13,
+      "gas:candidate-vibid:1001000195071": 2,
+      "gas:candidate-vibid:336300370642": 4,
+      "gas:candidate-vibid:336300370522": 201,
+      "gas:candidate-vibid:1001000290477": 1,
+      "special:against-all": 25
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=362000038&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=236200073313&region=0&sub_region=0&type=429",
@@ -5172,14 +5172,14 @@ export const duma_2003_uik_428_region_36_part_007 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Воронин Василий Михайлович": 3,
-      "Гостев Руслан Георгиевич": 73,
-      "Данилов Виталий Филиппович": 12,
-      "Золотарев Александр Иванович": 0,
-      "Милешко Виктор Стефанович": 0,
-      "Ольшанский Николай Михайлович": 124,
-      "Труфанов Александр Федорович": 3,
-      "Против всех": 22
+      "gas:candidate-vibid:1001000188002": 3,
+      "gas:candidate-vibid:1001000121844": 73,
+      "gas:candidate-vibid:1001000136050": 12,
+      "gas:candidate-vibid:1001000195071": 0,
+      "gas:candidate-vibid:336300370642": 0,
+      "gas:candidate-vibid:336300370522": 124,
+      "gas:candidate-vibid:1001000290477": 3,
+      "special:against-all": 22
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=362000038&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=236200073313&region=0&sub_region=0&type=429",
@@ -5229,14 +5229,14 @@ export const duma_2003_uik_428_region_36_part_007 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Воронин Василий Михайлович": 76,
-      "Гостев Руслан Георгиевич": 121,
-      "Данилов Виталий Филиппович": 56,
-      "Золотарев Александр Иванович": 18,
-      "Милешко Виктор Стефанович": 8,
-      "Ольшанский Николай Михайлович": 384,
-      "Труфанов Александр Федорович": 23,
-      "Против всех": 136
+      "gas:candidate-vibid:1001000188002": 76,
+      "gas:candidate-vibid:1001000121844": 121,
+      "gas:candidate-vibid:1001000136050": 56,
+      "gas:candidate-vibid:1001000195071": 18,
+      "gas:candidate-vibid:336300370642": 8,
+      "gas:candidate-vibid:336300370522": 384,
+      "gas:candidate-vibid:1001000290477": 23,
+      "special:against-all": 136
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=362000038&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=236200073313&region=0&sub_region=0&type=429",
@@ -5286,14 +5286,14 @@ export const duma_2003_uik_428_region_36_part_007 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Воронин Василий Михайлович": 13,
-      "Гостев Руслан Георгиевич": 110,
-      "Данилов Виталий Филиппович": 8,
-      "Золотарев Александр Иванович": 3,
-      "Милешко Виктор Стефанович": 1,
-      "Ольшанский Николай Михайлович": 303,
-      "Труфанов Александр Федорович": 6,
-      "Против всех": 23
+      "gas:candidate-vibid:1001000188002": 13,
+      "gas:candidate-vibid:1001000121844": 110,
+      "gas:candidate-vibid:1001000136050": 8,
+      "gas:candidate-vibid:1001000195071": 3,
+      "gas:candidate-vibid:336300370642": 1,
+      "gas:candidate-vibid:336300370522": 303,
+      "gas:candidate-vibid:1001000290477": 6,
+      "special:against-all": 23
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=362000038&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=236200073313&region=0&sub_region=0&type=429",
@@ -5343,14 +5343,14 @@ export const duma_2003_uik_428_region_36_part_007 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Воронин Василий Михайлович": 5,
-      "Гостев Руслан Георгиевич": 115,
-      "Данилов Виталий Филиппович": 4,
-      "Золотарев Александр Иванович": 0,
-      "Милешко Виктор Стефанович": 0,
-      "Ольшанский Николай Михайлович": 88,
-      "Труфанов Александр Федорович": 2,
-      "Против всех": 20
+      "gas:candidate-vibid:1001000188002": 5,
+      "gas:candidate-vibid:1001000121844": 115,
+      "gas:candidate-vibid:1001000136050": 4,
+      "gas:candidate-vibid:1001000195071": 0,
+      "gas:candidate-vibid:336300370642": 0,
+      "gas:candidate-vibid:336300370522": 88,
+      "gas:candidate-vibid:1001000290477": 2,
+      "special:against-all": 20
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=362000038&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=236200073313&region=0&sub_region=0&type=429",
@@ -5400,14 +5400,14 @@ export const duma_2003_uik_428_region_36_part_007 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Воронин Василий Михайлович": 64,
-      "Гостев Руслан Георгиевич": 134,
-      "Данилов Виталий Филиппович": 46,
-      "Золотарев Александр Иванович": 5,
-      "Милешко Виктор Стефанович": 5,
-      "Ольшанский Николай Михайлович": 353,
-      "Труфанов Александр Федорович": 14,
-      "Против всех": 69
+      "gas:candidate-vibid:1001000188002": 64,
+      "gas:candidate-vibid:1001000121844": 134,
+      "gas:candidate-vibid:1001000136050": 46,
+      "gas:candidate-vibid:1001000195071": 5,
+      "gas:candidate-vibid:336300370642": 5,
+      "gas:candidate-vibid:336300370522": 353,
+      "gas:candidate-vibid:1001000290477": 14,
+      "special:against-all": 69
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=362000038&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=236200073313&region=0&sub_region=0&type=429",
@@ -5457,14 +5457,14 @@ export const duma_2003_uik_428_region_36_part_007 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Воронин Василий Михайлович": 10,
-      "Гостев Руслан Георгиевич": 25,
-      "Данилов Виталий Филиппович": 6,
-      "Золотарев Александр Иванович": 3,
-      "Милешко Виктор Стефанович": 2,
-      "Ольшанский Николай Михайлович": 73,
-      "Труфанов Александр Федорович": 2,
-      "Против всех": 9
+      "gas:candidate-vibid:1001000188002": 10,
+      "gas:candidate-vibid:1001000121844": 25,
+      "gas:candidate-vibid:1001000136050": 6,
+      "gas:candidate-vibid:1001000195071": 3,
+      "gas:candidate-vibid:336300370642": 2,
+      "gas:candidate-vibid:336300370522": 73,
+      "gas:candidate-vibid:1001000290477": 2,
+      "special:against-all": 9
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=362000038&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=236200073313&region=0&sub_region=0&type=429",
@@ -5514,14 +5514,14 @@ export const duma_2003_uik_428_region_36_part_007 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Воронин Василий Михайлович": 28,
-      "Гостев Руслан Георгиевич": 97,
-      "Данилов Виталий Филиппович": 18,
-      "Золотарев Александр Иванович": 4,
-      "Милешко Виктор Стефанович": 4,
-      "Ольшанский Николай Михайлович": 202,
-      "Труфанов Александр Федорович": 11,
-      "Против всех": 46
+      "gas:candidate-vibid:1001000188002": 28,
+      "gas:candidate-vibid:1001000121844": 97,
+      "gas:candidate-vibid:1001000136050": 18,
+      "gas:candidate-vibid:1001000195071": 4,
+      "gas:candidate-vibid:336300370642": 4,
+      "gas:candidate-vibid:336300370522": 202,
+      "gas:candidate-vibid:1001000290477": 11,
+      "special:against-all": 46
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=362000038&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=236200073313&region=0&sub_region=0&type=429",
@@ -5571,14 +5571,14 @@ export const duma_2003_uik_428_region_36_part_007 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Воронин Василий Михайлович": 17,
-      "Гостев Руслан Георгиевич": 13,
-      "Данилов Виталий Филиппович": 1,
-      "Золотарев Александр Иванович": 3,
-      "Милешко Виктор Стефанович": 3,
-      "Ольшанский Николай Михайлович": 68,
-      "Труфанов Александр Федорович": 2,
-      "Против всех": 13
+      "gas:candidate-vibid:1001000188002": 17,
+      "gas:candidate-vibid:1001000121844": 13,
+      "gas:candidate-vibid:1001000136050": 1,
+      "gas:candidate-vibid:1001000195071": 3,
+      "gas:candidate-vibid:336300370642": 3,
+      "gas:candidate-vibid:336300370522": 68,
+      "gas:candidate-vibid:1001000290477": 2,
+      "special:against-all": 13
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=362000038&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=236200073313&region=0&sub_region=0&type=429",
@@ -5628,14 +5628,14 @@ export const duma_2003_uik_428_region_36_part_007 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Воронин Василий Михайлович": 9,
-      "Гостев Руслан Георгиевич": 56,
-      "Данилов Виталий Филиппович": 0,
-      "Золотарев Александр Иванович": 4,
-      "Милешко Виктор Стефанович": 0,
-      "Ольшанский Николай Михайлович": 107,
-      "Труфанов Александр Федорович": 3,
-      "Против всех": 14
+      "gas:candidate-vibid:1001000188002": 9,
+      "gas:candidate-vibid:1001000121844": 56,
+      "gas:candidate-vibid:1001000136050": 0,
+      "gas:candidate-vibid:1001000195071": 4,
+      "gas:candidate-vibid:336300370642": 0,
+      "gas:candidate-vibid:336300370522": 107,
+      "gas:candidate-vibid:1001000290477": 3,
+      "special:against-all": 14
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=362000038&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=236200073313&region=0&sub_region=0&type=429",
@@ -5685,14 +5685,14 @@ export const duma_2003_uik_428_region_36_part_007 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Воронин Василий Михайлович": 6,
-      "Гостев Руслан Георгиевич": 102,
-      "Данилов Виталий Филиппович": 8,
-      "Золотарев Александр Иванович": 3,
-      "Милешко Виктор Стефанович": 6,
-      "Ольшанский Николай Михайлович": 75,
-      "Труфанов Александр Федорович": 0,
-      "Против всех": 12
+      "gas:candidate-vibid:1001000188002": 6,
+      "gas:candidate-vibid:1001000121844": 102,
+      "gas:candidate-vibid:1001000136050": 8,
+      "gas:candidate-vibid:1001000195071": 3,
+      "gas:candidate-vibid:336300370642": 6,
+      "gas:candidate-vibid:336300370522": 75,
+      "gas:candidate-vibid:1001000290477": 0,
+      "special:against-all": 12
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=362000038&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=236200073313&region=0&sub_region=0&type=429",
@@ -5742,14 +5742,14 @@ export const duma_2003_uik_428_region_36_part_007 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Воронин Василий Михайлович": 3,
-      "Гостев Руслан Георгиевич": 48,
-      "Данилов Виталий Филиппович": 7,
-      "Золотарев Александр Иванович": 4,
-      "Милешко Виктор Стефанович": 1,
-      "Ольшанский Николай Михайлович": 153,
-      "Труфанов Александр Федорович": 5,
-      "Против всех": 17
+      "gas:candidate-vibid:1001000188002": 3,
+      "gas:candidate-vibid:1001000121844": 48,
+      "gas:candidate-vibid:1001000136050": 7,
+      "gas:candidate-vibid:1001000195071": 4,
+      "gas:candidate-vibid:336300370642": 1,
+      "gas:candidate-vibid:336300370522": 153,
+      "gas:candidate-vibid:1001000290477": 5,
+      "special:against-all": 17
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=362000039&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=236200073314&region=0&sub_region=0&type=429",
@@ -5799,14 +5799,14 @@ export const duma_2003_uik_428_region_36_part_007 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Воронин Василий Михайлович": 32,
-      "Гостев Руслан Георгиевич": 49,
-      "Данилов Виталий Филиппович": 6,
-      "Золотарев Александр Иванович": 2,
-      "Милешко Виктор Стефанович": 0,
-      "Ольшанский Николай Михайлович": 136,
-      "Труфанов Александр Федорович": 5,
-      "Против всех": 22
+      "gas:candidate-vibid:1001000188002": 32,
+      "gas:candidate-vibid:1001000121844": 49,
+      "gas:candidate-vibid:1001000136050": 6,
+      "gas:candidate-vibid:1001000195071": 2,
+      "gas:candidate-vibid:336300370642": 0,
+      "gas:candidate-vibid:336300370522": 136,
+      "gas:candidate-vibid:1001000290477": 5,
+      "special:against-all": 22
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=362000039&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=236200073314&region=0&sub_region=0&type=429",
@@ -5856,14 +5856,14 @@ export const duma_2003_uik_428_region_36_part_007 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Воронин Василий Михайлович": 21,
-      "Гостев Руслан Георгиевич": 68,
-      "Данилов Виталий Филиппович": 15,
-      "Золотарев Александр Иванович": 5,
-      "Милешко Виктор Стефанович": 2,
-      "Ольшанский Николай Михайлович": 267,
-      "Труфанов Александр Федорович": 6,
-      "Против всех": 54
+      "gas:candidate-vibid:1001000188002": 21,
+      "gas:candidate-vibid:1001000121844": 68,
+      "gas:candidate-vibid:1001000136050": 15,
+      "gas:candidate-vibid:1001000195071": 5,
+      "gas:candidate-vibid:336300370642": 2,
+      "gas:candidate-vibid:336300370522": 267,
+      "gas:candidate-vibid:1001000290477": 6,
+      "special:against-all": 54
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=362000039&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=236200073314&region=0&sub_region=0&type=429",
@@ -5913,14 +5913,14 @@ export const duma_2003_uik_428_region_36_part_007 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Воронин Василий Михайлович": 17,
-      "Гостев Руслан Георгиевич": 36,
-      "Данилов Виталий Филиппович": 13,
-      "Золотарев Александр Иванович": 2,
-      "Милешко Виктор Стефанович": 3,
-      "Ольшанский Николай Михайлович": 303,
-      "Труфанов Александр Федорович": 1,
-      "Против всех": 38
+      "gas:candidate-vibid:1001000188002": 17,
+      "gas:candidate-vibid:1001000121844": 36,
+      "gas:candidate-vibid:1001000136050": 13,
+      "gas:candidate-vibid:1001000195071": 2,
+      "gas:candidate-vibid:336300370642": 3,
+      "gas:candidate-vibid:336300370522": 303,
+      "gas:candidate-vibid:1001000290477": 1,
+      "special:against-all": 38
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=362000039&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=236200073314&region=0&sub_region=0&type=429",
@@ -5970,14 +5970,14 @@ export const duma_2003_uik_428_region_36_part_007 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Воронин Василий Михайлович": 21,
-      "Гостев Руслан Георгиевич": 26,
-      "Данилов Виталий Филиппович": 10,
-      "Золотарев Александр Иванович": 4,
-      "Милешко Виктор Стефанович": 3,
-      "Ольшанский Николай Михайлович": 249,
-      "Труфанов Александр Федорович": 4,
-      "Против всех": 24
+      "gas:candidate-vibid:1001000188002": 21,
+      "gas:candidate-vibid:1001000121844": 26,
+      "gas:candidate-vibid:1001000136050": 10,
+      "gas:candidate-vibid:1001000195071": 4,
+      "gas:candidate-vibid:336300370642": 3,
+      "gas:candidate-vibid:336300370522": 249,
+      "gas:candidate-vibid:1001000290477": 4,
+      "special:against-all": 24
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=362000039&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=236200073314&region=0&sub_region=0&type=429",
@@ -6027,14 +6027,14 @@ export const duma_2003_uik_428_region_36_part_007 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Воронин Василий Михайлович": 16,
-      "Гостев Руслан Георгиевич": 158,
-      "Данилов Виталий Филиппович": 38,
-      "Золотарев Александр Иванович": 9,
-      "Милешко Виктор Стефанович": 2,
-      "Ольшанский Николай Михайлович": 351,
-      "Труфанов Александр Федорович": 16,
-      "Против всех": 81
+      "gas:candidate-vibid:1001000188002": 16,
+      "gas:candidate-vibid:1001000121844": 158,
+      "gas:candidate-vibid:1001000136050": 38,
+      "gas:candidate-vibid:1001000195071": 9,
+      "gas:candidate-vibid:336300370642": 2,
+      "gas:candidate-vibid:336300370522": 351,
+      "gas:candidate-vibid:1001000290477": 16,
+      "special:against-all": 81
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=362000039&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=236200073314&region=0&sub_region=0&type=429",
@@ -6084,14 +6084,14 @@ export const duma_2003_uik_428_region_36_part_007 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Воронин Василий Михайлович": 10,
-      "Гостев Руслан Георгиевич": 52,
-      "Данилов Виталий Филиппович": 6,
-      "Золотарев Александр Иванович": 1,
-      "Милешко Виктор Стефанович": 2,
-      "Ольшанский Николай Михайлович": 294,
-      "Труфанов Александр Федорович": 2,
-      "Против всех": 10
+      "gas:candidate-vibid:1001000188002": 10,
+      "gas:candidate-vibid:1001000121844": 52,
+      "gas:candidate-vibid:1001000136050": 6,
+      "gas:candidate-vibid:1001000195071": 1,
+      "gas:candidate-vibid:336300370642": 2,
+      "gas:candidate-vibid:336300370522": 294,
+      "gas:candidate-vibid:1001000290477": 2,
+      "special:against-all": 10
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=362000039&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=236200073314&region=0&sub_region=0&type=429",
@@ -6141,14 +6141,14 @@ export const duma_2003_uik_428_region_36_part_007 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Воронин Василий Михайлович": 21,
-      "Гостев Руслан Георгиевич": 93,
-      "Данилов Виталий Филиппович": 34,
-      "Золотарев Александр Иванович": 7,
-      "Милешко Виктор Стефанович": 5,
-      "Ольшанский Николай Михайлович": 304,
-      "Труфанов Александр Федорович": 18,
-      "Против всех": 31
+      "gas:candidate-vibid:1001000188002": 21,
+      "gas:candidate-vibid:1001000121844": 93,
+      "gas:candidate-vibid:1001000136050": 34,
+      "gas:candidate-vibid:1001000195071": 7,
+      "gas:candidate-vibid:336300370642": 5,
+      "gas:candidate-vibid:336300370522": 304,
+      "gas:candidate-vibid:1001000290477": 18,
+      "special:against-all": 31
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=362000039&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=236200073314&region=0&sub_region=0&type=429",
@@ -6198,14 +6198,14 @@ export const duma_2003_uik_428_region_36_part_007 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Воронин Василий Михайлович": 49,
-      "Гостев Руслан Георгиевич": 229,
-      "Данилов Виталий Филиппович": 19,
-      "Золотарев Александр Иванович": 7,
-      "Милешко Виктор Стефанович": 12,
-      "Ольшанский Николай Михайлович": 203,
-      "Труфанов Александр Федорович": 17,
-      "Против всех": 43
+      "gas:candidate-vibid:1001000188002": 49,
+      "gas:candidate-vibid:1001000121844": 229,
+      "gas:candidate-vibid:1001000136050": 19,
+      "gas:candidate-vibid:1001000195071": 7,
+      "gas:candidate-vibid:336300370642": 12,
+      "gas:candidate-vibid:336300370522": 203,
+      "gas:candidate-vibid:1001000290477": 17,
+      "special:against-all": 43
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=362000039&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=236200073314&region=0&sub_region=0&type=429",
@@ -6255,14 +6255,14 @@ export const duma_2003_uik_428_region_36_part_007 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Воронин Василий Михайлович": 13,
-      "Гостев Руслан Георгиевич": 59,
-      "Данилов Виталий Филиппович": 7,
-      "Золотарев Александр Иванович": 1,
-      "Милешко Виктор Стефанович": 5,
-      "Ольшанский Николай Михайлович": 168,
-      "Труфанов Александр Федорович": 0,
-      "Против всех": 19
+      "gas:candidate-vibid:1001000188002": 13,
+      "gas:candidate-vibid:1001000121844": 59,
+      "gas:candidate-vibid:1001000136050": 7,
+      "gas:candidate-vibid:1001000195071": 1,
+      "gas:candidate-vibid:336300370642": 5,
+      "gas:candidate-vibid:336300370522": 168,
+      "gas:candidate-vibid:1001000290477": 0,
+      "special:against-all": 19
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=362000039&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=236200073314&region=0&sub_region=0&type=429",
@@ -6312,14 +6312,14 @@ export const duma_2003_uik_428_region_36_part_007 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Воронин Василий Михайлович": 22,
-      "Гостев Руслан Георгиевич": 55,
-      "Данилов Виталий Филиппович": 15,
-      "Золотарев Александр Иванович": 8,
-      "Милешко Виктор Стефанович": 0,
-      "Ольшанский Николай Михайлович": 272,
-      "Труфанов Александр Федорович": 7,
-      "Против всех": 36
+      "gas:candidate-vibid:1001000188002": 22,
+      "gas:candidate-vibid:1001000121844": 55,
+      "gas:candidate-vibid:1001000136050": 15,
+      "gas:candidate-vibid:1001000195071": 8,
+      "gas:candidate-vibid:336300370642": 0,
+      "gas:candidate-vibid:336300370522": 272,
+      "gas:candidate-vibid:1001000290477": 7,
+      "special:against-all": 36
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=362000039&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=236200073314&region=0&sub_region=0&type=429",
@@ -6369,14 +6369,14 @@ export const duma_2003_uik_428_region_36_part_007 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Воронин Василий Михайлович": 8,
-      "Гостев Руслан Георгиевич": 7,
-      "Данилов Виталий Филиппович": 7,
-      "Золотарев Александр Иванович": 0,
-      "Милешко Виктор Стефанович": 6,
-      "Ольшанский Николай Михайлович": 130,
-      "Труфанов Александр Федорович": 7,
-      "Против всех": 24
+      "gas:candidate-vibid:1001000188002": 8,
+      "gas:candidate-vibid:1001000121844": 7,
+      "gas:candidate-vibid:1001000136050": 7,
+      "gas:candidate-vibid:1001000195071": 0,
+      "gas:candidate-vibid:336300370642": 6,
+      "gas:candidate-vibid:336300370522": 130,
+      "gas:candidate-vibid:1001000290477": 7,
+      "special:against-all": 24
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=362000039&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=236200073314&region=0&sub_region=0&type=429",
@@ -6426,14 +6426,14 @@ export const duma_2003_uik_428_region_36_part_007 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Воронин Василий Михайлович": 9,
-      "Гостев Руслан Георгиевич": 56,
-      "Данилов Виталий Филиппович": 19,
-      "Золотарев Александр Иванович": 3,
-      "Милешко Виктор Стефанович": 3,
-      "Ольшанский Николай Михайлович": 455,
-      "Труфанов Александр Федорович": 7,
-      "Против всех": 32
+      "gas:candidate-vibid:1001000188002": 9,
+      "gas:candidate-vibid:1001000121844": 56,
+      "gas:candidate-vibid:1001000136050": 19,
+      "gas:candidate-vibid:1001000195071": 3,
+      "gas:candidate-vibid:336300370642": 3,
+      "gas:candidate-vibid:336300370522": 455,
+      "gas:candidate-vibid:1001000290477": 7,
+      "special:against-all": 32
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=362000039&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=236200073314&region=0&sub_region=0&type=429",
@@ -6483,14 +6483,14 @@ export const duma_2003_uik_428_region_36_part_007 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Воронин Василий Михайлович": 16,
-      "Гостев Руслан Георгиевич": 37,
-      "Данилов Виталий Филиппович": 9,
-      "Золотарев Александр Иванович": 1,
-      "Милешко Виктор Стефанович": 1,
-      "Ольшанский Николай Михайлович": 235,
-      "Труфанов Александр Федорович": 2,
-      "Против всех": 40
+      "gas:candidate-vibid:1001000188002": 16,
+      "gas:candidate-vibid:1001000121844": 37,
+      "gas:candidate-vibid:1001000136050": 9,
+      "gas:candidate-vibid:1001000195071": 1,
+      "gas:candidate-vibid:336300370642": 1,
+      "gas:candidate-vibid:336300370522": 235,
+      "gas:candidate-vibid:1001000290477": 2,
+      "special:against-all": 40
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=362000039&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=236200073314&region=0&sub_region=0&type=429",
@@ -6540,14 +6540,14 @@ export const duma_2003_uik_428_region_36_part_007 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Воронин Василий Михайлович": 21,
-      "Гостев Руслан Георгиевич": 17,
-      "Данилов Виталий Филиппович": 3,
-      "Золотарев Александр Иванович": 1,
-      "Милешко Виктор Стефанович": 0,
-      "Ольшанский Николай Михайлович": 125,
-      "Труфанов Александр Федорович": 2,
-      "Против всех": 27
+      "gas:candidate-vibid:1001000188002": 21,
+      "gas:candidate-vibid:1001000121844": 17,
+      "gas:candidate-vibid:1001000136050": 3,
+      "gas:candidate-vibid:1001000195071": 1,
+      "gas:candidate-vibid:336300370642": 0,
+      "gas:candidate-vibid:336300370522": 125,
+      "gas:candidate-vibid:1001000290477": 2,
+      "special:against-all": 27
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=362000039&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=236200073314&region=0&sub_region=0&type=429",
@@ -6597,14 +6597,14 @@ export const duma_2003_uik_428_region_36_part_007 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Воронин Василий Михайлович": 9,
-      "Гостев Руслан Георгиевич": 24,
-      "Данилов Виталий Филиппович": 16,
-      "Золотарев Александр Иванович": 1,
-      "Милешко Виктор Стефанович": 0,
-      "Ольшанский Николай Михайлович": 280,
-      "Труфанов Александр Федорович": 10,
-      "Против всех": 23
+      "gas:candidate-vibid:1001000188002": 9,
+      "gas:candidate-vibid:1001000121844": 24,
+      "gas:candidate-vibid:1001000136050": 16,
+      "gas:candidate-vibid:1001000195071": 1,
+      "gas:candidate-vibid:336300370642": 0,
+      "gas:candidate-vibid:336300370522": 280,
+      "gas:candidate-vibid:1001000290477": 10,
+      "special:against-all": 23
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=362000039&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=236200073314&region=0&sub_region=0&type=429",
@@ -6654,14 +6654,14 @@ export const duma_2003_uik_428_region_36_part_007 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Воронин Василий Михайлович": 1,
-      "Гостев Руслан Георгиевич": 11,
-      "Данилов Виталий Филиппович": 2,
-      "Золотарев Александр Иванович": 6,
-      "Милешко Виктор Стефанович": 2,
-      "Ольшанский Николай Михайлович": 86,
-      "Труфанов Александр Федорович": 0,
-      "Против всех": 9
+      "gas:candidate-vibid:1001000188002": 1,
+      "gas:candidate-vibid:1001000121844": 11,
+      "gas:candidate-vibid:1001000136050": 2,
+      "gas:candidate-vibid:1001000195071": 6,
+      "gas:candidate-vibid:336300370642": 2,
+      "gas:candidate-vibid:336300370522": 86,
+      "gas:candidate-vibid:1001000290477": 0,
+      "special:against-all": 9
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=362000039&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=236200073314&region=0&sub_region=0&type=429",
@@ -6711,14 +6711,14 @@ export const duma_2003_uik_428_region_36_part_007 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Воронин Василий Михайлович": 21,
-      "Гостев Руслан Георгиевич": 53,
-      "Данилов Виталий Филиппович": 8,
-      "Золотарев Александр Иванович": 4,
-      "Милешко Виктор Стефанович": 3,
-      "Ольшанский Николай Михайлович": 248,
-      "Труфанов Александр Федорович": 10,
-      "Против всех": 33
+      "gas:candidate-vibid:1001000188002": 21,
+      "gas:candidate-vibid:1001000121844": 53,
+      "gas:candidate-vibid:1001000136050": 8,
+      "gas:candidate-vibid:1001000195071": 4,
+      "gas:candidate-vibid:336300370642": 3,
+      "gas:candidate-vibid:336300370522": 248,
+      "gas:candidate-vibid:1001000290477": 10,
+      "special:against-all": 33
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=362000039&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=236200073314&region=0&sub_region=0&type=429",
@@ -6768,14 +6768,14 @@ export const duma_2003_uik_428_region_36_part_007 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Воронин Василий Михайлович": 62,
-      "Гостев Руслан Георгиевич": 285,
-      "Данилов Виталий Филиппович": 58,
-      "Золотарев Александр Иванович": 11,
-      "Милешко Виктор Стефанович": 3,
-      "Ольшанский Николай Михайлович": 145,
-      "Труфанов Александр Федорович": 21,
-      "Против всех": 179
+      "gas:candidate-vibid:1001000188002": 62,
+      "gas:candidate-vibid:1001000121844": 285,
+      "gas:candidate-vibid:1001000136050": 58,
+      "gas:candidate-vibid:1001000195071": 11,
+      "gas:candidate-vibid:336300370642": 3,
+      "gas:candidate-vibid:336300370522": 145,
+      "gas:candidate-vibid:1001000290477": 21,
+      "special:against-all": 179
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=362000039&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=236200073314&region=0&sub_region=0&type=429",
@@ -6825,14 +6825,14 @@ export const duma_2003_uik_428_region_36_part_007 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Воронин Василий Михайлович": 82,
-      "Гостев Руслан Георгиевич": 306,
-      "Данилов Виталий Филиппович": 50,
-      "Золотарев Александр Иванович": 3,
-      "Милешко Виктор Стефанович": 6,
-      "Ольшанский Николай Михайлович": 263,
-      "Труфанов Александр Федорович": 21,
-      "Против всех": 157
+      "gas:candidate-vibid:1001000188002": 82,
+      "gas:candidate-vibid:1001000121844": 306,
+      "gas:candidate-vibid:1001000136050": 50,
+      "gas:candidate-vibid:1001000195071": 3,
+      "gas:candidate-vibid:336300370642": 6,
+      "gas:candidate-vibid:336300370522": 263,
+      "gas:candidate-vibid:1001000290477": 21,
+      "special:against-all": 157
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=362000039&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=236200073314&region=0&sub_region=0&type=429",
@@ -6882,14 +6882,14 @@ export const duma_2003_uik_428_region_36_part_007 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Воронин Василий Михайлович": 67,
-      "Гостев Руслан Георгиевич": 183,
-      "Данилов Виталий Филиппович": 43,
-      "Золотарев Александр Иванович": 9,
-      "Милешко Виктор Стефанович": 8,
-      "Ольшанский Николай Михайлович": 307,
-      "Труфанов Александр Федорович": 7,
-      "Против всех": 165
+      "gas:candidate-vibid:1001000188002": 67,
+      "gas:candidate-vibid:1001000121844": 183,
+      "gas:candidate-vibid:1001000136050": 43,
+      "gas:candidate-vibid:1001000195071": 9,
+      "gas:candidate-vibid:336300370642": 8,
+      "gas:candidate-vibid:336300370522": 307,
+      "gas:candidate-vibid:1001000290477": 7,
+      "special:against-all": 165
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=362000039&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=236200073314&region=0&sub_region=0&type=429",
@@ -6939,14 +6939,14 @@ export const duma_2003_uik_428_region_36_part_007 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Воронин Василий Михайлович": 73,
-      "Гостев Руслан Георгиевич": 192,
-      "Данилов Виталий Филиппович": 43,
-      "Золотарев Александр Иванович": 9,
-      "Милешко Виктор Стефанович": 3,
-      "Ольшанский Николай Михайлович": 404,
-      "Труфанов Александр Федорович": 22,
-      "Против всех": 158
+      "gas:candidate-vibid:1001000188002": 73,
+      "gas:candidate-vibid:1001000121844": 192,
+      "gas:candidate-vibid:1001000136050": 43,
+      "gas:candidate-vibid:1001000195071": 9,
+      "gas:candidate-vibid:336300370642": 3,
+      "gas:candidate-vibid:336300370522": 404,
+      "gas:candidate-vibid:1001000290477": 22,
+      "special:against-all": 158
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=362000039&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=236200073314&region=0&sub_region=0&type=429",
@@ -6996,14 +6996,14 @@ export const duma_2003_uik_428_region_36_part_007 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Воронин Василий Михайлович": 86,
-      "Гостев Руслан Георгиевич": 240,
-      "Данилов Виталий Филиппович": 43,
-      "Золотарев Александр Иванович": 8,
-      "Милешко Виктор Стефанович": 4,
-      "Ольшанский Николай Михайлович": 330,
-      "Труфанов Александр Федорович": 18,
-      "Против всех": 177
+      "gas:candidate-vibid:1001000188002": 86,
+      "gas:candidate-vibid:1001000121844": 240,
+      "gas:candidate-vibid:1001000136050": 43,
+      "gas:candidate-vibid:1001000195071": 8,
+      "gas:candidate-vibid:336300370642": 4,
+      "gas:candidate-vibid:336300370522": 330,
+      "gas:candidate-vibid:1001000290477": 18,
+      "special:against-all": 177
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=362000039&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=236200073314&region=0&sub_region=0&type=429",

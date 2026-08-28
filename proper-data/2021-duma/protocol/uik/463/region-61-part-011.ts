@@ -11,8 +11,12 @@ export const duma_2021_uik_463_region_61_part_011 = [
     "ballot": "single-member",
     "uikNumber": 627,
     "uikTvd": "4614016294082",
+    "uikName": "УИК №627",
     "tikTvd": "26120002435639",
     "tikName": "Заветинская",
+    "regionCode": "61",
+    "regionTvd": "100100225883634",
+    "regionName": "Ростовская область",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 431,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 400,
@@ -28,12 +32,12 @@ export const duma_2021_uik_463_region_61_part_011 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Белова Татьяна Борисовна": 17,
-      "Дерябкин Виктор Ефимович": 155,
-      "Евсеев Дмитрий Николаевич": 4,
-      "Зинченко Марина Александровна": 7,
-      "Мисан Алексей Владимирович": 23,
-      "Плотников Алексей Васильевич": 8
+      "26120002447508": 17,
+      "26120002448467": 155,
+      "26120002445262": 4,
+      "26120002450952": 7,
+      "26120002444525": 23,
+      "26120002446533": 8
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/rostov?action=show&root=1000204&tvd=26120002435639&vrn=100100225883172&region=61&global=&sub_region=61&prver=0&pronetvd=null&vibid=26120002435639&type=464",
@@ -43,6 +47,10 @@ export const duma_2021_uik_463_region_61_part_011 = [
       "retrievedAt": "2026-08-26T08:04:17.112016+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/rostov?action=show&root=1000204&tvd=26120002435639&vrn=100100225883172&region=61&global=&sub_region=61&prver=0&pronetvd=null&vibid=26120002435639&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 155,
+      "oikTvd": "100100225883641"
     }
   },
   {
@@ -52,8 +60,12 @@ export const duma_2021_uik_463_region_61_part_011 = [
     "ballot": "single-member",
     "uikNumber": 628,
     "uikTvd": "4614016294083",
+    "uikName": "УИК №628",
     "tikTvd": "26120002435639",
     "tikName": "Заветинская",
+    "regionCode": "61",
+    "regionTvd": "100100225883634",
+    "regionName": "Ростовская область",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 639,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 600,
@@ -69,12 +81,12 @@ export const duma_2021_uik_463_region_61_part_011 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Белова Татьяна Борисовна": 36,
-      "Дерябкин Виктор Ефимович": 206,
-      "Евсеев Дмитрий Николаевич": 19,
-      "Зинченко Марина Александровна": 24,
-      "Мисан Алексей Владимирович": 40,
-      "Плотников Алексей Васильевич": 16
+      "26120002447508": 36,
+      "26120002448467": 206,
+      "26120002445262": 19,
+      "26120002450952": 24,
+      "26120002444525": 40,
+      "26120002446533": 16
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/rostov?action=show&root=1000204&tvd=26120002435639&vrn=100100225883172&region=61&global=&sub_region=61&prver=0&pronetvd=null&vibid=26120002435639&type=464",
@@ -84,6 +96,10 @@ export const duma_2021_uik_463_region_61_part_011 = [
       "retrievedAt": "2026-08-26T08:04:17.112016+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/rostov?action=show&root=1000204&tvd=26120002435639&vrn=100100225883172&region=61&global=&sub_region=61&prver=0&pronetvd=null&vibid=26120002435639&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 155,
+      "oikTvd": "100100225883641"
     }
   },
   {
@@ -93,8 +109,12 @@ export const duma_2021_uik_463_region_61_part_011 = [
     "ballot": "single-member",
     "uikNumber": 629,
     "uikTvd": "4614016294084",
+    "uikName": "УИК №629",
     "tikTvd": "26120002435639",
     "tikName": "Заветинская",
+    "regionCode": "61",
+    "regionTvd": "100100225883634",
+    "regionName": "Ростовская область",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 588,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 500,
@@ -110,12 +130,12 @@ export const duma_2021_uik_463_region_61_part_011 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Белова Татьяна Борисовна": 50,
-      "Дерябкин Виктор Ефимович": 149,
-      "Евсеев Дмитрий Николаевич": 17,
-      "Зинченко Марина Александровна": 32,
-      "Мисан Алексей Владимирович": 55,
-      "Плотников Алексей Васильевич": 24
+      "26120002447508": 50,
+      "26120002448467": 149,
+      "26120002445262": 17,
+      "26120002450952": 32,
+      "26120002444525": 55,
+      "26120002446533": 24
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/rostov?action=show&root=1000204&tvd=26120002435639&vrn=100100225883172&region=61&global=&sub_region=61&prver=0&pronetvd=null&vibid=26120002435639&type=464",
@@ -125,6 +145,10 @@ export const duma_2021_uik_463_region_61_part_011 = [
       "retrievedAt": "2026-08-26T08:04:17.112016+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/rostov?action=show&root=1000204&tvd=26120002435639&vrn=100100225883172&region=61&global=&sub_region=61&prver=0&pronetvd=null&vibid=26120002435639&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 155,
+      "oikTvd": "100100225883641"
     }
   },
   {
@@ -134,8 +158,12 @@ export const duma_2021_uik_463_region_61_part_011 = [
     "ballot": "single-member",
     "uikNumber": 630,
     "uikTvd": "4614016294085",
+    "uikName": "УИК №630",
     "tikTvd": "26120002435639",
     "tikName": "Заветинская",
+    "regionCode": "61",
+    "regionTvd": "100100225883634",
+    "regionName": "Ростовская область",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 692,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 600,
@@ -151,12 +179,12 @@ export const duma_2021_uik_463_region_61_part_011 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Белова Татьяна Борисовна": 56,
-      "Дерябкин Виктор Ефимович": 222,
-      "Евсеев Дмитрий Николаевич": 23,
-      "Зинченко Марина Александровна": 38,
-      "Мисан Алексей Владимирович": 97,
-      "Плотников Алексей Васильевич": 11
+      "26120002447508": 56,
+      "26120002448467": 222,
+      "26120002445262": 23,
+      "26120002450952": 38,
+      "26120002444525": 97,
+      "26120002446533": 11
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/rostov?action=show&root=1000204&tvd=26120002435639&vrn=100100225883172&region=61&global=&sub_region=61&prver=0&pronetvd=null&vibid=26120002435639&type=464",
@@ -166,6 +194,10 @@ export const duma_2021_uik_463_region_61_part_011 = [
       "retrievedAt": "2026-08-26T08:04:17.112016+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/rostov?action=show&root=1000204&tvd=26120002435639&vrn=100100225883172&region=61&global=&sub_region=61&prver=0&pronetvd=null&vibid=26120002435639&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 155,
+      "oikTvd": "100100225883641"
     }
   },
   {
@@ -175,8 +207,12 @@ export const duma_2021_uik_463_region_61_part_011 = [
     "ballot": "single-member",
     "uikNumber": 575,
     "uikTvd": "4614014305174",
+    "uikName": "УИК №575",
     "tikTvd": "26120002435640",
     "tikName": "Дубовская",
+    "regionCode": "61",
+    "regionTvd": "100100225883634",
+    "regionName": "Ростовская область",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 661,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 637,
@@ -192,12 +228,12 @@ export const duma_2021_uik_463_region_61_part_011 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Белова Татьяна Борисовна": 27,
-      "Дерябкин Виктор Ефимович": 300,
-      "Евсеев Дмитрий Николаевич": 47,
-      "Зинченко Марина Александровна": 20,
-      "Мисан Алексей Владимирович": 51,
-      "Плотников Алексей Васильевич": 20
+      "26120002447508": 27,
+      "26120002448467": 300,
+      "26120002445262": 47,
+      "26120002450952": 20,
+      "26120002444525": 51,
+      "26120002446533": 20
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/rostov?action=show&root=1000204&tvd=26120002435640&vrn=100100225883172&region=61&global=&sub_region=61&prver=0&pronetvd=null&vibid=26120002435640&type=464",
@@ -207,6 +243,10 @@ export const duma_2021_uik_463_region_61_part_011 = [
       "retrievedAt": "2026-08-26T08:04:18.483910+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/rostov?action=show&root=1000204&tvd=26120002435640&vrn=100100225883172&region=61&global=&sub_region=61&prver=0&pronetvd=null&vibid=26120002435640&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 155,
+      "oikTvd": "100100225883641"
     }
   },
   {
@@ -216,8 +256,12 @@ export const duma_2021_uik_463_region_61_part_011 = [
     "ballot": "single-member",
     "uikNumber": 576,
     "uikTvd": "4614014305175",
+    "uikName": "УИК №576",
     "tikTvd": "26120002435640",
     "tikName": "Дубовская",
+    "regionCode": "61",
+    "regionTvd": "100100225883634",
+    "regionName": "Ростовская область",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 338,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 311,
@@ -233,12 +277,12 @@ export const duma_2021_uik_463_region_61_part_011 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Белова Татьяна Борисовна": 43,
-      "Дерябкин Виктор Ефимович": 79,
-      "Евсеев Дмитрий Николаевич": 31,
-      "Зинченко Марина Александровна": 22,
-      "Мисан Алексей Владимирович": 43,
-      "Плотников Алексей Васильевич": 27
+      "26120002447508": 43,
+      "26120002448467": 79,
+      "26120002445262": 31,
+      "26120002450952": 22,
+      "26120002444525": 43,
+      "26120002446533": 27
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/rostov?action=show&root=1000204&tvd=26120002435640&vrn=100100225883172&region=61&global=&sub_region=61&prver=0&pronetvd=null&vibid=26120002435640&type=464",
@@ -248,6 +292,10 @@ export const duma_2021_uik_463_region_61_part_011 = [
       "retrievedAt": "2026-08-26T08:04:18.483910+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/rostov?action=show&root=1000204&tvd=26120002435640&vrn=100100225883172&region=61&global=&sub_region=61&prver=0&pronetvd=null&vibid=26120002435640&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 155,
+      "oikTvd": "100100225883641"
     }
   },
   {
@@ -257,8 +305,12 @@ export const duma_2021_uik_463_region_61_part_011 = [
     "ballot": "single-member",
     "uikNumber": 577,
     "uikTvd": "4614014305176",
+    "uikName": "УИК №577",
     "tikTvd": "26120002435640",
     "tikName": "Дубовская",
+    "regionCode": "61",
+    "regionTvd": "100100225883634",
+    "regionName": "Ростовская область",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 699,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 666,
@@ -274,12 +326,12 @@ export const duma_2021_uik_463_region_61_part_011 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Белова Татьяна Борисовна": 23,
-      "Дерябкин Виктор Ефимович": 174,
-      "Евсеев Дмитрий Николаевич": 23,
-      "Зинченко Марина Александровна": 18,
-      "Мисан Алексей Владимирович": 49,
-      "Плотников Алексей Васильевич": 18
+      "26120002447508": 23,
+      "26120002448467": 174,
+      "26120002445262": 23,
+      "26120002450952": 18,
+      "26120002444525": 49,
+      "26120002446533": 18
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/rostov?action=show&root=1000204&tvd=26120002435640&vrn=100100225883172&region=61&global=&sub_region=61&prver=0&pronetvd=null&vibid=26120002435640&type=464",
@@ -289,6 +341,10 @@ export const duma_2021_uik_463_region_61_part_011 = [
       "retrievedAt": "2026-08-26T08:04:18.483910+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/rostov?action=show&root=1000204&tvd=26120002435640&vrn=100100225883172&region=61&global=&sub_region=61&prver=0&pronetvd=null&vibid=26120002435640&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 155,
+      "oikTvd": "100100225883641"
     }
   },
   {
@@ -298,8 +354,12 @@ export const duma_2021_uik_463_region_61_part_011 = [
     "ballot": "single-member",
     "uikNumber": 578,
     "uikTvd": "4614014305177",
+    "uikName": "УИК №578",
     "tikTvd": "26120002435640",
     "tikName": "Дубовская",
+    "regionCode": "61",
+    "regionTvd": "100100225883634",
+    "regionName": "Ростовская область",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 841,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 825,
@@ -315,12 +375,12 @@ export const duma_2021_uik_463_region_61_part_011 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Белова Татьяна Борисовна": 34,
-      "Дерябкин Виктор Ефимович": 374,
-      "Евсеев Дмитрий Николаевич": 36,
-      "Зинченко Марина Александровна": 25,
-      "Мисан Алексей Владимирович": 62,
-      "Плотников Алексей Васильевич": 12
+      "26120002447508": 34,
+      "26120002448467": 374,
+      "26120002445262": 36,
+      "26120002450952": 25,
+      "26120002444525": 62,
+      "26120002446533": 12
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/rostov?action=show&root=1000204&tvd=26120002435640&vrn=100100225883172&region=61&global=&sub_region=61&prver=0&pronetvd=null&vibid=26120002435640&type=464",
@@ -330,6 +390,10 @@ export const duma_2021_uik_463_region_61_part_011 = [
       "retrievedAt": "2026-08-26T08:04:18.483910+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/rostov?action=show&root=1000204&tvd=26120002435640&vrn=100100225883172&region=61&global=&sub_region=61&prver=0&pronetvd=null&vibid=26120002435640&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 155,
+      "oikTvd": "100100225883641"
     }
   },
   {
@@ -339,8 +403,12 @@ export const duma_2021_uik_463_region_61_part_011 = [
     "ballot": "single-member",
     "uikNumber": 579,
     "uikTvd": "4614014305178",
+    "uikName": "УИК №579",
     "tikTvd": "26120002435640",
     "tikName": "Дубовская",
+    "regionCode": "61",
+    "regionTvd": "100100225883634",
+    "regionName": "Ростовская область",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 453,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 445,
@@ -356,12 +424,12 @@ export const duma_2021_uik_463_region_61_part_011 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Белова Татьяна Борисовна": 24,
-      "Дерябкин Виктор Ефимович": 141,
-      "Евсеев Дмитрий Николаевич": 23,
-      "Зинченко Марина Александровна": 21,
-      "Мисан Алексей Владимирович": 51,
-      "Плотников Алексей Васильевич": 15
+      "26120002447508": 24,
+      "26120002448467": 141,
+      "26120002445262": 23,
+      "26120002450952": 21,
+      "26120002444525": 51,
+      "26120002446533": 15
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/rostov?action=show&root=1000204&tvd=26120002435640&vrn=100100225883172&region=61&global=&sub_region=61&prver=0&pronetvd=null&vibid=26120002435640&type=464",
@@ -371,6 +439,10 @@ export const duma_2021_uik_463_region_61_part_011 = [
       "retrievedAt": "2026-08-26T08:04:18.483910+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/rostov?action=show&root=1000204&tvd=26120002435640&vrn=100100225883172&region=61&global=&sub_region=61&prver=0&pronetvd=null&vibid=26120002435640&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 155,
+      "oikTvd": "100100225883641"
     }
   },
   {
@@ -380,8 +452,12 @@ export const duma_2021_uik_463_region_61_part_011 = [
     "ballot": "single-member",
     "uikNumber": 580,
     "uikTvd": "4614014305179",
+    "uikName": "УИК №580",
     "tikTvd": "26120002435640",
     "tikName": "Дубовская",
+    "regionCode": "61",
+    "regionTvd": "100100225883634",
+    "regionName": "Ростовская область",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 272,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 259,
@@ -397,12 +473,12 @@ export const duma_2021_uik_463_region_61_part_011 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Белова Татьяна Борисовна": 10,
-      "Дерябкин Виктор Ефимович": 77,
-      "Евсеев Дмитрий Николаевич": 17,
-      "Зинченко Марина Александровна": 9,
-      "Мисан Алексей Владимирович": 23,
-      "Плотников Алексей Васильевич": 8
+      "26120002447508": 10,
+      "26120002448467": 77,
+      "26120002445262": 17,
+      "26120002450952": 9,
+      "26120002444525": 23,
+      "26120002446533": 8
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/rostov?action=show&root=1000204&tvd=26120002435640&vrn=100100225883172&region=61&global=&sub_region=61&prver=0&pronetvd=null&vibid=26120002435640&type=464",
@@ -412,6 +488,10 @@ export const duma_2021_uik_463_region_61_part_011 = [
       "retrievedAt": "2026-08-26T08:04:18.483910+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/rostov?action=show&root=1000204&tvd=26120002435640&vrn=100100225883172&region=61&global=&sub_region=61&prver=0&pronetvd=null&vibid=26120002435640&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 155,
+      "oikTvd": "100100225883641"
     }
   },
   {
@@ -421,8 +501,12 @@ export const duma_2021_uik_463_region_61_part_011 = [
     "ballot": "single-member",
     "uikNumber": 581,
     "uikTvd": "4614014305180",
+    "uikName": "УИК №581",
     "tikTvd": "26120002435640",
     "tikName": "Дубовская",
+    "regionCode": "61",
+    "regionTvd": "100100225883634",
+    "regionName": "Ростовская область",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 612,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 604,
@@ -438,12 +522,12 @@ export const duma_2021_uik_463_region_61_part_011 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Белова Татьяна Борисовна": 41,
-      "Дерябкин Виктор Ефимович": 289,
-      "Евсеев Дмитрий Николаевич": 18,
-      "Зинченко Марина Александровна": 23,
-      "Мисан Алексей Владимирович": 51,
-      "Плотников Алексей Васильевич": 16
+      "26120002447508": 41,
+      "26120002448467": 289,
+      "26120002445262": 18,
+      "26120002450952": 23,
+      "26120002444525": 51,
+      "26120002446533": 16
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/rostov?action=show&root=1000204&tvd=26120002435640&vrn=100100225883172&region=61&global=&sub_region=61&prver=0&pronetvd=null&vibid=26120002435640&type=464",
@@ -453,6 +537,10 @@ export const duma_2021_uik_463_region_61_part_011 = [
       "retrievedAt": "2026-08-26T08:04:18.483910+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/rostov?action=show&root=1000204&tvd=26120002435640&vrn=100100225883172&region=61&global=&sub_region=61&prver=0&pronetvd=null&vibid=26120002435640&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 155,
+      "oikTvd": "100100225883641"
     }
   },
   {
@@ -462,8 +550,12 @@ export const duma_2021_uik_463_region_61_part_011 = [
     "ballot": "single-member",
     "uikNumber": 582,
     "uikTvd": "4614014305181",
+    "uikName": "УИК №582",
     "tikTvd": "26120002435640",
     "tikName": "Дубовская",
+    "regionCode": "61",
+    "regionTvd": "100100225883634",
+    "regionName": "Ростовская область",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 1242,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 1219,
@@ -479,12 +571,12 @@ export const duma_2021_uik_463_region_61_part_011 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Белова Татьяна Борисовна": 29,
-      "Дерябкин Виктор Ефимович": 339,
-      "Евсеев Дмитрий Николаевич": 36,
-      "Зинченко Марина Александровна": 25,
-      "Мисан Алексей Владимирович": 74,
-      "Плотников Алексей Васильевич": 34
+      "26120002447508": 29,
+      "26120002448467": 339,
+      "26120002445262": 36,
+      "26120002450952": 25,
+      "26120002444525": 74,
+      "26120002446533": 34
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/rostov?action=show&root=1000204&tvd=26120002435640&vrn=100100225883172&region=61&global=&sub_region=61&prver=0&pronetvd=null&vibid=26120002435640&type=464",
@@ -494,6 +586,10 @@ export const duma_2021_uik_463_region_61_part_011 = [
       "retrievedAt": "2026-08-26T08:04:18.483910+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/rostov?action=show&root=1000204&tvd=26120002435640&vrn=100100225883172&region=61&global=&sub_region=61&prver=0&pronetvd=null&vibid=26120002435640&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 155,
+      "oikTvd": "100100225883641"
     }
   },
   {
@@ -503,8 +599,12 @@ export const duma_2021_uik_463_region_61_part_011 = [
     "ballot": "single-member",
     "uikNumber": 583,
     "uikTvd": "4614014305182",
+    "uikName": "УИК №583",
     "tikTvd": "26120002435640",
     "tikName": "Дубовская",
+    "regionCode": "61",
+    "regionTvd": "100100225883634",
+    "regionName": "Ростовская область",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 1531,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 1491,
@@ -520,12 +620,12 @@ export const duma_2021_uik_463_region_61_part_011 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Белова Татьяна Борисовна": 79,
-      "Дерябкин Виктор Ефимович": 559,
-      "Евсеев Дмитрий Николаевич": 51,
-      "Зинченко Марина Александровна": 31,
-      "Мисан Алексей Владимирович": 124,
-      "Плотников Алексей Васильевич": 33
+      "26120002447508": 79,
+      "26120002448467": 559,
+      "26120002445262": 51,
+      "26120002450952": 31,
+      "26120002444525": 124,
+      "26120002446533": 33
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/rostov?action=show&root=1000204&tvd=26120002435640&vrn=100100225883172&region=61&global=&sub_region=61&prver=0&pronetvd=null&vibid=26120002435640&type=464",
@@ -535,6 +635,10 @@ export const duma_2021_uik_463_region_61_part_011 = [
       "retrievedAt": "2026-08-26T08:04:18.483910+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/rostov?action=show&root=1000204&tvd=26120002435640&vrn=100100225883172&region=61&global=&sub_region=61&prver=0&pronetvd=null&vibid=26120002435640&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 155,
+      "oikTvd": "100100225883641"
     }
   },
   {
@@ -544,8 +648,12 @@ export const duma_2021_uik_463_region_61_part_011 = [
     "ballot": "single-member",
     "uikNumber": 584,
     "uikTvd": "4614014305183",
+    "uikName": "УИК №584",
     "tikTvd": "26120002435640",
     "tikName": "Дубовская",
+    "regionCode": "61",
+    "regionTvd": "100100225883634",
+    "regionName": "Ростовская область",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 507,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 509,
@@ -561,12 +669,12 @@ export const duma_2021_uik_463_region_61_part_011 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Белова Татьяна Борисовна": 20,
-      "Дерябкин Виктор Ефимович": 92,
-      "Евсеев Дмитрий Николаевич": 40,
-      "Зинченко Марина Александровна": 22,
-      "Мисан Алексей Владимирович": 62,
-      "Плотников Алексей Васильевич": 16
+      "26120002447508": 20,
+      "26120002448467": 92,
+      "26120002445262": 40,
+      "26120002450952": 22,
+      "26120002444525": 62,
+      "26120002446533": 16
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/rostov?action=show&root=1000204&tvd=26120002435640&vrn=100100225883172&region=61&global=&sub_region=61&prver=0&pronetvd=null&vibid=26120002435640&type=464",
@@ -576,6 +684,10 @@ export const duma_2021_uik_463_region_61_part_011 = [
       "retrievedAt": "2026-08-26T08:04:18.483910+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/rostov?action=show&root=1000204&tvd=26120002435640&vrn=100100225883172&region=61&global=&sub_region=61&prver=0&pronetvd=null&vibid=26120002435640&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 155,
+      "oikTvd": "100100225883641"
     }
   },
   {
@@ -585,8 +697,12 @@ export const duma_2021_uik_463_region_61_part_011 = [
     "ballot": "single-member",
     "uikNumber": 585,
     "uikTvd": "4614014305184",
+    "uikName": "УИК №585",
     "tikTvd": "26120002435640",
     "tikName": "Дубовская",
+    "regionCode": "61",
+    "regionTvd": "100100225883634",
+    "regionName": "Ростовская область",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 1166,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 1139,
@@ -602,12 +718,12 @@ export const duma_2021_uik_463_region_61_part_011 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Белова Татьяна Борисовна": 55,
-      "Дерябкин Виктор Ефимович": 547,
-      "Евсеев Дмитрий Николаевич": 48,
-      "Зинченко Марина Александровна": 46,
-      "Мисан Алексей Владимирович": 122,
-      "Плотников Алексей Васильевич": 31
+      "26120002447508": 55,
+      "26120002448467": 547,
+      "26120002445262": 48,
+      "26120002450952": 46,
+      "26120002444525": 122,
+      "26120002446533": 31
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/rostov?action=show&root=1000204&tvd=26120002435640&vrn=100100225883172&region=61&global=&sub_region=61&prver=0&pronetvd=null&vibid=26120002435640&type=464",
@@ -617,6 +733,10 @@ export const duma_2021_uik_463_region_61_part_011 = [
       "retrievedAt": "2026-08-26T08:04:18.483910+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/rostov?action=show&root=1000204&tvd=26120002435640&vrn=100100225883172&region=61&global=&sub_region=61&prver=0&pronetvd=null&vibid=26120002435640&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 155,
+      "oikTvd": "100100225883641"
     }
   },
   {
@@ -626,8 +746,12 @@ export const duma_2021_uik_463_region_61_part_011 = [
     "ballot": "single-member",
     "uikNumber": 586,
     "uikTvd": "4614014305185",
+    "uikName": "УИК №586",
     "tikTvd": "26120002435640",
     "tikName": "Дубовская",
+    "regionCode": "61",
+    "regionTvd": "100100225883634",
+    "regionName": "Ростовская область",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 1283,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 1265,
@@ -643,12 +767,12 @@ export const duma_2021_uik_463_region_61_part_011 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Белова Татьяна Борисовна": 65,
-      "Дерябкин Виктор Ефимович": 625,
-      "Евсеев Дмитрий Николаевич": 47,
-      "Зинченко Марина Александровна": 43,
-      "Мисан Алексей Владимирович": 96,
-      "Плотников Алексей Васильевич": 26
+      "26120002447508": 65,
+      "26120002448467": 625,
+      "26120002445262": 47,
+      "26120002450952": 43,
+      "26120002444525": 96,
+      "26120002446533": 26
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/rostov?action=show&root=1000204&tvd=26120002435640&vrn=100100225883172&region=61&global=&sub_region=61&prver=0&pronetvd=null&vibid=26120002435640&type=464",
@@ -658,6 +782,10 @@ export const duma_2021_uik_463_region_61_part_011 = [
       "retrievedAt": "2026-08-26T08:04:18.483910+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/rostov?action=show&root=1000204&tvd=26120002435640&vrn=100100225883172&region=61&global=&sub_region=61&prver=0&pronetvd=null&vibid=26120002435640&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 155,
+      "oikTvd": "100100225883641"
     }
   },
   {
@@ -667,8 +795,12 @@ export const duma_2021_uik_463_region_61_part_011 = [
     "ballot": "single-member",
     "uikNumber": 587,
     "uikTvd": "4614014305186",
+    "uikName": "УИК №587",
     "tikTvd": "26120002435640",
     "tikName": "Дубовская",
+    "regionCode": "61",
+    "regionTvd": "100100225883634",
+    "regionName": "Ростовская область",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 232,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 226,
@@ -684,12 +816,12 @@ export const duma_2021_uik_463_region_61_part_011 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Белова Татьяна Борисовна": 10,
-      "Дерябкин Виктор Ефимович": 31,
-      "Евсеев Дмитрий Николаевич": 11,
-      "Зинченко Марина Александровна": 3,
-      "Мисан Алексей Владимирович": 30,
-      "Плотников Алексей Васильевич": 5
+      "26120002447508": 10,
+      "26120002448467": 31,
+      "26120002445262": 11,
+      "26120002450952": 3,
+      "26120002444525": 30,
+      "26120002446533": 5
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/rostov?action=show&root=1000204&tvd=26120002435640&vrn=100100225883172&region=61&global=&sub_region=61&prver=0&pronetvd=null&vibid=26120002435640&type=464",
@@ -699,6 +831,10 @@ export const duma_2021_uik_463_region_61_part_011 = [
       "retrievedAt": "2026-08-26T08:04:18.483910+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/rostov?action=show&root=1000204&tvd=26120002435640&vrn=100100225883172&region=61&global=&sub_region=61&prver=0&pronetvd=null&vibid=26120002435640&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 155,
+      "oikTvd": "100100225883641"
     }
   },
   {
@@ -708,8 +844,12 @@ export const duma_2021_uik_463_region_61_part_011 = [
     "ballot": "single-member",
     "uikNumber": 588,
     "uikTvd": "4614014305187",
+    "uikName": "УИК №588",
     "tikTvd": "26120002435640",
     "tikName": "Дубовская",
+    "regionCode": "61",
+    "regionTvd": "100100225883634",
+    "regionName": "Ростовская область",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 1116,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 1053,
@@ -725,12 +865,12 @@ export const duma_2021_uik_463_region_61_part_011 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Белова Татьяна Борисовна": 35,
-      "Дерябкин Виктор Ефимович": 118,
-      "Евсеев Дмитрий Николаевич": 37,
-      "Зинченко Марина Александровна": 29,
-      "Мисан Алексей Владимирович": 242,
-      "Плотников Алексей Васильевич": 22
+      "26120002447508": 35,
+      "26120002448467": 118,
+      "26120002445262": 37,
+      "26120002450952": 29,
+      "26120002444525": 242,
+      "26120002446533": 22
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/rostov?action=show&root=1000204&tvd=26120002435640&vrn=100100225883172&region=61&global=&sub_region=61&prver=0&pronetvd=null&vibid=26120002435640&type=464",
@@ -740,6 +880,10 @@ export const duma_2021_uik_463_region_61_part_011 = [
       "retrievedAt": "2026-08-26T08:04:18.483910+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/rostov?action=show&root=1000204&tvd=26120002435640&vrn=100100225883172&region=61&global=&sub_region=61&prver=0&pronetvd=null&vibid=26120002435640&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 155,
+      "oikTvd": "100100225883641"
     }
   },
   {
@@ -749,8 +893,12 @@ export const duma_2021_uik_463_region_61_part_011 = [
     "ballot": "single-member",
     "uikNumber": 589,
     "uikTvd": "4614014305188",
+    "uikName": "УИК №589",
     "tikTvd": "26120002435640",
     "tikName": "Дубовская",
+    "regionCode": "61",
+    "regionTvd": "100100225883634",
+    "regionName": "Ростовская область",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 793,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 747,
@@ -766,12 +914,12 @@ export const duma_2021_uik_463_region_61_part_011 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Белова Татьяна Борисовна": 42,
-      "Дерябкин Виктор Ефимович": 295,
-      "Евсеев Дмитрий Николаевич": 29,
-      "Зинченко Марина Александровна": 51,
-      "Мисан Алексей Владимирович": 48,
-      "Плотников Алексей Васильевич": 27
+      "26120002447508": 42,
+      "26120002448467": 295,
+      "26120002445262": 29,
+      "26120002450952": 51,
+      "26120002444525": 48,
+      "26120002446533": 27
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/rostov?action=show&root=1000204&tvd=26120002435640&vrn=100100225883172&region=61&global=&sub_region=61&prver=0&pronetvd=null&vibid=26120002435640&type=464",
@@ -781,6 +929,10 @@ export const duma_2021_uik_463_region_61_part_011 = [
       "retrievedAt": "2026-08-26T08:04:18.483910+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/rostov?action=show&root=1000204&tvd=26120002435640&vrn=100100225883172&region=61&global=&sub_region=61&prver=0&pronetvd=null&vibid=26120002435640&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 155,
+      "oikTvd": "100100225883641"
     }
   },
   {
@@ -790,8 +942,12 @@ export const duma_2021_uik_463_region_61_part_011 = [
     "ballot": "single-member",
     "uikNumber": 590,
     "uikTvd": "4614014305189",
+    "uikName": "УИК №590",
     "tikTvd": "26120002435640",
     "tikName": "Дубовская",
+    "regionCode": "61",
+    "regionTvd": "100100225883634",
+    "regionName": "Ростовская область",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 351,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 330,
@@ -807,12 +963,12 @@ export const duma_2021_uik_463_region_61_part_011 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Белова Татьяна Борисовна": 26,
-      "Дерябкин Виктор Ефимович": 96,
-      "Евсеев Дмитрий Николаевич": 14,
-      "Зинченко Марина Александровна": 7,
-      "Мисан Алексей Владимирович": 52,
-      "Плотников Алексей Васильевич": 17
+      "26120002447508": 26,
+      "26120002448467": 96,
+      "26120002445262": 14,
+      "26120002450952": 7,
+      "26120002444525": 52,
+      "26120002446533": 17
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/rostov?action=show&root=1000204&tvd=26120002435640&vrn=100100225883172&region=61&global=&sub_region=61&prver=0&pronetvd=null&vibid=26120002435640&type=464",
@@ -822,6 +978,10 @@ export const duma_2021_uik_463_region_61_part_011 = [
       "retrievedAt": "2026-08-26T08:04:18.483910+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/rostov?action=show&root=1000204&tvd=26120002435640&vrn=100100225883172&region=61&global=&sub_region=61&prver=0&pronetvd=null&vibid=26120002435640&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 155,
+      "oikTvd": "100100225883641"
     }
   },
   {
@@ -831,8 +991,12 @@ export const duma_2021_uik_463_region_61_part_011 = [
     "ballot": "single-member",
     "uikNumber": 591,
     "uikTvd": "4614014305190",
+    "uikName": "УИК №591",
     "tikTvd": "26120002435640",
     "tikName": "Дубовская",
+    "regionCode": "61",
+    "regionTvd": "100100225883634",
+    "regionName": "Ростовская область",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 261,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 240,
@@ -848,12 +1012,12 @@ export const duma_2021_uik_463_region_61_part_011 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Белова Татьяна Борисовна": 14,
-      "Дерябкин Виктор Ефимович": 57,
-      "Евсеев Дмитрий Николаевич": 13,
-      "Зинченко Марина Александровна": 4,
-      "Мисан Алексей Владимирович": 29,
-      "Плотников Алексей Васильевич": 14
+      "26120002447508": 14,
+      "26120002448467": 57,
+      "26120002445262": 13,
+      "26120002450952": 4,
+      "26120002444525": 29,
+      "26120002446533": 14
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/rostov?action=show&root=1000204&tvd=26120002435640&vrn=100100225883172&region=61&global=&sub_region=61&prver=0&pronetvd=null&vibid=26120002435640&type=464",
@@ -863,6 +1027,10 @@ export const duma_2021_uik_463_region_61_part_011 = [
       "retrievedAt": "2026-08-26T08:04:18.483910+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/rostov?action=show&root=1000204&tvd=26120002435640&vrn=100100225883172&region=61&global=&sub_region=61&prver=0&pronetvd=null&vibid=26120002435640&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 155,
+      "oikTvd": "100100225883641"
     }
   },
   {
@@ -872,8 +1040,12 @@ export const duma_2021_uik_463_region_61_part_011 = [
     "ballot": "single-member",
     "uikNumber": 592,
     "uikTvd": "4614014305191",
+    "uikName": "УИК №592",
     "tikTvd": "26120002435640",
     "tikName": "Дубовская",
+    "regionCode": "61",
+    "regionTvd": "100100225883634",
+    "regionName": "Ростовская область",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 399,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 396,
@@ -889,12 +1061,12 @@ export const duma_2021_uik_463_region_61_part_011 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Белова Татьяна Борисовна": 21,
-      "Дерябкин Виктор Ефимович": 254,
-      "Евсеев Дмитрий Николаевич": 14,
-      "Зинченко Марина Александровна": 11,
-      "Мисан Алексей Владимирович": 40,
-      "Плотников Алексей Васильевич": 13
+      "26120002447508": 21,
+      "26120002448467": 254,
+      "26120002445262": 14,
+      "26120002450952": 11,
+      "26120002444525": 40,
+      "26120002446533": 13
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/rostov?action=show&root=1000204&tvd=26120002435640&vrn=100100225883172&region=61&global=&sub_region=61&prver=0&pronetvd=null&vibid=26120002435640&type=464",
@@ -904,6 +1076,10 @@ export const duma_2021_uik_463_region_61_part_011 = [
       "retrievedAt": "2026-08-26T08:04:18.483910+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/rostov?action=show&root=1000204&tvd=26120002435640&vrn=100100225883172&region=61&global=&sub_region=61&prver=0&pronetvd=null&vibid=26120002435640&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 155,
+      "oikTvd": "100100225883641"
     }
   },
   {
@@ -913,8 +1089,12 @@ export const duma_2021_uik_463_region_61_part_011 = [
     "ballot": "single-member",
     "uikNumber": 593,
     "uikTvd": "4614014305192",
+    "uikName": "УИК №593",
     "tikTvd": "26120002435640",
     "tikName": "Дубовская",
+    "regionCode": "61",
+    "regionTvd": "100100225883634",
+    "regionName": "Ростовская область",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 486,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 472,
@@ -930,12 +1110,12 @@ export const duma_2021_uik_463_region_61_part_011 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Белова Татьяна Борисовна": 36,
-      "Дерябкин Виктор Ефимович": 231,
-      "Евсеев Дмитрий Николаевич": 17,
-      "Зинченко Марина Александровна": 19,
-      "Мисан Алексей Владимирович": 31,
-      "Плотников Алексей Васильевич": 17
+      "26120002447508": 36,
+      "26120002448467": 231,
+      "26120002445262": 17,
+      "26120002450952": 19,
+      "26120002444525": 31,
+      "26120002446533": 17
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/rostov?action=show&root=1000204&tvd=26120002435640&vrn=100100225883172&region=61&global=&sub_region=61&prver=0&pronetvd=null&vibid=26120002435640&type=464",
@@ -945,6 +1125,10 @@ export const duma_2021_uik_463_region_61_part_011 = [
       "retrievedAt": "2026-08-26T08:04:18.483910+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/rostov?action=show&root=1000204&tvd=26120002435640&vrn=100100225883172&region=61&global=&sub_region=61&prver=0&pronetvd=null&vibid=26120002435640&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 155,
+      "oikTvd": "100100225883641"
     }
   },
   {
@@ -954,8 +1138,12 @@ export const duma_2021_uik_463_region_61_part_011 = [
     "ballot": "single-member",
     "uikNumber": 594,
     "uikTvd": "4614014305193",
+    "uikName": "УИК №594",
     "tikTvd": "26120002435640",
     "tikName": "Дубовская",
+    "regionCode": "61",
+    "regionTvd": "100100225883634",
+    "regionName": "Ростовская область",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 439,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 427,
@@ -971,12 +1159,12 @@ export const duma_2021_uik_463_region_61_part_011 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Белова Татьяна Борисовна": 21,
-      "Дерябкин Виктор Ефимович": 114,
-      "Евсеев Дмитрий Николаевич": 14,
-      "Зинченко Марина Александровна": 12,
-      "Мисан Алексей Владимирович": 41,
-      "Плотников Алексей Васильевич": 16
+      "26120002447508": 21,
+      "26120002448467": 114,
+      "26120002445262": 14,
+      "26120002450952": 12,
+      "26120002444525": 41,
+      "26120002446533": 16
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/rostov?action=show&root=1000204&tvd=26120002435640&vrn=100100225883172&region=61&global=&sub_region=61&prver=0&pronetvd=null&vibid=26120002435640&type=464",
@@ -986,6 +1174,10 @@ export const duma_2021_uik_463_region_61_part_011 = [
       "retrievedAt": "2026-08-26T08:04:18.483910+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/rostov?action=show&root=1000204&tvd=26120002435640&vrn=100100225883172&region=61&global=&sub_region=61&prver=0&pronetvd=null&vibid=26120002435640&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 155,
+      "oikTvd": "100100225883641"
     }
   },
   {
@@ -995,8 +1187,12 @@ export const duma_2021_uik_463_region_61_part_011 = [
     "ballot": "single-member",
     "uikNumber": 595,
     "uikTvd": "4614014305194",
+    "uikName": "УИК №595",
     "tikTvd": "26120002435640",
     "tikName": "Дубовская",
+    "regionCode": "61",
+    "regionTvd": "100100225883634",
+    "regionName": "Ростовская область",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 625,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 645,
@@ -1012,12 +1208,12 @@ export const duma_2021_uik_463_region_61_part_011 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Белова Татьяна Борисовна": 51,
-      "Дерябкин Виктор Ефимович": 181,
-      "Евсеев Дмитрий Николаевич": 28,
-      "Зинченко Марина Александровна": 31,
-      "Мисан Алексей Владимирович": 70,
-      "Плотников Алексей Васильевич": 33
+      "26120002447508": 51,
+      "26120002448467": 181,
+      "26120002445262": 28,
+      "26120002450952": 31,
+      "26120002444525": 70,
+      "26120002446533": 33
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/rostov?action=show&root=1000204&tvd=26120002435640&vrn=100100225883172&region=61&global=&sub_region=61&prver=0&pronetvd=null&vibid=26120002435640&type=464",
@@ -1027,6 +1223,10 @@ export const duma_2021_uik_463_region_61_part_011 = [
       "retrievedAt": "2026-08-26T08:04:18.483910+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/rostov?action=show&root=1000204&tvd=26120002435640&vrn=100100225883172&region=61&global=&sub_region=61&prver=0&pronetvd=null&vibid=26120002435640&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 155,
+      "oikTvd": "100100225883641"
     }
   },
   {
@@ -1036,8 +1236,12 @@ export const duma_2021_uik_463_region_61_part_011 = [
     "ballot": "single-member",
     "uikNumber": 482,
     "uikTvd": "4614011293562",
+    "uikName": "УИК №482",
     "tikTvd": "26120002435641",
     "tikName": "Волгодонская",
+    "regionCode": "61",
+    "regionTvd": "100100225883634",
+    "regionName": "Ростовская область",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 437,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 425,
@@ -1053,12 +1257,12 @@ export const duma_2021_uik_463_region_61_part_011 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Белова Татьяна Борисовна": 10,
-      "Дерябкин Виктор Ефимович": 191,
-      "Евсеев Дмитрий Николаевич": 13,
-      "Зинченко Марина Александровна": 8,
-      "Мисан Алексей Владимирович": 47,
-      "Плотников Алексей Васильевич": 17
+      "26120002447508": 10,
+      "26120002448467": 191,
+      "26120002445262": 13,
+      "26120002450952": 8,
+      "26120002444525": 47,
+      "26120002446533": 17
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/rostov?action=show&root=1000204&tvd=26120002435641&vrn=100100225883172&region=61&global=&sub_region=61&prver=0&pronetvd=null&vibid=26120002435641&type=464",
@@ -1068,6 +1272,10 @@ export const duma_2021_uik_463_region_61_part_011 = [
       "retrievedAt": "2026-08-26T08:04:20.174720+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/rostov?action=show&root=1000204&tvd=26120002435641&vrn=100100225883172&region=61&global=&sub_region=61&prver=0&pronetvd=null&vibid=26120002435641&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 155,
+      "oikTvd": "100100225883641"
     }
   },
   {
@@ -1077,8 +1285,12 @@ export const duma_2021_uik_463_region_61_part_011 = [
     "ballot": "single-member",
     "uikNumber": 483,
     "uikTvd": "4614011293563",
+    "uikName": "УИК №483",
     "tikTvd": "26120002435641",
     "tikName": "Волгодонская",
+    "regionCode": "61",
+    "regionTvd": "100100225883634",
+    "regionName": "Ростовская область",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 509,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 545,
@@ -1094,12 +1306,12 @@ export const duma_2021_uik_463_region_61_part_011 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Белова Татьяна Борисовна": 27,
-      "Дерябкин Виктор Ефимович": 226,
-      "Евсеев Дмитрий Николаевич": 23,
-      "Зинченко Марина Александровна": 26,
-      "Мисан Алексей Владимирович": 26,
-      "Плотников Алексей Васильевич": 14
+      "26120002447508": 27,
+      "26120002448467": 226,
+      "26120002445262": 23,
+      "26120002450952": 26,
+      "26120002444525": 26,
+      "26120002446533": 14
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/rostov?action=show&root=1000204&tvd=26120002435641&vrn=100100225883172&region=61&global=&sub_region=61&prver=0&pronetvd=null&vibid=26120002435641&type=464",
@@ -1109,6 +1321,10 @@ export const duma_2021_uik_463_region_61_part_011 = [
       "retrievedAt": "2026-08-26T08:04:20.174720+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/rostov?action=show&root=1000204&tvd=26120002435641&vrn=100100225883172&region=61&global=&sub_region=61&prver=0&pronetvd=null&vibid=26120002435641&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 155,
+      "oikTvd": "100100225883641"
     }
   },
   {
@@ -1118,8 +1334,12 @@ export const duma_2021_uik_463_region_61_part_011 = [
     "ballot": "single-member",
     "uikNumber": 484,
     "uikTvd": "4614011293564",
+    "uikName": "УИК №484",
     "tikTvd": "26120002435641",
     "tikName": "Волгодонская",
+    "regionCode": "61",
+    "regionTvd": "100100225883634",
+    "regionName": "Ростовская область",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 190,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 185,
@@ -1135,12 +1355,12 @@ export const duma_2021_uik_463_region_61_part_011 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Белова Татьяна Борисовна": 8,
-      "Дерябкин Виктор Ефимович": 98,
-      "Евсеев Дмитрий Николаевич": 8,
-      "Зинченко Марина Александровна": 2,
-      "Мисан Алексей Владимирович": 16,
-      "Плотников Алексей Васильевич": 7
+      "26120002447508": 8,
+      "26120002448467": 98,
+      "26120002445262": 8,
+      "26120002450952": 2,
+      "26120002444525": 16,
+      "26120002446533": 7
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/rostov?action=show&root=1000204&tvd=26120002435641&vrn=100100225883172&region=61&global=&sub_region=61&prver=0&pronetvd=null&vibid=26120002435641&type=464",
@@ -1150,6 +1370,10 @@ export const duma_2021_uik_463_region_61_part_011 = [
       "retrievedAt": "2026-08-26T08:04:20.174720+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/rostov?action=show&root=1000204&tvd=26120002435641&vrn=100100225883172&region=61&global=&sub_region=61&prver=0&pronetvd=null&vibid=26120002435641&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 155,
+      "oikTvd": "100100225883641"
     }
   },
   {
@@ -1159,8 +1383,12 @@ export const duma_2021_uik_463_region_61_part_011 = [
     "ballot": "single-member",
     "uikNumber": 485,
     "uikTvd": "4614011293565",
+    "uikName": "УИК №485",
     "tikTvd": "26120002435641",
     "tikName": "Волгодонская",
+    "regionCode": "61",
+    "regionTvd": "100100225883634",
+    "regionName": "Ростовская область",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 236,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 220,
@@ -1176,12 +1404,12 @@ export const duma_2021_uik_463_region_61_part_011 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Белова Татьяна Борисовна": 6,
-      "Дерябкин Виктор Ефимович": 130,
-      "Евсеев Дмитрий Николаевич": 7,
-      "Зинченко Марина Александровна": 5,
-      "Мисан Алексей Владимирович": 20,
-      "Плотников Алексей Васильевич": 16
+      "26120002447508": 6,
+      "26120002448467": 130,
+      "26120002445262": 7,
+      "26120002450952": 5,
+      "26120002444525": 20,
+      "26120002446533": 16
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/rostov?action=show&root=1000204&tvd=26120002435641&vrn=100100225883172&region=61&global=&sub_region=61&prver=0&pronetvd=null&vibid=26120002435641&type=464",
@@ -1191,6 +1419,10 @@ export const duma_2021_uik_463_region_61_part_011 = [
       "retrievedAt": "2026-08-26T08:04:20.174720+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/rostov?action=show&root=1000204&tvd=26120002435641&vrn=100100225883172&region=61&global=&sub_region=61&prver=0&pronetvd=null&vibid=26120002435641&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 155,
+      "oikTvd": "100100225883641"
     }
   },
   {
@@ -1200,8 +1432,12 @@ export const duma_2021_uik_463_region_61_part_011 = [
     "ballot": "single-member",
     "uikNumber": 486,
     "uikTvd": "4614011293566",
+    "uikName": "УИК №486",
     "tikTvd": "26120002435641",
     "tikName": "Волгодонская",
+    "regionCode": "61",
+    "regionTvd": "100100225883634",
+    "regionName": "Ростовская область",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 617,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 610,
@@ -1217,12 +1453,12 @@ export const duma_2021_uik_463_region_61_part_011 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Белова Татьяна Борисовна": 8,
-      "Дерябкин Виктор Ефимович": 187,
-      "Евсеев Дмитрий Николаевич": 10,
-      "Зинченко Марина Александровна": 79,
-      "Мисан Алексей Владимирович": 20,
-      "Плотников Алексей Васильевич": 5
+      "26120002447508": 8,
+      "26120002448467": 187,
+      "26120002445262": 10,
+      "26120002450952": 79,
+      "26120002444525": 20,
+      "26120002446533": 5
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/rostov?action=show&root=1000204&tvd=26120002435641&vrn=100100225883172&region=61&global=&sub_region=61&prver=0&pronetvd=null&vibid=26120002435641&type=464",
@@ -1232,6 +1468,10 @@ export const duma_2021_uik_463_region_61_part_011 = [
       "retrievedAt": "2026-08-26T08:04:20.174720+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/rostov?action=show&root=1000204&tvd=26120002435641&vrn=100100225883172&region=61&global=&sub_region=61&prver=0&pronetvd=null&vibid=26120002435641&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 155,
+      "oikTvd": "100100225883641"
     }
   },
   {
@@ -1241,8 +1481,12 @@ export const duma_2021_uik_463_region_61_part_011 = [
     "ballot": "single-member",
     "uikNumber": 487,
     "uikTvd": "4614011293567",
+    "uikName": "УИК №487",
     "tikTvd": "26120002435641",
     "tikName": "Волгодонская",
+    "regionCode": "61",
+    "regionTvd": "100100225883634",
+    "regionName": "Ростовская область",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 872,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 895,
@@ -1258,12 +1502,12 @@ export const duma_2021_uik_463_region_61_part_011 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Белова Татьяна Борисовна": 29,
-      "Дерябкин Виктор Ефимович": 325,
-      "Евсеев Дмитрий Николаевич": 23,
-      "Зинченко Марина Александровна": 52,
-      "Мисан Алексей Владимирович": 27,
-      "Плотников Алексей Васильевич": 16
+      "26120002447508": 29,
+      "26120002448467": 325,
+      "26120002445262": 23,
+      "26120002450952": 52,
+      "26120002444525": 27,
+      "26120002446533": 16
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/rostov?action=show&root=1000204&tvd=26120002435641&vrn=100100225883172&region=61&global=&sub_region=61&prver=0&pronetvd=null&vibid=26120002435641&type=464",
@@ -1273,6 +1517,10 @@ export const duma_2021_uik_463_region_61_part_011 = [
       "retrievedAt": "2026-08-26T08:04:20.174720+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/rostov?action=show&root=1000204&tvd=26120002435641&vrn=100100225883172&region=61&global=&sub_region=61&prver=0&pronetvd=null&vibid=26120002435641&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 155,
+      "oikTvd": "100100225883641"
     }
   },
   {
@@ -1282,8 +1530,12 @@ export const duma_2021_uik_463_region_61_part_011 = [
     "ballot": "single-member",
     "uikNumber": 488,
     "uikTvd": "4614011293568",
+    "uikName": "УИК №488",
     "tikTvd": "26120002435641",
     "tikName": "Волгодонская",
+    "regionCode": "61",
+    "regionTvd": "100100225883634",
+    "regionName": "Ростовская область",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 546,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 560,
@@ -1299,12 +1551,12 @@ export const duma_2021_uik_463_region_61_part_011 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Белова Татьяна Борисовна": 25,
-      "Дерябкин Виктор Ефимович": 155,
-      "Евсеев Дмитрий Николаевич": 18,
-      "Зинченко Марина Александровна": 20,
-      "Мисан Алексей Владимирович": 40,
-      "Плотников Алексей Васильевич": 21
+      "26120002447508": 25,
+      "26120002448467": 155,
+      "26120002445262": 18,
+      "26120002450952": 20,
+      "26120002444525": 40,
+      "26120002446533": 21
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/rostov?action=show&root=1000204&tvd=26120002435641&vrn=100100225883172&region=61&global=&sub_region=61&prver=0&pronetvd=null&vibid=26120002435641&type=464",
@@ -1314,6 +1566,10 @@ export const duma_2021_uik_463_region_61_part_011 = [
       "retrievedAt": "2026-08-26T08:04:20.174720+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/rostov?action=show&root=1000204&tvd=26120002435641&vrn=100100225883172&region=61&global=&sub_region=61&prver=0&pronetvd=null&vibid=26120002435641&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 155,
+      "oikTvd": "100100225883641"
     }
   },
   {
@@ -1323,8 +1579,12 @@ export const duma_2021_uik_463_region_61_part_011 = [
     "ballot": "single-member",
     "uikNumber": 489,
     "uikTvd": "4614011293569",
+    "uikName": "УИК №489",
     "tikTvd": "26120002435641",
     "tikName": "Волгодонская",
+    "regionCode": "61",
+    "regionTvd": "100100225883634",
+    "regionName": "Ростовская область",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 885,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 930,
@@ -1340,12 +1600,12 @@ export const duma_2021_uik_463_region_61_part_011 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Белова Татьяна Борисовна": 28,
-      "Дерябкин Виктор Ефимович": 446,
-      "Евсеев Дмитрий Николаевич": 25,
-      "Зинченко Марина Александровна": 25,
-      "Мисан Алексей Владимирович": 36,
-      "Плотников Алексей Васильевич": 12
+      "26120002447508": 28,
+      "26120002448467": 446,
+      "26120002445262": 25,
+      "26120002450952": 25,
+      "26120002444525": 36,
+      "26120002446533": 12
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/rostov?action=show&root=1000204&tvd=26120002435641&vrn=100100225883172&region=61&global=&sub_region=61&prver=0&pronetvd=null&vibid=26120002435641&type=464",
@@ -1355,6 +1615,10 @@ export const duma_2021_uik_463_region_61_part_011 = [
       "retrievedAt": "2026-08-26T08:04:20.174720+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/rostov?action=show&root=1000204&tvd=26120002435641&vrn=100100225883172&region=61&global=&sub_region=61&prver=0&pronetvd=null&vibid=26120002435641&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 155,
+      "oikTvd": "100100225883641"
     }
   },
   {
@@ -1364,8 +1628,12 @@ export const duma_2021_uik_463_region_61_part_011 = [
     "ballot": "single-member",
     "uikNumber": 490,
     "uikTvd": "4614011293570",
+    "uikName": "УИК №490",
     "tikTvd": "26120002435641",
     "tikName": "Волгодонская",
+    "regionCode": "61",
+    "regionTvd": "100100225883634",
+    "regionName": "Ростовская область",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 652,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 660,
@@ -1381,12 +1649,12 @@ export const duma_2021_uik_463_region_61_part_011 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Белова Татьяна Борисовна": 49,
-      "Дерябкин Виктор Ефимович": 139,
-      "Евсеев Дмитрий Николаевич": 25,
-      "Зинченко Марина Александровна": 24,
-      "Мисан Алексей Владимирович": 54,
-      "Плотников Алексей Васильевич": 20
+      "26120002447508": 49,
+      "26120002448467": 139,
+      "26120002445262": 25,
+      "26120002450952": 24,
+      "26120002444525": 54,
+      "26120002446533": 20
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/rostov?action=show&root=1000204&tvd=26120002435641&vrn=100100225883172&region=61&global=&sub_region=61&prver=0&pronetvd=null&vibid=26120002435641&type=464",
@@ -1396,6 +1664,10 @@ export const duma_2021_uik_463_region_61_part_011 = [
       "retrievedAt": "2026-08-26T08:04:20.174720+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/rostov?action=show&root=1000204&tvd=26120002435641&vrn=100100225883172&region=61&global=&sub_region=61&prver=0&pronetvd=null&vibid=26120002435641&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 155,
+      "oikTvd": "100100225883641"
     }
   },
   {
@@ -1405,8 +1677,12 @@ export const duma_2021_uik_463_region_61_part_011 = [
     "ballot": "single-member",
     "uikNumber": 491,
     "uikTvd": "4614011293571",
+    "uikName": "УИК №491",
     "tikTvd": "26120002435641",
     "tikName": "Волгодонская",
+    "regionCode": "61",
+    "regionTvd": "100100225883634",
+    "regionName": "Ростовская область",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 805,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 805,
@@ -1422,12 +1698,12 @@ export const duma_2021_uik_463_region_61_part_011 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Белова Татьяна Борисовна": 23,
-      "Дерябкин Виктор Ефимович": 326,
-      "Евсеев Дмитрий Николаевич": 15,
-      "Зинченко Марина Александровна": 62,
-      "Мисан Алексей Владимирович": 12,
-      "Плотников Алексей Васильевич": 30
+      "26120002447508": 23,
+      "26120002448467": 326,
+      "26120002445262": 15,
+      "26120002450952": 62,
+      "26120002444525": 12,
+      "26120002446533": 30
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/rostov?action=show&root=1000204&tvd=26120002435641&vrn=100100225883172&region=61&global=&sub_region=61&prver=0&pronetvd=null&vibid=26120002435641&type=464",
@@ -1437,6 +1713,10 @@ export const duma_2021_uik_463_region_61_part_011 = [
       "retrievedAt": "2026-08-26T08:04:20.174720+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/rostov?action=show&root=1000204&tvd=26120002435641&vrn=100100225883172&region=61&global=&sub_region=61&prver=0&pronetvd=null&vibid=26120002435641&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 155,
+      "oikTvd": "100100225883641"
     }
   },
   {
@@ -1446,8 +1726,12 @@ export const duma_2021_uik_463_region_61_part_011 = [
     "ballot": "single-member",
     "uikNumber": 492,
     "uikTvd": "4614011293572",
+    "uikName": "УИК №492",
     "tikTvd": "26120002435641",
     "tikName": "Волгодонская",
+    "regionCode": "61",
+    "regionTvd": "100100225883634",
+    "regionName": "Ростовская область",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 691,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 695,
@@ -1463,12 +1747,12 @@ export const duma_2021_uik_463_region_61_part_011 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Белова Татьяна Борисовна": 5,
-      "Дерябкин Виктор Ефимович": 141,
-      "Евсеев Дмитрий Николаевич": 22,
-      "Зинченко Марина Александровна": 2,
-      "Мисан Алексей Владимирович": 146,
-      "Плотников Алексей Васильевич": 4
+      "26120002447508": 5,
+      "26120002448467": 141,
+      "26120002445262": 22,
+      "26120002450952": 2,
+      "26120002444525": 146,
+      "26120002446533": 4
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/rostov?action=show&root=1000204&tvd=26120002435641&vrn=100100225883172&region=61&global=&sub_region=61&prver=0&pronetvd=null&vibid=26120002435641&type=464",
@@ -1478,6 +1762,10 @@ export const duma_2021_uik_463_region_61_part_011 = [
       "retrievedAt": "2026-08-26T08:04:20.174720+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/rostov?action=show&root=1000204&tvd=26120002435641&vrn=100100225883172&region=61&global=&sub_region=61&prver=0&pronetvd=null&vibid=26120002435641&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 155,
+      "oikTvd": "100100225883641"
     }
   },
   {
@@ -1487,8 +1775,12 @@ export const duma_2021_uik_463_region_61_part_011 = [
     "ballot": "single-member",
     "uikNumber": 493,
     "uikTvd": "4614011293573",
+    "uikName": "УИК №493",
     "tikTvd": "26120002435641",
     "tikName": "Волгодонская",
+    "regionCode": "61",
+    "regionTvd": "100100225883634",
+    "regionName": "Ростовская область",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 362,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 360,
@@ -1504,12 +1796,12 @@ export const duma_2021_uik_463_region_61_part_011 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Белова Татьяна Борисовна": 18,
-      "Дерябкин Виктор Ефимович": 119,
-      "Евсеев Дмитрий Николаевич": 15,
-      "Зинченко Марина Александровна": 10,
-      "Мисан Алексей Владимирович": 27,
-      "Плотников Алексей Васильевич": 16
+      "26120002447508": 18,
+      "26120002448467": 119,
+      "26120002445262": 15,
+      "26120002450952": 10,
+      "26120002444525": 27,
+      "26120002446533": 16
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/rostov?action=show&root=1000204&tvd=26120002435641&vrn=100100225883172&region=61&global=&sub_region=61&prver=0&pronetvd=null&vibid=26120002435641&type=464",
@@ -1519,6 +1811,10 @@ export const duma_2021_uik_463_region_61_part_011 = [
       "retrievedAt": "2026-08-26T08:04:20.174720+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/rostov?action=show&root=1000204&tvd=26120002435641&vrn=100100225883172&region=61&global=&sub_region=61&prver=0&pronetvd=null&vibid=26120002435641&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 155,
+      "oikTvd": "100100225883641"
     }
   },
   {
@@ -1528,8 +1824,12 @@ export const duma_2021_uik_463_region_61_part_011 = [
     "ballot": "single-member",
     "uikNumber": 494,
     "uikTvd": "4614011293574",
+    "uikName": "УИК №494",
     "tikTvd": "26120002435641",
     "tikName": "Волгодонская",
+    "regionCode": "61",
+    "regionTvd": "100100225883634",
+    "regionName": "Ростовская область",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 1031,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 1035,
@@ -1545,12 +1845,12 @@ export const duma_2021_uik_463_region_61_part_011 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Белова Татьяна Борисовна": 55,
-      "Дерябкин Виктор Ефимович": 229,
-      "Евсеев Дмитрий Николаевич": 21,
-      "Зинченко Марина Александровна": 35,
-      "Мисан Алексей Владимирович": 133,
-      "Плотников Алексей Васильевич": 22
+      "26120002447508": 55,
+      "26120002448467": 229,
+      "26120002445262": 21,
+      "26120002450952": 35,
+      "26120002444525": 133,
+      "26120002446533": 22
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/rostov?action=show&root=1000204&tvd=26120002435641&vrn=100100225883172&region=61&global=&sub_region=61&prver=0&pronetvd=null&vibid=26120002435641&type=464",
@@ -1560,6 +1860,10 @@ export const duma_2021_uik_463_region_61_part_011 = [
       "retrievedAt": "2026-08-26T08:04:20.174720+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/rostov?action=show&root=1000204&tvd=26120002435641&vrn=100100225883172&region=61&global=&sub_region=61&prver=0&pronetvd=null&vibid=26120002435641&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 155,
+      "oikTvd": "100100225883641"
     }
   },
   {
@@ -1569,8 +1873,12 @@ export const duma_2021_uik_463_region_61_part_011 = [
     "ballot": "single-member",
     "uikNumber": 495,
     "uikTvd": "4614011293575",
+    "uikName": "УИК №495",
     "tikTvd": "26120002435641",
     "tikName": "Волгодонская",
+    "regionCode": "61",
+    "regionTvd": "100100225883634",
+    "regionName": "Ростовская область",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 901,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 930,
@@ -1586,12 +1894,12 @@ export const duma_2021_uik_463_region_61_part_011 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Белова Татьяна Борисовна": 25,
-      "Дерябкин Виктор Ефимович": 369,
-      "Евсеев Дмитрий Николаевич": 19,
-      "Зинченко Марина Александровна": 22,
-      "Мисан Алексей Владимирович": 49,
-      "Плотников Алексей Васильевич": 3
+      "26120002447508": 25,
+      "26120002448467": 369,
+      "26120002445262": 19,
+      "26120002450952": 22,
+      "26120002444525": 49,
+      "26120002446533": 3
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/rostov?action=show&root=1000204&tvd=26120002435641&vrn=100100225883172&region=61&global=&sub_region=61&prver=0&pronetvd=null&vibid=26120002435641&type=464",
@@ -1601,6 +1909,10 @@ export const duma_2021_uik_463_region_61_part_011 = [
       "retrievedAt": "2026-08-26T08:04:20.174720+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/rostov?action=show&root=1000204&tvd=26120002435641&vrn=100100225883172&region=61&global=&sub_region=61&prver=0&pronetvd=null&vibid=26120002435641&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 155,
+      "oikTvd": "100100225883641"
     }
   },
   {
@@ -1610,8 +1922,12 @@ export const duma_2021_uik_463_region_61_part_011 = [
     "ballot": "single-member",
     "uikNumber": 496,
     "uikTvd": "4614011293576",
+    "uikName": "УИК №496",
     "tikTvd": "26120002435641",
     "tikName": "Волгодонская",
+    "regionCode": "61",
+    "regionTvd": "100100225883634",
+    "regionName": "Ростовская область",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 195,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 185,
@@ -1627,12 +1943,12 @@ export const duma_2021_uik_463_region_61_part_011 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Белова Татьяна Борисовна": 5,
-      "Дерябкин Виктор Ефимович": 67,
-      "Евсеев Дмитрий Николаевич": 8,
-      "Зинченко Марина Александровна": 4,
-      "Мисан Алексей Владимирович": 24,
-      "Плотников Алексей Васильевич": 4
+      "26120002447508": 5,
+      "26120002448467": 67,
+      "26120002445262": 8,
+      "26120002450952": 4,
+      "26120002444525": 24,
+      "26120002446533": 4
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/rostov?action=show&root=1000204&tvd=26120002435641&vrn=100100225883172&region=61&global=&sub_region=61&prver=0&pronetvd=null&vibid=26120002435641&type=464",
@@ -1642,6 +1958,10 @@ export const duma_2021_uik_463_region_61_part_011 = [
       "retrievedAt": "2026-08-26T08:04:20.174720+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/rostov?action=show&root=1000204&tvd=26120002435641&vrn=100100225883172&region=61&global=&sub_region=61&prver=0&pronetvd=null&vibid=26120002435641&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 155,
+      "oikTvd": "100100225883641"
     }
   },
   {
@@ -1651,8 +1971,12 @@ export const duma_2021_uik_463_region_61_part_011 = [
     "ballot": "single-member",
     "uikNumber": 497,
     "uikTvd": "4614011293577",
+    "uikName": "УИК №497",
     "tikTvd": "26120002435641",
     "tikName": "Волгодонская",
+    "regionCode": "61",
+    "regionTvd": "100100225883634",
+    "regionName": "Ростовская область",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 341,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 335,
@@ -1668,12 +1992,12 @@ export const duma_2021_uik_463_region_61_part_011 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Белова Татьяна Борисовна": 10,
-      "Дерябкин Виктор Ефимович": 55,
-      "Евсеев Дмитрий Николаевич": 29,
-      "Зинченко Марина Александровна": 18,
-      "Мисан Алексей Владимирович": 52,
-      "Плотников Алексей Васильевич": 32
+      "26120002447508": 10,
+      "26120002448467": 55,
+      "26120002445262": 29,
+      "26120002450952": 18,
+      "26120002444525": 52,
+      "26120002446533": 32
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/rostov?action=show&root=1000204&tvd=26120002435641&vrn=100100225883172&region=61&global=&sub_region=61&prver=0&pronetvd=null&vibid=26120002435641&type=464",
@@ -1683,6 +2007,10 @@ export const duma_2021_uik_463_region_61_part_011 = [
       "retrievedAt": "2026-08-26T08:04:20.174720+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/rostov?action=show&root=1000204&tvd=26120002435641&vrn=100100225883172&region=61&global=&sub_region=61&prver=0&pronetvd=null&vibid=26120002435641&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 155,
+      "oikTvd": "100100225883641"
     }
   },
   {
@@ -1692,8 +2020,12 @@ export const duma_2021_uik_463_region_61_part_011 = [
     "ballot": "single-member",
     "uikNumber": 498,
     "uikTvd": "4614011293578",
+    "uikName": "УИК №498",
     "tikTvd": "26120002435641",
     "tikName": "Волгодонская",
+    "regionCode": "61",
+    "regionTvd": "100100225883634",
+    "regionName": "Ростовская область",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 911,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 915,
@@ -1709,12 +2041,12 @@ export const duma_2021_uik_463_region_61_part_011 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Белова Татьяна Борисовна": 74,
-      "Дерябкин Виктор Ефимович": 281,
-      "Евсеев Дмитрий Николаевич": 38,
-      "Зинченко Марина Александровна": 29,
-      "Мисан Алексей Владимирович": 28,
-      "Плотников Алексей Васильевич": 39
+      "26120002447508": 74,
+      "26120002448467": 281,
+      "26120002445262": 38,
+      "26120002450952": 29,
+      "26120002444525": 28,
+      "26120002446533": 39
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/rostov?action=show&root=1000204&tvd=26120002435641&vrn=100100225883172&region=61&global=&sub_region=61&prver=0&pronetvd=null&vibid=26120002435641&type=464",
@@ -1724,6 +2056,10 @@ export const duma_2021_uik_463_region_61_part_011 = [
       "retrievedAt": "2026-08-26T08:04:20.174720+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/rostov?action=show&root=1000204&tvd=26120002435641&vrn=100100225883172&region=61&global=&sub_region=61&prver=0&pronetvd=null&vibid=26120002435641&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 155,
+      "oikTvd": "100100225883641"
     }
   },
   {
@@ -1733,8 +2069,12 @@ export const duma_2021_uik_463_region_61_part_011 = [
     "ballot": "single-member",
     "uikNumber": 499,
     "uikTvd": "4614011293579",
+    "uikName": "УИК №499",
     "tikTvd": "26120002435641",
     "tikName": "Волгодонская",
+    "regionCode": "61",
+    "regionTvd": "100100225883634",
+    "regionName": "Ростовская область",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 612,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 625,
@@ -1750,12 +2090,12 @@ export const duma_2021_uik_463_region_61_part_011 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Белова Татьяна Борисовна": 42,
-      "Дерябкин Виктор Ефимович": 92,
-      "Евсеев Дмитрий Николаевич": 16,
-      "Зинченко Марина Александровна": 30,
-      "Мисан Алексей Владимирович": 45,
-      "Плотников Алексей Васильевич": 20
+      "26120002447508": 42,
+      "26120002448467": 92,
+      "26120002445262": 16,
+      "26120002450952": 30,
+      "26120002444525": 45,
+      "26120002446533": 20
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/rostov?action=show&root=1000204&tvd=26120002435641&vrn=100100225883172&region=61&global=&sub_region=61&prver=0&pronetvd=null&vibid=26120002435641&type=464",
@@ -1765,6 +2105,10 @@ export const duma_2021_uik_463_region_61_part_011 = [
       "retrievedAt": "2026-08-26T08:04:20.174720+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/rostov?action=show&root=1000204&tvd=26120002435641&vrn=100100225883172&region=61&global=&sub_region=61&prver=0&pronetvd=null&vibid=26120002435641&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 155,
+      "oikTvd": "100100225883641"
     }
   },
   {
@@ -1774,8 +2118,12 @@ export const duma_2021_uik_463_region_61_part_011 = [
     "ballot": "single-member",
     "uikNumber": 500,
     "uikTvd": "4614011293580",
+    "uikName": "УИК №500",
     "tikTvd": "26120002435641",
     "tikName": "Волгодонская",
+    "regionCode": "61",
+    "regionTvd": "100100225883634",
+    "regionName": "Ростовская область",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 348,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 350,
@@ -1791,12 +2139,12 @@ export const duma_2021_uik_463_region_61_part_011 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Белова Татьяна Борисовна": 13,
-      "Дерябкин Виктор Ефимович": 88,
-      "Евсеев Дмитрий Николаевич": 13,
-      "Зинченко Марина Александровна": 11,
-      "Мисан Алексей Владимирович": 54,
-      "Плотников Алексей Васильевич": 8
+      "26120002447508": 13,
+      "26120002448467": 88,
+      "26120002445262": 13,
+      "26120002450952": 11,
+      "26120002444525": 54,
+      "26120002446533": 8
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/rostov?action=show&root=1000204&tvd=26120002435641&vrn=100100225883172&region=61&global=&sub_region=61&prver=0&pronetvd=null&vibid=26120002435641&type=464",
@@ -1806,6 +2154,10 @@ export const duma_2021_uik_463_region_61_part_011 = [
       "retrievedAt": "2026-08-26T08:04:20.174720+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/rostov?action=show&root=1000204&tvd=26120002435641&vrn=100100225883172&region=61&global=&sub_region=61&prver=0&pronetvd=null&vibid=26120002435641&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 155,
+      "oikTvd": "100100225883641"
     }
   },
   {
@@ -1815,8 +2167,12 @@ export const duma_2021_uik_463_region_61_part_011 = [
     "ballot": "single-member",
     "uikNumber": 501,
     "uikTvd": "4614011293581",
+    "uikName": "УИК №501",
     "tikTvd": "26120002435641",
     "tikName": "Волгодонская",
+    "regionCode": "61",
+    "regionTvd": "100100225883634",
+    "regionName": "Ростовская область",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 223,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 225,
@@ -1832,12 +2188,12 @@ export const duma_2021_uik_463_region_61_part_011 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Белова Татьяна Борисовна": 14,
-      "Дерябкин Виктор Ефимович": 63,
-      "Евсеев Дмитрий Николаевич": 14,
-      "Зинченко Марина Александровна": 11,
-      "Мисан Алексей Владимирович": 20,
-      "Плотников Алексей Васильевич": 10
+      "26120002447508": 14,
+      "26120002448467": 63,
+      "26120002445262": 14,
+      "26120002450952": 11,
+      "26120002444525": 20,
+      "26120002446533": 10
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/rostov?action=show&root=1000204&tvd=26120002435641&vrn=100100225883172&region=61&global=&sub_region=61&prver=0&pronetvd=null&vibid=26120002435641&type=464",
@@ -1847,6 +2203,10 @@ export const duma_2021_uik_463_region_61_part_011 = [
       "retrievedAt": "2026-08-26T08:04:20.174720+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/rostov?action=show&root=1000204&tvd=26120002435641&vrn=100100225883172&region=61&global=&sub_region=61&prver=0&pronetvd=null&vibid=26120002435641&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 155,
+      "oikTvd": "100100225883641"
     }
   },
   {
@@ -1856,8 +2216,12 @@ export const duma_2021_uik_463_region_61_part_011 = [
     "ballot": "single-member",
     "uikNumber": 502,
     "uikTvd": "4614011293582",
+    "uikName": "УИК №502",
     "tikTvd": "26120002435641",
     "tikName": "Волгодонская",
+    "regionCode": "61",
+    "regionTvd": "100100225883634",
+    "regionName": "Ростовская область",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 1284,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 1300,
@@ -1873,12 +2237,12 @@ export const duma_2021_uik_463_region_61_part_011 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Белова Татьяна Борисовна": 82,
-      "Дерябкин Виктор Ефимович": 125,
-      "Евсеев Дмитрий Николаевич": 24,
-      "Зинченко Марина Александровна": 29,
-      "Мисан Алексей Владимирович": 115,
-      "Плотников Алексей Васильевич": 29
+      "26120002447508": 82,
+      "26120002448467": 125,
+      "26120002445262": 24,
+      "26120002450952": 29,
+      "26120002444525": 115,
+      "26120002446533": 29
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/rostov?action=show&root=1000204&tvd=26120002435641&vrn=100100225883172&region=61&global=&sub_region=61&prver=0&pronetvd=null&vibid=26120002435641&type=464",
@@ -1888,6 +2252,10 @@ export const duma_2021_uik_463_region_61_part_011 = [
       "retrievedAt": "2026-08-26T08:04:20.174720+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/rostov?action=show&root=1000204&tvd=26120002435641&vrn=100100225883172&region=61&global=&sub_region=61&prver=0&pronetvd=null&vibid=26120002435641&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 155,
+      "oikTvd": "100100225883641"
     }
   },
   {
@@ -1897,8 +2265,12 @@ export const duma_2021_uik_463_region_61_part_011 = [
     "ballot": "single-member",
     "uikNumber": 503,
     "uikTvd": "4614011293583",
+    "uikName": "УИК №503",
     "tikTvd": "26120002435641",
     "tikName": "Волгодонская",
+    "regionCode": "61",
+    "regionTvd": "100100225883634",
+    "regionName": "Ростовская область",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 561,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 540,
@@ -1914,12 +2286,12 @@ export const duma_2021_uik_463_region_61_part_011 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Белова Татьяна Борисовна": 14,
-      "Дерябкин Виктор Ефимович": 171,
-      "Евсеев Дмитрий Николаевич": 73,
-      "Зинченко Марина Александровна": 15,
-      "Мисан Алексей Владимирович": 62,
-      "Плотников Алексей Васильевич": 3
+      "26120002447508": 14,
+      "26120002448467": 171,
+      "26120002445262": 73,
+      "26120002450952": 15,
+      "26120002444525": 62,
+      "26120002446533": 3
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/rostov?action=show&root=1000204&tvd=26120002435641&vrn=100100225883172&region=61&global=&sub_region=61&prver=0&pronetvd=null&vibid=26120002435641&type=464",
@@ -1929,6 +2301,10 @@ export const duma_2021_uik_463_region_61_part_011 = [
       "retrievedAt": "2026-08-26T08:04:20.174720+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/rostov?action=show&root=1000204&tvd=26120002435641&vrn=100100225883172&region=61&global=&sub_region=61&prver=0&pronetvd=null&vibid=26120002435641&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 155,
+      "oikTvd": "100100225883641"
     }
   },
   {
@@ -1938,8 +2314,12 @@ export const duma_2021_uik_463_region_61_part_011 = [
     "ballot": "single-member",
     "uikNumber": 504,
     "uikTvd": "4614011293584",
+    "uikName": "УИК №504",
     "tikTvd": "26120002435641",
     "tikName": "Волгодонская",
+    "regionCode": "61",
+    "regionTvd": "100100225883634",
+    "regionName": "Ростовская область",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 1185,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 1200,
@@ -1955,12 +2335,12 @@ export const duma_2021_uik_463_region_61_part_011 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Белова Татьяна Борисовна": 61,
-      "Дерябкин Виктор Ефимович": 108,
-      "Евсеев Дмитрий Николаевич": 29,
-      "Зинченко Марина Александровна": 28,
-      "Мисан Алексей Владимирович": 145,
-      "Плотников Алексей Васильевич": 41
+      "26120002447508": 61,
+      "26120002448467": 108,
+      "26120002445262": 29,
+      "26120002450952": 28,
+      "26120002444525": 145,
+      "26120002446533": 41
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/rostov?action=show&root=1000204&tvd=26120002435641&vrn=100100225883172&region=61&global=&sub_region=61&prver=0&pronetvd=null&vibid=26120002435641&type=464",
@@ -1970,6 +2350,10 @@ export const duma_2021_uik_463_region_61_part_011 = [
       "retrievedAt": "2026-08-26T08:04:20.174720+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/rostov?action=show&root=1000204&tvd=26120002435641&vrn=100100225883172&region=61&global=&sub_region=61&prver=0&pronetvd=null&vibid=26120002435641&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 155,
+      "oikTvd": "100100225883641"
     }
   },
   {
@@ -1979,8 +2363,12 @@ export const duma_2021_uik_463_region_61_part_011 = [
     "ballot": "single-member",
     "uikNumber": 505,
     "uikTvd": "4614011293585",
+    "uikName": "УИК №505",
     "tikTvd": "26120002435641",
     "tikName": "Волгодонская",
+    "regionCode": "61",
+    "regionTvd": "100100225883634",
+    "regionName": "Ростовская область",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 1325,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 1350,
@@ -1996,12 +2384,12 @@ export const duma_2021_uik_463_region_61_part_011 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Белова Татьяна Борисовна": 45,
-      "Дерябкин Виктор Ефимович": 217,
-      "Евсеев Дмитрий Николаевич": 48,
-      "Зинченко Марина Александровна": 28,
-      "Мисан Алексей Владимирович": 123,
-      "Плотников Алексей Васильевич": 38
+      "26120002447508": 45,
+      "26120002448467": 217,
+      "26120002445262": 48,
+      "26120002450952": 28,
+      "26120002444525": 123,
+      "26120002446533": 38
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/rostov?action=show&root=1000204&tvd=26120002435641&vrn=100100225883172&region=61&global=&sub_region=61&prver=0&pronetvd=null&vibid=26120002435641&type=464",
@@ -2011,6 +2399,10 @@ export const duma_2021_uik_463_region_61_part_011 = [
       "retrievedAt": "2026-08-26T08:04:20.174720+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/rostov?action=show&root=1000204&tvd=26120002435641&vrn=100100225883172&region=61&global=&sub_region=61&prver=0&pronetvd=null&vibid=26120002435641&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 155,
+      "oikTvd": "100100225883641"
     }
   },
   {
@@ -2020,8 +2412,12 @@ export const duma_2021_uik_463_region_61_part_011 = [
     "ballot": "single-member",
     "uikNumber": 506,
     "uikTvd": "4614011293586",
+    "uikName": "УИК №506",
     "tikTvd": "26120002435641",
     "tikName": "Волгодонская",
+    "regionCode": "61",
+    "regionTvd": "100100225883634",
+    "regionName": "Ростовская область",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 1551,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 1585,
@@ -2037,12 +2433,12 @@ export const duma_2021_uik_463_region_61_part_011 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Белова Татьяна Борисовна": 74,
-      "Дерябкин Виктор Ефимович": 137,
-      "Евсеев Дмитрий Николаевич": 57,
-      "Зинченко Марина Александровна": 48,
-      "Мисан Алексей Владимирович": 144,
-      "Плотников Алексей Васильевич": 40
+      "26120002447508": 74,
+      "26120002448467": 137,
+      "26120002445262": 57,
+      "26120002450952": 48,
+      "26120002444525": 144,
+      "26120002446533": 40
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/rostov?action=show&root=1000204&tvd=26120002435641&vrn=100100225883172&region=61&global=&sub_region=61&prver=0&pronetvd=null&vibid=26120002435641&type=464",
@@ -2052,6 +2448,10 @@ export const duma_2021_uik_463_region_61_part_011 = [
       "retrievedAt": "2026-08-26T08:04:20.174720+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/rostov?action=show&root=1000204&tvd=26120002435641&vrn=100100225883172&region=61&global=&sub_region=61&prver=0&pronetvd=null&vibid=26120002435641&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 155,
+      "oikTvd": "100100225883641"
     }
   },
   {
@@ -2061,8 +2461,12 @@ export const duma_2021_uik_463_region_61_part_011 = [
     "ballot": "single-member",
     "uikNumber": 507,
     "uikTvd": "4614011293587",
+    "uikName": "УИК №507",
     "tikTvd": "26120002435641",
     "tikName": "Волгодонская",
+    "regionCode": "61",
+    "regionTvd": "100100225883634",
+    "regionName": "Ростовская область",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 1772,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 1770,
@@ -2078,12 +2482,12 @@ export const duma_2021_uik_463_region_61_part_011 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Белова Татьяна Борисовна": 70,
-      "Дерябкин Виктор Ефимович": 195,
-      "Евсеев Дмитрий Николаевич": 65,
-      "Зинченко Марина Александровна": 48,
-      "Мисан Алексей Владимирович": 164,
-      "Плотников Алексей Васильевич": 51
+      "26120002447508": 70,
+      "26120002448467": 195,
+      "26120002445262": 65,
+      "26120002450952": 48,
+      "26120002444525": 164,
+      "26120002446533": 51
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/rostov?action=show&root=1000204&tvd=26120002435641&vrn=100100225883172&region=61&global=&sub_region=61&prver=0&pronetvd=null&vibid=26120002435641&type=464",
@@ -2093,6 +2497,10 @@ export const duma_2021_uik_463_region_61_part_011 = [
       "retrievedAt": "2026-08-26T08:04:20.174720+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/rostov?action=show&root=1000204&tvd=26120002435641&vrn=100100225883172&region=61&global=&sub_region=61&prver=0&pronetvd=null&vibid=26120002435641&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 155,
+      "oikTvd": "100100225883641"
     }
   },
   {
@@ -2102,8 +2510,12 @@ export const duma_2021_uik_463_region_61_part_011 = [
     "ballot": "single-member",
     "uikNumber": 508,
     "uikTvd": "4614011293588",
+    "uikName": "УИК №508",
     "tikTvd": "26120002435641",
     "tikName": "Волгодонская",
+    "regionCode": "61",
+    "regionTvd": "100100225883634",
+    "regionName": "Ростовская область",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 709,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 725,
@@ -2119,12 +2531,12 @@ export const duma_2021_uik_463_region_61_part_011 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Белова Татьяна Борисовна": 45,
-      "Дерябкин Виктор Ефимович": 133,
-      "Евсеев Дмитрий Николаевич": 47,
-      "Зинченко Марина Александровна": 32,
-      "Мисан Алексей Владимирович": 38,
-      "Плотников Алексей Васильевич": 40
+      "26120002447508": 45,
+      "26120002448467": 133,
+      "26120002445262": 47,
+      "26120002450952": 32,
+      "26120002444525": 38,
+      "26120002446533": 40
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/rostov?action=show&root=1000204&tvd=26120002435641&vrn=100100225883172&region=61&global=&sub_region=61&prver=0&pronetvd=null&vibid=26120002435641&type=464",
@@ -2134,6 +2546,10 @@ export const duma_2021_uik_463_region_61_part_011 = [
       "retrievedAt": "2026-08-26T08:04:20.174720+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/rostov?action=show&root=1000204&tvd=26120002435641&vrn=100100225883172&region=61&global=&sub_region=61&prver=0&pronetvd=null&vibid=26120002435641&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 155,
+      "oikTvd": "100100225883641"
     }
   },
   {
@@ -2143,8 +2559,12 @@ export const duma_2021_uik_463_region_61_part_011 = [
     "ballot": "single-member",
     "uikNumber": 509,
     "uikTvd": "4614011293589",
+    "uikName": "УИК №509",
     "tikTvd": "26120002435641",
     "tikName": "Волгодонская",
+    "regionCode": "61",
+    "regionTvd": "100100225883634",
+    "regionName": "Ростовская область",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 318,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 320,
@@ -2160,12 +2580,12 @@ export const duma_2021_uik_463_region_61_part_011 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Белова Татьяна Борисовна": 24,
-      "Дерябкин Виктор Ефимович": 78,
-      "Евсеев Дмитрий Николаевич": 16,
-      "Зинченко Марина Александровна": 9,
-      "Мисан Алексей Владимирович": 41,
-      "Плотников Алексей Васильевич": 9
+      "26120002447508": 24,
+      "26120002448467": 78,
+      "26120002445262": 16,
+      "26120002450952": 9,
+      "26120002444525": 41,
+      "26120002446533": 9
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/rostov?action=show&root=1000204&tvd=26120002435641&vrn=100100225883172&region=61&global=&sub_region=61&prver=0&pronetvd=null&vibid=26120002435641&type=464",
@@ -2175,6 +2595,10 @@ export const duma_2021_uik_463_region_61_part_011 = [
       "retrievedAt": "2026-08-26T08:04:20.174720+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/rostov?action=show&root=1000204&tvd=26120002435641&vrn=100100225883172&region=61&global=&sub_region=61&prver=0&pronetvd=null&vibid=26120002435641&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 155,
+      "oikTvd": "100100225883641"
     }
   },
   {
@@ -2184,8 +2608,12 @@ export const duma_2021_uik_463_region_61_part_011 = [
     "ballot": "single-member",
     "uikNumber": 510,
     "uikTvd": "4614011293590",
+    "uikName": "УИК №510",
     "tikTvd": "26120002435641",
     "tikName": "Волгодонская",
+    "regionCode": "61",
+    "regionTvd": "100100225883634",
+    "regionName": "Ростовская область",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 860,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 885,
@@ -2201,12 +2629,12 @@ export const duma_2021_uik_463_region_61_part_011 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Белова Татьяна Борисовна": 45,
-      "Дерябкин Виктор Ефимович": 342,
-      "Евсеев Дмитрий Николаевич": 30,
-      "Зинченко Марина Александровна": 42,
-      "Мисан Алексей Владимирович": 96,
-      "Плотников Алексей Васильевич": 21
+      "26120002447508": 45,
+      "26120002448467": 342,
+      "26120002445262": 30,
+      "26120002450952": 42,
+      "26120002444525": 96,
+      "26120002446533": 21
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/rostov?action=show&root=1000204&tvd=26120002435641&vrn=100100225883172&region=61&global=&sub_region=61&prver=0&pronetvd=null&vibid=26120002435641&type=464",
@@ -2216,6 +2644,10 @@ export const duma_2021_uik_463_region_61_part_011 = [
       "retrievedAt": "2026-08-26T08:04:20.174720+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/rostov?action=show&root=1000204&tvd=26120002435641&vrn=100100225883172&region=61&global=&sub_region=61&prver=0&pronetvd=null&vibid=26120002435641&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 155,
+      "oikTvd": "100100225883641"
     }
   },
   {
@@ -2225,8 +2657,12 @@ export const duma_2021_uik_463_region_61_part_011 = [
     "ballot": "single-member",
     "uikNumber": 511,
     "uikTvd": "4614011293591",
+    "uikName": "УИК №511",
     "tikTvd": "26120002435641",
     "tikName": "Волгодонская",
+    "regionCode": "61",
+    "regionTvd": "100100225883634",
+    "regionName": "Ростовская область",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 906,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 910,
@@ -2242,12 +2678,12 @@ export const duma_2021_uik_463_region_61_part_011 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Белова Татьяна Борисовна": 86,
-      "Дерябкин Виктор Ефимович": 225,
-      "Евсеев Дмитрий Николаевич": 53,
-      "Зинченко Марина Александровна": 53,
-      "Мисан Алексей Владимирович": 123,
-      "Плотников Алексей Васильевич": 44
+      "26120002447508": 86,
+      "26120002448467": 225,
+      "26120002445262": 53,
+      "26120002450952": 53,
+      "26120002444525": 123,
+      "26120002446533": 44
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/rostov?action=show&root=1000204&tvd=26120002435641&vrn=100100225883172&region=61&global=&sub_region=61&prver=0&pronetvd=null&vibid=26120002435641&type=464",
@@ -2257,6 +2693,10 @@ export const duma_2021_uik_463_region_61_part_011 = [
       "retrievedAt": "2026-08-26T08:04:20.174720+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/rostov?action=show&root=1000204&tvd=26120002435641&vrn=100100225883172&region=61&global=&sub_region=61&prver=0&pronetvd=null&vibid=26120002435641&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 155,
+      "oikTvd": "100100225883641"
     }
   },
   {
@@ -2266,8 +2706,12 @@ export const duma_2021_uik_463_region_61_part_011 = [
     "ballot": "single-member",
     "uikNumber": 512,
     "uikTvd": "4614011293592",
+    "uikName": "УИК №512",
     "tikTvd": "26120002435641",
     "tikName": "Волгодонская",
+    "regionCode": "61",
+    "regionTvd": "100100225883634",
+    "regionName": "Ростовская область",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 475,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 485,
@@ -2283,12 +2727,12 @@ export const duma_2021_uik_463_region_61_part_011 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Белова Татьяна Борисовна": 30,
-      "Дерябкин Виктор Ефимович": 178,
-      "Евсеев Дмитрий Николаевич": 16,
-      "Зинченко Марина Александровна": 0,
-      "Мисан Алексей Владимирович": 33,
-      "Плотников Алексей Васильевич": 9
+      "26120002447508": 30,
+      "26120002448467": 178,
+      "26120002445262": 16,
+      "26120002450952": 0,
+      "26120002444525": 33,
+      "26120002446533": 9
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/rostov?action=show&root=1000204&tvd=26120002435641&vrn=100100225883172&region=61&global=&sub_region=61&prver=0&pronetvd=null&vibid=26120002435641&type=464",
@@ -2298,6 +2742,10 @@ export const duma_2021_uik_463_region_61_part_011 = [
       "retrievedAt": "2026-08-26T08:04:20.174720+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/rostov?action=show&root=1000204&tvd=26120002435641&vrn=100100225883172&region=61&global=&sub_region=61&prver=0&pronetvd=null&vibid=26120002435641&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 155,
+      "oikTvd": "100100225883641"
     }
   },
   {
@@ -2307,8 +2755,12 @@ export const duma_2021_uik_463_region_61_part_011 = [
     "ballot": "single-member",
     "uikNumber": 429,
     "uikTvd": "4614010910266",
+    "uikName": "УИК №429",
     "tikTvd": "26120002435642",
     "tikName": "Волгодонская городская",
+    "regionCode": "61",
+    "regionTvd": "100100225883634",
+    "regionName": "Ростовская область",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 2983,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 3000,
@@ -2324,12 +2776,12 @@ export const duma_2021_uik_463_region_61_part_011 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Белова Татьяна Борисовна": 121,
-      "Дерябкин Виктор Ефимович": 153,
-      "Евсеев Дмитрий Николаевич": 95,
-      "Зинченко Марина Александровна": 77,
-      "Мисан Алексей Владимирович": 233,
-      "Плотников Алексей Васильевич": 65
+      "26120002447508": 121,
+      "26120002448467": 153,
+      "26120002445262": 95,
+      "26120002450952": 77,
+      "26120002444525": 233,
+      "26120002446533": 65
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/rostov?action=show&root=1000204&tvd=26120002435642&vrn=100100225883172&region=61&global=&sub_region=61&prver=0&pronetvd=null&vibid=26120002435642&type=464",
@@ -2339,6 +2791,10 @@ export const duma_2021_uik_463_region_61_part_011 = [
       "retrievedAt": "2026-08-26T08:04:18.960108+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/rostov?action=show&root=1000204&tvd=26120002435642&vrn=100100225883172&region=61&global=&sub_region=61&prver=0&pronetvd=null&vibid=26120002435642&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 155,
+      "oikTvd": "100100225883641"
     }
   },
   {
@@ -2348,8 +2804,12 @@ export const duma_2021_uik_463_region_61_part_011 = [
     "ballot": "single-member",
     "uikNumber": 430,
     "uikTvd": "4614010910267",
+    "uikName": "УИК №430",
     "tikTvd": "26120002435642",
     "tikName": "Волгодонская городская",
+    "regionCode": "61",
+    "regionTvd": "100100225883634",
+    "regionName": "Ростовская область",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 2497,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 2000,
@@ -2365,12 +2825,12 @@ export const duma_2021_uik_463_region_61_part_011 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Белова Татьяна Борисовна": 152,
-      "Дерябкин Виктор Ефимович": 238,
-      "Евсеев Дмитрий Николаевич": 186,
-      "Зинченко Марина Александровна": 65,
-      "Мисан Алексей Владимирович": 131,
-      "Плотников Алексей Васильевич": 60
+      "26120002447508": 152,
+      "26120002448467": 238,
+      "26120002445262": 186,
+      "26120002450952": 65,
+      "26120002444525": 131,
+      "26120002446533": 60
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/rostov?action=show&root=1000204&tvd=26120002435642&vrn=100100225883172&region=61&global=&sub_region=61&prver=0&pronetvd=null&vibid=26120002435642&type=464",
@@ -2380,6 +2840,10 @@ export const duma_2021_uik_463_region_61_part_011 = [
       "retrievedAt": "2026-08-26T08:04:18.960108+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/rostov?action=show&root=1000204&tvd=26120002435642&vrn=100100225883172&region=61&global=&sub_region=61&prver=0&pronetvd=null&vibid=26120002435642&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 155,
+      "oikTvd": "100100225883641"
     }
   },
   {
@@ -2389,8 +2853,12 @@ export const duma_2021_uik_463_region_61_part_011 = [
     "ballot": "single-member",
     "uikNumber": 431,
     "uikTvd": "4614010910268",
+    "uikName": "УИК №431",
     "tikTvd": "26120002435642",
     "tikName": "Волгодонская городская",
+    "regionCode": "61",
+    "regionTvd": "100100225883634",
+    "regionName": "Ростовская область",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 2102,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 2000,
@@ -2406,12 +2874,12 @@ export const duma_2021_uik_463_region_61_part_011 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Белова Татьяна Борисовна": 96,
-      "Дерябкин Виктор Ефимович": 257,
-      "Евсеев Дмитрий Николаевич": 116,
-      "Зинченко Марина Александровна": 54,
-      "Мисан Алексей Владимирович": 244,
-      "Плотников Алексей Васильевич": 49
+      "26120002447508": 96,
+      "26120002448467": 257,
+      "26120002445262": 116,
+      "26120002450952": 54,
+      "26120002444525": 244,
+      "26120002446533": 49
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/rostov?action=show&root=1000204&tvd=26120002435642&vrn=100100225883172&region=61&global=&sub_region=61&prver=0&pronetvd=null&vibid=26120002435642&type=464",
@@ -2421,6 +2889,10 @@ export const duma_2021_uik_463_region_61_part_011 = [
       "retrievedAt": "2026-08-26T08:04:18.960108+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/rostov?action=show&root=1000204&tvd=26120002435642&vrn=100100225883172&region=61&global=&sub_region=61&prver=0&pronetvd=null&vibid=26120002435642&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 155,
+      "oikTvd": "100100225883641"
     }
   },
   {
@@ -2430,8 +2902,12 @@ export const duma_2021_uik_463_region_61_part_011 = [
     "ballot": "single-member",
     "uikNumber": 432,
     "uikTvd": "4614010910269",
+    "uikName": "УИК №432",
     "tikTvd": "26120002435642",
     "tikName": "Волгодонская городская",
+    "regionCode": "61",
+    "regionTvd": "100100225883634",
+    "regionName": "Ростовская область",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 2042,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 2000,
@@ -2447,12 +2923,12 @@ export const duma_2021_uik_463_region_61_part_011 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Белова Татьяна Борисовна": 101,
-      "Дерябкин Виктор Ефимович": 170,
-      "Евсеев Дмитрий Николаевич": 101,
-      "Зинченко Марина Александровна": 73,
-      "Мисан Алексей Владимирович": 237,
-      "Плотников Алексей Васильевич": 50
+      "26120002447508": 101,
+      "26120002448467": 170,
+      "26120002445262": 101,
+      "26120002450952": 73,
+      "26120002444525": 237,
+      "26120002446533": 50
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/rostov?action=show&root=1000204&tvd=26120002435642&vrn=100100225883172&region=61&global=&sub_region=61&prver=0&pronetvd=null&vibid=26120002435642&type=464",
@@ -2462,6 +2938,10 @@ export const duma_2021_uik_463_region_61_part_011 = [
       "retrievedAt": "2026-08-26T08:04:18.960108+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/rostov?action=show&root=1000204&tvd=26120002435642&vrn=100100225883172&region=61&global=&sub_region=61&prver=0&pronetvd=null&vibid=26120002435642&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 155,
+      "oikTvd": "100100225883641"
     }
   },
   {
@@ -2471,8 +2951,12 @@ export const duma_2021_uik_463_region_61_part_011 = [
     "ballot": "single-member",
     "uikNumber": 433,
     "uikTvd": "4614010910270",
+    "uikName": "УИК №433",
     "tikTvd": "26120002435642",
     "tikName": "Волгодонская городская",
+    "regionCode": "61",
+    "regionTvd": "100100225883634",
+    "regionName": "Ростовская область",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 1781,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 1800,
@@ -2488,12 +2972,12 @@ export const duma_2021_uik_463_region_61_part_011 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Белова Татьяна Борисовна": 36,
-      "Дерябкин Виктор Ефимович": 245,
-      "Евсеев Дмитрий Николаевич": 82,
-      "Зинченко Марина Александровна": 30,
-      "Мисан Алексей Владимирович": 262,
-      "Плотников Алексей Васильевич": 79
+      "26120002447508": 36,
+      "26120002448467": 245,
+      "26120002445262": 82,
+      "26120002450952": 30,
+      "26120002444525": 262,
+      "26120002446533": 79
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/rostov?action=show&root=1000204&tvd=26120002435642&vrn=100100225883172&region=61&global=&sub_region=61&prver=0&pronetvd=null&vibid=26120002435642&type=464",
@@ -2503,6 +2987,10 @@ export const duma_2021_uik_463_region_61_part_011 = [
       "retrievedAt": "2026-08-26T08:04:18.960108+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/rostov?action=show&root=1000204&tvd=26120002435642&vrn=100100225883172&region=61&global=&sub_region=61&prver=0&pronetvd=null&vibid=26120002435642&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 155,
+      "oikTvd": "100100225883641"
     }
   },
   {
@@ -2512,8 +3000,12 @@ export const duma_2021_uik_463_region_61_part_011 = [
     "ballot": "single-member",
     "uikNumber": 434,
     "uikTvd": "4614010910271",
+    "uikName": "УИК №434",
     "tikTvd": "26120002435642",
     "tikName": "Волгодонская городская",
+    "regionCode": "61",
+    "regionTvd": "100100225883634",
+    "regionName": "Ростовская область",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 2029,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 2000,
@@ -2529,12 +3021,12 @@ export const duma_2021_uik_463_region_61_part_011 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Белова Татьяна Борисовна": 19,
-      "Дерябкин Виктор Ефимович": 381,
-      "Евсеев Дмитрий Николаевич": 12,
-      "Зинченко Марина Александровна": 18,
-      "Мисан Алексей Владимирович": 196,
-      "Плотников Алексей Васильевич": 19
+      "26120002447508": 19,
+      "26120002448467": 381,
+      "26120002445262": 12,
+      "26120002450952": 18,
+      "26120002444525": 196,
+      "26120002446533": 19
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/rostov?action=show&root=1000204&tvd=26120002435642&vrn=100100225883172&region=61&global=&sub_region=61&prver=0&pronetvd=null&vibid=26120002435642&type=464",
@@ -2544,6 +3036,10 @@ export const duma_2021_uik_463_region_61_part_011 = [
       "retrievedAt": "2026-08-26T08:04:18.960108+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/rostov?action=show&root=1000204&tvd=26120002435642&vrn=100100225883172&region=61&global=&sub_region=61&prver=0&pronetvd=null&vibid=26120002435642&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 155,
+      "oikTvd": "100100225883641"
     }
   },
   {
@@ -2553,8 +3049,12 @@ export const duma_2021_uik_463_region_61_part_011 = [
     "ballot": "single-member",
     "uikNumber": 435,
     "uikTvd": "4614010910272",
+    "uikName": "УИК №435",
     "tikTvd": "26120002435642",
     "tikName": "Волгодонская городская",
+    "regionCode": "61",
+    "regionTvd": "100100225883634",
+    "regionName": "Ростовская область",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 1752,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 1800,
@@ -2570,12 +3070,12 @@ export const duma_2021_uik_463_region_61_part_011 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Белова Татьяна Борисовна": 101,
-      "Дерябкин Виктор Ефимович": 155,
-      "Евсеев Дмитрий Николаевич": 68,
-      "Зинченко Марина Александровна": 63,
-      "Мисан Алексей Владимирович": 207,
-      "Плотников Алексей Васильевич": 38
+      "26120002447508": 101,
+      "26120002448467": 155,
+      "26120002445262": 68,
+      "26120002450952": 63,
+      "26120002444525": 207,
+      "26120002446533": 38
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/rostov?action=show&root=1000204&tvd=26120002435642&vrn=100100225883172&region=61&global=&sub_region=61&prver=0&pronetvd=null&vibid=26120002435642&type=464",
@@ -2585,6 +3085,10 @@ export const duma_2021_uik_463_region_61_part_011 = [
       "retrievedAt": "2026-08-26T08:04:18.960108+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/rostov?action=show&root=1000204&tvd=26120002435642&vrn=100100225883172&region=61&global=&sub_region=61&prver=0&pronetvd=null&vibid=26120002435642&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 155,
+      "oikTvd": "100100225883641"
     }
   },
   {
@@ -2594,8 +3098,12 @@ export const duma_2021_uik_463_region_61_part_011 = [
     "ballot": "single-member",
     "uikNumber": 436,
     "uikTvd": "4614010910273",
+    "uikName": "УИК №436",
     "tikTvd": "26120002435642",
     "tikName": "Волгодонская городская",
+    "regionCode": "61",
+    "regionTvd": "100100225883634",
+    "regionName": "Ростовская область",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 2072,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 2000,
@@ -2611,12 +3119,12 @@ export const duma_2021_uik_463_region_61_part_011 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Белова Татьяна Борисовна": 54,
-      "Дерябкин Виктор Ефимович": 341,
-      "Евсеев Дмитрий Николаевич": 71,
-      "Зинченко Марина Александровна": 26,
-      "Мисан Алексей Владимирович": 227,
-      "Плотников Алексей Васильевич": 29
+      "26120002447508": 54,
+      "26120002448467": 341,
+      "26120002445262": 71,
+      "26120002450952": 26,
+      "26120002444525": 227,
+      "26120002446533": 29
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/rostov?action=show&root=1000204&tvd=26120002435642&vrn=100100225883172&region=61&global=&sub_region=61&prver=0&pronetvd=null&vibid=26120002435642&type=464",
@@ -2626,6 +3134,10 @@ export const duma_2021_uik_463_region_61_part_011 = [
       "retrievedAt": "2026-08-26T08:04:18.960108+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/rostov?action=show&root=1000204&tvd=26120002435642&vrn=100100225883172&region=61&global=&sub_region=61&prver=0&pronetvd=null&vibid=26120002435642&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 155,
+      "oikTvd": "100100225883641"
     }
   },
   {
@@ -2635,8 +3147,12 @@ export const duma_2021_uik_463_region_61_part_011 = [
     "ballot": "single-member",
     "uikNumber": 437,
     "uikTvd": "4614010910274",
+    "uikName": "УИК №437",
     "tikTvd": "26120002435642",
     "tikName": "Волгодонская городская",
+    "regionCode": "61",
+    "regionTvd": "100100225883634",
+    "regionName": "Ростовская область",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 2188,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 2000,
@@ -2652,12 +3168,12 @@ export const duma_2021_uik_463_region_61_part_011 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Белова Татьяна Борисовна": 93,
-      "Дерябкин Виктор Ефимович": 395,
-      "Евсеев Дмитрий Николаевич": 68,
-      "Зинченко Марина Александровна": 25,
-      "Мисан Алексей Владимирович": 166,
-      "Плотников Алексей Васильевич": 22
+      "26120002447508": 93,
+      "26120002448467": 395,
+      "26120002445262": 68,
+      "26120002450952": 25,
+      "26120002444525": 166,
+      "26120002446533": 22
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/rostov?action=show&root=1000204&tvd=26120002435642&vrn=100100225883172&region=61&global=&sub_region=61&prver=0&pronetvd=null&vibid=26120002435642&type=464",
@@ -2667,6 +3183,10 @@ export const duma_2021_uik_463_region_61_part_011 = [
       "retrievedAt": "2026-08-26T08:04:18.960108+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/rostov?action=show&root=1000204&tvd=26120002435642&vrn=100100225883172&region=61&global=&sub_region=61&prver=0&pronetvd=null&vibid=26120002435642&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 155,
+      "oikTvd": "100100225883641"
     }
   },
   {
@@ -2676,8 +3196,12 @@ export const duma_2021_uik_463_region_61_part_011 = [
     "ballot": "single-member",
     "uikNumber": 438,
     "uikTvd": "4614010910275",
+    "uikName": "УИК №438",
     "tikTvd": "26120002435642",
     "tikName": "Волгодонская городская",
+    "regionCode": "61",
+    "regionTvd": "100100225883634",
+    "regionName": "Ростовская область",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 1821,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 1800,
@@ -2693,12 +3217,12 @@ export const duma_2021_uik_463_region_61_part_011 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Белова Татьяна Борисовна": 85,
-      "Дерябкин Виктор Ефимович": 109,
-      "Евсеев Дмитрий Николаевич": 63,
-      "Зинченко Марина Александровна": 49,
-      "Мисан Алексей Владимирович": 198,
-      "Плотников Алексей Васильевич": 52
+      "26120002447508": 85,
+      "26120002448467": 109,
+      "26120002445262": 63,
+      "26120002450952": 49,
+      "26120002444525": 198,
+      "26120002446533": 52
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/rostov?action=show&root=1000204&tvd=26120002435642&vrn=100100225883172&region=61&global=&sub_region=61&prver=0&pronetvd=null&vibid=26120002435642&type=464",
@@ -2708,6 +3232,10 @@ export const duma_2021_uik_463_region_61_part_011 = [
       "retrievedAt": "2026-08-26T08:04:18.960108+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/rostov?action=show&root=1000204&tvd=26120002435642&vrn=100100225883172&region=61&global=&sub_region=61&prver=0&pronetvd=null&vibid=26120002435642&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 155,
+      "oikTvd": "100100225883641"
     }
   },
   {
@@ -2717,8 +3245,12 @@ export const duma_2021_uik_463_region_61_part_011 = [
     "ballot": "single-member",
     "uikNumber": 439,
     "uikTvd": "4614010910276",
+    "uikName": "УИК №439",
     "tikTvd": "26120002435642",
     "tikName": "Волгодонская городская",
+    "regionCode": "61",
+    "regionTvd": "100100225883634",
+    "regionName": "Ростовская область",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 1998,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 1900,
@@ -2734,12 +3266,12 @@ export const duma_2021_uik_463_region_61_part_011 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Белова Татьяна Борисовна": 89,
-      "Дерябкин Виктор Ефимович": 139,
-      "Евсеев Дмитрий Николаевич": 75,
-      "Зинченко Марина Александровна": 58,
-      "Мисан Алексей Владимирович": 185,
-      "Плотников Алексей Васильевич": 49
+      "26120002447508": 89,
+      "26120002448467": 139,
+      "26120002445262": 75,
+      "26120002450952": 58,
+      "26120002444525": 185,
+      "26120002446533": 49
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/rostov?action=show&root=1000204&tvd=26120002435642&vrn=100100225883172&region=61&global=&sub_region=61&prver=0&pronetvd=null&vibid=26120002435642&type=464",
@@ -2749,6 +3281,10 @@ export const duma_2021_uik_463_region_61_part_011 = [
       "retrievedAt": "2026-08-26T08:04:18.960108+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/rostov?action=show&root=1000204&tvd=26120002435642&vrn=100100225883172&region=61&global=&sub_region=61&prver=0&pronetvd=null&vibid=26120002435642&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 155,
+      "oikTvd": "100100225883641"
     }
   },
   {
@@ -2758,8 +3294,12 @@ export const duma_2021_uik_463_region_61_part_011 = [
     "ballot": "single-member",
     "uikNumber": 440,
     "uikTvd": "4614010910277",
+    "uikName": "УИК №440",
     "tikTvd": "26120002435642",
     "tikName": "Волгодонская городская",
+    "regionCode": "61",
+    "regionTvd": "100100225883634",
+    "regionName": "Ростовская область",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 2048,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 2000,
@@ -2775,12 +3315,12 @@ export const duma_2021_uik_463_region_61_part_011 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Белова Татьяна Борисовна": 84,
-      "Дерябкин Виктор Ефимович": 150,
-      "Евсеев Дмитрий Николаевич": 82,
-      "Зинченко Марина Александровна": 42,
-      "Мисан Алексей Владимирович": 200,
-      "Плотников Алексей Васильевич": 57
+      "26120002447508": 84,
+      "26120002448467": 150,
+      "26120002445262": 82,
+      "26120002450952": 42,
+      "26120002444525": 200,
+      "26120002446533": 57
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/rostov?action=show&root=1000204&tvd=26120002435642&vrn=100100225883172&region=61&global=&sub_region=61&prver=0&pronetvd=null&vibid=26120002435642&type=464",
@@ -2790,6 +3330,10 @@ export const duma_2021_uik_463_region_61_part_011 = [
       "retrievedAt": "2026-08-26T08:04:18.960108+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/rostov?action=show&root=1000204&tvd=26120002435642&vrn=100100225883172&region=61&global=&sub_region=61&prver=0&pronetvd=null&vibid=26120002435642&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 155,
+      "oikTvd": "100100225883641"
     }
   },
   {
@@ -2799,8 +3343,12 @@ export const duma_2021_uik_463_region_61_part_011 = [
     "ballot": "single-member",
     "uikNumber": 441,
     "uikTvd": "4614010910278",
+    "uikName": "УИК №441",
     "tikTvd": "26120002435642",
     "tikName": "Волгодонская городская",
+    "regionCode": "61",
+    "regionTvd": "100100225883634",
+    "regionName": "Ростовская область",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 2041,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 2000,
@@ -2816,12 +3364,12 @@ export const duma_2021_uik_463_region_61_part_011 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Белова Татьяна Борисовна": 98,
-      "Дерябкин Виктор Ефимович": 141,
-      "Евсеев Дмитрий Николаевич": 127,
-      "Зинченко Марина Александровна": 59,
-      "Мисан Алексей Владимирович": 248,
-      "Плотников Алексей Васильевич": 47
+      "26120002447508": 98,
+      "26120002448467": 141,
+      "26120002445262": 127,
+      "26120002450952": 59,
+      "26120002444525": 248,
+      "26120002446533": 47
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/rostov?action=show&root=1000204&tvd=26120002435642&vrn=100100225883172&region=61&global=&sub_region=61&prver=0&pronetvd=null&vibid=26120002435642&type=464",
@@ -2831,6 +3379,10 @@ export const duma_2021_uik_463_region_61_part_011 = [
       "retrievedAt": "2026-08-26T08:04:18.960108+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/rostov?action=show&root=1000204&tvd=26120002435642&vrn=100100225883172&region=61&global=&sub_region=61&prver=0&pronetvd=null&vibid=26120002435642&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 155,
+      "oikTvd": "100100225883641"
     }
   },
   {
@@ -2840,8 +3392,12 @@ export const duma_2021_uik_463_region_61_part_011 = [
     "ballot": "single-member",
     "uikNumber": 442,
     "uikTvd": "4614010910279",
+    "uikName": "УИК №442",
     "tikTvd": "26120002435642",
     "tikName": "Волгодонская городская",
+    "regionCode": "61",
+    "regionTvd": "100100225883634",
+    "regionName": "Ростовская область",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 1980,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 2000,
@@ -2857,12 +3413,12 @@ export const duma_2021_uik_463_region_61_part_011 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Белова Татьяна Борисовна": 84,
-      "Дерябкин Виктор Ефимович": 166,
-      "Евсеев Дмитрий Николаевич": 67,
-      "Зинченко Марина Александровна": 56,
-      "Мисан Алексей Владимирович": 211,
-      "Плотников Алексей Васильевич": 66
+      "26120002447508": 84,
+      "26120002448467": 166,
+      "26120002445262": 67,
+      "26120002450952": 56,
+      "26120002444525": 211,
+      "26120002446533": 66
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/rostov?action=show&root=1000204&tvd=26120002435642&vrn=100100225883172&region=61&global=&sub_region=61&prver=0&pronetvd=null&vibid=26120002435642&type=464",
@@ -2872,6 +3428,10 @@ export const duma_2021_uik_463_region_61_part_011 = [
       "retrievedAt": "2026-08-26T08:04:18.960108+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/rostov?action=show&root=1000204&tvd=26120002435642&vrn=100100225883172&region=61&global=&sub_region=61&prver=0&pronetvd=null&vibid=26120002435642&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 155,
+      "oikTvd": "100100225883641"
     }
   },
   {
@@ -2881,8 +3441,12 @@ export const duma_2021_uik_463_region_61_part_011 = [
     "ballot": "single-member",
     "uikNumber": 443,
     "uikTvd": "4614010910280",
+    "uikName": "УИК №443",
     "tikTvd": "26120002435642",
     "tikName": "Волгодонская городская",
+    "regionCode": "61",
+    "regionTvd": "100100225883634",
+    "regionName": "Ростовская область",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 1816,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 1900,
@@ -2898,12 +3462,12 @@ export const duma_2021_uik_463_region_61_part_011 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Белова Татьяна Борисовна": 74,
-      "Дерябкин Виктор Ефимович": 208,
-      "Евсеев Дмитрий Николаевич": 103,
-      "Зинченко Марина Александровна": 38,
-      "Мисан Алексей Владимирович": 197,
-      "Плотников Алексей Васильевич": 61
+      "26120002447508": 74,
+      "26120002448467": 208,
+      "26120002445262": 103,
+      "26120002450952": 38,
+      "26120002444525": 197,
+      "26120002446533": 61
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/rostov?action=show&root=1000204&tvd=26120002435642&vrn=100100225883172&region=61&global=&sub_region=61&prver=0&pronetvd=null&vibid=26120002435642&type=464",
@@ -2913,6 +3477,10 @@ export const duma_2021_uik_463_region_61_part_011 = [
       "retrievedAt": "2026-08-26T08:04:18.960108+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/rostov?action=show&root=1000204&tvd=26120002435642&vrn=100100225883172&region=61&global=&sub_region=61&prver=0&pronetvd=null&vibid=26120002435642&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 155,
+      "oikTvd": "100100225883641"
     }
   },
   {
@@ -2922,8 +3490,12 @@ export const duma_2021_uik_463_region_61_part_011 = [
     "ballot": "single-member",
     "uikNumber": 444,
     "uikTvd": "4614010910281",
+    "uikName": "УИК №444",
     "tikTvd": "26120002435642",
     "tikName": "Волгодонская городская",
+    "regionCode": "61",
+    "regionTvd": "100100225883634",
+    "regionName": "Ростовская область",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 2091,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 2000,
@@ -2939,12 +3511,12 @@ export const duma_2021_uik_463_region_61_part_011 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Белова Татьяна Борисовна": 72,
-      "Дерябкин Виктор Ефимович": 412,
-      "Евсеев Дмитрий Николаевич": 134,
-      "Зинченко Марина Александровна": 39,
-      "Мисан Алексей Владимирович": 284,
-      "Плотников Алексей Васильевич": 53
+      "26120002447508": 72,
+      "26120002448467": 412,
+      "26120002445262": 134,
+      "26120002450952": 39,
+      "26120002444525": 284,
+      "26120002446533": 53
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/rostov?action=show&root=1000204&tvd=26120002435642&vrn=100100225883172&region=61&global=&sub_region=61&prver=0&pronetvd=null&vibid=26120002435642&type=464",
@@ -2954,6 +3526,10 @@ export const duma_2021_uik_463_region_61_part_011 = [
       "retrievedAt": "2026-08-26T08:04:18.960108+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/rostov?action=show&root=1000204&tvd=26120002435642&vrn=100100225883172&region=61&global=&sub_region=61&prver=0&pronetvd=null&vibid=26120002435642&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 155,
+      "oikTvd": "100100225883641"
     }
   },
   {
@@ -2963,8 +3539,12 @@ export const duma_2021_uik_463_region_61_part_011 = [
     "ballot": "single-member",
     "uikNumber": 445,
     "uikTvd": "4614010910282",
+    "uikName": "УИК №445",
     "tikTvd": "26120002435642",
     "tikName": "Волгодонская городская",
+    "regionCode": "61",
+    "regionTvd": "100100225883634",
+    "regionName": "Ростовская область",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 1889,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 2000,
@@ -2980,12 +3560,12 @@ export const duma_2021_uik_463_region_61_part_011 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Белова Татьяна Борисовна": 33,
-      "Дерябкин Виктор Ефимович": 475,
-      "Евсеев Дмитрий Николаевич": 81,
-      "Зинченко Марина Александровна": 31,
-      "Мисан Алексей Владимирович": 130,
-      "Плотников Алексей Васильевич": 84
+      "26120002447508": 33,
+      "26120002448467": 475,
+      "26120002445262": 81,
+      "26120002450952": 31,
+      "26120002444525": 130,
+      "26120002446533": 84
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/rostov?action=show&root=1000204&tvd=26120002435642&vrn=100100225883172&region=61&global=&sub_region=61&prver=0&pronetvd=null&vibid=26120002435642&type=464",
@@ -2995,6 +3575,10 @@ export const duma_2021_uik_463_region_61_part_011 = [
       "retrievedAt": "2026-08-26T08:04:18.960108+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/rostov?action=show&root=1000204&tvd=26120002435642&vrn=100100225883172&region=61&global=&sub_region=61&prver=0&pronetvd=null&vibid=26120002435642&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 155,
+      "oikTvd": "100100225883641"
     }
   },
   {
@@ -3004,8 +3588,12 @@ export const duma_2021_uik_463_region_61_part_011 = [
     "ballot": "single-member",
     "uikNumber": 446,
     "uikTvd": "4614010910283",
+    "uikName": "УИК №446",
     "tikTvd": "26120002435642",
     "tikName": "Волгодонская городская",
+    "regionCode": "61",
+    "regionTvd": "100100225883634",
+    "regionName": "Ростовская область",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 2165,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 2000,
@@ -3021,12 +3609,12 @@ export const duma_2021_uik_463_region_61_part_011 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Белова Татьяна Борисовна": 95,
-      "Дерябкин Виктор Ефимович": 126,
-      "Евсеев Дмитрий Николаевич": 154,
-      "Зинченко Марина Александровна": 52,
-      "Мисан Алексей Владимирович": 296,
-      "Плотников Алексей Васильевич": 59
+      "26120002447508": 95,
+      "26120002448467": 126,
+      "26120002445262": 154,
+      "26120002450952": 52,
+      "26120002444525": 296,
+      "26120002446533": 59
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/rostov?action=show&root=1000204&tvd=26120002435642&vrn=100100225883172&region=61&global=&sub_region=61&prver=0&pronetvd=null&vibid=26120002435642&type=464",
@@ -3036,6 +3624,10 @@ export const duma_2021_uik_463_region_61_part_011 = [
       "retrievedAt": "2026-08-26T08:04:18.960108+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/rostov?action=show&root=1000204&tvd=26120002435642&vrn=100100225883172&region=61&global=&sub_region=61&prver=0&pronetvd=null&vibid=26120002435642&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 155,
+      "oikTvd": "100100225883641"
     }
   },
   {
@@ -3045,8 +3637,12 @@ export const duma_2021_uik_463_region_61_part_011 = [
     "ballot": "single-member",
     "uikNumber": 447,
     "uikTvd": "4614010910284",
+    "uikName": "УИК №447",
     "tikTvd": "26120002435642",
     "tikName": "Волгодонская городская",
+    "regionCode": "61",
+    "regionTvd": "100100225883634",
+    "regionName": "Ростовская область",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 938,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 900,
@@ -3062,12 +3658,12 @@ export const duma_2021_uik_463_region_61_part_011 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Белова Татьяна Борисовна": 34,
-      "Дерябкин Виктор Ефимович": 41,
-      "Евсеев Дмитрий Николаевич": 81,
-      "Зинченко Марина Александровна": 15,
-      "Мисан Алексей Владимирович": 102,
-      "Плотников Алексей Васильевич": 43
+      "26120002447508": 34,
+      "26120002448467": 41,
+      "26120002445262": 81,
+      "26120002450952": 15,
+      "26120002444525": 102,
+      "26120002446533": 43
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/rostov?action=show&root=1000204&tvd=26120002435642&vrn=100100225883172&region=61&global=&sub_region=61&prver=0&pronetvd=null&vibid=26120002435642&type=464",
@@ -3077,6 +3673,10 @@ export const duma_2021_uik_463_region_61_part_011 = [
       "retrievedAt": "2026-08-26T08:04:18.960108+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/rostov?action=show&root=1000204&tvd=26120002435642&vrn=100100225883172&region=61&global=&sub_region=61&prver=0&pronetvd=null&vibid=26120002435642&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 155,
+      "oikTvd": "100100225883641"
     }
   },
   {
@@ -3086,8 +3686,12 @@ export const duma_2021_uik_463_region_61_part_011 = [
     "ballot": "single-member",
     "uikNumber": 448,
     "uikTvd": "4614010910285",
+    "uikName": "УИК №448",
     "tikTvd": "26120002435642",
     "tikName": "Волгодонская городская",
+    "regionCode": "61",
+    "regionTvd": "100100225883634",
+    "regionName": "Ростовская область",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 1892,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 1900,
@@ -3103,12 +3707,12 @@ export const duma_2021_uik_463_region_61_part_011 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Белова Татьяна Борисовна": 81,
-      "Дерябкин Виктор Ефимович": 123,
-      "Евсеев Дмитрий Николаевич": 153,
-      "Зинченко Марина Александровна": 40,
-      "Мисан Алексей Владимирович": 187,
-      "Плотников Алексей Васильевич": 40
+      "26120002447508": 81,
+      "26120002448467": 123,
+      "26120002445262": 153,
+      "26120002450952": 40,
+      "26120002444525": 187,
+      "26120002446533": 40
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/rostov?action=show&root=1000204&tvd=26120002435642&vrn=100100225883172&region=61&global=&sub_region=61&prver=0&pronetvd=null&vibid=26120002435642&type=464",
@@ -3118,6 +3722,10 @@ export const duma_2021_uik_463_region_61_part_011 = [
       "retrievedAt": "2026-08-26T08:04:18.960108+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/rostov?action=show&root=1000204&tvd=26120002435642&vrn=100100225883172&region=61&global=&sub_region=61&prver=0&pronetvd=null&vibid=26120002435642&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 155,
+      "oikTvd": "100100225883641"
     }
   },
   {
@@ -3127,8 +3735,12 @@ export const duma_2021_uik_463_region_61_part_011 = [
     "ballot": "single-member",
     "uikNumber": 449,
     "uikTvd": "4614010910286",
+    "uikName": "УИК №449",
     "tikTvd": "26120002435642",
     "tikName": "Волгодонская городская",
+    "regionCode": "61",
+    "regionTvd": "100100225883634",
+    "regionName": "Ростовская область",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 1676,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 1600,
@@ -3144,12 +3756,12 @@ export const duma_2021_uik_463_region_61_part_011 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Белова Татьяна Борисовна": 64,
-      "Дерябкин Виктор Ефимович": 90,
-      "Евсеев Дмитрий Николаевич": 126,
-      "Зинченко Марина Александровна": 35,
-      "Мисан Алексей Владимирович": 175,
-      "Плотников Алексей Васильевич": 39
+      "26120002447508": 64,
+      "26120002448467": 90,
+      "26120002445262": 126,
+      "26120002450952": 35,
+      "26120002444525": 175,
+      "26120002446533": 39
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/rostov?action=show&root=1000204&tvd=26120002435642&vrn=100100225883172&region=61&global=&sub_region=61&prver=0&pronetvd=null&vibid=26120002435642&type=464",
@@ -3159,6 +3771,10 @@ export const duma_2021_uik_463_region_61_part_011 = [
       "retrievedAt": "2026-08-26T08:04:18.960108+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/rostov?action=show&root=1000204&tvd=26120002435642&vrn=100100225883172&region=61&global=&sub_region=61&prver=0&pronetvd=null&vibid=26120002435642&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 155,
+      "oikTvd": "100100225883641"
     }
   },
   {
@@ -3168,8 +3784,12 @@ export const duma_2021_uik_463_region_61_part_011 = [
     "ballot": "single-member",
     "uikNumber": 450,
     "uikTvd": "4614010910287",
+    "uikName": "УИК №450",
     "tikTvd": "26120002435642",
     "tikName": "Волгодонская городская",
+    "regionCode": "61",
+    "regionTvd": "100100225883634",
+    "regionName": "Ростовская область",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 2572,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 2500,
@@ -3185,12 +3805,12 @@ export const duma_2021_uik_463_region_61_part_011 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Белова Татьяна Борисовна": 134,
-      "Дерябкин Виктор Ефимович": 165,
-      "Евсеев Дмитрий Николаевич": 99,
-      "Зинченко Марина Александровна": 70,
-      "Мисан Алексей Владимирович": 312,
-      "Плотников Алексей Васильевич": 81
+      "26120002447508": 134,
+      "26120002448467": 165,
+      "26120002445262": 99,
+      "26120002450952": 70,
+      "26120002444525": 312,
+      "26120002446533": 81
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/rostov?action=show&root=1000204&tvd=26120002435642&vrn=100100225883172&region=61&global=&sub_region=61&prver=0&pronetvd=null&vibid=26120002435642&type=464",
@@ -3200,6 +3820,10 @@ export const duma_2021_uik_463_region_61_part_011 = [
       "retrievedAt": "2026-08-26T08:04:18.960108+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/rostov?action=show&root=1000204&tvd=26120002435642&vrn=100100225883172&region=61&global=&sub_region=61&prver=0&pronetvd=null&vibid=26120002435642&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 155,
+      "oikTvd": "100100225883641"
     }
   },
   {
@@ -3209,8 +3833,12 @@ export const duma_2021_uik_463_region_61_part_011 = [
     "ballot": "single-member",
     "uikNumber": 451,
     "uikTvd": "4614010910288",
+    "uikName": "УИК №451",
     "tikTvd": "26120002435642",
     "tikName": "Волгодонская городская",
+    "regionCode": "61",
+    "regionTvd": "100100225883634",
+    "regionName": "Ростовская область",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 2330,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 2500,
@@ -3226,12 +3854,12 @@ export const duma_2021_uik_463_region_61_part_011 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Белова Татьяна Борисовна": 123,
-      "Дерябкин Виктор Ефимович": 138,
-      "Евсеев Дмитрий Николаевич": 95,
-      "Зинченко Марина Александровна": 51,
-      "Мисан Алексей Владимирович": 257,
-      "Плотников Алексей Васильевич": 64
+      "26120002447508": 123,
+      "26120002448467": 138,
+      "26120002445262": 95,
+      "26120002450952": 51,
+      "26120002444525": 257,
+      "26120002446533": 64
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/rostov?action=show&root=1000204&tvd=26120002435642&vrn=100100225883172&region=61&global=&sub_region=61&prver=0&pronetvd=null&vibid=26120002435642&type=464",
@@ -3241,6 +3869,10 @@ export const duma_2021_uik_463_region_61_part_011 = [
       "retrievedAt": "2026-08-26T08:04:18.960108+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/rostov?action=show&root=1000204&tvd=26120002435642&vrn=100100225883172&region=61&global=&sub_region=61&prver=0&pronetvd=null&vibid=26120002435642&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 155,
+      "oikTvd": "100100225883641"
     }
   },
   {
@@ -3250,8 +3882,12 @@ export const duma_2021_uik_463_region_61_part_011 = [
     "ballot": "single-member",
     "uikNumber": 452,
     "uikTvd": "4614010910289",
+    "uikName": "УИК №452",
     "tikTvd": "26120002435642",
     "tikName": "Волгодонская городская",
+    "regionCode": "61",
+    "regionTvd": "100100225883634",
+    "regionName": "Ростовская область",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 2161,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 2000,
@@ -3267,12 +3903,12 @@ export const duma_2021_uik_463_region_61_part_011 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Белова Татьяна Борисовна": 140,
-      "Дерябкин Виктор Ефимович": 188,
-      "Евсеев Дмитрий Николаевич": 120,
-      "Зинченко Марина Александровна": 67,
-      "Мисан Алексей Владимирович": 289,
-      "Плотников Алексей Васильевич": 72
+      "26120002447508": 140,
+      "26120002448467": 188,
+      "26120002445262": 120,
+      "26120002450952": 67,
+      "26120002444525": 289,
+      "26120002446533": 72
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/rostov?action=show&root=1000204&tvd=26120002435642&vrn=100100225883172&region=61&global=&sub_region=61&prver=0&pronetvd=null&vibid=26120002435642&type=464",
@@ -3282,6 +3918,10 @@ export const duma_2021_uik_463_region_61_part_011 = [
       "retrievedAt": "2026-08-26T08:04:18.960108+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/rostov?action=show&root=1000204&tvd=26120002435642&vrn=100100225883172&region=61&global=&sub_region=61&prver=0&pronetvd=null&vibid=26120002435642&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 155,
+      "oikTvd": "100100225883641"
     }
   },
   {
@@ -3291,8 +3931,12 @@ export const duma_2021_uik_463_region_61_part_011 = [
     "ballot": "single-member",
     "uikNumber": 453,
     "uikTvd": "4614010910290",
+    "uikName": "УИК №453",
     "tikTvd": "26120002435642",
     "tikName": "Волгодонская городская",
+    "regionCode": "61",
+    "regionTvd": "100100225883634",
+    "regionName": "Ростовская область",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 2517,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 2500,
@@ -3308,12 +3952,12 @@ export const duma_2021_uik_463_region_61_part_011 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Белова Татьяна Борисовна": 162,
-      "Дерябкин Виктор Ефимович": 201,
-      "Евсеев Дмитрий Николаевич": 134,
-      "Зинченко Марина Александровна": 84,
-      "Мисан Алексей Владимирович": 339,
-      "Плотников Алексей Васильевич": 79
+      "26120002447508": 162,
+      "26120002448467": 201,
+      "26120002445262": 134,
+      "26120002450952": 84,
+      "26120002444525": 339,
+      "26120002446533": 79
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/rostov?action=show&root=1000204&tvd=26120002435642&vrn=100100225883172&region=61&global=&sub_region=61&prver=0&pronetvd=null&vibid=26120002435642&type=464",
@@ -3323,6 +3967,10 @@ export const duma_2021_uik_463_region_61_part_011 = [
       "retrievedAt": "2026-08-26T08:04:18.960108+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/rostov?action=show&root=1000204&tvd=26120002435642&vrn=100100225883172&region=61&global=&sub_region=61&prver=0&pronetvd=null&vibid=26120002435642&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 155,
+      "oikTvd": "100100225883641"
     }
   },
   {
@@ -3332,8 +3980,12 @@ export const duma_2021_uik_463_region_61_part_011 = [
     "ballot": "single-member",
     "uikNumber": 454,
     "uikTvd": "4614010910291",
+    "uikName": "УИК №454",
     "tikTvd": "26120002435642",
     "tikName": "Волгодонская городская",
+    "regionCode": "61",
+    "regionTvd": "100100225883634",
+    "regionName": "Ростовская область",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 2230,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 2000,
@@ -3349,12 +4001,12 @@ export const duma_2021_uik_463_region_61_part_011 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Белова Татьяна Борисовна": 107,
-      "Дерябкин Виктор Ефимович": 177,
-      "Евсеев Дмитрий Николаевич": 115,
-      "Зинченко Марина Александровна": 76,
-      "Мисан Алексей Владимирович": 266,
-      "Плотников Алексей Васильевич": 79
+      "26120002447508": 107,
+      "26120002448467": 177,
+      "26120002445262": 115,
+      "26120002450952": 76,
+      "26120002444525": 266,
+      "26120002446533": 79
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/rostov?action=show&root=1000204&tvd=26120002435642&vrn=100100225883172&region=61&global=&sub_region=61&prver=0&pronetvd=null&vibid=26120002435642&type=464",
@@ -3364,6 +4016,10 @@ export const duma_2021_uik_463_region_61_part_011 = [
       "retrievedAt": "2026-08-26T08:04:18.960108+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/rostov?action=show&root=1000204&tvd=26120002435642&vrn=100100225883172&region=61&global=&sub_region=61&prver=0&pronetvd=null&vibid=26120002435642&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 155,
+      "oikTvd": "100100225883641"
     }
   },
   {
@@ -3373,8 +4029,12 @@ export const duma_2021_uik_463_region_61_part_011 = [
     "ballot": "single-member",
     "uikNumber": 455,
     "uikTvd": "4614010910292",
+    "uikName": "УИК №455",
     "tikTvd": "26120002435642",
     "tikName": "Волгодонская городская",
+    "regionCode": "61",
+    "regionTvd": "100100225883634",
+    "regionName": "Ростовская область",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 2144,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 2000,
@@ -3390,12 +4050,12 @@ export const duma_2021_uik_463_region_61_part_011 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Белова Татьяна Борисовна": 105,
-      "Дерябкин Виктор Ефимович": 136,
-      "Евсеев Дмитрий Николаевич": 122,
-      "Зинченко Марина Александровна": 49,
-      "Мисан Алексей Владимирович": 279,
-      "Плотников Алексей Васильевич": 76
+      "26120002447508": 105,
+      "26120002448467": 136,
+      "26120002445262": 122,
+      "26120002450952": 49,
+      "26120002444525": 279,
+      "26120002446533": 76
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/rostov?action=show&root=1000204&tvd=26120002435642&vrn=100100225883172&region=61&global=&sub_region=61&prver=0&pronetvd=null&vibid=26120002435642&type=464",
@@ -3405,6 +4065,10 @@ export const duma_2021_uik_463_region_61_part_011 = [
       "retrievedAt": "2026-08-26T08:04:18.960108+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/rostov?action=show&root=1000204&tvd=26120002435642&vrn=100100225883172&region=61&global=&sub_region=61&prver=0&pronetvd=null&vibid=26120002435642&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 155,
+      "oikTvd": "100100225883641"
     }
   },
   {
@@ -3414,8 +4078,12 @@ export const duma_2021_uik_463_region_61_part_011 = [
     "ballot": "single-member",
     "uikNumber": 456,
     "uikTvd": "4614010910293",
+    "uikName": "УИК №456",
     "tikTvd": "26120002435642",
     "tikName": "Волгодонская городская",
+    "regionCode": "61",
+    "regionTvd": "100100225883634",
+    "regionName": "Ростовская область",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 2295,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 2000,
@@ -3431,12 +4099,12 @@ export const duma_2021_uik_463_region_61_part_011 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Белова Татьяна Борисовна": 140,
-      "Дерябкин Виктор Ефимович": 128,
-      "Евсеев Дмитрий Николаевич": 128,
-      "Зинченко Марина Александровна": 75,
-      "Мисан Алексей Владимирович": 311,
-      "Плотников Алексей Васильевич": 68
+      "26120002447508": 140,
+      "26120002448467": 128,
+      "26120002445262": 128,
+      "26120002450952": 75,
+      "26120002444525": 311,
+      "26120002446533": 68
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/rostov?action=show&root=1000204&tvd=26120002435642&vrn=100100225883172&region=61&global=&sub_region=61&prver=0&pronetvd=null&vibid=26120002435642&type=464",
@@ -3446,6 +4114,10 @@ export const duma_2021_uik_463_region_61_part_011 = [
       "retrievedAt": "2026-08-26T08:04:18.960108+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/rostov?action=show&root=1000204&tvd=26120002435642&vrn=100100225883172&region=61&global=&sub_region=61&prver=0&pronetvd=null&vibid=26120002435642&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 155,
+      "oikTvd": "100100225883641"
     }
   },
   {
@@ -3455,8 +4127,12 @@ export const duma_2021_uik_463_region_61_part_011 = [
     "ballot": "single-member",
     "uikNumber": 457,
     "uikTvd": "4614010910294",
+    "uikName": "УИК №457",
     "tikTvd": "26120002435642",
     "tikName": "Волгодонская городская",
+    "regionCode": "61",
+    "regionTvd": "100100225883634",
+    "regionName": "Ростовская область",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 2515,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 2500,
@@ -3472,12 +4148,12 @@ export const duma_2021_uik_463_region_61_part_011 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Белова Татьяна Борисовна": 114,
-      "Дерябкин Виктор Ефимович": 143,
-      "Евсеев Дмитрий Николаевич": 92,
-      "Зинченко Марина Александровна": 55,
-      "Мисан Алексей Владимирович": 385,
-      "Плотников Алексей Васильевич": 68
+      "26120002447508": 114,
+      "26120002448467": 143,
+      "26120002445262": 92,
+      "26120002450952": 55,
+      "26120002444525": 385,
+      "26120002446533": 68
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/rostov?action=show&root=1000204&tvd=26120002435642&vrn=100100225883172&region=61&global=&sub_region=61&prver=0&pronetvd=null&vibid=26120002435642&type=464",
@@ -3487,6 +4163,10 @@ export const duma_2021_uik_463_region_61_part_011 = [
       "retrievedAt": "2026-08-26T08:04:18.960108+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/rostov?action=show&root=1000204&tvd=26120002435642&vrn=100100225883172&region=61&global=&sub_region=61&prver=0&pronetvd=null&vibid=26120002435642&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 155,
+      "oikTvd": "100100225883641"
     }
   },
   {
@@ -3496,8 +4176,12 @@ export const duma_2021_uik_463_region_61_part_011 = [
     "ballot": "single-member",
     "uikNumber": 458,
     "uikTvd": "4614010910295",
+    "uikName": "УИК №458",
     "tikTvd": "26120002435642",
     "tikName": "Волгодонская городская",
+    "regionCode": "61",
+    "regionTvd": "100100225883634",
+    "regionName": "Ростовская область",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 2680,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 2500,
@@ -3513,12 +4197,12 @@ export const duma_2021_uik_463_region_61_part_011 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Белова Татьяна Борисовна": 117,
-      "Дерябкин Виктор Ефимович": 239,
-      "Евсеев Дмитрий Николаевич": 116,
-      "Зинченко Марина Александровна": 65,
-      "Мисан Алексей Владимирович": 327,
-      "Плотников Алексей Васильевич": 55
+      "26120002447508": 117,
+      "26120002448467": 239,
+      "26120002445262": 116,
+      "26120002450952": 65,
+      "26120002444525": 327,
+      "26120002446533": 55
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/rostov?action=show&root=1000204&tvd=26120002435642&vrn=100100225883172&region=61&global=&sub_region=61&prver=0&pronetvd=null&vibid=26120002435642&type=464",
@@ -3528,6 +4212,10 @@ export const duma_2021_uik_463_region_61_part_011 = [
       "retrievedAt": "2026-08-26T08:04:18.960108+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/rostov?action=show&root=1000204&tvd=26120002435642&vrn=100100225883172&region=61&global=&sub_region=61&prver=0&pronetvd=null&vibid=26120002435642&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 155,
+      "oikTvd": "100100225883641"
     }
   },
   {
@@ -3537,8 +4225,12 @@ export const duma_2021_uik_463_region_61_part_011 = [
     "ballot": "single-member",
     "uikNumber": 459,
     "uikTvd": "4614010910296",
+    "uikName": "УИК №459",
     "tikTvd": "26120002435642",
     "tikName": "Волгодонская городская",
+    "regionCode": "61",
+    "regionTvd": "100100225883634",
+    "regionName": "Ростовская область",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 2400,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 2500,
@@ -3554,12 +4246,12 @@ export const duma_2021_uik_463_region_61_part_011 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Белова Татьяна Борисовна": 142,
-      "Дерябкин Виктор Ефимович": 152,
-      "Евсеев Дмитрий Николаевич": 112,
-      "Зинченко Марина Александровна": 62,
-      "Мисан Алексей Владимирович": 286,
-      "Плотников Алексей Васильевич": 75
+      "26120002447508": 142,
+      "26120002448467": 152,
+      "26120002445262": 112,
+      "26120002450952": 62,
+      "26120002444525": 286,
+      "26120002446533": 75
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/rostov?action=show&root=1000204&tvd=26120002435642&vrn=100100225883172&region=61&global=&sub_region=61&prver=0&pronetvd=null&vibid=26120002435642&type=464",
@@ -3569,6 +4261,10 @@ export const duma_2021_uik_463_region_61_part_011 = [
       "retrievedAt": "2026-08-26T08:04:18.960108+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/rostov?action=show&root=1000204&tvd=26120002435642&vrn=100100225883172&region=61&global=&sub_region=61&prver=0&pronetvd=null&vibid=26120002435642&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 155,
+      "oikTvd": "100100225883641"
     }
   },
   {
@@ -3578,8 +4274,12 @@ export const duma_2021_uik_463_region_61_part_011 = [
     "ballot": "single-member",
     "uikNumber": 460,
     "uikTvd": "4614010910297",
+    "uikName": "УИК №460",
     "tikTvd": "26120002435642",
     "tikName": "Волгодонская городская",
+    "regionCode": "61",
+    "regionTvd": "100100225883634",
+    "regionName": "Ростовская область",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 2788,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 2500,
@@ -3595,12 +4295,12 @@ export const duma_2021_uik_463_region_61_part_011 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Белова Татьяна Борисовна": 156,
-      "Дерябкин Виктор Ефимович": 162,
-      "Евсеев Дмитрий Николаевич": 149,
-      "Зинченко Марина Александровна": 72,
-      "Мисан Алексей Владимирович": 370,
-      "Плотников Алексей Васильевич": 83
+      "26120002447508": 156,
+      "26120002448467": 162,
+      "26120002445262": 149,
+      "26120002450952": 72,
+      "26120002444525": 370,
+      "26120002446533": 83
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/rostov?action=show&root=1000204&tvd=26120002435642&vrn=100100225883172&region=61&global=&sub_region=61&prver=0&pronetvd=null&vibid=26120002435642&type=464",
@@ -3610,6 +4310,10 @@ export const duma_2021_uik_463_region_61_part_011 = [
       "retrievedAt": "2026-08-26T08:04:18.960108+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/rostov?action=show&root=1000204&tvd=26120002435642&vrn=100100225883172&region=61&global=&sub_region=61&prver=0&pronetvd=null&vibid=26120002435642&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 155,
+      "oikTvd": "100100225883641"
     }
   },
   {
@@ -3619,8 +4323,12 @@ export const duma_2021_uik_463_region_61_part_011 = [
     "ballot": "single-member",
     "uikNumber": 461,
     "uikTvd": "4614010910298",
+    "uikName": "УИК №461",
     "tikTvd": "26120002435642",
     "tikName": "Волгодонская городская",
+    "regionCode": "61",
+    "regionTvd": "100100225883634",
+    "regionName": "Ростовская область",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 2037,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 2000,
@@ -3636,12 +4344,12 @@ export const duma_2021_uik_463_region_61_part_011 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Белова Татьяна Борисовна": 120,
-      "Дерябкин Виктор Ефимович": 117,
-      "Евсеев Дмитрий Николаевич": 101,
-      "Зинченко Марина Александровна": 42,
-      "Мисан Алексей Владимирович": 281,
-      "Плотников Алексей Васильевич": 74
+      "26120002447508": 120,
+      "26120002448467": 117,
+      "26120002445262": 101,
+      "26120002450952": 42,
+      "26120002444525": 281,
+      "26120002446533": 74
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/rostov?action=show&root=1000204&tvd=26120002435642&vrn=100100225883172&region=61&global=&sub_region=61&prver=0&pronetvd=null&vibid=26120002435642&type=464",
@@ -3651,6 +4359,10 @@ export const duma_2021_uik_463_region_61_part_011 = [
       "retrievedAt": "2026-08-26T08:04:18.960108+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/rostov?action=show&root=1000204&tvd=26120002435642&vrn=100100225883172&region=61&global=&sub_region=61&prver=0&pronetvd=null&vibid=26120002435642&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 155,
+      "oikTvd": "100100225883641"
     }
   },
   {
@@ -3660,8 +4372,12 @@ export const duma_2021_uik_463_region_61_part_011 = [
     "ballot": "single-member",
     "uikNumber": 462,
     "uikTvd": "4614010910299",
+    "uikName": "УИК №462",
     "tikTvd": "26120002435642",
     "tikName": "Волгодонская городская",
+    "regionCode": "61",
+    "regionTvd": "100100225883634",
+    "regionName": "Ростовская область",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 2361,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 2500,
@@ -3677,12 +4393,12 @@ export const duma_2021_uik_463_region_61_part_011 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Белова Татьяна Борисовна": 131,
-      "Дерябкин Виктор Ефимович": 112,
-      "Евсеев Дмитрий Николаевич": 88,
-      "Зинченко Марина Александровна": 38,
-      "Мисан Алексей Владимирович": 441,
-      "Плотников Алексей Васильевич": 66
+      "26120002447508": 131,
+      "26120002448467": 112,
+      "26120002445262": 88,
+      "26120002450952": 38,
+      "26120002444525": 441,
+      "26120002446533": 66
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/rostov?action=show&root=1000204&tvd=26120002435642&vrn=100100225883172&region=61&global=&sub_region=61&prver=0&pronetvd=null&vibid=26120002435642&type=464",
@@ -3692,6 +4408,10 @@ export const duma_2021_uik_463_region_61_part_011 = [
       "retrievedAt": "2026-08-26T08:04:18.960108+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/rostov?action=show&root=1000204&tvd=26120002435642&vrn=100100225883172&region=61&global=&sub_region=61&prver=0&pronetvd=null&vibid=26120002435642&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 155,
+      "oikTvd": "100100225883641"
     }
   },
   {
@@ -3701,8 +4421,12 @@ export const duma_2021_uik_463_region_61_part_011 = [
     "ballot": "single-member",
     "uikNumber": 463,
     "uikTvd": "4614010910300",
+    "uikName": "УИК №463",
     "tikTvd": "26120002435642",
     "tikName": "Волгодонская городская",
+    "regionCode": "61",
+    "regionTvd": "100100225883634",
+    "regionName": "Ростовская область",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 2400,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 2500,
@@ -3718,12 +4442,12 @@ export const duma_2021_uik_463_region_61_part_011 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Белова Татьяна Борисовна": 120,
-      "Дерябкин Виктор Ефимович": 157,
-      "Евсеев Дмитрий Николаевич": 120,
-      "Зинченко Марина Александровна": 42,
-      "Мисан Алексей Владимирович": 341,
-      "Плотников Алексей Васильевич": 73
+      "26120002447508": 120,
+      "26120002448467": 157,
+      "26120002445262": 120,
+      "26120002450952": 42,
+      "26120002444525": 341,
+      "26120002446533": 73
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/rostov?action=show&root=1000204&tvd=26120002435642&vrn=100100225883172&region=61&global=&sub_region=61&prver=0&pronetvd=null&vibid=26120002435642&type=464",
@@ -3733,6 +4457,10 @@ export const duma_2021_uik_463_region_61_part_011 = [
       "retrievedAt": "2026-08-26T08:04:18.960108+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/rostov?action=show&root=1000204&tvd=26120002435642&vrn=100100225883172&region=61&global=&sub_region=61&prver=0&pronetvd=null&vibid=26120002435642&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 155,
+      "oikTvd": "100100225883641"
     }
   },
   {
@@ -3742,8 +4470,12 @@ export const duma_2021_uik_463_region_61_part_011 = [
     "ballot": "single-member",
     "uikNumber": 464,
     "uikTvd": "4614010910301",
+    "uikName": "УИК №464",
     "tikTvd": "26120002435642",
     "tikName": "Волгодонская городская",
+    "regionCode": "61",
+    "regionTvd": "100100225883634",
+    "regionName": "Ростовская область",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 2058,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 2000,
@@ -3759,12 +4491,12 @@ export const duma_2021_uik_463_region_61_part_011 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Белова Татьяна Борисовна": 75,
-      "Дерябкин Виктор Ефимович": 124,
-      "Евсеев Дмитрий Николаевич": 72,
-      "Зинченко Марина Александровна": 51,
-      "Мисан Алексей Владимирович": 219,
-      "Плотников Алексей Васильевич": 49
+      "26120002447508": 75,
+      "26120002448467": 124,
+      "26120002445262": 72,
+      "26120002450952": 51,
+      "26120002444525": 219,
+      "26120002446533": 49
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/rostov?action=show&root=1000204&tvd=26120002435642&vrn=100100225883172&region=61&global=&sub_region=61&prver=0&pronetvd=null&vibid=26120002435642&type=464",
@@ -3774,6 +4506,10 @@ export const duma_2021_uik_463_region_61_part_011 = [
       "retrievedAt": "2026-08-26T08:04:18.960108+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/rostov?action=show&root=1000204&tvd=26120002435642&vrn=100100225883172&region=61&global=&sub_region=61&prver=0&pronetvd=null&vibid=26120002435642&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 155,
+      "oikTvd": "100100225883641"
     }
   },
   {
@@ -3783,8 +4519,12 @@ export const duma_2021_uik_463_region_61_part_011 = [
     "ballot": "single-member",
     "uikNumber": 465,
     "uikTvd": "4614010910302",
+    "uikName": "УИК №465",
     "tikTvd": "26120002435642",
     "tikName": "Волгодонская городская",
+    "regionCode": "61",
+    "regionTvd": "100100225883634",
+    "regionName": "Ростовская область",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 2327,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 2000,
@@ -3800,12 +4540,12 @@ export const duma_2021_uik_463_region_61_part_011 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Белова Татьяна Борисовна": 113,
-      "Дерябкин Виктор Ефимович": 169,
-      "Евсеев Дмитрий Николаевич": 117,
-      "Зинченко Марина Александровна": 64,
-      "Мисан Алексей Владимирович": 314,
-      "Плотников Алексей Васильевич": 83
+      "26120002447508": 113,
+      "26120002448467": 169,
+      "26120002445262": 117,
+      "26120002450952": 64,
+      "26120002444525": 314,
+      "26120002446533": 83
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/rostov?action=show&root=1000204&tvd=26120002435642&vrn=100100225883172&region=61&global=&sub_region=61&prver=0&pronetvd=null&vibid=26120002435642&type=464",
@@ -3815,6 +4555,10 @@ export const duma_2021_uik_463_region_61_part_011 = [
       "retrievedAt": "2026-08-26T08:04:18.960108+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/rostov?action=show&root=1000204&tvd=26120002435642&vrn=100100225883172&region=61&global=&sub_region=61&prver=0&pronetvd=null&vibid=26120002435642&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 155,
+      "oikTvd": "100100225883641"
     }
   },
   {
@@ -3824,8 +4568,12 @@ export const duma_2021_uik_463_region_61_part_011 = [
     "ballot": "single-member",
     "uikNumber": 466,
     "uikTvd": "4614010910303",
+    "uikName": "УИК №466",
     "tikTvd": "26120002435642",
     "tikName": "Волгодонская городская",
+    "regionCode": "61",
+    "regionTvd": "100100225883634",
+    "regionName": "Ростовская область",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 2418,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 2500,
@@ -3841,12 +4589,12 @@ export const duma_2021_uik_463_region_61_part_011 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Белова Татьяна Борисовна": 100,
-      "Дерябкин Виктор Ефимович": 147,
-      "Евсеев Дмитрий Николаевич": 88,
-      "Зинченко Марина Александровна": 61,
-      "Мисан Алексей Владимирович": 292,
-      "Плотников Алексей Васильевич": 54
+      "26120002447508": 100,
+      "26120002448467": 147,
+      "26120002445262": 88,
+      "26120002450952": 61,
+      "26120002444525": 292,
+      "26120002446533": 54
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/rostov?action=show&root=1000204&tvd=26120002435642&vrn=100100225883172&region=61&global=&sub_region=61&prver=0&pronetvd=null&vibid=26120002435642&type=464",
@@ -3856,6 +4604,10 @@ export const duma_2021_uik_463_region_61_part_011 = [
       "retrievedAt": "2026-08-26T08:04:18.960108+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/rostov?action=show&root=1000204&tvd=26120002435642&vrn=100100225883172&region=61&global=&sub_region=61&prver=0&pronetvd=null&vibid=26120002435642&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 155,
+      "oikTvd": "100100225883641"
     }
   },
   {
@@ -3865,8 +4617,12 @@ export const duma_2021_uik_463_region_61_part_011 = [
     "ballot": "single-member",
     "uikNumber": 467,
     "uikTvd": "4614010910304",
+    "uikName": "УИК №467",
     "tikTvd": "26120002435642",
     "tikName": "Волгодонская городская",
+    "regionCode": "61",
+    "regionTvd": "100100225883634",
+    "regionName": "Ростовская область",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 2663,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 2500,
@@ -3882,12 +4638,12 @@ export const duma_2021_uik_463_region_61_part_011 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Белова Татьяна Борисовна": 160,
-      "Дерябкин Виктор Ефимович": 186,
-      "Евсеев Дмитрий Николаевич": 111,
-      "Зинченко Марина Александровна": 71,
-      "Мисан Алексей Владимирович": 377,
-      "Плотников Алексей Васильевич": 98
+      "26120002447508": 160,
+      "26120002448467": 186,
+      "26120002445262": 111,
+      "26120002450952": 71,
+      "26120002444525": 377,
+      "26120002446533": 98
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/rostov?action=show&root=1000204&tvd=26120002435642&vrn=100100225883172&region=61&global=&sub_region=61&prver=0&pronetvd=null&vibid=26120002435642&type=464",
@@ -3897,6 +4653,10 @@ export const duma_2021_uik_463_region_61_part_011 = [
       "retrievedAt": "2026-08-26T08:04:18.960108+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/rostov?action=show&root=1000204&tvd=26120002435642&vrn=100100225883172&region=61&global=&sub_region=61&prver=0&pronetvd=null&vibid=26120002435642&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 155,
+      "oikTvd": "100100225883641"
     }
   },
   {
@@ -3906,8 +4666,12 @@ export const duma_2021_uik_463_region_61_part_011 = [
     "ballot": "single-member",
     "uikNumber": 468,
     "uikTvd": "4614010910305",
+    "uikName": "УИК №468",
     "tikTvd": "26120002435642",
     "tikName": "Волгодонская городская",
+    "regionCode": "61",
+    "regionTvd": "100100225883634",
+    "regionName": "Ростовская область",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 2761,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 2500,
@@ -3923,12 +4687,12 @@ export const duma_2021_uik_463_region_61_part_011 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Белова Татьяна Борисовна": 139,
-      "Дерябкин Виктор Ефимович": 195,
-      "Евсеев Дмитрий Николаевич": 98,
-      "Зинченко Марина Александровна": 72,
-      "Мисан Алексей Владимирович": 320,
-      "Плотников Алексей Васильевич": 140
+      "26120002447508": 139,
+      "26120002448467": 195,
+      "26120002445262": 98,
+      "26120002450952": 72,
+      "26120002444525": 320,
+      "26120002446533": 140
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/rostov?action=show&root=1000204&tvd=26120002435642&vrn=100100225883172&region=61&global=&sub_region=61&prver=0&pronetvd=null&vibid=26120002435642&type=464",
@@ -3938,6 +4702,10 @@ export const duma_2021_uik_463_region_61_part_011 = [
       "retrievedAt": "2026-08-26T08:04:18.960108+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/rostov?action=show&root=1000204&tvd=26120002435642&vrn=100100225883172&region=61&global=&sub_region=61&prver=0&pronetvd=null&vibid=26120002435642&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 155,
+      "oikTvd": "100100225883641"
     }
   },
   {
@@ -3947,8 +4715,12 @@ export const duma_2021_uik_463_region_61_part_011 = [
     "ballot": "single-member",
     "uikNumber": 469,
     "uikTvd": "4614010910306",
+    "uikName": "УИК №469",
     "tikTvd": "26120002435642",
     "tikName": "Волгодонская городская",
+    "regionCode": "61",
+    "regionTvd": "100100225883634",
+    "regionName": "Ростовская область",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 2647,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 2500,
@@ -3964,12 +4736,12 @@ export const duma_2021_uik_463_region_61_part_011 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Белова Татьяна Борисовна": 152,
-      "Дерябкин Виктор Ефимович": 187,
-      "Евсеев Дмитрий Николаевич": 120,
-      "Зинченко Марина Александровна": 95,
-      "Мисан Алексей Владимирович": 344,
-      "Плотников Алексей Васильевич": 69
+      "26120002447508": 152,
+      "26120002448467": 187,
+      "26120002445262": 120,
+      "26120002450952": 95,
+      "26120002444525": 344,
+      "26120002446533": 69
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/rostov?action=show&root=1000204&tvd=26120002435642&vrn=100100225883172&region=61&global=&sub_region=61&prver=0&pronetvd=null&vibid=26120002435642&type=464",
@@ -3979,6 +4751,10 @@ export const duma_2021_uik_463_region_61_part_011 = [
       "retrievedAt": "2026-08-26T08:04:18.960108+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/rostov?action=show&root=1000204&tvd=26120002435642&vrn=100100225883172&region=61&global=&sub_region=61&prver=0&pronetvd=null&vibid=26120002435642&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 155,
+      "oikTvd": "100100225883641"
     }
   },
   {
@@ -3988,8 +4764,12 @@ export const duma_2021_uik_463_region_61_part_011 = [
     "ballot": "single-member",
     "uikNumber": 470,
     "uikTvd": "4614010910307",
+    "uikName": "УИК №470",
     "tikTvd": "26120002435642",
     "tikName": "Волгодонская городская",
+    "regionCode": "61",
+    "regionTvd": "100100225883634",
+    "regionName": "Ростовская область",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 2487,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 2500,
@@ -4005,12 +4785,12 @@ export const duma_2021_uik_463_region_61_part_011 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Белова Татьяна Борисовна": 142,
-      "Дерябкин Виктор Ефимович": 137,
-      "Евсеев Дмитрий Николаевич": 104,
-      "Зинченко Марина Александровна": 58,
-      "Мисан Алексей Владимирович": 344,
-      "Плотников Алексей Васильевич": 72
+      "26120002447508": 142,
+      "26120002448467": 137,
+      "26120002445262": 104,
+      "26120002450952": 58,
+      "26120002444525": 344,
+      "26120002446533": 72
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/rostov?action=show&root=1000204&tvd=26120002435642&vrn=100100225883172&region=61&global=&sub_region=61&prver=0&pronetvd=null&vibid=26120002435642&type=464",
@@ -4020,6 +4800,10 @@ export const duma_2021_uik_463_region_61_part_011 = [
       "retrievedAt": "2026-08-26T08:04:18.960108+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/rostov?action=show&root=1000204&tvd=26120002435642&vrn=100100225883172&region=61&global=&sub_region=61&prver=0&pronetvd=null&vibid=26120002435642&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 155,
+      "oikTvd": "100100225883641"
     }
   },
   {
@@ -4029,8 +4813,12 @@ export const duma_2021_uik_463_region_61_part_011 = [
     "ballot": "single-member",
     "uikNumber": 471,
     "uikTvd": "4614010910308",
+    "uikName": "УИК №471",
     "tikTvd": "26120002435642",
     "tikName": "Волгодонская городская",
+    "regionCode": "61",
+    "regionTvd": "100100225883634",
+    "regionName": "Ростовская область",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 2576,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 2500,
@@ -4046,12 +4834,12 @@ export const duma_2021_uik_463_region_61_part_011 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Белова Татьяна Борисовна": 118,
-      "Дерябкин Виктор Ефимович": 135,
-      "Евсеев Дмитрий Николаевич": 106,
-      "Зинченко Марина Александровна": 63,
-      "Мисан Алексей Владимирович": 389,
-      "Плотников Алексей Васильевич": 102
+      "26120002447508": 118,
+      "26120002448467": 135,
+      "26120002445262": 106,
+      "26120002450952": 63,
+      "26120002444525": 389,
+      "26120002446533": 102
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/rostov?action=show&root=1000204&tvd=26120002435642&vrn=100100225883172&region=61&global=&sub_region=61&prver=0&pronetvd=null&vibid=26120002435642&type=464",
@@ -4061,6 +4849,10 @@ export const duma_2021_uik_463_region_61_part_011 = [
       "retrievedAt": "2026-08-26T08:04:18.960108+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/rostov?action=show&root=1000204&tvd=26120002435642&vrn=100100225883172&region=61&global=&sub_region=61&prver=0&pronetvd=null&vibid=26120002435642&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 155,
+      "oikTvd": "100100225883641"
     }
   },
   {
@@ -4070,8 +4862,12 @@ export const duma_2021_uik_463_region_61_part_011 = [
     "ballot": "single-member",
     "uikNumber": 472,
     "uikTvd": "4614010910309",
+    "uikName": "УИК №472",
     "tikTvd": "26120002435642",
     "tikName": "Волгодонская городская",
+    "regionCode": "61",
+    "regionTvd": "100100225883634",
+    "regionName": "Ростовская область",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 2130,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 2000,
@@ -4087,12 +4883,12 @@ export const duma_2021_uik_463_region_61_part_011 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Белова Татьяна Борисовна": 93,
-      "Дерябкин Виктор Ефимович": 133,
-      "Евсеев Дмитрий Николаевич": 109,
-      "Зинченко Марина Александровна": 58,
-      "Мисан Алексей Владимирович": 321,
-      "Плотников Алексей Васильевич": 60
+      "26120002447508": 93,
+      "26120002448467": 133,
+      "26120002445262": 109,
+      "26120002450952": 58,
+      "26120002444525": 321,
+      "26120002446533": 60
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/rostov?action=show&root=1000204&tvd=26120002435642&vrn=100100225883172&region=61&global=&sub_region=61&prver=0&pronetvd=null&vibid=26120002435642&type=464",
@@ -4102,6 +4898,10 @@ export const duma_2021_uik_463_region_61_part_011 = [
       "retrievedAt": "2026-08-26T08:04:18.960108+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/rostov?action=show&root=1000204&tvd=26120002435642&vrn=100100225883172&region=61&global=&sub_region=61&prver=0&pronetvd=null&vibid=26120002435642&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 155,
+      "oikTvd": "100100225883641"
     }
   },
   {
@@ -4111,8 +4911,12 @@ export const duma_2021_uik_463_region_61_part_011 = [
     "ballot": "single-member",
     "uikNumber": 473,
     "uikTvd": "4614010910310",
+    "uikName": "УИК №473",
     "tikTvd": "26120002435642",
     "tikName": "Волгодонская городская",
+    "regionCode": "61",
+    "regionTvd": "100100225883634",
+    "regionName": "Ростовская область",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 2678,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 2500,
@@ -4128,12 +4932,12 @@ export const duma_2021_uik_463_region_61_part_011 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Белова Татьяна Борисовна": 76,
-      "Дерябкин Виктор Ефимович": 481,
-      "Евсеев Дмитрий Николаевич": 65,
-      "Зинченко Марина Александровна": 51,
-      "Мисан Алексей Владимирович": 254,
-      "Плотников Алексей Васильевич": 86
+      "26120002447508": 76,
+      "26120002448467": 481,
+      "26120002445262": 65,
+      "26120002450952": 51,
+      "26120002444525": 254,
+      "26120002446533": 86
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/rostov?action=show&root=1000204&tvd=26120002435642&vrn=100100225883172&region=61&global=&sub_region=61&prver=0&pronetvd=null&vibid=26120002435642&type=464",
@@ -4143,6 +4947,10 @@ export const duma_2021_uik_463_region_61_part_011 = [
       "retrievedAt": "2026-08-26T08:04:18.960108+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/rostov?action=show&root=1000204&tvd=26120002435642&vrn=100100225883172&region=61&global=&sub_region=61&prver=0&pronetvd=null&vibid=26120002435642&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 155,
+      "oikTvd": "100100225883641"
     }
   },
   {
@@ -4152,8 +4960,12 @@ export const duma_2021_uik_463_region_61_part_011 = [
     "ballot": "single-member",
     "uikNumber": 474,
     "uikTvd": "4614010910311",
+    "uikName": "УИК №474",
     "tikTvd": "26120002435642",
     "tikName": "Волгодонская городская",
+    "regionCode": "61",
+    "regionTvd": "100100225883634",
+    "regionName": "Ростовская область",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 2476,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 2500,
@@ -4169,12 +4981,12 @@ export const duma_2021_uik_463_region_61_part_011 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Белова Татьяна Борисовна": 139,
-      "Дерябкин Виктор Ефимович": 177,
-      "Евсеев Дмитрий Николаевич": 115,
-      "Зинченко Марина Александровна": 67,
-      "Мисан Алексей Владимирович": 402,
-      "Плотников Алексей Васильевич": 77
+      "26120002447508": 139,
+      "26120002448467": 177,
+      "26120002445262": 115,
+      "26120002450952": 67,
+      "26120002444525": 402,
+      "26120002446533": 77
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/rostov?action=show&root=1000204&tvd=26120002435642&vrn=100100225883172&region=61&global=&sub_region=61&prver=0&pronetvd=null&vibid=26120002435642&type=464",
@@ -4184,6 +4996,10 @@ export const duma_2021_uik_463_region_61_part_011 = [
       "retrievedAt": "2026-08-26T08:04:18.960108+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/rostov?action=show&root=1000204&tvd=26120002435642&vrn=100100225883172&region=61&global=&sub_region=61&prver=0&pronetvd=null&vibid=26120002435642&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 155,
+      "oikTvd": "100100225883641"
     }
   },
   {
@@ -4193,8 +5009,12 @@ export const duma_2021_uik_463_region_61_part_011 = [
     "ballot": "single-member",
     "uikNumber": 475,
     "uikTvd": "4614010910312",
+    "uikName": "УИК №475",
     "tikTvd": "26120002435642",
     "tikName": "Волгодонская городская",
+    "regionCode": "61",
+    "regionTvd": "100100225883634",
+    "regionName": "Ростовская область",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 2529,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 2500,
@@ -4210,12 +5030,12 @@ export const duma_2021_uik_463_region_61_part_011 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Белова Татьяна Борисовна": 101,
-      "Дерябкин Виктор Ефимович": 87,
-      "Евсеев Дмитрий Николаевич": 65,
-      "Зинченко Марина Александровна": 31,
-      "Мисан Алексей Владимирович": 424,
-      "Плотников Алексей Васильевич": 66
+      "26120002447508": 101,
+      "26120002448467": 87,
+      "26120002445262": 65,
+      "26120002450952": 31,
+      "26120002444525": 424,
+      "26120002446533": 66
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/rostov?action=show&root=1000204&tvd=26120002435642&vrn=100100225883172&region=61&global=&sub_region=61&prver=0&pronetvd=null&vibid=26120002435642&type=464",
@@ -4225,6 +5045,10 @@ export const duma_2021_uik_463_region_61_part_011 = [
       "retrievedAt": "2026-08-26T08:04:18.960108+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/rostov?action=show&root=1000204&tvd=26120002435642&vrn=100100225883172&region=61&global=&sub_region=61&prver=0&pronetvd=null&vibid=26120002435642&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 155,
+      "oikTvd": "100100225883641"
     }
   },
   {
@@ -4234,8 +5058,12 @@ export const duma_2021_uik_463_region_61_part_011 = [
     "ballot": "single-member",
     "uikNumber": 476,
     "uikTvd": "4614010910313",
+    "uikName": "УИК №476",
     "tikTvd": "26120002435642",
     "tikName": "Волгодонская городская",
+    "regionCode": "61",
+    "regionTvd": "100100225883634",
+    "regionName": "Ростовская область",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 1938,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 2000,
@@ -4251,12 +5079,12 @@ export const duma_2021_uik_463_region_61_part_011 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Белова Татьяна Борисовна": 57,
-      "Дерябкин Виктор Ефимович": 116,
-      "Евсеев Дмитрий Николаевич": 55,
-      "Зинченко Марина Александровна": 50,
-      "Мисан Алексей Владимирович": 376,
-      "Плотников Алексей Васильевич": 47
+      "26120002447508": 57,
+      "26120002448467": 116,
+      "26120002445262": 55,
+      "26120002450952": 50,
+      "26120002444525": 376,
+      "26120002446533": 47
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/rostov?action=show&root=1000204&tvd=26120002435642&vrn=100100225883172&region=61&global=&sub_region=61&prver=0&pronetvd=null&vibid=26120002435642&type=464",
@@ -4266,6 +5094,10 @@ export const duma_2021_uik_463_region_61_part_011 = [
       "retrievedAt": "2026-08-26T08:04:18.960108+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/rostov?action=show&root=1000204&tvd=26120002435642&vrn=100100225883172&region=61&global=&sub_region=61&prver=0&pronetvd=null&vibid=26120002435642&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 155,
+      "oikTvd": "100100225883641"
     }
   },
   {
@@ -4275,8 +5107,12 @@ export const duma_2021_uik_463_region_61_part_011 = [
     "ballot": "single-member",
     "uikNumber": 477,
     "uikTvd": "4614010910314",
+    "uikName": "УИК №477",
     "tikTvd": "26120002435642",
     "tikName": "Волгодонская городская",
+    "regionCode": "61",
+    "regionTvd": "100100225883634",
+    "regionName": "Ростовская область",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 1740,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 1500,
@@ -4292,12 +5128,12 @@ export const duma_2021_uik_463_region_61_part_011 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Белова Татьяна Борисовна": 87,
-      "Дерябкин Виктор Ефимович": 133,
-      "Евсеев Дмитрий Николаевич": 77,
-      "Зинченко Марина Александровна": 47,
-      "Мисан Алексей Владимирович": 206,
-      "Плотников Алексей Васильевич": 52
+      "26120002447508": 87,
+      "26120002448467": 133,
+      "26120002445262": 77,
+      "26120002450952": 47,
+      "26120002444525": 206,
+      "26120002446533": 52
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/rostov?action=show&root=1000204&tvd=26120002435642&vrn=100100225883172&region=61&global=&sub_region=61&prver=0&pronetvd=null&vibid=26120002435642&type=464",
@@ -4307,6 +5143,10 @@ export const duma_2021_uik_463_region_61_part_011 = [
       "retrievedAt": "2026-08-26T08:04:18.960108+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/rostov?action=show&root=1000204&tvd=26120002435642&vrn=100100225883172&region=61&global=&sub_region=61&prver=0&pronetvd=null&vibid=26120002435642&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 155,
+      "oikTvd": "100100225883641"
     }
   },
   {
@@ -4316,8 +5156,12 @@ export const duma_2021_uik_463_region_61_part_011 = [
     "ballot": "single-member",
     "uikNumber": 478,
     "uikTvd": "4614010910315",
+    "uikName": "УИК №478",
     "tikTvd": "26120002435642",
     "tikName": "Волгодонская городская",
+    "regionCode": "61",
+    "regionTvd": "100100225883634",
+    "regionName": "Ростовская область",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 1571,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 1500,
@@ -4333,12 +5177,12 @@ export const duma_2021_uik_463_region_61_part_011 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Белова Татьяна Борисовна": 105,
-      "Дерябкин Виктор Ефимович": 109,
-      "Евсеев Дмитрий Николаевич": 53,
-      "Зинченко Марина Александровна": 54,
-      "Мисан Алексей Владимирович": 191,
-      "Плотников Алексей Васильевич": 76
+      "26120002447508": 105,
+      "26120002448467": 109,
+      "26120002445262": 53,
+      "26120002450952": 54,
+      "26120002444525": 191,
+      "26120002446533": 76
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/rostov?action=show&root=1000204&tvd=26120002435642&vrn=100100225883172&region=61&global=&sub_region=61&prver=0&pronetvd=null&vibid=26120002435642&type=464",
@@ -4348,6 +5192,10 @@ export const duma_2021_uik_463_region_61_part_011 = [
       "retrievedAt": "2026-08-26T08:04:18.960108+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/rostov?action=show&root=1000204&tvd=26120002435642&vrn=100100225883172&region=61&global=&sub_region=61&prver=0&pronetvd=null&vibid=26120002435642&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 155,
+      "oikTvd": "100100225883641"
     }
   },
   {
@@ -4357,8 +5205,12 @@ export const duma_2021_uik_463_region_61_part_011 = [
     "ballot": "single-member",
     "uikNumber": 479,
     "uikTvd": "4614010910316",
+    "uikName": "УИК №479",
     "tikTvd": "26120002435642",
     "tikName": "Волгодонская городская",
+    "regionCode": "61",
+    "regionTvd": "100100225883634",
+    "regionName": "Ростовская область",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 1445,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 1500,
@@ -4374,12 +5226,12 @@ export const duma_2021_uik_463_region_61_part_011 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Белова Татьяна Борисовна": 71,
-      "Дерябкин Виктор Ефимович": 92,
-      "Евсеев Дмитрий Николаевич": 53,
-      "Зинченко Марина Александровна": 31,
-      "Мисан Алексей Владимирович": 192,
-      "Плотников Алексей Васильевич": 57
+      "26120002447508": 71,
+      "26120002448467": 92,
+      "26120002445262": 53,
+      "26120002450952": 31,
+      "26120002444525": 192,
+      "26120002446533": 57
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/rostov?action=show&root=1000204&tvd=26120002435642&vrn=100100225883172&region=61&global=&sub_region=61&prver=0&pronetvd=null&vibid=26120002435642&type=464",
@@ -4389,6 +5241,10 @@ export const duma_2021_uik_463_region_61_part_011 = [
       "retrievedAt": "2026-08-26T08:04:18.960108+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/rostov?action=show&root=1000204&tvd=26120002435642&vrn=100100225883172&region=61&global=&sub_region=61&prver=0&pronetvd=null&vibid=26120002435642&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 155,
+      "oikTvd": "100100225883641"
     }
   },
   {
@@ -4398,8 +5254,12 @@ export const duma_2021_uik_463_region_61_part_011 = [
     "ballot": "single-member",
     "uikNumber": 480,
     "uikTvd": "4614010910317",
+    "uikName": "УИК №480",
     "tikTvd": "26120002435642",
     "tikName": "Волгодонская городская",
+    "regionCode": "61",
+    "regionTvd": "100100225883634",
+    "regionName": "Ростовская область",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 2446,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 2500,
@@ -4415,12 +5275,12 @@ export const duma_2021_uik_463_region_61_part_011 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Белова Татьяна Борисовна": 115,
-      "Дерябкин Виктор Ефимович": 181,
-      "Евсеев Дмитрий Николаевич": 133,
-      "Зинченко Марина Александровна": 67,
-      "Мисан Алексей Владимирович": 311,
-      "Плотников Алексей Васильевич": 111
+      "26120002447508": 115,
+      "26120002448467": 181,
+      "26120002445262": 133,
+      "26120002450952": 67,
+      "26120002444525": 311,
+      "26120002446533": 111
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/rostov?action=show&root=1000204&tvd=26120002435642&vrn=100100225883172&region=61&global=&sub_region=61&prver=0&pronetvd=null&vibid=26120002435642&type=464",
@@ -4430,6 +5290,10 @@ export const duma_2021_uik_463_region_61_part_011 = [
       "retrievedAt": "2026-08-26T08:04:18.960108+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/rostov?action=show&root=1000204&tvd=26120002435642&vrn=100100225883172&region=61&global=&sub_region=61&prver=0&pronetvd=null&vibid=26120002435642&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 155,
+      "oikTvd": "100100225883641"
     }
   },
   {
@@ -4439,8 +5303,12 @@ export const duma_2021_uik_463_region_61_part_011 = [
     "ballot": "single-member",
     "uikNumber": 481,
     "uikTvd": "4614010910318",
+    "uikName": "УИК №481",
     "tikTvd": "26120002435642",
     "tikName": "Волгодонская городская",
+    "regionCode": "61",
+    "regionTvd": "100100225883634",
+    "regionName": "Ростовская область",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 2435,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 2500,
@@ -4456,12 +5324,12 @@ export const duma_2021_uik_463_region_61_part_011 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Белова Татьяна Борисовна": 120,
-      "Дерябкин Виктор Ефимович": 185,
-      "Евсеев Дмитрий Николаевич": 122,
-      "Зинченко Марина Александровна": 74,
-      "Мисан Алексей Владимирович": 281,
-      "Плотников Алексей Васильевич": 110
+      "26120002447508": 120,
+      "26120002448467": 185,
+      "26120002445262": 122,
+      "26120002450952": 74,
+      "26120002444525": 281,
+      "26120002446533": 110
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/rostov?action=show&root=1000204&tvd=26120002435642&vrn=100100225883172&region=61&global=&sub_region=61&prver=0&pronetvd=null&vibid=26120002435642&type=464",
@@ -4471,6 +5339,10 @@ export const duma_2021_uik_463_region_61_part_011 = [
       "retrievedAt": "2026-08-26T08:04:18.960108+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/rostov?action=show&root=1000204&tvd=26120002435642&vrn=100100225883172&region=61&global=&sub_region=61&prver=0&pronetvd=null&vibid=26120002435642&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 155,
+      "oikTvd": "100100225883641"
     }
   },
   {
@@ -4480,8 +5352,12 @@ export const duma_2021_uik_463_region_61_part_011 = [
     "ballot": "single-member",
     "uikNumber": 8085,
     "uikTvd": "4614010923685",
+    "uikName": "УИК №8085",
     "tikTvd": "26120002435642",
     "tikName": "Волгодонская городская",
+    "regionCode": "61",
+    "regionTvd": "100100225883634",
+    "regionName": "Ростовская область",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 120,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 580,
@@ -4497,12 +5373,12 @@ export const duma_2021_uik_463_region_61_part_011 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Белова Татьяна Борисовна": 17,
-      "Дерябкин Виктор Ефимович": 45,
-      "Евсеев Дмитрий Николаевич": 9,
-      "Зинченко Марина Александровна": 19,
-      "Мисан Алексей Владимирович": 12,
-      "Плотников Алексей Васильевич": 4
+      "26120002447508": 17,
+      "26120002448467": 45,
+      "26120002445262": 9,
+      "26120002450952": 19,
+      "26120002444525": 12,
+      "26120002446533": 4
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/rostov?action=show&root=1000204&tvd=26120002435642&vrn=100100225883172&region=61&global=&sub_region=61&prver=0&pronetvd=null&vibid=26120002435642&type=464",
@@ -4512,6 +5388,10 @@ export const duma_2021_uik_463_region_61_part_011 = [
       "retrievedAt": "2026-08-26T08:04:18.960108+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/rostov?action=show&root=1000204&tvd=26120002435642&vrn=100100225883172&region=61&global=&sub_region=61&prver=0&pronetvd=null&vibid=26120002435642&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 155,
+      "oikTvd": "100100225883641"
     }
   },
   {
@@ -4521,8 +5401,12 @@ export const duma_2021_uik_463_region_61_part_011 = [
     "ballot": "single-member",
     "uikNumber": 8088,
     "uikTvd": "4614010923686",
+    "uikName": "УИК №8088",
     "tikTvd": "26120002435642",
     "tikName": "Волгодонская городская",
+    "regionCode": "61",
+    "regionTvd": "100100225883634",
+    "regionName": "Ростовская область",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 116,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 980,
@@ -4538,12 +5422,12 @@ export const duma_2021_uik_463_region_61_part_011 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Белова Татьяна Борисовна": 15,
-      "Дерябкин Виктор Ефимович": 23,
-      "Евсеев Дмитрий Николаевич": 4,
-      "Зинченко Марина Александровна": 15,
-      "Мисан Алексей Владимирович": 39,
-      "Плотников Алексей Васильевич": 7
+      "26120002447508": 15,
+      "26120002448467": 23,
+      "26120002445262": 4,
+      "26120002450952": 15,
+      "26120002444525": 39,
+      "26120002446533": 7
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/rostov?action=show&root=1000204&tvd=26120002435642&vrn=100100225883172&region=61&global=&sub_region=61&prver=0&pronetvd=null&vibid=26120002435642&type=464",
@@ -4553,6 +5437,10 @@ export const duma_2021_uik_463_region_61_part_011 = [
       "retrievedAt": "2026-08-26T08:04:18.960108+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/rostov?action=show&root=1000204&tvd=26120002435642&vrn=100100225883172&region=61&global=&sub_region=61&prver=0&pronetvd=null&vibid=26120002435642&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 155,
+      "oikTvd": "100100225883641"
     }
   },
   {
@@ -4562,8 +5450,12 @@ export const duma_2021_uik_463_region_61_part_011 = [
     "ballot": "single-member",
     "uikNumber": 8089,
     "uikTvd": "4614010923687",
+    "uikName": "УИК №8089",
     "tikTvd": "26120002435642",
     "tikName": "Волгодонская городская",
+    "regionCode": "61",
+    "regionTvd": "100100225883634",
+    "regionName": "Ростовская область",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 131,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 1480,
@@ -4579,12 +5471,12 @@ export const duma_2021_uik_463_region_61_part_011 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Белова Татьяна Борисовна": 16,
-      "Дерябкин Виктор Ефимович": 32,
-      "Евсеев Дмитрий Николаевич": 14,
-      "Зинченко Марина Александровна": 9,
-      "Мисан Алексей Владимирович": 49,
-      "Плотников Алексей Васильевич": 9
+      "26120002447508": 16,
+      "26120002448467": 32,
+      "26120002445262": 14,
+      "26120002450952": 9,
+      "26120002444525": 49,
+      "26120002446533": 9
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/rostov?action=show&root=1000204&tvd=26120002435642&vrn=100100225883172&region=61&global=&sub_region=61&prver=0&pronetvd=null&vibid=26120002435642&type=464",
@@ -4594,6 +5486,10 @@ export const duma_2021_uik_463_region_61_part_011 = [
       "retrievedAt": "2026-08-26T08:04:18.960108+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/rostov?action=show&root=1000204&tvd=26120002435642&vrn=100100225883172&region=61&global=&sub_region=61&prver=0&pronetvd=null&vibid=26120002435642&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 155,
+      "oikTvd": "100100225883641"
     }
   },
   {
@@ -4603,8 +5499,12 @@ export const duma_2021_uik_463_region_61_part_011 = [
     "ballot": "single-member",
     "uikNumber": 8097,
     "uikTvd": "4614010923688",
+    "uikName": "УИК №8097",
     "tikTvd": "26120002435642",
     "tikName": "Волгодонская городская",
+    "regionCode": "61",
+    "regionTvd": "100100225883634",
+    "regionName": "Ростовская область",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 11,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 760,
@@ -4620,12 +5520,12 @@ export const duma_2021_uik_463_region_61_part_011 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Белова Татьяна Борисовна": 3,
-      "Дерябкин Виктор Ефимович": 3,
-      "Евсеев Дмитрий Николаевич": 2,
-      "Зинченко Марина Александровна": 0,
-      "Мисан Алексей Владимирович": 3,
-      "Плотников Алексей Васильевич": 0
+      "26120002447508": 3,
+      "26120002448467": 3,
+      "26120002445262": 2,
+      "26120002450952": 0,
+      "26120002444525": 3,
+      "26120002446533": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/rostov?action=show&root=1000204&tvd=26120002435642&vrn=100100225883172&region=61&global=&sub_region=61&prver=0&pronetvd=null&vibid=26120002435642&type=464",
@@ -4635,6 +5535,10 @@ export const duma_2021_uik_463_region_61_part_011 = [
       "retrievedAt": "2026-08-26T08:04:18.960108+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/rostov?action=show&root=1000204&tvd=26120002435642&vrn=100100225883172&region=61&global=&sub_region=61&prver=0&pronetvd=null&vibid=26120002435642&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 155,
+      "oikTvd": "100100225883641"
     }
   },
   {
@@ -4644,8 +5548,12 @@ export const duma_2021_uik_463_region_61_part_011 = [
     "ballot": "single-member",
     "uikNumber": 8346,
     "uikTvd": "4614010923689",
+    "uikName": "УИК №8346",
     "tikTvd": "26120002435642",
     "tikName": "Волгодонская городская",
+    "regionCode": "61",
+    "regionTvd": "100100225883634",
+    "regionName": "Ростовская область",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 262,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 1650,
@@ -4661,12 +5569,12 @@ export const duma_2021_uik_463_region_61_part_011 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Белова Татьяна Борисовна": 17,
-      "Дерябкин Виктор Ефимович": 103,
-      "Евсеев Дмитрий Николаевич": 23,
-      "Зинченко Марина Александровна": 15,
-      "Мисан Алексей Владимирович": 74,
-      "Плотников Алексей Васильевич": 21
+      "26120002447508": 17,
+      "26120002448467": 103,
+      "26120002445262": 23,
+      "26120002450952": 15,
+      "26120002444525": 74,
+      "26120002446533": 21
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/rostov?action=show&root=1000204&tvd=26120002435642&vrn=100100225883172&region=61&global=&sub_region=61&prver=0&pronetvd=null&vibid=26120002435642&type=464",
@@ -4676,6 +5584,10 @@ export const duma_2021_uik_463_region_61_part_011 = [
       "retrievedAt": "2026-08-26T08:04:18.960108+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/rostov?action=show&root=1000204&tvd=26120002435642&vrn=100100225883172&region=61&global=&sub_region=61&prver=0&pronetvd=null&vibid=26120002435642&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 155,
+      "oikTvd": "100100225883641"
     }
   }
 ] satisfies readonly UikProtocol[];

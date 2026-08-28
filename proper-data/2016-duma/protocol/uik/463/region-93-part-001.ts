@@ -43,15 +43,15 @@ export const duma_2016_uik_463_region_93_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Беккер Олег Ефимович": 9,
-      "Боушев Владимир Геннадьевич": 14,
-      "Лебедева Наталья Николаевна": 13,
-      "Савченко Светлана Борисовна": 273,
-      "Силиверстов Игорь Витальевич": 5,
-      "Соломахин Олег Андреевич": 46,
-      "Тарасов Валерий Иванович": 6,
-      "Шперов Павел Валентинович": 58,
-      "Шуба Дмитрий Евгеньевич": 9
+      "gas:candidate-vibid:493400789838": 9,
+      "gas:candidate-vibid:493400789985": 14,
+      "gas:candidate-vibid:493400790200": 13,
+      "gas:candidate-vibid:493400789970": 273,
+      "gas:candidate-vibid:493400790187": 5,
+      "gas:candidate-vibid:493400789816": 46,
+      "gas:candidate-vibid:493400790106": 6,
+      "gas:candidate-vibid:493400789642": 58,
+      "gas:candidate-vibid:493400789940": 9
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/crimea?action=show&root=1000308&tvd=493400789225&vrn=100100067795849&region=93&global=&sub_region=93&prver=0&pronetvd=null&vibid=493400789225&type=464",
@@ -102,15 +102,15 @@ export const duma_2016_uik_463_region_93_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Беккер Олег Ефимович": 17,
-      "Боушев Владимир Геннадьевич": 6,
-      "Лебедева Наталья Николаевна": 13,
-      "Савченко Светлана Борисовна": 638,
-      "Силиверстов Игорь Витальевич": 3,
-      "Соломахин Олег Андреевич": 69,
-      "Тарасов Валерий Иванович": 14,
-      "Шперов Павел Валентинович": 114,
-      "Шуба Дмитрий Евгеньевич": 8
+      "gas:candidate-vibid:493400789838": 17,
+      "gas:candidate-vibid:493400789985": 6,
+      "gas:candidate-vibid:493400790200": 13,
+      "gas:candidate-vibid:493400789970": 638,
+      "gas:candidate-vibid:493400790187": 3,
+      "gas:candidate-vibid:493400789816": 69,
+      "gas:candidate-vibid:493400790106": 14,
+      "gas:candidate-vibid:493400789642": 114,
+      "gas:candidate-vibid:493400789940": 8
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/crimea?action=show&root=1000308&tvd=493400789225&vrn=100100067795849&region=93&global=&sub_region=93&prver=0&pronetvd=null&vibid=493400789225&type=464",
@@ -161,15 +161,15 @@ export const duma_2016_uik_463_region_93_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Беккер Олег Ефимович": 32,
-      "Боушев Владимир Геннадьевич": 13,
-      "Лебедева Наталья Николаевна": 21,
-      "Савченко Светлана Борисовна": 543,
-      "Силиверстов Игорь Витальевич": 11,
-      "Соломахин Олег Андреевич": 65,
-      "Тарасов Валерий Иванович": 19,
-      "Шперов Павел Валентинович": 99,
-      "Шуба Дмитрий Евгеньевич": 11
+      "gas:candidate-vibid:493400789838": 32,
+      "gas:candidate-vibid:493400789985": 13,
+      "gas:candidate-vibid:493400790200": 21,
+      "gas:candidate-vibid:493400789970": 543,
+      "gas:candidate-vibid:493400790187": 11,
+      "gas:candidate-vibid:493400789816": 65,
+      "gas:candidate-vibid:493400790106": 19,
+      "gas:candidate-vibid:493400789642": 99,
+      "gas:candidate-vibid:493400789940": 11
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/crimea?action=show&root=1000308&tvd=493400789225&vrn=100100067795849&region=93&global=&sub_region=93&prver=0&pronetvd=null&vibid=493400789225&type=464",
@@ -220,15 +220,15 @@ export const duma_2016_uik_463_region_93_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Беккер Олег Ефимович": 14,
-      "Боушев Владимир Геннадьевич": 14,
-      "Лебедева Наталья Николаевна": 19,
-      "Савченко Светлана Борисовна": 433,
-      "Силиверстов Игорь Витальевич": 10,
-      "Соломахин Олег Андреевич": 91,
-      "Тарасов Валерий Иванович": 6,
-      "Шперов Павел Валентинович": 73,
-      "Шуба Дмитрий Евгеньевич": 15
+      "gas:candidate-vibid:493400789838": 14,
+      "gas:candidate-vibid:493400789985": 14,
+      "gas:candidate-vibid:493400790200": 19,
+      "gas:candidate-vibid:493400789970": 433,
+      "gas:candidate-vibid:493400790187": 10,
+      "gas:candidate-vibid:493400789816": 91,
+      "gas:candidate-vibid:493400790106": 6,
+      "gas:candidate-vibid:493400789642": 73,
+      "gas:candidate-vibid:493400789940": 15
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/crimea?action=show&root=1000308&tvd=493400789225&vrn=100100067795849&region=93&global=&sub_region=93&prver=0&pronetvd=null&vibid=493400789225&type=464",
@@ -279,15 +279,15 @@ export const duma_2016_uik_463_region_93_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Беккер Олег Ефимович": 32,
-      "Боушев Владимир Геннадьевич": 13,
-      "Лебедева Наталья Николаевна": 25,
-      "Савченко Светлана Борисовна": 421,
-      "Силиверстов Игорь Витальевич": 15,
-      "Соломахин Олег Андреевич": 89,
-      "Тарасов Валерий Иванович": 22,
-      "Шперов Павел Валентинович": 99,
-      "Шуба Дмитрий Евгеньевич": 12
+      "gas:candidate-vibid:493400789838": 32,
+      "gas:candidate-vibid:493400789985": 13,
+      "gas:candidate-vibid:493400790200": 25,
+      "gas:candidate-vibid:493400789970": 421,
+      "gas:candidate-vibid:493400790187": 15,
+      "gas:candidate-vibid:493400789816": 89,
+      "gas:candidate-vibid:493400790106": 22,
+      "gas:candidate-vibid:493400789642": 99,
+      "gas:candidate-vibid:493400789940": 12
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/crimea?action=show&root=1000308&tvd=493400789225&vrn=100100067795849&region=93&global=&sub_region=93&prver=0&pronetvd=null&vibid=493400789225&type=464",
@@ -338,15 +338,15 @@ export const duma_2016_uik_463_region_93_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Беккер Олег Ефимович": 31,
-      "Боушев Владимир Геннадьевич": 15,
-      "Лебедева Наталья Николаевна": 23,
-      "Савченко Светлана Борисовна": 559,
-      "Силиверстов Игорь Витальевич": 9,
-      "Соломахин Олег Андреевич": 91,
-      "Тарасов Валерий Иванович": 18,
-      "Шперов Павел Валентинович": 78,
-      "Шуба Дмитрий Евгеньевич": 10
+      "gas:candidate-vibid:493400789838": 31,
+      "gas:candidate-vibid:493400789985": 15,
+      "gas:candidate-vibid:493400790200": 23,
+      "gas:candidate-vibid:493400789970": 559,
+      "gas:candidate-vibid:493400790187": 9,
+      "gas:candidate-vibid:493400789816": 91,
+      "gas:candidate-vibid:493400790106": 18,
+      "gas:candidate-vibid:493400789642": 78,
+      "gas:candidate-vibid:493400789940": 10
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/crimea?action=show&root=1000308&tvd=493400789225&vrn=100100067795849&region=93&global=&sub_region=93&prver=0&pronetvd=null&vibid=493400789225&type=464",
@@ -397,15 +397,15 @@ export const duma_2016_uik_463_region_93_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Беккер Олег Ефимович": 48,
-      "Боушев Владимир Геннадьевич": 12,
-      "Лебедева Наталья Николаевна": 35,
-      "Савченко Светлана Борисовна": 529,
-      "Силиверстов Игорь Витальевич": 9,
-      "Соломахин Олег Андреевич": 85,
-      "Тарасов Валерий Иванович": 42,
-      "Шперов Павел Валентинович": 104,
-      "Шуба Дмитрий Евгеньевич": 18
+      "gas:candidate-vibid:493400789838": 48,
+      "gas:candidate-vibid:493400789985": 12,
+      "gas:candidate-vibid:493400790200": 35,
+      "gas:candidate-vibid:493400789970": 529,
+      "gas:candidate-vibid:493400790187": 9,
+      "gas:candidate-vibid:493400789816": 85,
+      "gas:candidate-vibid:493400790106": 42,
+      "gas:candidate-vibid:493400789642": 104,
+      "gas:candidate-vibid:493400789940": 18
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/crimea?action=show&root=1000308&tvd=493400789225&vrn=100100067795849&region=93&global=&sub_region=93&prver=0&pronetvd=null&vibid=493400789225&type=464",
@@ -456,15 +456,15 @@ export const duma_2016_uik_463_region_93_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Беккер Олег Ефимович": 34,
-      "Боушев Владимир Геннадьевич": 21,
-      "Лебедева Наталья Николаевна": 26,
-      "Савченко Светлана Борисовна": 510,
-      "Силиверстов Игорь Витальевич": 4,
-      "Соломахин Олег Андреевич": 100,
-      "Тарасов Валерий Иванович": 14,
-      "Шперов Павел Валентинович": 91,
-      "Шуба Дмитрий Евгеньевич": 16
+      "gas:candidate-vibid:493400789838": 34,
+      "gas:candidate-vibid:493400789985": 21,
+      "gas:candidate-vibid:493400790200": 26,
+      "gas:candidate-vibid:493400789970": 510,
+      "gas:candidate-vibid:493400790187": 4,
+      "gas:candidate-vibid:493400789816": 100,
+      "gas:candidate-vibid:493400790106": 14,
+      "gas:candidate-vibid:493400789642": 91,
+      "gas:candidate-vibid:493400789940": 16
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/crimea?action=show&root=1000308&tvd=493400789225&vrn=100100067795849&region=93&global=&sub_region=93&prver=0&pronetvd=null&vibid=493400789225&type=464",
@@ -515,15 +515,15 @@ export const duma_2016_uik_463_region_93_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Беккер Олег Ефимович": 30,
-      "Боушев Владимир Геннадьевич": 15,
-      "Лебедева Наталья Николаевна": 15,
-      "Савченко Светлана Борисовна": 423,
-      "Силиверстов Игорь Витальевич": 4,
-      "Соломахин Олег Андреевич": 91,
-      "Тарасов Валерий Иванович": 15,
-      "Шперов Павел Валентинович": 96,
-      "Шуба Дмитрий Евгеньевич": 12
+      "gas:candidate-vibid:493400789838": 30,
+      "gas:candidate-vibid:493400789985": 15,
+      "gas:candidate-vibid:493400790200": 15,
+      "gas:candidate-vibid:493400789970": 423,
+      "gas:candidate-vibid:493400790187": 4,
+      "gas:candidate-vibid:493400789816": 91,
+      "gas:candidate-vibid:493400790106": 15,
+      "gas:candidate-vibid:493400789642": 96,
+      "gas:candidate-vibid:493400789940": 12
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/crimea?action=show&root=1000308&tvd=493400789225&vrn=100100067795849&region=93&global=&sub_region=93&prver=0&pronetvd=null&vibid=493400789225&type=464",
@@ -574,15 +574,15 @@ export const duma_2016_uik_463_region_93_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Беккер Олег Ефимович": 50,
-      "Боушев Владимир Геннадьевич": 24,
-      "Лебедева Наталья Николаевна": 42,
-      "Савченко Светлана Борисовна": 619,
-      "Силиверстов Игорь Витальевич": 11,
-      "Соломахин Олег Андреевич": 127,
-      "Тарасов Валерий Иванович": 24,
-      "Шперов Павел Валентинович": 106,
-      "Шуба Дмитрий Евгеньевич": 17
+      "gas:candidate-vibid:493400789838": 50,
+      "gas:candidate-vibid:493400789985": 24,
+      "gas:candidate-vibid:493400790200": 42,
+      "gas:candidate-vibid:493400789970": 619,
+      "gas:candidate-vibid:493400790187": 11,
+      "gas:candidate-vibid:493400789816": 127,
+      "gas:candidate-vibid:493400790106": 24,
+      "gas:candidate-vibid:493400789642": 106,
+      "gas:candidate-vibid:493400789940": 17
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/crimea?action=show&root=1000308&tvd=493400789225&vrn=100100067795849&region=93&global=&sub_region=93&prver=0&pronetvd=null&vibid=493400789225&type=464",
@@ -633,15 +633,15 @@ export const duma_2016_uik_463_region_93_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Беккер Олег Ефимович": 25,
-      "Боушев Владимир Геннадьевич": 13,
-      "Лебедева Наталья Николаевна": 12,
-      "Савченко Светлана Борисовна": 387,
-      "Силиверстов Игорь Витальевич": 6,
-      "Соломахин Олег Андреевич": 85,
-      "Тарасов Валерий Иванович": 16,
-      "Шперов Павел Валентинович": 76,
-      "Шуба Дмитрий Евгеньевич": 10
+      "gas:candidate-vibid:493400789838": 25,
+      "gas:candidate-vibid:493400789985": 13,
+      "gas:candidate-vibid:493400790200": 12,
+      "gas:candidate-vibid:493400789970": 387,
+      "gas:candidate-vibid:493400790187": 6,
+      "gas:candidate-vibid:493400789816": 85,
+      "gas:candidate-vibid:493400790106": 16,
+      "gas:candidate-vibid:493400789642": 76,
+      "gas:candidate-vibid:493400789940": 10
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/crimea?action=show&root=1000308&tvd=493400789225&vrn=100100067795849&region=93&global=&sub_region=93&prver=0&pronetvd=null&vibid=493400789225&type=464",
@@ -692,15 +692,15 @@ export const duma_2016_uik_463_region_93_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Беккер Олег Ефимович": 19,
-      "Боушев Владимир Геннадьевич": 21,
-      "Лебедева Наталья Николаевна": 7,
-      "Савченко Светлана Борисовна": 380,
-      "Силиверстов Игорь Витальевич": 8,
-      "Соломахин Олег Андреевич": 82,
-      "Тарасов Валерий Иванович": 12,
-      "Шперов Павел Валентинович": 73,
-      "Шуба Дмитрий Евгеньевич": 7
+      "gas:candidate-vibid:493400789838": 19,
+      "gas:candidate-vibid:493400789985": 21,
+      "gas:candidate-vibid:493400790200": 7,
+      "gas:candidate-vibid:493400789970": 380,
+      "gas:candidate-vibid:493400790187": 8,
+      "gas:candidate-vibid:493400789816": 82,
+      "gas:candidate-vibid:493400790106": 12,
+      "gas:candidate-vibid:493400789642": 73,
+      "gas:candidate-vibid:493400789940": 7
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/crimea?action=show&root=1000308&tvd=493400789225&vrn=100100067795849&region=93&global=&sub_region=93&prver=0&pronetvd=null&vibid=493400789225&type=464",
@@ -751,15 +751,15 @@ export const duma_2016_uik_463_region_93_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Беккер Олег Ефимович": 26,
-      "Боушев Владимир Геннадьевич": 20,
-      "Лебедева Наталья Николаевна": 25,
-      "Савченко Светлана Борисовна": 613,
-      "Силиверстов Игорь Витальевич": 6,
-      "Соломахин Олег Андреевич": 65,
-      "Тарасов Валерий Иванович": 7,
-      "Шперов Павел Валентинович": 102,
-      "Шуба Дмитрий Евгеньевич": 12
+      "gas:candidate-vibid:493400789838": 26,
+      "gas:candidate-vibid:493400789985": 20,
+      "gas:candidate-vibid:493400790200": 25,
+      "gas:candidate-vibid:493400789970": 613,
+      "gas:candidate-vibid:493400790187": 6,
+      "gas:candidate-vibid:493400789816": 65,
+      "gas:candidate-vibid:493400790106": 7,
+      "gas:candidate-vibid:493400789642": 102,
+      "gas:candidate-vibid:493400789940": 12
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/crimea?action=show&root=1000308&tvd=493400789225&vrn=100100067795849&region=93&global=&sub_region=93&prver=0&pronetvd=null&vibid=493400789225&type=464",
@@ -810,15 +810,15 @@ export const duma_2016_uik_463_region_93_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Беккер Олег Ефимович": 32,
-      "Боушев Владимир Геннадьевич": 33,
-      "Лебедева Наталья Николаевна": 22,
-      "Савченко Светлана Борисовна": 595,
-      "Силиверстов Игорь Витальевич": 8,
-      "Соломахин Олег Андреевич": 85,
-      "Тарасов Валерий Иванович": 16,
-      "Шперов Павел Валентинович": 113,
-      "Шуба Дмитрий Евгеньевич": 20
+      "gas:candidate-vibid:493400789838": 32,
+      "gas:candidate-vibid:493400789985": 33,
+      "gas:candidate-vibid:493400790200": 22,
+      "gas:candidate-vibid:493400789970": 595,
+      "gas:candidate-vibid:493400790187": 8,
+      "gas:candidate-vibid:493400789816": 85,
+      "gas:candidate-vibid:493400790106": 16,
+      "gas:candidate-vibid:493400789642": 113,
+      "gas:candidate-vibid:493400789940": 20
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/crimea?action=show&root=1000308&tvd=493400789225&vrn=100100067795849&region=93&global=&sub_region=93&prver=0&pronetvd=null&vibid=493400789225&type=464",
@@ -869,15 +869,15 @@ export const duma_2016_uik_463_region_93_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Беккер Олег Ефимович": 21,
-      "Боушев Владимир Геннадьевич": 9,
-      "Лебедева Наталья Николаевна": 23,
-      "Савченко Светлана Борисовна": 484,
-      "Силиверстов Игорь Витальевич": 4,
-      "Соломахин Олег Андреевич": 77,
-      "Тарасов Валерий Иванович": 19,
-      "Шперов Павел Валентинович": 92,
-      "Шуба Дмитрий Евгеньевич": 11
+      "gas:candidate-vibid:493400789838": 21,
+      "gas:candidate-vibid:493400789985": 9,
+      "gas:candidate-vibid:493400790200": 23,
+      "gas:candidate-vibid:493400789970": 484,
+      "gas:candidate-vibid:493400790187": 4,
+      "gas:candidate-vibid:493400789816": 77,
+      "gas:candidate-vibid:493400790106": 19,
+      "gas:candidate-vibid:493400789642": 92,
+      "gas:candidate-vibid:493400789940": 11
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/crimea?action=show&root=1000308&tvd=493400789225&vrn=100100067795849&region=93&global=&sub_region=93&prver=0&pronetvd=null&vibid=493400789225&type=464",
@@ -928,15 +928,15 @@ export const duma_2016_uik_463_region_93_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Беккер Олег Ефимович": 58,
-      "Боушев Владимир Геннадьевич": 55,
-      "Лебедева Наталья Николаевна": 85,
-      "Савченко Светлана Борисовна": 748,
-      "Силиверстов Игорь Витальевич": 33,
-      "Соломахин Олег Андреевич": 147,
-      "Тарасов Валерий Иванович": 0,
-      "Шперов Павел Валентинович": 94,
-      "Шуба Дмитрий Евгеньевич": 26
+      "gas:candidate-vibid:493400789838": 58,
+      "gas:candidate-vibid:493400789985": 55,
+      "gas:candidate-vibid:493400790200": 85,
+      "gas:candidate-vibid:493400789970": 748,
+      "gas:candidate-vibid:493400790187": 33,
+      "gas:candidate-vibid:493400789816": 147,
+      "gas:candidate-vibid:493400790106": 0,
+      "gas:candidate-vibid:493400789642": 94,
+      "gas:candidate-vibid:493400789940": 26
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/crimea?action=show&root=1000308&tvd=493400789225&vrn=100100067795849&region=93&global=&sub_region=93&prver=0&pronetvd=null&vibid=493400789225&type=464",
@@ -987,15 +987,15 @@ export const duma_2016_uik_463_region_93_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Беккер Олег Ефимович": 22,
-      "Боушев Владимир Геннадьевич": 7,
-      "Лебедева Наталья Николаевна": 19,
-      "Савченко Светлана Борисовна": 448,
-      "Силиверстов Игорь Витальевич": 9,
-      "Соломахин Олег Андреевич": 68,
-      "Тарасов Валерий Иванович": 17,
-      "Шперов Павел Валентинович": 78,
-      "Шуба Дмитрий Евгеньевич": 11
+      "gas:candidate-vibid:493400789838": 22,
+      "gas:candidate-vibid:493400789985": 7,
+      "gas:candidate-vibid:493400790200": 19,
+      "gas:candidate-vibid:493400789970": 448,
+      "gas:candidate-vibid:493400790187": 9,
+      "gas:candidate-vibid:493400789816": 68,
+      "gas:candidate-vibid:493400790106": 17,
+      "gas:candidate-vibid:493400789642": 78,
+      "gas:candidate-vibid:493400789940": 11
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/crimea?action=show&root=1000308&tvd=493400789225&vrn=100100067795849&region=93&global=&sub_region=93&prver=0&pronetvd=null&vibid=493400789225&type=464",
@@ -1046,15 +1046,15 @@ export const duma_2016_uik_463_region_93_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Беккер Олег Ефимович": 26,
-      "Боушев Владимир Геннадьевич": 13,
-      "Лебедева Наталья Николаевна": 20,
-      "Савченко Светлана Борисовна": 475,
-      "Силиверстов Игорь Витальевич": 7,
-      "Соломахин Олег Андреевич": 71,
-      "Тарасов Валерий Иванович": 13,
-      "Шперов Павел Валентинович": 103,
-      "Шуба Дмитрий Евгеньевич": 10
+      "gas:candidate-vibid:493400789838": 26,
+      "gas:candidate-vibid:493400789985": 13,
+      "gas:candidate-vibid:493400790200": 20,
+      "gas:candidate-vibid:493400789970": 475,
+      "gas:candidate-vibid:493400790187": 7,
+      "gas:candidate-vibid:493400789816": 71,
+      "gas:candidate-vibid:493400790106": 13,
+      "gas:candidate-vibid:493400789642": 103,
+      "gas:candidate-vibid:493400789940": 10
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/crimea?action=show&root=1000308&tvd=493400789225&vrn=100100067795849&region=93&global=&sub_region=93&prver=0&pronetvd=null&vibid=493400789225&type=464",
@@ -1105,15 +1105,15 @@ export const duma_2016_uik_463_region_93_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Беккер Олег Ефимович": 23,
-      "Боушев Владимир Геннадьевич": 9,
-      "Лебедева Наталья Николаевна": 19,
-      "Савченко Светлана Борисовна": 414,
-      "Силиверстов Игорь Витальевич": 13,
-      "Соломахин Олег Андреевич": 51,
-      "Тарасов Валерий Иванович": 15,
-      "Шперов Павел Валентинович": 81,
-      "Шуба Дмитрий Евгеньевич": 18
+      "gas:candidate-vibid:493400789838": 23,
+      "gas:candidate-vibid:493400789985": 9,
+      "gas:candidate-vibid:493400790200": 19,
+      "gas:candidate-vibid:493400789970": 414,
+      "gas:candidate-vibid:493400790187": 13,
+      "gas:candidate-vibid:493400789816": 51,
+      "gas:candidate-vibid:493400790106": 15,
+      "gas:candidate-vibid:493400789642": 81,
+      "gas:candidate-vibid:493400789940": 18
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/crimea?action=show&root=1000308&tvd=493400789225&vrn=100100067795849&region=93&global=&sub_region=93&prver=0&pronetvd=null&vibid=493400789225&type=464",
@@ -1164,15 +1164,15 @@ export const duma_2016_uik_463_region_93_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Беккер Олег Ефимович": 24,
-      "Боушев Владимир Геннадьевич": 15,
-      "Лебедева Наталья Николаевна": 26,
-      "Савченко Светлана Борисовна": 500,
-      "Силиверстов Игорь Витальевич": 6,
-      "Соломахин Олег Андреевич": 66,
-      "Тарасов Валерий Иванович": 10,
-      "Шперов Павел Валентинович": 97,
-      "Шуба Дмитрий Евгеньевич": 18
+      "gas:candidate-vibid:493400789838": 24,
+      "gas:candidate-vibid:493400789985": 15,
+      "gas:candidate-vibid:493400790200": 26,
+      "gas:candidate-vibid:493400789970": 500,
+      "gas:candidate-vibid:493400790187": 6,
+      "gas:candidate-vibid:493400789816": 66,
+      "gas:candidate-vibid:493400790106": 10,
+      "gas:candidate-vibid:493400789642": 97,
+      "gas:candidate-vibid:493400789940": 18
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/crimea?action=show&root=1000308&tvd=493400789225&vrn=100100067795849&region=93&global=&sub_region=93&prver=0&pronetvd=null&vibid=493400789225&type=464",
@@ -1223,15 +1223,15 @@ export const duma_2016_uik_463_region_93_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Беккер Олег Ефимович": 35,
-      "Боушев Владимир Геннадьевич": 14,
-      "Лебедева Наталья Николаевна": 34,
-      "Савченко Светлана Борисовна": 823,
-      "Силиверстов Игорь Витальевич": 10,
-      "Соломахин Олег Андреевич": 72,
-      "Тарасов Валерий Иванович": 9,
-      "Шперов Павел Валентинович": 140,
-      "Шуба Дмитрий Евгеньевич": 14
+      "gas:candidate-vibid:493400789838": 35,
+      "gas:candidate-vibid:493400789985": 14,
+      "gas:candidate-vibid:493400790200": 34,
+      "gas:candidate-vibid:493400789970": 823,
+      "gas:candidate-vibid:493400790187": 10,
+      "gas:candidate-vibid:493400789816": 72,
+      "gas:candidate-vibid:493400790106": 9,
+      "gas:candidate-vibid:493400789642": 140,
+      "gas:candidate-vibid:493400789940": 14
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/crimea?action=show&root=1000308&tvd=493400789225&vrn=100100067795849&region=93&global=&sub_region=93&prver=0&pronetvd=null&vibid=493400789225&type=464",
@@ -1282,15 +1282,15 @@ export const duma_2016_uik_463_region_93_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Беккер Олег Ефимович": 33,
-      "Боушев Владимир Геннадьевич": 20,
-      "Лебедева Наталья Николаевна": 26,
-      "Савченко Светлана Борисовна": 1100,
-      "Силиверстов Игорь Витальевич": 9,
-      "Соломахин Олег Андреевич": 85,
-      "Тарасов Валерий Иванович": 17,
-      "Шперов Павел Валентинович": 90,
-      "Шуба Дмитрий Евгеньевич": 28
+      "gas:candidate-vibid:493400789838": 33,
+      "gas:candidate-vibid:493400789985": 20,
+      "gas:candidate-vibid:493400790200": 26,
+      "gas:candidate-vibid:493400789970": 1100,
+      "gas:candidate-vibid:493400790187": 9,
+      "gas:candidate-vibid:493400789816": 85,
+      "gas:candidate-vibid:493400790106": 17,
+      "gas:candidate-vibid:493400789642": 90,
+      "gas:candidate-vibid:493400789940": 28
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/crimea?action=show&root=1000308&tvd=493400789225&vrn=100100067795849&region=93&global=&sub_region=93&prver=0&pronetvd=null&vibid=493400789225&type=464",
@@ -1341,15 +1341,15 @@ export const duma_2016_uik_463_region_93_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Беккер Олег Ефимович": 23,
-      "Боушев Владимир Геннадьевич": 24,
-      "Лебедева Наталья Николаевна": 17,
-      "Савченко Светлана Борисовна": 624,
-      "Силиверстов Игорь Витальевич": 11,
-      "Соломахин Олег Андреевич": 93,
-      "Тарасов Валерий Иванович": 7,
-      "Шперов Павел Валентинович": 128,
-      "Шуба Дмитрий Евгеньевич": 13
+      "gas:candidate-vibid:493400789838": 23,
+      "gas:candidate-vibid:493400789985": 24,
+      "gas:candidate-vibid:493400790200": 17,
+      "gas:candidate-vibid:493400789970": 624,
+      "gas:candidate-vibid:493400790187": 11,
+      "gas:candidate-vibid:493400789816": 93,
+      "gas:candidate-vibid:493400790106": 7,
+      "gas:candidate-vibid:493400789642": 128,
+      "gas:candidate-vibid:493400789940": 13
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/crimea?action=show&root=1000308&tvd=493400789225&vrn=100100067795849&region=93&global=&sub_region=93&prver=0&pronetvd=null&vibid=493400789225&type=464",
@@ -1400,15 +1400,15 @@ export const duma_2016_uik_463_region_93_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Беккер Олег Ефимович": 21,
-      "Боушев Владимир Геннадьевич": 14,
-      "Лебедева Наталья Николаевна": 20,
-      "Савченко Светлана Борисовна": 527,
-      "Силиверстов Игорь Витальевич": 15,
-      "Соломахин Олег Андреевич": 79,
-      "Тарасов Валерий Иванович": 8,
-      "Шперов Павел Валентинович": 67,
-      "Шуба Дмитрий Евгеньевич": 13
+      "gas:candidate-vibid:493400789838": 21,
+      "gas:candidate-vibid:493400789985": 14,
+      "gas:candidate-vibid:493400790200": 20,
+      "gas:candidate-vibid:493400789970": 527,
+      "gas:candidate-vibid:493400790187": 15,
+      "gas:candidate-vibid:493400789816": 79,
+      "gas:candidate-vibid:493400790106": 8,
+      "gas:candidate-vibid:493400789642": 67,
+      "gas:candidate-vibid:493400789940": 13
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/crimea?action=show&root=1000308&tvd=493400789225&vrn=100100067795849&region=93&global=&sub_region=93&prver=0&pronetvd=null&vibid=493400789225&type=464",
@@ -1459,15 +1459,15 @@ export const duma_2016_uik_463_region_93_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Беккер Олег Ефимович": 22,
-      "Боушев Владимир Геннадьевич": 13,
-      "Лебедева Наталья Николаевна": 16,
-      "Савченко Светлана Борисовна": 491,
-      "Силиверстов Игорь Витальевич": 12,
-      "Соломахин Олег Андреевич": 86,
-      "Тарасов Валерий Иванович": 17,
-      "Шперов Павел Валентинович": 84,
-      "Шуба Дмитрий Евгеньевич": 11
+      "gas:candidate-vibid:493400789838": 22,
+      "gas:candidate-vibid:493400789985": 13,
+      "gas:candidate-vibid:493400790200": 16,
+      "gas:candidate-vibid:493400789970": 491,
+      "gas:candidate-vibid:493400790187": 12,
+      "gas:candidate-vibid:493400789816": 86,
+      "gas:candidate-vibid:493400790106": 17,
+      "gas:candidate-vibid:493400789642": 84,
+      "gas:candidate-vibid:493400789940": 11
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/crimea?action=show&root=1000308&tvd=493400789225&vrn=100100067795849&region=93&global=&sub_region=93&prver=0&pronetvd=null&vibid=493400789225&type=464",
@@ -1518,15 +1518,15 @@ export const duma_2016_uik_463_region_93_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Беккер Олег Ефимович": 38,
-      "Боушев Владимир Геннадьевич": 15,
-      "Лебедева Наталья Николаевна": 25,
-      "Савченко Светлана Борисовна": 644,
-      "Силиверстов Игорь Витальевич": 8,
-      "Соломахин Олег Андреевич": 95,
-      "Тарасов Валерий Иванович": 20,
-      "Шперов Павел Валентинович": 128,
-      "Шуба Дмитрий Евгеньевич": 13
+      "gas:candidate-vibid:493400789838": 38,
+      "gas:candidate-vibid:493400789985": 15,
+      "gas:candidate-vibid:493400790200": 25,
+      "gas:candidate-vibid:493400789970": 644,
+      "gas:candidate-vibid:493400790187": 8,
+      "gas:candidate-vibid:493400789816": 95,
+      "gas:candidate-vibid:493400790106": 20,
+      "gas:candidate-vibid:493400789642": 128,
+      "gas:candidate-vibid:493400789940": 13
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/crimea?action=show&root=1000308&tvd=493400789225&vrn=100100067795849&region=93&global=&sub_region=93&prver=0&pronetvd=null&vibid=493400789225&type=464",
@@ -1577,15 +1577,15 @@ export const duma_2016_uik_463_region_93_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Беккер Олег Ефимович": 38,
-      "Боушев Владимир Геннадьевич": 13,
-      "Лебедева Наталья Николаевна": 28,
-      "Савченко Светлана Борисовна": 529,
-      "Силиверстов Игорь Витальевич": 11,
-      "Соломахин Олег Андреевич": 92,
-      "Тарасов Валерий Иванович": 17,
-      "Шперов Павел Валентинович": 98,
-      "Шуба Дмитрий Евгеньевич": 21
+      "gas:candidate-vibid:493400789838": 38,
+      "gas:candidate-vibid:493400789985": 13,
+      "gas:candidate-vibid:493400790200": 28,
+      "gas:candidate-vibid:493400789970": 529,
+      "gas:candidate-vibid:493400790187": 11,
+      "gas:candidate-vibid:493400789816": 92,
+      "gas:candidate-vibid:493400790106": 17,
+      "gas:candidate-vibid:493400789642": 98,
+      "gas:candidate-vibid:493400789940": 21
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/crimea?action=show&root=1000308&tvd=493400789225&vrn=100100067795849&region=93&global=&sub_region=93&prver=0&pronetvd=null&vibid=493400789225&type=464",
@@ -1636,15 +1636,15 @@ export const duma_2016_uik_463_region_93_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Беккер Олег Ефимович": 15,
-      "Боушев Владимир Геннадьевич": 7,
-      "Лебедева Наталья Николаевна": 9,
-      "Савченко Светлана Борисовна": 355,
-      "Силиверстов Игорь Витальевич": 4,
-      "Соломахин Олег Андреевич": 35,
-      "Тарасов Валерий Иванович": 11,
-      "Шперов Павел Валентинович": 43,
-      "Шуба Дмитрий Евгеньевич": 2
+      "gas:candidate-vibid:493400789838": 15,
+      "gas:candidate-vibid:493400789985": 7,
+      "gas:candidate-vibid:493400790200": 9,
+      "gas:candidate-vibid:493400789970": 355,
+      "gas:candidate-vibid:493400790187": 4,
+      "gas:candidate-vibid:493400789816": 35,
+      "gas:candidate-vibid:493400790106": 11,
+      "gas:candidate-vibid:493400789642": 43,
+      "gas:candidate-vibid:493400789940": 2
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/crimea?action=show&root=1000308&tvd=493400789225&vrn=100100067795849&region=93&global=&sub_region=93&prver=0&pronetvd=null&vibid=493400789225&type=464",
@@ -1695,15 +1695,15 @@ export const duma_2016_uik_463_region_93_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Беккер Олег Ефимович": 24,
-      "Боушев Владимир Геннадьевич": 8,
-      "Лебедева Наталья Николаевна": 23,
-      "Савченко Светлана Борисовна": 527,
-      "Силиверстов Игорь Витальевич": 11,
-      "Соломахин Олег Андреевич": 57,
-      "Тарасов Валерий Иванович": 5,
-      "Шперов Павел Валентинович": 75,
-      "Шуба Дмитрий Евгеньевич": 13
+      "gas:candidate-vibid:493400789838": 24,
+      "gas:candidate-vibid:493400789985": 8,
+      "gas:candidate-vibid:493400790200": 23,
+      "gas:candidate-vibid:493400789970": 527,
+      "gas:candidate-vibid:493400790187": 11,
+      "gas:candidate-vibid:493400789816": 57,
+      "gas:candidate-vibid:493400790106": 5,
+      "gas:candidate-vibid:493400789642": 75,
+      "gas:candidate-vibid:493400789940": 13
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/crimea?action=show&root=1000308&tvd=493400789225&vrn=100100067795849&region=93&global=&sub_region=93&prver=0&pronetvd=null&vibid=493400789225&type=464",
@@ -1754,15 +1754,15 @@ export const duma_2016_uik_463_region_93_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Беккер Олег Ефимович": 29,
-      "Боушев Владимир Геннадьевич": 9,
-      "Лебедева Наталья Николаевна": 23,
-      "Савченко Светлана Борисовна": 578,
-      "Силиверстов Игорь Витальевич": 11,
-      "Соломахин Олег Андреевич": 81,
-      "Тарасов Валерий Иванович": 12,
-      "Шперов Павел Валентинович": 97,
-      "Шуба Дмитрий Евгеньевич": 13
+      "gas:candidate-vibid:493400789838": 29,
+      "gas:candidate-vibid:493400789985": 9,
+      "gas:candidate-vibid:493400790200": 23,
+      "gas:candidate-vibid:493400789970": 578,
+      "gas:candidate-vibid:493400790187": 11,
+      "gas:candidate-vibid:493400789816": 81,
+      "gas:candidate-vibid:493400790106": 12,
+      "gas:candidate-vibid:493400789642": 97,
+      "gas:candidate-vibid:493400789940": 13
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/crimea?action=show&root=1000308&tvd=493400789225&vrn=100100067795849&region=93&global=&sub_region=93&prver=0&pronetvd=null&vibid=493400789225&type=464",
@@ -1813,15 +1813,15 @@ export const duma_2016_uik_463_region_93_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Беккер Олег Ефимович": 31,
-      "Боушев Владимир Геннадьевич": 13,
-      "Лебедева Наталья Николаевна": 25,
-      "Савченко Светлана Борисовна": 569,
-      "Силиверстов Игорь Витальевич": 11,
-      "Соломахин Олег Андреевич": 68,
-      "Тарасов Валерий Иванович": 16,
-      "Шперов Павел Валентинович": 98,
-      "Шуба Дмитрий Евгеньевич": 14
+      "gas:candidate-vibid:493400789838": 31,
+      "gas:candidate-vibid:493400789985": 13,
+      "gas:candidate-vibid:493400790200": 25,
+      "gas:candidate-vibid:493400789970": 569,
+      "gas:candidate-vibid:493400790187": 11,
+      "gas:candidate-vibid:493400789816": 68,
+      "gas:candidate-vibid:493400790106": 16,
+      "gas:candidate-vibid:493400789642": 98,
+      "gas:candidate-vibid:493400789940": 14
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/crimea?action=show&root=1000308&tvd=493400789225&vrn=100100067795849&region=93&global=&sub_region=93&prver=0&pronetvd=null&vibid=493400789225&type=464",
@@ -1872,15 +1872,15 @@ export const duma_2016_uik_463_region_93_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Беккер Олег Ефимович": 11,
-      "Боушев Владимир Геннадьевич": 12,
-      "Лебедева Наталья Николаевна": 20,
-      "Савченко Светлана Борисовна": 1276,
-      "Силиверстов Игорь Витальевич": 3,
-      "Соломахин Олег Андреевич": 48,
-      "Тарасов Валерий Иванович": 5,
-      "Шперов Павел Валентинович": 85,
-      "Шуба Дмитрий Евгеньевич": 11
+      "gas:candidate-vibid:493400789838": 11,
+      "gas:candidate-vibid:493400789985": 12,
+      "gas:candidate-vibid:493400790200": 20,
+      "gas:candidate-vibid:493400789970": 1276,
+      "gas:candidate-vibid:493400790187": 3,
+      "gas:candidate-vibid:493400789816": 48,
+      "gas:candidate-vibid:493400790106": 5,
+      "gas:candidate-vibid:493400789642": 85,
+      "gas:candidate-vibid:493400789940": 11
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/crimea?action=show&root=1000308&tvd=493400789225&vrn=100100067795849&region=93&global=&sub_region=93&prver=0&pronetvd=null&vibid=493400789225&type=464",
@@ -1931,15 +1931,15 @@ export const duma_2016_uik_463_region_93_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Беккер Олег Ефимович": 33,
-      "Боушев Владимир Геннадьевич": 11,
-      "Лебедева Наталья Николаевна": 35,
-      "Савченко Светлана Борисовна": 493,
-      "Силиверстов Игорь Витальевич": 8,
-      "Соломахин Олег Андреевич": 71,
-      "Тарасов Валерий Иванович": 16,
-      "Шперов Павел Валентинович": 77,
-      "Шуба Дмитрий Евгеньевич": 10
+      "gas:candidate-vibid:493400789838": 33,
+      "gas:candidate-vibid:493400789985": 11,
+      "gas:candidate-vibid:493400790200": 35,
+      "gas:candidate-vibid:493400789970": 493,
+      "gas:candidate-vibid:493400790187": 8,
+      "gas:candidate-vibid:493400789816": 71,
+      "gas:candidate-vibid:493400790106": 16,
+      "gas:candidate-vibid:493400789642": 77,
+      "gas:candidate-vibid:493400789940": 10
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/crimea?action=show&root=1000308&tvd=493400789225&vrn=100100067795849&region=93&global=&sub_region=93&prver=0&pronetvd=null&vibid=493400789225&type=464",
@@ -1990,15 +1990,15 @@ export const duma_2016_uik_463_region_93_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Беккер Олег Ефимович": 38,
-      "Боушев Владимир Геннадьевич": 21,
-      "Лебедева Наталья Николаевна": 32,
-      "Савченко Светлана Борисовна": 621,
-      "Силиверстов Игорь Витальевич": 7,
-      "Соломахин Олег Андреевич": 84,
-      "Тарасов Валерий Иванович": 14,
-      "Шперов Павел Валентинович": 122,
-      "Шуба Дмитрий Евгеньевич": 15
+      "gas:candidate-vibid:493400789838": 38,
+      "gas:candidate-vibid:493400789985": 21,
+      "gas:candidate-vibid:493400790200": 32,
+      "gas:candidate-vibid:493400789970": 621,
+      "gas:candidate-vibid:493400790187": 7,
+      "gas:candidate-vibid:493400789816": 84,
+      "gas:candidate-vibid:493400790106": 14,
+      "gas:candidate-vibid:493400789642": 122,
+      "gas:candidate-vibid:493400789940": 15
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/crimea?action=show&root=1000308&tvd=493400789225&vrn=100100067795849&region=93&global=&sub_region=93&prver=0&pronetvd=null&vibid=493400789225&type=464",
@@ -2049,15 +2049,15 @@ export const duma_2016_uik_463_region_93_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Беккер Олег Ефимович": 34,
-      "Боушев Владимир Геннадьевич": 17,
-      "Лебедева Наталья Николаевна": 33,
-      "Савченко Светлана Борисовна": 585,
-      "Силиверстов Игорь Витальевич": 9,
-      "Соломахин Олег Андреевич": 89,
-      "Тарасов Валерий Иванович": 15,
-      "Шперов Павел Валентинович": 114,
-      "Шуба Дмитрий Евгеньевич": 24
+      "gas:candidate-vibid:493400789838": 34,
+      "gas:candidate-vibid:493400789985": 17,
+      "gas:candidate-vibid:493400790200": 33,
+      "gas:candidate-vibid:493400789970": 585,
+      "gas:candidate-vibid:493400790187": 9,
+      "gas:candidate-vibid:493400789816": 89,
+      "gas:candidate-vibid:493400790106": 15,
+      "gas:candidate-vibid:493400789642": 114,
+      "gas:candidate-vibid:493400789940": 24
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/crimea?action=show&root=1000308&tvd=493400789225&vrn=100100067795849&region=93&global=&sub_region=93&prver=0&pronetvd=null&vibid=493400789225&type=464",
@@ -2108,15 +2108,15 @@ export const duma_2016_uik_463_region_93_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Беккер Олег Ефимович": 34,
-      "Боушев Владимир Геннадьевич": 16,
-      "Лебедева Наталья Николаевна": 24,
-      "Савченко Светлана Борисовна": 601,
-      "Силиверстов Игорь Витальевич": 8,
-      "Соломахин Олег Андреевич": 75,
-      "Тарасов Валерий Иванович": 23,
-      "Шперов Павел Валентинович": 113,
-      "Шуба Дмитрий Евгеньевич": 16
+      "gas:candidate-vibid:493400789838": 34,
+      "gas:candidate-vibid:493400789985": 16,
+      "gas:candidate-vibid:493400790200": 24,
+      "gas:candidate-vibid:493400789970": 601,
+      "gas:candidate-vibid:493400790187": 8,
+      "gas:candidate-vibid:493400789816": 75,
+      "gas:candidate-vibid:493400790106": 23,
+      "gas:candidate-vibid:493400789642": 113,
+      "gas:candidate-vibid:493400789940": 16
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/crimea?action=show&root=1000308&tvd=493400789225&vrn=100100067795849&region=93&global=&sub_region=93&prver=0&pronetvd=null&vibid=493400789225&type=464",
@@ -2167,15 +2167,15 @@ export const duma_2016_uik_463_region_93_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Беккер Олег Ефимович": 33,
-      "Боушев Владимир Геннадьевич": 17,
-      "Лебедева Наталья Николаевна": 32,
-      "Савченко Светлана Борисовна": 591,
-      "Силиверстов Игорь Витальевич": 14,
-      "Соломахин Олег Андреевич": 77,
-      "Тарасов Валерий Иванович": 10,
-      "Шперов Павел Валентинович": 158,
-      "Шуба Дмитрий Евгеньевич": 16
+      "gas:candidate-vibid:493400789838": 33,
+      "gas:candidate-vibid:493400789985": 17,
+      "gas:candidate-vibid:493400790200": 32,
+      "gas:candidate-vibid:493400789970": 591,
+      "gas:candidate-vibid:493400790187": 14,
+      "gas:candidate-vibid:493400789816": 77,
+      "gas:candidate-vibid:493400790106": 10,
+      "gas:candidate-vibid:493400789642": 158,
+      "gas:candidate-vibid:493400789940": 16
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/crimea?action=show&root=1000308&tvd=493400789225&vrn=100100067795849&region=93&global=&sub_region=93&prver=0&pronetvd=null&vibid=493400789225&type=464",
@@ -2226,15 +2226,15 @@ export const duma_2016_uik_463_region_93_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Беккер Олег Ефимович": 14,
-      "Боушев Владимир Геннадьевич": 7,
-      "Лебедева Наталья Николаевна": 26,
-      "Савченко Светлана Борисовна": 488,
-      "Силиверстов Игорь Витальевич": 10,
-      "Соломахин Олег Андреевич": 61,
-      "Тарасов Валерий Иванович": 22,
-      "Шперов Павел Валентинович": 86,
-      "Шуба Дмитрий Евгеньевич": 12
+      "gas:candidate-vibid:493400789838": 14,
+      "gas:candidate-vibid:493400789985": 7,
+      "gas:candidate-vibid:493400790200": 26,
+      "gas:candidate-vibid:493400789970": 488,
+      "gas:candidate-vibid:493400790187": 10,
+      "gas:candidate-vibid:493400789816": 61,
+      "gas:candidate-vibid:493400790106": 22,
+      "gas:candidate-vibid:493400789642": 86,
+      "gas:candidate-vibid:493400789940": 12
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/crimea?action=show&root=1000308&tvd=493400789225&vrn=100100067795849&region=93&global=&sub_region=93&prver=0&pronetvd=null&vibid=493400789225&type=464",
@@ -2285,15 +2285,15 @@ export const duma_2016_uik_463_region_93_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Беккер Олег Ефимович": 23,
-      "Боушев Владимир Геннадьевич": 13,
-      "Лебедева Наталья Николаевна": 31,
-      "Савченко Светлана Борисовна": 488,
-      "Силиверстов Игорь Витальевич": 7,
-      "Соломахин Олег Андреевич": 61,
-      "Тарасов Валерий Иванович": 31,
-      "Шперов Павел Валентинович": 106,
-      "Шуба Дмитрий Евгеньевич": 12
+      "gas:candidate-vibid:493400789838": 23,
+      "gas:candidate-vibid:493400789985": 13,
+      "gas:candidate-vibid:493400790200": 31,
+      "gas:candidate-vibid:493400789970": 488,
+      "gas:candidate-vibid:493400790187": 7,
+      "gas:candidate-vibid:493400789816": 61,
+      "gas:candidate-vibid:493400790106": 31,
+      "gas:candidate-vibid:493400789642": 106,
+      "gas:candidate-vibid:493400789940": 12
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/crimea?action=show&root=1000308&tvd=493400789225&vrn=100100067795849&region=93&global=&sub_region=93&prver=0&pronetvd=null&vibid=493400789225&type=464",
@@ -2344,15 +2344,15 @@ export const duma_2016_uik_463_region_93_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Беккер Олег Ефимович": 3,
-      "Боушев Владимир Геннадьевич": 1,
-      "Лебедева Наталья Николаевна": 1,
-      "Савченко Светлана Борисовна": 27,
-      "Силиверстов Игорь Витальевич": 0,
-      "Соломахин Олег Андреевич": 5,
-      "Тарасов Валерий Иванович": 0,
-      "Шперов Павел Валентинович": 2,
-      "Шуба Дмитрий Евгеньевич": 2
+      "gas:candidate-vibid:493400789838": 3,
+      "gas:candidate-vibid:493400789985": 1,
+      "gas:candidate-vibid:493400790200": 1,
+      "gas:candidate-vibid:493400789970": 27,
+      "gas:candidate-vibid:493400790187": 0,
+      "gas:candidate-vibid:493400789816": 5,
+      "gas:candidate-vibid:493400790106": 0,
+      "gas:candidate-vibid:493400789642": 2,
+      "gas:candidate-vibid:493400789940": 2
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/crimea?action=show&root=1000308&tvd=493400789225&vrn=100100067795849&region=93&global=&sub_region=93&prver=0&pronetvd=null&vibid=493400789225&type=464",
@@ -2403,15 +2403,15 @@ export const duma_2016_uik_463_region_93_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Беккер Олег Ефимович": 7,
-      "Боушев Владимир Геннадьевич": 1,
-      "Лебедева Наталья Николаевна": 1,
-      "Савченко Светлана Борисовна": 36,
-      "Силиверстов Игорь Витальевич": 1,
-      "Соломахин Олег Андреевич": 5,
-      "Тарасов Валерий Иванович": 1,
-      "Шперов Павел Валентинович": 4,
-      "Шуба Дмитрий Евгеньевич": 2
+      "gas:candidate-vibid:493400789838": 7,
+      "gas:candidate-vibid:493400789985": 1,
+      "gas:candidate-vibid:493400790200": 1,
+      "gas:candidate-vibid:493400789970": 36,
+      "gas:candidate-vibid:493400790187": 1,
+      "gas:candidate-vibid:493400789816": 5,
+      "gas:candidate-vibid:493400790106": 1,
+      "gas:candidate-vibid:493400789642": 4,
+      "gas:candidate-vibid:493400789940": 2
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/crimea?action=show&root=1000308&tvd=493400789225&vrn=100100067795849&region=93&global=&sub_region=93&prver=0&pronetvd=null&vibid=493400789225&type=464",
@@ -2462,15 +2462,15 @@ export const duma_2016_uik_463_region_93_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Беккер Олег Ефимович": 0,
-      "Боушев Владимир Геннадьевич": 0,
-      "Лебедева Наталья Николаевна": 0,
-      "Савченко Светлана Борисовна": 3,
-      "Силиверстов Игорь Витальевич": 0,
-      "Соломахин Олег Андреевич": 1,
-      "Тарасов Валерий Иванович": 0,
-      "Шперов Павел Валентинович": 1,
-      "Шуба Дмитрий Евгеньевич": 0
+      "gas:candidate-vibid:493400789838": 0,
+      "gas:candidate-vibid:493400789985": 0,
+      "gas:candidate-vibid:493400790200": 0,
+      "gas:candidate-vibid:493400789970": 3,
+      "gas:candidate-vibid:493400790187": 0,
+      "gas:candidate-vibid:493400789816": 1,
+      "gas:candidate-vibid:493400790106": 0,
+      "gas:candidate-vibid:493400789642": 1,
+      "gas:candidate-vibid:493400789940": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/crimea?action=show&root=1000308&tvd=493400789225&vrn=100100067795849&region=93&global=&sub_region=93&prver=0&pronetvd=null&vibid=493400789225&type=464",
@@ -2521,15 +2521,15 @@ export const duma_2016_uik_463_region_93_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Беккер Олег Ефимович": 3,
-      "Боушев Владимир Геннадьевич": 2,
-      "Лебедева Наталья Николаевна": 0,
-      "Савченко Светлана Борисовна": 23,
-      "Силиверстов Игорь Витальевич": 0,
-      "Соломахин Олег Андреевич": 1,
-      "Тарасов Валерий Иванович": 0,
-      "Шперов Павел Валентинович": 6,
-      "Шуба Дмитрий Евгеньевич": 2
+      "gas:candidate-vibid:493400789838": 3,
+      "gas:candidate-vibid:493400789985": 2,
+      "gas:candidate-vibid:493400790200": 0,
+      "gas:candidate-vibid:493400789970": 23,
+      "gas:candidate-vibid:493400790187": 0,
+      "gas:candidate-vibid:493400789816": 1,
+      "gas:candidate-vibid:493400790106": 0,
+      "gas:candidate-vibid:493400789642": 6,
+      "gas:candidate-vibid:493400789940": 2
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/crimea?action=show&root=1000308&tvd=493400789225&vrn=100100067795849&region=93&global=&sub_region=93&prver=0&pronetvd=null&vibid=493400789225&type=464",
@@ -2580,15 +2580,15 @@ export const duma_2016_uik_463_region_93_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Беккер Олег Ефимович": 12,
-      "Боушев Владимир Геннадьевич": 13,
-      "Лебедева Наталья Николаевна": 7,
-      "Савченко Светлана Борисовна": 144,
-      "Силиверстов Игорь Витальевич": 4,
-      "Соломахин Олег Андреевич": 14,
-      "Тарасов Валерий Иванович": 5,
-      "Шперов Павел Валентинович": 19,
-      "Шуба Дмитрий Евгеньевич": 7
+      "gas:candidate-vibid:493400789838": 12,
+      "gas:candidate-vibid:493400789985": 13,
+      "gas:candidate-vibid:493400790200": 7,
+      "gas:candidate-vibid:493400789970": 144,
+      "gas:candidate-vibid:493400790187": 4,
+      "gas:candidate-vibid:493400789816": 14,
+      "gas:candidate-vibid:493400790106": 5,
+      "gas:candidate-vibid:493400789642": 19,
+      "gas:candidate-vibid:493400789940": 7
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/crimea?action=show&root=1000308&tvd=493400789225&vrn=100100067795849&region=93&global=&sub_region=93&prver=0&pronetvd=null&vibid=493400789225&type=464",
@@ -2639,15 +2639,15 @@ export const duma_2016_uik_463_region_93_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Беккер Олег Ефимович": 7,
-      "Боушев Владимир Геннадьевич": 1,
-      "Лебедева Наталья Николаевна": 4,
-      "Савченко Светлана Борисовна": 46,
-      "Силиверстов Игорь Витальевич": 1,
-      "Соломахин Олег Андреевич": 8,
-      "Тарасов Валерий Иванович": 1,
-      "Шперов Павел Валентинович": 2,
-      "Шуба Дмитрий Евгеньевич": 3
+      "gas:candidate-vibid:493400789838": 7,
+      "gas:candidate-vibid:493400789985": 1,
+      "gas:candidate-vibid:493400790200": 4,
+      "gas:candidate-vibid:493400789970": 46,
+      "gas:candidate-vibid:493400790187": 1,
+      "gas:candidate-vibid:493400789816": 8,
+      "gas:candidate-vibid:493400790106": 1,
+      "gas:candidate-vibid:493400789642": 2,
+      "gas:candidate-vibid:493400789940": 3
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/crimea?action=show&root=1000308&tvd=493400789225&vrn=100100067795849&region=93&global=&sub_region=93&prver=0&pronetvd=null&vibid=493400789225&type=464",
@@ -2698,15 +2698,15 @@ export const duma_2016_uik_463_region_93_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Беккер Олег Ефимович": 3,
-      "Боушев Владимир Геннадьевич": 1,
-      "Лебедева Наталья Николаевна": 4,
-      "Савченко Светлана Борисовна": 23,
-      "Силиверстов Игорь Витальевич": 0,
-      "Соломахин Олег Андреевич": 7,
-      "Тарасов Валерий Иванович": 1,
-      "Шперов Павел Валентинович": 3,
-      "Шуба Дмитрий Евгеньевич": 2
+      "gas:candidate-vibid:493400789838": 3,
+      "gas:candidate-vibid:493400789985": 1,
+      "gas:candidate-vibid:493400790200": 4,
+      "gas:candidate-vibid:493400789970": 23,
+      "gas:candidate-vibid:493400790187": 0,
+      "gas:candidate-vibid:493400789816": 7,
+      "gas:candidate-vibid:493400790106": 1,
+      "gas:candidate-vibid:493400789642": 3,
+      "gas:candidate-vibid:493400789940": 2
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/crimea?action=show&root=1000308&tvd=493400789225&vrn=100100067795849&region=93&global=&sub_region=93&prver=0&pronetvd=null&vibid=493400789225&type=464",
@@ -2757,15 +2757,15 @@ export const duma_2016_uik_463_region_93_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Беккер Олег Ефимович": 1,
-      "Боушев Владимир Геннадьевич": 0,
-      "Лебедева Наталья Николаевна": 0,
-      "Савченко Светлана Борисовна": 10,
-      "Силиверстов Игорь Витальевич": 0,
-      "Соломахин Олег Андреевич": 2,
-      "Тарасов Валерий Иванович": 0,
-      "Шперов Павел Валентинович": 2,
-      "Шуба Дмитрий Евгеньевич": 0
+      "gas:candidate-vibid:493400789838": 1,
+      "gas:candidate-vibid:493400789985": 0,
+      "gas:candidate-vibid:493400790200": 0,
+      "gas:candidate-vibid:493400789970": 10,
+      "gas:candidate-vibid:493400790187": 0,
+      "gas:candidate-vibid:493400789816": 2,
+      "gas:candidate-vibid:493400790106": 0,
+      "gas:candidate-vibid:493400789642": 2,
+      "gas:candidate-vibid:493400789940": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/crimea?action=show&root=1000308&tvd=493400789225&vrn=100100067795849&region=93&global=&sub_region=93&prver=0&pronetvd=null&vibid=493400789225&type=464",
@@ -2816,15 +2816,15 @@ export const duma_2016_uik_463_region_93_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Беккер Олег Ефимович": 2,
-      "Боушев Владимир Геннадьевич": 0,
-      "Лебедева Наталья Николаевна": 3,
-      "Савченко Светлана Борисовна": 18,
-      "Силиверстов Игорь Витальевич": 1,
-      "Соломахин Олег Андреевич": 1,
-      "Тарасов Валерий Иванович": 1,
-      "Шперов Павел Валентинович": 1,
-      "Шуба Дмитрий Евгеньевич": 1
+      "gas:candidate-vibid:493400789838": 2,
+      "gas:candidate-vibid:493400789985": 0,
+      "gas:candidate-vibid:493400790200": 3,
+      "gas:candidate-vibid:493400789970": 18,
+      "gas:candidate-vibid:493400790187": 1,
+      "gas:candidate-vibid:493400789816": 1,
+      "gas:candidate-vibid:493400790106": 1,
+      "gas:candidate-vibid:493400789642": 1,
+      "gas:candidate-vibid:493400789940": 1
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/crimea?action=show&root=1000308&tvd=493400789225&vrn=100100067795849&region=93&global=&sub_region=93&prver=0&pronetvd=null&vibid=493400789225&type=464",
@@ -2875,15 +2875,15 @@ export const duma_2016_uik_463_region_93_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Беккер Олег Ефимович": 0,
-      "Боушев Владимир Геннадьевич": 0,
-      "Лебедева Наталья Николаевна": 0,
-      "Савченко Светлана Борисовна": 3,
-      "Силиверстов Игорь Витальевич": 0,
-      "Соломахин Олег Андреевич": 0,
-      "Тарасов Валерий Иванович": 0,
-      "Шперов Павел Валентинович": 0,
-      "Шуба Дмитрий Евгеньевич": 0
+      "gas:candidate-vibid:493400789838": 0,
+      "gas:candidate-vibid:493400789985": 0,
+      "gas:candidate-vibid:493400790200": 0,
+      "gas:candidate-vibid:493400789970": 3,
+      "gas:candidate-vibid:493400790187": 0,
+      "gas:candidate-vibid:493400789816": 0,
+      "gas:candidate-vibid:493400790106": 0,
+      "gas:candidate-vibid:493400789642": 0,
+      "gas:candidate-vibid:493400789940": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/crimea?action=show&root=1000308&tvd=493400789225&vrn=100100067795849&region=93&global=&sub_region=93&prver=0&pronetvd=null&vibid=493400789225&type=464",
@@ -2934,15 +2934,15 @@ export const duma_2016_uik_463_region_93_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Беккер Олег Ефимович": 47,
-      "Боушев Владимир Геннадьевич": 19,
-      "Лебедева Наталья Николаевна": 77,
-      "Савченко Светлана Борисовна": 447,
-      "Силиверстов Игорь Витальевич": 29,
-      "Соломахин Олег Андреевич": 34,
-      "Тарасов Валерий Иванович": 26,
-      "Шперов Павел Валентинович": 135,
-      "Шуба Дмитрий Евгеньевич": 20
+      "gas:candidate-vibid:493400789838": 47,
+      "gas:candidate-vibid:493400789985": 19,
+      "gas:candidate-vibid:493400790200": 77,
+      "gas:candidate-vibid:493400789970": 447,
+      "gas:candidate-vibid:493400790187": 29,
+      "gas:candidate-vibid:493400789816": 34,
+      "gas:candidate-vibid:493400790106": 26,
+      "gas:candidate-vibid:493400789642": 135,
+      "gas:candidate-vibid:493400789940": 20
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/crimea?action=show&root=1000308&tvd=493400789225&vrn=100100067795849&region=93&global=&sub_region=93&prver=0&pronetvd=null&vibid=493400789225&type=464",
@@ -2993,15 +2993,15 @@ export const duma_2016_uik_463_region_93_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Беккер Олег Ефимович": 19,
-      "Боушев Владимир Геннадьевич": 8,
-      "Лебедева Наталья Николаевна": 19,
-      "Савченко Светлана Борисовна": 543,
-      "Силиверстов Игорь Витальевич": 8,
-      "Соломахин Олег Андреевич": 48,
-      "Тарасов Валерий Иванович": 7,
-      "Шперов Павел Валентинович": 66,
-      "Шуба Дмитрий Евгеньевич": 13
+      "gas:candidate-vibid:493400789838": 19,
+      "gas:candidate-vibid:493400789985": 8,
+      "gas:candidate-vibid:493400790200": 19,
+      "gas:candidate-vibid:493400789970": 543,
+      "gas:candidate-vibid:493400790187": 8,
+      "gas:candidate-vibid:493400789816": 48,
+      "gas:candidate-vibid:493400790106": 7,
+      "gas:candidate-vibid:493400789642": 66,
+      "gas:candidate-vibid:493400789940": 13
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/crimea?action=show&root=1000308&tvd=493400789226&vrn=100100067795849&region=93&global=&sub_region=93&prver=0&pronetvd=null&vibid=493400789226&type=464",
@@ -3052,15 +3052,15 @@ export const duma_2016_uik_463_region_93_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Беккер Олег Ефимович": 22,
-      "Боушев Владимир Геннадьевич": 12,
-      "Лебедева Наталья Николаевна": 25,
-      "Савченко Светлана Борисовна": 749,
-      "Силиверстов Игорь Витальевич": 12,
-      "Соломахин Олег Андреевич": 81,
-      "Тарасов Валерий Иванович": 11,
-      "Шперов Павел Валентинович": 73,
-      "Шуба Дмитрий Евгеньевич": 28
+      "gas:candidate-vibid:493400789838": 22,
+      "gas:candidate-vibid:493400789985": 12,
+      "gas:candidate-vibid:493400790200": 25,
+      "gas:candidate-vibid:493400789970": 749,
+      "gas:candidate-vibid:493400790187": 12,
+      "gas:candidate-vibid:493400789816": 81,
+      "gas:candidate-vibid:493400790106": 11,
+      "gas:candidate-vibid:493400789642": 73,
+      "gas:candidate-vibid:493400789940": 28
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/crimea?action=show&root=1000308&tvd=493400789226&vrn=100100067795849&region=93&global=&sub_region=93&prver=0&pronetvd=null&vibid=493400789226&type=464",
@@ -3111,15 +3111,15 @@ export const duma_2016_uik_463_region_93_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Беккер Олег Ефимович": 14,
-      "Боушев Владимир Геннадьевич": 4,
-      "Лебедева Наталья Николаевна": 17,
-      "Савченко Светлана Борисовна": 239,
-      "Силиверстов Игорь Витальевич": 1,
-      "Соломахин Олег Андреевич": 27,
-      "Тарасов Валерий Иванович": 3,
-      "Шперов Павел Валентинович": 22,
-      "Шуба Дмитрий Евгеньевич": 6
+      "gas:candidate-vibid:493400789838": 14,
+      "gas:candidate-vibid:493400789985": 4,
+      "gas:candidate-vibid:493400790200": 17,
+      "gas:candidate-vibid:493400789970": 239,
+      "gas:candidate-vibid:493400790187": 1,
+      "gas:candidate-vibid:493400789816": 27,
+      "gas:candidate-vibid:493400790106": 3,
+      "gas:candidate-vibid:493400789642": 22,
+      "gas:candidate-vibid:493400789940": 6
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/crimea?action=show&root=1000308&tvd=493400789226&vrn=100100067795849&region=93&global=&sub_region=93&prver=0&pronetvd=null&vibid=493400789226&type=464",
@@ -3170,15 +3170,15 @@ export const duma_2016_uik_463_region_93_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Беккер Олег Ефимович": 9,
-      "Боушев Владимир Геннадьевич": 5,
-      "Лебедева Наталья Николаевна": 16,
-      "Савченко Светлана Борисовна": 326,
-      "Силиверстов Игорь Витальевич": 3,
-      "Соломахин Олег Андреевич": 17,
-      "Тарасов Валерий Иванович": 2,
-      "Шперов Павел Валентинович": 13,
-      "Шуба Дмитрий Евгеньевич": 3
+      "gas:candidate-vibid:493400789838": 9,
+      "gas:candidate-vibid:493400789985": 5,
+      "gas:candidate-vibid:493400790200": 16,
+      "gas:candidate-vibid:493400789970": 326,
+      "gas:candidate-vibid:493400790187": 3,
+      "gas:candidate-vibid:493400789816": 17,
+      "gas:candidate-vibid:493400790106": 2,
+      "gas:candidate-vibid:493400789642": 13,
+      "gas:candidate-vibid:493400789940": 3
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/crimea?action=show&root=1000308&tvd=493400789226&vrn=100100067795849&region=93&global=&sub_region=93&prver=0&pronetvd=null&vibid=493400789226&type=464",
@@ -3229,15 +3229,15 @@ export const duma_2016_uik_463_region_93_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Беккер Олег Ефимович": 9,
-      "Боушев Владимир Геннадьевич": 11,
-      "Лебедева Наталья Николаевна": 18,
-      "Савченко Светлана Борисовна": 418,
-      "Силиверстов Игорь Витальевич": 6,
-      "Соломахин Олег Андреевич": 17,
-      "Тарасов Валерий Иванович": 3,
-      "Шперов Павел Валентинович": 29,
-      "Шуба Дмитрий Евгеньевич": 8
+      "gas:candidate-vibid:493400789838": 9,
+      "gas:candidate-vibid:493400789985": 11,
+      "gas:candidate-vibid:493400790200": 18,
+      "gas:candidate-vibid:493400789970": 418,
+      "gas:candidate-vibid:493400790187": 6,
+      "gas:candidate-vibid:493400789816": 17,
+      "gas:candidate-vibid:493400790106": 3,
+      "gas:candidate-vibid:493400789642": 29,
+      "gas:candidate-vibid:493400789940": 8
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/crimea?action=show&root=1000308&tvd=493400789226&vrn=100100067795849&region=93&global=&sub_region=93&prver=0&pronetvd=null&vibid=493400789226&type=464",
@@ -3288,15 +3288,15 @@ export const duma_2016_uik_463_region_93_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Беккер Олег Ефимович": 23,
-      "Боушев Владимир Геннадьевич": 18,
-      "Лебедева Наталья Николаевна": 51,
-      "Савченко Светлана Борисовна": 797,
-      "Силиверстов Игорь Витальевич": 9,
-      "Соломахин Олег Андреевич": 82,
-      "Тарасов Валерий Иванович": 17,
-      "Шперов Павел Валентинович": 89,
-      "Шуба Дмитрий Евгеньевич": 11
+      "gas:candidate-vibid:493400789838": 23,
+      "gas:candidate-vibid:493400789985": 18,
+      "gas:candidate-vibid:493400790200": 51,
+      "gas:candidate-vibid:493400789970": 797,
+      "gas:candidate-vibid:493400790187": 9,
+      "gas:candidate-vibid:493400789816": 82,
+      "gas:candidate-vibid:493400790106": 17,
+      "gas:candidate-vibid:493400789642": 89,
+      "gas:candidate-vibid:493400789940": 11
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/crimea?action=show&root=1000308&tvd=493400789226&vrn=100100067795849&region=93&global=&sub_region=93&prver=0&pronetvd=null&vibid=493400789226&type=464",
@@ -3347,15 +3347,15 @@ export const duma_2016_uik_463_region_93_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Беккер Олег Ефимович": 16,
-      "Боушев Владимир Геннадьевич": 5,
-      "Лебедева Наталья Николаевна": 28,
-      "Савченко Светлана Борисовна": 385,
-      "Силиверстов Игорь Витальевич": 3,
-      "Соломахин Олег Андреевич": 11,
-      "Тарасов Валерий Иванович": 10,
-      "Шперов Павел Валентинович": 29,
-      "Шуба Дмитрий Евгеньевич": 12
+      "gas:candidate-vibid:493400789838": 16,
+      "gas:candidate-vibid:493400789985": 5,
+      "gas:candidate-vibid:493400790200": 28,
+      "gas:candidate-vibid:493400789970": 385,
+      "gas:candidate-vibid:493400790187": 3,
+      "gas:candidate-vibid:493400789816": 11,
+      "gas:candidate-vibid:493400790106": 10,
+      "gas:candidate-vibid:493400789642": 29,
+      "gas:candidate-vibid:493400789940": 12
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/crimea?action=show&root=1000308&tvd=493400789226&vrn=100100067795849&region=93&global=&sub_region=93&prver=0&pronetvd=null&vibid=493400789226&type=464",
@@ -3406,15 +3406,15 @@ export const duma_2016_uik_463_region_93_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Беккер Олег Ефимович": 15,
-      "Боушев Владимир Геннадьевич": 1,
-      "Лебедева Наталья Николаевна": 13,
-      "Савченко Светлана Борисовна": 159,
-      "Силиверстов Игорь Витальевич": 4,
-      "Соломахин Олег Андреевич": 1,
-      "Тарасов Валерий Иванович": 7,
-      "Шперов Павел Валентинович": 11,
-      "Шуба Дмитрий Евгеньевич": 1
+      "gas:candidate-vibid:493400789838": 15,
+      "gas:candidate-vibid:493400789985": 1,
+      "gas:candidate-vibid:493400790200": 13,
+      "gas:candidate-vibid:493400789970": 159,
+      "gas:candidate-vibid:493400790187": 4,
+      "gas:candidate-vibid:493400789816": 1,
+      "gas:candidate-vibid:493400790106": 7,
+      "gas:candidate-vibid:493400789642": 11,
+      "gas:candidate-vibid:493400789940": 1
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/crimea?action=show&root=1000308&tvd=493400789226&vrn=100100067795849&region=93&global=&sub_region=93&prver=0&pronetvd=null&vibid=493400789226&type=464",
@@ -3465,15 +3465,15 @@ export const duma_2016_uik_463_region_93_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Беккер Олег Ефимович": 1,
-      "Боушев Владимир Геннадьевич": 0,
-      "Лебедева Наталья Николаевна": 5,
-      "Савченко Светлана Борисовна": 87,
-      "Силиверстов Игорь Витальевич": 3,
-      "Соломахин Олег Андреевич": 0,
-      "Тарасов Валерий Иванович": 3,
-      "Шперов Павел Валентинович": 2,
-      "Шуба Дмитрий Евгеньевич": 1
+      "gas:candidate-vibid:493400789838": 1,
+      "gas:candidate-vibid:493400789985": 0,
+      "gas:candidate-vibid:493400790200": 5,
+      "gas:candidate-vibid:493400789970": 87,
+      "gas:candidate-vibid:493400790187": 3,
+      "gas:candidate-vibid:493400789816": 0,
+      "gas:candidate-vibid:493400790106": 3,
+      "gas:candidate-vibid:493400789642": 2,
+      "gas:candidate-vibid:493400789940": 1
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/crimea?action=show&root=1000308&tvd=493400789226&vrn=100100067795849&region=93&global=&sub_region=93&prver=0&pronetvd=null&vibid=493400789226&type=464",
@@ -3524,15 +3524,15 @@ export const duma_2016_uik_463_region_93_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Беккер Олег Ефимович": 20,
-      "Боушев Владимир Геннадьевич": 19,
-      "Лебедева Наталья Николаевна": 14,
-      "Савченко Светлана Борисовна": 1152,
-      "Силиверстов Игорь Витальевич": 4,
-      "Соломахин Олег Андреевич": 48,
-      "Тарасов Валерий Иванович": 8,
-      "Шперов Павел Валентинович": 81,
-      "Шуба Дмитрий Евгеньевич": 13
+      "gas:candidate-vibid:493400789838": 20,
+      "gas:candidate-vibid:493400789985": 19,
+      "gas:candidate-vibid:493400790200": 14,
+      "gas:candidate-vibid:493400789970": 1152,
+      "gas:candidate-vibid:493400790187": 4,
+      "gas:candidate-vibid:493400789816": 48,
+      "gas:candidate-vibid:493400790106": 8,
+      "gas:candidate-vibid:493400789642": 81,
+      "gas:candidate-vibid:493400789940": 13
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/crimea?action=show&root=1000308&tvd=493400789226&vrn=100100067795849&region=93&global=&sub_region=93&prver=0&pronetvd=null&vibid=493400789226&type=464",
@@ -3583,15 +3583,15 @@ export const duma_2016_uik_463_region_93_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Беккер Олег Ефимович": 7,
-      "Боушев Владимир Геннадьевич": 4,
-      "Лебедева Наталья Николаевна": 10,
-      "Савченко Светлана Борисовна": 315,
-      "Силиверстов Игорь Витальевич": 4,
-      "Соломахин Олег Андреевич": 15,
-      "Тарасов Валерий Иванович": 0,
-      "Шперов Павел Валентинович": 22,
-      "Шуба Дмитрий Евгеньевич": 7
+      "gas:candidate-vibid:493400789838": 7,
+      "gas:candidate-vibid:493400789985": 4,
+      "gas:candidate-vibid:493400790200": 10,
+      "gas:candidate-vibid:493400789970": 315,
+      "gas:candidate-vibid:493400790187": 4,
+      "gas:candidate-vibid:493400789816": 15,
+      "gas:candidate-vibid:493400790106": 0,
+      "gas:candidate-vibid:493400789642": 22,
+      "gas:candidate-vibid:493400789940": 7
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/crimea?action=show&root=1000308&tvd=493400789226&vrn=100100067795849&region=93&global=&sub_region=93&prver=0&pronetvd=null&vibid=493400789226&type=464",
@@ -3642,15 +3642,15 @@ export const duma_2016_uik_463_region_93_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Беккер Олег Ефимович": 37,
-      "Боушев Владимир Геннадьевич": 8,
-      "Лебедева Наталья Николаевна": 35,
-      "Савченко Светлана Борисовна": 1188,
-      "Силиверстов Игорь Витальевич": 9,
-      "Соломахин Олег Андреевич": 51,
-      "Тарасов Валерий Иванович": 22,
-      "Шперов Павел Валентинович": 108,
-      "Шуба Дмитрий Евгеньевич": 4
+      "gas:candidate-vibid:493400789838": 37,
+      "gas:candidate-vibid:493400789985": 8,
+      "gas:candidate-vibid:493400790200": 35,
+      "gas:candidate-vibid:493400789970": 1188,
+      "gas:candidate-vibid:493400790187": 9,
+      "gas:candidate-vibid:493400789816": 51,
+      "gas:candidate-vibid:493400790106": 22,
+      "gas:candidate-vibid:493400789642": 108,
+      "gas:candidate-vibid:493400789940": 4
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/crimea?action=show&root=1000308&tvd=493400789226&vrn=100100067795849&region=93&global=&sub_region=93&prver=0&pronetvd=null&vibid=493400789226&type=464",
@@ -3701,15 +3701,15 @@ export const duma_2016_uik_463_region_93_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Беккер Олег Ефимович": 18,
-      "Боушев Владимир Геннадьевич": 6,
-      "Лебедева Наталья Николаевна": 16,
-      "Савченко Светлана Борисовна": 929,
-      "Силиверстов Игорь Витальевич": 8,
-      "Соломахин Олег Андреевич": 30,
-      "Тарасов Валерий Иванович": 17,
-      "Шперов Павел Валентинович": 61,
-      "Шуба Дмитрий Евгеньевич": 9
+      "gas:candidate-vibid:493400789838": 18,
+      "gas:candidate-vibid:493400789985": 6,
+      "gas:candidate-vibid:493400790200": 16,
+      "gas:candidate-vibid:493400789970": 929,
+      "gas:candidate-vibid:493400790187": 8,
+      "gas:candidate-vibid:493400789816": 30,
+      "gas:candidate-vibid:493400790106": 17,
+      "gas:candidate-vibid:493400789642": 61,
+      "gas:candidate-vibid:493400789940": 9
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/crimea?action=show&root=1000308&tvd=493400789226&vrn=100100067795849&region=93&global=&sub_region=93&prver=0&pronetvd=null&vibid=493400789226&type=464",
@@ -3760,15 +3760,15 @@ export const duma_2016_uik_463_region_93_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Беккер Олег Ефимович": 17,
-      "Боушев Владимир Геннадьевич": 20,
-      "Лебедева Наталья Николаевна": 21,
-      "Савченко Светлана Борисовна": 489,
-      "Силиверстов Игорь Витальевич": 4,
-      "Соломахин Олег Андреевич": 48,
-      "Тарасов Валерий Иванович": 12,
-      "Шперов Павел Валентинович": 100,
-      "Шуба Дмитрий Евгеньевич": 11
+      "gas:candidate-vibid:493400789838": 17,
+      "gas:candidate-vibid:493400789985": 20,
+      "gas:candidate-vibid:493400790200": 21,
+      "gas:candidate-vibid:493400789970": 489,
+      "gas:candidate-vibid:493400790187": 4,
+      "gas:candidate-vibid:493400789816": 48,
+      "gas:candidate-vibid:493400790106": 12,
+      "gas:candidate-vibid:493400789642": 100,
+      "gas:candidate-vibid:493400789940": 11
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/crimea?action=show&root=1000308&tvd=493400789226&vrn=100100067795849&region=93&global=&sub_region=93&prver=0&pronetvd=null&vibid=493400789226&type=464",
@@ -3819,15 +3819,15 @@ export const duma_2016_uik_463_region_93_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Беккер Олег Ефимович": 22,
-      "Боушев Владимир Геннадьевич": 25,
-      "Лебедева Наталья Николаевна": 17,
-      "Савченко Светлана Борисовна": 779,
-      "Силиверстов Игорь Витальевич": 7,
-      "Соломахин Олег Андреевич": 81,
-      "Тарасов Валерий Иванович": 28,
-      "Шперов Павел Валентинович": 77,
-      "Шуба Дмитрий Евгеньевич": 18
+      "gas:candidate-vibid:493400789838": 22,
+      "gas:candidate-vibid:493400789985": 25,
+      "gas:candidate-vibid:493400790200": 17,
+      "gas:candidate-vibid:493400789970": 779,
+      "gas:candidate-vibid:493400790187": 7,
+      "gas:candidate-vibid:493400789816": 81,
+      "gas:candidate-vibid:493400790106": 28,
+      "gas:candidate-vibid:493400789642": 77,
+      "gas:candidate-vibid:493400789940": 18
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/crimea?action=show&root=1000308&tvd=493400789226&vrn=100100067795849&region=93&global=&sub_region=93&prver=0&pronetvd=null&vibid=493400789226&type=464",
@@ -3878,15 +3878,15 @@ export const duma_2016_uik_463_region_93_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Беккер Олег Ефимович": 15,
-      "Боушев Владимир Геннадьевич": 17,
-      "Лебедева Наталья Николаевна": 27,
-      "Савченко Светлана Борисовна": 627,
-      "Силиверстов Игорь Витальевич": 9,
-      "Соломахин Олег Андреевич": 56,
-      "Тарасов Валерий Иванович": 35,
-      "Шперов Павел Валентинович": 97,
-      "Шуба Дмитрий Евгеньевич": 13
+      "gas:candidate-vibid:493400789838": 15,
+      "gas:candidate-vibid:493400789985": 17,
+      "gas:candidate-vibid:493400790200": 27,
+      "gas:candidate-vibid:493400789970": 627,
+      "gas:candidate-vibid:493400790187": 9,
+      "gas:candidate-vibid:493400789816": 56,
+      "gas:candidate-vibid:493400790106": 35,
+      "gas:candidate-vibid:493400789642": 97,
+      "gas:candidate-vibid:493400789940": 13
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/crimea?action=show&root=1000308&tvd=493400789226&vrn=100100067795849&region=93&global=&sub_region=93&prver=0&pronetvd=null&vibid=493400789226&type=464",
@@ -3937,15 +3937,15 @@ export const duma_2016_uik_463_region_93_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Беккер Олег Ефимович": 26,
-      "Боушев Владимир Геннадьевич": 10,
-      "Лебедева Наталья Николаевна": 16,
-      "Савченко Светлана Борисовна": 532,
-      "Силиверстов Игорь Витальевич": 6,
-      "Соломахин Олег Андреевич": 43,
-      "Тарасов Валерий Иванович": 7,
-      "Шперов Павел Валентинович": 65,
-      "Шуба Дмитрий Евгеньевич": 8
+      "gas:candidate-vibid:493400789838": 26,
+      "gas:candidate-vibid:493400789985": 10,
+      "gas:candidate-vibid:493400790200": 16,
+      "gas:candidate-vibid:493400789970": 532,
+      "gas:candidate-vibid:493400790187": 6,
+      "gas:candidate-vibid:493400789816": 43,
+      "gas:candidate-vibid:493400790106": 7,
+      "gas:candidate-vibid:493400789642": 65,
+      "gas:candidate-vibid:493400789940": 8
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/crimea?action=show&root=1000308&tvd=493400789226&vrn=100100067795849&region=93&global=&sub_region=93&prver=0&pronetvd=null&vibid=493400789226&type=464",
@@ -3996,15 +3996,15 @@ export const duma_2016_uik_463_region_93_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Беккер Олег Ефимович": 10,
-      "Боушев Владимир Геннадьевич": 13,
-      "Лебедева Наталья Николаевна": 20,
-      "Савченко Светлана Борисовна": 659,
-      "Силиверстов Игорь Витальевич": 7,
-      "Соломахин Олег Андреевич": 30,
-      "Тарасов Валерий Иванович": 6,
-      "Шперов Павел Валентинович": 79,
-      "Шуба Дмитрий Евгеньевич": 10
+      "gas:candidate-vibid:493400789838": 10,
+      "gas:candidate-vibid:493400789985": 13,
+      "gas:candidate-vibid:493400790200": 20,
+      "gas:candidate-vibid:493400789970": 659,
+      "gas:candidate-vibid:493400790187": 7,
+      "gas:candidate-vibid:493400789816": 30,
+      "gas:candidate-vibid:493400790106": 6,
+      "gas:candidate-vibid:493400789642": 79,
+      "gas:candidate-vibid:493400789940": 10
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/crimea?action=show&root=1000308&tvd=493400789226&vrn=100100067795849&region=93&global=&sub_region=93&prver=0&pronetvd=null&vibid=493400789226&type=464",
@@ -4055,15 +4055,15 @@ export const duma_2016_uik_463_region_93_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Беккер Олег Ефимович": 32,
-      "Боушев Владимир Геннадьевич": 53,
-      "Лебедева Наталья Николаевна": 49,
-      "Савченко Светлана Борисовна": 840,
-      "Силиверстов Игорь Витальевич": 33,
-      "Соломахин Олег Андреевич": 165,
-      "Тарасов Валерий Иванович": 21,
-      "Шперов Павел Валентинович": 153,
-      "Шуба Дмитрий Евгеньевич": 30
+      "gas:candidate-vibid:493400789838": 32,
+      "gas:candidate-vibid:493400789985": 53,
+      "gas:candidate-vibid:493400790200": 49,
+      "gas:candidate-vibid:493400789970": 840,
+      "gas:candidate-vibid:493400790187": 33,
+      "gas:candidate-vibid:493400789816": 165,
+      "gas:candidate-vibid:493400790106": 21,
+      "gas:candidate-vibid:493400789642": 153,
+      "gas:candidate-vibid:493400789940": 30
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/crimea?action=show&root=1000308&tvd=493400789227&vrn=100100067795849&region=93&global=&sub_region=93&prver=0&pronetvd=null&vibid=493400789227&type=464",
@@ -4114,15 +4114,15 @@ export const duma_2016_uik_463_region_93_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Беккер Олег Ефимович": 27,
-      "Боушев Владимир Геннадьевич": 39,
-      "Лебедева Наталья Николаевна": 68,
-      "Савченко Светлана Борисовна": 808,
-      "Силиверстов Игорь Витальевич": 33,
-      "Соломахин Олег Андреевич": 76,
-      "Тарасов Валерий Иванович": 19,
-      "Шперов Павел Валентинович": 109,
-      "Шуба Дмитрий Евгеньевич": 26
+      "gas:candidate-vibid:493400789838": 27,
+      "gas:candidate-vibid:493400789985": 39,
+      "gas:candidate-vibid:493400790200": 68,
+      "gas:candidate-vibid:493400789970": 808,
+      "gas:candidate-vibid:493400790187": 33,
+      "gas:candidate-vibid:493400789816": 76,
+      "gas:candidate-vibid:493400790106": 19,
+      "gas:candidate-vibid:493400789642": 109,
+      "gas:candidate-vibid:493400789940": 26
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/crimea?action=show&root=1000308&tvd=493400789227&vrn=100100067795849&region=93&global=&sub_region=93&prver=0&pronetvd=null&vibid=493400789227&type=464",
@@ -4173,15 +4173,15 @@ export const duma_2016_uik_463_region_93_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Беккер Олег Ефимович": 36,
-      "Боушев Владимир Геннадьевич": 33,
-      "Лебедева Наталья Николаевна": 41,
-      "Савченко Светлана Борисовна": 523,
-      "Силиверстов Игорь Витальевич": 21,
-      "Соломахин Олег Андреевич": 56,
-      "Тарасов Валерий Иванович": 19,
-      "Шперов Павел Валентинович": 69,
-      "Шуба Дмитрий Евгеньевич": 27
+      "gas:candidate-vibid:493400789838": 36,
+      "gas:candidate-vibid:493400789985": 33,
+      "gas:candidate-vibid:493400790200": 41,
+      "gas:candidate-vibid:493400789970": 523,
+      "gas:candidate-vibid:493400790187": 21,
+      "gas:candidate-vibid:493400789816": 56,
+      "gas:candidate-vibid:493400790106": 19,
+      "gas:candidate-vibid:493400789642": 69,
+      "gas:candidate-vibid:493400789940": 27
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/crimea?action=show&root=1000308&tvd=493400789227&vrn=100100067795849&region=93&global=&sub_region=93&prver=0&pronetvd=null&vibid=493400789227&type=464",
@@ -4232,15 +4232,15 @@ export const duma_2016_uik_463_region_93_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Беккер Олег Ефимович": 18,
-      "Боушев Владимир Геннадьевич": 18,
-      "Лебедева Наталья Николаевна": 15,
-      "Савченко Светлана Борисовна": 691,
-      "Силиверстов Игорь Витальевич": 26,
-      "Соломахин Олег Андреевич": 72,
-      "Тарасов Валерий Иванович": 11,
-      "Шперов Павел Валентинович": 104,
-      "Шуба Дмитрий Евгеньевич": 21
+      "gas:candidate-vibid:493400789838": 18,
+      "gas:candidate-vibid:493400789985": 18,
+      "gas:candidate-vibid:493400790200": 15,
+      "gas:candidate-vibid:493400789970": 691,
+      "gas:candidate-vibid:493400790187": 26,
+      "gas:candidate-vibid:493400789816": 72,
+      "gas:candidate-vibid:493400790106": 11,
+      "gas:candidate-vibid:493400789642": 104,
+      "gas:candidate-vibid:493400789940": 21
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/crimea?action=show&root=1000308&tvd=493400789227&vrn=100100067795849&region=93&global=&sub_region=93&prver=0&pronetvd=null&vibid=493400789227&type=464",
@@ -4291,15 +4291,15 @@ export const duma_2016_uik_463_region_93_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Беккер Олег Ефимович": 22,
-      "Боушев Владимир Геннадьевич": 30,
-      "Лебедева Наталья Николаевна": 27,
-      "Савченко Светлана Борисовна": 770,
-      "Силиверстов Игорь Витальевич": 15,
-      "Соломахин Олег Андреевич": 87,
-      "Тарасов Валерий Иванович": 14,
-      "Шперов Павел Валентинович": 132,
-      "Шуба Дмитрий Евгеньевич": 30
+      "gas:candidate-vibid:493400789838": 22,
+      "gas:candidate-vibid:493400789985": 30,
+      "gas:candidate-vibid:493400790200": 27,
+      "gas:candidate-vibid:493400789970": 770,
+      "gas:candidate-vibid:493400790187": 15,
+      "gas:candidate-vibid:493400789816": 87,
+      "gas:candidate-vibid:493400790106": 14,
+      "gas:candidate-vibid:493400789642": 132,
+      "gas:candidate-vibid:493400789940": 30
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/crimea?action=show&root=1000308&tvd=493400789227&vrn=100100067795849&region=93&global=&sub_region=93&prver=0&pronetvd=null&vibid=493400789227&type=464",
@@ -4350,15 +4350,15 @@ export const duma_2016_uik_463_region_93_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Беккер Олег Ефимович": 34,
-      "Боушев Владимир Геннадьевич": 25,
-      "Лебедева Наталья Николаевна": 15,
-      "Савченко Светлана Борисовна": 601,
-      "Силиверстов Игорь Витальевич": 18,
-      "Соломахин Олег Андреевич": 65,
-      "Тарасов Валерий Иванович": 9,
-      "Шперов Павел Валентинович": 93,
-      "Шуба Дмитрий Евгеньевич": 22
+      "gas:candidate-vibid:493400789838": 34,
+      "gas:candidate-vibid:493400789985": 25,
+      "gas:candidate-vibid:493400790200": 15,
+      "gas:candidate-vibid:493400789970": 601,
+      "gas:candidate-vibid:493400790187": 18,
+      "gas:candidate-vibid:493400789816": 65,
+      "gas:candidate-vibid:493400790106": 9,
+      "gas:candidate-vibid:493400789642": 93,
+      "gas:candidate-vibid:493400789940": 22
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/crimea?action=show&root=1000308&tvd=493400789227&vrn=100100067795849&region=93&global=&sub_region=93&prver=0&pronetvd=null&vibid=493400789227&type=464",
@@ -4409,15 +4409,15 @@ export const duma_2016_uik_463_region_93_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Беккер Олег Ефимович": 39,
-      "Боушев Владимир Геннадьевич": 25,
-      "Лебедева Наталья Николаевна": 29,
-      "Савченко Светлана Борисовна": 696,
-      "Силиверстов Игорь Витальевич": 28,
-      "Соломахин Олег Андреевич": 59,
-      "Тарасов Валерий Иванович": 16,
-      "Шперов Павел Валентинович": 107,
-      "Шуба Дмитрий Евгеньевич": 39
+      "gas:candidate-vibid:493400789838": 39,
+      "gas:candidate-vibid:493400789985": 25,
+      "gas:candidate-vibid:493400790200": 29,
+      "gas:candidate-vibid:493400789970": 696,
+      "gas:candidate-vibid:493400790187": 28,
+      "gas:candidate-vibid:493400789816": 59,
+      "gas:candidate-vibid:493400790106": 16,
+      "gas:candidate-vibid:493400789642": 107,
+      "gas:candidate-vibid:493400789940": 39
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/crimea?action=show&root=1000308&tvd=493400789227&vrn=100100067795849&region=93&global=&sub_region=93&prver=0&pronetvd=null&vibid=493400789227&type=464",
@@ -4468,15 +4468,15 @@ export const duma_2016_uik_463_region_93_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Беккер Олег Ефимович": 33,
-      "Боушев Владимир Геннадьевич": 27,
-      "Лебедева Наталья Николаевна": 28,
-      "Савченко Светлана Борисовна": 653,
-      "Силиверстов Игорь Витальевич": 24,
-      "Соломахин Олег Андреевич": 86,
-      "Тарасов Валерий Иванович": 22,
-      "Шперов Павел Валентинович": 102,
-      "Шуба Дмитрий Евгеньевич": 44
+      "gas:candidate-vibid:493400789838": 33,
+      "gas:candidate-vibid:493400789985": 27,
+      "gas:candidate-vibid:493400790200": 28,
+      "gas:candidate-vibid:493400789970": 653,
+      "gas:candidate-vibid:493400790187": 24,
+      "gas:candidate-vibid:493400789816": 86,
+      "gas:candidate-vibid:493400790106": 22,
+      "gas:candidate-vibid:493400789642": 102,
+      "gas:candidate-vibid:493400789940": 44
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/crimea?action=show&root=1000308&tvd=493400789227&vrn=100100067795849&region=93&global=&sub_region=93&prver=0&pronetvd=null&vibid=493400789227&type=464",
@@ -4527,15 +4527,15 @@ export const duma_2016_uik_463_region_93_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Беккер Олег Ефимович": 23,
-      "Боушев Владимир Геннадьевич": 28,
-      "Лебедева Наталья Николаевна": 19,
-      "Савченко Светлана Борисовна": 584,
-      "Силиверстов Игорь Витальевич": 23,
-      "Соломахин Олег Андреевич": 75,
-      "Тарасов Валерий Иванович": 14,
-      "Шперов Павел Валентинович": 103,
-      "Шуба Дмитрий Евгеньевич": 30
+      "gas:candidate-vibid:493400789838": 23,
+      "gas:candidate-vibid:493400789985": 28,
+      "gas:candidate-vibid:493400790200": 19,
+      "gas:candidate-vibid:493400789970": 584,
+      "gas:candidate-vibid:493400790187": 23,
+      "gas:candidate-vibid:493400789816": 75,
+      "gas:candidate-vibid:493400790106": 14,
+      "gas:candidate-vibid:493400789642": 103,
+      "gas:candidate-vibid:493400789940": 30
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/crimea?action=show&root=1000308&tvd=493400789227&vrn=100100067795849&region=93&global=&sub_region=93&prver=0&pronetvd=null&vibid=493400789227&type=464",
@@ -4586,15 +4586,15 @@ export const duma_2016_uik_463_region_93_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Беккер Олег Ефимович": 29,
-      "Боушев Владимир Геннадьевич": 47,
-      "Лебедева Наталья Николаевна": 38,
-      "Савченко Светлана Борисовна": 876,
-      "Силиверстов Игорь Витальевич": 50,
-      "Соломахин Олег Андреевич": 127,
-      "Тарасов Валерий Иванович": 24,
-      "Шперов Павел Валентинович": 164,
-      "Шуба Дмитрий Евгеньевич": 37
+      "gas:candidate-vibid:493400789838": 29,
+      "gas:candidate-vibid:493400789985": 47,
+      "gas:candidate-vibid:493400790200": 38,
+      "gas:candidate-vibid:493400789970": 876,
+      "gas:candidate-vibid:493400790187": 50,
+      "gas:candidate-vibid:493400789816": 127,
+      "gas:candidate-vibid:493400790106": 24,
+      "gas:candidate-vibid:493400789642": 164,
+      "gas:candidate-vibid:493400789940": 37
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/crimea?action=show&root=1000308&tvd=493400789227&vrn=100100067795849&region=93&global=&sub_region=93&prver=0&pronetvd=null&vibid=493400789227&type=464",
@@ -4645,15 +4645,15 @@ export const duma_2016_uik_463_region_93_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Беккер Олег Ефимович": 27,
-      "Боушев Владимир Геннадьевич": 36,
-      "Лебедева Наталья Николаевна": 32,
-      "Савченко Светлана Борисовна": 555,
-      "Силиверстов Игорь Витальевич": 27,
-      "Соломахин Олег Андреевич": 81,
-      "Тарасов Валерий Иванович": 11,
-      "Шперов Павел Валентинович": 127,
-      "Шуба Дмитрий Евгеньевич": 37
+      "gas:candidate-vibid:493400789838": 27,
+      "gas:candidate-vibid:493400789985": 36,
+      "gas:candidate-vibid:493400790200": 32,
+      "gas:candidate-vibid:493400789970": 555,
+      "gas:candidate-vibid:493400790187": 27,
+      "gas:candidate-vibid:493400789816": 81,
+      "gas:candidate-vibid:493400790106": 11,
+      "gas:candidate-vibid:493400789642": 127,
+      "gas:candidate-vibid:493400789940": 37
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/crimea?action=show&root=1000308&tvd=493400789227&vrn=100100067795849&region=93&global=&sub_region=93&prver=0&pronetvd=null&vibid=493400789227&type=464",
@@ -4704,15 +4704,15 @@ export const duma_2016_uik_463_region_93_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Беккер Олег Ефимович": 25,
-      "Боушев Владимир Геннадьевич": 27,
-      "Лебедева Наталья Николаевна": 24,
-      "Савченко Светлана Борисовна": 671,
-      "Силиверстов Игорь Витальевич": 35,
-      "Соломахин Олег Андреевич": 103,
-      "Тарасов Валерий Иванович": 15,
-      "Шперов Павел Валентинович": 119,
-      "Шуба Дмитрий Евгеньевич": 38
+      "gas:candidate-vibid:493400789838": 25,
+      "gas:candidate-vibid:493400789985": 27,
+      "gas:candidate-vibid:493400790200": 24,
+      "gas:candidate-vibid:493400789970": 671,
+      "gas:candidate-vibid:493400790187": 35,
+      "gas:candidate-vibid:493400789816": 103,
+      "gas:candidate-vibid:493400790106": 15,
+      "gas:candidate-vibid:493400789642": 119,
+      "gas:candidate-vibid:493400789940": 38
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/crimea?action=show&root=1000308&tvd=493400789227&vrn=100100067795849&region=93&global=&sub_region=93&prver=0&pronetvd=null&vibid=493400789227&type=464",
@@ -4763,15 +4763,15 @@ export const duma_2016_uik_463_region_93_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Беккер Олег Ефимович": 33,
-      "Боушев Владимир Геннадьевич": 40,
-      "Лебедева Наталья Николаевна": 31,
-      "Савченко Светлана Борисовна": 737,
-      "Силиверстов Игорь Витальевич": 23,
-      "Соломахин Олег Андреевич": 84,
-      "Тарасов Валерий Иванович": 21,
-      "Шперов Павел Валентинович": 133,
-      "Шуба Дмитрий Евгеньевич": 29
+      "gas:candidate-vibid:493400789838": 33,
+      "gas:candidate-vibid:493400789985": 40,
+      "gas:candidate-vibid:493400790200": 31,
+      "gas:candidate-vibid:493400789970": 737,
+      "gas:candidate-vibid:493400790187": 23,
+      "gas:candidate-vibid:493400789816": 84,
+      "gas:candidate-vibid:493400790106": 21,
+      "gas:candidate-vibid:493400789642": 133,
+      "gas:candidate-vibid:493400789940": 29
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/crimea?action=show&root=1000308&tvd=493400789227&vrn=100100067795849&region=93&global=&sub_region=93&prver=0&pronetvd=null&vibid=493400789227&type=464",
@@ -4822,15 +4822,15 @@ export const duma_2016_uik_463_region_93_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Беккер Олег Ефимович": 26,
-      "Боушев Владимир Геннадьевич": 27,
-      "Лебедева Наталья Николаевна": 33,
-      "Савченко Светлана Борисовна": 615,
-      "Силиверстов Игорь Витальевич": 32,
-      "Соломахин Олег Андреевич": 81,
-      "Тарасов Валерий Иванович": 13,
-      "Шперов Павел Валентинович": 95,
-      "Шуба Дмитрий Евгеньевич": 28
+      "gas:candidate-vibid:493400789838": 26,
+      "gas:candidate-vibid:493400789985": 27,
+      "gas:candidate-vibid:493400790200": 33,
+      "gas:candidate-vibid:493400789970": 615,
+      "gas:candidate-vibid:493400790187": 32,
+      "gas:candidate-vibid:493400789816": 81,
+      "gas:candidate-vibid:493400790106": 13,
+      "gas:candidate-vibid:493400789642": 95,
+      "gas:candidate-vibid:493400789940": 28
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/crimea?action=show&root=1000308&tvd=493400789227&vrn=100100067795849&region=93&global=&sub_region=93&prver=0&pronetvd=null&vibid=493400789227&type=464",
@@ -4881,15 +4881,15 @@ export const duma_2016_uik_463_region_93_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Беккер Олег Ефимович": 28,
-      "Боушев Владимир Геннадьевич": 38,
-      "Лебедева Наталья Николаевна": 33,
-      "Савченко Светлана Борисовна": 750,
-      "Силиверстов Игорь Витальевич": 31,
-      "Соломахин Олег Андреевич": 85,
-      "Тарасов Валерий Иванович": 10,
-      "Шперов Павел Валентинович": 133,
-      "Шуба Дмитрий Евгеньевич": 25
+      "gas:candidate-vibid:493400789838": 28,
+      "gas:candidate-vibid:493400789985": 38,
+      "gas:candidate-vibid:493400790200": 33,
+      "gas:candidate-vibid:493400789970": 750,
+      "gas:candidate-vibid:493400790187": 31,
+      "gas:candidate-vibid:493400789816": 85,
+      "gas:candidate-vibid:493400790106": 10,
+      "gas:candidate-vibid:493400789642": 133,
+      "gas:candidate-vibid:493400789940": 25
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/crimea?action=show&root=1000308&tvd=493400789227&vrn=100100067795849&region=93&global=&sub_region=93&prver=0&pronetvd=null&vibid=493400789227&type=464",
@@ -4940,15 +4940,15 @@ export const duma_2016_uik_463_region_93_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Беккер Олег Ефимович": 25,
-      "Боушев Владимир Геннадьевич": 32,
-      "Лебедева Наталья Николаевна": 25,
-      "Савченко Светлана Борисовна": 652,
-      "Силиверстов Игорь Витальевич": 25,
-      "Соломахин Олег Андреевич": 95,
-      "Тарасов Валерий Иванович": 15,
-      "Шперов Павел Валентинович": 103,
-      "Шуба Дмитрий Евгеньевич": 31
+      "gas:candidate-vibid:493400789838": 25,
+      "gas:candidate-vibid:493400789985": 32,
+      "gas:candidate-vibid:493400790200": 25,
+      "gas:candidate-vibid:493400789970": 652,
+      "gas:candidate-vibid:493400790187": 25,
+      "gas:candidate-vibid:493400789816": 95,
+      "gas:candidate-vibid:493400790106": 15,
+      "gas:candidate-vibid:493400789642": 103,
+      "gas:candidate-vibid:493400789940": 31
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/crimea?action=show&root=1000308&tvd=493400789227&vrn=100100067795849&region=93&global=&sub_region=93&prver=0&pronetvd=null&vibid=493400789227&type=464",
@@ -4999,15 +4999,15 @@ export const duma_2016_uik_463_region_93_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Беккер Олег Ефимович": 33,
-      "Боушев Владимир Геннадьевич": 38,
-      "Лебедева Наталья Николаевна": 25,
-      "Савченко Светлана Борисовна": 706,
-      "Силиверстов Игорь Витальевич": 24,
-      "Соломахин Олег Андреевич": 90,
-      "Тарасов Валерий Иванович": 12,
-      "Шперов Павел Валентинович": 109,
-      "Шуба Дмитрий Евгеньевич": 25
+      "gas:candidate-vibid:493400789838": 33,
+      "gas:candidate-vibid:493400789985": 38,
+      "gas:candidate-vibid:493400790200": 25,
+      "gas:candidate-vibid:493400789970": 706,
+      "gas:candidate-vibid:493400790187": 24,
+      "gas:candidate-vibid:493400789816": 90,
+      "gas:candidate-vibid:493400790106": 12,
+      "gas:candidate-vibid:493400789642": 109,
+      "gas:candidate-vibid:493400789940": 25
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/crimea?action=show&root=1000308&tvd=493400789227&vrn=100100067795849&region=93&global=&sub_region=93&prver=0&pronetvd=null&vibid=493400789227&type=464",
@@ -5058,15 +5058,15 @@ export const duma_2016_uik_463_region_93_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Беккер Олег Ефимович": 38,
-      "Боушев Владимир Геннадьевич": 26,
-      "Лебедева Наталья Николаевна": 27,
-      "Савченко Светлана Борисовна": 583,
-      "Силиверстов Игорь Витальевич": 27,
-      "Соломахин Олег Андреевич": 105,
-      "Тарасов Валерий Иванович": 12,
-      "Шперов Павел Валентинович": 113,
-      "Шуба Дмитрий Евгеньевич": 34
+      "gas:candidate-vibid:493400789838": 38,
+      "gas:candidate-vibid:493400789985": 26,
+      "gas:candidate-vibid:493400790200": 27,
+      "gas:candidate-vibid:493400789970": 583,
+      "gas:candidate-vibid:493400790187": 27,
+      "gas:candidate-vibid:493400789816": 105,
+      "gas:candidate-vibid:493400790106": 12,
+      "gas:candidate-vibid:493400789642": 113,
+      "gas:candidate-vibid:493400789940": 34
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/crimea?action=show&root=1000308&tvd=493400789227&vrn=100100067795849&region=93&global=&sub_region=93&prver=0&pronetvd=null&vibid=493400789227&type=464",
@@ -5117,15 +5117,15 @@ export const duma_2016_uik_463_region_93_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Беккер Олег Ефимович": 36,
-      "Боушев Владимир Геннадьевич": 23,
-      "Лебедева Наталья Николаевна": 16,
-      "Савченко Светлана Борисовна": 733,
-      "Силиверстов Игорь Витальевич": 31,
-      "Соломахин Олег Андреевич": 95,
-      "Тарасов Валерий Иванович": 14,
-      "Шперов Павел Валентинович": 123,
-      "Шуба Дмитрий Евгеньевич": 34
+      "gas:candidate-vibid:493400789838": 36,
+      "gas:candidate-vibid:493400789985": 23,
+      "gas:candidate-vibid:493400790200": 16,
+      "gas:candidate-vibid:493400789970": 733,
+      "gas:candidate-vibid:493400790187": 31,
+      "gas:candidate-vibid:493400789816": 95,
+      "gas:candidate-vibid:493400790106": 14,
+      "gas:candidate-vibid:493400789642": 123,
+      "gas:candidate-vibid:493400789940": 34
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/crimea?action=show&root=1000308&tvd=493400789227&vrn=100100067795849&region=93&global=&sub_region=93&prver=0&pronetvd=null&vibid=493400789227&type=464",
@@ -5176,15 +5176,15 @@ export const duma_2016_uik_463_region_93_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Беккер Олег Ефимович": 31,
-      "Боушев Владимир Геннадьевич": 20,
-      "Лебедева Наталья Николаевна": 26,
-      "Савченко Светлана Борисовна": 721,
-      "Силиверстов Игорь Витальевич": 26,
-      "Соломахин Олег Андреевич": 61,
-      "Тарасов Валерий Иванович": 19,
-      "Шперов Павел Валентинович": 92,
-      "Шуба Дмитрий Евгеньевич": 30
+      "gas:candidate-vibid:493400789838": 31,
+      "gas:candidate-vibid:493400789985": 20,
+      "gas:candidate-vibid:493400790200": 26,
+      "gas:candidate-vibid:493400789970": 721,
+      "gas:candidate-vibid:493400790187": 26,
+      "gas:candidate-vibid:493400789816": 61,
+      "gas:candidate-vibid:493400790106": 19,
+      "gas:candidate-vibid:493400789642": 92,
+      "gas:candidate-vibid:493400789940": 30
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/crimea?action=show&root=1000308&tvd=493400789227&vrn=100100067795849&region=93&global=&sub_region=93&prver=0&pronetvd=null&vibid=493400789227&type=464",
@@ -5235,15 +5235,15 @@ export const duma_2016_uik_463_region_93_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Беккер Олег Ефимович": 21,
-      "Боушев Владимир Геннадьевич": 25,
-      "Лебедева Наталья Николаевна": 37,
-      "Савченко Светлана Борисовна": 662,
-      "Силиверстов Игорь Витальевич": 47,
-      "Соломахин Олег Андреевич": 73,
-      "Тарасов Валерий Иванович": 16,
-      "Шперов Павел Валентинович": 113,
-      "Шуба Дмитрий Евгеньевич": 27
+      "gas:candidate-vibid:493400789838": 21,
+      "gas:candidate-vibid:493400789985": 25,
+      "gas:candidate-vibid:493400790200": 37,
+      "gas:candidate-vibid:493400789970": 662,
+      "gas:candidate-vibid:493400790187": 47,
+      "gas:candidate-vibid:493400789816": 73,
+      "gas:candidate-vibid:493400790106": 16,
+      "gas:candidate-vibid:493400789642": 113,
+      "gas:candidate-vibid:493400789940": 27
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/crimea?action=show&root=1000308&tvd=493400789227&vrn=100100067795849&region=93&global=&sub_region=93&prver=0&pronetvd=null&vibid=493400789227&type=464",
@@ -5294,15 +5294,15 @@ export const duma_2016_uik_463_region_93_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Беккер Олег Ефимович": 23,
-      "Боушев Владимир Геннадьевич": 18,
-      "Лебедева Наталья Николаевна": 30,
-      "Савченко Светлана Борисовна": 623,
-      "Силиверстов Игорь Витальевич": 20,
-      "Соломахин Олег Андреевич": 50,
-      "Тарасов Валерий Иванович": 17,
-      "Шперов Павел Валентинович": 82,
-      "Шуба Дмитрий Евгеньевич": 15
+      "gas:candidate-vibid:493400789838": 23,
+      "gas:candidate-vibid:493400789985": 18,
+      "gas:candidate-vibid:493400790200": 30,
+      "gas:candidate-vibid:493400789970": 623,
+      "gas:candidate-vibid:493400790187": 20,
+      "gas:candidate-vibid:493400789816": 50,
+      "gas:candidate-vibid:493400790106": 17,
+      "gas:candidate-vibid:493400789642": 82,
+      "gas:candidate-vibid:493400789940": 15
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/crimea?action=show&root=1000308&tvd=493400789227&vrn=100100067795849&region=93&global=&sub_region=93&prver=0&pronetvd=null&vibid=493400789227&type=464",
@@ -5353,15 +5353,15 @@ export const duma_2016_uik_463_region_93_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Беккер Олег Ефимович": 28,
-      "Боушев Владимир Геннадьевич": 26,
-      "Лебедева Наталья Николаевна": 36,
-      "Савченко Светлана Борисовна": 836,
-      "Силиверстов Игорь Витальевич": 24,
-      "Соломахин Олег Андреевич": 106,
-      "Тарасов Валерий Иванович": 23,
-      "Шперов Павел Валентинович": 135,
-      "Шуба Дмитрий Евгеньевич": 43
+      "gas:candidate-vibid:493400789838": 28,
+      "gas:candidate-vibid:493400789985": 26,
+      "gas:candidate-vibid:493400790200": 36,
+      "gas:candidate-vibid:493400789970": 836,
+      "gas:candidate-vibid:493400790187": 24,
+      "gas:candidate-vibid:493400789816": 106,
+      "gas:candidate-vibid:493400790106": 23,
+      "gas:candidate-vibid:493400789642": 135,
+      "gas:candidate-vibid:493400789940": 43
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/crimea?action=show&root=1000308&tvd=493400789227&vrn=100100067795849&region=93&global=&sub_region=93&prver=0&pronetvd=null&vibid=493400789227&type=464",
@@ -5412,15 +5412,15 @@ export const duma_2016_uik_463_region_93_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Беккер Олег Ефимович": 36,
-      "Боушев Владимир Геннадьевич": 29,
-      "Лебедева Наталья Николаевна": 43,
-      "Савченко Светлана Борисовна": 933,
-      "Силиверстов Игорь Витальевич": 31,
-      "Соломахин Олег Андреевич": 81,
-      "Тарасов Валерий Иванович": 21,
-      "Шперов Павел Валентинович": 146,
-      "Шуба Дмитрий Евгеньевич": 30
+      "gas:candidate-vibid:493400789838": 36,
+      "gas:candidate-vibid:493400789985": 29,
+      "gas:candidate-vibid:493400790200": 43,
+      "gas:candidate-vibid:493400789970": 933,
+      "gas:candidate-vibid:493400790187": 31,
+      "gas:candidate-vibid:493400789816": 81,
+      "gas:candidate-vibid:493400790106": 21,
+      "gas:candidate-vibid:493400789642": 146,
+      "gas:candidate-vibid:493400789940": 30
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/crimea?action=show&root=1000308&tvd=493400789227&vrn=100100067795849&region=93&global=&sub_region=93&prver=0&pronetvd=null&vibid=493400789227&type=464",
@@ -5471,15 +5471,15 @@ export const duma_2016_uik_463_region_93_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Беккер Олег Ефимович": 28,
-      "Боушев Владимир Геннадьевич": 17,
-      "Лебедева Наталья Николаевна": 39,
-      "Савченко Светлана Борисовна": 630,
-      "Силиверстов Игорь Витальевич": 23,
-      "Соломахин Олег Андреевич": 61,
-      "Тарасов Валерий Иванович": 16,
-      "Шперов Павел Валентинович": 98,
-      "Шуба Дмитрий Евгеньевич": 18
+      "gas:candidate-vibid:493400789838": 28,
+      "gas:candidate-vibid:493400789985": 17,
+      "gas:candidate-vibid:493400790200": 39,
+      "gas:candidate-vibid:493400789970": 630,
+      "gas:candidate-vibid:493400790187": 23,
+      "gas:candidate-vibid:493400789816": 61,
+      "gas:candidate-vibid:493400790106": 16,
+      "gas:candidate-vibid:493400789642": 98,
+      "gas:candidate-vibid:493400789940": 18
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/crimea?action=show&root=1000308&tvd=493400789227&vrn=100100067795849&region=93&global=&sub_region=93&prver=0&pronetvd=null&vibid=493400789227&type=464",
@@ -5530,15 +5530,15 @@ export const duma_2016_uik_463_region_93_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Беккер Олег Ефимович": 26,
-      "Боушев Владимир Геннадьевич": 20,
-      "Лебедева Наталья Николаевна": 32,
-      "Савченко Светлана Борисовна": 773,
-      "Силиверстов Игорь Витальевич": 44,
-      "Соломахин Олег Андреевич": 94,
-      "Тарасов Валерий Иванович": 15,
-      "Шперов Павел Валентинович": 117,
-      "Шуба Дмитрий Евгеньевич": 46
+      "gas:candidate-vibid:493400789838": 26,
+      "gas:candidate-vibid:493400789985": 20,
+      "gas:candidate-vibid:493400790200": 32,
+      "gas:candidate-vibid:493400789970": 773,
+      "gas:candidate-vibid:493400790187": 44,
+      "gas:candidate-vibid:493400789816": 94,
+      "gas:candidate-vibid:493400790106": 15,
+      "gas:candidate-vibid:493400789642": 117,
+      "gas:candidate-vibid:493400789940": 46
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/crimea?action=show&root=1000308&tvd=493400789227&vrn=100100067795849&region=93&global=&sub_region=93&prver=0&pronetvd=null&vibid=493400789227&type=464",
@@ -5589,15 +5589,15 @@ export const duma_2016_uik_463_region_93_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Беккер Олег Ефимович": 34,
-      "Боушев Владимир Геннадьевич": 38,
-      "Лебедева Наталья Николаевна": 35,
-      "Савченко Светлана Борисовна": 808,
-      "Силиверстов Игорь Витальевич": 40,
-      "Соломахин Олег Андреевич": 105,
-      "Тарасов Валерий Иванович": 23,
-      "Шперов Павел Валентинович": 130,
-      "Шуба Дмитрий Евгеньевич": 32
+      "gas:candidate-vibid:493400789838": 34,
+      "gas:candidate-vibid:493400789985": 38,
+      "gas:candidate-vibid:493400790200": 35,
+      "gas:candidate-vibid:493400789970": 808,
+      "gas:candidate-vibid:493400790187": 40,
+      "gas:candidate-vibid:493400789816": 105,
+      "gas:candidate-vibid:493400790106": 23,
+      "gas:candidate-vibid:493400789642": 130,
+      "gas:candidate-vibid:493400789940": 32
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/crimea?action=show&root=1000308&tvd=493400789227&vrn=100100067795849&region=93&global=&sub_region=93&prver=0&pronetvd=null&vibid=493400789227&type=464",
@@ -5648,15 +5648,15 @@ export const duma_2016_uik_463_region_93_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Беккер Олег Ефимович": 38,
-      "Боушев Владимир Геннадьевич": 24,
-      "Лебедева Наталья Николаевна": 32,
-      "Савченко Светлана Борисовна": 819,
-      "Силиверстов Игорь Витальевич": 39,
-      "Соломахин Олег Андреевич": 104,
-      "Тарасов Валерий Иванович": 13,
-      "Шперов Павел Валентинович": 107,
-      "Шуба Дмитрий Евгеньевич": 28
+      "gas:candidate-vibid:493400789838": 38,
+      "gas:candidate-vibid:493400789985": 24,
+      "gas:candidate-vibid:493400790200": 32,
+      "gas:candidate-vibid:493400789970": 819,
+      "gas:candidate-vibid:493400790187": 39,
+      "gas:candidate-vibid:493400789816": 104,
+      "gas:candidate-vibid:493400790106": 13,
+      "gas:candidate-vibid:493400789642": 107,
+      "gas:candidate-vibid:493400789940": 28
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/crimea?action=show&root=1000308&tvd=493400789227&vrn=100100067795849&region=93&global=&sub_region=93&prver=0&pronetvd=null&vibid=493400789227&type=464",
@@ -5707,15 +5707,15 @@ export const duma_2016_uik_463_region_93_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Беккер Олег Ефимович": 31,
-      "Боушев Владимир Геннадьевич": 39,
-      "Лебедева Наталья Николаевна": 23,
-      "Савченко Светлана Борисовна": 773,
-      "Силиверстов Игорь Витальевич": 37,
-      "Соломахин Олег Андреевич": 92,
-      "Тарасов Валерий Иванович": 18,
-      "Шперов Павел Валентинович": 152,
-      "Шуба Дмитрий Евгеньевич": 22
+      "gas:candidate-vibid:493400789838": 31,
+      "gas:candidate-vibid:493400789985": 39,
+      "gas:candidate-vibid:493400790200": 23,
+      "gas:candidate-vibid:493400789970": 773,
+      "gas:candidate-vibid:493400790187": 37,
+      "gas:candidate-vibid:493400789816": 92,
+      "gas:candidate-vibid:493400790106": 18,
+      "gas:candidate-vibid:493400789642": 152,
+      "gas:candidate-vibid:493400789940": 22
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/crimea?action=show&root=1000308&tvd=493400789227&vrn=100100067795849&region=93&global=&sub_region=93&prver=0&pronetvd=null&vibid=493400789227&type=464",
@@ -5766,15 +5766,15 @@ export const duma_2016_uik_463_region_93_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Беккер Олег Ефимович": 39,
-      "Боушев Владимир Геннадьевич": 28,
-      "Лебедева Наталья Николаевна": 43,
-      "Савченко Светлана Борисовна": 943,
-      "Силиверстов Игорь Витальевич": 48,
-      "Соломахин Олег Андреевич": 142,
-      "Тарасов Валерий Иванович": 21,
-      "Шперов Павел Валентинович": 125,
-      "Шуба Дмитрий Евгеньевич": 28
+      "gas:candidate-vibid:493400789838": 39,
+      "gas:candidate-vibid:493400789985": 28,
+      "gas:candidate-vibid:493400790200": 43,
+      "gas:candidate-vibid:493400789970": 943,
+      "gas:candidate-vibid:493400790187": 48,
+      "gas:candidate-vibid:493400789816": 142,
+      "gas:candidate-vibid:493400790106": 21,
+      "gas:candidate-vibid:493400789642": 125,
+      "gas:candidate-vibid:493400789940": 28
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/crimea?action=show&root=1000308&tvd=493400789227&vrn=100100067795849&region=93&global=&sub_region=93&prver=0&pronetvd=null&vibid=493400789227&type=464",
@@ -5825,15 +5825,15 @@ export const duma_2016_uik_463_region_93_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Беккер Олег Ефимович": 24,
-      "Боушев Владимир Геннадьевич": 32,
-      "Лебедева Наталья Николаевна": 24,
-      "Савченко Светлана Борисовна": 553,
-      "Силиверстов Игорь Витальевич": 31,
-      "Соломахин Олег Андреевич": 70,
-      "Тарасов Валерий Иванович": 11,
-      "Шперов Павел Валентинович": 83,
-      "Шуба Дмитрий Евгеньевич": 23
+      "gas:candidate-vibid:493400789838": 24,
+      "gas:candidate-vibid:493400789985": 32,
+      "gas:candidate-vibid:493400790200": 24,
+      "gas:candidate-vibid:493400789970": 553,
+      "gas:candidate-vibid:493400790187": 31,
+      "gas:candidate-vibid:493400789816": 70,
+      "gas:candidate-vibid:493400790106": 11,
+      "gas:candidate-vibid:493400789642": 83,
+      "gas:candidate-vibid:493400789940": 23
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/crimea?action=show&root=1000308&tvd=493400789227&vrn=100100067795849&region=93&global=&sub_region=93&prver=0&pronetvd=null&vibid=493400789227&type=464",
@@ -5884,15 +5884,15 @@ export const duma_2016_uik_463_region_93_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Беккер Олег Ефимович": 38,
-      "Боушев Владимир Геннадьевич": 13,
-      "Лебедева Наталья Николаевна": 25,
-      "Савченко Светлана Борисовна": 223,
-      "Силиверстов Игорь Витальевич": 26,
-      "Соломахин Олег Андреевич": 19,
-      "Тарасов Валерий Иванович": 4,
-      "Шперов Павел Валентинович": 18,
-      "Шуба Дмитрий Евгеньевич": 8
+      "gas:candidate-vibid:493400789838": 38,
+      "gas:candidate-vibid:493400789985": 13,
+      "gas:candidate-vibid:493400790200": 25,
+      "gas:candidate-vibid:493400789970": 223,
+      "gas:candidate-vibid:493400790187": 26,
+      "gas:candidate-vibid:493400789816": 19,
+      "gas:candidate-vibid:493400790106": 4,
+      "gas:candidate-vibid:493400789642": 18,
+      "gas:candidate-vibid:493400789940": 8
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/crimea?action=show&root=1000308&tvd=493400789227&vrn=100100067795849&region=93&global=&sub_region=93&prver=0&pronetvd=null&vibid=493400789227&type=464",
@@ -5943,15 +5943,15 @@ export const duma_2016_uik_463_region_93_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Беккер Олег Ефимович": 41,
-      "Боушев Владимир Геннадьевич": 11,
-      "Лебедева Наталья Николаевна": 30,
-      "Савченко Светлана Борисовна": 216,
-      "Силиверстов Игорь Витальевич": 7,
-      "Соломахин Олег Андреевич": 12,
-      "Тарасов Валерий Иванович": 6,
-      "Шперов Павел Валентинович": 17,
-      "Шуба Дмитрий Евгеньевич": 14
+      "gas:candidate-vibid:493400789838": 41,
+      "gas:candidate-vibid:493400789985": 11,
+      "gas:candidate-vibid:493400790200": 30,
+      "gas:candidate-vibid:493400789970": 216,
+      "gas:candidate-vibid:493400790187": 7,
+      "gas:candidate-vibid:493400789816": 12,
+      "gas:candidate-vibid:493400790106": 6,
+      "gas:candidate-vibid:493400789642": 17,
+      "gas:candidate-vibid:493400789940": 14
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/crimea?action=show&root=1000308&tvd=493400789227&vrn=100100067795849&region=93&global=&sub_region=93&prver=0&pronetvd=null&vibid=493400789227&type=464",
@@ -6002,15 +6002,15 @@ export const duma_2016_uik_463_region_93_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Беккер Олег Ефимович": 20,
-      "Боушев Владимир Геннадьевич": 43,
-      "Лебедева Наталья Николаевна": 33,
-      "Савченко Светлана Борисовна": 808,
-      "Силиверстов Игорь Витальевич": 25,
-      "Соломахин Олег Андреевич": 108,
-      "Тарасов Валерий Иванович": 18,
-      "Шперов Павел Валентинович": 82,
-      "Шуба Дмитрий Евгеньевич": 25
+      "gas:candidate-vibid:493400789838": 20,
+      "gas:candidate-vibid:493400789985": 43,
+      "gas:candidate-vibid:493400790200": 33,
+      "gas:candidate-vibid:493400789970": 808,
+      "gas:candidate-vibid:493400790187": 25,
+      "gas:candidate-vibid:493400789816": 108,
+      "gas:candidate-vibid:493400790106": 18,
+      "gas:candidate-vibid:493400789642": 82,
+      "gas:candidate-vibid:493400789940": 25
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/crimea?action=show&root=1000308&tvd=493400789227&vrn=100100067795849&region=93&global=&sub_region=93&prver=0&pronetvd=null&vibid=493400789227&type=464",
@@ -6061,15 +6061,15 @@ export const duma_2016_uik_463_region_93_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Беккер Олег Ефимович": 36,
-      "Боушев Владимир Геннадьевич": 65,
-      "Лебедева Наталья Николаевна": 33,
-      "Савченко Светлана Борисовна": 540,
-      "Силиверстов Игорь Витальевич": 14,
-      "Соломахин Олег Андреевич": 138,
-      "Тарасов Валерий Иванович": 13,
-      "Шперов Павел Валентинович": 81,
-      "Шуба Дмитрий Евгеньевич": 25
+      "gas:candidate-vibid:493400789838": 36,
+      "gas:candidate-vibid:493400789985": 65,
+      "gas:candidate-vibid:493400790200": 33,
+      "gas:candidate-vibid:493400789970": 540,
+      "gas:candidate-vibid:493400790187": 14,
+      "gas:candidate-vibid:493400789816": 138,
+      "gas:candidate-vibid:493400790106": 13,
+      "gas:candidate-vibid:493400789642": 81,
+      "gas:candidate-vibid:493400789940": 25
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/crimea?action=show&root=1000308&tvd=493400789227&vrn=100100067795849&region=93&global=&sub_region=93&prver=0&pronetvd=null&vibid=493400789227&type=464",
@@ -6120,15 +6120,15 @@ export const duma_2016_uik_463_region_93_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Беккер Олег Ефимович": 37,
-      "Боушев Владимир Геннадьевич": 29,
-      "Лебедева Наталья Николаевна": 37,
-      "Савченко Светлана Борисовна": 886,
-      "Силиверстов Игорь Витальевич": 13,
-      "Соломахин Олег Андреевич": 77,
-      "Тарасов Валерий Иванович": 22,
-      "Шперов Павел Валентинович": 114,
-      "Шуба Дмитрий Евгеньевич": 26
+      "gas:candidate-vibid:493400789838": 37,
+      "gas:candidate-vibid:493400789985": 29,
+      "gas:candidate-vibid:493400790200": 37,
+      "gas:candidate-vibid:493400789970": 886,
+      "gas:candidate-vibid:493400790187": 13,
+      "gas:candidate-vibid:493400789816": 77,
+      "gas:candidate-vibid:493400790106": 22,
+      "gas:candidate-vibid:493400789642": 114,
+      "gas:candidate-vibid:493400789940": 26
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/crimea?action=show&root=1000308&tvd=493400789227&vrn=100100067795849&region=93&global=&sub_region=93&prver=0&pronetvd=null&vibid=493400789227&type=464",
@@ -6179,15 +6179,15 @@ export const duma_2016_uik_463_region_93_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Беккер Олег Ефимович": 37,
-      "Боушев Владимир Геннадьевич": 12,
-      "Лебедева Наталья Николаевна": 41,
-      "Савченко Светлана Борисовна": 757,
-      "Силиверстов Игорь Витальевич": 10,
-      "Соломахин Олег Андреевич": 54,
-      "Тарасов Валерий Иванович": 12,
-      "Шперов Павел Валентинович": 92,
-      "Шуба Дмитрий Евгеньевич": 28
+      "gas:candidate-vibid:493400789838": 37,
+      "gas:candidate-vibid:493400789985": 12,
+      "gas:candidate-vibid:493400790200": 41,
+      "gas:candidate-vibid:493400789970": 757,
+      "gas:candidate-vibid:493400790187": 10,
+      "gas:candidate-vibid:493400789816": 54,
+      "gas:candidate-vibid:493400790106": 12,
+      "gas:candidate-vibid:493400789642": 92,
+      "gas:candidate-vibid:493400789940": 28
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/crimea?action=show&root=1000308&tvd=493400789227&vrn=100100067795849&region=93&global=&sub_region=93&prver=0&pronetvd=null&vibid=493400789227&type=464",
@@ -6238,15 +6238,15 @@ export const duma_2016_uik_463_region_93_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Беккер Олег Ефимович": 33,
-      "Боушев Владимир Геннадьевич": 23,
-      "Лебедева Наталья Николаевна": 26,
-      "Савченко Светлана Борисовна": 601,
-      "Силиверстов Игорь Витальевич": 11,
-      "Соломахин Олег Андреевич": 72,
-      "Тарасов Валерий Иванович": 13,
-      "Шперов Павел Валентинович": 69,
-      "Шуба Дмитрий Евгеньевич": 36
+      "gas:candidate-vibid:493400789838": 33,
+      "gas:candidate-vibid:493400789985": 23,
+      "gas:candidate-vibid:493400790200": 26,
+      "gas:candidate-vibid:493400789970": 601,
+      "gas:candidate-vibid:493400790187": 11,
+      "gas:candidate-vibid:493400789816": 72,
+      "gas:candidate-vibid:493400790106": 13,
+      "gas:candidate-vibid:493400789642": 69,
+      "gas:candidate-vibid:493400789940": 36
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/crimea?action=show&root=1000308&tvd=493400789227&vrn=100100067795849&region=93&global=&sub_region=93&prver=0&pronetvd=null&vibid=493400789227&type=464",
@@ -6297,15 +6297,15 @@ export const duma_2016_uik_463_region_93_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Беккер Олег Ефимович": 19,
-      "Боушев Владимир Геннадьевич": 4,
-      "Лебедева Наталья Николаевна": 16,
-      "Савченко Светлана Борисовна": 545,
-      "Силиверстов Игорь Витальевич": 6,
-      "Соломахин Олег Андреевич": 20,
-      "Тарасов Валерий Иванович": 6,
-      "Шперов Павел Валентинович": 50,
-      "Шуба Дмитрий Евгеньевич": 18
+      "gas:candidate-vibid:493400789838": 19,
+      "gas:candidate-vibid:493400789985": 4,
+      "gas:candidate-vibid:493400790200": 16,
+      "gas:candidate-vibid:493400789970": 545,
+      "gas:candidate-vibid:493400790187": 6,
+      "gas:candidate-vibid:493400789816": 20,
+      "gas:candidate-vibid:493400790106": 6,
+      "gas:candidate-vibid:493400789642": 50,
+      "gas:candidate-vibid:493400789940": 18
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/crimea?action=show&root=1000308&tvd=493400789267&vrn=100100067795849&region=93&global=&sub_region=93&prver=0&pronetvd=null&vibid=493400789267&type=464",
@@ -6356,15 +6356,15 @@ export const duma_2016_uik_463_region_93_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Беккер Олег Ефимович": 5,
-      "Боушев Владимир Геннадьевич": 3,
-      "Лебедева Наталья Николаевна": 5,
-      "Савченко Светлана Борисовна": 290,
-      "Силиверстов Игорь Витальевич": 3,
-      "Соломахин Олег Андреевич": 24,
-      "Тарасов Валерий Иванович": 4,
-      "Шперов Павел Валентинович": 21,
-      "Шуба Дмитрий Евгеньевич": 3
+      "gas:candidate-vibid:493400789838": 5,
+      "gas:candidate-vibid:493400789985": 3,
+      "gas:candidate-vibid:493400790200": 5,
+      "gas:candidate-vibid:493400789970": 290,
+      "gas:candidate-vibid:493400790187": 3,
+      "gas:candidate-vibid:493400789816": 24,
+      "gas:candidate-vibid:493400790106": 4,
+      "gas:candidate-vibid:493400789642": 21,
+      "gas:candidate-vibid:493400789940": 3
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/crimea?action=show&root=1000308&tvd=493400789267&vrn=100100067795849&region=93&global=&sub_region=93&prver=0&pronetvd=null&vibid=493400789267&type=464",
@@ -6415,15 +6415,15 @@ export const duma_2016_uik_463_region_93_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Беккер Олег Ефимович": 43,
-      "Боушев Владимир Геннадьевич": 9,
-      "Лебедева Наталья Николаевна": 23,
-      "Савченко Светлана Борисовна": 661,
-      "Силиверстов Игорь Витальевич": 13,
-      "Соломахин Олег Андреевич": 64,
-      "Тарасов Валерий Иванович": 9,
-      "Шперов Павел Валентинович": 81,
-      "Шуба Дмитрий Евгеньевич": 16
+      "gas:candidate-vibid:493400789838": 43,
+      "gas:candidate-vibid:493400789985": 9,
+      "gas:candidate-vibid:493400790200": 23,
+      "gas:candidate-vibid:493400789970": 661,
+      "gas:candidate-vibid:493400790187": 13,
+      "gas:candidate-vibid:493400789816": 64,
+      "gas:candidate-vibid:493400790106": 9,
+      "gas:candidate-vibid:493400789642": 81,
+      "gas:candidate-vibid:493400789940": 16
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/crimea?action=show&root=1000308&tvd=493400789267&vrn=100100067795849&region=93&global=&sub_region=93&prver=0&pronetvd=null&vibid=493400789267&type=464",
@@ -6474,15 +6474,15 @@ export const duma_2016_uik_463_region_93_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Беккер Олег Ефимович": 33,
-      "Боушев Владимир Геннадьевич": 11,
-      "Лебедева Наталья Николаевна": 33,
-      "Савченко Светлана Борисовна": 641,
-      "Силиверстов Игорь Витальевич": 11,
-      "Соломахин Олег Андреевич": 50,
-      "Тарасов Валерий Иванович": 13,
-      "Шперов Павел Валентинович": 73,
-      "Шуба Дмитрий Евгеньевич": 15
+      "gas:candidate-vibid:493400789838": 33,
+      "gas:candidate-vibid:493400789985": 11,
+      "gas:candidate-vibid:493400790200": 33,
+      "gas:candidate-vibid:493400789970": 641,
+      "gas:candidate-vibid:493400790187": 11,
+      "gas:candidate-vibid:493400789816": 50,
+      "gas:candidate-vibid:493400790106": 13,
+      "gas:candidate-vibid:493400789642": 73,
+      "gas:candidate-vibid:493400789940": 15
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/crimea?action=show&root=1000308&tvd=493400789267&vrn=100100067795849&region=93&global=&sub_region=93&prver=0&pronetvd=null&vibid=493400789267&type=464",
@@ -6533,15 +6533,15 @@ export const duma_2016_uik_463_region_93_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Беккер Олег Ефимович": 19,
-      "Боушев Владимир Геннадьевич": 6,
-      "Лебедева Наталья Николаевна": 14,
-      "Савченко Светлана Борисовна": 587,
-      "Силиверстов Игорь Витальевич": 9,
-      "Соломахин Олег Андреевич": 36,
-      "Тарасов Валерий Иванович": 10,
-      "Шперов Павел Валентинович": 67,
-      "Шуба Дмитрий Евгеньевич": 13
+      "gas:candidate-vibid:493400789838": 19,
+      "gas:candidate-vibid:493400789985": 6,
+      "gas:candidate-vibid:493400790200": 14,
+      "gas:candidate-vibid:493400789970": 587,
+      "gas:candidate-vibid:493400790187": 9,
+      "gas:candidate-vibid:493400789816": 36,
+      "gas:candidate-vibid:493400790106": 10,
+      "gas:candidate-vibid:493400789642": 67,
+      "gas:candidate-vibid:493400789940": 13
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/crimea?action=show&root=1000308&tvd=493400789267&vrn=100100067795849&region=93&global=&sub_region=93&prver=0&pronetvd=null&vibid=493400789267&type=464",
@@ -6592,15 +6592,15 @@ export const duma_2016_uik_463_region_93_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Беккер Олег Ефимович": 31,
-      "Боушев Владимир Геннадьевич": 20,
-      "Лебедева Наталья Николаевна": 24,
-      "Савченко Светлана Борисовна": 772,
-      "Силиверстов Игорь Витальевич": 8,
-      "Соломахин Олег Андреевич": 54,
-      "Тарасов Валерий Иванович": 10,
-      "Шперов Павел Валентинович": 83,
-      "Шуба Дмитрий Евгеньевич": 16
+      "gas:candidate-vibid:493400789838": 31,
+      "gas:candidate-vibid:493400789985": 20,
+      "gas:candidate-vibid:493400790200": 24,
+      "gas:candidate-vibid:493400789970": 772,
+      "gas:candidate-vibid:493400790187": 8,
+      "gas:candidate-vibid:493400789816": 54,
+      "gas:candidate-vibid:493400790106": 10,
+      "gas:candidate-vibid:493400789642": 83,
+      "gas:candidate-vibid:493400789940": 16
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/crimea?action=show&root=1000308&tvd=493400789267&vrn=100100067795849&region=93&global=&sub_region=93&prver=0&pronetvd=null&vibid=493400789267&type=464",
@@ -6651,15 +6651,15 @@ export const duma_2016_uik_463_region_93_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Беккер Олег Ефимович": 19,
-      "Боушев Владимир Геннадьевич": 15,
-      "Лебедева Наталья Николаевна": 29,
-      "Савченко Светлана Борисовна": 826,
-      "Силиверстов Игорь Витальевич": 11,
-      "Соломахин Олег Андреевич": 67,
-      "Тарасов Валерий Иванович": 10,
-      "Шперов Павел Валентинович": 88,
-      "Шуба Дмитрий Евгеньевич": 8
+      "gas:candidate-vibid:493400789838": 19,
+      "gas:candidate-vibid:493400789985": 15,
+      "gas:candidate-vibid:493400790200": 29,
+      "gas:candidate-vibid:493400789970": 826,
+      "gas:candidate-vibid:493400790187": 11,
+      "gas:candidate-vibid:493400789816": 67,
+      "gas:candidate-vibid:493400790106": 10,
+      "gas:candidate-vibid:493400789642": 88,
+      "gas:candidate-vibid:493400789940": 8
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/crimea?action=show&root=1000308&tvd=493400789267&vrn=100100067795849&region=93&global=&sub_region=93&prver=0&pronetvd=null&vibid=493400789267&type=464",
@@ -6710,15 +6710,15 @@ export const duma_2016_uik_463_region_93_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Беккер Олег Ефимович": 24,
-      "Боушев Владимир Геннадьевич": 12,
-      "Лебедева Наталья Николаевна": 31,
-      "Савченко Светлана Борисовна": 774,
-      "Силиверстов Игорь Витальевич": 8,
-      "Соломахин Олег Андреевич": 74,
-      "Тарасов Валерий Иванович": 11,
-      "Шперов Павел Валентинович": 94,
-      "Шуба Дмитрий Евгеньевич": 21
+      "gas:candidate-vibid:493400789838": 24,
+      "gas:candidate-vibid:493400789985": 12,
+      "gas:candidate-vibid:493400790200": 31,
+      "gas:candidate-vibid:493400789970": 774,
+      "gas:candidate-vibid:493400790187": 8,
+      "gas:candidate-vibid:493400789816": 74,
+      "gas:candidate-vibid:493400790106": 11,
+      "gas:candidate-vibid:493400789642": 94,
+      "gas:candidate-vibid:493400789940": 21
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/crimea?action=show&root=1000308&tvd=493400789267&vrn=100100067795849&region=93&global=&sub_region=93&prver=0&pronetvd=null&vibid=493400789267&type=464",
@@ -6769,15 +6769,15 @@ export const duma_2016_uik_463_region_93_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Беккер Олег Ефимович": 30,
-      "Боушев Владимир Геннадьевич": 10,
-      "Лебедева Наталья Николаевна": 29,
-      "Савченко Светлана Борисовна": 947,
-      "Силиверстов Игорь Витальевич": 9,
-      "Соломахин Олег Андреевич": 80,
-      "Тарасов Валерий Иванович": 15,
-      "Шперов Павел Валентинович": 88,
-      "Шуба Дмитрий Евгеньевич": 30
+      "gas:candidate-vibid:493400789838": 30,
+      "gas:candidate-vibid:493400789985": 10,
+      "gas:candidate-vibid:493400790200": 29,
+      "gas:candidate-vibid:493400789970": 947,
+      "gas:candidate-vibid:493400790187": 9,
+      "gas:candidate-vibid:493400789816": 80,
+      "gas:candidate-vibid:493400790106": 15,
+      "gas:candidate-vibid:493400789642": 88,
+      "gas:candidate-vibid:493400789940": 30
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/crimea?action=show&root=1000308&tvd=493400789267&vrn=100100067795849&region=93&global=&sub_region=93&prver=0&pronetvd=null&vibid=493400789267&type=464",
@@ -6828,15 +6828,15 @@ export const duma_2016_uik_463_region_93_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Беккер Олег Ефимович": 17,
-      "Боушев Владимир Геннадьевич": 10,
-      "Лебедева Наталья Николаевна": 20,
-      "Савченко Светлана Борисовна": 587,
-      "Силиверстов Игорь Витальевич": 7,
-      "Соломахин Олег Андреевич": 29,
-      "Тарасов Валерий Иванович": 8,
-      "Шперов Павел Валентинович": 68,
-      "Шуба Дмитрий Евгеньевич": 7
+      "gas:candidate-vibid:493400789838": 17,
+      "gas:candidate-vibid:493400789985": 10,
+      "gas:candidate-vibid:493400790200": 20,
+      "gas:candidate-vibid:493400789970": 587,
+      "gas:candidate-vibid:493400790187": 7,
+      "gas:candidate-vibid:493400789816": 29,
+      "gas:candidate-vibid:493400790106": 8,
+      "gas:candidate-vibid:493400789642": 68,
+      "gas:candidate-vibid:493400789940": 7
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/crimea?action=show&root=1000308&tvd=493400789267&vrn=100100067795849&region=93&global=&sub_region=93&prver=0&pronetvd=null&vibid=493400789267&type=464",
@@ -6887,15 +6887,15 @@ export const duma_2016_uik_463_region_93_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Беккер Олег Ефимович": 9,
-      "Боушев Владимир Геннадьевич": 14,
-      "Лебедева Наталья Николаевна": 16,
-      "Савченко Светлана Борисовна": 364,
-      "Силиверстов Игорь Витальевич": 7,
-      "Соломахин Олег Андреевич": 17,
-      "Тарасов Валерий Иванович": 6,
-      "Шперов Павел Валентинович": 33,
-      "Шуба Дмитрий Евгеньевич": 8
+      "gas:candidate-vibid:493400789838": 9,
+      "gas:candidate-vibid:493400789985": 14,
+      "gas:candidate-vibid:493400790200": 16,
+      "gas:candidate-vibid:493400789970": 364,
+      "gas:candidate-vibid:493400790187": 7,
+      "gas:candidate-vibid:493400789816": 17,
+      "gas:candidate-vibid:493400790106": 6,
+      "gas:candidate-vibid:493400789642": 33,
+      "gas:candidate-vibid:493400789940": 8
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/crimea?action=show&root=1000308&tvd=493400789267&vrn=100100067795849&region=93&global=&sub_region=93&prver=0&pronetvd=null&vibid=493400789267&type=464",
@@ -6946,15 +6946,15 @@ export const duma_2016_uik_463_region_93_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Беккер Олег Ефимович": 12,
-      "Боушев Владимир Геннадьевич": 19,
-      "Лебедева Наталья Николаевна": 25,
-      "Савченко Светлана Борисовна": 698,
-      "Силиверстов Игорь Витальевич": 10,
-      "Соломахин Олег Андреевич": 70,
-      "Тарасов Валерий Иванович": 10,
-      "Шперов Павел Валентинович": 108,
-      "Шуба Дмитрий Евгеньевич": 13
+      "gas:candidate-vibid:493400789838": 12,
+      "gas:candidate-vibid:493400789985": 19,
+      "gas:candidate-vibid:493400790200": 25,
+      "gas:candidate-vibid:493400789970": 698,
+      "gas:candidate-vibid:493400790187": 10,
+      "gas:candidate-vibid:493400789816": 70,
+      "gas:candidate-vibid:493400790106": 10,
+      "gas:candidate-vibid:493400789642": 108,
+      "gas:candidate-vibid:493400789940": 13
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/crimea?action=show&root=1000308&tvd=493400789267&vrn=100100067795849&region=93&global=&sub_region=93&prver=0&pronetvd=null&vibid=493400789267&type=464",
@@ -7005,15 +7005,15 @@ export const duma_2016_uik_463_region_93_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Беккер Олег Ефимович": 25,
-      "Боушев Владимир Геннадьевич": 6,
-      "Лебедева Наталья Николаевна": 22,
-      "Савченко Светлана Борисовна": 530,
-      "Силиверстов Игорь Витальевич": 5,
-      "Соломахин Олег Андреевич": 36,
-      "Тарасов Валерий Иванович": 5,
-      "Шперов Павел Валентинович": 33,
-      "Шуба Дмитрий Евгеньевич": 26
+      "gas:candidate-vibid:493400789838": 25,
+      "gas:candidate-vibid:493400789985": 6,
+      "gas:candidate-vibid:493400790200": 22,
+      "gas:candidate-vibid:493400789970": 530,
+      "gas:candidate-vibid:493400790187": 5,
+      "gas:candidate-vibid:493400789816": 36,
+      "gas:candidate-vibid:493400790106": 5,
+      "gas:candidate-vibid:493400789642": 33,
+      "gas:candidate-vibid:493400789940": 26
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/crimea?action=show&root=1000308&tvd=493400789267&vrn=100100067795849&region=93&global=&sub_region=93&prver=0&pronetvd=null&vibid=493400789267&type=464",
@@ -7064,15 +7064,15 @@ export const duma_2016_uik_463_region_93_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Беккер Олег Ефимович": 22,
-      "Боушев Владимир Геннадьевич": 5,
-      "Лебедева Наталья Николаевна": 15,
-      "Савченко Светлана Борисовна": 276,
-      "Силиверстов Игорь Витальевич": 2,
-      "Соломахин Олег Андреевич": 16,
-      "Тарасов Валерий Иванович": 3,
-      "Шперов Павел Валентинович": 13,
-      "Шуба Дмитрий Евгеньевич": 7
+      "gas:candidate-vibid:493400789838": 22,
+      "gas:candidate-vibid:493400789985": 5,
+      "gas:candidate-vibid:493400790200": 15,
+      "gas:candidate-vibid:493400789970": 276,
+      "gas:candidate-vibid:493400790187": 2,
+      "gas:candidate-vibid:493400789816": 16,
+      "gas:candidate-vibid:493400790106": 3,
+      "gas:candidate-vibid:493400789642": 13,
+      "gas:candidate-vibid:493400789940": 7
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/crimea?action=show&root=1000308&tvd=493400789267&vrn=100100067795849&region=93&global=&sub_region=93&prver=0&pronetvd=null&vibid=493400789267&type=464",
@@ -7123,15 +7123,15 @@ export const duma_2016_uik_463_region_93_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Беккер Олег Ефимович": 13,
-      "Боушев Владимир Геннадьевич": 16,
-      "Лебедева Наталья Николаевна": 27,
-      "Савченко Светлана Борисовна": 738,
-      "Силиверстов Игорь Витальевич": 6,
-      "Соломахин Олег Андреевич": 52,
-      "Тарасов Валерий Иванович": 15,
-      "Шперов Павел Валентинович": 100,
-      "Шуба Дмитрий Евгеньевич": 16
+      "gas:candidate-vibid:493400789838": 13,
+      "gas:candidate-vibid:493400789985": 16,
+      "gas:candidate-vibid:493400790200": 27,
+      "gas:candidate-vibid:493400789970": 738,
+      "gas:candidate-vibid:493400790187": 6,
+      "gas:candidate-vibid:493400789816": 52,
+      "gas:candidate-vibid:493400790106": 15,
+      "gas:candidate-vibid:493400789642": 100,
+      "gas:candidate-vibid:493400789940": 16
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/crimea?action=show&root=1000308&tvd=493400789268&vrn=100100067795849&region=93&global=&sub_region=93&prver=0&pronetvd=null&vibid=493400789268&type=464",
@@ -7182,15 +7182,15 @@ export const duma_2016_uik_463_region_93_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Беккер Олег Ефимович": 30,
-      "Боушев Владимир Геннадьевич": 14,
-      "Лебедева Наталья Николаевна": 26,
-      "Савченко Светлана Борисовна": 845,
-      "Силиверстов Игорь Витальевич": 24,
-      "Соломахин Олег Андреевич": 58,
-      "Тарасов Валерий Иванович": 22,
-      "Шперов Павел Валентинович": 115,
-      "Шуба Дмитрий Евгеньевич": 22
+      "gas:candidate-vibid:493400789838": 30,
+      "gas:candidate-vibid:493400789985": 14,
+      "gas:candidate-vibid:493400790200": 26,
+      "gas:candidate-vibid:493400789970": 845,
+      "gas:candidate-vibid:493400790187": 24,
+      "gas:candidate-vibid:493400789816": 58,
+      "gas:candidate-vibid:493400790106": 22,
+      "gas:candidate-vibid:493400789642": 115,
+      "gas:candidate-vibid:493400789940": 22
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/crimea?action=show&root=1000308&tvd=493400789268&vrn=100100067795849&region=93&global=&sub_region=93&prver=0&pronetvd=null&vibid=493400789268&type=464",
@@ -7241,15 +7241,15 @@ export const duma_2016_uik_463_region_93_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Беккер Олег Ефимович": 13,
-      "Боушев Владимир Геннадьевич": 9,
-      "Лебедева Наталья Николаевна": 17,
-      "Савченко Светлана Борисовна": 342,
-      "Силиверстов Игорь Витальевич": 6,
-      "Соломахин Олег Андреевич": 22,
-      "Тарасов Валерий Иванович": 4,
-      "Шперов Павел Валентинович": 42,
-      "Шуба Дмитрий Евгеньевич": 6
+      "gas:candidate-vibid:493400789838": 13,
+      "gas:candidate-vibid:493400789985": 9,
+      "gas:candidate-vibid:493400790200": 17,
+      "gas:candidate-vibid:493400789970": 342,
+      "gas:candidate-vibid:493400790187": 6,
+      "gas:candidate-vibid:493400789816": 22,
+      "gas:candidate-vibid:493400790106": 4,
+      "gas:candidate-vibid:493400789642": 42,
+      "gas:candidate-vibid:493400789940": 6
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/crimea?action=show&root=1000308&tvd=493400789268&vrn=100100067795849&region=93&global=&sub_region=93&prver=0&pronetvd=null&vibid=493400789268&type=464",
@@ -7300,15 +7300,15 @@ export const duma_2016_uik_463_region_93_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Беккер Олег Ефимович": 9,
-      "Боушев Владимир Геннадьевич": 6,
-      "Лебедева Наталья Николаевна": 8,
-      "Савченко Светлана Борисовна": 361,
-      "Силиверстов Игорь Витальевич": 7,
-      "Соломахин Олег Андреевич": 36,
-      "Тарасов Валерий Иванович": 8,
-      "Шперов Павел Валентинович": 51,
-      "Шуба Дмитрий Евгеньевич": 7
+      "gas:candidate-vibid:493400789838": 9,
+      "gas:candidate-vibid:493400789985": 6,
+      "gas:candidate-vibid:493400790200": 8,
+      "gas:candidate-vibid:493400789970": 361,
+      "gas:candidate-vibid:493400790187": 7,
+      "gas:candidate-vibid:493400789816": 36,
+      "gas:candidate-vibid:493400790106": 8,
+      "gas:candidate-vibid:493400789642": 51,
+      "gas:candidate-vibid:493400789940": 7
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/crimea?action=show&root=1000308&tvd=493400789268&vrn=100100067795849&region=93&global=&sub_region=93&prver=0&pronetvd=null&vibid=493400789268&type=464",
@@ -7359,15 +7359,15 @@ export const duma_2016_uik_463_region_93_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Беккер Олег Ефимович": 18,
-      "Боушев Владимир Геннадьевич": 10,
-      "Лебедева Наталья Николаевна": 13,
-      "Савченко Светлана Борисовна": 421,
-      "Силиверстов Игорь Витальевич": 10,
-      "Соломахин Олег Андреевич": 48,
-      "Тарасов Валерий Иванович": 12,
-      "Шперов Павел Валентинович": 35,
-      "Шуба Дмитрий Евгеньевич": 16
+      "gas:candidate-vibid:493400789838": 18,
+      "gas:candidate-vibid:493400789985": 10,
+      "gas:candidate-vibid:493400790200": 13,
+      "gas:candidate-vibid:493400789970": 421,
+      "gas:candidate-vibid:493400790187": 10,
+      "gas:candidate-vibid:493400789816": 48,
+      "gas:candidate-vibid:493400790106": 12,
+      "gas:candidate-vibid:493400789642": 35,
+      "gas:candidate-vibid:493400789940": 16
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/crimea?action=show&root=1000308&tvd=493400789268&vrn=100100067795849&region=93&global=&sub_region=93&prver=0&pronetvd=null&vibid=493400789268&type=464",
@@ -7418,15 +7418,15 @@ export const duma_2016_uik_463_region_93_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Беккер Олег Ефимович": 23,
-      "Боушев Владимир Геннадьевич": 52,
-      "Лебедева Наталья Николаевна": 21,
-      "Савченко Светлана Борисовна": 682,
-      "Силиверстов Игорь Витальевич": 9,
-      "Соломахин Олег Андреевич": 59,
-      "Тарасов Валерий Иванович": 15,
-      "Шперов Павел Валентинович": 91,
-      "Шуба Дмитрий Евгеньевич": 22
+      "gas:candidate-vibid:493400789838": 23,
+      "gas:candidate-vibid:493400789985": 52,
+      "gas:candidate-vibid:493400790200": 21,
+      "gas:candidate-vibid:493400789970": 682,
+      "gas:candidate-vibid:493400790187": 9,
+      "gas:candidate-vibid:493400789816": 59,
+      "gas:candidate-vibid:493400790106": 15,
+      "gas:candidate-vibid:493400789642": 91,
+      "gas:candidate-vibid:493400789940": 22
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/crimea?action=show&root=1000308&tvd=493400789268&vrn=100100067795849&region=93&global=&sub_region=93&prver=0&pronetvd=null&vibid=493400789268&type=464",
@@ -7477,15 +7477,15 @@ export const duma_2016_uik_463_region_93_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Беккер Олег Ефимович": 29,
-      "Боушев Владимир Геннадьевич": 24,
-      "Лебедева Наталья Николаевна": 23,
-      "Савченко Светлана Борисовна": 751,
-      "Силиверстов Игорь Витальевич": 10,
-      "Соломахин Олег Андреевич": 55,
-      "Тарасов Валерий Иванович": 13,
-      "Шперов Павел Валентинович": 118,
-      "Шуба Дмитрий Евгеньевич": 20
+      "gas:candidate-vibid:493400789838": 29,
+      "gas:candidate-vibid:493400789985": 24,
+      "gas:candidate-vibid:493400790200": 23,
+      "gas:candidate-vibid:493400789970": 751,
+      "gas:candidate-vibid:493400790187": 10,
+      "gas:candidate-vibid:493400789816": 55,
+      "gas:candidate-vibid:493400790106": 13,
+      "gas:candidate-vibid:493400789642": 118,
+      "gas:candidate-vibid:493400789940": 20
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/crimea?action=show&root=1000308&tvd=493400789268&vrn=100100067795849&region=93&global=&sub_region=93&prver=0&pronetvd=null&vibid=493400789268&type=464",
@@ -7536,15 +7536,15 @@ export const duma_2016_uik_463_region_93_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Беккер Олег Ефимович": 43,
-      "Боушев Владимир Геннадьевич": 34,
-      "Лебедева Наталья Николаевна": 33,
-      "Савченко Светлана Борисовна": 837,
-      "Силиверстов Игорь Витальевич": 12,
-      "Соломахин Олег Андреевич": 71,
-      "Тарасов Валерий Иванович": 25,
-      "Шперов Павел Валентинович": 132,
-      "Шуба Дмитрий Евгеньевич": 24
+      "gas:candidate-vibid:493400789838": 43,
+      "gas:candidate-vibid:493400789985": 34,
+      "gas:candidate-vibid:493400790200": 33,
+      "gas:candidate-vibid:493400789970": 837,
+      "gas:candidate-vibid:493400790187": 12,
+      "gas:candidate-vibid:493400789816": 71,
+      "gas:candidate-vibid:493400790106": 25,
+      "gas:candidate-vibid:493400789642": 132,
+      "gas:candidate-vibid:493400789940": 24
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/crimea?action=show&root=1000308&tvd=493400789268&vrn=100100067795849&region=93&global=&sub_region=93&prver=0&pronetvd=null&vibid=493400789268&type=464",
@@ -7595,15 +7595,15 @@ export const duma_2016_uik_463_region_93_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Беккер Олег Ефимович": 44,
-      "Боушев Владимир Геннадьевич": 12,
-      "Лебедева Наталья Николаевна": 22,
-      "Савченко Светлана Борисовна": 586,
-      "Силиверстов Игорь Витальевич": 8,
-      "Соломахин Олег Андреевич": 65,
-      "Тарасов Валерий Иванович": 9,
-      "Шперов Павел Валентинович": 76,
-      "Шуба Дмитрий Евгеньевич": 18
+      "gas:candidate-vibid:493400789838": 44,
+      "gas:candidate-vibid:493400789985": 12,
+      "gas:candidate-vibid:493400790200": 22,
+      "gas:candidate-vibid:493400789970": 586,
+      "gas:candidate-vibid:493400790187": 8,
+      "gas:candidate-vibid:493400789816": 65,
+      "gas:candidate-vibid:493400790106": 9,
+      "gas:candidate-vibid:493400789642": 76,
+      "gas:candidate-vibid:493400789940": 18
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/crimea?action=show&root=1000308&tvd=493400789268&vrn=100100067795849&region=93&global=&sub_region=93&prver=0&pronetvd=null&vibid=493400789268&type=464",
@@ -7654,15 +7654,15 @@ export const duma_2016_uik_463_region_93_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Беккер Олег Ефимович": 30,
-      "Боушев Владимир Геннадьевич": 26,
-      "Лебедева Наталья Николаевна": 29,
-      "Савченко Светлана Борисовна": 851,
-      "Силиверстов Игорь Витальевич": 15,
-      "Соломахин Олег Андреевич": 83,
-      "Тарасов Валерий Иванович": 26,
-      "Шперов Павел Валентинович": 113,
-      "Шуба Дмитрий Евгеньевич": 20
+      "gas:candidate-vibid:493400789838": 30,
+      "gas:candidate-vibid:493400789985": 26,
+      "gas:candidate-vibid:493400790200": 29,
+      "gas:candidate-vibid:493400789970": 851,
+      "gas:candidate-vibid:493400790187": 15,
+      "gas:candidate-vibid:493400789816": 83,
+      "gas:candidate-vibid:493400790106": 26,
+      "gas:candidate-vibid:493400789642": 113,
+      "gas:candidate-vibid:493400789940": 20
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/crimea?action=show&root=1000308&tvd=493400789268&vrn=100100067795849&region=93&global=&sub_region=93&prver=0&pronetvd=null&vibid=493400789268&type=464",
@@ -7713,15 +7713,15 @@ export const duma_2016_uik_463_region_93_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Беккер Олег Ефимович": 18,
-      "Боушев Владимир Геннадьевич": 10,
-      "Лебедева Наталья Николаевна": 25,
-      "Савченко Светлана Борисовна": 537,
-      "Силиверстов Игорь Витальевич": 13,
-      "Соломахин Олег Андреевич": 32,
-      "Тарасов Валерий Иванович": 6,
-      "Шперов Павел Валентинович": 56,
-      "Шуба Дмитрий Евгеньевич": 9
+      "gas:candidate-vibid:493400789838": 18,
+      "gas:candidate-vibid:493400789985": 10,
+      "gas:candidate-vibid:493400790200": 25,
+      "gas:candidate-vibid:493400789970": 537,
+      "gas:candidate-vibid:493400790187": 13,
+      "gas:candidate-vibid:493400789816": 32,
+      "gas:candidate-vibid:493400790106": 6,
+      "gas:candidate-vibid:493400789642": 56,
+      "gas:candidate-vibid:493400789940": 9
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/crimea?action=show&root=1000308&tvd=493400789268&vrn=100100067795849&region=93&global=&sub_region=93&prver=0&pronetvd=null&vibid=493400789268&type=464",
@@ -7772,15 +7772,15 @@ export const duma_2016_uik_463_region_93_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Беккер Олег Ефимович": 31,
-      "Боушев Владимир Геннадьевич": 18,
-      "Лебедева Наталья Николаевна": 25,
-      "Савченко Светлана Борисовна": 497,
-      "Силиверстов Игорь Витальевич": 4,
-      "Соломахин Олег Андреевич": 38,
-      "Тарасов Валерий Иванович": 7,
-      "Шперов Павел Валентинович": 55,
-      "Шуба Дмитрий Евгеньевич": 11
+      "gas:candidate-vibid:493400789838": 31,
+      "gas:candidate-vibid:493400789985": 18,
+      "gas:candidate-vibid:493400790200": 25,
+      "gas:candidate-vibid:493400789970": 497,
+      "gas:candidate-vibid:493400790187": 4,
+      "gas:candidate-vibid:493400789816": 38,
+      "gas:candidate-vibid:493400790106": 7,
+      "gas:candidate-vibid:493400789642": 55,
+      "gas:candidate-vibid:493400789940": 11
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/crimea?action=show&root=1000308&tvd=493400789268&vrn=100100067795849&region=93&global=&sub_region=93&prver=0&pronetvd=null&vibid=493400789268&type=464",
@@ -7831,15 +7831,15 @@ export const duma_2016_uik_463_region_93_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Беккер Олег Ефимович": 13,
-      "Боушев Владимир Геннадьевич": 7,
-      "Лебедева Наталья Николаевна": 3,
-      "Савченко Светлана Борисовна": 233,
-      "Силиверстов Игорь Витальевич": 1,
-      "Соломахин Олег Андреевич": 23,
-      "Тарасов Валерий Иванович": 2,
-      "Шперов Павел Валентинович": 29,
-      "Шуба Дмитрий Евгеньевич": 5
+      "gas:candidate-vibid:493400789838": 13,
+      "gas:candidate-vibid:493400789985": 7,
+      "gas:candidate-vibid:493400790200": 3,
+      "gas:candidate-vibid:493400789970": 233,
+      "gas:candidate-vibid:493400790187": 1,
+      "gas:candidate-vibid:493400789816": 23,
+      "gas:candidate-vibid:493400790106": 2,
+      "gas:candidate-vibid:493400789642": 29,
+      "gas:candidate-vibid:493400789940": 5
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/crimea?action=show&root=1000308&tvd=493400789268&vrn=100100067795849&region=93&global=&sub_region=93&prver=0&pronetvd=null&vibid=493400789268&type=464",
@@ -7890,15 +7890,15 @@ export const duma_2016_uik_463_region_93_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Беккер Олег Ефимович": 20,
-      "Боушев Владимир Геннадьевич": 12,
-      "Лебедева Наталья Николаевна": 14,
-      "Савченко Светлана Борисовна": 643,
-      "Силиверстов Игорь Витальевич": 13,
-      "Соломахин Олег Андреевич": 46,
-      "Тарасов Валерий Иванович": 16,
-      "Шперов Павел Валентинович": 90,
-      "Шуба Дмитрий Евгеньевич": 12
+      "gas:candidate-vibid:493400789838": 20,
+      "gas:candidate-vibid:493400789985": 12,
+      "gas:candidate-vibid:493400790200": 14,
+      "gas:candidate-vibid:493400789970": 643,
+      "gas:candidate-vibid:493400790187": 13,
+      "gas:candidate-vibid:493400789816": 46,
+      "gas:candidate-vibid:493400790106": 16,
+      "gas:candidate-vibid:493400789642": 90,
+      "gas:candidate-vibid:493400789940": 12
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/crimea?action=show&root=1000308&tvd=493400789268&vrn=100100067795849&region=93&global=&sub_region=93&prver=0&pronetvd=null&vibid=493400789268&type=464",
@@ -7949,15 +7949,15 @@ export const duma_2016_uik_463_region_93_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Беккер Олег Ефимович": 3,
-      "Боушев Владимир Геннадьевич": 2,
-      "Лебедева Наталья Николаевна": 3,
-      "Савченко Светлана Борисовна": 75,
-      "Силиверстов Игорь Витальевич": 3,
-      "Соломахин Олег Андреевич": 6,
-      "Тарасов Валерий Иванович": 1,
-      "Шперов Павел Валентинович": 12,
-      "Шуба Дмитрий Евгеньевич": 4
+      "gas:candidate-vibid:493400789838": 3,
+      "gas:candidate-vibid:493400789985": 2,
+      "gas:candidate-vibid:493400790200": 3,
+      "gas:candidate-vibid:493400789970": 75,
+      "gas:candidate-vibid:493400790187": 3,
+      "gas:candidate-vibid:493400789816": 6,
+      "gas:candidate-vibid:493400790106": 1,
+      "gas:candidate-vibid:493400789642": 12,
+      "gas:candidate-vibid:493400789940": 4
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/crimea?action=show&root=1000308&tvd=493400789268&vrn=100100067795849&region=93&global=&sub_region=93&prver=0&pronetvd=null&vibid=493400789268&type=464",
@@ -8008,15 +8008,15 @@ export const duma_2016_uik_463_region_93_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Беккер Олег Ефимович": 34,
-      "Боушев Владимир Геннадьевич": 22,
-      "Лебедева Наталья Николаевна": 40,
-      "Савченко Светлана Борисовна": 465,
-      "Силиверстов Игорь Витальевич": 13,
-      "Соломахин Олег Андреевич": 55,
-      "Тарасов Валерий Иванович": 24,
-      "Шперов Павел Валентинович": 122,
-      "Шуба Дмитрий Евгеньевич": 35
+      "gas:candidate-vibid:493400789838": 34,
+      "gas:candidate-vibid:493400789985": 22,
+      "gas:candidate-vibid:493400790200": 40,
+      "gas:candidate-vibid:493400789970": 465,
+      "gas:candidate-vibid:493400790187": 13,
+      "gas:candidate-vibid:493400789816": 55,
+      "gas:candidate-vibid:493400790106": 24,
+      "gas:candidate-vibid:493400789642": 122,
+      "gas:candidate-vibid:493400789940": 35
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/crimea?action=show&root=1000308&tvd=493400789268&vrn=100100067795849&region=93&global=&sub_region=93&prver=0&pronetvd=null&vibid=493400789268&type=464",
@@ -8067,15 +8067,15 @@ export const duma_2016_uik_463_region_93_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Беккер Олег Ефимович": 18,
-      "Боушев Владимир Геннадьевич": 25,
-      "Лебедева Наталья Николаевна": 21,
-      "Савченко Светлана Борисовна": 486,
-      "Силиверстов Игорь Витальевич": 7,
-      "Соломахин Олег Андреевич": 37,
-      "Тарасов Валерий Иванович": 10,
-      "Шперов Павел Валентинович": 50,
-      "Шуба Дмитрий Евгеньевич": 17
+      "gas:candidate-vibid:493400789838": 18,
+      "gas:candidate-vibid:493400789985": 25,
+      "gas:candidate-vibid:493400790200": 21,
+      "gas:candidate-vibid:493400789970": 486,
+      "gas:candidate-vibid:493400790187": 7,
+      "gas:candidate-vibid:493400789816": 37,
+      "gas:candidate-vibid:493400790106": 10,
+      "gas:candidate-vibid:493400789642": 50,
+      "gas:candidate-vibid:493400789940": 17
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/crimea?action=show&root=1000308&tvd=493400789268&vrn=100100067795849&region=93&global=&sub_region=93&prver=0&pronetvd=null&vibid=493400789268&type=464",
@@ -8126,15 +8126,15 @@ export const duma_2016_uik_463_region_93_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Беккер Олег Ефимович": 3,
-      "Боушев Владимир Геннадьевич": 1,
-      "Лебедева Наталья Николаевна": 5,
-      "Савченко Светлана Борисовна": 126,
-      "Силиверстов Игорь Витальевич": 4,
-      "Соломахин Олег Андреевич": 4,
-      "Тарасов Валерий Иванович": 1,
-      "Шперов Павел Валентинович": 9,
-      "Шуба Дмитрий Евгеньевич": 3
+      "gas:candidate-vibid:493400789838": 3,
+      "gas:candidate-vibid:493400789985": 1,
+      "gas:candidate-vibid:493400790200": 5,
+      "gas:candidate-vibid:493400789970": 126,
+      "gas:candidate-vibid:493400790187": 4,
+      "gas:candidate-vibid:493400789816": 4,
+      "gas:candidate-vibid:493400790106": 1,
+      "gas:candidate-vibid:493400789642": 9,
+      "gas:candidate-vibid:493400789940": 3
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/crimea?action=show&root=1000308&tvd=493400789268&vrn=100100067795849&region=93&global=&sub_region=93&prver=0&pronetvd=null&vibid=493400789268&type=464",
@@ -8185,15 +8185,15 @@ export const duma_2016_uik_463_region_93_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Беккер Олег Ефимович": 13,
-      "Боушев Владимир Геннадьевич": 17,
-      "Лебедева Наталья Николаевна": 26,
-      "Савченко Светлана Борисовна": 785,
-      "Силиверстов Игорь Витальевич": 8,
-      "Соломахин Олег Андреевич": 60,
-      "Тарасов Валерий Иванович": 8,
-      "Шперов Павел Валентинович": 44,
-      "Шуба Дмитрий Евгеньевич": 18
+      "gas:candidate-vibid:493400789838": 13,
+      "gas:candidate-vibid:493400789985": 17,
+      "gas:candidate-vibid:493400790200": 26,
+      "gas:candidate-vibid:493400789970": 785,
+      "gas:candidate-vibid:493400790187": 8,
+      "gas:candidate-vibid:493400789816": 60,
+      "gas:candidate-vibid:493400790106": 8,
+      "gas:candidate-vibid:493400789642": 44,
+      "gas:candidate-vibid:493400789940": 18
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/crimea?action=show&root=1000308&tvd=493400789270&vrn=100100067795849&region=93&global=&sub_region=93&prver=0&pronetvd=null&vibid=493400789270&type=464",
@@ -8244,15 +8244,15 @@ export const duma_2016_uik_463_region_93_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Беккер Олег Ефимович": 25,
-      "Боушев Владимир Геннадьевич": 12,
-      "Лебедева Наталья Николаевна": 21,
-      "Савченко Светлана Борисовна": 750,
-      "Силиверстов Игорь Витальевич": 4,
-      "Соломахин Олег Андреевич": 95,
-      "Тарасов Валерий Иванович": 10,
-      "Шперов Павел Валентинович": 66,
-      "Шуба Дмитрий Евгеньевич": 21
+      "gas:candidate-vibid:493400789838": 25,
+      "gas:candidate-vibid:493400789985": 12,
+      "gas:candidate-vibid:493400790200": 21,
+      "gas:candidate-vibid:493400789970": 750,
+      "gas:candidate-vibid:493400790187": 4,
+      "gas:candidate-vibid:493400789816": 95,
+      "gas:candidate-vibid:493400790106": 10,
+      "gas:candidate-vibid:493400789642": 66,
+      "gas:candidate-vibid:493400789940": 21
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/crimea?action=show&root=1000308&tvd=493400789270&vrn=100100067795849&region=93&global=&sub_region=93&prver=0&pronetvd=null&vibid=493400789270&type=464",
@@ -8303,15 +8303,15 @@ export const duma_2016_uik_463_region_93_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Беккер Олег Ефимович": 17,
-      "Боушев Владимир Геннадьевич": 10,
-      "Лебедева Наталья Николаевна": 22,
-      "Савченко Светлана Борисовна": 825,
-      "Силиверстов Игорь Витальевич": 11,
-      "Соломахин Олег Андреевич": 85,
-      "Тарасов Валерий Иванович": 8,
-      "Шперов Павел Валентинович": 75,
-      "Шуба Дмитрий Евгеньевич": 21
+      "gas:candidate-vibid:493400789838": 17,
+      "gas:candidate-vibid:493400789985": 10,
+      "gas:candidate-vibid:493400790200": 22,
+      "gas:candidate-vibid:493400789970": 825,
+      "gas:candidate-vibid:493400790187": 11,
+      "gas:candidate-vibid:493400789816": 85,
+      "gas:candidate-vibid:493400790106": 8,
+      "gas:candidate-vibid:493400789642": 75,
+      "gas:candidate-vibid:493400789940": 21
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/crimea?action=show&root=1000308&tvd=493400789270&vrn=100100067795849&region=93&global=&sub_region=93&prver=0&pronetvd=null&vibid=493400789270&type=464",
@@ -8362,15 +8362,15 @@ export const duma_2016_uik_463_region_93_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Беккер Олег Ефимович": 22,
-      "Боушев Владимир Геннадьевич": 16,
-      "Лебедева Наталья Николаевна": 30,
-      "Савченко Светлана Борисовна": 960,
-      "Силиверстов Игорь Витальевич": 14,
-      "Соломахин Олег Андреевич": 208,
-      "Тарасов Валерий Иванович": 13,
-      "Шперов Павел Валентинович": 79,
-      "Шуба Дмитрий Евгеньевич": 21
+      "gas:candidate-vibid:493400789838": 22,
+      "gas:candidate-vibid:493400789985": 16,
+      "gas:candidate-vibid:493400790200": 30,
+      "gas:candidate-vibid:493400789970": 960,
+      "gas:candidate-vibid:493400790187": 14,
+      "gas:candidate-vibid:493400789816": 208,
+      "gas:candidate-vibid:493400790106": 13,
+      "gas:candidate-vibid:493400789642": 79,
+      "gas:candidate-vibid:493400789940": 21
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/crimea?action=show&root=1000308&tvd=493400789270&vrn=100100067795849&region=93&global=&sub_region=93&prver=0&pronetvd=null&vibid=493400789270&type=464",
@@ -8421,15 +8421,15 @@ export const duma_2016_uik_463_region_93_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Беккер Олег Ефимович": 18,
-      "Боушев Владимир Геннадьевич": 4,
-      "Лебедева Наталья Николаевна": 23,
-      "Савченко Светлана Борисовна": 750,
-      "Силиверстов Игорь Витальевич": 9,
-      "Соломахин Олег Андреевич": 71,
-      "Тарасов Валерий Иванович": 11,
-      "Шперов Павел Валентинович": 64,
-      "Шуба Дмитрий Евгеньевич": 24
+      "gas:candidate-vibid:493400789838": 18,
+      "gas:candidate-vibid:493400789985": 4,
+      "gas:candidate-vibid:493400790200": 23,
+      "gas:candidate-vibid:493400789970": 750,
+      "gas:candidate-vibid:493400790187": 9,
+      "gas:candidate-vibid:493400789816": 71,
+      "gas:candidate-vibid:493400790106": 11,
+      "gas:candidate-vibid:493400789642": 64,
+      "gas:candidate-vibid:493400789940": 24
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/crimea?action=show&root=1000308&tvd=493400789270&vrn=100100067795849&region=93&global=&sub_region=93&prver=0&pronetvd=null&vibid=493400789270&type=464",
@@ -8480,15 +8480,15 @@ export const duma_2016_uik_463_region_93_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Беккер Олег Ефимович": 24,
-      "Боушев Владимир Геннадьевич": 11,
-      "Лебедева Наталья Николаевна": 24,
-      "Савченко Светлана Борисовна": 907,
-      "Силиверстов Игорь Витальевич": 10,
-      "Соломахин Олег Андреевич": 96,
-      "Тарасов Валерий Иванович": 11,
-      "Шперов Павел Валентинович": 118,
-      "Шуба Дмитрий Евгеньевич": 67
+      "gas:candidate-vibid:493400789838": 24,
+      "gas:candidate-vibid:493400789985": 11,
+      "gas:candidate-vibid:493400790200": 24,
+      "gas:candidate-vibid:493400789970": 907,
+      "gas:candidate-vibid:493400790187": 10,
+      "gas:candidate-vibid:493400789816": 96,
+      "gas:candidate-vibid:493400790106": 11,
+      "gas:candidate-vibid:493400789642": 118,
+      "gas:candidate-vibid:493400789940": 67
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/crimea?action=show&root=1000308&tvd=493400789270&vrn=100100067795849&region=93&global=&sub_region=93&prver=0&pronetvd=null&vibid=493400789270&type=464",
@@ -8539,15 +8539,15 @@ export const duma_2016_uik_463_region_93_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Беккер Олег Ефимович": 30,
-      "Боушев Владимир Геннадьевич": 15,
-      "Лебедева Наталья Николаевна": 21,
-      "Савченко Светлана Борисовна": 1244,
-      "Силиверстов Игорь Витальевич": 26,
-      "Соломахин Олег Андреевич": 49,
-      "Тарасов Валерий Иванович": 1,
-      "Шперов Павел Валентинович": 105,
-      "Шуба Дмитрий Евгеньевич": 27
+      "gas:candidate-vibid:493400789838": 30,
+      "gas:candidate-vibid:493400789985": 15,
+      "gas:candidate-vibid:493400790200": 21,
+      "gas:candidate-vibid:493400789970": 1244,
+      "gas:candidate-vibid:493400790187": 26,
+      "gas:candidate-vibid:493400789816": 49,
+      "gas:candidate-vibid:493400790106": 1,
+      "gas:candidate-vibid:493400789642": 105,
+      "gas:candidate-vibid:493400789940": 27
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/crimea?action=show&root=1000308&tvd=493400789270&vrn=100100067795849&region=93&global=&sub_region=93&prver=0&pronetvd=null&vibid=493400789270&type=464",
@@ -8598,15 +8598,15 @@ export const duma_2016_uik_463_region_93_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Беккер Олег Ефимович": 33,
-      "Боушев Владимир Геннадьевич": 11,
-      "Лебедева Наталья Николаевна": 27,
-      "Савченко Светлана Борисовна": 691,
-      "Силиверстов Игорь Витальевич": 12,
-      "Соломахин Олег Андреевич": 58,
-      "Тарасов Валерий Иванович": 11,
-      "Шперов Павел Валентинович": 67,
-      "Шуба Дмитрий Евгеньевич": 17
+      "gas:candidate-vibid:493400789838": 33,
+      "gas:candidate-vibid:493400789985": 11,
+      "gas:candidate-vibid:493400790200": 27,
+      "gas:candidate-vibid:493400789970": 691,
+      "gas:candidate-vibid:493400790187": 12,
+      "gas:candidate-vibid:493400789816": 58,
+      "gas:candidate-vibid:493400790106": 11,
+      "gas:candidate-vibid:493400789642": 67,
+      "gas:candidate-vibid:493400789940": 17
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/crimea?action=show&root=1000308&tvd=493400789270&vrn=100100067795849&region=93&global=&sub_region=93&prver=0&pronetvd=null&vibid=493400789270&type=464",
@@ -8657,15 +8657,15 @@ export const duma_2016_uik_463_region_93_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Беккер Олег Ефимович": 31,
-      "Боушев Владимир Геннадьевич": 8,
-      "Лебедева Наталья Николаевна": 18,
-      "Савченко Светлана Борисовна": 825,
-      "Силиверстов Игорь Витальевич": 7,
-      "Соломахин Олег Андреевич": 66,
-      "Тарасов Валерий Иванович": 17,
-      "Шперов Павел Валентинович": 62,
-      "Шуба Дмитрий Евгеньевич": 19
+      "gas:candidate-vibid:493400789838": 31,
+      "gas:candidate-vibid:493400789985": 8,
+      "gas:candidate-vibid:493400790200": 18,
+      "gas:candidate-vibid:493400789970": 825,
+      "gas:candidate-vibid:493400790187": 7,
+      "gas:candidate-vibid:493400789816": 66,
+      "gas:candidate-vibid:493400790106": 17,
+      "gas:candidate-vibid:493400789642": 62,
+      "gas:candidate-vibid:493400789940": 19
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/crimea?action=show&root=1000308&tvd=493400789270&vrn=100100067795849&region=93&global=&sub_region=93&prver=0&pronetvd=null&vibid=493400789270&type=464",
@@ -8716,15 +8716,15 @@ export const duma_2016_uik_463_region_93_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Беккер Олег Ефимович": 29,
-      "Боушев Владимир Геннадьевич": 7,
-      "Лебедева Наталья Николаевна": 27,
-      "Савченко Светлана Борисовна": 1017,
-      "Силиверстов Игорь Витальевич": 7,
-      "Соломахин Олег Андреевич": 85,
-      "Тарасов Валерий Иванович": 13,
-      "Шперов Павел Валентинович": 87,
-      "Шуба Дмитрий Евгеньевич": 17
+      "gas:candidate-vibid:493400789838": 29,
+      "gas:candidate-vibid:493400789985": 7,
+      "gas:candidate-vibid:493400790200": 27,
+      "gas:candidate-vibid:493400789970": 1017,
+      "gas:candidate-vibid:493400790187": 7,
+      "gas:candidate-vibid:493400789816": 85,
+      "gas:candidate-vibid:493400790106": 13,
+      "gas:candidate-vibid:493400789642": 87,
+      "gas:candidate-vibid:493400789940": 17
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/crimea?action=show&root=1000308&tvd=493400789270&vrn=100100067795849&region=93&global=&sub_region=93&prver=0&pronetvd=null&vibid=493400789270&type=464",
@@ -8775,15 +8775,15 @@ export const duma_2016_uik_463_region_93_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Беккер Олег Ефимович": 26,
-      "Боушев Владимир Геннадьевич": 8,
-      "Лебедева Наталья Николаевна": 33,
-      "Савченко Светлана Борисовна": 734,
-      "Силиверстов Игорь Витальевич": 7,
-      "Соломахин Олег Андреевич": 46,
-      "Тарасов Валерий Иванович": 17,
-      "Шперов Павел Валентинович": 82,
-      "Шуба Дмитрий Евгеньевич": 21
+      "gas:candidate-vibid:493400789838": 26,
+      "gas:candidate-vibid:493400789985": 8,
+      "gas:candidate-vibid:493400790200": 33,
+      "gas:candidate-vibid:493400789970": 734,
+      "gas:candidate-vibid:493400790187": 7,
+      "gas:candidate-vibid:493400789816": 46,
+      "gas:candidate-vibid:493400790106": 17,
+      "gas:candidate-vibid:493400789642": 82,
+      "gas:candidate-vibid:493400789940": 21
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/crimea?action=show&root=1000308&tvd=493400789270&vrn=100100067795849&region=93&global=&sub_region=93&prver=0&pronetvd=null&vibid=493400789270&type=464",
@@ -8834,15 +8834,15 @@ export const duma_2016_uik_463_region_93_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Беккер Олег Ефимович": 22,
-      "Боушев Владимир Геннадьевич": 25,
-      "Лебедева Наталья Николаевна": 16,
-      "Савченко Светлана Борисовна": 628,
-      "Силиверстов Игорь Витальевич": 12,
-      "Соломахин Олег Андреевич": 65,
-      "Тарасов Валерий Иванович": 8,
-      "Шперов Павел Валентинович": 60,
-      "Шуба Дмитрий Евгеньевич": 16
+      "gas:candidate-vibid:493400789838": 22,
+      "gas:candidate-vibid:493400789985": 25,
+      "gas:candidate-vibid:493400790200": 16,
+      "gas:candidate-vibid:493400789970": 628,
+      "gas:candidate-vibid:493400790187": 12,
+      "gas:candidate-vibid:493400789816": 65,
+      "gas:candidate-vibid:493400790106": 8,
+      "gas:candidate-vibid:493400789642": 60,
+      "gas:candidate-vibid:493400789940": 16
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/crimea?action=show&root=1000308&tvd=493400789270&vrn=100100067795849&region=93&global=&sub_region=93&prver=0&pronetvd=null&vibid=493400789270&type=464",
@@ -8893,15 +8893,15 @@ export const duma_2016_uik_463_region_93_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Беккер Олег Ефимович": 2,
-      "Боушев Владимир Геннадьевич": 3,
-      "Лебедева Наталья Николаевна": 3,
-      "Савченко Светлана Борисовна": 56,
-      "Силиверстов Игорь Витальевич": 0,
-      "Соломахин Олег Андреевич": 4,
-      "Тарасов Валерий Иванович": 1,
-      "Шперов Павел Валентинович": 7,
-      "Шуба Дмитрий Евгеньевич": 1
+      "gas:candidate-vibid:493400789838": 2,
+      "gas:candidate-vibid:493400789985": 3,
+      "gas:candidate-vibid:493400790200": 3,
+      "gas:candidate-vibid:493400789970": 56,
+      "gas:candidate-vibid:493400790187": 0,
+      "gas:candidate-vibid:493400789816": 4,
+      "gas:candidate-vibid:493400790106": 1,
+      "gas:candidate-vibid:493400789642": 7,
+      "gas:candidate-vibid:493400789940": 1
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/crimea?action=show&root=1000308&tvd=493400789270&vrn=100100067795849&region=93&global=&sub_region=93&prver=0&pronetvd=null&vibid=493400789270&type=464",
@@ -8952,15 +8952,15 @@ export const duma_2016_uik_463_region_93_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Беккер Олег Ефимович": 44,
-      "Боушев Владимир Геннадьевич": 12,
-      "Лебедева Наталья Николаевна": 21,
-      "Савченко Светлана Борисовна": 583,
-      "Силиверстов Игорь Витальевич": 18,
-      "Соломахин Олег Андреевич": 68,
-      "Тарасов Валерий Иванович": 17,
-      "Шперов Павел Валентинович": 108,
-      "Шуба Дмитрий Евгеньевич": 25
+      "gas:candidate-vibid:493400789838": 44,
+      "gas:candidate-vibid:493400789985": 12,
+      "gas:candidate-vibid:493400790200": 21,
+      "gas:candidate-vibid:493400789970": 583,
+      "gas:candidate-vibid:493400790187": 18,
+      "gas:candidate-vibid:493400789816": 68,
+      "gas:candidate-vibid:493400790106": 17,
+      "gas:candidate-vibid:493400789642": 108,
+      "gas:candidate-vibid:493400789940": 25
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/crimea?action=show&root=1000308&tvd=493400789271&vrn=100100067795849&region=93&global=&sub_region=93&prver=0&pronetvd=null&vibid=493400789271&type=464",
@@ -9011,15 +9011,15 @@ export const duma_2016_uik_463_region_93_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Беккер Олег Ефимович": 39,
-      "Боушев Владимир Геннадьевич": 23,
-      "Лебедева Наталья Николаевна": 21,
-      "Савченко Светлана Борисовна": 703,
-      "Силиверстов Игорь Витальевич": 11,
-      "Соломахин Олег Андреевич": 78,
-      "Тарасов Валерий Иванович": 19,
-      "Шперов Павел Валентинович": 90,
-      "Шуба Дмитрий Евгеньевич": 29
+      "gas:candidate-vibid:493400789838": 39,
+      "gas:candidate-vibid:493400789985": 23,
+      "gas:candidate-vibid:493400790200": 21,
+      "gas:candidate-vibid:493400789970": 703,
+      "gas:candidate-vibid:493400790187": 11,
+      "gas:candidate-vibid:493400789816": 78,
+      "gas:candidate-vibid:493400790106": 19,
+      "gas:candidate-vibid:493400789642": 90,
+      "gas:candidate-vibid:493400789940": 29
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/crimea?action=show&root=1000308&tvd=493400789271&vrn=100100067795849&region=93&global=&sub_region=93&prver=0&pronetvd=null&vibid=493400789271&type=464",
@@ -9070,15 +9070,15 @@ export const duma_2016_uik_463_region_93_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Беккер Олег Ефимович": 39,
-      "Боушев Владимир Геннадьевич": 18,
-      "Лебедева Наталья Николаевна": 23,
-      "Савченко Светлана Борисовна": 497,
-      "Силиверстов Игорь Витальевич": 11,
-      "Соломахин Олег Андреевич": 96,
-      "Тарасов Валерий Иванович": 13,
-      "Шперов Павел Валентинович": 86,
-      "Шуба Дмитрий Евгеньевич": 19
+      "gas:candidate-vibid:493400789838": 39,
+      "gas:candidate-vibid:493400789985": 18,
+      "gas:candidate-vibid:493400790200": 23,
+      "gas:candidate-vibid:493400789970": 497,
+      "gas:candidate-vibid:493400790187": 11,
+      "gas:candidate-vibid:493400789816": 96,
+      "gas:candidate-vibid:493400790106": 13,
+      "gas:candidate-vibid:493400789642": 86,
+      "gas:candidate-vibid:493400789940": 19
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/crimea?action=show&root=1000308&tvd=493400789271&vrn=100100067795849&region=93&global=&sub_region=93&prver=0&pronetvd=null&vibid=493400789271&type=464",
@@ -9129,15 +9129,15 @@ export const duma_2016_uik_463_region_93_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Беккер Олег Ефимович": 39,
-      "Боушев Владимир Геннадьевич": 20,
-      "Лебедева Наталья Николаевна": 23,
-      "Савченко Светлана Борисовна": 586,
-      "Силиверстов Игорь Витальевич": 19,
-      "Соломахин Олег Андреевич": 109,
-      "Тарасов Валерий Иванович": 10,
-      "Шперов Павел Валентинович": 113,
-      "Шуба Дмитрий Евгеньевич": 15
+      "gas:candidate-vibid:493400789838": 39,
+      "gas:candidate-vibid:493400789985": 20,
+      "gas:candidate-vibid:493400790200": 23,
+      "gas:candidate-vibid:493400789970": 586,
+      "gas:candidate-vibid:493400790187": 19,
+      "gas:candidate-vibid:493400789816": 109,
+      "gas:candidate-vibid:493400790106": 10,
+      "gas:candidate-vibid:493400789642": 113,
+      "gas:candidate-vibid:493400789940": 15
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/crimea?action=show&root=1000308&tvd=493400789271&vrn=100100067795849&region=93&global=&sub_region=93&prver=0&pronetvd=null&vibid=493400789271&type=464",
@@ -9188,15 +9188,15 @@ export const duma_2016_uik_463_region_93_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Беккер Олег Ефимович": 25,
-      "Боушев Владимир Геннадьевич": 6,
-      "Лебедева Наталья Николаевна": 17,
-      "Савченко Светлана Борисовна": 394,
-      "Силиверстов Игорь Витальевич": 5,
-      "Соломахин Олег Андреевич": 63,
-      "Тарасов Валерий Иванович": 10,
-      "Шперов Павел Валентинович": 67,
-      "Шуба Дмитрий Евгеньевич": 15
+      "gas:candidate-vibid:493400789838": 25,
+      "gas:candidate-vibid:493400789985": 6,
+      "gas:candidate-vibid:493400790200": 17,
+      "gas:candidate-vibid:493400789970": 394,
+      "gas:candidate-vibid:493400790187": 5,
+      "gas:candidate-vibid:493400789816": 63,
+      "gas:candidate-vibid:493400790106": 10,
+      "gas:candidate-vibid:493400789642": 67,
+      "gas:candidate-vibid:493400789940": 15
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/crimea?action=show&root=1000308&tvd=493400789271&vrn=100100067795849&region=93&global=&sub_region=93&prver=0&pronetvd=null&vibid=493400789271&type=464",
@@ -9247,15 +9247,15 @@ export const duma_2016_uik_463_region_93_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Беккер Олег Ефимович": 20,
-      "Боушев Владимир Геннадьевич": 22,
-      "Лебедева Наталья Николаевна": 5,
-      "Савченко Светлана Борисовна": 406,
-      "Силиверстов Игорь Витальевич": 11,
-      "Соломахин Олег Андреевич": 64,
-      "Тарасов Валерий Иванович": 4,
-      "Шперов Павел Валентинович": 83,
-      "Шуба Дмитрий Евгеньевич": 20
+      "gas:candidate-vibid:493400789838": 20,
+      "gas:candidate-vibid:493400789985": 22,
+      "gas:candidate-vibid:493400790200": 5,
+      "gas:candidate-vibid:493400789970": 406,
+      "gas:candidate-vibid:493400790187": 11,
+      "gas:candidate-vibid:493400789816": 64,
+      "gas:candidate-vibid:493400790106": 4,
+      "gas:candidate-vibid:493400789642": 83,
+      "gas:candidate-vibid:493400789940": 20
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/crimea?action=show&root=1000308&tvd=493400789271&vrn=100100067795849&region=93&global=&sub_region=93&prver=0&pronetvd=null&vibid=493400789271&type=464",
@@ -9306,15 +9306,15 @@ export const duma_2016_uik_463_region_93_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Беккер Олег Ефимович": 60,
-      "Боушев Владимир Геннадьевич": 16,
-      "Лебедева Наталья Николаевна": 17,
-      "Савченко Светлана Борисовна": 719,
-      "Силиверстов Игорь Витальевич": 23,
-      "Соломахин Олег Андреевич": 109,
-      "Тарасов Валерий Иванович": 12,
-      "Шперов Павел Валентинович": 123,
-      "Шуба Дмитрий Евгеньевич": 28
+      "gas:candidate-vibid:493400789838": 60,
+      "gas:candidate-vibid:493400789985": 16,
+      "gas:candidate-vibid:493400790200": 17,
+      "gas:candidate-vibid:493400789970": 719,
+      "gas:candidate-vibid:493400790187": 23,
+      "gas:candidate-vibid:493400789816": 109,
+      "gas:candidate-vibid:493400790106": 12,
+      "gas:candidate-vibid:493400789642": 123,
+      "gas:candidate-vibid:493400789940": 28
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/crimea?action=show&root=1000308&tvd=493400789271&vrn=100100067795849&region=93&global=&sub_region=93&prver=0&pronetvd=null&vibid=493400789271&type=464",
@@ -9365,15 +9365,15 @@ export const duma_2016_uik_463_region_93_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Беккер Олег Ефимович": 44,
-      "Боушев Владимир Геннадьевич": 20,
-      "Лебедева Наталья Николаевна": 15,
-      "Савченко Светлана Борисовна": 603,
-      "Силиверстов Игорь Витальевич": 15,
-      "Соломахин Олег Андреевич": 88,
-      "Тарасов Валерий Иванович": 15,
-      "Шперов Павел Валентинович": 115,
-      "Шуба Дмитрий Евгеньевич": 29
+      "gas:candidate-vibid:493400789838": 44,
+      "gas:candidate-vibid:493400789985": 20,
+      "gas:candidate-vibid:493400790200": 15,
+      "gas:candidate-vibid:493400789970": 603,
+      "gas:candidate-vibid:493400790187": 15,
+      "gas:candidate-vibid:493400789816": 88,
+      "gas:candidate-vibid:493400790106": 15,
+      "gas:candidate-vibid:493400789642": 115,
+      "gas:candidate-vibid:493400789940": 29
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/crimea?action=show&root=1000308&tvd=493400789271&vrn=100100067795849&region=93&global=&sub_region=93&prver=0&pronetvd=null&vibid=493400789271&type=464",
@@ -9424,15 +9424,15 @@ export const duma_2016_uik_463_region_93_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Беккер Олег Ефимович": 41,
-      "Боушев Владимир Геннадьевич": 9,
-      "Лебедева Наталья Николаевна": 20,
-      "Савченко Светлана Борисовна": 679,
-      "Силиверстов Игорь Витальевич": 17,
-      "Соломахин Олег Андреевич": 84,
-      "Тарасов Валерий Иванович": 12,
-      "Шперов Павел Валентинович": 115,
-      "Шуба Дмитрий Евгеньевич": 24
+      "gas:candidate-vibid:493400789838": 41,
+      "gas:candidate-vibid:493400789985": 9,
+      "gas:candidate-vibid:493400790200": 20,
+      "gas:candidate-vibid:493400789970": 679,
+      "gas:candidate-vibid:493400790187": 17,
+      "gas:candidate-vibid:493400789816": 84,
+      "gas:candidate-vibid:493400790106": 12,
+      "gas:candidate-vibid:493400789642": 115,
+      "gas:candidate-vibid:493400789940": 24
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/crimea?action=show&root=1000308&tvd=493400789271&vrn=100100067795849&region=93&global=&sub_region=93&prver=0&pronetvd=null&vibid=493400789271&type=464",
@@ -9483,15 +9483,15 @@ export const duma_2016_uik_463_region_93_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Беккер Олег Ефимович": 45,
-      "Боушев Владимир Геннадьевич": 12,
-      "Лебедева Наталья Николаевна": 19,
-      "Савченко Светлана Борисовна": 424,
-      "Силиверстов Игорь Витальевич": 11,
-      "Соломахин Олег Андреевич": 54,
-      "Тарасов Валерий Иванович": 13,
-      "Шперов Павел Валентинович": 80,
-      "Шуба Дмитрий Евгеньевич": 18
+      "gas:candidate-vibid:493400789838": 45,
+      "gas:candidate-vibid:493400789985": 12,
+      "gas:candidate-vibid:493400790200": 19,
+      "gas:candidate-vibid:493400789970": 424,
+      "gas:candidate-vibid:493400790187": 11,
+      "gas:candidate-vibid:493400789816": 54,
+      "gas:candidate-vibid:493400790106": 13,
+      "gas:candidate-vibid:493400789642": 80,
+      "gas:candidate-vibid:493400789940": 18
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/crimea?action=show&root=1000308&tvd=493400789271&vrn=100100067795849&region=93&global=&sub_region=93&prver=0&pronetvd=null&vibid=493400789271&type=464",
@@ -9542,15 +9542,15 @@ export const duma_2016_uik_463_region_93_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Беккер Олег Ефимович": 15,
-      "Боушев Владимир Геннадьевич": 9,
-      "Лебедева Наталья Николаевна": 15,
-      "Савченко Светлана Борисовна": 279,
-      "Силиверстов Игорь Витальевич": 2,
-      "Соломахин Олег Андреевич": 38,
-      "Тарасов Валерий Иванович": 4,
-      "Шперов Павел Валентинович": 36,
-      "Шуба Дмитрий Евгеньевич": 10
+      "gas:candidate-vibid:493400789838": 15,
+      "gas:candidate-vibid:493400789985": 9,
+      "gas:candidate-vibid:493400790200": 15,
+      "gas:candidate-vibid:493400789970": 279,
+      "gas:candidate-vibid:493400790187": 2,
+      "gas:candidate-vibid:493400789816": 38,
+      "gas:candidate-vibid:493400790106": 4,
+      "gas:candidate-vibid:493400789642": 36,
+      "gas:candidate-vibid:493400789940": 10
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/crimea?action=show&root=1000308&tvd=493400789271&vrn=100100067795849&region=93&global=&sub_region=93&prver=0&pronetvd=null&vibid=493400789271&type=464",
@@ -9601,15 +9601,15 @@ export const duma_2016_uik_463_region_93_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Беккер Олег Ефимович": 4,
-      "Боушев Владимир Геннадьевич": 4,
-      "Лебедева Наталья Николаевна": 11,
-      "Савченко Светлана Борисовна": 170,
-      "Силиверстов Игорь Витальевич": 3,
-      "Соломахин Олег Андреевич": 22,
-      "Тарасов Валерий Иванович": 3,
-      "Шперов Павел Валентинович": 30,
-      "Шуба Дмитрий Евгеньевич": 4
+      "gas:candidate-vibid:493400789838": 4,
+      "gas:candidate-vibid:493400789985": 4,
+      "gas:candidate-vibid:493400790200": 11,
+      "gas:candidate-vibid:493400789970": 170,
+      "gas:candidate-vibid:493400790187": 3,
+      "gas:candidate-vibid:493400789816": 22,
+      "gas:candidate-vibid:493400790106": 3,
+      "gas:candidate-vibid:493400789642": 30,
+      "gas:candidate-vibid:493400789940": 4
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/crimea?action=show&root=1000308&tvd=493400789271&vrn=100100067795849&region=93&global=&sub_region=93&prver=0&pronetvd=null&vibid=493400789271&type=464",
@@ -9660,15 +9660,15 @@ export const duma_2016_uik_463_region_93_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Беккер Олег Ефимович": 27,
-      "Боушев Владимир Геннадьевич": 12,
-      "Лебедева Наталья Николаевна": 33,
-      "Савченко Светлана Борисовна": 581,
-      "Силиверстов Игорь Витальевич": 4,
-      "Соломахин Олег Андреевич": 25,
-      "Тарасов Валерий Иванович": 13,
-      "Шперов Павел Валентинович": 39,
-      "Шуба Дмитрий Евгеньевич": 6
+      "gas:candidate-vibid:493400789838": 27,
+      "gas:candidate-vibid:493400789985": 12,
+      "gas:candidate-vibid:493400790200": 33,
+      "gas:candidate-vibid:493400789970": 581,
+      "gas:candidate-vibid:493400790187": 4,
+      "gas:candidate-vibid:493400789816": 25,
+      "gas:candidate-vibid:493400790106": 13,
+      "gas:candidate-vibid:493400789642": 39,
+      "gas:candidate-vibid:493400789940": 6
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/crimea?action=show&root=1000308&tvd=493400789272&vrn=100100067795849&region=93&global=&sub_region=93&prver=0&pronetvd=null&vibid=493400789272&type=464",
@@ -9719,15 +9719,15 @@ export const duma_2016_uik_463_region_93_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Беккер Олег Ефимович": 16,
-      "Боушев Владимир Геннадьевич": 9,
-      "Лебедева Наталья Николаевна": 18,
-      "Савченко Светлана Борисовна": 414,
-      "Силиверстов Игорь Витальевич": 8,
-      "Соломахин Олег Андреевич": 16,
-      "Тарасов Валерий Иванович": 7,
-      "Шперов Павел Валентинович": 25,
-      "Шуба Дмитрий Евгеньевич": 3
+      "gas:candidate-vibid:493400789838": 16,
+      "gas:candidate-vibid:493400789985": 9,
+      "gas:candidate-vibid:493400790200": 18,
+      "gas:candidate-vibid:493400789970": 414,
+      "gas:candidate-vibid:493400790187": 8,
+      "gas:candidate-vibid:493400789816": 16,
+      "gas:candidate-vibid:493400790106": 7,
+      "gas:candidate-vibid:493400789642": 25,
+      "gas:candidate-vibid:493400789940": 3
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/crimea?action=show&root=1000308&tvd=493400789272&vrn=100100067795849&region=93&global=&sub_region=93&prver=0&pronetvd=null&vibid=493400789272&type=464",
@@ -9778,15 +9778,15 @@ export const duma_2016_uik_463_region_93_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Беккер Олег Ефимович": 18,
-      "Боушев Владимир Геннадьевич": 4,
-      "Лебедева Наталья Николаевна": 21,
-      "Савченко Светлана Борисовна": 422,
-      "Силиверстов Игорь Витальевич": 10,
-      "Соломахин Олег Андреевич": 17,
-      "Тарасов Валерий Иванович": 7,
-      "Шперов Павел Валентинович": 45,
-      "Шуба Дмитрий Евгеньевич": 9
+      "gas:candidate-vibid:493400789838": 18,
+      "gas:candidate-vibid:493400789985": 4,
+      "gas:candidate-vibid:493400790200": 21,
+      "gas:candidate-vibid:493400789970": 422,
+      "gas:candidate-vibid:493400790187": 10,
+      "gas:candidate-vibid:493400789816": 17,
+      "gas:candidate-vibid:493400790106": 7,
+      "gas:candidate-vibid:493400789642": 45,
+      "gas:candidate-vibid:493400789940": 9
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/crimea?action=show&root=1000308&tvd=493400789272&vrn=100100067795849&region=93&global=&sub_region=93&prver=0&pronetvd=null&vibid=493400789272&type=464",
@@ -9837,15 +9837,15 @@ export const duma_2016_uik_463_region_93_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Беккер Олег Ефимович": 6,
-      "Боушев Владимир Геннадьевич": 2,
-      "Лебедева Наталья Николаевна": 9,
-      "Савченко Светлана Борисовна": 331,
-      "Силиверстов Игорь Витальевич": 4,
-      "Соломахин Олег Андреевич": 14,
-      "Тарасов Валерий Иванович": 6,
-      "Шперов Павел Валентинович": 22,
-      "Шуба Дмитрий Евгеньевич": 5
+      "gas:candidate-vibid:493400789838": 6,
+      "gas:candidate-vibid:493400789985": 2,
+      "gas:candidate-vibid:493400790200": 9,
+      "gas:candidate-vibid:493400789970": 331,
+      "gas:candidate-vibid:493400790187": 4,
+      "gas:candidate-vibid:493400789816": 14,
+      "gas:candidate-vibid:493400790106": 6,
+      "gas:candidate-vibid:493400789642": 22,
+      "gas:candidate-vibid:493400789940": 5
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/crimea?action=show&root=1000308&tvd=493400789272&vrn=100100067795849&region=93&global=&sub_region=93&prver=0&pronetvd=null&vibid=493400789272&type=464",
@@ -9896,15 +9896,15 @@ export const duma_2016_uik_463_region_93_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Беккер Олег Ефимович": 17,
-      "Боушев Владимир Геннадьевич": 13,
-      "Лебедева Наталья Николаевна": 13,
-      "Савченко Светлана Борисовна": 248,
-      "Силиверстов Игорь Витальевич": 4,
-      "Соломахин Олег Андреевич": 22,
-      "Тарасов Валерий Иванович": 14,
-      "Шперов Павел Валентинович": 23,
-      "Шуба Дмитрий Евгеньевич": 9
+      "gas:candidate-vibid:493400789838": 17,
+      "gas:candidate-vibid:493400789985": 13,
+      "gas:candidate-vibid:493400790200": 13,
+      "gas:candidate-vibid:493400789970": 248,
+      "gas:candidate-vibid:493400790187": 4,
+      "gas:candidate-vibid:493400789816": 22,
+      "gas:candidate-vibid:493400790106": 14,
+      "gas:candidate-vibid:493400789642": 23,
+      "gas:candidate-vibid:493400789940": 9
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/crimea?action=show&root=1000308&tvd=493400789272&vrn=100100067795849&region=93&global=&sub_region=93&prver=0&pronetvd=null&vibid=493400789272&type=464",
@@ -9955,15 +9955,15 @@ export const duma_2016_uik_463_region_93_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Беккер Олег Ефимович": 7,
-      "Боушев Владимир Геннадьевич": 1,
-      "Лебедева Наталья Николаевна": 3,
-      "Савченко Светлана Борисовна": 81,
-      "Силиверстов Игорь Витальевич": 1,
-      "Соломахин Олег Андреевич": 4,
-      "Тарасов Валерий Иванович": 0,
-      "Шперов Павел Валентинович": 1,
-      "Шуба Дмитрий Евгеньевич": 0
+      "gas:candidate-vibid:493400789838": 7,
+      "gas:candidate-vibid:493400789985": 1,
+      "gas:candidate-vibid:493400790200": 3,
+      "gas:candidate-vibid:493400789970": 81,
+      "gas:candidate-vibid:493400790187": 1,
+      "gas:candidate-vibid:493400789816": 4,
+      "gas:candidate-vibid:493400790106": 0,
+      "gas:candidate-vibid:493400789642": 1,
+      "gas:candidate-vibid:493400789940": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/crimea?action=show&root=1000308&tvd=493400789272&vrn=100100067795849&region=93&global=&sub_region=93&prver=0&pronetvd=null&vibid=493400789272&type=464",
@@ -10014,15 +10014,15 @@ export const duma_2016_uik_463_region_93_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Беккер Олег Ефимович": 6,
-      "Боушев Владимир Геннадьевич": 3,
-      "Лебедева Наталья Николаевна": 7,
-      "Савченко Светлана Борисовна": 228,
-      "Силиверстов Игорь Витальевич": 2,
-      "Соломахин Олег Андреевич": 13,
-      "Тарасов Валерий Иванович": 6,
-      "Шперов Павел Валентинович": 17,
-      "Шуба Дмитрий Евгеньевич": 4
+      "gas:candidate-vibid:493400789838": 6,
+      "gas:candidate-vibid:493400789985": 3,
+      "gas:candidate-vibid:493400790200": 7,
+      "gas:candidate-vibid:493400789970": 228,
+      "gas:candidate-vibid:493400790187": 2,
+      "gas:candidate-vibid:493400789816": 13,
+      "gas:candidate-vibid:493400790106": 6,
+      "gas:candidate-vibid:493400789642": 17,
+      "gas:candidate-vibid:493400789940": 4
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/crimea?action=show&root=1000308&tvd=493400789272&vrn=100100067795849&region=93&global=&sub_region=93&prver=0&pronetvd=null&vibid=493400789272&type=464",
@@ -10073,15 +10073,15 @@ export const duma_2016_uik_463_region_93_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Беккер Олег Ефимович": 35,
-      "Боушев Владимир Геннадьевич": 15,
-      "Лебедева Наталья Николаевна": 33,
-      "Савченко Светлана Борисовна": 772,
-      "Силиверстов Игорь Витальевич": 21,
-      "Соломахин Олег Андреевич": 57,
-      "Тарасов Валерий Иванович": 15,
-      "Шперов Павел Валентинович": 25,
-      "Шуба Дмитрий Евгеньевич": 20
+      "gas:candidate-vibid:493400789838": 35,
+      "gas:candidate-vibid:493400789985": 15,
+      "gas:candidate-vibid:493400790200": 33,
+      "gas:candidate-vibid:493400789970": 772,
+      "gas:candidate-vibid:493400790187": 21,
+      "gas:candidate-vibid:493400789816": 57,
+      "gas:candidate-vibid:493400790106": 15,
+      "gas:candidate-vibid:493400789642": 25,
+      "gas:candidate-vibid:493400789940": 20
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/crimea?action=show&root=1000308&tvd=493400789272&vrn=100100067795849&region=93&global=&sub_region=93&prver=0&pronetvd=null&vibid=493400789272&type=464",
@@ -10132,15 +10132,15 @@ export const duma_2016_uik_463_region_93_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Беккер Олег Ефимович": 4,
-      "Боушев Владимир Геннадьевич": 3,
-      "Лебедева Наталья Николаевна": 9,
-      "Савченко Светлана Борисовна": 156,
-      "Силиверстов Игорь Витальевич": 2,
-      "Соломахин Олег Андреевич": 3,
-      "Тарасов Валерий Иванович": 2,
-      "Шперов Павел Валентинович": 10,
-      "Шуба Дмитрий Евгеньевич": 2
+      "gas:candidate-vibid:493400789838": 4,
+      "gas:candidate-vibid:493400789985": 3,
+      "gas:candidate-vibid:493400790200": 9,
+      "gas:candidate-vibid:493400789970": 156,
+      "gas:candidate-vibid:493400790187": 2,
+      "gas:candidate-vibid:493400789816": 3,
+      "gas:candidate-vibid:493400790106": 2,
+      "gas:candidate-vibid:493400789642": 10,
+      "gas:candidate-vibid:493400789940": 2
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/crimea?action=show&root=1000308&tvd=493400789272&vrn=100100067795849&region=93&global=&sub_region=93&prver=0&pronetvd=null&vibid=493400789272&type=464",
@@ -10191,15 +10191,15 @@ export const duma_2016_uik_463_region_93_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Беккер Олег Ефимович": 7,
-      "Боушев Владимир Геннадьевич": 3,
-      "Лебедева Наталья Николаевна": 12,
-      "Савченко Светлана Борисовна": 365,
-      "Силиверстов Игорь Витальевич": 1,
-      "Соломахин Олег Андреевич": 6,
-      "Тарасов Валерий Иванович": 3,
-      "Шперов Павел Валентинович": 6,
-      "Шуба Дмитрий Евгеньевич": 5
+      "gas:candidate-vibid:493400789838": 7,
+      "gas:candidate-vibid:493400789985": 3,
+      "gas:candidate-vibid:493400790200": 12,
+      "gas:candidate-vibid:493400789970": 365,
+      "gas:candidate-vibid:493400790187": 1,
+      "gas:candidate-vibid:493400789816": 6,
+      "gas:candidate-vibid:493400790106": 3,
+      "gas:candidate-vibid:493400789642": 6,
+      "gas:candidate-vibid:493400789940": 5
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/crimea?action=show&root=1000308&tvd=493400789272&vrn=100100067795849&region=93&global=&sub_region=93&prver=0&pronetvd=null&vibid=493400789272&type=464",
@@ -10250,15 +10250,15 @@ export const duma_2016_uik_463_region_93_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Беккер Олег Ефимович": 7,
-      "Боушев Владимир Геннадьевич": 0,
-      "Лебедева Наталья Николаевна": 1,
-      "Савченко Светлана Борисовна": 83,
-      "Силиверстов Игорь Витальевич": 1,
-      "Соломахин Олег Андреевич": 10,
-      "Тарасов Валерий Иванович": 0,
-      "Шперов Павел Валентинович": 1,
-      "Шуба Дмитрий Евгеньевич": 1
+      "gas:candidate-vibid:493400789838": 7,
+      "gas:candidate-vibid:493400789985": 0,
+      "gas:candidate-vibid:493400790200": 1,
+      "gas:candidate-vibid:493400789970": 83,
+      "gas:candidate-vibid:493400790187": 1,
+      "gas:candidate-vibid:493400789816": 10,
+      "gas:candidate-vibid:493400790106": 0,
+      "gas:candidate-vibid:493400789642": 1,
+      "gas:candidate-vibid:493400789940": 1
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/crimea?action=show&root=1000308&tvd=493400789272&vrn=100100067795849&region=93&global=&sub_region=93&prver=0&pronetvd=null&vibid=493400789272&type=464",
@@ -10309,15 +10309,15 @@ export const duma_2016_uik_463_region_93_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Беккер Олег Ефимович": 25,
-      "Боушев Владимир Геннадьевич": 6,
-      "Лебедева Наталья Николаевна": 19,
-      "Савченко Светлана Борисовна": 485,
-      "Силиверстов Игорь Витальевич": 13,
-      "Соломахин Олег Андреевич": 20,
-      "Тарасов Валерий Иванович": 10,
-      "Шперов Павел Валентинович": 31,
-      "Шуба Дмитрий Евгеньевич": 13
+      "gas:candidate-vibid:493400789838": 25,
+      "gas:candidate-vibid:493400789985": 6,
+      "gas:candidate-vibid:493400790200": 19,
+      "gas:candidate-vibid:493400789970": 485,
+      "gas:candidate-vibid:493400790187": 13,
+      "gas:candidate-vibid:493400789816": 20,
+      "gas:candidate-vibid:493400790106": 10,
+      "gas:candidate-vibid:493400789642": 31,
+      "gas:candidate-vibid:493400789940": 13
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/crimea?action=show&root=1000308&tvd=493400789272&vrn=100100067795849&region=93&global=&sub_region=93&prver=0&pronetvd=null&vibid=493400789272&type=464",
@@ -10368,15 +10368,15 @@ export const duma_2016_uik_463_region_93_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Беккер Олег Ефимович": 3,
-      "Боушев Владимир Геннадьевич": 2,
-      "Лебедева Наталья Николаевна": 5,
-      "Савченко Светлана Борисовна": 62,
-      "Силиверстов Игорь Витальевич": 2,
-      "Соломахин Олег Андреевич": 29,
-      "Тарасов Валерий Иванович": 3,
-      "Шперов Павел Валентинович": 3,
-      "Шуба Дмитрий Евгеньевич": 5
+      "gas:candidate-vibid:493400789838": 3,
+      "gas:candidate-vibid:493400789985": 2,
+      "gas:candidate-vibid:493400790200": 5,
+      "gas:candidate-vibid:493400789970": 62,
+      "gas:candidate-vibid:493400790187": 2,
+      "gas:candidate-vibid:493400789816": 29,
+      "gas:candidate-vibid:493400790106": 3,
+      "gas:candidate-vibid:493400789642": 3,
+      "gas:candidate-vibid:493400789940": 5
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/crimea?action=show&root=1000308&tvd=493400789272&vrn=100100067795849&region=93&global=&sub_region=93&prver=0&pronetvd=null&vibid=493400789272&type=464",
@@ -10427,15 +10427,15 @@ export const duma_2016_uik_463_region_93_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Беккер Олег Ефимович": 8,
-      "Боушев Владимир Геннадьевич": 0,
-      "Лебедева Наталья Николаевна": 5,
-      "Савченко Светлана Борисовна": 143,
-      "Силиверстов Игорь Витальевич": 4,
-      "Соломахин Олег Андреевич": 4,
-      "Тарасов Валерий Иванович": 2,
-      "Шперов Павел Валентинович": 4,
-      "Шуба Дмитрий Евгеньевич": 1
+      "gas:candidate-vibid:493400789838": 8,
+      "gas:candidate-vibid:493400789985": 0,
+      "gas:candidate-vibid:493400790200": 5,
+      "gas:candidate-vibid:493400789970": 143,
+      "gas:candidate-vibid:493400790187": 4,
+      "gas:candidate-vibid:493400789816": 4,
+      "gas:candidate-vibid:493400790106": 2,
+      "gas:candidate-vibid:493400789642": 4,
+      "gas:candidate-vibid:493400789940": 1
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/crimea?action=show&root=1000308&tvd=493400789272&vrn=100100067795849&region=93&global=&sub_region=93&prver=0&pronetvd=null&vibid=493400789272&type=464",
@@ -10486,15 +10486,15 @@ export const duma_2016_uik_463_region_93_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Беккер Олег Ефимович": 11,
-      "Боушев Владимир Геннадьевич": 7,
-      "Лебедева Наталья Николаевна": 22,
-      "Савченко Светлана Борисовна": 588,
-      "Силиверстов Игорь Витальевич": 5,
-      "Соломахин Олег Андреевич": 13,
-      "Тарасов Валерий Иванович": 10,
-      "Шперов Павел Валентинович": 58,
-      "Шуба Дмитрий Евгеньевич": 11
+      "gas:candidate-vibid:493400789838": 11,
+      "gas:candidate-vibid:493400789985": 7,
+      "gas:candidate-vibid:493400790200": 22,
+      "gas:candidate-vibid:493400789970": 588,
+      "gas:candidate-vibid:493400790187": 5,
+      "gas:candidate-vibid:493400789816": 13,
+      "gas:candidate-vibid:493400790106": 10,
+      "gas:candidate-vibid:493400789642": 58,
+      "gas:candidate-vibid:493400789940": 11
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/crimea?action=show&root=1000308&tvd=493400789272&vrn=100100067795849&region=93&global=&sub_region=93&prver=0&pronetvd=null&vibid=493400789272&type=464",
@@ -10545,15 +10545,15 @@ export const duma_2016_uik_463_region_93_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Беккер Олег Ефимович": 24,
-      "Боушев Владимир Геннадьевич": 7,
-      "Лебедева Наталья Николаевна": 20,
-      "Савченко Светлана Борисовна": 404,
-      "Силиверстов Игорь Витальевич": 8,
-      "Соломахин Олег Андреевич": 17,
-      "Тарасов Валерий Иванович": 14,
-      "Шперов Павел Валентинович": 51,
-      "Шуба Дмитрий Евгеньевич": 10
+      "gas:candidate-vibid:493400789838": 24,
+      "gas:candidate-vibid:493400789985": 7,
+      "gas:candidate-vibid:493400790200": 20,
+      "gas:candidate-vibid:493400789970": 404,
+      "gas:candidate-vibid:493400790187": 8,
+      "gas:candidate-vibid:493400789816": 17,
+      "gas:candidate-vibid:493400790106": 14,
+      "gas:candidate-vibid:493400789642": 51,
+      "gas:candidate-vibid:493400789940": 10
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/crimea?action=show&root=1000308&tvd=493400789272&vrn=100100067795849&region=93&global=&sub_region=93&prver=0&pronetvd=null&vibid=493400789272&type=464",
@@ -10604,15 +10604,15 @@ export const duma_2016_uik_463_region_93_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Беккер Олег Ефимович": 5,
-      "Боушев Владимир Геннадьевич": 1,
-      "Лебедева Наталья Николаевна": 16,
-      "Савченко Светлана Борисовна": 260,
-      "Силиверстов Игорь Витальевич": 3,
-      "Соломахин Олег Андреевич": 7,
-      "Тарасов Валерий Иванович": 14,
-      "Шперов Павел Валентинович": 20,
-      "Шуба Дмитрий Евгеньевич": 5
+      "gas:candidate-vibid:493400789838": 5,
+      "gas:candidate-vibid:493400789985": 1,
+      "gas:candidate-vibid:493400790200": 16,
+      "gas:candidate-vibid:493400789970": 260,
+      "gas:candidate-vibid:493400790187": 3,
+      "gas:candidate-vibid:493400789816": 7,
+      "gas:candidate-vibid:493400790106": 14,
+      "gas:candidate-vibid:493400789642": 20,
+      "gas:candidate-vibid:493400789940": 5
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/crimea?action=show&root=1000308&tvd=493400789272&vrn=100100067795849&region=93&global=&sub_region=93&prver=0&pronetvd=null&vibid=493400789272&type=464",
@@ -10663,15 +10663,15 @@ export const duma_2016_uik_463_region_93_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Беккер Олег Ефимович": 11,
-      "Боушев Владимир Геннадьевич": 2,
-      "Лебедева Наталья Николаевна": 14,
-      "Савченко Светлана Борисовна": 258,
-      "Силиверстов Игорь Витальевич": 2,
-      "Соломахин Олег Андреевич": 9,
-      "Тарасов Валерий Иванович": 12,
-      "Шперов Павел Валентинович": 15,
-      "Шуба Дмитрий Евгеньевич": 13
+      "gas:candidate-vibid:493400789838": 11,
+      "gas:candidate-vibid:493400789985": 2,
+      "gas:candidate-vibid:493400790200": 14,
+      "gas:candidate-vibid:493400789970": 258,
+      "gas:candidate-vibid:493400790187": 2,
+      "gas:candidate-vibid:493400789816": 9,
+      "gas:candidate-vibid:493400790106": 12,
+      "gas:candidate-vibid:493400789642": 15,
+      "gas:candidate-vibid:493400789940": 13
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/crimea?action=show&root=1000308&tvd=493400789272&vrn=100100067795849&region=93&global=&sub_region=93&prver=0&pronetvd=null&vibid=493400789272&type=464",
@@ -10722,15 +10722,15 @@ export const duma_2016_uik_463_region_93_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Беккер Олег Ефимович": 7,
-      "Боушев Владимир Геннадьевич": 0,
-      "Лебедева Наталья Николаевна": 5,
-      "Савченко Светлана Борисовна": 256,
-      "Силиверстов Игорь Витальевич": 2,
-      "Соломахин Олег Андреевич": 17,
-      "Тарасов Валерий Иванович": 17,
-      "Шперов Павел Валентинович": 50,
-      "Шуба Дмитрий Евгеньевич": 7
+      "gas:candidate-vibid:493400789838": 7,
+      "gas:candidate-vibid:493400789985": 0,
+      "gas:candidate-vibid:493400790200": 5,
+      "gas:candidate-vibid:493400789970": 256,
+      "gas:candidate-vibid:493400790187": 2,
+      "gas:candidate-vibid:493400789816": 17,
+      "gas:candidate-vibid:493400790106": 17,
+      "gas:candidate-vibid:493400789642": 50,
+      "gas:candidate-vibid:493400789940": 7
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/crimea?action=show&root=1000308&tvd=493400789272&vrn=100100067795849&region=93&global=&sub_region=93&prver=0&pronetvd=null&vibid=493400789272&type=464",
@@ -10781,15 +10781,15 @@ export const duma_2016_uik_463_region_93_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Беккер Олег Ефимович": 8,
-      "Боушев Владимир Геннадьевич": 3,
-      "Лебедева Наталья Николаевна": 9,
-      "Савченко Светлана Борисовна": 335,
-      "Силиверстов Игорь Витальевич": 2,
-      "Соломахин Олег Андреевич": 11,
-      "Тарасов Валерий Иванович": 1,
-      "Шперов Павел Валентинович": 18,
-      "Шуба Дмитрий Евгеньевич": 2
+      "gas:candidate-vibid:493400789838": 8,
+      "gas:candidate-vibid:493400789985": 3,
+      "gas:candidate-vibid:493400790200": 9,
+      "gas:candidate-vibid:493400789970": 335,
+      "gas:candidate-vibid:493400790187": 2,
+      "gas:candidate-vibid:493400789816": 11,
+      "gas:candidate-vibid:493400790106": 1,
+      "gas:candidate-vibid:493400789642": 18,
+      "gas:candidate-vibid:493400789940": 2
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/crimea?action=show&root=1000308&tvd=493400789272&vrn=100100067795849&region=93&global=&sub_region=93&prver=0&pronetvd=null&vibid=493400789272&type=464",
@@ -10840,15 +10840,15 @@ export const duma_2016_uik_463_region_93_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Беккер Олег Ефимович": 7,
-      "Боушев Владимир Геннадьевич": 3,
-      "Лебедева Наталья Николаевна": 6,
-      "Савченко Светлана Борисовна": 134,
-      "Силиверстов Игорь Витальевич": 1,
-      "Соломахин Олег Андреевич": 3,
-      "Тарасов Валерий Иванович": 2,
-      "Шперов Павел Валентинович": 2,
-      "Шуба Дмитрий Евгеньевич": 0
+      "gas:candidate-vibid:493400789838": 7,
+      "gas:candidate-vibid:493400789985": 3,
+      "gas:candidate-vibid:493400790200": 6,
+      "gas:candidate-vibid:493400789970": 134,
+      "gas:candidate-vibid:493400790187": 1,
+      "gas:candidate-vibid:493400789816": 3,
+      "gas:candidate-vibid:493400790106": 2,
+      "gas:candidate-vibid:493400789642": 2,
+      "gas:candidate-vibid:493400789940": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/crimea?action=show&root=1000308&tvd=493400789272&vrn=100100067795849&region=93&global=&sub_region=93&prver=0&pronetvd=null&vibid=493400789272&type=464",
@@ -10899,15 +10899,15 @@ export const duma_2016_uik_463_region_93_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Беккер Олег Ефимович": 4,
-      "Боушев Владимир Геннадьевич": 3,
-      "Лебедева Наталья Николаевна": 1,
-      "Савченко Светлана Борисовна": 79,
-      "Силиверстов Игорь Витальевич": 0,
-      "Соломахин Олег Андреевич": 1,
-      "Тарасов Валерий Иванович": 1,
-      "Шперов Павел Валентинович": 6,
-      "Шуба Дмитрий Евгеньевич": 2
+      "gas:candidate-vibid:493400789838": 4,
+      "gas:candidate-vibid:493400789985": 3,
+      "gas:candidate-vibid:493400790200": 1,
+      "gas:candidate-vibid:493400789970": 79,
+      "gas:candidate-vibid:493400790187": 0,
+      "gas:candidate-vibid:493400789816": 1,
+      "gas:candidate-vibid:493400790106": 1,
+      "gas:candidate-vibid:493400789642": 6,
+      "gas:candidate-vibid:493400789940": 2
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/crimea?action=show&root=1000308&tvd=493400789272&vrn=100100067795849&region=93&global=&sub_region=93&prver=0&pronetvd=null&vibid=493400789272&type=464",
@@ -10958,15 +10958,15 @@ export const duma_2016_uik_463_region_93_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Беккер Олег Ефимович": 12,
-      "Боушев Владимир Геннадьевич": 1,
-      "Лебедева Наталья Николаевна": 13,
-      "Савченко Светлана Борисовна": 808,
-      "Силиверстов Игорь Витальевич": 6,
-      "Соломахин Олег Андреевич": 9,
-      "Тарасов Валерий Иванович": 1,
-      "Шперов Павел Валентинович": 31,
-      "Шуба Дмитрий Евгеньевич": 6
+      "gas:candidate-vibid:493400789838": 12,
+      "gas:candidate-vibid:493400789985": 1,
+      "gas:candidate-vibid:493400790200": 13,
+      "gas:candidate-vibid:493400789970": 808,
+      "gas:candidate-vibid:493400790187": 6,
+      "gas:candidate-vibid:493400789816": 9,
+      "gas:candidate-vibid:493400790106": 1,
+      "gas:candidate-vibid:493400789642": 31,
+      "gas:candidate-vibid:493400789940": 6
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/crimea?action=show&root=1000308&tvd=493400789272&vrn=100100067795849&region=93&global=&sub_region=93&prver=0&pronetvd=null&vibid=493400789272&type=464",
@@ -11017,15 +11017,15 @@ export const duma_2016_uik_463_region_93_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Беккер Олег Ефимович": 15,
-      "Боушев Владимир Геннадьевич": 11,
-      "Лебедева Наталья Николаевна": 31,
-      "Савченко Светлана Борисовна": 707,
-      "Силиверстов Игорь Витальевич": 9,
-      "Соломахин Олег Андреевич": 37,
-      "Тарасов Валерий Иванович": 6,
-      "Шперов Павел Валентинович": 80,
-      "Шуба Дмитрий Евгеньевич": 10
+      "gas:candidate-vibid:493400789838": 15,
+      "gas:candidate-vibid:493400789985": 11,
+      "gas:candidate-vibid:493400790200": 31,
+      "gas:candidate-vibid:493400789970": 707,
+      "gas:candidate-vibid:493400790187": 9,
+      "gas:candidate-vibid:493400789816": 37,
+      "gas:candidate-vibid:493400790106": 6,
+      "gas:candidate-vibid:493400789642": 80,
+      "gas:candidate-vibid:493400789940": 10
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/crimea?action=show&root=1000308&tvd=493400789272&vrn=100100067795849&region=93&global=&sub_region=93&prver=0&pronetvd=null&vibid=493400789272&type=464",
@@ -11076,15 +11076,15 @@ export const duma_2016_uik_463_region_93_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Беккер Олег Ефимович": 11,
-      "Боушев Владимир Геннадьевич": 7,
-      "Лебедева Наталья Николаевна": 14,
-      "Савченко Светлана Борисовна": 200,
-      "Силиверстов Игорь Витальевич": 12,
-      "Соломахин Олег Андреевич": 20,
-      "Тарасов Валерий Иванович": 5,
-      "Шперов Павел Валентинович": 19,
-      "Шуба Дмитрий Евгеньевич": 2
+      "gas:candidate-vibid:493400789838": 11,
+      "gas:candidate-vibid:493400789985": 7,
+      "gas:candidate-vibid:493400790200": 14,
+      "gas:candidate-vibid:493400789970": 200,
+      "gas:candidate-vibid:493400790187": 12,
+      "gas:candidate-vibid:493400789816": 20,
+      "gas:candidate-vibid:493400790106": 5,
+      "gas:candidate-vibid:493400789642": 19,
+      "gas:candidate-vibid:493400789940": 2
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/crimea?action=show&root=1000308&tvd=493400789272&vrn=100100067795849&region=93&global=&sub_region=93&prver=0&pronetvd=null&vibid=493400789272&type=464",
@@ -11135,15 +11135,15 @@ export const duma_2016_uik_463_region_93_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Беккер Олег Ефимович": 19,
-      "Боушев Владимир Геннадьевич": 7,
-      "Лебедева Наталья Николаевна": 12,
-      "Савченко Светлана Борисовна": 509,
-      "Силиверстов Игорь Витальевич": 9,
-      "Соломахин Олег Андреевич": 13,
-      "Тарасов Валерий Иванович": 4,
-      "Шперов Павел Валентинович": 17,
-      "Шуба Дмитрий Евгеньевич": 5
+      "gas:candidate-vibid:493400789838": 19,
+      "gas:candidate-vibid:493400789985": 7,
+      "gas:candidate-vibid:493400790200": 12,
+      "gas:candidate-vibid:493400789970": 509,
+      "gas:candidate-vibid:493400790187": 9,
+      "gas:candidate-vibid:493400789816": 13,
+      "gas:candidate-vibid:493400790106": 4,
+      "gas:candidate-vibid:493400789642": 17,
+      "gas:candidate-vibid:493400789940": 5
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/crimea?action=show&root=1000308&tvd=493400789272&vrn=100100067795849&region=93&global=&sub_region=93&prver=0&pronetvd=null&vibid=493400789272&type=464",
@@ -11194,15 +11194,15 @@ export const duma_2016_uik_463_region_93_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Беккер Олег Ефимович": 5,
-      "Боушев Владимир Геннадьевич": 1,
-      "Лебедева Наталья Николаевна": 6,
-      "Савченко Светлана Борисовна": 223,
-      "Силиверстов Игорь Витальевич": 0,
-      "Соломахин Олег Андреевич": 2,
-      "Тарасов Валерий Иванович": 2,
-      "Шперов Павел Валентинович": 5,
-      "Шуба Дмитрий Евгеньевич": 2
+      "gas:candidate-vibid:493400789838": 5,
+      "gas:candidate-vibid:493400789985": 1,
+      "gas:candidate-vibid:493400790200": 6,
+      "gas:candidate-vibid:493400789970": 223,
+      "gas:candidate-vibid:493400790187": 0,
+      "gas:candidate-vibid:493400789816": 2,
+      "gas:candidate-vibid:493400790106": 2,
+      "gas:candidate-vibid:493400789642": 5,
+      "gas:candidate-vibid:493400789940": 2
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/crimea?action=show&root=1000308&tvd=493400789272&vrn=100100067795849&region=93&global=&sub_region=93&prver=0&pronetvd=null&vibid=493400789272&type=464",
@@ -11253,15 +11253,15 @@ export const duma_2016_uik_463_region_93_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Беккер Олег Ефимович": 3,
-      "Боушев Владимир Геннадьевич": 2,
-      "Лебедева Наталья Николаевна": 8,
-      "Савченко Светлана Борисовна": 132,
-      "Силиверстов Игорь Витальевич": 1,
-      "Соломахин Олег Андреевич": 5,
-      "Тарасов Валерий Иванович": 3,
-      "Шперов Павел Валентинович": 2,
-      "Шуба Дмитрий Евгеньевич": 4
+      "gas:candidate-vibid:493400789838": 3,
+      "gas:candidate-vibid:493400789985": 2,
+      "gas:candidate-vibid:493400790200": 8,
+      "gas:candidate-vibid:493400789970": 132,
+      "gas:candidate-vibid:493400790187": 1,
+      "gas:candidate-vibid:493400789816": 5,
+      "gas:candidate-vibid:493400790106": 3,
+      "gas:candidate-vibid:493400789642": 2,
+      "gas:candidate-vibid:493400789940": 4
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/crimea?action=show&root=1000308&tvd=493400789272&vrn=100100067795849&region=93&global=&sub_region=93&prver=0&pronetvd=null&vibid=493400789272&type=464",
@@ -11312,15 +11312,15 @@ export const duma_2016_uik_463_region_93_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Беккер Олег Ефимович": 18,
-      "Боушев Владимир Геннадьевич": 6,
-      "Лебедева Наталья Николаевна": 27,
-      "Савченко Светлана Борисовна": 837,
-      "Силиверстов Игорь Витальевич": 2,
-      "Соломахин Олег Андреевич": 24,
-      "Тарасов Валерий Иванович": 6,
-      "Шперов Павел Валентинович": 32,
-      "Шуба Дмитрий Евгеньевич": 8
+      "gas:candidate-vibid:493400789838": 18,
+      "gas:candidate-vibid:493400789985": 6,
+      "gas:candidate-vibid:493400790200": 27,
+      "gas:candidate-vibid:493400789970": 837,
+      "gas:candidate-vibid:493400790187": 2,
+      "gas:candidate-vibid:493400789816": 24,
+      "gas:candidate-vibid:493400790106": 6,
+      "gas:candidate-vibid:493400789642": 32,
+      "gas:candidate-vibid:493400789940": 8
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/crimea?action=show&root=1000308&tvd=493400789272&vrn=100100067795849&region=93&global=&sub_region=93&prver=0&pronetvd=null&vibid=493400789272&type=464",
@@ -11371,15 +11371,15 @@ export const duma_2016_uik_463_region_93_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Беккер Олег Ефимович": 13,
-      "Боушев Владимир Геннадьевич": 2,
-      "Лебедева Наталья Николаевна": 2,
-      "Савченко Светлана Борисовна": 139,
-      "Силиверстов Игорь Витальевич": 2,
-      "Соломахин Олег Андреевич": 9,
-      "Тарасов Валерий Иванович": 5,
-      "Шперов Павел Валентинович": 11,
-      "Шуба Дмитрий Евгеньевич": 3
+      "gas:candidate-vibid:493400789838": 13,
+      "gas:candidate-vibid:493400789985": 2,
+      "gas:candidate-vibid:493400790200": 2,
+      "gas:candidate-vibid:493400789970": 139,
+      "gas:candidate-vibid:493400790187": 2,
+      "gas:candidate-vibid:493400789816": 9,
+      "gas:candidate-vibid:493400790106": 5,
+      "gas:candidate-vibid:493400789642": 11,
+      "gas:candidate-vibid:493400789940": 3
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/crimea?action=show&root=1000308&tvd=493400789272&vrn=100100067795849&region=93&global=&sub_region=93&prver=0&pronetvd=null&vibid=493400789272&type=464",
@@ -11430,15 +11430,15 @@ export const duma_2016_uik_463_region_93_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Беккер Олег Ефимович": 5,
-      "Боушев Владимир Геннадьевич": 2,
-      "Лебедева Наталья Николаевна": 4,
-      "Савченко Светлана Борисовна": 180,
-      "Силиверстов Игорь Витальевич": 5,
-      "Соломахин Олег Андреевич": 4,
-      "Тарасов Валерий Иванович": 4,
-      "Шперов Павел Валентинович": 23,
-      "Шуба Дмитрий Евгеньевич": 3
+      "gas:candidate-vibid:493400789838": 5,
+      "gas:candidate-vibid:493400789985": 2,
+      "gas:candidate-vibid:493400790200": 4,
+      "gas:candidate-vibid:493400789970": 180,
+      "gas:candidate-vibid:493400790187": 5,
+      "gas:candidate-vibid:493400789816": 4,
+      "gas:candidate-vibid:493400790106": 4,
+      "gas:candidate-vibid:493400789642": 23,
+      "gas:candidate-vibid:493400789940": 3
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/crimea?action=show&root=1000308&tvd=493400789272&vrn=100100067795849&region=93&global=&sub_region=93&prver=0&pronetvd=null&vibid=493400789272&type=464",
@@ -11489,15 +11489,15 @@ export const duma_2016_uik_463_region_93_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Беккер Олег Ефимович": 2,
-      "Боушев Владимир Геннадьевич": 2,
-      "Лебедева Наталья Николаевна": 1,
-      "Савченко Светлана Борисовна": 51,
-      "Силиверстов Игорь Витальевич": 1,
-      "Соломахин Олег Андреевич": 2,
-      "Тарасов Валерий Иванович": 0,
-      "Шперов Павел Валентинович": 1,
-      "Шуба Дмитрий Евгеньевич": 1
+      "gas:candidate-vibid:493400789838": 2,
+      "gas:candidate-vibid:493400789985": 2,
+      "gas:candidate-vibid:493400790200": 1,
+      "gas:candidate-vibid:493400789970": 51,
+      "gas:candidate-vibid:493400790187": 1,
+      "gas:candidate-vibid:493400789816": 2,
+      "gas:candidate-vibid:493400790106": 0,
+      "gas:candidate-vibid:493400789642": 1,
+      "gas:candidate-vibid:493400789940": 1
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/crimea?action=show&root=1000308&tvd=493400789272&vrn=100100067795849&region=93&global=&sub_region=93&prver=0&pronetvd=null&vibid=493400789272&type=464",
@@ -11548,15 +11548,15 @@ export const duma_2016_uik_463_region_93_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Беккер Олег Ефимович": 15,
-      "Боушев Владимир Геннадьевич": 0,
-      "Лебедева Наталья Николаевна": 10,
-      "Савченко Светлана Борисовна": 1229,
-      "Силиверстов Игорь Витальевич": 6,
-      "Соломахин Олег Андреевич": 14,
-      "Тарасов Валерий Иванович": 7,
-      "Шперов Павел Валентинович": 23,
-      "Шуба Дмитрий Евгеньевич": 7
+      "gas:candidate-vibid:493400789838": 15,
+      "gas:candidate-vibid:493400789985": 0,
+      "gas:candidate-vibid:493400790200": 10,
+      "gas:candidate-vibid:493400789970": 1229,
+      "gas:candidate-vibid:493400790187": 6,
+      "gas:candidate-vibid:493400789816": 14,
+      "gas:candidate-vibid:493400790106": 7,
+      "gas:candidate-vibid:493400789642": 23,
+      "gas:candidate-vibid:493400789940": 7
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/crimea?action=show&root=1000308&tvd=493400789272&vrn=100100067795849&region=93&global=&sub_region=93&prver=0&pronetvd=null&vibid=493400789272&type=464",
@@ -11607,15 +11607,15 @@ export const duma_2016_uik_463_region_93_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Беккер Олег Ефимович": 3,
-      "Боушев Владимир Геннадьевич": 2,
-      "Лебедева Наталья Николаевна": 8,
-      "Савченко Светлана Борисовна": 233,
-      "Силиверстов Игорь Витальевич": 6,
-      "Соломахин Олег Андреевич": 8,
-      "Тарасов Валерий Иванович": 4,
-      "Шперов Павел Валентинович": 9,
-      "Шуба Дмитрий Евгеньевич": 4
+      "gas:candidate-vibid:493400789838": 3,
+      "gas:candidate-vibid:493400789985": 2,
+      "gas:candidate-vibid:493400790200": 8,
+      "gas:candidate-vibid:493400789970": 233,
+      "gas:candidate-vibid:493400790187": 6,
+      "gas:candidate-vibid:493400789816": 8,
+      "gas:candidate-vibid:493400790106": 4,
+      "gas:candidate-vibid:493400789642": 9,
+      "gas:candidate-vibid:493400789940": 4
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/crimea?action=show&root=1000308&tvd=493400789272&vrn=100100067795849&region=93&global=&sub_region=93&prver=0&pronetvd=null&vibid=493400789272&type=464",
@@ -11666,15 +11666,15 @@ export const duma_2016_uik_463_region_93_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Беккер Олег Ефимович": 2,
-      "Боушев Владимир Геннадьевич": 1,
-      "Лебедева Наталья Николаевна": 5,
-      "Савченко Светлана Борисовна": 146,
-      "Силиверстов Игорь Витальевич": 1,
-      "Соломахин Олег Андреевич": 8,
-      "Тарасов Валерий Иванович": 3,
-      "Шперов Павел Валентинович": 6,
-      "Шуба Дмитрий Евгеньевич": 2
+      "gas:candidate-vibid:493400789838": 2,
+      "gas:candidate-vibid:493400789985": 1,
+      "gas:candidate-vibid:493400790200": 5,
+      "gas:candidate-vibid:493400789970": 146,
+      "gas:candidate-vibid:493400790187": 1,
+      "gas:candidate-vibid:493400789816": 8,
+      "gas:candidate-vibid:493400790106": 3,
+      "gas:candidate-vibid:493400789642": 6,
+      "gas:candidate-vibid:493400789940": 2
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/crimea?action=show&root=1000308&tvd=493400789272&vrn=100100067795849&region=93&global=&sub_region=93&prver=0&pronetvd=null&vibid=493400789272&type=464",
@@ -11725,15 +11725,15 @@ export const duma_2016_uik_463_region_93_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Беккер Олег Ефимович": 15,
-      "Боушев Владимир Геннадьевич": 12,
-      "Лебедева Наталья Николаевна": 16,
-      "Савченко Светлана Борисовна": 402,
-      "Силиверстов Игорь Витальевич": 11,
-      "Соломахин Олег Андреевич": 29,
-      "Тарасов Валерий Иванович": 3,
-      "Шперов Павел Валентинович": 29,
-      "Шуба Дмитрий Евгеньевич": 9
+      "gas:candidate-vibid:493400789838": 15,
+      "gas:candidate-vibid:493400789985": 12,
+      "gas:candidate-vibid:493400790200": 16,
+      "gas:candidate-vibid:493400789970": 402,
+      "gas:candidate-vibid:493400790187": 11,
+      "gas:candidate-vibid:493400789816": 29,
+      "gas:candidate-vibid:493400790106": 3,
+      "gas:candidate-vibid:493400789642": 29,
+      "gas:candidate-vibid:493400789940": 9
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/crimea?action=show&root=1000308&tvd=493400789272&vrn=100100067795849&region=93&global=&sub_region=93&prver=0&pronetvd=null&vibid=493400789272&type=464",
@@ -11784,15 +11784,15 @@ export const duma_2016_uik_463_region_93_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Беккер Олег Ефимович": 8,
-      "Боушев Владимир Геннадьевич": 5,
-      "Лебедева Наталья Николаевна": 7,
-      "Савченко Светлана Борисовна": 152,
-      "Силиверстов Игорь Витальевич": 1,
-      "Соломахин Олег Андреевич": 13,
-      "Тарасов Валерий Иванович": 3,
-      "Шперов Павел Валентинович": 8,
-      "Шуба Дмитрий Евгеньевич": 4
+      "gas:candidate-vibid:493400789838": 8,
+      "gas:candidate-vibid:493400789985": 5,
+      "gas:candidate-vibid:493400790200": 7,
+      "gas:candidate-vibid:493400789970": 152,
+      "gas:candidate-vibid:493400790187": 1,
+      "gas:candidate-vibid:493400789816": 13,
+      "gas:candidate-vibid:493400790106": 3,
+      "gas:candidate-vibid:493400789642": 8,
+      "gas:candidate-vibid:493400789940": 4
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/crimea?action=show&root=1000308&tvd=493400789272&vrn=100100067795849&region=93&global=&sub_region=93&prver=0&pronetvd=null&vibid=493400789272&type=464",
@@ -11843,15 +11843,15 @@ export const duma_2016_uik_463_region_93_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Беккер Олег Ефимович": 11,
-      "Боушев Владимир Геннадьевич": 3,
-      "Лебедева Наталья Николаевна": 13,
-      "Савченко Светлана Борисовна": 424,
-      "Силиверстов Игорь Витальевич": 6,
-      "Соломахин Олег Андреевич": 15,
-      "Тарасов Валерий Иванович": 4,
-      "Шперов Павел Валентинович": 27,
-      "Шуба Дмитрий Евгеньевич": 5
+      "gas:candidate-vibid:493400789838": 11,
+      "gas:candidate-vibid:493400789985": 3,
+      "gas:candidate-vibid:493400790200": 13,
+      "gas:candidate-vibid:493400789970": 424,
+      "gas:candidate-vibid:493400790187": 6,
+      "gas:candidate-vibid:493400789816": 15,
+      "gas:candidate-vibid:493400790106": 4,
+      "gas:candidate-vibid:493400789642": 27,
+      "gas:candidate-vibid:493400789940": 5
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/crimea?action=show&root=1000308&tvd=493400789272&vrn=100100067795849&region=93&global=&sub_region=93&prver=0&pronetvd=null&vibid=493400789272&type=464",
@@ -11902,15 +11902,15 @@ export const duma_2016_uik_463_region_93_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Беккер Олег Ефимович": 11,
-      "Боушев Владимир Геннадьевич": 8,
-      "Лебедева Наталья Николаевна": 21,
-      "Савченко Светлана Борисовна": 480,
-      "Силиверстов Игорь Витальевич": 12,
-      "Соломахин Олег Андреевич": 15,
-      "Тарасов Валерий Иванович": 9,
-      "Шперов Павел Валентинович": 26,
-      "Шуба Дмитрий Евгеньевич": 9
+      "gas:candidate-vibid:493400789838": 11,
+      "gas:candidate-vibid:493400789985": 8,
+      "gas:candidate-vibid:493400790200": 21,
+      "gas:candidate-vibid:493400789970": 480,
+      "gas:candidate-vibid:493400790187": 12,
+      "gas:candidate-vibid:493400789816": 15,
+      "gas:candidate-vibid:493400790106": 9,
+      "gas:candidate-vibid:493400789642": 26,
+      "gas:candidate-vibid:493400789940": 9
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/crimea?action=show&root=1000308&tvd=493400789272&vrn=100100067795849&region=93&global=&sub_region=93&prver=0&pronetvd=null&vibid=493400789272&type=464",
@@ -11961,15 +11961,15 @@ export const duma_2016_uik_463_region_93_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Беккер Олег Ефимович": 14,
-      "Боушев Владимир Геннадьевич": 6,
-      "Лебедева Наталья Николаевна": 13,
-      "Савченко Светлана Борисовна": 195,
-      "Силиверстов Игорь Витальевич": 0,
-      "Соломахин Олег Андреевич": 13,
-      "Тарасов Валерий Иванович": 3,
-      "Шперов Павел Валентинович": 9,
-      "Шуба Дмитрий Евгеньевич": 5
+      "gas:candidate-vibid:493400789838": 14,
+      "gas:candidate-vibid:493400789985": 6,
+      "gas:candidate-vibid:493400790200": 13,
+      "gas:candidate-vibid:493400789970": 195,
+      "gas:candidate-vibid:493400790187": 0,
+      "gas:candidate-vibid:493400789816": 13,
+      "gas:candidate-vibid:493400790106": 3,
+      "gas:candidate-vibid:493400789642": 9,
+      "gas:candidate-vibid:493400789940": 5
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/crimea?action=show&root=1000308&tvd=493400789272&vrn=100100067795849&region=93&global=&sub_region=93&prver=0&pronetvd=null&vibid=493400789272&type=464",
@@ -12020,15 +12020,15 @@ export const duma_2016_uik_463_region_93_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Беккер Олег Ефимович": 15,
-      "Боушев Владимир Геннадьевич": 3,
-      "Лебедева Наталья Николаевна": 6,
-      "Савченко Светлана Борисовна": 126,
-      "Силиверстов Игорь Витальевич": 5,
-      "Соломахин Олег Андреевич": 1,
-      "Тарасов Валерий Иванович": 3,
-      "Шперов Павел Валентинович": 7,
-      "Шуба Дмитрий Евгеньевич": 2
+      "gas:candidate-vibid:493400789838": 15,
+      "gas:candidate-vibid:493400789985": 3,
+      "gas:candidate-vibid:493400790200": 6,
+      "gas:candidate-vibid:493400789970": 126,
+      "gas:candidate-vibid:493400790187": 5,
+      "gas:candidate-vibid:493400789816": 1,
+      "gas:candidate-vibid:493400790106": 3,
+      "gas:candidate-vibid:493400789642": 7,
+      "gas:candidate-vibid:493400789940": 2
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/crimea?action=show&root=1000308&tvd=493400789272&vrn=100100067795849&region=93&global=&sub_region=93&prver=0&pronetvd=null&vibid=493400789272&type=464",
@@ -12079,15 +12079,15 @@ export const duma_2016_uik_463_region_93_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Беккер Олег Ефимович": 13,
-      "Боушев Владимир Геннадьевич": 3,
-      "Лебедева Наталья Николаевна": 15,
-      "Савченко Светлана Борисовна": 432,
-      "Силиверстов Игорь Витальевич": 5,
-      "Соломахин Олег Андреевич": 54,
-      "Тарасов Валерий Иванович": 1,
-      "Шперов Павел Валентинович": 24,
-      "Шуба Дмитрий Евгеньевич": 6
+      "gas:candidate-vibid:493400789838": 13,
+      "gas:candidate-vibid:493400789985": 3,
+      "gas:candidate-vibid:493400790200": 15,
+      "gas:candidate-vibid:493400789970": 432,
+      "gas:candidate-vibid:493400790187": 5,
+      "gas:candidate-vibid:493400789816": 54,
+      "gas:candidate-vibid:493400790106": 1,
+      "gas:candidate-vibid:493400789642": 24,
+      "gas:candidate-vibid:493400789940": 6
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/crimea?action=show&root=1000308&tvd=493400789272&vrn=100100067795849&region=93&global=&sub_region=93&prver=0&pronetvd=null&vibid=493400789272&type=464",
@@ -12138,15 +12138,15 @@ export const duma_2016_uik_463_region_93_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Беккер Олег Ефимович": 2,
-      "Боушев Владимир Геннадьевич": 0,
-      "Лебедева Наталья Николаевна": 4,
-      "Савченко Светлана Борисовна": 136,
-      "Силиверстов Игорь Витальевич": 0,
-      "Соломахин Олег Андреевич": 27,
-      "Тарасов Валерий Иванович": 2,
-      "Шперов Павел Валентинович": 17,
-      "Шуба Дмитрий Евгеньевич": 2
+      "gas:candidate-vibid:493400789838": 2,
+      "gas:candidate-vibid:493400789985": 0,
+      "gas:candidate-vibid:493400790200": 4,
+      "gas:candidate-vibid:493400789970": 136,
+      "gas:candidate-vibid:493400790187": 0,
+      "gas:candidate-vibid:493400789816": 27,
+      "gas:candidate-vibid:493400790106": 2,
+      "gas:candidate-vibid:493400789642": 17,
+      "gas:candidate-vibid:493400789940": 2
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/crimea?action=show&root=1000308&tvd=493400789272&vrn=100100067795849&region=93&global=&sub_region=93&prver=0&pronetvd=null&vibid=493400789272&type=464",
@@ -12197,15 +12197,15 @@ export const duma_2016_uik_463_region_93_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Беккер Олег Ефимович": 1,
-      "Боушев Владимир Геннадьевич": 1,
-      "Лебедева Наталья Николаевна": 1,
-      "Савченко Светлана Борисовна": 99,
-      "Силиверстов Игорь Витальевич": 0,
-      "Соломахин Олег Андреевич": 2,
-      "Тарасов Валерий Иванович": 3,
-      "Шперов Павел Валентинович": 4,
-      "Шуба Дмитрий Евгеньевич": 0
+      "gas:candidate-vibid:493400789838": 1,
+      "gas:candidate-vibid:493400789985": 1,
+      "gas:candidate-vibid:493400790200": 1,
+      "gas:candidate-vibid:493400789970": 99,
+      "gas:candidate-vibid:493400790187": 0,
+      "gas:candidate-vibid:493400789816": 2,
+      "gas:candidate-vibid:493400790106": 3,
+      "gas:candidate-vibid:493400789642": 4,
+      "gas:candidate-vibid:493400789940": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/crimea?action=show&root=1000308&tvd=493400789272&vrn=100100067795849&region=93&global=&sub_region=93&prver=0&pronetvd=null&vibid=493400789272&type=464",
@@ -12256,15 +12256,15 @@ export const duma_2016_uik_463_region_93_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Беккер Олег Ефимович": 15,
-      "Боушев Владимир Геннадьевич": 5,
-      "Лебедева Наталья Николаевна": 15,
-      "Савченко Светлана Борисовна": 428,
-      "Силиверстов Игорь Витальевич": 5,
-      "Соломахин Олег Андреевич": 15,
-      "Тарасов Валерий Иванович": 4,
-      "Шперов Павел Валентинович": 18,
-      "Шуба Дмитрий Евгеньевич": 13
+      "gas:candidate-vibid:493400789838": 15,
+      "gas:candidate-vibid:493400789985": 5,
+      "gas:candidate-vibid:493400790200": 15,
+      "gas:candidate-vibid:493400789970": 428,
+      "gas:candidate-vibid:493400790187": 5,
+      "gas:candidate-vibid:493400789816": 15,
+      "gas:candidate-vibid:493400790106": 4,
+      "gas:candidate-vibid:493400789642": 18,
+      "gas:candidate-vibid:493400789940": 13
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/crimea?action=show&root=1000308&tvd=493400789272&vrn=100100067795849&region=93&global=&sub_region=93&prver=0&pronetvd=null&vibid=493400789272&type=464",
@@ -12315,15 +12315,15 @@ export const duma_2016_uik_463_region_93_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Беккер Олег Ефимович": 3,
-      "Боушев Владимир Геннадьевич": 1,
-      "Лебедева Наталья Николаевна": 2,
-      "Савченко Светлана Борисовна": 119,
-      "Силиверстов Игорь Витальевич": 5,
-      "Соломахин Олег Андреевич": 3,
-      "Тарасов Валерий Иванович": 1,
-      "Шперов Павел Валентинович": 6,
-      "Шуба Дмитрий Евгеньевич": 2
+      "gas:candidate-vibid:493400789838": 3,
+      "gas:candidate-vibid:493400789985": 1,
+      "gas:candidate-vibid:493400790200": 2,
+      "gas:candidate-vibid:493400789970": 119,
+      "gas:candidate-vibid:493400790187": 5,
+      "gas:candidate-vibid:493400789816": 3,
+      "gas:candidate-vibid:493400790106": 1,
+      "gas:candidate-vibid:493400789642": 6,
+      "gas:candidate-vibid:493400789940": 2
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/crimea?action=show&root=1000308&tvd=493400789272&vrn=100100067795849&region=93&global=&sub_region=93&prver=0&pronetvd=null&vibid=493400789272&type=464",
@@ -12374,15 +12374,15 @@ export const duma_2016_uik_463_region_93_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Беккер Олег Ефимович": 35,
-      "Боушев Владимир Геннадьевич": 7,
-      "Лебедева Наталья Николаевна": 19,
-      "Савченко Светлана Борисовна": 544,
-      "Силиверстов Игорь Витальевич": 10,
-      "Соломахин Олег Андреевич": 25,
-      "Тарасов Валерий Иванович": 8,
-      "Шперов Павел Валентинович": 39,
-      "Шуба Дмитрий Евгеньевич": 16
+      "gas:candidate-vibid:493400789838": 35,
+      "gas:candidate-vibid:493400789985": 7,
+      "gas:candidate-vibid:493400790200": 19,
+      "gas:candidate-vibid:493400789970": 544,
+      "gas:candidate-vibid:493400790187": 10,
+      "gas:candidate-vibid:493400789816": 25,
+      "gas:candidate-vibid:493400790106": 8,
+      "gas:candidate-vibid:493400789642": 39,
+      "gas:candidate-vibid:493400789940": 16
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/crimea?action=show&root=1000308&tvd=493400789272&vrn=100100067795849&region=93&global=&sub_region=93&prver=0&pronetvd=null&vibid=493400789272&type=464",
@@ -12433,15 +12433,15 @@ export const duma_2016_uik_463_region_93_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Беккер Олег Ефимович": 10,
-      "Боушев Владимир Геннадьевич": 2,
-      "Лебедева Наталья Николаевна": 16,
-      "Савченко Светлана Борисовна": 364,
-      "Силиверстов Игорь Витальевич": 2,
-      "Соломахин Олег Андреевич": 24,
-      "Тарасов Валерий Иванович": 5,
-      "Шперов Павел Валентинович": 24,
-      "Шуба Дмитрий Евгеньевич": 7
+      "gas:candidate-vibid:493400789838": 10,
+      "gas:candidate-vibid:493400789985": 2,
+      "gas:candidate-vibid:493400790200": 16,
+      "gas:candidate-vibid:493400789970": 364,
+      "gas:candidate-vibid:493400790187": 2,
+      "gas:candidate-vibid:493400789816": 24,
+      "gas:candidate-vibid:493400790106": 5,
+      "gas:candidate-vibid:493400789642": 24,
+      "gas:candidate-vibid:493400789940": 7
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/crimea?action=show&root=1000308&tvd=493400789272&vrn=100100067795849&region=93&global=&sub_region=93&prver=0&pronetvd=null&vibid=493400789272&type=464",
@@ -12492,15 +12492,15 @@ export const duma_2016_uik_463_region_93_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Беккер Олег Ефимович": 12,
-      "Боушев Владимир Геннадьевич": 3,
-      "Лебедева Наталья Николаевна": 15,
-      "Савченко Светлана Борисовна": 231,
-      "Силиверстов Игорь Витальевич": 4,
-      "Соломахин Олег Андреевич": 14,
-      "Тарасов Валерий Иванович": 4,
-      "Шперов Павел Валентинович": 15,
-      "Шуба Дмитрий Евгеньевич": 3
+      "gas:candidate-vibid:493400789838": 12,
+      "gas:candidate-vibid:493400789985": 3,
+      "gas:candidate-vibid:493400790200": 15,
+      "gas:candidate-vibid:493400789970": 231,
+      "gas:candidate-vibid:493400790187": 4,
+      "gas:candidate-vibid:493400789816": 14,
+      "gas:candidate-vibid:493400790106": 4,
+      "gas:candidate-vibid:493400789642": 15,
+      "gas:candidate-vibid:493400789940": 3
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/crimea?action=show&root=1000308&tvd=493400789272&vrn=100100067795849&region=93&global=&sub_region=93&prver=0&pronetvd=null&vibid=493400789272&type=464",
@@ -12551,15 +12551,15 @@ export const duma_2016_uik_463_region_93_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Беккер Олег Ефимович": 7,
-      "Боушев Владимир Геннадьевич": 7,
-      "Лебедева Наталья Николаевна": 11,
-      "Савченко Светлана Борисовна": 219,
-      "Силиверстов Игорь Витальевич": 5,
-      "Соломахин Олег Андреевич": 15,
-      "Тарасов Валерий Иванович": 8,
-      "Шперов Павел Валентинович": 12,
-      "Шуба Дмитрий Евгеньевич": 7
+      "gas:candidate-vibid:493400789838": 7,
+      "gas:candidate-vibid:493400789985": 7,
+      "gas:candidate-vibid:493400790200": 11,
+      "gas:candidate-vibid:493400789970": 219,
+      "gas:candidate-vibid:493400790187": 5,
+      "gas:candidate-vibid:493400789816": 15,
+      "gas:candidate-vibid:493400790106": 8,
+      "gas:candidate-vibid:493400789642": 12,
+      "gas:candidate-vibid:493400789940": 7
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/crimea?action=show&root=1000308&tvd=493400789272&vrn=100100067795849&region=93&global=&sub_region=93&prver=0&pronetvd=null&vibid=493400789272&type=464",
@@ -12610,15 +12610,15 @@ export const duma_2016_uik_463_region_93_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Беккер Олег Ефимович": 9,
-      "Боушев Владимир Геннадьевич": 2,
-      "Лебедева Наталья Николаевна": 6,
-      "Савченко Светлана Борисовна": 204,
-      "Силиверстов Игорь Витальевич": 1,
-      "Соломахин Олег Андреевич": 4,
-      "Тарасов Валерий Иванович": 3,
-      "Шперов Павел Валентинович": 14,
-      "Шуба Дмитрий Евгеньевич": 8
+      "gas:candidate-vibid:493400789838": 9,
+      "gas:candidate-vibid:493400789985": 2,
+      "gas:candidate-vibid:493400790200": 6,
+      "gas:candidate-vibid:493400789970": 204,
+      "gas:candidate-vibid:493400790187": 1,
+      "gas:candidate-vibid:493400789816": 4,
+      "gas:candidate-vibid:493400790106": 3,
+      "gas:candidate-vibid:493400789642": 14,
+      "gas:candidate-vibid:493400789940": 8
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/crimea?action=show&root=1000308&tvd=493400789272&vrn=100100067795849&region=93&global=&sub_region=93&prver=0&pronetvd=null&vibid=493400789272&type=464",
@@ -12669,15 +12669,15 @@ export const duma_2016_uik_463_region_93_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Беккер Олег Ефимович": 5,
-      "Боушев Владимир Геннадьевич": 1,
-      "Лебедева Наталья Николаевна": 5,
-      "Савченко Светлана Борисовна": 132,
-      "Силиверстов Игорь Витальевич": 0,
-      "Соломахин Олег Андреевич": 2,
-      "Тарасов Валерий Иванович": 3,
-      "Шперов Павел Валентинович": 4,
-      "Шуба Дмитрий Евгеньевич": 2
+      "gas:candidate-vibid:493400789838": 5,
+      "gas:candidate-vibid:493400789985": 1,
+      "gas:candidate-vibid:493400790200": 5,
+      "gas:candidate-vibid:493400789970": 132,
+      "gas:candidate-vibid:493400790187": 0,
+      "gas:candidate-vibid:493400789816": 2,
+      "gas:candidate-vibid:493400790106": 3,
+      "gas:candidate-vibid:493400789642": 4,
+      "gas:candidate-vibid:493400789940": 2
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/crimea?action=show&root=1000308&tvd=493400789272&vrn=100100067795849&region=93&global=&sub_region=93&prver=0&pronetvd=null&vibid=493400789272&type=464",
@@ -12728,15 +12728,15 @@ export const duma_2016_uik_463_region_93_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Беккер Олег Ефимович": 4,
-      "Боушев Владимир Геннадьевич": 3,
-      "Лебедева Наталья Николаевна": 8,
-      "Савченко Светлана Борисовна": 203,
-      "Силиверстов Игорь Витальевич": 0,
-      "Соломахин Олег Андреевич": 4,
-      "Тарасов Валерий Иванович": 0,
-      "Шперов Павел Валентинович": 21,
-      "Шуба Дмитрий Евгеньевич": 1
+      "gas:candidate-vibid:493400789838": 4,
+      "gas:candidate-vibid:493400789985": 3,
+      "gas:candidate-vibid:493400790200": 8,
+      "gas:candidate-vibid:493400789970": 203,
+      "gas:candidate-vibid:493400790187": 0,
+      "gas:candidate-vibid:493400789816": 4,
+      "gas:candidate-vibid:493400790106": 0,
+      "gas:candidate-vibid:493400789642": 21,
+      "gas:candidate-vibid:493400789940": 1
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/crimea?action=show&root=1000308&tvd=493400789272&vrn=100100067795849&region=93&global=&sub_region=93&prver=0&pronetvd=null&vibid=493400789272&type=464",
@@ -12787,15 +12787,15 @@ export const duma_2016_uik_463_region_93_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Беккер Олег Ефимович": 8,
-      "Боушев Владимир Геннадьевич": 2,
-      "Лебедева Наталья Николаевна": 3,
-      "Савченко Светлана Борисовна": 247,
-      "Силиверстов Игорь Витальевич": 0,
-      "Соломахин Олег Андреевич": 12,
-      "Тарасов Валерий Иванович": 0,
-      "Шперов Павел Валентинович": 13,
-      "Шуба Дмитрий Евгеньевич": 8
+      "gas:candidate-vibid:493400789838": 8,
+      "gas:candidate-vibid:493400789985": 2,
+      "gas:candidate-vibid:493400790200": 3,
+      "gas:candidate-vibid:493400789970": 247,
+      "gas:candidate-vibid:493400790187": 0,
+      "gas:candidate-vibid:493400789816": 12,
+      "gas:candidate-vibid:493400790106": 0,
+      "gas:candidate-vibid:493400789642": 13,
+      "gas:candidate-vibid:493400789940": 8
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/crimea?action=show&root=1000308&tvd=493400789272&vrn=100100067795849&region=93&global=&sub_region=93&prver=0&pronetvd=null&vibid=493400789272&type=464",
@@ -12846,15 +12846,15 @@ export const duma_2016_uik_463_region_93_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Беккер Олег Ефимович": 9,
-      "Боушев Владимир Геннадьевич": 2,
-      "Лебедева Наталья Николаевна": 3,
-      "Савченко Светлана Борисовна": 246,
-      "Силиверстов Игорь Витальевич": 4,
-      "Соломахин Олег Андреевич": 13,
-      "Тарасов Валерий Иванович": 1,
-      "Шперов Павел Валентинович": 7,
-      "Шуба Дмитрий Евгеньевич": 4
+      "gas:candidate-vibid:493400789838": 9,
+      "gas:candidate-vibid:493400789985": 2,
+      "gas:candidate-vibid:493400790200": 3,
+      "gas:candidate-vibid:493400789970": 246,
+      "gas:candidate-vibid:493400790187": 4,
+      "gas:candidate-vibid:493400789816": 13,
+      "gas:candidate-vibid:493400790106": 1,
+      "gas:candidate-vibid:493400789642": 7,
+      "gas:candidate-vibid:493400789940": 4
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/crimea?action=show&root=1000308&tvd=493400789272&vrn=100100067795849&region=93&global=&sub_region=93&prver=0&pronetvd=null&vibid=493400789272&type=464",
@@ -12905,15 +12905,15 @@ export const duma_2016_uik_463_region_93_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Беккер Олег Ефимович": 17,
-      "Боушев Владимир Геннадьевич": 7,
-      "Лебедева Наталья Николаевна": 13,
-      "Савченко Светлана Борисовна": 352,
-      "Силиверстов Игорь Витальевич": 4,
-      "Соломахин Олег Андреевич": 11,
-      "Тарасов Валерий Иванович": 2,
-      "Шперов Павел Валентинович": 28,
-      "Шуба Дмитрий Евгеньевич": 6
+      "gas:candidate-vibid:493400789838": 17,
+      "gas:candidate-vibid:493400789985": 7,
+      "gas:candidate-vibid:493400790200": 13,
+      "gas:candidate-vibid:493400789970": 352,
+      "gas:candidate-vibid:493400790187": 4,
+      "gas:candidate-vibid:493400789816": 11,
+      "gas:candidate-vibid:493400790106": 2,
+      "gas:candidate-vibid:493400789642": 28,
+      "gas:candidate-vibid:493400789940": 6
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/crimea?action=show&root=1000308&tvd=493400789272&vrn=100100067795849&region=93&global=&sub_region=93&prver=0&pronetvd=null&vibid=493400789272&type=464",
@@ -12964,15 +12964,15 @@ export const duma_2016_uik_463_region_93_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Беккер Олег Ефимович": 9,
-      "Боушев Владимир Геннадьевич": 3,
-      "Лебедева Наталья Николаевна": 9,
-      "Савченко Светлана Борисовна": 310,
-      "Силиверстов Игорь Витальевич": 5,
-      "Соломахин Олег Андреевич": 4,
-      "Тарасов Валерий Иванович": 4,
-      "Шперов Павел Валентинович": 18,
-      "Шуба Дмитрий Евгеньевич": 3
+      "gas:candidate-vibid:493400789838": 9,
+      "gas:candidate-vibid:493400789985": 3,
+      "gas:candidate-vibid:493400790200": 9,
+      "gas:candidate-vibid:493400789970": 310,
+      "gas:candidate-vibid:493400790187": 5,
+      "gas:candidate-vibid:493400789816": 4,
+      "gas:candidate-vibid:493400790106": 4,
+      "gas:candidate-vibid:493400789642": 18,
+      "gas:candidate-vibid:493400789940": 3
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/crimea?action=show&root=1000308&tvd=493400789272&vrn=100100067795849&region=93&global=&sub_region=93&prver=0&pronetvd=null&vibid=493400789272&type=464",
@@ -13023,15 +13023,15 @@ export const duma_2016_uik_463_region_93_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Беккер Олег Ефимович": 6,
-      "Боушев Владимир Геннадьевич": 1,
-      "Лебедева Наталья Николаевна": 3,
-      "Савченко Светлана Борисовна": 120,
-      "Силиверстов Игорь Витальевич": 2,
-      "Соломахин Олег Андреевич": 3,
-      "Тарасов Валерий Иванович": 1,
-      "Шперов Павел Валентинович": 10,
-      "Шуба Дмитрий Евгеньевич": 2
+      "gas:candidate-vibid:493400789838": 6,
+      "gas:candidate-vibid:493400789985": 1,
+      "gas:candidate-vibid:493400790200": 3,
+      "gas:candidate-vibid:493400789970": 120,
+      "gas:candidate-vibid:493400790187": 2,
+      "gas:candidate-vibid:493400789816": 3,
+      "gas:candidate-vibid:493400790106": 1,
+      "gas:candidate-vibid:493400789642": 10,
+      "gas:candidate-vibid:493400789940": 2
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/crimea?action=show&root=1000308&tvd=493400789272&vrn=100100067795849&region=93&global=&sub_region=93&prver=0&pronetvd=null&vibid=493400789272&type=464",
@@ -13082,15 +13082,15 @@ export const duma_2016_uik_463_region_93_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Беккер Олег Ефимович": 7,
-      "Боушев Владимир Геннадьевич": 2,
-      "Лебедева Наталья Николаевна": 7,
-      "Савченко Светлана Борисовна": 143,
-      "Силиверстов Игорь Витальевич": 2,
-      "Соломахин Олег Андреевич": 8,
-      "Тарасов Валерий Иванович": 1,
-      "Шперов Павел Валентинович": 8,
-      "Шуба Дмитрий Евгеньевич": 0
+      "gas:candidate-vibid:493400789838": 7,
+      "gas:candidate-vibid:493400789985": 2,
+      "gas:candidate-vibid:493400790200": 7,
+      "gas:candidate-vibid:493400789970": 143,
+      "gas:candidate-vibid:493400790187": 2,
+      "gas:candidate-vibid:493400789816": 8,
+      "gas:candidate-vibid:493400790106": 1,
+      "gas:candidate-vibid:493400789642": 8,
+      "gas:candidate-vibid:493400789940": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/crimea?action=show&root=1000308&tvd=493400789272&vrn=100100067795849&region=93&global=&sub_region=93&prver=0&pronetvd=null&vibid=493400789272&type=464",
@@ -13141,15 +13141,15 @@ export const duma_2016_uik_463_region_93_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Беккер Олег Ефимович": 14,
-      "Боушев Владимир Геннадьевич": 2,
-      "Лебедева Наталья Николаевна": 18,
-      "Савченко Светлана Борисовна": 526,
-      "Силиверстов Игорь Витальевич": 8,
-      "Соломахин Олег Андреевич": 37,
-      "Тарасов Валерий Иванович": 9,
-      "Шперов Павел Валентинович": 29,
-      "Шуба Дмитрий Евгеньевич": 14
+      "gas:candidate-vibid:493400789838": 14,
+      "gas:candidate-vibid:493400789985": 2,
+      "gas:candidate-vibid:493400790200": 18,
+      "gas:candidate-vibid:493400789970": 526,
+      "gas:candidate-vibid:493400790187": 8,
+      "gas:candidate-vibid:493400789816": 37,
+      "gas:candidate-vibid:493400790106": 9,
+      "gas:candidate-vibid:493400789642": 29,
+      "gas:candidate-vibid:493400789940": 14
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/crimea?action=show&root=1000308&tvd=493400789272&vrn=100100067795849&region=93&global=&sub_region=93&prver=0&pronetvd=null&vibid=493400789272&type=464",
@@ -13200,15 +13200,15 @@ export const duma_2016_uik_463_region_93_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Беккер Олег Ефимович": 10,
-      "Боушев Владимир Геннадьевич": 8,
-      "Лебедева Наталья Николаевна": 11,
-      "Савченко Светлана Борисовна": 450,
-      "Силиверстов Игорь Витальевич": 12,
-      "Соломахин Олег Андреевич": 35,
-      "Тарасов Валерий Иванович": 7,
-      "Шперов Павел Валентинович": 24,
-      "Шуба Дмитрий Евгеньевич": 9
+      "gas:candidate-vibid:493400789838": 10,
+      "gas:candidate-vibid:493400789985": 8,
+      "gas:candidate-vibid:493400790200": 11,
+      "gas:candidate-vibid:493400789970": 450,
+      "gas:candidate-vibid:493400790187": 12,
+      "gas:candidate-vibid:493400789816": 35,
+      "gas:candidate-vibid:493400790106": 7,
+      "gas:candidate-vibid:493400789642": 24,
+      "gas:candidate-vibid:493400789940": 9
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/crimea?action=show&root=1000308&tvd=493400789272&vrn=100100067795849&region=93&global=&sub_region=93&prver=0&pronetvd=null&vibid=493400789272&type=464",
@@ -13259,15 +13259,15 @@ export const duma_2016_uik_463_region_93_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Беккер Олег Ефимович": 7,
-      "Боушев Владимир Геннадьевич": 0,
-      "Лебедева Наталья Николаевна": 5,
-      "Савченко Светлана Борисовна": 285,
-      "Силиверстов Игорь Витальевич": 0,
-      "Соломахин Олег Андреевич": 3,
-      "Тарасов Валерий Иванович": 2,
-      "Шперов Павел Валентинович": 2,
-      "Шуба Дмитрий Евгеньевич": 0
+      "gas:candidate-vibid:493400789838": 7,
+      "gas:candidate-vibid:493400789985": 0,
+      "gas:candidate-vibid:493400790200": 5,
+      "gas:candidate-vibid:493400789970": 285,
+      "gas:candidate-vibid:493400790187": 0,
+      "gas:candidate-vibid:493400789816": 3,
+      "gas:candidate-vibid:493400790106": 2,
+      "gas:candidate-vibid:493400789642": 2,
+      "gas:candidate-vibid:493400789940": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/crimea?action=show&root=1000308&tvd=493400789272&vrn=100100067795849&region=93&global=&sub_region=93&prver=0&pronetvd=null&vibid=493400789272&type=464",
@@ -13318,15 +13318,15 @@ export const duma_2016_uik_463_region_93_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Беккер Олег Ефимович": 12,
-      "Боушев Владимир Геннадьевич": 3,
-      "Лебедева Наталья Николаевна": 2,
-      "Савченко Светлана Борисовна": 353,
-      "Силиверстов Игорь Витальевич": 4,
-      "Соломахин Олег Андреевич": 7,
-      "Тарасов Валерий Иванович": 2,
-      "Шперов Павел Валентинович": 5,
-      "Шуба Дмитрий Евгеньевич": 4
+      "gas:candidate-vibid:493400789838": 12,
+      "gas:candidate-vibid:493400789985": 3,
+      "gas:candidate-vibid:493400790200": 2,
+      "gas:candidate-vibid:493400789970": 353,
+      "gas:candidate-vibid:493400790187": 4,
+      "gas:candidate-vibid:493400789816": 7,
+      "gas:candidate-vibid:493400790106": 2,
+      "gas:candidate-vibid:493400789642": 5,
+      "gas:candidate-vibid:493400789940": 4
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/crimea?action=show&root=1000308&tvd=493400789272&vrn=100100067795849&region=93&global=&sub_region=93&prver=0&pronetvd=null&vibid=493400789272&type=464",
@@ -13377,15 +13377,15 @@ export const duma_2016_uik_463_region_93_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Беккер Олег Ефимович": 22,
-      "Боушев Владимир Геннадьевич": 11,
-      "Лебедева Наталья Николаевна": 26,
-      "Савченко Светлана Борисовна": 437,
-      "Силиверстов Игорь Витальевич": 10,
-      "Соломахин Олег Андреевич": 11,
-      "Тарасов Валерий Иванович": 5,
-      "Шперов Павел Валентинович": 32,
-      "Шуба Дмитрий Евгеньевич": 8
+      "gas:candidate-vibid:493400789838": 22,
+      "gas:candidate-vibid:493400789985": 11,
+      "gas:candidate-vibid:493400790200": 26,
+      "gas:candidate-vibid:493400789970": 437,
+      "gas:candidate-vibid:493400790187": 10,
+      "gas:candidate-vibid:493400789816": 11,
+      "gas:candidate-vibid:493400790106": 5,
+      "gas:candidate-vibid:493400789642": 32,
+      "gas:candidate-vibid:493400789940": 8
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/crimea?action=show&root=1000308&tvd=493400789272&vrn=100100067795849&region=93&global=&sub_region=93&prver=0&pronetvd=null&vibid=493400789272&type=464",
@@ -13436,15 +13436,15 @@ export const duma_2016_uik_463_region_93_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Беккер Олег Ефимович": 12,
-      "Боушев Владимир Геннадьевич": 6,
-      "Лебедева Наталья Николаевна": 10,
-      "Савченко Светлана Борисовна": 178,
-      "Силиверстов Игорь Витальевич": 2,
-      "Соломахин Олег Андреевич": 7,
-      "Тарасов Валерий Иванович": 3,
-      "Шперов Павел Валентинович": 18,
-      "Шуба Дмитрий Евгеньевич": 5
+      "gas:candidate-vibid:493400789838": 12,
+      "gas:candidate-vibid:493400789985": 6,
+      "gas:candidate-vibid:493400790200": 10,
+      "gas:candidate-vibid:493400789970": 178,
+      "gas:candidate-vibid:493400790187": 2,
+      "gas:candidate-vibid:493400789816": 7,
+      "gas:candidate-vibid:493400790106": 3,
+      "gas:candidate-vibid:493400789642": 18,
+      "gas:candidate-vibid:493400789940": 5
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/crimea?action=show&root=1000308&tvd=493400789272&vrn=100100067795849&region=93&global=&sub_region=93&prver=0&pronetvd=null&vibid=493400789272&type=464",
@@ -13495,15 +13495,15 @@ export const duma_2016_uik_463_region_93_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Беккер Олег Ефимович": 6,
-      "Боушев Владимир Геннадьевич": 5,
-      "Лебедева Наталья Николаевна": 13,
-      "Савченко Светлана Борисовна": 328,
-      "Силиверстов Игорь Витальевич": 4,
-      "Соломахин Олег Андреевич": 11,
-      "Тарасов Валерий Иванович": 5,
-      "Шперов Павел Валентинович": 9,
-      "Шуба Дмитрий Евгеньевич": 7
+      "gas:candidate-vibid:493400789838": 6,
+      "gas:candidate-vibid:493400789985": 5,
+      "gas:candidate-vibid:493400790200": 13,
+      "gas:candidate-vibid:493400789970": 328,
+      "gas:candidate-vibid:493400790187": 4,
+      "gas:candidate-vibid:493400789816": 11,
+      "gas:candidate-vibid:493400790106": 5,
+      "gas:candidate-vibid:493400789642": 9,
+      "gas:candidate-vibid:493400789940": 7
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/crimea?action=show&root=1000308&tvd=493400789272&vrn=100100067795849&region=93&global=&sub_region=93&prver=0&pronetvd=null&vibid=493400789272&type=464",
@@ -13554,15 +13554,15 @@ export const duma_2016_uik_463_region_93_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Беккер Олег Ефимович": 2,
-      "Боушев Владимир Геннадьевич": 0,
-      "Лебедева Наталья Николаевна": 5,
-      "Савченко Светлана Борисовна": 144,
-      "Силиверстов Игорь Витальевич": 2,
-      "Соломахин Олег Андреевич": 4,
-      "Тарасов Валерий Иванович": 0,
-      "Шперов Павел Валентинович": 1,
-      "Шуба Дмитрий Евгеньевич": 4
+      "gas:candidate-vibid:493400789838": 2,
+      "gas:candidate-vibid:493400789985": 0,
+      "gas:candidate-vibid:493400790200": 5,
+      "gas:candidate-vibid:493400789970": 144,
+      "gas:candidate-vibid:493400790187": 2,
+      "gas:candidate-vibid:493400789816": 4,
+      "gas:candidate-vibid:493400790106": 0,
+      "gas:candidate-vibid:493400789642": 1,
+      "gas:candidate-vibid:493400789940": 4
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/crimea?action=show&root=1000308&tvd=493400789272&vrn=100100067795849&region=93&global=&sub_region=93&prver=0&pronetvd=null&vibid=493400789272&type=464",
@@ -13613,15 +13613,15 @@ export const duma_2016_uik_463_region_93_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Беккер Олег Ефимович": 1,
-      "Боушев Владимир Геннадьевич": 7,
-      "Лебедева Наталья Николаевна": 0,
-      "Савченко Светлана Борисовна": 49,
-      "Силиверстов Игорь Витальевич": 1,
-      "Соломахин Олег Андреевич": 0,
-      "Тарасов Валерий Иванович": 1,
-      "Шперов Павел Валентинович": 4,
-      "Шуба Дмитрий Евгеньевич": 0
+      "gas:candidate-vibid:493400789838": 1,
+      "gas:candidate-vibid:493400789985": 7,
+      "gas:candidate-vibid:493400790200": 0,
+      "gas:candidate-vibid:493400789970": 49,
+      "gas:candidate-vibid:493400790187": 1,
+      "gas:candidate-vibid:493400789816": 0,
+      "gas:candidate-vibid:493400790106": 1,
+      "gas:candidate-vibid:493400789642": 4,
+      "gas:candidate-vibid:493400789940": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/crimea?action=show&root=1000308&tvd=493400789272&vrn=100100067795849&region=93&global=&sub_region=93&prver=0&pronetvd=null&vibid=493400789272&type=464",
@@ -13672,15 +13672,15 @@ export const duma_2016_uik_463_region_93_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Беккер Олег Ефимович": 14,
-      "Боушев Владимир Геннадьевич": 4,
-      "Лебедева Наталья Николаевна": 17,
-      "Савченко Светлана Борисовна": 452,
-      "Силиверстов Игорь Витальевич": 4,
-      "Соломахин Олег Андреевич": 67,
-      "Тарасов Валерий Иванович": 6,
-      "Шперов Павел Валентинович": 11,
-      "Шуба Дмитрий Евгеньевич": 6
+      "gas:candidate-vibid:493400789838": 14,
+      "gas:candidate-vibid:493400789985": 4,
+      "gas:candidate-vibid:493400790200": 17,
+      "gas:candidate-vibid:493400789970": 452,
+      "gas:candidate-vibid:493400790187": 4,
+      "gas:candidate-vibid:493400789816": 67,
+      "gas:candidate-vibid:493400790106": 6,
+      "gas:candidate-vibid:493400789642": 11,
+      "gas:candidate-vibid:493400789940": 6
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/crimea?action=show&root=1000308&tvd=493400789272&vrn=100100067795849&region=93&global=&sub_region=93&prver=0&pronetvd=null&vibid=493400789272&type=464",
@@ -13731,15 +13731,15 @@ export const duma_2016_uik_463_region_93_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Беккер Олег Ефимович": 17,
-      "Боушев Владимир Геннадьевич": 6,
-      "Лебедева Наталья Николаевна": 15,
-      "Савченко Светлана Борисовна": 657,
-      "Силиверстов Игорь Витальевич": 8,
-      "Соломахин Олег Андреевич": 80,
-      "Тарасов Валерий Иванович": 6,
-      "Шперов Павел Валентинович": 39,
-      "Шуба Дмитрий Евгеньевич": 7
+      "gas:candidate-vibid:493400789838": 17,
+      "gas:candidate-vibid:493400789985": 6,
+      "gas:candidate-vibid:493400790200": 15,
+      "gas:candidate-vibid:493400789970": 657,
+      "gas:candidate-vibid:493400790187": 8,
+      "gas:candidate-vibid:493400789816": 80,
+      "gas:candidate-vibid:493400790106": 6,
+      "gas:candidate-vibid:493400789642": 39,
+      "gas:candidate-vibid:493400789940": 7
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/crimea?action=show&root=1000308&tvd=493400789272&vrn=100100067795849&region=93&global=&sub_region=93&prver=0&pronetvd=null&vibid=493400789272&type=464",
@@ -13790,15 +13790,15 @@ export const duma_2016_uik_463_region_93_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Беккер Олег Ефимович": 6,
-      "Боушев Владимир Геннадьевич": 1,
-      "Лебедева Наталья Николаевна": 2,
-      "Савченко Светлана Борисовна": 105,
-      "Силиверстов Игорь Витальевич": 4,
-      "Соломахин Олег Андреевич": 18,
-      "Тарасов Валерий Иванович": 1,
-      "Шперов Павел Валентинович": 3,
-      "Шуба Дмитрий Евгеньевич": 1
+      "gas:candidate-vibid:493400789838": 6,
+      "gas:candidate-vibid:493400789985": 1,
+      "gas:candidate-vibid:493400790200": 2,
+      "gas:candidate-vibid:493400789970": 105,
+      "gas:candidate-vibid:493400790187": 4,
+      "gas:candidate-vibid:493400789816": 18,
+      "gas:candidate-vibid:493400790106": 1,
+      "gas:candidate-vibid:493400789642": 3,
+      "gas:candidate-vibid:493400789940": 1
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/crimea?action=show&root=1000308&tvd=493400789272&vrn=100100067795849&region=93&global=&sub_region=93&prver=0&pronetvd=null&vibid=493400789272&type=464",
@@ -13849,15 +13849,15 @@ export const duma_2016_uik_463_region_93_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Беккер Олег Ефимович": 16,
-      "Боушев Владимир Геннадьевич": 9,
-      "Лебедева Наталья Николаевна": 11,
-      "Савченко Светлана Борисовна": 532,
-      "Силиверстов Игорь Витальевич": 3,
-      "Соломахин Олег Андреевич": 14,
-      "Тарасов Валерий Иванович": 3,
-      "Шперов Павел Валентинович": 14,
-      "Шуба Дмитрий Евгеньевич": 12
+      "gas:candidate-vibid:493400789838": 16,
+      "gas:candidate-vibid:493400789985": 9,
+      "gas:candidate-vibid:493400790200": 11,
+      "gas:candidate-vibid:493400789970": 532,
+      "gas:candidate-vibid:493400790187": 3,
+      "gas:candidate-vibid:493400789816": 14,
+      "gas:candidate-vibid:493400790106": 3,
+      "gas:candidate-vibid:493400789642": 14,
+      "gas:candidate-vibid:493400789940": 12
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/crimea?action=show&root=1000308&tvd=493400789272&vrn=100100067795849&region=93&global=&sub_region=93&prver=0&pronetvd=null&vibid=493400789272&type=464",
@@ -13908,15 +13908,15 @@ export const duma_2016_uik_463_region_93_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Беккер Олег Ефимович": 5,
-      "Боушев Владимир Геннадьевич": 0,
-      "Лебедева Наталья Николаевна": 4,
-      "Савченко Светлана Борисовна": 137,
-      "Силиверстов Игорь Витальевич": 0,
-      "Соломахин Олег Андреевич": 0,
-      "Тарасов Валерий Иванович": 0,
-      "Шперов Павел Валентинович": 8,
-      "Шуба Дмитрий Евгеньевич": 1
+      "gas:candidate-vibid:493400789838": 5,
+      "gas:candidate-vibid:493400789985": 0,
+      "gas:candidate-vibid:493400790200": 4,
+      "gas:candidate-vibid:493400789970": 137,
+      "gas:candidate-vibid:493400790187": 0,
+      "gas:candidate-vibid:493400789816": 0,
+      "gas:candidate-vibid:493400790106": 0,
+      "gas:candidate-vibid:493400789642": 8,
+      "gas:candidate-vibid:493400789940": 1
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/crimea?action=show&root=1000308&tvd=493400789272&vrn=100100067795849&region=93&global=&sub_region=93&prver=0&pronetvd=null&vibid=493400789272&type=464",
@@ -13967,15 +13967,15 @@ export const duma_2016_uik_463_region_93_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Беккер Олег Ефимович": 11,
-      "Боушев Владимир Геннадьевич": 2,
-      "Лебедева Наталья Николаевна": 9,
-      "Савченко Светлана Борисовна": 224,
-      "Силиверстов Игорь Витальевич": 2,
-      "Соломахин Олег Андреевич": 12,
-      "Тарасов Валерий Иванович": 8,
-      "Шперов Павел Валентинович": 9,
-      "Шуба Дмитрий Евгеньевич": 6
+      "gas:candidate-vibid:493400789838": 11,
+      "gas:candidate-vibid:493400789985": 2,
+      "gas:candidate-vibid:493400790200": 9,
+      "gas:candidate-vibid:493400789970": 224,
+      "gas:candidate-vibid:493400790187": 2,
+      "gas:candidate-vibid:493400789816": 12,
+      "gas:candidate-vibid:493400790106": 8,
+      "gas:candidate-vibid:493400789642": 9,
+      "gas:candidate-vibid:493400789940": 6
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/crimea?action=show&root=1000308&tvd=493400789272&vrn=100100067795849&region=93&global=&sub_region=93&prver=0&pronetvd=null&vibid=493400789272&type=464",
@@ -14026,15 +14026,15 @@ export const duma_2016_uik_463_region_93_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Беккер Олег Ефимович": 1,
-      "Боушев Владимир Геннадьевич": 0,
-      "Лебедева Наталья Николаевна": 1,
-      "Савченко Светлана Борисовна": 74,
-      "Силиверстов Игорь Витальевич": 1,
-      "Соломахин Олег Андреевич": 5,
-      "Тарасов Валерий Иванович": 0,
-      "Шперов Павел Валентинович": 1,
-      "Шуба Дмитрий Евгеньевич": 0
+      "gas:candidate-vibid:493400789838": 1,
+      "gas:candidate-vibid:493400789985": 0,
+      "gas:candidate-vibid:493400790200": 1,
+      "gas:candidate-vibid:493400789970": 74,
+      "gas:candidate-vibid:493400790187": 1,
+      "gas:candidate-vibid:493400789816": 5,
+      "gas:candidate-vibid:493400790106": 0,
+      "gas:candidate-vibid:493400789642": 1,
+      "gas:candidate-vibid:493400789940": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/crimea?action=show&root=1000308&tvd=493400789272&vrn=100100067795849&region=93&global=&sub_region=93&prver=0&pronetvd=null&vibid=493400789272&type=464",
@@ -14085,15 +14085,15 @@ export const duma_2016_uik_463_region_93_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Беккер Олег Ефимович": 16,
-      "Боушев Владимир Геннадьевич": 5,
-      "Лебедева Наталья Николаевна": 31,
-      "Савченко Светлана Борисовна": 283,
-      "Силиверстов Игорь Витальевич": 5,
-      "Соломахин Олег Андреевич": 30,
-      "Тарасов Валерий Иванович": 7,
-      "Шперов Павел Валентинович": 15,
-      "Шуба Дмитрий Евгеньевич": 8
+      "gas:candidate-vibid:493400789838": 16,
+      "gas:candidate-vibid:493400789985": 5,
+      "gas:candidate-vibid:493400790200": 31,
+      "gas:candidate-vibid:493400789970": 283,
+      "gas:candidate-vibid:493400790187": 5,
+      "gas:candidate-vibid:493400789816": 30,
+      "gas:candidate-vibid:493400790106": 7,
+      "gas:candidate-vibid:493400789642": 15,
+      "gas:candidate-vibid:493400789940": 8
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/crimea?action=show&root=1000308&tvd=493400789273&vrn=100100067795849&region=93&global=&sub_region=93&prver=0&pronetvd=null&vibid=493400789273&type=464",
@@ -14144,15 +14144,15 @@ export const duma_2016_uik_463_region_93_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Беккер Олег Ефимович": 9,
-      "Боушев Владимир Геннадьевич": 0,
-      "Лебедева Наталья Николаевна": 11,
-      "Савченко Светлана Борисовна": 250,
-      "Силиверстов Игорь Витальевич": 1,
-      "Соломахин Олег Андреевич": 8,
-      "Тарасов Валерий Иванович": 1,
-      "Шперов Павел Валентинович": 11,
-      "Шуба Дмитрий Евгеньевич": 4
+      "gas:candidate-vibid:493400789838": 9,
+      "gas:candidate-vibid:493400789985": 0,
+      "gas:candidate-vibid:493400790200": 11,
+      "gas:candidate-vibid:493400789970": 250,
+      "gas:candidate-vibid:493400790187": 1,
+      "gas:candidate-vibid:493400789816": 8,
+      "gas:candidate-vibid:493400790106": 1,
+      "gas:candidate-vibid:493400789642": 11,
+      "gas:candidate-vibid:493400789940": 4
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/crimea?action=show&root=1000308&tvd=493400789273&vrn=100100067795849&region=93&global=&sub_region=93&prver=0&pronetvd=null&vibid=493400789273&type=464",
@@ -14203,15 +14203,15 @@ export const duma_2016_uik_463_region_93_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Беккер Олег Ефимович": 15,
-      "Боушев Владимир Геннадьевич": 5,
-      "Лебедева Наталья Николаевна": 21,
-      "Савченко Светлана Борисовна": 572,
-      "Силиверстов Игорь Витальевич": 8,
-      "Соломахин Олег Андреевич": 30,
-      "Тарасов Валерий Иванович": 6,
-      "Шперов Павел Валентинович": 17,
-      "Шуба Дмитрий Евгеньевич": 19
+      "gas:candidate-vibid:493400789838": 15,
+      "gas:candidate-vibid:493400789985": 5,
+      "gas:candidate-vibid:493400790200": 21,
+      "gas:candidate-vibid:493400789970": 572,
+      "gas:candidate-vibid:493400790187": 8,
+      "gas:candidate-vibid:493400789816": 30,
+      "gas:candidate-vibid:493400790106": 6,
+      "gas:candidate-vibid:493400789642": 17,
+      "gas:candidate-vibid:493400789940": 19
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/crimea?action=show&root=1000308&tvd=493400789273&vrn=100100067795849&region=93&global=&sub_region=93&prver=0&pronetvd=null&vibid=493400789273&type=464",
@@ -14262,15 +14262,15 @@ export const duma_2016_uik_463_region_93_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Беккер Олег Ефимович": 11,
-      "Боушев Владимир Геннадьевич": 5,
-      "Лебедева Наталья Николаевна": 13,
-      "Савченко Светлана Борисовна": 161,
-      "Силиверстов Игорь Витальевич": 5,
-      "Соломахин Олег Андреевич": 6,
-      "Тарасов Валерий Иванович": 1,
-      "Шперов Павел Валентинович": 16,
-      "Шуба Дмитрий Евгеньевич": 8
+      "gas:candidate-vibid:493400789838": 11,
+      "gas:candidate-vibid:493400789985": 5,
+      "gas:candidate-vibid:493400790200": 13,
+      "gas:candidate-vibid:493400789970": 161,
+      "gas:candidate-vibid:493400790187": 5,
+      "gas:candidate-vibid:493400789816": 6,
+      "gas:candidate-vibid:493400790106": 1,
+      "gas:candidate-vibid:493400789642": 16,
+      "gas:candidate-vibid:493400789940": 8
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/crimea?action=show&root=1000308&tvd=493400789273&vrn=100100067795849&region=93&global=&sub_region=93&prver=0&pronetvd=null&vibid=493400789273&type=464",
@@ -14321,15 +14321,15 @@ export const duma_2016_uik_463_region_93_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Беккер Олег Ефимович": 23,
-      "Боушев Владимир Геннадьевич": 9,
-      "Лебедева Наталья Николаевна": 25,
-      "Савченко Светлана Борисовна": 439,
-      "Силиверстов Игорь Витальевич": 9,
-      "Соломахин Олег Андреевич": 48,
-      "Тарасов Валерий Иванович": 7,
-      "Шперов Павел Валентинович": 39,
-      "Шуба Дмитрий Евгеньевич": 11
+      "gas:candidate-vibid:493400789838": 23,
+      "gas:candidate-vibid:493400789985": 9,
+      "gas:candidate-vibid:493400790200": 25,
+      "gas:candidate-vibid:493400789970": 439,
+      "gas:candidate-vibid:493400790187": 9,
+      "gas:candidate-vibid:493400789816": 48,
+      "gas:candidate-vibid:493400790106": 7,
+      "gas:candidate-vibid:493400789642": 39,
+      "gas:candidate-vibid:493400789940": 11
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/crimea?action=show&root=1000308&tvd=493400789273&vrn=100100067795849&region=93&global=&sub_region=93&prver=0&pronetvd=null&vibid=493400789273&type=464",
@@ -14380,15 +14380,15 @@ export const duma_2016_uik_463_region_93_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Беккер Олег Ефимович": 13,
-      "Боушев Владимир Геннадьевич": 6,
-      "Лебедева Наталья Николаевна": 18,
-      "Савченко Светлана Борисовна": 509,
-      "Силиверстов Игорь Витальевич": 7,
-      "Соломахин Олег Андреевич": 29,
-      "Тарасов Валерий Иванович": 11,
-      "Шперов Павел Валентинович": 40,
-      "Шуба Дмитрий Евгеньевич": 15
+      "gas:candidate-vibid:493400789838": 13,
+      "gas:candidate-vibid:493400789985": 6,
+      "gas:candidate-vibid:493400790200": 18,
+      "gas:candidate-vibid:493400789970": 509,
+      "gas:candidate-vibid:493400790187": 7,
+      "gas:candidate-vibid:493400789816": 29,
+      "gas:candidate-vibid:493400790106": 11,
+      "gas:candidate-vibid:493400789642": 40,
+      "gas:candidate-vibid:493400789940": 15
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/crimea?action=show&root=1000308&tvd=493400789273&vrn=100100067795849&region=93&global=&sub_region=93&prver=0&pronetvd=null&vibid=493400789273&type=464",
@@ -14439,15 +14439,15 @@ export const duma_2016_uik_463_region_93_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Беккер Олег Ефимович": 3,
-      "Боушев Владимир Геннадьевич": 3,
-      "Лебедева Наталья Николаевна": 10,
-      "Савченко Светлана Борисовна": 313,
-      "Силиверстов Игорь Витальевич": 1,
-      "Соломахин Олег Андреевич": 20,
-      "Тарасов Валерий Иванович": 0,
-      "Шперов Павел Валентинович": 16,
-      "Шуба Дмитрий Евгеньевич": 6
+      "gas:candidate-vibid:493400789838": 3,
+      "gas:candidate-vibid:493400789985": 3,
+      "gas:candidate-vibid:493400790200": 10,
+      "gas:candidate-vibid:493400789970": 313,
+      "gas:candidate-vibid:493400790187": 1,
+      "gas:candidate-vibid:493400789816": 20,
+      "gas:candidate-vibid:493400790106": 0,
+      "gas:candidate-vibid:493400789642": 16,
+      "gas:candidate-vibid:493400789940": 6
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/crimea?action=show&root=1000308&tvd=493400789273&vrn=100100067795849&region=93&global=&sub_region=93&prver=0&pronetvd=null&vibid=493400789273&type=464",
@@ -14498,15 +14498,15 @@ export const duma_2016_uik_463_region_93_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Беккер Олег Ефимович": 11,
-      "Боушев Владимир Геннадьевич": 7,
-      "Лебедева Наталья Николаевна": 26,
-      "Савченко Светлана Борисовна": 504,
-      "Силиверстов Игорь Витальевич": 5,
-      "Соломахин Олег Андреевич": 49,
-      "Тарасов Валерий Иванович": 15,
-      "Шперов Павел Валентинович": 54,
-      "Шуба Дмитрий Евгеньевич": 16
+      "gas:candidate-vibid:493400789838": 11,
+      "gas:candidate-vibid:493400789985": 7,
+      "gas:candidate-vibid:493400790200": 26,
+      "gas:candidate-vibid:493400789970": 504,
+      "gas:candidate-vibid:493400790187": 5,
+      "gas:candidate-vibid:493400789816": 49,
+      "gas:candidate-vibid:493400790106": 15,
+      "gas:candidate-vibid:493400789642": 54,
+      "gas:candidate-vibid:493400789940": 16
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/crimea?action=show&root=1000308&tvd=493400789273&vrn=100100067795849&region=93&global=&sub_region=93&prver=0&pronetvd=null&vibid=493400789273&type=464",
@@ -14557,15 +14557,15 @@ export const duma_2016_uik_463_region_93_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Беккер Олег Ефимович": 32,
-      "Боушев Владимир Геннадьевич": 13,
-      "Лебедева Наталья Николаевна": 30,
-      "Савченко Светлана Борисовна": 775,
-      "Силиверстов Игорь Витальевич": 14,
-      "Соломахин Олег Андреевич": 71,
-      "Тарасов Валерий Иванович": 12,
-      "Шперов Павел Валентинович": 76,
-      "Шуба Дмитрий Евгеньевич": 15
+      "gas:candidate-vibid:493400789838": 32,
+      "gas:candidate-vibid:493400789985": 13,
+      "gas:candidate-vibid:493400790200": 30,
+      "gas:candidate-vibid:493400789970": 775,
+      "gas:candidate-vibid:493400790187": 14,
+      "gas:candidate-vibid:493400789816": 71,
+      "gas:candidate-vibid:493400790106": 12,
+      "gas:candidate-vibid:493400789642": 76,
+      "gas:candidate-vibid:493400789940": 15
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/crimea?action=show&root=1000308&tvd=493400789273&vrn=100100067795849&region=93&global=&sub_region=93&prver=0&pronetvd=null&vibid=493400789273&type=464",
@@ -14616,15 +14616,15 @@ export const duma_2016_uik_463_region_93_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Беккер Олег Ефимович": 1,
-      "Боушев Владимир Геннадьевич": 3,
-      "Лебедева Наталья Николаевна": 3,
-      "Савченко Светлана Борисовна": 200,
-      "Силиверстов Игорь Витальевич": 4,
-      "Соломахин Олег Андреевич": 31,
-      "Тарасов Валерий Иванович": 5,
-      "Шперов Павел Валентинович": 10,
-      "Шуба Дмитрий Евгеньевич": 3
+      "gas:candidate-vibid:493400789838": 1,
+      "gas:candidate-vibid:493400789985": 3,
+      "gas:candidate-vibid:493400790200": 3,
+      "gas:candidate-vibid:493400789970": 200,
+      "gas:candidate-vibid:493400790187": 4,
+      "gas:candidate-vibid:493400789816": 31,
+      "gas:candidate-vibid:493400790106": 5,
+      "gas:candidate-vibid:493400789642": 10,
+      "gas:candidate-vibid:493400789940": 3
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/crimea?action=show&root=1000308&tvd=493400789273&vrn=100100067795849&region=93&global=&sub_region=93&prver=0&pronetvd=null&vibid=493400789273&type=464",
@@ -14675,15 +14675,15 @@ export const duma_2016_uik_463_region_93_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Беккер Олег Ефимович": 11,
-      "Боушев Владимир Геннадьевич": 5,
-      "Лебедева Наталья Николаевна": 23,
-      "Савченко Светлана Борисовна": 326,
-      "Силиверстов Игорь Витальевич": 7,
-      "Соломахин Олег Андреевич": 21,
-      "Тарасов Валерий Иванович": 6,
-      "Шперов Павел Валентинович": 13,
-      "Шуба Дмитрий Евгеньевич": 4
+      "gas:candidate-vibid:493400789838": 11,
+      "gas:candidate-vibid:493400789985": 5,
+      "gas:candidate-vibid:493400790200": 23,
+      "gas:candidate-vibid:493400789970": 326,
+      "gas:candidate-vibid:493400790187": 7,
+      "gas:candidate-vibid:493400789816": 21,
+      "gas:candidate-vibid:493400790106": 6,
+      "gas:candidate-vibid:493400789642": 13,
+      "gas:candidate-vibid:493400789940": 4
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/crimea?action=show&root=1000308&tvd=493400789273&vrn=100100067795849&region=93&global=&sub_region=93&prver=0&pronetvd=null&vibid=493400789273&type=464",
@@ -14734,15 +14734,15 @@ export const duma_2016_uik_463_region_93_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Беккер Олег Ефимович": 8,
-      "Боушев Владимир Геннадьевич": 4,
-      "Лебедева Наталья Николаевна": 16,
-      "Савченко Светлана Борисовна": 496,
-      "Силиверстов Игорь Витальевич": 2,
-      "Соломахин Олег Андреевич": 9,
-      "Тарасов Валерий Иванович": 3,
-      "Шперов Павел Валентинович": 23,
-      "Шуба Дмитрий Евгеньевич": 6
+      "gas:candidate-vibid:493400789838": 8,
+      "gas:candidate-vibid:493400789985": 4,
+      "gas:candidate-vibid:493400790200": 16,
+      "gas:candidate-vibid:493400789970": 496,
+      "gas:candidate-vibid:493400790187": 2,
+      "gas:candidate-vibid:493400789816": 9,
+      "gas:candidate-vibid:493400790106": 3,
+      "gas:candidate-vibid:493400789642": 23,
+      "gas:candidate-vibid:493400789940": 6
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/crimea?action=show&root=1000308&tvd=493400789273&vrn=100100067795849&region=93&global=&sub_region=93&prver=0&pronetvd=null&vibid=493400789273&type=464",

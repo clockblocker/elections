@@ -42,15 +42,15 @@ export const duma_2003_uik_428_region_77_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Басанец Павел Павлович": 176,
-      "Бегишвили Тенгиз Михайлович": 10,
-      "Берновский Михаил Юрьевич": 60,
-      "Гребенников Валерий Васильевич": 496,
-      "Дьяков Игорь Викторович": 70,
-      "Жукова Галина Алексеевна": 199,
-      "Каландаров Камилжан Хамутович": 30,
-      "Прохоров Дмитрий Юрьевич": 102,
-      "Против всех": 460
+      "gas:candidate-vibid:1001000121933": 176,
+      "gas:candidate-vibid:1001000195163": 10,
+      "gas:candidate-vibid:377300371003": 60,
+      "gas:candidate-vibid:1001000226006": 496,
+      "gas:candidate-vibid:1001000136148": 70,
+      "gas:candidate-vibid:377300370839": 199,
+      "gas:candidate-vibid:1001000190439": 30,
+      "gas:candidate-vibid:377300370842": 102,
+      "special:against-all": 460
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=773003001&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=377300370619&region=0&sub_region=0&type=429",
@@ -100,15 +100,15 @@ export const duma_2003_uik_428_region_77_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Басанец Павел Павлович": 146,
-      "Бегишвили Тенгиз Михайлович": 11,
-      "Берновский Михаил Юрьевич": 24,
-      "Гребенников Валерий Васильевич": 403,
-      "Дьяков Игорь Викторович": 42,
-      "Жукова Галина Алексеевна": 157,
-      "Каландаров Камилжан Хамутович": 36,
-      "Прохоров Дмитрий Юрьевич": 77,
-      "Против всех": 367
+      "gas:candidate-vibid:1001000121933": 146,
+      "gas:candidate-vibid:1001000195163": 11,
+      "gas:candidate-vibid:377300371003": 24,
+      "gas:candidate-vibid:1001000226006": 403,
+      "gas:candidate-vibid:1001000136148": 42,
+      "gas:candidate-vibid:377300370839": 157,
+      "gas:candidate-vibid:1001000190439": 36,
+      "gas:candidate-vibid:377300370842": 77,
+      "special:against-all": 367
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=773003001&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=377300370619&region=0&sub_region=0&type=429",
@@ -158,15 +158,15 @@ export const duma_2003_uik_428_region_77_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Басанец Павел Павлович": 149,
-      "Бегишвили Тенгиз Михайлович": 7,
-      "Берновский Михаил Юрьевич": 46,
-      "Гребенников Валерий Васильевич": 400,
-      "Дьяков Игорь Викторович": 55,
-      "Жукова Галина Алексеевна": 214,
-      "Каландаров Камилжан Хамутович": 11,
-      "Прохоров Дмитрий Юрьевич": 97,
-      "Против всех": 387
+      "gas:candidate-vibid:1001000121933": 149,
+      "gas:candidate-vibid:1001000195163": 7,
+      "gas:candidate-vibid:377300371003": 46,
+      "gas:candidate-vibid:1001000226006": 400,
+      "gas:candidate-vibid:1001000136148": 55,
+      "gas:candidate-vibid:377300370839": 214,
+      "gas:candidate-vibid:1001000190439": 11,
+      "gas:candidate-vibid:377300370842": 97,
+      "special:against-all": 387
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=773003001&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=377300370619&region=0&sub_region=0&type=429",
@@ -216,15 +216,15 @@ export const duma_2003_uik_428_region_77_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Басанец Павел Павлович": 60,
-      "Бегишвили Тенгиз Михайлович": 2,
-      "Берновский Михаил Юрьевич": 34,
-      "Гребенников Валерий Васильевич": 194,
-      "Дьяков Игорь Викторович": 31,
-      "Жукова Галина Алексеевна": 80,
-      "Каландаров Камилжан Хамутович": 12,
-      "Прохоров Дмитрий Юрьевич": 56,
-      "Против всех": 216
+      "gas:candidate-vibid:1001000121933": 60,
+      "gas:candidate-vibid:1001000195163": 2,
+      "gas:candidate-vibid:377300371003": 34,
+      "gas:candidate-vibid:1001000226006": 194,
+      "gas:candidate-vibid:1001000136148": 31,
+      "gas:candidate-vibid:377300370839": 80,
+      "gas:candidate-vibid:1001000190439": 12,
+      "gas:candidate-vibid:377300370842": 56,
+      "special:against-all": 216
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=773003001&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=377300370619&region=0&sub_region=0&type=429",
@@ -274,15 +274,15 @@ export const duma_2003_uik_428_region_77_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Басанец Павел Павлович": 0,
-      "Бегишвили Тенгиз Михайлович": 0,
-      "Берновский Михаил Юрьевич": 0,
-      "Гребенников Валерий Васильевич": 2,
-      "Дьяков Игорь Викторович": 1,
-      "Жукова Галина Алексеевна": 1,
-      "Каландаров Камилжан Хамутович": 0,
-      "Прохоров Дмитрий Юрьевич": 3,
-      "Против всех": 9
+      "gas:candidate-vibid:1001000121933": 0,
+      "gas:candidate-vibid:1001000195163": 0,
+      "gas:candidate-vibid:377300371003": 0,
+      "gas:candidate-vibid:1001000226006": 2,
+      "gas:candidate-vibid:1001000136148": 1,
+      "gas:candidate-vibid:377300370839": 1,
+      "gas:candidate-vibid:1001000190439": 0,
+      "gas:candidate-vibid:377300370842": 3,
+      "special:against-all": 9
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=773003001&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=377300370619&region=0&sub_region=0&type=429",
@@ -332,15 +332,15 @@ export const duma_2003_uik_428_region_77_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Басанец Павел Павлович": 14,
-      "Бегишвили Тенгиз Михайлович": 2,
-      "Берновский Михаил Юрьевич": 6,
-      "Гребенников Валерий Васильевич": 14,
-      "Дьяков Игорь Викторович": 2,
-      "Жукова Галина Алексеевна": 10,
-      "Каландаров Камилжан Хамутович": 1,
-      "Прохоров Дмитрий Юрьевич": 1,
-      "Против всех": 43
+      "gas:candidate-vibid:1001000121933": 14,
+      "gas:candidate-vibid:1001000195163": 2,
+      "gas:candidate-vibid:377300371003": 6,
+      "gas:candidate-vibid:1001000226006": 14,
+      "gas:candidate-vibid:1001000136148": 2,
+      "gas:candidate-vibid:377300370839": 10,
+      "gas:candidate-vibid:1001000190439": 1,
+      "gas:candidate-vibid:377300370842": 1,
+      "special:against-all": 43
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=773003001&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=377300370619&region=0&sub_region=0&type=429",
@@ -390,15 +390,15 @@ export const duma_2003_uik_428_region_77_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Басанец Павел Павлович": 2,
-      "Бегишвили Тенгиз Михайлович": 0,
-      "Берновский Михаил Юрьевич": 0,
-      "Гребенников Валерий Васильевич": 2,
-      "Дьяков Игорь Викторович": 0,
-      "Жукова Галина Алексеевна": 0,
-      "Каландаров Камилжан Хамутович": 0,
-      "Прохоров Дмитрий Юрьевич": 0,
-      "Против всех": 5
+      "gas:candidate-vibid:1001000121933": 2,
+      "gas:candidate-vibid:1001000195163": 0,
+      "gas:candidate-vibid:377300371003": 0,
+      "gas:candidate-vibid:1001000226006": 2,
+      "gas:candidate-vibid:1001000136148": 0,
+      "gas:candidate-vibid:377300370839": 0,
+      "gas:candidate-vibid:1001000190439": 0,
+      "gas:candidate-vibid:377300370842": 0,
+      "special:against-all": 5
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=773003001&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=377300370619&region=0&sub_region=0&type=429",
@@ -448,15 +448,15 @@ export const duma_2003_uik_428_region_77_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Басанец Павел Павлович": 87,
-      "Бегишвили Тенгиз Михайлович": 2,
-      "Берновский Михаил Юрьевич": 15,
-      "Гребенников Валерий Васильевич": 110,
-      "Дьяков Игорь Викторович": 26,
-      "Жукова Галина Алексеевна": 90,
-      "Каландаров Камилжан Хамутович": 8,
-      "Прохоров Дмитрий Юрьевич": 23,
-      "Против всех": 205
+      "gas:candidate-vibid:1001000121933": 87,
+      "gas:candidate-vibid:1001000195163": 2,
+      "gas:candidate-vibid:377300371003": 15,
+      "gas:candidate-vibid:1001000226006": 110,
+      "gas:candidate-vibid:1001000136148": 26,
+      "gas:candidate-vibid:377300370839": 90,
+      "gas:candidate-vibid:1001000190439": 8,
+      "gas:candidate-vibid:377300370842": 23,
+      "special:against-all": 205
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=773003001&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=377300370619&region=0&sub_region=0&type=429",
@@ -506,15 +506,15 @@ export const duma_2003_uik_428_region_77_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Басанец Павел Павлович": 98,
-      "Бегишвили Тенгиз Михайлович": 3,
-      "Берновский Михаил Юрьевич": 32,
-      "Гребенников Валерий Васильевич": 76,
-      "Дьяков Игорь Викторович": 30,
-      "Жукова Галина Алексеевна": 84,
-      "Каландаров Камилжан Хамутович": 8,
-      "Прохоров Дмитрий Юрьевич": 33,
-      "Против всех": 281
+      "gas:candidate-vibid:1001000121933": 98,
+      "gas:candidate-vibid:1001000195163": 3,
+      "gas:candidate-vibid:377300371003": 32,
+      "gas:candidate-vibid:1001000226006": 76,
+      "gas:candidate-vibid:1001000136148": 30,
+      "gas:candidate-vibid:377300370839": 84,
+      "gas:candidate-vibid:1001000190439": 8,
+      "gas:candidate-vibid:377300370842": 33,
+      "special:against-all": 281
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=773003001&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=377300370619&region=0&sub_region=0&type=429",
@@ -564,15 +564,15 @@ export const duma_2003_uik_428_region_77_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Басанец Павел Павлович": 7,
-      "Бегишвили Тенгиз Михайлович": 0,
-      "Берновский Михаил Юрьевич": 2,
-      "Гребенников Валерий Васильевич": 15,
-      "Дьяков Игорь Викторович": 1,
-      "Жукова Галина Алексеевна": 5,
-      "Каландаров Камилжан Хамутович": 0,
-      "Прохоров Дмитрий Юрьевич": 7,
-      "Против всех": 29
+      "gas:candidate-vibid:1001000121933": 7,
+      "gas:candidate-vibid:1001000195163": 0,
+      "gas:candidate-vibid:377300371003": 2,
+      "gas:candidate-vibid:1001000226006": 15,
+      "gas:candidate-vibid:1001000136148": 1,
+      "gas:candidate-vibid:377300370839": 5,
+      "gas:candidate-vibid:1001000190439": 0,
+      "gas:candidate-vibid:377300370842": 7,
+      "special:against-all": 29
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=773003001&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=377300370619&region=0&sub_region=0&type=429",
@@ -622,15 +622,15 @@ export const duma_2003_uik_428_region_77_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Басанец Павел Павлович": 6,
-      "Бегишвили Тенгиз Михайлович": 1,
-      "Берновский Михаил Юрьевич": 4,
-      "Гребенников Валерий Васильевич": 5,
-      "Дьяков Игорь Викторович": 4,
-      "Жукова Галина Алексеевна": 4,
-      "Каландаров Камилжан Хамутович": 2,
-      "Прохоров Дмитрий Юрьевич": 9,
-      "Против всех": 26
+      "gas:candidate-vibid:1001000121933": 6,
+      "gas:candidate-vibid:1001000195163": 1,
+      "gas:candidate-vibid:377300371003": 4,
+      "gas:candidate-vibid:1001000226006": 5,
+      "gas:candidate-vibid:1001000136148": 4,
+      "gas:candidate-vibid:377300370839": 4,
+      "gas:candidate-vibid:1001000190439": 2,
+      "gas:candidate-vibid:377300370842": 9,
+      "special:against-all": 26
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=773003001&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=377300370619&region=0&sub_region=0&type=429",
@@ -680,15 +680,15 @@ export const duma_2003_uik_428_region_77_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Басанец Павел Павлович": 44,
-      "Бегишвили Тенгиз Михайлович": 0,
-      "Берновский Михаил Юрьевич": 13,
-      "Гребенников Валерий Васильевич": 48,
-      "Дьяков Игорь Викторович": 11,
-      "Жукова Галина Алексеевна": 26,
-      "Каландаров Камилжан Хамутович": 7,
-      "Прохоров Дмитрий Юрьевич": 15,
-      "Против всех": 81
+      "gas:candidate-vibid:1001000121933": 44,
+      "gas:candidate-vibid:1001000195163": 0,
+      "gas:candidate-vibid:377300371003": 13,
+      "gas:candidate-vibid:1001000226006": 48,
+      "gas:candidate-vibid:1001000136148": 11,
+      "gas:candidate-vibid:377300370839": 26,
+      "gas:candidate-vibid:1001000190439": 7,
+      "gas:candidate-vibid:377300370842": 15,
+      "special:against-all": 81
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=773003001&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=377300370619&region=0&sub_region=0&type=429",
@@ -738,15 +738,15 @@ export const duma_2003_uik_428_region_77_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Басанец Павел Павлович": 6,
-      "Бегишвили Тенгиз Михайлович": 0,
-      "Берновский Михаил Юрьевич": 2,
-      "Гребенников Валерий Васильевич": 17,
-      "Дьяков Игорь Викторович": 3,
-      "Жукова Галина Алексеевна": 6,
-      "Каландаров Камилжан Хамутович": 0,
-      "Прохоров Дмитрий Юрьевич": 4,
-      "Против всех": 17
+      "gas:candidate-vibid:1001000121933": 6,
+      "gas:candidate-vibid:1001000195163": 0,
+      "gas:candidate-vibid:377300371003": 2,
+      "gas:candidate-vibid:1001000226006": 17,
+      "gas:candidate-vibid:1001000136148": 3,
+      "gas:candidate-vibid:377300370839": 6,
+      "gas:candidate-vibid:1001000190439": 0,
+      "gas:candidate-vibid:377300370842": 4,
+      "special:against-all": 17
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=773003001&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=377300370619&region=0&sub_region=0&type=429",
@@ -796,15 +796,15 @@ export const duma_2003_uik_428_region_77_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Басанец Павел Павлович": 6,
-      "Бегишвили Тенгиз Михайлович": 1,
-      "Берновский Михаил Юрьевич": 4,
-      "Гребенников Валерий Васильевич": 11,
-      "Дьяков Игорь Викторович": 2,
-      "Жукова Галина Алексеевна": 21,
-      "Каландаров Камилжан Хамутович": 1,
-      "Прохоров Дмитрий Юрьевич": 6,
-      "Против всех": 18
+      "gas:candidate-vibid:1001000121933": 6,
+      "gas:candidate-vibid:1001000195163": 1,
+      "gas:candidate-vibid:377300371003": 4,
+      "gas:candidate-vibid:1001000226006": 11,
+      "gas:candidate-vibid:1001000136148": 2,
+      "gas:candidate-vibid:377300370839": 21,
+      "gas:candidate-vibid:1001000190439": 1,
+      "gas:candidate-vibid:377300370842": 6,
+      "special:against-all": 18
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=773003001&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=377300370619&region=0&sub_region=0&type=429",
@@ -854,15 +854,15 @@ export const duma_2003_uik_428_region_77_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Басанец Павел Павлович": 7,
-      "Бегишвили Тенгиз Михайлович": 1,
-      "Берновский Михаил Юрьевич": 2,
-      "Гребенников Валерий Васильевич": 16,
-      "Дьяков Игорь Викторович": 2,
-      "Жукова Галина Алексеевна": 4,
-      "Каландаров Камилжан Хамутович": 1,
-      "Прохоров Дмитрий Юрьевич": 1,
-      "Против всех": 11
+      "gas:candidate-vibid:1001000121933": 7,
+      "gas:candidate-vibid:1001000195163": 1,
+      "gas:candidate-vibid:377300371003": 2,
+      "gas:candidate-vibid:1001000226006": 16,
+      "gas:candidate-vibid:1001000136148": 2,
+      "gas:candidate-vibid:377300370839": 4,
+      "gas:candidate-vibid:1001000190439": 1,
+      "gas:candidate-vibid:377300370842": 1,
+      "special:against-all": 11
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=773003001&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=377300370619&region=0&sub_region=0&type=429",
@@ -912,15 +912,15 @@ export const duma_2003_uik_428_region_77_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Басанец Павел Павлович": 15,
-      "Бегишвили Тенгиз Михайлович": 2,
-      "Берновский Михаил Юрьевич": 5,
-      "Гребенников Валерий Васильевич": 23,
-      "Дьяков Игорь Викторович": 11,
-      "Жукова Галина Алексеевна": 16,
-      "Каландаров Камилжан Хамутович": 3,
-      "Прохоров Дмитрий Юрьевич": 5,
-      "Против всех": 33
+      "gas:candidate-vibid:1001000121933": 15,
+      "gas:candidate-vibid:1001000195163": 2,
+      "gas:candidate-vibid:377300371003": 5,
+      "gas:candidate-vibid:1001000226006": 23,
+      "gas:candidate-vibid:1001000136148": 11,
+      "gas:candidate-vibid:377300370839": 16,
+      "gas:candidate-vibid:1001000190439": 3,
+      "gas:candidate-vibid:377300370842": 5,
+      "special:against-all": 33
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=773003001&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=377300370619&region=0&sub_region=0&type=429",
@@ -970,15 +970,15 @@ export const duma_2003_uik_428_region_77_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Басанец Павел Павлович": 20,
-      "Бегишвили Тенгиз Михайлович": 3,
-      "Берновский Михаил Юрьевич": 11,
-      "Гребенников Валерий Васильевич": 50,
-      "Дьяков Игорь Викторович": 2,
-      "Жукова Галина Алексеевна": 18,
-      "Каландаров Камилжан Хамутович": 7,
-      "Прохоров Дмитрий Юрьевич": 6,
-      "Против всех": 60
+      "gas:candidate-vibid:1001000121933": 20,
+      "gas:candidate-vibid:1001000195163": 3,
+      "gas:candidate-vibid:377300371003": 11,
+      "gas:candidate-vibid:1001000226006": 50,
+      "gas:candidate-vibid:1001000136148": 2,
+      "gas:candidate-vibid:377300370839": 18,
+      "gas:candidate-vibid:1001000190439": 7,
+      "gas:candidate-vibid:377300370842": 6,
+      "special:against-all": 60
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=773003001&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=377300370619&region=0&sub_region=0&type=429",
@@ -1028,15 +1028,15 @@ export const duma_2003_uik_428_region_77_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Басанец Павел Павлович": 12,
-      "Бегишвили Тенгиз Михайлович": 1,
-      "Берновский Михаил Юрьевич": 1,
-      "Гребенников Валерий Васильевич": 6,
-      "Дьяков Игорь Викторович": 3,
-      "Жукова Галина Алексеевна": 1,
-      "Каландаров Камилжан Хамутович": 0,
-      "Прохоров Дмитрий Юрьевич": 7,
-      "Против всех": 25
+      "gas:candidate-vibid:1001000121933": 12,
+      "gas:candidate-vibid:1001000195163": 1,
+      "gas:candidate-vibid:377300371003": 1,
+      "gas:candidate-vibid:1001000226006": 6,
+      "gas:candidate-vibid:1001000136148": 3,
+      "gas:candidate-vibid:377300370839": 1,
+      "gas:candidate-vibid:1001000190439": 0,
+      "gas:candidate-vibid:377300370842": 7,
+      "special:against-all": 25
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=773003001&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=377300370619&region=0&sub_region=0&type=429",
@@ -1086,15 +1086,15 @@ export const duma_2003_uik_428_region_77_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Басанец Павел Павлович": 31,
-      "Бегишвили Тенгиз Михайлович": 0,
-      "Берновский Михаил Юрьевич": 9,
-      "Гребенников Валерий Васильевич": 39,
-      "Дьяков Игорь Викторович": 10,
-      "Жукова Галина Алексеевна": 22,
-      "Каландаров Камилжан Хамутович": 3,
-      "Прохоров Дмитрий Юрьевич": 10,
-      "Против всех": 34
+      "gas:candidate-vibid:1001000121933": 31,
+      "gas:candidate-vibid:1001000195163": 0,
+      "gas:candidate-vibid:377300371003": 9,
+      "gas:candidate-vibid:1001000226006": 39,
+      "gas:candidate-vibid:1001000136148": 10,
+      "gas:candidate-vibid:377300370839": 22,
+      "gas:candidate-vibid:1001000190439": 3,
+      "gas:candidate-vibid:377300370842": 10,
+      "special:against-all": 34
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=773003001&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=377300370619&region=0&sub_region=0&type=429",
@@ -1144,15 +1144,15 @@ export const duma_2003_uik_428_region_77_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Басанец Павел Павлович": 13,
-      "Бегишвили Тенгиз Михайлович": 0,
-      "Берновский Михаил Юрьевич": 4,
-      "Гребенников Валерий Васильевич": 21,
-      "Дьяков Игорь Викторович": 8,
-      "Жукова Галина Алексеевна": 23,
-      "Каландаров Камилжан Хамутович": 2,
-      "Прохоров Дмитрий Юрьевич": 6,
-      "Против всех": 18
+      "gas:candidate-vibid:1001000121933": 13,
+      "gas:candidate-vibid:1001000195163": 0,
+      "gas:candidate-vibid:377300371003": 4,
+      "gas:candidate-vibid:1001000226006": 21,
+      "gas:candidate-vibid:1001000136148": 8,
+      "gas:candidate-vibid:377300370839": 23,
+      "gas:candidate-vibid:1001000190439": 2,
+      "gas:candidate-vibid:377300370842": 6,
+      "special:against-all": 18
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=773003001&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=377300370619&region=0&sub_region=0&type=429",
@@ -1202,15 +1202,15 @@ export const duma_2003_uik_428_region_77_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Басанец Павел Павлович": 4,
-      "Бегишвили Тенгиз Михайлович": 0,
-      "Берновский Михаил Юрьевич": 6,
-      "Гребенников Валерий Васильевич": 23,
-      "Дьяков Игорь Викторович": 3,
-      "Жукова Галина Алексеевна": 11,
-      "Каландаров Камилжан Хамутович": 2,
-      "Прохоров Дмитрий Юрьевич": 4,
-      "Против всех": 32
+      "gas:candidate-vibid:1001000121933": 4,
+      "gas:candidate-vibid:1001000195163": 0,
+      "gas:candidate-vibid:377300371003": 6,
+      "gas:candidate-vibid:1001000226006": 23,
+      "gas:candidate-vibid:1001000136148": 3,
+      "gas:candidate-vibid:377300370839": 11,
+      "gas:candidate-vibid:1001000190439": 2,
+      "gas:candidate-vibid:377300370842": 4,
+      "special:against-all": 32
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=773003001&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=377300370619&region=0&sub_region=0&type=429",
@@ -1260,15 +1260,15 @@ export const duma_2003_uik_428_region_77_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Басанец Павел Павлович": 28,
-      "Бегишвили Тенгиз Михайлович": 0,
-      "Берновский Михаил Юрьевич": 6,
-      "Гребенников Валерий Васильевич": 27,
-      "Дьяков Игорь Викторович": 6,
-      "Жукова Галина Алексеевна": 20,
-      "Каландаров Камилжан Хамутович": 1,
-      "Прохоров Дмитрий Юрьевич": 9,
-      "Против всех": 69
+      "gas:candidate-vibid:1001000121933": 28,
+      "gas:candidate-vibid:1001000195163": 0,
+      "gas:candidate-vibid:377300371003": 6,
+      "gas:candidate-vibid:1001000226006": 27,
+      "gas:candidate-vibid:1001000136148": 6,
+      "gas:candidate-vibid:377300370839": 20,
+      "gas:candidate-vibid:1001000190439": 1,
+      "gas:candidate-vibid:377300370842": 9,
+      "special:against-all": 69
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=773003001&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=377300370619&region=0&sub_region=0&type=429",
@@ -1318,15 +1318,15 @@ export const duma_2003_uik_428_region_77_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Басанец Павел Павлович": 117,
-      "Бегишвили Тенгиз Михайлович": 3,
-      "Берновский Михаил Юрьевич": 44,
-      "Гребенников Валерий Васильевич": 142,
-      "Дьяков Игорь Викторович": 36,
-      "Жукова Галина Алексеевна": 151,
-      "Каландаров Камилжан Хамутович": 28,
-      "Прохоров Дмитрий Юрьевич": 49,
-      "Против всех": 251
+      "gas:candidate-vibid:1001000121933": 117,
+      "gas:candidate-vibid:1001000195163": 3,
+      "gas:candidate-vibid:377300371003": 44,
+      "gas:candidate-vibid:1001000226006": 142,
+      "gas:candidate-vibid:1001000136148": 36,
+      "gas:candidate-vibid:377300370839": 151,
+      "gas:candidate-vibid:1001000190439": 28,
+      "gas:candidate-vibid:377300370842": 49,
+      "special:against-all": 251
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=773003001&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=377300370619&region=0&sub_region=0&type=429",
@@ -1376,15 +1376,15 @@ export const duma_2003_uik_428_region_77_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Басанец Павел Павлович": 32,
-      "Бегишвили Тенгиз Михайлович": 3,
-      "Берновский Михаил Юрьевич": 12,
-      "Гребенников Валерий Васильевич": 39,
-      "Дьяков Игорь Викторович": 8,
-      "Жукова Галина Алексеевна": 25,
-      "Каландаров Камилжан Хамутович": 4,
-      "Прохоров Дмитрий Юрьевич": 14,
-      "Против всех": 75
+      "gas:candidate-vibid:1001000121933": 32,
+      "gas:candidate-vibid:1001000195163": 3,
+      "gas:candidate-vibid:377300371003": 12,
+      "gas:candidate-vibid:1001000226006": 39,
+      "gas:candidate-vibid:1001000136148": 8,
+      "gas:candidate-vibid:377300370839": 25,
+      "gas:candidate-vibid:1001000190439": 4,
+      "gas:candidate-vibid:377300370842": 14,
+      "special:against-all": 75
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=773003001&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=377300370619&region=0&sub_region=0&type=429",
@@ -1434,15 +1434,15 @@ export const duma_2003_uik_428_region_77_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Басанец Павел Павлович": 7,
-      "Бегишвили Тенгиз Михайлович": 0,
-      "Берновский Михаил Юрьевич": 4,
-      "Гребенников Валерий Васильевич": 10,
-      "Дьяков Игорь Викторович": 1,
-      "Жукова Галина Алексеевна": 11,
-      "Каландаров Камилжан Хамутович": 1,
-      "Прохоров Дмитрий Юрьевич": 4,
-      "Против всех": 13
+      "gas:candidate-vibid:1001000121933": 7,
+      "gas:candidate-vibid:1001000195163": 0,
+      "gas:candidate-vibid:377300371003": 4,
+      "gas:candidate-vibid:1001000226006": 10,
+      "gas:candidate-vibid:1001000136148": 1,
+      "gas:candidate-vibid:377300370839": 11,
+      "gas:candidate-vibid:1001000190439": 1,
+      "gas:candidate-vibid:377300370842": 4,
+      "special:against-all": 13
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=773003001&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=377300370619&region=0&sub_region=0&type=429",
@@ -1492,15 +1492,15 @@ export const duma_2003_uik_428_region_77_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Басанец Павел Павлович": 8,
-      "Бегишвили Тенгиз Михайлович": 1,
-      "Берновский Михаил Юрьевич": 2,
-      "Гребенников Валерий Васильевич": 18,
-      "Дьяков Игорь Викторович": 2,
-      "Жукова Галина Алексеевна": 11,
-      "Каландаров Камилжан Хамутович": 1,
-      "Прохоров Дмитрий Юрьевич": 4,
-      "Против всех": 21
+      "gas:candidate-vibid:1001000121933": 8,
+      "gas:candidate-vibid:1001000195163": 1,
+      "gas:candidate-vibid:377300371003": 2,
+      "gas:candidate-vibid:1001000226006": 18,
+      "gas:candidate-vibid:1001000136148": 2,
+      "gas:candidate-vibid:377300370839": 11,
+      "gas:candidate-vibid:1001000190439": 1,
+      "gas:candidate-vibid:377300370842": 4,
+      "special:against-all": 21
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=773003001&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=377300370619&region=0&sub_region=0&type=429",
@@ -1550,15 +1550,15 @@ export const duma_2003_uik_428_region_77_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Басанец Павел Павлович": 52,
-      "Бегишвили Тенгиз Михайлович": 13,
-      "Берновский Михаил Юрьевич": 25,
-      "Гребенников Валерий Васильевич": 309,
-      "Дьяков Игорь Викторович": 22,
-      "Жукова Галина Алексеевна": 81,
-      "Каландаров Камилжан Хамутович": 10,
-      "Прохоров Дмитрий Юрьевич": 70,
-      "Против всех": 233
+      "gas:candidate-vibid:1001000121933": 52,
+      "gas:candidate-vibid:1001000195163": 13,
+      "gas:candidate-vibid:377300371003": 25,
+      "gas:candidate-vibid:1001000226006": 309,
+      "gas:candidate-vibid:1001000136148": 22,
+      "gas:candidate-vibid:377300370839": 81,
+      "gas:candidate-vibid:1001000190439": 10,
+      "gas:candidate-vibid:377300370842": 70,
+      "special:against-all": 233
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=773003002&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=377300370620&region=0&sub_region=0&type=429",
@@ -1608,15 +1608,15 @@ export const duma_2003_uik_428_region_77_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Басанец Павел Павлович": 146,
-      "Бегишвили Тенгиз Михайлович": 16,
-      "Берновский Михаил Юрьевич": 55,
-      "Гребенников Валерий Васильевич": 362,
-      "Дьяков Игорь Викторович": 53,
-      "Жукова Галина Алексеевна": 165,
-      "Каландаров Камилжан Хамутович": 41,
-      "Прохоров Дмитрий Юрьевич": 121,
-      "Против всех": 392
+      "gas:candidate-vibid:1001000121933": 146,
+      "gas:candidate-vibid:1001000195163": 16,
+      "gas:candidate-vibid:377300371003": 55,
+      "gas:candidate-vibid:1001000226006": 362,
+      "gas:candidate-vibid:1001000136148": 53,
+      "gas:candidate-vibid:377300370839": 165,
+      "gas:candidate-vibid:1001000190439": 41,
+      "gas:candidate-vibid:377300370842": 121,
+      "special:against-all": 392
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=773003002&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=377300370620&region=0&sub_region=0&type=429",
@@ -1666,15 +1666,15 @@ export const duma_2003_uik_428_region_77_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Басанец Павел Павлович": 105,
-      "Бегишвили Тенгиз Михайлович": 12,
-      "Берновский Михаил Юрьевич": 40,
-      "Гребенников Валерий Васильевич": 274,
-      "Дьяков Игорь Викторович": 46,
-      "Жукова Галина Алексеевна": 134,
-      "Каландаров Камилжан Хамутович": 24,
-      "Прохоров Дмитрий Юрьевич": 95,
-      "Против всех": 306
+      "gas:candidate-vibid:1001000121933": 105,
+      "gas:candidate-vibid:1001000195163": 12,
+      "gas:candidate-vibid:377300371003": 40,
+      "gas:candidate-vibid:1001000226006": 274,
+      "gas:candidate-vibid:1001000136148": 46,
+      "gas:candidate-vibid:377300370839": 134,
+      "gas:candidate-vibid:1001000190439": 24,
+      "gas:candidate-vibid:377300370842": 95,
+      "special:against-all": 306
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=773003002&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=377300370620&region=0&sub_region=0&type=429",
@@ -1724,15 +1724,15 @@ export const duma_2003_uik_428_region_77_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Басанец Павел Павлович": 70,
-      "Бегишвили Тенгиз Михайлович": 8,
-      "Берновский Михаил Юрьевич": 27,
-      "Гребенников Валерий Васильевич": 299,
-      "Дьяков Игорь Викторович": 33,
-      "Жукова Галина Алексеевна": 108,
-      "Каландаров Камилжан Хамутович": 15,
-      "Прохоров Дмитрий Юрьевич": 70,
-      "Против всех": 283
+      "gas:candidate-vibid:1001000121933": 70,
+      "gas:candidate-vibid:1001000195163": 8,
+      "gas:candidate-vibid:377300371003": 27,
+      "gas:candidate-vibid:1001000226006": 299,
+      "gas:candidate-vibid:1001000136148": 33,
+      "gas:candidate-vibid:377300370839": 108,
+      "gas:candidate-vibid:1001000190439": 15,
+      "gas:candidate-vibid:377300370842": 70,
+      "special:against-all": 283
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=773003002&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=377300370620&region=0&sub_region=0&type=429",
@@ -1782,15 +1782,15 @@ export const duma_2003_uik_428_region_77_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Басанец Павел Павлович": 95,
-      "Бегишвили Тенгиз Михайлович": 9,
-      "Берновский Михаил Юрьевич": 30,
-      "Гребенников Валерий Васильевич": 356,
-      "Дьяков Игорь Викторович": 33,
-      "Жукова Галина Алексеевна": 113,
-      "Каландаров Камилжан Хамутович": 15,
-      "Прохоров Дмитрий Юрьевич": 86,
-      "Против всех": 293
+      "gas:candidate-vibid:1001000121933": 95,
+      "gas:candidate-vibid:1001000195163": 9,
+      "gas:candidate-vibid:377300371003": 30,
+      "gas:candidate-vibid:1001000226006": 356,
+      "gas:candidate-vibid:1001000136148": 33,
+      "gas:candidate-vibid:377300370839": 113,
+      "gas:candidate-vibid:1001000190439": 15,
+      "gas:candidate-vibid:377300370842": 86,
+      "special:against-all": 293
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=773003002&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=377300370620&region=0&sub_region=0&type=429",
@@ -1840,15 +1840,15 @@ export const duma_2003_uik_428_region_77_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Басанец Павел Павлович": 83,
-      "Бегишвили Тенгиз Михайлович": 16,
-      "Берновский Михаил Юрьевич": 46,
-      "Гребенников Валерий Васильевич": 310,
-      "Дьяков Игорь Викторович": 48,
-      "Жукова Галина Алексеевна": 136,
-      "Каландаров Камилжан Хамутович": 21,
-      "Прохоров Дмитрий Юрьевич": 121,
-      "Против всех": 297
+      "gas:candidate-vibid:1001000121933": 83,
+      "gas:candidate-vibid:1001000195163": 16,
+      "gas:candidate-vibid:377300371003": 46,
+      "gas:candidate-vibid:1001000226006": 310,
+      "gas:candidate-vibid:1001000136148": 48,
+      "gas:candidate-vibid:377300370839": 136,
+      "gas:candidate-vibid:1001000190439": 21,
+      "gas:candidate-vibid:377300370842": 121,
+      "special:against-all": 297
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=773003002&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=377300370620&region=0&sub_region=0&type=429",
@@ -1898,15 +1898,15 @@ export const duma_2003_uik_428_region_77_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Басанец Павел Павлович": 106,
-      "Бегишвили Тенгиз Михайлович": 9,
-      "Берновский Михаил Юрьевич": 52,
-      "Гребенников Валерий Васильевич": 474,
-      "Дьяков Игорь Викторович": 43,
-      "Жукова Галина Алексеевна": 164,
-      "Каландаров Камилжан Хамутович": 27,
-      "Прохоров Дмитрий Юрьевич": 121,
-      "Против всех": 432
+      "gas:candidate-vibid:1001000121933": 106,
+      "gas:candidate-vibid:1001000195163": 9,
+      "gas:candidate-vibid:377300371003": 52,
+      "gas:candidate-vibid:1001000226006": 474,
+      "gas:candidate-vibid:1001000136148": 43,
+      "gas:candidate-vibid:377300370839": 164,
+      "gas:candidate-vibid:1001000190439": 27,
+      "gas:candidate-vibid:377300370842": 121,
+      "special:against-all": 432
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=773003002&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=377300370620&region=0&sub_region=0&type=429",
@@ -1956,15 +1956,15 @@ export const duma_2003_uik_428_region_77_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Басанец Павел Павлович": 188,
-      "Бегишвили Тенгиз Михайлович": 30,
-      "Берновский Михаил Юрьевич": 42,
-      "Гребенников Валерий Васильевич": 348,
-      "Дьяков Игорь Викторович": 38,
-      "Жукова Галина Алексеевна": 140,
-      "Каландаров Камилжан Хамутович": 37,
-      "Прохоров Дмитрий Юрьевич": 142,
-      "Против всех": 375
+      "gas:candidate-vibid:1001000121933": 188,
+      "gas:candidate-vibid:1001000195163": 30,
+      "gas:candidate-vibid:377300371003": 42,
+      "gas:candidate-vibid:1001000226006": 348,
+      "gas:candidate-vibid:1001000136148": 38,
+      "gas:candidate-vibid:377300370839": 140,
+      "gas:candidate-vibid:1001000190439": 37,
+      "gas:candidate-vibid:377300370842": 142,
+      "special:against-all": 375
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=773003002&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=377300370620&region=0&sub_region=0&type=429",
@@ -2014,15 +2014,15 @@ export const duma_2003_uik_428_region_77_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Басанец Павел Павлович": 136,
-      "Бегишвили Тенгиз Михайлович": 11,
-      "Берновский Михаил Юрьевич": 39,
-      "Гребенников Валерий Васильевич": 434,
-      "Дьяков Игорь Викторович": 29,
-      "Жукова Галина Алексеевна": 151,
-      "Каландаров Камилжан Хамутович": 12,
-      "Прохоров Дмитрий Юрьевич": 80,
-      "Против всех": 293
+      "gas:candidate-vibid:1001000121933": 136,
+      "gas:candidate-vibid:1001000195163": 11,
+      "gas:candidate-vibid:377300371003": 39,
+      "gas:candidate-vibid:1001000226006": 434,
+      "gas:candidate-vibid:1001000136148": 29,
+      "gas:candidate-vibid:377300370839": 151,
+      "gas:candidate-vibid:1001000190439": 12,
+      "gas:candidate-vibid:377300370842": 80,
+      "special:against-all": 293
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=773003002&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=377300370620&region=0&sub_region=0&type=429",
@@ -2072,15 +2072,15 @@ export const duma_2003_uik_428_region_77_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Басанец Павел Павлович": 151,
-      "Бегишвили Тенгиз Михайлович": 10,
-      "Берновский Михаил Юрьевич": 35,
-      "Гребенников Валерий Васильевич": 435,
-      "Дьяков Игорь Викторович": 28,
-      "Жукова Галина Алексеевна": 161,
-      "Каландаров Камилжан Хамутович": 24,
-      "Прохоров Дмитрий Юрьевич": 107,
-      "Против всех": 306
+      "gas:candidate-vibid:1001000121933": 151,
+      "gas:candidate-vibid:1001000195163": 10,
+      "gas:candidate-vibid:377300371003": 35,
+      "gas:candidate-vibid:1001000226006": 435,
+      "gas:candidate-vibid:1001000136148": 28,
+      "gas:candidate-vibid:377300370839": 161,
+      "gas:candidate-vibid:1001000190439": 24,
+      "gas:candidate-vibid:377300370842": 107,
+      "special:against-all": 306
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=773003002&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=377300370620&region=0&sub_region=0&type=429",
@@ -2130,15 +2130,15 @@ export const duma_2003_uik_428_region_77_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Басанец Павел Павлович": 162,
-      "Бегишвили Тенгиз Михайлович": 12,
-      "Берновский Михаил Юрьевич": 50,
-      "Гребенников Валерий Васильевич": 481,
-      "Дьяков Игорь Викторович": 41,
-      "Жукова Галина Алексеевна": 192,
-      "Каландаров Камилжан Хамутович": 35,
-      "Прохоров Дмитрий Юрьевич": 106,
-      "Против всех": 398
+      "gas:candidate-vibid:1001000121933": 162,
+      "gas:candidate-vibid:1001000195163": 12,
+      "gas:candidate-vibid:377300371003": 50,
+      "gas:candidate-vibid:1001000226006": 481,
+      "gas:candidate-vibid:1001000136148": 41,
+      "gas:candidate-vibid:377300370839": 192,
+      "gas:candidate-vibid:1001000190439": 35,
+      "gas:candidate-vibid:377300370842": 106,
+      "special:against-all": 398
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=773003002&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=377300370620&region=0&sub_region=0&type=429",
@@ -2188,15 +2188,15 @@ export const duma_2003_uik_428_region_77_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Басанец Павел Павлович": 152,
-      "Бегишвили Тенгиз Михайлович": 10,
-      "Берновский Михаил Юрьевич": 53,
-      "Гребенников Валерий Васильевич": 454,
-      "Дьяков Игорь Викторович": 60,
-      "Жукова Галина Алексеевна": 168,
-      "Каландаров Камилжан Хамутович": 33,
-      "Прохоров Дмитрий Юрьевич": 156,
-      "Против всех": 413
+      "gas:candidate-vibid:1001000121933": 152,
+      "gas:candidate-vibid:1001000195163": 10,
+      "gas:candidate-vibid:377300371003": 53,
+      "gas:candidate-vibid:1001000226006": 454,
+      "gas:candidate-vibid:1001000136148": 60,
+      "gas:candidate-vibid:377300370839": 168,
+      "gas:candidate-vibid:1001000190439": 33,
+      "gas:candidate-vibid:377300370842": 156,
+      "special:against-all": 413
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=773003002&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=377300370620&region=0&sub_region=0&type=429",
@@ -2246,15 +2246,15 @@ export const duma_2003_uik_428_region_77_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Басанец Павел Павлович": 104,
-      "Бегишвили Тенгиз Михайлович": 8,
-      "Берновский Михаил Юрьевич": 36,
-      "Гребенников Валерий Васильевич": 396,
-      "Дьяков Игорь Викторович": 40,
-      "Жукова Галина Алексеевна": 156,
-      "Каландаров Камилжан Хамутович": 25,
-      "Прохоров Дмитрий Юрьевич": 104,
-      "Против всех": 330
+      "gas:candidate-vibid:1001000121933": 104,
+      "gas:candidate-vibid:1001000195163": 8,
+      "gas:candidate-vibid:377300371003": 36,
+      "gas:candidate-vibid:1001000226006": 396,
+      "gas:candidate-vibid:1001000136148": 40,
+      "gas:candidate-vibid:377300370839": 156,
+      "gas:candidate-vibid:1001000190439": 25,
+      "gas:candidate-vibid:377300370842": 104,
+      "special:against-all": 330
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=773003002&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=377300370620&region=0&sub_region=0&type=429",
@@ -2304,15 +2304,15 @@ export const duma_2003_uik_428_region_77_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Басанец Павел Павлович": 262,
-      "Бегишвили Тенгиз Михайлович": 7,
-      "Берновский Михаил Юрьевич": 39,
-      "Гребенников Валерий Васильевич": 310,
-      "Дьяков Игорь Викторович": 35,
-      "Жукова Галина Алексеевна": 139,
-      "Каландаров Камилжан Хамутович": 22,
-      "Прохоров Дмитрий Юрьевич": 125,
-      "Против всех": 287
+      "gas:candidate-vibid:1001000121933": 262,
+      "gas:candidate-vibid:1001000195163": 7,
+      "gas:candidate-vibid:377300371003": 39,
+      "gas:candidate-vibid:1001000226006": 310,
+      "gas:candidate-vibid:1001000136148": 35,
+      "gas:candidate-vibid:377300370839": 139,
+      "gas:candidate-vibid:1001000190439": 22,
+      "gas:candidate-vibid:377300370842": 125,
+      "special:against-all": 287
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=773003002&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=377300370620&region=0&sub_region=0&type=429",
@@ -2362,15 +2362,15 @@ export const duma_2003_uik_428_region_77_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Басанец Павел Павлович": 161,
-      "Бегишвили Тенгиз Михайлович": 6,
-      "Берновский Михаил Юрьевич": 20,
-      "Гребенников Валерий Васильевич": 193,
-      "Дьяков Игорь Викторович": 23,
-      "Жукова Галина Алексеевна": 95,
-      "Каландаров Камилжан Хамутович": 15,
-      "Прохоров Дмитрий Юрьевич": 67,
-      "Против всех": 213
+      "gas:candidate-vibid:1001000121933": 161,
+      "gas:candidate-vibid:1001000195163": 6,
+      "gas:candidate-vibid:377300371003": 20,
+      "gas:candidate-vibid:1001000226006": 193,
+      "gas:candidate-vibid:1001000136148": 23,
+      "gas:candidate-vibid:377300370839": 95,
+      "gas:candidate-vibid:1001000190439": 15,
+      "gas:candidate-vibid:377300370842": 67,
+      "special:against-all": 213
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=773003002&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=377300370620&region=0&sub_region=0&type=429",
@@ -2420,15 +2420,15 @@ export const duma_2003_uik_428_region_77_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Басанец Павел Павлович": 193,
-      "Бегишвили Тенгиз Михайлович": 5,
-      "Берновский Михаил Юрьевич": 35,
-      "Гребенников Валерий Васильевич": 262,
-      "Дьяков Игорь Викторович": 42,
-      "Жукова Галина Алексеевна": 116,
-      "Каландаров Камилжан Хамутович": 23,
-      "Прохоров Дмитрий Юрьевич": 183,
-      "Против всех": 288
+      "gas:candidate-vibid:1001000121933": 193,
+      "gas:candidate-vibid:1001000195163": 5,
+      "gas:candidate-vibid:377300371003": 35,
+      "gas:candidate-vibid:1001000226006": 262,
+      "gas:candidate-vibid:1001000136148": 42,
+      "gas:candidate-vibid:377300370839": 116,
+      "gas:candidate-vibid:1001000190439": 23,
+      "gas:candidate-vibid:377300370842": 183,
+      "special:against-all": 288
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=773003002&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=377300370620&region=0&sub_region=0&type=429",
@@ -2478,15 +2478,15 @@ export const duma_2003_uik_428_region_77_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Басанец Павел Павлович": 187,
-      "Бегишвили Тенгиз Михайлович": 18,
-      "Берновский Михаил Юрьевич": 43,
-      "Гребенников Валерий Васильевич": 370,
-      "Дьяков Игорь Викторович": 40,
-      "Жукова Галина Алексеевна": 162,
-      "Каландаров Камилжан Хамутович": 29,
-      "Прохоров Дмитрий Юрьевич": 95,
-      "Против всех": 328
+      "gas:candidate-vibid:1001000121933": 187,
+      "gas:candidate-vibid:1001000195163": 18,
+      "gas:candidate-vibid:377300371003": 43,
+      "gas:candidate-vibid:1001000226006": 370,
+      "gas:candidate-vibid:1001000136148": 40,
+      "gas:candidate-vibid:377300370839": 162,
+      "gas:candidate-vibid:1001000190439": 29,
+      "gas:candidate-vibid:377300370842": 95,
+      "special:against-all": 328
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=773003002&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=377300370620&region=0&sub_region=0&type=429",
@@ -2536,15 +2536,15 @@ export const duma_2003_uik_428_region_77_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Басанец Павел Павлович": 204,
-      "Бегишвили Тенгиз Михайлович": 11,
-      "Берновский Михаил Юрьевич": 40,
-      "Гребенников Валерий Васильевич": 387,
-      "Дьяков Игорь Викторович": 51,
-      "Жукова Галина Алексеевна": 189,
-      "Каландаров Камилжан Хамутович": 32,
-      "Прохоров Дмитрий Юрьевич": 96,
-      "Против всех": 451
+      "gas:candidate-vibid:1001000121933": 204,
+      "gas:candidate-vibid:1001000195163": 11,
+      "gas:candidate-vibid:377300371003": 40,
+      "gas:candidate-vibid:1001000226006": 387,
+      "gas:candidate-vibid:1001000136148": 51,
+      "gas:candidate-vibid:377300370839": 189,
+      "gas:candidate-vibid:1001000190439": 32,
+      "gas:candidate-vibid:377300370842": 96,
+      "special:against-all": 451
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=773003002&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=377300370620&region=0&sub_region=0&type=429",
@@ -2594,15 +2594,15 @@ export const duma_2003_uik_428_region_77_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Басанец Павел Павлович": 190,
-      "Бегишвили Тенгиз Михайлович": 9,
-      "Берновский Михаил Юрьевич": 52,
-      "Гребенников Валерий Васильевич": 315,
-      "Дьяков Игорь Викторович": 37,
-      "Жукова Галина Алексеевна": 134,
-      "Каландаров Камилжан Хамутович": 24,
-      "Прохоров Дмитрий Юрьевич": 82,
-      "Против всех": 348
+      "gas:candidate-vibid:1001000121933": 190,
+      "gas:candidate-vibid:1001000195163": 9,
+      "gas:candidate-vibid:377300371003": 52,
+      "gas:candidate-vibid:1001000226006": 315,
+      "gas:candidate-vibid:1001000136148": 37,
+      "gas:candidate-vibid:377300370839": 134,
+      "gas:candidate-vibid:1001000190439": 24,
+      "gas:candidate-vibid:377300370842": 82,
+      "special:against-all": 348
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=773003002&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=377300370620&region=0&sub_region=0&type=429",
@@ -2652,15 +2652,15 @@ export const duma_2003_uik_428_region_77_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Басанец Павел Павлович": 216,
-      "Бегишвили Тенгиз Михайлович": 13,
-      "Берновский Михаил Юрьевич": 44,
-      "Гребенников Валерий Васильевич": 342,
-      "Дьяков Игорь Викторович": 35,
-      "Жукова Галина Алексеевна": 174,
-      "Каландаров Камилжан Хамутович": 37,
-      "Прохоров Дмитрий Юрьевич": 94,
-      "Против всех": 335
+      "gas:candidate-vibid:1001000121933": 216,
+      "gas:candidate-vibid:1001000195163": 13,
+      "gas:candidate-vibid:377300371003": 44,
+      "gas:candidate-vibid:1001000226006": 342,
+      "gas:candidate-vibid:1001000136148": 35,
+      "gas:candidate-vibid:377300370839": 174,
+      "gas:candidate-vibid:1001000190439": 37,
+      "gas:candidate-vibid:377300370842": 94,
+      "special:against-all": 335
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=773003002&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=377300370620&region=0&sub_region=0&type=429",
@@ -2710,15 +2710,15 @@ export const duma_2003_uik_428_region_77_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Басанец Павел Павлович": 72,
-      "Бегишвили Тенгиз Михайлович": 4,
-      "Берновский Михаил Юрьевич": 28,
-      "Гребенников Валерий Васильевич": 467,
-      "Дьяков Игорь Викторович": 43,
-      "Жукова Галина Алексеевна": 142,
-      "Каландаров Камилжан Хамутович": 10,
-      "Прохоров Дмитрий Юрьевич": 94,
-      "Против всех": 300
+      "gas:candidate-vibid:1001000121933": 72,
+      "gas:candidate-vibid:1001000195163": 4,
+      "gas:candidate-vibid:377300371003": 28,
+      "gas:candidate-vibid:1001000226006": 467,
+      "gas:candidate-vibid:1001000136148": 43,
+      "gas:candidate-vibid:377300370839": 142,
+      "gas:candidate-vibid:1001000190439": 10,
+      "gas:candidate-vibid:377300370842": 94,
+      "special:against-all": 300
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=773003003&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=377300370621&region=0&sub_region=0&type=429",
@@ -2768,15 +2768,15 @@ export const duma_2003_uik_428_region_77_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Басанец Павел Павлович": 64,
-      "Бегишвили Тенгиз Михайлович": 0,
-      "Берновский Михаил Юрьевич": 26,
-      "Гребенников Валерий Васильевич": 363,
-      "Дьяков Игорь Викторович": 36,
-      "Жукова Галина Алексеевна": 144,
-      "Каландаров Камилжан Хамутович": 10,
-      "Прохоров Дмитрий Юрьевич": 125,
-      "Против всех": 286
+      "gas:candidate-vibid:1001000121933": 64,
+      "gas:candidate-vibid:1001000195163": 0,
+      "gas:candidate-vibid:377300371003": 26,
+      "gas:candidate-vibid:1001000226006": 363,
+      "gas:candidate-vibid:1001000136148": 36,
+      "gas:candidate-vibid:377300370839": 144,
+      "gas:candidate-vibid:1001000190439": 10,
+      "gas:candidate-vibid:377300370842": 125,
+      "special:against-all": 286
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=773003003&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=377300370621&region=0&sub_region=0&type=429",
@@ -2826,15 +2826,15 @@ export const duma_2003_uik_428_region_77_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Басанец Павел Павлович": 161,
-      "Бегишвили Тенгиз Михайлович": 15,
-      "Берновский Михаил Юрьевич": 49,
-      "Гребенников Валерий Васильевич": 504,
-      "Дьяков Игорь Викторович": 68,
-      "Жукова Галина Алексеевна": 214,
-      "Каландаров Камилжан Хамутович": 25,
-      "Прохоров Дмитрий Юрьевич": 150,
-      "Против всех": 410
+      "gas:candidate-vibid:1001000121933": 161,
+      "gas:candidate-vibid:1001000195163": 15,
+      "gas:candidate-vibid:377300371003": 49,
+      "gas:candidate-vibid:1001000226006": 504,
+      "gas:candidate-vibid:1001000136148": 68,
+      "gas:candidate-vibid:377300370839": 214,
+      "gas:candidate-vibid:1001000190439": 25,
+      "gas:candidate-vibid:377300370842": 150,
+      "special:against-all": 410
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=773003003&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=377300370621&region=0&sub_region=0&type=429",
@@ -2884,15 +2884,15 @@ export const duma_2003_uik_428_region_77_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Басанец Павел Павлович": 74,
-      "Бегишвили Тенгиз Михайлович": 3,
-      "Берновский Михаил Юрьевич": 32,
-      "Гребенников Валерий Васильевич": 267,
-      "Дьяков Игорь Викторович": 35,
-      "Жукова Галина Алексеевна": 89,
-      "Каландаров Камилжан Хамутович": 11,
-      "Прохоров Дмитрий Юрьевич": 72,
-      "Против всех": 164
+      "gas:candidate-vibid:1001000121933": 74,
+      "gas:candidate-vibid:1001000195163": 3,
+      "gas:candidate-vibid:377300371003": 32,
+      "gas:candidate-vibid:1001000226006": 267,
+      "gas:candidate-vibid:1001000136148": 35,
+      "gas:candidate-vibid:377300370839": 89,
+      "gas:candidate-vibid:1001000190439": 11,
+      "gas:candidate-vibid:377300370842": 72,
+      "special:against-all": 164
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=773003003&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=377300370621&region=0&sub_region=0&type=429",
@@ -2942,15 +2942,15 @@ export const duma_2003_uik_428_region_77_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Басанец Павел Павлович": 77,
-      "Бегишвили Тенгиз Михайлович": 3,
-      "Берновский Михаил Юрьевич": 30,
-      "Гребенников Валерий Васильевич": 370,
-      "Дьяков Игорь Викторович": 52,
-      "Жукова Галина Алексеевна": 117,
-      "Каландаров Камилжан Хамутович": 21,
-      "Прохоров Дмитрий Юрьевич": 91,
-      "Против всех": 250
+      "gas:candidate-vibid:1001000121933": 77,
+      "gas:candidate-vibid:1001000195163": 3,
+      "gas:candidate-vibid:377300371003": 30,
+      "gas:candidate-vibid:1001000226006": 370,
+      "gas:candidate-vibid:1001000136148": 52,
+      "gas:candidate-vibid:377300370839": 117,
+      "gas:candidate-vibid:1001000190439": 21,
+      "gas:candidate-vibid:377300370842": 91,
+      "special:against-all": 250
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=773003003&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=377300370621&region=0&sub_region=0&type=429",
@@ -3000,15 +3000,15 @@ export const duma_2003_uik_428_region_77_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Басанец Павел Павлович": 103,
-      "Бегишвили Тенгиз Михайлович": 7,
-      "Берновский Михаил Юрьевич": 37,
-      "Гребенников Валерий Васильевич": 498,
-      "Дьяков Игорь Викторович": 47,
-      "Жукова Галина Алексеевна": 167,
-      "Каландаров Камилжан Хамутович": 16,
-      "Прохоров Дмитрий Юрьевич": 116,
-      "Против всех": 358
+      "gas:candidate-vibid:1001000121933": 103,
+      "gas:candidate-vibid:1001000195163": 7,
+      "gas:candidate-vibid:377300371003": 37,
+      "gas:candidate-vibid:1001000226006": 498,
+      "gas:candidate-vibid:1001000136148": 47,
+      "gas:candidate-vibid:377300370839": 167,
+      "gas:candidate-vibid:1001000190439": 16,
+      "gas:candidate-vibid:377300370842": 116,
+      "special:against-all": 358
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=773003003&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=377300370621&region=0&sub_region=0&type=429",
@@ -3058,15 +3058,15 @@ export const duma_2003_uik_428_region_77_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Басанец Павел Павлович": 146,
-      "Бегишвили Тенгиз Михайлович": 5,
-      "Берновский Михаил Юрьевич": 42,
-      "Гребенников Валерий Васильевич": 460,
-      "Дьяков Игорь Викторович": 48,
-      "Жукова Галина Алексеевна": 215,
-      "Каландаров Камилжан Хамутович": 19,
-      "Прохоров Дмитрий Юрьевич": 156,
-      "Против всех": 388
+      "gas:candidate-vibid:1001000121933": 146,
+      "gas:candidate-vibid:1001000195163": 5,
+      "gas:candidate-vibid:377300371003": 42,
+      "gas:candidate-vibid:1001000226006": 460,
+      "gas:candidate-vibid:1001000136148": 48,
+      "gas:candidate-vibid:377300370839": 215,
+      "gas:candidate-vibid:1001000190439": 19,
+      "gas:candidate-vibid:377300370842": 156,
+      "special:against-all": 388
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=773003003&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=377300370621&region=0&sub_region=0&type=429",
@@ -3116,15 +3116,15 @@ export const duma_2003_uik_428_region_77_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Басанец Павел Павлович": 122,
-      "Бегишвили Тенгиз Михайлович": 7,
-      "Берновский Михаил Юрьевич": 41,
-      "Гребенников Валерий Васильевич": 482,
-      "Дьяков Игорь Викторович": 34,
-      "Жукова Галина Алексеевна": 204,
-      "Каландаров Камилжан Хамутович": 30,
-      "Прохоров Дмитрий Юрьевич": 121,
-      "Против всех": 413
+      "gas:candidate-vibid:1001000121933": 122,
+      "gas:candidate-vibid:1001000195163": 7,
+      "gas:candidate-vibid:377300371003": 41,
+      "gas:candidate-vibid:1001000226006": 482,
+      "gas:candidate-vibid:1001000136148": 34,
+      "gas:candidate-vibid:377300370839": 204,
+      "gas:candidate-vibid:1001000190439": 30,
+      "gas:candidate-vibid:377300370842": 121,
+      "special:against-all": 413
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=773003003&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=377300370621&region=0&sub_region=0&type=429",
@@ -3174,15 +3174,15 @@ export const duma_2003_uik_428_region_77_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Басанец Павел Павлович": 127,
-      "Бегишвили Тенгиз Михайлович": 9,
-      "Берновский Михаил Юрьевич": 59,
-      "Гребенников Валерий Васильевич": 413,
-      "Дьяков Игорь Викторович": 44,
-      "Жукова Галина Алексеевна": 164,
-      "Каландаров Камилжан Хамутович": 21,
-      "Прохоров Дмитрий Юрьевич": 147,
-      "Против всех": 405
+      "gas:candidate-vibid:1001000121933": 127,
+      "gas:candidate-vibid:1001000195163": 9,
+      "gas:candidate-vibid:377300371003": 59,
+      "gas:candidate-vibid:1001000226006": 413,
+      "gas:candidate-vibid:1001000136148": 44,
+      "gas:candidate-vibid:377300370839": 164,
+      "gas:candidate-vibid:1001000190439": 21,
+      "gas:candidate-vibid:377300370842": 147,
+      "special:against-all": 405
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=773003003&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=377300370621&region=0&sub_region=0&type=429",
@@ -3232,15 +3232,15 @@ export const duma_2003_uik_428_region_77_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Басанец Павел Павлович": 133,
-      "Бегишвили Тенгиз Михайлович": 9,
-      "Берновский Михаил Юрьевич": 48,
-      "Гребенников Валерий Васильевич": 471,
-      "Дьяков Игорь Викторович": 46,
-      "Жукова Галина Алексеевна": 241,
-      "Каландаров Камилжан Хамутович": 22,
-      "Прохоров Дмитрий Юрьевич": 108,
-      "Против всех": 384
+      "gas:candidate-vibid:1001000121933": 133,
+      "gas:candidate-vibid:1001000195163": 9,
+      "gas:candidate-vibid:377300371003": 48,
+      "gas:candidate-vibid:1001000226006": 471,
+      "gas:candidate-vibid:1001000136148": 46,
+      "gas:candidate-vibid:377300370839": 241,
+      "gas:candidate-vibid:1001000190439": 22,
+      "gas:candidate-vibid:377300370842": 108,
+      "special:against-all": 384
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=773003003&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=377300370621&region=0&sub_region=0&type=429",
@@ -3290,15 +3290,15 @@ export const duma_2003_uik_428_region_77_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Басанец Павел Павлович": 126,
-      "Бегишвили Тенгиз Михайлович": 9,
-      "Берновский Михаил Юрьевич": 43,
-      "Гребенников Валерий Васильевич": 468,
-      "Дьяков Игорь Викторович": 59,
-      "Жукова Галина Алексеевна": 296,
-      "Каландаров Камилжан Хамутович": 27,
-      "Прохоров Дмитрий Юрьевич": 94,
-      "Против всех": 408
+      "gas:candidate-vibid:1001000121933": 126,
+      "gas:candidate-vibid:1001000195163": 9,
+      "gas:candidate-vibid:377300371003": 43,
+      "gas:candidate-vibid:1001000226006": 468,
+      "gas:candidate-vibid:1001000136148": 59,
+      "gas:candidate-vibid:377300370839": 296,
+      "gas:candidate-vibid:1001000190439": 27,
+      "gas:candidate-vibid:377300370842": 94,
+      "special:against-all": 408
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=773003003&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=377300370621&region=0&sub_region=0&type=429",
@@ -3348,15 +3348,15 @@ export const duma_2003_uik_428_region_77_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Басанец Павел Павлович": 134,
-      "Бегишвили Тенгиз Михайлович": 8,
-      "Берновский Михаил Юрьевич": 59,
-      "Гребенников Валерий Васильевич": 559,
-      "Дьяков Игорь Викторович": 23,
-      "Жукова Галина Алексеевна": 188,
-      "Каландаров Камилжан Хамутович": 23,
-      "Прохоров Дмитрий Юрьевич": 128,
-      "Против всех": 363
+      "gas:candidate-vibid:1001000121933": 134,
+      "gas:candidate-vibid:1001000195163": 8,
+      "gas:candidate-vibid:377300371003": 59,
+      "gas:candidate-vibid:1001000226006": 559,
+      "gas:candidate-vibid:1001000136148": 23,
+      "gas:candidate-vibid:377300370839": 188,
+      "gas:candidate-vibid:1001000190439": 23,
+      "gas:candidate-vibid:377300370842": 128,
+      "special:against-all": 363
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=773003003&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=377300370621&region=0&sub_region=0&type=429",
@@ -3406,15 +3406,15 @@ export const duma_2003_uik_428_region_77_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Басанец Павел Павлович": 162,
-      "Бегишвили Тенгиз Михайлович": 12,
-      "Берновский Михаил Юрьевич": 56,
-      "Гребенников Валерий Васильевич": 548,
-      "Дьяков Игорь Викторович": 45,
-      "Жукова Галина Алексеевна": 180,
-      "Каландаров Камилжан Хамутович": 28,
-      "Прохоров Дмитрий Юрьевич": 153,
-      "Против всех": 412
+      "gas:candidate-vibid:1001000121933": 162,
+      "gas:candidate-vibid:1001000195163": 12,
+      "gas:candidate-vibid:377300371003": 56,
+      "gas:candidate-vibid:1001000226006": 548,
+      "gas:candidate-vibid:1001000136148": 45,
+      "gas:candidate-vibid:377300370839": 180,
+      "gas:candidate-vibid:1001000190439": 28,
+      "gas:candidate-vibid:377300370842": 153,
+      "special:against-all": 412
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=773003003&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=377300370621&region=0&sub_region=0&type=429",
@@ -3464,15 +3464,15 @@ export const duma_2003_uik_428_region_77_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Басанец Павел Павлович": 80,
-      "Бегишвили Тенгиз Михайлович": 9,
-      "Берновский Михаил Юрьевич": 38,
-      "Гребенников Валерий Васильевич": 342,
-      "Дьяков Игорь Викторович": 33,
-      "Жукова Галина Алексеевна": 138,
-      "Каландаров Камилжан Хамутович": 20,
-      "Прохоров Дмитрий Юрьевич": 152,
-      "Против всех": 255
+      "gas:candidate-vibid:1001000121933": 80,
+      "gas:candidate-vibid:1001000195163": 9,
+      "gas:candidate-vibid:377300371003": 38,
+      "gas:candidate-vibid:1001000226006": 342,
+      "gas:candidate-vibid:1001000136148": 33,
+      "gas:candidate-vibid:377300370839": 138,
+      "gas:candidate-vibid:1001000190439": 20,
+      "gas:candidate-vibid:377300370842": 152,
+      "special:against-all": 255
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=773003003&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=377300370621&region=0&sub_region=0&type=429",
@@ -3522,15 +3522,15 @@ export const duma_2003_uik_428_region_77_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Басанец Павел Павлович": 146,
-      "Бегишвили Тенгиз Михайлович": 10,
-      "Берновский Михаил Юрьевич": 31,
-      "Гребенников Валерий Васильевич": 473,
-      "Дьяков Игорь Викторович": 34,
-      "Жукова Галина Алексеевна": 177,
-      "Каландаров Камилжан Хамутович": 21,
-      "Прохоров Дмитрий Юрьевич": 183,
-      "Против всех": 345
+      "gas:candidate-vibid:1001000121933": 146,
+      "gas:candidate-vibid:1001000195163": 10,
+      "gas:candidate-vibid:377300371003": 31,
+      "gas:candidate-vibid:1001000226006": 473,
+      "gas:candidate-vibid:1001000136148": 34,
+      "gas:candidate-vibid:377300370839": 177,
+      "gas:candidate-vibid:1001000190439": 21,
+      "gas:candidate-vibid:377300370842": 183,
+      "special:against-all": 345
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=773003003&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=377300370621&region=0&sub_region=0&type=429",
@@ -3580,15 +3580,15 @@ export const duma_2003_uik_428_region_77_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Басанец Павел Павлович": 82,
-      "Бегишвили Тенгиз Михайлович": 5,
-      "Берновский Михаил Юрьевич": 47,
-      "Гребенников Валерий Васильевич": 447,
-      "Дьяков Игорь Викторович": 20,
-      "Жукова Галина Алексеевна": 128,
-      "Каландаров Камилжан Хамутович": 19,
-      "Прохоров Дмитрий Юрьевич": 207,
-      "Против всех": 353
+      "gas:candidate-vibid:1001000121933": 82,
+      "gas:candidate-vibid:1001000195163": 5,
+      "gas:candidate-vibid:377300371003": 47,
+      "gas:candidate-vibid:1001000226006": 447,
+      "gas:candidate-vibid:1001000136148": 20,
+      "gas:candidate-vibid:377300370839": 128,
+      "gas:candidate-vibid:1001000190439": 19,
+      "gas:candidate-vibid:377300370842": 207,
+      "special:against-all": 353
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=773003003&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=377300370621&region=0&sub_region=0&type=429",
@@ -3638,15 +3638,15 @@ export const duma_2003_uik_428_region_77_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Басанец Павел Павлович": 97,
-      "Бегишвили Тенгиз Михайлович": 8,
-      "Берновский Михаил Юрьевич": 44,
-      "Гребенников Валерий Васильевич": 389,
-      "Дьяков Игорь Викторович": 45,
-      "Жукова Галина Алексеевна": 139,
-      "Каландаров Камилжан Хамутович": 20,
-      "Прохоров Дмитрий Юрьевич": 207,
-      "Против всех": 324
+      "gas:candidate-vibid:1001000121933": 97,
+      "gas:candidate-vibid:1001000195163": 8,
+      "gas:candidate-vibid:377300371003": 44,
+      "gas:candidate-vibid:1001000226006": 389,
+      "gas:candidate-vibid:1001000136148": 45,
+      "gas:candidate-vibid:377300370839": 139,
+      "gas:candidate-vibid:1001000190439": 20,
+      "gas:candidate-vibid:377300370842": 207,
+      "special:against-all": 324
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=773003003&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=377300370621&region=0&sub_region=0&type=429",
@@ -3696,15 +3696,15 @@ export const duma_2003_uik_428_region_77_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Басанец Павел Павлович": 122,
-      "Бегишвили Тенгиз Михайлович": 4,
-      "Берновский Михаил Юрьевич": 44,
-      "Гребенников Валерий Васильевич": 360,
-      "Дьяков Игорь Викторович": 41,
-      "Жукова Галина Алексеевна": 254,
-      "Каландаров Камилжан Хамутович": 13,
-      "Прохоров Дмитрий Юрьевич": 169,
-      "Против всех": 335
+      "gas:candidate-vibid:1001000121933": 122,
+      "gas:candidate-vibid:1001000195163": 4,
+      "gas:candidate-vibid:377300371003": 44,
+      "gas:candidate-vibid:1001000226006": 360,
+      "gas:candidate-vibid:1001000136148": 41,
+      "gas:candidate-vibid:377300370839": 254,
+      "gas:candidate-vibid:1001000190439": 13,
+      "gas:candidate-vibid:377300370842": 169,
+      "special:against-all": 335
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=773003003&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=377300370621&region=0&sub_region=0&type=429",
@@ -3754,15 +3754,15 @@ export const duma_2003_uik_428_region_77_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Басанец Павел Павлович": 184,
-      "Бегишвили Тенгиз Михайлович": 12,
-      "Берновский Михаил Юрьевич": 84,
-      "Гребенников Валерий Васильевич": 452,
-      "Дьяков Игорь Викторович": 58,
-      "Жукова Галина Алексеевна": 238,
-      "Каландаров Камилжан Хамутович": 28,
-      "Прохоров Дмитрий Юрьевич": 119,
-      "Против всех": 434
+      "gas:candidate-vibid:1001000121933": 184,
+      "gas:candidate-vibid:1001000195163": 12,
+      "gas:candidate-vibid:377300371003": 84,
+      "gas:candidate-vibid:1001000226006": 452,
+      "gas:candidate-vibid:1001000136148": 58,
+      "gas:candidate-vibid:377300370839": 238,
+      "gas:candidate-vibid:1001000190439": 28,
+      "gas:candidate-vibid:377300370842": 119,
+      "special:against-all": 434
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=773003003&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=377300370621&region=0&sub_region=0&type=429",
@@ -3812,15 +3812,15 @@ export const duma_2003_uik_428_region_77_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Басанец Павел Павлович": 90,
-      "Бегишвили Тенгиз Михайлович": 5,
-      "Берновский Михаил Юрьевич": 43,
-      "Гребенников Валерий Васильевич": 400,
-      "Дьяков Игорь Викторович": 40,
-      "Жукова Галина Алексеевна": 203,
-      "Каландаров Камилжан Хамутович": 15,
-      "Прохоров Дмитрий Юрьевич": 180,
-      "Против всех": 340
+      "gas:candidate-vibid:1001000121933": 90,
+      "gas:candidate-vibid:1001000195163": 5,
+      "gas:candidate-vibid:377300371003": 43,
+      "gas:candidate-vibid:1001000226006": 400,
+      "gas:candidate-vibid:1001000136148": 40,
+      "gas:candidate-vibid:377300370839": 203,
+      "gas:candidate-vibid:1001000190439": 15,
+      "gas:candidate-vibid:377300370842": 180,
+      "special:against-all": 340
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=773003003&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=377300370621&region=0&sub_region=0&type=429",
@@ -3870,15 +3870,15 @@ export const duma_2003_uik_428_region_77_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Басанец Павел Павлович": 73,
-      "Бегишвили Тенгиз Михайлович": 9,
-      "Берновский Михаил Юрьевич": 18,
-      "Гребенников Валерий Васильевич": 193,
-      "Дьяков Игорь Викторович": 14,
-      "Жукова Галина Алексеевна": 105,
-      "Каландаров Камилжан Хамутович": 12,
-      "Прохоров Дмитрий Юрьевич": 56,
-      "Против всех": 180
+      "gas:candidate-vibid:1001000121933": 73,
+      "gas:candidate-vibid:1001000195163": 9,
+      "gas:candidate-vibid:377300371003": 18,
+      "gas:candidate-vibid:1001000226006": 193,
+      "gas:candidate-vibid:1001000136148": 14,
+      "gas:candidate-vibid:377300370839": 105,
+      "gas:candidate-vibid:1001000190439": 12,
+      "gas:candidate-vibid:377300370842": 56,
+      "special:against-all": 180
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=773003003&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=377300370621&region=0&sub_region=0&type=429",
@@ -3928,15 +3928,15 @@ export const duma_2003_uik_428_region_77_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Басанец Павел Павлович": 356,
-      "Бегишвили Тенгиз Михайлович": 17,
-      "Берновский Михаил Юрьевич": 59,
-      "Гребенников Валерий Васильевич": 284,
-      "Дьяков Игорь Викторович": 20,
-      "Жукова Галина Алексеевна": 199,
-      "Каландаров Камилжан Хамутович": 21,
-      "Прохоров Дмитрий Юрьевич": 138,
-      "Против всех": 393
+      "gas:candidate-vibid:1001000121933": 356,
+      "gas:candidate-vibid:1001000195163": 17,
+      "gas:candidate-vibid:377300371003": 59,
+      "gas:candidate-vibid:1001000226006": 284,
+      "gas:candidate-vibid:1001000136148": 20,
+      "gas:candidate-vibid:377300370839": 199,
+      "gas:candidate-vibid:1001000190439": 21,
+      "gas:candidate-vibid:377300370842": 138,
+      "special:against-all": 393
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=773003003&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=377300370621&region=0&sub_region=0&type=429",
@@ -3986,15 +3986,15 @@ export const duma_2003_uik_428_region_77_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Басанец Павел Павлович": 152,
-      "Бегишвили Тенгиз Михайлович": 16,
-      "Берновский Михаил Юрьевич": 62,
-      "Гребенников Валерий Васильевич": 322,
-      "Дьяков Игорь Викторович": 45,
-      "Жукова Галина Алексеевна": 235,
-      "Каландаров Камилжан Хамутович": 11,
-      "Прохоров Дмитрий Юрьевич": 171,
-      "Против всех": 415
+      "gas:candidate-vibid:1001000121933": 152,
+      "gas:candidate-vibid:1001000195163": 16,
+      "gas:candidate-vibid:377300371003": 62,
+      "gas:candidate-vibid:1001000226006": 322,
+      "gas:candidate-vibid:1001000136148": 45,
+      "gas:candidate-vibid:377300370839": 235,
+      "gas:candidate-vibid:1001000190439": 11,
+      "gas:candidate-vibid:377300370842": 171,
+      "special:against-all": 415
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=773003003&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=377300370621&region=0&sub_region=0&type=429",
@@ -4044,15 +4044,15 @@ export const duma_2003_uik_428_region_77_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Басанец Павел Павлович": 95,
-      "Бегишвили Тенгиз Михайлович": 7,
-      "Берновский Михаил Юрьевич": 29,
-      "Гребенников Валерий Васильевич": 517,
-      "Дьяков Игорь Викторович": 36,
-      "Жукова Галина Алексеевна": 157,
-      "Каландаров Камилжан Хамутович": 21,
-      "Прохоров Дмитрий Юрьевич": 217,
-      "Против всех": 372
+      "gas:candidate-vibid:1001000121933": 95,
+      "gas:candidate-vibid:1001000195163": 7,
+      "gas:candidate-vibid:377300371003": 29,
+      "gas:candidate-vibid:1001000226006": 517,
+      "gas:candidate-vibid:1001000136148": 36,
+      "gas:candidate-vibid:377300370839": 157,
+      "gas:candidate-vibid:1001000190439": 21,
+      "gas:candidate-vibid:377300370842": 217,
+      "special:against-all": 372
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=773003003&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=377300370621&region=0&sub_region=0&type=429",
@@ -4102,15 +4102,15 @@ export const duma_2003_uik_428_region_77_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Басанец Павел Павлович": 84,
-      "Бегишвили Тенгиз Михайлович": 4,
-      "Берновский Михаил Юрьевич": 16,
-      "Гребенников Валерий Васильевич": 383,
-      "Дьяков Игорь Викторович": 15,
-      "Жукова Галина Алексеевна": 129,
-      "Каландаров Камилжан Хамутович": 7,
-      "Прохоров Дмитрий Юрьевич": 187,
-      "Против всех": 349
+      "gas:candidate-vibid:1001000121933": 84,
+      "gas:candidate-vibid:1001000195163": 4,
+      "gas:candidate-vibid:377300371003": 16,
+      "gas:candidate-vibid:1001000226006": 383,
+      "gas:candidate-vibid:1001000136148": 15,
+      "gas:candidate-vibid:377300370839": 129,
+      "gas:candidate-vibid:1001000190439": 7,
+      "gas:candidate-vibid:377300370842": 187,
+      "special:against-all": 349
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=773003003&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=377300370621&region=0&sub_region=0&type=429",
@@ -4160,15 +4160,15 @@ export const duma_2003_uik_428_region_77_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Басанец Павел Павлович": 90,
-      "Бегишвили Тенгиз Михайлович": 4,
-      "Берновский Михаил Юрьевич": 29,
-      "Гребенников Валерий Васильевич": 382,
-      "Дьяков Игорь Викторович": 38,
-      "Жукова Галина Алексеевна": 164,
-      "Каландаров Камилжан Хамутович": 6,
-      "Прохоров Дмитрий Юрьевич": 174,
-      "Против всех": 317
+      "gas:candidate-vibid:1001000121933": 90,
+      "gas:candidate-vibid:1001000195163": 4,
+      "gas:candidate-vibid:377300371003": 29,
+      "gas:candidate-vibid:1001000226006": 382,
+      "gas:candidate-vibid:1001000136148": 38,
+      "gas:candidate-vibid:377300370839": 164,
+      "gas:candidate-vibid:1001000190439": 6,
+      "gas:candidate-vibid:377300370842": 174,
+      "special:against-all": 317
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=773003003&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=377300370621&region=0&sub_region=0&type=429",
@@ -4218,15 +4218,15 @@ export const duma_2003_uik_428_region_77_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Басанец Павел Павлович": 264,
-      "Бегишвили Тенгиз Михайлович": 9,
-      "Берновский Михаил Юрьевич": 49,
-      "Гребенников Валерий Васильевич": 438,
-      "Дьяков Игорь Викторович": 49,
-      "Жукова Галина Алексеевна": 244,
-      "Каландаров Камилжан Хамутович": 27,
-      "Прохоров Дмитрий Юрьевич": 118,
-      "Против всех": 395
+      "gas:candidate-vibid:1001000121933": 264,
+      "gas:candidate-vibid:1001000195163": 9,
+      "gas:candidate-vibid:377300371003": 49,
+      "gas:candidate-vibid:1001000226006": 438,
+      "gas:candidate-vibid:1001000136148": 49,
+      "gas:candidate-vibid:377300370839": 244,
+      "gas:candidate-vibid:1001000190439": 27,
+      "gas:candidate-vibid:377300370842": 118,
+      "special:against-all": 395
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=773003003&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=377300370621&region=0&sub_region=0&type=429",
@@ -4276,15 +4276,15 @@ export const duma_2003_uik_428_region_77_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Басанец Павел Павлович": 239,
-      "Бегишвили Тенгиз Михайлович": 13,
-      "Берновский Михаил Юрьевич": 65,
-      "Гребенников Валерий Васильевич": 404,
-      "Дьяков Игорь Викторович": 51,
-      "Жукова Галина Алексеевна": 281,
-      "Каландаров Камилжан Хамутович": 26,
-      "Прохоров Дмитрий Юрьевич": 115,
-      "Против всех": 411
+      "gas:candidate-vibid:1001000121933": 239,
+      "gas:candidate-vibid:1001000195163": 13,
+      "gas:candidate-vibid:377300371003": 65,
+      "gas:candidate-vibid:1001000226006": 404,
+      "gas:candidate-vibid:1001000136148": 51,
+      "gas:candidate-vibid:377300370839": 281,
+      "gas:candidate-vibid:1001000190439": 26,
+      "gas:candidate-vibid:377300370842": 115,
+      "special:against-all": 411
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=773003003&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=377300370621&region=0&sub_region=0&type=429",
@@ -4334,15 +4334,15 @@ export const duma_2003_uik_428_region_77_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Басанец Павел Павлович": 137,
-      "Бегишвили Тенгиз Михайлович": 6,
-      "Берновский Михаил Юрьевич": 48,
-      "Гребенников Валерий Васильевич": 352,
-      "Дьяков Игорь Викторович": 37,
-      "Жукова Галина Алексеевна": 107,
-      "Каландаров Камилжан Хамутович": 14,
-      "Прохоров Дмитрий Юрьевич": 81,
-      "Против всех": 306
+      "gas:candidate-vibid:1001000121933": 137,
+      "gas:candidate-vibid:1001000195163": 6,
+      "gas:candidate-vibid:377300371003": 48,
+      "gas:candidate-vibid:1001000226006": 352,
+      "gas:candidate-vibid:1001000136148": 37,
+      "gas:candidate-vibid:377300370839": 107,
+      "gas:candidate-vibid:1001000190439": 14,
+      "gas:candidate-vibid:377300370842": 81,
+      "special:against-all": 306
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=773003003&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=377300370621&region=0&sub_region=0&type=429",
@@ -4392,15 +4392,15 @@ export const duma_2003_uik_428_region_77_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Басанец Павел Павлович": 86,
-      "Бегишвили Тенгиз Михайлович": 16,
-      "Берновский Михаил Юрьевич": 55,
-      "Гребенников Валерий Васильевич": 587,
-      "Дьяков Игорь Викторович": 56,
-      "Жукова Галина Алексеевна": 173,
-      "Каландаров Камилжан Хамутович": 23,
-      "Прохоров Дмитрий Юрьевич": 106,
-      "Против всех": 310
+      "gas:candidate-vibid:1001000121933": 86,
+      "gas:candidate-vibid:1001000195163": 16,
+      "gas:candidate-vibid:377300371003": 55,
+      "gas:candidate-vibid:1001000226006": 587,
+      "gas:candidate-vibid:1001000136148": 56,
+      "gas:candidate-vibid:377300370839": 173,
+      "gas:candidate-vibid:1001000190439": 23,
+      "gas:candidate-vibid:377300370842": 106,
+      "special:against-all": 310
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=773003003&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=377300370621&region=0&sub_region=0&type=429",
@@ -4450,15 +4450,15 @@ export const duma_2003_uik_428_region_77_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Басанец Павел Павлович": 107,
-      "Бегишвили Тенгиз Михайлович": 3,
-      "Берновский Михаил Юрьевич": 32,
-      "Гребенников Валерий Васильевич": 383,
-      "Дьяков Игорь Викторович": 32,
-      "Жукова Галина Алексеевна": 147,
-      "Каландаров Камилжан Хамутович": 14,
-      "Прохоров Дмитрий Юрьевич": 83,
-      "Против всех": 321
+      "gas:candidate-vibid:1001000121933": 107,
+      "gas:candidate-vibid:1001000195163": 3,
+      "gas:candidate-vibid:377300371003": 32,
+      "gas:candidate-vibid:1001000226006": 383,
+      "gas:candidate-vibid:1001000136148": 32,
+      "gas:candidate-vibid:377300370839": 147,
+      "gas:candidate-vibid:1001000190439": 14,
+      "gas:candidate-vibid:377300370842": 83,
+      "special:against-all": 321
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=773003003&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=377300370621&region=0&sub_region=0&type=429",
@@ -4508,15 +4508,15 @@ export const duma_2003_uik_428_region_77_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Басанец Павел Павлович": 103,
-      "Бегишвили Тенгиз Михайлович": 4,
-      "Берновский Михаил Юрьевич": 35,
-      "Гребенников Валерий Васильевич": 550,
-      "Дьяков Игорь Викторович": 44,
-      "Жукова Галина Алексеевна": 185,
-      "Каландаров Камилжан Хамутович": 17,
-      "Прохоров Дмитрий Юрьевич": 87,
-      "Против всех": 333
+      "gas:candidate-vibid:1001000121933": 103,
+      "gas:candidate-vibid:1001000195163": 4,
+      "gas:candidate-vibid:377300371003": 35,
+      "gas:candidate-vibid:1001000226006": 550,
+      "gas:candidate-vibid:1001000136148": 44,
+      "gas:candidate-vibid:377300370839": 185,
+      "gas:candidate-vibid:1001000190439": 17,
+      "gas:candidate-vibid:377300370842": 87,
+      "special:against-all": 333
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=773003003&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=377300370621&region=0&sub_region=0&type=429",
@@ -4566,15 +4566,15 @@ export const duma_2003_uik_428_region_77_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Басанец Павел Павлович": 116,
-      "Бегишвили Тенгиз Михайлович": 8,
-      "Берновский Михаил Юрьевич": 55,
-      "Гребенников Валерий Васильевич": 445,
-      "Дьяков Игорь Викторович": 47,
-      "Жукова Галина Алексеевна": 157,
-      "Каландаров Камилжан Хамутович": 23,
-      "Прохоров Дмитрий Юрьевич": 120,
-      "Против всех": 270
+      "gas:candidate-vibid:1001000121933": 116,
+      "gas:candidate-vibid:1001000195163": 8,
+      "gas:candidate-vibid:377300371003": 55,
+      "gas:candidate-vibid:1001000226006": 445,
+      "gas:candidate-vibid:1001000136148": 47,
+      "gas:candidate-vibid:377300370839": 157,
+      "gas:candidate-vibid:1001000190439": 23,
+      "gas:candidate-vibid:377300370842": 120,
+      "special:against-all": 270
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=773003003&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=377300370621&region=0&sub_region=0&type=429",
@@ -4624,15 +4624,15 @@ export const duma_2003_uik_428_region_77_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Басанец Павел Павлович": 115,
-      "Бегишвили Тенгиз Михайлович": 5,
-      "Берновский Михаил Юрьевич": 38,
-      "Гребенников Валерий Васильевич": 346,
-      "Дьяков Игорь Викторович": 39,
-      "Жукова Галина Алексеевна": 139,
-      "Каландаров Камилжан Хамутович": 17,
-      "Прохоров Дмитрий Юрьевич": 79,
-      "Против всех": 290
+      "gas:candidate-vibid:1001000121933": 115,
+      "gas:candidate-vibid:1001000195163": 5,
+      "gas:candidate-vibid:377300371003": 38,
+      "gas:candidate-vibid:1001000226006": 346,
+      "gas:candidate-vibid:1001000136148": 39,
+      "gas:candidate-vibid:377300370839": 139,
+      "gas:candidate-vibid:1001000190439": 17,
+      "gas:candidate-vibid:377300370842": 79,
+      "special:against-all": 290
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=773003003&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=377300370621&region=0&sub_region=0&type=429",
@@ -4682,15 +4682,15 @@ export const duma_2003_uik_428_region_77_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Басанец Павел Павлович": 156,
-      "Бегишвили Тенгиз Михайлович": 4,
-      "Берновский Михаил Юрьевич": 55,
-      "Гребенников Валерий Васильевич": 460,
-      "Дьяков Игорь Викторович": 46,
-      "Жукова Галина Алексеевна": 241,
-      "Каландаров Камилжан Хамутович": 23,
-      "Прохоров Дмитрий Юрьевич": 113,
-      "Против всех": 496
+      "gas:candidate-vibid:1001000121933": 156,
+      "gas:candidate-vibid:1001000195163": 4,
+      "gas:candidate-vibid:377300371003": 55,
+      "gas:candidate-vibid:1001000226006": 460,
+      "gas:candidate-vibid:1001000136148": 46,
+      "gas:candidate-vibid:377300370839": 241,
+      "gas:candidate-vibid:1001000190439": 23,
+      "gas:candidate-vibid:377300370842": 113,
+      "special:against-all": 496
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=773003003&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=377300370621&region=0&sub_region=0&type=429",
@@ -4740,15 +4740,15 @@ export const duma_2003_uik_428_region_77_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Басанец Павел Павлович": 109,
-      "Бегишвили Тенгиз Михайлович": 18,
-      "Берновский Михаил Юрьевич": 28,
-      "Гребенников Валерий Васильевич": 457,
-      "Дьяков Игорь Викторович": 48,
-      "Жукова Галина Алексеевна": 165,
-      "Каландаров Камилжан Хамутович": 24,
-      "Прохоров Дмитрий Юрьевич": 92,
-      "Против всех": 406
+      "gas:candidate-vibid:1001000121933": 109,
+      "gas:candidate-vibid:1001000195163": 18,
+      "gas:candidate-vibid:377300371003": 28,
+      "gas:candidate-vibid:1001000226006": 457,
+      "gas:candidate-vibid:1001000136148": 48,
+      "gas:candidate-vibid:377300370839": 165,
+      "gas:candidate-vibid:1001000190439": 24,
+      "gas:candidate-vibid:377300370842": 92,
+      "special:against-all": 406
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=773003003&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=377300370621&region=0&sub_region=0&type=429",
@@ -4798,15 +4798,15 @@ export const duma_2003_uik_428_region_77_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Басанец Павел Павлович": 74,
-      "Бегишвили Тенгиз Михайлович": 5,
-      "Берновский Михаил Юрьевич": 29,
-      "Гребенников Валерий Васильевич": 374,
-      "Дьяков Игорь Викторович": 29,
-      "Жукова Галина Алексеевна": 165,
-      "Каландаров Камилжан Хамутович": 13,
-      "Прохоров Дмитрий Юрьевич": 89,
-      "Против всех": 385
+      "gas:candidate-vibid:1001000121933": 74,
+      "gas:candidate-vibid:1001000195163": 5,
+      "gas:candidate-vibid:377300371003": 29,
+      "gas:candidate-vibid:1001000226006": 374,
+      "gas:candidate-vibid:1001000136148": 29,
+      "gas:candidate-vibid:377300370839": 165,
+      "gas:candidate-vibid:1001000190439": 13,
+      "gas:candidate-vibid:377300370842": 89,
+      "special:against-all": 385
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=773003003&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=377300370621&region=0&sub_region=0&type=429",
@@ -4856,15 +4856,15 @@ export const duma_2003_uik_428_region_77_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Басанец Павел Павлович": 106,
-      "Бегишвили Тенгиз Михайлович": 8,
-      "Берновский Михаил Юрьевич": 49,
-      "Гребенников Валерий Васильевич": 454,
-      "Дьяков Игорь Викторович": 47,
-      "Жукова Галина Алексеевна": 207,
-      "Каландаров Камилжан Хамутович": 19,
-      "Прохоров Дмитрий Юрьевич": 89,
-      "Против всех": 439
+      "gas:candidate-vibid:1001000121933": 106,
+      "gas:candidate-vibid:1001000195163": 8,
+      "gas:candidate-vibid:377300371003": 49,
+      "gas:candidate-vibid:1001000226006": 454,
+      "gas:candidate-vibid:1001000136148": 47,
+      "gas:candidate-vibid:377300370839": 207,
+      "gas:candidate-vibid:1001000190439": 19,
+      "gas:candidate-vibid:377300370842": 89,
+      "special:against-all": 439
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=773003003&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=377300370621&region=0&sub_region=0&type=429",
@@ -4914,15 +4914,15 @@ export const duma_2003_uik_428_region_77_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Басанец Павел Павлович": 30,
-      "Бегишвили Тенгиз Михайлович": 0,
-      "Берновский Михаил Юрьевич": 2,
-      "Гребенников Валерий Васильевич": 29,
-      "Дьяков Игорь Викторович": 2,
-      "Жукова Галина Алексеевна": 13,
-      "Каландаров Камилжан Хамутович": 3,
-      "Прохоров Дмитрий Юрьевич": 12,
-      "Против всех": 22
+      "gas:candidate-vibid:1001000121933": 30,
+      "gas:candidate-vibid:1001000195163": 0,
+      "gas:candidate-vibid:377300371003": 2,
+      "gas:candidate-vibid:1001000226006": 29,
+      "gas:candidate-vibid:1001000136148": 2,
+      "gas:candidate-vibid:377300370839": 13,
+      "gas:candidate-vibid:1001000190439": 3,
+      "gas:candidate-vibid:377300370842": 12,
+      "special:against-all": 22
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=773003003&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=377300370621&region=0&sub_region=0&type=429",
@@ -4972,15 +4972,15 @@ export const duma_2003_uik_428_region_77_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Басанец Павел Павлович": 0,
-      "Бегишвили Тенгиз Михайлович": 0,
-      "Берновский Михаил Юрьевич": 0,
-      "Гребенников Валерий Васильевич": 4,
-      "Дьяков Игорь Викторович": 0,
-      "Жукова Галина Алексеевна": 1,
-      "Каландаров Камилжан Хамутович": 0,
-      "Прохоров Дмитрий Юрьевич": 0,
-      "Против всех": 1
+      "gas:candidate-vibid:1001000121933": 0,
+      "gas:candidate-vibid:1001000195163": 0,
+      "gas:candidate-vibid:377300371003": 0,
+      "gas:candidate-vibid:1001000226006": 4,
+      "gas:candidate-vibid:1001000136148": 0,
+      "gas:candidate-vibid:377300370839": 1,
+      "gas:candidate-vibid:1001000190439": 0,
+      "gas:candidate-vibid:377300370842": 0,
+      "special:against-all": 1
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=773003003&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=377300370621&region=0&sub_region=0&type=429",
@@ -5030,15 +5030,15 @@ export const duma_2003_uik_428_region_77_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Басанец Павел Павлович": 10,
-      "Бегишвили Тенгиз Михайлович": 0,
-      "Берновский Михаил Юрьевич": 4,
-      "Гребенников Валерий Васильевич": 47,
-      "Дьяков Игорь Викторович": 4,
-      "Жукова Галина Алексеевна": 15,
-      "Каландаров Камилжан Хамутович": 0,
-      "Прохоров Дмитрий Юрьевич": 12,
-      "Против всех": 37
+      "gas:candidate-vibid:1001000121933": 10,
+      "gas:candidate-vibid:1001000195163": 0,
+      "gas:candidate-vibid:377300371003": 4,
+      "gas:candidate-vibid:1001000226006": 47,
+      "gas:candidate-vibid:1001000136148": 4,
+      "gas:candidate-vibid:377300370839": 15,
+      "gas:candidate-vibid:1001000190439": 0,
+      "gas:candidate-vibid:377300370842": 12,
+      "special:against-all": 37
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=773003003&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=377300370621&region=0&sub_region=0&type=429",
@@ -5088,15 +5088,15 @@ export const duma_2003_uik_428_region_77_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Басанец Павел Павлович": 8,
-      "Бегишвили Тенгиз Михайлович": 4,
-      "Берновский Михаил Юрьевич": 2,
-      "Гребенников Валерий Васильевич": 18,
-      "Дьяков Игорь Викторович": 6,
-      "Жукова Галина Алексеевна": 25,
-      "Каландаров Камилжан Хамутович": 3,
-      "Прохоров Дмитрий Юрьевич": 11,
-      "Против всех": 50
+      "gas:candidate-vibid:1001000121933": 8,
+      "gas:candidate-vibid:1001000195163": 4,
+      "gas:candidate-vibid:377300371003": 2,
+      "gas:candidate-vibid:1001000226006": 18,
+      "gas:candidate-vibid:1001000136148": 6,
+      "gas:candidate-vibid:377300370839": 25,
+      "gas:candidate-vibid:1001000190439": 3,
+      "gas:candidate-vibid:377300370842": 11,
+      "special:against-all": 50
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=773003003&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=377300370621&region=0&sub_region=0&type=429",
@@ -5146,15 +5146,15 @@ export const duma_2003_uik_428_region_77_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Басанец Павел Павлович": 1,
-      "Бегишвили Тенгиз Михайлович": 1,
-      "Берновский Михаил Юрьевич": 0,
-      "Гребенников Валерий Васильевич": 0,
-      "Дьяков Игорь Викторович": 0,
-      "Жукова Галина Алексеевна": 0,
-      "Каландаров Камилжан Хамутович": 0,
-      "Прохоров Дмитрий Юрьевич": 0,
-      "Против всех": 0
+      "gas:candidate-vibid:1001000121933": 1,
+      "gas:candidate-vibid:1001000195163": 1,
+      "gas:candidate-vibid:377300371003": 0,
+      "gas:candidate-vibid:1001000226006": 0,
+      "gas:candidate-vibid:1001000136148": 0,
+      "gas:candidate-vibid:377300370839": 0,
+      "gas:candidate-vibid:1001000190439": 0,
+      "gas:candidate-vibid:377300370842": 0,
+      "special:against-all": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=773003003&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=377300370621&region=0&sub_region=0&type=429",
@@ -5204,15 +5204,15 @@ export const duma_2003_uik_428_region_77_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Басанец Павел Павлович": 212,
-      "Бегишвили Тенгиз Михайлович": 9,
-      "Берновский Михаил Юрьевич": 64,
-      "Гребенников Валерий Васильевич": 453,
-      "Дьяков Игорь Викторович": 59,
-      "Жукова Галина Алексеевна": 235,
-      "Каландаров Камилжан Хамутович": 27,
-      "Прохоров Дмитрий Юрьевич": 83,
-      "Против всех": 391
+      "gas:candidate-vibid:1001000121933": 212,
+      "gas:candidate-vibid:1001000195163": 9,
+      "gas:candidate-vibid:377300371003": 64,
+      "gas:candidate-vibid:1001000226006": 453,
+      "gas:candidate-vibid:1001000136148": 59,
+      "gas:candidate-vibid:377300370839": 235,
+      "gas:candidate-vibid:1001000190439": 27,
+      "gas:candidate-vibid:377300370842": 83,
+      "special:against-all": 391
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=773003004&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=377300370622&region=0&sub_region=0&type=429",
@@ -5262,15 +5262,15 @@ export const duma_2003_uik_428_region_77_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Басанец Павел Павлович": 108,
-      "Бегишвили Тенгиз Михайлович": 8,
-      "Берновский Михаил Юрьевич": 65,
-      "Гребенников Валерий Васильевич": 400,
-      "Дьяков Игорь Викторович": 46,
-      "Жукова Галина Алексеевна": 191,
-      "Каландаров Камилжан Хамутович": 25,
-      "Прохоров Дмитрий Юрьевич": 100,
-      "Против всех": 415
+      "gas:candidate-vibid:1001000121933": 108,
+      "gas:candidate-vibid:1001000195163": 8,
+      "gas:candidate-vibid:377300371003": 65,
+      "gas:candidate-vibid:1001000226006": 400,
+      "gas:candidate-vibid:1001000136148": 46,
+      "gas:candidate-vibid:377300370839": 191,
+      "gas:candidate-vibid:1001000190439": 25,
+      "gas:candidate-vibid:377300370842": 100,
+      "special:against-all": 415
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=773003004&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=377300370622&region=0&sub_region=0&type=429",
@@ -5320,15 +5320,15 @@ export const duma_2003_uik_428_region_77_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Басанец Павел Павлович": 126,
-      "Бегишвили Тенгиз Михайлович": 7,
-      "Берновский Михаил Юрьевич": 50,
-      "Гребенников Валерий Васильевич": 414,
-      "Дьяков Игорь Викторович": 31,
-      "Жукова Галина Алексеевна": 135,
-      "Каландаров Камилжан Хамутович": 22,
-      "Прохоров Дмитрий Юрьевич": 63,
-      "Против всех": 354
+      "gas:candidate-vibid:1001000121933": 126,
+      "gas:candidate-vibid:1001000195163": 7,
+      "gas:candidate-vibid:377300371003": 50,
+      "gas:candidate-vibid:1001000226006": 414,
+      "gas:candidate-vibid:1001000136148": 31,
+      "gas:candidate-vibid:377300370839": 135,
+      "gas:candidate-vibid:1001000190439": 22,
+      "gas:candidate-vibid:377300370842": 63,
+      "special:against-all": 354
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=773003004&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=377300370622&region=0&sub_region=0&type=429",
@@ -5378,15 +5378,15 @@ export const duma_2003_uik_428_region_77_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Басанец Павел Павлович": 124,
-      "Бегишвили Тенгиз Михайлович": 6,
-      "Берновский Михаил Юрьевич": 60,
-      "Гребенников Валерий Васильевич": 361,
-      "Дьяков Игорь Викторович": 54,
-      "Жукова Галина Алексеевна": 180,
-      "Каландаров Камилжан Хамутович": 17,
-      "Прохоров Дмитрий Юрьевич": 79,
-      "Против всех": 345
+      "gas:candidate-vibid:1001000121933": 124,
+      "gas:candidate-vibid:1001000195163": 6,
+      "gas:candidate-vibid:377300371003": 60,
+      "gas:candidate-vibid:1001000226006": 361,
+      "gas:candidate-vibid:1001000136148": 54,
+      "gas:candidate-vibid:377300370839": 180,
+      "gas:candidate-vibid:1001000190439": 17,
+      "gas:candidate-vibid:377300370842": 79,
+      "special:against-all": 345
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=773003004&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=377300370622&region=0&sub_region=0&type=429",
@@ -5436,15 +5436,15 @@ export const duma_2003_uik_428_region_77_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Басанец Павел Павлович": 152,
-      "Бегишвили Тенгиз Михайлович": 12,
-      "Берновский Михаил Юрьевич": 51,
-      "Гребенников Валерий Васильевич": 424,
-      "Дьяков Игорь Викторович": 55,
-      "Жукова Галина Алексеевна": 235,
-      "Каландаров Камилжан Хамутович": 24,
-      "Прохоров Дмитрий Юрьевич": 111,
-      "Против всех": 472
+      "gas:candidate-vibid:1001000121933": 152,
+      "gas:candidate-vibid:1001000195163": 12,
+      "gas:candidate-vibid:377300371003": 51,
+      "gas:candidate-vibid:1001000226006": 424,
+      "gas:candidate-vibid:1001000136148": 55,
+      "gas:candidate-vibid:377300370839": 235,
+      "gas:candidate-vibid:1001000190439": 24,
+      "gas:candidate-vibid:377300370842": 111,
+      "special:against-all": 472
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=773003004&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=377300370622&region=0&sub_region=0&type=429",
@@ -5494,15 +5494,15 @@ export const duma_2003_uik_428_region_77_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Басанец Павел Павлович": 208,
-      "Бегишвили Тенгиз Михайлович": 6,
-      "Берновский Михаил Юрьевич": 55,
-      "Гребенников Валерий Васильевич": 448,
-      "Дьяков Игорь Викторович": 50,
-      "Жукова Галина Алексеевна": 262,
-      "Каландаров Камилжан Хамутович": 33,
-      "Прохоров Дмитрий Юрьевич": 100,
-      "Против всех": 462
+      "gas:candidate-vibid:1001000121933": 208,
+      "gas:candidate-vibid:1001000195163": 6,
+      "gas:candidate-vibid:377300371003": 55,
+      "gas:candidate-vibid:1001000226006": 448,
+      "gas:candidate-vibid:1001000136148": 50,
+      "gas:candidate-vibid:377300370839": 262,
+      "gas:candidate-vibid:1001000190439": 33,
+      "gas:candidate-vibid:377300370842": 100,
+      "special:against-all": 462
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=773003004&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=377300370622&region=0&sub_region=0&type=429",
@@ -5552,15 +5552,15 @@ export const duma_2003_uik_428_region_77_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Басанец Павел Павлович": 193,
-      "Бегишвили Тенгиз Михайлович": 9,
-      "Берновский Михаил Юрьевич": 62,
-      "Гребенников Валерий Васильевич": 546,
-      "Дьяков Игорь Викторович": 31,
-      "Жукова Галина Алексеевна": 225,
-      "Каландаров Камилжан Хамутович": 26,
-      "Прохоров Дмитрий Юрьевич": 105,
-      "Против всех": 431
+      "gas:candidate-vibid:1001000121933": 193,
+      "gas:candidate-vibid:1001000195163": 9,
+      "gas:candidate-vibid:377300371003": 62,
+      "gas:candidate-vibid:1001000226006": 546,
+      "gas:candidate-vibid:1001000136148": 31,
+      "gas:candidate-vibid:377300370839": 225,
+      "gas:candidate-vibid:1001000190439": 26,
+      "gas:candidate-vibid:377300370842": 105,
+      "special:against-all": 431
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=773003004&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=377300370622&region=0&sub_region=0&type=429",
@@ -5610,15 +5610,15 @@ export const duma_2003_uik_428_region_77_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Басанец Павел Павлович": 88,
-      "Бегишвили Тенгиз Михайлович": 10,
-      "Берновский Михаил Юрьевич": 51,
-      "Гребенников Валерий Васильевич": 417,
-      "Дьяков Игорь Викторович": 46,
-      "Жукова Галина Алексеевна": 192,
-      "Каландаров Камилжан Хамутович": 13,
-      "Прохоров Дмитрий Юрьевич": 81,
-      "Против всех": 313
+      "gas:candidate-vibid:1001000121933": 88,
+      "gas:candidate-vibid:1001000195163": 10,
+      "gas:candidate-vibid:377300371003": 51,
+      "gas:candidate-vibid:1001000226006": 417,
+      "gas:candidate-vibid:1001000136148": 46,
+      "gas:candidate-vibid:377300370839": 192,
+      "gas:candidate-vibid:1001000190439": 13,
+      "gas:candidate-vibid:377300370842": 81,
+      "special:against-all": 313
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=773003004&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=377300370622&region=0&sub_region=0&type=429",
@@ -5668,15 +5668,15 @@ export const duma_2003_uik_428_region_77_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Басанец Павел Павлович": 73,
-      "Бегишвили Тенгиз Михайлович": 12,
-      "Берновский Михаил Юрьевич": 33,
-      "Гребенников Валерий Васильевич": 318,
-      "Дьяков Игорь Викторович": 32,
-      "Жукова Галина Алексеевна": 175,
-      "Каландаров Камилжан Хамутович": 16,
-      "Прохоров Дмитрий Юрьевич": 62,
-      "Против всех": 292
+      "gas:candidate-vibid:1001000121933": 73,
+      "gas:candidate-vibid:1001000195163": 12,
+      "gas:candidate-vibid:377300371003": 33,
+      "gas:candidate-vibid:1001000226006": 318,
+      "gas:candidate-vibid:1001000136148": 32,
+      "gas:candidate-vibid:377300370839": 175,
+      "gas:candidate-vibid:1001000190439": 16,
+      "gas:candidate-vibid:377300370842": 62,
+      "special:against-all": 292
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=773003004&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=377300370622&region=0&sub_region=0&type=429",
@@ -5726,15 +5726,15 @@ export const duma_2003_uik_428_region_77_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Басанец Павел Павлович": 165,
-      "Бегишвили Тенгиз Михайлович": 8,
-      "Берновский Михаил Юрьевич": 43,
-      "Гребенников Валерий Васильевич": 464,
-      "Дьяков Игорь Викторович": 47,
-      "Жукова Галина Алексеевна": 214,
-      "Каландаров Камилжан Хамутович": 21,
-      "Прохоров Дмитрий Юрьевич": 97,
-      "Против всех": 387
+      "gas:candidate-vibid:1001000121933": 165,
+      "gas:candidate-vibid:1001000195163": 8,
+      "gas:candidate-vibid:377300371003": 43,
+      "gas:candidate-vibid:1001000226006": 464,
+      "gas:candidate-vibid:1001000136148": 47,
+      "gas:candidate-vibid:377300370839": 214,
+      "gas:candidate-vibid:1001000190439": 21,
+      "gas:candidate-vibid:377300370842": 97,
+      "special:against-all": 387
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=773003004&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=377300370622&region=0&sub_region=0&type=429",
@@ -5784,15 +5784,15 @@ export const duma_2003_uik_428_region_77_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Басанец Павел Павлович": 159,
-      "Бегишвили Тенгиз Михайлович": 37,
-      "Берновский Михаил Юрьевич": 65,
-      "Гребенников Валерий Васильевич": 22,
-      "Дьяков Игорь Викторович": 8,
-      "Жукова Галина Алексеевна": 422,
-      "Каландаров Камилжан Хамутович": 168,
-      "Прохоров Дмитрий Юрьевич": 100,
-      "Против всех": 364
+      "gas:candidate-vibid:1001000121933": 159,
+      "gas:candidate-vibid:1001000195163": 37,
+      "gas:candidate-vibid:377300371003": 65,
+      "gas:candidate-vibid:1001000226006": 22,
+      "gas:candidate-vibid:1001000136148": 8,
+      "gas:candidate-vibid:377300370839": 422,
+      "gas:candidate-vibid:1001000190439": 168,
+      "gas:candidate-vibid:377300370842": 100,
+      "special:against-all": 364
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=773003004&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=377300370622&region=0&sub_region=0&type=429",
@@ -5842,15 +5842,15 @@ export const duma_2003_uik_428_region_77_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Басанец Павел Павлович": 132,
-      "Бегишвили Тенгиз Михайлович": 5,
-      "Берновский Михаил Юрьевич": 42,
-      "Гребенников Валерий Васильевич": 442,
-      "Дьяков Игорь Викторович": 25,
-      "Жукова Галина Алексеевна": 201,
-      "Каландаров Камилжан Хамутович": 16,
-      "Прохоров Дмитрий Юрьевич": 79,
-      "Против всех": 292
+      "gas:candidate-vibid:1001000121933": 132,
+      "gas:candidate-vibid:1001000195163": 5,
+      "gas:candidate-vibid:377300371003": 42,
+      "gas:candidate-vibid:1001000226006": 442,
+      "gas:candidate-vibid:1001000136148": 25,
+      "gas:candidate-vibid:377300370839": 201,
+      "gas:candidate-vibid:1001000190439": 16,
+      "gas:candidate-vibid:377300370842": 79,
+      "special:against-all": 292
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=773003004&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=377300370622&region=0&sub_region=0&type=429",
@@ -5900,15 +5900,15 @@ export const duma_2003_uik_428_region_77_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Басанец Павел Павлович": 92,
-      "Бегишвили Тенгиз Михайлович": 0,
-      "Берновский Михаил Юрьевич": 52,
-      "Гребенников Валерий Васильевич": 529,
-      "Дьяков Игорь Викторович": 41,
-      "Жукова Галина Алексеевна": 191,
-      "Каландаров Камилжан Хамутович": 19,
-      "Прохоров Дмитрий Юрьевич": 75,
-      "Против всех": 326
+      "gas:candidate-vibid:1001000121933": 92,
+      "gas:candidate-vibid:1001000195163": 0,
+      "gas:candidate-vibid:377300371003": 52,
+      "gas:candidate-vibid:1001000226006": 529,
+      "gas:candidate-vibid:1001000136148": 41,
+      "gas:candidate-vibid:377300370839": 191,
+      "gas:candidate-vibid:1001000190439": 19,
+      "gas:candidate-vibid:377300370842": 75,
+      "special:against-all": 326
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=773003004&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=377300370622&region=0&sub_region=0&type=429",
@@ -5958,15 +5958,15 @@ export const duma_2003_uik_428_region_77_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Басанец Павел Павлович": 106,
-      "Бегишвили Тенгиз Михайлович": 11,
-      "Берновский Михаил Юрьевич": 47,
-      "Гребенников Валерий Васильевич": 609,
-      "Дьяков Игорь Викторович": 40,
-      "Жукова Галина Алексеевна": 209,
-      "Каландаров Камилжан Хамутович": 21,
-      "Прохоров Дмитрий Юрьевич": 69,
-      "Против всех": 340
+      "gas:candidate-vibid:1001000121933": 106,
+      "gas:candidate-vibid:1001000195163": 11,
+      "gas:candidate-vibid:377300371003": 47,
+      "gas:candidate-vibid:1001000226006": 609,
+      "gas:candidate-vibid:1001000136148": 40,
+      "gas:candidate-vibid:377300370839": 209,
+      "gas:candidate-vibid:1001000190439": 21,
+      "gas:candidate-vibid:377300370842": 69,
+      "special:against-all": 340
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=773003004&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=377300370622&region=0&sub_region=0&type=429",
@@ -6016,15 +6016,15 @@ export const duma_2003_uik_428_region_77_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Басанец Павел Павлович": 119,
-      "Бегишвили Тенгиз Михайлович": 36,
-      "Берновский Михаил Юрьевич": 8,
-      "Гребенников Валерий Васильевич": 475,
-      "Дьяков Игорь Викторович": 57,
-      "Жукова Галина Алексеевна": 231,
-      "Каландаров Камилжан Хамутович": 20,
-      "Прохоров Дмитрий Юрьевич": 96,
-      "Против всех": 406
+      "gas:candidate-vibid:1001000121933": 119,
+      "gas:candidate-vibid:1001000195163": 36,
+      "gas:candidate-vibid:377300371003": 8,
+      "gas:candidate-vibid:1001000226006": 475,
+      "gas:candidate-vibid:1001000136148": 57,
+      "gas:candidate-vibid:377300370839": 231,
+      "gas:candidate-vibid:1001000190439": 20,
+      "gas:candidate-vibid:377300370842": 96,
+      "special:against-all": 406
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=773003004&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=377300370622&region=0&sub_region=0&type=429",
@@ -6074,15 +6074,15 @@ export const duma_2003_uik_428_region_77_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Басанец Павел Павлович": 61,
-      "Бегишвили Тенгиз Михайлович": 5,
-      "Берновский Михаил Юрьевич": 34,
-      "Гребенников Валерий Васильевич": 240,
-      "Дьяков Игорь Викторович": 35,
-      "Жукова Галина Алексеевна": 173,
-      "Каландаров Камилжан Хамутович": 8,
-      "Прохоров Дмитрий Юрьевич": 88,
-      "Против всех": 259
+      "gas:candidate-vibid:1001000121933": 61,
+      "gas:candidate-vibid:1001000195163": 5,
+      "gas:candidate-vibid:377300371003": 34,
+      "gas:candidate-vibid:1001000226006": 240,
+      "gas:candidate-vibid:1001000136148": 35,
+      "gas:candidate-vibid:377300370839": 173,
+      "gas:candidate-vibid:1001000190439": 8,
+      "gas:candidate-vibid:377300370842": 88,
+      "special:against-all": 259
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=773003004&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=377300370622&region=0&sub_region=0&type=429",
@@ -6132,15 +6132,15 @@ export const duma_2003_uik_428_region_77_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Басанец Павел Павлович": 92,
-      "Бегишвили Тенгиз Михайлович": 4,
-      "Берновский Михаил Юрьевич": 23,
-      "Гребенников Валерий Васильевич": 358,
-      "Дьяков Игорь Викторович": 16,
-      "Жукова Галина Алексеевна": 139,
-      "Каландаров Камилжан Хамутович": 7,
-      "Прохоров Дмитрий Юрьевич": 50,
-      "Против всех": 253
+      "gas:candidate-vibid:1001000121933": 92,
+      "gas:candidate-vibid:1001000195163": 4,
+      "gas:candidate-vibid:377300371003": 23,
+      "gas:candidate-vibid:1001000226006": 358,
+      "gas:candidate-vibid:1001000136148": 16,
+      "gas:candidate-vibid:377300370839": 139,
+      "gas:candidate-vibid:1001000190439": 7,
+      "gas:candidate-vibid:377300370842": 50,
+      "special:against-all": 253
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=773003004&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=377300370622&region=0&sub_region=0&type=429",
@@ -6190,15 +6190,15 @@ export const duma_2003_uik_428_region_77_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Басанец Павел Павлович": 88,
-      "Бегишвили Тенгиз Михайлович": 10,
-      "Берновский Михаил Юрьевич": 36,
-      "Гребенников Валерий Васильевич": 436,
-      "Дьяков Игорь Викторович": 34,
-      "Жукова Галина Алексеевна": 139,
-      "Каландаров Камилжан Хамутович": 13,
-      "Прохоров Дмитрий Юрьевич": 68,
-      "Против всех": 322
+      "gas:candidate-vibid:1001000121933": 88,
+      "gas:candidate-vibid:1001000195163": 10,
+      "gas:candidate-vibid:377300371003": 36,
+      "gas:candidate-vibid:1001000226006": 436,
+      "gas:candidate-vibid:1001000136148": 34,
+      "gas:candidate-vibid:377300370839": 139,
+      "gas:candidate-vibid:1001000190439": 13,
+      "gas:candidate-vibid:377300370842": 68,
+      "special:against-all": 322
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=773003004&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=377300370622&region=0&sub_region=0&type=429",
@@ -6248,15 +6248,15 @@ export const duma_2003_uik_428_region_77_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Басанец Павел Павлович": 151,
-      "Бегишвили Тенгиз Михайлович": 9,
-      "Берновский Михаил Юрьевич": 39,
-      "Гребенников Валерий Васильевич": 528,
-      "Дьяков Игорь Викторович": 42,
-      "Жукова Галина Алексеевна": 225,
-      "Каландаров Камилжан Хамутович": 18,
-      "Прохоров Дмитрий Юрьевич": 76,
-      "Против всех": 302
+      "gas:candidate-vibid:1001000121933": 151,
+      "gas:candidate-vibid:1001000195163": 9,
+      "gas:candidate-vibid:377300371003": 39,
+      "gas:candidate-vibid:1001000226006": 528,
+      "gas:candidate-vibid:1001000136148": 42,
+      "gas:candidate-vibid:377300370839": 225,
+      "gas:candidate-vibid:1001000190439": 18,
+      "gas:candidate-vibid:377300370842": 76,
+      "special:against-all": 302
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=773003004&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=377300370622&region=0&sub_region=0&type=429",
@@ -6306,15 +6306,15 @@ export const duma_2003_uik_428_region_77_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Басанец Павел Павлович": 180,
-      "Бегишвили Тенгиз Михайлович": 11,
-      "Берновский Михаил Юрьевич": 65,
-      "Гребенников Валерий Васильевич": 524,
-      "Дьяков Игорь Викторович": 34,
-      "Жукова Галина Алексеевна": 222,
-      "Каландаров Камилжан Хамутович": 18,
-      "Прохоров Дмитрий Юрьевич": 91,
-      "Против всех": 385
+      "gas:candidate-vibid:1001000121933": 180,
+      "gas:candidate-vibid:1001000195163": 11,
+      "gas:candidate-vibid:377300371003": 65,
+      "gas:candidate-vibid:1001000226006": 524,
+      "gas:candidate-vibid:1001000136148": 34,
+      "gas:candidate-vibid:377300370839": 222,
+      "gas:candidate-vibid:1001000190439": 18,
+      "gas:candidate-vibid:377300370842": 91,
+      "special:against-all": 385
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=773003004&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=377300370622&region=0&sub_region=0&type=429",
@@ -6364,15 +6364,15 @@ export const duma_2003_uik_428_region_77_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Басанец Павел Павлович": 113,
-      "Бегишвили Тенгиз Михайлович": 9,
-      "Берновский Михаил Юрьевич": 50,
-      "Гребенников Валерий Васильевич": 332,
-      "Дьяков Игорь Викторович": 38,
-      "Жукова Галина Алексеевна": 192,
-      "Каландаров Камилжан Хамутович": 14,
-      "Прохоров Дмитрий Юрьевич": 83,
-      "Против всех": 346
+      "gas:candidate-vibid:1001000121933": 113,
+      "gas:candidate-vibid:1001000195163": 9,
+      "gas:candidate-vibid:377300371003": 50,
+      "gas:candidate-vibid:1001000226006": 332,
+      "gas:candidate-vibid:1001000136148": 38,
+      "gas:candidate-vibid:377300370839": 192,
+      "gas:candidate-vibid:1001000190439": 14,
+      "gas:candidate-vibid:377300370842": 83,
+      "special:against-all": 346
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=773003004&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=377300370622&region=0&sub_region=0&type=429",
@@ -6422,15 +6422,15 @@ export const duma_2003_uik_428_region_77_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Басанец Павел Павлович": 151,
-      "Бегишвили Тенгиз Михайлович": 9,
-      "Берновский Михаил Юрьевич": 43,
-      "Гребенников Валерий Васильевич": 352,
-      "Дьяков Игорь Викторович": 43,
-      "Жукова Галина Алексеевна": 256,
-      "Каландаров Камилжан Хамутович": 16,
-      "Прохоров Дмитрий Юрьевич": 109,
-      "Против всех": 378
+      "gas:candidate-vibid:1001000121933": 151,
+      "gas:candidate-vibid:1001000195163": 9,
+      "gas:candidate-vibid:377300371003": 43,
+      "gas:candidate-vibid:1001000226006": 352,
+      "gas:candidate-vibid:1001000136148": 43,
+      "gas:candidate-vibid:377300370839": 256,
+      "gas:candidate-vibid:1001000190439": 16,
+      "gas:candidate-vibid:377300370842": 109,
+      "special:against-all": 378
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=773003004&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=377300370622&region=0&sub_region=0&type=429",
@@ -6480,15 +6480,15 @@ export const duma_2003_uik_428_region_77_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Басанец Павел Павлович": 121,
-      "Бегишвили Тенгиз Михайлович": 8,
-      "Берновский Михаил Юрьевич": 35,
-      "Гребенников Валерий Васильевич": 341,
-      "Дьяков Игорь Викторович": 51,
-      "Жукова Галина Алексеевна": 166,
-      "Каландаров Камилжан Хамутович": 17,
-      "Прохоров Дмитрий Юрьевич": 93,
-      "Против всех": 364
+      "gas:candidate-vibid:1001000121933": 121,
+      "gas:candidate-vibid:1001000195163": 8,
+      "gas:candidate-vibid:377300371003": 35,
+      "gas:candidate-vibid:1001000226006": 341,
+      "gas:candidate-vibid:1001000136148": 51,
+      "gas:candidate-vibid:377300370839": 166,
+      "gas:candidate-vibid:1001000190439": 17,
+      "gas:candidate-vibid:377300370842": 93,
+      "special:against-all": 364
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=773003004&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=377300370622&region=0&sub_region=0&type=429",
@@ -6538,15 +6538,15 @@ export const duma_2003_uik_428_region_77_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Басанец Павел Павлович": 140,
-      "Бегишвили Тенгиз Михайлович": 9,
-      "Берновский Михаил Юрьевич": 43,
-      "Гребенников Валерий Васильевич": 436,
-      "Дьяков Игорь Викторович": 41,
-      "Жукова Галина Алексеевна": 135,
-      "Каландаров Камилжан Хамутович": 27,
-      "Прохоров Дмитрий Юрьевич": 82,
-      "Против всех": 345
+      "gas:candidate-vibid:1001000121933": 140,
+      "gas:candidate-vibid:1001000195163": 9,
+      "gas:candidate-vibid:377300371003": 43,
+      "gas:candidate-vibid:1001000226006": 436,
+      "gas:candidate-vibid:1001000136148": 41,
+      "gas:candidate-vibid:377300370839": 135,
+      "gas:candidate-vibid:1001000190439": 27,
+      "gas:candidate-vibid:377300370842": 82,
+      "special:against-all": 345
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=773003004&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=377300370622&region=0&sub_region=0&type=429",
@@ -6596,15 +6596,15 @@ export const duma_2003_uik_428_region_77_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Басанец Павел Павлович": 94,
-      "Бегишвили Тенгиз Михайлович": 8,
-      "Берновский Михаил Юрьевич": 45,
-      "Гребенников Валерий Васильевич": 605,
-      "Дьяков Игорь Викторович": 34,
-      "Жукова Галина Алексеевна": 152,
-      "Каландаров Камилжан Хамутович": 13,
-      "Прохоров Дмитрий Юрьевич": 97,
-      "Против всех": 375
+      "gas:candidate-vibid:1001000121933": 94,
+      "gas:candidate-vibid:1001000195163": 8,
+      "gas:candidate-vibid:377300371003": 45,
+      "gas:candidate-vibid:1001000226006": 605,
+      "gas:candidate-vibid:1001000136148": 34,
+      "gas:candidate-vibid:377300370839": 152,
+      "gas:candidate-vibid:1001000190439": 13,
+      "gas:candidate-vibid:377300370842": 97,
+      "special:against-all": 375
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=773003004&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=377300370622&region=0&sub_region=0&type=429",
@@ -6654,15 +6654,15 @@ export const duma_2003_uik_428_region_77_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Басанец Павел Павлович": 127,
-      "Бегишвили Тенгиз Михайлович": 9,
-      "Берновский Михаил Юрьевич": 46,
-      "Гребенников Валерий Васильевич": 459,
-      "Дьяков Игорь Викторович": 51,
-      "Жукова Галина Алексеевна": 234,
-      "Каландаров Камилжан Хамутович": 21,
-      "Прохоров Дмитрий Юрьевич": 111,
-      "Против всех": 407
+      "gas:candidate-vibid:1001000121933": 127,
+      "gas:candidate-vibid:1001000195163": 9,
+      "gas:candidate-vibid:377300371003": 46,
+      "gas:candidate-vibid:1001000226006": 459,
+      "gas:candidate-vibid:1001000136148": 51,
+      "gas:candidate-vibid:377300370839": 234,
+      "gas:candidate-vibid:1001000190439": 21,
+      "gas:candidate-vibid:377300370842": 111,
+      "special:against-all": 407
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=773003004&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=377300370622&region=0&sub_region=0&type=429",
@@ -6712,15 +6712,15 @@ export const duma_2003_uik_428_region_77_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Басанец Павел Павлович": 126,
-      "Бегишвили Тенгиз Михайлович": 4,
-      "Берновский Михаил Юрьевич": 66,
-      "Гребенников Валерий Васильевич": 453,
-      "Дьяков Игорь Викторович": 48,
-      "Жукова Галина Алексеевна": 198,
-      "Каландаров Камилжан Хамутович": 13,
-      "Прохоров Дмитрий Юрьевич": 84,
-      "Против всех": 370
+      "gas:candidate-vibid:1001000121933": 126,
+      "gas:candidate-vibid:1001000195163": 4,
+      "gas:candidate-vibid:377300371003": 66,
+      "gas:candidate-vibid:1001000226006": 453,
+      "gas:candidate-vibid:1001000136148": 48,
+      "gas:candidate-vibid:377300370839": 198,
+      "gas:candidate-vibid:1001000190439": 13,
+      "gas:candidate-vibid:377300370842": 84,
+      "special:against-all": 370
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=773003004&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=377300370622&region=0&sub_region=0&type=429",
@@ -6770,15 +6770,15 @@ export const duma_2003_uik_428_region_77_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Басанец Павел Павлович": 141,
-      "Бегишвили Тенгиз Михайлович": 8,
-      "Берновский Михаил Юрьевич": 34,
-      "Гребенников Валерий Васильевич": 388,
-      "Дьяков Игорь Викторович": 66,
-      "Жукова Галина Алексеевна": 154,
-      "Каландаров Камилжан Хамутович": 25,
-      "Прохоров Дмитрий Юрьевич": 79,
-      "Против всех": 359
+      "gas:candidate-vibid:1001000121933": 141,
+      "gas:candidate-vibid:1001000195163": 8,
+      "gas:candidate-vibid:377300371003": 34,
+      "gas:candidate-vibid:1001000226006": 388,
+      "gas:candidate-vibid:1001000136148": 66,
+      "gas:candidate-vibid:377300370839": 154,
+      "gas:candidate-vibid:1001000190439": 25,
+      "gas:candidate-vibid:377300370842": 79,
+      "special:against-all": 359
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=773003004&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=377300370622&region=0&sub_region=0&type=429",
@@ -6828,15 +6828,15 @@ export const duma_2003_uik_428_region_77_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Басанец Павел Павлович": 125,
-      "Бегишвили Тенгиз Михайлович": 8,
-      "Берновский Михаил Юрьевич": 37,
-      "Гребенников Валерий Васильевич": 539,
-      "Дьяков Игорь Викторович": 47,
-      "Жукова Галина Алексеевна": 165,
-      "Каландаров Камилжан Хамутович": 19,
-      "Прохоров Дмитрий Юрьевич": 82,
-      "Против всех": 417
+      "gas:candidate-vibid:1001000121933": 125,
+      "gas:candidate-vibid:1001000195163": 8,
+      "gas:candidate-vibid:377300371003": 37,
+      "gas:candidate-vibid:1001000226006": 539,
+      "gas:candidate-vibid:1001000136148": 47,
+      "gas:candidate-vibid:377300370839": 165,
+      "gas:candidate-vibid:1001000190439": 19,
+      "gas:candidate-vibid:377300370842": 82,
+      "special:against-all": 417
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=773003004&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=377300370622&region=0&sub_region=0&type=429",
@@ -6886,15 +6886,15 @@ export const duma_2003_uik_428_region_77_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Басанец Павел Павлович": 145,
-      "Бегишвили Тенгиз Михайлович": 10,
-      "Берновский Михаил Юрьевич": 57,
-      "Гребенников Валерий Васильевич": 382,
-      "Дьяков Игорь Викторович": 44,
-      "Жукова Галина Алексеевна": 177,
-      "Каландаров Камилжан Хамутович": 15,
-      "Прохоров Дмитрий Юрьевич": 107,
-      "Против всех": 348
+      "gas:candidate-vibid:1001000121933": 145,
+      "gas:candidate-vibid:1001000195163": 10,
+      "gas:candidate-vibid:377300371003": 57,
+      "gas:candidate-vibid:1001000226006": 382,
+      "gas:candidate-vibid:1001000136148": 44,
+      "gas:candidate-vibid:377300370839": 177,
+      "gas:candidate-vibid:1001000190439": 15,
+      "gas:candidate-vibid:377300370842": 107,
+      "special:against-all": 348
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=773003004&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=377300370622&region=0&sub_region=0&type=429",
@@ -6944,15 +6944,15 @@ export const duma_2003_uik_428_region_77_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Басанец Павел Павлович": 185,
-      "Бегишвили Тенгиз Михайлович": 11,
-      "Берновский Михаил Юрьевич": 75,
-      "Гребенников Валерий Васильевич": 422,
-      "Дьяков Игорь Викторович": 48,
-      "Жукова Галина Алексеевна": 198,
-      "Каландаров Камилжан Хамутович": 25,
-      "Прохоров Дмитрий Юрьевич": 116,
-      "Против всех": 436
+      "gas:candidate-vibid:1001000121933": 185,
+      "gas:candidate-vibid:1001000195163": 11,
+      "gas:candidate-vibid:377300371003": 75,
+      "gas:candidate-vibid:1001000226006": 422,
+      "gas:candidate-vibid:1001000136148": 48,
+      "gas:candidate-vibid:377300370839": 198,
+      "gas:candidate-vibid:1001000190439": 25,
+      "gas:candidate-vibid:377300370842": 116,
+      "special:against-all": 436
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=773003004&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=377300370622&region=0&sub_region=0&type=429",
@@ -7002,15 +7002,15 @@ export const duma_2003_uik_428_region_77_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Басанец Павел Павлович": 193,
-      "Бегишвили Тенгиз Михайлович": 7,
-      "Берновский Михаил Юрьевич": 98,
-      "Гребенников Валерий Васильевич": 394,
-      "Дьяков Игорь Викторович": 44,
-      "Жукова Галина Алексеевна": 187,
-      "Каландаров Камилжан Хамутович": 13,
-      "Прохоров Дмитрий Юрьевич": 119,
-      "Против всех": 360
+      "gas:candidate-vibid:1001000121933": 193,
+      "gas:candidate-vibid:1001000195163": 7,
+      "gas:candidate-vibid:377300371003": 98,
+      "gas:candidate-vibid:1001000226006": 394,
+      "gas:candidate-vibid:1001000136148": 44,
+      "gas:candidate-vibid:377300370839": 187,
+      "gas:candidate-vibid:1001000190439": 13,
+      "gas:candidate-vibid:377300370842": 119,
+      "special:against-all": 360
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=773003004&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=377300370622&region=0&sub_region=0&type=429",
@@ -7060,15 +7060,15 @@ export const duma_2003_uik_428_region_77_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Басанец Павел Павлович": 158,
-      "Бегишвили Тенгиз Михайлович": 8,
-      "Берновский Михаил Юрьевич": 106,
-      "Гребенников Валерий Васильевич": 334,
-      "Дьяков Игорь Викторович": 39,
-      "Жукова Галина Алексеевна": 276,
-      "Каландаров Камилжан Хамутович": 24,
-      "Прохоров Дмитрий Юрьевич": 120,
-      "Против всех": 294
+      "gas:candidate-vibid:1001000121933": 158,
+      "gas:candidate-vibid:1001000195163": 8,
+      "gas:candidate-vibid:377300371003": 106,
+      "gas:candidate-vibid:1001000226006": 334,
+      "gas:candidate-vibid:1001000136148": 39,
+      "gas:candidate-vibid:377300370839": 276,
+      "gas:candidate-vibid:1001000190439": 24,
+      "gas:candidate-vibid:377300370842": 120,
+      "special:against-all": 294
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=773003004&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=377300370622&region=0&sub_region=0&type=429",
@@ -7118,15 +7118,15 @@ export const duma_2003_uik_428_region_77_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Басанец Павел Павлович": 131,
-      "Бегишвили Тенгиз Михайлович": 7,
-      "Берновский Михаил Юрьевич": 82,
-      "Гребенников Валерий Васильевич": 351,
-      "Дьяков Игорь Викторович": 56,
-      "Жукова Галина Алексеевна": 206,
-      "Каландаров Камилжан Хамутович": 29,
-      "Прохоров Дмитрий Юрьевич": 105,
-      "Против всех": 373
+      "gas:candidate-vibid:1001000121933": 131,
+      "gas:candidate-vibid:1001000195163": 7,
+      "gas:candidate-vibid:377300371003": 82,
+      "gas:candidate-vibid:1001000226006": 351,
+      "gas:candidate-vibid:1001000136148": 56,
+      "gas:candidate-vibid:377300370839": 206,
+      "gas:candidate-vibid:1001000190439": 29,
+      "gas:candidate-vibid:377300370842": 105,
+      "special:against-all": 373
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=773003004&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=377300370622&region=0&sub_region=0&type=429",
@@ -7176,15 +7176,15 @@ export const duma_2003_uik_428_region_77_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Басанец Павел Павлович": 183,
-      "Бегишвили Тенгиз Михайлович": 12,
-      "Берновский Михаил Юрьевич": 54,
-      "Гребенников Валерий Васильевич": 451,
-      "Дьяков Игорь Викторович": 55,
-      "Жукова Галина Алексеевна": 170,
-      "Каландаров Камилжан Хамутович": 19,
-      "Прохоров Дмитрий Юрьевич": 91,
-      "Против всех": 392
+      "gas:candidate-vibid:1001000121933": 183,
+      "gas:candidate-vibid:1001000195163": 12,
+      "gas:candidate-vibid:377300371003": 54,
+      "gas:candidate-vibid:1001000226006": 451,
+      "gas:candidate-vibid:1001000136148": 55,
+      "gas:candidate-vibid:377300370839": 170,
+      "gas:candidate-vibid:1001000190439": 19,
+      "gas:candidate-vibid:377300370842": 91,
+      "special:against-all": 392
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=773003004&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=377300370622&region=0&sub_region=0&type=429",
@@ -7234,15 +7234,15 @@ export const duma_2003_uik_428_region_77_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Басанец Павел Павлович": 11,
-      "Бегишвили Тенгиз Михайлович": 0,
-      "Берновский Михаил Юрьевич": 4,
-      "Гребенников Валерий Васильевич": 49,
-      "Дьяков Игорь Викторович": 5,
-      "Жукова Галина Алексеевна": 21,
-      "Каландаров Камилжан Хамутович": 4,
-      "Прохоров Дмитрий Юрьевич": 15,
-      "Против всех": 38
+      "gas:candidate-vibid:1001000121933": 11,
+      "gas:candidate-vibid:1001000195163": 0,
+      "gas:candidate-vibid:377300371003": 4,
+      "gas:candidate-vibid:1001000226006": 49,
+      "gas:candidate-vibid:1001000136148": 5,
+      "gas:candidate-vibid:377300370839": 21,
+      "gas:candidate-vibid:1001000190439": 4,
+      "gas:candidate-vibid:377300370842": 15,
+      "special:against-all": 38
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=773003004&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=377300370622&region=0&sub_region=0&type=429",
@@ -7292,15 +7292,15 @@ export const duma_2003_uik_428_region_77_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Басанец Павел Павлович": 8,
-      "Бегишвили Тенгиз Михайлович": 1,
-      "Берновский Михаил Юрьевич": 2,
-      "Гребенников Валерий Васильевич": 33,
-      "Дьяков Игорь Викторович": 5,
-      "Жукова Галина Алексеевна": 8,
-      "Каландаров Камилжан Хамутович": 3,
-      "Прохоров Дмитрий Юрьевич": 10,
-      "Против всех": 19
+      "gas:candidate-vibid:1001000121933": 8,
+      "gas:candidate-vibid:1001000195163": 1,
+      "gas:candidate-vibid:377300371003": 2,
+      "gas:candidate-vibid:1001000226006": 33,
+      "gas:candidate-vibid:1001000136148": 5,
+      "gas:candidate-vibid:377300370839": 8,
+      "gas:candidate-vibid:1001000190439": 3,
+      "gas:candidate-vibid:377300370842": 10,
+      "special:against-all": 19
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=773003004&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=377300370622&region=0&sub_region=0&type=429",
@@ -7350,15 +7350,15 @@ export const duma_2003_uik_428_region_77_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Басанец Павел Павлович": 114,
-      "Бегишвили Тенгиз Михайлович": 6,
-      "Берновский Михаил Юрьевич": 66,
-      "Гребенников Валерий Васильевич": 302,
-      "Дьяков Игорь Викторович": 46,
-      "Жукова Галина Алексеевна": 168,
-      "Каландаров Камилжан Хамутович": 32,
-      "Прохоров Дмитрий Юрьевич": 101,
-      "Против всех": 364
+      "gas:candidate-vibid:1001000121933": 114,
+      "gas:candidate-vibid:1001000195163": 6,
+      "gas:candidate-vibid:377300371003": 66,
+      "gas:candidate-vibid:1001000226006": 302,
+      "gas:candidate-vibid:1001000136148": 46,
+      "gas:candidate-vibid:377300370839": 168,
+      "gas:candidate-vibid:1001000190439": 32,
+      "gas:candidate-vibid:377300370842": 101,
+      "special:against-all": 364
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=773003005&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=377300370623&region=0&sub_region=0&type=429",
@@ -7408,15 +7408,15 @@ export const duma_2003_uik_428_region_77_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Басанец Павел Павлович": 150,
-      "Бегишвили Тенгиз Михайлович": 10,
-      "Берновский Михаил Юрьевич": 92,
-      "Гребенников Валерий Васильевич": 346,
-      "Дьяков Игорь Викторович": 31,
-      "Жукова Галина Алексеевна": 207,
-      "Каландаров Камилжан Хамутович": 34,
-      "Прохоров Дмитрий Юрьевич": 103,
-      "Против всех": 409
+      "gas:candidate-vibid:1001000121933": 150,
+      "gas:candidate-vibid:1001000195163": 10,
+      "gas:candidate-vibid:377300371003": 92,
+      "gas:candidate-vibid:1001000226006": 346,
+      "gas:candidate-vibid:1001000136148": 31,
+      "gas:candidate-vibid:377300370839": 207,
+      "gas:candidate-vibid:1001000190439": 34,
+      "gas:candidate-vibid:377300370842": 103,
+      "special:against-all": 409
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=773003005&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=377300370623&region=0&sub_region=0&type=429",
@@ -7466,15 +7466,15 @@ export const duma_2003_uik_428_region_77_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Басанец Павел Павлович": 81,
-      "Бегишвили Тенгиз Михайлович": 8,
-      "Берновский Михаил Юрьевич": 41,
-      "Гребенников Валерий Васильевич": 246,
-      "Дьяков Игорь Викторович": 37,
-      "Жукова Галина Алексеевна": 157,
-      "Каландаров Камилжан Хамутович": 9,
-      "Прохоров Дмитрий Юрьевич": 75,
-      "Против всех": 225
+      "gas:candidate-vibid:1001000121933": 81,
+      "gas:candidate-vibid:1001000195163": 8,
+      "gas:candidate-vibid:377300371003": 41,
+      "gas:candidate-vibid:1001000226006": 246,
+      "gas:candidate-vibid:1001000136148": 37,
+      "gas:candidate-vibid:377300370839": 157,
+      "gas:candidate-vibid:1001000190439": 9,
+      "gas:candidate-vibid:377300370842": 75,
+      "special:against-all": 225
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=773003005&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=377300370623&region=0&sub_region=0&type=429",
@@ -7524,15 +7524,15 @@ export const duma_2003_uik_428_region_77_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Басанец Павел Павлович": 107,
-      "Бегишвили Тенгиз Михайлович": 9,
-      "Берновский Михаил Юрьевич": 53,
-      "Гребенников Валерий Васильевич": 390,
-      "Дьяков Игорь Викторович": 30,
-      "Жукова Галина Алексеевна": 164,
-      "Каландаров Камилжан Хамутович": 16,
-      "Прохоров Дмитрий Юрьевич": 89,
-      "Против всех": 337
+      "gas:candidate-vibid:1001000121933": 107,
+      "gas:candidate-vibid:1001000195163": 9,
+      "gas:candidate-vibid:377300371003": 53,
+      "gas:candidate-vibid:1001000226006": 390,
+      "gas:candidate-vibid:1001000136148": 30,
+      "gas:candidate-vibid:377300370839": 164,
+      "gas:candidate-vibid:1001000190439": 16,
+      "gas:candidate-vibid:377300370842": 89,
+      "special:against-all": 337
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=773003005&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=377300370623&region=0&sub_region=0&type=429",
@@ -7582,15 +7582,15 @@ export const duma_2003_uik_428_region_77_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Басанец Павел Павлович": 133,
-      "Бегишвили Тенгиз Михайлович": 18,
-      "Берновский Михаил Юрьевич": 50,
-      "Гребенников Валерий Васильевич": 332,
-      "Дьяков Игорь Викторович": 63,
-      "Жукова Галина Алексеевна": 213,
-      "Каландаров Камилжан Хамутович": 17,
-      "Прохоров Дмитрий Юрьевич": 110,
-      "Против всех": 419
+      "gas:candidate-vibid:1001000121933": 133,
+      "gas:candidate-vibid:1001000195163": 18,
+      "gas:candidate-vibid:377300371003": 50,
+      "gas:candidate-vibid:1001000226006": 332,
+      "gas:candidate-vibid:1001000136148": 63,
+      "gas:candidate-vibid:377300370839": 213,
+      "gas:candidate-vibid:1001000190439": 17,
+      "gas:candidate-vibid:377300370842": 110,
+      "special:against-all": 419
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=773003005&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=377300370623&region=0&sub_region=0&type=429",
@@ -7640,15 +7640,15 @@ export const duma_2003_uik_428_region_77_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Басанец Павел Павлович": 85,
-      "Бегишвили Тенгиз Михайлович": 4,
-      "Берновский Михаил Юрьевич": 74,
-      "Гребенников Валерий Васильевич": 338,
-      "Дьяков Игорь Викторович": 54,
-      "Жукова Галина Алексеевна": 188,
-      "Каландаров Камилжан Хамутович": 31,
-      "Прохоров Дмитрий Юрьевич": 80,
-      "Против всех": 442
+      "gas:candidate-vibid:1001000121933": 85,
+      "gas:candidate-vibid:1001000195163": 4,
+      "gas:candidate-vibid:377300371003": 74,
+      "gas:candidate-vibid:1001000226006": 338,
+      "gas:candidate-vibid:1001000136148": 54,
+      "gas:candidate-vibid:377300370839": 188,
+      "gas:candidate-vibid:1001000190439": 31,
+      "gas:candidate-vibid:377300370842": 80,
+      "special:against-all": 442
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=773003005&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=377300370623&region=0&sub_region=0&type=429",
@@ -7698,15 +7698,15 @@ export const duma_2003_uik_428_region_77_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Басанец Павел Павлович": 83,
-      "Бегишвили Тенгиз Михайлович": 5,
-      "Берновский Михаил Юрьевич": 41,
-      "Гребенников Валерий Васильевич": 281,
-      "Дьяков Игорь Викторович": 41,
-      "Жукова Галина Алексеевна": 163,
-      "Каландаров Камилжан Хамутович": 21,
-      "Прохоров Дмитрий Юрьевич": 78,
-      "Против всех": 309
+      "gas:candidate-vibid:1001000121933": 83,
+      "gas:candidate-vibid:1001000195163": 5,
+      "gas:candidate-vibid:377300371003": 41,
+      "gas:candidate-vibid:1001000226006": 281,
+      "gas:candidate-vibid:1001000136148": 41,
+      "gas:candidate-vibid:377300370839": 163,
+      "gas:candidate-vibid:1001000190439": 21,
+      "gas:candidate-vibid:377300370842": 78,
+      "special:against-all": 309
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=773003005&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=377300370623&region=0&sub_region=0&type=429",
@@ -7756,15 +7756,15 @@ export const duma_2003_uik_428_region_77_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Басанец Павел Павлович": 107,
-      "Бегишвили Тенгиз Михайлович": 20,
-      "Берновский Михаил Юрьевич": 57,
-      "Гребенников Валерий Васильевич": 374,
-      "Дьяков Игорь Викторович": 41,
-      "Жукова Галина Алексеевна": 178,
-      "Каландаров Камилжан Хамутович": 30,
-      "Прохоров Дмитрий Юрьевич": 75,
-      "Против всех": 411
+      "gas:candidate-vibid:1001000121933": 107,
+      "gas:candidate-vibid:1001000195163": 20,
+      "gas:candidate-vibid:377300371003": 57,
+      "gas:candidate-vibid:1001000226006": 374,
+      "gas:candidate-vibid:1001000136148": 41,
+      "gas:candidate-vibid:377300370839": 178,
+      "gas:candidate-vibid:1001000190439": 30,
+      "gas:candidate-vibid:377300370842": 75,
+      "special:against-all": 411
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=773003005&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=377300370623&region=0&sub_region=0&type=429",
@@ -7814,15 +7814,15 @@ export const duma_2003_uik_428_region_77_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Басанец Павел Павлович": 138,
-      "Бегишвили Тенгиз Михайлович": 13,
-      "Берновский Михаил Юрьевич": 63,
-      "Гребенников Валерий Васильевич": 342,
-      "Дьяков Игорь Викторович": 44,
-      "Жукова Галина Алексеевна": 209,
-      "Каландаров Камилжан Хамутович": 34,
-      "Прохоров Дмитрий Юрьевич": 117,
-      "Против всех": 375
+      "gas:candidate-vibid:1001000121933": 138,
+      "gas:candidate-vibid:1001000195163": 13,
+      "gas:candidate-vibid:377300371003": 63,
+      "gas:candidate-vibid:1001000226006": 342,
+      "gas:candidate-vibid:1001000136148": 44,
+      "gas:candidate-vibid:377300370839": 209,
+      "gas:candidate-vibid:1001000190439": 34,
+      "gas:candidate-vibid:377300370842": 117,
+      "special:against-all": 375
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=773003005&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=377300370623&region=0&sub_region=0&type=429",
@@ -7872,15 +7872,15 @@ export const duma_2003_uik_428_region_77_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Басанец Павел Павлович": 110,
-      "Бегишвили Тенгиз Михайлович": 8,
-      "Берновский Михаил Юрьевич": 82,
-      "Гребенников Валерий Васильевич": 410,
-      "Дьяков Игорь Викторович": 50,
-      "Жукова Галина Алексеевна": 272,
-      "Каландаров Камилжан Хамутович": 24,
-      "Прохоров Дмитрий Юрьевич": 111,
-      "Против всех": 476
+      "gas:candidate-vibid:1001000121933": 110,
+      "gas:candidate-vibid:1001000195163": 8,
+      "gas:candidate-vibid:377300371003": 82,
+      "gas:candidate-vibid:1001000226006": 410,
+      "gas:candidate-vibid:1001000136148": 50,
+      "gas:candidate-vibid:377300370839": 272,
+      "gas:candidate-vibid:1001000190439": 24,
+      "gas:candidate-vibid:377300370842": 111,
+      "special:against-all": 476
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=773003005&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=377300370623&region=0&sub_region=0&type=429",
@@ -7930,15 +7930,15 @@ export const duma_2003_uik_428_region_77_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Басанец Павел Павлович": 115,
-      "Бегишвили Тенгиз Михайлович": 8,
-      "Берновский Михаил Юрьевич": 52,
-      "Гребенников Валерий Васильевич": 351,
-      "Дьяков Игорь Викторович": 51,
-      "Жукова Галина Алексеевна": 192,
-      "Каландаров Камилжан Хамутович": 18,
-      "Прохоров Дмитрий Юрьевич": 83,
-      "Против всех": 462
+      "gas:candidate-vibid:1001000121933": 115,
+      "gas:candidate-vibid:1001000195163": 8,
+      "gas:candidate-vibid:377300371003": 52,
+      "gas:candidate-vibid:1001000226006": 351,
+      "gas:candidate-vibid:1001000136148": 51,
+      "gas:candidate-vibid:377300370839": 192,
+      "gas:candidate-vibid:1001000190439": 18,
+      "gas:candidate-vibid:377300370842": 83,
+      "special:against-all": 462
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=773003005&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=377300370623&region=0&sub_region=0&type=429",
@@ -7988,15 +7988,15 @@ export const duma_2003_uik_428_region_77_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Басанец Павел Павлович": 71,
-      "Бегишвили Тенгиз Михайлович": 7,
-      "Берновский Михаил Юрьевич": 30,
-      "Гребенников Валерий Васильевич": 290,
-      "Дьяков Игорь Викторович": 46,
-      "Жукова Галина Алексеевна": 175,
-      "Каландаров Камилжан Хамутович": 16,
-      "Прохоров Дмитрий Юрьевич": 59,
-      "Против всех": 332
+      "gas:candidate-vibid:1001000121933": 71,
+      "gas:candidate-vibid:1001000195163": 7,
+      "gas:candidate-vibid:377300371003": 30,
+      "gas:candidate-vibid:1001000226006": 290,
+      "gas:candidate-vibid:1001000136148": 46,
+      "gas:candidate-vibid:377300370839": 175,
+      "gas:candidate-vibid:1001000190439": 16,
+      "gas:candidate-vibid:377300370842": 59,
+      "special:against-all": 332
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=773003005&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=377300370623&region=0&sub_region=0&type=429",
@@ -8046,15 +8046,15 @@ export const duma_2003_uik_428_region_77_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Басанец Павел Павлович": 105,
-      "Бегишвили Тенгиз Михайлович": 7,
-      "Берновский Михаил Юрьевич": 61,
-      "Гребенников Валерий Васильевич": 297,
-      "Дьяков Игорь Викторович": 50,
-      "Жукова Галина Алексеевна": 195,
-      "Каландаров Камилжан Хамутович": 31,
-      "Прохоров Дмитрий Юрьевич": 89,
-      "Против всех": 433
+      "gas:candidate-vibid:1001000121933": 105,
+      "gas:candidate-vibid:1001000195163": 7,
+      "gas:candidate-vibid:377300371003": 61,
+      "gas:candidate-vibid:1001000226006": 297,
+      "gas:candidate-vibid:1001000136148": 50,
+      "gas:candidate-vibid:377300370839": 195,
+      "gas:candidate-vibid:1001000190439": 31,
+      "gas:candidate-vibid:377300370842": 89,
+      "special:against-all": 433
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=773003005&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=377300370623&region=0&sub_region=0&type=429",
@@ -8104,15 +8104,15 @@ export const duma_2003_uik_428_region_77_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Басанец Павел Павлович": 85,
-      "Бегишвили Тенгиз Михайлович": 15,
-      "Берновский Михаил Юрьевич": 43,
-      "Гребенников Валерий Васильевич": 406,
-      "Дьяков Игорь Викторович": 52,
-      "Жукова Галина Алексеевна": 225,
-      "Каландаров Камилжан Хамутович": 20,
-      "Прохоров Дмитрий Юрьевич": 78,
-      "Против всех": 421
+      "gas:candidate-vibid:1001000121933": 85,
+      "gas:candidate-vibid:1001000195163": 15,
+      "gas:candidate-vibid:377300371003": 43,
+      "gas:candidate-vibid:1001000226006": 406,
+      "gas:candidate-vibid:1001000136148": 52,
+      "gas:candidate-vibid:377300370839": 225,
+      "gas:candidate-vibid:1001000190439": 20,
+      "gas:candidate-vibid:377300370842": 78,
+      "special:against-all": 421
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=773003005&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=377300370623&region=0&sub_region=0&type=429",
@@ -8162,15 +8162,15 @@ export const duma_2003_uik_428_region_77_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Басанец Павел Павлович": 43,
-      "Бегишвили Тенгиз Михайлович": 11,
-      "Берновский Михаил Юрьевич": 39,
-      "Гребенников Валерий Васильевич": 277,
-      "Дьяков Игорь Викторович": 40,
-      "Жукова Галина Алексеевна": 142,
-      "Каландаров Камилжан Хамутович": 29,
-      "Прохоров Дмитрий Юрьевич": 60,
-      "Против всех": 321
+      "gas:candidate-vibid:1001000121933": 43,
+      "gas:candidate-vibid:1001000195163": 11,
+      "gas:candidate-vibid:377300371003": 39,
+      "gas:candidate-vibid:1001000226006": 277,
+      "gas:candidate-vibid:1001000136148": 40,
+      "gas:candidate-vibid:377300370839": 142,
+      "gas:candidate-vibid:1001000190439": 29,
+      "gas:candidate-vibid:377300370842": 60,
+      "special:against-all": 321
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=773003005&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=377300370623&region=0&sub_region=0&type=429",
@@ -8220,15 +8220,15 @@ export const duma_2003_uik_428_region_77_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Басанец Павел Павлович": 53,
-      "Бегишвили Тенгиз Михайлович": 5,
-      "Берновский Михаил Юрьевич": 46,
-      "Гребенников Валерий Васильевич": 378,
-      "Дьяков Игорь Викторович": 42,
-      "Жукова Галина Алексеевна": 177,
-      "Каландаров Камилжан Хамутович": 23,
-      "Прохоров Дмитрий Юрьевич": 56,
-      "Против всех": 362
+      "gas:candidate-vibid:1001000121933": 53,
+      "gas:candidate-vibid:1001000195163": 5,
+      "gas:candidate-vibid:377300371003": 46,
+      "gas:candidate-vibid:1001000226006": 378,
+      "gas:candidate-vibid:1001000136148": 42,
+      "gas:candidate-vibid:377300370839": 177,
+      "gas:candidate-vibid:1001000190439": 23,
+      "gas:candidate-vibid:377300370842": 56,
+      "special:against-all": 362
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=773003005&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=377300370623&region=0&sub_region=0&type=429",
@@ -8278,15 +8278,15 @@ export const duma_2003_uik_428_region_77_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Басанец Павел Павлович": 67,
-      "Бегишвили Тенгиз Михайлович": 23,
-      "Берновский Михаил Юрьевич": 55,
-      "Гребенников Валерий Васильевич": 315,
-      "Дьяков Игорь Викторович": 94,
-      "Жукова Галина Алексеевна": 177,
-      "Каландаров Камилжан Хамутович": 24,
-      "Прохоров Дмитрий Юрьевич": 55,
-      "Против всех": 427
+      "gas:candidate-vibid:1001000121933": 67,
+      "gas:candidate-vibid:1001000195163": 23,
+      "gas:candidate-vibid:377300371003": 55,
+      "gas:candidate-vibid:1001000226006": 315,
+      "gas:candidate-vibid:1001000136148": 94,
+      "gas:candidate-vibid:377300370839": 177,
+      "gas:candidate-vibid:1001000190439": 24,
+      "gas:candidate-vibid:377300370842": 55,
+      "special:against-all": 427
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=773003005&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=377300370623&region=0&sub_region=0&type=429",
@@ -8336,15 +8336,15 @@ export const duma_2003_uik_428_region_77_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Басанец Павел Павлович": 65,
-      "Бегишвили Тенгиз Михайлович": 1,
-      "Берновский Михаил Юрьевич": 26,
-      "Гребенников Валерий Васильевич": 384,
-      "Дьяков Игорь Викторович": 39,
-      "Жукова Галина Алексеевна": 163,
-      "Каландаров Камилжан Хамутович": 25,
-      "Прохоров Дмитрий Юрьевич": 67,
-      "Против всех": 316
+      "gas:candidate-vibid:1001000121933": 65,
+      "gas:candidate-vibid:1001000195163": 1,
+      "gas:candidate-vibid:377300371003": 26,
+      "gas:candidate-vibid:1001000226006": 384,
+      "gas:candidate-vibid:1001000136148": 39,
+      "gas:candidate-vibid:377300370839": 163,
+      "gas:candidate-vibid:1001000190439": 25,
+      "gas:candidate-vibid:377300370842": 67,
+      "special:against-all": 316
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=773003005&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=377300370623&region=0&sub_region=0&type=429",
@@ -8394,15 +8394,15 @@ export const duma_2003_uik_428_region_77_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Басанец Павел Павлович": 140,
-      "Бегишвили Тенгиз Михайлович": 17,
-      "Берновский Михаил Юрьевич": 88,
-      "Гребенников Валерий Васильевич": 359,
-      "Дьяков Игорь Викторович": 93,
-      "Жукова Галина Алексеевна": 144,
-      "Каландаров Камилжан Хамутович": 24,
-      "Прохоров Дмитрий Юрьевич": 52,
-      "Против всех": 384
+      "gas:candidate-vibid:1001000121933": 140,
+      "gas:candidate-vibid:1001000195163": 17,
+      "gas:candidate-vibid:377300371003": 88,
+      "gas:candidate-vibid:1001000226006": 359,
+      "gas:candidate-vibid:1001000136148": 93,
+      "gas:candidate-vibid:377300370839": 144,
+      "gas:candidate-vibid:1001000190439": 24,
+      "gas:candidate-vibid:377300370842": 52,
+      "special:against-all": 384
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=773003005&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=377300370623&region=0&sub_region=0&type=429",
@@ -8452,15 +8452,15 @@ export const duma_2003_uik_428_region_77_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Басанец Павел Павлович": 82,
-      "Бегишвили Тенгиз Михайлович": 11,
-      "Берновский Михаил Юрьевич": 60,
-      "Гребенников Валерий Васильевич": 306,
-      "Дьяков Игорь Викторович": 59,
-      "Жукова Галина Алексеевна": 152,
-      "Каландаров Камилжан Хамутович": 19,
-      "Прохоров Дмитрий Юрьевич": 75,
-      "Против всех": 421
+      "gas:candidate-vibid:1001000121933": 82,
+      "gas:candidate-vibid:1001000195163": 11,
+      "gas:candidate-vibid:377300371003": 60,
+      "gas:candidate-vibid:1001000226006": 306,
+      "gas:candidate-vibid:1001000136148": 59,
+      "gas:candidate-vibid:377300370839": 152,
+      "gas:candidate-vibid:1001000190439": 19,
+      "gas:candidate-vibid:377300370842": 75,
+      "special:against-all": 421
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=773003005&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=377300370623&region=0&sub_region=0&type=429",
@@ -8510,15 +8510,15 @@ export const duma_2003_uik_428_region_77_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Басанец Павел Павлович": 102,
-      "Бегишвили Тенгиз Михайлович": 7,
-      "Берновский Михаил Юрьевич": 68,
-      "Гребенников Валерий Васильевич": 353,
-      "Дьяков Игорь Викторович": 44,
-      "Жукова Галина Алексеевна": 162,
-      "Каландаров Камилжан Хамутович": 13,
-      "Прохоров Дмитрий Юрьевич": 58,
-      "Против всех": 414
+      "gas:candidate-vibid:1001000121933": 102,
+      "gas:candidate-vibid:1001000195163": 7,
+      "gas:candidate-vibid:377300371003": 68,
+      "gas:candidate-vibid:1001000226006": 353,
+      "gas:candidate-vibid:1001000136148": 44,
+      "gas:candidate-vibid:377300370839": 162,
+      "gas:candidate-vibid:1001000190439": 13,
+      "gas:candidate-vibid:377300370842": 58,
+      "special:against-all": 414
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=773003005&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=377300370623&region=0&sub_region=0&type=429",
@@ -8568,15 +8568,15 @@ export const duma_2003_uik_428_region_77_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Басанец Павел Павлович": 88,
-      "Бегишвили Тенгиз Михайлович": 7,
-      "Берновский Михаил Юрьевич": 60,
-      "Гребенников Валерий Васильевич": 427,
-      "Дьяков Игорь Викторович": 50,
-      "Жукова Галина Алексеевна": 220,
-      "Каландаров Камилжан Хамутович": 15,
-      "Прохоров Дмитрий Юрьевич": 51,
-      "Против всех": 362
+      "gas:candidate-vibid:1001000121933": 88,
+      "gas:candidate-vibid:1001000195163": 7,
+      "gas:candidate-vibid:377300371003": 60,
+      "gas:candidate-vibid:1001000226006": 427,
+      "gas:candidate-vibid:1001000136148": 50,
+      "gas:candidate-vibid:377300370839": 220,
+      "gas:candidate-vibid:1001000190439": 15,
+      "gas:candidate-vibid:377300370842": 51,
+      "special:against-all": 362
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=773003005&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=377300370623&region=0&sub_region=0&type=429",
@@ -8626,15 +8626,15 @@ export const duma_2003_uik_428_region_77_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Басанец Павел Павлович": 76,
-      "Бегишвили Тенгиз Михайлович": 8,
-      "Берновский Михаил Юрьевич": 54,
-      "Гребенников Валерий Васильевич": 308,
-      "Дьяков Игорь Викторович": 43,
-      "Жукова Галина Алексеевна": 163,
-      "Каландаров Камилжан Хамутович": 22,
-      "Прохоров Дмитрий Юрьевич": 71,
-      "Против всех": 370
+      "gas:candidate-vibid:1001000121933": 76,
+      "gas:candidate-vibid:1001000195163": 8,
+      "gas:candidate-vibid:377300371003": 54,
+      "gas:candidate-vibid:1001000226006": 308,
+      "gas:candidate-vibid:1001000136148": 43,
+      "gas:candidate-vibid:377300370839": 163,
+      "gas:candidate-vibid:1001000190439": 22,
+      "gas:candidate-vibid:377300370842": 71,
+      "special:against-all": 370
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=773003005&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=377300370623&region=0&sub_region=0&type=429",
@@ -8684,15 +8684,15 @@ export const duma_2003_uik_428_region_77_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Басанец Павел Павлович": 90,
-      "Бегишвили Тенгиз Михайлович": 11,
-      "Берновский Михаил Юрьевич": 72,
-      "Гребенников Валерий Васильевич": 389,
-      "Дьяков Игорь Викторович": 47,
-      "Жукова Галина Алексеевна": 204,
-      "Каландаров Камилжан Хамутович": 19,
-      "Прохоров Дмитрий Юрьевич": 65,
-      "Против всех": 388
+      "gas:candidate-vibid:1001000121933": 90,
+      "gas:candidate-vibid:1001000195163": 11,
+      "gas:candidate-vibid:377300371003": 72,
+      "gas:candidate-vibid:1001000226006": 389,
+      "gas:candidate-vibid:1001000136148": 47,
+      "gas:candidate-vibid:377300370839": 204,
+      "gas:candidate-vibid:1001000190439": 19,
+      "gas:candidate-vibid:377300370842": 65,
+      "special:against-all": 388
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=773003005&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=377300370623&region=0&sub_region=0&type=429",
@@ -8742,15 +8742,15 @@ export const duma_2003_uik_428_region_77_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Басанец Павел Павлович": 88,
-      "Бегишвили Тенгиз Михайлович": 10,
-      "Берновский Михаил Юрьевич": 74,
-      "Гребенников Валерий Васильевич": 371,
-      "Дьяков Игорь Викторович": 63,
-      "Жукова Галина Алексеевна": 214,
-      "Каландаров Камилжан Хамутович": 23,
-      "Прохоров Дмитрий Юрьевич": 69,
-      "Против всех": 418
+      "gas:candidate-vibid:1001000121933": 88,
+      "gas:candidate-vibid:1001000195163": 10,
+      "gas:candidate-vibid:377300371003": 74,
+      "gas:candidate-vibid:1001000226006": 371,
+      "gas:candidate-vibid:1001000136148": 63,
+      "gas:candidate-vibid:377300370839": 214,
+      "gas:candidate-vibid:1001000190439": 23,
+      "gas:candidate-vibid:377300370842": 69,
+      "special:against-all": 418
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=773003005&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=377300370623&region=0&sub_region=0&type=429",
@@ -8800,15 +8800,15 @@ export const duma_2003_uik_428_region_77_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Басанец Павел Павлович": 114,
-      "Бегишвили Тенгиз Михайлович": 12,
-      "Берновский Михаил Юрьевич": 105,
-      "Гребенников Валерий Васильевич": 387,
-      "Дьяков Игорь Викторович": 66,
-      "Жукова Галина Алексеевна": 177,
-      "Каландаров Камилжан Хамутович": 24,
-      "Прохоров Дмитрий Юрьевич": 58,
-      "Против всех": 478
+      "gas:candidate-vibid:1001000121933": 114,
+      "gas:candidate-vibid:1001000195163": 12,
+      "gas:candidate-vibid:377300371003": 105,
+      "gas:candidate-vibid:1001000226006": 387,
+      "gas:candidate-vibid:1001000136148": 66,
+      "gas:candidate-vibid:377300370839": 177,
+      "gas:candidate-vibid:1001000190439": 24,
+      "gas:candidate-vibid:377300370842": 58,
+      "special:against-all": 478
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=773003005&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=377300370623&region=0&sub_region=0&type=429",
@@ -8858,15 +8858,15 @@ export const duma_2003_uik_428_region_77_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Басанец Павел Павлович": 81,
-      "Бегишвили Тенгиз Михайлович": 11,
-      "Берновский Михаил Юрьевич": 74,
-      "Гребенников Валерий Васильевич": 364,
-      "Дьяков Игорь Викторович": 53,
-      "Жукова Галина Алексеевна": 211,
-      "Каландаров Камилжан Хамутович": 34,
-      "Прохоров Дмитрий Юрьевич": 64,
-      "Против всех": 502
+      "gas:candidate-vibid:1001000121933": 81,
+      "gas:candidate-vibid:1001000195163": 11,
+      "gas:candidate-vibid:377300371003": 74,
+      "gas:candidate-vibid:1001000226006": 364,
+      "gas:candidate-vibid:1001000136148": 53,
+      "gas:candidate-vibid:377300370839": 211,
+      "gas:candidate-vibid:1001000190439": 34,
+      "gas:candidate-vibid:377300370842": 64,
+      "special:against-all": 502
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=773003005&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=377300370623&region=0&sub_region=0&type=429",
@@ -8916,15 +8916,15 @@ export const duma_2003_uik_428_region_77_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Басанец Павел Павлович": 3,
-      "Бегишвили Тенгиз Михайлович": 0,
-      "Берновский Михаил Юрьевич": 1,
-      "Гребенников Валерий Васильевич": 6,
-      "Дьяков Игорь Викторович": 0,
-      "Жукова Галина Алексеевна": 4,
-      "Каландаров Камилжан Хамутович": 0,
-      "Прохоров Дмитрий Юрьевич": 3,
-      "Против всех": 21
+      "gas:candidate-vibid:1001000121933": 3,
+      "gas:candidate-vibid:1001000195163": 0,
+      "gas:candidate-vibid:377300371003": 1,
+      "gas:candidate-vibid:1001000226006": 6,
+      "gas:candidate-vibid:1001000136148": 0,
+      "gas:candidate-vibid:377300370839": 4,
+      "gas:candidate-vibid:1001000190439": 0,
+      "gas:candidate-vibid:377300370842": 3,
+      "special:against-all": 21
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=773003005&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=377300370623&region=0&sub_region=0&type=429",
@@ -8974,15 +8974,15 @@ export const duma_2003_uik_428_region_77_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Басанец Павел Павлович": 3,
-      "Бегишвили Тенгиз Михайлович": 0,
-      "Берновский Михаил Юрьевич": 0,
-      "Гребенников Валерий Васильевич": 8,
-      "Дьяков Игорь Викторович": 1,
-      "Жукова Галина Алексеевна": 6,
-      "Каландаров Камилжан Хамутович": 0,
-      "Прохоров Дмитрий Юрьевич": 1,
-      "Против всех": 5
+      "gas:candidate-vibid:1001000121933": 3,
+      "gas:candidate-vibid:1001000195163": 0,
+      "gas:candidate-vibid:377300371003": 0,
+      "gas:candidate-vibid:1001000226006": 8,
+      "gas:candidate-vibid:1001000136148": 1,
+      "gas:candidate-vibid:377300370839": 6,
+      "gas:candidate-vibid:1001000190439": 0,
+      "gas:candidate-vibid:377300370842": 1,
+      "special:against-all": 5
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=773003005&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=377300370623&region=0&sub_region=0&type=429",
@@ -9032,15 +9032,15 @@ export const duma_2003_uik_428_region_77_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Басанец Павел Павлович": 17,
-      "Бегишвили Тенгиз Михайлович": 7,
-      "Берновский Михаил Юрьевич": 10,
-      "Гребенников Валерий Васильевич": 197,
-      "Дьяков Игорь Викторович": 16,
-      "Жукова Галина Алексеевна": 46,
-      "Каландаров Камилжан Хамутович": 7,
-      "Прохоров Дмитрий Юрьевич": 154,
-      "Против всех": 17
+      "gas:candidate-vibid:1001000121933": 17,
+      "gas:candidate-vibid:1001000195163": 7,
+      "gas:candidate-vibid:377300371003": 10,
+      "gas:candidate-vibid:1001000226006": 197,
+      "gas:candidate-vibid:1001000136148": 16,
+      "gas:candidate-vibid:377300370839": 46,
+      "gas:candidate-vibid:1001000190439": 7,
+      "gas:candidate-vibid:377300370842": 154,
+      "special:against-all": 17
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=773003005&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=377300370623&region=0&sub_region=0&type=429",
@@ -9090,15 +9090,15 @@ export const duma_2003_uik_428_region_77_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Басанец Павел Павлович": 63,
-      "Бегишвили Тенгиз Михайлович": 4,
-      "Берновский Михаил Юрьевич": 30,
-      "Гребенников Валерий Васильевич": 355,
-      "Дьяков Игорь Викторович": 35,
-      "Жукова Галина Алексеевна": 130,
-      "Каландаров Камилжан Хамутович": 13,
-      "Прохоров Дмитрий Юрьевич": 228,
-      "Против всех": 321
+      "gas:candidate-vibid:1001000121933": 63,
+      "gas:candidate-vibid:1001000195163": 4,
+      "gas:candidate-vibid:377300371003": 30,
+      "gas:candidate-vibid:1001000226006": 355,
+      "gas:candidate-vibid:1001000136148": 35,
+      "gas:candidate-vibid:377300370839": 130,
+      "gas:candidate-vibid:1001000190439": 13,
+      "gas:candidate-vibid:377300370842": 228,
+      "special:against-all": 321
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=773003006&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=377300370624&region=0&sub_region=0&type=429",
@@ -9148,15 +9148,15 @@ export const duma_2003_uik_428_region_77_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Басанец Павел Павлович": 72,
-      "Бегишвили Тенгиз Михайлович": 9,
-      "Берновский Михаил Юрьевич": 24,
-      "Гребенников Валерий Васильевич": 558,
-      "Дьяков Игорь Викторович": 36,
-      "Жукова Галина Алексеевна": 132,
-      "Каландаров Камилжан Хамутович": 18,
-      "Прохоров Дмитрий Юрьевич": 320,
-      "Против всех": 190
+      "gas:candidate-vibid:1001000121933": 72,
+      "gas:candidate-vibid:1001000195163": 9,
+      "gas:candidate-vibid:377300371003": 24,
+      "gas:candidate-vibid:1001000226006": 558,
+      "gas:candidate-vibid:1001000136148": 36,
+      "gas:candidate-vibid:377300370839": 132,
+      "gas:candidate-vibid:1001000190439": 18,
+      "gas:candidate-vibid:377300370842": 320,
+      "special:against-all": 190
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=773003006&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=377300370624&region=0&sub_region=0&type=429",
@@ -9206,15 +9206,15 @@ export const duma_2003_uik_428_region_77_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Басанец Павел Павлович": 83,
-      "Бегишвили Тенгиз Михайлович": 5,
-      "Берновский Михаил Юрьевич": 19,
-      "Гребенников Валерий Васильевич": 281,
-      "Дьяков Игорь Викторович": 51,
-      "Жукова Галина Алексеевна": 105,
-      "Каландаров Камилжан Хамутович": 12,
-      "Прохоров Дмитрий Юрьевич": 341,
-      "Против всех": 304
+      "gas:candidate-vibid:1001000121933": 83,
+      "gas:candidate-vibid:1001000195163": 5,
+      "gas:candidate-vibid:377300371003": 19,
+      "gas:candidate-vibid:1001000226006": 281,
+      "gas:candidate-vibid:1001000136148": 51,
+      "gas:candidate-vibid:377300370839": 105,
+      "gas:candidate-vibid:1001000190439": 12,
+      "gas:candidate-vibid:377300370842": 341,
+      "special:against-all": 304
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=773003006&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=377300370624&region=0&sub_region=0&type=429",
@@ -9264,15 +9264,15 @@ export const duma_2003_uik_428_region_77_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Басанец Павел Павлович": 88,
-      "Бегишвили Тенгиз Михайлович": 6,
-      "Берновский Михаил Юрьевич": 17,
-      "Гребенников Валерий Васильевич": 196,
-      "Дьяков Игорь Викторович": 20,
-      "Жукова Галина Алексеевна": 80,
-      "Каландаров Камилжан Хамутович": 9,
-      "Прохоров Дмитрий Юрьевич": 269,
-      "Против всех": 237
+      "gas:candidate-vibid:1001000121933": 88,
+      "gas:candidate-vibid:1001000195163": 6,
+      "gas:candidate-vibid:377300371003": 17,
+      "gas:candidate-vibid:1001000226006": 196,
+      "gas:candidate-vibid:1001000136148": 20,
+      "gas:candidate-vibid:377300370839": 80,
+      "gas:candidate-vibid:1001000190439": 9,
+      "gas:candidate-vibid:377300370842": 269,
+      "special:against-all": 237
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=773003006&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=377300370624&region=0&sub_region=0&type=429",
@@ -9322,15 +9322,15 @@ export const duma_2003_uik_428_region_77_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Басанец Павел Павлович": 53,
-      "Бегишвили Тенгиз Михайлович": 6,
-      "Берновский Михаил Юрьевич": 17,
-      "Гребенников Валерий Васильевич": 267,
-      "Дьяков Игорь Викторович": 24,
-      "Жукова Галина Алексеевна": 56,
-      "Каландаров Камилжан Хамутович": 12,
-      "Прохоров Дмитрий Юрьевич": 160,
-      "Против всех": 161
+      "gas:candidate-vibid:1001000121933": 53,
+      "gas:candidate-vibid:1001000195163": 6,
+      "gas:candidate-vibid:377300371003": 17,
+      "gas:candidate-vibid:1001000226006": 267,
+      "gas:candidate-vibid:1001000136148": 24,
+      "gas:candidate-vibid:377300370839": 56,
+      "gas:candidate-vibid:1001000190439": 12,
+      "gas:candidate-vibid:377300370842": 160,
+      "special:against-all": 161
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=773003006&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=377300370624&region=0&sub_region=0&type=429",
@@ -9380,15 +9380,15 @@ export const duma_2003_uik_428_region_77_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Басанец Павел Павлович": 111,
-      "Бегишвили Тенгиз Михайлович": 8,
-      "Берновский Михаил Юрьевич": 25,
-      "Гребенников Валерий Васильевич": 232,
-      "Дьяков Игорь Викторович": 29,
-      "Жукова Галина Алексеевна": 157,
-      "Каландаров Камилжан Хамутович": 23,
-      "Прохоров Дмитрий Юрьевич": 390,
-      "Против всех": 363
+      "gas:candidate-vibid:1001000121933": 111,
+      "gas:candidate-vibid:1001000195163": 8,
+      "gas:candidate-vibid:377300371003": 25,
+      "gas:candidate-vibid:1001000226006": 232,
+      "gas:candidate-vibid:1001000136148": 29,
+      "gas:candidate-vibid:377300370839": 157,
+      "gas:candidate-vibid:1001000190439": 23,
+      "gas:candidate-vibid:377300370842": 390,
+      "special:against-all": 363
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=773003006&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=377300370624&region=0&sub_region=0&type=429",
@@ -9438,15 +9438,15 @@ export const duma_2003_uik_428_region_77_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Басанец Павел Павлович": 103,
-      "Бегишвили Тенгиз Михайлович": 4,
-      "Берновский Михаил Юрьевич": 37,
-      "Гребенников Валерий Васильевич": 676,
-      "Дьяков Игорь Викторович": 41,
-      "Жукова Галина Алексеевна": 54,
-      "Каландаров Камилжан Хамутович": 15,
-      "Прохоров Дмитрий Юрьевич": 370,
-      "Против всех": 53
+      "gas:candidate-vibid:1001000121933": 103,
+      "gas:candidate-vibid:1001000195163": 4,
+      "gas:candidate-vibid:377300371003": 37,
+      "gas:candidate-vibid:1001000226006": 676,
+      "gas:candidate-vibid:1001000136148": 41,
+      "gas:candidate-vibid:377300370839": 54,
+      "gas:candidate-vibid:1001000190439": 15,
+      "gas:candidate-vibid:377300370842": 370,
+      "special:against-all": 53
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=773003006&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=377300370624&region=0&sub_region=0&type=429",
@@ -9496,15 +9496,15 @@ export const duma_2003_uik_428_region_77_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Басанец Павел Павлович": 52,
-      "Бегишвили Тенгиз Михайлович": 3,
-      "Берновский Михаил Юрьевич": 16,
-      "Гребенников Валерий Васильевич": 145,
-      "Дьяков Игорь Викторович": 14,
-      "Жукова Галина Алексеевна": 85,
-      "Каландаров Камилжан Хамутович": 19,
-      "Прохоров Дмитрий Юрьевич": 216,
-      "Против всех": 192
+      "gas:candidate-vibid:1001000121933": 52,
+      "gas:candidate-vibid:1001000195163": 3,
+      "gas:candidate-vibid:377300371003": 16,
+      "gas:candidate-vibid:1001000226006": 145,
+      "gas:candidate-vibid:1001000136148": 14,
+      "gas:candidate-vibid:377300370839": 85,
+      "gas:candidate-vibid:1001000190439": 19,
+      "gas:candidate-vibid:377300370842": 216,
+      "special:against-all": 192
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=773003006&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=377300370624&region=0&sub_region=0&type=429",
@@ -9554,15 +9554,15 @@ export const duma_2003_uik_428_region_77_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Басанец Павел Павлович": 57,
-      "Бегишвили Тенгиз Михайлович": 5,
-      "Берновский Михаил Юрьевич": 30,
-      "Гребенников Валерий Васильевич": 276,
-      "Дьяков Игорь Викторович": 34,
-      "Жукова Галина Алексеевна": 134,
-      "Каландаров Камилжан Хамутович": 15,
-      "Прохоров Дмитрий Юрьевич": 351,
-      "Против всех": 310
+      "gas:candidate-vibid:1001000121933": 57,
+      "gas:candidate-vibid:1001000195163": 5,
+      "gas:candidate-vibid:377300371003": 30,
+      "gas:candidate-vibid:1001000226006": 276,
+      "gas:candidate-vibid:1001000136148": 34,
+      "gas:candidate-vibid:377300370839": 134,
+      "gas:candidate-vibid:1001000190439": 15,
+      "gas:candidate-vibid:377300370842": 351,
+      "special:against-all": 310
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=773003006&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=377300370624&region=0&sub_region=0&type=429",
@@ -9612,15 +9612,15 @@ export const duma_2003_uik_428_region_77_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Басанец Павел Павлович": 58,
-      "Бегишвили Тенгиз Михайлович": 15,
-      "Берновский Михаил Юрьевич": 27,
-      "Гребенников Валерий Васильевич": 664,
-      "Дьяков Игорь Викторович": 48,
-      "Жукова Галина Алексеевна": 73,
-      "Каландаров Камилжан Хамутович": 9,
-      "Прохоров Дмитрий Юрьевич": 385,
-      "Против всех": 70
+      "gas:candidate-vibid:1001000121933": 58,
+      "gas:candidate-vibid:1001000195163": 15,
+      "gas:candidate-vibid:377300371003": 27,
+      "gas:candidate-vibid:1001000226006": 664,
+      "gas:candidate-vibid:1001000136148": 48,
+      "gas:candidate-vibid:377300370839": 73,
+      "gas:candidate-vibid:1001000190439": 9,
+      "gas:candidate-vibid:377300370842": 385,
+      "special:against-all": 70
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=773003006&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=377300370624&region=0&sub_region=0&type=429",
@@ -9670,15 +9670,15 @@ export const duma_2003_uik_428_region_77_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Басанец Павел Павлович": 115,
-      "Бегишвили Тенгиз Михайлович": 7,
-      "Берновский Михаил Юрьевич": 23,
-      "Гребенников Валерий Васильевич": 274,
-      "Дьяков Игорь Викторович": 44,
-      "Жукова Галина Алексеевна": 142,
-      "Каландаров Камилжан Хамутович": 10,
-      "Прохоров Дмитрий Юрьевич": 386,
-      "Против всех": 482
+      "gas:candidate-vibid:1001000121933": 115,
+      "gas:candidate-vibid:1001000195163": 7,
+      "gas:candidate-vibid:377300371003": 23,
+      "gas:candidate-vibid:1001000226006": 274,
+      "gas:candidate-vibid:1001000136148": 44,
+      "gas:candidate-vibid:377300370839": 142,
+      "gas:candidate-vibid:1001000190439": 10,
+      "gas:candidate-vibid:377300370842": 386,
+      "special:against-all": 482
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=773003006&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=377300370624&region=0&sub_region=0&type=429",
@@ -9728,15 +9728,15 @@ export const duma_2003_uik_428_region_77_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Басанец Павел Павлович": 66,
-      "Бегишвили Тенгиз Михайлович": 8,
-      "Берновский Михаил Юрьевич": 19,
-      "Гребенников Валерий Васильевич": 239,
-      "Дьяков Игорь Викторович": 33,
-      "Жукова Галина Алексеевна": 74,
-      "Каландаров Камилжан Хамутович": 7,
-      "Прохоров Дмитрий Юрьевич": 238,
-      "Против всех": 241
+      "gas:candidate-vibid:1001000121933": 66,
+      "gas:candidate-vibid:1001000195163": 8,
+      "gas:candidate-vibid:377300371003": 19,
+      "gas:candidate-vibid:1001000226006": 239,
+      "gas:candidate-vibid:1001000136148": 33,
+      "gas:candidate-vibid:377300370839": 74,
+      "gas:candidate-vibid:1001000190439": 7,
+      "gas:candidate-vibid:377300370842": 238,
+      "special:against-all": 241
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=773003006&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=377300370624&region=0&sub_region=0&type=429",
@@ -9786,15 +9786,15 @@ export const duma_2003_uik_428_region_77_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Басанец Павел Павлович": 115,
-      "Бегишвили Тенгиз Михайлович": 7,
-      "Берновский Михаил Юрьевич": 26,
-      "Гребенников Валерий Васильевич": 390,
-      "Дьяков Игорь Викторович": 35,
-      "Жукова Галина Алексеевна": 110,
-      "Каландаров Камилжан Хамутович": 15,
-      "Прохоров Дмитрий Юрьевич": 283,
-      "Против всех": 360
+      "gas:candidate-vibid:1001000121933": 115,
+      "gas:candidate-vibid:1001000195163": 7,
+      "gas:candidate-vibid:377300371003": 26,
+      "gas:candidate-vibid:1001000226006": 390,
+      "gas:candidate-vibid:1001000136148": 35,
+      "gas:candidate-vibid:377300370839": 110,
+      "gas:candidate-vibid:1001000190439": 15,
+      "gas:candidate-vibid:377300370842": 283,
+      "special:against-all": 360
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=773003006&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=377300370624&region=0&sub_region=0&type=429",
@@ -9844,15 +9844,15 @@ export const duma_2003_uik_428_region_77_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Басанец Павел Павлович": 40,
-      "Бегишвили Тенгиз Михайлович": 5,
-      "Берновский Михаил Юрьевич": 8,
-      "Гребенников Валерий Васильевич": 178,
-      "Дьяков Игорь Викторович": 16,
-      "Жукова Галина Алексеевна": 50,
-      "Каландаров Камилжан Хамутович": 3,
-      "Прохоров Дмитрий Юрьевич": 225,
-      "Против всех": 195
+      "gas:candidate-vibid:1001000121933": 40,
+      "gas:candidate-vibid:1001000195163": 5,
+      "gas:candidate-vibid:377300371003": 8,
+      "gas:candidate-vibid:1001000226006": 178,
+      "gas:candidate-vibid:1001000136148": 16,
+      "gas:candidate-vibid:377300370839": 50,
+      "gas:candidate-vibid:1001000190439": 3,
+      "gas:candidate-vibid:377300370842": 225,
+      "special:against-all": 195
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=773003006&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=377300370624&region=0&sub_region=0&type=429",
@@ -9902,15 +9902,15 @@ export const duma_2003_uik_428_region_77_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Басанец Павел Павлович": 60,
-      "Бегишвили Тенгиз Михайлович": 10,
-      "Берновский Михаил Юрьевич": 12,
-      "Гребенников Валерий Васильевич": 220,
-      "Дьяков Игорь Викторович": 22,
-      "Жукова Галина Алексеевна": 68,
-      "Каландаров Камилжан Хамутович": 6,
-      "Прохоров Дмитрий Юрьевич": 333,
-      "Против всех": 243
+      "gas:candidate-vibid:1001000121933": 60,
+      "gas:candidate-vibid:1001000195163": 10,
+      "gas:candidate-vibid:377300371003": 12,
+      "gas:candidate-vibid:1001000226006": 220,
+      "gas:candidate-vibid:1001000136148": 22,
+      "gas:candidate-vibid:377300370839": 68,
+      "gas:candidate-vibid:1001000190439": 6,
+      "gas:candidate-vibid:377300370842": 333,
+      "special:against-all": 243
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=773003006&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=377300370624&region=0&sub_region=0&type=429",
@@ -9960,15 +9960,15 @@ export const duma_2003_uik_428_region_77_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Басанец Павел Павлович": 45,
-      "Бегишвили Тенгиз Михайлович": 5,
-      "Берновский Михаил Юрьевич": 17,
-      "Гребенников Валерий Васильевич": 195,
-      "Дьяков Игорь Викторович": 12,
-      "Жукова Галина Алексеевна": 54,
-      "Каландаров Камилжан Хамутович": 8,
-      "Прохоров Дмитрий Юрьевич": 278,
-      "Против всех": 205
+      "gas:candidate-vibid:1001000121933": 45,
+      "gas:candidate-vibid:1001000195163": 5,
+      "gas:candidate-vibid:377300371003": 17,
+      "gas:candidate-vibid:1001000226006": 195,
+      "gas:candidate-vibid:1001000136148": 12,
+      "gas:candidate-vibid:377300370839": 54,
+      "gas:candidate-vibid:1001000190439": 8,
+      "gas:candidate-vibid:377300370842": 278,
+      "special:against-all": 205
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=773003006&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=377300370624&region=0&sub_region=0&type=429",
@@ -10018,15 +10018,15 @@ export const duma_2003_uik_428_region_77_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Басанец Павел Павлович": 88,
-      "Бегишвили Тенгиз Михайлович": 7,
-      "Берновский Михаил Юрьевич": 16,
-      "Гребенников Валерий Васильевич": 263,
-      "Дьяков Игорь Викторович": 45,
-      "Жукова Галина Алексеевна": 113,
-      "Каландаров Камилжан Хамутович": 18,
-      "Прохоров Дмитрий Юрьевич": 333,
-      "Против всех": 303
+      "gas:candidate-vibid:1001000121933": 88,
+      "gas:candidate-vibid:1001000195163": 7,
+      "gas:candidate-vibid:377300371003": 16,
+      "gas:candidate-vibid:1001000226006": 263,
+      "gas:candidate-vibid:1001000136148": 45,
+      "gas:candidate-vibid:377300370839": 113,
+      "gas:candidate-vibid:1001000190439": 18,
+      "gas:candidate-vibid:377300370842": 333,
+      "special:against-all": 303
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=773003006&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=377300370624&region=0&sub_region=0&type=429",
@@ -10076,15 +10076,15 @@ export const duma_2003_uik_428_region_77_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Басанец Павел Павлович": 79,
-      "Бегишвили Тенгиз Михайлович": 9,
-      "Берновский Михаил Юрьевич": 39,
-      "Гребенников Валерий Васильевич": 260,
-      "Дьяков Игорь Викторович": 41,
-      "Жукова Галина Алексеевна": 138,
-      "Каландаров Камилжан Хамутович": 13,
-      "Прохоров Дмитрий Юрьевич": 368,
-      "Против всех": 381
+      "gas:candidate-vibid:1001000121933": 79,
+      "gas:candidate-vibid:1001000195163": 9,
+      "gas:candidate-vibid:377300371003": 39,
+      "gas:candidate-vibid:1001000226006": 260,
+      "gas:candidate-vibid:1001000136148": 41,
+      "gas:candidate-vibid:377300370839": 138,
+      "gas:candidate-vibid:1001000190439": 13,
+      "gas:candidate-vibid:377300370842": 368,
+      "special:against-all": 381
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=773003006&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=377300370624&region=0&sub_region=0&type=429",
@@ -10134,15 +10134,15 @@ export const duma_2003_uik_428_region_77_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Басанец Павел Павлович": 99,
-      "Бегишвили Тенгиз Михайлович": 7,
-      "Берновский Михаил Юрьевич": 34,
-      "Гребенников Валерий Васильевич": 300,
-      "Дьяков Игорь Викторович": 39,
-      "Жукова Галина Алексеевна": 135,
-      "Каландаров Камилжан Хамутович": 22,
-      "Прохоров Дмитрий Юрьевич": 436,
-      "Против всех": 341
+      "gas:candidate-vibid:1001000121933": 99,
+      "gas:candidate-vibid:1001000195163": 7,
+      "gas:candidate-vibid:377300371003": 34,
+      "gas:candidate-vibid:1001000226006": 300,
+      "gas:candidate-vibid:1001000136148": 39,
+      "gas:candidate-vibid:377300370839": 135,
+      "gas:candidate-vibid:1001000190439": 22,
+      "gas:candidate-vibid:377300370842": 436,
+      "special:against-all": 341
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=773003006&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=377300370624&region=0&sub_region=0&type=429",
@@ -10192,15 +10192,15 @@ export const duma_2003_uik_428_region_77_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Басанец Павел Павлович": 113,
-      "Бегишвили Тенгиз Михайлович": 6,
-      "Берновский Михаил Юрьевич": 39,
-      "Гребенников Валерий Васильевич": 293,
-      "Дьяков Игорь Викторович": 43,
-      "Жукова Галина Алексеевна": 178,
-      "Каландаров Камилжан Хамутович": 13,
-      "Прохоров Дмитрий Юрьевич": 321,
-      "Против всех": 443
+      "gas:candidate-vibid:1001000121933": 113,
+      "gas:candidate-vibid:1001000195163": 6,
+      "gas:candidate-vibid:377300371003": 39,
+      "gas:candidate-vibid:1001000226006": 293,
+      "gas:candidate-vibid:1001000136148": 43,
+      "gas:candidate-vibid:377300370839": 178,
+      "gas:candidate-vibid:1001000190439": 13,
+      "gas:candidate-vibid:377300370842": 321,
+      "special:against-all": 443
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=773003006&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=377300370624&region=0&sub_region=0&type=429",
@@ -10250,15 +10250,15 @@ export const duma_2003_uik_428_region_77_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Басанец Павел Павлович": 104,
-      "Бегишвили Тенгиз Михайлович": 8,
-      "Берновский Михаил Юрьевич": 27,
-      "Гребенников Валерий Васильевич": 290,
-      "Дьяков Игорь Викторович": 29,
-      "Жукова Галина Алексеевна": 111,
-      "Каландаров Камилжан Хамутович": 13,
-      "Прохоров Дмитрий Юрьевич": 350,
-      "Против всех": 318
+      "gas:candidate-vibid:1001000121933": 104,
+      "gas:candidate-vibid:1001000195163": 8,
+      "gas:candidate-vibid:377300371003": 27,
+      "gas:candidate-vibid:1001000226006": 290,
+      "gas:candidate-vibid:1001000136148": 29,
+      "gas:candidate-vibid:377300370839": 111,
+      "gas:candidate-vibid:1001000190439": 13,
+      "gas:candidate-vibid:377300370842": 350,
+      "special:against-all": 318
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=773003006&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=377300370624&region=0&sub_region=0&type=429",
@@ -10308,15 +10308,15 @@ export const duma_2003_uik_428_region_77_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Басанец Павел Павлович": 117,
-      "Бегишвили Тенгиз Михайлович": 10,
-      "Берновский Михаил Юрьевич": 34,
-      "Гребенников Валерий Васильевич": 359,
-      "Дьяков Игорь Викторович": 38,
-      "Жукова Галина Алексеевна": 137,
-      "Каландаров Камилжан Хамутович": 10,
-      "Прохоров Дмитрий Юрьевич": 428,
-      "Против всех": 304
+      "gas:candidate-vibid:1001000121933": 117,
+      "gas:candidate-vibid:1001000195163": 10,
+      "gas:candidate-vibid:377300371003": 34,
+      "gas:candidate-vibid:1001000226006": 359,
+      "gas:candidate-vibid:1001000136148": 38,
+      "gas:candidate-vibid:377300370839": 137,
+      "gas:candidate-vibid:1001000190439": 10,
+      "gas:candidate-vibid:377300370842": 428,
+      "special:against-all": 304
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=773003006&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=377300370624&region=0&sub_region=0&type=429",
@@ -10366,15 +10366,15 @@ export const duma_2003_uik_428_region_77_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Басанец Павел Павлович": 28,
-      "Бегишвили Тенгиз Михайлович": 2,
-      "Берновский Михаил Юрьевич": 8,
-      "Гребенников Валерий Васильевич": 277,
-      "Дьяков Игорь Викторович": 26,
-      "Жукова Галина Алексеевна": 51,
-      "Каландаров Камилжан Хамутович": 5,
-      "Прохоров Дмитрий Юрьевич": 171,
-      "Против всех": 55
+      "gas:candidate-vibid:1001000121933": 28,
+      "gas:candidate-vibid:1001000195163": 2,
+      "gas:candidate-vibid:377300371003": 8,
+      "gas:candidate-vibid:1001000226006": 277,
+      "gas:candidate-vibid:1001000136148": 26,
+      "gas:candidate-vibid:377300370839": 51,
+      "gas:candidate-vibid:1001000190439": 5,
+      "gas:candidate-vibid:377300370842": 171,
+      "special:against-all": 55
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=773003006&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=377300370624&region=0&sub_region=0&type=429",
@@ -10424,15 +10424,15 @@ export const duma_2003_uik_428_region_77_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Басанец Павел Павлович": 10,
-      "Бегишвили Тенгиз Михайлович": 1,
-      "Берновский Михаил Юрьевич": 1,
-      "Гребенников Валерий Васильевич": 71,
-      "Дьяков Игорь Викторович": 8,
-      "Жукова Галина Алексеевна": 15,
-      "Каландаров Камилжан Хамутович": 3,
-      "Прохоров Дмитрий Юрьевич": 22,
-      "Против всех": 28
+      "gas:candidate-vibid:1001000121933": 10,
+      "gas:candidate-vibid:1001000195163": 1,
+      "gas:candidate-vibid:377300371003": 1,
+      "gas:candidate-vibid:1001000226006": 71,
+      "gas:candidate-vibid:1001000136148": 8,
+      "gas:candidate-vibid:377300370839": 15,
+      "gas:candidate-vibid:1001000190439": 3,
+      "gas:candidate-vibid:377300370842": 22,
+      "special:against-all": 28
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=773003006&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=377300370624&region=0&sub_region=0&type=429",
@@ -10482,15 +10482,15 @@ export const duma_2003_uik_428_region_77_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Басанец Павел Павлович": 0,
-      "Бегишвили Тенгиз Михайлович": 0,
-      "Берновский Михаил Юрьевич": 1,
-      "Гребенников Валерий Васильевич": 12,
-      "Дьяков Игорь Викторович": 0,
-      "Жукова Галина Алексеевна": 0,
-      "Каландаров Камилжан Хамутович": 0,
-      "Прохоров Дмитрий Юрьевич": 3,
-      "Против всех": 10
+      "gas:candidate-vibid:1001000121933": 0,
+      "gas:candidate-vibid:1001000195163": 0,
+      "gas:candidate-vibid:377300371003": 1,
+      "gas:candidate-vibid:1001000226006": 12,
+      "gas:candidate-vibid:1001000136148": 0,
+      "gas:candidate-vibid:377300370839": 0,
+      "gas:candidate-vibid:1001000190439": 0,
+      "gas:candidate-vibid:377300370842": 3,
+      "special:against-all": 10
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=773003006&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=377300370624&region=0&sub_region=0&type=429",
@@ -10540,15 +10540,15 @@ export const duma_2003_uik_428_region_77_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Басанец Павел Павлович": 644,
-      "Бегишвили Тенгиз Михайлович": 7,
-      "Берновский Михаил Юрьевич": 51,
-      "Гребенников Валерий Васильевич": 277,
-      "Дьяков Игорь Викторович": 39,
-      "Жукова Галина Алексеевна": 175,
-      "Каландаров Камилжан Хамутович": 31,
-      "Прохоров Дмитрий Юрьевич": 153,
-      "Против всех": 375
+      "gas:candidate-vibid:1001000121933": 644,
+      "gas:candidate-vibid:1001000195163": 7,
+      "gas:candidate-vibid:377300371003": 51,
+      "gas:candidate-vibid:1001000226006": 277,
+      "gas:candidate-vibid:1001000136148": 39,
+      "gas:candidate-vibid:377300370839": 175,
+      "gas:candidate-vibid:1001000190439": 31,
+      "gas:candidate-vibid:377300370842": 153,
+      "special:against-all": 375
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=773003007&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=377300370625&region=0&sub_region=0&type=429",
@@ -10598,15 +10598,15 @@ export const duma_2003_uik_428_region_77_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Басанец Павел Павлович": 0,
-      "Бегишвили Тенгиз Михайлович": 0,
-      "Берновский Михаил Юрьевич": 0,
-      "Гребенников Валерий Васильевич": 393,
-      "Дьяков Игорь Викторович": 2,
-      "Жукова Галина Алексеевна": 25,
-      "Каландаров Камилжан Хамутович": 0,
-      "Прохоров Дмитрий Юрьевич": 0,
-      "Против всех": 2
+      "gas:candidate-vibid:1001000121933": 0,
+      "gas:candidate-vibid:1001000195163": 0,
+      "gas:candidate-vibid:377300371003": 0,
+      "gas:candidate-vibid:1001000226006": 393,
+      "gas:candidate-vibid:1001000136148": 2,
+      "gas:candidate-vibid:377300370839": 25,
+      "gas:candidate-vibid:1001000190439": 0,
+      "gas:candidate-vibid:377300370842": 0,
+      "special:against-all": 2
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=773003007&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=377300370625&region=0&sub_region=0&type=429",
@@ -10656,15 +10656,15 @@ export const duma_2003_uik_428_region_77_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Басанец Павел Павлович": 112,
-      "Бегишвили Тенгиз Михайлович": 5,
-      "Берновский Михаил Юрьевич": 27,
-      "Гребенников Валерий Васильевич": 406,
-      "Дьяков Игорь Викторович": 35,
-      "Жукова Галина Алексеевна": 85,
-      "Каландаров Камилжан Хамутович": 17,
-      "Прохоров Дмитрий Юрьевич": 139,
-      "Против всех": 285
+      "gas:candidate-vibid:1001000121933": 112,
+      "gas:candidate-vibid:1001000195163": 5,
+      "gas:candidate-vibid:377300371003": 27,
+      "gas:candidate-vibid:1001000226006": 406,
+      "gas:candidate-vibid:1001000136148": 35,
+      "gas:candidate-vibid:377300370839": 85,
+      "gas:candidate-vibid:1001000190439": 17,
+      "gas:candidate-vibid:377300370842": 139,
+      "special:against-all": 285
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=773003007&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=377300370625&region=0&sub_region=0&type=429",
@@ -10714,15 +10714,15 @@ export const duma_2003_uik_428_region_77_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Басанец Павел Павлович": 174,
-      "Бегишвили Тенгиз Михайлович": 6,
-      "Берновский Михаил Юрьевич": 21,
-      "Гребенников Валерий Васильевич": 415,
-      "Дьяков Игорь Викторович": 29,
-      "Жукова Галина Алексеевна": 123,
-      "Каландаров Камилжан Хамутович": 13,
-      "Прохоров Дмитрий Юрьевич": 199,
-      "Против всех": 276
+      "gas:candidate-vibid:1001000121933": 174,
+      "gas:candidate-vibid:1001000195163": 6,
+      "gas:candidate-vibid:377300371003": 21,
+      "gas:candidate-vibid:1001000226006": 415,
+      "gas:candidate-vibid:1001000136148": 29,
+      "gas:candidate-vibid:377300370839": 123,
+      "gas:candidate-vibid:1001000190439": 13,
+      "gas:candidate-vibid:377300370842": 199,
+      "special:against-all": 276
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=773003007&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=377300370625&region=0&sub_region=0&type=429",
@@ -10772,15 +10772,15 @@ export const duma_2003_uik_428_region_77_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Басанец Павел Павлович": 122,
-      "Бегишвили Тенгиз Михайлович": 6,
-      "Берновский Михаил Юрьевич": 16,
-      "Гребенников Валерий Васильевич": 447,
-      "Дьяков Игорь Викторович": 25,
-      "Жукова Галина Алексеевна": 131,
-      "Каландаров Камилжан Хамутович": 14,
-      "Прохоров Дмитрий Юрьевич": 149,
-      "Против всех": 287
+      "gas:candidate-vibid:1001000121933": 122,
+      "gas:candidate-vibid:1001000195163": 6,
+      "gas:candidate-vibid:377300371003": 16,
+      "gas:candidate-vibid:1001000226006": 447,
+      "gas:candidate-vibid:1001000136148": 25,
+      "gas:candidate-vibid:377300370839": 131,
+      "gas:candidate-vibid:1001000190439": 14,
+      "gas:candidate-vibid:377300370842": 149,
+      "special:against-all": 287
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=773003007&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=377300370625&region=0&sub_region=0&type=429",
@@ -10830,15 +10830,15 @@ export const duma_2003_uik_428_region_77_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Басанец Павел Павлович": 71,
-      "Бегишвили Тенгиз Михайлович": 3,
-      "Берновский Михаил Юрьевич": 31,
-      "Гребенников Валерий Васильевич": 388,
-      "Дьяков Игорь Викторович": 27,
-      "Жукова Галина Алексеевна": 142,
-      "Каландаров Камилжан Хамутович": 29,
-      "Прохоров Дмитрий Юрьевич": 192,
-      "Против всех": 304
+      "gas:candidate-vibid:1001000121933": 71,
+      "gas:candidate-vibid:1001000195163": 3,
+      "gas:candidate-vibid:377300371003": 31,
+      "gas:candidate-vibid:1001000226006": 388,
+      "gas:candidate-vibid:1001000136148": 27,
+      "gas:candidate-vibid:377300370839": 142,
+      "gas:candidate-vibid:1001000190439": 29,
+      "gas:candidate-vibid:377300370842": 192,
+      "special:against-all": 304
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=773003007&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=377300370625&region=0&sub_region=0&type=429",
@@ -10888,15 +10888,15 @@ export const duma_2003_uik_428_region_77_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Басанец Павел Павлович": 127,
-      "Бегишвили Тенгиз Михайлович": 7,
-      "Берновский Михаил Юрьевич": 47,
-      "Гребенников Валерий Васильевич": 491,
-      "Дьяков Игорь Викторович": 48,
-      "Жукова Галина Алексеевна": 204,
-      "Каландаров Камилжан Хамутович": 16,
-      "Прохоров Дмитрий Юрьевич": 202,
-      "Против всех": 355
+      "gas:candidate-vibid:1001000121933": 127,
+      "gas:candidate-vibid:1001000195163": 7,
+      "gas:candidate-vibid:377300371003": 47,
+      "gas:candidate-vibid:1001000226006": 491,
+      "gas:candidate-vibid:1001000136148": 48,
+      "gas:candidate-vibid:377300370839": 204,
+      "gas:candidate-vibid:1001000190439": 16,
+      "gas:candidate-vibid:377300370842": 202,
+      "special:against-all": 355
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=773003007&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=377300370625&region=0&sub_region=0&type=429",
@@ -10946,15 +10946,15 @@ export const duma_2003_uik_428_region_77_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Басанец Павел Павлович": 140,
-      "Бегишвили Тенгиз Михайлович": 12,
-      "Берновский Михаил Юрьевич": 47,
-      "Гребенников Валерий Васильевич": 517,
-      "Дьяков Игорь Викторович": 45,
-      "Жукова Галина Алексеевна": 148,
-      "Каландаров Камилжан Хамутович": 18,
-      "Прохоров Дмитрий Юрьевич": 200,
-      "Против всех": 398
+      "gas:candidate-vibid:1001000121933": 140,
+      "gas:candidate-vibid:1001000195163": 12,
+      "gas:candidate-vibid:377300371003": 47,
+      "gas:candidate-vibid:1001000226006": 517,
+      "gas:candidate-vibid:1001000136148": 45,
+      "gas:candidate-vibid:377300370839": 148,
+      "gas:candidate-vibid:1001000190439": 18,
+      "gas:candidate-vibid:377300370842": 200,
+      "special:against-all": 398
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=773003007&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=377300370625&region=0&sub_region=0&type=429",
@@ -11004,15 +11004,15 @@ export const duma_2003_uik_428_region_77_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Басанец Павел Павлович": 125,
-      "Бегишвили Тенгиз Михайлович": 13,
-      "Берновский Михаил Юрьевич": 40,
-      "Гребенников Валерий Васильевич": 448,
-      "Дьяков Игорь Викторович": 50,
-      "Жукова Галина Алексеевна": 178,
-      "Каландаров Камилжан Хамутович": 17,
-      "Прохоров Дмитрий Юрьевич": 170,
-      "Против всех": 349
+      "gas:candidate-vibid:1001000121933": 125,
+      "gas:candidate-vibid:1001000195163": 13,
+      "gas:candidate-vibid:377300371003": 40,
+      "gas:candidate-vibid:1001000226006": 448,
+      "gas:candidate-vibid:1001000136148": 50,
+      "gas:candidate-vibid:377300370839": 178,
+      "gas:candidate-vibid:1001000190439": 17,
+      "gas:candidate-vibid:377300370842": 170,
+      "special:against-all": 349
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=773003007&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=377300370625&region=0&sub_region=0&type=429",
@@ -11062,15 +11062,15 @@ export const duma_2003_uik_428_region_77_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Басанец Павел Павлович": 141,
-      "Бегишвили Тенгиз Михайлович": 6,
-      "Берновский Михаил Юрьевич": 47,
-      "Гребенников Валерий Васильевич": 465,
-      "Дьяков Игорь Викторович": 36,
-      "Жукова Галина Алексеевна": 176,
-      "Каландаров Камилжан Хамутович": 20,
-      "Прохоров Дмитрий Юрьевич": 184,
-      "Против всех": 386
+      "gas:candidate-vibid:1001000121933": 141,
+      "gas:candidate-vibid:1001000195163": 6,
+      "gas:candidate-vibid:377300371003": 47,
+      "gas:candidate-vibid:1001000226006": 465,
+      "gas:candidate-vibid:1001000136148": 36,
+      "gas:candidate-vibid:377300370839": 176,
+      "gas:candidate-vibid:1001000190439": 20,
+      "gas:candidate-vibid:377300370842": 184,
+      "special:against-all": 386
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=773003007&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=377300370625&region=0&sub_region=0&type=429",
@@ -11120,15 +11120,15 @@ export const duma_2003_uik_428_region_77_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Басанец Павел Павлович": 128,
-      "Бегишвили Тенгиз Михайлович": 5,
-      "Берновский Михаил Юрьевич": 18,
-      "Гребенников Валерий Васильевич": 526,
-      "Дьяков Игорь Викторович": 40,
-      "Жукова Галина Алексеевна": 88,
-      "Каландаров Камилжан Хамутович": 20,
-      "Прохоров Дмитрий Юрьевич": 149,
-      "Против всех": 277
+      "gas:candidate-vibid:1001000121933": 128,
+      "gas:candidate-vibid:1001000195163": 5,
+      "gas:candidate-vibid:377300371003": 18,
+      "gas:candidate-vibid:1001000226006": 526,
+      "gas:candidate-vibid:1001000136148": 40,
+      "gas:candidate-vibid:377300370839": 88,
+      "gas:candidate-vibid:1001000190439": 20,
+      "gas:candidate-vibid:377300370842": 149,
+      "special:against-all": 277
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=773003007&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=377300370625&region=0&sub_region=0&type=429",
@@ -11178,15 +11178,15 @@ export const duma_2003_uik_428_region_77_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Басанец Павел Павлович": 99,
-      "Бегишвили Тенгиз Михайлович": 12,
-      "Берновский Михаил Юрьевич": 21,
-      "Гребенников Валерий Васильевич": 397,
-      "Дьяков Игорь Викторович": 62,
-      "Жукова Галина Алексеевна": 175,
-      "Каландаров Камилжан Хамутович": 19,
-      "Прохоров Дмитрий Юрьевич": 196,
-      "Против всех": 364
+      "gas:candidate-vibid:1001000121933": 99,
+      "gas:candidate-vibid:1001000195163": 12,
+      "gas:candidate-vibid:377300371003": 21,
+      "gas:candidate-vibid:1001000226006": 397,
+      "gas:candidate-vibid:1001000136148": 62,
+      "gas:candidate-vibid:377300370839": 175,
+      "gas:candidate-vibid:1001000190439": 19,
+      "gas:candidate-vibid:377300370842": 196,
+      "special:against-all": 364
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=773003007&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=377300370625&region=0&sub_region=0&type=429",
@@ -11236,15 +11236,15 @@ export const duma_2003_uik_428_region_77_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Басанец Павел Павлович": 95,
-      "Бегишвили Тенгиз Михайлович": 14,
-      "Берновский Михаил Юрьевич": 39,
-      "Гребенников Валерий Васильевич": 385,
-      "Дьяков Игорь Викторович": 58,
-      "Жукова Галина Алексеевна": 136,
-      "Каландаров Камилжан Хамутович": 19,
-      "Прохоров Дмитрий Юрьевич": 164,
-      "Против всех": 356
+      "gas:candidate-vibid:1001000121933": 95,
+      "gas:candidate-vibid:1001000195163": 14,
+      "gas:candidate-vibid:377300371003": 39,
+      "gas:candidate-vibid:1001000226006": 385,
+      "gas:candidate-vibid:1001000136148": 58,
+      "gas:candidate-vibid:377300370839": 136,
+      "gas:candidate-vibid:1001000190439": 19,
+      "gas:candidate-vibid:377300370842": 164,
+      "special:against-all": 356
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=773003007&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=377300370625&region=0&sub_region=0&type=429",
@@ -11294,15 +11294,15 @@ export const duma_2003_uik_428_region_77_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Басанец Павел Павлович": 166,
-      "Бегишвили Тенгиз Михайлович": 5,
-      "Берновский Михаил Юрьевич": 45,
-      "Гребенников Валерий Васильевич": 519,
-      "Дьяков Игорь Викторович": 41,
-      "Жукова Галина Алексеевна": 154,
-      "Каландаров Камилжан Хамутович": 13,
-      "Прохоров Дмитрий Юрьевич": 135,
-      "Против всех": 355
+      "gas:candidate-vibid:1001000121933": 166,
+      "gas:candidate-vibid:1001000195163": 5,
+      "gas:candidate-vibid:377300371003": 45,
+      "gas:candidate-vibid:1001000226006": 519,
+      "gas:candidate-vibid:1001000136148": 41,
+      "gas:candidate-vibid:377300370839": 154,
+      "gas:candidate-vibid:1001000190439": 13,
+      "gas:candidate-vibid:377300370842": 135,
+      "special:against-all": 355
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=773003007&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=377300370625&region=0&sub_region=0&type=429",
@@ -11352,15 +11352,15 @@ export const duma_2003_uik_428_region_77_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Басанец Павел Павлович": 97,
-      "Бегишвили Тенгиз Михайлович": 7,
-      "Берновский Михаил Юрьевич": 24,
-      "Гребенников Валерий Васильевич": 438,
-      "Дьяков Игорь Викторович": 31,
-      "Жукова Галина Алексеевна": 95,
-      "Каландаров Камилжан Хамутович": 25,
-      "Прохоров Дмитрий Юрьевич": 59,
-      "Против всех": 241
+      "gas:candidate-vibid:1001000121933": 97,
+      "gas:candidate-vibid:1001000195163": 7,
+      "gas:candidate-vibid:377300371003": 24,
+      "gas:candidate-vibid:1001000226006": 438,
+      "gas:candidate-vibid:1001000136148": 31,
+      "gas:candidate-vibid:377300370839": 95,
+      "gas:candidate-vibid:1001000190439": 25,
+      "gas:candidate-vibid:377300370842": 59,
+      "special:against-all": 241
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=773003007&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=377300370625&region=0&sub_region=0&type=429",
@@ -11410,15 +11410,15 @@ export const duma_2003_uik_428_region_77_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Басанец Павел Павлович": 136,
-      "Бегишвили Тенгиз Михайлович": 10,
-      "Берновский Михаил Юрьевич": 39,
-      "Гребенников Валерий Васильевич": 577,
-      "Дьяков Игорь Викторович": 42,
-      "Жукова Галина Алексеевна": 177,
-      "Каландаров Камилжан Хамутович": 23,
-      "Прохоров Дмитрий Юрьевич": 126,
-      "Против всех": 394
+      "gas:candidate-vibid:1001000121933": 136,
+      "gas:candidate-vibid:1001000195163": 10,
+      "gas:candidate-vibid:377300371003": 39,
+      "gas:candidate-vibid:1001000226006": 577,
+      "gas:candidate-vibid:1001000136148": 42,
+      "gas:candidate-vibid:377300370839": 177,
+      "gas:candidate-vibid:1001000190439": 23,
+      "gas:candidate-vibid:377300370842": 126,
+      "special:against-all": 394
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=773003007&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=377300370625&region=0&sub_region=0&type=429",
@@ -11468,15 +11468,15 @@ export const duma_2003_uik_428_region_77_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Басанец Павел Павлович": 179,
-      "Бегишвили Тенгиз Михайлович": 14,
-      "Берновский Михаил Юрьевич": 44,
-      "Гребенников Валерий Васильевич": 475,
-      "Дьяков Игорь Викторович": 46,
-      "Жукова Галина Алексеевна": 129,
-      "Каландаров Камилжан Хамутович": 19,
-      "Прохоров Дмитрий Юрьевич": 127,
-      "Против всех": 308
+      "gas:candidate-vibid:1001000121933": 179,
+      "gas:candidate-vibid:1001000195163": 14,
+      "gas:candidate-vibid:377300371003": 44,
+      "gas:candidate-vibid:1001000226006": 475,
+      "gas:candidate-vibid:1001000136148": 46,
+      "gas:candidate-vibid:377300370839": 129,
+      "gas:candidate-vibid:1001000190439": 19,
+      "gas:candidate-vibid:377300370842": 127,
+      "special:against-all": 308
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=773003007&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=377300370625&region=0&sub_region=0&type=429",
@@ -11526,15 +11526,15 @@ export const duma_2003_uik_428_region_77_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Басанец Павел Павлович": 144,
-      "Бегишвили Тенгиз Михайлович": 9,
-      "Берновский Михаил Юрьевич": 40,
-      "Гребенников Валерий Васильевич": 458,
-      "Дьяков Игорь Викторович": 56,
-      "Жукова Галина Алексеевна": 193,
-      "Каландаров Камилжан Хамутович": 27,
-      "Прохоров Дмитрий Юрьевич": 154,
-      "Против всех": 399
+      "gas:candidate-vibid:1001000121933": 144,
+      "gas:candidate-vibid:1001000195163": 9,
+      "gas:candidate-vibid:377300371003": 40,
+      "gas:candidate-vibid:1001000226006": 458,
+      "gas:candidate-vibid:1001000136148": 56,
+      "gas:candidate-vibid:377300370839": 193,
+      "gas:candidate-vibid:1001000190439": 27,
+      "gas:candidate-vibid:377300370842": 154,
+      "special:against-all": 399
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=773003007&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=377300370625&region=0&sub_region=0&type=429",
@@ -11584,15 +11584,15 @@ export const duma_2003_uik_428_region_77_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Басанец Павел Павлович": 174,
-      "Бегишвили Тенгиз Михайлович": 7,
-      "Берновский Михаил Юрьевич": 25,
-      "Гребенников Валерий Васильевич": 389,
-      "Дьяков Игорь Викторович": 51,
-      "Жукова Галина Алексеевна": 135,
-      "Каландаров Камилжан Хамутович": 17,
-      "Прохоров Дмитрий Юрьевич": 141,
-      "Против всех": 286
+      "gas:candidate-vibid:1001000121933": 174,
+      "gas:candidate-vibid:1001000195163": 7,
+      "gas:candidate-vibid:377300371003": 25,
+      "gas:candidate-vibid:1001000226006": 389,
+      "gas:candidate-vibid:1001000136148": 51,
+      "gas:candidate-vibid:377300370839": 135,
+      "gas:candidate-vibid:1001000190439": 17,
+      "gas:candidate-vibid:377300370842": 141,
+      "special:against-all": 286
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=773003007&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=377300370625&region=0&sub_region=0&type=429",
@@ -11642,15 +11642,15 @@ export const duma_2003_uik_428_region_77_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Басанец Павел Павлович": 156,
-      "Бегишвили Тенгиз Михайлович": 6,
-      "Берновский Михаил Юрьевич": 47,
-      "Гребенников Валерий Васильевич": 437,
-      "Дьяков Игорь Викторович": 46,
-      "Жукова Галина Алексеевна": 175,
-      "Каландаров Камилжан Хамутович": 24,
-      "Прохоров Дмитрий Юрьевич": 139,
-      "Против всех": 341
+      "gas:candidate-vibid:1001000121933": 156,
+      "gas:candidate-vibid:1001000195163": 6,
+      "gas:candidate-vibid:377300371003": 47,
+      "gas:candidate-vibid:1001000226006": 437,
+      "gas:candidate-vibid:1001000136148": 46,
+      "gas:candidate-vibid:377300370839": 175,
+      "gas:candidate-vibid:1001000190439": 24,
+      "gas:candidate-vibid:377300370842": 139,
+      "special:against-all": 341
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=773003007&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=377300370625&region=0&sub_region=0&type=429",
@@ -11700,15 +11700,15 @@ export const duma_2003_uik_428_region_77_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Басанец Павел Павлович": 92,
-      "Бегишвили Тенгиз Михайлович": 4,
-      "Берновский Михаил Юрьевич": 22,
-      "Гребенников Валерий Васильевич": 437,
-      "Дьяков Игорь Викторович": 60,
-      "Жукова Галина Алексеевна": 152,
-      "Каландаров Камилжан Хамутович": 13,
-      "Прохоров Дмитрий Юрьевич": 182,
-      "Против всех": 283
+      "gas:candidate-vibid:1001000121933": 92,
+      "gas:candidate-vibid:1001000195163": 4,
+      "gas:candidate-vibid:377300371003": 22,
+      "gas:candidate-vibid:1001000226006": 437,
+      "gas:candidate-vibid:1001000136148": 60,
+      "gas:candidate-vibid:377300370839": 152,
+      "gas:candidate-vibid:1001000190439": 13,
+      "gas:candidate-vibid:377300370842": 182,
+      "special:against-all": 283
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=773003007&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=377300370625&region=0&sub_region=0&type=429",
@@ -11758,15 +11758,15 @@ export const duma_2003_uik_428_region_77_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Басанец Павел Павлович": 141,
-      "Бегишвили Тенгиз Михайлович": 10,
-      "Берновский Михаил Юрьевич": 38,
-      "Гребенников Валерий Васильевич": 362,
-      "Дьяков Игорь Викторович": 43,
-      "Жукова Галина Алексеевна": 259,
-      "Каландаров Камилжан Хамутович": 30,
-      "Прохоров Дмитрий Юрьевич": 110,
-      "Против всех": 405
+      "gas:candidate-vibid:1001000121933": 141,
+      "gas:candidate-vibid:1001000195163": 10,
+      "gas:candidate-vibid:377300371003": 38,
+      "gas:candidate-vibid:1001000226006": 362,
+      "gas:candidate-vibid:1001000136148": 43,
+      "gas:candidate-vibid:377300370839": 259,
+      "gas:candidate-vibid:1001000190439": 30,
+      "gas:candidate-vibid:377300370842": 110,
+      "special:against-all": 405
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=773003007&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=377300370625&region=0&sub_region=0&type=429",
@@ -11816,15 +11816,15 @@ export const duma_2003_uik_428_region_77_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Басанец Павел Павлович": 112,
-      "Бегишвили Тенгиз Михайлович": 16,
-      "Берновский Михаил Юрьевич": 46,
-      "Гребенников Валерий Васильевич": 437,
-      "Дьяков Игорь Викторович": 54,
-      "Жукова Галина Алексеевна": 215,
-      "Каландаров Камилжан Хамутович": 25,
-      "Прохоров Дмитрий Юрьевич": 101,
-      "Против всех": 393
+      "gas:candidate-vibid:1001000121933": 112,
+      "gas:candidate-vibid:1001000195163": 16,
+      "gas:candidate-vibid:377300371003": 46,
+      "gas:candidate-vibid:1001000226006": 437,
+      "gas:candidate-vibid:1001000136148": 54,
+      "gas:candidate-vibid:377300370839": 215,
+      "gas:candidate-vibid:1001000190439": 25,
+      "gas:candidate-vibid:377300370842": 101,
+      "special:against-all": 393
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=773003007&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=377300370625&region=0&sub_region=0&type=429",
@@ -11874,15 +11874,15 @@ export const duma_2003_uik_428_region_77_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Басанец Павел Павлович": 149,
-      "Бегишвили Тенгиз Михайлович": 11,
-      "Берновский Михаил Юрьевич": 57,
-      "Гребенников Валерий Васильевич": 424,
-      "Дьяков Игорь Викторович": 57,
-      "Жукова Галина Алексеевна": 198,
-      "Каландаров Камилжан Хамутович": 17,
-      "Прохоров Дмитрий Юрьевич": 137,
-      "Против всех": 294
+      "gas:candidate-vibid:1001000121933": 149,
+      "gas:candidate-vibid:1001000195163": 11,
+      "gas:candidate-vibid:377300371003": 57,
+      "gas:candidate-vibid:1001000226006": 424,
+      "gas:candidate-vibid:1001000136148": 57,
+      "gas:candidate-vibid:377300370839": 198,
+      "gas:candidate-vibid:1001000190439": 17,
+      "gas:candidate-vibid:377300370842": 137,
+      "special:against-all": 294
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=773003007&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=377300370625&region=0&sub_region=0&type=429",
@@ -11932,15 +11932,15 @@ export const duma_2003_uik_428_region_77_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Басанец Павел Павлович": 102,
-      "Бегишвили Тенгиз Михайлович": 6,
-      "Берновский Михаил Юрьевич": 48,
-      "Гребенников Валерий Васильевич": 431,
-      "Дьяков Игорь Викторович": 53,
-      "Жукова Галина Алексеевна": 194,
-      "Каландаров Камилжан Хамутович": 17,
-      "Прохоров Дмитрий Юрьевич": 142,
-      "Против всех": 375
+      "gas:candidate-vibid:1001000121933": 102,
+      "gas:candidate-vibid:1001000195163": 6,
+      "gas:candidate-vibid:377300371003": 48,
+      "gas:candidate-vibid:1001000226006": 431,
+      "gas:candidate-vibid:1001000136148": 53,
+      "gas:candidate-vibid:377300370839": 194,
+      "gas:candidate-vibid:1001000190439": 17,
+      "gas:candidate-vibid:377300370842": 142,
+      "special:against-all": 375
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=773003007&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=377300370625&region=0&sub_region=0&type=429",
@@ -11990,15 +11990,15 @@ export const duma_2003_uik_428_region_77_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Басанец Павел Павлович": 140,
-      "Бегишвили Тенгиз Михайлович": 16,
-      "Берновский Михаил Юрьевич": 64,
-      "Гребенников Валерий Васильевич": 370,
-      "Дьяков Игорь Викторович": 61,
-      "Жукова Галина Алексеевна": 175,
-      "Каландаров Камилжан Хамутович": 32,
-      "Прохоров Дмитрий Юрьевич": 136,
-      "Против всех": 337
+      "gas:candidate-vibid:1001000121933": 140,
+      "gas:candidate-vibid:1001000195163": 16,
+      "gas:candidate-vibid:377300371003": 64,
+      "gas:candidate-vibid:1001000226006": 370,
+      "gas:candidate-vibid:1001000136148": 61,
+      "gas:candidate-vibid:377300370839": 175,
+      "gas:candidate-vibid:1001000190439": 32,
+      "gas:candidate-vibid:377300370842": 136,
+      "special:against-all": 337
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=773003007&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=377300370625&region=0&sub_region=0&type=429",
@@ -12048,15 +12048,15 @@ export const duma_2003_uik_428_region_77_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Басанец Павел Павлович": 126,
-      "Бегишвили Тенгиз Михайлович": 4,
-      "Берновский Михаил Юрьевич": 48,
-      "Гребенников Валерий Васильевич": 458,
-      "Дьяков Игорь Викторович": 44,
-      "Жукова Галина Алексеевна": 171,
-      "Каландаров Камилжан Хамутович": 17,
-      "Прохоров Дмитрий Юрьевич": 125,
-      "Против всех": 413
+      "gas:candidate-vibid:1001000121933": 126,
+      "gas:candidate-vibid:1001000195163": 4,
+      "gas:candidate-vibid:377300371003": 48,
+      "gas:candidate-vibid:1001000226006": 458,
+      "gas:candidate-vibid:1001000136148": 44,
+      "gas:candidate-vibid:377300370839": 171,
+      "gas:candidate-vibid:1001000190439": 17,
+      "gas:candidate-vibid:377300370842": 125,
+      "special:against-all": 413
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=773003007&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=377300370625&region=0&sub_region=0&type=429",
@@ -12106,15 +12106,15 @@ export const duma_2003_uik_428_region_77_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Басанец Павел Павлович": 158,
-      "Бегишвили Тенгиз Михайлович": 16,
-      "Берновский Михаил Юрьевич": 42,
-      "Гребенников Валерий Васильевич": 431,
-      "Дьяков Игорь Викторович": 51,
-      "Жукова Галина Алексеевна": 223,
-      "Каландаров Камилжан Хамутович": 27,
-      "Прохоров Дмитрий Юрьевич": 121,
-      "Против всех": 346
+      "gas:candidate-vibid:1001000121933": 158,
+      "gas:candidate-vibid:1001000195163": 16,
+      "gas:candidate-vibid:377300371003": 42,
+      "gas:candidate-vibid:1001000226006": 431,
+      "gas:candidate-vibid:1001000136148": 51,
+      "gas:candidate-vibid:377300370839": 223,
+      "gas:candidate-vibid:1001000190439": 27,
+      "gas:candidate-vibid:377300370842": 121,
+      "special:against-all": 346
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=773003007&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=377300370625&region=0&sub_region=0&type=429",
@@ -12164,14 +12164,14 @@ export const duma_2003_uik_428_region_77_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Архипов Виктор Алексеевич": 47,
-      "Габрусев Олег Евгеньевич": 22,
-      "Громов Евгений Васильевич": 64,
-      "Лысенко Владимир Николаевич": 289,
-      "Свинцов Андрей Николаевич": 21,
-      "Улас Владимир Дмитриевич": 320,
-      "Хованская Галина Петровна": 598,
-      "Против всех": 290
+      "gas:candidate-vibid:1001000190441": 47,
+      "gas:candidate-vibid:377300470954": 22,
+      "gas:candidate-vibid:1001000195164": 64,
+      "gas:candidate-vibid:377300470625": 289,
+      "gas:candidate-vibid:1001000136149": 21,
+      "gas:candidate-vibid:1001000121934": 320,
+      "gas:candidate-vibid:1001000112275": 598,
+      "special:against-all": 290
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=773004001&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=377300470644&region=0&sub_region=0&type=429",
@@ -12221,14 +12221,14 @@ export const duma_2003_uik_428_region_77_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Архипов Виктор Алексеевич": 50,
-      "Габрусев Олег Евгеньевич": 40,
-      "Громов Евгений Васильевич": 72,
-      "Лысенко Владимир Николаевич": 183,
-      "Свинцов Андрей Николаевич": 34,
-      "Улас Владимир Дмитриевич": 522,
-      "Хованская Галина Петровна": 341,
-      "Против всех": 358
+      "gas:candidate-vibid:1001000190441": 50,
+      "gas:candidate-vibid:377300470954": 40,
+      "gas:candidate-vibid:1001000195164": 72,
+      "gas:candidate-vibid:377300470625": 183,
+      "gas:candidate-vibid:1001000136149": 34,
+      "gas:candidate-vibid:1001000121934": 522,
+      "gas:candidate-vibid:1001000112275": 341,
+      "special:against-all": 358
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=773004001&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=377300470644&region=0&sub_region=0&type=429",
@@ -12278,14 +12278,14 @@ export const duma_2003_uik_428_region_77_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Архипов Виктор Алексеевич": 41,
-      "Габрусев Олег Евгеньевич": 11,
-      "Громов Евгений Васильевич": 65,
-      "Лысенко Владимир Николаевич": 311,
-      "Свинцов Андрей Николаевич": 33,
-      "Улас Владимир Дмитриевич": 281,
-      "Хованская Галина Петровна": 638,
-      "Против всех": 227
+      "gas:candidate-vibid:1001000190441": 41,
+      "gas:candidate-vibid:377300470954": 11,
+      "gas:candidate-vibid:1001000195164": 65,
+      "gas:candidate-vibid:377300470625": 311,
+      "gas:candidate-vibid:1001000136149": 33,
+      "gas:candidate-vibid:1001000121934": 281,
+      "gas:candidate-vibid:1001000112275": 638,
+      "special:against-all": 227
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=773004001&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=377300470644&region=0&sub_region=0&type=429",
@@ -12335,14 +12335,14 @@ export const duma_2003_uik_428_region_77_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Архипов Виктор Алексеевич": 33,
-      "Габрусев Олег Евгеньевич": 7,
-      "Громов Евгений Васильевич": 56,
-      "Лысенко Владимир Николаевич": 267,
-      "Свинцов Андрей Николаевич": 30,
-      "Улас Владимир Дмитриевич": 192,
-      "Хованская Галина Петровна": 568,
-      "Против всех": 209
+      "gas:candidate-vibid:1001000190441": 33,
+      "gas:candidate-vibid:377300470954": 7,
+      "gas:candidate-vibid:1001000195164": 56,
+      "gas:candidate-vibid:377300470625": 267,
+      "gas:candidate-vibid:1001000136149": 30,
+      "gas:candidate-vibid:1001000121934": 192,
+      "gas:candidate-vibid:1001000112275": 568,
+      "special:against-all": 209
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=773004001&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=377300470644&region=0&sub_region=0&type=429",
@@ -12392,14 +12392,14 @@ export const duma_2003_uik_428_region_77_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Архипов Виктор Алексеевич": 29,
-      "Габрусев Олег Евгеньевич": 16,
-      "Громов Евгений Васильевич": 44,
-      "Лысенко Владимир Николаевич": 502,
-      "Свинцов Андрей Николаевич": 10,
-      "Улас Владимир Дмитриевич": 175,
-      "Хованская Галина Петровна": 655,
-      "Против всех": 197
+      "gas:candidate-vibid:1001000190441": 29,
+      "gas:candidate-vibid:377300470954": 16,
+      "gas:candidate-vibid:1001000195164": 44,
+      "gas:candidate-vibid:377300470625": 502,
+      "gas:candidate-vibid:1001000136149": 10,
+      "gas:candidate-vibid:1001000121934": 175,
+      "gas:candidate-vibid:1001000112275": 655,
+      "special:against-all": 197
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=773004001&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=377300470644&region=0&sub_region=0&type=429",
@@ -12449,14 +12449,14 @@ export const duma_2003_uik_428_region_77_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Архипов Виктор Алексеевич": 29,
-      "Габрусев Олег Евгеньевич": 6,
-      "Громов Евгений Васильевич": 61,
-      "Лысенко Владимир Николаевич": 430,
-      "Свинцов Андрей Николаевич": 22,
-      "Улас Владимир Дмитриевич": 282,
-      "Хованская Галина Петровна": 594,
-      "Против всех": 212
+      "gas:candidate-vibid:1001000190441": 29,
+      "gas:candidate-vibid:377300470954": 6,
+      "gas:candidate-vibid:1001000195164": 61,
+      "gas:candidate-vibid:377300470625": 430,
+      "gas:candidate-vibid:1001000136149": 22,
+      "gas:candidate-vibid:1001000121934": 282,
+      "gas:candidate-vibid:1001000112275": 594,
+      "special:against-all": 212
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=773004001&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=377300470644&region=0&sub_region=0&type=429",
@@ -12506,14 +12506,14 @@ export const duma_2003_uik_428_region_77_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Архипов Виктор Алексеевич": 33,
-      "Габрусев Олег Евгеньевич": 13,
-      "Громов Евгений Васильевич": 32,
-      "Лысенко Владимир Николаевич": 338,
-      "Свинцов Андрей Николаевич": 23,
-      "Улас Владимир Дмитриевич": 179,
-      "Хованская Галина Петровна": 537,
-      "Против всех": 207
+      "gas:candidate-vibid:1001000190441": 33,
+      "gas:candidate-vibid:377300470954": 13,
+      "gas:candidate-vibid:1001000195164": 32,
+      "gas:candidate-vibid:377300470625": 338,
+      "gas:candidate-vibid:1001000136149": 23,
+      "gas:candidate-vibid:1001000121934": 179,
+      "gas:candidate-vibid:1001000112275": 537,
+      "special:against-all": 207
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=773004001&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=377300470644&region=0&sub_region=0&type=429",
@@ -12563,14 +12563,14 @@ export const duma_2003_uik_428_region_77_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Архипов Виктор Алексеевич": 31,
-      "Габрусев Олег Евгеньевич": 15,
-      "Громов Евгений Васильевич": 56,
-      "Лысенко Владимир Николаевич": 461,
-      "Свинцов Андрей Николаевич": 21,
-      "Улас Владимир Дмитриевич": 213,
-      "Хованская Галина Петровна": 520,
-      "Против всех": 240
+      "gas:candidate-vibid:1001000190441": 31,
+      "gas:candidate-vibid:377300470954": 15,
+      "gas:candidate-vibid:1001000195164": 56,
+      "gas:candidate-vibid:377300470625": 461,
+      "gas:candidate-vibid:1001000136149": 21,
+      "gas:candidate-vibid:1001000121934": 213,
+      "gas:candidate-vibid:1001000112275": 520,
+      "special:against-all": 240
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=773004001&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=377300470644&region=0&sub_region=0&type=429",
@@ -12620,14 +12620,14 @@ export const duma_2003_uik_428_region_77_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Архипов Виктор Алексеевич": 34,
-      "Габрусев Олег Евгеньевич": 21,
-      "Громов Евгений Васильевич": 35,
-      "Лысенко Владимир Николаевич": 263,
-      "Свинцов Андрей Николаевич": 20,
-      "Улас Владимир Дмитриевич": 170,
-      "Хованская Галина Петровна": 380,
-      "Против всех": 162
+      "gas:candidate-vibid:1001000190441": 34,
+      "gas:candidate-vibid:377300470954": 21,
+      "gas:candidate-vibid:1001000195164": 35,
+      "gas:candidate-vibid:377300470625": 263,
+      "gas:candidate-vibid:1001000136149": 20,
+      "gas:candidate-vibid:1001000121934": 170,
+      "gas:candidate-vibid:1001000112275": 380,
+      "special:against-all": 162
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=773004001&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=377300470644&region=0&sub_region=0&type=429",
@@ -12677,14 +12677,14 @@ export const duma_2003_uik_428_region_77_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Архипов Виктор Алексеевич": 40,
-      "Габрусев Олег Евгеньевич": 12,
-      "Громов Евгений Васильевич": 53,
-      "Лысенко Владимир Николаевич": 346,
-      "Свинцов Андрей Николаевич": 43,
-      "Улас Владимир Дмитриевич": 157,
-      "Хованская Галина Петровна": 586,
-      "Против всех": 294
+      "gas:candidate-vibid:1001000190441": 40,
+      "gas:candidate-vibid:377300470954": 12,
+      "gas:candidate-vibid:1001000195164": 53,
+      "gas:candidate-vibid:377300470625": 346,
+      "gas:candidate-vibid:1001000136149": 43,
+      "gas:candidate-vibid:1001000121934": 157,
+      "gas:candidate-vibid:1001000112275": 586,
+      "special:against-all": 294
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=773004001&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=377300470644&region=0&sub_region=0&type=429",
@@ -12734,14 +12734,14 @@ export const duma_2003_uik_428_region_77_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Архипов Виктор Алексеевич": 42,
-      "Габрусев Олег Евгеньевич": 11,
-      "Громов Евгений Васильевич": 84,
-      "Лысенко Владимир Николаевич": 419,
-      "Свинцов Андрей Николаевич": 30,
-      "Улас Владимир Дмитриевич": 188,
-      "Хованская Галина Петровна": 618,
-      "Против всех": 263
+      "gas:candidate-vibid:1001000190441": 42,
+      "gas:candidate-vibid:377300470954": 11,
+      "gas:candidate-vibid:1001000195164": 84,
+      "gas:candidate-vibid:377300470625": 419,
+      "gas:candidate-vibid:1001000136149": 30,
+      "gas:candidate-vibid:1001000121934": 188,
+      "gas:candidate-vibid:1001000112275": 618,
+      "special:against-all": 263
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=773004001&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=377300470644&region=0&sub_region=0&type=429",
@@ -12791,14 +12791,14 @@ export const duma_2003_uik_428_region_77_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Архипов Виктор Алексеевич": 33,
-      "Габрусев Олег Евгеньевич": 30,
-      "Громов Евгений Васильевич": 74,
-      "Лысенко Владимир Николаевич": 434,
-      "Свинцов Андрей Николаевич": 24,
-      "Улас Владимир Дмитриевич": 148,
-      "Хованская Галина Петровна": 670,
-      "Против всех": 261
+      "gas:candidate-vibid:1001000190441": 33,
+      "gas:candidate-vibid:377300470954": 30,
+      "gas:candidate-vibid:1001000195164": 74,
+      "gas:candidate-vibid:377300470625": 434,
+      "gas:candidate-vibid:1001000136149": 24,
+      "gas:candidate-vibid:1001000121934": 148,
+      "gas:candidate-vibid:1001000112275": 670,
+      "special:against-all": 261
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=773004001&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=377300470644&region=0&sub_region=0&type=429",
@@ -12848,14 +12848,14 @@ export const duma_2003_uik_428_region_77_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Архипов Виктор Алексеевич": 24,
-      "Габрусев Олег Евгеньевич": 13,
-      "Громов Евгений Васильевич": 41,
-      "Лысенко Владимир Николаевич": 323,
-      "Свинцов Андрей Николаевич": 22,
-      "Улас Владимир Дмитриевич": 101,
-      "Хованская Галина Петровна": 431,
-      "Против всех": 199
+      "gas:candidate-vibid:1001000190441": 24,
+      "gas:candidate-vibid:377300470954": 13,
+      "gas:candidate-vibid:1001000195164": 41,
+      "gas:candidate-vibid:377300470625": 323,
+      "gas:candidate-vibid:1001000136149": 22,
+      "gas:candidate-vibid:1001000121934": 101,
+      "gas:candidate-vibid:1001000112275": 431,
+      "special:against-all": 199
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=773004001&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=377300470644&region=0&sub_region=0&type=429",
@@ -12905,14 +12905,14 @@ export const duma_2003_uik_428_region_77_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Архипов Виктор Алексеевич": 43,
-      "Габрусев Олег Евгеньевич": 12,
-      "Громов Евгений Васильевич": 64,
-      "Лысенко Владимир Николаевич": 261,
-      "Свинцов Андрей Николаевич": 30,
-      "Улас Владимир Дмитриевич": 125,
-      "Хованская Галина Петровна": 510,
-      "Против всех": 312
+      "gas:candidate-vibid:1001000190441": 43,
+      "gas:candidate-vibid:377300470954": 12,
+      "gas:candidate-vibid:1001000195164": 64,
+      "gas:candidate-vibid:377300470625": 261,
+      "gas:candidate-vibid:1001000136149": 30,
+      "gas:candidate-vibid:1001000121934": 125,
+      "gas:candidate-vibid:1001000112275": 510,
+      "special:against-all": 312
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=773004001&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=377300470644&region=0&sub_region=0&type=429",
@@ -12962,14 +12962,14 @@ export const duma_2003_uik_428_region_77_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Архипов Виктор Алексеевич": 29,
-      "Габрусев Олег Евгеньевич": 12,
-      "Громов Евгений Васильевич": 59,
-      "Лысенко Владимир Николаевич": 414,
-      "Свинцов Андрей Николаевич": 36,
-      "Улас Владимир Дмитриевич": 187,
-      "Хованская Галина Петровна": 559,
-      "Против всех": 219
+      "gas:candidate-vibid:1001000190441": 29,
+      "gas:candidate-vibid:377300470954": 12,
+      "gas:candidate-vibid:1001000195164": 59,
+      "gas:candidate-vibid:377300470625": 414,
+      "gas:candidate-vibid:1001000136149": 36,
+      "gas:candidate-vibid:1001000121934": 187,
+      "gas:candidate-vibid:1001000112275": 559,
+      "special:against-all": 219
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=773004001&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=377300470644&region=0&sub_region=0&type=429",
@@ -13019,14 +13019,14 @@ export const duma_2003_uik_428_region_77_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Архипов Виктор Алексеевич": 31,
-      "Габрусев Олег Евгеньевич": 12,
-      "Громов Евгений Васильевич": 66,
-      "Лысенко Владимир Николаевич": 316,
-      "Свинцов Андрей Николаевич": 32,
-      "Улас Владимир Дмитриевич": 146,
-      "Хованская Галина Петровна": 563,
-      "Против всех": 235
+      "gas:candidate-vibid:1001000190441": 31,
+      "gas:candidate-vibid:377300470954": 12,
+      "gas:candidate-vibid:1001000195164": 66,
+      "gas:candidate-vibid:377300470625": 316,
+      "gas:candidate-vibid:1001000136149": 32,
+      "gas:candidate-vibid:1001000121934": 146,
+      "gas:candidate-vibid:1001000112275": 563,
+      "special:against-all": 235
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=773004001&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=377300470644&region=0&sub_region=0&type=429",
@@ -13076,14 +13076,14 @@ export const duma_2003_uik_428_region_77_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Архипов Виктор Алексеевич": 42,
-      "Габрусев Олег Евгеньевич": 20,
-      "Громов Евгений Васильевич": 63,
-      "Лысенко Владимир Николаевич": 374,
-      "Свинцов Андрей Николаевич": 42,
-      "Улас Владимир Дмитриевич": 168,
-      "Хованская Галина Петровна": 576,
-      "Против всех": 232
+      "gas:candidate-vibid:1001000190441": 42,
+      "gas:candidate-vibid:377300470954": 20,
+      "gas:candidate-vibid:1001000195164": 63,
+      "gas:candidate-vibid:377300470625": 374,
+      "gas:candidate-vibid:1001000136149": 42,
+      "gas:candidate-vibid:1001000121934": 168,
+      "gas:candidate-vibid:1001000112275": 576,
+      "special:against-all": 232
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=773004001&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=377300470644&region=0&sub_region=0&type=429",
@@ -13133,14 +13133,14 @@ export const duma_2003_uik_428_region_77_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Архипов Виктор Алексеевич": 46,
-      "Габрусев Олег Евгеньевич": 5,
-      "Громов Евгений Васильевич": 84,
-      "Лысенко Владимир Николаевич": 378,
-      "Свинцов Андрей Николаевич": 23,
-      "Улас Владимир Дмитриевич": 223,
-      "Хованская Галина Петровна": 642,
-      "Против всех": 289
+      "gas:candidate-vibid:1001000190441": 46,
+      "gas:candidate-vibid:377300470954": 5,
+      "gas:candidate-vibid:1001000195164": 84,
+      "gas:candidate-vibid:377300470625": 378,
+      "gas:candidate-vibid:1001000136149": 23,
+      "gas:candidate-vibid:1001000121934": 223,
+      "gas:candidate-vibid:1001000112275": 642,
+      "special:against-all": 289
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=773004001&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=377300470644&region=0&sub_region=0&type=429",
@@ -13190,14 +13190,14 @@ export const duma_2003_uik_428_region_77_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Архипов Виктор Алексеевич": 1,
-      "Габрусев Олег Евгеньевич": 0,
-      "Громов Евгений Васильевич": 0,
-      "Лысенко Владимир Николаевич": 8,
-      "Свинцов Андрей Николаевич": 0,
-      "Улас Владимир Дмитриевич": 3,
-      "Хованская Галина Петровна": 10,
-      "Против всех": 4
+      "gas:candidate-vibid:1001000190441": 1,
+      "gas:candidate-vibid:377300470954": 0,
+      "gas:candidate-vibid:1001000195164": 0,
+      "gas:candidate-vibid:377300470625": 8,
+      "gas:candidate-vibid:1001000136149": 0,
+      "gas:candidate-vibid:1001000121934": 3,
+      "gas:candidate-vibid:1001000112275": 10,
+      "special:against-all": 4
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=773004001&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=377300470644&region=0&sub_region=0&type=429",
@@ -13247,14 +13247,14 @@ export const duma_2003_uik_428_region_77_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Архипов Виктор Алексеевич": 0,
-      "Габрусев Олег Евгеньевич": 0,
-      "Громов Евгений Васильевич": 0,
-      "Лысенко Владимир Николаевич": 0,
-      "Свинцов Андрей Николаевич": 0,
-      "Улас Владимир Дмитриевич": 0,
-      "Хованская Галина Петровна": 4,
-      "Против всех": 2
+      "gas:candidate-vibid:1001000190441": 0,
+      "gas:candidate-vibid:377300470954": 0,
+      "gas:candidate-vibid:1001000195164": 0,
+      "gas:candidate-vibid:377300470625": 0,
+      "gas:candidate-vibid:1001000136149": 0,
+      "gas:candidate-vibid:1001000121934": 0,
+      "gas:candidate-vibid:1001000112275": 4,
+      "special:against-all": 2
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=773004001&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=377300470644&region=0&sub_region=0&type=429",
@@ -13304,14 +13304,14 @@ export const duma_2003_uik_428_region_77_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Архипов Виктор Алексеевич": 81,
-      "Габрусев Олег Евгеньевич": 14,
-      "Громов Евгений Васильевич": 65,
-      "Лысенко Владимир Николаевич": 332,
-      "Свинцов Андрей Николаевич": 50,
-      "Улас Владимир Дмитриевич": 232,
-      "Хованская Галина Петровна": 584,
-      "Против всех": 308
+      "gas:candidate-vibid:1001000190441": 81,
+      "gas:candidate-vibid:377300470954": 14,
+      "gas:candidate-vibid:1001000195164": 65,
+      "gas:candidate-vibid:377300470625": 332,
+      "gas:candidate-vibid:1001000136149": 50,
+      "gas:candidate-vibid:1001000121934": 232,
+      "gas:candidate-vibid:1001000112275": 584,
+      "special:against-all": 308
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=773004002&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=377300470646&region=0&sub_region=0&type=429",
@@ -13361,14 +13361,14 @@ export const duma_2003_uik_428_region_77_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Архипов Виктор Алексеевич": 60,
-      "Габрусев Олег Евгеньевич": 16,
-      "Громов Евгений Васильевич": 101,
-      "Лысенко Владимир Николаевич": 371,
-      "Свинцов Андрей Николаевич": 50,
-      "Улас Владимир Дмитриевич": 186,
-      "Хованская Галина Петровна": 530,
-      "Против всех": 329
+      "gas:candidate-vibid:1001000190441": 60,
+      "gas:candidate-vibid:377300470954": 16,
+      "gas:candidate-vibid:1001000195164": 101,
+      "gas:candidate-vibid:377300470625": 371,
+      "gas:candidate-vibid:1001000136149": 50,
+      "gas:candidate-vibid:1001000121934": 186,
+      "gas:candidate-vibid:1001000112275": 530,
+      "special:against-all": 329
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=773004002&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=377300470646&region=0&sub_region=0&type=429",
@@ -13418,14 +13418,14 @@ export const duma_2003_uik_428_region_77_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Архипов Виктор Алексеевич": 61,
-      "Габрусев Олег Евгеньевич": 16,
-      "Громов Евгений Васильевич": 64,
-      "Лысенко Владимир Николаевич": 297,
-      "Свинцов Андрей Николаевич": 19,
-      "Улас Владимир Дмитриевич": 198,
-      "Хованская Галина Петровна": 504,
-      "Против всех": 261
+      "gas:candidate-vibid:1001000190441": 61,
+      "gas:candidate-vibid:377300470954": 16,
+      "gas:candidate-vibid:1001000195164": 64,
+      "gas:candidate-vibid:377300470625": 297,
+      "gas:candidate-vibid:1001000136149": 19,
+      "gas:candidate-vibid:1001000121934": 198,
+      "gas:candidate-vibid:1001000112275": 504,
+      "special:against-all": 261
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=773004002&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=377300470646&region=0&sub_region=0&type=429",
@@ -13475,14 +13475,14 @@ export const duma_2003_uik_428_region_77_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Архипов Виктор Алексеевич": 38,
-      "Габрусев Олег Евгеньевич": 14,
-      "Громов Евгений Васильевич": 70,
-      "Лысенко Владимир Николаевич": 265,
-      "Свинцов Андрей Николаевич": 37,
-      "Улас Владимир Дмитриевич": 194,
-      "Хованская Галина Петровна": 566,
-      "Против всех": 239
+      "gas:candidate-vibid:1001000190441": 38,
+      "gas:candidate-vibid:377300470954": 14,
+      "gas:candidate-vibid:1001000195164": 70,
+      "gas:candidate-vibid:377300470625": 265,
+      "gas:candidate-vibid:1001000136149": 37,
+      "gas:candidate-vibid:1001000121934": 194,
+      "gas:candidate-vibid:1001000112275": 566,
+      "special:against-all": 239
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=773004002&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=377300470646&region=0&sub_region=0&type=429",
@@ -13532,14 +13532,14 @@ export const duma_2003_uik_428_region_77_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Архипов Виктор Алексеевич": 53,
-      "Габрусев Олег Евгеньевич": 15,
-      "Громов Евгений Васильевич": 82,
-      "Лысенко Владимир Николаевич": 283,
-      "Свинцов Андрей Николаевич": 40,
-      "Улас Владимир Дмитриевич": 209,
-      "Хованская Галина Петровна": 442,
-      "Против всех": 313
+      "gas:candidate-vibid:1001000190441": 53,
+      "gas:candidate-vibid:377300470954": 15,
+      "gas:candidate-vibid:1001000195164": 82,
+      "gas:candidate-vibid:377300470625": 283,
+      "gas:candidate-vibid:1001000136149": 40,
+      "gas:candidate-vibid:1001000121934": 209,
+      "gas:candidate-vibid:1001000112275": 442,
+      "special:against-all": 313
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=773004002&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=377300470646&region=0&sub_region=0&type=429",
@@ -13589,14 +13589,14 @@ export const duma_2003_uik_428_region_77_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Архипов Виктор Алексеевич": 56,
-      "Габрусев Олег Евгеньевич": 16,
-      "Громов Евгений Васильевич": 73,
-      "Лысенко Владимир Николаевич": 387,
-      "Свинцов Андрей Николаевич": 41,
-      "Улас Владимир Дмитриевич": 183,
-      "Хованская Галина Петровна": 405,
-      "Против всех": 306
+      "gas:candidate-vibid:1001000190441": 56,
+      "gas:candidate-vibid:377300470954": 16,
+      "gas:candidate-vibid:1001000195164": 73,
+      "gas:candidate-vibid:377300470625": 387,
+      "gas:candidate-vibid:1001000136149": 41,
+      "gas:candidate-vibid:1001000121934": 183,
+      "gas:candidate-vibid:1001000112275": 405,
+      "special:against-all": 306
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=773004002&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=377300470646&region=0&sub_region=0&type=429",
@@ -13646,14 +13646,14 @@ export const duma_2003_uik_428_region_77_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Архипов Виктор Алексеевич": 54,
-      "Габрусев Олег Евгеньевич": 22,
-      "Громов Евгений Васильевич": 73,
-      "Лысенко Владимир Николаевич": 276,
-      "Свинцов Андрей Николаевич": 37,
-      "Улас Владимир Дмитриевич": 191,
-      "Хованская Галина Петровна": 355,
-      "Против всех": 287
+      "gas:candidate-vibid:1001000190441": 54,
+      "gas:candidate-vibid:377300470954": 22,
+      "gas:candidate-vibid:1001000195164": 73,
+      "gas:candidate-vibid:377300470625": 276,
+      "gas:candidate-vibid:1001000136149": 37,
+      "gas:candidate-vibid:1001000121934": 191,
+      "gas:candidate-vibid:1001000112275": 355,
+      "special:against-all": 287
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=773004002&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=377300470646&region=0&sub_region=0&type=429",
@@ -13703,14 +13703,14 @@ export const duma_2003_uik_428_region_77_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Архипов Виктор Алексеевич": 40,
-      "Габрусев Олег Евгеньевич": 13,
-      "Громов Евгений Васильевич": 68,
-      "Лысенко Владимир Николаевич": 359,
-      "Свинцов Андрей Николаевич": 32,
-      "Улас Владимир Дмитриевич": 184,
-      "Хованская Галина Петровна": 479,
-      "Против всех": 272
+      "gas:candidate-vibid:1001000190441": 40,
+      "gas:candidate-vibid:377300470954": 13,
+      "gas:candidate-vibid:1001000195164": 68,
+      "gas:candidate-vibid:377300470625": 359,
+      "gas:candidate-vibid:1001000136149": 32,
+      "gas:candidate-vibid:1001000121934": 184,
+      "gas:candidate-vibid:1001000112275": 479,
+      "special:against-all": 272
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=773004002&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=377300470646&region=0&sub_region=0&type=429",
@@ -13760,14 +13760,14 @@ export const duma_2003_uik_428_region_77_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Архипов Виктор Алексеевич": 55,
-      "Габрусев Олег Евгеньевич": 17,
-      "Громов Евгений Васильевич": 77,
-      "Лысенко Владимир Николаевич": 375,
-      "Свинцов Андрей Николаевич": 25,
-      "Улас Владимир Дмитриевич": 214,
-      "Хованская Галина Петровна": 390,
-      "Против всех": 277
+      "gas:candidate-vibid:1001000190441": 55,
+      "gas:candidate-vibid:377300470954": 17,
+      "gas:candidate-vibid:1001000195164": 77,
+      "gas:candidate-vibid:377300470625": 375,
+      "gas:candidate-vibid:1001000136149": 25,
+      "gas:candidate-vibid:1001000121934": 214,
+      "gas:candidate-vibid:1001000112275": 390,
+      "special:against-all": 277
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=773004002&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=377300470646&region=0&sub_region=0&type=429",
@@ -13817,14 +13817,14 @@ export const duma_2003_uik_428_region_77_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Архипов Виктор Алексеевич": 73,
-      "Габрусев Олег Евгеньевич": 17,
-      "Громов Евгений Васильевич": 94,
-      "Лысенко Владимир Николаевич": 259,
-      "Свинцов Андрей Николаевич": 59,
-      "Улас Владимир Дмитриевич": 271,
-      "Хованская Галина Петровна": 462,
-      "Против всех": 332
+      "gas:candidate-vibid:1001000190441": 73,
+      "gas:candidate-vibid:377300470954": 17,
+      "gas:candidate-vibid:1001000195164": 94,
+      "gas:candidate-vibid:377300470625": 259,
+      "gas:candidate-vibid:1001000136149": 59,
+      "gas:candidate-vibid:1001000121934": 271,
+      "gas:candidate-vibid:1001000112275": 462,
+      "special:against-all": 332
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=773004002&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=377300470646&region=0&sub_region=0&type=429",
@@ -13874,14 +13874,14 @@ export const duma_2003_uik_428_region_77_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Архипов Виктор Алексеевич": 3,
-      "Габрусев Олег Евгеньевич": 0,
-      "Громов Евгений Васильевич": 16,
-      "Лысенко Владимир Николаевич": 22,
-      "Свинцов Андрей Николаевич": 3,
-      "Улас Владимир Дмитриевич": 14,
-      "Хованская Галина Петровна": 29,
-      "Против всех": 35
+      "gas:candidate-vibid:1001000190441": 3,
+      "gas:candidate-vibid:377300470954": 0,
+      "gas:candidate-vibid:1001000195164": 16,
+      "gas:candidate-vibid:377300470625": 22,
+      "gas:candidate-vibid:1001000136149": 3,
+      "gas:candidate-vibid:1001000121934": 14,
+      "gas:candidate-vibid:1001000112275": 29,
+      "special:against-all": 35
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=773004002&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=377300470646&region=0&sub_region=0&type=429",
@@ -13931,14 +13931,14 @@ export const duma_2003_uik_428_region_77_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Архипов Виктор Алексеевич": 1,
-      "Габрусев Олег Евгеньевич": 0,
-      "Громов Евгений Васильевич": 1,
-      "Лысенко Владимир Николаевич": 4,
-      "Свинцов Андрей Николаевич": 0,
-      "Улас Владимир Дмитриевич": 3,
-      "Хованская Галина Петровна": 4,
-      "Против всех": 1
+      "gas:candidate-vibid:1001000190441": 1,
+      "gas:candidate-vibid:377300470954": 0,
+      "gas:candidate-vibid:1001000195164": 1,
+      "gas:candidate-vibid:377300470625": 4,
+      "gas:candidate-vibid:1001000136149": 0,
+      "gas:candidate-vibid:1001000121934": 3,
+      "gas:candidate-vibid:1001000112275": 4,
+      "special:against-all": 1
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=773004002&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=377300470646&region=0&sub_region=0&type=429",
@@ -13988,14 +13988,14 @@ export const duma_2003_uik_428_region_77_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Архипов Виктор Алексеевич": 2,
-      "Габрусев Олег Евгеньевич": 0,
-      "Громов Евгений Васильевич": 0,
-      "Лысенко Владимир Николаевич": 5,
-      "Свинцов Андрей Николаевич": 0,
-      "Улас Владимир Дмитриевич": 4,
-      "Хованская Галина Петровна": 11,
-      "Против всех": 4
+      "gas:candidate-vibid:1001000190441": 2,
+      "gas:candidate-vibid:377300470954": 0,
+      "gas:candidate-vibid:1001000195164": 0,
+      "gas:candidate-vibid:377300470625": 5,
+      "gas:candidate-vibid:1001000136149": 0,
+      "gas:candidate-vibid:1001000121934": 4,
+      "gas:candidate-vibid:1001000112275": 11,
+      "special:against-all": 4
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=773004002&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=377300470646&region=0&sub_region=0&type=429",
@@ -14045,14 +14045,14 @@ export const duma_2003_uik_428_region_77_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Архипов Виктор Алексеевич": 37,
-      "Габрусев Олег Евгеньевич": 7,
-      "Громов Евгений Васильевич": 52,
-      "Лысенко Владимир Николаевич": 602,
-      "Свинцов Андрей Николаевич": 18,
-      "Улас Владимир Дмитриевич": 167,
-      "Хованская Галина Петровна": 406,
-      "Против всех": 204
+      "gas:candidate-vibid:1001000190441": 37,
+      "gas:candidate-vibid:377300470954": 7,
+      "gas:candidate-vibid:1001000195164": 52,
+      "gas:candidate-vibid:377300470625": 602,
+      "gas:candidate-vibid:1001000136149": 18,
+      "gas:candidate-vibid:1001000121934": 167,
+      "gas:candidate-vibid:1001000112275": 406,
+      "special:against-all": 204
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=773004003&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=377300470648&region=0&sub_region=0&type=429",
@@ -14102,14 +14102,14 @@ export const duma_2003_uik_428_region_77_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Архипов Виктор Алексеевич": 37,
-      "Габрусев Олег Евгеньевич": 9,
-      "Громов Евгений Васильевич": 51,
-      "Лысенко Владимир Николаевич": 685,
-      "Свинцов Андрей Николаевич": 24,
-      "Улас Владимир Дмитриевич": 186,
-      "Хованская Галина Петровна": 430,
-      "Против всех": 266
+      "gas:candidate-vibid:1001000190441": 37,
+      "gas:candidate-vibid:377300470954": 9,
+      "gas:candidate-vibid:1001000195164": 51,
+      "gas:candidate-vibid:377300470625": 685,
+      "gas:candidate-vibid:1001000136149": 24,
+      "gas:candidate-vibid:1001000121934": 186,
+      "gas:candidate-vibid:1001000112275": 430,
+      "special:against-all": 266
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=773004003&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=377300470648&region=0&sub_region=0&type=429",
@@ -14159,14 +14159,14 @@ export const duma_2003_uik_428_region_77_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Архипов Виктор Алексеевич": 29,
-      "Габрусев Олег Евгеньевич": 8,
-      "Громов Евгений Васильевич": 45,
-      "Лысенко Владимир Николаевич": 456,
-      "Свинцов Андрей Николаевич": 20,
-      "Улас Владимир Дмитриевич": 181,
-      "Хованская Галина Петровна": 380,
-      "Против всех": 204
+      "gas:candidate-vibid:1001000190441": 29,
+      "gas:candidate-vibid:377300470954": 8,
+      "gas:candidate-vibid:1001000195164": 45,
+      "gas:candidate-vibid:377300470625": 456,
+      "gas:candidate-vibid:1001000136149": 20,
+      "gas:candidate-vibid:1001000121934": 181,
+      "gas:candidate-vibid:1001000112275": 380,
+      "special:against-all": 204
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=773004003&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=377300470648&region=0&sub_region=0&type=429",
@@ -14216,14 +14216,14 @@ export const duma_2003_uik_428_region_77_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Архипов Виктор Алексеевич": 50,
-      "Габрусев Олег Евгеньевич": 10,
-      "Громов Евгений Васильевич": 54,
-      "Лысенко Владимир Николаевич": 549,
-      "Свинцов Андрей Николаевич": 18,
-      "Улас Владимир Дмитриевич": 150,
-      "Хованская Галина Петровна": 430,
-      "Против всех": 221
+      "gas:candidate-vibid:1001000190441": 50,
+      "gas:candidate-vibid:377300470954": 10,
+      "gas:candidate-vibid:1001000195164": 54,
+      "gas:candidate-vibid:377300470625": 549,
+      "gas:candidate-vibid:1001000136149": 18,
+      "gas:candidate-vibid:1001000121934": 150,
+      "gas:candidate-vibid:1001000112275": 430,
+      "special:against-all": 221
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=773004003&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=377300470648&region=0&sub_region=0&type=429",
@@ -14273,14 +14273,14 @@ export const duma_2003_uik_428_region_77_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Архипов Виктор Алексеевич": 42,
-      "Габрусев Олег Евгеньевич": 27,
-      "Громов Евгений Васильевич": 60,
-      "Лысенко Владимир Николаевич": 441,
-      "Свинцов Андрей Николаевич": 4,
-      "Улас Владимир Дмитриевич": 155,
-      "Хованская Галина Петровна": 453,
-      "Против всех": 237
+      "gas:candidate-vibid:1001000190441": 42,
+      "gas:candidate-vibid:377300470954": 27,
+      "gas:candidate-vibid:1001000195164": 60,
+      "gas:candidate-vibid:377300470625": 441,
+      "gas:candidate-vibid:1001000136149": 4,
+      "gas:candidate-vibid:1001000121934": 155,
+      "gas:candidate-vibid:1001000112275": 453,
+      "special:against-all": 237
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=773004003&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=377300470648&region=0&sub_region=0&type=429",
@@ -14330,14 +14330,14 @@ export const duma_2003_uik_428_region_77_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Архипов Виктор Алексеевич": 40,
-      "Габрусев Олег Евгеньевич": 24,
-      "Громов Евгений Васильевич": 52,
-      "Лысенко Владимир Николаевич": 402,
-      "Свинцов Андрей Николаевич": 27,
-      "Улас Владимир Дмитриевич": 164,
-      "Хованская Галина Петровна": 370,
-      "Против всех": 192
+      "gas:candidate-vibid:1001000190441": 40,
+      "gas:candidate-vibid:377300470954": 24,
+      "gas:candidate-vibid:1001000195164": 52,
+      "gas:candidate-vibid:377300470625": 402,
+      "gas:candidate-vibid:1001000136149": 27,
+      "gas:candidate-vibid:1001000121934": 164,
+      "gas:candidate-vibid:1001000112275": 370,
+      "special:against-all": 192
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=773004003&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=377300470648&region=0&sub_region=0&type=429",
@@ -14387,14 +14387,14 @@ export const duma_2003_uik_428_region_77_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Архипов Виктор Алексеевич": 52,
-      "Габрусев Олег Евгеньевич": 14,
-      "Громов Евгений Васильевич": 50,
-      "Лысенко Владимир Николаевич": 427,
-      "Свинцов Андрей Николаевич": 22,
-      "Улас Владимир Дмитриевич": 183,
-      "Хованская Галина Петровна": 329,
-      "Против всех": 218
+      "gas:candidate-vibid:1001000190441": 52,
+      "gas:candidate-vibid:377300470954": 14,
+      "gas:candidate-vibid:1001000195164": 50,
+      "gas:candidate-vibid:377300470625": 427,
+      "gas:candidate-vibid:1001000136149": 22,
+      "gas:candidate-vibid:1001000121934": 183,
+      "gas:candidate-vibid:1001000112275": 329,
+      "special:against-all": 218
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=773004003&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=377300470648&region=0&sub_region=0&type=429",
@@ -14444,14 +14444,14 @@ export const duma_2003_uik_428_region_77_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Архипов Виктор Алексеевич": 46,
-      "Габрусев Олег Евгеньевич": 24,
-      "Громов Евгений Васильевич": 73,
-      "Лысенко Владимир Николаевич": 540,
-      "Свинцов Андрей Николаевич": 27,
-      "Улас Владимир Дмитриевич": 102,
-      "Хованская Галина Петровна": 355,
-      "Против всех": 266
+      "gas:candidate-vibid:1001000190441": 46,
+      "gas:candidate-vibid:377300470954": 24,
+      "gas:candidate-vibid:1001000195164": 73,
+      "gas:candidate-vibid:377300470625": 540,
+      "gas:candidate-vibid:1001000136149": 27,
+      "gas:candidate-vibid:1001000121934": 102,
+      "gas:candidate-vibid:1001000112275": 355,
+      "special:against-all": 266
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=773004003&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=377300470648&region=0&sub_region=0&type=429",

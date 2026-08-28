@@ -43,15 +43,15 @@ export const duma_2016_uik_463_region_74_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бурматов Владимир Владимирович": 249,
-      "Горбачёв Владимир Иванович": 23,
-      "Навроцкая Елена Александровна": 11,
-      "Нациевский Константин Олегович": 65,
-      "Пашин Виталий Львович": 80,
-      "Севастьянов Алексей Михайлович": 105,
-      "Табалов Алексей Викторович": 13,
-      "Швецов Василий Георгиевич": 245,
-      "Яцун Андрей Николаевич": 20
+      "gas:candidate-vibid:4744046274347": 249,
+      "gas:candidate-vibid:4744046274206": 23,
+      "gas:candidate-vibid:4744046274911": 11,
+      "gas:candidate-vibid:4744046274468": 65,
+      "gas:candidate-vibid:4744046254789": 80,
+      "gas:candidate-vibid:4744046274389": 105,
+      "gas:candidate-vibid:4744046274258": 13,
+      "gas:candidate-vibid:4744046273997": 245,
+      "gas:candidate-vibid:4744046274535": 20
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/chelyabinsk?action=show&root=1000252&tvd=27420001143144&vrn=100100067795849&region=74&global=&sub_region=74&prver=0&pronetvd=null&vibid=27420001143144&type=464",
@@ -102,15 +102,15 @@ export const duma_2016_uik_463_region_74_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бурматов Владимир Владимирович": 355,
-      "Горбачёв Владимир Иванович": 38,
-      "Навроцкая Елена Александровна": 24,
-      "Нациевский Константин Олегович": 125,
-      "Пашин Виталий Львович": 115,
-      "Севастьянов Алексей Михайлович": 114,
-      "Табалов Алексей Викторович": 16,
-      "Швецов Василий Георгиевич": 314,
-      "Яцун Андрей Николаевич": 34
+      "gas:candidate-vibid:4744046274347": 355,
+      "gas:candidate-vibid:4744046274206": 38,
+      "gas:candidate-vibid:4744046274911": 24,
+      "gas:candidate-vibid:4744046274468": 125,
+      "gas:candidate-vibid:4744046254789": 115,
+      "gas:candidate-vibid:4744046274389": 114,
+      "gas:candidate-vibid:4744046274258": 16,
+      "gas:candidate-vibid:4744046273997": 314,
+      "gas:candidate-vibid:4744046274535": 34
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/chelyabinsk?action=show&root=1000252&tvd=27420001143144&vrn=100100067795849&region=74&global=&sub_region=74&prver=0&pronetvd=null&vibid=27420001143144&type=464",
@@ -161,15 +161,15 @@ export const duma_2016_uik_463_region_74_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бурматов Владимир Владимирович": 167,
-      "Горбачёв Владимир Иванович": 22,
-      "Навроцкая Елена Александровна": 8,
-      "Нациевский Константин Олегович": 52,
-      "Пашин Виталий Львович": 58,
-      "Севастьянов Алексей Михайлович": 67,
-      "Табалов Алексей Викторович": 8,
-      "Швецов Василий Георгиевич": 143,
-      "Яцун Андрей Николаевич": 11
+      "gas:candidate-vibid:4744046274347": 167,
+      "gas:candidate-vibid:4744046274206": 22,
+      "gas:candidate-vibid:4744046274911": 8,
+      "gas:candidate-vibid:4744046274468": 52,
+      "gas:candidate-vibid:4744046254789": 58,
+      "gas:candidate-vibid:4744046274389": 67,
+      "gas:candidate-vibid:4744046274258": 8,
+      "gas:candidate-vibid:4744046273997": 143,
+      "gas:candidate-vibid:4744046274535": 11
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/chelyabinsk?action=show&root=1000252&tvd=27420001143144&vrn=100100067795849&region=74&global=&sub_region=74&prver=0&pronetvd=null&vibid=27420001143144&type=464",
@@ -220,15 +220,15 @@ export const duma_2016_uik_463_region_74_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бурматов Владимир Владимирович": 305,
-      "Горбачёв Владимир Иванович": 35,
-      "Навроцкая Елена Александровна": 23,
-      "Нациевский Константин Олегович": 87,
-      "Пашин Виталий Львович": 84,
-      "Севастьянов Алексей Михайлович": 113,
-      "Табалов Алексей Викторович": 34,
-      "Швецов Василий Георгиевич": 253,
-      "Яцун Андрей Николаевич": 22
+      "gas:candidate-vibid:4744046274347": 305,
+      "gas:candidate-vibid:4744046274206": 35,
+      "gas:candidate-vibid:4744046274911": 23,
+      "gas:candidate-vibid:4744046274468": 87,
+      "gas:candidate-vibid:4744046254789": 84,
+      "gas:candidate-vibid:4744046274389": 113,
+      "gas:candidate-vibid:4744046274258": 34,
+      "gas:candidate-vibid:4744046273997": 253,
+      "gas:candidate-vibid:4744046274535": 22
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/chelyabinsk?action=show&root=1000252&tvd=27420001143144&vrn=100100067795849&region=74&global=&sub_region=74&prver=0&pronetvd=null&vibid=27420001143144&type=464",
@@ -279,15 +279,15 @@ export const duma_2016_uik_463_region_74_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бурматов Владимир Владимирович": 298,
-      "Горбачёв Владимир Иванович": 48,
-      "Навроцкая Елена Александровна": 20,
-      "Нациевский Константин Олегович": 104,
-      "Пашин Виталий Львович": 89,
-      "Севастьянов Алексей Михайлович": 91,
-      "Табалов Алексей Викторович": 16,
-      "Швецов Василий Георгиевич": 232,
-      "Яцун Андрей Николаевич": 21
+      "gas:candidate-vibid:4744046274347": 298,
+      "gas:candidate-vibid:4744046274206": 48,
+      "gas:candidate-vibid:4744046274911": 20,
+      "gas:candidate-vibid:4744046274468": 104,
+      "gas:candidate-vibid:4744046254789": 89,
+      "gas:candidate-vibid:4744046274389": 91,
+      "gas:candidate-vibid:4744046274258": 16,
+      "gas:candidate-vibid:4744046273997": 232,
+      "gas:candidate-vibid:4744046274535": 21
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/chelyabinsk?action=show&root=1000252&tvd=27420001143144&vrn=100100067795849&region=74&global=&sub_region=74&prver=0&pronetvd=null&vibid=27420001143144&type=464",
@@ -338,15 +338,15 @@ export const duma_2016_uik_463_region_74_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бурматов Владимир Владимирович": 211,
-      "Горбачёв Владимир Иванович": 26,
-      "Навроцкая Елена Александровна": 5,
-      "Нациевский Константин Олегович": 46,
-      "Пашин Виталий Львович": 59,
-      "Севастьянов Алексей Михайлович": 86,
-      "Табалов Алексей Викторович": 12,
-      "Швецов Василий Георгиевич": 173,
-      "Яцун Андрей Николаевич": 13
+      "gas:candidate-vibid:4744046274347": 211,
+      "gas:candidate-vibid:4744046274206": 26,
+      "gas:candidate-vibid:4744046274911": 5,
+      "gas:candidate-vibid:4744046274468": 46,
+      "gas:candidate-vibid:4744046254789": 59,
+      "gas:candidate-vibid:4744046274389": 86,
+      "gas:candidate-vibid:4744046274258": 12,
+      "gas:candidate-vibid:4744046273997": 173,
+      "gas:candidate-vibid:4744046274535": 13
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/chelyabinsk?action=show&root=1000252&tvd=27420001143144&vrn=100100067795849&region=74&global=&sub_region=74&prver=0&pronetvd=null&vibid=27420001143144&type=464",
@@ -397,15 +397,15 @@ export const duma_2016_uik_463_region_74_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бурматов Владимир Владимирович": 195,
-      "Горбачёв Владимир Иванович": 19,
-      "Навроцкая Елена Александровна": 15,
-      "Нациевский Константин Олегович": 44,
-      "Пашин Виталий Львович": 45,
-      "Севастьянов Алексей Михайлович": 72,
-      "Табалов Алексей Викторович": 10,
-      "Швецов Василий Георгиевич": 120,
-      "Яцун Андрей Николаевич": 20
+      "gas:candidate-vibid:4744046274347": 195,
+      "gas:candidate-vibid:4744046274206": 19,
+      "gas:candidate-vibid:4744046274911": 15,
+      "gas:candidate-vibid:4744046274468": 44,
+      "gas:candidate-vibid:4744046254789": 45,
+      "gas:candidate-vibid:4744046274389": 72,
+      "gas:candidate-vibid:4744046274258": 10,
+      "gas:candidate-vibid:4744046273997": 120,
+      "gas:candidate-vibid:4744046274535": 20
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/chelyabinsk?action=show&root=1000252&tvd=27420001143144&vrn=100100067795849&region=74&global=&sub_region=74&prver=0&pronetvd=null&vibid=27420001143144&type=464",
@@ -456,15 +456,15 @@ export const duma_2016_uik_463_region_74_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бурматов Владимир Владимирович": 288,
-      "Горбачёв Владимир Иванович": 22,
-      "Навроцкая Елена Александровна": 13,
-      "Нациевский Константин Олегович": 62,
-      "Пашин Виталий Львович": 76,
-      "Севастьянов Алексей Михайлович": 73,
-      "Табалов Алексей Викторович": 14,
-      "Швецов Василий Георгиевич": 186,
-      "Яцун Андрей Николаевич": 16
+      "gas:candidate-vibid:4744046274347": 288,
+      "gas:candidate-vibid:4744046274206": 22,
+      "gas:candidate-vibid:4744046274911": 13,
+      "gas:candidate-vibid:4744046274468": 62,
+      "gas:candidate-vibid:4744046254789": 76,
+      "gas:candidate-vibid:4744046274389": 73,
+      "gas:candidate-vibid:4744046274258": 14,
+      "gas:candidate-vibid:4744046273997": 186,
+      "gas:candidate-vibid:4744046274535": 16
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/chelyabinsk?action=show&root=1000252&tvd=27420001143144&vrn=100100067795849&region=74&global=&sub_region=74&prver=0&pronetvd=null&vibid=27420001143144&type=464",
@@ -515,15 +515,15 @@ export const duma_2016_uik_463_region_74_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бурматов Владимир Владимирович": 329,
-      "Горбачёв Владимир Иванович": 16,
-      "Навроцкая Елена Александровна": 21,
-      "Нациевский Константин Олегович": 108,
-      "Пашин Виталий Львович": 131,
-      "Севастьянов Алексей Михайлович": 127,
-      "Табалов Алексей Викторович": 19,
-      "Швецов Василий Георгиевич": 174,
-      "Яцун Андрей Николаевич": 24
+      "gas:candidate-vibid:4744046274347": 329,
+      "gas:candidate-vibid:4744046274206": 16,
+      "gas:candidate-vibid:4744046274911": 21,
+      "gas:candidate-vibid:4744046274468": 108,
+      "gas:candidate-vibid:4744046254789": 131,
+      "gas:candidate-vibid:4744046274389": 127,
+      "gas:candidate-vibid:4744046274258": 19,
+      "gas:candidate-vibid:4744046273997": 174,
+      "gas:candidate-vibid:4744046274535": 24
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/chelyabinsk?action=show&root=1000252&tvd=27420001143144&vrn=100100067795849&region=74&global=&sub_region=74&prver=0&pronetvd=null&vibid=27420001143144&type=464",
@@ -574,15 +574,15 @@ export const duma_2016_uik_463_region_74_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бурматов Владимир Владимирович": 251,
-      "Горбачёв Владимир Иванович": 29,
-      "Навроцкая Елена Александровна": 17,
-      "Нациевский Константин Олегович": 95,
-      "Пашин Виталий Львович": 96,
-      "Севастьянов Алексей Михайлович": 96,
-      "Табалов Алексей Викторович": 21,
-      "Швецов Василий Георгиевич": 185,
-      "Яцун Андрей Николаевич": 23
+      "gas:candidate-vibid:4744046274347": 251,
+      "gas:candidate-vibid:4744046274206": 29,
+      "gas:candidate-vibid:4744046274911": 17,
+      "gas:candidate-vibid:4744046274468": 95,
+      "gas:candidate-vibid:4744046254789": 96,
+      "gas:candidate-vibid:4744046274389": 96,
+      "gas:candidate-vibid:4744046274258": 21,
+      "gas:candidate-vibid:4744046273997": 185,
+      "gas:candidate-vibid:4744046274535": 23
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/chelyabinsk?action=show&root=1000252&tvd=27420001143144&vrn=100100067795849&region=74&global=&sub_region=74&prver=0&pronetvd=null&vibid=27420001143144&type=464",
@@ -633,15 +633,15 @@ export const duma_2016_uik_463_region_74_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бурматов Владимир Владимирович": 327,
-      "Горбачёв Владимир Иванович": 24,
-      "Навроцкая Елена Александровна": 23,
-      "Нациевский Константин Олегович": 115,
-      "Пашин Виталий Львович": 110,
-      "Севастьянов Алексей Михайлович": 100,
-      "Табалов Алексей Викторович": 15,
-      "Швецов Василий Георгиевич": 262,
-      "Яцун Андрей Николаевич": 14
+      "gas:candidate-vibid:4744046274347": 327,
+      "gas:candidate-vibid:4744046274206": 24,
+      "gas:candidate-vibid:4744046274911": 23,
+      "gas:candidate-vibid:4744046274468": 115,
+      "gas:candidate-vibid:4744046254789": 110,
+      "gas:candidate-vibid:4744046274389": 100,
+      "gas:candidate-vibid:4744046274258": 15,
+      "gas:candidate-vibid:4744046273997": 262,
+      "gas:candidate-vibid:4744046274535": 14
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/chelyabinsk?action=show&root=1000252&tvd=27420001143144&vrn=100100067795849&region=74&global=&sub_region=74&prver=0&pronetvd=null&vibid=27420001143144&type=464",
@@ -692,15 +692,15 @@ export const duma_2016_uik_463_region_74_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бурматов Владимир Владимирович": 219,
-      "Горбачёв Владимир Иванович": 25,
-      "Навроцкая Елена Александровна": 16,
-      "Нациевский Константин Олегович": 93,
-      "Пашин Виталий Львович": 92,
-      "Севастьянов Алексей Михайлович": 92,
-      "Табалов Алексей Викторович": 12,
-      "Швецов Василий Георгиевич": 155,
-      "Яцун Андрей Николаевич": 11
+      "gas:candidate-vibid:4744046274347": 219,
+      "gas:candidate-vibid:4744046274206": 25,
+      "gas:candidate-vibid:4744046274911": 16,
+      "gas:candidate-vibid:4744046274468": 93,
+      "gas:candidate-vibid:4744046254789": 92,
+      "gas:candidate-vibid:4744046274389": 92,
+      "gas:candidate-vibid:4744046274258": 12,
+      "gas:candidate-vibid:4744046273997": 155,
+      "gas:candidate-vibid:4744046274535": 11
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/chelyabinsk?action=show&root=1000252&tvd=27420001143144&vrn=100100067795849&region=74&global=&sub_region=74&prver=0&pronetvd=null&vibid=27420001143144&type=464",
@@ -751,15 +751,15 @@ export const duma_2016_uik_463_region_74_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бурматов Владимир Владимирович": 330,
-      "Горбачёв Владимир Иванович": 23,
-      "Навроцкая Елена Александровна": 22,
-      "Нациевский Константин Олегович": 47,
-      "Пашин Виталий Львович": 83,
-      "Севастьянов Алексей Михайлович": 73,
-      "Табалов Алексей Викторович": 13,
-      "Швецов Василий Георгиевич": 150,
-      "Яцун Андрей Николаевич": 11
+      "gas:candidate-vibid:4744046274347": 330,
+      "gas:candidate-vibid:4744046274206": 23,
+      "gas:candidate-vibid:4744046274911": 22,
+      "gas:candidate-vibid:4744046274468": 47,
+      "gas:candidate-vibid:4744046254789": 83,
+      "gas:candidate-vibid:4744046274389": 73,
+      "gas:candidate-vibid:4744046274258": 13,
+      "gas:candidate-vibid:4744046273997": 150,
+      "gas:candidate-vibid:4744046274535": 11
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/chelyabinsk?action=show&root=1000252&tvd=27420001143144&vrn=100100067795849&region=74&global=&sub_region=74&prver=0&pronetvd=null&vibid=27420001143144&type=464",
@@ -810,15 +810,15 @@ export const duma_2016_uik_463_region_74_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бурматов Владимир Владимирович": 251,
-      "Горбачёв Владимир Иванович": 28,
-      "Навроцкая Елена Александровна": 23,
-      "Нациевский Константин Олегович": 75,
-      "Пашин Виталий Львович": 76,
-      "Севастьянов Алексей Михайлович": 81,
-      "Табалов Алексей Викторович": 13,
-      "Швецов Василий Георгиевич": 160,
-      "Яцун Андрей Николаевич": 18
+      "gas:candidate-vibid:4744046274347": 251,
+      "gas:candidate-vibid:4744046274206": 28,
+      "gas:candidate-vibid:4744046274911": 23,
+      "gas:candidate-vibid:4744046274468": 75,
+      "gas:candidate-vibid:4744046254789": 76,
+      "gas:candidate-vibid:4744046274389": 81,
+      "gas:candidate-vibid:4744046274258": 13,
+      "gas:candidate-vibid:4744046273997": 160,
+      "gas:candidate-vibid:4744046274535": 18
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/chelyabinsk?action=show&root=1000252&tvd=27420001143144&vrn=100100067795849&region=74&global=&sub_region=74&prver=0&pronetvd=null&vibid=27420001143144&type=464",
@@ -869,15 +869,15 @@ export const duma_2016_uik_463_region_74_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бурматов Владимир Владимирович": 249,
-      "Горбачёв Владимир Иванович": 20,
-      "Навроцкая Елена Александровна": 16,
-      "Нациевский Константин Олегович": 78,
-      "Пашин Виталий Львович": 115,
-      "Севастьянов Алексей Михайлович": 63,
-      "Табалов Алексей Викторович": 18,
-      "Швецов Василий Георгиевич": 148,
-      "Яцун Андрей Николаевич": 21
+      "gas:candidate-vibid:4744046274347": 249,
+      "gas:candidate-vibid:4744046274206": 20,
+      "gas:candidate-vibid:4744046274911": 16,
+      "gas:candidate-vibid:4744046274468": 78,
+      "gas:candidate-vibid:4744046254789": 115,
+      "gas:candidate-vibid:4744046274389": 63,
+      "gas:candidate-vibid:4744046274258": 18,
+      "gas:candidate-vibid:4744046273997": 148,
+      "gas:candidate-vibid:4744046274535": 21
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/chelyabinsk?action=show&root=1000252&tvd=27420001143144&vrn=100100067795849&region=74&global=&sub_region=74&prver=0&pronetvd=null&vibid=27420001143144&type=464",
@@ -928,15 +928,15 @@ export const duma_2016_uik_463_region_74_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бурматов Владимир Владимирович": 254,
-      "Горбачёв Владимир Иванович": 36,
-      "Навроцкая Елена Александровна": 13,
-      "Нациевский Константин Олегович": 110,
-      "Пашин Виталий Львович": 100,
-      "Севастьянов Алексей Михайлович": 105,
-      "Табалов Алексей Викторович": 14,
-      "Швецов Василий Георгиевич": 243,
-      "Яцун Андрей Николаевич": 19
+      "gas:candidate-vibid:4744046274347": 254,
+      "gas:candidate-vibid:4744046274206": 36,
+      "gas:candidate-vibid:4744046274911": 13,
+      "gas:candidate-vibid:4744046274468": 110,
+      "gas:candidate-vibid:4744046254789": 100,
+      "gas:candidate-vibid:4744046274389": 105,
+      "gas:candidate-vibid:4744046274258": 14,
+      "gas:candidate-vibid:4744046273997": 243,
+      "gas:candidate-vibid:4744046274535": 19
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/chelyabinsk?action=show&root=1000252&tvd=27420001143144&vrn=100100067795849&region=74&global=&sub_region=74&prver=0&pronetvd=null&vibid=27420001143144&type=464",
@@ -987,15 +987,15 @@ export const duma_2016_uik_463_region_74_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бурматов Владимир Владимирович": 322,
-      "Горбачёв Владимир Иванович": 37,
-      "Навроцкая Елена Александровна": 18,
-      "Нациевский Константин Олегович": 92,
-      "Пашин Виталий Львович": 87,
-      "Севастьянов Алексей Михайлович": 92,
-      "Табалов Алексей Викторович": 23,
-      "Швецов Василий Георгиевич": 204,
-      "Яцун Андрей Николаевич": 21
+      "gas:candidate-vibid:4744046274347": 322,
+      "gas:candidate-vibid:4744046274206": 37,
+      "gas:candidate-vibid:4744046274911": 18,
+      "gas:candidate-vibid:4744046274468": 92,
+      "gas:candidate-vibid:4744046254789": 87,
+      "gas:candidate-vibid:4744046274389": 92,
+      "gas:candidate-vibid:4744046274258": 23,
+      "gas:candidate-vibid:4744046273997": 204,
+      "gas:candidate-vibid:4744046274535": 21
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/chelyabinsk?action=show&root=1000252&tvd=27420001143144&vrn=100100067795849&region=74&global=&sub_region=74&prver=0&pronetvd=null&vibid=27420001143144&type=464",
@@ -1046,15 +1046,15 @@ export const duma_2016_uik_463_region_74_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бурматов Владимир Владимирович": 307,
-      "Горбачёв Владимир Иванович": 29,
-      "Навроцкая Елена Александровна": 16,
-      "Нациевский Константин Олегович": 85,
-      "Пашин Виталий Львович": 74,
-      "Севастьянов Алексей Михайлович": 72,
-      "Табалов Алексей Викторович": 11,
-      "Швецов Василий Георгиевич": 230,
-      "Яцун Андрей Николаевич": 24
+      "gas:candidate-vibid:4744046274347": 307,
+      "gas:candidate-vibid:4744046274206": 29,
+      "gas:candidate-vibid:4744046274911": 16,
+      "gas:candidate-vibid:4744046274468": 85,
+      "gas:candidate-vibid:4744046254789": 74,
+      "gas:candidate-vibid:4744046274389": 72,
+      "gas:candidate-vibid:4744046274258": 11,
+      "gas:candidate-vibid:4744046273997": 230,
+      "gas:candidate-vibid:4744046274535": 24
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/chelyabinsk?action=show&root=1000252&tvd=27420001143144&vrn=100100067795849&region=74&global=&sub_region=74&prver=0&pronetvd=null&vibid=27420001143144&type=464",
@@ -1105,15 +1105,15 @@ export const duma_2016_uik_463_region_74_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бурматов Владимир Владимирович": 304,
-      "Горбачёв Владимир Иванович": 26,
-      "Навроцкая Елена Александровна": 13,
-      "Нациевский Константин Олегович": 131,
-      "Пашин Виталий Львович": 97,
-      "Севастьянов Алексей Михайлович": 90,
-      "Табалов Алексей Викторович": 14,
-      "Швецов Василий Георгиевич": 264,
-      "Яцун Андрей Николаевич": 28
+      "gas:candidate-vibid:4744046274347": 304,
+      "gas:candidate-vibid:4744046274206": 26,
+      "gas:candidate-vibid:4744046274911": 13,
+      "gas:candidate-vibid:4744046274468": 131,
+      "gas:candidate-vibid:4744046254789": 97,
+      "gas:candidate-vibid:4744046274389": 90,
+      "gas:candidate-vibid:4744046274258": 14,
+      "gas:candidate-vibid:4744046273997": 264,
+      "gas:candidate-vibid:4744046274535": 28
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/chelyabinsk?action=show&root=1000252&tvd=27420001143144&vrn=100100067795849&region=74&global=&sub_region=74&prver=0&pronetvd=null&vibid=27420001143144&type=464",
@@ -1164,15 +1164,15 @@ export const duma_2016_uik_463_region_74_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бурматов Владимир Владимирович": 275,
-      "Горбачёв Владимир Иванович": 25,
-      "Навроцкая Елена Александровна": 16,
-      "Нациевский Константин Олегович": 72,
-      "Пашин Виталий Львович": 80,
-      "Севастьянов Алексей Михайлович": 91,
-      "Табалов Алексей Викторович": 8,
-      "Швецов Василий Георгиевич": 239,
-      "Яцун Андрей Николаевич": 13
+      "gas:candidate-vibid:4744046274347": 275,
+      "gas:candidate-vibid:4744046274206": 25,
+      "gas:candidate-vibid:4744046274911": 16,
+      "gas:candidate-vibid:4744046274468": 72,
+      "gas:candidate-vibid:4744046254789": 80,
+      "gas:candidate-vibid:4744046274389": 91,
+      "gas:candidate-vibid:4744046274258": 8,
+      "gas:candidate-vibid:4744046273997": 239,
+      "gas:candidate-vibid:4744046274535": 13
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/chelyabinsk?action=show&root=1000252&tvd=27420001143144&vrn=100100067795849&region=74&global=&sub_region=74&prver=0&pronetvd=null&vibid=27420001143144&type=464",
@@ -1223,15 +1223,15 @@ export const duma_2016_uik_463_region_74_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бурматов Владимир Владимирович": 313,
-      "Горбачёв Владимир Иванович": 32,
-      "Навроцкая Елена Александровна": 18,
-      "Нациевский Константин Олегович": 88,
-      "Пашин Виталий Львович": 99,
-      "Севастьянов Алексей Михайлович": 99,
-      "Табалов Алексей Викторович": 19,
-      "Швецов Василий Георгиевич": 210,
-      "Яцун Андрей Николаевич": 19
+      "gas:candidate-vibid:4744046274347": 313,
+      "gas:candidate-vibid:4744046274206": 32,
+      "gas:candidate-vibid:4744046274911": 18,
+      "gas:candidate-vibid:4744046274468": 88,
+      "gas:candidate-vibid:4744046254789": 99,
+      "gas:candidate-vibid:4744046274389": 99,
+      "gas:candidate-vibid:4744046274258": 19,
+      "gas:candidate-vibid:4744046273997": 210,
+      "gas:candidate-vibid:4744046274535": 19
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/chelyabinsk?action=show&root=1000252&tvd=27420001143144&vrn=100100067795849&region=74&global=&sub_region=74&prver=0&pronetvd=null&vibid=27420001143144&type=464",
@@ -1282,15 +1282,15 @@ export const duma_2016_uik_463_region_74_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бурматов Владимир Владимирович": 282,
-      "Горбачёв Владимир Иванович": 23,
-      "Навроцкая Елена Александровна": 21,
-      "Нациевский Константин Олегович": 112,
-      "Пашин Виталий Львович": 108,
-      "Севастьянов Алексей Михайлович": 92,
-      "Табалов Алексей Викторович": 8,
-      "Швецов Василий Георгиевич": 236,
-      "Яцун Андрей Николаевич": 27
+      "gas:candidate-vibid:4744046274347": 282,
+      "gas:candidate-vibid:4744046274206": 23,
+      "gas:candidate-vibid:4744046274911": 21,
+      "gas:candidate-vibid:4744046274468": 112,
+      "gas:candidate-vibid:4744046254789": 108,
+      "gas:candidate-vibid:4744046274389": 92,
+      "gas:candidate-vibid:4744046274258": 8,
+      "gas:candidate-vibid:4744046273997": 236,
+      "gas:candidate-vibid:4744046274535": 27
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/chelyabinsk?action=show&root=1000252&tvd=27420001143144&vrn=100100067795849&region=74&global=&sub_region=74&prver=0&pronetvd=null&vibid=27420001143144&type=464",
@@ -1341,15 +1341,15 @@ export const duma_2016_uik_463_region_74_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бурматов Владимир Владимирович": 509,
-      "Горбачёв Владимир Иванович": 34,
-      "Навроцкая Елена Александровна": 30,
-      "Нациевский Константин Олегович": 111,
-      "Пашин Виталий Львович": 86,
-      "Севастьянов Алексей Михайлович": 141,
-      "Табалов Алексей Викторович": 16,
-      "Швецов Василий Георгиевич": 219,
-      "Яцун Андрей Николаевич": 22
+      "gas:candidate-vibid:4744046274347": 509,
+      "gas:candidate-vibid:4744046274206": 34,
+      "gas:candidate-vibid:4744046274911": 30,
+      "gas:candidate-vibid:4744046274468": 111,
+      "gas:candidate-vibid:4744046254789": 86,
+      "gas:candidate-vibid:4744046274389": 141,
+      "gas:candidate-vibid:4744046274258": 16,
+      "gas:candidate-vibid:4744046273997": 219,
+      "gas:candidate-vibid:4744046274535": 22
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/chelyabinsk?action=show&root=1000252&tvd=27420001143144&vrn=100100067795849&region=74&global=&sub_region=74&prver=0&pronetvd=null&vibid=27420001143144&type=464",
@@ -1400,15 +1400,15 @@ export const duma_2016_uik_463_region_74_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бурматов Владимир Владимирович": 435,
-      "Горбачёв Владимир Иванович": 38,
-      "Навроцкая Елена Александровна": 22,
-      "Нациевский Константин Олегович": 110,
-      "Пашин Виталий Львович": 105,
-      "Севастьянов Алексей Михайлович": 103,
-      "Табалов Алексей Викторович": 8,
-      "Швецов Василий Георгиевич": 280,
-      "Яцун Андрей Николаевич": 25
+      "gas:candidate-vibid:4744046274347": 435,
+      "gas:candidate-vibid:4744046274206": 38,
+      "gas:candidate-vibid:4744046274911": 22,
+      "gas:candidate-vibid:4744046274468": 110,
+      "gas:candidate-vibid:4744046254789": 105,
+      "gas:candidate-vibid:4744046274389": 103,
+      "gas:candidate-vibid:4744046274258": 8,
+      "gas:candidate-vibid:4744046273997": 280,
+      "gas:candidate-vibid:4744046274535": 25
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/chelyabinsk?action=show&root=1000252&tvd=27420001143144&vrn=100100067795849&region=74&global=&sub_region=74&prver=0&pronetvd=null&vibid=27420001143144&type=464",
@@ -1459,15 +1459,15 @@ export const duma_2016_uik_463_region_74_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бурматов Владимир Владимирович": 259,
-      "Горбачёв Владимир Иванович": 21,
-      "Навроцкая Елена Александровна": 22,
-      "Нациевский Константин Олегович": 50,
-      "Пашин Виталий Львович": 117,
-      "Севастьянов Алексей Михайлович": 72,
-      "Табалов Алексей Викторович": 16,
-      "Швецов Василий Георгиевич": 182,
-      "Яцун Андрей Николаевич": 22
+      "gas:candidate-vibid:4744046274347": 259,
+      "gas:candidate-vibid:4744046274206": 21,
+      "gas:candidate-vibid:4744046274911": 22,
+      "gas:candidate-vibid:4744046274468": 50,
+      "gas:candidate-vibid:4744046254789": 117,
+      "gas:candidate-vibid:4744046274389": 72,
+      "gas:candidate-vibid:4744046274258": 16,
+      "gas:candidate-vibid:4744046273997": 182,
+      "gas:candidate-vibid:4744046274535": 22
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/chelyabinsk?action=show&root=1000252&tvd=27420001143144&vrn=100100067795849&region=74&global=&sub_region=74&prver=0&pronetvd=null&vibid=27420001143144&type=464",
@@ -1518,15 +1518,15 @@ export const duma_2016_uik_463_region_74_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бурматов Владимир Владимирович": 312,
-      "Горбачёв Владимир Иванович": 21,
-      "Навроцкая Елена Александровна": 21,
-      "Нациевский Константин Олегович": 63,
-      "Пашин Виталий Львович": 98,
-      "Севастьянов Алексей Михайлович": 59,
-      "Табалов Алексей Викторович": 8,
-      "Швецов Василий Георгиевич": 168,
-      "Яцун Андрей Николаевич": 14
+      "gas:candidate-vibid:4744046274347": 312,
+      "gas:candidate-vibid:4744046274206": 21,
+      "gas:candidate-vibid:4744046274911": 21,
+      "gas:candidate-vibid:4744046274468": 63,
+      "gas:candidate-vibid:4744046254789": 98,
+      "gas:candidate-vibid:4744046274389": 59,
+      "gas:candidate-vibid:4744046274258": 8,
+      "gas:candidate-vibid:4744046273997": 168,
+      "gas:candidate-vibid:4744046274535": 14
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/chelyabinsk?action=show&root=1000252&tvd=27420001143144&vrn=100100067795849&region=74&global=&sub_region=74&prver=0&pronetvd=null&vibid=27420001143144&type=464",
@@ -1577,15 +1577,15 @@ export const duma_2016_uik_463_region_74_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бурматов Владимир Владимирович": 348,
-      "Горбачёв Владимир Иванович": 38,
-      "Навроцкая Елена Александровна": 27,
-      "Нациевский Константин Олегович": 75,
-      "Пашин Виталий Львович": 113,
-      "Севастьянов Алексей Михайлович": 80,
-      "Табалов Алексей Викторович": 21,
-      "Швецов Василий Георгиевич": 269,
-      "Яцун Андрей Николаевич": 16
+      "gas:candidate-vibid:4744046274347": 348,
+      "gas:candidate-vibid:4744046274206": 38,
+      "gas:candidate-vibid:4744046274911": 27,
+      "gas:candidate-vibid:4744046274468": 75,
+      "gas:candidate-vibid:4744046254789": 113,
+      "gas:candidate-vibid:4744046274389": 80,
+      "gas:candidate-vibid:4744046274258": 21,
+      "gas:candidate-vibid:4744046273997": 269,
+      "gas:candidate-vibid:4744046274535": 16
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/chelyabinsk?action=show&root=1000252&tvd=27420001143144&vrn=100100067795849&region=74&global=&sub_region=74&prver=0&pronetvd=null&vibid=27420001143144&type=464",
@@ -1636,15 +1636,15 @@ export const duma_2016_uik_463_region_74_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бурматов Владимир Владимирович": 256,
-      "Горбачёв Владимир Иванович": 24,
-      "Навроцкая Елена Александровна": 14,
-      "Нациевский Константин Олегович": 63,
-      "Пашин Виталий Львович": 121,
-      "Севастьянов Алексей Михайлович": 68,
-      "Табалов Алексей Викторович": 21,
-      "Швецов Василий Георгиевич": 244,
-      "Яцун Андрей Николаевич": 22
+      "gas:candidate-vibid:4744046274347": 256,
+      "gas:candidate-vibid:4744046274206": 24,
+      "gas:candidate-vibid:4744046274911": 14,
+      "gas:candidate-vibid:4744046274468": 63,
+      "gas:candidate-vibid:4744046254789": 121,
+      "gas:candidate-vibid:4744046274389": 68,
+      "gas:candidate-vibid:4744046274258": 21,
+      "gas:candidate-vibid:4744046273997": 244,
+      "gas:candidate-vibid:4744046274535": 22
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/chelyabinsk?action=show&root=1000252&tvd=27420001143144&vrn=100100067795849&region=74&global=&sub_region=74&prver=0&pronetvd=null&vibid=27420001143144&type=464",
@@ -1695,15 +1695,15 @@ export const duma_2016_uik_463_region_74_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бурматов Владимир Владимирович": 99,
-      "Горбачёв Владимир Иванович": 8,
-      "Навроцкая Елена Александровна": 10,
-      "Нациевский Константин Олегович": 17,
-      "Пашин Виталий Львович": 31,
-      "Севастьянов Алексей Михайлович": 22,
-      "Табалов Алексей Викторович": 4,
-      "Швецов Василий Георгиевич": 51,
-      "Яцун Андрей Николаевич": 5
+      "gas:candidate-vibid:4744046274347": 99,
+      "gas:candidate-vibid:4744046274206": 8,
+      "gas:candidate-vibid:4744046274911": 10,
+      "gas:candidate-vibid:4744046274468": 17,
+      "gas:candidate-vibid:4744046254789": 31,
+      "gas:candidate-vibid:4744046274389": 22,
+      "gas:candidate-vibid:4744046274258": 4,
+      "gas:candidate-vibid:4744046273997": 51,
+      "gas:candidate-vibid:4744046274535": 5
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/chelyabinsk?action=show&root=1000252&tvd=27420001143144&vrn=100100067795849&region=74&global=&sub_region=74&prver=0&pronetvd=null&vibid=27420001143144&type=464",
@@ -1754,15 +1754,15 @@ export const duma_2016_uik_463_region_74_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бурматов Владимир Владимирович": 122,
-      "Горбачёв Владимир Иванович": 12,
-      "Навроцкая Елена Александровна": 8,
-      "Нациевский Константин Олегович": 15,
-      "Пашин Виталий Львович": 20,
-      "Севастьянов Алексей Михайлович": 163,
-      "Табалов Алексей Викторович": 2,
-      "Швецов Василий Георгиевич": 55,
-      "Яцун Андрей Николаевич": 5
+      "gas:candidate-vibid:4744046274347": 122,
+      "gas:candidate-vibid:4744046274206": 12,
+      "gas:candidate-vibid:4744046274911": 8,
+      "gas:candidate-vibid:4744046274468": 15,
+      "gas:candidate-vibid:4744046254789": 20,
+      "gas:candidate-vibid:4744046274389": 163,
+      "gas:candidate-vibid:4744046274258": 2,
+      "gas:candidate-vibid:4744046273997": 55,
+      "gas:candidate-vibid:4744046274535": 5
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/chelyabinsk?action=show&root=1000252&tvd=27420001143144&vrn=100100067795849&region=74&global=&sub_region=74&prver=0&pronetvd=null&vibid=27420001143144&type=464",
@@ -1813,15 +1813,15 @@ export const duma_2016_uik_463_region_74_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бурматов Владимир Владимирович": 263,
-      "Горбачёв Владимир Иванович": 21,
-      "Навроцкая Елена Александровна": 15,
-      "Нациевский Константин Олегович": 72,
-      "Пашин Виталий Львович": 138,
-      "Севастьянов Алексей Михайлович": 70,
-      "Табалов Алексей Викторович": 15,
-      "Швецов Василий Георгиевич": 239,
-      "Яцун Андрей Николаевич": 19
+      "gas:candidate-vibid:4744046274347": 263,
+      "gas:candidate-vibid:4744046274206": 21,
+      "gas:candidate-vibid:4744046274911": 15,
+      "gas:candidate-vibid:4744046274468": 72,
+      "gas:candidate-vibid:4744046254789": 138,
+      "gas:candidate-vibid:4744046274389": 70,
+      "gas:candidate-vibid:4744046274258": 15,
+      "gas:candidate-vibid:4744046273997": 239,
+      "gas:candidate-vibid:4744046274535": 19
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/chelyabinsk?action=show&root=1000252&tvd=27420001143144&vrn=100100067795849&region=74&global=&sub_region=74&prver=0&pronetvd=null&vibid=27420001143144&type=464",
@@ -1872,15 +1872,15 @@ export const duma_2016_uik_463_region_74_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бурматов Владимир Владимирович": 379,
-      "Горбачёв Владимир Иванович": 30,
-      "Навроцкая Елена Александровна": 20,
-      "Нациевский Константин Олегович": 54,
-      "Пашин Виталий Львович": 101,
-      "Севастьянов Алексей Михайлович": 30,
-      "Табалов Алексей Викторович": 8,
-      "Швецов Василий Георгиевич": 145,
-      "Яцун Андрей Николаевич": 11
+      "gas:candidate-vibid:4744046274347": 379,
+      "gas:candidate-vibid:4744046274206": 30,
+      "gas:candidate-vibid:4744046274911": 20,
+      "gas:candidate-vibid:4744046274468": 54,
+      "gas:candidate-vibid:4744046254789": 101,
+      "gas:candidate-vibid:4744046274389": 30,
+      "gas:candidate-vibid:4744046274258": 8,
+      "gas:candidate-vibid:4744046273997": 145,
+      "gas:candidate-vibid:4744046274535": 11
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/chelyabinsk?action=show&root=1000252&tvd=27420001143145&vrn=100100067795849&region=74&global=&sub_region=74&prver=0&pronetvd=null&vibid=27420001143145&type=464",
@@ -1931,15 +1931,15 @@ export const duma_2016_uik_463_region_74_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бурматов Владимир Владимирович": 260,
-      "Горбачёв Владимир Иванович": 28,
-      "Навроцкая Елена Александровна": 25,
-      "Нациевский Константин Олегович": 69,
-      "Пашин Виталий Львович": 93,
-      "Севастьянов Алексей Михайлович": 127,
-      "Табалов Алексей Викторович": 9,
-      "Швецов Василий Георгиевич": 275,
-      "Яцун Андрей Николаевич": 20
+      "gas:candidate-vibid:4744046274347": 260,
+      "gas:candidate-vibid:4744046274206": 28,
+      "gas:candidate-vibid:4744046274911": 25,
+      "gas:candidate-vibid:4744046274468": 69,
+      "gas:candidate-vibid:4744046254789": 93,
+      "gas:candidate-vibid:4744046274389": 127,
+      "gas:candidate-vibid:4744046274258": 9,
+      "gas:candidate-vibid:4744046273997": 275,
+      "gas:candidate-vibid:4744046274535": 20
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/chelyabinsk?action=show&root=1000252&tvd=27420001143145&vrn=100100067795849&region=74&global=&sub_region=74&prver=0&pronetvd=null&vibid=27420001143145&type=464",
@@ -1990,15 +1990,15 @@ export const duma_2016_uik_463_region_74_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бурматов Владимир Владимирович": 190,
-      "Горбачёв Владимир Иванович": 5,
-      "Навроцкая Елена Александровна": 4,
-      "Нациевский Константин Олегович": 9,
-      "Пашин Виталий Львович": 18,
-      "Севастьянов Алексей Михайлович": 4,
-      "Табалов Алексей Викторович": 1,
-      "Швецов Василий Георгиевич": 29,
-      "Яцун Андрей Николаевич": 2
+      "gas:candidate-vibid:4744046274347": 190,
+      "gas:candidate-vibid:4744046274206": 5,
+      "gas:candidate-vibid:4744046274911": 4,
+      "gas:candidate-vibid:4744046274468": 9,
+      "gas:candidate-vibid:4744046254789": 18,
+      "gas:candidate-vibid:4744046274389": 4,
+      "gas:candidate-vibid:4744046274258": 1,
+      "gas:candidate-vibid:4744046273997": 29,
+      "gas:candidate-vibid:4744046274535": 2
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/chelyabinsk?action=show&root=1000252&tvd=27420001143145&vrn=100100067795849&region=74&global=&sub_region=74&prver=0&pronetvd=null&vibid=27420001143145&type=464",
@@ -2049,15 +2049,15 @@ export const duma_2016_uik_463_region_74_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бурматов Владимир Владимирович": 262,
-      "Горбачёв Владимир Иванович": 18,
-      "Навроцкая Елена Александровна": 17,
-      "Нациевский Константин Олегович": 58,
-      "Пашин Виталий Львович": 79,
-      "Севастьянов Алексей Михайлович": 45,
-      "Табалов Алексей Викторович": 13,
-      "Швецов Василий Георгиевич": 177,
-      "Яцун Андрей Николаевич": 25
+      "gas:candidate-vibid:4744046274347": 262,
+      "gas:candidate-vibid:4744046274206": 18,
+      "gas:candidate-vibid:4744046274911": 17,
+      "gas:candidate-vibid:4744046274468": 58,
+      "gas:candidate-vibid:4744046254789": 79,
+      "gas:candidate-vibid:4744046274389": 45,
+      "gas:candidate-vibid:4744046274258": 13,
+      "gas:candidate-vibid:4744046273997": 177,
+      "gas:candidate-vibid:4744046274535": 25
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/chelyabinsk?action=show&root=1000252&tvd=27420001143145&vrn=100100067795849&region=74&global=&sub_region=74&prver=0&pronetvd=null&vibid=27420001143145&type=464",
@@ -2108,15 +2108,15 @@ export const duma_2016_uik_463_region_74_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бурматов Владимир Владимирович": 252,
-      "Горбачёв Владимир Иванович": 30,
-      "Навроцкая Елена Александровна": 19,
-      "Нациевский Константин Олегович": 49,
-      "Пашин Виталий Львович": 91,
-      "Севастьянов Алексей Михайлович": 41,
-      "Табалов Алексей Викторович": 5,
-      "Швецов Василий Георгиевич": 187,
-      "Яцун Андрей Николаевич": 15
+      "gas:candidate-vibid:4744046274347": 252,
+      "gas:candidate-vibid:4744046274206": 30,
+      "gas:candidate-vibid:4744046274911": 19,
+      "gas:candidate-vibid:4744046274468": 49,
+      "gas:candidate-vibid:4744046254789": 91,
+      "gas:candidate-vibid:4744046274389": 41,
+      "gas:candidate-vibid:4744046274258": 5,
+      "gas:candidate-vibid:4744046273997": 187,
+      "gas:candidate-vibid:4744046274535": 15
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/chelyabinsk?action=show&root=1000252&tvd=27420001143145&vrn=100100067795849&region=74&global=&sub_region=74&prver=0&pronetvd=null&vibid=27420001143145&type=464",
@@ -2167,15 +2167,15 @@ export const duma_2016_uik_463_region_74_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бурматов Владимир Владимирович": 137,
-      "Горбачёв Владимир Иванович": 21,
-      "Навроцкая Елена Александровна": 12,
-      "Нациевский Константин Олегович": 39,
-      "Пашин Виталий Львович": 58,
-      "Севастьянов Алексей Михайлович": 36,
-      "Табалов Алексей Викторович": 3,
-      "Швецов Василий Георгиевич": 125,
-      "Яцун Андрей Николаевич": 16
+      "gas:candidate-vibid:4744046274347": 137,
+      "gas:candidate-vibid:4744046274206": 21,
+      "gas:candidate-vibid:4744046274911": 12,
+      "gas:candidate-vibid:4744046274468": 39,
+      "gas:candidate-vibid:4744046254789": 58,
+      "gas:candidate-vibid:4744046274389": 36,
+      "gas:candidate-vibid:4744046274258": 3,
+      "gas:candidate-vibid:4744046273997": 125,
+      "gas:candidate-vibid:4744046274535": 16
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/chelyabinsk?action=show&root=1000252&tvd=27420001143145&vrn=100100067795849&region=74&global=&sub_region=74&prver=0&pronetvd=null&vibid=27420001143145&type=464",
@@ -2226,15 +2226,15 @@ export const duma_2016_uik_463_region_74_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бурматов Владимир Владимирович": 239,
-      "Горбачёв Владимир Иванович": 23,
-      "Навроцкая Елена Александровна": 19,
-      "Нациевский Константин Олегович": 55,
-      "Пашин Виталий Львович": 67,
-      "Севастьянов Алексей Михайлович": 46,
-      "Табалов Алексей Викторович": 13,
-      "Швецов Василий Георгиевич": 135,
-      "Яцун Андрей Николаевич": 17
+      "gas:candidate-vibid:4744046274347": 239,
+      "gas:candidate-vibid:4744046274206": 23,
+      "gas:candidate-vibid:4744046274911": 19,
+      "gas:candidate-vibid:4744046274468": 55,
+      "gas:candidate-vibid:4744046254789": 67,
+      "gas:candidate-vibid:4744046274389": 46,
+      "gas:candidate-vibid:4744046274258": 13,
+      "gas:candidate-vibid:4744046273997": 135,
+      "gas:candidate-vibid:4744046274535": 17
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/chelyabinsk?action=show&root=1000252&tvd=27420001143145&vrn=100100067795849&region=74&global=&sub_region=74&prver=0&pronetvd=null&vibid=27420001143145&type=464",
@@ -2285,15 +2285,15 @@ export const duma_2016_uik_463_region_74_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бурматов Владимир Владимирович": 129,
-      "Горбачёв Владимир Иванович": 12,
-      "Навроцкая Елена Александровна": 15,
-      "Нациевский Константин Олегович": 30,
-      "Пашин Виталий Львович": 48,
-      "Севастьянов Алексей Михайлович": 48,
-      "Табалов Алексей Викторович": 5,
-      "Швецов Василий Георгиевич": 142,
-      "Яцун Андрей Николаевич": 6
+      "gas:candidate-vibid:4744046274347": 129,
+      "gas:candidate-vibid:4744046274206": 12,
+      "gas:candidate-vibid:4744046274911": 15,
+      "gas:candidate-vibid:4744046274468": 30,
+      "gas:candidate-vibid:4744046254789": 48,
+      "gas:candidate-vibid:4744046274389": 48,
+      "gas:candidate-vibid:4744046274258": 5,
+      "gas:candidate-vibid:4744046273997": 142,
+      "gas:candidate-vibid:4744046274535": 6
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/chelyabinsk?action=show&root=1000252&tvd=27420001143145&vrn=100100067795849&region=74&global=&sub_region=74&prver=0&pronetvd=null&vibid=27420001143145&type=464",
@@ -2344,15 +2344,15 @@ export const duma_2016_uik_463_region_74_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бурматов Владимир Владимирович": 181,
-      "Горбачёв Владимир Иванович": 21,
-      "Навроцкая Елена Александровна": 17,
-      "Нациевский Константин Олегович": 33,
-      "Пашин Виталий Львович": 48,
-      "Севастьянов Алексей Михайлович": 39,
-      "Табалов Алексей Викторович": 8,
-      "Швецов Василий Георгиевич": 106,
-      "Яцун Андрей Николаевич": 19
+      "gas:candidate-vibid:4744046274347": 181,
+      "gas:candidate-vibid:4744046274206": 21,
+      "gas:candidate-vibid:4744046274911": 17,
+      "gas:candidate-vibid:4744046274468": 33,
+      "gas:candidate-vibid:4744046254789": 48,
+      "gas:candidate-vibid:4744046274389": 39,
+      "gas:candidate-vibid:4744046274258": 8,
+      "gas:candidate-vibid:4744046273997": 106,
+      "gas:candidate-vibid:4744046274535": 19
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/chelyabinsk?action=show&root=1000252&tvd=27420001143145&vrn=100100067795849&region=74&global=&sub_region=74&prver=0&pronetvd=null&vibid=27420001143145&type=464",
@@ -2403,15 +2403,15 @@ export const duma_2016_uik_463_region_74_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бурматов Владимир Владимирович": 198,
-      "Горбачёв Владимир Иванович": 17,
-      "Навроцкая Елена Александровна": 8,
-      "Нациевский Константин Олегович": 27,
-      "Пашин Виталий Львович": 51,
-      "Севастьянов Алексей Михайлович": 38,
-      "Табалов Алексей Викторович": 3,
-      "Швецов Василий Георгиевич": 89,
-      "Яцун Андрей Николаевич": 13
+      "gas:candidate-vibid:4744046274347": 198,
+      "gas:candidate-vibid:4744046274206": 17,
+      "gas:candidate-vibid:4744046274911": 8,
+      "gas:candidate-vibid:4744046274468": 27,
+      "gas:candidate-vibid:4744046254789": 51,
+      "gas:candidate-vibid:4744046274389": 38,
+      "gas:candidate-vibid:4744046274258": 3,
+      "gas:candidate-vibid:4744046273997": 89,
+      "gas:candidate-vibid:4744046274535": 13
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/chelyabinsk?action=show&root=1000252&tvd=27420001143145&vrn=100100067795849&region=74&global=&sub_region=74&prver=0&pronetvd=null&vibid=27420001143145&type=464",
@@ -2462,15 +2462,15 @@ export const duma_2016_uik_463_region_74_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бурматов Владимир Владимирович": 159,
-      "Горбачёв Владимир Иванович": 17,
-      "Навроцкая Елена Александровна": 10,
-      "Нациевский Константин Олегович": 51,
-      "Пашин Виталий Львович": 47,
-      "Севастьянов Алексей Михайлович": 30,
-      "Табалов Алексей Викторович": 10,
-      "Швецов Василий Георгиевич": 104,
-      "Яцун Андрей Николаевич": 18
+      "gas:candidate-vibid:4744046274347": 159,
+      "gas:candidate-vibid:4744046274206": 17,
+      "gas:candidate-vibid:4744046274911": 10,
+      "gas:candidate-vibid:4744046274468": 51,
+      "gas:candidate-vibid:4744046254789": 47,
+      "gas:candidate-vibid:4744046274389": 30,
+      "gas:candidate-vibid:4744046274258": 10,
+      "gas:candidate-vibid:4744046273997": 104,
+      "gas:candidate-vibid:4744046274535": 18
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/chelyabinsk?action=show&root=1000252&tvd=27420001143145&vrn=100100067795849&region=74&global=&sub_region=74&prver=0&pronetvd=null&vibid=27420001143145&type=464",
@@ -2521,15 +2521,15 @@ export const duma_2016_uik_463_region_74_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бурматов Владимир Владимирович": 179,
-      "Горбачёв Владимир Иванович": 19,
-      "Навроцкая Елена Александровна": 17,
-      "Нациевский Константин Олегович": 57,
-      "Пашин Виталий Львович": 69,
-      "Севастьянов Алексей Михайлович": 59,
-      "Табалов Алексей Викторович": 10,
-      "Швецов Василий Георгиевич": 127,
-      "Яцун Андрей Николаевич": 19
+      "gas:candidate-vibid:4744046274347": 179,
+      "gas:candidate-vibid:4744046274206": 19,
+      "gas:candidate-vibid:4744046274911": 17,
+      "gas:candidate-vibid:4744046274468": 57,
+      "gas:candidate-vibid:4744046254789": 69,
+      "gas:candidate-vibid:4744046274389": 59,
+      "gas:candidate-vibid:4744046274258": 10,
+      "gas:candidate-vibid:4744046273997": 127,
+      "gas:candidate-vibid:4744046274535": 19
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/chelyabinsk?action=show&root=1000252&tvd=27420001143145&vrn=100100067795849&region=74&global=&sub_region=74&prver=0&pronetvd=null&vibid=27420001143145&type=464",
@@ -2580,15 +2580,15 @@ export const duma_2016_uik_463_region_74_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бурматов Владимир Владимирович": 198,
-      "Горбачёв Владимир Иванович": 17,
-      "Навроцкая Елена Александровна": 15,
-      "Нациевский Константин Олегович": 49,
-      "Пашин Виталий Львович": 58,
-      "Севастьянов Алексей Михайлович": 83,
-      "Табалов Алексей Викторович": 11,
-      "Швецов Василий Георгиевич": 146,
-      "Яцун Андрей Николаевич": 24
+      "gas:candidate-vibid:4744046274347": 198,
+      "gas:candidate-vibid:4744046274206": 17,
+      "gas:candidate-vibid:4744046274911": 15,
+      "gas:candidate-vibid:4744046274468": 49,
+      "gas:candidate-vibid:4744046254789": 58,
+      "gas:candidate-vibid:4744046274389": 83,
+      "gas:candidate-vibid:4744046274258": 11,
+      "gas:candidate-vibid:4744046273997": 146,
+      "gas:candidate-vibid:4744046274535": 24
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/chelyabinsk?action=show&root=1000252&tvd=27420001143145&vrn=100100067795849&region=74&global=&sub_region=74&prver=0&pronetvd=null&vibid=27420001143145&type=464",
@@ -2639,15 +2639,15 @@ export const duma_2016_uik_463_region_74_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бурматов Владимир Владимирович": 206,
-      "Горбачёв Владимир Иванович": 14,
-      "Навроцкая Елена Александровна": 15,
-      "Нациевский Константин Олегович": 44,
-      "Пашин Виталий Львович": 70,
-      "Севастьянов Алексей Михайлович": 57,
-      "Табалов Алексей Викторович": 5,
-      "Швецов Василий Георгиевич": 122,
-      "Яцун Андрей Николаевич": 12
+      "gas:candidate-vibid:4744046274347": 206,
+      "gas:candidate-vibid:4744046274206": 14,
+      "gas:candidate-vibid:4744046274911": 15,
+      "gas:candidate-vibid:4744046274468": 44,
+      "gas:candidate-vibid:4744046254789": 70,
+      "gas:candidate-vibid:4744046274389": 57,
+      "gas:candidate-vibid:4744046274258": 5,
+      "gas:candidate-vibid:4744046273997": 122,
+      "gas:candidate-vibid:4744046274535": 12
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/chelyabinsk?action=show&root=1000252&tvd=27420001143145&vrn=100100067795849&region=74&global=&sub_region=74&prver=0&pronetvd=null&vibid=27420001143145&type=464",
@@ -2698,15 +2698,15 @@ export const duma_2016_uik_463_region_74_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бурматов Владимир Владимирович": 176,
-      "Горбачёв Владимир Иванович": 27,
-      "Навроцкая Елена Александровна": 23,
-      "Нациевский Константин Олегович": 43,
-      "Пашин Виталий Львович": 58,
-      "Севастьянов Алексей Михайлович": 72,
-      "Табалов Алексей Викторович": 8,
-      "Швецов Василий Георгиевич": 145,
-      "Яцун Андрей Николаевич": 13
+      "gas:candidate-vibid:4744046274347": 176,
+      "gas:candidate-vibid:4744046274206": 27,
+      "gas:candidate-vibid:4744046274911": 23,
+      "gas:candidate-vibid:4744046274468": 43,
+      "gas:candidate-vibid:4744046254789": 58,
+      "gas:candidate-vibid:4744046274389": 72,
+      "gas:candidate-vibid:4744046274258": 8,
+      "gas:candidate-vibid:4744046273997": 145,
+      "gas:candidate-vibid:4744046274535": 13
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/chelyabinsk?action=show&root=1000252&tvd=27420001143145&vrn=100100067795849&region=74&global=&sub_region=74&prver=0&pronetvd=null&vibid=27420001143145&type=464",
@@ -2757,15 +2757,15 @@ export const duma_2016_uik_463_region_74_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бурматов Владимир Владимирович": 200,
-      "Горбачёв Владимир Иванович": 20,
-      "Навроцкая Елена Александровна": 21,
-      "Нациевский Константин Олегович": 59,
-      "Пашин Виталий Львович": 86,
-      "Севастьянов Алексей Михайлович": 63,
-      "Табалов Алексей Викторович": 13,
-      "Швецов Василий Георгиевич": 154,
-      "Яцун Андрей Николаевич": 16
+      "gas:candidate-vibid:4744046274347": 200,
+      "gas:candidate-vibid:4744046274206": 20,
+      "gas:candidate-vibid:4744046274911": 21,
+      "gas:candidate-vibid:4744046274468": 59,
+      "gas:candidate-vibid:4744046254789": 86,
+      "gas:candidate-vibid:4744046274389": 63,
+      "gas:candidate-vibid:4744046274258": 13,
+      "gas:candidate-vibid:4744046273997": 154,
+      "gas:candidate-vibid:4744046274535": 16
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/chelyabinsk?action=show&root=1000252&tvd=27420001143145&vrn=100100067795849&region=74&global=&sub_region=74&prver=0&pronetvd=null&vibid=27420001143145&type=464",
@@ -2816,15 +2816,15 @@ export const duma_2016_uik_463_region_74_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бурматов Владимир Владимирович": 222,
-      "Горбачёв Владимир Иванович": 25,
-      "Навроцкая Елена Александровна": 18,
-      "Нациевский Константин Олегович": 58,
-      "Пашин Виталий Львович": 70,
-      "Севастьянов Алексей Михайлович": 67,
-      "Табалов Алексей Викторович": 10,
-      "Швецов Василий Георгиевич": 146,
-      "Яцун Андрей Николаевич": 17
+      "gas:candidate-vibid:4744046274347": 222,
+      "gas:candidate-vibid:4744046274206": 25,
+      "gas:candidate-vibid:4744046274911": 18,
+      "gas:candidate-vibid:4744046274468": 58,
+      "gas:candidate-vibid:4744046254789": 70,
+      "gas:candidate-vibid:4744046274389": 67,
+      "gas:candidate-vibid:4744046274258": 10,
+      "gas:candidate-vibid:4744046273997": 146,
+      "gas:candidate-vibid:4744046274535": 17
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/chelyabinsk?action=show&root=1000252&tvd=27420001143145&vrn=100100067795849&region=74&global=&sub_region=74&prver=0&pronetvd=null&vibid=27420001143145&type=464",
@@ -2875,15 +2875,15 @@ export const duma_2016_uik_463_region_74_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бурматов Владимир Владимирович": 264,
-      "Горбачёв Владимир Иванович": 32,
-      "Навроцкая Елена Александровна": 18,
-      "Нациевский Константин Олегович": 54,
-      "Пашин Виталий Львович": 83,
-      "Севастьянов Алексей Михайлович": 97,
-      "Табалов Алексей Викторович": 13,
-      "Швецов Василий Георгиевич": 246,
-      "Яцун Андрей Николаевич": 29
+      "gas:candidate-vibid:4744046274347": 264,
+      "gas:candidate-vibid:4744046274206": 32,
+      "gas:candidate-vibid:4744046274911": 18,
+      "gas:candidate-vibid:4744046274468": 54,
+      "gas:candidate-vibid:4744046254789": 83,
+      "gas:candidate-vibid:4744046274389": 97,
+      "gas:candidate-vibid:4744046274258": 13,
+      "gas:candidate-vibid:4744046273997": 246,
+      "gas:candidate-vibid:4744046274535": 29
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/chelyabinsk?action=show&root=1000252&tvd=27420001143145&vrn=100100067795849&region=74&global=&sub_region=74&prver=0&pronetvd=null&vibid=27420001143145&type=464",
@@ -2934,15 +2934,15 @@ export const duma_2016_uik_463_region_74_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бурматов Владимир Владимирович": 253,
-      "Горбачёв Владимир Иванович": 19,
-      "Навроцкая Елена Александровна": 21,
-      "Нациевский Константин Олегович": 74,
-      "Пашин Виталий Львович": 79,
-      "Севастьянов Алексей Михайлович": 66,
-      "Табалов Алексей Викторович": 9,
-      "Швецов Василий Георгиевич": 155,
-      "Яцун Андрей Николаевич": 13
+      "gas:candidate-vibid:4744046274347": 253,
+      "gas:candidate-vibid:4744046274206": 19,
+      "gas:candidate-vibid:4744046274911": 21,
+      "gas:candidate-vibid:4744046274468": 74,
+      "gas:candidate-vibid:4744046254789": 79,
+      "gas:candidate-vibid:4744046274389": 66,
+      "gas:candidate-vibid:4744046274258": 9,
+      "gas:candidate-vibid:4744046273997": 155,
+      "gas:candidate-vibid:4744046274535": 13
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/chelyabinsk?action=show&root=1000252&tvd=27420001143145&vrn=100100067795849&region=74&global=&sub_region=74&prver=0&pronetvd=null&vibid=27420001143145&type=464",
@@ -2993,15 +2993,15 @@ export const duma_2016_uik_463_region_74_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бурматов Владимир Владимирович": 208,
-      "Горбачёв Владимир Иванович": 21,
-      "Навроцкая Елена Александровна": 16,
-      "Нациевский Константин Олегович": 71,
-      "Пашин Виталий Львович": 81,
-      "Севастьянов Алексей Михайлович": 67,
-      "Табалов Алексей Викторович": 15,
-      "Швецов Василий Георгиевич": 169,
-      "Яцун Андрей Николаевич": 19
+      "gas:candidate-vibid:4744046274347": 208,
+      "gas:candidate-vibid:4744046274206": 21,
+      "gas:candidate-vibid:4744046274911": 16,
+      "gas:candidate-vibid:4744046274468": 71,
+      "gas:candidate-vibid:4744046254789": 81,
+      "gas:candidate-vibid:4744046274389": 67,
+      "gas:candidate-vibid:4744046274258": 15,
+      "gas:candidate-vibid:4744046273997": 169,
+      "gas:candidate-vibid:4744046274535": 19
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/chelyabinsk?action=show&root=1000252&tvd=27420001143145&vrn=100100067795849&region=74&global=&sub_region=74&prver=0&pronetvd=null&vibid=27420001143145&type=464",
@@ -3052,15 +3052,15 @@ export const duma_2016_uik_463_region_74_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бурматов Владимир Владимирович": 149,
-      "Горбачёв Владимир Иванович": 18,
-      "Навроцкая Елена Александровна": 17,
-      "Нациевский Константин Олегович": 47,
-      "Пашин Виталий Львович": 77,
-      "Севастьянов Алексей Михайлович": 53,
-      "Табалов Алексей Викторович": 4,
-      "Швецов Василий Георгиевич": 102,
-      "Яцун Андрей Николаевич": 15
+      "gas:candidate-vibid:4744046274347": 149,
+      "gas:candidate-vibid:4744046274206": 18,
+      "gas:candidate-vibid:4744046274911": 17,
+      "gas:candidate-vibid:4744046274468": 47,
+      "gas:candidate-vibid:4744046254789": 77,
+      "gas:candidate-vibid:4744046274389": 53,
+      "gas:candidate-vibid:4744046274258": 4,
+      "gas:candidate-vibid:4744046273997": 102,
+      "gas:candidate-vibid:4744046274535": 15
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/chelyabinsk?action=show&root=1000252&tvd=27420001143145&vrn=100100067795849&region=74&global=&sub_region=74&prver=0&pronetvd=null&vibid=27420001143145&type=464",
@@ -3111,15 +3111,15 @@ export const duma_2016_uik_463_region_74_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бурматов Владимир Владимирович": 236,
-      "Горбачёв Владимир Иванович": 27,
-      "Навроцкая Елена Александровна": 22,
-      "Нациевский Константин Олегович": 64,
-      "Пашин Виталий Львович": 100,
-      "Севастьянов Алексей Михайлович": 68,
-      "Табалов Алексей Викторович": 20,
-      "Швецов Василий Георгиевич": 194,
-      "Яцун Андрей Николаевич": 26
+      "gas:candidate-vibid:4744046274347": 236,
+      "gas:candidate-vibid:4744046274206": 27,
+      "gas:candidate-vibid:4744046274911": 22,
+      "gas:candidate-vibid:4744046274468": 64,
+      "gas:candidate-vibid:4744046254789": 100,
+      "gas:candidate-vibid:4744046274389": 68,
+      "gas:candidate-vibid:4744046274258": 20,
+      "gas:candidate-vibid:4744046273997": 194,
+      "gas:candidate-vibid:4744046274535": 26
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/chelyabinsk?action=show&root=1000252&tvd=27420001143145&vrn=100100067795849&region=74&global=&sub_region=74&prver=0&pronetvd=null&vibid=27420001143145&type=464",
@@ -3170,15 +3170,15 @@ export const duma_2016_uik_463_region_74_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бурматов Владимир Владимирович": 183,
-      "Горбачёв Владимир Иванович": 29,
-      "Навроцкая Елена Александровна": 6,
-      "Нациевский Константин Олегович": 58,
-      "Пашин Виталий Львович": 60,
-      "Севастьянов Алексей Михайлович": 52,
-      "Табалов Алексей Викторович": 12,
-      "Швецов Василий Георгиевич": 118,
-      "Яцун Андрей Николаевич": 15
+      "gas:candidate-vibid:4744046274347": 183,
+      "gas:candidate-vibid:4744046274206": 29,
+      "gas:candidate-vibid:4744046274911": 6,
+      "gas:candidate-vibid:4744046274468": 58,
+      "gas:candidate-vibid:4744046254789": 60,
+      "gas:candidate-vibid:4744046274389": 52,
+      "gas:candidate-vibid:4744046274258": 12,
+      "gas:candidate-vibid:4744046273997": 118,
+      "gas:candidate-vibid:4744046274535": 15
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/chelyabinsk?action=show&root=1000252&tvd=27420001143145&vrn=100100067795849&region=74&global=&sub_region=74&prver=0&pronetvd=null&vibid=27420001143145&type=464",
@@ -3229,15 +3229,15 @@ export const duma_2016_uik_463_region_74_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бурматов Владимир Владимирович": 373,
-      "Горбачёв Владимир Иванович": 23,
-      "Навроцкая Елена Александровна": 11,
-      "Нациевский Константин Олегович": 45,
-      "Пашин Виталий Львович": 73,
-      "Севастьянов Алексей Михайлович": 38,
-      "Табалов Алексей Викторович": 14,
-      "Швецов Василий Георгиевич": 139,
-      "Яцун Андрей Николаевич": 19
+      "gas:candidate-vibid:4744046274347": 373,
+      "gas:candidate-vibid:4744046274206": 23,
+      "gas:candidate-vibid:4744046274911": 11,
+      "gas:candidate-vibid:4744046274468": 45,
+      "gas:candidate-vibid:4744046254789": 73,
+      "gas:candidate-vibid:4744046274389": 38,
+      "gas:candidate-vibid:4744046274258": 14,
+      "gas:candidate-vibid:4744046273997": 139,
+      "gas:candidate-vibid:4744046274535": 19
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/chelyabinsk?action=show&root=1000252&tvd=27420001143145&vrn=100100067795849&region=74&global=&sub_region=74&prver=0&pronetvd=null&vibid=27420001143145&type=464",
@@ -3288,15 +3288,15 @@ export const duma_2016_uik_463_region_74_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бурматов Владимир Владимирович": 180,
-      "Горбачёв Владимир Иванович": 21,
-      "Навроцкая Елена Александровна": 8,
-      "Нациевский Константин Олегович": 56,
-      "Пашин Виталий Львович": 60,
-      "Севастьянов Алексей Михайлович": 54,
-      "Табалов Алексей Викторович": 14,
-      "Швецов Василий Георгиевич": 118,
-      "Яцун Андрей Николаевич": 6
+      "gas:candidate-vibid:4744046274347": 180,
+      "gas:candidate-vibid:4744046274206": 21,
+      "gas:candidate-vibid:4744046274911": 8,
+      "gas:candidate-vibid:4744046274468": 56,
+      "gas:candidate-vibid:4744046254789": 60,
+      "gas:candidate-vibid:4744046274389": 54,
+      "gas:candidate-vibid:4744046274258": 14,
+      "gas:candidate-vibid:4744046273997": 118,
+      "gas:candidate-vibid:4744046274535": 6
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/chelyabinsk?action=show&root=1000252&tvd=27420001143145&vrn=100100067795849&region=74&global=&sub_region=74&prver=0&pronetvd=null&vibid=27420001143145&type=464",
@@ -3347,15 +3347,15 @@ export const duma_2016_uik_463_region_74_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бурматов Владимир Владимирович": 157,
-      "Горбачёв Владимир Иванович": 24,
-      "Навроцкая Елена Александровна": 13,
-      "Нациевский Константин Олегович": 48,
-      "Пашин Виталий Львович": 47,
-      "Севастьянов Алексей Михайлович": 54,
-      "Табалов Алексей Викторович": 6,
-      "Швецов Василий Георгиевич": 100,
-      "Яцун Андрей Николаевич": 7
+      "gas:candidate-vibid:4744046274347": 157,
+      "gas:candidate-vibid:4744046274206": 24,
+      "gas:candidate-vibid:4744046274911": 13,
+      "gas:candidate-vibid:4744046274468": 48,
+      "gas:candidate-vibid:4744046254789": 47,
+      "gas:candidate-vibid:4744046274389": 54,
+      "gas:candidate-vibid:4744046274258": 6,
+      "gas:candidate-vibid:4744046273997": 100,
+      "gas:candidate-vibid:4744046274535": 7
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/chelyabinsk?action=show&root=1000252&tvd=27420001143145&vrn=100100067795849&region=74&global=&sub_region=74&prver=0&pronetvd=null&vibid=27420001143145&type=464",
@@ -3406,15 +3406,15 @@ export const duma_2016_uik_463_region_74_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бурматов Владимир Владимирович": 144,
-      "Горбачёв Владимир Иванович": 17,
-      "Навроцкая Елена Александровна": 23,
-      "Нациевский Константин Олегович": 43,
-      "Пашин Виталий Львович": 43,
-      "Севастьянов Алексей Михайлович": 71,
-      "Табалов Алексей Викторович": 6,
-      "Швецов Василий Георгиевич": 116,
-      "Яцун Андрей Николаевич": 9
+      "gas:candidate-vibid:4744046274347": 144,
+      "gas:candidate-vibid:4744046274206": 17,
+      "gas:candidate-vibid:4744046274911": 23,
+      "gas:candidate-vibid:4744046274468": 43,
+      "gas:candidate-vibid:4744046254789": 43,
+      "gas:candidate-vibid:4744046274389": 71,
+      "gas:candidate-vibid:4744046274258": 6,
+      "gas:candidate-vibid:4744046273997": 116,
+      "gas:candidate-vibid:4744046274535": 9
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/chelyabinsk?action=show&root=1000252&tvd=27420001143145&vrn=100100067795849&region=74&global=&sub_region=74&prver=0&pronetvd=null&vibid=27420001143145&type=464",
@@ -3465,15 +3465,15 @@ export const duma_2016_uik_463_region_74_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бурматов Владимир Владимирович": 218,
-      "Горбачёв Владимир Иванович": 15,
-      "Навроцкая Елена Александровна": 22,
-      "Нациевский Константин Олегович": 44,
-      "Пашин Виталий Львович": 45,
-      "Севастьянов Алексей Михайлович": 41,
-      "Табалов Алексей Викторович": 6,
-      "Швецов Василий Георгиевич": 71,
-      "Яцун Андрей Николаевич": 8
+      "gas:candidate-vibid:4744046274347": 218,
+      "gas:candidate-vibid:4744046274206": 15,
+      "gas:candidate-vibid:4744046274911": 22,
+      "gas:candidate-vibid:4744046274468": 44,
+      "gas:candidate-vibid:4744046254789": 45,
+      "gas:candidate-vibid:4744046274389": 41,
+      "gas:candidate-vibid:4744046274258": 6,
+      "gas:candidate-vibid:4744046273997": 71,
+      "gas:candidate-vibid:4744046274535": 8
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/chelyabinsk?action=show&root=1000252&tvd=27420001143145&vrn=100100067795849&region=74&global=&sub_region=74&prver=0&pronetvd=null&vibid=27420001143145&type=464",
@@ -3524,15 +3524,15 @@ export const duma_2016_uik_463_region_74_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бурматов Владимир Владимирович": 215,
-      "Горбачёв Владимир Иванович": 23,
-      "Навроцкая Елена Александровна": 21,
-      "Нациевский Константин Олегович": 51,
-      "Пашин Виталий Львович": 69,
-      "Севастьянов Алексей Михайлович": 36,
-      "Табалов Алексей Викторович": 4,
-      "Швецов Василий Георгиевич": 106,
-      "Яцун Андрей Николаевич": 14
+      "gas:candidate-vibid:4744046274347": 215,
+      "gas:candidate-vibid:4744046274206": 23,
+      "gas:candidate-vibid:4744046274911": 21,
+      "gas:candidate-vibid:4744046274468": 51,
+      "gas:candidate-vibid:4744046254789": 69,
+      "gas:candidate-vibid:4744046274389": 36,
+      "gas:candidate-vibid:4744046274258": 4,
+      "gas:candidate-vibid:4744046273997": 106,
+      "gas:candidate-vibid:4744046274535": 14
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/chelyabinsk?action=show&root=1000252&tvd=27420001143145&vrn=100100067795849&region=74&global=&sub_region=74&prver=0&pronetvd=null&vibid=27420001143145&type=464",
@@ -3583,15 +3583,15 @@ export const duma_2016_uik_463_region_74_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бурматов Владимир Владимирович": 386,
-      "Горбачёв Владимир Иванович": 4,
-      "Навроцкая Елена Александровна": 4,
-      "Нациевский Константин Олегович": 8,
-      "Пашин Виталий Львович": 16,
-      "Севастьянов Алексей Михайлович": 15,
-      "Табалов Алексей Викторович": 1,
-      "Швецов Василий Георгиевич": 30,
-      "Яцун Андрей Николаевич": 3
+      "gas:candidate-vibid:4744046274347": 386,
+      "gas:candidate-vibid:4744046274206": 4,
+      "gas:candidate-vibid:4744046274911": 4,
+      "gas:candidate-vibid:4744046274468": 8,
+      "gas:candidate-vibid:4744046254789": 16,
+      "gas:candidate-vibid:4744046274389": 15,
+      "gas:candidate-vibid:4744046274258": 1,
+      "gas:candidate-vibid:4744046273997": 30,
+      "gas:candidate-vibid:4744046274535": 3
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/chelyabinsk?action=show&root=1000252&tvd=27420001143145&vrn=100100067795849&region=74&global=&sub_region=74&prver=0&pronetvd=null&vibid=27420001143145&type=464",
@@ -3642,15 +3642,15 @@ export const duma_2016_uik_463_region_74_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бурматов Владимир Владимирович": 136,
-      "Горбачёв Владимир Иванович": 18,
-      "Навроцкая Елена Александровна": 14,
-      "Нациевский Константин Олегович": 24,
-      "Пашин Виталий Львович": 40,
-      "Севастьянов Алексей Михайлович": 27,
-      "Табалов Алексей Викторович": 5,
-      "Швецов Василий Георгиевич": 106,
-      "Яцун Андрей Николаевич": 6
+      "gas:candidate-vibid:4744046274347": 136,
+      "gas:candidate-vibid:4744046274206": 18,
+      "gas:candidate-vibid:4744046274911": 14,
+      "gas:candidate-vibid:4744046274468": 24,
+      "gas:candidate-vibid:4744046254789": 40,
+      "gas:candidate-vibid:4744046274389": 27,
+      "gas:candidate-vibid:4744046274258": 5,
+      "gas:candidate-vibid:4744046273997": 106,
+      "gas:candidate-vibid:4744046274535": 6
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/chelyabinsk?action=show&root=1000252&tvd=27420001143145&vrn=100100067795849&region=74&global=&sub_region=74&prver=0&pronetvd=null&vibid=27420001143145&type=464",
@@ -3701,15 +3701,15 @@ export const duma_2016_uik_463_region_74_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бурматов Владимир Владимирович": 142,
-      "Горбачёв Владимир Иванович": 10,
-      "Навроцкая Елена Александровна": 3,
-      "Нациевский Константин Олегович": 32,
-      "Пашин Виталий Львович": 54,
-      "Севастьянов Алексей Михайлович": 40,
-      "Табалов Алексей Викторович": 10,
-      "Швецов Василий Георгиевич": 101,
-      "Яцун Андрей Николаевич": 8
+      "gas:candidate-vibid:4744046274347": 142,
+      "gas:candidate-vibid:4744046274206": 10,
+      "gas:candidate-vibid:4744046274911": 3,
+      "gas:candidate-vibid:4744046274468": 32,
+      "gas:candidate-vibid:4744046254789": 54,
+      "gas:candidate-vibid:4744046274389": 40,
+      "gas:candidate-vibid:4744046274258": 10,
+      "gas:candidate-vibid:4744046273997": 101,
+      "gas:candidate-vibid:4744046274535": 8
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/chelyabinsk?action=show&root=1000252&tvd=27420001143145&vrn=100100067795849&region=74&global=&sub_region=74&prver=0&pronetvd=null&vibid=27420001143145&type=464",
@@ -3760,15 +3760,15 @@ export const duma_2016_uik_463_region_74_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бурматов Владимир Владимирович": 519,
-      "Горбачёв Владимир Иванович": 39,
-      "Навроцкая Елена Александровна": 57,
-      "Нациевский Константин Олегович": 113,
-      "Пашин Виталий Львович": 150,
-      "Севастьянов Алексей Михайлович": 115,
-      "Табалов Алексей Викторович": 20,
-      "Швецов Василий Георгиевич": 253,
-      "Яцун Андрей Николаевич": 47
+      "gas:candidate-vibid:4744046274347": 519,
+      "gas:candidate-vibid:4744046274206": 39,
+      "gas:candidate-vibid:4744046274911": 57,
+      "gas:candidate-vibid:4744046274468": 113,
+      "gas:candidate-vibid:4744046254789": 150,
+      "gas:candidate-vibid:4744046274389": 115,
+      "gas:candidate-vibid:4744046274258": 20,
+      "gas:candidate-vibid:4744046273997": 253,
+      "gas:candidate-vibid:4744046274535": 47
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/chelyabinsk?action=show&root=1000252&tvd=27420001143145&vrn=100100067795849&region=74&global=&sub_region=74&prver=0&pronetvd=null&vibid=27420001143145&type=464",
@@ -3819,15 +3819,15 @@ export const duma_2016_uik_463_region_74_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бурматов Владимир Владимирович": 219,
-      "Горбачёв Владимир Иванович": 23,
-      "Навроцкая Елена Александровна": 20,
-      "Нациевский Константин Олегович": 49,
-      "Пашин Виталий Львович": 74,
-      "Севастьянов Алексей Михайлович": 47,
-      "Табалов Алексей Викторович": 11,
-      "Швецов Василий Георгиевич": 157,
-      "Яцун Андрей Николаевич": 8
+      "gas:candidate-vibid:4744046274347": 219,
+      "gas:candidate-vibid:4744046274206": 23,
+      "gas:candidate-vibid:4744046274911": 20,
+      "gas:candidate-vibid:4744046274468": 49,
+      "gas:candidate-vibid:4744046254789": 74,
+      "gas:candidate-vibid:4744046274389": 47,
+      "gas:candidate-vibid:4744046274258": 11,
+      "gas:candidate-vibid:4744046273997": 157,
+      "gas:candidate-vibid:4744046274535": 8
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/chelyabinsk?action=show&root=1000252&tvd=27420001143145&vrn=100100067795849&region=74&global=&sub_region=74&prver=0&pronetvd=null&vibid=27420001143145&type=464",
@@ -3878,15 +3878,15 @@ export const duma_2016_uik_463_region_74_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бурматов Владимир Владимирович": 259,
-      "Горбачёв Владимир Иванович": 23,
-      "Навроцкая Елена Александровна": 22,
-      "Нациевский Константин Олегович": 57,
-      "Пашин Виталий Львович": 73,
-      "Севастьянов Алексей Михайлович": 32,
-      "Табалов Алексей Викторович": 11,
-      "Швецов Василий Георгиевич": 152,
-      "Яцун Андрей Николаевич": 26
+      "gas:candidate-vibid:4744046274347": 259,
+      "gas:candidate-vibid:4744046274206": 23,
+      "gas:candidate-vibid:4744046274911": 22,
+      "gas:candidate-vibid:4744046274468": 57,
+      "gas:candidate-vibid:4744046254789": 73,
+      "gas:candidate-vibid:4744046274389": 32,
+      "gas:candidate-vibid:4744046274258": 11,
+      "gas:candidate-vibid:4744046273997": 152,
+      "gas:candidate-vibid:4744046274535": 26
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/chelyabinsk?action=show&root=1000252&tvd=27420001143145&vrn=100100067795849&region=74&global=&sub_region=74&prver=0&pronetvd=null&vibid=27420001143145&type=464",
@@ -3937,15 +3937,15 @@ export const duma_2016_uik_463_region_74_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бурматов Владимир Владимирович": 189,
-      "Горбачёв Владимир Иванович": 22,
-      "Навроцкая Елена Александровна": 17,
-      "Нациевский Константин Олегович": 62,
-      "Пашин Виталий Львович": 80,
-      "Севастьянов Алексей Михайлович": 64,
-      "Табалов Алексей Викторович": 8,
-      "Швецов Василий Георгиевич": 142,
-      "Яцун Андрей Николаевич": 22
+      "gas:candidate-vibid:4744046274347": 189,
+      "gas:candidate-vibid:4744046274206": 22,
+      "gas:candidate-vibid:4744046274911": 17,
+      "gas:candidate-vibid:4744046274468": 62,
+      "gas:candidate-vibid:4744046254789": 80,
+      "gas:candidate-vibid:4744046274389": 64,
+      "gas:candidate-vibid:4744046274258": 8,
+      "gas:candidate-vibid:4744046273997": 142,
+      "gas:candidate-vibid:4744046274535": 22
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/chelyabinsk?action=show&root=1000252&tvd=27420001143145&vrn=100100067795849&region=74&global=&sub_region=74&prver=0&pronetvd=null&vibid=27420001143145&type=464",
@@ -3996,15 +3996,15 @@ export const duma_2016_uik_463_region_74_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бурматов Владимир Владимирович": 211,
-      "Горбачёв Владимир Иванович": 17,
-      "Навроцкая Елена Александровна": 21,
-      "Нациевский Константин Олегович": 61,
-      "Пашин Виталий Львович": 72,
-      "Севастьянов Алексей Михайлович": 69,
-      "Табалов Алексей Викторович": 10,
-      "Швецов Василий Георгиевич": 139,
-      "Яцун Андрей Николаевич": 20
+      "gas:candidate-vibid:4744046274347": 211,
+      "gas:candidate-vibid:4744046274206": 17,
+      "gas:candidate-vibid:4744046274911": 21,
+      "gas:candidate-vibid:4744046274468": 61,
+      "gas:candidate-vibid:4744046254789": 72,
+      "gas:candidate-vibid:4744046274389": 69,
+      "gas:candidate-vibid:4744046274258": 10,
+      "gas:candidate-vibid:4744046273997": 139,
+      "gas:candidate-vibid:4744046274535": 20
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/chelyabinsk?action=show&root=1000252&tvd=27420001143145&vrn=100100067795849&region=74&global=&sub_region=74&prver=0&pronetvd=null&vibid=27420001143145&type=464",
@@ -4055,15 +4055,15 @@ export const duma_2016_uik_463_region_74_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бурматов Владимир Владимирович": 215,
-      "Горбачёв Владимир Иванович": 23,
-      "Навроцкая Елена Александровна": 19,
-      "Нациевский Константин Олегович": 35,
-      "Пашин Виталий Львович": 63,
-      "Севастьянов Алексей Михайлович": 73,
-      "Табалов Алексей Викторович": 5,
-      "Швецов Василий Георгиевич": 176,
-      "Яцун Андрей Николаевич": 16
+      "gas:candidate-vibid:4744046274347": 215,
+      "gas:candidate-vibid:4744046274206": 23,
+      "gas:candidate-vibid:4744046274911": 19,
+      "gas:candidate-vibid:4744046274468": 35,
+      "gas:candidate-vibid:4744046254789": 63,
+      "gas:candidate-vibid:4744046274389": 73,
+      "gas:candidate-vibid:4744046274258": 5,
+      "gas:candidate-vibid:4744046273997": 176,
+      "gas:candidate-vibid:4744046274535": 16
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/chelyabinsk?action=show&root=1000252&tvd=27420001143145&vrn=100100067795849&region=74&global=&sub_region=74&prver=0&pronetvd=null&vibid=27420001143145&type=464",
@@ -4114,15 +4114,15 @@ export const duma_2016_uik_463_region_74_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бурматов Владимир Владимирович": 16,
-      "Горбачёв Владимир Иванович": 4,
-      "Навроцкая Елена Александровна": 0,
-      "Нациевский Константин Олегович": 2,
-      "Пашин Виталий Львович": 2,
-      "Севастьянов Алексей Михайлович": 3,
-      "Табалов Алексей Викторович": 1,
-      "Швецов Василий Георгиевич": 3,
-      "Яцун Андрей Николаевич": 2
+      "gas:candidate-vibid:4744046274347": 16,
+      "gas:candidate-vibid:4744046274206": 4,
+      "gas:candidate-vibid:4744046274911": 0,
+      "gas:candidate-vibid:4744046274468": 2,
+      "gas:candidate-vibid:4744046254789": 2,
+      "gas:candidate-vibid:4744046274389": 3,
+      "gas:candidate-vibid:4744046274258": 1,
+      "gas:candidate-vibid:4744046273997": 3,
+      "gas:candidate-vibid:4744046274535": 2
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/chelyabinsk?action=show&root=1000252&tvd=27420001143145&vrn=100100067795849&region=74&global=&sub_region=74&prver=0&pronetvd=null&vibid=27420001143145&type=464",
@@ -4173,15 +4173,15 @@ export const duma_2016_uik_463_region_74_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бурматов Владимир Владимирович": 311,
-      "Горбачёв Владимир Иванович": 8,
-      "Навроцкая Елена Александровна": 11,
-      "Нациевский Константин Олегович": 36,
-      "Пашин Виталий Львович": 42,
-      "Севастьянов Алексей Михайлович": 41,
-      "Табалов Алексей Викторович": 11,
-      "Швецов Василий Георгиевич": 91,
-      "Яцун Андрей Николаевич": 11
+      "gas:candidate-vibid:4744046274347": 311,
+      "gas:candidate-vibid:4744046274206": 8,
+      "gas:candidate-vibid:4744046274911": 11,
+      "gas:candidate-vibid:4744046274468": 36,
+      "gas:candidate-vibid:4744046254789": 42,
+      "gas:candidate-vibid:4744046274389": 41,
+      "gas:candidate-vibid:4744046274258": 11,
+      "gas:candidate-vibid:4744046273997": 91,
+      "gas:candidate-vibid:4744046274535": 11
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/chelyabinsk?action=show&root=1000252&tvd=27420001143145&vrn=100100067795849&region=74&global=&sub_region=74&prver=0&pronetvd=null&vibid=27420001143145&type=464",
@@ -4232,15 +4232,15 @@ export const duma_2016_uik_463_region_74_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бурматов Владимир Владимирович": 222,
-      "Горбачёв Владимир Иванович": 25,
-      "Навроцкая Елена Александровна": 22,
-      "Нациевский Константин Олегович": 52,
-      "Пашин Виталий Львович": 61,
-      "Севастьянов Алексей Михайлович": 9,
-      "Табалов Алексей Викторович": 86,
-      "Швецов Василий Георгиевич": 12,
-      "Яцун Андрей Николаевич": 41
+      "gas:candidate-vibid:4744046274347": 222,
+      "gas:candidate-vibid:4744046274206": 25,
+      "gas:candidate-vibid:4744046274911": 22,
+      "gas:candidate-vibid:4744046274468": 52,
+      "gas:candidate-vibid:4744046254789": 61,
+      "gas:candidate-vibid:4744046274389": 9,
+      "gas:candidate-vibid:4744046274258": 86,
+      "gas:candidate-vibid:4744046273997": 12,
+      "gas:candidate-vibid:4744046274535": 41
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/chelyabinsk?action=show&root=1000252&tvd=27420001143145&vrn=100100067795849&region=74&global=&sub_region=74&prver=0&pronetvd=null&vibid=27420001143145&type=464",
@@ -4291,15 +4291,15 @@ export const duma_2016_uik_463_region_74_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бурматов Владимир Владимирович": 234,
-      "Горбачёв Владимир Иванович": 22,
-      "Навроцкая Елена Александровна": 15,
-      "Нациевский Константин Олегович": 53,
-      "Пашин Виталий Львович": 71,
-      "Севастьянов Алексей Михайлович": 59,
-      "Табалов Алексей Викторович": 11,
-      "Швецов Василий Георгиевич": 127,
-      "Яцун Андрей Николаевич": 17
+      "gas:candidate-vibid:4744046274347": 234,
+      "gas:candidate-vibid:4744046274206": 22,
+      "gas:candidate-vibid:4744046274911": 15,
+      "gas:candidate-vibid:4744046274468": 53,
+      "gas:candidate-vibid:4744046254789": 71,
+      "gas:candidate-vibid:4744046274389": 59,
+      "gas:candidate-vibid:4744046274258": 11,
+      "gas:candidate-vibid:4744046273997": 127,
+      "gas:candidate-vibid:4744046274535": 17
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/chelyabinsk?action=show&root=1000252&tvd=27420001143145&vrn=100100067795849&region=74&global=&sub_region=74&prver=0&pronetvd=null&vibid=27420001143145&type=464",
@@ -4350,15 +4350,15 @@ export const duma_2016_uik_463_region_74_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бурматов Владимир Владимирович": 233,
-      "Горбачёв Владимир Иванович": 22,
-      "Навроцкая Елена Александровна": 19,
-      "Нациевский Константин Олегович": 63,
-      "Пашин Виталий Львович": 76,
-      "Севастьянов Алексей Михайлович": 87,
-      "Табалов Алексей Викторович": 15,
-      "Швецов Василий Георгиевич": 141,
-      "Яцун Андрей Николаевич": 18
+      "gas:candidate-vibid:4744046274347": 233,
+      "gas:candidate-vibid:4744046274206": 22,
+      "gas:candidate-vibid:4744046274911": 19,
+      "gas:candidate-vibid:4744046274468": 63,
+      "gas:candidate-vibid:4744046254789": 76,
+      "gas:candidate-vibid:4744046274389": 87,
+      "gas:candidate-vibid:4744046274258": 15,
+      "gas:candidate-vibid:4744046273997": 141,
+      "gas:candidate-vibid:4744046274535": 18
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/chelyabinsk?action=show&root=1000252&tvd=27420001143145&vrn=100100067795849&region=74&global=&sub_region=74&prver=0&pronetvd=null&vibid=27420001143145&type=464",
@@ -4409,15 +4409,15 @@ export const duma_2016_uik_463_region_74_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бурматов Владимир Владимирович": 366,
-      "Горбачёв Владимир Иванович": 19,
-      "Навроцкая Елена Александровна": 21,
-      "Нациевский Константин Олегович": 56,
-      "Пашин Виталий Львович": 75,
-      "Севастьянов Алексей Михайлович": 75,
-      "Табалов Алексей Викторович": 9,
-      "Швецов Василий Георгиевич": 163,
-      "Яцун Андрей Николаевич": 15
+      "gas:candidate-vibid:4744046274347": 366,
+      "gas:candidate-vibid:4744046274206": 19,
+      "gas:candidate-vibid:4744046274911": 21,
+      "gas:candidate-vibid:4744046274468": 56,
+      "gas:candidate-vibid:4744046254789": 75,
+      "gas:candidate-vibid:4744046274389": 75,
+      "gas:candidate-vibid:4744046274258": 9,
+      "gas:candidate-vibid:4744046273997": 163,
+      "gas:candidate-vibid:4744046274535": 15
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/chelyabinsk?action=show&root=1000252&tvd=27420001143145&vrn=100100067795849&region=74&global=&sub_region=74&prver=0&pronetvd=null&vibid=27420001143145&type=464",
@@ -4468,15 +4468,15 @@ export const duma_2016_uik_463_region_74_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бурматов Владимир Владимирович": 375,
-      "Горбачёв Владимир Иванович": 19,
-      "Навроцкая Елена Александровна": 19,
-      "Нациевский Константин Олегович": 46,
-      "Пашин Виталий Львович": 74,
-      "Севастьянов Алексей Михайлович": 84,
-      "Табалов Алексей Викторович": 14,
-      "Швецов Василий Георгиевич": 145,
-      "Яцун Андрей Николаевич": 12
+      "gas:candidate-vibid:4744046274347": 375,
+      "gas:candidate-vibid:4744046274206": 19,
+      "gas:candidate-vibid:4744046274911": 19,
+      "gas:candidate-vibid:4744046274468": 46,
+      "gas:candidate-vibid:4744046254789": 74,
+      "gas:candidate-vibid:4744046274389": 84,
+      "gas:candidate-vibid:4744046274258": 14,
+      "gas:candidate-vibid:4744046273997": 145,
+      "gas:candidate-vibid:4744046274535": 12
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/chelyabinsk?action=show&root=1000252&tvd=27420001143145&vrn=100100067795849&region=74&global=&sub_region=74&prver=0&pronetvd=null&vibid=27420001143145&type=464",
@@ -4527,15 +4527,15 @@ export const duma_2016_uik_463_region_74_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бурматов Владимир Владимирович": 453,
-      "Горбачёв Владимир Иванович": 20,
-      "Навроцкая Елена Александровна": 26,
-      "Нациевский Константин Олегович": 69,
-      "Пашин Виталий Львович": 95,
-      "Севастьянов Алексей Михайлович": 87,
-      "Табалов Алексей Викторович": 10,
-      "Швецов Василий Георгиевич": 195,
-      "Яцун Андрей Николаевич": 23
+      "gas:candidate-vibid:4744046274347": 453,
+      "gas:candidate-vibid:4744046274206": 20,
+      "gas:candidate-vibid:4744046274911": 26,
+      "gas:candidate-vibid:4744046274468": 69,
+      "gas:candidate-vibid:4744046254789": 95,
+      "gas:candidate-vibid:4744046274389": 87,
+      "gas:candidate-vibid:4744046274258": 10,
+      "gas:candidate-vibid:4744046273997": 195,
+      "gas:candidate-vibid:4744046274535": 23
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/chelyabinsk?action=show&root=1000252&tvd=27420001143145&vrn=100100067795849&region=74&global=&sub_region=74&prver=0&pronetvd=null&vibid=27420001143145&type=464",
@@ -4586,15 +4586,15 @@ export const duma_2016_uik_463_region_74_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бурматов Владимир Владимирович": 230,
-      "Горбачёв Владимир Иванович": 22,
-      "Навроцкая Елена Александровна": 24,
-      "Нациевский Константин Олегович": 60,
-      "Пашин Виталий Львович": 90,
-      "Севастьянов Алексей Михайлович": 74,
-      "Табалов Алексей Викторович": 13,
-      "Швецов Василий Георгиевич": 153,
-      "Яцун Андрей Николаевич": 18
+      "gas:candidate-vibid:4744046274347": 230,
+      "gas:candidate-vibid:4744046274206": 22,
+      "gas:candidate-vibid:4744046274911": 24,
+      "gas:candidate-vibid:4744046274468": 60,
+      "gas:candidate-vibid:4744046254789": 90,
+      "gas:candidate-vibid:4744046274389": 74,
+      "gas:candidate-vibid:4744046274258": 13,
+      "gas:candidate-vibid:4744046273997": 153,
+      "gas:candidate-vibid:4744046274535": 18
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/chelyabinsk?action=show&root=1000252&tvd=27420001143145&vrn=100100067795849&region=74&global=&sub_region=74&prver=0&pronetvd=null&vibid=27420001143145&type=464",
@@ -4645,15 +4645,15 @@ export const duma_2016_uik_463_region_74_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бурматов Владимир Владимирович": 219,
-      "Горбачёв Владимир Иванович": 16,
-      "Навроцкая Елена Александровна": 15,
-      "Нациевский Константин Олегович": 61,
-      "Пашин Виталий Львович": 68,
-      "Севастьянов Алексей Михайлович": 57,
-      "Табалов Алексей Викторович": 12,
-      "Швецов Василий Георгиевич": 142,
-      "Яцун Андрей Николаевич": 21
+      "gas:candidate-vibid:4744046274347": 219,
+      "gas:candidate-vibid:4744046274206": 16,
+      "gas:candidate-vibid:4744046274911": 15,
+      "gas:candidate-vibid:4744046274468": 61,
+      "gas:candidate-vibid:4744046254789": 68,
+      "gas:candidate-vibid:4744046274389": 57,
+      "gas:candidate-vibid:4744046274258": 12,
+      "gas:candidate-vibid:4744046273997": 142,
+      "gas:candidate-vibid:4744046274535": 21
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/chelyabinsk?action=show&root=1000252&tvd=27420001143145&vrn=100100067795849&region=74&global=&sub_region=74&prver=0&pronetvd=null&vibid=27420001143145&type=464",
@@ -4704,15 +4704,15 @@ export const duma_2016_uik_463_region_74_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бурматов Владимир Владимирович": 278,
-      "Горбачёв Владимир Иванович": 29,
-      "Навроцкая Елена Александровна": 26,
-      "Нациевский Константин Олегович": 97,
-      "Пашин Виталий Львович": 137,
-      "Севастьянов Алексей Михайлович": 70,
-      "Табалов Алексей Викторович": 18,
-      "Швецов Василий Георгиевич": 249,
-      "Яцун Андрей Николаевич": 36
+      "gas:candidate-vibid:4744046274347": 278,
+      "gas:candidate-vibid:4744046274206": 29,
+      "gas:candidate-vibid:4744046274911": 26,
+      "gas:candidate-vibid:4744046274468": 97,
+      "gas:candidate-vibid:4744046254789": 137,
+      "gas:candidate-vibid:4744046274389": 70,
+      "gas:candidate-vibid:4744046274258": 18,
+      "gas:candidate-vibid:4744046273997": 249,
+      "gas:candidate-vibid:4744046274535": 36
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/chelyabinsk?action=show&root=1000252&tvd=27420001143145&vrn=100100067795849&region=74&global=&sub_region=74&prver=0&pronetvd=null&vibid=27420001143145&type=464",
@@ -4763,15 +4763,15 @@ export const duma_2016_uik_463_region_74_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бурматов Владимир Владимирович": 233,
-      "Горбачёв Владимир Иванович": 24,
-      "Навроцкая Елена Александровна": 15,
-      "Нациевский Константин Олегович": 59,
-      "Пашин Виталий Львович": 93,
-      "Севастьянов Алексей Михайлович": 77,
-      "Табалов Алексей Викторович": 7,
-      "Швецов Василий Георгиевич": 141,
-      "Яцун Андрей Николаевич": 20
+      "gas:candidate-vibid:4744046274347": 233,
+      "gas:candidate-vibid:4744046274206": 24,
+      "gas:candidate-vibid:4744046274911": 15,
+      "gas:candidate-vibid:4744046274468": 59,
+      "gas:candidate-vibid:4744046254789": 93,
+      "gas:candidate-vibid:4744046274389": 77,
+      "gas:candidate-vibid:4744046274258": 7,
+      "gas:candidate-vibid:4744046273997": 141,
+      "gas:candidate-vibid:4744046274535": 20
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/chelyabinsk?action=show&root=1000252&tvd=27420001143145&vrn=100100067795849&region=74&global=&sub_region=74&prver=0&pronetvd=null&vibid=27420001143145&type=464",
@@ -4822,15 +4822,15 @@ export const duma_2016_uik_463_region_74_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бурматов Владимир Владимирович": 421,
-      "Горбачёв Владимир Иванович": 18,
-      "Навроцкая Елена Александровна": 30,
-      "Нациевский Константин Олегович": 72,
-      "Пашин Виталий Львович": 94,
-      "Севастьянов Алексей Михайлович": 99,
-      "Табалов Алексей Викторович": 14,
-      "Швецов Василий Георгиевич": 189,
-      "Яцун Андрей Николаевич": 29
+      "gas:candidate-vibid:4744046274347": 421,
+      "gas:candidate-vibid:4744046274206": 18,
+      "gas:candidate-vibid:4744046274911": 30,
+      "gas:candidate-vibid:4744046274468": 72,
+      "gas:candidate-vibid:4744046254789": 94,
+      "gas:candidate-vibid:4744046274389": 99,
+      "gas:candidate-vibid:4744046274258": 14,
+      "gas:candidate-vibid:4744046273997": 189,
+      "gas:candidate-vibid:4744046274535": 29
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/chelyabinsk?action=show&root=1000252&tvd=27420001143145&vrn=100100067795849&region=74&global=&sub_region=74&prver=0&pronetvd=null&vibid=27420001143145&type=464",
@@ -4881,15 +4881,15 @@ export const duma_2016_uik_463_region_74_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бурматов Владимир Владимирович": 328,
-      "Горбачёв Владимир Иванович": 18,
-      "Навроцкая Елена Александровна": 14,
-      "Нациевский Константин Олегович": 44,
-      "Пашин Виталий Львович": 65,
-      "Севастьянов Алексей Михайлович": 54,
-      "Табалов Алексей Викторович": 12,
-      "Швецов Василий Георгиевич": 104,
-      "Яцун Андрей Николаевич": 13
+      "gas:candidate-vibid:4744046274347": 328,
+      "gas:candidate-vibid:4744046274206": 18,
+      "gas:candidate-vibid:4744046274911": 14,
+      "gas:candidate-vibid:4744046274468": 44,
+      "gas:candidate-vibid:4744046254789": 65,
+      "gas:candidate-vibid:4744046274389": 54,
+      "gas:candidate-vibid:4744046274258": 12,
+      "gas:candidate-vibid:4744046273997": 104,
+      "gas:candidate-vibid:4744046274535": 13
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/chelyabinsk?action=show&root=1000252&tvd=27420001143145&vrn=100100067795849&region=74&global=&sub_region=74&prver=0&pronetvd=null&vibid=27420001143145&type=464",
@@ -4940,15 +4940,15 @@ export const duma_2016_uik_463_region_74_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бурматов Владимир Владимирович": 232,
-      "Горбачёв Владимир Иванович": 23,
-      "Навроцкая Елена Александровна": 16,
-      "Нациевский Константин Олегович": 56,
-      "Пашин Виталий Львович": 65,
-      "Севастьянов Алексей Михайлович": 50,
-      "Табалов Алексей Викторович": 8,
-      "Швецов Василий Георгиевич": 123,
-      "Яцун Андрей Николаевич": 19
+      "gas:candidate-vibid:4744046274347": 232,
+      "gas:candidate-vibid:4744046274206": 23,
+      "gas:candidate-vibid:4744046274911": 16,
+      "gas:candidate-vibid:4744046274468": 56,
+      "gas:candidate-vibid:4744046254789": 65,
+      "gas:candidate-vibid:4744046274389": 50,
+      "gas:candidate-vibid:4744046274258": 8,
+      "gas:candidate-vibid:4744046273997": 123,
+      "gas:candidate-vibid:4744046274535": 19
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/chelyabinsk?action=show&root=1000252&tvd=27420001143145&vrn=100100067795849&region=74&global=&sub_region=74&prver=0&pronetvd=null&vibid=27420001143145&type=464",
@@ -4999,15 +4999,15 @@ export const duma_2016_uik_463_region_74_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бурматов Владимир Владимирович": 224,
-      "Горбачёв Владимир Иванович": 20,
-      "Навроцкая Елена Александровна": 21,
-      "Нациевский Константин Олегович": 35,
-      "Пашин Виталий Львович": 99,
-      "Севастьянов Алексей Михайлович": 56,
-      "Табалов Алексей Викторович": 15,
-      "Швецов Василий Георгиевич": 150,
-      "Яцун Андрей Николаевич": 35
+      "gas:candidate-vibid:4744046274347": 224,
+      "gas:candidate-vibid:4744046274206": 20,
+      "gas:candidate-vibid:4744046274911": 21,
+      "gas:candidate-vibid:4744046274468": 35,
+      "gas:candidate-vibid:4744046254789": 99,
+      "gas:candidate-vibid:4744046274389": 56,
+      "gas:candidate-vibid:4744046274258": 15,
+      "gas:candidate-vibid:4744046273997": 150,
+      "gas:candidate-vibid:4744046274535": 35
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/chelyabinsk?action=show&root=1000252&tvd=27420001143145&vrn=100100067795849&region=74&global=&sub_region=74&prver=0&pronetvd=null&vibid=27420001143145&type=464",
@@ -5058,15 +5058,15 @@ export const duma_2016_uik_463_region_74_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бурматов Владимир Владимирович": 284,
-      "Горбачёв Владимир Иванович": 34,
-      "Навроцкая Елена Александровна": 24,
-      "Нациевский Константин Олегович": 86,
-      "Пашин Виталий Львович": 116,
-      "Севастьянов Алексей Михайлович": 77,
-      "Табалов Алексей Викторович": 15,
-      "Швецов Василий Георгиевич": 165,
-      "Яцун Андрей Николаевич": 19
+      "gas:candidate-vibid:4744046274347": 284,
+      "gas:candidate-vibid:4744046274206": 34,
+      "gas:candidate-vibid:4744046274911": 24,
+      "gas:candidate-vibid:4744046274468": 86,
+      "gas:candidate-vibid:4744046254789": 116,
+      "gas:candidate-vibid:4744046274389": 77,
+      "gas:candidate-vibid:4744046274258": 15,
+      "gas:candidate-vibid:4744046273997": 165,
+      "gas:candidate-vibid:4744046274535": 19
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/chelyabinsk?action=show&root=1000252&tvd=27420001143145&vrn=100100067795849&region=74&global=&sub_region=74&prver=0&pronetvd=null&vibid=27420001143145&type=464",
@@ -5117,15 +5117,15 @@ export const duma_2016_uik_463_region_74_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бурматов Владимир Владимирович": 409,
-      "Горбачёв Владимир Иванович": 29,
-      "Навроцкая Елена Александровна": 45,
-      "Нациевский Константин Олегович": 85,
-      "Пашин Виталий Львович": 124,
-      "Севастьянов Алексей Михайлович": 95,
-      "Табалов Алексей Викторович": 13,
-      "Швецов Василий Георгиевич": 229,
-      "Яцун Андрей Николаевич": 30
+      "gas:candidate-vibid:4744046274347": 409,
+      "gas:candidate-vibid:4744046274206": 29,
+      "gas:candidate-vibid:4744046274911": 45,
+      "gas:candidate-vibid:4744046274468": 85,
+      "gas:candidate-vibid:4744046254789": 124,
+      "gas:candidate-vibid:4744046274389": 95,
+      "gas:candidate-vibid:4744046274258": 13,
+      "gas:candidate-vibid:4744046273997": 229,
+      "gas:candidate-vibid:4744046274535": 30
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/chelyabinsk?action=show&root=1000252&tvd=27420001143145&vrn=100100067795849&region=74&global=&sub_region=74&prver=0&pronetvd=null&vibid=27420001143145&type=464",
@@ -5176,15 +5176,15 @@ export const duma_2016_uik_463_region_74_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бурматов Владимир Владимирович": 488,
-      "Горбачёв Владимир Иванович": 36,
-      "Навроцкая Елена Александровна": 22,
-      "Нациевский Константин Олегович": 64,
-      "Пашин Виталий Львович": 86,
-      "Севастьянов Алексей Михайлович": 67,
-      "Табалов Алексей Викторович": 11,
-      "Швецов Василий Георгиевич": 163,
-      "Яцун Андрей Николаевич": 13
+      "gas:candidate-vibid:4744046274347": 488,
+      "gas:candidate-vibid:4744046274206": 36,
+      "gas:candidate-vibid:4744046274911": 22,
+      "gas:candidate-vibid:4744046274468": 64,
+      "gas:candidate-vibid:4744046254789": 86,
+      "gas:candidate-vibid:4744046274389": 67,
+      "gas:candidate-vibid:4744046274258": 11,
+      "gas:candidate-vibid:4744046273997": 163,
+      "gas:candidate-vibid:4744046274535": 13
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/chelyabinsk?action=show&root=1000252&tvd=27420001143145&vrn=100100067795849&region=74&global=&sub_region=74&prver=0&pronetvd=null&vibid=27420001143145&type=464",
@@ -5235,15 +5235,15 @@ export const duma_2016_uik_463_region_74_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бурматов Владимир Владимирович": 195,
-      "Горбачёв Владимир Иванович": 16,
-      "Навроцкая Елена Александровна": 26,
-      "Нациевский Константин Олегович": 54,
-      "Пашин Виталий Львович": 73,
-      "Севастьянов Алексей Михайлович": 38,
-      "Табалов Алексей Викторович": 13,
-      "Швецов Василий Георгиевич": 142,
-      "Яцун Андрей Николаевич": 14
+      "gas:candidate-vibid:4744046274347": 195,
+      "gas:candidate-vibid:4744046274206": 16,
+      "gas:candidate-vibid:4744046274911": 26,
+      "gas:candidate-vibid:4744046274468": 54,
+      "gas:candidate-vibid:4744046254789": 73,
+      "gas:candidate-vibid:4744046274389": 38,
+      "gas:candidate-vibid:4744046274258": 13,
+      "gas:candidate-vibid:4744046273997": 142,
+      "gas:candidate-vibid:4744046274535": 14
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/chelyabinsk?action=show&root=1000252&tvd=27420001143145&vrn=100100067795849&region=74&global=&sub_region=74&prver=0&pronetvd=null&vibid=27420001143145&type=464",
@@ -5294,15 +5294,15 @@ export const duma_2016_uik_463_region_74_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бурматов Владимир Владимирович": 257,
-      "Горбачёв Владимир Иванович": 27,
-      "Навроцкая Елена Александровна": 13,
-      "Нациевский Константин Олегович": 51,
-      "Пашин Виталий Львович": 79,
-      "Севастьянов Алексей Михайлович": 57,
-      "Табалов Алексей Викторович": 12,
-      "Швецов Василий Георгиевич": 141,
-      "Яцун Андрей Николаевич": 23
+      "gas:candidate-vibid:4744046274347": 257,
+      "gas:candidate-vibid:4744046274206": 27,
+      "gas:candidate-vibid:4744046274911": 13,
+      "gas:candidate-vibid:4744046274468": 51,
+      "gas:candidate-vibid:4744046254789": 79,
+      "gas:candidate-vibid:4744046274389": 57,
+      "gas:candidate-vibid:4744046274258": 12,
+      "gas:candidate-vibid:4744046273997": 141,
+      "gas:candidate-vibid:4744046274535": 23
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/chelyabinsk?action=show&root=1000252&tvd=27420001143145&vrn=100100067795849&region=74&global=&sub_region=74&prver=0&pronetvd=null&vibid=27420001143145&type=464",
@@ -5353,15 +5353,15 @@ export const duma_2016_uik_463_region_74_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бурматов Владимир Владимирович": 239,
-      "Горбачёв Владимир Иванович": 29,
-      "Навроцкая Елена Александровна": 21,
-      "Нациевский Константин Олегович": 61,
-      "Пашин Виталий Львович": 105,
-      "Севастьянов Алексей Михайлович": 58,
-      "Табалов Алексей Викторович": 5,
-      "Швецов Василий Георгиевич": 134,
-      "Яцун Андрей Николаевич": 19
+      "gas:candidate-vibid:4744046274347": 239,
+      "gas:candidate-vibid:4744046274206": 29,
+      "gas:candidate-vibid:4744046274911": 21,
+      "gas:candidate-vibid:4744046274468": 61,
+      "gas:candidate-vibid:4744046254789": 105,
+      "gas:candidate-vibid:4744046274389": 58,
+      "gas:candidate-vibid:4744046274258": 5,
+      "gas:candidate-vibid:4744046273997": 134,
+      "gas:candidate-vibid:4744046274535": 19
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/chelyabinsk?action=show&root=1000252&tvd=27420001143145&vrn=100100067795849&region=74&global=&sub_region=74&prver=0&pronetvd=null&vibid=27420001143145&type=464",
@@ -5412,15 +5412,15 @@ export const duma_2016_uik_463_region_74_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бурматов Владимир Владимирович": 342,
-      "Горбачёв Владимир Иванович": 18,
-      "Навроцкая Елена Александровна": 16,
-      "Нациевский Константин Олегович": 41,
-      "Пашин Виталий Львович": 61,
-      "Севастьянов Алексей Михайлович": 58,
-      "Табалов Алексей Викторович": 7,
-      "Швецов Василий Георгиевич": 106,
-      "Яцун Андрей Николаевич": 11
+      "gas:candidate-vibid:4744046274347": 342,
+      "gas:candidate-vibid:4744046274206": 18,
+      "gas:candidate-vibid:4744046274911": 16,
+      "gas:candidate-vibid:4744046274468": 41,
+      "gas:candidate-vibid:4744046254789": 61,
+      "gas:candidate-vibid:4744046274389": 58,
+      "gas:candidate-vibid:4744046274258": 7,
+      "gas:candidate-vibid:4744046273997": 106,
+      "gas:candidate-vibid:4744046274535": 11
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/chelyabinsk?action=show&root=1000252&tvd=27420001143145&vrn=100100067795849&region=74&global=&sub_region=74&prver=0&pronetvd=null&vibid=27420001143145&type=464",
@@ -5471,15 +5471,15 @@ export const duma_2016_uik_463_region_74_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бурматов Владимир Владимирович": 247,
-      "Горбачёв Владимир Иванович": 14,
-      "Навроцкая Елена Александровна": 25,
-      "Нациевский Константин Олегович": 66,
-      "Пашин Виталий Львович": 75,
-      "Севастьянов Алексей Михайлович": 59,
-      "Табалов Алексей Викторович": 7,
-      "Швецов Василий Георгиевич": 139,
-      "Яцун Андрей Николаевич": 18
+      "gas:candidate-vibid:4744046274347": 247,
+      "gas:candidate-vibid:4744046274206": 14,
+      "gas:candidate-vibid:4744046274911": 25,
+      "gas:candidate-vibid:4744046274468": 66,
+      "gas:candidate-vibid:4744046254789": 75,
+      "gas:candidate-vibid:4744046274389": 59,
+      "gas:candidate-vibid:4744046274258": 7,
+      "gas:candidate-vibid:4744046273997": 139,
+      "gas:candidate-vibid:4744046274535": 18
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/chelyabinsk?action=show&root=1000252&tvd=27420001143145&vrn=100100067795849&region=74&global=&sub_region=74&prver=0&pronetvd=null&vibid=27420001143145&type=464",
@@ -5530,15 +5530,15 @@ export const duma_2016_uik_463_region_74_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бурматов Владимир Владимирович": 278,
-      "Горбачёв Владимир Иванович": 19,
-      "Навроцкая Елена Александровна": 12,
-      "Нациевский Константин Олегович": 50,
-      "Пашин Виталий Львович": 77,
-      "Севастьянов Алексей Михайлович": 8,
-      "Табалов Алексей Викторович": 1,
-      "Швецов Василий Георгиевич": 100,
-      "Яцун Андрей Николаевич": 4
+      "gas:candidate-vibid:4744046274347": 278,
+      "gas:candidate-vibid:4744046274206": 19,
+      "gas:candidate-vibid:4744046274911": 12,
+      "gas:candidate-vibid:4744046274468": 50,
+      "gas:candidate-vibid:4744046254789": 77,
+      "gas:candidate-vibid:4744046274389": 8,
+      "gas:candidate-vibid:4744046274258": 1,
+      "gas:candidate-vibid:4744046273997": 100,
+      "gas:candidate-vibid:4744046274535": 4
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/chelyabinsk?action=show&root=1000252&tvd=27420001143146&vrn=100100067795849&region=74&global=&sub_region=74&prver=0&pronetvd=null&vibid=27420001143146&type=464",
@@ -5589,15 +5589,15 @@ export const duma_2016_uik_463_region_74_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бурматов Владимир Владимирович": 352,
-      "Горбачёв Владимир Иванович": 37,
-      "Навроцкая Елена Александровна": 15,
-      "Нациевский Константин Олегович": 59,
-      "Пашин Виталий Львович": 70,
-      "Севастьянов Алексей Михайлович": 33,
-      "Табалов Алексей Викторович": 5,
-      "Швецов Василий Георгиевич": 137,
-      "Яцун Андрей Николаевич": 4
+      "gas:candidate-vibid:4744046274347": 352,
+      "gas:candidate-vibid:4744046274206": 37,
+      "gas:candidate-vibid:4744046274911": 15,
+      "gas:candidate-vibid:4744046274468": 59,
+      "gas:candidate-vibid:4744046254789": 70,
+      "gas:candidate-vibid:4744046274389": 33,
+      "gas:candidate-vibid:4744046274258": 5,
+      "gas:candidate-vibid:4744046273997": 137,
+      "gas:candidate-vibid:4744046274535": 4
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/chelyabinsk?action=show&root=1000252&tvd=27420001143146&vrn=100100067795849&region=74&global=&sub_region=74&prver=0&pronetvd=null&vibid=27420001143146&type=464",
@@ -5648,15 +5648,15 @@ export const duma_2016_uik_463_region_74_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бурматов Владимир Владимирович": 517,
-      "Горбачёв Владимир Иванович": 34,
-      "Навроцкая Елена Александровна": 18,
-      "Нациевский Константин Олегович": 82,
-      "Пашин Виталий Львович": 87,
-      "Севастьянов Алексей Михайлович": 34,
-      "Табалов Алексей Викторович": 11,
-      "Швецов Василий Георгиевич": 167,
-      "Яцун Андрей Николаевич": 4
+      "gas:candidate-vibid:4744046274347": 517,
+      "gas:candidate-vibid:4744046274206": 34,
+      "gas:candidate-vibid:4744046274911": 18,
+      "gas:candidate-vibid:4744046274468": 82,
+      "gas:candidate-vibid:4744046254789": 87,
+      "gas:candidate-vibid:4744046274389": 34,
+      "gas:candidate-vibid:4744046274258": 11,
+      "gas:candidate-vibid:4744046273997": 167,
+      "gas:candidate-vibid:4744046274535": 4
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/chelyabinsk?action=show&root=1000252&tvd=27420001143146&vrn=100100067795849&region=74&global=&sub_region=74&prver=0&pronetvd=null&vibid=27420001143146&type=464",
@@ -5707,15 +5707,15 @@ export const duma_2016_uik_463_region_74_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бурматов Владимир Владимирович": 306,
-      "Горбачёв Владимир Иванович": 24,
-      "Навроцкая Елена Александровна": 13,
-      "Нациевский Константин Олегович": 38,
-      "Пашин Виталий Львович": 51,
-      "Севастьянов Алексей Михайлович": 4,
-      "Табалов Алексей Викторович": 2,
-      "Швецов Василий Георгиевич": 62,
-      "Яцун Андрей Николаевич": 7
+      "gas:candidate-vibid:4744046274347": 306,
+      "gas:candidate-vibid:4744046274206": 24,
+      "gas:candidate-vibid:4744046274911": 13,
+      "gas:candidate-vibid:4744046274468": 38,
+      "gas:candidate-vibid:4744046254789": 51,
+      "gas:candidate-vibid:4744046274389": 4,
+      "gas:candidate-vibid:4744046274258": 2,
+      "gas:candidate-vibid:4744046273997": 62,
+      "gas:candidate-vibid:4744046274535": 7
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/chelyabinsk?action=show&root=1000252&tvd=27420001143146&vrn=100100067795849&region=74&global=&sub_region=74&prver=0&pronetvd=null&vibid=27420001143146&type=464",
@@ -5766,15 +5766,15 @@ export const duma_2016_uik_463_region_74_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бурматов Владимир Владимирович": 80,
-      "Горбачёв Владимир Иванович": 12,
-      "Навроцкая Елена Александровна": 0,
-      "Нациевский Константин Олегович": 12,
-      "Пашин Виталий Львович": 13,
-      "Севастьянов Алексей Михайлович": 7,
-      "Табалов Алексей Викторович": 0,
-      "Швецов Василий Георгиевич": 28,
-      "Яцун Андрей Николаевич": 1
+      "gas:candidate-vibid:4744046274347": 80,
+      "gas:candidate-vibid:4744046274206": 12,
+      "gas:candidate-vibid:4744046274911": 0,
+      "gas:candidate-vibid:4744046274468": 12,
+      "gas:candidate-vibid:4744046254789": 13,
+      "gas:candidate-vibid:4744046274389": 7,
+      "gas:candidate-vibid:4744046274258": 0,
+      "gas:candidate-vibid:4744046273997": 28,
+      "gas:candidate-vibid:4744046274535": 1
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/chelyabinsk?action=show&root=1000252&tvd=27420001143146&vrn=100100067795849&region=74&global=&sub_region=74&prver=0&pronetvd=null&vibid=27420001143146&type=464",
@@ -5825,15 +5825,15 @@ export const duma_2016_uik_463_region_74_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бурматов Владимир Владимирович": 359,
-      "Горбачёв Владимир Иванович": 22,
-      "Навроцкая Елена Александровна": 13,
-      "Нациевский Константин Олегович": 43,
-      "Пашин Виталий Львович": 78,
-      "Севастьянов Алексей Михайлович": 24,
-      "Табалов Алексей Викторович": 2,
-      "Швецов Василий Георгиевич": 88,
-      "Яцун Андрей Николаевич": 11
+      "gas:candidate-vibid:4744046274347": 359,
+      "gas:candidate-vibid:4744046274206": 22,
+      "gas:candidate-vibid:4744046274911": 13,
+      "gas:candidate-vibid:4744046274468": 43,
+      "gas:candidate-vibid:4744046254789": 78,
+      "gas:candidate-vibid:4744046274389": 24,
+      "gas:candidate-vibid:4744046274258": 2,
+      "gas:candidate-vibid:4744046273997": 88,
+      "gas:candidate-vibid:4744046274535": 11
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/chelyabinsk?action=show&root=1000252&tvd=27420001143146&vrn=100100067795849&region=74&global=&sub_region=74&prver=0&pronetvd=null&vibid=27420001143146&type=464",
@@ -5884,15 +5884,15 @@ export const duma_2016_uik_463_region_74_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бурматов Владимир Владимирович": 57,
-      "Горбачёв Владимир Иванович": 7,
-      "Навроцкая Елена Александровна": 6,
-      "Нациевский Константин Олегович": 9,
-      "Пашин Виталий Львович": 24,
-      "Севастьянов Алексей Михайлович": 1,
-      "Табалов Алексей Викторович": 0,
-      "Швецов Василий Георгиевич": 21,
-      "Яцун Андрей Николаевич": 1
+      "gas:candidate-vibid:4744046274347": 57,
+      "gas:candidate-vibid:4744046274206": 7,
+      "gas:candidate-vibid:4744046274911": 6,
+      "gas:candidate-vibid:4744046274468": 9,
+      "gas:candidate-vibid:4744046254789": 24,
+      "gas:candidate-vibid:4744046274389": 1,
+      "gas:candidate-vibid:4744046274258": 0,
+      "gas:candidate-vibid:4744046273997": 21,
+      "gas:candidate-vibid:4744046274535": 1
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/chelyabinsk?action=show&root=1000252&tvd=27420001143146&vrn=100100067795849&region=74&global=&sub_region=74&prver=0&pronetvd=null&vibid=27420001143146&type=464",
@@ -5943,15 +5943,15 @@ export const duma_2016_uik_463_region_74_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бурматов Владимир Владимирович": 107,
-      "Горбачёв Владимир Иванович": 9,
-      "Навроцкая Елена Александровна": 5,
-      "Нациевский Константин Олегович": 17,
-      "Пашин Виталий Львович": 18,
-      "Севастьянов Алексей Михайлович": 3,
-      "Табалов Алексей Викторович": 2,
-      "Швецов Василий Георгиевич": 46,
-      "Яцун Андрей Николаевич": 2
+      "gas:candidate-vibid:4744046274347": 107,
+      "gas:candidate-vibid:4744046274206": 9,
+      "gas:candidate-vibid:4744046274911": 5,
+      "gas:candidate-vibid:4744046274468": 17,
+      "gas:candidate-vibid:4744046254789": 18,
+      "gas:candidate-vibid:4744046274389": 3,
+      "gas:candidate-vibid:4744046274258": 2,
+      "gas:candidate-vibid:4744046273997": 46,
+      "gas:candidate-vibid:4744046274535": 2
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/chelyabinsk?action=show&root=1000252&tvd=27420001143146&vrn=100100067795849&region=74&global=&sub_region=74&prver=0&pronetvd=null&vibid=27420001143146&type=464",
@@ -6002,15 +6002,15 @@ export const duma_2016_uik_463_region_74_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бурматов Владимир Владимирович": 204,
-      "Горбачёв Владимир Иванович": 20,
-      "Навроцкая Елена Александровна": 5,
-      "Нациевский Константин Олегович": 27,
-      "Пашин Виталий Львович": 19,
-      "Севастьянов Алексей Михайлович": 1,
-      "Табалов Алексей Викторович": 0,
-      "Швецов Василий Георгиевич": 26,
-      "Яцун Андрей Николаевич": 5
+      "gas:candidate-vibid:4744046274347": 204,
+      "gas:candidate-vibid:4744046274206": 20,
+      "gas:candidate-vibid:4744046274911": 5,
+      "gas:candidate-vibid:4744046274468": 27,
+      "gas:candidate-vibid:4744046254789": 19,
+      "gas:candidate-vibid:4744046274389": 1,
+      "gas:candidate-vibid:4744046274258": 0,
+      "gas:candidate-vibid:4744046273997": 26,
+      "gas:candidate-vibid:4744046274535": 5
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/chelyabinsk?action=show&root=1000252&tvd=27420001143146&vrn=100100067795849&region=74&global=&sub_region=74&prver=0&pronetvd=null&vibid=27420001143146&type=464",
@@ -6061,15 +6061,15 @@ export const duma_2016_uik_463_region_74_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бурматов Владимир Владимирович": 32,
-      "Горбачёв Владимир Иванович": 2,
-      "Навроцкая Елена Александровна": 3,
-      "Нациевский Константин Олегович": 4,
-      "Пашин Виталий Львович": 16,
-      "Севастьянов Алексей Михайлович": 2,
-      "Табалов Алексей Викторович": 0,
-      "Швецов Василий Георгиевич": 6,
-      "Яцун Андрей Николаевич": 1
+      "gas:candidate-vibid:4744046274347": 32,
+      "gas:candidate-vibid:4744046274206": 2,
+      "gas:candidate-vibid:4744046274911": 3,
+      "gas:candidate-vibid:4744046274468": 4,
+      "gas:candidate-vibid:4744046254789": 16,
+      "gas:candidate-vibid:4744046274389": 2,
+      "gas:candidate-vibid:4744046274258": 0,
+      "gas:candidate-vibid:4744046273997": 6,
+      "gas:candidate-vibid:4744046274535": 1
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/chelyabinsk?action=show&root=1000252&tvd=27420001143146&vrn=100100067795849&region=74&global=&sub_region=74&prver=0&pronetvd=null&vibid=27420001143146&type=464",
@@ -6120,15 +6120,15 @@ export const duma_2016_uik_463_region_74_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бурматов Владимир Владимирович": 114,
-      "Горбачёв Владимир Иванович": 5,
-      "Навроцкая Елена Александровна": 4,
-      "Нациевский Константин Олегович": 6,
-      "Пашин Виталий Львович": 6,
-      "Севастьянов Алексей Михайлович": 1,
-      "Табалов Алексей Викторович": 2,
-      "Швецов Василий Георгиевич": 8,
-      "Яцун Андрей Николаевич": 0
+      "gas:candidate-vibid:4744046274347": 114,
+      "gas:candidate-vibid:4744046274206": 5,
+      "gas:candidate-vibid:4744046274911": 4,
+      "gas:candidate-vibid:4744046274468": 6,
+      "gas:candidate-vibid:4744046254789": 6,
+      "gas:candidate-vibid:4744046274389": 1,
+      "gas:candidate-vibid:4744046274258": 2,
+      "gas:candidate-vibid:4744046273997": 8,
+      "gas:candidate-vibid:4744046274535": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/chelyabinsk?action=show&root=1000252&tvd=27420001143146&vrn=100100067795849&region=74&global=&sub_region=74&prver=0&pronetvd=null&vibid=27420001143146&type=464",
@@ -6179,15 +6179,15 @@ export const duma_2016_uik_463_region_74_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бурматов Владимир Владимирович": 195,
-      "Горбачёв Владимир Иванович": 21,
-      "Навроцкая Елена Александровна": 9,
-      "Нациевский Константин Олегович": 24,
-      "Пашин Виталий Львович": 7,
-      "Севастьянов Алексей Михайлович": 3,
-      "Табалов Алексей Викторович": 1,
-      "Швецов Василий Георгиевич": 37,
-      "Яцун Андрей Николаевич": 1
+      "gas:candidate-vibid:4744046274347": 195,
+      "gas:candidate-vibid:4744046274206": 21,
+      "gas:candidate-vibid:4744046274911": 9,
+      "gas:candidate-vibid:4744046274468": 24,
+      "gas:candidate-vibid:4744046254789": 7,
+      "gas:candidate-vibid:4744046274389": 3,
+      "gas:candidate-vibid:4744046274258": 1,
+      "gas:candidate-vibid:4744046273997": 37,
+      "gas:candidate-vibid:4744046274535": 1
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/chelyabinsk?action=show&root=1000252&tvd=27420001143146&vrn=100100067795849&region=74&global=&sub_region=74&prver=0&pronetvd=null&vibid=27420001143146&type=464",
@@ -6238,15 +6238,15 @@ export const duma_2016_uik_463_region_74_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бурматов Владимир Владимирович": 30,
-      "Горбачёв Владимир Иванович": 1,
-      "Навроцкая Елена Александровна": 3,
-      "Нациевский Константин Олегович": 0,
-      "Пашин Виталий Львович": 8,
-      "Севастьянов Алексей Михайлович": 1,
-      "Табалов Алексей Викторович": 0,
-      "Швецов Василий Георгиевич": 1,
-      "Яцун Андрей Николаевич": 0
+      "gas:candidate-vibid:4744046274347": 30,
+      "gas:candidate-vibid:4744046274206": 1,
+      "gas:candidate-vibid:4744046274911": 3,
+      "gas:candidate-vibid:4744046274468": 0,
+      "gas:candidate-vibid:4744046254789": 8,
+      "gas:candidate-vibid:4744046274389": 1,
+      "gas:candidate-vibid:4744046274258": 0,
+      "gas:candidate-vibid:4744046273997": 1,
+      "gas:candidate-vibid:4744046274535": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/chelyabinsk?action=show&root=1000252&tvd=27420001143146&vrn=100100067795849&region=74&global=&sub_region=74&prver=0&pronetvd=null&vibid=27420001143146&type=464",
@@ -6297,15 +6297,15 @@ export const duma_2016_uik_463_region_74_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бурматов Владимир Владимирович": 69,
-      "Горбачёв Владимир Иванович": 0,
-      "Навроцкая Елена Александровна": 0,
-      "Нациевский Константин Олегович": 9,
-      "Пашин Виталий Львович": 7,
-      "Севастьянов Алексей Михайлович": 1,
-      "Табалов Алексей Викторович": 1,
-      "Швецов Василий Георгиевич": 5,
-      "Яцун Андрей Николаевич": 1
+      "gas:candidate-vibid:4744046274347": 69,
+      "gas:candidate-vibid:4744046274206": 0,
+      "gas:candidate-vibid:4744046274911": 0,
+      "gas:candidate-vibid:4744046274468": 9,
+      "gas:candidate-vibid:4744046254789": 7,
+      "gas:candidate-vibid:4744046274389": 1,
+      "gas:candidate-vibid:4744046274258": 1,
+      "gas:candidate-vibid:4744046273997": 5,
+      "gas:candidate-vibid:4744046274535": 1
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/chelyabinsk?action=show&root=1000252&tvd=27420001143146&vrn=100100067795849&region=74&global=&sub_region=74&prver=0&pronetvd=null&vibid=27420001143146&type=464",
@@ -6356,15 +6356,15 @@ export const duma_2016_uik_463_region_74_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бурматов Владимир Владимирович": 88,
-      "Горбачёв Владимир Иванович": 5,
-      "Навроцкая Елена Александровна": 3,
-      "Нациевский Константин Олегович": 12,
-      "Пашин Виталий Львович": 11,
-      "Севастьянов Алексей Михайлович": 3,
-      "Табалов Алексей Викторович": 3,
-      "Швецов Василий Георгиевич": 27,
-      "Яцун Андрей Николаевич": 1
+      "gas:candidate-vibid:4744046274347": 88,
+      "gas:candidate-vibid:4744046274206": 5,
+      "gas:candidate-vibid:4744046274911": 3,
+      "gas:candidate-vibid:4744046274468": 12,
+      "gas:candidate-vibid:4744046254789": 11,
+      "gas:candidate-vibid:4744046274389": 3,
+      "gas:candidate-vibid:4744046274258": 3,
+      "gas:candidate-vibid:4744046273997": 27,
+      "gas:candidate-vibid:4744046274535": 1
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/chelyabinsk?action=show&root=1000252&tvd=27420001143146&vrn=100100067795849&region=74&global=&sub_region=74&prver=0&pronetvd=null&vibid=27420001143146&type=464",
@@ -6415,15 +6415,15 @@ export const duma_2016_uik_463_region_74_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бурматов Владимир Владимирович": 218,
-      "Горбачёв Владимир Иванович": 10,
-      "Навроцкая Елена Александровна": 5,
-      "Нациевский Константин Олегович": 27,
-      "Пашин Виталий Львович": 47,
-      "Севастьянов Алексей Михайлович": 5,
-      "Табалов Алексей Викторович": 2,
-      "Швецов Василий Георгиевич": 33,
-      "Яцун Андрей Николаевич": 4
+      "gas:candidate-vibid:4744046274347": 218,
+      "gas:candidate-vibid:4744046274206": 10,
+      "gas:candidate-vibid:4744046274911": 5,
+      "gas:candidate-vibid:4744046274468": 27,
+      "gas:candidate-vibid:4744046254789": 47,
+      "gas:candidate-vibid:4744046274389": 5,
+      "gas:candidate-vibid:4744046274258": 2,
+      "gas:candidate-vibid:4744046273997": 33,
+      "gas:candidate-vibid:4744046274535": 4
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/chelyabinsk?action=show&root=1000252&tvd=27420001143146&vrn=100100067795849&region=74&global=&sub_region=74&prver=0&pronetvd=null&vibid=27420001143146&type=464",
@@ -6474,15 +6474,15 @@ export const duma_2016_uik_463_region_74_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бурматов Владимир Владимирович": 38,
-      "Горбачёв Владимир Иванович": 6,
-      "Навроцкая Елена Александровна": 1,
-      "Нациевский Константин Олегович": 8,
-      "Пашин Виталий Львович": 5,
-      "Севастьянов Алексей Михайлович": 1,
-      "Табалов Алексей Викторович": 0,
-      "Швецов Василий Георгиевич": 7,
-      "Яцун Андрей Николаевич": 0
+      "gas:candidate-vibid:4744046274347": 38,
+      "gas:candidate-vibid:4744046274206": 6,
+      "gas:candidate-vibid:4744046274911": 1,
+      "gas:candidate-vibid:4744046274468": 8,
+      "gas:candidate-vibid:4744046254789": 5,
+      "gas:candidate-vibid:4744046274389": 1,
+      "gas:candidate-vibid:4744046274258": 0,
+      "gas:candidate-vibid:4744046273997": 7,
+      "gas:candidate-vibid:4744046274535": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/chelyabinsk?action=show&root=1000252&tvd=27420001143146&vrn=100100067795849&region=74&global=&sub_region=74&prver=0&pronetvd=null&vibid=27420001143146&type=464",
@@ -6533,15 +6533,15 @@ export const duma_2016_uik_463_region_74_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бурматов Владимир Владимирович": 37,
-      "Горбачёв Владимир Иванович": 2,
-      "Навроцкая Елена Александровна": 0,
-      "Нациевский Константин Олегович": 4,
-      "Пашин Виталий Львович": 4,
-      "Севастьянов Алексей Михайлович": 0,
-      "Табалов Алексей Викторович": 0,
-      "Швецов Василий Георгиевич": 6,
-      "Яцун Андрей Николаевич": 0
+      "gas:candidate-vibid:4744046274347": 37,
+      "gas:candidate-vibid:4744046274206": 2,
+      "gas:candidate-vibid:4744046274911": 0,
+      "gas:candidate-vibid:4744046274468": 4,
+      "gas:candidate-vibid:4744046254789": 4,
+      "gas:candidate-vibid:4744046274389": 0,
+      "gas:candidate-vibid:4744046274258": 0,
+      "gas:candidate-vibid:4744046273997": 6,
+      "gas:candidate-vibid:4744046274535": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/chelyabinsk?action=show&root=1000252&tvd=27420001143146&vrn=100100067795849&region=74&global=&sub_region=74&prver=0&pronetvd=null&vibid=27420001143146&type=464",
@@ -6592,15 +6592,15 @@ export const duma_2016_uik_463_region_74_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бурматов Владимир Владимирович": 58,
-      "Горбачёв Владимир Иванович": 3,
-      "Навроцкая Елена Александровна": 6,
-      "Нациевский Константин Олегович": 3,
-      "Пашин Виталий Львович": 7,
-      "Севастьянов Алексей Михайлович": 0,
-      "Табалов Алексей Викторович": 0,
-      "Швецов Василий Георгиевич": 5,
-      "Яцун Андрей Николаевич": 1
+      "gas:candidate-vibid:4744046274347": 58,
+      "gas:candidate-vibid:4744046274206": 3,
+      "gas:candidate-vibid:4744046274911": 6,
+      "gas:candidate-vibid:4744046274468": 3,
+      "gas:candidate-vibid:4744046254789": 7,
+      "gas:candidate-vibid:4744046274389": 0,
+      "gas:candidate-vibid:4744046274258": 0,
+      "gas:candidate-vibid:4744046273997": 5,
+      "gas:candidate-vibid:4744046274535": 1
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/chelyabinsk?action=show&root=1000252&tvd=27420001143146&vrn=100100067795849&region=74&global=&sub_region=74&prver=0&pronetvd=null&vibid=27420001143146&type=464",
@@ -6651,15 +6651,15 @@ export const duma_2016_uik_463_region_74_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бурматов Владимир Владимирович": 57,
-      "Горбачёв Владимир Иванович": 1,
-      "Навроцкая Елена Александровна": 4,
-      "Нациевский Константин Олегович": 6,
-      "Пашин Виталий Львович": 7,
-      "Севастьянов Алексей Михайлович": 0,
-      "Табалов Алексей Викторович": 1,
-      "Швецов Василий Георгиевич": 7,
-      "Яцун Андрей Николаевич": 2
+      "gas:candidate-vibid:4744046274347": 57,
+      "gas:candidate-vibid:4744046274206": 1,
+      "gas:candidate-vibid:4744046274911": 4,
+      "gas:candidate-vibid:4744046274468": 6,
+      "gas:candidate-vibid:4744046254789": 7,
+      "gas:candidate-vibid:4744046274389": 0,
+      "gas:candidate-vibid:4744046274258": 1,
+      "gas:candidate-vibid:4744046273997": 7,
+      "gas:candidate-vibid:4744046274535": 2
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/chelyabinsk?action=show&root=1000252&tvd=27420001143146&vrn=100100067795849&region=74&global=&sub_region=74&prver=0&pronetvd=null&vibid=27420001143146&type=464",
@@ -6710,15 +6710,15 @@ export const duma_2016_uik_463_region_74_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бурматов Владимир Владимирович": 207,
-      "Горбачёв Владимир Иванович": 12,
-      "Навроцкая Елена Александровна": 3,
-      "Нациевский Константин Олегович": 20,
-      "Пашин Виталий Львович": 27,
-      "Севастьянов Алексей Михайлович": 3,
-      "Табалов Алексей Викторович": 1,
-      "Швецов Василий Георгиевич": 27,
-      "Яцун Андрей Николаевич": 2
+      "gas:candidate-vibid:4744046274347": 207,
+      "gas:candidate-vibid:4744046274206": 12,
+      "gas:candidate-vibid:4744046274911": 3,
+      "gas:candidate-vibid:4744046274468": 20,
+      "gas:candidate-vibid:4744046254789": 27,
+      "gas:candidate-vibid:4744046274389": 3,
+      "gas:candidate-vibid:4744046274258": 1,
+      "gas:candidate-vibid:4744046273997": 27,
+      "gas:candidate-vibid:4744046274535": 2
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/chelyabinsk?action=show&root=1000252&tvd=27420001143146&vrn=100100067795849&region=74&global=&sub_region=74&prver=0&pronetvd=null&vibid=27420001143146&type=464",
@@ -6769,15 +6769,15 @@ export const duma_2016_uik_463_region_74_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бурматов Владимир Владимирович": 68,
-      "Горбачёв Владимир Иванович": 8,
-      "Навроцкая Елена Александровна": 3,
-      "Нациевский Константин Олегович": 7,
-      "Пашин Виталий Львович": 6,
-      "Севастьянов Алексей Михайлович": 3,
-      "Табалов Алексей Викторович": 2,
-      "Швецов Василий Георгиевич": 5,
-      "Яцун Андрей Николаевич": 0
+      "gas:candidate-vibid:4744046274347": 68,
+      "gas:candidate-vibid:4744046274206": 8,
+      "gas:candidate-vibid:4744046274911": 3,
+      "gas:candidate-vibid:4744046274468": 7,
+      "gas:candidate-vibid:4744046254789": 6,
+      "gas:candidate-vibid:4744046274389": 3,
+      "gas:candidate-vibid:4744046274258": 2,
+      "gas:candidate-vibid:4744046273997": 5,
+      "gas:candidate-vibid:4744046274535": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/chelyabinsk?action=show&root=1000252&tvd=27420001143146&vrn=100100067795849&region=74&global=&sub_region=74&prver=0&pronetvd=null&vibid=27420001143146&type=464",
@@ -6828,15 +6828,15 @@ export const duma_2016_uik_463_region_74_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бурматов Владимир Владимирович": 26,
-      "Горбачёв Владимир Иванович": 1,
-      "Навроцкая Елена Александровна": 1,
-      "Нациевский Константин Олегович": 9,
-      "Пашин Виталий Львович": 5,
-      "Севастьянов Алексей Михайлович": 0,
-      "Табалов Алексей Викторович": 0,
-      "Швецов Василий Георгиевич": 2,
-      "Яцун Андрей Николаевич": 1
+      "gas:candidate-vibid:4744046274347": 26,
+      "gas:candidate-vibid:4744046274206": 1,
+      "gas:candidate-vibid:4744046274911": 1,
+      "gas:candidate-vibid:4744046274468": 9,
+      "gas:candidate-vibid:4744046254789": 5,
+      "gas:candidate-vibid:4744046274389": 0,
+      "gas:candidate-vibid:4744046274258": 0,
+      "gas:candidate-vibid:4744046273997": 2,
+      "gas:candidate-vibid:4744046274535": 1
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/chelyabinsk?action=show&root=1000252&tvd=27420001143146&vrn=100100067795849&region=74&global=&sub_region=74&prver=0&pronetvd=null&vibid=27420001143146&type=464",
@@ -6887,15 +6887,15 @@ export const duma_2016_uik_463_region_74_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бурматов Владимир Владимирович": 262,
-      "Горбачёв Владимир Иванович": 32,
-      "Навроцкая Елена Александровна": 12,
-      "Нациевский Константин Олегович": 50,
-      "Пашин Виталий Львович": 76,
-      "Севастьянов Алексей Михайлович": 45,
-      "Табалов Алексей Викторович": 14,
-      "Швецов Василий Георгиевич": 99,
-      "Яцун Андрей Николаевич": 20
+      "gas:candidate-vibid:4744046274347": 262,
+      "gas:candidate-vibid:4744046274206": 32,
+      "gas:candidate-vibid:4744046274911": 12,
+      "gas:candidate-vibid:4744046274468": 50,
+      "gas:candidate-vibid:4744046254789": 76,
+      "gas:candidate-vibid:4744046274389": 45,
+      "gas:candidate-vibid:4744046274258": 14,
+      "gas:candidate-vibid:4744046273997": 99,
+      "gas:candidate-vibid:4744046274535": 20
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/chelyabinsk?action=show&root=1000252&tvd=27420001143147&vrn=100100067795849&region=74&global=&sub_region=74&prver=0&pronetvd=null&vibid=27420001143147&type=464",
@@ -6946,15 +6946,15 @@ export const duma_2016_uik_463_region_74_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бурматов Владимир Владимирович": 302,
-      "Горбачёв Владимир Иванович": 29,
-      "Навроцкая Елена Александровна": 20,
-      "Нациевский Константин Олегович": 52,
-      "Пашин Виталий Львович": 110,
-      "Севастьянов Алексей Михайлович": 32,
-      "Табалов Алексей Викторович": 7,
-      "Швецов Василий Георгиевич": 136,
-      "Яцун Андрей Николаевич": 20
+      "gas:candidate-vibid:4744046274347": 302,
+      "gas:candidate-vibid:4744046274206": 29,
+      "gas:candidate-vibid:4744046274911": 20,
+      "gas:candidate-vibid:4744046274468": 52,
+      "gas:candidate-vibid:4744046254789": 110,
+      "gas:candidate-vibid:4744046274389": 32,
+      "gas:candidate-vibid:4744046274258": 7,
+      "gas:candidate-vibid:4744046273997": 136,
+      "gas:candidate-vibid:4744046274535": 20
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/chelyabinsk?action=show&root=1000252&tvd=27420001143147&vrn=100100067795849&region=74&global=&sub_region=74&prver=0&pronetvd=null&vibid=27420001143147&type=464",
@@ -7005,15 +7005,15 @@ export const duma_2016_uik_463_region_74_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бурматов Владимир Владимирович": 465,
-      "Горбачёв Владимир Иванович": 56,
-      "Навроцкая Елена Александровна": 30,
-      "Нациевский Константин Олегович": 83,
-      "Пашин Виталий Львович": 143,
-      "Севастьянов Алексей Михайлович": 54,
-      "Табалов Алексей Викторович": 19,
-      "Швецов Василий Георгиевич": 248,
-      "Яцун Андрей Николаевич": 40
+      "gas:candidate-vibid:4744046274347": 465,
+      "gas:candidate-vibid:4744046274206": 56,
+      "gas:candidate-vibid:4744046274911": 30,
+      "gas:candidate-vibid:4744046274468": 83,
+      "gas:candidate-vibid:4744046254789": 143,
+      "gas:candidate-vibid:4744046274389": 54,
+      "gas:candidate-vibid:4744046274258": 19,
+      "gas:candidate-vibid:4744046273997": 248,
+      "gas:candidate-vibid:4744046274535": 40
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/chelyabinsk?action=show&root=1000252&tvd=27420001143147&vrn=100100067795849&region=74&global=&sub_region=74&prver=0&pronetvd=null&vibid=27420001143147&type=464",
@@ -7064,15 +7064,15 @@ export const duma_2016_uik_463_region_74_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бурматов Владимир Владимирович": 229,
-      "Горбачёв Владимир Иванович": 16,
-      "Навроцкая Елена Александровна": 10,
-      "Нациевский Константин Олегович": 53,
-      "Пашин Виталий Львович": 79,
-      "Севастьянов Алексей Михайлович": 39,
-      "Табалов Алексей Викторович": 5,
-      "Швецов Василий Георгиевич": 163,
-      "Яцун Андрей Николаевич": 21
+      "gas:candidate-vibid:4744046274347": 229,
+      "gas:candidate-vibid:4744046274206": 16,
+      "gas:candidate-vibid:4744046274911": 10,
+      "gas:candidate-vibid:4744046274468": 53,
+      "gas:candidate-vibid:4744046254789": 79,
+      "gas:candidate-vibid:4744046274389": 39,
+      "gas:candidate-vibid:4744046274258": 5,
+      "gas:candidate-vibid:4744046273997": 163,
+      "gas:candidate-vibid:4744046274535": 21
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/chelyabinsk?action=show&root=1000252&tvd=27420001143147&vrn=100100067795849&region=74&global=&sub_region=74&prver=0&pronetvd=null&vibid=27420001143147&type=464",
@@ -7123,15 +7123,15 @@ export const duma_2016_uik_463_region_74_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бурматов Владимир Владимирович": 477,
-      "Горбачёв Владимир Иванович": 45,
-      "Навроцкая Елена Александровна": 21,
-      "Нациевский Константин Олегович": 76,
-      "Пашин Виталий Львович": 166,
-      "Севастьянов Алексей Михайлович": 55,
-      "Табалов Алексей Викторович": 18,
-      "Швецов Василий Георгиевич": 241,
-      "Яцун Андрей Николаевич": 26
+      "gas:candidate-vibid:4744046274347": 477,
+      "gas:candidate-vibid:4744046274206": 45,
+      "gas:candidate-vibid:4744046274911": 21,
+      "gas:candidate-vibid:4744046274468": 76,
+      "gas:candidate-vibid:4744046254789": 166,
+      "gas:candidate-vibid:4744046274389": 55,
+      "gas:candidate-vibid:4744046274258": 18,
+      "gas:candidate-vibid:4744046273997": 241,
+      "gas:candidate-vibid:4744046274535": 26
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/chelyabinsk?action=show&root=1000252&tvd=27420001143147&vrn=100100067795849&region=74&global=&sub_region=74&prver=0&pronetvd=null&vibid=27420001143147&type=464",
@@ -7182,15 +7182,15 @@ export const duma_2016_uik_463_region_74_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бурматов Владимир Владимирович": 250,
-      "Горбачёв Владимир Иванович": 23,
-      "Навроцкая Елена Александровна": 11,
-      "Нациевский Константин Олегович": 43,
-      "Пашин Виталий Львович": 83,
-      "Севастьянов Алексей Михайлович": 23,
-      "Табалов Алексей Викторович": 7,
-      "Швецов Василий Георгиевич": 168,
-      "Яцун Андрей Николаевич": 12
+      "gas:candidate-vibid:4744046274347": 250,
+      "gas:candidate-vibid:4744046274206": 23,
+      "gas:candidate-vibid:4744046274911": 11,
+      "gas:candidate-vibid:4744046274468": 43,
+      "gas:candidate-vibid:4744046254789": 83,
+      "gas:candidate-vibid:4744046274389": 23,
+      "gas:candidate-vibid:4744046274258": 7,
+      "gas:candidate-vibid:4744046273997": 168,
+      "gas:candidate-vibid:4744046274535": 12
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/chelyabinsk?action=show&root=1000252&tvd=27420001143147&vrn=100100067795849&region=74&global=&sub_region=74&prver=0&pronetvd=null&vibid=27420001143147&type=464",
@@ -7241,15 +7241,15 @@ export const duma_2016_uik_463_region_74_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бурматов Владимир Владимирович": 457,
-      "Горбачёв Владимир Иванович": 43,
-      "Навроцкая Елена Александровна": 27,
-      "Нациевский Константин Олегович": 76,
-      "Пашин Виталий Львович": 169,
-      "Севастьянов Алексей Михайлович": 37,
-      "Табалов Алексей Викторович": 14,
-      "Швецов Василий Георгиевич": 223,
-      "Яцун Андрей Николаевич": 20
+      "gas:candidate-vibid:4744046274347": 457,
+      "gas:candidate-vibid:4744046274206": 43,
+      "gas:candidate-vibid:4744046274911": 27,
+      "gas:candidate-vibid:4744046274468": 76,
+      "gas:candidate-vibid:4744046254789": 169,
+      "gas:candidate-vibid:4744046274389": 37,
+      "gas:candidate-vibid:4744046274258": 14,
+      "gas:candidate-vibid:4744046273997": 223,
+      "gas:candidate-vibid:4744046274535": 20
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/chelyabinsk?action=show&root=1000252&tvd=27420001143147&vrn=100100067795849&region=74&global=&sub_region=74&prver=0&pronetvd=null&vibid=27420001143147&type=464",
@@ -7300,15 +7300,15 @@ export const duma_2016_uik_463_region_74_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бурматов Владимир Владимирович": 512,
-      "Горбачёв Владимир Иванович": 53,
-      "Навроцкая Елена Александровна": 29,
-      "Нациевский Константин Олегович": 70,
-      "Пашин Виталий Львович": 176,
-      "Севастьянов Алексей Михайлович": 54,
-      "Табалов Алексей Викторович": 23,
-      "Швецов Василий Георгиевич": 208,
-      "Яцун Андрей Николаевич": 31
+      "gas:candidate-vibid:4744046274347": 512,
+      "gas:candidate-vibid:4744046274206": 53,
+      "gas:candidate-vibid:4744046274911": 29,
+      "gas:candidate-vibid:4744046274468": 70,
+      "gas:candidate-vibid:4744046254789": 176,
+      "gas:candidate-vibid:4744046274389": 54,
+      "gas:candidate-vibid:4744046274258": 23,
+      "gas:candidate-vibid:4744046273997": 208,
+      "gas:candidate-vibid:4744046274535": 31
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/chelyabinsk?action=show&root=1000252&tvd=27420001143147&vrn=100100067795849&region=74&global=&sub_region=74&prver=0&pronetvd=null&vibid=27420001143147&type=464",
@@ -7359,15 +7359,15 @@ export const duma_2016_uik_463_region_74_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бурматов Владимир Владимирович": 498,
-      "Горбачёв Владимир Иванович": 21,
-      "Навроцкая Елена Александровна": 14,
-      "Нациевский Константин Олегович": 29,
-      "Пашин Виталий Львович": 93,
-      "Севастьянов Алексей Михайлович": 26,
-      "Табалов Алексей Викторович": 14,
-      "Швецов Василий Георгиевич": 105,
-      "Яцун Андрей Николаевич": 16
+      "gas:candidate-vibid:4744046274347": 498,
+      "gas:candidate-vibid:4744046274206": 21,
+      "gas:candidate-vibid:4744046274911": 14,
+      "gas:candidate-vibid:4744046274468": 29,
+      "gas:candidate-vibid:4744046254789": 93,
+      "gas:candidate-vibid:4744046274389": 26,
+      "gas:candidate-vibid:4744046274258": 14,
+      "gas:candidate-vibid:4744046273997": 105,
+      "gas:candidate-vibid:4744046274535": 16
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/chelyabinsk?action=show&root=1000252&tvd=27420001143147&vrn=100100067795849&region=74&global=&sub_region=74&prver=0&pronetvd=null&vibid=27420001143147&type=464",
@@ -7418,15 +7418,15 @@ export const duma_2016_uik_463_region_74_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бурматов Владимир Владимирович": 380,
-      "Горбачёв Владимир Иванович": 42,
-      "Навроцкая Елена Александровна": 25,
-      "Нациевский Константин Олегович": 79,
-      "Пашин Виталий Львович": 118,
-      "Севастьянов Алексей Михайлович": 40,
-      "Табалов Алексей Викторович": 19,
-      "Швецов Василий Георгиевич": 154,
-      "Яцун Андрей Николаевич": 32
+      "gas:candidate-vibid:4744046274347": 380,
+      "gas:candidate-vibid:4744046274206": 42,
+      "gas:candidate-vibid:4744046274911": 25,
+      "gas:candidate-vibid:4744046274468": 79,
+      "gas:candidate-vibid:4744046254789": 118,
+      "gas:candidate-vibid:4744046274389": 40,
+      "gas:candidate-vibid:4744046274258": 19,
+      "gas:candidate-vibid:4744046273997": 154,
+      "gas:candidate-vibid:4744046274535": 32
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/chelyabinsk?action=show&root=1000252&tvd=27420001143147&vrn=100100067795849&region=74&global=&sub_region=74&prver=0&pronetvd=null&vibid=27420001143147&type=464",
@@ -7477,15 +7477,15 @@ export const duma_2016_uik_463_region_74_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бурматов Владимир Владимирович": 365,
-      "Горбачёв Владимир Иванович": 50,
-      "Навроцкая Елена Александровна": 23,
-      "Нациевский Константин Олегович": 76,
-      "Пашин Виталий Львович": 128,
-      "Севастьянов Алексей Михайлович": 58,
-      "Табалов Алексей Викторович": 20,
-      "Швецов Василий Георгиевич": 193,
-      "Яцун Андрей Николаевич": 15
+      "gas:candidate-vibid:4744046274347": 365,
+      "gas:candidate-vibid:4744046274206": 50,
+      "gas:candidate-vibid:4744046274911": 23,
+      "gas:candidate-vibid:4744046274468": 76,
+      "gas:candidate-vibid:4744046254789": 128,
+      "gas:candidate-vibid:4744046274389": 58,
+      "gas:candidate-vibid:4744046274258": 20,
+      "gas:candidate-vibid:4744046273997": 193,
+      "gas:candidate-vibid:4744046274535": 15
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/chelyabinsk?action=show&root=1000252&tvd=27420001143147&vrn=100100067795849&region=74&global=&sub_region=74&prver=0&pronetvd=null&vibid=27420001143147&type=464",
@@ -7536,15 +7536,15 @@ export const duma_2016_uik_463_region_74_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бурматов Владимир Владимирович": 189,
-      "Горбачёв Владимир Иванович": 33,
-      "Навроцкая Елена Александровна": 10,
-      "Нациевский Константин Олегович": 38,
-      "Пашин Виталий Львович": 63,
-      "Севастьянов Алексей Михайлович": 30,
-      "Табалов Алексей Викторович": 10,
-      "Швецов Василий Георгиевич": 89,
-      "Яцун Андрей Николаевич": 7
+      "gas:candidate-vibid:4744046274347": 189,
+      "gas:candidate-vibid:4744046274206": 33,
+      "gas:candidate-vibid:4744046274911": 10,
+      "gas:candidate-vibid:4744046274468": 38,
+      "gas:candidate-vibid:4744046254789": 63,
+      "gas:candidate-vibid:4744046274389": 30,
+      "gas:candidate-vibid:4744046274258": 10,
+      "gas:candidate-vibid:4744046273997": 89,
+      "gas:candidate-vibid:4744046274535": 7
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/chelyabinsk?action=show&root=1000252&tvd=27420001143147&vrn=100100067795849&region=74&global=&sub_region=74&prver=0&pronetvd=null&vibid=27420001143147&type=464",
@@ -7595,15 +7595,15 @@ export const duma_2016_uik_463_region_74_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бурматов Владимир Владимирович": 275,
-      "Горбачёв Владимир Иванович": 36,
-      "Навроцкая Елена Александровна": 23,
-      "Нациевский Константин Олегович": 59,
-      "Пашин Виталий Львович": 93,
-      "Севастьянов Алексей Михайлович": 39,
-      "Табалов Алексей Викторович": 12,
-      "Швецов Василий Георгиевич": 167,
-      "Яцун Андрей Николаевич": 45
+      "gas:candidate-vibid:4744046274347": 275,
+      "gas:candidate-vibid:4744046274206": 36,
+      "gas:candidate-vibid:4744046274911": 23,
+      "gas:candidate-vibid:4744046274468": 59,
+      "gas:candidate-vibid:4744046254789": 93,
+      "gas:candidate-vibid:4744046274389": 39,
+      "gas:candidate-vibid:4744046274258": 12,
+      "gas:candidate-vibid:4744046273997": 167,
+      "gas:candidate-vibid:4744046274535": 45
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/chelyabinsk?action=show&root=1000252&tvd=27420001143147&vrn=100100067795849&region=74&global=&sub_region=74&prver=0&pronetvd=null&vibid=27420001143147&type=464",
@@ -7654,15 +7654,15 @@ export const duma_2016_uik_463_region_74_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бурматов Владимир Владимирович": 215,
-      "Горбачёв Владимир Иванович": 22,
-      "Навроцкая Елена Александровна": 10,
-      "Нациевский Константин Олегович": 40,
-      "Пашин Виталий Львович": 73,
-      "Севастьянов Алексей Михайлович": 18,
-      "Табалов Алексей Викторович": 3,
-      "Швецов Василий Георгиевич": 111,
-      "Яцун Андрей Николаевич": 21
+      "gas:candidate-vibid:4744046274347": 215,
+      "gas:candidate-vibid:4744046274206": 22,
+      "gas:candidate-vibid:4744046274911": 10,
+      "gas:candidate-vibid:4744046274468": 40,
+      "gas:candidate-vibid:4744046254789": 73,
+      "gas:candidate-vibid:4744046274389": 18,
+      "gas:candidate-vibid:4744046274258": 3,
+      "gas:candidate-vibid:4744046273997": 111,
+      "gas:candidate-vibid:4744046274535": 21
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/chelyabinsk?action=show&root=1000252&tvd=27420001143147&vrn=100100067795849&region=74&global=&sub_region=74&prver=0&pronetvd=null&vibid=27420001143147&type=464",
@@ -7713,15 +7713,15 @@ export const duma_2016_uik_463_region_74_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бурматов Владимир Владимирович": 252,
-      "Горбачёв Владимир Иванович": 24,
-      "Навроцкая Елена Александровна": 11,
-      "Нациевский Константин Олегович": 51,
-      "Пашин Виталий Львович": 72,
-      "Севастьянов Алексей Михайлович": 41,
-      "Табалов Алексей Викторович": 2,
-      "Швецов Василий Георгиевич": 156,
-      "Яцун Андрей Николаевич": 21
+      "gas:candidate-vibid:4744046274347": 252,
+      "gas:candidate-vibid:4744046274206": 24,
+      "gas:candidate-vibid:4744046274911": 11,
+      "gas:candidate-vibid:4744046274468": 51,
+      "gas:candidate-vibid:4744046254789": 72,
+      "gas:candidate-vibid:4744046274389": 41,
+      "gas:candidate-vibid:4744046274258": 2,
+      "gas:candidate-vibid:4744046273997": 156,
+      "gas:candidate-vibid:4744046274535": 21
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/chelyabinsk?action=show&root=1000252&tvd=27420001143147&vrn=100100067795849&region=74&global=&sub_region=74&prver=0&pronetvd=null&vibid=27420001143147&type=464",
@@ -7772,15 +7772,15 @@ export const duma_2016_uik_463_region_74_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бурматов Владимир Владимирович": 512,
-      "Горбачёв Владимир Иванович": 28,
-      "Навроцкая Елена Александровна": 25,
-      "Нациевский Константин Олегович": 26,
-      "Пашин Виталий Львович": 151,
-      "Севастьянов Алексей Михайлович": 54,
-      "Табалов Алексей Викторович": 16,
-      "Швецов Василий Георгиевич": 300,
-      "Яцун Андрей Николаевич": 36
+      "gas:candidate-vibid:4744046274347": 512,
+      "gas:candidate-vibid:4744046274206": 28,
+      "gas:candidate-vibid:4744046274911": 25,
+      "gas:candidate-vibid:4744046274468": 26,
+      "gas:candidate-vibid:4744046254789": 151,
+      "gas:candidate-vibid:4744046274389": 54,
+      "gas:candidate-vibid:4744046274258": 16,
+      "gas:candidate-vibid:4744046273997": 300,
+      "gas:candidate-vibid:4744046274535": 36
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/chelyabinsk?action=show&root=1000252&tvd=27420001143147&vrn=100100067795849&region=74&global=&sub_region=74&prver=0&pronetvd=null&vibid=27420001143147&type=464",
@@ -7831,15 +7831,15 @@ export const duma_2016_uik_463_region_74_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бурматов Владимир Владимирович": 389,
-      "Горбачёв Владимир Иванович": 38,
-      "Навроцкая Елена Александровна": 27,
-      "Нациевский Константин Олегович": 81,
-      "Пашин Виталий Львович": 140,
-      "Севастьянов Алексей Михайлович": 167,
-      "Табалов Алексей Викторович": 18,
-      "Швецов Василий Георгиевич": 329,
-      "Яцун Андрей Николаевич": 27
+      "gas:candidate-vibid:4744046274347": 389,
+      "gas:candidate-vibid:4744046274206": 38,
+      "gas:candidate-vibid:4744046274911": 27,
+      "gas:candidate-vibid:4744046274468": 81,
+      "gas:candidate-vibid:4744046254789": 140,
+      "gas:candidate-vibid:4744046274389": 167,
+      "gas:candidate-vibid:4744046274258": 18,
+      "gas:candidate-vibid:4744046273997": 329,
+      "gas:candidate-vibid:4744046274535": 27
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/chelyabinsk?action=show&root=1000252&tvd=27420001143147&vrn=100100067795849&region=74&global=&sub_region=74&prver=0&pronetvd=null&vibid=27420001143147&type=464",
@@ -7890,15 +7890,15 @@ export const duma_2016_uik_463_region_74_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бурматов Владимир Владимирович": 356,
-      "Горбачёв Владимир Иванович": 53,
-      "Навроцкая Елена Александровна": 22,
-      "Нациевский Константин Олегович": 87,
-      "Пашин Виталий Львович": 175,
-      "Севастьянов Алексей Михайлович": 66,
-      "Табалов Алексей Викторович": 14,
-      "Швецов Василий Георгиевич": 350,
-      "Яцун Андрей Николаевич": 30
+      "gas:candidate-vibid:4744046274347": 356,
+      "gas:candidate-vibid:4744046274206": 53,
+      "gas:candidate-vibid:4744046274911": 22,
+      "gas:candidate-vibid:4744046274468": 87,
+      "gas:candidate-vibid:4744046254789": 175,
+      "gas:candidate-vibid:4744046274389": 66,
+      "gas:candidate-vibid:4744046274258": 14,
+      "gas:candidate-vibid:4744046273997": 350,
+      "gas:candidate-vibid:4744046274535": 30
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/chelyabinsk?action=show&root=1000252&tvd=27420001143147&vrn=100100067795849&region=74&global=&sub_region=74&prver=0&pronetvd=null&vibid=27420001143147&type=464",
@@ -7949,15 +7949,15 @@ export const duma_2016_uik_463_region_74_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бурматов Владимир Владимирович": 425,
-      "Горбачёв Владимир Иванович": 44,
-      "Навроцкая Елена Александровна": 29,
-      "Нациевский Константин Олегович": 102,
-      "Пашин Виталий Львович": 179,
-      "Севастьянов Алексей Михайлович": 59,
-      "Табалов Алексей Викторович": 16,
-      "Швецов Василий Георгиевич": 330,
-      "Яцун Андрей Николаевич": 31
+      "gas:candidate-vibid:4744046274347": 425,
+      "gas:candidate-vibid:4744046274206": 44,
+      "gas:candidate-vibid:4744046274911": 29,
+      "gas:candidate-vibid:4744046274468": 102,
+      "gas:candidate-vibid:4744046254789": 179,
+      "gas:candidate-vibid:4744046274389": 59,
+      "gas:candidate-vibid:4744046274258": 16,
+      "gas:candidate-vibid:4744046273997": 330,
+      "gas:candidate-vibid:4744046274535": 31
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/chelyabinsk?action=show&root=1000252&tvd=27420001143147&vrn=100100067795849&region=74&global=&sub_region=74&prver=0&pronetvd=null&vibid=27420001143147&type=464",
@@ -8008,15 +8008,15 @@ export const duma_2016_uik_463_region_74_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бурматов Владимир Владимирович": 502,
-      "Горбачёв Владимир Иванович": 51,
-      "Навроцкая Елена Александровна": 33,
-      "Нациевский Константин Олегович": 91,
-      "Пашин Виталий Львович": 170,
-      "Севастьянов Алексей Михайлович": 69,
-      "Табалов Алексей Викторович": 12,
-      "Швецов Василий Георгиевич": 330,
-      "Яцун Андрей Николаевич": 37
+      "gas:candidate-vibid:4744046274347": 502,
+      "gas:candidate-vibid:4744046274206": 51,
+      "gas:candidate-vibid:4744046274911": 33,
+      "gas:candidate-vibid:4744046274468": 91,
+      "gas:candidate-vibid:4744046254789": 170,
+      "gas:candidate-vibid:4744046274389": 69,
+      "gas:candidate-vibid:4744046274258": 12,
+      "gas:candidate-vibid:4744046273997": 330,
+      "gas:candidate-vibid:4744046274535": 37
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/chelyabinsk?action=show&root=1000252&tvd=27420001143147&vrn=100100067795849&region=74&global=&sub_region=74&prver=0&pronetvd=null&vibid=27420001143147&type=464",
@@ -8067,15 +8067,15 @@ export const duma_2016_uik_463_region_74_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бурматов Владимир Владимирович": 455,
-      "Горбачёв Владимир Иванович": 51,
-      "Навроцкая Елена Александровна": 31,
-      "Нациевский Константин Олегович": 79,
-      "Пашин Виталий Львович": 162,
-      "Севастьянов Алексей Михайлович": 53,
-      "Табалов Алексей Викторович": 17,
-      "Швецов Василий Георгиевич": 288,
-      "Яцун Андрей Николаевич": 39
+      "gas:candidate-vibid:4744046274347": 455,
+      "gas:candidate-vibid:4744046274206": 51,
+      "gas:candidate-vibid:4744046274911": 31,
+      "gas:candidate-vibid:4744046274468": 79,
+      "gas:candidate-vibid:4744046254789": 162,
+      "gas:candidate-vibid:4744046274389": 53,
+      "gas:candidate-vibid:4744046274258": 17,
+      "gas:candidate-vibid:4744046273997": 288,
+      "gas:candidate-vibid:4744046274535": 39
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/chelyabinsk?action=show&root=1000252&tvd=27420001143147&vrn=100100067795849&region=74&global=&sub_region=74&prver=0&pronetvd=null&vibid=27420001143147&type=464",
@@ -8126,15 +8126,15 @@ export const duma_2016_uik_463_region_74_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бурматов Владимир Владимирович": 593,
-      "Горбачёв Владимир Иванович": 14,
-      "Навроцкая Елена Александровна": 30,
-      "Нациевский Константин Олегович": 99,
-      "Пашин Виталий Львович": 127,
-      "Севастьянов Алексей Михайлович": 90,
-      "Табалов Алексей Викторович": 28,
-      "Швецов Василий Георгиевич": 263,
-      "Яцун Андрей Николаевич": 34
+      "gas:candidate-vibid:4744046274347": 593,
+      "gas:candidate-vibid:4744046274206": 14,
+      "gas:candidate-vibid:4744046274911": 30,
+      "gas:candidate-vibid:4744046274468": 99,
+      "gas:candidate-vibid:4744046254789": 127,
+      "gas:candidate-vibid:4744046274389": 90,
+      "gas:candidate-vibid:4744046274258": 28,
+      "gas:candidate-vibid:4744046273997": 263,
+      "gas:candidate-vibid:4744046274535": 34
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/chelyabinsk?action=show&root=1000252&tvd=27420001143147&vrn=100100067795849&region=74&global=&sub_region=74&prver=0&pronetvd=null&vibid=27420001143147&type=464",
@@ -8185,15 +8185,15 @@ export const duma_2016_uik_463_region_74_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бурматов Владимир Владимирович": 445,
-      "Горбачёв Владимир Иванович": 55,
-      "Навроцкая Елена Александровна": 16,
-      "Нациевский Константин Олегович": 68,
-      "Пашин Виталий Львович": 170,
-      "Севастьянов Алексей Михайлович": 48,
-      "Табалов Алексей Викторович": 16,
-      "Швецов Василий Георгиевич": 247,
-      "Яцун Андрей Николаевич": 33
+      "gas:candidate-vibid:4744046274347": 445,
+      "gas:candidate-vibid:4744046274206": 55,
+      "gas:candidate-vibid:4744046274911": 16,
+      "gas:candidate-vibid:4744046274468": 68,
+      "gas:candidate-vibid:4744046254789": 170,
+      "gas:candidate-vibid:4744046274389": 48,
+      "gas:candidate-vibid:4744046274258": 16,
+      "gas:candidate-vibid:4744046273997": 247,
+      "gas:candidate-vibid:4744046274535": 33
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/chelyabinsk?action=show&root=1000252&tvd=27420001143147&vrn=100100067795849&region=74&global=&sub_region=74&prver=0&pronetvd=null&vibid=27420001143147&type=464",
@@ -8244,15 +8244,15 @@ export const duma_2016_uik_463_region_74_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бурматов Владимир Владимирович": 780,
-      "Горбачёв Владимир Иванович": 62,
-      "Навроцкая Елена Александровна": 43,
-      "Нациевский Константин Олегович": 50,
-      "Пашин Виталий Львович": 156,
-      "Севастьянов Алексей Михайлович": 36,
-      "Табалов Алексей Викторович": 16,
-      "Швецов Василий Георгиевич": 96,
-      "Яцун Андрей Николаевич": 22
+      "gas:candidate-vibid:4744046274347": 780,
+      "gas:candidate-vibid:4744046274206": 62,
+      "gas:candidate-vibid:4744046274911": 43,
+      "gas:candidate-vibid:4744046274468": 50,
+      "gas:candidate-vibid:4744046254789": 156,
+      "gas:candidate-vibid:4744046274389": 36,
+      "gas:candidate-vibid:4744046274258": 16,
+      "gas:candidate-vibid:4744046273997": 96,
+      "gas:candidate-vibid:4744046274535": 22
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/chelyabinsk?action=show&root=1000252&tvd=27420001143147&vrn=100100067795849&region=74&global=&sub_region=74&prver=0&pronetvd=null&vibid=27420001143147&type=464",
@@ -8303,15 +8303,15 @@ export const duma_2016_uik_463_region_74_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бурматов Владимир Владимирович": 437,
-      "Горбачёв Владимир Иванович": 34,
-      "Навроцкая Елена Александровна": 29,
-      "Нациевский Константин Олегович": 98,
-      "Пашин Виталий Львович": 178,
-      "Севастьянов Алексей Михайлович": 48,
-      "Табалов Алексей Викторович": 16,
-      "Швецов Василий Георгиевич": 214,
-      "Яцун Андрей Николаевич": 45
+      "gas:candidate-vibid:4744046274347": 437,
+      "gas:candidate-vibid:4744046274206": 34,
+      "gas:candidate-vibid:4744046274911": 29,
+      "gas:candidate-vibid:4744046274468": 98,
+      "gas:candidate-vibid:4744046254789": 178,
+      "gas:candidate-vibid:4744046274389": 48,
+      "gas:candidate-vibid:4744046274258": 16,
+      "gas:candidate-vibid:4744046273997": 214,
+      "gas:candidate-vibid:4744046274535": 45
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/chelyabinsk?action=show&root=1000252&tvd=27420001143147&vrn=100100067795849&region=74&global=&sub_region=74&prver=0&pronetvd=null&vibid=27420001143147&type=464",
@@ -8362,15 +8362,15 @@ export const duma_2016_uik_463_region_74_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бурматов Владимир Владимирович": 422,
-      "Горбачёв Владимир Иванович": 49,
-      "Навроцкая Елена Александровна": 30,
-      "Нациевский Константин Олегович": 81,
-      "Пашин Виталий Львович": 158,
-      "Севастьянов Алексей Михайлович": 52,
-      "Табалов Алексей Викторович": 13,
-      "Швецов Василий Георгиевич": 203,
-      "Яцун Андрей Николаевич": 16
+      "gas:candidate-vibid:4744046274347": 422,
+      "gas:candidate-vibid:4744046274206": 49,
+      "gas:candidate-vibid:4744046274911": 30,
+      "gas:candidate-vibid:4744046274468": 81,
+      "gas:candidate-vibid:4744046254789": 158,
+      "gas:candidate-vibid:4744046274389": 52,
+      "gas:candidate-vibid:4744046274258": 13,
+      "gas:candidate-vibid:4744046273997": 203,
+      "gas:candidate-vibid:4744046274535": 16
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/chelyabinsk?action=show&root=1000252&tvd=27420001143147&vrn=100100067795849&region=74&global=&sub_region=74&prver=0&pronetvd=null&vibid=27420001143147&type=464",
@@ -8421,15 +8421,15 @@ export const duma_2016_uik_463_region_74_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бурматов Владимир Владимирович": 287,
-      "Горбачёв Владимир Иванович": 36,
-      "Навроцкая Елена Александровна": 18,
-      "Нациевский Константин Олегович": 65,
-      "Пашин Виталий Львович": 115,
-      "Севастьянов Алексей Михайлович": 36,
-      "Табалов Алексей Викторович": 13,
-      "Швецов Василий Георгиевич": 234,
-      "Яцун Андрей Николаевич": 27
+      "gas:candidate-vibid:4744046274347": 287,
+      "gas:candidate-vibid:4744046274206": 36,
+      "gas:candidate-vibid:4744046274911": 18,
+      "gas:candidate-vibid:4744046274468": 65,
+      "gas:candidate-vibid:4744046254789": 115,
+      "gas:candidate-vibid:4744046274389": 36,
+      "gas:candidate-vibid:4744046274258": 13,
+      "gas:candidate-vibid:4744046273997": 234,
+      "gas:candidate-vibid:4744046274535": 27
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/chelyabinsk?action=show&root=1000252&tvd=27420001143147&vrn=100100067795849&region=74&global=&sub_region=74&prver=0&pronetvd=null&vibid=27420001143147&type=464",
@@ -8480,15 +8480,15 @@ export const duma_2016_uik_463_region_74_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бурматов Владимир Владимирович": 402,
-      "Горбачёв Владимир Иванович": 48,
-      "Навроцкая Елена Александровна": 22,
-      "Нациевский Константин Олегович": 76,
-      "Пашин Виталий Львович": 213,
-      "Севастьянов Алексей Михайлович": 51,
-      "Табалов Алексей Викторович": 12,
-      "Швецов Василий Георгиевич": 242,
-      "Яцун Андрей Николаевич": 17
+      "gas:candidate-vibid:4744046274347": 402,
+      "gas:candidate-vibid:4744046274206": 48,
+      "gas:candidate-vibid:4744046274911": 22,
+      "gas:candidate-vibid:4744046274468": 76,
+      "gas:candidate-vibid:4744046254789": 213,
+      "gas:candidate-vibid:4744046274389": 51,
+      "gas:candidate-vibid:4744046274258": 12,
+      "gas:candidate-vibid:4744046273997": 242,
+      "gas:candidate-vibid:4744046274535": 17
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/chelyabinsk?action=show&root=1000252&tvd=27420001143147&vrn=100100067795849&region=74&global=&sub_region=74&prver=0&pronetvd=null&vibid=27420001143147&type=464",
@@ -8539,15 +8539,15 @@ export const duma_2016_uik_463_region_74_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бурматов Владимир Владимирович": 166,
-      "Горбачёв Владимир Иванович": 26,
-      "Навроцкая Елена Александровна": 9,
-      "Нациевский Константин Олегович": 35,
-      "Пашин Виталий Львович": 56,
-      "Севастьянов Алексей Михайлович": 21,
-      "Табалов Алексей Викторович": 8,
-      "Швецов Василий Георгиевич": 107,
-      "Яцун Андрей Николаевич": 10
+      "gas:candidate-vibid:4744046274347": 166,
+      "gas:candidate-vibid:4744046274206": 26,
+      "gas:candidate-vibid:4744046274911": 9,
+      "gas:candidate-vibid:4744046274468": 35,
+      "gas:candidate-vibid:4744046254789": 56,
+      "gas:candidate-vibid:4744046274389": 21,
+      "gas:candidate-vibid:4744046274258": 8,
+      "gas:candidate-vibid:4744046273997": 107,
+      "gas:candidate-vibid:4744046274535": 10
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/chelyabinsk?action=show&root=1000252&tvd=27420001143147&vrn=100100067795849&region=74&global=&sub_region=74&prver=0&pronetvd=null&vibid=27420001143147&type=464",
@@ -8598,15 +8598,15 @@ export const duma_2016_uik_463_region_74_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бурматов Владимир Владимирович": 495,
-      "Горбачёв Владимир Иванович": 36,
-      "Навроцкая Елена Александровна": 11,
-      "Нациевский Константин Олегович": 59,
-      "Пашин Виталий Львович": 69,
-      "Севастьянов Алексей Михайлович": 25,
-      "Табалов Алексей Викторович": 3,
-      "Швецов Василий Георгиевич": 160,
-      "Яцун Андрей Николаевич": 13
+      "gas:candidate-vibid:4744046274347": 495,
+      "gas:candidate-vibid:4744046274206": 36,
+      "gas:candidate-vibid:4744046274911": 11,
+      "gas:candidate-vibid:4744046274468": 59,
+      "gas:candidate-vibid:4744046254789": 69,
+      "gas:candidate-vibid:4744046274389": 25,
+      "gas:candidate-vibid:4744046274258": 3,
+      "gas:candidate-vibid:4744046273997": 160,
+      "gas:candidate-vibid:4744046274535": 13
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/chelyabinsk?action=show&root=1000252&tvd=27420001143147&vrn=100100067795849&region=74&global=&sub_region=74&prver=0&pronetvd=null&vibid=27420001143147&type=464",
@@ -8657,15 +8657,15 @@ export const duma_2016_uik_463_region_74_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бурматов Владимир Владимирович": 491,
-      "Горбачёв Владимир Иванович": 74,
-      "Навроцкая Елена Александровна": 39,
-      "Нациевский Константин Олегович": 95,
-      "Пашин Виталий Львович": 175,
-      "Севастьянов Алексей Михайлович": 75,
-      "Табалов Алексей Викторович": 17,
-      "Швецов Василий Георгиевич": 164,
-      "Яцун Андрей Николаевич": 29
+      "gas:candidate-vibid:4744046274347": 491,
+      "gas:candidate-vibid:4744046274206": 74,
+      "gas:candidate-vibid:4744046274911": 39,
+      "gas:candidate-vibid:4744046274468": 95,
+      "gas:candidate-vibid:4744046254789": 175,
+      "gas:candidate-vibid:4744046274389": 75,
+      "gas:candidate-vibid:4744046274258": 17,
+      "gas:candidate-vibid:4744046273997": 164,
+      "gas:candidate-vibid:4744046274535": 29
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/chelyabinsk?action=show&root=1000252&tvd=27420001143147&vrn=100100067795849&region=74&global=&sub_region=74&prver=0&pronetvd=null&vibid=27420001143147&type=464",
@@ -8716,15 +8716,15 @@ export const duma_2016_uik_463_region_74_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бурматов Владимир Владимирович": 56,
-      "Горбачёв Владимир Иванович": 4,
-      "Навроцкая Елена Александровна": 7,
-      "Нациевский Константин Олегович": 10,
-      "Пашин Виталий Львович": 32,
-      "Севастьянов Алексей Михайлович": 8,
-      "Табалов Алексей Викторович": 0,
-      "Швецов Василий Георгиевич": 6,
-      "Яцун Андрей Николаевич": 2
+      "gas:candidate-vibid:4744046274347": 56,
+      "gas:candidate-vibid:4744046274206": 4,
+      "gas:candidate-vibid:4744046274911": 7,
+      "gas:candidate-vibid:4744046274468": 10,
+      "gas:candidate-vibid:4744046254789": 32,
+      "gas:candidate-vibid:4744046274389": 8,
+      "gas:candidate-vibid:4744046274258": 0,
+      "gas:candidate-vibid:4744046273997": 6,
+      "gas:candidate-vibid:4744046274535": 2
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/chelyabinsk?action=show&root=1000252&tvd=27420001143147&vrn=100100067795849&region=74&global=&sub_region=74&prver=0&pronetvd=null&vibid=27420001143147&type=464",
@@ -8775,15 +8775,15 @@ export const duma_2016_uik_463_region_74_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бурматов Владимир Владимирович": 443,
-      "Горбачёв Владимир Иванович": 56,
-      "Навроцкая Елена Александровна": 32,
-      "Нациевский Константин Олегович": 88,
-      "Пашин Виталий Львович": 170,
-      "Севастьянов Алексей Михайлович": 81,
-      "Табалов Алексей Викторович": 20,
-      "Швецов Василий Георгиевич": 170,
-      "Яцун Андрей Николаевич": 26
+      "gas:candidate-vibid:4744046274347": 443,
+      "gas:candidate-vibid:4744046274206": 56,
+      "gas:candidate-vibid:4744046274911": 32,
+      "gas:candidate-vibid:4744046274468": 88,
+      "gas:candidate-vibid:4744046254789": 170,
+      "gas:candidate-vibid:4744046274389": 81,
+      "gas:candidate-vibid:4744046274258": 20,
+      "gas:candidate-vibid:4744046273997": 170,
+      "gas:candidate-vibid:4744046274535": 26
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/chelyabinsk?action=show&root=1000252&tvd=27420001143147&vrn=100100067795849&region=74&global=&sub_region=74&prver=0&pronetvd=null&vibid=27420001143147&type=464",
@@ -8834,15 +8834,15 @@ export const duma_2016_uik_463_region_74_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бурматов Владимир Владимирович": 51,
-      "Горбачёв Владимир Иванович": 11,
-      "Навроцкая Елена Александровна": 0,
-      "Нациевский Константин Олегович": 9,
-      "Пашин Виталий Львович": 18,
-      "Севастьянов Алексей Михайлович": 6,
-      "Табалов Алексей Викторович": 2,
-      "Швецов Василий Георгиевич": 34,
-      "Яцун Андрей Николаевич": 8
+      "gas:candidate-vibid:4744046274347": 51,
+      "gas:candidate-vibid:4744046274206": 11,
+      "gas:candidate-vibid:4744046274911": 0,
+      "gas:candidate-vibid:4744046274468": 9,
+      "gas:candidate-vibid:4744046254789": 18,
+      "gas:candidate-vibid:4744046274389": 6,
+      "gas:candidate-vibid:4744046274258": 2,
+      "gas:candidate-vibid:4744046273997": 34,
+      "gas:candidate-vibid:4744046274535": 8
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/chelyabinsk?action=show&root=1000252&tvd=27420001143147&vrn=100100067795849&region=74&global=&sub_region=74&prver=0&pronetvd=null&vibid=27420001143147&type=464",
@@ -8893,15 +8893,15 @@ export const duma_2016_uik_463_region_74_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бурматов Владимир Владимирович": 218,
-      "Горбачёв Владимир Иванович": 21,
-      "Навроцкая Елена Александровна": 9,
-      "Нациевский Константин Олегович": 27,
-      "Пашин Виталий Львович": 82,
-      "Севастьянов Алексей Михайлович": 24,
-      "Табалов Алексей Викторович": 5,
-      "Швецов Василий Георгиевич": 126,
-      "Яцун Андрей Николаевич": 7
+      "gas:candidate-vibid:4744046274347": 218,
+      "gas:candidate-vibid:4744046274206": 21,
+      "gas:candidate-vibid:4744046274911": 9,
+      "gas:candidate-vibid:4744046274468": 27,
+      "gas:candidate-vibid:4744046254789": 82,
+      "gas:candidate-vibid:4744046274389": 24,
+      "gas:candidate-vibid:4744046274258": 5,
+      "gas:candidate-vibid:4744046273997": 126,
+      "gas:candidate-vibid:4744046274535": 7
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/chelyabinsk?action=show&root=1000252&tvd=27420001143148&vrn=100100067795849&region=74&global=&sub_region=74&prver=0&pronetvd=null&vibid=27420001143148&type=464",
@@ -8952,15 +8952,15 @@ export const duma_2016_uik_463_region_74_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бурматов Владимир Владимирович": 243,
-      "Горбачёв Владимир Иванович": 30,
-      "Навроцкая Елена Александровна": 15,
-      "Нациевский Константин Олегович": 45,
-      "Пашин Виталий Львович": 78,
-      "Севастьянов Алексей Михайлович": 42,
-      "Табалов Алексей Викторович": 7,
-      "Швецов Василий Георгиевич": 123,
-      "Яцун Андрей Николаевич": 10
+      "gas:candidate-vibid:4744046274347": 243,
+      "gas:candidate-vibid:4744046274206": 30,
+      "gas:candidate-vibid:4744046274911": 15,
+      "gas:candidate-vibid:4744046274468": 45,
+      "gas:candidate-vibid:4744046254789": 78,
+      "gas:candidate-vibid:4744046274389": 42,
+      "gas:candidate-vibid:4744046274258": 7,
+      "gas:candidate-vibid:4744046273997": 123,
+      "gas:candidate-vibid:4744046274535": 10
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/chelyabinsk?action=show&root=1000252&tvd=27420001143148&vrn=100100067795849&region=74&global=&sub_region=74&prver=0&pronetvd=null&vibid=27420001143148&type=464",
@@ -9011,15 +9011,15 @@ export const duma_2016_uik_463_region_74_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бурматов Владимир Владимирович": 137,
-      "Горбачёв Владимир Иванович": 13,
-      "Навроцкая Елена Александровна": 8,
-      "Нациевский Константин Олегович": 31,
-      "Пашин Виталий Львович": 42,
-      "Севастьянов Алексей Михайлович": 29,
-      "Табалов Алексей Викторович": 3,
-      "Швецов Василий Георгиевич": 66,
-      "Яцун Андрей Николаевич": 4
+      "gas:candidate-vibid:4744046274347": 137,
+      "gas:candidate-vibid:4744046274206": 13,
+      "gas:candidate-vibid:4744046274911": 8,
+      "gas:candidate-vibid:4744046274468": 31,
+      "gas:candidate-vibid:4744046254789": 42,
+      "gas:candidate-vibid:4744046274389": 29,
+      "gas:candidate-vibid:4744046274258": 3,
+      "gas:candidate-vibid:4744046273997": 66,
+      "gas:candidate-vibid:4744046274535": 4
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/chelyabinsk?action=show&root=1000252&tvd=27420001143148&vrn=100100067795849&region=74&global=&sub_region=74&prver=0&pronetvd=null&vibid=27420001143148&type=464",
@@ -9070,15 +9070,15 @@ export const duma_2016_uik_463_region_74_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бурматов Владимир Владимирович": 245,
-      "Горбачёв Владимир Иванович": 22,
-      "Навроцкая Елена Александровна": 18,
-      "Нациевский Константин Олегович": 52,
-      "Пашин Виталий Львович": 73,
-      "Севастьянов Алексей Михайлович": 28,
-      "Табалов Алексей Викторович": 9,
-      "Швецов Василий Георгиевич": 129,
-      "Яцун Андрей Николаевич": 18
+      "gas:candidate-vibid:4744046274347": 245,
+      "gas:candidate-vibid:4744046274206": 22,
+      "gas:candidate-vibid:4744046274911": 18,
+      "gas:candidate-vibid:4744046274468": 52,
+      "gas:candidate-vibid:4744046254789": 73,
+      "gas:candidate-vibid:4744046274389": 28,
+      "gas:candidate-vibid:4744046274258": 9,
+      "gas:candidate-vibid:4744046273997": 129,
+      "gas:candidate-vibid:4744046274535": 18
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/chelyabinsk?action=show&root=1000252&tvd=27420001143148&vrn=100100067795849&region=74&global=&sub_region=74&prver=0&pronetvd=null&vibid=27420001143148&type=464",
@@ -9129,15 +9129,15 @@ export const duma_2016_uik_463_region_74_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бурматов Владимир Владимирович": 244,
-      "Горбачёв Владимир Иванович": 25,
-      "Навроцкая Елена Александровна": 16,
-      "Нациевский Константин Олегович": 43,
-      "Пашин Виталий Львович": 85,
-      "Севастьянов Алексей Михайлович": 18,
-      "Табалов Алексей Викторович": 3,
-      "Швецов Василий Георгиевич": 129,
-      "Яцун Андрей Николаевич": 14
+      "gas:candidate-vibid:4744046274347": 244,
+      "gas:candidate-vibid:4744046274206": 25,
+      "gas:candidate-vibid:4744046274911": 16,
+      "gas:candidate-vibid:4744046274468": 43,
+      "gas:candidate-vibid:4744046254789": 85,
+      "gas:candidate-vibid:4744046274389": 18,
+      "gas:candidate-vibid:4744046274258": 3,
+      "gas:candidate-vibid:4744046273997": 129,
+      "gas:candidate-vibid:4744046274535": 14
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/chelyabinsk?action=show&root=1000252&tvd=27420001143148&vrn=100100067795849&region=74&global=&sub_region=74&prver=0&pronetvd=null&vibid=27420001143148&type=464",
@@ -9188,15 +9188,15 @@ export const duma_2016_uik_463_region_74_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бурматов Владимир Владимирович": 75,
-      "Горбачёв Владимир Иванович": 8,
-      "Навроцкая Елена Александровна": 4,
-      "Нациевский Константин Олегович": 14,
-      "Пашин Виталий Львович": 25,
-      "Севастьянов Алексей Михайлович": 12,
-      "Табалов Алексей Викторович": 0,
-      "Швецов Василий Георгиевич": 51,
-      "Яцун Андрей Николаевич": 4
+      "gas:candidate-vibid:4744046274347": 75,
+      "gas:candidate-vibid:4744046274206": 8,
+      "gas:candidate-vibid:4744046274911": 4,
+      "gas:candidate-vibid:4744046274468": 14,
+      "gas:candidate-vibid:4744046254789": 25,
+      "gas:candidate-vibid:4744046274389": 12,
+      "gas:candidate-vibid:4744046274258": 0,
+      "gas:candidate-vibid:4744046273997": 51,
+      "gas:candidate-vibid:4744046274535": 4
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/chelyabinsk?action=show&root=1000252&tvd=27420001143148&vrn=100100067795849&region=74&global=&sub_region=74&prver=0&pronetvd=null&vibid=27420001143148&type=464",
@@ -9247,15 +9247,15 @@ export const duma_2016_uik_463_region_74_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бурматов Владимир Владимирович": 60,
-      "Горбачёв Владимир Иванович": 6,
-      "Навроцкая Елена Александровна": 0,
-      "Нациевский Константин Олегович": 6,
-      "Пашин Виталий Львович": 8,
-      "Севастьянов Алексей Михайлович": 2,
-      "Табалов Алексей Викторович": 1,
-      "Швецов Василий Георгиевич": 16,
-      "Яцун Андрей Николаевич": 1
+      "gas:candidate-vibid:4744046274347": 60,
+      "gas:candidate-vibid:4744046274206": 6,
+      "gas:candidate-vibid:4744046274911": 0,
+      "gas:candidate-vibid:4744046274468": 6,
+      "gas:candidate-vibid:4744046254789": 8,
+      "gas:candidate-vibid:4744046274389": 2,
+      "gas:candidate-vibid:4744046274258": 1,
+      "gas:candidate-vibid:4744046273997": 16,
+      "gas:candidate-vibid:4744046274535": 1
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/chelyabinsk?action=show&root=1000252&tvd=27420001143148&vrn=100100067795849&region=74&global=&sub_region=74&prver=0&pronetvd=null&vibid=27420001143148&type=464",
@@ -9306,15 +9306,15 @@ export const duma_2016_uik_463_region_74_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бурматов Владимир Владимирович": 59,
-      "Горбачёв Владимир Иванович": 12,
-      "Навроцкая Елена Александровна": 4,
-      "Нациевский Константин Олегович": 18,
-      "Пашин Виталий Львович": 15,
-      "Севастьянов Алексей Михайлович": 30,
-      "Табалов Алексей Викторович": 1,
-      "Швецов Василий Георгиевич": 25,
-      "Яцун Андрей Николаевич": 4
+      "gas:candidate-vibid:4744046274347": 59,
+      "gas:candidate-vibid:4744046274206": 12,
+      "gas:candidate-vibid:4744046274911": 4,
+      "gas:candidate-vibid:4744046274468": 18,
+      "gas:candidate-vibid:4744046254789": 15,
+      "gas:candidate-vibid:4744046274389": 30,
+      "gas:candidate-vibid:4744046274258": 1,
+      "gas:candidate-vibid:4744046273997": 25,
+      "gas:candidate-vibid:4744046274535": 4
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/chelyabinsk?action=show&root=1000252&tvd=27420001143148&vrn=100100067795849&region=74&global=&sub_region=74&prver=0&pronetvd=null&vibid=27420001143148&type=464",
@@ -9365,15 +9365,15 @@ export const duma_2016_uik_463_region_74_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бурматов Владимир Владимирович": 245,
-      "Горбачёв Владимир Иванович": 19,
-      "Навроцкая Елена Александровна": 13,
-      "Нациевский Константин Олегович": 38,
-      "Пашин Виталий Львович": 41,
-      "Севастьянов Алексей Михайлович": 39,
-      "Табалов Алексей Викторович": 5,
-      "Швецов Василий Георгиевич": 137,
-      "Яцун Андрей Николаевич": 12
+      "gas:candidate-vibid:4744046274347": 245,
+      "gas:candidate-vibid:4744046274206": 19,
+      "gas:candidate-vibid:4744046274911": 13,
+      "gas:candidate-vibid:4744046274468": 38,
+      "gas:candidate-vibid:4744046254789": 41,
+      "gas:candidate-vibid:4744046274389": 39,
+      "gas:candidate-vibid:4744046274258": 5,
+      "gas:candidate-vibid:4744046273997": 137,
+      "gas:candidate-vibid:4744046274535": 12
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/chelyabinsk?action=show&root=1000252&tvd=27420001143148&vrn=100100067795849&region=74&global=&sub_region=74&prver=0&pronetvd=null&vibid=27420001143148&type=464",
@@ -9424,15 +9424,15 @@ export const duma_2016_uik_463_region_74_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бурматов Владимир Владимирович": 170,
-      "Горбачёв Владимир Иванович": 9,
-      "Навроцкая Елена Александровна": 10,
-      "Нациевский Константин Олегович": 23,
-      "Пашин Виталий Львович": 47,
-      "Севастьянов Алексей Михайлович": 16,
-      "Табалов Алексей Викторович": 6,
-      "Швецов Василий Георгиевич": 72,
-      "Яцун Андрей Николаевич": 6
+      "gas:candidate-vibid:4744046274347": 170,
+      "gas:candidate-vibid:4744046274206": 9,
+      "gas:candidate-vibid:4744046274911": 10,
+      "gas:candidate-vibid:4744046274468": 23,
+      "gas:candidate-vibid:4744046254789": 47,
+      "gas:candidate-vibid:4744046274389": 16,
+      "gas:candidate-vibid:4744046274258": 6,
+      "gas:candidate-vibid:4744046273997": 72,
+      "gas:candidate-vibid:4744046274535": 6
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/chelyabinsk?action=show&root=1000252&tvd=27420001143148&vrn=100100067795849&region=74&global=&sub_region=74&prver=0&pronetvd=null&vibid=27420001143148&type=464",
@@ -9483,15 +9483,15 @@ export const duma_2016_uik_463_region_74_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бурматов Владимир Владимирович": 197,
-      "Горбачёв Владимир Иванович": 24,
-      "Навроцкая Елена Александровна": 6,
-      "Нациевский Константин Олегович": 26,
-      "Пашин Виталий Львович": 64,
-      "Севастьянов Алексей Михайлович": 30,
-      "Табалов Алексей Викторович": 1,
-      "Швецов Василий Георгиевич": 181,
-      "Яцун Андрей Николаевич": 13
+      "gas:candidate-vibid:4744046274347": 197,
+      "gas:candidate-vibid:4744046274206": 24,
+      "gas:candidate-vibid:4744046274911": 6,
+      "gas:candidate-vibid:4744046274468": 26,
+      "gas:candidate-vibid:4744046254789": 64,
+      "gas:candidate-vibid:4744046274389": 30,
+      "gas:candidate-vibid:4744046274258": 1,
+      "gas:candidate-vibid:4744046273997": 181,
+      "gas:candidate-vibid:4744046274535": 13
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/chelyabinsk?action=show&root=1000252&tvd=27420001143148&vrn=100100067795849&region=74&global=&sub_region=74&prver=0&pronetvd=null&vibid=27420001143148&type=464",
@@ -9542,15 +9542,15 @@ export const duma_2016_uik_463_region_74_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бурматов Владимир Владимирович": 181,
-      "Горбачёв Владимир Иванович": 9,
-      "Навроцкая Елена Александровна": 7,
-      "Нациевский Константин Олегович": 20,
-      "Пашин Виталий Львович": 77,
-      "Севастьянов Алексей Михайлович": 13,
-      "Табалов Алексей Викторович": 6,
-      "Швецов Василий Георгиевич": 84,
-      "Яцун Андрей Николаевич": 8
+      "gas:candidate-vibid:4744046274347": 181,
+      "gas:candidate-vibid:4744046274206": 9,
+      "gas:candidate-vibid:4744046274911": 7,
+      "gas:candidate-vibid:4744046274468": 20,
+      "gas:candidate-vibid:4744046254789": 77,
+      "gas:candidate-vibid:4744046274389": 13,
+      "gas:candidate-vibid:4744046274258": 6,
+      "gas:candidate-vibid:4744046273997": 84,
+      "gas:candidate-vibid:4744046274535": 8
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/chelyabinsk?action=show&root=1000252&tvd=27420001143148&vrn=100100067795849&region=74&global=&sub_region=74&prver=0&pronetvd=null&vibid=27420001143148&type=464",
@@ -9601,15 +9601,15 @@ export const duma_2016_uik_463_region_74_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бурматов Владимир Владимирович": 239,
-      "Горбачёв Владимир Иванович": 21,
-      "Навроцкая Елена Александровна": 13,
-      "Нациевский Константин Олегович": 54,
-      "Пашин Виталий Львович": 76,
-      "Севастьянов Алексей Михайлович": 36,
-      "Табалов Алексей Викторович": 5,
-      "Швецов Василий Георгиевич": 158,
-      "Яцун Андрей Николаевич": 7
+      "gas:candidate-vibid:4744046274347": 239,
+      "gas:candidate-vibid:4744046274206": 21,
+      "gas:candidate-vibid:4744046274911": 13,
+      "gas:candidate-vibid:4744046274468": 54,
+      "gas:candidate-vibid:4744046254789": 76,
+      "gas:candidate-vibid:4744046274389": 36,
+      "gas:candidate-vibid:4744046274258": 5,
+      "gas:candidate-vibid:4744046273997": 158,
+      "gas:candidate-vibid:4744046274535": 7
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/chelyabinsk?action=show&root=1000252&tvd=27420001143148&vrn=100100067795849&region=74&global=&sub_region=74&prver=0&pronetvd=null&vibid=27420001143148&type=464",
@@ -9660,15 +9660,15 @@ export const duma_2016_uik_463_region_74_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бурматов Владимир Владимирович": 196,
-      "Горбачёв Владимир Иванович": 24,
-      "Навроцкая Елена Александровна": 8,
-      "Нациевский Константин Олегович": 55,
-      "Пашин Виталий Львович": 56,
-      "Севастьянов Алексей Михайлович": 41,
-      "Табалов Алексей Викторович": 9,
-      "Швецов Василий Георгиевич": 152,
-      "Яцун Андрей Николаевич": 8
+      "gas:candidate-vibid:4744046274347": 196,
+      "gas:candidate-vibid:4744046274206": 24,
+      "gas:candidate-vibid:4744046274911": 8,
+      "gas:candidate-vibid:4744046274468": 55,
+      "gas:candidate-vibid:4744046254789": 56,
+      "gas:candidate-vibid:4744046274389": 41,
+      "gas:candidate-vibid:4744046274258": 9,
+      "gas:candidate-vibid:4744046273997": 152,
+      "gas:candidate-vibid:4744046274535": 8
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/chelyabinsk?action=show&root=1000252&tvd=27420001143148&vrn=100100067795849&region=74&global=&sub_region=74&prver=0&pronetvd=null&vibid=27420001143148&type=464",
@@ -9719,15 +9719,15 @@ export const duma_2016_uik_463_region_74_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бурматов Владимир Владимирович": 256,
-      "Горбачёв Владимир Иванович": 26,
-      "Навроцкая Елена Александровна": 14,
-      "Нациевский Константин Олегович": 44,
-      "Пашин Виталий Львович": 76,
-      "Севастьянов Алексей Михайлович": 58,
-      "Табалов Алексей Викторович": 12,
-      "Швецов Василий Георгиевич": 172,
-      "Яцун Андрей Николаевич": 9
+      "gas:candidate-vibid:4744046274347": 256,
+      "gas:candidate-vibid:4744046274206": 26,
+      "gas:candidate-vibid:4744046274911": 14,
+      "gas:candidate-vibid:4744046274468": 44,
+      "gas:candidate-vibid:4744046254789": 76,
+      "gas:candidate-vibid:4744046274389": 58,
+      "gas:candidate-vibid:4744046274258": 12,
+      "gas:candidate-vibid:4744046273997": 172,
+      "gas:candidate-vibid:4744046274535": 9
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/chelyabinsk?action=show&root=1000252&tvd=27420001143148&vrn=100100067795849&region=74&global=&sub_region=74&prver=0&pronetvd=null&vibid=27420001143148&type=464",
@@ -9778,15 +9778,15 @@ export const duma_2016_uik_463_region_74_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бурматов Владимир Владимирович": 242,
-      "Горбачёв Владимир Иванович": 32,
-      "Навроцкая Елена Александровна": 12,
-      "Нациевский Константин Олегович": 54,
-      "Пашин Виталий Львович": 78,
-      "Севастьянов Алексей Михайлович": 31,
-      "Табалов Алексей Викторович": 10,
-      "Швецов Василий Георгиевич": 246,
-      "Яцун Андрей Николаевич": 6
+      "gas:candidate-vibid:4744046274347": 242,
+      "gas:candidate-vibid:4744046274206": 32,
+      "gas:candidate-vibid:4744046274911": 12,
+      "gas:candidate-vibid:4744046274468": 54,
+      "gas:candidate-vibid:4744046254789": 78,
+      "gas:candidate-vibid:4744046274389": 31,
+      "gas:candidate-vibid:4744046274258": 10,
+      "gas:candidate-vibid:4744046273997": 246,
+      "gas:candidate-vibid:4744046274535": 6
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/chelyabinsk?action=show&root=1000252&tvd=27420001143148&vrn=100100067795849&region=74&global=&sub_region=74&prver=0&pronetvd=null&vibid=27420001143148&type=464",
@@ -9837,15 +9837,15 @@ export const duma_2016_uik_463_region_74_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бурматов Владимир Владимирович": 287,
-      "Горбачёв Владимир Иванович": 24,
-      "Навроцкая Елена Александровна": 7,
-      "Нациевский Константин Олегович": 25,
-      "Пашин Виталий Львович": 61,
-      "Севастьянов Алексей Михайлович": 50,
-      "Табалов Алексей Викторович": 6,
-      "Швецов Василий Георгиевич": 255,
-      "Яцун Андрей Николаевич": 8
+      "gas:candidate-vibid:4744046274347": 287,
+      "gas:candidate-vibid:4744046274206": 24,
+      "gas:candidate-vibid:4744046274911": 7,
+      "gas:candidate-vibid:4744046274468": 25,
+      "gas:candidate-vibid:4744046254789": 61,
+      "gas:candidate-vibid:4744046274389": 50,
+      "gas:candidate-vibid:4744046274258": 6,
+      "gas:candidate-vibid:4744046273997": 255,
+      "gas:candidate-vibid:4744046274535": 8
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/chelyabinsk?action=show&root=1000252&tvd=27420001143148&vrn=100100067795849&region=74&global=&sub_region=74&prver=0&pronetvd=null&vibid=27420001143148&type=464",
@@ -9896,15 +9896,15 @@ export const duma_2016_uik_463_region_74_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бурматов Владимир Владимирович": 272,
-      "Горбачёв Владимир Иванович": 22,
-      "Навроцкая Елена Александровна": 7,
-      "Нациевский Константин Олегович": 37,
-      "Пашин Виталий Львович": 55,
-      "Севастьянов Алексей Михайлович": 37,
-      "Табалов Алексей Викторович": 7,
-      "Швецов Василий Георгиевич": 235,
-      "Яцун Андрей Николаевич": 8
+      "gas:candidate-vibid:4744046274347": 272,
+      "gas:candidate-vibid:4744046274206": 22,
+      "gas:candidate-vibid:4744046274911": 7,
+      "gas:candidate-vibid:4744046274468": 37,
+      "gas:candidate-vibid:4744046254789": 55,
+      "gas:candidate-vibid:4744046274389": 37,
+      "gas:candidate-vibid:4744046274258": 7,
+      "gas:candidate-vibid:4744046273997": 235,
+      "gas:candidate-vibid:4744046274535": 8
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/chelyabinsk?action=show&root=1000252&tvd=27420001143148&vrn=100100067795849&region=74&global=&sub_region=74&prver=0&pronetvd=null&vibid=27420001143148&type=464",
@@ -9955,15 +9955,15 @@ export const duma_2016_uik_463_region_74_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бурматов Владимир Владимирович": 246,
-      "Горбачёв Владимир Иванович": 31,
-      "Навроцкая Елена Александровна": 9,
-      "Нациевский Константин Олегович": 46,
-      "Пашин Виталий Львович": 44,
-      "Севастьянов Алексей Михайлович": 59,
-      "Табалов Алексей Викторович": 3,
-      "Швецов Василий Георгиевич": 225,
-      "Яцун Андрей Николаевич": 16
+      "gas:candidate-vibid:4744046274347": 246,
+      "gas:candidate-vibid:4744046274206": 31,
+      "gas:candidate-vibid:4744046274911": 9,
+      "gas:candidate-vibid:4744046274468": 46,
+      "gas:candidate-vibid:4744046254789": 44,
+      "gas:candidate-vibid:4744046274389": 59,
+      "gas:candidate-vibid:4744046274258": 3,
+      "gas:candidate-vibid:4744046273997": 225,
+      "gas:candidate-vibid:4744046274535": 16
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/chelyabinsk?action=show&root=1000252&tvd=27420001143148&vrn=100100067795849&region=74&global=&sub_region=74&prver=0&pronetvd=null&vibid=27420001143148&type=464",
@@ -10014,15 +10014,15 @@ export const duma_2016_uik_463_region_74_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бурматов Владимир Владимирович": 138,
-      "Горбачёв Владимир Иванович": 3,
-      "Навроцкая Елена Александровна": 6,
-      "Нациевский Константин Олегович": 13,
-      "Пашин Виталий Львович": 49,
-      "Севастьянов Алексей Михайлович": 14,
-      "Табалов Алексей Викторович": 4,
-      "Швецов Василий Георгиевич": 38,
-      "Яцун Андрей Николаевич": 4
+      "gas:candidate-vibid:4744046274347": 138,
+      "gas:candidate-vibid:4744046274206": 3,
+      "gas:candidate-vibid:4744046274911": 6,
+      "gas:candidate-vibid:4744046274468": 13,
+      "gas:candidate-vibid:4744046254789": 49,
+      "gas:candidate-vibid:4744046274389": 14,
+      "gas:candidate-vibid:4744046274258": 4,
+      "gas:candidate-vibid:4744046273997": 38,
+      "gas:candidate-vibid:4744046274535": 4
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/chelyabinsk?action=show&root=1000252&tvd=27420001143148&vrn=100100067795849&region=74&global=&sub_region=74&prver=0&pronetvd=null&vibid=27420001143148&type=464",
@@ -10073,15 +10073,15 @@ export const duma_2016_uik_463_region_74_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бурматов Владимир Владимирович": 176,
-      "Горбачёв Владимир Иванович": 29,
-      "Навроцкая Елена Александровна": 11,
-      "Нациевский Константин Олегович": 24,
-      "Пашин Виталий Львович": 71,
-      "Севастьянов Алексей Михайлович": 24,
-      "Табалов Алексей Викторович": 4,
-      "Швецов Василий Георгиевич": 104,
-      "Яцун Андрей Николаевич": 6
+      "gas:candidate-vibid:4744046274347": 176,
+      "gas:candidate-vibid:4744046274206": 29,
+      "gas:candidate-vibid:4744046274911": 11,
+      "gas:candidate-vibid:4744046274468": 24,
+      "gas:candidate-vibid:4744046254789": 71,
+      "gas:candidate-vibid:4744046274389": 24,
+      "gas:candidate-vibid:4744046274258": 4,
+      "gas:candidate-vibid:4744046273997": 104,
+      "gas:candidate-vibid:4744046274535": 6
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/chelyabinsk?action=show&root=1000252&tvd=27420001143148&vrn=100100067795849&region=74&global=&sub_region=74&prver=0&pronetvd=null&vibid=27420001143148&type=464",
@@ -10132,15 +10132,15 @@ export const duma_2016_uik_463_region_74_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бурматов Владимир Владимирович": 159,
-      "Горбачёв Владимир Иванович": 15,
-      "Навроцкая Елена Александровна": 6,
-      "Нациевский Константин Олегович": 24,
-      "Пашин Виталий Львович": 57,
-      "Севастьянов Алексей Михайлович": 13,
-      "Табалов Алексей Викторович": 0,
-      "Швецов Василий Георгиевич": 55,
-      "Яцун Андрей Николаевич": 4
+      "gas:candidate-vibid:4744046274347": 159,
+      "gas:candidate-vibid:4744046274206": 15,
+      "gas:candidate-vibid:4744046274911": 6,
+      "gas:candidate-vibid:4744046274468": 24,
+      "gas:candidate-vibid:4744046254789": 57,
+      "gas:candidate-vibid:4744046274389": 13,
+      "gas:candidate-vibid:4744046274258": 0,
+      "gas:candidate-vibid:4744046273997": 55,
+      "gas:candidate-vibid:4744046274535": 4
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/chelyabinsk?action=show&root=1000252&tvd=27420001143148&vrn=100100067795849&region=74&global=&sub_region=74&prver=0&pronetvd=null&vibid=27420001143148&type=464",
@@ -10191,15 +10191,15 @@ export const duma_2016_uik_463_region_74_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бурматов Владимир Владимирович": 68,
-      "Горбачёв Владимир Иванович": 12,
-      "Навроцкая Елена Александровна": 4,
-      "Нациевский Константин Олегович": 15,
-      "Пашин Виталий Львович": 19,
-      "Севастьянов Алексей Михайлович": 14,
-      "Табалов Алексей Викторович": 1,
-      "Швецов Василий Георгиевич": 39,
-      "Яцун Андрей Николаевич": 3
+      "gas:candidate-vibid:4744046274347": 68,
+      "gas:candidate-vibid:4744046274206": 12,
+      "gas:candidate-vibid:4744046274911": 4,
+      "gas:candidate-vibid:4744046274468": 15,
+      "gas:candidate-vibid:4744046254789": 19,
+      "gas:candidate-vibid:4744046274389": 14,
+      "gas:candidate-vibid:4744046274258": 1,
+      "gas:candidate-vibid:4744046273997": 39,
+      "gas:candidate-vibid:4744046274535": 3
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/chelyabinsk?action=show&root=1000252&tvd=27420001143148&vrn=100100067795849&region=74&global=&sub_region=74&prver=0&pronetvd=null&vibid=27420001143148&type=464",
@@ -10250,15 +10250,15 @@ export const duma_2016_uik_463_region_74_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бурматов Владимир Владимирович": 186,
-      "Горбачёв Владимир Иванович": 18,
-      "Навроцкая Елена Александровна": 5,
-      "Нациевский Константин Олегович": 21,
-      "Пашин Виталий Львович": 50,
-      "Севастьянов Алексей Михайлович": 16,
-      "Табалов Алексей Викторович": 4,
-      "Швецов Василий Георгиевич": 78,
-      "Яцун Андрей Николаевич": 6
+      "gas:candidate-vibid:4744046274347": 186,
+      "gas:candidate-vibid:4744046274206": 18,
+      "gas:candidate-vibid:4744046274911": 5,
+      "gas:candidate-vibid:4744046274468": 21,
+      "gas:candidate-vibid:4744046254789": 50,
+      "gas:candidate-vibid:4744046274389": 16,
+      "gas:candidate-vibid:4744046274258": 4,
+      "gas:candidate-vibid:4744046273997": 78,
+      "gas:candidate-vibid:4744046274535": 6
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/chelyabinsk?action=show&root=1000252&tvd=27420001143148&vrn=100100067795849&region=74&global=&sub_region=74&prver=0&pronetvd=null&vibid=27420001143148&type=464",
@@ -10309,15 +10309,15 @@ export const duma_2016_uik_463_region_74_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бурматов Владимир Владимирович": 174,
-      "Горбачёв Владимир Иванович": 28,
-      "Навроцкая Елена Александровна": 6,
-      "Нациевский Константин Олегович": 28,
-      "Пашин Виталий Львович": 46,
-      "Севастьянов Алексей Михайлович": 35,
-      "Табалов Алексей Викторович": 2,
-      "Швецов Василий Георгиевич": 156,
-      "Яцун Андрей Николаевич": 5
+      "gas:candidate-vibid:4744046274347": 174,
+      "gas:candidate-vibid:4744046274206": 28,
+      "gas:candidate-vibid:4744046274911": 6,
+      "gas:candidate-vibid:4744046274468": 28,
+      "gas:candidate-vibid:4744046254789": 46,
+      "gas:candidate-vibid:4744046274389": 35,
+      "gas:candidate-vibid:4744046274258": 2,
+      "gas:candidate-vibid:4744046273997": 156,
+      "gas:candidate-vibid:4744046274535": 5
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/chelyabinsk?action=show&root=1000252&tvd=27420001143148&vrn=100100067795849&region=74&global=&sub_region=74&prver=0&pronetvd=null&vibid=27420001143148&type=464",
@@ -10368,15 +10368,15 @@ export const duma_2016_uik_463_region_74_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бурматов Владимир Владимирович": 199,
-      "Горбачёв Владимир Иванович": 19,
-      "Навроцкая Елена Александровна": 13,
-      "Нациевский Константин Олегович": 57,
-      "Пашин Виталий Львович": 47,
-      "Севастьянов Алексей Михайлович": 49,
-      "Табалов Алексей Викторович": 5,
-      "Швецов Василий Георгиевич": 122,
-      "Яцун Андрей Николаевич": 3
+      "gas:candidate-vibid:4744046274347": 199,
+      "gas:candidate-vibid:4744046274206": 19,
+      "gas:candidate-vibid:4744046274911": 13,
+      "gas:candidate-vibid:4744046274468": 57,
+      "gas:candidate-vibid:4744046254789": 47,
+      "gas:candidate-vibid:4744046274389": 49,
+      "gas:candidate-vibid:4744046274258": 5,
+      "gas:candidate-vibid:4744046273997": 122,
+      "gas:candidate-vibid:4744046274535": 3
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/chelyabinsk?action=show&root=1000252&tvd=27420001143148&vrn=100100067795849&region=74&global=&sub_region=74&prver=0&pronetvd=null&vibid=27420001143148&type=464",
@@ -10427,15 +10427,15 @@ export const duma_2016_uik_463_region_74_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бурматов Владимир Владимирович": 84,
-      "Горбачёв Владимир Иванович": 7,
-      "Навроцкая Елена Александровна": 4,
-      "Нациевский Константин Олегович": 11,
-      "Пашин Виталий Львович": 20,
-      "Севастьянов Алексей Михайлович": 30,
-      "Табалов Алексей Викторович": 1,
-      "Швецов Василий Георгиевич": 48,
-      "Яцун Андрей Николаевич": 7
+      "gas:candidate-vibid:4744046274347": 84,
+      "gas:candidate-vibid:4744046274206": 7,
+      "gas:candidate-vibid:4744046274911": 4,
+      "gas:candidate-vibid:4744046274468": 11,
+      "gas:candidate-vibid:4744046254789": 20,
+      "gas:candidate-vibid:4744046274389": 30,
+      "gas:candidate-vibid:4744046274258": 1,
+      "gas:candidate-vibid:4744046273997": 48,
+      "gas:candidate-vibid:4744046274535": 7
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/chelyabinsk?action=show&root=1000252&tvd=27420001143148&vrn=100100067795849&region=74&global=&sub_region=74&prver=0&pronetvd=null&vibid=27420001143148&type=464",
@@ -10486,15 +10486,15 @@ export const duma_2016_uik_463_region_74_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бурматов Владимир Владимирович": 88,
-      "Горбачёв Владимир Иванович": 5,
-      "Навроцкая Елена Александровна": 2,
-      "Нациевский Константин Олегович": 12,
-      "Пашин Виталий Львович": 29,
-      "Севастьянов Алексей Михайлович": 11,
-      "Табалов Алексей Викторович": 4,
-      "Швецов Василий Георгиевич": 35,
-      "Яцун Андрей Николаевич": 6
+      "gas:candidate-vibid:4744046274347": 88,
+      "gas:candidate-vibid:4744046274206": 5,
+      "gas:candidate-vibid:4744046274911": 2,
+      "gas:candidate-vibid:4744046274468": 12,
+      "gas:candidate-vibid:4744046254789": 29,
+      "gas:candidate-vibid:4744046274389": 11,
+      "gas:candidate-vibid:4744046274258": 4,
+      "gas:candidate-vibid:4744046273997": 35,
+      "gas:candidate-vibid:4744046274535": 6
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/chelyabinsk?action=show&root=1000252&tvd=27420001143148&vrn=100100067795849&region=74&global=&sub_region=74&prver=0&pronetvd=null&vibid=27420001143148&type=464",
@@ -10545,15 +10545,15 @@ export const duma_2016_uik_463_region_74_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бурматов Владимир Владимирович": 525,
-      "Горбачёв Владимир Иванович": 33,
-      "Навроцкая Елена Александровна": 5,
-      "Нациевский Константин Олегович": 68,
-      "Пашин Виталий Львович": 49,
-      "Севастьянов Алексей Михайлович": 185,
-      "Табалов Алексей Викторович": 6,
-      "Швецов Василий Георгиевич": 175,
-      "Яцун Андрей Николаевич": 6
+      "gas:candidate-vibid:4744046274347": 525,
+      "gas:candidate-vibid:4744046274206": 33,
+      "gas:candidate-vibid:4744046274911": 5,
+      "gas:candidate-vibid:4744046274468": 68,
+      "gas:candidate-vibid:4744046254789": 49,
+      "gas:candidate-vibid:4744046274389": 185,
+      "gas:candidate-vibid:4744046274258": 6,
+      "gas:candidate-vibid:4744046273997": 175,
+      "gas:candidate-vibid:4744046274535": 6
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/chelyabinsk?action=show&root=1000252&tvd=27420001143149&vrn=100100067795849&region=74&global=&sub_region=74&prver=0&pronetvd=null&vibid=27420001143149&type=464",
@@ -10604,15 +10604,15 @@ export const duma_2016_uik_463_region_74_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бурматов Владимир Владимирович": 510,
-      "Горбачёв Владимир Иванович": 40,
-      "Навроцкая Елена Александровна": 10,
-      "Нациевский Константин Олегович": 66,
-      "Пашин Виталий Львович": 44,
-      "Севастьянов Алексей Михайлович": 114,
-      "Табалов Алексей Викторович": 12,
-      "Швецов Василий Георгиевич": 154,
-      "Яцун Андрей Николаевич": 9
+      "gas:candidate-vibid:4744046274347": 510,
+      "gas:candidate-vibid:4744046274206": 40,
+      "gas:candidate-vibid:4744046274911": 10,
+      "gas:candidate-vibid:4744046274468": 66,
+      "gas:candidate-vibid:4744046254789": 44,
+      "gas:candidate-vibid:4744046274389": 114,
+      "gas:candidate-vibid:4744046274258": 12,
+      "gas:candidate-vibid:4744046273997": 154,
+      "gas:candidate-vibid:4744046274535": 9
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/chelyabinsk?action=show&root=1000252&tvd=27420001143149&vrn=100100067795849&region=74&global=&sub_region=74&prver=0&pronetvd=null&vibid=27420001143149&type=464",
@@ -10663,15 +10663,15 @@ export const duma_2016_uik_463_region_74_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бурматов Владимир Владимирович": 99,
-      "Горбачёв Владимир Иванович": 3,
-      "Навроцкая Елена Александровна": 4,
-      "Нациевский Константин Олегович": 9,
-      "Пашин Виталий Львович": 7,
-      "Севастьянов Алексей Михайлович": 49,
-      "Табалов Алексей Викторович": 2,
-      "Швецов Василий Георгиевич": 14,
-      "Яцун Андрей Николаевич": 1
+      "gas:candidate-vibid:4744046274347": 99,
+      "gas:candidate-vibid:4744046274206": 3,
+      "gas:candidate-vibid:4744046274911": 4,
+      "gas:candidate-vibid:4744046274468": 9,
+      "gas:candidate-vibid:4744046254789": 7,
+      "gas:candidate-vibid:4744046274389": 49,
+      "gas:candidate-vibid:4744046274258": 2,
+      "gas:candidate-vibid:4744046273997": 14,
+      "gas:candidate-vibid:4744046274535": 1
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/chelyabinsk?action=show&root=1000252&tvd=27420001143149&vrn=100100067795849&region=74&global=&sub_region=74&prver=0&pronetvd=null&vibid=27420001143149&type=464",
@@ -10722,15 +10722,15 @@ export const duma_2016_uik_463_region_74_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бурматов Владимир Владимирович": 145,
-      "Горбачёв Владимир Иванович": 7,
-      "Навроцкая Елена Александровна": 3,
-      "Нациевский Константин Олегович": 16,
-      "Пашин Виталий Львович": 7,
-      "Севастьянов Алексей Михайлович": 19,
-      "Табалов Алексей Викторович": 0,
-      "Швецов Василий Георгиевич": 17,
-      "Яцун Андрей Николаевич": 6
+      "gas:candidate-vibid:4744046274347": 145,
+      "gas:candidate-vibid:4744046274206": 7,
+      "gas:candidate-vibid:4744046274911": 3,
+      "gas:candidate-vibid:4744046274468": 16,
+      "gas:candidate-vibid:4744046254789": 7,
+      "gas:candidate-vibid:4744046274389": 19,
+      "gas:candidate-vibid:4744046274258": 0,
+      "gas:candidate-vibid:4744046273997": 17,
+      "gas:candidate-vibid:4744046274535": 6
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/chelyabinsk?action=show&root=1000252&tvd=27420001143149&vrn=100100067795849&region=74&global=&sub_region=74&prver=0&pronetvd=null&vibid=27420001143149&type=464",
@@ -10781,15 +10781,15 @@ export const duma_2016_uik_463_region_74_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бурматов Владимир Владимирович": 115,
-      "Горбачёв Владимир Иванович": 11,
-      "Навроцкая Елена Александровна": 1,
-      "Нациевский Константин Олегович": 13,
-      "Пашин Виталий Львович": 9,
-      "Севастьянов Алексей Михайлович": 0,
-      "Табалов Алексей Викторович": 2,
-      "Швецов Василий Георгиевич": 59,
-      "Яцун Андрей Николаевич": 6
+      "gas:candidate-vibid:4744046274347": 115,
+      "gas:candidate-vibid:4744046274206": 11,
+      "gas:candidate-vibid:4744046274911": 1,
+      "gas:candidate-vibid:4744046274468": 13,
+      "gas:candidate-vibid:4744046254789": 9,
+      "gas:candidate-vibid:4744046274389": 0,
+      "gas:candidate-vibid:4744046274258": 2,
+      "gas:candidate-vibid:4744046273997": 59,
+      "gas:candidate-vibid:4744046274535": 6
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/chelyabinsk?action=show&root=1000252&tvd=27420001143149&vrn=100100067795849&region=74&global=&sub_region=74&prver=0&pronetvd=null&vibid=27420001143149&type=464",
@@ -10840,15 +10840,15 @@ export const duma_2016_uik_463_region_74_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бурматов Владимир Владимирович": 159,
-      "Горбачёв Владимир Иванович": 16,
-      "Навроцкая Елена Александровна": 1,
-      "Нациевский Константин Олегович": 15,
-      "Пашин Виталий Львович": 1,
-      "Севастьянов Алексей Михайлович": 7,
-      "Табалов Алексей Викторович": 1,
-      "Швецов Василий Георгиевич": 30,
-      "Яцун Андрей Николаевич": 1
+      "gas:candidate-vibid:4744046274347": 159,
+      "gas:candidate-vibid:4744046274206": 16,
+      "gas:candidate-vibid:4744046274911": 1,
+      "gas:candidate-vibid:4744046274468": 15,
+      "gas:candidate-vibid:4744046254789": 1,
+      "gas:candidate-vibid:4744046274389": 7,
+      "gas:candidate-vibid:4744046274258": 1,
+      "gas:candidate-vibid:4744046273997": 30,
+      "gas:candidate-vibid:4744046274535": 1
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/chelyabinsk?action=show&root=1000252&tvd=27420001143149&vrn=100100067795849&region=74&global=&sub_region=74&prver=0&pronetvd=null&vibid=27420001143149&type=464",
@@ -10899,15 +10899,15 @@ export const duma_2016_uik_463_region_74_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бурматов Владимир Владимирович": 373,
-      "Горбачёв Владимир Иванович": 23,
-      "Навроцкая Елена Александровна": 8,
-      "Нациевский Константин Олегович": 41,
-      "Пашин Виталий Львович": 48,
-      "Севастьянов Алексей Михайлович": 16,
-      "Табалов Алексей Викторович": 3,
-      "Швецов Василий Георгиевич": 81,
-      "Яцун Андрей Николаевич": 3
+      "gas:candidate-vibid:4744046274347": 373,
+      "gas:candidate-vibid:4744046274206": 23,
+      "gas:candidate-vibid:4744046274911": 8,
+      "gas:candidate-vibid:4744046274468": 41,
+      "gas:candidate-vibid:4744046254789": 48,
+      "gas:candidate-vibid:4744046274389": 16,
+      "gas:candidate-vibid:4744046274258": 3,
+      "gas:candidate-vibid:4744046273997": 81,
+      "gas:candidate-vibid:4744046274535": 3
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/chelyabinsk?action=show&root=1000252&tvd=27420001143149&vrn=100100067795849&region=74&global=&sub_region=74&prver=0&pronetvd=null&vibid=27420001143149&type=464",
@@ -10958,15 +10958,15 @@ export const duma_2016_uik_463_region_74_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бурматов Владимир Владимирович": 126,
-      "Горбачёв Владимир Иванович": 2,
-      "Навроцкая Елена Александровна": 1,
-      "Нациевский Константин Олегович": 7,
-      "Пашин Виталий Львович": 7,
-      "Севастьянов Алексей Михайлович": 2,
-      "Табалов Алексей Викторович": 0,
-      "Швецов Василий Георгиевич": 9,
-      "Яцун Андрей Николаевич": 1
+      "gas:candidate-vibid:4744046274347": 126,
+      "gas:candidate-vibid:4744046274206": 2,
+      "gas:candidate-vibid:4744046274911": 1,
+      "gas:candidate-vibid:4744046274468": 7,
+      "gas:candidate-vibid:4744046254789": 7,
+      "gas:candidate-vibid:4744046274389": 2,
+      "gas:candidate-vibid:4744046274258": 0,
+      "gas:candidate-vibid:4744046273997": 9,
+      "gas:candidate-vibid:4744046274535": 1
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/chelyabinsk?action=show&root=1000252&tvd=27420001143149&vrn=100100067795849&region=74&global=&sub_region=74&prver=0&pronetvd=null&vibid=27420001143149&type=464",
@@ -11017,15 +11017,15 @@ export const duma_2016_uik_463_region_74_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бурматов Владимир Владимирович": 53,
-      "Горбачёв Владимир Иванович": 0,
-      "Навроцкая Елена Александровна": 0,
-      "Нациевский Константин Олегович": 11,
-      "Пашин Виталий Львович": 5,
-      "Севастьянов Алексей Михайлович": 3,
-      "Табалов Алексей Викторович": 0,
-      "Швецов Василий Георгиевич": 20,
-      "Яцун Андрей Николаевич": 1
+      "gas:candidate-vibid:4744046274347": 53,
+      "gas:candidate-vibid:4744046274206": 0,
+      "gas:candidate-vibid:4744046274911": 0,
+      "gas:candidate-vibid:4744046274468": 11,
+      "gas:candidate-vibid:4744046254789": 5,
+      "gas:candidate-vibid:4744046274389": 3,
+      "gas:candidate-vibid:4744046274258": 0,
+      "gas:candidate-vibid:4744046273997": 20,
+      "gas:candidate-vibid:4744046274535": 1
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/chelyabinsk?action=show&root=1000252&tvd=27420001143149&vrn=100100067795849&region=74&global=&sub_region=74&prver=0&pronetvd=null&vibid=27420001143149&type=464",
@@ -11076,15 +11076,15 @@ export const duma_2016_uik_463_region_74_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бурматов Владимир Владимирович": 40,
-      "Горбачёв Владимир Иванович": 2,
-      "Навроцкая Елена Александровна": 3,
-      "Нациевский Константин Олегович": 15,
-      "Пашин Виталий Львович": 3,
-      "Севастьянов Алексей Михайлович": 2,
-      "Табалов Алексей Викторович": 0,
-      "Швецов Василий Георгиевич": 1,
-      "Яцун Андрей Николаевич": 0
+      "gas:candidate-vibid:4744046274347": 40,
+      "gas:candidate-vibid:4744046274206": 2,
+      "gas:candidate-vibid:4744046274911": 3,
+      "gas:candidate-vibid:4744046274468": 15,
+      "gas:candidate-vibid:4744046254789": 3,
+      "gas:candidate-vibid:4744046274389": 2,
+      "gas:candidate-vibid:4744046274258": 0,
+      "gas:candidate-vibid:4744046273997": 1,
+      "gas:candidate-vibid:4744046274535": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/chelyabinsk?action=show&root=1000252&tvd=27420001143149&vrn=100100067795849&region=74&global=&sub_region=74&prver=0&pronetvd=null&vibid=27420001143149&type=464",
@@ -11135,15 +11135,15 @@ export const duma_2016_uik_463_region_74_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бурматов Владимир Владимирович": 207,
-      "Горбачёв Владимир Иванович": 12,
-      "Навроцкая Елена Александровна": 8,
-      "Нациевский Константин Олегович": 16,
-      "Пашин Виталий Львович": 13,
-      "Севастьянов Алексей Михайлович": 91,
-      "Табалов Алексей Викторович": 2,
-      "Швецов Василий Георгиевич": 59,
-      "Яцун Андрей Николаевич": 3
+      "gas:candidate-vibid:4744046274347": 207,
+      "gas:candidate-vibid:4744046274206": 12,
+      "gas:candidate-vibid:4744046274911": 8,
+      "gas:candidate-vibid:4744046274468": 16,
+      "gas:candidate-vibid:4744046254789": 13,
+      "gas:candidate-vibid:4744046274389": 91,
+      "gas:candidate-vibid:4744046274258": 2,
+      "gas:candidate-vibid:4744046273997": 59,
+      "gas:candidate-vibid:4744046274535": 3
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/chelyabinsk?action=show&root=1000252&tvd=27420001143149&vrn=100100067795849&region=74&global=&sub_region=74&prver=0&pronetvd=null&vibid=27420001143149&type=464",
@@ -11194,15 +11194,15 @@ export const duma_2016_uik_463_region_74_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бурматов Владимир Владимирович": 95,
-      "Горбачёв Владимир Иванович": 2,
-      "Навроцкая Елена Александровна": 5,
-      "Нациевский Константин Олегович": 6,
-      "Пашин Виталий Львович": 4,
-      "Севастьянов Алексей Михайлович": 7,
-      "Табалов Алексей Викторович": 0,
-      "Швецов Василий Георгиевич": 9,
-      "Яцун Андрей Николаевич": 1
+      "gas:candidate-vibid:4744046274347": 95,
+      "gas:candidate-vibid:4744046274206": 2,
+      "gas:candidate-vibid:4744046274911": 5,
+      "gas:candidate-vibid:4744046274468": 6,
+      "gas:candidate-vibid:4744046254789": 4,
+      "gas:candidate-vibid:4744046274389": 7,
+      "gas:candidate-vibid:4744046274258": 0,
+      "gas:candidate-vibid:4744046273997": 9,
+      "gas:candidate-vibid:4744046274535": 1
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/chelyabinsk?action=show&root=1000252&tvd=27420001143149&vrn=100100067795849&region=74&global=&sub_region=74&prver=0&pronetvd=null&vibid=27420001143149&type=464",
@@ -11253,15 +11253,15 @@ export const duma_2016_uik_463_region_74_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бурматов Владимир Владимирович": 121,
-      "Горбачёв Владимир Иванович": 5,
-      "Навроцкая Елена Александровна": 1,
-      "Нациевский Константин Олегович": 4,
-      "Пашин Виталий Львович": 1,
-      "Севастьянов Алексей Михайлович": 40,
-      "Табалов Алексей Викторович": 0,
-      "Швецов Василий Георгиевич": 13,
-      "Яцун Андрей Николаевич": 0
+      "gas:candidate-vibid:4744046274347": 121,
+      "gas:candidate-vibid:4744046274206": 5,
+      "gas:candidate-vibid:4744046274911": 1,
+      "gas:candidate-vibid:4744046274468": 4,
+      "gas:candidate-vibid:4744046254789": 1,
+      "gas:candidate-vibid:4744046274389": 40,
+      "gas:candidate-vibid:4744046274258": 0,
+      "gas:candidate-vibid:4744046273997": 13,
+      "gas:candidate-vibid:4744046274535": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/chelyabinsk?action=show&root=1000252&tvd=27420001143149&vrn=100100067795849&region=74&global=&sub_region=74&prver=0&pronetvd=null&vibid=27420001143149&type=464",
@@ -11312,15 +11312,15 @@ export const duma_2016_uik_463_region_74_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бурматов Владимир Владимирович": 122,
-      "Горбачёв Владимир Иванович": 4,
-      "Навроцкая Елена Александровна": 0,
-      "Нациевский Константин Олегович": 6,
-      "Пашин Виталий Львович": 1,
-      "Севастьянов Алексей Михайлович": 6,
-      "Табалов Алексей Викторович": 0,
-      "Швецов Василий Георгиевич": 17,
-      "Яцун Андрей Николаевич": 0
+      "gas:candidate-vibid:4744046274347": 122,
+      "gas:candidate-vibid:4744046274206": 4,
+      "gas:candidate-vibid:4744046274911": 0,
+      "gas:candidate-vibid:4744046274468": 6,
+      "gas:candidate-vibid:4744046254789": 1,
+      "gas:candidate-vibid:4744046274389": 6,
+      "gas:candidate-vibid:4744046274258": 0,
+      "gas:candidate-vibid:4744046273997": 17,
+      "gas:candidate-vibid:4744046274535": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/chelyabinsk?action=show&root=1000252&tvd=27420001143149&vrn=100100067795849&region=74&global=&sub_region=74&prver=0&pronetvd=null&vibid=27420001143149&type=464",
@@ -11371,15 +11371,15 @@ export const duma_2016_uik_463_region_74_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бурматов Владимир Владимирович": 53,
-      "Горбачёв Владимир Иванович": 8,
-      "Навроцкая Елена Александровна": 2,
-      "Нациевский Константин Олегович": 8,
-      "Пашин Виталий Львович": 4,
-      "Севастьянов Алексей Михайлович": 21,
-      "Табалов Алексей Викторович": 0,
-      "Швецов Василий Георгиевич": 11,
-      "Яцун Андрей Николаевич": 2
+      "gas:candidate-vibid:4744046274347": 53,
+      "gas:candidate-vibid:4744046274206": 8,
+      "gas:candidate-vibid:4744046274911": 2,
+      "gas:candidate-vibid:4744046274468": 8,
+      "gas:candidate-vibid:4744046254789": 4,
+      "gas:candidate-vibid:4744046274389": 21,
+      "gas:candidate-vibid:4744046274258": 0,
+      "gas:candidate-vibid:4744046273997": 11,
+      "gas:candidate-vibid:4744046274535": 2
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/chelyabinsk?action=show&root=1000252&tvd=27420001143149&vrn=100100067795849&region=74&global=&sub_region=74&prver=0&pronetvd=null&vibid=27420001143149&type=464",
@@ -11430,15 +11430,15 @@ export const duma_2016_uik_463_region_74_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бурматов Владимир Владимирович": 236,
-      "Горбачёв Владимир Иванович": 27,
-      "Навроцкая Елена Александровна": 7,
-      "Нациевский Константин Олегович": 27,
-      "Пашин Виталий Львович": 22,
-      "Севастьянов Алексей Михайлович": 133,
-      "Табалов Алексей Викторович": 0,
-      "Швецов Василий Георгиевич": 89,
-      "Яцун Андрей Николаевич": 5
+      "gas:candidate-vibid:4744046274347": 236,
+      "gas:candidate-vibid:4744046274206": 27,
+      "gas:candidate-vibid:4744046274911": 7,
+      "gas:candidate-vibid:4744046274468": 27,
+      "gas:candidate-vibid:4744046254789": 22,
+      "gas:candidate-vibid:4744046274389": 133,
+      "gas:candidate-vibid:4744046274258": 0,
+      "gas:candidate-vibid:4744046273997": 89,
+      "gas:candidate-vibid:4744046274535": 5
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/chelyabinsk?action=show&root=1000252&tvd=27420001143149&vrn=100100067795849&region=74&global=&sub_region=74&prver=0&pronetvd=null&vibid=27420001143149&type=464",
@@ -11489,15 +11489,15 @@ export const duma_2016_uik_463_region_74_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бурматов Владимир Владимирович": 288,
-      "Горбачёв Владимир Иванович": 8,
-      "Навроцкая Елена Александровна": 2,
-      "Нациевский Константин Олегович": 19,
-      "Пашин Виталий Львович": 14,
-      "Севастьянов Алексей Михайлович": 39,
-      "Табалов Алексей Викторович": 2,
-      "Швецов Василий Георгиевич": 21,
-      "Яцун Андрей Николаевич": 2
+      "gas:candidate-vibid:4744046274347": 288,
+      "gas:candidate-vibid:4744046274206": 8,
+      "gas:candidate-vibid:4744046274911": 2,
+      "gas:candidate-vibid:4744046274468": 19,
+      "gas:candidate-vibid:4744046254789": 14,
+      "gas:candidate-vibid:4744046274389": 39,
+      "gas:candidate-vibid:4744046274258": 2,
+      "gas:candidate-vibid:4744046273997": 21,
+      "gas:candidate-vibid:4744046274535": 2
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/chelyabinsk?action=show&root=1000252&tvd=27420001143149&vrn=100100067795849&region=74&global=&sub_region=74&prver=0&pronetvd=null&vibid=27420001143149&type=464",
@@ -11548,15 +11548,15 @@ export const duma_2016_uik_463_region_74_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бурматов Владимир Владимирович": 164,
-      "Горбачёв Владимир Иванович": 6,
-      "Навроцкая Елена Александровна": 2,
-      "Нациевский Константин Олегович": 16,
-      "Пашин Виталий Львович": 2,
-      "Севастьянов Алексей Михайлович": 7,
-      "Табалов Алексей Викторович": 0,
-      "Швецов Василий Георгиевич": 15,
-      "Яцун Андрей Николаевич": 3
+      "gas:candidate-vibid:4744046274347": 164,
+      "gas:candidate-vibid:4744046274206": 6,
+      "gas:candidate-vibid:4744046274911": 2,
+      "gas:candidate-vibid:4744046274468": 16,
+      "gas:candidate-vibid:4744046254789": 2,
+      "gas:candidate-vibid:4744046274389": 7,
+      "gas:candidate-vibid:4744046274258": 0,
+      "gas:candidate-vibid:4744046273997": 15,
+      "gas:candidate-vibid:4744046274535": 3
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/chelyabinsk?action=show&root=1000252&tvd=27420001143149&vrn=100100067795849&region=74&global=&sub_region=74&prver=0&pronetvd=null&vibid=27420001143149&type=464",
@@ -11607,15 +11607,15 @@ export const duma_2016_uik_463_region_74_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бурматов Владимир Владимирович": 86,
-      "Горбачёв Владимир Иванович": 7,
-      "Навроцкая Елена Александровна": 0,
-      "Нациевский Константин Олегович": 4,
-      "Пашин Виталий Львович": 4,
-      "Севастьянов Алексей Михайлович": 6,
-      "Табалов Алексей Викторович": 0,
-      "Швецов Василий Георгиевич": 13,
-      "Яцун Андрей Николаевич": 0
+      "gas:candidate-vibid:4744046274347": 86,
+      "gas:candidate-vibid:4744046274206": 7,
+      "gas:candidate-vibid:4744046274911": 0,
+      "gas:candidate-vibid:4744046274468": 4,
+      "gas:candidate-vibid:4744046254789": 4,
+      "gas:candidate-vibid:4744046274389": 6,
+      "gas:candidate-vibid:4744046274258": 0,
+      "gas:candidate-vibid:4744046273997": 13,
+      "gas:candidate-vibid:4744046274535": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/chelyabinsk?action=show&root=1000252&tvd=27420001143149&vrn=100100067795849&region=74&global=&sub_region=74&prver=0&pronetvd=null&vibid=27420001143149&type=464",
@@ -11666,15 +11666,15 @@ export const duma_2016_uik_463_region_74_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бурматов Владимир Владимирович": 183,
-      "Горбачёв Владимир Иванович": 10,
-      "Навроцкая Елена Александровна": 3,
-      "Нациевский Константин Олегович": 17,
-      "Пашин Виталий Львович": 19,
-      "Севастьянов Алексей Михайлович": 9,
-      "Табалов Алексей Викторович": 0,
-      "Швецов Василий Георгиевич": 24,
-      "Яцун Андрей Николаевич": 2
+      "gas:candidate-vibid:4744046274347": 183,
+      "gas:candidate-vibid:4744046274206": 10,
+      "gas:candidate-vibid:4744046274911": 3,
+      "gas:candidate-vibid:4744046274468": 17,
+      "gas:candidate-vibid:4744046254789": 19,
+      "gas:candidate-vibid:4744046274389": 9,
+      "gas:candidate-vibid:4744046274258": 0,
+      "gas:candidate-vibid:4744046273997": 24,
+      "gas:candidate-vibid:4744046274535": 2
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/chelyabinsk?action=show&root=1000252&tvd=27420001143149&vrn=100100067795849&region=74&global=&sub_region=74&prver=0&pronetvd=null&vibid=27420001143149&type=464",
@@ -11725,15 +11725,15 @@ export const duma_2016_uik_463_region_74_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бурматов Владимир Владимирович": 89,
-      "Горбачёв Владимир Иванович": 6,
-      "Навроцкая Елена Александровна": 3,
-      "Нациевский Константин Олегович": 4,
-      "Пашин Виталий Львович": 4,
-      "Севастьянов Алексей Михайлович": 3,
-      "Табалов Алексей Викторович": 2,
-      "Швецов Василий Георгиевич": 7,
-      "Яцун Андрей Николаевич": 0
+      "gas:candidate-vibid:4744046274347": 89,
+      "gas:candidate-vibid:4744046274206": 6,
+      "gas:candidate-vibid:4744046274911": 3,
+      "gas:candidate-vibid:4744046274468": 4,
+      "gas:candidate-vibid:4744046254789": 4,
+      "gas:candidate-vibid:4744046274389": 3,
+      "gas:candidate-vibid:4744046274258": 2,
+      "gas:candidate-vibid:4744046273997": 7,
+      "gas:candidate-vibid:4744046274535": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/chelyabinsk?action=show&root=1000252&tvd=27420001143149&vrn=100100067795849&region=74&global=&sub_region=74&prver=0&pronetvd=null&vibid=27420001143149&type=464",
@@ -11784,15 +11784,15 @@ export const duma_2016_uik_463_region_74_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бурматов Владимир Владимирович": 51,
-      "Горбачёв Владимир Иванович": 2,
-      "Навроцкая Елена Александровна": 3,
-      "Нациевский Константин Олегович": 5,
-      "Пашин Виталий Львович": 1,
-      "Севастьянов Алексей Михайлович": 1,
-      "Табалов Алексей Викторович": 0,
-      "Швецов Василий Георгиевич": 1,
-      "Яцун Андрей Николаевич": 0
+      "gas:candidate-vibid:4744046274347": 51,
+      "gas:candidate-vibid:4744046274206": 2,
+      "gas:candidate-vibid:4744046274911": 3,
+      "gas:candidate-vibid:4744046274468": 5,
+      "gas:candidate-vibid:4744046254789": 1,
+      "gas:candidate-vibid:4744046274389": 1,
+      "gas:candidate-vibid:4744046274258": 0,
+      "gas:candidate-vibid:4744046273997": 1,
+      "gas:candidate-vibid:4744046274535": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/chelyabinsk?action=show&root=1000252&tvd=27420001143149&vrn=100100067795849&region=74&global=&sub_region=74&prver=0&pronetvd=null&vibid=27420001143149&type=464",
@@ -11843,15 +11843,15 @@ export const duma_2016_uik_463_region_74_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бурматов Владимир Владимирович": 117,
-      "Горбачёв Владимир Иванович": 7,
-      "Навроцкая Елена Александровна": 3,
-      "Нациевский Константин Олегович": 6,
-      "Пашин Виталий Львович": 2,
-      "Севастьянов Алексей Михайлович": 4,
-      "Табалов Алексей Викторович": 1,
-      "Швецов Василий Георгиевич": 15,
-      "Яцун Андрей Николаевич": 0
+      "gas:candidate-vibid:4744046274347": 117,
+      "gas:candidate-vibid:4744046274206": 7,
+      "gas:candidate-vibid:4744046274911": 3,
+      "gas:candidate-vibid:4744046274468": 6,
+      "gas:candidate-vibid:4744046254789": 2,
+      "gas:candidate-vibid:4744046274389": 4,
+      "gas:candidate-vibid:4744046274258": 1,
+      "gas:candidate-vibid:4744046273997": 15,
+      "gas:candidate-vibid:4744046274535": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/chelyabinsk?action=show&root=1000252&tvd=27420001143149&vrn=100100067795849&region=74&global=&sub_region=74&prver=0&pronetvd=null&vibid=27420001143149&type=464",
@@ -11902,15 +11902,15 @@ export const duma_2016_uik_463_region_74_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бурматов Владимир Владимирович": 89,
-      "Горбачёв Владимир Иванович": 5,
-      "Навроцкая Елена Александровна": 1,
-      "Нациевский Константин Олегович": 10,
-      "Пашин Виталий Львович": 3,
-      "Севастьянов Алексей Михайлович": 19,
-      "Табалов Алексей Викторович": 0,
-      "Швецов Василий Георгиевич": 37,
-      "Яцун Андрей Николаевич": 3
+      "gas:candidate-vibid:4744046274347": 89,
+      "gas:candidate-vibid:4744046274206": 5,
+      "gas:candidate-vibid:4744046274911": 1,
+      "gas:candidate-vibid:4744046274468": 10,
+      "gas:candidate-vibid:4744046254789": 3,
+      "gas:candidate-vibid:4744046274389": 19,
+      "gas:candidate-vibid:4744046274258": 0,
+      "gas:candidate-vibid:4744046273997": 37,
+      "gas:candidate-vibid:4744046274535": 3
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/chelyabinsk?action=show&root=1000252&tvd=27420001143149&vrn=100100067795849&region=74&global=&sub_region=74&prver=0&pronetvd=null&vibid=27420001143149&type=464",
@@ -11961,15 +11961,15 @@ export const duma_2016_uik_463_region_74_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бурматов Владимир Владимирович": 206,
-      "Горбачёв Владимир Иванович": 23,
-      "Навроцкая Елена Александровна": 3,
-      "Нациевский Константин Олегович": 38,
-      "Пашин Виталий Львович": 9,
-      "Севастьянов Алексей Михайлович": 9,
-      "Табалов Алексей Викторович": 3,
-      "Швецов Василий Георгиевич": 36,
-      "Яцун Андрей Николаевич": 3
+      "gas:candidate-vibid:4744046274347": 206,
+      "gas:candidate-vibid:4744046274206": 23,
+      "gas:candidate-vibid:4744046274911": 3,
+      "gas:candidate-vibid:4744046274468": 38,
+      "gas:candidate-vibid:4744046254789": 9,
+      "gas:candidate-vibid:4744046274389": 9,
+      "gas:candidate-vibid:4744046274258": 3,
+      "gas:candidate-vibid:4744046273997": 36,
+      "gas:candidate-vibid:4744046274535": 3
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/chelyabinsk?action=show&root=1000252&tvd=27420001143149&vrn=100100067795849&region=74&global=&sub_region=74&prver=0&pronetvd=null&vibid=27420001143149&type=464",
@@ -12020,15 +12020,15 @@ export const duma_2016_uik_463_region_74_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бурматов Владимир Владимирович": 106,
-      "Горбачёв Владимир Иванович": 18,
-      "Навроцкая Елена Александровна": 2,
-      "Нациевский Константин Олегович": 15,
-      "Пашин Виталий Львович": 1,
-      "Севастьянов Алексей Михайлович": 3,
-      "Табалов Алексей Викторович": 1,
-      "Швецов Василий Георгиевич": 10,
-      "Яцун Андрей Николаевич": 0
+      "gas:candidate-vibid:4744046274347": 106,
+      "gas:candidate-vibid:4744046274206": 18,
+      "gas:candidate-vibid:4744046274911": 2,
+      "gas:candidate-vibid:4744046274468": 15,
+      "gas:candidate-vibid:4744046254789": 1,
+      "gas:candidate-vibid:4744046274389": 3,
+      "gas:candidate-vibid:4744046274258": 1,
+      "gas:candidate-vibid:4744046273997": 10,
+      "gas:candidate-vibid:4744046274535": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/chelyabinsk?action=show&root=1000252&tvd=27420001143149&vrn=100100067795849&region=74&global=&sub_region=74&prver=0&pronetvd=null&vibid=27420001143149&type=464",
@@ -12079,15 +12079,15 @@ export const duma_2016_uik_463_region_74_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бурматов Владимир Владимирович": 132,
-      "Горбачёв Владимир Иванович": 15,
-      "Навроцкая Елена Александровна": 3,
-      "Нациевский Константин Олегович": 26,
-      "Пашин Виталий Львович": 5,
-      "Севастьянов Алексей Михайлович": 5,
-      "Табалов Алексей Викторович": 4,
-      "Швецов Василий Георгиевич": 9,
-      "Яцун Андрей Николаевич": 1
+      "gas:candidate-vibid:4744046274347": 132,
+      "gas:candidate-vibid:4744046274206": 15,
+      "gas:candidate-vibid:4744046274911": 3,
+      "gas:candidate-vibid:4744046274468": 26,
+      "gas:candidate-vibid:4744046254789": 5,
+      "gas:candidate-vibid:4744046274389": 5,
+      "gas:candidate-vibid:4744046274258": 4,
+      "gas:candidate-vibid:4744046273997": 9,
+      "gas:candidate-vibid:4744046274535": 1
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/chelyabinsk?action=show&root=1000252&tvd=27420001143149&vrn=100100067795849&region=74&global=&sub_region=74&prver=0&pronetvd=null&vibid=27420001143149&type=464",
@@ -12138,15 +12138,15 @@ export const duma_2016_uik_463_region_74_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бурматов Владимир Владимирович": 133,
-      "Горбачёв Владимир Иванович": 13,
-      "Навроцкая Елена Александровна": 4,
-      "Нациевский Константин Олегович": 17,
-      "Пашин Виталий Львович": 10,
-      "Севастьянов Алексей Михайлович": 4,
-      "Табалов Алексей Викторович": 1,
-      "Швецов Василий Георгиевич": 15,
-      "Яцун Андрей Николаевич": 2
+      "gas:candidate-vibid:4744046274347": 133,
+      "gas:candidate-vibid:4744046274206": 13,
+      "gas:candidate-vibid:4744046274911": 4,
+      "gas:candidate-vibid:4744046274468": 17,
+      "gas:candidate-vibid:4744046254789": 10,
+      "gas:candidate-vibid:4744046274389": 4,
+      "gas:candidate-vibid:4744046274258": 1,
+      "gas:candidate-vibid:4744046273997": 15,
+      "gas:candidate-vibid:4744046274535": 2
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/chelyabinsk?action=show&root=1000252&tvd=27420001143149&vrn=100100067795849&region=74&global=&sub_region=74&prver=0&pronetvd=null&vibid=27420001143149&type=464",
@@ -12197,15 +12197,15 @@ export const duma_2016_uik_463_region_74_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бурматов Владимир Владимирович": 170,
-      "Горбачёв Владимир Иванович": 11,
-      "Навроцкая Елена Александровна": 3,
-      "Нациевский Константин Олегович": 32,
-      "Пашин Виталий Львович": 6,
-      "Севастьянов Алексей Михайлович": 8,
-      "Табалов Алексей Викторович": 0,
-      "Швецов Василий Георгиевич": 29,
-      "Яцун Андрей Николаевич": 4
+      "gas:candidate-vibid:4744046274347": 170,
+      "gas:candidate-vibid:4744046274206": 11,
+      "gas:candidate-vibid:4744046274911": 3,
+      "gas:candidate-vibid:4744046274468": 32,
+      "gas:candidate-vibid:4744046254789": 6,
+      "gas:candidate-vibid:4744046274389": 8,
+      "gas:candidate-vibid:4744046274258": 0,
+      "gas:candidate-vibid:4744046273997": 29,
+      "gas:candidate-vibid:4744046274535": 4
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/chelyabinsk?action=show&root=1000252&tvd=27420001143149&vrn=100100067795849&region=74&global=&sub_region=74&prver=0&pronetvd=null&vibid=27420001143149&type=464",
@@ -12256,15 +12256,15 @@ export const duma_2016_uik_463_region_74_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бурматов Владимир Владимирович": 170,
-      "Горбачёв Владимир Иванович": 17,
-      "Навроцкая Елена Александровна": 4,
-      "Нациевский Константин Олегович": 31,
-      "Пашин Виталий Львович": 11,
-      "Севастьянов Алексей Михайлович": 27,
-      "Табалов Алексей Викторович": 5,
-      "Швецов Василий Георгиевич": 39,
-      "Яцун Андрей Николаевич": 3
+      "gas:candidate-vibid:4744046274347": 170,
+      "gas:candidate-vibid:4744046274206": 17,
+      "gas:candidate-vibid:4744046274911": 4,
+      "gas:candidate-vibid:4744046274468": 31,
+      "gas:candidate-vibid:4744046254789": 11,
+      "gas:candidate-vibid:4744046274389": 27,
+      "gas:candidate-vibid:4744046274258": 5,
+      "gas:candidate-vibid:4744046273997": 39,
+      "gas:candidate-vibid:4744046274535": 3
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/chelyabinsk?action=show&root=1000252&tvd=27420001143149&vrn=100100067795849&region=74&global=&sub_region=74&prver=0&pronetvd=null&vibid=27420001143149&type=464",
@@ -12315,15 +12315,15 @@ export const duma_2016_uik_463_region_74_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бурматов Владимир Владимирович": 47,
-      "Горбачёв Владимир Иванович": 5,
-      "Навроцкая Елена Александровна": 2,
-      "Нациевский Константин Олегович": 1,
-      "Пашин Виталий Львович": 2,
-      "Севастьянов Алексей Михайлович": 0,
-      "Табалов Алексей Викторович": 0,
-      "Швецов Василий Георгиевич": 8,
-      "Яцун Андрей Николаевич": 1
+      "gas:candidate-vibid:4744046274347": 47,
+      "gas:candidate-vibid:4744046274206": 5,
+      "gas:candidate-vibid:4744046274911": 2,
+      "gas:candidate-vibid:4744046274468": 1,
+      "gas:candidate-vibid:4744046254789": 2,
+      "gas:candidate-vibid:4744046274389": 0,
+      "gas:candidate-vibid:4744046274258": 0,
+      "gas:candidate-vibid:4744046273997": 8,
+      "gas:candidate-vibid:4744046274535": 1
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/chelyabinsk?action=show&root=1000252&tvd=27420001143149&vrn=100100067795849&region=74&global=&sub_region=74&prver=0&pronetvd=null&vibid=27420001143149&type=464",
@@ -12374,15 +12374,15 @@ export const duma_2016_uik_463_region_74_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бурматов Владимир Владимирович": 46,
-      "Горбачёв Владимир Иванович": 6,
-      "Навроцкая Елена Александровна": 3,
-      "Нациевский Константин Олегович": 5,
-      "Пашин Виталий Львович": 7,
-      "Севастьянов Алексей Михайлович": 3,
-      "Табалов Алексей Викторович": 0,
-      "Швецов Василий Георгиевич": 13,
-      "Яцун Андрей Николаевич": 2
+      "gas:candidate-vibid:4744046274347": 46,
+      "gas:candidate-vibid:4744046274206": 6,
+      "gas:candidate-vibid:4744046274911": 3,
+      "gas:candidate-vibid:4744046274468": 5,
+      "gas:candidate-vibid:4744046254789": 7,
+      "gas:candidate-vibid:4744046274389": 3,
+      "gas:candidate-vibid:4744046274258": 0,
+      "gas:candidate-vibid:4744046273997": 13,
+      "gas:candidate-vibid:4744046274535": 2
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/chelyabinsk?action=show&root=1000252&tvd=27420001143149&vrn=100100067795849&region=74&global=&sub_region=74&prver=0&pronetvd=null&vibid=27420001143149&type=464",
@@ -12433,15 +12433,15 @@ export const duma_2016_uik_463_region_74_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бурматов Владимир Владимирович": 46,
-      "Горбачёв Владимир Иванович": 1,
-      "Навроцкая Елена Александровна": 3,
-      "Нациевский Константин Олегович": 6,
-      "Пашин Виталий Львович": 2,
-      "Севастьянов Алексей Михайлович": 1,
-      "Табалов Алексей Викторович": 0,
-      "Швецов Василий Георгиевич": 3,
-      "Яцун Андрей Николаевич": 0
+      "gas:candidate-vibid:4744046274347": 46,
+      "gas:candidate-vibid:4744046274206": 1,
+      "gas:candidate-vibid:4744046274911": 3,
+      "gas:candidate-vibid:4744046274468": 6,
+      "gas:candidate-vibid:4744046254789": 2,
+      "gas:candidate-vibid:4744046274389": 1,
+      "gas:candidate-vibid:4744046274258": 0,
+      "gas:candidate-vibid:4744046273997": 3,
+      "gas:candidate-vibid:4744046274535": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/chelyabinsk?action=show&root=1000252&tvd=27420001143149&vrn=100100067795849&region=74&global=&sub_region=74&prver=0&pronetvd=null&vibid=27420001143149&type=464",
@@ -12492,15 +12492,15 @@ export const duma_2016_uik_463_region_74_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бурматов Владимир Владимирович": 68,
-      "Горбачёв Владимир Иванович": 6,
-      "Навроцкая Елена Александровна": 3,
-      "Нациевский Константин Олегович": 18,
-      "Пашин Виталий Львович": 5,
-      "Севастьянов Алексей Михайлович": 5,
-      "Табалов Алексей Викторович": 0,
-      "Швецов Василий Георгиевич": 3,
-      "Яцун Андрей Николаевич": 1
+      "gas:candidate-vibid:4744046274347": 68,
+      "gas:candidate-vibid:4744046274206": 6,
+      "gas:candidate-vibid:4744046274911": 3,
+      "gas:candidate-vibid:4744046274468": 18,
+      "gas:candidate-vibid:4744046254789": 5,
+      "gas:candidate-vibid:4744046274389": 5,
+      "gas:candidate-vibid:4744046274258": 0,
+      "gas:candidate-vibid:4744046273997": 3,
+      "gas:candidate-vibid:4744046274535": 1
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/chelyabinsk?action=show&root=1000252&tvd=27420001143149&vrn=100100067795849&region=74&global=&sub_region=74&prver=0&pronetvd=null&vibid=27420001143149&type=464",
@@ -12551,15 +12551,15 @@ export const duma_2016_uik_463_region_74_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бурматов Владимир Владимирович": 65,
-      "Горбачёв Владимир Иванович": 5,
-      "Навроцкая Елена Александровна": 0,
-      "Нациевский Константин Олегович": 17,
-      "Пашин Виталий Львович": 12,
-      "Севастьянов Алексей Михайлович": 3,
-      "Табалов Алексей Викторович": 0,
-      "Швецов Василий Георгиевич": 16,
-      "Яцун Андрей Николаевич": 0
+      "gas:candidate-vibid:4744046274347": 65,
+      "gas:candidate-vibid:4744046274206": 5,
+      "gas:candidate-vibid:4744046274911": 0,
+      "gas:candidate-vibid:4744046274468": 17,
+      "gas:candidate-vibid:4744046254789": 12,
+      "gas:candidate-vibid:4744046274389": 3,
+      "gas:candidate-vibid:4744046274258": 0,
+      "gas:candidate-vibid:4744046273997": 16,
+      "gas:candidate-vibid:4744046274535": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/chelyabinsk?action=show&root=1000252&tvd=27420001143149&vrn=100100067795849&region=74&global=&sub_region=74&prver=0&pronetvd=null&vibid=27420001143149&type=464",
@@ -12610,15 +12610,15 @@ export const duma_2016_uik_463_region_74_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бурматов Владимир Владимирович": 49,
-      "Горбачёв Владимир Иванович": 6,
-      "Навроцкая Елена Александровна": 0,
-      "Нациевский Константин Олегович": 12,
-      "Пашин Виталий Львович": 3,
-      "Севастьянов Алексей Михайлович": 1,
-      "Табалов Алексей Викторович": 1,
-      "Швецов Василий Георгиевич": 8,
-      "Яцун Андрей Николаевич": 2
+      "gas:candidate-vibid:4744046274347": 49,
+      "gas:candidate-vibid:4744046274206": 6,
+      "gas:candidate-vibid:4744046274911": 0,
+      "gas:candidate-vibid:4744046274468": 12,
+      "gas:candidate-vibid:4744046254789": 3,
+      "gas:candidate-vibid:4744046274389": 1,
+      "gas:candidate-vibid:4744046274258": 1,
+      "gas:candidate-vibid:4744046273997": 8,
+      "gas:candidate-vibid:4744046274535": 2
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/chelyabinsk?action=show&root=1000252&tvd=27420001143149&vrn=100100067795849&region=74&global=&sub_region=74&prver=0&pronetvd=null&vibid=27420001143149&type=464",
@@ -12669,15 +12669,15 @@ export const duma_2016_uik_463_region_74_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бурматов Владимир Владимирович": 254,
-      "Горбачёв Владимир Иванович": 21,
-      "Навроцкая Елена Александровна": 3,
-      "Нациевский Константин Олегович": 68,
-      "Пашин Виталий Львович": 15,
-      "Севастьянов Алексей Михайлович": 40,
-      "Табалов Алексей Викторович": 3,
-      "Швецов Василий Георгиевич": 37,
-      "Яцун Андрей Николаевич": 9
+      "gas:candidate-vibid:4744046274347": 254,
+      "gas:candidate-vibid:4744046274206": 21,
+      "gas:candidate-vibid:4744046274911": 3,
+      "gas:candidate-vibid:4744046274468": 68,
+      "gas:candidate-vibid:4744046254789": 15,
+      "gas:candidate-vibid:4744046274389": 40,
+      "gas:candidate-vibid:4744046274258": 3,
+      "gas:candidate-vibid:4744046273997": 37,
+      "gas:candidate-vibid:4744046274535": 9
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/chelyabinsk?action=show&root=1000252&tvd=27420001143149&vrn=100100067795849&region=74&global=&sub_region=74&prver=0&pronetvd=null&vibid=27420001143149&type=464",
@@ -12728,15 +12728,15 @@ export const duma_2016_uik_463_region_74_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бурматов Владимир Владимирович": 66,
-      "Горбачёв Владимир Иванович": 3,
-      "Навроцкая Елена Александровна": 1,
-      "Нациевский Константин Олегович": 4,
-      "Пашин Виталий Львович": 10,
-      "Севастьянов Алексей Михайлович": 8,
-      "Табалов Алексей Викторович": 0,
-      "Швецов Василий Георгиевич": 12,
-      "Яцун Андрей Николаевич": 2
+      "gas:candidate-vibid:4744046274347": 66,
+      "gas:candidate-vibid:4744046274206": 3,
+      "gas:candidate-vibid:4744046274911": 1,
+      "gas:candidate-vibid:4744046274468": 4,
+      "gas:candidate-vibid:4744046254789": 10,
+      "gas:candidate-vibid:4744046274389": 8,
+      "gas:candidate-vibid:4744046274258": 0,
+      "gas:candidate-vibid:4744046273997": 12,
+      "gas:candidate-vibid:4744046274535": 2
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/chelyabinsk?action=show&root=1000252&tvd=27420001143149&vrn=100100067795849&region=74&global=&sub_region=74&prver=0&pronetvd=null&vibid=27420001143149&type=464",
@@ -12787,15 +12787,15 @@ export const duma_2016_uik_463_region_74_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бурматов Владимир Владимирович": 55,
-      "Горбачёв Владимир Иванович": 3,
-      "Навроцкая Елена Александровна": 1,
-      "Нациевский Константин Олегович": 6,
-      "Пашин Виталий Львович": 4,
-      "Севастьянов Алексей Михайлович": 1,
-      "Табалов Алексей Викторович": 0,
-      "Швецов Василий Георгиевич": 10,
-      "Яцун Андрей Николаевич": 0
+      "gas:candidate-vibid:4744046274347": 55,
+      "gas:candidate-vibid:4744046274206": 3,
+      "gas:candidate-vibid:4744046274911": 1,
+      "gas:candidate-vibid:4744046274468": 6,
+      "gas:candidate-vibid:4744046254789": 4,
+      "gas:candidate-vibid:4744046274389": 1,
+      "gas:candidate-vibid:4744046274258": 0,
+      "gas:candidate-vibid:4744046273997": 10,
+      "gas:candidate-vibid:4744046274535": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/chelyabinsk?action=show&root=1000252&tvd=27420001143149&vrn=100100067795849&region=74&global=&sub_region=74&prver=0&pronetvd=null&vibid=27420001143149&type=464",
@@ -12846,15 +12846,15 @@ export const duma_2016_uik_463_region_74_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бурматов Владимир Владимирович": 132,
-      "Горбачёв Владимир Иванович": 5,
-      "Навроцкая Елена Александровна": 1,
-      "Нациевский Константин Олегович": 24,
-      "Пашин Виталий Львович": 4,
-      "Севастьянов Алексей Михайлович": 0,
-      "Табалов Алексей Викторович": 0,
-      "Швецов Василий Георгиевич": 36,
-      "Яцун Андрей Николаевич": 7
+      "gas:candidate-vibid:4744046274347": 132,
+      "gas:candidate-vibid:4744046274206": 5,
+      "gas:candidate-vibid:4744046274911": 1,
+      "gas:candidate-vibid:4744046274468": 24,
+      "gas:candidate-vibid:4744046254789": 4,
+      "gas:candidate-vibid:4744046274389": 0,
+      "gas:candidate-vibid:4744046274258": 0,
+      "gas:candidate-vibid:4744046273997": 36,
+      "gas:candidate-vibid:4744046274535": 7
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/chelyabinsk?action=show&root=1000252&tvd=27420001143149&vrn=100100067795849&region=74&global=&sub_region=74&prver=0&pronetvd=null&vibid=27420001143149&type=464",
@@ -12905,15 +12905,15 @@ export const duma_2016_uik_463_region_74_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бурматов Владимир Владимирович": 71,
-      "Горбачёв Владимир Иванович": 3,
-      "Навроцкая Елена Александровна": 0,
-      "Нациевский Константин Олегович": 11,
-      "Пашин Виталий Львович": 5,
-      "Севастьянов Алексей Михайлович": 1,
-      "Табалов Алексей Викторович": 0,
-      "Швецов Василий Георгиевич": 8,
-      "Яцун Андрей Николаевич": 0
+      "gas:candidate-vibid:4744046274347": 71,
+      "gas:candidate-vibid:4744046274206": 3,
+      "gas:candidate-vibid:4744046274911": 0,
+      "gas:candidate-vibid:4744046274468": 11,
+      "gas:candidate-vibid:4744046254789": 5,
+      "gas:candidate-vibid:4744046274389": 1,
+      "gas:candidate-vibid:4744046274258": 0,
+      "gas:candidate-vibid:4744046273997": 8,
+      "gas:candidate-vibid:4744046274535": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/chelyabinsk?action=show&root=1000252&tvd=27420001143149&vrn=100100067795849&region=74&global=&sub_region=74&prver=0&pronetvd=null&vibid=27420001143149&type=464",
@@ -12964,15 +12964,15 @@ export const duma_2016_uik_463_region_74_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бурматов Владимир Владимирович": 92,
-      "Горбачёв Владимир Иванович": 7,
-      "Навроцкая Елена Александровна": 0,
-      "Нациевский Константин Олегович": 13,
-      "Пашин Виталий Львович": 3,
-      "Севастьянов Алексей Михайлович": 7,
-      "Табалов Алексей Викторович": 0,
-      "Швецов Василий Георгиевич": 19,
-      "Яцун Андрей Николаевич": 4
+      "gas:candidate-vibid:4744046274347": 92,
+      "gas:candidate-vibid:4744046274206": 7,
+      "gas:candidate-vibid:4744046274911": 0,
+      "gas:candidate-vibid:4744046274468": 13,
+      "gas:candidate-vibid:4744046254789": 3,
+      "gas:candidate-vibid:4744046274389": 7,
+      "gas:candidate-vibid:4744046274258": 0,
+      "gas:candidate-vibid:4744046273997": 19,
+      "gas:candidate-vibid:4744046274535": 4
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/chelyabinsk?action=show&root=1000252&tvd=27420001143149&vrn=100100067795849&region=74&global=&sub_region=74&prver=0&pronetvd=null&vibid=27420001143149&type=464",
@@ -13023,15 +13023,15 @@ export const duma_2016_uik_463_region_74_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бурматов Владимир Владимирович": 106,
-      "Горбачёв Владимир Иванович": 4,
-      "Навроцкая Елена Александровна": 3,
-      "Нациевский Константин Олегович": 11,
-      "Пашин Виталий Львович": 3,
-      "Севастьянов Алексей Михайлович": 4,
-      "Табалов Алексей Викторович": 2,
-      "Швецов Василий Георгиевич": 12,
-      "Яцун Андрей Николаевич": 2
+      "gas:candidate-vibid:4744046274347": 106,
+      "gas:candidate-vibid:4744046274206": 4,
+      "gas:candidate-vibid:4744046274911": 3,
+      "gas:candidate-vibid:4744046274468": 11,
+      "gas:candidate-vibid:4744046254789": 3,
+      "gas:candidate-vibid:4744046274389": 4,
+      "gas:candidate-vibid:4744046274258": 2,
+      "gas:candidate-vibid:4744046273997": 12,
+      "gas:candidate-vibid:4744046274535": 2
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/chelyabinsk?action=show&root=1000252&tvd=27420001143149&vrn=100100067795849&region=74&global=&sub_region=74&prver=0&pronetvd=null&vibid=27420001143149&type=464",
@@ -13082,15 +13082,15 @@ export const duma_2016_uik_463_region_74_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бурматов Владимир Владимирович": 60,
-      "Горбачёв Владимир Иванович": 7,
-      "Навроцкая Елена Александровна": 1,
-      "Нациевский Константин Олегович": 15,
-      "Пашин Виталий Львович": 1,
-      "Севастьянов Алексей Михайлович": 8,
-      "Табалов Алексей Викторович": 1,
-      "Швецов Василий Георгиевич": 24,
-      "Яцун Андрей Николаевич": 0
+      "gas:candidate-vibid:4744046274347": 60,
+      "gas:candidate-vibid:4744046274206": 7,
+      "gas:candidate-vibid:4744046274911": 1,
+      "gas:candidate-vibid:4744046274468": 15,
+      "gas:candidate-vibid:4744046254789": 1,
+      "gas:candidate-vibid:4744046274389": 8,
+      "gas:candidate-vibid:4744046274258": 1,
+      "gas:candidate-vibid:4744046273997": 24,
+      "gas:candidate-vibid:4744046274535": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/chelyabinsk?action=show&root=1000252&tvd=27420001143149&vrn=100100067795849&region=74&global=&sub_region=74&prver=0&pronetvd=null&vibid=27420001143149&type=464",
@@ -13141,15 +13141,15 @@ export const duma_2016_uik_463_region_74_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бурматов Владимир Владимирович": 71,
-      "Горбачёв Владимир Иванович": 0,
-      "Навроцкая Елена Александровна": 2,
-      "Нациевский Константин Олегович": 2,
-      "Пашин Виталий Львович": 2,
-      "Севастьянов Алексей Михайлович": 4,
-      "Табалов Алексей Викторович": 0,
-      "Швецов Василий Георгиевич": 12,
-      "Яцун Андрей Николаевич": 1
+      "gas:candidate-vibid:4744046274347": 71,
+      "gas:candidate-vibid:4744046274206": 0,
+      "gas:candidate-vibid:4744046274911": 2,
+      "gas:candidate-vibid:4744046274468": 2,
+      "gas:candidate-vibid:4744046254789": 2,
+      "gas:candidate-vibid:4744046274389": 4,
+      "gas:candidate-vibid:4744046274258": 0,
+      "gas:candidate-vibid:4744046273997": 12,
+      "gas:candidate-vibid:4744046274535": 1
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/chelyabinsk?action=show&root=1000252&tvd=27420001143149&vrn=100100067795849&region=74&global=&sub_region=74&prver=0&pronetvd=null&vibid=27420001143149&type=464",
@@ -13200,15 +13200,15 @@ export const duma_2016_uik_463_region_74_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бурматов Владимир Владимирович": 154,
-      "Горбачёв Владимир Иванович": 14,
-      "Навроцкая Елена Александровна": 3,
-      "Нациевский Константин Олегович": 14,
-      "Пашин Виталий Львович": 3,
-      "Севастьянов Алексей Михайлович": 13,
-      "Табалов Алексей Викторович": 0,
-      "Швецов Василий Георгиевич": 10,
-      "Яцун Андрей Николаевич": 1
+      "gas:candidate-vibid:4744046274347": 154,
+      "gas:candidate-vibid:4744046274206": 14,
+      "gas:candidate-vibid:4744046274911": 3,
+      "gas:candidate-vibid:4744046274468": 14,
+      "gas:candidate-vibid:4744046254789": 3,
+      "gas:candidate-vibid:4744046274389": 13,
+      "gas:candidate-vibid:4744046274258": 0,
+      "gas:candidate-vibid:4744046273997": 10,
+      "gas:candidate-vibid:4744046274535": 1
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/chelyabinsk?action=show&root=1000252&tvd=27420001143149&vrn=100100067795849&region=74&global=&sub_region=74&prver=0&pronetvd=null&vibid=27420001143149&type=464",
@@ -13259,15 +13259,15 @@ export const duma_2016_uik_463_region_74_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бурматов Владимир Владимирович": 38,
-      "Горбачёв Владимир Иванович": 1,
-      "Навроцкая Елена Александровна": 2,
-      "Нациевский Константин Олегович": 3,
-      "Пашин Виталий Львович": 1,
-      "Севастьянов Алексей Михайлович": 4,
-      "Табалов Алексей Викторович": 0,
-      "Швецов Василий Георгиевич": 10,
-      "Яцун Андрей Николаевич": 0
+      "gas:candidate-vibid:4744046274347": 38,
+      "gas:candidate-vibid:4744046274206": 1,
+      "gas:candidate-vibid:4744046274911": 2,
+      "gas:candidate-vibid:4744046274468": 3,
+      "gas:candidate-vibid:4744046254789": 1,
+      "gas:candidate-vibid:4744046274389": 4,
+      "gas:candidate-vibid:4744046274258": 0,
+      "gas:candidate-vibid:4744046273997": 10,
+      "gas:candidate-vibid:4744046274535": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/chelyabinsk?action=show&root=1000252&tvd=27420001143149&vrn=100100067795849&region=74&global=&sub_region=74&prver=0&pronetvd=null&vibid=27420001143149&type=464",
@@ -13318,15 +13318,15 @@ export const duma_2016_uik_463_region_74_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бурматов Владимир Владимирович": 255,
-      "Горбачёв Владимир Иванович": 16,
-      "Навроцкая Елена Александровна": 8,
-      "Нациевский Константин Олегович": 25,
-      "Пашин Виталий Львович": 20,
-      "Севастьянов Алексей Михайлович": 29,
-      "Табалов Алексей Викторович": 1,
-      "Швецов Василий Георгиевич": 15,
-      "Яцун Андрей Николаевич": 4
+      "gas:candidate-vibid:4744046274347": 255,
+      "gas:candidate-vibid:4744046274206": 16,
+      "gas:candidate-vibid:4744046274911": 8,
+      "gas:candidate-vibid:4744046274468": 25,
+      "gas:candidate-vibid:4744046254789": 20,
+      "gas:candidate-vibid:4744046274389": 29,
+      "gas:candidate-vibid:4744046274258": 1,
+      "gas:candidate-vibid:4744046273997": 15,
+      "gas:candidate-vibid:4744046274535": 4
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/chelyabinsk?action=show&root=1000252&tvd=27420001143150&vrn=100100067795849&region=74&global=&sub_region=74&prver=0&pronetvd=null&vibid=27420001143150&type=464",
@@ -13377,15 +13377,15 @@ export const duma_2016_uik_463_region_74_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бурматов Владимир Владимирович": 190,
-      "Горбачёв Владимир Иванович": 4,
-      "Навроцкая Елена Александровна": 0,
-      "Нациевский Константин Олегович": 5,
-      "Пашин Виталий Львович": 8,
-      "Севастьянов Алексей Михайлович": 1,
-      "Табалов Алексей Викторович": 0,
-      "Швецов Василий Георгиевич": 23,
-      "Яцун Андрей Николаевич": 0
+      "gas:candidate-vibid:4744046274347": 190,
+      "gas:candidate-vibid:4744046274206": 4,
+      "gas:candidate-vibid:4744046274911": 0,
+      "gas:candidate-vibid:4744046274468": 5,
+      "gas:candidate-vibid:4744046254789": 8,
+      "gas:candidate-vibid:4744046274389": 1,
+      "gas:candidate-vibid:4744046274258": 0,
+      "gas:candidate-vibid:4744046273997": 23,
+      "gas:candidate-vibid:4744046274535": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/chelyabinsk?action=show&root=1000252&tvd=27420001143150&vrn=100100067795849&region=74&global=&sub_region=74&prver=0&pronetvd=null&vibid=27420001143150&type=464",
@@ -13436,15 +13436,15 @@ export const duma_2016_uik_463_region_74_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бурматов Владимир Владимирович": 44,
-      "Горбачёв Владимир Иванович": 3,
-      "Навроцкая Елена Александровна": 0,
-      "Нациевский Константин Олегович": 4,
-      "Пашин Виталий Львович": 0,
-      "Севастьянов Алексей Михайлович": 0,
-      "Табалов Алексей Викторович": 1,
-      "Швецов Василий Георгиевич": 1,
-      "Яцун Андрей Николаевич": 0
+      "gas:candidate-vibid:4744046274347": 44,
+      "gas:candidate-vibid:4744046274206": 3,
+      "gas:candidate-vibid:4744046274911": 0,
+      "gas:candidate-vibid:4744046274468": 4,
+      "gas:candidate-vibid:4744046254789": 0,
+      "gas:candidate-vibid:4744046274389": 0,
+      "gas:candidate-vibid:4744046274258": 1,
+      "gas:candidate-vibid:4744046273997": 1,
+      "gas:candidate-vibid:4744046274535": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/chelyabinsk?action=show&root=1000252&tvd=27420001143150&vrn=100100067795849&region=74&global=&sub_region=74&prver=0&pronetvd=null&vibid=27420001143150&type=464",
@@ -13495,15 +13495,15 @@ export const duma_2016_uik_463_region_74_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бурматов Владимир Владимирович": 170,
-      "Горбачёв Владимир Иванович": 13,
-      "Навроцкая Елена Александровна": 8,
-      "Нациевский Константин Олегович": 25,
-      "Пашин Виталий Львович": 19,
-      "Севастьянов Алексей Михайлович": 26,
-      "Табалов Алексей Викторович": 2,
-      "Швецов Василий Георгиевич": 137,
-      "Яцун Андрей Николаевич": 3
+      "gas:candidate-vibid:4744046274347": 170,
+      "gas:candidate-vibid:4744046274206": 13,
+      "gas:candidate-vibid:4744046274911": 8,
+      "gas:candidate-vibid:4744046274468": 25,
+      "gas:candidate-vibid:4744046254789": 19,
+      "gas:candidate-vibid:4744046274389": 26,
+      "gas:candidate-vibid:4744046274258": 2,
+      "gas:candidate-vibid:4744046273997": 137,
+      "gas:candidate-vibid:4744046274535": 3
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/chelyabinsk?action=show&root=1000252&tvd=27420001143150&vrn=100100067795849&region=74&global=&sub_region=74&prver=0&pronetvd=null&vibid=27420001143150&type=464",
@@ -13554,15 +13554,15 @@ export const duma_2016_uik_463_region_74_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бурматов Владимир Владимирович": 55,
-      "Горбачёв Владимир Иванович": 5,
-      "Навроцкая Елена Александровна": 3,
-      "Нациевский Константин Олегович": 9,
-      "Пашин Виталий Львович": 17,
-      "Севастьянов Алексей Михайлович": 4,
-      "Табалов Алексей Викторович": 2,
-      "Швецов Василий Георгиевич": 13,
-      "Яцун Андрей Николаевич": 1
+      "gas:candidate-vibid:4744046274347": 55,
+      "gas:candidate-vibid:4744046274206": 5,
+      "gas:candidate-vibid:4744046274911": 3,
+      "gas:candidate-vibid:4744046274468": 9,
+      "gas:candidate-vibid:4744046254789": 17,
+      "gas:candidate-vibid:4744046274389": 4,
+      "gas:candidate-vibid:4744046274258": 2,
+      "gas:candidate-vibid:4744046273997": 13,
+      "gas:candidate-vibid:4744046274535": 1
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/chelyabinsk?action=show&root=1000252&tvd=27420001143150&vrn=100100067795849&region=74&global=&sub_region=74&prver=0&pronetvd=null&vibid=27420001143150&type=464",
@@ -13613,15 +13613,15 @@ export const duma_2016_uik_463_region_74_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бурматов Владимир Владимирович": 31,
-      "Горбачёв Владимир Иванович": 4,
-      "Навроцкая Елена Александровна": 2,
-      "Нациевский Константин Олегович": 2,
-      "Пашин Виталий Львович": 5,
-      "Севастьянов Алексей Михайлович": 3,
-      "Табалов Алексей Викторович": 0,
-      "Швецов Василий Георгиевич": 11,
-      "Яцун Андрей Николаевич": 0
+      "gas:candidate-vibid:4744046274347": 31,
+      "gas:candidate-vibid:4744046274206": 4,
+      "gas:candidate-vibid:4744046274911": 2,
+      "gas:candidate-vibid:4744046274468": 2,
+      "gas:candidate-vibid:4744046254789": 5,
+      "gas:candidate-vibid:4744046274389": 3,
+      "gas:candidate-vibid:4744046274258": 0,
+      "gas:candidate-vibid:4744046273997": 11,
+      "gas:candidate-vibid:4744046274535": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/chelyabinsk?action=show&root=1000252&tvd=27420001143150&vrn=100100067795849&region=74&global=&sub_region=74&prver=0&pronetvd=null&vibid=27420001143150&type=464",
@@ -13672,15 +13672,15 @@ export const duma_2016_uik_463_region_74_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бурматов Владимир Владимирович": 39,
-      "Горбачёв Владимир Иванович": 4,
-      "Навроцкая Елена Александровна": 7,
-      "Нациевский Константин Олегович": 3,
-      "Пашин Виталий Львович": 9,
-      "Севастьянов Алексей Михайлович": 7,
-      "Табалов Алексей Викторович": 0,
-      "Швецов Василий Георгиевич": 17,
-      "Яцун Андрей Николаевич": 0
+      "gas:candidate-vibid:4744046274347": 39,
+      "gas:candidate-vibid:4744046274206": 4,
+      "gas:candidate-vibid:4744046274911": 7,
+      "gas:candidate-vibid:4744046274468": 3,
+      "gas:candidate-vibid:4744046254789": 9,
+      "gas:candidate-vibid:4744046274389": 7,
+      "gas:candidate-vibid:4744046274258": 0,
+      "gas:candidate-vibid:4744046273997": 17,
+      "gas:candidate-vibid:4744046274535": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/chelyabinsk?action=show&root=1000252&tvd=27420001143150&vrn=100100067795849&region=74&global=&sub_region=74&prver=0&pronetvd=null&vibid=27420001143150&type=464",
@@ -13731,15 +13731,15 @@ export const duma_2016_uik_463_region_74_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бурматов Владимир Владимирович": 90,
-      "Горбачёв Владимир Иванович": 3,
-      "Навроцкая Елена Александровна": 7,
-      "Нациевский Константин Олегович": 11,
-      "Пашин Виталий Львович": 13,
-      "Севастьянов Алексей Михайлович": 3,
-      "Табалов Алексей Викторович": 0,
-      "Швецов Василий Георгиевич": 19,
-      "Яцун Андрей Николаевич": 1
+      "gas:candidate-vibid:4744046274347": 90,
+      "gas:candidate-vibid:4744046274206": 3,
+      "gas:candidate-vibid:4744046274911": 7,
+      "gas:candidate-vibid:4744046274468": 11,
+      "gas:candidate-vibid:4744046254789": 13,
+      "gas:candidate-vibid:4744046274389": 3,
+      "gas:candidate-vibid:4744046274258": 0,
+      "gas:candidate-vibid:4744046273997": 19,
+      "gas:candidate-vibid:4744046274535": 1
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/chelyabinsk?action=show&root=1000252&tvd=27420001143150&vrn=100100067795849&region=74&global=&sub_region=74&prver=0&pronetvd=null&vibid=27420001143150&type=464",
@@ -13790,15 +13790,15 @@ export const duma_2016_uik_463_region_74_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бурматов Владимир Владимирович": 96,
-      "Горбачёв Владимир Иванович": 5,
-      "Навроцкая Елена Александровна": 2,
-      "Нациевский Константин Олегович": 10,
-      "Пашин Виталий Львович": 22,
-      "Севастьянов Алексей Михайлович": 7,
-      "Табалов Алексей Викторович": 4,
-      "Швецов Василий Георгиевич": 28,
-      "Яцун Андрей Николаевич": 4
+      "gas:candidate-vibid:4744046274347": 96,
+      "gas:candidate-vibid:4744046274206": 5,
+      "gas:candidate-vibid:4744046274911": 2,
+      "gas:candidate-vibid:4744046274468": 10,
+      "gas:candidate-vibid:4744046254789": 22,
+      "gas:candidate-vibid:4744046274389": 7,
+      "gas:candidate-vibid:4744046274258": 4,
+      "gas:candidate-vibid:4744046273997": 28,
+      "gas:candidate-vibid:4744046274535": 4
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/chelyabinsk?action=show&root=1000252&tvd=27420001143150&vrn=100100067795849&region=74&global=&sub_region=74&prver=0&pronetvd=null&vibid=27420001143150&type=464",
@@ -13849,15 +13849,15 @@ export const duma_2016_uik_463_region_74_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бурматов Владимир Владимирович": 67,
-      "Горбачёв Владимир Иванович": 2,
-      "Навроцкая Елена Александровна": 2,
-      "Нациевский Константин Олегович": 3,
-      "Пашин Виталий Львович": 5,
-      "Севастьянов Алексей Михайлович": 2,
-      "Табалов Алексей Викторович": 0,
-      "Швецов Василий Георгиевич": 12,
-      "Яцун Андрей Николаевич": 2
+      "gas:candidate-vibid:4744046274347": 67,
+      "gas:candidate-vibid:4744046274206": 2,
+      "gas:candidate-vibid:4744046274911": 2,
+      "gas:candidate-vibid:4744046274468": 3,
+      "gas:candidate-vibid:4744046254789": 5,
+      "gas:candidate-vibid:4744046274389": 2,
+      "gas:candidate-vibid:4744046274258": 0,
+      "gas:candidate-vibid:4744046273997": 12,
+      "gas:candidate-vibid:4744046274535": 2
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/chelyabinsk?action=show&root=1000252&tvd=27420001143150&vrn=100100067795849&region=74&global=&sub_region=74&prver=0&pronetvd=null&vibid=27420001143150&type=464",
@@ -13908,15 +13908,15 @@ export const duma_2016_uik_463_region_74_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бурматов Владимир Владимирович": 104,
-      "Горбачёв Владимир Иванович": 7,
-      "Навроцкая Елена Александровна": 3,
-      "Нациевский Константин Олегович": 6,
-      "Пашин Виталий Львович": 24,
-      "Севастьянов Алексей Михайлович": 2,
-      "Табалов Алексей Викторович": 1,
-      "Швецов Василий Георгиевич": 16,
-      "Яцун Андрей Николаевич": 1
+      "gas:candidate-vibid:4744046274347": 104,
+      "gas:candidate-vibid:4744046274206": 7,
+      "gas:candidate-vibid:4744046274911": 3,
+      "gas:candidate-vibid:4744046274468": 6,
+      "gas:candidate-vibid:4744046254789": 24,
+      "gas:candidate-vibid:4744046274389": 2,
+      "gas:candidate-vibid:4744046274258": 1,
+      "gas:candidate-vibid:4744046273997": 16,
+      "gas:candidate-vibid:4744046274535": 1
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/chelyabinsk?action=show&root=1000252&tvd=27420001143150&vrn=100100067795849&region=74&global=&sub_region=74&prver=0&pronetvd=null&vibid=27420001143150&type=464",
@@ -13967,15 +13967,15 @@ export const duma_2016_uik_463_region_74_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бурматов Владимир Владимирович": 245,
-      "Горбачёв Владимир Иванович": 20,
-      "Навроцкая Елена Александровна": 16,
-      "Нациевский Константин Олегович": 53,
-      "Пашин Виталий Львович": 64,
-      "Севастьянов Алексей Михайлович": 98,
-      "Табалов Алексей Викторович": 6,
-      "Швецов Василий Георгиевич": 74,
-      "Яцун Андрей Николаевич": 7
+      "gas:candidate-vibid:4744046274347": 245,
+      "gas:candidate-vibid:4744046274206": 20,
+      "gas:candidate-vibid:4744046274911": 16,
+      "gas:candidate-vibid:4744046274468": 53,
+      "gas:candidate-vibid:4744046254789": 64,
+      "gas:candidate-vibid:4744046274389": 98,
+      "gas:candidate-vibid:4744046274258": 6,
+      "gas:candidate-vibid:4744046273997": 74,
+      "gas:candidate-vibid:4744046274535": 7
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/chelyabinsk?action=show&root=1000252&tvd=27420001143150&vrn=100100067795849&region=74&global=&sub_region=74&prver=0&pronetvd=null&vibid=27420001143150&type=464",
@@ -14026,15 +14026,15 @@ export const duma_2016_uik_463_region_74_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бурматов Владимир Владимирович": 147,
-      "Горбачёв Владимир Иванович": 14,
-      "Навроцкая Елена Александровна": 15,
-      "Нациевский Константин Олегович": 38,
-      "Пашин Виталий Львович": 32,
-      "Севастьянов Алексей Михайлович": 58,
-      "Табалов Алексей Викторович": 3,
-      "Швецов Василий Георгиевич": 38,
-      "Яцун Андрей Николаевич": 11
+      "gas:candidate-vibid:4744046274347": 147,
+      "gas:candidate-vibid:4744046274206": 14,
+      "gas:candidate-vibid:4744046274911": 15,
+      "gas:candidate-vibid:4744046274468": 38,
+      "gas:candidate-vibid:4744046254789": 32,
+      "gas:candidate-vibid:4744046274389": 58,
+      "gas:candidate-vibid:4744046274258": 3,
+      "gas:candidate-vibid:4744046273997": 38,
+      "gas:candidate-vibid:4744046274535": 11
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/chelyabinsk?action=show&root=1000252&tvd=27420001143150&vrn=100100067795849&region=74&global=&sub_region=74&prver=0&pronetvd=null&vibid=27420001143150&type=464",
@@ -14085,15 +14085,15 @@ export const duma_2016_uik_463_region_74_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бурматов Владимир Владимирович": 63,
-      "Горбачёв Владимир Иванович": 4,
-      "Навроцкая Елена Александровна": 1,
-      "Нациевский Константин Олегович": 10,
-      "Пашин Виталий Львович": 5,
-      "Севастьянов Алексей Михайлович": 20,
-      "Табалов Алексей Викторович": 0,
-      "Швецов Василий Георгиевич": 27,
-      "Яцун Андрей Николаевич": 2
+      "gas:candidate-vibid:4744046274347": 63,
+      "gas:candidate-vibid:4744046274206": 4,
+      "gas:candidate-vibid:4744046274911": 1,
+      "gas:candidate-vibid:4744046274468": 10,
+      "gas:candidate-vibid:4744046254789": 5,
+      "gas:candidate-vibid:4744046274389": 20,
+      "gas:candidate-vibid:4744046274258": 0,
+      "gas:candidate-vibid:4744046273997": 27,
+      "gas:candidate-vibid:4744046274535": 2
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/chelyabinsk?action=show&root=1000252&tvd=27420001143150&vrn=100100067795849&region=74&global=&sub_region=74&prver=0&pronetvd=null&vibid=27420001143150&type=464",
@@ -14144,15 +14144,15 @@ export const duma_2016_uik_463_region_74_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бурматов Владимир Владимирович": 14,
-      "Горбачёв Владимир Иванович": 0,
-      "Навроцкая Елена Александровна": 0,
-      "Нациевский Константин Олегович": 1,
-      "Пашин Виталий Львович": 2,
-      "Севастьянов Алексей Михайлович": 2,
-      "Табалов Алексей Викторович": 0,
-      "Швецов Василий Георгиевич": 3,
-      "Яцун Андрей Николаевич": 0
+      "gas:candidate-vibid:4744046274347": 14,
+      "gas:candidate-vibid:4744046274206": 0,
+      "gas:candidate-vibid:4744046274911": 0,
+      "gas:candidate-vibid:4744046274468": 1,
+      "gas:candidate-vibid:4744046254789": 2,
+      "gas:candidate-vibid:4744046274389": 2,
+      "gas:candidate-vibid:4744046274258": 0,
+      "gas:candidate-vibid:4744046273997": 3,
+      "gas:candidate-vibid:4744046274535": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/chelyabinsk?action=show&root=1000252&tvd=27420001143150&vrn=100100067795849&region=74&global=&sub_region=74&prver=0&pronetvd=null&vibid=27420001143150&type=464",
@@ -14203,15 +14203,15 @@ export const duma_2016_uik_463_region_74_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бурматов Владимир Владимирович": 42,
-      "Горбачёв Владимир Иванович": 1,
-      "Навроцкая Елена Александровна": 1,
-      "Нациевский Константин Олегович": 2,
-      "Пашин Виталий Львович": 4,
-      "Севастьянов Алексей Михайлович": 3,
-      "Табалов Алексей Викторович": 3,
-      "Швецов Василий Георгиевич": 8,
-      "Яцун Андрей Николаевич": 0
+      "gas:candidate-vibid:4744046274347": 42,
+      "gas:candidate-vibid:4744046274206": 1,
+      "gas:candidate-vibid:4744046274911": 1,
+      "gas:candidate-vibid:4744046274468": 2,
+      "gas:candidate-vibid:4744046254789": 4,
+      "gas:candidate-vibid:4744046274389": 3,
+      "gas:candidate-vibid:4744046274258": 3,
+      "gas:candidate-vibid:4744046273997": 8,
+      "gas:candidate-vibid:4744046274535": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/chelyabinsk?action=show&root=1000252&tvd=27420001143150&vrn=100100067795849&region=74&global=&sub_region=74&prver=0&pronetvd=null&vibid=27420001143150&type=464",
@@ -14262,15 +14262,15 @@ export const duma_2016_uik_463_region_74_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бурматов Владимир Владимирович": 51,
-      "Горбачёв Владимир Иванович": 1,
-      "Навроцкая Елена Александровна": 3,
-      "Нациевский Константин Олегович": 2,
-      "Пашин Виталий Львович": 16,
-      "Севастьянов Алексей Михайлович": 15,
-      "Табалов Алексей Викторович": 1,
-      "Швецов Василий Георгиевич": 4,
-      "Яцун Андрей Николаевич": 2
+      "gas:candidate-vibid:4744046274347": 51,
+      "gas:candidate-vibid:4744046274206": 1,
+      "gas:candidate-vibid:4744046274911": 3,
+      "gas:candidate-vibid:4744046274468": 2,
+      "gas:candidate-vibid:4744046254789": 16,
+      "gas:candidate-vibid:4744046274389": 15,
+      "gas:candidate-vibid:4744046274258": 1,
+      "gas:candidate-vibid:4744046273997": 4,
+      "gas:candidate-vibid:4744046274535": 2
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/chelyabinsk?action=show&root=1000252&tvd=27420001143150&vrn=100100067795849&region=74&global=&sub_region=74&prver=0&pronetvd=null&vibid=27420001143150&type=464",
@@ -14321,15 +14321,15 @@ export const duma_2016_uik_463_region_74_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бурматов Владимир Владимирович": 286,
-      "Горбачёв Владимир Иванович": 20,
-      "Навроцкая Елена Александровна": 20,
-      "Нациевский Константин Олегович": 45,
-      "Пашин Виталий Львович": 42,
-      "Севастьянов Алексей Михайлович": 33,
-      "Табалов Алексей Викторович": 6,
-      "Швецов Василий Георгиевич": 95,
-      "Яцун Андрей Николаевич": 5
+      "gas:candidate-vibid:4744046274347": 286,
+      "gas:candidate-vibid:4744046274206": 20,
+      "gas:candidate-vibid:4744046274911": 20,
+      "gas:candidate-vibid:4744046274468": 45,
+      "gas:candidate-vibid:4744046254789": 42,
+      "gas:candidate-vibid:4744046274389": 33,
+      "gas:candidate-vibid:4744046274258": 6,
+      "gas:candidate-vibid:4744046273997": 95,
+      "gas:candidate-vibid:4744046274535": 5
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/chelyabinsk?action=show&root=1000252&tvd=27420001143150&vrn=100100067795849&region=74&global=&sub_region=74&prver=0&pronetvd=null&vibid=27420001143150&type=464",
@@ -14380,15 +14380,15 @@ export const duma_2016_uik_463_region_74_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бурматов Владимир Владимирович": 191,
-      "Горбачёв Владимир Иванович": 11,
-      "Навроцкая Елена Александровна": 3,
-      "Нациевский Константин Олегович": 23,
-      "Пашин Виталий Львович": 52,
-      "Севастьянов Алексей Михайлович": 12,
-      "Табалов Алексей Викторович": 3,
-      "Швецов Василий Георгиевич": 62,
-      "Яцун Андрей Николаевич": 5
+      "gas:candidate-vibid:4744046274347": 191,
+      "gas:candidate-vibid:4744046274206": 11,
+      "gas:candidate-vibid:4744046274911": 3,
+      "gas:candidate-vibid:4744046274468": 23,
+      "gas:candidate-vibid:4744046254789": 52,
+      "gas:candidate-vibid:4744046274389": 12,
+      "gas:candidate-vibid:4744046274258": 3,
+      "gas:candidate-vibid:4744046273997": 62,
+      "gas:candidate-vibid:4744046274535": 5
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/chelyabinsk?action=show&root=1000252&tvd=27420001143150&vrn=100100067795849&region=74&global=&sub_region=74&prver=0&pronetvd=null&vibid=27420001143150&type=464",
@@ -14439,15 +14439,15 @@ export const duma_2016_uik_463_region_74_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бурматов Владимир Владимирович": 183,
-      "Горбачёв Владимир Иванович": 7,
-      "Навроцкая Елена Александровна": 4,
-      "Нациевский Константин Олегович": 18,
-      "Пашин Виталий Львович": 30,
-      "Севастьянов Алексей Михайлович": 17,
-      "Табалов Алексей Викторович": 1,
-      "Швецов Василий Георгиевич": 66,
-      "Яцун Андрей Николаевич": 4
+      "gas:candidate-vibid:4744046274347": 183,
+      "gas:candidate-vibid:4744046274206": 7,
+      "gas:candidate-vibid:4744046274911": 4,
+      "gas:candidate-vibid:4744046274468": 18,
+      "gas:candidate-vibid:4744046254789": 30,
+      "gas:candidate-vibid:4744046274389": 17,
+      "gas:candidate-vibid:4744046274258": 1,
+      "gas:candidate-vibid:4744046273997": 66,
+      "gas:candidate-vibid:4744046274535": 4
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/chelyabinsk?action=show&root=1000252&tvd=27420001143150&vrn=100100067795849&region=74&global=&sub_region=74&prver=0&pronetvd=null&vibid=27420001143150&type=464",
@@ -14498,15 +14498,15 @@ export const duma_2016_uik_463_region_74_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бурматов Владимир Владимирович": 67,
-      "Горбачёв Владимир Иванович": 6,
-      "Навроцкая Елена Александровна": 1,
-      "Нациевский Константин Олегович": 7,
-      "Пашин Виталий Львович": 5,
-      "Севастьянов Алексей Михайлович": 3,
-      "Табалов Алексей Викторович": 0,
-      "Швецов Василий Георгиевич": 21,
-      "Яцун Андрей Николаевич": 0
+      "gas:candidate-vibid:4744046274347": 67,
+      "gas:candidate-vibid:4744046274206": 6,
+      "gas:candidate-vibid:4744046274911": 1,
+      "gas:candidate-vibid:4744046274468": 7,
+      "gas:candidate-vibid:4744046254789": 5,
+      "gas:candidate-vibid:4744046274389": 3,
+      "gas:candidate-vibid:4744046274258": 0,
+      "gas:candidate-vibid:4744046273997": 21,
+      "gas:candidate-vibid:4744046274535": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/chelyabinsk?action=show&root=1000252&tvd=27420001143150&vrn=100100067795849&region=74&global=&sub_region=74&prver=0&pronetvd=null&vibid=27420001143150&type=464",
@@ -14557,15 +14557,15 @@ export const duma_2016_uik_463_region_74_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бурматов Владимир Владимирович": 85,
-      "Горбачёв Владимир Иванович": 1,
-      "Навроцкая Елена Александровна": 3,
-      "Нациевский Константин Олегович": 1,
-      "Пашин Виталий Львович": 6,
-      "Севастьянов Алексей Михайлович": 4,
-      "Табалов Алексей Викторович": 0,
-      "Швецов Василий Георгиевич": 11,
-      "Яцун Андрей Николаевич": 2
+      "gas:candidate-vibid:4744046274347": 85,
+      "gas:candidate-vibid:4744046274206": 1,
+      "gas:candidate-vibid:4744046274911": 3,
+      "gas:candidate-vibid:4744046274468": 1,
+      "gas:candidate-vibid:4744046254789": 6,
+      "gas:candidate-vibid:4744046274389": 4,
+      "gas:candidate-vibid:4744046274258": 0,
+      "gas:candidate-vibid:4744046273997": 11,
+      "gas:candidate-vibid:4744046274535": 2
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/chelyabinsk?action=show&root=1000252&tvd=27420001143150&vrn=100100067795849&region=74&global=&sub_region=74&prver=0&pronetvd=null&vibid=27420001143150&type=464",
@@ -14616,15 +14616,15 @@ export const duma_2016_uik_463_region_74_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бурматов Владимир Владимирович": 36,
-      "Горбачёв Владимир Иванович": 2,
-      "Навроцкая Елена Александровна": 0,
-      "Нациевский Константин Олегович": 2,
-      "Пашин Виталий Львович": 5,
-      "Севастьянов Алексей Михайлович": 0,
-      "Табалов Алексей Викторович": 1,
-      "Швецов Василий Георгиевич": 7,
-      "Яцун Андрей Николаевич": 0
+      "gas:candidate-vibid:4744046274347": 36,
+      "gas:candidate-vibid:4744046274206": 2,
+      "gas:candidate-vibid:4744046274911": 0,
+      "gas:candidate-vibid:4744046274468": 2,
+      "gas:candidate-vibid:4744046254789": 5,
+      "gas:candidate-vibid:4744046274389": 0,
+      "gas:candidate-vibid:4744046274258": 1,
+      "gas:candidate-vibid:4744046273997": 7,
+      "gas:candidate-vibid:4744046274535": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/chelyabinsk?action=show&root=1000252&tvd=27420001143150&vrn=100100067795849&region=74&global=&sub_region=74&prver=0&pronetvd=null&vibid=27420001143150&type=464",
@@ -14675,15 +14675,15 @@ export const duma_2016_uik_463_region_74_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бурматов Владимир Владимирович": 102,
-      "Горбачёв Владимир Иванович": 4,
-      "Навроцкая Елена Александровна": 6,
-      "Нациевский Константин Олегович": 9,
-      "Пашин Виталий Львович": 1,
-      "Севастьянов Алексей Михайлович": 5,
-      "Табалов Алексей Викторович": 1,
-      "Швецов Василий Георгиевич": 16,
-      "Яцун Андрей Николаевич": 3
+      "gas:candidate-vibid:4744046274347": 102,
+      "gas:candidate-vibid:4744046274206": 4,
+      "gas:candidate-vibid:4744046274911": 6,
+      "gas:candidate-vibid:4744046274468": 9,
+      "gas:candidate-vibid:4744046254789": 1,
+      "gas:candidate-vibid:4744046274389": 5,
+      "gas:candidate-vibid:4744046274258": 1,
+      "gas:candidate-vibid:4744046273997": 16,
+      "gas:candidate-vibid:4744046274535": 3
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/chelyabinsk?action=show&root=1000252&tvd=27420001143150&vrn=100100067795849&region=74&global=&sub_region=74&prver=0&pronetvd=null&vibid=27420001143150&type=464",
@@ -14734,15 +14734,15 @@ export const duma_2016_uik_463_region_74_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бурматов Владимир Владимирович": 252,
-      "Горбачёв Владимир Иванович": 17,
-      "Навроцкая Елена Александровна": 14,
-      "Нациевский Константин Олегович": 33,
-      "Пашин Виталий Львович": 57,
-      "Севастьянов Алексей Михайлович": 63,
-      "Табалов Алексей Викторович": 2,
-      "Швецов Василий Георгиевич": 80,
-      "Яцун Андрей Николаевич": 15
+      "gas:candidate-vibid:4744046274347": 252,
+      "gas:candidate-vibid:4744046274206": 17,
+      "gas:candidate-vibid:4744046274911": 14,
+      "gas:candidate-vibid:4744046274468": 33,
+      "gas:candidate-vibid:4744046254789": 57,
+      "gas:candidate-vibid:4744046274389": 63,
+      "gas:candidate-vibid:4744046274258": 2,
+      "gas:candidate-vibid:4744046273997": 80,
+      "gas:candidate-vibid:4744046274535": 15
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/chelyabinsk?action=show&root=1000252&tvd=27420001143150&vrn=100100067795849&region=74&global=&sub_region=74&prver=0&pronetvd=null&vibid=27420001143150&type=464",

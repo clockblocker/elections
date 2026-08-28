@@ -42,17 +42,17 @@ export const duma_2003_uik_428_region_33_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бодров Дмитрий Алексеевич": 31,
-      "Гусев Анатолий Алексеевич": 10,
-      "Заморин Олег Константинович": 20,
-      "Котров Олег Владимирович": 80,
-      "Кузин Валерий Алексеевич": 5,
-      "Мельков Вадим Алексеевич": 11,
-      "Паутов Виктор Николаевич": 208,
-      "Трифонов Игорь Иванович": 14,
-      "Черторицкая Татьяна Владимировна": 20,
-      "Шубников Игорь Павлович": 4,
-      "Против всех": 43
+      "gas:candidate-vibid:1001000136042": 31,
+      "gas:candidate-vibid:1001000113923": 10,
+      "gas:candidate-vibid:333300270576": 20,
+      "gas:candidate-vibid:1001000225929": 80,
+      "gas:candidate-vibid:333300270566": 5,
+      "gas:candidate-vibid:1001000190335": 11,
+      "gas:candidate-vibid:333300270371": 208,
+      "gas:candidate-vibid:333300270581": 14,
+      "gas:candidate-vibid:333300270563": 20,
+      "gas:candidate-vibid:1001000202298": 4,
+      "special:against-all": 43
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=332000044&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=233200071071&region=0&sub_region=0&type=429",
@@ -102,17 +102,17 @@ export const duma_2003_uik_428_region_33_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бодров Дмитрий Алексеевич": 40,
-      "Гусев Анатолий Алексеевич": 23,
-      "Заморин Олег Константинович": 21,
-      "Котров Олег Владимирович": 109,
-      "Кузин Валерий Алексеевич": 5,
-      "Мельков Вадим Алексеевич": 11,
-      "Паутов Виктор Николаевич": 199,
-      "Трифонов Игорь Иванович": 17,
-      "Черторицкая Татьяна Владимировна": 25,
-      "Шубников Игорь Павлович": 6,
-      "Против всех": 56
+      "gas:candidate-vibid:1001000136042": 40,
+      "gas:candidate-vibid:1001000113923": 23,
+      "gas:candidate-vibid:333300270576": 21,
+      "gas:candidate-vibid:1001000225929": 109,
+      "gas:candidate-vibid:333300270566": 5,
+      "gas:candidate-vibid:1001000190335": 11,
+      "gas:candidate-vibid:333300270371": 199,
+      "gas:candidate-vibid:333300270581": 17,
+      "gas:candidate-vibid:333300270563": 25,
+      "gas:candidate-vibid:1001000202298": 6,
+      "special:against-all": 56
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=332000044&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=233200071071&region=0&sub_region=0&type=429",
@@ -162,17 +162,17 @@ export const duma_2003_uik_428_region_33_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бодров Дмитрий Алексеевич": 29,
-      "Гусев Анатолий Алексеевич": 7,
-      "Заморин Олег Константинович": 14,
-      "Котров Олег Владимирович": 69,
-      "Кузин Валерий Алексеевич": 4,
-      "Мельков Вадим Алексеевич": 5,
-      "Паутов Виктор Николаевич": 243,
-      "Трифонов Игорь Иванович": 16,
-      "Черторицкая Татьяна Владимировна": 11,
-      "Шубников Игорь Павлович": 7,
-      "Против всех": 65
+      "gas:candidate-vibid:1001000136042": 29,
+      "gas:candidate-vibid:1001000113923": 7,
+      "gas:candidate-vibid:333300270576": 14,
+      "gas:candidate-vibid:1001000225929": 69,
+      "gas:candidate-vibid:333300270566": 4,
+      "gas:candidate-vibid:1001000190335": 5,
+      "gas:candidate-vibid:333300270371": 243,
+      "gas:candidate-vibid:333300270581": 16,
+      "gas:candidate-vibid:333300270563": 11,
+      "gas:candidate-vibid:1001000202298": 7,
+      "special:against-all": 65
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=332000044&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=233200071071&region=0&sub_region=0&type=429",
@@ -222,17 +222,17 @@ export const duma_2003_uik_428_region_33_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бодров Дмитрий Алексеевич": 43,
-      "Гусев Анатолий Алексеевич": 13,
-      "Заморин Олег Константинович": 41,
-      "Котров Олег Владимирович": 119,
-      "Кузин Валерий Алексеевич": 5,
-      "Мельков Вадим Алексеевич": 16,
-      "Паутов Виктор Николаевич": 325,
-      "Трифонов Игорь Иванович": 18,
-      "Черторицкая Татьяна Владимировна": 16,
-      "Шубников Игорь Павлович": 3,
-      "Против всех": 65
+      "gas:candidate-vibid:1001000136042": 43,
+      "gas:candidate-vibid:1001000113923": 13,
+      "gas:candidate-vibid:333300270576": 41,
+      "gas:candidate-vibid:1001000225929": 119,
+      "gas:candidate-vibid:333300270566": 5,
+      "gas:candidate-vibid:1001000190335": 16,
+      "gas:candidate-vibid:333300270371": 325,
+      "gas:candidate-vibid:333300270581": 18,
+      "gas:candidate-vibid:333300270563": 16,
+      "gas:candidate-vibid:1001000202298": 3,
+      "special:against-all": 65
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=332000044&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=233200071071&region=0&sub_region=0&type=429",
@@ -282,17 +282,17 @@ export const duma_2003_uik_428_region_33_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бодров Дмитрий Алексеевич": 39,
-      "Гусев Анатолий Алексеевич": 11,
-      "Заморин Олег Константинович": 21,
-      "Котров Олег Владимирович": 114,
-      "Кузин Валерий Алексеевич": 3,
-      "Мельков Вадим Алексеевич": 15,
-      "Паутов Виктор Николаевич": 264,
-      "Трифонов Игорь Иванович": 14,
-      "Черторицкая Татьяна Владимировна": 16,
-      "Шубников Игорь Павлович": 9,
-      "Против всех": 66
+      "gas:candidate-vibid:1001000136042": 39,
+      "gas:candidate-vibid:1001000113923": 11,
+      "gas:candidate-vibid:333300270576": 21,
+      "gas:candidate-vibid:1001000225929": 114,
+      "gas:candidate-vibid:333300270566": 3,
+      "gas:candidate-vibid:1001000190335": 15,
+      "gas:candidate-vibid:333300270371": 264,
+      "gas:candidate-vibid:333300270581": 14,
+      "gas:candidate-vibid:333300270563": 16,
+      "gas:candidate-vibid:1001000202298": 9,
+      "special:against-all": 66
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=332000044&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=233200071071&region=0&sub_region=0&type=429",
@@ -342,17 +342,17 @@ export const duma_2003_uik_428_region_33_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бодров Дмитрий Алексеевич": 47,
-      "Гусев Анатолий Алексеевич": 7,
-      "Заморин Олег Константинович": 22,
-      "Котров Олег Владимирович": 138,
-      "Кузин Валерий Алексеевич": 5,
-      "Мельков Вадим Алексеевич": 19,
-      "Паутов Виктор Николаевич": 246,
-      "Трифонов Игорь Иванович": 22,
-      "Черторицкая Татьяна Владимировна": 21,
-      "Шубников Игорь Павлович": 9,
-      "Против всех": 73
+      "gas:candidate-vibid:1001000136042": 47,
+      "gas:candidate-vibid:1001000113923": 7,
+      "gas:candidate-vibid:333300270576": 22,
+      "gas:candidate-vibid:1001000225929": 138,
+      "gas:candidate-vibid:333300270566": 5,
+      "gas:candidate-vibid:1001000190335": 19,
+      "gas:candidate-vibid:333300270371": 246,
+      "gas:candidate-vibid:333300270581": 22,
+      "gas:candidate-vibid:333300270563": 21,
+      "gas:candidate-vibid:1001000202298": 9,
+      "special:against-all": 73
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=332000044&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=233200071071&region=0&sub_region=0&type=429",
@@ -402,17 +402,17 @@ export const duma_2003_uik_428_region_33_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бодров Дмитрий Алексеевич": 43,
-      "Гусев Анатолий Алексеевич": 11,
-      "Заморин Олег Константинович": 9,
-      "Котров Олег Владимирович": 80,
-      "Кузин Валерий Алексеевич": 8,
-      "Мельков Вадим Алексеевич": 9,
-      "Паутов Виктор Николаевич": 232,
-      "Трифонов Игорь Иванович": 10,
-      "Черторицкая Татьяна Владимировна": 18,
-      "Шубников Игорь Павлович": 5,
-      "Против всех": 48
+      "gas:candidate-vibid:1001000136042": 43,
+      "gas:candidate-vibid:1001000113923": 11,
+      "gas:candidate-vibid:333300270576": 9,
+      "gas:candidate-vibid:1001000225929": 80,
+      "gas:candidate-vibid:333300270566": 8,
+      "gas:candidate-vibid:1001000190335": 9,
+      "gas:candidate-vibid:333300270371": 232,
+      "gas:candidate-vibid:333300270581": 10,
+      "gas:candidate-vibid:333300270563": 18,
+      "gas:candidate-vibid:1001000202298": 5,
+      "special:against-all": 48
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=332000044&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=233200071071&region=0&sub_region=0&type=429",
@@ -462,17 +462,17 @@ export const duma_2003_uik_428_region_33_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бодров Дмитрий Алексеевич": 56,
-      "Гусев Анатолий Алексеевич": 12,
-      "Заморин Олег Константинович": 23,
-      "Котров Олег Владимирович": 123,
-      "Кузин Валерий Алексеевич": 4,
-      "Мельков Вадим Алексеевич": 10,
-      "Паутов Виктор Николаевич": 178,
-      "Трифонов Игорь Иванович": 16,
-      "Черторицкая Татьяна Владимировна": 25,
-      "Шубников Игорь Павлович": 3,
-      "Против всех": 66
+      "gas:candidate-vibid:1001000136042": 56,
+      "gas:candidate-vibid:1001000113923": 12,
+      "gas:candidate-vibid:333300270576": 23,
+      "gas:candidate-vibid:1001000225929": 123,
+      "gas:candidate-vibid:333300270566": 4,
+      "gas:candidate-vibid:1001000190335": 10,
+      "gas:candidate-vibid:333300270371": 178,
+      "gas:candidate-vibid:333300270581": 16,
+      "gas:candidate-vibid:333300270563": 25,
+      "gas:candidate-vibid:1001000202298": 3,
+      "special:against-all": 66
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=332000044&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=233200071071&region=0&sub_region=0&type=429",
@@ -522,17 +522,17 @@ export const duma_2003_uik_428_region_33_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бодров Дмитрий Алексеевич": 20,
-      "Гусев Анатолий Алексеевич": 9,
-      "Заморин Олег Константинович": 12,
-      "Котров Олег Владимирович": 43,
-      "Кузин Валерий Алексеевич": 3,
-      "Мельков Вадим Алексеевич": 5,
-      "Паутов Виктор Николаевич": 176,
-      "Трифонов Игорь Иванович": 5,
-      "Черторицкая Татьяна Владимировна": 2,
-      "Шубников Игорь Павлович": 3,
-      "Против всех": 30
+      "gas:candidate-vibid:1001000136042": 20,
+      "gas:candidate-vibid:1001000113923": 9,
+      "gas:candidate-vibid:333300270576": 12,
+      "gas:candidate-vibid:1001000225929": 43,
+      "gas:candidate-vibid:333300270566": 3,
+      "gas:candidate-vibid:1001000190335": 5,
+      "gas:candidate-vibid:333300270371": 176,
+      "gas:candidate-vibid:333300270581": 5,
+      "gas:candidate-vibid:333300270563": 2,
+      "gas:candidate-vibid:1001000202298": 3,
+      "special:against-all": 30
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=332000044&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=233200071071&region=0&sub_region=0&type=429",
@@ -582,17 +582,17 @@ export const duma_2003_uik_428_region_33_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бодров Дмитрий Алексеевич": 32,
-      "Гусев Анатолий Алексеевич": 3,
-      "Заморин Олег Константинович": 11,
-      "Котров Олег Владимирович": 76,
-      "Кузин Валерий Алексеевич": 5,
-      "Мельков Вадим Алексеевич": 9,
-      "Паутов Виктор Николаевич": 117,
-      "Трифонов Игорь Иванович": 7,
-      "Черторицкая Татьяна Владимировна": 8,
-      "Шубников Игорь Павлович": 1,
-      "Против всех": 21
+      "gas:candidate-vibid:1001000136042": 32,
+      "gas:candidate-vibid:1001000113923": 3,
+      "gas:candidate-vibid:333300270576": 11,
+      "gas:candidate-vibid:1001000225929": 76,
+      "gas:candidate-vibid:333300270566": 5,
+      "gas:candidate-vibid:1001000190335": 9,
+      "gas:candidate-vibid:333300270371": 117,
+      "gas:candidate-vibid:333300270581": 7,
+      "gas:candidate-vibid:333300270563": 8,
+      "gas:candidate-vibid:1001000202298": 1,
+      "special:against-all": 21
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=332000044&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=233200071071&region=0&sub_region=0&type=429",
@@ -642,17 +642,17 @@ export const duma_2003_uik_428_region_33_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бодров Дмитрий Алексеевич": 6,
-      "Гусев Анатолий Алексеевич": 7,
-      "Заморин Олег Константинович": 9,
-      "Котров Олег Владимирович": 36,
-      "Кузин Валерий Алексеевич": 0,
-      "Мельков Вадим Алексеевич": 1,
-      "Паутов Виктор Николаевич": 124,
-      "Трифонов Игорь Иванович": 3,
-      "Черторицкая Татьяна Владимировна": 3,
-      "Шубников Игорь Павлович": 0,
-      "Против всех": 13
+      "gas:candidate-vibid:1001000136042": 6,
+      "gas:candidate-vibid:1001000113923": 7,
+      "gas:candidate-vibid:333300270576": 9,
+      "gas:candidate-vibid:1001000225929": 36,
+      "gas:candidate-vibid:333300270566": 0,
+      "gas:candidate-vibid:1001000190335": 1,
+      "gas:candidate-vibid:333300270371": 124,
+      "gas:candidate-vibid:333300270581": 3,
+      "gas:candidate-vibid:333300270563": 3,
+      "gas:candidate-vibid:1001000202298": 0,
+      "special:against-all": 13
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=332000044&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=233200071071&region=0&sub_region=0&type=429",
@@ -702,17 +702,17 @@ export const duma_2003_uik_428_region_33_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бодров Дмитрий Алексеевич": 35,
-      "Гусев Анатолий Алексеевич": 10,
-      "Заморин Олег Константинович": 16,
-      "Котров Олег Владимирович": 52,
-      "Кузин Валерий Алексеевич": 4,
-      "Мельков Вадим Алексеевич": 6,
-      "Паутов Виктор Николаевич": 169,
-      "Трифонов Игорь Иванович": 9,
-      "Черторицкая Татьяна Владимировна": 12,
-      "Шубников Игорь Павлович": 8,
-      "Против всех": 35
+      "gas:candidate-vibid:1001000136042": 35,
+      "gas:candidate-vibid:1001000113923": 10,
+      "gas:candidate-vibid:333300270576": 16,
+      "gas:candidate-vibid:1001000225929": 52,
+      "gas:candidate-vibid:333300270566": 4,
+      "gas:candidate-vibid:1001000190335": 6,
+      "gas:candidate-vibid:333300270371": 169,
+      "gas:candidate-vibid:333300270581": 9,
+      "gas:candidate-vibid:333300270563": 12,
+      "gas:candidate-vibid:1001000202298": 8,
+      "special:against-all": 35
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=332000044&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=233200071071&region=0&sub_region=0&type=429",
@@ -762,17 +762,17 @@ export const duma_2003_uik_428_region_33_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бодров Дмитрий Алексеевич": 8,
-      "Гусев Анатолий Алексеевич": 2,
-      "Заморин Олег Константинович": 8,
-      "Котров Олег Владимирович": 25,
-      "Кузин Валерий Алексеевич": 0,
-      "Мельков Вадим Алексеевич": 3,
-      "Паутов Виктор Николаевич": 136,
-      "Трифонов Игорь Иванович": 2,
-      "Черторицкая Татьяна Владимировна": 1,
-      "Шубников Игорь Павлович": 1,
-      "Против всех": 14
+      "gas:candidate-vibid:1001000136042": 8,
+      "gas:candidate-vibid:1001000113923": 2,
+      "gas:candidate-vibid:333300270576": 8,
+      "gas:candidate-vibid:1001000225929": 25,
+      "gas:candidate-vibid:333300270566": 0,
+      "gas:candidate-vibid:1001000190335": 3,
+      "gas:candidate-vibid:333300270371": 136,
+      "gas:candidate-vibid:333300270581": 2,
+      "gas:candidate-vibid:333300270563": 1,
+      "gas:candidate-vibid:1001000202298": 1,
+      "special:against-all": 14
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=332000044&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=233200071071&region=0&sub_region=0&type=429",
@@ -822,17 +822,17 @@ export const duma_2003_uik_428_region_33_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бодров Дмитрий Алексеевич": 2,
-      "Гусев Анатолий Алексеевич": 5,
-      "Заморин Олег Константинович": 4,
-      "Котров Олег Владимирович": 22,
-      "Кузин Валерий Алексеевич": 1,
-      "Мельков Вадим Алексеевич": 2,
-      "Паутов Виктор Николаевич": 60,
-      "Трифонов Игорь Иванович": 2,
-      "Черторицкая Татьяна Владимировна": 0,
-      "Шубников Игорь Павлович": 0,
-      "Против всех": 1
+      "gas:candidate-vibid:1001000136042": 2,
+      "gas:candidate-vibid:1001000113923": 5,
+      "gas:candidate-vibid:333300270576": 4,
+      "gas:candidate-vibid:1001000225929": 22,
+      "gas:candidate-vibid:333300270566": 1,
+      "gas:candidate-vibid:1001000190335": 2,
+      "gas:candidate-vibid:333300270371": 60,
+      "gas:candidate-vibid:333300270581": 2,
+      "gas:candidate-vibid:333300270563": 0,
+      "gas:candidate-vibid:1001000202298": 0,
+      "special:against-all": 1
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=332000044&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=233200071071&region=0&sub_region=0&type=429",
@@ -882,17 +882,17 @@ export const duma_2003_uik_428_region_33_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бодров Дмитрий Алексеевич": 42,
-      "Гусев Анатолий Алексеевич": 8,
-      "Заморин Олег Константинович": 40,
-      "Котров Олег Владимирович": 120,
-      "Кузин Валерий Алексеевич": 3,
-      "Мельков Вадим Алексеевич": 15,
-      "Паутов Виктор Николаевич": 304,
-      "Трифонов Игорь Иванович": 11,
-      "Черторицкая Татьяна Владимировна": 8,
-      "Шубников Игорь Павлович": 2,
-      "Против всех": 84
+      "gas:candidate-vibid:1001000136042": 42,
+      "gas:candidate-vibid:1001000113923": 8,
+      "gas:candidate-vibid:333300270576": 40,
+      "gas:candidate-vibid:1001000225929": 120,
+      "gas:candidate-vibid:333300270566": 3,
+      "gas:candidate-vibid:1001000190335": 15,
+      "gas:candidate-vibid:333300270371": 304,
+      "gas:candidate-vibid:333300270581": 11,
+      "gas:candidate-vibid:333300270563": 8,
+      "gas:candidate-vibid:1001000202298": 2,
+      "special:against-all": 84
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=332000044&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=233200071071&region=0&sub_region=0&type=429",
@@ -942,17 +942,17 @@ export const duma_2003_uik_428_region_33_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бодров Дмитрий Алексеевич": 5,
-      "Гусев Анатолий Алексеевич": 0,
-      "Заморин Олег Константинович": 17,
-      "Котров Олег Владимирович": 18,
-      "Кузин Валерий Алексеевич": 0,
-      "Мельков Вадим Алексеевич": 1,
-      "Паутов Виктор Николаевич": 29,
-      "Трифонов Игорь Иванович": 1,
-      "Черторицкая Татьяна Владимировна": 3,
-      "Шубников Игорь Павлович": 0,
-      "Против всех": 13
+      "gas:candidate-vibid:1001000136042": 5,
+      "gas:candidate-vibid:1001000113923": 0,
+      "gas:candidate-vibid:333300270576": 17,
+      "gas:candidate-vibid:1001000225929": 18,
+      "gas:candidate-vibid:333300270566": 0,
+      "gas:candidate-vibid:1001000190335": 1,
+      "gas:candidate-vibid:333300270371": 29,
+      "gas:candidate-vibid:333300270581": 1,
+      "gas:candidate-vibid:333300270563": 3,
+      "gas:candidate-vibid:1001000202298": 0,
+      "special:against-all": 13
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=332000044&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=233200071071&region=0&sub_region=0&type=429",
@@ -1002,17 +1002,17 @@ export const duma_2003_uik_428_region_33_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бодров Дмитрий Алексеевич": 13,
-      "Гусев Анатолий Алексеевич": 2,
-      "Заморин Олег Константинович": 12,
-      "Котров Олег Владимирович": 32,
-      "Кузин Валерий Алексеевич": 2,
-      "Мельков Вадим Алексеевич": 5,
-      "Паутов Виктор Николаевич": 108,
-      "Трифонов Игорь Иванович": 2,
-      "Черторицкая Татьяна Владимировна": 2,
-      "Шубников Игорь Павлович": 3,
-      "Против всех": 24
+      "gas:candidate-vibid:1001000136042": 13,
+      "gas:candidate-vibid:1001000113923": 2,
+      "gas:candidate-vibid:333300270576": 12,
+      "gas:candidate-vibid:1001000225929": 32,
+      "gas:candidate-vibid:333300270566": 2,
+      "gas:candidate-vibid:1001000190335": 5,
+      "gas:candidate-vibid:333300270371": 108,
+      "gas:candidate-vibid:333300270581": 2,
+      "gas:candidate-vibid:333300270563": 2,
+      "gas:candidate-vibid:1001000202298": 3,
+      "special:against-all": 24
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=332000044&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=233200071071&region=0&sub_region=0&type=429",
@@ -1062,17 +1062,17 @@ export const duma_2003_uik_428_region_33_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бодров Дмитрий Алексеевич": 20,
-      "Гусев Анатолий Алексеевич": 12,
-      "Заморин Олег Константинович": 21,
-      "Котров Олег Владимирович": 46,
-      "Кузин Валерий Алексеевич": 3,
-      "Мельков Вадим Алексеевич": 7,
-      "Паутов Виктор Николаевич": 142,
-      "Трифонов Игорь Иванович": 3,
-      "Черторицкая Татьяна Владимировна": 2,
-      "Шубников Игорь Павлович": 2,
-      "Против всех": 23
+      "gas:candidate-vibid:1001000136042": 20,
+      "gas:candidate-vibid:1001000113923": 12,
+      "gas:candidate-vibid:333300270576": 21,
+      "gas:candidate-vibid:1001000225929": 46,
+      "gas:candidate-vibid:333300270566": 3,
+      "gas:candidate-vibid:1001000190335": 7,
+      "gas:candidate-vibid:333300270371": 142,
+      "gas:candidate-vibid:333300270581": 3,
+      "gas:candidate-vibid:333300270563": 2,
+      "gas:candidate-vibid:1001000202298": 2,
+      "special:against-all": 23
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=332000044&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=233200071071&region=0&sub_region=0&type=429",
@@ -1122,17 +1122,17 @@ export const duma_2003_uik_428_region_33_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бодров Дмитрий Алексеевич": 9,
-      "Гусев Анатолий Алексеевич": 2,
-      "Заморин Олег Константинович": 11,
-      "Котров Олег Владимирович": 27,
-      "Кузин Валерий Алексеевич": 0,
-      "Мельков Вадим Алексеевич": 5,
-      "Паутов Виктор Николаевич": 74,
-      "Трифонов Игорь Иванович": 2,
-      "Черторицкая Татьяна Владимировна": 1,
-      "Шубников Игорь Павлович": 1,
-      "Против всех": 4
+      "gas:candidate-vibid:1001000136042": 9,
+      "gas:candidate-vibid:1001000113923": 2,
+      "gas:candidate-vibid:333300270576": 11,
+      "gas:candidate-vibid:1001000225929": 27,
+      "gas:candidate-vibid:333300270566": 0,
+      "gas:candidate-vibid:1001000190335": 5,
+      "gas:candidate-vibid:333300270371": 74,
+      "gas:candidate-vibid:333300270581": 2,
+      "gas:candidate-vibid:333300270563": 1,
+      "gas:candidate-vibid:1001000202298": 1,
+      "special:against-all": 4
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=332000044&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=233200071071&region=0&sub_region=0&type=429",
@@ -1182,17 +1182,17 @@ export const duma_2003_uik_428_region_33_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бодров Дмитрий Алексеевич": 12,
-      "Гусев Анатолий Алексеевич": 2,
-      "Заморин Олег Константинович": 7,
-      "Котров Олег Владимирович": 40,
-      "Кузин Валерий Алексеевич": 2,
-      "Мельков Вадим Алексеевич": 0,
-      "Паутов Виктор Николаевич": 153,
-      "Трифонов Игорь Иванович": 0,
-      "Черторицкая Татьяна Владимировна": 0,
-      "Шубников Игорь Павлович": 2,
-      "Против всех": 20
+      "gas:candidate-vibid:1001000136042": 12,
+      "gas:candidate-vibid:1001000113923": 2,
+      "gas:candidate-vibid:333300270576": 7,
+      "gas:candidate-vibid:1001000225929": 40,
+      "gas:candidate-vibid:333300270566": 2,
+      "gas:candidate-vibid:1001000190335": 0,
+      "gas:candidate-vibid:333300270371": 153,
+      "gas:candidate-vibid:333300270581": 0,
+      "gas:candidate-vibid:333300270563": 0,
+      "gas:candidate-vibid:1001000202298": 2,
+      "special:against-all": 20
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=332000044&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=233200071071&region=0&sub_region=0&type=429",
@@ -1242,17 +1242,17 @@ export const duma_2003_uik_428_region_33_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бодров Дмитрий Алексеевич": 46,
-      "Гусев Анатолий Алексеевич": 10,
-      "Заморин Олег Константинович": 33,
-      "Котров Олег Владимирович": 164,
-      "Кузин Валерий Алексеевич": 7,
-      "Мельков Вадим Алексеевич": 15,
-      "Паутов Виктор Николаевич": 306,
-      "Трифонов Игорь Иванович": 8,
-      "Черторицкая Татьяна Владимировна": 13,
-      "Шубников Игорь Павлович": 13,
-      "Против всех": 57
+      "gas:candidate-vibid:1001000136042": 46,
+      "gas:candidate-vibid:1001000113923": 10,
+      "gas:candidate-vibid:333300270576": 33,
+      "gas:candidate-vibid:1001000225929": 164,
+      "gas:candidate-vibid:333300270566": 7,
+      "gas:candidate-vibid:1001000190335": 15,
+      "gas:candidate-vibid:333300270371": 306,
+      "gas:candidate-vibid:333300270581": 8,
+      "gas:candidate-vibid:333300270563": 13,
+      "gas:candidate-vibid:1001000202298": 13,
+      "special:against-all": 57
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=332000044&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=233200071071&region=0&sub_region=0&type=429",
@@ -1302,17 +1302,17 @@ export const duma_2003_uik_428_region_33_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бодров Дмитрий Алексеевич": 35,
-      "Гусев Анатолий Алексеевич": 9,
-      "Заморин Олег Константинович": 51,
-      "Котров Олег Владимирович": 73,
-      "Кузин Валерий Алексеевич": 5,
-      "Мельков Вадим Алексеевич": 33,
-      "Паутов Виктор Николаевич": 268,
-      "Трифонов Игорь Иванович": 7,
-      "Черторицкая Татьяна Владимировна": 15,
-      "Шубников Игорь Павлович": 4,
-      "Против всех": 42
+      "gas:candidate-vibid:1001000136042": 35,
+      "gas:candidate-vibid:1001000113923": 9,
+      "gas:candidate-vibid:333300270576": 51,
+      "gas:candidate-vibid:1001000225929": 73,
+      "gas:candidate-vibid:333300270566": 5,
+      "gas:candidate-vibid:1001000190335": 33,
+      "gas:candidate-vibid:333300270371": 268,
+      "gas:candidate-vibid:333300270581": 7,
+      "gas:candidate-vibid:333300270563": 15,
+      "gas:candidate-vibid:1001000202298": 4,
+      "special:against-all": 42
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=332000044&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=233200071071&region=0&sub_region=0&type=429",
@@ -1362,17 +1362,17 @@ export const duma_2003_uik_428_region_33_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бодров Дмитрий Алексеевич": 15,
-      "Гусев Анатолий Алексеевич": 1,
-      "Заморин Олег Константинович": 74,
-      "Котров Олег Владимирович": 41,
-      "Кузин Валерий Алексеевич": 2,
-      "Мельков Вадим Алексеевич": 9,
-      "Паутов Виктор Николаевич": 139,
-      "Трифонов Игорь Иванович": 1,
-      "Черторицкая Татьяна Владимировна": 7,
-      "Шубников Игорь Павлович": 1,
-      "Против всех": 20
+      "gas:candidate-vibid:1001000136042": 15,
+      "gas:candidate-vibid:1001000113923": 1,
+      "gas:candidate-vibid:333300270576": 74,
+      "gas:candidate-vibid:1001000225929": 41,
+      "gas:candidate-vibid:333300270566": 2,
+      "gas:candidate-vibid:1001000190335": 9,
+      "gas:candidate-vibid:333300270371": 139,
+      "gas:candidate-vibid:333300270581": 1,
+      "gas:candidate-vibid:333300270563": 7,
+      "gas:candidate-vibid:1001000202298": 1,
+      "special:against-all": 20
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=332000047&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=233200071074&region=0&sub_region=0&type=429",
@@ -1422,17 +1422,17 @@ export const duma_2003_uik_428_region_33_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бодров Дмитрий Алексеевич": 28,
-      "Гусев Анатолий Алексеевич": 7,
-      "Заморин Олег Константинович": 85,
-      "Котров Олег Владимирович": 90,
-      "Кузин Валерий Алексеевич": 4,
-      "Мельков Вадим Алексеевич": 22,
-      "Паутов Виктор Николаевич": 135,
-      "Трифонов Игорь Иванович": 14,
-      "Черторицкая Татьяна Владимировна": 3,
-      "Шубников Игорь Павлович": 4,
-      "Против всех": 20
+      "gas:candidate-vibid:1001000136042": 28,
+      "gas:candidate-vibid:1001000113923": 7,
+      "gas:candidate-vibid:333300270576": 85,
+      "gas:candidate-vibid:1001000225929": 90,
+      "gas:candidate-vibid:333300270566": 4,
+      "gas:candidate-vibid:1001000190335": 22,
+      "gas:candidate-vibid:333300270371": 135,
+      "gas:candidate-vibid:333300270581": 14,
+      "gas:candidate-vibid:333300270563": 3,
+      "gas:candidate-vibid:1001000202298": 4,
+      "special:against-all": 20
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=332000047&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=233200071074&region=0&sub_region=0&type=429",
@@ -1482,17 +1482,17 @@ export const duma_2003_uik_428_region_33_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бодров Дмитрий Алексеевич": 20,
-      "Гусев Анатолий Алексеевич": 3,
-      "Заморин Олег Константинович": 94,
-      "Котров Олег Владимирович": 88,
-      "Кузин Валерий Алексеевич": 1,
-      "Мельков Вадим Алексеевич": 19,
-      "Паутов Виктор Николаевич": 138,
-      "Трифонов Игорь Иванович": 7,
-      "Черторицкая Татьяна Владимировна": 4,
-      "Шубников Игорь Павлович": 4,
-      "Против всех": 47
+      "gas:candidate-vibid:1001000136042": 20,
+      "gas:candidate-vibid:1001000113923": 3,
+      "gas:candidate-vibid:333300270576": 94,
+      "gas:candidate-vibid:1001000225929": 88,
+      "gas:candidate-vibid:333300270566": 1,
+      "gas:candidate-vibid:1001000190335": 19,
+      "gas:candidate-vibid:333300270371": 138,
+      "gas:candidate-vibid:333300270581": 7,
+      "gas:candidate-vibid:333300270563": 4,
+      "gas:candidate-vibid:1001000202298": 4,
+      "special:against-all": 47
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=332000047&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=233200071074&region=0&sub_region=0&type=429",
@@ -1542,17 +1542,17 @@ export const duma_2003_uik_428_region_33_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бодров Дмитрий Алексеевич": 4,
-      "Гусев Анатолий Алексеевич": 2,
-      "Заморин Олег Константинович": 51,
-      "Котров Олег Владимирович": 11,
-      "Кузин Валерий Алексеевич": 2,
-      "Мельков Вадим Алексеевич": 10,
-      "Паутов Виктор Николаевич": 61,
-      "Трифонов Игорь Иванович": 1,
-      "Черторицкая Татьяна Владимировна": 3,
-      "Шубников Игорь Павлович": 3,
-      "Против всех": 3
+      "gas:candidate-vibid:1001000136042": 4,
+      "gas:candidate-vibid:1001000113923": 2,
+      "gas:candidate-vibid:333300270576": 51,
+      "gas:candidate-vibid:1001000225929": 11,
+      "gas:candidate-vibid:333300270566": 2,
+      "gas:candidate-vibid:1001000190335": 10,
+      "gas:candidate-vibid:333300270371": 61,
+      "gas:candidate-vibid:333300270581": 1,
+      "gas:candidate-vibid:333300270563": 3,
+      "gas:candidate-vibid:1001000202298": 3,
+      "special:against-all": 3
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=332000047&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=233200071074&region=0&sub_region=0&type=429",
@@ -1602,17 +1602,17 @@ export const duma_2003_uik_428_region_33_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бодров Дмитрий Алексеевич": 14,
-      "Гусев Анатолий Алексеевич": 3,
-      "Заморин Олег Константинович": 26,
-      "Котров Олег Владимирович": 20,
-      "Кузин Валерий Алексеевич": 2,
-      "Мельков Вадим Алексеевич": 4,
-      "Паутов Виктор Николаевич": 148,
-      "Трифонов Игорь Иванович": 3,
-      "Черторицкая Татьяна Владимировна": 1,
-      "Шубников Игорь Павлович": 2,
-      "Против всех": 27
+      "gas:candidate-vibid:1001000136042": 14,
+      "gas:candidate-vibid:1001000113923": 3,
+      "gas:candidate-vibid:333300270576": 26,
+      "gas:candidate-vibid:1001000225929": 20,
+      "gas:candidate-vibid:333300270566": 2,
+      "gas:candidate-vibid:1001000190335": 4,
+      "gas:candidate-vibid:333300270371": 148,
+      "gas:candidate-vibid:333300270581": 3,
+      "gas:candidate-vibid:333300270563": 1,
+      "gas:candidate-vibid:1001000202298": 2,
+      "special:against-all": 27
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=332000047&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=233200071074&region=0&sub_region=0&type=429",
@@ -1662,17 +1662,17 @@ export const duma_2003_uik_428_region_33_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бодров Дмитрий Алексеевич": 17,
-      "Гусев Анатолий Алексеевич": 4,
-      "Заморин Олег Константинович": 45,
-      "Котров Олег Владимирович": 49,
-      "Кузин Валерий Алексеевич": 8,
-      "Мельков Вадим Алексеевич": 35,
-      "Паутов Виктор Николаевич": 131,
-      "Трифонов Игорь Иванович": 9,
-      "Черторицкая Татьяна Владимировна": 18,
-      "Шубников Игорь Павлович": 5,
-      "Против всех": 43
+      "gas:candidate-vibid:1001000136042": 17,
+      "gas:candidate-vibid:1001000113923": 4,
+      "gas:candidate-vibid:333300270576": 45,
+      "gas:candidate-vibid:1001000225929": 49,
+      "gas:candidate-vibid:333300270566": 8,
+      "gas:candidate-vibid:1001000190335": 35,
+      "gas:candidate-vibid:333300270371": 131,
+      "gas:candidate-vibid:333300270581": 9,
+      "gas:candidate-vibid:333300270563": 18,
+      "gas:candidate-vibid:1001000202298": 5,
+      "special:against-all": 43
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=332000047&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=233200071074&region=0&sub_region=0&type=429",
@@ -1722,17 +1722,17 @@ export const duma_2003_uik_428_region_33_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бодров Дмитрий Алексеевич": 11,
-      "Гусев Анатолий Алексеевич": 5,
-      "Заморин Олег Константинович": 20,
-      "Котров Олег Владимирович": 46,
-      "Кузин Валерий Алексеевич": 2,
-      "Мельков Вадим Алексеевич": 39,
-      "Паутов Виктор Николаевич": 136,
-      "Трифонов Игорь Иванович": 1,
-      "Черторицкая Татьяна Владимировна": 4,
-      "Шубников Игорь Павлович": 1,
-      "Против всех": 18
+      "gas:candidate-vibid:1001000136042": 11,
+      "gas:candidate-vibid:1001000113923": 5,
+      "gas:candidate-vibid:333300270576": 20,
+      "gas:candidate-vibid:1001000225929": 46,
+      "gas:candidate-vibid:333300270566": 2,
+      "gas:candidate-vibid:1001000190335": 39,
+      "gas:candidate-vibid:333300270371": 136,
+      "gas:candidate-vibid:333300270581": 1,
+      "gas:candidate-vibid:333300270563": 4,
+      "gas:candidate-vibid:1001000202298": 1,
+      "special:against-all": 18
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=332000047&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=233200071074&region=0&sub_region=0&type=429",
@@ -1782,17 +1782,17 @@ export const duma_2003_uik_428_region_33_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бодров Дмитрий Алексеевич": 17,
-      "Гусев Анатолий Алексеевич": 7,
-      "Заморин Олег Константинович": 65,
-      "Котров Олег Владимирович": 47,
-      "Кузин Валерий Алексеевич": 2,
-      "Мельков Вадим Алексеевич": 15,
-      "Паутов Виктор Николаевич": 194,
-      "Трифонов Игорь Иванович": 9,
-      "Черторицкая Татьяна Владимировна": 6,
-      "Шубников Игорь Павлович": 3,
-      "Против всех": 33
+      "gas:candidate-vibid:1001000136042": 17,
+      "gas:candidate-vibid:1001000113923": 7,
+      "gas:candidate-vibid:333300270576": 65,
+      "gas:candidate-vibid:1001000225929": 47,
+      "gas:candidate-vibid:333300270566": 2,
+      "gas:candidate-vibid:1001000190335": 15,
+      "gas:candidate-vibid:333300270371": 194,
+      "gas:candidate-vibid:333300270581": 9,
+      "gas:candidate-vibid:333300270563": 6,
+      "gas:candidate-vibid:1001000202298": 3,
+      "special:against-all": 33
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=332000047&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=233200071074&region=0&sub_region=0&type=429",
@@ -1842,17 +1842,17 @@ export const duma_2003_uik_428_region_33_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бодров Дмитрий Алексеевич": 11,
-      "Гусев Анатолий Алексеевич": 4,
-      "Заморин Олег Константинович": 46,
-      "Котров Олег Владимирович": 32,
-      "Кузин Валерий Алексеевич": 2,
-      "Мельков Вадим Алексеевич": 13,
-      "Паутов Виктор Николаевич": 87,
-      "Трифонов Игорь Иванович": 5,
-      "Черторицкая Татьяна Владимировна": 2,
-      "Шубников Игорь Павлович": 3,
-      "Против всех": 40
+      "gas:candidate-vibid:1001000136042": 11,
+      "gas:candidate-vibid:1001000113923": 4,
+      "gas:candidate-vibid:333300270576": 46,
+      "gas:candidate-vibid:1001000225929": 32,
+      "gas:candidate-vibid:333300270566": 2,
+      "gas:candidate-vibid:1001000190335": 13,
+      "gas:candidate-vibid:333300270371": 87,
+      "gas:candidate-vibid:333300270581": 5,
+      "gas:candidate-vibid:333300270563": 2,
+      "gas:candidate-vibid:1001000202298": 3,
+      "special:against-all": 40
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=332000047&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=233200071074&region=0&sub_region=0&type=429",
@@ -1902,17 +1902,17 @@ export const duma_2003_uik_428_region_33_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бодров Дмитрий Алексеевич": 11,
-      "Гусев Анатолий Алексеевич": 1,
-      "Заморин Олег Константинович": 20,
-      "Котров Олег Владимирович": 29,
-      "Кузин Валерий Алексеевич": 1,
-      "Мельков Вадим Алексеевич": 13,
-      "Паутов Виктор Николаевич": 99,
-      "Трифонов Игорь Иванович": 8,
-      "Черторицкая Татьяна Владимировна": 3,
-      "Шубников Игорь Павлович": 2,
-      "Против всех": 26
+      "gas:candidate-vibid:1001000136042": 11,
+      "gas:candidate-vibid:1001000113923": 1,
+      "gas:candidate-vibid:333300270576": 20,
+      "gas:candidate-vibid:1001000225929": 29,
+      "gas:candidate-vibid:333300270566": 1,
+      "gas:candidate-vibid:1001000190335": 13,
+      "gas:candidate-vibid:333300270371": 99,
+      "gas:candidate-vibid:333300270581": 8,
+      "gas:candidate-vibid:333300270563": 3,
+      "gas:candidate-vibid:1001000202298": 2,
+      "special:against-all": 26
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=332000047&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=233200071074&region=0&sub_region=0&type=429",
@@ -1962,17 +1962,17 @@ export const duma_2003_uik_428_region_33_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бодров Дмитрий Алексеевич": 16,
-      "Гусев Анатолий Алексеевич": 5,
-      "Заморин Олег Константинович": 34,
-      "Котров Олег Владимирович": 13,
-      "Кузин Валерий Алексеевич": 1,
-      "Мельков Вадим Алексеевич": 8,
-      "Паутов Виктор Николаевич": 77,
-      "Трифонов Игорь Иванович": 2,
-      "Черторицкая Татьяна Владимировна": 4,
-      "Шубников Игорь Павлович": 3,
-      "Против всех": 31
+      "gas:candidate-vibid:1001000136042": 16,
+      "gas:candidate-vibid:1001000113923": 5,
+      "gas:candidate-vibid:333300270576": 34,
+      "gas:candidate-vibid:1001000225929": 13,
+      "gas:candidate-vibid:333300270566": 1,
+      "gas:candidate-vibid:1001000190335": 8,
+      "gas:candidate-vibid:333300270371": 77,
+      "gas:candidate-vibid:333300270581": 2,
+      "gas:candidate-vibid:333300270563": 4,
+      "gas:candidate-vibid:1001000202298": 3,
+      "special:against-all": 31
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=332000047&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=233200071074&region=0&sub_region=0&type=429",
@@ -2022,17 +2022,17 @@ export const duma_2003_uik_428_region_33_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бодров Дмитрий Алексеевич": 23,
-      "Гусев Анатолий Алексеевич": 4,
-      "Заморин Олег Константинович": 76,
-      "Котров Олег Владимирович": 18,
-      "Кузин Валерий Алексеевич": 1,
-      "Мельков Вадим Алексеевич": 18,
-      "Паутов Виктор Николаевич": 131,
-      "Трифонов Игорь Иванович": 2,
-      "Черторицкая Татьяна Владимировна": 5,
-      "Шубников Игорь Павлович": 4,
-      "Против всех": 15
+      "gas:candidate-vibid:1001000136042": 23,
+      "gas:candidate-vibid:1001000113923": 4,
+      "gas:candidate-vibid:333300270576": 76,
+      "gas:candidate-vibid:1001000225929": 18,
+      "gas:candidate-vibid:333300270566": 1,
+      "gas:candidate-vibid:1001000190335": 18,
+      "gas:candidate-vibid:333300270371": 131,
+      "gas:candidate-vibid:333300270581": 2,
+      "gas:candidate-vibid:333300270563": 5,
+      "gas:candidate-vibid:1001000202298": 4,
+      "special:against-all": 15
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=332000047&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=233200071074&region=0&sub_region=0&type=429",
@@ -2082,17 +2082,17 @@ export const duma_2003_uik_428_region_33_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бодров Дмитрий Алексеевич": 11,
-      "Гусев Анатолий Алексеевич": 3,
-      "Заморин Олег Константинович": 30,
-      "Котров Олег Владимирович": 57,
-      "Кузин Валерий Алексеевич": 4,
-      "Мельков Вадим Алексеевич": 11,
-      "Паутов Виктор Николаевич": 76,
-      "Трифонов Игорь Иванович": 2,
-      "Черторицкая Татьяна Владимировна": 4,
-      "Шубников Игорь Павлович": 2,
-      "Против всех": 25
+      "gas:candidate-vibid:1001000136042": 11,
+      "gas:candidate-vibid:1001000113923": 3,
+      "gas:candidate-vibid:333300270576": 30,
+      "gas:candidate-vibid:1001000225929": 57,
+      "gas:candidate-vibid:333300270566": 4,
+      "gas:candidate-vibid:1001000190335": 11,
+      "gas:candidate-vibid:333300270371": 76,
+      "gas:candidate-vibid:333300270581": 2,
+      "gas:candidate-vibid:333300270563": 4,
+      "gas:candidate-vibid:1001000202298": 2,
+      "special:against-all": 25
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=332000047&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=233200071074&region=0&sub_region=0&type=429",
@@ -2142,17 +2142,17 @@ export const duma_2003_uik_428_region_33_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бодров Дмитрий Алексеевич": 35,
-      "Гусев Анатолий Алексеевич": 2,
-      "Заморин Олег Константинович": 58,
-      "Котров Олег Владимирович": 99,
-      "Кузин Валерий Алексеевич": 6,
-      "Мельков Вадим Алексеевич": 28,
-      "Паутов Виктор Николаевич": 197,
-      "Трифонов Игорь Иванович": 11,
-      "Черторицкая Татьяна Владимировна": 9,
-      "Шубников Игорь Павлович": 0,
-      "Против всех": 41
+      "gas:candidate-vibid:1001000136042": 35,
+      "gas:candidate-vibid:1001000113923": 2,
+      "gas:candidate-vibid:333300270576": 58,
+      "gas:candidate-vibid:1001000225929": 99,
+      "gas:candidate-vibid:333300270566": 6,
+      "gas:candidate-vibid:1001000190335": 28,
+      "gas:candidate-vibid:333300270371": 197,
+      "gas:candidate-vibid:333300270581": 11,
+      "gas:candidate-vibid:333300270563": 9,
+      "gas:candidate-vibid:1001000202298": 0,
+      "special:against-all": 41
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=332000047&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=233200071074&region=0&sub_region=0&type=429",
@@ -2202,17 +2202,17 @@ export const duma_2003_uik_428_region_33_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бодров Дмитрий Алексеевич": 1,
-      "Гусев Анатолий Алексеевич": 1,
-      "Заморин Олег Константинович": 20,
-      "Котров Олег Владимирович": 4,
-      "Кузин Валерий Алексеевич": 0,
-      "Мельков Вадим Алексеевич": 12,
-      "Паутов Виктор Николаевич": 15,
-      "Трифонов Игорь Иванович": 2,
-      "Черторицкая Татьяна Владимировна": 3,
-      "Шубников Игорь Павлович": 0,
-      "Против всех": 5
+      "gas:candidate-vibid:1001000136042": 1,
+      "gas:candidate-vibid:1001000113923": 1,
+      "gas:candidate-vibid:333300270576": 20,
+      "gas:candidate-vibid:1001000225929": 4,
+      "gas:candidate-vibid:333300270566": 0,
+      "gas:candidate-vibid:1001000190335": 12,
+      "gas:candidate-vibid:333300270371": 15,
+      "gas:candidate-vibid:333300270581": 2,
+      "gas:candidate-vibid:333300270563": 3,
+      "gas:candidate-vibid:1001000202298": 0,
+      "special:against-all": 5
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=332000047&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=233200071074&region=0&sub_region=0&type=429",
@@ -2262,17 +2262,17 @@ export const duma_2003_uik_428_region_33_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бодров Дмитрий Алексеевич": 1,
-      "Гусев Анатолий Алексеевич": 1,
-      "Заморин Олег Константинович": 24,
-      "Котров Олег Владимирович": 7,
-      "Кузин Валерий Алексеевич": 6,
-      "Мельков Вадим Алексеевич": 3,
-      "Паутов Виктор Николаевич": 89,
-      "Трифонов Игорь Иванович": 2,
-      "Черторицкая Татьяна Владимировна": 0,
-      "Шубников Игорь Павлович": 2,
-      "Против всех": 4
+      "gas:candidate-vibid:1001000136042": 1,
+      "gas:candidate-vibid:1001000113923": 1,
+      "gas:candidate-vibid:333300270576": 24,
+      "gas:candidate-vibid:1001000225929": 7,
+      "gas:candidate-vibid:333300270566": 6,
+      "gas:candidate-vibid:1001000190335": 3,
+      "gas:candidate-vibid:333300270371": 89,
+      "gas:candidate-vibid:333300270581": 2,
+      "gas:candidate-vibid:333300270563": 0,
+      "gas:candidate-vibid:1001000202298": 2,
+      "special:against-all": 4
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=332000047&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=233200071074&region=0&sub_region=0&type=429",
@@ -2322,17 +2322,17 @@ export const duma_2003_uik_428_region_33_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бодров Дмитрий Алексеевич": 5,
-      "Гусев Анатолий Алексеевич": 0,
-      "Заморин Олег Константинович": 37,
-      "Котров Олег Владимирович": 12,
-      "Кузин Валерий Алексеевич": 1,
-      "Мельков Вадим Алексеевич": 6,
-      "Паутов Виктор Николаевич": 138,
-      "Трифонов Игорь Иванович": 3,
-      "Черторицкая Татьяна Владимировна": 4,
-      "Шубников Игорь Павлович": 1,
-      "Против всех": 16
+      "gas:candidate-vibid:1001000136042": 5,
+      "gas:candidate-vibid:1001000113923": 0,
+      "gas:candidate-vibid:333300270576": 37,
+      "gas:candidate-vibid:1001000225929": 12,
+      "gas:candidate-vibid:333300270566": 1,
+      "gas:candidate-vibid:1001000190335": 6,
+      "gas:candidate-vibid:333300270371": 138,
+      "gas:candidate-vibid:333300270581": 3,
+      "gas:candidate-vibid:333300270563": 4,
+      "gas:candidate-vibid:1001000202298": 1,
+      "special:against-all": 16
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=332000047&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=233200071074&region=0&sub_region=0&type=429",
@@ -2382,17 +2382,17 @@ export const duma_2003_uik_428_region_33_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бодров Дмитрий Алексеевич": 16,
-      "Гусев Анатолий Алексеевич": 2,
-      "Заморин Олег Константинович": 43,
-      "Котров Олег Владимирович": 17,
-      "Кузин Валерий Алексеевич": 3,
-      "Мельков Вадим Алексеевич": 9,
-      "Паутов Виктор Николаевич": 156,
-      "Трифонов Игорь Иванович": 7,
-      "Черторицкая Татьяна Владимировна": 6,
-      "Шубников Игорь Павлович": 0,
-      "Против всех": 19
+      "gas:candidate-vibid:1001000136042": 16,
+      "gas:candidate-vibid:1001000113923": 2,
+      "gas:candidate-vibid:333300270576": 43,
+      "gas:candidate-vibid:1001000225929": 17,
+      "gas:candidate-vibid:333300270566": 3,
+      "gas:candidate-vibid:1001000190335": 9,
+      "gas:candidate-vibid:333300270371": 156,
+      "gas:candidate-vibid:333300270581": 7,
+      "gas:candidate-vibid:333300270563": 6,
+      "gas:candidate-vibid:1001000202298": 0,
+      "special:against-all": 19
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=332000047&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=233200071074&region=0&sub_region=0&type=429",
@@ -2442,17 +2442,17 @@ export const duma_2003_uik_428_region_33_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бодров Дмитрий Алексеевич": 42,
-      "Гусев Анатолий Алексеевич": 8,
-      "Заморин Олег Константинович": 215,
-      "Котров Олег Владимирович": 127,
-      "Кузин Валерий Алексеевич": 13,
-      "Мельков Вадим Алексеевич": 32,
-      "Паутов Виктор Николаевич": 421,
-      "Трифонов Игорь Иванович": 27,
-      "Черторицкая Татьяна Владимировна": 19,
-      "Шубников Игорь Павлович": 2,
-      "Против всех": 75
+      "gas:candidate-vibid:1001000136042": 42,
+      "gas:candidate-vibid:1001000113923": 8,
+      "gas:candidate-vibid:333300270576": 215,
+      "gas:candidate-vibid:1001000225929": 127,
+      "gas:candidate-vibid:333300270566": 13,
+      "gas:candidate-vibid:1001000190335": 32,
+      "gas:candidate-vibid:333300270371": 421,
+      "gas:candidate-vibid:333300270581": 27,
+      "gas:candidate-vibid:333300270563": 19,
+      "gas:candidate-vibid:1001000202298": 2,
+      "special:against-all": 75
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=332000047&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=233200071074&region=0&sub_region=0&type=429",
@@ -2502,17 +2502,17 @@ export const duma_2003_uik_428_region_33_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бодров Дмитрий Алексеевич": 45,
-      "Гусев Анатолий Алексеевич": 8,
-      "Заморин Олег Константинович": 140,
-      "Котров Олег Владимирович": 144,
-      "Кузин Валерий Алексеевич": 4,
-      "Мельков Вадим Алексеевич": 59,
-      "Паутов Виктор Николаевич": 433,
-      "Трифонов Игорь Иванович": 34,
-      "Черторицкая Татьяна Владимировна": 32,
-      "Шубников Игорь Павлович": 10,
-      "Против всех": 111
+      "gas:candidate-vibid:1001000136042": 45,
+      "gas:candidate-vibid:1001000113923": 8,
+      "gas:candidate-vibid:333300270576": 140,
+      "gas:candidate-vibid:1001000225929": 144,
+      "gas:candidate-vibid:333300270566": 4,
+      "gas:candidate-vibid:1001000190335": 59,
+      "gas:candidate-vibid:333300270371": 433,
+      "gas:candidate-vibid:333300270581": 34,
+      "gas:candidate-vibid:333300270563": 32,
+      "gas:candidate-vibid:1001000202298": 10,
+      "special:against-all": 111
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=332000047&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=233200071074&region=0&sub_region=0&type=429",
@@ -2562,17 +2562,17 @@ export const duma_2003_uik_428_region_33_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бодров Дмитрий Алексеевич": 57,
-      "Гусев Анатолий Алексеевич": 8,
-      "Заморин Олег Константинович": 160,
-      "Котров Олег Владимирович": 118,
-      "Кузин Валерий Алексеевич": 6,
-      "Мельков Вадим Алексеевич": 57,
-      "Паутов Виктор Николаевич": 522,
-      "Трифонов Игорь Иванович": 46,
-      "Черторицкая Татьяна Владимировна": 26,
-      "Шубников Игорь Павлович": 5,
-      "Против всех": 107
+      "gas:candidate-vibid:1001000136042": 57,
+      "gas:candidate-vibid:1001000113923": 8,
+      "gas:candidate-vibid:333300270576": 160,
+      "gas:candidate-vibid:1001000225929": 118,
+      "gas:candidate-vibid:333300270566": 6,
+      "gas:candidate-vibid:1001000190335": 57,
+      "gas:candidate-vibid:333300270371": 522,
+      "gas:candidate-vibid:333300270581": 46,
+      "gas:candidate-vibid:333300270563": 26,
+      "gas:candidate-vibid:1001000202298": 5,
+      "special:against-all": 107
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=332000047&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=233200071074&region=0&sub_region=0&type=429",
@@ -2622,17 +2622,17 @@ export const duma_2003_uik_428_region_33_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бодров Дмитрий Алексеевич": 35,
-      "Гусев Анатолий Алексеевич": 6,
-      "Заморин Олег Константинович": 83,
-      "Котров Олег Владимирович": 63,
-      "Кузин Валерий Алексеевич": 2,
-      "Мельков Вадим Алексеевич": 14,
-      "Паутов Виктор Николаевич": 288,
-      "Трифонов Игорь Иванович": 12,
-      "Черторицкая Татьяна Владимировна": 20,
-      "Шубников Игорь Павлович": 1,
-      "Против всех": 53
+      "gas:candidate-vibid:1001000136042": 35,
+      "gas:candidate-vibid:1001000113923": 6,
+      "gas:candidate-vibid:333300270576": 83,
+      "gas:candidate-vibid:1001000225929": 63,
+      "gas:candidate-vibid:333300270566": 2,
+      "gas:candidate-vibid:1001000190335": 14,
+      "gas:candidate-vibid:333300270371": 288,
+      "gas:candidate-vibid:333300270581": 12,
+      "gas:candidate-vibid:333300270563": 20,
+      "gas:candidate-vibid:1001000202298": 1,
+      "special:against-all": 53
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=332000047&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=233200071074&region=0&sub_region=0&type=429",
@@ -2682,17 +2682,17 @@ export const duma_2003_uik_428_region_33_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бодров Дмитрий Алексеевич": 3,
-      "Гусев Анатолий Алексеевич": 2,
-      "Заморин Олег Константинович": 7,
-      "Котров Олег Владимирович": 4,
-      "Кузин Валерий Алексеевич": 1,
-      "Мельков Вадим Алексеевич": 1,
-      "Паутов Виктор Николаевич": 41,
-      "Трифонов Игорь Иванович": 0,
-      "Черторицкая Татьяна Владимировна": 1,
-      "Шубников Игорь Павлович": 1,
-      "Против всех": 7
+      "gas:candidate-vibid:1001000136042": 3,
+      "gas:candidate-vibid:1001000113923": 2,
+      "gas:candidate-vibid:333300270576": 7,
+      "gas:candidate-vibid:1001000225929": 4,
+      "gas:candidate-vibid:333300270566": 1,
+      "gas:candidate-vibid:1001000190335": 1,
+      "gas:candidate-vibid:333300270371": 41,
+      "gas:candidate-vibid:333300270581": 0,
+      "gas:candidate-vibid:333300270563": 1,
+      "gas:candidate-vibid:1001000202298": 1,
+      "special:against-all": 7
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=332000047&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=233200071074&region=0&sub_region=0&type=429",
@@ -2742,17 +2742,17 @@ export const duma_2003_uik_428_region_33_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бодров Дмитрий Алексеевич": 30,
-      "Гусев Анатолий Алексеевич": 12,
-      "Заморин Олег Константинович": 30,
-      "Котров Олег Владимирович": 113,
-      "Кузин Валерий Алексеевич": 4,
-      "Мельков Вадим Алексеевич": 21,
-      "Паутов Виктор Николаевич": 187,
-      "Трифонов Игорь Иванович": 3,
-      "Черторицкая Татьяна Владимировна": 11,
-      "Шубников Игорь Павлович": 6,
-      "Против всех": 72
+      "gas:candidate-vibid:1001000136042": 30,
+      "gas:candidate-vibid:1001000113923": 12,
+      "gas:candidate-vibid:333300270576": 30,
+      "gas:candidate-vibid:1001000225929": 113,
+      "gas:candidate-vibid:333300270566": 4,
+      "gas:candidate-vibid:1001000190335": 21,
+      "gas:candidate-vibid:333300270371": 187,
+      "gas:candidate-vibid:333300270581": 3,
+      "gas:candidate-vibid:333300270563": 11,
+      "gas:candidate-vibid:1001000202298": 6,
+      "special:against-all": 72
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=332000048&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=233200071075&region=0&sub_region=0&type=429",
@@ -2802,17 +2802,17 @@ export const duma_2003_uik_428_region_33_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бодров Дмитрий Алексеевич": 54,
-      "Гусев Анатолий Алексеевич": 18,
-      "Заморин Олег Константинович": 25,
-      "Котров Олег Владимирович": 132,
-      "Кузин Валерий Алексеевич": 6,
-      "Мельков Вадим Алексеевич": 18,
-      "Паутов Виктор Николаевич": 277,
-      "Трифонов Игорь Иванович": 6,
-      "Черторицкая Татьяна Владимировна": 17,
-      "Шубников Игорь Павлович": 6,
-      "Против всех": 103
+      "gas:candidate-vibid:1001000136042": 54,
+      "gas:candidate-vibid:1001000113923": 18,
+      "gas:candidate-vibid:333300270576": 25,
+      "gas:candidate-vibid:1001000225929": 132,
+      "gas:candidate-vibid:333300270566": 6,
+      "gas:candidate-vibid:1001000190335": 18,
+      "gas:candidate-vibid:333300270371": 277,
+      "gas:candidate-vibid:333300270581": 6,
+      "gas:candidate-vibid:333300270563": 17,
+      "gas:candidate-vibid:1001000202298": 6,
+      "special:against-all": 103
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=332000048&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=233200071075&region=0&sub_region=0&type=429",
@@ -2862,17 +2862,17 @@ export const duma_2003_uik_428_region_33_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бодров Дмитрий Алексеевич": 41,
-      "Гусев Анатолий Алексеевич": 12,
-      "Заморин Олег Константинович": 63,
-      "Котров Олег Владимирович": 218,
-      "Кузин Валерий Алексеевич": 5,
-      "Мельков Вадим Алексеевич": 27,
-      "Паутов Виктор Николаевич": 377,
-      "Трифонов Игорь Иванович": 9,
-      "Черторицкая Татьяна Владимировна": 14,
-      "Шубников Игорь Павлович": 8,
-      "Против всех": 127
+      "gas:candidate-vibid:1001000136042": 41,
+      "gas:candidate-vibid:1001000113923": 12,
+      "gas:candidate-vibid:333300270576": 63,
+      "gas:candidate-vibid:1001000225929": 218,
+      "gas:candidate-vibid:333300270566": 5,
+      "gas:candidate-vibid:1001000190335": 27,
+      "gas:candidate-vibid:333300270371": 377,
+      "gas:candidate-vibid:333300270581": 9,
+      "gas:candidate-vibid:333300270563": 14,
+      "gas:candidate-vibid:1001000202298": 8,
+      "special:against-all": 127
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=332000048&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=233200071075&region=0&sub_region=0&type=429",
@@ -2922,17 +2922,17 @@ export const duma_2003_uik_428_region_33_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бодров Дмитрий Алексеевич": 37,
-      "Гусев Анатолий Алексеевич": 22,
-      "Заморин Олег Константинович": 48,
-      "Котров Олег Владимирович": 188,
-      "Кузин Валерий Алексеевич": 3,
-      "Мельков Вадим Алексеевич": 41,
-      "Паутов Виктор Николаевич": 346,
-      "Трифонов Игорь Иванович": 7,
-      "Черторицкая Татьяна Владимировна": 13,
-      "Шубников Игорь Павлович": 13,
-      "Против всех": 110
+      "gas:candidate-vibid:1001000136042": 37,
+      "gas:candidate-vibid:1001000113923": 22,
+      "gas:candidate-vibid:333300270576": 48,
+      "gas:candidate-vibid:1001000225929": 188,
+      "gas:candidate-vibid:333300270566": 3,
+      "gas:candidate-vibid:1001000190335": 41,
+      "gas:candidate-vibid:333300270371": 346,
+      "gas:candidate-vibid:333300270581": 7,
+      "gas:candidate-vibid:333300270563": 13,
+      "gas:candidate-vibid:1001000202298": 13,
+      "special:against-all": 110
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=332000048&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=233200071075&region=0&sub_region=0&type=429",
@@ -2982,17 +2982,17 @@ export const duma_2003_uik_428_region_33_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бодров Дмитрий Алексеевич": 61,
-      "Гусев Анатолий Алексеевич": 24,
-      "Заморин Олег Константинович": 69,
-      "Котров Олег Владимирович": 276,
-      "Кузин Валерий Алексеевич": 7,
-      "Мельков Вадим Алексеевич": 27,
-      "Паутов Виктор Николаевич": 547,
-      "Трифонов Игорь Иванович": 14,
-      "Черторицкая Татьяна Владимировна": 20,
-      "Шубников Игорь Павлович": 14,
-      "Против всех": 120
+      "gas:candidate-vibid:1001000136042": 61,
+      "gas:candidate-vibid:1001000113923": 24,
+      "gas:candidate-vibid:333300270576": 69,
+      "gas:candidate-vibid:1001000225929": 276,
+      "gas:candidate-vibid:333300270566": 7,
+      "gas:candidate-vibid:1001000190335": 27,
+      "gas:candidate-vibid:333300270371": 547,
+      "gas:candidate-vibid:333300270581": 14,
+      "gas:candidate-vibid:333300270563": 20,
+      "gas:candidate-vibid:1001000202298": 14,
+      "special:against-all": 120
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=332000048&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=233200071075&region=0&sub_region=0&type=429",
@@ -3042,17 +3042,17 @@ export const duma_2003_uik_428_region_33_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бодров Дмитрий Алексеевич": 59,
-      "Гусев Анатолий Алексеевич": 29,
-      "Заморин Олег Константинович": 64,
-      "Котров Олег Владимирович": 281,
-      "Кузин Валерий Алексеевич": 5,
-      "Мельков Вадим Алексеевич": 32,
-      "Паутов Виктор Николаевич": 517,
-      "Трифонов Игорь Иванович": 19,
-      "Черторицкая Татьяна Владимировна": 16,
-      "Шубников Игорь Павлович": 16,
-      "Против всех": 186
+      "gas:candidate-vibid:1001000136042": 59,
+      "gas:candidate-vibid:1001000113923": 29,
+      "gas:candidate-vibid:333300270576": 64,
+      "gas:candidate-vibid:1001000225929": 281,
+      "gas:candidate-vibid:333300270566": 5,
+      "gas:candidate-vibid:1001000190335": 32,
+      "gas:candidate-vibid:333300270371": 517,
+      "gas:candidate-vibid:333300270581": 19,
+      "gas:candidate-vibid:333300270563": 16,
+      "gas:candidate-vibid:1001000202298": 16,
+      "special:against-all": 186
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=332000048&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=233200071075&region=0&sub_region=0&type=429",
@@ -3102,17 +3102,17 @@ export const duma_2003_uik_428_region_33_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бодров Дмитрий Алексеевич": 73,
-      "Гусев Анатолий Алексеевич": 25,
-      "Заморин Олег Константинович": 68,
-      "Котров Олег Владимирович": 269,
-      "Кузин Валерий Алексеевич": 2,
-      "Мельков Вадим Алексеевич": 39,
-      "Паутов Виктор Николаевич": 498,
-      "Трифонов Игорь Иванович": 6,
-      "Черторицкая Татьяна Владимировна": 25,
-      "Шубников Игорь Павлович": 15,
-      "Против всех": 159
+      "gas:candidate-vibid:1001000136042": 73,
+      "gas:candidate-vibid:1001000113923": 25,
+      "gas:candidate-vibid:333300270576": 68,
+      "gas:candidate-vibid:1001000225929": 269,
+      "gas:candidate-vibid:333300270566": 2,
+      "gas:candidate-vibid:1001000190335": 39,
+      "gas:candidate-vibid:333300270371": 498,
+      "gas:candidate-vibid:333300270581": 6,
+      "gas:candidate-vibid:333300270563": 25,
+      "gas:candidate-vibid:1001000202298": 15,
+      "special:against-all": 159
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=332000048&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=233200071075&region=0&sub_region=0&type=429",
@@ -3162,17 +3162,17 @@ export const duma_2003_uik_428_region_33_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бодров Дмитрий Алексеевич": 18,
-      "Гусев Анатолий Алексеевич": 22,
-      "Заморин Олег Константинович": 19,
-      "Котров Олег Владимирович": 93,
-      "Кузин Валерий Алексеевич": 2,
-      "Мельков Вадим Алексеевич": 31,
-      "Паутов Виктор Николаевич": 216,
-      "Трифонов Игорь Иванович": 5,
-      "Черторицкая Татьяна Владимировна": 19,
-      "Шубников Игорь Павлович": 3,
-      "Против всех": 71
+      "gas:candidate-vibid:1001000136042": 18,
+      "gas:candidate-vibid:1001000113923": 22,
+      "gas:candidate-vibid:333300270576": 19,
+      "gas:candidate-vibid:1001000225929": 93,
+      "gas:candidate-vibid:333300270566": 2,
+      "gas:candidate-vibid:1001000190335": 31,
+      "gas:candidate-vibid:333300270371": 216,
+      "gas:candidate-vibid:333300270581": 5,
+      "gas:candidate-vibid:333300270563": 19,
+      "gas:candidate-vibid:1001000202298": 3,
+      "special:against-all": 71
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=332000048&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=233200071075&region=0&sub_region=0&type=429",
@@ -3222,17 +3222,17 @@ export const duma_2003_uik_428_region_33_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бодров Дмитрий Алексеевич": 37,
-      "Гусев Анатолий Алексеевич": 14,
-      "Заморин Олег Константинович": 21,
-      "Котров Олег Владимирович": 180,
-      "Кузин Валерий Алексеевич": 4,
-      "Мельков Вадим Алексеевич": 40,
-      "Паутов Виктор Николаевич": 307,
-      "Трифонов Игорь Иванович": 4,
-      "Черторицкая Татьяна Владимировна": 10,
-      "Шубников Игорь Павлович": 7,
-      "Против всех": 73
+      "gas:candidate-vibid:1001000136042": 37,
+      "gas:candidate-vibid:1001000113923": 14,
+      "gas:candidate-vibid:333300270576": 21,
+      "gas:candidate-vibid:1001000225929": 180,
+      "gas:candidate-vibid:333300270566": 4,
+      "gas:candidate-vibid:1001000190335": 40,
+      "gas:candidate-vibid:333300270371": 307,
+      "gas:candidate-vibid:333300270581": 4,
+      "gas:candidate-vibid:333300270563": 10,
+      "gas:candidate-vibid:1001000202298": 7,
+      "special:against-all": 73
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=332000048&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=233200071075&region=0&sub_region=0&type=429",
@@ -3282,17 +3282,17 @@ export const duma_2003_uik_428_region_33_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бодров Дмитрий Алексеевич": 41,
-      "Гусев Анатолий Алексеевич": 20,
-      "Заморин Олег Константинович": 54,
-      "Котров Олег Владимирович": 145,
-      "Кузин Валерий Алексеевич": 6,
-      "Мельков Вадим Алексеевич": 33,
-      "Паутов Виктор Николаевич": 299,
-      "Трифонов Игорь Иванович": 7,
-      "Черторицкая Татьяна Владимировна": 14,
-      "Шубников Игорь Павлович": 9,
-      "Против всех": 105
+      "gas:candidate-vibid:1001000136042": 41,
+      "gas:candidate-vibid:1001000113923": 20,
+      "gas:candidate-vibid:333300270576": 54,
+      "gas:candidate-vibid:1001000225929": 145,
+      "gas:candidate-vibid:333300270566": 6,
+      "gas:candidate-vibid:1001000190335": 33,
+      "gas:candidate-vibid:333300270371": 299,
+      "gas:candidate-vibid:333300270581": 7,
+      "gas:candidate-vibid:333300270563": 14,
+      "gas:candidate-vibid:1001000202298": 9,
+      "special:against-all": 105
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=332000048&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=233200071075&region=0&sub_region=0&type=429",
@@ -3342,17 +3342,17 @@ export const duma_2003_uik_428_region_33_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бодров Дмитрий Алексеевич": 46,
-      "Гусев Анатолий Алексеевич": 39,
-      "Заморин Олег Константинович": 70,
-      "Котров Олег Владимирович": 211,
-      "Кузин Валерий Алексеевич": 3,
-      "Мельков Вадим Алексеевич": 39,
-      "Паутов Виктор Николаевич": 423,
-      "Трифонов Игорь Иванович": 10,
-      "Черторицкая Татьяна Владимировна": 28,
-      "Шубников Игорь Павлович": 11,
-      "Против всех": 125
+      "gas:candidate-vibid:1001000136042": 46,
+      "gas:candidate-vibid:1001000113923": 39,
+      "gas:candidate-vibid:333300270576": 70,
+      "gas:candidate-vibid:1001000225929": 211,
+      "gas:candidate-vibid:333300270566": 3,
+      "gas:candidate-vibid:1001000190335": 39,
+      "gas:candidate-vibid:333300270371": 423,
+      "gas:candidate-vibid:333300270581": 10,
+      "gas:candidate-vibid:333300270563": 28,
+      "gas:candidate-vibid:1001000202298": 11,
+      "special:against-all": 125
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=332000048&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=233200071075&region=0&sub_region=0&type=429",
@@ -3402,17 +3402,17 @@ export const duma_2003_uik_428_region_33_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бодров Дмитрий Алексеевич": 51,
-      "Гусев Анатолий Алексеевич": 26,
-      "Заморин Олег Константинович": 30,
-      "Котров Олег Владимирович": 214,
-      "Кузин Валерий Алексеевич": 1,
-      "Мельков Вадим Алексеевич": 43,
-      "Паутов Виктор Николаевич": 340,
-      "Трифонов Игорь Иванович": 4,
-      "Черторицкая Татьяна Владимировна": 14,
-      "Шубников Игорь Павлович": 11,
-      "Против всех": 142
+      "gas:candidate-vibid:1001000136042": 51,
+      "gas:candidate-vibid:1001000113923": 26,
+      "gas:candidate-vibid:333300270576": 30,
+      "gas:candidate-vibid:1001000225929": 214,
+      "gas:candidate-vibid:333300270566": 1,
+      "gas:candidate-vibid:1001000190335": 43,
+      "gas:candidate-vibid:333300270371": 340,
+      "gas:candidate-vibid:333300270581": 4,
+      "gas:candidate-vibid:333300270563": 14,
+      "gas:candidate-vibid:1001000202298": 11,
+      "special:against-all": 142
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=332000048&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=233200071075&region=0&sub_region=0&type=429",
@@ -3462,17 +3462,17 @@ export const duma_2003_uik_428_region_33_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бодров Дмитрий Алексеевич": 69,
-      "Гусев Анатолий Алексеевич": 28,
-      "Заморин Олег Константинович": 60,
-      "Котров Олег Владимирович": 228,
-      "Кузин Валерий Алексеевич": 3,
-      "Мельков Вадим Алексеевич": 90,
-      "Паутов Виктор Николаевич": 478,
-      "Трифонов Игорь Иванович": 10,
-      "Черторицкая Татьяна Владимировна": 24,
-      "Шубников Игорь Павлович": 13,
-      "Против всех": 145
+      "gas:candidate-vibid:1001000136042": 69,
+      "gas:candidate-vibid:1001000113923": 28,
+      "gas:candidate-vibid:333300270576": 60,
+      "gas:candidate-vibid:1001000225929": 228,
+      "gas:candidate-vibid:333300270566": 3,
+      "gas:candidate-vibid:1001000190335": 90,
+      "gas:candidate-vibid:333300270371": 478,
+      "gas:candidate-vibid:333300270581": 10,
+      "gas:candidate-vibid:333300270563": 24,
+      "gas:candidate-vibid:1001000202298": 13,
+      "special:against-all": 145
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=332000048&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=233200071075&region=0&sub_region=0&type=429",
@@ -3522,17 +3522,17 @@ export const duma_2003_uik_428_region_33_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бодров Дмитрий Алексеевич": 64,
-      "Гусев Анатолий Алексеевич": 48,
-      "Заморин Олег Константинович": 68,
-      "Котров Олег Владимирович": 228,
-      "Кузин Валерий Алексеевич": 9,
-      "Мельков Вадим Алексеевич": 71,
-      "Паутов Виктор Николаевич": 522,
-      "Трифонов Игорь Иванович": 13,
-      "Черторицкая Татьяна Владимировна": 25,
-      "Шубников Игорь Павлович": 8,
-      "Против всех": 218
+      "gas:candidate-vibid:1001000136042": 64,
+      "gas:candidate-vibid:1001000113923": 48,
+      "gas:candidate-vibid:333300270576": 68,
+      "gas:candidate-vibid:1001000225929": 228,
+      "gas:candidate-vibid:333300270566": 9,
+      "gas:candidate-vibid:1001000190335": 71,
+      "gas:candidate-vibid:333300270371": 522,
+      "gas:candidate-vibid:333300270581": 13,
+      "gas:candidate-vibid:333300270563": 25,
+      "gas:candidate-vibid:1001000202298": 8,
+      "special:against-all": 218
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=332000048&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=233200071075&region=0&sub_region=0&type=429",
@@ -3582,17 +3582,17 @@ export const duma_2003_uik_428_region_33_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бодров Дмитрий Алексеевич": 55,
-      "Гусев Анатолий Алексеевич": 29,
-      "Заморин Олег Константинович": 52,
-      "Котров Олег Владимирович": 241,
-      "Кузин Валерий Алексеевич": 2,
-      "Мельков Вадим Алексеевич": 54,
-      "Паутов Виктор Николаевич": 394,
-      "Трифонов Игорь Иванович": 13,
-      "Черторицкая Татьяна Владимировна": 25,
-      "Шубников Игорь Павлович": 14,
-      "Против всех": 127
+      "gas:candidate-vibid:1001000136042": 55,
+      "gas:candidate-vibid:1001000113923": 29,
+      "gas:candidate-vibid:333300270576": 52,
+      "gas:candidate-vibid:1001000225929": 241,
+      "gas:candidate-vibid:333300270566": 2,
+      "gas:candidate-vibid:1001000190335": 54,
+      "gas:candidate-vibid:333300270371": 394,
+      "gas:candidate-vibid:333300270581": 13,
+      "gas:candidate-vibid:333300270563": 25,
+      "gas:candidate-vibid:1001000202298": 14,
+      "special:against-all": 127
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=332000048&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=233200071075&region=0&sub_region=0&type=429",
@@ -3642,17 +3642,17 @@ export const duma_2003_uik_428_region_33_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бодров Дмитрий Алексеевич": 67,
-      "Гусев Анатолий Алексеевич": 44,
-      "Заморин Олег Константинович": 45,
-      "Котров Олег Владимирович": 253,
-      "Кузин Валерий Алексеевич": 3,
-      "Мельков Вадим Алексеевич": 97,
-      "Паутов Виктор Николаевич": 441,
-      "Трифонов Игорь Иванович": 8,
-      "Черторицкая Татьяна Владимировна": 43,
-      "Шубников Игорь Павлович": 9,
-      "Против всех": 162
+      "gas:candidate-vibid:1001000136042": 67,
+      "gas:candidate-vibid:1001000113923": 44,
+      "gas:candidate-vibid:333300270576": 45,
+      "gas:candidate-vibid:1001000225929": 253,
+      "gas:candidate-vibid:333300270566": 3,
+      "gas:candidate-vibid:1001000190335": 97,
+      "gas:candidate-vibid:333300270371": 441,
+      "gas:candidate-vibid:333300270581": 8,
+      "gas:candidate-vibid:333300270563": 43,
+      "gas:candidate-vibid:1001000202298": 9,
+      "special:against-all": 162
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=332000048&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=233200071075&region=0&sub_region=0&type=429",
@@ -3702,17 +3702,17 @@ export const duma_2003_uik_428_region_33_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бодров Дмитрий Алексеевич": 42,
-      "Гусев Анатолий Алексеевич": 44,
-      "Заморин Олег Константинович": 27,
-      "Котров Олег Владимирович": 206,
-      "Кузин Валерий Алексеевич": 8,
-      "Мельков Вадим Алексеевич": 50,
-      "Паутов Виктор Николаевич": 459,
-      "Трифонов Игорь Иванович": 12,
-      "Черторицкая Татьяна Владимировна": 25,
-      "Шубников Игорь Павлович": 11,
-      "Против всех": 139
+      "gas:candidate-vibid:1001000136042": 42,
+      "gas:candidate-vibid:1001000113923": 44,
+      "gas:candidate-vibid:333300270576": 27,
+      "gas:candidate-vibid:1001000225929": 206,
+      "gas:candidate-vibid:333300270566": 8,
+      "gas:candidate-vibid:1001000190335": 50,
+      "gas:candidate-vibid:333300270371": 459,
+      "gas:candidate-vibid:333300270581": 12,
+      "gas:candidate-vibid:333300270563": 25,
+      "gas:candidate-vibid:1001000202298": 11,
+      "special:against-all": 139
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=332000048&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=233200071075&region=0&sub_region=0&type=429",
@@ -3762,17 +3762,17 @@ export const duma_2003_uik_428_region_33_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бодров Дмитрий Алексеевич": 41,
-      "Гусев Анатолий Алексеевич": 26,
-      "Заморин Олег Константинович": 57,
-      "Котров Олег Владимирович": 189,
-      "Кузин Валерий Алексеевич": 3,
-      "Мельков Вадим Алексеевич": 44,
-      "Паутов Виктор Николаевич": 360,
-      "Трифонов Игорь Иванович": 14,
-      "Черторицкая Татьяна Владимировна": 11,
-      "Шубников Игорь Павлович": 7,
-      "Против всех": 116
+      "gas:candidate-vibid:1001000136042": 41,
+      "gas:candidate-vibid:1001000113923": 26,
+      "gas:candidate-vibid:333300270576": 57,
+      "gas:candidate-vibid:1001000225929": 189,
+      "gas:candidate-vibid:333300270566": 3,
+      "gas:candidate-vibid:1001000190335": 44,
+      "gas:candidate-vibid:333300270371": 360,
+      "gas:candidate-vibid:333300270581": 14,
+      "gas:candidate-vibid:333300270563": 11,
+      "gas:candidate-vibid:1001000202298": 7,
+      "special:against-all": 116
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=332000048&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=233200071075&region=0&sub_region=0&type=429",
@@ -3822,17 +3822,17 @@ export const duma_2003_uik_428_region_33_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бодров Дмитрий Алексеевич": 70,
-      "Гусев Анатолий Алексеевич": 37,
-      "Заморин Олег Константинович": 61,
-      "Котров Олег Владимирович": 273,
-      "Кузин Валерий Алексеевич": 8,
-      "Мельков Вадим Алексеевич": 83,
-      "Паутов Виктор Николаевич": 472,
-      "Трифонов Игорь Иванович": 21,
-      "Черторицкая Татьяна Владимировна": 26,
-      "Шубников Игорь Павлович": 11,
-      "Против всех": 173
+      "gas:candidate-vibid:1001000136042": 70,
+      "gas:candidate-vibid:1001000113923": 37,
+      "gas:candidate-vibid:333300270576": 61,
+      "gas:candidate-vibid:1001000225929": 273,
+      "gas:candidate-vibid:333300270566": 8,
+      "gas:candidate-vibid:1001000190335": 83,
+      "gas:candidate-vibid:333300270371": 472,
+      "gas:candidate-vibid:333300270581": 21,
+      "gas:candidate-vibid:333300270563": 26,
+      "gas:candidate-vibid:1001000202298": 11,
+      "special:against-all": 173
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=332000048&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=233200071075&region=0&sub_region=0&type=429",
@@ -3882,17 +3882,17 @@ export const duma_2003_uik_428_region_33_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бодров Дмитрий Алексеевич": 50,
-      "Гусев Анатолий Алексеевич": 35,
-      "Заморин Олег Константинович": 44,
-      "Котров Олег Владимирович": 206,
-      "Кузин Валерий Алексеевич": 2,
-      "Мельков Вадим Алексеевич": 42,
-      "Паутов Виктор Николаевич": 377,
-      "Трифонов Игорь Иванович": 9,
-      "Черторицкая Татьяна Владимировна": 28,
-      "Шубников Игорь Павлович": 6,
-      "Против всех": 121
+      "gas:candidate-vibid:1001000136042": 50,
+      "gas:candidate-vibid:1001000113923": 35,
+      "gas:candidate-vibid:333300270576": 44,
+      "gas:candidate-vibid:1001000225929": 206,
+      "gas:candidate-vibid:333300270566": 2,
+      "gas:candidate-vibid:1001000190335": 42,
+      "gas:candidate-vibid:333300270371": 377,
+      "gas:candidate-vibid:333300270581": 9,
+      "gas:candidate-vibid:333300270563": 28,
+      "gas:candidate-vibid:1001000202298": 6,
+      "special:against-all": 121
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=332000048&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=233200071075&region=0&sub_region=0&type=429",
@@ -3942,17 +3942,17 @@ export const duma_2003_uik_428_region_33_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бодров Дмитрий Алексеевич": 55,
-      "Гусев Анатолий Алексеевич": 25,
-      "Заморин Олег Константинович": 28,
-      "Котров Олег Владимирович": 250,
-      "Кузин Валерий Алексеевич": 9,
-      "Мельков Вадим Алексеевич": 43,
-      "Паутов Виктор Николаевич": 420,
-      "Трифонов Игорь Иванович": 18,
-      "Черторицкая Татьяна Владимировна": 31,
-      "Шубников Игорь Павлович": 13,
-      "Против всех": 121
+      "gas:candidate-vibid:1001000136042": 55,
+      "gas:candidate-vibid:1001000113923": 25,
+      "gas:candidate-vibid:333300270576": 28,
+      "gas:candidate-vibid:1001000225929": 250,
+      "gas:candidate-vibid:333300270566": 9,
+      "gas:candidate-vibid:1001000190335": 43,
+      "gas:candidate-vibid:333300270371": 420,
+      "gas:candidate-vibid:333300270581": 18,
+      "gas:candidate-vibid:333300270563": 31,
+      "gas:candidate-vibid:1001000202298": 13,
+      "special:against-all": 121
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=332000048&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=233200071075&region=0&sub_region=0&type=429",
@@ -4002,17 +4002,17 @@ export const duma_2003_uik_428_region_33_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бодров Дмитрий Алексеевич": 33,
-      "Гусев Анатолий Алексеевич": 23,
-      "Заморин Олег Константинович": 23,
-      "Котров Олег Владимирович": 143,
-      "Кузин Валерий Алексеевич": 0,
-      "Мельков Вадим Алексеевич": 46,
-      "Паутов Виктор Николаевич": 343,
-      "Трифонов Игорь Иванович": 1,
-      "Черторицкая Татьяна Владимировна": 20,
-      "Шубников Игорь Павлович": 9,
-      "Против всех": 93
+      "gas:candidate-vibid:1001000136042": 33,
+      "gas:candidate-vibid:1001000113923": 23,
+      "gas:candidate-vibid:333300270576": 23,
+      "gas:candidate-vibid:1001000225929": 143,
+      "gas:candidate-vibid:333300270566": 0,
+      "gas:candidate-vibid:1001000190335": 46,
+      "gas:candidate-vibid:333300270371": 343,
+      "gas:candidate-vibid:333300270581": 1,
+      "gas:candidate-vibid:333300270563": 20,
+      "gas:candidate-vibid:1001000202298": 9,
+      "special:against-all": 93
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=332000048&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=233200071075&region=0&sub_region=0&type=429",
@@ -4062,17 +4062,17 @@ export const duma_2003_uik_428_region_33_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бодров Дмитрий Алексеевич": 26,
-      "Гусев Анатолий Алексеевич": 7,
-      "Заморин Олег Константинович": 9,
-      "Котров Олег Владимирович": 48,
-      "Кузин Валерий Алексеевич": 1,
-      "Мельков Вадим Алексеевич": 34,
-      "Паутов Виктор Николаевич": 164,
-      "Трифонов Игорь Иванович": 2,
-      "Черторицкая Татьяна Владимировна": 11,
-      "Шубников Игорь Павлович": 11,
-      "Против всех": 66
+      "gas:candidate-vibid:1001000136042": 26,
+      "gas:candidate-vibid:1001000113923": 7,
+      "gas:candidate-vibid:333300270576": 9,
+      "gas:candidate-vibid:1001000225929": 48,
+      "gas:candidate-vibid:333300270566": 1,
+      "gas:candidate-vibid:1001000190335": 34,
+      "gas:candidate-vibid:333300270371": 164,
+      "gas:candidate-vibid:333300270581": 2,
+      "gas:candidate-vibid:333300270563": 11,
+      "gas:candidate-vibid:1001000202298": 11,
+      "special:against-all": 66
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=332000048&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=233200071075&region=0&sub_region=0&type=429",
@@ -4122,17 +4122,17 @@ export const duma_2003_uik_428_region_33_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бодров Дмитрий Алексеевич": 33,
-      "Гусев Анатолий Алексеевич": 22,
-      "Заморин Олег Константинович": 41,
-      "Котров Олег Владимирович": 158,
-      "Кузин Валерий Алексеевич": 9,
-      "Мельков Вадим Алексеевич": 31,
-      "Паутов Виктор Николаевич": 432,
-      "Трифонов Игорь Иванович": 10,
-      "Черторицкая Татьяна Владимировна": 22,
-      "Шубников Игорь Павлович": 9,
-      "Против всех": 114
+      "gas:candidate-vibid:1001000136042": 33,
+      "gas:candidate-vibid:1001000113923": 22,
+      "gas:candidate-vibid:333300270576": 41,
+      "gas:candidate-vibid:1001000225929": 158,
+      "gas:candidate-vibid:333300270566": 9,
+      "gas:candidate-vibid:1001000190335": 31,
+      "gas:candidate-vibid:333300270371": 432,
+      "gas:candidate-vibid:333300270581": 10,
+      "gas:candidate-vibid:333300270563": 22,
+      "gas:candidate-vibid:1001000202298": 9,
+      "special:against-all": 114
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=332000048&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=233200071075&region=0&sub_region=0&type=429",
@@ -4182,17 +4182,17 @@ export const duma_2003_uik_428_region_33_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бодров Дмитрий Алексеевич": 61,
-      "Гусев Анатолий Алексеевич": 54,
-      "Заморин Олег Константинович": 56,
-      "Котров Олег Владимирович": 255,
-      "Кузин Валерий Алексеевич": 4,
-      "Мельков Вадим Алексеевич": 56,
-      "Паутов Виктор Николаевич": 460,
-      "Трифонов Игорь Иванович": 17,
-      "Черторицкая Татьяна Владимировна": 27,
-      "Шубников Игорь Павлович": 9,
-      "Против всех": 153
+      "gas:candidate-vibid:1001000136042": 61,
+      "gas:candidate-vibid:1001000113923": 54,
+      "gas:candidate-vibid:333300270576": 56,
+      "gas:candidate-vibid:1001000225929": 255,
+      "gas:candidate-vibid:333300270566": 4,
+      "gas:candidate-vibid:1001000190335": 56,
+      "gas:candidate-vibid:333300270371": 460,
+      "gas:candidate-vibid:333300270581": 17,
+      "gas:candidate-vibid:333300270563": 27,
+      "gas:candidate-vibid:1001000202298": 9,
+      "special:against-all": 153
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=332000048&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=233200071075&region=0&sub_region=0&type=429",
@@ -4242,17 +4242,17 @@ export const duma_2003_uik_428_region_33_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бодров Дмитрий Алексеевич": 41,
-      "Гусев Анатолий Алексеевич": 13,
-      "Заморин Олег Константинович": 36,
-      "Котров Олег Владимирович": 130,
-      "Кузин Валерий Алексеевич": 4,
-      "Мельков Вадим Алексеевич": 70,
-      "Паутов Виктор Николаевич": 416,
-      "Трифонов Игорь Иванович": 7,
-      "Черторицкая Татьяна Владимировна": 17,
-      "Шубников Игорь Павлович": 4,
-      "Против всех": 92
+      "gas:candidate-vibid:1001000136042": 41,
+      "gas:candidate-vibid:1001000113923": 13,
+      "gas:candidate-vibid:333300270576": 36,
+      "gas:candidate-vibid:1001000225929": 130,
+      "gas:candidate-vibid:333300270566": 4,
+      "gas:candidate-vibid:1001000190335": 70,
+      "gas:candidate-vibid:333300270371": 416,
+      "gas:candidate-vibid:333300270581": 7,
+      "gas:candidate-vibid:333300270563": 17,
+      "gas:candidate-vibid:1001000202298": 4,
+      "special:against-all": 92
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=332000048&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=233200071075&region=0&sub_region=0&type=429",
@@ -4302,17 +4302,17 @@ export const duma_2003_uik_428_region_33_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бодров Дмитрий Алексеевич": 59,
-      "Гусев Анатолий Алексеевич": 32,
-      "Заморин Олег Константинович": 58,
-      "Котров Олег Владимирович": 286,
-      "Кузин Валерий Алексеевич": 3,
-      "Мельков Вадим Алексеевич": 35,
-      "Паутов Виктор Николаевич": 507,
-      "Трифонов Игорь Иванович": 14,
-      "Черторицкая Татьяна Владимировна": 19,
-      "Шубников Игорь Павлович": 15,
-      "Против всех": 144
+      "gas:candidate-vibid:1001000136042": 59,
+      "gas:candidate-vibid:1001000113923": 32,
+      "gas:candidate-vibid:333300270576": 58,
+      "gas:candidate-vibid:1001000225929": 286,
+      "gas:candidate-vibid:333300270566": 3,
+      "gas:candidate-vibid:1001000190335": 35,
+      "gas:candidate-vibid:333300270371": 507,
+      "gas:candidate-vibid:333300270581": 14,
+      "gas:candidate-vibid:333300270563": 19,
+      "gas:candidate-vibid:1001000202298": 15,
+      "special:against-all": 144
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=332000048&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=233200071075&region=0&sub_region=0&type=429",
@@ -4362,17 +4362,17 @@ export const duma_2003_uik_428_region_33_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бодров Дмитрий Алексеевич": 40,
-      "Гусев Анатолий Алексеевич": 9,
-      "Заморин Олег Константинович": 25,
-      "Котров Олег Владимирович": 215,
-      "Кузин Валерий Алексеевич": 4,
-      "Мельков Вадим Алексеевич": 40,
-      "Паутов Виктор Николаевич": 395,
-      "Трифонов Игорь Иванович": 6,
-      "Черторицкая Татьяна Владимировна": 20,
-      "Шубников Игорь Павлович": 7,
-      "Против всех": 131
+      "gas:candidate-vibid:1001000136042": 40,
+      "gas:candidate-vibid:1001000113923": 9,
+      "gas:candidate-vibid:333300270576": 25,
+      "gas:candidate-vibid:1001000225929": 215,
+      "gas:candidate-vibid:333300270566": 4,
+      "gas:candidate-vibid:1001000190335": 40,
+      "gas:candidate-vibid:333300270371": 395,
+      "gas:candidate-vibid:333300270581": 6,
+      "gas:candidate-vibid:333300270563": 20,
+      "gas:candidate-vibid:1001000202298": 7,
+      "special:against-all": 131
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=332000048&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=233200071075&region=0&sub_region=0&type=429",
@@ -4422,17 +4422,17 @@ export const duma_2003_uik_428_region_33_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бодров Дмитрий Алексеевич": 72,
-      "Гусев Анатолий Алексеевич": 46,
-      "Заморин Олег Константинович": 44,
-      "Котров Олег Владимирович": 290,
-      "Кузин Валерий Алексеевич": 0,
-      "Мельков Вадим Алексеевич": 55,
-      "Паутов Виктор Николаевич": 564,
-      "Трифонов Игорь Иванович": 11,
-      "Черторицкая Татьяна Владимировна": 45,
-      "Шубников Игорь Павлович": 11,
-      "Против всех": 165
+      "gas:candidate-vibid:1001000136042": 72,
+      "gas:candidate-vibid:1001000113923": 46,
+      "gas:candidate-vibid:333300270576": 44,
+      "gas:candidate-vibid:1001000225929": 290,
+      "gas:candidate-vibid:333300270566": 0,
+      "gas:candidate-vibid:1001000190335": 55,
+      "gas:candidate-vibid:333300270371": 564,
+      "gas:candidate-vibid:333300270581": 11,
+      "gas:candidate-vibid:333300270563": 45,
+      "gas:candidate-vibid:1001000202298": 11,
+      "special:against-all": 165
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=332000048&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=233200071075&region=0&sub_region=0&type=429",
@@ -4482,17 +4482,17 @@ export const duma_2003_uik_428_region_33_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бодров Дмитрий Алексеевич": 38,
-      "Гусев Анатолий Алексеевич": 21,
-      "Заморин Олег Константинович": 56,
-      "Котров Олег Владимирович": 228,
-      "Кузин Валерий Алексеевич": 2,
-      "Мельков Вадим Алексеевич": 37,
-      "Паутов Виктор Николаевич": 482,
-      "Трифонов Игорь Иванович": 11,
-      "Черторицкая Татьяна Владимировна": 23,
-      "Шубников Игорь Павлович": 7,
-      "Против всех": 129
+      "gas:candidate-vibid:1001000136042": 38,
+      "gas:candidate-vibid:1001000113923": 21,
+      "gas:candidate-vibid:333300270576": 56,
+      "gas:candidate-vibid:1001000225929": 228,
+      "gas:candidate-vibid:333300270566": 2,
+      "gas:candidate-vibid:1001000190335": 37,
+      "gas:candidate-vibid:333300270371": 482,
+      "gas:candidate-vibid:333300270581": 11,
+      "gas:candidate-vibid:333300270563": 23,
+      "gas:candidate-vibid:1001000202298": 7,
+      "special:against-all": 129
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=332000048&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=233200071075&region=0&sub_region=0&type=429",
@@ -4542,17 +4542,17 @@ export const duma_2003_uik_428_region_33_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бодров Дмитрий Алексеевич": 43,
-      "Гусев Анатолий Алексеевич": 30,
-      "Заморин Олег Константинович": 44,
-      "Котров Олег Владимирович": 219,
-      "Кузин Валерий Алексеевич": 0,
-      "Мельков Вадим Алексеевич": 36,
-      "Паутов Виктор Николаевич": 360,
-      "Трифонов Игорь Иванович": 9,
-      "Черторицкая Татьяна Владимировна": 36,
-      "Шубников Игорь Павлович": 8,
-      "Против всех": 111
+      "gas:candidate-vibid:1001000136042": 43,
+      "gas:candidate-vibid:1001000113923": 30,
+      "gas:candidate-vibid:333300270576": 44,
+      "gas:candidate-vibid:1001000225929": 219,
+      "gas:candidate-vibid:333300270566": 0,
+      "gas:candidate-vibid:1001000190335": 36,
+      "gas:candidate-vibid:333300270371": 360,
+      "gas:candidate-vibid:333300270581": 9,
+      "gas:candidate-vibid:333300270563": 36,
+      "gas:candidate-vibid:1001000202298": 8,
+      "special:against-all": 111
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=332000048&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=233200071075&region=0&sub_region=0&type=429",
@@ -4602,17 +4602,17 @@ export const duma_2003_uik_428_region_33_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бодров Дмитрий Алексеевич": 48,
-      "Гусев Анатолий Алексеевич": 27,
-      "Заморин Олег Константинович": 58,
-      "Котров Олег Владимирович": 240,
-      "Кузин Валерий Алексеевич": 4,
-      "Мельков Вадим Алексеевич": 46,
-      "Паутов Виктор Николаевич": 524,
-      "Трифонов Игорь Иванович": 11,
-      "Черторицкая Татьяна Владимировна": 23,
-      "Шубников Игорь Павлович": 12,
-      "Против всех": 130
+      "gas:candidate-vibid:1001000136042": 48,
+      "gas:candidate-vibid:1001000113923": 27,
+      "gas:candidate-vibid:333300270576": 58,
+      "gas:candidate-vibid:1001000225929": 240,
+      "gas:candidate-vibid:333300270566": 4,
+      "gas:candidate-vibid:1001000190335": 46,
+      "gas:candidate-vibid:333300270371": 524,
+      "gas:candidate-vibid:333300270581": 11,
+      "gas:candidate-vibid:333300270563": 23,
+      "gas:candidate-vibid:1001000202298": 12,
+      "special:against-all": 130
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=332000048&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=233200071075&region=0&sub_region=0&type=429",
@@ -4662,17 +4662,17 @@ export const duma_2003_uik_428_region_33_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бодров Дмитрий Алексеевич": 65,
-      "Гусев Анатолий Алексеевич": 42,
-      "Заморин Олег Константинович": 42,
-      "Котров Олег Владимирович": 381,
-      "Кузин Валерий Алексеевич": 4,
-      "Мельков Вадим Алексеевич": 48,
-      "Паутов Виктор Николаевич": 579,
-      "Трифонов Игорь Иванович": 17,
-      "Черторицкая Татьяна Владимировна": 38,
-      "Шубников Игорь Павлович": 28,
-      "Против всех": 173
+      "gas:candidate-vibid:1001000136042": 65,
+      "gas:candidate-vibid:1001000113923": 42,
+      "gas:candidate-vibid:333300270576": 42,
+      "gas:candidate-vibid:1001000225929": 381,
+      "gas:candidate-vibid:333300270566": 4,
+      "gas:candidate-vibid:1001000190335": 48,
+      "gas:candidate-vibid:333300270371": 579,
+      "gas:candidate-vibid:333300270581": 17,
+      "gas:candidate-vibid:333300270563": 38,
+      "gas:candidate-vibid:1001000202298": 28,
+      "special:against-all": 173
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=332000048&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=233200071075&region=0&sub_region=0&type=429",
@@ -4722,17 +4722,17 @@ export const duma_2003_uik_428_region_33_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бодров Дмитрий Алексеевич": 54,
-      "Гусев Анатолий Алексеевич": 31,
-      "Заморин Олег Константинович": 33,
-      "Котров Олег Владимирович": 278,
-      "Кузин Валерий Алексеевич": 0,
-      "Мельков Вадим Алексеевич": 52,
-      "Паутов Виктор Николаевич": 571,
-      "Трифонов Игорь Иванович": 11,
-      "Черторицкая Татьяна Владимировна": 15,
-      "Шубников Игорь Павлович": 24,
-      "Против всех": 142
+      "gas:candidate-vibid:1001000136042": 54,
+      "gas:candidate-vibid:1001000113923": 31,
+      "gas:candidate-vibid:333300270576": 33,
+      "gas:candidate-vibid:1001000225929": 278,
+      "gas:candidate-vibid:333300270566": 0,
+      "gas:candidate-vibid:1001000190335": 52,
+      "gas:candidate-vibid:333300270371": 571,
+      "gas:candidate-vibid:333300270581": 11,
+      "gas:candidate-vibid:333300270563": 15,
+      "gas:candidate-vibid:1001000202298": 24,
+      "special:against-all": 142
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=332000048&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=233200071075&region=0&sub_region=0&type=429",
@@ -4782,17 +4782,17 @@ export const duma_2003_uik_428_region_33_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бодров Дмитрий Алексеевич": 57,
-      "Гусев Анатолий Алексеевич": 23,
-      "Заморин Олег Константинович": 34,
-      "Котров Олег Владимирович": 266,
-      "Кузин Валерий Алексеевич": 7,
-      "Мельков Вадим Алексеевич": 38,
-      "Паутов Виктор Николаевич": 458,
-      "Трифонов Игорь Иванович": 11,
-      "Черторицкая Татьяна Владимировна": 28,
-      "Шубников Игорь Павлович": 20,
-      "Против всех": 139
+      "gas:candidate-vibid:1001000136042": 57,
+      "gas:candidate-vibid:1001000113923": 23,
+      "gas:candidate-vibid:333300270576": 34,
+      "gas:candidate-vibid:1001000225929": 266,
+      "gas:candidate-vibid:333300270566": 7,
+      "gas:candidate-vibid:1001000190335": 38,
+      "gas:candidate-vibid:333300270371": 458,
+      "gas:candidate-vibid:333300270581": 11,
+      "gas:candidate-vibid:333300270563": 28,
+      "gas:candidate-vibid:1001000202298": 20,
+      "special:against-all": 139
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=332000048&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=233200071075&region=0&sub_region=0&type=429",
@@ -4842,17 +4842,17 @@ export const duma_2003_uik_428_region_33_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бодров Дмитрий Алексеевич": 48,
-      "Гусев Анатолий Алексеевич": 27,
-      "Заморин Олег Константинович": 26,
-      "Котров Олег Владимирович": 229,
-      "Кузин Валерий Алексеевич": 1,
-      "Мельков Вадим Алексеевич": 44,
-      "Паутов Виктор Николаевич": 527,
-      "Трифонов Игорь Иванович": 13,
-      "Черторицкая Татьяна Владимировна": 32,
-      "Шубников Игорь Павлович": 26,
-      "Против всех": 144
+      "gas:candidate-vibid:1001000136042": 48,
+      "gas:candidate-vibid:1001000113923": 27,
+      "gas:candidate-vibid:333300270576": 26,
+      "gas:candidate-vibid:1001000225929": 229,
+      "gas:candidate-vibid:333300270566": 1,
+      "gas:candidate-vibid:1001000190335": 44,
+      "gas:candidate-vibid:333300270371": 527,
+      "gas:candidate-vibid:333300270581": 13,
+      "gas:candidate-vibid:333300270563": 32,
+      "gas:candidate-vibid:1001000202298": 26,
+      "special:against-all": 144
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=332000048&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=233200071075&region=0&sub_region=0&type=429",
@@ -4902,17 +4902,17 @@ export const duma_2003_uik_428_region_33_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бодров Дмитрий Алексеевич": 57,
-      "Гусев Анатолий Алексеевич": 27,
-      "Заморин Олег Константинович": 28,
-      "Котров Олег Владимирович": 248,
-      "Кузин Валерий Алексеевич": 6,
-      "Мельков Вадим Алексеевич": 41,
-      "Паутов Виктор Николаевич": 464,
-      "Трифонов Игорь Иванович": 15,
-      "Черторицкая Татьяна Владимировна": 21,
-      "Шубников Игорь Павлович": 16,
-      "Против всех": 119
+      "gas:candidate-vibid:1001000136042": 57,
+      "gas:candidate-vibid:1001000113923": 27,
+      "gas:candidate-vibid:333300270576": 28,
+      "gas:candidate-vibid:1001000225929": 248,
+      "gas:candidate-vibid:333300270566": 6,
+      "gas:candidate-vibid:1001000190335": 41,
+      "gas:candidate-vibid:333300270371": 464,
+      "gas:candidate-vibid:333300270581": 15,
+      "gas:candidate-vibid:333300270563": 21,
+      "gas:candidate-vibid:1001000202298": 16,
+      "special:against-all": 119
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=332000048&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=233200071075&region=0&sub_region=0&type=429",
@@ -4962,17 +4962,17 @@ export const duma_2003_uik_428_region_33_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бодров Дмитрий Алексеевич": 65,
-      "Гусев Анатолий Алексеевич": 24,
-      "Заморин Олег Константинович": 31,
-      "Котров Олег Владимирович": 244,
-      "Кузин Валерий Алексеевич": 4,
-      "Мельков Вадим Алексеевич": 55,
-      "Паутов Виктор Николаевич": 408,
-      "Трифонов Игорь Иванович": 8,
-      "Черторицкая Татьяна Владимировна": 28,
-      "Шубников Игорь Павлович": 11,
-      "Против всех": 135
+      "gas:candidate-vibid:1001000136042": 65,
+      "gas:candidate-vibid:1001000113923": 24,
+      "gas:candidate-vibid:333300270576": 31,
+      "gas:candidate-vibid:1001000225929": 244,
+      "gas:candidate-vibid:333300270566": 4,
+      "gas:candidate-vibid:1001000190335": 55,
+      "gas:candidate-vibid:333300270371": 408,
+      "gas:candidate-vibid:333300270581": 8,
+      "gas:candidate-vibid:333300270563": 28,
+      "gas:candidate-vibid:1001000202298": 11,
+      "special:against-all": 135
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=332000048&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=233200071075&region=0&sub_region=0&type=429",
@@ -5022,17 +5022,17 @@ export const duma_2003_uik_428_region_33_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бодров Дмитрий Алексеевич": 57,
-      "Гусев Анатолий Алексеевич": 22,
-      "Заморин Олег Константинович": 25,
-      "Котров Олег Владимирович": 264,
-      "Кузин Валерий Алексеевич": 4,
-      "Мельков Вадим Алексеевич": 43,
-      "Паутов Виктор Николаевич": 510,
-      "Трифонов Игорь Иванович": 6,
-      "Черторицкая Татьяна Владимировна": 27,
-      "Шубников Игорь Павлович": 14,
-      "Против всех": 137
+      "gas:candidate-vibid:1001000136042": 57,
+      "gas:candidate-vibid:1001000113923": 22,
+      "gas:candidate-vibid:333300270576": 25,
+      "gas:candidate-vibid:1001000225929": 264,
+      "gas:candidate-vibid:333300270566": 4,
+      "gas:candidate-vibid:1001000190335": 43,
+      "gas:candidate-vibid:333300270371": 510,
+      "gas:candidate-vibid:333300270581": 6,
+      "gas:candidate-vibid:333300270563": 27,
+      "gas:candidate-vibid:1001000202298": 14,
+      "special:against-all": 137
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=332000048&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=233200071075&region=0&sub_region=0&type=429",
@@ -5082,17 +5082,17 @@ export const duma_2003_uik_428_region_33_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бодров Дмитрий Алексеевич": 50,
-      "Гусев Анатолий Алексеевич": 17,
-      "Заморин Олег Константинович": 29,
-      "Котров Олег Владимирович": 188,
-      "Кузин Валерий Алексеевич": 0,
-      "Мельков Вадим Алексеевич": 42,
-      "Паутов Виктор Николаевич": 319,
-      "Трифонов Игорь Иванович": 10,
-      "Черторицкая Татьяна Владимировна": 18,
-      "Шубников Игорь Павлович": 13,
-      "Против всех": 80
+      "gas:candidate-vibid:1001000136042": 50,
+      "gas:candidate-vibid:1001000113923": 17,
+      "gas:candidate-vibid:333300270576": 29,
+      "gas:candidate-vibid:1001000225929": 188,
+      "gas:candidate-vibid:333300270566": 0,
+      "gas:candidate-vibid:1001000190335": 42,
+      "gas:candidate-vibid:333300270371": 319,
+      "gas:candidate-vibid:333300270581": 10,
+      "gas:candidate-vibid:333300270563": 18,
+      "gas:candidate-vibid:1001000202298": 13,
+      "special:against-all": 80
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=332000048&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=233200071075&region=0&sub_region=0&type=429",
@@ -5142,17 +5142,17 @@ export const duma_2003_uik_428_region_33_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бодров Дмитрий Алексеевич": 59,
-      "Гусев Анатолий Алексеевич": 29,
-      "Заморин Олег Константинович": 31,
-      "Котров Олег Владимирович": 192,
-      "Кузин Валерий Алексеевич": 6,
-      "Мельков Вадим Алексеевич": 41,
-      "Паутов Виктор Николаевич": 291,
-      "Трифонов Игорь Иванович": 11,
-      "Черторицкая Татьяна Владимировна": 14,
-      "Шубников Игорь Павлович": 18,
-      "Против всех": 175
+      "gas:candidate-vibid:1001000136042": 59,
+      "gas:candidate-vibid:1001000113923": 29,
+      "gas:candidate-vibid:333300270576": 31,
+      "gas:candidate-vibid:1001000225929": 192,
+      "gas:candidate-vibid:333300270566": 6,
+      "gas:candidate-vibid:1001000190335": 41,
+      "gas:candidate-vibid:333300270371": 291,
+      "gas:candidate-vibid:333300270581": 11,
+      "gas:candidate-vibid:333300270563": 14,
+      "gas:candidate-vibid:1001000202298": 18,
+      "special:against-all": 175
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=332000048&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=233200071075&region=0&sub_region=0&type=429",
@@ -5202,17 +5202,17 @@ export const duma_2003_uik_428_region_33_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бодров Дмитрий Алексеевич": 51,
-      "Гусев Анатолий Алексеевич": 9,
-      "Заморин Олег Константинович": 63,
-      "Котров Олег Владимирович": 198,
-      "Кузин Валерий Алексеевич": 3,
-      "Мельков Вадим Алексеевич": 17,
-      "Паутов Виктор Николаевич": 473,
-      "Трифонов Игорь Иванович": 7,
-      "Черторицкая Татьяна Владимировна": 14,
-      "Шубников Игорь Павлович": 6,
-      "Против всех": 142
+      "gas:candidate-vibid:1001000136042": 51,
+      "gas:candidate-vibid:1001000113923": 9,
+      "gas:candidate-vibid:333300270576": 63,
+      "gas:candidate-vibid:1001000225929": 198,
+      "gas:candidate-vibid:333300270566": 3,
+      "gas:candidate-vibid:1001000190335": 17,
+      "gas:candidate-vibid:333300270371": 473,
+      "gas:candidate-vibid:333300270581": 7,
+      "gas:candidate-vibid:333300270563": 14,
+      "gas:candidate-vibid:1001000202298": 6,
+      "special:against-all": 142
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=332000048&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=233200071075&region=0&sub_region=0&type=429",
@@ -5262,17 +5262,17 @@ export const duma_2003_uik_428_region_33_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бодров Дмитрий Алексеевич": 48,
-      "Гусев Анатолий Алексеевич": 34,
-      "Заморин Олег Константинович": 61,
-      "Котров Олег Владимирович": 220,
-      "Кузин Валерий Алексеевич": 4,
-      "Мельков Вадим Алексеевич": 15,
-      "Паутов Виктор Николаевич": 521,
-      "Трифонов Игорь Иванович": 5,
-      "Черторицкая Татьяна Владимировна": 15,
-      "Шубников Игорь Павлович": 7,
-      "Против всех": 134
+      "gas:candidate-vibid:1001000136042": 48,
+      "gas:candidate-vibid:1001000113923": 34,
+      "gas:candidate-vibid:333300270576": 61,
+      "gas:candidate-vibid:1001000225929": 220,
+      "gas:candidate-vibid:333300270566": 4,
+      "gas:candidate-vibid:1001000190335": 15,
+      "gas:candidate-vibid:333300270371": 521,
+      "gas:candidate-vibid:333300270581": 5,
+      "gas:candidate-vibid:333300270563": 15,
+      "gas:candidate-vibid:1001000202298": 7,
+      "special:against-all": 134
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=332000048&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=233200071075&region=0&sub_region=0&type=429",
@@ -5322,17 +5322,17 @@ export const duma_2003_uik_428_region_33_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бодров Дмитрий Алексеевич": 60,
-      "Гусев Анатолий Алексеевич": 26,
-      "Заморин Олег Константинович": 79,
-      "Котров Олег Владимирович": 226,
-      "Кузин Валерий Алексеевич": 8,
-      "Мельков Вадим Алексеевич": 31,
-      "Паутов Виктор Николаевич": 576,
-      "Трифонов Игорь Иванович": 14,
-      "Черторицкая Татьяна Владимировна": 19,
-      "Шубников Игорь Павлович": 11,
-      "Против всех": 150
+      "gas:candidate-vibid:1001000136042": 60,
+      "gas:candidate-vibid:1001000113923": 26,
+      "gas:candidate-vibid:333300270576": 79,
+      "gas:candidate-vibid:1001000225929": 226,
+      "gas:candidate-vibid:333300270566": 8,
+      "gas:candidate-vibid:1001000190335": 31,
+      "gas:candidate-vibid:333300270371": 576,
+      "gas:candidate-vibid:333300270581": 14,
+      "gas:candidate-vibid:333300270563": 19,
+      "gas:candidate-vibid:1001000202298": 11,
+      "special:against-all": 150
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=332000048&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=233200071075&region=0&sub_region=0&type=429",
@@ -5382,17 +5382,17 @@ export const duma_2003_uik_428_region_33_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бодров Дмитрий Алексеевич": 47,
-      "Гусев Анатолий Алексеевич": 26,
-      "Заморин Олег Константинович": 80,
-      "Котров Олег Владимирович": 232,
-      "Кузин Валерий Алексеевич": 4,
-      "Мельков Вадим Алексеевич": 35,
-      "Паутов Виктор Николаевич": 540,
-      "Трифонов Игорь Иванович": 12,
-      "Черторицкая Татьяна Владимировна": 11,
-      "Шубников Игорь Павлович": 14,
-      "Против всех": 150
+      "gas:candidate-vibid:1001000136042": 47,
+      "gas:candidate-vibid:1001000113923": 26,
+      "gas:candidate-vibid:333300270576": 80,
+      "gas:candidate-vibid:1001000225929": 232,
+      "gas:candidate-vibid:333300270566": 4,
+      "gas:candidate-vibid:1001000190335": 35,
+      "gas:candidate-vibid:333300270371": 540,
+      "gas:candidate-vibid:333300270581": 12,
+      "gas:candidate-vibid:333300270563": 11,
+      "gas:candidate-vibid:1001000202298": 14,
+      "special:against-all": 150
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=332000048&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=233200071075&region=0&sub_region=0&type=429",
@@ -5442,17 +5442,17 @@ export const duma_2003_uik_428_region_33_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бодров Дмитрий Алексеевич": 41,
-      "Гусев Анатолий Алексеевич": 12,
-      "Заморин Олег Константинович": 48,
-      "Котров Олег Владимирович": 176,
-      "Кузин Валерий Алексеевич": 4,
-      "Мельков Вадим Алексеевич": 17,
-      "Паутов Виктор Николаевич": 432,
-      "Трифонов Игорь Иванович": 3,
-      "Черторицкая Татьяна Владимировна": 10,
-      "Шубников Игорь Павлович": 4,
-      "Против всех": 118
+      "gas:candidate-vibid:1001000136042": 41,
+      "gas:candidate-vibid:1001000113923": 12,
+      "gas:candidate-vibid:333300270576": 48,
+      "gas:candidate-vibid:1001000225929": 176,
+      "gas:candidate-vibid:333300270566": 4,
+      "gas:candidate-vibid:1001000190335": 17,
+      "gas:candidate-vibid:333300270371": 432,
+      "gas:candidate-vibid:333300270581": 3,
+      "gas:candidate-vibid:333300270563": 10,
+      "gas:candidate-vibid:1001000202298": 4,
+      "special:against-all": 118
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=332000048&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=233200071075&region=0&sub_region=0&type=429",
@@ -5502,17 +5502,17 @@ export const duma_2003_uik_428_region_33_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бодров Дмитрий Алексеевич": 77,
-      "Гусев Анатолий Алексеевич": 32,
-      "Заморин Олег Константинович": 57,
-      "Котров Олег Владимирович": 251,
-      "Кузин Валерий Алексеевич": 8,
-      "Мельков Вадим Алексеевич": 22,
-      "Паутов Виктор Николаевич": 563,
-      "Трифонов Игорь Иванович": 11,
-      "Черторицкая Татьяна Владимировна": 28,
-      "Шубников Игорь Павлович": 10,
-      "Против всех": 207
+      "gas:candidate-vibid:1001000136042": 77,
+      "gas:candidate-vibid:1001000113923": 32,
+      "gas:candidate-vibid:333300270576": 57,
+      "gas:candidate-vibid:1001000225929": 251,
+      "gas:candidate-vibid:333300270566": 8,
+      "gas:candidate-vibid:1001000190335": 22,
+      "gas:candidate-vibid:333300270371": 563,
+      "gas:candidate-vibid:333300270581": 11,
+      "gas:candidate-vibid:333300270563": 28,
+      "gas:candidate-vibid:1001000202298": 10,
+      "special:against-all": 207
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=332000048&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=233200071075&region=0&sub_region=0&type=429",
@@ -5562,17 +5562,17 @@ export const duma_2003_uik_428_region_33_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бодров Дмитрий Алексеевич": 23,
-      "Гусев Анатолий Алексеевич": 15,
-      "Заморин Олег Константинович": 37,
-      "Котров Олег Владимирович": 95,
-      "Кузин Валерий Алексеевич": 7,
-      "Мельков Вадим Алексеевич": 68,
-      "Паутов Виктор Николаевич": 310,
-      "Трифонов Игорь Иванович": 9,
-      "Черторицкая Татьяна Владимировна": 13,
-      "Шубников Игорь Павлович": 6,
-      "Против всех": 87
+      "gas:candidate-vibid:1001000136042": 23,
+      "gas:candidate-vibid:1001000113923": 15,
+      "gas:candidate-vibid:333300270576": 37,
+      "gas:candidate-vibid:1001000225929": 95,
+      "gas:candidate-vibid:333300270566": 7,
+      "gas:candidate-vibid:1001000190335": 68,
+      "gas:candidate-vibid:333300270371": 310,
+      "gas:candidate-vibid:333300270581": 9,
+      "gas:candidate-vibid:333300270563": 13,
+      "gas:candidate-vibid:1001000202298": 6,
+      "special:against-all": 87
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=332000048&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=233200071075&region=0&sub_region=0&type=429",
@@ -5622,17 +5622,17 @@ export const duma_2003_uik_428_region_33_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бодров Дмитрий Алексеевич": 9,
-      "Гусев Анатолий Алексеевич": 2,
-      "Заморин Олег Константинович": 2,
-      "Котров Олег Владимирович": 19,
-      "Кузин Валерий Алексеевич": 3,
-      "Мельков Вадим Алексеевич": 3,
-      "Паутов Виктор Николаевич": 122,
-      "Трифонов Игорь Иванович": 0,
-      "Черторицкая Татьяна Владимировна": 1,
-      "Шубников Игорь Павлович": 1,
-      "Против всех": 13
+      "gas:candidate-vibid:1001000136042": 9,
+      "gas:candidate-vibid:1001000113923": 2,
+      "gas:candidate-vibid:333300270576": 2,
+      "gas:candidate-vibid:1001000225929": 19,
+      "gas:candidate-vibid:333300270566": 3,
+      "gas:candidate-vibid:1001000190335": 3,
+      "gas:candidate-vibid:333300270371": 122,
+      "gas:candidate-vibid:333300270581": 0,
+      "gas:candidate-vibid:333300270563": 1,
+      "gas:candidate-vibid:1001000202298": 1,
+      "special:against-all": 13
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=332000048&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=233200071075&region=0&sub_region=0&type=429",
@@ -5682,17 +5682,17 @@ export const duma_2003_uik_428_region_33_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бодров Дмитрий Алексеевич": 8,
-      "Гусев Анатолий Алексеевич": 7,
-      "Заморин Олег Константинович": 6,
-      "Котров Олег Владимирович": 47,
-      "Кузин Валерий Алексеевич": 0,
-      "Мельков Вадим Алексеевич": 19,
-      "Паутов Виктор Николаевич": 207,
-      "Трифонов Игорь Иванович": 3,
-      "Черторицкая Татьяна Владимировна": 6,
-      "Шубников Игорь Павлович": 1,
-      "Против всех": 21
+      "gas:candidate-vibid:1001000136042": 8,
+      "gas:candidate-vibid:1001000113923": 7,
+      "gas:candidate-vibid:333300270576": 6,
+      "gas:candidate-vibid:1001000225929": 47,
+      "gas:candidate-vibid:333300270566": 0,
+      "gas:candidate-vibid:1001000190335": 19,
+      "gas:candidate-vibid:333300270371": 207,
+      "gas:candidate-vibid:333300270581": 3,
+      "gas:candidate-vibid:333300270563": 6,
+      "gas:candidate-vibid:1001000202298": 1,
+      "special:against-all": 21
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=332000048&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=233200071075&region=0&sub_region=0&type=429",
@@ -5742,17 +5742,17 @@ export const duma_2003_uik_428_region_33_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бодров Дмитрий Алексеевич": 18,
-      "Гусев Анатолий Алексеевич": 7,
-      "Заморин Олег Константинович": 17,
-      "Котров Олег Владимирович": 86,
-      "Кузин Валерий Алексеевич": 5,
-      "Мельков Вадим Алексеевич": 23,
-      "Паутов Виктор Николаевич": 239,
-      "Трифонов Игорь Иванович": 4,
-      "Черторицкая Татьяна Владимировна": 9,
-      "Шубников Игорь Павлович": 1,
-      "Против всех": 42
+      "gas:candidate-vibid:1001000136042": 18,
+      "gas:candidate-vibid:1001000113923": 7,
+      "gas:candidate-vibid:333300270576": 17,
+      "gas:candidate-vibid:1001000225929": 86,
+      "gas:candidate-vibid:333300270566": 5,
+      "gas:candidate-vibid:1001000190335": 23,
+      "gas:candidate-vibid:333300270371": 239,
+      "gas:candidate-vibid:333300270581": 4,
+      "gas:candidate-vibid:333300270563": 9,
+      "gas:candidate-vibid:1001000202298": 1,
+      "special:against-all": 42
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=332000048&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=233200071075&region=0&sub_region=0&type=429",
@@ -5802,17 +5802,17 @@ export const duma_2003_uik_428_region_33_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бодров Дмитрий Алексеевич": 9,
-      "Гусев Анатолий Алексеевич": 3,
-      "Заморин Олег Константинович": 11,
-      "Котров Олег Владимирович": 23,
-      "Кузин Валерий Алексеевич": 1,
-      "Мельков Вадим Алексеевич": 7,
-      "Паутов Виктор Николаевич": 115,
-      "Трифонов Игорь Иванович": 1,
-      "Черторицкая Татьяна Владимировна": 0,
-      "Шубников Игорь Павлович": 2,
-      "Против всех": 13
+      "gas:candidate-vibid:1001000136042": 9,
+      "gas:candidate-vibid:1001000113923": 3,
+      "gas:candidate-vibid:333300270576": 11,
+      "gas:candidate-vibid:1001000225929": 23,
+      "gas:candidate-vibid:333300270566": 1,
+      "gas:candidate-vibid:1001000190335": 7,
+      "gas:candidate-vibid:333300270371": 115,
+      "gas:candidate-vibid:333300270581": 1,
+      "gas:candidate-vibid:333300270563": 0,
+      "gas:candidate-vibid:1001000202298": 2,
+      "special:against-all": 13
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=332000048&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=233200071075&region=0&sub_region=0&type=429",
@@ -5862,17 +5862,17 @@ export const duma_2003_uik_428_region_33_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бодров Дмитрий Алексеевич": 3,
-      "Гусев Анатолий Алексеевич": 6,
-      "Заморин Олег Константинович": 18,
-      "Котров Олег Владимирович": 22,
-      "Кузин Валерий Алексеевич": 1,
-      "Мельков Вадим Алексеевич": 6,
-      "Паутов Виктор Николаевич": 120,
-      "Трифонов Игорь Иванович": 1,
-      "Черторицкая Татьяна Владимировна": 2,
-      "Шубников Игорь Павлович": 0,
-      "Против всех": 10
+      "gas:candidate-vibid:1001000136042": 3,
+      "gas:candidate-vibid:1001000113923": 6,
+      "gas:candidate-vibid:333300270576": 18,
+      "gas:candidate-vibid:1001000225929": 22,
+      "gas:candidate-vibid:333300270566": 1,
+      "gas:candidate-vibid:1001000190335": 6,
+      "gas:candidate-vibid:333300270371": 120,
+      "gas:candidate-vibid:333300270581": 1,
+      "gas:candidate-vibid:333300270563": 2,
+      "gas:candidate-vibid:1001000202298": 0,
+      "special:against-all": 10
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=332000048&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=233200071075&region=0&sub_region=0&type=429",
@@ -5922,17 +5922,17 @@ export const duma_2003_uik_428_region_33_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бодров Дмитрий Алексеевич": 47,
-      "Гусев Анатолий Алексеевич": 13,
-      "Заморин Олег Константинович": 24,
-      "Котров Олег Владимирович": 201,
-      "Кузин Валерий Алексеевич": 4,
-      "Мельков Вадим Алексеевич": 69,
-      "Паутов Виктор Николаевич": 553,
-      "Трифонов Игорь Иванович": 5,
-      "Черторицкая Татьяна Владимировна": 16,
-      "Шубников Игорь Павлович": 8,
-      "Против всех": 95
+      "gas:candidate-vibid:1001000136042": 47,
+      "gas:candidate-vibid:1001000113923": 13,
+      "gas:candidate-vibid:333300270576": 24,
+      "gas:candidate-vibid:1001000225929": 201,
+      "gas:candidate-vibid:333300270566": 4,
+      "gas:candidate-vibid:1001000190335": 69,
+      "gas:candidate-vibid:333300270371": 553,
+      "gas:candidate-vibid:333300270581": 5,
+      "gas:candidate-vibid:333300270563": 16,
+      "gas:candidate-vibid:1001000202298": 8,
+      "special:against-all": 95
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=332000048&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=233200071075&region=0&sub_region=0&type=429",
@@ -5982,17 +5982,17 @@ export const duma_2003_uik_428_region_33_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бодров Дмитрий Алексеевич": 18,
-      "Гусев Анатолий Алексеевич": 11,
-      "Заморин Олег Константинович": 11,
-      "Котров Олег Владимирович": 150,
-      "Кузин Валерий Алексеевич": 0,
-      "Мельков Вадим Алексеевич": 45,
-      "Паутов Виктор Николаевич": 359,
-      "Трифонов Игорь Иванович": 10,
-      "Черторицкая Татьяна Владимировна": 3,
-      "Шубников Игорь Павлович": 3,
-      "Против всех": 74
+      "gas:candidate-vibid:1001000136042": 18,
+      "gas:candidate-vibid:1001000113923": 11,
+      "gas:candidate-vibid:333300270576": 11,
+      "gas:candidate-vibid:1001000225929": 150,
+      "gas:candidate-vibid:333300270566": 0,
+      "gas:candidate-vibid:1001000190335": 45,
+      "gas:candidate-vibid:333300270371": 359,
+      "gas:candidate-vibid:333300270581": 10,
+      "gas:candidate-vibid:333300270563": 3,
+      "gas:candidate-vibid:1001000202298": 3,
+      "special:against-all": 74
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=332000048&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=233200071075&region=0&sub_region=0&type=429",
@@ -6042,17 +6042,17 @@ export const duma_2003_uik_428_region_33_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бодров Дмитрий Алексеевич": 35,
-      "Гусев Анатолий Алексеевич": 15,
-      "Заморин Олег Константинович": 19,
-      "Котров Олег Владимирович": 140,
-      "Кузин Валерий Алексеевич": 5,
-      "Мельков Вадим Алексеевич": 31,
-      "Паутов Виктор Николаевич": 517,
-      "Трифонов Игорь Иванович": 7,
-      "Черторицкая Татьяна Владимировна": 13,
-      "Шубников Игорь Павлович": 8,
-      "Против всех": 77
+      "gas:candidate-vibid:1001000136042": 35,
+      "gas:candidate-vibid:1001000113923": 15,
+      "gas:candidate-vibid:333300270576": 19,
+      "gas:candidate-vibid:1001000225929": 140,
+      "gas:candidate-vibid:333300270566": 5,
+      "gas:candidate-vibid:1001000190335": 31,
+      "gas:candidate-vibid:333300270371": 517,
+      "gas:candidate-vibid:333300270581": 7,
+      "gas:candidate-vibid:333300270563": 13,
+      "gas:candidate-vibid:1001000202298": 8,
+      "special:against-all": 77
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=332000048&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=233200071075&region=0&sub_region=0&type=429",
@@ -6102,17 +6102,17 @@ export const duma_2003_uik_428_region_33_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бодров Дмитрий Алексеевич": 0,
-      "Гусев Анатолий Алексеевич": 4,
-      "Заморин Олег Константинович": 2,
-      "Котров Олег Владимирович": 26,
-      "Кузин Валерий Алексеевич": 0,
-      "Мельков Вадим Алексеевич": 12,
-      "Паутов Виктор Николаевич": 79,
-      "Трифонов Игорь Иванович": 1,
-      "Черторицкая Татьяна Владимировна": 6,
-      "Шубников Игорь Павлович": 0,
-      "Против всех": 7
+      "gas:candidate-vibid:1001000136042": 0,
+      "gas:candidate-vibid:1001000113923": 4,
+      "gas:candidate-vibid:333300270576": 2,
+      "gas:candidate-vibid:1001000225929": 26,
+      "gas:candidate-vibid:333300270566": 0,
+      "gas:candidate-vibid:1001000190335": 12,
+      "gas:candidate-vibid:333300270371": 79,
+      "gas:candidate-vibid:333300270581": 1,
+      "gas:candidate-vibid:333300270563": 6,
+      "gas:candidate-vibid:1001000202298": 0,
+      "special:against-all": 7
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=332000048&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=233200071075&region=0&sub_region=0&type=429",
@@ -6162,17 +6162,17 @@ export const duma_2003_uik_428_region_33_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бодров Дмитрий Алексеевич": 69,
-      "Гусев Анатолий Алексеевич": 28,
-      "Заморин Олег Константинович": 31,
-      "Котров Олег Владимирович": 113,
-      "Кузин Валерий Алексеевич": 8,
-      "Мельков Вадим Алексеевич": 36,
-      "Паутов Виктор Николаевич": 329,
-      "Трифонов Игорь Иванович": 11,
-      "Черторицкая Татьяна Владимировна": 12,
-      "Шубников Игорь Павлович": 6,
-      "Против всех": 128
+      "gas:candidate-vibid:1001000136042": 69,
+      "gas:candidate-vibid:1001000113923": 28,
+      "gas:candidate-vibid:333300270576": 31,
+      "gas:candidate-vibid:1001000225929": 113,
+      "gas:candidate-vibid:333300270566": 8,
+      "gas:candidate-vibid:1001000190335": 36,
+      "gas:candidate-vibid:333300270371": 329,
+      "gas:candidate-vibid:333300270581": 11,
+      "gas:candidate-vibid:333300270563": 12,
+      "gas:candidate-vibid:1001000202298": 6,
+      "special:against-all": 128
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=332000048&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=233200071075&region=0&sub_region=0&type=429",
@@ -6222,17 +6222,17 @@ export const duma_2003_uik_428_region_33_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бодров Дмитрий Алексеевич": 10,
-      "Гусев Анатолий Алексеевич": 3,
-      "Заморин Олег Константинович": 3,
-      "Котров Олег Владимирович": 26,
-      "Кузин Валерий Алексеевич": 0,
-      "Мельков Вадим Алексеевич": 11,
-      "Паутов Виктор Николаевич": 201,
-      "Трифонов Игорь Иванович": 2,
-      "Черторицкая Татьяна Владимировна": 5,
-      "Шубников Игорь Павлович": 5,
-      "Против всех": 18
+      "gas:candidate-vibid:1001000136042": 10,
+      "gas:candidate-vibid:1001000113923": 3,
+      "gas:candidate-vibid:333300270576": 3,
+      "gas:candidate-vibid:1001000225929": 26,
+      "gas:candidate-vibid:333300270566": 0,
+      "gas:candidate-vibid:1001000190335": 11,
+      "gas:candidate-vibid:333300270371": 201,
+      "gas:candidate-vibid:333300270581": 2,
+      "gas:candidate-vibid:333300270563": 5,
+      "gas:candidate-vibid:1001000202298": 5,
+      "special:against-all": 18
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=332000048&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=233200071075&region=0&sub_region=0&type=429",
@@ -6282,17 +6282,17 @@ export const duma_2003_uik_428_region_33_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бодров Дмитрий Алексеевич": 3,
-      "Гусев Анатолий Алексеевич": 3,
-      "Заморин Олег Константинович": 4,
-      "Котров Олег Владимирович": 43,
-      "Кузин Валерий Алексеевич": 1,
-      "Мельков Вадим Алексеевич": 15,
-      "Паутов Виктор Николаевич": 128,
-      "Трифонов Игорь Иванович": 0,
-      "Черторицкая Татьяна Владимировна": 0,
-      "Шубников Игорь Павлович": 1,
-      "Против всех": 21
+      "gas:candidate-vibid:1001000136042": 3,
+      "gas:candidate-vibid:1001000113923": 3,
+      "gas:candidate-vibid:333300270576": 4,
+      "gas:candidate-vibid:1001000225929": 43,
+      "gas:candidate-vibid:333300270566": 1,
+      "gas:candidate-vibid:1001000190335": 15,
+      "gas:candidate-vibid:333300270371": 128,
+      "gas:candidate-vibid:333300270581": 0,
+      "gas:candidate-vibid:333300270563": 0,
+      "gas:candidate-vibid:1001000202298": 1,
+      "special:against-all": 21
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=332000048&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=233200071075&region=0&sub_region=0&type=429",
@@ -6342,17 +6342,17 @@ export const duma_2003_uik_428_region_33_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бодров Дмитрий Алексеевич": 3,
-      "Гусев Анатолий Алексеевич": 0,
-      "Заморин Олег Константинович": 1,
-      "Котров Олег Владимирович": 9,
-      "Кузин Валерий Алексеевич": 1,
-      "Мельков Вадим Алексеевич": 9,
-      "Паутов Виктор Николаевич": 96,
-      "Трифонов Игорь Иванович": 1,
-      "Черторицкая Татьяна Владимировна": 2,
-      "Шубников Игорь Павлович": 0,
-      "Против всех": 6
+      "gas:candidate-vibid:1001000136042": 3,
+      "gas:candidate-vibid:1001000113923": 0,
+      "gas:candidate-vibid:333300270576": 1,
+      "gas:candidate-vibid:1001000225929": 9,
+      "gas:candidate-vibid:333300270566": 1,
+      "gas:candidate-vibid:1001000190335": 9,
+      "gas:candidate-vibid:333300270371": 96,
+      "gas:candidate-vibid:333300270581": 1,
+      "gas:candidate-vibid:333300270563": 2,
+      "gas:candidate-vibid:1001000202298": 0,
+      "special:against-all": 6
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=332000048&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=233200071075&region=0&sub_region=0&type=429",
@@ -6402,17 +6402,17 @@ export const duma_2003_uik_428_region_33_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бодров Дмитрий Алексеевич": 12,
-      "Гусев Анатолий Алексеевич": 0,
-      "Заморин Олег Константинович": 1,
-      "Котров Олег Владимирович": 46,
-      "Кузин Валерий Алексеевич": 0,
-      "Мельков Вадим Алексеевич": 14,
-      "Паутов Виктор Николаевич": 147,
-      "Трифонов Игорь Иванович": 1,
-      "Черторицкая Татьяна Владимировна": 2,
-      "Шубников Игорь Павлович": 2,
-      "Против всех": 11
+      "gas:candidate-vibid:1001000136042": 12,
+      "gas:candidate-vibid:1001000113923": 0,
+      "gas:candidate-vibid:333300270576": 1,
+      "gas:candidate-vibid:1001000225929": 46,
+      "gas:candidate-vibid:333300270566": 0,
+      "gas:candidate-vibid:1001000190335": 14,
+      "gas:candidate-vibid:333300270371": 147,
+      "gas:candidate-vibid:333300270581": 1,
+      "gas:candidate-vibid:333300270563": 2,
+      "gas:candidate-vibid:1001000202298": 2,
+      "special:against-all": 11
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=332000048&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=233200071075&region=0&sub_region=0&type=429",
@@ -6462,17 +6462,17 @@ export const duma_2003_uik_428_region_33_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бодров Дмитрий Алексеевич": 10,
-      "Гусев Анатолий Алексеевич": 7,
-      "Заморин Олег Константинович": 15,
-      "Котров Олег Владимирович": 67,
-      "Кузин Валерий Алексеевич": 2,
-      "Мельков Вадим Алексеевич": 11,
-      "Паутов Виктор Николаевич": 255,
-      "Трифонов Игорь Иванович": 3,
-      "Черторицкая Татьяна Владимировна": 2,
-      "Шубников Игорь Павлович": 3,
-      "Против всех": 38
+      "gas:candidate-vibid:1001000136042": 10,
+      "gas:candidate-vibid:1001000113923": 7,
+      "gas:candidate-vibid:333300270576": 15,
+      "gas:candidate-vibid:1001000225929": 67,
+      "gas:candidate-vibid:333300270566": 2,
+      "gas:candidate-vibid:1001000190335": 11,
+      "gas:candidate-vibid:333300270371": 255,
+      "gas:candidate-vibid:333300270581": 3,
+      "gas:candidate-vibid:333300270563": 2,
+      "gas:candidate-vibid:1001000202298": 3,
+      "special:against-all": 38
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=332000048&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=233200071075&region=0&sub_region=0&type=429",
@@ -6522,17 +6522,17 @@ export const duma_2003_uik_428_region_33_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бодров Дмитрий Алексеевич": 18,
-      "Гусев Анатолий Алексеевич": 3,
-      "Заморин Олег Константинович": 11,
-      "Котров Олег Владимирович": 65,
-      "Кузин Валерий Алексеевич": 0,
-      "Мельков Вадим Алексеевич": 18,
-      "Паутов Виктор Николаевич": 199,
-      "Трифонов Игорь Иванович": 1,
-      "Черторицкая Татьяна Владимировна": 3,
-      "Шубников Игорь Павлович": 1,
-      "Против всех": 30
+      "gas:candidate-vibid:1001000136042": 18,
+      "gas:candidate-vibid:1001000113923": 3,
+      "gas:candidate-vibid:333300270576": 11,
+      "gas:candidate-vibid:1001000225929": 65,
+      "gas:candidate-vibid:333300270566": 0,
+      "gas:candidate-vibid:1001000190335": 18,
+      "gas:candidate-vibid:333300270371": 199,
+      "gas:candidate-vibid:333300270581": 1,
+      "gas:candidate-vibid:333300270563": 3,
+      "gas:candidate-vibid:1001000202298": 1,
+      "special:against-all": 30
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=332000048&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=233200071075&region=0&sub_region=0&type=429",
@@ -6582,17 +6582,17 @@ export const duma_2003_uik_428_region_33_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бодров Дмитрий Алексеевич": 11,
-      "Гусев Анатолий Алексеевич": 4,
-      "Заморин Олег Константинович": 29,
-      "Котров Олег Владимирович": 109,
-      "Кузин Валерий Алексеевич": 1,
-      "Мельков Вадим Алексеевич": 21,
-      "Паутов Виктор Николаевич": 290,
-      "Трифонов Игорь Иванович": 0,
-      "Черторицкая Татьяна Владимировна": 1,
-      "Шубников Игорь Павлович": 0,
-      "Против всех": 43
+      "gas:candidate-vibid:1001000136042": 11,
+      "gas:candidate-vibid:1001000113923": 4,
+      "gas:candidate-vibid:333300270576": 29,
+      "gas:candidate-vibid:1001000225929": 109,
+      "gas:candidate-vibid:333300270566": 1,
+      "gas:candidate-vibid:1001000190335": 21,
+      "gas:candidate-vibid:333300270371": 290,
+      "gas:candidate-vibid:333300270581": 0,
+      "gas:candidate-vibid:333300270563": 1,
+      "gas:candidate-vibid:1001000202298": 0,
+      "special:against-all": 43
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=332000048&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=233200071075&region=0&sub_region=0&type=429",
@@ -6642,17 +6642,17 @@ export const duma_2003_uik_428_region_33_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бодров Дмитрий Алексеевич": 4,
-      "Гусев Анатолий Алексеевич": 1,
-      "Заморин Олег Константинович": 1,
-      "Котров Олег Владимирович": 22,
-      "Кузин Валерий Алексеевич": 1,
-      "Мельков Вадим Алексеевич": 0,
-      "Паутов Виктор Николаевич": 87,
-      "Трифонов Игорь Иванович": 0,
-      "Черторицкая Татьяна Владимировна": 1,
-      "Шубников Игорь Павлович": 0,
-      "Против всех": 8
+      "gas:candidate-vibid:1001000136042": 4,
+      "gas:candidate-vibid:1001000113923": 1,
+      "gas:candidate-vibid:333300270576": 1,
+      "gas:candidate-vibid:1001000225929": 22,
+      "gas:candidate-vibid:333300270566": 1,
+      "gas:candidate-vibid:1001000190335": 0,
+      "gas:candidate-vibid:333300270371": 87,
+      "gas:candidate-vibid:333300270581": 0,
+      "gas:candidate-vibid:333300270563": 1,
+      "gas:candidate-vibid:1001000202298": 0,
+      "special:against-all": 8
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=332000048&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=233200071075&region=0&sub_region=0&type=429",
@@ -6702,17 +6702,17 @@ export const duma_2003_uik_428_region_33_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бодров Дмитрий Алексеевич": 4,
-      "Гусев Анатолий Алексеевич": 0,
-      "Заморин Олег Константинович": 11,
-      "Котров Олег Владимирович": 19,
-      "Кузин Валерий Алексеевич": 2,
-      "Мельков Вадим Алексеевич": 2,
-      "Паутов Виктор Николаевич": 93,
-      "Трифонов Игорь Иванович": 0,
-      "Черторицкая Татьяна Владимировна": 1,
-      "Шубников Игорь Павлович": 1,
-      "Против всех": 9
+      "gas:candidate-vibid:1001000136042": 4,
+      "gas:candidate-vibid:1001000113923": 0,
+      "gas:candidate-vibid:333300270576": 11,
+      "gas:candidate-vibid:1001000225929": 19,
+      "gas:candidate-vibid:333300270566": 2,
+      "gas:candidate-vibid:1001000190335": 2,
+      "gas:candidate-vibid:333300270371": 93,
+      "gas:candidate-vibid:333300270581": 0,
+      "gas:candidate-vibid:333300270563": 1,
+      "gas:candidate-vibid:1001000202298": 1,
+      "special:against-all": 9
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=332000048&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=233200071075&region=0&sub_region=0&type=429",
@@ -6762,17 +6762,17 @@ export const duma_2003_uik_428_region_33_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бодров Дмитрий Алексеевич": 6,
-      "Гусев Анатолий Алексеевич": 3,
-      "Заморин Олег Константинович": 5,
-      "Котров Олег Владимирович": 21,
-      "Кузин Валерий Алексеевич": 1,
-      "Мельков Вадим Алексеевич": 14,
-      "Паутов Виктор Николаевич": 177,
-      "Трифонов Игорь Иванович": 1,
-      "Черторицкая Татьяна Владимировна": 2,
-      "Шубников Игорь Павлович": 2,
-      "Против всех": 18
+      "gas:candidate-vibid:1001000136042": 6,
+      "gas:candidate-vibid:1001000113923": 3,
+      "gas:candidate-vibid:333300270576": 5,
+      "gas:candidate-vibid:1001000225929": 21,
+      "gas:candidate-vibid:333300270566": 1,
+      "gas:candidate-vibid:1001000190335": 14,
+      "gas:candidate-vibid:333300270371": 177,
+      "gas:candidate-vibid:333300270581": 1,
+      "gas:candidate-vibid:333300270563": 2,
+      "gas:candidate-vibid:1001000202298": 2,
+      "special:against-all": 18
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=332000048&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=233200071075&region=0&sub_region=0&type=429",
@@ -6822,17 +6822,17 @@ export const duma_2003_uik_428_region_33_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бодров Дмитрий Алексеевич": 9,
-      "Гусев Анатолий Алексеевич": 0,
-      "Заморин Олег Константинович": 10,
-      "Котров Олег Владимирович": 25,
-      "Кузин Валерий Алексеевич": 0,
-      "Мельков Вадим Алексеевич": 6,
-      "Паутов Виктор Николаевич": 176,
-      "Трифонов Игорь Иванович": 2,
-      "Черторицкая Татьяна Владимировна": 2,
-      "Шубников Игорь Павлович": 0,
-      "Против всех": 17
+      "gas:candidate-vibid:1001000136042": 9,
+      "gas:candidate-vibid:1001000113923": 0,
+      "gas:candidate-vibid:333300270576": 10,
+      "gas:candidate-vibid:1001000225929": 25,
+      "gas:candidate-vibid:333300270566": 0,
+      "gas:candidate-vibid:1001000190335": 6,
+      "gas:candidate-vibid:333300270371": 176,
+      "gas:candidate-vibid:333300270581": 2,
+      "gas:candidate-vibid:333300270563": 2,
+      "gas:candidate-vibid:1001000202298": 0,
+      "special:against-all": 17
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=332000048&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=233200071075&region=0&sub_region=0&type=429",
@@ -6882,17 +6882,17 @@ export const duma_2003_uik_428_region_33_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бодров Дмитрий Алексеевич": 5,
-      "Гусев Анатолий Алексеевич": 6,
-      "Заморин Олег Константинович": 5,
-      "Котров Олег Владимирович": 31,
-      "Кузин Валерий Алексеевич": 1,
-      "Мельков Вадим Алексеевич": 23,
-      "Паутов Виктор Николаевич": 159,
-      "Трифонов Игорь Иванович": 2,
-      "Черторицкая Татьяна Владимировна": 3,
-      "Шубников Игорь Павлович": 10,
-      "Против всех": 24
+      "gas:candidate-vibid:1001000136042": 5,
+      "gas:candidate-vibid:1001000113923": 6,
+      "gas:candidate-vibid:333300270576": 5,
+      "gas:candidate-vibid:1001000225929": 31,
+      "gas:candidate-vibid:333300270566": 1,
+      "gas:candidate-vibid:1001000190335": 23,
+      "gas:candidate-vibid:333300270371": 159,
+      "gas:candidate-vibid:333300270581": 2,
+      "gas:candidate-vibid:333300270563": 3,
+      "gas:candidate-vibid:1001000202298": 10,
+      "special:against-all": 24
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=332000048&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=233200071075&region=0&sub_region=0&type=429",
@@ -6942,17 +6942,17 @@ export const duma_2003_uik_428_region_33_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бодров Дмитрий Алексеевич": 20,
-      "Гусев Анатолий Алексеевич": 6,
-      "Заморин Олег Константинович": 17,
-      "Котров Олег Владимирович": 49,
-      "Кузин Валерий Алексеевич": 1,
-      "Мельков Вадим Алексеевич": 22,
-      "Паутов Виктор Николаевич": 206,
-      "Трифонов Игорь Иванович": 3,
-      "Черторицкая Татьяна Владимировна": 8,
-      "Шубников Игорь Павлович": 4,
-      "Против всех": 43
+      "gas:candidate-vibid:1001000136042": 20,
+      "gas:candidate-vibid:1001000113923": 6,
+      "gas:candidate-vibid:333300270576": 17,
+      "gas:candidate-vibid:1001000225929": 49,
+      "gas:candidate-vibid:333300270566": 1,
+      "gas:candidate-vibid:1001000190335": 22,
+      "gas:candidate-vibid:333300270371": 206,
+      "gas:candidate-vibid:333300270581": 3,
+      "gas:candidate-vibid:333300270563": 8,
+      "gas:candidate-vibid:1001000202298": 4,
+      "special:against-all": 43
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=332000048&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=233200071075&region=0&sub_region=0&type=429",
@@ -7002,17 +7002,17 @@ export const duma_2003_uik_428_region_33_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бодров Дмитрий Алексеевич": 8,
-      "Гусев Анатолий Алексеевич": 6,
-      "Заморин Олег Константинович": 8,
-      "Котров Олег Владимирович": 19,
-      "Кузин Валерий Алексеевич": 2,
-      "Мельков Вадим Алексеевич": 9,
-      "Паутов Виктор Николаевич": 137,
-      "Трифонов Игорь Иванович": 1,
-      "Черторицкая Татьяна Владимировна": 4,
-      "Шубников Игорь Павлович": 0,
-      "Против всех": 12
+      "gas:candidate-vibid:1001000136042": 8,
+      "gas:candidate-vibid:1001000113923": 6,
+      "gas:candidate-vibid:333300270576": 8,
+      "gas:candidate-vibid:1001000225929": 19,
+      "gas:candidate-vibid:333300270566": 2,
+      "gas:candidate-vibid:1001000190335": 9,
+      "gas:candidate-vibid:333300270371": 137,
+      "gas:candidate-vibid:333300270581": 1,
+      "gas:candidate-vibid:333300270563": 4,
+      "gas:candidate-vibid:1001000202298": 0,
+      "special:against-all": 12
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=332000048&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=233200071075&region=0&sub_region=0&type=429",
@@ -7062,17 +7062,17 @@ export const duma_2003_uik_428_region_33_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бодров Дмитрий Алексеевич": 5,
-      "Гусев Анатолий Алексеевич": 3,
-      "Заморин Олег Константинович": 3,
-      "Котров Олег Владимирович": 22,
-      "Кузин Валерий Алексеевич": 0,
-      "Мельков Вадим Алексеевич": 12,
-      "Паутов Виктор Николаевич": 66,
-      "Трифонов Игорь Иванович": 1,
-      "Черторицкая Татьяна Владимировна": 2,
-      "Шубников Игорь Павлович": 0,
-      "Против всех": 10
+      "gas:candidate-vibid:1001000136042": 5,
+      "gas:candidate-vibid:1001000113923": 3,
+      "gas:candidate-vibid:333300270576": 3,
+      "gas:candidate-vibid:1001000225929": 22,
+      "gas:candidate-vibid:333300270566": 0,
+      "gas:candidate-vibid:1001000190335": 12,
+      "gas:candidate-vibid:333300270371": 66,
+      "gas:candidate-vibid:333300270581": 1,
+      "gas:candidate-vibid:333300270563": 2,
+      "gas:candidate-vibid:1001000202298": 0,
+      "special:against-all": 10
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=332000048&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=233200071075&region=0&sub_region=0&type=429",
@@ -7122,17 +7122,17 @@ export const duma_2003_uik_428_region_33_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бодров Дмитрий Алексеевич": 15,
-      "Гусев Анатолий Алексеевич": 1,
-      "Заморин Олег Константинович": 17,
-      "Котров Олег Владимирович": 47,
-      "Кузин Валерий Алексеевич": 0,
-      "Мельков Вадим Алексеевич": 12,
-      "Паутов Виктор Николаевич": 213,
-      "Трифонов Игорь Иванович": 2,
-      "Черторицкая Татьяна Владимировна": 2,
-      "Шубников Игорь Павлович": 1,
-      "Против всех": 35
+      "gas:candidate-vibid:1001000136042": 15,
+      "gas:candidate-vibid:1001000113923": 1,
+      "gas:candidate-vibid:333300270576": 17,
+      "gas:candidate-vibid:1001000225929": 47,
+      "gas:candidate-vibid:333300270566": 0,
+      "gas:candidate-vibid:1001000190335": 12,
+      "gas:candidate-vibid:333300270371": 213,
+      "gas:candidate-vibid:333300270581": 2,
+      "gas:candidate-vibid:333300270563": 2,
+      "gas:candidate-vibid:1001000202298": 1,
+      "special:against-all": 35
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=332000048&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=233200071075&region=0&sub_region=0&type=429",
@@ -7182,17 +7182,17 @@ export const duma_2003_uik_428_region_33_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бодров Дмитрий Алексеевич": 18,
-      "Гусев Анатолий Алексеевич": 5,
-      "Заморин Олег Константинович": 19,
-      "Котров Олег Владимирович": 127,
-      "Кузин Валерий Алексеевич": 4,
-      "Мельков Вадим Алексеевич": 10,
-      "Паутов Виктор Николаевич": 451,
-      "Трифонов Игорь Иванович": 1,
-      "Черторицкая Татьяна Владимировна": 4,
-      "Шубников Игорь Павлович": 6,
-      "Против всех": 37
+      "gas:candidate-vibid:1001000136042": 18,
+      "gas:candidate-vibid:1001000113923": 5,
+      "gas:candidate-vibid:333300270576": 19,
+      "gas:candidate-vibid:1001000225929": 127,
+      "gas:candidate-vibid:333300270566": 4,
+      "gas:candidate-vibid:1001000190335": 10,
+      "gas:candidate-vibid:333300270371": 451,
+      "gas:candidate-vibid:333300270581": 1,
+      "gas:candidate-vibid:333300270563": 4,
+      "gas:candidate-vibid:1001000202298": 6,
+      "special:against-all": 37
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=332000048&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=233200071075&region=0&sub_region=0&type=429",
@@ -7242,17 +7242,17 @@ export const duma_2003_uik_428_region_33_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бодров Дмитрий Алексеевич": 5,
-      "Гусев Анатолий Алексеевич": 0,
-      "Заморин Олег Константинович": 4,
-      "Котров Олег Владимирович": 19,
-      "Кузин Валерий Алексеевич": 0,
-      "Мельков Вадим Алексеевич": 1,
-      "Паутов Виктор Николаевич": 82,
-      "Трифонов Игорь Иванович": 2,
-      "Черторицкая Татьяна Владимировна": 0,
-      "Шубников Игорь Павлович": 1,
-      "Против всех": 10
+      "gas:candidate-vibid:1001000136042": 5,
+      "gas:candidate-vibid:1001000113923": 0,
+      "gas:candidate-vibid:333300270576": 4,
+      "gas:candidate-vibid:1001000225929": 19,
+      "gas:candidate-vibid:333300270566": 0,
+      "gas:candidate-vibid:1001000190335": 1,
+      "gas:candidate-vibid:333300270371": 82,
+      "gas:candidate-vibid:333300270581": 2,
+      "gas:candidate-vibid:333300270563": 0,
+      "gas:candidate-vibid:1001000202298": 1,
+      "special:against-all": 10
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=332000048&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=233200071075&region=0&sub_region=0&type=429",
@@ -7302,17 +7302,17 @@ export const duma_2003_uik_428_region_33_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бодров Дмитрий Алексеевич": 5,
-      "Гусев Анатолий Алексеевич": 3,
-      "Заморин Олег Константинович": 11,
-      "Котров Олег Владимирович": 25,
-      "Кузин Валерий Алексеевич": 2,
-      "Мельков Вадим Алексеевич": 4,
-      "Паутов Виктор Николаевич": 156,
-      "Трифонов Игорь Иванович": 2,
-      "Черторицкая Татьяна Владимировна": 1,
-      "Шубников Игорь Павлович": 2,
-      "Против всех": 29
+      "gas:candidate-vibid:1001000136042": 5,
+      "gas:candidate-vibid:1001000113923": 3,
+      "gas:candidate-vibid:333300270576": 11,
+      "gas:candidate-vibid:1001000225929": 25,
+      "gas:candidate-vibid:333300270566": 2,
+      "gas:candidate-vibid:1001000190335": 4,
+      "gas:candidate-vibid:333300270371": 156,
+      "gas:candidate-vibid:333300270581": 2,
+      "gas:candidate-vibid:333300270563": 1,
+      "gas:candidate-vibid:1001000202298": 2,
+      "special:against-all": 29
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=332000048&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=233200071075&region=0&sub_region=0&type=429",
@@ -7362,17 +7362,17 @@ export const duma_2003_uik_428_region_33_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бодров Дмитрий Алексеевич": 5,
-      "Гусев Анатолий Алексеевич": 2,
-      "Заморин Олег Константинович": 15,
-      "Котров Олег Владимирович": 50,
-      "Кузин Валерий Алексеевич": 3,
-      "Мельков Вадим Алексеевич": 5,
-      "Паутов Виктор Николаевич": 174,
-      "Трифонов Игорь Иванович": 2,
-      "Черторицкая Татьяна Владимировна": 5,
-      "Шубников Игорь Павлович": 1,
-      "Против всех": 19
+      "gas:candidate-vibid:1001000136042": 5,
+      "gas:candidate-vibid:1001000113923": 2,
+      "gas:candidate-vibid:333300270576": 15,
+      "gas:candidate-vibid:1001000225929": 50,
+      "gas:candidate-vibid:333300270566": 3,
+      "gas:candidate-vibid:1001000190335": 5,
+      "gas:candidate-vibid:333300270371": 174,
+      "gas:candidate-vibid:333300270581": 2,
+      "gas:candidate-vibid:333300270563": 5,
+      "gas:candidate-vibid:1001000202298": 1,
+      "special:against-all": 19
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=332000048&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=233200071075&region=0&sub_region=0&type=429",
@@ -7422,17 +7422,17 @@ export const duma_2003_uik_428_region_33_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бодров Дмитрий Алексеевич": 3,
-      "Гусев Анатолий Алексеевич": 1,
-      "Заморин Олег Константинович": 3,
-      "Котров Олег Владимирович": 26,
-      "Кузин Валерий Алексеевич": 3,
-      "Мельков Вадим Алексеевич": 4,
-      "Паутов Виктор Николаевич": 95,
-      "Трифонов Игорь Иванович": 2,
-      "Черторицкая Татьяна Владимировна": 5,
-      "Шубников Игорь Павлович": 1,
-      "Против всех": 13
+      "gas:candidate-vibid:1001000136042": 3,
+      "gas:candidate-vibid:1001000113923": 1,
+      "gas:candidate-vibid:333300270576": 3,
+      "gas:candidate-vibid:1001000225929": 26,
+      "gas:candidate-vibid:333300270566": 3,
+      "gas:candidate-vibid:1001000190335": 4,
+      "gas:candidate-vibid:333300270371": 95,
+      "gas:candidate-vibid:333300270581": 2,
+      "gas:candidate-vibid:333300270563": 5,
+      "gas:candidate-vibid:1001000202298": 1,
+      "special:against-all": 13
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=332000048&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=233200071075&region=0&sub_region=0&type=429",
@@ -7482,17 +7482,17 @@ export const duma_2003_uik_428_region_33_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бодров Дмитрий Алексеевич": 5,
-      "Гусев Анатолий Алексеевич": 2,
-      "Заморин Олег Константинович": 5,
-      "Котров Олег Владимирович": 17,
-      "Кузин Валерий Алексеевич": 2,
-      "Мельков Вадим Алексеевич": 5,
-      "Паутов Виктор Николаевич": 151,
-      "Трифонов Игорь Иванович": 2,
-      "Черторицкая Татьяна Владимировна": 0,
-      "Шубников Игорь Павлович": 0,
-      "Против всех": 5
+      "gas:candidate-vibid:1001000136042": 5,
+      "gas:candidate-vibid:1001000113923": 2,
+      "gas:candidate-vibid:333300270576": 5,
+      "gas:candidate-vibid:1001000225929": 17,
+      "gas:candidate-vibid:333300270566": 2,
+      "gas:candidate-vibid:1001000190335": 5,
+      "gas:candidate-vibid:333300270371": 151,
+      "gas:candidate-vibid:333300270581": 2,
+      "gas:candidate-vibid:333300270563": 0,
+      "gas:candidate-vibid:1001000202298": 0,
+      "special:against-all": 5
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=332000048&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=233200071075&region=0&sub_region=0&type=429",
@@ -7542,17 +7542,17 @@ export const duma_2003_uik_428_region_33_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бодров Дмитрий Алексеевич": 1,
-      "Гусев Анатолий Алексеевич": 1,
-      "Заморин Олег Константинович": 6,
-      "Котров Олег Владимирович": 22,
-      "Кузин Валерий Алексеевич": 2,
-      "Мельков Вадим Алексеевич": 2,
-      "Паутов Виктор Николаевич": 67,
-      "Трифонов Игорь Иванович": 0,
-      "Черторицкая Татьяна Владимировна": 0,
-      "Шубников Игорь Павлович": 0,
-      "Против всех": 19
+      "gas:candidate-vibid:1001000136042": 1,
+      "gas:candidate-vibid:1001000113923": 1,
+      "gas:candidate-vibid:333300270576": 6,
+      "gas:candidate-vibid:1001000225929": 22,
+      "gas:candidate-vibid:333300270566": 2,
+      "gas:candidate-vibid:1001000190335": 2,
+      "gas:candidate-vibid:333300270371": 67,
+      "gas:candidate-vibid:333300270581": 0,
+      "gas:candidate-vibid:333300270563": 0,
+      "gas:candidate-vibid:1001000202298": 0,
+      "special:against-all": 19
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=332000048&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=233200071075&region=0&sub_region=0&type=429",
@@ -7602,20 +7602,20 @@ export const duma_2003_uik_428_region_33_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Андрианов Николай Ефимович": 86,
-      "Артемов Игорь Владимирович": 199,
-      "Беляков Антон Владимирович": 40,
-      "Волков Анатолий Алексеевич": 7,
-      "Дулов Сергей Юльевич": 5,
-      "Есякова Галина Викторовна": 92,
-      "Ивашкевич Анатолий Павлович": 10,
-      "Игошин Игорь Николаевич": 262,
-      "Казаков Сергей Валентинович": 95,
-      "Леонтьев Александр Геннадьевич": 73,
-      "Малаховский Семен Павлович": 25,
-      "Чуркин Геннадий Иванович": 64,
-      "Шикунов Александр Дмитриевич": 2,
-      "Против всех": 324
+      "gas:candidate-vibid:1001000202297": 86,
+      "gas:candidate-vibid:333300170781": 199,
+      "gas:candidate-vibid:333300171576": 40,
+      "gas:candidate-vibid:333300171500": 7,
+      "gas:candidate-vibid:333300170778": 5,
+      "gas:candidate-vibid:1001000190333": 92,
+      "gas:candidate-vibid:333300170860": 10,
+      "gas:candidate-vibid:1001000121837": 262,
+      "gas:candidate-vibid:1001000113922": 95,
+      "gas:candidate-vibid:1001000220815": 73,
+      "gas:candidate-vibid:1001000136041": 25,
+      "gas:candidate-vibid:1001000217917": 64,
+      "gas:candidate-vibid:333300170955": 2,
+      "special:against-all": 324
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=332000053&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=233200072420&region=0&sub_region=0&type=429",
@@ -7665,20 +7665,20 @@ export const duma_2003_uik_428_region_33_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Андрианов Николай Ефимович": 81,
-      "Артемов Игорь Владимирович": 167,
-      "Беляков Антон Владимирович": 27,
-      "Волков Анатолий Алексеевич": 4,
-      "Дулов Сергей Юльевич": 6,
-      "Есякова Галина Викторовна": 84,
-      "Ивашкевич Анатолий Павлович": 7,
-      "Игошин Игорь Николаевич": 294,
-      "Казаков Сергей Валентинович": 122,
-      "Леонтьев Александр Геннадьевич": 64,
-      "Малаховский Семен Павлович": 23,
-      "Чуркин Геннадий Иванович": 80,
-      "Шикунов Александр Дмитриевич": 3,
-      "Против всех": 267
+      "gas:candidate-vibid:1001000202297": 81,
+      "gas:candidate-vibid:333300170781": 167,
+      "gas:candidate-vibid:333300171576": 27,
+      "gas:candidate-vibid:333300171500": 4,
+      "gas:candidate-vibid:333300170778": 6,
+      "gas:candidate-vibid:1001000190333": 84,
+      "gas:candidate-vibid:333300170860": 7,
+      "gas:candidate-vibid:1001000121837": 294,
+      "gas:candidate-vibid:1001000113922": 122,
+      "gas:candidate-vibid:1001000220815": 64,
+      "gas:candidate-vibid:1001000136041": 23,
+      "gas:candidate-vibid:1001000217917": 80,
+      "gas:candidate-vibid:333300170955": 3,
+      "special:against-all": 267
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=332000053&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=233200072420&region=0&sub_region=0&type=429",
@@ -7728,20 +7728,20 @@ export const duma_2003_uik_428_region_33_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Андрианов Николай Ефимович": 92,
-      "Артемов Игорь Владимирович": 173,
-      "Беляков Антон Владимирович": 43,
-      "Волков Анатолий Алексеевич": 5,
-      "Дулов Сергей Юльевич": 12,
-      "Есякова Галина Викторовна": 88,
-      "Ивашкевич Анатолий Павлович": 7,
-      "Игошин Игорь Николаевич": 254,
-      "Казаков Сергей Валентинович": 125,
-      "Леонтьев Александр Геннадьевич": 84,
-      "Малаховский Семен Павлович": 16,
-      "Чуркин Геннадий Иванович": 63,
-      "Шикунов Александр Дмитриевич": 6,
-      "Против всех": 238
+      "gas:candidate-vibid:1001000202297": 92,
+      "gas:candidate-vibid:333300170781": 173,
+      "gas:candidate-vibid:333300171576": 43,
+      "gas:candidate-vibid:333300171500": 5,
+      "gas:candidate-vibid:333300170778": 12,
+      "gas:candidate-vibid:1001000190333": 88,
+      "gas:candidate-vibid:333300170860": 7,
+      "gas:candidate-vibid:1001000121837": 254,
+      "gas:candidate-vibid:1001000113922": 125,
+      "gas:candidate-vibid:1001000220815": 84,
+      "gas:candidate-vibid:1001000136041": 16,
+      "gas:candidate-vibid:1001000217917": 63,
+      "gas:candidate-vibid:333300170955": 6,
+      "special:against-all": 238
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=332000053&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=233200072420&region=0&sub_region=0&type=429",
@@ -7791,20 +7791,20 @@ export const duma_2003_uik_428_region_33_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Андрианов Николай Ефимович": 75,
-      "Артемов Игорь Владимирович": 227,
-      "Беляков Антон Владимирович": 43,
-      "Волков Анатолий Алексеевич": 2,
-      "Дулов Сергей Юльевич": 13,
-      "Есякова Галина Викторовна": 52,
-      "Ивашкевич Анатолий Павлович": 9,
-      "Игошин Игорь Николаевич": 255,
-      "Казаков Сергей Валентинович": 94,
-      "Леонтьев Александр Геннадьевич": 70,
-      "Малаховский Семен Павлович": 29,
-      "Чуркин Геннадий Иванович": 62,
-      "Шикунов Александр Дмитриевич": 1,
-      "Против всех": 264
+      "gas:candidate-vibid:1001000202297": 75,
+      "gas:candidate-vibid:333300170781": 227,
+      "gas:candidate-vibid:333300171576": 43,
+      "gas:candidate-vibid:333300171500": 2,
+      "gas:candidate-vibid:333300170778": 13,
+      "gas:candidate-vibid:1001000190333": 52,
+      "gas:candidate-vibid:333300170860": 9,
+      "gas:candidate-vibid:1001000121837": 255,
+      "gas:candidate-vibid:1001000113922": 94,
+      "gas:candidate-vibid:1001000220815": 70,
+      "gas:candidate-vibid:1001000136041": 29,
+      "gas:candidate-vibid:1001000217917": 62,
+      "gas:candidate-vibid:333300170955": 1,
+      "special:against-all": 264
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=332000053&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=233200072420&region=0&sub_region=0&type=429",
@@ -7854,20 +7854,20 @@ export const duma_2003_uik_428_region_33_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Андрианов Николай Ефимович": 69,
-      "Артемов Игорь Владимирович": 240,
-      "Беляков Антон Владимирович": 38,
-      "Волков Анатолий Алексеевич": 3,
-      "Дулов Сергей Юльевич": 8,
-      "Есякова Галина Викторовна": 68,
-      "Ивашкевич Анатолий Павлович": 7,
-      "Игошин Игорь Николаевич": 266,
-      "Казаков Сергей Валентинович": 85,
-      "Леонтьев Александр Геннадьевич": 92,
-      "Малаховский Семен Павлович": 18,
-      "Чуркин Геннадий Иванович": 63,
-      "Шикунов Александр Дмитриевич": 6,
-      "Против всех": 265
+      "gas:candidate-vibid:1001000202297": 69,
+      "gas:candidate-vibid:333300170781": 240,
+      "gas:candidate-vibid:333300171576": 38,
+      "gas:candidate-vibid:333300171500": 3,
+      "gas:candidate-vibid:333300170778": 8,
+      "gas:candidate-vibid:1001000190333": 68,
+      "gas:candidate-vibid:333300170860": 7,
+      "gas:candidate-vibid:1001000121837": 266,
+      "gas:candidate-vibid:1001000113922": 85,
+      "gas:candidate-vibid:1001000220815": 92,
+      "gas:candidate-vibid:1001000136041": 18,
+      "gas:candidate-vibid:1001000217917": 63,
+      "gas:candidate-vibid:333300170955": 6,
+      "special:against-all": 265
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=332000053&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=233200072420&region=0&sub_region=0&type=429",
@@ -7917,20 +7917,20 @@ export const duma_2003_uik_428_region_33_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Андрианов Николай Ефимович": 73,
-      "Артемов Игорь Владимирович": 185,
-      "Беляков Антон Владимирович": 26,
-      "Волков Анатолий Алексеевич": 3,
-      "Дулов Сергей Юльевич": 7,
-      "Есякова Галина Викторовна": 52,
-      "Ивашкевич Анатолий Павлович": 14,
-      "Игошин Игорь Николаевич": 270,
-      "Казаков Сергей Валентинович": 64,
-      "Леонтьев Александр Геннадьевич": 116,
-      "Малаховский Семен Павлович": 20,
-      "Чуркин Геннадий Иванович": 117,
-      "Шикунов Александр Дмитриевич": 6,
-      "Против всех": 259
+      "gas:candidate-vibid:1001000202297": 73,
+      "gas:candidate-vibid:333300170781": 185,
+      "gas:candidate-vibid:333300171576": 26,
+      "gas:candidate-vibid:333300171500": 3,
+      "gas:candidate-vibid:333300170778": 7,
+      "gas:candidate-vibid:1001000190333": 52,
+      "gas:candidate-vibid:333300170860": 14,
+      "gas:candidate-vibid:1001000121837": 270,
+      "gas:candidate-vibid:1001000113922": 64,
+      "gas:candidate-vibid:1001000220815": 116,
+      "gas:candidate-vibid:1001000136041": 20,
+      "gas:candidate-vibid:1001000217917": 117,
+      "gas:candidate-vibid:333300170955": 6,
+      "special:against-all": 259
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=332000053&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=233200072420&region=0&sub_region=0&type=429",
@@ -7980,17 +7980,17 @@ export const duma_2003_uik_428_region_33_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бодров Дмитрий Алексеевич": 60,
-      "Гусев Анатолий Алексеевич": 28,
-      "Заморин Олег Константинович": 71,
-      "Котров Олег Владимирович": 91,
-      "Кузин Валерий Алексеевич": 6,
-      "Мельков Вадим Алексеевич": 35,
-      "Паутов Виктор Николаевич": 165,
-      "Трифонов Игорь Иванович": 11,
-      "Черторицкая Татьяна Владимировна": 15,
-      "Шубников Игорь Павлович": 11,
-      "Против всех": 131
+      "gas:candidate-vibid:1001000136042": 60,
+      "gas:candidate-vibid:1001000113923": 28,
+      "gas:candidate-vibid:333300270576": 71,
+      "gas:candidate-vibid:1001000225929": 91,
+      "gas:candidate-vibid:333300270566": 6,
+      "gas:candidate-vibid:1001000190335": 35,
+      "gas:candidate-vibid:333300270371": 165,
+      "gas:candidate-vibid:333300270581": 11,
+      "gas:candidate-vibid:333300270563": 15,
+      "gas:candidate-vibid:1001000202298": 11,
+      "special:against-all": 131
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=332000059&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=233200072444&region=0&sub_region=0&type=429",
@@ -8040,17 +8040,17 @@ export const duma_2003_uik_428_region_33_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бодров Дмитрий Алексеевич": 48,
-      "Гусев Анатолий Алексеевич": 24,
-      "Заморин Олег Константинович": 75,
-      "Котров Олег Владимирович": 95,
-      "Кузин Валерий Алексеевич": 5,
-      "Мельков Вадим Алексеевич": 33,
-      "Паутов Виктор Николаевич": 199,
-      "Трифонов Игорь Иванович": 12,
-      "Черторицкая Татьяна Владимировна": 27,
-      "Шубников Игорь Павлович": 14,
-      "Против всех": 117
+      "gas:candidate-vibid:1001000136042": 48,
+      "gas:candidate-vibid:1001000113923": 24,
+      "gas:candidate-vibid:333300270576": 75,
+      "gas:candidate-vibid:1001000225929": 95,
+      "gas:candidate-vibid:333300270566": 5,
+      "gas:candidate-vibid:1001000190335": 33,
+      "gas:candidate-vibid:333300270371": 199,
+      "gas:candidate-vibid:333300270581": 12,
+      "gas:candidate-vibid:333300270563": 27,
+      "gas:candidate-vibid:1001000202298": 14,
+      "special:against-all": 117
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=332000059&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=233200072444&region=0&sub_region=0&type=429",
@@ -8100,17 +8100,17 @@ export const duma_2003_uik_428_region_33_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бодров Дмитрий Алексеевич": 85,
-      "Гусев Анатолий Алексеевич": 36,
-      "Заморин Олег Константинович": 45,
-      "Котров Олег Владимирович": 113,
-      "Кузин Валерий Алексеевич": 10,
-      "Мельков Вадим Алексеевич": 58,
-      "Паутов Виктор Николаевич": 290,
-      "Трифонов Игорь Иванович": 14,
-      "Черторицкая Татьяна Владимировна": 23,
-      "Шубников Игорь Павлович": 11,
-      "Против всех": 144
+      "gas:candidate-vibid:1001000136042": 85,
+      "gas:candidate-vibid:1001000113923": 36,
+      "gas:candidate-vibid:333300270576": 45,
+      "gas:candidate-vibid:1001000225929": 113,
+      "gas:candidate-vibid:333300270566": 10,
+      "gas:candidate-vibid:1001000190335": 58,
+      "gas:candidate-vibid:333300270371": 290,
+      "gas:candidate-vibid:333300270581": 14,
+      "gas:candidate-vibid:333300270563": 23,
+      "gas:candidate-vibid:1001000202298": 11,
+      "special:against-all": 144
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=332000059&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=233200072444&region=0&sub_region=0&type=429",
@@ -8160,17 +8160,17 @@ export const duma_2003_uik_428_region_33_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бодров Дмитрий Алексеевич": 71,
-      "Гусев Анатолий Алексеевич": 26,
-      "Заморин Олег Константинович": 52,
-      "Котров Олег Владимирович": 89,
-      "Кузин Валерий Алексеевич": 5,
-      "Мельков Вадим Алексеевич": 35,
-      "Паутов Виктор Николаевич": 199,
-      "Трифонов Игорь Иванович": 3,
-      "Черторицкая Татьяна Владимировна": 18,
-      "Шубников Игорь Павлович": 21,
-      "Против всех": 141
+      "gas:candidate-vibid:1001000136042": 71,
+      "gas:candidate-vibid:1001000113923": 26,
+      "gas:candidate-vibid:333300270576": 52,
+      "gas:candidate-vibid:1001000225929": 89,
+      "gas:candidate-vibid:333300270566": 5,
+      "gas:candidate-vibid:1001000190335": 35,
+      "gas:candidate-vibid:333300270371": 199,
+      "gas:candidate-vibid:333300270581": 3,
+      "gas:candidate-vibid:333300270563": 18,
+      "gas:candidate-vibid:1001000202298": 21,
+      "special:against-all": 141
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=332000059&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=233200072444&region=0&sub_region=0&type=429",
@@ -8220,17 +8220,17 @@ export const duma_2003_uik_428_region_33_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бодров Дмитрий Алексеевич": 68,
-      "Гусев Анатолий Алексеевич": 13,
-      "Заморин Олег Константинович": 44,
-      "Котров Олег Владимирович": 94,
-      "Кузин Валерий Алексеевич": 13,
-      "Мельков Вадим Алексеевич": 33,
-      "Паутов Виктор Николаевич": 224,
-      "Трифонов Игорь Иванович": 12,
-      "Черторицкая Татьяна Владимировна": 19,
-      "Шубников Игорь Павлович": 13,
-      "Против всех": 119
+      "gas:candidate-vibid:1001000136042": 68,
+      "gas:candidate-vibid:1001000113923": 13,
+      "gas:candidate-vibid:333300270576": 44,
+      "gas:candidate-vibid:1001000225929": 94,
+      "gas:candidate-vibid:333300270566": 13,
+      "gas:candidate-vibid:1001000190335": 33,
+      "gas:candidate-vibid:333300270371": 224,
+      "gas:candidate-vibid:333300270581": 12,
+      "gas:candidate-vibid:333300270563": 19,
+      "gas:candidate-vibid:1001000202298": 13,
+      "special:against-all": 119
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=332000059&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=233200072444&region=0&sub_region=0&type=429",
@@ -8280,17 +8280,17 @@ export const duma_2003_uik_428_region_33_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бодров Дмитрий Алексеевич": 36,
-      "Гусев Анатолий Алексеевич": 12,
-      "Заморин Олег Константинович": 46,
-      "Котров Олег Владимирович": 63,
-      "Кузин Валерий Алексеевич": 5,
-      "Мельков Вадим Алексеевич": 48,
-      "Паутов Виктор Николаевич": 134,
-      "Трифонов Игорь Иванович": 6,
-      "Черторицкая Татьяна Владимировна": 26,
-      "Шубников Игорь Павлович": 9,
-      "Против всех": 87
+      "gas:candidate-vibid:1001000136042": 36,
+      "gas:candidate-vibid:1001000113923": 12,
+      "gas:candidate-vibid:333300270576": 46,
+      "gas:candidate-vibid:1001000225929": 63,
+      "gas:candidate-vibid:333300270566": 5,
+      "gas:candidate-vibid:1001000190335": 48,
+      "gas:candidate-vibid:333300270371": 134,
+      "gas:candidate-vibid:333300270581": 6,
+      "gas:candidate-vibid:333300270563": 26,
+      "gas:candidate-vibid:1001000202298": 9,
+      "special:against-all": 87
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=332000059&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=233200072444&region=0&sub_region=0&type=429",
@@ -8340,17 +8340,17 @@ export const duma_2003_uik_428_region_33_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бодров Дмитрий Алексеевич": 56,
-      "Гусев Анатолий Алексеевич": 13,
-      "Заморин Олег Константинович": 49,
-      "Котров Олег Владимирович": 81,
-      "Кузин Валерий Алексеевич": 4,
-      "Мельков Вадим Алексеевич": 42,
-      "Паутов Виктор Николаевич": 169,
-      "Трифонов Игорь Иванович": 6,
-      "Черторицкая Татьяна Владимировна": 19,
-      "Шубников Игорь Павлович": 12,
-      "Против всех": 104
+      "gas:candidate-vibid:1001000136042": 56,
+      "gas:candidate-vibid:1001000113923": 13,
+      "gas:candidate-vibid:333300270576": 49,
+      "gas:candidate-vibid:1001000225929": 81,
+      "gas:candidate-vibid:333300270566": 4,
+      "gas:candidate-vibid:1001000190335": 42,
+      "gas:candidate-vibid:333300270371": 169,
+      "gas:candidate-vibid:333300270581": 6,
+      "gas:candidate-vibid:333300270563": 19,
+      "gas:candidate-vibid:1001000202298": 12,
+      "special:against-all": 104
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=332000059&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=233200072444&region=0&sub_region=0&type=429",
@@ -8400,17 +8400,17 @@ export const duma_2003_uik_428_region_33_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бодров Дмитрий Алексеевич": 72,
-      "Гусев Анатолий Алексеевич": 21,
-      "Заморин Олег Константинович": 62,
-      "Котров Олег Владимирович": 127,
-      "Кузин Валерий Алексеевич": 9,
-      "Мельков Вадим Алексеевич": 52,
-      "Паутов Виктор Николаевич": 221,
-      "Трифонов Игорь Иванович": 12,
-      "Черторицкая Татьяна Владимировна": 53,
-      "Шубников Игорь Павлович": 17,
-      "Против всех": 155
+      "gas:candidate-vibid:1001000136042": 72,
+      "gas:candidate-vibid:1001000113923": 21,
+      "gas:candidate-vibid:333300270576": 62,
+      "gas:candidate-vibid:1001000225929": 127,
+      "gas:candidate-vibid:333300270566": 9,
+      "gas:candidate-vibid:1001000190335": 52,
+      "gas:candidate-vibid:333300270371": 221,
+      "gas:candidate-vibid:333300270581": 12,
+      "gas:candidate-vibid:333300270563": 53,
+      "gas:candidate-vibid:1001000202298": 17,
+      "special:against-all": 155
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=332000059&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=233200072444&region=0&sub_region=0&type=429",
@@ -8460,17 +8460,17 @@ export const duma_2003_uik_428_region_33_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бодров Дмитрий Алексеевич": 112,
-      "Гусев Анатолий Алексеевич": 26,
-      "Заморин Олег Константинович": 89,
-      "Котров Олег Владимирович": 165,
-      "Кузин Валерий Алексеевич": 23,
-      "Мельков Вадим Алексеевич": 75,
-      "Паутов Виктор Николаевич": 357,
-      "Трифонов Игорь Иванович": 33,
-      "Черторицкая Татьяна Владимировна": 50,
-      "Шубников Игорь Павлович": 23,
-      "Против всех": 249
+      "gas:candidate-vibid:1001000136042": 112,
+      "gas:candidate-vibid:1001000113923": 26,
+      "gas:candidate-vibid:333300270576": 89,
+      "gas:candidate-vibid:1001000225929": 165,
+      "gas:candidate-vibid:333300270566": 23,
+      "gas:candidate-vibid:1001000190335": 75,
+      "gas:candidate-vibid:333300270371": 357,
+      "gas:candidate-vibid:333300270581": 33,
+      "gas:candidate-vibid:333300270563": 50,
+      "gas:candidate-vibid:1001000202298": 23,
+      "special:against-all": 249
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=332000059&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=233200072444&region=0&sub_region=0&type=429",
@@ -8520,17 +8520,17 @@ export const duma_2003_uik_428_region_33_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бодров Дмитрий Алексеевич": 102,
-      "Гусев Анатолий Алексеевич": 25,
-      "Заморин Олег Константинович": 68,
-      "Котров Олег Владимирович": 164,
-      "Кузин Валерий Алексеевич": 8,
-      "Мельков Вадим Алексеевич": 65,
-      "Паутов Виктор Николаевич": 336,
-      "Трифонов Игорь Иванович": 22,
-      "Черторицкая Татьяна Владимировна": 20,
-      "Шубников Игорь Павлович": 18,
-      "Против всех": 233
+      "gas:candidate-vibid:1001000136042": 102,
+      "gas:candidate-vibid:1001000113923": 25,
+      "gas:candidate-vibid:333300270576": 68,
+      "gas:candidate-vibid:1001000225929": 164,
+      "gas:candidate-vibid:333300270566": 8,
+      "gas:candidate-vibid:1001000190335": 65,
+      "gas:candidate-vibid:333300270371": 336,
+      "gas:candidate-vibid:333300270581": 22,
+      "gas:candidate-vibid:333300270563": 20,
+      "gas:candidate-vibid:1001000202298": 18,
+      "special:against-all": 233
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=332000059&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=233200072444&region=0&sub_region=0&type=429",
@@ -8580,17 +8580,17 @@ export const duma_2003_uik_428_region_33_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бодров Дмитрий Алексеевич": 49,
-      "Гусев Анатолий Алексеевич": 38,
-      "Заморин Олег Константинович": 46,
-      "Котров Олег Владимирович": 85,
-      "Кузин Валерий Алексеевич": 6,
-      "Мельков Вадим Алексеевич": 40,
-      "Паутов Виктор Николаевич": 111,
-      "Трифонов Игорь Иванович": 14,
-      "Черторицкая Татьяна Владимировна": 26,
-      "Шубников Игорь Павлович": 7,
-      "Против всех": 100
+      "gas:candidate-vibid:1001000136042": 49,
+      "gas:candidate-vibid:1001000113923": 38,
+      "gas:candidate-vibid:333300270576": 46,
+      "gas:candidate-vibid:1001000225929": 85,
+      "gas:candidate-vibid:333300270566": 6,
+      "gas:candidate-vibid:1001000190335": 40,
+      "gas:candidate-vibid:333300270371": 111,
+      "gas:candidate-vibid:333300270581": 14,
+      "gas:candidate-vibid:333300270563": 26,
+      "gas:candidate-vibid:1001000202298": 7,
+      "special:against-all": 100
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=332000059&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=233200072444&region=0&sub_region=0&type=429",
@@ -8640,17 +8640,17 @@ export const duma_2003_uik_428_region_33_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бодров Дмитрий Алексеевич": 19,
-      "Гусев Анатолий Алексеевич": 12,
-      "Заморин Олег Константинович": 54,
-      "Котров Олег Владимирович": 47,
-      "Кузин Валерий Алексеевич": 3,
-      "Мельков Вадим Алексеевич": 26,
-      "Паутов Виктор Николаевич": 73,
-      "Трифонов Игорь Иванович": 4,
-      "Черторицкая Татьяна Владимировна": 28,
-      "Шубников Игорь Павлович": 10,
-      "Против всех": 61
+      "gas:candidate-vibid:1001000136042": 19,
+      "gas:candidate-vibid:1001000113923": 12,
+      "gas:candidate-vibid:333300270576": 54,
+      "gas:candidate-vibid:1001000225929": 47,
+      "gas:candidate-vibid:333300270566": 3,
+      "gas:candidate-vibid:1001000190335": 26,
+      "gas:candidate-vibid:333300270371": 73,
+      "gas:candidate-vibid:333300270581": 4,
+      "gas:candidate-vibid:333300270563": 28,
+      "gas:candidate-vibid:1001000202298": 10,
+      "special:against-all": 61
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=332000059&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=233200072444&region=0&sub_region=0&type=429",
@@ -8700,17 +8700,17 @@ export const duma_2003_uik_428_region_33_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бодров Дмитрий Алексеевич": 45,
-      "Гусев Анатолий Алексеевич": 13,
-      "Заморин Олег Константинович": 34,
-      "Котров Олег Владимирович": 78,
-      "Кузин Валерий Алексеевич": 5,
-      "Мельков Вадим Алексеевич": 36,
-      "Паутов Виктор Николаевич": 135,
-      "Трифонов Игорь Иванович": 4,
-      "Черторицкая Татьяна Владимировна": 23,
-      "Шубников Игорь Павлович": 10,
-      "Против всех": 61
+      "gas:candidate-vibid:1001000136042": 45,
+      "gas:candidate-vibid:1001000113923": 13,
+      "gas:candidate-vibid:333300270576": 34,
+      "gas:candidate-vibid:1001000225929": 78,
+      "gas:candidate-vibid:333300270566": 5,
+      "gas:candidate-vibid:1001000190335": 36,
+      "gas:candidate-vibid:333300270371": 135,
+      "gas:candidate-vibid:333300270581": 4,
+      "gas:candidate-vibid:333300270563": 23,
+      "gas:candidate-vibid:1001000202298": 10,
+      "special:against-all": 61
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=332000059&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=233200072444&region=0&sub_region=0&type=429",
@@ -8760,17 +8760,17 @@ export const duma_2003_uik_428_region_33_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бодров Дмитрий Алексеевич": 42,
-      "Гусев Анатолий Алексеевич": 15,
-      "Заморин Олег Константинович": 71,
-      "Котров Олег Владимирович": 63,
-      "Кузин Валерий Алексеевич": 10,
-      "Мельков Вадим Алексеевич": 39,
-      "Паутов Виктор Николаевич": 142,
-      "Трифонов Игорь Иванович": 9,
-      "Черторицкая Татьяна Владимировна": 19,
-      "Шубников Игорь Павлович": 19,
-      "Против всех": 80
+      "gas:candidate-vibid:1001000136042": 42,
+      "gas:candidate-vibid:1001000113923": 15,
+      "gas:candidate-vibid:333300270576": 71,
+      "gas:candidate-vibid:1001000225929": 63,
+      "gas:candidate-vibid:333300270566": 10,
+      "gas:candidate-vibid:1001000190335": 39,
+      "gas:candidate-vibid:333300270371": 142,
+      "gas:candidate-vibid:333300270581": 9,
+      "gas:candidate-vibid:333300270563": 19,
+      "gas:candidate-vibid:1001000202298": 19,
+      "special:against-all": 80
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=332000059&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=233200072444&region=0&sub_region=0&type=429",
@@ -8820,17 +8820,17 @@ export const duma_2003_uik_428_region_33_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бодров Дмитрий Алексеевич": 64,
-      "Гусев Анатолий Алексеевич": 32,
-      "Заморин Олег Константинович": 96,
-      "Котров Олег Владимирович": 113,
-      "Кузин Валерий Алексеевич": 12,
-      "Мельков Вадим Алексеевич": 66,
-      "Паутов Виктор Николаевич": 321,
-      "Трифонов Игорь Иванович": 11,
-      "Черторицкая Татьяна Владимировна": 26,
-      "Шубников Игорь Павлович": 17,
-      "Против всех": 222
+      "gas:candidate-vibid:1001000136042": 64,
+      "gas:candidate-vibid:1001000113923": 32,
+      "gas:candidate-vibid:333300270576": 96,
+      "gas:candidate-vibid:1001000225929": 113,
+      "gas:candidate-vibid:333300270566": 12,
+      "gas:candidate-vibid:1001000190335": 66,
+      "gas:candidate-vibid:333300270371": 321,
+      "gas:candidate-vibid:333300270581": 11,
+      "gas:candidate-vibid:333300270563": 26,
+      "gas:candidate-vibid:1001000202298": 17,
+      "special:against-all": 222
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=332000059&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=233200072444&region=0&sub_region=0&type=429",
@@ -8880,17 +8880,17 @@ export const duma_2003_uik_428_region_33_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бодров Дмитрий Алексеевич": 26,
-      "Гусев Анатолий Алексеевич": 18,
-      "Заморин Олег Константинович": 46,
-      "Котров Олег Владимирович": 64,
-      "Кузин Валерий Алексеевич": 2,
-      "Мельков Вадим Алексеевич": 42,
-      "Паутов Виктор Николаевич": 179,
-      "Трифонов Игорь Иванович": 6,
-      "Черторицкая Татьяна Владимировна": 15,
-      "Шубников Игорь Павлович": 22,
-      "Против всех": 110
+      "gas:candidate-vibid:1001000136042": 26,
+      "gas:candidate-vibid:1001000113923": 18,
+      "gas:candidate-vibid:333300270576": 46,
+      "gas:candidate-vibid:1001000225929": 64,
+      "gas:candidate-vibid:333300270566": 2,
+      "gas:candidate-vibid:1001000190335": 42,
+      "gas:candidate-vibid:333300270371": 179,
+      "gas:candidate-vibid:333300270581": 6,
+      "gas:candidate-vibid:333300270563": 15,
+      "gas:candidate-vibid:1001000202298": 22,
+      "special:against-all": 110
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=332000059&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=233200072444&region=0&sub_region=0&type=429",
@@ -8940,17 +8940,17 @@ export const duma_2003_uik_428_region_33_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бодров Дмитрий Алексеевич": 49,
-      "Гусев Анатолий Алексеевич": 17,
-      "Заморин Олег Константинович": 58,
-      "Котров Олег Владимирович": 93,
-      "Кузин Валерий Алексеевич": 11,
-      "Мельков Вадим Алексеевич": 42,
-      "Паутов Виктор Николаевич": 212,
-      "Трифонов Игорь Иванович": 9,
-      "Черторицкая Татьяна Владимировна": 27,
-      "Шубников Игорь Павлович": 14,
-      "Против всех": 128
+      "gas:candidate-vibid:1001000136042": 49,
+      "gas:candidate-vibid:1001000113923": 17,
+      "gas:candidate-vibid:333300270576": 58,
+      "gas:candidate-vibid:1001000225929": 93,
+      "gas:candidate-vibid:333300270566": 11,
+      "gas:candidate-vibid:1001000190335": 42,
+      "gas:candidate-vibid:333300270371": 212,
+      "gas:candidate-vibid:333300270581": 9,
+      "gas:candidate-vibid:333300270563": 27,
+      "gas:candidate-vibid:1001000202298": 14,
+      "special:against-all": 128
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=332000059&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=233200072444&region=0&sub_region=0&type=429",
@@ -9000,17 +9000,17 @@ export const duma_2003_uik_428_region_33_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бодров Дмитрий Алексеевич": 98,
-      "Гусев Анатолий Алексеевич": 43,
-      "Заморин Олег Константинович": 111,
-      "Котров Олег Владимирович": 145,
-      "Кузин Валерий Алексеевич": 9,
-      "Мельков Вадим Алексеевич": 75,
-      "Паутов Виктор Николаевич": 316,
-      "Трифонов Игорь Иванович": 19,
-      "Черторицкая Татьяна Владимировна": 54,
-      "Шубников Игорь Павлович": 15,
-      "Против всех": 233
+      "gas:candidate-vibid:1001000136042": 98,
+      "gas:candidate-vibid:1001000113923": 43,
+      "gas:candidate-vibid:333300270576": 111,
+      "gas:candidate-vibid:1001000225929": 145,
+      "gas:candidate-vibid:333300270566": 9,
+      "gas:candidate-vibid:1001000190335": 75,
+      "gas:candidate-vibid:333300270371": 316,
+      "gas:candidate-vibid:333300270581": 19,
+      "gas:candidate-vibid:333300270563": 54,
+      "gas:candidate-vibid:1001000202298": 15,
+      "special:against-all": 233
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=332000059&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=233200072444&region=0&sub_region=0&type=429",
@@ -9060,17 +9060,17 @@ export const duma_2003_uik_428_region_33_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бодров Дмитрий Алексеевич": 41,
-      "Гусев Анатолий Алексеевич": 22,
-      "Заморин Олег Константинович": 38,
-      "Котров Олег Владимирович": 62,
-      "Кузин Валерий Алексеевич": 4,
-      "Мельков Вадим Алексеевич": 46,
-      "Паутов Виктор Николаевич": 239,
-      "Трифонов Игорь Иванович": 16,
-      "Черторицкая Татьяна Владимировна": 28,
-      "Шубников Игорь Павлович": 20,
-      "Против всех": 99
+      "gas:candidate-vibid:1001000136042": 41,
+      "gas:candidate-vibid:1001000113923": 22,
+      "gas:candidate-vibid:333300270576": 38,
+      "gas:candidate-vibid:1001000225929": 62,
+      "gas:candidate-vibid:333300270566": 4,
+      "gas:candidate-vibid:1001000190335": 46,
+      "gas:candidate-vibid:333300270371": 239,
+      "gas:candidate-vibid:333300270581": 16,
+      "gas:candidate-vibid:333300270563": 28,
+      "gas:candidate-vibid:1001000202298": 20,
+      "special:against-all": 99
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=332000059&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=233200072444&region=0&sub_region=0&type=429",
@@ -9120,17 +9120,17 @@ export const duma_2003_uik_428_region_33_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бодров Дмитрий Алексеевич": 43,
-      "Гусев Анатолий Алексеевич": 26,
-      "Заморин Олег Константинович": 57,
-      "Котров Олег Владимирович": 105,
-      "Кузин Валерий Алексеевич": 7,
-      "Мельков Вадим Алексеевич": 54,
-      "Паутов Виктор Николаевич": 260,
-      "Трифонов Игорь Иванович": 19,
-      "Черторицкая Татьяна Владимировна": 28,
-      "Шубников Игорь Павлович": 27,
-      "Против всех": 125
+      "gas:candidate-vibid:1001000136042": 43,
+      "gas:candidate-vibid:1001000113923": 26,
+      "gas:candidate-vibid:333300270576": 57,
+      "gas:candidate-vibid:1001000225929": 105,
+      "gas:candidate-vibid:333300270566": 7,
+      "gas:candidate-vibid:1001000190335": 54,
+      "gas:candidate-vibid:333300270371": 260,
+      "gas:candidate-vibid:333300270581": 19,
+      "gas:candidate-vibid:333300270563": 28,
+      "gas:candidate-vibid:1001000202298": 27,
+      "special:against-all": 125
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=332000059&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=233200072444&region=0&sub_region=0&type=429",
@@ -9180,17 +9180,17 @@ export const duma_2003_uik_428_region_33_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бодров Дмитрий Алексеевич": 80,
-      "Гусев Анатолий Алексеевич": 52,
-      "Заморин Олег Константинович": 99,
-      "Котров Олег Владимирович": 183,
-      "Кузин Валерий Алексеевич": 10,
-      "Мельков Вадим Алексеевич": 46,
-      "Паутов Виктор Николаевич": 356,
-      "Трифонов Игорь Иванович": 19,
-      "Черторицкая Татьяна Владимировна": 32,
-      "Шубников Игорь Павлович": 19,
-      "Против всех": 247
+      "gas:candidate-vibid:1001000136042": 80,
+      "gas:candidate-vibid:1001000113923": 52,
+      "gas:candidate-vibid:333300270576": 99,
+      "gas:candidate-vibid:1001000225929": 183,
+      "gas:candidate-vibid:333300270566": 10,
+      "gas:candidate-vibid:1001000190335": 46,
+      "gas:candidate-vibid:333300270371": 356,
+      "gas:candidate-vibid:333300270581": 19,
+      "gas:candidate-vibid:333300270563": 32,
+      "gas:candidate-vibid:1001000202298": 19,
+      "special:against-all": 247
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=332000059&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=233200072444&region=0&sub_region=0&type=429",
@@ -9240,17 +9240,17 @@ export const duma_2003_uik_428_region_33_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бодров Дмитрий Алексеевич": 42,
-      "Гусев Анатолий Алексеевич": 18,
-      "Заморин Олег Константинович": 88,
-      "Котров Олег Владимирович": 116,
-      "Кузин Валерий Алексеевич": 2,
-      "Мельков Вадим Алексеевич": 55,
-      "Паутов Виктор Николаевич": 205,
-      "Трифонов Игорь Иванович": 12,
-      "Черторицкая Татьяна Владимировна": 35,
-      "Шубников Игорь Павлович": 23,
-      "Против всех": 175
+      "gas:candidate-vibid:1001000136042": 42,
+      "gas:candidate-vibid:1001000113923": 18,
+      "gas:candidate-vibid:333300270576": 88,
+      "gas:candidate-vibid:1001000225929": 116,
+      "gas:candidate-vibid:333300270566": 2,
+      "gas:candidate-vibid:1001000190335": 55,
+      "gas:candidate-vibid:333300270371": 205,
+      "gas:candidate-vibid:333300270581": 12,
+      "gas:candidate-vibid:333300270563": 35,
+      "gas:candidate-vibid:1001000202298": 23,
+      "special:against-all": 175
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=332000059&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=233200072444&region=0&sub_region=0&type=429",
@@ -9300,17 +9300,17 @@ export const duma_2003_uik_428_region_33_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бодров Дмитрий Алексеевич": 100,
-      "Гусев Анатолий Алексеевич": 37,
-      "Заморин Олег Константинович": 198,
-      "Котров Олег Владимирович": 162,
-      "Кузин Валерий Алексеевич": 8,
-      "Мельков Вадим Алексеевич": 119,
-      "Паутов Виктор Николаевич": 282,
-      "Трифонов Игорь Иванович": 14,
-      "Черторицкая Татьяна Владимировна": 66,
-      "Шубников Игорь Павлович": 20,
-      "Против всех": 242
+      "gas:candidate-vibid:1001000136042": 100,
+      "gas:candidate-vibid:1001000113923": 37,
+      "gas:candidate-vibid:333300270576": 198,
+      "gas:candidate-vibid:1001000225929": 162,
+      "gas:candidate-vibid:333300270566": 8,
+      "gas:candidate-vibid:1001000190335": 119,
+      "gas:candidate-vibid:333300270371": 282,
+      "gas:candidate-vibid:333300270581": 14,
+      "gas:candidate-vibid:333300270563": 66,
+      "gas:candidate-vibid:1001000202298": 20,
+      "special:against-all": 242
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=332000059&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=233200072444&region=0&sub_region=0&type=429",
@@ -9360,17 +9360,17 @@ export const duma_2003_uik_428_region_33_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бодров Дмитрий Алексеевич": 83,
-      "Гусев Анатолий Алексеевич": 20,
-      "Заморин Олег Константинович": 136,
-      "Котров Олег Владимирович": 137,
-      "Кузин Валерий Алексеевич": 8,
-      "Мельков Вадим Алексеевич": 53,
-      "Паутов Виктор Николаевич": 242,
-      "Трифонов Игорь Иванович": 18,
-      "Черторицкая Татьяна Владимировна": 31,
-      "Шубников Игорь Павлович": 27,
-      "Против всех": 175
+      "gas:candidate-vibid:1001000136042": 83,
+      "gas:candidate-vibid:1001000113923": 20,
+      "gas:candidate-vibid:333300270576": 136,
+      "gas:candidate-vibid:1001000225929": 137,
+      "gas:candidate-vibid:333300270566": 8,
+      "gas:candidate-vibid:1001000190335": 53,
+      "gas:candidate-vibid:333300270371": 242,
+      "gas:candidate-vibid:333300270581": 18,
+      "gas:candidate-vibid:333300270563": 31,
+      "gas:candidate-vibid:1001000202298": 27,
+      "special:against-all": 175
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=332000059&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=233200072444&region=0&sub_region=0&type=429",
@@ -9420,17 +9420,17 @@ export const duma_2003_uik_428_region_33_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бодров Дмитрий Алексеевич": 63,
-      "Гусев Анатолий Алексеевич": 26,
-      "Заморин Олег Константинович": 51,
-      "Котров Олег Владимирович": 97,
-      "Кузин Валерий Алексеевич": 9,
-      "Мельков Вадим Алексеевич": 33,
-      "Паутов Виктор Николаевич": 197,
-      "Трифонов Игорь Иванович": 7,
-      "Черторицкая Татьяна Владимировна": 32,
-      "Шубников Игорь Павлович": 25,
-      "Против всех": 149
+      "gas:candidate-vibid:1001000136042": 63,
+      "gas:candidate-vibid:1001000113923": 26,
+      "gas:candidate-vibid:333300270576": 51,
+      "gas:candidate-vibid:1001000225929": 97,
+      "gas:candidate-vibid:333300270566": 9,
+      "gas:candidate-vibid:1001000190335": 33,
+      "gas:candidate-vibid:333300270371": 197,
+      "gas:candidate-vibid:333300270581": 7,
+      "gas:candidate-vibid:333300270563": 32,
+      "gas:candidate-vibid:1001000202298": 25,
+      "special:against-all": 149
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=332000059&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=233200072444&region=0&sub_region=0&type=429",
@@ -9480,17 +9480,17 @@ export const duma_2003_uik_428_region_33_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бодров Дмитрий Алексеевич": 66,
-      "Гусев Анатолий Алексеевич": 29,
-      "Заморин Олег Константинович": 65,
-      "Котров Олег Владимирович": 130,
-      "Кузин Валерий Алексеевич": 3,
-      "Мельков Вадим Алексеевич": 60,
-      "Паутов Виктор Николаевич": 303,
-      "Трифонов Игорь Иванович": 18,
-      "Черторицкая Татьяна Владимировна": 30,
-      "Шубников Игорь Павлович": 17,
-      "Против всех": 173
+      "gas:candidate-vibid:1001000136042": 66,
+      "gas:candidate-vibid:1001000113923": 29,
+      "gas:candidate-vibid:333300270576": 65,
+      "gas:candidate-vibid:1001000225929": 130,
+      "gas:candidate-vibid:333300270566": 3,
+      "gas:candidate-vibid:1001000190335": 60,
+      "gas:candidate-vibid:333300270371": 303,
+      "gas:candidate-vibid:333300270581": 18,
+      "gas:candidate-vibid:333300270563": 30,
+      "gas:candidate-vibid:1001000202298": 17,
+      "special:against-all": 173
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=332000059&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=233200072444&region=0&sub_region=0&type=429",
@@ -9540,17 +9540,17 @@ export const duma_2003_uik_428_region_33_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бодров Дмитрий Алексеевич": 62,
-      "Гусев Анатолий Алексеевич": 29,
-      "Заморин Олег Константинович": 102,
-      "Котров Олег Владимирович": 147,
-      "Кузин Валерий Алексеевич": 3,
-      "Мельков Вадим Алексеевич": 42,
-      "Паутов Виктор Николаевич": 311,
-      "Трифонов Игорь Иванович": 13,
-      "Черторицкая Татьяна Владимировна": 39,
-      "Шубников Игорь Павлович": 16,
-      "Против всех": 148
+      "gas:candidate-vibid:1001000136042": 62,
+      "gas:candidate-vibid:1001000113923": 29,
+      "gas:candidate-vibid:333300270576": 102,
+      "gas:candidate-vibid:1001000225929": 147,
+      "gas:candidate-vibid:333300270566": 3,
+      "gas:candidate-vibid:1001000190335": 42,
+      "gas:candidate-vibid:333300270371": 311,
+      "gas:candidate-vibid:333300270581": 13,
+      "gas:candidate-vibid:333300270563": 39,
+      "gas:candidate-vibid:1001000202298": 16,
+      "special:against-all": 148
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=332000059&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=233200072444&region=0&sub_region=0&type=429",
@@ -9600,17 +9600,17 @@ export const duma_2003_uik_428_region_33_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бодров Дмитрий Алексеевич": 54,
-      "Гусев Анатолий Алексеевич": 25,
-      "Заморин Олег Константинович": 76,
-      "Котров Олег Владимирович": 125,
-      "Кузин Валерий Алексеевич": 5,
-      "Мельков Вадим Алексеевич": 64,
-      "Паутов Виктор Николаевич": 265,
-      "Трифонов Игорь Иванович": 21,
-      "Черторицкая Татьяна Владимировна": 44,
-      "Шубников Игорь Павлович": 27,
-      "Против всех": 191
+      "gas:candidate-vibid:1001000136042": 54,
+      "gas:candidate-vibid:1001000113923": 25,
+      "gas:candidate-vibid:333300270576": 76,
+      "gas:candidate-vibid:1001000225929": 125,
+      "gas:candidate-vibid:333300270566": 5,
+      "gas:candidate-vibid:1001000190335": 64,
+      "gas:candidate-vibid:333300270371": 265,
+      "gas:candidate-vibid:333300270581": 21,
+      "gas:candidate-vibid:333300270563": 44,
+      "gas:candidate-vibid:1001000202298": 27,
+      "special:against-all": 191
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=332000059&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=233200072444&region=0&sub_region=0&type=429",
@@ -9660,17 +9660,17 @@ export const duma_2003_uik_428_region_33_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бодров Дмитрий Алексеевич": 89,
-      "Гусев Анатолий Алексеевич": 47,
-      "Заморин Олег Константинович": 108,
-      "Котров Олег Владимирович": 168,
-      "Кузин Валерий Алексеевич": 12,
-      "Мельков Вадим Алексеевич": 85,
-      "Паутов Виктор Николаевич": 297,
-      "Трифонов Игорь Иванович": 17,
-      "Черторицкая Татьяна Владимировна": 36,
-      "Шубников Игорь Павлович": 22,
-      "Против всех": 229
+      "gas:candidate-vibid:1001000136042": 89,
+      "gas:candidate-vibid:1001000113923": 47,
+      "gas:candidate-vibid:333300270576": 108,
+      "gas:candidate-vibid:1001000225929": 168,
+      "gas:candidate-vibid:333300270566": 12,
+      "gas:candidate-vibid:1001000190335": 85,
+      "gas:candidate-vibid:333300270371": 297,
+      "gas:candidate-vibid:333300270581": 17,
+      "gas:candidate-vibid:333300270563": 36,
+      "gas:candidate-vibid:1001000202298": 22,
+      "special:against-all": 229
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=332000059&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=233200072444&region=0&sub_region=0&type=429",
@@ -9720,17 +9720,17 @@ export const duma_2003_uik_428_region_33_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бодров Дмитрий Алексеевич": 27,
-      "Гусев Анатолий Алексеевич": 17,
-      "Заморин Олег Константинович": 41,
-      "Котров Олег Владимирович": 55,
-      "Кузин Валерий Алексеевич": 6,
-      "Мельков Вадим Алексеевич": 14,
-      "Паутов Виктор Николаевич": 351,
-      "Трифонов Игорь Иванович": 7,
-      "Черторицкая Татьяна Владимировна": 16,
-      "Шубников Игорь Павлович": 13,
-      "Против всех": 104
+      "gas:candidate-vibid:1001000136042": 27,
+      "gas:candidate-vibid:1001000113923": 17,
+      "gas:candidate-vibid:333300270576": 41,
+      "gas:candidate-vibid:1001000225929": 55,
+      "gas:candidate-vibid:333300270566": 6,
+      "gas:candidate-vibid:1001000190335": 14,
+      "gas:candidate-vibid:333300270371": 351,
+      "gas:candidate-vibid:333300270581": 7,
+      "gas:candidate-vibid:333300270563": 16,
+      "gas:candidate-vibid:1001000202298": 13,
+      "special:against-all": 104
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=332000059&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=233200072444&region=0&sub_region=0&type=429",
@@ -9780,17 +9780,17 @@ export const duma_2003_uik_428_region_33_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бодров Дмитрий Алексеевич": 32,
-      "Гусев Анатолий Алексеевич": 15,
-      "Заморин Олег Константинович": 22,
-      "Котров Олег Владимирович": 69,
-      "Кузин Валерий Алексеевич": 4,
-      "Мельков Вадим Алексеевич": 45,
-      "Паутов Виктор Николаевич": 274,
-      "Трифонов Игорь Иванович": 11,
-      "Черторицкая Татьяна Владимировна": 11,
-      "Шубников Игорь Павлович": 7,
-      "Против всех": 69
+      "gas:candidate-vibid:1001000136042": 32,
+      "gas:candidate-vibid:1001000113923": 15,
+      "gas:candidate-vibid:333300270576": 22,
+      "gas:candidate-vibid:1001000225929": 69,
+      "gas:candidate-vibid:333300270566": 4,
+      "gas:candidate-vibid:1001000190335": 45,
+      "gas:candidate-vibid:333300270371": 274,
+      "gas:candidate-vibid:333300270581": 11,
+      "gas:candidate-vibid:333300270563": 11,
+      "gas:candidate-vibid:1001000202298": 7,
+      "special:against-all": 69
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=332000059&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=233200072444&region=0&sub_region=0&type=429",
@@ -9840,17 +9840,17 @@ export const duma_2003_uik_428_region_33_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бодров Дмитрий Алексеевич": 5,
-      "Гусев Анатолий Алексеевич": 0,
-      "Заморин Олег Константинович": 9,
-      "Котров Олег Владимирович": 8,
-      "Кузин Валерий Алексеевич": 1,
-      "Мельков Вадим Алексеевич": 3,
-      "Паутов Виктор Николаевич": 53,
-      "Трифонов Игорь Иванович": 0,
-      "Черторицкая Татьяна Владимировна": 0,
-      "Шубников Игорь Павлович": 2,
-      "Против всех": 17
+      "gas:candidate-vibid:1001000136042": 5,
+      "gas:candidate-vibid:1001000113923": 0,
+      "gas:candidate-vibid:333300270576": 9,
+      "gas:candidate-vibid:1001000225929": 8,
+      "gas:candidate-vibid:333300270566": 1,
+      "gas:candidate-vibid:1001000190335": 3,
+      "gas:candidate-vibid:333300270371": 53,
+      "gas:candidate-vibid:333300270581": 0,
+      "gas:candidate-vibid:333300270563": 0,
+      "gas:candidate-vibid:1001000202298": 2,
+      "special:against-all": 17
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=332000059&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=233200072444&region=0&sub_region=0&type=429",
@@ -9900,17 +9900,17 @@ export const duma_2003_uik_428_region_33_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бодров Дмитрий Алексеевич": 91,
-      "Гусев Анатолий Алексеевич": 18,
-      "Заморин Олег Константинович": 55,
-      "Котров Олег Владимирович": 107,
-      "Кузин Валерий Алексеевич": 13,
-      "Мельков Вадим Алексеевич": 52,
-      "Паутов Виктор Николаевич": 295,
-      "Трифонов Игорь Иванович": 20,
-      "Черторицкая Татьяна Владимировна": 45,
-      "Шубников Игорь Павлович": 20,
-      "Против всех": 139
+      "gas:candidate-vibid:1001000136042": 91,
+      "gas:candidate-vibid:1001000113923": 18,
+      "gas:candidate-vibid:333300270576": 55,
+      "gas:candidate-vibid:1001000225929": 107,
+      "gas:candidate-vibid:333300270566": 13,
+      "gas:candidate-vibid:1001000190335": 52,
+      "gas:candidate-vibid:333300270371": 295,
+      "gas:candidate-vibid:333300270581": 20,
+      "gas:candidate-vibid:333300270563": 45,
+      "gas:candidate-vibid:1001000202298": 20,
+      "special:against-all": 139
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=332000060&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=233200073303&region=0&sub_region=0&type=429",
@@ -9960,17 +9960,17 @@ export const duma_2003_uik_428_region_33_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бодров Дмитрий Алексеевич": 75,
-      "Гусев Анатолий Алексеевич": 21,
-      "Заморин Олег Константинович": 91,
-      "Котров Олег Владимирович": 98,
-      "Кузин Валерий Алексеевич": 5,
-      "Мельков Вадим Алексеевич": 37,
-      "Паутов Виктор Николаевич": 274,
-      "Трифонов Игорь Иванович": 36,
-      "Черторицкая Татьяна Владимировна": 54,
-      "Шубников Игорь Павлович": 21,
-      "Против всех": 104
+      "gas:candidate-vibid:1001000136042": 75,
+      "gas:candidate-vibid:1001000113923": 21,
+      "gas:candidate-vibid:333300270576": 91,
+      "gas:candidate-vibid:1001000225929": 98,
+      "gas:candidate-vibid:333300270566": 5,
+      "gas:candidate-vibid:1001000190335": 37,
+      "gas:candidate-vibid:333300270371": 274,
+      "gas:candidate-vibid:333300270581": 36,
+      "gas:candidate-vibid:333300270563": 54,
+      "gas:candidate-vibid:1001000202298": 21,
+      "special:against-all": 104
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=332000060&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=233200073303&region=0&sub_region=0&type=429",
@@ -10020,17 +10020,17 @@ export const duma_2003_uik_428_region_33_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бодров Дмитрий Алексеевич": 59,
-      "Гусев Анатолий Алексеевич": 22,
-      "Заморин Олег Константинович": 66,
-      "Котров Олег Владимирович": 92,
-      "Кузин Валерий Алексеевич": 6,
-      "Мельков Вадим Алексеевич": 48,
-      "Паутов Виктор Николаевич": 223,
-      "Трифонов Игорь Иванович": 28,
-      "Черторицкая Татьяна Владимировна": 51,
-      "Шубников Игорь Павлович": 20,
-      "Против всех": 95
+      "gas:candidate-vibid:1001000136042": 59,
+      "gas:candidate-vibid:1001000113923": 22,
+      "gas:candidate-vibid:333300270576": 66,
+      "gas:candidate-vibid:1001000225929": 92,
+      "gas:candidate-vibid:333300270566": 6,
+      "gas:candidate-vibid:1001000190335": 48,
+      "gas:candidate-vibid:333300270371": 223,
+      "gas:candidate-vibid:333300270581": 28,
+      "gas:candidate-vibid:333300270563": 51,
+      "gas:candidate-vibid:1001000202298": 20,
+      "special:against-all": 95
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=332000060&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=233200073303&region=0&sub_region=0&type=429",
@@ -10080,17 +10080,17 @@ export const duma_2003_uik_428_region_33_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бодров Дмитрий Алексеевич": 66,
-      "Гусев Анатолий Алексеевич": 18,
-      "Заморин Олег Константинович": 81,
-      "Котров Олег Владимирович": 99,
-      "Кузин Валерий Алексеевич": 6,
-      "Мельков Вадим Алексеевич": 47,
-      "Паутов Виктор Николаевич": 194,
-      "Трифонов Игорь Иванович": 33,
-      "Черторицкая Татьяна Владимировна": 42,
-      "Шубников Игорь Павлович": 11,
-      "Против всех": 107
+      "gas:candidate-vibid:1001000136042": 66,
+      "gas:candidate-vibid:1001000113923": 18,
+      "gas:candidate-vibid:333300270576": 81,
+      "gas:candidate-vibid:1001000225929": 99,
+      "gas:candidate-vibid:333300270566": 6,
+      "gas:candidate-vibid:1001000190335": 47,
+      "gas:candidate-vibid:333300270371": 194,
+      "gas:candidate-vibid:333300270581": 33,
+      "gas:candidate-vibid:333300270563": 42,
+      "gas:candidate-vibid:1001000202298": 11,
+      "special:against-all": 107
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=332000060&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=233200073303&region=0&sub_region=0&type=429",
@@ -10140,17 +10140,17 @@ export const duma_2003_uik_428_region_33_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бодров Дмитрий Алексеевич": 66,
-      "Гусев Анатолий Алексеевич": 17,
-      "Заморин Олег Константинович": 72,
-      "Котров Олег Владимирович": 108,
-      "Кузин Валерий Алексеевич": 7,
-      "Мельков Вадим Алексеевич": 42,
-      "Паутов Виктор Николаевич": 244,
-      "Трифонов Игорь Иванович": 28,
-      "Черторицкая Татьяна Владимировна": 45,
-      "Шубников Игорь Павлович": 10,
-      "Против всех": 85
+      "gas:candidate-vibid:1001000136042": 66,
+      "gas:candidate-vibid:1001000113923": 17,
+      "gas:candidate-vibid:333300270576": 72,
+      "gas:candidate-vibid:1001000225929": 108,
+      "gas:candidate-vibid:333300270566": 7,
+      "gas:candidate-vibid:1001000190335": 42,
+      "gas:candidate-vibid:333300270371": 244,
+      "gas:candidate-vibid:333300270581": 28,
+      "gas:candidate-vibid:333300270563": 45,
+      "gas:candidate-vibid:1001000202298": 10,
+      "special:against-all": 85
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=332000060&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=233200073303&region=0&sub_region=0&type=429",
@@ -10200,17 +10200,17 @@ export const duma_2003_uik_428_region_33_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бодров Дмитрий Алексеевич": 77,
-      "Гусев Анатолий Алексеевич": 20,
-      "Заморин Олег Константинович": 89,
-      "Котров Олег Владимирович": 88,
-      "Кузин Валерий Алексеевич": 11,
-      "Мельков Вадим Алексеевич": 57,
-      "Паутов Виктор Николаевич": 200,
-      "Трифонов Игорь Иванович": 22,
-      "Черторицкая Татьяна Владимировна": 42,
-      "Шубников Игорь Павлович": 18,
-      "Против всех": 122
+      "gas:candidate-vibid:1001000136042": 77,
+      "gas:candidate-vibid:1001000113923": 20,
+      "gas:candidate-vibid:333300270576": 89,
+      "gas:candidate-vibid:1001000225929": 88,
+      "gas:candidate-vibid:333300270566": 11,
+      "gas:candidate-vibid:1001000190335": 57,
+      "gas:candidate-vibid:333300270371": 200,
+      "gas:candidate-vibid:333300270581": 22,
+      "gas:candidate-vibid:333300270563": 42,
+      "gas:candidate-vibid:1001000202298": 18,
+      "special:against-all": 122
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=332000060&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=233200073303&region=0&sub_region=0&type=429",
@@ -10260,17 +10260,17 @@ export const duma_2003_uik_428_region_33_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бодров Дмитрий Алексеевич": 66,
-      "Гусев Анатолий Алексеевич": 18,
-      "Заморин Олег Константинович": 48,
-      "Котров Олег Владимирович": 93,
-      "Кузин Валерий Алексеевич": 2,
-      "Мельков Вадим Алексеевич": 30,
-      "Паутов Виктор Николаевич": 160,
-      "Трифонов Игорь Иванович": 18,
-      "Черторицкая Татьяна Владимировна": 46,
-      "Шубников Игорь Павлович": 14,
-      "Против всех": 105
+      "gas:candidate-vibid:1001000136042": 66,
+      "gas:candidate-vibid:1001000113923": 18,
+      "gas:candidate-vibid:333300270576": 48,
+      "gas:candidate-vibid:1001000225929": 93,
+      "gas:candidate-vibid:333300270566": 2,
+      "gas:candidate-vibid:1001000190335": 30,
+      "gas:candidate-vibid:333300270371": 160,
+      "gas:candidate-vibid:333300270581": 18,
+      "gas:candidate-vibid:333300270563": 46,
+      "gas:candidate-vibid:1001000202298": 14,
+      "special:against-all": 105
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=332000060&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=233200073303&region=0&sub_region=0&type=429",
@@ -10320,17 +10320,17 @@ export const duma_2003_uik_428_region_33_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бодров Дмитрий Алексеевич": 86,
-      "Гусев Анатолий Алексеевич": 14,
-      "Заморин Олег Константинович": 63,
-      "Котров Олег Владимирович": 94,
-      "Кузин Валерий Алексеевич": 5,
-      "Мельков Вадим Алексеевич": 42,
-      "Паутов Виктор Николаевич": 210,
-      "Трифонов Игорь Иванович": 23,
-      "Черторицкая Татьяна Владимировна": 39,
-      "Шубников Игорь Павлович": 13,
-      "Против всех": 114
+      "gas:candidate-vibid:1001000136042": 86,
+      "gas:candidate-vibid:1001000113923": 14,
+      "gas:candidate-vibid:333300270576": 63,
+      "gas:candidate-vibid:1001000225929": 94,
+      "gas:candidate-vibid:333300270566": 5,
+      "gas:candidate-vibid:1001000190335": 42,
+      "gas:candidate-vibid:333300270371": 210,
+      "gas:candidate-vibid:333300270581": 23,
+      "gas:candidate-vibid:333300270563": 39,
+      "gas:candidate-vibid:1001000202298": 13,
+      "special:against-all": 114
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=332000060&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=233200073303&region=0&sub_region=0&type=429",
@@ -10380,17 +10380,17 @@ export const duma_2003_uik_428_region_33_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бодров Дмитрий Алексеевич": 83,
-      "Гусев Анатолий Алексеевич": 20,
-      "Заморин Олег Константинович": 74,
-      "Котров Олег Владимирович": 105,
-      "Кузин Валерий Алексеевич": 8,
-      "Мельков Вадим Алексеевич": 52,
-      "Паутов Виктор Николаевич": 324,
-      "Трифонов Игорь Иванович": 41,
-      "Черторицкая Татьяна Владимировна": 53,
-      "Шубников Игорь Павлович": 16,
-      "Против всех": 112
+      "gas:candidate-vibid:1001000136042": 83,
+      "gas:candidate-vibid:1001000113923": 20,
+      "gas:candidate-vibid:333300270576": 74,
+      "gas:candidate-vibid:1001000225929": 105,
+      "gas:candidate-vibid:333300270566": 8,
+      "gas:candidate-vibid:1001000190335": 52,
+      "gas:candidate-vibid:333300270371": 324,
+      "gas:candidate-vibid:333300270581": 41,
+      "gas:candidate-vibid:333300270563": 53,
+      "gas:candidate-vibid:1001000202298": 16,
+      "special:against-all": 112
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=332000060&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=233200073303&region=0&sub_region=0&type=429",
@@ -10440,17 +10440,17 @@ export const duma_2003_uik_428_region_33_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бодров Дмитрий Алексеевич": 66,
-      "Гусев Анатолий Алексеевич": 26,
-      "Заморин Олег Константинович": 53,
-      "Котров Олег Владимирович": 98,
-      "Кузин Валерий Алексеевич": 8,
-      "Мельков Вадим Алексеевич": 45,
-      "Паутов Виктор Николаевич": 280,
-      "Трифонов Игорь Иванович": 46,
-      "Черторицкая Татьяна Владимировна": 63,
-      "Шубников Игорь Павлович": 17,
-      "Против всех": 141
+      "gas:candidate-vibid:1001000136042": 66,
+      "gas:candidate-vibid:1001000113923": 26,
+      "gas:candidate-vibid:333300270576": 53,
+      "gas:candidate-vibid:1001000225929": 98,
+      "gas:candidate-vibid:333300270566": 8,
+      "gas:candidate-vibid:1001000190335": 45,
+      "gas:candidate-vibid:333300270371": 280,
+      "gas:candidate-vibid:333300270581": 46,
+      "gas:candidate-vibid:333300270563": 63,
+      "gas:candidate-vibid:1001000202298": 17,
+      "special:against-all": 141
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=332000060&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=233200073303&region=0&sub_region=0&type=429",
@@ -10500,17 +10500,17 @@ export const duma_2003_uik_428_region_33_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бодров Дмитрий Алексеевич": 62,
-      "Гусев Анатолий Алексеевич": 20,
-      "Заморин Олег Константинович": 54,
-      "Котров Олег Владимирович": 80,
-      "Кузин Валерий Алексеевич": 7,
-      "Мельков Вадим Алексеевич": 31,
-      "Паутов Виктор Николаевич": 245,
-      "Трифонов Игорь Иванович": 30,
-      "Черторицкая Татьяна Владимировна": 34,
-      "Шубников Игорь Павлович": 12,
-      "Против всех": 96
+      "gas:candidate-vibid:1001000136042": 62,
+      "gas:candidate-vibid:1001000113923": 20,
+      "gas:candidate-vibid:333300270576": 54,
+      "gas:candidate-vibid:1001000225929": 80,
+      "gas:candidate-vibid:333300270566": 7,
+      "gas:candidate-vibid:1001000190335": 31,
+      "gas:candidate-vibid:333300270371": 245,
+      "gas:candidate-vibid:333300270581": 30,
+      "gas:candidate-vibid:333300270563": 34,
+      "gas:candidate-vibid:1001000202298": 12,
+      "special:against-all": 96
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=332000060&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=233200073303&region=0&sub_region=0&type=429",
@@ -10560,17 +10560,17 @@ export const duma_2003_uik_428_region_33_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бодров Дмитрий Алексеевич": 54,
-      "Гусев Анатолий Алексеевич": 25,
-      "Заморин Олег Константинович": 49,
-      "Котров Олег Владимирович": 101,
-      "Кузин Валерий Алексеевич": 11,
-      "Мельков Вадим Алексеевич": 72,
-      "Паутов Виктор Николаевич": 221,
-      "Трифонов Игорь Иванович": 39,
-      "Черторицкая Татьяна Владимировна": 49,
-      "Шубников Игорь Павлович": 18,
-      "Против всех": 155
+      "gas:candidate-vibid:1001000136042": 54,
+      "gas:candidate-vibid:1001000113923": 25,
+      "gas:candidate-vibid:333300270576": 49,
+      "gas:candidate-vibid:1001000225929": 101,
+      "gas:candidate-vibid:333300270566": 11,
+      "gas:candidate-vibid:1001000190335": 72,
+      "gas:candidate-vibid:333300270371": 221,
+      "gas:candidate-vibid:333300270581": 39,
+      "gas:candidate-vibid:333300270563": 49,
+      "gas:candidate-vibid:1001000202298": 18,
+      "special:against-all": 155
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=332000060&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=233200073303&region=0&sub_region=0&type=429",
@@ -10620,17 +10620,17 @@ export const duma_2003_uik_428_region_33_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бодров Дмитрий Алексеевич": 51,
-      "Гусев Анатолий Алексеевич": 9,
-      "Заморин Олег Константинович": 62,
-      "Котров Олег Владимирович": 69,
-      "Кузин Валерий Алексеевич": 9,
-      "Мельков Вадим Алексеевич": 37,
-      "Паутов Виктор Николаевич": 111,
-      "Трифонов Игорь Иванович": 18,
-      "Черторицкая Татьяна Владимировна": 30,
-      "Шубников Игорь Павлович": 9,
-      "Против всех": 51
+      "gas:candidate-vibid:1001000136042": 51,
+      "gas:candidate-vibid:1001000113923": 9,
+      "gas:candidate-vibid:333300270576": 62,
+      "gas:candidate-vibid:1001000225929": 69,
+      "gas:candidate-vibid:333300270566": 9,
+      "gas:candidate-vibid:1001000190335": 37,
+      "gas:candidate-vibid:333300270371": 111,
+      "gas:candidate-vibid:333300270581": 18,
+      "gas:candidate-vibid:333300270563": 30,
+      "gas:candidate-vibid:1001000202298": 9,
+      "special:against-all": 51
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=332000060&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=233200073303&region=0&sub_region=0&type=429",
@@ -10680,17 +10680,17 @@ export const duma_2003_uik_428_region_33_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бодров Дмитрий Алексеевич": 71,
-      "Гусев Анатолий Алексеевич": 26,
-      "Заморин Олег Константинович": 68,
-      "Котров Олег Владимирович": 138,
-      "Кузин Валерий Алексеевич": 15,
-      "Мельков Вадим Алексеевич": 100,
-      "Паутов Виктор Николаевич": 268,
-      "Трифонов Игорь Иванович": 41,
-      "Черторицкая Татьяна Владимировна": 46,
-      "Шубников Игорь Павлович": 20,
-      "Против всех": 138
+      "gas:candidate-vibid:1001000136042": 71,
+      "gas:candidate-vibid:1001000113923": 26,
+      "gas:candidate-vibid:333300270576": 68,
+      "gas:candidate-vibid:1001000225929": 138,
+      "gas:candidate-vibid:333300270566": 15,
+      "gas:candidate-vibid:1001000190335": 100,
+      "gas:candidate-vibid:333300270371": 268,
+      "gas:candidate-vibid:333300270581": 41,
+      "gas:candidate-vibid:333300270563": 46,
+      "gas:candidate-vibid:1001000202298": 20,
+      "special:against-all": 138
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=332000060&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=233200073303&region=0&sub_region=0&type=429",
@@ -10740,17 +10740,17 @@ export const duma_2003_uik_428_region_33_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бодров Дмитрий Алексеевич": 75,
-      "Гусев Анатолий Алексеевич": 28,
-      "Заморин Олег Константинович": 59,
-      "Котров Олег Владимирович": 103,
-      "Кузин Валерий Алексеевич": 14,
-      "Мельков Вадим Алексеевич": 105,
-      "Паутов Виктор Николаевич": 236,
-      "Трифонов Игорь Иванович": 31,
-      "Черторицкая Татьяна Владимировна": 61,
-      "Шубников Игорь Павлович": 12,
-      "Против всех": 125
+      "gas:candidate-vibid:1001000136042": 75,
+      "gas:candidate-vibid:1001000113923": 28,
+      "gas:candidate-vibid:333300270576": 59,
+      "gas:candidate-vibid:1001000225929": 103,
+      "gas:candidate-vibid:333300270566": 14,
+      "gas:candidate-vibid:1001000190335": 105,
+      "gas:candidate-vibid:333300270371": 236,
+      "gas:candidate-vibid:333300270581": 31,
+      "gas:candidate-vibid:333300270563": 61,
+      "gas:candidate-vibid:1001000202298": 12,
+      "special:against-all": 125
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=332000060&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=233200073303&region=0&sub_region=0&type=429",
@@ -10800,17 +10800,17 @@ export const duma_2003_uik_428_region_33_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бодров Дмитрий Алексеевич": 83,
-      "Гусев Анатолий Алексеевич": 31,
-      "Заморин Олег Константинович": 68,
-      "Котров Олег Владимирович": 131,
-      "Кузин Валерий Алексеевич": 9,
-      "Мельков Вадим Алексеевич": 39,
-      "Паутов Виктор Николаевич": 378,
-      "Трифонов Игорь Иванович": 65,
-      "Черторицкая Татьяна Владимировна": 69,
-      "Шубников Игорь Павлович": 32,
-      "Против всех": 174
+      "gas:candidate-vibid:1001000136042": 83,
+      "gas:candidate-vibid:1001000113923": 31,
+      "gas:candidate-vibid:333300270576": 68,
+      "gas:candidate-vibid:1001000225929": 131,
+      "gas:candidate-vibid:333300270566": 9,
+      "gas:candidate-vibid:1001000190335": 39,
+      "gas:candidate-vibid:333300270371": 378,
+      "gas:candidate-vibid:333300270581": 65,
+      "gas:candidate-vibid:333300270563": 69,
+      "gas:candidate-vibid:1001000202298": 32,
+      "special:against-all": 174
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=332000060&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=233200073303&region=0&sub_region=0&type=429",
@@ -10860,17 +10860,17 @@ export const duma_2003_uik_428_region_33_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бодров Дмитрий Алексеевич": 100,
-      "Гусев Анатолий Алексеевич": 18,
-      "Заморин Олег Константинович": 70,
-      "Котров Олег Владимирович": 131,
-      "Кузин Валерий Алексеевич": 15,
-      "Мельков Вадим Алексеевич": 40,
-      "Паутов Виктор Николаевич": 273,
-      "Трифонов Игорь Иванович": 44,
-      "Черторицкая Татьяна Владимировна": 60,
-      "Шубников Игорь Павлович": 29,
-      "Против всех": 224
+      "gas:candidate-vibid:1001000136042": 100,
+      "gas:candidate-vibid:1001000113923": 18,
+      "gas:candidate-vibid:333300270576": 70,
+      "gas:candidate-vibid:1001000225929": 131,
+      "gas:candidate-vibid:333300270566": 15,
+      "gas:candidate-vibid:1001000190335": 40,
+      "gas:candidate-vibid:333300270371": 273,
+      "gas:candidate-vibid:333300270581": 44,
+      "gas:candidate-vibid:333300270563": 60,
+      "gas:candidate-vibid:1001000202298": 29,
+      "special:against-all": 224
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=332000060&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=233200073303&region=0&sub_region=0&type=429",
@@ -10920,17 +10920,17 @@ export const duma_2003_uik_428_region_33_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бодров Дмитрий Алексеевич": 50,
-      "Гусев Анатолий Алексеевич": 8,
-      "Заморин Олег Константинович": 27,
-      "Котров Олег Владимирович": 25,
-      "Кузин Валерий Алексеевич": 8,
-      "Мельков Вадим Алексеевич": 25,
-      "Паутов Виктор Николаевич": 123,
-      "Трифонов Игорь Иванович": 13,
-      "Черторицкая Татьяна Владимировна": 15,
-      "Шубников Игорь Павлович": 5,
-      "Против всех": 70
+      "gas:candidate-vibid:1001000136042": 50,
+      "gas:candidate-vibid:1001000113923": 8,
+      "gas:candidate-vibid:333300270576": 27,
+      "gas:candidate-vibid:1001000225929": 25,
+      "gas:candidate-vibid:333300270566": 8,
+      "gas:candidate-vibid:1001000190335": 25,
+      "gas:candidate-vibid:333300270371": 123,
+      "gas:candidate-vibid:333300270581": 13,
+      "gas:candidate-vibid:333300270563": 15,
+      "gas:candidate-vibid:1001000202298": 5,
+      "special:against-all": 70
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=332000060&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=233200073303&region=0&sub_region=0&type=429",
@@ -10980,17 +10980,17 @@ export const duma_2003_uik_428_region_33_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бодров Дмитрий Алексеевич": 22,
-      "Гусев Анатолий Алексеевич": 12,
-      "Заморин Олег Константинович": 54,
-      "Котров Олег Владимирович": 53,
-      "Кузин Валерий Алексеевич": 5,
-      "Мельков Вадим Алексеевич": 22,
-      "Паутов Виктор Николаевич": 217,
-      "Трифонов Игорь Иванович": 11,
-      "Черторицкая Татьяна Владимировна": 17,
-      "Шубников Игорь Павлович": 7,
-      "Против всех": 50
+      "gas:candidate-vibid:1001000136042": 22,
+      "gas:candidate-vibid:1001000113923": 12,
+      "gas:candidate-vibid:333300270576": 54,
+      "gas:candidate-vibid:1001000225929": 53,
+      "gas:candidate-vibid:333300270566": 5,
+      "gas:candidate-vibid:1001000190335": 22,
+      "gas:candidate-vibid:333300270371": 217,
+      "gas:candidate-vibid:333300270581": 11,
+      "gas:candidate-vibid:333300270563": 17,
+      "gas:candidate-vibid:1001000202298": 7,
+      "special:against-all": 50
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=332000060&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=233200073303&region=0&sub_region=0&type=429",
@@ -11040,17 +11040,17 @@ export const duma_2003_uik_428_region_33_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бодров Дмитрий Алексеевич": 17,
-      "Гусев Анатолий Алексеевич": 4,
-      "Заморин Олег Константинович": 43,
-      "Котров Олег Владимирович": 28,
-      "Кузин Валерий Алексеевич": 5,
-      "Мельков Вадим Алексеевич": 16,
-      "Паутов Виктор Николаевич": 46,
-      "Трифонов Игорь Иванович": 2,
-      "Черторицкая Татьяна Владимировна": 2,
-      "Шубников Игорь Павлович": 7,
-      "Против всех": 27
+      "gas:candidate-vibid:1001000136042": 17,
+      "gas:candidate-vibid:1001000113923": 4,
+      "gas:candidate-vibid:333300270576": 43,
+      "gas:candidate-vibid:1001000225929": 28,
+      "gas:candidate-vibid:333300270566": 5,
+      "gas:candidate-vibid:1001000190335": 16,
+      "gas:candidate-vibid:333300270371": 46,
+      "gas:candidate-vibid:333300270581": 2,
+      "gas:candidate-vibid:333300270563": 2,
+      "gas:candidate-vibid:1001000202298": 7,
+      "special:against-all": 27
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=332000060&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=233200073303&region=0&sub_region=0&type=429",
@@ -11100,17 +11100,17 @@ export const duma_2003_uik_428_region_33_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бодров Дмитрий Алексеевич": 26,
-      "Гусев Анатолий Алексеевич": 15,
-      "Заморин Олег Константинович": 28,
-      "Котров Олег Владимирович": 63,
-      "Кузин Валерий Алексеевич": 8,
-      "Мельков Вадим Алексеевич": 24,
-      "Паутов Виктор Николаевич": 123,
-      "Трифонов Игорь Иванович": 9,
-      "Черторицкая Татьяна Владимировна": 28,
-      "Шубников Игорь Павлович": 5,
-      "Против всех": 96
+      "gas:candidate-vibid:1001000136042": 26,
+      "gas:candidate-vibid:1001000113923": 15,
+      "gas:candidate-vibid:333300270576": 28,
+      "gas:candidate-vibid:1001000225929": 63,
+      "gas:candidate-vibid:333300270566": 8,
+      "gas:candidate-vibid:1001000190335": 24,
+      "gas:candidate-vibid:333300270371": 123,
+      "gas:candidate-vibid:333300270581": 9,
+      "gas:candidate-vibid:333300270563": 28,
+      "gas:candidate-vibid:1001000202298": 5,
+      "special:against-all": 96
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=332000060&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=233200073303&region=0&sub_region=0&type=429",
@@ -11160,17 +11160,17 @@ export const duma_2003_uik_428_region_33_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бодров Дмитрий Алексеевич": 11,
-      "Гусев Анатолий Алексеевич": 2,
-      "Заморин Олег Константинович": 27,
-      "Котров Олег Владимирович": 34,
-      "Кузин Валерий Алексеевич": 7,
-      "Мельков Вадим Алексеевич": 12,
-      "Паутов Виктор Николаевич": 74,
-      "Трифонов Игорь Иванович": 2,
-      "Черторицкая Татьяна Владимировна": 7,
-      "Шубников Игорь Павлович": 7,
-      "Против всех": 32
+      "gas:candidate-vibid:1001000136042": 11,
+      "gas:candidate-vibid:1001000113923": 2,
+      "gas:candidate-vibid:333300270576": 27,
+      "gas:candidate-vibid:1001000225929": 34,
+      "gas:candidate-vibid:333300270566": 7,
+      "gas:candidate-vibid:1001000190335": 12,
+      "gas:candidate-vibid:333300270371": 74,
+      "gas:candidate-vibid:333300270581": 2,
+      "gas:candidate-vibid:333300270563": 7,
+      "gas:candidate-vibid:1001000202298": 7,
+      "special:against-all": 32
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=332000060&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=233200073303&region=0&sub_region=0&type=429",
@@ -11220,17 +11220,17 @@ export const duma_2003_uik_428_region_33_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бодров Дмитрий Алексеевич": 29,
-      "Гусев Анатолий Алексеевич": 6,
-      "Заморин Олег Константинович": 28,
-      "Котров Олег Владимирович": 54,
-      "Кузин Валерий Алексеевич": 13,
-      "Мельков Вадим Алексеевич": 73,
-      "Паутов Виктор Николаевич": 136,
-      "Трифонов Игорь Иванович": 6,
-      "Черторицкая Татьяна Владимировна": 34,
-      "Шубников Игорь Павлович": 11,
-      "Против всех": 74
+      "gas:candidate-vibid:1001000136042": 29,
+      "gas:candidate-vibid:1001000113923": 6,
+      "gas:candidate-vibid:333300270576": 28,
+      "gas:candidate-vibid:1001000225929": 54,
+      "gas:candidate-vibid:333300270566": 13,
+      "gas:candidate-vibid:1001000190335": 73,
+      "gas:candidate-vibid:333300270371": 136,
+      "gas:candidate-vibid:333300270581": 6,
+      "gas:candidate-vibid:333300270563": 34,
+      "gas:candidate-vibid:1001000202298": 11,
+      "special:against-all": 74
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=332000060&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=233200073303&region=0&sub_region=0&type=429",
@@ -11280,17 +11280,17 @@ export const duma_2003_uik_428_region_33_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бодров Дмитрий Алексеевич": 28,
-      "Гусев Анатолий Алексеевич": 9,
-      "Заморин Олег Константинович": 34,
-      "Котров Олег Владимирович": 48,
-      "Кузин Валерий Алексеевич": 4,
-      "Мельков Вадим Алексеевич": 56,
-      "Паутов Виктор Николаевич": 182,
-      "Трифонов Игорь Иванович": 6,
-      "Черторицкая Татьяна Владимировна": 19,
-      "Шубников Игорь Павлович": 5,
-      "Против всех": 57
+      "gas:candidate-vibid:1001000136042": 28,
+      "gas:candidate-vibid:1001000113923": 9,
+      "gas:candidate-vibid:333300270576": 34,
+      "gas:candidate-vibid:1001000225929": 48,
+      "gas:candidate-vibid:333300270566": 4,
+      "gas:candidate-vibid:1001000190335": 56,
+      "gas:candidate-vibid:333300270371": 182,
+      "gas:candidate-vibid:333300270581": 6,
+      "gas:candidate-vibid:333300270563": 19,
+      "gas:candidate-vibid:1001000202298": 5,
+      "special:against-all": 57
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=332000060&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=233200073303&region=0&sub_region=0&type=429",
@@ -11340,17 +11340,17 @@ export const duma_2003_uik_428_region_33_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бодров Дмитрий Алексеевич": 59,
-      "Гусев Анатолий Алексеевич": 11,
-      "Заморин Олег Константинович": 45,
-      "Котров Олег Владимирович": 99,
-      "Кузин Валерий Алексеевич": 11,
-      "Мельков Вадим Алексеевич": 41,
-      "Паутов Виктор Николаевич": 144,
-      "Трифонов Игорь Иванович": 9,
-      "Черторицкая Татьяна Владимировна": 32,
-      "Шубников Игорь Павлович": 16,
-      "Против всех": 68
+      "gas:candidate-vibid:1001000136042": 59,
+      "gas:candidate-vibid:1001000113923": 11,
+      "gas:candidate-vibid:333300270576": 45,
+      "gas:candidate-vibid:1001000225929": 99,
+      "gas:candidate-vibid:333300270566": 11,
+      "gas:candidate-vibid:1001000190335": 41,
+      "gas:candidate-vibid:333300270371": 144,
+      "gas:candidate-vibid:333300270581": 9,
+      "gas:candidate-vibid:333300270563": 32,
+      "gas:candidate-vibid:1001000202298": 16,
+      "special:against-all": 68
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=332000060&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=233200073303&region=0&sub_region=0&type=429",
@@ -11400,17 +11400,17 @@ export const duma_2003_uik_428_region_33_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бодров Дмитрий Алексеевич": 46,
-      "Гусев Анатолий Алексеевич": 6,
-      "Заморин Олег Константинович": 50,
-      "Котров Олег Владимирович": 54,
-      "Кузин Валерий Алексеевич": 10,
-      "Мельков Вадим Алексеевич": 77,
-      "Паутов Виктор Николаевич": 141,
-      "Трифонов Игорь Иванович": 30,
-      "Черторицкая Татьяна Владимировна": 24,
-      "Шубников Игорь Павлович": 7,
-      "Против всех": 93
+      "gas:candidate-vibid:1001000136042": 46,
+      "gas:candidate-vibid:1001000113923": 6,
+      "gas:candidate-vibid:333300270576": 50,
+      "gas:candidate-vibid:1001000225929": 54,
+      "gas:candidate-vibid:333300270566": 10,
+      "gas:candidate-vibid:1001000190335": 77,
+      "gas:candidate-vibid:333300270371": 141,
+      "gas:candidate-vibid:333300270581": 30,
+      "gas:candidate-vibid:333300270563": 24,
+      "gas:candidate-vibid:1001000202298": 7,
+      "special:against-all": 93
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=332000060&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=233200073303&region=0&sub_region=0&type=429",
@@ -11460,17 +11460,17 @@ export const duma_2003_uik_428_region_33_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бодров Дмитрий Алексеевич": 12,
-      "Гусев Анатолий Алексеевич": 2,
-      "Заморин Олег Константинович": 36,
-      "Котров Олег Владимирович": 15,
-      "Кузин Валерий Алексеевич": 2,
-      "Мельков Вадим Алексеевич": 35,
-      "Паутов Виктор Николаевич": 102,
-      "Трифонов Игорь Иванович": 4,
-      "Черторицкая Татьяна Владимировна": 11,
-      "Шубников Игорь Павлович": 5,
-      "Против всех": 35
+      "gas:candidate-vibid:1001000136042": 12,
+      "gas:candidate-vibid:1001000113923": 2,
+      "gas:candidate-vibid:333300270576": 36,
+      "gas:candidate-vibid:1001000225929": 15,
+      "gas:candidate-vibid:333300270566": 2,
+      "gas:candidate-vibid:1001000190335": 35,
+      "gas:candidate-vibid:333300270371": 102,
+      "gas:candidate-vibid:333300270581": 4,
+      "gas:candidate-vibid:333300270563": 11,
+      "gas:candidate-vibid:1001000202298": 5,
+      "special:against-all": 35
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=332000060&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=233200073303&region=0&sub_region=0&type=429",
@@ -11520,17 +11520,17 @@ export const duma_2003_uik_428_region_33_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бодров Дмитрий Алексеевич": 18,
-      "Гусев Анатолий Алексеевич": 7,
-      "Заморин Олег Константинович": 42,
-      "Котров Олег Владимирович": 23,
-      "Кузин Валерий Алексеевич": 6,
-      "Мельков Вадим Алексеевич": 31,
-      "Паутов Виктор Николаевич": 80,
-      "Трифонов Игорь Иванович": 3,
-      "Черторицкая Татьяна Владимировна": 13,
-      "Шубников Игорь Павлович": 2,
-      "Против всех": 14
+      "gas:candidate-vibid:1001000136042": 18,
+      "gas:candidate-vibid:1001000113923": 7,
+      "gas:candidate-vibid:333300270576": 42,
+      "gas:candidate-vibid:1001000225929": 23,
+      "gas:candidate-vibid:333300270566": 6,
+      "gas:candidate-vibid:1001000190335": 31,
+      "gas:candidate-vibid:333300270371": 80,
+      "gas:candidate-vibid:333300270581": 3,
+      "gas:candidate-vibid:333300270563": 13,
+      "gas:candidate-vibid:1001000202298": 2,
+      "special:against-all": 14
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=332000060&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=233200073303&region=0&sub_region=0&type=429",
@@ -11580,17 +11580,17 @@ export const duma_2003_uik_428_region_33_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бодров Дмитрий Алексеевич": 30,
-      "Гусев Анатолий Алексеевич": 24,
-      "Заморин Олег Константинович": 54,
-      "Котров Олег Владимирович": 48,
-      "Кузин Валерий Алексеевич": 10,
-      "Мельков Вадим Алексеевич": 34,
-      "Паутов Виктор Николаевич": 114,
-      "Трифонов Игорь Иванович": 11,
-      "Черторицкая Татьяна Владимировна": 23,
-      "Шубников Игорь Павлович": 15,
-      "Против всех": 62
+      "gas:candidate-vibid:1001000136042": 30,
+      "gas:candidate-vibid:1001000113923": 24,
+      "gas:candidate-vibid:333300270576": 54,
+      "gas:candidate-vibid:1001000225929": 48,
+      "gas:candidate-vibid:333300270566": 10,
+      "gas:candidate-vibid:1001000190335": 34,
+      "gas:candidate-vibid:333300270371": 114,
+      "gas:candidate-vibid:333300270581": 11,
+      "gas:candidate-vibid:333300270563": 23,
+      "gas:candidate-vibid:1001000202298": 15,
+      "special:against-all": 62
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=332000060&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=233200073303&region=0&sub_region=0&type=429",
@@ -11640,17 +11640,17 @@ export const duma_2003_uik_428_region_33_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бодров Дмитрий Алексеевич": 6,
-      "Гусев Анатолий Алексеевич": 21,
-      "Заморин Олег Константинович": 37,
-      "Котров Олег Владимирович": 14,
-      "Кузин Валерий Алексеевич": 5,
-      "Мельков Вадим Алексеевич": 41,
-      "Паутов Виктор Николаевич": 21,
-      "Трифонов Игорь Иванович": 5,
-      "Черторицкая Татьяна Владимировна": 6,
-      "Шубников Игорь Павлович": 3,
-      "Против всех": 15
+      "gas:candidate-vibid:1001000136042": 6,
+      "gas:candidate-vibid:1001000113923": 21,
+      "gas:candidate-vibid:333300270576": 37,
+      "gas:candidate-vibid:1001000225929": 14,
+      "gas:candidate-vibid:333300270566": 5,
+      "gas:candidate-vibid:1001000190335": 41,
+      "gas:candidate-vibid:333300270371": 21,
+      "gas:candidate-vibid:333300270581": 5,
+      "gas:candidate-vibid:333300270563": 6,
+      "gas:candidate-vibid:1001000202298": 3,
+      "special:against-all": 15
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=332000060&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=233200073303&region=0&sub_region=0&type=429",
@@ -11700,17 +11700,17 @@ export const duma_2003_uik_428_region_33_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бодров Дмитрий Алексеевич": 10,
-      "Гусев Анатолий Алексеевич": 9,
-      "Заморин Олег Константинович": 130,
-      "Котров Олег Владимирович": 18,
-      "Кузин Валерий Алексеевич": 1,
-      "Мельков Вадим Алексеевич": 24,
-      "Паутов Виктор Николаевич": 87,
-      "Трифонов Игорь Иванович": 2,
-      "Черторицкая Татьяна Владимировна": 7,
-      "Шубников Игорь Павлович": 8,
-      "Против всех": 39
+      "gas:candidate-vibid:1001000136042": 10,
+      "gas:candidate-vibid:1001000113923": 9,
+      "gas:candidate-vibid:333300270576": 130,
+      "gas:candidate-vibid:1001000225929": 18,
+      "gas:candidate-vibid:333300270566": 1,
+      "gas:candidate-vibid:1001000190335": 24,
+      "gas:candidate-vibid:333300270371": 87,
+      "gas:candidate-vibid:333300270581": 2,
+      "gas:candidate-vibid:333300270563": 7,
+      "gas:candidate-vibid:1001000202298": 8,
+      "special:against-all": 39
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=332000060&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=233200073303&region=0&sub_region=0&type=429",
@@ -11760,17 +11760,17 @@ export const duma_2003_uik_428_region_33_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бодров Дмитрий Алексеевич": 28,
-      "Гусев Анатолий Алексеевич": 9,
-      "Заморин Олег Константинович": 71,
-      "Котров Олег Владимирович": 21,
-      "Кузин Валерий Алексеевич": 4,
-      "Мельков Вадим Алексеевич": 24,
-      "Паутов Виктор Николаевич": 58,
-      "Трифонов Игорь Иванович": 1,
-      "Черторицкая Татьяна Владимировна": 8,
-      "Шубников Игорь Павлович": 4,
-      "Против всех": 37
+      "gas:candidate-vibid:1001000136042": 28,
+      "gas:candidate-vibid:1001000113923": 9,
+      "gas:candidate-vibid:333300270576": 71,
+      "gas:candidate-vibid:1001000225929": 21,
+      "gas:candidate-vibid:333300270566": 4,
+      "gas:candidate-vibid:1001000190335": 24,
+      "gas:candidate-vibid:333300270371": 58,
+      "gas:candidate-vibid:333300270581": 1,
+      "gas:candidate-vibid:333300270563": 8,
+      "gas:candidate-vibid:1001000202298": 4,
+      "special:against-all": 37
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=332000060&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=233200073303&region=0&sub_region=0&type=429",
@@ -11820,17 +11820,17 @@ export const duma_2003_uik_428_region_33_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бодров Дмитрий Алексеевич": 76,
-      "Гусев Анатолий Алексеевич": 16,
-      "Заморин Олег Константинович": 24,
-      "Котров Олег Владимирович": 60,
-      "Кузин Валерий Алексеевич": 11,
-      "Мельков Вадим Алексеевич": 48,
-      "Паутов Виктор Николаевич": 154,
-      "Трифонов Игорь Иванович": 9,
-      "Черторицкая Татьяна Владимировна": 30,
-      "Шубников Игорь Павлович": 9,
-      "Против всех": 103
+      "gas:candidate-vibid:1001000136042": 76,
+      "gas:candidate-vibid:1001000113923": 16,
+      "gas:candidate-vibid:333300270576": 24,
+      "gas:candidate-vibid:1001000225929": 60,
+      "gas:candidate-vibid:333300270566": 11,
+      "gas:candidate-vibid:1001000190335": 48,
+      "gas:candidate-vibid:333300270371": 154,
+      "gas:candidate-vibid:333300270581": 9,
+      "gas:candidate-vibid:333300270563": 30,
+      "gas:candidate-vibid:1001000202298": 9,
+      "special:against-all": 103
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=332000060&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=233200073303&region=0&sub_region=0&type=429",
@@ -11880,17 +11880,17 @@ export const duma_2003_uik_428_region_33_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бодров Дмитрий Алексеевич": 95,
-      "Гусев Анатолий Алексеевич": 38,
-      "Заморин Олег Константинович": 74,
-      "Котров Олег Владимирович": 157,
-      "Кузин Валерий Алексеевич": 25,
-      "Мельков Вадим Алексеевич": 65,
-      "Паутов Виктор Николаевич": 150,
-      "Трифонов Игорь Иванович": 23,
-      "Черторицкая Татьяна Владимировна": 30,
-      "Шубников Игорь Павлович": 40,
-      "Против всех": 129
+      "gas:candidate-vibid:1001000136042": 95,
+      "gas:candidate-vibid:1001000113923": 38,
+      "gas:candidate-vibid:333300270576": 74,
+      "gas:candidate-vibid:1001000225929": 157,
+      "gas:candidate-vibid:333300270566": 25,
+      "gas:candidate-vibid:1001000190335": 65,
+      "gas:candidate-vibid:333300270371": 150,
+      "gas:candidate-vibid:333300270581": 23,
+      "gas:candidate-vibid:333300270563": 30,
+      "gas:candidate-vibid:1001000202298": 40,
+      "special:against-all": 129
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=332000060&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=233200073303&region=0&sub_region=0&type=429",
@@ -11940,17 +11940,17 @@ export const duma_2003_uik_428_region_33_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бодров Дмитрий Алексеевич": 97,
-      "Гусев Анатолий Алексеевич": 35,
-      "Заморин Олег Константинович": 68,
-      "Котров Олег Владимирович": 152,
-      "Кузин Валерий Алексеевич": 28,
-      "Мельков Вадим Алексеевич": 75,
-      "Паутов Виктор Николаевич": 222,
-      "Трифонов Игорь Иванович": 27,
-      "Черторицкая Татьяна Владимировна": 69,
-      "Шубников Игорь Павлович": 30,
-      "Против всех": 135
+      "gas:candidate-vibid:1001000136042": 97,
+      "gas:candidate-vibid:1001000113923": 35,
+      "gas:candidate-vibid:333300270576": 68,
+      "gas:candidate-vibid:1001000225929": 152,
+      "gas:candidate-vibid:333300270566": 28,
+      "gas:candidate-vibid:1001000190335": 75,
+      "gas:candidate-vibid:333300270371": 222,
+      "gas:candidate-vibid:333300270581": 27,
+      "gas:candidate-vibid:333300270563": 69,
+      "gas:candidate-vibid:1001000202298": 30,
+      "special:against-all": 135
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=332000060&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=233200073303&region=0&sub_region=0&type=429",
@@ -12000,17 +12000,17 @@ export const duma_2003_uik_428_region_33_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бодров Дмитрий Алексеевич": 22,
-      "Гусев Анатолий Алексеевич": 4,
-      "Заморин Олег Константинович": 8,
-      "Котров Олег Владимирович": 23,
-      "Кузин Валерий Алексеевич": 4,
-      "Мельков Вадим Алексеевич": 26,
-      "Паутов Виктор Николаевич": 35,
-      "Трифонов Игорь Иванович": 10,
-      "Черторицкая Татьяна Владимировна": 1,
-      "Шубников Игорь Павлович": 7,
-      "Против всех": 26
+      "gas:candidate-vibid:1001000136042": 22,
+      "gas:candidate-vibid:1001000113923": 4,
+      "gas:candidate-vibid:333300270576": 8,
+      "gas:candidate-vibid:1001000225929": 23,
+      "gas:candidate-vibid:333300270566": 4,
+      "gas:candidate-vibid:1001000190335": 26,
+      "gas:candidate-vibid:333300270371": 35,
+      "gas:candidate-vibid:333300270581": 10,
+      "gas:candidate-vibid:333300270563": 1,
+      "gas:candidate-vibid:1001000202298": 7,
+      "special:against-all": 26
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=332000060&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=233200073303&region=0&sub_region=0&type=429",
@@ -12060,17 +12060,17 @@ export const duma_2003_uik_428_region_33_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бодров Дмитрий Алексеевич": 66,
-      "Гусев Анатолий Алексеевич": 19,
-      "Заморин Олег Константинович": 22,
-      "Котров Олег Владимирович": 62,
-      "Кузин Валерий Алексеевич": 8,
-      "Мельков Вадим Алексеевич": 32,
-      "Паутов Виктор Николаевич": 54,
-      "Трифонов Игорь Иванович": 55,
-      "Черторицкая Татьяна Владимировна": 29,
-      "Шубников Игорь Павлович": 10,
-      "Против всех": 66
+      "gas:candidate-vibid:1001000136042": 66,
+      "gas:candidate-vibid:1001000113923": 19,
+      "gas:candidate-vibid:333300270576": 22,
+      "gas:candidate-vibid:1001000225929": 62,
+      "gas:candidate-vibid:333300270566": 8,
+      "gas:candidate-vibid:1001000190335": 32,
+      "gas:candidate-vibid:333300270371": 54,
+      "gas:candidate-vibid:333300270581": 55,
+      "gas:candidate-vibid:333300270563": 29,
+      "gas:candidate-vibid:1001000202298": 10,
+      "special:against-all": 66
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=332000060&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=233200073303&region=0&sub_region=0&type=429",
@@ -12120,17 +12120,17 @@ export const duma_2003_uik_428_region_33_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бодров Дмитрий Алексеевич": 22,
-      "Гусев Анатолий Алексеевич": 8,
-      "Заморин Олег Константинович": 11,
-      "Котров Олег Владимирович": 20,
-      "Кузин Валерий Алексеевич": 2,
-      "Мельков Вадим Алексеевич": 36,
-      "Паутов Виктор Николаевич": 83,
-      "Трифонов Игорь Иванович": 7,
-      "Черторицкая Татьяна Владимировна": 3,
-      "Шубников Игорь Павлович": 4,
-      "Против всех": 39
+      "gas:candidate-vibid:1001000136042": 22,
+      "gas:candidate-vibid:1001000113923": 8,
+      "gas:candidate-vibid:333300270576": 11,
+      "gas:candidate-vibid:1001000225929": 20,
+      "gas:candidate-vibid:333300270566": 2,
+      "gas:candidate-vibid:1001000190335": 36,
+      "gas:candidate-vibid:333300270371": 83,
+      "gas:candidate-vibid:333300270581": 7,
+      "gas:candidate-vibid:333300270563": 3,
+      "gas:candidate-vibid:1001000202298": 4,
+      "special:against-all": 39
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=332000060&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=233200073303&region=0&sub_region=0&type=429",
@@ -12180,17 +12180,17 @@ export const duma_2003_uik_428_region_33_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бодров Дмитрий Алексеевич": 16,
-      "Гусев Анатолий Алексеевич": 1,
-      "Заморин Олег Константинович": 51,
-      "Котров Олег Владимирович": 24,
-      "Кузин Валерий Алексеевич": 6,
-      "Мельков Вадим Алексеевич": 34,
-      "Паутов Виктор Николаевич": 25,
-      "Трифонов Игорь Иванович": 7,
-      "Черторицкая Татьяна Владимировна": 5,
-      "Шубников Игорь Павлович": 3,
-      "Против всех": 33
+      "gas:candidate-vibid:1001000136042": 16,
+      "gas:candidate-vibid:1001000113923": 1,
+      "gas:candidate-vibid:333300270576": 51,
+      "gas:candidate-vibid:1001000225929": 24,
+      "gas:candidate-vibid:333300270566": 6,
+      "gas:candidate-vibid:1001000190335": 34,
+      "gas:candidate-vibid:333300270371": 25,
+      "gas:candidate-vibid:333300270581": 7,
+      "gas:candidate-vibid:333300270563": 5,
+      "gas:candidate-vibid:1001000202298": 3,
+      "special:against-all": 33
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=332000060&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=233200073303&region=0&sub_region=0&type=429",
@@ -12240,17 +12240,17 @@ export const duma_2003_uik_428_region_33_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бодров Дмитрий Алексеевич": 9,
-      "Гусев Анатолий Алексеевич": 2,
-      "Заморин Олег Константинович": 20,
-      "Котров Олег Владимирович": 11,
-      "Кузин Валерий Алексеевич": 1,
-      "Мельков Вадим Алексеевич": 121,
-      "Паутов Виктор Николаевич": 12,
-      "Трифонов Игорь Иванович": 9,
-      "Черторицкая Татьяна Владимировна": 6,
-      "Шубников Игорь Павлович": 1,
-      "Против всех": 20
+      "gas:candidate-vibid:1001000136042": 9,
+      "gas:candidate-vibid:1001000113923": 2,
+      "gas:candidate-vibid:333300270576": 20,
+      "gas:candidate-vibid:1001000225929": 11,
+      "gas:candidate-vibid:333300270566": 1,
+      "gas:candidate-vibid:1001000190335": 121,
+      "gas:candidate-vibid:333300270371": 12,
+      "gas:candidate-vibid:333300270581": 9,
+      "gas:candidate-vibid:333300270563": 6,
+      "gas:candidate-vibid:1001000202298": 1,
+      "special:against-all": 20
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=332000060&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=233200073303&region=0&sub_region=0&type=429",
@@ -12300,17 +12300,17 @@ export const duma_2003_uik_428_region_33_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бодров Дмитрий Алексеевич": 100,
-      "Гусев Анатолий Алексеевич": 15,
-      "Заморин Олег Константинович": 75,
-      "Котров Олег Владимирович": 139,
-      "Кузин Валерий Алексеевич": 31,
-      "Мельков Вадим Алексеевич": 86,
-      "Паутов Виктор Николаевич": 191,
-      "Трифонов Игорь Иванович": 67,
-      "Черторицкая Татьяна Владимировна": 27,
-      "Шубников Игорь Павлович": 34,
-      "Против всех": 129
+      "gas:candidate-vibid:1001000136042": 100,
+      "gas:candidate-vibid:1001000113923": 15,
+      "gas:candidate-vibid:333300270576": 75,
+      "gas:candidate-vibid:1001000225929": 139,
+      "gas:candidate-vibid:333300270566": 31,
+      "gas:candidate-vibid:1001000190335": 86,
+      "gas:candidate-vibid:333300270371": 191,
+      "gas:candidate-vibid:333300270581": 67,
+      "gas:candidate-vibid:333300270563": 27,
+      "gas:candidate-vibid:1001000202298": 34,
+      "special:against-all": 129
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=332000060&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=233200073303&region=0&sub_region=0&type=429",
@@ -12360,17 +12360,17 @@ export const duma_2003_uik_428_region_33_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бодров Дмитрий Алексеевич": 31,
-      "Гусев Анатолий Алексеевич": 9,
-      "Заморин Олег Константинович": 97,
-      "Котров Олег Владимирович": 60,
-      "Кузин Валерий Алексеевич": 9,
-      "Мельков Вадим Алексеевич": 52,
-      "Паутов Виктор Николаевич": 103,
-      "Трифонов Игорь Иванович": 9,
-      "Черторицкая Татьяна Владимировна": 18,
-      "Шубников Игорь Павлович": 12,
-      "Против всех": 53
+      "gas:candidate-vibid:1001000136042": 31,
+      "gas:candidate-vibid:1001000113923": 9,
+      "gas:candidate-vibid:333300270576": 97,
+      "gas:candidate-vibid:1001000225929": 60,
+      "gas:candidate-vibid:333300270566": 9,
+      "gas:candidate-vibid:1001000190335": 52,
+      "gas:candidate-vibid:333300270371": 103,
+      "gas:candidate-vibid:333300270581": 9,
+      "gas:candidate-vibid:333300270563": 18,
+      "gas:candidate-vibid:1001000202298": 12,
+      "special:against-all": 53
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=332000060&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=233200073303&region=0&sub_region=0&type=429",
@@ -12420,17 +12420,17 @@ export const duma_2003_uik_428_region_33_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бодров Дмитрий Алексеевич": 35,
-      "Гусев Анатолий Алексеевич": 7,
-      "Заморин Олег Константинович": 40,
-      "Котров Олег Владимирович": 47,
-      "Кузин Валерий Алексеевич": 5,
-      "Мельков Вадим Алексеевич": 60,
-      "Паутов Виктор Николаевич": 105,
-      "Трифонов Игорь Иванович": 17,
-      "Черторицкая Татьяна Владимировна": 14,
-      "Шубников Игорь Павлович": 9,
-      "Против всех": 52
+      "gas:candidate-vibid:1001000136042": 35,
+      "gas:candidate-vibid:1001000113923": 7,
+      "gas:candidate-vibid:333300270576": 40,
+      "gas:candidate-vibid:1001000225929": 47,
+      "gas:candidate-vibid:333300270566": 5,
+      "gas:candidate-vibid:1001000190335": 60,
+      "gas:candidate-vibid:333300270371": 105,
+      "gas:candidate-vibid:333300270581": 17,
+      "gas:candidate-vibid:333300270563": 14,
+      "gas:candidate-vibid:1001000202298": 9,
+      "special:against-all": 52
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=332000060&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=233200073303&region=0&sub_region=0&type=429",
@@ -12480,17 +12480,17 @@ export const duma_2003_uik_428_region_33_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бодров Дмитрий Алексеевич": 13,
-      "Гусев Анатолий Алексеевич": 3,
-      "Заморин Олег Константинович": 17,
-      "Котров Олег Владимирович": 21,
-      "Кузин Валерий Алексеевич": 1,
-      "Мельков Вадим Алексеевич": 6,
-      "Паутов Виктор Николаевич": 46,
-      "Трифонов Игорь Иванович": 4,
-      "Черторицкая Татьяна Владимировна": 6,
-      "Шубников Игорь Павлович": 3,
-      "Против всех": 15
+      "gas:candidate-vibid:1001000136042": 13,
+      "gas:candidate-vibid:1001000113923": 3,
+      "gas:candidate-vibid:333300270576": 17,
+      "gas:candidate-vibid:1001000225929": 21,
+      "gas:candidate-vibid:333300270566": 1,
+      "gas:candidate-vibid:1001000190335": 6,
+      "gas:candidate-vibid:333300270371": 46,
+      "gas:candidate-vibid:333300270581": 4,
+      "gas:candidate-vibid:333300270563": 6,
+      "gas:candidate-vibid:1001000202298": 3,
+      "special:against-all": 15
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=332000060&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=233200073303&region=0&sub_region=0&type=429",
@@ -12540,17 +12540,17 @@ export const duma_2003_uik_428_region_33_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бодров Дмитрий Алексеевич": 33,
-      "Гусев Анатолий Алексеевич": 5,
-      "Заморин Олег Константинович": 35,
-      "Котров Олег Владимирович": 42,
-      "Кузин Валерий Алексеевич": 4,
-      "Мельков Вадим Алексеевич": 13,
-      "Паутов Виктор Николаевич": 88,
-      "Трифонов Игорь Иванович": 42,
-      "Черторицкая Татьяна Владимировна": 19,
-      "Шубников Игорь Павлович": 8,
-      "Против всех": 56
+      "gas:candidate-vibid:1001000136042": 33,
+      "gas:candidate-vibid:1001000113923": 5,
+      "gas:candidate-vibid:333300270576": 35,
+      "gas:candidate-vibid:1001000225929": 42,
+      "gas:candidate-vibid:333300270566": 4,
+      "gas:candidate-vibid:1001000190335": 13,
+      "gas:candidate-vibid:333300270371": 88,
+      "gas:candidate-vibid:333300270581": 42,
+      "gas:candidate-vibid:333300270563": 19,
+      "gas:candidate-vibid:1001000202298": 8,
+      "special:against-all": 56
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=332000060&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=233200073303&region=0&sub_region=0&type=429",
@@ -12600,17 +12600,17 @@ export const duma_2003_uik_428_region_33_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бодров Дмитрий Алексеевич": 27,
-      "Гусев Анатолий Алексеевич": 6,
-      "Заморин Олег Константинович": 64,
-      "Котров Олег Владимирович": 11,
-      "Кузин Валерий Алексеевич": 2,
-      "Мельков Вадим Алексеевич": 6,
-      "Паутов Виктор Николаевич": 50,
-      "Трифонов Игорь Иванович": 7,
-      "Черторицкая Татьяна Владимировна": 6,
-      "Шубников Игорь Павлович": 3,
-      "Против всех": 15
+      "gas:candidate-vibid:1001000136042": 27,
+      "gas:candidate-vibid:1001000113923": 6,
+      "gas:candidate-vibid:333300270576": 64,
+      "gas:candidate-vibid:1001000225929": 11,
+      "gas:candidate-vibid:333300270566": 2,
+      "gas:candidate-vibid:1001000190335": 6,
+      "gas:candidate-vibid:333300270371": 50,
+      "gas:candidate-vibid:333300270581": 7,
+      "gas:candidate-vibid:333300270563": 6,
+      "gas:candidate-vibid:1001000202298": 3,
+      "special:against-all": 15
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=332000060&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=233200073303&region=0&sub_region=0&type=429",
@@ -12660,17 +12660,17 @@ export const duma_2003_uik_428_region_33_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бодров Дмитрий Алексеевич": 134,
-      "Гусев Анатолий Алексеевич": 22,
-      "Заморин Олег Константинович": 124,
-      "Котров Олег Владимирович": 136,
-      "Кузин Валерий Алексеевич": 13,
-      "Мельков Вадим Алексеевич": 47,
-      "Паутов Виктор Николаевич": 315,
-      "Трифонов Игорь Иванович": 128,
-      "Черторицкая Татьяна Владимировна": 31,
-      "Шубников Игорь Павлович": 11,
-      "Против всех": 184
+      "gas:candidate-vibid:1001000136042": 134,
+      "gas:candidate-vibid:1001000113923": 22,
+      "gas:candidate-vibid:333300270576": 124,
+      "gas:candidate-vibid:1001000225929": 136,
+      "gas:candidate-vibid:333300270566": 13,
+      "gas:candidate-vibid:1001000190335": 47,
+      "gas:candidate-vibid:333300270371": 315,
+      "gas:candidate-vibid:333300270581": 128,
+      "gas:candidate-vibid:333300270563": 31,
+      "gas:candidate-vibid:1001000202298": 11,
+      "special:against-all": 184
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=332000060&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=233200073303&region=0&sub_region=0&type=429",
@@ -12720,17 +12720,17 @@ export const duma_2003_uik_428_region_33_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бодров Дмитрий Алексеевич": 66,
-      "Гусев Анатолий Алексеевич": 20,
-      "Заморин Олег Константинович": 52,
-      "Котров Олег Владимирович": 66,
-      "Кузин Валерий Алексеевич": 12,
-      "Мельков Вадим Алексеевич": 26,
-      "Паутов Виктор Николаевич": 235,
-      "Трифонов Игорь Иванович": 58,
-      "Черторицкая Татьяна Владимировна": 31,
-      "Шубников Игорь Павлович": 6,
-      "Против всех": 52
+      "gas:candidate-vibid:1001000136042": 66,
+      "gas:candidate-vibid:1001000113923": 20,
+      "gas:candidate-vibid:333300270576": 52,
+      "gas:candidate-vibid:1001000225929": 66,
+      "gas:candidate-vibid:333300270566": 12,
+      "gas:candidate-vibid:1001000190335": 26,
+      "gas:candidate-vibid:333300270371": 235,
+      "gas:candidate-vibid:333300270581": 58,
+      "gas:candidate-vibid:333300270563": 31,
+      "gas:candidate-vibid:1001000202298": 6,
+      "special:against-all": 52
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=332000060&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=233200073303&region=0&sub_region=0&type=429",
@@ -12780,17 +12780,17 @@ export const duma_2003_uik_428_region_33_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бодров Дмитрий Алексеевич": 52,
-      "Гусев Анатолий Алексеевич": 7,
-      "Заморин Олег Константинович": 89,
-      "Котров Олег Владимирович": 62,
-      "Кузин Валерий Алексеевич": 8,
-      "Мельков Вадим Алексеевич": 22,
-      "Паутов Виктор Николаевич": 262,
-      "Трифонов Игорь Иванович": 47,
-      "Черторицкая Татьяна Владимировна": 21,
-      "Шубников Игорь Павлович": 11,
-      "Против всех": 52
+      "gas:candidate-vibid:1001000136042": 52,
+      "gas:candidate-vibid:1001000113923": 7,
+      "gas:candidate-vibid:333300270576": 89,
+      "gas:candidate-vibid:1001000225929": 62,
+      "gas:candidate-vibid:333300270566": 8,
+      "gas:candidate-vibid:1001000190335": 22,
+      "gas:candidate-vibid:333300270371": 262,
+      "gas:candidate-vibid:333300270581": 47,
+      "gas:candidate-vibid:333300270563": 21,
+      "gas:candidate-vibid:1001000202298": 11,
+      "special:against-all": 52
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=332000060&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=233200073303&region=0&sub_region=0&type=429",
@@ -12840,17 +12840,17 @@ export const duma_2003_uik_428_region_33_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бодров Дмитрий Алексеевич": 17,
-      "Гусев Анатолий Алексеевич": 5,
-      "Заморин Олег Константинович": 38,
-      "Котров Олег Владимирович": 26,
-      "Кузин Валерий Алексеевич": 2,
-      "Мельков Вадим Алексеевич": 7,
-      "Паутов Виктор Николаевич": 91,
-      "Трифонов Игорь Иванович": 8,
-      "Черторицкая Татьяна Владимировна": 8,
-      "Шубников Игорь Павлович": 7,
-      "Против всех": 44
+      "gas:candidate-vibid:1001000136042": 17,
+      "gas:candidate-vibid:1001000113923": 5,
+      "gas:candidate-vibid:333300270576": 38,
+      "gas:candidate-vibid:1001000225929": 26,
+      "gas:candidate-vibid:333300270566": 2,
+      "gas:candidate-vibid:1001000190335": 7,
+      "gas:candidate-vibid:333300270371": 91,
+      "gas:candidate-vibid:333300270581": 8,
+      "gas:candidate-vibid:333300270563": 8,
+      "gas:candidate-vibid:1001000202298": 7,
+      "special:against-all": 44
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=332000060&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=233200073303&region=0&sub_region=0&type=429",
@@ -12900,17 +12900,17 @@ export const duma_2003_uik_428_region_33_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бодров Дмитрий Алексеевич": 44,
-      "Гусев Анатолий Алексеевич": 9,
-      "Заморин Олег Константинович": 159,
-      "Котров Олег Владимирович": 84,
-      "Кузин Валерий Алексеевич": 5,
-      "Мельков Вадим Алексеевич": 51,
-      "Паутов Виктор Николаевич": 286,
-      "Трифонов Игорь Иванович": 20,
-      "Черторицкая Татьяна Владимировна": 39,
-      "Шубников Игорь Павлович": 9,
-      "Против всех": 83
+      "gas:candidate-vibid:1001000136042": 44,
+      "gas:candidate-vibid:1001000113923": 9,
+      "gas:candidate-vibid:333300270576": 159,
+      "gas:candidate-vibid:1001000225929": 84,
+      "gas:candidate-vibid:333300270566": 5,
+      "gas:candidate-vibid:1001000190335": 51,
+      "gas:candidate-vibid:333300270371": 286,
+      "gas:candidate-vibid:333300270581": 20,
+      "gas:candidate-vibid:333300270563": 39,
+      "gas:candidate-vibid:1001000202298": 9,
+      "special:against-all": 83
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=332000060&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=233200073303&region=0&sub_region=0&type=429",
@@ -12960,17 +12960,17 @@ export const duma_2003_uik_428_region_33_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бодров Дмитрий Алексеевич": 21,
-      "Гусев Анатолий Алексеевич": 2,
-      "Заморин Олег Константинович": 74,
-      "Котров Олег Владимирович": 20,
-      "Кузин Валерий Алексеевич": 4,
-      "Мельков Вадим Алексеевич": 17,
-      "Паутов Виктор Николаевич": 75,
-      "Трифонов Игорь Иванович": 9,
-      "Черторицкая Татьяна Владимировна": 6,
-      "Шубников Игорь Павлович": 8,
-      "Против всех": 42
+      "gas:candidate-vibid:1001000136042": 21,
+      "gas:candidate-vibid:1001000113923": 2,
+      "gas:candidate-vibid:333300270576": 74,
+      "gas:candidate-vibid:1001000225929": 20,
+      "gas:candidate-vibid:333300270566": 4,
+      "gas:candidate-vibid:1001000190335": 17,
+      "gas:candidate-vibid:333300270371": 75,
+      "gas:candidate-vibid:333300270581": 9,
+      "gas:candidate-vibid:333300270563": 6,
+      "gas:candidate-vibid:1001000202298": 8,
+      "special:against-all": 42
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=332000060&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=233200073303&region=0&sub_region=0&type=429",
@@ -13020,17 +13020,17 @@ export const duma_2003_uik_428_region_33_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бодров Дмитрий Алексеевич": 22,
-      "Гусев Анатолий Алексеевич": 3,
-      "Заморин Олег Константинович": 8,
-      "Котров Олег Владимирович": 31,
-      "Кузин Валерий Алексеевич": 6,
-      "Мельков Вадим Алексеевич": 20,
-      "Паутов Виктор Николаевич": 139,
-      "Трифонов Игорь Иванович": 8,
-      "Черторицкая Татьяна Владимировна": 9,
-      "Шубников Игорь Павлович": 5,
-      "Против всех": 9
+      "gas:candidate-vibid:1001000136042": 22,
+      "gas:candidate-vibid:1001000113923": 3,
+      "gas:candidate-vibid:333300270576": 8,
+      "gas:candidate-vibid:1001000225929": 31,
+      "gas:candidate-vibid:333300270566": 6,
+      "gas:candidate-vibid:1001000190335": 20,
+      "gas:candidate-vibid:333300270371": 139,
+      "gas:candidate-vibid:333300270581": 8,
+      "gas:candidate-vibid:333300270563": 9,
+      "gas:candidate-vibid:1001000202298": 5,
+      "special:against-all": 9
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=332000060&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=233200073303&region=0&sub_region=0&type=429",
@@ -13080,17 +13080,17 @@ export const duma_2003_uik_428_region_33_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бодров Дмитрий Алексеевич": 28,
-      "Гусев Анатолий Алексеевич": 6,
-      "Заморин Олег Константинович": 50,
-      "Котров Олег Владимирович": 47,
-      "Кузин Валерий Алексеевич": 4,
-      "Мельков Вадим Алексеевич": 27,
-      "Паутов Виктор Николаевич": 176,
-      "Трифонов Игорь Иванович": 10,
-      "Черторицкая Татьяна Владимировна": 27,
-      "Шубников Игорь Павлович": 6,
-      "Против всех": 25
+      "gas:candidate-vibid:1001000136042": 28,
+      "gas:candidate-vibid:1001000113923": 6,
+      "gas:candidate-vibid:333300270576": 50,
+      "gas:candidate-vibid:1001000225929": 47,
+      "gas:candidate-vibid:333300270566": 4,
+      "gas:candidate-vibid:1001000190335": 27,
+      "gas:candidate-vibid:333300270371": 176,
+      "gas:candidate-vibid:333300270581": 10,
+      "gas:candidate-vibid:333300270563": 27,
+      "gas:candidate-vibid:1001000202298": 6,
+      "special:against-all": 25
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=332000060&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=233200073303&region=0&sub_region=0&type=429",
@@ -13140,17 +13140,17 @@ export const duma_2003_uik_428_region_33_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бодров Дмитрий Алексеевич": 81,
-      "Гусев Анатолий Алексеевич": 15,
-      "Заморин Олег Константинович": 143,
-      "Котров Олег Владимирович": 96,
-      "Кузин Валерий Алексеевич": 12,
-      "Мельков Вадим Алексеевич": 17,
-      "Паутов Виктор Николаевич": 177,
-      "Трифонов Игорь Иванович": 9,
-      "Черторицкая Татьяна Владимировна": 32,
-      "Шубников Игорь Павлович": 10,
-      "Против всех": 147
+      "gas:candidate-vibid:1001000136042": 81,
+      "gas:candidate-vibid:1001000113923": 15,
+      "gas:candidate-vibid:333300270576": 143,
+      "gas:candidate-vibid:1001000225929": 96,
+      "gas:candidate-vibid:333300270566": 12,
+      "gas:candidate-vibid:1001000190335": 17,
+      "gas:candidate-vibid:333300270371": 177,
+      "gas:candidate-vibid:333300270581": 9,
+      "gas:candidate-vibid:333300270563": 32,
+      "gas:candidate-vibid:1001000202298": 10,
+      "special:against-all": 147
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=332000060&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=233200073303&region=0&sub_region=0&type=429",
@@ -13200,17 +13200,17 @@ export const duma_2003_uik_428_region_33_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бодров Дмитрий Алексеевич": 15,
-      "Гусев Анатолий Алексеевич": 3,
-      "Заморин Олег Константинович": 16,
-      "Котров Олег Владимирович": 38,
-      "Кузин Валерий Алексеевич": 5,
-      "Мельков Вадим Алексеевич": 10,
-      "Паутов Виктор Николаевич": 55,
-      "Трифонов Игорь Иванович": 3,
-      "Черторицкая Татьяна Владимировна": 4,
-      "Шубников Игорь Павлович": 3,
-      "Против всех": 18
+      "gas:candidate-vibid:1001000136042": 15,
+      "gas:candidate-vibid:1001000113923": 3,
+      "gas:candidate-vibid:333300270576": 16,
+      "gas:candidate-vibid:1001000225929": 38,
+      "gas:candidate-vibid:333300270566": 5,
+      "gas:candidate-vibid:1001000190335": 10,
+      "gas:candidate-vibid:333300270371": 55,
+      "gas:candidate-vibid:333300270581": 3,
+      "gas:candidate-vibid:333300270563": 4,
+      "gas:candidate-vibid:1001000202298": 3,
+      "special:against-all": 18
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=332000060&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=233200073303&region=0&sub_region=0&type=429",
@@ -13260,17 +13260,17 @@ export const duma_2003_uik_428_region_33_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бодров Дмитрий Алексеевич": 30,
-      "Гусев Анатолий Алексеевич": 18,
-      "Заморин Олег Константинович": 25,
-      "Котров Олег Владимирович": 66,
-      "Кузин Валерий Алексеевич": 11,
-      "Мельков Вадим Алексеевич": 20,
-      "Паутов Виктор Николаевич": 189,
-      "Трифонов Игорь Иванович": 52,
-      "Черторицкая Татьяна Владимировна": 30,
-      "Шубников Игорь Павлович": 10,
-      "Против всех": 61
+      "gas:candidate-vibid:1001000136042": 30,
+      "gas:candidate-vibid:1001000113923": 18,
+      "gas:candidate-vibid:333300270576": 25,
+      "gas:candidate-vibid:1001000225929": 66,
+      "gas:candidate-vibid:333300270566": 11,
+      "gas:candidate-vibid:1001000190335": 20,
+      "gas:candidate-vibid:333300270371": 189,
+      "gas:candidate-vibid:333300270581": 52,
+      "gas:candidate-vibid:333300270563": 30,
+      "gas:candidate-vibid:1001000202298": 10,
+      "special:against-all": 61
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=332000060&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=233200073303&region=0&sub_region=0&type=429",
@@ -13320,17 +13320,17 @@ export const duma_2003_uik_428_region_33_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бодров Дмитрий Алексеевич": 17,
-      "Гусев Анатолий Алексеевич": 5,
-      "Заморин Олег Константинович": 6,
-      "Котров Олег Владимирович": 18,
-      "Кузин Валерий Алексеевич": 3,
-      "Мельков Вадим Алексеевич": 36,
-      "Паутов Виктор Николаевич": 42,
-      "Трифонов Игорь Иванович": 5,
-      "Черторицкая Татьяна Владимировна": 7,
-      "Шубников Игорь Павлович": 2,
-      "Против всех": 13
+      "gas:candidate-vibid:1001000136042": 17,
+      "gas:candidate-vibid:1001000113923": 5,
+      "gas:candidate-vibid:333300270576": 6,
+      "gas:candidate-vibid:1001000225929": 18,
+      "gas:candidate-vibid:333300270566": 3,
+      "gas:candidate-vibid:1001000190335": 36,
+      "gas:candidate-vibid:333300270371": 42,
+      "gas:candidate-vibid:333300270581": 5,
+      "gas:candidate-vibid:333300270563": 7,
+      "gas:candidate-vibid:1001000202298": 2,
+      "special:against-all": 13
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=332000060&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=233200073303&region=0&sub_region=0&type=429",
@@ -13380,17 +13380,17 @@ export const duma_2003_uik_428_region_33_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бодров Дмитрий Алексеевич": 23,
-      "Гусев Анатолий Алексеевич": 8,
-      "Заморин Олег Константинович": 47,
-      "Котров Олег Владимирович": 19,
-      "Кузин Валерий Алексеевич": 1,
-      "Мельков Вадим Алексеевич": 16,
-      "Паутов Виктор Николаевич": 83,
-      "Трифонов Игорь Иванович": 7,
-      "Черторицкая Татьяна Владимировна": 16,
-      "Шубников Игорь Павлович": 2,
-      "Против всех": 49
+      "gas:candidate-vibid:1001000136042": 23,
+      "gas:candidate-vibid:1001000113923": 8,
+      "gas:candidate-vibid:333300270576": 47,
+      "gas:candidate-vibid:1001000225929": 19,
+      "gas:candidate-vibid:333300270566": 1,
+      "gas:candidate-vibid:1001000190335": 16,
+      "gas:candidate-vibid:333300270371": 83,
+      "gas:candidate-vibid:333300270581": 7,
+      "gas:candidate-vibid:333300270563": 16,
+      "gas:candidate-vibid:1001000202298": 2,
+      "special:against-all": 49
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=332000060&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=233200073303&region=0&sub_region=0&type=429",
@@ -13440,17 +13440,17 @@ export const duma_2003_uik_428_region_33_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бодров Дмитрий Алексеевич": 8,
-      "Гусев Анатолий Алексеевич": 4,
-      "Заморин Олег Константинович": 7,
-      "Котров Олег Владимирович": 9,
-      "Кузин Валерий Алексеевич": 3,
-      "Мельков Вадим Алексеевич": 8,
-      "Паутов Виктор Николаевич": 34,
-      "Трифонов Игорь Иванович": 8,
-      "Черторицкая Татьяна Владимировна": 1,
-      "Шубников Игорь Павлович": 1,
-      "Против всех": 4
+      "gas:candidate-vibid:1001000136042": 8,
+      "gas:candidate-vibid:1001000113923": 4,
+      "gas:candidate-vibid:333300270576": 7,
+      "gas:candidate-vibid:1001000225929": 9,
+      "gas:candidate-vibid:333300270566": 3,
+      "gas:candidate-vibid:1001000190335": 8,
+      "gas:candidate-vibid:333300270371": 34,
+      "gas:candidate-vibid:333300270581": 8,
+      "gas:candidate-vibid:333300270563": 1,
+      "gas:candidate-vibid:1001000202298": 1,
+      "special:against-all": 4
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=332000060&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=233200073303&region=0&sub_region=0&type=429",
@@ -13500,17 +13500,17 @@ export const duma_2003_uik_428_region_33_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бодров Дмитрий Алексеевич": 29,
-      "Гусев Анатолий Алексеевич": 13,
-      "Заморин Олег Константинович": 120,
-      "Котров Олег Владимирович": 36,
-      "Кузин Валерий Алексеевич": 10,
-      "Мельков Вадим Алексеевич": 15,
-      "Паутов Виктор Николаевич": 121,
-      "Трифонов Игорь Иванович": 20,
-      "Черторицкая Татьяна Владимировна": 10,
-      "Шубников Игорь Павлович": 3,
-      "Против всех": 56
+      "gas:candidate-vibid:1001000136042": 29,
+      "gas:candidate-vibid:1001000113923": 13,
+      "gas:candidate-vibid:333300270576": 120,
+      "gas:candidate-vibid:1001000225929": 36,
+      "gas:candidate-vibid:333300270566": 10,
+      "gas:candidate-vibid:1001000190335": 15,
+      "gas:candidate-vibid:333300270371": 121,
+      "gas:candidate-vibid:333300270581": 20,
+      "gas:candidate-vibid:333300270563": 10,
+      "gas:candidate-vibid:1001000202298": 3,
+      "special:against-all": 56
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=332000060&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=233200073303&region=0&sub_region=0&type=429",
@@ -13560,17 +13560,17 @@ export const duma_2003_uik_428_region_33_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бодров Дмитрий Алексеевич": 52,
-      "Гусев Анатолий Алексеевич": 6,
-      "Заморин Олег Константинович": 26,
-      "Котров Олег Владимирович": 81,
-      "Кузин Валерий Алексеевич": 9,
-      "Мельков Вадим Алексеевич": 71,
-      "Паутов Виктор Николаевич": 224,
-      "Трифонов Игорь Иванович": 7,
-      "Черторицкая Татьяна Владимировна": 59,
-      "Шубников Игорь Павлович": 13,
-      "Против всех": 70
+      "gas:candidate-vibid:1001000136042": 52,
+      "gas:candidate-vibid:1001000113923": 6,
+      "gas:candidate-vibid:333300270576": 26,
+      "gas:candidate-vibid:1001000225929": 81,
+      "gas:candidate-vibid:333300270566": 9,
+      "gas:candidate-vibid:1001000190335": 71,
+      "gas:candidate-vibid:333300270371": 224,
+      "gas:candidate-vibid:333300270581": 7,
+      "gas:candidate-vibid:333300270563": 59,
+      "gas:candidate-vibid:1001000202298": 13,
+      "special:against-all": 70
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=332000060&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=233200073303&region=0&sub_region=0&type=429",
@@ -13620,20 +13620,20 @@ export const duma_2003_uik_428_region_33_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Андрианов Николай Ефимович": 27,
-      "Артемов Игорь Владимирович": 235,
-      "Беляков Антон Владимирович": 14,
-      "Волков Анатолий Алексеевич": 1,
-      "Дулов Сергей Юльевич": 9,
-      "Есякова Галина Викторовна": 72,
-      "Ивашкевич Анатолий Павлович": 3,
-      "Игошин Игорь Николаевич": 312,
-      "Казаков Сергей Валентинович": 48,
-      "Леонтьев Александр Геннадьевич": 28,
-      "Малаховский Семен Павлович": 16,
-      "Чуркин Геннадий Иванович": 57,
-      "Шикунов Александр Дмитриевич": 1,
-      "Против всех": 156
+      "gas:candidate-vibid:1001000202297": 27,
+      "gas:candidate-vibid:333300170781": 235,
+      "gas:candidate-vibid:333300171576": 14,
+      "gas:candidate-vibid:333300171500": 1,
+      "gas:candidate-vibid:333300170778": 9,
+      "gas:candidate-vibid:1001000190333": 72,
+      "gas:candidate-vibid:333300170860": 3,
+      "gas:candidate-vibid:1001000121837": 312,
+      "gas:candidate-vibid:1001000113922": 48,
+      "gas:candidate-vibid:1001000220815": 28,
+      "gas:candidate-vibid:1001000136041": 16,
+      "gas:candidate-vibid:1001000217917": 57,
+      "gas:candidate-vibid:333300170955": 1,
+      "special:against-all": 156
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=333001002&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=333300172242&region=0&sub_region=0&type=429",
@@ -13683,20 +13683,20 @@ export const duma_2003_uik_428_region_33_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Андрианов Николай Ефимович": 16,
-      "Артемов Игорь Владимирович": 82,
-      "Беляков Антон Владимирович": 5,
-      "Волков Анатолий Алексеевич": 0,
-      "Дулов Сергей Юльевич": 1,
-      "Есякова Галина Викторовна": 11,
-      "Ивашкевич Анатолий Павлович": 4,
-      "Игошин Игорь Николаевич": 111,
-      "Казаков Сергей Валентинович": 19,
-      "Леонтьев Александр Геннадьевич": 8,
-      "Малаховский Семен Павлович": 6,
-      "Чуркин Геннадий Иванович": 10,
-      "Шикунов Александр Дмитриевич": 0,
-      "Против всех": 36
+      "gas:candidate-vibid:1001000202297": 16,
+      "gas:candidate-vibid:333300170781": 82,
+      "gas:candidate-vibid:333300171576": 5,
+      "gas:candidate-vibid:333300171500": 0,
+      "gas:candidate-vibid:333300170778": 1,
+      "gas:candidate-vibid:1001000190333": 11,
+      "gas:candidate-vibid:333300170860": 4,
+      "gas:candidate-vibid:1001000121837": 111,
+      "gas:candidate-vibid:1001000113922": 19,
+      "gas:candidate-vibid:1001000220815": 8,
+      "gas:candidate-vibid:1001000136041": 6,
+      "gas:candidate-vibid:1001000217917": 10,
+      "gas:candidate-vibid:333300170955": 0,
+      "special:against-all": 36
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=333001002&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=333300172242&region=0&sub_region=0&type=429",
@@ -13746,20 +13746,20 @@ export const duma_2003_uik_428_region_33_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Андрианов Николай Ефимович": 37,
-      "Артемов Игорь Владимирович": 91,
-      "Беляков Антон Владимирович": 10,
-      "Волков Анатолий Алексеевич": 1,
-      "Дулов Сергей Юльевич": 3,
-      "Есякова Галина Викторовна": 25,
-      "Ивашкевич Анатолий Павлович": 9,
-      "Игошин Игорь Николаевич": 363,
-      "Казаков Сергей Валентинович": 22,
-      "Леонтьев Александр Геннадьевич": 20,
-      "Малаховский Семен Павлович": 13,
-      "Чуркин Геннадий Иванович": 37,
-      "Шикунов Александр Дмитриевич": 0,
-      "Против всех": 89
+      "gas:candidate-vibid:1001000202297": 37,
+      "gas:candidate-vibid:333300170781": 91,
+      "gas:candidate-vibid:333300171576": 10,
+      "gas:candidate-vibid:333300171500": 1,
+      "gas:candidate-vibid:333300170778": 3,
+      "gas:candidate-vibid:1001000190333": 25,
+      "gas:candidate-vibid:333300170860": 9,
+      "gas:candidate-vibid:1001000121837": 363,
+      "gas:candidate-vibid:1001000113922": 22,
+      "gas:candidate-vibid:1001000220815": 20,
+      "gas:candidate-vibid:1001000136041": 13,
+      "gas:candidate-vibid:1001000217917": 37,
+      "gas:candidate-vibid:333300170955": 0,
+      "special:against-all": 89
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=333001002&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=333300172242&region=0&sub_region=0&type=429",
@@ -13809,20 +13809,20 @@ export const duma_2003_uik_428_region_33_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Андрианов Николай Ефимович": 66,
-      "Артемов Игорь Владимирович": 185,
-      "Беляков Антон Владимирович": 11,
-      "Волков Анатолий Алексеевич": 2,
-      "Дулов Сергей Юльевич": 3,
-      "Есякова Галина Викторовна": 37,
-      "Ивашкевич Анатолий Павлович": 3,
-      "Игошин Игорь Николаевич": 337,
-      "Казаков Сергей Валентинович": 37,
-      "Леонтьев Александр Геннадьевич": 34,
-      "Малаховский Семен Павлович": 13,
-      "Чуркин Геннадий Иванович": 33,
-      "Шикунов Александр Дмитриевич": 1,
-      "Против всех": 126
+      "gas:candidate-vibid:1001000202297": 66,
+      "gas:candidate-vibid:333300170781": 185,
+      "gas:candidate-vibid:333300171576": 11,
+      "gas:candidate-vibid:333300171500": 2,
+      "gas:candidate-vibid:333300170778": 3,
+      "gas:candidate-vibid:1001000190333": 37,
+      "gas:candidate-vibid:333300170860": 3,
+      "gas:candidate-vibid:1001000121837": 337,
+      "gas:candidate-vibid:1001000113922": 37,
+      "gas:candidate-vibid:1001000220815": 34,
+      "gas:candidate-vibid:1001000136041": 13,
+      "gas:candidate-vibid:1001000217917": 33,
+      "gas:candidate-vibid:333300170955": 1,
+      "special:against-all": 126
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=333001002&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=333300172242&region=0&sub_region=0&type=429",
@@ -13872,20 +13872,20 @@ export const duma_2003_uik_428_region_33_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Андрианов Николай Ефимович": 51,
-      "Артемов Игорь Владимирович": 168,
-      "Беляков Антон Владимирович": 12,
-      "Волков Анатолий Алексеевич": 3,
-      "Дулов Сергей Юльевич": 2,
-      "Есякова Галина Викторовна": 39,
-      "Ивашкевич Анатолий Павлович": 6,
-      "Игошин Игорь Николаевич": 222,
-      "Казаков Сергей Валентинович": 21,
-      "Леонтьев Александр Геннадьевич": 40,
-      "Малаховский Семен Павлович": 12,
-      "Чуркин Геннадий Иванович": 45,
-      "Шикунов Александр Дмитриевич": 5,
-      "Против всех": 106
+      "gas:candidate-vibid:1001000202297": 51,
+      "gas:candidate-vibid:333300170781": 168,
+      "gas:candidate-vibid:333300171576": 12,
+      "gas:candidate-vibid:333300171500": 3,
+      "gas:candidate-vibid:333300170778": 2,
+      "gas:candidate-vibid:1001000190333": 39,
+      "gas:candidate-vibid:333300170860": 6,
+      "gas:candidate-vibid:1001000121837": 222,
+      "gas:candidate-vibid:1001000113922": 21,
+      "gas:candidate-vibid:1001000220815": 40,
+      "gas:candidate-vibid:1001000136041": 12,
+      "gas:candidate-vibid:1001000217917": 45,
+      "gas:candidate-vibid:333300170955": 5,
+      "special:against-all": 106
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=333001002&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=333300172242&region=0&sub_region=0&type=429",
@@ -13935,20 +13935,20 @@ export const duma_2003_uik_428_region_33_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Андрианов Николай Ефимович": 79,
-      "Артемов Игорь Владимирович": 279,
-      "Беляков Антон Владимирович": 4,
-      "Волков Анатолий Алексеевич": 5,
-      "Дулов Сергей Юльевич": 4,
-      "Есякова Галина Викторовна": 90,
-      "Ивашкевич Анатолий Павлович": 6,
-      "Игошин Игорь Николаевич": 236,
-      "Казаков Сергей Валентинович": 36,
-      "Леонтьев Александр Геннадьевич": 39,
-      "Малаховский Семен Павлович": 18,
-      "Чуркин Геннадий Иванович": 46,
-      "Шикунов Александр Дмитриевич": 1,
-      "Против всех": 159
+      "gas:candidate-vibid:1001000202297": 79,
+      "gas:candidate-vibid:333300170781": 279,
+      "gas:candidate-vibid:333300171576": 4,
+      "gas:candidate-vibid:333300171500": 5,
+      "gas:candidate-vibid:333300170778": 4,
+      "gas:candidate-vibid:1001000190333": 90,
+      "gas:candidate-vibid:333300170860": 6,
+      "gas:candidate-vibid:1001000121837": 236,
+      "gas:candidate-vibid:1001000113922": 36,
+      "gas:candidate-vibid:1001000220815": 39,
+      "gas:candidate-vibid:1001000136041": 18,
+      "gas:candidate-vibid:1001000217917": 46,
+      "gas:candidate-vibid:333300170955": 1,
+      "special:against-all": 159
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=333001002&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=333300172242&region=0&sub_region=0&type=429",
@@ -13998,20 +13998,20 @@ export const duma_2003_uik_428_region_33_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Андрианов Николай Ефимович": 49,
-      "Артемов Игорь Владимирович": 291,
-      "Беляков Антон Владимирович": 4,
-      "Волков Анатолий Алексеевич": 4,
-      "Дулов Сергей Юльевич": 5,
-      "Есякова Галина Викторовна": 79,
-      "Ивашкевич Анатолий Павлович": 6,
-      "Игошин Игорь Николаевич": 185,
-      "Казаков Сергей Валентинович": 28,
-      "Леонтьев Александр Геннадьевич": 12,
-      "Малаховский Семен Павлович": 13,
-      "Чуркин Геннадий Иванович": 32,
-      "Шикунов Александр Дмитриевич": 1,
-      "Против всех": 120
+      "gas:candidate-vibid:1001000202297": 49,
+      "gas:candidate-vibid:333300170781": 291,
+      "gas:candidate-vibid:333300171576": 4,
+      "gas:candidate-vibid:333300171500": 4,
+      "gas:candidate-vibid:333300170778": 5,
+      "gas:candidate-vibid:1001000190333": 79,
+      "gas:candidate-vibid:333300170860": 6,
+      "gas:candidate-vibid:1001000121837": 185,
+      "gas:candidate-vibid:1001000113922": 28,
+      "gas:candidate-vibid:1001000220815": 12,
+      "gas:candidate-vibid:1001000136041": 13,
+      "gas:candidate-vibid:1001000217917": 32,
+      "gas:candidate-vibid:333300170955": 1,
+      "special:against-all": 120
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=333001002&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=333300172242&region=0&sub_region=0&type=429",
@@ -14061,20 +14061,20 @@ export const duma_2003_uik_428_region_33_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Андрианов Николай Ефимович": 131,
-      "Артемов Игорь Владимирович": 273,
-      "Беляков Антон Владимирович": 12,
-      "Волков Анатолий Алексеевич": 6,
-      "Дулов Сергей Юльевич": 7,
-      "Есякова Галина Викторовна": 61,
-      "Ивашкевич Анатолий Павлович": 9,
-      "Игошин Игорь Николаевич": 237,
-      "Казаков Сергей Валентинович": 36,
-      "Леонтьев Александр Геннадьевич": 66,
-      "Малаховский Семен Павлович": 14,
-      "Чуркин Геннадий Иванович": 58,
-      "Шикунов Александр Дмитриевич": 3,
-      "Против всех": 177
+      "gas:candidate-vibid:1001000202297": 131,
+      "gas:candidate-vibid:333300170781": 273,
+      "gas:candidate-vibid:333300171576": 12,
+      "gas:candidate-vibid:333300171500": 6,
+      "gas:candidate-vibid:333300170778": 7,
+      "gas:candidate-vibid:1001000190333": 61,
+      "gas:candidate-vibid:333300170860": 9,
+      "gas:candidate-vibid:1001000121837": 237,
+      "gas:candidate-vibid:1001000113922": 36,
+      "gas:candidate-vibid:1001000220815": 66,
+      "gas:candidate-vibid:1001000136041": 14,
+      "gas:candidate-vibid:1001000217917": 58,
+      "gas:candidate-vibid:333300170955": 3,
+      "special:against-all": 177
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=333001002&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=333300172242&region=0&sub_region=0&type=429",
@@ -14124,20 +14124,20 @@ export const duma_2003_uik_428_region_33_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Андрианов Николай Ефимович": 131,
-      "Артемов Игорь Владимирович": 249,
-      "Беляков Антон Владимирович": 14,
-      "Волков Анатолий Алексеевич": 3,
-      "Дулов Сергей Юльевич": 6,
-      "Есякова Галина Викторовна": 83,
-      "Ивашкевич Анатолий Павлович": 7,
-      "Игошин Игорь Николаевич": 321,
-      "Казаков Сергей Валентинович": 52,
-      "Леонтьев Александр Геннадьевич": 52,
-      "Малаховский Семен Павлович": 17,
-      "Чуркин Геннадий Иванович": 77,
-      "Шикунов Александр Дмитриевич": 1,
-      "Против всех": 191
+      "gas:candidate-vibid:1001000202297": 131,
+      "gas:candidate-vibid:333300170781": 249,
+      "gas:candidate-vibid:333300171576": 14,
+      "gas:candidate-vibid:333300171500": 3,
+      "gas:candidate-vibid:333300170778": 6,
+      "gas:candidate-vibid:1001000190333": 83,
+      "gas:candidate-vibid:333300170860": 7,
+      "gas:candidate-vibid:1001000121837": 321,
+      "gas:candidate-vibid:1001000113922": 52,
+      "gas:candidate-vibid:1001000220815": 52,
+      "gas:candidate-vibid:1001000136041": 17,
+      "gas:candidate-vibid:1001000217917": 77,
+      "gas:candidate-vibid:333300170955": 1,
+      "special:against-all": 191
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=333001002&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=333300172242&region=0&sub_region=0&type=429",
@@ -14187,20 +14187,20 @@ export const duma_2003_uik_428_region_33_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Андрианов Николай Ефимович": 78,
-      "Артемов Игорь Владимирович": 326,
-      "Беляков Антон Владимирович": 10,
-      "Волков Анатолий Алексеевич": 7,
-      "Дулов Сергей Юльевич": 1,
-      "Есякова Галина Викторовна": 96,
-      "Ивашкевич Анатолий Павлович": 10,
-      "Игошин Игорь Николаевич": 175,
-      "Казаков Сергей Валентинович": 59,
-      "Леонтьев Александр Геннадьевич": 62,
-      "Малаховский Семен Павлович": 22,
-      "Чуркин Геннадий Иванович": 77,
-      "Шикунов Александр Дмитриевич": 6,
-      "Против всех": 185
+      "gas:candidate-vibid:1001000202297": 78,
+      "gas:candidate-vibid:333300170781": 326,
+      "gas:candidate-vibid:333300171576": 10,
+      "gas:candidate-vibid:333300171500": 7,
+      "gas:candidate-vibid:333300170778": 1,
+      "gas:candidate-vibid:1001000190333": 96,
+      "gas:candidate-vibid:333300170860": 10,
+      "gas:candidate-vibid:1001000121837": 175,
+      "gas:candidate-vibid:1001000113922": 59,
+      "gas:candidate-vibid:1001000220815": 62,
+      "gas:candidate-vibid:1001000136041": 22,
+      "gas:candidate-vibid:1001000217917": 77,
+      "gas:candidate-vibid:333300170955": 6,
+      "special:against-all": 185
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=333001002&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=333300172242&region=0&sub_region=0&type=429",
@@ -14250,20 +14250,20 @@ export const duma_2003_uik_428_region_33_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Андрианов Николай Ефимович": 78,
-      "Артемов Игорь Владимирович": 198,
-      "Беляков Антон Владимирович": 7,
-      "Волков Анатолий Алексеевич": 3,
-      "Дулов Сергей Юльевич": 7,
-      "Есякова Галина Викторовна": 92,
-      "Ивашкевич Анатолий Павлович": 2,
-      "Игошин Игорь Николаевич": 280,
-      "Казаков Сергей Валентинович": 40,
-      "Леонтьев Александр Геннадьевич": 52,
-      "Малаховский Семен Павлович": 20,
-      "Чуркин Геннадий Иванович": 84,
-      "Шикунов Александр Дмитриевич": 0,
-      "Против всех": 186
+      "gas:candidate-vibid:1001000202297": 78,
+      "gas:candidate-vibid:333300170781": 198,
+      "gas:candidate-vibid:333300171576": 7,
+      "gas:candidate-vibid:333300171500": 3,
+      "gas:candidate-vibid:333300170778": 7,
+      "gas:candidate-vibid:1001000190333": 92,
+      "gas:candidate-vibid:333300170860": 2,
+      "gas:candidate-vibid:1001000121837": 280,
+      "gas:candidate-vibid:1001000113922": 40,
+      "gas:candidate-vibid:1001000220815": 52,
+      "gas:candidate-vibid:1001000136041": 20,
+      "gas:candidate-vibid:1001000217917": 84,
+      "gas:candidate-vibid:333300170955": 0,
+      "special:against-all": 186
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=333001002&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=333300172242&region=0&sub_region=0&type=429",
@@ -14313,20 +14313,20 @@ export const duma_2003_uik_428_region_33_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Андрианов Николай Ефимович": 103,
-      "Артемов Игорь Владимирович": 275,
-      "Беляков Антон Владимирович": 11,
-      "Волков Анатолий Алексеевич": 3,
-      "Дулов Сергей Юльевич": 6,
-      "Есякова Галина Викторовна": 92,
-      "Ивашкевич Анатолий Павлович": 8,
-      "Игошин Игорь Николаевич": 247,
-      "Казаков Сергей Валентинович": 65,
-      "Леонтьев Александр Геннадьевич": 47,
-      "Малаховский Семен Павлович": 16,
-      "Чуркин Геннадий Иванович": 82,
-      "Шикунов Александр Дмитриевич": 3,
-      "Против всех": 200
+      "gas:candidate-vibid:1001000202297": 103,
+      "gas:candidate-vibid:333300170781": 275,
+      "gas:candidate-vibid:333300171576": 11,
+      "gas:candidate-vibid:333300171500": 3,
+      "gas:candidate-vibid:333300170778": 6,
+      "gas:candidate-vibid:1001000190333": 92,
+      "gas:candidate-vibid:333300170860": 8,
+      "gas:candidate-vibid:1001000121837": 247,
+      "gas:candidate-vibid:1001000113922": 65,
+      "gas:candidate-vibid:1001000220815": 47,
+      "gas:candidate-vibid:1001000136041": 16,
+      "gas:candidate-vibid:1001000217917": 82,
+      "gas:candidate-vibid:333300170955": 3,
+      "special:against-all": 200
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=333001002&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=333300172242&region=0&sub_region=0&type=429",
@@ -14376,20 +14376,20 @@ export const duma_2003_uik_428_region_33_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Андрианов Николай Ефимович": 42,
-      "Артемов Игорь Владимирович": 135,
-      "Беляков Антон Владимирович": 4,
-      "Волков Анатолий Алексеевич": 1,
-      "Дулов Сергей Юльевич": 3,
-      "Есякова Галина Викторовна": 30,
-      "Ивашкевич Анатолий Павлович": 3,
-      "Игошин Игорь Николаевич": 152,
-      "Казаков Сергей Валентинович": 21,
-      "Леонтьев Александр Геннадьевич": 28,
-      "Малаховский Семен Павлович": 13,
-      "Чуркин Геннадий Иванович": 24,
-      "Шикунов Александр Дмитриевич": 3,
-      "Против всех": 106
+      "gas:candidate-vibid:1001000202297": 42,
+      "gas:candidate-vibid:333300170781": 135,
+      "gas:candidate-vibid:333300171576": 4,
+      "gas:candidate-vibid:333300171500": 1,
+      "gas:candidate-vibid:333300170778": 3,
+      "gas:candidate-vibid:1001000190333": 30,
+      "gas:candidate-vibid:333300170860": 3,
+      "gas:candidate-vibid:1001000121837": 152,
+      "gas:candidate-vibid:1001000113922": 21,
+      "gas:candidate-vibid:1001000220815": 28,
+      "gas:candidate-vibid:1001000136041": 13,
+      "gas:candidate-vibid:1001000217917": 24,
+      "gas:candidate-vibid:333300170955": 3,
+      "special:against-all": 106
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=333001002&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=333300172242&region=0&sub_region=0&type=429",
@@ -14439,20 +14439,20 @@ export const duma_2003_uik_428_region_33_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Андрианов Николай Ефимович": 42,
-      "Артемов Игорь Владимирович": 109,
-      "Беляков Антон Владимирович": 9,
-      "Волков Анатолий Алексеевич": 2,
-      "Дулов Сергей Юльевич": 4,
-      "Есякова Галина Викторовна": 25,
-      "Ивашкевич Анатолий Павлович": 7,
-      "Игошин Игорь Николаевич": 188,
-      "Казаков Сергей Валентинович": 38,
-      "Леонтьев Александр Геннадьевич": 27,
-      "Малаховский Семен Павлович": 11,
-      "Чуркин Геннадий Иванович": 29,
-      "Шикунов Александр Дмитриевич": 0,
-      "Против всех": 152
+      "gas:candidate-vibid:1001000202297": 42,
+      "gas:candidate-vibid:333300170781": 109,
+      "gas:candidate-vibid:333300171576": 9,
+      "gas:candidate-vibid:333300171500": 2,
+      "gas:candidate-vibid:333300170778": 4,
+      "gas:candidate-vibid:1001000190333": 25,
+      "gas:candidate-vibid:333300170860": 7,
+      "gas:candidate-vibid:1001000121837": 188,
+      "gas:candidate-vibid:1001000113922": 38,
+      "gas:candidate-vibid:1001000220815": 27,
+      "gas:candidate-vibid:1001000136041": 11,
+      "gas:candidate-vibid:1001000217917": 29,
+      "gas:candidate-vibid:333300170955": 0,
+      "special:against-all": 152
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=333001002&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=333300172242&region=0&sub_region=0&type=429",
@@ -14502,20 +14502,20 @@ export const duma_2003_uik_428_region_33_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Андрианов Николай Ефимович": 90,
-      "Артемов Игорь Владимирович": 253,
-      "Беляков Антон Владимирович": 12,
-      "Волков Анатолий Алексеевич": 4,
-      "Дулов Сергей Юльевич": 0,
-      "Есякова Галина Викторовна": 69,
-      "Ивашкевич Анатолий Павлович": 7,
-      "Игошин Игорь Николаевич": 202,
-      "Казаков Сергей Валентинович": 60,
-      "Леонтьев Александр Геннадьевич": 43,
-      "Малаховский Семен Павлович": 14,
-      "Чуркин Геннадий Иванович": 53,
-      "Шикунов Александр Дмитриевич": 2,
-      "Против всех": 202
+      "gas:candidate-vibid:1001000202297": 90,
+      "gas:candidate-vibid:333300170781": 253,
+      "gas:candidate-vibid:333300171576": 12,
+      "gas:candidate-vibid:333300171500": 4,
+      "gas:candidate-vibid:333300170778": 0,
+      "gas:candidate-vibid:1001000190333": 69,
+      "gas:candidate-vibid:333300170860": 7,
+      "gas:candidate-vibid:1001000121837": 202,
+      "gas:candidate-vibid:1001000113922": 60,
+      "gas:candidate-vibid:1001000220815": 43,
+      "gas:candidate-vibid:1001000136041": 14,
+      "gas:candidate-vibid:1001000217917": 53,
+      "gas:candidate-vibid:333300170955": 2,
+      "special:against-all": 202
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=333001002&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=333300172242&region=0&sub_region=0&type=429",
@@ -14565,20 +14565,20 @@ export const duma_2003_uik_428_region_33_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Андрианов Николай Ефимович": 78,
-      "Артемов Игорь Владимирович": 194,
-      "Беляков Антон Владимирович": 16,
-      "Волков Анатолий Алексеевич": 2,
-      "Дулов Сергей Юльевич": 2,
-      "Есякова Галина Викторовна": 31,
-      "Ивашкевич Анатолий Павлович": 8,
-      "Игошин Игорь Николаевич": 222,
-      "Казаков Сергей Валентинович": 22,
-      "Леонтьев Александр Геннадьевич": 44,
-      "Малаховский Семен Павлович": 17,
-      "Чуркин Геннадий Иванович": 45,
-      "Шикунов Александр Дмитриевич": 3,
-      "Против всех": 164
+      "gas:candidate-vibid:1001000202297": 78,
+      "gas:candidate-vibid:333300170781": 194,
+      "gas:candidate-vibid:333300171576": 16,
+      "gas:candidate-vibid:333300171500": 2,
+      "gas:candidate-vibid:333300170778": 2,
+      "gas:candidate-vibid:1001000190333": 31,
+      "gas:candidate-vibid:333300170860": 8,
+      "gas:candidate-vibid:1001000121837": 222,
+      "gas:candidate-vibid:1001000113922": 22,
+      "gas:candidate-vibid:1001000220815": 44,
+      "gas:candidate-vibid:1001000136041": 17,
+      "gas:candidate-vibid:1001000217917": 45,
+      "gas:candidate-vibid:333300170955": 3,
+      "special:against-all": 164
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=333001002&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=333300172242&region=0&sub_region=0&type=429",
@@ -14628,20 +14628,20 @@ export const duma_2003_uik_428_region_33_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Андрианов Николай Ефимович": 73,
-      "Артемов Игорь Владимирович": 362,
-      "Беляков Антон Владимирович": 6,
-      "Волков Анатолий Алексеевич": 3,
-      "Дулов Сергей Юльевич": 4,
-      "Есякова Галина Викторовна": 78,
-      "Ивашкевич Анатолий Павлович": 7,
-      "Игошин Игорь Николаевич": 289,
-      "Казаков Сергей Валентинович": 35,
-      "Леонтьев Александр Геннадьевич": 73,
-      "Малаховский Семен Павлович": 8,
-      "Чуркин Геннадий Иванович": 66,
-      "Шикунов Александр Дмитриевич": 4,
-      "Против всех": 176
+      "gas:candidate-vibid:1001000202297": 73,
+      "gas:candidate-vibid:333300170781": 362,
+      "gas:candidate-vibid:333300171576": 6,
+      "gas:candidate-vibid:333300171500": 3,
+      "gas:candidate-vibid:333300170778": 4,
+      "gas:candidate-vibid:1001000190333": 78,
+      "gas:candidate-vibid:333300170860": 7,
+      "gas:candidate-vibid:1001000121837": 289,
+      "gas:candidate-vibid:1001000113922": 35,
+      "gas:candidate-vibid:1001000220815": 73,
+      "gas:candidate-vibid:1001000136041": 8,
+      "gas:candidate-vibid:1001000217917": 66,
+      "gas:candidate-vibid:333300170955": 4,
+      "special:against-all": 176
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=333001002&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=333300172242&region=0&sub_region=0&type=429",
@@ -14691,20 +14691,20 @@ export const duma_2003_uik_428_region_33_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Андрианов Николай Ефимович": 79,
-      "Артемов Игорь Владимирович": 278,
-      "Беляков Антон Владимирович": 8,
-      "Волков Анатолий Алексеевич": 3,
-      "Дулов Сергей Юльевич": 5,
-      "Есякова Галина Викторовна": 82,
-      "Ивашкевич Анатолий Павлович": 8,
-      "Игошин Игорь Николаевич": 273,
-      "Казаков Сергей Валентинович": 64,
-      "Леонтьев Александр Геннадьевич": 57,
-      "Малаховский Семен Павлович": 11,
-      "Чуркин Геннадий Иванович": 60,
-      "Шикунов Александр Дмитриевич": 1,
-      "Против всех": 163
+      "gas:candidate-vibid:1001000202297": 79,
+      "gas:candidate-vibid:333300170781": 278,
+      "gas:candidate-vibid:333300171576": 8,
+      "gas:candidate-vibid:333300171500": 3,
+      "gas:candidate-vibid:333300170778": 5,
+      "gas:candidate-vibid:1001000190333": 82,
+      "gas:candidate-vibid:333300170860": 8,
+      "gas:candidate-vibid:1001000121837": 273,
+      "gas:candidate-vibid:1001000113922": 64,
+      "gas:candidate-vibid:1001000220815": 57,
+      "gas:candidate-vibid:1001000136041": 11,
+      "gas:candidate-vibid:1001000217917": 60,
+      "gas:candidate-vibid:333300170955": 1,
+      "special:against-all": 163
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=333001002&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=333300172242&region=0&sub_region=0&type=429",
@@ -14754,20 +14754,20 @@ export const duma_2003_uik_428_region_33_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Андрианов Николай Ефимович": 84,
-      "Артемов Игорь Владимирович": 337,
-      "Беляков Антон Владимирович": 16,
-      "Волков Анатолий Алексеевич": 4,
-      "Дулов Сергей Юльевич": 4,
-      "Есякова Галина Викторовна": 76,
-      "Ивашкевич Анатолий Павлович": 7,
-      "Игошин Игорь Николаевич": 259,
-      "Казаков Сергей Валентинович": 47,
-      "Леонтьев Александр Геннадьевич": 45,
-      "Малаховский Семен Павлович": 18,
-      "Чуркин Геннадий Иванович": 78,
-      "Шикунов Александр Дмитриевич": 3,
-      "Против всех": 171
+      "gas:candidate-vibid:1001000202297": 84,
+      "gas:candidate-vibid:333300170781": 337,
+      "gas:candidate-vibid:333300171576": 16,
+      "gas:candidate-vibid:333300171500": 4,
+      "gas:candidate-vibid:333300170778": 4,
+      "gas:candidate-vibid:1001000190333": 76,
+      "gas:candidate-vibid:333300170860": 7,
+      "gas:candidate-vibid:1001000121837": 259,
+      "gas:candidate-vibid:1001000113922": 47,
+      "gas:candidate-vibid:1001000220815": 45,
+      "gas:candidate-vibid:1001000136041": 18,
+      "gas:candidate-vibid:1001000217917": 78,
+      "gas:candidate-vibid:333300170955": 3,
+      "special:against-all": 171
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=333001002&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=333300172242&region=0&sub_region=0&type=429",
@@ -14817,20 +14817,20 @@ export const duma_2003_uik_428_region_33_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Андрианов Николай Ефимович": 77,
-      "Артемов Игорь Владимирович": 386,
-      "Беляков Антон Владимирович": 11,
-      "Волков Анатолий Алексеевич": 1,
-      "Дулов Сергей Юльевич": 1,
-      "Есякова Галина Викторовна": 78,
-      "Ивашкевич Анатолий Павлович": 4,
-      "Игошин Игорь Николаевич": 257,
-      "Казаков Сергей Валентинович": 49,
-      "Леонтьев Александр Геннадьевич": 43,
-      "Малаховский Семен Павлович": 20,
-      "Чуркин Геннадий Иванович": 42,
-      "Шикунов Александр Дмитриевич": 7,
-      "Против всех": 183
+      "gas:candidate-vibid:1001000202297": 77,
+      "gas:candidate-vibid:333300170781": 386,
+      "gas:candidate-vibid:333300171576": 11,
+      "gas:candidate-vibid:333300171500": 1,
+      "gas:candidate-vibid:333300170778": 1,
+      "gas:candidate-vibid:1001000190333": 78,
+      "gas:candidate-vibid:333300170860": 4,
+      "gas:candidate-vibid:1001000121837": 257,
+      "gas:candidate-vibid:1001000113922": 49,
+      "gas:candidate-vibid:1001000220815": 43,
+      "gas:candidate-vibid:1001000136041": 20,
+      "gas:candidate-vibid:1001000217917": 42,
+      "gas:candidate-vibid:333300170955": 7,
+      "special:against-all": 183
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=333001002&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=333300172242&region=0&sub_region=0&type=429",
@@ -14880,20 +14880,20 @@ export const duma_2003_uik_428_region_33_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Андрианов Николай Ефимович": 124,
-      "Артемов Игорь Владимирович": 346,
-      "Беляков Антон Владимирович": 12,
-      "Волков Анатолий Алексеевич": 2,
-      "Дулов Сергей Юльевич": 8,
-      "Есякова Галина Викторовна": 91,
-      "Ивашкевич Анатолий Павлович": 12,
-      "Игошин Игорь Николаевич": 228,
-      "Казаков Сергей Валентинович": 32,
-      "Леонтьев Александр Геннадьевич": 29,
-      "Малаховский Семен Павлович": 17,
-      "Чуркин Геннадий Иванович": 52,
-      "Шикунов Александр Дмитриевич": 5,
-      "Против всех": 166
+      "gas:candidate-vibid:1001000202297": 124,
+      "gas:candidate-vibid:333300170781": 346,
+      "gas:candidate-vibid:333300171576": 12,
+      "gas:candidate-vibid:333300171500": 2,
+      "gas:candidate-vibid:333300170778": 8,
+      "gas:candidate-vibid:1001000190333": 91,
+      "gas:candidate-vibid:333300170860": 12,
+      "gas:candidate-vibid:1001000121837": 228,
+      "gas:candidate-vibid:1001000113922": 32,
+      "gas:candidate-vibid:1001000220815": 29,
+      "gas:candidate-vibid:1001000136041": 17,
+      "gas:candidate-vibid:1001000217917": 52,
+      "gas:candidate-vibid:333300170955": 5,
+      "special:against-all": 166
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=333001002&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=333300172242&region=0&sub_region=0&type=429",
@@ -14943,20 +14943,20 @@ export const duma_2003_uik_428_region_33_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Андрианов Николай Ефимович": 83,
-      "Артемов Игорь Владимирович": 319,
-      "Беляков Антон Владимирович": 15,
-      "Волков Анатолий Алексеевич": 2,
-      "Дулов Сергей Юльевич": 2,
-      "Есякова Галина Викторовна": 82,
-      "Ивашкевич Анатолий Павлович": 11,
-      "Игошин Игорь Николаевич": 256,
-      "Казаков Сергей Валентинович": 34,
-      "Леонтьев Александр Геннадьевич": 51,
-      "Малаховский Семен Павлович": 18,
-      "Чуркин Геннадий Иванович": 70,
-      "Шикунов Александр Дмитриевич": 5,
-      "Против всех": 190
+      "gas:candidate-vibid:1001000202297": 83,
+      "gas:candidate-vibid:333300170781": 319,
+      "gas:candidate-vibid:333300171576": 15,
+      "gas:candidate-vibid:333300171500": 2,
+      "gas:candidate-vibid:333300170778": 2,
+      "gas:candidate-vibid:1001000190333": 82,
+      "gas:candidate-vibid:333300170860": 11,
+      "gas:candidate-vibid:1001000121837": 256,
+      "gas:candidate-vibid:1001000113922": 34,
+      "gas:candidate-vibid:1001000220815": 51,
+      "gas:candidate-vibid:1001000136041": 18,
+      "gas:candidate-vibid:1001000217917": 70,
+      "gas:candidate-vibid:333300170955": 5,
+      "special:against-all": 190
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=333001002&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=333300172242&region=0&sub_region=0&type=429",
@@ -15006,20 +15006,20 @@ export const duma_2003_uik_428_region_33_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Андрианов Николай Ефимович": 5,
-      "Артемов Игорь Владимирович": 2,
-      "Беляков Антон Владимирович": 0,
-      "Волков Анатолий Алексеевич": 0,
-      "Дулов Сергей Юльевич": 0,
-      "Есякова Галина Викторовна": 1,
-      "Ивашкевич Анатолий Павлович": 0,
-      "Игошин Игорь Николаевич": 21,
-      "Казаков Сергей Валентинович": 0,
-      "Леонтьев Александр Геннадьевич": 0,
-      "Малаховский Семен Павлович": 1,
-      "Чуркин Геннадий Иванович": 0,
-      "Шикунов Александр Дмитриевич": 0,
-      "Против всех": 10
+      "gas:candidate-vibid:1001000202297": 5,
+      "gas:candidate-vibid:333300170781": 2,
+      "gas:candidate-vibid:333300171576": 0,
+      "gas:candidate-vibid:333300171500": 0,
+      "gas:candidate-vibid:333300170778": 0,
+      "gas:candidate-vibid:1001000190333": 1,
+      "gas:candidate-vibid:333300170860": 0,
+      "gas:candidate-vibid:1001000121837": 21,
+      "gas:candidate-vibid:1001000113922": 0,
+      "gas:candidate-vibid:1001000220815": 0,
+      "gas:candidate-vibid:1001000136041": 1,
+      "gas:candidate-vibid:1001000217917": 0,
+      "gas:candidate-vibid:333300170955": 0,
+      "special:against-all": 10
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=333001002&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=333300172242&region=0&sub_region=0&type=429",
@@ -15069,20 +15069,20 @@ export const duma_2003_uik_428_region_33_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Андрианов Николай Ефимович": 52,
-      "Артемов Игорь Владимирович": 316,
-      "Беляков Антон Владимирович": 11,
-      "Волков Анатолий Алексеевич": 2,
-      "Дулов Сергей Юльевич": 5,
-      "Есякова Галина Викторовна": 45,
-      "Ивашкевич Анатолий Павлович": 7,
-      "Игошин Игорь Николаевич": 357,
-      "Казаков Сергей Валентинович": 38,
-      "Леонтьев Александр Геннадьевич": 66,
-      "Малаховский Семен Павлович": 13,
-      "Чуркин Геннадий Иванович": 70,
-      "Шикунов Александр Дмитриевич": 3,
-      "Против всех": 194
+      "gas:candidate-vibid:1001000202297": 52,
+      "gas:candidate-vibid:333300170781": 316,
+      "gas:candidate-vibid:333300171576": 11,
+      "gas:candidate-vibid:333300171500": 2,
+      "gas:candidate-vibid:333300170778": 5,
+      "gas:candidate-vibid:1001000190333": 45,
+      "gas:candidate-vibid:333300170860": 7,
+      "gas:candidate-vibid:1001000121837": 357,
+      "gas:candidate-vibid:1001000113922": 38,
+      "gas:candidate-vibid:1001000220815": 66,
+      "gas:candidate-vibid:1001000136041": 13,
+      "gas:candidate-vibid:1001000217917": 70,
+      "gas:candidate-vibid:333300170955": 3,
+      "special:against-all": 194
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=333001002&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=333300172242&region=0&sub_region=0&type=429",

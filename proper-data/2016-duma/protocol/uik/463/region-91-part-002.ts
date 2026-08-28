@@ -43,12 +43,12 @@ export const duma_2016_uik_463_region_91_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Калашников Валерий Юрьевич": 119,
-      "Машковцев Михаил Борисович": 72,
-      "Пучковский Михаил Леонидович": 56,
-      "Слыщенко Константин Григорьевич": 288,
-      "Смагин Михаил Викторович": 87,
-      "Эльчапаров Владимир Геннадьевич": 18
+      "gas:candidate-vibid:2412000376078": 119,
+      "gas:candidate-vibid:2412000379692": 72,
+      "gas:candidate-vibid:2412000387918": 56,
+      "gas:candidate-vibid:2412000386507": 288,
+      "gas:candidate-vibid:2412000386541": 87,
+      "gas:candidate-vibid:2412000388351": 18
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kamchatka-krai?action=show&root=1000301&tvd=2412000368069&vrn=100100067795849&region=91&global=&sub_region=91&prver=0&pronetvd=null&vibid=2412000368069&type=464",
@@ -99,12 +99,12 @@ export const duma_2016_uik_463_region_91_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Калашников Валерий Юрьевич": 142,
-      "Машковцев Михаил Борисович": 77,
-      "Пучковский Михаил Леонидович": 63,
-      "Слыщенко Константин Григорьевич": 267,
-      "Смагин Михаил Викторович": 121,
-      "Эльчапаров Владимир Геннадьевич": 41
+      "gas:candidate-vibid:2412000376078": 142,
+      "gas:candidate-vibid:2412000379692": 77,
+      "gas:candidate-vibid:2412000387918": 63,
+      "gas:candidate-vibid:2412000386507": 267,
+      "gas:candidate-vibid:2412000386541": 121,
+      "gas:candidate-vibid:2412000388351": 41
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kamchatka-krai?action=show&root=1000301&tvd=2412000368069&vrn=100100067795849&region=91&global=&sub_region=91&prver=0&pronetvd=null&vibid=2412000368069&type=464",
@@ -155,12 +155,12 @@ export const duma_2016_uik_463_region_91_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Калашников Валерий Юрьевич": 126,
-      "Машковцев Михаил Борисович": 73,
-      "Пучковский Михаил Леонидович": 68,
-      "Слыщенко Константин Григорьевич": 278,
-      "Смагин Михаил Викторович": 113,
-      "Эльчапаров Владимир Геннадьевич": 32
+      "gas:candidate-vibid:2412000376078": 126,
+      "gas:candidate-vibid:2412000379692": 73,
+      "gas:candidate-vibid:2412000387918": 68,
+      "gas:candidate-vibid:2412000386507": 278,
+      "gas:candidate-vibid:2412000386541": 113,
+      "gas:candidate-vibid:2412000388351": 32
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kamchatka-krai?action=show&root=1000301&tvd=2412000368069&vrn=100100067795849&region=91&global=&sub_region=91&prver=0&pronetvd=null&vibid=2412000368069&type=464",
@@ -211,12 +211,12 @@ export const duma_2016_uik_463_region_91_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Калашников Валерий Юрьевич": 134,
-      "Машковцев Михаил Борисович": 59,
-      "Пучковский Михаил Леонидович": 54,
-      "Слыщенко Константин Григорьевич": 317,
-      "Смагин Михаил Викторович": 81,
-      "Эльчапаров Владимир Геннадьевич": 35
+      "gas:candidate-vibid:2412000376078": 134,
+      "gas:candidate-vibid:2412000379692": 59,
+      "gas:candidate-vibid:2412000387918": 54,
+      "gas:candidate-vibid:2412000386507": 317,
+      "gas:candidate-vibid:2412000386541": 81,
+      "gas:candidate-vibid:2412000388351": 35
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kamchatka-krai?action=show&root=1000301&tvd=2412000368069&vrn=100100067795849&region=91&global=&sub_region=91&prver=0&pronetvd=null&vibid=2412000368069&type=464",
@@ -267,12 +267,12 @@ export const duma_2016_uik_463_region_91_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Калашников Валерий Юрьевич": 141,
-      "Машковцев Михаил Борисович": 72,
-      "Пучковский Михаил Леонидович": 67,
-      "Слыщенко Константин Григорьевич": 241,
-      "Смагин Михаил Викторович": 84,
-      "Эльчапаров Владимир Геннадьевич": 33
+      "gas:candidate-vibid:2412000376078": 141,
+      "gas:candidate-vibid:2412000379692": 72,
+      "gas:candidate-vibid:2412000387918": 67,
+      "gas:candidate-vibid:2412000386507": 241,
+      "gas:candidate-vibid:2412000386541": 84,
+      "gas:candidate-vibid:2412000388351": 33
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kamchatka-krai?action=show&root=1000301&tvd=2412000368069&vrn=100100067795849&region=91&global=&sub_region=91&prver=0&pronetvd=null&vibid=2412000368069&type=464",
@@ -323,12 +323,12 @@ export const duma_2016_uik_463_region_91_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Калашников Валерий Юрьевич": 84,
-      "Машковцев Михаил Борисович": 61,
-      "Пучковский Михаил Леонидович": 47,
-      "Слыщенко Константин Григорьевич": 223,
-      "Смагин Михаил Викторович": 68,
-      "Эльчапаров Владимир Геннадьевич": 23
+      "gas:candidate-vibid:2412000376078": 84,
+      "gas:candidate-vibid:2412000379692": 61,
+      "gas:candidate-vibid:2412000387918": 47,
+      "gas:candidate-vibid:2412000386507": 223,
+      "gas:candidate-vibid:2412000386541": 68,
+      "gas:candidate-vibid:2412000388351": 23
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kamchatka-krai?action=show&root=1000301&tvd=2412000368069&vrn=100100067795849&region=91&global=&sub_region=91&prver=0&pronetvd=null&vibid=2412000368069&type=464",
@@ -379,12 +379,12 @@ export const duma_2016_uik_463_region_91_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Калашников Валерий Юрьевич": 118,
-      "Машковцев Михаил Борисович": 125,
-      "Пучковский Михаил Леонидович": 62,
-      "Слыщенко Константин Григорьевич": 268,
-      "Смагин Михаил Викторович": 85,
-      "Эльчапаров Владимир Геннадьевич": 35
+      "gas:candidate-vibid:2412000376078": 118,
+      "gas:candidate-vibid:2412000379692": 125,
+      "gas:candidate-vibid:2412000387918": 62,
+      "gas:candidate-vibid:2412000386507": 268,
+      "gas:candidate-vibid:2412000386541": 85,
+      "gas:candidate-vibid:2412000388351": 35
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kamchatka-krai?action=show&root=1000301&tvd=2412000368069&vrn=100100067795849&region=91&global=&sub_region=91&prver=0&pronetvd=null&vibid=2412000368069&type=464",
@@ -435,12 +435,12 @@ export const duma_2016_uik_463_region_91_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Калашников Валерий Юрьевич": 156,
-      "Машковцев Михаил Борисович": 92,
-      "Пучковский Михаил Леонидович": 76,
-      "Слыщенко Константин Григорьевич": 271,
-      "Смагин Михаил Викторович": 81,
-      "Эльчапаров Владимир Геннадьевич": 32
+      "gas:candidate-vibid:2412000376078": 156,
+      "gas:candidate-vibid:2412000379692": 92,
+      "gas:candidate-vibid:2412000387918": 76,
+      "gas:candidate-vibid:2412000386507": 271,
+      "gas:candidate-vibid:2412000386541": 81,
+      "gas:candidate-vibid:2412000388351": 32
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kamchatka-krai?action=show&root=1000301&tvd=2412000368069&vrn=100100067795849&region=91&global=&sub_region=91&prver=0&pronetvd=null&vibid=2412000368069&type=464",
@@ -491,12 +491,12 @@ export const duma_2016_uik_463_region_91_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Калашников Валерий Юрьевич": 134,
-      "Машковцев Михаил Борисович": 97,
-      "Пучковский Михаил Леонидович": 83,
-      "Слыщенко Константин Григорьевич": 278,
-      "Смагин Михаил Викторович": 94,
-      "Эльчапаров Владимир Геннадьевич": 29
+      "gas:candidate-vibid:2412000376078": 134,
+      "gas:candidate-vibid:2412000379692": 97,
+      "gas:candidate-vibid:2412000387918": 83,
+      "gas:candidate-vibid:2412000386507": 278,
+      "gas:candidate-vibid:2412000386541": 94,
+      "gas:candidate-vibid:2412000388351": 29
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kamchatka-krai?action=show&root=1000301&tvd=2412000368069&vrn=100100067795849&region=91&global=&sub_region=91&prver=0&pronetvd=null&vibid=2412000368069&type=464",
@@ -547,12 +547,12 @@ export const duma_2016_uik_463_region_91_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Калашников Валерий Юрьевич": 139,
-      "Машковцев Михаил Борисович": 93,
-      "Пучковский Михаил Леонидович": 89,
-      "Слыщенко Константин Григорьевич": 274,
-      "Смагин Михаил Викторович": 104,
-      "Эльчапаров Владимир Геннадьевич": 27
+      "gas:candidate-vibid:2412000376078": 139,
+      "gas:candidate-vibid:2412000379692": 93,
+      "gas:candidate-vibid:2412000387918": 89,
+      "gas:candidate-vibid:2412000386507": 274,
+      "gas:candidate-vibid:2412000386541": 104,
+      "gas:candidate-vibid:2412000388351": 27
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kamchatka-krai?action=show&root=1000301&tvd=2412000368069&vrn=100100067795849&region=91&global=&sub_region=91&prver=0&pronetvd=null&vibid=2412000368069&type=464",
@@ -603,12 +603,12 @@ export const duma_2016_uik_463_region_91_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Калашников Валерий Юрьевич": 186,
-      "Машковцев Михаил Борисович": 107,
-      "Пучковский Михаил Леонидович": 103,
-      "Слыщенко Константин Григорьевич": 378,
-      "Смагин Михаил Викторович": 119,
-      "Эльчапаров Владимир Геннадьевич": 52
+      "gas:candidate-vibid:2412000376078": 186,
+      "gas:candidate-vibid:2412000379692": 107,
+      "gas:candidate-vibid:2412000387918": 103,
+      "gas:candidate-vibid:2412000386507": 378,
+      "gas:candidate-vibid:2412000386541": 119,
+      "gas:candidate-vibid:2412000388351": 52
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kamchatka-krai?action=show&root=1000301&tvd=2412000368069&vrn=100100067795849&region=91&global=&sub_region=91&prver=0&pronetvd=null&vibid=2412000368069&type=464",
@@ -659,12 +659,12 @@ export const duma_2016_uik_463_region_91_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Калашников Валерий Юрьевич": 185,
-      "Машковцев Михаил Борисович": 108,
-      "Пучковский Михаил Леонидович": 114,
-      "Слыщенко Константин Григорьевич": 345,
-      "Смагин Михаил Викторович": 120,
-      "Эльчапаров Владимир Геннадьевич": 48
+      "gas:candidate-vibid:2412000376078": 185,
+      "gas:candidate-vibid:2412000379692": 108,
+      "gas:candidate-vibid:2412000387918": 114,
+      "gas:candidate-vibid:2412000386507": 345,
+      "gas:candidate-vibid:2412000386541": 120,
+      "gas:candidate-vibid:2412000388351": 48
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kamchatka-krai?action=show&root=1000301&tvd=2412000368069&vrn=100100067795849&region=91&global=&sub_region=91&prver=0&pronetvd=null&vibid=2412000368069&type=464",
@@ -715,12 +715,12 @@ export const duma_2016_uik_463_region_91_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Калашников Валерий Юрьевич": 207,
-      "Машковцев Михаил Борисович": 132,
-      "Пучковский Михаил Леонидович": 111,
-      "Слыщенко Константин Григорьевич": 497,
-      "Смагин Михаил Викторович": 115,
-      "Эльчапаров Владимир Геннадьевич": 57
+      "gas:candidate-vibid:2412000376078": 207,
+      "gas:candidate-vibid:2412000379692": 132,
+      "gas:candidate-vibid:2412000387918": 111,
+      "gas:candidate-vibid:2412000386507": 497,
+      "gas:candidate-vibid:2412000386541": 115,
+      "gas:candidate-vibid:2412000388351": 57
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kamchatka-krai?action=show&root=1000301&tvd=2412000368069&vrn=100100067795849&region=91&global=&sub_region=91&prver=0&pronetvd=null&vibid=2412000368069&type=464",
@@ -771,12 +771,12 @@ export const duma_2016_uik_463_region_91_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Калашников Валерий Юрьевич": 111,
-      "Машковцев Михаил Борисович": 82,
-      "Пучковский Михаил Леонидович": 78,
-      "Слыщенко Константин Григорьевич": 236,
-      "Смагин Михаил Викторович": 78,
-      "Эльчапаров Владимир Геннадьевич": 25
+      "gas:candidate-vibid:2412000376078": 111,
+      "gas:candidate-vibid:2412000379692": 82,
+      "gas:candidate-vibid:2412000387918": 78,
+      "gas:candidate-vibid:2412000386507": 236,
+      "gas:candidate-vibid:2412000386541": 78,
+      "gas:candidate-vibid:2412000388351": 25
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kamchatka-krai?action=show&root=1000301&tvd=2412000368069&vrn=100100067795849&region=91&global=&sub_region=91&prver=0&pronetvd=null&vibid=2412000368069&type=464",
@@ -827,12 +827,12 @@ export const duma_2016_uik_463_region_91_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Калашников Валерий Юрьевич": 86,
-      "Машковцев Михаил Борисович": 53,
-      "Пучковский Михаил Леонидович": 50,
-      "Слыщенко Константин Григорьевич": 149,
-      "Смагин Михаил Викторович": 59,
-      "Эльчапаров Владимир Геннадьевич": 17
+      "gas:candidate-vibid:2412000376078": 86,
+      "gas:candidate-vibid:2412000379692": 53,
+      "gas:candidate-vibid:2412000387918": 50,
+      "gas:candidate-vibid:2412000386507": 149,
+      "gas:candidate-vibid:2412000386541": 59,
+      "gas:candidate-vibid:2412000388351": 17
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kamchatka-krai?action=show&root=1000301&tvd=2412000368069&vrn=100100067795849&region=91&global=&sub_region=91&prver=0&pronetvd=null&vibid=2412000368069&type=464",
@@ -883,12 +883,12 @@ export const duma_2016_uik_463_region_91_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Калашников Валерий Юрьевич": 148,
-      "Машковцев Михаил Борисович": 90,
-      "Пучковский Михаил Леонидович": 86,
-      "Слыщенко Константин Григорьевич": 236,
-      "Смагин Михаил Викторович": 84,
-      "Эльчапаров Владимир Геннадьевич": 21
+      "gas:candidate-vibid:2412000376078": 148,
+      "gas:candidate-vibid:2412000379692": 90,
+      "gas:candidate-vibid:2412000387918": 86,
+      "gas:candidate-vibid:2412000386507": 236,
+      "gas:candidate-vibid:2412000386541": 84,
+      "gas:candidate-vibid:2412000388351": 21
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kamchatka-krai?action=show&root=1000301&tvd=2412000368069&vrn=100100067795849&region=91&global=&sub_region=91&prver=0&pronetvd=null&vibid=2412000368069&type=464",
@@ -939,12 +939,12 @@ export const duma_2016_uik_463_region_91_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Калашников Валерий Юрьевич": 124,
-      "Машковцев Михаил Борисович": 58,
-      "Пучковский Михаил Леонидович": 59,
-      "Слыщенко Константин Григорьевич": 204,
-      "Смагин Михаил Викторович": 52,
-      "Эльчапаров Владимир Геннадьевич": 20
+      "gas:candidate-vibid:2412000376078": 124,
+      "gas:candidate-vibid:2412000379692": 58,
+      "gas:candidate-vibid:2412000387918": 59,
+      "gas:candidate-vibid:2412000386507": 204,
+      "gas:candidate-vibid:2412000386541": 52,
+      "gas:candidate-vibid:2412000388351": 20
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kamchatka-krai?action=show&root=1000301&tvd=2412000368069&vrn=100100067795849&region=91&global=&sub_region=91&prver=0&pronetvd=null&vibid=2412000368069&type=464",
@@ -995,12 +995,12 @@ export const duma_2016_uik_463_region_91_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Калашников Валерий Юрьевич": 114,
-      "Машковцев Михаил Борисович": 51,
-      "Пучковский Михаил Леонидович": 51,
-      "Слыщенко Константин Григорьевич": 177,
-      "Смагин Михаил Викторович": 53,
-      "Эльчапаров Владимир Геннадьевич": 16
+      "gas:candidate-vibid:2412000376078": 114,
+      "gas:candidate-vibid:2412000379692": 51,
+      "gas:candidate-vibid:2412000387918": 51,
+      "gas:candidate-vibid:2412000386507": 177,
+      "gas:candidate-vibid:2412000386541": 53,
+      "gas:candidate-vibid:2412000388351": 16
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kamchatka-krai?action=show&root=1000301&tvd=2412000368069&vrn=100100067795849&region=91&global=&sub_region=91&prver=0&pronetvd=null&vibid=2412000368069&type=464",
@@ -1051,12 +1051,12 @@ export const duma_2016_uik_463_region_91_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Калашников Валерий Юрьевич": 124,
-      "Машковцев Михаил Борисович": 58,
-      "Пучковский Михаил Леонидович": 66,
-      "Слыщенко Константин Григорьевич": 227,
-      "Смагин Михаил Викторович": 68,
-      "Эльчапаров Владимир Геннадьевич": 33
+      "gas:candidate-vibid:2412000376078": 124,
+      "gas:candidate-vibid:2412000379692": 58,
+      "gas:candidate-vibid:2412000387918": 66,
+      "gas:candidate-vibid:2412000386507": 227,
+      "gas:candidate-vibid:2412000386541": 68,
+      "gas:candidate-vibid:2412000388351": 33
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kamchatka-krai?action=show&root=1000301&tvd=2412000368069&vrn=100100067795849&region=91&global=&sub_region=91&prver=0&pronetvd=null&vibid=2412000368069&type=464",
@@ -1107,12 +1107,12 @@ export const duma_2016_uik_463_region_91_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Калашников Валерий Юрьевич": 169,
-      "Машковцев Михаил Борисович": 86,
-      "Пучковский Михаил Леонидович": 54,
-      "Слыщенко Константин Григорьевич": 220,
-      "Смагин Михаил Викторович": 76,
-      "Эльчапаров Владимир Геннадьевич": 34
+      "gas:candidate-vibid:2412000376078": 169,
+      "gas:candidate-vibid:2412000379692": 86,
+      "gas:candidate-vibid:2412000387918": 54,
+      "gas:candidate-vibid:2412000386507": 220,
+      "gas:candidate-vibid:2412000386541": 76,
+      "gas:candidate-vibid:2412000388351": 34
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kamchatka-krai?action=show&root=1000301&tvd=2412000368069&vrn=100100067795849&region=91&global=&sub_region=91&prver=0&pronetvd=null&vibid=2412000368069&type=464",
@@ -1163,12 +1163,12 @@ export const duma_2016_uik_463_region_91_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Калашников Валерий Юрьевич": 113,
-      "Машковцев Михаил Борисович": 71,
-      "Пучковский Михаил Леонидович": 64,
-      "Слыщенко Константин Григорьевич": 231,
-      "Смагин Михаил Викторович": 64,
-      "Эльчапаров Владимир Геннадьевич": 26
+      "gas:candidate-vibid:2412000376078": 113,
+      "gas:candidate-vibid:2412000379692": 71,
+      "gas:candidate-vibid:2412000387918": 64,
+      "gas:candidate-vibid:2412000386507": 231,
+      "gas:candidate-vibid:2412000386541": 64,
+      "gas:candidate-vibid:2412000388351": 26
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kamchatka-krai?action=show&root=1000301&tvd=2412000368069&vrn=100100067795849&region=91&global=&sub_region=91&prver=0&pronetvd=null&vibid=2412000368069&type=464",
@@ -1219,12 +1219,12 @@ export const duma_2016_uik_463_region_91_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Калашников Валерий Юрьевич": 134,
-      "Машковцев Михаил Борисович": 65,
-      "Пучковский Михаил Леонидович": 72,
-      "Слыщенко Константин Григорьевич": 270,
-      "Смагин Михаил Викторович": 66,
-      "Эльчапаров Владимир Геннадьевич": 42
+      "gas:candidate-vibid:2412000376078": 134,
+      "gas:candidate-vibid:2412000379692": 65,
+      "gas:candidate-vibid:2412000387918": 72,
+      "gas:candidate-vibid:2412000386507": 270,
+      "gas:candidate-vibid:2412000386541": 66,
+      "gas:candidate-vibid:2412000388351": 42
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kamchatka-krai?action=show&root=1000301&tvd=2412000368069&vrn=100100067795849&region=91&global=&sub_region=91&prver=0&pronetvd=null&vibid=2412000368069&type=464",
@@ -1275,12 +1275,12 @@ export const duma_2016_uik_463_region_91_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Калашников Валерий Юрьевич": 97,
-      "Машковцев Михаил Борисович": 53,
-      "Пучковский Михаил Леонидович": 52,
-      "Слыщенко Константин Григорьевич": 215,
-      "Смагин Михаил Викторович": 63,
-      "Эльчапаров Владимир Геннадьевич": 16
+      "gas:candidate-vibid:2412000376078": 97,
+      "gas:candidate-vibid:2412000379692": 53,
+      "gas:candidate-vibid:2412000387918": 52,
+      "gas:candidate-vibid:2412000386507": 215,
+      "gas:candidate-vibid:2412000386541": 63,
+      "gas:candidate-vibid:2412000388351": 16
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kamchatka-krai?action=show&root=1000301&tvd=2412000368069&vrn=100100067795849&region=91&global=&sub_region=91&prver=0&pronetvd=null&vibid=2412000368069&type=464",
@@ -1331,12 +1331,12 @@ export const duma_2016_uik_463_region_91_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Калашников Валерий Юрьевич": 107,
-      "Машковцев Михаил Борисович": 61,
-      "Пучковский Михаил Леонидович": 58,
-      "Слыщенко Константин Григорьевич": 198,
-      "Смагин Михаил Викторович": 63,
-      "Эльчапаров Владимир Геннадьевич": 21
+      "gas:candidate-vibid:2412000376078": 107,
+      "gas:candidate-vibid:2412000379692": 61,
+      "gas:candidate-vibid:2412000387918": 58,
+      "gas:candidate-vibid:2412000386507": 198,
+      "gas:candidate-vibid:2412000386541": 63,
+      "gas:candidate-vibid:2412000388351": 21
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kamchatka-krai?action=show&root=1000301&tvd=2412000368069&vrn=100100067795849&region=91&global=&sub_region=91&prver=0&pronetvd=null&vibid=2412000368069&type=464",
@@ -1387,12 +1387,12 @@ export const duma_2016_uik_463_region_91_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Калашников Валерий Юрьевич": 67,
-      "Машковцев Михаил Борисович": 29,
-      "Пучковский Михаил Леонидович": 25,
-      "Слыщенко Константин Григорьевич": 110,
-      "Смагин Михаил Викторович": 25,
-      "Эльчапаров Владимир Геннадьевич": 10
+      "gas:candidate-vibid:2412000376078": 67,
+      "gas:candidate-vibid:2412000379692": 29,
+      "gas:candidate-vibid:2412000387918": 25,
+      "gas:candidate-vibid:2412000386507": 110,
+      "gas:candidate-vibid:2412000386541": 25,
+      "gas:candidate-vibid:2412000388351": 10
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kamchatka-krai?action=show&root=1000301&tvd=2412000368069&vrn=100100067795849&region=91&global=&sub_region=91&prver=0&pronetvd=null&vibid=2412000368069&type=464",
@@ -1443,12 +1443,12 @@ export const duma_2016_uik_463_region_91_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Калашников Валерий Юрьевич": 101,
-      "Машковцев Михаил Борисович": 35,
-      "Пучковский Михаил Леонидович": 50,
-      "Слыщенко Константин Григорьевич": 188,
-      "Смагин Михаил Викторович": 61,
-      "Эльчапаров Владимир Геннадьевич": 18
+      "gas:candidate-vibid:2412000376078": 101,
+      "gas:candidate-vibid:2412000379692": 35,
+      "gas:candidate-vibid:2412000387918": 50,
+      "gas:candidate-vibid:2412000386507": 188,
+      "gas:candidate-vibid:2412000386541": 61,
+      "gas:candidate-vibid:2412000388351": 18
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kamchatka-krai?action=show&root=1000301&tvd=2412000368069&vrn=100100067795849&region=91&global=&sub_region=91&prver=0&pronetvd=null&vibid=2412000368069&type=464",
@@ -1499,12 +1499,12 @@ export const duma_2016_uik_463_region_91_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Калашников Валерий Юрьевич": 299,
-      "Машковцев Михаил Борисович": 99,
-      "Пучковский Михаил Леонидович": 98,
-      "Слыщенко Константин Григорьевич": 392,
-      "Смагин Михаил Викторович": 70,
-      "Эльчапаров Владимир Геннадьевич": 42
+      "gas:candidate-vibid:2412000376078": 299,
+      "gas:candidate-vibid:2412000379692": 99,
+      "gas:candidate-vibid:2412000387918": 98,
+      "gas:candidate-vibid:2412000386507": 392,
+      "gas:candidate-vibid:2412000386541": 70,
+      "gas:candidate-vibid:2412000388351": 42
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kamchatka-krai?action=show&root=1000301&tvd=2412000368069&vrn=100100067795849&region=91&global=&sub_region=91&prver=0&pronetvd=null&vibid=2412000368069&type=464",
@@ -1555,12 +1555,12 @@ export const duma_2016_uik_463_region_91_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Калашников Валерий Юрьевич": 127,
-      "Машковцев Михаил Борисович": 59,
-      "Пучковский Михаил Леонидович": 44,
-      "Слыщенко Константин Григорьевич": 194,
-      "Смагин Михаил Викторович": 66,
-      "Эльчапаров Владимир Геннадьевич": 24
+      "gas:candidate-vibid:2412000376078": 127,
+      "gas:candidate-vibid:2412000379692": 59,
+      "gas:candidate-vibid:2412000387918": 44,
+      "gas:candidate-vibid:2412000386507": 194,
+      "gas:candidate-vibid:2412000386541": 66,
+      "gas:candidate-vibid:2412000388351": 24
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kamchatka-krai?action=show&root=1000301&tvd=2412000368069&vrn=100100067795849&region=91&global=&sub_region=91&prver=0&pronetvd=null&vibid=2412000368069&type=464",
@@ -1611,12 +1611,12 @@ export const duma_2016_uik_463_region_91_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Калашников Валерий Юрьевич": 127,
-      "Машковцев Михаил Борисович": 68,
-      "Пучковский Михаил Леонидович": 57,
-      "Слыщенко Константин Григорьевич": 263,
-      "Смагин Михаил Викторович": 76,
-      "Эльчапаров Владимир Геннадьевич": 23
+      "gas:candidate-vibid:2412000376078": 127,
+      "gas:candidate-vibid:2412000379692": 68,
+      "gas:candidate-vibid:2412000387918": 57,
+      "gas:candidate-vibid:2412000386507": 263,
+      "gas:candidate-vibid:2412000386541": 76,
+      "gas:candidate-vibid:2412000388351": 23
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kamchatka-krai?action=show&root=1000301&tvd=2412000368069&vrn=100100067795849&region=91&global=&sub_region=91&prver=0&pronetvd=null&vibid=2412000368069&type=464",
@@ -1667,12 +1667,12 @@ export const duma_2016_uik_463_region_91_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Калашников Валерий Юрьевич": 281,
-      "Машковцев Михаил Борисович": 113,
-      "Пучковский Михаил Леонидович": 95,
-      "Слыщенко Константин Григорьевич": 531,
-      "Смагин Михаил Викторович": 134,
-      "Эльчапаров Владимир Геннадьевич": 42
+      "gas:candidate-vibid:2412000376078": 281,
+      "gas:candidate-vibid:2412000379692": 113,
+      "gas:candidate-vibid:2412000387918": 95,
+      "gas:candidate-vibid:2412000386507": 531,
+      "gas:candidate-vibid:2412000386541": 134,
+      "gas:candidate-vibid:2412000388351": 42
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kamchatka-krai?action=show&root=1000301&tvd=2412000368069&vrn=100100067795849&region=91&global=&sub_region=91&prver=0&pronetvd=null&vibid=2412000368069&type=464",
@@ -1723,12 +1723,12 @@ export const duma_2016_uik_463_region_91_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Калашников Валерий Юрьевич": 266,
-      "Машковцев Михаил Борисович": 83,
-      "Пучковский Михаил Леонидович": 85,
-      "Слыщенко Константин Григорьевич": 524,
-      "Смагин Михаил Викторович": 92,
-      "Эльчапаров Владимир Геннадьевич": 53
+      "gas:candidate-vibid:2412000376078": 266,
+      "gas:candidate-vibid:2412000379692": 83,
+      "gas:candidate-vibid:2412000387918": 85,
+      "gas:candidate-vibid:2412000386507": 524,
+      "gas:candidate-vibid:2412000386541": 92,
+      "gas:candidate-vibid:2412000388351": 53
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kamchatka-krai?action=show&root=1000301&tvd=2412000368069&vrn=100100067795849&region=91&global=&sub_region=91&prver=0&pronetvd=null&vibid=2412000368069&type=464",
@@ -1779,12 +1779,12 @@ export const duma_2016_uik_463_region_91_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Калашников Валерий Юрьевич": 104,
-      "Машковцев Михаил Борисович": 52,
-      "Пучковский Михаил Леонидович": 46,
-      "Слыщенко Константин Григорьевич": 174,
-      "Смагин Михаил Викторович": 65,
-      "Эльчапаров Владимир Геннадьевич": 27
+      "gas:candidate-vibid:2412000376078": 104,
+      "gas:candidate-vibid:2412000379692": 52,
+      "gas:candidate-vibid:2412000387918": 46,
+      "gas:candidate-vibid:2412000386507": 174,
+      "gas:candidate-vibid:2412000386541": 65,
+      "gas:candidate-vibid:2412000388351": 27
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kamchatka-krai?action=show&root=1000301&tvd=2412000368069&vrn=100100067795849&region=91&global=&sub_region=91&prver=0&pronetvd=null&vibid=2412000368069&type=464",
@@ -1835,12 +1835,12 @@ export const duma_2016_uik_463_region_91_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Калашников Валерий Юрьевич": 109,
-      "Машковцев Михаил Борисович": 76,
-      "Пучковский Михаил Леонидович": 78,
-      "Слыщенко Константин Григорьевич": 200,
-      "Смагин Михаил Викторович": 86,
-      "Эльчапаров Владимир Геннадьевич": 29
+      "gas:candidate-vibid:2412000376078": 109,
+      "gas:candidate-vibid:2412000379692": 76,
+      "gas:candidate-vibid:2412000387918": 78,
+      "gas:candidate-vibid:2412000386507": 200,
+      "gas:candidate-vibid:2412000386541": 86,
+      "gas:candidate-vibid:2412000388351": 29
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kamchatka-krai?action=show&root=1000301&tvd=2412000368069&vrn=100100067795849&region=91&global=&sub_region=91&prver=0&pronetvd=null&vibid=2412000368069&type=464",
@@ -1891,12 +1891,12 @@ export const duma_2016_uik_463_region_91_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Калашников Валерий Юрьевич": 120,
-      "Машковцев Михаил Борисович": 97,
-      "Пучковский Михаил Леонидович": 72,
-      "Слыщенко Константин Григорьевич": 207,
-      "Смагин Михаил Викторович": 87,
-      "Эльчапаров Владимир Геннадьевич": 26
+      "gas:candidate-vibid:2412000376078": 120,
+      "gas:candidate-vibid:2412000379692": 97,
+      "gas:candidate-vibid:2412000387918": 72,
+      "gas:candidate-vibid:2412000386507": 207,
+      "gas:candidate-vibid:2412000386541": 87,
+      "gas:candidate-vibid:2412000388351": 26
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kamchatka-krai?action=show&root=1000301&tvd=2412000368069&vrn=100100067795849&region=91&global=&sub_region=91&prver=0&pronetvd=null&vibid=2412000368069&type=464",
@@ -1947,12 +1947,12 @@ export const duma_2016_uik_463_region_91_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Калашников Валерий Юрьевич": 133,
-      "Машковцев Михаил Борисович": 68,
-      "Пучковский Михаил Леонидович": 55,
-      "Слыщенко Константин Григорьевич": 240,
-      "Смагин Михаил Викторович": 69,
-      "Эльчапаров Владимир Геннадьевич": 19
+      "gas:candidate-vibid:2412000376078": 133,
+      "gas:candidate-vibid:2412000379692": 68,
+      "gas:candidate-vibid:2412000387918": 55,
+      "gas:candidate-vibid:2412000386507": 240,
+      "gas:candidate-vibid:2412000386541": 69,
+      "gas:candidate-vibid:2412000388351": 19
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kamchatka-krai?action=show&root=1000301&tvd=2412000368069&vrn=100100067795849&region=91&global=&sub_region=91&prver=0&pronetvd=null&vibid=2412000368069&type=464",
@@ -2003,12 +2003,12 @@ export const duma_2016_uik_463_region_91_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Калашников Валерий Юрьевич": 104,
-      "Машковцев Михаил Борисович": 87,
-      "Пучковский Михаил Леонидович": 63,
-      "Слыщенко Константин Григорьевич": 204,
-      "Смагин Михаил Викторович": 60,
-      "Эльчапаров Владимир Геннадьевич": 32
+      "gas:candidate-vibid:2412000376078": 104,
+      "gas:candidate-vibid:2412000379692": 87,
+      "gas:candidate-vibid:2412000387918": 63,
+      "gas:candidate-vibid:2412000386507": 204,
+      "gas:candidate-vibid:2412000386541": 60,
+      "gas:candidate-vibid:2412000388351": 32
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kamchatka-krai?action=show&root=1000301&tvd=2412000368069&vrn=100100067795849&region=91&global=&sub_region=91&prver=0&pronetvd=null&vibid=2412000368069&type=464",
@@ -2059,12 +2059,12 @@ export const duma_2016_uik_463_region_91_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Калашников Валерий Юрьевич": 153,
-      "Машковцев Михаил Борисович": 102,
-      "Пучковский Михаил Леонидович": 71,
-      "Слыщенко Константин Григорьевич": 264,
-      "Смагин Михаил Викторович": 91,
-      "Эльчапаров Владимир Геннадьевич": 30
+      "gas:candidate-vibid:2412000376078": 153,
+      "gas:candidate-vibid:2412000379692": 102,
+      "gas:candidate-vibid:2412000387918": 71,
+      "gas:candidate-vibid:2412000386507": 264,
+      "gas:candidate-vibid:2412000386541": 91,
+      "gas:candidate-vibid:2412000388351": 30
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kamchatka-krai?action=show&root=1000301&tvd=2412000368069&vrn=100100067795849&region=91&global=&sub_region=91&prver=0&pronetvd=null&vibid=2412000368069&type=464",
@@ -2115,12 +2115,12 @@ export const duma_2016_uik_463_region_91_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Калашников Валерий Юрьевич": 122,
-      "Машковцев Михаил Борисович": 84,
-      "Пучковский Михаил Леонидович": 86,
-      "Слыщенко Константин Григорьевич": 270,
-      "Смагин Михаил Викторович": 96,
-      "Эльчапаров Владимир Геннадьевич": 30
+      "gas:candidate-vibid:2412000376078": 122,
+      "gas:candidate-vibid:2412000379692": 84,
+      "gas:candidate-vibid:2412000387918": 86,
+      "gas:candidate-vibid:2412000386507": 270,
+      "gas:candidate-vibid:2412000386541": 96,
+      "gas:candidate-vibid:2412000388351": 30
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kamchatka-krai?action=show&root=1000301&tvd=2412000368069&vrn=100100067795849&region=91&global=&sub_region=91&prver=0&pronetvd=null&vibid=2412000368069&type=464",
@@ -2171,12 +2171,12 @@ export const duma_2016_uik_463_region_91_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Калашников Валерий Юрьевич": 103,
-      "Машковцев Михаил Борисович": 56,
-      "Пучковский Михаил Леонидович": 50,
-      "Слыщенко Константин Григорьевич": 164,
-      "Смагин Михаил Викторович": 61,
-      "Эльчапаров Владимир Геннадьевич": 22
+      "gas:candidate-vibid:2412000376078": 103,
+      "gas:candidate-vibid:2412000379692": 56,
+      "gas:candidate-vibid:2412000387918": 50,
+      "gas:candidate-vibid:2412000386507": 164,
+      "gas:candidate-vibid:2412000386541": 61,
+      "gas:candidate-vibid:2412000388351": 22
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kamchatka-krai?action=show&root=1000301&tvd=2412000368069&vrn=100100067795849&region=91&global=&sub_region=91&prver=0&pronetvd=null&vibid=2412000368069&type=464",
@@ -2227,12 +2227,12 @@ export const duma_2016_uik_463_region_91_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Калашников Валерий Юрьевич": 112,
-      "Машковцев Михаил Борисович": 46,
-      "Пучковский Михаил Леонидович": 51,
-      "Слыщенко Константин Григорьевич": 205,
-      "Смагин Михаил Викторович": 61,
-      "Эльчапаров Владимир Геннадьевич": 19
+      "gas:candidate-vibid:2412000376078": 112,
+      "gas:candidate-vibid:2412000379692": 46,
+      "gas:candidate-vibid:2412000387918": 51,
+      "gas:candidate-vibid:2412000386507": 205,
+      "gas:candidate-vibid:2412000386541": 61,
+      "gas:candidate-vibid:2412000388351": 19
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kamchatka-krai?action=show&root=1000301&tvd=2412000368069&vrn=100100067795849&region=91&global=&sub_region=91&prver=0&pronetvd=null&vibid=2412000368069&type=464",
@@ -2283,12 +2283,12 @@ export const duma_2016_uik_463_region_91_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Калашников Валерий Юрьевич": 59,
-      "Машковцев Михаил Борисович": 52,
-      "Пучковский Михаил Леонидович": 30,
-      "Слыщенко Константин Григорьевич": 173,
-      "Смагин Михаил Викторович": 53,
-      "Эльчапаров Владимир Геннадьевич": 10
+      "gas:candidate-vibid:2412000376078": 59,
+      "gas:candidate-vibid:2412000379692": 52,
+      "gas:candidate-vibid:2412000387918": 30,
+      "gas:candidate-vibid:2412000386507": 173,
+      "gas:candidate-vibid:2412000386541": 53,
+      "gas:candidate-vibid:2412000388351": 10
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kamchatka-krai?action=show&root=1000301&tvd=2412000368069&vrn=100100067795849&region=91&global=&sub_region=91&prver=0&pronetvd=null&vibid=2412000368069&type=464",
@@ -2339,12 +2339,12 @@ export const duma_2016_uik_463_region_91_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Калашников Валерий Юрьевич": 39,
-      "Машковцев Михаил Борисович": 13,
-      "Пучковский Михаил Леонидович": 10,
-      "Слыщенко Константин Григорьевич": 67,
-      "Смагин Михаил Викторович": 14,
-      "Эльчапаров Владимир Геннадьевич": 5
+      "gas:candidate-vibid:2412000376078": 39,
+      "gas:candidate-vibid:2412000379692": 13,
+      "gas:candidate-vibid:2412000387918": 10,
+      "gas:candidate-vibid:2412000386507": 67,
+      "gas:candidate-vibid:2412000386541": 14,
+      "gas:candidate-vibid:2412000388351": 5
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kamchatka-krai?action=show&root=1000301&tvd=2412000368069&vrn=100100067795849&region=91&global=&sub_region=91&prver=0&pronetvd=null&vibid=2412000368069&type=464",
@@ -2395,12 +2395,12 @@ export const duma_2016_uik_463_region_91_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Калашников Валерий Юрьевич": 37,
-      "Машковцев Михаил Борисович": 17,
-      "Пучковский Михаил Леонидович": 26,
-      "Слыщенко Константин Григорьевич": 72,
-      "Смагин Михаил Викторович": 32,
-      "Эльчапаров Владимир Геннадьевич": 0
+      "gas:candidate-vibid:2412000376078": 37,
+      "gas:candidate-vibid:2412000379692": 17,
+      "gas:candidate-vibid:2412000387918": 26,
+      "gas:candidate-vibid:2412000386507": 72,
+      "gas:candidate-vibid:2412000386541": 32,
+      "gas:candidate-vibid:2412000388351": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kamchatka-krai?action=show&root=1000301&tvd=2412000368069&vrn=100100067795849&region=91&global=&sub_region=91&prver=0&pronetvd=null&vibid=2412000368069&type=464",
@@ -2451,12 +2451,12 @@ export const duma_2016_uik_463_region_91_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Калашников Валерий Юрьевич": 26,
-      "Машковцев Михаил Борисович": 6,
-      "Пучковский Михаил Леонидович": 4,
-      "Слыщенко Константин Григорьевич": 30,
-      "Смагин Михаил Викторович": 8,
-      "Эльчапаров Владимир Геннадьевич": 4
+      "gas:candidate-vibid:2412000376078": 26,
+      "gas:candidate-vibid:2412000379692": 6,
+      "gas:candidate-vibid:2412000387918": 4,
+      "gas:candidate-vibid:2412000386507": 30,
+      "gas:candidate-vibid:2412000386541": 8,
+      "gas:candidate-vibid:2412000388351": 4
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kamchatka-krai?action=show&root=1000301&tvd=2412000368069&vrn=100100067795849&region=91&global=&sub_region=91&prver=0&pronetvd=null&vibid=2412000368069&type=464",
@@ -2507,12 +2507,12 @@ export const duma_2016_uik_463_region_91_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Калашников Валерий Юрьевич": 28,
-      "Машковцев Михаил Борисович": 18,
-      "Пучковский Михаил Леонидович": 8,
-      "Слыщенко Константин Григорьевич": 47,
-      "Смагин Михаил Викторович": 16,
-      "Эльчапаров Владимир Геннадьевич": 3
+      "gas:candidate-vibid:2412000376078": 28,
+      "gas:candidate-vibid:2412000379692": 18,
+      "gas:candidate-vibid:2412000387918": 8,
+      "gas:candidate-vibid:2412000386507": 47,
+      "gas:candidate-vibid:2412000386541": 16,
+      "gas:candidate-vibid:2412000388351": 3
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kamchatka-krai?action=show&root=1000301&tvd=2412000368069&vrn=100100067795849&region=91&global=&sub_region=91&prver=0&pronetvd=null&vibid=2412000368069&type=464",
@@ -2563,12 +2563,12 @@ export const duma_2016_uik_463_region_91_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Калашников Валерий Юрьевич": 19,
-      "Машковцев Михаил Борисович": 7,
-      "Пучковский Михаил Леонидович": 7,
-      "Слыщенко Константин Григорьевич": 22,
-      "Смагин Михаил Викторович": 10,
-      "Эльчапаров Владимир Геннадьевич": 0
+      "gas:candidate-vibid:2412000376078": 19,
+      "gas:candidate-vibid:2412000379692": 7,
+      "gas:candidate-vibid:2412000387918": 7,
+      "gas:candidate-vibid:2412000386507": 22,
+      "gas:candidate-vibid:2412000386541": 10,
+      "gas:candidate-vibid:2412000388351": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kamchatka-krai?action=show&root=1000301&tvd=2412000368069&vrn=100100067795849&region=91&global=&sub_region=91&prver=0&pronetvd=null&vibid=2412000368069&type=464",
@@ -2619,12 +2619,12 @@ export const duma_2016_uik_463_region_91_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Калашников Валерий Юрьевич": 12,
-      "Машковцев Михаил Борисович": 5,
-      "Пучковский Михаил Леонидович": 0,
-      "Слыщенко Константин Григорьевич": 11,
-      "Смагин Михаил Викторович": 5,
-      "Эльчапаров Владимир Геннадьевич": 0
+      "gas:candidate-vibid:2412000376078": 12,
+      "gas:candidate-vibid:2412000379692": 5,
+      "gas:candidate-vibid:2412000387918": 0,
+      "gas:candidate-vibid:2412000386507": 11,
+      "gas:candidate-vibid:2412000386541": 5,
+      "gas:candidate-vibid:2412000388351": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kamchatka-krai?action=show&root=1000301&tvd=2412000368069&vrn=100100067795849&region=91&global=&sub_region=91&prver=0&pronetvd=null&vibid=2412000368069&type=464",
@@ -2675,12 +2675,12 @@ export const duma_2016_uik_463_region_91_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Калашников Валерий Юрьевич": 8,
-      "Машковцев Михаил Борисович": 9,
-      "Пучковский Михаил Леонидович": 7,
-      "Слыщенко Константин Григорьевич": 40,
-      "Смагин Михаил Викторович": 2,
-      "Эльчапаров Владимир Геннадьевич": 1
+      "gas:candidate-vibid:2412000376078": 8,
+      "gas:candidate-vibid:2412000379692": 9,
+      "gas:candidate-vibid:2412000387918": 7,
+      "gas:candidate-vibid:2412000386507": 40,
+      "gas:candidate-vibid:2412000386541": 2,
+      "gas:candidate-vibid:2412000388351": 1
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kamchatka-krai?action=show&root=1000301&tvd=2412000368069&vrn=100100067795849&region=91&global=&sub_region=91&prver=0&pronetvd=null&vibid=2412000368069&type=464",
@@ -2731,12 +2731,12 @@ export const duma_2016_uik_463_region_91_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Калашников Валерий Юрьевич": 15,
-      "Машковцев Михаил Борисович": 8,
-      "Пучковский Михаил Леонидович": 5,
-      "Слыщенко Константин Григорьевич": 18,
-      "Смагин Михаил Викторович": 6,
-      "Эльчапаров Владимир Геннадьевич": 1
+      "gas:candidate-vibid:2412000376078": 15,
+      "gas:candidate-vibid:2412000379692": 8,
+      "gas:candidate-vibid:2412000387918": 5,
+      "gas:candidate-vibid:2412000386507": 18,
+      "gas:candidate-vibid:2412000386541": 6,
+      "gas:candidate-vibid:2412000388351": 1
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kamchatka-krai?action=show&root=1000301&tvd=2412000368069&vrn=100100067795849&region=91&global=&sub_region=91&prver=0&pronetvd=null&vibid=2412000368069&type=464",
@@ -2787,12 +2787,12 @@ export const duma_2016_uik_463_region_91_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Калашников Валерий Юрьевич": 10,
-      "Машковцев Михаил Борисович": 8,
-      "Пучковский Михаил Леонидович": 7,
-      "Слыщенко Константин Григорьевич": 20,
-      "Смагин Михаил Викторович": 1,
-      "Эльчапаров Владимир Геннадьевич": 3
+      "gas:candidate-vibid:2412000376078": 10,
+      "gas:candidate-vibid:2412000379692": 8,
+      "gas:candidate-vibid:2412000387918": 7,
+      "gas:candidate-vibid:2412000386507": 20,
+      "gas:candidate-vibid:2412000386541": 1,
+      "gas:candidate-vibid:2412000388351": 3
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kamchatka-krai?action=show&root=1000301&tvd=2412000368069&vrn=100100067795849&region=91&global=&sub_region=91&prver=0&pronetvd=null&vibid=2412000368069&type=464",
@@ -2843,12 +2843,12 @@ export const duma_2016_uik_463_region_91_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Калашников Валерий Юрьевич": 21,
-      "Машковцев Михаил Борисович": 20,
-      "Пучковский Михаил Леонидович": 9,
-      "Слыщенко Константин Григорьевич": 38,
-      "Смагин Михаил Викторович": 10,
-      "Эльчапаров Владимир Геннадьевич": 0
+      "gas:candidate-vibid:2412000376078": 21,
+      "gas:candidate-vibid:2412000379692": 20,
+      "gas:candidate-vibid:2412000387918": 9,
+      "gas:candidate-vibid:2412000386507": 38,
+      "gas:candidate-vibid:2412000386541": 10,
+      "gas:candidate-vibid:2412000388351": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kamchatka-krai?action=show&root=1000301&tvd=2412000368069&vrn=100100067795849&region=91&global=&sub_region=91&prver=0&pronetvd=null&vibid=2412000368069&type=464",

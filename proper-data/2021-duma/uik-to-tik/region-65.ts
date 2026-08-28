@@ -8,2688 +8,7168 @@ export const duma_2021_uik_to_tik_region_65 = [
     "uikNumber": 1,
     "uikTvd": "4654001180352",
     "tikTvd": "2652000585067",
-    "tikName": "Александровск-Сахалинская"
+    "tikName": "Александровск-Сахалинская",
+    "uikName": "УИК №1",
+    "regionCode": "65",
+    "regionTvd": "100100225883656",
+    "regionName": "Сахалинская область",
+    "oikTvd": "100100225883657",
+    "oikName": "Сахалинская область – Сахалинский",
+    "district": {
+      "districtNumber": 167,
+      "oikTvd": "100100225883657"
+    }
   },
   {
     "uikNumber": 2,
     "uikTvd": "4654001180353",
     "tikTvd": "2652000585067",
-    "tikName": "Александровск-Сахалинская"
+    "tikName": "Александровск-Сахалинская",
+    "uikName": "УИК №2",
+    "regionCode": "65",
+    "regionTvd": "100100225883656",
+    "regionName": "Сахалинская область",
+    "oikTvd": "100100225883657",
+    "oikName": "Сахалинская область – Сахалинский",
+    "district": {
+      "districtNumber": 167,
+      "oikTvd": "100100225883657"
+    }
   },
   {
     "uikNumber": 5,
     "uikTvd": "4654001180355",
     "tikTvd": "2652000585067",
-    "tikName": "Александровск-Сахалинская"
+    "tikName": "Александровск-Сахалинская",
+    "uikName": "УИК №5",
+    "regionCode": "65",
+    "regionTvd": "100100225883656",
+    "regionName": "Сахалинская область",
+    "oikTvd": "100100225883657",
+    "oikName": "Сахалинская область – Сахалинский",
+    "district": {
+      "districtNumber": 167,
+      "oikTvd": "100100225883657"
+    }
   },
   {
     "uikNumber": 6,
     "uikTvd": "4654001180356",
     "tikTvd": "2652000585067",
-    "tikName": "Александровск-Сахалинская"
+    "tikName": "Александровск-Сахалинская",
+    "uikName": "УИК №6",
+    "regionCode": "65",
+    "regionTvd": "100100225883656",
+    "regionName": "Сахалинская область",
+    "oikTvd": "100100225883657",
+    "oikName": "Сахалинская область – Сахалинский",
+    "district": {
+      "districtNumber": 167,
+      "oikTvd": "100100225883657"
+    }
   },
   {
     "uikNumber": 7,
     "uikTvd": "4654001180357",
     "tikTvd": "2652000585067",
-    "tikName": "Александровск-Сахалинская"
+    "tikName": "Александровск-Сахалинская",
+    "uikName": "УИК №7",
+    "regionCode": "65",
+    "regionTvd": "100100225883656",
+    "regionName": "Сахалинская область",
+    "oikTvd": "100100225883657",
+    "oikName": "Сахалинская область – Сахалинский",
+    "district": {
+      "districtNumber": 167,
+      "oikTvd": "100100225883657"
+    }
   },
   {
     "uikNumber": 9,
     "uikTvd": "4654001180358",
     "tikTvd": "2652000585067",
-    "tikName": "Александровск-Сахалинская"
+    "tikName": "Александровск-Сахалинская",
+    "uikName": "УИК №9",
+    "regionCode": "65",
+    "regionTvd": "100100225883656",
+    "regionName": "Сахалинская область",
+    "oikTvd": "100100225883657",
+    "oikName": "Сахалинская область – Сахалинский",
+    "district": {
+      "districtNumber": 167,
+      "oikTvd": "100100225883657"
+    }
   },
   {
     "uikNumber": 10,
     "uikTvd": "4654001180359",
     "tikTvd": "2652000585067",
-    "tikName": "Александровск-Сахалинская"
+    "tikName": "Александровск-Сахалинская",
+    "uikName": "УИК №10",
+    "regionCode": "65",
+    "regionTvd": "100100225883656",
+    "regionName": "Сахалинская область",
+    "oikTvd": "100100225883657",
+    "oikName": "Сахалинская область – Сахалинский",
+    "district": {
+      "districtNumber": 167,
+      "oikTvd": "100100225883657"
+    }
   },
   {
     "uikNumber": 11,
     "uikTvd": "4654001180360",
     "tikTvd": "2652000585067",
-    "tikName": "Александровск-Сахалинская"
+    "tikName": "Александровск-Сахалинская",
+    "uikName": "УИК №11",
+    "regionCode": "65",
+    "regionTvd": "100100225883656",
+    "regionName": "Сахалинская область",
+    "oikTvd": "100100225883657",
+    "oikName": "Сахалинская область – Сахалинский",
+    "district": {
+      "districtNumber": 167,
+      "oikTvd": "100100225883657"
+    }
   },
   {
     "uikNumber": 12,
     "uikTvd": "4654001180361",
     "tikTvd": "2652000585067",
-    "tikName": "Александровск-Сахалинская"
+    "tikName": "Александровск-Сахалинская",
+    "uikName": "УИК №12",
+    "regionCode": "65",
+    "regionTvd": "100100225883656",
+    "regionName": "Сахалинская область",
+    "oikTvd": "100100225883657",
+    "oikName": "Сахалинская область – Сахалинский",
+    "district": {
+      "districtNumber": 167,
+      "oikTvd": "100100225883657"
+    }
   },
   {
     "uikNumber": 13,
     "uikTvd": "4654001180362",
     "tikTvd": "2652000585067",
-    "tikName": "Александровск-Сахалинская"
+    "tikName": "Александровск-Сахалинская",
+    "uikName": "УИК №13",
+    "regionCode": "65",
+    "regionTvd": "100100225883656",
+    "regionName": "Сахалинская область",
+    "oikTvd": "100100225883657",
+    "oikName": "Сахалинская область – Сахалинский",
+    "district": {
+      "districtNumber": 167,
+      "oikTvd": "100100225883657"
+    }
   },
   {
     "uikNumber": 14,
     "uikTvd": "4654001180363",
     "tikTvd": "2652000585067",
-    "tikName": "Александровск-Сахалинская"
+    "tikName": "Александровск-Сахалинская",
+    "uikName": "УИК №14",
+    "regionCode": "65",
+    "regionTvd": "100100225883656",
+    "regionName": "Сахалинская область",
+    "oikTvd": "100100225883657",
+    "oikName": "Сахалинская область – Сахалинский",
+    "district": {
+      "districtNumber": 167,
+      "oikTvd": "100100225883657"
+    }
   },
   {
     "uikNumber": 19,
     "uikTvd": "4654002180818",
     "tikTvd": "2652000585069",
-    "tikName": "Анивская"
+    "tikName": "Анивская",
+    "uikName": "УИК №19",
+    "regionCode": "65",
+    "regionTvd": "100100225883656",
+    "regionName": "Сахалинская область",
+    "oikTvd": "100100225883657",
+    "oikName": "Сахалинская область – Сахалинский",
+    "district": {
+      "districtNumber": 167,
+      "oikTvd": "100100225883657"
+    }
   },
   {
     "uikNumber": 20,
     "uikTvd": "4654002180819",
     "tikTvd": "2652000585069",
-    "tikName": "Анивская"
+    "tikName": "Анивская",
+    "uikName": "УИК №20",
+    "regionCode": "65",
+    "regionTvd": "100100225883656",
+    "regionName": "Сахалинская область",
+    "oikTvd": "100100225883657",
+    "oikName": "Сахалинская область – Сахалинский",
+    "district": {
+      "districtNumber": 167,
+      "oikTvd": "100100225883657"
+    }
   },
   {
     "uikNumber": 21,
     "uikTvd": "4654002180820",
     "tikTvd": "2652000585069",
-    "tikName": "Анивская"
+    "tikName": "Анивская",
+    "uikName": "УИК №21",
+    "regionCode": "65",
+    "regionTvd": "100100225883656",
+    "regionName": "Сахалинская область",
+    "oikTvd": "100100225883657",
+    "oikName": "Сахалинская область – Сахалинский",
+    "district": {
+      "districtNumber": 167,
+      "oikTvd": "100100225883657"
+    }
   },
   {
     "uikNumber": 22,
     "uikTvd": "4654002180821",
     "tikTvd": "2652000585069",
-    "tikName": "Анивская"
+    "tikName": "Анивская",
+    "uikName": "УИК №22",
+    "regionCode": "65",
+    "regionTvd": "100100225883656",
+    "regionName": "Сахалинская область",
+    "oikTvd": "100100225883657",
+    "oikName": "Сахалинская область – Сахалинский",
+    "district": {
+      "districtNumber": 167,
+      "oikTvd": "100100225883657"
+    }
   },
   {
     "uikNumber": 23,
     "uikTvd": "4654002180822",
     "tikTvd": "2652000585069",
-    "tikName": "Анивская"
+    "tikName": "Анивская",
+    "uikName": "УИК №23",
+    "regionCode": "65",
+    "regionTvd": "100100225883656",
+    "regionName": "Сахалинская область",
+    "oikTvd": "100100225883657",
+    "oikName": "Сахалинская область – Сахалинский",
+    "district": {
+      "districtNumber": 167,
+      "oikTvd": "100100225883657"
+    }
   },
   {
     "uikNumber": 24,
     "uikTvd": "4654002180823",
     "tikTvd": "2652000585069",
-    "tikName": "Анивская"
+    "tikName": "Анивская",
+    "uikName": "УИК №24",
+    "regionCode": "65",
+    "regionTvd": "100100225883656",
+    "regionName": "Сахалинская область",
+    "oikTvd": "100100225883657",
+    "oikName": "Сахалинская область – Сахалинский",
+    "district": {
+      "districtNumber": 167,
+      "oikTvd": "100100225883657"
+    }
   },
   {
     "uikNumber": 25,
     "uikTvd": "4654002180824",
     "tikTvd": "2652000585069",
-    "tikName": "Анивская"
+    "tikName": "Анивская",
+    "uikName": "УИК №25",
+    "regionCode": "65",
+    "regionTvd": "100100225883656",
+    "regionName": "Сахалинская область",
+    "oikTvd": "100100225883657",
+    "oikName": "Сахалинская область – Сахалинский",
+    "district": {
+      "districtNumber": 167,
+      "oikTvd": "100100225883657"
+    }
   },
   {
     "uikNumber": 26,
     "uikTvd": "4654002180825",
     "tikTvd": "2652000585069",
-    "tikName": "Анивская"
+    "tikName": "Анивская",
+    "uikName": "УИК №26",
+    "regionCode": "65",
+    "regionTvd": "100100225883656",
+    "regionName": "Сахалинская область",
+    "oikTvd": "100100225883657",
+    "oikName": "Сахалинская область – Сахалинский",
+    "district": {
+      "districtNumber": 167,
+      "oikTvd": "100100225883657"
+    }
   },
   {
     "uikNumber": 27,
     "uikTvd": "4654002180826",
     "tikTvd": "2652000585069",
-    "tikName": "Анивская"
+    "tikName": "Анивская",
+    "uikName": "УИК №27",
+    "regionCode": "65",
+    "regionTvd": "100100225883656",
+    "regionName": "Сахалинская область",
+    "oikTvd": "100100225883657",
+    "oikName": "Сахалинская область – Сахалинский",
+    "district": {
+      "districtNumber": 167,
+      "oikTvd": "100100225883657"
+    }
   },
   {
     "uikNumber": 28,
     "uikTvd": "4654002180827",
     "tikTvd": "2652000585069",
-    "tikName": "Анивская"
+    "tikName": "Анивская",
+    "uikName": "УИК №28",
+    "regionCode": "65",
+    "regionTvd": "100100225883656",
+    "regionName": "Сахалинская область",
+    "oikTvd": "100100225883657",
+    "oikName": "Сахалинская область – Сахалинский",
+    "district": {
+      "districtNumber": 167,
+      "oikTvd": "100100225883657"
+    }
   },
   {
     "uikNumber": 29,
     "uikTvd": "4654002180828",
     "tikTvd": "2652000585069",
-    "tikName": "Анивская"
+    "tikName": "Анивская",
+    "uikName": "УИК №29",
+    "regionCode": "65",
+    "regionTvd": "100100225883656",
+    "regionName": "Сахалинская область",
+    "oikTvd": "100100225883657",
+    "oikName": "Сахалинская область – Сахалинский",
+    "district": {
+      "districtNumber": 167,
+      "oikTvd": "100100225883657"
+    }
   },
   {
     "uikNumber": 30,
     "uikTvd": "4654002180829",
     "tikTvd": "2652000585069",
-    "tikName": "Анивская"
+    "tikName": "Анивская",
+    "uikName": "УИК №30",
+    "regionCode": "65",
+    "regionTvd": "100100225883656",
+    "regionName": "Сахалинская область",
+    "oikTvd": "100100225883657",
+    "oikName": "Сахалинская область – Сахалинский",
+    "district": {
+      "districtNumber": 167,
+      "oikTvd": "100100225883657"
+    }
   },
   {
     "uikNumber": 31,
     "uikTvd": "4654002180830",
     "tikTvd": "2652000585069",
-    "tikName": "Анивская"
+    "tikName": "Анивская",
+    "uikName": "УИК №31",
+    "regionCode": "65",
+    "regionTvd": "100100225883656",
+    "regionName": "Сахалинская область",
+    "oikTvd": "100100225883657",
+    "oikName": "Сахалинская область – Сахалинский",
+    "district": {
+      "districtNumber": 167,
+      "oikTvd": "100100225883657"
+    }
   },
   {
     "uikNumber": 32,
     "uikTvd": "4654002180831",
     "tikTvd": "2652000585069",
-    "tikName": "Анивская"
+    "tikName": "Анивская",
+    "uikName": "УИК №32",
+    "regionCode": "65",
+    "regionTvd": "100100225883656",
+    "regionName": "Сахалинская область",
+    "oikTvd": "100100225883657",
+    "oikName": "Сахалинская область – Сахалинский",
+    "district": {
+      "districtNumber": 167,
+      "oikTvd": "100100225883657"
+    }
   },
   {
     "uikNumber": 33,
     "uikTvd": "4654002180832",
     "tikTvd": "2652000585069",
-    "tikName": "Анивская"
+    "tikName": "Анивская",
+    "uikName": "УИК №33",
+    "regionCode": "65",
+    "regionTvd": "100100225883656",
+    "regionName": "Сахалинская область",
+    "oikTvd": "100100225883657",
+    "oikName": "Сахалинская область – Сахалинский",
+    "district": {
+      "districtNumber": 167,
+      "oikTvd": "100100225883657"
+    }
   },
   {
     "uikNumber": 34,
     "uikTvd": "4654003183075",
     "tikTvd": "2652000585054",
-    "tikName": "Долинская"
+    "tikName": "Долинская",
+    "uikName": "УИК №34",
+    "regionCode": "65",
+    "regionTvd": "100100225883656",
+    "regionName": "Сахалинская область",
+    "oikTvd": "100100225883657",
+    "oikName": "Сахалинская область – Сахалинский",
+    "district": {
+      "districtNumber": 167,
+      "oikTvd": "100100225883657"
+    }
   },
   {
     "uikNumber": 35,
     "uikTvd": "4654003183076",
     "tikTvd": "2652000585054",
-    "tikName": "Долинская"
+    "tikName": "Долинская",
+    "uikName": "УИК №35",
+    "regionCode": "65",
+    "regionTvd": "100100225883656",
+    "regionName": "Сахалинская область",
+    "oikTvd": "100100225883657",
+    "oikName": "Сахалинская область – Сахалинский",
+    "district": {
+      "districtNumber": 167,
+      "oikTvd": "100100225883657"
+    }
   },
   {
     "uikNumber": 36,
     "uikTvd": "4654003183077",
     "tikTvd": "2652000585054",
-    "tikName": "Долинская"
+    "tikName": "Долинская",
+    "uikName": "УИК №36",
+    "regionCode": "65",
+    "regionTvd": "100100225883656",
+    "regionName": "Сахалинская область",
+    "oikTvd": "100100225883657",
+    "oikName": "Сахалинская область – Сахалинский",
+    "district": {
+      "districtNumber": 167,
+      "oikTvd": "100100225883657"
+    }
   },
   {
     "uikNumber": 37,
     "uikTvd": "4654003183078",
     "tikTvd": "2652000585054",
-    "tikName": "Долинская"
+    "tikName": "Долинская",
+    "uikName": "УИК №37",
+    "regionCode": "65",
+    "regionTvd": "100100225883656",
+    "regionName": "Сахалинская область",
+    "oikTvd": "100100225883657",
+    "oikName": "Сахалинская область – Сахалинский",
+    "district": {
+      "districtNumber": 167,
+      "oikTvd": "100100225883657"
+    }
   },
   {
     "uikNumber": 39,
     "uikTvd": "4654003183080",
     "tikTvd": "2652000585054",
-    "tikName": "Долинская"
+    "tikName": "Долинская",
+    "uikName": "УИК №39",
+    "regionCode": "65",
+    "regionTvd": "100100225883656",
+    "regionName": "Сахалинская область",
+    "oikTvd": "100100225883657",
+    "oikName": "Сахалинская область – Сахалинский",
+    "district": {
+      "districtNumber": 167,
+      "oikTvd": "100100225883657"
+    }
   },
   {
     "uikNumber": 40,
     "uikTvd": "4654003183081",
     "tikTvd": "2652000585054",
-    "tikName": "Долинская"
+    "tikName": "Долинская",
+    "uikName": "УИК №40",
+    "regionCode": "65",
+    "regionTvd": "100100225883656",
+    "regionName": "Сахалинская область",
+    "oikTvd": "100100225883657",
+    "oikName": "Сахалинская область – Сахалинский",
+    "district": {
+      "districtNumber": 167,
+      "oikTvd": "100100225883657"
+    }
   },
   {
     "uikNumber": 41,
     "uikTvd": "4654003183082",
     "tikTvd": "2652000585054",
-    "tikName": "Долинская"
+    "tikName": "Долинская",
+    "uikName": "УИК №41",
+    "regionCode": "65",
+    "regionTvd": "100100225883656",
+    "regionName": "Сахалинская область",
+    "oikTvd": "100100225883657",
+    "oikName": "Сахалинская область – Сахалинский",
+    "district": {
+      "districtNumber": 167,
+      "oikTvd": "100100225883657"
+    }
   },
   {
     "uikNumber": 42,
     "uikTvd": "4654003185748",
     "tikTvd": "2652000585054",
-    "tikName": "Долинская"
+    "tikName": "Долинская",
+    "uikName": "УИК №42",
+    "regionCode": "65",
+    "regionTvd": "100100225883656",
+    "regionName": "Сахалинская область",
+    "oikTvd": "100100225883657",
+    "oikName": "Сахалинская область – Сахалинский",
+    "district": {
+      "districtNumber": 167,
+      "oikTvd": "100100225883657"
+    }
   },
   {
     "uikNumber": 43,
     "uikTvd": "4654003183084",
     "tikTvd": "2652000585054",
-    "tikName": "Долинская"
+    "tikName": "Долинская",
+    "uikName": "УИК №43",
+    "regionCode": "65",
+    "regionTvd": "100100225883656",
+    "regionName": "Сахалинская область",
+    "oikTvd": "100100225883657",
+    "oikName": "Сахалинская область – Сахалинский",
+    "district": {
+      "districtNumber": 167,
+      "oikTvd": "100100225883657"
+    }
   },
   {
     "uikNumber": 44,
     "uikTvd": "4654003183085",
     "tikTvd": "2652000585054",
-    "tikName": "Долинская"
+    "tikName": "Долинская",
+    "uikName": "УИК №44",
+    "regionCode": "65",
+    "regionTvd": "100100225883656",
+    "regionName": "Сахалинская область",
+    "oikTvd": "100100225883657",
+    "oikName": "Сахалинская область – Сахалинский",
+    "district": {
+      "districtNumber": 167,
+      "oikTvd": "100100225883657"
+    }
   },
   {
     "uikNumber": 45,
     "uikTvd": "4654003183086",
     "tikTvd": "2652000585054",
-    "tikName": "Долинская"
+    "tikName": "Долинская",
+    "uikName": "УИК №45",
+    "regionCode": "65",
+    "regionTvd": "100100225883656",
+    "regionName": "Сахалинская область",
+    "oikTvd": "100100225883657",
+    "oikName": "Сахалинская область – Сахалинский",
+    "district": {
+      "districtNumber": 167,
+      "oikTvd": "100100225883657"
+    }
   },
   {
     "uikNumber": 46,
     "uikTvd": "4654003183087",
     "tikTvd": "2652000585054",
-    "tikName": "Долинская"
+    "tikName": "Долинская",
+    "uikName": "УИК №46",
+    "regionCode": "65",
+    "regionTvd": "100100225883656",
+    "regionName": "Сахалинская область",
+    "oikTvd": "100100225883657",
+    "oikName": "Сахалинская область – Сахалинский",
+    "district": {
+      "districtNumber": 167,
+      "oikTvd": "100100225883657"
+    }
   },
   {
     "uikNumber": 47,
     "uikTvd": "4654003183088",
     "tikTvd": "2652000585054",
-    "tikName": "Долинская"
+    "tikName": "Долинская",
+    "uikName": "УИК №47",
+    "regionCode": "65",
+    "regionTvd": "100100225883656",
+    "regionName": "Сахалинская область",
+    "oikTvd": "100100225883657",
+    "oikName": "Сахалинская область – Сахалинский",
+    "district": {
+      "districtNumber": 167,
+      "oikTvd": "100100225883657"
+    }
   },
   {
     "uikNumber": 48,
     "uikTvd": "4654003183089",
     "tikTvd": "2652000585054",
-    "tikName": "Долинская"
+    "tikName": "Долинская",
+    "uikName": "УИК №48",
+    "regionCode": "65",
+    "regionTvd": "100100225883656",
+    "regionName": "Сахалинская область",
+    "oikTvd": "100100225883657",
+    "oikName": "Сахалинская область – Сахалинский",
+    "district": {
+      "districtNumber": 167,
+      "oikTvd": "100100225883657"
+    }
   },
   {
     "uikNumber": 49,
     "uikTvd": "4654003183090",
     "tikTvd": "2652000585054",
-    "tikName": "Долинская"
+    "tikName": "Долинская",
+    "uikName": "УИК №49",
+    "regionCode": "65",
+    "regionTvd": "100100225883656",
+    "regionName": "Сахалинская область",
+    "oikTvd": "100100225883657",
+    "oikName": "Сахалинская область – Сахалинский",
+    "district": {
+      "districtNumber": 167,
+      "oikTvd": "100100225883657"
+    }
   },
   {
     "uikNumber": 53,
     "uikTvd": "4654004274316",
     "tikTvd": "2652000585062",
-    "tikName": "Корсаковская"
+    "tikName": "Корсаковская",
+    "uikName": "УИК №53",
+    "regionCode": "65",
+    "regionTvd": "100100225883656",
+    "regionName": "Сахалинская область",
+    "oikTvd": "100100225883657",
+    "oikName": "Сахалинская область – Сахалинский",
+    "district": {
+      "districtNumber": 167,
+      "oikTvd": "100100225883657"
+    }
   },
   {
     "uikNumber": 54,
     "uikTvd": "4654004274317",
     "tikTvd": "2652000585062",
-    "tikName": "Корсаковская"
+    "tikName": "Корсаковская",
+    "uikName": "УИК №54",
+    "regionCode": "65",
+    "regionTvd": "100100225883656",
+    "regionName": "Сахалинская область",
+    "oikTvd": "100100225883657",
+    "oikName": "Сахалинская область – Сахалинский",
+    "district": {
+      "districtNumber": 167,
+      "oikTvd": "100100225883657"
+    }
   },
   {
     "uikNumber": 55,
     "uikTvd": "4654004274318",
     "tikTvd": "2652000585062",
-    "tikName": "Корсаковская"
+    "tikName": "Корсаковская",
+    "uikName": "УИК №55",
+    "regionCode": "65",
+    "regionTvd": "100100225883656",
+    "regionName": "Сахалинская область",
+    "oikTvd": "100100225883657",
+    "oikName": "Сахалинская область – Сахалинский",
+    "district": {
+      "districtNumber": 167,
+      "oikTvd": "100100225883657"
+    }
   },
   {
     "uikNumber": 56,
     "uikTvd": "4654004274319",
     "tikTvd": "2652000585062",
-    "tikName": "Корсаковская"
+    "tikName": "Корсаковская",
+    "uikName": "УИК №56",
+    "regionCode": "65",
+    "regionTvd": "100100225883656",
+    "regionName": "Сахалинская область",
+    "oikTvd": "100100225883657",
+    "oikName": "Сахалинская область – Сахалинский",
+    "district": {
+      "districtNumber": 167,
+      "oikTvd": "100100225883657"
+    }
   },
   {
     "uikNumber": 57,
     "uikTvd": "4654004274320",
     "tikTvd": "2652000585062",
-    "tikName": "Корсаковская"
+    "tikName": "Корсаковская",
+    "uikName": "УИК №57",
+    "regionCode": "65",
+    "regionTvd": "100100225883656",
+    "regionName": "Сахалинская область",
+    "oikTvd": "100100225883657",
+    "oikName": "Сахалинская область – Сахалинский",
+    "district": {
+      "districtNumber": 167,
+      "oikTvd": "100100225883657"
+    }
   },
   {
     "uikNumber": 58,
     "uikTvd": "4654004274321",
     "tikTvd": "2652000585062",
-    "tikName": "Корсаковская"
+    "tikName": "Корсаковская",
+    "uikName": "УИК №58",
+    "regionCode": "65",
+    "regionTvd": "100100225883656",
+    "regionName": "Сахалинская область",
+    "oikTvd": "100100225883657",
+    "oikName": "Сахалинская область – Сахалинский",
+    "district": {
+      "districtNumber": 167,
+      "oikTvd": "100100225883657"
+    }
   },
   {
     "uikNumber": 59,
     "uikTvd": "4654004274322",
     "tikTvd": "2652000585062",
-    "tikName": "Корсаковская"
+    "tikName": "Корсаковская",
+    "uikName": "УИК №59",
+    "regionCode": "65",
+    "regionTvd": "100100225883656",
+    "regionName": "Сахалинская область",
+    "oikTvd": "100100225883657",
+    "oikName": "Сахалинская область – Сахалинский",
+    "district": {
+      "districtNumber": 167,
+      "oikTvd": "100100225883657"
+    }
   },
   {
     "uikNumber": 61,
     "uikTvd": "4654004274323",
     "tikTvd": "2652000585062",
-    "tikName": "Корсаковская"
+    "tikName": "Корсаковская",
+    "uikName": "УИК №61",
+    "regionCode": "65",
+    "regionTvd": "100100225883656",
+    "regionName": "Сахалинская область",
+    "oikTvd": "100100225883657",
+    "oikName": "Сахалинская область – Сахалинский",
+    "district": {
+      "districtNumber": 167,
+      "oikTvd": "100100225883657"
+    }
   },
   {
     "uikNumber": 62,
     "uikTvd": "4654004274324",
     "tikTvd": "2652000585062",
-    "tikName": "Корсаковская"
+    "tikName": "Корсаковская",
+    "uikName": "УИК №62",
+    "regionCode": "65",
+    "regionTvd": "100100225883656",
+    "regionName": "Сахалинская область",
+    "oikTvd": "100100225883657",
+    "oikName": "Сахалинская область – Сахалинский",
+    "district": {
+      "districtNumber": 167,
+      "oikTvd": "100100225883657"
+    }
   },
   {
     "uikNumber": 63,
     "uikTvd": "4654004274325",
     "tikTvd": "2652000585062",
-    "tikName": "Корсаковская"
+    "tikName": "Корсаковская",
+    "uikName": "УИК №63",
+    "regionCode": "65",
+    "regionTvd": "100100225883656",
+    "regionName": "Сахалинская область",
+    "oikTvd": "100100225883657",
+    "oikName": "Сахалинская область – Сахалинский",
+    "district": {
+      "districtNumber": 167,
+      "oikTvd": "100100225883657"
+    }
   },
   {
     "uikNumber": 64,
     "uikTvd": "4654004274326",
     "tikTvd": "2652000585062",
-    "tikName": "Корсаковская"
+    "tikName": "Корсаковская",
+    "uikName": "УИК №64",
+    "regionCode": "65",
+    "regionTvd": "100100225883656",
+    "regionName": "Сахалинская область",
+    "oikTvd": "100100225883657",
+    "oikName": "Сахалинская область – Сахалинский",
+    "district": {
+      "districtNumber": 167,
+      "oikTvd": "100100225883657"
+    }
   },
   {
     "uikNumber": 65,
     "uikTvd": "4654004274327",
     "tikTvd": "2652000585062",
-    "tikName": "Корсаковская"
+    "tikName": "Корсаковская",
+    "uikName": "УИК №65",
+    "regionCode": "65",
+    "regionTvd": "100100225883656",
+    "regionName": "Сахалинская область",
+    "oikTvd": "100100225883657",
+    "oikName": "Сахалинская область – Сахалинский",
+    "district": {
+      "districtNumber": 167,
+      "oikTvd": "100100225883657"
+    }
   },
   {
     "uikNumber": 66,
     "uikTvd": "4654004274328",
     "tikTvd": "2652000585062",
-    "tikName": "Корсаковская"
+    "tikName": "Корсаковская",
+    "uikName": "УИК №66",
+    "regionCode": "65",
+    "regionTvd": "100100225883656",
+    "regionName": "Сахалинская область",
+    "oikTvd": "100100225883657",
+    "oikName": "Сахалинская область – Сахалинский",
+    "district": {
+      "districtNumber": 167,
+      "oikTvd": "100100225883657"
+    }
   },
   {
     "uikNumber": 67,
     "uikTvd": "4654004274329",
     "tikTvd": "2652000585062",
-    "tikName": "Корсаковская"
+    "tikName": "Корсаковская",
+    "uikName": "УИК №67",
+    "regionCode": "65",
+    "regionTvd": "100100225883656",
+    "regionName": "Сахалинская область",
+    "oikTvd": "100100225883657",
+    "oikName": "Сахалинская область – Сахалинский",
+    "district": {
+      "districtNumber": 167,
+      "oikTvd": "100100225883657"
+    }
   },
   {
     "uikNumber": 68,
     "uikTvd": "4654004274330",
     "tikTvd": "2652000585062",
-    "tikName": "Корсаковская"
+    "tikName": "Корсаковская",
+    "uikName": "УИК №68",
+    "regionCode": "65",
+    "regionTvd": "100100225883656",
+    "regionName": "Сахалинская область",
+    "oikTvd": "100100225883657",
+    "oikName": "Сахалинская область – Сахалинский",
+    "district": {
+      "districtNumber": 167,
+      "oikTvd": "100100225883657"
+    }
   },
   {
     "uikNumber": 69,
     "uikTvd": "4654004274331",
     "tikTvd": "2652000585062",
-    "tikName": "Корсаковская"
+    "tikName": "Корсаковская",
+    "uikName": "УИК №69",
+    "regionCode": "65",
+    "regionTvd": "100100225883656",
+    "regionName": "Сахалинская область",
+    "oikTvd": "100100225883657",
+    "oikName": "Сахалинская область – Сахалинский",
+    "district": {
+      "districtNumber": 167,
+      "oikTvd": "100100225883657"
+    }
   },
   {
     "uikNumber": 70,
     "uikTvd": "4654004274332",
     "tikTvd": "2652000585062",
-    "tikName": "Корсаковская"
+    "tikName": "Корсаковская",
+    "uikName": "УИК №70",
+    "regionCode": "65",
+    "regionTvd": "100100225883656",
+    "regionName": "Сахалинская область",
+    "oikTvd": "100100225883657",
+    "oikName": "Сахалинская область – Сахалинский",
+    "district": {
+      "districtNumber": 167,
+      "oikTvd": "100100225883657"
+    }
   },
   {
     "uikNumber": 71,
     "uikTvd": "4654004274333",
     "tikTvd": "2652000585062",
-    "tikName": "Корсаковская"
+    "tikName": "Корсаковская",
+    "uikName": "УИК №71",
+    "regionCode": "65",
+    "regionTvd": "100100225883656",
+    "regionName": "Сахалинская область",
+    "oikTvd": "100100225883657",
+    "oikName": "Сахалинская область – Сахалинский",
+    "district": {
+      "districtNumber": 167,
+      "oikTvd": "100100225883657"
+    }
   },
   {
     "uikNumber": 72,
     "uikTvd": "4654004274334",
     "tikTvd": "2652000585062",
-    "tikName": "Корсаковская"
+    "tikName": "Корсаковская",
+    "uikName": "УИК №72",
+    "regionCode": "65",
+    "regionTvd": "100100225883656",
+    "regionName": "Сахалинская область",
+    "oikTvd": "100100225883657",
+    "oikName": "Сахалинская область – Сахалинский",
+    "district": {
+      "districtNumber": 167,
+      "oikTvd": "100100225883657"
+    }
   },
   {
     "uikNumber": 73,
     "uikTvd": "4654004274335",
     "tikTvd": "2652000585062",
-    "tikName": "Корсаковская"
+    "tikName": "Корсаковская",
+    "uikName": "УИК №73",
+    "regionCode": "65",
+    "regionTvd": "100100225883656",
+    "regionName": "Сахалинская область",
+    "oikTvd": "100100225883657",
+    "oikName": "Сахалинская область – Сахалинский",
+    "district": {
+      "districtNumber": 167,
+      "oikTvd": "100100225883657"
+    }
   },
   {
     "uikNumber": 74,
     "uikTvd": "4654004274336",
     "tikTvd": "2652000585062",
-    "tikName": "Корсаковская"
+    "tikName": "Корсаковская",
+    "uikName": "УИК №74",
+    "regionCode": "65",
+    "regionTvd": "100100225883656",
+    "regionName": "Сахалинская область",
+    "oikTvd": "100100225883657",
+    "oikName": "Сахалинская область – Сахалинский",
+    "district": {
+      "districtNumber": 167,
+      "oikTvd": "100100225883657"
+    }
   },
   {
     "uikNumber": 75,
     "uikTvd": "4654004274337",
     "tikTvd": "2652000585062",
-    "tikName": "Корсаковская"
+    "tikName": "Корсаковская",
+    "uikName": "УИК №75",
+    "regionCode": "65",
+    "regionTvd": "100100225883656",
+    "regionName": "Сахалинская область",
+    "oikTvd": "100100225883657",
+    "oikName": "Сахалинская область – Сахалинский",
+    "district": {
+      "districtNumber": 167,
+      "oikTvd": "100100225883657"
+    }
   },
   {
     "uikNumber": 76,
     "uikTvd": "4654004274338",
     "tikTvd": "2652000585062",
-    "tikName": "Корсаковская"
+    "tikName": "Корсаковская",
+    "uikName": "УИК №76",
+    "regionCode": "65",
+    "regionTvd": "100100225883656",
+    "regionName": "Сахалинская область",
+    "oikTvd": "100100225883657",
+    "oikName": "Сахалинская область – Сахалинский",
+    "district": {
+      "districtNumber": 167,
+      "oikTvd": "100100225883657"
+    }
   },
   {
     "uikNumber": 77,
     "uikTvd": "4654004274339",
     "tikTvd": "2652000585062",
-    "tikName": "Корсаковская"
+    "tikName": "Корсаковская",
+    "uikName": "УИК №77",
+    "regionCode": "65",
+    "regionTvd": "100100225883656",
+    "regionName": "Сахалинская область",
+    "oikTvd": "100100225883657",
+    "oikName": "Сахалинская область – Сахалинский",
+    "district": {
+      "districtNumber": 167,
+      "oikTvd": "100100225883657"
+    }
   },
   {
     "uikNumber": 78,
     "uikTvd": "4654004274340",
     "tikTvd": "2652000585062",
-    "tikName": "Корсаковская"
+    "tikName": "Корсаковская",
+    "uikName": "УИК №78",
+    "regionCode": "65",
+    "regionTvd": "100100225883656",
+    "regionName": "Сахалинская область",
+    "oikTvd": "100100225883657",
+    "oikName": "Сахалинская область – Сахалинский",
+    "district": {
+      "districtNumber": 167,
+      "oikTvd": "100100225883657"
+    }
   },
   {
     "uikNumber": 79,
     "uikTvd": "4654004274341",
     "tikTvd": "2652000585062",
-    "tikName": "Корсаковская"
+    "tikName": "Корсаковская",
+    "uikName": "УИК №79",
+    "regionCode": "65",
+    "regionTvd": "100100225883656",
+    "regionName": "Сахалинская область",
+    "oikTvd": "100100225883657",
+    "oikName": "Сахалинская область – Сахалинский",
+    "district": {
+      "districtNumber": 167,
+      "oikTvd": "100100225883657"
+    }
   },
   {
     "uikNumber": 80,
     "uikTvd": "4654004277802",
     "tikTvd": "2652000585062",
-    "tikName": "Корсаковская"
+    "tikName": "Корсаковская",
+    "uikName": "УИК №80",
+    "regionCode": "65",
+    "regionTvd": "100100225883656",
+    "regionName": "Сахалинская область",
+    "oikTvd": "100100225883657",
+    "oikName": "Сахалинская область – Сахалинский",
+    "district": {
+      "districtNumber": 167,
+      "oikTvd": "100100225883657"
+    }
   },
   {
     "uikNumber": 82,
     "uikTvd": "4654005187073",
     "tikTvd": "2652000585052",
-    "tikName": "Курильская"
+    "tikName": "Курильская",
+    "uikName": "УИК №82",
+    "regionCode": "65",
+    "regionTvd": "100100225883656",
+    "regionName": "Сахалинская область",
+    "oikTvd": "100100225883657",
+    "oikName": "Сахалинская область – Сахалинский",
+    "district": {
+      "districtNumber": 167,
+      "oikTvd": "100100225883657"
+    }
   },
   {
     "uikNumber": 83,
     "uikTvd": "4654005187074",
     "tikTvd": "2652000585052",
-    "tikName": "Курильская"
+    "tikName": "Курильская",
+    "uikName": "УИК №83",
+    "regionCode": "65",
+    "regionTvd": "100100225883656",
+    "regionName": "Сахалинская область",
+    "oikTvd": "100100225883657",
+    "oikName": "Сахалинская область – Сахалинский",
+    "district": {
+      "districtNumber": 167,
+      "oikTvd": "100100225883657"
+    }
   },
   {
     "uikNumber": 84,
     "uikTvd": "4654005187075",
     "tikTvd": "2652000585052",
-    "tikName": "Курильская"
+    "tikName": "Курильская",
+    "uikName": "УИК №84",
+    "regionCode": "65",
+    "regionTvd": "100100225883656",
+    "regionName": "Сахалинская область",
+    "oikTvd": "100100225883657",
+    "oikName": "Сахалинская область – Сахалинский",
+    "district": {
+      "districtNumber": 167,
+      "oikTvd": "100100225883657"
+    }
   },
   {
     "uikNumber": 85,
     "uikTvd": "4654005187076",
     "tikTvd": "2652000585052",
-    "tikName": "Курильская"
+    "tikName": "Курильская",
+    "uikName": "УИК №85",
+    "regionCode": "65",
+    "regionTvd": "100100225883656",
+    "regionName": "Сахалинская область",
+    "oikTvd": "100100225883657",
+    "oikName": "Сахалинская область – Сахалинский",
+    "district": {
+      "districtNumber": 167,
+      "oikTvd": "100100225883657"
+    }
   },
   {
     "uikNumber": 86,
     "uikTvd": "4654005187077",
     "tikTvd": "2652000585052",
-    "tikName": "Курильская"
+    "tikName": "Курильская",
+    "uikName": "УИК №86",
+    "regionCode": "65",
+    "regionTvd": "100100225883656",
+    "regionName": "Сахалинская область",
+    "oikTvd": "100100225883657",
+    "oikName": "Сахалинская область – Сахалинский",
+    "district": {
+      "districtNumber": 167,
+      "oikTvd": "100100225883657"
+    }
   },
   {
     "uikNumber": 87,
     "uikTvd": "4654006153871",
     "tikTvd": "2652000585070",
-    "tikName": "Макаровская"
+    "tikName": "Макаровская",
+    "uikName": "УИК №87",
+    "regionCode": "65",
+    "regionTvd": "100100225883656",
+    "regionName": "Сахалинская область",
+    "oikTvd": "100100225883657",
+    "oikName": "Сахалинская область – Сахалинский",
+    "district": {
+      "districtNumber": 167,
+      "oikTvd": "100100225883657"
+    }
   },
   {
     "uikNumber": 88,
     "uikTvd": "4654006153872",
     "tikTvd": "2652000585070",
-    "tikName": "Макаровская"
+    "tikName": "Макаровская",
+    "uikName": "УИК №88",
+    "regionCode": "65",
+    "regionTvd": "100100225883656",
+    "regionName": "Сахалинская область",
+    "oikTvd": "100100225883657",
+    "oikName": "Сахалинская область – Сахалинский",
+    "district": {
+      "districtNumber": 167,
+      "oikTvd": "100100225883657"
+    }
   },
   {
     "uikNumber": 89,
     "uikTvd": "4654006153873",
     "tikTvd": "2652000585070",
-    "tikName": "Макаровская"
+    "tikName": "Макаровская",
+    "uikName": "УИК №89",
+    "regionCode": "65",
+    "regionTvd": "100100225883656",
+    "regionName": "Сахалинская область",
+    "oikTvd": "100100225883657",
+    "oikName": "Сахалинская область – Сахалинский",
+    "district": {
+      "districtNumber": 167,
+      "oikTvd": "100100225883657"
+    }
   },
   {
     "uikNumber": 90,
     "uikTvd": "4654006153874",
     "tikTvd": "2652000585070",
-    "tikName": "Макаровская"
+    "tikName": "Макаровская",
+    "uikName": "УИК №90",
+    "regionCode": "65",
+    "regionTvd": "100100225883656",
+    "regionName": "Сахалинская область",
+    "oikTvd": "100100225883657",
+    "oikName": "Сахалинская область – Сахалинский",
+    "district": {
+      "districtNumber": 167,
+      "oikTvd": "100100225883657"
+    }
   },
   {
     "uikNumber": 91,
     "uikTvd": "4654006153875",
     "tikTvd": "2652000585070",
-    "tikName": "Макаровская"
+    "tikName": "Макаровская",
+    "uikName": "УИК №91",
+    "regionCode": "65",
+    "regionTvd": "100100225883656",
+    "regionName": "Сахалинская область",
+    "oikTvd": "100100225883657",
+    "oikName": "Сахалинская область – Сахалинский",
+    "district": {
+      "districtNumber": 167,
+      "oikTvd": "100100225883657"
+    }
   },
   {
     "uikNumber": 92,
     "uikTvd": "4654006153876",
     "tikTvd": "2652000585070",
-    "tikName": "Макаровская"
+    "tikName": "Макаровская",
+    "uikName": "УИК №92",
+    "regionCode": "65",
+    "regionTvd": "100100225883656",
+    "regionName": "Сахалинская область",
+    "oikTvd": "100100225883657",
+    "oikName": "Сахалинская область – Сахалинский",
+    "district": {
+      "districtNumber": 167,
+      "oikTvd": "100100225883657"
+    }
   },
   {
     "uikNumber": 93,
     "uikTvd": "4654006153877",
     "tikTvd": "2652000585070",
-    "tikName": "Макаровская"
+    "tikName": "Макаровская",
+    "uikName": "УИК №93",
+    "regionCode": "65",
+    "regionTvd": "100100225883656",
+    "regionName": "Сахалинская область",
+    "oikTvd": "100100225883657",
+    "oikName": "Сахалинская область – Сахалинский",
+    "district": {
+      "districtNumber": 167,
+      "oikTvd": "100100225883657"
+    }
   },
   {
     "uikNumber": 94,
     "uikTvd": "4654007189750",
     "tikTvd": "2652000585061",
-    "tikName": "Невельская"
+    "tikName": "Невельская",
+    "uikName": "УИК №94",
+    "regionCode": "65",
+    "regionTvd": "100100225883656",
+    "regionName": "Сахалинская область",
+    "oikTvd": "100100225883657",
+    "oikName": "Сахалинская область – Сахалинский",
+    "district": {
+      "districtNumber": 167,
+      "oikTvd": "100100225883657"
+    }
   },
   {
     "uikNumber": 95,
     "uikTvd": "4654007189751",
     "tikTvd": "2652000585061",
-    "tikName": "Невельская"
+    "tikName": "Невельская",
+    "uikName": "УИК №95",
+    "regionCode": "65",
+    "regionTvd": "100100225883656",
+    "regionName": "Сахалинская область",
+    "oikTvd": "100100225883657",
+    "oikName": "Сахалинская область – Сахалинский",
+    "district": {
+      "districtNumber": 167,
+      "oikTvd": "100100225883657"
+    }
   },
   {
     "uikNumber": 96,
     "uikTvd": "4654007189752",
     "tikTvd": "2652000585061",
-    "tikName": "Невельская"
+    "tikName": "Невельская",
+    "uikName": "УИК №96",
+    "regionCode": "65",
+    "regionTvd": "100100225883656",
+    "regionName": "Сахалинская область",
+    "oikTvd": "100100225883657",
+    "oikName": "Сахалинская область – Сахалинский",
+    "district": {
+      "districtNumber": 167,
+      "oikTvd": "100100225883657"
+    }
   },
   {
     "uikNumber": 97,
     "uikTvd": "4654007189753",
     "tikTvd": "2652000585061",
-    "tikName": "Невельская"
+    "tikName": "Невельская",
+    "uikName": "УИК №97",
+    "regionCode": "65",
+    "regionTvd": "100100225883656",
+    "regionName": "Сахалинская область",
+    "oikTvd": "100100225883657",
+    "oikName": "Сахалинская область – Сахалинский",
+    "district": {
+      "districtNumber": 167,
+      "oikTvd": "100100225883657"
+    }
   },
   {
     "uikNumber": 101,
     "uikTvd": "4654007189754",
     "tikTvd": "2652000585061",
-    "tikName": "Невельская"
+    "tikName": "Невельская",
+    "uikName": "УИК №101",
+    "regionCode": "65",
+    "regionTvd": "100100225883656",
+    "regionName": "Сахалинская область",
+    "oikTvd": "100100225883657",
+    "oikName": "Сахалинская область – Сахалинский",
+    "district": {
+      "districtNumber": 167,
+      "oikTvd": "100100225883657"
+    }
   },
   {
     "uikNumber": 102,
     "uikTvd": "4654007189755",
     "tikTvd": "2652000585061",
-    "tikName": "Невельская"
+    "tikName": "Невельская",
+    "uikName": "УИК №102",
+    "regionCode": "65",
+    "regionTvd": "100100225883656",
+    "regionName": "Сахалинская область",
+    "oikTvd": "100100225883657",
+    "oikName": "Сахалинская область – Сахалинский",
+    "district": {
+      "districtNumber": 167,
+      "oikTvd": "100100225883657"
+    }
   },
   {
     "uikNumber": 103,
     "uikTvd": "4654007189756",
     "tikTvd": "2652000585061",
-    "tikName": "Невельская"
+    "tikName": "Невельская",
+    "uikName": "УИК №103",
+    "regionCode": "65",
+    "regionTvd": "100100225883656",
+    "regionName": "Сахалинская область",
+    "oikTvd": "100100225883657",
+    "oikName": "Сахалинская область – Сахалинский",
+    "district": {
+      "districtNumber": 167,
+      "oikTvd": "100100225883657"
+    }
   },
   {
     "uikNumber": 104,
     "uikTvd": "4654007189757",
     "tikTvd": "2652000585061",
-    "tikName": "Невельская"
+    "tikName": "Невельская",
+    "uikName": "УИК №104",
+    "regionCode": "65",
+    "regionTvd": "100100225883656",
+    "regionName": "Сахалинская область",
+    "oikTvd": "100100225883657",
+    "oikName": "Сахалинская область – Сахалинский",
+    "district": {
+      "districtNumber": 167,
+      "oikTvd": "100100225883657"
+    }
   },
   {
     "uikNumber": 105,
     "uikTvd": "4654007189758",
     "tikTvd": "2652000585061",
-    "tikName": "Невельская"
+    "tikName": "Невельская",
+    "uikName": "УИК №105",
+    "regionCode": "65",
+    "regionTvd": "100100225883656",
+    "regionName": "Сахалинская область",
+    "oikTvd": "100100225883657",
+    "oikName": "Сахалинская область – Сахалинский",
+    "district": {
+      "districtNumber": 167,
+      "oikTvd": "100100225883657"
+    }
   },
   {
     "uikNumber": 106,
     "uikTvd": "4654007189759",
     "tikTvd": "2652000585061",
-    "tikName": "Невельская"
+    "tikName": "Невельская",
+    "uikName": "УИК №106",
+    "regionCode": "65",
+    "regionTvd": "100100225883656",
+    "regionName": "Сахалинская область",
+    "oikTvd": "100100225883657",
+    "oikName": "Сахалинская область – Сахалинский",
+    "district": {
+      "districtNumber": 167,
+      "oikTvd": "100100225883657"
+    }
   },
   {
     "uikNumber": 107,
     "uikTvd": "4654007189760",
     "tikTvd": "2652000585061",
-    "tikName": "Невельская"
+    "tikName": "Невельская",
+    "uikName": "УИК №107",
+    "regionCode": "65",
+    "regionTvd": "100100225883656",
+    "regionName": "Сахалинская область",
+    "oikTvd": "100100225883657",
+    "oikName": "Сахалинская область – Сахалинский",
+    "district": {
+      "districtNumber": 167,
+      "oikTvd": "100100225883657"
+    }
   },
   {
     "uikNumber": 108,
     "uikTvd": "4654008264143",
     "tikTvd": "2652000585053",
-    "tikName": "Ногликская"
+    "tikName": "Ногликская",
+    "uikName": "УИК №108",
+    "regionCode": "65",
+    "regionTvd": "100100225883656",
+    "regionName": "Сахалинская область",
+    "oikTvd": "100100225883657",
+    "oikName": "Сахалинская область – Сахалинский",
+    "district": {
+      "districtNumber": 167,
+      "oikTvd": "100100225883657"
+    }
   },
   {
     "uikNumber": 109,
     "uikTvd": "4654008264144",
     "tikTvd": "2652000585053",
-    "tikName": "Ногликская"
+    "tikName": "Ногликская",
+    "uikName": "УИК №109",
+    "regionCode": "65",
+    "regionTvd": "100100225883656",
+    "regionName": "Сахалинская область",
+    "oikTvd": "100100225883657",
+    "oikName": "Сахалинская область – Сахалинский",
+    "district": {
+      "districtNumber": 167,
+      "oikTvd": "100100225883657"
+    }
   },
   {
     "uikNumber": 110,
     "uikTvd": "4654008264145",
     "tikTvd": "2652000585053",
-    "tikName": "Ногликская"
+    "tikName": "Ногликская",
+    "uikName": "УИК №110",
+    "regionCode": "65",
+    "regionTvd": "100100225883656",
+    "regionName": "Сахалинская область",
+    "oikTvd": "100100225883657",
+    "oikName": "Сахалинская область – Сахалинский",
+    "district": {
+      "districtNumber": 167,
+      "oikTvd": "100100225883657"
+    }
   },
   {
     "uikNumber": 111,
     "uikTvd": "4654008264146",
     "tikTvd": "2652000585053",
-    "tikName": "Ногликская"
+    "tikName": "Ногликская",
+    "uikName": "УИК №111",
+    "regionCode": "65",
+    "regionTvd": "100100225883656",
+    "regionName": "Сахалинская область",
+    "oikTvd": "100100225883657",
+    "oikName": "Сахалинская область – Сахалинский",
+    "district": {
+      "districtNumber": 167,
+      "oikTvd": "100100225883657"
+    }
   },
   {
     "uikNumber": 112,
     "uikTvd": "4654008264147",
     "tikTvd": "2652000585053",
-    "tikName": "Ногликская"
+    "tikName": "Ногликская",
+    "uikName": "УИК №112",
+    "regionCode": "65",
+    "regionTvd": "100100225883656",
+    "regionName": "Сахалинская область",
+    "oikTvd": "100100225883657",
+    "oikName": "Сахалинская область – Сахалинский",
+    "district": {
+      "districtNumber": 167,
+      "oikTvd": "100100225883657"
+    }
   },
   {
     "uikNumber": 113,
     "uikTvd": "4654008264148",
     "tikTvd": "2652000585053",
-    "tikName": "Ногликская"
+    "tikName": "Ногликская",
+    "uikName": "УИК №113",
+    "regionCode": "65",
+    "regionTvd": "100100225883656",
+    "regionName": "Сахалинская область",
+    "oikTvd": "100100225883657",
+    "oikName": "Сахалинская область – Сахалинский",
+    "district": {
+      "districtNumber": 167,
+      "oikTvd": "100100225883657"
+    }
   },
   {
     "uikNumber": 114,
     "uikTvd": "4654008264149",
     "tikTvd": "2652000585053",
-    "tikName": "Ногликская"
+    "tikName": "Ногликская",
+    "uikName": "УИК №114",
+    "regionCode": "65",
+    "regionTvd": "100100225883656",
+    "regionName": "Сахалинская область",
+    "oikTvd": "100100225883657",
+    "oikName": "Сахалинская область – Сахалинский",
+    "district": {
+      "districtNumber": 167,
+      "oikTvd": "100100225883657"
+    }
   },
   {
     "uikNumber": 115,
     "uikTvd": "4654008264150",
     "tikTvd": "2652000585053",
-    "tikName": "Ногликская"
+    "tikName": "Ногликская",
+    "uikName": "УИК №115",
+    "regionCode": "65",
+    "regionTvd": "100100225883656",
+    "regionName": "Сахалинская область",
+    "oikTvd": "100100225883657",
+    "oikName": "Сахалинская область – Сахалинский",
+    "district": {
+      "districtNumber": 167,
+      "oikTvd": "100100225883657"
+    }
   },
   {
     "uikNumber": 116,
     "uikTvd": "4654009166191",
     "tikTvd": "2652000585065",
-    "tikName": "Охинская"
+    "tikName": "Охинская",
+    "uikName": "УИК №116",
+    "regionCode": "65",
+    "regionTvd": "100100225883656",
+    "regionName": "Сахалинская область",
+    "oikTvd": "100100225883657",
+    "oikName": "Сахалинская область – Сахалинский",
+    "district": {
+      "districtNumber": 167,
+      "oikTvd": "100100225883657"
+    }
   },
   {
     "uikNumber": 117,
     "uikTvd": "4654009166192",
     "tikTvd": "2652000585065",
-    "tikName": "Охинская"
+    "tikName": "Охинская",
+    "uikName": "УИК №117",
+    "regionCode": "65",
+    "regionTvd": "100100225883656",
+    "regionName": "Сахалинская область",
+    "oikTvd": "100100225883657",
+    "oikName": "Сахалинская область – Сахалинский",
+    "district": {
+      "districtNumber": 167,
+      "oikTvd": "100100225883657"
+    }
   },
   {
     "uikNumber": 118,
     "uikTvd": "4654009166193",
     "tikTvd": "2652000585065",
-    "tikName": "Охинская"
+    "tikName": "Охинская",
+    "uikName": "УИК №118",
+    "regionCode": "65",
+    "regionTvd": "100100225883656",
+    "regionName": "Сахалинская область",
+    "oikTvd": "100100225883657",
+    "oikName": "Сахалинская область – Сахалинский",
+    "district": {
+      "districtNumber": 167,
+      "oikTvd": "100100225883657"
+    }
   },
   {
     "uikNumber": 119,
     "uikTvd": "4654009166194",
     "tikTvd": "2652000585065",
-    "tikName": "Охинская"
+    "tikName": "Охинская",
+    "uikName": "УИК №119",
+    "regionCode": "65",
+    "regionTvd": "100100225883656",
+    "regionName": "Сахалинская область",
+    "oikTvd": "100100225883657",
+    "oikName": "Сахалинская область – Сахалинский",
+    "district": {
+      "districtNumber": 167,
+      "oikTvd": "100100225883657"
+    }
   },
   {
     "uikNumber": 120,
     "uikTvd": "4654009166195",
     "tikTvd": "2652000585065",
-    "tikName": "Охинская"
+    "tikName": "Охинская",
+    "uikName": "УИК №120",
+    "regionCode": "65",
+    "regionTvd": "100100225883656",
+    "regionName": "Сахалинская область",
+    "oikTvd": "100100225883657",
+    "oikName": "Сахалинская область – Сахалинский",
+    "district": {
+      "districtNumber": 167,
+      "oikTvd": "100100225883657"
+    }
   },
   {
     "uikNumber": 121,
     "uikTvd": "4654009166196",
     "tikTvd": "2652000585065",
-    "tikName": "Охинская"
+    "tikName": "Охинская",
+    "uikName": "УИК №121",
+    "regionCode": "65",
+    "regionTvd": "100100225883656",
+    "regionName": "Сахалинская область",
+    "oikTvd": "100100225883657",
+    "oikName": "Сахалинская область – Сахалинский",
+    "district": {
+      "districtNumber": 167,
+      "oikTvd": "100100225883657"
+    }
   },
   {
     "uikNumber": 122,
     "uikTvd": "4654009166197",
     "tikTvd": "2652000585065",
-    "tikName": "Охинская"
+    "tikName": "Охинская",
+    "uikName": "УИК №122",
+    "regionCode": "65",
+    "regionTvd": "100100225883656",
+    "regionName": "Сахалинская область",
+    "oikTvd": "100100225883657",
+    "oikName": "Сахалинская область – Сахалинский",
+    "district": {
+      "districtNumber": 167,
+      "oikTvd": "100100225883657"
+    }
   },
   {
     "uikNumber": 123,
     "uikTvd": "4654009166198",
     "tikTvd": "2652000585065",
-    "tikName": "Охинская"
+    "tikName": "Охинская",
+    "uikName": "УИК №123",
+    "regionCode": "65",
+    "regionTvd": "100100225883656",
+    "regionName": "Сахалинская область",
+    "oikTvd": "100100225883657",
+    "oikName": "Сахалинская область – Сахалинский",
+    "district": {
+      "districtNumber": 167,
+      "oikTvd": "100100225883657"
+    }
   },
   {
     "uikNumber": 124,
     "uikTvd": "4654009166199",
     "tikTvd": "2652000585065",
-    "tikName": "Охинская"
+    "tikName": "Охинская",
+    "uikName": "УИК №124",
+    "regionCode": "65",
+    "regionTvd": "100100225883656",
+    "regionName": "Сахалинская область",
+    "oikTvd": "100100225883657",
+    "oikName": "Сахалинская область – Сахалинский",
+    "district": {
+      "districtNumber": 167,
+      "oikTvd": "100100225883657"
+    }
   },
   {
     "uikNumber": 125,
     "uikTvd": "4654009166200",
     "tikTvd": "2652000585065",
-    "tikName": "Охинская"
+    "tikName": "Охинская",
+    "uikName": "УИК №125",
+    "regionCode": "65",
+    "regionTvd": "100100225883656",
+    "regionName": "Сахалинская область",
+    "oikTvd": "100100225883657",
+    "oikName": "Сахалинская область – Сахалинский",
+    "district": {
+      "districtNumber": 167,
+      "oikTvd": "100100225883657"
+    }
   },
   {
     "uikNumber": 126,
     "uikTvd": "4654009166201",
     "tikTvd": "2652000585065",
-    "tikName": "Охинская"
+    "tikName": "Охинская",
+    "uikName": "УИК №126",
+    "regionCode": "65",
+    "regionTvd": "100100225883656",
+    "regionName": "Сахалинская область",
+    "oikTvd": "100100225883657",
+    "oikName": "Сахалинская область – Сахалинский",
+    "district": {
+      "districtNumber": 167,
+      "oikTvd": "100100225883657"
+    }
   },
   {
     "uikNumber": 127,
     "uikTvd": "4654009167992",
     "tikTvd": "2652000585065",
-    "tikName": "Охинская"
+    "tikName": "Охинская",
+    "uikName": "УИК №127",
+    "regionCode": "65",
+    "regionTvd": "100100225883656",
+    "regionName": "Сахалинская область",
+    "oikTvd": "100100225883657",
+    "oikName": "Сахалинская область – Сахалинский",
+    "district": {
+      "districtNumber": 167,
+      "oikTvd": "100100225883657"
+    }
   },
   {
     "uikNumber": 128,
     "uikTvd": "4654009166203",
     "tikTvd": "2652000585065",
-    "tikName": "Охинская"
+    "tikName": "Охинская",
+    "uikName": "УИК №128",
+    "regionCode": "65",
+    "regionTvd": "100100225883656",
+    "regionName": "Сахалинская область",
+    "oikTvd": "100100225883657",
+    "oikName": "Сахалинская область – Сахалинский",
+    "district": {
+      "districtNumber": 167,
+      "oikTvd": "100100225883657"
+    }
   },
   {
     "uikNumber": 129,
     "uikTvd": "4654009166204",
     "tikTvd": "2652000585065",
-    "tikName": "Охинская"
+    "tikName": "Охинская",
+    "uikName": "УИК №129",
+    "regionCode": "65",
+    "regionTvd": "100100225883656",
+    "regionName": "Сахалинская область",
+    "oikTvd": "100100225883657",
+    "oikName": "Сахалинская область – Сахалинский",
+    "district": {
+      "districtNumber": 167,
+      "oikTvd": "100100225883657"
+    }
   },
   {
     "uikNumber": 130,
     "uikTvd": "4654009166205",
     "tikTvd": "2652000585065",
-    "tikName": "Охинская"
+    "tikName": "Охинская",
+    "uikName": "УИК №130",
+    "regionCode": "65",
+    "regionTvd": "100100225883656",
+    "regionName": "Сахалинская область",
+    "oikTvd": "100100225883657",
+    "oikName": "Сахалинская область – Сахалинский",
+    "district": {
+      "districtNumber": 167,
+      "oikTvd": "100100225883657"
+    }
   },
   {
     "uikNumber": 131,
     "uikTvd": "4654009166206",
     "tikTvd": "2652000585065",
-    "tikName": "Охинская"
+    "tikName": "Охинская",
+    "uikName": "УИК №131",
+    "regionCode": "65",
+    "regionTvd": "100100225883656",
+    "regionName": "Сахалинская область",
+    "oikTvd": "100100225883657",
+    "oikName": "Сахалинская область – Сахалинский",
+    "district": {
+      "districtNumber": 167,
+      "oikTvd": "100100225883657"
+    }
   },
   {
     "uikNumber": 132,
     "uikTvd": "4654009166207",
     "tikTvd": "2652000585065",
-    "tikName": "Охинская"
+    "tikName": "Охинская",
+    "uikName": "УИК №132",
+    "regionCode": "65",
+    "regionTvd": "100100225883656",
+    "regionName": "Сахалинская область",
+    "oikTvd": "100100225883657",
+    "oikName": "Сахалинская область – Сахалинский",
+    "district": {
+      "districtNumber": 167,
+      "oikTvd": "100100225883657"
+    }
   },
   {
     "uikNumber": 133,
     "uikTvd": "4654009166208",
     "tikTvd": "2652000585065",
-    "tikName": "Охинская"
+    "tikName": "Охинская",
+    "uikName": "УИК №133",
+    "regionCode": "65",
+    "regionTvd": "100100225883656",
+    "regionName": "Сахалинская область",
+    "oikTvd": "100100225883657",
+    "oikName": "Сахалинская область – Сахалинский",
+    "district": {
+      "districtNumber": 167,
+      "oikTvd": "100100225883657"
+    }
   },
   {
     "uikNumber": 141,
     "uikTvd": "4664010186308",
     "tikTvd": "2652000585058",
-    "tikName": "Поронайская"
+    "tikName": "Поронайская",
+    "uikName": "УИК №141",
+    "regionCode": "65",
+    "regionTvd": "100100225883656",
+    "regionName": "Сахалинская область",
+    "oikTvd": "100100225883657",
+    "oikName": "Сахалинская область – Сахалинский",
+    "district": {
+      "districtNumber": 167,
+      "oikTvd": "100100225883657"
+    }
   },
   {
     "uikNumber": 142,
     "uikTvd": "4664010186309",
     "tikTvd": "2652000585058",
-    "tikName": "Поронайская"
+    "tikName": "Поронайская",
+    "uikName": "УИК №142",
+    "regionCode": "65",
+    "regionTvd": "100100225883656",
+    "regionName": "Сахалинская область",
+    "oikTvd": "100100225883657",
+    "oikName": "Сахалинская область – Сахалинский",
+    "district": {
+      "districtNumber": 167,
+      "oikTvd": "100100225883657"
+    }
   },
   {
     "uikNumber": 143,
     "uikTvd": "4664010186310",
     "tikTvd": "2652000585058",
-    "tikName": "Поронайская"
+    "tikName": "Поронайская",
+    "uikName": "УИК №143",
+    "regionCode": "65",
+    "regionTvd": "100100225883656",
+    "regionName": "Сахалинская область",
+    "oikTvd": "100100225883657",
+    "oikName": "Сахалинская область – Сахалинский",
+    "district": {
+      "districtNumber": 167,
+      "oikTvd": "100100225883657"
+    }
   },
   {
     "uikNumber": 144,
     "uikTvd": "4664010186311",
     "tikTvd": "2652000585058",
-    "tikName": "Поронайская"
+    "tikName": "Поронайская",
+    "uikName": "УИК №144",
+    "regionCode": "65",
+    "regionTvd": "100100225883656",
+    "regionName": "Сахалинская область",
+    "oikTvd": "100100225883657",
+    "oikName": "Сахалинская область – Сахалинский",
+    "district": {
+      "districtNumber": 167,
+      "oikTvd": "100100225883657"
+    }
   },
   {
     "uikNumber": 145,
     "uikTvd": "4664010186312",
     "tikTvd": "2652000585058",
-    "tikName": "Поронайская"
+    "tikName": "Поронайская",
+    "uikName": "УИК №145",
+    "regionCode": "65",
+    "regionTvd": "100100225883656",
+    "regionName": "Сахалинская область",
+    "oikTvd": "100100225883657",
+    "oikName": "Сахалинская область – Сахалинский",
+    "district": {
+      "districtNumber": 167,
+      "oikTvd": "100100225883657"
+    }
   },
   {
     "uikNumber": 146,
     "uikTvd": "4664010186314",
     "tikTvd": "2652000585058",
-    "tikName": "Поронайская"
+    "tikName": "Поронайская",
+    "uikName": "УИК №146",
+    "regionCode": "65",
+    "regionTvd": "100100225883656",
+    "regionName": "Сахалинская область",
+    "oikTvd": "100100225883657",
+    "oikName": "Сахалинская область – Сахалинский",
+    "district": {
+      "districtNumber": 167,
+      "oikTvd": "100100225883657"
+    }
   },
   {
     "uikNumber": 147,
     "uikTvd": "4664010186315",
     "tikTvd": "2652000585058",
-    "tikName": "Поронайская"
+    "tikName": "Поронайская",
+    "uikName": "УИК №147",
+    "regionCode": "65",
+    "regionTvd": "100100225883656",
+    "regionName": "Сахалинская область",
+    "oikTvd": "100100225883657",
+    "oikName": "Сахалинская область – Сахалинский",
+    "district": {
+      "districtNumber": 167,
+      "oikTvd": "100100225883657"
+    }
   },
   {
     "uikNumber": 149,
     "uikTvd": "4664010186316",
     "tikTvd": "2652000585058",
-    "tikName": "Поронайская"
+    "tikName": "Поронайская",
+    "uikName": "УИК №149",
+    "regionCode": "65",
+    "regionTvd": "100100225883656",
+    "regionName": "Сахалинская область",
+    "oikTvd": "100100225883657",
+    "oikName": "Сахалинская область – Сахалинский",
+    "district": {
+      "districtNumber": 167,
+      "oikTvd": "100100225883657"
+    }
   },
   {
     "uikNumber": 150,
     "uikTvd": "4664010186317",
     "tikTvd": "2652000585058",
-    "tikName": "Поронайская"
+    "tikName": "Поронайская",
+    "uikName": "УИК №150",
+    "regionCode": "65",
+    "regionTvd": "100100225883656",
+    "regionName": "Сахалинская область",
+    "oikTvd": "100100225883657",
+    "oikName": "Сахалинская область – Сахалинский",
+    "district": {
+      "districtNumber": 167,
+      "oikTvd": "100100225883657"
+    }
   },
   {
     "uikNumber": 151,
     "uikTvd": "4664010186318",
     "tikTvd": "2652000585058",
-    "tikName": "Поронайская"
+    "tikName": "Поронайская",
+    "uikName": "УИК №151",
+    "regionCode": "65",
+    "regionTvd": "100100225883656",
+    "regionName": "Сахалинская область",
+    "oikTvd": "100100225883657",
+    "oikName": "Сахалинская область – Сахалинский",
+    "district": {
+      "districtNumber": 167,
+      "oikTvd": "100100225883657"
+    }
   },
   {
     "uikNumber": 152,
     "uikTvd": "4664010186319",
     "tikTvd": "2652000585058",
-    "tikName": "Поронайская"
+    "tikName": "Поронайская",
+    "uikName": "УИК №152",
+    "regionCode": "65",
+    "regionTvd": "100100225883656",
+    "regionName": "Сахалинская область",
+    "oikTvd": "100100225883657",
+    "oikName": "Сахалинская область – Сахалинский",
+    "district": {
+      "districtNumber": 167,
+      "oikTvd": "100100225883657"
+    }
   },
   {
     "uikNumber": 153,
     "uikTvd": "4664010186320",
     "tikTvd": "2652000585058",
-    "tikName": "Поронайская"
+    "tikName": "Поронайская",
+    "uikName": "УИК №153",
+    "regionCode": "65",
+    "regionTvd": "100100225883656",
+    "regionName": "Сахалинская область",
+    "oikTvd": "100100225883657",
+    "oikName": "Сахалинская область – Сахалинский",
+    "district": {
+      "districtNumber": 167,
+      "oikTvd": "100100225883657"
+    }
   },
   {
     "uikNumber": 155,
     "uikTvd": "4664010186322",
     "tikTvd": "2652000585058",
-    "tikName": "Поронайская"
+    "tikName": "Поронайская",
+    "uikName": "УИК №155",
+    "regionCode": "65",
+    "regionTvd": "100100225883656",
+    "regionName": "Сахалинская область",
+    "oikTvd": "100100225883657",
+    "oikName": "Сахалинская область – Сахалинский",
+    "district": {
+      "districtNumber": 167,
+      "oikTvd": "100100225883657"
+    }
   },
   {
     "uikNumber": 157,
     "uikTvd": "4664010186323",
     "tikTvd": "2652000585058",
-    "tikName": "Поронайская"
+    "tikName": "Поронайская",
+    "uikName": "УИК №157",
+    "regionCode": "65",
+    "regionTvd": "100100225883656",
+    "regionName": "Сахалинская область",
+    "oikTvd": "100100225883657",
+    "oikName": "Сахалинская область – Сахалинский",
+    "district": {
+      "districtNumber": 167,
+      "oikTvd": "100100225883657"
+    }
   },
   {
     "uikNumber": 160,
     "uikTvd": "4654011120655",
     "tikTvd": "2652000585071",
-    "tikName": "Северо-Курильская"
+    "tikName": "Северо-Курильская",
+    "uikName": "УИК №160",
+    "regionCode": "65",
+    "regionTvd": "100100225883656",
+    "regionName": "Сахалинская область",
+    "oikTvd": "100100225883657",
+    "oikName": "Сахалинская область – Сахалинский",
+    "district": {
+      "districtNumber": 167,
+      "oikTvd": "100100225883657"
+    }
   },
   {
     "uikNumber": 161,
     "uikTvd": "4654011121803",
     "tikTvd": "2652000585071",
-    "tikName": "Северо-Курильская"
+    "tikName": "Северо-Курильская",
+    "uikName": "УИК №161",
+    "regionCode": "65",
+    "regionTvd": "100100225883656",
+    "regionName": "Сахалинская область",
+    "oikTvd": "100100225883657",
+    "oikName": "Сахалинская область – Сахалинский",
+    "district": {
+      "districtNumber": 167,
+      "oikTvd": "100100225883657"
+    }
   },
   {
     "uikNumber": 163,
     "uikTvd": "4654012144962",
     "tikTvd": "2652000585055",
-    "tikName": "Смирныховская"
+    "tikName": "Смирныховская",
+    "uikName": "УИК №163",
+    "regionCode": "65",
+    "regionTvd": "100100225883656",
+    "regionName": "Сахалинская область",
+    "oikTvd": "100100225883657",
+    "oikName": "Сахалинская область – Сахалинский",
+    "district": {
+      "districtNumber": 167,
+      "oikTvd": "100100225883657"
+    }
   },
   {
     "uikNumber": 164,
     "uikTvd": "4654012144967",
     "tikTvd": "2652000585055",
-    "tikName": "Смирныховская"
+    "tikName": "Смирныховская",
+    "uikName": "УИК №164",
+    "regionCode": "65",
+    "regionTvd": "100100225883656",
+    "regionName": "Сахалинская область",
+    "oikTvd": "100100225883657",
+    "oikName": "Сахалинская область – Сахалинский",
+    "district": {
+      "districtNumber": 167,
+      "oikTvd": "100100225883657"
+    }
   },
   {
     "uikNumber": 165,
     "uikTvd": "4654012144964",
     "tikTvd": "2652000585055",
-    "tikName": "Смирныховская"
+    "tikName": "Смирныховская",
+    "uikName": "УИК №165",
+    "regionCode": "65",
+    "regionTvd": "100100225883656",
+    "regionName": "Сахалинская область",
+    "oikTvd": "100100225883657",
+    "oikName": "Сахалинская область – Сахалинский",
+    "district": {
+      "districtNumber": 167,
+      "oikTvd": "100100225883657"
+    }
   },
   {
     "uikNumber": 166,
     "uikTvd": "4654012144969",
     "tikTvd": "2652000585055",
-    "tikName": "Смирныховская"
+    "tikName": "Смирныховская",
+    "uikName": "УИК №166",
+    "regionCode": "65",
+    "regionTvd": "100100225883656",
+    "regionName": "Сахалинская область",
+    "oikTvd": "100100225883657",
+    "oikName": "Сахалинская область – Сахалинский",
+    "district": {
+      "districtNumber": 167,
+      "oikTvd": "100100225883657"
+    }
   },
   {
     "uikNumber": 168,
     "uikTvd": "4654012144971",
     "tikTvd": "2652000585055",
-    "tikName": "Смирныховская"
+    "tikName": "Смирныховская",
+    "uikName": "УИК №168",
+    "regionCode": "65",
+    "regionTvd": "100100225883656",
+    "regionName": "Сахалинская область",
+    "oikTvd": "100100225883657",
+    "oikName": "Сахалинская область – Сахалинский",
+    "district": {
+      "districtNumber": 167,
+      "oikTvd": "100100225883657"
+    }
   },
   {
     "uikNumber": 169,
     "uikTvd": "4654012144973",
     "tikTvd": "2652000585055",
-    "tikName": "Смирныховская"
+    "tikName": "Смирныховская",
+    "uikName": "УИК №169",
+    "regionCode": "65",
+    "regionTvd": "100100225883656",
+    "regionName": "Сахалинская область",
+    "oikTvd": "100100225883657",
+    "oikName": "Сахалинская область – Сахалинский",
+    "district": {
+      "districtNumber": 167,
+      "oikTvd": "100100225883657"
+    }
   },
   {
     "uikNumber": 170,
     "uikTvd": "4654012144975",
     "tikTvd": "2652000585055",
-    "tikName": "Смирныховская"
+    "tikName": "Смирныховская",
+    "uikName": "УИК №170",
+    "regionCode": "65",
+    "regionTvd": "100100225883656",
+    "regionName": "Сахалинская область",
+    "oikTvd": "100100225883657",
+    "oikName": "Сахалинская область – Сахалинский",
+    "district": {
+      "districtNumber": 167,
+      "oikTvd": "100100225883657"
+    }
   },
   {
     "uikNumber": 171,
     "uikTvd": "4654012144977",
     "tikTvd": "2652000585055",
-    "tikName": "Смирныховская"
+    "tikName": "Смирныховская",
+    "uikName": "УИК №171",
+    "regionCode": "65",
+    "regionTvd": "100100225883656",
+    "regionName": "Сахалинская область",
+    "oikTvd": "100100225883657",
+    "oikName": "Сахалинская область – Сахалинский",
+    "district": {
+      "districtNumber": 167,
+      "oikTvd": "100100225883657"
+    }
   },
   {
     "uikNumber": 172,
     "uikTvd": "4654012144979",
     "tikTvd": "2652000585055",
-    "tikName": "Смирныховская"
+    "tikName": "Смирныховская",
+    "uikName": "УИК №172",
+    "regionCode": "65",
+    "regionTvd": "100100225883656",
+    "regionName": "Сахалинская область",
+    "oikTvd": "100100225883657",
+    "oikName": "Сахалинская область – Сахалинский",
+    "district": {
+      "districtNumber": 167,
+      "oikTvd": "100100225883657"
+    }
   },
   {
     "uikNumber": 173,
     "uikTvd": "4654012144981",
     "tikTvd": "2652000585055",
-    "tikName": "Смирныховская"
+    "tikName": "Смирныховская",
+    "uikName": "УИК №173",
+    "regionCode": "65",
+    "regionTvd": "100100225883656",
+    "regionName": "Сахалинская область",
+    "oikTvd": "100100225883657",
+    "oikName": "Сахалинская область – Сахалинский",
+    "district": {
+      "districtNumber": 167,
+      "oikTvd": "100100225883657"
+    }
   },
   {
     "uikNumber": 177,
     "uikTvd": "4654013140058",
     "tikTvd": "2652000585066",
-    "tikName": "Томаринская"
+    "tikName": "Томаринская",
+    "uikName": "УИК №177",
+    "regionCode": "65",
+    "regionTvd": "100100225883656",
+    "regionName": "Сахалинская область",
+    "oikTvd": "100100225883657",
+    "oikName": "Сахалинская область – Сахалинский",
+    "district": {
+      "districtNumber": 167,
+      "oikTvd": "100100225883657"
+    }
   },
   {
     "uikNumber": 178,
     "uikTvd": "4654013140059",
     "tikTvd": "2652000585066",
-    "tikName": "Томаринская"
+    "tikName": "Томаринская",
+    "uikName": "УИК №178",
+    "regionCode": "65",
+    "regionTvd": "100100225883656",
+    "regionName": "Сахалинская область",
+    "oikTvd": "100100225883657",
+    "oikName": "Сахалинская область – Сахалинский",
+    "district": {
+      "districtNumber": 167,
+      "oikTvd": "100100225883657"
+    }
   },
   {
     "uikNumber": 179,
     "uikTvd": "4654013140060",
     "tikTvd": "2652000585066",
-    "tikName": "Томаринская"
+    "tikName": "Томаринская",
+    "uikName": "УИК №179",
+    "regionCode": "65",
+    "regionTvd": "100100225883656",
+    "regionName": "Сахалинская область",
+    "oikTvd": "100100225883657",
+    "oikName": "Сахалинская область – Сахалинский",
+    "district": {
+      "districtNumber": 167,
+      "oikTvd": "100100225883657"
+    }
   },
   {
     "uikNumber": 180,
     "uikTvd": "4654013140061",
     "tikTvd": "2652000585066",
-    "tikName": "Томаринская"
+    "tikName": "Томаринская",
+    "uikName": "УИК №180",
+    "regionCode": "65",
+    "regionTvd": "100100225883656",
+    "regionName": "Сахалинская область",
+    "oikTvd": "100100225883657",
+    "oikName": "Сахалинская область – Сахалинский",
+    "district": {
+      "districtNumber": 167,
+      "oikTvd": "100100225883657"
+    }
   },
   {
     "uikNumber": 181,
     "uikTvd": "4654013140062",
     "tikTvd": "2652000585066",
-    "tikName": "Томаринская"
+    "tikName": "Томаринская",
+    "uikName": "УИК №181",
+    "regionCode": "65",
+    "regionTvd": "100100225883656",
+    "regionName": "Сахалинская область",
+    "oikTvd": "100100225883657",
+    "oikName": "Сахалинская область – Сахалинский",
+    "district": {
+      "districtNumber": 167,
+      "oikTvd": "100100225883657"
+    }
   },
   {
     "uikNumber": 182,
     "uikTvd": "4654013140063",
     "tikTvd": "2652000585066",
-    "tikName": "Томаринская"
+    "tikName": "Томаринская",
+    "uikName": "УИК №182",
+    "regionCode": "65",
+    "regionTvd": "100100225883656",
+    "regionName": "Сахалинская область",
+    "oikTvd": "100100225883657",
+    "oikName": "Сахалинская область – Сахалинский",
+    "district": {
+      "districtNumber": 167,
+      "oikTvd": "100100225883657"
+    }
   },
   {
     "uikNumber": 183,
     "uikTvd": "4654013140064",
     "tikTvd": "2652000585066",
-    "tikName": "Томаринская"
+    "tikName": "Томаринская",
+    "uikName": "УИК №183",
+    "regionCode": "65",
+    "regionTvd": "100100225883656",
+    "regionName": "Сахалинская область",
+    "oikTvd": "100100225883657",
+    "oikName": "Сахалинская область – Сахалинский",
+    "district": {
+      "districtNumber": 167,
+      "oikTvd": "100100225883657"
+    }
   },
   {
     "uikNumber": 184,
     "uikTvd": "4654013140065",
     "tikTvd": "2652000585066",
-    "tikName": "Томаринская"
+    "tikName": "Томаринская",
+    "uikName": "УИК №184",
+    "regionCode": "65",
+    "regionTvd": "100100225883656",
+    "regionName": "Сахалинская область",
+    "oikTvd": "100100225883657",
+    "oikName": "Сахалинская область – Сахалинский",
+    "district": {
+      "districtNumber": 167,
+      "oikTvd": "100100225883657"
+    }
   },
   {
     "uikNumber": 185,
     "uikTvd": "4654013140066",
     "tikTvd": "2652000585066",
-    "tikName": "Томаринская"
+    "tikName": "Томаринская",
+    "uikName": "УИК №185",
+    "regionCode": "65",
+    "regionTvd": "100100225883656",
+    "regionName": "Сахалинская область",
+    "oikTvd": "100100225883657",
+    "oikName": "Сахалинская область – Сахалинский",
+    "district": {
+      "districtNumber": 167,
+      "oikTvd": "100100225883657"
+    }
   },
   {
     "uikNumber": 187,
     "uikTvd": "4654013140067",
     "tikTvd": "2652000585066",
-    "tikName": "Томаринская"
+    "tikName": "Томаринская",
+    "uikName": "УИК №187",
+    "regionCode": "65",
+    "regionTvd": "100100225883656",
+    "regionName": "Сахалинская область",
+    "oikTvd": "100100225883657",
+    "oikName": "Сахалинская область – Сахалинский",
+    "district": {
+      "districtNumber": 167,
+      "oikTvd": "100100225883657"
+    }
   },
   {
     "uikNumber": 188,
     "uikTvd": "4654013140068",
     "tikTvd": "2652000585066",
-    "tikName": "Томаринская"
+    "tikName": "Томаринская",
+    "uikName": "УИК №188",
+    "regionCode": "65",
+    "regionTvd": "100100225883656",
+    "regionName": "Сахалинская область",
+    "oikTvd": "100100225883657",
+    "oikName": "Сахалинская область – Сахалинский",
+    "district": {
+      "districtNumber": 167,
+      "oikTvd": "100100225883657"
+    }
   },
   {
     "uikNumber": 192,
     "uikTvd": "4654014187574",
     "tikTvd": "2652000585063",
-    "tikName": "Тымовская"
+    "tikName": "Тымовская",
+    "uikName": "УИК №192",
+    "regionCode": "65",
+    "regionTvd": "100100225883656",
+    "regionName": "Сахалинская область",
+    "oikTvd": "100100225883657",
+    "oikName": "Сахалинская область – Сахалинский",
+    "district": {
+      "districtNumber": 167,
+      "oikTvd": "100100225883657"
+    }
   },
   {
     "uikNumber": 194,
     "uikTvd": "4654014187576",
     "tikTvd": "2652000585063",
-    "tikName": "Тымовская"
+    "tikName": "Тымовская",
+    "uikName": "УИК №194",
+    "regionCode": "65",
+    "regionTvd": "100100225883656",
+    "regionName": "Сахалинская область",
+    "oikTvd": "100100225883657",
+    "oikName": "Сахалинская область – Сахалинский",
+    "district": {
+      "districtNumber": 167,
+      "oikTvd": "100100225883657"
+    }
   },
   {
     "uikNumber": 196,
     "uikTvd": "4654014187578",
     "tikTvd": "2652000585063",
-    "tikName": "Тымовская"
+    "tikName": "Тымовская",
+    "uikName": "УИК №196",
+    "regionCode": "65",
+    "regionTvd": "100100225883656",
+    "regionName": "Сахалинская область",
+    "oikTvd": "100100225883657",
+    "oikName": "Сахалинская область – Сахалинский",
+    "district": {
+      "districtNumber": 167,
+      "oikTvd": "100100225883657"
+    }
   },
   {
     "uikNumber": 198,
     "uikTvd": "4654014187580",
     "tikTvd": "2652000585063",
-    "tikName": "Тымовская"
+    "tikName": "Тымовская",
+    "uikName": "УИК №198",
+    "regionCode": "65",
+    "regionTvd": "100100225883656",
+    "regionName": "Сахалинская область",
+    "oikTvd": "100100225883657",
+    "oikName": "Сахалинская область – Сахалинский",
+    "district": {
+      "districtNumber": 167,
+      "oikTvd": "100100225883657"
+    }
   },
   {
     "uikNumber": 199,
     "uikTvd": "4654014187582",
     "tikTvd": "2652000585063",
-    "tikName": "Тымовская"
+    "tikName": "Тымовская",
+    "uikName": "УИК №199",
+    "regionCode": "65",
+    "regionTvd": "100100225883656",
+    "regionName": "Сахалинская область",
+    "oikTvd": "100100225883657",
+    "oikName": "Сахалинская область – Сахалинский",
+    "district": {
+      "districtNumber": 167,
+      "oikTvd": "100100225883657"
+    }
   },
   {
     "uikNumber": 201,
     "uikTvd": "4654014187584",
     "tikTvd": "2652000585063",
-    "tikName": "Тымовская"
+    "tikName": "Тымовская",
+    "uikName": "УИК №201",
+    "regionCode": "65",
+    "regionTvd": "100100225883656",
+    "regionName": "Сахалинская область",
+    "oikTvd": "100100225883657",
+    "oikName": "Сахалинская область – Сахалинский",
+    "district": {
+      "districtNumber": 167,
+      "oikTvd": "100100225883657"
+    }
   },
   {
     "uikNumber": 202,
     "uikTvd": "4654014187586",
     "tikTvd": "2652000585063",
-    "tikName": "Тымовская"
+    "tikName": "Тымовская",
+    "uikName": "УИК №202",
+    "regionCode": "65",
+    "regionTvd": "100100225883656",
+    "regionName": "Сахалинская область",
+    "oikTvd": "100100225883657",
+    "oikName": "Сахалинская область – Сахалинский",
+    "district": {
+      "districtNumber": 167,
+      "oikTvd": "100100225883657"
+    }
   },
   {
     "uikNumber": 203,
     "uikTvd": "4654014187588",
     "tikTvd": "2652000585063",
-    "tikName": "Тымовская"
+    "tikName": "Тымовская",
+    "uikName": "УИК №203",
+    "regionCode": "65",
+    "regionTvd": "100100225883656",
+    "regionName": "Сахалинская область",
+    "oikTvd": "100100225883657",
+    "oikName": "Сахалинская область – Сахалинский",
+    "district": {
+      "districtNumber": 167,
+      "oikTvd": "100100225883657"
+    }
   },
   {
     "uikNumber": 204,
     "uikTvd": "4654014187590",
     "tikTvd": "2652000585063",
-    "tikName": "Тымовская"
+    "tikName": "Тымовская",
+    "uikName": "УИК №204",
+    "regionCode": "65",
+    "regionTvd": "100100225883656",
+    "regionName": "Сахалинская область",
+    "oikTvd": "100100225883657",
+    "oikName": "Сахалинская область – Сахалинский",
+    "district": {
+      "districtNumber": 167,
+      "oikTvd": "100100225883657"
+    }
   },
   {
     "uikNumber": 206,
     "uikTvd": "4654014187592",
     "tikTvd": "2652000585063",
-    "tikName": "Тымовская"
+    "tikName": "Тымовская",
+    "uikName": "УИК №206",
+    "regionCode": "65",
+    "regionTvd": "100100225883656",
+    "regionName": "Сахалинская область",
+    "oikTvd": "100100225883657",
+    "oikName": "Сахалинская область – Сахалинский",
+    "district": {
+      "districtNumber": 167,
+      "oikTvd": "100100225883657"
+    }
   },
   {
     "uikNumber": 207,
     "uikTvd": "4654014187594",
     "tikTvd": "2652000585063",
-    "tikName": "Тымовская"
+    "tikName": "Тымовская",
+    "uikName": "УИК №207",
+    "regionCode": "65",
+    "regionTvd": "100100225883656",
+    "regionName": "Сахалинская область",
+    "oikTvd": "100100225883657",
+    "oikName": "Сахалинская область – Сахалинский",
+    "district": {
+      "districtNumber": 167,
+      "oikTvd": "100100225883657"
+    }
   },
   {
     "uikNumber": 209,
     "uikTvd": "4654014187596",
     "tikTvd": "2652000585063",
-    "tikName": "Тымовская"
+    "tikName": "Тымовская",
+    "uikName": "УИК №209",
+    "regionCode": "65",
+    "regionTvd": "100100225883656",
+    "regionName": "Сахалинская область",
+    "oikTvd": "100100225883657",
+    "oikName": "Сахалинская область – Сахалинский",
+    "district": {
+      "districtNumber": 167,
+      "oikTvd": "100100225883657"
+    }
   },
   {
     "uikNumber": 210,
     "uikTvd": "4654014187598",
     "tikTvd": "2652000585063",
-    "tikName": "Тымовская"
+    "tikName": "Тымовская",
+    "uikName": "УИК №210",
+    "regionCode": "65",
+    "regionTvd": "100100225883656",
+    "regionName": "Сахалинская область",
+    "oikTvd": "100100225883657",
+    "oikName": "Сахалинская область – Сахалинский",
+    "district": {
+      "districtNumber": 167,
+      "oikTvd": "100100225883657"
+    }
   },
   {
     "uikNumber": 211,
     "uikTvd": "4654014187600",
     "tikTvd": "2652000585063",
-    "tikName": "Тымовская"
+    "tikName": "Тымовская",
+    "uikName": "УИК №211",
+    "regionCode": "65",
+    "regionTvd": "100100225883656",
+    "regionName": "Сахалинская область",
+    "oikTvd": "100100225883657",
+    "oikName": "Сахалинская область – Сахалинский",
+    "district": {
+      "districtNumber": 167,
+      "oikTvd": "100100225883657"
+    }
   },
   {
     "uikNumber": 212,
     "uikTvd": "4654014187602",
     "tikTvd": "2652000585063",
-    "tikName": "Тымовская"
+    "tikName": "Тымовская",
+    "uikName": "УИК №212",
+    "regionCode": "65",
+    "regionTvd": "100100225883656",
+    "regionName": "Сахалинская область",
+    "oikTvd": "100100225883657",
+    "oikName": "Сахалинская область – Сахалинский",
+    "district": {
+      "districtNumber": 167,
+      "oikTvd": "100100225883657"
+    }
   },
   {
     "uikNumber": 213,
     "uikTvd": "4654014187604",
     "tikTvd": "2652000585063",
-    "tikName": "Тымовская"
+    "tikName": "Тымовская",
+    "uikName": "УИК №213",
+    "regionCode": "65",
+    "regionTvd": "100100225883656",
+    "regionName": "Сахалинская область",
+    "oikTvd": "100100225883657",
+    "oikName": "Сахалинская область – Сахалинский",
+    "district": {
+      "districtNumber": 167,
+      "oikTvd": "100100225883657"
+    }
   },
   {
     "uikNumber": 215,
     "uikTvd": "4654015291609",
     "tikTvd": "2652000585056",
-    "tikName": "Углегорская"
+    "tikName": "Углегорская",
+    "uikName": "УИК №215",
+    "regionCode": "65",
+    "regionTvd": "100100225883656",
+    "regionName": "Сахалинская область",
+    "oikTvd": "100100225883657",
+    "oikName": "Сахалинская область – Сахалинский",
+    "district": {
+      "districtNumber": 167,
+      "oikTvd": "100100225883657"
+    }
   },
   {
     "uikNumber": 216,
     "uikTvd": "4654015291610",
     "tikTvd": "2652000585056",
-    "tikName": "Углегорская"
+    "tikName": "Углегорская",
+    "uikName": "УИК №216",
+    "regionCode": "65",
+    "regionTvd": "100100225883656",
+    "regionName": "Сахалинская область",
+    "oikTvd": "100100225883657",
+    "oikName": "Сахалинская область – Сахалинский",
+    "district": {
+      "districtNumber": 167,
+      "oikTvd": "100100225883657"
+    }
   },
   {
     "uikNumber": 219,
     "uikTvd": "4654015291612",
     "tikTvd": "2652000585056",
-    "tikName": "Углегорская"
+    "tikName": "Углегорская",
+    "uikName": "УИК №219",
+    "regionCode": "65",
+    "regionTvd": "100100225883656",
+    "regionName": "Сахалинская область",
+    "oikTvd": "100100225883657",
+    "oikName": "Сахалинская область – Сахалинский",
+    "district": {
+      "districtNumber": 167,
+      "oikTvd": "100100225883657"
+    }
   },
   {
     "uikNumber": 220,
     "uikTvd": "4654015291613",
     "tikTvd": "2652000585056",
-    "tikName": "Углегорская"
+    "tikName": "Углегорская",
+    "uikName": "УИК №220",
+    "regionCode": "65",
+    "regionTvd": "100100225883656",
+    "regionName": "Сахалинская область",
+    "oikTvd": "100100225883657",
+    "oikName": "Сахалинская область – Сахалинский",
+    "district": {
+      "districtNumber": 167,
+      "oikTvd": "100100225883657"
+    }
   },
   {
     "uikNumber": 222,
     "uikTvd": "4654015291615",
     "tikTvd": "2652000585056",
-    "tikName": "Углегорская"
+    "tikName": "Углегорская",
+    "uikName": "УИК №222",
+    "regionCode": "65",
+    "regionTvd": "100100225883656",
+    "regionName": "Сахалинская область",
+    "oikTvd": "100100225883657",
+    "oikName": "Сахалинская область – Сахалинский",
+    "district": {
+      "districtNumber": 167,
+      "oikTvd": "100100225883657"
+    }
   },
   {
     "uikNumber": 223,
     "uikTvd": "4654015291616",
     "tikTvd": "2652000585056",
-    "tikName": "Углегорская"
+    "tikName": "Углегорская",
+    "uikName": "УИК №223",
+    "regionCode": "65",
+    "regionTvd": "100100225883656",
+    "regionName": "Сахалинская область",
+    "oikTvd": "100100225883657",
+    "oikName": "Сахалинская область – Сахалинский",
+    "district": {
+      "districtNumber": 167,
+      "oikTvd": "100100225883657"
+    }
   },
   {
     "uikNumber": 224,
     "uikTvd": "4654015291617",
     "tikTvd": "2652000585056",
-    "tikName": "Углегорская"
+    "tikName": "Углегорская",
+    "uikName": "УИК №224",
+    "regionCode": "65",
+    "regionTvd": "100100225883656",
+    "regionName": "Сахалинская область",
+    "oikTvd": "100100225883657",
+    "oikName": "Сахалинская область – Сахалинский",
+    "district": {
+      "districtNumber": 167,
+      "oikTvd": "100100225883657"
+    }
   },
   {
     "uikNumber": 226,
     "uikTvd": "4654015291618",
     "tikTvd": "2652000585056",
-    "tikName": "Углегорская"
+    "tikName": "Углегорская",
+    "uikName": "УИК №226",
+    "regionCode": "65",
+    "regionTvd": "100100225883656",
+    "regionName": "Сахалинская область",
+    "oikTvd": "100100225883657",
+    "oikName": "Сахалинская область – Сахалинский",
+    "district": {
+      "districtNumber": 167,
+      "oikTvd": "100100225883657"
+    }
   },
   {
     "uikNumber": 227,
     "uikTvd": "4654015291619",
     "tikTvd": "2652000585056",
-    "tikName": "Углегорская"
+    "tikName": "Углегорская",
+    "uikName": "УИК №227",
+    "regionCode": "65",
+    "regionTvd": "100100225883656",
+    "regionName": "Сахалинская область",
+    "oikTvd": "100100225883657",
+    "oikName": "Сахалинская область – Сахалинский",
+    "district": {
+      "districtNumber": 167,
+      "oikTvd": "100100225883657"
+    }
   },
   {
     "uikNumber": 228,
     "uikTvd": "4654015291620",
     "tikTvd": "2652000585056",
-    "tikName": "Углегорская"
+    "tikName": "Углегорская",
+    "uikName": "УИК №228",
+    "regionCode": "65",
+    "regionTvd": "100100225883656",
+    "regionName": "Сахалинская область",
+    "oikTvd": "100100225883657",
+    "oikName": "Сахалинская область – Сахалинский",
+    "district": {
+      "districtNumber": 167,
+      "oikTvd": "100100225883657"
+    }
   },
   {
     "uikNumber": 229,
     "uikTvd": "4654015291621",
     "tikTvd": "2652000585056",
-    "tikName": "Углегорская"
+    "tikName": "Углегорская",
+    "uikName": "УИК №229",
+    "regionCode": "65",
+    "regionTvd": "100100225883656",
+    "regionName": "Сахалинская область",
+    "oikTvd": "100100225883657",
+    "oikName": "Сахалинская область – Сахалинский",
+    "district": {
+      "districtNumber": 167,
+      "oikTvd": "100100225883657"
+    }
   },
   {
     "uikNumber": 230,
     "uikTvd": "4654015291622",
     "tikTvd": "2652000585056",
-    "tikName": "Углегорская"
+    "tikName": "Углегорская",
+    "uikName": "УИК №230",
+    "regionCode": "65",
+    "regionTvd": "100100225883656",
+    "regionName": "Сахалинская область",
+    "oikTvd": "100100225883657",
+    "oikName": "Сахалинская область – Сахалинский",
+    "district": {
+      "districtNumber": 167,
+      "oikTvd": "100100225883657"
+    }
   },
   {
     "uikNumber": 232,
     "uikTvd": "4654015291623",
     "tikTvd": "2652000585056",
-    "tikName": "Углегорская"
+    "tikName": "Углегорская",
+    "uikName": "УИК №232",
+    "regionCode": "65",
+    "regionTvd": "100100225883656",
+    "regionName": "Сахалинская область",
+    "oikTvd": "100100225883657",
+    "oikName": "Сахалинская область – Сахалинский",
+    "district": {
+      "districtNumber": 167,
+      "oikTvd": "100100225883657"
+    }
   },
   {
     "uikNumber": 235,
     "uikTvd": "4654015291624",
     "tikTvd": "2652000585056",
-    "tikName": "Углегорская"
+    "tikName": "Углегорская",
+    "uikName": "УИК №235",
+    "regionCode": "65",
+    "regionTvd": "100100225883656",
+    "regionName": "Сахалинская область",
+    "oikTvd": "100100225883657",
+    "oikName": "Сахалинская область – Сахалинский",
+    "district": {
+      "districtNumber": 167,
+      "oikTvd": "100100225883657"
+    }
   },
   {
     "uikNumber": 236,
     "uikTvd": "4654015291625",
     "tikTvd": "2652000585056",
-    "tikName": "Углегорская"
+    "tikName": "Углегорская",
+    "uikName": "УИК №236",
+    "regionCode": "65",
+    "regionTvd": "100100225883656",
+    "regionName": "Сахалинская область",
+    "oikTvd": "100100225883657",
+    "oikName": "Сахалинская область – Сахалинский",
+    "district": {
+      "districtNumber": 167,
+      "oikTvd": "100100225883657"
+    }
   },
   {
     "uikNumber": 238,
     "uikTvd": "4654015291627",
     "tikTvd": "2652000585056",
-    "tikName": "Углегорская"
+    "tikName": "Углегорская",
+    "uikName": "УИК №238",
+    "regionCode": "65",
+    "regionTvd": "100100225883656",
+    "regionName": "Сахалинская область",
+    "oikTvd": "100100225883657",
+    "oikName": "Сахалинская область – Сахалинский",
+    "district": {
+      "districtNumber": 167,
+      "oikTvd": "100100225883657"
+    }
   },
   {
     "uikNumber": 240,
     "uikTvd": "4654016255271",
     "tikTvd": "2652000585064",
-    "tikName": "Холмская"
+    "tikName": "Холмская",
+    "uikName": "УИК №240",
+    "regionCode": "65",
+    "regionTvd": "100100225883656",
+    "regionName": "Сахалинская область",
+    "oikTvd": "100100225883657",
+    "oikName": "Сахалинская область – Сахалинский",
+    "district": {
+      "districtNumber": 167,
+      "oikTvd": "100100225883657"
+    }
   },
   {
     "uikNumber": 241,
     "uikTvd": "4654016255272",
     "tikTvd": "2652000585064",
-    "tikName": "Холмская"
+    "tikName": "Холмская",
+    "uikName": "УИК №241",
+    "regionCode": "65",
+    "regionTvd": "100100225883656",
+    "regionName": "Сахалинская область",
+    "oikTvd": "100100225883657",
+    "oikName": "Сахалинская область – Сахалинский",
+    "district": {
+      "districtNumber": 167,
+      "oikTvd": "100100225883657"
+    }
   },
   {
     "uikNumber": 243,
     "uikTvd": "4654016255273",
     "tikTvd": "2652000585064",
-    "tikName": "Холмская"
+    "tikName": "Холмская",
+    "uikName": "УИК №243",
+    "regionCode": "65",
+    "regionTvd": "100100225883656",
+    "regionName": "Сахалинская область",
+    "oikTvd": "100100225883657",
+    "oikName": "Сахалинская область – Сахалинский",
+    "district": {
+      "districtNumber": 167,
+      "oikTvd": "100100225883657"
+    }
   },
   {
     "uikNumber": 244,
     "uikTvd": "4654016255274",
     "tikTvd": "2652000585064",
-    "tikName": "Холмская"
+    "tikName": "Холмская",
+    "uikName": "УИК №244",
+    "regionCode": "65",
+    "regionTvd": "100100225883656",
+    "regionName": "Сахалинская область",
+    "oikTvd": "100100225883657",
+    "oikName": "Сахалинская область – Сахалинский",
+    "district": {
+      "districtNumber": 167,
+      "oikTvd": "100100225883657"
+    }
   },
   {
     "uikNumber": 245,
     "uikTvd": "4654016255275",
     "tikTvd": "2652000585064",
-    "tikName": "Холмская"
+    "tikName": "Холмская",
+    "uikName": "УИК №245",
+    "regionCode": "65",
+    "regionTvd": "100100225883656",
+    "regionName": "Сахалинская область",
+    "oikTvd": "100100225883657",
+    "oikName": "Сахалинская область – Сахалинский",
+    "district": {
+      "districtNumber": 167,
+      "oikTvd": "100100225883657"
+    }
   },
   {
     "uikNumber": 247,
     "uikTvd": "4654016255276",
     "tikTvd": "2652000585064",
-    "tikName": "Холмская"
+    "tikName": "Холмская",
+    "uikName": "УИК №247",
+    "regionCode": "65",
+    "regionTvd": "100100225883656",
+    "regionName": "Сахалинская область",
+    "oikTvd": "100100225883657",
+    "oikName": "Сахалинская область – Сахалинский",
+    "district": {
+      "districtNumber": 167,
+      "oikTvd": "100100225883657"
+    }
   },
   {
     "uikNumber": 248,
     "uikTvd": "4654016255277",
     "tikTvd": "2652000585064",
-    "tikName": "Холмская"
+    "tikName": "Холмская",
+    "uikName": "УИК №248",
+    "regionCode": "65",
+    "regionTvd": "100100225883656",
+    "regionName": "Сахалинская область",
+    "oikTvd": "100100225883657",
+    "oikName": "Сахалинская область – Сахалинский",
+    "district": {
+      "districtNumber": 167,
+      "oikTvd": "100100225883657"
+    }
   },
   {
     "uikNumber": 249,
     "uikTvd": "4654016255278",
     "tikTvd": "2652000585064",
-    "tikName": "Холмская"
+    "tikName": "Холмская",
+    "uikName": "УИК №249",
+    "regionCode": "65",
+    "regionTvd": "100100225883656",
+    "regionName": "Сахалинская область",
+    "oikTvd": "100100225883657",
+    "oikName": "Сахалинская область – Сахалинский",
+    "district": {
+      "districtNumber": 167,
+      "oikTvd": "100100225883657"
+    }
   },
   {
     "uikNumber": 250,
     "uikTvd": "4654016255279",
     "tikTvd": "2652000585064",
-    "tikName": "Холмская"
+    "tikName": "Холмская",
+    "uikName": "УИК №250",
+    "regionCode": "65",
+    "regionTvd": "100100225883656",
+    "regionName": "Сахалинская область",
+    "oikTvd": "100100225883657",
+    "oikName": "Сахалинская область – Сахалинский",
+    "district": {
+      "districtNumber": 167,
+      "oikTvd": "100100225883657"
+    }
   },
   {
     "uikNumber": 251,
     "uikTvd": "4654016255280",
     "tikTvd": "2652000585064",
-    "tikName": "Холмская"
+    "tikName": "Холмская",
+    "uikName": "УИК №251",
+    "regionCode": "65",
+    "regionTvd": "100100225883656",
+    "regionName": "Сахалинская область",
+    "oikTvd": "100100225883657",
+    "oikName": "Сахалинская область – Сахалинский",
+    "district": {
+      "districtNumber": 167,
+      "oikTvd": "100100225883657"
+    }
   },
   {
     "uikNumber": 253,
     "uikTvd": "4654016255281",
     "tikTvd": "2652000585064",
-    "tikName": "Холмская"
+    "tikName": "Холмская",
+    "uikName": "УИК №253",
+    "regionCode": "65",
+    "regionTvd": "100100225883656",
+    "regionName": "Сахалинская область",
+    "oikTvd": "100100225883657",
+    "oikName": "Сахалинская область – Сахалинский",
+    "district": {
+      "districtNumber": 167,
+      "oikTvd": "100100225883657"
+    }
   },
   {
     "uikNumber": 254,
     "uikTvd": "4654016255282",
     "tikTvd": "2652000585064",
-    "tikName": "Холмская"
+    "tikName": "Холмская",
+    "uikName": "УИК №254",
+    "regionCode": "65",
+    "regionTvd": "100100225883656",
+    "regionName": "Сахалинская область",
+    "oikTvd": "100100225883657",
+    "oikName": "Сахалинская область – Сахалинский",
+    "district": {
+      "districtNumber": 167,
+      "oikTvd": "100100225883657"
+    }
   },
   {
     "uikNumber": 256,
     "uikTvd": "4654016255283",
     "tikTvd": "2652000585064",
-    "tikName": "Холмская"
+    "tikName": "Холмская",
+    "uikName": "УИК №256",
+    "regionCode": "65",
+    "regionTvd": "100100225883656",
+    "regionName": "Сахалинская область",
+    "oikTvd": "100100225883657",
+    "oikName": "Сахалинская область – Сахалинский",
+    "district": {
+      "districtNumber": 167,
+      "oikTvd": "100100225883657"
+    }
   },
   {
     "uikNumber": 257,
     "uikTvd": "4654016255284",
     "tikTvd": "2652000585064",
-    "tikName": "Холмская"
+    "tikName": "Холмская",
+    "uikName": "УИК №257",
+    "regionCode": "65",
+    "regionTvd": "100100225883656",
+    "regionName": "Сахалинская область",
+    "oikTvd": "100100225883657",
+    "oikName": "Сахалинская область – Сахалинский",
+    "district": {
+      "districtNumber": 167,
+      "oikTvd": "100100225883657"
+    }
   },
   {
     "uikNumber": 258,
     "uikTvd": "4654016255285",
     "tikTvd": "2652000585064",
-    "tikName": "Холмская"
+    "tikName": "Холмская",
+    "uikName": "УИК №258",
+    "regionCode": "65",
+    "regionTvd": "100100225883656",
+    "regionName": "Сахалинская область",
+    "oikTvd": "100100225883657",
+    "oikName": "Сахалинская область – Сахалинский",
+    "district": {
+      "districtNumber": 167,
+      "oikTvd": "100100225883657"
+    }
   },
   {
     "uikNumber": 259,
     "uikTvd": "4654016255286",
     "tikTvd": "2652000585064",
-    "tikName": "Холмская"
+    "tikName": "Холмская",
+    "uikName": "УИК №259",
+    "regionCode": "65",
+    "regionTvd": "100100225883656",
+    "regionName": "Сахалинская область",
+    "oikTvd": "100100225883657",
+    "oikName": "Сахалинская область – Сахалинский",
+    "district": {
+      "districtNumber": 167,
+      "oikTvd": "100100225883657"
+    }
   },
   {
     "uikNumber": 260,
     "uikTvd": "4654016255287",
     "tikTvd": "2652000585064",
-    "tikName": "Холмская"
+    "tikName": "Холмская",
+    "uikName": "УИК №260",
+    "regionCode": "65",
+    "regionTvd": "100100225883656",
+    "regionName": "Сахалинская область",
+    "oikTvd": "100100225883657",
+    "oikName": "Сахалинская область – Сахалинский",
+    "district": {
+      "districtNumber": 167,
+      "oikTvd": "100100225883657"
+    }
   },
   {
     "uikNumber": 261,
     "uikTvd": "4654016255288",
     "tikTvd": "2652000585064",
-    "tikName": "Холмская"
+    "tikName": "Холмская",
+    "uikName": "УИК №261",
+    "regionCode": "65",
+    "regionTvd": "100100225883656",
+    "regionName": "Сахалинская область",
+    "oikTvd": "100100225883657",
+    "oikName": "Сахалинская область – Сахалинский",
+    "district": {
+      "districtNumber": 167,
+      "oikTvd": "100100225883657"
+    }
   },
   {
     "uikNumber": 262,
     "uikTvd": "4654016255289",
     "tikTvd": "2652000585064",
-    "tikName": "Холмская"
+    "tikName": "Холмская",
+    "uikName": "УИК №262",
+    "regionCode": "65",
+    "regionTvd": "100100225883656",
+    "regionName": "Сахалинская область",
+    "oikTvd": "100100225883657",
+    "oikName": "Сахалинская область – Сахалинский",
+    "district": {
+      "districtNumber": 167,
+      "oikTvd": "100100225883657"
+    }
   },
   {
     "uikNumber": 264,
     "uikTvd": "4654016255290",
     "tikTvd": "2652000585064",
-    "tikName": "Холмская"
+    "tikName": "Холмская",
+    "uikName": "УИК №264",
+    "regionCode": "65",
+    "regionTvd": "100100225883656",
+    "regionName": "Сахалинская область",
+    "oikTvd": "100100225883657",
+    "oikName": "Сахалинская область – Сахалинский",
+    "district": {
+      "districtNumber": 167,
+      "oikTvd": "100100225883657"
+    }
   },
   {
     "uikNumber": 265,
     "uikTvd": "4654016255291",
     "tikTvd": "2652000585064",
-    "tikName": "Холмская"
+    "tikName": "Холмская",
+    "uikName": "УИК №265",
+    "regionCode": "65",
+    "regionTvd": "100100225883656",
+    "regionName": "Сахалинская область",
+    "oikTvd": "100100225883657",
+    "oikName": "Сахалинская область – Сахалинский",
+    "district": {
+      "districtNumber": 167,
+      "oikTvd": "100100225883657"
+    }
   },
   {
     "uikNumber": 266,
     "uikTvd": "4654016255292",
     "tikTvd": "2652000585064",
-    "tikName": "Холмская"
+    "tikName": "Холмская",
+    "uikName": "УИК №266",
+    "regionCode": "65",
+    "regionTvd": "100100225883656",
+    "regionName": "Сахалинская область",
+    "oikTvd": "100100225883657",
+    "oikName": "Сахалинская область – Сахалинский",
+    "district": {
+      "districtNumber": 167,
+      "oikTvd": "100100225883657"
+    }
   },
   {
     "uikNumber": 267,
     "uikTvd": "4654016255293",
     "tikTvd": "2652000585064",
-    "tikName": "Холмская"
+    "tikName": "Холмская",
+    "uikName": "УИК №267",
+    "regionCode": "65",
+    "regionTvd": "100100225883656",
+    "regionName": "Сахалинская область",
+    "oikTvd": "100100225883657",
+    "oikName": "Сахалинская область – Сахалинский",
+    "district": {
+      "districtNumber": 167,
+      "oikTvd": "100100225883657"
+    }
   },
   {
     "uikNumber": 269,
     "uikTvd": "4654016255294",
     "tikTvd": "2652000585064",
-    "tikName": "Холмская"
+    "tikName": "Холмская",
+    "uikName": "УИК №269",
+    "regionCode": "65",
+    "regionTvd": "100100225883656",
+    "regionName": "Сахалинская область",
+    "oikTvd": "100100225883657",
+    "oikName": "Сахалинская область – Сахалинский",
+    "district": {
+      "districtNumber": 167,
+      "oikTvd": "100100225883657"
+    }
   },
   {
     "uikNumber": 271,
     "uikTvd": "4654016255295",
     "tikTvd": "2652000585064",
-    "tikName": "Холмская"
+    "tikName": "Холмская",
+    "uikName": "УИК №271",
+    "regionCode": "65",
+    "regionTvd": "100100225883656",
+    "regionName": "Сахалинская область",
+    "oikTvd": "100100225883657",
+    "oikName": "Сахалинская область – Сахалинский",
+    "district": {
+      "districtNumber": 167,
+      "oikTvd": "100100225883657"
+    }
   },
   {
     "uikNumber": 274,
     "uikTvd": "4654017153358",
     "tikTvd": "2652000585059",
-    "tikName": "Южно-Курильская"
+    "tikName": "Южно-Курильская",
+    "uikName": "УИК №274",
+    "regionCode": "65",
+    "regionTvd": "100100225883656",
+    "regionName": "Сахалинская область",
+    "oikTvd": "100100225883657",
+    "oikName": "Сахалинская область – Сахалинский",
+    "district": {
+      "districtNumber": 167,
+      "oikTvd": "100100225883657"
+    }
   },
   {
     "uikNumber": 275,
     "uikTvd": "4654017153359",
     "tikTvd": "2652000585059",
-    "tikName": "Южно-Курильская"
+    "tikName": "Южно-Курильская",
+    "uikName": "УИК №275",
+    "regionCode": "65",
+    "regionTvd": "100100225883656",
+    "regionName": "Сахалинская область",
+    "oikTvd": "100100225883657",
+    "oikName": "Сахалинская область – Сахалинский",
+    "district": {
+      "districtNumber": 167,
+      "oikTvd": "100100225883657"
+    }
   },
   {
     "uikNumber": 276,
     "uikTvd": "4654017153360",
     "tikTvd": "2652000585059",
-    "tikName": "Южно-Курильская"
+    "tikName": "Южно-Курильская",
+    "uikName": "УИК №276",
+    "regionCode": "65",
+    "regionTvd": "100100225883656",
+    "regionName": "Сахалинская область",
+    "oikTvd": "100100225883657",
+    "oikName": "Сахалинская область – Сахалинский",
+    "district": {
+      "districtNumber": 167,
+      "oikTvd": "100100225883657"
+    }
   },
   {
     "uikNumber": 277,
     "uikTvd": "4654017153361",
     "tikTvd": "2652000585059",
-    "tikName": "Южно-Курильская"
+    "tikName": "Южно-Курильская",
+    "uikName": "УИК №277",
+    "regionCode": "65",
+    "regionTvd": "100100225883656",
+    "regionName": "Сахалинская область",
+    "oikTvd": "100100225883657",
+    "oikName": "Сахалинская область – Сахалинский",
+    "district": {
+      "districtNumber": 167,
+      "oikTvd": "100100225883657"
+    }
   },
   {
     "uikNumber": 278,
     "uikTvd": "4654017153362",
     "tikTvd": "2652000585059",
-    "tikName": "Южно-Курильская"
+    "tikName": "Южно-Курильская",
+    "uikName": "УИК №278",
+    "regionCode": "65",
+    "regionTvd": "100100225883656",
+    "regionName": "Сахалинская область",
+    "oikTvd": "100100225883657",
+    "oikName": "Сахалинская область – Сахалинский",
+    "district": {
+      "districtNumber": 167,
+      "oikTvd": "100100225883657"
+    }
   },
   {
     "uikNumber": 279,
     "uikTvd": "4654017153363",
     "tikTvd": "2652000585059",
-    "tikName": "Южно-Курильская"
+    "tikName": "Южно-Курильская",
+    "uikName": "УИК №279",
+    "regionCode": "65",
+    "regionTvd": "100100225883656",
+    "regionName": "Сахалинская область",
+    "oikTvd": "100100225883657",
+    "oikName": "Сахалинская область – Сахалинский",
+    "district": {
+      "districtNumber": 167,
+      "oikTvd": "100100225883657"
+    }
   },
   {
     "uikNumber": 280,
     "uikTvd": "4654017153364",
     "tikTvd": "2652000585059",
-    "tikName": "Южно-Курильская"
+    "tikName": "Южно-Курильская",
+    "uikName": "УИК №280",
+    "regionCode": "65",
+    "regionTvd": "100100225883656",
+    "regionName": "Сахалинская область",
+    "oikTvd": "100100225883657",
+    "oikName": "Сахалинская область – Сахалинский",
+    "district": {
+      "districtNumber": 167,
+      "oikTvd": "100100225883657"
+    }
   },
   {
     "uikNumber": 281,
     "uikTvd": "4654018474456",
     "tikTvd": "2652000585060",
-    "tikName": "Южно-Сахалинская городская"
+    "tikName": "Южно-Сахалинская городская",
+    "uikName": "УИК №281",
+    "regionCode": "65",
+    "regionTvd": "100100225883656",
+    "regionName": "Сахалинская область",
+    "oikTvd": "100100225883657",
+    "oikName": "Сахалинская область – Сахалинский",
+    "district": {
+      "districtNumber": 167,
+      "oikTvd": "100100225883657"
+    }
   },
   {
     "uikNumber": 282,
     "uikTvd": "4654018474457",
     "tikTvd": "2652000585060",
-    "tikName": "Южно-Сахалинская городская"
+    "tikName": "Южно-Сахалинская городская",
+    "uikName": "УИК №282",
+    "regionCode": "65",
+    "regionTvd": "100100225883656",
+    "regionName": "Сахалинская область",
+    "oikTvd": "100100225883657",
+    "oikName": "Сахалинская область – Сахалинский",
+    "district": {
+      "districtNumber": 167,
+      "oikTvd": "100100225883657"
+    }
   },
   {
     "uikNumber": 283,
     "uikTvd": "4654018474458",
     "tikTvd": "2652000585060",
-    "tikName": "Южно-Сахалинская городская"
+    "tikName": "Южно-Сахалинская городская",
+    "uikName": "УИК №283",
+    "regionCode": "65",
+    "regionTvd": "100100225883656",
+    "regionName": "Сахалинская область",
+    "oikTvd": "100100225883657",
+    "oikName": "Сахалинская область – Сахалинский",
+    "district": {
+      "districtNumber": 167,
+      "oikTvd": "100100225883657"
+    }
   },
   {
     "uikNumber": 284,
     "uikTvd": "4654018474459",
     "tikTvd": "2652000585060",
-    "tikName": "Южно-Сахалинская городская"
+    "tikName": "Южно-Сахалинская городская",
+    "uikName": "УИК №284",
+    "regionCode": "65",
+    "regionTvd": "100100225883656",
+    "regionName": "Сахалинская область",
+    "oikTvd": "100100225883657",
+    "oikName": "Сахалинская область – Сахалинский",
+    "district": {
+      "districtNumber": 167,
+      "oikTvd": "100100225883657"
+    }
   },
   {
     "uikNumber": 285,
     "uikTvd": "4654018474460",
     "tikTvd": "2652000585060",
-    "tikName": "Южно-Сахалинская городская"
+    "tikName": "Южно-Сахалинская городская",
+    "uikName": "УИК №285",
+    "regionCode": "65",
+    "regionTvd": "100100225883656",
+    "regionName": "Сахалинская область",
+    "oikTvd": "100100225883657",
+    "oikName": "Сахалинская область – Сахалинский",
+    "district": {
+      "districtNumber": 167,
+      "oikTvd": "100100225883657"
+    }
   },
   {
     "uikNumber": 286,
     "uikTvd": "4654018474461",
     "tikTvd": "2652000585060",
-    "tikName": "Южно-Сахалинская городская"
+    "tikName": "Южно-Сахалинская городская",
+    "uikName": "УИК №286",
+    "regionCode": "65",
+    "regionTvd": "100100225883656",
+    "regionName": "Сахалинская область",
+    "oikTvd": "100100225883657",
+    "oikName": "Сахалинская область – Сахалинский",
+    "district": {
+      "districtNumber": 167,
+      "oikTvd": "100100225883657"
+    }
   },
   {
     "uikNumber": 287,
     "uikTvd": "4654018474462",
     "tikTvd": "2652000585060",
-    "tikName": "Южно-Сахалинская городская"
+    "tikName": "Южно-Сахалинская городская",
+    "uikName": "УИК №287",
+    "regionCode": "65",
+    "regionTvd": "100100225883656",
+    "regionName": "Сахалинская область",
+    "oikTvd": "100100225883657",
+    "oikName": "Сахалинская область – Сахалинский",
+    "district": {
+      "districtNumber": 167,
+      "oikTvd": "100100225883657"
+    }
   },
   {
     "uikNumber": 288,
     "uikTvd": "4654018474463",
     "tikTvd": "2652000585060",
-    "tikName": "Южно-Сахалинская городская"
+    "tikName": "Южно-Сахалинская городская",
+    "uikName": "УИК №288",
+    "regionCode": "65",
+    "regionTvd": "100100225883656",
+    "regionName": "Сахалинская область",
+    "oikTvd": "100100225883657",
+    "oikName": "Сахалинская область – Сахалинский",
+    "district": {
+      "districtNumber": 167,
+      "oikTvd": "100100225883657"
+    }
   },
   {
     "uikNumber": 289,
     "uikTvd": "4654018474464",
     "tikTvd": "2652000585060",
-    "tikName": "Южно-Сахалинская городская"
+    "tikName": "Южно-Сахалинская городская",
+    "uikName": "УИК №289",
+    "regionCode": "65",
+    "regionTvd": "100100225883656",
+    "regionName": "Сахалинская область",
+    "oikTvd": "100100225883657",
+    "oikName": "Сахалинская область – Сахалинский",
+    "district": {
+      "districtNumber": 167,
+      "oikTvd": "100100225883657"
+    }
   },
   {
     "uikNumber": 290,
     "uikTvd": "4654018474465",
     "tikTvd": "2652000585060",
-    "tikName": "Южно-Сахалинская городская"
+    "tikName": "Южно-Сахалинская городская",
+    "uikName": "УИК №290",
+    "regionCode": "65",
+    "regionTvd": "100100225883656",
+    "regionName": "Сахалинская область",
+    "oikTvd": "100100225883657",
+    "oikName": "Сахалинская область – Сахалинский",
+    "district": {
+      "districtNumber": 167,
+      "oikTvd": "100100225883657"
+    }
   },
   {
     "uikNumber": 291,
     "uikTvd": "4654018474466",
     "tikTvd": "2652000585060",
-    "tikName": "Южно-Сахалинская городская"
+    "tikName": "Южно-Сахалинская городская",
+    "uikName": "УИК №291",
+    "regionCode": "65",
+    "regionTvd": "100100225883656",
+    "regionName": "Сахалинская область",
+    "oikTvd": "100100225883657",
+    "oikName": "Сахалинская область – Сахалинский",
+    "district": {
+      "districtNumber": 167,
+      "oikTvd": "100100225883657"
+    }
   },
   {
     "uikNumber": 292,
     "uikTvd": "4654018474467",
     "tikTvd": "2652000585060",
-    "tikName": "Южно-Сахалинская городская"
+    "tikName": "Южно-Сахалинская городская",
+    "uikName": "УИК №292",
+    "regionCode": "65",
+    "regionTvd": "100100225883656",
+    "regionName": "Сахалинская область",
+    "oikTvd": "100100225883657",
+    "oikName": "Сахалинская область – Сахалинский",
+    "district": {
+      "districtNumber": 167,
+      "oikTvd": "100100225883657"
+    }
   },
   {
     "uikNumber": 293,
     "uikTvd": "4654018474468",
     "tikTvd": "2652000585060",
-    "tikName": "Южно-Сахалинская городская"
+    "tikName": "Южно-Сахалинская городская",
+    "uikName": "УИК №293",
+    "regionCode": "65",
+    "regionTvd": "100100225883656",
+    "regionName": "Сахалинская область",
+    "oikTvd": "100100225883657",
+    "oikName": "Сахалинская область – Сахалинский",
+    "district": {
+      "districtNumber": 167,
+      "oikTvd": "100100225883657"
+    }
   },
   {
     "uikNumber": 294,
     "uikTvd": "4654018474469",
     "tikTvd": "2652000585060",
-    "tikName": "Южно-Сахалинская городская"
+    "tikName": "Южно-Сахалинская городская",
+    "uikName": "УИК №294",
+    "regionCode": "65",
+    "regionTvd": "100100225883656",
+    "regionName": "Сахалинская область",
+    "oikTvd": "100100225883657",
+    "oikName": "Сахалинская область – Сахалинский",
+    "district": {
+      "districtNumber": 167,
+      "oikTvd": "100100225883657"
+    }
   },
   {
     "uikNumber": 295,
     "uikTvd": "4654018474470",
     "tikTvd": "2652000585060",
-    "tikName": "Южно-Сахалинская городская"
+    "tikName": "Южно-Сахалинская городская",
+    "uikName": "УИК №295",
+    "regionCode": "65",
+    "regionTvd": "100100225883656",
+    "regionName": "Сахалинская область",
+    "oikTvd": "100100225883657",
+    "oikName": "Сахалинская область – Сахалинский",
+    "district": {
+      "districtNumber": 167,
+      "oikTvd": "100100225883657"
+    }
   },
   {
     "uikNumber": 296,
     "uikTvd": "4654018474471",
     "tikTvd": "2652000585060",
-    "tikName": "Южно-Сахалинская городская"
+    "tikName": "Южно-Сахалинская городская",
+    "uikName": "УИК №296",
+    "regionCode": "65",
+    "regionTvd": "100100225883656",
+    "regionName": "Сахалинская область",
+    "oikTvd": "100100225883657",
+    "oikName": "Сахалинская область – Сахалинский",
+    "district": {
+      "districtNumber": 167,
+      "oikTvd": "100100225883657"
+    }
   },
   {
     "uikNumber": 297,
     "uikTvd": "4654018474472",
     "tikTvd": "2652000585060",
-    "tikName": "Южно-Сахалинская городская"
+    "tikName": "Южно-Сахалинская городская",
+    "uikName": "УИК №297",
+    "regionCode": "65",
+    "regionTvd": "100100225883656",
+    "regionName": "Сахалинская область",
+    "oikTvd": "100100225883657",
+    "oikName": "Сахалинская область – Сахалинский",
+    "district": {
+      "districtNumber": 167,
+      "oikTvd": "100100225883657"
+    }
   },
   {
     "uikNumber": 298,
     "uikTvd": "4654018474473",
     "tikTvd": "2652000585060",
-    "tikName": "Южно-Сахалинская городская"
+    "tikName": "Южно-Сахалинская городская",
+    "uikName": "УИК №298",
+    "regionCode": "65",
+    "regionTvd": "100100225883656",
+    "regionName": "Сахалинская область",
+    "oikTvd": "100100225883657",
+    "oikName": "Сахалинская область – Сахалинский",
+    "district": {
+      "districtNumber": 167,
+      "oikTvd": "100100225883657"
+    }
   },
   {
     "uikNumber": 299,
     "uikTvd": "4654018474474",
     "tikTvd": "2652000585060",
-    "tikName": "Южно-Сахалинская городская"
+    "tikName": "Южно-Сахалинская городская",
+    "uikName": "УИК №299",
+    "regionCode": "65",
+    "regionTvd": "100100225883656",
+    "regionName": "Сахалинская область",
+    "oikTvd": "100100225883657",
+    "oikName": "Сахалинская область – Сахалинский",
+    "district": {
+      "districtNumber": 167,
+      "oikTvd": "100100225883657"
+    }
   },
   {
     "uikNumber": 300,
     "uikTvd": "4654018474475",
     "tikTvd": "2652000585060",
-    "tikName": "Южно-Сахалинская городская"
+    "tikName": "Южно-Сахалинская городская",
+    "uikName": "УИК №300",
+    "regionCode": "65",
+    "regionTvd": "100100225883656",
+    "regionName": "Сахалинская область",
+    "oikTvd": "100100225883657",
+    "oikName": "Сахалинская область – Сахалинский",
+    "district": {
+      "districtNumber": 167,
+      "oikTvd": "100100225883657"
+    }
   },
   {
     "uikNumber": 301,
     "uikTvd": "4654018474476",
     "tikTvd": "2652000585060",
-    "tikName": "Южно-Сахалинская городская"
+    "tikName": "Южно-Сахалинская городская",
+    "uikName": "УИК №301",
+    "regionCode": "65",
+    "regionTvd": "100100225883656",
+    "regionName": "Сахалинская область",
+    "oikTvd": "100100225883657",
+    "oikName": "Сахалинская область – Сахалинский",
+    "district": {
+      "districtNumber": 167,
+      "oikTvd": "100100225883657"
+    }
   },
   {
     "uikNumber": 302,
     "uikTvd": "4654018474477",
     "tikTvd": "2652000585060",
-    "tikName": "Южно-Сахалинская городская"
+    "tikName": "Южно-Сахалинская городская",
+    "uikName": "УИК №302",
+    "regionCode": "65",
+    "regionTvd": "100100225883656",
+    "regionName": "Сахалинская область",
+    "oikTvd": "100100225883657",
+    "oikName": "Сахалинская область – Сахалинский",
+    "district": {
+      "districtNumber": 167,
+      "oikTvd": "100100225883657"
+    }
   },
   {
     "uikNumber": 303,
     "uikTvd": "4654018474478",
     "tikTvd": "2652000585060",
-    "tikName": "Южно-Сахалинская городская"
+    "tikName": "Южно-Сахалинская городская",
+    "uikName": "УИК №303",
+    "regionCode": "65",
+    "regionTvd": "100100225883656",
+    "regionName": "Сахалинская область",
+    "oikTvd": "100100225883657",
+    "oikName": "Сахалинская область – Сахалинский",
+    "district": {
+      "districtNumber": 167,
+      "oikTvd": "100100225883657"
+    }
   },
   {
     "uikNumber": 304,
     "uikTvd": "4654018474479",
     "tikTvd": "2652000585060",
-    "tikName": "Южно-Сахалинская городская"
+    "tikName": "Южно-Сахалинская городская",
+    "uikName": "УИК №304",
+    "regionCode": "65",
+    "regionTvd": "100100225883656",
+    "regionName": "Сахалинская область",
+    "oikTvd": "100100225883657",
+    "oikName": "Сахалинская область – Сахалинский",
+    "district": {
+      "districtNumber": 167,
+      "oikTvd": "100100225883657"
+    }
   },
   {
     "uikNumber": 305,
     "uikTvd": "4654018474480",
     "tikTvd": "2652000585060",
-    "tikName": "Южно-Сахалинская городская"
+    "tikName": "Южно-Сахалинская городская",
+    "uikName": "УИК №305",
+    "regionCode": "65",
+    "regionTvd": "100100225883656",
+    "regionName": "Сахалинская область",
+    "oikTvd": "100100225883657",
+    "oikName": "Сахалинская область – Сахалинский",
+    "district": {
+      "districtNumber": 167,
+      "oikTvd": "100100225883657"
+    }
   },
   {
     "uikNumber": 306,
     "uikTvd": "4654018474481",
     "tikTvd": "2652000585060",
-    "tikName": "Южно-Сахалинская городская"
+    "tikName": "Южно-Сахалинская городская",
+    "uikName": "УИК №306",
+    "regionCode": "65",
+    "regionTvd": "100100225883656",
+    "regionName": "Сахалинская область",
+    "oikTvd": "100100225883657",
+    "oikName": "Сахалинская область – Сахалинский",
+    "district": {
+      "districtNumber": 167,
+      "oikTvd": "100100225883657"
+    }
   },
   {
     "uikNumber": 307,
     "uikTvd": "4654018474482",
     "tikTvd": "2652000585060",
-    "tikName": "Южно-Сахалинская городская"
+    "tikName": "Южно-Сахалинская городская",
+    "uikName": "УИК №307",
+    "regionCode": "65",
+    "regionTvd": "100100225883656",
+    "regionName": "Сахалинская область",
+    "oikTvd": "100100225883657",
+    "oikName": "Сахалинская область – Сахалинский",
+    "district": {
+      "districtNumber": 167,
+      "oikTvd": "100100225883657"
+    }
   },
   {
     "uikNumber": 308,
     "uikTvd": "4654018474483",
     "tikTvd": "2652000585060",
-    "tikName": "Южно-Сахалинская городская"
+    "tikName": "Южно-Сахалинская городская",
+    "uikName": "УИК №308",
+    "regionCode": "65",
+    "regionTvd": "100100225883656",
+    "regionName": "Сахалинская область",
+    "oikTvd": "100100225883657",
+    "oikName": "Сахалинская область – Сахалинский",
+    "district": {
+      "districtNumber": 167,
+      "oikTvd": "100100225883657"
+    }
   },
   {
     "uikNumber": 309,
     "uikTvd": "4654018474484",
     "tikTvd": "2652000585060",
-    "tikName": "Южно-Сахалинская городская"
+    "tikName": "Южно-Сахалинская городская",
+    "uikName": "УИК №309",
+    "regionCode": "65",
+    "regionTvd": "100100225883656",
+    "regionName": "Сахалинская область",
+    "oikTvd": "100100225883657",
+    "oikName": "Сахалинская область – Сахалинский",
+    "district": {
+      "districtNumber": 167,
+      "oikTvd": "100100225883657"
+    }
   },
   {
     "uikNumber": 310,
     "uikTvd": "4654018474485",
     "tikTvd": "2652000585060",
-    "tikName": "Южно-Сахалинская городская"
+    "tikName": "Южно-Сахалинская городская",
+    "uikName": "УИК №310",
+    "regionCode": "65",
+    "regionTvd": "100100225883656",
+    "regionName": "Сахалинская область",
+    "oikTvd": "100100225883657",
+    "oikName": "Сахалинская область – Сахалинский",
+    "district": {
+      "districtNumber": 167,
+      "oikTvd": "100100225883657"
+    }
   },
   {
     "uikNumber": 311,
     "uikTvd": "4654018474486",
     "tikTvd": "2652000585060",
-    "tikName": "Южно-Сахалинская городская"
+    "tikName": "Южно-Сахалинская городская",
+    "uikName": "УИК №311",
+    "regionCode": "65",
+    "regionTvd": "100100225883656",
+    "regionName": "Сахалинская область",
+    "oikTvd": "100100225883657",
+    "oikName": "Сахалинская область – Сахалинский",
+    "district": {
+      "districtNumber": 167,
+      "oikTvd": "100100225883657"
+    }
   },
   {
     "uikNumber": 312,
     "uikTvd": "4654018474487",
     "tikTvd": "2652000585060",
-    "tikName": "Южно-Сахалинская городская"
+    "tikName": "Южно-Сахалинская городская",
+    "uikName": "УИК №312",
+    "regionCode": "65",
+    "regionTvd": "100100225883656",
+    "regionName": "Сахалинская область",
+    "oikTvd": "100100225883657",
+    "oikName": "Сахалинская область – Сахалинский",
+    "district": {
+      "districtNumber": 167,
+      "oikTvd": "100100225883657"
+    }
   },
   {
     "uikNumber": 313,
     "uikTvd": "4654018474488",
     "tikTvd": "2652000585060",
-    "tikName": "Южно-Сахалинская городская"
+    "tikName": "Южно-Сахалинская городская",
+    "uikName": "УИК №313",
+    "regionCode": "65",
+    "regionTvd": "100100225883656",
+    "regionName": "Сахалинская область",
+    "oikTvd": "100100225883657",
+    "oikName": "Сахалинская область – Сахалинский",
+    "district": {
+      "districtNumber": 167,
+      "oikTvd": "100100225883657"
+    }
   },
   {
     "uikNumber": 314,
     "uikTvd": "4654018474489",
     "tikTvd": "2652000585060",
-    "tikName": "Южно-Сахалинская городская"
+    "tikName": "Южно-Сахалинская городская",
+    "uikName": "УИК №314",
+    "regionCode": "65",
+    "regionTvd": "100100225883656",
+    "regionName": "Сахалинская область",
+    "oikTvd": "100100225883657",
+    "oikName": "Сахалинская область – Сахалинский",
+    "district": {
+      "districtNumber": 167,
+      "oikTvd": "100100225883657"
+    }
   },
   {
     "uikNumber": 315,
     "uikTvd": "4654018474490",
     "tikTvd": "2652000585060",
-    "tikName": "Южно-Сахалинская городская"
+    "tikName": "Южно-Сахалинская городская",
+    "uikName": "УИК №315",
+    "regionCode": "65",
+    "regionTvd": "100100225883656",
+    "regionName": "Сахалинская область",
+    "oikTvd": "100100225883657",
+    "oikName": "Сахалинская область – Сахалинский",
+    "district": {
+      "districtNumber": 167,
+      "oikTvd": "100100225883657"
+    }
   },
   {
     "uikNumber": 316,
     "uikTvd": "4654018474491",
     "tikTvd": "2652000585060",
-    "tikName": "Южно-Сахалинская городская"
+    "tikName": "Южно-Сахалинская городская",
+    "uikName": "УИК №316",
+    "regionCode": "65",
+    "regionTvd": "100100225883656",
+    "regionName": "Сахалинская область",
+    "oikTvd": "100100225883657",
+    "oikName": "Сахалинская область – Сахалинский",
+    "district": {
+      "districtNumber": 167,
+      "oikTvd": "100100225883657"
+    }
   },
   {
     "uikNumber": 317,
     "uikTvd": "4654018474492",
     "tikTvd": "2652000585060",
-    "tikName": "Южно-Сахалинская городская"
+    "tikName": "Южно-Сахалинская городская",
+    "uikName": "УИК №317",
+    "regionCode": "65",
+    "regionTvd": "100100225883656",
+    "regionName": "Сахалинская область",
+    "oikTvd": "100100225883657",
+    "oikName": "Сахалинская область – Сахалинский",
+    "district": {
+      "districtNumber": 167,
+      "oikTvd": "100100225883657"
+    }
   },
   {
     "uikNumber": 318,
     "uikTvd": "4654018474493",
     "tikTvd": "2652000585060",
-    "tikName": "Южно-Сахалинская городская"
+    "tikName": "Южно-Сахалинская городская",
+    "uikName": "УИК №318",
+    "regionCode": "65",
+    "regionTvd": "100100225883656",
+    "regionName": "Сахалинская область",
+    "oikTvd": "100100225883657",
+    "oikName": "Сахалинская область – Сахалинский",
+    "district": {
+      "districtNumber": 167,
+      "oikTvd": "100100225883657"
+    }
   },
   {
     "uikNumber": 319,
     "uikTvd": "4654018474494",
     "tikTvd": "2652000585060",
-    "tikName": "Южно-Сахалинская городская"
+    "tikName": "Южно-Сахалинская городская",
+    "uikName": "УИК №319",
+    "regionCode": "65",
+    "regionTvd": "100100225883656",
+    "regionName": "Сахалинская область",
+    "oikTvd": "100100225883657",
+    "oikName": "Сахалинская область – Сахалинский",
+    "district": {
+      "districtNumber": 167,
+      "oikTvd": "100100225883657"
+    }
   },
   {
     "uikNumber": 320,
     "uikTvd": "4654018474495",
     "tikTvd": "2652000585060",
-    "tikName": "Южно-Сахалинская городская"
+    "tikName": "Южно-Сахалинская городская",
+    "uikName": "УИК №320",
+    "regionCode": "65",
+    "regionTvd": "100100225883656",
+    "regionName": "Сахалинская область",
+    "oikTvd": "100100225883657",
+    "oikName": "Сахалинская область – Сахалинский",
+    "district": {
+      "districtNumber": 167,
+      "oikTvd": "100100225883657"
+    }
   },
   {
     "uikNumber": 321,
     "uikTvd": "4654018474496",
     "tikTvd": "2652000585060",
-    "tikName": "Южно-Сахалинская городская"
+    "tikName": "Южно-Сахалинская городская",
+    "uikName": "УИК №321",
+    "regionCode": "65",
+    "regionTvd": "100100225883656",
+    "regionName": "Сахалинская область",
+    "oikTvd": "100100225883657",
+    "oikName": "Сахалинская область – Сахалинский",
+    "district": {
+      "districtNumber": 167,
+      "oikTvd": "100100225883657"
+    }
   },
   {
     "uikNumber": 322,
     "uikTvd": "4654018474497",
     "tikTvd": "2652000585060",
-    "tikName": "Южно-Сахалинская городская"
+    "tikName": "Южно-Сахалинская городская",
+    "uikName": "УИК №322",
+    "regionCode": "65",
+    "regionTvd": "100100225883656",
+    "regionName": "Сахалинская область",
+    "oikTvd": "100100225883657",
+    "oikName": "Сахалинская область – Сахалинский",
+    "district": {
+      "districtNumber": 167,
+      "oikTvd": "100100225883657"
+    }
   },
   {
     "uikNumber": 323,
     "uikTvd": "4654018474498",
     "tikTvd": "2652000585060",
-    "tikName": "Южно-Сахалинская городская"
+    "tikName": "Южно-Сахалинская городская",
+    "uikName": "УИК №323",
+    "regionCode": "65",
+    "regionTvd": "100100225883656",
+    "regionName": "Сахалинская область",
+    "oikTvd": "100100225883657",
+    "oikName": "Сахалинская область – Сахалинский",
+    "district": {
+      "districtNumber": 167,
+      "oikTvd": "100100225883657"
+    }
   },
   {
     "uikNumber": 324,
     "uikTvd": "4654018474499",
     "tikTvd": "2652000585060",
-    "tikName": "Южно-Сахалинская городская"
+    "tikName": "Южно-Сахалинская городская",
+    "uikName": "УИК №324",
+    "regionCode": "65",
+    "regionTvd": "100100225883656",
+    "regionName": "Сахалинская область",
+    "oikTvd": "100100225883657",
+    "oikName": "Сахалинская область – Сахалинский",
+    "district": {
+      "districtNumber": 167,
+      "oikTvd": "100100225883657"
+    }
   },
   {
     "uikNumber": 325,
     "uikTvd": "4654018474500",
     "tikTvd": "2652000585060",
-    "tikName": "Южно-Сахалинская городская"
+    "tikName": "Южно-Сахалинская городская",
+    "uikName": "УИК №325",
+    "regionCode": "65",
+    "regionTvd": "100100225883656",
+    "regionName": "Сахалинская область",
+    "oikTvd": "100100225883657",
+    "oikName": "Сахалинская область – Сахалинский",
+    "district": {
+      "districtNumber": 167,
+      "oikTvd": "100100225883657"
+    }
   },
   {
     "uikNumber": 326,
     "uikTvd": "4654018474501",
     "tikTvd": "2652000585060",
-    "tikName": "Южно-Сахалинская городская"
+    "tikName": "Южно-Сахалинская городская",
+    "uikName": "УИК №326",
+    "regionCode": "65",
+    "regionTvd": "100100225883656",
+    "regionName": "Сахалинская область",
+    "oikTvd": "100100225883657",
+    "oikName": "Сахалинская область – Сахалинский",
+    "district": {
+      "districtNumber": 167,
+      "oikTvd": "100100225883657"
+    }
   },
   {
     "uikNumber": 327,
     "uikTvd": "4654018474502",
     "tikTvd": "2652000585060",
-    "tikName": "Южно-Сахалинская городская"
+    "tikName": "Южно-Сахалинская городская",
+    "uikName": "УИК №327",
+    "regionCode": "65",
+    "regionTvd": "100100225883656",
+    "regionName": "Сахалинская область",
+    "oikTvd": "100100225883657",
+    "oikName": "Сахалинская область – Сахалинский",
+    "district": {
+      "districtNumber": 167,
+      "oikTvd": "100100225883657"
+    }
   },
   {
     "uikNumber": 328,
     "uikTvd": "4654018474503",
     "tikTvd": "2652000585060",
-    "tikName": "Южно-Сахалинская городская"
+    "tikName": "Южно-Сахалинская городская",
+    "uikName": "УИК №328",
+    "regionCode": "65",
+    "regionTvd": "100100225883656",
+    "regionName": "Сахалинская область",
+    "oikTvd": "100100225883657",
+    "oikName": "Сахалинская область – Сахалинский",
+    "district": {
+      "districtNumber": 167,
+      "oikTvd": "100100225883657"
+    }
   },
   {
     "uikNumber": 329,
     "uikTvd": "4654018474504",
     "tikTvd": "2652000585060",
-    "tikName": "Южно-Сахалинская городская"
+    "tikName": "Южно-Сахалинская городская",
+    "uikName": "УИК №329",
+    "regionCode": "65",
+    "regionTvd": "100100225883656",
+    "regionName": "Сахалинская область",
+    "oikTvd": "100100225883657",
+    "oikName": "Сахалинская область – Сахалинский",
+    "district": {
+      "districtNumber": 167,
+      "oikTvd": "100100225883657"
+    }
   },
   {
     "uikNumber": 330,
     "uikTvd": "4654018474505",
     "tikTvd": "2652000585060",
-    "tikName": "Южно-Сахалинская городская"
+    "tikName": "Южно-Сахалинская городская",
+    "uikName": "УИК №330",
+    "regionCode": "65",
+    "regionTvd": "100100225883656",
+    "regionName": "Сахалинская область",
+    "oikTvd": "100100225883657",
+    "oikName": "Сахалинская область – Сахалинский",
+    "district": {
+      "districtNumber": 167,
+      "oikTvd": "100100225883657"
+    }
   },
   {
     "uikNumber": 331,
     "uikTvd": "4654018474506",
     "tikTvd": "2652000585060",
-    "tikName": "Южно-Сахалинская городская"
+    "tikName": "Южно-Сахалинская городская",
+    "uikName": "УИК №331",
+    "regionCode": "65",
+    "regionTvd": "100100225883656",
+    "regionName": "Сахалинская область",
+    "oikTvd": "100100225883657",
+    "oikName": "Сахалинская область – Сахалинский",
+    "district": {
+      "districtNumber": 167,
+      "oikTvd": "100100225883657"
+    }
   },
   {
     "uikNumber": 332,
     "uikTvd": "4654018474507",
     "tikTvd": "2652000585060",
-    "tikName": "Южно-Сахалинская городская"
+    "tikName": "Южно-Сахалинская городская",
+    "uikName": "УИК №332",
+    "regionCode": "65",
+    "regionTvd": "100100225883656",
+    "regionName": "Сахалинская область",
+    "oikTvd": "100100225883657",
+    "oikName": "Сахалинская область – Сахалинский",
+    "district": {
+      "districtNumber": 167,
+      "oikTvd": "100100225883657"
+    }
   },
   {
     "uikNumber": 333,
     "uikTvd": "4654018474508",
     "tikTvd": "2652000585060",
-    "tikName": "Южно-Сахалинская городская"
+    "tikName": "Южно-Сахалинская городская",
+    "uikName": "УИК №333",
+    "regionCode": "65",
+    "regionTvd": "100100225883656",
+    "regionName": "Сахалинская область",
+    "oikTvd": "100100225883657",
+    "oikName": "Сахалинская область – Сахалинский",
+    "district": {
+      "districtNumber": 167,
+      "oikTvd": "100100225883657"
+    }
   },
   {
     "uikNumber": 334,
     "uikTvd": "4654018474509",
     "tikTvd": "2652000585060",
-    "tikName": "Южно-Сахалинская городская"
+    "tikName": "Южно-Сахалинская городская",
+    "uikName": "УИК №334",
+    "regionCode": "65",
+    "regionTvd": "100100225883656",
+    "regionName": "Сахалинская область",
+    "oikTvd": "100100225883657",
+    "oikName": "Сахалинская область – Сахалинский",
+    "district": {
+      "districtNumber": 167,
+      "oikTvd": "100100225883657"
+    }
   },
   {
     "uikNumber": 335,
     "uikTvd": "4654018474510",
     "tikTvd": "2652000585060",
-    "tikName": "Южно-Сахалинская городская"
+    "tikName": "Южно-Сахалинская городская",
+    "uikName": "УИК №335",
+    "regionCode": "65",
+    "regionTvd": "100100225883656",
+    "regionName": "Сахалинская область",
+    "oikTvd": "100100225883657",
+    "oikName": "Сахалинская область – Сахалинский",
+    "district": {
+      "districtNumber": 167,
+      "oikTvd": "100100225883657"
+    }
   },
   {
     "uikNumber": 336,
     "uikTvd": "4654018474511",
     "tikTvd": "2652000585060",
-    "tikName": "Южно-Сахалинская городская"
+    "tikName": "Южно-Сахалинская городская",
+    "uikName": "УИК №336",
+    "regionCode": "65",
+    "regionTvd": "100100225883656",
+    "regionName": "Сахалинская область",
+    "oikTvd": "100100225883657",
+    "oikName": "Сахалинская область – Сахалинский",
+    "district": {
+      "districtNumber": 167,
+      "oikTvd": "100100225883657"
+    }
   },
   {
     "uikNumber": 337,
     "uikTvd": "4654018474512",
     "tikTvd": "2652000585060",
-    "tikName": "Южно-Сахалинская городская"
+    "tikName": "Южно-Сахалинская городская",
+    "uikName": "УИК №337",
+    "regionCode": "65",
+    "regionTvd": "100100225883656",
+    "regionName": "Сахалинская область",
+    "oikTvd": "100100225883657",
+    "oikName": "Сахалинская область – Сахалинский",
+    "district": {
+      "districtNumber": 167,
+      "oikTvd": "100100225883657"
+    }
   },
   {
     "uikNumber": 338,
     "uikTvd": "4654018474513",
     "tikTvd": "2652000585060",
-    "tikName": "Южно-Сахалинская городская"
+    "tikName": "Южно-Сахалинская городская",
+    "uikName": "УИК №338",
+    "regionCode": "65",
+    "regionTvd": "100100225883656",
+    "regionName": "Сахалинская область",
+    "oikTvd": "100100225883657",
+    "oikName": "Сахалинская область – Сахалинский",
+    "district": {
+      "districtNumber": 167,
+      "oikTvd": "100100225883657"
+    }
   },
   {
     "uikNumber": 339,
     "uikTvd": "4654018474514",
     "tikTvd": "2652000585060",
-    "tikName": "Южно-Сахалинская городская"
+    "tikName": "Южно-Сахалинская городская",
+    "uikName": "УИК №339",
+    "regionCode": "65",
+    "regionTvd": "100100225883656",
+    "regionName": "Сахалинская область",
+    "oikTvd": "100100225883657",
+    "oikName": "Сахалинская область – Сахалинский",
+    "district": {
+      "districtNumber": 167,
+      "oikTvd": "100100225883657"
+    }
   },
   {
     "uikNumber": 340,
     "uikTvd": "4654018474515",
     "tikTvd": "2652000585060",
-    "tikName": "Южно-Сахалинская городская"
+    "tikName": "Южно-Сахалинская городская",
+    "uikName": "УИК №340",
+    "regionCode": "65",
+    "regionTvd": "100100225883656",
+    "regionName": "Сахалинская область",
+    "oikTvd": "100100225883657",
+    "oikName": "Сахалинская область – Сахалинский",
+    "district": {
+      "districtNumber": 167,
+      "oikTvd": "100100225883657"
+    }
   },
   {
     "uikNumber": 341,
     "uikTvd": "4654018474516",
     "tikTvd": "2652000585060",
-    "tikName": "Южно-Сахалинская городская"
+    "tikName": "Южно-Сахалинская городская",
+    "uikName": "УИК №341",
+    "regionCode": "65",
+    "regionTvd": "100100225883656",
+    "regionName": "Сахалинская область",
+    "oikTvd": "100100225883657",
+    "oikName": "Сахалинская область – Сахалинский",
+    "district": {
+      "districtNumber": 167,
+      "oikTvd": "100100225883657"
+    }
   },
   {
     "uikNumber": 342,
     "uikTvd": "4654018474517",
     "tikTvd": "2652000585060",
-    "tikName": "Южно-Сахалинская городская"
+    "tikName": "Южно-Сахалинская городская",
+    "uikName": "УИК №342",
+    "regionCode": "65",
+    "regionTvd": "100100225883656",
+    "regionName": "Сахалинская область",
+    "oikTvd": "100100225883657",
+    "oikName": "Сахалинская область – Сахалинский",
+    "district": {
+      "districtNumber": 167,
+      "oikTvd": "100100225883657"
+    }
   },
   {
     "uikNumber": 343,
     "uikTvd": "4654018474518",
     "tikTvd": "2652000585060",
-    "tikName": "Южно-Сахалинская городская"
+    "tikName": "Южно-Сахалинская городская",
+    "uikName": "УИК №343",
+    "regionCode": "65",
+    "regionTvd": "100100225883656",
+    "regionName": "Сахалинская область",
+    "oikTvd": "100100225883657",
+    "oikName": "Сахалинская область – Сахалинский",
+    "district": {
+      "districtNumber": 167,
+      "oikTvd": "100100225883657"
+    }
   },
   {
     "uikNumber": 344,
     "uikTvd": "4654018474519",
     "tikTvd": "2652000585060",
-    "tikName": "Южно-Сахалинская городская"
+    "tikName": "Южно-Сахалинская городская",
+    "uikName": "УИК №344",
+    "regionCode": "65",
+    "regionTvd": "100100225883656",
+    "regionName": "Сахалинская область",
+    "oikTvd": "100100225883657",
+    "oikName": "Сахалинская область – Сахалинский",
+    "district": {
+      "districtNumber": 167,
+      "oikTvd": "100100225883657"
+    }
   },
   {
     "uikNumber": 345,
     "uikTvd": "4654018474520",
     "tikTvd": "2652000585060",
-    "tikName": "Южно-Сахалинская городская"
+    "tikName": "Южно-Сахалинская городская",
+    "uikName": "УИК №345",
+    "regionCode": "65",
+    "regionTvd": "100100225883656",
+    "regionName": "Сахалинская область",
+    "oikTvd": "100100225883657",
+    "oikName": "Сахалинская область – Сахалинский",
+    "district": {
+      "districtNumber": 167,
+      "oikTvd": "100100225883657"
+    }
   },
   {
     "uikNumber": 346,
     "uikTvd": "4654018474521",
     "tikTvd": "2652000585060",
-    "tikName": "Южно-Сахалинская городская"
+    "tikName": "Южно-Сахалинская городская",
+    "uikName": "УИК №346",
+    "regionCode": "65",
+    "regionTvd": "100100225883656",
+    "regionName": "Сахалинская область",
+    "oikTvd": "100100225883657",
+    "oikName": "Сахалинская область – Сахалинский",
+    "district": {
+      "districtNumber": 167,
+      "oikTvd": "100100225883657"
+    }
   },
   {
     "uikNumber": 347,
     "uikTvd": "4654018474522",
     "tikTvd": "2652000585060",
-    "tikName": "Южно-Сахалинская городская"
+    "tikName": "Южно-Сахалинская городская",
+    "uikName": "УИК №347",
+    "regionCode": "65",
+    "regionTvd": "100100225883656",
+    "regionName": "Сахалинская область",
+    "oikTvd": "100100225883657",
+    "oikName": "Сахалинская область – Сахалинский",
+    "district": {
+      "districtNumber": 167,
+      "oikTvd": "100100225883657"
+    }
   },
   {
     "uikNumber": 348,
     "uikTvd": "4654018474523",
     "tikTvd": "2652000585060",
-    "tikName": "Южно-Сахалинская городская"
+    "tikName": "Южно-Сахалинская городская",
+    "uikName": "УИК №348",
+    "regionCode": "65",
+    "regionTvd": "100100225883656",
+    "regionName": "Сахалинская область",
+    "oikTvd": "100100225883657",
+    "oikName": "Сахалинская область – Сахалинский",
+    "district": {
+      "districtNumber": 167,
+      "oikTvd": "100100225883657"
+    }
   },
   {
     "uikNumber": 349,
     "uikTvd": "4654018474524",
     "tikTvd": "2652000585060",
-    "tikName": "Южно-Сахалинская городская"
+    "tikName": "Южно-Сахалинская городская",
+    "uikName": "УИК №349",
+    "regionCode": "65",
+    "regionTvd": "100100225883656",
+    "regionName": "Сахалинская область",
+    "oikTvd": "100100225883657",
+    "oikName": "Сахалинская область – Сахалинский",
+    "district": {
+      "districtNumber": 167,
+      "oikTvd": "100100225883657"
+    }
   },
   {
     "uikNumber": 350,
     "uikTvd": "4654018474525",
     "tikTvd": "2652000585060",
-    "tikName": "Южно-Сахалинская городская"
+    "tikName": "Южно-Сахалинская городская",
+    "uikName": "УИК №350",
+    "regionCode": "65",
+    "regionTvd": "100100225883656",
+    "regionName": "Сахалинская область",
+    "oikTvd": "100100225883657",
+    "oikName": "Сахалинская область – Сахалинский",
+    "district": {
+      "districtNumber": 167,
+      "oikTvd": "100100225883657"
+    }
   },
   {
     "uikNumber": 351,
     "uikTvd": "4654018474526",
     "tikTvd": "2652000585060",
-    "tikName": "Южно-Сахалинская городская"
+    "tikName": "Южно-Сахалинская городская",
+    "uikName": "УИК №351",
+    "regionCode": "65",
+    "regionTvd": "100100225883656",
+    "regionName": "Сахалинская область",
+    "oikTvd": "100100225883657",
+    "oikName": "Сахалинская область – Сахалинский",
+    "district": {
+      "districtNumber": 167,
+      "oikTvd": "100100225883657"
+    }
   },
   {
     "uikNumber": 352,
     "uikTvd": "4654018474527",
     "tikTvd": "2652000585060",
-    "tikName": "Южно-Сахалинская городская"
+    "tikName": "Южно-Сахалинская городская",
+    "uikName": "УИК №352",
+    "regionCode": "65",
+    "regionTvd": "100100225883656",
+    "regionName": "Сахалинская область",
+    "oikTvd": "100100225883657",
+    "oikName": "Сахалинская область – Сахалинский",
+    "district": {
+      "districtNumber": 167,
+      "oikTvd": "100100225883657"
+    }
   },
   {
     "uikNumber": 353,
     "uikTvd": "4654018484937",
     "tikTvd": "2652000585060",
-    "tikName": "Южно-Сахалинская городская"
+    "tikName": "Южно-Сахалинская городская",
+    "uikName": "УИК №353",
+    "regionCode": "65",
+    "regionTvd": "100100225883656",
+    "regionName": "Сахалинская область",
+    "oikTvd": "100100225883657",
+    "oikName": "Сахалинская область – Сахалинский",
+    "district": {
+      "districtNumber": 167,
+      "oikTvd": "100100225883657"
+    }
   },
   {
     "uikNumber": 354,
     "uikTvd": "4654018484938",
     "tikTvd": "2652000585060",
-    "tikName": "Южно-Сахалинская городская"
+    "tikName": "Южно-Сахалинская городская",
+    "uikName": "УИК №354",
+    "regionCode": "65",
+    "regionTvd": "100100225883656",
+    "regionName": "Сахалинская область",
+    "oikTvd": "100100225883657",
+    "oikName": "Сахалинская область – Сахалинский",
+    "district": {
+      "districtNumber": 167,
+      "oikTvd": "100100225883657"
+    }
   },
   {
     "uikNumber": 355,
     "uikTvd": "4654018484939",
     "tikTvd": "2652000585060",
-    "tikName": "Южно-Сахалинская городская"
+    "tikName": "Южно-Сахалинская городская",
+    "uikName": "УИК №355",
+    "regionCode": "65",
+    "regionTvd": "100100225883656",
+    "regionName": "Сахалинская область",
+    "oikTvd": "100100225883657",
+    "oikName": "Сахалинская область – Сахалинский",
+    "district": {
+      "districtNumber": 167,
+      "oikTvd": "100100225883657"
+    }
   },
   {
     "uikNumber": 356,
     "uikTvd": "4654018484940",
     "tikTvd": "2652000585060",
-    "tikName": "Южно-Сахалинская городская"
+    "tikName": "Южно-Сахалинская городская",
+    "uikName": "УИК №356",
+    "regionCode": "65",
+    "regionTvd": "100100225883656",
+    "regionName": "Сахалинская область",
+    "oikTvd": "100100225883657",
+    "oikName": "Сахалинская область – Сахалинский",
+    "district": {
+      "districtNumber": 167,
+      "oikTvd": "100100225883657"
+    }
   },
   {
     "uikNumber": 357,
     "uikTvd": "4654018474529",
     "tikTvd": "2652000585060",
-    "tikName": "Южно-Сахалинская городская"
+    "tikName": "Южно-Сахалинская городская",
+    "uikName": "УИК №357",
+    "regionCode": "65",
+    "regionTvd": "100100225883656",
+    "regionName": "Сахалинская область",
+    "oikTvd": "100100225883657",
+    "oikName": "Сахалинская область – Сахалинский",
+    "district": {
+      "districtNumber": 167,
+      "oikTvd": "100100225883657"
+    }
   },
   {
     "uikNumber": 358,
     "uikTvd": "4654018484941",
     "tikTvd": "2652000585060",
-    "tikName": "Южно-Сахалинская городская"
+    "tikName": "Южно-Сахалинская городская",
+    "uikName": "УИК №358",
+    "regionCode": "65",
+    "regionTvd": "100100225883656",
+    "regionName": "Сахалинская область",
+    "oikTvd": "100100225883657",
+    "oikName": "Сахалинская область – Сахалинский",
+    "district": {
+      "districtNumber": 167,
+      "oikTvd": "100100225883657"
+    }
   },
   {
     "uikNumber": 359,
     "uikTvd": "4654018474531",
     "tikTvd": "2652000585060",
-    "tikName": "Южно-Сахалинская городская"
+    "tikName": "Южно-Сахалинская городская",
+    "uikName": "УИК №359",
+    "regionCode": "65",
+    "regionTvd": "100100225883656",
+    "regionName": "Сахалинская область",
+    "oikTvd": "100100225883657",
+    "oikName": "Сахалинская область – Сахалинский",
+    "district": {
+      "districtNumber": 167,
+      "oikTvd": "100100225883657"
+    }
   },
   {
     "uikNumber": 360,
     "uikTvd": "4654018474532",
     "tikTvd": "2652000585060",
-    "tikName": "Южно-Сахалинская городская"
+    "tikName": "Южно-Сахалинская городская",
+    "uikName": "УИК №360",
+    "regionCode": "65",
+    "regionTvd": "100100225883656",
+    "regionName": "Сахалинская область",
+    "oikTvd": "100100225883657",
+    "oikName": "Сахалинская область – Сахалинский",
+    "district": {
+      "districtNumber": 167,
+      "oikTvd": "100100225883657"
+    }
   },
   {
     "uikNumber": 361,
     "uikTvd": "4654002180833",
     "tikTvd": "2652000585069",
-    "tikName": "Анивская"
+    "tikName": "Анивская",
+    "uikName": "УИК №361",
+    "regionCode": "65",
+    "regionTvd": "100100225883656",
+    "regionName": "Сахалинская область",
+    "oikTvd": "100100225883657",
+    "oikName": "Сахалинская область – Сахалинский",
+    "district": {
+      "districtNumber": 167,
+      "oikTvd": "100100225883657"
+    }
   },
   {
     "uikNumber": 362,
     "uikTvd": "4654002180834",
     "tikTvd": "2652000585069",
-    "tikName": "Анивская"
+    "tikName": "Анивская",
+    "uikName": "УИК №362",
+    "regionCode": "65",
+    "regionTvd": "100100225883656",
+    "regionName": "Сахалинская область",
+    "oikTvd": "100100225883657",
+    "oikName": "Сахалинская область – Сахалинский",
+    "district": {
+      "districtNumber": 167,
+      "oikTvd": "100100225883657"
+    }
   },
   {
     "uikNumber": 363,
     "uikTvd": "4654002180835",
     "tikTvd": "2652000585069",
-    "tikName": "Анивская"
+    "tikName": "Анивская",
+    "uikName": "УИК №363",
+    "regionCode": "65",
+    "regionTvd": "100100225883656",
+    "regionName": "Сахалинская область",
+    "oikTvd": "100100225883657",
+    "oikName": "Сахалинская область – Сахалинский",
+    "district": {
+      "districtNumber": 167,
+      "oikTvd": "100100225883657"
+    }
   },
   {
     "uikNumber": 367,
     "uikTvd": "4654002180836",
     "tikTvd": "2652000585069",
-    "tikName": "Анивская"
+    "tikName": "Анивская",
+    "uikName": "УИК №367",
+    "regionCode": "65",
+    "regionTvd": "100100225883656",
+    "regionName": "Сахалинская область",
+    "oikTvd": "100100225883657",
+    "oikName": "Сахалинская область – Сахалинский",
+    "district": {
+      "districtNumber": 167,
+      "oikTvd": "100100225883657"
+    }
   },
   {
     "uikNumber": 368,
     "uikTvd": "4654018474533",
     "tikTvd": "2652000585060",
-    "tikName": "Южно-Сахалинская городская"
+    "tikName": "Южно-Сахалинская городская",
+    "uikName": "УИК №368",
+    "regionCode": "65",
+    "regionTvd": "100100225883656",
+    "regionName": "Сахалинская область",
+    "oikTvd": "100100225883657",
+    "oikName": "Сахалинская область – Сахалинский",
+    "district": {
+      "districtNumber": 167,
+      "oikTvd": "100100225883657"
+    }
   },
   {
     "uikNumber": 369,
     "uikTvd": "4654018474534",
     "tikTvd": "2652000585060",
-    "tikName": "Южно-Сахалинская городская"
+    "tikName": "Южно-Сахалинская городская",
+    "uikName": "УИК №369",
+    "regionCode": "65",
+    "regionTvd": "100100225883656",
+    "regionName": "Сахалинская область",
+    "oikTvd": "100100225883657",
+    "oikName": "Сахалинская область – Сахалинский",
+    "district": {
+      "districtNumber": 167,
+      "oikTvd": "100100225883657"
+    }
   },
   {
     "uikNumber": 370,
     "uikTvd": "4654018474535",
     "tikTvd": "2652000585060",
-    "tikName": "Южно-Сахалинская городская"
+    "tikName": "Южно-Сахалинская городская",
+    "uikName": "УИК №370",
+    "regionCode": "65",
+    "regionTvd": "100100225883656",
+    "regionName": "Сахалинская область",
+    "oikTvd": "100100225883657",
+    "oikName": "Сахалинская область – Сахалинский",
+    "district": {
+      "districtNumber": 167,
+      "oikTvd": "100100225883657"
+    }
   },
   {
     "uikNumber": 377,
     "uikTvd": "4654017153365",
     "tikTvd": "2652000585059",
-    "tikName": "Южно-Курильская"
+    "tikName": "Южно-Курильская",
+    "uikName": "УИК №377",
+    "regionCode": "65",
+    "regionTvd": "100100225883656",
+    "regionName": "Сахалинская область",
+    "oikTvd": "100100225883657",
+    "oikName": "Сахалинская область – Сахалинский",
+    "district": {
+      "districtNumber": 167,
+      "oikTvd": "100100225883657"
+    }
   },
   {
     "uikNumber": 378,
     "uikTvd": "4654017153366",
     "tikTvd": "2652000585059",
-    "tikName": "Южно-Курильская"
+    "tikName": "Южно-Курильская",
+    "uikName": "УИК №378",
+    "regionCode": "65",
+    "regionTvd": "100100225883656",
+    "regionName": "Сахалинская область",
+    "oikTvd": "100100225883657",
+    "oikName": "Сахалинская область – Сахалинский",
+    "district": {
+      "districtNumber": 167,
+      "oikTvd": "100100225883657"
+    }
   },
   {
     "uikNumber": 381,
     "uikTvd": "4654018474536",
     "tikTvd": "2652000585060",
-    "tikName": "Южно-Сахалинская городская"
+    "tikName": "Южно-Сахалинская городская",
+    "uikName": "УИК №381",
+    "regionCode": "65",
+    "regionTvd": "100100225883656",
+    "regionName": "Сахалинская область",
+    "oikTvd": "100100225883657",
+    "oikName": "Сахалинская область – Сахалинский",
+    "district": {
+      "districtNumber": 167,
+      "oikTvd": "100100225883657"
+    }
   },
   {
     "uikNumber": 382,
     "uikTvd": "4654018474537",
     "tikTvd": "2652000585060",
-    "tikName": "Южно-Сахалинская городская"
+    "tikName": "Южно-Сахалинская городская",
+    "uikName": "УИК №382",
+    "regionCode": "65",
+    "regionTvd": "100100225883656",
+    "regionName": "Сахалинская область",
+    "oikTvd": "100100225883657",
+    "oikName": "Сахалинская область – Сахалинский",
+    "district": {
+      "districtNumber": 167,
+      "oikTvd": "100100225883657"
+    }
   },
   {
     "uikNumber": 383,
     "uikTvd": "4654018474538",
     "tikTvd": "2652000585060",
-    "tikName": "Южно-Сахалинская городская"
+    "tikName": "Южно-Сахалинская городская",
+    "uikName": "УИК №383",
+    "regionCode": "65",
+    "regionTvd": "100100225883656",
+    "regionName": "Сахалинская область",
+    "oikTvd": "100100225883657",
+    "oikName": "Сахалинская область – Сахалинский",
+    "district": {
+      "districtNumber": 167,
+      "oikTvd": "100100225883657"
+    }
   },
   {
     "uikNumber": 384,
     "uikTvd": "4654018474539",
     "tikTvd": "2652000585060",
-    "tikName": "Южно-Сахалинская городская"
+    "tikName": "Южно-Сахалинская городская",
+    "uikName": "УИК №384",
+    "regionCode": "65",
+    "regionTvd": "100100225883656",
+    "regionName": "Сахалинская область",
+    "oikTvd": "100100225883657",
+    "oikName": "Сахалинская область – Сахалинский",
+    "district": {
+      "districtNumber": 167,
+      "oikTvd": "100100225883657"
+    }
   },
   {
     "uikNumber": 385,
     "uikTvd": "4654018484942",
     "tikTvd": "2652000585060",
-    "tikName": "Южно-Сахалинская городская"
+    "tikName": "Южно-Сахалинская городская",
+    "uikName": "УИК №385",
+    "regionCode": "65",
+    "regionTvd": "100100225883656",
+    "regionName": "Сахалинская область",
+    "oikTvd": "100100225883657",
+    "oikName": "Сахалинская область – Сахалинский",
+    "district": {
+      "districtNumber": 167,
+      "oikTvd": "100100225883657"
+    }
   },
   {
     "uikNumber": 400,
     "uikTvd": "4654020141553",
     "tikTvd": "2652000585068",
-    "tikName": "Холмская судовая"
+    "tikName": "Холмская судовая",
+    "uikName": "УИК №400",
+    "regionCode": "65",
+    "regionTvd": "100100225883656",
+    "regionName": "Сахалинская область",
+    "oikTvd": "100100225883657",
+    "oikName": "Сахалинская область – Сахалинский",
+    "district": {
+      "districtNumber": 167,
+      "oikTvd": "100100225883657"
+    }
   },
   {
     "uikNumber": 401,
     "uikTvd": "4654020141554",
     "tikTvd": "2652000585068",
-    "tikName": "Холмская судовая"
+    "tikName": "Холмская судовая",
+    "uikName": "УИК №401",
+    "regionCode": "65",
+    "regionTvd": "100100225883656",
+    "regionName": "Сахалинская область",
+    "oikTvd": "100100225883657",
+    "oikName": "Сахалинская область – Сахалинский",
+    "district": {
+      "districtNumber": 167,
+      "oikTvd": "100100225883657"
+    }
   },
   {
     "uikNumber": 402,
     "uikTvd": "4654020141555",
     "tikTvd": "2652000585068",
-    "tikName": "Холмская судовая"
+    "tikName": "Холмская судовая",
+    "uikName": "УИК №402",
+    "regionCode": "65",
+    "regionTvd": "100100225883656",
+    "regionName": "Сахалинская область",
+    "oikTvd": "100100225883657",
+    "oikName": "Сахалинская область – Сахалинский",
+    "district": {
+      "districtNumber": 167,
+      "oikTvd": "100100225883657"
+    }
   },
   {
     "uikNumber": 403,
     "uikTvd": "4654020141556",
     "tikTvd": "2652000585068",
-    "tikName": "Холмская судовая"
+    "tikName": "Холмская судовая",
+    "uikName": "УИК №403",
+    "regionCode": "65",
+    "regionTvd": "100100225883656",
+    "regionName": "Сахалинская область",
+    "oikTvd": "100100225883657",
+    "oikName": "Сахалинская область – Сахалинский",
+    "district": {
+      "districtNumber": 167,
+      "oikTvd": "100100225883657"
+    }
   },
   {
     "uikNumber": 405,
     "uikTvd": "4654020141558",
     "tikTvd": "2652000585068",
-    "tikName": "Холмская судовая"
+    "tikName": "Холмская судовая",
+    "uikName": "УИК №405",
+    "regionCode": "65",
+    "regionTvd": "100100225883656",
+    "regionName": "Сахалинская область",
+    "oikTvd": "100100225883657",
+    "oikName": "Сахалинская область – Сахалинский",
+    "district": {
+      "districtNumber": 167,
+      "oikTvd": "100100225883657"
+    }
   },
   {
     "uikNumber": 406,
     "uikTvd": "4654020141559",
     "tikTvd": "2652000585068",
-    "tikName": "Холмская судовая"
+    "tikName": "Холмская судовая",
+    "uikName": "УИК №406",
+    "regionCode": "65",
+    "regionTvd": "100100225883656",
+    "regionName": "Сахалинская область",
+    "oikTvd": "100100225883657",
+    "oikName": "Сахалинская область – Сахалинский",
+    "district": {
+      "districtNumber": 167,
+      "oikTvd": "100100225883657"
+    }
   },
   {
     "uikNumber": 407,
     "uikTvd": "4654020141560",
     "tikTvd": "2652000585068",
-    "tikName": "Холмская судовая"
+    "tikName": "Холмская судовая",
+    "uikName": "УИК №407",
+    "regionCode": "65",
+    "regionTvd": "100100225883656",
+    "regionName": "Сахалинская область",
+    "oikTvd": "100100225883657",
+    "oikName": "Сахалинская область – Сахалинский",
+    "district": {
+      "districtNumber": 167,
+      "oikTvd": "100100225883657"
+    }
   },
   {
     "uikNumber": 408,
     "uikTvd": "4654020141561",
     "tikTvd": "2652000585068",
-    "tikName": "Холмская судовая"
+    "tikName": "Холмская судовая",
+    "uikName": "УИК №408",
+    "regionCode": "65",
+    "regionTvd": "100100225883656",
+    "regionName": "Сахалинская область",
+    "oikTvd": "100100225883657",
+    "oikName": "Сахалинская область – Сахалинский",
+    "district": {
+      "districtNumber": 167,
+      "oikTvd": "100100225883657"
+    }
   },
   {
     "uikNumber": 409,
     "uikTvd": "4654020141562",
     "tikTvd": "2652000585068",
-    "tikName": "Холмская судовая"
+    "tikName": "Холмская судовая",
+    "uikName": "УИК №409",
+    "regionCode": "65",
+    "regionTvd": "100100225883656",
+    "regionName": "Сахалинская область",
+    "oikTvd": "100100225883657",
+    "oikName": "Сахалинская область – Сахалинский",
+    "district": {
+      "districtNumber": 167,
+      "oikTvd": "100100225883657"
+    }
   },
   {
     "uikNumber": 410,
     "uikTvd": "4654020141563",
     "tikTvd": "2652000585068",
-    "tikName": "Холмская судовая"
+    "tikName": "Холмская судовая",
+    "uikName": "УИК №410",
+    "regionCode": "65",
+    "regionTvd": "100100225883656",
+    "regionName": "Сахалинская область",
+    "oikTvd": "100100225883657",
+    "oikName": "Сахалинская область – Сахалинский",
+    "district": {
+      "districtNumber": 167,
+      "oikTvd": "100100225883657"
+    }
   },
   {
     "uikNumber": 411,
     "uikTvd": "4654020141564",
     "tikTvd": "2652000585068",
-    "tikName": "Холмская судовая"
+    "tikName": "Холмская судовая",
+    "uikName": "УИК №411",
+    "regionCode": "65",
+    "regionTvd": "100100225883656",
+    "regionName": "Сахалинская область",
+    "oikTvd": "100100225883657",
+    "oikName": "Сахалинская область – Сахалинский",
+    "district": {
+      "districtNumber": 167,
+      "oikTvd": "100100225883657"
+    }
   },
   {
     "uikNumber": 412,
     "uikTvd": "4654020141565",
     "tikTvd": "2652000585068",
-    "tikName": "Холмская судовая"
+    "tikName": "Холмская судовая",
+    "uikName": "УИК №412",
+    "regionCode": "65",
+    "regionTvd": "100100225883656",
+    "regionName": "Сахалинская область",
+    "oikTvd": "100100225883657",
+    "oikName": "Сахалинская область – Сахалинский",
+    "district": {
+      "districtNumber": 167,
+      "oikTvd": "100100225883657"
+    }
   },
   {
     "uikNumber": 413,
     "uikTvd": "4654020141566",
     "tikTvd": "2652000585068",
-    "tikName": "Холмская судовая"
+    "tikName": "Холмская судовая",
+    "uikName": "УИК №413",
+    "regionCode": "65",
+    "regionTvd": "100100225883656",
+    "regionName": "Сахалинская область",
+    "oikTvd": "100100225883657",
+    "oikName": "Сахалинская область – Сахалинский",
+    "district": {
+      "districtNumber": 167,
+      "oikTvd": "100100225883657"
+    }
   },
   {
     "uikNumber": 414,
     "uikTvd": "4654020141567",
     "tikTvd": "2652000585068",
-    "tikName": "Холмская судовая"
+    "tikName": "Холмская судовая",
+    "uikName": "УИК №414",
+    "regionCode": "65",
+    "regionTvd": "100100225883656",
+    "regionName": "Сахалинская область",
+    "oikTvd": "100100225883657",
+    "oikName": "Сахалинская область – Сахалинский",
+    "district": {
+      "districtNumber": 167,
+      "oikTvd": "100100225883657"
+    }
   },
   {
     "uikNumber": 415,
     "uikTvd": "4654020141568",
     "tikTvd": "2652000585068",
-    "tikName": "Холмская судовая"
+    "tikName": "Холмская судовая",
+    "uikName": "УИК №415",
+    "regionCode": "65",
+    "regionTvd": "100100225883656",
+    "regionName": "Сахалинская область",
+    "oikTvd": "100100225883657",
+    "oikName": "Сахалинская область – Сахалинский",
+    "district": {
+      "districtNumber": 167,
+      "oikTvd": "100100225883657"
+    }
   },
   {
     "uikNumber": 416,
     "uikTvd": "4654020141569",
     "tikTvd": "2652000585068",
-    "tikName": "Холмская судовая"
+    "tikName": "Холмская судовая",
+    "uikName": "УИК №416",
+    "regionCode": "65",
+    "regionTvd": "100100225883656",
+    "regionName": "Сахалинская область",
+    "oikTvd": "100100225883657",
+    "oikName": "Сахалинская область – Сахалинский",
+    "district": {
+      "districtNumber": 167,
+      "oikTvd": "100100225883657"
+    }
   },
   {
     "uikNumber": 417,
     "uikTvd": "4654020141570",
     "tikTvd": "2652000585068",
-    "tikName": "Холмская судовая"
+    "tikName": "Холмская судовая",
+    "uikName": "УИК №417",
+    "regionCode": "65",
+    "regionTvd": "100100225883656",
+    "regionName": "Сахалинская область",
+    "oikTvd": "100100225883657",
+    "oikName": "Сахалинская область – Сахалинский",
+    "district": {
+      "districtNumber": 167,
+      "oikTvd": "100100225883657"
+    }
   },
   {
     "uikNumber": 418,
     "uikTvd": "4654020141571",
     "tikTvd": "2652000585068",
-    "tikName": "Холмская судовая"
+    "tikName": "Холмская судовая",
+    "uikName": "УИК №418",
+    "regionCode": "65",
+    "regionTvd": "100100225883656",
+    "regionName": "Сахалинская область",
+    "oikTvd": "100100225883657",
+    "oikName": "Сахалинская область – Сахалинский",
+    "district": {
+      "districtNumber": 167,
+      "oikTvd": "100100225883657"
+    }
   },
   {
     "uikNumber": 419,
     "uikTvd": "4654020141572",
     "tikTvd": "2652000585068",
-    "tikName": "Холмская судовая"
+    "tikName": "Холмская судовая",
+    "uikName": "УИК №419",
+    "regionCode": "65",
+    "regionTvd": "100100225883656",
+    "regionName": "Сахалинская область",
+    "oikTvd": "100100225883657",
+    "oikName": "Сахалинская область – Сахалинский",
+    "district": {
+      "districtNumber": 167,
+      "oikTvd": "100100225883657"
+    }
   },
   {
     "uikNumber": 420,
     "uikTvd": "4654020141573",
     "tikTvd": "2652000585068",
-    "tikName": "Холмская судовая"
+    "tikName": "Холмская судовая",
+    "uikName": "УИК №420",
+    "regionCode": "65",
+    "regionTvd": "100100225883656",
+    "regionName": "Сахалинская область",
+    "oikTvd": "100100225883657",
+    "oikName": "Сахалинская область – Сахалинский",
+    "district": {
+      "districtNumber": 167,
+      "oikTvd": "100100225883657"
+    }
   },
   {
     "uikNumber": 421,
     "uikTvd": "4654020141574",
     "tikTvd": "2652000585068",
-    "tikName": "Холмская судовая"
+    "tikName": "Холмская судовая",
+    "uikName": "УИК №421",
+    "regionCode": "65",
+    "regionTvd": "100100225883656",
+    "regionName": "Сахалинская область",
+    "oikTvd": "100100225883657",
+    "oikName": "Сахалинская область – Сахалинский",
+    "district": {
+      "districtNumber": 167,
+      "oikTvd": "100100225883657"
+    }
   },
   {
     "uikNumber": 422,
     "uikTvd": "4654020141575",
     "tikTvd": "2652000585068",
-    "tikName": "Холмская судовая"
+    "tikName": "Холмская судовая",
+    "uikName": "УИК №422",
+    "regionCode": "65",
+    "regionTvd": "100100225883656",
+    "regionName": "Сахалинская область",
+    "oikTvd": "100100225883657",
+    "oikName": "Сахалинская область – Сахалинский",
+    "district": {
+      "districtNumber": 167,
+      "oikTvd": "100100225883657"
+    }
   },
   {
     "uikNumber": 423,
     "uikTvd": "4654020141576",
     "tikTvd": "2652000585068",
-    "tikName": "Холмская судовая"
+    "tikName": "Холмская судовая",
+    "uikName": "УИК №423",
+    "regionCode": "65",
+    "regionTvd": "100100225883656",
+    "regionName": "Сахалинская область",
+    "oikTvd": "100100225883657",
+    "oikName": "Сахалинская область – Сахалинский",
+    "district": {
+      "districtNumber": 167,
+      "oikTvd": "100100225883657"
+    }
   },
   {
     "uikNumber": 424,
     "uikTvd": "4654020141577",
     "tikTvd": "2652000585068",
-    "tikName": "Холмская судовая"
+    "tikName": "Холмская судовая",
+    "uikName": "УИК №424",
+    "regionCode": "65",
+    "regionTvd": "100100225883656",
+    "regionName": "Сахалинская область",
+    "oikTvd": "100100225883657",
+    "oikName": "Сахалинская область – Сахалинский",
+    "district": {
+      "districtNumber": 167,
+      "oikTvd": "100100225883657"
+    }
   },
   {
     "uikNumber": 425,
     "uikTvd": "4654020141578",
     "tikTvd": "2652000585068",
-    "tikName": "Холмская судовая"
+    "tikName": "Холмская судовая",
+    "uikName": "УИК №425",
+    "regionCode": "65",
+    "regionTvd": "100100225883656",
+    "regionName": "Сахалинская область",
+    "oikTvd": "100100225883657",
+    "oikName": "Сахалинская область – Сахалинский",
+    "district": {
+      "districtNumber": 167,
+      "oikTvd": "100100225883657"
+    }
   },
   {
     "uikNumber": 426,
     "uikTvd": "4654020141579",
     "tikTvd": "2652000585068",
-    "tikName": "Холмская судовая"
+    "tikName": "Холмская судовая",
+    "uikName": "УИК №426",
+    "regionCode": "65",
+    "regionTvd": "100100225883656",
+    "regionName": "Сахалинская область",
+    "oikTvd": "100100225883657",
+    "oikName": "Сахалинская область – Сахалинский",
+    "district": {
+      "districtNumber": 167,
+      "oikTvd": "100100225883657"
+    }
   },
   {
     "uikNumber": 427,
     "uikTvd": "4654020141580",
     "tikTvd": "2652000585068",
-    "tikName": "Холмская судовая"
+    "tikName": "Холмская судовая",
+    "uikName": "УИК №427",
+    "regionCode": "65",
+    "regionTvd": "100100225883656",
+    "regionName": "Сахалинская область",
+    "oikTvd": "100100225883657",
+    "oikName": "Сахалинская область – Сахалинский",
+    "district": {
+      "districtNumber": 167,
+      "oikTvd": "100100225883657"
+    }
   },
   {
     "uikNumber": 428,
     "uikTvd": "4654020141581",
     "tikTvd": "2652000585068",
-    "tikName": "Холмская судовая"
+    "tikName": "Холмская судовая",
+    "uikName": "УИК №428",
+    "regionCode": "65",
+    "regionTvd": "100100225883656",
+    "regionName": "Сахалинская область",
+    "oikTvd": "100100225883657",
+    "oikName": "Сахалинская область – Сахалинский",
+    "district": {
+      "districtNumber": 167,
+      "oikTvd": "100100225883657"
+    }
   },
   {
     "uikNumber": 429,
     "uikTvd": "4654020141582",
     "tikTvd": "2652000585068",
-    "tikName": "Холмская судовая"
+    "tikName": "Холмская судовая",
+    "uikName": "УИК №429",
+    "regionCode": "65",
+    "regionTvd": "100100225883656",
+    "regionName": "Сахалинская область",
+    "oikTvd": "100100225883657",
+    "oikName": "Сахалинская область – Сахалинский",
+    "district": {
+      "districtNumber": 167,
+      "oikTvd": "100100225883657"
+    }
   },
   {
     "uikNumber": 430,
     "uikTvd": "4654020141583",
     "tikTvd": "2652000585068",
-    "tikName": "Холмская судовая"
+    "tikName": "Холмская судовая",
+    "uikName": "УИК №430",
+    "regionCode": "65",
+    "regionTvd": "100100225883656",
+    "regionName": "Сахалинская область",
+    "oikTvd": "100100225883657",
+    "oikName": "Сахалинская область – Сахалинский",
+    "district": {
+      "districtNumber": 167,
+      "oikTvd": "100100225883657"
+    }
   },
   {
     "uikNumber": 431,
     "uikTvd": "4654020141584",
     "tikTvd": "2652000585068",
-    "tikName": "Холмская судовая"
+    "tikName": "Холмская судовая",
+    "uikName": "УИК №431",
+    "regionCode": "65",
+    "regionTvd": "100100225883656",
+    "regionName": "Сахалинская область",
+    "oikTvd": "100100225883657",
+    "oikName": "Сахалинская область – Сахалинский",
+    "district": {
+      "districtNumber": 167,
+      "oikTvd": "100100225883657"
+    }
   },
   {
     "uikNumber": 432,
     "uikTvd": "4654020141585",
     "tikTvd": "2652000585068",
-    "tikName": "Холмская судовая"
+    "tikName": "Холмская судовая",
+    "uikName": "УИК №432",
+    "regionCode": "65",
+    "regionTvd": "100100225883656",
+    "regionName": "Сахалинская область",
+    "oikTvd": "100100225883657",
+    "oikName": "Сахалинская область – Сахалинский",
+    "district": {
+      "districtNumber": 167,
+      "oikTvd": "100100225883657"
+    }
   },
   {
     "uikNumber": 433,
     "uikTvd": "4654020141586",
     "tikTvd": "2652000585068",
-    "tikName": "Холмская судовая"
+    "tikName": "Холмская судовая",
+    "uikName": "УИК №433",
+    "regionCode": "65",
+    "regionTvd": "100100225883656",
+    "regionName": "Сахалинская область",
+    "oikTvd": "100100225883657",
+    "oikName": "Сахалинская область – Сахалинский",
+    "district": {
+      "districtNumber": 167,
+      "oikTvd": "100100225883657"
+    }
   },
   {
     "uikNumber": 435,
     "uikTvd": "4654020141588",
     "tikTvd": "2652000585068",
-    "tikName": "Холмская судовая"
+    "tikName": "Холмская судовая",
+    "uikName": "УИК №435",
+    "regionCode": "65",
+    "regionTvd": "100100225883656",
+    "regionName": "Сахалинская область",
+    "oikTvd": "100100225883657",
+    "oikName": "Сахалинская область – Сахалинский",
+    "district": {
+      "districtNumber": 167,
+      "oikTvd": "100100225883657"
+    }
   },
   {
     "uikNumber": 436,
     "uikTvd": "4654020141589",
     "tikTvd": "2652000585068",
-    "tikName": "Холмская судовая"
+    "tikName": "Холмская судовая",
+    "uikName": "УИК №436",
+    "regionCode": "65",
+    "regionTvd": "100100225883656",
+    "regionName": "Сахалинская область",
+    "oikTvd": "100100225883657",
+    "oikName": "Сахалинская область – Сахалинский",
+    "district": {
+      "districtNumber": 167,
+      "oikTvd": "100100225883657"
+    }
   },
   {
     "uikNumber": 437,
     "uikTvd": "4654020141590",
     "tikTvd": "2652000585068",
-    "tikName": "Холмская судовая"
+    "tikName": "Холмская судовая",
+    "uikName": "УИК №437",
+    "regionCode": "65",
+    "regionTvd": "100100225883656",
+    "regionName": "Сахалинская область",
+    "oikTvd": "100100225883657",
+    "oikName": "Сахалинская область – Сахалинский",
+    "district": {
+      "districtNumber": 167,
+      "oikTvd": "100100225883657"
+    }
   },
   {
     "uikNumber": 438,
     "uikTvd": "4654020141591",
     "tikTvd": "2652000585068",
-    "tikName": "Холмская судовая"
+    "tikName": "Холмская судовая",
+    "uikName": "УИК №438",
+    "regionCode": "65",
+    "regionTvd": "100100225883656",
+    "regionName": "Сахалинская область",
+    "oikTvd": "100100225883657",
+    "oikName": "Сахалинская область – Сахалинский",
+    "district": {
+      "districtNumber": 167,
+      "oikTvd": "100100225883657"
+    }
   },
   {
     "uikNumber": 439,
     "uikTvd": "4654020141592",
     "tikTvd": "2652000585068",
-    "tikName": "Холмская судовая"
+    "tikName": "Холмская судовая",
+    "uikName": "УИК №439",
+    "regionCode": "65",
+    "regionTvd": "100100225883656",
+    "regionName": "Сахалинская область",
+    "oikTvd": "100100225883657",
+    "oikName": "Сахалинская область – Сахалинский",
+    "district": {
+      "districtNumber": 167,
+      "oikTvd": "100100225883657"
+    }
   },
   {
     "uikNumber": 440,
     "uikTvd": "4654020141593",
     "tikTvd": "2652000585068",
-    "tikName": "Холмская судовая"
+    "tikName": "Холмская судовая",
+    "uikName": "УИК №440",
+    "regionCode": "65",
+    "regionTvd": "100100225883656",
+    "regionName": "Сахалинская область",
+    "oikTvd": "100100225883657",
+    "oikName": "Сахалинская область – Сахалинский",
+    "district": {
+      "districtNumber": 167,
+      "oikTvd": "100100225883657"
+    }
   },
   {
     "uikNumber": 442,
     "uikTvd": "4654020141595",
     "tikTvd": "2652000585068",
-    "tikName": "Холмская судовая"
+    "tikName": "Холмская судовая",
+    "uikName": "УИК №442",
+    "regionCode": "65",
+    "regionTvd": "100100225883656",
+    "regionName": "Сахалинская область",
+    "oikTvd": "100100225883657",
+    "oikName": "Сахалинская область – Сахалинский",
+    "district": {
+      "districtNumber": 167,
+      "oikTvd": "100100225883657"
+    }
   },
   {
     "uikNumber": 443,
     "uikTvd": "4654020143079",
     "tikTvd": "2652000585068",
-    "tikName": "Холмская судовая"
+    "tikName": "Холмская судовая",
+    "uikName": "УИК №443",
+    "regionCode": "65",
+    "regionTvd": "100100225883656",
+    "regionName": "Сахалинская область",
+    "oikTvd": "100100225883657",
+    "oikName": "Сахалинская область – Сахалинский",
+    "district": {
+      "districtNumber": 167,
+      "oikTvd": "100100225883657"
+    }
   },
   {
     "uikNumber": 551,
     "uikTvd": "4654019139077",
     "tikTvd": "2652000585057",
-    "tikName": "Невельская судовая"
+    "tikName": "Невельская судовая",
+    "uikName": "УИК №551",
+    "regionCode": "65",
+    "regionTvd": "100100225883656",
+    "regionName": "Сахалинская область",
+    "oikTvd": "100100225883657",
+    "oikName": "Сахалинская область – Сахалинский",
+    "district": {
+      "districtNumber": 167,
+      "oikTvd": "100100225883657"
+    }
   },
   {
     "uikNumber": 552,
     "uikTvd": "4654019139078",
     "tikTvd": "2652000585057",
-    "tikName": "Невельская судовая"
+    "tikName": "Невельская судовая",
+    "uikName": "УИК №552",
+    "regionCode": "65",
+    "regionTvd": "100100225883656",
+    "regionName": "Сахалинская область",
+    "oikTvd": "100100225883657",
+    "oikName": "Сахалинская область – Сахалинский",
+    "district": {
+      "districtNumber": 167,
+      "oikTvd": "100100225883657"
+    }
   },
   {
     "uikNumber": 553,
     "uikTvd": "4654019139079",
     "tikTvd": "2652000585057",
-    "tikName": "Невельская судовая"
+    "tikName": "Невельская судовая",
+    "uikName": "УИК №553",
+    "regionCode": "65",
+    "regionTvd": "100100225883656",
+    "regionName": "Сахалинская область",
+    "oikTvd": "100100225883657",
+    "oikName": "Сахалинская область – Сахалинский",
+    "district": {
+      "districtNumber": 167,
+      "oikTvd": "100100225883657"
+    }
   },
   {
     "uikNumber": 554,
     "uikTvd": "4654019139080",
     "tikTvd": "2652000585057",
-    "tikName": "Невельская судовая"
+    "tikName": "Невельская судовая",
+    "uikName": "УИК №554",
+    "regionCode": "65",
+    "regionTvd": "100100225883656",
+    "regionName": "Сахалинская область",
+    "oikTvd": "100100225883657",
+    "oikName": "Сахалинская область – Сахалинский",
+    "district": {
+      "districtNumber": 167,
+      "oikTvd": "100100225883657"
+    }
   },
   {
     "uikNumber": 555,
     "uikTvd": "4654019139081",
     "tikTvd": "2652000585057",
-    "tikName": "Невельская судовая"
+    "tikName": "Невельская судовая",
+    "uikName": "УИК №555",
+    "regionCode": "65",
+    "regionTvd": "100100225883656",
+    "regionName": "Сахалинская область",
+    "oikTvd": "100100225883657",
+    "oikName": "Сахалинская область – Сахалинский",
+    "district": {
+      "districtNumber": 167,
+      "oikTvd": "100100225883657"
+    }
   },
   {
     "uikNumber": 556,
     "uikTvd": "4654019139082",
     "tikTvd": "2652000585057",
-    "tikName": "Невельская судовая"
+    "tikName": "Невельская судовая",
+    "uikName": "УИК №556",
+    "regionCode": "65",
+    "regionTvd": "100100225883656",
+    "regionName": "Сахалинская область",
+    "oikTvd": "100100225883657",
+    "oikName": "Сахалинская область – Сахалинский",
+    "district": {
+      "districtNumber": 167,
+      "oikTvd": "100100225883657"
+    }
   },
   {
     "uikNumber": 557,
     "uikTvd": "4654019139083",
     "tikTvd": "2652000585057",
-    "tikName": "Невельская судовая"
+    "tikName": "Невельская судовая",
+    "uikName": "УИК №557",
+    "regionCode": "65",
+    "regionTvd": "100100225883656",
+    "regionName": "Сахалинская область",
+    "oikTvd": "100100225883657",
+    "oikName": "Сахалинская область – Сахалинский",
+    "district": {
+      "districtNumber": 167,
+      "oikTvd": "100100225883657"
+    }
   },
   {
     "uikNumber": 558,
     "uikTvd": "4654019139084",
     "tikTvd": "2652000585057",
-    "tikName": "Невельская судовая"
+    "tikName": "Невельская судовая",
+    "uikName": "УИК №558",
+    "regionCode": "65",
+    "regionTvd": "100100225883656",
+    "regionName": "Сахалинская область",
+    "oikTvd": "100100225883657",
+    "oikName": "Сахалинская область – Сахалинский",
+    "district": {
+      "districtNumber": 167,
+      "oikTvd": "100100225883657"
+    }
   },
   {
     "uikNumber": 559,
     "uikTvd": "4654019139085",
     "tikTvd": "2652000585057",
-    "tikName": "Невельская судовая"
+    "tikName": "Невельская судовая",
+    "uikName": "УИК №559",
+    "regionCode": "65",
+    "regionTvd": "100100225883656",
+    "regionName": "Сахалинская область",
+    "oikTvd": "100100225883657",
+    "oikName": "Сахалинская область – Сахалинский",
+    "district": {
+      "districtNumber": 167,
+      "oikTvd": "100100225883657"
+    }
   },
   {
     "uikNumber": 560,
     "uikTvd": "4654019139086",
     "tikTvd": "2652000585057",
-    "tikName": "Невельская судовая"
+    "tikName": "Невельская судовая",
+    "uikName": "УИК №560",
+    "regionCode": "65",
+    "regionTvd": "100100225883656",
+    "regionName": "Сахалинская область",
+    "oikTvd": "100100225883657",
+    "oikName": "Сахалинская область – Сахалинский",
+    "district": {
+      "districtNumber": 167,
+      "oikTvd": "100100225883657"
+    }
   },
   {
     "uikNumber": 561,
     "uikTvd": "4654019139087",
     "tikTvd": "2652000585057",
-    "tikName": "Невельская судовая"
+    "tikName": "Невельская судовая",
+    "uikName": "УИК №561",
+    "regionCode": "65",
+    "regionTvd": "100100225883656",
+    "regionName": "Сахалинская область",
+    "oikTvd": "100100225883657",
+    "oikName": "Сахалинская область – Сахалинский",
+    "district": {
+      "districtNumber": 167,
+      "oikTvd": "100100225883657"
+    }
   },
   {
     "uikNumber": 562,
     "uikTvd": "4654019139088",
     "tikTvd": "2652000585057",
-    "tikName": "Невельская судовая"
+    "tikName": "Невельская судовая",
+    "uikName": "УИК №562",
+    "regionCode": "65",
+    "regionTvd": "100100225883656",
+    "regionName": "Сахалинская область",
+    "oikTvd": "100100225883657",
+    "oikName": "Сахалинская область – Сахалинский",
+    "district": {
+      "districtNumber": 167,
+      "oikTvd": "100100225883657"
+    }
   },
   {
     "uikNumber": 563,
     "uikTvd": "4654019139089",
     "tikTvd": "2652000585057",
-    "tikName": "Невельская судовая"
+    "tikName": "Невельская судовая",
+    "uikName": "УИК №563",
+    "regionCode": "65",
+    "regionTvd": "100100225883656",
+    "regionName": "Сахалинская область",
+    "oikTvd": "100100225883657",
+    "oikName": "Сахалинская область – Сахалинский",
+    "district": {
+      "districtNumber": 167,
+      "oikTvd": "100100225883657"
+    }
   },
   {
     "uikNumber": 564,
     "uikTvd": "4654019139090",
     "tikTvd": "2652000585057",
-    "tikName": "Невельская судовая"
+    "tikName": "Невельская судовая",
+    "uikName": "УИК №564",
+    "regionCode": "65",
+    "regionTvd": "100100225883656",
+    "regionName": "Сахалинская область",
+    "oikTvd": "100100225883657",
+    "oikName": "Сахалинская область – Сахалинский",
+    "district": {
+      "districtNumber": 167,
+      "oikTvd": "100100225883657"
+    }
   },
   {
     "uikNumber": 565,
     "uikTvd": "4654019139091",
     "tikTvd": "2652000585057",
-    "tikName": "Невельская судовая"
+    "tikName": "Невельская судовая",
+    "uikName": "УИК №565",
+    "regionCode": "65",
+    "regionTvd": "100100225883656",
+    "regionName": "Сахалинская область",
+    "oikTvd": "100100225883657",
+    "oikName": "Сахалинская область – Сахалинский",
+    "district": {
+      "districtNumber": 167,
+      "oikTvd": "100100225883657"
+    }
   },
   {
     "uikNumber": 566,
     "uikTvd": "4654019139092",
     "tikTvd": "2652000585057",
-    "tikName": "Невельская судовая"
+    "tikName": "Невельская судовая",
+    "uikName": "УИК №566",
+    "regionCode": "65",
+    "regionTvd": "100100225883656",
+    "regionName": "Сахалинская область",
+    "oikTvd": "100100225883657",
+    "oikName": "Сахалинская область – Сахалинский",
+    "district": {
+      "districtNumber": 167,
+      "oikTvd": "100100225883657"
+    }
   },
   {
     "uikNumber": 567,
     "uikTvd": "4654019139093",
     "tikTvd": "2652000585057",
-    "tikName": "Невельская судовая"
+    "tikName": "Невельская судовая",
+    "uikName": "УИК №567",
+    "regionCode": "65",
+    "regionTvd": "100100225883656",
+    "regionName": "Сахалинская область",
+    "oikTvd": "100100225883657",
+    "oikName": "Сахалинская область – Сахалинский",
+    "district": {
+      "districtNumber": 167,
+      "oikTvd": "100100225883657"
+    }
   },
   {
     "uikNumber": 569,
     "uikTvd": "4654019139095",
     "tikTvd": "2652000585057",
-    "tikName": "Невельская судовая"
+    "tikName": "Невельская судовая",
+    "uikName": "УИК №569",
+    "regionCode": "65",
+    "regionTvd": "100100225883656",
+    "regionName": "Сахалинская область",
+    "oikTvd": "100100225883657",
+    "oikName": "Сахалинская область – Сахалинский",
+    "district": {
+      "districtNumber": 167,
+      "oikTvd": "100100225883657"
+    }
   },
   {
     "uikNumber": 570,
     "uikTvd": "4654019139096",
     "tikTvd": "2652000585057",
-    "tikName": "Невельская судовая"
+    "tikName": "Невельская судовая",
+    "uikName": "УИК №570",
+    "regionCode": "65",
+    "regionTvd": "100100225883656",
+    "regionName": "Сахалинская область",
+    "oikTvd": "100100225883657",
+    "oikName": "Сахалинская область – Сахалинский",
+    "district": {
+      "districtNumber": 167,
+      "oikTvd": "100100225883657"
+    }
   },
   {
     "uikNumber": 572,
     "uikTvd": "4654019139098",
     "tikTvd": "2652000585057",
-    "tikName": "Невельская судовая"
+    "tikName": "Невельская судовая",
+    "uikName": "УИК №572",
+    "regionCode": "65",
+    "regionTvd": "100100225883656",
+    "regionName": "Сахалинская область",
+    "oikTvd": "100100225883657",
+    "oikName": "Сахалинская область – Сахалинский",
+    "district": {
+      "districtNumber": 167,
+      "oikTvd": "100100225883657"
+    }
   },
   {
     "uikNumber": 573,
     "uikTvd": "4654019139099",
     "tikTvd": "2652000585057",
-    "tikName": "Невельская судовая"
+    "tikName": "Невельская судовая",
+    "uikName": "УИК №573",
+    "regionCode": "65",
+    "regionTvd": "100100225883656",
+    "regionName": "Сахалинская область",
+    "oikTvd": "100100225883657",
+    "oikName": "Сахалинская область – Сахалинский",
+    "district": {
+      "districtNumber": 167,
+      "oikTvd": "100100225883657"
+    }
   },
   {
     "uikNumber": 574,
     "uikTvd": "4654019139100",
     "tikTvd": "2652000585057",
-    "tikName": "Невельская судовая"
+    "tikName": "Невельская судовая",
+    "uikName": "УИК №574",
+    "regionCode": "65",
+    "regionTvd": "100100225883656",
+    "regionName": "Сахалинская область",
+    "oikTvd": "100100225883657",
+    "oikName": "Сахалинская область – Сахалинский",
+    "district": {
+      "districtNumber": 167,
+      "oikTvd": "100100225883657"
+    }
   },
   {
     "uikNumber": 575,
     "uikTvd": "4654019139101",
     "tikTvd": "2652000585057",
-    "tikName": "Невельская судовая"
+    "tikName": "Невельская судовая",
+    "uikName": "УИК №575",
+    "regionCode": "65",
+    "regionTvd": "100100225883656",
+    "regionName": "Сахалинская область",
+    "oikTvd": "100100225883657",
+    "oikName": "Сахалинская область – Сахалинский",
+    "district": {
+      "districtNumber": 167,
+      "oikTvd": "100100225883657"
+    }
   },
   {
     "uikNumber": 576,
     "uikTvd": "4654019139102",
     "tikTvd": "2652000585057",
-    "tikName": "Невельская судовая"
+    "tikName": "Невельская судовая",
+    "uikName": "УИК №576",
+    "regionCode": "65",
+    "regionTvd": "100100225883656",
+    "regionName": "Сахалинская область",
+    "oikTvd": "100100225883657",
+    "oikName": "Сахалинская область – Сахалинский",
+    "district": {
+      "districtNumber": 167,
+      "oikTvd": "100100225883657"
+    }
   },
   {
     "uikNumber": 577,
     "uikTvd": "4654019139103",
     "tikTvd": "2652000585057",
-    "tikName": "Невельская судовая"
+    "tikName": "Невельская судовая",
+    "uikName": "УИК №577",
+    "regionCode": "65",
+    "regionTvd": "100100225883656",
+    "regionName": "Сахалинская область",
+    "oikTvd": "100100225883657",
+    "oikName": "Сахалинская область – Сахалинский",
+    "district": {
+      "districtNumber": 167,
+      "oikTvd": "100100225883657"
+    }
   },
   {
     "uikNumber": 578,
     "uikTvd": "4654019139104",
     "tikTvd": "2652000585057",
-    "tikName": "Невельская судовая"
+    "tikName": "Невельская судовая",
+    "uikName": "УИК №578",
+    "regionCode": "65",
+    "regionTvd": "100100225883656",
+    "regionName": "Сахалинская область",
+    "oikTvd": "100100225883657",
+    "oikName": "Сахалинская область – Сахалинский",
+    "district": {
+      "districtNumber": 167,
+      "oikTvd": "100100225883657"
+    }
   },
   {
     "uikNumber": 579,
     "uikTvd": "4654019139105",
     "tikTvd": "2652000585057",
-    "tikName": "Невельская судовая"
+    "tikName": "Невельская судовая",
+    "uikName": "УИК №579",
+    "regionCode": "65",
+    "regionTvd": "100100225883656",
+    "regionName": "Сахалинская область",
+    "oikTvd": "100100225883657",
+    "oikName": "Сахалинская область – Сахалинский",
+    "district": {
+      "districtNumber": 167,
+      "oikTvd": "100100225883657"
+    }
   },
   {
     "uikNumber": 580,
     "uikTvd": "4654019139106",
     "tikTvd": "2652000585057",
-    "tikName": "Невельская судовая"
+    "tikName": "Невельская судовая",
+    "uikName": "УИК №580",
+    "regionCode": "65",
+    "regionTvd": "100100225883656",
+    "regionName": "Сахалинская область",
+    "oikTvd": "100100225883657",
+    "oikName": "Сахалинская область – Сахалинский",
+    "district": {
+      "districtNumber": 167,
+      "oikTvd": "100100225883657"
+    }
   },
   {
     "uikNumber": 581,
     "uikTvd": "4654019139107",
     "tikTvd": "2652000585057",
-    "tikName": "Невельская судовая"
+    "tikName": "Невельская судовая",
+    "uikName": "УИК №581",
+    "regionCode": "65",
+    "regionTvd": "100100225883656",
+    "regionName": "Сахалинская область",
+    "oikTvd": "100100225883657",
+    "oikName": "Сахалинская область – Сахалинский",
+    "district": {
+      "districtNumber": 167,
+      "oikTvd": "100100225883657"
+    }
   },
   {
     "uikNumber": 582,
     "uikTvd": "4654019139108",
     "tikTvd": "2652000585057",
-    "tikName": "Невельская судовая"
+    "tikName": "Невельская судовая",
+    "uikName": "УИК №582",
+    "regionCode": "65",
+    "regionTvd": "100100225883656",
+    "regionName": "Сахалинская область",
+    "oikTvd": "100100225883657",
+    "oikName": "Сахалинская область – Сахалинский",
+    "district": {
+      "districtNumber": 167,
+      "oikTvd": "100100225883657"
+    }
   },
   {
     "uikNumber": 583,
     "uikTvd": "4654019139109",
     "tikTvd": "2652000585057",
-    "tikName": "Невельская судовая"
+    "tikName": "Невельская судовая",
+    "uikName": "УИК №583",
+    "regionCode": "65",
+    "regionTvd": "100100225883656",
+    "regionName": "Сахалинская область",
+    "oikTvd": "100100225883657",
+    "oikName": "Сахалинская область – Сахалинский",
+    "district": {
+      "districtNumber": 167,
+      "oikTvd": "100100225883657"
+    }
   },
   {
     "uikNumber": 584,
     "uikTvd": "4654019139110",
     "tikTvd": "2652000585057",
-    "tikName": "Невельская судовая"
+    "tikName": "Невельская судовая",
+    "uikName": "УИК №584",
+    "regionCode": "65",
+    "regionTvd": "100100225883656",
+    "regionName": "Сахалинская область",
+    "oikTvd": "100100225883657",
+    "oikName": "Сахалинская область – Сахалинский",
+    "district": {
+      "districtNumber": 167,
+      "oikTvd": "100100225883657"
+    }
   },
   {
     "uikNumber": 585,
     "uikTvd": "4654019139111",
     "tikTvd": "2652000585057",
-    "tikName": "Невельская судовая"
+    "tikName": "Невельская судовая",
+    "uikName": "УИК №585",
+    "regionCode": "65",
+    "regionTvd": "100100225883656",
+    "regionName": "Сахалинская область",
+    "oikTvd": "100100225883657",
+    "oikName": "Сахалинская область – Сахалинский",
+    "district": {
+      "districtNumber": 167,
+      "oikTvd": "100100225883657"
+    }
   },
   {
     "uikNumber": 586,
     "uikTvd": "4654019139112",
     "tikTvd": "2652000585057",
-    "tikName": "Невельская судовая"
+    "tikName": "Невельская судовая",
+    "uikName": "УИК №586",
+    "regionCode": "65",
+    "regionTvd": "100100225883656",
+    "regionName": "Сахалинская область",
+    "oikTvd": "100100225883657",
+    "oikName": "Сахалинская область – Сахалинский",
+    "district": {
+      "districtNumber": 167,
+      "oikTvd": "100100225883657"
+    }
   },
   {
     "uikNumber": 587,
     "uikTvd": "4654019139113",
     "tikTvd": "2652000585057",
-    "tikName": "Невельская судовая"
+    "tikName": "Невельская судовая",
+    "uikName": "УИК №587",
+    "regionCode": "65",
+    "regionTvd": "100100225883656",
+    "regionName": "Сахалинская область",
+    "oikTvd": "100100225883657",
+    "oikName": "Сахалинская область – Сахалинский",
+    "district": {
+      "districtNumber": 167,
+      "oikTvd": "100100225883657"
+    }
   },
   {
     "uikNumber": 588,
     "uikTvd": "4654019139114",
     "tikTvd": "2652000585057",
-    "tikName": "Невельская судовая"
+    "tikName": "Невельская судовая",
+    "uikName": "УИК №588",
+    "regionCode": "65",
+    "regionTvd": "100100225883656",
+    "regionName": "Сахалинская область",
+    "oikTvd": "100100225883657",
+    "oikName": "Сахалинская область – Сахалинский",
+    "district": {
+      "districtNumber": 167,
+      "oikTvd": "100100225883657"
+    }
   },
   {
     "uikNumber": 589,
     "uikTvd": "4654019139115",
     "tikTvd": "2652000585057",
-    "tikName": "Невельская судовая"
+    "tikName": "Невельская судовая",
+    "uikName": "УИК №589",
+    "regionCode": "65",
+    "regionTvd": "100100225883656",
+    "regionName": "Сахалинская область",
+    "oikTvd": "100100225883657",
+    "oikName": "Сахалинская область – Сахалинский",
+    "district": {
+      "districtNumber": 167,
+      "oikTvd": "100100225883657"
+    }
   },
   {
     "uikNumber": 591,
     "uikTvd": "4654019139117",
     "tikTvd": "2652000585057",
-    "tikName": "Невельская судовая"
+    "tikName": "Невельская судовая",
+    "uikName": "УИК №591",
+    "regionCode": "65",
+    "regionTvd": "100100225883656",
+    "regionName": "Сахалинская область",
+    "oikTvd": "100100225883657",
+    "oikName": "Сахалинская область – Сахалинский",
+    "district": {
+      "districtNumber": 167,
+      "oikTvd": "100100225883657"
+    }
   },
   {
     "uikNumber": 592,
     "uikTvd": "4654019139118",
     "tikTvd": "2652000585057",
-    "tikName": "Невельская судовая"
+    "tikName": "Невельская судовая",
+    "uikName": "УИК №592",
+    "regionCode": "65",
+    "regionTvd": "100100225883656",
+    "regionName": "Сахалинская область",
+    "oikTvd": "100100225883657",
+    "oikName": "Сахалинская область – Сахалинский",
+    "district": {
+      "districtNumber": 167,
+      "oikTvd": "100100225883657"
+    }
   },
   {
     "uikNumber": 593,
     "uikTvd": "4654019139119",
     "tikTvd": "2652000585057",
-    "tikName": "Невельская судовая"
+    "tikName": "Невельская судовая",
+    "uikName": "УИК №593",
+    "regionCode": "65",
+    "regionTvd": "100100225883656",
+    "regionName": "Сахалинская область",
+    "oikTvd": "100100225883657",
+    "oikName": "Сахалинская область – Сахалинский",
+    "district": {
+      "districtNumber": 167,
+      "oikTvd": "100100225883657"
+    }
   },
   {
     "uikNumber": 594,
     "uikTvd": "4654019139120",
     "tikTvd": "2652000585057",
-    "tikName": "Невельская судовая"
+    "tikName": "Невельская судовая",
+    "uikName": "УИК №594",
+    "regionCode": "65",
+    "regionTvd": "100100225883656",
+    "regionName": "Сахалинская область",
+    "oikTvd": "100100225883657",
+    "oikName": "Сахалинская область – Сахалинский",
+    "district": {
+      "districtNumber": 167,
+      "oikTvd": "100100225883657"
+    }
   },
   {
     "uikNumber": 596,
     "uikTvd": "4654019139122",
     "tikTvd": "2652000585057",
-    "tikName": "Невельская судовая"
+    "tikName": "Невельская судовая",
+    "uikName": "УИК №596",
+    "regionCode": "65",
+    "regionTvd": "100100225883656",
+    "regionName": "Сахалинская область",
+    "oikTvd": "100100225883657",
+    "oikName": "Сахалинская область – Сахалинский",
+    "district": {
+      "districtNumber": 167,
+      "oikTvd": "100100225883657"
+    }
   },
   {
     "uikNumber": 597,
     "uikTvd": "4654019139123",
     "tikTvd": "2652000585057",
-    "tikName": "Невельская судовая"
+    "tikName": "Невельская судовая",
+    "uikName": "УИК №597",
+    "regionCode": "65",
+    "regionTvd": "100100225883656",
+    "regionName": "Сахалинская область",
+    "oikTvd": "100100225883657",
+    "oikName": "Сахалинская область – Сахалинский",
+    "district": {
+      "districtNumber": 167,
+      "oikTvd": "100100225883657"
+    }
   },
   {
     "uikNumber": 598,
     "uikTvd": "4654019139124",
     "tikTvd": "2652000585057",
-    "tikName": "Невельская судовая"
+    "tikName": "Невельская судовая",
+    "uikName": "УИК №598",
+    "regionCode": "65",
+    "regionTvd": "100100225883656",
+    "regionName": "Сахалинская область",
+    "oikTvd": "100100225883657",
+    "oikName": "Сахалинская область – Сахалинский",
+    "district": {
+      "districtNumber": 167,
+      "oikTvd": "100100225883657"
+    }
   },
   {
     "uikNumber": 599,
     "uikTvd": "4654019139125",
     "tikTvd": "2652000585057",
-    "tikName": "Невельская судовая"
+    "tikName": "Невельская судовая",
+    "uikName": "УИК №599",
+    "regionCode": "65",
+    "regionTvd": "100100225883656",
+    "regionName": "Сахалинская область",
+    "oikTvd": "100100225883657",
+    "oikName": "Сахалинская область – Сахалинский",
+    "district": {
+      "districtNumber": 167,
+      "oikTvd": "100100225883657"
+    }
   },
   {
     "uikNumber": 600,
     "uikTvd": "4654019139126",
     "tikTvd": "2652000585057",
-    "tikName": "Невельская судовая"
+    "tikName": "Невельская судовая",
+    "uikName": "УИК №600",
+    "regionCode": "65",
+    "regionTvd": "100100225883656",
+    "regionName": "Сахалинская область",
+    "oikTvd": "100100225883657",
+    "oikName": "Сахалинская область – Сахалинский",
+    "district": {
+      "districtNumber": 167,
+      "oikTvd": "100100225883657"
+    }
   },
   {
     "uikNumber": 601,
     "uikTvd": "4654019139127",
     "tikTvd": "2652000585057",
-    "tikName": "Невельская судовая"
+    "tikName": "Невельская судовая",
+    "uikName": "УИК №601",
+    "regionCode": "65",
+    "regionTvd": "100100225883656",
+    "regionName": "Сахалинская область",
+    "oikTvd": "100100225883657",
+    "oikName": "Сахалинская область – Сахалинский",
+    "district": {
+      "districtNumber": 167,
+      "oikTvd": "100100225883657"
+    }
   },
   {
     "uikNumber": 605,
     "uikTvd": "4654019139131",
     "tikTvd": "2652000585057",
-    "tikName": "Невельская судовая"
+    "tikName": "Невельская судовая",
+    "uikName": "УИК №605",
+    "regionCode": "65",
+    "regionTvd": "100100225883656",
+    "regionName": "Сахалинская область",
+    "oikTvd": "100100225883657",
+    "oikName": "Сахалинская область – Сахалинский",
+    "district": {
+      "districtNumber": 167,
+      "oikTvd": "100100225883657"
+    }
   },
   {
     "uikNumber": 606,
     "uikTvd": "4654019139132",
     "tikTvd": "2652000585057",
-    "tikName": "Невельская судовая"
+    "tikName": "Невельская судовая",
+    "uikName": "УИК №606",
+    "regionCode": "65",
+    "regionTvd": "100100225883656",
+    "regionName": "Сахалинская область",
+    "oikTvd": "100100225883657",
+    "oikName": "Сахалинская область – Сахалинский",
+    "district": {
+      "districtNumber": 167,
+      "oikTvd": "100100225883657"
+    }
   },
   {
     "uikNumber": 607,
     "uikTvd": "4654019139133",
     "tikTvd": "2652000585057",
-    "tikName": "Невельская судовая"
+    "tikName": "Невельская судовая",
+    "uikName": "УИК №607",
+    "regionCode": "65",
+    "regionTvd": "100100225883656",
+    "regionName": "Сахалинская область",
+    "oikTvd": "100100225883657",
+    "oikName": "Сахалинская область – Сахалинский",
+    "district": {
+      "districtNumber": 167,
+      "oikTvd": "100100225883657"
+    }
   },
   {
     "uikNumber": 608,
     "uikTvd": "4654019139134",
     "tikTvd": "2652000585057",
-    "tikName": "Невельская судовая"
+    "tikName": "Невельская судовая",
+    "uikName": "УИК №608",
+    "regionCode": "65",
+    "regionTvd": "100100225883656",
+    "regionName": "Сахалинская область",
+    "oikTvd": "100100225883657",
+    "oikName": "Сахалинская область – Сахалинский",
+    "district": {
+      "districtNumber": 167,
+      "oikTvd": "100100225883657"
+    }
   },
   {
     "uikNumber": 609,
     "uikTvd": "4654019140042",
     "tikTvd": "2652000585057",
-    "tikName": "Невельская судовая"
+    "tikName": "Невельская судовая",
+    "uikName": "УИК №609",
+    "regionCode": "65",
+    "regionTvd": "100100225883656",
+    "regionName": "Сахалинская область",
+    "oikTvd": "100100225883657",
+    "oikName": "Сахалинская область – Сахалинский",
+    "district": {
+      "districtNumber": 167,
+      "oikTvd": "100100225883657"
+    }
   },
   {
     "uikNumber": 610,
     "uikTvd": "4654019140043",
     "tikTvd": "2652000585057",
-    "tikName": "Невельская судовая"
+    "tikName": "Невельская судовая",
+    "uikName": "УИК №610",
+    "regionCode": "65",
+    "regionTvd": "100100225883656",
+    "regionName": "Сахалинская область",
+    "oikTvd": "100100225883657",
+    "oikName": "Сахалинская область – Сахалинский",
+    "district": {
+      "districtNumber": 167,
+      "oikTvd": "100100225883657"
+    }
   },
   {
     "uikNumber": 611,
     "uikTvd": "4654019140044",
     "tikTvd": "2652000585057",
-    "tikName": "Невельская судовая"
+    "tikName": "Невельская судовая",
+    "uikName": "УИК №611",
+    "regionCode": "65",
+    "regionTvd": "100100225883656",
+    "regionName": "Сахалинская область",
+    "oikTvd": "100100225883657",
+    "oikName": "Сахалинская область – Сахалинский",
+    "district": {
+      "districtNumber": 167,
+      "oikTvd": "100100225883657"
+    }
   },
   {
     "uikNumber": 612,
     "uikTvd": "4654019140045",
     "tikTvd": "2652000585057",
-    "tikName": "Невельская судовая"
+    "tikName": "Невельская судовая",
+    "uikName": "УИК №612",
+    "regionCode": "65",
+    "regionTvd": "100100225883656",
+    "regionName": "Сахалинская область",
+    "oikTvd": "100100225883657",
+    "oikName": "Сахалинская область – Сахалинский",
+    "district": {
+      "districtNumber": 167,
+      "oikTvd": "100100225883657"
+    }
   },
   {
     "uikNumber": 613,
     "uikTvd": "4654019140046",
     "tikTvd": "2652000585057",
-    "tikName": "Невельская судовая"
+    "tikName": "Невельская судовая",
+    "uikName": "УИК №613",
+    "regionCode": "65",
+    "regionTvd": "100100225883656",
+    "regionName": "Сахалинская область",
+    "oikTvd": "100100225883657",
+    "oikName": "Сахалинская область – Сахалинский",
+    "district": {
+      "districtNumber": 167,
+      "oikTvd": "100100225883657"
+    }
   },
   {
     "uikNumber": 614,
     "uikTvd": "4654019140047",
     "tikTvd": "2652000585057",
-    "tikName": "Невельская судовая"
+    "tikName": "Невельская судовая",
+    "uikName": "УИК №614",
+    "regionCode": "65",
+    "regionTvd": "100100225883656",
+    "regionName": "Сахалинская область",
+    "oikTvd": "100100225883657",
+    "oikName": "Сахалинская область – Сахалинский",
+    "district": {
+      "districtNumber": 167,
+      "oikTvd": "100100225883657"
+    }
   },
   {
     "uikNumber": 615,
     "uikTvd": "4654019140148",
     "tikTvd": "2652000585057",
-    "tikName": "Невельская судовая"
+    "tikName": "Невельская судовая",
+    "uikName": "УИК №615",
+    "regionCode": "65",
+    "regionTvd": "100100225883656",
+    "regionName": "Сахалинская область",
+    "oikTvd": "100100225883657",
+    "oikName": "Сахалинская область – Сахалинский",
+    "district": {
+      "districtNumber": 167,
+      "oikTvd": "100100225883657"
+    }
   },
   {
     "uikNumber": 616,
     "uikTvd": "4654019140149",
     "tikTvd": "2652000585057",
-    "tikName": "Невельская судовая"
+    "tikName": "Невельская судовая",
+    "uikName": "УИК №616",
+    "regionCode": "65",
+    "regionTvd": "100100225883656",
+    "regionName": "Сахалинская область",
+    "oikTvd": "100100225883657",
+    "oikName": "Сахалинская область – Сахалинский",
+    "district": {
+      "districtNumber": 167,
+      "oikTvd": "100100225883657"
+    }
   },
   {
     "uikNumber": 617,
     "uikTvd": "4654019141463",
     "tikTvd": "2652000585057",
-    "tikName": "Невельская судовая"
+    "tikName": "Невельская судовая",
+    "uikName": "УИК №617",
+    "regionCode": "65",
+    "regionTvd": "100100225883656",
+    "regionName": "Сахалинская область",
+    "oikTvd": "100100225883657",
+    "oikName": "Сахалинская область – Сахалинский",
+    "district": {
+      "districtNumber": 167,
+      "oikTvd": "100100225883657"
+    }
   },
   {
     "uikNumber": 741,
     "uikTvd": "4654004277770",
     "tikTvd": "2652000585062",
-    "tikName": "Корсаковская"
+    "tikName": "Корсаковская",
+    "uikName": "УИК №741",
+    "regionCode": "65",
+    "regionTvd": "100100225883656",
+    "regionName": "Сахалинская область",
+    "oikTvd": "100100225883657",
+    "oikName": "Сахалинская область – Сахалинский",
+    "district": {
+      "districtNumber": 167,
+      "oikTvd": "100100225883657"
+    }
   },
   {
     "uikNumber": 742,
     "uikTvd": "4654004277771",
     "tikTvd": "2652000585062",
-    "tikName": "Корсаковская"
+    "tikName": "Корсаковская",
+    "uikName": "УИК №742",
+    "regionCode": "65",
+    "regionTvd": "100100225883656",
+    "regionName": "Сахалинская область",
+    "oikTvd": "100100225883657",
+    "oikName": "Сахалинская область – Сахалинский",
+    "district": {
+      "districtNumber": 167,
+      "oikTvd": "100100225883657"
+    }
   },
   {
     "uikNumber": 743,
     "uikTvd": "4654004277772",
     "tikTvd": "2652000585062",
-    "tikName": "Корсаковская"
+    "tikName": "Корсаковская",
+    "uikName": "УИК №743",
+    "regionCode": "65",
+    "regionTvd": "100100225883656",
+    "regionName": "Сахалинская область",
+    "oikTvd": "100100225883657",
+    "oikName": "Сахалинская область – Сахалинский",
+    "district": {
+      "districtNumber": 167,
+      "oikTvd": "100100225883657"
+    }
   },
   {
     "uikNumber": 744,
     "uikTvd": "4654004277773",
     "tikTvd": "2652000585062",
-    "tikName": "Корсаковская"
+    "tikName": "Корсаковская",
+    "uikName": "УИК №744",
+    "regionCode": "65",
+    "regionTvd": "100100225883656",
+    "regionName": "Сахалинская область",
+    "oikTvd": "100100225883657",
+    "oikName": "Сахалинская область – Сахалинский",
+    "district": {
+      "districtNumber": 167,
+      "oikTvd": "100100225883657"
+    }
   },
   {
     "uikNumber": 745,
     "uikTvd": "4654004277774",
     "tikTvd": "2652000585062",
-    "tikName": "Корсаковская"
+    "tikName": "Корсаковская",
+    "uikName": "УИК №745",
+    "regionCode": "65",
+    "regionTvd": "100100225883656",
+    "regionName": "Сахалинская область",
+    "oikTvd": "100100225883657",
+    "oikName": "Сахалинская область – Сахалинский",
+    "district": {
+      "districtNumber": 167,
+      "oikTvd": "100100225883657"
+    }
   },
   {
     "uikNumber": 746,
     "uikTvd": "4654004277775",
     "tikTvd": "2652000585062",
-    "tikName": "Корсаковская"
+    "tikName": "Корсаковская",
+    "uikName": "УИК №746",
+    "regionCode": "65",
+    "regionTvd": "100100225883656",
+    "regionName": "Сахалинская область",
+    "oikTvd": "100100225883657",
+    "oikName": "Сахалинская область – Сахалинский",
+    "district": {
+      "districtNumber": 167,
+      "oikTvd": "100100225883657"
+    }
   },
   {
     "uikNumber": 747,
     "uikTvd": "4654004277776",
     "tikTvd": "2652000585062",
-    "tikName": "Корсаковская"
+    "tikName": "Корсаковская",
+    "uikName": "УИК №747",
+    "regionCode": "65",
+    "regionTvd": "100100225883656",
+    "regionName": "Сахалинская область",
+    "oikTvd": "100100225883657",
+    "oikName": "Сахалинская область – Сахалинский",
+    "district": {
+      "districtNumber": 167,
+      "oikTvd": "100100225883657"
+    }
   },
   {
     "uikNumber": 748,
     "uikTvd": "4654004277777",
     "tikTvd": "2652000585062",
-    "tikName": "Корсаковская"
+    "tikName": "Корсаковская",
+    "uikName": "УИК №748",
+    "regionCode": "65",
+    "regionTvd": "100100225883656",
+    "regionName": "Сахалинская область",
+    "oikTvd": "100100225883657",
+    "oikName": "Сахалинская область – Сахалинский",
+    "district": {
+      "districtNumber": 167,
+      "oikTvd": "100100225883657"
+    }
   },
   {
     "uikNumber": 749,
     "uikTvd": "4654004277778",
     "tikTvd": "2652000585062",
-    "tikName": "Корсаковская"
+    "tikName": "Корсаковская",
+    "uikName": "УИК №749",
+    "regionCode": "65",
+    "regionTvd": "100100225883656",
+    "regionName": "Сахалинская область",
+    "oikTvd": "100100225883657",
+    "oikName": "Сахалинская область – Сахалинский",
+    "district": {
+      "districtNumber": 167,
+      "oikTvd": "100100225883657"
+    }
   },
   {
     "uikNumber": 750,
     "uikTvd": "4654004277779",
     "tikTvd": "2652000585062",
-    "tikName": "Корсаковская"
+    "tikName": "Корсаковская",
+    "uikName": "УИК №750",
+    "regionCode": "65",
+    "regionTvd": "100100225883656",
+    "regionName": "Сахалинская область",
+    "oikTvd": "100100225883657",
+    "oikName": "Сахалинская область – Сахалинский",
+    "district": {
+      "districtNumber": 167,
+      "oikTvd": "100100225883657"
+    }
   },
   {
     "uikNumber": 751,
     "uikTvd": "4654004280174",
     "tikTvd": "2652000585062",
-    "tikName": "Корсаковская"
+    "tikName": "Корсаковская",
+    "uikName": "УИК №751",
+    "regionCode": "65",
+    "regionTvd": "100100225883656",
+    "regionName": "Сахалинская область",
+    "oikTvd": "100100225883657",
+    "oikName": "Сахалинская область – Сахалинский",
+    "district": {
+      "districtNumber": 167,
+      "oikTvd": "100100225883657"
+    }
   },
   {
     "uikNumber": 753,
     "uikTvd": "4654004277781",
     "tikTvd": "2652000585062",
-    "tikName": "Корсаковская"
+    "tikName": "Корсаковская",
+    "uikName": "УИК №753",
+    "regionCode": "65",
+    "regionTvd": "100100225883656",
+    "regionName": "Сахалинская область",
+    "oikTvd": "100100225883657",
+    "oikName": "Сахалинская область – Сахалинский",
+    "district": {
+      "districtNumber": 167,
+      "oikTvd": "100100225883657"
+    }
   },
   {
     "uikNumber": 754,
     "uikTvd": "4654004277782",
     "tikTvd": "2652000585062",
-    "tikName": "Корсаковская"
+    "tikName": "Корсаковская",
+    "uikName": "УИК №754",
+    "regionCode": "65",
+    "regionTvd": "100100225883656",
+    "regionName": "Сахалинская область",
+    "oikTvd": "100100225883657",
+    "oikName": "Сахалинская область – Сахалинский",
+    "district": {
+      "districtNumber": 167,
+      "oikTvd": "100100225883657"
+    }
   },
   {
     "uikNumber": 755,
     "uikTvd": "4654004277783",
     "tikTvd": "2652000585062",
-    "tikName": "Корсаковская"
+    "tikName": "Корсаковская",
+    "uikName": "УИК №755",
+    "regionCode": "65",
+    "regionTvd": "100100225883656",
+    "regionName": "Сахалинская область",
+    "oikTvd": "100100225883657",
+    "oikName": "Сахалинская область – Сахалинский",
+    "district": {
+      "districtNumber": 167,
+      "oikTvd": "100100225883657"
+    }
   },
   {
     "uikNumber": 756,
     "uikTvd": "4654004277784",
     "tikTvd": "2652000585062",
-    "tikName": "Корсаковская"
+    "tikName": "Корсаковская",
+    "uikName": "УИК №756",
+    "regionCode": "65",
+    "regionTvd": "100100225883656",
+    "regionName": "Сахалинская область",
+    "oikTvd": "100100225883657",
+    "oikName": "Сахалинская область – Сахалинский",
+    "district": {
+      "districtNumber": 167,
+      "oikTvd": "100100225883657"
+    }
   },
   {
     "uikNumber": 757,
     "uikTvd": "4654004277785",
     "tikTvd": "2652000585062",
-    "tikName": "Корсаковская"
+    "tikName": "Корсаковская",
+    "uikName": "УИК №757",
+    "regionCode": "65",
+    "regionTvd": "100100225883656",
+    "regionName": "Сахалинская область",
+    "oikTvd": "100100225883657",
+    "oikName": "Сахалинская область – Сахалинский",
+    "district": {
+      "districtNumber": 167,
+      "oikTvd": "100100225883657"
+    }
   },
   {
     "uikNumber": 758,
     "uikTvd": "4654004277786",
     "tikTvd": "2652000585062",
-    "tikName": "Корсаковская"
+    "tikName": "Корсаковская",
+    "uikName": "УИК №758",
+    "regionCode": "65",
+    "regionTvd": "100100225883656",
+    "regionName": "Сахалинская область",
+    "oikTvd": "100100225883657",
+    "oikName": "Сахалинская область – Сахалинский",
+    "district": {
+      "districtNumber": 167,
+      "oikTvd": "100100225883657"
+    }
   },
   {
     "uikNumber": 759,
     "uikTvd": "4654004277787",
     "tikTvd": "2652000585062",
-    "tikName": "Корсаковская"
+    "tikName": "Корсаковская",
+    "uikName": "УИК №759",
+    "regionCode": "65",
+    "regionTvd": "100100225883656",
+    "regionName": "Сахалинская область",
+    "oikTvd": "100100225883657",
+    "oikName": "Сахалинская область – Сахалинский",
+    "district": {
+      "districtNumber": 167,
+      "oikTvd": "100100225883657"
+    }
   },
   {
     "uikNumber": 760,
     "uikTvd": "4654004277788",
     "tikTvd": "2652000585062",
-    "tikName": "Корсаковская"
+    "tikName": "Корсаковская",
+    "uikName": "УИК №760",
+    "regionCode": "65",
+    "regionTvd": "100100225883656",
+    "regionName": "Сахалинская область",
+    "oikTvd": "100100225883657",
+    "oikName": "Сахалинская область – Сахалинский",
+    "district": {
+      "districtNumber": 167,
+      "oikTvd": "100100225883657"
+    }
   },
   {
     "uikNumber": 761,
     "uikTvd": "4654004277789",
     "tikTvd": "2652000585062",
-    "tikName": "Корсаковская"
+    "tikName": "Корсаковская",
+    "uikName": "УИК №761",
+    "regionCode": "65",
+    "regionTvd": "100100225883656",
+    "regionName": "Сахалинская область",
+    "oikTvd": "100100225883657",
+    "oikName": "Сахалинская область – Сахалинский",
+    "district": {
+      "districtNumber": 167,
+      "oikTvd": "100100225883657"
+    }
   },
   {
     "uikNumber": 762,
     "uikTvd": "4654004277790",
     "tikTvd": "2652000585062",
-    "tikName": "Корсаковская"
+    "tikName": "Корсаковская",
+    "uikName": "УИК №762",
+    "regionCode": "65",
+    "regionTvd": "100100225883656",
+    "regionName": "Сахалинская область",
+    "oikTvd": "100100225883657",
+    "oikName": "Сахалинская область – Сахалинский",
+    "district": {
+      "districtNumber": 167,
+      "oikTvd": "100100225883657"
+    }
   },
   {
     "uikNumber": 764,
     "uikTvd": "4654004277792",
     "tikTvd": "2652000585062",
-    "tikName": "Корсаковская"
+    "tikName": "Корсаковская",
+    "uikName": "УИК №764",
+    "regionCode": "65",
+    "regionTvd": "100100225883656",
+    "regionName": "Сахалинская область",
+    "oikTvd": "100100225883657",
+    "oikName": "Сахалинская область – Сахалинский",
+    "district": {
+      "districtNumber": 167,
+      "oikTvd": "100100225883657"
+    }
   },
   {
     "uikNumber": 765,
     "uikTvd": "4654004280176",
     "tikTvd": "2652000585062",
-    "tikName": "Корсаковская"
+    "tikName": "Корсаковская",
+    "uikName": "УИК №765",
+    "regionCode": "65",
+    "regionTvd": "100100225883656",
+    "regionName": "Сахалинская область",
+    "oikTvd": "100100225883657",
+    "oikName": "Сахалинская область – Сахалинский",
+    "district": {
+      "districtNumber": 167,
+      "oikTvd": "100100225883657"
+    }
   },
   {
     "uikNumber": 766,
     "uikTvd": "4654004280177",
     "tikTvd": "2652000585062",
-    "tikName": "Корсаковская"
+    "tikName": "Корсаковская",
+    "uikName": "УИК №766",
+    "regionCode": "65",
+    "regionTvd": "100100225883656",
+    "regionName": "Сахалинская область",
+    "oikTvd": "100100225883657",
+    "oikName": "Сахалинская область – Сахалинский",
+    "district": {
+      "districtNumber": 167,
+      "oikTvd": "100100225883657"
+    }
   },
   {
     "uikNumber": 768,
     "uikTvd": "4654004277793",
     "tikTvd": "2652000585062",
-    "tikName": "Корсаковская"
+    "tikName": "Корсаковская",
+    "uikName": "УИК №768",
+    "regionCode": "65",
+    "regionTvd": "100100225883656",
+    "regionName": "Сахалинская область",
+    "oikTvd": "100100225883657",
+    "oikName": "Сахалинская область – Сахалинский",
+    "district": {
+      "districtNumber": 167,
+      "oikTvd": "100100225883657"
+    }
   },
   {
     "uikNumber": 769,
     "uikTvd": "4654004277794",
     "tikTvd": "2652000585062",
-    "tikName": "Корсаковская"
+    "tikName": "Корсаковская",
+    "uikName": "УИК №769",
+    "regionCode": "65",
+    "regionTvd": "100100225883656",
+    "regionName": "Сахалинская область",
+    "oikTvd": "100100225883657",
+    "oikName": "Сахалинская область – Сахалинский",
+    "district": {
+      "districtNumber": 167,
+      "oikTvd": "100100225883657"
+    }
   },
   {
     "uikNumber": 770,
     "uikTvd": "4654004277795",
     "tikTvd": "2652000585062",
-    "tikName": "Корсаковская"
+    "tikName": "Корсаковская",
+    "uikName": "УИК №770",
+    "regionCode": "65",
+    "regionTvd": "100100225883656",
+    "regionName": "Сахалинская область",
+    "oikTvd": "100100225883657",
+    "oikName": "Сахалинская область – Сахалинский",
+    "district": {
+      "districtNumber": 167,
+      "oikTvd": "100100225883657"
+    }
   },
   {
     "uikNumber": 771,
     "uikTvd": "4654004277796",
     "tikTvd": "2652000585062",
-    "tikName": "Корсаковская"
+    "tikName": "Корсаковская",
+    "uikName": "УИК №771",
+    "regionCode": "65",
+    "regionTvd": "100100225883656",
+    "regionName": "Сахалинская область",
+    "oikTvd": "100100225883657",
+    "oikName": "Сахалинская область – Сахалинский",
+    "district": {
+      "districtNumber": 167,
+      "oikTvd": "100100225883657"
+    }
   },
   {
     "uikNumber": 772,
     "uikTvd": "4654004277797",
     "tikTvd": "2652000585062",
-    "tikName": "Корсаковская"
+    "tikName": "Корсаковская",
+    "uikName": "УИК №772",
+    "regionCode": "65",
+    "regionTvd": "100100225883656",
+    "regionName": "Сахалинская область",
+    "oikTvd": "100100225883657",
+    "oikName": "Сахалинская область – Сахалинский",
+    "district": {
+      "districtNumber": 167,
+      "oikTvd": "100100225883657"
+    }
   },
   {
     "uikNumber": 773,
     "uikTvd": "4654004277798",
     "tikTvd": "2652000585062",
-    "tikName": "Корсаковская"
+    "tikName": "Корсаковская",
+    "uikName": "УИК №773",
+    "regionCode": "65",
+    "regionTvd": "100100225883656",
+    "regionName": "Сахалинская область",
+    "oikTvd": "100100225883657",
+    "oikName": "Сахалинская область – Сахалинский",
+    "district": {
+      "districtNumber": 167,
+      "oikTvd": "100100225883657"
+    }
   },
   {
     "uikNumber": 774,
     "uikTvd": "4654004277799",
     "tikTvd": "2652000585062",
-    "tikName": "Корсаковская"
+    "tikName": "Корсаковская",
+    "uikName": "УИК №774",
+    "regionCode": "65",
+    "regionTvd": "100100225883656",
+    "regionName": "Сахалинская область",
+    "oikTvd": "100100225883657",
+    "oikName": "Сахалинская область – Сахалинский",
+    "district": {
+      "districtNumber": 167,
+      "oikTvd": "100100225883657"
+    }
   },
   {
     "uikNumber": 775,
     "uikTvd": "4654004277800",
     "tikTvd": "2652000585062",
-    "tikName": "Корсаковская"
+    "tikName": "Корсаковская",
+    "uikName": "УИК №775",
+    "regionCode": "65",
+    "regionTvd": "100100225883656",
+    "regionName": "Сахалинская область",
+    "oikTvd": "100100225883657",
+    "oikName": "Сахалинская область – Сахалинский",
+    "district": {
+      "districtNumber": 167,
+      "oikTvd": "100100225883657"
+    }
   },
   {
     "uikNumber": 8179,
     "uikTvd": "4654018480099",
     "tikTvd": "2652000585060",
-    "tikName": "Южно-Сахалинская городская"
+    "tikName": "Южно-Сахалинская городская",
+    "uikName": "УИК №8179",
+    "regionCode": "65",
+    "regionTvd": "100100225883656",
+    "regionName": "Сахалинская область",
+    "oikTvd": "100100225883657",
+    "oikName": "Сахалинская область – Сахалинский",
+    "district": {
+      "districtNumber": 167,
+      "oikTvd": "100100225883657"
+    }
   },
   {
     "uikNumber": 8180,
     "uikTvd": "4654018480100",
     "tikTvd": "2652000585060",
-    "tikName": "Южно-Сахалинская городская"
+    "tikName": "Южно-Сахалинская городская",
+    "uikName": "УИК №8180",
+    "regionCode": "65",
+    "regionTvd": "100100225883656",
+    "regionName": "Сахалинская область",
+    "oikTvd": "100100225883657",
+    "oikName": "Сахалинская область – Сахалинский",
+    "district": {
+      "districtNumber": 167,
+      "oikTvd": "100100225883657"
+    }
   },
   {
     "uikNumber": 8181,
     "uikTvd": "4654018480101",
     "tikTvd": "2652000585060",
-    "tikName": "Южно-Сахалинская городская"
+    "tikName": "Южно-Сахалинская городская",
+    "uikName": "УИК №8181",
+    "regionCode": "65",
+    "regionTvd": "100100225883656",
+    "regionName": "Сахалинская область",
+    "oikTvd": "100100225883657",
+    "oikName": "Сахалинская область – Сахалинский",
+    "district": {
+      "districtNumber": 167,
+      "oikTvd": "100100225883657"
+    }
   }
 ] satisfies readonly UikTikRelation[];

@@ -42,12 +42,12 @@ export const duma_2003_uik_428_region_61_part_010 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Булгаков Виктор Григорьевич": 234,
-      "Гребенюк Владимир Дмитриевич": 355,
-      "Подколзин Юрий Николаевич": 29,
-      "Шарова Эльвира Александровна": 66,
-      "Шахов Роман Николаевич": 74,
-      "Против всех": 123
+      "gas:candidate-vibid:1001000121898": 234,
+      "gas:candidate-vibid:1001000225975": 355,
+      "gas:candidate-vibid:1001000195129": 29,
+      "gas:candidate-vibid:361300670547": 66,
+      "gas:candidate-vibid:1001000136109": 74,
+      "special:against-all": 123
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=613006006&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=361300670437&region=0&sub_region=0&type=429",
@@ -97,12 +97,12 @@ export const duma_2003_uik_428_region_61_part_010 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Булгаков Виктор Григорьевич": 197,
-      "Гребенюк Владимир Дмитриевич": 394,
-      "Подколзин Юрий Николаевич": 26,
-      "Шарова Эльвира Александровна": 36,
-      "Шахов Роман Николаевич": 75,
-      "Против всех": 137
+      "gas:candidate-vibid:1001000121898": 197,
+      "gas:candidate-vibid:1001000225975": 394,
+      "gas:candidate-vibid:1001000195129": 26,
+      "gas:candidate-vibid:361300670547": 36,
+      "gas:candidate-vibid:1001000136109": 75,
+      "special:against-all": 137
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=613006006&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=361300670437&region=0&sub_region=0&type=429",
@@ -152,12 +152,12 @@ export const duma_2003_uik_428_region_61_part_010 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Булгаков Виктор Григорьевич": 327,
-      "Гребенюк Владимир Дмитриевич": 340,
-      "Подколзин Юрий Николаевич": 26,
-      "Шарова Эльвира Александровна": 36,
-      "Шахов Роман Николаевич": 71,
-      "Против всех": 121
+      "gas:candidate-vibid:1001000121898": 327,
+      "gas:candidate-vibid:1001000225975": 340,
+      "gas:candidate-vibid:1001000195129": 26,
+      "gas:candidate-vibid:361300670547": 36,
+      "gas:candidate-vibid:1001000136109": 71,
+      "special:against-all": 121
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=613006006&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=361300670437&region=0&sub_region=0&type=429",
@@ -207,12 +207,12 @@ export const duma_2003_uik_428_region_61_part_010 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Булгаков Виктор Григорьевич": 56,
-      "Гребенюк Владимир Дмитриевич": 158,
-      "Подколзин Юрий Николаевич": 12,
-      "Шарова Эльвира Александровна": 6,
-      "Шахов Роман Николаевич": 22,
-      "Против всех": 56
+      "gas:candidate-vibid:1001000121898": 56,
+      "gas:candidate-vibid:1001000225975": 158,
+      "gas:candidate-vibid:1001000195129": 12,
+      "gas:candidate-vibid:361300670547": 6,
+      "gas:candidate-vibid:1001000136109": 22,
+      "special:against-all": 56
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=613006006&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=361300670437&region=0&sub_region=0&type=429",
@@ -262,12 +262,12 @@ export const duma_2003_uik_428_region_61_part_010 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Булгаков Виктор Григорьевич": 3,
-      "Гребенюк Владимир Дмитриевич": 177,
-      "Подколзин Юрий Николаевич": 0,
-      "Шарова Эльвира Александровна": 0,
-      "Шахов Роман Николаевич": 2,
-      "Против всех": 3
+      "gas:candidate-vibid:1001000121898": 3,
+      "gas:candidate-vibid:1001000225975": 177,
+      "gas:candidate-vibid:1001000195129": 0,
+      "gas:candidate-vibid:361300670547": 0,
+      "gas:candidate-vibid:1001000136109": 2,
+      "special:against-all": 3
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=613006006&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=361300670437&region=0&sub_region=0&type=429",
@@ -317,12 +317,12 @@ export const duma_2003_uik_428_region_61_part_010 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Булгаков Виктор Григорьевич": 23,
-      "Гребенюк Владимир Дмитриевич": 305,
-      "Подколзин Юрий Николаевич": 3,
-      "Шарова Эльвира Александровна": 7,
-      "Шахов Роман Николаевич": 8,
-      "Против всех": 7
+      "gas:candidate-vibid:1001000121898": 23,
+      "gas:candidate-vibid:1001000225975": 305,
+      "gas:candidate-vibid:1001000195129": 3,
+      "gas:candidate-vibid:361300670547": 7,
+      "gas:candidate-vibid:1001000136109": 8,
+      "special:against-all": 7
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=613006006&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=361300670437&region=0&sub_region=0&type=429",
@@ -372,12 +372,12 @@ export const duma_2003_uik_428_region_61_part_010 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Булгаков Виктор Григорьевич": 230,
-      "Гребенюк Владимир Дмитриевич": 353,
-      "Подколзин Юрий Николаевич": 30,
-      "Шарова Эльвира Александровна": 22,
-      "Шахов Роман Николаевич": 33,
-      "Против всех": 150
+      "gas:candidate-vibid:1001000121898": 230,
+      "gas:candidate-vibid:1001000225975": 353,
+      "gas:candidate-vibid:1001000195129": 30,
+      "gas:candidate-vibid:361300670547": 22,
+      "gas:candidate-vibid:1001000136109": 33,
+      "special:against-all": 150
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=613006006&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=361300670437&region=0&sub_region=0&type=429",
@@ -427,12 +427,12 @@ export const duma_2003_uik_428_region_61_part_010 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Булгаков Виктор Григорьевич": 208,
-      "Гребенюк Владимир Дмитриевич": 332,
-      "Подколзин Юрий Николаевич": 18,
-      "Шарова Эльвира Александровна": 47,
-      "Шахов Роман Николаевич": 44,
-      "Против всех": 135
+      "gas:candidate-vibid:1001000121898": 208,
+      "gas:candidate-vibid:1001000225975": 332,
+      "gas:candidate-vibid:1001000195129": 18,
+      "gas:candidate-vibid:361300670547": 47,
+      "gas:candidate-vibid:1001000136109": 44,
+      "special:against-all": 135
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=613006006&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=361300670437&region=0&sub_region=0&type=429",
@@ -482,15 +482,15 @@ export const duma_2003_uik_428_region_61_part_010 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Анпилов Виктор Иванович": 80,
-      "Катальников Владимир Дмитриевич": 386,
-      "Козицын Николай Иванович": 98,
-      "Маликов Игорь Николаевич": 52,
-      "Петриенко Вадим Алексеевич": 8,
-      "Удовиченко Юрий Иванович": 29,
-      "Усольцев Дмитрий Александрович": 13,
-      "Чернышов Виталий Петрович": 133,
-      "Против всех": 177
+      "gas:candidate-vibid:361300770742": 80,
+      "gas:candidate-vibid:361300770418": 386,
+      "gas:candidate-vibid:361300770824": 98,
+      "gas:candidate-vibid:361300771082": 52,
+      "gas:candidate-vibid:1001000195130": 8,
+      "gas:candidate-vibid:1001000126646": 29,
+      "gas:candidate-vibid:361300770662": 13,
+      "gas:candidate-vibid:1001000220839": 133,
+      "special:against-all": 177
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=613007007&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=361300771780&region=0&sub_region=0&type=429",
@@ -540,15 +540,15 @@ export const duma_2003_uik_428_region_61_part_010 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Анпилов Виктор Иванович": 122,
-      "Катальников Владимир Дмитриевич": 281,
-      "Козицын Николай Иванович": 86,
-      "Маликов Игорь Николаевич": 50,
-      "Петриенко Вадим Алексеевич": 11,
-      "Удовиченко Юрий Иванович": 22,
-      "Усольцев Дмитрий Александрович": 7,
-      "Чернышов Виталий Петрович": 118,
-      "Против всех": 168
+      "gas:candidate-vibid:361300770742": 122,
+      "gas:candidate-vibid:361300770418": 281,
+      "gas:candidate-vibid:361300770824": 86,
+      "gas:candidate-vibid:361300771082": 50,
+      "gas:candidate-vibid:1001000195130": 11,
+      "gas:candidate-vibid:1001000126646": 22,
+      "gas:candidate-vibid:361300770662": 7,
+      "gas:candidate-vibid:1001000220839": 118,
+      "special:against-all": 168
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=613007007&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=361300771780&region=0&sub_region=0&type=429",
@@ -598,15 +598,15 @@ export const duma_2003_uik_428_region_61_part_010 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Анпилов Виктор Иванович": 153,
-      "Катальников Владимир Дмитриевич": 358,
-      "Козицын Николай Иванович": 156,
-      "Маликов Игорь Николаевич": 92,
-      "Петриенко Вадим Алексеевич": 15,
-      "Удовиченко Юрий Иванович": 35,
-      "Усольцев Дмитрий Александрович": 8,
-      "Чернышов Виталий Петрович": 99,
-      "Против всех": 231
+      "gas:candidate-vibid:361300770742": 153,
+      "gas:candidate-vibid:361300770418": 358,
+      "gas:candidate-vibid:361300770824": 156,
+      "gas:candidate-vibid:361300771082": 92,
+      "gas:candidate-vibid:1001000195130": 15,
+      "gas:candidate-vibid:1001000126646": 35,
+      "gas:candidate-vibid:361300770662": 8,
+      "gas:candidate-vibid:1001000220839": 99,
+      "special:against-all": 231
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=613007007&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=361300771780&region=0&sub_region=0&type=429",
@@ -656,15 +656,15 @@ export const duma_2003_uik_428_region_61_part_010 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Анпилов Виктор Иванович": 116,
-      "Катальников Владимир Дмитриевич": 348,
-      "Козицын Николай Иванович": 127,
-      "Маликов Игорь Николаевич": 56,
-      "Петриенко Вадим Алексеевич": 7,
-      "Удовиченко Юрий Иванович": 26,
-      "Усольцев Дмитрий Александрович": 9,
-      "Чернышов Виталий Петрович": 93,
-      "Против всех": 199
+      "gas:candidate-vibid:361300770742": 116,
+      "gas:candidate-vibid:361300770418": 348,
+      "gas:candidate-vibid:361300770824": 127,
+      "gas:candidate-vibid:361300771082": 56,
+      "gas:candidate-vibid:1001000195130": 7,
+      "gas:candidate-vibid:1001000126646": 26,
+      "gas:candidate-vibid:361300770662": 9,
+      "gas:candidate-vibid:1001000220839": 93,
+      "special:against-all": 199
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=613007007&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=361300771780&region=0&sub_region=0&type=429",
@@ -714,15 +714,15 @@ export const duma_2003_uik_428_region_61_part_010 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Анпилов Виктор Иванович": 98,
-      "Катальников Владимир Дмитриевич": 234,
-      "Козицын Николай Иванович": 142,
-      "Маликов Игорь Николаевич": 56,
-      "Петриенко Вадим Алексеевич": 18,
-      "Удовиченко Юрий Иванович": 42,
-      "Усольцев Дмитрий Александрович": 8,
-      "Чернышов Виталий Петрович": 256,
-      "Против всех": 187
+      "gas:candidate-vibid:361300770742": 98,
+      "gas:candidate-vibid:361300770418": 234,
+      "gas:candidate-vibid:361300770824": 142,
+      "gas:candidate-vibid:361300771082": 56,
+      "gas:candidate-vibid:1001000195130": 18,
+      "gas:candidate-vibid:1001000126646": 42,
+      "gas:candidate-vibid:361300770662": 8,
+      "gas:candidate-vibid:1001000220839": 256,
+      "special:against-all": 187
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=613007007&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=361300771780&region=0&sub_region=0&type=429",
@@ -772,15 +772,15 @@ export const duma_2003_uik_428_region_61_part_010 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Анпилов Виктор Иванович": 179,
-      "Катальников Владимир Дмитриевич": 240,
-      "Козицын Николай Иванович": 102,
-      "Маликов Игорь Николаевич": 93,
-      "Петриенко Вадим Алексеевич": 15,
-      "Удовиченко Юрий Иванович": 25,
-      "Усольцев Дмитрий Александрович": 9,
-      "Чернышов Виталий Петрович": 140,
-      "Против всех": 214
+      "gas:candidate-vibid:361300770742": 179,
+      "gas:candidate-vibid:361300770418": 240,
+      "gas:candidate-vibid:361300770824": 102,
+      "gas:candidate-vibid:361300771082": 93,
+      "gas:candidate-vibid:1001000195130": 15,
+      "gas:candidate-vibid:1001000126646": 25,
+      "gas:candidate-vibid:361300770662": 9,
+      "gas:candidate-vibid:1001000220839": 140,
+      "special:against-all": 214
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=613007007&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=361300771780&region=0&sub_region=0&type=429",
@@ -830,15 +830,15 @@ export const duma_2003_uik_428_region_61_part_010 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Анпилов Виктор Иванович": 89,
-      "Катальников Владимир Дмитриевич": 200,
-      "Козицын Николай Иванович": 144,
-      "Маликов Игорь Николаевич": 82,
-      "Петриенко Вадим Алексеевич": 10,
-      "Удовиченко Юрий Иванович": 25,
-      "Усольцев Дмитрий Александрович": 11,
-      "Чернышов Виталий Петрович": 163,
-      "Против всех": 145
+      "gas:candidate-vibid:361300770742": 89,
+      "gas:candidate-vibid:361300770418": 200,
+      "gas:candidate-vibid:361300770824": 144,
+      "gas:candidate-vibid:361300771082": 82,
+      "gas:candidate-vibid:1001000195130": 10,
+      "gas:candidate-vibid:1001000126646": 25,
+      "gas:candidate-vibid:361300770662": 11,
+      "gas:candidate-vibid:1001000220839": 163,
+      "special:against-all": 145
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=613007007&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=361300771780&region=0&sub_region=0&type=429",
@@ -888,15 +888,15 @@ export const duma_2003_uik_428_region_61_part_010 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Анпилов Виктор Иванович": 154,
-      "Катальников Владимир Дмитриевич": 243,
-      "Козицын Николай Иванович": 167,
-      "Маликов Игорь Николаевич": 58,
-      "Петриенко Вадим Алексеевич": 11,
-      "Удовиченко Юрий Иванович": 19,
-      "Усольцев Дмитрий Александрович": 10,
-      "Чернышов Виталий Петрович": 135,
-      "Против всех": 137
+      "gas:candidate-vibid:361300770742": 154,
+      "gas:candidate-vibid:361300770418": 243,
+      "gas:candidate-vibid:361300770824": 167,
+      "gas:candidate-vibid:361300771082": 58,
+      "gas:candidate-vibid:1001000195130": 11,
+      "gas:candidate-vibid:1001000126646": 19,
+      "gas:candidate-vibid:361300770662": 10,
+      "gas:candidate-vibid:1001000220839": 135,
+      "special:against-all": 137
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=613007007&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=361300771780&region=0&sub_region=0&type=429",
@@ -946,15 +946,15 @@ export const duma_2003_uik_428_region_61_part_010 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Анпилов Виктор Иванович": 134,
-      "Катальников Владимир Дмитриевич": 319,
-      "Козицын Николай Иванович": 115,
-      "Маликов Игорь Николаевич": 79,
-      "Петриенко Вадим Алексеевич": 11,
-      "Удовиченко Юрий Иванович": 21,
-      "Усольцев Дмитрий Александрович": 7,
-      "Чернышов Виталий Петрович": 133,
-      "Против всех": 229
+      "gas:candidate-vibid:361300770742": 134,
+      "gas:candidate-vibid:361300770418": 319,
+      "gas:candidate-vibid:361300770824": 115,
+      "gas:candidate-vibid:361300771082": 79,
+      "gas:candidate-vibid:1001000195130": 11,
+      "gas:candidate-vibid:1001000126646": 21,
+      "gas:candidate-vibid:361300770662": 7,
+      "gas:candidate-vibid:1001000220839": 133,
+      "special:against-all": 229
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=613007007&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=361300771780&region=0&sub_region=0&type=429",
@@ -1004,15 +1004,15 @@ export const duma_2003_uik_428_region_61_part_010 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Анпилов Виктор Иванович": 148,
-      "Катальников Владимир Дмитриевич": 263,
-      "Козицын Николай Иванович": 122,
-      "Маликов Игорь Николаевич": 64,
-      "Петриенко Вадим Алексеевич": 13,
-      "Удовиченко Юрий Иванович": 20,
-      "Усольцев Дмитрий Александрович": 10,
-      "Чернышов Виталий Петрович": 196,
-      "Против всех": 186
+      "gas:candidate-vibid:361300770742": 148,
+      "gas:candidate-vibid:361300770418": 263,
+      "gas:candidate-vibid:361300770824": 122,
+      "gas:candidate-vibid:361300771082": 64,
+      "gas:candidate-vibid:1001000195130": 13,
+      "gas:candidate-vibid:1001000126646": 20,
+      "gas:candidate-vibid:361300770662": 10,
+      "gas:candidate-vibid:1001000220839": 196,
+      "special:against-all": 186
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=613007007&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=361300771780&region=0&sub_region=0&type=429",
@@ -1062,15 +1062,15 @@ export const duma_2003_uik_428_region_61_part_010 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Анпилов Виктор Иванович": 96,
-      "Катальников Владимир Дмитриевич": 201,
-      "Козицын Николай Иванович": 93,
-      "Маликов Игорь Николаевич": 54,
-      "Петриенко Вадим Алексеевич": 12,
-      "Удовиченко Юрий Иванович": 23,
-      "Усольцев Дмитрий Александрович": 10,
-      "Чернышов Виталий Петрович": 126,
-      "Против всех": 145
+      "gas:candidate-vibid:361300770742": 96,
+      "gas:candidate-vibid:361300770418": 201,
+      "gas:candidate-vibid:361300770824": 93,
+      "gas:candidate-vibid:361300771082": 54,
+      "gas:candidate-vibid:1001000195130": 12,
+      "gas:candidate-vibid:1001000126646": 23,
+      "gas:candidate-vibid:361300770662": 10,
+      "gas:candidate-vibid:1001000220839": 126,
+      "special:against-all": 145
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=613007007&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=361300771780&region=0&sub_region=0&type=429",
@@ -1120,15 +1120,15 @@ export const duma_2003_uik_428_region_61_part_010 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Анпилов Виктор Иванович": 140,
-      "Катальников Владимир Дмитриевич": 227,
-      "Козицын Николай Иванович": 81,
-      "Маликов Игорь Николаевич": 64,
-      "Петриенко Вадим Алексеевич": 11,
-      "Удовиченко Юрий Иванович": 17,
-      "Усольцев Дмитрий Александрович": 15,
-      "Чернышов Виталий Петрович": 97,
-      "Против всех": 163
+      "gas:candidate-vibid:361300770742": 140,
+      "gas:candidate-vibid:361300770418": 227,
+      "gas:candidate-vibid:361300770824": 81,
+      "gas:candidate-vibid:361300771082": 64,
+      "gas:candidate-vibid:1001000195130": 11,
+      "gas:candidate-vibid:1001000126646": 17,
+      "gas:candidate-vibid:361300770662": 15,
+      "gas:candidate-vibid:1001000220839": 97,
+      "special:against-all": 163
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=613007007&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=361300771780&region=0&sub_region=0&type=429",
@@ -1178,15 +1178,15 @@ export const duma_2003_uik_428_region_61_part_010 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Анпилов Виктор Иванович": 123,
-      "Катальников Владимир Дмитриевич": 297,
-      "Козицын Николай Иванович": 85,
-      "Маликов Игорь Николаевич": 79,
-      "Петриенко Вадим Алексеевич": 9,
-      "Удовиченко Юрий Иванович": 17,
-      "Усольцев Дмитрий Александрович": 7,
-      "Чернышов Виталий Петрович": 101,
-      "Против всех": 203
+      "gas:candidate-vibid:361300770742": 123,
+      "gas:candidate-vibid:361300770418": 297,
+      "gas:candidate-vibid:361300770824": 85,
+      "gas:candidate-vibid:361300771082": 79,
+      "gas:candidate-vibid:1001000195130": 9,
+      "gas:candidate-vibid:1001000126646": 17,
+      "gas:candidate-vibid:361300770662": 7,
+      "gas:candidate-vibid:1001000220839": 101,
+      "special:against-all": 203
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=613007007&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=361300771780&region=0&sub_region=0&type=429",
@@ -1236,15 +1236,15 @@ export const duma_2003_uik_428_region_61_part_010 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Анпилов Виктор Иванович": 156,
-      "Катальников Владимир Дмитриевич": 261,
-      "Козицын Николай Иванович": 103,
-      "Маликов Игорь Николаевич": 64,
-      "Петриенко Вадим Алексеевич": 6,
-      "Удовиченко Юрий Иванович": 20,
-      "Усольцев Дмитрий Александрович": 17,
-      "Чернышов Виталий Петрович": 123,
-      "Против всех": 180
+      "gas:candidate-vibid:361300770742": 156,
+      "gas:candidate-vibid:361300770418": 261,
+      "gas:candidate-vibid:361300770824": 103,
+      "gas:candidate-vibid:361300771082": 64,
+      "gas:candidate-vibid:1001000195130": 6,
+      "gas:candidate-vibid:1001000126646": 20,
+      "gas:candidate-vibid:361300770662": 17,
+      "gas:candidate-vibid:1001000220839": 123,
+      "special:against-all": 180
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=613007007&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=361300771780&region=0&sub_region=0&type=429",
@@ -1294,15 +1294,15 @@ export const duma_2003_uik_428_region_61_part_010 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Анпилов Виктор Иванович": 128,
-      "Катальников Владимир Дмитриевич": 228,
-      "Козицын Николай Иванович": 92,
-      "Маликов Игорь Николаевич": 42,
-      "Петриенко Вадим Алексеевич": 9,
-      "Удовиченко Юрий Иванович": 19,
-      "Усольцев Дмитрий Александрович": 13,
-      "Чернышов Виталий Петрович": 68,
-      "Против всех": 161
+      "gas:candidate-vibid:361300770742": 128,
+      "gas:candidate-vibid:361300770418": 228,
+      "gas:candidate-vibid:361300770824": 92,
+      "gas:candidate-vibid:361300771082": 42,
+      "gas:candidate-vibid:1001000195130": 9,
+      "gas:candidate-vibid:1001000126646": 19,
+      "gas:candidate-vibid:361300770662": 13,
+      "gas:candidate-vibid:1001000220839": 68,
+      "special:against-all": 161
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=613007007&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=361300771780&region=0&sub_region=0&type=429",
@@ -1352,15 +1352,15 @@ export const duma_2003_uik_428_region_61_part_010 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Анпилов Виктор Иванович": 102,
-      "Катальников Владимир Дмитриевич": 201,
-      "Козицын Николай Иванович": 127,
-      "Маликов Игорь Николаевич": 59,
-      "Петриенко Вадим Алексеевич": 14,
-      "Удовиченко Юрий Иванович": 21,
-      "Усольцев Дмитрий Александрович": 14,
-      "Чернышов Виталий Петрович": 104,
-      "Против всех": 210
+      "gas:candidate-vibid:361300770742": 102,
+      "gas:candidate-vibid:361300770418": 201,
+      "gas:candidate-vibid:361300770824": 127,
+      "gas:candidate-vibid:361300771082": 59,
+      "gas:candidate-vibid:1001000195130": 14,
+      "gas:candidate-vibid:1001000126646": 21,
+      "gas:candidate-vibid:361300770662": 14,
+      "gas:candidate-vibid:1001000220839": 104,
+      "special:against-all": 210
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=613007007&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=361300771780&region=0&sub_region=0&type=429",
@@ -1410,15 +1410,15 @@ export const duma_2003_uik_428_region_61_part_010 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Анпилов Виктор Иванович": 76,
-      "Катальников Владимир Дмитриевич": 112,
-      "Козицын Николай Иванович": 45,
-      "Маликов Игорь Николаевич": 38,
-      "Петриенко Вадим Алексеевич": 5,
-      "Удовиченко Юрий Иванович": 13,
-      "Усольцев Дмитрий Александрович": 10,
-      "Чернышов Виталий Петрович": 84,
-      "Против всех": 108
+      "gas:candidate-vibid:361300770742": 76,
+      "gas:candidate-vibid:361300770418": 112,
+      "gas:candidate-vibid:361300770824": 45,
+      "gas:candidate-vibid:361300771082": 38,
+      "gas:candidate-vibid:1001000195130": 5,
+      "gas:candidate-vibid:1001000126646": 13,
+      "gas:candidate-vibid:361300770662": 10,
+      "gas:candidate-vibid:1001000220839": 84,
+      "special:against-all": 108
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=613007007&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=361300771780&region=0&sub_region=0&type=429",
@@ -1468,15 +1468,15 @@ export const duma_2003_uik_428_region_61_part_010 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Анпилов Виктор Иванович": 97,
-      "Катальников Владимир Дмитриевич": 214,
-      "Козицын Николай Иванович": 72,
-      "Маликов Игорь Николаевич": 32,
-      "Петриенко Вадим Алексеевич": 9,
-      "Удовиченко Юрий Иванович": 15,
-      "Усольцев Дмитрий Александрович": 5,
-      "Чернышов Виталий Петрович": 114,
-      "Против всех": 140
+      "gas:candidate-vibid:361300770742": 97,
+      "gas:candidate-vibid:361300770418": 214,
+      "gas:candidate-vibid:361300770824": 72,
+      "gas:candidate-vibid:361300771082": 32,
+      "gas:candidate-vibid:1001000195130": 9,
+      "gas:candidate-vibid:1001000126646": 15,
+      "gas:candidate-vibid:361300770662": 5,
+      "gas:candidate-vibid:1001000220839": 114,
+      "special:against-all": 140
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=613007007&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=361300771780&region=0&sub_region=0&type=429",
@@ -1526,15 +1526,15 @@ export const duma_2003_uik_428_region_61_part_010 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Анпилов Виктор Иванович": 45,
-      "Катальников Владимир Дмитриевич": 109,
-      "Козицын Николай Иванович": 54,
-      "Маликов Игорь Николаевич": 25,
-      "Петриенко Вадим Алексеевич": 5,
-      "Удовиченко Юрий Иванович": 10,
-      "Усольцев Дмитрий Александрович": 5,
-      "Чернышов Виталий Петрович": 72,
-      "Против всех": 90
+      "gas:candidate-vibid:361300770742": 45,
+      "gas:candidate-vibid:361300770418": 109,
+      "gas:candidate-vibid:361300770824": 54,
+      "gas:candidate-vibid:361300771082": 25,
+      "gas:candidate-vibid:1001000195130": 5,
+      "gas:candidate-vibid:1001000126646": 10,
+      "gas:candidate-vibid:361300770662": 5,
+      "gas:candidate-vibid:1001000220839": 72,
+      "special:against-all": 90
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=613007007&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=361300771780&region=0&sub_region=0&type=429",
@@ -1584,15 +1584,15 @@ export const duma_2003_uik_428_region_61_part_010 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Анпилов Виктор Иванович": 81,
-      "Катальников Владимир Дмитриевич": 203,
-      "Козицын Николай Иванович": 82,
-      "Маликов Игорь Николаевич": 36,
-      "Петриенко Вадим Алексеевич": 2,
-      "Удовиченко Юрий Иванович": 19,
-      "Усольцев Дмитрий Александрович": 9,
-      "Чернышов Виталий Петрович": 52,
-      "Против всех": 99
+      "gas:candidate-vibid:361300770742": 81,
+      "gas:candidate-vibid:361300770418": 203,
+      "gas:candidate-vibid:361300770824": 82,
+      "gas:candidate-vibid:361300771082": 36,
+      "gas:candidate-vibid:1001000195130": 2,
+      "gas:candidate-vibid:1001000126646": 19,
+      "gas:candidate-vibid:361300770662": 9,
+      "gas:candidate-vibid:1001000220839": 52,
+      "special:against-all": 99
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=613007007&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=361300771780&region=0&sub_region=0&type=429",
@@ -1642,15 +1642,15 @@ export const duma_2003_uik_428_region_61_part_010 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Анпилов Виктор Иванович": 58,
-      "Катальников Владимир Дмитриевич": 151,
-      "Козицын Николай Иванович": 119,
-      "Маликов Игорь Николаевич": 33,
-      "Петриенко Вадим Алексеевич": 4,
-      "Удовиченко Юрий Иванович": 10,
-      "Усольцев Дмитрий Александрович": 5,
-      "Чернышов Виталий Петрович": 73,
-      "Против всех": 131
+      "gas:candidate-vibid:361300770742": 58,
+      "gas:candidate-vibid:361300770418": 151,
+      "gas:candidate-vibid:361300770824": 119,
+      "gas:candidate-vibid:361300771082": 33,
+      "gas:candidate-vibid:1001000195130": 4,
+      "gas:candidate-vibid:1001000126646": 10,
+      "gas:candidate-vibid:361300770662": 5,
+      "gas:candidate-vibid:1001000220839": 73,
+      "special:against-all": 131
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=613007007&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=361300771780&region=0&sub_region=0&type=429",
@@ -1700,15 +1700,15 @@ export const duma_2003_uik_428_region_61_part_010 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Анпилов Виктор Иванович": 56,
-      "Катальников Владимир Дмитриевич": 161,
-      "Козицын Николай Иванович": 52,
-      "Маликов Игорь Николаевич": 41,
-      "Петриенко Вадим Алексеевич": 3,
-      "Удовиченко Юрий Иванович": 11,
-      "Усольцев Дмитрий Александрович": 2,
-      "Чернышов Виталий Петрович": 28,
-      "Против всех": 82
+      "gas:candidate-vibid:361300770742": 56,
+      "gas:candidate-vibid:361300770418": 161,
+      "gas:candidate-vibid:361300770824": 52,
+      "gas:candidate-vibid:361300771082": 41,
+      "gas:candidate-vibid:1001000195130": 3,
+      "gas:candidate-vibid:1001000126646": 11,
+      "gas:candidate-vibid:361300770662": 2,
+      "gas:candidate-vibid:1001000220839": 28,
+      "special:against-all": 82
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=613007007&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=361300771780&region=0&sub_region=0&type=429",
@@ -1758,15 +1758,15 @@ export const duma_2003_uik_428_region_61_part_010 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Анпилов Виктор Иванович": 100,
-      "Катальников Владимир Дмитриевич": 313,
-      "Козицын Николай Иванович": 101,
-      "Маликов Игорь Николаевич": 55,
-      "Петриенко Вадим Алексеевич": 14,
-      "Удовиченко Юрий Иванович": 29,
-      "Усольцев Дмитрий Александрович": 4,
-      "Чернышов Виталий Петрович": 119,
-      "Против всех": 158
+      "gas:candidate-vibid:361300770742": 100,
+      "gas:candidate-vibid:361300770418": 313,
+      "gas:candidate-vibid:361300770824": 101,
+      "gas:candidate-vibid:361300771082": 55,
+      "gas:candidate-vibid:1001000195130": 14,
+      "gas:candidate-vibid:1001000126646": 29,
+      "gas:candidate-vibid:361300770662": 4,
+      "gas:candidate-vibid:1001000220839": 119,
+      "special:against-all": 158
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=613007007&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=361300771780&region=0&sub_region=0&type=429",
@@ -1816,15 +1816,15 @@ export const duma_2003_uik_428_region_61_part_010 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Анпилов Виктор Иванович": 158,
-      "Катальников Владимир Дмитриевич": 258,
-      "Козицын Николай Иванович": 134,
-      "Маликов Игорь Николаевич": 80,
-      "Петриенко Вадим Алексеевич": 15,
-      "Удовиченко Юрий Иванович": 18,
-      "Усольцев Дмитрий Александрович": 8,
-      "Чернышов Виталий Петрович": 155,
-      "Против всех": 252
+      "gas:candidate-vibid:361300770742": 158,
+      "gas:candidate-vibid:361300770418": 258,
+      "gas:candidate-vibid:361300770824": 134,
+      "gas:candidate-vibid:361300771082": 80,
+      "gas:candidate-vibid:1001000195130": 15,
+      "gas:candidate-vibid:1001000126646": 18,
+      "gas:candidate-vibid:361300770662": 8,
+      "gas:candidate-vibid:1001000220839": 155,
+      "special:against-all": 252
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=613007007&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=361300771780&region=0&sub_region=0&type=429",
@@ -1874,15 +1874,15 @@ export const duma_2003_uik_428_region_61_part_010 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Анпилов Виктор Иванович": 100,
-      "Катальников Владимир Дмитриевич": 167,
-      "Козицын Николай Иванович": 81,
-      "Маликов Игорь Николаевич": 48,
-      "Петриенко Вадим Алексеевич": 5,
-      "Удовиченко Юрий Иванович": 11,
-      "Усольцев Дмитрий Александрович": 8,
-      "Чернышов Виталий Петрович": 164,
-      "Против всех": 134
+      "gas:candidate-vibid:361300770742": 100,
+      "gas:candidate-vibid:361300770418": 167,
+      "gas:candidate-vibid:361300770824": 81,
+      "gas:candidate-vibid:361300771082": 48,
+      "gas:candidate-vibid:1001000195130": 5,
+      "gas:candidate-vibid:1001000126646": 11,
+      "gas:candidate-vibid:361300770662": 8,
+      "gas:candidate-vibid:1001000220839": 164,
+      "special:against-all": 134
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=613007007&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=361300771780&region=0&sub_region=0&type=429",
@@ -1932,15 +1932,15 @@ export const duma_2003_uik_428_region_61_part_010 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Анпилов Виктор Иванович": 135,
-      "Катальников Владимир Дмитриевич": 250,
-      "Козицын Николай Иванович": 74,
-      "Маликов Игорь Николаевич": 64,
-      "Петриенко Вадим Алексеевич": 16,
-      "Удовиченко Юрий Иванович": 30,
-      "Усольцев Дмитрий Александрович": 15,
-      "Чернышов Виталий Петрович": 145,
-      "Против всех": 180
+      "gas:candidate-vibid:361300770742": 135,
+      "gas:candidate-vibid:361300770418": 250,
+      "gas:candidate-vibid:361300770824": 74,
+      "gas:candidate-vibid:361300771082": 64,
+      "gas:candidate-vibid:1001000195130": 16,
+      "gas:candidate-vibid:1001000126646": 30,
+      "gas:candidate-vibid:361300770662": 15,
+      "gas:candidate-vibid:1001000220839": 145,
+      "special:against-all": 180
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=613007007&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=361300771780&region=0&sub_region=0&type=429",
@@ -1990,15 +1990,15 @@ export const duma_2003_uik_428_region_61_part_010 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Анпилов Виктор Иванович": 87,
-      "Катальников Владимир Дмитриевич": 227,
-      "Козицын Николай Иванович": 78,
-      "Маликов Игорь Николаевич": 57,
-      "Петриенко Вадим Алексеевич": 11,
-      "Удовиченко Юрий Иванович": 18,
-      "Усольцев Дмитрий Александрович": 10,
-      "Чернышов Виталий Петрович": 90,
-      "Против всех": 149
+      "gas:candidate-vibid:361300770742": 87,
+      "gas:candidate-vibid:361300770418": 227,
+      "gas:candidate-vibid:361300770824": 78,
+      "gas:candidate-vibid:361300771082": 57,
+      "gas:candidate-vibid:1001000195130": 11,
+      "gas:candidate-vibid:1001000126646": 18,
+      "gas:candidate-vibid:361300770662": 10,
+      "gas:candidate-vibid:1001000220839": 90,
+      "special:against-all": 149
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=613007007&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=361300771780&region=0&sub_region=0&type=429",
@@ -2048,15 +2048,15 @@ export const duma_2003_uik_428_region_61_part_010 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Анпилов Виктор Иванович": 85,
-      "Катальников Владимир Дмитриевич": 121,
-      "Козицын Николай Иванович": 77,
-      "Маликов Игорь Николаевич": 31,
-      "Петриенко Вадим Алексеевич": 12,
-      "Удовиченко Юрий Иванович": 9,
-      "Усольцев Дмитрий Александрович": 4,
-      "Чернышов Виталий Петрович": 34,
-      "Против всех": 79
+      "gas:candidate-vibid:361300770742": 85,
+      "gas:candidate-vibid:361300770418": 121,
+      "gas:candidate-vibid:361300770824": 77,
+      "gas:candidate-vibid:361300771082": 31,
+      "gas:candidate-vibid:1001000195130": 12,
+      "gas:candidate-vibid:1001000126646": 9,
+      "gas:candidate-vibid:361300770662": 4,
+      "gas:candidate-vibid:1001000220839": 34,
+      "special:against-all": 79
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=613007007&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=361300771780&region=0&sub_region=0&type=429",
@@ -2106,15 +2106,15 @@ export const duma_2003_uik_428_region_61_part_010 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Анпилов Виктор Иванович": 95,
-      "Катальников Владимир Дмитриевич": 153,
-      "Козицын Николай Иванович": 40,
-      "Маликов Игорь Николаевич": 32,
-      "Петриенко Вадим Алексеевич": 7,
-      "Удовиченко Юрий Иванович": 12,
-      "Усольцев Дмитрий Александрович": 3,
-      "Чернышов Виталий Петрович": 87,
-      "Против всех": 81
+      "gas:candidate-vibid:361300770742": 95,
+      "gas:candidate-vibid:361300770418": 153,
+      "gas:candidate-vibid:361300770824": 40,
+      "gas:candidate-vibid:361300771082": 32,
+      "gas:candidate-vibid:1001000195130": 7,
+      "gas:candidate-vibid:1001000126646": 12,
+      "gas:candidate-vibid:361300770662": 3,
+      "gas:candidate-vibid:1001000220839": 87,
+      "special:against-all": 81
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=613007007&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=361300771780&region=0&sub_region=0&type=429",
@@ -2164,15 +2164,15 @@ export const duma_2003_uik_428_region_61_part_010 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Анпилов Виктор Иванович": 45,
-      "Катальников Владимир Дмитриевич": 220,
-      "Козицын Николай Иванович": 71,
-      "Маликов Игорь Николаевич": 36,
-      "Петриенко Вадим Алексеевич": 4,
-      "Удовиченко Юрий Иванович": 15,
-      "Усольцев Дмитрий Александрович": 6,
-      "Чернышов Виталий Петрович": 24,
-      "Против всех": 72
+      "gas:candidate-vibid:361300770742": 45,
+      "gas:candidate-vibid:361300770418": 220,
+      "gas:candidate-vibid:361300770824": 71,
+      "gas:candidate-vibid:361300771082": 36,
+      "gas:candidate-vibid:1001000195130": 4,
+      "gas:candidate-vibid:1001000126646": 15,
+      "gas:candidate-vibid:361300770662": 6,
+      "gas:candidate-vibid:1001000220839": 24,
+      "special:against-all": 72
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=613007007&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=361300771780&region=0&sub_region=0&type=429",
@@ -2222,15 +2222,15 @@ export const duma_2003_uik_428_region_61_part_010 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Анпилов Виктор Иванович": 86,
-      "Катальников Владимир Дмитриевич": 241,
-      "Козицын Николай Иванович": 111,
-      "Маликов Игорь Николаевич": 60,
-      "Петриенко Вадим Алексеевич": 4,
-      "Удовиченко Юрий Иванович": 25,
-      "Усольцев Дмитрий Александрович": 7,
-      "Чернышов Виталий Петрович": 63,
-      "Против всех": 157
+      "gas:candidate-vibid:361300770742": 86,
+      "gas:candidate-vibid:361300770418": 241,
+      "gas:candidate-vibid:361300770824": 111,
+      "gas:candidate-vibid:361300771082": 60,
+      "gas:candidate-vibid:1001000195130": 4,
+      "gas:candidate-vibid:1001000126646": 25,
+      "gas:candidate-vibid:361300770662": 7,
+      "gas:candidate-vibid:1001000220839": 63,
+      "special:against-all": 157
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=613007007&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=361300771780&region=0&sub_region=0&type=429",
@@ -2280,15 +2280,15 @@ export const duma_2003_uik_428_region_61_part_010 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Анпилов Виктор Иванович": 133,
-      "Катальников Владимир Дмитриевич": 452,
-      "Козицын Николай Иванович": 135,
-      "Маликов Игорь Николаевич": 35,
-      "Петриенко Вадим Алексеевич": 11,
-      "Удовиченко Юрий Иванович": 26,
-      "Усольцев Дмитрий Александрович": 8,
-      "Чернышов Виталий Петрович": 135,
-      "Против всех": 186
+      "gas:candidate-vibid:361300770742": 133,
+      "gas:candidate-vibid:361300770418": 452,
+      "gas:candidate-vibid:361300770824": 135,
+      "gas:candidate-vibid:361300771082": 35,
+      "gas:candidate-vibid:1001000195130": 11,
+      "gas:candidate-vibid:1001000126646": 26,
+      "gas:candidate-vibid:361300770662": 8,
+      "gas:candidate-vibid:1001000220839": 135,
+      "special:against-all": 186
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=613007007&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=361300771780&region=0&sub_region=0&type=429",
@@ -2338,15 +2338,15 @@ export const duma_2003_uik_428_region_61_part_010 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Анпилов Виктор Иванович": 114,
-      "Катальников Владимир Дмитриевич": 432,
-      "Козицын Николай Иванович": 180,
-      "Маликов Игорь Николаевич": 26,
-      "Петриенко Вадим Алексеевич": 7,
-      "Удовиченко Юрий Иванович": 23,
-      "Усольцев Дмитрий Александрович": 8,
-      "Чернышов Виталий Петрович": 129,
-      "Против всех": 184
+      "gas:candidate-vibid:361300770742": 114,
+      "gas:candidate-vibid:361300770418": 432,
+      "gas:candidate-vibid:361300770824": 180,
+      "gas:candidate-vibid:361300771082": 26,
+      "gas:candidate-vibid:1001000195130": 7,
+      "gas:candidate-vibid:1001000126646": 23,
+      "gas:candidate-vibid:361300770662": 8,
+      "gas:candidate-vibid:1001000220839": 129,
+      "special:against-all": 184
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=613007007&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=361300771780&region=0&sub_region=0&type=429",
@@ -2396,15 +2396,15 @@ export const duma_2003_uik_428_region_61_part_010 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Анпилов Виктор Иванович": 168,
-      "Катальников Владимир Дмитриевич": 424,
-      "Козицын Николай Иванович": 131,
-      "Маликов Игорь Николаевич": 40,
-      "Петриенко Вадим Алексеевич": 12,
-      "Удовиченко Юрий Иванович": 39,
-      "Усольцев Дмитрий Александрович": 9,
-      "Чернышов Виталий Петрович": 102,
-      "Против всех": 220
+      "gas:candidate-vibid:361300770742": 168,
+      "gas:candidate-vibid:361300770418": 424,
+      "gas:candidate-vibid:361300770824": 131,
+      "gas:candidate-vibid:361300771082": 40,
+      "gas:candidate-vibid:1001000195130": 12,
+      "gas:candidate-vibid:1001000126646": 39,
+      "gas:candidate-vibid:361300770662": 9,
+      "gas:candidate-vibid:1001000220839": 102,
+      "special:against-all": 220
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=613007007&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=361300771780&region=0&sub_region=0&type=429",
@@ -2454,15 +2454,15 @@ export const duma_2003_uik_428_region_61_part_010 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Анпилов Виктор Иванович": 105,
-      "Катальников Владимир Дмитриевич": 352,
-      "Козицын Николай Иванович": 38,
-      "Маликов Игорь Николаевич": 45,
-      "Петриенко Вадим Алексеевич": 11,
-      "Удовиченко Юрий Иванович": 14,
-      "Усольцев Дмитрий Александрович": 7,
-      "Чернышов Виталий Петрович": 76,
-      "Против всех": 111
+      "gas:candidate-vibid:361300770742": 105,
+      "gas:candidate-vibid:361300770418": 352,
+      "gas:candidate-vibid:361300770824": 38,
+      "gas:candidate-vibid:361300771082": 45,
+      "gas:candidate-vibid:1001000195130": 11,
+      "gas:candidate-vibid:1001000126646": 14,
+      "gas:candidate-vibid:361300770662": 7,
+      "gas:candidate-vibid:1001000220839": 76,
+      "special:against-all": 111
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=613007007&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=361300771780&region=0&sub_region=0&type=429",
@@ -2512,15 +2512,15 @@ export const duma_2003_uik_428_region_61_part_010 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Анпилов Виктор Иванович": 178,
-      "Катальников Владимир Дмитриевич": 522,
-      "Козицын Николай Иванович": 53,
-      "Маликов Игорь Николаевич": 130,
-      "Петриенко Вадим Алексеевич": 16,
-      "Удовиченко Юрий Иванович": 20,
-      "Усольцев Дмитрий Александрович": 5,
-      "Чернышов Виталий Петрович": 84,
-      "Против всех": 207
+      "gas:candidate-vibid:361300770742": 178,
+      "gas:candidate-vibid:361300770418": 522,
+      "gas:candidate-vibid:361300770824": 53,
+      "gas:candidate-vibid:361300771082": 130,
+      "gas:candidate-vibid:1001000195130": 16,
+      "gas:candidate-vibid:1001000126646": 20,
+      "gas:candidate-vibid:361300770662": 5,
+      "gas:candidate-vibid:1001000220839": 84,
+      "special:against-all": 207
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=613007007&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=361300771780&region=0&sub_region=0&type=429",
@@ -2570,15 +2570,15 @@ export const duma_2003_uik_428_region_61_part_010 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Анпилов Виктор Иванович": 136,
-      "Катальников Владимир Дмитриевич": 348,
-      "Козицын Николай Иванович": 67,
-      "Маликов Игорь Николаевич": 51,
-      "Петриенко Вадим Алексеевич": 7,
-      "Удовиченко Юрий Иванович": 14,
-      "Усольцев Дмитрий Александрович": 3,
-      "Чернышов Виталий Петрович": 31,
-      "Против всех": 117
+      "gas:candidate-vibid:361300770742": 136,
+      "gas:candidate-vibid:361300770418": 348,
+      "gas:candidate-vibid:361300770824": 67,
+      "gas:candidate-vibid:361300771082": 51,
+      "gas:candidate-vibid:1001000195130": 7,
+      "gas:candidate-vibid:1001000126646": 14,
+      "gas:candidate-vibid:361300770662": 3,
+      "gas:candidate-vibid:1001000220839": 31,
+      "special:against-all": 117
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=613007007&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=361300771780&region=0&sub_region=0&type=429",
@@ -2628,15 +2628,15 @@ export const duma_2003_uik_428_region_61_part_010 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Анпилов Виктор Иванович": 69,
-      "Катальников Владимир Дмитриевич": 303,
-      "Козицын Николай Иванович": 26,
-      "Маликов Игорь Николаевич": 28,
-      "Петриенко Вадим Алексеевич": 3,
-      "Удовиченко Юрий Иванович": 10,
-      "Усольцев Дмитрий Александрович": 2,
-      "Чернышов Виталий Петрович": 30,
-      "Против всех": 69
+      "gas:candidate-vibid:361300770742": 69,
+      "gas:candidate-vibid:361300770418": 303,
+      "gas:candidate-vibid:361300770824": 26,
+      "gas:candidate-vibid:361300771082": 28,
+      "gas:candidate-vibid:1001000195130": 3,
+      "gas:candidate-vibid:1001000126646": 10,
+      "gas:candidate-vibid:361300770662": 2,
+      "gas:candidate-vibid:1001000220839": 30,
+      "special:against-all": 69
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=613007007&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=361300771780&region=0&sub_region=0&type=429",
@@ -2686,15 +2686,15 @@ export const duma_2003_uik_428_region_61_part_010 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Анпилов Виктор Иванович": 105,
-      "Катальников Владимир Дмитриевич": 374,
-      "Козицын Николай Иванович": 68,
-      "Маликов Игорь Николаевич": 62,
-      "Петриенко Вадим Алексеевич": 5,
-      "Удовиченко Юрий Иванович": 21,
-      "Усольцев Дмитрий Александрович": 10,
-      "Чернышов Виталий Петрович": 125,
-      "Против всех": 162
+      "gas:candidate-vibid:361300770742": 105,
+      "gas:candidate-vibid:361300770418": 374,
+      "gas:candidate-vibid:361300770824": 68,
+      "gas:candidate-vibid:361300771082": 62,
+      "gas:candidate-vibid:1001000195130": 5,
+      "gas:candidate-vibid:1001000126646": 21,
+      "gas:candidate-vibid:361300770662": 10,
+      "gas:candidate-vibid:1001000220839": 125,
+      "special:against-all": 162
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=613007007&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=361300771780&region=0&sub_region=0&type=429",
@@ -2744,15 +2744,15 @@ export const duma_2003_uik_428_region_61_part_010 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Анпилов Виктор Иванович": 85,
-      "Катальников Владимир Дмитриевич": 343,
-      "Козицын Николай Иванович": 71,
-      "Маликов Игорь Николаевич": 42,
-      "Петриенко Вадим Алексеевич": 3,
-      "Удовиченко Юрий Иванович": 21,
-      "Усольцев Дмитрий Александрович": 10,
-      "Чернышов Виталий Петрович": 212,
-      "Против всех": 134
+      "gas:candidate-vibid:361300770742": 85,
+      "gas:candidate-vibid:361300770418": 343,
+      "gas:candidate-vibid:361300770824": 71,
+      "gas:candidate-vibid:361300771082": 42,
+      "gas:candidate-vibid:1001000195130": 3,
+      "gas:candidate-vibid:1001000126646": 21,
+      "gas:candidate-vibid:361300770662": 10,
+      "gas:candidate-vibid:1001000220839": 212,
+      "special:against-all": 134
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=613007007&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=361300771780&region=0&sub_region=0&type=429",
@@ -2802,15 +2802,15 @@ export const duma_2003_uik_428_region_61_part_010 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Анпилов Виктор Иванович": 47,
-      "Катальников Владимир Дмитриевич": 164,
-      "Козицын Николай Иванович": 51,
-      "Маликов Игорь Николаевич": 28,
-      "Петриенко Вадим Алексеевич": 4,
-      "Удовиченко Юрий Иванович": 8,
-      "Усольцев Дмитрий Александрович": 3,
-      "Чернышов Виталий Петрович": 35,
-      "Против всех": 149
+      "gas:candidate-vibid:361300770742": 47,
+      "gas:candidate-vibid:361300770418": 164,
+      "gas:candidate-vibid:361300770824": 51,
+      "gas:candidate-vibid:361300771082": 28,
+      "gas:candidate-vibid:1001000195130": 4,
+      "gas:candidate-vibid:1001000126646": 8,
+      "gas:candidate-vibid:361300770662": 3,
+      "gas:candidate-vibid:1001000220839": 35,
+      "special:against-all": 149
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=613007007&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=361300771780&region=0&sub_region=0&type=429",
@@ -2860,15 +2860,15 @@ export const duma_2003_uik_428_region_61_part_010 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Анпилов Виктор Иванович": 98,
-      "Катальников Владимир Дмитриевич": 395,
-      "Козицын Николай Иванович": 96,
-      "Маликов Игорь Николаевич": 110,
-      "Петриенко Вадим Алексеевич": 44,
-      "Удовиченко Юрий Иванович": 22,
-      "Усольцев Дмитрий Александрович": 15,
-      "Чернышов Виталий Петрович": 72,
-      "Против всех": 228
+      "gas:candidate-vibid:361300770742": 98,
+      "gas:candidate-vibid:361300770418": 395,
+      "gas:candidate-vibid:361300770824": 96,
+      "gas:candidate-vibid:361300771082": 110,
+      "gas:candidate-vibid:1001000195130": 44,
+      "gas:candidate-vibid:1001000126646": 22,
+      "gas:candidate-vibid:361300770662": 15,
+      "gas:candidate-vibid:1001000220839": 72,
+      "special:against-all": 228
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=613007007&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=361300771780&region=0&sub_region=0&type=429",
@@ -2918,15 +2918,15 @@ export const duma_2003_uik_428_region_61_part_010 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Анпилов Виктор Иванович": 59,
-      "Катальников Владимир Дмитриевич": 215,
-      "Козицын Николай Иванович": 78,
-      "Маликов Игорь Николаевич": 34,
-      "Петриенко Вадим Алексеевич": 5,
-      "Удовиченко Юрий Иванович": 10,
-      "Усольцев Дмитрий Александрович": 7,
-      "Чернышов Виталий Петрович": 101,
-      "Против всех": 132
+      "gas:candidate-vibid:361300770742": 59,
+      "gas:candidate-vibid:361300770418": 215,
+      "gas:candidate-vibid:361300770824": 78,
+      "gas:candidate-vibid:361300771082": 34,
+      "gas:candidate-vibid:1001000195130": 5,
+      "gas:candidate-vibid:1001000126646": 10,
+      "gas:candidate-vibid:361300770662": 7,
+      "gas:candidate-vibid:1001000220839": 101,
+      "special:against-all": 132
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=613007007&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=361300771780&region=0&sub_region=0&type=429",
@@ -2976,15 +2976,15 @@ export const duma_2003_uik_428_region_61_part_010 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Анпилов Виктор Иванович": 89,
-      "Катальников Владимир Дмитриевич": 253,
-      "Козицын Николай Иванович": 69,
-      "Маликов Игорь Николаевич": 58,
-      "Петриенко Вадим Алексеевич": 4,
-      "Удовиченко Юрий Иванович": 11,
-      "Усольцев Дмитрий Александрович": 5,
-      "Чернышов Виталий Петрович": 110,
-      "Против всех": 137
+      "gas:candidate-vibid:361300770742": 89,
+      "gas:candidate-vibid:361300770418": 253,
+      "gas:candidate-vibid:361300770824": 69,
+      "gas:candidate-vibid:361300771082": 58,
+      "gas:candidate-vibid:1001000195130": 4,
+      "gas:candidate-vibid:1001000126646": 11,
+      "gas:candidate-vibid:361300770662": 5,
+      "gas:candidate-vibid:1001000220839": 110,
+      "special:against-all": 137
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=613007007&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=361300771780&region=0&sub_region=0&type=429",
@@ -3034,15 +3034,15 @@ export const duma_2003_uik_428_region_61_part_010 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Анпилов Виктор Иванович": 93,
-      "Катальников Владимир Дмитриевич": 187,
-      "Козицын Николай Иванович": 90,
-      "Маликов Игорь Николаевич": 55,
-      "Петриенко Вадим Алексеевич": 8,
-      "Удовиченко Юрий Иванович": 16,
-      "Усольцев Дмитрий Александрович": 12,
-      "Чернышов Виталий Петрович": 203,
-      "Против всех": 205
+      "gas:candidate-vibid:361300770742": 93,
+      "gas:candidate-vibid:361300770418": 187,
+      "gas:candidate-vibid:361300770824": 90,
+      "gas:candidate-vibid:361300771082": 55,
+      "gas:candidate-vibid:1001000195130": 8,
+      "gas:candidate-vibid:1001000126646": 16,
+      "gas:candidate-vibid:361300770662": 12,
+      "gas:candidate-vibid:1001000220839": 203,
+      "special:against-all": 205
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=613007007&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=361300771780&region=0&sub_region=0&type=429",
@@ -3092,15 +3092,15 @@ export const duma_2003_uik_428_region_61_part_010 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Анпилов Виктор Иванович": 90,
-      "Катальников Владимир Дмитриевич": 217,
-      "Козицын Николай Иванович": 136,
-      "Маликов Игорь Николаевич": 54,
-      "Петриенко Вадим Алексеевич": 15,
-      "Удовиченко Юрий Иванович": 12,
-      "Усольцев Дмитрий Александрович": 6,
-      "Чернышов Виталий Петрович": 99,
-      "Против всех": 158
+      "gas:candidate-vibid:361300770742": 90,
+      "gas:candidate-vibid:361300770418": 217,
+      "gas:candidate-vibid:361300770824": 136,
+      "gas:candidate-vibid:361300771082": 54,
+      "gas:candidate-vibid:1001000195130": 15,
+      "gas:candidate-vibid:1001000126646": 12,
+      "gas:candidate-vibid:361300770662": 6,
+      "gas:candidate-vibid:1001000220839": 99,
+      "special:against-all": 158
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=613007007&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=361300771780&region=0&sub_region=0&type=429",
@@ -3150,15 +3150,15 @@ export const duma_2003_uik_428_region_61_part_010 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Анпилов Виктор Иванович": 83,
-      "Катальников Владимир Дмитриевич": 131,
-      "Козицын Николай Иванович": 131,
-      "Маликов Игорь Николаевич": 39,
-      "Петриенко Вадим Алексеевич": 7,
-      "Удовиченко Юрий Иванович": 16,
-      "Усольцев Дмитрий Александрович": 4,
-      "Чернышов Виталий Петрович": 45,
-      "Против всех": 83
+      "gas:candidate-vibid:361300770742": 83,
+      "gas:candidate-vibid:361300770418": 131,
+      "gas:candidate-vibid:361300770824": 131,
+      "gas:candidate-vibid:361300771082": 39,
+      "gas:candidate-vibid:1001000195130": 7,
+      "gas:candidate-vibid:1001000126646": 16,
+      "gas:candidate-vibid:361300770662": 4,
+      "gas:candidate-vibid:1001000220839": 45,
+      "special:against-all": 83
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=613007007&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=361300771780&region=0&sub_region=0&type=429",
@@ -3208,15 +3208,15 @@ export const duma_2003_uik_428_region_61_part_010 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Анпилов Виктор Иванович": 205,
-      "Катальников Владимир Дмитриевич": 355,
-      "Козицын Николай Иванович": 119,
-      "Маликов Игорь Николаевич": 97,
-      "Петриенко Вадим Алексеевич": 12,
-      "Удовиченко Юрий Иванович": 21,
-      "Усольцев Дмитрий Александрович": 6,
-      "Чернышов Виталий Петрович": 168,
-      "Против всех": 279
+      "gas:candidate-vibid:361300770742": 205,
+      "gas:candidate-vibid:361300770418": 355,
+      "gas:candidate-vibid:361300770824": 119,
+      "gas:candidate-vibid:361300771082": 97,
+      "gas:candidate-vibid:1001000195130": 12,
+      "gas:candidate-vibid:1001000126646": 21,
+      "gas:candidate-vibid:361300770662": 6,
+      "gas:candidate-vibid:1001000220839": 168,
+      "special:against-all": 279
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=613007007&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=361300771780&region=0&sub_region=0&type=429",
@@ -3266,15 +3266,15 @@ export const duma_2003_uik_428_region_61_part_010 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Анпилов Виктор Иванович": 79,
-      "Катальников Владимир Дмитриевич": 153,
-      "Козицын Николай Иванович": 89,
-      "Маликов Игорь Николаевич": 60,
-      "Петриенко Вадим Алексеевич": 28,
-      "Удовиченко Юрий Иванович": 12,
-      "Усольцев Дмитрий Александрович": 9,
-      "Чернышов Виталий Петрович": 63,
-      "Против всех": 161
+      "gas:candidate-vibid:361300770742": 79,
+      "gas:candidate-vibid:361300770418": 153,
+      "gas:candidate-vibid:361300770824": 89,
+      "gas:candidate-vibid:361300771082": 60,
+      "gas:candidate-vibid:1001000195130": 28,
+      "gas:candidate-vibid:1001000126646": 12,
+      "gas:candidate-vibid:361300770662": 9,
+      "gas:candidate-vibid:1001000220839": 63,
+      "special:against-all": 161
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=613007007&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=361300771780&region=0&sub_region=0&type=429",
@@ -3324,15 +3324,15 @@ export const duma_2003_uik_428_region_61_part_010 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Анпилов Виктор Иванович": 134,
-      "Катальников Владимир Дмитриевич": 284,
-      "Козицын Николай Иванович": 78,
-      "Маликов Игорь Николаевич": 59,
-      "Петриенко Вадим Алексеевич": 4,
-      "Удовиченко Юрий Иванович": 25,
-      "Усольцев Дмитрий Александрович": 8,
-      "Чернышов Виталий Петрович": 87,
-      "Против всех": 214
+      "gas:candidate-vibid:361300770742": 134,
+      "gas:candidate-vibid:361300770418": 284,
+      "gas:candidate-vibid:361300770824": 78,
+      "gas:candidate-vibid:361300771082": 59,
+      "gas:candidate-vibid:1001000195130": 4,
+      "gas:candidate-vibid:1001000126646": 25,
+      "gas:candidate-vibid:361300770662": 8,
+      "gas:candidate-vibid:1001000220839": 87,
+      "special:against-all": 214
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=613007007&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=361300771780&region=0&sub_region=0&type=429",
@@ -3382,15 +3382,15 @@ export const duma_2003_uik_428_region_61_part_010 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Анпилов Виктор Иванович": 59,
-      "Катальников Владимир Дмитриевич": 192,
-      "Козицын Николай Иванович": 44,
-      "Маликов Игорь Николаевич": 26,
-      "Петриенко Вадим Алексеевич": 11,
-      "Удовиченко Юрий Иванович": 11,
-      "Усольцев Дмитрий Александрович": 4,
-      "Чернышов Виталий Петрович": 21,
-      "Против всех": 64
+      "gas:candidate-vibid:361300770742": 59,
+      "gas:candidate-vibid:361300770418": 192,
+      "gas:candidate-vibid:361300770824": 44,
+      "gas:candidate-vibid:361300771082": 26,
+      "gas:candidate-vibid:1001000195130": 11,
+      "gas:candidate-vibid:1001000126646": 11,
+      "gas:candidate-vibid:361300770662": 4,
+      "gas:candidate-vibid:1001000220839": 21,
+      "special:against-all": 64
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=613007007&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=361300771780&region=0&sub_region=0&type=429",
@@ -3440,15 +3440,15 @@ export const duma_2003_uik_428_region_61_part_010 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Анпилов Виктор Иванович": 114,
-      "Катальников Владимир Дмитриевич": 152,
-      "Козицын Николай Иванович": 86,
-      "Маликов Игорь Николаевич": 40,
-      "Петриенко Вадим Алексеевич": 14,
-      "Удовиченко Юрий Иванович": 20,
-      "Усольцев Дмитрий Александрович": 6,
-      "Чернышов Виталий Петрович": 64,
-      "Против всех": 129
+      "gas:candidate-vibid:361300770742": 114,
+      "gas:candidate-vibid:361300770418": 152,
+      "gas:candidate-vibid:361300770824": 86,
+      "gas:candidate-vibid:361300771082": 40,
+      "gas:candidate-vibid:1001000195130": 14,
+      "gas:candidate-vibid:1001000126646": 20,
+      "gas:candidate-vibid:361300770662": 6,
+      "gas:candidate-vibid:1001000220839": 64,
+      "special:against-all": 129
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=613007007&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=361300771780&region=0&sub_region=0&type=429",
@@ -3498,15 +3498,15 @@ export const duma_2003_uik_428_region_61_part_010 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Анпилов Виктор Иванович": 147,
-      "Катальников Владимир Дмитриевич": 269,
-      "Козицын Николай Иванович": 188,
-      "Маликов Игорь Николаевич": 100,
-      "Петриенко Вадим Алексеевич": 15,
-      "Удовиченко Юрий Иванович": 31,
-      "Усольцев Дмитрий Александрович": 10,
-      "Чернышов Виталий Петрович": 85,
-      "Против всех": 168
+      "gas:candidate-vibid:361300770742": 147,
+      "gas:candidate-vibid:361300770418": 269,
+      "gas:candidate-vibid:361300770824": 188,
+      "gas:candidate-vibid:361300771082": 100,
+      "gas:candidate-vibid:1001000195130": 15,
+      "gas:candidate-vibid:1001000126646": 31,
+      "gas:candidate-vibid:361300770662": 10,
+      "gas:candidate-vibid:1001000220839": 85,
+      "special:against-all": 168
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=613007007&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=361300771780&region=0&sub_region=0&type=429",
@@ -3556,15 +3556,15 @@ export const duma_2003_uik_428_region_61_part_010 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Анпилов Виктор Иванович": 125,
-      "Катальников Владимир Дмитриевич": 337,
-      "Козицын Николай Иванович": 140,
-      "Маликов Игорь Николаевич": 110,
-      "Петриенко Вадим Алексеевич": 16,
-      "Удовиченко Юрий Иванович": 21,
-      "Усольцев Дмитрий Александрович": 13,
-      "Чернышов Виталий Петрович": 131,
-      "Против всех": 250
+      "gas:candidate-vibid:361300770742": 125,
+      "gas:candidate-vibid:361300770418": 337,
+      "gas:candidate-vibid:361300770824": 140,
+      "gas:candidate-vibid:361300771082": 110,
+      "gas:candidate-vibid:1001000195130": 16,
+      "gas:candidate-vibid:1001000126646": 21,
+      "gas:candidate-vibid:361300770662": 13,
+      "gas:candidate-vibid:1001000220839": 131,
+      "special:against-all": 250
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=613007007&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=361300771780&region=0&sub_region=0&type=429",
@@ -3614,15 +3614,15 @@ export const duma_2003_uik_428_region_61_part_010 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Анпилов Виктор Иванович": 91,
-      "Катальников Владимир Дмитриевич": 298,
-      "Козицын Николай Иванович": 95,
-      "Маликов Игорь Николаевич": 61,
-      "Петриенко Вадим Алексеевич": 6,
-      "Удовиченко Юрий Иванович": 28,
-      "Усольцев Дмитрий Александрович": 8,
-      "Чернышов Виталий Петрович": 114,
-      "Против всех": 188
+      "gas:candidate-vibid:361300770742": 91,
+      "gas:candidate-vibid:361300770418": 298,
+      "gas:candidate-vibid:361300770824": 95,
+      "gas:candidate-vibid:361300771082": 61,
+      "gas:candidate-vibid:1001000195130": 6,
+      "gas:candidate-vibid:1001000126646": 28,
+      "gas:candidate-vibid:361300770662": 8,
+      "gas:candidate-vibid:1001000220839": 114,
+      "special:against-all": 188
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=613007007&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=361300771780&region=0&sub_region=0&type=429",
@@ -3672,15 +3672,15 @@ export const duma_2003_uik_428_region_61_part_010 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Анпилов Виктор Иванович": 109,
-      "Катальников Владимир Дмитриевич": 215,
-      "Козицын Николай Иванович": 68,
-      "Маликов Игорь Николаевич": 38,
-      "Петриенко Вадим Алексеевич": 7,
-      "Удовиченко Юрий Иванович": 22,
-      "Усольцев Дмитрий Александрович": 7,
-      "Чернышов Виталий Петрович": 78,
-      "Против всех": 145
+      "gas:candidate-vibid:361300770742": 109,
+      "gas:candidate-vibid:361300770418": 215,
+      "gas:candidate-vibid:361300770824": 68,
+      "gas:candidate-vibid:361300771082": 38,
+      "gas:candidate-vibid:1001000195130": 7,
+      "gas:candidate-vibid:1001000126646": 22,
+      "gas:candidate-vibid:361300770662": 7,
+      "gas:candidate-vibid:1001000220839": 78,
+      "special:against-all": 145
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=613007007&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=361300771780&region=0&sub_region=0&type=429",
@@ -3730,15 +3730,15 @@ export const duma_2003_uik_428_region_61_part_010 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Анпилов Виктор Иванович": 121,
-      "Катальников Владимир Дмитриевич": 219,
-      "Козицын Николай Иванович": 73,
-      "Маликов Игорь Николаевич": 59,
-      "Петриенко Вадим Алексеевич": 8,
-      "Удовиченко Юрий Иванович": 34,
-      "Усольцев Дмитрий Александрович": 13,
-      "Чернышов Виталий Петрович": 125,
-      "Против всех": 202
+      "gas:candidate-vibid:361300770742": 121,
+      "gas:candidate-vibid:361300770418": 219,
+      "gas:candidate-vibid:361300770824": 73,
+      "gas:candidate-vibid:361300771082": 59,
+      "gas:candidate-vibid:1001000195130": 8,
+      "gas:candidate-vibid:1001000126646": 34,
+      "gas:candidate-vibid:361300770662": 13,
+      "gas:candidate-vibid:1001000220839": 125,
+      "special:against-all": 202
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=613007007&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=361300771780&region=0&sub_region=0&type=429",
@@ -3788,15 +3788,15 @@ export const duma_2003_uik_428_region_61_part_010 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Анпилов Виктор Иванович": 88,
-      "Катальников Владимир Дмитриевич": 252,
-      "Козицын Николай Иванович": 85,
-      "Маликов Игорь Николаевич": 53,
-      "Петриенко Вадим Алексеевич": 6,
-      "Удовиченко Юрий Иванович": 24,
-      "Усольцев Дмитрий Александрович": 10,
-      "Чернышов Виталий Петрович": 88,
-      "Против всех": 148
+      "gas:candidate-vibid:361300770742": 88,
+      "gas:candidate-vibid:361300770418": 252,
+      "gas:candidate-vibid:361300770824": 85,
+      "gas:candidate-vibid:361300771082": 53,
+      "gas:candidate-vibid:1001000195130": 6,
+      "gas:candidate-vibid:1001000126646": 24,
+      "gas:candidate-vibid:361300770662": 10,
+      "gas:candidate-vibid:1001000220839": 88,
+      "special:against-all": 148
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=613007007&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=361300771780&region=0&sub_region=0&type=429",
@@ -3846,15 +3846,15 @@ export const duma_2003_uik_428_region_61_part_010 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Анпилов Виктор Иванович": 91,
-      "Катальников Владимир Дмитриевич": 287,
-      "Козицын Николай Иванович": 86,
-      "Маликов Игорь Николаевич": 45,
-      "Петриенко Вадим Алексеевич": 9,
-      "Удовиченко Юрий Иванович": 24,
-      "Усольцев Дмитрий Александрович": 8,
-      "Чернышов Виталий Петрович": 120,
-      "Против всех": 188
+      "gas:candidate-vibid:361300770742": 91,
+      "gas:candidate-vibid:361300770418": 287,
+      "gas:candidate-vibid:361300770824": 86,
+      "gas:candidate-vibid:361300771082": 45,
+      "gas:candidate-vibid:1001000195130": 9,
+      "gas:candidate-vibid:1001000126646": 24,
+      "gas:candidate-vibid:361300770662": 8,
+      "gas:candidate-vibid:1001000220839": 120,
+      "special:against-all": 188
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=613007007&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=361300771780&region=0&sub_region=0&type=429",
@@ -3904,15 +3904,15 @@ export const duma_2003_uik_428_region_61_part_010 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Анпилов Виктор Иванович": 117,
-      "Катальников Владимир Дмитриевич": 479,
-      "Козицын Николай Иванович": 91,
-      "Маликов Игорь Николаевич": 43,
-      "Петриенко Вадим Алексеевич": 4,
-      "Удовиченко Юрий Иванович": 22,
-      "Усольцев Дмитрий Александрович": 7,
-      "Чернышов Виталий Петрович": 108,
-      "Против всех": 226
+      "gas:candidate-vibid:361300770742": 117,
+      "gas:candidate-vibid:361300770418": 479,
+      "gas:candidate-vibid:361300770824": 91,
+      "gas:candidate-vibid:361300771082": 43,
+      "gas:candidate-vibid:1001000195130": 4,
+      "gas:candidate-vibid:1001000126646": 22,
+      "gas:candidate-vibid:361300770662": 7,
+      "gas:candidate-vibid:1001000220839": 108,
+      "special:against-all": 226
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=613007007&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=361300771780&region=0&sub_region=0&type=429",
@@ -3962,15 +3962,15 @@ export const duma_2003_uik_428_region_61_part_010 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Анпилов Виктор Иванович": 89,
-      "Катальников Владимир Дмитриевич": 375,
-      "Козицын Николай Иванович": 74,
-      "Маликов Игорь Николаевич": 65,
-      "Петриенко Вадим Алексеевич": 8,
-      "Удовиченко Юрий Иванович": 18,
-      "Усольцев Дмитрий Александрович": 7,
-      "Чернышов Виталий Петрович": 51,
-      "Против всех": 204
+      "gas:candidate-vibid:361300770742": 89,
+      "gas:candidate-vibid:361300770418": 375,
+      "gas:candidate-vibid:361300770824": 74,
+      "gas:candidate-vibid:361300771082": 65,
+      "gas:candidate-vibid:1001000195130": 8,
+      "gas:candidate-vibid:1001000126646": 18,
+      "gas:candidate-vibid:361300770662": 7,
+      "gas:candidate-vibid:1001000220839": 51,
+      "special:against-all": 204
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=613007007&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=361300771780&region=0&sub_region=0&type=429",
@@ -4020,15 +4020,15 @@ export const duma_2003_uik_428_region_61_part_010 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Анпилов Виктор Иванович": 66,
-      "Катальников Владимир Дмитриевич": 232,
-      "Козицын Николай Иванович": 44,
-      "Маликов Игорь Николаевич": 32,
-      "Петриенко Вадим Алексеевич": 5,
-      "Удовиченко Юрий Иванович": 11,
-      "Усольцев Дмитрий Александрович": 2,
-      "Чернышов Виталий Петрович": 75,
-      "Против всех": 95
+      "gas:candidate-vibid:361300770742": 66,
+      "gas:candidate-vibid:361300770418": 232,
+      "gas:candidate-vibid:361300770824": 44,
+      "gas:candidate-vibid:361300771082": 32,
+      "gas:candidate-vibid:1001000195130": 5,
+      "gas:candidate-vibid:1001000126646": 11,
+      "gas:candidate-vibid:361300770662": 2,
+      "gas:candidate-vibid:1001000220839": 75,
+      "special:against-all": 95
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=613007007&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=361300771780&region=0&sub_region=0&type=429",
@@ -4078,15 +4078,15 @@ export const duma_2003_uik_428_region_61_part_010 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Анпилов Виктор Иванович": 88,
-      "Катальников Владимир Дмитриевич": 257,
-      "Козицын Николай Иванович": 49,
-      "Маликов Игорь Николаевич": 30,
-      "Петриенко Вадим Алексеевич": 9,
-      "Удовиченко Юрий Иванович": 14,
-      "Усольцев Дмитрий Александрович": 7,
-      "Чернышов Виталий Петрович": 75,
-      "Против всех": 136
+      "gas:candidate-vibid:361300770742": 88,
+      "gas:candidate-vibid:361300770418": 257,
+      "gas:candidate-vibid:361300770824": 49,
+      "gas:candidate-vibid:361300771082": 30,
+      "gas:candidate-vibid:1001000195130": 9,
+      "gas:candidate-vibid:1001000126646": 14,
+      "gas:candidate-vibid:361300770662": 7,
+      "gas:candidate-vibid:1001000220839": 75,
+      "special:against-all": 136
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=613007007&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=361300771780&region=0&sub_region=0&type=429",
@@ -4136,15 +4136,15 @@ export const duma_2003_uik_428_region_61_part_010 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Анпилов Виктор Иванович": 179,
-      "Катальников Владимир Дмитриевич": 151,
-      "Козицын Николай Иванович": 38,
-      "Маликов Игорь Николаевич": 55,
-      "Петриенко Вадим Алексеевич": 5,
-      "Удовиченко Юрий Иванович": 14,
-      "Усольцев Дмитрий Александрович": 2,
-      "Чернышов Виталий Петрович": 44,
-      "Против всех": 101
+      "gas:candidate-vibid:361300770742": 179,
+      "gas:candidate-vibid:361300770418": 151,
+      "gas:candidate-vibid:361300770824": 38,
+      "gas:candidate-vibid:361300771082": 55,
+      "gas:candidate-vibid:1001000195130": 5,
+      "gas:candidate-vibid:1001000126646": 14,
+      "gas:candidate-vibid:361300770662": 2,
+      "gas:candidate-vibid:1001000220839": 44,
+      "special:against-all": 101
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=613007007&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=361300771780&region=0&sub_region=0&type=429",
@@ -4194,15 +4194,15 @@ export const duma_2003_uik_428_region_61_part_010 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Анпилов Виктор Иванович": 90,
-      "Катальников Владимир Дмитриевич": 115,
-      "Козицын Николай Иванович": 59,
-      "Маликов Игорь Николаевич": 32,
-      "Петриенко Вадим Алексеевич": 3,
-      "Удовиченко Юрий Иванович": 12,
-      "Усольцев Дмитрий Александрович": 3,
-      "Чернышов Виталий Петрович": 80,
-      "Против всех": 112
+      "gas:candidate-vibid:361300770742": 90,
+      "gas:candidate-vibid:361300770418": 115,
+      "gas:candidate-vibid:361300770824": 59,
+      "gas:candidate-vibid:361300771082": 32,
+      "gas:candidate-vibid:1001000195130": 3,
+      "gas:candidate-vibid:1001000126646": 12,
+      "gas:candidate-vibid:361300770662": 3,
+      "gas:candidate-vibid:1001000220839": 80,
+      "special:against-all": 112
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=613007007&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=361300771780&region=0&sub_region=0&type=429",
@@ -4252,15 +4252,15 @@ export const duma_2003_uik_428_region_61_part_010 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Анпилов Виктор Иванович": 67,
-      "Катальников Владимир Дмитриевич": 182,
-      "Козицын Николай Иванович": 124,
-      "Маликов Игорь Николаевич": 85,
-      "Петриенко Вадим Алексеевич": 3,
-      "Удовиченко Юрий Иванович": 17,
-      "Усольцев Дмитрий Александрович": 1,
-      "Чернышов Виталий Петрович": 46,
-      "Против всех": 113
+      "gas:candidate-vibid:361300770742": 67,
+      "gas:candidate-vibid:361300770418": 182,
+      "gas:candidate-vibid:361300770824": 124,
+      "gas:candidate-vibid:361300771082": 85,
+      "gas:candidate-vibid:1001000195130": 3,
+      "gas:candidate-vibid:1001000126646": 17,
+      "gas:candidate-vibid:361300770662": 1,
+      "gas:candidate-vibid:1001000220839": 46,
+      "special:against-all": 113
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=613007007&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=361300771780&region=0&sub_region=0&type=429",
@@ -4310,15 +4310,15 @@ export const duma_2003_uik_428_region_61_part_010 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Анпилов Виктор Иванович": 79,
-      "Катальников Владимир Дмитриевич": 277,
-      "Козицын Николай Иванович": 217,
-      "Маликов Игорь Николаевич": 10,
-      "Петриенко Вадим Алексеевич": 5,
-      "Удовиченко Юрий Иванович": 8,
-      "Усольцев Дмитрий Александрович": 5,
-      "Чернышов Виталий Петрович": 123,
-      "Против всех": 108
+      "gas:candidate-vibid:361300770742": 79,
+      "gas:candidate-vibid:361300770418": 277,
+      "gas:candidate-vibid:361300770824": 217,
+      "gas:candidate-vibid:361300771082": 10,
+      "gas:candidate-vibid:1001000195130": 5,
+      "gas:candidate-vibid:1001000126646": 8,
+      "gas:candidate-vibid:361300770662": 5,
+      "gas:candidate-vibid:1001000220839": 123,
+      "special:against-all": 108
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=613007007&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=361300771780&region=0&sub_region=0&type=429",
@@ -4368,15 +4368,15 @@ export const duma_2003_uik_428_region_61_part_010 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Анпилов Виктор Иванович": 111,
-      "Катальников Владимир Дмитриевич": 271,
-      "Козицын Николай Иванович": 112,
-      "Маликов Игорь Николаевич": 52,
-      "Петриенко Вадим Алексеевич": 6,
-      "Удовиченко Юрий Иванович": 42,
-      "Усольцев Дмитрий Александрович": 8,
-      "Чернышов Виталий Петрович": 217,
-      "Против всех": 259
+      "gas:candidate-vibid:361300770742": 111,
+      "gas:candidate-vibid:361300770418": 271,
+      "gas:candidate-vibid:361300770824": 112,
+      "gas:candidate-vibid:361300771082": 52,
+      "gas:candidate-vibid:1001000195130": 6,
+      "gas:candidate-vibid:1001000126646": 42,
+      "gas:candidate-vibid:361300770662": 8,
+      "gas:candidate-vibid:1001000220839": 217,
+      "special:against-all": 259
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=613007007&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=361300771780&region=0&sub_region=0&type=429",
@@ -4426,15 +4426,15 @@ export const duma_2003_uik_428_region_61_part_010 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Анпилов Виктор Иванович": 90,
-      "Катальников Владимир Дмитриевич": 221,
-      "Козицын Николай Иванович": 76,
-      "Маликов Игорь Николаевич": 26,
-      "Петриенко Вадим Алексеевич": 4,
-      "Удовиченко Юрий Иванович": 24,
-      "Усольцев Дмитрий Александрович": 6,
-      "Чернышов Виталий Петрович": 87,
-      "Против всех": 112
+      "gas:candidate-vibid:361300770742": 90,
+      "gas:candidate-vibid:361300770418": 221,
+      "gas:candidate-vibid:361300770824": 76,
+      "gas:candidate-vibid:361300771082": 26,
+      "gas:candidate-vibid:1001000195130": 4,
+      "gas:candidate-vibid:1001000126646": 24,
+      "gas:candidate-vibid:361300770662": 6,
+      "gas:candidate-vibid:1001000220839": 87,
+      "special:against-all": 112
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=613007007&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=361300771780&region=0&sub_region=0&type=429",
@@ -4484,15 +4484,15 @@ export const duma_2003_uik_428_region_61_part_010 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Анпилов Виктор Иванович": 110,
-      "Катальников Владимир Дмитриевич": 224,
-      "Козицын Николай Иванович": 63,
-      "Маликов Игорь Николаевич": 28,
-      "Петриенко Вадим Алексеевич": 1,
-      "Удовиченко Юрий Иванович": 13,
-      "Усольцев Дмитрий Александрович": 2,
-      "Чернышов Виталий Петрович": 34,
-      "Против всех": 95
+      "gas:candidate-vibid:361300770742": 110,
+      "gas:candidate-vibid:361300770418": 224,
+      "gas:candidate-vibid:361300770824": 63,
+      "gas:candidate-vibid:361300771082": 28,
+      "gas:candidate-vibid:1001000195130": 1,
+      "gas:candidate-vibid:1001000126646": 13,
+      "gas:candidate-vibid:361300770662": 2,
+      "gas:candidate-vibid:1001000220839": 34,
+      "special:against-all": 95
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=613007007&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=361300771780&region=0&sub_region=0&type=429",
@@ -4542,15 +4542,15 @@ export const duma_2003_uik_428_region_61_part_010 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Анпилов Виктор Иванович": 45,
-      "Катальников Владимир Дмитриевич": 114,
-      "Козицын Николай Иванович": 28,
-      "Маликов Игорь Николаевич": 9,
-      "Петриенко Вадим Алексеевич": 5,
-      "Удовиченко Юрий Иванович": 6,
-      "Усольцев Дмитрий Александрович": 0,
-      "Чернышов Виталий Петрович": 36,
-      "Против всех": 53
+      "gas:candidate-vibid:361300770742": 45,
+      "gas:candidate-vibid:361300770418": 114,
+      "gas:candidate-vibid:361300770824": 28,
+      "gas:candidate-vibid:361300771082": 9,
+      "gas:candidate-vibid:1001000195130": 5,
+      "gas:candidate-vibid:1001000126646": 6,
+      "gas:candidate-vibid:361300770662": 0,
+      "gas:candidate-vibid:1001000220839": 36,
+      "special:against-all": 53
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=613007007&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=361300771780&region=0&sub_region=0&type=429",
@@ -4600,15 +4600,15 @@ export const duma_2003_uik_428_region_61_part_010 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Анпилов Виктор Иванович": 93,
-      "Катальников Владимир Дмитриевич": 147,
-      "Козицын Николай Иванович": 46,
-      "Маликов Игорь Николаевич": 34,
-      "Петриенко Вадим Алексеевич": 4,
-      "Удовиченко Юрий Иванович": 9,
-      "Усольцев Дмитрий Александрович": 2,
-      "Чернышов Виталий Петрович": 71,
-      "Против всех": 93
+      "gas:candidate-vibid:361300770742": 93,
+      "gas:candidate-vibid:361300770418": 147,
+      "gas:candidate-vibid:361300770824": 46,
+      "gas:candidate-vibid:361300771082": 34,
+      "gas:candidate-vibid:1001000195130": 4,
+      "gas:candidate-vibid:1001000126646": 9,
+      "gas:candidate-vibid:361300770662": 2,
+      "gas:candidate-vibid:1001000220839": 71,
+      "special:against-all": 93
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=613007007&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=361300771780&region=0&sub_region=0&type=429",
@@ -4658,15 +4658,15 @@ export const duma_2003_uik_428_region_61_part_010 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Анпилов Виктор Иванович": 120,
-      "Катальников Владимир Дмитриевич": 224,
-      "Козицын Николай Иванович": 145,
-      "Маликов Игорь Николаевич": 37,
-      "Петриенко Вадим Алексеевич": 7,
-      "Удовиченко Юрий Иванович": 14,
-      "Усольцев Дмитрий Александрович": 3,
-      "Чернышов Виталий Петрович": 67,
-      "Против всех": 120
+      "gas:candidate-vibid:361300770742": 120,
+      "gas:candidate-vibid:361300770418": 224,
+      "gas:candidate-vibid:361300770824": 145,
+      "gas:candidate-vibid:361300771082": 37,
+      "gas:candidate-vibid:1001000195130": 7,
+      "gas:candidate-vibid:1001000126646": 14,
+      "gas:candidate-vibid:361300770662": 3,
+      "gas:candidate-vibid:1001000220839": 67,
+      "special:against-all": 120
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=613007007&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=361300771780&region=0&sub_region=0&type=429",
@@ -4716,15 +4716,15 @@ export const duma_2003_uik_428_region_61_part_010 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Анпилов Виктор Иванович": 94,
-      "Катальников Владимир Дмитриевич": 166,
-      "Козицын Николай Иванович": 135,
-      "Маликов Игорь Николаевич": 45,
-      "Петриенко Вадим Алексеевич": 4,
-      "Удовиченко Юрий Иванович": 11,
-      "Усольцев Дмитрий Александрович": 3,
-      "Чернышов Виталий Петрович": 61,
-      "Против всех": 89
+      "gas:candidate-vibid:361300770742": 94,
+      "gas:candidate-vibid:361300770418": 166,
+      "gas:candidate-vibid:361300770824": 135,
+      "gas:candidate-vibid:361300771082": 45,
+      "gas:candidate-vibid:1001000195130": 4,
+      "gas:candidate-vibid:1001000126646": 11,
+      "gas:candidate-vibid:361300770662": 3,
+      "gas:candidate-vibid:1001000220839": 61,
+      "special:against-all": 89
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=613007007&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=361300771780&region=0&sub_region=0&type=429",
@@ -4774,15 +4774,15 @@ export const duma_2003_uik_428_region_61_part_010 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Анпилов Виктор Иванович": 115,
-      "Катальников Владимир Дмитриевич": 181,
-      "Козицын Николай Иванович": 83,
-      "Маликов Игорь Николаевич": 46,
-      "Петриенко Вадим Алексеевич": 3,
-      "Удовиченко Юрий Иванович": 28,
-      "Усольцев Дмитрий Александрович": 10,
-      "Чернышов Виталий Петрович": 78,
-      "Против всех": 142
+      "gas:candidate-vibid:361300770742": 115,
+      "gas:candidate-vibid:361300770418": 181,
+      "gas:candidate-vibid:361300770824": 83,
+      "gas:candidate-vibid:361300771082": 46,
+      "gas:candidate-vibid:1001000195130": 3,
+      "gas:candidate-vibid:1001000126646": 28,
+      "gas:candidate-vibid:361300770662": 10,
+      "gas:candidate-vibid:1001000220839": 78,
+      "special:against-all": 142
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=613007007&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=361300771780&region=0&sub_region=0&type=429",
@@ -4832,15 +4832,15 @@ export const duma_2003_uik_428_region_61_part_010 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Анпилов Виктор Иванович": 135,
-      "Катальников Владимир Дмитриевич": 251,
-      "Козицын Николай Иванович": 93,
-      "Маликов Игорь Николаевич": 35,
-      "Петриенко Вадим Алексеевич": 7,
-      "Удовиченко Юрий Иванович": 19,
-      "Усольцев Дмитрий Александрович": 4,
-      "Чернышов Виталий Петрович": 133,
-      "Против всех": 133
+      "gas:candidate-vibid:361300770742": 135,
+      "gas:candidate-vibid:361300770418": 251,
+      "gas:candidate-vibid:361300770824": 93,
+      "gas:candidate-vibid:361300771082": 35,
+      "gas:candidate-vibid:1001000195130": 7,
+      "gas:candidate-vibid:1001000126646": 19,
+      "gas:candidate-vibid:361300770662": 4,
+      "gas:candidate-vibid:1001000220839": 133,
+      "special:against-all": 133
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=613007007&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=361300771780&region=0&sub_region=0&type=429",
@@ -4890,15 +4890,15 @@ export const duma_2003_uik_428_region_61_part_010 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Анпилов Виктор Иванович": 241,
-      "Катальников Владимир Дмитриевич": 285,
-      "Козицын Николай Иванович": 115,
-      "Маликов Игорь Николаевич": 81,
-      "Петриенко Вадим Алексеевич": 10,
-      "Удовиченко Юрий Иванович": 44,
-      "Усольцев Дмитрий Александрович": 9,
-      "Чернышов Виталий Петрович": 168,
-      "Против всех": 265
+      "gas:candidate-vibid:361300770742": 241,
+      "gas:candidate-vibid:361300770418": 285,
+      "gas:candidate-vibid:361300770824": 115,
+      "gas:candidate-vibid:361300771082": 81,
+      "gas:candidate-vibid:1001000195130": 10,
+      "gas:candidate-vibid:1001000126646": 44,
+      "gas:candidate-vibid:361300770662": 9,
+      "gas:candidate-vibid:1001000220839": 168,
+      "special:against-all": 265
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=613007007&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=361300771780&region=0&sub_region=0&type=429",
@@ -4948,15 +4948,15 @@ export const duma_2003_uik_428_region_61_part_010 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Анпилов Виктор Иванович": 169,
-      "Катальников Владимир Дмитриевич": 259,
-      "Козицын Николай Иванович": 101,
-      "Маликов Игорь Николаевич": 49,
-      "Петриенко Вадим Алексеевич": 13,
-      "Удовиченко Юрий Иванович": 28,
-      "Усольцев Дмитрий Александрович": 5,
-      "Чернышов Виталий Петрович": 128,
-      "Против всех": 227
+      "gas:candidate-vibid:361300770742": 169,
+      "gas:candidate-vibid:361300770418": 259,
+      "gas:candidate-vibid:361300770824": 101,
+      "gas:candidate-vibid:361300771082": 49,
+      "gas:candidate-vibid:1001000195130": 13,
+      "gas:candidate-vibid:1001000126646": 28,
+      "gas:candidate-vibid:361300770662": 5,
+      "gas:candidate-vibid:1001000220839": 128,
+      "special:against-all": 227
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=613007007&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=361300771780&region=0&sub_region=0&type=429",
@@ -5006,15 +5006,15 @@ export const duma_2003_uik_428_region_61_part_010 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Анпилов Виктор Иванович": 183,
-      "Катальников Владимир Дмитриевич": 209,
-      "Козицын Николай Иванович": 95,
-      "Маликов Игорь Николаевич": 71,
-      "Петриенко Вадим Алексеевич": 14,
-      "Удовиченко Юрий Иванович": 30,
-      "Усольцев Дмитрий Александрович": 13,
-      "Чернышов Виталий Петрович": 179,
-      "Против всех": 168
+      "gas:candidate-vibid:361300770742": 183,
+      "gas:candidate-vibid:361300770418": 209,
+      "gas:candidate-vibid:361300770824": 95,
+      "gas:candidate-vibid:361300771082": 71,
+      "gas:candidate-vibid:1001000195130": 14,
+      "gas:candidate-vibid:1001000126646": 30,
+      "gas:candidate-vibid:361300770662": 13,
+      "gas:candidate-vibid:1001000220839": 179,
+      "special:against-all": 168
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=613007007&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=361300771780&region=0&sub_region=0&type=429",
@@ -5064,15 +5064,15 @@ export const duma_2003_uik_428_region_61_part_010 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Анпилов Виктор Иванович": 143,
-      "Катальников Владимир Дмитриевич": 235,
-      "Козицын Николай Иванович": 128,
-      "Маликов Игорь Николаевич": 51,
-      "Петриенко Вадим Алексеевич": 7,
-      "Удовиченко Юрий Иванович": 25,
-      "Усольцев Дмитрий Александрович": 7,
-      "Чернышов Виталий Петрович": 178,
-      "Против всех": 159
+      "gas:candidate-vibid:361300770742": 143,
+      "gas:candidate-vibid:361300770418": 235,
+      "gas:candidate-vibid:361300770824": 128,
+      "gas:candidate-vibid:361300771082": 51,
+      "gas:candidate-vibid:1001000195130": 7,
+      "gas:candidate-vibid:1001000126646": 25,
+      "gas:candidate-vibid:361300770662": 7,
+      "gas:candidate-vibid:1001000220839": 178,
+      "special:against-all": 159
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=613007007&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=361300771780&region=0&sub_region=0&type=429",
@@ -5122,15 +5122,15 @@ export const duma_2003_uik_428_region_61_part_010 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Анпилов Виктор Иванович": 154,
-      "Катальников Владимир Дмитриевич": 318,
-      "Козицын Николай Иванович": 143,
-      "Маликов Игорь Николаевич": 57,
-      "Петриенко Вадим Алексеевич": 8,
-      "Удовиченко Юрий Иванович": 23,
-      "Усольцев Дмитрий Александрович": 6,
-      "Чернышов Виталий Петрович": 122,
-      "Против всех": 181
+      "gas:candidate-vibid:361300770742": 154,
+      "gas:candidate-vibid:361300770418": 318,
+      "gas:candidate-vibid:361300770824": 143,
+      "gas:candidate-vibid:361300771082": 57,
+      "gas:candidate-vibid:1001000195130": 8,
+      "gas:candidate-vibid:1001000126646": 23,
+      "gas:candidate-vibid:361300770662": 6,
+      "gas:candidate-vibid:1001000220839": 122,
+      "special:against-all": 181
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=613007007&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=361300771780&region=0&sub_region=0&type=429",
@@ -5180,15 +5180,15 @@ export const duma_2003_uik_428_region_61_part_010 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Анпилов Виктор Иванович": 139,
-      "Катальников Владимир Дмитриевич": 189,
-      "Козицын Николай Иванович": 78,
-      "Маликов Игорь Николаевич": 33,
-      "Петриенко Вадим Алексеевич": 7,
-      "Удовиченко Юрий Иванович": 21,
-      "Усольцев Дмитрий Александрович": 4,
-      "Чернышов Виталий Петрович": 148,
-      "Против всех": 121
+      "gas:candidate-vibid:361300770742": 139,
+      "gas:candidate-vibid:361300770418": 189,
+      "gas:candidate-vibid:361300770824": 78,
+      "gas:candidate-vibid:361300771082": 33,
+      "gas:candidate-vibid:1001000195130": 7,
+      "gas:candidate-vibid:1001000126646": 21,
+      "gas:candidate-vibid:361300770662": 4,
+      "gas:candidate-vibid:1001000220839": 148,
+      "special:against-all": 121
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=613007007&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=361300771780&region=0&sub_region=0&type=429",
@@ -5238,15 +5238,15 @@ export const duma_2003_uik_428_region_61_part_010 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Анпилов Виктор Иванович": 46,
-      "Катальников Владимир Дмитриевич": 112,
-      "Козицын Николай Иванович": 70,
-      "Маликов Игорь Николаевич": 24,
-      "Петриенко Вадим Алексеевич": 4,
-      "Удовиченко Юрий Иванович": 17,
-      "Усольцев Дмитрий Александрович": 2,
-      "Чернышов Виталий Петрович": 74,
-      "Против всех": 65
+      "gas:candidate-vibid:361300770742": 46,
+      "gas:candidate-vibid:361300770418": 112,
+      "gas:candidate-vibid:361300770824": 70,
+      "gas:candidate-vibid:361300771082": 24,
+      "gas:candidate-vibid:1001000195130": 4,
+      "gas:candidate-vibid:1001000126646": 17,
+      "gas:candidate-vibid:361300770662": 2,
+      "gas:candidate-vibid:1001000220839": 74,
+      "special:against-all": 65
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=613007007&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=361300771780&region=0&sub_region=0&type=429",
@@ -5296,15 +5296,15 @@ export const duma_2003_uik_428_region_61_part_010 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Анпилов Виктор Иванович": 104,
-      "Катальников Владимир Дмитриевич": 193,
-      "Козицын Николай Иванович": 84,
-      "Маликов Игорь Николаевич": 26,
-      "Петриенко Вадим Алексеевич": 3,
-      "Удовиченко Юрий Иванович": 14,
-      "Усольцев Дмитрий Александрович": 6,
-      "Чернышов Виталий Петрович": 62,
-      "Против всех": 134
+      "gas:candidate-vibid:361300770742": 104,
+      "gas:candidate-vibid:361300770418": 193,
+      "gas:candidate-vibid:361300770824": 84,
+      "gas:candidate-vibid:361300771082": 26,
+      "gas:candidate-vibid:1001000195130": 3,
+      "gas:candidate-vibid:1001000126646": 14,
+      "gas:candidate-vibid:361300770662": 6,
+      "gas:candidate-vibid:1001000220839": 62,
+      "special:against-all": 134
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=613007007&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=361300771780&region=0&sub_region=0&type=429",
@@ -5354,15 +5354,15 @@ export const duma_2003_uik_428_region_61_part_010 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Анпилов Виктор Иванович": 60,
-      "Катальников Владимир Дмитриевич": 124,
-      "Козицын Николай Иванович": 35,
-      "Маликов Игорь Николаевич": 18,
-      "Петриенко Вадим Алексеевич": 8,
-      "Удовиченко Юрий Иванович": 18,
-      "Усольцев Дмитрий Александрович": 6,
-      "Чернышов Виталий Петрович": 58,
-      "Против всех": 93
+      "gas:candidate-vibid:361300770742": 60,
+      "gas:candidate-vibid:361300770418": 124,
+      "gas:candidate-vibid:361300770824": 35,
+      "gas:candidate-vibid:361300771082": 18,
+      "gas:candidate-vibid:1001000195130": 8,
+      "gas:candidate-vibid:1001000126646": 18,
+      "gas:candidate-vibid:361300770662": 6,
+      "gas:candidate-vibid:1001000220839": 58,
+      "special:against-all": 93
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=613007007&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=361300771780&region=0&sub_region=0&type=429",
@@ -5412,15 +5412,15 @@ export const duma_2003_uik_428_region_61_part_010 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Анпилов Виктор Иванович": 174,
-      "Катальников Владимир Дмитриевич": 187,
-      "Козицын Николай Иванович": 148,
-      "Маликов Игорь Николаевич": 36,
-      "Петриенко Вадим Алексеевич": 8,
-      "Удовиченко Юрий Иванович": 32,
-      "Усольцев Дмитрий Александрович": 14,
-      "Чернышов Виталий Петрович": 124,
-      "Против всех": 172
+      "gas:candidate-vibid:361300770742": 174,
+      "gas:candidate-vibid:361300770418": 187,
+      "gas:candidate-vibid:361300770824": 148,
+      "gas:candidate-vibid:361300771082": 36,
+      "gas:candidate-vibid:1001000195130": 8,
+      "gas:candidate-vibid:1001000126646": 32,
+      "gas:candidate-vibid:361300770662": 14,
+      "gas:candidate-vibid:1001000220839": 124,
+      "special:against-all": 172
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=613007007&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=361300771780&region=0&sub_region=0&type=429",
@@ -5470,15 +5470,15 @@ export const duma_2003_uik_428_region_61_part_010 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Анпилов Виктор Иванович": 74,
-      "Катальников Владимир Дмитриевич": 181,
-      "Козицын Николай Иванович": 60,
-      "Маликов Игорь Николаевич": 14,
-      "Петриенко Вадим Алексеевич": 2,
-      "Удовиченко Юрий Иванович": 13,
-      "Усольцев Дмитрий Александрович": 7,
-      "Чернышов Виталий Петрович": 89,
-      "Против всех": 108
+      "gas:candidate-vibid:361300770742": 74,
+      "gas:candidate-vibid:361300770418": 181,
+      "gas:candidate-vibid:361300770824": 60,
+      "gas:candidate-vibid:361300771082": 14,
+      "gas:candidate-vibid:1001000195130": 2,
+      "gas:candidate-vibid:1001000126646": 13,
+      "gas:candidate-vibid:361300770662": 7,
+      "gas:candidate-vibid:1001000220839": 89,
+      "special:against-all": 108
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=613007007&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=361300771780&region=0&sub_region=0&type=429",
@@ -5528,15 +5528,15 @@ export const duma_2003_uik_428_region_61_part_010 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Анпилов Виктор Иванович": 113,
-      "Катальников Владимир Дмитриевич": 238,
-      "Козицын Николай Иванович": 105,
-      "Маликов Игорь Николаевич": 64,
-      "Петриенко Вадим Алексеевич": 18,
-      "Удовиченко Юрий Иванович": 46,
-      "Усольцев Дмитрий Александрович": 20,
-      "Чернышов Виталий Петрович": 176,
-      "Против всех": 223
+      "gas:candidate-vibid:361300770742": 113,
+      "gas:candidate-vibid:361300770418": 238,
+      "gas:candidate-vibid:361300770824": 105,
+      "gas:candidate-vibid:361300771082": 64,
+      "gas:candidate-vibid:1001000195130": 18,
+      "gas:candidate-vibid:1001000126646": 46,
+      "gas:candidate-vibid:361300770662": 20,
+      "gas:candidate-vibid:1001000220839": 176,
+      "special:against-all": 223
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=613007007&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=361300771780&region=0&sub_region=0&type=429",
@@ -5586,15 +5586,15 @@ export const duma_2003_uik_428_region_61_part_010 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Анпилов Виктор Иванович": 146,
-      "Катальников Владимир Дмитриевич": 193,
-      "Козицын Николай Иванович": 82,
-      "Маликов Игорь Николаевич": 67,
-      "Петриенко Вадим Алексеевич": 12,
-      "Удовиченко Юрий Иванович": 30,
-      "Усольцев Дмитрий Александрович": 13,
-      "Чернышов Виталий Петрович": 146,
-      "Против всех": 234
+      "gas:candidate-vibid:361300770742": 146,
+      "gas:candidate-vibid:361300770418": 193,
+      "gas:candidate-vibid:361300770824": 82,
+      "gas:candidate-vibid:361300771082": 67,
+      "gas:candidate-vibid:1001000195130": 12,
+      "gas:candidate-vibid:1001000126646": 30,
+      "gas:candidate-vibid:361300770662": 13,
+      "gas:candidate-vibid:1001000220839": 146,
+      "special:against-all": 234
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=613007007&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=361300771780&region=0&sub_region=0&type=429",
@@ -5644,15 +5644,15 @@ export const duma_2003_uik_428_region_61_part_010 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Анпилов Виктор Иванович": 178,
-      "Катальников Владимир Дмитриевич": 321,
-      "Козицын Николай Иванович": 109,
-      "Маликов Игорь Николаевич": 90,
-      "Петриенко Вадим Алексеевич": 21,
-      "Удовиченко Юрий Иванович": 26,
-      "Усольцев Дмитрий Александрович": 11,
-      "Чернышов Виталий Петрович": 146,
-      "Против всех": 346
+      "gas:candidate-vibid:361300770742": 178,
+      "gas:candidate-vibid:361300770418": 321,
+      "gas:candidate-vibid:361300770824": 109,
+      "gas:candidate-vibid:361300771082": 90,
+      "gas:candidate-vibid:1001000195130": 21,
+      "gas:candidate-vibid:1001000126646": 26,
+      "gas:candidate-vibid:361300770662": 11,
+      "gas:candidate-vibid:1001000220839": 146,
+      "special:against-all": 346
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=613007007&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=361300771780&region=0&sub_region=0&type=429",
@@ -5702,15 +5702,15 @@ export const duma_2003_uik_428_region_61_part_010 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Анпилов Виктор Иванович": 184,
-      "Катальников Владимир Дмитриевич": 230,
-      "Козицын Николай Иванович": 88,
-      "Маликов Игорь Николаевич": 60,
-      "Петриенко Вадим Алексеевич": 10,
-      "Удовиченко Юрий Иванович": 29,
-      "Усольцев Дмитрий Александрович": 7,
-      "Чернышов Виталий Петрович": 161,
-      "Против всех": 256
+      "gas:candidate-vibid:361300770742": 184,
+      "gas:candidate-vibid:361300770418": 230,
+      "gas:candidate-vibid:361300770824": 88,
+      "gas:candidate-vibid:361300771082": 60,
+      "gas:candidate-vibid:1001000195130": 10,
+      "gas:candidate-vibid:1001000126646": 29,
+      "gas:candidate-vibid:361300770662": 7,
+      "gas:candidate-vibid:1001000220839": 161,
+      "special:against-all": 256
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=613007007&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=361300771780&region=0&sub_region=0&type=429",
@@ -5760,15 +5760,15 @@ export const duma_2003_uik_428_region_61_part_010 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Анпилов Виктор Иванович": 126,
-      "Катальников Владимир Дмитриевич": 175,
-      "Козицын Николай Иванович": 73,
-      "Маликов Игорь Николаевич": 42,
-      "Петриенко Вадим Алексеевич": 6,
-      "Удовиченко Юрий Иванович": 30,
-      "Усольцев Дмитрий Александрович": 12,
-      "Чернышов Виталий Петрович": 219,
-      "Против всех": 182
+      "gas:candidate-vibid:361300770742": 126,
+      "gas:candidate-vibid:361300770418": 175,
+      "gas:candidate-vibid:361300770824": 73,
+      "gas:candidate-vibid:361300771082": 42,
+      "gas:candidate-vibid:1001000195130": 6,
+      "gas:candidate-vibid:1001000126646": 30,
+      "gas:candidate-vibid:361300770662": 12,
+      "gas:candidate-vibid:1001000220839": 219,
+      "special:against-all": 182
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=613007007&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=361300771780&region=0&sub_region=0&type=429",
@@ -5818,15 +5818,15 @@ export const duma_2003_uik_428_region_61_part_010 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Анпилов Виктор Иванович": 199,
-      "Катальников Владимир Дмитриевич": 270,
-      "Козицын Николай Иванович": 109,
-      "Маликов Игорь Николаевич": 107,
-      "Петриенко Вадим Алексеевич": 17,
-      "Удовиченко Юрий Иванович": 29,
-      "Усольцев Дмитрий Александрович": 13,
-      "Чернышов Виталий Петрович": 196,
-      "Против всех": 350
+      "gas:candidate-vibid:361300770742": 199,
+      "gas:candidate-vibid:361300770418": 270,
+      "gas:candidate-vibid:361300770824": 109,
+      "gas:candidate-vibid:361300771082": 107,
+      "gas:candidate-vibid:1001000195130": 17,
+      "gas:candidate-vibid:1001000126646": 29,
+      "gas:candidate-vibid:361300770662": 13,
+      "gas:candidate-vibid:1001000220839": 196,
+      "special:against-all": 350
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=613007007&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=361300771780&region=0&sub_region=0&type=429",
@@ -5876,15 +5876,15 @@ export const duma_2003_uik_428_region_61_part_010 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Анпилов Виктор Иванович": 8,
-      "Катальников Владимир Дмитриевич": 11,
-      "Козицын Николай Иванович": 6,
-      "Маликов Игорь Николаевич": 1,
-      "Петриенко Вадим Алексеевич": 1,
-      "Удовиченко Юрий Иванович": 1,
-      "Усольцев Дмитрий Александрович": 0,
-      "Чернышов Виталий Петрович": 4,
-      "Против всех": 16
+      "gas:candidate-vibid:361300770742": 8,
+      "gas:candidate-vibid:361300770418": 11,
+      "gas:candidate-vibid:361300770824": 6,
+      "gas:candidate-vibid:361300771082": 1,
+      "gas:candidate-vibid:1001000195130": 1,
+      "gas:candidate-vibid:1001000126646": 1,
+      "gas:candidate-vibid:361300770662": 0,
+      "gas:candidate-vibid:1001000220839": 4,
+      "special:against-all": 16
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=613007007&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=361300771780&region=0&sub_region=0&type=429",
@@ -5934,15 +5934,15 @@ export const duma_2003_uik_428_region_61_part_010 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Анпилов Виктор Иванович": 9,
-      "Катальников Владимир Дмитриевич": 126,
-      "Козицын Николай Иванович": 3,
-      "Маликов Игорь Николаевич": 0,
-      "Петриенко Вадим Алексеевич": 4,
-      "Удовиченко Юрий Иванович": 3,
-      "Усольцев Дмитрий Александрович": 2,
-      "Чернышов Виталий Петрович": 1,
-      "Против всех": 8
+      "gas:candidate-vibid:361300770742": 9,
+      "gas:candidate-vibid:361300770418": 126,
+      "gas:candidate-vibid:361300770824": 3,
+      "gas:candidate-vibid:361300771082": 0,
+      "gas:candidate-vibid:1001000195130": 4,
+      "gas:candidate-vibid:1001000126646": 3,
+      "gas:candidate-vibid:361300770662": 2,
+      "gas:candidate-vibid:1001000220839": 1,
+      "special:against-all": 8
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=613007007&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=361300771780&region=0&sub_region=0&type=429",
@@ -5992,15 +5992,15 @@ export const duma_2003_uik_428_region_61_part_010 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Анпилов Виктор Иванович": 91,
-      "Катальников Владимир Дмитриевич": 469,
-      "Козицын Николай Иванович": 85,
-      "Маликов Игорь Николаевич": 32,
-      "Петриенко Вадим Алексеевич": 12,
-      "Удовиченко Юрий Иванович": 39,
-      "Усольцев Дмитрий Александрович": 15,
-      "Чернышов Виталий Петрович": 64,
-      "Против всех": 122
+      "gas:candidate-vibid:361300770742": 91,
+      "gas:candidate-vibid:361300770418": 469,
+      "gas:candidate-vibid:361300770824": 85,
+      "gas:candidate-vibid:361300771082": 32,
+      "gas:candidate-vibid:1001000195130": 12,
+      "gas:candidate-vibid:1001000126646": 39,
+      "gas:candidate-vibid:361300770662": 15,
+      "gas:candidate-vibid:1001000220839": 64,
+      "special:against-all": 122
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=613007008&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=361300771784&region=0&sub_region=0&type=429",
@@ -6050,15 +6050,15 @@ export const duma_2003_uik_428_region_61_part_010 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Анпилов Виктор Иванович": 181,
-      "Катальников Владимир Дмитриевич": 673,
-      "Козицын Николай Иванович": 131,
-      "Маликов Игорь Николаевич": 34,
-      "Петриенко Вадим Алексеевич": 20,
-      "Удовиченко Юрий Иванович": 45,
-      "Усольцев Дмитрий Александрович": 12,
-      "Чернышов Виталий Петрович": 80,
-      "Против всех": 209
+      "gas:candidate-vibid:361300770742": 181,
+      "gas:candidate-vibid:361300770418": 673,
+      "gas:candidate-vibid:361300770824": 131,
+      "gas:candidate-vibid:361300771082": 34,
+      "gas:candidate-vibid:1001000195130": 20,
+      "gas:candidate-vibid:1001000126646": 45,
+      "gas:candidate-vibid:361300770662": 12,
+      "gas:candidate-vibid:1001000220839": 80,
+      "special:against-all": 209
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=613007008&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=361300771784&region=0&sub_region=0&type=429",
@@ -6108,15 +6108,15 @@ export const duma_2003_uik_428_region_61_part_010 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Анпилов Виктор Иванович": 217,
-      "Катальников Владимир Дмитриевич": 446,
-      "Козицын Николай Иванович": 91,
-      "Маликов Игорь Николаевич": 41,
-      "Петриенко Вадим Алексеевич": 18,
-      "Удовиченко Юрий Иванович": 36,
-      "Усольцев Дмитрий Александрович": 19,
-      "Чернышов Виталий Петрович": 81,
-      "Против всех": 135
+      "gas:candidate-vibid:361300770742": 217,
+      "gas:candidate-vibid:361300770418": 446,
+      "gas:candidate-vibid:361300770824": 91,
+      "gas:candidate-vibid:361300771082": 41,
+      "gas:candidate-vibid:1001000195130": 18,
+      "gas:candidate-vibid:1001000126646": 36,
+      "gas:candidate-vibid:361300770662": 19,
+      "gas:candidate-vibid:1001000220839": 81,
+      "special:against-all": 135
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=613007008&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=361300771784&region=0&sub_region=0&type=429",
@@ -6166,15 +6166,15 @@ export const duma_2003_uik_428_region_61_part_010 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Анпилов Виктор Иванович": 100,
-      "Катальников Владимир Дмитриевич": 294,
-      "Козицын Николай Иванович": 57,
-      "Маликов Игорь Николаевич": 27,
-      "Петриенко Вадим Алексеевич": 21,
-      "Удовиченко Юрий Иванович": 23,
-      "Усольцев Дмитрий Александрович": 10,
-      "Чернышов Виталий Петрович": 33,
-      "Против всех": 73
+      "gas:candidate-vibid:361300770742": 100,
+      "gas:candidate-vibid:361300770418": 294,
+      "gas:candidate-vibid:361300770824": 57,
+      "gas:candidate-vibid:361300771082": 27,
+      "gas:candidate-vibid:1001000195130": 21,
+      "gas:candidate-vibid:1001000126646": 23,
+      "gas:candidate-vibid:361300770662": 10,
+      "gas:candidate-vibid:1001000220839": 33,
+      "special:against-all": 73
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=613007008&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=361300771784&region=0&sub_region=0&type=429",
@@ -6224,15 +6224,15 @@ export const duma_2003_uik_428_region_61_part_010 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Анпилов Виктор Иванович": 110,
-      "Катальников Владимир Дмитриевич": 381,
-      "Козицын Николай Иванович": 81,
-      "Маликов Игорь Николаевич": 28,
-      "Петриенко Вадим Алексеевич": 3,
-      "Удовиченко Юрий Иванович": 20,
-      "Усольцев Дмитрий Александрович": 8,
-      "Чернышов Виталий Петрович": 47,
-      "Против всех": 108
+      "gas:candidate-vibid:361300770742": 110,
+      "gas:candidate-vibid:361300770418": 381,
+      "gas:candidate-vibid:361300770824": 81,
+      "gas:candidate-vibid:361300771082": 28,
+      "gas:candidate-vibid:1001000195130": 3,
+      "gas:candidate-vibid:1001000126646": 20,
+      "gas:candidate-vibid:361300770662": 8,
+      "gas:candidate-vibid:1001000220839": 47,
+      "special:against-all": 108
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=613007008&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=361300771784&region=0&sub_region=0&type=429",
@@ -6282,15 +6282,15 @@ export const duma_2003_uik_428_region_61_part_010 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Анпилов Виктор Иванович": 83,
-      "Катальников Владимир Дмитриевич": 252,
-      "Козицын Николай Иванович": 48,
-      "Маликов Игорь Николаевич": 33,
-      "Петриенко Вадим Алексеевич": 1,
-      "Удовиченко Юрий Иванович": 18,
-      "Усольцев Дмитрий Александрович": 10,
-      "Чернышов Виталий Петрович": 53,
-      "Против всех": 64
+      "gas:candidate-vibid:361300770742": 83,
+      "gas:candidate-vibid:361300770418": 252,
+      "gas:candidate-vibid:361300770824": 48,
+      "gas:candidate-vibid:361300771082": 33,
+      "gas:candidate-vibid:1001000195130": 1,
+      "gas:candidate-vibid:1001000126646": 18,
+      "gas:candidate-vibid:361300770662": 10,
+      "gas:candidate-vibid:1001000220839": 53,
+      "special:against-all": 64
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=613007008&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=361300771784&region=0&sub_region=0&type=429",
@@ -6340,15 +6340,15 @@ export const duma_2003_uik_428_region_61_part_010 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Анпилов Виктор Иванович": 70,
-      "Катальников Владимир Дмитриевич": 251,
-      "Козицын Николай Иванович": 68,
-      "Маликов Игорь Николаевич": 22,
-      "Петриенко Вадим Алексеевич": 4,
-      "Удовиченко Юрий Иванович": 26,
-      "Усольцев Дмитрий Александрович": 8,
-      "Чернышов Виталий Петрович": 46,
-      "Против всех": 81
+      "gas:candidate-vibid:361300770742": 70,
+      "gas:candidate-vibid:361300770418": 251,
+      "gas:candidate-vibid:361300770824": 68,
+      "gas:candidate-vibid:361300771082": 22,
+      "gas:candidate-vibid:1001000195130": 4,
+      "gas:candidate-vibid:1001000126646": 26,
+      "gas:candidate-vibid:361300770662": 8,
+      "gas:candidate-vibid:1001000220839": 46,
+      "special:against-all": 81
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=613007008&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=361300771784&region=0&sub_region=0&type=429",
@@ -6398,15 +6398,15 @@ export const duma_2003_uik_428_region_61_part_010 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Анпилов Виктор Иванович": 52,
-      "Катальников Владимир Дмитриевич": 359,
-      "Козицын Николай Иванович": 76,
-      "Маликов Игорь Николаевич": 22,
-      "Петриенко Вадим Алексеевич": 8,
-      "Удовиченко Юрий Иванович": 34,
-      "Усольцев Дмитрий Александрович": 7,
-      "Чернышов Виталий Петрович": 50,
-      "Против всех": 119
+      "gas:candidate-vibid:361300770742": 52,
+      "gas:candidate-vibid:361300770418": 359,
+      "gas:candidate-vibid:361300770824": 76,
+      "gas:candidate-vibid:361300771082": 22,
+      "gas:candidate-vibid:1001000195130": 8,
+      "gas:candidate-vibid:1001000126646": 34,
+      "gas:candidate-vibid:361300770662": 7,
+      "gas:candidate-vibid:1001000220839": 50,
+      "special:against-all": 119
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=613007008&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=361300771784&region=0&sub_region=0&type=429",
@@ -6456,15 +6456,15 @@ export const duma_2003_uik_428_region_61_part_010 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Анпилов Виктор Иванович": 64,
-      "Катальников Владимир Дмитриевич": 393,
-      "Козицын Николай Иванович": 65,
-      "Маликов Игорь Николаевич": 25,
-      "Петриенко Вадим Алексеевич": 11,
-      "Удовиченко Юрий Иванович": 42,
-      "Усольцев Дмитрий Александрович": 7,
-      "Чернышов Виталий Петрович": 62,
-      "Против всех": 110
+      "gas:candidate-vibid:361300770742": 64,
+      "gas:candidate-vibid:361300770418": 393,
+      "gas:candidate-vibid:361300770824": 65,
+      "gas:candidate-vibid:361300771082": 25,
+      "gas:candidate-vibid:1001000195130": 11,
+      "gas:candidate-vibid:1001000126646": 42,
+      "gas:candidate-vibid:361300770662": 7,
+      "gas:candidate-vibid:1001000220839": 62,
+      "special:against-all": 110
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=613007008&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=361300771784&region=0&sub_region=0&type=429",
@@ -6514,15 +6514,15 @@ export const duma_2003_uik_428_region_61_part_010 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Анпилов Виктор Иванович": 133,
-      "Катальников Владимир Дмитриевич": 468,
-      "Козицын Николай Иванович": 85,
-      "Маликов Игорь Николаевич": 24,
-      "Петриенко Вадим Алексеевич": 12,
-      "Удовиченко Юрий Иванович": 40,
-      "Усольцев Дмитрий Александрович": 15,
-      "Чернышов Виталий Петрович": 63,
-      "Против всех": 158
+      "gas:candidate-vibid:361300770742": 133,
+      "gas:candidate-vibid:361300770418": 468,
+      "gas:candidate-vibid:361300770824": 85,
+      "gas:candidate-vibid:361300771082": 24,
+      "gas:candidate-vibid:1001000195130": 12,
+      "gas:candidate-vibid:1001000126646": 40,
+      "gas:candidate-vibid:361300770662": 15,
+      "gas:candidate-vibid:1001000220839": 63,
+      "special:against-all": 158
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=613007008&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=361300771784&region=0&sub_region=0&type=429",
@@ -6572,15 +6572,15 @@ export const duma_2003_uik_428_region_61_part_010 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Анпилов Виктор Иванович": 149,
-      "Катальников Владимир Дмитриевич": 532,
-      "Козицын Николай Иванович": 88,
-      "Маликов Игорь Николаевич": 21,
-      "Петриенко Вадим Алексеевич": 12,
-      "Удовиченко Юрий Иванович": 32,
-      "Усольцев Дмитрий Александрович": 11,
-      "Чернышов Виталий Петрович": 72,
-      "Против всех": 159
+      "gas:candidate-vibid:361300770742": 149,
+      "gas:candidate-vibid:361300770418": 532,
+      "gas:candidate-vibid:361300770824": 88,
+      "gas:candidate-vibid:361300771082": 21,
+      "gas:candidate-vibid:1001000195130": 12,
+      "gas:candidate-vibid:1001000126646": 32,
+      "gas:candidate-vibid:361300770662": 11,
+      "gas:candidate-vibid:1001000220839": 72,
+      "special:against-all": 159
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=613007008&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=361300771784&region=0&sub_region=0&type=429",
@@ -6630,15 +6630,15 @@ export const duma_2003_uik_428_region_61_part_010 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Анпилов Виктор Иванович": 98,
-      "Катальников Владимир Дмитриевич": 340,
-      "Козицын Николай Иванович": 96,
-      "Маликов Игорь Николаевич": 11,
-      "Петриенко Вадим Алексеевич": 5,
-      "Удовиченко Юрий Иванович": 34,
-      "Усольцев Дмитрий Александрович": 9,
-      "Чернышов Виталий Петрович": 49,
-      "Против всех": 84
+      "gas:candidate-vibid:361300770742": 98,
+      "gas:candidate-vibid:361300770418": 340,
+      "gas:candidate-vibid:361300770824": 96,
+      "gas:candidate-vibid:361300771082": 11,
+      "gas:candidate-vibid:1001000195130": 5,
+      "gas:candidate-vibid:1001000126646": 34,
+      "gas:candidate-vibid:361300770662": 9,
+      "gas:candidate-vibid:1001000220839": 49,
+      "special:against-all": 84
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=613007008&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=361300771784&region=0&sub_region=0&type=429",
@@ -6688,15 +6688,15 @@ export const duma_2003_uik_428_region_61_part_010 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Анпилов Виктор Иванович": 35,
-      "Катальников Владимир Дмитриевич": 208,
-      "Козицын Николай Иванович": 87,
-      "Маликов Игорь Николаевич": 9,
-      "Петриенко Вадим Алексеевич": 3,
-      "Удовиченко Юрий Иванович": 17,
-      "Усольцев Дмитрий Александрович": 5,
-      "Чернышов Виталий Петрович": 17,
-      "Против всех": 36
+      "gas:candidate-vibid:361300770742": 35,
+      "gas:candidate-vibid:361300770418": 208,
+      "gas:candidate-vibid:361300770824": 87,
+      "gas:candidate-vibid:361300771082": 9,
+      "gas:candidate-vibid:1001000195130": 3,
+      "gas:candidate-vibid:1001000126646": 17,
+      "gas:candidate-vibid:361300770662": 5,
+      "gas:candidate-vibid:1001000220839": 17,
+      "special:against-all": 36
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=613007008&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=361300771784&region=0&sub_region=0&type=429",
@@ -6746,15 +6746,15 @@ export const duma_2003_uik_428_region_61_part_010 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Анпилов Виктор Иванович": 81,
-      "Катальников Владимир Дмитриевич": 206,
-      "Козицын Николай Иванович": 190,
-      "Маликов Игорь Николаевич": 18,
-      "Петриенко Вадим Алексеевич": 5,
-      "Удовиченко Юрий Иванович": 22,
-      "Усольцев Дмитрий Александрович": 11,
-      "Чернышов Виталий Петрович": 31,
-      "Против всех": 87
+      "gas:candidate-vibid:361300770742": 81,
+      "gas:candidate-vibid:361300770418": 206,
+      "gas:candidate-vibid:361300770824": 190,
+      "gas:candidate-vibid:361300771082": 18,
+      "gas:candidate-vibid:1001000195130": 5,
+      "gas:candidate-vibid:1001000126646": 22,
+      "gas:candidate-vibid:361300770662": 11,
+      "gas:candidate-vibid:1001000220839": 31,
+      "special:against-all": 87
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=613007008&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=361300771784&region=0&sub_region=0&type=429",
@@ -6804,15 +6804,15 @@ export const duma_2003_uik_428_region_61_part_010 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Анпилов Виктор Иванович": 128,
-      "Катальников Владимир Дмитриевич": 237,
-      "Козицын Николай Иванович": 107,
-      "Маликов Игорь Николаевич": 11,
-      "Петриенко Вадим Алексеевич": 14,
-      "Удовиченко Юрий Иванович": 30,
-      "Усольцев Дмитрий Александрович": 13,
-      "Чернышов Виталий Петрович": 39,
-      "Против всех": 84
+      "gas:candidate-vibid:361300770742": 128,
+      "gas:candidate-vibid:361300770418": 237,
+      "gas:candidate-vibid:361300770824": 107,
+      "gas:candidate-vibid:361300771082": 11,
+      "gas:candidate-vibid:1001000195130": 14,
+      "gas:candidate-vibid:1001000126646": 30,
+      "gas:candidate-vibid:361300770662": 13,
+      "gas:candidate-vibid:1001000220839": 39,
+      "special:against-all": 84
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=613007008&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=361300771784&region=0&sub_region=0&type=429",
@@ -6862,15 +6862,15 @@ export const duma_2003_uik_428_region_61_part_010 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Анпилов Виктор Иванович": 148,
-      "Катальников Владимир Дмитриевич": 257,
-      "Козицын Николай Иванович": 134,
-      "Маликов Игорь Николаевич": 23,
-      "Петриенко Вадим Алексеевич": 11,
-      "Удовиченко Юрий Иванович": 46,
-      "Усольцев Дмитрий Александрович": 8,
-      "Чернышов Виталий Петрович": 78,
-      "Против всех": 130
+      "gas:candidate-vibid:361300770742": 148,
+      "gas:candidate-vibid:361300770418": 257,
+      "gas:candidate-vibid:361300770824": 134,
+      "gas:candidate-vibid:361300771082": 23,
+      "gas:candidate-vibid:1001000195130": 11,
+      "gas:candidate-vibid:1001000126646": 46,
+      "gas:candidate-vibid:361300770662": 8,
+      "gas:candidate-vibid:1001000220839": 78,
+      "special:against-all": 130
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=613007008&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=361300771784&region=0&sub_region=0&type=429",
@@ -6920,15 +6920,15 @@ export const duma_2003_uik_428_region_61_part_010 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Анпилов Виктор Иванович": 152,
-      "Катальников Владимир Дмитриевич": 382,
-      "Козицын Николай Иванович": 124,
-      "Маликов Игорь Николаевич": 28,
-      "Петриенко Вадим Алексеевич": 11,
-      "Удовиченко Юрий Иванович": 57,
-      "Усольцев Дмитрий Александрович": 21,
-      "Чернышов Виталий Петрович": 82,
-      "Против всех": 212
+      "gas:candidate-vibid:361300770742": 152,
+      "gas:candidate-vibid:361300770418": 382,
+      "gas:candidate-vibid:361300770824": 124,
+      "gas:candidate-vibid:361300771082": 28,
+      "gas:candidate-vibid:1001000195130": 11,
+      "gas:candidate-vibid:1001000126646": 57,
+      "gas:candidate-vibid:361300770662": 21,
+      "gas:candidate-vibid:1001000220839": 82,
+      "special:against-all": 212
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=613007008&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=361300771784&region=0&sub_region=0&type=429",
@@ -6978,15 +6978,15 @@ export const duma_2003_uik_428_region_61_part_010 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Анпилов Виктор Иванович": 137,
-      "Катальников Владимир Дмитриевич": 346,
-      "Козицын Николай Иванович": 148,
-      "Маликов Игорь Николаевич": 38,
-      "Петриенко Вадим Алексеевич": 27,
-      "Удовиченко Юрий Иванович": 56,
-      "Усольцев Дмитрий Александрович": 20,
-      "Чернышов Виталий Петрович": 65,
-      "Против всех": 183
+      "gas:candidate-vibid:361300770742": 137,
+      "gas:candidate-vibid:361300770418": 346,
+      "gas:candidate-vibid:361300770824": 148,
+      "gas:candidate-vibid:361300771082": 38,
+      "gas:candidate-vibid:1001000195130": 27,
+      "gas:candidate-vibid:1001000126646": 56,
+      "gas:candidate-vibid:361300770662": 20,
+      "gas:candidate-vibid:1001000220839": 65,
+      "special:against-all": 183
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=613007008&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=361300771784&region=0&sub_region=0&type=429",
@@ -7036,15 +7036,15 @@ export const duma_2003_uik_428_region_61_part_010 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Анпилов Виктор Иванович": 68,
-      "Катальников Владимир Дмитриевич": 225,
-      "Козицын Николай Иванович": 117,
-      "Маликов Игорь Николаевич": 36,
-      "Петриенко Вадим Алексеевич": 7,
-      "Удовиченко Юрий Иванович": 31,
-      "Усольцев Дмитрий Александрович": 12,
-      "Чернышов Виталий Петрович": 49,
-      "Против всех": 92
+      "gas:candidate-vibid:361300770742": 68,
+      "gas:candidate-vibid:361300770418": 225,
+      "gas:candidate-vibid:361300770824": 117,
+      "gas:candidate-vibid:361300771082": 36,
+      "gas:candidate-vibid:1001000195130": 7,
+      "gas:candidate-vibid:1001000126646": 31,
+      "gas:candidate-vibid:361300770662": 12,
+      "gas:candidate-vibid:1001000220839": 49,
+      "special:against-all": 92
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=613007008&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=361300771784&region=0&sub_region=0&type=429",
@@ -7094,15 +7094,15 @@ export const duma_2003_uik_428_region_61_part_010 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Анпилов Виктор Иванович": 64,
-      "Катальников Владимир Дмитриевич": 202,
-      "Козицын Николай Иванович": 83,
-      "Маликов Игорь Николаевич": 17,
-      "Петриенко Вадим Алексеевич": 11,
-      "Удовиченко Юрий Иванович": 30,
-      "Усольцев Дмитрий Александрович": 10,
-      "Чернышов Виталий Петрович": 36,
-      "Против всех": 69
+      "gas:candidate-vibid:361300770742": 64,
+      "gas:candidate-vibid:361300770418": 202,
+      "gas:candidate-vibid:361300770824": 83,
+      "gas:candidate-vibid:361300771082": 17,
+      "gas:candidate-vibid:1001000195130": 11,
+      "gas:candidate-vibid:1001000126646": 30,
+      "gas:candidate-vibid:361300770662": 10,
+      "gas:candidate-vibid:1001000220839": 36,
+      "special:against-all": 69
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=613007008&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=361300771784&region=0&sub_region=0&type=429",
@@ -7152,15 +7152,15 @@ export const duma_2003_uik_428_region_61_part_010 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Анпилов Виктор Иванович": 59,
-      "Катальников Владимир Дмитриевич": 228,
-      "Козицын Николай Иванович": 99,
-      "Маликов Игорь Николаевич": 17,
-      "Петриенко Вадим Алексеевич": 17,
-      "Удовиченко Юрий Иванович": 22,
-      "Усольцев Дмитрий Александрович": 6,
-      "Чернышов Виталий Петрович": 29,
-      "Против всех": 103
+      "gas:candidate-vibid:361300770742": 59,
+      "gas:candidate-vibid:361300770418": 228,
+      "gas:candidate-vibid:361300770824": 99,
+      "gas:candidate-vibid:361300771082": 17,
+      "gas:candidate-vibid:1001000195130": 17,
+      "gas:candidate-vibid:1001000126646": 22,
+      "gas:candidate-vibid:361300770662": 6,
+      "gas:candidate-vibid:1001000220839": 29,
+      "special:against-all": 103
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=613007008&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=361300771784&region=0&sub_region=0&type=429",
@@ -7210,15 +7210,15 @@ export const duma_2003_uik_428_region_61_part_010 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Анпилов Виктор Иванович": 55,
-      "Катальников Владимир Дмитриевич": 240,
-      "Козицын Николай Иванович": 59,
-      "Маликов Игорь Николаевич": 18,
-      "Петриенко Вадим Алексеевич": 8,
-      "Удовиченко Юрий Иванович": 25,
-      "Усольцев Дмитрий Александрович": 5,
-      "Чернышов Виталий Петрович": 33,
-      "Против всех": 64
+      "gas:candidate-vibid:361300770742": 55,
+      "gas:candidate-vibid:361300770418": 240,
+      "gas:candidate-vibid:361300770824": 59,
+      "gas:candidate-vibid:361300771082": 18,
+      "gas:candidate-vibid:1001000195130": 8,
+      "gas:candidate-vibid:1001000126646": 25,
+      "gas:candidate-vibid:361300770662": 5,
+      "gas:candidate-vibid:1001000220839": 33,
+      "special:against-all": 64
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=613007008&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=361300771784&region=0&sub_region=0&type=429",
@@ -7268,15 +7268,15 @@ export const duma_2003_uik_428_region_61_part_010 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Анпилов Виктор Иванович": 30,
-      "Катальников Владимир Дмитриевич": 184,
-      "Козицын Николай Иванович": 108,
-      "Маликов Игорь Николаевич": 22,
-      "Петриенко Вадим Алексеевич": 9,
-      "Удовиченко Юрий Иванович": 18,
-      "Усольцев Дмитрий Александрович": 5,
-      "Чернышов Виталий Петрович": 38,
-      "Против всех": 75
+      "gas:candidate-vibid:361300770742": 30,
+      "gas:candidate-vibid:361300770418": 184,
+      "gas:candidate-vibid:361300770824": 108,
+      "gas:candidate-vibid:361300771082": 22,
+      "gas:candidate-vibid:1001000195130": 9,
+      "gas:candidate-vibid:1001000126646": 18,
+      "gas:candidate-vibid:361300770662": 5,
+      "gas:candidate-vibid:1001000220839": 38,
+      "special:against-all": 75
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=613007008&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=361300771784&region=0&sub_region=0&type=429",
@@ -7326,15 +7326,15 @@ export const duma_2003_uik_428_region_61_part_010 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Анпилов Виктор Иванович": 122,
-      "Катальников Владимир Дмитриевич": 296,
-      "Козицын Николай Иванович": 76,
-      "Маликов Игорь Николаевич": 15,
-      "Петриенко Вадим Алексеевич": 4,
-      "Удовиченко Юрий Иванович": 21,
-      "Усольцев Дмитрий Александрович": 7,
-      "Чернышов Виталий Петрович": 40,
-      "Против всех": 80
+      "gas:candidate-vibid:361300770742": 122,
+      "gas:candidate-vibid:361300770418": 296,
+      "gas:candidate-vibid:361300770824": 76,
+      "gas:candidate-vibid:361300771082": 15,
+      "gas:candidate-vibid:1001000195130": 4,
+      "gas:candidate-vibid:1001000126646": 21,
+      "gas:candidate-vibid:361300770662": 7,
+      "gas:candidate-vibid:1001000220839": 40,
+      "special:against-all": 80
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=613007008&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=361300771784&region=0&sub_region=0&type=429",
@@ -7384,15 +7384,15 @@ export const duma_2003_uik_428_region_61_part_010 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Анпилов Виктор Иванович": 57,
-      "Катальников Владимир Дмитриевич": 249,
-      "Козицын Николай Иванович": 52,
-      "Маликов Игорь Николаевич": 10,
-      "Петриенко Вадим Алексеевич": 7,
-      "Удовиченко Юрий Иванович": 19,
-      "Усольцев Дмитрий Александрович": 4,
-      "Чернышов Виталий Петрович": 25,
-      "Против всех": 57
+      "gas:candidate-vibid:361300770742": 57,
+      "gas:candidate-vibid:361300770418": 249,
+      "gas:candidate-vibid:361300770824": 52,
+      "gas:candidate-vibid:361300771082": 10,
+      "gas:candidate-vibid:1001000195130": 7,
+      "gas:candidate-vibid:1001000126646": 19,
+      "gas:candidate-vibid:361300770662": 4,
+      "gas:candidate-vibid:1001000220839": 25,
+      "special:against-all": 57
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=613007008&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=361300771784&region=0&sub_region=0&type=429",
@@ -7442,15 +7442,15 @@ export const duma_2003_uik_428_region_61_part_010 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Анпилов Виктор Иванович": 49,
-      "Катальников Владимир Дмитриевич": 255,
-      "Козицын Николай Иванович": 101,
-      "Маликов Игорь Николаевич": 17,
-      "Петриенко Вадим Алексеевич": 6,
-      "Удовиченко Юрий Иванович": 15,
-      "Усольцев Дмитрий Александрович": 4,
-      "Чернышов Виталий Петрович": 28,
-      "Против всех": 64
+      "gas:candidate-vibid:361300770742": 49,
+      "gas:candidate-vibid:361300770418": 255,
+      "gas:candidate-vibid:361300770824": 101,
+      "gas:candidate-vibid:361300771082": 17,
+      "gas:candidate-vibid:1001000195130": 6,
+      "gas:candidate-vibid:1001000126646": 15,
+      "gas:candidate-vibid:361300770662": 4,
+      "gas:candidate-vibid:1001000220839": 28,
+      "special:against-all": 64
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=613007008&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=361300771784&region=0&sub_region=0&type=429",
@@ -7500,15 +7500,15 @@ export const duma_2003_uik_428_region_61_part_010 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Анпилов Виктор Иванович": 42,
-      "Катальников Владимир Дмитриевич": 282,
-      "Козицын Николай Иванович": 59,
-      "Маликов Игорь Николаевич": 6,
-      "Петриенко Вадим Алексеевич": 2,
-      "Удовиченко Юрий Иванович": 30,
-      "Усольцев Дмитрий Александрович": 7,
-      "Чернышов Виталий Петрович": 42,
-      "Против всех": 63
+      "gas:candidate-vibid:361300770742": 42,
+      "gas:candidate-vibid:361300770418": 282,
+      "gas:candidate-vibid:361300770824": 59,
+      "gas:candidate-vibid:361300771082": 6,
+      "gas:candidate-vibid:1001000195130": 2,
+      "gas:candidate-vibid:1001000126646": 30,
+      "gas:candidate-vibid:361300770662": 7,
+      "gas:candidate-vibid:1001000220839": 42,
+      "special:against-all": 63
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=613007008&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=361300771784&region=0&sub_region=0&type=429",
@@ -7558,15 +7558,15 @@ export const duma_2003_uik_428_region_61_part_010 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Анпилов Виктор Иванович": 50,
-      "Катальников Владимир Дмитриевич": 184,
-      "Козицын Николай Иванович": 51,
-      "Маликов Игорь Николаевич": 9,
-      "Петриенко Вадим Алексеевич": 2,
-      "Удовиченко Юрий Иванович": 10,
-      "Усольцев Дмитрий Александрович": 3,
-      "Чернышов Виталий Петрович": 19,
-      "Против всех": 54
+      "gas:candidate-vibid:361300770742": 50,
+      "gas:candidate-vibid:361300770418": 184,
+      "gas:candidate-vibid:361300770824": 51,
+      "gas:candidate-vibid:361300771082": 9,
+      "gas:candidate-vibid:1001000195130": 2,
+      "gas:candidate-vibid:1001000126646": 10,
+      "gas:candidate-vibid:361300770662": 3,
+      "gas:candidate-vibid:1001000220839": 19,
+      "special:against-all": 54
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=613007008&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=361300771784&region=0&sub_region=0&type=429",
@@ -7616,15 +7616,15 @@ export const duma_2003_uik_428_region_61_part_010 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Анпилов Виктор Иванович": 26,
-      "Катальников Владимир Дмитриевич": 239,
-      "Козицын Николай Иванович": 51,
-      "Маликов Игорь Николаевич": 18,
-      "Петриенко Вадим Алексеевич": 3,
-      "Удовиченко Юрий Иванович": 32,
-      "Усольцев Дмитрий Александрович": 10,
-      "Чернышов Виталий Петрович": 33,
-      "Против всех": 38
+      "gas:candidate-vibid:361300770742": 26,
+      "gas:candidate-vibid:361300770418": 239,
+      "gas:candidate-vibid:361300770824": 51,
+      "gas:candidate-vibid:361300771082": 18,
+      "gas:candidate-vibid:1001000195130": 3,
+      "gas:candidate-vibid:1001000126646": 32,
+      "gas:candidate-vibid:361300770662": 10,
+      "gas:candidate-vibid:1001000220839": 33,
+      "special:against-all": 38
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=613007008&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=361300771784&region=0&sub_region=0&type=429",
@@ -7674,15 +7674,15 @@ export const duma_2003_uik_428_region_61_part_010 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Анпилов Виктор Иванович": 44,
-      "Катальников Владимир Дмитриевич": 303,
-      "Козицын Николай Иванович": 78,
-      "Маликов Игорь Николаевич": 19,
-      "Петриенко Вадим Алексеевич": 9,
-      "Удовиченко Юрий Иванович": 28,
-      "Усольцев Дмитрий Александрович": 6,
-      "Чернышов Виталий Петрович": 48,
-      "Против всех": 96
+      "gas:candidate-vibid:361300770742": 44,
+      "gas:candidate-vibid:361300770418": 303,
+      "gas:candidate-vibid:361300770824": 78,
+      "gas:candidate-vibid:361300771082": 19,
+      "gas:candidate-vibid:1001000195130": 9,
+      "gas:candidate-vibid:1001000126646": 28,
+      "gas:candidate-vibid:361300770662": 6,
+      "gas:candidate-vibid:1001000220839": 48,
+      "special:against-all": 96
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=613007008&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=361300771784&region=0&sub_region=0&type=429",
@@ -7732,15 +7732,15 @@ export const duma_2003_uik_428_region_61_part_010 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Анпилов Виктор Иванович": 20,
-      "Катальников Владимир Дмитриевич": 125,
-      "Козицын Николай Иванович": 38,
-      "Маликов Игорь Николаевич": 12,
-      "Петриенко Вадим Алексеевич": 3,
-      "Удовиченко Юрий Иванович": 12,
-      "Усольцев Дмитрий Александрович": 0,
-      "Чернышов Виталий Петрович": 15,
-      "Против всех": 23
+      "gas:candidate-vibid:361300770742": 20,
+      "gas:candidate-vibid:361300770418": 125,
+      "gas:candidate-vibid:361300770824": 38,
+      "gas:candidate-vibid:361300771082": 12,
+      "gas:candidate-vibid:1001000195130": 3,
+      "gas:candidate-vibid:1001000126646": 12,
+      "gas:candidate-vibid:361300770662": 0,
+      "gas:candidate-vibid:1001000220839": 15,
+      "special:against-all": 23
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=613007008&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=361300771784&region=0&sub_region=0&type=429",
@@ -7790,15 +7790,15 @@ export const duma_2003_uik_428_region_61_part_010 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Анпилов Виктор Иванович": 25,
-      "Катальников Владимир Дмитриевич": 278,
-      "Козицын Николай Иванович": 111,
-      "Маликов Игорь Николаевич": 10,
-      "Петриенко Вадим Алексеевич": 2,
-      "Удовиченко Юрий Иванович": 16,
-      "Усольцев Дмитрий Александрович": 10,
-      "Чернышов Виталий Петрович": 23,
-      "Против всех": 58
+      "gas:candidate-vibid:361300770742": 25,
+      "gas:candidate-vibid:361300770418": 278,
+      "gas:candidate-vibid:361300770824": 111,
+      "gas:candidate-vibid:361300771082": 10,
+      "gas:candidate-vibid:1001000195130": 2,
+      "gas:candidate-vibid:1001000126646": 16,
+      "gas:candidate-vibid:361300770662": 10,
+      "gas:candidate-vibid:1001000220839": 23,
+      "special:against-all": 58
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=613007008&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=361300771784&region=0&sub_region=0&type=429",
@@ -7848,15 +7848,15 @@ export const duma_2003_uik_428_region_61_part_010 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Анпилов Виктор Иванович": 37,
-      "Катальников Владимир Дмитриевич": 260,
-      "Козицын Николай Иванович": 54,
-      "Маликов Игорь Николаевич": 7,
-      "Петриенко Вадим Алексеевич": 6,
-      "Удовиченко Юрий Иванович": 12,
-      "Усольцев Дмитрий Александрович": 4,
-      "Чернышов Виталий Петрович": 24,
-      "Против всех": 60
+      "gas:candidate-vibid:361300770742": 37,
+      "gas:candidate-vibid:361300770418": 260,
+      "gas:candidate-vibid:361300770824": 54,
+      "gas:candidate-vibid:361300771082": 7,
+      "gas:candidate-vibid:1001000195130": 6,
+      "gas:candidate-vibid:1001000126646": 12,
+      "gas:candidate-vibid:361300770662": 4,
+      "gas:candidate-vibid:1001000220839": 24,
+      "special:against-all": 60
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=613007008&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=361300771784&region=0&sub_region=0&type=429",
@@ -7906,15 +7906,15 @@ export const duma_2003_uik_428_region_61_part_010 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Анпилов Виктор Иванович": 5,
-      "Катальников Владимир Дмитриевич": 145,
-      "Козицын Николай Иванович": 22,
-      "Маликов Игорь Николаевич": 0,
-      "Петриенко Вадим Алексеевич": 2,
-      "Удовиченко Юрий Иванович": 2,
-      "Усольцев Дмитрий Александрович": 2,
-      "Чернышов Виталий Петрович": 4,
-      "Против всех": 18
+      "gas:candidate-vibid:361300770742": 5,
+      "gas:candidate-vibid:361300770418": 145,
+      "gas:candidate-vibid:361300770824": 22,
+      "gas:candidate-vibid:361300771082": 0,
+      "gas:candidate-vibid:1001000195130": 2,
+      "gas:candidate-vibid:1001000126646": 2,
+      "gas:candidate-vibid:361300770662": 2,
+      "gas:candidate-vibid:1001000220839": 4,
+      "special:against-all": 18
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=613007008&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=361300771784&region=0&sub_region=0&type=429",
@@ -7964,15 +7964,15 @@ export const duma_2003_uik_428_region_61_part_010 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Анпилов Виктор Иванович": 68,
-      "Катальников Владимир Дмитриевич": 218,
-      "Козицын Николай Иванович": 36,
-      "Маликов Игорь Николаевич": 12,
-      "Петриенко Вадим Алексеевич": 4,
-      "Удовиченко Юрий Иванович": 12,
-      "Усольцев Дмитрий Александрович": 2,
-      "Чернышов Виталий Петрович": 39,
-      "Против всех": 56
+      "gas:candidate-vibid:361300770742": 68,
+      "gas:candidate-vibid:361300770418": 218,
+      "gas:candidate-vibid:361300770824": 36,
+      "gas:candidate-vibid:361300771082": 12,
+      "gas:candidate-vibid:1001000195130": 4,
+      "gas:candidate-vibid:1001000126646": 12,
+      "gas:candidate-vibid:361300770662": 2,
+      "gas:candidate-vibid:1001000220839": 39,
+      "special:against-all": 56
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=613007008&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=361300771784&region=0&sub_region=0&type=429",
@@ -8022,15 +8022,15 @@ export const duma_2003_uik_428_region_61_part_010 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Анпилов Виктор Иванович": 61,
-      "Катальников Владимир Дмитриевич": 360,
-      "Козицын Николай Иванович": 72,
-      "Маликов Игорь Николаевич": 13,
-      "Петриенко Вадим Алексеевич": 7,
-      "Удовиченко Юрий Иванович": 34,
-      "Усольцев Дмитрий Александрович": 12,
-      "Чернышов Виталий Петрович": 30,
-      "Против всех": 69
+      "gas:candidate-vibid:361300770742": 61,
+      "gas:candidate-vibid:361300770418": 360,
+      "gas:candidate-vibid:361300770824": 72,
+      "gas:candidate-vibid:361300771082": 13,
+      "gas:candidate-vibid:1001000195130": 7,
+      "gas:candidate-vibid:1001000126646": 34,
+      "gas:candidate-vibid:361300770662": 12,
+      "gas:candidate-vibid:1001000220839": 30,
+      "special:against-all": 69
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=613007008&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=361300771784&region=0&sub_region=0&type=429",
@@ -8080,15 +8080,15 @@ export const duma_2003_uik_428_region_61_part_010 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Анпилов Виктор Иванович": 33,
-      "Катальников Владимир Дмитриевич": 250,
-      "Козицын Николай Иванович": 15,
-      "Маликов Игорь Николаевич": 9,
-      "Петриенко Вадим Алексеевич": 8,
-      "Удовиченко Юрий Иванович": 63,
-      "Усольцев Дмитрий Александрович": 11,
-      "Чернышов Виталий Петрович": 38,
-      "Против всех": 49
+      "gas:candidate-vibid:361300770742": 33,
+      "gas:candidate-vibid:361300770418": 250,
+      "gas:candidate-vibid:361300770824": 15,
+      "gas:candidate-vibid:361300771082": 9,
+      "gas:candidate-vibid:1001000195130": 8,
+      "gas:candidate-vibid:1001000126646": 63,
+      "gas:candidate-vibid:361300770662": 11,
+      "gas:candidate-vibid:1001000220839": 38,
+      "special:against-all": 49
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=613007008&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=361300771784&region=0&sub_region=0&type=429",
@@ -8138,15 +8138,15 @@ export const duma_2003_uik_428_region_61_part_010 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Анпилов Виктор Иванович": 38,
-      "Катальников Владимир Дмитриевич": 227,
-      "Козицын Николай Иванович": 12,
-      "Маликов Игорь Николаевич": 4,
-      "Петриенко Вадим Алексеевич": 2,
-      "Удовиченко Юрий Иванович": 45,
-      "Усольцев Дмитрий Александрович": 7,
-      "Чернышов Виталий Петрович": 33,
-      "Против всех": 29
+      "gas:candidate-vibid:361300770742": 38,
+      "gas:candidate-vibid:361300770418": 227,
+      "gas:candidate-vibid:361300770824": 12,
+      "gas:candidate-vibid:361300771082": 4,
+      "gas:candidate-vibid:1001000195130": 2,
+      "gas:candidate-vibid:1001000126646": 45,
+      "gas:candidate-vibid:361300770662": 7,
+      "gas:candidate-vibid:1001000220839": 33,
+      "special:against-all": 29
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=613007008&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=361300771784&region=0&sub_region=0&type=429",
@@ -8196,15 +8196,15 @@ export const duma_2003_uik_428_region_61_part_010 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Анпилов Виктор Иванович": 24,
-      "Катальников Владимир Дмитриевич": 73,
-      "Козицын Николай Иванович": 14,
-      "Маликов Игорь Николаевич": 9,
-      "Петриенко Вадим Алексеевич": 6,
-      "Удовиченко Юрий Иванович": 20,
-      "Усольцев Дмитрий Александрович": 7,
-      "Чернышов Виталий Петрович": 22,
-      "Против всех": 24
+      "gas:candidate-vibid:361300770742": 24,
+      "gas:candidate-vibid:361300770418": 73,
+      "gas:candidate-vibid:361300770824": 14,
+      "gas:candidate-vibid:361300771082": 9,
+      "gas:candidate-vibid:1001000195130": 6,
+      "gas:candidate-vibid:1001000126646": 20,
+      "gas:candidate-vibid:361300770662": 7,
+      "gas:candidate-vibid:1001000220839": 22,
+      "special:against-all": 24
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=613007008&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=361300771784&region=0&sub_region=0&type=429",
@@ -8254,15 +8254,15 @@ export const duma_2003_uik_428_region_61_part_010 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Анпилов Виктор Иванович": 5,
-      "Катальников Владимир Дмитриевич": 11,
-      "Козицын Николай Иванович": 27,
-      "Маликов Игорь Николаевич": 0,
-      "Петриенко Вадим Алексеевич": 1,
-      "Удовиченко Юрий Иванович": 2,
-      "Усольцев Дмитрий Александрович": 0,
-      "Чернышов Виталий Петрович": 0,
-      "Против всех": 5
+      "gas:candidate-vibid:361300770742": 5,
+      "gas:candidate-vibid:361300770418": 11,
+      "gas:candidate-vibid:361300770824": 27,
+      "gas:candidate-vibid:361300771082": 0,
+      "gas:candidate-vibid:1001000195130": 1,
+      "gas:candidate-vibid:1001000126646": 2,
+      "gas:candidate-vibid:361300770662": 0,
+      "gas:candidate-vibid:1001000220839": 0,
+      "special:against-all": 5
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=613007008&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=361300771784&region=0&sub_region=0&type=429",
@@ -8312,15 +8312,15 @@ export const duma_2003_uik_428_region_61_part_010 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Анпилов Виктор Иванович": 52,
-      "Катальников Владимир Дмитриевич": 212,
-      "Козицын Николай Иванович": 62,
-      "Маликов Игорь Николаевич": 9,
-      "Петриенко Вадим Алексеевич": 6,
-      "Удовиченко Юрий Иванович": 13,
-      "Усольцев Дмитрий Александрович": 2,
-      "Чернышов Виталий Петрович": 12,
-      "Против всех": 49
+      "gas:candidate-vibid:361300770742": 52,
+      "gas:candidate-vibid:361300770418": 212,
+      "gas:candidate-vibid:361300770824": 62,
+      "gas:candidate-vibid:361300771082": 9,
+      "gas:candidate-vibid:1001000195130": 6,
+      "gas:candidate-vibid:1001000126646": 13,
+      "gas:candidate-vibid:361300770662": 2,
+      "gas:candidate-vibid:1001000220839": 12,
+      "special:against-all": 49
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=613007008&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=361300771784&region=0&sub_region=0&type=429",
@@ -8370,15 +8370,15 @@ export const duma_2003_uik_428_region_61_part_010 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Анпилов Виктор Иванович": 17,
-      "Катальников Владимир Дмитриевич": 208,
-      "Козицын Николай Иванович": 61,
-      "Маликов Игорь Николаевич": 2,
-      "Петриенко Вадим Алексеевич": 3,
-      "Удовиченко Юрий Иванович": 7,
-      "Усольцев Дмитрий Александрович": 3,
-      "Чернышов Виталий Петрович": 21,
-      "Против всех": 51
+      "gas:candidate-vibid:361300770742": 17,
+      "gas:candidate-vibid:361300770418": 208,
+      "gas:candidate-vibid:361300770824": 61,
+      "gas:candidate-vibid:361300771082": 2,
+      "gas:candidate-vibid:1001000195130": 3,
+      "gas:candidate-vibid:1001000126646": 7,
+      "gas:candidate-vibid:361300770662": 3,
+      "gas:candidate-vibid:1001000220839": 21,
+      "special:against-all": 51
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=613007009&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=361300771785&region=0&sub_region=0&type=429",
@@ -8428,15 +8428,15 @@ export const duma_2003_uik_428_region_61_part_010 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Анпилов Виктор Иванович": 58,
-      "Катальников Владимир Дмитриевич": 425,
-      "Козицын Николай Иванович": 211,
-      "Маликов Игорь Николаевич": 16,
-      "Петриенко Вадим Алексеевич": 6,
-      "Удовиченко Юрий Иванович": 21,
-      "Усольцев Дмитрий Александрович": 8,
-      "Чернышов Виталий Петрович": 28,
-      "Против всех": 95
+      "gas:candidate-vibid:361300770742": 58,
+      "gas:candidate-vibid:361300770418": 425,
+      "gas:candidate-vibid:361300770824": 211,
+      "gas:candidate-vibid:361300771082": 16,
+      "gas:candidate-vibid:1001000195130": 6,
+      "gas:candidate-vibid:1001000126646": 21,
+      "gas:candidate-vibid:361300770662": 8,
+      "gas:candidate-vibid:1001000220839": 28,
+      "special:against-all": 95
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=613007009&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=361300771785&region=0&sub_region=0&type=429",
@@ -8486,15 +8486,15 @@ export const duma_2003_uik_428_region_61_part_010 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Анпилов Виктор Иванович": 73,
-      "Катальников Владимир Дмитриевич": 397,
-      "Козицын Николай Иванович": 156,
-      "Маликов Игорь Николаевич": 19,
-      "Петриенко Вадим Алексеевич": 10,
-      "Удовиченко Юрий Иванович": 40,
-      "Усольцев Дмитрий Александрович": 10,
-      "Чернышов Виталий Петрович": 51,
-      "Против всех": 90
+      "gas:candidate-vibid:361300770742": 73,
+      "gas:candidate-vibid:361300770418": 397,
+      "gas:candidate-vibid:361300770824": 156,
+      "gas:candidate-vibid:361300771082": 19,
+      "gas:candidate-vibid:1001000195130": 10,
+      "gas:candidate-vibid:1001000126646": 40,
+      "gas:candidate-vibid:361300770662": 10,
+      "gas:candidate-vibid:1001000220839": 51,
+      "special:against-all": 90
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=613007009&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=361300771785&region=0&sub_region=0&type=429",
@@ -8544,15 +8544,15 @@ export const duma_2003_uik_428_region_61_part_010 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Анпилов Виктор Иванович": 26,
-      "Катальников Владимир Дмитриевич": 235,
-      "Козицын Николай Иванович": 93,
-      "Маликов Игорь Николаевич": 16,
-      "Петриенко Вадим Алексеевич": 13,
-      "Удовиченко Юрий Иванович": 23,
-      "Усольцев Дмитрий Александрович": 10,
-      "Чернышов Виталий Петрович": 23,
-      "Против всех": 93
+      "gas:candidate-vibid:361300770742": 26,
+      "gas:candidate-vibid:361300770418": 235,
+      "gas:candidate-vibid:361300770824": 93,
+      "gas:candidate-vibid:361300771082": 16,
+      "gas:candidate-vibid:1001000195130": 13,
+      "gas:candidate-vibid:1001000126646": 23,
+      "gas:candidate-vibid:361300770662": 10,
+      "gas:candidate-vibid:1001000220839": 23,
+      "special:against-all": 93
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=613007009&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=361300771785&region=0&sub_region=0&type=429",
@@ -8602,15 +8602,15 @@ export const duma_2003_uik_428_region_61_part_010 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Анпилов Виктор Иванович": 57,
-      "Катальников Владимир Дмитриевич": 610,
-      "Козицын Николай Иванович": 178,
-      "Маликов Игорь Николаевич": 41,
-      "Петриенко Вадим Алексеевич": 18,
-      "Удовиченко Юрий Иванович": 27,
-      "Усольцев Дмитрий Александрович": 13,
-      "Чернышов Виталий Петрович": 72,
-      "Против всех": 188
+      "gas:candidate-vibid:361300770742": 57,
+      "gas:candidate-vibid:361300770418": 610,
+      "gas:candidate-vibid:361300770824": 178,
+      "gas:candidate-vibid:361300771082": 41,
+      "gas:candidate-vibid:1001000195130": 18,
+      "gas:candidate-vibid:1001000126646": 27,
+      "gas:candidate-vibid:361300770662": 13,
+      "gas:candidate-vibid:1001000220839": 72,
+      "special:against-all": 188
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=613007009&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=361300771785&region=0&sub_region=0&type=429",
@@ -8660,15 +8660,15 @@ export const duma_2003_uik_428_region_61_part_010 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Анпилов Виктор Иванович": 65,
-      "Катальников Владимир Дмитриевич": 386,
-      "Козицын Николай Иванович": 188,
-      "Маликов Игорь Николаевич": 21,
-      "Петриенко Вадим Алексеевич": 13,
-      "Удовиченко Юрий Иванович": 51,
-      "Усольцев Дмитрий Александрович": 6,
-      "Чернышов Виталий Петрович": 97,
-      "Против всех": 139
+      "gas:candidate-vibid:361300770742": 65,
+      "gas:candidate-vibid:361300770418": 386,
+      "gas:candidate-vibid:361300770824": 188,
+      "gas:candidate-vibid:361300771082": 21,
+      "gas:candidate-vibid:1001000195130": 13,
+      "gas:candidate-vibid:1001000126646": 51,
+      "gas:candidate-vibid:361300770662": 6,
+      "gas:candidate-vibid:1001000220839": 97,
+      "special:against-all": 139
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=613007009&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=361300771785&region=0&sub_region=0&type=429",
@@ -8718,15 +8718,15 @@ export const duma_2003_uik_428_region_61_part_010 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Анпилов Виктор Иванович": 86,
-      "Катальников Владимир Дмитриевич": 351,
-      "Козицын Николай Иванович": 172,
-      "Маликов Игорь Николаевич": 24,
-      "Петриенко Вадим Алексеевич": 22,
-      "Удовиченко Юрий Иванович": 42,
-      "Усольцев Дмитрий Александрович": 18,
-      "Чернышов Виталий Петрович": 100,
-      "Против всех": 160
+      "gas:candidate-vibid:361300770742": 86,
+      "gas:candidate-vibid:361300770418": 351,
+      "gas:candidate-vibid:361300770824": 172,
+      "gas:candidate-vibid:361300771082": 24,
+      "gas:candidate-vibid:1001000195130": 22,
+      "gas:candidate-vibid:1001000126646": 42,
+      "gas:candidate-vibid:361300770662": 18,
+      "gas:candidate-vibid:1001000220839": 100,
+      "special:against-all": 160
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=613007009&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=361300771785&region=0&sub_region=0&type=429",
@@ -8776,15 +8776,15 @@ export const duma_2003_uik_428_region_61_part_010 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Анпилов Виктор Иванович": 45,
-      "Катальников Владимир Дмитриевич": 333,
-      "Козицын Николай Иванович": 154,
-      "Маликов Игорь Николаевич": 27,
-      "Петриенко Вадим Алексеевич": 19,
-      "Удовиченко Юрий Иванович": 27,
-      "Усольцев Дмитрий Александрович": 13,
-      "Чернышов Виталий Петрович": 51,
-      "Против всех": 139
+      "gas:candidate-vibid:361300770742": 45,
+      "gas:candidate-vibid:361300770418": 333,
+      "gas:candidate-vibid:361300770824": 154,
+      "gas:candidate-vibid:361300771082": 27,
+      "gas:candidate-vibid:1001000195130": 19,
+      "gas:candidate-vibid:1001000126646": 27,
+      "gas:candidate-vibid:361300770662": 13,
+      "gas:candidate-vibid:1001000220839": 51,
+      "special:against-all": 139
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=613007009&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=361300771785&region=0&sub_region=0&type=429",
@@ -8834,15 +8834,15 @@ export const duma_2003_uik_428_region_61_part_010 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Анпилов Виктор Иванович": 83,
-      "Катальников Владимир Дмитриевич": 855,
-      "Козицын Николай Иванович": 194,
-      "Маликов Игорь Николаевич": 44,
-      "Петриенко Вадим Алексеевич": 12,
-      "Удовиченко Юрий Иванович": 37,
-      "Усольцев Дмитрий Александрович": 17,
-      "Чернышов Виталий Петрович": 59,
-      "Против всех": 173
+      "gas:candidate-vibid:361300770742": 83,
+      "gas:candidate-vibid:361300770418": 855,
+      "gas:candidate-vibid:361300770824": 194,
+      "gas:candidate-vibid:361300771082": 44,
+      "gas:candidate-vibid:1001000195130": 12,
+      "gas:candidate-vibid:1001000126646": 37,
+      "gas:candidate-vibid:361300770662": 17,
+      "gas:candidate-vibid:1001000220839": 59,
+      "special:against-all": 173
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=613007009&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=361300771785&region=0&sub_region=0&type=429",
@@ -8892,15 +8892,15 @@ export const duma_2003_uik_428_region_61_part_010 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Анпилов Виктор Иванович": 58,
-      "Катальников Владимир Дмитриевич": 220,
-      "Козицын Николай Иванович": 133,
-      "Маликов Игорь Николаевич": 18,
-      "Петриенко Вадим Алексеевич": 5,
-      "Удовиченко Юрий Иванович": 28,
-      "Усольцев Дмитрий Александрович": 7,
-      "Чернышов Виталий Петрович": 37,
-      "Против всех": 108
+      "gas:candidate-vibid:361300770742": 58,
+      "gas:candidate-vibid:361300770418": 220,
+      "gas:candidate-vibid:361300770824": 133,
+      "gas:candidate-vibid:361300771082": 18,
+      "gas:candidate-vibid:1001000195130": 5,
+      "gas:candidate-vibid:1001000126646": 28,
+      "gas:candidate-vibid:361300770662": 7,
+      "gas:candidate-vibid:1001000220839": 37,
+      "special:against-all": 108
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=613007009&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=361300771785&region=0&sub_region=0&type=429",
@@ -8950,15 +8950,15 @@ export const duma_2003_uik_428_region_61_part_010 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Анпилов Виктор Иванович": 54,
-      "Катальников Владимир Дмитриевич": 262,
-      "Козицын Николай Иванович": 242,
-      "Маликов Игорь Николаевич": 20,
-      "Петриенко Вадим Алексеевич": 9,
-      "Удовиченко Юрий Иванович": 35,
-      "Усольцев Дмитрий Александрович": 7,
-      "Чернышов Виталий Петрович": 79,
-      "Против всех": 164
+      "gas:candidate-vibid:361300770742": 54,
+      "gas:candidate-vibid:361300770418": 262,
+      "gas:candidate-vibid:361300770824": 242,
+      "gas:candidate-vibid:361300771082": 20,
+      "gas:candidate-vibid:1001000195130": 9,
+      "gas:candidate-vibid:1001000126646": 35,
+      "gas:candidate-vibid:361300770662": 7,
+      "gas:candidate-vibid:1001000220839": 79,
+      "special:against-all": 164
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=613007009&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=361300771785&region=0&sub_region=0&type=429",
@@ -9008,15 +9008,15 @@ export const duma_2003_uik_428_region_61_part_010 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Анпилов Виктор Иванович": 28,
-      "Катальников Владимир Дмитриевич": 282,
-      "Козицын Николай Иванович": 117,
-      "Маликов Игорь Николаевич": 65,
-      "Петриенко Вадим Алексеевич": 11,
-      "Удовиченко Юрий Иванович": 25,
-      "Усольцев Дмитрий Александрович": 9,
-      "Чернышов Виталий Петрович": 43,
-      "Против всех": 113
+      "gas:candidate-vibid:361300770742": 28,
+      "gas:candidate-vibid:361300770418": 282,
+      "gas:candidate-vibid:361300770824": 117,
+      "gas:candidate-vibid:361300771082": 65,
+      "gas:candidate-vibid:1001000195130": 11,
+      "gas:candidate-vibid:1001000126646": 25,
+      "gas:candidate-vibid:361300770662": 9,
+      "gas:candidate-vibid:1001000220839": 43,
+      "special:against-all": 113
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=613007009&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=361300771785&region=0&sub_region=0&type=429",
@@ -9066,15 +9066,15 @@ export const duma_2003_uik_428_region_61_part_010 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Анпилов Виктор Иванович": 120,
-      "Катальников Владимир Дмитриевич": 426,
-      "Козицын Николай Иванович": 199,
-      "Маликов Игорь Николаевич": 36,
-      "Петриенко Вадим Алексеевич": 14,
-      "Удовиченко Юрий Иванович": 88,
-      "Усольцев Дмитрий Александрович": 22,
-      "Чернышов Виталий Петрович": 47,
-      "Против всех": 138
+      "gas:candidate-vibid:361300770742": 120,
+      "gas:candidate-vibid:361300770418": 426,
+      "gas:candidate-vibid:361300770824": 199,
+      "gas:candidate-vibid:361300771082": 36,
+      "gas:candidate-vibid:1001000195130": 14,
+      "gas:candidate-vibid:1001000126646": 88,
+      "gas:candidate-vibid:361300770662": 22,
+      "gas:candidate-vibid:1001000220839": 47,
+      "special:against-all": 138
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=613007010&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=361300771786&region=0&sub_region=0&type=429",
@@ -9124,15 +9124,15 @@ export const duma_2003_uik_428_region_61_part_010 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Анпилов Виктор Иванович": 34,
-      "Катальников Владимир Дмитриевич": 255,
-      "Козицын Николай Иванович": 97,
-      "Маликов Игорь Николаевич": 10,
-      "Петриенко Вадим Алексеевич": 12,
-      "Удовиченко Юрий Иванович": 36,
-      "Усольцев Дмитрий Александрович": 15,
-      "Чернышов Виталий Петрович": 35,
-      "Против всех": 67
+      "gas:candidate-vibid:361300770742": 34,
+      "gas:candidate-vibid:361300770418": 255,
+      "gas:candidate-vibid:361300770824": 97,
+      "gas:candidate-vibid:361300771082": 10,
+      "gas:candidate-vibid:1001000195130": 12,
+      "gas:candidate-vibid:1001000126646": 36,
+      "gas:candidate-vibid:361300770662": 15,
+      "gas:candidate-vibid:1001000220839": 35,
+      "special:against-all": 67
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=613007010&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=361300771786&region=0&sub_region=0&type=429",
@@ -9182,15 +9182,15 @@ export const duma_2003_uik_428_region_61_part_010 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Анпилов Виктор Иванович": 50,
-      "Катальников Владимир Дмитриевич": 247,
-      "Козицын Николай Иванович": 148,
-      "Маликов Игорь Николаевич": 17,
-      "Петриенко Вадим Алексеевич": 9,
-      "Удовиченко Юрий Иванович": 51,
-      "Усольцев Дмитрий Александрович": 14,
-      "Чернышов Виталий Петрович": 27,
-      "Против всех": 101
+      "gas:candidate-vibid:361300770742": 50,
+      "gas:candidate-vibid:361300770418": 247,
+      "gas:candidate-vibid:361300770824": 148,
+      "gas:candidate-vibid:361300771082": 17,
+      "gas:candidate-vibid:1001000195130": 9,
+      "gas:candidate-vibid:1001000126646": 51,
+      "gas:candidate-vibid:361300770662": 14,
+      "gas:candidate-vibid:1001000220839": 27,
+      "special:against-all": 101
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=613007010&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=361300771786&region=0&sub_region=0&type=429",
@@ -9240,15 +9240,15 @@ export const duma_2003_uik_428_region_61_part_010 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Анпилов Виктор Иванович": 38,
-      "Катальников Владимир Дмитриевич": 289,
-      "Козицын Николай Иванович": 242,
-      "Маликов Игорь Николаевич": 15,
-      "Петриенко Вадим Алексеевич": 16,
-      "Удовиченко Юрий Иванович": 29,
-      "Усольцев Дмитрий Александрович": 25,
-      "Чернышов Виталий Петрович": 54,
-      "Против всех": 73
+      "gas:candidate-vibid:361300770742": 38,
+      "gas:candidate-vibid:361300770418": 289,
+      "gas:candidate-vibid:361300770824": 242,
+      "gas:candidate-vibid:361300771082": 15,
+      "gas:candidate-vibid:1001000195130": 16,
+      "gas:candidate-vibid:1001000126646": 29,
+      "gas:candidate-vibid:361300770662": 25,
+      "gas:candidate-vibid:1001000220839": 54,
+      "special:against-all": 73
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=613007010&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=361300771786&region=0&sub_region=0&type=429",
@@ -9298,15 +9298,15 @@ export const duma_2003_uik_428_region_61_part_010 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Анпилов Виктор Иванович": 26,
-      "Катальников Владимир Дмитриевич": 144,
-      "Козицын Николай Иванович": 96,
-      "Маликов Игорь Николаевич": 13,
-      "Петриенко Вадим Алексеевич": 1,
-      "Удовиченко Юрий Иванович": 17,
-      "Усольцев Дмитрий Александрович": 5,
-      "Чернышов Виталий Петрович": 19,
-      "Против всех": 52
+      "gas:candidate-vibid:361300770742": 26,
+      "gas:candidate-vibid:361300770418": 144,
+      "gas:candidate-vibid:361300770824": 96,
+      "gas:candidate-vibid:361300771082": 13,
+      "gas:candidate-vibid:1001000195130": 1,
+      "gas:candidate-vibid:1001000126646": 17,
+      "gas:candidate-vibid:361300770662": 5,
+      "gas:candidate-vibid:1001000220839": 19,
+      "special:against-all": 52
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=613007010&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=361300771786&region=0&sub_region=0&type=429",
@@ -9356,15 +9356,15 @@ export const duma_2003_uik_428_region_61_part_010 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Анпилов Виктор Иванович": 35,
-      "Катальников Владимир Дмитриевич": 116,
-      "Козицын Николай Иванович": 89,
-      "Маликов Игорь Николаевич": 9,
-      "Петриенко Вадим Алексеевич": 1,
-      "Удовиченко Юрий Иванович": 11,
-      "Усольцев Дмитрий Александрович": 7,
-      "Чернышов Виталий Петрович": 23,
-      "Против всех": 36
+      "gas:candidate-vibid:361300770742": 35,
+      "gas:candidate-vibid:361300770418": 116,
+      "gas:candidate-vibid:361300770824": 89,
+      "gas:candidate-vibid:361300771082": 9,
+      "gas:candidate-vibid:1001000195130": 1,
+      "gas:candidate-vibid:1001000126646": 11,
+      "gas:candidate-vibid:361300770662": 7,
+      "gas:candidate-vibid:1001000220839": 23,
+      "special:against-all": 36
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=613007010&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=361300771786&region=0&sub_region=0&type=429",
@@ -9414,15 +9414,15 @@ export const duma_2003_uik_428_region_61_part_010 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Анпилов Виктор Иванович": 53,
-      "Катальников Владимир Дмитриевич": 118,
-      "Козицын Николай Иванович": 110,
-      "Маликов Игорь Николаевич": 21,
-      "Петриенко Вадим Алексеевич": 5,
-      "Удовиченко Юрий Иванович": 10,
-      "Усольцев Дмитрий Александрович": 8,
-      "Чернышов Виталий Петрович": 31,
-      "Против всех": 63
+      "gas:candidate-vibid:361300770742": 53,
+      "gas:candidate-vibid:361300770418": 118,
+      "gas:candidate-vibid:361300770824": 110,
+      "gas:candidate-vibid:361300771082": 21,
+      "gas:candidate-vibid:1001000195130": 5,
+      "gas:candidate-vibid:1001000126646": 10,
+      "gas:candidate-vibid:361300770662": 8,
+      "gas:candidate-vibid:1001000220839": 31,
+      "special:against-all": 63
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=613007010&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=361300771786&region=0&sub_region=0&type=429",
@@ -9472,15 +9472,15 @@ export const duma_2003_uik_428_region_61_part_010 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Анпилов Виктор Иванович": 50,
-      "Катальников Владимир Дмитриевич": 140,
-      "Козицын Николай Иванович": 133,
-      "Маликов Игорь Николаевич": 10,
-      "Петриенко Вадим Алексеевич": 4,
-      "Удовиченко Юрий Иванович": 33,
-      "Усольцев Дмитрий Александрович": 11,
-      "Чернышов Виталий Петрович": 29,
-      "Против всех": 65
+      "gas:candidate-vibid:361300770742": 50,
+      "gas:candidate-vibid:361300770418": 140,
+      "gas:candidate-vibid:361300770824": 133,
+      "gas:candidate-vibid:361300771082": 10,
+      "gas:candidate-vibid:1001000195130": 4,
+      "gas:candidate-vibid:1001000126646": 33,
+      "gas:candidate-vibid:361300770662": 11,
+      "gas:candidate-vibid:1001000220839": 29,
+      "special:against-all": 65
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=613007010&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=361300771786&region=0&sub_region=0&type=429",
@@ -9530,15 +9530,15 @@ export const duma_2003_uik_428_region_61_part_010 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Анпилов Виктор Иванович": 38,
-      "Катальников Владимир Дмитриевич": 319,
-      "Козицын Николай Иванович": 163,
-      "Маликов Игорь Николаевич": 18,
-      "Петриенко Вадим Алексеевич": 5,
-      "Удовиченко Юрий Иванович": 30,
-      "Усольцев Дмитрий Александрович": 11,
-      "Чернышов Виталий Петрович": 29,
-      "Против всех": 70
+      "gas:candidate-vibid:361300770742": 38,
+      "gas:candidate-vibid:361300770418": 319,
+      "gas:candidate-vibid:361300770824": 163,
+      "gas:candidate-vibid:361300771082": 18,
+      "gas:candidate-vibid:1001000195130": 5,
+      "gas:candidate-vibid:1001000126646": 30,
+      "gas:candidate-vibid:361300770662": 11,
+      "gas:candidate-vibid:1001000220839": 29,
+      "special:against-all": 70
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=613007010&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=361300771786&region=0&sub_region=0&type=429",
@@ -9588,15 +9588,15 @@ export const duma_2003_uik_428_region_61_part_010 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Анпилов Виктор Иванович": 46,
-      "Катальников Владимир Дмитриевич": 371,
-      "Козицын Николай Иванович": 191,
-      "Маликов Игорь Николаевич": 26,
-      "Петриенко Вадим Алексеевич": 7,
-      "Удовиченко Юрий Иванович": 31,
-      "Усольцев Дмитрий Александрович": 9,
-      "Чернышов Виталий Петрович": 38,
-      "Против всех": 91
+      "gas:candidate-vibid:361300770742": 46,
+      "gas:candidate-vibid:361300770418": 371,
+      "gas:candidate-vibid:361300770824": 191,
+      "gas:candidate-vibid:361300771082": 26,
+      "gas:candidate-vibid:1001000195130": 7,
+      "gas:candidate-vibid:1001000126646": 31,
+      "gas:candidate-vibid:361300770662": 9,
+      "gas:candidate-vibid:1001000220839": 38,
+      "special:against-all": 91
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=613007010&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=361300771786&region=0&sub_region=0&type=429",
@@ -9646,15 +9646,15 @@ export const duma_2003_uik_428_region_61_part_010 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Анпилов Виктор Иванович": 16,
-      "Катальников Владимир Дмитриевич": 71,
-      "Козицын Николай Иванович": 49,
-      "Маликов Игорь Николаевич": 4,
-      "Петриенко Вадим Алексеевич": 3,
-      "Удовиченко Юрий Иванович": 5,
-      "Усольцев Дмитрий Александрович": 1,
-      "Чернышов Виталий Петрович": 9,
-      "Против всех": 23
+      "gas:candidate-vibid:361300770742": 16,
+      "gas:candidate-vibid:361300770418": 71,
+      "gas:candidate-vibid:361300770824": 49,
+      "gas:candidate-vibid:361300771082": 4,
+      "gas:candidate-vibid:1001000195130": 3,
+      "gas:candidate-vibid:1001000126646": 5,
+      "gas:candidate-vibid:361300770662": 1,
+      "gas:candidate-vibid:1001000220839": 9,
+      "special:against-all": 23
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=613007010&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=361300771786&region=0&sub_region=0&type=429",
@@ -9704,15 +9704,15 @@ export const duma_2003_uik_428_region_61_part_010 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Анпилов Виктор Иванович": 69,
-      "Катальников Владимир Дмитриевич": 323,
-      "Козицын Николай Иванович": 167,
-      "Маликов Игорь Николаевич": 13,
-      "Петриенко Вадим Алексеевич": 9,
-      "Удовиченко Юрий Иванович": 60,
-      "Усольцев Дмитрий Александрович": 11,
-      "Чернышов Виталий Петрович": 49,
-      "Против всех": 123
+      "gas:candidate-vibid:361300770742": 69,
+      "gas:candidate-vibid:361300770418": 323,
+      "gas:candidate-vibid:361300770824": 167,
+      "gas:candidate-vibid:361300771082": 13,
+      "gas:candidate-vibid:1001000195130": 9,
+      "gas:candidate-vibid:1001000126646": 60,
+      "gas:candidate-vibid:361300770662": 11,
+      "gas:candidate-vibid:1001000220839": 49,
+      "special:against-all": 123
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=613007010&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=361300771786&region=0&sub_region=0&type=429",
@@ -9762,15 +9762,15 @@ export const duma_2003_uik_428_region_61_part_010 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Анпилов Виктор Иванович": 59,
-      "Катальников Владимир Дмитриевич": 414,
-      "Козицын Николай Иванович": 192,
-      "Маликов Игорь Николаевич": 22,
-      "Петриенко Вадим Алексеевич": 17,
-      "Удовиченко Юрий Иванович": 52,
-      "Усольцев Дмитрий Александрович": 16,
-      "Чернышов Виталий Петрович": 35,
-      "Против всех": 93
+      "gas:candidate-vibid:361300770742": 59,
+      "gas:candidate-vibid:361300770418": 414,
+      "gas:candidate-vibid:361300770824": 192,
+      "gas:candidate-vibid:361300771082": 22,
+      "gas:candidate-vibid:1001000195130": 17,
+      "gas:candidate-vibid:1001000126646": 52,
+      "gas:candidate-vibid:361300770662": 16,
+      "gas:candidate-vibid:1001000220839": 35,
+      "special:against-all": 93
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=613007010&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=361300771786&region=0&sub_region=0&type=429",
@@ -9820,15 +9820,15 @@ export const duma_2003_uik_428_region_61_part_010 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Анпилов Виктор Иванович": 37,
-      "Катальников Владимир Дмитриевич": 239,
-      "Козицын Николай Иванович": 120,
-      "Маликов Игорь Николаевич": 16,
-      "Петриенко Вадим Алексеевич": 4,
-      "Удовиченко Юрий Иванович": 38,
-      "Усольцев Дмитрий Александрович": 13,
-      "Чернышов Виталий Петрович": 37,
-      "Против всех": 88
+      "gas:candidate-vibid:361300770742": 37,
+      "gas:candidate-vibid:361300770418": 239,
+      "gas:candidate-vibid:361300770824": 120,
+      "gas:candidate-vibid:361300771082": 16,
+      "gas:candidate-vibid:1001000195130": 4,
+      "gas:candidate-vibid:1001000126646": 38,
+      "gas:candidate-vibid:361300770662": 13,
+      "gas:candidate-vibid:1001000220839": 37,
+      "special:against-all": 88
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=613007010&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=361300771786&region=0&sub_region=0&type=429",
@@ -9878,15 +9878,15 @@ export const duma_2003_uik_428_region_61_part_010 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Анпилов Виктор Иванович": 16,
-      "Катальников Владимир Дмитриевич": 194,
-      "Козицын Николай Иванович": 126,
-      "Маликов Игорь Николаевич": 7,
-      "Петриенко Вадим Алексеевич": 3,
-      "Удовиченко Юрий Иванович": 20,
-      "Усольцев Дмитрий Александрович": 11,
-      "Чернышов Виталий Петрович": 28,
-      "Против всех": 45
+      "gas:candidate-vibid:361300770742": 16,
+      "gas:candidate-vibid:361300770418": 194,
+      "gas:candidate-vibid:361300770824": 126,
+      "gas:candidate-vibid:361300771082": 7,
+      "gas:candidate-vibid:1001000195130": 3,
+      "gas:candidate-vibid:1001000126646": 20,
+      "gas:candidate-vibid:361300770662": 11,
+      "gas:candidate-vibid:1001000220839": 28,
+      "special:against-all": 45
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=613007010&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=361300771786&region=0&sub_region=0&type=429",
@@ -9936,15 +9936,15 @@ export const duma_2003_uik_428_region_61_part_010 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Анпилов Виктор Иванович": 77,
-      "Катальников Владимир Дмитриевич": 302,
-      "Козицын Николай Иванович": 178,
-      "Маликов Игорь Николаевич": 23,
-      "Петриенко Вадим Алексеевич": 6,
-      "Удовиченко Юрий Иванович": 44,
-      "Усольцев Дмитрий Александрович": 5,
-      "Чернышов Виталий Петрович": 59,
-      "Против всех": 88
+      "gas:candidate-vibid:361300770742": 77,
+      "gas:candidate-vibid:361300770418": 302,
+      "gas:candidate-vibid:361300770824": 178,
+      "gas:candidate-vibid:361300771082": 23,
+      "gas:candidate-vibid:1001000195130": 6,
+      "gas:candidate-vibid:1001000126646": 44,
+      "gas:candidate-vibid:361300770662": 5,
+      "gas:candidate-vibid:1001000220839": 59,
+      "special:against-all": 88
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=613007010&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=361300771786&region=0&sub_region=0&type=429",
@@ -9994,15 +9994,15 @@ export const duma_2003_uik_428_region_61_part_010 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Анпилов Виктор Иванович": 140,
-      "Катальников Владимир Дмитриевич": 338,
-      "Козицын Николай Иванович": 201,
-      "Маликов Игорь Николаевич": 18,
-      "Петриенко Вадим Алексеевич": 3,
-      "Удовиченко Юрий Иванович": 66,
-      "Усольцев Дмитрий Александрович": 18,
-      "Чернышов Виталий Петрович": 70,
-      "Против всех": 95
+      "gas:candidate-vibid:361300770742": 140,
+      "gas:candidate-vibid:361300770418": 338,
+      "gas:candidate-vibid:361300770824": 201,
+      "gas:candidate-vibid:361300771082": 18,
+      "gas:candidate-vibid:1001000195130": 3,
+      "gas:candidate-vibid:1001000126646": 66,
+      "gas:candidate-vibid:361300770662": 18,
+      "gas:candidate-vibid:1001000220839": 70,
+      "special:against-all": 95
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=613007010&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=361300771786&region=0&sub_region=0&type=429",
@@ -10052,15 +10052,15 @@ export const duma_2003_uik_428_region_61_part_010 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Анпилов Виктор Иванович": 85,
-      "Катальников Владимир Дмитриевич": 302,
-      "Козицын Николай Иванович": 120,
-      "Маликов Игорь Николаевич": 18,
-      "Петриенко Вадим Алексеевич": 9,
-      "Удовиченко Юрий Иванович": 24,
-      "Усольцев Дмитрий Александрович": 17,
-      "Чернышов Виталий Петрович": 30,
-      "Против всех": 53
+      "gas:candidate-vibid:361300770742": 85,
+      "gas:candidate-vibid:361300770418": 302,
+      "gas:candidate-vibid:361300770824": 120,
+      "gas:candidate-vibid:361300771082": 18,
+      "gas:candidate-vibid:1001000195130": 9,
+      "gas:candidate-vibid:1001000126646": 24,
+      "gas:candidate-vibid:361300770662": 17,
+      "gas:candidate-vibid:1001000220839": 30,
+      "special:against-all": 53
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=613007010&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=361300771786&region=0&sub_region=0&type=429",
@@ -10110,15 +10110,15 @@ export const duma_2003_uik_428_region_61_part_010 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Анпилов Виктор Иванович": 75,
-      "Катальников Владимир Дмитриевич": 342,
-      "Козицын Николай Иванович": 134,
-      "Маликов Игорь Николаевич": 10,
-      "Петриенко Вадим Алексеевич": 8,
-      "Удовиченко Юрий Иванович": 40,
-      "Усольцев Дмитрий Александрович": 21,
-      "Чернышов Виталий Петрович": 55,
-      "Против всех": 106
+      "gas:candidate-vibid:361300770742": 75,
+      "gas:candidate-vibid:361300770418": 342,
+      "gas:candidate-vibid:361300770824": 134,
+      "gas:candidate-vibid:361300771082": 10,
+      "gas:candidate-vibid:1001000195130": 8,
+      "gas:candidate-vibid:1001000126646": 40,
+      "gas:candidate-vibid:361300770662": 21,
+      "gas:candidate-vibid:1001000220839": 55,
+      "special:against-all": 106
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=613007010&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=361300771786&region=0&sub_region=0&type=429",
@@ -10168,15 +10168,15 @@ export const duma_2003_uik_428_region_61_part_010 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Анпилов Виктор Иванович": 32,
-      "Катальников Владимир Дмитриевич": 154,
-      "Козицын Николай Иванович": 179,
-      "Маликов Игорь Николаевич": 12,
-      "Петриенко Вадим Алексеевич": 5,
-      "Удовиченко Юрий Иванович": 25,
-      "Усольцев Дмитрий Александрович": 6,
-      "Чернышов Виталий Петрович": 37,
-      "Против всех": 81
+      "gas:candidate-vibid:361300770742": 32,
+      "gas:candidate-vibid:361300770418": 154,
+      "gas:candidate-vibid:361300770824": 179,
+      "gas:candidate-vibid:361300771082": 12,
+      "gas:candidate-vibid:1001000195130": 5,
+      "gas:candidate-vibid:1001000126646": 25,
+      "gas:candidate-vibid:361300770662": 6,
+      "gas:candidate-vibid:1001000220839": 37,
+      "special:against-all": 81
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=613007010&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=361300771786&region=0&sub_region=0&type=429",
@@ -10226,15 +10226,15 @@ export const duma_2003_uik_428_region_61_part_010 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Анпилов Виктор Иванович": 40,
-      "Катальников Владимир Дмитриевич": 170,
-      "Козицын Николай Иванович": 140,
-      "Маликов Игорь Николаевич": 11,
-      "Петриенко Вадим Алексеевич": 7,
-      "Удовиченко Юрий Иванович": 32,
-      "Усольцев Дмитрий Александрович": 8,
-      "Чернышов Виталий Петрович": 28,
-      "Против всех": 50
+      "gas:candidate-vibid:361300770742": 40,
+      "gas:candidate-vibid:361300770418": 170,
+      "gas:candidate-vibid:361300770824": 140,
+      "gas:candidate-vibid:361300771082": 11,
+      "gas:candidate-vibid:1001000195130": 7,
+      "gas:candidate-vibid:1001000126646": 32,
+      "gas:candidate-vibid:361300770662": 8,
+      "gas:candidate-vibid:1001000220839": 28,
+      "special:against-all": 50
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=613007010&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=361300771786&region=0&sub_region=0&type=429",
@@ -10284,15 +10284,15 @@ export const duma_2003_uik_428_region_61_part_010 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Анпилов Виктор Иванович": 28,
-      "Катальников Владимир Дмитриевич": 132,
-      "Козицын Николай Иванович": 117,
-      "Маликов Игорь Николаевич": 6,
-      "Петриенко Вадим Алексеевич": 9,
-      "Удовиченко Юрий Иванович": 28,
-      "Усольцев Дмитрий Александрович": 13,
-      "Чернышов Виталий Петрович": 32,
-      "Против всех": 63
+      "gas:candidate-vibid:361300770742": 28,
+      "gas:candidate-vibid:361300770418": 132,
+      "gas:candidate-vibid:361300770824": 117,
+      "gas:candidate-vibid:361300771082": 6,
+      "gas:candidate-vibid:1001000195130": 9,
+      "gas:candidate-vibid:1001000126646": 28,
+      "gas:candidate-vibid:361300770662": 13,
+      "gas:candidate-vibid:1001000220839": 32,
+      "special:against-all": 63
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=613007010&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=361300771786&region=0&sub_region=0&type=429",
@@ -10342,15 +10342,15 @@ export const duma_2003_uik_428_region_61_part_010 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Анпилов Виктор Иванович": 84,
-      "Катальников Владимир Дмитриевич": 257,
-      "Козицын Николай Иванович": 175,
-      "Маликов Игорь Николаевич": 12,
-      "Петриенко Вадим Алексеевич": 8,
-      "Удовиченко Юрий Иванович": 58,
-      "Усольцев Дмитрий Александрович": 5,
-      "Чернышов Виталий Петрович": 36,
-      "Против всех": 71
+      "gas:candidate-vibid:361300770742": 84,
+      "gas:candidate-vibid:361300770418": 257,
+      "gas:candidate-vibid:361300770824": 175,
+      "gas:candidate-vibid:361300771082": 12,
+      "gas:candidate-vibid:1001000195130": 8,
+      "gas:candidate-vibid:1001000126646": 58,
+      "gas:candidate-vibid:361300770662": 5,
+      "gas:candidate-vibid:1001000220839": 36,
+      "special:against-all": 71
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=613007010&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=361300771786&region=0&sub_region=0&type=429",
@@ -10400,15 +10400,15 @@ export const duma_2003_uik_428_region_61_part_010 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Анпилов Виктор Иванович": 47,
-      "Катальников Владимир Дмитриевич": 145,
-      "Козицын Николай Иванович": 214,
-      "Маликов Игорь Николаевич": 8,
-      "Петриенко Вадим Алексеевич": 1,
-      "Удовиченко Юрий Иванович": 32,
-      "Усольцев Дмитрий Александрович": 7,
-      "Чернышов Виталий Петрович": 36,
-      "Против всех": 88
+      "gas:candidate-vibid:361300770742": 47,
+      "gas:candidate-vibid:361300770418": 145,
+      "gas:candidate-vibid:361300770824": 214,
+      "gas:candidate-vibid:361300771082": 8,
+      "gas:candidate-vibid:1001000195130": 1,
+      "gas:candidate-vibid:1001000126646": 32,
+      "gas:candidate-vibid:361300770662": 7,
+      "gas:candidate-vibid:1001000220839": 36,
+      "special:against-all": 88
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=613007010&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=361300771786&region=0&sub_region=0&type=429",
@@ -10458,15 +10458,15 @@ export const duma_2003_uik_428_region_61_part_010 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Анпилов Виктор Иванович": 8,
-      "Катальников Владимир Дмитриевич": 175,
-      "Козицын Николай Иванович": 41,
-      "Маликов Игорь Николаевич": 9,
-      "Петриенко Вадим Алексеевич": 2,
-      "Удовиченко Юрий Иванович": 13,
-      "Усольцев Дмитрий Александрович": 9,
-      "Чернышов Виталий Петрович": 30,
-      "Против всех": 26
+      "gas:candidate-vibid:361300770742": 8,
+      "gas:candidate-vibid:361300770418": 175,
+      "gas:candidate-vibid:361300770824": 41,
+      "gas:candidate-vibid:361300771082": 9,
+      "gas:candidate-vibid:1001000195130": 2,
+      "gas:candidate-vibid:1001000126646": 13,
+      "gas:candidate-vibid:361300770662": 9,
+      "gas:candidate-vibid:1001000220839": 30,
+      "special:against-all": 26
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=613007010&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=361300771786&region=0&sub_region=0&type=429",
@@ -10516,15 +10516,15 @@ export const duma_2003_uik_428_region_61_part_010 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Анпилов Виктор Иванович": 12,
-      "Катальников Владимир Дмитриевич": 430,
-      "Козицын Николай Иванович": 67,
-      "Маликов Игорь Николаевич": 10,
-      "Петриенко Вадим Алексеевич": 8,
-      "Удовиченко Юрий Иванович": 17,
-      "Усольцев Дмитрий Александрович": 14,
-      "Чернышов Виталий Петрович": 20,
-      "Против всех": 55
+      "gas:candidate-vibid:361300770742": 12,
+      "gas:candidate-vibid:361300770418": 430,
+      "gas:candidate-vibid:361300770824": 67,
+      "gas:candidate-vibid:361300771082": 10,
+      "gas:candidate-vibid:1001000195130": 8,
+      "gas:candidate-vibid:1001000126646": 17,
+      "gas:candidate-vibid:361300770662": 14,
+      "gas:candidate-vibid:1001000220839": 20,
+      "special:against-all": 55
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=613007010&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=361300771786&region=0&sub_region=0&type=429",
@@ -10574,15 +10574,15 @@ export const duma_2003_uik_428_region_61_part_010 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Анпилов Виктор Иванович": 25,
-      "Катальников Владимир Дмитриевич": 444,
-      "Козицын Николай Иванович": 70,
-      "Маликов Игорь Николаевич": 25,
-      "Петриенко Вадим Алексеевич": 0,
-      "Удовиченко Юрий Иванович": 34,
-      "Усольцев Дмитрий Александрович": 22,
-      "Чернышов Виталий Петрович": 58,
-      "Против всех": 64
+      "gas:candidate-vibid:361300770742": 25,
+      "gas:candidate-vibid:361300770418": 444,
+      "gas:candidate-vibid:361300770824": 70,
+      "gas:candidate-vibid:361300771082": 25,
+      "gas:candidate-vibid:1001000195130": 0,
+      "gas:candidate-vibid:1001000126646": 34,
+      "gas:candidate-vibid:361300770662": 22,
+      "gas:candidate-vibid:1001000220839": 58,
+      "special:against-all": 64
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=613007010&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=361300771786&region=0&sub_region=0&type=429",
@@ -10632,15 +10632,15 @@ export const duma_2003_uik_428_region_61_part_010 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Анпилов Виктор Иванович": 21,
-      "Катальников Владимир Дмитриевич": 254,
-      "Козицын Николай Иванович": 66,
-      "Маликов Игорь Николаевич": 12,
-      "Петриенко Вадим Алексеевич": 18,
-      "Удовиченко Юрий Иванович": 12,
-      "Усольцев Дмитрий Александрович": 9,
-      "Чернышов Виталий Петрович": 21,
-      "Против всех": 35
+      "gas:candidate-vibid:361300770742": 21,
+      "gas:candidate-vibid:361300770418": 254,
+      "gas:candidate-vibid:361300770824": 66,
+      "gas:candidate-vibid:361300771082": 12,
+      "gas:candidate-vibid:1001000195130": 18,
+      "gas:candidate-vibid:1001000126646": 12,
+      "gas:candidate-vibid:361300770662": 9,
+      "gas:candidate-vibid:1001000220839": 21,
+      "special:against-all": 35
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=613007010&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=361300771786&region=0&sub_region=0&type=429",
@@ -10690,15 +10690,15 @@ export const duma_2003_uik_428_region_61_part_010 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Анпилов Виктор Иванович": 71,
-      "Катальников Владимир Дмитриевич": 256,
-      "Козицын Николай Иванович": 65,
-      "Маликов Игорь Николаевич": 9,
-      "Петриенко Вадим Алексеевич": 1,
-      "Удовиченко Юрий Иванович": 15,
-      "Усольцев Дмитрий Александрович": 9,
-      "Чернышов Виталий Петрович": 7,
-      "Против всех": 44
+      "gas:candidate-vibid:361300770742": 71,
+      "gas:candidate-vibid:361300770418": 256,
+      "gas:candidate-vibid:361300770824": 65,
+      "gas:candidate-vibid:361300771082": 9,
+      "gas:candidate-vibid:1001000195130": 1,
+      "gas:candidate-vibid:1001000126646": 15,
+      "gas:candidate-vibid:361300770662": 9,
+      "gas:candidate-vibid:1001000220839": 7,
+      "special:against-all": 44
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=613007010&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=361300771786&region=0&sub_region=0&type=429",
@@ -10748,15 +10748,15 @@ export const duma_2003_uik_428_region_61_part_010 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Анпилов Виктор Иванович": 12,
-      "Катальников Владимир Дмитриевич": 60,
-      "Козицын Николай Иванович": 42,
-      "Маликов Игорь Николаевич": 9,
-      "Петриенко Вадим Алексеевич": 0,
-      "Удовиченко Юрий Иванович": 9,
-      "Усольцев Дмитрий Александрович": 0,
-      "Чернышов Виталий Петрович": 7,
-      "Против всех": 24
+      "gas:candidate-vibid:361300770742": 12,
+      "gas:candidate-vibid:361300770418": 60,
+      "gas:candidate-vibid:361300770824": 42,
+      "gas:candidate-vibid:361300771082": 9,
+      "gas:candidate-vibid:1001000195130": 0,
+      "gas:candidate-vibid:1001000126646": 9,
+      "gas:candidate-vibid:361300770662": 0,
+      "gas:candidate-vibid:1001000220839": 7,
+      "special:against-all": 24
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=613007010&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=361300771786&region=0&sub_region=0&type=429",
@@ -10806,15 +10806,15 @@ export const duma_2003_uik_428_region_61_part_010 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Анпилов Виктор Иванович": 82,
-      "Катальников Владимир Дмитриевич": 475,
-      "Козицын Николай Иванович": 215,
-      "Маликов Игорь Николаевич": 32,
-      "Петриенко Вадим Алексеевич": 5,
-      "Удовиченко Юрий Иванович": 81,
-      "Усольцев Дмитрий Александрович": 16,
-      "Чернышов Виталий Петрович": 78,
-      "Против всех": 112
+      "gas:candidate-vibid:361300770742": 82,
+      "gas:candidate-vibid:361300770418": 475,
+      "gas:candidate-vibid:361300770824": 215,
+      "gas:candidate-vibid:361300771082": 32,
+      "gas:candidate-vibid:1001000195130": 5,
+      "gas:candidate-vibid:1001000126646": 81,
+      "gas:candidate-vibid:361300770662": 16,
+      "gas:candidate-vibid:1001000220839": 78,
+      "special:against-all": 112
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=613007010&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=361300771786&region=0&sub_region=0&type=429",
@@ -10864,15 +10864,15 @@ export const duma_2003_uik_428_region_61_part_010 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Анпилов Виктор Иванович": 16,
-      "Катальников Владимир Дмитриевич": 260,
-      "Козицын Николай Иванович": 59,
-      "Маликов Игорь Николаевич": 6,
-      "Петриенко Вадим Алексеевич": 4,
-      "Удовиченко Юрий Иванович": 22,
-      "Усольцев Дмитрий Александрович": 5,
-      "Чернышов Виталий Петрович": 19,
-      "Против всех": 46
+      "gas:candidate-vibid:361300770742": 16,
+      "gas:candidate-vibid:361300770418": 260,
+      "gas:candidate-vibid:361300770824": 59,
+      "gas:candidate-vibid:361300771082": 6,
+      "gas:candidate-vibid:1001000195130": 4,
+      "gas:candidate-vibid:1001000126646": 22,
+      "gas:candidate-vibid:361300770662": 5,
+      "gas:candidate-vibid:1001000220839": 19,
+      "special:against-all": 46
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=613007010&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=361300771786&region=0&sub_region=0&type=429",
@@ -10922,15 +10922,15 @@ export const duma_2003_uik_428_region_61_part_010 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Анпилов Виктор Иванович": 86,
-      "Катальников Владимир Дмитриевич": 798,
-      "Козицын Николай Иванович": 221,
-      "Маликов Игорь Николаевич": 31,
-      "Петриенко Вадим Алексеевич": 19,
-      "Удовиченко Юрий Иванович": 83,
-      "Усольцев Дмитрий Александрович": 21,
-      "Чернышов Виталий Петрович": 65,
-      "Против всех": 148
+      "gas:candidate-vibid:361300770742": 86,
+      "gas:candidate-vibid:361300770418": 798,
+      "gas:candidate-vibid:361300770824": 221,
+      "gas:candidate-vibid:361300771082": 31,
+      "gas:candidate-vibid:1001000195130": 19,
+      "gas:candidate-vibid:1001000126646": 83,
+      "gas:candidate-vibid:361300770662": 21,
+      "gas:candidate-vibid:1001000220839": 65,
+      "special:against-all": 148
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=613007010&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=361300771786&region=0&sub_region=0&type=429",
@@ -10980,15 +10980,15 @@ export const duma_2003_uik_428_region_61_part_010 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Анпилов Виктор Иванович": 7,
-      "Катальников Владимир Дмитриевич": 177,
-      "Козицын Николай Иванович": 17,
-      "Маликов Игорь Николаевич": 1,
-      "Петриенко Вадим Алексеевич": 0,
-      "Удовиченко Юрий Иванович": 6,
-      "Усольцев Дмитрий Александрович": 0,
-      "Чернышов Виталий Петрович": 1,
-      "Против всех": 12
+      "gas:candidate-vibid:361300770742": 7,
+      "gas:candidate-vibid:361300770418": 177,
+      "gas:candidate-vibid:361300770824": 17,
+      "gas:candidate-vibid:361300771082": 1,
+      "gas:candidate-vibid:1001000195130": 0,
+      "gas:candidate-vibid:1001000126646": 6,
+      "gas:candidate-vibid:361300770662": 0,
+      "gas:candidate-vibid:1001000220839": 1,
+      "special:against-all": 12
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=613007010&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=361300771786&region=0&sub_region=0&type=429",
@@ -11038,15 +11038,15 @@ export const duma_2003_uik_428_region_61_part_010 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Анпилов Виктор Иванович": 10,
-      "Катальников Владимир Дмитриевич": 305,
-      "Козицын Николай Иванович": 35,
-      "Маликов Игорь Николаевич": 1,
-      "Петриенко Вадим Алексеевич": 4,
-      "Удовиченко Юрий Иванович": 9,
-      "Усольцев Дмитрий Александрович": 4,
-      "Чернышов Виталий Петрович": 8,
-      "Против всех": 18
+      "gas:candidate-vibid:361300770742": 10,
+      "gas:candidate-vibid:361300770418": 305,
+      "gas:candidate-vibid:361300770824": 35,
+      "gas:candidate-vibid:361300771082": 1,
+      "gas:candidate-vibid:1001000195130": 4,
+      "gas:candidate-vibid:1001000126646": 9,
+      "gas:candidate-vibid:361300770662": 4,
+      "gas:candidate-vibid:1001000220839": 8,
+      "special:against-all": 18
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=613007010&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=361300771786&region=0&sub_region=0&type=429",
@@ -11096,15 +11096,15 @@ export const duma_2003_uik_428_region_61_part_010 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Анпилов Виктор Иванович": 21,
-      "Катальников Владимир Дмитриевич": 290,
-      "Козицын Николай Иванович": 32,
-      "Маликов Игорь Николаевич": 3,
-      "Петриенко Вадим Алексеевич": 9,
-      "Удовиченко Юрий Иванович": 8,
-      "Усольцев Дмитрий Александрович": 2,
-      "Чернышов Виталий Петрович": 3,
-      "Против всех": 26
+      "gas:candidate-vibid:361300770742": 21,
+      "gas:candidate-vibid:361300770418": 290,
+      "gas:candidate-vibid:361300770824": 32,
+      "gas:candidate-vibid:361300771082": 3,
+      "gas:candidate-vibid:1001000195130": 9,
+      "gas:candidate-vibid:1001000126646": 8,
+      "gas:candidate-vibid:361300770662": 2,
+      "gas:candidate-vibid:1001000220839": 3,
+      "special:against-all": 26
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=613007010&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=361300771786&region=0&sub_region=0&type=429",
@@ -11154,15 +11154,15 @@ export const duma_2003_uik_428_region_61_part_010 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Анпилов Виктор Иванович": 12,
-      "Катальников Владимир Дмитриевич": 178,
-      "Козицын Николай Иванович": 23,
-      "Маликов Игорь Николаевич": 3,
-      "Петриенко Вадим Алексеевич": 3,
-      "Удовиченко Юрий Иванович": 10,
-      "Усольцев Дмитрий Александрович": 1,
-      "Чернышов Виталий Петрович": 9,
-      "Против всех": 37
+      "gas:candidate-vibid:361300770742": 12,
+      "gas:candidate-vibid:361300770418": 178,
+      "gas:candidate-vibid:361300770824": 23,
+      "gas:candidate-vibid:361300771082": 3,
+      "gas:candidate-vibid:1001000195130": 3,
+      "gas:candidate-vibid:1001000126646": 10,
+      "gas:candidate-vibid:361300770662": 1,
+      "gas:candidate-vibid:1001000220839": 9,
+      "special:against-all": 37
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=613007010&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=361300771786&region=0&sub_region=0&type=429",
@@ -11212,15 +11212,15 @@ export const duma_2003_uik_428_region_61_part_010 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Анпилов Виктор Иванович": 14,
-      "Катальников Владимир Дмитриевич": 291,
-      "Козицын Николай Иванович": 17,
-      "Маликов Игорь Николаевич": 3,
-      "Петриенко Вадим Алексеевич": 0,
-      "Удовиченко Юрий Иванович": 3,
-      "Усольцев Дмитрий Александрович": 3,
-      "Чернышов Виталий Петрович": 17,
-      "Против всех": 7
+      "gas:candidate-vibid:361300770742": 14,
+      "gas:candidate-vibid:361300770418": 291,
+      "gas:candidate-vibid:361300770824": 17,
+      "gas:candidate-vibid:361300771082": 3,
+      "gas:candidate-vibid:1001000195130": 0,
+      "gas:candidate-vibid:1001000126646": 3,
+      "gas:candidate-vibid:361300770662": 3,
+      "gas:candidate-vibid:1001000220839": 17,
+      "special:against-all": 7
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=613007010&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=361300771786&region=0&sub_region=0&type=429",
@@ -11270,15 +11270,15 @@ export const duma_2003_uik_428_region_61_part_010 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Анпилов Виктор Иванович": 4,
-      "Катальников Владимир Дмитриевич": 111,
-      "Козицын Николай Иванович": 7,
-      "Маликов Игорь Николаевич": 0,
-      "Петриенко Вадим Алексеевич": 4,
-      "Удовиченко Юрий Иванович": 3,
-      "Усольцев Дмитрий Александрович": 1,
-      "Чернышов Виталий Петрович": 5,
-      "Против всех": 6
+      "gas:candidate-vibid:361300770742": 4,
+      "gas:candidate-vibid:361300770418": 111,
+      "gas:candidate-vibid:361300770824": 7,
+      "gas:candidate-vibid:361300771082": 0,
+      "gas:candidate-vibid:1001000195130": 4,
+      "gas:candidate-vibid:1001000126646": 3,
+      "gas:candidate-vibid:361300770662": 1,
+      "gas:candidate-vibid:1001000220839": 5,
+      "special:against-all": 6
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=613007010&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=361300771786&region=0&sub_region=0&type=429",
@@ -11328,15 +11328,15 @@ export const duma_2003_uik_428_region_61_part_010 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Анпилов Виктор Иванович": 72,
-      "Катальников Владимир Дмитриевич": 694,
-      "Козицын Николай Иванович": 87,
-      "Маликов Игорь Николаевич": 11,
-      "Петриенко Вадим Алексеевич": 8,
-      "Удовиченко Юрий Иванович": 28,
-      "Усольцев Дмитрий Александрович": 11,
-      "Чернышов Виталий Петрович": 39,
-      "Против всех": 53
+      "gas:candidate-vibid:361300770742": 72,
+      "gas:candidate-vibid:361300770418": 694,
+      "gas:candidate-vibid:361300770824": 87,
+      "gas:candidate-vibid:361300771082": 11,
+      "gas:candidate-vibid:1001000195130": 8,
+      "gas:candidate-vibid:1001000126646": 28,
+      "gas:candidate-vibid:361300770662": 11,
+      "gas:candidate-vibid:1001000220839": 39,
+      "special:against-all": 53
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=613007010&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=361300771786&region=0&sub_region=0&type=429",
@@ -11386,15 +11386,15 @@ export const duma_2003_uik_428_region_61_part_010 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Анпилов Виктор Иванович": 11,
-      "Катальников Владимир Дмитриевич": 293,
-      "Козицын Николай Иванович": 13,
-      "Маликов Игорь Николаевич": 3,
-      "Петриенко Вадим Алексеевич": 0,
-      "Удовиченко Юрий Иванович": 14,
-      "Усольцев Дмитрий Александрович": 6,
-      "Чернышов Виталий Петрович": 12,
-      "Против всех": 19
+      "gas:candidate-vibid:361300770742": 11,
+      "gas:candidate-vibid:361300770418": 293,
+      "gas:candidate-vibid:361300770824": 13,
+      "gas:candidate-vibid:361300771082": 3,
+      "gas:candidate-vibid:1001000195130": 0,
+      "gas:candidate-vibid:1001000126646": 14,
+      "gas:candidate-vibid:361300770662": 6,
+      "gas:candidate-vibid:1001000220839": 12,
+      "special:against-all": 19
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=613007010&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=361300771786&region=0&sub_region=0&type=429",
@@ -11444,15 +11444,15 @@ export const duma_2003_uik_428_region_61_part_010 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Анпилов Виктор Иванович": 8,
-      "Катальников Владимир Дмитриевич": 181,
-      "Козицын Николай Иванович": 29,
-      "Маликов Игорь Николаевич": 0,
-      "Петриенко Вадим Алексеевич": 0,
-      "Удовиченко Юрий Иванович": 13,
-      "Усольцев Дмитрий Александрович": 1,
-      "Чернышов Виталий Петрович": 5,
-      "Против всех": 15
+      "gas:candidate-vibid:361300770742": 8,
+      "gas:candidate-vibid:361300770418": 181,
+      "gas:candidate-vibid:361300770824": 29,
+      "gas:candidate-vibid:361300771082": 0,
+      "gas:candidate-vibid:1001000195130": 0,
+      "gas:candidate-vibid:1001000126646": 13,
+      "gas:candidate-vibid:361300770662": 1,
+      "gas:candidate-vibid:1001000220839": 5,
+      "special:against-all": 15
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=613007010&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=361300771786&region=0&sub_region=0&type=429",
@@ -11502,15 +11502,15 @@ export const duma_2003_uik_428_region_61_part_010 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Анпилов Виктор Иванович": 26,
-      "Катальников Владимир Дмитриевич": 365,
-      "Козицын Николай Иванович": 84,
-      "Маликов Игорь Николаевич": 3,
-      "Петриенко Вадим Алексеевич": 5,
-      "Удовиченко Юрий Иванович": 25,
-      "Усольцев Дмитрий Александрович": 6,
-      "Чернышов Виталий Петрович": 25,
-      "Против всех": 38
+      "gas:candidate-vibid:361300770742": 26,
+      "gas:candidate-vibid:361300770418": 365,
+      "gas:candidate-vibid:361300770824": 84,
+      "gas:candidate-vibid:361300771082": 3,
+      "gas:candidate-vibid:1001000195130": 5,
+      "gas:candidate-vibid:1001000126646": 25,
+      "gas:candidate-vibid:361300770662": 6,
+      "gas:candidate-vibid:1001000220839": 25,
+      "special:against-all": 38
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=613007010&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=361300771786&region=0&sub_region=0&type=429",
@@ -11560,15 +11560,15 @@ export const duma_2003_uik_428_region_61_part_010 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Анпилов Виктор Иванович": 5,
-      "Катальников Владимир Дмитриевич": 238,
-      "Козицын Николай Иванович": 29,
-      "Маликов Игорь Николаевич": 7,
-      "Петриенко Вадим Алексеевич": 3,
-      "Удовиченко Юрий Иванович": 4,
-      "Усольцев Дмитрий Александрович": 1,
-      "Чернышов Виталий Петрович": 4,
-      "Против всех": 15
+      "gas:candidate-vibid:361300770742": 5,
+      "gas:candidate-vibid:361300770418": 238,
+      "gas:candidate-vibid:361300770824": 29,
+      "gas:candidate-vibid:361300771082": 7,
+      "gas:candidate-vibid:1001000195130": 3,
+      "gas:candidate-vibid:1001000126646": 4,
+      "gas:candidate-vibid:361300770662": 1,
+      "gas:candidate-vibid:1001000220839": 4,
+      "special:against-all": 15
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=613007010&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=361300771786&region=0&sub_region=0&type=429",
@@ -11618,15 +11618,15 @@ export const duma_2003_uik_428_region_61_part_010 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Анпилов Виктор Иванович": 15,
-      "Катальников Владимир Дмитриевич": 88,
-      "Козицын Николай Иванович": 23,
-      "Маликов Игорь Николаевич": 3,
-      "Петриенко Вадим Алексеевич": 1,
-      "Удовиченко Юрий Иванович": 7,
-      "Усольцев Дмитрий Александрович": 2,
-      "Чернышов Виталий Петрович": 19,
-      "Против всех": 21
+      "gas:candidate-vibid:361300770742": 15,
+      "gas:candidate-vibid:361300770418": 88,
+      "gas:candidate-vibid:361300770824": 23,
+      "gas:candidate-vibid:361300771082": 3,
+      "gas:candidate-vibid:1001000195130": 1,
+      "gas:candidate-vibid:1001000126646": 7,
+      "gas:candidate-vibid:361300770662": 2,
+      "gas:candidate-vibid:1001000220839": 19,
+      "special:against-all": 21
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=613007010&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=361300771786&region=0&sub_region=0&type=429",
@@ -11676,15 +11676,15 @@ export const duma_2003_uik_428_region_61_part_010 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Анпилов Виктор Иванович": 6,
-      "Катальников Владимир Дмитриевич": 192,
-      "Козицын Николай Иванович": 16,
-      "Маликов Игорь Николаевич": 4,
-      "Петриенко Вадим Алексеевич": 4,
-      "Удовиченко Юрий Иванович": 3,
-      "Усольцев Дмитрий Александрович": 0,
-      "Чернышов Виталий Петрович": 4,
-      "Против всех": 8
+      "gas:candidate-vibid:361300770742": 6,
+      "gas:candidate-vibid:361300770418": 192,
+      "gas:candidate-vibid:361300770824": 16,
+      "gas:candidate-vibid:361300771082": 4,
+      "gas:candidate-vibid:1001000195130": 4,
+      "gas:candidate-vibid:1001000126646": 3,
+      "gas:candidate-vibid:361300770662": 0,
+      "gas:candidate-vibid:1001000220839": 4,
+      "special:against-all": 8
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=613007010&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=361300771786&region=0&sub_region=0&type=429",
@@ -11734,15 +11734,15 @@ export const duma_2003_uik_428_region_61_part_010 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Анпилов Виктор Иванович": 0,
-      "Катальников Владимир Дмитриевич": 105,
-      "Козицын Николай Иванович": 63,
-      "Маликов Игорь Николаевич": 5,
-      "Петриенко Вадим Алексеевич": 1,
-      "Удовиченко Юрий Иванович": 0,
-      "Усольцев Дмитрий Александрович": 0,
-      "Чернышов Виталий Петрович": 4,
-      "Против всех": 17
+      "gas:candidate-vibid:361300770742": 0,
+      "gas:candidate-vibid:361300770418": 105,
+      "gas:candidate-vibid:361300770824": 63,
+      "gas:candidate-vibid:361300771082": 5,
+      "gas:candidate-vibid:1001000195130": 1,
+      "gas:candidate-vibid:1001000126646": 0,
+      "gas:candidate-vibid:361300770662": 0,
+      "gas:candidate-vibid:1001000220839": 4,
+      "special:against-all": 17
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=613007010&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=361300771786&region=0&sub_region=0&type=429",
@@ -11792,15 +11792,15 @@ export const duma_2003_uik_428_region_61_part_010 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Анпилов Виктор Иванович": 13,
-      "Катальников Владимир Дмитриевич": 180,
-      "Козицын Николай Иванович": 69,
-      "Маликов Игорь Николаевич": 8,
-      "Петриенко Вадим Алексеевич": 4,
-      "Удовиченко Юрий Иванович": 7,
-      "Усольцев Дмитрий Александрович": 3,
-      "Чернышов Виталий Петрович": 6,
-      "Против всех": 27
+      "gas:candidate-vibid:361300770742": 13,
+      "gas:candidate-vibid:361300770418": 180,
+      "gas:candidate-vibid:361300770824": 69,
+      "gas:candidate-vibid:361300771082": 8,
+      "gas:candidate-vibid:1001000195130": 4,
+      "gas:candidate-vibid:1001000126646": 7,
+      "gas:candidate-vibid:361300770662": 3,
+      "gas:candidate-vibid:1001000220839": 6,
+      "special:against-all": 27
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=613007010&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=361300771786&region=0&sub_region=0&type=429",
@@ -11850,15 +11850,15 @@ export const duma_2003_uik_428_region_61_part_010 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Анпилов Виктор Иванович": 2,
-      "Катальников Владимир Дмитриевич": 118,
-      "Козицын Николай Иванович": 61,
-      "Маликов Игорь Николаевич": 7,
-      "Петриенко Вадим Алексеевич": 2,
-      "Удовиченко Юрий Иванович": 10,
-      "Усольцев Дмитрий Александрович": 4,
-      "Чернышов Виталий Петрович": 6,
-      "Против всех": 14
+      "gas:candidate-vibid:361300770742": 2,
+      "gas:candidate-vibid:361300770418": 118,
+      "gas:candidate-vibid:361300770824": 61,
+      "gas:candidate-vibid:361300771082": 7,
+      "gas:candidate-vibid:1001000195130": 2,
+      "gas:candidate-vibid:1001000126646": 10,
+      "gas:candidate-vibid:361300770662": 4,
+      "gas:candidate-vibid:1001000220839": 6,
+      "special:against-all": 14
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=613007010&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=361300771786&region=0&sub_region=0&type=429",
@@ -11908,15 +11908,15 @@ export const duma_2003_uik_428_region_61_part_010 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Анпилов Виктор Иванович": 47,
-      "Катальников Владимир Дмитриевич": 374,
-      "Козицын Николай Иванович": 207,
-      "Маликов Игорь Николаевич": 32,
-      "Петриенко Вадим Алексеевич": 8,
-      "Удовиченко Юрий Иванович": 40,
-      "Усольцев Дмитрий Александрович": 20,
-      "Чернышов Виталий Петрович": 48,
-      "Против всех": 58
+      "gas:candidate-vibid:361300770742": 47,
+      "gas:candidate-vibid:361300770418": 374,
+      "gas:candidate-vibid:361300770824": 207,
+      "gas:candidate-vibid:361300771082": 32,
+      "gas:candidate-vibid:1001000195130": 8,
+      "gas:candidate-vibid:1001000126646": 40,
+      "gas:candidate-vibid:361300770662": 20,
+      "gas:candidate-vibid:1001000220839": 48,
+      "special:against-all": 58
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=613007010&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=361300771786&region=0&sub_region=0&type=429",
@@ -11966,15 +11966,15 @@ export const duma_2003_uik_428_region_61_part_010 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Анпилов Виктор Иванович": 4,
-      "Катальников Владимир Дмитриевич": 86,
-      "Козицын Николай Иванович": 146,
-      "Маликов Игорь Николаевич": 7,
-      "Петриенко Вадим Алексеевич": 1,
-      "Удовиченко Юрий Иванович": 8,
-      "Усольцев Дмитрий Александрович": 4,
-      "Чернышов Виталий Петрович": 7,
-      "Против всех": 21
+      "gas:candidate-vibid:361300770742": 4,
+      "gas:candidate-vibid:361300770418": 86,
+      "gas:candidate-vibid:361300770824": 146,
+      "gas:candidate-vibid:361300771082": 7,
+      "gas:candidate-vibid:1001000195130": 1,
+      "gas:candidate-vibid:1001000126646": 8,
+      "gas:candidate-vibid:361300770662": 4,
+      "gas:candidate-vibid:1001000220839": 7,
+      "special:against-all": 21
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=613007010&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=361300771786&region=0&sub_region=0&type=429",
@@ -12024,15 +12024,15 @@ export const duma_2003_uik_428_region_61_part_010 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Анпилов Виктор Иванович": 13,
-      "Катальников Владимир Дмитриевич": 96,
-      "Козицын Николай Иванович": 55,
-      "Маликов Игорь Николаевич": 5,
-      "Петриенко Вадим Алексеевич": 6,
-      "Удовиченко Юрий Иванович": 26,
-      "Усольцев Дмитрий Александрович": 8,
-      "Чернышов Виталий Петрович": 23,
-      "Против всех": 35
+      "gas:candidate-vibid:361300770742": 13,
+      "gas:candidate-vibid:361300770418": 96,
+      "gas:candidate-vibid:361300770824": 55,
+      "gas:candidate-vibid:361300771082": 5,
+      "gas:candidate-vibid:1001000195130": 6,
+      "gas:candidate-vibid:1001000126646": 26,
+      "gas:candidate-vibid:361300770662": 8,
+      "gas:candidate-vibid:1001000220839": 23,
+      "special:against-all": 35
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=613007010&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=361300771786&region=0&sub_region=0&type=429",
@@ -12082,15 +12082,15 @@ export const duma_2003_uik_428_region_61_part_010 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Анпилов Виктор Иванович": 22,
-      "Катальников Владимир Дмитриевич": 452,
-      "Козицын Николай Иванович": 123,
-      "Маликов Игорь Николаевич": 18,
-      "Петриенко Вадим Алексеевич": 7,
-      "Удовиченко Юрий Иванович": 58,
-      "Усольцев Дмитрий Александрович": 17,
-      "Чернышов Виталий Петрович": 34,
-      "Против всех": 86
+      "gas:candidate-vibid:361300770742": 22,
+      "gas:candidate-vibid:361300770418": 452,
+      "gas:candidate-vibid:361300770824": 123,
+      "gas:candidate-vibid:361300771082": 18,
+      "gas:candidate-vibid:1001000195130": 7,
+      "gas:candidate-vibid:1001000126646": 58,
+      "gas:candidate-vibid:361300770662": 17,
+      "gas:candidate-vibid:1001000220839": 34,
+      "special:against-all": 86
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=613007010&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=361300771786&region=0&sub_region=0&type=429",
@@ -12140,15 +12140,15 @@ export const duma_2003_uik_428_region_61_part_010 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Анпилов Виктор Иванович": 13,
-      "Катальников Владимир Дмитриевич": 85,
-      "Козицын Николай Иванович": 17,
-      "Маликов Игорь Николаевич": 1,
-      "Петриенко Вадим Алексеевич": 1,
-      "Удовиченко Юрий Иванович": 2,
-      "Усольцев Дмитрий Александрович": 1,
-      "Чернышов Виталий Петрович": 7,
-      "Против всех": 17
+      "gas:candidate-vibid:361300770742": 13,
+      "gas:candidate-vibid:361300770418": 85,
+      "gas:candidate-vibid:361300770824": 17,
+      "gas:candidate-vibid:361300771082": 1,
+      "gas:candidate-vibid:1001000195130": 1,
+      "gas:candidate-vibid:1001000126646": 2,
+      "gas:candidate-vibid:361300770662": 1,
+      "gas:candidate-vibid:1001000220839": 7,
+      "special:against-all": 17
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=613007010&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=361300771786&region=0&sub_region=0&type=429",
@@ -12198,15 +12198,15 @@ export const duma_2003_uik_428_region_61_part_010 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Анпилов Виктор Иванович": 60,
-      "Катальников Владимир Дмитриевич": 285,
-      "Козицын Николай Иванович": 69,
-      "Маликов Игорь Николаевич": 16,
-      "Петриенко Вадим Алексеевич": 6,
-      "Удовиченко Юрий Иванович": 11,
-      "Усольцев Дмитрий Александрович": 8,
-      "Чернышов Виталий Петрович": 16,
-      "Против всех": 67
+      "gas:candidate-vibid:361300770742": 60,
+      "gas:candidate-vibid:361300770418": 285,
+      "gas:candidate-vibid:361300770824": 69,
+      "gas:candidate-vibid:361300771082": 16,
+      "gas:candidate-vibid:1001000195130": 6,
+      "gas:candidate-vibid:1001000126646": 11,
+      "gas:candidate-vibid:361300770662": 8,
+      "gas:candidate-vibid:1001000220839": 16,
+      "special:against-all": 67
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=613007010&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=361300771786&region=0&sub_region=0&type=429",
@@ -12256,15 +12256,15 @@ export const duma_2003_uik_428_region_61_part_010 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Анпилов Виктор Иванович": 6,
-      "Катальников Владимир Дмитриевич": 65,
-      "Козицын Николай Иванович": 49,
-      "Маликов Игорь Николаевич": 2,
-      "Петриенко Вадим Алексеевич": 3,
-      "Удовиченко Юрий Иванович": 2,
-      "Усольцев Дмитрий Александрович": 3,
-      "Чернышов Виталий Петрович": 6,
-      "Против всех": 11
+      "gas:candidate-vibid:361300770742": 6,
+      "gas:candidate-vibid:361300770418": 65,
+      "gas:candidate-vibid:361300770824": 49,
+      "gas:candidate-vibid:361300771082": 2,
+      "gas:candidate-vibid:1001000195130": 3,
+      "gas:candidate-vibid:1001000126646": 2,
+      "gas:candidate-vibid:361300770662": 3,
+      "gas:candidate-vibid:1001000220839": 6,
+      "special:against-all": 11
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=613007010&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=361300771786&region=0&sub_region=0&type=429",
@@ -12314,15 +12314,15 @@ export const duma_2003_uik_428_region_61_part_010 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Анпилов Виктор Иванович": 1,
-      "Катальников Владимир Дмитриевич": 132,
-      "Козицын Николай Иванович": 7,
-      "Маликов Игорь Николаевич": 1,
-      "Петриенко Вадим Алексеевич": 0,
-      "Удовиченко Юрий Иванович": 1,
-      "Усольцев Дмитрий Александрович": 0,
-      "Чернышов Виталий Петрович": 3,
-      "Против всех": 3
+      "gas:candidate-vibid:361300770742": 1,
+      "gas:candidate-vibid:361300770418": 132,
+      "gas:candidate-vibid:361300770824": 7,
+      "gas:candidate-vibid:361300771082": 1,
+      "gas:candidate-vibid:1001000195130": 0,
+      "gas:candidate-vibid:1001000126646": 1,
+      "gas:candidate-vibid:361300770662": 0,
+      "gas:candidate-vibid:1001000220839": 3,
+      "special:against-all": 3
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=613007010&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=361300771786&region=0&sub_region=0&type=429",
@@ -12372,15 +12372,15 @@ export const duma_2003_uik_428_region_61_part_010 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Анпилов Виктор Иванович": 134,
-      "Катальников Владимир Дмитриевич": 797,
-      "Козицын Николай Иванович": 234,
-      "Маликов Игорь Николаевич": 33,
-      "Петриенко Вадим Алексеевич": 16,
-      "Удовиченко Юрий Иванович": 43,
-      "Усольцев Дмитрий Александрович": 20,
-      "Чернышов Виталий Петрович": 65,
-      "Против всех": 174
+      "gas:candidate-vibid:361300770742": 134,
+      "gas:candidate-vibid:361300770418": 797,
+      "gas:candidate-vibid:361300770824": 234,
+      "gas:candidate-vibid:361300771082": 33,
+      "gas:candidate-vibid:1001000195130": 16,
+      "gas:candidate-vibid:1001000126646": 43,
+      "gas:candidate-vibid:361300770662": 20,
+      "gas:candidate-vibid:1001000220839": 65,
+      "special:against-all": 174
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=613007011&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=361300771787&region=0&sub_region=0&type=429",
@@ -12430,15 +12430,15 @@ export const duma_2003_uik_428_region_61_part_010 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Анпилов Виктор Иванович": 120,
-      "Катальников Владимир Дмитриевич": 831,
-      "Козицын Николай Иванович": 255,
-      "Маликов Игорь Николаевич": 24,
-      "Петриенко Вадим Алексеевич": 21,
-      "Удовиченко Юрий Иванович": 43,
-      "Усольцев Дмитрий Александрович": 23,
-      "Чернышов Виталий Петрович": 71,
-      "Против всех": 148
+      "gas:candidate-vibid:361300770742": 120,
+      "gas:candidate-vibid:361300770418": 831,
+      "gas:candidate-vibid:361300770824": 255,
+      "gas:candidate-vibid:361300771082": 24,
+      "gas:candidate-vibid:1001000195130": 21,
+      "gas:candidate-vibid:1001000126646": 43,
+      "gas:candidate-vibid:361300770662": 23,
+      "gas:candidate-vibid:1001000220839": 71,
+      "special:against-all": 148
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=613007011&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=361300771787&region=0&sub_region=0&type=429",
@@ -12488,15 +12488,15 @@ export const duma_2003_uik_428_region_61_part_010 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Анпилов Виктор Иванович": 14,
-      "Катальников Владимир Дмитриевич": 194,
-      "Козицын Николай Иванович": 46,
-      "Маликов Игорь Николаевич": 3,
-      "Петриенко Вадим Алексеевич": 5,
-      "Удовиченко Юрий Иванович": 3,
-      "Усольцев Дмитрий Александрович": 3,
-      "Чернышов Виталий Петрович": 7,
-      "Против всех": 26
+      "gas:candidate-vibid:361300770742": 14,
+      "gas:candidate-vibid:361300770418": 194,
+      "gas:candidate-vibid:361300770824": 46,
+      "gas:candidate-vibid:361300771082": 3,
+      "gas:candidate-vibid:1001000195130": 5,
+      "gas:candidate-vibid:1001000126646": 3,
+      "gas:candidate-vibid:361300770662": 3,
+      "gas:candidate-vibid:1001000220839": 7,
+      "special:against-all": 26
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=613007011&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=361300771787&region=0&sub_region=0&type=429",
@@ -12546,15 +12546,15 @@ export const duma_2003_uik_428_region_61_part_010 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Анпилов Виктор Иванович": 15,
-      "Катальников Владимир Дмитриевич": 94,
-      "Козицын Николай Иванович": 67,
-      "Маликов Игорь Николаевич": 6,
-      "Петриенко Вадим Алексеевич": 5,
-      "Удовиченко Юрий Иванович": 11,
-      "Усольцев Дмитрий Александрович": 6,
-      "Чернышов Виталий Петрович": 13,
-      "Против всех": 24
+      "gas:candidate-vibid:361300770742": 15,
+      "gas:candidate-vibid:361300770418": 94,
+      "gas:candidate-vibid:361300770824": 67,
+      "gas:candidate-vibid:361300771082": 6,
+      "gas:candidate-vibid:1001000195130": 5,
+      "gas:candidate-vibid:1001000126646": 11,
+      "gas:candidate-vibid:361300770662": 6,
+      "gas:candidate-vibid:1001000220839": 13,
+      "special:against-all": 24
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=613007011&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=361300771787&region=0&sub_region=0&type=429",
@@ -12604,15 +12604,15 @@ export const duma_2003_uik_428_region_61_part_010 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Анпилов Виктор Иванович": 12,
-      "Катальников Владимир Дмитриевич": 139,
-      "Козицын Николай Иванович": 26,
-      "Маликов Игорь Николаевич": 2,
-      "Петриенко Вадим Алексеевич": 5,
-      "Удовиченко Юрий Иванович": 1,
-      "Усольцев Дмитрий Александрович": 2,
-      "Чернышов Виталий Петрович": 5,
-      "Против всех": 26
+      "gas:candidate-vibid:361300770742": 12,
+      "gas:candidate-vibid:361300770418": 139,
+      "gas:candidate-vibid:361300770824": 26,
+      "gas:candidate-vibid:361300771082": 2,
+      "gas:candidate-vibid:1001000195130": 5,
+      "gas:candidate-vibid:1001000126646": 1,
+      "gas:candidate-vibid:361300770662": 2,
+      "gas:candidate-vibid:1001000220839": 5,
+      "special:against-all": 26
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=613007011&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=361300771787&region=0&sub_region=0&type=429",
@@ -12662,15 +12662,15 @@ export const duma_2003_uik_428_region_61_part_010 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Анпилов Виктор Иванович": 30,
-      "Катальников Владимир Дмитриевич": 321,
-      "Козицын Николай Иванович": 189,
-      "Маликов Игорь Николаевич": 9,
-      "Петриенко Вадим Алексеевич": 13,
-      "Удовиченко Юрий Иванович": 47,
-      "Усольцев Дмитрий Александрович": 12,
-      "Чернышов Виталий Петрович": 27,
-      "Против всех": 89
+      "gas:candidate-vibid:361300770742": 30,
+      "gas:candidate-vibid:361300770418": 321,
+      "gas:candidate-vibid:361300770824": 189,
+      "gas:candidate-vibid:361300771082": 9,
+      "gas:candidate-vibid:1001000195130": 13,
+      "gas:candidate-vibid:1001000126646": 47,
+      "gas:candidate-vibid:361300770662": 12,
+      "gas:candidate-vibid:1001000220839": 27,
+      "special:against-all": 89
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=613007011&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=361300771787&region=0&sub_region=0&type=429",
@@ -12720,15 +12720,15 @@ export const duma_2003_uik_428_region_61_part_010 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Анпилов Виктор Иванович": 92,
-      "Катальников Владимир Дмитриевич": 220,
-      "Козицын Николай Иванович": 71,
-      "Маликов Игорь Николаевич": 7,
-      "Петриенко Вадим Алексеевич": 5,
-      "Удовиченко Юрий Иванович": 12,
-      "Усольцев Дмитрий Александрович": 6,
-      "Чернышов Виталий Петрович": 15,
-      "Против всех": 29
+      "gas:candidate-vibid:361300770742": 92,
+      "gas:candidate-vibid:361300770418": 220,
+      "gas:candidate-vibid:361300770824": 71,
+      "gas:candidate-vibid:361300771082": 7,
+      "gas:candidate-vibid:1001000195130": 5,
+      "gas:candidate-vibid:1001000126646": 12,
+      "gas:candidate-vibid:361300770662": 6,
+      "gas:candidate-vibid:1001000220839": 15,
+      "special:against-all": 29
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=613007011&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=361300771787&region=0&sub_region=0&type=429",
@@ -12778,15 +12778,15 @@ export const duma_2003_uik_428_region_61_part_010 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Анпилов Виктор Иванович": 17,
-      "Катальников Владимир Дмитриевич": 207,
-      "Козицын Николай Иванович": 78,
-      "Маликов Игорь Николаевич": 2,
-      "Петриенко Вадим Алексеевич": 5,
-      "Удовиченко Юрий Иванович": 9,
-      "Усольцев Дмитрий Александрович": 0,
-      "Чернышов Виталий Петрович": 10,
-      "Против всех": 38
+      "gas:candidate-vibid:361300770742": 17,
+      "gas:candidate-vibid:361300770418": 207,
+      "gas:candidate-vibid:361300770824": 78,
+      "gas:candidate-vibid:361300771082": 2,
+      "gas:candidate-vibid:1001000195130": 5,
+      "gas:candidate-vibid:1001000126646": 9,
+      "gas:candidate-vibid:361300770662": 0,
+      "gas:candidate-vibid:1001000220839": 10,
+      "special:against-all": 38
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=613007011&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=361300771787&region=0&sub_region=0&type=429",
@@ -12836,15 +12836,15 @@ export const duma_2003_uik_428_region_61_part_010 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Анпилов Виктор Иванович": 4,
-      "Катальников Владимир Дмитриевич": 80,
-      "Козицын Николай Иванович": 43,
-      "Маликов Игорь Николаевич": 5,
-      "Петриенко Вадим Алексеевич": 3,
-      "Удовиченко Юрий Иванович": 3,
-      "Усольцев Дмитрий Александрович": 2,
-      "Чернышов Виталий Петрович": 7,
-      "Против всех": 13
+      "gas:candidate-vibid:361300770742": 4,
+      "gas:candidate-vibid:361300770418": 80,
+      "gas:candidate-vibid:361300770824": 43,
+      "gas:candidate-vibid:361300771082": 5,
+      "gas:candidate-vibid:1001000195130": 3,
+      "gas:candidate-vibid:1001000126646": 3,
+      "gas:candidate-vibid:361300770662": 2,
+      "gas:candidate-vibid:1001000220839": 7,
+      "special:against-all": 13
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=613007011&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=361300771787&region=0&sub_region=0&type=429",
@@ -12894,15 +12894,15 @@ export const duma_2003_uik_428_region_61_part_010 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Анпилов Виктор Иванович": 39,
-      "Катальников Владимир Дмитриевич": 351,
-      "Козицын Николай Иванович": 96,
-      "Маликов Игорь Николаевич": 12,
-      "Петриенко Вадим Алексеевич": 11,
-      "Удовиченко Юрий Иванович": 14,
-      "Усольцев Дмитрий Александрович": 5,
-      "Чернышов Виталий Петрович": 24,
-      "Против всех": 49
+      "gas:candidate-vibid:361300770742": 39,
+      "gas:candidate-vibid:361300770418": 351,
+      "gas:candidate-vibid:361300770824": 96,
+      "gas:candidate-vibid:361300771082": 12,
+      "gas:candidate-vibid:1001000195130": 11,
+      "gas:candidate-vibid:1001000126646": 14,
+      "gas:candidate-vibid:361300770662": 5,
+      "gas:candidate-vibid:1001000220839": 24,
+      "special:against-all": 49
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=613007011&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=361300771787&region=0&sub_region=0&type=429",
@@ -12952,15 +12952,15 @@ export const duma_2003_uik_428_region_61_part_010 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Анпилов Виктор Иванович": 38,
-      "Катальников Владимир Дмитриевич": 169,
-      "Козицын Николай Иванович": 111,
-      "Маликов Игорь Николаевич": 9,
-      "Петриенко Вадим Алексеевич": 8,
-      "Удовиченко Юрий Иванович": 28,
-      "Усольцев Дмитрий Александрович": 6,
-      "Чернышов Виталий Петрович": 22,
-      "Против всех": 41
+      "gas:candidate-vibid:361300770742": 38,
+      "gas:candidate-vibid:361300770418": 169,
+      "gas:candidate-vibid:361300770824": 111,
+      "gas:candidate-vibid:361300771082": 9,
+      "gas:candidate-vibid:1001000195130": 8,
+      "gas:candidate-vibid:1001000126646": 28,
+      "gas:candidate-vibid:361300770662": 6,
+      "gas:candidate-vibid:1001000220839": 22,
+      "special:against-all": 41
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=613007011&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=361300771787&region=0&sub_region=0&type=429",
@@ -13010,15 +13010,15 @@ export const duma_2003_uik_428_region_61_part_010 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Анпилов Виктор Иванович": 3,
-      "Катальников Владимир Дмитриевич": 47,
-      "Козицын Николай Иванович": 14,
-      "Маликов Игорь Николаевич": 2,
-      "Петриенко Вадим Алексеевич": 2,
-      "Удовиченко Юрий Иванович": 2,
-      "Усольцев Дмитрий Александрович": 1,
-      "Чернышов Виталий Петрович": 3,
-      "Против всех": 28
+      "gas:candidate-vibid:361300770742": 3,
+      "gas:candidate-vibid:361300770418": 47,
+      "gas:candidate-vibid:361300770824": 14,
+      "gas:candidate-vibid:361300771082": 2,
+      "gas:candidate-vibid:1001000195130": 2,
+      "gas:candidate-vibid:1001000126646": 2,
+      "gas:candidate-vibid:361300770662": 1,
+      "gas:candidate-vibid:1001000220839": 3,
+      "special:against-all": 28
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=613007011&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=361300771787&region=0&sub_region=0&type=429",
@@ -13068,15 +13068,15 @@ export const duma_2003_uik_428_region_61_part_010 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Анпилов Виктор Иванович": 10,
-      "Катальников Владимир Дмитриевич": 31,
-      "Козицын Николай Иванович": 34,
-      "Маликов Игорь Николаевич": 0,
-      "Петриенко Вадим Алексеевич": 1,
-      "Удовиченко Юрий Иванович": 2,
-      "Усольцев Дмитрий Александрович": 4,
-      "Чернышов Виталий Петрович": 1,
-      "Против всех": 8
+      "gas:candidate-vibid:361300770742": 10,
+      "gas:candidate-vibid:361300770418": 31,
+      "gas:candidate-vibid:361300770824": 34,
+      "gas:candidate-vibid:361300771082": 0,
+      "gas:candidate-vibid:1001000195130": 1,
+      "gas:candidate-vibid:1001000126646": 2,
+      "gas:candidate-vibid:361300770662": 4,
+      "gas:candidate-vibid:1001000220839": 1,
+      "special:against-all": 8
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=613007011&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=361300771787&region=0&sub_region=0&type=429",
@@ -13126,15 +13126,15 @@ export const duma_2003_uik_428_region_61_part_010 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Анпилов Виктор Иванович": 27,
-      "Катальников Владимир Дмитриевич": 139,
-      "Козицын Николай Иванович": 40,
-      "Маликов Игорь Николаевич": 3,
-      "Петриенко Вадим Алексеевич": 2,
-      "Удовиченко Юрий Иванович": 0,
-      "Усольцев Дмитрий Александрович": 3,
-      "Чернышов Виталий Петрович": 14,
-      "Против всех": 19
+      "gas:candidate-vibid:361300770742": 27,
+      "gas:candidate-vibid:361300770418": 139,
+      "gas:candidate-vibid:361300770824": 40,
+      "gas:candidate-vibid:361300771082": 3,
+      "gas:candidate-vibid:1001000195130": 2,
+      "gas:candidate-vibid:1001000126646": 0,
+      "gas:candidate-vibid:361300770662": 3,
+      "gas:candidate-vibid:1001000220839": 14,
+      "special:against-all": 19
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=613007011&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=361300771787&region=0&sub_region=0&type=429",
@@ -13184,15 +13184,15 @@ export const duma_2003_uik_428_region_61_part_010 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Анпилов Виктор Иванович": 9,
-      "Катальников Владимир Дмитриевич": 73,
-      "Козицын Николай Иванович": 13,
-      "Маликов Игорь Николаевич": 2,
-      "Петриенко Вадим Алексеевич": 2,
-      "Удовиченко Юрий Иванович": 2,
-      "Усольцев Дмитрий Александрович": 1,
-      "Чернышов Виталий Петрович": 3,
-      "Против всех": 4
+      "gas:candidate-vibid:361300770742": 9,
+      "gas:candidate-vibid:361300770418": 73,
+      "gas:candidate-vibid:361300770824": 13,
+      "gas:candidate-vibid:361300771082": 2,
+      "gas:candidate-vibid:1001000195130": 2,
+      "gas:candidate-vibid:1001000126646": 2,
+      "gas:candidate-vibid:361300770662": 1,
+      "gas:candidate-vibid:1001000220839": 3,
+      "special:against-all": 4
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=613007011&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=361300771787&region=0&sub_region=0&type=429",
@@ -13242,15 +13242,15 @@ export const duma_2003_uik_428_region_61_part_010 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Анпилов Виктор Иванович": 8,
-      "Катальников Владимир Дмитриевич": 43,
-      "Козицын Николай Иванович": 15,
-      "Маликов Игорь Николаевич": 6,
-      "Петриенко Вадим Алексеевич": 3,
-      "Удовиченко Юрий Иванович": 6,
-      "Усольцев Дмитрий Александрович": 1,
-      "Чернышов Виталий Петрович": 9,
-      "Против всех": 6
+      "gas:candidate-vibid:361300770742": 8,
+      "gas:candidate-vibid:361300770418": 43,
+      "gas:candidate-vibid:361300770824": 15,
+      "gas:candidate-vibid:361300771082": 6,
+      "gas:candidate-vibid:1001000195130": 3,
+      "gas:candidate-vibid:1001000126646": 6,
+      "gas:candidate-vibid:361300770662": 1,
+      "gas:candidate-vibid:1001000220839": 9,
+      "special:against-all": 6
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=613007011&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=361300771787&region=0&sub_region=0&type=429",
@@ -13300,15 +13300,15 @@ export const duma_2003_uik_428_region_61_part_010 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Анпилов Виктор Иванович": 64,
-      "Катальников Владимир Дмитриевич": 493,
-      "Козицын Николай Иванович": 48,
-      "Маликов Игорь Николаевич": 15,
-      "Петриенко Вадим Алексеевич": 11,
-      "Удовиченко Юрий Иванович": 23,
-      "Усольцев Дмитрий Александрович": 10,
-      "Чернышов Виталий Петрович": 29,
-      "Против всех": 93
+      "gas:candidate-vibid:361300770742": 64,
+      "gas:candidate-vibid:361300770418": 493,
+      "gas:candidate-vibid:361300770824": 48,
+      "gas:candidate-vibid:361300771082": 15,
+      "gas:candidate-vibid:1001000195130": 11,
+      "gas:candidate-vibid:1001000126646": 23,
+      "gas:candidate-vibid:361300770662": 10,
+      "gas:candidate-vibid:1001000220839": 29,
+      "special:against-all": 93
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=613007012&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=361300771788&region=0&sub_region=0&type=429",
@@ -13358,15 +13358,15 @@ export const duma_2003_uik_428_region_61_part_010 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Анпилов Виктор Иванович": 77,
-      "Катальников Владимир Дмитриевич": 392,
-      "Козицын Николай Иванович": 50,
-      "Маликов Игорь Николаевич": 22,
-      "Петриенко Вадим Алексеевич": 7,
-      "Удовиченко Юрий Иванович": 26,
-      "Усольцев Дмитрий Александрович": 5,
-      "Чернышов Виталий Петрович": 40,
-      "Против всех": 91
+      "gas:candidate-vibid:361300770742": 77,
+      "gas:candidate-vibid:361300770418": 392,
+      "gas:candidate-vibid:361300770824": 50,
+      "gas:candidate-vibid:361300771082": 22,
+      "gas:candidate-vibid:1001000195130": 7,
+      "gas:candidate-vibid:1001000126646": 26,
+      "gas:candidate-vibid:361300770662": 5,
+      "gas:candidate-vibid:1001000220839": 40,
+      "special:against-all": 91
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=613007012&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=361300771788&region=0&sub_region=0&type=429",
@@ -13416,15 +13416,15 @@ export const duma_2003_uik_428_region_61_part_010 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Анпилов Виктор Иванович": 49,
-      "Катальников Владимир Дмитриевич": 477,
-      "Козицын Николай Иванович": 38,
-      "Маликов Игорь Николаевич": 16,
-      "Петриенко Вадим Алексеевич": 4,
-      "Удовиченко Юрий Иванович": 39,
-      "Усольцев Дмитрий Александрович": 9,
-      "Чернышов Виталий Петрович": 20,
-      "Против всех": 86
+      "gas:candidate-vibid:361300770742": 49,
+      "gas:candidate-vibid:361300770418": 477,
+      "gas:candidate-vibid:361300770824": 38,
+      "gas:candidate-vibid:361300771082": 16,
+      "gas:candidate-vibid:1001000195130": 4,
+      "gas:candidate-vibid:1001000126646": 39,
+      "gas:candidate-vibid:361300770662": 9,
+      "gas:candidate-vibid:1001000220839": 20,
+      "special:against-all": 86
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=613007012&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=361300771788&region=0&sub_region=0&type=429",
@@ -13474,15 +13474,15 @@ export const duma_2003_uik_428_region_61_part_010 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Анпилов Виктор Иванович": 25,
-      "Катальников Владимир Дмитриевич": 278,
-      "Козицын Николай Иванович": 20,
-      "Маликов Игорь Николаевич": 4,
-      "Петриенко Вадим Алексеевич": 2,
-      "Удовиченко Юрий Иванович": 12,
-      "Усольцев Дмитрий Александрович": 1,
-      "Чернышов Виталий Петрович": 6,
-      "Против всех": 43
+      "gas:candidate-vibid:361300770742": 25,
+      "gas:candidate-vibid:361300770418": 278,
+      "gas:candidate-vibid:361300770824": 20,
+      "gas:candidate-vibid:361300771082": 4,
+      "gas:candidate-vibid:1001000195130": 2,
+      "gas:candidate-vibid:1001000126646": 12,
+      "gas:candidate-vibid:361300770662": 1,
+      "gas:candidate-vibid:1001000220839": 6,
+      "special:against-all": 43
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=613007012&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=361300771788&region=0&sub_region=0&type=429",
@@ -13532,15 +13532,15 @@ export const duma_2003_uik_428_region_61_part_010 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Анпилов Виктор Иванович": 33,
-      "Катальников Владимир Дмитриевич": 394,
-      "Козицын Николай Иванович": 38,
-      "Маликов Игорь Николаевич": 11,
-      "Петриенко Вадим Алексеевич": 2,
-      "Удовиченко Юрий Иванович": 33,
-      "Усольцев Дмитрий Александрович": 4,
-      "Чернышов Виталий Петрович": 20,
-      "Против всех": 71
+      "gas:candidate-vibid:361300770742": 33,
+      "gas:candidate-vibid:361300770418": 394,
+      "gas:candidate-vibid:361300770824": 38,
+      "gas:candidate-vibid:361300771082": 11,
+      "gas:candidate-vibid:1001000195130": 2,
+      "gas:candidate-vibid:1001000126646": 33,
+      "gas:candidate-vibid:361300770662": 4,
+      "gas:candidate-vibid:1001000220839": 20,
+      "special:against-all": 71
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=613007012&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=361300771788&region=0&sub_region=0&type=429",
@@ -13590,15 +13590,15 @@ export const duma_2003_uik_428_region_61_part_010 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Анпилов Виктор Иванович": 26,
-      "Катальников Владимир Дмитриевич": 266,
-      "Козицын Николай Иванович": 19,
-      "Маликов Игорь Николаевич": 12,
-      "Петриенко Вадим Алексеевич": 5,
-      "Удовиченко Юрий Иванович": 11,
-      "Усольцев Дмитрий Александрович": 5,
-      "Чернышов Виталий Петрович": 16,
-      "Против всех": 54
+      "gas:candidate-vibid:361300770742": 26,
+      "gas:candidate-vibid:361300770418": 266,
+      "gas:candidate-vibid:361300770824": 19,
+      "gas:candidate-vibid:361300771082": 12,
+      "gas:candidate-vibid:1001000195130": 5,
+      "gas:candidate-vibid:1001000126646": 11,
+      "gas:candidate-vibid:361300770662": 5,
+      "gas:candidate-vibid:1001000220839": 16,
+      "special:against-all": 54
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=613007012&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=361300771788&region=0&sub_region=0&type=429",
@@ -13648,15 +13648,15 @@ export const duma_2003_uik_428_region_61_part_010 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Анпилов Виктор Иванович": 41,
-      "Катальников Владимир Дмитриевич": 310,
-      "Козицын Николай Иванович": 49,
-      "Маликов Игорь Николаевич": 14,
-      "Петриенко Вадим Алексеевич": 5,
-      "Удовиченко Юрий Иванович": 18,
-      "Усольцев Дмитрий Александрович": 3,
-      "Чернышов Виталий Петрович": 19,
-      "Против всех": 98
+      "gas:candidate-vibid:361300770742": 41,
+      "gas:candidate-vibid:361300770418": 310,
+      "gas:candidate-vibid:361300770824": 49,
+      "gas:candidate-vibid:361300771082": 14,
+      "gas:candidate-vibid:1001000195130": 5,
+      "gas:candidate-vibid:1001000126646": 18,
+      "gas:candidate-vibid:361300770662": 3,
+      "gas:candidate-vibid:1001000220839": 19,
+      "special:against-all": 98
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=613007012&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=361300771788&region=0&sub_region=0&type=429",
@@ -13706,15 +13706,15 @@ export const duma_2003_uik_428_region_61_part_010 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Анпилов Виктор Иванович": 41,
-      "Катальников Владимир Дмитриевич": 294,
-      "Козицын Николай Иванович": 40,
-      "Маликов Игорь Николаевич": 8,
-      "Петриенко Вадим Алексеевич": 5,
-      "Удовиченко Юрий Иванович": 21,
-      "Усольцев Дмитрий Александрович": 1,
-      "Чернышов Виталий Петрович": 23,
-      "Против всех": 68
+      "gas:candidate-vibid:361300770742": 41,
+      "gas:candidate-vibid:361300770418": 294,
+      "gas:candidate-vibid:361300770824": 40,
+      "gas:candidate-vibid:361300771082": 8,
+      "gas:candidate-vibid:1001000195130": 5,
+      "gas:candidate-vibid:1001000126646": 21,
+      "gas:candidate-vibid:361300770662": 1,
+      "gas:candidate-vibid:1001000220839": 23,
+      "special:against-all": 68
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=613007012&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=361300771788&region=0&sub_region=0&type=429",
@@ -13764,15 +13764,15 @@ export const duma_2003_uik_428_region_61_part_010 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Анпилов Виктор Иванович": 23,
-      "Катальников Владимир Дмитриевич": 309,
-      "Козицын Николай Иванович": 17,
-      "Маликов Игорь Николаевич": 9,
-      "Петриенко Вадим Алексеевич": 1,
-      "Удовиченко Юрий Иванович": 12,
-      "Усольцев Дмитрий Александрович": 5,
-      "Чернышов Виталий Петрович": 12,
-      "Против всех": 17
+      "gas:candidate-vibid:361300770742": 23,
+      "gas:candidate-vibid:361300770418": 309,
+      "gas:candidate-vibid:361300770824": 17,
+      "gas:candidate-vibid:361300771082": 9,
+      "gas:candidate-vibid:1001000195130": 1,
+      "gas:candidate-vibid:1001000126646": 12,
+      "gas:candidate-vibid:361300770662": 5,
+      "gas:candidate-vibid:1001000220839": 12,
+      "special:against-all": 17
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=613007012&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=361300771788&region=0&sub_region=0&type=429",
@@ -13822,15 +13822,15 @@ export const duma_2003_uik_428_region_61_part_010 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Анпилов Виктор Иванович": 40,
-      "Катальников Владимир Дмитриевич": 843,
-      "Козицын Николай Иванович": 29,
-      "Маликов Игорь Николаевич": 10,
-      "Петриенко Вадим Алексеевич": 2,
-      "Удовиченко Юрий Иванович": 18,
-      "Усольцев Дмитрий Александрович": 5,
-      "Чернышов Виталий Петрович": 10,
-      "Против всех": 67
+      "gas:candidate-vibid:361300770742": 40,
+      "gas:candidate-vibid:361300770418": 843,
+      "gas:candidate-vibid:361300770824": 29,
+      "gas:candidate-vibid:361300771082": 10,
+      "gas:candidate-vibid:1001000195130": 2,
+      "gas:candidate-vibid:1001000126646": 18,
+      "gas:candidate-vibid:361300770662": 5,
+      "gas:candidate-vibid:1001000220839": 10,
+      "special:against-all": 67
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=613007012&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=361300771788&region=0&sub_region=0&type=429",
@@ -13880,15 +13880,15 @@ export const duma_2003_uik_428_region_61_part_010 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Анпилов Виктор Иванович": 37,
-      "Катальников Владимир Дмитриевич": 580,
-      "Козицын Николай Иванович": 33,
-      "Маликов Игорь Николаевич": 8,
-      "Петриенко Вадим Алексеевич": 6,
-      "Удовиченко Юрий Иванович": 25,
-      "Усольцев Дмитрий Александрович": 6,
-      "Чернышов Виталий Петрович": 15,
-      "Против всех": 36
+      "gas:candidate-vibid:361300770742": 37,
+      "gas:candidate-vibid:361300770418": 580,
+      "gas:candidate-vibid:361300770824": 33,
+      "gas:candidate-vibid:361300771082": 8,
+      "gas:candidate-vibid:1001000195130": 6,
+      "gas:candidate-vibid:1001000126646": 25,
+      "gas:candidate-vibid:361300770662": 6,
+      "gas:candidate-vibid:1001000220839": 15,
+      "special:against-all": 36
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=613007012&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=361300771788&region=0&sub_region=0&type=429",
@@ -13938,15 +13938,15 @@ export const duma_2003_uik_428_region_61_part_010 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Анпилов Виктор Иванович": 35,
-      "Катальников Владимир Дмитриевич": 451,
-      "Козицын Николай Иванович": 37,
-      "Маликов Игорь Николаевич": 12,
-      "Петриенко Вадим Алексеевич": 8,
-      "Удовиченко Юрий Иванович": 7,
-      "Усольцев Дмитрий Александрович": 2,
-      "Чернышов Виталий Петрович": 17,
-      "Против всех": 60
+      "gas:candidate-vibid:361300770742": 35,
+      "gas:candidate-vibid:361300770418": 451,
+      "gas:candidate-vibid:361300770824": 37,
+      "gas:candidate-vibid:361300771082": 12,
+      "gas:candidate-vibid:1001000195130": 8,
+      "gas:candidate-vibid:1001000126646": 7,
+      "gas:candidate-vibid:361300770662": 2,
+      "gas:candidate-vibid:1001000220839": 17,
+      "special:against-all": 60
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=613007012&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=361300771788&region=0&sub_region=0&type=429",
@@ -13996,15 +13996,15 @@ export const duma_2003_uik_428_region_61_part_010 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Анпилов Виктор Иванович": 32,
-      "Катальников Владимир Дмитриевич": 551,
-      "Козицын Николай Иванович": 46,
-      "Маликов Игорь Николаевич": 28,
-      "Петриенко Вадим Алексеевич": 4,
-      "Удовиченко Юрий Иванович": 22,
-      "Усольцев Дмитрий Александрович": 11,
-      "Чернышов Виталий Петрович": 25,
-      "Против всех": 75
+      "gas:candidate-vibid:361300770742": 32,
+      "gas:candidate-vibid:361300770418": 551,
+      "gas:candidate-vibid:361300770824": 46,
+      "gas:candidate-vibid:361300771082": 28,
+      "gas:candidate-vibid:1001000195130": 4,
+      "gas:candidate-vibid:1001000126646": 22,
+      "gas:candidate-vibid:361300770662": 11,
+      "gas:candidate-vibid:1001000220839": 25,
+      "special:against-all": 75
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=613007012&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=361300771788&region=0&sub_region=0&type=429",
@@ -14054,15 +14054,15 @@ export const duma_2003_uik_428_region_61_part_010 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Анпилов Виктор Иванович": 55,
-      "Катальников Владимир Дмитриевич": 431,
-      "Козицын Николай Иванович": 33,
-      "Маликов Игорь Николаевич": 8,
-      "Петриенко Вадим Алексеевич": 3,
-      "Удовиченко Юрий Иванович": 17,
-      "Усольцев Дмитрий Александрович": 3,
-      "Чернышов Виталий Петрович": 30,
-      "Против всех": 64
+      "gas:candidate-vibid:361300770742": 55,
+      "gas:candidate-vibid:361300770418": 431,
+      "gas:candidate-vibid:361300770824": 33,
+      "gas:candidate-vibid:361300771082": 8,
+      "gas:candidate-vibid:1001000195130": 3,
+      "gas:candidate-vibid:1001000126646": 17,
+      "gas:candidate-vibid:361300770662": 3,
+      "gas:candidate-vibid:1001000220839": 30,
+      "special:against-all": 64
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=613007012&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=361300771788&region=0&sub_region=0&type=429",
@@ -14112,15 +14112,15 @@ export const duma_2003_uik_428_region_61_part_010 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Анпилов Виктор Иванович": 59,
-      "Катальников Владимир Дмитриевич": 592,
-      "Козицын Николай Иванович": 90,
-      "Маликов Игорь Николаевич": 22,
-      "Петриенко Вадим Алексеевич": 7,
-      "Удовиченко Юрий Иванович": 23,
-      "Усольцев Дмитрий Александрович": 10,
-      "Чернышов Виталий Петрович": 31,
-      "Против всех": 112
+      "gas:candidate-vibid:361300770742": 59,
+      "gas:candidate-vibid:361300770418": 592,
+      "gas:candidate-vibid:361300770824": 90,
+      "gas:candidate-vibid:361300771082": 22,
+      "gas:candidate-vibid:1001000195130": 7,
+      "gas:candidate-vibid:1001000126646": 23,
+      "gas:candidate-vibid:361300770662": 10,
+      "gas:candidate-vibid:1001000220839": 31,
+      "special:against-all": 112
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=613007012&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=361300771788&region=0&sub_region=0&type=429",
@@ -14170,15 +14170,15 @@ export const duma_2003_uik_428_region_61_part_010 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Анпилов Виктор Иванович": 55,
-      "Катальников Владимир Дмитриевич": 739,
-      "Козицын Николай Иванович": 111,
-      "Маликов Игорь Николаевич": 20,
-      "Петриенко Вадим Алексеевич": 7,
-      "Удовиченко Юрий Иванович": 47,
-      "Усольцев Дмитрий Александрович": 8,
-      "Чернышов Виталий Петрович": 33,
-      "Против всех": 107
+      "gas:candidate-vibid:361300770742": 55,
+      "gas:candidate-vibid:361300770418": 739,
+      "gas:candidate-vibid:361300770824": 111,
+      "gas:candidate-vibid:361300771082": 20,
+      "gas:candidate-vibid:1001000195130": 7,
+      "gas:candidate-vibid:1001000126646": 47,
+      "gas:candidate-vibid:361300770662": 8,
+      "gas:candidate-vibid:1001000220839": 33,
+      "special:against-all": 107
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=613007012&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=361300771788&region=0&sub_region=0&type=429",
@@ -14228,15 +14228,15 @@ export const duma_2003_uik_428_region_61_part_010 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Анпилов Виктор Иванович": 37,
-      "Катальников Владимир Дмитриевич": 577,
-      "Козицын Николай Иванович": 43,
-      "Маликов Игорь Николаевич": 21,
-      "Петриенко Вадим Алексеевич": 4,
-      "Удовиченко Юрий Иванович": 23,
-      "Усольцев Дмитрий Александрович": 3,
-      "Чернышов Виталий Петрович": 8,
-      "Против всех": 48
+      "gas:candidate-vibid:361300770742": 37,
+      "gas:candidate-vibid:361300770418": 577,
+      "gas:candidate-vibid:361300770824": 43,
+      "gas:candidate-vibid:361300771082": 21,
+      "gas:candidate-vibid:1001000195130": 4,
+      "gas:candidate-vibid:1001000126646": 23,
+      "gas:candidate-vibid:361300770662": 3,
+      "gas:candidate-vibid:1001000220839": 8,
+      "special:against-all": 48
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=613007012&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=361300771788&region=0&sub_region=0&type=429",
@@ -14286,15 +14286,15 @@ export const duma_2003_uik_428_region_61_part_010 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Анпилов Виктор Иванович": 50,
-      "Катальников Владимир Дмитриевич": 568,
-      "Козицын Николай Иванович": 27,
-      "Маликов Игорь Николаевич": 12,
-      "Петриенко Вадим Алексеевич": 2,
-      "Удовиченко Юрий Иванович": 22,
-      "Усольцев Дмитрий Александрович": 3,
-      "Чернышов Виталий Петрович": 13,
-      "Против всех": 58
+      "gas:candidate-vibid:361300770742": 50,
+      "gas:candidate-vibid:361300770418": 568,
+      "gas:candidate-vibid:361300770824": 27,
+      "gas:candidate-vibid:361300771082": 12,
+      "gas:candidate-vibid:1001000195130": 2,
+      "gas:candidate-vibid:1001000126646": 22,
+      "gas:candidate-vibid:361300770662": 3,
+      "gas:candidate-vibid:1001000220839": 13,
+      "special:against-all": 58
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=613007012&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=361300771788&region=0&sub_region=0&type=429",
@@ -14344,15 +14344,15 @@ export const duma_2003_uik_428_region_61_part_010 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Анпилов Виктор Иванович": 37,
-      "Катальников Владимир Дмитриевич": 386,
-      "Козицын Николай Иванович": 70,
-      "Маликов Игорь Николаевич": 6,
-      "Петриенко Вадим Алексеевич": 0,
-      "Удовиченко Юрий Иванович": 20,
-      "Усольцев Дмитрий Александрович": 4,
-      "Чернышов Виталий Петрович": 22,
-      "Против всех": 71
+      "gas:candidate-vibid:361300770742": 37,
+      "gas:candidate-vibid:361300770418": 386,
+      "gas:candidate-vibid:361300770824": 70,
+      "gas:candidate-vibid:361300771082": 6,
+      "gas:candidate-vibid:1001000195130": 0,
+      "gas:candidate-vibid:1001000126646": 20,
+      "gas:candidate-vibid:361300770662": 4,
+      "gas:candidate-vibid:1001000220839": 22,
+      "special:against-all": 71
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=613007012&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=361300771788&region=0&sub_region=0&type=429",
@@ -14402,15 +14402,15 @@ export const duma_2003_uik_428_region_61_part_010 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Анпилов Виктор Иванович": 83,
-      "Катальников Владимир Дмитриевич": 444,
-      "Козицын Николай Иванович": 69,
-      "Маликов Игорь Николаевич": 10,
-      "Петриенко Вадим Алексеевич": 5,
-      "Удовиченко Юрий Иванович": 21,
-      "Усольцев Дмитрий Александрович": 7,
-      "Чернышов Виталий Петрович": 29,
-      "Против всех": 110
+      "gas:candidate-vibid:361300770742": 83,
+      "gas:candidate-vibid:361300770418": 444,
+      "gas:candidate-vibid:361300770824": 69,
+      "gas:candidate-vibid:361300771082": 10,
+      "gas:candidate-vibid:1001000195130": 5,
+      "gas:candidate-vibid:1001000126646": 21,
+      "gas:candidate-vibid:361300770662": 7,
+      "gas:candidate-vibid:1001000220839": 29,
+      "special:against-all": 110
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=613007012&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=361300771788&region=0&sub_region=0&type=429",
@@ -14460,15 +14460,15 @@ export const duma_2003_uik_428_region_61_part_010 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Анпилов Виктор Иванович": 59,
-      "Катальников Владимир Дмитриевич": 467,
-      "Козицын Николай Иванович": 40,
-      "Маликов Игорь Николаевич": 10,
-      "Петриенко Вадим Алексеевич": 4,
-      "Удовиченко Юрий Иванович": 31,
-      "Усольцев Дмитрий Александрович": 4,
-      "Чернышов Виталий Петрович": 13,
-      "Против всех": 51
+      "gas:candidate-vibid:361300770742": 59,
+      "gas:candidate-vibid:361300770418": 467,
+      "gas:candidate-vibid:361300770824": 40,
+      "gas:candidate-vibid:361300771082": 10,
+      "gas:candidate-vibid:1001000195130": 4,
+      "gas:candidate-vibid:1001000126646": 31,
+      "gas:candidate-vibid:361300770662": 4,
+      "gas:candidate-vibid:1001000220839": 13,
+      "special:against-all": 51
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=613007012&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=361300771788&region=0&sub_region=0&type=429",

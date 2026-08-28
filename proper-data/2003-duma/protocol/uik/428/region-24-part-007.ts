@@ -42,15 +42,15 @@ export const duma_2003_uik_428_region_24_part_007 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Исаков Игорь Анатольевич": 4,
-      "Каспирович Сергей Викторович": 2,
-      "Ковалев Василий Николаевич": 1,
-      "Многогрешнов Александр Александрович": 3,
-      "Натаров Сергей Васильевич": 0,
-      "Романов Петр Васильевич": 17,
-      "Цуканов Сергей Андреевич": 1,
-      "Шевченко Анатолий Николаевич": 7,
-      "Против всех": 9
+      "gas:candidate-vibid:1001000225919": 4,
+      "gas:candidate-vibid:1001000136024": 2,
+      "gas:candidate-vibid:1001000195051": 1,
+      "gas:candidate-vibid:324300466702": 3,
+      "gas:candidate-vibid:1001000190312": 0,
+      "gas:candidate-vibid:1001000121820": 17,
+      "gas:candidate-vibid:1001000217904": 1,
+      "gas:candidate-vibid:324300466696": 7,
+      "special:against-all": 9
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=242000049&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=224200067654&region=0&sub_region=0&type=429",
@@ -100,15 +100,15 @@ export const duma_2003_uik_428_region_24_part_007 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Исаков Игорь Анатольевич": 17,
-      "Каспирович Сергей Викторович": 0,
-      "Ковалев Василий Николаевич": 2,
-      "Многогрешнов Александр Александрович": 0,
-      "Натаров Сергей Васильевич": 3,
-      "Романов Петр Васильевич": 3,
-      "Цуканов Сергей Андреевич": 3,
-      "Шевченко Анатолий Николаевич": 3,
-      "Против всех": 15
+      "gas:candidate-vibid:1001000225919": 17,
+      "gas:candidate-vibid:1001000136024": 0,
+      "gas:candidate-vibid:1001000195051": 2,
+      "gas:candidate-vibid:324300466702": 0,
+      "gas:candidate-vibid:1001000190312": 3,
+      "gas:candidate-vibid:1001000121820": 3,
+      "gas:candidate-vibid:1001000217904": 3,
+      "gas:candidate-vibid:324300466696": 3,
+      "special:against-all": 15
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=242000049&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=224200067654&region=0&sub_region=0&type=429",
@@ -158,15 +158,15 @@ export const duma_2003_uik_428_region_24_part_007 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Исаков Игорь Анатольевич": 36,
-      "Каспирович Сергей Викторович": 0,
-      "Ковалев Василий Николаевич": 1,
-      "Многогрешнов Александр Александрович": 1,
-      "Натаров Сергей Васильевич": 0,
-      "Романов Петр Васильевич": 0,
-      "Цуканов Сергей Андреевич": 4,
-      "Шевченко Анатолий Николаевич": 1,
-      "Против всех": 18
+      "gas:candidate-vibid:1001000225919": 36,
+      "gas:candidate-vibid:1001000136024": 0,
+      "gas:candidate-vibid:1001000195051": 1,
+      "gas:candidate-vibid:324300466702": 1,
+      "gas:candidate-vibid:1001000190312": 0,
+      "gas:candidate-vibid:1001000121820": 0,
+      "gas:candidate-vibid:1001000217904": 4,
+      "gas:candidate-vibid:324300466696": 1,
+      "special:against-all": 18
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=242000049&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=224200067654&region=0&sub_region=0&type=429",
@@ -216,15 +216,15 @@ export const duma_2003_uik_428_region_24_part_007 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Исаков Игорь Анатольевич": 22,
-      "Каспирович Сергей Викторович": 1,
-      "Ковалев Василий Николаевич": 0,
-      "Многогрешнов Александр Александрович": 2,
-      "Натаров Сергей Васильевич": 0,
-      "Романов Петр Васильевич": 15,
-      "Цуканов Сергей Андреевич": 0,
-      "Шевченко Анатолий Николаевич": 0,
-      "Против всех": 6
+      "gas:candidate-vibid:1001000225919": 22,
+      "gas:candidate-vibid:1001000136024": 1,
+      "gas:candidate-vibid:1001000195051": 0,
+      "gas:candidate-vibid:324300466702": 2,
+      "gas:candidate-vibid:1001000190312": 0,
+      "gas:candidate-vibid:1001000121820": 15,
+      "gas:candidate-vibid:1001000217904": 0,
+      "gas:candidate-vibid:324300466696": 0,
+      "special:against-all": 6
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=242000049&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=224200067654&region=0&sub_region=0&type=429",
@@ -274,15 +274,15 @@ export const duma_2003_uik_428_region_24_part_007 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Исаков Игорь Анатольевич": 142,
-      "Каспирович Сергей Викторович": 10,
-      "Ковалев Василий Николаевич": 3,
-      "Многогрешнов Александр Александрович": 38,
-      "Натаров Сергей Васильевич": 4,
-      "Романов Петр Васильевич": 125,
-      "Цуканов Сергей Андреевич": 20,
-      "Шевченко Анатолий Николаевич": 2,
-      "Против всех": 33
+      "gas:candidate-vibid:1001000225919": 142,
+      "gas:candidate-vibid:1001000136024": 10,
+      "gas:candidate-vibid:1001000195051": 3,
+      "gas:candidate-vibid:324300466702": 38,
+      "gas:candidate-vibid:1001000190312": 4,
+      "gas:candidate-vibid:1001000121820": 125,
+      "gas:candidate-vibid:1001000217904": 20,
+      "gas:candidate-vibid:324300466696": 2,
+      "special:against-all": 33
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=242000050&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=224200067655&region=0&sub_region=0&type=429",
@@ -332,15 +332,15 @@ export const duma_2003_uik_428_region_24_part_007 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Исаков Игорь Анатольевич": 123,
-      "Каспирович Сергей Викторович": 16,
-      "Ковалев Василий Николаевич": 4,
-      "Многогрешнов Александр Александрович": 56,
-      "Натаров Сергей Васильевич": 1,
-      "Романов Петр Васильевич": 108,
-      "Цуканов Сергей Андреевич": 42,
-      "Шевченко Анатолий Николаевич": 1,
-      "Против всех": 25
+      "gas:candidate-vibid:1001000225919": 123,
+      "gas:candidate-vibid:1001000136024": 16,
+      "gas:candidate-vibid:1001000195051": 4,
+      "gas:candidate-vibid:324300466702": 56,
+      "gas:candidate-vibid:1001000190312": 1,
+      "gas:candidate-vibid:1001000121820": 108,
+      "gas:candidate-vibid:1001000217904": 42,
+      "gas:candidate-vibid:324300466696": 1,
+      "special:against-all": 25
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=242000050&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=224200067655&region=0&sub_region=0&type=429",
@@ -390,15 +390,15 @@ export const duma_2003_uik_428_region_24_part_007 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Исаков Игорь Анатольевич": 118,
-      "Каспирович Сергей Викторович": 13,
-      "Ковалев Василий Николаевич": 3,
-      "Многогрешнов Александр Александрович": 28,
-      "Натаров Сергей Васильевич": 2,
-      "Романов Петр Васильевич": 145,
-      "Цуканов Сергей Андреевич": 45,
-      "Шевченко Анатолий Николаевич": 4,
-      "Против всех": 40
+      "gas:candidate-vibid:1001000225919": 118,
+      "gas:candidate-vibid:1001000136024": 13,
+      "gas:candidate-vibid:1001000195051": 3,
+      "gas:candidate-vibid:324300466702": 28,
+      "gas:candidate-vibid:1001000190312": 2,
+      "gas:candidate-vibid:1001000121820": 145,
+      "gas:candidate-vibid:1001000217904": 45,
+      "gas:candidate-vibid:324300466696": 4,
+      "special:against-all": 40
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=242000050&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=224200067655&region=0&sub_region=0&type=429",
@@ -448,15 +448,15 @@ export const duma_2003_uik_428_region_24_part_007 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Исаков Игорь Анатольевич": 70,
-      "Каспирович Сергей Викторович": 4,
-      "Ковалев Василий Николаевич": 5,
-      "Многогрешнов Александр Александрович": 80,
-      "Натаров Сергей Васильевич": 0,
-      "Романов Петр Васильевич": 94,
-      "Цуканов Сергей Андреевич": 58,
-      "Шевченко Анатолий Николаевич": 1,
-      "Против всех": 34
+      "gas:candidate-vibid:1001000225919": 70,
+      "gas:candidate-vibid:1001000136024": 4,
+      "gas:candidate-vibid:1001000195051": 5,
+      "gas:candidate-vibid:324300466702": 80,
+      "gas:candidate-vibid:1001000190312": 0,
+      "gas:candidate-vibid:1001000121820": 94,
+      "gas:candidate-vibid:1001000217904": 58,
+      "gas:candidate-vibid:324300466696": 1,
+      "special:against-all": 34
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=242000050&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=224200067655&region=0&sub_region=0&type=429",
@@ -506,15 +506,15 @@ export const duma_2003_uik_428_region_24_part_007 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Исаков Игорь Анатольевич": 79,
-      "Каспирович Сергей Викторович": 7,
-      "Ковалев Василий Николаевич": 4,
-      "Многогрешнов Александр Александрович": 26,
-      "Натаров Сергей Васильевич": 1,
-      "Романов Петр Васильевич": 76,
-      "Цуканов Сергей Андреевич": 29,
-      "Шевченко Анатолий Николаевич": 2,
-      "Против всех": 13
+      "gas:candidate-vibid:1001000225919": 79,
+      "gas:candidate-vibid:1001000136024": 7,
+      "gas:candidate-vibid:1001000195051": 4,
+      "gas:candidate-vibid:324300466702": 26,
+      "gas:candidate-vibid:1001000190312": 1,
+      "gas:candidate-vibid:1001000121820": 76,
+      "gas:candidate-vibid:1001000217904": 29,
+      "gas:candidate-vibid:324300466696": 2,
+      "special:against-all": 13
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=242000050&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=224200067655&region=0&sub_region=0&type=429",
@@ -564,15 +564,15 @@ export const duma_2003_uik_428_region_24_part_007 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Исаков Игорь Анатольевич": 52,
-      "Каспирович Сергей Викторович": 12,
-      "Ковалев Василий Николаевич": 7,
-      "Многогрешнов Александр Александрович": 63,
-      "Натаров Сергей Васильевич": 0,
-      "Романов Петр Васильевич": 95,
-      "Цуканов Сергей Андреевич": 21,
-      "Шевченко Анатолий Николаевич": 2,
-      "Против всех": 24
+      "gas:candidate-vibid:1001000225919": 52,
+      "gas:candidate-vibid:1001000136024": 12,
+      "gas:candidate-vibid:1001000195051": 7,
+      "gas:candidate-vibid:324300466702": 63,
+      "gas:candidate-vibid:1001000190312": 0,
+      "gas:candidate-vibid:1001000121820": 95,
+      "gas:candidate-vibid:1001000217904": 21,
+      "gas:candidate-vibid:324300466696": 2,
+      "special:against-all": 24
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=242000050&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=224200067655&region=0&sub_region=0&type=429",
@@ -622,15 +622,15 @@ export const duma_2003_uik_428_region_24_part_007 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Исаков Игорь Анатольевич": 210,
-      "Каспирович Сергей Викторович": 15,
-      "Ковалев Василий Николаевич": 1,
-      "Многогрешнов Александр Александрович": 36,
-      "Натаров Сергей Васильевич": 4,
-      "Романов Петр Васильевич": 167,
-      "Цуканов Сергей Андреевич": 30,
-      "Шевченко Анатолий Николаевич": 2,
-      "Против всех": 35
+      "gas:candidate-vibid:1001000225919": 210,
+      "gas:candidate-vibid:1001000136024": 15,
+      "gas:candidate-vibid:1001000195051": 1,
+      "gas:candidate-vibid:324300466702": 36,
+      "gas:candidate-vibid:1001000190312": 4,
+      "gas:candidate-vibid:1001000121820": 167,
+      "gas:candidate-vibid:1001000217904": 30,
+      "gas:candidate-vibid:324300466696": 2,
+      "special:against-all": 35
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=242000050&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=224200067655&region=0&sub_region=0&type=429",
@@ -680,15 +680,15 @@ export const duma_2003_uik_428_region_24_part_007 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Исаков Игорь Анатольевич": 121,
-      "Каспирович Сергей Викторович": 18,
-      "Ковалев Василий Николаевич": 1,
-      "Многогрешнов Александр Александрович": 60,
-      "Натаров Сергей Васильевич": 2,
-      "Романов Петр Васильевич": 114,
-      "Цуканов Сергей Андреевич": 48,
-      "Шевченко Анатолий Николаевич": 4,
-      "Против всех": 50
+      "gas:candidate-vibid:1001000225919": 121,
+      "gas:candidate-vibid:1001000136024": 18,
+      "gas:candidate-vibid:1001000195051": 1,
+      "gas:candidate-vibid:324300466702": 60,
+      "gas:candidate-vibid:1001000190312": 2,
+      "gas:candidate-vibid:1001000121820": 114,
+      "gas:candidate-vibid:1001000217904": 48,
+      "gas:candidate-vibid:324300466696": 4,
+      "special:against-all": 50
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=242000050&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=224200067655&region=0&sub_region=0&type=429",
@@ -738,15 +738,15 @@ export const duma_2003_uik_428_region_24_part_007 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Исаков Игорь Анатольевич": 26,
-      "Каспирович Сергей Викторович": 5,
-      "Ковалев Василий Николаевич": 1,
-      "Многогрешнов Александр Александрович": 15,
-      "Натаров Сергей Васильевич": 0,
-      "Романов Петр Васильевич": 18,
-      "Цуканов Сергей Андреевич": 5,
-      "Шевченко Анатолий Николаевич": 0,
-      "Против всех": 12
+      "gas:candidate-vibid:1001000225919": 26,
+      "gas:candidate-vibid:1001000136024": 5,
+      "gas:candidate-vibid:1001000195051": 1,
+      "gas:candidate-vibid:324300466702": 15,
+      "gas:candidate-vibid:1001000190312": 0,
+      "gas:candidate-vibid:1001000121820": 18,
+      "gas:candidate-vibid:1001000217904": 5,
+      "gas:candidate-vibid:324300466696": 0,
+      "special:against-all": 12
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=242000050&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=224200067655&region=0&sub_region=0&type=429",
@@ -796,15 +796,15 @@ export const duma_2003_uik_428_region_24_part_007 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Исаков Игорь Анатольевич": 122,
-      "Каспирович Сергей Викторович": 5,
-      "Ковалев Василий Николаевич": 1,
-      "Многогрешнов Александр Александрович": 11,
-      "Натаров Сергей Васильевич": 0,
-      "Романов Петр Васильевич": 50,
-      "Цуканов Сергей Андреевич": 13,
-      "Шевченко Анатолий Николаевич": 2,
-      "Против всех": 21
+      "gas:candidate-vibid:1001000225919": 122,
+      "gas:candidate-vibid:1001000136024": 5,
+      "gas:candidate-vibid:1001000195051": 1,
+      "gas:candidate-vibid:324300466702": 11,
+      "gas:candidate-vibid:1001000190312": 0,
+      "gas:candidate-vibid:1001000121820": 50,
+      "gas:candidate-vibid:1001000217904": 13,
+      "gas:candidate-vibid:324300466696": 2,
+      "special:against-all": 21
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=242000050&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=224200067655&region=0&sub_region=0&type=429",
@@ -854,15 +854,15 @@ export const duma_2003_uik_428_region_24_part_007 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Исаков Игорь Анатольевич": 108,
-      "Каспирович Сергей Викторович": 6,
-      "Ковалев Василий Николаевич": 2,
-      "Многогрешнов Александр Александрович": 29,
-      "Натаров Сергей Васильевич": 1,
-      "Романов Петр Васильевич": 76,
-      "Цуканов Сергей Андреевич": 25,
-      "Шевченко Анатолий Николаевич": 5,
-      "Против всех": 23
+      "gas:candidate-vibid:1001000225919": 108,
+      "gas:candidate-vibid:1001000136024": 6,
+      "gas:candidate-vibid:1001000195051": 2,
+      "gas:candidate-vibid:324300466702": 29,
+      "gas:candidate-vibid:1001000190312": 1,
+      "gas:candidate-vibid:1001000121820": 76,
+      "gas:candidate-vibid:1001000217904": 25,
+      "gas:candidate-vibid:324300466696": 5,
+      "special:against-all": 23
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=242000050&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=224200067655&region=0&sub_region=0&type=429",
@@ -912,15 +912,15 @@ export const duma_2003_uik_428_region_24_part_007 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Исаков Игорь Анатольевич": 17,
-      "Каспирович Сергей Викторович": 1,
-      "Ковалев Василий Николаевич": 0,
-      "Многогрешнов Александр Александрович": 10,
-      "Натаров Сергей Васильевич": 0,
-      "Романов Петр Васильевич": 24,
-      "Цуканов Сергей Андреевич": 7,
-      "Шевченко Анатолий Николаевич": 1,
-      "Против всех": 8
+      "gas:candidate-vibid:1001000225919": 17,
+      "gas:candidate-vibid:1001000136024": 1,
+      "gas:candidate-vibid:1001000195051": 0,
+      "gas:candidate-vibid:324300466702": 10,
+      "gas:candidate-vibid:1001000190312": 0,
+      "gas:candidate-vibid:1001000121820": 24,
+      "gas:candidate-vibid:1001000217904": 7,
+      "gas:candidate-vibid:324300466696": 1,
+      "special:against-all": 8
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=242000050&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=224200067655&region=0&sub_region=0&type=429",
@@ -970,15 +970,15 @@ export const duma_2003_uik_428_region_24_part_007 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Исаков Игорь Анатольевич": 16,
-      "Каспирович Сергей Викторович": 2,
-      "Ковалев Василий Николаевич": 2,
-      "Многогрешнов Александр Александрович": 18,
-      "Натаров Сергей Васильевич": 0,
-      "Романов Петр Васильевич": 13,
-      "Цуканов Сергей Андреевич": 2,
-      "Шевченко Анатолий Николаевич": 2,
-      "Против всех": 5
+      "gas:candidate-vibid:1001000225919": 16,
+      "gas:candidate-vibid:1001000136024": 2,
+      "gas:candidate-vibid:1001000195051": 2,
+      "gas:candidate-vibid:324300466702": 18,
+      "gas:candidate-vibid:1001000190312": 0,
+      "gas:candidate-vibid:1001000121820": 13,
+      "gas:candidate-vibid:1001000217904": 2,
+      "gas:candidate-vibid:324300466696": 2,
+      "special:against-all": 5
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=242000050&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=224200067655&region=0&sub_region=0&type=429",
@@ -1028,15 +1028,15 @@ export const duma_2003_uik_428_region_24_part_007 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Исаков Игорь Анатольевич": 20,
-      "Каспирович Сергей Викторович": 0,
-      "Ковалев Василий Николаевич": 0,
-      "Многогрешнов Александр Александрович": 14,
-      "Натаров Сергей Васильевич": 0,
-      "Романов Петр Васильевич": 6,
-      "Цуканов Сергей Андреевич": 31,
-      "Шевченко Анатолий Николаевич": 1,
-      "Против всех": 5
+      "gas:candidate-vibid:1001000225919": 20,
+      "gas:candidate-vibid:1001000136024": 0,
+      "gas:candidate-vibid:1001000195051": 0,
+      "gas:candidate-vibid:324300466702": 14,
+      "gas:candidate-vibid:1001000190312": 0,
+      "gas:candidate-vibid:1001000121820": 6,
+      "gas:candidate-vibid:1001000217904": 31,
+      "gas:candidate-vibid:324300466696": 1,
+      "special:against-all": 5
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=242000050&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=224200067655&region=0&sub_region=0&type=429",
@@ -1086,15 +1086,15 @@ export const duma_2003_uik_428_region_24_part_007 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Исаков Игорь Анатольевич": 7,
-      "Каспирович Сергей Викторович": 8,
-      "Ковалев Василий Николаевич": 0,
-      "Многогрешнов Александр Александрович": 3,
-      "Натаров Сергей Васильевич": 0,
-      "Романов Петр Васильевич": 24,
-      "Цуканов Сергей Андреевич": 0,
-      "Шевченко Анатолий Николаевич": 0,
-      "Против всех": 13
+      "gas:candidate-vibid:1001000225919": 7,
+      "gas:candidate-vibid:1001000136024": 8,
+      "gas:candidate-vibid:1001000195051": 0,
+      "gas:candidate-vibid:324300466702": 3,
+      "gas:candidate-vibid:1001000190312": 0,
+      "gas:candidate-vibid:1001000121820": 24,
+      "gas:candidate-vibid:1001000217904": 0,
+      "gas:candidate-vibid:324300466696": 0,
+      "special:against-all": 13
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=242000050&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=224200067655&region=0&sub_region=0&type=429",
@@ -1144,15 +1144,15 @@ export const duma_2003_uik_428_region_24_part_007 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Исаков Игорь Анатольевич": 56,
-      "Каспирович Сергей Викторович": 1,
-      "Ковалев Василий Николаевич": 0,
-      "Многогрешнов Александр Александрович": 7,
-      "Натаров Сергей Васильевич": 1,
-      "Романов Петр Васильевич": 22,
-      "Цуканов Сергей Андреевич": 13,
-      "Шевченко Анатолий Николаевич": 0,
-      "Против всех": 6
+      "gas:candidate-vibid:1001000225919": 56,
+      "gas:candidate-vibid:1001000136024": 1,
+      "gas:candidate-vibid:1001000195051": 0,
+      "gas:candidate-vibid:324300466702": 7,
+      "gas:candidate-vibid:1001000190312": 1,
+      "gas:candidate-vibid:1001000121820": 22,
+      "gas:candidate-vibid:1001000217904": 13,
+      "gas:candidate-vibid:324300466696": 0,
+      "special:against-all": 6
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=242000050&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=224200067655&region=0&sub_region=0&type=429",
@@ -1202,15 +1202,15 @@ export const duma_2003_uik_428_region_24_part_007 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Исаков Игорь Анатольевич": 90,
-      "Каспирович Сергей Викторович": 4,
-      "Ковалев Василий Николаевич": 2,
-      "Многогрешнов Александр Александрович": 21,
-      "Натаров Сергей Васильевич": 0,
-      "Романов Петр Васильевич": 39,
-      "Цуканов Сергей Андреевич": 9,
-      "Шевченко Анатолий Николаевич": 1,
-      "Против всех": 12
+      "gas:candidate-vibid:1001000225919": 90,
+      "gas:candidate-vibid:1001000136024": 4,
+      "gas:candidate-vibid:1001000195051": 2,
+      "gas:candidate-vibid:324300466702": 21,
+      "gas:candidate-vibid:1001000190312": 0,
+      "gas:candidate-vibid:1001000121820": 39,
+      "gas:candidate-vibid:1001000217904": 9,
+      "gas:candidate-vibid:324300466696": 1,
+      "special:against-all": 12
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=242000050&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=224200067655&region=0&sub_region=0&type=429",
@@ -1260,15 +1260,15 @@ export const duma_2003_uik_428_region_24_part_007 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Исаков Игорь Анатольевич": 42,
-      "Каспирович Сергей Викторович": 3,
-      "Ковалев Василий Николаевич": 1,
-      "Многогрешнов Александр Александрович": 19,
-      "Натаров Сергей Васильевич": 0,
-      "Романов Петр Васильевич": 22,
-      "Цуканов Сергей Андреевич": 5,
-      "Шевченко Анатолий Николаевич": 5,
-      "Против всех": 25
+      "gas:candidate-vibid:1001000225919": 42,
+      "gas:candidate-vibid:1001000136024": 3,
+      "gas:candidate-vibid:1001000195051": 1,
+      "gas:candidate-vibid:324300466702": 19,
+      "gas:candidate-vibid:1001000190312": 0,
+      "gas:candidate-vibid:1001000121820": 22,
+      "gas:candidate-vibid:1001000217904": 5,
+      "gas:candidate-vibid:324300466696": 5,
+      "special:against-all": 25
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=242000050&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=224200067655&region=0&sub_region=0&type=429",
@@ -1318,15 +1318,15 @@ export const duma_2003_uik_428_region_24_part_007 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Исаков Игорь Анатольевич": 53,
-      "Каспирович Сергей Викторович": 7,
-      "Ковалев Василий Николаевич": 2,
-      "Многогрешнов Александр Александрович": 11,
-      "Натаров Сергей Васильевич": 1,
-      "Романов Петр Васильевич": 143,
-      "Цуканов Сергей Андреевич": 63,
-      "Шевченко Анатолий Николаевич": 5,
-      "Против всех": 18
+      "gas:candidate-vibid:1001000225919": 53,
+      "gas:candidate-vibid:1001000136024": 7,
+      "gas:candidate-vibid:1001000195051": 2,
+      "gas:candidate-vibid:324300466702": 11,
+      "gas:candidate-vibid:1001000190312": 1,
+      "gas:candidate-vibid:1001000121820": 143,
+      "gas:candidate-vibid:1001000217904": 63,
+      "gas:candidate-vibid:324300466696": 5,
+      "special:against-all": 18
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=242000050&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=224200067655&region=0&sub_region=0&type=429",
@@ -1376,15 +1376,15 @@ export const duma_2003_uik_428_region_24_part_007 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Исаков Игорь Анатольевич": 26,
-      "Каспирович Сергей Викторович": 9,
-      "Ковалев Василий Николаевич": 2,
-      "Многогрешнов Александр Александрович": 5,
-      "Натаров Сергей Васильевич": 1,
-      "Романов Петр Васильевич": 69,
-      "Цуканов Сергей Андреевич": 19,
-      "Шевченко Анатолий Николаевич": 2,
-      "Против всех": 12
+      "gas:candidate-vibid:1001000225919": 26,
+      "gas:candidate-vibid:1001000136024": 9,
+      "gas:candidate-vibid:1001000195051": 2,
+      "gas:candidate-vibid:324300466702": 5,
+      "gas:candidate-vibid:1001000190312": 1,
+      "gas:candidate-vibid:1001000121820": 69,
+      "gas:candidate-vibid:1001000217904": 19,
+      "gas:candidate-vibid:324300466696": 2,
+      "special:against-all": 12
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=242000050&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=224200067655&region=0&sub_region=0&type=429",
@@ -1434,15 +1434,15 @@ export const duma_2003_uik_428_region_24_part_007 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Исаков Игорь Анатольевич": 24,
-      "Каспирович Сергей Викторович": 3,
-      "Ковалев Василий Николаевич": 2,
-      "Многогрешнов Александр Александрович": 9,
-      "Натаров Сергей Васильевич": 1,
-      "Романов Петр Васильевич": 17,
-      "Цуканов Сергей Андреевич": 26,
-      "Шевченко Анатолий Николаевич": 0,
-      "Против всех": 3
+      "gas:candidate-vibid:1001000225919": 24,
+      "gas:candidate-vibid:1001000136024": 3,
+      "gas:candidate-vibid:1001000195051": 2,
+      "gas:candidate-vibid:324300466702": 9,
+      "gas:candidate-vibid:1001000190312": 1,
+      "gas:candidate-vibid:1001000121820": 17,
+      "gas:candidate-vibid:1001000217904": 26,
+      "gas:candidate-vibid:324300466696": 0,
+      "special:against-all": 3
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=242000050&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=224200067655&region=0&sub_region=0&type=429",
@@ -1492,15 +1492,15 @@ export const duma_2003_uik_428_region_24_part_007 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Исаков Игорь Анатольевич": 13,
-      "Каспирович Сергей Викторович": 0,
-      "Ковалев Василий Николаевич": 2,
-      "Многогрешнов Александр Александрович": 6,
-      "Натаров Сергей Васильевич": 1,
-      "Романов Петр Васильевич": 19,
-      "Цуканов Сергей Андреевич": 23,
-      "Шевченко Анатолий Николаевич": 0,
-      "Против всех": 2
+      "gas:candidate-vibid:1001000225919": 13,
+      "gas:candidate-vibid:1001000136024": 0,
+      "gas:candidate-vibid:1001000195051": 2,
+      "gas:candidate-vibid:324300466702": 6,
+      "gas:candidate-vibid:1001000190312": 1,
+      "gas:candidate-vibid:1001000121820": 19,
+      "gas:candidate-vibid:1001000217904": 23,
+      "gas:candidate-vibid:324300466696": 0,
+      "special:against-all": 2
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=242000050&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=224200067655&region=0&sub_region=0&type=429",
@@ -1550,15 +1550,15 @@ export const duma_2003_uik_428_region_24_part_007 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Исаков Игорь Анатольевич": 62,
-      "Каспирович Сергей Викторович": 6,
-      "Ковалев Василий Николаевич": 2,
-      "Многогрешнов Александр Александрович": 21,
-      "Натаров Сергей Васильевич": 1,
-      "Романов Петр Васильевич": 66,
-      "Цуканов Сергей Андреевич": 47,
-      "Шевченко Анатолий Николаевич": 2,
-      "Против всех": 14
+      "gas:candidate-vibid:1001000225919": 62,
+      "gas:candidate-vibid:1001000136024": 6,
+      "gas:candidate-vibid:1001000195051": 2,
+      "gas:candidate-vibid:324300466702": 21,
+      "gas:candidate-vibid:1001000190312": 1,
+      "gas:candidate-vibid:1001000121820": 66,
+      "gas:candidate-vibid:1001000217904": 47,
+      "gas:candidate-vibid:324300466696": 2,
+      "special:against-all": 14
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=242000050&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=224200067655&region=0&sub_region=0&type=429",
@@ -1608,15 +1608,15 @@ export const duma_2003_uik_428_region_24_part_007 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Исаков Игорь Анатольевич": 17,
-      "Каспирович Сергей Викторович": 1,
-      "Ковалев Василий Николаевич": 0,
-      "Многогрешнов Александр Александрович": 7,
-      "Натаров Сергей Васильевич": 1,
-      "Романов Петр Васильевич": 25,
-      "Цуканов Сергей Андреевич": 3,
-      "Шевченко Анатолий Николаевич": 2,
-      "Против всех": 0
+      "gas:candidate-vibid:1001000225919": 17,
+      "gas:candidate-vibid:1001000136024": 1,
+      "gas:candidate-vibid:1001000195051": 0,
+      "gas:candidate-vibid:324300466702": 7,
+      "gas:candidate-vibid:1001000190312": 1,
+      "gas:candidate-vibid:1001000121820": 25,
+      "gas:candidate-vibid:1001000217904": 3,
+      "gas:candidate-vibid:324300466696": 2,
+      "special:against-all": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=242000050&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=224200067655&region=0&sub_region=0&type=429",
@@ -1666,15 +1666,15 @@ export const duma_2003_uik_428_region_24_part_007 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Исаков Игорь Анатольевич": 30,
-      "Каспирович Сергей Викторович": 0,
-      "Ковалев Василий Николаевич": 0,
-      "Многогрешнов Александр Александрович": 15,
-      "Натаров Сергей Васильевич": 0,
-      "Романов Петр Васильевич": 5,
-      "Цуканов Сергей Андреевич": 6,
-      "Шевченко Анатолий Николаевич": 1,
-      "Против всех": 7
+      "gas:candidate-vibid:1001000225919": 30,
+      "gas:candidate-vibid:1001000136024": 0,
+      "gas:candidate-vibid:1001000195051": 0,
+      "gas:candidate-vibid:324300466702": 15,
+      "gas:candidate-vibid:1001000190312": 0,
+      "gas:candidate-vibid:1001000121820": 5,
+      "gas:candidate-vibid:1001000217904": 6,
+      "gas:candidate-vibid:324300466696": 1,
+      "special:against-all": 7
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=242000050&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=224200067655&region=0&sub_region=0&type=429",
@@ -1724,15 +1724,15 @@ export const duma_2003_uik_428_region_24_part_007 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Исаков Игорь Анатольевич": 99,
-      "Каспирович Сергей Викторович": 4,
-      "Ковалев Василий Николаевич": 0,
-      "Многогрешнов Александр Александрович": 27,
-      "Натаров Сергей Васильевич": 3,
-      "Романов Петр Васильевич": 76,
-      "Цуканов Сергей Андреевич": 49,
-      "Шевченко Анатолий Николаевич": 1,
-      "Против всех": 25
+      "gas:candidate-vibid:1001000225919": 99,
+      "gas:candidate-vibid:1001000136024": 4,
+      "gas:candidate-vibid:1001000195051": 0,
+      "gas:candidate-vibid:324300466702": 27,
+      "gas:candidate-vibid:1001000190312": 3,
+      "gas:candidate-vibid:1001000121820": 76,
+      "gas:candidate-vibid:1001000217904": 49,
+      "gas:candidate-vibid:324300466696": 1,
+      "special:against-all": 25
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=242000050&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=224200067655&region=0&sub_region=0&type=429",
@@ -1782,15 +1782,15 @@ export const duma_2003_uik_428_region_24_part_007 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Исаков Игорь Анатольевич": 5,
-      "Каспирович Сергей Викторович": 1,
-      "Ковалев Василий Николаевич": 1,
-      "Многогрешнов Александр Александрович": 7,
-      "Натаров Сергей Васильевич": 0,
-      "Романов Петр Васильевич": 20,
-      "Цуканов Сергей Андреевич": 1,
-      "Шевченко Анатолий Николаевич": 0,
-      "Против всех": 3
+      "gas:candidate-vibid:1001000225919": 5,
+      "gas:candidate-vibid:1001000136024": 1,
+      "gas:candidate-vibid:1001000195051": 1,
+      "gas:candidate-vibid:324300466702": 7,
+      "gas:candidate-vibid:1001000190312": 0,
+      "gas:candidate-vibid:1001000121820": 20,
+      "gas:candidate-vibid:1001000217904": 1,
+      "gas:candidate-vibid:324300466696": 0,
+      "special:against-all": 3
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=242000050&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=224200067655&region=0&sub_region=0&type=429",
@@ -1840,15 +1840,15 @@ export const duma_2003_uik_428_region_24_part_007 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Исаков Игорь Анатольевич": 17,
-      "Каспирович Сергей Викторович": 0,
-      "Ковалев Василий Николаевич": 0,
-      "Многогрешнов Александр Александрович": 3,
-      "Натаров Сергей Васильевич": 0,
-      "Романов Петр Васильевич": 11,
-      "Цуканов Сергей Андреевич": 4,
-      "Шевченко Анатолий Николаевич": 0,
-      "Против всех": 4
+      "gas:candidate-vibid:1001000225919": 17,
+      "gas:candidate-vibid:1001000136024": 0,
+      "gas:candidate-vibid:1001000195051": 0,
+      "gas:candidate-vibid:324300466702": 3,
+      "gas:candidate-vibid:1001000190312": 0,
+      "gas:candidate-vibid:1001000121820": 11,
+      "gas:candidate-vibid:1001000217904": 4,
+      "gas:candidate-vibid:324300466696": 0,
+      "special:against-all": 4
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=242000050&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=224200067655&region=0&sub_region=0&type=429",
@@ -1898,15 +1898,15 @@ export const duma_2003_uik_428_region_24_part_007 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Исаков Игорь Анатольевич": 25,
-      "Каспирович Сергей Викторович": 0,
-      "Ковалев Василий Николаевич": 0,
-      "Многогрешнов Александр Александрович": 1,
-      "Натаров Сергей Васильевич": 1,
-      "Романов Петр Васильевич": 4,
-      "Цуканов Сергей Андреевич": 0,
-      "Шевченко Анатолий Николаевич": 0,
-      "Против всех": 1
+      "gas:candidate-vibid:1001000225919": 25,
+      "gas:candidate-vibid:1001000136024": 0,
+      "gas:candidate-vibid:1001000195051": 0,
+      "gas:candidate-vibid:324300466702": 1,
+      "gas:candidate-vibid:1001000190312": 1,
+      "gas:candidate-vibid:1001000121820": 4,
+      "gas:candidate-vibid:1001000217904": 0,
+      "gas:candidate-vibid:324300466696": 0,
+      "special:against-all": 1
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=242000050&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=224200067655&region=0&sub_region=0&type=429",
@@ -1956,15 +1956,15 @@ export const duma_2003_uik_428_region_24_part_007 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Исаков Игорь Анатольевич": 124,
-      "Каспирович Сергей Викторович": 9,
-      "Ковалев Василий Николаевич": 5,
-      "Многогрешнов Александр Александрович": 31,
-      "Натаров Сергей Васильевич": 3,
-      "Романов Петр Васильевич": 105,
-      "Цуканов Сергей Андреевич": 138,
-      "Шевченко Анатолий Николаевич": 1,
-      "Против всех": 18
+      "gas:candidate-vibid:1001000225919": 124,
+      "gas:candidate-vibid:1001000136024": 9,
+      "gas:candidate-vibid:1001000195051": 5,
+      "gas:candidate-vibid:324300466702": 31,
+      "gas:candidate-vibid:1001000190312": 3,
+      "gas:candidate-vibid:1001000121820": 105,
+      "gas:candidate-vibid:1001000217904": 138,
+      "gas:candidate-vibid:324300466696": 1,
+      "special:against-all": 18
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=242000050&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=224200067655&region=0&sub_region=0&type=429",
@@ -2014,15 +2014,15 @@ export const duma_2003_uik_428_region_24_part_007 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Исаков Игорь Анатольевич": 28,
-      "Каспирович Сергей Викторович": 6,
-      "Ковалев Василий Николаевич": 1,
-      "Многогрешнов Александр Александрович": 16,
-      "Натаров Сергей Васильевич": 0,
-      "Романов Петр Васильевич": 56,
-      "Цуканов Сергей Андреевич": 7,
-      "Шевченко Анатолий Николаевич": 0,
-      "Против всех": 11
+      "gas:candidate-vibid:1001000225919": 28,
+      "gas:candidate-vibid:1001000136024": 6,
+      "gas:candidate-vibid:1001000195051": 1,
+      "gas:candidate-vibid:324300466702": 16,
+      "gas:candidate-vibid:1001000190312": 0,
+      "gas:candidate-vibid:1001000121820": 56,
+      "gas:candidate-vibid:1001000217904": 7,
+      "gas:candidate-vibid:324300466696": 0,
+      "special:against-all": 11
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=242000050&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=224200067655&region=0&sub_region=0&type=429",
@@ -2072,15 +2072,15 @@ export const duma_2003_uik_428_region_24_part_007 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Исаков Игорь Анатольевич": 44,
-      "Каспирович Сергей Викторович": 3,
-      "Ковалев Василий Николаевич": 2,
-      "Многогрешнов Александр Александрович": 7,
-      "Натаров Сергей Васильевич": 0,
-      "Романов Петр Васильевич": 43,
-      "Цуканов Сергей Андреевич": 19,
-      "Шевченко Анатолий Николаевич": 1,
-      "Против всех": 8
+      "gas:candidate-vibid:1001000225919": 44,
+      "gas:candidate-vibid:1001000136024": 3,
+      "gas:candidate-vibid:1001000195051": 2,
+      "gas:candidate-vibid:324300466702": 7,
+      "gas:candidate-vibid:1001000190312": 0,
+      "gas:candidate-vibid:1001000121820": 43,
+      "gas:candidate-vibid:1001000217904": 19,
+      "gas:candidate-vibid:324300466696": 1,
+      "special:against-all": 8
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=242000050&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=224200067655&region=0&sub_region=0&type=429",
@@ -2130,15 +2130,15 @@ export const duma_2003_uik_428_region_24_part_007 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Исаков Игорь Анатольевич": 5,
-      "Каспирович Сергей Викторович": 2,
-      "Ковалев Василий Николаевич": 0,
-      "Многогрешнов Александр Александрович": 3,
-      "Натаров Сергей Васильевич": 0,
-      "Романов Петр Васильевич": 24,
-      "Цуканов Сергей Андреевич": 11,
-      "Шевченко Анатолий Николаевич": 0,
-      "Против всех": 2
+      "gas:candidate-vibid:1001000225919": 5,
+      "gas:candidate-vibid:1001000136024": 2,
+      "gas:candidate-vibid:1001000195051": 0,
+      "gas:candidate-vibid:324300466702": 3,
+      "gas:candidate-vibid:1001000190312": 0,
+      "gas:candidate-vibid:1001000121820": 24,
+      "gas:candidate-vibid:1001000217904": 11,
+      "gas:candidate-vibid:324300466696": 0,
+      "special:against-all": 2
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=242000050&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=224200067655&region=0&sub_region=0&type=429",
@@ -2188,15 +2188,15 @@ export const duma_2003_uik_428_region_24_part_007 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Исаков Игорь Анатольевич": 27,
-      "Каспирович Сергей Викторович": 3,
-      "Ковалев Василий Николаевич": 0,
-      "Многогрешнов Александр Александрович": 11,
-      "Натаров Сергей Васильевич": 0,
-      "Романов Петр Васильевич": 9,
-      "Цуканов Сергей Андреевич": 15,
-      "Шевченко Анатолий Николаевич": 0,
-      "Против всех": 9
+      "gas:candidate-vibid:1001000225919": 27,
+      "gas:candidate-vibid:1001000136024": 3,
+      "gas:candidate-vibid:1001000195051": 0,
+      "gas:candidate-vibid:324300466702": 11,
+      "gas:candidate-vibid:1001000190312": 0,
+      "gas:candidate-vibid:1001000121820": 9,
+      "gas:candidate-vibid:1001000217904": 15,
+      "gas:candidate-vibid:324300466696": 0,
+      "special:against-all": 9
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=242000050&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=224200067655&region=0&sub_region=0&type=429",
@@ -2246,15 +2246,15 @@ export const duma_2003_uik_428_region_24_part_007 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Исаков Игорь Анатольевич": 101,
-      "Каспирович Сергей Викторович": 12,
-      "Ковалев Василий Николаевич": 3,
-      "Многогрешнов Александр Александрович": 28,
-      "Натаров Сергей Васильевич": 1,
-      "Романов Петр Васильевич": 104,
-      "Цуканов Сергей Андреевич": 26,
-      "Шевченко Анатолий Николаевич": 2,
-      "Против всех": 31
+      "gas:candidate-vibid:1001000225919": 101,
+      "gas:candidate-vibid:1001000136024": 12,
+      "gas:candidate-vibid:1001000195051": 3,
+      "gas:candidate-vibid:324300466702": 28,
+      "gas:candidate-vibid:1001000190312": 1,
+      "gas:candidate-vibid:1001000121820": 104,
+      "gas:candidate-vibid:1001000217904": 26,
+      "gas:candidate-vibid:324300466696": 2,
+      "special:against-all": 31
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=242000050&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=224200067655&region=0&sub_region=0&type=429",
@@ -2304,15 +2304,15 @@ export const duma_2003_uik_428_region_24_part_007 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Исаков Игорь Анатольевич": 39,
-      "Каспирович Сергей Викторович": 10,
-      "Ковалев Василий Николаевич": 3,
-      "Многогрешнов Александр Александрович": 25,
-      "Натаров Сергей Васильевич": 2,
-      "Романов Петр Васильевич": 54,
-      "Цуканов Сергей Андреевич": 22,
-      "Шевченко Анатолий Николаевич": 3,
-      "Против всех": 7
+      "gas:candidate-vibid:1001000225919": 39,
+      "gas:candidate-vibid:1001000136024": 10,
+      "gas:candidate-vibid:1001000195051": 3,
+      "gas:candidate-vibid:324300466702": 25,
+      "gas:candidate-vibid:1001000190312": 2,
+      "gas:candidate-vibid:1001000121820": 54,
+      "gas:candidate-vibid:1001000217904": 22,
+      "gas:candidate-vibid:324300466696": 3,
+      "special:against-all": 7
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=242000050&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=224200067655&region=0&sub_region=0&type=429",
@@ -2362,15 +2362,15 @@ export const duma_2003_uik_428_region_24_part_007 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Исаков Игорь Анатольевич": 46,
-      "Каспирович Сергей Викторович": 5,
-      "Ковалев Василий Николаевич": 0,
-      "Многогрешнов Александр Александрович": 7,
-      "Натаров Сергей Васильевич": 0,
-      "Романов Петр Васильевич": 32,
-      "Цуканов Сергей Андреевич": 18,
-      "Шевченко Анатолий Николаевич": 0,
-      "Против всех": 5
+      "gas:candidate-vibid:1001000225919": 46,
+      "gas:candidate-vibid:1001000136024": 5,
+      "gas:candidate-vibid:1001000195051": 0,
+      "gas:candidate-vibid:324300466702": 7,
+      "gas:candidate-vibid:1001000190312": 0,
+      "gas:candidate-vibid:1001000121820": 32,
+      "gas:candidate-vibid:1001000217904": 18,
+      "gas:candidate-vibid:324300466696": 0,
+      "special:against-all": 5
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=242000050&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=224200067655&region=0&sub_region=0&type=429",
@@ -2420,15 +2420,15 @@ export const duma_2003_uik_428_region_24_part_007 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Исаков Игорь Анатольевич": 34,
-      "Каспирович Сергей Викторович": 1,
-      "Ковалев Василий Николаевич": 0,
-      "Многогрешнов Александр Александрович": 2,
-      "Натаров Сергей Васильевич": 0,
-      "Романов Петр Васильевич": 5,
-      "Цуканов Сергей Андреевич": 0,
-      "Шевченко Анатолий Николаевич": 0,
-      "Против всех": 3
+      "gas:candidate-vibid:1001000225919": 34,
+      "gas:candidate-vibid:1001000136024": 1,
+      "gas:candidate-vibid:1001000195051": 0,
+      "gas:candidate-vibid:324300466702": 2,
+      "gas:candidate-vibid:1001000190312": 0,
+      "gas:candidate-vibid:1001000121820": 5,
+      "gas:candidate-vibid:1001000217904": 0,
+      "gas:candidate-vibid:324300466696": 0,
+      "special:against-all": 3
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=242000050&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=224200067655&region=0&sub_region=0&type=429",
@@ -2478,15 +2478,15 @@ export const duma_2003_uik_428_region_24_part_007 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Исаков Игорь Анатольевич": 30,
-      "Каспирович Сергей Викторович": 14,
-      "Ковалев Василий Николаевич": 1,
-      "Многогрешнов Александр Александрович": 0,
-      "Натаров Сергей Васильевич": 0,
-      "Романов Петр Васильевич": 19,
-      "Цуканов Сергей Андреевич": 2,
-      "Шевченко Анатолий Николаевич": 1,
-      "Против всех": 4
+      "gas:candidate-vibid:1001000225919": 30,
+      "gas:candidate-vibid:1001000136024": 14,
+      "gas:candidate-vibid:1001000195051": 1,
+      "gas:candidate-vibid:324300466702": 0,
+      "gas:candidate-vibid:1001000190312": 0,
+      "gas:candidate-vibid:1001000121820": 19,
+      "gas:candidate-vibid:1001000217904": 2,
+      "gas:candidate-vibid:324300466696": 1,
+      "special:against-all": 4
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=242000050&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=224200067655&region=0&sub_region=0&type=429",
@@ -2536,15 +2536,15 @@ export const duma_2003_uik_428_region_24_part_007 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Исаков Игорь Анатольевич": 305,
-      "Каспирович Сергей Викторович": 36,
-      "Ковалев Василий Николаевич": 5,
-      "Многогрешнов Александр Александрович": 151,
-      "Натаров Сергей Васильевич": 7,
-      "Романов Петр Васильевич": 192,
-      "Цуканов Сергей Андреевич": 24,
-      "Шевченко Анатолий Николаевич": 5,
-      "Против всех": 185
+      "gas:candidate-vibid:1001000225919": 305,
+      "gas:candidate-vibid:1001000136024": 36,
+      "gas:candidate-vibid:1001000195051": 5,
+      "gas:candidate-vibid:324300466702": 151,
+      "gas:candidate-vibid:1001000190312": 7,
+      "gas:candidate-vibid:1001000121820": 192,
+      "gas:candidate-vibid:1001000217904": 24,
+      "gas:candidate-vibid:324300466696": 5,
+      "special:against-all": 185
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=242000051&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=224200067656&region=0&sub_region=0&type=429",
@@ -2594,15 +2594,15 @@ export const duma_2003_uik_428_region_24_part_007 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Исаков Игорь Анатольевич": 300,
-      "Каспирович Сергей Викторович": 36,
-      "Ковалев Василий Николаевич": 11,
-      "Многогрешнов Александр Александрович": 147,
-      "Натаров Сергей Васильевич": 4,
-      "Романов Петр Васильевич": 170,
-      "Цуканов Сергей Андреевич": 27,
-      "Шевченко Анатолий Николаевич": 14,
-      "Против всех": 157
+      "gas:candidate-vibid:1001000225919": 300,
+      "gas:candidate-vibid:1001000136024": 36,
+      "gas:candidate-vibid:1001000195051": 11,
+      "gas:candidate-vibid:324300466702": 147,
+      "gas:candidate-vibid:1001000190312": 4,
+      "gas:candidate-vibid:1001000121820": 170,
+      "gas:candidate-vibid:1001000217904": 27,
+      "gas:candidate-vibid:324300466696": 14,
+      "special:against-all": 157
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=242000051&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=224200067656&region=0&sub_region=0&type=429",
@@ -2652,15 +2652,15 @@ export const duma_2003_uik_428_region_24_part_007 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Исаков Игорь Анатольевич": 215,
-      "Каспирович Сергей Викторович": 30,
-      "Ковалев Василий Николаевич": 6,
-      "Многогрешнов Александр Александрович": 107,
-      "Натаров Сергей Васильевич": 3,
-      "Романов Петр Васильевич": 99,
-      "Цуканов Сергей Андреевич": 30,
-      "Шевченко Анатолий Николаевич": 6,
-      "Против всех": 124
+      "gas:candidate-vibid:1001000225919": 215,
+      "gas:candidate-vibid:1001000136024": 30,
+      "gas:candidate-vibid:1001000195051": 6,
+      "gas:candidate-vibid:324300466702": 107,
+      "gas:candidate-vibid:1001000190312": 3,
+      "gas:candidate-vibid:1001000121820": 99,
+      "gas:candidate-vibid:1001000217904": 30,
+      "gas:candidate-vibid:324300466696": 6,
+      "special:against-all": 124
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=242000051&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=224200067656&region=0&sub_region=0&type=429",
@@ -2710,15 +2710,15 @@ export const duma_2003_uik_428_region_24_part_007 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Исаков Игорь Анатольевич": 317,
-      "Каспирович Сергей Викторович": 37,
-      "Ковалев Василий Николаевич": 4,
-      "Многогрешнов Александр Александрович": 143,
-      "Натаров Сергей Васильевич": 4,
-      "Романов Петр Васильевич": 204,
-      "Цуканов Сергей Андреевич": 26,
-      "Шевченко Анатолий Николаевич": 4,
-      "Против всех": 135
+      "gas:candidate-vibid:1001000225919": 317,
+      "gas:candidate-vibid:1001000136024": 37,
+      "gas:candidate-vibid:1001000195051": 4,
+      "gas:candidate-vibid:324300466702": 143,
+      "gas:candidate-vibid:1001000190312": 4,
+      "gas:candidate-vibid:1001000121820": 204,
+      "gas:candidate-vibid:1001000217904": 26,
+      "gas:candidate-vibid:324300466696": 4,
+      "special:against-all": 135
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=242000051&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=224200067656&region=0&sub_region=0&type=429",
@@ -2768,15 +2768,15 @@ export const duma_2003_uik_428_region_24_part_007 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Исаков Игорь Анатольевич": 231,
-      "Каспирович Сергей Викторович": 34,
-      "Ковалев Василий Николаевич": 5,
-      "Многогрешнов Александр Александрович": 179,
-      "Натаров Сергей Васильевич": 5,
-      "Романов Петр Васильевич": 231,
-      "Цуканов Сергей Андреевич": 30,
-      "Шевченко Анатолий Николаевич": 2,
-      "Против всех": 120
+      "gas:candidate-vibid:1001000225919": 231,
+      "gas:candidate-vibid:1001000136024": 34,
+      "gas:candidate-vibid:1001000195051": 5,
+      "gas:candidate-vibid:324300466702": 179,
+      "gas:candidate-vibid:1001000190312": 5,
+      "gas:candidate-vibid:1001000121820": 231,
+      "gas:candidate-vibid:1001000217904": 30,
+      "gas:candidate-vibid:324300466696": 2,
+      "special:against-all": 120
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=242000051&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=224200067656&region=0&sub_region=0&type=429",
@@ -2826,15 +2826,15 @@ export const duma_2003_uik_428_region_24_part_007 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Исаков Игорь Анатольевич": 198,
-      "Каспирович Сергей Викторович": 27,
-      "Ковалев Василий Николаевич": 9,
-      "Многогрешнов Александр Александрович": 113,
-      "Натаров Сергей Васильевич": 3,
-      "Романов Петр Васильевич": 200,
-      "Цуканов Сергей Андреевич": 8,
-      "Шевченко Анатолий Николаевич": 4,
-      "Против всех": 125
+      "gas:candidate-vibid:1001000225919": 198,
+      "gas:candidate-vibid:1001000136024": 27,
+      "gas:candidate-vibid:1001000195051": 9,
+      "gas:candidate-vibid:324300466702": 113,
+      "gas:candidate-vibid:1001000190312": 3,
+      "gas:candidate-vibid:1001000121820": 200,
+      "gas:candidate-vibid:1001000217904": 8,
+      "gas:candidate-vibid:324300466696": 4,
+      "special:against-all": 125
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=242000051&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=224200067656&region=0&sub_region=0&type=429",
@@ -2884,15 +2884,15 @@ export const duma_2003_uik_428_region_24_part_007 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Исаков Игорь Анатольевич": 248,
-      "Каспирович Сергей Викторович": 15,
-      "Ковалев Василий Николаевич": 6,
-      "Многогрешнов Александр Александрович": 129,
-      "Натаров Сергей Васильевич": 6,
-      "Романов Петр Васильевич": 238,
-      "Цуканов Сергей Андреевич": 18,
-      "Шевченко Анатолий Николаевич": 9,
-      "Против всех": 94
+      "gas:candidate-vibid:1001000225919": 248,
+      "gas:candidate-vibid:1001000136024": 15,
+      "gas:candidate-vibid:1001000195051": 6,
+      "gas:candidate-vibid:324300466702": 129,
+      "gas:candidate-vibid:1001000190312": 6,
+      "gas:candidate-vibid:1001000121820": 238,
+      "gas:candidate-vibid:1001000217904": 18,
+      "gas:candidate-vibid:324300466696": 9,
+      "special:against-all": 94
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=242000051&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=224200067656&region=0&sub_region=0&type=429",
@@ -2942,15 +2942,15 @@ export const duma_2003_uik_428_region_24_part_007 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Исаков Игорь Анатольевич": 215,
-      "Каспирович Сергей Викторович": 26,
-      "Ковалев Василий Николаевич": 6,
-      "Многогрешнов Александр Александрович": 118,
-      "Натаров Сергей Васильевич": 5,
-      "Романов Петр Васильевич": 195,
-      "Цуканов Сергей Андреевич": 18,
-      "Шевченко Анатолий Николаевич": 4,
-      "Против всех": 91
+      "gas:candidate-vibid:1001000225919": 215,
+      "gas:candidate-vibid:1001000136024": 26,
+      "gas:candidate-vibid:1001000195051": 6,
+      "gas:candidate-vibid:324300466702": 118,
+      "gas:candidate-vibid:1001000190312": 5,
+      "gas:candidate-vibid:1001000121820": 195,
+      "gas:candidate-vibid:1001000217904": 18,
+      "gas:candidate-vibid:324300466696": 4,
+      "special:against-all": 91
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=242000051&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=224200067656&region=0&sub_region=0&type=429",
@@ -3000,15 +3000,15 @@ export const duma_2003_uik_428_region_24_part_007 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Исаков Игорь Анатольевич": 11,
-      "Каспирович Сергей Викторович": 7,
-      "Ковалев Василий Николаевич": 2,
-      "Многогрешнов Александр Александрович": 17,
-      "Натаров Сергей Васильевич": 1,
-      "Романов Петр Васильевич": 10,
-      "Цуканов Сергей Андреевич": 6,
-      "Шевченко Анатолий Николаевич": 2,
-      "Против всех": 6
+      "gas:candidate-vibid:1001000225919": 11,
+      "gas:candidate-vibid:1001000136024": 7,
+      "gas:candidate-vibid:1001000195051": 2,
+      "gas:candidate-vibid:324300466702": 17,
+      "gas:candidate-vibid:1001000190312": 1,
+      "gas:candidate-vibid:1001000121820": 10,
+      "gas:candidate-vibid:1001000217904": 6,
+      "gas:candidate-vibid:324300466696": 2,
+      "special:against-all": 6
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=242000052&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=224200067657&region=0&sub_region=0&type=429",
@@ -3058,15 +3058,15 @@ export const duma_2003_uik_428_region_24_part_007 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Исаков Игорь Анатольевич": 44,
-      "Каспирович Сергей Викторович": 22,
-      "Ковалев Василий Николаевич": 0,
-      "Многогрешнов Александр Александрович": 21,
-      "Натаров Сергей Васильевич": 0,
-      "Романов Петр Васильевич": 62,
-      "Цуканов Сергей Андреевич": 7,
-      "Шевченко Анатолий Николаевич": 4,
-      "Против всех": 44
+      "gas:candidate-vibid:1001000225919": 44,
+      "gas:candidate-vibid:1001000136024": 22,
+      "gas:candidate-vibid:1001000195051": 0,
+      "gas:candidate-vibid:324300466702": 21,
+      "gas:candidate-vibid:1001000190312": 0,
+      "gas:candidate-vibid:1001000121820": 62,
+      "gas:candidate-vibid:1001000217904": 7,
+      "gas:candidate-vibid:324300466696": 4,
+      "special:against-all": 44
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=242000052&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=224200067657&region=0&sub_region=0&type=429",
@@ -3116,15 +3116,15 @@ export const duma_2003_uik_428_region_24_part_007 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Исаков Игорь Анатольевич": 151,
-      "Каспирович Сергей Викторович": 51,
-      "Ковалев Василий Николаевич": 8,
-      "Многогрешнов Александр Александрович": 107,
-      "Натаров Сергей Васильевич": 11,
-      "Романов Петр Васильевич": 196,
-      "Цуканов Сергей Андреевич": 24,
-      "Шевченко Анатолий Николаевич": 12,
-      "Против всех": 64
+      "gas:candidate-vibid:1001000225919": 151,
+      "gas:candidate-vibid:1001000136024": 51,
+      "gas:candidate-vibid:1001000195051": 8,
+      "gas:candidate-vibid:324300466702": 107,
+      "gas:candidate-vibid:1001000190312": 11,
+      "gas:candidate-vibid:1001000121820": 196,
+      "gas:candidate-vibid:1001000217904": 24,
+      "gas:candidate-vibid:324300466696": 12,
+      "special:against-all": 64
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=242000052&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=224200067657&region=0&sub_region=0&type=429",
@@ -3174,15 +3174,15 @@ export const duma_2003_uik_428_region_24_part_007 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Исаков Игорь Анатольевич": 91,
-      "Каспирович Сергей Викторович": 17,
-      "Ковалев Василий Николаевич": 3,
-      "Многогрешнов Александр Александрович": 26,
-      "Натаров Сергей Васильевич": 5,
-      "Романов Петр Васильевич": 95,
-      "Цуканов Сергей Андреевич": 8,
-      "Шевченко Анатолий Николаевич": 10,
-      "Против всех": 24
+      "gas:candidate-vibid:1001000225919": 91,
+      "gas:candidate-vibid:1001000136024": 17,
+      "gas:candidate-vibid:1001000195051": 3,
+      "gas:candidate-vibid:324300466702": 26,
+      "gas:candidate-vibid:1001000190312": 5,
+      "gas:candidate-vibid:1001000121820": 95,
+      "gas:candidate-vibid:1001000217904": 8,
+      "gas:candidate-vibid:324300466696": 10,
+      "special:against-all": 24
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=242000052&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=224200067657&region=0&sub_region=0&type=429",
@@ -3232,15 +3232,15 @@ export const duma_2003_uik_428_region_24_part_007 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Исаков Игорь Анатольевич": 12,
-      "Каспирович Сергей Викторович": 4,
-      "Ковалев Василий Николаевич": 2,
-      "Многогрешнов Александр Александрович": 4,
-      "Натаров Сергей Васильевич": 0,
-      "Романов Петр Васильевич": 26,
-      "Цуканов Сергей Андреевич": 2,
-      "Шевченко Анатолий Николаевич": 3,
-      "Против всех": 3
+      "gas:candidate-vibid:1001000225919": 12,
+      "gas:candidate-vibid:1001000136024": 4,
+      "gas:candidate-vibid:1001000195051": 2,
+      "gas:candidate-vibid:324300466702": 4,
+      "gas:candidate-vibid:1001000190312": 0,
+      "gas:candidate-vibid:1001000121820": 26,
+      "gas:candidate-vibid:1001000217904": 2,
+      "gas:candidate-vibid:324300466696": 3,
+      "special:against-all": 3
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=242000052&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=224200067657&region=0&sub_region=0&type=429",
@@ -3290,15 +3290,15 @@ export const duma_2003_uik_428_region_24_part_007 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Исаков Игорь Анатольевич": 1,
-      "Каспирович Сергей Викторович": 1,
-      "Ковалев Василий Николаевич": 0,
-      "Многогрешнов Александр Александрович": 0,
-      "Натаров Сергей Васильевич": 2,
-      "Романов Петр Васильевич": 15,
-      "Цуканов Сергей Андреевич": 1,
-      "Шевченко Анатолий Николаевич": 2,
-      "Против всех": 4
+      "gas:candidate-vibid:1001000225919": 1,
+      "gas:candidate-vibid:1001000136024": 1,
+      "gas:candidate-vibid:1001000195051": 0,
+      "gas:candidate-vibid:324300466702": 0,
+      "gas:candidate-vibid:1001000190312": 2,
+      "gas:candidate-vibid:1001000121820": 15,
+      "gas:candidate-vibid:1001000217904": 1,
+      "gas:candidate-vibid:324300466696": 2,
+      "special:against-all": 4
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=242000052&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=224200067657&region=0&sub_region=0&type=429",
@@ -3348,15 +3348,15 @@ export const duma_2003_uik_428_region_24_part_007 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Исаков Игорь Анатольевич": 20,
-      "Каспирович Сергей Викторович": 3,
-      "Ковалев Василий Николаевич": 1,
-      "Многогрешнов Александр Александрович": 20,
-      "Натаров Сергей Васильевич": 1,
-      "Романов Петр Васильевич": 24,
-      "Цуканов Сергей Андреевич": 2,
-      "Шевченко Анатолий Николаевич": 1,
-      "Против всех": 22
+      "gas:candidate-vibid:1001000225919": 20,
+      "gas:candidate-vibid:1001000136024": 3,
+      "gas:candidate-vibid:1001000195051": 1,
+      "gas:candidate-vibid:324300466702": 20,
+      "gas:candidate-vibid:1001000190312": 1,
+      "gas:candidate-vibid:1001000121820": 24,
+      "gas:candidate-vibid:1001000217904": 2,
+      "gas:candidate-vibid:324300466696": 1,
+      "special:against-all": 22
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=242000052&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=224200067657&region=0&sub_region=0&type=429",
@@ -3406,15 +3406,15 @@ export const duma_2003_uik_428_region_24_part_007 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Исаков Игорь Анатольевич": 68,
-      "Каспирович Сергей Викторович": 14,
-      "Ковалев Василий Николаевич": 5,
-      "Многогрешнов Александр Александрович": 31,
-      "Натаров Сергей Васильевич": 4,
-      "Романов Петр Васильевич": 54,
-      "Цуканов Сергей Андреевич": 17,
-      "Шевченко Анатолий Николаевич": 2,
-      "Против всех": 26
+      "gas:candidate-vibid:1001000225919": 68,
+      "gas:candidate-vibid:1001000136024": 14,
+      "gas:candidate-vibid:1001000195051": 5,
+      "gas:candidate-vibid:324300466702": 31,
+      "gas:candidate-vibid:1001000190312": 4,
+      "gas:candidate-vibid:1001000121820": 54,
+      "gas:candidate-vibid:1001000217904": 17,
+      "gas:candidate-vibid:324300466696": 2,
+      "special:against-all": 26
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=242000052&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=224200067657&region=0&sub_region=0&type=429",
@@ -3464,15 +3464,15 @@ export const duma_2003_uik_428_region_24_part_007 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Исаков Игорь Анатольевич": 259,
-      "Каспирович Сергей Викторович": 19,
-      "Ковалев Василий Николаевич": 10,
-      "Многогрешнов Александр Александрович": 70,
-      "Натаров Сергей Васильевич": 1,
-      "Романов Петр Васильевич": 164,
-      "Цуканов Сергей Андреевич": 4,
-      "Шевченко Анатолий Николаевич": 6,
-      "Против всех": 63
+      "gas:candidate-vibid:1001000225919": 259,
+      "gas:candidate-vibid:1001000136024": 19,
+      "gas:candidate-vibid:1001000195051": 10,
+      "gas:candidate-vibid:324300466702": 70,
+      "gas:candidate-vibid:1001000190312": 1,
+      "gas:candidate-vibid:1001000121820": 164,
+      "gas:candidate-vibid:1001000217904": 4,
+      "gas:candidate-vibid:324300466696": 6,
+      "special:against-all": 63
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=242000052&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=224200067657&region=0&sub_region=0&type=429",
@@ -3522,15 +3522,15 @@ export const duma_2003_uik_428_region_24_part_007 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Исаков Игорь Анатольевич": 209,
-      "Каспирович Сергей Викторович": 30,
-      "Ковалев Василий Николаевич": 10,
-      "Многогрешнов Александр Александрович": 83,
-      "Натаров Сергей Васильевич": 5,
-      "Романов Петр Васильевич": 232,
-      "Цуканов Сергей Андреевич": 13,
-      "Шевченко Анатолий Николаевич": 14,
-      "Против всех": 58
+      "gas:candidate-vibid:1001000225919": 209,
+      "gas:candidate-vibid:1001000136024": 30,
+      "gas:candidate-vibid:1001000195051": 10,
+      "gas:candidate-vibid:324300466702": 83,
+      "gas:candidate-vibid:1001000190312": 5,
+      "gas:candidate-vibid:1001000121820": 232,
+      "gas:candidate-vibid:1001000217904": 13,
+      "gas:candidate-vibid:324300466696": 14,
+      "special:against-all": 58
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=242000052&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=224200067657&region=0&sub_region=0&type=429",
@@ -3580,15 +3580,15 @@ export const duma_2003_uik_428_region_24_part_007 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Исаков Игорь Анатольевич": 46,
-      "Каспирович Сергей Викторович": 4,
-      "Ковалев Василий Николаевич": 0,
-      "Многогрешнов Александр Александрович": 12,
-      "Натаров Сергей Васильевич": 1,
-      "Романов Петр Васильевич": 22,
-      "Цуканов Сергей Андреевич": 3,
-      "Шевченко Анатолий Николаевич": 0,
-      "Против всех": 8
+      "gas:candidate-vibid:1001000225919": 46,
+      "gas:candidate-vibid:1001000136024": 4,
+      "gas:candidate-vibid:1001000195051": 0,
+      "gas:candidate-vibid:324300466702": 12,
+      "gas:candidate-vibid:1001000190312": 1,
+      "gas:candidate-vibid:1001000121820": 22,
+      "gas:candidate-vibid:1001000217904": 3,
+      "gas:candidate-vibid:324300466696": 0,
+      "special:against-all": 8
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=242000052&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=224200067657&region=0&sub_region=0&type=429",
@@ -3638,15 +3638,15 @@ export const duma_2003_uik_428_region_24_part_007 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Исаков Игорь Анатольевич": 190,
-      "Каспирович Сергей Викторович": 24,
-      "Ковалев Василий Николаевич": 1,
-      "Многогрешнов Александр Александрович": 138,
-      "Натаров Сергей Васильевич": 3,
-      "Романов Петр Васильевич": 172,
-      "Цуканов Сергей Андреевич": 14,
-      "Шевченко Анатолий Николаевич": 3,
-      "Против всех": 50
+      "gas:candidate-vibid:1001000225919": 190,
+      "gas:candidate-vibid:1001000136024": 24,
+      "gas:candidate-vibid:1001000195051": 1,
+      "gas:candidate-vibid:324300466702": 138,
+      "gas:candidate-vibid:1001000190312": 3,
+      "gas:candidate-vibid:1001000121820": 172,
+      "gas:candidate-vibid:1001000217904": 14,
+      "gas:candidate-vibid:324300466696": 3,
+      "special:against-all": 50
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=242000052&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=224200067657&region=0&sub_region=0&type=429",
@@ -3696,15 +3696,15 @@ export const duma_2003_uik_428_region_24_part_007 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Исаков Игорь Анатольевич": 163,
-      "Каспирович Сергей Викторович": 12,
-      "Ковалев Василий Николаевич": 3,
-      "Многогрешнов Александр Александрович": 91,
-      "Натаров Сергей Васильевич": 5,
-      "Романов Петр Васильевич": 133,
-      "Цуканов Сергей Андреевич": 16,
-      "Шевченко Анатолий Николаевич": 1,
-      "Против всех": 39
+      "gas:candidate-vibid:1001000225919": 163,
+      "gas:candidate-vibid:1001000136024": 12,
+      "gas:candidate-vibid:1001000195051": 3,
+      "gas:candidate-vibid:324300466702": 91,
+      "gas:candidate-vibid:1001000190312": 5,
+      "gas:candidate-vibid:1001000121820": 133,
+      "gas:candidate-vibid:1001000217904": 16,
+      "gas:candidate-vibid:324300466696": 1,
+      "special:against-all": 39
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=242000052&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=224200067657&region=0&sub_region=0&type=429",
@@ -3754,15 +3754,15 @@ export const duma_2003_uik_428_region_24_part_007 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Исаков Игорь Анатольевич": 149,
-      "Каспирович Сергей Викторович": 7,
-      "Ковалев Василий Николаевич": 5,
-      "Многогрешнов Александр Александрович": 84,
-      "Натаров Сергей Васильевич": 3,
-      "Романов Петр Васильевич": 79,
-      "Цуканов Сергей Андреевич": 6,
-      "Шевченко Анатолий Николаевич": 9,
-      "Против всех": 45
+      "gas:candidate-vibid:1001000225919": 149,
+      "gas:candidate-vibid:1001000136024": 7,
+      "gas:candidate-vibid:1001000195051": 5,
+      "gas:candidate-vibid:324300466702": 84,
+      "gas:candidate-vibid:1001000190312": 3,
+      "gas:candidate-vibid:1001000121820": 79,
+      "gas:candidate-vibid:1001000217904": 6,
+      "gas:candidate-vibid:324300466696": 9,
+      "special:against-all": 45
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=242000052&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=224200067657&region=0&sub_region=0&type=429",
@@ -3812,15 +3812,15 @@ export const duma_2003_uik_428_region_24_part_007 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Исаков Игорь Анатольевич": 149,
-      "Каспирович Сергей Викторович": 15,
-      "Ковалев Василий Николаевич": 6,
-      "Многогрешнов Александр Александрович": 95,
-      "Натаров Сергей Васильевич": 2,
-      "Романов Петр Васильевич": 114,
-      "Цуканов Сергей Андреевич": 12,
-      "Шевченко Анатолий Николаевич": 13,
-      "Против всех": 70
+      "gas:candidate-vibid:1001000225919": 149,
+      "gas:candidate-vibid:1001000136024": 15,
+      "gas:candidate-vibid:1001000195051": 6,
+      "gas:candidate-vibid:324300466702": 95,
+      "gas:candidate-vibid:1001000190312": 2,
+      "gas:candidate-vibid:1001000121820": 114,
+      "gas:candidate-vibid:1001000217904": 12,
+      "gas:candidate-vibid:324300466696": 13,
+      "special:against-all": 70
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=242000052&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=224200067657&region=0&sub_region=0&type=429",
@@ -3870,15 +3870,15 @@ export const duma_2003_uik_428_region_24_part_007 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Исаков Игорь Анатольевич": 134,
-      "Каспирович Сергей Викторович": 27,
-      "Ковалев Василий Николаевич": 3,
-      "Многогрешнов Александр Александрович": 119,
-      "Натаров Сергей Васильевич": 3,
-      "Романов Петр Васильевич": 142,
-      "Цуканов Сергей Андреевич": 12,
-      "Шевченко Анатолий Николаевич": 13,
-      "Против всех": 46
+      "gas:candidate-vibid:1001000225919": 134,
+      "gas:candidate-vibid:1001000136024": 27,
+      "gas:candidate-vibid:1001000195051": 3,
+      "gas:candidate-vibid:324300466702": 119,
+      "gas:candidate-vibid:1001000190312": 3,
+      "gas:candidate-vibid:1001000121820": 142,
+      "gas:candidate-vibid:1001000217904": 12,
+      "gas:candidate-vibid:324300466696": 13,
+      "special:against-all": 46
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=242000052&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=224200067657&region=0&sub_region=0&type=429",
@@ -3928,15 +3928,15 @@ export const duma_2003_uik_428_region_24_part_007 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Исаков Игорь Анатольевич": 150,
-      "Каспирович Сергей Викторович": 19,
-      "Ковалев Василий Николаевич": 3,
-      "Многогрешнов Александр Александрович": 112,
-      "Натаров Сергей Васильевич": 3,
-      "Романов Петр Васильевич": 110,
-      "Цуканов Сергей Андреевич": 12,
-      "Шевченко Анатолий Николаевич": 8,
-      "Против всех": 53
+      "gas:candidate-vibid:1001000225919": 150,
+      "gas:candidate-vibid:1001000136024": 19,
+      "gas:candidate-vibid:1001000195051": 3,
+      "gas:candidate-vibid:324300466702": 112,
+      "gas:candidate-vibid:1001000190312": 3,
+      "gas:candidate-vibid:1001000121820": 110,
+      "gas:candidate-vibid:1001000217904": 12,
+      "gas:candidate-vibid:324300466696": 8,
+      "special:against-all": 53
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=242000052&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=224200067657&region=0&sub_region=0&type=429",
@@ -3986,15 +3986,15 @@ export const duma_2003_uik_428_region_24_part_007 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Исаков Игорь Анатольевич": 151,
-      "Каспирович Сергей Викторович": 15,
-      "Ковалев Василий Николаевич": 9,
-      "Многогрешнов Александр Александрович": 71,
-      "Натаров Сергей Васильевич": 4,
-      "Романов Петр Васильевич": 119,
-      "Цуканов Сергей Андреевич": 7,
-      "Шевченко Анатолий Николаевич": 5,
-      "Против всех": 45
+      "gas:candidate-vibid:1001000225919": 151,
+      "gas:candidate-vibid:1001000136024": 15,
+      "gas:candidate-vibid:1001000195051": 9,
+      "gas:candidate-vibid:324300466702": 71,
+      "gas:candidate-vibid:1001000190312": 4,
+      "gas:candidate-vibid:1001000121820": 119,
+      "gas:candidate-vibid:1001000217904": 7,
+      "gas:candidate-vibid:324300466696": 5,
+      "special:against-all": 45
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=242000052&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=224200067657&region=0&sub_region=0&type=429",
@@ -4044,15 +4044,15 @@ export const duma_2003_uik_428_region_24_part_007 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Исаков Игорь Анатольевич": 148,
-      "Каспирович Сергей Викторович": 17,
-      "Ковалев Василий Николаевич": 3,
-      "Многогрешнов Александр Александрович": 87,
-      "Натаров Сергей Васильевич": 5,
-      "Романов Петр Васильевич": 79,
-      "Цуканов Сергей Андреевич": 6,
-      "Шевченко Анатолий Николаевич": 6,
-      "Против всех": 16
+      "gas:candidate-vibid:1001000225919": 148,
+      "gas:candidate-vibid:1001000136024": 17,
+      "gas:candidate-vibid:1001000195051": 3,
+      "gas:candidate-vibid:324300466702": 87,
+      "gas:candidate-vibid:1001000190312": 5,
+      "gas:candidate-vibid:1001000121820": 79,
+      "gas:candidate-vibid:1001000217904": 6,
+      "gas:candidate-vibid:324300466696": 6,
+      "special:against-all": 16
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=242000052&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=224200067657&region=0&sub_region=0&type=429",
@@ -4102,15 +4102,15 @@ export const duma_2003_uik_428_region_24_part_007 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Исаков Игорь Анатольевич": 251,
-      "Каспирович Сергей Викторович": 20,
-      "Ковалев Василий Николаевич": 5,
-      "Многогрешнов Александр Александрович": 108,
-      "Натаров Сергей Васильевич": 1,
-      "Романов Петр Васильевич": 107,
-      "Цуканов Сергей Андреевич": 11,
-      "Шевченко Анатолий Николаевич": 5,
-      "Против всех": 32
+      "gas:candidate-vibid:1001000225919": 251,
+      "gas:candidate-vibid:1001000136024": 20,
+      "gas:candidate-vibid:1001000195051": 5,
+      "gas:candidate-vibid:324300466702": 108,
+      "gas:candidate-vibid:1001000190312": 1,
+      "gas:candidate-vibid:1001000121820": 107,
+      "gas:candidate-vibid:1001000217904": 11,
+      "gas:candidate-vibid:324300466696": 5,
+      "special:against-all": 32
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=242000052&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=224200067657&region=0&sub_region=0&type=429",
@@ -4160,15 +4160,15 @@ export const duma_2003_uik_428_region_24_part_007 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Исаков Игорь Анатольевич": 280,
-      "Каспирович Сергей Викторович": 7,
-      "Ковалев Василий Николаевич": 4,
-      "Многогрешнов Александр Александрович": 53,
-      "Натаров Сергей Васильевич": 1,
-      "Романов Петр Васильевич": 68,
-      "Цуканов Сергей Андреевич": 6,
-      "Шевченко Анатолий Николаевич": 5,
-      "Против всех": 33
+      "gas:candidate-vibid:1001000225919": 280,
+      "gas:candidate-vibid:1001000136024": 7,
+      "gas:candidate-vibid:1001000195051": 4,
+      "gas:candidate-vibid:324300466702": 53,
+      "gas:candidate-vibid:1001000190312": 1,
+      "gas:candidate-vibid:1001000121820": 68,
+      "gas:candidate-vibid:1001000217904": 6,
+      "gas:candidate-vibid:324300466696": 5,
+      "special:against-all": 33
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=242000052&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=224200067657&region=0&sub_region=0&type=429",
@@ -4218,15 +4218,15 @@ export const duma_2003_uik_428_region_24_part_007 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Исаков Игорь Анатольевич": 61,
-      "Каспирович Сергей Викторович": 22,
-      "Ковалев Василий Николаевич": 5,
-      "Многогрешнов Александр Александрович": 7,
-      "Натаров Сергей Васильевич": 2,
-      "Романов Петр Васильевич": 52,
-      "Цуканов Сергей Андреевич": 6,
-      "Шевченко Анатолий Николаевич": 5,
-      "Против всех": 34
+      "gas:candidate-vibid:1001000225919": 61,
+      "gas:candidate-vibid:1001000136024": 22,
+      "gas:candidate-vibid:1001000195051": 5,
+      "gas:candidate-vibid:324300466702": 7,
+      "gas:candidate-vibid:1001000190312": 2,
+      "gas:candidate-vibid:1001000121820": 52,
+      "gas:candidate-vibid:1001000217904": 6,
+      "gas:candidate-vibid:324300466696": 5,
+      "special:against-all": 34
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=242000052&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=224200067657&region=0&sub_region=0&type=429",
@@ -4276,15 +4276,15 @@ export const duma_2003_uik_428_region_24_part_007 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Исаков Игорь Анатольевич": 392,
-      "Каспирович Сергей Викторович": 48,
-      "Ковалев Василий Николаевич": 11,
-      "Многогрешнов Александр Александрович": 27,
-      "Натаров Сергей Васильевич": 11,
-      "Романов Петр Васильевич": 184,
-      "Цуканов Сергей Андреевич": 13,
-      "Шевченко Анатолий Николаевич": 13,
-      "Против всех": 90
+      "gas:candidate-vibid:1001000225919": 392,
+      "gas:candidate-vibid:1001000136024": 48,
+      "gas:candidate-vibid:1001000195051": 11,
+      "gas:candidate-vibid:324300466702": 27,
+      "gas:candidate-vibid:1001000190312": 11,
+      "gas:candidate-vibid:1001000121820": 184,
+      "gas:candidate-vibid:1001000217904": 13,
+      "gas:candidate-vibid:324300466696": 13,
+      "special:against-all": 90
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=242000052&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=224200067657&region=0&sub_region=0&type=429",
@@ -4334,15 +4334,15 @@ export const duma_2003_uik_428_region_24_part_007 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Исаков Игорь Анатольевич": 306,
-      "Каспирович Сергей Викторович": 47,
-      "Ковалев Василий Николаевич": 14,
-      "Многогрешнов Александр Александрович": 39,
-      "Натаров Сергей Васильевич": 9,
-      "Романов Петр Васильевич": 159,
-      "Цуканов Сергей Андреевич": 16,
-      "Шевченко Анатолий Николаевич": 10,
-      "Против всех": 89
+      "gas:candidate-vibid:1001000225919": 306,
+      "gas:candidate-vibid:1001000136024": 47,
+      "gas:candidate-vibid:1001000195051": 14,
+      "gas:candidate-vibid:324300466702": 39,
+      "gas:candidate-vibid:1001000190312": 9,
+      "gas:candidate-vibid:1001000121820": 159,
+      "gas:candidate-vibid:1001000217904": 16,
+      "gas:candidate-vibid:324300466696": 10,
+      "special:against-all": 89
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=242000052&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=224200067657&region=0&sub_region=0&type=429",
@@ -4392,15 +4392,15 @@ export const duma_2003_uik_428_region_24_part_007 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Исаков Игорь Анатольевич": 57,
-      "Каспирович Сергей Викторович": 0,
-      "Ковалев Василий Николаевич": 2,
-      "Многогрешнов Александр Александрович": 13,
-      "Натаров Сергей Васильевич": 2,
-      "Романов Петр Васильевич": 15,
-      "Цуканов Сергей Андреевич": 2,
-      "Шевченко Анатолий Николаевич": 0,
-      "Против всех": 13
+      "gas:candidate-vibid:1001000225919": 57,
+      "gas:candidate-vibid:1001000136024": 0,
+      "gas:candidate-vibid:1001000195051": 2,
+      "gas:candidate-vibid:324300466702": 13,
+      "gas:candidate-vibid:1001000190312": 2,
+      "gas:candidate-vibid:1001000121820": 15,
+      "gas:candidate-vibid:1001000217904": 2,
+      "gas:candidate-vibid:324300466696": 0,
+      "special:against-all": 13
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=242000052&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=224200067657&region=0&sub_region=0&type=429",
@@ -4450,15 +4450,15 @@ export const duma_2003_uik_428_region_24_part_007 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Исаков Игорь Анатольевич": 138,
-      "Каспирович Сергей Викторович": 11,
-      "Ковалев Василий Николаевич": 6,
-      "Многогрешнов Александр Александрович": 43,
-      "Натаров Сергей Васильевич": 1,
-      "Романов Петр Васильевич": 43,
-      "Цуканов Сергей Андреевич": 9,
-      "Шевченко Анатолий Николаевич": 3,
-      "Против всех": 62
+      "gas:candidate-vibid:1001000225919": 138,
+      "gas:candidate-vibid:1001000136024": 11,
+      "gas:candidate-vibid:1001000195051": 6,
+      "gas:candidate-vibid:324300466702": 43,
+      "gas:candidate-vibid:1001000190312": 1,
+      "gas:candidate-vibid:1001000121820": 43,
+      "gas:candidate-vibid:1001000217904": 9,
+      "gas:candidate-vibid:324300466696": 3,
+      "special:against-all": 62
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=242000052&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=224200067657&region=0&sub_region=0&type=429",
@@ -4508,15 +4508,15 @@ export const duma_2003_uik_428_region_24_part_007 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Исаков Игорь Анатольевич": 287,
-      "Каспирович Сергей Викторович": 74,
-      "Ковалев Василий Николаевич": 22,
-      "Многогрешнов Александр Александрович": 59,
-      "Натаров Сергей Васильевич": 6,
-      "Романов Петр Васильевич": 341,
-      "Цуканов Сергей Андреевич": 17,
-      "Шевченко Анатолий Николаевич": 38,
-      "Против всех": 247
+      "gas:candidate-vibid:1001000225919": 287,
+      "gas:candidate-vibid:1001000136024": 74,
+      "gas:candidate-vibid:1001000195051": 22,
+      "gas:candidate-vibid:324300466702": 59,
+      "gas:candidate-vibid:1001000190312": 6,
+      "gas:candidate-vibid:1001000121820": 341,
+      "gas:candidate-vibid:1001000217904": 17,
+      "gas:candidate-vibid:324300466696": 38,
+      "special:against-all": 247
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=242000052&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=224200067657&region=0&sub_region=0&type=429",
@@ -4566,15 +4566,15 @@ export const duma_2003_uik_428_region_24_part_007 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Исаков Игорь Анатольевич": 24,
-      "Каспирович Сергей Викторович": 6,
-      "Ковалев Василий Николаевич": 0,
-      "Многогрешнов Александр Александрович": 4,
-      "Натаров Сергей Васильевич": 0,
-      "Романов Петр Васильевич": 29,
-      "Цуканов Сергей Андреевич": 0,
-      "Шевченко Анатолий Николаевич": 1,
-      "Против всех": 8
+      "gas:candidate-vibid:1001000225919": 24,
+      "gas:candidate-vibid:1001000136024": 6,
+      "gas:candidate-vibid:1001000195051": 0,
+      "gas:candidate-vibid:324300466702": 4,
+      "gas:candidate-vibid:1001000190312": 0,
+      "gas:candidate-vibid:1001000121820": 29,
+      "gas:candidate-vibid:1001000217904": 0,
+      "gas:candidate-vibid:324300466696": 1,
+      "special:against-all": 8
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=242000052&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=224200067657&region=0&sub_region=0&type=429",
@@ -4624,15 +4624,15 @@ export const duma_2003_uik_428_region_24_part_007 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Исаков Игорь Анатольевич": 178,
-      "Каспирович Сергей Викторович": 59,
-      "Ковалев Василий Николаевич": 11,
-      "Многогрешнов Александр Александрович": 179,
-      "Натаров Сергей Васильевич": 14,
-      "Романов Петр Васильевич": 284,
-      "Цуканов Сергей Андреевич": 37,
-      "Шевченко Анатолий Николаевич": 23,
-      "Против всех": 125
+      "gas:candidate-vibid:1001000225919": 178,
+      "gas:candidate-vibid:1001000136024": 59,
+      "gas:candidate-vibid:1001000195051": 11,
+      "gas:candidate-vibid:324300466702": 179,
+      "gas:candidate-vibid:1001000190312": 14,
+      "gas:candidate-vibid:1001000121820": 284,
+      "gas:candidate-vibid:1001000217904": 37,
+      "gas:candidate-vibid:324300466696": 23,
+      "special:against-all": 125
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=242000052&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=224200067657&region=0&sub_region=0&type=429",
@@ -4682,15 +4682,15 @@ export const duma_2003_uik_428_region_24_part_007 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Исаков Игорь Анатольевич": 242,
-      "Каспирович Сергей Викторович": 43,
-      "Ковалев Василий Николаевич": 11,
-      "Многогрешнов Александр Александрович": 72,
-      "Натаров Сергей Васильевич": 10,
-      "Романов Петр Васильевич": 105,
-      "Цуканов Сергей Андреевич": 17,
-      "Шевченко Анатолий Николаевич": 21,
-      "Против всех": 63
+      "gas:candidate-vibid:1001000225919": 242,
+      "gas:candidate-vibid:1001000136024": 43,
+      "gas:candidate-vibid:1001000195051": 11,
+      "gas:candidate-vibid:324300466702": 72,
+      "gas:candidate-vibid:1001000190312": 10,
+      "gas:candidate-vibid:1001000121820": 105,
+      "gas:candidate-vibid:1001000217904": 17,
+      "gas:candidate-vibid:324300466696": 21,
+      "special:against-all": 63
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=242000052&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=224200067657&region=0&sub_region=0&type=429",
@@ -4740,15 +4740,15 @@ export const duma_2003_uik_428_region_24_part_007 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Исаков Игорь Анатольевич": 148,
-      "Каспирович Сергей Викторович": 23,
-      "Ковалев Василий Николаевич": 6,
-      "Многогрешнов Александр Александрович": 55,
-      "Натаров Сергей Васильевич": 3,
-      "Романов Петр Васильевич": 56,
-      "Цуканов Сергей Андреевич": 9,
-      "Шевченко Анатолий Николаевич": 9,
-      "Против всех": 26
+      "gas:candidate-vibid:1001000225919": 148,
+      "gas:candidate-vibid:1001000136024": 23,
+      "gas:candidate-vibid:1001000195051": 6,
+      "gas:candidate-vibid:324300466702": 55,
+      "gas:candidate-vibid:1001000190312": 3,
+      "gas:candidate-vibid:1001000121820": 56,
+      "gas:candidate-vibid:1001000217904": 9,
+      "gas:candidate-vibid:324300466696": 9,
+      "special:against-all": 26
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=242000052&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=224200067657&region=0&sub_region=0&type=429",
@@ -4798,15 +4798,15 @@ export const duma_2003_uik_428_region_24_part_007 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Исаков Игорь Анатольевич": 295,
-      "Каспирович Сергей Викторович": 24,
-      "Ковалев Василий Николаевич": 10,
-      "Многогрешнов Александр Александрович": 59,
-      "Натаров Сергей Васильевич": 6,
-      "Романов Петр Васильевич": 144,
-      "Цуканов Сергей Андреевич": 8,
-      "Шевченко Анатолий Николаевич": 15,
-      "Против всех": 72
+      "gas:candidate-vibid:1001000225919": 295,
+      "gas:candidate-vibid:1001000136024": 24,
+      "gas:candidate-vibid:1001000195051": 10,
+      "gas:candidate-vibid:324300466702": 59,
+      "gas:candidate-vibid:1001000190312": 6,
+      "gas:candidate-vibid:1001000121820": 144,
+      "gas:candidate-vibid:1001000217904": 8,
+      "gas:candidate-vibid:324300466696": 15,
+      "special:against-all": 72
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=242000052&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=224200067657&region=0&sub_region=0&type=429",
@@ -4856,15 +4856,15 @@ export const duma_2003_uik_428_region_24_part_007 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Исаков Игорь Анатольевич": 87,
-      "Каспирович Сергей Викторович": 17,
-      "Ковалев Василий Николаевич": 1,
-      "Многогрешнов Александр Александрович": 27,
-      "Натаров Сергей Васильевич": 2,
-      "Романов Петр Васильевич": 45,
-      "Цуканов Сергей Андреевич": 7,
-      "Шевченко Анатолий Николаевич": 7,
-      "Против всех": 31
+      "gas:candidate-vibid:1001000225919": 87,
+      "gas:candidate-vibid:1001000136024": 17,
+      "gas:candidate-vibid:1001000195051": 1,
+      "gas:candidate-vibid:324300466702": 27,
+      "gas:candidate-vibid:1001000190312": 2,
+      "gas:candidate-vibid:1001000121820": 45,
+      "gas:candidate-vibid:1001000217904": 7,
+      "gas:candidate-vibid:324300466696": 7,
+      "special:against-all": 31
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=242000052&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=224200067657&region=0&sub_region=0&type=429",
@@ -4914,15 +4914,15 @@ export const duma_2003_uik_428_region_24_part_007 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Исаков Игорь Анатольевич": 215,
-      "Каспирович Сергей Викторович": 30,
-      "Ковалев Василий Николаевич": 4,
-      "Многогрешнов Александр Александрович": 24,
-      "Натаров Сергей Васильевич": 4,
-      "Романов Петр Васильевич": 72,
-      "Цуканов Сергей Андреевич": 9,
-      "Шевченко Анатолий Николаевич": 14,
-      "Против всех": 66
+      "gas:candidate-vibid:1001000225919": 215,
+      "gas:candidate-vibid:1001000136024": 30,
+      "gas:candidate-vibid:1001000195051": 4,
+      "gas:candidate-vibid:324300466702": 24,
+      "gas:candidate-vibid:1001000190312": 4,
+      "gas:candidate-vibid:1001000121820": 72,
+      "gas:candidate-vibid:1001000217904": 9,
+      "gas:candidate-vibid:324300466696": 14,
+      "special:against-all": 66
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=242000052&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=224200067657&region=0&sub_region=0&type=429",
@@ -4972,15 +4972,15 @@ export const duma_2003_uik_428_region_24_part_007 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Исаков Игорь Анатольевич": 0,
-      "Каспирович Сергей Викторович": 0,
-      "Ковалев Василий Николаевич": 0,
-      "Многогрешнов Александр Александрович": 0,
-      "Натаров Сергей Васильевич": 0,
-      "Романов Петр Васильевич": 1,
-      "Цуканов Сергей Андреевич": 1,
-      "Шевченко Анатолий Николаевич": 1,
-      "Против всех": 8
+      "gas:candidate-vibid:1001000225919": 0,
+      "gas:candidate-vibid:1001000136024": 0,
+      "gas:candidate-vibid:1001000195051": 0,
+      "gas:candidate-vibid:324300466702": 0,
+      "gas:candidate-vibid:1001000190312": 0,
+      "gas:candidate-vibid:1001000121820": 1,
+      "gas:candidate-vibid:1001000217904": 1,
+      "gas:candidate-vibid:324300466696": 1,
+      "special:against-all": 8
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=242000052&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=224200067657&region=0&sub_region=0&type=429",
@@ -5030,15 +5030,15 @@ export const duma_2003_uik_428_region_24_part_007 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Исаков Игорь Анатольевич": 292,
-      "Каспирович Сергей Викторович": 39,
-      "Ковалев Василий Николаевич": 8,
-      "Многогрешнов Александр Александрович": 122,
-      "Натаров Сергей Васильевич": 15,
-      "Романов Петр Васильевич": 406,
-      "Цуканов Сергей Андреевич": 129,
-      "Шевченко Анатолий Николаевич": 4,
-      "Против всех": 87
+      "gas:candidate-vibid:1001000225919": 292,
+      "gas:candidate-vibid:1001000136024": 39,
+      "gas:candidate-vibid:1001000195051": 8,
+      "gas:candidate-vibid:324300466702": 122,
+      "gas:candidate-vibid:1001000190312": 15,
+      "gas:candidate-vibid:1001000121820": 406,
+      "gas:candidate-vibid:1001000217904": 129,
+      "gas:candidate-vibid:324300466696": 4,
+      "special:against-all": 87
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=242000053&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=224200067658&region=0&sub_region=0&type=429",
@@ -5088,15 +5088,15 @@ export const duma_2003_uik_428_region_24_part_007 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Исаков Игорь Анатольевич": 345,
-      "Каспирович Сергей Викторович": 47,
-      "Ковалев Василий Николаевич": 6,
-      "Многогрешнов Александр Александрович": 131,
-      "Натаров Сергей Васильевич": 12,
-      "Романов Петр Васильевич": 333,
-      "Цуканов Сергей Андреевич": 122,
-      "Шевченко Анатолий Николаевич": 6,
-      "Против всех": 86
+      "gas:candidate-vibid:1001000225919": 345,
+      "gas:candidate-vibid:1001000136024": 47,
+      "gas:candidate-vibid:1001000195051": 6,
+      "gas:candidate-vibid:324300466702": 131,
+      "gas:candidate-vibid:1001000190312": 12,
+      "gas:candidate-vibid:1001000121820": 333,
+      "gas:candidate-vibid:1001000217904": 122,
+      "gas:candidate-vibid:324300466696": 6,
+      "special:against-all": 86
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=242000053&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=224200067658&region=0&sub_region=0&type=429",
@@ -5146,15 +5146,15 @@ export const duma_2003_uik_428_region_24_part_007 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Исаков Игорь Анатольевич": 285,
-      "Каспирович Сергей Викторович": 28,
-      "Ковалев Василий Николаевич": 2,
-      "Многогрешнов Александр Александрович": 62,
-      "Натаров Сергей Васильевич": 2,
-      "Романов Петр Васильевич": 246,
-      "Цуканов Сергей Андреевич": 38,
-      "Шевченко Анатолий Николаевич": 4,
-      "Против всех": 34
+      "gas:candidate-vibid:1001000225919": 285,
+      "gas:candidate-vibid:1001000136024": 28,
+      "gas:candidate-vibid:1001000195051": 2,
+      "gas:candidate-vibid:324300466702": 62,
+      "gas:candidate-vibid:1001000190312": 2,
+      "gas:candidate-vibid:1001000121820": 246,
+      "gas:candidate-vibid:1001000217904": 38,
+      "gas:candidate-vibid:324300466696": 4,
+      "special:against-all": 34
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=242000053&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=224200067658&region=0&sub_region=0&type=429",
@@ -5204,15 +5204,15 @@ export const duma_2003_uik_428_region_24_part_007 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Исаков Игорь Анатольевич": 49,
-      "Каспирович Сергей Викторович": 5,
-      "Ковалев Василий Николаевич": 1,
-      "Многогрешнов Александр Александрович": 13,
-      "Натаров Сергей Васильевич": 1,
-      "Романов Петр Васильевич": 72,
-      "Цуканов Сергей Андреевич": 12,
-      "Шевченко Анатолий Николаевич": 1,
-      "Против всех": 8
+      "gas:candidate-vibid:1001000225919": 49,
+      "gas:candidate-vibid:1001000136024": 5,
+      "gas:candidate-vibid:1001000195051": 1,
+      "gas:candidate-vibid:324300466702": 13,
+      "gas:candidate-vibid:1001000190312": 1,
+      "gas:candidate-vibid:1001000121820": 72,
+      "gas:candidate-vibid:1001000217904": 12,
+      "gas:candidate-vibid:324300466696": 1,
+      "special:against-all": 8
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=242000053&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=224200067658&region=0&sub_region=0&type=429",
@@ -5262,15 +5262,15 @@ export const duma_2003_uik_428_region_24_part_007 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Исаков Игорь Анатольевич": 30,
-      "Каспирович Сергей Викторович": 6,
-      "Ковалев Василий Николаевич": 0,
-      "Многогрешнов Александр Александрович": 9,
-      "Натаров Сергей Васильевич": 0,
-      "Романов Петр Васильевич": 36,
-      "Цуканов Сергей Андреевич": 0,
-      "Шевченко Анатолий Николаевич": 0,
-      "Против всех": 2
+      "gas:candidate-vibid:1001000225919": 30,
+      "gas:candidate-vibid:1001000136024": 6,
+      "gas:candidate-vibid:1001000195051": 0,
+      "gas:candidate-vibid:324300466702": 9,
+      "gas:candidate-vibid:1001000190312": 0,
+      "gas:candidate-vibid:1001000121820": 36,
+      "gas:candidate-vibid:1001000217904": 0,
+      "gas:candidate-vibid:324300466696": 0,
+      "special:against-all": 2
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=242000053&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=224200067658&region=0&sub_region=0&type=429",
@@ -5320,15 +5320,15 @@ export const duma_2003_uik_428_region_24_part_007 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Исаков Игорь Анатольевич": 52,
-      "Каспирович Сергей Викторович": 10,
-      "Ковалев Василий Николаевич": 3,
-      "Многогрешнов Александр Александрович": 57,
-      "Натаров Сергей Васильевич": 3,
-      "Романов Петр Васильевич": 63,
-      "Цуканов Сергей Андреевич": 88,
-      "Шевченко Анатолий Николаевич": 3,
-      "Против всех": 21
+      "gas:candidate-vibid:1001000225919": 52,
+      "gas:candidate-vibid:1001000136024": 10,
+      "gas:candidate-vibid:1001000195051": 3,
+      "gas:candidate-vibid:324300466702": 57,
+      "gas:candidate-vibid:1001000190312": 3,
+      "gas:candidate-vibid:1001000121820": 63,
+      "gas:candidate-vibid:1001000217904": 88,
+      "gas:candidate-vibid:324300466696": 3,
+      "special:against-all": 21
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=242000053&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=224200067658&region=0&sub_region=0&type=429",
@@ -5378,15 +5378,15 @@ export const duma_2003_uik_428_region_24_part_007 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Исаков Игорь Анатольевич": 28,
-      "Каспирович Сергей Викторович": 11,
-      "Ковалев Василий Николаевич": 2,
-      "Многогрешнов Александр Александрович": 36,
-      "Натаров Сергей Васильевич": 0,
-      "Романов Петр Васильевич": 31,
-      "Цуканов Сергей Андреевич": 30,
-      "Шевченко Анатолий Николаевич": 2,
-      "Против всех": 10
+      "gas:candidate-vibid:1001000225919": 28,
+      "gas:candidate-vibid:1001000136024": 11,
+      "gas:candidate-vibid:1001000195051": 2,
+      "gas:candidate-vibid:324300466702": 36,
+      "gas:candidate-vibid:1001000190312": 0,
+      "gas:candidate-vibid:1001000121820": 31,
+      "gas:candidate-vibid:1001000217904": 30,
+      "gas:candidate-vibid:324300466696": 2,
+      "special:against-all": 10
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=242000053&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=224200067658&region=0&sub_region=0&type=429",
@@ -5436,15 +5436,15 @@ export const duma_2003_uik_428_region_24_part_007 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Исаков Игорь Анатольевич": 21,
-      "Каспирович Сергей Викторович": 3,
-      "Ковалев Василий Николаевич": 0,
-      "Многогрешнов Александр Александрович": 14,
-      "Натаров Сергей Васильевич": 0,
-      "Романов Петр Васильевич": 36,
-      "Цуканов Сергей Андреевич": 15,
-      "Шевченко Анатолий Николаевич": 0,
-      "Против всех": 3
+      "gas:candidate-vibid:1001000225919": 21,
+      "gas:candidate-vibid:1001000136024": 3,
+      "gas:candidate-vibid:1001000195051": 0,
+      "gas:candidate-vibid:324300466702": 14,
+      "gas:candidate-vibid:1001000190312": 0,
+      "gas:candidate-vibid:1001000121820": 36,
+      "gas:candidate-vibid:1001000217904": 15,
+      "gas:candidate-vibid:324300466696": 0,
+      "special:against-all": 3
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=242000053&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=224200067658&region=0&sub_region=0&type=429",
@@ -5494,15 +5494,15 @@ export const duma_2003_uik_428_region_24_part_007 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Исаков Игорь Анатольевич": 35,
-      "Каспирович Сергей Викторович": 3,
-      "Ковалев Василий Николаевич": 1,
-      "Многогрешнов Александр Александрович": 70,
-      "Натаров Сергей Васильевич": 0,
-      "Романов Петр Васильевич": 26,
-      "Цуканов Сергей Андреевич": 14,
-      "Шевченко Анатолий Николаевич": 0,
-      "Против всех": 7
+      "gas:candidate-vibid:1001000225919": 35,
+      "gas:candidate-vibid:1001000136024": 3,
+      "gas:candidate-vibid:1001000195051": 1,
+      "gas:candidate-vibid:324300466702": 70,
+      "gas:candidate-vibid:1001000190312": 0,
+      "gas:candidate-vibid:1001000121820": 26,
+      "gas:candidate-vibid:1001000217904": 14,
+      "gas:candidate-vibid:324300466696": 0,
+      "special:against-all": 7
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=242000053&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=224200067658&region=0&sub_region=0&type=429",
@@ -5552,15 +5552,15 @@ export const duma_2003_uik_428_region_24_part_007 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Исаков Игорь Анатольевич": 121,
-      "Каспирович Сергей Викторович": 10,
-      "Ковалев Василий Николаевич": 5,
-      "Многогрешнов Александр Александрович": 49,
-      "Натаров Сергей Васильевич": 2,
-      "Романов Петр Васильевич": 172,
-      "Цуканов Сергей Андреевич": 20,
-      "Шевченко Анатолий Николаевич": 3,
-      "Против всех": 21
+      "gas:candidate-vibid:1001000225919": 121,
+      "gas:candidate-vibid:1001000136024": 10,
+      "gas:candidate-vibid:1001000195051": 5,
+      "gas:candidate-vibid:324300466702": 49,
+      "gas:candidate-vibid:1001000190312": 2,
+      "gas:candidate-vibid:1001000121820": 172,
+      "gas:candidate-vibid:1001000217904": 20,
+      "gas:candidate-vibid:324300466696": 3,
+      "special:against-all": 21
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=242000053&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=224200067658&region=0&sub_region=0&type=429",
@@ -5610,15 +5610,15 @@ export const duma_2003_uik_428_region_24_part_007 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Исаков Игорь Анатольевич": 77,
-      "Каспирович Сергей Викторович": 22,
-      "Ковалев Василий Николаевич": 3,
-      "Многогрешнов Александр Александрович": 68,
-      "Натаров Сергей Васильевич": 0,
-      "Романов Петр Васильевич": 181,
-      "Цуканов Сергей Андреевич": 19,
-      "Шевченко Анатолий Николаевич": 0,
-      "Против всех": 15
+      "gas:candidate-vibid:1001000225919": 77,
+      "gas:candidate-vibid:1001000136024": 22,
+      "gas:candidate-vibid:1001000195051": 3,
+      "gas:candidate-vibid:324300466702": 68,
+      "gas:candidate-vibid:1001000190312": 0,
+      "gas:candidate-vibid:1001000121820": 181,
+      "gas:candidate-vibid:1001000217904": 19,
+      "gas:candidate-vibid:324300466696": 0,
+      "special:against-all": 15
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=242000053&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=224200067658&region=0&sub_region=0&type=429",
@@ -5668,15 +5668,15 @@ export const duma_2003_uik_428_region_24_part_007 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Исаков Игорь Анатольевич": 15,
-      "Каспирович Сергей Викторович": 2,
-      "Ковалев Василий Николаевич": 0,
-      "Многогрешнов Александр Александрович": 29,
-      "Натаров Сергей Васильевич": 0,
-      "Романов Петр Васильевич": 51,
-      "Цуканов Сергей Андреевич": 3,
-      "Шевченко Анатолий Николаевич": 0,
-      "Против всех": 8
+      "gas:candidate-vibid:1001000225919": 15,
+      "gas:candidate-vibid:1001000136024": 2,
+      "gas:candidate-vibid:1001000195051": 0,
+      "gas:candidate-vibid:324300466702": 29,
+      "gas:candidate-vibid:1001000190312": 0,
+      "gas:candidate-vibid:1001000121820": 51,
+      "gas:candidate-vibid:1001000217904": 3,
+      "gas:candidate-vibid:324300466696": 0,
+      "special:against-all": 8
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=242000053&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=224200067658&region=0&sub_region=0&type=429",
@@ -5726,15 +5726,15 @@ export const duma_2003_uik_428_region_24_part_007 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Исаков Игорь Анатольевич": 29,
-      "Каспирович Сергей Викторович": 0,
-      "Ковалев Василий Николаевич": 1,
-      "Многогрешнов Александр Александрович": 9,
-      "Натаров Сергей Васильевич": 0,
-      "Романов Петр Васильевич": 29,
-      "Цуканов Сергей Андреевич": 4,
-      "Шевченко Анатолий Николаевич": 0,
-      "Против всех": 6
+      "gas:candidate-vibid:1001000225919": 29,
+      "gas:candidate-vibid:1001000136024": 0,
+      "gas:candidate-vibid:1001000195051": 1,
+      "gas:candidate-vibid:324300466702": 9,
+      "gas:candidate-vibid:1001000190312": 0,
+      "gas:candidate-vibid:1001000121820": 29,
+      "gas:candidate-vibid:1001000217904": 4,
+      "gas:candidate-vibid:324300466696": 0,
+      "special:against-all": 6
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=242000053&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=224200067658&region=0&sub_region=0&type=429",
@@ -5784,15 +5784,15 @@ export const duma_2003_uik_428_region_24_part_007 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Исаков Игорь Анатольевич": 34,
-      "Каспирович Сергей Викторович": 6,
-      "Ковалев Василий Николаевич": 0,
-      "Многогрешнов Александр Александрович": 12,
-      "Натаров Сергей Васильевич": 0,
-      "Романов Петр Васильевич": 63,
-      "Цуканов Сергей Андреевич": 9,
-      "Шевченко Анатолий Николаевич": 0,
-      "Против всех": 1
+      "gas:candidate-vibid:1001000225919": 34,
+      "gas:candidate-vibid:1001000136024": 6,
+      "gas:candidate-vibid:1001000195051": 0,
+      "gas:candidate-vibid:324300466702": 12,
+      "gas:candidate-vibid:1001000190312": 0,
+      "gas:candidate-vibid:1001000121820": 63,
+      "gas:candidate-vibid:1001000217904": 9,
+      "gas:candidate-vibid:324300466696": 0,
+      "special:against-all": 1
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=242000053&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=224200067658&region=0&sub_region=0&type=429",
@@ -5842,15 +5842,15 @@ export const duma_2003_uik_428_region_24_part_007 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Исаков Игорь Анатольевич": 3,
-      "Каспирович Сергей Викторович": 1,
-      "Ковалев Василий Николаевич": 1,
-      "Многогрешнов Александр Александрович": 12,
-      "Натаров Сергей Васильевич": 0,
-      "Романов Петр Васильевич": 38,
-      "Цуканов Сергей Андреевич": 1,
-      "Шевченко Анатолий Николаевич": 1,
-      "Против всех": 2
+      "gas:candidate-vibid:1001000225919": 3,
+      "gas:candidate-vibid:1001000136024": 1,
+      "gas:candidate-vibid:1001000195051": 1,
+      "gas:candidate-vibid:324300466702": 12,
+      "gas:candidate-vibid:1001000190312": 0,
+      "gas:candidate-vibid:1001000121820": 38,
+      "gas:candidate-vibid:1001000217904": 1,
+      "gas:candidate-vibid:324300466696": 1,
+      "special:against-all": 2
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=242000053&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=224200067658&region=0&sub_region=0&type=429",
@@ -5900,15 +5900,15 @@ export const duma_2003_uik_428_region_24_part_007 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Исаков Игорь Анатольевич": 14,
-      "Каспирович Сергей Викторович": 5,
-      "Ковалев Василий Николаевич": 2,
-      "Многогрешнов Александр Александрович": 28,
-      "Натаров Сергей Васильевич": 2,
-      "Романов Петр Васильевич": 34,
-      "Цуканов Сергей Андреевич": 33,
-      "Шевченко Анатолий Николаевич": 0,
-      "Против всех": 10
+      "gas:candidate-vibid:1001000225919": 14,
+      "gas:candidate-vibid:1001000136024": 5,
+      "gas:candidate-vibid:1001000195051": 2,
+      "gas:candidate-vibid:324300466702": 28,
+      "gas:candidate-vibid:1001000190312": 2,
+      "gas:candidate-vibid:1001000121820": 34,
+      "gas:candidate-vibid:1001000217904": 33,
+      "gas:candidate-vibid:324300466696": 0,
+      "special:against-all": 10
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=242000053&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=224200067658&region=0&sub_region=0&type=429",
@@ -5958,15 +5958,15 @@ export const duma_2003_uik_428_region_24_part_007 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Исаков Игорь Анатольевич": 41,
-      "Каспирович Сергей Викторович": 5,
-      "Ковалев Василий Николаевич": 1,
-      "Многогрешнов Александр Александрович": 9,
-      "Натаров Сергей Васильевич": 0,
-      "Романов Петр Васильевич": 12,
-      "Цуканов Сергей Андреевич": 3,
-      "Шевченко Анатолий Николаевич": 0,
-      "Против всех": 3
+      "gas:candidate-vibid:1001000225919": 41,
+      "gas:candidate-vibid:1001000136024": 5,
+      "gas:candidate-vibid:1001000195051": 1,
+      "gas:candidate-vibid:324300466702": 9,
+      "gas:candidate-vibid:1001000190312": 0,
+      "gas:candidate-vibid:1001000121820": 12,
+      "gas:candidate-vibid:1001000217904": 3,
+      "gas:candidate-vibid:324300466696": 0,
+      "special:against-all": 3
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=242000053&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=224200067658&region=0&sub_region=0&type=429",
@@ -6016,15 +6016,15 @@ export const duma_2003_uik_428_region_24_part_007 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Исаков Игорь Анатольевич": 1,
-      "Каспирович Сергей Викторович": 5,
-      "Ковалев Василий Николаевич": 0,
-      "Многогрешнов Александр Александрович": 4,
-      "Натаров Сергей Васильевич": 0,
-      "Романов Петр Васильевич": 31,
-      "Цуканов Сергей Андреевич": 3,
-      "Шевченко Анатолий Николаевич": 0,
-      "Против всех": 3
+      "gas:candidate-vibid:1001000225919": 1,
+      "gas:candidate-vibid:1001000136024": 5,
+      "gas:candidate-vibid:1001000195051": 0,
+      "gas:candidate-vibid:324300466702": 4,
+      "gas:candidate-vibid:1001000190312": 0,
+      "gas:candidate-vibid:1001000121820": 31,
+      "gas:candidate-vibid:1001000217904": 3,
+      "gas:candidate-vibid:324300466696": 0,
+      "special:against-all": 3
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=242000053&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=224200067658&region=0&sub_region=0&type=429",
@@ -6074,15 +6074,15 @@ export const duma_2003_uik_428_region_24_part_007 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Исаков Игорь Анатольевич": 2,
-      "Каспирович Сергей Викторович": 2,
-      "Ковалев Василий Николаевич": 1,
-      "Многогрешнов Александр Александрович": 5,
-      "Натаров Сергей Васильевич": 0,
-      "Романов Петр Васильевич": 21,
-      "Цуканов Сергей Андреевич": 8,
-      "Шевченко Анатолий Николаевич": 1,
-      "Против всех": 3
+      "gas:candidate-vibid:1001000225919": 2,
+      "gas:candidate-vibid:1001000136024": 2,
+      "gas:candidate-vibid:1001000195051": 1,
+      "gas:candidate-vibid:324300466702": 5,
+      "gas:candidate-vibid:1001000190312": 0,
+      "gas:candidate-vibid:1001000121820": 21,
+      "gas:candidate-vibid:1001000217904": 8,
+      "gas:candidate-vibid:324300466696": 1,
+      "special:against-all": 3
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=242000053&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=224200067658&region=0&sub_region=0&type=429",
@@ -6132,15 +6132,15 @@ export const duma_2003_uik_428_region_24_part_007 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Исаков Игорь Анатольевич": 49,
-      "Каспирович Сергей Викторович": 12,
-      "Ковалев Василий Николаевич": 1,
-      "Многогрешнов Александр Александрович": 42,
-      "Натаров Сергей Васильевич": 2,
-      "Романов Петр Васильевич": 85,
-      "Цуканов Сергей Андреевич": 54,
-      "Шевченко Анатолий Николаевич": 1,
-      "Против всех": 21
+      "gas:candidate-vibid:1001000225919": 49,
+      "gas:candidate-vibid:1001000136024": 12,
+      "gas:candidate-vibid:1001000195051": 1,
+      "gas:candidate-vibid:324300466702": 42,
+      "gas:candidate-vibid:1001000190312": 2,
+      "gas:candidate-vibid:1001000121820": 85,
+      "gas:candidate-vibid:1001000217904": 54,
+      "gas:candidate-vibid:324300466696": 1,
+      "special:against-all": 21
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=242000053&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=224200067658&region=0&sub_region=0&type=429",
@@ -6190,15 +6190,15 @@ export const duma_2003_uik_428_region_24_part_007 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Исаков Игорь Анатольевич": 31,
-      "Каспирович Сергей Викторович": 7,
-      "Ковалев Василий Николаевич": 0,
-      "Многогрешнов Александр Александрович": 19,
-      "Натаров Сергей Васильевич": 2,
-      "Романов Петр Васильевич": 39,
-      "Цуканов Сергей Андреевич": 27,
-      "Шевченко Анатолий Николаевич": 1,
-      "Против всех": 3
+      "gas:candidate-vibid:1001000225919": 31,
+      "gas:candidate-vibid:1001000136024": 7,
+      "gas:candidate-vibid:1001000195051": 0,
+      "gas:candidate-vibid:324300466702": 19,
+      "gas:candidate-vibid:1001000190312": 2,
+      "gas:candidate-vibid:1001000121820": 39,
+      "gas:candidate-vibid:1001000217904": 27,
+      "gas:candidate-vibid:324300466696": 1,
+      "special:against-all": 3
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=242000053&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=224200067658&region=0&sub_region=0&type=429",
@@ -6248,15 +6248,15 @@ export const duma_2003_uik_428_region_24_part_007 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Исаков Игорь Анатольевич": 8,
-      "Каспирович Сергей Викторович": 1,
-      "Ковалев Василий Николаевич": 0,
-      "Многогрешнов Александр Александрович": 15,
-      "Натаров Сергей Васильевич": 1,
-      "Романов Петр Васильевич": 29,
-      "Цуканов Сергей Андреевич": 25,
-      "Шевченко Анатолий Николаевич": 1,
-      "Против всех": 8
+      "gas:candidate-vibid:1001000225919": 8,
+      "gas:candidate-vibid:1001000136024": 1,
+      "gas:candidate-vibid:1001000195051": 0,
+      "gas:candidate-vibid:324300466702": 15,
+      "gas:candidate-vibid:1001000190312": 1,
+      "gas:candidate-vibid:1001000121820": 29,
+      "gas:candidate-vibid:1001000217904": 25,
+      "gas:candidate-vibid:324300466696": 1,
+      "special:against-all": 8
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=242000053&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=224200067658&region=0&sub_region=0&type=429",
@@ -6306,15 +6306,15 @@ export const duma_2003_uik_428_region_24_part_007 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Исаков Игорь Анатольевич": 10,
-      "Каспирович Сергей Викторович": 3,
-      "Ковалев Василий Николаевич": 0,
-      "Многогрешнов Александр Александрович": 14,
-      "Натаров Сергей Васильевич": 0,
-      "Романов Петр Васильевич": 31,
-      "Цуканов Сергей Андреевич": 14,
-      "Шевченко Анатолий Николаевич": 1,
-      "Против всех": 3
+      "gas:candidate-vibid:1001000225919": 10,
+      "gas:candidate-vibid:1001000136024": 3,
+      "gas:candidate-vibid:1001000195051": 0,
+      "gas:candidate-vibid:324300466702": 14,
+      "gas:candidate-vibid:1001000190312": 0,
+      "gas:candidate-vibid:1001000121820": 31,
+      "gas:candidate-vibid:1001000217904": 14,
+      "gas:candidate-vibid:324300466696": 1,
+      "special:against-all": 3
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=242000053&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=224200067658&region=0&sub_region=0&type=429",
@@ -6364,15 +6364,15 @@ export const duma_2003_uik_428_region_24_part_007 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Исаков Игорь Анатольевич": 20,
-      "Каспирович Сергей Викторович": 1,
-      "Ковалев Василий Николаевич": 0,
-      "Многогрешнов Александр Александрович": 7,
-      "Натаров Сергей Васильевич": 0,
-      "Романов Петр Васильевич": 21,
-      "Цуканов Сергей Андреевич": 3,
-      "Шевченко Анатолий Николаевич": 2,
-      "Против всех": 6
+      "gas:candidate-vibid:1001000225919": 20,
+      "gas:candidate-vibid:1001000136024": 1,
+      "gas:candidate-vibid:1001000195051": 0,
+      "gas:candidate-vibid:324300466702": 7,
+      "gas:candidate-vibid:1001000190312": 0,
+      "gas:candidate-vibid:1001000121820": 21,
+      "gas:candidate-vibid:1001000217904": 3,
+      "gas:candidate-vibid:324300466696": 2,
+      "special:against-all": 6
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=242000053&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=224200067658&region=0&sub_region=0&type=429",
@@ -6422,15 +6422,15 @@ export const duma_2003_uik_428_region_24_part_007 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Исаков Игорь Анатольевич": 41,
-      "Каспирович Сергей Викторович": 4,
-      "Ковалев Василий Николаевич": 2,
-      "Многогрешнов Александр Александрович": 15,
-      "Натаров Сергей Васильевич": 3,
-      "Романов Петр Васильевич": 9,
-      "Цуканов Сергей Андреевич": 19,
-      "Шевченко Анатолий Николаевич": 0,
-      "Против всех": 5
+      "gas:candidate-vibid:1001000225919": 41,
+      "gas:candidate-vibid:1001000136024": 4,
+      "gas:candidate-vibid:1001000195051": 2,
+      "gas:candidate-vibid:324300466702": 15,
+      "gas:candidate-vibid:1001000190312": 3,
+      "gas:candidate-vibid:1001000121820": 9,
+      "gas:candidate-vibid:1001000217904": 19,
+      "gas:candidate-vibid:324300466696": 0,
+      "special:against-all": 5
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=242000053&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=224200067658&region=0&sub_region=0&type=429",
@@ -6480,15 +6480,15 @@ export const duma_2003_uik_428_region_24_part_007 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Исаков Игорь Анатольевич": 8,
-      "Каспирович Сергей Викторович": 3,
-      "Ковалев Василий Николаевич": 0,
-      "Многогрешнов Александр Александрович": 4,
-      "Натаров Сергей Васильевич": 0,
-      "Романов Петр Васильевич": 16,
-      "Цуканов Сергей Андреевич": 8,
-      "Шевченко Анатолий Николаевич": 1,
-      "Против всех": 4
+      "gas:candidate-vibid:1001000225919": 8,
+      "gas:candidate-vibid:1001000136024": 3,
+      "gas:candidate-vibid:1001000195051": 0,
+      "gas:candidate-vibid:324300466702": 4,
+      "gas:candidate-vibid:1001000190312": 0,
+      "gas:candidate-vibid:1001000121820": 16,
+      "gas:candidate-vibid:1001000217904": 8,
+      "gas:candidate-vibid:324300466696": 1,
+      "special:against-all": 4
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=242000053&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=224200067658&region=0&sub_region=0&type=429",
@@ -6538,15 +6538,15 @@ export const duma_2003_uik_428_region_24_part_007 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Исаков Игорь Анатольевич": 58,
-      "Каспирович Сергей Викторович": 19,
-      "Ковалев Василий Николаевич": 8,
-      "Многогрешнов Александр Александрович": 43,
-      "Натаров Сергей Васильевич": 1,
-      "Романов Петр Васильевич": 200,
-      "Цуканов Сергей Андреевич": 22,
-      "Шевченко Анатолий Николаевич": 4,
-      "Против всех": 45
+      "gas:candidate-vibid:1001000225919": 58,
+      "gas:candidate-vibid:1001000136024": 19,
+      "gas:candidate-vibid:1001000195051": 8,
+      "gas:candidate-vibid:324300466702": 43,
+      "gas:candidate-vibid:1001000190312": 1,
+      "gas:candidate-vibid:1001000121820": 200,
+      "gas:candidate-vibid:1001000217904": 22,
+      "gas:candidate-vibid:324300466696": 4,
+      "special:against-all": 45
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=242000053&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=224200067658&region=0&sub_region=0&type=429",
@@ -6596,15 +6596,15 @@ export const duma_2003_uik_428_region_24_part_007 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Исаков Игорь Анатольевич": 29,
-      "Каспирович Сергей Викторович": 3,
-      "Ковалев Василий Николаевич": 1,
-      "Многогрешнов Александр Александрович": 24,
-      "Натаров Сергей Васильевич": 0,
-      "Романов Петр Васильевич": 36,
-      "Цуканов Сергей Андреевич": 4,
-      "Шевченко Анатолий Николаевич": 2,
-      "Против всех": 17
+      "gas:candidate-vibid:1001000225919": 29,
+      "gas:candidate-vibid:1001000136024": 3,
+      "gas:candidate-vibid:1001000195051": 1,
+      "gas:candidate-vibid:324300466702": 24,
+      "gas:candidate-vibid:1001000190312": 0,
+      "gas:candidate-vibid:1001000121820": 36,
+      "gas:candidate-vibid:1001000217904": 4,
+      "gas:candidate-vibid:324300466696": 2,
+      "special:against-all": 17
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=242000053&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=224200067658&region=0&sub_region=0&type=429",
@@ -6654,15 +6654,15 @@ export const duma_2003_uik_428_region_24_part_007 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Исаков Игорь Анатольевич": 14,
-      "Каспирович Сергей Викторович": 5,
-      "Ковалев Василий Николаевич": 0,
-      "Многогрешнов Александр Александрович": 5,
-      "Натаров Сергей Васильевич": 0,
-      "Романов Петр Васильевич": 8,
-      "Цуканов Сергей Андреевич": 7,
-      "Шевченко Анатолий Николаевич": 0,
-      "Против всех": 7
+      "gas:candidate-vibid:1001000225919": 14,
+      "gas:candidate-vibid:1001000136024": 5,
+      "gas:candidate-vibid:1001000195051": 0,
+      "gas:candidate-vibid:324300466702": 5,
+      "gas:candidate-vibid:1001000190312": 0,
+      "gas:candidate-vibid:1001000121820": 8,
+      "gas:candidate-vibid:1001000217904": 7,
+      "gas:candidate-vibid:324300466696": 0,
+      "special:against-all": 7
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=242000053&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=224200067658&region=0&sub_region=0&type=429",
@@ -6712,15 +6712,15 @@ export const duma_2003_uik_428_region_24_part_007 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Исаков Игорь Анатольевич": 10,
-      "Каспирович Сергей Викторович": 0,
-      "Ковалев Василий Николаевич": 0,
-      "Многогрешнов Александр Александрович": 35,
-      "Натаров Сергей Васильевич": 1,
-      "Романов Петр Васильевич": 28,
-      "Цуканов Сергей Андреевич": 5,
-      "Шевченко Анатолий Николаевич": 0,
-      "Против всех": 13
+      "gas:candidate-vibid:1001000225919": 10,
+      "gas:candidate-vibid:1001000136024": 0,
+      "gas:candidate-vibid:1001000195051": 0,
+      "gas:candidate-vibid:324300466702": 35,
+      "gas:candidate-vibid:1001000190312": 1,
+      "gas:candidate-vibid:1001000121820": 28,
+      "gas:candidate-vibid:1001000217904": 5,
+      "gas:candidate-vibid:324300466696": 0,
+      "special:against-all": 13
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=242000053&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=224200067658&region=0&sub_region=0&type=429",
@@ -6770,15 +6770,15 @@ export const duma_2003_uik_428_region_24_part_007 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Исаков Игорь Анатольевич": 4,
-      "Каспирович Сергей Викторович": 2,
-      "Ковалев Василий Николаевич": 1,
-      "Многогрешнов Александр Александрович": 13,
-      "Натаров Сергей Васильевич": 0,
-      "Романов Петр Васильевич": 24,
-      "Цуканов Сергей Андреевич": 6,
-      "Шевченко Анатолий Николаевич": 2,
-      "Против всех": 28
+      "gas:candidate-vibid:1001000225919": 4,
+      "gas:candidate-vibid:1001000136024": 2,
+      "gas:candidate-vibid:1001000195051": 1,
+      "gas:candidate-vibid:324300466702": 13,
+      "gas:candidate-vibid:1001000190312": 0,
+      "gas:candidate-vibid:1001000121820": 24,
+      "gas:candidate-vibid:1001000217904": 6,
+      "gas:candidate-vibid:324300466696": 2,
+      "special:against-all": 28
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=242000053&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=224200067658&region=0&sub_region=0&type=429",
@@ -6828,15 +6828,15 @@ export const duma_2003_uik_428_region_24_part_007 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Исаков Игорь Анатольевич": 38,
-      "Каспирович Сергей Викторович": 4,
-      "Ковалев Василий Николаевич": 1,
-      "Многогрешнов Александр Александрович": 19,
-      "Натаров Сергей Васильевич": 2,
-      "Романов Петр Васильевич": 8,
-      "Цуканов Сергей Андреевич": 8,
-      "Шевченко Анатолий Николаевич": 0,
-      "Против всех": 4
+      "gas:candidate-vibid:1001000225919": 38,
+      "gas:candidate-vibid:1001000136024": 4,
+      "gas:candidate-vibid:1001000195051": 1,
+      "gas:candidate-vibid:324300466702": 19,
+      "gas:candidate-vibid:1001000190312": 2,
+      "gas:candidate-vibid:1001000121820": 8,
+      "gas:candidate-vibid:1001000217904": 8,
+      "gas:candidate-vibid:324300466696": 0,
+      "special:against-all": 4
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=242000053&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=224200067658&region=0&sub_region=0&type=429",
@@ -6886,15 +6886,15 @@ export const duma_2003_uik_428_region_24_part_007 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Исаков Игорь Анатольевич": 4,
-      "Каспирович Сергей Викторович": 2,
-      "Ковалев Василий Николаевич": 4,
-      "Многогрешнов Александр Александрович": 18,
-      "Натаров Сергей Васильевич": 0,
-      "Романов Петр Васильевич": 36,
-      "Цуканов Сергей Андреевич": 0,
-      "Шевченко Анатолий Николаевич": 1,
-      "Против всех": 1
+      "gas:candidate-vibid:1001000225919": 4,
+      "gas:candidate-vibid:1001000136024": 2,
+      "gas:candidate-vibid:1001000195051": 4,
+      "gas:candidate-vibid:324300466702": 18,
+      "gas:candidate-vibid:1001000190312": 0,
+      "gas:candidate-vibid:1001000121820": 36,
+      "gas:candidate-vibid:1001000217904": 0,
+      "gas:candidate-vibid:324300466696": 1,
+      "special:against-all": 1
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=242000053&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=224200067658&region=0&sub_region=0&type=429",
@@ -6944,15 +6944,15 @@ export const duma_2003_uik_428_region_24_part_007 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Исаков Игорь Анатольевич": 5,
-      "Каспирович Сергей Викторович": 1,
-      "Ковалев Василий Николаевич": 1,
-      "Многогрешнов Александр Александрович": 13,
-      "Натаров Сергей Васильевич": 0,
-      "Романов Петр Васильевич": 13,
-      "Цуканов Сергей Андреевич": 4,
-      "Шевченко Анатолий Николаевич": 0,
-      "Против всех": 4
+      "gas:candidate-vibid:1001000225919": 5,
+      "gas:candidate-vibid:1001000136024": 1,
+      "gas:candidate-vibid:1001000195051": 1,
+      "gas:candidate-vibid:324300466702": 13,
+      "gas:candidate-vibid:1001000190312": 0,
+      "gas:candidate-vibid:1001000121820": 13,
+      "gas:candidate-vibid:1001000217904": 4,
+      "gas:candidate-vibid:324300466696": 0,
+      "special:against-all": 4
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=242000053&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=224200067658&region=0&sub_region=0&type=429",
@@ -7002,15 +7002,15 @@ export const duma_2003_uik_428_region_24_part_007 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Исаков Игорь Анатольевич": 29,
-      "Каспирович Сергей Викторович": 13,
-      "Ковалев Василий Николаевич": 2,
-      "Многогрешнов Александр Александрович": 70,
-      "Натаров Сергей Васильевич": 1,
-      "Романов Петр Васильевич": 137,
-      "Цуканов Сергей Андреевич": 11,
-      "Шевченко Анатолий Николаевич": 5,
-      "Против всех": 11
+      "gas:candidate-vibid:1001000225919": 29,
+      "gas:candidate-vibid:1001000136024": 13,
+      "gas:candidate-vibid:1001000195051": 2,
+      "gas:candidate-vibid:324300466702": 70,
+      "gas:candidate-vibid:1001000190312": 1,
+      "gas:candidate-vibid:1001000121820": 137,
+      "gas:candidate-vibid:1001000217904": 11,
+      "gas:candidate-vibid:324300466696": 5,
+      "special:against-all": 11
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=242000053&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=224200067658&region=0&sub_region=0&type=429",
@@ -7060,15 +7060,15 @@ export const duma_2003_uik_428_region_24_part_007 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Исаков Игорь Анатольевич": 81,
-      "Каспирович Сергей Викторович": 6,
-      "Ковалев Василий Николаевич": 2,
-      "Многогрешнов Александр Александрович": 49,
-      "Натаров Сергей Васильевич": 8,
-      "Романов Петр Васильевич": 117,
-      "Цуканов Сергей Андреевич": 23,
-      "Шевченко Анатолий Николаевич": 4,
-      "Против всех": 10
+      "gas:candidate-vibid:1001000225919": 81,
+      "gas:candidate-vibid:1001000136024": 6,
+      "gas:candidate-vibid:1001000195051": 2,
+      "gas:candidate-vibid:324300466702": 49,
+      "gas:candidate-vibid:1001000190312": 8,
+      "gas:candidate-vibid:1001000121820": 117,
+      "gas:candidate-vibid:1001000217904": 23,
+      "gas:candidate-vibid:324300466696": 4,
+      "special:against-all": 10
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=242000053&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=224200067658&region=0&sub_region=0&type=429",
@@ -7118,15 +7118,15 @@ export const duma_2003_uik_428_region_24_part_007 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Исаков Игорь Анатольевич": 51,
-      "Каспирович Сергей Викторович": 3,
-      "Ковалев Василий Николаевич": 1,
-      "Многогрешнов Александр Александрович": 18,
-      "Натаров Сергей Васильевич": 1,
-      "Романов Петр Васильевич": 22,
-      "Цуканов Сергей Андреевич": 10,
-      "Шевченко Анатолий Николаевич": 3,
-      "Против всех": 6
+      "gas:candidate-vibid:1001000225919": 51,
+      "gas:candidate-vibid:1001000136024": 3,
+      "gas:candidate-vibid:1001000195051": 1,
+      "gas:candidate-vibid:324300466702": 18,
+      "gas:candidate-vibid:1001000190312": 1,
+      "gas:candidate-vibid:1001000121820": 22,
+      "gas:candidate-vibid:1001000217904": 10,
+      "gas:candidate-vibid:324300466696": 3,
+      "special:against-all": 6
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=242000053&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=224200067658&region=0&sub_region=0&type=429",
@@ -7176,15 +7176,15 @@ export const duma_2003_uik_428_region_24_part_007 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Исаков Игорь Анатольевич": 65,
-      "Каспирович Сергей Викторович": 5,
-      "Ковалев Василий Николаевич": 3,
-      "Многогрешнов Александр Александрович": 48,
-      "Натаров Сергей Васильевич": 0,
-      "Романов Петр Васильевич": 45,
-      "Цуканов Сергей Андреевич": 17,
-      "Шевченко Анатолий Николаевич": 2,
-      "Против всех": 4
+      "gas:candidate-vibid:1001000225919": 65,
+      "gas:candidate-vibid:1001000136024": 5,
+      "gas:candidate-vibid:1001000195051": 3,
+      "gas:candidate-vibid:324300466702": 48,
+      "gas:candidate-vibid:1001000190312": 0,
+      "gas:candidate-vibid:1001000121820": 45,
+      "gas:candidate-vibid:1001000217904": 17,
+      "gas:candidate-vibid:324300466696": 2,
+      "special:against-all": 4
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=242000053&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=224200067658&region=0&sub_region=0&type=429",
@@ -7234,15 +7234,15 @@ export const duma_2003_uik_428_region_24_part_007 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Исаков Игорь Анатольевич": 5,
-      "Каспирович Сергей Викторович": 3,
-      "Ковалев Василий Николаевич": 0,
-      "Многогрешнов Александр Александрович": 24,
-      "Натаров Сергей Васильевич": 0,
-      "Романов Петр Васильевич": 15,
-      "Цуканов Сергей Андреевич": 3,
-      "Шевченко Анатолий Николаевич": 0,
-      "Против всех": 3
+      "gas:candidate-vibid:1001000225919": 5,
+      "gas:candidate-vibid:1001000136024": 3,
+      "gas:candidate-vibid:1001000195051": 0,
+      "gas:candidate-vibid:324300466702": 24,
+      "gas:candidate-vibid:1001000190312": 0,
+      "gas:candidate-vibid:1001000121820": 15,
+      "gas:candidate-vibid:1001000217904": 3,
+      "gas:candidate-vibid:324300466696": 0,
+      "special:against-all": 3
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=242000053&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=224200067658&region=0&sub_region=0&type=429",
@@ -7292,15 +7292,15 @@ export const duma_2003_uik_428_region_24_part_007 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Исаков Игорь Анатольевич": 2,
-      "Каспирович Сергей Викторович": 0,
-      "Ковалев Василий Николаевич": 0,
-      "Многогрешнов Александр Александрович": 14,
-      "Натаров Сергей Васильевич": 0,
-      "Романов Петр Васильевич": 29,
-      "Цуканов Сергей Андреевич": 0,
-      "Шевченко Анатолий Николаевич": 0,
-      "Против всех": 1
+      "gas:candidate-vibid:1001000225919": 2,
+      "gas:candidate-vibid:1001000136024": 0,
+      "gas:candidate-vibid:1001000195051": 0,
+      "gas:candidate-vibid:324300466702": 14,
+      "gas:candidate-vibid:1001000190312": 0,
+      "gas:candidate-vibid:1001000121820": 29,
+      "gas:candidate-vibid:1001000217904": 0,
+      "gas:candidate-vibid:324300466696": 0,
+      "special:against-all": 1
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=242000053&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=224200067658&region=0&sub_region=0&type=429",
@@ -7350,15 +7350,15 @@ export const duma_2003_uik_428_region_24_part_007 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Исаков Игорь Анатольевич": 94,
-      "Каспирович Сергей Викторович": 25,
-      "Ковалев Василий Николаевич": 1,
-      "Многогрешнов Александр Александрович": 34,
-      "Натаров Сергей Васильевич": 0,
-      "Романов Петр Васильевич": 80,
-      "Цуканов Сергей Андреевич": 56,
-      "Шевченко Анатолий Николаевич": 1,
-      "Против всех": 25
+      "gas:candidate-vibid:1001000225919": 94,
+      "gas:candidate-vibid:1001000136024": 25,
+      "gas:candidate-vibid:1001000195051": 1,
+      "gas:candidate-vibid:324300466702": 34,
+      "gas:candidate-vibid:1001000190312": 0,
+      "gas:candidate-vibid:1001000121820": 80,
+      "gas:candidate-vibid:1001000217904": 56,
+      "gas:candidate-vibid:324300466696": 1,
+      "special:against-all": 25
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=242000053&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=224200067658&region=0&sub_region=0&type=429",
@@ -7408,15 +7408,15 @@ export const duma_2003_uik_428_region_24_part_007 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Исаков Игорь Анатольевич": 45,
-      "Каспирович Сергей Викторович": 8,
-      "Ковалев Василий Николаевич": 2,
-      "Многогрешнов Александр Александрович": 23,
-      "Натаров Сергей Васильевич": 3,
-      "Романов Петр Васильевич": 40,
-      "Цуканов Сергей Андреевич": 19,
-      "Шевченко Анатолий Николаевич": 0,
-      "Против всех": 8
+      "gas:candidate-vibid:1001000225919": 45,
+      "gas:candidate-vibid:1001000136024": 8,
+      "gas:candidate-vibid:1001000195051": 2,
+      "gas:candidate-vibid:324300466702": 23,
+      "gas:candidate-vibid:1001000190312": 3,
+      "gas:candidate-vibid:1001000121820": 40,
+      "gas:candidate-vibid:1001000217904": 19,
+      "gas:candidate-vibid:324300466696": 0,
+      "special:against-all": 8
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=242000053&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=224200067658&region=0&sub_region=0&type=429",
@@ -7466,15 +7466,15 @@ export const duma_2003_uik_428_region_24_part_007 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Исаков Игорь Анатольевич": 56,
-      "Каспирович Сергей Викторович": 5,
-      "Ковалев Василий Николаевич": 0,
-      "Многогрешнов Александр Александрович": 12,
-      "Натаров Сергей Васильевич": 1,
-      "Романов Петр Васильевич": 11,
-      "Цуканов Сергей Андреевич": 9,
-      "Шевченко Анатолий Николаевич": 0,
-      "Против всех": 2
+      "gas:candidate-vibid:1001000225919": 56,
+      "gas:candidate-vibid:1001000136024": 5,
+      "gas:candidate-vibid:1001000195051": 0,
+      "gas:candidate-vibid:324300466702": 12,
+      "gas:candidate-vibid:1001000190312": 1,
+      "gas:candidate-vibid:1001000121820": 11,
+      "gas:candidate-vibid:1001000217904": 9,
+      "gas:candidate-vibid:324300466696": 0,
+      "special:against-all": 2
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=242000053&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=224200067658&region=0&sub_region=0&type=429",
@@ -7524,15 +7524,15 @@ export const duma_2003_uik_428_region_24_part_007 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Исаков Игорь Анатольевич": 6,
-      "Каспирович Сергей Викторович": 3,
-      "Ковалев Василий Николаевич": 0,
-      "Многогрешнов Александр Александрович": 18,
-      "Натаров Сергей Васильевич": 0,
-      "Романов Петр Васильевич": 8,
-      "Цуканов Сергей Андреевич": 0,
-      "Шевченко Анатолий Николаевич": 0,
-      "Против всех": 0
+      "gas:candidate-vibid:1001000225919": 6,
+      "gas:candidate-vibid:1001000136024": 3,
+      "gas:candidate-vibid:1001000195051": 0,
+      "gas:candidate-vibid:324300466702": 18,
+      "gas:candidate-vibid:1001000190312": 0,
+      "gas:candidate-vibid:1001000121820": 8,
+      "gas:candidate-vibid:1001000217904": 0,
+      "gas:candidate-vibid:324300466696": 0,
+      "special:against-all": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=242000053&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=224200067658&region=0&sub_region=0&type=429",
@@ -7582,15 +7582,15 @@ export const duma_2003_uik_428_region_24_part_007 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Исаков Игорь Анатольевич": 18,
-      "Каспирович Сергей Викторович": 3,
-      "Ковалев Василий Николаевич": 0,
-      "Многогрешнов Александр Александрович": 21,
-      "Натаров Сергей Васильевич": 0,
-      "Романов Петр Васильевич": 32,
-      "Цуканов Сергей Андреевич": 6,
-      "Шевченко Анатолий Николаевич": 0,
-      "Против всех": 2
+      "gas:candidate-vibid:1001000225919": 18,
+      "gas:candidate-vibid:1001000136024": 3,
+      "gas:candidate-vibid:1001000195051": 0,
+      "gas:candidate-vibid:324300466702": 21,
+      "gas:candidate-vibid:1001000190312": 0,
+      "gas:candidate-vibid:1001000121820": 32,
+      "gas:candidate-vibid:1001000217904": 6,
+      "gas:candidate-vibid:324300466696": 0,
+      "special:against-all": 2
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=242000053&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=224200067658&region=0&sub_region=0&type=429",
@@ -7640,15 +7640,15 @@ export const duma_2003_uik_428_region_24_part_007 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Исаков Игорь Анатольевич": 40,
-      "Каспирович Сергей Викторович": 6,
-      "Ковалев Василий Николаевич": 0,
-      "Многогрешнов Александр Александрович": 11,
-      "Натаров Сергей Васильевич": 0,
-      "Романов Петр Васильевич": 45,
-      "Цуканов Сергей Андреевич": 13,
-      "Шевченко Анатолий Николаевич": 1,
-      "Против всех": 6
+      "gas:candidate-vibid:1001000225919": 40,
+      "gas:candidate-vibid:1001000136024": 6,
+      "gas:candidate-vibid:1001000195051": 0,
+      "gas:candidate-vibid:324300466702": 11,
+      "gas:candidate-vibid:1001000190312": 0,
+      "gas:candidate-vibid:1001000121820": 45,
+      "gas:candidate-vibid:1001000217904": 13,
+      "gas:candidate-vibid:324300466696": 1,
+      "special:against-all": 6
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=242000053&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=224200067658&region=0&sub_region=0&type=429",
@@ -7698,15 +7698,15 @@ export const duma_2003_uik_428_region_24_part_007 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Исаков Игорь Анатольевич": 5,
-      "Каспирович Сергей Викторович": 3,
-      "Ковалев Василий Николаевич": 0,
-      "Многогрешнов Александр Александрович": 25,
-      "Натаров Сергей Васильевич": 1,
-      "Романов Петр Васильевич": 34,
-      "Цуканов Сергей Андреевич": 14,
-      "Шевченко Анатолий Николаевич": 2,
-      "Против всех": 9
+      "gas:candidate-vibid:1001000225919": 5,
+      "gas:candidate-vibid:1001000136024": 3,
+      "gas:candidate-vibid:1001000195051": 0,
+      "gas:candidate-vibid:324300466702": 25,
+      "gas:candidate-vibid:1001000190312": 1,
+      "gas:candidate-vibid:1001000121820": 34,
+      "gas:candidate-vibid:1001000217904": 14,
+      "gas:candidate-vibid:324300466696": 2,
+      "special:against-all": 9
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=242000053&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=224200067658&region=0&sub_region=0&type=429",
@@ -7756,15 +7756,15 @@ export const duma_2003_uik_428_region_24_part_007 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Исаков Игорь Анатольевич": 15,
-      "Каспирович Сергей Викторович": 10,
-      "Ковалев Василий Николаевич": 2,
-      "Многогрешнов Александр Александрович": 38,
-      "Натаров Сергей Васильевич": 2,
-      "Романов Петр Васильевич": 32,
-      "Цуканов Сергей Андреевич": 0,
-      "Шевченко Анатолий Николаевич": 2,
-      "Против всех": 17
+      "gas:candidate-vibid:1001000225919": 15,
+      "gas:candidate-vibid:1001000136024": 10,
+      "gas:candidate-vibid:1001000195051": 2,
+      "gas:candidate-vibid:324300466702": 38,
+      "gas:candidate-vibid:1001000190312": 2,
+      "gas:candidate-vibid:1001000121820": 32,
+      "gas:candidate-vibid:1001000217904": 0,
+      "gas:candidate-vibid:324300466696": 2,
+      "special:against-all": 17
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=242000053&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=224200067658&region=0&sub_region=0&type=429",
@@ -7814,15 +7814,15 @@ export const duma_2003_uik_428_region_24_part_007 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Исаков Игорь Анатольевич": 8,
-      "Каспирович Сергей Викторович": 2,
-      "Ковалев Василий Николаевич": 1,
-      "Многогрешнов Александр Александрович": 19,
-      "Натаров Сергей Васильевич": 3,
-      "Романов Петр Васильевич": 12,
-      "Цуканов Сергей Андреевич": 2,
-      "Шевченко Анатолий Николаевич": 0,
-      "Против всех": 2
+      "gas:candidate-vibid:1001000225919": 8,
+      "gas:candidate-vibid:1001000136024": 2,
+      "gas:candidate-vibid:1001000195051": 1,
+      "gas:candidate-vibid:324300466702": 19,
+      "gas:candidate-vibid:1001000190312": 3,
+      "gas:candidate-vibid:1001000121820": 12,
+      "gas:candidate-vibid:1001000217904": 2,
+      "gas:candidate-vibid:324300466696": 0,
+      "special:against-all": 2
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=242000053&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=224200067658&region=0&sub_region=0&type=429",
@@ -7872,17 +7872,17 @@ export const duma_2003_uik_428_region_24_part_007 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бедарев Владимир Семенович": 94,
-      "Германович Владимир Николаевич": 2,
-      "Добровольская Марина Ивановна": 148,
-      "Добряк Тамара Александровна": 7,
-      "Жабинский Сергей Михайлович": 6,
-      "Зубов Валерий Михайлович": 128,
-      "Лихтина Ольга Григорьевна": 5,
-      "Мартыненко Елена Анатольевна": 5,
-      "Панкрац Леонид Гербертович": 0,
-      "Черных Артем Анатольевич": 14,
-      "Против всех": 43
+      "gas:candidate-vibid:1001000121821": 94,
+      "gas:candidate-vibid:1001000190316": 2,
+      "gas:candidate-vibid:324300166789": 148,
+      "gas:candidate-vibid:324300166764": 7,
+      "gas:candidate-vibid:1001000113911": 6,
+      "gas:candidate-vibid:324300166796": 128,
+      "gas:candidate-vibid:324300166942": 5,
+      "gas:candidate-vibid:324300166931": 5,
+      "gas:candidate-vibid:1001000202291": 0,
+      "gas:candidate-vibid:1001000136025": 14,
+      "special:against-all": 43
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=242000054&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=224200067659&region=0&sub_region=0&type=429",
@@ -7932,17 +7932,17 @@ export const duma_2003_uik_428_region_24_part_007 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бедарев Владимир Семенович": 119,
-      "Германович Владимир Николаевич": 6,
-      "Добровольская Марина Ивановна": 127,
-      "Добряк Тамара Александровна": 2,
-      "Жабинский Сергей Михайлович": 1,
-      "Зубов Валерий Михайлович": 115,
-      "Лихтина Ольга Григорьевна": 3,
-      "Мартыненко Елена Анатольевна": 1,
-      "Панкрац Леонид Гербертович": 0,
-      "Черных Артем Анатольевич": 14,
-      "Против всех": 29
+      "gas:candidate-vibid:1001000121821": 119,
+      "gas:candidate-vibid:1001000190316": 6,
+      "gas:candidate-vibid:324300166789": 127,
+      "gas:candidate-vibid:324300166764": 2,
+      "gas:candidate-vibid:1001000113911": 1,
+      "gas:candidate-vibid:324300166796": 115,
+      "gas:candidate-vibid:324300166942": 3,
+      "gas:candidate-vibid:324300166931": 1,
+      "gas:candidate-vibid:1001000202291": 0,
+      "gas:candidate-vibid:1001000136025": 14,
+      "special:against-all": 29
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=242000054&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=224200067659&region=0&sub_region=0&type=429",
@@ -7992,17 +7992,17 @@ export const duma_2003_uik_428_region_24_part_007 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бедарев Владимир Семенович": 50,
-      "Германович Владимир Николаевич": 2,
-      "Добровольская Марина Ивановна": 105,
-      "Добряк Тамара Александровна": 3,
-      "Жабинский Сергей Михайлович": 3,
-      "Зубов Валерий Михайлович": 149,
-      "Лихтина Ольга Григорьевна": 3,
-      "Мартыненко Елена Анатольевна": 1,
-      "Панкрац Леонид Гербертович": 2,
-      "Черных Артем Анатольевич": 7,
-      "Против всех": 22
+      "gas:candidate-vibid:1001000121821": 50,
+      "gas:candidate-vibid:1001000190316": 2,
+      "gas:candidate-vibid:324300166789": 105,
+      "gas:candidate-vibid:324300166764": 3,
+      "gas:candidate-vibid:1001000113911": 3,
+      "gas:candidate-vibid:324300166796": 149,
+      "gas:candidate-vibid:324300166942": 3,
+      "gas:candidate-vibid:324300166931": 1,
+      "gas:candidate-vibid:1001000202291": 2,
+      "gas:candidate-vibid:1001000136025": 7,
+      "special:against-all": 22
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=242000054&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=224200067659&region=0&sub_region=0&type=429",
@@ -8052,17 +8052,17 @@ export const duma_2003_uik_428_region_24_part_007 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бедарев Владимир Семенович": 40,
-      "Германович Владимир Николаевич": 1,
-      "Добровольская Марина Ивановна": 103,
-      "Добряк Тамара Александровна": 3,
-      "Жабинский Сергей Михайлович": 0,
-      "Зубов Валерий Михайлович": 166,
-      "Лихтина Ольга Григорьевна": 7,
-      "Мартыненко Елена Анатольевна": 3,
-      "Панкрац Леонид Гербертович": 1,
-      "Черных Артем Анатольевич": 19,
-      "Против всех": 38
+      "gas:candidate-vibid:1001000121821": 40,
+      "gas:candidate-vibid:1001000190316": 1,
+      "gas:candidate-vibid:324300166789": 103,
+      "gas:candidate-vibid:324300166764": 3,
+      "gas:candidate-vibid:1001000113911": 0,
+      "gas:candidate-vibid:324300166796": 166,
+      "gas:candidate-vibid:324300166942": 7,
+      "gas:candidate-vibid:324300166931": 3,
+      "gas:candidate-vibid:1001000202291": 1,
+      "gas:candidate-vibid:1001000136025": 19,
+      "special:against-all": 38
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=242000054&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=224200067659&region=0&sub_region=0&type=429",
@@ -8112,17 +8112,17 @@ export const duma_2003_uik_428_region_24_part_007 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бедарев Владимир Семенович": 63,
-      "Германович Владимир Николаевич": 4,
-      "Добровольская Марина Ивановна": 145,
-      "Добряк Тамара Александровна": 4,
-      "Жабинский Сергей Михайлович": 5,
-      "Зубов Валерий Михайлович": 177,
-      "Лихтина Ольга Григорьевна": 3,
-      "Мартыненко Елена Анатольевна": 1,
-      "Панкрац Леонид Гербертович": 2,
-      "Черных Артем Анатольевич": 15,
-      "Против всех": 25
+      "gas:candidate-vibid:1001000121821": 63,
+      "gas:candidate-vibid:1001000190316": 4,
+      "gas:candidate-vibid:324300166789": 145,
+      "gas:candidate-vibid:324300166764": 4,
+      "gas:candidate-vibid:1001000113911": 5,
+      "gas:candidate-vibid:324300166796": 177,
+      "gas:candidate-vibid:324300166942": 3,
+      "gas:candidate-vibid:324300166931": 1,
+      "gas:candidate-vibid:1001000202291": 2,
+      "gas:candidate-vibid:1001000136025": 15,
+      "special:against-all": 25
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=242000054&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=224200067659&region=0&sub_region=0&type=429",
@@ -8172,17 +8172,17 @@ export const duma_2003_uik_428_region_24_part_007 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бедарев Владимир Семенович": 67,
-      "Германович Владимир Николаевич": 4,
-      "Добровольская Марина Ивановна": 83,
-      "Добряк Тамара Александровна": 5,
-      "Жабинский Сергей Михайлович": 6,
-      "Зубов Валерий Михайлович": 148,
-      "Лихтина Ольга Григорьевна": 15,
-      "Мартыненко Елена Анатольевна": 0,
-      "Панкрац Леонид Гербертович": 0,
-      "Черных Артем Анатольевич": 15,
-      "Против всех": 33
+      "gas:candidate-vibid:1001000121821": 67,
+      "gas:candidate-vibid:1001000190316": 4,
+      "gas:candidate-vibid:324300166789": 83,
+      "gas:candidate-vibid:324300166764": 5,
+      "gas:candidate-vibid:1001000113911": 6,
+      "gas:candidate-vibid:324300166796": 148,
+      "gas:candidate-vibid:324300166942": 15,
+      "gas:candidate-vibid:324300166931": 0,
+      "gas:candidate-vibid:1001000202291": 0,
+      "gas:candidate-vibid:1001000136025": 15,
+      "special:against-all": 33
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=242000054&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=224200067659&region=0&sub_region=0&type=429",
@@ -8232,17 +8232,17 @@ export const duma_2003_uik_428_region_24_part_007 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бедарев Владимир Семенович": 39,
-      "Германович Владимир Николаевич": 3,
-      "Добровольская Марина Ивановна": 106,
-      "Добряк Тамара Александровна": 3,
-      "Жабинский Сергей Михайлович": 0,
-      "Зубов Валерий Михайлович": 228,
-      "Лихтина Ольга Григорьевна": 8,
-      "Мартыненко Елена Анатольевна": 0,
-      "Панкрац Леонид Гербертович": 1,
-      "Черных Артем Анатольевич": 12,
-      "Против всех": 43
+      "gas:candidate-vibid:1001000121821": 39,
+      "gas:candidate-vibid:1001000190316": 3,
+      "gas:candidate-vibid:324300166789": 106,
+      "gas:candidate-vibid:324300166764": 3,
+      "gas:candidate-vibid:1001000113911": 0,
+      "gas:candidate-vibid:324300166796": 228,
+      "gas:candidate-vibid:324300166942": 8,
+      "gas:candidate-vibid:324300166931": 0,
+      "gas:candidate-vibid:1001000202291": 1,
+      "gas:candidate-vibid:1001000136025": 12,
+      "special:against-all": 43
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=242000054&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=224200067659&region=0&sub_region=0&type=429",
@@ -8292,17 +8292,17 @@ export const duma_2003_uik_428_region_24_part_007 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бедарев Владимир Семенович": 49,
-      "Германович Владимир Николаевич": 3,
-      "Добровольская Марина Ивановна": 116,
-      "Добряк Тамара Александровна": 2,
-      "Жабинский Сергей Михайлович": 5,
-      "Зубов Валерий Михайлович": 171,
-      "Лихтина Ольга Григорьевна": 5,
-      "Мартыненко Елена Анатольевна": 0,
-      "Панкрац Леонид Гербертович": 0,
-      "Черных Артем Анатольевич": 9,
-      "Против всех": 18
+      "gas:candidate-vibid:1001000121821": 49,
+      "gas:candidate-vibid:1001000190316": 3,
+      "gas:candidate-vibid:324300166789": 116,
+      "gas:candidate-vibid:324300166764": 2,
+      "gas:candidate-vibid:1001000113911": 5,
+      "gas:candidate-vibid:324300166796": 171,
+      "gas:candidate-vibid:324300166942": 5,
+      "gas:candidate-vibid:324300166931": 0,
+      "gas:candidate-vibid:1001000202291": 0,
+      "gas:candidate-vibid:1001000136025": 9,
+      "special:against-all": 18
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=242000054&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=224200067659&region=0&sub_region=0&type=429",
@@ -8352,17 +8352,17 @@ export const duma_2003_uik_428_region_24_part_007 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бедарев Владимир Семенович": 41,
-      "Германович Владимир Николаевич": 3,
-      "Добровольская Марина Ивановна": 67,
-      "Добряк Тамара Александровна": 1,
-      "Жабинский Сергей Михайлович": 1,
-      "Зубов Валерий Михайлович": 47,
-      "Лихтина Ольга Григорьевна": 0,
-      "Мартыненко Елена Анатольевна": 0,
-      "Панкрац Леонид Гербертович": 1,
-      "Черных Артем Анатольевич": 10,
-      "Против всех": 9
+      "gas:candidate-vibid:1001000121821": 41,
+      "gas:candidate-vibid:1001000190316": 3,
+      "gas:candidate-vibid:324300166789": 67,
+      "gas:candidate-vibid:324300166764": 1,
+      "gas:candidate-vibid:1001000113911": 1,
+      "gas:candidate-vibid:324300166796": 47,
+      "gas:candidate-vibid:324300166942": 0,
+      "gas:candidate-vibid:324300166931": 0,
+      "gas:candidate-vibid:1001000202291": 1,
+      "gas:candidate-vibid:1001000136025": 10,
+      "special:against-all": 9
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=242000054&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=224200067659&region=0&sub_region=0&type=429",
@@ -8412,17 +8412,17 @@ export const duma_2003_uik_428_region_24_part_007 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бедарев Владимир Семенович": 42,
-      "Германович Владимир Николаевич": 0,
-      "Добровольская Марина Ивановна": 77,
-      "Добряк Тамара Александровна": 1,
-      "Жабинский Сергей Михайлович": 1,
-      "Зубов Валерий Михайлович": 82,
-      "Лихтина Ольга Григорьевна": 4,
-      "Мартыненко Елена Анатольевна": 1,
-      "Панкрац Леонид Гербертович": 1,
-      "Черных Артем Анатольевич": 12,
-      "Против всех": 13
+      "gas:candidate-vibid:1001000121821": 42,
+      "gas:candidate-vibid:1001000190316": 0,
+      "gas:candidate-vibid:324300166789": 77,
+      "gas:candidate-vibid:324300166764": 1,
+      "gas:candidate-vibid:1001000113911": 1,
+      "gas:candidate-vibid:324300166796": 82,
+      "gas:candidate-vibid:324300166942": 4,
+      "gas:candidate-vibid:324300166931": 1,
+      "gas:candidate-vibid:1001000202291": 1,
+      "gas:candidate-vibid:1001000136025": 12,
+      "special:against-all": 13
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=242000054&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=224200067659&region=0&sub_region=0&type=429",
@@ -8472,17 +8472,17 @@ export const duma_2003_uik_428_region_24_part_007 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бедарев Владимир Семенович": 57,
-      "Германович Владимир Николаевич": 1,
-      "Добровольская Марина Ивановна": 80,
-      "Добряк Тамара Александровна": 4,
-      "Жабинский Сергей Михайлович": 2,
-      "Зубов Валерий Михайлович": 80,
-      "Лихтина Ольга Григорьевна": 3,
-      "Мартыненко Елена Анатольевна": 2,
-      "Панкрац Леонид Гербертович": 1,
-      "Черных Артем Анатольевич": 6,
-      "Против всех": 32
+      "gas:candidate-vibid:1001000121821": 57,
+      "gas:candidate-vibid:1001000190316": 1,
+      "gas:candidate-vibid:324300166789": 80,
+      "gas:candidate-vibid:324300166764": 4,
+      "gas:candidate-vibid:1001000113911": 2,
+      "gas:candidate-vibid:324300166796": 80,
+      "gas:candidate-vibid:324300166942": 3,
+      "gas:candidate-vibid:324300166931": 2,
+      "gas:candidate-vibid:1001000202291": 1,
+      "gas:candidate-vibid:1001000136025": 6,
+      "special:against-all": 32
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=242000054&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=224200067659&region=0&sub_region=0&type=429",
@@ -8532,17 +8532,17 @@ export const duma_2003_uik_428_region_24_part_007 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бедарев Владимир Семенович": 79,
-      "Германович Владимир Николаевич": 4,
-      "Добровольская Марина Ивановна": 109,
-      "Добряк Тамара Александровна": 7,
-      "Жабинский Сергей Михайлович": 1,
-      "Зубов Валерий Михайлович": 147,
-      "Лихтина Ольга Григорьевна": 2,
-      "Мартыненко Елена Анатольевна": 2,
-      "Панкрац Леонид Гербертович": 0,
-      "Черных Артем Анатольевич": 14,
-      "Против всех": 26
+      "gas:candidate-vibid:1001000121821": 79,
+      "gas:candidate-vibid:1001000190316": 4,
+      "gas:candidate-vibid:324300166789": 109,
+      "gas:candidate-vibid:324300166764": 7,
+      "gas:candidate-vibid:1001000113911": 1,
+      "gas:candidate-vibid:324300166796": 147,
+      "gas:candidate-vibid:324300166942": 2,
+      "gas:candidate-vibid:324300166931": 2,
+      "gas:candidate-vibid:1001000202291": 0,
+      "gas:candidate-vibid:1001000136025": 14,
+      "special:against-all": 26
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=242000054&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=224200067659&region=0&sub_region=0&type=429",
@@ -8592,17 +8592,17 @@ export const duma_2003_uik_428_region_24_part_007 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бедарев Владимир Семенович": 17,
-      "Германович Владимир Николаевич": 0,
-      "Добровольская Марина Ивановна": 37,
-      "Добряк Тамара Александровна": 1,
-      "Жабинский Сергей Михайлович": 0,
-      "Зубов Валерий Михайлович": 37,
-      "Лихтина Ольга Григорьевна": 0,
-      "Мартыненко Елена Анатольевна": 0,
-      "Панкрац Леонид Гербертович": 0,
-      "Черных Артем Анатольевич": 5,
-      "Против всех": 9
+      "gas:candidate-vibid:1001000121821": 17,
+      "gas:candidate-vibid:1001000190316": 0,
+      "gas:candidate-vibid:324300166789": 37,
+      "gas:candidate-vibid:324300166764": 1,
+      "gas:candidate-vibid:1001000113911": 0,
+      "gas:candidate-vibid:324300166796": 37,
+      "gas:candidate-vibid:324300166942": 0,
+      "gas:candidate-vibid:324300166931": 0,
+      "gas:candidate-vibid:1001000202291": 0,
+      "gas:candidate-vibid:1001000136025": 5,
+      "special:against-all": 9
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=242000054&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=224200067659&region=0&sub_region=0&type=429",
@@ -8652,17 +8652,17 @@ export const duma_2003_uik_428_region_24_part_007 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бедарев Владимир Семенович": 30,
-      "Германович Владимир Николаевич": 4,
-      "Добровольская Марина Ивановна": 154,
-      "Добряк Тамара Александровна": 7,
-      "Жабинский Сергей Михайлович": 7,
-      "Зубов Валерий Михайлович": 98,
-      "Лихтина Ольга Григорьевна": 5,
-      "Мартыненко Елена Анатольевна": 3,
-      "Панкрац Леонид Гербертович": 2,
-      "Черных Артем Анатольевич": 7,
-      "Против всех": 28
+      "gas:candidate-vibid:1001000121821": 30,
+      "gas:candidate-vibid:1001000190316": 4,
+      "gas:candidate-vibid:324300166789": 154,
+      "gas:candidate-vibid:324300166764": 7,
+      "gas:candidate-vibid:1001000113911": 7,
+      "gas:candidate-vibid:324300166796": 98,
+      "gas:candidate-vibid:324300166942": 5,
+      "gas:candidate-vibid:324300166931": 3,
+      "gas:candidate-vibid:1001000202291": 2,
+      "gas:candidate-vibid:1001000136025": 7,
+      "special:against-all": 28
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=242000054&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=224200067659&region=0&sub_region=0&type=429",
@@ -8712,17 +8712,17 @@ export const duma_2003_uik_428_region_24_part_007 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бедарев Владимир Семенович": 62,
-      "Германович Владимир Николаевич": 1,
-      "Добровольская Марина Ивановна": 130,
-      "Добряк Тамара Александровна": 4,
-      "Жабинский Сергей Михайлович": 1,
-      "Зубов Валерий Михайлович": 79,
-      "Лихтина Ольга Григорьевна": 3,
-      "Мартыненко Елена Анатольевна": 1,
-      "Панкрац Леонид Гербертович": 0,
-      "Черных Артем Анатольевич": 10,
-      "Против всех": 22
+      "gas:candidate-vibid:1001000121821": 62,
+      "gas:candidate-vibid:1001000190316": 1,
+      "gas:candidate-vibid:324300166789": 130,
+      "gas:candidate-vibid:324300166764": 4,
+      "gas:candidate-vibid:1001000113911": 1,
+      "gas:candidate-vibid:324300166796": 79,
+      "gas:candidate-vibid:324300166942": 3,
+      "gas:candidate-vibid:324300166931": 1,
+      "gas:candidate-vibid:1001000202291": 0,
+      "gas:candidate-vibid:1001000136025": 10,
+      "special:against-all": 22
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=242000054&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=224200067659&region=0&sub_region=0&type=429",
@@ -8772,17 +8772,17 @@ export const duma_2003_uik_428_region_24_part_007 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бедарев Владимир Семенович": 10,
-      "Германович Владимир Николаевич": 1,
-      "Добровольская Марина Ивановна": 18,
-      "Добряк Тамара Александровна": 1,
-      "Жабинский Сергей Михайлович": 2,
-      "Зубов Валерий Михайлович": 13,
-      "Лихтина Ольга Григорьевна": 0,
-      "Мартыненко Елена Анатольевна": 0,
-      "Панкрац Леонид Гербертович": 0,
-      "Черных Артем Анатольевич": 5,
-      "Против всех": 8
+      "gas:candidate-vibid:1001000121821": 10,
+      "gas:candidate-vibid:1001000190316": 1,
+      "gas:candidate-vibid:324300166789": 18,
+      "gas:candidate-vibid:324300166764": 1,
+      "gas:candidate-vibid:1001000113911": 2,
+      "gas:candidate-vibid:324300166796": 13,
+      "gas:candidate-vibid:324300166942": 0,
+      "gas:candidate-vibid:324300166931": 0,
+      "gas:candidate-vibid:1001000202291": 0,
+      "gas:candidate-vibid:1001000136025": 5,
+      "special:against-all": 8
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=242000054&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=224200067659&region=0&sub_region=0&type=429",
@@ -8832,17 +8832,17 @@ export const duma_2003_uik_428_region_24_part_007 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бедарев Владимир Семенович": 15,
-      "Германович Владимир Николаевич": 1,
-      "Добровольская Марина Ивановна": 28,
-      "Добряк Тамара Александровна": 0,
-      "Жабинский Сергей Михайлович": 1,
-      "Зубов Валерий Михайлович": 29,
-      "Лихтина Ольга Григорьевна": 3,
-      "Мартыненко Елена Анатольевна": 0,
-      "Панкрац Леонид Гербертович": 1,
-      "Черных Артем Анатольевич": 3,
-      "Против всех": 5
+      "gas:candidate-vibid:1001000121821": 15,
+      "gas:candidate-vibid:1001000190316": 1,
+      "gas:candidate-vibid:324300166789": 28,
+      "gas:candidate-vibid:324300166764": 0,
+      "gas:candidate-vibid:1001000113911": 1,
+      "gas:candidate-vibid:324300166796": 29,
+      "gas:candidate-vibid:324300166942": 3,
+      "gas:candidate-vibid:324300166931": 0,
+      "gas:candidate-vibid:1001000202291": 1,
+      "gas:candidate-vibid:1001000136025": 3,
+      "special:against-all": 5
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=242000054&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=224200067659&region=0&sub_region=0&type=429",
@@ -8892,17 +8892,17 @@ export const duma_2003_uik_428_region_24_part_007 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бедарев Владимир Семенович": 7,
-      "Германович Владимир Николаевич": 1,
-      "Добровольская Марина Ивановна": 23,
-      "Добряк Тамара Александровна": 1,
-      "Жабинский Сергей Михайлович": 1,
-      "Зубов Валерий Михайлович": 30,
-      "Лихтина Ольга Григорьевна": 4,
-      "Мартыненко Елена Анатольевна": 1,
-      "Панкрац Леонид Гербертович": 0,
-      "Черных Артем Анатольевич": 1,
-      "Против всех": 6
+      "gas:candidate-vibid:1001000121821": 7,
+      "gas:candidate-vibid:1001000190316": 1,
+      "gas:candidate-vibid:324300166789": 23,
+      "gas:candidate-vibid:324300166764": 1,
+      "gas:candidate-vibid:1001000113911": 1,
+      "gas:candidate-vibid:324300166796": 30,
+      "gas:candidate-vibid:324300166942": 4,
+      "gas:candidate-vibid:324300166931": 1,
+      "gas:candidate-vibid:1001000202291": 0,
+      "gas:candidate-vibid:1001000136025": 1,
+      "special:against-all": 6
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=242000054&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=224200067659&region=0&sub_region=0&type=429",
@@ -8952,17 +8952,17 @@ export const duma_2003_uik_428_region_24_part_007 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бедарев Владимир Семенович": 22,
-      "Германович Владимир Николаевич": 0,
-      "Добровольская Марина Ивановна": 26,
-      "Добряк Тамара Александровна": 2,
-      "Жабинский Сергей Михайлович": 0,
-      "Зубов Валерий Михайлович": 20,
-      "Лихтина Ольга Григорьевна": 0,
-      "Мартыненко Елена Анатольевна": 0,
-      "Панкрац Леонид Гербертович": 1,
-      "Черных Артем Анатольевич": 0,
-      "Против всех": 7
+      "gas:candidate-vibid:1001000121821": 22,
+      "gas:candidate-vibid:1001000190316": 0,
+      "gas:candidate-vibid:324300166789": 26,
+      "gas:candidate-vibid:324300166764": 2,
+      "gas:candidate-vibid:1001000113911": 0,
+      "gas:candidate-vibid:324300166796": 20,
+      "gas:candidate-vibid:324300166942": 0,
+      "gas:candidate-vibid:324300166931": 0,
+      "gas:candidate-vibid:1001000202291": 1,
+      "gas:candidate-vibid:1001000136025": 0,
+      "special:against-all": 7
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=242000054&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=224200067659&region=0&sub_region=0&type=429",
@@ -9012,17 +9012,17 @@ export const duma_2003_uik_428_region_24_part_007 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бедарев Владимир Семенович": 72,
-      "Германович Владимир Николаевич": 2,
-      "Добровольская Марина Ивановна": 117,
-      "Добряк Тамара Александровна": 8,
-      "Жабинский Сергей Михайлович": 0,
-      "Зубов Валерий Михайлович": 116,
-      "Лихтина Ольга Григорьевна": 8,
-      "Мартыненко Елена Анатольевна": 2,
-      "Панкрац Леонид Гербертович": 0,
-      "Черных Артем Анатольевич": 14,
-      "Против всех": 23
+      "gas:candidate-vibid:1001000121821": 72,
+      "gas:candidate-vibid:1001000190316": 2,
+      "gas:candidate-vibid:324300166789": 117,
+      "gas:candidate-vibid:324300166764": 8,
+      "gas:candidate-vibid:1001000113911": 0,
+      "gas:candidate-vibid:324300166796": 116,
+      "gas:candidate-vibid:324300166942": 8,
+      "gas:candidate-vibid:324300166931": 2,
+      "gas:candidate-vibid:1001000202291": 0,
+      "gas:candidate-vibid:1001000136025": 14,
+      "special:against-all": 23
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=242000054&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=224200067659&region=0&sub_region=0&type=429",
@@ -9072,17 +9072,17 @@ export const duma_2003_uik_428_region_24_part_007 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бедарев Владимир Семенович": 10,
-      "Германович Владимир Николаевич": 0,
-      "Добровольская Марина Ивановна": 46,
-      "Добряк Тамара Александровна": 0,
-      "Жабинский Сергей Михайлович": 1,
-      "Зубов Валерий Михайлович": 22,
-      "Лихтина Ольга Григорьевна": 1,
-      "Мартыненко Елена Анатольевна": 0,
-      "Панкрац Леонид Гербертович": 0,
-      "Черных Артем Анатольевич": 0,
-      "Против всех": 2
+      "gas:candidate-vibid:1001000121821": 10,
+      "gas:candidate-vibid:1001000190316": 0,
+      "gas:candidate-vibid:324300166789": 46,
+      "gas:candidate-vibid:324300166764": 0,
+      "gas:candidate-vibid:1001000113911": 1,
+      "gas:candidate-vibid:324300166796": 22,
+      "gas:candidate-vibid:324300166942": 1,
+      "gas:candidate-vibid:324300166931": 0,
+      "gas:candidate-vibid:1001000202291": 0,
+      "gas:candidate-vibid:1001000136025": 0,
+      "special:against-all": 2
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=242000054&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=224200067659&region=0&sub_region=0&type=429",
@@ -9132,17 +9132,17 @@ export const duma_2003_uik_428_region_24_part_007 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бедарев Владимир Семенович": 21,
-      "Германович Владимир Николаевич": 2,
-      "Добровольская Марина Ивановна": 53,
-      "Добряк Тамара Александровна": 2,
-      "Жабинский Сергей Михайлович": 3,
-      "Зубов Валерий Михайлович": 35,
-      "Лихтина Ольга Григорьевна": 4,
-      "Мартыненко Елена Анатольевна": 2,
-      "Панкрац Леонид Гербертович": 2,
-      "Черных Артем Анатольевич": 6,
-      "Против всех": 15
+      "gas:candidate-vibid:1001000121821": 21,
+      "gas:candidate-vibid:1001000190316": 2,
+      "gas:candidate-vibid:324300166789": 53,
+      "gas:candidate-vibid:324300166764": 2,
+      "gas:candidate-vibid:1001000113911": 3,
+      "gas:candidate-vibid:324300166796": 35,
+      "gas:candidate-vibid:324300166942": 4,
+      "gas:candidate-vibid:324300166931": 2,
+      "gas:candidate-vibid:1001000202291": 2,
+      "gas:candidate-vibid:1001000136025": 6,
+      "special:against-all": 15
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=242000054&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=224200067659&region=0&sub_region=0&type=429",
@@ -9192,17 +9192,17 @@ export const duma_2003_uik_428_region_24_part_007 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бедарев Владимир Семенович": 32,
-      "Германович Владимир Николаевич": 1,
-      "Добровольская Марина Ивановна": 77,
-      "Добряк Тамара Александровна": 3,
-      "Жабинский Сергей Михайлович": 2,
-      "Зубов Валерий Михайлович": 131,
-      "Лихтина Ольга Григорьевна": 2,
-      "Мартыненко Елена Анатольевна": 2,
-      "Панкрац Леонид Гербертович": 0,
-      "Черных Артем Анатольевич": 14,
-      "Против всех": 23
+      "gas:candidate-vibid:1001000121821": 32,
+      "gas:candidate-vibid:1001000190316": 1,
+      "gas:candidate-vibid:324300166789": 77,
+      "gas:candidate-vibid:324300166764": 3,
+      "gas:candidate-vibid:1001000113911": 2,
+      "gas:candidate-vibid:324300166796": 131,
+      "gas:candidate-vibid:324300166942": 2,
+      "gas:candidate-vibid:324300166931": 2,
+      "gas:candidate-vibid:1001000202291": 0,
+      "gas:candidate-vibid:1001000136025": 14,
+      "special:against-all": 23
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=242000054&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=224200067659&region=0&sub_region=0&type=429",
@@ -9252,17 +9252,17 @@ export const duma_2003_uik_428_region_24_part_007 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бедарев Владимир Семенович": 11,
-      "Германович Владимир Николаевич": 0,
-      "Добровольская Марина Ивановна": 5,
-      "Добряк Тамара Александровна": 0,
-      "Жабинский Сергей Михайлович": 1,
-      "Зубов Валерий Михайлович": 22,
-      "Лихтина Ольга Григорьевна": 0,
-      "Мартыненко Елена Анатольевна": 0,
-      "Панкрац Леонид Гербертович": 0,
-      "Черных Артем Анатольевич": 3,
-      "Против всех": 3
+      "gas:candidate-vibid:1001000121821": 11,
+      "gas:candidate-vibid:1001000190316": 0,
+      "gas:candidate-vibid:324300166789": 5,
+      "gas:candidate-vibid:324300166764": 0,
+      "gas:candidate-vibid:1001000113911": 1,
+      "gas:candidate-vibid:324300166796": 22,
+      "gas:candidate-vibid:324300166942": 0,
+      "gas:candidate-vibid:324300166931": 0,
+      "gas:candidate-vibid:1001000202291": 0,
+      "gas:candidate-vibid:1001000136025": 3,
+      "special:against-all": 3
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=242000054&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=224200067659&region=0&sub_region=0&type=429",
@@ -9312,17 +9312,17 @@ export const duma_2003_uik_428_region_24_part_007 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бедарев Владимир Семенович": 51,
-      "Германович Владимир Николаевич": 0,
-      "Добровольская Марина Ивановна": 25,
-      "Добряк Тамара Александровна": 2,
-      "Жабинский Сергей Михайлович": 2,
-      "Зубов Валерий Михайлович": 23,
-      "Лихтина Ольга Григорьевна": 1,
-      "Мартыненко Елена Анатольевна": 2,
-      "Панкрац Леонид Гербертович": 1,
-      "Черных Артем Анатольевич": 5,
-      "Против всех": 11
+      "gas:candidate-vibid:1001000121821": 51,
+      "gas:candidate-vibid:1001000190316": 0,
+      "gas:candidate-vibid:324300166789": 25,
+      "gas:candidate-vibid:324300166764": 2,
+      "gas:candidate-vibid:1001000113911": 2,
+      "gas:candidate-vibid:324300166796": 23,
+      "gas:candidate-vibid:324300166942": 1,
+      "gas:candidate-vibid:324300166931": 2,
+      "gas:candidate-vibid:1001000202291": 1,
+      "gas:candidate-vibid:1001000136025": 5,
+      "special:against-all": 11
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=242000054&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=224200067659&region=0&sub_region=0&type=429",
@@ -9372,17 +9372,17 @@ export const duma_2003_uik_428_region_24_part_007 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бедарев Владимир Семенович": 48,
-      "Германович Владимир Николаевич": 3,
-      "Добровольская Марина Ивановна": 32,
-      "Добряк Тамара Александровна": 0,
-      "Жабинский Сергей Михайлович": 4,
-      "Зубов Валерий Михайлович": 37,
-      "Лихтина Ольга Григорьевна": 6,
-      "Мартыненко Елена Анатольевна": 1,
-      "Панкрац Леонид Гербертович": 0,
-      "Черных Артем Анатольевич": 4,
-      "Против всех": 14
+      "gas:candidate-vibid:1001000121821": 48,
+      "gas:candidate-vibid:1001000190316": 3,
+      "gas:candidate-vibid:324300166789": 32,
+      "gas:candidate-vibid:324300166764": 0,
+      "gas:candidate-vibid:1001000113911": 4,
+      "gas:candidate-vibid:324300166796": 37,
+      "gas:candidate-vibid:324300166942": 6,
+      "gas:candidate-vibid:324300166931": 1,
+      "gas:candidate-vibid:1001000202291": 0,
+      "gas:candidate-vibid:1001000136025": 4,
+      "special:against-all": 14
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=242000054&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=224200067659&region=0&sub_region=0&type=429",
@@ -9432,17 +9432,17 @@ export const duma_2003_uik_428_region_24_part_007 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бедарев Владимир Семенович": 28,
-      "Германович Владимир Николаевич": 5,
-      "Добровольская Марина Ивановна": 21,
-      "Добряк Тамара Александровна": 2,
-      "Жабинский Сергей Михайлович": 2,
-      "Зубов Валерий Михайлович": 23,
-      "Лихтина Ольга Григорьевна": 12,
-      "Мартыненко Елена Анатольевна": 0,
-      "Панкрац Леонид Гербертович": 0,
-      "Черных Артем Анатольевич": 7,
-      "Против всех": 11
+      "gas:candidate-vibid:1001000121821": 28,
+      "gas:candidate-vibid:1001000190316": 5,
+      "gas:candidate-vibid:324300166789": 21,
+      "gas:candidate-vibid:324300166764": 2,
+      "gas:candidate-vibid:1001000113911": 2,
+      "gas:candidate-vibid:324300166796": 23,
+      "gas:candidate-vibid:324300166942": 12,
+      "gas:candidate-vibid:324300166931": 0,
+      "gas:candidate-vibid:1001000202291": 0,
+      "gas:candidate-vibid:1001000136025": 7,
+      "special:against-all": 11
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=242000054&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=224200067659&region=0&sub_region=0&type=429",
@@ -9492,17 +9492,17 @@ export const duma_2003_uik_428_region_24_part_007 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бедарев Владимир Семенович": 65,
-      "Германович Владимир Николаевич": 6,
-      "Добровольская Марина Ивановна": 71,
-      "Добряк Тамара Александровна": 2,
-      "Жабинский Сергей Михайлович": 4,
-      "Зубов Валерий Михайлович": 101,
-      "Лихтина Ольга Григорьевна": 5,
-      "Мартыненко Елена Анатольевна": 0,
-      "Панкрац Леонид Гербертович": 0,
-      "Черных Артем Анатольевич": 4,
-      "Против всех": 23
+      "gas:candidate-vibid:1001000121821": 65,
+      "gas:candidate-vibid:1001000190316": 6,
+      "gas:candidate-vibid:324300166789": 71,
+      "gas:candidate-vibid:324300166764": 2,
+      "gas:candidate-vibid:1001000113911": 4,
+      "gas:candidate-vibid:324300166796": 101,
+      "gas:candidate-vibid:324300166942": 5,
+      "gas:candidate-vibid:324300166931": 0,
+      "gas:candidate-vibid:1001000202291": 0,
+      "gas:candidate-vibid:1001000136025": 4,
+      "special:against-all": 23
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=242000054&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=224200067659&region=0&sub_region=0&type=429",
@@ -9552,17 +9552,17 @@ export const duma_2003_uik_428_region_24_part_007 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бедарев Владимир Семенович": 16,
-      "Германович Владимир Николаевич": 0,
-      "Добровольская Марина Ивановна": 13,
-      "Добряк Тамара Александровна": 0,
-      "Жабинский Сергей Михайлович": 0,
-      "Зубов Валерий Михайлович": 29,
-      "Лихтина Ольга Григорьевна": 2,
-      "Мартыненко Елена Анатольевна": 0,
-      "Панкрац Леонид Гербертович": 3,
-      "Черных Артем Анатольевич": 6,
-      "Против всех": 8
+      "gas:candidate-vibid:1001000121821": 16,
+      "gas:candidate-vibid:1001000190316": 0,
+      "gas:candidate-vibid:324300166789": 13,
+      "gas:candidate-vibid:324300166764": 0,
+      "gas:candidate-vibid:1001000113911": 0,
+      "gas:candidate-vibid:324300166796": 29,
+      "gas:candidate-vibid:324300166942": 2,
+      "gas:candidate-vibid:324300166931": 0,
+      "gas:candidate-vibid:1001000202291": 3,
+      "gas:candidate-vibid:1001000136025": 6,
+      "special:against-all": 8
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=242000054&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=224200067659&region=0&sub_region=0&type=429",
@@ -9612,17 +9612,17 @@ export const duma_2003_uik_428_region_24_part_007 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бедарев Владимир Семенович": 12,
-      "Германович Владимир Николаевич": 1,
-      "Добровольская Марина Ивановна": 48,
-      "Добряк Тамара Александровна": 0,
-      "Жабинский Сергей Михайлович": 1,
-      "Зубов Валерий Михайлович": 33,
-      "Лихтина Ольга Григорьевна": 1,
-      "Мартыненко Елена Анатольевна": 0,
-      "Панкрац Леонид Гербертович": 0,
-      "Черных Артем Анатольевич": 1,
-      "Против всех": 11
+      "gas:candidate-vibid:1001000121821": 12,
+      "gas:candidate-vibid:1001000190316": 1,
+      "gas:candidate-vibid:324300166789": 48,
+      "gas:candidate-vibid:324300166764": 0,
+      "gas:candidate-vibid:1001000113911": 1,
+      "gas:candidate-vibid:324300166796": 33,
+      "gas:candidate-vibid:324300166942": 1,
+      "gas:candidate-vibid:324300166931": 0,
+      "gas:candidate-vibid:1001000202291": 0,
+      "gas:candidate-vibid:1001000136025": 1,
+      "special:against-all": 11
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=242000054&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=224200067659&region=0&sub_region=0&type=429",
@@ -9672,17 +9672,17 @@ export const duma_2003_uik_428_region_24_part_007 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бедарев Владимир Семенович": 43,
-      "Германович Владимир Николаевич": 8,
-      "Добровольская Марина Ивановна": 151,
-      "Добряк Тамара Александровна": 6,
-      "Жабинский Сергей Михайлович": 3,
-      "Зубов Валерий Михайлович": 126,
-      "Лихтина Ольга Григорьевна": 13,
-      "Мартыненко Елена Анатольевна": 1,
-      "Панкрац Леонид Гербертович": 1,
-      "Черных Артем Анатольевич": 14,
-      "Против всех": 62
+      "gas:candidate-vibid:1001000121821": 43,
+      "gas:candidate-vibid:1001000190316": 8,
+      "gas:candidate-vibid:324300166789": 151,
+      "gas:candidate-vibid:324300166764": 6,
+      "gas:candidate-vibid:1001000113911": 3,
+      "gas:candidate-vibid:324300166796": 126,
+      "gas:candidate-vibid:324300166942": 13,
+      "gas:candidate-vibid:324300166931": 1,
+      "gas:candidate-vibid:1001000202291": 1,
+      "gas:candidate-vibid:1001000136025": 14,
+      "special:against-all": 62
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=242000054&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=224200067659&region=0&sub_region=0&type=429",
@@ -9732,17 +9732,17 @@ export const duma_2003_uik_428_region_24_part_007 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бедарев Владимир Семенович": 18,
-      "Германович Владимир Николаевич": 0,
-      "Добровольская Марина Ивановна": 38,
-      "Добряк Тамара Александровна": 6,
-      "Жабинский Сергей Михайлович": 0,
-      "Зубов Валерий Михайлович": 119,
-      "Лихтина Ольга Григорьевна": 5,
-      "Мартыненко Елена Анатольевна": 3,
-      "Панкрац Леонид Гербертович": 0,
-      "Черных Артем Анатольевич": 5,
-      "Против всех": 15
+      "gas:candidate-vibid:1001000121821": 18,
+      "gas:candidate-vibid:1001000190316": 0,
+      "gas:candidate-vibid:324300166789": 38,
+      "gas:candidate-vibid:324300166764": 6,
+      "gas:candidate-vibid:1001000113911": 0,
+      "gas:candidate-vibid:324300166796": 119,
+      "gas:candidate-vibid:324300166942": 5,
+      "gas:candidate-vibid:324300166931": 3,
+      "gas:candidate-vibid:1001000202291": 0,
+      "gas:candidate-vibid:1001000136025": 5,
+      "special:against-all": 15
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=242000054&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=224200067659&region=0&sub_region=0&type=429",
@@ -9792,17 +9792,17 @@ export const duma_2003_uik_428_region_24_part_007 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бедарев Владимир Семенович": 8,
-      "Германович Владимир Николаевич": 0,
-      "Добровольская Марина Ивановна": 25,
-      "Добряк Тамара Александровна": 2,
-      "Жабинский Сергей Михайлович": 2,
-      "Зубов Валерий Михайлович": 19,
-      "Лихтина Ольга Григорьевна": 6,
-      "Мартыненко Елена Анатольевна": 3,
-      "Панкрац Леонид Гербертович": 1,
-      "Черных Артем Анатольевич": 13,
-      "Против всех": 3
+      "gas:candidate-vibid:1001000121821": 8,
+      "gas:candidate-vibid:1001000190316": 0,
+      "gas:candidate-vibid:324300166789": 25,
+      "gas:candidate-vibid:324300166764": 2,
+      "gas:candidate-vibid:1001000113911": 2,
+      "gas:candidate-vibid:324300166796": 19,
+      "gas:candidate-vibid:324300166942": 6,
+      "gas:candidate-vibid:324300166931": 3,
+      "gas:candidate-vibid:1001000202291": 1,
+      "gas:candidate-vibid:1001000136025": 13,
+      "special:against-all": 3
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=242000054&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=224200067659&region=0&sub_region=0&type=429",
@@ -9852,17 +9852,17 @@ export const duma_2003_uik_428_region_24_part_007 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бедарев Владимир Семенович": 46,
-      "Германович Владимир Николаевич": 3,
-      "Добровольская Марина Ивановна": 63,
-      "Добряк Тамара Александровна": 4,
-      "Жабинский Сергей Михайлович": 2,
-      "Зубов Валерий Михайлович": 48,
-      "Лихтина Ольга Григорьевна": 2,
-      "Мартыненко Елена Анатольевна": 1,
-      "Панкрац Леонид Гербертович": 3,
-      "Черных Артем Анатольевич": 5,
-      "Против всех": 23
+      "gas:candidate-vibid:1001000121821": 46,
+      "gas:candidate-vibid:1001000190316": 3,
+      "gas:candidate-vibid:324300166789": 63,
+      "gas:candidate-vibid:324300166764": 4,
+      "gas:candidate-vibid:1001000113911": 2,
+      "gas:candidate-vibid:324300166796": 48,
+      "gas:candidate-vibid:324300166942": 2,
+      "gas:candidate-vibid:324300166931": 1,
+      "gas:candidate-vibid:1001000202291": 3,
+      "gas:candidate-vibid:1001000136025": 5,
+      "special:against-all": 23
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=242000054&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=224200067659&region=0&sub_region=0&type=429",
@@ -9912,17 +9912,17 @@ export const duma_2003_uik_428_region_24_part_007 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бедарев Владимир Семенович": 44,
-      "Германович Владимир Николаевич": 11,
-      "Добровольская Марина Ивановна": 229,
-      "Добряк Тамара Александровна": 14,
-      "Жабинский Сергей Михайлович": 3,
-      "Зубов Валерий Михайлович": 355,
-      "Лихтина Ольга Григорьевна": 12,
-      "Мартыненко Елена Анатольевна": 6,
-      "Панкрац Леонид Гербертович": 1,
-      "Черных Артем Анатольевич": 23,
-      "Против всех": 132
+      "gas:candidate-vibid:1001000121821": 44,
+      "gas:candidate-vibid:1001000190316": 11,
+      "gas:candidate-vibid:324300166789": 229,
+      "gas:candidate-vibid:324300166764": 14,
+      "gas:candidate-vibid:1001000113911": 3,
+      "gas:candidate-vibid:324300166796": 355,
+      "gas:candidate-vibid:324300166942": 12,
+      "gas:candidate-vibid:324300166931": 6,
+      "gas:candidate-vibid:1001000202291": 1,
+      "gas:candidate-vibid:1001000136025": 23,
+      "special:against-all": 132
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=242000055&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=224200067660&region=0&sub_region=0&type=429",
@@ -9972,17 +9972,17 @@ export const duma_2003_uik_428_region_24_part_007 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бедарев Владимир Семенович": 7,
-      "Германович Владимир Николаевич": 3,
-      "Добровольская Марина Ивановна": 36,
-      "Добряк Тамара Александровна": 1,
-      "Жабинский Сергей Михайлович": 1,
-      "Зубов Валерий Михайлович": 87,
-      "Лихтина Ольга Григорьевна": 3,
-      "Мартыненко Елена Анатольевна": 1,
-      "Панкрац Леонид Гербертович": 1,
-      "Черных Артем Анатольевич": 4,
-      "Против всех": 30
+      "gas:candidate-vibid:1001000121821": 7,
+      "gas:candidate-vibid:1001000190316": 3,
+      "gas:candidate-vibid:324300166789": 36,
+      "gas:candidate-vibid:324300166764": 1,
+      "gas:candidate-vibid:1001000113911": 1,
+      "gas:candidate-vibid:324300166796": 87,
+      "gas:candidate-vibid:324300166942": 3,
+      "gas:candidate-vibid:324300166931": 1,
+      "gas:candidate-vibid:1001000202291": 1,
+      "gas:candidate-vibid:1001000136025": 4,
+      "special:against-all": 30
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=242000055&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=224200067660&region=0&sub_region=0&type=429",
@@ -10032,17 +10032,17 @@ export const duma_2003_uik_428_region_24_part_007 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бедарев Владимир Семенович": 12,
-      "Германович Владимир Николаевич": 5,
-      "Добровольская Марина Ивановна": 47,
-      "Добряк Тамара Александровна": 2,
-      "Жабинский Сергей Михайлович": 0,
-      "Зубов Валерий Михайлович": 103,
-      "Лихтина Ольга Григорьевна": 1,
-      "Мартыненко Елена Анатольевна": 2,
-      "Панкрац Леонид Гербертович": 1,
-      "Черных Артем Анатольевич": 9,
-      "Против всех": 31
+      "gas:candidate-vibid:1001000121821": 12,
+      "gas:candidate-vibid:1001000190316": 5,
+      "gas:candidate-vibid:324300166789": 47,
+      "gas:candidate-vibid:324300166764": 2,
+      "gas:candidate-vibid:1001000113911": 0,
+      "gas:candidate-vibid:324300166796": 103,
+      "gas:candidate-vibid:324300166942": 1,
+      "gas:candidate-vibid:324300166931": 2,
+      "gas:candidate-vibid:1001000202291": 1,
+      "gas:candidate-vibid:1001000136025": 9,
+      "special:against-all": 31
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=242000055&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=224200067660&region=0&sub_region=0&type=429",
@@ -10092,17 +10092,17 @@ export const duma_2003_uik_428_region_24_part_007 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бедарев Владимир Семенович": 4,
-      "Германович Владимир Николаевич": 2,
-      "Добровольская Марина Ивановна": 26,
-      "Добряк Тамара Александровна": 3,
-      "Жабинский Сергей Михайлович": 3,
-      "Зубов Валерий Михайлович": 74,
-      "Лихтина Ольга Григорьевна": 2,
-      "Мартыненко Елена Анатольевна": 0,
-      "Панкрац Леонид Гербертович": 0,
-      "Черных Артем Анатольевич": 7,
-      "Против всех": 14
+      "gas:candidate-vibid:1001000121821": 4,
+      "gas:candidate-vibid:1001000190316": 2,
+      "gas:candidate-vibid:324300166789": 26,
+      "gas:candidate-vibid:324300166764": 3,
+      "gas:candidate-vibid:1001000113911": 3,
+      "gas:candidate-vibid:324300166796": 74,
+      "gas:candidate-vibid:324300166942": 2,
+      "gas:candidate-vibid:324300166931": 0,
+      "gas:candidate-vibid:1001000202291": 0,
+      "gas:candidate-vibid:1001000136025": 7,
+      "special:against-all": 14
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=242000055&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=224200067660&region=0&sub_region=0&type=429",
@@ -10152,17 +10152,17 @@ export const duma_2003_uik_428_region_24_part_007 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бедарев Владимир Семенович": 5,
-      "Германович Владимир Николаевич": 3,
-      "Добровольская Марина Ивановна": 28,
-      "Добряк Тамара Александровна": 1,
-      "Жабинский Сергей Михайлович": 2,
-      "Зубов Валерий Михайлович": 155,
-      "Лихтина Ольга Григорьевна": 0,
-      "Мартыненко Елена Анатольевна": 0,
-      "Панкрац Леонид Гербертович": 2,
-      "Черных Артем Анатольевич": 3,
-      "Против всех": 27
+      "gas:candidate-vibid:1001000121821": 5,
+      "gas:candidate-vibid:1001000190316": 3,
+      "gas:candidate-vibid:324300166789": 28,
+      "gas:candidate-vibid:324300166764": 1,
+      "gas:candidate-vibid:1001000113911": 2,
+      "gas:candidate-vibid:324300166796": 155,
+      "gas:candidate-vibid:324300166942": 0,
+      "gas:candidate-vibid:324300166931": 0,
+      "gas:candidate-vibid:1001000202291": 2,
+      "gas:candidate-vibid:1001000136025": 3,
+      "special:against-all": 27
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=242000055&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=224200067660&region=0&sub_region=0&type=429",
@@ -10212,17 +10212,17 @@ export const duma_2003_uik_428_region_24_part_007 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бедарев Владимир Семенович": 19,
-      "Германович Владимир Николаевич": 2,
-      "Добровольская Марина Ивановна": 79,
-      "Добряк Тамара Александровна": 2,
-      "Жабинский Сергей Михайлович": 3,
-      "Зубов Валерий Михайлович": 134,
-      "Лихтина Ольга Григорьевна": 3,
-      "Мартыненко Елена Анатольевна": 1,
-      "Панкрац Леонид Гербертович": 1,
-      "Черных Артем Анатольевич": 18,
-      "Против всех": 54
+      "gas:candidate-vibid:1001000121821": 19,
+      "gas:candidate-vibid:1001000190316": 2,
+      "gas:candidate-vibid:324300166789": 79,
+      "gas:candidate-vibid:324300166764": 2,
+      "gas:candidate-vibid:1001000113911": 3,
+      "gas:candidate-vibid:324300166796": 134,
+      "gas:candidate-vibid:324300166942": 3,
+      "gas:candidate-vibid:324300166931": 1,
+      "gas:candidate-vibid:1001000202291": 1,
+      "gas:candidate-vibid:1001000136025": 18,
+      "special:against-all": 54
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=242000055&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=224200067660&region=0&sub_region=0&type=429",
@@ -10272,17 +10272,17 @@ export const duma_2003_uik_428_region_24_part_007 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бедарев Владимир Семенович": 21,
-      "Германович Владимир Николаевич": 7,
-      "Добровольская Марина Ивановна": 35,
-      "Добряк Тамара Александровна": 2,
-      "Жабинский Сергей Михайлович": 4,
-      "Зубов Валерий Михайлович": 74,
-      "Лихтина Ольга Григорьевна": 2,
-      "Мартыненко Елена Анатольевна": 0,
-      "Панкрац Леонид Гербертович": 1,
-      "Черных Артем Анатольевич": 13,
-      "Против всех": 34
+      "gas:candidate-vibid:1001000121821": 21,
+      "gas:candidate-vibid:1001000190316": 7,
+      "gas:candidate-vibid:324300166789": 35,
+      "gas:candidate-vibid:324300166764": 2,
+      "gas:candidate-vibid:1001000113911": 4,
+      "gas:candidate-vibid:324300166796": 74,
+      "gas:candidate-vibid:324300166942": 2,
+      "gas:candidate-vibid:324300166931": 0,
+      "gas:candidate-vibid:1001000202291": 1,
+      "gas:candidate-vibid:1001000136025": 13,
+      "special:against-all": 34
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=242000055&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=224200067660&region=0&sub_region=0&type=429",
@@ -10332,17 +10332,17 @@ export const duma_2003_uik_428_region_24_part_007 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бедарев Владимир Семенович": 23,
-      "Германович Владимир Николаевич": 2,
-      "Добровольская Марина Ивановна": 96,
-      "Добряк Тамара Александровна": 3,
-      "Жабинский Сергей Михайлович": 3,
-      "Зубов Валерий Михайлович": 220,
-      "Лихтина Ольга Григорьевна": 4,
-      "Мартыненко Елена Анатольевна": 1,
-      "Панкрац Леонид Гербертович": 2,
-      "Черных Артем Анатольевич": 9,
-      "Против всех": 41
+      "gas:candidate-vibid:1001000121821": 23,
+      "gas:candidate-vibid:1001000190316": 2,
+      "gas:candidate-vibid:324300166789": 96,
+      "gas:candidate-vibid:324300166764": 3,
+      "gas:candidate-vibid:1001000113911": 3,
+      "gas:candidate-vibid:324300166796": 220,
+      "gas:candidate-vibid:324300166942": 4,
+      "gas:candidate-vibid:324300166931": 1,
+      "gas:candidate-vibid:1001000202291": 2,
+      "gas:candidate-vibid:1001000136025": 9,
+      "special:against-all": 41
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=242000055&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=224200067660&region=0&sub_region=0&type=429",
@@ -10392,17 +10392,17 @@ export const duma_2003_uik_428_region_24_part_007 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бедарев Владимир Семенович": 3,
-      "Германович Владимир Николаевич": 3,
-      "Добровольская Марина Ивановна": 34,
-      "Добряк Тамара Александровна": 4,
-      "Жабинский Сергей Михайлович": 0,
-      "Зубов Валерий Михайлович": 80,
-      "Лихтина Ольга Григорьевна": 2,
-      "Мартыненко Елена Анатольевна": 1,
-      "Панкрац Леонид Гербертович": 0,
-      "Черных Артем Анатольевич": 4,
-      "Против всех": 17
+      "gas:candidate-vibid:1001000121821": 3,
+      "gas:candidate-vibid:1001000190316": 3,
+      "gas:candidate-vibid:324300166789": 34,
+      "gas:candidate-vibid:324300166764": 4,
+      "gas:candidate-vibid:1001000113911": 0,
+      "gas:candidate-vibid:324300166796": 80,
+      "gas:candidate-vibid:324300166942": 2,
+      "gas:candidate-vibid:324300166931": 1,
+      "gas:candidate-vibid:1001000202291": 0,
+      "gas:candidate-vibid:1001000136025": 4,
+      "special:against-all": 17
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=242000055&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=224200067660&region=0&sub_region=0&type=429",
@@ -10452,17 +10452,17 @@ export const duma_2003_uik_428_region_24_part_007 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бедарев Владимир Семенович": 12,
-      "Германович Владимир Николаевич": 3,
-      "Добровольская Марина Ивановна": 37,
-      "Добряк Тамара Александровна": 4,
-      "Жабинский Сергей Михайлович": 1,
-      "Зубов Валерий Михайлович": 51,
-      "Лихтина Ольга Григорьевна": 2,
-      "Мартыненко Елена Анатольевна": 0,
-      "Панкрац Леонид Гербертович": 1,
-      "Черных Артем Анатольевич": 3,
-      "Против всех": 13
+      "gas:candidate-vibid:1001000121821": 12,
+      "gas:candidate-vibid:1001000190316": 3,
+      "gas:candidate-vibid:324300166789": 37,
+      "gas:candidate-vibid:324300166764": 4,
+      "gas:candidate-vibid:1001000113911": 1,
+      "gas:candidate-vibid:324300166796": 51,
+      "gas:candidate-vibid:324300166942": 2,
+      "gas:candidate-vibid:324300166931": 0,
+      "gas:candidate-vibid:1001000202291": 1,
+      "gas:candidate-vibid:1001000136025": 3,
+      "special:against-all": 13
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=242000055&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=224200067660&region=0&sub_region=0&type=429",
@@ -10512,17 +10512,17 @@ export const duma_2003_uik_428_region_24_part_007 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бедарев Владимир Семенович": 3,
-      "Германович Владимир Николаевич": 5,
-      "Добровольская Марина Ивановна": 31,
-      "Добряк Тамара Александровна": 1,
-      "Жабинский Сергей Михайлович": 1,
-      "Зубов Валерий Михайлович": 69,
-      "Лихтина Ольга Григорьевна": 1,
-      "Мартыненко Елена Анатольевна": 5,
-      "Панкрац Леонид Гербертович": 0,
-      "Черных Артем Анатольевич": 4,
-      "Против всех": 13
+      "gas:candidate-vibid:1001000121821": 3,
+      "gas:candidate-vibid:1001000190316": 5,
+      "gas:candidate-vibid:324300166789": 31,
+      "gas:candidate-vibid:324300166764": 1,
+      "gas:candidate-vibid:1001000113911": 1,
+      "gas:candidate-vibid:324300166796": 69,
+      "gas:candidate-vibid:324300166942": 1,
+      "gas:candidate-vibid:324300166931": 5,
+      "gas:candidate-vibid:1001000202291": 0,
+      "gas:candidate-vibid:1001000136025": 4,
+      "special:against-all": 13
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=242000055&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=224200067660&region=0&sub_region=0&type=429",
@@ -10572,17 +10572,17 @@ export const duma_2003_uik_428_region_24_part_007 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бедарев Владимир Семенович": 33,
-      "Германович Владимир Николаевич": 10,
-      "Добровольская Марина Ивановна": 96,
-      "Добряк Тамара Александровна": 10,
-      "Жабинский Сергей Михайлович": 2,
-      "Зубов Валерий Михайлович": 192,
-      "Лихтина Ольга Григорьевна": 8,
-      "Мартыненко Елена Анатольевна": 4,
-      "Панкрац Леонид Гербертович": 2,
-      "Черных Артем Анатольевич": 22,
-      "Против всех": 79
+      "gas:candidate-vibid:1001000121821": 33,
+      "gas:candidate-vibid:1001000190316": 10,
+      "gas:candidate-vibid:324300166789": 96,
+      "gas:candidate-vibid:324300166764": 10,
+      "gas:candidate-vibid:1001000113911": 2,
+      "gas:candidate-vibid:324300166796": 192,
+      "gas:candidate-vibid:324300166942": 8,
+      "gas:candidate-vibid:324300166931": 4,
+      "gas:candidate-vibid:1001000202291": 2,
+      "gas:candidate-vibid:1001000136025": 22,
+      "special:against-all": 79
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=242000055&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=224200067660&region=0&sub_region=0&type=429",
@@ -10632,17 +10632,17 @@ export const duma_2003_uik_428_region_24_part_007 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бедарев Владимир Семенович": 2,
-      "Германович Владимир Николаевич": 1,
-      "Добровольская Марина Ивановна": 3,
-      "Добряк Тамара Александровна": 1,
-      "Жабинский Сергей Михайлович": 0,
-      "Зубов Валерий Михайлович": 48,
-      "Лихтина Ольга Григорьевна": 3,
-      "Мартыненко Елена Анатольевна": 0,
-      "Панкрац Леонид Гербертович": 0,
-      "Черных Артем Анатольевич": 0,
-      "Против всех": 21
+      "gas:candidate-vibid:1001000121821": 2,
+      "gas:candidate-vibid:1001000190316": 1,
+      "gas:candidate-vibid:324300166789": 3,
+      "gas:candidate-vibid:324300166764": 1,
+      "gas:candidate-vibid:1001000113911": 0,
+      "gas:candidate-vibid:324300166796": 48,
+      "gas:candidate-vibid:324300166942": 3,
+      "gas:candidate-vibid:324300166931": 0,
+      "gas:candidate-vibid:1001000202291": 0,
+      "gas:candidate-vibid:1001000136025": 0,
+      "special:against-all": 21
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=242000055&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=224200067660&region=0&sub_region=0&type=429",
@@ -10692,17 +10692,17 @@ export const duma_2003_uik_428_region_24_part_007 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бедарев Владимир Семенович": 24,
-      "Германович Владимир Николаевич": 2,
-      "Добровольская Марина Ивановна": 46,
-      "Добряк Тамара Александровна": 4,
-      "Жабинский Сергей Михайлович": 1,
-      "Зубов Валерий Михайлович": 59,
-      "Лихтина Ольга Григорьевна": 2,
-      "Мартыненко Елена Анатольевна": 0,
-      "Панкрац Леонид Гербертович": 0,
-      "Черных Артем Анатольевич": 0,
-      "Против всех": 17
+      "gas:candidate-vibid:1001000121821": 24,
+      "gas:candidate-vibid:1001000190316": 2,
+      "gas:candidate-vibid:324300166789": 46,
+      "gas:candidate-vibid:324300166764": 4,
+      "gas:candidate-vibid:1001000113911": 1,
+      "gas:candidate-vibid:324300166796": 59,
+      "gas:candidate-vibid:324300166942": 2,
+      "gas:candidate-vibid:324300166931": 0,
+      "gas:candidate-vibid:1001000202291": 0,
+      "gas:candidate-vibid:1001000136025": 0,
+      "special:against-all": 17
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=242000055&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=224200067660&region=0&sub_region=0&type=429",
@@ -10752,17 +10752,17 @@ export const duma_2003_uik_428_region_24_part_007 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бедарев Владимир Семенович": 66,
-      "Германович Владимир Николаевич": 17,
-      "Добровольская Марина Ивановна": 332,
-      "Добряк Тамара Александровна": 10,
-      "Жабинский Сергей Михайлович": 18,
-      "Зубов Валерий Михайлович": 291,
-      "Лихтина Ольга Григорьевна": 6,
-      "Мартыненко Елена Анатольевна": 5,
-      "Панкрац Леонид Гербертович": 2,
-      "Черных Артем Анатольевич": 38,
-      "Против всех": 76
+      "gas:candidate-vibid:1001000121821": 66,
+      "gas:candidate-vibid:1001000190316": 17,
+      "gas:candidate-vibid:324300166789": 332,
+      "gas:candidate-vibid:324300166764": 10,
+      "gas:candidate-vibid:1001000113911": 18,
+      "gas:candidate-vibid:324300166796": 291,
+      "gas:candidate-vibid:324300166942": 6,
+      "gas:candidate-vibid:324300166931": 5,
+      "gas:candidate-vibid:1001000202291": 2,
+      "gas:candidate-vibid:1001000136025": 38,
+      "special:against-all": 76
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=242000055&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=224200067660&region=0&sub_region=0&type=429",
@@ -10812,17 +10812,17 @@ export const duma_2003_uik_428_region_24_part_007 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бедарев Владимир Семенович": 11,
-      "Германович Владимир Николаевич": 1,
-      "Добровольская Марина Ивановна": 18,
-      "Добряк Тамара Александровна": 0,
-      "Жабинский Сергей Михайлович": 0,
-      "Зубов Валерий Михайлович": 31,
-      "Лихтина Ольга Григорьевна": 0,
-      "Мартыненко Елена Анатольевна": 0,
-      "Панкрац Леонид Гербертович": 0,
-      "Черных Артем Анатольевич": 5,
-      "Против всех": 7
+      "gas:candidate-vibid:1001000121821": 11,
+      "gas:candidate-vibid:1001000190316": 1,
+      "gas:candidate-vibid:324300166789": 18,
+      "gas:candidate-vibid:324300166764": 0,
+      "gas:candidate-vibid:1001000113911": 0,
+      "gas:candidate-vibid:324300166796": 31,
+      "gas:candidate-vibid:324300166942": 0,
+      "gas:candidate-vibid:324300166931": 0,
+      "gas:candidate-vibid:1001000202291": 0,
+      "gas:candidate-vibid:1001000136025": 5,
+      "special:against-all": 7
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=242000055&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=224200067660&region=0&sub_region=0&type=429",
@@ -10872,17 +10872,17 @@ export const duma_2003_uik_428_region_24_part_007 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бедарев Владимир Семенович": 33,
-      "Германович Владимир Николаевич": 7,
-      "Добровольская Марина Ивановна": 50,
-      "Добряк Тамара Александровна": 1,
-      "Жабинский Сергей Михайлович": 1,
-      "Зубов Валерий Михайлович": 115,
-      "Лихтина Ольга Григорьевна": 1,
-      "Мартыненко Елена Анатольевна": 0,
-      "Панкрац Леонид Гербертович": 0,
-      "Черных Артем Анатольевич": 7,
-      "Против всех": 16
+      "gas:candidate-vibid:1001000121821": 33,
+      "gas:candidate-vibid:1001000190316": 7,
+      "gas:candidate-vibid:324300166789": 50,
+      "gas:candidate-vibid:324300166764": 1,
+      "gas:candidate-vibid:1001000113911": 1,
+      "gas:candidate-vibid:324300166796": 115,
+      "gas:candidate-vibid:324300166942": 1,
+      "gas:candidate-vibid:324300166931": 0,
+      "gas:candidate-vibid:1001000202291": 0,
+      "gas:candidate-vibid:1001000136025": 7,
+      "special:against-all": 16
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=242000055&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=224200067660&region=0&sub_region=0&type=429",
@@ -10932,17 +10932,17 @@ export const duma_2003_uik_428_region_24_part_007 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бедарев Владимир Семенович": 2,
-      "Германович Владимир Николаевич": 1,
-      "Добровольская Марина Ивановна": 20,
-      "Добряк Тамара Александровна": 0,
-      "Жабинский Сергей Михайлович": 2,
-      "Зубов Валерий Михайлович": 28,
-      "Лихтина Ольга Григорьевна": 3,
-      "Мартыненко Елена Анатольевна": 0,
-      "Панкрац Леонид Гербертович": 0,
-      "Черных Артем Анатольевич": 4,
-      "Против всех": 18
+      "gas:candidate-vibid:1001000121821": 2,
+      "gas:candidate-vibid:1001000190316": 1,
+      "gas:candidate-vibid:324300166789": 20,
+      "gas:candidate-vibid:324300166764": 0,
+      "gas:candidate-vibid:1001000113911": 2,
+      "gas:candidate-vibid:324300166796": 28,
+      "gas:candidate-vibid:324300166942": 3,
+      "gas:candidate-vibid:324300166931": 0,
+      "gas:candidate-vibid:1001000202291": 0,
+      "gas:candidate-vibid:1001000136025": 4,
+      "special:against-all": 18
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=242000055&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=224200067660&region=0&sub_region=0&type=429",
@@ -10992,17 +10992,17 @@ export const duma_2003_uik_428_region_24_part_007 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бедарев Владимир Семенович": 5,
-      "Германович Владимир Николаевич": 2,
-      "Добровольская Марина Ивановна": 27,
-      "Добряк Тамара Александровна": 1,
-      "Жабинский Сергей Михайлович": 3,
-      "Зубов Валерий Михайлович": 66,
-      "Лихтина Ольга Григорьевна": 1,
-      "Мартыненко Елена Анатольевна": 1,
-      "Панкрац Леонид Гербертович": 1,
-      "Черных Артем Анатольевич": 7,
-      "Против всех": 26
+      "gas:candidate-vibid:1001000121821": 5,
+      "gas:candidate-vibid:1001000190316": 2,
+      "gas:candidate-vibid:324300166789": 27,
+      "gas:candidate-vibid:324300166764": 1,
+      "gas:candidate-vibid:1001000113911": 3,
+      "gas:candidate-vibid:324300166796": 66,
+      "gas:candidate-vibid:324300166942": 1,
+      "gas:candidate-vibid:324300166931": 1,
+      "gas:candidate-vibid:1001000202291": 1,
+      "gas:candidate-vibid:1001000136025": 7,
+      "special:against-all": 26
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=242000055&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=224200067660&region=0&sub_region=0&type=429",
@@ -11052,17 +11052,17 @@ export const duma_2003_uik_428_region_24_part_007 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бедарев Владимир Семенович": 4,
-      "Германович Владимир Николаевич": 0,
-      "Добровольская Марина Ивановна": 60,
-      "Добряк Тамара Александровна": 4,
-      "Жабинский Сергей Михайлович": 0,
-      "Зубов Валерий Михайлович": 79,
-      "Лихтина Ольга Григорьевна": 1,
-      "Мартыненко Елена Анатольевна": 0,
-      "Панкрац Леонид Гербертович": 0,
-      "Черных Артем Анатольевич": 2,
-      "Против всех": 11
+      "gas:candidate-vibid:1001000121821": 4,
+      "gas:candidate-vibid:1001000190316": 0,
+      "gas:candidate-vibid:324300166789": 60,
+      "gas:candidate-vibid:324300166764": 4,
+      "gas:candidate-vibid:1001000113911": 0,
+      "gas:candidate-vibid:324300166796": 79,
+      "gas:candidate-vibid:324300166942": 1,
+      "gas:candidate-vibid:324300166931": 0,
+      "gas:candidate-vibid:1001000202291": 0,
+      "gas:candidate-vibid:1001000136025": 2,
+      "special:against-all": 11
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=242000055&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=224200067660&region=0&sub_region=0&type=429",
@@ -11112,17 +11112,17 @@ export const duma_2003_uik_428_region_24_part_007 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бедарев Владимир Семенович": 14,
-      "Германович Владимир Николаевич": 6,
-      "Добровольская Марина Ивановна": 111,
-      "Добряк Тамара Александровна": 2,
-      "Жабинский Сергей Михайлович": 3,
-      "Зубов Валерий Михайлович": 243,
-      "Лихтина Ольга Григорьевна": 12,
-      "Мартыненко Елена Анатольевна": 1,
-      "Панкрац Леонид Гербертович": 0,
-      "Черных Артем Анатольевич": 13,
-      "Против всех": 62
+      "gas:candidate-vibid:1001000121821": 14,
+      "gas:candidate-vibid:1001000190316": 6,
+      "gas:candidate-vibid:324300166789": 111,
+      "gas:candidate-vibid:324300166764": 2,
+      "gas:candidate-vibid:1001000113911": 3,
+      "gas:candidate-vibid:324300166796": 243,
+      "gas:candidate-vibid:324300166942": 12,
+      "gas:candidate-vibid:324300166931": 1,
+      "gas:candidate-vibid:1001000202291": 0,
+      "gas:candidate-vibid:1001000136025": 13,
+      "special:against-all": 62
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=242000055&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=224200067660&region=0&sub_region=0&type=429",
@@ -11172,17 +11172,17 @@ export const duma_2003_uik_428_region_24_part_007 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бедарев Владимир Семенович": 13,
-      "Германович Владимир Николаевич": 4,
-      "Добровольская Марина Ивановна": 23,
-      "Добряк Тамара Александровна": 0,
-      "Жабинский Сергей Михайлович": 0,
-      "Зубов Валерий Михайлович": 84,
-      "Лихтина Ольга Григорьевна": 0,
-      "Мартыненко Елена Анатольевна": 0,
-      "Панкрац Леонид Гербертович": 0,
-      "Черных Артем Анатольевич": 3,
-      "Против всех": 22
+      "gas:candidate-vibid:1001000121821": 13,
+      "gas:candidate-vibid:1001000190316": 4,
+      "gas:candidate-vibid:324300166789": 23,
+      "gas:candidate-vibid:324300166764": 0,
+      "gas:candidate-vibid:1001000113911": 0,
+      "gas:candidate-vibid:324300166796": 84,
+      "gas:candidate-vibid:324300166942": 0,
+      "gas:candidate-vibid:324300166931": 0,
+      "gas:candidate-vibid:1001000202291": 0,
+      "gas:candidate-vibid:1001000136025": 3,
+      "special:against-all": 22
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=242000055&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=224200067660&region=0&sub_region=0&type=429",
@@ -11232,17 +11232,17 @@ export const duma_2003_uik_428_region_24_part_007 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бедарев Владимир Семенович": 2,
-      "Германович Владимир Николаевич": 0,
-      "Добровольская Марина Ивановна": 14,
-      "Добряк Тамара Александровна": 0,
-      "Жабинский Сергей Михайлович": 0,
-      "Зубов Валерий Михайлович": 35,
-      "Лихтина Ольга Григорьевна": 1,
-      "Мартыненко Елена Анатольевна": 0,
-      "Панкрац Леонид Гербертович": 0,
-      "Черных Артем Анатольевич": 1,
-      "Против всех": 6
+      "gas:candidate-vibid:1001000121821": 2,
+      "gas:candidate-vibid:1001000190316": 0,
+      "gas:candidate-vibid:324300166789": 14,
+      "gas:candidate-vibid:324300166764": 0,
+      "gas:candidate-vibid:1001000113911": 0,
+      "gas:candidate-vibid:324300166796": 35,
+      "gas:candidate-vibid:324300166942": 1,
+      "gas:candidate-vibid:324300166931": 0,
+      "gas:candidate-vibid:1001000202291": 0,
+      "gas:candidate-vibid:1001000136025": 1,
+      "special:against-all": 6
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=242000055&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=224200067660&region=0&sub_region=0&type=429",
@@ -11292,17 +11292,17 @@ export const duma_2003_uik_428_region_24_part_007 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бедарев Владимир Семенович": 1,
-      "Германович Владимир Николаевич": 0,
-      "Добровольская Марина Ивановна": 9,
-      "Добряк Тамара Александровна": 0,
-      "Жабинский Сергей Михайлович": 1,
-      "Зубов Валерий Михайлович": 58,
-      "Лихтина Ольга Григорьевна": 0,
-      "Мартыненко Елена Анатольевна": 1,
-      "Панкрац Леонид Гербертович": 0,
-      "Черных Артем Анатольевич": 3,
-      "Против всех": 10
+      "gas:candidate-vibid:1001000121821": 1,
+      "gas:candidate-vibid:1001000190316": 0,
+      "gas:candidate-vibid:324300166789": 9,
+      "gas:candidate-vibid:324300166764": 0,
+      "gas:candidate-vibid:1001000113911": 1,
+      "gas:candidate-vibid:324300166796": 58,
+      "gas:candidate-vibid:324300166942": 0,
+      "gas:candidate-vibid:324300166931": 1,
+      "gas:candidate-vibid:1001000202291": 0,
+      "gas:candidate-vibid:1001000136025": 3,
+      "special:against-all": 10
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=242000055&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=224200067660&region=0&sub_region=0&type=429",
@@ -11352,17 +11352,17 @@ export const duma_2003_uik_428_region_24_part_007 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бедарев Владимир Семенович": 88,
-      "Германович Владимир Николаевич": 6,
-      "Добровольская Марина Ивановна": 185,
-      "Добряк Тамара Александровна": 6,
-      "Жабинский Сергей Михайлович": 5,
-      "Зубов Валерий Михайлович": 349,
-      "Лихтина Ольга Григорьевна": 4,
-      "Мартыненко Елена Анатольевна": 2,
-      "Панкрац Леонид Гербертович": 1,
-      "Черных Артем Анатольевич": 16,
-      "Против всех": 105
+      "gas:candidate-vibid:1001000121821": 88,
+      "gas:candidate-vibid:1001000190316": 6,
+      "gas:candidate-vibid:324300166789": 185,
+      "gas:candidate-vibid:324300166764": 6,
+      "gas:candidate-vibid:1001000113911": 5,
+      "gas:candidate-vibid:324300166796": 349,
+      "gas:candidate-vibid:324300166942": 4,
+      "gas:candidate-vibid:324300166931": 2,
+      "gas:candidate-vibid:1001000202291": 1,
+      "gas:candidate-vibid:1001000136025": 16,
+      "special:against-all": 105
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=242000055&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=224200067660&region=0&sub_region=0&type=429",
@@ -11412,17 +11412,17 @@ export const duma_2003_uik_428_region_24_part_007 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бедарев Владимир Семенович": 21,
-      "Германович Владимир Николаевич": 7,
-      "Добровольская Марина Ивановна": 89,
-      "Добряк Тамара Александровна": 4,
-      "Жабинский Сергей Михайлович": 5,
-      "Зубов Валерий Михайлович": 145,
-      "Лихтина Ольга Григорьевна": 6,
-      "Мартыненко Елена Анатольевна": 1,
-      "Панкрац Леонид Гербертович": 0,
-      "Черных Артем Анатольевич": 12,
-      "Против всех": 46
+      "gas:candidate-vibid:1001000121821": 21,
+      "gas:candidate-vibid:1001000190316": 7,
+      "gas:candidate-vibid:324300166789": 89,
+      "gas:candidate-vibid:324300166764": 4,
+      "gas:candidate-vibid:1001000113911": 5,
+      "gas:candidate-vibid:324300166796": 145,
+      "gas:candidate-vibid:324300166942": 6,
+      "gas:candidate-vibid:324300166931": 1,
+      "gas:candidate-vibid:1001000202291": 0,
+      "gas:candidate-vibid:1001000136025": 12,
+      "special:against-all": 46
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=242000055&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=224200067660&region=0&sub_region=0&type=429",
@@ -11472,17 +11472,17 @@ export const duma_2003_uik_428_region_24_part_007 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бедарев Владимир Семенович": 40,
-      "Германович Владимир Николаевич": 17,
-      "Добровольская Марина Ивановна": 176,
-      "Добряк Тамара Александровна": 3,
-      "Жабинский Сергей Михайлович": 5,
-      "Зубов Валерий Михайлович": 260,
-      "Лихтина Ольга Григорьевна": 9,
-      "Мартыненко Елена Анатольевна": 5,
-      "Панкрац Леонид Гербертович": 2,
-      "Черных Артем Анатольевич": 13,
-      "Против всех": 111
+      "gas:candidate-vibid:1001000121821": 40,
+      "gas:candidate-vibid:1001000190316": 17,
+      "gas:candidate-vibid:324300166789": 176,
+      "gas:candidate-vibid:324300166764": 3,
+      "gas:candidate-vibid:1001000113911": 5,
+      "gas:candidate-vibid:324300166796": 260,
+      "gas:candidate-vibid:324300166942": 9,
+      "gas:candidate-vibid:324300166931": 5,
+      "gas:candidate-vibid:1001000202291": 2,
+      "gas:candidate-vibid:1001000136025": 13,
+      "special:against-all": 111
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=242000055&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=224200067660&region=0&sub_region=0&type=429",
@@ -11532,17 +11532,17 @@ export const duma_2003_uik_428_region_24_part_007 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бедарев Владимир Семенович": 2,
-      "Германович Владимир Николаевич": 1,
-      "Добровольская Марина Ивановна": 15,
-      "Добряк Тамара Александровна": 2,
-      "Жабинский Сергей Михайлович": 0,
-      "Зубов Валерий Михайлович": 23,
-      "Лихтина Ольга Григорьевна": 0,
-      "Мартыненко Елена Анатольевна": 0,
-      "Панкрац Леонид Гербертович": 0,
-      "Черных Артем Анатольевич": 0,
-      "Против всех": 3
+      "gas:candidate-vibid:1001000121821": 2,
+      "gas:candidate-vibid:1001000190316": 1,
+      "gas:candidate-vibid:324300166789": 15,
+      "gas:candidate-vibid:324300166764": 2,
+      "gas:candidate-vibid:1001000113911": 0,
+      "gas:candidate-vibid:324300166796": 23,
+      "gas:candidate-vibid:324300166942": 0,
+      "gas:candidate-vibid:324300166931": 0,
+      "gas:candidate-vibid:1001000202291": 0,
+      "gas:candidate-vibid:1001000136025": 0,
+      "special:against-all": 3
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=242000055&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=224200067660&region=0&sub_region=0&type=429",
@@ -11592,17 +11592,17 @@ export const duma_2003_uik_428_region_24_part_007 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бедарев Владимир Семенович": 2,
-      "Германович Владимир Николаевич": 1,
-      "Добровольская Марина Ивановна": 14,
-      "Добряк Тамара Александровна": 2,
-      "Жабинский Сергей Михайлович": 1,
-      "Зубов Валерий Михайлович": 42,
-      "Лихтина Ольга Григорьевна": 0,
-      "Мартыненко Елена Анатольевна": 0,
-      "Панкрац Леонид Гербертович": 1,
-      "Черных Артем Анатольевич": 2,
-      "Против всех": 5
+      "gas:candidate-vibid:1001000121821": 2,
+      "gas:candidate-vibid:1001000190316": 1,
+      "gas:candidate-vibid:324300166789": 14,
+      "gas:candidate-vibid:324300166764": 2,
+      "gas:candidate-vibid:1001000113911": 1,
+      "gas:candidate-vibid:324300166796": 42,
+      "gas:candidate-vibid:324300166942": 0,
+      "gas:candidate-vibid:324300166931": 0,
+      "gas:candidate-vibid:1001000202291": 1,
+      "gas:candidate-vibid:1001000136025": 2,
+      "special:against-all": 5
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=242000055&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=224200067660&region=0&sub_region=0&type=429",
@@ -11652,17 +11652,17 @@ export const duma_2003_uik_428_region_24_part_007 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бедарев Владимир Семенович": 9,
-      "Германович Владимир Николаевич": 0,
-      "Добровольская Марина Ивановна": 24,
-      "Добряк Тамара Александровна": 1,
-      "Жабинский Сергей Михайлович": 1,
-      "Зубов Валерий Михайлович": 43,
-      "Лихтина Ольга Григорьевна": 1,
-      "Мартыненко Елена Анатольевна": 2,
-      "Панкрац Леонид Гербертович": 1,
-      "Черных Артем Анатольевич": 2,
-      "Против всех": 23
+      "gas:candidate-vibid:1001000121821": 9,
+      "gas:candidate-vibid:1001000190316": 0,
+      "gas:candidate-vibid:324300166789": 24,
+      "gas:candidate-vibid:324300166764": 1,
+      "gas:candidate-vibid:1001000113911": 1,
+      "gas:candidate-vibid:324300166796": 43,
+      "gas:candidate-vibid:324300166942": 1,
+      "gas:candidate-vibid:324300166931": 2,
+      "gas:candidate-vibid:1001000202291": 1,
+      "gas:candidate-vibid:1001000136025": 2,
+      "special:against-all": 23
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=242000055&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=224200067660&region=0&sub_region=0&type=429",
@@ -11712,17 +11712,17 @@ export const duma_2003_uik_428_region_24_part_007 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бедарев Владимир Семенович": 54,
-      "Германович Владимир Николаевич": 6,
-      "Добровольская Марина Ивановна": 136,
-      "Добряк Тамара Александровна": 6,
-      "Жабинский Сергей Михайлович": 4,
-      "Зубов Валерий Михайлович": 256,
-      "Лихтина Ольга Григорьевна": 5,
-      "Мартыненко Елена Анатольевна": 6,
-      "Панкрац Леонид Гербертович": 2,
-      "Черных Артем Анатольевич": 20,
-      "Против всех": 81
+      "gas:candidate-vibid:1001000121821": 54,
+      "gas:candidate-vibid:1001000190316": 6,
+      "gas:candidate-vibid:324300166789": 136,
+      "gas:candidate-vibid:324300166764": 6,
+      "gas:candidate-vibid:1001000113911": 4,
+      "gas:candidate-vibid:324300166796": 256,
+      "gas:candidate-vibid:324300166942": 5,
+      "gas:candidate-vibid:324300166931": 6,
+      "gas:candidate-vibid:1001000202291": 2,
+      "gas:candidate-vibid:1001000136025": 20,
+      "special:against-all": 81
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=242000055&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=224200067660&region=0&sub_region=0&type=429",
@@ -11772,17 +11772,17 @@ export const duma_2003_uik_428_region_24_part_007 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бедарев Владимир Семенович": 1,
-      "Германович Владимир Николаевич": 0,
-      "Добровольская Марина Ивановна": 26,
-      "Добряк Тамара Александровна": 0,
-      "Жабинский Сергей Михайлович": 1,
-      "Зубов Валерий Михайлович": 45,
-      "Лихтина Ольга Григорьевна": 3,
-      "Мартыненко Елена Анатольевна": 1,
-      "Панкрац Леонид Гербертович": 0,
-      "Черных Артем Анатольевич": 3,
-      "Против всех": 10
+      "gas:candidate-vibid:1001000121821": 1,
+      "gas:candidate-vibid:1001000190316": 0,
+      "gas:candidate-vibid:324300166789": 26,
+      "gas:candidate-vibid:324300166764": 0,
+      "gas:candidate-vibid:1001000113911": 1,
+      "gas:candidate-vibid:324300166796": 45,
+      "gas:candidate-vibid:324300166942": 3,
+      "gas:candidate-vibid:324300166931": 1,
+      "gas:candidate-vibid:1001000202291": 0,
+      "gas:candidate-vibid:1001000136025": 3,
+      "special:against-all": 10
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=242000055&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=224200067660&region=0&sub_region=0&type=429",
@@ -11832,17 +11832,17 @@ export const duma_2003_uik_428_region_24_part_007 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бедарев Владимир Семенович": 0,
-      "Германович Владимир Николаевич": 2,
-      "Добровольская Марина Ивановна": 30,
-      "Добряк Тамара Александровна": 1,
-      "Жабинский Сергей Михайлович": 0,
-      "Зубов Валерий Михайлович": 21,
-      "Лихтина Ольга Григорьевна": 0,
-      "Мартыненко Елена Анатольевна": 0,
-      "Панкрац Леонид Гербертович": 0,
-      "Черных Артем Анатольевич": 1,
-      "Против всех": 10
+      "gas:candidate-vibid:1001000121821": 0,
+      "gas:candidate-vibid:1001000190316": 2,
+      "gas:candidate-vibid:324300166789": 30,
+      "gas:candidate-vibid:324300166764": 1,
+      "gas:candidate-vibid:1001000113911": 0,
+      "gas:candidate-vibid:324300166796": 21,
+      "gas:candidate-vibid:324300166942": 0,
+      "gas:candidate-vibid:324300166931": 0,
+      "gas:candidate-vibid:1001000202291": 0,
+      "gas:candidate-vibid:1001000136025": 1,
+      "special:against-all": 10
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=242000055&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=224200067660&region=0&sub_region=0&type=429",
@@ -11892,17 +11892,17 @@ export const duma_2003_uik_428_region_24_part_007 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бедарев Владимир Семенович": 4,
-      "Германович Владимир Николаевич": 2,
-      "Добровольская Марина Ивановна": 23,
-      "Добряк Тамара Александровна": 2,
-      "Жабинский Сергей Михайлович": 3,
-      "Зубов Валерий Михайлович": 28,
-      "Лихтина Ольга Григорьевна": 4,
-      "Мартыненко Елена Анатольевна": 1,
-      "Панкрац Леонид Гербертович": 0,
-      "Черных Артем Анатольевич": 5,
-      "Против всех": 7
+      "gas:candidate-vibid:1001000121821": 4,
+      "gas:candidate-vibid:1001000190316": 2,
+      "gas:candidate-vibid:324300166789": 23,
+      "gas:candidate-vibid:324300166764": 2,
+      "gas:candidate-vibid:1001000113911": 3,
+      "gas:candidate-vibid:324300166796": 28,
+      "gas:candidate-vibid:324300166942": 4,
+      "gas:candidate-vibid:324300166931": 1,
+      "gas:candidate-vibid:1001000202291": 0,
+      "gas:candidate-vibid:1001000136025": 5,
+      "special:against-all": 7
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=242000055&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=224200067660&region=0&sub_region=0&type=429",
@@ -11952,17 +11952,17 @@ export const duma_2003_uik_428_region_24_part_007 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бедарев Владимир Семенович": 66,
-      "Германович Владимир Николаевич": 5,
-      "Добровольская Марина Ивановна": 342,
-      "Добряк Тамара Александровна": 7,
-      "Жабинский Сергей Михайлович": 12,
-      "Зубов Валерий Михайлович": 366,
-      "Лихтина Ольга Григорьевна": 6,
-      "Мартыненко Елена Анатольевна": 29,
-      "Панкрац Леонид Гербертович": 3,
-      "Черных Артем Анатольевич": 11,
-      "Против всех": 167
+      "gas:candidate-vibid:1001000121821": 66,
+      "gas:candidate-vibid:1001000190316": 5,
+      "gas:candidate-vibid:324300166789": 342,
+      "gas:candidate-vibid:324300166764": 7,
+      "gas:candidate-vibid:1001000113911": 12,
+      "gas:candidate-vibid:324300166796": 366,
+      "gas:candidate-vibid:324300166942": 6,
+      "gas:candidate-vibid:324300166931": 29,
+      "gas:candidate-vibid:1001000202291": 3,
+      "gas:candidate-vibid:1001000136025": 11,
+      "special:against-all": 167
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=242000056&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=224200067661&region=0&sub_region=0&type=429",
@@ -12012,17 +12012,17 @@ export const duma_2003_uik_428_region_24_part_007 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бедарев Владимир Семенович": 96,
-      "Германович Владимир Николаевич": 8,
-      "Добровольская Марина Ивановна": 375,
-      "Добряк Тамара Александровна": 6,
-      "Жабинский Сергей Михайлович": 9,
-      "Зубов Валерий Михайлович": 321,
-      "Лихтина Ольга Григорьевна": 11,
-      "Мартыненко Елена Анатольевна": 20,
-      "Панкрац Леонид Гербертович": 4,
-      "Черных Артем Анатольевич": 26,
-      "Против всех": 170
+      "gas:candidate-vibid:1001000121821": 96,
+      "gas:candidate-vibid:1001000190316": 8,
+      "gas:candidate-vibid:324300166789": 375,
+      "gas:candidate-vibid:324300166764": 6,
+      "gas:candidate-vibid:1001000113911": 9,
+      "gas:candidate-vibid:324300166796": 321,
+      "gas:candidate-vibid:324300166942": 11,
+      "gas:candidate-vibid:324300166931": 20,
+      "gas:candidate-vibid:1001000202291": 4,
+      "gas:candidate-vibid:1001000136025": 26,
+      "special:against-all": 170
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=242000056&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=224200067661&region=0&sub_region=0&type=429",
@@ -12072,17 +12072,17 @@ export const duma_2003_uik_428_region_24_part_007 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бедарев Владимир Семенович": 121,
-      "Германович Владимир Николаевич": 7,
-      "Добровольская Марина Ивановна": 386,
-      "Добряк Тамара Александровна": 9,
-      "Жабинский Сергей Михайлович": 13,
-      "Зубов Валерий Михайлович": 385,
-      "Лихтина Ольга Григорьевна": 16,
-      "Мартыненко Елена Анатольевна": 22,
-      "Панкрац Леонид Гербертович": 3,
-      "Черных Артем Анатольевич": 26,
-      "Против всех": 152
+      "gas:candidate-vibid:1001000121821": 121,
+      "gas:candidate-vibid:1001000190316": 7,
+      "gas:candidate-vibid:324300166789": 386,
+      "gas:candidate-vibid:324300166764": 9,
+      "gas:candidate-vibid:1001000113911": 13,
+      "gas:candidate-vibid:324300166796": 385,
+      "gas:candidate-vibid:324300166942": 16,
+      "gas:candidate-vibid:324300166931": 22,
+      "gas:candidate-vibid:1001000202291": 3,
+      "gas:candidate-vibid:1001000136025": 26,
+      "special:against-all": 152
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=242000056&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=224200067661&region=0&sub_region=0&type=429",
@@ -12132,17 +12132,17 @@ export const duma_2003_uik_428_region_24_part_007 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бедарев Владимир Семенович": 70,
-      "Германович Владимир Николаевич": 7,
-      "Добровольская Марина Ивановна": 430,
-      "Добряк Тамара Александровна": 9,
-      "Жабинский Сергей Михайлович": 17,
-      "Зубов Валерий Михайлович": 412,
-      "Лихтина Ольга Григорьевна": 7,
-      "Мартыненко Елена Анатольевна": 16,
-      "Панкрац Леонид Гербертович": 0,
-      "Черных Артем Анатольевич": 11,
-      "Против всех": 193
+      "gas:candidate-vibid:1001000121821": 70,
+      "gas:candidate-vibid:1001000190316": 7,
+      "gas:candidate-vibid:324300166789": 430,
+      "gas:candidate-vibid:324300166764": 9,
+      "gas:candidate-vibid:1001000113911": 17,
+      "gas:candidate-vibid:324300166796": 412,
+      "gas:candidate-vibid:324300166942": 7,
+      "gas:candidate-vibid:324300166931": 16,
+      "gas:candidate-vibid:1001000202291": 0,
+      "gas:candidate-vibid:1001000136025": 11,
+      "special:against-all": 193
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=242000056&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=224200067661&region=0&sub_region=0&type=429",
@@ -12192,17 +12192,17 @@ export const duma_2003_uik_428_region_24_part_007 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бедарев Владимир Семенович": 80,
-      "Германович Владимир Николаевич": 8,
-      "Добровольская Марина Ивановна": 494,
-      "Добряк Тамара Александровна": 12,
-      "Жабинский Сергей Михайлович": 8,
-      "Зубов Валерий Михайлович": 468,
-      "Лихтина Ольга Григорьевна": 7,
-      "Мартыненко Елена Анатольевна": 28,
-      "Панкрац Леонид Гербертович": 2,
-      "Черных Артем Анатольевич": 24,
-      "Против всех": 239
+      "gas:candidate-vibid:1001000121821": 80,
+      "gas:candidate-vibid:1001000190316": 8,
+      "gas:candidate-vibid:324300166789": 494,
+      "gas:candidate-vibid:324300166764": 12,
+      "gas:candidate-vibid:1001000113911": 8,
+      "gas:candidate-vibid:324300166796": 468,
+      "gas:candidate-vibid:324300166942": 7,
+      "gas:candidate-vibid:324300166931": 28,
+      "gas:candidate-vibid:1001000202291": 2,
+      "gas:candidate-vibid:1001000136025": 24,
+      "special:against-all": 239
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=242000056&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=224200067661&region=0&sub_region=0&type=429",
@@ -12252,17 +12252,17 @@ export const duma_2003_uik_428_region_24_part_007 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бедарев Владимир Семенович": 81,
-      "Германович Владимир Николаевич": 11,
-      "Добровольская Марина Ивановна": 439,
-      "Добряк Тамара Александровна": 9,
-      "Жабинский Сергей Михайлович": 16,
-      "Зубов Валерий Михайлович": 399,
-      "Лихтина Ольга Григорьевна": 2,
-      "Мартыненко Елена Анатольевна": 10,
-      "Панкрац Леонид Гербертович": 1,
-      "Черных Артем Анатольевич": 13,
-      "Против всех": 170
+      "gas:candidate-vibid:1001000121821": 81,
+      "gas:candidate-vibid:1001000190316": 11,
+      "gas:candidate-vibid:324300166789": 439,
+      "gas:candidate-vibid:324300166764": 9,
+      "gas:candidate-vibid:1001000113911": 16,
+      "gas:candidate-vibid:324300166796": 399,
+      "gas:candidate-vibid:324300166942": 2,
+      "gas:candidate-vibid:324300166931": 10,
+      "gas:candidate-vibid:1001000202291": 1,
+      "gas:candidate-vibid:1001000136025": 13,
+      "special:against-all": 170
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=242000056&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=224200067661&region=0&sub_region=0&type=429",
@@ -12312,17 +12312,17 @@ export const duma_2003_uik_428_region_24_part_007 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бедарев Владимир Семенович": 79,
-      "Германович Владимир Николаевич": 6,
-      "Добровольская Марина Ивановна": 437,
-      "Добряк Тамара Александровна": 3,
-      "Жабинский Сергей Михайлович": 13,
-      "Зубов Валерий Михайлович": 351,
-      "Лихтина Ольга Григорьевна": 10,
-      "Мартыненко Елена Анатольевна": 15,
-      "Панкрац Леонид Гербертович": 1,
-      "Черных Артем Анатольевич": 18,
-      "Против всех": 181
+      "gas:candidate-vibid:1001000121821": 79,
+      "gas:candidate-vibid:1001000190316": 6,
+      "gas:candidate-vibid:324300166789": 437,
+      "gas:candidate-vibid:324300166764": 3,
+      "gas:candidate-vibid:1001000113911": 13,
+      "gas:candidate-vibid:324300166796": 351,
+      "gas:candidate-vibid:324300166942": 10,
+      "gas:candidate-vibid:324300166931": 15,
+      "gas:candidate-vibid:1001000202291": 1,
+      "gas:candidate-vibid:1001000136025": 18,
+      "special:against-all": 181
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=242000056&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=224200067661&region=0&sub_region=0&type=429",
@@ -12372,17 +12372,17 @@ export const duma_2003_uik_428_region_24_part_007 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бедарев Владимир Семенович": 99,
-      "Германович Владимир Николаевич": 5,
-      "Добровольская Марина Ивановна": 432,
-      "Добряк Тамара Александровна": 7,
-      "Жабинский Сергей Михайлович": 22,
-      "Зубов Валерий Михайлович": 392,
-      "Лихтина Ольга Григорьевна": 7,
-      "Мартыненко Елена Анатольевна": 16,
-      "Панкрац Леонид Гербертович": 1,
-      "Черных Артем Анатольевич": 29,
-      "Против всех": 172
+      "gas:candidate-vibid:1001000121821": 99,
+      "gas:candidate-vibid:1001000190316": 5,
+      "gas:candidate-vibid:324300166789": 432,
+      "gas:candidate-vibid:324300166764": 7,
+      "gas:candidate-vibid:1001000113911": 22,
+      "gas:candidate-vibid:324300166796": 392,
+      "gas:candidate-vibid:324300166942": 7,
+      "gas:candidate-vibid:324300166931": 16,
+      "gas:candidate-vibid:1001000202291": 1,
+      "gas:candidate-vibid:1001000136025": 29,
+      "special:against-all": 172
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=242000056&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=224200067661&region=0&sub_region=0&type=429",
@@ -12432,17 +12432,17 @@ export const duma_2003_uik_428_region_24_part_007 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бедарев Владимир Семенович": 74,
-      "Германович Владимир Николаевич": 7,
-      "Добровольская Марина Ивановна": 458,
-      "Добряк Тамара Александровна": 8,
-      "Жабинский Сергей Михайлович": 11,
-      "Зубов Валерий Михайлович": 394,
-      "Лихтина Ольга Григорьевна": 8,
-      "Мартыненко Елена Анатольевна": 21,
-      "Панкрац Леонид Гербертович": 2,
-      "Черных Артем Анатольевич": 20,
-      "Против всех": 149
+      "gas:candidate-vibid:1001000121821": 74,
+      "gas:candidate-vibid:1001000190316": 7,
+      "gas:candidate-vibid:324300166789": 458,
+      "gas:candidate-vibid:324300166764": 8,
+      "gas:candidate-vibid:1001000113911": 11,
+      "gas:candidate-vibid:324300166796": 394,
+      "gas:candidate-vibid:324300166942": 8,
+      "gas:candidate-vibid:324300166931": 21,
+      "gas:candidate-vibid:1001000202291": 2,
+      "gas:candidate-vibid:1001000136025": 20,
+      "special:against-all": 149
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=242000056&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=224200067661&region=0&sub_region=0&type=429",
@@ -12492,17 +12492,17 @@ export const duma_2003_uik_428_region_24_part_007 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бедарев Владимир Семенович": 1,
-      "Германович Владимир Николаевич": 1,
-      "Добровольская Марина Ивановна": 15,
-      "Добряк Тамара Александровна": 1,
-      "Жабинский Сергей Михайлович": 0,
-      "Зубов Валерий Михайлович": 23,
-      "Лихтина Ольга Григорьевна": 0,
-      "Мартыненко Елена Анатольевна": 2,
-      "Панкрац Леонид Гербертович": 0,
-      "Черных Артем Анатольевич": 0,
-      "Против всех": 7
+      "gas:candidate-vibid:1001000121821": 1,
+      "gas:candidate-vibid:1001000190316": 1,
+      "gas:candidate-vibid:324300166789": 15,
+      "gas:candidate-vibid:324300166764": 1,
+      "gas:candidate-vibid:1001000113911": 0,
+      "gas:candidate-vibid:324300166796": 23,
+      "gas:candidate-vibid:324300166942": 0,
+      "gas:candidate-vibid:324300166931": 2,
+      "gas:candidate-vibid:1001000202291": 0,
+      "gas:candidate-vibid:1001000136025": 0,
+      "special:against-all": 7
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=242000057&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=224200067662&region=0&sub_region=0&type=429",
@@ -12552,17 +12552,17 @@ export const duma_2003_uik_428_region_24_part_007 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бедарев Владимир Семенович": 7,
-      "Германович Владимир Николаевич": 3,
-      "Добровольская Марина Ивановна": 50,
-      "Добряк Тамара Александровна": 0,
-      "Жабинский Сергей Михайлович": 0,
-      "Зубов Валерий Михайлович": 55,
-      "Лихтина Ольга Григорьевна": 0,
-      "Мартыненко Елена Анатольевна": 1,
-      "Панкрац Леонид Гербертович": 0,
-      "Черных Артем Анатольевич": 0,
-      "Против всех": 14
+      "gas:candidate-vibid:1001000121821": 7,
+      "gas:candidate-vibid:1001000190316": 3,
+      "gas:candidate-vibid:324300166789": 50,
+      "gas:candidate-vibid:324300166764": 0,
+      "gas:candidate-vibid:1001000113911": 0,
+      "gas:candidate-vibid:324300166796": 55,
+      "gas:candidate-vibid:324300166942": 0,
+      "gas:candidate-vibid:324300166931": 1,
+      "gas:candidate-vibid:1001000202291": 0,
+      "gas:candidate-vibid:1001000136025": 0,
+      "special:against-all": 14
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=242000057&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=224200067662&region=0&sub_region=0&type=429",
@@ -12612,17 +12612,17 @@ export const duma_2003_uik_428_region_24_part_007 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бедарев Владимир Семенович": 65,
-      "Германович Владимир Николаевич": 28,
-      "Добровольская Марина Ивановна": 253,
-      "Добряк Тамара Александровна": 11,
-      "Жабинский Сергей Михайлович": 3,
-      "Зубов Валерий Михайлович": 189,
-      "Лихтина Ольга Григорьевна": 4,
-      "Мартыненко Елена Анатольевна": 4,
-      "Панкрац Леонид Гербертович": 1,
-      "Черных Артем Анатольевич": 25,
-      "Против всех": 84
+      "gas:candidate-vibid:1001000121821": 65,
+      "gas:candidate-vibid:1001000190316": 28,
+      "gas:candidate-vibid:324300166789": 253,
+      "gas:candidate-vibid:324300166764": 11,
+      "gas:candidate-vibid:1001000113911": 3,
+      "gas:candidate-vibid:324300166796": 189,
+      "gas:candidate-vibid:324300166942": 4,
+      "gas:candidate-vibid:324300166931": 4,
+      "gas:candidate-vibid:1001000202291": 1,
+      "gas:candidate-vibid:1001000136025": 25,
+      "special:against-all": 84
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=242000057&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=224200067662&region=0&sub_region=0&type=429",
@@ -12672,17 +12672,17 @@ export const duma_2003_uik_428_region_24_part_007 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бедарев Владимир Семенович": 8,
-      "Германович Владимир Николаевич": 1,
-      "Добровольская Марина Ивановна": 23,
-      "Добряк Тамара Александровна": 1,
-      "Жабинский Сергей Михайлович": 2,
-      "Зубов Валерий Михайлович": 18,
-      "Лихтина Ольга Григорьевна": 0,
-      "Мартыненко Елена Анатольевна": 0,
-      "Панкрац Леонид Гербертович": 0,
-      "Черных Артем Анатольевич": 3,
-      "Против всех": 18
+      "gas:candidate-vibid:1001000121821": 8,
+      "gas:candidate-vibid:1001000190316": 1,
+      "gas:candidate-vibid:324300166789": 23,
+      "gas:candidate-vibid:324300166764": 1,
+      "gas:candidate-vibid:1001000113911": 2,
+      "gas:candidate-vibid:324300166796": 18,
+      "gas:candidate-vibid:324300166942": 0,
+      "gas:candidate-vibid:324300166931": 0,
+      "gas:candidate-vibid:1001000202291": 0,
+      "gas:candidate-vibid:1001000136025": 3,
+      "special:against-all": 18
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=242000057&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=224200067662&region=0&sub_region=0&type=429",
@@ -12732,17 +12732,17 @@ export const duma_2003_uik_428_region_24_part_007 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бедарев Владимир Семенович": 7,
-      "Германович Владимир Николаевич": 1,
-      "Добровольская Марина Ивановна": 14,
-      "Добряк Тамара Александровна": 0,
-      "Жабинский Сергей Михайлович": 3,
-      "Зубов Валерий Михайлович": 45,
-      "Лихтина Ольга Григорьевна": 0,
-      "Мартыненко Елена Анатольевна": 0,
-      "Панкрац Леонид Гербертович": 0,
-      "Черных Артем Анатольевич": 4,
-      "Против всех": 2
+      "gas:candidate-vibid:1001000121821": 7,
+      "gas:candidate-vibid:1001000190316": 1,
+      "gas:candidate-vibid:324300166789": 14,
+      "gas:candidate-vibid:324300166764": 0,
+      "gas:candidate-vibid:1001000113911": 3,
+      "gas:candidate-vibid:324300166796": 45,
+      "gas:candidate-vibid:324300166942": 0,
+      "gas:candidate-vibid:324300166931": 0,
+      "gas:candidate-vibid:1001000202291": 0,
+      "gas:candidate-vibid:1001000136025": 4,
+      "special:against-all": 2
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=242000057&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=224200067662&region=0&sub_region=0&type=429",
@@ -12792,17 +12792,17 @@ export const duma_2003_uik_428_region_24_part_007 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бедарев Владимир Семенович": 7,
-      "Германович Владимир Николаевич": 4,
-      "Добровольская Марина Ивановна": 61,
-      "Добряк Тамара Александровна": 0,
-      "Жабинский Сергей Михайлович": 0,
-      "Зубов Валерий Михайлович": 33,
-      "Лихтина Ольга Григорьевна": 2,
-      "Мартыненко Елена Анатольевна": 1,
-      "Панкрац Леонид Гербертович": 0,
-      "Черных Артем Анатольевич": 9,
-      "Против всех": 16
+      "gas:candidate-vibid:1001000121821": 7,
+      "gas:candidate-vibid:1001000190316": 4,
+      "gas:candidate-vibid:324300166789": 61,
+      "gas:candidate-vibid:324300166764": 0,
+      "gas:candidate-vibid:1001000113911": 0,
+      "gas:candidate-vibid:324300166796": 33,
+      "gas:candidate-vibid:324300166942": 2,
+      "gas:candidate-vibid:324300166931": 1,
+      "gas:candidate-vibid:1001000202291": 0,
+      "gas:candidate-vibid:1001000136025": 9,
+      "special:against-all": 16
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=242000057&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=224200067662&region=0&sub_region=0&type=429",
@@ -12852,17 +12852,17 @@ export const duma_2003_uik_428_region_24_part_007 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бедарев Владимир Семенович": 67,
-      "Германович Владимир Николаевич": 17,
-      "Добровольская Марина Ивановна": 194,
-      "Добряк Тамара Александровна": 6,
-      "Жабинский Сергей Михайлович": 8,
-      "Зубов Валерий Михайлович": 184,
-      "Лихтина Ольга Григорьевна": 6,
-      "Мартыненко Елена Анатольевна": 10,
-      "Панкрац Леонид Гербертович": 3,
-      "Черных Артем Анатольевич": 31,
-      "Против всех": 67
+      "gas:candidate-vibid:1001000121821": 67,
+      "gas:candidate-vibid:1001000190316": 17,
+      "gas:candidate-vibid:324300166789": 194,
+      "gas:candidate-vibid:324300166764": 6,
+      "gas:candidate-vibid:1001000113911": 8,
+      "gas:candidate-vibid:324300166796": 184,
+      "gas:candidate-vibid:324300166942": 6,
+      "gas:candidate-vibid:324300166931": 10,
+      "gas:candidate-vibid:1001000202291": 3,
+      "gas:candidate-vibid:1001000136025": 31,
+      "special:against-all": 67
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=242000057&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=224200067662&region=0&sub_region=0&type=429",
@@ -12912,17 +12912,17 @@ export const duma_2003_uik_428_region_24_part_007 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бедарев Владимир Семенович": 9,
-      "Германович Владимир Николаевич": 2,
-      "Добровольская Марина Ивановна": 130,
-      "Добряк Тамара Александровна": 1,
-      "Жабинский Сергей Михайлович": 2,
-      "Зубов Валерий Михайлович": 96,
-      "Лихтина Ольга Григорьевна": 1,
-      "Мартыненко Елена Анатольевна": 1,
-      "Панкрац Леонид Гербертович": 2,
-      "Черных Артем Анатольевич": 4,
-      "Против всех": 23
+      "gas:candidate-vibid:1001000121821": 9,
+      "gas:candidate-vibid:1001000190316": 2,
+      "gas:candidate-vibid:324300166789": 130,
+      "gas:candidate-vibid:324300166764": 1,
+      "gas:candidate-vibid:1001000113911": 2,
+      "gas:candidate-vibid:324300166796": 96,
+      "gas:candidate-vibid:324300166942": 1,
+      "gas:candidate-vibid:324300166931": 1,
+      "gas:candidate-vibid:1001000202291": 2,
+      "gas:candidate-vibid:1001000136025": 4,
+      "special:against-all": 23
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=242000057&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=224200067662&region=0&sub_region=0&type=429",
@@ -12972,17 +12972,17 @@ export const duma_2003_uik_428_region_24_part_007 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бедарев Владимир Семенович": 5,
-      "Германович Владимир Николаевич": 5,
-      "Добровольская Марина Ивановна": 52,
-      "Добряк Тамара Александровна": 2,
-      "Жабинский Сергей Михайлович": 1,
-      "Зубов Валерий Михайлович": 102,
-      "Лихтина Ольга Григорьевна": 0,
-      "Мартыненко Елена Анатольевна": 0,
-      "Панкрац Леонид Гербертович": 1,
-      "Черных Артем Анатольевич": 5,
-      "Против всех": 19
+      "gas:candidate-vibid:1001000121821": 5,
+      "gas:candidate-vibid:1001000190316": 5,
+      "gas:candidate-vibid:324300166789": 52,
+      "gas:candidate-vibid:324300166764": 2,
+      "gas:candidate-vibid:1001000113911": 1,
+      "gas:candidate-vibid:324300166796": 102,
+      "gas:candidate-vibid:324300166942": 0,
+      "gas:candidate-vibid:324300166931": 0,
+      "gas:candidate-vibid:1001000202291": 1,
+      "gas:candidate-vibid:1001000136025": 5,
+      "special:against-all": 19
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=242000057&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=224200067662&region=0&sub_region=0&type=429",
@@ -13032,17 +13032,17 @@ export const duma_2003_uik_428_region_24_part_007 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бедарев Владимир Семенович": 0,
-      "Германович Владимир Николаевич": 0,
-      "Добровольская Марина Ивановна": 4,
-      "Добряк Тамара Александровна": 0,
-      "Жабинский Сергей Михайлович": 0,
-      "Зубов Валерий Михайлович": 31,
-      "Лихтина Ольга Григорьевна": 0,
-      "Мартыненко Елена Анатольевна": 0,
-      "Панкрац Леонид Гербертович": 0,
-      "Черных Артем Анатольевич": 0,
-      "Против всех": 10
+      "gas:candidate-vibid:1001000121821": 0,
+      "gas:candidate-vibid:1001000190316": 0,
+      "gas:candidate-vibid:324300166789": 4,
+      "gas:candidate-vibid:324300166764": 0,
+      "gas:candidate-vibid:1001000113911": 0,
+      "gas:candidate-vibid:324300166796": 31,
+      "gas:candidate-vibid:324300166942": 0,
+      "gas:candidate-vibid:324300166931": 0,
+      "gas:candidate-vibid:1001000202291": 0,
+      "gas:candidate-vibid:1001000136025": 0,
+      "special:against-all": 10
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=242000057&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=224200067662&region=0&sub_region=0&type=429",
@@ -13092,17 +13092,17 @@ export const duma_2003_uik_428_region_24_part_007 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бедарев Владимир Семенович": 72,
-      "Германович Владимир Николаевич": 14,
-      "Добровольская Марина Ивановна": 284,
-      "Добряк Тамара Александровна": 3,
-      "Жабинский Сергей Михайлович": 2,
-      "Зубов Валерий Михайлович": 258,
-      "Лихтина Ольга Григорьевна": 7,
-      "Мартыненко Елена Анатольевна": 3,
-      "Панкрац Леонид Гербертович": 1,
-      "Черных Артем Анатольевич": 9,
-      "Против всех": 37
+      "gas:candidate-vibid:1001000121821": 72,
+      "gas:candidate-vibid:1001000190316": 14,
+      "gas:candidate-vibid:324300166789": 284,
+      "gas:candidate-vibid:324300166764": 3,
+      "gas:candidate-vibid:1001000113911": 2,
+      "gas:candidate-vibid:324300166796": 258,
+      "gas:candidate-vibid:324300166942": 7,
+      "gas:candidate-vibid:324300166931": 3,
+      "gas:candidate-vibid:1001000202291": 1,
+      "gas:candidate-vibid:1001000136025": 9,
+      "special:against-all": 37
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=242000057&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=224200067662&region=0&sub_region=0&type=429",
@@ -13152,17 +13152,17 @@ export const duma_2003_uik_428_region_24_part_007 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бедарев Владимир Семенович": 87,
-      "Германович Владимир Николаевич": 14,
-      "Добровольская Марина Ивановна": 267,
-      "Добряк Тамара Александровна": 3,
-      "Жабинский Сергей Михайлович": 4,
-      "Зубов Валерий Михайлович": 310,
-      "Лихтина Ольга Григорьевна": 7,
-      "Мартыненко Елена Анатольевна": 4,
-      "Панкрац Леонид Гербертович": 0,
-      "Черных Артем Анатольевич": 7,
-      "Против всех": 44
+      "gas:candidate-vibid:1001000121821": 87,
+      "gas:candidate-vibid:1001000190316": 14,
+      "gas:candidate-vibid:324300166789": 267,
+      "gas:candidate-vibid:324300166764": 3,
+      "gas:candidate-vibid:1001000113911": 4,
+      "gas:candidate-vibid:324300166796": 310,
+      "gas:candidate-vibid:324300166942": 7,
+      "gas:candidate-vibid:324300166931": 4,
+      "gas:candidate-vibid:1001000202291": 0,
+      "gas:candidate-vibid:1001000136025": 7,
+      "special:against-all": 44
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=242000057&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=224200067662&region=0&sub_region=0&type=429",
@@ -13212,17 +13212,17 @@ export const duma_2003_uik_428_region_24_part_007 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бедарев Владимир Семенович": 12,
-      "Германович Владимир Николаевич": 3,
-      "Добровольская Марина Ивановна": 101,
-      "Добряк Тамара Александровна": 2,
-      "Жабинский Сергей Михайлович": 2,
-      "Зубов Валерий Михайлович": 116,
-      "Лихтина Ольга Григорьевна": 1,
-      "Мартыненко Елена Анатольевна": 1,
-      "Панкрац Леонид Гербертович": 0,
-      "Черных Артем Анатольевич": 4,
-      "Против всех": 33
+      "gas:candidate-vibid:1001000121821": 12,
+      "gas:candidate-vibid:1001000190316": 3,
+      "gas:candidate-vibid:324300166789": 101,
+      "gas:candidate-vibid:324300166764": 2,
+      "gas:candidate-vibid:1001000113911": 2,
+      "gas:candidate-vibid:324300166796": 116,
+      "gas:candidate-vibid:324300166942": 1,
+      "gas:candidate-vibid:324300166931": 1,
+      "gas:candidate-vibid:1001000202291": 0,
+      "gas:candidate-vibid:1001000136025": 4,
+      "special:against-all": 33
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=242000057&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=224200067662&region=0&sub_region=0&type=429",
@@ -13272,17 +13272,17 @@ export const duma_2003_uik_428_region_24_part_007 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бедарев Владимир Семенович": 5,
-      "Германович Владимир Николаевич": 0,
-      "Добровольская Марина Ивановна": 50,
-      "Добряк Тамара Александровна": 3,
-      "Жабинский Сергей Михайлович": 0,
-      "Зубов Валерий Михайлович": 43,
-      "Лихтина Ольга Григорьевна": 0,
-      "Мартыненко Елена Анатольевна": 0,
-      "Панкрац Леонид Гербертович": 0,
-      "Черных Артем Анатольевич": 0,
-      "Против всех": 6
+      "gas:candidate-vibid:1001000121821": 5,
+      "gas:candidate-vibid:1001000190316": 0,
+      "gas:candidate-vibid:324300166789": 50,
+      "gas:candidate-vibid:324300166764": 3,
+      "gas:candidate-vibid:1001000113911": 0,
+      "gas:candidate-vibid:324300166796": 43,
+      "gas:candidate-vibid:324300166942": 0,
+      "gas:candidate-vibid:324300166931": 0,
+      "gas:candidate-vibid:1001000202291": 0,
+      "gas:candidate-vibid:1001000136025": 0,
+      "special:against-all": 6
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=242000057&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=224200067662&region=0&sub_region=0&type=429",
@@ -13332,17 +13332,17 @@ export const duma_2003_uik_428_region_24_part_007 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бедарев Владимир Семенович": 13,
-      "Германович Владимир Николаевич": 1,
-      "Добровольская Марина Ивановна": 27,
-      "Добряк Тамара Александровна": 1,
-      "Жабинский Сергей Михайлович": 0,
-      "Зубов Валерий Михайлович": 27,
-      "Лихтина Ольга Григорьевна": 0,
-      "Мартыненко Елена Анатольевна": 0,
-      "Панкрац Леонид Гербертович": 0,
-      "Черных Артем Анатольевич": 0,
-      "Против всех": 5
+      "gas:candidate-vibid:1001000121821": 13,
+      "gas:candidate-vibid:1001000190316": 1,
+      "gas:candidate-vibid:324300166789": 27,
+      "gas:candidate-vibid:324300166764": 1,
+      "gas:candidate-vibid:1001000113911": 0,
+      "gas:candidate-vibid:324300166796": 27,
+      "gas:candidate-vibid:324300166942": 0,
+      "gas:candidate-vibid:324300166931": 0,
+      "gas:candidate-vibid:1001000202291": 0,
+      "gas:candidate-vibid:1001000136025": 0,
+      "special:against-all": 5
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=242000057&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=224200067662&region=0&sub_region=0&type=429",
@@ -13392,17 +13392,17 @@ export const duma_2003_uik_428_region_24_part_007 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бедарев Владимир Семенович": 1,
-      "Германович Владимир Николаевич": 2,
-      "Добровольская Марина Ивановна": 5,
-      "Добряк Тамара Александровна": 0,
-      "Жабинский Сергей Михайлович": 0,
-      "Зубов Валерий Михайлович": 47,
-      "Лихтина Ольга Григорьевна": 0,
-      "Мартыненко Елена Анатольевна": 2,
-      "Панкрац Леонид Гербертович": 0,
-      "Черных Артем Анатольевич": 1,
-      "Против всех": 2
+      "gas:candidate-vibid:1001000121821": 1,
+      "gas:candidate-vibid:1001000190316": 2,
+      "gas:candidate-vibid:324300166789": 5,
+      "gas:candidate-vibid:324300166764": 0,
+      "gas:candidate-vibid:1001000113911": 0,
+      "gas:candidate-vibid:324300166796": 47,
+      "gas:candidate-vibid:324300166942": 0,
+      "gas:candidate-vibid:324300166931": 2,
+      "gas:candidate-vibid:1001000202291": 0,
+      "gas:candidate-vibid:1001000136025": 1,
+      "special:against-all": 2
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=242000057&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=224200067662&region=0&sub_region=0&type=429",
@@ -13452,17 +13452,17 @@ export const duma_2003_uik_428_region_24_part_007 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бедарев Владимир Семенович": 10,
-      "Германович Владимир Николаевич": 4,
-      "Добровольская Марина Ивановна": 35,
-      "Добряк Тамара Александровна": 2,
-      "Жабинский Сергей Михайлович": 5,
-      "Зубов Валерий Михайлович": 61,
-      "Лихтина Ольга Григорьевна": 0,
-      "Мартыненко Елена Анатольевна": 0,
-      "Панкрац Леонид Гербертович": 0,
-      "Черных Артем Анатольевич": 3,
-      "Против всех": 15
+      "gas:candidate-vibid:1001000121821": 10,
+      "gas:candidate-vibid:1001000190316": 4,
+      "gas:candidate-vibid:324300166789": 35,
+      "gas:candidate-vibid:324300166764": 2,
+      "gas:candidate-vibid:1001000113911": 5,
+      "gas:candidate-vibid:324300166796": 61,
+      "gas:candidate-vibid:324300166942": 0,
+      "gas:candidate-vibid:324300166931": 0,
+      "gas:candidate-vibid:1001000202291": 0,
+      "gas:candidate-vibid:1001000136025": 3,
+      "special:against-all": 15
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=242000057&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=224200067662&region=0&sub_region=0&type=429",
@@ -13512,17 +13512,17 @@ export const duma_2003_uik_428_region_24_part_007 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бедарев Владимир Семенович": 20,
-      "Германович Владимир Николаевич": 2,
-      "Добровольская Марина Ивановна": 78,
-      "Добряк Тамара Александровна": 3,
-      "Жабинский Сергей Михайлович": 4,
-      "Зубов Валерий Михайлович": 84,
-      "Лихтина Ольга Григорьевна": 3,
-      "Мартыненко Елена Анатольевна": 0,
-      "Панкрац Леонид Гербертович": 0,
-      "Черных Артем Анатольевич": 3,
-      "Против всех": 10
+      "gas:candidate-vibid:1001000121821": 20,
+      "gas:candidate-vibid:1001000190316": 2,
+      "gas:candidate-vibid:324300166789": 78,
+      "gas:candidate-vibid:324300166764": 3,
+      "gas:candidate-vibid:1001000113911": 4,
+      "gas:candidate-vibid:324300166796": 84,
+      "gas:candidate-vibid:324300166942": 3,
+      "gas:candidate-vibid:324300166931": 0,
+      "gas:candidate-vibid:1001000202291": 0,
+      "gas:candidate-vibid:1001000136025": 3,
+      "special:against-all": 10
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=242000057&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=224200067662&region=0&sub_region=0&type=429",
@@ -13572,17 +13572,17 @@ export const duma_2003_uik_428_region_24_part_007 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бедарев Владимир Семенович": 22,
-      "Германович Владимир Николаевич": 4,
-      "Добровольская Марина Ивановна": 72,
-      "Добряк Тамара Александровна": 1,
-      "Жабинский Сергей Михайлович": 4,
-      "Зубов Валерий Михайлович": 117,
-      "Лихтина Ольга Григорьевна": 2,
-      "Мартыненко Елена Анатольевна": 2,
-      "Панкрац Леонид Гербертович": 1,
-      "Черных Артем Анатольевич": 3,
-      "Против всех": 9
+      "gas:candidate-vibid:1001000121821": 22,
+      "gas:candidate-vibid:1001000190316": 4,
+      "gas:candidate-vibid:324300166789": 72,
+      "gas:candidate-vibid:324300166764": 1,
+      "gas:candidate-vibid:1001000113911": 4,
+      "gas:candidate-vibid:324300166796": 117,
+      "gas:candidate-vibid:324300166942": 2,
+      "gas:candidate-vibid:324300166931": 2,
+      "gas:candidate-vibid:1001000202291": 1,
+      "gas:candidate-vibid:1001000136025": 3,
+      "special:against-all": 9
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=242000057&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=224200067662&region=0&sub_region=0&type=429",
@@ -13632,17 +13632,17 @@ export const duma_2003_uik_428_region_24_part_007 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бедарев Владимир Семенович": 4,
-      "Германович Владимир Николаевич": 1,
-      "Добровольская Марина Ивановна": 25,
-      "Добряк Тамара Александровна": 2,
-      "Жабинский Сергей Михайлович": 2,
-      "Зубов Валерий Михайлович": 27,
-      "Лихтина Ольга Григорьевна": 0,
-      "Мартыненко Елена Анатольевна": 0,
-      "Панкрац Леонид Гербертович": 0,
-      "Черных Артем Анатольевич": 1,
-      "Против всех": 6
+      "gas:candidate-vibid:1001000121821": 4,
+      "gas:candidate-vibid:1001000190316": 1,
+      "gas:candidate-vibid:324300166789": 25,
+      "gas:candidate-vibid:324300166764": 2,
+      "gas:candidate-vibid:1001000113911": 2,
+      "gas:candidate-vibid:324300166796": 27,
+      "gas:candidate-vibid:324300166942": 0,
+      "gas:candidate-vibid:324300166931": 0,
+      "gas:candidate-vibid:1001000202291": 0,
+      "gas:candidate-vibid:1001000136025": 1,
+      "special:against-all": 6
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=242000057&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=224200067662&region=0&sub_region=0&type=429",
@@ -13692,17 +13692,17 @@ export const duma_2003_uik_428_region_24_part_007 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бедарев Владимир Семенович": 18,
-      "Германович Владимир Николаевич": 4,
-      "Добровольская Марина Ивановна": 45,
-      "Добряк Тамара Александровна": 1,
-      "Жабинский Сергей Михайлович": 2,
-      "Зубов Валерий Михайлович": 67,
-      "Лихтина Ольга Григорьевна": 3,
-      "Мартыненко Елена Анатольевна": 1,
-      "Панкрац Леонид Гербертович": 1,
-      "Черных Артем Анатольевич": 5,
-      "Против всех": 10
+      "gas:candidate-vibid:1001000121821": 18,
+      "gas:candidate-vibid:1001000190316": 4,
+      "gas:candidate-vibid:324300166789": 45,
+      "gas:candidate-vibid:324300166764": 1,
+      "gas:candidate-vibid:1001000113911": 2,
+      "gas:candidate-vibid:324300166796": 67,
+      "gas:candidate-vibid:324300166942": 3,
+      "gas:candidate-vibid:324300166931": 1,
+      "gas:candidate-vibid:1001000202291": 1,
+      "gas:candidate-vibid:1001000136025": 5,
+      "special:against-all": 10
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=242000057&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=224200067662&region=0&sub_region=0&type=429",
@@ -13752,17 +13752,17 @@ export const duma_2003_uik_428_region_24_part_007 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бедарев Владимир Семенович": 24,
-      "Германович Владимир Николаевич": 17,
-      "Добровольская Марина Ивановна": 46,
-      "Добряк Тамара Александровна": 1,
-      "Жабинский Сергей Михайлович": 2,
-      "Зубов Валерий Михайлович": 86,
-      "Лихтина Ольга Григорьевна": 2,
-      "Мартыненко Елена Анатольевна": 0,
-      "Панкрац Леонид Гербертович": 1,
-      "Черных Артем Анатольевич": 4,
-      "Против всех": 19
+      "gas:candidate-vibid:1001000121821": 24,
+      "gas:candidate-vibid:1001000190316": 17,
+      "gas:candidate-vibid:324300166789": 46,
+      "gas:candidate-vibid:324300166764": 1,
+      "gas:candidate-vibid:1001000113911": 2,
+      "gas:candidate-vibid:324300166796": 86,
+      "gas:candidate-vibid:324300166942": 2,
+      "gas:candidate-vibid:324300166931": 0,
+      "gas:candidate-vibid:1001000202291": 1,
+      "gas:candidate-vibid:1001000136025": 4,
+      "special:against-all": 19
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=242000057&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=224200067662&region=0&sub_region=0&type=429",
@@ -13812,17 +13812,17 @@ export const duma_2003_uik_428_region_24_part_007 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бедарев Владимир Семенович": 49,
-      "Германович Владимир Николаевич": 16,
-      "Добровольская Марина Ивановна": 98,
-      "Добряк Тамара Александровна": 0,
-      "Жабинский Сергей Михайлович": 1,
-      "Зубов Валерий Михайлович": 110,
-      "Лихтина Ольга Григорьевна": 7,
-      "Мартыненко Елена Анатольевна": 2,
-      "Панкрац Леонид Гербертович": 0,
-      "Черных Артем Анатольевич": 4,
-      "Против всех": 35
+      "gas:candidate-vibid:1001000121821": 49,
+      "gas:candidate-vibid:1001000190316": 16,
+      "gas:candidate-vibid:324300166789": 98,
+      "gas:candidate-vibid:324300166764": 0,
+      "gas:candidate-vibid:1001000113911": 1,
+      "gas:candidate-vibid:324300166796": 110,
+      "gas:candidate-vibid:324300166942": 7,
+      "gas:candidate-vibid:324300166931": 2,
+      "gas:candidate-vibid:1001000202291": 0,
+      "gas:candidate-vibid:1001000136025": 4,
+      "special:against-all": 35
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=242000057&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=224200067662&region=0&sub_region=0&type=429",
@@ -13872,17 +13872,17 @@ export const duma_2003_uik_428_region_24_part_007 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бедарев Владимир Семенович": 10,
-      "Германович Владимир Николаевич": 2,
-      "Добровольская Марина Ивановна": 21,
-      "Добряк Тамара Александровна": 0,
-      "Жабинский Сергей Михайлович": 0,
-      "Зубов Валерий Михайлович": 22,
-      "Лихтина Ольга Григорьевна": 0,
-      "Мартыненко Елена Анатольевна": 0,
-      "Панкрац Леонид Гербертович": 1,
-      "Черных Артем Анатольевич": 0,
-      "Против всех": 7
+      "gas:candidate-vibid:1001000121821": 10,
+      "gas:candidate-vibid:1001000190316": 2,
+      "gas:candidate-vibid:324300166789": 21,
+      "gas:candidate-vibid:324300166764": 0,
+      "gas:candidate-vibid:1001000113911": 0,
+      "gas:candidate-vibid:324300166796": 22,
+      "gas:candidate-vibid:324300166942": 0,
+      "gas:candidate-vibid:324300166931": 0,
+      "gas:candidate-vibid:1001000202291": 1,
+      "gas:candidate-vibid:1001000136025": 0,
+      "special:against-all": 7
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=242000057&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=224200067662&region=0&sub_region=0&type=429",
@@ -13932,17 +13932,17 @@ export const duma_2003_uik_428_region_24_part_007 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бедарев Владимир Семенович": 29,
-      "Германович Владимир Николаевич": 5,
-      "Добровольская Марина Ивановна": 89,
-      "Добряк Тамара Александровна": 1,
-      "Жабинский Сергей Михайлович": 2,
-      "Зубов Валерий Михайлович": 35,
-      "Лихтина Ольга Григорьевна": 3,
-      "Мартыненко Елена Анатольевна": 0,
-      "Панкрац Леонид Гербертович": 0,
-      "Черных Артем Анатольевич": 2,
-      "Против всех": 10
+      "gas:candidate-vibid:1001000121821": 29,
+      "gas:candidate-vibid:1001000190316": 5,
+      "gas:candidate-vibid:324300166789": 89,
+      "gas:candidate-vibid:324300166764": 1,
+      "gas:candidate-vibid:1001000113911": 2,
+      "gas:candidate-vibid:324300166796": 35,
+      "gas:candidate-vibid:324300166942": 3,
+      "gas:candidate-vibid:324300166931": 0,
+      "gas:candidate-vibid:1001000202291": 0,
+      "gas:candidate-vibid:1001000136025": 2,
+      "special:against-all": 10
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=242000057&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=224200067662&region=0&sub_region=0&type=429",
@@ -13992,17 +13992,17 @@ export const duma_2003_uik_428_region_24_part_007 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бедарев Владимир Семенович": 42,
-      "Германович Владимир Николаевич": 2,
-      "Добровольская Марина Ивановна": 130,
-      "Добряк Тамара Александровна": 3,
-      "Жабинский Сергей Михайлович": 6,
-      "Зубов Валерий Михайлович": 76,
-      "Лихтина Ольга Григорьевна": 3,
-      "Мартыненко Елена Анатольевна": 3,
-      "Панкрац Леонид Гербертович": 2,
-      "Черных Артем Анатольевич": 6,
-      "Против всех": 15
+      "gas:candidate-vibid:1001000121821": 42,
+      "gas:candidate-vibid:1001000190316": 2,
+      "gas:candidate-vibid:324300166789": 130,
+      "gas:candidate-vibid:324300166764": 3,
+      "gas:candidate-vibid:1001000113911": 6,
+      "gas:candidate-vibid:324300166796": 76,
+      "gas:candidate-vibid:324300166942": 3,
+      "gas:candidate-vibid:324300166931": 3,
+      "gas:candidate-vibid:1001000202291": 2,
+      "gas:candidate-vibid:1001000136025": 6,
+      "special:against-all": 15
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=242000057&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=224200067662&region=0&sub_region=0&type=429",
@@ -14052,17 +14052,17 @@ export const duma_2003_uik_428_region_24_part_007 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бедарев Владимир Семенович": 26,
-      "Германович Владимир Николаевич": 1,
-      "Добровольская Марина Ивановна": 18,
-      "Добряк Тамара Александровна": 1,
-      "Жабинский Сергей Михайлович": 2,
-      "Зубов Валерий Михайлович": 47,
-      "Лихтина Ольга Григорьевна": 2,
-      "Мартыненко Елена Анатольевна": 3,
-      "Панкрац Леонид Гербертович": 0,
-      "Черных Артем Анатольевич": 4,
-      "Против всех": 12
+      "gas:candidate-vibid:1001000121821": 26,
+      "gas:candidate-vibid:1001000190316": 1,
+      "gas:candidate-vibid:324300166789": 18,
+      "gas:candidate-vibid:324300166764": 1,
+      "gas:candidate-vibid:1001000113911": 2,
+      "gas:candidate-vibid:324300166796": 47,
+      "gas:candidate-vibid:324300166942": 2,
+      "gas:candidate-vibid:324300166931": 3,
+      "gas:candidate-vibid:1001000202291": 0,
+      "gas:candidate-vibid:1001000136025": 4,
+      "special:against-all": 12
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=242000057&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=224200067662&region=0&sub_region=0&type=429",
@@ -14112,17 +14112,17 @@ export const duma_2003_uik_428_region_24_part_007 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бедарев Владимир Семенович": 31,
-      "Германович Владимир Николаевич": 7,
-      "Добровольская Марина Ивановна": 57,
-      "Добряк Тамара Александровна": 3,
-      "Жабинский Сергей Михайлович": 2,
-      "Зубов Валерий Михайлович": 70,
-      "Лихтина Ольга Григорьевна": 0,
-      "Мартыненко Елена Анатольевна": 3,
-      "Панкрац Леонид Гербертович": 1,
-      "Черных Артем Анатольевич": 1,
-      "Против всех": 7
+      "gas:candidate-vibid:1001000121821": 31,
+      "gas:candidate-vibid:1001000190316": 7,
+      "gas:candidate-vibid:324300166789": 57,
+      "gas:candidate-vibid:324300166764": 3,
+      "gas:candidate-vibid:1001000113911": 2,
+      "gas:candidate-vibid:324300166796": 70,
+      "gas:candidate-vibid:324300166942": 0,
+      "gas:candidate-vibid:324300166931": 3,
+      "gas:candidate-vibid:1001000202291": 1,
+      "gas:candidate-vibid:1001000136025": 1,
+      "special:against-all": 7
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=242000057&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=224200067662&region=0&sub_region=0&type=429",
@@ -14172,17 +14172,17 @@ export const duma_2003_uik_428_region_24_part_007 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бедарев Владимир Семенович": 14,
-      "Германович Владимир Николаевич": 3,
-      "Добровольская Марина Ивановна": 8,
-      "Добряк Тамара Александровна": 4,
-      "Жабинский Сергей Михайлович": 0,
-      "Зубов Валерий Михайлович": 38,
-      "Лихтина Ольга Григорьевна": 1,
-      "Мартыненко Елена Анатольевна": 1,
-      "Панкрац Леонид Гербертович": 0,
-      "Черных Артем Анатольевич": 1,
-      "Против всех": 6
+      "gas:candidate-vibid:1001000121821": 14,
+      "gas:candidate-vibid:1001000190316": 3,
+      "gas:candidate-vibid:324300166789": 8,
+      "gas:candidate-vibid:324300166764": 4,
+      "gas:candidate-vibid:1001000113911": 0,
+      "gas:candidate-vibid:324300166796": 38,
+      "gas:candidate-vibid:324300166942": 1,
+      "gas:candidate-vibid:324300166931": 1,
+      "gas:candidate-vibid:1001000202291": 0,
+      "gas:candidate-vibid:1001000136025": 1,
+      "special:against-all": 6
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=242000057&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=224200067662&region=0&sub_region=0&type=429",
@@ -14232,17 +14232,17 @@ export const duma_2003_uik_428_region_24_part_007 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бедарев Владимир Семенович": 6,
-      "Германович Владимир Николаевич": 1,
-      "Добровольская Марина Ивановна": 13,
-      "Добряк Тамара Александровна": 0,
-      "Жабинский Сергей Михайлович": 1,
-      "Зубов Валерий Михайлович": 9,
-      "Лихтина Ольга Григорьевна": 0,
-      "Мартыненко Елена Анатольевна": 1,
-      "Панкрац Леонид Гербертович": 0,
-      "Черных Артем Анатольевич": 0,
-      "Против всех": 0
+      "gas:candidate-vibid:1001000121821": 6,
+      "gas:candidate-vibid:1001000190316": 1,
+      "gas:candidate-vibid:324300166789": 13,
+      "gas:candidate-vibid:324300166764": 0,
+      "gas:candidate-vibid:1001000113911": 1,
+      "gas:candidate-vibid:324300166796": 9,
+      "gas:candidate-vibid:324300166942": 0,
+      "gas:candidate-vibid:324300166931": 1,
+      "gas:candidate-vibid:1001000202291": 0,
+      "gas:candidate-vibid:1001000136025": 0,
+      "special:against-all": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=242000057&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=224200067662&region=0&sub_region=0&type=429",
@@ -14292,17 +14292,17 @@ export const duma_2003_uik_428_region_24_part_007 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бедарев Владимир Семенович": 26,
-      "Германович Владимир Николаевич": 1,
-      "Добровольская Марина Ивановна": 71,
-      "Добряк Тамара Александровна": 1,
-      "Жабинский Сергей Михайлович": 3,
-      "Зубов Валерий Михайлович": 64,
-      "Лихтина Ольга Григорьевна": 4,
-      "Мартыненко Елена Анатольевна": 5,
-      "Панкрац Леонид Гербертович": 0,
-      "Черных Артем Анатольевич": 4,
-      "Против всех": 17
+      "gas:candidate-vibid:1001000121821": 26,
+      "gas:candidate-vibid:1001000190316": 1,
+      "gas:candidate-vibid:324300166789": 71,
+      "gas:candidate-vibid:324300166764": 1,
+      "gas:candidate-vibid:1001000113911": 3,
+      "gas:candidate-vibid:324300166796": 64,
+      "gas:candidate-vibid:324300166942": 4,
+      "gas:candidate-vibid:324300166931": 5,
+      "gas:candidate-vibid:1001000202291": 0,
+      "gas:candidate-vibid:1001000136025": 4,
+      "special:against-all": 17
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=242000057&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=224200067662&region=0&sub_region=0&type=429",
@@ -14352,17 +14352,17 @@ export const duma_2003_uik_428_region_24_part_007 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бедарев Владимир Семенович": 2,
-      "Германович Владимир Николаевич": 6,
-      "Добровольская Марина Ивановна": 8,
-      "Добряк Тамара Александровна": 1,
-      "Жабинский Сергей Михайлович": 4,
-      "Зубов Валерий Михайлович": 19,
-      "Лихтина Ольга Григорьевна": 1,
-      "Мартыненко Елена Анатольевна": 0,
-      "Панкрац Леонид Гербертович": 0,
-      "Черных Артем Анатольевич": 1,
-      "Против всех": 13
+      "gas:candidate-vibid:1001000121821": 2,
+      "gas:candidate-vibid:1001000190316": 6,
+      "gas:candidate-vibid:324300166789": 8,
+      "gas:candidate-vibid:324300166764": 1,
+      "gas:candidate-vibid:1001000113911": 4,
+      "gas:candidate-vibid:324300166796": 19,
+      "gas:candidate-vibid:324300166942": 1,
+      "gas:candidate-vibid:324300166931": 0,
+      "gas:candidate-vibid:1001000202291": 0,
+      "gas:candidate-vibid:1001000136025": 1,
+      "special:against-all": 13
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=242000057&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=224200067662&region=0&sub_region=0&type=429",
@@ -14412,17 +14412,17 @@ export const duma_2003_uik_428_region_24_part_007 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бедарев Владимир Семенович": 80,
-      "Германович Владимир Николаевич": 7,
-      "Добровольская Марина Ивановна": 295,
-      "Добряк Тамара Александровна": 9,
-      "Жабинский Сергей Михайлович": 11,
-      "Зубов Валерий Михайлович": 387,
-      "Лихтина Ольга Григорьевна": 12,
-      "Мартыненко Елена Анатольевна": 13,
-      "Панкрац Леонид Гербертович": 5,
-      "Черных Артем Анатольевич": 19,
-      "Против всех": 120
+      "gas:candidate-vibid:1001000121821": 80,
+      "gas:candidate-vibid:1001000190316": 7,
+      "gas:candidate-vibid:324300166789": 295,
+      "gas:candidate-vibid:324300166764": 9,
+      "gas:candidate-vibid:1001000113911": 11,
+      "gas:candidate-vibid:324300166796": 387,
+      "gas:candidate-vibid:324300166942": 12,
+      "gas:candidate-vibid:324300166931": 13,
+      "gas:candidate-vibid:1001000202291": 5,
+      "gas:candidate-vibid:1001000136025": 19,
+      "special:against-all": 120
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=242000058&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=224200067663&region=0&sub_region=0&type=429",
@@ -14472,17 +14472,17 @@ export const duma_2003_uik_428_region_24_part_007 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бедарев Владимир Семенович": 85,
-      "Германович Владимир Николаевич": 3,
-      "Добровольская Марина Ивановна": 282,
-      "Добряк Тамара Александровна": 13,
-      "Жабинский Сергей Михайлович": 9,
-      "Зубов Валерий Михайлович": 390,
-      "Лихтина Ольга Григорьевна": 27,
-      "Мартыненко Елена Анатольевна": 25,
-      "Панкрац Леонид Гербертович": 4,
-      "Черных Артем Анатольевич": 18,
-      "Против всех": 100
+      "gas:candidate-vibid:1001000121821": 85,
+      "gas:candidate-vibid:1001000190316": 3,
+      "gas:candidate-vibid:324300166789": 282,
+      "gas:candidate-vibid:324300166764": 13,
+      "gas:candidate-vibid:1001000113911": 9,
+      "gas:candidate-vibid:324300166796": 390,
+      "gas:candidate-vibid:324300166942": 27,
+      "gas:candidate-vibid:324300166931": 25,
+      "gas:candidate-vibid:1001000202291": 4,
+      "gas:candidate-vibid:1001000136025": 18,
+      "special:against-all": 100
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=242000058&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=224200067663&region=0&sub_region=0&type=429",
@@ -14532,17 +14532,17 @@ export const duma_2003_uik_428_region_24_part_007 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бедарев Владимир Семенович": 99,
-      "Германович Владимир Николаевич": 7,
-      "Добровольская Марина Ивановна": 359,
-      "Добряк Тамара Александровна": 5,
-      "Жабинский Сергей Михайлович": 7,
-      "Зубов Валерий Михайлович": 478,
-      "Лихтина Ольга Григорьевна": 29,
-      "Мартыненко Елена Анатольевна": 28,
-      "Панкрац Леонид Гербертович": 3,
-      "Черных Артем Анатольевич": 19,
-      "Против всех": 149
+      "gas:candidate-vibid:1001000121821": 99,
+      "gas:candidate-vibid:1001000190316": 7,
+      "gas:candidate-vibid:324300166789": 359,
+      "gas:candidate-vibid:324300166764": 5,
+      "gas:candidate-vibid:1001000113911": 7,
+      "gas:candidate-vibid:324300166796": 478,
+      "gas:candidate-vibid:324300166942": 29,
+      "gas:candidate-vibid:324300166931": 28,
+      "gas:candidate-vibid:1001000202291": 3,
+      "gas:candidate-vibid:1001000136025": 19,
+      "special:against-all": 149
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=242000058&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=224200067663&region=0&sub_region=0&type=429",
@@ -14592,17 +14592,17 @@ export const duma_2003_uik_428_region_24_part_007 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бедарев Владимир Семенович": 50,
-      "Германович Владимир Николаевич": 8,
-      "Добровольская Марина Ивановна": 222,
-      "Добряк Тамара Александровна": 6,
-      "Жабинский Сергей Михайлович": 6,
-      "Зубов Валерий Михайлович": 276,
-      "Лихтина Ольга Григорьевна": 9,
-      "Мартыненко Елена Анатольевна": 22,
-      "Панкрац Леонид Гербертович": 2,
-      "Черных Артем Анатольевич": 16,
-      "Против всех": 96
+      "gas:candidate-vibid:1001000121821": 50,
+      "gas:candidate-vibid:1001000190316": 8,
+      "gas:candidate-vibid:324300166789": 222,
+      "gas:candidate-vibid:324300166764": 6,
+      "gas:candidate-vibid:1001000113911": 6,
+      "gas:candidate-vibid:324300166796": 276,
+      "gas:candidate-vibid:324300166942": 9,
+      "gas:candidate-vibid:324300166931": 22,
+      "gas:candidate-vibid:1001000202291": 2,
+      "gas:candidate-vibid:1001000136025": 16,
+      "special:against-all": 96
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=242000058&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=224200067663&region=0&sub_region=0&type=429",
@@ -14652,17 +14652,17 @@ export const duma_2003_uik_428_region_24_part_007 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бедарев Владимир Семенович": 34,
-      "Германович Владимир Николаевич": 6,
-      "Добровольская Марина Ивановна": 220,
-      "Добряк Тамара Александровна": 8,
-      "Жабинский Сергей Михайлович": 8,
-      "Зубов Валерий Михайлович": 303,
-      "Лихтина Ольга Григорьевна": 12,
-      "Мартыненко Елена Анатольевна": 18,
-      "Панкрац Леонид Гербертович": 2,
-      "Черных Артем Анатольевич": 12,
-      "Против всех": 76
+      "gas:candidate-vibid:1001000121821": 34,
+      "gas:candidate-vibid:1001000190316": 6,
+      "gas:candidate-vibid:324300166789": 220,
+      "gas:candidate-vibid:324300166764": 8,
+      "gas:candidate-vibid:1001000113911": 8,
+      "gas:candidate-vibid:324300166796": 303,
+      "gas:candidate-vibid:324300166942": 12,
+      "gas:candidate-vibid:324300166931": 18,
+      "gas:candidate-vibid:1001000202291": 2,
+      "gas:candidate-vibid:1001000136025": 12,
+      "special:against-all": 76
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=242000058&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=224200067663&region=0&sub_region=0&type=429",
@@ -14712,17 +14712,17 @@ export const duma_2003_uik_428_region_24_part_007 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бедарев Владимир Семенович": 61,
-      "Германович Владимир Николаевич": 5,
-      "Добровольская Марина Ивановна": 240,
-      "Добряк Тамара Александровна": 5,
-      "Жабинский Сергей Михайлович": 9,
-      "Зубов Валерий Михайлович": 434,
-      "Лихтина Ольга Григорьевна": 13,
-      "Мартыненко Елена Анатольевна": 18,
-      "Панкрац Леонид Гербертович": 1,
-      "Черных Артем Анатольевич": 17,
-      "Против всех": 120
+      "gas:candidate-vibid:1001000121821": 61,
+      "gas:candidate-vibid:1001000190316": 5,
+      "gas:candidate-vibid:324300166789": 240,
+      "gas:candidate-vibid:324300166764": 5,
+      "gas:candidate-vibid:1001000113911": 9,
+      "gas:candidate-vibid:324300166796": 434,
+      "gas:candidate-vibid:324300166942": 13,
+      "gas:candidate-vibid:324300166931": 18,
+      "gas:candidate-vibid:1001000202291": 1,
+      "gas:candidate-vibid:1001000136025": 17,
+      "special:against-all": 120
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=242000058&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=224200067663&region=0&sub_region=0&type=429",

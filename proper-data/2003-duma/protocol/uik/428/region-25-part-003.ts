@@ -42,12 +42,12 @@ export const duma_2003_uik_428_region_25_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Гавриков Сергей Родионович": 39,
-      "Гришуков Владимир Витальевич": 36,
-      "Плевако Сергей Михайлович": 16,
-      "Романенко Татьяна Гаврииловна": 25,
-      "Усольцев Василий Иванович": 193,
-      "Против всех": 95
+      "gas:candidate-vibid:1001000136026": 39,
+      "gas:candidate-vibid:1001000121822": 36,
+      "gas:candidate-vibid:1001000190318": 16,
+      "gas:candidate-vibid:1001000113912": 25,
+      "gas:candidate-vibid:1001000225920": 193,
+      "special:against-all": 95
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=253001012&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=325300167425&region=0&sub_region=0&type=429",
@@ -97,12 +97,12 @@ export const duma_2003_uik_428_region_25_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Гавриков Сергей Родионович": 168,
-      "Гришуков Владимир Витальевич": 97,
-      "Плевако Сергей Михайлович": 88,
-      "Романенко Татьяна Гаврииловна": 133,
-      "Усольцев Василий Иванович": 747,
-      "Против всех": 293
+      "gas:candidate-vibid:1001000136026": 168,
+      "gas:candidate-vibid:1001000121822": 97,
+      "gas:candidate-vibid:1001000190318": 88,
+      "gas:candidate-vibid:1001000113912": 133,
+      "gas:candidate-vibid:1001000225920": 747,
+      "special:against-all": 293
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=253001012&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=325300167425&region=0&sub_region=0&type=429",
@@ -152,12 +152,12 @@ export const duma_2003_uik_428_region_25_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Гавриков Сергей Родионович": 8,
-      "Гришуков Владимир Витальевич": 8,
-      "Плевако Сергей Михайлович": 14,
-      "Романенко Татьяна Гаврииловна": 38,
-      "Усольцев Василий Иванович": 6,
-      "Против всех": 43
+      "gas:candidate-vibid:1001000136026": 8,
+      "gas:candidate-vibid:1001000121822": 8,
+      "gas:candidate-vibid:1001000190318": 14,
+      "gas:candidate-vibid:1001000113912": 38,
+      "gas:candidate-vibid:1001000225920": 6,
+      "special:against-all": 43
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=253001012&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=325300167425&region=0&sub_region=0&type=429",
@@ -207,12 +207,12 @@ export const duma_2003_uik_428_region_25_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Гавриков Сергей Родионович": 3,
-      "Гришуков Владимир Витальевич": 12,
-      "Плевако Сергей Михайлович": 3,
-      "Романенко Татьяна Гаврииловна": 2,
-      "Усольцев Василий Иванович": 144,
-      "Против всех": 6
+      "gas:candidate-vibid:1001000136026": 3,
+      "gas:candidate-vibid:1001000121822": 12,
+      "gas:candidate-vibid:1001000190318": 3,
+      "gas:candidate-vibid:1001000113912": 2,
+      "gas:candidate-vibid:1001000225920": 144,
+      "special:against-all": 6
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=253001018&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=325300167431&region=0&sub_region=0&type=429",
@@ -262,12 +262,12 @@ export const duma_2003_uik_428_region_25_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Гавриков Сергей Родионович": 7,
-      "Гришуков Владимир Витальевич": 18,
-      "Плевако Сергей Михайлович": 3,
-      "Романенко Татьяна Гаврииловна": 4,
-      "Усольцев Василий Иванович": 79,
-      "Против всех": 5
+      "gas:candidate-vibid:1001000136026": 7,
+      "gas:candidate-vibid:1001000121822": 18,
+      "gas:candidate-vibid:1001000190318": 3,
+      "gas:candidate-vibid:1001000113912": 4,
+      "gas:candidate-vibid:1001000225920": 79,
+      "special:against-all": 5
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=253001018&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=325300167431&region=0&sub_region=0&type=429",
@@ -317,12 +317,12 @@ export const duma_2003_uik_428_region_25_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Гавриков Сергей Родионович": 0,
-      "Гришуков Владимир Витальевич": 3,
-      "Плевако Сергей Михайлович": 1,
-      "Романенко Татьяна Гаврииловна": 0,
-      "Усольцев Василий Иванович": 89,
-      "Против всех": 7
+      "gas:candidate-vibid:1001000136026": 0,
+      "gas:candidate-vibid:1001000121822": 3,
+      "gas:candidate-vibid:1001000190318": 1,
+      "gas:candidate-vibid:1001000113912": 0,
+      "gas:candidate-vibid:1001000225920": 89,
+      "special:against-all": 7
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=253001018&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=325300167431&region=0&sub_region=0&type=429",
@@ -372,12 +372,12 @@ export const duma_2003_uik_428_region_25_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Гавриков Сергей Родионович": 12,
-      "Гришуков Владимир Витальевич": 33,
-      "Плевако Сергей Михайлович": 11,
-      "Романенко Татьяна Гаврииловна": 12,
-      "Усольцев Василий Иванович": 154,
-      "Против всех": 14
+      "gas:candidate-vibid:1001000136026": 12,
+      "gas:candidate-vibid:1001000121822": 33,
+      "gas:candidate-vibid:1001000190318": 11,
+      "gas:candidate-vibid:1001000113912": 12,
+      "gas:candidate-vibid:1001000225920": 154,
+      "special:against-all": 14
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=253001018&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=325300167431&region=0&sub_region=0&type=429",
@@ -427,12 +427,12 @@ export const duma_2003_uik_428_region_25_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Гавриков Сергей Родионович": 2,
-      "Гришуков Владимир Витальевич": 4,
-      "Плевако Сергей Михайлович": 9,
-      "Романенко Татьяна Гаврииловна": 4,
-      "Усольцев Василий Иванович": 81,
-      "Против всех": 23
+      "gas:candidate-vibid:1001000136026": 2,
+      "gas:candidate-vibid:1001000121822": 4,
+      "gas:candidate-vibid:1001000190318": 9,
+      "gas:candidate-vibid:1001000113912": 4,
+      "gas:candidate-vibid:1001000225920": 81,
+      "special:against-all": 23
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=253001018&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=325300167431&region=0&sub_region=0&type=429",
@@ -482,12 +482,12 @@ export const duma_2003_uik_428_region_25_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Гавриков Сергей Родионович": 15,
-      "Гришуков Владимир Витальевич": 46,
-      "Плевако Сергей Михайлович": 71,
-      "Романенко Татьяна Гаврииловна": 12,
-      "Усольцев Василий Иванович": 344,
-      "Против всех": 23
+      "gas:candidate-vibid:1001000136026": 15,
+      "gas:candidate-vibid:1001000121822": 46,
+      "gas:candidate-vibid:1001000190318": 71,
+      "gas:candidate-vibid:1001000113912": 12,
+      "gas:candidate-vibid:1001000225920": 344,
+      "special:against-all": 23
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=253001018&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=325300167431&region=0&sub_region=0&type=429",
@@ -537,12 +537,12 @@ export const duma_2003_uik_428_region_25_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Гавриков Сергей Родионович": 16,
-      "Гришуков Владимир Витальевич": 54,
-      "Плевако Сергей Михайлович": 24,
-      "Романенко Татьяна Гаврииловна": 10,
-      "Усольцев Василий Иванович": 289,
-      "Против всех": 24
+      "gas:candidate-vibid:1001000136026": 16,
+      "gas:candidate-vibid:1001000121822": 54,
+      "gas:candidate-vibid:1001000190318": 24,
+      "gas:candidate-vibid:1001000113912": 10,
+      "gas:candidate-vibid:1001000225920": 289,
+      "special:against-all": 24
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=253001018&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=325300167431&region=0&sub_region=0&type=429",
@@ -592,12 +592,12 @@ export const duma_2003_uik_428_region_25_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Гавриков Сергей Родионович": 13,
-      "Гришуков Владимир Витальевич": 15,
-      "Плевако Сергей Михайлович": 9,
-      "Романенко Татьяна Гаврииловна": 8,
-      "Усольцев Василий Иванович": 89,
-      "Против всех": 32
+      "gas:candidate-vibid:1001000136026": 13,
+      "gas:candidate-vibid:1001000121822": 15,
+      "gas:candidate-vibid:1001000190318": 9,
+      "gas:candidate-vibid:1001000113912": 8,
+      "gas:candidate-vibid:1001000225920": 89,
+      "special:against-all": 32
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=253001018&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=325300167431&region=0&sub_region=0&type=429",
@@ -647,12 +647,12 @@ export const duma_2003_uik_428_region_25_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Гавриков Сергей Родионович": 25,
-      "Гришуков Владимир Витальевич": 30,
-      "Плевако Сергей Михайлович": 25,
-      "Романенко Татьяна Гаврииловна": 5,
-      "Усольцев Василий Иванович": 196,
-      "Против всех": 28
+      "gas:candidate-vibid:1001000136026": 25,
+      "gas:candidate-vibid:1001000121822": 30,
+      "gas:candidate-vibid:1001000190318": 25,
+      "gas:candidate-vibid:1001000113912": 5,
+      "gas:candidate-vibid:1001000225920": 196,
+      "special:against-all": 28
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=253001018&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=325300167431&region=0&sub_region=0&type=429",
@@ -702,12 +702,12 @@ export const duma_2003_uik_428_region_25_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Гавриков Сергей Родионович": 27,
-      "Гришуков Владимир Витальевич": 52,
-      "Плевако Сергей Михайлович": 35,
-      "Романенко Татьяна Гаврииловна": 13,
-      "Усольцев Василий Иванович": 207,
-      "Против всех": 34
+      "gas:candidate-vibid:1001000136026": 27,
+      "gas:candidate-vibid:1001000121822": 52,
+      "gas:candidate-vibid:1001000190318": 35,
+      "gas:candidate-vibid:1001000113912": 13,
+      "gas:candidate-vibid:1001000225920": 207,
+      "special:against-all": 34
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=253001018&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=325300167431&region=0&sub_region=0&type=429",
@@ -757,12 +757,12 @@ export const duma_2003_uik_428_region_25_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Гавриков Сергей Родионович": 30,
-      "Гришуков Владимир Витальевич": 25,
-      "Плевако Сергей Михайлович": 33,
-      "Романенко Татьяна Гаврииловна": 9,
-      "Усольцев Василий Иванович": 119,
-      "Против всех": 28
+      "gas:candidate-vibid:1001000136026": 30,
+      "gas:candidate-vibid:1001000121822": 25,
+      "gas:candidate-vibid:1001000190318": 33,
+      "gas:candidate-vibid:1001000113912": 9,
+      "gas:candidate-vibid:1001000225920": 119,
+      "special:against-all": 28
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=253001018&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=325300167431&region=0&sub_region=0&type=429",
@@ -812,12 +812,12 @@ export const duma_2003_uik_428_region_25_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Гавриков Сергей Родионович": 58,
-      "Гришуков Владимир Витальевич": 176,
-      "Плевако Сергей Михайлович": 111,
-      "Романенко Татьяна Гаврииловна": 20,
-      "Усольцев Василий Иванович": 273,
-      "Против всех": 36
+      "gas:candidate-vibid:1001000136026": 58,
+      "gas:candidate-vibid:1001000121822": 176,
+      "gas:candidate-vibid:1001000190318": 111,
+      "gas:candidate-vibid:1001000113912": 20,
+      "gas:candidate-vibid:1001000225920": 273,
+      "special:against-all": 36
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=253001018&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=325300167431&region=0&sub_region=0&type=429",
@@ -867,12 +867,12 @@ export const duma_2003_uik_428_region_25_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Гавриков Сергей Родионович": 31,
-      "Гришуков Владимир Витальевич": 88,
-      "Плевако Сергей Михайлович": 43,
-      "Романенко Татьяна Гаврииловна": 23,
-      "Усольцев Василий Иванович": 250,
-      "Против всех": 35
+      "gas:candidate-vibid:1001000136026": 31,
+      "gas:candidate-vibid:1001000121822": 88,
+      "gas:candidate-vibid:1001000190318": 43,
+      "gas:candidate-vibid:1001000113912": 23,
+      "gas:candidate-vibid:1001000225920": 250,
+      "special:against-all": 35
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=253001018&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=325300167431&region=0&sub_region=0&type=429",
@@ -922,12 +922,12 @@ export const duma_2003_uik_428_region_25_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Гавриков Сергей Родионович": 12,
-      "Гришуков Владимир Витальевич": 50,
-      "Плевако Сергей Михайлович": 26,
-      "Романенко Татьяна Гаврииловна": 2,
-      "Усольцев Василий Иванович": 128,
-      "Против всех": 31
+      "gas:candidate-vibid:1001000136026": 12,
+      "gas:candidate-vibid:1001000121822": 50,
+      "gas:candidate-vibid:1001000190318": 26,
+      "gas:candidate-vibid:1001000113912": 2,
+      "gas:candidate-vibid:1001000225920": 128,
+      "special:against-all": 31
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=253001018&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=325300167431&region=0&sub_region=0&type=429",
@@ -977,12 +977,12 @@ export const duma_2003_uik_428_region_25_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Гавриков Сергей Родионович": 190,
-      "Гришуков Владимир Витальевич": 196,
-      "Плевако Сергей Михайлович": 140,
-      "Романенко Татьяна Гаврииловна": 58,
-      "Усольцев Василий Иванович": 445,
-      "Против всех": 201
+      "gas:candidate-vibid:1001000136026": 190,
+      "gas:candidate-vibid:1001000121822": 196,
+      "gas:candidate-vibid:1001000190318": 140,
+      "gas:candidate-vibid:1001000113912": 58,
+      "gas:candidate-vibid:1001000225920": 445,
+      "special:against-all": 201
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=253001018&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=325300167431&region=0&sub_region=0&type=429",
@@ -1032,12 +1032,12 @@ export const duma_2003_uik_428_region_25_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Гавриков Сергей Родионович": 100,
-      "Гришуков Владимир Витальевич": 165,
-      "Плевако Сергей Михайлович": 156,
-      "Романенко Татьяна Гаврииловна": 31,
-      "Усольцев Василий Иванович": 345,
-      "Против всех": 76
+      "gas:candidate-vibid:1001000136026": 100,
+      "gas:candidate-vibid:1001000121822": 165,
+      "gas:candidate-vibid:1001000190318": 156,
+      "gas:candidate-vibid:1001000113912": 31,
+      "gas:candidate-vibid:1001000225920": 345,
+      "special:against-all": 76
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=253001018&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=325300167431&region=0&sub_region=0&type=429",
@@ -1087,12 +1087,12 @@ export const duma_2003_uik_428_region_25_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Гавриков Сергей Родионович": 46,
-      "Гришуков Владимир Витальевич": 101,
-      "Плевако Сергей Михайлович": 30,
-      "Романенко Татьяна Гаврииловна": 9,
-      "Усольцев Василий Иванович": 199,
-      "Против всех": 26
+      "gas:candidate-vibid:1001000136026": 46,
+      "gas:candidate-vibid:1001000121822": 101,
+      "gas:candidate-vibid:1001000190318": 30,
+      "gas:candidate-vibid:1001000113912": 9,
+      "gas:candidate-vibid:1001000225920": 199,
+      "special:against-all": 26
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=253001018&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=325300167431&region=0&sub_region=0&type=429",
@@ -1142,12 +1142,12 @@ export const duma_2003_uik_428_region_25_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Гавриков Сергей Родионович": 6,
-      "Гришуков Владимир Витальевич": 8,
-      "Плевако Сергей Михайлович": 0,
-      "Романенко Татьяна Гаврииловна": 0,
-      "Усольцев Василий Иванович": 179,
-      "Против всех": 17
+      "gas:candidate-vibid:1001000136026": 6,
+      "gas:candidate-vibid:1001000121822": 8,
+      "gas:candidate-vibid:1001000190318": 0,
+      "gas:candidate-vibid:1001000113912": 0,
+      "gas:candidate-vibid:1001000225920": 179,
+      "special:against-all": 17
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=253001018&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=325300167431&region=0&sub_region=0&type=429",
@@ -1197,12 +1197,12 @@ export const duma_2003_uik_428_region_25_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Гавриков Сергей Родионович": 11,
-      "Гришуков Владимир Витальевич": 12,
-      "Плевако Сергей Михайлович": 14,
-      "Романенко Татьяна Гаврииловна": 1,
-      "Усольцев Василий Иванович": 126,
-      "Против всех": 22
+      "gas:candidate-vibid:1001000136026": 11,
+      "gas:candidate-vibid:1001000121822": 12,
+      "gas:candidate-vibid:1001000190318": 14,
+      "gas:candidate-vibid:1001000113912": 1,
+      "gas:candidate-vibid:1001000225920": 126,
+      "special:against-all": 22
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=253001018&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=325300167431&region=0&sub_region=0&type=429",
@@ -1252,12 +1252,12 @@ export const duma_2003_uik_428_region_25_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Гавриков Сергей Родионович": 26,
-      "Гришуков Владимир Витальевич": 50,
-      "Плевако Сергей Михайлович": 26,
-      "Романенко Татьяна Гаврииловна": 4,
-      "Усольцев Василий Иванович": 190,
-      "Против всех": 24
+      "gas:candidate-vibid:1001000136026": 26,
+      "gas:candidate-vibid:1001000121822": 50,
+      "gas:candidate-vibid:1001000190318": 26,
+      "gas:candidate-vibid:1001000113912": 4,
+      "gas:candidate-vibid:1001000225920": 190,
+      "special:against-all": 24
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=253001018&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=325300167431&region=0&sub_region=0&type=429",
@@ -1307,12 +1307,12 @@ export const duma_2003_uik_428_region_25_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Гавриков Сергей Родионович": 19,
-      "Гришуков Владимир Витальевич": 88,
-      "Плевако Сергей Михайлович": 12,
-      "Романенко Татьяна Гаврииловна": 1,
-      "Усольцев Василий Иванович": 321,
-      "Против всех": 27
+      "gas:candidate-vibid:1001000136026": 19,
+      "gas:candidate-vibid:1001000121822": 88,
+      "gas:candidate-vibid:1001000190318": 12,
+      "gas:candidate-vibid:1001000113912": 1,
+      "gas:candidate-vibid:1001000225920": 321,
+      "special:against-all": 27
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=253001018&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=325300167431&region=0&sub_region=0&type=429",
@@ -1362,12 +1362,12 @@ export const duma_2003_uik_428_region_25_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Гавриков Сергей Родионович": 30,
-      "Гришуков Владимир Витальевич": 99,
-      "Плевако Сергей Михайлович": 25,
-      "Романенко Татьяна Гаврииловна": 5,
-      "Усольцев Василий Иванович": 303,
-      "Против всех": 34
+      "gas:candidate-vibid:1001000136026": 30,
+      "gas:candidate-vibid:1001000121822": 99,
+      "gas:candidate-vibid:1001000190318": 25,
+      "gas:candidate-vibid:1001000113912": 5,
+      "gas:candidate-vibid:1001000225920": 303,
+      "special:against-all": 34
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=253001018&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=325300167431&region=0&sub_region=0&type=429",
@@ -1417,12 +1417,12 @@ export const duma_2003_uik_428_region_25_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Гавриков Сергей Родионович": 10,
-      "Гришуков Владимир Витальевич": 0,
-      "Плевако Сергей Михайлович": 3,
-      "Романенко Татьяна Гаврииловна": 1,
-      "Усольцев Василий Иванович": 78,
-      "Против всех": 4
+      "gas:candidate-vibid:1001000136026": 10,
+      "gas:candidate-vibid:1001000121822": 0,
+      "gas:candidate-vibid:1001000190318": 3,
+      "gas:candidate-vibid:1001000113912": 1,
+      "gas:candidate-vibid:1001000225920": 78,
+      "special:against-all": 4
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=253001018&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=325300167431&region=0&sub_region=0&type=429",
@@ -1472,12 +1472,12 @@ export const duma_2003_uik_428_region_25_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Гавриков Сергей Родионович": 2,
-      "Гришуков Владимир Витальевич": 15,
-      "Плевако Сергей Михайлович": 7,
-      "Романенко Татьяна Гаврииловна": 0,
-      "Усольцев Василий Иванович": 52,
-      "Против всех": 9
+      "gas:candidate-vibid:1001000136026": 2,
+      "gas:candidate-vibid:1001000121822": 15,
+      "gas:candidate-vibid:1001000190318": 7,
+      "gas:candidate-vibid:1001000113912": 0,
+      "gas:candidate-vibid:1001000225920": 52,
+      "special:against-all": 9
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=253001018&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=325300167431&region=0&sub_region=0&type=429",
@@ -1527,12 +1527,12 @@ export const duma_2003_uik_428_region_25_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Гавриков Сергей Родионович": 5,
-      "Гришуков Владимир Витальевич": 13,
-      "Плевако Сергей Михайлович": 13,
-      "Романенко Татьяна Гаврииловна": 4,
-      "Усольцев Василий Иванович": 96,
-      "Против всех": 16
+      "gas:candidate-vibid:1001000136026": 5,
+      "gas:candidate-vibid:1001000121822": 13,
+      "gas:candidate-vibid:1001000190318": 13,
+      "gas:candidate-vibid:1001000113912": 4,
+      "gas:candidate-vibid:1001000225920": 96,
+      "special:against-all": 16
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=253001018&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=325300167431&region=0&sub_region=0&type=429",
@@ -1582,12 +1582,12 @@ export const duma_2003_uik_428_region_25_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Гавриков Сергей Родионович": 4,
-      "Гришуков Владимир Витальевич": 51,
-      "Плевако Сергей Михайлович": 10,
-      "Романенко Татьяна Гаврииловна": 1,
-      "Усольцев Василий Иванович": 91,
-      "Против всех": 8
+      "gas:candidate-vibid:1001000136026": 4,
+      "gas:candidate-vibid:1001000121822": 51,
+      "gas:candidate-vibid:1001000190318": 10,
+      "gas:candidate-vibid:1001000113912": 1,
+      "gas:candidate-vibid:1001000225920": 91,
+      "special:against-all": 8
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=253001018&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=325300167431&region=0&sub_region=0&type=429",
@@ -1637,12 +1637,12 @@ export const duma_2003_uik_428_region_25_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Гавриков Сергей Родионович": 4,
-      "Гришуков Владимир Витальевич": 85,
-      "Плевако Сергей Михайлович": 20,
-      "Романенко Татьяна Гаврииловна": 5,
-      "Усольцев Василий Иванович": 83,
-      "Против всех": 21
+      "gas:candidate-vibid:1001000136026": 4,
+      "gas:candidate-vibid:1001000121822": 85,
+      "gas:candidate-vibid:1001000190318": 20,
+      "gas:candidate-vibid:1001000113912": 5,
+      "gas:candidate-vibid:1001000225920": 83,
+      "special:against-all": 21
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=253001018&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=325300167431&region=0&sub_region=0&type=429",
@@ -1692,12 +1692,12 @@ export const duma_2003_uik_428_region_25_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Гавриков Сергей Родионович": 25,
-      "Гришуков Владимир Витальевич": 60,
-      "Плевако Сергей Михайлович": 48,
-      "Романенко Татьяна Гаврииловна": 10,
-      "Усольцев Василий Иванович": 474,
-      "Против всех": 32
+      "gas:candidate-vibid:1001000136026": 25,
+      "gas:candidate-vibid:1001000121822": 60,
+      "gas:candidate-vibid:1001000190318": 48,
+      "gas:candidate-vibid:1001000113912": 10,
+      "gas:candidate-vibid:1001000225920": 474,
+      "special:against-all": 32
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=253001018&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=325300167431&region=0&sub_region=0&type=429",
@@ -1747,12 +1747,12 @@ export const duma_2003_uik_428_region_25_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Гавриков Сергей Родионович": 4,
-      "Гришуков Владимир Витальевич": 2,
-      "Плевако Сергей Михайлович": 3,
-      "Романенко Татьяна Гаврииловна": 2,
-      "Усольцев Василий Иванович": 97,
-      "Против всех": 4
+      "gas:candidate-vibid:1001000136026": 4,
+      "gas:candidate-vibid:1001000121822": 2,
+      "gas:candidate-vibid:1001000190318": 3,
+      "gas:candidate-vibid:1001000113912": 2,
+      "gas:candidate-vibid:1001000225920": 97,
+      "special:against-all": 4
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=253001018&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=325300167431&region=0&sub_region=0&type=429",
@@ -1802,12 +1802,12 @@ export const duma_2003_uik_428_region_25_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Гавриков Сергей Родионович": 38,
-      "Гришуков Владимир Витальевич": 99,
-      "Плевако Сергей Михайлович": 107,
-      "Романенко Татьяна Гаврииловна": 30,
-      "Усольцев Василий Иванович": 195,
-      "Против всех": 40
+      "gas:candidate-vibid:1001000136026": 38,
+      "gas:candidate-vibid:1001000121822": 99,
+      "gas:candidate-vibid:1001000190318": 107,
+      "gas:candidate-vibid:1001000113912": 30,
+      "gas:candidate-vibid:1001000225920": 195,
+      "special:against-all": 40
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=253001018&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=325300167431&region=0&sub_region=0&type=429",
@@ -1857,12 +1857,12 @@ export const duma_2003_uik_428_region_25_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Гавриков Сергей Родионович": 1,
-      "Гришуков Владимир Витальевич": 7,
-      "Плевако Сергей Михайлович": 2,
-      "Романенко Татьяна Гаврииловна": 3,
-      "Усольцев Василий Иванович": 53,
-      "Против всех": 8
+      "gas:candidate-vibid:1001000136026": 1,
+      "gas:candidate-vibid:1001000121822": 7,
+      "gas:candidate-vibid:1001000190318": 2,
+      "gas:candidate-vibid:1001000113912": 3,
+      "gas:candidate-vibid:1001000225920": 53,
+      "special:against-all": 8
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=253001018&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=325300167431&region=0&sub_region=0&type=429",
@@ -1912,12 +1912,12 @@ export const duma_2003_uik_428_region_25_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Гавриков Сергей Родионович": 3,
-      "Гришуков Владимир Витальевич": 12,
-      "Плевако Сергей Михайлович": 13,
-      "Романенко Татьяна Гаврииловна": 13,
-      "Усольцев Василий Иванович": 141,
-      "Против всех": 15
+      "gas:candidate-vibid:1001000136026": 3,
+      "gas:candidate-vibid:1001000121822": 12,
+      "gas:candidate-vibid:1001000190318": 13,
+      "gas:candidate-vibid:1001000113912": 13,
+      "gas:candidate-vibid:1001000225920": 141,
+      "special:against-all": 15
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=253001018&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=325300167431&region=0&sub_region=0&type=429",
@@ -1967,12 +1967,12 @@ export const duma_2003_uik_428_region_25_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Гавриков Сергей Родионович": 14,
-      "Гришуков Владимир Витальевич": 37,
-      "Плевако Сергей Михайлович": 67,
-      "Романенко Татьяна Гаврииловна": 15,
-      "Усольцев Василий Иванович": 289,
-      "Против всех": 23
+      "gas:candidate-vibid:1001000136026": 14,
+      "gas:candidate-vibid:1001000121822": 37,
+      "gas:candidate-vibid:1001000190318": 67,
+      "gas:candidate-vibid:1001000113912": 15,
+      "gas:candidate-vibid:1001000225920": 289,
+      "special:against-all": 23
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=253001018&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=325300167431&region=0&sub_region=0&type=429",
@@ -2022,12 +2022,12 @@ export const duma_2003_uik_428_region_25_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Гавриков Сергей Родионович": 13,
-      "Гришуков Владимир Витальевич": 32,
-      "Плевако Сергей Михайлович": 10,
-      "Романенко Татьяна Гаврииловна": 5,
-      "Усольцев Василий Иванович": 101,
-      "Против всех": 10
+      "gas:candidate-vibid:1001000136026": 13,
+      "gas:candidate-vibid:1001000121822": 32,
+      "gas:candidate-vibid:1001000190318": 10,
+      "gas:candidate-vibid:1001000113912": 5,
+      "gas:candidate-vibid:1001000225920": 101,
+      "special:against-all": 10
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=253001018&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=325300167431&region=0&sub_region=0&type=429",
@@ -2077,12 +2077,12 @@ export const duma_2003_uik_428_region_25_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Гавриков Сергей Родионович": 3,
-      "Гришуков Владимир Витальевич": 22,
-      "Плевако Сергей Михайлович": 9,
-      "Романенко Татьяна Гаврииловна": 3,
-      "Усольцев Василий Иванович": 195,
-      "Против всех": 12
+      "gas:candidate-vibid:1001000136026": 3,
+      "gas:candidate-vibid:1001000121822": 22,
+      "gas:candidate-vibid:1001000190318": 9,
+      "gas:candidate-vibid:1001000113912": 3,
+      "gas:candidate-vibid:1001000225920": 195,
+      "special:against-all": 12
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=253001018&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=325300167431&region=0&sub_region=0&type=429",
@@ -2132,12 +2132,12 @@ export const duma_2003_uik_428_region_25_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Гавриков Сергей Родионович": 60,
-      "Гришуков Владимир Витальевич": 272,
-      "Плевако Сергей Михайлович": 95,
-      "Романенко Татьяна Гаврииловна": 37,
-      "Усольцев Василий Иванович": 632,
-      "Против всех": 105
+      "gas:candidate-vibid:1001000136026": 60,
+      "gas:candidate-vibid:1001000121822": 272,
+      "gas:candidate-vibid:1001000190318": 95,
+      "gas:candidate-vibid:1001000113912": 37,
+      "gas:candidate-vibid:1001000225920": 632,
+      "special:against-all": 105
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=253001019&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=325300167432&region=0&sub_region=0&type=429",
@@ -2187,12 +2187,12 @@ export const duma_2003_uik_428_region_25_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Гавриков Сергей Родионович": 82,
-      "Гришуков Владимир Витальевич": 52,
-      "Плевако Сергей Михайлович": 103,
-      "Романенко Татьяна Гаврииловна": 40,
-      "Усольцев Василий Иванович": 167,
-      "Против всех": 130
+      "gas:candidate-vibid:1001000136026": 82,
+      "gas:candidate-vibid:1001000121822": 52,
+      "gas:candidate-vibid:1001000190318": 103,
+      "gas:candidate-vibid:1001000113912": 40,
+      "gas:candidate-vibid:1001000225920": 167,
+      "special:against-all": 130
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=253001019&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=325300167432&region=0&sub_region=0&type=429",
@@ -2242,12 +2242,12 @@ export const duma_2003_uik_428_region_25_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Гавриков Сергей Родионович": 21,
-      "Гришуков Владимир Витальевич": 78,
-      "Плевако Сергей Михайлович": 16,
-      "Романенко Татьяна Гаврииловна": 13,
-      "Усольцев Василий Иванович": 214,
-      "Против всех": 35
+      "gas:candidate-vibid:1001000136026": 21,
+      "gas:candidate-vibid:1001000121822": 78,
+      "gas:candidate-vibid:1001000190318": 16,
+      "gas:candidate-vibid:1001000113912": 13,
+      "gas:candidate-vibid:1001000225920": 214,
+      "special:against-all": 35
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=253001019&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=325300167432&region=0&sub_region=0&type=429",
@@ -2297,12 +2297,12 @@ export const duma_2003_uik_428_region_25_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Гавриков Сергей Родионович": 16,
-      "Гришуков Владимир Витальевич": 60,
-      "Плевако Сергей Михайлович": 31,
-      "Романенко Татьяна Гаврииловна": 4,
-      "Усольцев Василий Иванович": 171,
-      "Против всех": 37
+      "gas:candidate-vibid:1001000136026": 16,
+      "gas:candidate-vibid:1001000121822": 60,
+      "gas:candidate-vibid:1001000190318": 31,
+      "gas:candidate-vibid:1001000113912": 4,
+      "gas:candidate-vibid:1001000225920": 171,
+      "special:against-all": 37
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=253001019&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=325300167432&region=0&sub_region=0&type=429",
@@ -2352,12 +2352,12 @@ export const duma_2003_uik_428_region_25_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Гавриков Сергей Родионович": 1,
-      "Гришуков Владимир Витальевич": 11,
-      "Плевако Сергей Михайлович": 0,
-      "Романенко Татьяна Гаврииловна": 1,
-      "Усольцев Василий Иванович": 42,
-      "Против всех": 6
+      "gas:candidate-vibid:1001000136026": 1,
+      "gas:candidate-vibid:1001000121822": 11,
+      "gas:candidate-vibid:1001000190318": 0,
+      "gas:candidate-vibid:1001000113912": 1,
+      "gas:candidate-vibid:1001000225920": 42,
+      "special:against-all": 6
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=253001019&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=325300167432&region=0&sub_region=0&type=429",
@@ -2407,12 +2407,12 @@ export const duma_2003_uik_428_region_25_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Гавриков Сергей Родионович": 17,
-      "Гришуков Владимир Витальевич": 69,
-      "Плевако Сергей Михайлович": 12,
-      "Романенко Татьяна Гаврииловна": 2,
-      "Усольцев Василий Иванович": 117,
-      "Против всех": 35
+      "gas:candidate-vibid:1001000136026": 17,
+      "gas:candidate-vibid:1001000121822": 69,
+      "gas:candidate-vibid:1001000190318": 12,
+      "gas:candidate-vibid:1001000113912": 2,
+      "gas:candidate-vibid:1001000225920": 117,
+      "special:against-all": 35
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=253001019&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=325300167432&region=0&sub_region=0&type=429",
@@ -2462,12 +2462,12 @@ export const duma_2003_uik_428_region_25_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Гавриков Сергей Родионович": 19,
-      "Гришуков Владимир Витальевич": 82,
-      "Плевако Сергей Михайлович": 7,
-      "Романенко Татьяна Гаврииловна": 7,
-      "Усольцев Василий Иванович": 99,
-      "Против всех": 14
+      "gas:candidate-vibid:1001000136026": 19,
+      "gas:candidate-vibid:1001000121822": 82,
+      "gas:candidate-vibid:1001000190318": 7,
+      "gas:candidate-vibid:1001000113912": 7,
+      "gas:candidate-vibid:1001000225920": 99,
+      "special:against-all": 14
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=253001019&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=325300167432&region=0&sub_region=0&type=429",
@@ -2517,12 +2517,12 @@ export const duma_2003_uik_428_region_25_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Гавриков Сергей Родионович": 20,
-      "Гришуков Владимир Витальевич": 20,
-      "Плевако Сергей Михайлович": 7,
-      "Романенко Татьяна Гаврииловна": 0,
-      "Усольцев Василий Иванович": 189,
-      "Против всех": 40
+      "gas:candidate-vibid:1001000136026": 20,
+      "gas:candidate-vibid:1001000121822": 20,
+      "gas:candidate-vibid:1001000190318": 7,
+      "gas:candidate-vibid:1001000113912": 0,
+      "gas:candidate-vibid:1001000225920": 189,
+      "special:against-all": 40
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=253001019&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=325300167432&region=0&sub_region=0&type=429",
@@ -2572,12 +2572,12 @@ export const duma_2003_uik_428_region_25_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Гавриков Сергей Родионович": 6,
-      "Гришуков Владимир Витальевич": 29,
-      "Плевако Сергей Михайлович": 5,
-      "Романенко Татьяна Гаврииловна": 2,
-      "Усольцев Василий Иванович": 41,
-      "Против всех": 8
+      "gas:candidate-vibid:1001000136026": 6,
+      "gas:candidate-vibid:1001000121822": 29,
+      "gas:candidate-vibid:1001000190318": 5,
+      "gas:candidate-vibid:1001000113912": 2,
+      "gas:candidate-vibid:1001000225920": 41,
+      "special:against-all": 8
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=253001019&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=325300167432&region=0&sub_region=0&type=429",
@@ -2627,12 +2627,12 @@ export const duma_2003_uik_428_region_25_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Гавриков Сергей Родионович": 9,
-      "Гришуков Владимир Витальевич": 46,
-      "Плевако Сергей Михайлович": 4,
-      "Романенко Татьяна Гаврииловна": 1,
-      "Усольцев Василий Иванович": 54,
-      "Против всех": 13
+      "gas:candidate-vibid:1001000136026": 9,
+      "gas:candidate-vibid:1001000121822": 46,
+      "gas:candidate-vibid:1001000190318": 4,
+      "gas:candidate-vibid:1001000113912": 1,
+      "gas:candidate-vibid:1001000225920": 54,
+      "special:against-all": 13
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=253001019&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=325300167432&region=0&sub_region=0&type=429",
@@ -2682,12 +2682,12 @@ export const duma_2003_uik_428_region_25_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Гавриков Сергей Родионович": 8,
-      "Гришуков Владимир Витальевич": 44,
-      "Плевако Сергей Михайлович": 1,
-      "Романенко Татьяна Гаврииловна": 3,
-      "Усольцев Василий Иванович": 198,
-      "Против всех": 12
+      "gas:candidate-vibid:1001000136026": 8,
+      "gas:candidate-vibid:1001000121822": 44,
+      "gas:candidate-vibid:1001000190318": 1,
+      "gas:candidate-vibid:1001000113912": 3,
+      "gas:candidate-vibid:1001000225920": 198,
+      "special:against-all": 12
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=253001019&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=325300167432&region=0&sub_region=0&type=429",
@@ -2737,12 +2737,12 @@ export const duma_2003_uik_428_region_25_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Гавриков Сергей Родионович": 1,
-      "Гришуков Владимир Витальевич": 24,
-      "Плевако Сергей Михайлович": 0,
-      "Романенко Татьяна Гаврииловна": 1,
-      "Усольцев Василий Иванович": 56,
-      "Против всех": 4
+      "gas:candidate-vibid:1001000136026": 1,
+      "gas:candidate-vibid:1001000121822": 24,
+      "gas:candidate-vibid:1001000190318": 0,
+      "gas:candidate-vibid:1001000113912": 1,
+      "gas:candidate-vibid:1001000225920": 56,
+      "special:against-all": 4
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=253001019&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=325300167432&region=0&sub_region=0&type=429",
@@ -2792,12 +2792,12 @@ export const duma_2003_uik_428_region_25_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Гавриков Сергей Родионович": 3,
-      "Гришуков Владимир Витальевич": 21,
-      "Плевако Сергей Михайлович": 0,
-      "Романенко Татьяна Гаврииловна": 4,
-      "Усольцев Василий Иванович": 41,
-      "Против всех": 7
+      "gas:candidate-vibid:1001000136026": 3,
+      "gas:candidate-vibid:1001000121822": 21,
+      "gas:candidate-vibid:1001000190318": 0,
+      "gas:candidate-vibid:1001000113912": 4,
+      "gas:candidate-vibid:1001000225920": 41,
+      "special:against-all": 7
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=253001019&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=325300167432&region=0&sub_region=0&type=429",
@@ -2847,12 +2847,12 @@ export const duma_2003_uik_428_region_25_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Гавриков Сергей Родионович": 3,
-      "Гришуков Владимир Витальевич": 14,
-      "Плевако Сергей Михайлович": 2,
-      "Романенко Татьяна Гаврииловна": 1,
-      "Усольцев Василий Иванович": 43,
-      "Против всех": 3
+      "gas:candidate-vibid:1001000136026": 3,
+      "gas:candidate-vibid:1001000121822": 14,
+      "gas:candidate-vibid:1001000190318": 2,
+      "gas:candidate-vibid:1001000113912": 1,
+      "gas:candidate-vibid:1001000225920": 43,
+      "special:against-all": 3
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=253001019&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=325300167432&region=0&sub_region=0&type=429",
@@ -2902,12 +2902,12 @@ export const duma_2003_uik_428_region_25_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Гавриков Сергей Родионович": 35,
-      "Гришуков Владимир Витальевич": 267,
-      "Плевако Сергей Михайлович": 43,
-      "Романенко Татьяна Гаврииловна": 9,
-      "Усольцев Василий Иванович": 265,
-      "Против всех": 55
+      "gas:candidate-vibid:1001000136026": 35,
+      "gas:candidate-vibid:1001000121822": 267,
+      "gas:candidate-vibid:1001000190318": 43,
+      "gas:candidate-vibid:1001000113912": 9,
+      "gas:candidate-vibid:1001000225920": 265,
+      "special:against-all": 55
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=253001019&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=325300167432&region=0&sub_region=0&type=429",
@@ -2957,12 +2957,12 @@ export const duma_2003_uik_428_region_25_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Гавриков Сергей Родионович": 25,
-      "Гришуков Владимир Витальевич": 85,
-      "Плевако Сергей Михайлович": 37,
-      "Романенко Татьяна Гаврииловна": 10,
-      "Усольцев Василий Иванович": 403,
-      "Против всех": 36
+      "gas:candidate-vibid:1001000136026": 25,
+      "gas:candidate-vibid:1001000121822": 85,
+      "gas:candidate-vibid:1001000190318": 37,
+      "gas:candidate-vibid:1001000113912": 10,
+      "gas:candidate-vibid:1001000225920": 403,
+      "special:against-all": 36
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=253001019&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=325300167432&region=0&sub_region=0&type=429",
@@ -3012,12 +3012,12 @@ export const duma_2003_uik_428_region_25_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Гавриков Сергей Родионович": 3,
-      "Гришуков Владимир Витальевич": 14,
-      "Плевако Сергей Михайлович": 6,
-      "Романенко Татьяна Гаврииловна": 2,
-      "Усольцев Василий Иванович": 113,
-      "Против всех": 6
+      "gas:candidate-vibid:1001000136026": 3,
+      "gas:candidate-vibid:1001000121822": 14,
+      "gas:candidate-vibid:1001000190318": 6,
+      "gas:candidate-vibid:1001000113912": 2,
+      "gas:candidate-vibid:1001000225920": 113,
+      "special:against-all": 6
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=253001019&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=325300167432&region=0&sub_region=0&type=429",
@@ -3067,12 +3067,12 @@ export const duma_2003_uik_428_region_25_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Гавриков Сергей Родионович": 18,
-      "Гришуков Владимир Витальевич": 66,
-      "Плевако Сергей Михайлович": 22,
-      "Романенко Татьяна Гаврииловна": 7,
-      "Усольцев Василий Иванович": 118,
-      "Против всех": 14
+      "gas:candidate-vibid:1001000136026": 18,
+      "gas:candidate-vibid:1001000121822": 66,
+      "gas:candidate-vibid:1001000190318": 22,
+      "gas:candidate-vibid:1001000113912": 7,
+      "gas:candidate-vibid:1001000225920": 118,
+      "special:against-all": 14
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=253001019&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=325300167432&region=0&sub_region=0&type=429",
@@ -3122,12 +3122,12 @@ export const duma_2003_uik_428_region_25_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Гавриков Сергей Родионович": 9,
-      "Гришуков Владимир Витальевич": 49,
-      "Плевако Сергей Михайлович": 18,
-      "Романенко Татьяна Гаврииловна": 2,
-      "Усольцев Василий Иванович": 86,
-      "Против всех": 25
+      "gas:candidate-vibid:1001000136026": 9,
+      "gas:candidate-vibid:1001000121822": 49,
+      "gas:candidate-vibid:1001000190318": 18,
+      "gas:candidate-vibid:1001000113912": 2,
+      "gas:candidate-vibid:1001000225920": 86,
+      "special:against-all": 25
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=253001019&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=325300167432&region=0&sub_region=0&type=429",
@@ -3177,12 +3177,12 @@ export const duma_2003_uik_428_region_25_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Гавриков Сергей Родионович": 15,
-      "Гришуков Владимир Витальевич": 77,
-      "Плевако Сергей Михайлович": 21,
-      "Романенко Татьяна Гаврииловна": 10,
-      "Усольцев Василий Иванович": 208,
-      "Против всех": 45
+      "gas:candidate-vibid:1001000136026": 15,
+      "gas:candidate-vibid:1001000121822": 77,
+      "gas:candidate-vibid:1001000190318": 21,
+      "gas:candidate-vibid:1001000113912": 10,
+      "gas:candidate-vibid:1001000225920": 208,
+      "special:against-all": 45
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=253001019&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=325300167432&region=0&sub_region=0&type=429",
@@ -3232,12 +3232,12 @@ export const duma_2003_uik_428_region_25_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Гавриков Сергей Родионович": 14,
-      "Гришуков Владимир Витальевич": 17,
-      "Плевако Сергей Михайлович": 21,
-      "Романенко Татьяна Гаврииловна": 5,
-      "Усольцев Василий Иванович": 127,
-      "Против всех": 14
+      "gas:candidate-vibid:1001000136026": 14,
+      "gas:candidate-vibid:1001000121822": 17,
+      "gas:candidate-vibid:1001000190318": 21,
+      "gas:candidate-vibid:1001000113912": 5,
+      "gas:candidate-vibid:1001000225920": 127,
+      "special:against-all": 14
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=253001019&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=325300167432&region=0&sub_region=0&type=429",
@@ -3287,12 +3287,12 @@ export const duma_2003_uik_428_region_25_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Гавриков Сергей Родионович": 121,
-      "Гришуков Владимир Витальевич": 150,
-      "Плевако Сергей Михайлович": 89,
-      "Романенко Татьяна Гаврииловна": 39,
-      "Усольцев Василий Иванович": 612,
-      "Против всех": 167
+      "gas:candidate-vibid:1001000136026": 121,
+      "gas:candidate-vibid:1001000121822": 150,
+      "gas:candidate-vibid:1001000190318": 89,
+      "gas:candidate-vibid:1001000113912": 39,
+      "gas:candidate-vibid:1001000225920": 612,
+      "special:against-all": 167
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=253001019&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=325300167432&region=0&sub_region=0&type=429",
@@ -3342,12 +3342,12 @@ export const duma_2003_uik_428_region_25_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Гавриков Сергей Родионович": 2,
-      "Гришуков Владимир Витальевич": 54,
-      "Плевако Сергей Михайлович": 10,
-      "Романенко Татьяна Гаврииловна": 2,
-      "Усольцев Василий Иванович": 92,
-      "Против всех": 15
+      "gas:candidate-vibid:1001000136026": 2,
+      "gas:candidate-vibid:1001000121822": 54,
+      "gas:candidate-vibid:1001000190318": 10,
+      "gas:candidate-vibid:1001000113912": 2,
+      "gas:candidate-vibid:1001000225920": 92,
+      "special:against-all": 15
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=253001019&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=325300167432&region=0&sub_region=0&type=429",
@@ -3397,12 +3397,12 @@ export const duma_2003_uik_428_region_25_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Гавриков Сергей Родионович": 5,
-      "Гришуков Владимир Витальевич": 24,
-      "Плевако Сергей Михайлович": 2,
-      "Романенко Татьяна Гаврииловна": 4,
-      "Усольцев Василий Иванович": 87,
-      "Против всех": 5
+      "gas:candidate-vibid:1001000136026": 5,
+      "gas:candidate-vibid:1001000121822": 24,
+      "gas:candidate-vibid:1001000190318": 2,
+      "gas:candidate-vibid:1001000113912": 4,
+      "gas:candidate-vibid:1001000225920": 87,
+      "special:against-all": 5
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=253001019&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=325300167432&region=0&sub_region=0&type=429",
@@ -3452,12 +3452,12 @@ export const duma_2003_uik_428_region_25_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Гавриков Сергей Родионович": 74,
-      "Гришуков Владимир Витальевич": 53,
-      "Плевако Сергей Михайлович": 36,
-      "Романенко Татьяна Гаврииловна": 40,
-      "Усольцев Василий Иванович": 344,
-      "Против всех": 124
+      "gas:candidate-vibid:1001000136026": 74,
+      "gas:candidate-vibid:1001000121822": 53,
+      "gas:candidate-vibid:1001000190318": 36,
+      "gas:candidate-vibid:1001000113912": 40,
+      "gas:candidate-vibid:1001000225920": 344,
+      "special:against-all": 124
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=253001019&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=325300167432&region=0&sub_region=0&type=429",
@@ -3507,12 +3507,12 @@ export const duma_2003_uik_428_region_25_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Гавриков Сергей Родионович": 25,
-      "Гришуков Владимир Витальевич": 15,
-      "Плевако Сергей Михайлович": 11,
-      "Романенко Татьяна Гаврииловна": 4,
-      "Усольцев Василий Иванович": 81,
-      "Против всех": 21
+      "gas:candidate-vibid:1001000136026": 25,
+      "gas:candidate-vibid:1001000121822": 15,
+      "gas:candidate-vibid:1001000190318": 11,
+      "gas:candidate-vibid:1001000113912": 4,
+      "gas:candidate-vibid:1001000225920": 81,
+      "special:against-all": 21
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=253001019&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=325300167432&region=0&sub_region=0&type=429",
@@ -3562,12 +3562,12 @@ export const duma_2003_uik_428_region_25_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Гавриков Сергей Родионович": 2,
-      "Гришуков Владимир Витальевич": 1,
-      "Плевако Сергей Михайлович": 3,
-      "Романенко Татьяна Гаврииловна": 0,
-      "Усольцев Василий Иванович": 34,
-      "Против всех": 15
+      "gas:candidate-vibid:1001000136026": 2,
+      "gas:candidate-vibid:1001000121822": 1,
+      "gas:candidate-vibid:1001000190318": 3,
+      "gas:candidate-vibid:1001000113912": 0,
+      "gas:candidate-vibid:1001000225920": 34,
+      "special:against-all": 15
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=253001019&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=325300167432&region=0&sub_region=0&type=429",
@@ -3617,18 +3617,18 @@ export const duma_2003_uik_428_region_25_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Белецкий Николай Михайлович": 25,
-      "Имадаев Адам Михайлович": 117,
-      "Колупаев Евгений Иванович": 12,
-      "Кузнецов Владимир Сергеевич": 33,
-      "Кураев Валентин Александрович": 77,
-      "Лабонин Валентин Леонидович": 4,
-      "Новиков Анатолий Дмитриевич": 14,
-      "Пацвальд Павел Владимирович": 367,
-      "Потапейко Виктор Николаевич": 19,
-      "Тищенко Александр Григорьевич": 15,
-      "Черепков Виктор Иванович": 137,
-      "Против всех": 185
+      "gas:candidate-vibid:1001000290501": 25,
+      "gas:candidate-vibid:325300267019": 117,
+      "gas:candidate-vibid:325300266896": 12,
+      "gas:candidate-vibid:325300266802": 33,
+      "gas:candidate-vibid:1001000136027": 77,
+      "gas:candidate-vibid:1001000190319": 4,
+      "gas:candidate-vibid:325300267022": 14,
+      "gas:candidate-vibid:325300267002": 367,
+      "gas:candidate-vibid:1001000337622": 19,
+      "gas:candidate-vibid:1001000217906": 15,
+      "gas:candidate-vibid:325300266935": 137,
+      "special:against-all": 185
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=253002001&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=325300267557&region=0&sub_region=0&type=429",
@@ -3678,18 +3678,18 @@ export const duma_2003_uik_428_region_25_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Белецкий Николай Михайлович": 11,
-      "Имадаев Адам Михайлович": 59,
-      "Колупаев Евгений Иванович": 2,
-      "Кузнецов Владимир Сергеевич": 19,
-      "Кураев Валентин Александрович": 11,
-      "Лабонин Валентин Леонидович": 2,
-      "Новиков Анатолий Дмитриевич": 16,
-      "Пацвальд Павел Владимирович": 327,
-      "Потапейко Виктор Николаевич": 32,
-      "Тищенко Александр Григорьевич": 12,
-      "Черепков Виктор Иванович": 130,
-      "Против всех": 64
+      "gas:candidate-vibid:1001000290501": 11,
+      "gas:candidate-vibid:325300267019": 59,
+      "gas:candidate-vibid:325300266896": 2,
+      "gas:candidate-vibid:325300266802": 19,
+      "gas:candidate-vibid:1001000136027": 11,
+      "gas:candidate-vibid:1001000190319": 2,
+      "gas:candidate-vibid:325300267022": 16,
+      "gas:candidate-vibid:325300267002": 327,
+      "gas:candidate-vibid:1001000337622": 32,
+      "gas:candidate-vibid:1001000217906": 12,
+      "gas:candidate-vibid:325300266935": 130,
+      "special:against-all": 64
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=253002001&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=325300267557&region=0&sub_region=0&type=429",
@@ -3739,18 +3739,18 @@ export const duma_2003_uik_428_region_25_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Белецкий Николай Михайлович": 14,
-      "Имадаев Адам Михайлович": 37,
-      "Колупаев Евгений Иванович": 3,
-      "Кузнецов Владимир Сергеевич": 12,
-      "Кураев Валентин Александрович": 11,
-      "Лабонин Валентин Леонидович": 3,
-      "Новиков Анатолий Дмитриевич": 11,
-      "Пацвальд Павел Владимирович": 308,
-      "Потапейко Виктор Николаевич": 25,
-      "Тищенко Александр Григорьевич": 8,
-      "Черепков Виктор Иванович": 137,
-      "Против всех": 86
+      "gas:candidate-vibid:1001000290501": 14,
+      "gas:candidate-vibid:325300267019": 37,
+      "gas:candidate-vibid:325300266896": 3,
+      "gas:candidate-vibid:325300266802": 12,
+      "gas:candidate-vibid:1001000136027": 11,
+      "gas:candidate-vibid:1001000190319": 3,
+      "gas:candidate-vibid:325300267022": 11,
+      "gas:candidate-vibid:325300267002": 308,
+      "gas:candidate-vibid:1001000337622": 25,
+      "gas:candidate-vibid:1001000217906": 8,
+      "gas:candidate-vibid:325300266935": 137,
+      "special:against-all": 86
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=253002001&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=325300267557&region=0&sub_region=0&type=429",
@@ -3800,18 +3800,18 @@ export const duma_2003_uik_428_region_25_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Белецкий Николай Михайлович": 3,
-      "Имадаев Адам Михайлович": 23,
-      "Колупаев Евгений Иванович": 9,
-      "Кузнецов Владимир Сергеевич": 11,
-      "Кураев Валентин Александрович": 5,
-      "Лабонин Валентин Леонидович": 6,
-      "Новиков Анатолий Дмитриевич": 2,
-      "Пацвальд Павел Владимирович": 174,
-      "Потапейко Виктор Николаевич": 20,
-      "Тищенко Александр Григорьевич": 2,
-      "Черепков Виктор Иванович": 82,
-      "Против всех": 26
+      "gas:candidate-vibid:1001000290501": 3,
+      "gas:candidate-vibid:325300267019": 23,
+      "gas:candidate-vibid:325300266896": 9,
+      "gas:candidate-vibid:325300266802": 11,
+      "gas:candidate-vibid:1001000136027": 5,
+      "gas:candidate-vibid:1001000190319": 6,
+      "gas:candidate-vibid:325300267022": 2,
+      "gas:candidate-vibid:325300267002": 174,
+      "gas:candidate-vibid:1001000337622": 20,
+      "gas:candidate-vibid:1001000217906": 2,
+      "gas:candidate-vibid:325300266935": 82,
+      "special:against-all": 26
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=253002001&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=325300267557&region=0&sub_region=0&type=429",
@@ -3861,18 +3861,18 @@ export const duma_2003_uik_428_region_25_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Белецкий Николай Михайлович": 15,
-      "Имадаев Адам Михайлович": 115,
-      "Колупаев Евгений Иванович": 1,
-      "Кузнецов Владимир Сергеевич": 38,
-      "Кураев Валентин Александрович": 13,
-      "Лабонин Валентин Леонидович": 3,
-      "Новиков Анатолий Дмитриевич": 32,
-      "Пацвальд Павел Владимирович": 326,
-      "Потапейко Виктор Николаевич": 34,
-      "Тищенко Александр Григорьевич": 10,
-      "Черепков Виктор Иванович": 180,
-      "Против всех": 104
+      "gas:candidate-vibid:1001000290501": 15,
+      "gas:candidate-vibid:325300267019": 115,
+      "gas:candidate-vibid:325300266896": 1,
+      "gas:candidate-vibid:325300266802": 38,
+      "gas:candidate-vibid:1001000136027": 13,
+      "gas:candidate-vibid:1001000190319": 3,
+      "gas:candidate-vibid:325300267022": 32,
+      "gas:candidate-vibid:325300267002": 326,
+      "gas:candidate-vibid:1001000337622": 34,
+      "gas:candidate-vibid:1001000217906": 10,
+      "gas:candidate-vibid:325300266935": 180,
+      "special:against-all": 104
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=253002001&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=325300267557&region=0&sub_region=0&type=429",
@@ -3922,18 +3922,18 @@ export const duma_2003_uik_428_region_25_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Белецкий Николай Михайлович": 40,
-      "Имадаев Адам Михайлович": 243,
-      "Колупаев Евгений Иванович": 4,
-      "Кузнецов Владимир Сергеевич": 12,
-      "Кураев Валентин Александрович": 10,
-      "Лабонин Валентин Леонидович": 1,
-      "Новиков Анатолий Дмитриевич": 21,
-      "Пацвальд Павел Владимирович": 415,
-      "Потапейко Виктор Николаевич": 11,
-      "Тищенко Александр Григорьевич": 5,
-      "Черепков Виктор Иванович": 150,
-      "Против всех": 96
+      "gas:candidate-vibid:1001000290501": 40,
+      "gas:candidate-vibid:325300267019": 243,
+      "gas:candidate-vibid:325300266896": 4,
+      "gas:candidate-vibid:325300266802": 12,
+      "gas:candidate-vibid:1001000136027": 10,
+      "gas:candidate-vibid:1001000190319": 1,
+      "gas:candidate-vibid:325300267022": 21,
+      "gas:candidate-vibid:325300267002": 415,
+      "gas:candidate-vibid:1001000337622": 11,
+      "gas:candidate-vibid:1001000217906": 5,
+      "gas:candidate-vibid:325300266935": 150,
+      "special:against-all": 96
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=253002001&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=325300267557&region=0&sub_region=0&type=429",
@@ -3983,18 +3983,18 @@ export const duma_2003_uik_428_region_25_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Белецкий Николай Михайлович": 10,
-      "Имадаев Адам Михайлович": 129,
-      "Колупаев Евгений Иванович": 3,
-      "Кузнецов Владимир Сергеевич": 9,
-      "Кураев Валентин Александрович": 7,
-      "Лабонин Валентин Леонидович": 2,
-      "Новиков Анатолий Дмитриевич": 14,
-      "Пацвальд Павел Владимирович": 117,
-      "Потапейко Виктор Николаевич": 19,
-      "Тищенко Александр Григорьевич": 4,
-      "Черепков Виктор Иванович": 65,
-      "Против всех": 39
+      "gas:candidate-vibid:1001000290501": 10,
+      "gas:candidate-vibid:325300267019": 129,
+      "gas:candidate-vibid:325300266896": 3,
+      "gas:candidate-vibid:325300266802": 9,
+      "gas:candidate-vibid:1001000136027": 7,
+      "gas:candidate-vibid:1001000190319": 2,
+      "gas:candidate-vibid:325300267022": 14,
+      "gas:candidate-vibid:325300267002": 117,
+      "gas:candidate-vibid:1001000337622": 19,
+      "gas:candidate-vibid:1001000217906": 4,
+      "gas:candidate-vibid:325300266935": 65,
+      "special:against-all": 39
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=253002001&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=325300267557&region=0&sub_region=0&type=429",
@@ -4044,18 +4044,18 @@ export const duma_2003_uik_428_region_25_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Белецкий Николай Михайлович": 22,
-      "Имадаев Адам Михайлович": 242,
-      "Колупаев Евгений Иванович": 11,
-      "Кузнецов Владимир Сергеевич": 27,
-      "Кураев Валентин Александрович": 14,
-      "Лабонин Валентин Леонидович": 3,
-      "Новиков Анатолий Дмитриевич": 17,
-      "Пацвальд Павел Владимирович": 383,
-      "Потапейко Виктор Николаевич": 23,
-      "Тищенко Александр Григорьевич": 4,
-      "Черепков Виктор Иванович": 240,
-      "Против всех": 37
+      "gas:candidate-vibid:1001000290501": 22,
+      "gas:candidate-vibid:325300267019": 242,
+      "gas:candidate-vibid:325300266896": 11,
+      "gas:candidate-vibid:325300266802": 27,
+      "gas:candidate-vibid:1001000136027": 14,
+      "gas:candidate-vibid:1001000190319": 3,
+      "gas:candidate-vibid:325300267022": 17,
+      "gas:candidate-vibid:325300267002": 383,
+      "gas:candidate-vibid:1001000337622": 23,
+      "gas:candidate-vibid:1001000217906": 4,
+      "gas:candidate-vibid:325300266935": 240,
+      "special:against-all": 37
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=253002001&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=325300267557&region=0&sub_region=0&type=429",
@@ -4105,18 +4105,18 @@ export const duma_2003_uik_428_region_25_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Белецкий Николай Михайлович": 39,
-      "Имадаев Адам Михайлович": 287,
-      "Колупаев Евгений Иванович": 5,
-      "Кузнецов Владимир Сергеевич": 42,
-      "Кураев Валентин Александрович": 20,
-      "Лабонин Валентин Леонидович": 5,
-      "Новиков Анатолий Дмитриевич": 15,
-      "Пацвальд Павел Владимирович": 381,
-      "Потапейко Виктор Николаевич": 22,
-      "Тищенко Александр Григорьевич": 9,
-      "Черепков Виктор Иванович": 278,
-      "Против всех": 165
+      "gas:candidate-vibid:1001000290501": 39,
+      "gas:candidate-vibid:325300267019": 287,
+      "gas:candidate-vibid:325300266896": 5,
+      "gas:candidate-vibid:325300266802": 42,
+      "gas:candidate-vibid:1001000136027": 20,
+      "gas:candidate-vibid:1001000190319": 5,
+      "gas:candidate-vibid:325300267022": 15,
+      "gas:candidate-vibid:325300267002": 381,
+      "gas:candidate-vibid:1001000337622": 22,
+      "gas:candidate-vibid:1001000217906": 9,
+      "gas:candidate-vibid:325300266935": 278,
+      "special:against-all": 165
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=253002001&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=325300267557&region=0&sub_region=0&type=429",
@@ -4166,18 +4166,18 @@ export const duma_2003_uik_428_region_25_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Белецкий Николай Михайлович": 10,
-      "Имадаев Адам Михайлович": 171,
-      "Колупаев Евгений Иванович": 3,
-      "Кузнецов Владимир Сергеевич": 10,
-      "Кураев Валентин Александрович": 6,
-      "Лабонин Валентин Леонидович": 2,
-      "Новиков Анатолий Дмитриевич": 4,
-      "Пацвальд Павел Владимирович": 128,
-      "Потапейко Виктор Николаевич": 19,
-      "Тищенко Александр Григорьевич": 4,
-      "Черепков Виктор Иванович": 81,
-      "Против всех": 60
+      "gas:candidate-vibid:1001000290501": 10,
+      "gas:candidate-vibid:325300267019": 171,
+      "gas:candidate-vibid:325300266896": 3,
+      "gas:candidate-vibid:325300266802": 10,
+      "gas:candidate-vibid:1001000136027": 6,
+      "gas:candidate-vibid:1001000190319": 2,
+      "gas:candidate-vibid:325300267022": 4,
+      "gas:candidate-vibid:325300267002": 128,
+      "gas:candidate-vibid:1001000337622": 19,
+      "gas:candidate-vibid:1001000217906": 4,
+      "gas:candidate-vibid:325300266935": 81,
+      "special:against-all": 60
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=253002001&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=325300267557&region=0&sub_region=0&type=429",
@@ -4227,18 +4227,18 @@ export const duma_2003_uik_428_region_25_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Белецкий Николай Михайлович": 22,
-      "Имадаев Адам Михайлович": 123,
-      "Колупаев Евгений Иванович": 8,
-      "Кузнецов Владимир Сергеевич": 23,
-      "Кураев Валентин Александрович": 20,
-      "Лабонин Валентин Леонидович": 10,
-      "Новиков Анатолий Дмитриевич": 15,
-      "Пацвальд Павел Владимирович": 191,
-      "Потапейко Виктор Николаевич": 18,
-      "Тищенко Александр Григорьевич": 4,
-      "Черепков Виктор Иванович": 150,
-      "Против всех": 139
+      "gas:candidate-vibid:1001000290501": 22,
+      "gas:candidate-vibid:325300267019": 123,
+      "gas:candidate-vibid:325300266896": 8,
+      "gas:candidate-vibid:325300266802": 23,
+      "gas:candidate-vibid:1001000136027": 20,
+      "gas:candidate-vibid:1001000190319": 10,
+      "gas:candidate-vibid:325300267022": 15,
+      "gas:candidate-vibid:325300267002": 191,
+      "gas:candidate-vibid:1001000337622": 18,
+      "gas:candidate-vibid:1001000217906": 4,
+      "gas:candidate-vibid:325300266935": 150,
+      "special:against-all": 139
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=253002001&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=325300267557&region=0&sub_region=0&type=429",
@@ -4288,18 +4288,18 @@ export const duma_2003_uik_428_region_25_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Белецкий Николай Михайлович": 13,
-      "Имадаев Адам Михайлович": 138,
-      "Колупаев Евгений Иванович": 5,
-      "Кузнецов Владимир Сергеевич": 7,
-      "Кураев Валентин Александрович": 18,
-      "Лабонин Валентин Леонидович": 7,
-      "Новиков Анатолий Дмитриевич": 13,
-      "Пацвальд Павел Владимирович": 187,
-      "Потапейко Виктор Николаевич": 20,
-      "Тищенко Александр Григорьевич": 5,
-      "Черепков Виктор Иванович": 171,
-      "Против всех": 109
+      "gas:candidate-vibid:1001000290501": 13,
+      "gas:candidate-vibid:325300267019": 138,
+      "gas:candidate-vibid:325300266896": 5,
+      "gas:candidate-vibid:325300266802": 7,
+      "gas:candidate-vibid:1001000136027": 18,
+      "gas:candidate-vibid:1001000190319": 7,
+      "gas:candidate-vibid:325300267022": 13,
+      "gas:candidate-vibid:325300267002": 187,
+      "gas:candidate-vibid:1001000337622": 20,
+      "gas:candidate-vibid:1001000217906": 5,
+      "gas:candidate-vibid:325300266935": 171,
+      "special:against-all": 109
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=253002001&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=325300267557&region=0&sub_region=0&type=429",
@@ -4349,18 +4349,18 @@ export const duma_2003_uik_428_region_25_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Белецкий Николай Михайлович": 19,
-      "Имадаев Адам Михайлович": 234,
-      "Колупаев Евгений Иванович": 12,
-      "Кузнецов Владимир Сергеевич": 37,
-      "Кураев Валентин Александрович": 16,
-      "Лабонин Валентин Леонидович": 6,
-      "Новиков Анатолий Дмитриевич": 16,
-      "Пацвальд Павел Владимирович": 337,
-      "Потапейко Виктор Николаевич": 42,
-      "Тищенко Александр Григорьевич": 9,
-      "Черепков Виктор Иванович": 301,
-      "Против всех": 153
+      "gas:candidate-vibid:1001000290501": 19,
+      "gas:candidate-vibid:325300267019": 234,
+      "gas:candidate-vibid:325300266896": 12,
+      "gas:candidate-vibid:325300266802": 37,
+      "gas:candidate-vibid:1001000136027": 16,
+      "gas:candidate-vibid:1001000190319": 6,
+      "gas:candidate-vibid:325300267022": 16,
+      "gas:candidate-vibid:325300267002": 337,
+      "gas:candidate-vibid:1001000337622": 42,
+      "gas:candidate-vibid:1001000217906": 9,
+      "gas:candidate-vibid:325300266935": 301,
+      "special:against-all": 153
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=253002001&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=325300267557&region=0&sub_region=0&type=429",
@@ -4410,18 +4410,18 @@ export const duma_2003_uik_428_region_25_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Белецкий Николай Михайлович": 7,
-      "Имадаев Адам Михайлович": 116,
-      "Колупаев Евгений Иванович": 3,
-      "Кузнецов Владимир Сергеевич": 13,
-      "Кураев Валентин Александрович": 7,
-      "Лабонин Валентин Леонидович": 0,
-      "Новиков Анатолий Дмитриевич": 17,
-      "Пацвальд Павел Владимирович": 122,
-      "Потапейко Виктор Николаевич": 3,
-      "Тищенко Александр Григорьевич": 0,
-      "Черепков Виктор Иванович": 112,
-      "Против всех": 48
+      "gas:candidate-vibid:1001000290501": 7,
+      "gas:candidate-vibid:325300267019": 116,
+      "gas:candidate-vibid:325300266896": 3,
+      "gas:candidate-vibid:325300266802": 13,
+      "gas:candidate-vibid:1001000136027": 7,
+      "gas:candidate-vibid:1001000190319": 0,
+      "gas:candidate-vibid:325300267022": 17,
+      "gas:candidate-vibid:325300267002": 122,
+      "gas:candidate-vibid:1001000337622": 3,
+      "gas:candidate-vibid:1001000217906": 0,
+      "gas:candidate-vibid:325300266935": 112,
+      "special:against-all": 48
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=253002001&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=325300267557&region=0&sub_region=0&type=429",
@@ -4471,18 +4471,18 @@ export const duma_2003_uik_428_region_25_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Белецкий Николай Михайлович": 6,
-      "Имадаев Адам Михайлович": 68,
-      "Колупаев Евгений Иванович": 4,
-      "Кузнецов Владимир Сергеевич": 16,
-      "Кураев Валентин Александрович": 9,
-      "Лабонин Валентин Леонидович": 2,
-      "Новиков Анатолий Дмитриевич": 9,
-      "Пацвальд Павел Владимирович": 173,
-      "Потапейко Виктор Николаевич": 9,
-      "Тищенко Александр Григорьевич": 7,
-      "Черепков Виктор Иванович": 73,
-      "Против всех": 44
+      "gas:candidate-vibid:1001000290501": 6,
+      "gas:candidate-vibid:325300267019": 68,
+      "gas:candidate-vibid:325300266896": 4,
+      "gas:candidate-vibid:325300266802": 16,
+      "gas:candidate-vibid:1001000136027": 9,
+      "gas:candidate-vibid:1001000190319": 2,
+      "gas:candidate-vibid:325300267022": 9,
+      "gas:candidate-vibid:325300267002": 173,
+      "gas:candidate-vibid:1001000337622": 9,
+      "gas:candidate-vibid:1001000217906": 7,
+      "gas:candidate-vibid:325300266935": 73,
+      "special:against-all": 44
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=253002001&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=325300267557&region=0&sub_region=0&type=429",
@@ -4532,18 +4532,18 @@ export const duma_2003_uik_428_region_25_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Белецкий Николай Михайлович": 12,
-      "Имадаев Адам Михайлович": 111,
-      "Колупаев Евгений Иванович": 3,
-      "Кузнецов Владимир Сергеевич": 20,
-      "Кураев Валентин Александрович": 5,
-      "Лабонин Валентин Леонидович": 3,
-      "Новиков Анатолий Дмитриевич": 11,
-      "Пацвальд Павел Владимирович": 139,
-      "Потапейко Виктор Николаевич": 10,
-      "Тищенко Александр Григорьевич": 3,
-      "Черепков Виктор Иванович": 115,
-      "Против всех": 85
+      "gas:candidate-vibid:1001000290501": 12,
+      "gas:candidate-vibid:325300267019": 111,
+      "gas:candidate-vibid:325300266896": 3,
+      "gas:candidate-vibid:325300266802": 20,
+      "gas:candidate-vibid:1001000136027": 5,
+      "gas:candidate-vibid:1001000190319": 3,
+      "gas:candidate-vibid:325300267022": 11,
+      "gas:candidate-vibid:325300267002": 139,
+      "gas:candidate-vibid:1001000337622": 10,
+      "gas:candidate-vibid:1001000217906": 3,
+      "gas:candidate-vibid:325300266935": 115,
+      "special:against-all": 85
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=253002001&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=325300267557&region=0&sub_region=0&type=429",
@@ -4593,18 +4593,18 @@ export const duma_2003_uik_428_region_25_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Белецкий Николай Михайлович": 24,
-      "Имадаев Адам Михайлович": 308,
-      "Колупаев Евгений Иванович": 4,
-      "Кузнецов Владимир Сергеевич": 28,
-      "Кураев Валентин Александрович": 12,
-      "Лабонин Валентин Леонидович": 9,
-      "Новиков Анатолий Дмитриевич": 11,
-      "Пацвальд Павел Владимирович": 202,
-      "Потапейко Виктор Николаевич": 40,
-      "Тищенко Александр Григорьевич": 7,
-      "Черепков Виктор Иванович": 172,
-      "Против всех": 123
+      "gas:candidate-vibid:1001000290501": 24,
+      "gas:candidate-vibid:325300267019": 308,
+      "gas:candidate-vibid:325300266896": 4,
+      "gas:candidate-vibid:325300266802": 28,
+      "gas:candidate-vibid:1001000136027": 12,
+      "gas:candidate-vibid:1001000190319": 9,
+      "gas:candidate-vibid:325300267022": 11,
+      "gas:candidate-vibid:325300267002": 202,
+      "gas:candidate-vibid:1001000337622": 40,
+      "gas:candidate-vibid:1001000217906": 7,
+      "gas:candidate-vibid:325300266935": 172,
+      "special:against-all": 123
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=253002001&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=325300267557&region=0&sub_region=0&type=429",
@@ -4654,18 +4654,18 @@ export const duma_2003_uik_428_region_25_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Белецкий Николай Михайлович": 28,
-      "Имадаев Адам Михайлович": 219,
-      "Колупаев Евгений Иванович": 9,
-      "Кузнецов Владимир Сергеевич": 42,
-      "Кураев Валентин Александрович": 8,
-      "Лабонин Валентин Леонидович": 12,
-      "Новиков Анатолий Дмитриевич": 14,
-      "Пацвальд Павел Владимирович": 413,
-      "Потапейко Виктор Николаевич": 40,
-      "Тищенко Александр Григорьевич": 12,
-      "Черепков Виктор Иванович": 325,
-      "Против всех": 83
+      "gas:candidate-vibid:1001000290501": 28,
+      "gas:candidate-vibid:325300267019": 219,
+      "gas:candidate-vibid:325300266896": 9,
+      "gas:candidate-vibid:325300266802": 42,
+      "gas:candidate-vibid:1001000136027": 8,
+      "gas:candidate-vibid:1001000190319": 12,
+      "gas:candidate-vibid:325300267022": 14,
+      "gas:candidate-vibid:325300267002": 413,
+      "gas:candidate-vibid:1001000337622": 40,
+      "gas:candidate-vibid:1001000217906": 12,
+      "gas:candidate-vibid:325300266935": 325,
+      "special:against-all": 83
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=253002001&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=325300267557&region=0&sub_region=0&type=429",
@@ -4715,18 +4715,18 @@ export const duma_2003_uik_428_region_25_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Белецкий Николай Михайлович": 12,
-      "Имадаев Адам Михайлович": 201,
-      "Колупаев Евгений Иванович": 3,
-      "Кузнецов Владимир Сергеевич": 11,
-      "Кураев Валентин Александрович": 2,
-      "Лабонин Валентин Леонидович": 5,
-      "Новиков Анатолий Дмитриевич": 11,
-      "Пацвальд Павел Владимирович": 155,
-      "Потапейко Виктор Николаевич": 36,
-      "Тищенко Александр Григорьевич": 6,
-      "Черепков Виктор Иванович": 145,
-      "Против всех": 74
+      "gas:candidate-vibid:1001000290501": 12,
+      "gas:candidate-vibid:325300267019": 201,
+      "gas:candidate-vibid:325300266896": 3,
+      "gas:candidate-vibid:325300266802": 11,
+      "gas:candidate-vibid:1001000136027": 2,
+      "gas:candidate-vibid:1001000190319": 5,
+      "gas:candidate-vibid:325300267022": 11,
+      "gas:candidate-vibid:325300267002": 155,
+      "gas:candidate-vibid:1001000337622": 36,
+      "gas:candidate-vibid:1001000217906": 6,
+      "gas:candidate-vibid:325300266935": 145,
+      "special:against-all": 74
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=253002001&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=325300267557&region=0&sub_region=0&type=429",
@@ -4776,18 +4776,18 @@ export const duma_2003_uik_428_region_25_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Белецкий Николай Михайлович": 4,
-      "Имадаев Адам Михайлович": 205,
-      "Колупаев Евгений Иванович": 2,
-      "Кузнецов Владимир Сергеевич": 15,
-      "Кураев Валентин Александрович": 4,
-      "Лабонин Валентин Леонидович": 3,
-      "Новиков Анатолий Дмитриевич": 8,
-      "Пацвальд Павел Владимирович": 144,
-      "Потапейко Виктор Николаевич": 14,
-      "Тищенко Александр Григорьевич": 3,
-      "Черепков Виктор Иванович": 103,
-      "Против всех": 66
+      "gas:candidate-vibid:1001000290501": 4,
+      "gas:candidate-vibid:325300267019": 205,
+      "gas:candidate-vibid:325300266896": 2,
+      "gas:candidate-vibid:325300266802": 15,
+      "gas:candidate-vibid:1001000136027": 4,
+      "gas:candidate-vibid:1001000190319": 3,
+      "gas:candidate-vibid:325300267022": 8,
+      "gas:candidate-vibid:325300267002": 144,
+      "gas:candidate-vibid:1001000337622": 14,
+      "gas:candidate-vibid:1001000217906": 3,
+      "gas:candidate-vibid:325300266935": 103,
+      "special:against-all": 66
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=253002001&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=325300267557&region=0&sub_region=0&type=429",
@@ -4837,18 +4837,18 @@ export const duma_2003_uik_428_region_25_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Белецкий Николай Михайлович": 9,
-      "Имадаев Адам Михайлович": 204,
-      "Колупаев Евгений Иванович": 7,
-      "Кузнецов Владимир Сергеевич": 20,
-      "Кураев Валентин Александрович": 10,
-      "Лабонин Валентин Леонидович": 2,
-      "Новиков Анатолий Дмитриевич": 11,
-      "Пацвальд Павел Владимирович": 156,
-      "Потапейко Виктор Николаевич": 16,
-      "Тищенко Александр Григорьевич": 2,
-      "Черепков Виктор Иванович": 124,
-      "Против всех": 89
+      "gas:candidate-vibid:1001000290501": 9,
+      "gas:candidate-vibid:325300267019": 204,
+      "gas:candidate-vibid:325300266896": 7,
+      "gas:candidate-vibid:325300266802": 20,
+      "gas:candidate-vibid:1001000136027": 10,
+      "gas:candidate-vibid:1001000190319": 2,
+      "gas:candidate-vibid:325300267022": 11,
+      "gas:candidate-vibid:325300267002": 156,
+      "gas:candidate-vibid:1001000337622": 16,
+      "gas:candidate-vibid:1001000217906": 2,
+      "gas:candidate-vibid:325300266935": 124,
+      "special:against-all": 89
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=253002001&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=325300267557&region=0&sub_region=0&type=429",
@@ -4898,18 +4898,18 @@ export const duma_2003_uik_428_region_25_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Белецкий Николай Михайлович": 7,
-      "Имадаев Адам Михайлович": 101,
-      "Колупаев Евгений Иванович": 0,
-      "Кузнецов Владимир Сергеевич": 11,
-      "Кураев Валентин Александрович": 2,
-      "Лабонин Валентин Леонидович": 0,
-      "Новиков Анатолий Дмитриевич": 2,
-      "Пацвальд Павел Владимирович": 82,
-      "Потапейко Виктор Николаевич": 6,
-      "Тищенко Александр Григорьевич": 4,
-      "Черепков Виктор Иванович": 59,
-      "Против всех": 32
+      "gas:candidate-vibid:1001000290501": 7,
+      "gas:candidate-vibid:325300267019": 101,
+      "gas:candidate-vibid:325300266896": 0,
+      "gas:candidate-vibid:325300266802": 11,
+      "gas:candidate-vibid:1001000136027": 2,
+      "gas:candidate-vibid:1001000190319": 0,
+      "gas:candidate-vibid:325300267022": 2,
+      "gas:candidate-vibid:325300267002": 82,
+      "gas:candidate-vibid:1001000337622": 6,
+      "gas:candidate-vibid:1001000217906": 4,
+      "gas:candidate-vibid:325300266935": 59,
+      "special:against-all": 32
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=253002001&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=325300267557&region=0&sub_region=0&type=429",
@@ -4959,18 +4959,18 @@ export const duma_2003_uik_428_region_25_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Белецкий Николай Михайлович": 5,
-      "Имадаев Адам Михайлович": 110,
-      "Колупаев Евгений Иванович": 2,
-      "Кузнецов Владимир Сергеевич": 6,
-      "Кураев Валентин Александрович": 9,
-      "Лабонин Валентин Леонидович": 3,
-      "Новиков Анатолий Дмитриевич": 5,
-      "Пацвальд Павел Владимирович": 122,
-      "Потапейко Виктор Николаевич": 12,
-      "Тищенко Александр Григорьевич": 1,
-      "Черепков Виктор Иванович": 41,
-      "Против всех": 31
+      "gas:candidate-vibid:1001000290501": 5,
+      "gas:candidate-vibid:325300267019": 110,
+      "gas:candidate-vibid:325300266896": 2,
+      "gas:candidate-vibid:325300266802": 6,
+      "gas:candidate-vibid:1001000136027": 9,
+      "gas:candidate-vibid:1001000190319": 3,
+      "gas:candidate-vibid:325300267022": 5,
+      "gas:candidate-vibid:325300267002": 122,
+      "gas:candidate-vibid:1001000337622": 12,
+      "gas:candidate-vibid:1001000217906": 1,
+      "gas:candidate-vibid:325300266935": 41,
+      "special:against-all": 31
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=253002001&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=325300267557&region=0&sub_region=0&type=429",
@@ -5020,18 +5020,18 @@ export const duma_2003_uik_428_region_25_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Белецкий Николай Михайлович": 6,
-      "Имадаев Адам Михайлович": 116,
-      "Колупаев Евгений Иванович": 1,
-      "Кузнецов Владимир Сергеевич": 6,
-      "Кураев Валентин Александрович": 8,
-      "Лабонин Валентин Леонидович": 4,
-      "Новиков Анатолий Дмитриевич": 8,
-      "Пацвальд Павел Владимирович": 78,
-      "Потапейко Виктор Николаевич": 4,
-      "Тищенко Александр Григорьевич": 3,
-      "Черепков Виктор Иванович": 39,
-      "Против всех": 30
+      "gas:candidate-vibid:1001000290501": 6,
+      "gas:candidate-vibid:325300267019": 116,
+      "gas:candidate-vibid:325300266896": 1,
+      "gas:candidate-vibid:325300266802": 6,
+      "gas:candidate-vibid:1001000136027": 8,
+      "gas:candidate-vibid:1001000190319": 4,
+      "gas:candidate-vibid:325300267022": 8,
+      "gas:candidate-vibid:325300267002": 78,
+      "gas:candidate-vibid:1001000337622": 4,
+      "gas:candidate-vibid:1001000217906": 3,
+      "gas:candidate-vibid:325300266935": 39,
+      "special:against-all": 30
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=253002001&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=325300267557&region=0&sub_region=0&type=429",
@@ -5081,18 +5081,18 @@ export const duma_2003_uik_428_region_25_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Белецкий Николай Михайлович": 14,
-      "Имадаев Адам Михайлович": 249,
-      "Колупаев Евгений Иванович": 7,
-      "Кузнецов Владимир Сергеевич": 23,
-      "Кураев Валентин Александрович": 7,
-      "Лабонин Валентин Леонидович": 2,
-      "Новиков Анатолий Дмитриевич": 12,
-      "Пацвальд Павел Владимирович": 246,
-      "Потапейко Виктор Николаевич": 24,
-      "Тищенко Александр Григорьевич": 7,
-      "Черепков Виктор Иванович": 236,
-      "Против всех": 79
+      "gas:candidate-vibid:1001000290501": 14,
+      "gas:candidate-vibid:325300267019": 249,
+      "gas:candidate-vibid:325300266896": 7,
+      "gas:candidate-vibid:325300266802": 23,
+      "gas:candidate-vibid:1001000136027": 7,
+      "gas:candidate-vibid:1001000190319": 2,
+      "gas:candidate-vibid:325300267022": 12,
+      "gas:candidate-vibid:325300267002": 246,
+      "gas:candidate-vibid:1001000337622": 24,
+      "gas:candidate-vibid:1001000217906": 7,
+      "gas:candidate-vibid:325300266935": 236,
+      "special:against-all": 79
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=253002001&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=325300267557&region=0&sub_region=0&type=429",
@@ -5142,18 +5142,18 @@ export const duma_2003_uik_428_region_25_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Белецкий Николай Михайлович": 15,
-      "Имадаев Адам Михайлович": 187,
-      "Колупаев Евгений Иванович": 4,
-      "Кузнецов Владимир Сергеевич": 14,
-      "Кураев Валентин Александрович": 16,
-      "Лабонин Валентин Леонидович": 2,
-      "Новиков Анатолий Дмитриевич": 12,
-      "Пацвальд Павел Владимирович": 236,
-      "Потапейко Виктор Николаевич": 16,
-      "Тищенко Александр Григорьевич": 6,
-      "Черепков Виктор Иванович": 197,
-      "Против всех": 104
+      "gas:candidate-vibid:1001000290501": 15,
+      "gas:candidate-vibid:325300267019": 187,
+      "gas:candidate-vibid:325300266896": 4,
+      "gas:candidate-vibid:325300266802": 14,
+      "gas:candidate-vibid:1001000136027": 16,
+      "gas:candidate-vibid:1001000190319": 2,
+      "gas:candidate-vibid:325300267022": 12,
+      "gas:candidate-vibid:325300267002": 236,
+      "gas:candidate-vibid:1001000337622": 16,
+      "gas:candidate-vibid:1001000217906": 6,
+      "gas:candidate-vibid:325300266935": 197,
+      "special:against-all": 104
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=253002001&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=325300267557&region=0&sub_region=0&type=429",
@@ -5203,18 +5203,18 @@ export const duma_2003_uik_428_region_25_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Белецкий Николай Михайлович": 14,
-      "Имадаев Адам Михайлович": 165,
-      "Колупаев Евгений Иванович": 3,
-      "Кузнецов Владимир Сергеевич": 13,
-      "Кураев Валентин Александрович": 4,
-      "Лабонин Валентин Леонидович": 1,
-      "Новиков Анатолий Дмитриевич": 7,
-      "Пацвальд Павел Владимирович": 190,
-      "Потапейко Виктор Николаевич": 18,
-      "Тищенко Александр Григорьевич": 3,
-      "Черепков Виктор Иванович": 147,
-      "Против всех": 84
+      "gas:candidate-vibid:1001000290501": 14,
+      "gas:candidate-vibid:325300267019": 165,
+      "gas:candidate-vibid:325300266896": 3,
+      "gas:candidate-vibid:325300266802": 13,
+      "gas:candidate-vibid:1001000136027": 4,
+      "gas:candidate-vibid:1001000190319": 1,
+      "gas:candidate-vibid:325300267022": 7,
+      "gas:candidate-vibid:325300267002": 190,
+      "gas:candidate-vibid:1001000337622": 18,
+      "gas:candidate-vibid:1001000217906": 3,
+      "gas:candidate-vibid:325300266935": 147,
+      "special:against-all": 84
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=253002001&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=325300267557&region=0&sub_region=0&type=429",
@@ -5264,18 +5264,18 @@ export const duma_2003_uik_428_region_25_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Белецкий Николай Михайлович": 1,
-      "Имадаев Адам Михайлович": 92,
-      "Колупаев Евгений Иванович": 3,
-      "Кузнецов Владимир Сергеевич": 2,
-      "Кураев Валентин Александрович": 0,
-      "Лабонин Валентин Леонидович": 1,
-      "Новиков Анатолий Дмитриевич": 7,
-      "Пацвальд Павел Владимирович": 77,
-      "Потапейко Виктор Николаевич": 2,
-      "Тищенко Александр Григорьевич": 3,
-      "Черепков Виктор Иванович": 54,
-      "Против всех": 26
+      "gas:candidate-vibid:1001000290501": 1,
+      "gas:candidate-vibid:325300267019": 92,
+      "gas:candidate-vibid:325300266896": 3,
+      "gas:candidate-vibid:325300266802": 2,
+      "gas:candidate-vibid:1001000136027": 0,
+      "gas:candidate-vibid:1001000190319": 1,
+      "gas:candidate-vibid:325300267022": 7,
+      "gas:candidate-vibid:325300267002": 77,
+      "gas:candidate-vibid:1001000337622": 2,
+      "gas:candidate-vibid:1001000217906": 3,
+      "gas:candidate-vibid:325300266935": 54,
+      "special:against-all": 26
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=253002001&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=325300267557&region=0&sub_region=0&type=429",
@@ -5325,18 +5325,18 @@ export const duma_2003_uik_428_region_25_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Белецкий Николай Михайлович": 8,
-      "Имадаев Адам Михайлович": 172,
-      "Колупаев Евгений Иванович": 6,
-      "Кузнецов Владимир Сергеевич": 22,
-      "Кураев Валентин Александрович": 7,
-      "Лабонин Валентин Леонидович": 3,
-      "Новиков Анатолий Дмитриевич": 10,
-      "Пацвальд Павел Владимирович": 194,
-      "Потапейко Виктор Николаевич": 13,
-      "Тищенко Александр Григорьевич": 2,
-      "Черепков Виктор Иванович": 172,
-      "Против всех": 85
+      "gas:candidate-vibid:1001000290501": 8,
+      "gas:candidate-vibid:325300267019": 172,
+      "gas:candidate-vibid:325300266896": 6,
+      "gas:candidate-vibid:325300266802": 22,
+      "gas:candidate-vibid:1001000136027": 7,
+      "gas:candidate-vibid:1001000190319": 3,
+      "gas:candidate-vibid:325300267022": 10,
+      "gas:candidate-vibid:325300267002": 194,
+      "gas:candidate-vibid:1001000337622": 13,
+      "gas:candidate-vibid:1001000217906": 2,
+      "gas:candidate-vibid:325300266935": 172,
+      "special:against-all": 85
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=253002001&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=325300267557&region=0&sub_region=0&type=429",
@@ -5386,18 +5386,18 @@ export const duma_2003_uik_428_region_25_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Белецкий Николай Михайлович": 9,
-      "Имадаев Адам Михайлович": 162,
-      "Колупаев Евгений Иванович": 5,
-      "Кузнецов Владимир Сергеевич": 11,
-      "Кураев Валентин Александрович": 11,
-      "Лабонин Валентин Леонидович": 2,
-      "Новиков Анатолий Дмитриевич": 10,
-      "Пацвальд Павел Владимирович": 195,
-      "Потапейко Виктор Николаевич": 21,
-      "Тищенко Александр Григорьевич": 4,
-      "Черепков Виктор Иванович": 219,
-      "Против всех": 71
+      "gas:candidate-vibid:1001000290501": 9,
+      "gas:candidate-vibid:325300267019": 162,
+      "gas:candidate-vibid:325300266896": 5,
+      "gas:candidate-vibid:325300266802": 11,
+      "gas:candidate-vibid:1001000136027": 11,
+      "gas:candidate-vibid:1001000190319": 2,
+      "gas:candidate-vibid:325300267022": 10,
+      "gas:candidate-vibid:325300267002": 195,
+      "gas:candidate-vibid:1001000337622": 21,
+      "gas:candidate-vibid:1001000217906": 4,
+      "gas:candidate-vibid:325300266935": 219,
+      "special:against-all": 71
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=253002001&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=325300267557&region=0&sub_region=0&type=429",
@@ -5447,18 +5447,18 @@ export const duma_2003_uik_428_region_25_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Белецкий Николай Михайлович": 7,
-      "Имадаев Адам Михайлович": 132,
-      "Колупаев Евгений Иванович": 2,
-      "Кузнецов Владимир Сергеевич": 10,
-      "Кураев Валентин Александрович": 3,
-      "Лабонин Валентин Леонидович": 4,
-      "Новиков Анатолий Дмитриевич": 4,
-      "Пацвальд Павел Владимирович": 141,
-      "Потапейко Виктор Николаевич": 11,
-      "Тищенко Александр Григорьевич": 5,
-      "Черепков Виктор Иванович": 118,
-      "Против всех": 60
+      "gas:candidate-vibid:1001000290501": 7,
+      "gas:candidate-vibid:325300267019": 132,
+      "gas:candidate-vibid:325300266896": 2,
+      "gas:candidate-vibid:325300266802": 10,
+      "gas:candidate-vibid:1001000136027": 3,
+      "gas:candidate-vibid:1001000190319": 4,
+      "gas:candidate-vibid:325300267022": 4,
+      "gas:candidate-vibid:325300267002": 141,
+      "gas:candidate-vibid:1001000337622": 11,
+      "gas:candidate-vibid:1001000217906": 5,
+      "gas:candidate-vibid:325300266935": 118,
+      "special:against-all": 60
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=253002001&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=325300267557&region=0&sub_region=0&type=429",
@@ -5508,18 +5508,18 @@ export const duma_2003_uik_428_region_25_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Белецкий Николай Михайлович": 7,
-      "Имадаев Адам Михайлович": 78,
-      "Колупаев Евгений Иванович": 2,
-      "Кузнецов Владимир Сергеевич": 4,
-      "Кураев Валентин Александрович": 4,
-      "Лабонин Валентин Леонидович": 1,
-      "Новиков Анатолий Дмитриевич": 4,
-      "Пацвальд Павел Владимирович": 151,
-      "Потапейко Виктор Николаевич": 11,
-      "Тищенко Александр Григорьевич": 6,
-      "Черепков Виктор Иванович": 79,
-      "Против всех": 27
+      "gas:candidate-vibid:1001000290501": 7,
+      "gas:candidate-vibid:325300267019": 78,
+      "gas:candidate-vibid:325300266896": 2,
+      "gas:candidate-vibid:325300266802": 4,
+      "gas:candidate-vibid:1001000136027": 4,
+      "gas:candidate-vibid:1001000190319": 1,
+      "gas:candidate-vibid:325300267022": 4,
+      "gas:candidate-vibid:325300267002": 151,
+      "gas:candidate-vibid:1001000337622": 11,
+      "gas:candidate-vibid:1001000217906": 6,
+      "gas:candidate-vibid:325300266935": 79,
+      "special:against-all": 27
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=253002001&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=325300267557&region=0&sub_region=0&type=429",
@@ -5569,18 +5569,18 @@ export const duma_2003_uik_428_region_25_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Белецкий Николай Михайлович": 16,
-      "Имадаев Адам Михайлович": 158,
-      "Колупаев Евгений Иванович": 9,
-      "Кузнецов Владимир Сергеевич": 26,
-      "Кураев Валентин Александрович": 12,
-      "Лабонин Валентин Леонидович": 5,
-      "Новиков Анатолий Дмитриевич": 12,
-      "Пацвальд Павел Владимирович": 183,
-      "Потапейко Виктор Николаевич": 8,
-      "Тищенко Александр Григорьевич": 1,
-      "Черепков Виктор Иванович": 191,
-      "Против всех": 105
+      "gas:candidate-vibid:1001000290501": 16,
+      "gas:candidate-vibid:325300267019": 158,
+      "gas:candidate-vibid:325300266896": 9,
+      "gas:candidate-vibid:325300266802": 26,
+      "gas:candidate-vibid:1001000136027": 12,
+      "gas:candidate-vibid:1001000190319": 5,
+      "gas:candidate-vibid:325300267022": 12,
+      "gas:candidate-vibid:325300267002": 183,
+      "gas:candidate-vibid:1001000337622": 8,
+      "gas:candidate-vibid:1001000217906": 1,
+      "gas:candidate-vibid:325300266935": 191,
+      "special:against-all": 105
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=253002001&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=325300267557&region=0&sub_region=0&type=429",
@@ -5630,18 +5630,18 @@ export const duma_2003_uik_428_region_25_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Белецкий Николай Михайлович": 10,
-      "Имадаев Адам Михайлович": 103,
-      "Колупаев Евгений Иванович": 12,
-      "Кузнецов Владимир Сергеевич": 22,
-      "Кураев Валентин Александрович": 11,
-      "Лабонин Валентин Леонидович": 5,
-      "Новиков Анатолий Дмитриевич": 15,
-      "Пацвальд Павел Владимирович": 304,
-      "Потапейко Виктор Николаевич": 19,
-      "Тищенко Александр Григорьевич": 2,
-      "Черепков Виктор Иванович": 65,
-      "Против всех": 105
+      "gas:candidate-vibid:1001000290501": 10,
+      "gas:candidate-vibid:325300267019": 103,
+      "gas:candidate-vibid:325300266896": 12,
+      "gas:candidate-vibid:325300266802": 22,
+      "gas:candidate-vibid:1001000136027": 11,
+      "gas:candidate-vibid:1001000190319": 5,
+      "gas:candidate-vibid:325300267022": 15,
+      "gas:candidate-vibid:325300267002": 304,
+      "gas:candidate-vibid:1001000337622": 19,
+      "gas:candidate-vibid:1001000217906": 2,
+      "gas:candidate-vibid:325300266935": 65,
+      "special:against-all": 105
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=253002001&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=325300267557&region=0&sub_region=0&type=429",
@@ -5691,18 +5691,18 @@ export const duma_2003_uik_428_region_25_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Белецкий Николай Михайлович": 20,
-      "Имадаев Адам Михайлович": 242,
-      "Колупаев Евгений Иванович": 9,
-      "Кузнецов Владимир Сергеевич": 18,
-      "Кураев Валентин Александрович": 14,
-      "Лабонин Валентин Леонидович": 6,
-      "Новиков Анатолий Дмитриевич": 11,
-      "Пацвальд Павел Владимирович": 261,
-      "Потапейко Виктор Николаевич": 34,
-      "Тищенко Александр Григорьевич": 7,
-      "Черепков Виктор Иванович": 205,
-      "Против всех": 103
+      "gas:candidate-vibid:1001000290501": 20,
+      "gas:candidate-vibid:325300267019": 242,
+      "gas:candidate-vibid:325300266896": 9,
+      "gas:candidate-vibid:325300266802": 18,
+      "gas:candidate-vibid:1001000136027": 14,
+      "gas:candidate-vibid:1001000190319": 6,
+      "gas:candidate-vibid:325300267022": 11,
+      "gas:candidate-vibid:325300267002": 261,
+      "gas:candidate-vibid:1001000337622": 34,
+      "gas:candidate-vibid:1001000217906": 7,
+      "gas:candidate-vibid:325300266935": 205,
+      "special:against-all": 103
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=253002001&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=325300267557&region=0&sub_region=0&type=429",
@@ -5752,18 +5752,18 @@ export const duma_2003_uik_428_region_25_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Белецкий Николай Михайлович": 16,
-      "Имадаев Адам Михайлович": 210,
-      "Колупаев Евгений Иванович": 5,
-      "Кузнецов Владимир Сергеевич": 17,
-      "Кураев Валентин Александрович": 4,
-      "Лабонин Валентин Леонидович": 1,
-      "Новиков Анатолий Дмитриевич": 9,
-      "Пацвальд Павел Владимирович": 271,
-      "Потапейко Виктор Николаевич": 14,
-      "Тищенко Александр Григорьевич": 13,
-      "Черепков Виктор Иванович": 86,
-      "Против всех": 99
+      "gas:candidate-vibid:1001000290501": 16,
+      "gas:candidate-vibid:325300267019": 210,
+      "gas:candidate-vibid:325300266896": 5,
+      "gas:candidate-vibid:325300266802": 17,
+      "gas:candidate-vibid:1001000136027": 4,
+      "gas:candidate-vibid:1001000190319": 1,
+      "gas:candidate-vibid:325300267022": 9,
+      "gas:candidate-vibid:325300267002": 271,
+      "gas:candidate-vibid:1001000337622": 14,
+      "gas:candidate-vibid:1001000217906": 13,
+      "gas:candidate-vibid:325300266935": 86,
+      "special:against-all": 99
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=253002001&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=325300267557&region=0&sub_region=0&type=429",
@@ -5813,18 +5813,18 @@ export const duma_2003_uik_428_region_25_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Белецкий Николай Михайлович": 3,
-      "Имадаев Адам Михайлович": 143,
-      "Колупаев Евгений Иванович": 4,
-      "Кузнецов Владимир Сергеевич": 8,
-      "Кураев Валентин Александрович": 2,
-      "Лабонин Валентин Леонидович": 2,
-      "Новиков Анатолий Дмитриевич": 3,
-      "Пацвальд Павел Владимирович": 211,
-      "Потапейко Виктор Николаевич": 11,
-      "Тищенко Александр Григорьевич": 4,
-      "Черепков Виктор Иванович": 54,
-      "Против всех": 41
+      "gas:candidate-vibid:1001000290501": 3,
+      "gas:candidate-vibid:325300267019": 143,
+      "gas:candidate-vibid:325300266896": 4,
+      "gas:candidate-vibid:325300266802": 8,
+      "gas:candidate-vibid:1001000136027": 2,
+      "gas:candidate-vibid:1001000190319": 2,
+      "gas:candidate-vibid:325300267022": 3,
+      "gas:candidate-vibid:325300267002": 211,
+      "gas:candidate-vibid:1001000337622": 11,
+      "gas:candidate-vibid:1001000217906": 4,
+      "gas:candidate-vibid:325300266935": 54,
+      "special:against-all": 41
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=253002001&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=325300267557&region=0&sub_region=0&type=429",
@@ -5874,18 +5874,18 @@ export const duma_2003_uik_428_region_25_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Белецкий Николай Михайлович": 23,
-      "Имадаев Адам Михайлович": 318,
-      "Колупаев Евгений Иванович": 4,
-      "Кузнецов Владимир Сергеевич": 22,
-      "Кураев Валентин Александрович": 19,
-      "Лабонин Валентин Леонидович": 1,
-      "Новиков Анатолий Дмитриевич": 12,
-      "Пацвальд Павел Владимирович": 443,
-      "Потапейко Виктор Николаевич": 22,
-      "Тищенко Александр Григорьевич": 14,
-      "Черепков Виктор Иванович": 116,
-      "Против всех": 127
+      "gas:candidate-vibid:1001000290501": 23,
+      "gas:candidate-vibid:325300267019": 318,
+      "gas:candidate-vibid:325300266896": 4,
+      "gas:candidate-vibid:325300266802": 22,
+      "gas:candidate-vibid:1001000136027": 19,
+      "gas:candidate-vibid:1001000190319": 1,
+      "gas:candidate-vibid:325300267022": 12,
+      "gas:candidate-vibid:325300267002": 443,
+      "gas:candidate-vibid:1001000337622": 22,
+      "gas:candidate-vibid:1001000217906": 14,
+      "gas:candidate-vibid:325300266935": 116,
+      "special:against-all": 127
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=253002001&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=325300267557&region=0&sub_region=0&type=429",
@@ -5935,18 +5935,18 @@ export const duma_2003_uik_428_region_25_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Белецкий Николай Михайлович": 2,
-      "Имадаев Адам Михайлович": 139,
-      "Колупаев Евгений Иванович": 4,
-      "Кузнецов Владимир Сергеевич": 4,
-      "Кураев Валентин Александрович": 3,
-      "Лабонин Валентин Леонидович": 4,
-      "Новиков Анатолий Дмитриевич": 6,
-      "Пацвальд Павел Владимирович": 179,
-      "Потапейко Виктор Николаевич": 10,
-      "Тищенко Александр Григорьевич": 0,
-      "Черепков Виктор Иванович": 40,
-      "Против всех": 48
+      "gas:candidate-vibid:1001000290501": 2,
+      "gas:candidate-vibid:325300267019": 139,
+      "gas:candidate-vibid:325300266896": 4,
+      "gas:candidate-vibid:325300266802": 4,
+      "gas:candidate-vibid:1001000136027": 3,
+      "gas:candidate-vibid:1001000190319": 4,
+      "gas:candidate-vibid:325300267022": 6,
+      "gas:candidate-vibid:325300267002": 179,
+      "gas:candidate-vibid:1001000337622": 10,
+      "gas:candidate-vibid:1001000217906": 0,
+      "gas:candidate-vibid:325300266935": 40,
+      "special:against-all": 48
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=253002001&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=325300267557&region=0&sub_region=0&type=429",
@@ -5996,18 +5996,18 @@ export const duma_2003_uik_428_region_25_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Белецкий Николай Михайлович": 7,
-      "Имадаев Адам Михайлович": 129,
-      "Колупаев Евгений Иванович": 4,
-      "Кузнецов Владимир Сергеевич": 17,
-      "Кураев Валентин Александрович": 5,
-      "Лабонин Валентин Леонидович": 4,
-      "Новиков Анатолий Дмитриевич": 15,
-      "Пацвальд Павел Владимирович": 195,
-      "Потапейко Виктор Николаевич": 10,
-      "Тищенко Александр Григорьевич": 18,
-      "Черепков Виктор Иванович": 73,
-      "Против всех": 127
+      "gas:candidate-vibid:1001000290501": 7,
+      "gas:candidate-vibid:325300267019": 129,
+      "gas:candidate-vibid:325300266896": 4,
+      "gas:candidate-vibid:325300266802": 17,
+      "gas:candidate-vibid:1001000136027": 5,
+      "gas:candidate-vibid:1001000190319": 4,
+      "gas:candidate-vibid:325300267022": 15,
+      "gas:candidate-vibid:325300267002": 195,
+      "gas:candidate-vibid:1001000337622": 10,
+      "gas:candidate-vibid:1001000217906": 18,
+      "gas:candidate-vibid:325300266935": 73,
+      "special:against-all": 127
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=253002001&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=325300267557&region=0&sub_region=0&type=429",
@@ -6057,18 +6057,18 @@ export const duma_2003_uik_428_region_25_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Белецкий Николай Михайлович": 18,
-      "Имадаев Адам Михайлович": 121,
-      "Колупаев Евгений Иванович": 2,
-      "Кузнецов Владимир Сергеевич": 15,
-      "Кураев Валентин Александрович": 8,
-      "Лабонин Валентин Леонидович": 4,
-      "Новиков Анатолий Дмитриевич": 12,
-      "Пацвальд Павел Владимирович": 179,
-      "Потапейко Виктор Николаевич": 10,
-      "Тищенко Александр Григорьевич": 6,
-      "Черепков Виктор Иванович": 116,
-      "Против всех": 74
+      "gas:candidate-vibid:1001000290501": 18,
+      "gas:candidate-vibid:325300267019": 121,
+      "gas:candidate-vibid:325300266896": 2,
+      "gas:candidate-vibid:325300266802": 15,
+      "gas:candidate-vibid:1001000136027": 8,
+      "gas:candidate-vibid:1001000190319": 4,
+      "gas:candidate-vibid:325300267022": 12,
+      "gas:candidate-vibid:325300267002": 179,
+      "gas:candidate-vibid:1001000337622": 10,
+      "gas:candidate-vibid:1001000217906": 6,
+      "gas:candidate-vibid:325300266935": 116,
+      "special:against-all": 74
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=253002001&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=325300267557&region=0&sub_region=0&type=429",
@@ -6118,18 +6118,18 @@ export const duma_2003_uik_428_region_25_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Белецкий Николай Михайлович": 11,
-      "Имадаев Адам Михайлович": 173,
-      "Колупаев Евгений Иванович": 1,
-      "Кузнецов Владимир Сергеевич": 15,
-      "Кураев Валентин Александрович": 4,
-      "Лабонин Валентин Леонидович": 1,
-      "Новиков Анатолий Дмитриевич": 5,
-      "Пацвальд Павел Владимирович": 175,
-      "Потапейко Виктор Николаевич": 7,
-      "Тищенко Александр Григорьевич": 1,
-      "Черепков Виктор Иванович": 74,
-      "Против всех": 81
+      "gas:candidate-vibid:1001000290501": 11,
+      "gas:candidate-vibid:325300267019": 173,
+      "gas:candidate-vibid:325300266896": 1,
+      "gas:candidate-vibid:325300266802": 15,
+      "gas:candidate-vibid:1001000136027": 4,
+      "gas:candidate-vibid:1001000190319": 1,
+      "gas:candidate-vibid:325300267022": 5,
+      "gas:candidate-vibid:325300267002": 175,
+      "gas:candidate-vibid:1001000337622": 7,
+      "gas:candidate-vibid:1001000217906": 1,
+      "gas:candidate-vibid:325300266935": 74,
+      "special:against-all": 81
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=253002001&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=325300267557&region=0&sub_region=0&type=429",
@@ -6179,18 +6179,18 @@ export const duma_2003_uik_428_region_25_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Белецкий Николай Михайлович": 10,
-      "Имадаев Адам Михайлович": 250,
-      "Колупаев Евгений Иванович": 3,
-      "Кузнецов Владимир Сергеевич": 16,
-      "Кураев Валентин Александрович": 11,
-      "Лабонин Валентин Леонидович": 4,
-      "Новиков Анатолий Дмитриевич": 2,
-      "Пацвальд Павел Владимирович": 193,
-      "Потапейко Виктор Николаевич": 9,
-      "Тищенко Александр Григорьевич": 8,
-      "Черепков Виктор Иванович": 74,
-      "Против всех": 67
+      "gas:candidate-vibid:1001000290501": 10,
+      "gas:candidate-vibid:325300267019": 250,
+      "gas:candidate-vibid:325300266896": 3,
+      "gas:candidate-vibid:325300266802": 16,
+      "gas:candidate-vibid:1001000136027": 11,
+      "gas:candidate-vibid:1001000190319": 4,
+      "gas:candidate-vibid:325300267022": 2,
+      "gas:candidate-vibid:325300267002": 193,
+      "gas:candidate-vibid:1001000337622": 9,
+      "gas:candidate-vibid:1001000217906": 8,
+      "gas:candidate-vibid:325300266935": 74,
+      "special:against-all": 67
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=253002001&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=325300267557&region=0&sub_region=0&type=429",
@@ -6240,18 +6240,18 @@ export const duma_2003_uik_428_region_25_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Белецкий Николай Михайлович": 11,
-      "Имадаев Адам Михайлович": 209,
-      "Колупаев Евгений Иванович": 10,
-      "Кузнецов Владимир Сергеевич": 12,
-      "Кураев Валентин Александрович": 15,
-      "Лабонин Валентин Леонидович": 5,
-      "Новиков Анатолий Дмитриевич": 14,
-      "Пацвальд Павел Владимирович": 261,
-      "Потапейко Виктор Николаевич": 13,
-      "Тищенко Александр Григорьевич": 8,
-      "Черепков Виктор Иванович": 137,
-      "Против всех": 105
+      "gas:candidate-vibid:1001000290501": 11,
+      "gas:candidate-vibid:325300267019": 209,
+      "gas:candidate-vibid:325300266896": 10,
+      "gas:candidate-vibid:325300266802": 12,
+      "gas:candidate-vibid:1001000136027": 15,
+      "gas:candidate-vibid:1001000190319": 5,
+      "gas:candidate-vibid:325300267022": 14,
+      "gas:candidate-vibid:325300267002": 261,
+      "gas:candidate-vibid:1001000337622": 13,
+      "gas:candidate-vibid:1001000217906": 8,
+      "gas:candidate-vibid:325300266935": 137,
+      "special:against-all": 105
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=253002001&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=325300267557&region=0&sub_region=0&type=429",
@@ -6301,18 +6301,18 @@ export const duma_2003_uik_428_region_25_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Белецкий Николай Михайлович": 11,
-      "Имадаев Адам Михайлович": 216,
-      "Колупаев Евгений Иванович": 6,
-      "Кузнецов Владимир Сергеевич": 13,
-      "Кураев Валентин Александрович": 8,
-      "Лабонин Валентин Леонидович": 2,
-      "Новиков Анатолий Дмитриевич": 9,
-      "Пацвальд Павел Владимирович": 211,
-      "Потапейко Виктор Николаевич": 9,
-      "Тищенко Александр Григорьевич": 3,
-      "Черепков Виктор Иванович": 102,
-      "Против всех": 77
+      "gas:candidate-vibid:1001000290501": 11,
+      "gas:candidate-vibid:325300267019": 216,
+      "gas:candidate-vibid:325300266896": 6,
+      "gas:candidate-vibid:325300266802": 13,
+      "gas:candidate-vibid:1001000136027": 8,
+      "gas:candidate-vibid:1001000190319": 2,
+      "gas:candidate-vibid:325300267022": 9,
+      "gas:candidate-vibid:325300267002": 211,
+      "gas:candidate-vibid:1001000337622": 9,
+      "gas:candidate-vibid:1001000217906": 3,
+      "gas:candidate-vibid:325300266935": 102,
+      "special:against-all": 77
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=253002001&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=325300267557&region=0&sub_region=0&type=429",
@@ -6362,18 +6362,18 @@ export const duma_2003_uik_428_region_25_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Белецкий Николай Михайлович": 7,
-      "Имадаев Адам Михайлович": 124,
-      "Колупаев Евгений Иванович": 4,
-      "Кузнецов Владимир Сергеевич": 6,
-      "Кураев Валентин Александрович": 2,
-      "Лабонин Валентин Леонидович": 1,
-      "Новиков Анатолий Дмитриевич": 4,
-      "Пацвальд Павел Владимирович": 63,
-      "Потапейко Виктор Николаевич": 5,
-      "Тищенко Александр Григорьевич": 2,
-      "Черепков Виктор Иванович": 31,
-      "Против всех": 42
+      "gas:candidate-vibid:1001000290501": 7,
+      "gas:candidate-vibid:325300267019": 124,
+      "gas:candidate-vibid:325300266896": 4,
+      "gas:candidate-vibid:325300266802": 6,
+      "gas:candidate-vibid:1001000136027": 2,
+      "gas:candidate-vibid:1001000190319": 1,
+      "gas:candidate-vibid:325300267022": 4,
+      "gas:candidate-vibid:325300267002": 63,
+      "gas:candidate-vibid:1001000337622": 5,
+      "gas:candidate-vibid:1001000217906": 2,
+      "gas:candidate-vibid:325300266935": 31,
+      "special:against-all": 42
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=253002001&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=325300267557&region=0&sub_region=0&type=429",
@@ -6423,18 +6423,18 @@ export const duma_2003_uik_428_region_25_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Белецкий Николай Михайлович": 14,
-      "Имадаев Адам Михайлович": 235,
-      "Колупаев Евгений Иванович": 7,
-      "Кузнецов Владимир Сергеевич": 25,
-      "Кураев Валентин Александрович": 4,
-      "Лабонин Валентин Леонидович": 2,
-      "Новиков Анатолий Дмитриевич": 30,
-      "Пацвальд Павел Владимирович": 325,
-      "Потапейко Виктор Николаевич": 16,
-      "Тищенко Александр Григорьевич": 5,
-      "Черепков Виктор Иванович": 224,
-      "Против всех": 148
+      "gas:candidate-vibid:1001000290501": 14,
+      "gas:candidate-vibid:325300267019": 235,
+      "gas:candidate-vibid:325300266896": 7,
+      "gas:candidate-vibid:325300266802": 25,
+      "gas:candidate-vibid:1001000136027": 4,
+      "gas:candidate-vibid:1001000190319": 2,
+      "gas:candidate-vibid:325300267022": 30,
+      "gas:candidate-vibid:325300267002": 325,
+      "gas:candidate-vibid:1001000337622": 16,
+      "gas:candidate-vibid:1001000217906": 5,
+      "gas:candidate-vibid:325300266935": 224,
+      "special:against-all": 148
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=253002001&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=325300267557&region=0&sub_region=0&type=429",
@@ -6484,18 +6484,18 @@ export const duma_2003_uik_428_region_25_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Белецкий Николай Михайлович": 11,
-      "Имадаев Адам Михайлович": 153,
-      "Колупаев Евгений Иванович": 2,
-      "Кузнецов Владимир Сергеевич": 12,
-      "Кураев Валентин Александрович": 7,
-      "Лабонин Валентин Леонидович": 2,
-      "Новиков Анатолий Дмитриевич": 16,
-      "Пацвальд Павел Владимирович": 131,
-      "Потапейко Виктор Николаевич": 18,
-      "Тищенко Александр Григорьевич": 3,
-      "Черепков Виктор Иванович": 58,
-      "Против всех": 51
+      "gas:candidate-vibid:1001000290501": 11,
+      "gas:candidate-vibid:325300267019": 153,
+      "gas:candidate-vibid:325300266896": 2,
+      "gas:candidate-vibid:325300266802": 12,
+      "gas:candidate-vibid:1001000136027": 7,
+      "gas:candidate-vibid:1001000190319": 2,
+      "gas:candidate-vibid:325300267022": 16,
+      "gas:candidate-vibid:325300267002": 131,
+      "gas:candidate-vibid:1001000337622": 18,
+      "gas:candidate-vibid:1001000217906": 3,
+      "gas:candidate-vibid:325300266935": 58,
+      "special:against-all": 51
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=253002001&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=325300267557&region=0&sub_region=0&type=429",
@@ -6545,18 +6545,18 @@ export const duma_2003_uik_428_region_25_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Белецкий Николай Михайлович": 3,
-      "Имадаев Адам Михайлович": 58,
-      "Колупаев Евгений Иванович": 0,
-      "Кузнецов Владимир Сергеевич": 7,
-      "Кураев Валентин Александрович": 0,
-      "Лабонин Валентин Леонидович": 0,
-      "Новиков Анатолий Дмитриевич": 2,
-      "Пацвальд Павел Владимирович": 114,
-      "Потапейко Виктор Николаевич": 1,
-      "Тищенко Александр Григорьевич": 1,
-      "Черепков Виктор Иванович": 36,
-      "Против всех": 41
+      "gas:candidate-vibid:1001000290501": 3,
+      "gas:candidate-vibid:325300267019": 58,
+      "gas:candidate-vibid:325300266896": 0,
+      "gas:candidate-vibid:325300266802": 7,
+      "gas:candidate-vibid:1001000136027": 0,
+      "gas:candidate-vibid:1001000190319": 0,
+      "gas:candidate-vibid:325300267022": 2,
+      "gas:candidate-vibid:325300267002": 114,
+      "gas:candidate-vibid:1001000337622": 1,
+      "gas:candidate-vibid:1001000217906": 1,
+      "gas:candidate-vibid:325300266935": 36,
+      "special:against-all": 41
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=253002001&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=325300267557&region=0&sub_region=0&type=429",
@@ -6606,18 +6606,18 @@ export const duma_2003_uik_428_region_25_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Белецкий Николай Михайлович": 2,
-      "Имадаев Адам Михайлович": 64,
-      "Колупаев Евгений Иванович": 2,
-      "Кузнецов Владимир Сергеевич": 0,
-      "Кураев Валентин Александрович": 0,
-      "Лабонин Валентин Леонидович": 0,
-      "Новиков Анатолий Дмитриевич": 6,
-      "Пацвальд Павел Владимирович": 38,
-      "Потапейко Виктор Николаевич": 1,
-      "Тищенко Александр Григорьевич": 1,
-      "Черепков Виктор Иванович": 11,
-      "Против всех": 14
+      "gas:candidate-vibid:1001000290501": 2,
+      "gas:candidate-vibid:325300267019": 64,
+      "gas:candidate-vibid:325300266896": 2,
+      "gas:candidate-vibid:325300266802": 0,
+      "gas:candidate-vibid:1001000136027": 0,
+      "gas:candidate-vibid:1001000190319": 0,
+      "gas:candidate-vibid:325300267022": 6,
+      "gas:candidate-vibid:325300267002": 38,
+      "gas:candidate-vibid:1001000337622": 1,
+      "gas:candidate-vibid:1001000217906": 1,
+      "gas:candidate-vibid:325300266935": 11,
+      "special:against-all": 14
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=253002001&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=325300267557&region=0&sub_region=0&type=429",
@@ -6667,18 +6667,18 @@ export const duma_2003_uik_428_region_25_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Белецкий Николай Михайлович": 58,
-      "Имадаев Адам Михайлович": 99,
-      "Колупаев Евгений Иванович": 34,
-      "Кузнецов Владимир Сергеевич": 100,
-      "Кураев Валентин Александрович": 38,
-      "Лабонин Валентин Леонидович": 28,
-      "Новиков Анатолий Дмитриевич": 27,
-      "Пацвальд Павел Владимирович": 287,
-      "Потапейко Виктор Николаевич": 27,
-      "Тищенко Александр Григорьевич": 30,
-      "Черепков Виктор Иванович": 245,
-      "Против всех": 236
+      "gas:candidate-vibid:1001000290501": 58,
+      "gas:candidate-vibid:325300267019": 99,
+      "gas:candidate-vibid:325300266896": 34,
+      "gas:candidate-vibid:325300266802": 100,
+      "gas:candidate-vibid:1001000136027": 38,
+      "gas:candidate-vibid:1001000190319": 28,
+      "gas:candidate-vibid:325300267022": 27,
+      "gas:candidate-vibid:325300267002": 287,
+      "gas:candidate-vibid:1001000337622": 27,
+      "gas:candidate-vibid:1001000217906": 30,
+      "gas:candidate-vibid:325300266935": 245,
+      "special:against-all": 236
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=253002002&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=325300267558&region=0&sub_region=0&type=429",
@@ -6728,18 +6728,18 @@ export const duma_2003_uik_428_region_25_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Белецкий Николай Михайлович": 11,
-      "Имадаев Адам Михайлович": 58,
-      "Колупаев Евгений Иванович": 7,
-      "Кузнецов Владимир Сергеевич": 51,
-      "Кураев Валентин Александрович": 10,
-      "Лабонин Валентин Леонидович": 11,
-      "Новиков Анатолий Дмитриевич": 0,
-      "Пацвальд Павел Владимирович": 191,
-      "Потапейко Виктор Николаевич": 32,
-      "Тищенко Александр Григорьевич": 9,
-      "Черепков Виктор Иванович": 227,
-      "Против всех": 58
+      "gas:candidate-vibid:1001000290501": 11,
+      "gas:candidate-vibid:325300267019": 58,
+      "gas:candidate-vibid:325300266896": 7,
+      "gas:candidate-vibid:325300266802": 51,
+      "gas:candidate-vibid:1001000136027": 10,
+      "gas:candidate-vibid:1001000190319": 11,
+      "gas:candidate-vibid:325300267022": 0,
+      "gas:candidate-vibid:325300267002": 191,
+      "gas:candidate-vibid:1001000337622": 32,
+      "gas:candidate-vibid:1001000217906": 9,
+      "gas:candidate-vibid:325300266935": 227,
+      "special:against-all": 58
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=253002002&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=325300267558&region=0&sub_region=0&type=429",
@@ -6789,18 +6789,18 @@ export const duma_2003_uik_428_region_25_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Белецкий Николай Михайлович": 27,
-      "Имадаев Адам Михайлович": 90,
-      "Колупаев Евгений Иванович": 5,
-      "Кузнецов Владимир Сергеевич": 61,
-      "Кураев Валентин Александрович": 9,
-      "Лабонин Валентин Леонидович": 9,
-      "Новиков Анатолий Дмитриевич": 7,
-      "Пацвальд Павел Владимирович": 221,
-      "Потапейко Виктор Николаевич": 52,
-      "Тищенко Александр Григорьевич": 29,
-      "Черепков Виктор Иванович": 304,
-      "Против всех": 70
+      "gas:candidate-vibid:1001000290501": 27,
+      "gas:candidate-vibid:325300267019": 90,
+      "gas:candidate-vibid:325300266896": 5,
+      "gas:candidate-vibid:325300266802": 61,
+      "gas:candidate-vibid:1001000136027": 9,
+      "gas:candidate-vibid:1001000190319": 9,
+      "gas:candidate-vibid:325300267022": 7,
+      "gas:candidate-vibid:325300267002": 221,
+      "gas:candidate-vibid:1001000337622": 52,
+      "gas:candidate-vibid:1001000217906": 29,
+      "gas:candidate-vibid:325300266935": 304,
+      "special:against-all": 70
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=253002002&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=325300267558&region=0&sub_region=0&type=429",
@@ -6850,18 +6850,18 @@ export const duma_2003_uik_428_region_25_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Белецкий Николай Михайлович": 27,
-      "Имадаев Адам Михайлович": 142,
-      "Колупаев Евгений Иванович": 13,
-      "Кузнецов Владимир Сергеевич": 105,
-      "Кураев Валентин Александрович": 18,
-      "Лабонин Валентин Леонидович": 9,
-      "Новиков Анатолий Дмитриевич": 5,
-      "Пацвальд Павел Владимирович": 200,
-      "Потапейко Виктор Николаевич": 27,
-      "Тищенко Александр Григорьевич": 16,
-      "Черепков Виктор Иванович": 384,
-      "Против всех": 96
+      "gas:candidate-vibid:1001000290501": 27,
+      "gas:candidate-vibid:325300267019": 142,
+      "gas:candidate-vibid:325300266896": 13,
+      "gas:candidate-vibid:325300266802": 105,
+      "gas:candidate-vibid:1001000136027": 18,
+      "gas:candidate-vibid:1001000190319": 9,
+      "gas:candidate-vibid:325300267022": 5,
+      "gas:candidate-vibid:325300267002": 200,
+      "gas:candidate-vibid:1001000337622": 27,
+      "gas:candidate-vibid:1001000217906": 16,
+      "gas:candidate-vibid:325300266935": 384,
+      "special:against-all": 96
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=253002002&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=325300267558&region=0&sub_region=0&type=429",
@@ -6911,18 +6911,18 @@ export const duma_2003_uik_428_region_25_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Белецкий Николай Михайлович": 27,
-      "Имадаев Адам Михайлович": 80,
-      "Колупаев Евгений Иванович": 4,
-      "Кузнецов Владимир Сергеевич": 84,
-      "Кураев Валентин Александрович": 9,
-      "Лабонин Валентин Леонидович": 11,
-      "Новиков Анатолий Дмитриевич": 6,
-      "Пацвальд Павел Владимирович": 179,
-      "Потапейко Виктор Николаевич": 29,
-      "Тищенко Александр Григорьевич": 16,
-      "Черепков Виктор Иванович": 317,
-      "Против всех": 78
+      "gas:candidate-vibid:1001000290501": 27,
+      "gas:candidate-vibid:325300267019": 80,
+      "gas:candidate-vibid:325300266896": 4,
+      "gas:candidate-vibid:325300266802": 84,
+      "gas:candidate-vibid:1001000136027": 9,
+      "gas:candidate-vibid:1001000190319": 11,
+      "gas:candidate-vibid:325300267022": 6,
+      "gas:candidate-vibid:325300267002": 179,
+      "gas:candidate-vibid:1001000337622": 29,
+      "gas:candidate-vibid:1001000217906": 16,
+      "gas:candidate-vibid:325300266935": 317,
+      "special:against-all": 78
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=253002002&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=325300267558&region=0&sub_region=0&type=429",
@@ -6972,18 +6972,18 @@ export const duma_2003_uik_428_region_25_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Белецкий Николай Михайлович": 1,
-      "Имадаев Адам Михайлович": 2,
-      "Колупаев Евгений Иванович": 1,
-      "Кузнецов Владимир Сергеевич": 5,
-      "Кураев Валентин Александрович": 7,
-      "Лабонин Валентин Леонидович": 2,
-      "Новиков Анатолий Дмитриевич": 2,
-      "Пацвальд Павел Владимирович": 24,
-      "Потапейко Виктор Николаевич": 1,
-      "Тищенко Александр Григорьевич": 3,
-      "Черепков Виктор Иванович": 90,
-      "Против всех": 37
+      "gas:candidate-vibid:1001000290501": 1,
+      "gas:candidate-vibid:325300267019": 2,
+      "gas:candidate-vibid:325300266896": 1,
+      "gas:candidate-vibid:325300266802": 5,
+      "gas:candidate-vibid:1001000136027": 7,
+      "gas:candidate-vibid:1001000190319": 2,
+      "gas:candidate-vibid:325300267022": 2,
+      "gas:candidate-vibid:325300267002": 24,
+      "gas:candidate-vibid:1001000337622": 1,
+      "gas:candidate-vibid:1001000217906": 3,
+      "gas:candidate-vibid:325300266935": 90,
+      "special:against-all": 37
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=253002002&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=325300267558&region=0&sub_region=0&type=429",
@@ -7033,18 +7033,18 @@ export const duma_2003_uik_428_region_25_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Белецкий Николай Михайлович": 8,
-      "Имадаев Адам Михайлович": 19,
-      "Колупаев Евгений Иванович": 7,
-      "Кузнецов Владимир Сергеевич": 28,
-      "Кураев Валентин Александрович": 6,
-      "Лабонин Валентин Леонидович": 3,
-      "Новиков Анатолий Дмитриевич": 5,
-      "Пацвальд Павел Владимирович": 293,
-      "Потапейко Виктор Николаевич": 1,
-      "Тищенко Александр Григорьевич": 2,
-      "Черепков Виктор Иванович": 117,
-      "Против всех": 24
+      "gas:candidate-vibid:1001000290501": 8,
+      "gas:candidate-vibid:325300267019": 19,
+      "gas:candidate-vibid:325300266896": 7,
+      "gas:candidate-vibid:325300266802": 28,
+      "gas:candidate-vibid:1001000136027": 6,
+      "gas:candidate-vibid:1001000190319": 3,
+      "gas:candidate-vibid:325300267022": 5,
+      "gas:candidate-vibid:325300267002": 293,
+      "gas:candidate-vibid:1001000337622": 1,
+      "gas:candidate-vibid:1001000217906": 2,
+      "gas:candidate-vibid:325300266935": 117,
+      "special:against-all": 24
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=253002002&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=325300267558&region=0&sub_region=0&type=429",
@@ -7094,18 +7094,18 @@ export const duma_2003_uik_428_region_25_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Белецкий Николай Михайлович": 21,
-      "Имадаев Адам Михайлович": 53,
-      "Колупаев Евгений Иванович": 6,
-      "Кузнецов Владимир Сергеевич": 58,
-      "Кураев Валентин Александрович": 5,
-      "Лабонин Валентин Леонидович": 6,
-      "Новиков Анатолий Дмитриевич": 2,
-      "Пацвальд Павел Владимирович": 192,
-      "Потапейко Виктор Николаевич": 60,
-      "Тищенко Александр Григорьевич": 5,
-      "Черепков Виктор Иванович": 240,
-      "Против всех": 82
+      "gas:candidate-vibid:1001000290501": 21,
+      "gas:candidate-vibid:325300267019": 53,
+      "gas:candidate-vibid:325300266896": 6,
+      "gas:candidate-vibid:325300266802": 58,
+      "gas:candidate-vibid:1001000136027": 5,
+      "gas:candidate-vibid:1001000190319": 6,
+      "gas:candidate-vibid:325300267022": 2,
+      "gas:candidate-vibid:325300267002": 192,
+      "gas:candidate-vibid:1001000337622": 60,
+      "gas:candidate-vibid:1001000217906": 5,
+      "gas:candidate-vibid:325300266935": 240,
+      "special:against-all": 82
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=253002002&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=325300267558&region=0&sub_region=0&type=429",
@@ -7155,18 +7155,18 @@ export const duma_2003_uik_428_region_25_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Белецкий Николай Михайлович": 35,
-      "Имадаев Адам Михайлович": 50,
-      "Колупаев Евгений Иванович": 9,
-      "Кузнецов Владимир Сергеевич": 76,
-      "Кураев Валентин Александрович": 7,
-      "Лабонин Валентин Леонидович": 4,
-      "Новиков Анатолий Дмитриевич": 12,
-      "Пацвальд Павел Владимирович": 143,
-      "Потапейко Виктор Николаевич": 39,
-      "Тищенко Александр Григорьевич": 5,
-      "Черепков Виктор Иванович": 305,
-      "Против всех": 107
+      "gas:candidate-vibid:1001000290501": 35,
+      "gas:candidate-vibid:325300267019": 50,
+      "gas:candidate-vibid:325300266896": 9,
+      "gas:candidate-vibid:325300266802": 76,
+      "gas:candidate-vibid:1001000136027": 7,
+      "gas:candidate-vibid:1001000190319": 4,
+      "gas:candidate-vibid:325300267022": 12,
+      "gas:candidate-vibid:325300267002": 143,
+      "gas:candidate-vibid:1001000337622": 39,
+      "gas:candidate-vibid:1001000217906": 5,
+      "gas:candidate-vibid:325300266935": 305,
+      "special:against-all": 107
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=253002002&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=325300267558&region=0&sub_region=0&type=429",
@@ -7216,18 +7216,18 @@ export const duma_2003_uik_428_region_25_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Белецкий Николай Михайлович": 38,
-      "Имадаев Адам Михайлович": 101,
-      "Колупаев Евгений Иванович": 12,
-      "Кузнецов Владимир Сергеевич": 113,
-      "Кураев Валентин Александрович": 8,
-      "Лабонин Валентин Леонидович": 9,
-      "Новиков Анатолий Дмитриевич": 9,
-      "Пацвальд Павел Владимирович": 310,
-      "Потапейко Виктор Николаевич": 66,
-      "Тищенко Александр Григорьевич": 15,
-      "Черепков Виктор Иванович": 488,
-      "Против всех": 126
+      "gas:candidate-vibid:1001000290501": 38,
+      "gas:candidate-vibid:325300267019": 101,
+      "gas:candidate-vibid:325300266896": 12,
+      "gas:candidate-vibid:325300266802": 113,
+      "gas:candidate-vibid:1001000136027": 8,
+      "gas:candidate-vibid:1001000190319": 9,
+      "gas:candidate-vibid:325300267022": 9,
+      "gas:candidate-vibid:325300267002": 310,
+      "gas:candidate-vibid:1001000337622": 66,
+      "gas:candidate-vibid:1001000217906": 15,
+      "gas:candidate-vibid:325300266935": 488,
+      "special:against-all": 126
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=253002002&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=325300267558&region=0&sub_region=0&type=429",
@@ -7277,18 +7277,18 @@ export const duma_2003_uik_428_region_25_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Белецкий Николай Михайлович": 19,
-      "Имадаев Адам Михайлович": 48,
-      "Колупаев Евгений Иванович": 8,
-      "Кузнецов Владимир Сергеевич": 49,
-      "Кураев Валентин Александрович": 12,
-      "Лабонин Валентин Леонидович": 4,
-      "Новиков Анатолий Дмитриевич": 2,
-      "Пацвальд Павел Владимирович": 243,
-      "Потапейко Виктор Николаевич": 31,
-      "Тищенко Александр Григорьевич": 11,
-      "Черепков Виктор Иванович": 303,
-      "Против всех": 95
+      "gas:candidate-vibid:1001000290501": 19,
+      "gas:candidate-vibid:325300267019": 48,
+      "gas:candidate-vibid:325300266896": 8,
+      "gas:candidate-vibid:325300266802": 49,
+      "gas:candidate-vibid:1001000136027": 12,
+      "gas:candidate-vibid:1001000190319": 4,
+      "gas:candidate-vibid:325300267022": 2,
+      "gas:candidate-vibid:325300267002": 243,
+      "gas:candidate-vibid:1001000337622": 31,
+      "gas:candidate-vibid:1001000217906": 11,
+      "gas:candidate-vibid:325300266935": 303,
+      "special:against-all": 95
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=253002002&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=325300267558&region=0&sub_region=0&type=429",
@@ -7338,18 +7338,18 @@ export const duma_2003_uik_428_region_25_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Белецкий Николай Михайлович": 30,
-      "Имадаев Адам Михайлович": 112,
-      "Колупаев Евгений Иванович": 9,
-      "Кузнецов Владимир Сергеевич": 90,
-      "Кураев Валентин Александрович": 7,
-      "Лабонин Валентин Леонидович": 16,
-      "Новиков Анатолий Дмитриевич": 7,
-      "Пацвальд Павел Владимирович": 234,
-      "Потапейко Виктор Николаевич": 44,
-      "Тищенко Александр Григорьевич": 15,
-      "Черепков Виктор Иванович": 352,
-      "Против всех": 98
+      "gas:candidate-vibid:1001000290501": 30,
+      "gas:candidate-vibid:325300267019": 112,
+      "gas:candidate-vibid:325300266896": 9,
+      "gas:candidate-vibid:325300266802": 90,
+      "gas:candidate-vibid:1001000136027": 7,
+      "gas:candidate-vibid:1001000190319": 16,
+      "gas:candidate-vibid:325300267022": 7,
+      "gas:candidate-vibid:325300267002": 234,
+      "gas:candidate-vibid:1001000337622": 44,
+      "gas:candidate-vibid:1001000217906": 15,
+      "gas:candidate-vibid:325300266935": 352,
+      "special:against-all": 98
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=253002002&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=325300267558&region=0&sub_region=0&type=429",
@@ -7399,18 +7399,18 @@ export const duma_2003_uik_428_region_25_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Белецкий Николай Михайлович": 30,
-      "Имадаев Адам Михайлович": 85,
-      "Колупаев Евгений Иванович": 6,
-      "Кузнецов Владимир Сергеевич": 70,
-      "Кураев Валентин Александрович": 8,
-      "Лабонин Валентин Леонидович": 8,
-      "Новиков Анатолий Дмитриевич": 8,
-      "Пацвальд Павел Владимирович": 231,
-      "Потапейко Виктор Николаевич": 23,
-      "Тищенко Александр Григорьевич": 18,
-      "Черепков Виктор Иванович": 431,
-      "Против всех": 108
+      "gas:candidate-vibid:1001000290501": 30,
+      "gas:candidate-vibid:325300267019": 85,
+      "gas:candidate-vibid:325300266896": 6,
+      "gas:candidate-vibid:325300266802": 70,
+      "gas:candidate-vibid:1001000136027": 8,
+      "gas:candidate-vibid:1001000190319": 8,
+      "gas:candidate-vibid:325300267022": 8,
+      "gas:candidate-vibid:325300267002": 231,
+      "gas:candidate-vibid:1001000337622": 23,
+      "gas:candidate-vibid:1001000217906": 18,
+      "gas:candidate-vibid:325300266935": 431,
+      "special:against-all": 108
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=253002002&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=325300267558&region=0&sub_region=0&type=429",
@@ -7460,18 +7460,18 @@ export const duma_2003_uik_428_region_25_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Белецкий Николай Михайлович": 36,
-      "Имадаев Адам Михайлович": 94,
-      "Колупаев Евгений Иванович": 4,
-      "Кузнецов Владимир Сергеевич": 98,
-      "Кураев Валентин Александрович": 17,
-      "Лабонин Валентин Леонидович": 13,
-      "Новиков Анатолий Дмитриевич": 8,
-      "Пацвальд Павел Владимирович": 277,
-      "Потапейко Виктор Николаевич": 31,
-      "Тищенко Александр Григорьевич": 17,
-      "Черепков Виктор Иванович": 525,
-      "Против всех": 103
+      "gas:candidate-vibid:1001000290501": 36,
+      "gas:candidate-vibid:325300267019": 94,
+      "gas:candidate-vibid:325300266896": 4,
+      "gas:candidate-vibid:325300266802": 98,
+      "gas:candidate-vibid:1001000136027": 17,
+      "gas:candidate-vibid:1001000190319": 13,
+      "gas:candidate-vibid:325300267022": 8,
+      "gas:candidate-vibid:325300267002": 277,
+      "gas:candidate-vibid:1001000337622": 31,
+      "gas:candidate-vibid:1001000217906": 17,
+      "gas:candidate-vibid:325300266935": 525,
+      "special:against-all": 103
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=253002002&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=325300267558&region=0&sub_region=0&type=429",
@@ -7521,18 +7521,18 @@ export const duma_2003_uik_428_region_25_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Белецкий Николай Михайлович": 40,
-      "Имадаев Адам Михайлович": 98,
-      "Колупаев Евгений Иванович": 6,
-      "Кузнецов Владимир Сергеевич": 98,
-      "Кураев Валентин Александрович": 17,
-      "Лабонин Валентин Леонидович": 14,
-      "Новиков Анатолий Дмитриевич": 13,
-      "Пацвальд Павел Владимирович": 288,
-      "Потапейко Виктор Николаевич": 36,
-      "Тищенко Александр Григорьевич": 16,
-      "Черепков Виктор Иванович": 485,
-      "Против всех": 163
+      "gas:candidate-vibid:1001000290501": 40,
+      "gas:candidate-vibid:325300267019": 98,
+      "gas:candidate-vibid:325300266896": 6,
+      "gas:candidate-vibid:325300266802": 98,
+      "gas:candidate-vibid:1001000136027": 17,
+      "gas:candidate-vibid:1001000190319": 14,
+      "gas:candidate-vibid:325300267022": 13,
+      "gas:candidate-vibid:325300267002": 288,
+      "gas:candidate-vibid:1001000337622": 36,
+      "gas:candidate-vibid:1001000217906": 16,
+      "gas:candidate-vibid:325300266935": 485,
+      "special:against-all": 163
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=253002002&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=325300267558&region=0&sub_region=0&type=429",
@@ -7582,18 +7582,18 @@ export const duma_2003_uik_428_region_25_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Белецкий Николай Михайлович": 33,
-      "Имадаев Адам Михайлович": 112,
-      "Колупаев Евгений Иванович": 11,
-      "Кузнецов Владимир Сергеевич": 68,
-      "Кураев Валентин Александрович": 17,
-      "Лабонин Валентин Леонидович": 7,
-      "Новиков Анатолий Дмитриевич": 8,
-      "Пацвальд Павел Владимирович": 315,
-      "Потапейко Виктор Николаевич": 21,
-      "Тищенко Александр Григорьевич": 21,
-      "Черепков Виктор Иванович": 430,
-      "Против всех": 141
+      "gas:candidate-vibid:1001000290501": 33,
+      "gas:candidate-vibid:325300267019": 112,
+      "gas:candidate-vibid:325300266896": 11,
+      "gas:candidate-vibid:325300266802": 68,
+      "gas:candidate-vibid:1001000136027": 17,
+      "gas:candidate-vibid:1001000190319": 7,
+      "gas:candidate-vibid:325300267022": 8,
+      "gas:candidate-vibid:325300267002": 315,
+      "gas:candidate-vibid:1001000337622": 21,
+      "gas:candidate-vibid:1001000217906": 21,
+      "gas:candidate-vibid:325300266935": 430,
+      "special:against-all": 141
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=253002002&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=325300267558&region=0&sub_region=0&type=429",
@@ -7643,18 +7643,18 @@ export const duma_2003_uik_428_region_25_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Белецкий Николай Михайлович": 19,
-      "Имадаев Адам Михайлович": 92,
-      "Колупаев Евгений Иванович": 13,
-      "Кузнецов Владимир Сергеевич": 123,
-      "Кураев Валентин Александрович": 19,
-      "Лабонин Валентин Леонидович": 10,
-      "Новиков Анатолий Дмитриевич": 14,
-      "Пацвальд Павел Владимирович": 244,
-      "Потапейко Виктор Николаевич": 22,
-      "Тищенко Александр Григорьевич": 19,
-      "Черепков Виктор Иванович": 421,
-      "Против всех": 128
+      "gas:candidate-vibid:1001000290501": 19,
+      "gas:candidate-vibid:325300267019": 92,
+      "gas:candidate-vibid:325300266896": 13,
+      "gas:candidate-vibid:325300266802": 123,
+      "gas:candidate-vibid:1001000136027": 19,
+      "gas:candidate-vibid:1001000190319": 10,
+      "gas:candidate-vibid:325300267022": 14,
+      "gas:candidate-vibid:325300267002": 244,
+      "gas:candidate-vibid:1001000337622": 22,
+      "gas:candidate-vibid:1001000217906": 19,
+      "gas:candidate-vibid:325300266935": 421,
+      "special:against-all": 128
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=253002002&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=325300267558&region=0&sub_region=0&type=429",
@@ -7704,18 +7704,18 @@ export const duma_2003_uik_428_region_25_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Белецкий Николай Михайлович": 32,
-      "Имадаев Адам Михайлович": 95,
-      "Колупаев Евгений Иванович": 11,
-      "Кузнецов Владимир Сергеевич": 77,
-      "Кураев Валентин Александрович": 15,
-      "Лабонин Валентин Леонидович": 4,
-      "Новиков Анатолий Дмитриевич": 6,
-      "Пацвальд Павел Владимирович": 293,
-      "Потапейко Виктор Николаевич": 26,
-      "Тищенко Александр Григорьевич": 21,
-      "Черепков Виктор Иванович": 488,
-      "Против всех": 128
+      "gas:candidate-vibid:1001000290501": 32,
+      "gas:candidate-vibid:325300267019": 95,
+      "gas:candidate-vibid:325300266896": 11,
+      "gas:candidate-vibid:325300266802": 77,
+      "gas:candidate-vibid:1001000136027": 15,
+      "gas:candidate-vibid:1001000190319": 4,
+      "gas:candidate-vibid:325300267022": 6,
+      "gas:candidate-vibid:325300267002": 293,
+      "gas:candidate-vibid:1001000337622": 26,
+      "gas:candidate-vibid:1001000217906": 21,
+      "gas:candidate-vibid:325300266935": 488,
+      "special:against-all": 128
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=253002002&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=325300267558&region=0&sub_region=0&type=429",
@@ -7765,18 +7765,18 @@ export const duma_2003_uik_428_region_25_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Белецкий Николай Михайлович": 21,
-      "Имадаев Адам Михайлович": 67,
-      "Колупаев Евгений Иванович": 9,
-      "Кузнецов Владимир Сергеевич": 46,
-      "Кураев Валентин Александрович": 7,
-      "Лабонин Валентин Леонидович": 5,
-      "Новиков Анатолий Дмитриевич": 6,
-      "Пацвальд Павел Владимирович": 175,
-      "Потапейко Виктор Николаевич": 16,
-      "Тищенко Александр Григорьевич": 12,
-      "Черепков Виктор Иванович": 287,
-      "Против всех": 84
+      "gas:candidate-vibid:1001000290501": 21,
+      "gas:candidate-vibid:325300267019": 67,
+      "gas:candidate-vibid:325300266896": 9,
+      "gas:candidate-vibid:325300266802": 46,
+      "gas:candidate-vibid:1001000136027": 7,
+      "gas:candidate-vibid:1001000190319": 5,
+      "gas:candidate-vibid:325300267022": 6,
+      "gas:candidate-vibid:325300267002": 175,
+      "gas:candidate-vibid:1001000337622": 16,
+      "gas:candidate-vibid:1001000217906": 12,
+      "gas:candidate-vibid:325300266935": 287,
+      "special:against-all": 84
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=253002002&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=325300267558&region=0&sub_region=0&type=429",
@@ -7826,18 +7826,18 @@ export const duma_2003_uik_428_region_25_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Белецкий Николай Михайлович": 38,
-      "Имадаев Адам Михайлович": 65,
-      "Колупаев Евгений Иванович": 14,
-      "Кузнецов Владимир Сергеевич": 73,
-      "Кураев Валентин Александрович": 16,
-      "Лабонин Валентин Леонидович": 5,
-      "Новиков Анатолий Дмитриевич": 8,
-      "Пацвальд Павел Владимирович": 304,
-      "Потапейко Виктор Николаевич": 28,
-      "Тищенко Александр Григорьевич": 40,
-      "Черепков Виктор Иванович": 409,
-      "Против всех": 175
+      "gas:candidate-vibid:1001000290501": 38,
+      "gas:candidate-vibid:325300267019": 65,
+      "gas:candidate-vibid:325300266896": 14,
+      "gas:candidate-vibid:325300266802": 73,
+      "gas:candidate-vibid:1001000136027": 16,
+      "gas:candidate-vibid:1001000190319": 5,
+      "gas:candidate-vibid:325300267022": 8,
+      "gas:candidate-vibid:325300267002": 304,
+      "gas:candidate-vibid:1001000337622": 28,
+      "gas:candidate-vibid:1001000217906": 40,
+      "gas:candidate-vibid:325300266935": 409,
+      "special:against-all": 175
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=253002002&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=325300267558&region=0&sub_region=0&type=429",
@@ -7887,18 +7887,18 @@ export const duma_2003_uik_428_region_25_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Белецкий Николай Михайлович": 35,
-      "Имадаев Адам Михайлович": 88,
-      "Колупаев Евгений Иванович": 7,
-      "Кузнецов Владимир Сергеевич": 101,
-      "Кураев Валентин Александрович": 12,
-      "Лабонин Валентин Леонидович": 11,
-      "Новиков Анатолий Дмитриевич": 9,
-      "Пацвальд Павел Владимирович": 345,
-      "Потапейко Виктор Николаевич": 60,
-      "Тищенко Александр Григорьевич": 19,
-      "Черепков Виктор Иванович": 431,
-      "Против всех": 109
+      "gas:candidate-vibid:1001000290501": 35,
+      "gas:candidate-vibid:325300267019": 88,
+      "gas:candidate-vibid:325300266896": 7,
+      "gas:candidate-vibid:325300266802": 101,
+      "gas:candidate-vibid:1001000136027": 12,
+      "gas:candidate-vibid:1001000190319": 11,
+      "gas:candidate-vibid:325300267022": 9,
+      "gas:candidate-vibid:325300267002": 345,
+      "gas:candidate-vibid:1001000337622": 60,
+      "gas:candidate-vibid:1001000217906": 19,
+      "gas:candidate-vibid:325300266935": 431,
+      "special:against-all": 109
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=253002002&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=325300267558&region=0&sub_region=0&type=429",
@@ -7948,18 +7948,18 @@ export const duma_2003_uik_428_region_25_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Белецкий Николай Михайлович": 29,
-      "Имадаев Адам Михайлович": 59,
-      "Колупаев Евгений Иванович": 7,
-      "Кузнецов Владимир Сергеевич": 63,
-      "Кураев Валентин Александрович": 8,
-      "Лабонин Валентин Леонидович": 5,
-      "Новиков Анатолий Дмитриевич": 9,
-      "Пацвальд Павел Владимирович": 257,
-      "Потапейко Виктор Николаевич": 13,
-      "Тищенко Александр Григорьевич": 12,
-      "Черепков Виктор Иванович": 341,
-      "Против всех": 93
+      "gas:candidate-vibid:1001000290501": 29,
+      "gas:candidate-vibid:325300267019": 59,
+      "gas:candidate-vibid:325300266896": 7,
+      "gas:candidate-vibid:325300266802": 63,
+      "gas:candidate-vibid:1001000136027": 8,
+      "gas:candidate-vibid:1001000190319": 5,
+      "gas:candidate-vibid:325300267022": 9,
+      "gas:candidate-vibid:325300267002": 257,
+      "gas:candidate-vibid:1001000337622": 13,
+      "gas:candidate-vibid:1001000217906": 12,
+      "gas:candidate-vibid:325300266935": 341,
+      "special:against-all": 93
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=253002002&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=325300267558&region=0&sub_region=0&type=429",
@@ -8009,18 +8009,18 @@ export const duma_2003_uik_428_region_25_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Белецкий Николай Михайлович": 34,
-      "Имадаев Адам Михайлович": 66,
-      "Колупаев Евгений Иванович": 5,
-      "Кузнецов Владимир Сергеевич": 74,
-      "Кураев Валентин Александрович": 14,
-      "Лабонин Валентин Леонидович": 5,
-      "Новиков Анатолий Дмитриевич": 8,
-      "Пацвальд Павел Владимирович": 284,
-      "Потапейко Виктор Николаевич": 52,
-      "Тищенко Александр Григорьевич": 18,
-      "Черепков Виктор Иванович": 350,
-      "Против всех": 89
+      "gas:candidate-vibid:1001000290501": 34,
+      "gas:candidate-vibid:325300267019": 66,
+      "gas:candidate-vibid:325300266896": 5,
+      "gas:candidate-vibid:325300266802": 74,
+      "gas:candidate-vibid:1001000136027": 14,
+      "gas:candidate-vibid:1001000190319": 5,
+      "gas:candidate-vibid:325300267022": 8,
+      "gas:candidate-vibid:325300267002": 284,
+      "gas:candidate-vibid:1001000337622": 52,
+      "gas:candidate-vibid:1001000217906": 18,
+      "gas:candidate-vibid:325300266935": 350,
+      "special:against-all": 89
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=253002002&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=325300267558&region=0&sub_region=0&type=429",
@@ -8070,18 +8070,18 @@ export const duma_2003_uik_428_region_25_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Белецкий Николай Михайлович": 28,
-      "Имадаев Адам Михайлович": 55,
-      "Колупаев Евгений Иванович": 6,
-      "Кузнецов Владимир Сергеевич": 64,
-      "Кураев Валентин Александрович": 5,
-      "Лабонин Валентин Леонидович": 1,
-      "Новиков Анатолий Дмитриевич": 6,
-      "Пацвальд Павел Владимирович": 241,
-      "Потапейко Виктор Николаевич": 28,
-      "Тищенко Александр Григорьевич": 11,
-      "Черепков Виктор Иванович": 397,
-      "Против всех": 70
+      "gas:candidate-vibid:1001000290501": 28,
+      "gas:candidate-vibid:325300267019": 55,
+      "gas:candidate-vibid:325300266896": 6,
+      "gas:candidate-vibid:325300266802": 64,
+      "gas:candidate-vibid:1001000136027": 5,
+      "gas:candidate-vibid:1001000190319": 1,
+      "gas:candidate-vibid:325300267022": 6,
+      "gas:candidate-vibid:325300267002": 241,
+      "gas:candidate-vibid:1001000337622": 28,
+      "gas:candidate-vibid:1001000217906": 11,
+      "gas:candidate-vibid:325300266935": 397,
+      "special:against-all": 70
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=253002002&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=325300267558&region=0&sub_region=0&type=429",
@@ -8131,18 +8131,18 @@ export const duma_2003_uik_428_region_25_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Белецкий Николай Михайлович": 42,
-      "Имадаев Адам Михайлович": 104,
-      "Колупаев Евгений Иванович": 2,
-      "Кузнецов Владимир Сергеевич": 78,
-      "Кураев Валентин Александрович": 14,
-      "Лабонин Валентин Леонидович": 3,
-      "Новиков Анатолий Дмитриевич": 8,
-      "Пацвальд Павел Владимирович": 354,
-      "Потапейко Виктор Николаевич": 38,
-      "Тищенко Александр Григорьевич": 13,
-      "Черепков Виктор Иванович": 456,
-      "Против всех": 94
+      "gas:candidate-vibid:1001000290501": 42,
+      "gas:candidate-vibid:325300267019": 104,
+      "gas:candidate-vibid:325300266896": 2,
+      "gas:candidate-vibid:325300266802": 78,
+      "gas:candidate-vibid:1001000136027": 14,
+      "gas:candidate-vibid:1001000190319": 3,
+      "gas:candidate-vibid:325300267022": 8,
+      "gas:candidate-vibid:325300267002": 354,
+      "gas:candidate-vibid:1001000337622": 38,
+      "gas:candidate-vibid:1001000217906": 13,
+      "gas:candidate-vibid:325300266935": 456,
+      "special:against-all": 94
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=253002002&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=325300267558&region=0&sub_region=0&type=429",
@@ -8192,18 +8192,18 @@ export const duma_2003_uik_428_region_25_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Белецкий Николай Михайлович": 17,
-      "Имадаев Адам Михайлович": 84,
-      "Колупаев Евгений Иванович": 0,
-      "Кузнецов Владимир Сергеевич": 47,
-      "Кураев Валентин Александрович": 4,
-      "Лабонин Валентин Леонидович": 4,
-      "Новиков Анатолий Дмитриевич": 3,
-      "Пацвальд Павел Владимирович": 233,
-      "Потапейко Виктор Николаевич": 26,
-      "Тищенко Александр Григорьевич": 13,
-      "Черепков Виктор Иванович": 268,
-      "Против всех": 64
+      "gas:candidate-vibid:1001000290501": 17,
+      "gas:candidate-vibid:325300267019": 84,
+      "gas:candidate-vibid:325300266896": 0,
+      "gas:candidate-vibid:325300266802": 47,
+      "gas:candidate-vibid:1001000136027": 4,
+      "gas:candidate-vibid:1001000190319": 4,
+      "gas:candidate-vibid:325300267022": 3,
+      "gas:candidate-vibid:325300267002": 233,
+      "gas:candidate-vibid:1001000337622": 26,
+      "gas:candidate-vibid:1001000217906": 13,
+      "gas:candidate-vibid:325300266935": 268,
+      "special:against-all": 64
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=253002002&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=325300267558&region=0&sub_region=0&type=429",
@@ -8253,18 +8253,18 @@ export const duma_2003_uik_428_region_25_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Белецкий Николай Михайлович": 20,
-      "Имадаев Адам Михайлович": 64,
-      "Колупаев Евгений Иванович": 4,
-      "Кузнецов Владимир Сергеевич": 39,
-      "Кураев Валентин Александрович": 14,
-      "Лабонин Валентин Леонидович": 3,
-      "Новиков Анатолий Дмитриевич": 4,
-      "Пацвальд Павел Владимирович": 302,
-      "Потапейко Виктор Николаевич": 31,
-      "Тищенко Александр Григорьевич": 9,
-      "Черепков Виктор Иванович": 368,
-      "Против всех": 80
+      "gas:candidate-vibid:1001000290501": 20,
+      "gas:candidate-vibid:325300267019": 64,
+      "gas:candidate-vibid:325300266896": 4,
+      "gas:candidate-vibid:325300266802": 39,
+      "gas:candidate-vibid:1001000136027": 14,
+      "gas:candidate-vibid:1001000190319": 3,
+      "gas:candidate-vibid:325300267022": 4,
+      "gas:candidate-vibid:325300267002": 302,
+      "gas:candidate-vibid:1001000337622": 31,
+      "gas:candidate-vibid:1001000217906": 9,
+      "gas:candidate-vibid:325300266935": 368,
+      "special:against-all": 80
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=253002002&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=325300267558&region=0&sub_region=0&type=429",
@@ -8314,18 +8314,18 @@ export const duma_2003_uik_428_region_25_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Белецкий Николай Михайлович": 21,
-      "Имадаев Адам Михайлович": 82,
-      "Колупаев Евгений Иванович": 14,
-      "Кузнецов Владимир Сергеевич": 46,
-      "Кураев Валентин Александрович": 8,
-      "Лабонин Валентин Леонидович": 3,
-      "Новиков Анатолий Дмитриевич": 3,
-      "Пацвальд Павел Владимирович": 281,
-      "Потапейко Виктор Николаевич": 22,
-      "Тищенко Александр Григорьевич": 4,
-      "Черепков Виктор Иванович": 321,
-      "Против всех": 72
+      "gas:candidate-vibid:1001000290501": 21,
+      "gas:candidate-vibid:325300267019": 82,
+      "gas:candidate-vibid:325300266896": 14,
+      "gas:candidate-vibid:325300266802": 46,
+      "gas:candidate-vibid:1001000136027": 8,
+      "gas:candidate-vibid:1001000190319": 3,
+      "gas:candidate-vibid:325300267022": 3,
+      "gas:candidate-vibid:325300267002": 281,
+      "gas:candidate-vibid:1001000337622": 22,
+      "gas:candidate-vibid:1001000217906": 4,
+      "gas:candidate-vibid:325300266935": 321,
+      "special:against-all": 72
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=253002002&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=325300267558&region=0&sub_region=0&type=429",
@@ -8375,18 +8375,18 @@ export const duma_2003_uik_428_region_25_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Белецкий Николай Михайлович": 23,
-      "Имадаев Адам Михайлович": 50,
-      "Колупаев Евгений Иванович": 6,
-      "Кузнецов Владимир Сергеевич": 49,
-      "Кураев Валентин Александрович": 20,
-      "Лабонин Валентин Леонидович": 4,
-      "Новиков Анатолий Дмитриевич": 2,
-      "Пацвальд Павел Владимирович": 158,
-      "Потапейко Виктор Николаевич": 16,
-      "Тищенко Александр Григорьевич": 13,
-      "Черепков Виктор Иванович": 250,
-      "Против всех": 68
+      "gas:candidate-vibid:1001000290501": 23,
+      "gas:candidate-vibid:325300267019": 50,
+      "gas:candidate-vibid:325300266896": 6,
+      "gas:candidate-vibid:325300266802": 49,
+      "gas:candidate-vibid:1001000136027": 20,
+      "gas:candidate-vibid:1001000190319": 4,
+      "gas:candidate-vibid:325300267022": 2,
+      "gas:candidate-vibid:325300267002": 158,
+      "gas:candidate-vibid:1001000337622": 16,
+      "gas:candidate-vibid:1001000217906": 13,
+      "gas:candidate-vibid:325300266935": 250,
+      "special:against-all": 68
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=253002002&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=325300267558&region=0&sub_region=0&type=429",
@@ -8436,18 +8436,18 @@ export const duma_2003_uik_428_region_25_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Белецкий Николай Михайлович": 25,
-      "Имадаев Адам Михайлович": 42,
-      "Колупаев Евгений Иванович": 6,
-      "Кузнецов Владимир Сергеевич": 38,
-      "Кураев Валентин Александрович": 22,
-      "Лабонин Валентин Леонидович": 8,
-      "Новиков Анатолий Дмитриевич": 2,
-      "Пацвальд Павел Владимирович": 209,
-      "Потапейко Виктор Николаевич": 14,
-      "Тищенко Александр Григорьевич": 16,
-      "Черепков Виктор Иванович": 294,
-      "Против всех": 75
+      "gas:candidate-vibid:1001000290501": 25,
+      "gas:candidate-vibid:325300267019": 42,
+      "gas:candidate-vibid:325300266896": 6,
+      "gas:candidate-vibid:325300266802": 38,
+      "gas:candidate-vibid:1001000136027": 22,
+      "gas:candidate-vibid:1001000190319": 8,
+      "gas:candidate-vibid:325300267022": 2,
+      "gas:candidate-vibid:325300267002": 209,
+      "gas:candidate-vibid:1001000337622": 14,
+      "gas:candidate-vibid:1001000217906": 16,
+      "gas:candidate-vibid:325300266935": 294,
+      "special:against-all": 75
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=253002002&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=325300267558&region=0&sub_region=0&type=429",
@@ -8497,18 +8497,18 @@ export const duma_2003_uik_428_region_25_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Белецкий Николай Михайлович": 22,
-      "Имадаев Адам Михайлович": 50,
-      "Колупаев Евгений Иванович": 4,
-      "Кузнецов Владимир Сергеевич": 45,
-      "Кураев Валентин Александрович": 5,
-      "Лабонин Валентин Леонидович": 1,
-      "Новиков Анатолий Дмитриевич": 3,
-      "Пацвальд Павел Владимирович": 257,
-      "Потапейко Виктор Николаевич": 18,
-      "Тищенко Александр Григорьевич": 8,
-      "Черепков Виктор Иванович": 314,
-      "Против всех": 73
+      "gas:candidate-vibid:1001000290501": 22,
+      "gas:candidate-vibid:325300267019": 50,
+      "gas:candidate-vibid:325300266896": 4,
+      "gas:candidate-vibid:325300266802": 45,
+      "gas:candidate-vibid:1001000136027": 5,
+      "gas:candidate-vibid:1001000190319": 1,
+      "gas:candidate-vibid:325300267022": 3,
+      "gas:candidate-vibid:325300267002": 257,
+      "gas:candidate-vibid:1001000337622": 18,
+      "gas:candidate-vibid:1001000217906": 8,
+      "gas:candidate-vibid:325300266935": 314,
+      "special:against-all": 73
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=253002002&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=325300267558&region=0&sub_region=0&type=429",
@@ -8558,18 +8558,18 @@ export const duma_2003_uik_428_region_25_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Белецкий Николай Михайлович": 22,
-      "Имадаев Адам Михайлович": 67,
-      "Колупаев Евгений Иванович": 2,
-      "Кузнецов Владимир Сергеевич": 36,
-      "Кураев Валентин Александрович": 14,
-      "Лабонин Валентин Леонидович": 5,
-      "Новиков Анатолий Дмитриевич": 11,
-      "Пацвальд Павел Владимирович": 161,
-      "Потапейко Виктор Николаевич": 23,
-      "Тищенко Александр Григорьевич": 16,
-      "Черепков Виктор Иванович": 293,
-      "Против всех": 74
+      "gas:candidate-vibid:1001000290501": 22,
+      "gas:candidate-vibid:325300267019": 67,
+      "gas:candidate-vibid:325300266896": 2,
+      "gas:candidate-vibid:325300266802": 36,
+      "gas:candidate-vibid:1001000136027": 14,
+      "gas:candidate-vibid:1001000190319": 5,
+      "gas:candidate-vibid:325300267022": 11,
+      "gas:candidate-vibid:325300267002": 161,
+      "gas:candidate-vibid:1001000337622": 23,
+      "gas:candidate-vibid:1001000217906": 16,
+      "gas:candidate-vibid:325300266935": 293,
+      "special:against-all": 74
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=253002002&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=325300267558&region=0&sub_region=0&type=429",
@@ -8619,18 +8619,18 @@ export const duma_2003_uik_428_region_25_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Белецкий Николай Михайлович": 23,
-      "Имадаев Адам Михайлович": 55,
-      "Колупаев Евгений Иванович": 6,
-      "Кузнецов Владимир Сергеевич": 50,
-      "Кураев Валентин Александрович": 4,
-      "Лабонин Валентин Леонидович": 5,
-      "Новиков Анатолий Дмитриевич": 1,
-      "Пацвальд Павел Владимирович": 141,
-      "Потапейко Виктор Николаевич": 8,
-      "Тищенко Александр Григорьевич": 21,
-      "Черепков Виктор Иванович": 278,
-      "Против всех": 51
+      "gas:candidate-vibid:1001000290501": 23,
+      "gas:candidate-vibid:325300267019": 55,
+      "gas:candidate-vibid:325300266896": 6,
+      "gas:candidate-vibid:325300266802": 50,
+      "gas:candidate-vibid:1001000136027": 4,
+      "gas:candidate-vibid:1001000190319": 5,
+      "gas:candidate-vibid:325300267022": 1,
+      "gas:candidate-vibid:325300267002": 141,
+      "gas:candidate-vibid:1001000337622": 8,
+      "gas:candidate-vibid:1001000217906": 21,
+      "gas:candidate-vibid:325300266935": 278,
+      "special:against-all": 51
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=253002002&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=325300267558&region=0&sub_region=0&type=429",
@@ -8680,18 +8680,18 @@ export const duma_2003_uik_428_region_25_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Белецкий Николай Михайлович": 37,
-      "Имадаев Адам Михайлович": 69,
-      "Колупаев Евгений Иванович": 5,
-      "Кузнецов Владимир Сергеевич": 55,
-      "Кураев Валентин Александрович": 14,
-      "Лабонин Валентин Леонидович": 1,
-      "Новиков Анатолий Дмитриевич": 6,
-      "Пацвальд Павел Владимирович": 226,
-      "Потапейко Виктор Николаевич": 31,
-      "Тищенко Александр Григорьевич": 11,
-      "Черепков Виктор Иванович": 346,
-      "Против всех": 74
+      "gas:candidate-vibid:1001000290501": 37,
+      "gas:candidate-vibid:325300267019": 69,
+      "gas:candidate-vibid:325300266896": 5,
+      "gas:candidate-vibid:325300266802": 55,
+      "gas:candidate-vibid:1001000136027": 14,
+      "gas:candidate-vibid:1001000190319": 1,
+      "gas:candidate-vibid:325300267022": 6,
+      "gas:candidate-vibid:325300267002": 226,
+      "gas:candidate-vibid:1001000337622": 31,
+      "gas:candidate-vibid:1001000217906": 11,
+      "gas:candidate-vibid:325300266935": 346,
+      "special:against-all": 74
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=253002002&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=325300267558&region=0&sub_region=0&type=429",
@@ -8741,18 +8741,18 @@ export const duma_2003_uik_428_region_25_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Белецкий Николай Михайлович": 34,
-      "Имадаев Адам Михайлович": 150,
-      "Колупаев Евгений Иванович": 10,
-      "Кузнецов Владимир Сергеевич": 99,
-      "Кураев Валентин Александрович": 26,
-      "Лабонин Валентин Леонидович": 5,
-      "Новиков Анатолий Дмитриевич": 12,
-      "Пацвальд Павел Владимирович": 226,
-      "Потапейко Виктор Николаевич": 57,
-      "Тищенко Александр Григорьевич": 13,
-      "Черепков Виктор Иванович": 466,
-      "Против всех": 121
+      "gas:candidate-vibid:1001000290501": 34,
+      "gas:candidate-vibid:325300267019": 150,
+      "gas:candidate-vibid:325300266896": 10,
+      "gas:candidate-vibid:325300266802": 99,
+      "gas:candidate-vibid:1001000136027": 26,
+      "gas:candidate-vibid:1001000190319": 5,
+      "gas:candidate-vibid:325300267022": 12,
+      "gas:candidate-vibid:325300267002": 226,
+      "gas:candidate-vibid:1001000337622": 57,
+      "gas:candidate-vibid:1001000217906": 13,
+      "gas:candidate-vibid:325300266935": 466,
+      "special:against-all": 121
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=253002002&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=325300267558&region=0&sub_region=0&type=429",
@@ -8802,18 +8802,18 @@ export const duma_2003_uik_428_region_25_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Белецкий Николай Михайлович": 30,
-      "Имадаев Адам Михайлович": 79,
-      "Колупаев Евгений Иванович": 4,
-      "Кузнецов Владимир Сергеевич": 87,
-      "Кураев Валентин Александрович": 14,
-      "Лабонин Валентин Леонидович": 12,
-      "Новиков Анатолий Дмитриевич": 3,
-      "Пацвальд Павел Владимирович": 238,
-      "Потапейко Виктор Николаевич": 42,
-      "Тищенко Александр Григорьевич": 16,
-      "Черепков Виктор Иванович": 437,
-      "Против всех": 108
+      "gas:candidate-vibid:1001000290501": 30,
+      "gas:candidate-vibid:325300267019": 79,
+      "gas:candidate-vibid:325300266896": 4,
+      "gas:candidate-vibid:325300266802": 87,
+      "gas:candidate-vibid:1001000136027": 14,
+      "gas:candidate-vibid:1001000190319": 12,
+      "gas:candidate-vibid:325300267022": 3,
+      "gas:candidate-vibid:325300267002": 238,
+      "gas:candidate-vibid:1001000337622": 42,
+      "gas:candidate-vibid:1001000217906": 16,
+      "gas:candidate-vibid:325300266935": 437,
+      "special:against-all": 108
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=253002002&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=325300267558&region=0&sub_region=0&type=429",
@@ -8863,18 +8863,18 @@ export const duma_2003_uik_428_region_25_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Белецкий Николай Михайлович": 24,
-      "Имадаев Адам Михайлович": 54,
-      "Колупаев Евгений Иванович": 4,
-      "Кузнецов Владимир Сергеевич": 51,
-      "Кураев Валентин Александрович": 7,
-      "Лабонин Валентин Леонидович": 3,
-      "Новиков Анатолий Дмитриевич": 5,
-      "Пацвальд Павел Владимирович": 189,
-      "Потапейко Виктор Николаевич": 12,
-      "Тищенко Александр Григорьевич": 5,
-      "Черепков Виктор Иванович": 238,
-      "Против всех": 69
+      "gas:candidate-vibid:1001000290501": 24,
+      "gas:candidate-vibid:325300267019": 54,
+      "gas:candidate-vibid:325300266896": 4,
+      "gas:candidate-vibid:325300266802": 51,
+      "gas:candidate-vibid:1001000136027": 7,
+      "gas:candidate-vibid:1001000190319": 3,
+      "gas:candidate-vibid:325300267022": 5,
+      "gas:candidate-vibid:325300267002": 189,
+      "gas:candidate-vibid:1001000337622": 12,
+      "gas:candidate-vibid:1001000217906": 5,
+      "gas:candidate-vibid:325300266935": 238,
+      "special:against-all": 69
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=253002002&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=325300267558&region=0&sub_region=0&type=429",
@@ -8924,18 +8924,18 @@ export const duma_2003_uik_428_region_25_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Белецкий Николай Михайлович": 25,
-      "Имадаев Адам Михайлович": 85,
-      "Колупаев Евгений Иванович": 6,
-      "Кузнецов Владимир Сергеевич": 34,
-      "Кураев Валентин Александрович": 9,
-      "Лабонин Валентин Леонидович": 1,
-      "Новиков Анатолий Дмитриевич": 8,
-      "Пацвальд Павел Владимирович": 216,
-      "Потапейко Виктор Николаевич": 34,
-      "Тищенко Александр Григорьевич": 6,
-      "Черепков Виктор Иванович": 304,
-      "Против всех": 71
+      "gas:candidate-vibid:1001000290501": 25,
+      "gas:candidate-vibid:325300267019": 85,
+      "gas:candidate-vibid:325300266896": 6,
+      "gas:candidate-vibid:325300266802": 34,
+      "gas:candidate-vibid:1001000136027": 9,
+      "gas:candidate-vibid:1001000190319": 1,
+      "gas:candidate-vibid:325300267022": 8,
+      "gas:candidate-vibid:325300267002": 216,
+      "gas:candidate-vibid:1001000337622": 34,
+      "gas:candidate-vibid:1001000217906": 6,
+      "gas:candidate-vibid:325300266935": 304,
+      "special:against-all": 71
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=253002002&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=325300267558&region=0&sub_region=0&type=429",
@@ -8985,18 +8985,18 @@ export const duma_2003_uik_428_region_25_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Белецкий Николай Михайлович": 20,
-      "Имадаев Адам Михайлович": 50,
-      "Колупаев Евгений Иванович": 1,
-      "Кузнецов Владимир Сергеевич": 16,
-      "Кураев Валентин Александрович": 13,
-      "Лабонин Валентин Леонидович": 2,
-      "Новиков Анатолий Дмитриевич": 9,
-      "Пацвальд Павел Владимирович": 138,
-      "Потапейко Виктор Николаевич": 7,
-      "Тищенко Александр Григорьевич": 8,
-      "Черепков Виктор Иванович": 77,
-      "Против всех": 85
+      "gas:candidate-vibid:1001000290501": 20,
+      "gas:candidate-vibid:325300267019": 50,
+      "gas:candidate-vibid:325300266896": 1,
+      "gas:candidate-vibid:325300266802": 16,
+      "gas:candidate-vibid:1001000136027": 13,
+      "gas:candidate-vibid:1001000190319": 2,
+      "gas:candidate-vibid:325300267022": 9,
+      "gas:candidate-vibid:325300267002": 138,
+      "gas:candidate-vibid:1001000337622": 7,
+      "gas:candidate-vibid:1001000217906": 8,
+      "gas:candidate-vibid:325300266935": 77,
+      "special:against-all": 85
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=253002002&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=325300267558&region=0&sub_region=0&type=429",
@@ -9046,18 +9046,18 @@ export const duma_2003_uik_428_region_25_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Белецкий Николай Михайлович": 20,
-      "Имадаев Адам Михайлович": 49,
-      "Колупаев Евгений Иванович": 4,
-      "Кузнецов Владимир Сергеевич": 57,
-      "Кураев Валентин Александрович": 9,
-      "Лабонин Валентин Леонидович": 6,
-      "Новиков Анатолий Дмитриевич": 8,
-      "Пацвальд Павел Владимирович": 177,
-      "Потапейко Виктор Николаевич": 20,
-      "Тищенко Александр Григорьевич": 14,
-      "Черепков Виктор Иванович": 312,
-      "Против всех": 82
+      "gas:candidate-vibid:1001000290501": 20,
+      "gas:candidate-vibid:325300267019": 49,
+      "gas:candidate-vibid:325300266896": 4,
+      "gas:candidate-vibid:325300266802": 57,
+      "gas:candidate-vibid:1001000136027": 9,
+      "gas:candidate-vibid:1001000190319": 6,
+      "gas:candidate-vibid:325300267022": 8,
+      "gas:candidate-vibid:325300267002": 177,
+      "gas:candidate-vibid:1001000337622": 20,
+      "gas:candidate-vibid:1001000217906": 14,
+      "gas:candidate-vibid:325300266935": 312,
+      "special:against-all": 82
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=253002002&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=325300267558&region=0&sub_region=0&type=429",
@@ -9107,18 +9107,18 @@ export const duma_2003_uik_428_region_25_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Белецкий Николай Михайлович": 23,
-      "Имадаев Адам Михайлович": 59,
-      "Колупаев Евгений Иванович": 2,
-      "Кузнецов Владимир Сергеевич": 59,
-      "Кураев Валентин Александрович": 9,
-      "Лабонин Валентин Леонидович": 10,
-      "Новиков Анатолий Дмитриевич": 4,
-      "Пацвальд Павел Владимирович": 228,
-      "Потапейко Виктор Николаевич": 16,
-      "Тищенко Александр Григорьевич": 13,
-      "Черепков Виктор Иванович": 304,
-      "Против всех": 99
+      "gas:candidate-vibid:1001000290501": 23,
+      "gas:candidate-vibid:325300267019": 59,
+      "gas:candidate-vibid:325300266896": 2,
+      "gas:candidate-vibid:325300266802": 59,
+      "gas:candidate-vibid:1001000136027": 9,
+      "gas:candidate-vibid:1001000190319": 10,
+      "gas:candidate-vibid:325300267022": 4,
+      "gas:candidate-vibid:325300267002": 228,
+      "gas:candidate-vibid:1001000337622": 16,
+      "gas:candidate-vibid:1001000217906": 13,
+      "gas:candidate-vibid:325300266935": 304,
+      "special:against-all": 99
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=253002002&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=325300267558&region=0&sub_region=0&type=429",
@@ -9168,18 +9168,18 @@ export const duma_2003_uik_428_region_25_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Белецкий Николай Михайлович": 17,
-      "Имадаев Адам Михайлович": 115,
-      "Колупаев Евгений Иванович": 8,
-      "Кузнецов Владимир Сергеевич": 63,
-      "Кураев Валентин Александрович": 8,
-      "Лабонин Валентин Леонидович": 1,
-      "Новиков Анатолий Дмитриевич": 5,
-      "Пацвальд Павел Владимирович": 195,
-      "Потапейко Виктор Николаевич": 13,
-      "Тищенко Александр Григорьевич": 8,
-      "Черепков Виктор Иванович": 345,
-      "Против всех": 78
+      "gas:candidate-vibid:1001000290501": 17,
+      "gas:candidate-vibid:325300267019": 115,
+      "gas:candidate-vibid:325300266896": 8,
+      "gas:candidate-vibid:325300266802": 63,
+      "gas:candidate-vibid:1001000136027": 8,
+      "gas:candidate-vibid:1001000190319": 1,
+      "gas:candidate-vibid:325300267022": 5,
+      "gas:candidate-vibid:325300267002": 195,
+      "gas:candidate-vibid:1001000337622": 13,
+      "gas:candidate-vibid:1001000217906": 8,
+      "gas:candidate-vibid:325300266935": 345,
+      "special:against-all": 78
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=253002002&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=325300267558&region=0&sub_region=0&type=429",
@@ -9229,18 +9229,18 @@ export const duma_2003_uik_428_region_25_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Белецкий Николай Михайлович": 22,
-      "Имадаев Адам Михайлович": 69,
-      "Колупаев Евгений Иванович": 8,
-      "Кузнецов Владимир Сергеевич": 47,
-      "Кураев Валентин Александрович": 11,
-      "Лабонин Валентин Леонидович": 8,
-      "Новиков Анатолий Дмитриевич": 5,
-      "Пацвальд Павел Владимирович": 270,
-      "Потапейко Виктор Николаевич": 24,
-      "Тищенко Александр Григорьевич": 15,
-      "Черепков Виктор Иванович": 353,
-      "Против всех": 88
+      "gas:candidate-vibid:1001000290501": 22,
+      "gas:candidate-vibid:325300267019": 69,
+      "gas:candidate-vibid:325300266896": 8,
+      "gas:candidate-vibid:325300266802": 47,
+      "gas:candidate-vibid:1001000136027": 11,
+      "gas:candidate-vibid:1001000190319": 8,
+      "gas:candidate-vibid:325300267022": 5,
+      "gas:candidate-vibid:325300267002": 270,
+      "gas:candidate-vibid:1001000337622": 24,
+      "gas:candidate-vibid:1001000217906": 15,
+      "gas:candidate-vibid:325300266935": 353,
+      "special:against-all": 88
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=253002002&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=325300267558&region=0&sub_region=0&type=429",
@@ -9290,18 +9290,18 @@ export const duma_2003_uik_428_region_25_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Белецкий Николай Михайлович": 31,
-      "Имадаев Адам Михайлович": 63,
-      "Колупаев Евгений Иванович": 10,
-      "Кузнецов Владимир Сергеевич": 70,
-      "Кураев Валентин Александрович": 8,
-      "Лабонин Валентин Леонидович": 10,
-      "Новиков Анатолий Дмитриевич": 9,
-      "Пацвальд Павел Владимирович": 280,
-      "Потапейко Виктор Николаевич": 19,
-      "Тищенко Александр Григорьевич": 19,
-      "Черепков Виктор Иванович": 363,
-      "Против всех": 132
+      "gas:candidate-vibid:1001000290501": 31,
+      "gas:candidate-vibid:325300267019": 63,
+      "gas:candidate-vibid:325300266896": 10,
+      "gas:candidate-vibid:325300266802": 70,
+      "gas:candidate-vibid:1001000136027": 8,
+      "gas:candidate-vibid:1001000190319": 10,
+      "gas:candidate-vibid:325300267022": 9,
+      "gas:candidate-vibid:325300267002": 280,
+      "gas:candidate-vibid:1001000337622": 19,
+      "gas:candidate-vibid:1001000217906": 19,
+      "gas:candidate-vibid:325300266935": 363,
+      "special:against-all": 132
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=253002002&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=325300267558&region=0&sub_region=0&type=429",
@@ -9351,18 +9351,18 @@ export const duma_2003_uik_428_region_25_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Белецкий Николай Михайлович": 22,
-      "Имадаев Адам Михайлович": 103,
-      "Колупаев Евгений Иванович": 11,
-      "Кузнецов Владимир Сергеевич": 56,
-      "Кураев Валентин Александрович": 12,
-      "Лабонин Валентин Леонидович": 8,
-      "Новиков Анатолий Дмитриевич": 4,
-      "Пацвальд Павел Владимирович": 215,
-      "Потапейко Виктор Николаевич": 22,
-      "Тищенко Александр Григорьевич": 16,
-      "Черепков Виктор Иванович": 405,
-      "Против всех": 90
+      "gas:candidate-vibid:1001000290501": 22,
+      "gas:candidate-vibid:325300267019": 103,
+      "gas:candidate-vibid:325300266896": 11,
+      "gas:candidate-vibid:325300266802": 56,
+      "gas:candidate-vibid:1001000136027": 12,
+      "gas:candidate-vibid:1001000190319": 8,
+      "gas:candidate-vibid:325300267022": 4,
+      "gas:candidate-vibid:325300267002": 215,
+      "gas:candidate-vibid:1001000337622": 22,
+      "gas:candidate-vibid:1001000217906": 16,
+      "gas:candidate-vibid:325300266935": 405,
+      "special:against-all": 90
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=253002002&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=325300267558&region=0&sub_region=0&type=429",
@@ -9412,18 +9412,18 @@ export const duma_2003_uik_428_region_25_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Белецкий Николай Михайлович": 19,
-      "Имадаев Адам Михайлович": 93,
-      "Колупаев Евгений Иванович": 4,
-      "Кузнецов Владимир Сергеевич": 34,
-      "Кураев Валентин Александрович": 3,
-      "Лабонин Валентин Леонидович": 7,
-      "Новиков Анатолий Дмитриевич": 3,
-      "Пацвальд Павел Владимирович": 177,
-      "Потапейко Виктор Николаевич": 21,
-      "Тищенко Александр Григорьевич": 8,
-      "Черепков Виктор Иванович": 293,
-      "Против всех": 56
+      "gas:candidate-vibid:1001000290501": 19,
+      "gas:candidate-vibid:325300267019": 93,
+      "gas:candidate-vibid:325300266896": 4,
+      "gas:candidate-vibid:325300266802": 34,
+      "gas:candidate-vibid:1001000136027": 3,
+      "gas:candidate-vibid:1001000190319": 7,
+      "gas:candidate-vibid:325300267022": 3,
+      "gas:candidate-vibid:325300267002": 177,
+      "gas:candidate-vibid:1001000337622": 21,
+      "gas:candidate-vibid:1001000217906": 8,
+      "gas:candidate-vibid:325300266935": 293,
+      "special:against-all": 56
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=253002002&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=325300267558&region=0&sub_region=0&type=429",
@@ -9473,18 +9473,18 @@ export const duma_2003_uik_428_region_25_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Белецкий Николай Михайлович": 27,
-      "Имадаев Адам Михайлович": 81,
-      "Колупаев Евгений Иванович": 9,
-      "Кузнецов Владимир Сергеевич": 91,
-      "Кураев Валентин Александрович": 9,
-      "Лабонин Валентин Леонидович": 8,
-      "Новиков Анатолий Дмитриевич": 7,
-      "Пацвальд Павел Владимирович": 207,
-      "Потапейко Виктор Николаевич": 11,
-      "Тищенко Александр Григорьевич": 10,
-      "Черепков Виктор Иванович": 395,
-      "Против всех": 106
+      "gas:candidate-vibid:1001000290501": 27,
+      "gas:candidate-vibid:325300267019": 81,
+      "gas:candidate-vibid:325300266896": 9,
+      "gas:candidate-vibid:325300266802": 91,
+      "gas:candidate-vibid:1001000136027": 9,
+      "gas:candidate-vibid:1001000190319": 8,
+      "gas:candidate-vibid:325300267022": 7,
+      "gas:candidate-vibid:325300267002": 207,
+      "gas:candidate-vibid:1001000337622": 11,
+      "gas:candidate-vibid:1001000217906": 10,
+      "gas:candidate-vibid:325300266935": 395,
+      "special:against-all": 106
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=253002002&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=325300267558&region=0&sub_region=0&type=429",
@@ -9534,18 +9534,18 @@ export const duma_2003_uik_428_region_25_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Белецкий Николай Михайлович": 25,
-      "Имадаев Адам Михайлович": 106,
-      "Колупаев Евгений Иванович": 4,
-      "Кузнецов Владимир Сергеевич": 66,
-      "Кураев Валентин Александрович": 2,
-      "Лабонин Валентин Леонидович": 7,
-      "Новиков Анатолий Дмитриевич": 6,
-      "Пацвальд Павел Владимирович": 212,
-      "Потапейко Виктор Николаевич": 27,
-      "Тищенко Александр Григорьевич": 12,
-      "Черепков Виктор Иванович": 347,
-      "Против всех": 100
+      "gas:candidate-vibid:1001000290501": 25,
+      "gas:candidate-vibid:325300267019": 106,
+      "gas:candidate-vibid:325300266896": 4,
+      "gas:candidate-vibid:325300266802": 66,
+      "gas:candidate-vibid:1001000136027": 2,
+      "gas:candidate-vibid:1001000190319": 7,
+      "gas:candidate-vibid:325300267022": 6,
+      "gas:candidate-vibid:325300267002": 212,
+      "gas:candidate-vibid:1001000337622": 27,
+      "gas:candidate-vibid:1001000217906": 12,
+      "gas:candidate-vibid:325300266935": 347,
+      "special:against-all": 100
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=253002002&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=325300267558&region=0&sub_region=0&type=429",
@@ -9595,18 +9595,18 @@ export const duma_2003_uik_428_region_25_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Белецкий Николай Михайлович": 39,
-      "Имадаев Адам Михайлович": 118,
-      "Колупаев Евгений Иванович": 5,
-      "Кузнецов Владимир Сергеевич": 89,
-      "Кураев Валентин Александрович": 11,
-      "Лабонин Валентин Леонидович": 6,
-      "Новиков Анатолий Дмитриевич": 9,
-      "Пацвальд Павел Владимирович": 286,
-      "Потапейко Виктор Николаевич": 33,
-      "Тищенко Александр Григорьевич": 13,
-      "Черепков Виктор Иванович": 343,
-      "Против всех": 97
+      "gas:candidate-vibid:1001000290501": 39,
+      "gas:candidate-vibid:325300267019": 118,
+      "gas:candidate-vibid:325300266896": 5,
+      "gas:candidate-vibid:325300266802": 89,
+      "gas:candidate-vibid:1001000136027": 11,
+      "gas:candidate-vibid:1001000190319": 6,
+      "gas:candidate-vibid:325300267022": 9,
+      "gas:candidate-vibid:325300267002": 286,
+      "gas:candidate-vibid:1001000337622": 33,
+      "gas:candidate-vibid:1001000217906": 13,
+      "gas:candidate-vibid:325300266935": 343,
+      "special:against-all": 97
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=253002004&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=325300267560&region=0&sub_region=0&type=429",
@@ -9656,18 +9656,18 @@ export const duma_2003_uik_428_region_25_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Белецкий Николай Михайлович": 34,
-      "Имадаев Адам Михайлович": 121,
-      "Колупаев Евгений Иванович": 8,
-      "Кузнецов Владимир Сергеевич": 75,
-      "Кураев Валентин Александрович": 16,
-      "Лабонин Валентин Леонидович": 5,
-      "Новиков Анатолий Дмитриевич": 14,
-      "Пацвальд Павел Владимирович": 302,
-      "Потапейко Виктор Николаевич": 29,
-      "Тищенко Александр Григорьевич": 23,
-      "Черепков Виктор Иванович": 363,
-      "Против всех": 98
+      "gas:candidate-vibid:1001000290501": 34,
+      "gas:candidate-vibid:325300267019": 121,
+      "gas:candidate-vibid:325300266896": 8,
+      "gas:candidate-vibid:325300266802": 75,
+      "gas:candidate-vibid:1001000136027": 16,
+      "gas:candidate-vibid:1001000190319": 5,
+      "gas:candidate-vibid:325300267022": 14,
+      "gas:candidate-vibid:325300267002": 302,
+      "gas:candidate-vibid:1001000337622": 29,
+      "gas:candidate-vibid:1001000217906": 23,
+      "gas:candidate-vibid:325300266935": 363,
+      "special:against-all": 98
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=253002004&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=325300267560&region=0&sub_region=0&type=429",
@@ -9717,18 +9717,18 @@ export const duma_2003_uik_428_region_25_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Белецкий Николай Михайлович": 22,
-      "Имадаев Адам Михайлович": 67,
-      "Колупаев Евгений Иванович": 1,
-      "Кузнецов Владимир Сергеевич": 32,
-      "Кураев Валентин Александрович": 10,
-      "Лабонин Валентин Леонидович": 11,
-      "Новиков Анатолий Дмитриевич": 4,
-      "Пацвальд Павел Владимирович": 195,
-      "Потапейко Виктор Николаевич": 21,
-      "Тищенко Александр Григорьевич": 9,
-      "Черепков Виктор Иванович": 247,
-      "Против всех": 65
+      "gas:candidate-vibid:1001000290501": 22,
+      "gas:candidate-vibid:325300267019": 67,
+      "gas:candidate-vibid:325300266896": 1,
+      "gas:candidate-vibid:325300266802": 32,
+      "gas:candidate-vibid:1001000136027": 10,
+      "gas:candidate-vibid:1001000190319": 11,
+      "gas:candidate-vibid:325300267022": 4,
+      "gas:candidate-vibid:325300267002": 195,
+      "gas:candidate-vibid:1001000337622": 21,
+      "gas:candidate-vibid:1001000217906": 9,
+      "gas:candidate-vibid:325300266935": 247,
+      "special:against-all": 65
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=253002004&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=325300267560&region=0&sub_region=0&type=429",
@@ -9778,18 +9778,18 @@ export const duma_2003_uik_428_region_25_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Белецкий Николай Михайлович": 29,
-      "Имадаев Адам Михайлович": 91,
-      "Колупаев Евгений Иванович": 8,
-      "Кузнецов Владимир Сергеевич": 47,
-      "Кураев Валентин Александрович": 15,
-      "Лабонин Валентин Леонидович": 2,
-      "Новиков Анатолий Дмитриевич": 12,
-      "Пацвальд Павел Владимирович": 239,
-      "Потапейко Виктор Николаевич": 26,
-      "Тищенко Александр Григорьевич": 11,
-      "Черепков Виктор Иванович": 335,
-      "Против всех": 73
+      "gas:candidate-vibid:1001000290501": 29,
+      "gas:candidate-vibid:325300267019": 91,
+      "gas:candidate-vibid:325300266896": 8,
+      "gas:candidate-vibid:325300266802": 47,
+      "gas:candidate-vibid:1001000136027": 15,
+      "gas:candidate-vibid:1001000190319": 2,
+      "gas:candidate-vibid:325300267022": 12,
+      "gas:candidate-vibid:325300267002": 239,
+      "gas:candidate-vibid:1001000337622": 26,
+      "gas:candidate-vibid:1001000217906": 11,
+      "gas:candidate-vibid:325300266935": 335,
+      "special:against-all": 73
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=253002004&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=325300267560&region=0&sub_region=0&type=429",
@@ -9839,18 +9839,18 @@ export const duma_2003_uik_428_region_25_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Белецкий Николай Михайлович": 34,
-      "Имадаев Адам Михайлович": 88,
-      "Колупаев Евгений Иванович": 12,
-      "Кузнецов Владимир Сергеевич": 81,
-      "Кураев Валентин Александрович": 14,
-      "Лабонин Валентин Леонидович": 11,
-      "Новиков Анатолий Дмитриевич": 8,
-      "Пацвальд Павел Владимирович": 385,
-      "Потапейко Виктор Николаевич": 31,
-      "Тищенко Александр Григорьевич": 13,
-      "Черепков Виктор Иванович": 473,
-      "Против всех": 118
+      "gas:candidate-vibid:1001000290501": 34,
+      "gas:candidate-vibid:325300267019": 88,
+      "gas:candidate-vibid:325300266896": 12,
+      "gas:candidate-vibid:325300266802": 81,
+      "gas:candidate-vibid:1001000136027": 14,
+      "gas:candidate-vibid:1001000190319": 11,
+      "gas:candidate-vibid:325300267022": 8,
+      "gas:candidate-vibid:325300267002": 385,
+      "gas:candidate-vibid:1001000337622": 31,
+      "gas:candidate-vibid:1001000217906": 13,
+      "gas:candidate-vibid:325300266935": 473,
+      "special:against-all": 118
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=253002004&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=325300267560&region=0&sub_region=0&type=429",
@@ -9900,18 +9900,18 @@ export const duma_2003_uik_428_region_25_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Белецкий Николай Михайлович": 29,
-      "Имадаев Адам Михайлович": 161,
-      "Колупаев Евгений Иванович": 3,
-      "Кузнецов Владимир Сергеевич": 69,
-      "Кураев Валентин Александрович": 9,
-      "Лабонин Валентин Леонидович": 6,
-      "Новиков Анатолий Дмитриевич": 5,
-      "Пацвальд Павел Владимирович": 339,
-      "Потапейко Виктор Николаевич": 20,
-      "Тищенко Александр Григорьевич": 23,
-      "Черепков Виктор Иванович": 475,
-      "Против всех": 107
+      "gas:candidate-vibid:1001000290501": 29,
+      "gas:candidate-vibid:325300267019": 161,
+      "gas:candidate-vibid:325300266896": 3,
+      "gas:candidate-vibid:325300266802": 69,
+      "gas:candidate-vibid:1001000136027": 9,
+      "gas:candidate-vibid:1001000190319": 6,
+      "gas:candidate-vibid:325300267022": 5,
+      "gas:candidate-vibid:325300267002": 339,
+      "gas:candidate-vibid:1001000337622": 20,
+      "gas:candidate-vibid:1001000217906": 23,
+      "gas:candidate-vibid:325300266935": 475,
+      "special:against-all": 107
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=253002004&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=325300267560&region=0&sub_region=0&type=429",
@@ -9961,18 +9961,18 @@ export const duma_2003_uik_428_region_25_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Белецкий Николай Михайлович": 35,
-      "Имадаев Адам Михайлович": 102,
-      "Колупаев Евгений Иванович": 5,
-      "Кузнецов Владимир Сергеевич": 74,
-      "Кураев Валентин Александрович": 14,
-      "Лабонин Валентин Леонидович": 4,
-      "Новиков Анатолий Дмитриевич": 8,
-      "Пацвальд Павел Владимирович": 324,
-      "Потапейко Виктор Николаевич": 33,
-      "Тищенко Александр Григорьевич": 10,
-      "Черепков Виктор Иванович": 416,
-      "Против всех": 126
+      "gas:candidate-vibid:1001000290501": 35,
+      "gas:candidate-vibid:325300267019": 102,
+      "gas:candidate-vibid:325300266896": 5,
+      "gas:candidate-vibid:325300266802": 74,
+      "gas:candidate-vibid:1001000136027": 14,
+      "gas:candidate-vibid:1001000190319": 4,
+      "gas:candidate-vibid:325300267022": 8,
+      "gas:candidate-vibid:325300267002": 324,
+      "gas:candidate-vibid:1001000337622": 33,
+      "gas:candidate-vibid:1001000217906": 10,
+      "gas:candidate-vibid:325300266935": 416,
+      "special:against-all": 126
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=253002004&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=325300267560&region=0&sub_region=0&type=429",
@@ -10022,18 +10022,18 @@ export const duma_2003_uik_428_region_25_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Белецкий Николай Михайлович": 56,
-      "Имадаев Адам Михайлович": 150,
-      "Колупаев Евгений Иванович": 12,
-      "Кузнецов Владимир Сергеевич": 58,
-      "Кураев Валентин Александрович": 30,
-      "Лабонин Валентин Леонидович": 4,
-      "Новиков Анатолий Дмитриевич": 10,
-      "Пацвальд Павел Владимирович": 532,
-      "Потапейко Виктор Николаевич": 27,
-      "Тищенко Александр Григорьевич": 16,
-      "Черепков Виктор Иванович": 412,
-      "Против всех": 207
+      "gas:candidate-vibid:1001000290501": 56,
+      "gas:candidate-vibid:325300267019": 150,
+      "gas:candidate-vibid:325300266896": 12,
+      "gas:candidate-vibid:325300266802": 58,
+      "gas:candidate-vibid:1001000136027": 30,
+      "gas:candidate-vibid:1001000190319": 4,
+      "gas:candidate-vibid:325300267022": 10,
+      "gas:candidate-vibid:325300267002": 532,
+      "gas:candidate-vibid:1001000337622": 27,
+      "gas:candidate-vibid:1001000217906": 16,
+      "gas:candidate-vibid:325300266935": 412,
+      "special:against-all": 207
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=253002004&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=325300267560&region=0&sub_region=0&type=429",
@@ -10083,18 +10083,18 @@ export const duma_2003_uik_428_region_25_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Белецкий Николай Михайлович": 38,
-      "Имадаев Адам Михайлович": 109,
-      "Колупаев Евгений Иванович": 1,
-      "Кузнецов Владимир Сергеевич": 86,
-      "Кураев Валентин Александрович": 17,
-      "Лабонин Валентин Леонидович": 12,
-      "Новиков Анатолий Дмитриевич": 8,
-      "Пацвальд Павел Владимирович": 335,
-      "Потапейко Виктор Николаевич": 39,
-      "Тищенко Александр Григорьевич": 10,
-      "Черепков Виктор Иванович": 433,
-      "Против всех": 138
+      "gas:candidate-vibid:1001000290501": 38,
+      "gas:candidate-vibid:325300267019": 109,
+      "gas:candidate-vibid:325300266896": 1,
+      "gas:candidate-vibid:325300266802": 86,
+      "gas:candidate-vibid:1001000136027": 17,
+      "gas:candidate-vibid:1001000190319": 12,
+      "gas:candidate-vibid:325300267022": 8,
+      "gas:candidate-vibid:325300267002": 335,
+      "gas:candidate-vibid:1001000337622": 39,
+      "gas:candidate-vibid:1001000217906": 10,
+      "gas:candidate-vibid:325300266935": 433,
+      "special:against-all": 138
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=253002004&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=325300267560&region=0&sub_region=0&type=429",
@@ -10144,18 +10144,18 @@ export const duma_2003_uik_428_region_25_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Белецкий Николай Михайлович": 30,
-      "Имадаев Адам Михайлович": 128,
-      "Колупаев Евгений Иванович": 10,
-      "Кузнецов Владимир Сергеевич": 82,
-      "Кураев Валентин Александрович": 14,
-      "Лабонин Валентин Леонидович": 7,
-      "Новиков Анатолий Дмитриевич": 9,
-      "Пацвальд Павел Владимирович": 343,
-      "Потапейко Виктор Николаевич": 23,
-      "Тищенко Александр Григорьевич": 10,
-      "Черепков Виктор Иванович": 395,
-      "Против всех": 114
+      "gas:candidate-vibid:1001000290501": 30,
+      "gas:candidate-vibid:325300267019": 128,
+      "gas:candidate-vibid:325300266896": 10,
+      "gas:candidate-vibid:325300266802": 82,
+      "gas:candidate-vibid:1001000136027": 14,
+      "gas:candidate-vibid:1001000190319": 7,
+      "gas:candidate-vibid:325300267022": 9,
+      "gas:candidate-vibid:325300267002": 343,
+      "gas:candidate-vibid:1001000337622": 23,
+      "gas:candidate-vibid:1001000217906": 10,
+      "gas:candidate-vibid:325300266935": 395,
+      "special:against-all": 114
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=253002004&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=325300267560&region=0&sub_region=0&type=429",
@@ -10205,18 +10205,18 @@ export const duma_2003_uik_428_region_25_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Белецкий Николай Михайлович": 29,
-      "Имадаев Адам Михайлович": 141,
-      "Колупаев Евгений Иванович": 4,
-      "Кузнецов Владимир Сергеевич": 76,
-      "Кураев Валентин Александрович": 10,
-      "Лабонин Валентин Леонидович": 4,
-      "Новиков Анатолий Дмитриевич": 11,
-      "Пацвальд Павел Владимирович": 283,
-      "Потапейко Виктор Николаевич": 14,
-      "Тищенко Александр Григорьевич": 16,
-      "Черепков Виктор Иванович": 469,
-      "Против всех": 131
+      "gas:candidate-vibid:1001000290501": 29,
+      "gas:candidate-vibid:325300267019": 141,
+      "gas:candidate-vibid:325300266896": 4,
+      "gas:candidate-vibid:325300266802": 76,
+      "gas:candidate-vibid:1001000136027": 10,
+      "gas:candidate-vibid:1001000190319": 4,
+      "gas:candidate-vibid:325300267022": 11,
+      "gas:candidate-vibid:325300267002": 283,
+      "gas:candidate-vibid:1001000337622": 14,
+      "gas:candidate-vibid:1001000217906": 16,
+      "gas:candidate-vibid:325300266935": 469,
+      "special:against-all": 131
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=253002004&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=325300267560&region=0&sub_region=0&type=429",
@@ -10266,18 +10266,18 @@ export const duma_2003_uik_428_region_25_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Белецкий Николай Михайлович": 29,
-      "Имадаев Адам Михайлович": 135,
-      "Колупаев Евгений Иванович": 10,
-      "Кузнецов Владимир Сергеевич": 73,
-      "Кураев Валентин Александрович": 19,
-      "Лабонин Валентин Леонидович": 6,
-      "Новиков Анатолий Дмитриевич": 7,
-      "Пацвальд Павел Владимирович": 248,
-      "Потапейко Виктор Николаевич": 27,
-      "Тищенко Александр Григорьевич": 10,
-      "Черепков Виктор Иванович": 399,
-      "Против всех": 109
+      "gas:candidate-vibid:1001000290501": 29,
+      "gas:candidate-vibid:325300267019": 135,
+      "gas:candidate-vibid:325300266896": 10,
+      "gas:candidate-vibid:325300266802": 73,
+      "gas:candidate-vibid:1001000136027": 19,
+      "gas:candidate-vibid:1001000190319": 6,
+      "gas:candidate-vibid:325300267022": 7,
+      "gas:candidate-vibid:325300267002": 248,
+      "gas:candidate-vibid:1001000337622": 27,
+      "gas:candidate-vibid:1001000217906": 10,
+      "gas:candidate-vibid:325300266935": 399,
+      "special:against-all": 109
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=253002004&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=325300267560&region=0&sub_region=0&type=429",
@@ -10327,18 +10327,18 @@ export const duma_2003_uik_428_region_25_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Белецкий Николай Михайлович": 22,
-      "Имадаев Адам Михайлович": 65,
-      "Колупаев Евгений Иванович": 11,
-      "Кузнецов Владимир Сергеевич": 63,
-      "Кураев Валентин Александрович": 19,
-      "Лабонин Валентин Леонидович": 7,
-      "Новиков Анатолий Дмитриевич": 10,
-      "Пацвальд Павел Владимирович": 271,
-      "Потапейко Виктор Николаевич": 45,
-      "Тищенко Александр Григорьевич": 12,
-      "Черепков Виктор Иванович": 348,
-      "Против всех": 87
+      "gas:candidate-vibid:1001000290501": 22,
+      "gas:candidate-vibid:325300267019": 65,
+      "gas:candidate-vibid:325300266896": 11,
+      "gas:candidate-vibid:325300266802": 63,
+      "gas:candidate-vibid:1001000136027": 19,
+      "gas:candidate-vibid:1001000190319": 7,
+      "gas:candidate-vibid:325300267022": 10,
+      "gas:candidate-vibid:325300267002": 271,
+      "gas:candidate-vibid:1001000337622": 45,
+      "gas:candidate-vibid:1001000217906": 12,
+      "gas:candidate-vibid:325300266935": 348,
+      "special:against-all": 87
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=253002004&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=325300267560&region=0&sub_region=0&type=429",
@@ -10388,18 +10388,18 @@ export const duma_2003_uik_428_region_25_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Белецкий Николай Михайлович": 10,
-      "Имадаев Адам Михайлович": 66,
-      "Колупаев Евгений Иванович": 9,
-      "Кузнецов Владимир Сергеевич": 67,
-      "Кураев Валентин Александрович": 13,
-      "Лабонин Валентин Леонидович": 4,
-      "Новиков Анатолий Дмитриевич": 15,
-      "Пацвальд Павел Владимирович": 268,
-      "Потапейко Виктор Николаевич": 19,
-      "Тищенко Александр Григорьевич": 12,
-      "Черепков Виктор Иванович": 350,
-      "Против всех": 122
+      "gas:candidate-vibid:1001000290501": 10,
+      "gas:candidate-vibid:325300267019": 66,
+      "gas:candidate-vibid:325300266896": 9,
+      "gas:candidate-vibid:325300266802": 67,
+      "gas:candidate-vibid:1001000136027": 13,
+      "gas:candidate-vibid:1001000190319": 4,
+      "gas:candidate-vibid:325300267022": 15,
+      "gas:candidate-vibid:325300267002": 268,
+      "gas:candidate-vibid:1001000337622": 19,
+      "gas:candidate-vibid:1001000217906": 12,
+      "gas:candidate-vibid:325300266935": 350,
+      "special:against-all": 122
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=253002004&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=325300267560&region=0&sub_region=0&type=429",
@@ -10449,18 +10449,18 @@ export const duma_2003_uik_428_region_25_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Белецкий Николай Михайлович": 25,
-      "Имадаев Адам Михайлович": 111,
-      "Колупаев Евгений Иванович": 5,
-      "Кузнецов Владимир Сергеевич": 65,
-      "Кураев Валентин Александрович": 17,
-      "Лабонин Валентин Леонидович": 4,
-      "Новиков Анатолий Дмитриевич": 17,
-      "Пацвальд Павел Владимирович": 401,
-      "Потапейко Виктор Николаевич": 30,
-      "Тищенко Александр Григорьевич": 7,
-      "Черепков Виктор Иванович": 453,
-      "Против всех": 138
+      "gas:candidate-vibid:1001000290501": 25,
+      "gas:candidate-vibid:325300267019": 111,
+      "gas:candidate-vibid:325300266896": 5,
+      "gas:candidate-vibid:325300266802": 65,
+      "gas:candidate-vibid:1001000136027": 17,
+      "gas:candidate-vibid:1001000190319": 4,
+      "gas:candidate-vibid:325300267022": 17,
+      "gas:candidate-vibid:325300267002": 401,
+      "gas:candidate-vibid:1001000337622": 30,
+      "gas:candidate-vibid:1001000217906": 7,
+      "gas:candidate-vibid:325300266935": 453,
+      "special:against-all": 138
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=253002004&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=325300267560&region=0&sub_region=0&type=429",
@@ -10510,18 +10510,18 @@ export const duma_2003_uik_428_region_25_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Белецкий Николай Михайлович": 26,
-      "Имадаев Адам Михайлович": 91,
-      "Колупаев Евгений Иванович": 4,
-      "Кузнецов Владимир Сергеевич": 52,
-      "Кураев Валентин Александрович": 6,
-      "Лабонин Валентин Леонидович": 7,
-      "Новиков Анатолий Дмитриевич": 19,
-      "Пацвальд Павел Владимирович": 320,
-      "Потапейко Виктор Николаевич": 41,
-      "Тищенко Александр Григорьевич": 17,
-      "Черепков Виктор Иванович": 448,
-      "Против всех": 95
+      "gas:candidate-vibid:1001000290501": 26,
+      "gas:candidate-vibid:325300267019": 91,
+      "gas:candidate-vibid:325300266896": 4,
+      "gas:candidate-vibid:325300266802": 52,
+      "gas:candidate-vibid:1001000136027": 6,
+      "gas:candidate-vibid:1001000190319": 7,
+      "gas:candidate-vibid:325300267022": 19,
+      "gas:candidate-vibid:325300267002": 320,
+      "gas:candidate-vibid:1001000337622": 41,
+      "gas:candidate-vibid:1001000217906": 17,
+      "gas:candidate-vibid:325300266935": 448,
+      "special:against-all": 95
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=253002004&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=325300267560&region=0&sub_region=0&type=429",
@@ -10571,18 +10571,18 @@ export const duma_2003_uik_428_region_25_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Белецкий Николай Михайлович": 48,
-      "Имадаев Адам Михайлович": 68,
-      "Колупаев Евгений Иванович": 27,
-      "Кузнецов Владимир Сергеевич": 76,
-      "Кураев Валентин Александрович": 29,
-      "Лабонин Валентин Леонидович": 18,
-      "Новиков Анатолий Дмитриевич": 20,
-      "Пацвальд Павел Владимирович": 192,
-      "Потапейко Виктор Николаевич": 19,
-      "Тищенко Александр Григорьевич": 13,
-      "Черепков Виктор Иванович": 177,
-      "Против всех": 234
+      "gas:candidate-vibid:1001000290501": 48,
+      "gas:candidate-vibid:325300267019": 68,
+      "gas:candidate-vibid:325300266896": 27,
+      "gas:candidate-vibid:325300266802": 76,
+      "gas:candidate-vibid:1001000136027": 29,
+      "gas:candidate-vibid:1001000190319": 18,
+      "gas:candidate-vibid:325300267022": 20,
+      "gas:candidate-vibid:325300267002": 192,
+      "gas:candidate-vibid:1001000337622": 19,
+      "gas:candidate-vibid:1001000217906": 13,
+      "gas:candidate-vibid:325300266935": 177,
+      "special:against-all": 234
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=253002004&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=325300267560&region=0&sub_region=0&type=429",
@@ -10632,18 +10632,18 @@ export const duma_2003_uik_428_region_25_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Белецкий Николай Михайлович": 17,
-      "Имадаев Адам Михайлович": 65,
-      "Колупаев Евгений Иванович": 8,
-      "Кузнецов Владимир Сергеевич": 76,
-      "Кураев Валентин Александрович": 13,
-      "Лабонин Валентин Леонидович": 3,
-      "Новиков Анатолий Дмитриевич": 11,
-      "Пацвальд Павел Владимирович": 322,
-      "Потапейко Виктор Николаевич": 41,
-      "Тищенко Александр Григорьевич": 7,
-      "Черепков Виктор Иванович": 301,
-      "Против всех": 85
+      "gas:candidate-vibid:1001000290501": 17,
+      "gas:candidate-vibid:325300267019": 65,
+      "gas:candidate-vibid:325300266896": 8,
+      "gas:candidate-vibid:325300266802": 76,
+      "gas:candidate-vibid:1001000136027": 13,
+      "gas:candidate-vibid:1001000190319": 3,
+      "gas:candidate-vibid:325300267022": 11,
+      "gas:candidate-vibid:325300267002": 322,
+      "gas:candidate-vibid:1001000337622": 41,
+      "gas:candidate-vibid:1001000217906": 7,
+      "gas:candidate-vibid:325300266935": 301,
+      "special:against-all": 85
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=253002004&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=325300267560&region=0&sub_region=0&type=429",
@@ -10693,18 +10693,18 @@ export const duma_2003_uik_428_region_25_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Белецкий Николай Михайлович": 30,
-      "Имадаев Адам Михайлович": 84,
-      "Колупаев Евгений Иванович": 8,
-      "Кузнецов Владимир Сергеевич": 87,
-      "Кураев Валентин Александрович": 12,
-      "Лабонин Валентин Леонидович": 4,
-      "Новиков Анатолий Дмитриевич": 15,
-      "Пацвальд Павел Владимирович": 364,
-      "Потапейко Виктор Николаевич": 132,
-      "Тищенко Александр Григорьевич": 13,
-      "Черепков Виктор Иванович": 413,
-      "Против всех": 93
+      "gas:candidate-vibid:1001000290501": 30,
+      "gas:candidate-vibid:325300267019": 84,
+      "gas:candidate-vibid:325300266896": 8,
+      "gas:candidate-vibid:325300266802": 87,
+      "gas:candidate-vibid:1001000136027": 12,
+      "gas:candidate-vibid:1001000190319": 4,
+      "gas:candidate-vibid:325300267022": 15,
+      "gas:candidate-vibid:325300267002": 364,
+      "gas:candidate-vibid:1001000337622": 132,
+      "gas:candidate-vibid:1001000217906": 13,
+      "gas:candidate-vibid:325300266935": 413,
+      "special:against-all": 93
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=253002004&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=325300267560&region=0&sub_region=0&type=429",
@@ -10754,18 +10754,18 @@ export const duma_2003_uik_428_region_25_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Белецкий Николай Михайлович": 61,
-      "Имадаев Адам Михайлович": 26,
-      "Колупаев Евгений Иванович": 17,
-      "Кузнецов Владимир Сергеевич": 60,
-      "Кураев Валентин Александрович": 98,
-      "Лабонин Валентин Леонидович": 10,
-      "Новиков Анатолий Дмитриевич": 16,
-      "Пацвальд Павел Владимирович": 485,
-      "Потапейко Виктор Николаевич": 25,
-      "Тищенко Александр Григорьевич": 45,
-      "Черепков Виктор Иванович": 376,
-      "Против всех": 272
+      "gas:candidate-vibid:1001000290501": 61,
+      "gas:candidate-vibid:325300267019": 26,
+      "gas:candidate-vibid:325300266896": 17,
+      "gas:candidate-vibid:325300266802": 60,
+      "gas:candidate-vibid:1001000136027": 98,
+      "gas:candidate-vibid:1001000190319": 10,
+      "gas:candidate-vibid:325300267022": 16,
+      "gas:candidate-vibid:325300267002": 485,
+      "gas:candidate-vibid:1001000337622": 25,
+      "gas:candidate-vibid:1001000217906": 45,
+      "gas:candidate-vibid:325300266935": 376,
+      "special:against-all": 272
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=253002004&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=325300267560&region=0&sub_region=0&type=429",
@@ -10815,18 +10815,18 @@ export const duma_2003_uik_428_region_25_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Белецкий Николай Михайлович": 48,
-      "Имадаев Адам Михайлович": 74,
-      "Колупаев Евгений Иванович": 14,
-      "Кузнецов Владимир Сергеевич": 54,
-      "Кураев Валентин Александрович": 9,
-      "Лабонин Валентин Леонидович": 7,
-      "Новиков Анатолий Дмитриевич": 9,
-      "Пацвальд Павел Владимирович": 272,
-      "Потапейко Виктор Николаевич": 27,
-      "Тищенко Александр Григорьевич": 11,
-      "Черепков Виктор Иванович": 370,
-      "Против всех": 139
+      "gas:candidate-vibid:1001000290501": 48,
+      "gas:candidate-vibid:325300267019": 74,
+      "gas:candidate-vibid:325300266896": 14,
+      "gas:candidate-vibid:325300266802": 54,
+      "gas:candidate-vibid:1001000136027": 9,
+      "gas:candidate-vibid:1001000190319": 7,
+      "gas:candidate-vibid:325300267022": 9,
+      "gas:candidate-vibid:325300267002": 272,
+      "gas:candidate-vibid:1001000337622": 27,
+      "gas:candidate-vibid:1001000217906": 11,
+      "gas:candidate-vibid:325300266935": 370,
+      "special:against-all": 139
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=253002004&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=325300267560&region=0&sub_region=0&type=429",
@@ -10876,18 +10876,18 @@ export const duma_2003_uik_428_region_25_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Белецкий Николай Михайлович": 49,
-      "Имадаев Адам Михайлович": 114,
-      "Колупаев Евгений Иванович": 8,
-      "Кузнецов Владимир Сергеевич": 81,
-      "Кураев Валентин Александрович": 28,
-      "Лабонин Валентин Леонидович": 7,
-      "Новиков Анатолий Дмитриевич": 12,
-      "Пацвальд Павел Владимирович": 304,
-      "Потапейко Виктор Николаевич": 29,
-      "Тищенко Александр Григорьевич": 22,
-      "Черепков Виктор Иванович": 453,
-      "Против всех": 103
+      "gas:candidate-vibid:1001000290501": 49,
+      "gas:candidate-vibid:325300267019": 114,
+      "gas:candidate-vibid:325300266896": 8,
+      "gas:candidate-vibid:325300266802": 81,
+      "gas:candidate-vibid:1001000136027": 28,
+      "gas:candidate-vibid:1001000190319": 7,
+      "gas:candidate-vibid:325300267022": 12,
+      "gas:candidate-vibid:325300267002": 304,
+      "gas:candidate-vibid:1001000337622": 29,
+      "gas:candidate-vibid:1001000217906": 22,
+      "gas:candidate-vibid:325300266935": 453,
+      "special:against-all": 103
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=253002004&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=325300267560&region=0&sub_region=0&type=429",
@@ -10937,18 +10937,18 @@ export const duma_2003_uik_428_region_25_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Белецкий Николай Михайлович": 11,
-      "Имадаев Адам Михайлович": 43,
-      "Колупаев Евгений Иванович": 3,
-      "Кузнецов Владимир Сергеевич": 43,
-      "Кураев Валентин Александрович": 6,
-      "Лабонин Валентин Леонидович": 2,
-      "Новиков Анатолий Дмитриевич": 9,
-      "Пацвальд Павел Владимирович": 210,
-      "Потапейко Виктор Николаевич": 8,
-      "Тищенко Александр Григорьевич": 2,
-      "Черепков Виктор Иванович": 137,
-      "Против всех": 77
+      "gas:candidate-vibid:1001000290501": 11,
+      "gas:candidate-vibid:325300267019": 43,
+      "gas:candidate-vibid:325300266896": 3,
+      "gas:candidate-vibid:325300266802": 43,
+      "gas:candidate-vibid:1001000136027": 6,
+      "gas:candidate-vibid:1001000190319": 2,
+      "gas:candidate-vibid:325300267022": 9,
+      "gas:candidate-vibid:325300267002": 210,
+      "gas:candidate-vibid:1001000337622": 8,
+      "gas:candidate-vibid:1001000217906": 2,
+      "gas:candidate-vibid:325300266935": 137,
+      "special:against-all": 77
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=253002004&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=325300267560&region=0&sub_region=0&type=429",
@@ -10998,18 +10998,18 @@ export const duma_2003_uik_428_region_25_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Белецкий Николай Михайлович": 26,
-      "Имадаев Адам Михайлович": 135,
-      "Колупаев Евгений Иванович": 11,
-      "Кузнецов Владимир Сергеевич": 92,
-      "Кураев Валентин Александрович": 12,
-      "Лабонин Валентин Леонидович": 13,
-      "Новиков Анатолий Дмитриевич": 10,
-      "Пацвальд Павел Владимирович": 278,
-      "Потапейко Виктор Николаевич": 29,
-      "Тищенко Александр Григорьевич": 21,
-      "Черепков Виктор Иванович": 442,
-      "Против всех": 112
+      "gas:candidate-vibid:1001000290501": 26,
+      "gas:candidate-vibid:325300267019": 135,
+      "gas:candidate-vibid:325300266896": 11,
+      "gas:candidate-vibid:325300266802": 92,
+      "gas:candidate-vibid:1001000136027": 12,
+      "gas:candidate-vibid:1001000190319": 13,
+      "gas:candidate-vibid:325300267022": 10,
+      "gas:candidate-vibid:325300267002": 278,
+      "gas:candidate-vibid:1001000337622": 29,
+      "gas:candidate-vibid:1001000217906": 21,
+      "gas:candidate-vibid:325300266935": 442,
+      "special:against-all": 112
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=253002004&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=325300267560&region=0&sub_region=0&type=429",
@@ -11059,18 +11059,18 @@ export const duma_2003_uik_428_region_25_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Белецкий Николай Михайлович": 36,
-      "Имадаев Адам Михайлович": 99,
-      "Колупаев Евгений Иванович": 3,
-      "Кузнецов Владимир Сергеевич": 76,
-      "Кураев Валентин Александрович": 8,
-      "Лабонин Валентин Леонидович": 12,
-      "Новиков Анатолий Дмитриевич": 7,
-      "Пацвальд Павел Владимирович": 286,
-      "Потапейко Виктор Николаевич": 61,
-      "Тищенко Александр Григорьевич": 19,
-      "Черепков Виктор Иванович": 386,
-      "Против всех": 86
+      "gas:candidate-vibid:1001000290501": 36,
+      "gas:candidate-vibid:325300267019": 99,
+      "gas:candidate-vibid:325300266896": 3,
+      "gas:candidate-vibid:325300266802": 76,
+      "gas:candidate-vibid:1001000136027": 8,
+      "gas:candidate-vibid:1001000190319": 12,
+      "gas:candidate-vibid:325300267022": 7,
+      "gas:candidate-vibid:325300267002": 286,
+      "gas:candidate-vibid:1001000337622": 61,
+      "gas:candidate-vibid:1001000217906": 19,
+      "gas:candidate-vibid:325300266935": 386,
+      "special:against-all": 86
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=253002004&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=325300267560&region=0&sub_region=0&type=429",
@@ -11120,18 +11120,18 @@ export const duma_2003_uik_428_region_25_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Белецкий Николай Михайлович": 22,
-      "Имадаев Адам Михайлович": 122,
-      "Колупаев Евгений Иванович": 5,
-      "Кузнецов Владимир Сергеевич": 73,
-      "Кураев Валентин Александрович": 16,
-      "Лабонин Валентин Леонидович": 7,
-      "Новиков Анатолий Дмитриевич": 14,
-      "Пацвальд Павел Владимирович": 251,
-      "Потапейко Виктор Николаевич": 19,
-      "Тищенко Александр Григорьевич": 24,
-      "Черепков Виктор Иванович": 392,
-      "Против всех": 110
+      "gas:candidate-vibid:1001000290501": 22,
+      "gas:candidate-vibid:325300267019": 122,
+      "gas:candidate-vibid:325300266896": 5,
+      "gas:candidate-vibid:325300266802": 73,
+      "gas:candidate-vibid:1001000136027": 16,
+      "gas:candidate-vibid:1001000190319": 7,
+      "gas:candidate-vibid:325300267022": 14,
+      "gas:candidate-vibid:325300267002": 251,
+      "gas:candidate-vibid:1001000337622": 19,
+      "gas:candidate-vibid:1001000217906": 24,
+      "gas:candidate-vibid:325300266935": 392,
+      "special:against-all": 110
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=253002004&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=325300267560&region=0&sub_region=0&type=429",
@@ -11181,18 +11181,18 @@ export const duma_2003_uik_428_region_25_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Белецкий Николай Михайлович": 18,
-      "Имадаев Адам Михайлович": 72,
-      "Колупаев Евгений Иванович": 5,
-      "Кузнецов Владимир Сергеевич": 35,
-      "Кураев Валентин Александрович": 7,
-      "Лабонин Валентин Леонидович": 6,
-      "Новиков Анатолий Дмитриевич": 6,
-      "Пацвальд Павел Владимирович": 177,
-      "Потапейко Виктор Николаевич": 18,
-      "Тищенко Александр Григорьевич": 7,
-      "Черепков Виктор Иванович": 302,
-      "Против всех": 66
+      "gas:candidate-vibid:1001000290501": 18,
+      "gas:candidate-vibid:325300267019": 72,
+      "gas:candidate-vibid:325300266896": 5,
+      "gas:candidate-vibid:325300266802": 35,
+      "gas:candidate-vibid:1001000136027": 7,
+      "gas:candidate-vibid:1001000190319": 6,
+      "gas:candidate-vibid:325300267022": 6,
+      "gas:candidate-vibid:325300267002": 177,
+      "gas:candidate-vibid:1001000337622": 18,
+      "gas:candidate-vibid:1001000217906": 7,
+      "gas:candidate-vibid:325300266935": 302,
+      "special:against-all": 66
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=253002004&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=325300267560&region=0&sub_region=0&type=429",
@@ -11242,18 +11242,18 @@ export const duma_2003_uik_428_region_25_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Белецкий Николай Михайлович": 20,
-      "Имадаев Адам Михайлович": 128,
-      "Колупаев Евгений Иванович": 5,
-      "Кузнецов Владимир Сергеевич": 86,
-      "Кураев Валентин Александрович": 15,
-      "Лабонин Валентин Леонидович": 11,
-      "Новиков Анатолий Дмитриевич": 7,
-      "Пацвальд Павел Владимирович": 223,
-      "Потапейко Виктор Николаевич": 28,
-      "Тищенко Александр Григорьевич": 11,
-      "Черепков Виктор Иванович": 445,
-      "Против всех": 115
+      "gas:candidate-vibid:1001000290501": 20,
+      "gas:candidate-vibid:325300267019": 128,
+      "gas:candidate-vibid:325300266896": 5,
+      "gas:candidate-vibid:325300266802": 86,
+      "gas:candidate-vibid:1001000136027": 15,
+      "gas:candidate-vibid:1001000190319": 11,
+      "gas:candidate-vibid:325300267022": 7,
+      "gas:candidate-vibid:325300267002": 223,
+      "gas:candidate-vibid:1001000337622": 28,
+      "gas:candidate-vibid:1001000217906": 11,
+      "gas:candidate-vibid:325300266935": 445,
+      "special:against-all": 115
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=253002004&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=325300267560&region=0&sub_region=0&type=429",
@@ -11303,18 +11303,18 @@ export const duma_2003_uik_428_region_25_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Белецкий Николай Михайлович": 30,
-      "Имадаев Адам Михайлович": 94,
-      "Колупаев Евгений Иванович": 9,
-      "Кузнецов Владимир Сергеевич": 67,
-      "Кураев Валентин Александрович": 9,
-      "Лабонин Валентин Леонидович": 4,
-      "Новиков Анатолий Дмитриевич": 6,
-      "Пацвальд Павел Владимирович": 294,
-      "Потапейко Виктор Николаевич": 34,
-      "Тищенко Александр Григорьевич": 14,
-      "Черепков Виктор Иванович": 388,
-      "Против всех": 90
+      "gas:candidate-vibid:1001000290501": 30,
+      "gas:candidate-vibid:325300267019": 94,
+      "gas:candidate-vibid:325300266896": 9,
+      "gas:candidate-vibid:325300266802": 67,
+      "gas:candidate-vibid:1001000136027": 9,
+      "gas:candidate-vibid:1001000190319": 4,
+      "gas:candidate-vibid:325300267022": 6,
+      "gas:candidate-vibid:325300267002": 294,
+      "gas:candidate-vibid:1001000337622": 34,
+      "gas:candidate-vibid:1001000217906": 14,
+      "gas:candidate-vibid:325300266935": 388,
+      "special:against-all": 90
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=253002004&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=325300267560&region=0&sub_region=0&type=429",
@@ -11364,18 +11364,18 @@ export const duma_2003_uik_428_region_25_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Белецкий Николай Михайлович": 22,
-      "Имадаев Адам Михайлович": 91,
-      "Колупаев Евгений Иванович": 7,
-      "Кузнецов Владимир Сергеевич": 46,
-      "Кураев Валентин Александрович": 11,
-      "Лабонин Валентин Леонидович": 6,
-      "Новиков Анатолий Дмитриевич": 233,
-      "Пацвальд Павел Владимирович": 26,
-      "Потапейко Виктор Николаевич": 4,
-      "Тищенко Александр Григорьевич": 9,
-      "Черепков Виктор Иванович": 347,
-      "Против всех": 86
+      "gas:candidate-vibid:1001000290501": 22,
+      "gas:candidate-vibid:325300267019": 91,
+      "gas:candidate-vibid:325300266896": 7,
+      "gas:candidate-vibid:325300266802": 46,
+      "gas:candidate-vibid:1001000136027": 11,
+      "gas:candidate-vibid:1001000190319": 6,
+      "gas:candidate-vibid:325300267022": 233,
+      "gas:candidate-vibid:325300267002": 26,
+      "gas:candidate-vibid:1001000337622": 4,
+      "gas:candidate-vibid:1001000217906": 9,
+      "gas:candidate-vibid:325300266935": 347,
+      "special:against-all": 86
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=253002004&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=325300267560&region=0&sub_region=0&type=429",
@@ -11425,18 +11425,18 @@ export const duma_2003_uik_428_region_25_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Белецкий Николай Михайлович": 40,
-      "Имадаев Адам Михайлович": 81,
-      "Колупаев Евгений Иванович": 5,
-      "Кузнецов Владимир Сергеевич": 54,
-      "Кураев Валентин Александрович": 13,
-      "Лабонин Валентин Леонидович": 4,
-      "Новиков Анатолий Дмитриевич": 7,
-      "Пацвальд Павел Владимирович": 237,
-      "Потапейко Виктор Николаевич": 12,
-      "Тищенко Александр Григорьевич": 19,
-      "Черепков Виктор Иванович": 330,
-      "Против всех": 69
+      "gas:candidate-vibid:1001000290501": 40,
+      "gas:candidate-vibid:325300267019": 81,
+      "gas:candidate-vibid:325300266896": 5,
+      "gas:candidate-vibid:325300266802": 54,
+      "gas:candidate-vibid:1001000136027": 13,
+      "gas:candidate-vibid:1001000190319": 4,
+      "gas:candidate-vibid:325300267022": 7,
+      "gas:candidate-vibid:325300267002": 237,
+      "gas:candidate-vibid:1001000337622": 12,
+      "gas:candidate-vibid:1001000217906": 19,
+      "gas:candidate-vibid:325300266935": 330,
+      "special:against-all": 69
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=253002004&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=325300267560&region=0&sub_region=0&type=429",
@@ -11486,18 +11486,18 @@ export const duma_2003_uik_428_region_25_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Белецкий Николай Михайлович": 20,
-      "Имадаев Адам Михайлович": 61,
-      "Колупаев Евгений Иванович": 10,
-      "Кузнецов Владимир Сергеевич": 63,
-      "Кураев Валентин Александрович": 9,
-      "Лабонин Валентин Леонидович": 6,
-      "Новиков Анатолий Дмитриевич": 3,
-      "Пацвальд Павел Владимирович": 199,
-      "Потапейко Виктор Николаевич": 15,
-      "Тищенко Александр Григорьевич": 15,
-      "Черепков Виктор Иванович": 359,
-      "Против всех": 102
+      "gas:candidate-vibid:1001000290501": 20,
+      "gas:candidate-vibid:325300267019": 61,
+      "gas:candidate-vibid:325300266896": 10,
+      "gas:candidate-vibid:325300266802": 63,
+      "gas:candidate-vibid:1001000136027": 9,
+      "gas:candidate-vibid:1001000190319": 6,
+      "gas:candidate-vibid:325300267022": 3,
+      "gas:candidate-vibid:325300267002": 199,
+      "gas:candidate-vibid:1001000337622": 15,
+      "gas:candidate-vibid:1001000217906": 15,
+      "gas:candidate-vibid:325300266935": 359,
+      "special:against-all": 102
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=253002004&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=325300267560&region=0&sub_region=0&type=429",
@@ -11547,18 +11547,18 @@ export const duma_2003_uik_428_region_25_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Белецкий Николай Михайлович": 36,
-      "Имадаев Адам Михайлович": 139,
-      "Колупаев Евгений Иванович": 4,
-      "Кузнецов Владимир Сергеевич": 88,
-      "Кураев Валентин Александрович": 11,
-      "Лабонин Валентин Леонидович": 7,
-      "Новиков Анатолий Дмитриевич": 5,
-      "Пацвальд Павел Владимирович": 295,
-      "Потапейко Виктор Николаевич": 43,
-      "Тищенко Александр Григорьевич": 8,
-      "Черепков Виктор Иванович": 391,
-      "Против всех": 109
+      "gas:candidate-vibid:1001000290501": 36,
+      "gas:candidate-vibid:325300267019": 139,
+      "gas:candidate-vibid:325300266896": 4,
+      "gas:candidate-vibid:325300266802": 88,
+      "gas:candidate-vibid:1001000136027": 11,
+      "gas:candidate-vibid:1001000190319": 7,
+      "gas:candidate-vibid:325300267022": 5,
+      "gas:candidate-vibid:325300267002": 295,
+      "gas:candidate-vibid:1001000337622": 43,
+      "gas:candidate-vibid:1001000217906": 8,
+      "gas:candidate-vibid:325300266935": 391,
+      "special:against-all": 109
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=253002004&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=325300267560&region=0&sub_region=0&type=429",
@@ -11608,18 +11608,18 @@ export const duma_2003_uik_428_region_25_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Белецкий Николай Михайлович": 46,
-      "Имадаев Адам Михайлович": 117,
-      "Колупаев Евгений Иванович": 10,
-      "Кузнецов Владимир Сергеевич": 143,
-      "Кураев Валентин Александрович": 11,
-      "Лабонин Валентин Леонидович": 30,
-      "Новиков Анатолий Дмитриевич": 7,
-      "Пацвальд Павел Владимирович": 228,
-      "Потапейко Виктор Николаевич": 72,
-      "Тищенко Александр Григорьевич": 19,
-      "Черепков Виктор Иванович": 541,
-      "Против всех": 120
+      "gas:candidate-vibid:1001000290501": 46,
+      "gas:candidate-vibid:325300267019": 117,
+      "gas:candidate-vibid:325300266896": 10,
+      "gas:candidate-vibid:325300266802": 143,
+      "gas:candidate-vibid:1001000136027": 11,
+      "gas:candidate-vibid:1001000190319": 30,
+      "gas:candidate-vibid:325300267022": 7,
+      "gas:candidate-vibid:325300267002": 228,
+      "gas:candidate-vibid:1001000337622": 72,
+      "gas:candidate-vibid:1001000217906": 19,
+      "gas:candidate-vibid:325300266935": 541,
+      "special:against-all": 120
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=253002004&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=325300267560&region=0&sub_region=0&type=429",
@@ -11669,18 +11669,18 @@ export const duma_2003_uik_428_region_25_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Белецкий Николай Михайлович": 43,
-      "Имадаев Адам Михайлович": 82,
-      "Колупаев Евгений Иванович": 19,
-      "Кузнецов Владимир Сергеевич": 46,
-      "Кураев Валентин Александрович": 25,
-      "Лабонин Валентин Леонидович": 22,
-      "Новиков Анатолий Дмитриевич": 21,
-      "Пацвальд Павел Владимирович": 622,
-      "Потапейко Виктор Николаевич": 18,
-      "Тищенко Александр Григорьевич": 23,
-      "Черепков Виктор Иванович": 165,
-      "Против всех": 217
+      "gas:candidate-vibid:1001000290501": 43,
+      "gas:candidate-vibid:325300267019": 82,
+      "gas:candidate-vibid:325300266896": 19,
+      "gas:candidate-vibid:325300266802": 46,
+      "gas:candidate-vibid:1001000136027": 25,
+      "gas:candidate-vibid:1001000190319": 22,
+      "gas:candidate-vibid:325300267022": 21,
+      "gas:candidate-vibid:325300267002": 622,
+      "gas:candidate-vibid:1001000337622": 18,
+      "gas:candidate-vibid:1001000217906": 23,
+      "gas:candidate-vibid:325300266935": 165,
+      "special:against-all": 217
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=253002004&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=325300267560&region=0&sub_region=0&type=429",
@@ -11730,18 +11730,18 @@ export const duma_2003_uik_428_region_25_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Белецкий Николай Михайлович": 18,
-      "Имадаев Адам Михайлович": 29,
-      "Колупаев Евгений Иванович": 7,
-      "Кузнецов Владимир Сергеевич": 34,
-      "Кураев Валентин Александрович": 24,
-      "Лабонин Валентин Леонидович": 2,
-      "Новиков Анатолий Дмитриевич": 5,
-      "Пацвальд Павел Владимирович": 146,
-      "Потапейко Виктор Николаевич": 8,
-      "Тищенко Александр Григорьевич": 7,
-      "Черепков Виктор Иванович": 150,
-      "Против всех": 75
+      "gas:candidate-vibid:1001000290501": 18,
+      "gas:candidate-vibid:325300267019": 29,
+      "gas:candidate-vibid:325300266896": 7,
+      "gas:candidate-vibid:325300266802": 34,
+      "gas:candidate-vibid:1001000136027": 24,
+      "gas:candidate-vibid:1001000190319": 2,
+      "gas:candidate-vibid:325300267022": 5,
+      "gas:candidate-vibid:325300267002": 146,
+      "gas:candidate-vibid:1001000337622": 8,
+      "gas:candidate-vibid:1001000217906": 7,
+      "gas:candidate-vibid:325300266935": 150,
+      "special:against-all": 75
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=253002004&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=325300267560&region=0&sub_region=0&type=429",
@@ -11791,18 +11791,18 @@ export const duma_2003_uik_428_region_25_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Белецкий Николай Михайлович": 13,
-      "Имадаев Адам Михайлович": 27,
-      "Колупаев Евгений Иванович": 5,
-      "Кузнецов Владимир Сергеевич": 33,
-      "Кураев Валентин Александрович": 14,
-      "Лабонин Валентин Леонидович": 2,
-      "Новиков Анатолий Дмитриевич": 6,
-      "Пацвальд Павел Владимирович": 177,
-      "Потапейко Виктор Николаевич": 8,
-      "Тищенко Александр Григорьевич": 4,
-      "Черепков Виктор Иванович": 237,
-      "Против всех": 63
+      "gas:candidate-vibid:1001000290501": 13,
+      "gas:candidate-vibid:325300267019": 27,
+      "gas:candidate-vibid:325300266896": 5,
+      "gas:candidate-vibid:325300266802": 33,
+      "gas:candidate-vibid:1001000136027": 14,
+      "gas:candidate-vibid:1001000190319": 2,
+      "gas:candidate-vibid:325300267022": 6,
+      "gas:candidate-vibid:325300267002": 177,
+      "gas:candidate-vibid:1001000337622": 8,
+      "gas:candidate-vibid:1001000217906": 4,
+      "gas:candidate-vibid:325300266935": 237,
+      "special:against-all": 63
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=253002004&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=325300267560&region=0&sub_region=0&type=429",
@@ -11852,18 +11852,18 @@ export const duma_2003_uik_428_region_25_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Белецкий Николай Михайлович": 12,
-      "Имадаев Адам Михайлович": 62,
-      "Колупаев Евгений Иванович": 2,
-      "Кузнецов Владимир Сергеевич": 33,
-      "Кураев Валентин Александрович": 4,
-      "Лабонин Валентин Леонидович": 6,
-      "Новиков Анатолий Дмитриевич": 1,
-      "Пацвальд Павел Владимирович": 117,
-      "Потапейко Виктор Николаевич": 14,
-      "Тищенко Александр Григорьевич": 4,
-      "Черепков Виктор Иванович": 151,
-      "Против всех": 49
+      "gas:candidate-vibid:1001000290501": 12,
+      "gas:candidate-vibid:325300267019": 62,
+      "gas:candidate-vibid:325300266896": 2,
+      "gas:candidate-vibid:325300266802": 33,
+      "gas:candidate-vibid:1001000136027": 4,
+      "gas:candidate-vibid:1001000190319": 6,
+      "gas:candidate-vibid:325300267022": 1,
+      "gas:candidate-vibid:325300267002": 117,
+      "gas:candidate-vibid:1001000337622": 14,
+      "gas:candidate-vibid:1001000217906": 4,
+      "gas:candidate-vibid:325300266935": 151,
+      "special:against-all": 49
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=253002004&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=325300267560&region=0&sub_region=0&type=429",
@@ -11913,18 +11913,18 @@ export const duma_2003_uik_428_region_25_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Белецкий Николай Михайлович": 26,
-      "Имадаев Адам Михайлович": 106,
-      "Колупаев Евгений Иванович": 6,
-      "Кузнецов Владимир Сергеевич": 85,
-      "Кураев Валентин Александрович": 17,
-      "Лабонин Валентин Леонидович": 10,
-      "Новиков Анатолий Дмитриевич": 4,
-      "Пацвальд Павел Владимирович": 241,
-      "Потапейко Виктор Николаевич": 29,
-      "Тищенко Александр Григорьевич": 21,
-      "Черепков Виктор Иванович": 367,
-      "Против всех": 108
+      "gas:candidate-vibid:1001000290501": 26,
+      "gas:candidate-vibid:325300267019": 106,
+      "gas:candidate-vibid:325300266896": 6,
+      "gas:candidate-vibid:325300266802": 85,
+      "gas:candidate-vibid:1001000136027": 17,
+      "gas:candidate-vibid:1001000190319": 10,
+      "gas:candidate-vibid:325300267022": 4,
+      "gas:candidate-vibid:325300267002": 241,
+      "gas:candidate-vibid:1001000337622": 29,
+      "gas:candidate-vibid:1001000217906": 21,
+      "gas:candidate-vibid:325300266935": 367,
+      "special:against-all": 108
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=253002004&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=325300267560&region=0&sub_region=0&type=429",
@@ -11974,18 +11974,18 @@ export const duma_2003_uik_428_region_25_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Белецкий Николай Михайлович": 23,
-      "Имадаев Адам Михайлович": 91,
-      "Колупаев Евгений Иванович": 9,
-      "Кузнецов Владимир Сергеевич": 75,
-      "Кураев Валентин Александрович": 7,
-      "Лабонин Валентин Леонидович": 14,
-      "Новиков Анатолий Дмитриевич": 4,
-      "Пацвальд Павел Владимирович": 279,
-      "Потапейко Виктор Николаевич": 46,
-      "Тищенко Александр Григорьевич": 15,
-      "Черепков Виктор Иванович": 442,
-      "Против всех": 103
+      "gas:candidate-vibid:1001000290501": 23,
+      "gas:candidate-vibid:325300267019": 91,
+      "gas:candidate-vibid:325300266896": 9,
+      "gas:candidate-vibid:325300266802": 75,
+      "gas:candidate-vibid:1001000136027": 7,
+      "gas:candidate-vibid:1001000190319": 14,
+      "gas:candidate-vibid:325300267022": 4,
+      "gas:candidate-vibid:325300267002": 279,
+      "gas:candidate-vibid:1001000337622": 46,
+      "gas:candidate-vibid:1001000217906": 15,
+      "gas:candidate-vibid:325300266935": 442,
+      "special:against-all": 103
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=253002004&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=325300267560&region=0&sub_region=0&type=429",
@@ -12035,18 +12035,18 @@ export const duma_2003_uik_428_region_25_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Белецкий Николай Михайлович": 28,
-      "Имадаев Адам Михайлович": 37,
-      "Колупаев Евгений Иванович": 7,
-      "Кузнецов Владимир Сергеевич": 43,
-      "Кураев Валентин Александрович": 14,
-      "Лабонин Валентин Леонидович": 7,
-      "Новиков Анатолий Дмитриевич": 8,
-      "Пацвальд Павел Владимирович": 163,
-      "Потапейко Виктор Николаевич": 16,
-      "Тищенко Александр Григорьевич": 14,
-      "Черепков Виктор Иванович": 256,
-      "Против всех": 73
+      "gas:candidate-vibid:1001000290501": 28,
+      "gas:candidate-vibid:325300267019": 37,
+      "gas:candidate-vibid:325300266896": 7,
+      "gas:candidate-vibid:325300266802": 43,
+      "gas:candidate-vibid:1001000136027": 14,
+      "gas:candidate-vibid:1001000190319": 7,
+      "gas:candidate-vibid:325300267022": 8,
+      "gas:candidate-vibid:325300267002": 163,
+      "gas:candidate-vibid:1001000337622": 16,
+      "gas:candidate-vibid:1001000217906": 14,
+      "gas:candidate-vibid:325300266935": 256,
+      "special:against-all": 73
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=253002004&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=325300267560&region=0&sub_region=0&type=429",
@@ -12096,18 +12096,18 @@ export const duma_2003_uik_428_region_25_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Белецкий Николай Михайлович": 15,
-      "Имадаев Адам Михайлович": 39,
-      "Колупаев Евгений Иванович": 4,
-      "Кузнецов Владимир Сергеевич": 10,
-      "Кураев Валентин Александрович": 7,
-      "Лабонин Валентин Леонидович": 3,
-      "Новиков Анатолий Дмитриевич": 2,
-      "Пацвальд Павел Владимирович": 152,
-      "Потапейко Виктор Николаевич": 5,
-      "Тищенко Александр Григорьевич": 17,
-      "Черепков Виктор Иванович": 173,
-      "Против всех": 60
+      "gas:candidate-vibid:1001000290501": 15,
+      "gas:candidate-vibid:325300267019": 39,
+      "gas:candidate-vibid:325300266896": 4,
+      "gas:candidate-vibid:325300266802": 10,
+      "gas:candidate-vibid:1001000136027": 7,
+      "gas:candidate-vibid:1001000190319": 3,
+      "gas:candidate-vibid:325300267022": 2,
+      "gas:candidate-vibid:325300267002": 152,
+      "gas:candidate-vibid:1001000337622": 5,
+      "gas:candidate-vibid:1001000217906": 17,
+      "gas:candidate-vibid:325300266935": 173,
+      "special:against-all": 60
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=253002004&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=325300267560&region=0&sub_region=0&type=429",
@@ -12157,18 +12157,18 @@ export const duma_2003_uik_428_region_25_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Белецкий Николай Михайлович": 8,
-      "Имадаев Адам Михайлович": 22,
-      "Колупаев Евгений Иванович": 3,
-      "Кузнецов Владимир Сергеевич": 17,
-      "Кураев Валентин Александрович": 5,
-      "Лабонин Валентин Леонидович": 3,
-      "Новиков Анатолий Дмитриевич": 1,
-      "Пацвальд Павел Владимирович": 129,
-      "Потапейко Виктор Николаевич": 4,
-      "Тищенко Александр Григорьевич": 4,
-      "Черепков Виктор Иванович": 152,
-      "Против всех": 36
+      "gas:candidate-vibid:1001000290501": 8,
+      "gas:candidate-vibid:325300267019": 22,
+      "gas:candidate-vibid:325300266896": 3,
+      "gas:candidate-vibid:325300266802": 17,
+      "gas:candidate-vibid:1001000136027": 5,
+      "gas:candidate-vibid:1001000190319": 3,
+      "gas:candidate-vibid:325300267022": 1,
+      "gas:candidate-vibid:325300267002": 129,
+      "gas:candidate-vibid:1001000337622": 4,
+      "gas:candidate-vibid:1001000217906": 4,
+      "gas:candidate-vibid:325300266935": 152,
+      "special:against-all": 36
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=253002004&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=325300267560&region=0&sub_region=0&type=429",
@@ -12218,18 +12218,18 @@ export const duma_2003_uik_428_region_25_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Белецкий Николай Михайлович": 5,
-      "Имадаев Адам Михайлович": 10,
-      "Колупаев Евгений Иванович": 3,
-      "Кузнецов Владимир Сергеевич": 1,
-      "Кураев Валентин Александрович": 2,
-      "Лабонин Валентин Леонидович": 4,
-      "Новиков Анатолий Дмитриевич": 2,
-      "Пацвальд Павел Владимирович": 128,
-      "Потапейко Виктор Николаевич": 7,
-      "Тищенко Александр Григорьевич": 2,
-      "Черепков Виктор Иванович": 78,
-      "Против всех": 17
+      "gas:candidate-vibid:1001000290501": 5,
+      "gas:candidate-vibid:325300267019": 10,
+      "gas:candidate-vibid:325300266896": 3,
+      "gas:candidate-vibid:325300266802": 1,
+      "gas:candidate-vibid:1001000136027": 2,
+      "gas:candidate-vibid:1001000190319": 4,
+      "gas:candidate-vibid:325300267022": 2,
+      "gas:candidate-vibid:325300267002": 128,
+      "gas:candidate-vibid:1001000337622": 7,
+      "gas:candidate-vibid:1001000217906": 2,
+      "gas:candidate-vibid:325300266935": 78,
+      "special:against-all": 17
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=253002005&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=325300267561&region=0&sub_region=0&type=429",
@@ -12279,18 +12279,18 @@ export const duma_2003_uik_428_region_25_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Белецкий Николай Михайлович": 17,
-      "Имадаев Адам Михайлович": 84,
-      "Колупаев Евгений Иванович": 6,
-      "Кузнецов Владимир Сергеевич": 20,
-      "Кураев Валентин Александрович": 17,
-      "Лабонин Валентин Леонидович": 0,
-      "Новиков Анатолий Дмитриевич": 0,
-      "Пацвальд Павел Владимирович": 362,
-      "Потапейко Виктор Николаевич": 24,
-      "Тищенко Александр Григорьевич": 3,
-      "Черепков Виктор Иванович": 224,
-      "Против всех": 71
+      "gas:candidate-vibid:1001000290501": 17,
+      "gas:candidate-vibid:325300267019": 84,
+      "gas:candidate-vibid:325300266896": 6,
+      "gas:candidate-vibid:325300266802": 20,
+      "gas:candidate-vibid:1001000136027": 17,
+      "gas:candidate-vibid:1001000190319": 0,
+      "gas:candidate-vibid:325300267022": 0,
+      "gas:candidate-vibid:325300267002": 362,
+      "gas:candidate-vibid:1001000337622": 24,
+      "gas:candidate-vibid:1001000217906": 3,
+      "gas:candidate-vibid:325300266935": 224,
+      "special:against-all": 71
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=253002005&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=325300267561&region=0&sub_region=0&type=429",
@@ -12340,18 +12340,18 @@ export const duma_2003_uik_428_region_25_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Белецкий Николай Михайлович": 13,
-      "Имадаев Адам Михайлович": 62,
-      "Колупаев Евгений Иванович": 7,
-      "Кузнецов Владимир Сергеевич": 34,
-      "Кураев Валентин Александрович": 9,
-      "Лабонин Валентин Леонидович": 6,
-      "Новиков Анатолий Дмитриевич": 6,
-      "Пацвальд Павел Владимирович": 236,
-      "Потапейко Виктор Николаевич": 14,
-      "Тищенко Александр Григорьевич": 18,
-      "Черепков Виктор Иванович": 232,
-      "Против всех": 107
+      "gas:candidate-vibid:1001000290501": 13,
+      "gas:candidate-vibid:325300267019": 62,
+      "gas:candidate-vibid:325300266896": 7,
+      "gas:candidate-vibid:325300266802": 34,
+      "gas:candidate-vibid:1001000136027": 9,
+      "gas:candidate-vibid:1001000190319": 6,
+      "gas:candidate-vibid:325300267022": 6,
+      "gas:candidate-vibid:325300267002": 236,
+      "gas:candidate-vibid:1001000337622": 14,
+      "gas:candidate-vibid:1001000217906": 18,
+      "gas:candidate-vibid:325300266935": 232,
+      "special:against-all": 107
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=253002005&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=325300267561&region=0&sub_region=0&type=429",
@@ -12401,18 +12401,18 @@ export const duma_2003_uik_428_region_25_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Белецкий Николай Михайлович": 29,
-      "Имадаев Адам Михайлович": 101,
-      "Колупаев Евгений Иванович": 8,
-      "Кузнецов Владимир Сергеевич": 18,
-      "Кураев Валентин Александрович": 5,
-      "Лабонин Валентин Леонидович": 4,
-      "Новиков Анатолий Дмитриевич": 1,
-      "Пацвальд Павел Владимирович": 268,
-      "Потапейко Виктор Николаевич": 19,
-      "Тищенко Александр Григорьевич": 11,
-      "Черепков Виктор Иванович": 155,
-      "Против всех": 67
+      "gas:candidate-vibid:1001000290501": 29,
+      "gas:candidate-vibid:325300267019": 101,
+      "gas:candidate-vibid:325300266896": 8,
+      "gas:candidate-vibid:325300266802": 18,
+      "gas:candidate-vibid:1001000136027": 5,
+      "gas:candidate-vibid:1001000190319": 4,
+      "gas:candidate-vibid:325300267022": 1,
+      "gas:candidate-vibid:325300267002": 268,
+      "gas:candidate-vibid:1001000337622": 19,
+      "gas:candidate-vibid:1001000217906": 11,
+      "gas:candidate-vibid:325300266935": 155,
+      "special:against-all": 67
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=253002005&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=325300267561&region=0&sub_region=0&type=429",
@@ -12462,18 +12462,18 @@ export const duma_2003_uik_428_region_25_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Белецкий Николай Михайлович": 23,
-      "Имадаев Адам Михайлович": 56,
-      "Колупаев Евгений Иванович": 7,
-      "Кузнецов Владимир Сергеевич": 34,
-      "Кураев Валентин Александрович": 13,
-      "Лабонин Валентин Леонидович": 5,
-      "Новиков Анатолий Дмитриевич": 9,
-      "Пацвальд Павел Владимирович": 191,
-      "Потапейко Виктор Николаевич": 22,
-      "Тищенко Александр Григорьевич": 6,
-      "Черепков Виктор Иванович": 231,
-      "Против всех": 96
+      "gas:candidate-vibid:1001000290501": 23,
+      "gas:candidate-vibid:325300267019": 56,
+      "gas:candidate-vibid:325300266896": 7,
+      "gas:candidate-vibid:325300266802": 34,
+      "gas:candidate-vibid:1001000136027": 13,
+      "gas:candidate-vibid:1001000190319": 5,
+      "gas:candidate-vibid:325300267022": 9,
+      "gas:candidate-vibid:325300267002": 191,
+      "gas:candidate-vibid:1001000337622": 22,
+      "gas:candidate-vibid:1001000217906": 6,
+      "gas:candidate-vibid:325300266935": 231,
+      "special:against-all": 96
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=253002005&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=325300267561&region=0&sub_region=0&type=429",
@@ -12523,18 +12523,18 @@ export const duma_2003_uik_428_region_25_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Белецкий Николай Михайлович": 10,
-      "Имадаев Адам Михайлович": 57,
-      "Колупаев Евгений Иванович": 7,
-      "Кузнецов Владимир Сергеевич": 29,
-      "Кураев Валентин Александрович": 10,
-      "Лабонин Валентин Леонидович": 0,
-      "Новиков Анатолий Дмитриевич": 6,
-      "Пацвальд Павел Владимирович": 305,
-      "Потапейко Виктор Николаевич": 26,
-      "Тищенко Александр Григорьевич": 14,
-      "Черепков Виктор Иванович": 138,
-      "Против всех": 72
+      "gas:candidate-vibid:1001000290501": 10,
+      "gas:candidate-vibid:325300267019": 57,
+      "gas:candidate-vibid:325300266896": 7,
+      "gas:candidate-vibid:325300266802": 29,
+      "gas:candidate-vibid:1001000136027": 10,
+      "gas:candidate-vibid:1001000190319": 0,
+      "gas:candidate-vibid:325300267022": 6,
+      "gas:candidate-vibid:325300267002": 305,
+      "gas:candidate-vibid:1001000337622": 26,
+      "gas:candidate-vibid:1001000217906": 14,
+      "gas:candidate-vibid:325300266935": 138,
+      "special:against-all": 72
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=253002005&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=325300267561&region=0&sub_region=0&type=429",
@@ -12584,18 +12584,18 @@ export const duma_2003_uik_428_region_25_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Белецкий Николай Михайлович": 21,
-      "Имадаев Адам Михайлович": 67,
-      "Колупаев Евгений Иванович": 5,
-      "Кузнецов Владимир Сергеевич": 51,
-      "Кураев Валентин Александрович": 13,
-      "Лабонин Валентин Леонидович": 6,
-      "Новиков Анатолий Дмитриевич": 9,
-      "Пацвальд Павел Владимирович": 277,
-      "Потапейко Виктор Николаевич": 32,
-      "Тищенко Александр Григорьевич": 8,
-      "Черепков Виктор Иванович": 237,
-      "Против всех": 93
+      "gas:candidate-vibid:1001000290501": 21,
+      "gas:candidate-vibid:325300267019": 67,
+      "gas:candidate-vibid:325300266896": 5,
+      "gas:candidate-vibid:325300266802": 51,
+      "gas:candidate-vibid:1001000136027": 13,
+      "gas:candidate-vibid:1001000190319": 6,
+      "gas:candidate-vibid:325300267022": 9,
+      "gas:candidate-vibid:325300267002": 277,
+      "gas:candidate-vibid:1001000337622": 32,
+      "gas:candidate-vibid:1001000217906": 8,
+      "gas:candidate-vibid:325300266935": 237,
+      "special:against-all": 93
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=253002005&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=325300267561&region=0&sub_region=0&type=429",
@@ -12645,18 +12645,18 @@ export const duma_2003_uik_428_region_25_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Белецкий Николай Михайлович": 16,
-      "Имадаев Адам Михайлович": 60,
-      "Колупаев Евгений Иванович": 3,
-      "Кузнецов Владимир Сергеевич": 23,
-      "Кураев Валентин Александрович": 15,
-      "Лабонин Валентин Леонидович": 5,
-      "Новиков Анатолий Дмитриевич": 5,
-      "Пацвальд Павел Владимирович": 277,
-      "Потапейко Виктор Николаевич": 15,
-      "Тищенко Александр Григорьевич": 7,
-      "Черепков Виктор Иванович": 209,
-      "Против всех": 66
+      "gas:candidate-vibid:1001000290501": 16,
+      "gas:candidate-vibid:325300267019": 60,
+      "gas:candidate-vibid:325300266896": 3,
+      "gas:candidate-vibid:325300266802": 23,
+      "gas:candidate-vibid:1001000136027": 15,
+      "gas:candidate-vibid:1001000190319": 5,
+      "gas:candidate-vibid:325300267022": 5,
+      "gas:candidate-vibid:325300267002": 277,
+      "gas:candidate-vibid:1001000337622": 15,
+      "gas:candidate-vibid:1001000217906": 7,
+      "gas:candidate-vibid:325300266935": 209,
+      "special:against-all": 66
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=253002005&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=325300267561&region=0&sub_region=0&type=429",
@@ -12706,18 +12706,18 @@ export const duma_2003_uik_428_region_25_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Белецкий Николай Михайлович": 20,
-      "Имадаев Адам Михайлович": 48,
-      "Колупаев Евгений Иванович": 1,
-      "Кузнецов Владимир Сергеевич": 24,
-      "Кураев Валентин Александрович": 23,
-      "Лабонин Валентин Леонидович": 1,
-      "Новиков Анатолий Дмитриевич": 5,
-      "Пацвальд Павел Владимирович": 224,
-      "Потапейко Виктор Николаевич": 10,
-      "Тищенко Александр Григорьевич": 7,
-      "Черепков Виктор Иванович": 165,
-      "Против всех": 68
+      "gas:candidate-vibid:1001000290501": 20,
+      "gas:candidate-vibid:325300267019": 48,
+      "gas:candidate-vibid:325300266896": 1,
+      "gas:candidate-vibid:325300266802": 24,
+      "gas:candidate-vibid:1001000136027": 23,
+      "gas:candidate-vibid:1001000190319": 1,
+      "gas:candidate-vibid:325300267022": 5,
+      "gas:candidate-vibid:325300267002": 224,
+      "gas:candidate-vibid:1001000337622": 10,
+      "gas:candidate-vibid:1001000217906": 7,
+      "gas:candidate-vibid:325300266935": 165,
+      "special:against-all": 68
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=253002005&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=325300267561&region=0&sub_region=0&type=429",
@@ -12767,18 +12767,18 @@ export const duma_2003_uik_428_region_25_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Белецкий Николай Михайлович": 34,
-      "Имадаев Адам Михайлович": 111,
-      "Колупаев Евгений Иванович": 12,
-      "Кузнецов Владимир Сергеевич": 36,
-      "Кураев Валентин Александрович": 36,
-      "Лабонин Валентин Леонидович": 10,
-      "Новиков Анатолий Дмитриевич": 2,
-      "Пацвальд Павел Владимирович": 368,
-      "Потапейко Виктор Николаевич": 18,
-      "Тищенко Александр Григорьевич": 13,
-      "Черепков Виктор Иванович": 177,
-      "Против всех": 167
+      "gas:candidate-vibid:1001000290501": 34,
+      "gas:candidate-vibid:325300267019": 111,
+      "gas:candidate-vibid:325300266896": 12,
+      "gas:candidate-vibid:325300266802": 36,
+      "gas:candidate-vibid:1001000136027": 36,
+      "gas:candidate-vibid:1001000190319": 10,
+      "gas:candidate-vibid:325300267022": 2,
+      "gas:candidate-vibid:325300267002": 368,
+      "gas:candidate-vibid:1001000337622": 18,
+      "gas:candidate-vibid:1001000217906": 13,
+      "gas:candidate-vibid:325300266935": 177,
+      "special:against-all": 167
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=253002005&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=325300267561&region=0&sub_region=0&type=429",
@@ -12828,18 +12828,18 @@ export const duma_2003_uik_428_region_25_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Белецкий Николай Михайлович": 11,
-      "Имадаев Адам Михайлович": 18,
-      "Колупаев Евгений Иванович": 1,
-      "Кузнецов Владимир Сергеевич": 8,
-      "Кураев Валентин Александрович": 3,
-      "Лабонин Валентин Леонидович": 9,
-      "Новиков Анатолий Дмитриевич": 2,
-      "Пацвальд Павел Владимирович": 91,
-      "Потапейко Виктор Николаевич": 2,
-      "Тищенко Александр Григорьевич": 1,
-      "Черепков Виктор Иванович": 81,
-      "Против всех": 27
+      "gas:candidate-vibid:1001000290501": 11,
+      "gas:candidate-vibid:325300267019": 18,
+      "gas:candidate-vibid:325300266896": 1,
+      "gas:candidate-vibid:325300266802": 8,
+      "gas:candidate-vibid:1001000136027": 3,
+      "gas:candidate-vibid:1001000190319": 9,
+      "gas:candidate-vibid:325300267022": 2,
+      "gas:candidate-vibid:325300267002": 91,
+      "gas:candidate-vibid:1001000337622": 2,
+      "gas:candidate-vibid:1001000217906": 1,
+      "gas:candidate-vibid:325300266935": 81,
+      "special:against-all": 27
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=253002005&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=325300267561&region=0&sub_region=0&type=429",
@@ -12889,18 +12889,18 @@ export const duma_2003_uik_428_region_25_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Белецкий Николай Михайлович": 13,
-      "Имадаев Адам Михайлович": 19,
-      "Колупаев Евгений Иванович": 3,
-      "Кузнецов Владимир Сергеевич": 8,
-      "Кураев Валентин Александрович": 12,
-      "Лабонин Валентин Леонидович": 1,
-      "Новиков Анатолий Дмитриевич": 2,
-      "Пацвальд Павел Владимирович": 134,
-      "Потапейко Виктор Николаевич": 5,
-      "Тищенко Александр Григорьевич": 6,
-      "Черепков Виктор Иванович": 104,
-      "Против всех": 56
+      "gas:candidate-vibid:1001000290501": 13,
+      "gas:candidate-vibid:325300267019": 19,
+      "gas:candidate-vibid:325300266896": 3,
+      "gas:candidate-vibid:325300266802": 8,
+      "gas:candidate-vibid:1001000136027": 12,
+      "gas:candidate-vibid:1001000190319": 1,
+      "gas:candidate-vibid:325300267022": 2,
+      "gas:candidate-vibid:325300267002": 134,
+      "gas:candidate-vibid:1001000337622": 5,
+      "gas:candidate-vibid:1001000217906": 6,
+      "gas:candidate-vibid:325300266935": 104,
+      "special:against-all": 56
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=253002005&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=325300267561&region=0&sub_region=0&type=429",
@@ -12950,18 +12950,18 @@ export const duma_2003_uik_428_region_25_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Белецкий Николай Михайлович": 28,
-      "Имадаев Адам Михайлович": 23,
-      "Колупаев Евгений Иванович": 8,
-      "Кузнецов Владимир Сергеевич": 33,
-      "Кураев Валентин Александрович": 13,
-      "Лабонин Валентин Леонидович": 6,
-      "Новиков Анатолий Дмитриевич": 9,
-      "Пацвальд Павел Владимирович": 166,
-      "Потапейко Виктор Николаевич": 12,
-      "Тищенко Александр Григорьевич": 12,
-      "Черепков Виктор Иванович": 150,
-      "Против всех": 96
+      "gas:candidate-vibid:1001000290501": 28,
+      "gas:candidate-vibid:325300267019": 23,
+      "gas:candidate-vibid:325300266896": 8,
+      "gas:candidate-vibid:325300266802": 33,
+      "gas:candidate-vibid:1001000136027": 13,
+      "gas:candidate-vibid:1001000190319": 6,
+      "gas:candidate-vibid:325300267022": 9,
+      "gas:candidate-vibid:325300267002": 166,
+      "gas:candidate-vibid:1001000337622": 12,
+      "gas:candidate-vibid:1001000217906": 12,
+      "gas:candidate-vibid:325300266935": 150,
+      "special:against-all": 96
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=253002005&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=325300267561&region=0&sub_region=0&type=429",
@@ -13011,18 +13011,18 @@ export const duma_2003_uik_428_region_25_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Белецкий Николай Михайлович": 26,
-      "Имадаев Адам Михайлович": 98,
-      "Колупаев Евгений Иванович": 4,
-      "Кузнецов Владимир Сергеевич": 21,
-      "Кураев Валентин Александрович": 17,
-      "Лабонин Валентин Леонидович": 4,
-      "Новиков Анатолий Дмитриевич": 5,
-      "Пацвальд Павел Владимирович": 420,
-      "Потапейко Виктор Николаевич": 19,
-      "Тищенко Александр Григорьевич": 7,
-      "Черепков Виктор Иванович": 167,
-      "Против всех": 53
+      "gas:candidate-vibid:1001000290501": 26,
+      "gas:candidate-vibid:325300267019": 98,
+      "gas:candidate-vibid:325300266896": 4,
+      "gas:candidate-vibid:325300266802": 21,
+      "gas:candidate-vibid:1001000136027": 17,
+      "gas:candidate-vibid:1001000190319": 4,
+      "gas:candidate-vibid:325300267022": 5,
+      "gas:candidate-vibid:325300267002": 420,
+      "gas:candidate-vibid:1001000337622": 19,
+      "gas:candidate-vibid:1001000217906": 7,
+      "gas:candidate-vibid:325300266935": 167,
+      "special:against-all": 53
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=253002005&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=325300267561&region=0&sub_region=0&type=429",
@@ -13072,18 +13072,18 @@ export const duma_2003_uik_428_region_25_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Белецкий Николай Михайлович": 13,
-      "Имадаев Адам Михайлович": 49,
-      "Колупаев Евгений Иванович": 3,
-      "Кузнецов Владимир Сергеевич": 45,
-      "Кураев Валентин Александрович": 6,
-      "Лабонин Валентин Леонидович": 4,
-      "Новиков Анатолий Дмитриевич": 5,
-      "Пацвальд Павел Владимирович": 218,
-      "Потапейко Виктор Николаевич": 16,
-      "Тищенко Александр Григорьевич": 9,
-      "Черепков Виктор Иванович": 127,
-      "Против всех": 44
+      "gas:candidate-vibid:1001000290501": 13,
+      "gas:candidate-vibid:325300267019": 49,
+      "gas:candidate-vibid:325300266896": 3,
+      "gas:candidate-vibid:325300266802": 45,
+      "gas:candidate-vibid:1001000136027": 6,
+      "gas:candidate-vibid:1001000190319": 4,
+      "gas:candidate-vibid:325300267022": 5,
+      "gas:candidate-vibid:325300267002": 218,
+      "gas:candidate-vibid:1001000337622": 16,
+      "gas:candidate-vibid:1001000217906": 9,
+      "gas:candidate-vibid:325300266935": 127,
+      "special:against-all": 44
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=253002005&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=325300267561&region=0&sub_region=0&type=429",
@@ -13133,18 +13133,18 @@ export const duma_2003_uik_428_region_25_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Белецкий Николай Михайлович": 17,
-      "Имадаев Адам Михайлович": 58,
-      "Колупаев Евгений Иванович": 5,
-      "Кузнецов Владимир Сергеевич": 17,
-      "Кураев Валентин Александрович": 6,
-      "Лабонин Валентин Леонидович": 1,
-      "Новиков Анатолий Дмитриевич": 0,
-      "Пацвальд Павел Владимирович": 152,
-      "Потапейко Виктор Николаевич": 12,
-      "Тищенко Александр Григорьевич": 2,
-      "Черепков Виктор Иванович": 87,
-      "Против всех": 33
+      "gas:candidate-vibid:1001000290501": 17,
+      "gas:candidate-vibid:325300267019": 58,
+      "gas:candidate-vibid:325300266896": 5,
+      "gas:candidate-vibid:325300266802": 17,
+      "gas:candidate-vibid:1001000136027": 6,
+      "gas:candidate-vibid:1001000190319": 1,
+      "gas:candidate-vibid:325300267022": 0,
+      "gas:candidate-vibid:325300267002": 152,
+      "gas:candidate-vibid:1001000337622": 12,
+      "gas:candidate-vibid:1001000217906": 2,
+      "gas:candidate-vibid:325300266935": 87,
+      "special:against-all": 33
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=253002005&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=325300267561&region=0&sub_region=0&type=429",
@@ -13194,18 +13194,18 @@ export const duma_2003_uik_428_region_25_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Белецкий Николай Михайлович": 5,
-      "Имадаев Адам Михайлович": 45,
-      "Колупаев Евгений Иванович": 2,
-      "Кузнецов Владимир Сергеевич": 17,
-      "Кураев Валентин Александрович": 5,
-      "Лабонин Валентин Леонидович": 3,
-      "Новиков Анатолий Дмитриевич": 4,
-      "Пацвальд Павел Владимирович": 123,
-      "Потапейко Виктор Николаевич": 4,
-      "Тищенко Александр Григорьевич": 8,
-      "Черепков Виктор Иванович": 82,
-      "Против всех": 38
+      "gas:candidate-vibid:1001000290501": 5,
+      "gas:candidate-vibid:325300267019": 45,
+      "gas:candidate-vibid:325300266896": 2,
+      "gas:candidate-vibid:325300266802": 17,
+      "gas:candidate-vibid:1001000136027": 5,
+      "gas:candidate-vibid:1001000190319": 3,
+      "gas:candidate-vibid:325300267022": 4,
+      "gas:candidate-vibid:325300267002": 123,
+      "gas:candidate-vibid:1001000337622": 4,
+      "gas:candidate-vibid:1001000217906": 8,
+      "gas:candidate-vibid:325300266935": 82,
+      "special:against-all": 38
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=253002005&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=325300267561&region=0&sub_region=0&type=429",
@@ -13255,18 +13255,18 @@ export const duma_2003_uik_428_region_25_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Белецкий Николай Михайлович": 6,
-      "Имадаев Адам Михайлович": 14,
-      "Колупаев Евгений Иванович": 2,
-      "Кузнецов Владимир Сергеевич": 16,
-      "Кураев Валентин Александрович": 3,
-      "Лабонин Валентин Леонидович": 2,
-      "Новиков Анатолий Дмитриевич": 3,
-      "Пацвальд Павел Владимирович": 69,
-      "Потапейко Виктор Николаевич": 6,
-      "Тищенко Александр Григорьевич": 2,
-      "Черепков Виктор Иванович": 37,
-      "Против всех": 11
+      "gas:candidate-vibid:1001000290501": 6,
+      "gas:candidate-vibid:325300267019": 14,
+      "gas:candidate-vibid:325300266896": 2,
+      "gas:candidate-vibid:325300266802": 16,
+      "gas:candidate-vibid:1001000136027": 3,
+      "gas:candidate-vibid:1001000190319": 2,
+      "gas:candidate-vibid:325300267022": 3,
+      "gas:candidate-vibid:325300267002": 69,
+      "gas:candidate-vibid:1001000337622": 6,
+      "gas:candidate-vibid:1001000217906": 2,
+      "gas:candidate-vibid:325300266935": 37,
+      "special:against-all": 11
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=253002005&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=325300267561&region=0&sub_region=0&type=429",
@@ -13316,18 +13316,18 @@ export const duma_2003_uik_428_region_25_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Белецкий Николай Михайлович": 8,
-      "Имадаев Адам Михайлович": 64,
-      "Колупаев Евгений Иванович": 5,
-      "Кузнецов Владимир Сергеевич": 8,
-      "Кураев Валентин Александрович": 9,
-      "Лабонин Валентин Леонидович": 5,
-      "Новиков Анатолий Дмитриевич": 4,
-      "Пацвальд Павел Владимирович": 151,
-      "Потапейко Виктор Николаевич": 4,
-      "Тищенко Александр Григорьевич": 4,
-      "Черепков Виктор Иванович": 84,
-      "Против всех": 30
+      "gas:candidate-vibid:1001000290501": 8,
+      "gas:candidate-vibid:325300267019": 64,
+      "gas:candidate-vibid:325300266896": 5,
+      "gas:candidate-vibid:325300266802": 8,
+      "gas:candidate-vibid:1001000136027": 9,
+      "gas:candidate-vibid:1001000190319": 5,
+      "gas:candidate-vibid:325300267022": 4,
+      "gas:candidate-vibid:325300267002": 151,
+      "gas:candidate-vibid:1001000337622": 4,
+      "gas:candidate-vibid:1001000217906": 4,
+      "gas:candidate-vibid:325300266935": 84,
+      "special:against-all": 30
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=253002005&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=325300267561&region=0&sub_region=0&type=429",
@@ -13377,18 +13377,18 @@ export const duma_2003_uik_428_region_25_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Белецкий Николай Михайлович": 39,
-      "Имадаев Адам Михайлович": 159,
-      "Колупаев Евгений Иванович": 9,
-      "Кузнецов Владимир Сергеевич": 56,
-      "Кураев Валентин Александрович": 61,
-      "Лабонин Валентин Леонидович": 13,
-      "Новиков Анатолий Дмитриевич": 21,
-      "Пацвальд Павел Владимирович": 218,
-      "Потапейко Виктор Николаевич": 9,
-      "Тищенко Александр Григорьевич": 10,
-      "Черепков Виктор Иванович": 229,
-      "Против всех": 181
+      "gas:candidate-vibid:1001000290501": 39,
+      "gas:candidate-vibid:325300267019": 159,
+      "gas:candidate-vibid:325300266896": 9,
+      "gas:candidate-vibid:325300266802": 56,
+      "gas:candidate-vibid:1001000136027": 61,
+      "gas:candidate-vibid:1001000190319": 13,
+      "gas:candidate-vibid:325300267022": 21,
+      "gas:candidate-vibid:325300267002": 218,
+      "gas:candidate-vibid:1001000337622": 9,
+      "gas:candidate-vibid:1001000217906": 10,
+      "gas:candidate-vibid:325300266935": 229,
+      "special:against-all": 181
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=253002005&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=325300267561&region=0&sub_region=0&type=429",
@@ -13438,18 +13438,18 @@ export const duma_2003_uik_428_region_25_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Белецкий Николай Михайлович": 4,
-      "Имадаев Адам Михайлович": 56,
-      "Колупаев Евгений Иванович": 3,
-      "Кузнецов Владимир Сергеевич": 12,
-      "Кураев Валентин Александрович": 6,
-      "Лабонин Валентин Леонидович": 2,
-      "Новиков Анатолий Дмитриевич": 2,
-      "Пацвальд Павел Владимирович": 158,
-      "Потапейко Виктор Николаевич": 19,
-      "Тищенко Александр Григорьевич": 1,
-      "Черепков Виктор Иванович": 104,
-      "Против всех": 43
+      "gas:candidate-vibid:1001000290501": 4,
+      "gas:candidate-vibid:325300267019": 56,
+      "gas:candidate-vibid:325300266896": 3,
+      "gas:candidate-vibid:325300266802": 12,
+      "gas:candidate-vibid:1001000136027": 6,
+      "gas:candidate-vibid:1001000190319": 2,
+      "gas:candidate-vibid:325300267022": 2,
+      "gas:candidate-vibid:325300267002": 158,
+      "gas:candidate-vibid:1001000337622": 19,
+      "gas:candidate-vibid:1001000217906": 1,
+      "gas:candidate-vibid:325300266935": 104,
+      "special:against-all": 43
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=253002005&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=325300267561&region=0&sub_region=0&type=429",
@@ -13499,18 +13499,18 @@ export const duma_2003_uik_428_region_25_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Белецкий Николай Михайлович": 8,
-      "Имадаев Адам Михайлович": 23,
-      "Колупаев Евгений Иванович": 2,
-      "Кузнецов Владимир Сергеевич": 17,
-      "Кураев Валентин Александрович": 4,
-      "Лабонин Валентин Леонидович": 4,
-      "Новиков Анатолий Дмитриевич": 0,
-      "Пацвальд Павел Владимирович": 129,
-      "Потапейко Виктор Николаевич": 6,
-      "Тищенко Александр Григорьевич": 7,
-      "Черепков Виктор Иванович": 139,
-      "Против всех": 32
+      "gas:candidate-vibid:1001000290501": 8,
+      "gas:candidate-vibid:325300267019": 23,
+      "gas:candidate-vibid:325300266896": 2,
+      "gas:candidate-vibid:325300266802": 17,
+      "gas:candidate-vibid:1001000136027": 4,
+      "gas:candidate-vibid:1001000190319": 4,
+      "gas:candidate-vibid:325300267022": 0,
+      "gas:candidate-vibid:325300267002": 129,
+      "gas:candidate-vibid:1001000337622": 6,
+      "gas:candidate-vibid:1001000217906": 7,
+      "gas:candidate-vibid:325300266935": 139,
+      "special:against-all": 32
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=253002005&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=325300267561&region=0&sub_region=0&type=429",
@@ -13560,18 +13560,18 @@ export const duma_2003_uik_428_region_25_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Белецкий Николай Михайлович": 38,
-      "Имадаев Адам Михайлович": 58,
-      "Колупаев Евгений Иванович": 10,
-      "Кузнецов Владимир Сергеевич": 80,
-      "Кураев Валентин Александрович": 14,
-      "Лабонин Валентин Леонидович": 7,
-      "Новиков Анатолий Дмитриевич": 14,
-      "Пацвальд Павел Владимирович": 339,
-      "Потапейко Виктор Николаевич": 28,
-      "Тищенко Александр Григорьевич": 18,
-      "Черепков Виктор Иванович": 326,
-      "Против всех": 120
+      "gas:candidate-vibid:1001000290501": 38,
+      "gas:candidate-vibid:325300267019": 58,
+      "gas:candidate-vibid:325300266896": 10,
+      "gas:candidate-vibid:325300266802": 80,
+      "gas:candidate-vibid:1001000136027": 14,
+      "gas:candidate-vibid:1001000190319": 7,
+      "gas:candidate-vibid:325300267022": 14,
+      "gas:candidate-vibid:325300267002": 339,
+      "gas:candidate-vibid:1001000337622": 28,
+      "gas:candidate-vibid:1001000217906": 18,
+      "gas:candidate-vibid:325300266935": 326,
+      "special:against-all": 120
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=253002005&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=325300267561&region=0&sub_region=0&type=429",
@@ -13621,18 +13621,18 @@ export const duma_2003_uik_428_region_25_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Белецкий Николай Михайлович": 43,
-      "Имадаев Адам Михайлович": 65,
-      "Колупаев Евгений Иванович": 3,
-      "Кузнецов Владимир Сергеевич": 49,
-      "Кураев Валентин Александрович": 7,
-      "Лабонин Валентин Леонидович": 3,
-      "Новиков Анатолий Дмитриевич": 10,
-      "Пацвальд Павел Владимирович": 221,
-      "Потапейко Виктор Николаевич": 28,
-      "Тищенко Александр Григорьевич": 16,
-      "Черепков Виктор Иванович": 252,
-      "Против всех": 72
+      "gas:candidate-vibid:1001000290501": 43,
+      "gas:candidate-vibid:325300267019": 65,
+      "gas:candidate-vibid:325300266896": 3,
+      "gas:candidate-vibid:325300266802": 49,
+      "gas:candidate-vibid:1001000136027": 7,
+      "gas:candidate-vibid:1001000190319": 3,
+      "gas:candidate-vibid:325300267022": 10,
+      "gas:candidate-vibid:325300267002": 221,
+      "gas:candidate-vibid:1001000337622": 28,
+      "gas:candidate-vibid:1001000217906": 16,
+      "gas:candidate-vibid:325300266935": 252,
+      "special:against-all": 72
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=253002005&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=325300267561&region=0&sub_region=0&type=429",
@@ -13682,18 +13682,18 @@ export const duma_2003_uik_428_region_25_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Белецкий Николай Михайлович": 33,
-      "Имадаев Адам Михайлович": 115,
-      "Колупаев Евгений Иванович": 9,
-      "Кузнецов Владимир Сергеевич": 58,
-      "Кураев Валентин Александрович": 8,
-      "Лабонин Валентин Леонидович": 7,
-      "Новиков Анатолий Дмитриевич": 10,
-      "Пацвальд Павел Владимирович": 276,
-      "Потапейко Виктор Николаевич": 24,
-      "Тищенко Александр Григорьевич": 18,
-      "Черепков Виктор Иванович": 342,
-      "Против всех": 109
+      "gas:candidate-vibid:1001000290501": 33,
+      "gas:candidate-vibid:325300267019": 115,
+      "gas:candidate-vibid:325300266896": 9,
+      "gas:candidate-vibid:325300266802": 58,
+      "gas:candidate-vibid:1001000136027": 8,
+      "gas:candidate-vibid:1001000190319": 7,
+      "gas:candidate-vibid:325300267022": 10,
+      "gas:candidate-vibid:325300267002": 276,
+      "gas:candidate-vibid:1001000337622": 24,
+      "gas:candidate-vibid:1001000217906": 18,
+      "gas:candidate-vibid:325300266935": 342,
+      "special:against-all": 109
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=253002005&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=325300267561&region=0&sub_region=0&type=429",
@@ -13743,18 +13743,18 @@ export const duma_2003_uik_428_region_25_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Белецкий Николай Михайлович": 25,
-      "Имадаев Адам Михайлович": 123,
-      "Колупаев Евгений Иванович": 8,
-      "Кузнецов Владимир Сергеевич": 55,
-      "Кураев Валентин Александрович": 28,
-      "Лабонин Валентин Леонидович": 25,
-      "Новиков Анатолий Дмитриевич": 15,
-      "Пацвальд Павел Владимирович": 457,
-      "Потапейко Виктор Николаевич": 40,
-      "Тищенко Александр Григорьевич": 20,
-      "Черепков Виктор Иванович": 327,
-      "Против всех": 120
+      "gas:candidate-vibid:1001000290501": 25,
+      "gas:candidate-vibid:325300267019": 123,
+      "gas:candidate-vibid:325300266896": 8,
+      "gas:candidate-vibid:325300266802": 55,
+      "gas:candidate-vibid:1001000136027": 28,
+      "gas:candidate-vibid:1001000190319": 25,
+      "gas:candidate-vibid:325300267022": 15,
+      "gas:candidate-vibid:325300267002": 457,
+      "gas:candidate-vibid:1001000337622": 40,
+      "gas:candidate-vibid:1001000217906": 20,
+      "gas:candidate-vibid:325300266935": 327,
+      "special:against-all": 120
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=253002005&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=325300267561&region=0&sub_region=0&type=429",
@@ -13804,18 +13804,18 @@ export const duma_2003_uik_428_region_25_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Белецкий Николай Михайлович": 27,
-      "Имадаев Адам Михайлович": 84,
-      "Колупаев Евгений Иванович": 7,
-      "Кузнецов Владимир Сергеевич": 105,
-      "Кураев Валентин Александрович": 12,
-      "Лабонин Валентин Леонидович": 11,
-      "Новиков Анатолий Дмитриевич": 17,
-      "Пацвальд Павел Владимирович": 254,
-      "Потапейко Виктор Николаевич": 33,
-      "Тищенко Александр Григорьевич": 17,
-      "Черепков Виктор Иванович": 405,
-      "Против всех": 111
+      "gas:candidate-vibid:1001000290501": 27,
+      "gas:candidate-vibid:325300267019": 84,
+      "gas:candidate-vibid:325300266896": 7,
+      "gas:candidate-vibid:325300266802": 105,
+      "gas:candidate-vibid:1001000136027": 12,
+      "gas:candidate-vibid:1001000190319": 11,
+      "gas:candidate-vibid:325300267022": 17,
+      "gas:candidate-vibid:325300267002": 254,
+      "gas:candidate-vibid:1001000337622": 33,
+      "gas:candidate-vibid:1001000217906": 17,
+      "gas:candidate-vibid:325300266935": 405,
+      "special:against-all": 111
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=253002005&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=325300267561&region=0&sub_region=0&type=429",
@@ -13865,18 +13865,18 @@ export const duma_2003_uik_428_region_25_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Белецкий Николай Михайлович": 37,
-      "Имадаев Адам Михайлович": 67,
-      "Колупаев Евгений Иванович": 9,
-      "Кузнецов Владимир Сергеевич": 52,
-      "Кураев Валентин Александрович": 9,
-      "Лабонин Валентин Леонидович": 9,
-      "Новиков Анатолий Дмитриевич": 5,
-      "Пацвальд Павел Владимирович": 354,
-      "Потапейко Виктор Николаевич": 37,
-      "Тищенко Александр Григорьевич": 13,
-      "Черепков Виктор Иванович": 388,
-      "Против всех": 110
+      "gas:candidate-vibid:1001000290501": 37,
+      "gas:candidate-vibid:325300267019": 67,
+      "gas:candidate-vibid:325300266896": 9,
+      "gas:candidate-vibid:325300266802": 52,
+      "gas:candidate-vibid:1001000136027": 9,
+      "gas:candidate-vibid:1001000190319": 9,
+      "gas:candidate-vibid:325300267022": 5,
+      "gas:candidate-vibid:325300267002": 354,
+      "gas:candidate-vibid:1001000337622": 37,
+      "gas:candidate-vibid:1001000217906": 13,
+      "gas:candidate-vibid:325300266935": 388,
+      "special:against-all": 110
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=253002005&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=325300267561&region=0&sub_region=0&type=429",
@@ -13926,18 +13926,18 @@ export const duma_2003_uik_428_region_25_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Белецкий Николай Михайлович": 48,
-      "Имадаев Адам Михайлович": 51,
-      "Колупаев Евгений Иванович": 7,
-      "Кузнецов Владимир Сергеевич": 73,
-      "Кураев Валентин Александрович": 8,
-      "Лабонин Валентин Леонидович": 8,
-      "Новиков Анатолий Дмитриевич": 14,
-      "Пацвальд Павел Владимирович": 300,
-      "Потапейко Виктор Николаевич": 40,
-      "Тищенко Александр Григорьевич": 13,
-      "Черепков Виктор Иванович": 395,
-      "Против всех": 88
+      "gas:candidate-vibid:1001000290501": 48,
+      "gas:candidate-vibid:325300267019": 51,
+      "gas:candidate-vibid:325300266896": 7,
+      "gas:candidate-vibid:325300266802": 73,
+      "gas:candidate-vibid:1001000136027": 8,
+      "gas:candidate-vibid:1001000190319": 8,
+      "gas:candidate-vibid:325300267022": 14,
+      "gas:candidate-vibid:325300267002": 300,
+      "gas:candidate-vibid:1001000337622": 40,
+      "gas:candidate-vibid:1001000217906": 13,
+      "gas:candidate-vibid:325300266935": 395,
+      "special:against-all": 88
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=253002005&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=325300267561&region=0&sub_region=0&type=429",
@@ -13987,18 +13987,18 @@ export const duma_2003_uik_428_region_25_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Белецкий Николай Михайлович": 26,
-      "Имадаев Адам Михайлович": 51,
-      "Колупаев Евгений Иванович": 9,
-      "Кузнецов Владимир Сергеевич": 61,
-      "Кураев Валентин Александрович": 10,
-      "Лабонин Валентин Леонидович": 5,
-      "Новиков Анатолий Дмитриевич": 1,
-      "Пацвальд Павел Владимирович": 298,
-      "Потапейко Виктор Николаевич": 40,
-      "Тищенко Александр Григорьевич": 11,
-      "Черепков Виктор Иванович": 331,
-      "Против всех": 85
+      "gas:candidate-vibid:1001000290501": 26,
+      "gas:candidate-vibid:325300267019": 51,
+      "gas:candidate-vibid:325300266896": 9,
+      "gas:candidate-vibid:325300266802": 61,
+      "gas:candidate-vibid:1001000136027": 10,
+      "gas:candidate-vibid:1001000190319": 5,
+      "gas:candidate-vibid:325300267022": 1,
+      "gas:candidate-vibid:325300267002": 298,
+      "gas:candidate-vibid:1001000337622": 40,
+      "gas:candidate-vibid:1001000217906": 11,
+      "gas:candidate-vibid:325300266935": 331,
+      "special:against-all": 85
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=253002005&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=325300267561&region=0&sub_region=0&type=429",
@@ -14048,18 +14048,18 @@ export const duma_2003_uik_428_region_25_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Белецкий Николай Михайлович": 20,
-      "Имадаев Адам Михайлович": 96,
-      "Колупаев Евгений Иванович": 16,
-      "Кузнецов Владимир Сергеевич": 72,
-      "Кураев Валентин Александрович": 10,
-      "Лабонин Валентин Леонидович": 8,
-      "Новиков Анатолий Дмитриевич": 11,
-      "Пацвальд Павел Владимирович": 267,
-      "Потапейко Виктор Николаевич": 25,
-      "Тищенко Александр Григорьевич": 13,
-      "Черепков Виктор Иванович": 339,
-      "Против всех": 115
+      "gas:candidate-vibid:1001000290501": 20,
+      "gas:candidate-vibid:325300267019": 96,
+      "gas:candidate-vibid:325300266896": 16,
+      "gas:candidate-vibid:325300266802": 72,
+      "gas:candidate-vibid:1001000136027": 10,
+      "gas:candidate-vibid:1001000190319": 8,
+      "gas:candidate-vibid:325300267022": 11,
+      "gas:candidate-vibid:325300267002": 267,
+      "gas:candidate-vibid:1001000337622": 25,
+      "gas:candidate-vibid:1001000217906": 13,
+      "gas:candidate-vibid:325300266935": 339,
+      "special:against-all": 115
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=253002005&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=325300267561&region=0&sub_region=0&type=429",
@@ -14109,18 +14109,18 @@ export const duma_2003_uik_428_region_25_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Белецкий Николай Михайлович": 24,
-      "Имадаев Адам Михайлович": 122,
-      "Колупаев Евгений Иванович": 12,
-      "Кузнецов Владимир Сергеевич": 58,
-      "Кураев Валентин Александрович": 11,
-      "Лабонин Валентин Леонидович": 5,
-      "Новиков Анатолий Дмитриевич": 7,
-      "Пацвальд Павел Владимирович": 250,
-      "Потапейко Виктор Николаевич": 46,
-      "Тищенко Александр Григорьевич": 14,
-      "Черепков Виктор Иванович": 365,
-      "Против всех": 62
+      "gas:candidate-vibid:1001000290501": 24,
+      "gas:candidate-vibid:325300267019": 122,
+      "gas:candidate-vibid:325300266896": 12,
+      "gas:candidate-vibid:325300266802": 58,
+      "gas:candidate-vibid:1001000136027": 11,
+      "gas:candidate-vibid:1001000190319": 5,
+      "gas:candidate-vibid:325300267022": 7,
+      "gas:candidate-vibid:325300267002": 250,
+      "gas:candidate-vibid:1001000337622": 46,
+      "gas:candidate-vibid:1001000217906": 14,
+      "gas:candidate-vibid:325300266935": 365,
+      "special:against-all": 62
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=253002005&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=325300267561&region=0&sub_region=0&type=429",
@@ -14170,18 +14170,18 @@ export const duma_2003_uik_428_region_25_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Белецкий Николай Михайлович": 36,
-      "Имадаев Адам Михайлович": 72,
-      "Колупаев Евгений Иванович": 10,
-      "Кузнецов Владимир Сергеевич": 108,
-      "Кураев Валентин Александрович": 32,
-      "Лабонин Валентин Леонидович": 22,
-      "Новиков Анатолий Дмитриевич": 19,
-      "Пацвальд Павел Владимирович": 312,
-      "Потапейко Виктор Николаевич": 43,
-      "Тищенко Александр Григорьевич": 16,
-      "Черепков Виктор Иванович": 494,
-      "Против всех": 145
+      "gas:candidate-vibid:1001000290501": 36,
+      "gas:candidate-vibid:325300267019": 72,
+      "gas:candidate-vibid:325300266896": 10,
+      "gas:candidate-vibid:325300266802": 108,
+      "gas:candidate-vibid:1001000136027": 32,
+      "gas:candidate-vibid:1001000190319": 22,
+      "gas:candidate-vibid:325300267022": 19,
+      "gas:candidate-vibid:325300267002": 312,
+      "gas:candidate-vibid:1001000337622": 43,
+      "gas:candidate-vibid:1001000217906": 16,
+      "gas:candidate-vibid:325300266935": 494,
+      "special:against-all": 145
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=253002005&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=325300267561&region=0&sub_region=0&type=429",
@@ -14231,18 +14231,18 @@ export const duma_2003_uik_428_region_25_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Белецкий Николай Михайлович": 40,
-      "Имадаев Адам Михайлович": 118,
-      "Колупаев Евгений Иванович": 8,
-      "Кузнецов Владимир Сергеевич": 90,
-      "Кураев Валентин Александрович": 6,
-      "Лабонин Валентин Леонидович": 5,
-      "Новиков Анатолий Дмитриевич": 25,
-      "Пацвальд Павел Владимирович": 395,
-      "Потапейко Виктор Николаевич": 63,
-      "Тищенко Александр Григорьевич": 18,
-      "Черепков Виктор Иванович": 433,
-      "Против всех": 139
+      "gas:candidate-vibid:1001000290501": 40,
+      "gas:candidate-vibid:325300267019": 118,
+      "gas:candidate-vibid:325300266896": 8,
+      "gas:candidate-vibid:325300266802": 90,
+      "gas:candidate-vibid:1001000136027": 6,
+      "gas:candidate-vibid:1001000190319": 5,
+      "gas:candidate-vibid:325300267022": 25,
+      "gas:candidate-vibid:325300267002": 395,
+      "gas:candidate-vibid:1001000337622": 63,
+      "gas:candidate-vibid:1001000217906": 18,
+      "gas:candidate-vibid:325300266935": 433,
+      "special:against-all": 139
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=253002005&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=325300267561&region=0&sub_region=0&type=429",
@@ -14292,18 +14292,18 @@ export const duma_2003_uik_428_region_25_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Белецкий Николай Михайлович": 11,
-      "Имадаев Адам Михайлович": 33,
-      "Колупаев Евгений Иванович": 5,
-      "Кузнецов Владимир Сергеевич": 34,
-      "Кураев Валентин Александрович": 4,
-      "Лабонин Валентин Леонидович": 9,
-      "Новиков Анатолий Дмитриевич": 3,
-      "Пацвальд Павел Владимирович": 183,
-      "Потапейко Виктор Николаевич": 23,
-      "Тищенко Александр Григорьевич": 5,
-      "Черепков Виктор Иванович": 170,
-      "Против всех": 44
+      "gas:candidate-vibid:1001000290501": 11,
+      "gas:candidate-vibid:325300267019": 33,
+      "gas:candidate-vibid:325300266896": 5,
+      "gas:candidate-vibid:325300266802": 34,
+      "gas:candidate-vibid:1001000136027": 4,
+      "gas:candidate-vibid:1001000190319": 9,
+      "gas:candidate-vibid:325300267022": 3,
+      "gas:candidate-vibid:325300267002": 183,
+      "gas:candidate-vibid:1001000337622": 23,
+      "gas:candidate-vibid:1001000217906": 5,
+      "gas:candidate-vibid:325300266935": 170,
+      "special:against-all": 44
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=253002005&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=325300267561&region=0&sub_region=0&type=429",
@@ -14353,18 +14353,18 @@ export const duma_2003_uik_428_region_25_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Белецкий Николай Михайлович": 21,
-      "Имадаев Адам Михайлович": 68,
-      "Колупаев Евгений Иванович": 5,
-      "Кузнецов Владимир Сергеевич": 69,
-      "Кураев Валентин Александрович": 9,
-      "Лабонин Валентин Леонидович": 6,
-      "Новиков Анатолий Дмитриевич": 9,
-      "Пацвальд Павел Владимирович": 243,
-      "Потапейко Виктор Николаевич": 33,
-      "Тищенко Александр Григорьевич": 7,
-      "Черепков Виктор Иванович": 324,
-      "Против всех": 76
+      "gas:candidate-vibid:1001000290501": 21,
+      "gas:candidate-vibid:325300267019": 68,
+      "gas:candidate-vibid:325300266896": 5,
+      "gas:candidate-vibid:325300266802": 69,
+      "gas:candidate-vibid:1001000136027": 9,
+      "gas:candidate-vibid:1001000190319": 6,
+      "gas:candidate-vibid:325300267022": 9,
+      "gas:candidate-vibid:325300267002": 243,
+      "gas:candidate-vibid:1001000337622": 33,
+      "gas:candidate-vibid:1001000217906": 7,
+      "gas:candidate-vibid:325300266935": 324,
+      "special:against-all": 76
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=253002005&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=325300267561&region=0&sub_region=0&type=429",
@@ -14414,18 +14414,18 @@ export const duma_2003_uik_428_region_25_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Белецкий Николай Михайлович": 40,
-      "Имадаев Адам Михайлович": 61,
-      "Колупаев Евгений Иванович": 8,
-      "Кузнецов Владимир Сергеевич": 93,
-      "Кураев Валентин Александрович": 26,
-      "Лабонин Валентин Леонидович": 13,
-      "Новиков Анатолий Дмитриевич": 13,
-      "Пацвальд Павел Владимирович": 388,
-      "Потапейко Виктор Николаевич": 33,
-      "Тищенко Александр Григорьевич": 20,
-      "Черепков Виктор Иванович": 371,
-      "Против всех": 162
+      "gas:candidate-vibid:1001000290501": 40,
+      "gas:candidate-vibid:325300267019": 61,
+      "gas:candidate-vibid:325300266896": 8,
+      "gas:candidate-vibid:325300266802": 93,
+      "gas:candidate-vibid:1001000136027": 26,
+      "gas:candidate-vibid:1001000190319": 13,
+      "gas:candidate-vibid:325300267022": 13,
+      "gas:candidate-vibid:325300267002": 388,
+      "gas:candidate-vibid:1001000337622": 33,
+      "gas:candidate-vibid:1001000217906": 20,
+      "gas:candidate-vibid:325300266935": 371,
+      "special:against-all": 162
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=253002005&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=325300267561&region=0&sub_region=0&type=429",
@@ -14475,18 +14475,18 @@ export const duma_2003_uik_428_region_25_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Белецкий Николай Михайлович": 20,
-      "Имадаев Адам Михайлович": 83,
-      "Колупаев Евгений Иванович": 5,
-      "Кузнецов Владимир Сергеевич": 56,
-      "Кураев Валентин Александрович": 16,
-      "Лабонин Валентин Леонидович": 14,
-      "Новиков Анатолий Дмитриевич": 9,
-      "Пацвальд Павел Владимирович": 299,
-      "Потапейко Виктор Николаевич": 48,
-      "Тищенко Александр Григорьевич": 16,
-      "Черепков Виктор Иванович": 410,
-      "Против всех": 90
+      "gas:candidate-vibid:1001000290501": 20,
+      "gas:candidate-vibid:325300267019": 83,
+      "gas:candidate-vibid:325300266896": 5,
+      "gas:candidate-vibid:325300266802": 56,
+      "gas:candidate-vibid:1001000136027": 16,
+      "gas:candidate-vibid:1001000190319": 14,
+      "gas:candidate-vibid:325300267022": 9,
+      "gas:candidate-vibid:325300267002": 299,
+      "gas:candidate-vibid:1001000337622": 48,
+      "gas:candidate-vibid:1001000217906": 16,
+      "gas:candidate-vibid:325300266935": 410,
+      "special:against-all": 90
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=253002005&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=325300267561&region=0&sub_region=0&type=429",
@@ -14536,18 +14536,18 @@ export const duma_2003_uik_428_region_25_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Белецкий Николай Михайлович": 21,
-      "Имадаев Адам Михайлович": 49,
-      "Колупаев Евгений Иванович": 4,
-      "Кузнецов Владимир Сергеевич": 54,
-      "Кураев Валентин Александрович": 2,
-      "Лабонин Валентин Леонидович": 7,
-      "Новиков Анатолий Дмитриевич": 12,
-      "Пацвальд Павел Владимирович": 249,
-      "Потапейко Виктор Николаевич": 21,
-      "Тищенко Александр Григорьевич": 5,
-      "Черепков Виктор Иванович": 235,
-      "Против всех": 84
+      "gas:candidate-vibid:1001000290501": 21,
+      "gas:candidate-vibid:325300267019": 49,
+      "gas:candidate-vibid:325300266896": 4,
+      "gas:candidate-vibid:325300266802": 54,
+      "gas:candidate-vibid:1001000136027": 2,
+      "gas:candidate-vibid:1001000190319": 7,
+      "gas:candidate-vibid:325300267022": 12,
+      "gas:candidate-vibid:325300267002": 249,
+      "gas:candidate-vibid:1001000337622": 21,
+      "gas:candidate-vibid:1001000217906": 5,
+      "gas:candidate-vibid:325300266935": 235,
+      "special:against-all": 84
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=253002005&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=325300267561&region=0&sub_region=0&type=429",
@@ -14597,18 +14597,18 @@ export const duma_2003_uik_428_region_25_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Белецкий Николай Михайлович": 34,
-      "Имадаев Адам Михайлович": 72,
-      "Колупаев Евгений Иванович": 17,
-      "Кузнецов Владимир Сергеевич": 54,
-      "Кураев Валентин Александрович": 26,
-      "Лабонин Валентин Леонидович": 8,
-      "Новиков Анатолий Дмитриевич": 12,
-      "Пацвальд Павел Владимирович": 195,
-      "Потапейко Виктор Николаевич": 22,
-      "Тищенко Александр Григорьевич": 6,
-      "Черепков Виктор Иванович": 287,
-      "Против всех": 106
+      "gas:candidate-vibid:1001000290501": 34,
+      "gas:candidate-vibid:325300267019": 72,
+      "gas:candidate-vibid:325300266896": 17,
+      "gas:candidate-vibid:325300266802": 54,
+      "gas:candidate-vibid:1001000136027": 26,
+      "gas:candidate-vibid:1001000190319": 8,
+      "gas:candidate-vibid:325300267022": 12,
+      "gas:candidate-vibid:325300267002": 195,
+      "gas:candidate-vibid:1001000337622": 22,
+      "gas:candidate-vibid:1001000217906": 6,
+      "gas:candidate-vibid:325300266935": 287,
+      "special:against-all": 106
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=253002005&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=325300267561&region=0&sub_region=0&type=429",
@@ -14658,18 +14658,18 @@ export const duma_2003_uik_428_region_25_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Белецкий Николай Михайлович": 20,
-      "Имадаев Адам Михайлович": 34,
-      "Колупаев Евгений Иванович": 3,
-      "Кузнецов Владимир Сергеевич": 27,
-      "Кураев Валентин Александрович": 3,
-      "Лабонин Валентин Леонидович": 4,
-      "Новиков Анатолий Дмитриевич": 8,
-      "Пацвальд Павел Владимирович": 142,
-      "Потапейко Виктор Николаевич": 10,
-      "Тищенко Александр Григорьевич": 6,
-      "Черепков Виктор Иванович": 159,
-      "Против всех": 69
+      "gas:candidate-vibid:1001000290501": 20,
+      "gas:candidate-vibid:325300267019": 34,
+      "gas:candidate-vibid:325300266896": 3,
+      "gas:candidate-vibid:325300266802": 27,
+      "gas:candidate-vibid:1001000136027": 3,
+      "gas:candidate-vibid:1001000190319": 4,
+      "gas:candidate-vibid:325300267022": 8,
+      "gas:candidate-vibid:325300267002": 142,
+      "gas:candidate-vibid:1001000337622": 10,
+      "gas:candidate-vibid:1001000217906": 6,
+      "gas:candidate-vibid:325300266935": 159,
+      "special:against-all": 69
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=253002005&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=325300267561&region=0&sub_region=0&type=429",
@@ -14719,18 +14719,18 @@ export const duma_2003_uik_428_region_25_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Белецкий Николай Михайлович": 30,
-      "Имадаев Адам Михайлович": 168,
-      "Колупаев Евгений Иванович": 14,
-      "Кузнецов Владимир Сергеевич": 79,
-      "Кураев Валентин Александрович": 17,
-      "Лабонин Валентин Леонидович": 9,
-      "Новиков Анатолий Дмитриевич": 39,
-      "Пацвальд Павел Владимирович": 345,
-      "Потапейко Виктор Николаевич": 55,
-      "Тищенко Александр Григорьевич": 17,
-      "Черепков Виктор Иванович": 465,
-      "Против всех": 118
+      "gas:candidate-vibid:1001000290501": 30,
+      "gas:candidate-vibid:325300267019": 168,
+      "gas:candidate-vibid:325300266896": 14,
+      "gas:candidate-vibid:325300266802": 79,
+      "gas:candidate-vibid:1001000136027": 17,
+      "gas:candidate-vibid:1001000190319": 9,
+      "gas:candidate-vibid:325300267022": 39,
+      "gas:candidate-vibid:325300267002": 345,
+      "gas:candidate-vibid:1001000337622": 55,
+      "gas:candidate-vibid:1001000217906": 17,
+      "gas:candidate-vibid:325300266935": 465,
+      "special:against-all": 118
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=253002005&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=325300267561&region=0&sub_region=0&type=429",
@@ -14780,18 +14780,18 @@ export const duma_2003_uik_428_region_25_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Белецкий Николай Михайлович": 42,
-      "Имадаев Адам Михайлович": 136,
-      "Колупаев Евгений Иванович": 6,
-      "Кузнецов Владимир Сергеевич": 98,
-      "Кураев Валентин Александрович": 21,
-      "Лабонин Валентин Леонидович": 14,
-      "Новиков Анатолий Дмитриевич": 20,
-      "Пацвальд Павел Владимирович": 294,
-      "Потапейко Виктор Николаевич": 47,
-      "Тищенко Александр Григорьевич": 22,
-      "Черепков Виктор Иванович": 437,
-      "Против всех": 118
+      "gas:candidate-vibid:1001000290501": 42,
+      "gas:candidate-vibid:325300267019": 136,
+      "gas:candidate-vibid:325300266896": 6,
+      "gas:candidate-vibid:325300266802": 98,
+      "gas:candidate-vibid:1001000136027": 21,
+      "gas:candidate-vibid:1001000190319": 14,
+      "gas:candidate-vibid:325300267022": 20,
+      "gas:candidate-vibid:325300267002": 294,
+      "gas:candidate-vibid:1001000337622": 47,
+      "gas:candidate-vibid:1001000217906": 22,
+      "gas:candidate-vibid:325300266935": 437,
+      "special:against-all": 118
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=253002005&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=325300267561&region=0&sub_region=0&type=429",
@@ -14841,18 +14841,18 @@ export const duma_2003_uik_428_region_25_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Белецкий Николай Михайлович": 6,
-      "Имадаев Адам Михайлович": 37,
-      "Колупаев Евгений Иванович": 0,
-      "Кузнецов Владимир Сергеевич": 10,
-      "Кураев Валентин Александрович": 3,
-      "Лабонин Валентин Леонидович": 3,
-      "Новиков Анатолий Дмитриевич": 2,
-      "Пацвальд Павел Владимирович": 58,
-      "Потапейко Виктор Николаевич": 10,
-      "Тищенко Александр Григорьевич": 4,
-      "Черепков Виктор Иванович": 67,
-      "Против всех": 14
+      "gas:candidate-vibid:1001000290501": 6,
+      "gas:candidate-vibid:325300267019": 37,
+      "gas:candidate-vibid:325300266896": 0,
+      "gas:candidate-vibid:325300266802": 10,
+      "gas:candidate-vibid:1001000136027": 3,
+      "gas:candidate-vibid:1001000190319": 3,
+      "gas:candidate-vibid:325300267022": 2,
+      "gas:candidate-vibid:325300267002": 58,
+      "gas:candidate-vibid:1001000337622": 10,
+      "gas:candidate-vibid:1001000217906": 4,
+      "gas:candidate-vibid:325300266935": 67,
+      "special:against-all": 14
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=253002005&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=325300267561&region=0&sub_region=0&type=429",

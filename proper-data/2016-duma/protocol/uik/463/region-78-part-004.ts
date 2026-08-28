@@ -43,17 +43,17 @@ export const duma_2016_uik_463_region_78_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Амосов Михаил Иванович": 82,
-      "Гатчин Юрий Арменакович": 72,
-      "Докторов Иван Евгеньевич": 9,
-      "Драпеко Елена Григорьевна": 237,
-      "Комолова Ирина Игоревна": 67,
-      "Конторин Михаил Владимирович": 3,
-      "Панюта Ольга Николаевна": 13,
-      "Петров Андрей Николаевич": 23,
-      "Пивоваров Андрей Сергеевич": 19,
-      "Тратников Егор Иванович": 72,
-      "Туркин Федор Олегович": 34
+      "gas:candidate-vibid:4784007196421": 82,
+      "gas:candidate-vibid:4784007196096": 72,
+      "gas:candidate-vibid:4784007196397": 9,
+      "gas:candidate-vibid:4784007195952": 237,
+      "gas:candidate-vibid:4784007196329": 67,
+      "gas:candidate-vibid:4784007196555": 3,
+      "gas:candidate-vibid:4784007196223": 13,
+      "gas:candidate-vibid:4784007196445": 23,
+      "gas:candidate-vibid:4784007196051": 19,
+      "gas:candidate-vibid:4784007196360": 72,
+      "gas:candidate-vibid:4784007196154": 34
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/st-petersburg?action=show&root=1000279&tvd=2782000678280&vrn=100100067795849&region=78&global=&sub_region=78&prver=0&pronetvd=null&vibid=2782000678280&type=464",
@@ -104,17 +104,17 @@ export const duma_2016_uik_463_region_78_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Амосов Михаил Иванович": 64,
-      "Гатчин Юрий Арменакович": 77,
-      "Докторов Иван Евгеньевич": 11,
-      "Драпеко Елена Григорьевна": 206,
-      "Комолова Ирина Игоревна": 55,
-      "Конторин Михаил Владимирович": 3,
-      "Панюта Ольга Николаевна": 12,
-      "Петров Андрей Николаевич": 26,
-      "Пивоваров Андрей Сергеевич": 10,
-      "Тратников Егор Иванович": 58,
-      "Туркин Федор Олегович": 28
+      "gas:candidate-vibid:4784007196421": 64,
+      "gas:candidate-vibid:4784007196096": 77,
+      "gas:candidate-vibid:4784007196397": 11,
+      "gas:candidate-vibid:4784007195952": 206,
+      "gas:candidate-vibid:4784007196329": 55,
+      "gas:candidate-vibid:4784007196555": 3,
+      "gas:candidate-vibid:4784007196223": 12,
+      "gas:candidate-vibid:4784007196445": 26,
+      "gas:candidate-vibid:4784007196051": 10,
+      "gas:candidate-vibid:4784007196360": 58,
+      "gas:candidate-vibid:4784007196154": 28
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/st-petersburg?action=show&root=1000279&tvd=2782000678280&vrn=100100067795849&region=78&global=&sub_region=78&prver=0&pronetvd=null&vibid=2782000678280&type=464",
@@ -165,17 +165,17 @@ export const duma_2016_uik_463_region_78_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Амосов Михаил Иванович": 61,
-      "Гатчин Юрий Арменакович": 67,
-      "Докторов Иван Евгеньевич": 4,
-      "Драпеко Елена Григорьевна": 188,
-      "Комолова Ирина Игоревна": 63,
-      "Конторин Михаил Владимирович": 6,
-      "Панюта Ольга Николаевна": 7,
-      "Петров Андрей Николаевич": 12,
-      "Пивоваров Андрей Сергеевич": 17,
-      "Тратников Егор Иванович": 61,
-      "Туркин Федор Олегович": 38
+      "gas:candidate-vibid:4784007196421": 61,
+      "gas:candidate-vibid:4784007196096": 67,
+      "gas:candidate-vibid:4784007196397": 4,
+      "gas:candidate-vibid:4784007195952": 188,
+      "gas:candidate-vibid:4784007196329": 63,
+      "gas:candidate-vibid:4784007196555": 6,
+      "gas:candidate-vibid:4784007196223": 7,
+      "gas:candidate-vibid:4784007196445": 12,
+      "gas:candidate-vibid:4784007196051": 17,
+      "gas:candidate-vibid:4784007196360": 61,
+      "gas:candidate-vibid:4784007196154": 38
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/st-petersburg?action=show&root=1000279&tvd=2782000678280&vrn=100100067795849&region=78&global=&sub_region=78&prver=0&pronetvd=null&vibid=2782000678280&type=464",
@@ -226,17 +226,17 @@ export const duma_2016_uik_463_region_78_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Амосов Михаил Иванович": 49,
-      "Гатчин Юрий Арменакович": 57,
-      "Докторов Иван Евгеньевич": 6,
-      "Драпеко Елена Григорьевна": 183,
-      "Комолова Ирина Игоревна": 53,
-      "Конторин Михаил Владимирович": 1,
-      "Панюта Ольга Николаевна": 9,
-      "Петров Андрей Николаевич": 18,
-      "Пивоваров Андрей Сергеевич": 15,
-      "Тратников Егор Иванович": 59,
-      "Туркин Федор Олегович": 31
+      "gas:candidate-vibid:4784007196421": 49,
+      "gas:candidate-vibid:4784007196096": 57,
+      "gas:candidate-vibid:4784007196397": 6,
+      "gas:candidate-vibid:4784007195952": 183,
+      "gas:candidate-vibid:4784007196329": 53,
+      "gas:candidate-vibid:4784007196555": 1,
+      "gas:candidate-vibid:4784007196223": 9,
+      "gas:candidate-vibid:4784007196445": 18,
+      "gas:candidate-vibid:4784007196051": 15,
+      "gas:candidate-vibid:4784007196360": 59,
+      "gas:candidate-vibid:4784007196154": 31
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/st-petersburg?action=show&root=1000279&tvd=2782000678280&vrn=100100067795849&region=78&global=&sub_region=78&prver=0&pronetvd=null&vibid=2782000678280&type=464",
@@ -287,17 +287,17 @@ export const duma_2016_uik_463_region_78_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Амосов Михаил Иванович": 54,
-      "Гатчин Юрий Арменакович": 98,
-      "Докторов Иван Евгеньевич": 6,
-      "Драпеко Елена Григорьевна": 260,
-      "Комолова Ирина Игоревна": 69,
-      "Конторин Михаил Владимирович": 1,
-      "Панюта Ольга Николаевна": 19,
-      "Петров Андрей Николаевич": 33,
-      "Пивоваров Андрей Сергеевич": 19,
-      "Тратников Егор Иванович": 78,
-      "Туркин Федор Олегович": 37
+      "gas:candidate-vibid:4784007196421": 54,
+      "gas:candidate-vibid:4784007196096": 98,
+      "gas:candidate-vibid:4784007196397": 6,
+      "gas:candidate-vibid:4784007195952": 260,
+      "gas:candidate-vibid:4784007196329": 69,
+      "gas:candidate-vibid:4784007196555": 1,
+      "gas:candidate-vibid:4784007196223": 19,
+      "gas:candidate-vibid:4784007196445": 33,
+      "gas:candidate-vibid:4784007196051": 19,
+      "gas:candidate-vibid:4784007196360": 78,
+      "gas:candidate-vibid:4784007196154": 37
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/st-petersburg?action=show&root=1000279&tvd=2782000678280&vrn=100100067795849&region=78&global=&sub_region=78&prver=0&pronetvd=null&vibid=2782000678280&type=464",
@@ -348,17 +348,17 @@ export const duma_2016_uik_463_region_78_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Амосов Михаил Иванович": 76,
-      "Гатчин Юрий Арменакович": 79,
-      "Докторов Иван Евгеньевич": 6,
-      "Драпеко Елена Григорьевна": 218,
-      "Комолова Ирина Игоревна": 71,
-      "Конторин Михаил Владимирович": 2,
-      "Панюта Ольга Николаевна": 10,
-      "Петров Андрей Николаевич": 16,
-      "Пивоваров Андрей Сергеевич": 14,
-      "Тратников Егор Иванович": 59,
-      "Туркин Федор Олегович": 25
+      "gas:candidate-vibid:4784007196421": 76,
+      "gas:candidate-vibid:4784007196096": 79,
+      "gas:candidate-vibid:4784007196397": 6,
+      "gas:candidate-vibid:4784007195952": 218,
+      "gas:candidate-vibid:4784007196329": 71,
+      "gas:candidate-vibid:4784007196555": 2,
+      "gas:candidate-vibid:4784007196223": 10,
+      "gas:candidate-vibid:4784007196445": 16,
+      "gas:candidate-vibid:4784007196051": 14,
+      "gas:candidate-vibid:4784007196360": 59,
+      "gas:candidate-vibid:4784007196154": 25
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/st-petersburg?action=show&root=1000279&tvd=2782000678280&vrn=100100067795849&region=78&global=&sub_region=78&prver=0&pronetvd=null&vibid=2782000678280&type=464",
@@ -409,17 +409,17 @@ export const duma_2016_uik_463_region_78_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Амосов Михаил Иванович": 99,
-      "Гатчин Юрий Арменакович": 101,
-      "Докторов Иван Евгеньевич": 5,
-      "Драпеко Елена Григорьевна": 241,
-      "Комолова Ирина Игоревна": 76,
-      "Конторин Михаил Владимирович": 1,
-      "Панюта Ольга Николаевна": 21,
-      "Петров Андрей Николаевич": 21,
-      "Пивоваров Андрей Сергеевич": 21,
-      "Тратников Егор Иванович": 102,
-      "Туркин Федор Олегович": 38
+      "gas:candidate-vibid:4784007196421": 99,
+      "gas:candidate-vibid:4784007196096": 101,
+      "gas:candidate-vibid:4784007196397": 5,
+      "gas:candidate-vibid:4784007195952": 241,
+      "gas:candidate-vibid:4784007196329": 76,
+      "gas:candidate-vibid:4784007196555": 1,
+      "gas:candidate-vibid:4784007196223": 21,
+      "gas:candidate-vibid:4784007196445": 21,
+      "gas:candidate-vibid:4784007196051": 21,
+      "gas:candidate-vibid:4784007196360": 102,
+      "gas:candidate-vibid:4784007196154": 38
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/st-petersburg?action=show&root=1000279&tvd=2782000678280&vrn=100100067795849&region=78&global=&sub_region=78&prver=0&pronetvd=null&vibid=2782000678280&type=464",
@@ -470,17 +470,17 @@ export const duma_2016_uik_463_region_78_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Амосов Михаил Иванович": 120,
-      "Гатчин Юрий Арменакович": 90,
-      "Докторов Иван Евгеньевич": 6,
-      "Драпеко Елена Григорьевна": 234,
-      "Комолова Ирина Игоревна": 81,
-      "Конторин Михаил Владимирович": 3,
-      "Панюта Ольга Николаевна": 19,
-      "Петров Андрей Николаевич": 33,
-      "Пивоваров Андрей Сергеевич": 28,
-      "Тратников Егор Иванович": 96,
-      "Туркин Федор Олегович": 30
+      "gas:candidate-vibid:4784007196421": 120,
+      "gas:candidate-vibid:4784007196096": 90,
+      "gas:candidate-vibid:4784007196397": 6,
+      "gas:candidate-vibid:4784007195952": 234,
+      "gas:candidate-vibid:4784007196329": 81,
+      "gas:candidate-vibid:4784007196555": 3,
+      "gas:candidate-vibid:4784007196223": 19,
+      "gas:candidate-vibid:4784007196445": 33,
+      "gas:candidate-vibid:4784007196051": 28,
+      "gas:candidate-vibid:4784007196360": 96,
+      "gas:candidate-vibid:4784007196154": 30
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/st-petersburg?action=show&root=1000279&tvd=2782000678280&vrn=100100067795849&region=78&global=&sub_region=78&prver=0&pronetvd=null&vibid=2782000678280&type=464",
@@ -531,17 +531,17 @@ export const duma_2016_uik_463_region_78_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Амосов Михаил Иванович": 59,
-      "Гатчин Юрий Арменакович": 74,
-      "Докторов Иван Евгеньевич": 14,
-      "Драпеко Елена Григорьевна": 235,
-      "Комолова Ирина Игоревна": 89,
-      "Конторин Михаил Владимирович": 6,
-      "Панюта Ольга Николаевна": 16,
-      "Петров Андрей Николаевич": 23,
-      "Пивоваров Андрей Сергеевич": 21,
-      "Тратников Егор Иванович": 81,
-      "Туркин Федор Олегович": 45
+      "gas:candidate-vibid:4784007196421": 59,
+      "gas:candidate-vibid:4784007196096": 74,
+      "gas:candidate-vibid:4784007196397": 14,
+      "gas:candidate-vibid:4784007195952": 235,
+      "gas:candidate-vibid:4784007196329": 89,
+      "gas:candidate-vibid:4784007196555": 6,
+      "gas:candidate-vibid:4784007196223": 16,
+      "gas:candidate-vibid:4784007196445": 23,
+      "gas:candidate-vibid:4784007196051": 21,
+      "gas:candidate-vibid:4784007196360": 81,
+      "gas:candidate-vibid:4784007196154": 45
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/st-petersburg?action=show&root=1000279&tvd=2782000678280&vrn=100100067795849&region=78&global=&sub_region=78&prver=0&pronetvd=null&vibid=2782000678280&type=464",
@@ -592,17 +592,17 @@ export const duma_2016_uik_463_region_78_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Амосов Михаил Иванович": 82,
-      "Гатчин Юрий Арменакович": 90,
-      "Докторов Иван Евгеньевич": 9,
-      "Драпеко Елена Григорьевна": 253,
-      "Комолова Ирина Игоревна": 81,
-      "Конторин Михаил Владимирович": 0,
-      "Панюта Ольга Николаевна": 21,
-      "Петров Андрей Николаевич": 25,
-      "Пивоваров Андрей Сергеевич": 14,
-      "Тратников Егор Иванович": 100,
-      "Туркин Федор Олегович": 36
+      "gas:candidate-vibid:4784007196421": 82,
+      "gas:candidate-vibid:4784007196096": 90,
+      "gas:candidate-vibid:4784007196397": 9,
+      "gas:candidate-vibid:4784007195952": 253,
+      "gas:candidate-vibid:4784007196329": 81,
+      "gas:candidate-vibid:4784007196555": 0,
+      "gas:candidate-vibid:4784007196223": 21,
+      "gas:candidate-vibid:4784007196445": 25,
+      "gas:candidate-vibid:4784007196051": 14,
+      "gas:candidate-vibid:4784007196360": 100,
+      "gas:candidate-vibid:4784007196154": 36
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/st-petersburg?action=show&root=1000279&tvd=2782000678280&vrn=100100067795849&region=78&global=&sub_region=78&prver=0&pronetvd=null&vibid=2782000678280&type=464",
@@ -653,17 +653,17 @@ export const duma_2016_uik_463_region_78_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Амосов Михаил Иванович": 77,
-      "Гатчин Юрий Арменакович": 69,
-      "Докторов Иван Евгеньевич": 8,
-      "Драпеко Елена Григорьевна": 254,
-      "Комолова Ирина Игоревна": 72,
-      "Конторин Михаил Владимирович": 2,
-      "Панюта Ольга Николаевна": 11,
-      "Петров Андрей Николаевич": 16,
-      "Пивоваров Андрей Сергеевич": 21,
-      "Тратников Егор Иванович": 84,
-      "Туркин Федор Олегович": 51
+      "gas:candidate-vibid:4784007196421": 77,
+      "gas:candidate-vibid:4784007196096": 69,
+      "gas:candidate-vibid:4784007196397": 8,
+      "gas:candidate-vibid:4784007195952": 254,
+      "gas:candidate-vibid:4784007196329": 72,
+      "gas:candidate-vibid:4784007196555": 2,
+      "gas:candidate-vibid:4784007196223": 11,
+      "gas:candidate-vibid:4784007196445": 16,
+      "gas:candidate-vibid:4784007196051": 21,
+      "gas:candidate-vibid:4784007196360": 84,
+      "gas:candidate-vibid:4784007196154": 51
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/st-petersburg?action=show&root=1000279&tvd=2782000678280&vrn=100100067795849&region=78&global=&sub_region=78&prver=0&pronetvd=null&vibid=2782000678280&type=464",
@@ -714,17 +714,17 @@ export const duma_2016_uik_463_region_78_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Амосов Михаил Иванович": 47,
-      "Гатчин Юрий Арменакович": 78,
-      "Докторов Иван Евгеньевич": 1,
-      "Драпеко Елена Григорьевна": 249,
-      "Комолова Ирина Игоревна": 50,
-      "Конторин Михаил Владимирович": 8,
-      "Панюта Ольга Николаевна": 21,
-      "Петров Андрей Николаевич": 23,
-      "Пивоваров Андрей Сергеевич": 13,
-      "Тратников Егор Иванович": 73,
-      "Туркин Федор Олегович": 28
+      "gas:candidate-vibid:4784007196421": 47,
+      "gas:candidate-vibid:4784007196096": 78,
+      "gas:candidate-vibid:4784007196397": 1,
+      "gas:candidate-vibid:4784007195952": 249,
+      "gas:candidate-vibid:4784007196329": 50,
+      "gas:candidate-vibid:4784007196555": 8,
+      "gas:candidate-vibid:4784007196223": 21,
+      "gas:candidate-vibid:4784007196445": 23,
+      "gas:candidate-vibid:4784007196051": 13,
+      "gas:candidate-vibid:4784007196360": 73,
+      "gas:candidate-vibid:4784007196154": 28
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/st-petersburg?action=show&root=1000279&tvd=2782000678280&vrn=100100067795849&region=78&global=&sub_region=78&prver=0&pronetvd=null&vibid=2782000678280&type=464",
@@ -775,17 +775,17 @@ export const duma_2016_uik_463_region_78_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Амосов Михаил Иванович": 92,
-      "Гатчин Юрий Арменакович": 95,
-      "Докторов Иван Евгеньевич": 10,
-      "Драпеко Елена Григорьевна": 260,
-      "Комолова Ирина Игоревна": 94,
-      "Конторин Михаил Владимирович": 1,
-      "Панюта Ольга Николаевна": 14,
-      "Петров Андрей Николаевич": 23,
-      "Пивоваров Андрей Сергеевич": 22,
-      "Тратников Егор Иванович": 92,
-      "Туркин Федор Олегович": 37
+      "gas:candidate-vibid:4784007196421": 92,
+      "gas:candidate-vibid:4784007196096": 95,
+      "gas:candidate-vibid:4784007196397": 10,
+      "gas:candidate-vibid:4784007195952": 260,
+      "gas:candidate-vibid:4784007196329": 94,
+      "gas:candidate-vibid:4784007196555": 1,
+      "gas:candidate-vibid:4784007196223": 14,
+      "gas:candidate-vibid:4784007196445": 23,
+      "gas:candidate-vibid:4784007196051": 22,
+      "gas:candidate-vibid:4784007196360": 92,
+      "gas:candidate-vibid:4784007196154": 37
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/st-petersburg?action=show&root=1000279&tvd=2782000678280&vrn=100100067795849&region=78&global=&sub_region=78&prver=0&pronetvd=null&vibid=2782000678280&type=464",
@@ -836,17 +836,17 @@ export const duma_2016_uik_463_region_78_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Амосов Михаил Иванович": 82,
-      "Гатчин Юрий Арменакович": 85,
-      "Докторов Иван Евгеньевич": 10,
-      "Драпеко Елена Григорьевна": 213,
-      "Комолова Ирина Игоревна": 67,
-      "Конторин Михаил Владимирович": 6,
-      "Панюта Ольга Николаевна": 14,
-      "Петров Андрей Николаевич": 36,
-      "Пивоваров Андрей Сергеевич": 14,
-      "Тратников Егор Иванович": 87,
-      "Туркин Федор Олегович": 42
+      "gas:candidate-vibid:4784007196421": 82,
+      "gas:candidate-vibid:4784007196096": 85,
+      "gas:candidate-vibid:4784007196397": 10,
+      "gas:candidate-vibid:4784007195952": 213,
+      "gas:candidate-vibid:4784007196329": 67,
+      "gas:candidate-vibid:4784007196555": 6,
+      "gas:candidate-vibid:4784007196223": 14,
+      "gas:candidate-vibid:4784007196445": 36,
+      "gas:candidate-vibid:4784007196051": 14,
+      "gas:candidate-vibid:4784007196360": 87,
+      "gas:candidate-vibid:4784007196154": 42
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/st-petersburg?action=show&root=1000279&tvd=2782000678280&vrn=100100067795849&region=78&global=&sub_region=78&prver=0&pronetvd=null&vibid=2782000678280&type=464",
@@ -897,17 +897,17 @@ export const duma_2016_uik_463_region_78_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Амосов Михаил Иванович": 41,
-      "Гатчин Юрий Арменакович": 44,
-      "Докторов Иван Евгеньевич": 5,
-      "Драпеко Елена Григорьевна": 170,
-      "Комолова Ирина Игоревна": 48,
-      "Конторин Михаил Владимирович": 3,
-      "Панюта Ольга Николаевна": 9,
-      "Петров Андрей Николаевич": 10,
-      "Пивоваров Андрей Сергеевич": 8,
-      "Тратников Егор Иванович": 67,
-      "Туркин Федор Олегович": 22
+      "gas:candidate-vibid:4784007196421": 41,
+      "gas:candidate-vibid:4784007196096": 44,
+      "gas:candidate-vibid:4784007196397": 5,
+      "gas:candidate-vibid:4784007195952": 170,
+      "gas:candidate-vibid:4784007196329": 48,
+      "gas:candidate-vibid:4784007196555": 3,
+      "gas:candidate-vibid:4784007196223": 9,
+      "gas:candidate-vibid:4784007196445": 10,
+      "gas:candidate-vibid:4784007196051": 8,
+      "gas:candidate-vibid:4784007196360": 67,
+      "gas:candidate-vibid:4784007196154": 22
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/st-petersburg?action=show&root=1000279&tvd=2782000678280&vrn=100100067795849&region=78&global=&sub_region=78&prver=0&pronetvd=null&vibid=2782000678280&type=464",
@@ -958,17 +958,17 @@ export const duma_2016_uik_463_region_78_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Амосов Михаил Иванович": 54,
-      "Гатчин Юрий Арменакович": 48,
-      "Докторов Иван Евгеньевич": 8,
-      "Драпеко Елена Григорьевна": 170,
-      "Комолова Ирина Игоревна": 56,
-      "Конторин Михаил Владимирович": 3,
-      "Панюта Ольга Николаевна": 8,
-      "Петров Андрей Николаевич": 31,
-      "Пивоваров Андрей Сергеевич": 11,
-      "Тратников Егор Иванович": 60,
-      "Туркин Федор Олегович": 20
+      "gas:candidate-vibid:4784007196421": 54,
+      "gas:candidate-vibid:4784007196096": 48,
+      "gas:candidate-vibid:4784007196397": 8,
+      "gas:candidate-vibid:4784007195952": 170,
+      "gas:candidate-vibid:4784007196329": 56,
+      "gas:candidate-vibid:4784007196555": 3,
+      "gas:candidate-vibid:4784007196223": 8,
+      "gas:candidate-vibid:4784007196445": 31,
+      "gas:candidate-vibid:4784007196051": 11,
+      "gas:candidate-vibid:4784007196360": 60,
+      "gas:candidate-vibid:4784007196154": 20
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/st-petersburg?action=show&root=1000279&tvd=2782000678280&vrn=100100067795849&region=78&global=&sub_region=78&prver=0&pronetvd=null&vibid=2782000678280&type=464",
@@ -1019,17 +1019,17 @@ export const duma_2016_uik_463_region_78_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Амосов Михаил Иванович": 66,
-      "Гатчин Юрий Арменакович": 62,
-      "Докторов Иван Евгеньевич": 5,
-      "Драпеко Елена Григорьевна": 247,
-      "Комолова Ирина Игоревна": 82,
-      "Конторин Михаил Владимирович": 1,
-      "Панюта Ольга Николаевна": 18,
-      "Петров Андрей Николаевич": 25,
-      "Пивоваров Андрей Сергеевич": 28,
-      "Тратников Егор Иванович": 78,
-      "Туркин Федор Олегович": 29
+      "gas:candidate-vibid:4784007196421": 66,
+      "gas:candidate-vibid:4784007196096": 62,
+      "gas:candidate-vibid:4784007196397": 5,
+      "gas:candidate-vibid:4784007195952": 247,
+      "gas:candidate-vibid:4784007196329": 82,
+      "gas:candidate-vibid:4784007196555": 1,
+      "gas:candidate-vibid:4784007196223": 18,
+      "gas:candidate-vibid:4784007196445": 25,
+      "gas:candidate-vibid:4784007196051": 28,
+      "gas:candidate-vibid:4784007196360": 78,
+      "gas:candidate-vibid:4784007196154": 29
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/st-petersburg?action=show&root=1000279&tvd=2782000678280&vrn=100100067795849&region=78&global=&sub_region=78&prver=0&pronetvd=null&vibid=2782000678280&type=464",
@@ -1080,17 +1080,17 @@ export const duma_2016_uik_463_region_78_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Амосов Михаил Иванович": 50,
-      "Гатчин Юрий Арменакович": 98,
-      "Докторов Иван Евгеньевич": 7,
-      "Драпеко Елена Григорьевна": 190,
-      "Комолова Ирина Игоревна": 52,
-      "Конторин Михаил Владимирович": 1,
-      "Панюта Ольга Николаевна": 18,
-      "Петров Андрей Николаевич": 26,
-      "Пивоваров Андрей Сергеевич": 13,
-      "Тратников Егор Иванович": 72,
-      "Туркин Федор Олегович": 20
+      "gas:candidate-vibid:4784007196421": 50,
+      "gas:candidate-vibid:4784007196096": 98,
+      "gas:candidate-vibid:4784007196397": 7,
+      "gas:candidate-vibid:4784007195952": 190,
+      "gas:candidate-vibid:4784007196329": 52,
+      "gas:candidate-vibid:4784007196555": 1,
+      "gas:candidate-vibid:4784007196223": 18,
+      "gas:candidate-vibid:4784007196445": 26,
+      "gas:candidate-vibid:4784007196051": 13,
+      "gas:candidate-vibid:4784007196360": 72,
+      "gas:candidate-vibid:4784007196154": 20
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/st-petersburg?action=show&root=1000279&tvd=2782000678280&vrn=100100067795849&region=78&global=&sub_region=78&prver=0&pronetvd=null&vibid=2782000678280&type=464",
@@ -1141,17 +1141,17 @@ export const duma_2016_uik_463_region_78_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Амосов Михаил Иванович": 79,
-      "Гатчин Юрий Арменакович": 73,
-      "Докторов Иван Евгеньевич": 6,
-      "Драпеко Елена Григорьевна": 252,
-      "Комолова Ирина Игоревна": 68,
-      "Конторин Михаил Владимирович": 4,
-      "Панюта Ольга Николаевна": 18,
-      "Петров Андрей Николаевич": 28,
-      "Пивоваров Андрей Сергеевич": 16,
-      "Тратников Егор Иванович": 87,
-      "Туркин Федор Олегович": 41
+      "gas:candidate-vibid:4784007196421": 79,
+      "gas:candidate-vibid:4784007196096": 73,
+      "gas:candidate-vibid:4784007196397": 6,
+      "gas:candidate-vibid:4784007195952": 252,
+      "gas:candidate-vibid:4784007196329": 68,
+      "gas:candidate-vibid:4784007196555": 4,
+      "gas:candidate-vibid:4784007196223": 18,
+      "gas:candidate-vibid:4784007196445": 28,
+      "gas:candidate-vibid:4784007196051": 16,
+      "gas:candidate-vibid:4784007196360": 87,
+      "gas:candidate-vibid:4784007196154": 41
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/st-petersburg?action=show&root=1000279&tvd=2782000678280&vrn=100100067795849&region=78&global=&sub_region=78&prver=0&pronetvd=null&vibid=2782000678280&type=464",
@@ -1202,17 +1202,17 @@ export const duma_2016_uik_463_region_78_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Амосов Михаил Иванович": 97,
-      "Гатчин Юрий Арменакович": 78,
-      "Докторов Иван Евгеньевич": 9,
-      "Драпеко Елена Григорьевна": 278,
-      "Комолова Ирина Игоревна": 83,
-      "Конторин Михаил Владимирович": 1,
-      "Панюта Ольга Николаевна": 17,
-      "Петров Андрей Николаевич": 35,
-      "Пивоваров Андрей Сергеевич": 22,
-      "Тратников Егор Иванович": 120,
-      "Туркин Федор Олегович": 47
+      "gas:candidate-vibid:4784007196421": 97,
+      "gas:candidate-vibid:4784007196096": 78,
+      "gas:candidate-vibid:4784007196397": 9,
+      "gas:candidate-vibid:4784007195952": 278,
+      "gas:candidate-vibid:4784007196329": 83,
+      "gas:candidate-vibid:4784007196555": 1,
+      "gas:candidate-vibid:4784007196223": 17,
+      "gas:candidate-vibid:4784007196445": 35,
+      "gas:candidate-vibid:4784007196051": 22,
+      "gas:candidate-vibid:4784007196360": 120,
+      "gas:candidate-vibid:4784007196154": 47
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/st-petersburg?action=show&root=1000279&tvd=2782000678280&vrn=100100067795849&region=78&global=&sub_region=78&prver=0&pronetvd=null&vibid=2782000678280&type=464",
@@ -1263,17 +1263,17 @@ export const duma_2016_uik_463_region_78_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Амосов Михаил Иванович": 72,
-      "Гатчин Юрий Арменакович": 67,
-      "Докторов Иван Евгеньевич": 6,
-      "Драпеко Елена Григорьевна": 228,
-      "Комолова Ирина Игоревна": 64,
-      "Конторин Михаил Владимирович": 4,
-      "Панюта Ольга Николаевна": 21,
-      "Петров Андрей Николаевич": 23,
-      "Пивоваров Андрей Сергеевич": 20,
-      "Тратников Егор Иванович": 99,
-      "Туркин Федор Олегович": 54
+      "gas:candidate-vibid:4784007196421": 72,
+      "gas:candidate-vibid:4784007196096": 67,
+      "gas:candidate-vibid:4784007196397": 6,
+      "gas:candidate-vibid:4784007195952": 228,
+      "gas:candidate-vibid:4784007196329": 64,
+      "gas:candidate-vibid:4784007196555": 4,
+      "gas:candidate-vibid:4784007196223": 21,
+      "gas:candidate-vibid:4784007196445": 23,
+      "gas:candidate-vibid:4784007196051": 20,
+      "gas:candidate-vibid:4784007196360": 99,
+      "gas:candidate-vibid:4784007196154": 54
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/st-petersburg?action=show&root=1000279&tvd=2782000678280&vrn=100100067795849&region=78&global=&sub_region=78&prver=0&pronetvd=null&vibid=2782000678280&type=464",
@@ -1324,17 +1324,17 @@ export const duma_2016_uik_463_region_78_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Амосов Михаил Иванович": 73,
-      "Гатчин Юрий Арменакович": 76,
-      "Докторов Иван Евгеньевич": 7,
-      "Драпеко Елена Григорьевна": 294,
-      "Комолова Ирина Игоревна": 64,
-      "Конторин Михаил Владимирович": 9,
-      "Панюта Ольга Николаевна": 24,
-      "Петров Андрей Николаевич": 21,
-      "Пивоваров Андрей Сергеевич": 23,
-      "Тратников Егор Иванович": 105,
-      "Туркин Федор Олегович": 44
+      "gas:candidate-vibid:4784007196421": 73,
+      "gas:candidate-vibid:4784007196096": 76,
+      "gas:candidate-vibid:4784007196397": 7,
+      "gas:candidate-vibid:4784007195952": 294,
+      "gas:candidate-vibid:4784007196329": 64,
+      "gas:candidate-vibid:4784007196555": 9,
+      "gas:candidate-vibid:4784007196223": 24,
+      "gas:candidate-vibid:4784007196445": 21,
+      "gas:candidate-vibid:4784007196051": 23,
+      "gas:candidate-vibid:4784007196360": 105,
+      "gas:candidate-vibid:4784007196154": 44
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/st-petersburg?action=show&root=1000279&tvd=2782000678280&vrn=100100067795849&region=78&global=&sub_region=78&prver=0&pronetvd=null&vibid=2782000678280&type=464",
@@ -1385,17 +1385,17 @@ export const duma_2016_uik_463_region_78_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Амосов Михаил Иванович": 54,
-      "Гатчин Юрий Арменакович": 101,
-      "Докторов Иван Евгеньевич": 2,
-      "Драпеко Елена Григорьевна": 228,
-      "Комолова Ирина Игоревна": 48,
-      "Конторин Михаил Владимирович": 5,
-      "Панюта Ольга Николаевна": 17,
-      "Петров Андрей Николаевич": 23,
-      "Пивоваров Андрей Сергеевич": 14,
-      "Тратников Егор Иванович": 90,
-      "Туркин Федор Олегович": 35
+      "gas:candidate-vibid:4784007196421": 54,
+      "gas:candidate-vibid:4784007196096": 101,
+      "gas:candidate-vibid:4784007196397": 2,
+      "gas:candidate-vibid:4784007195952": 228,
+      "gas:candidate-vibid:4784007196329": 48,
+      "gas:candidate-vibid:4784007196555": 5,
+      "gas:candidate-vibid:4784007196223": 17,
+      "gas:candidate-vibid:4784007196445": 23,
+      "gas:candidate-vibid:4784007196051": 14,
+      "gas:candidate-vibid:4784007196360": 90,
+      "gas:candidate-vibid:4784007196154": 35
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/st-petersburg?action=show&root=1000279&tvd=2782000678280&vrn=100100067795849&region=78&global=&sub_region=78&prver=0&pronetvd=null&vibid=2782000678280&type=464",
@@ -1446,17 +1446,17 @@ export const duma_2016_uik_463_region_78_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Амосов Михаил Иванович": 44,
-      "Гатчин Юрий Арменакович": 58,
-      "Докторов Иван Евгеньевич": 2,
-      "Драпеко Елена Григорьевна": 130,
-      "Комолова Ирина Игоревна": 38,
-      "Конторин Михаил Владимирович": 2,
-      "Панюта Ольга Николаевна": 9,
-      "Петров Андрей Николаевич": 16,
-      "Пивоваров Андрей Сергеевич": 15,
-      "Тратников Егор Иванович": 68,
-      "Туркин Федор Олегович": 25
+      "gas:candidate-vibid:4784007196421": 44,
+      "gas:candidate-vibid:4784007196096": 58,
+      "gas:candidate-vibid:4784007196397": 2,
+      "gas:candidate-vibid:4784007195952": 130,
+      "gas:candidate-vibid:4784007196329": 38,
+      "gas:candidate-vibid:4784007196555": 2,
+      "gas:candidate-vibid:4784007196223": 9,
+      "gas:candidate-vibid:4784007196445": 16,
+      "gas:candidate-vibid:4784007196051": 15,
+      "gas:candidate-vibid:4784007196360": 68,
+      "gas:candidate-vibid:4784007196154": 25
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/st-petersburg?action=show&root=1000279&tvd=2782000678280&vrn=100100067795849&region=78&global=&sub_region=78&prver=0&pronetvd=null&vibid=2782000678280&type=464",
@@ -1507,17 +1507,17 @@ export const duma_2016_uik_463_region_78_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Амосов Михаил Иванович": 66,
-      "Гатчин Юрий Арменакович": 93,
-      "Докторов Иван Евгеньевич": 6,
-      "Драпеко Елена Григорьевна": 265,
-      "Комолова Ирина Игоревна": 66,
-      "Конторин Михаил Владимирович": 2,
-      "Панюта Ольга Николаевна": 20,
-      "Петров Андрей Николаевич": 20,
-      "Пивоваров Андрей Сергеевич": 15,
-      "Тратников Егор Иванович": 67,
-      "Туркин Федор Олегович": 32
+      "gas:candidate-vibid:4784007196421": 66,
+      "gas:candidate-vibid:4784007196096": 93,
+      "gas:candidate-vibid:4784007196397": 6,
+      "gas:candidate-vibid:4784007195952": 265,
+      "gas:candidate-vibid:4784007196329": 66,
+      "gas:candidate-vibid:4784007196555": 2,
+      "gas:candidate-vibid:4784007196223": 20,
+      "gas:candidate-vibid:4784007196445": 20,
+      "gas:candidate-vibid:4784007196051": 15,
+      "gas:candidate-vibid:4784007196360": 67,
+      "gas:candidate-vibid:4784007196154": 32
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/st-petersburg?action=show&root=1000279&tvd=2782000678280&vrn=100100067795849&region=78&global=&sub_region=78&prver=0&pronetvd=null&vibid=2782000678280&type=464",
@@ -1568,17 +1568,17 @@ export const duma_2016_uik_463_region_78_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Амосов Михаил Иванович": 85,
-      "Гатчин Юрий Арменакович": 84,
-      "Докторов Иван Евгеньевич": 7,
-      "Драпеко Елена Григорьевна": 222,
-      "Комолова Ирина Игоревна": 94,
-      "Конторин Михаил Владимирович": 3,
-      "Панюта Ольга Николаевна": 11,
-      "Петров Андрей Николаевич": 16,
-      "Пивоваров Андрей Сергеевич": 21,
-      "Тратников Егор Иванович": 59,
-      "Туркин Федор Олегович": 32
+      "gas:candidate-vibid:4784007196421": 85,
+      "gas:candidate-vibid:4784007196096": 84,
+      "gas:candidate-vibid:4784007196397": 7,
+      "gas:candidate-vibid:4784007195952": 222,
+      "gas:candidate-vibid:4784007196329": 94,
+      "gas:candidate-vibid:4784007196555": 3,
+      "gas:candidate-vibid:4784007196223": 11,
+      "gas:candidate-vibid:4784007196445": 16,
+      "gas:candidate-vibid:4784007196051": 21,
+      "gas:candidate-vibid:4784007196360": 59,
+      "gas:candidate-vibid:4784007196154": 32
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/st-petersburg?action=show&root=1000279&tvd=2782000678280&vrn=100100067795849&region=78&global=&sub_region=78&prver=0&pronetvd=null&vibid=2782000678280&type=464",
@@ -1629,17 +1629,17 @@ export const duma_2016_uik_463_region_78_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Амосов Михаил Иванович": 37,
-      "Гатчин Юрий Арменакович": 51,
-      "Докторов Иван Евгеньевич": 3,
-      "Драпеко Елена Григорьевна": 162,
-      "Комолова Ирина Игоревна": 49,
-      "Конторин Михаил Владимирович": 6,
-      "Панюта Ольга Николаевна": 12,
-      "Петров Андрей Николаевич": 9,
-      "Пивоваров Андрей Сергеевич": 16,
-      "Тратников Егор Иванович": 58,
-      "Туркин Федор Олегович": 41
+      "gas:candidate-vibid:4784007196421": 37,
+      "gas:candidate-vibid:4784007196096": 51,
+      "gas:candidate-vibid:4784007196397": 3,
+      "gas:candidate-vibid:4784007195952": 162,
+      "gas:candidate-vibid:4784007196329": 49,
+      "gas:candidate-vibid:4784007196555": 6,
+      "gas:candidate-vibid:4784007196223": 12,
+      "gas:candidate-vibid:4784007196445": 9,
+      "gas:candidate-vibid:4784007196051": 16,
+      "gas:candidate-vibid:4784007196360": 58,
+      "gas:candidate-vibid:4784007196154": 41
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/st-petersburg?action=show&root=1000279&tvd=2782000678280&vrn=100100067795849&region=78&global=&sub_region=78&prver=0&pronetvd=null&vibid=2782000678280&type=464",
@@ -1690,17 +1690,17 @@ export const duma_2016_uik_463_region_78_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Амосов Михаил Иванович": 90,
-      "Гатчин Юрий Арменакович": 88,
-      "Докторов Иван Евгеньевич": 6,
-      "Драпеко Елена Григорьевна": 271,
-      "Комолова Ирина Игоревна": 72,
-      "Конторин Михаил Владимирович": 3,
-      "Панюта Ольга Николаевна": 24,
-      "Петров Андрей Николаевич": 30,
-      "Пивоваров Андрей Сергеевич": 27,
-      "Тратников Егор Иванович": 107,
-      "Туркин Федор Олегович": 68
+      "gas:candidate-vibid:4784007196421": 90,
+      "gas:candidate-vibid:4784007196096": 88,
+      "gas:candidate-vibid:4784007196397": 6,
+      "gas:candidate-vibid:4784007195952": 271,
+      "gas:candidate-vibid:4784007196329": 72,
+      "gas:candidate-vibid:4784007196555": 3,
+      "gas:candidate-vibid:4784007196223": 24,
+      "gas:candidate-vibid:4784007196445": 30,
+      "gas:candidate-vibid:4784007196051": 27,
+      "gas:candidate-vibid:4784007196360": 107,
+      "gas:candidate-vibid:4784007196154": 68
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/st-petersburg?action=show&root=1000279&tvd=2782000678280&vrn=100100067795849&region=78&global=&sub_region=78&prver=0&pronetvd=null&vibid=2782000678280&type=464",
@@ -1751,17 +1751,17 @@ export const duma_2016_uik_463_region_78_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Амосов Михаил Иванович": 82,
-      "Гатчин Юрий Арменакович": 82,
-      "Докторов Иван Евгеньевич": 10,
-      "Драпеко Елена Григорьевна": 233,
-      "Комолова Ирина Игоревна": 79,
-      "Конторин Михаил Владимирович": 0,
-      "Панюта Ольга Николаевна": 17,
-      "Петров Андрей Николаевич": 21,
-      "Пивоваров Андрей Сергеевич": 28,
-      "Тратников Егор Иванович": 85,
-      "Туркин Федор Олегович": 46
+      "gas:candidate-vibid:4784007196421": 82,
+      "gas:candidate-vibid:4784007196096": 82,
+      "gas:candidate-vibid:4784007196397": 10,
+      "gas:candidate-vibid:4784007195952": 233,
+      "gas:candidate-vibid:4784007196329": 79,
+      "gas:candidate-vibid:4784007196555": 0,
+      "gas:candidate-vibid:4784007196223": 17,
+      "gas:candidate-vibid:4784007196445": 21,
+      "gas:candidate-vibid:4784007196051": 28,
+      "gas:candidate-vibid:4784007196360": 85,
+      "gas:candidate-vibid:4784007196154": 46
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/st-petersburg?action=show&root=1000279&tvd=2782000678280&vrn=100100067795849&region=78&global=&sub_region=78&prver=0&pronetvd=null&vibid=2782000678280&type=464",
@@ -1812,17 +1812,17 @@ export const duma_2016_uik_463_region_78_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Амосов Михаил Иванович": 40,
-      "Гатчин Юрий Арменакович": 39,
-      "Докторов Иван Евгеньевич": 5,
-      "Драпеко Елена Григорьевна": 99,
-      "Комолова Ирина Игоревна": 50,
-      "Конторин Михаил Владимирович": 5,
-      "Панюта Ольга Николаевна": 10,
-      "Петров Андрей Николаевич": 20,
-      "Пивоваров Андрей Сергеевич": 11,
-      "Тратников Егор Иванович": 53,
-      "Туркин Федор Олегович": 18
+      "gas:candidate-vibid:4784007196421": 40,
+      "gas:candidate-vibid:4784007196096": 39,
+      "gas:candidate-vibid:4784007196397": 5,
+      "gas:candidate-vibid:4784007195952": 99,
+      "gas:candidate-vibid:4784007196329": 50,
+      "gas:candidate-vibid:4784007196555": 5,
+      "gas:candidate-vibid:4784007196223": 10,
+      "gas:candidate-vibid:4784007196445": 20,
+      "gas:candidate-vibid:4784007196051": 11,
+      "gas:candidate-vibid:4784007196360": 53,
+      "gas:candidate-vibid:4784007196154": 18
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/st-petersburg?action=show&root=1000279&tvd=2782000678280&vrn=100100067795849&region=78&global=&sub_region=78&prver=0&pronetvd=null&vibid=2782000678280&type=464",
@@ -1873,17 +1873,17 @@ export const duma_2016_uik_463_region_78_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Амосов Михаил Иванович": 39,
-      "Гатчин Юрий Арменакович": 60,
-      "Докторов Иван Евгеньевич": 5,
-      "Драпеко Елена Григорьевна": 151,
-      "Комолова Ирина Игоревна": 42,
-      "Конторин Михаил Владимирович": 3,
-      "Панюта Ольга Николаевна": 10,
-      "Петров Андрей Николаевич": 20,
-      "Пивоваров Андрей Сергеевич": 19,
-      "Тратников Егор Иванович": 52,
-      "Туркин Федор Олегович": 36
+      "gas:candidate-vibid:4784007196421": 39,
+      "gas:candidate-vibid:4784007196096": 60,
+      "gas:candidate-vibid:4784007196397": 5,
+      "gas:candidate-vibid:4784007195952": 151,
+      "gas:candidate-vibid:4784007196329": 42,
+      "gas:candidate-vibid:4784007196555": 3,
+      "gas:candidate-vibid:4784007196223": 10,
+      "gas:candidate-vibid:4784007196445": 20,
+      "gas:candidate-vibid:4784007196051": 19,
+      "gas:candidate-vibid:4784007196360": 52,
+      "gas:candidate-vibid:4784007196154": 36
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/st-petersburg?action=show&root=1000279&tvd=2782000678280&vrn=100100067795849&region=78&global=&sub_region=78&prver=0&pronetvd=null&vibid=2782000678280&type=464",
@@ -1934,17 +1934,17 @@ export const duma_2016_uik_463_region_78_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Амосов Михаил Иванович": 47,
-      "Гатчин Юрий Арменакович": 56,
-      "Докторов Иван Евгеньевич": 7,
-      "Драпеко Елена Григорьевна": 184,
-      "Комолова Ирина Игоревна": 45,
-      "Конторин Михаил Владимирович": 1,
-      "Панюта Ольга Николаевна": 14,
-      "Петров Андрей Николаевич": 28,
-      "Пивоваров Андрей Сергеевич": 7,
-      "Тратников Егор Иванович": 69,
-      "Туркин Федор Олегович": 57
+      "gas:candidate-vibid:4784007196421": 47,
+      "gas:candidate-vibid:4784007196096": 56,
+      "gas:candidate-vibid:4784007196397": 7,
+      "gas:candidate-vibid:4784007195952": 184,
+      "gas:candidate-vibid:4784007196329": 45,
+      "gas:candidate-vibid:4784007196555": 1,
+      "gas:candidate-vibid:4784007196223": 14,
+      "gas:candidate-vibid:4784007196445": 28,
+      "gas:candidate-vibid:4784007196051": 7,
+      "gas:candidate-vibid:4784007196360": 69,
+      "gas:candidate-vibid:4784007196154": 57
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/st-petersburg?action=show&root=1000279&tvd=2782000678280&vrn=100100067795849&region=78&global=&sub_region=78&prver=0&pronetvd=null&vibid=2782000678280&type=464",
@@ -1995,17 +1995,17 @@ export const duma_2016_uik_463_region_78_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Амосов Михаил Иванович": 53,
-      "Гатчин Юрий Арменакович": 94,
-      "Докторов Иван Евгеньевич": 13,
-      "Драпеко Елена Григорьевна": 268,
-      "Комолова Ирина Игоревна": 53,
-      "Конторин Михаил Владимирович": 7,
-      "Панюта Ольга Николаевна": 21,
-      "Петров Андрей Николаевич": 29,
-      "Пивоваров Андрей Сергеевич": 18,
-      "Тратников Егор Иванович": 124,
-      "Туркин Федор Олегович": 79
+      "gas:candidate-vibid:4784007196421": 53,
+      "gas:candidate-vibid:4784007196096": 94,
+      "gas:candidate-vibid:4784007196397": 13,
+      "gas:candidate-vibid:4784007195952": 268,
+      "gas:candidate-vibid:4784007196329": 53,
+      "gas:candidate-vibid:4784007196555": 7,
+      "gas:candidate-vibid:4784007196223": 21,
+      "gas:candidate-vibid:4784007196445": 29,
+      "gas:candidate-vibid:4784007196051": 18,
+      "gas:candidate-vibid:4784007196360": 124,
+      "gas:candidate-vibid:4784007196154": 79
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/st-petersburg?action=show&root=1000279&tvd=2782000678280&vrn=100100067795849&region=78&global=&sub_region=78&prver=0&pronetvd=null&vibid=2782000678280&type=464",
@@ -2056,17 +2056,17 @@ export const duma_2016_uik_463_region_78_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Амосов Михаил Иванович": 15,
-      "Гатчин Юрий Арменакович": 17,
-      "Докторов Иван Евгеньевич": 2,
-      "Драпеко Елена Григорьевна": 55,
-      "Комолова Ирина Игоревна": 11,
-      "Конторин Михаил Владимирович": 2,
-      "Панюта Ольга Николаевна": 2,
-      "Петров Андрей Николаевич": 3,
-      "Пивоваров Андрей Сергеевич": 2,
-      "Тратников Егор Иванович": 21,
-      "Туркин Федор Олегович": 7
+      "gas:candidate-vibid:4784007196421": 15,
+      "gas:candidate-vibid:4784007196096": 17,
+      "gas:candidate-vibid:4784007196397": 2,
+      "gas:candidate-vibid:4784007195952": 55,
+      "gas:candidate-vibid:4784007196329": 11,
+      "gas:candidate-vibid:4784007196555": 2,
+      "gas:candidate-vibid:4784007196223": 2,
+      "gas:candidate-vibid:4784007196445": 3,
+      "gas:candidate-vibid:4784007196051": 2,
+      "gas:candidate-vibid:4784007196360": 21,
+      "gas:candidate-vibid:4784007196154": 7
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/st-petersburg?action=show&root=1000279&tvd=2782000678280&vrn=100100067795849&region=78&global=&sub_region=78&prver=0&pronetvd=null&vibid=2782000678280&type=464",
@@ -2117,17 +2117,17 @@ export const duma_2016_uik_463_region_78_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Амосов Михаил Иванович": 193,
-      "Гатчин Юрий Арменакович": 61,
-      "Докторов Иван Евгеньевич": 13,
-      "Драпеко Елена Григорьевна": 128,
-      "Комолова Ирина Игоревна": 48,
-      "Конторин Михаил Владимирович": 6,
-      "Панюта Ольга Николаевна": 16,
-      "Петров Андрей Николаевич": 27,
-      "Пивоваров Андрей Сергеевич": 28,
-      "Тратников Егор Иванович": 54,
-      "Туркин Федор Олегович": 26
+      "gas:candidate-vibid:4784007196421": 193,
+      "gas:candidate-vibid:4784007196096": 61,
+      "gas:candidate-vibid:4784007196397": 13,
+      "gas:candidate-vibid:4784007195952": 128,
+      "gas:candidate-vibid:4784007196329": 48,
+      "gas:candidate-vibid:4784007196555": 6,
+      "gas:candidate-vibid:4784007196223": 16,
+      "gas:candidate-vibid:4784007196445": 27,
+      "gas:candidate-vibid:4784007196051": 28,
+      "gas:candidate-vibid:4784007196360": 54,
+      "gas:candidate-vibid:4784007196154": 26
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/st-petersburg?action=show&root=1000279&tvd=2782000678281&vrn=100100067795849&region=78&global=&sub_region=78&prver=0&pronetvd=null&vibid=2782000678281&type=464",
@@ -2178,17 +2178,17 @@ export const duma_2016_uik_463_region_78_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Амосов Михаил Иванович": 121,
-      "Гатчин Юрий Арменакович": 60,
-      "Докторов Иван Евгеньевич": 9,
-      "Драпеко Елена Григорьевна": 81,
-      "Комолова Ирина Игоревна": 35,
-      "Конторин Михаил Владимирович": 2,
-      "Панюта Ольга Николаевна": 15,
-      "Петров Андрей Николаевич": 11,
-      "Пивоваров Андрей Сергеевич": 16,
-      "Тратников Егор Иванович": 28,
-      "Туркин Федор Олегович": 4
+      "gas:candidate-vibid:4784007196421": 121,
+      "gas:candidate-vibid:4784007196096": 60,
+      "gas:candidate-vibid:4784007196397": 9,
+      "gas:candidate-vibid:4784007195952": 81,
+      "gas:candidate-vibid:4784007196329": 35,
+      "gas:candidate-vibid:4784007196555": 2,
+      "gas:candidate-vibid:4784007196223": 15,
+      "gas:candidate-vibid:4784007196445": 11,
+      "gas:candidate-vibid:4784007196051": 16,
+      "gas:candidate-vibid:4784007196360": 28,
+      "gas:candidate-vibid:4784007196154": 4
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/st-petersburg?action=show&root=1000279&tvd=2782000678281&vrn=100100067795849&region=78&global=&sub_region=78&prver=0&pronetvd=null&vibid=2782000678281&type=464",
@@ -2239,17 +2239,17 @@ export const duma_2016_uik_463_region_78_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Амосов Михаил Иванович": 299,
-      "Гатчин Юрий Арменакович": 121,
-      "Докторов Иван Евгеньевич": 12,
-      "Драпеко Елена Григорьевна": 360,
-      "Комолова Ирина Игоревна": 66,
-      "Конторин Михаил Владимирович": 2,
-      "Панюта Ольга Николаевна": 14,
-      "Петров Андрей Николаевич": 45,
-      "Пивоваров Андрей Сергеевич": 12,
-      "Тратников Егор Иванович": 87,
-      "Туркин Федор Олегович": 26
+      "gas:candidate-vibid:4784007196421": 299,
+      "gas:candidate-vibid:4784007196096": 121,
+      "gas:candidate-vibid:4784007196397": 12,
+      "gas:candidate-vibid:4784007195952": 360,
+      "gas:candidate-vibid:4784007196329": 66,
+      "gas:candidate-vibid:4784007196555": 2,
+      "gas:candidate-vibid:4784007196223": 14,
+      "gas:candidate-vibid:4784007196445": 45,
+      "gas:candidate-vibid:4784007196051": 12,
+      "gas:candidate-vibid:4784007196360": 87,
+      "gas:candidate-vibid:4784007196154": 26
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/st-petersburg?action=show&root=1000279&tvd=2782000678281&vrn=100100067795849&region=78&global=&sub_region=78&prver=0&pronetvd=null&vibid=2782000678281&type=464",
@@ -2300,17 +2300,17 @@ export const duma_2016_uik_463_region_78_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Амосов Михаил Иванович": 207,
-      "Гатчин Юрий Арменакович": 124,
-      "Докторов Иван Евгеньевич": 5,
-      "Драпеко Елена Григорьевна": 360,
-      "Комолова Ирина Игоревна": 77,
-      "Конторин Михаил Владимирович": 1,
-      "Панюта Ольга Николаевна": 30,
-      "Петров Андрей Николаевич": 12,
-      "Пивоваров Андрей Сергеевич": 33,
-      "Тратников Егор Иванович": 56,
-      "Туркин Федор Олегович": 28
+      "gas:candidate-vibid:4784007196421": 207,
+      "gas:candidate-vibid:4784007196096": 124,
+      "gas:candidate-vibid:4784007196397": 5,
+      "gas:candidate-vibid:4784007195952": 360,
+      "gas:candidate-vibid:4784007196329": 77,
+      "gas:candidate-vibid:4784007196555": 1,
+      "gas:candidate-vibid:4784007196223": 30,
+      "gas:candidate-vibid:4784007196445": 12,
+      "gas:candidate-vibid:4784007196051": 33,
+      "gas:candidate-vibid:4784007196360": 56,
+      "gas:candidate-vibid:4784007196154": 28
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/st-petersburg?action=show&root=1000279&tvd=2782000678281&vrn=100100067795849&region=78&global=&sub_region=78&prver=0&pronetvd=null&vibid=2782000678281&type=464",
@@ -2361,17 +2361,17 @@ export const duma_2016_uik_463_region_78_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Амосов Михаил Иванович": 146,
-      "Гатчин Юрий Арменакович": 64,
-      "Докторов Иван Евгеньевич": 5,
-      "Драпеко Елена Григорьевна": 178,
-      "Комолова Ирина Игоревна": 59,
-      "Конторин Михаил Владимирович": 1,
-      "Панюта Ольга Николаевна": 11,
-      "Петров Андрей Николаевич": 20,
-      "Пивоваров Андрей Сергеевич": 23,
-      "Тратников Егор Иванович": 60,
-      "Туркин Федор Олегович": 27
+      "gas:candidate-vibid:4784007196421": 146,
+      "gas:candidate-vibid:4784007196096": 64,
+      "gas:candidate-vibid:4784007196397": 5,
+      "gas:candidate-vibid:4784007195952": 178,
+      "gas:candidate-vibid:4784007196329": 59,
+      "gas:candidate-vibid:4784007196555": 1,
+      "gas:candidate-vibid:4784007196223": 11,
+      "gas:candidate-vibid:4784007196445": 20,
+      "gas:candidate-vibid:4784007196051": 23,
+      "gas:candidate-vibid:4784007196360": 60,
+      "gas:candidate-vibid:4784007196154": 27
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/st-petersburg?action=show&root=1000279&tvd=2782000678281&vrn=100100067795849&region=78&global=&sub_region=78&prver=0&pronetvd=null&vibid=2782000678281&type=464",
@@ -2422,17 +2422,17 @@ export const duma_2016_uik_463_region_78_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Амосов Михаил Иванович": 105,
-      "Гатчин Юрий Арменакович": 67,
-      "Докторов Иван Евгеньевич": 9,
-      "Драпеко Елена Григорьевна": 139,
-      "Комолова Ирина Игоревна": 47,
-      "Конторин Михаил Владимирович": 4,
-      "Панюта Ольга Николаевна": 5,
-      "Петров Андрей Николаевич": 25,
-      "Пивоваров Андрей Сергеевич": 16,
-      "Тратников Егор Иванович": 65,
-      "Туркин Федор Олегович": 25
+      "gas:candidate-vibid:4784007196421": 105,
+      "gas:candidate-vibid:4784007196096": 67,
+      "gas:candidate-vibid:4784007196397": 9,
+      "gas:candidate-vibid:4784007195952": 139,
+      "gas:candidate-vibid:4784007196329": 47,
+      "gas:candidate-vibid:4784007196555": 4,
+      "gas:candidate-vibid:4784007196223": 5,
+      "gas:candidate-vibid:4784007196445": 25,
+      "gas:candidate-vibid:4784007196051": 16,
+      "gas:candidate-vibid:4784007196360": 65,
+      "gas:candidate-vibid:4784007196154": 25
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/st-petersburg?action=show&root=1000279&tvd=2782000678281&vrn=100100067795849&region=78&global=&sub_region=78&prver=0&pronetvd=null&vibid=2782000678281&type=464",
@@ -2483,17 +2483,17 @@ export const duma_2016_uik_463_region_78_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Амосов Михаил Иванович": 184,
-      "Гатчин Юрий Арменакович": 109,
-      "Докторов Иван Евгеньевич": 8,
-      "Драпеко Елена Григорьевна": 252,
-      "Комолова Ирина Игоревна": 86,
-      "Конторин Михаил Владимирович": 2,
-      "Панюта Ольга Николаевна": 14,
-      "Петров Андрей Николаевич": 34,
-      "Пивоваров Андрей Сергеевич": 15,
-      "Тратников Егор Иванович": 70,
-      "Туркин Федор Олегович": 40
+      "gas:candidate-vibid:4784007196421": 184,
+      "gas:candidate-vibid:4784007196096": 109,
+      "gas:candidate-vibid:4784007196397": 8,
+      "gas:candidate-vibid:4784007195952": 252,
+      "gas:candidate-vibid:4784007196329": 86,
+      "gas:candidate-vibid:4784007196555": 2,
+      "gas:candidate-vibid:4784007196223": 14,
+      "gas:candidate-vibid:4784007196445": 34,
+      "gas:candidate-vibid:4784007196051": 15,
+      "gas:candidate-vibid:4784007196360": 70,
+      "gas:candidate-vibid:4784007196154": 40
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/st-petersburg?action=show&root=1000279&tvd=2782000678281&vrn=100100067795849&region=78&global=&sub_region=78&prver=0&pronetvd=null&vibid=2782000678281&type=464",
@@ -2544,17 +2544,17 @@ export const duma_2016_uik_463_region_78_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Амосов Михаил Иванович": 197,
-      "Гатчин Юрий Арменакович": 114,
-      "Докторов Иван Евгеньевич": 15,
-      "Драпеко Елена Григорьевна": 202,
-      "Комолова Ирина Игоревна": 91,
-      "Конторин Михаил Владимирович": 3,
-      "Панюта Ольга Николаевна": 30,
-      "Петров Андрей Николаевич": 41,
-      "Пивоваров Андрей Сергеевич": 36,
-      "Тратников Егор Иванович": 85,
-      "Туркин Федор Олегович": 27
+      "gas:candidate-vibid:4784007196421": 197,
+      "gas:candidate-vibid:4784007196096": 114,
+      "gas:candidate-vibid:4784007196397": 15,
+      "gas:candidate-vibid:4784007195952": 202,
+      "gas:candidate-vibid:4784007196329": 91,
+      "gas:candidate-vibid:4784007196555": 3,
+      "gas:candidate-vibid:4784007196223": 30,
+      "gas:candidate-vibid:4784007196445": 41,
+      "gas:candidate-vibid:4784007196051": 36,
+      "gas:candidate-vibid:4784007196360": 85,
+      "gas:candidate-vibid:4784007196154": 27
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/st-petersburg?action=show&root=1000279&tvd=2782000678281&vrn=100100067795849&region=78&global=&sub_region=78&prver=0&pronetvd=null&vibid=2782000678281&type=464",
@@ -2605,17 +2605,17 @@ export const duma_2016_uik_463_region_78_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Амосов Михаил Иванович": 152,
-      "Гатчин Юрий Арменакович": 79,
-      "Докторов Иван Евгеньевич": 4,
-      "Драпеко Елена Григорьевна": 214,
-      "Комолова Ирина Игоревна": 74,
-      "Конторин Михаил Владимирович": 6,
-      "Панюта Ольга Николаевна": 18,
-      "Петров Андрей Николаевич": 26,
-      "Пивоваров Андрей Сергеевич": 24,
-      "Тратников Егор Иванович": 83,
-      "Туркин Федор Олегович": 63
+      "gas:candidate-vibid:4784007196421": 152,
+      "gas:candidate-vibid:4784007196096": 79,
+      "gas:candidate-vibid:4784007196397": 4,
+      "gas:candidate-vibid:4784007195952": 214,
+      "gas:candidate-vibid:4784007196329": 74,
+      "gas:candidate-vibid:4784007196555": 6,
+      "gas:candidate-vibid:4784007196223": 18,
+      "gas:candidate-vibid:4784007196445": 26,
+      "gas:candidate-vibid:4784007196051": 24,
+      "gas:candidate-vibid:4784007196360": 83,
+      "gas:candidate-vibid:4784007196154": 63
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/st-petersburg?action=show&root=1000279&tvd=2782000678281&vrn=100100067795849&region=78&global=&sub_region=78&prver=0&pronetvd=null&vibid=2782000678281&type=464",
@@ -2666,17 +2666,17 @@ export const duma_2016_uik_463_region_78_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Амосов Михаил Иванович": 151,
-      "Гатчин Юрий Арменакович": 63,
-      "Докторов Иван Евгеньевич": 9,
-      "Драпеко Елена Григорьевна": 196,
-      "Комолова Ирина Игоревна": 66,
-      "Конторин Михаил Владимирович": 3,
-      "Панюта Ольга Николаевна": 17,
-      "Петров Андрей Николаевич": 27,
-      "Пивоваров Андрей Сергеевич": 20,
-      "Тратников Егор Иванович": 63,
-      "Туркин Федор Олегович": 28
+      "gas:candidate-vibid:4784007196421": 151,
+      "gas:candidate-vibid:4784007196096": 63,
+      "gas:candidate-vibid:4784007196397": 9,
+      "gas:candidate-vibid:4784007195952": 196,
+      "gas:candidate-vibid:4784007196329": 66,
+      "gas:candidate-vibid:4784007196555": 3,
+      "gas:candidate-vibid:4784007196223": 17,
+      "gas:candidate-vibid:4784007196445": 27,
+      "gas:candidate-vibid:4784007196051": 20,
+      "gas:candidate-vibid:4784007196360": 63,
+      "gas:candidate-vibid:4784007196154": 28
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/st-petersburg?action=show&root=1000279&tvd=2782000678281&vrn=100100067795849&region=78&global=&sub_region=78&prver=0&pronetvd=null&vibid=2782000678281&type=464",
@@ -2727,17 +2727,17 @@ export const duma_2016_uik_463_region_78_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Амосов Михаил Иванович": 190,
-      "Гатчин Юрий Арменакович": 80,
-      "Докторов Иван Евгеньевич": 7,
-      "Драпеко Елена Григорьевна": 217,
-      "Комолова Ирина Игоревна": 61,
-      "Конторин Михаил Владимирович": 1,
-      "Панюта Ольга Николаевна": 24,
-      "Петров Андрей Николаевич": 27,
-      "Пивоваров Андрей Сергеевич": 18,
-      "Тратников Егор Иванович": 69,
-      "Туркин Федор Олегович": 22
+      "gas:candidate-vibid:4784007196421": 190,
+      "gas:candidate-vibid:4784007196096": 80,
+      "gas:candidate-vibid:4784007196397": 7,
+      "gas:candidate-vibid:4784007195952": 217,
+      "gas:candidate-vibid:4784007196329": 61,
+      "gas:candidate-vibid:4784007196555": 1,
+      "gas:candidate-vibid:4784007196223": 24,
+      "gas:candidate-vibid:4784007196445": 27,
+      "gas:candidate-vibid:4784007196051": 18,
+      "gas:candidate-vibid:4784007196360": 69,
+      "gas:candidate-vibid:4784007196154": 22
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/st-petersburg?action=show&root=1000279&tvd=2782000678281&vrn=100100067795849&region=78&global=&sub_region=78&prver=0&pronetvd=null&vibid=2782000678281&type=464",
@@ -2788,17 +2788,17 @@ export const duma_2016_uik_463_region_78_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Амосов Михаил Иванович": 145,
-      "Гатчин Юрий Арменакович": 76,
-      "Докторов Иван Евгеньевич": 10,
-      "Драпеко Елена Григорьевна": 213,
-      "Комолова Ирина Игоревна": 97,
-      "Конторин Михаил Владимирович": 0,
-      "Панюта Ольга Николаевна": 16,
-      "Петров Андрей Николаевич": 24,
-      "Пивоваров Андрей Сергеевич": 30,
-      "Тратников Егор Иванович": 68,
-      "Туркин Федор Олегович": 34
+      "gas:candidate-vibid:4784007196421": 145,
+      "gas:candidate-vibid:4784007196096": 76,
+      "gas:candidate-vibid:4784007196397": 10,
+      "gas:candidate-vibid:4784007195952": 213,
+      "gas:candidate-vibid:4784007196329": 97,
+      "gas:candidate-vibid:4784007196555": 0,
+      "gas:candidate-vibid:4784007196223": 16,
+      "gas:candidate-vibid:4784007196445": 24,
+      "gas:candidate-vibid:4784007196051": 30,
+      "gas:candidate-vibid:4784007196360": 68,
+      "gas:candidate-vibid:4784007196154": 34
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/st-petersburg?action=show&root=1000279&tvd=2782000678281&vrn=100100067795849&region=78&global=&sub_region=78&prver=0&pronetvd=null&vibid=2782000678281&type=464",
@@ -2849,17 +2849,17 @@ export const duma_2016_uik_463_region_78_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Амосов Михаил Иванович": 199,
-      "Гатчин Юрий Арменакович": 113,
-      "Докторов Иван Евгеньевич": 16,
-      "Драпеко Елена Григорьевна": 294,
-      "Комолова Ирина Игоревна": 60,
-      "Конторин Михаил Владимирович": 3,
-      "Панюта Ольга Николаевна": 14,
-      "Петров Андрей Николаевич": 31,
-      "Пивоваров Андрей Сергеевич": 23,
-      "Тратников Егор Иванович": 87,
-      "Туркин Федор Олегович": 26
+      "gas:candidate-vibid:4784007196421": 199,
+      "gas:candidate-vibid:4784007196096": 113,
+      "gas:candidate-vibid:4784007196397": 16,
+      "gas:candidate-vibid:4784007195952": 294,
+      "gas:candidate-vibid:4784007196329": 60,
+      "gas:candidate-vibid:4784007196555": 3,
+      "gas:candidate-vibid:4784007196223": 14,
+      "gas:candidate-vibid:4784007196445": 31,
+      "gas:candidate-vibid:4784007196051": 23,
+      "gas:candidate-vibid:4784007196360": 87,
+      "gas:candidate-vibid:4784007196154": 26
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/st-petersburg?action=show&root=1000279&tvd=2782000678281&vrn=100100067795849&region=78&global=&sub_region=78&prver=0&pronetvd=null&vibid=2782000678281&type=464",
@@ -2910,17 +2910,17 @@ export const duma_2016_uik_463_region_78_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Амосов Михаил Иванович": 160,
-      "Гатчин Юрий Арменакович": 78,
-      "Докторов Иван Евгеньевич": 5,
-      "Драпеко Елена Григорьевна": 364,
-      "Комолова Ирина Игоревна": 84,
-      "Конторин Михаил Владимирович": 0,
-      "Панюта Ольга Николаевна": 19,
-      "Петров Андрей Николаевич": 36,
-      "Пивоваров Андрей Сергеевич": 19,
-      "Тратников Егор Иванович": 78,
-      "Туркин Федор Олегович": 24
+      "gas:candidate-vibid:4784007196421": 160,
+      "gas:candidate-vibid:4784007196096": 78,
+      "gas:candidate-vibid:4784007196397": 5,
+      "gas:candidate-vibid:4784007195952": 364,
+      "gas:candidate-vibid:4784007196329": 84,
+      "gas:candidate-vibid:4784007196555": 0,
+      "gas:candidate-vibid:4784007196223": 19,
+      "gas:candidate-vibid:4784007196445": 36,
+      "gas:candidate-vibid:4784007196051": 19,
+      "gas:candidate-vibid:4784007196360": 78,
+      "gas:candidate-vibid:4784007196154": 24
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/st-petersburg?action=show&root=1000279&tvd=2782000678281&vrn=100100067795849&region=78&global=&sub_region=78&prver=0&pronetvd=null&vibid=2782000678281&type=464",
@@ -2971,17 +2971,17 @@ export const duma_2016_uik_463_region_78_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Амосов Михаил Иванович": 141,
-      "Гатчин Юрий Арменакович": 88,
-      "Докторов Иван Евгеньевич": 11,
-      "Драпеко Елена Григорьевна": 262,
-      "Комолова Ирина Игоревна": 85,
-      "Конторин Михаил Владимирович": 4,
-      "Панюта Ольга Николаевна": 20,
-      "Петров Андрей Николаевич": 22,
-      "Пивоваров Андрей Сергеевич": 28,
-      "Тратников Егор Иванович": 79,
-      "Туркин Федор Олегович": 23
+      "gas:candidate-vibid:4784007196421": 141,
+      "gas:candidate-vibid:4784007196096": 88,
+      "gas:candidate-vibid:4784007196397": 11,
+      "gas:candidate-vibid:4784007195952": 262,
+      "gas:candidate-vibid:4784007196329": 85,
+      "gas:candidate-vibid:4784007196555": 4,
+      "gas:candidate-vibid:4784007196223": 20,
+      "gas:candidate-vibid:4784007196445": 22,
+      "gas:candidate-vibid:4784007196051": 28,
+      "gas:candidate-vibid:4784007196360": 79,
+      "gas:candidate-vibid:4784007196154": 23
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/st-petersburg?action=show&root=1000279&tvd=2782000678281&vrn=100100067795849&region=78&global=&sub_region=78&prver=0&pronetvd=null&vibid=2782000678281&type=464",
@@ -3032,17 +3032,17 @@ export const duma_2016_uik_463_region_78_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Амосов Михаил Иванович": 139,
-      "Гатчин Юрий Арменакович": 53,
-      "Докторов Иван Евгеньевич": 6,
-      "Драпеко Елена Григорьевна": 187,
-      "Комолова Ирина Игоревна": 48,
-      "Конторин Михаил Владимирович": 4,
-      "Панюта Ольга Николаевна": 15,
-      "Петров Андрей Николаевич": 29,
-      "Пивоваров Андрей Сергеевич": 14,
-      "Тратников Егор Иванович": 56,
-      "Туркин Федор Олегович": 20
+      "gas:candidate-vibid:4784007196421": 139,
+      "gas:candidate-vibid:4784007196096": 53,
+      "gas:candidate-vibid:4784007196397": 6,
+      "gas:candidate-vibid:4784007195952": 187,
+      "gas:candidate-vibid:4784007196329": 48,
+      "gas:candidate-vibid:4784007196555": 4,
+      "gas:candidate-vibid:4784007196223": 15,
+      "gas:candidate-vibid:4784007196445": 29,
+      "gas:candidate-vibid:4784007196051": 14,
+      "gas:candidate-vibid:4784007196360": 56,
+      "gas:candidate-vibid:4784007196154": 20
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/st-petersburg?action=show&root=1000279&tvd=2782000678281&vrn=100100067795849&region=78&global=&sub_region=78&prver=0&pronetvd=null&vibid=2782000678281&type=464",
@@ -3093,17 +3093,17 @@ export const duma_2016_uik_463_region_78_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Амосов Михаил Иванович": 154,
-      "Гатчин Юрий Арменакович": 73,
-      "Докторов Иван Евгеньевич": 13,
-      "Драпеко Елена Григорьевна": 204,
-      "Комолова Ирина Игоревна": 78,
-      "Конторин Михаил Владимирович": 3,
-      "Панюта Ольга Николаевна": 14,
-      "Петров Андрей Николаевич": 26,
-      "Пивоваров Андрей Сергеевич": 30,
-      "Тратников Егор Иванович": 56,
-      "Туркин Федор Олегович": 25
+      "gas:candidate-vibid:4784007196421": 154,
+      "gas:candidate-vibid:4784007196096": 73,
+      "gas:candidate-vibid:4784007196397": 13,
+      "gas:candidate-vibid:4784007195952": 204,
+      "gas:candidate-vibid:4784007196329": 78,
+      "gas:candidate-vibid:4784007196555": 3,
+      "gas:candidate-vibid:4784007196223": 14,
+      "gas:candidate-vibid:4784007196445": 26,
+      "gas:candidate-vibid:4784007196051": 30,
+      "gas:candidate-vibid:4784007196360": 56,
+      "gas:candidate-vibid:4784007196154": 25
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/st-petersburg?action=show&root=1000279&tvd=2782000678281&vrn=100100067795849&region=78&global=&sub_region=78&prver=0&pronetvd=null&vibid=2782000678281&type=464",
@@ -3154,17 +3154,17 @@ export const duma_2016_uik_463_region_78_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Амосов Михаил Иванович": 141,
-      "Гатчин Юрий Арменакович": 66,
-      "Докторов Иван Евгеньевич": 14,
-      "Драпеко Елена Григорьевна": 176,
-      "Комолова Ирина Игоревна": 42,
-      "Конторин Михаил Владимирович": 3,
-      "Панюта Ольга Николаевна": 14,
-      "Петров Андрей Николаевич": 21,
-      "Пивоваров Андрей Сергеевич": 23,
-      "Тратников Егор Иванович": 67,
-      "Туркин Федор Олегович": 28
+      "gas:candidate-vibid:4784007196421": 141,
+      "gas:candidate-vibid:4784007196096": 66,
+      "gas:candidate-vibid:4784007196397": 14,
+      "gas:candidate-vibid:4784007195952": 176,
+      "gas:candidate-vibid:4784007196329": 42,
+      "gas:candidate-vibid:4784007196555": 3,
+      "gas:candidate-vibid:4784007196223": 14,
+      "gas:candidate-vibid:4784007196445": 21,
+      "gas:candidate-vibid:4784007196051": 23,
+      "gas:candidate-vibid:4784007196360": 67,
+      "gas:candidate-vibid:4784007196154": 28
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/st-petersburg?action=show&root=1000279&tvd=2782000678281&vrn=100100067795849&region=78&global=&sub_region=78&prver=0&pronetvd=null&vibid=2782000678281&type=464",
@@ -3215,17 +3215,17 @@ export const duma_2016_uik_463_region_78_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Амосов Михаил Иванович": 145,
-      "Гатчин Юрий Арменакович": 62,
-      "Докторов Иван Евгеньевич": 5,
-      "Драпеко Елена Григорьевна": 205,
-      "Комолова Ирина Игоревна": 67,
-      "Конторин Михаил Владимирович": 2,
-      "Панюта Ольга Николаевна": 15,
-      "Петров Андрей Николаевич": 18,
-      "Пивоваров Андрей Сергеевич": 23,
-      "Тратников Егор Иванович": 74,
-      "Туркин Федор Олегович": 21
+      "gas:candidate-vibid:4784007196421": 145,
+      "gas:candidate-vibid:4784007196096": 62,
+      "gas:candidate-vibid:4784007196397": 5,
+      "gas:candidate-vibid:4784007195952": 205,
+      "gas:candidate-vibid:4784007196329": 67,
+      "gas:candidate-vibid:4784007196555": 2,
+      "gas:candidate-vibid:4784007196223": 15,
+      "gas:candidate-vibid:4784007196445": 18,
+      "gas:candidate-vibid:4784007196051": 23,
+      "gas:candidate-vibid:4784007196360": 74,
+      "gas:candidate-vibid:4784007196154": 21
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/st-petersburg?action=show&root=1000279&tvd=2782000678281&vrn=100100067795849&region=78&global=&sub_region=78&prver=0&pronetvd=null&vibid=2782000678281&type=464",
@@ -3276,17 +3276,17 @@ export const duma_2016_uik_463_region_78_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Амосов Михаил Иванович": 89,
-      "Гатчин Юрий Арменакович": 76,
-      "Докторов Иван Евгеньевич": 8,
-      "Драпеко Елена Григорьевна": 164,
-      "Комолова Ирина Игоревна": 70,
-      "Конторин Михаил Владимирович": 2,
-      "Панюта Ольга Николаевна": 12,
-      "Петров Андрей Николаевич": 19,
-      "Пивоваров Андрей Сергеевич": 18,
-      "Тратников Егор Иванович": 61,
-      "Туркин Федор Олегович": 18
+      "gas:candidate-vibid:4784007196421": 89,
+      "gas:candidate-vibid:4784007196096": 76,
+      "gas:candidate-vibid:4784007196397": 8,
+      "gas:candidate-vibid:4784007195952": 164,
+      "gas:candidate-vibid:4784007196329": 70,
+      "gas:candidate-vibid:4784007196555": 2,
+      "gas:candidate-vibid:4784007196223": 12,
+      "gas:candidate-vibid:4784007196445": 19,
+      "gas:candidate-vibid:4784007196051": 18,
+      "gas:candidate-vibid:4784007196360": 61,
+      "gas:candidate-vibid:4784007196154": 18
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/st-petersburg?action=show&root=1000279&tvd=2782000678281&vrn=100100067795849&region=78&global=&sub_region=78&prver=0&pronetvd=null&vibid=2782000678281&type=464",
@@ -3337,17 +3337,17 @@ export const duma_2016_uik_463_region_78_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Амосов Михаил Иванович": 164,
-      "Гатчин Юрий Арменакович": 89,
-      "Докторов Иван Евгеньевич": 5,
-      "Драпеко Елена Григорьевна": 171,
-      "Комолова Ирина Игоревна": 68,
-      "Конторин Михаил Владимирович": 3,
-      "Панюта Ольга Николаевна": 16,
-      "Петров Андрей Николаевич": 35,
-      "Пивоваров Андрей Сергеевич": 17,
-      "Тратников Егор Иванович": 82,
-      "Туркин Федор Олегович": 34
+      "gas:candidate-vibid:4784007196421": 164,
+      "gas:candidate-vibid:4784007196096": 89,
+      "gas:candidate-vibid:4784007196397": 5,
+      "gas:candidate-vibid:4784007195952": 171,
+      "gas:candidate-vibid:4784007196329": 68,
+      "gas:candidate-vibid:4784007196555": 3,
+      "gas:candidate-vibid:4784007196223": 16,
+      "gas:candidate-vibid:4784007196445": 35,
+      "gas:candidate-vibid:4784007196051": 17,
+      "gas:candidate-vibid:4784007196360": 82,
+      "gas:candidate-vibid:4784007196154": 34
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/st-petersburg?action=show&root=1000279&tvd=2782000678281&vrn=100100067795849&region=78&global=&sub_region=78&prver=0&pronetvd=null&vibid=2782000678281&type=464",
@@ -3398,17 +3398,17 @@ export const duma_2016_uik_463_region_78_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Амосов Михаил Иванович": 132,
-      "Гатчин Юрий Арменакович": 70,
-      "Докторов Иван Евгеньевич": 19,
-      "Драпеко Елена Григорьевна": 194,
-      "Комолова Ирина Игоревна": 76,
-      "Конторин Михаил Владимирович": 9,
-      "Панюта Ольга Николаевна": 30,
-      "Петров Андрей Николаевич": 40,
-      "Пивоваров Андрей Сергеевич": 0,
-      "Тратников Егор Иванович": 72,
-      "Туркин Федор Олегович": 40
+      "gas:candidate-vibid:4784007196421": 132,
+      "gas:candidate-vibid:4784007196096": 70,
+      "gas:candidate-vibid:4784007196397": 19,
+      "gas:candidate-vibid:4784007195952": 194,
+      "gas:candidate-vibid:4784007196329": 76,
+      "gas:candidate-vibid:4784007196555": 9,
+      "gas:candidate-vibid:4784007196223": 30,
+      "gas:candidate-vibid:4784007196445": 40,
+      "gas:candidate-vibid:4784007196051": 0,
+      "gas:candidate-vibid:4784007196360": 72,
+      "gas:candidate-vibid:4784007196154": 40
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/st-petersburg?action=show&root=1000279&tvd=2782000678281&vrn=100100067795849&region=78&global=&sub_region=78&prver=0&pronetvd=null&vibid=2782000678281&type=464",
@@ -3459,17 +3459,17 @@ export const duma_2016_uik_463_region_78_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Амосов Михаил Иванович": 142,
-      "Гатчин Юрий Арменакович": 91,
-      "Докторов Иван Евгеньевич": 7,
-      "Драпеко Елена Григорьевна": 178,
-      "Комолова Ирина Игоревна": 68,
-      "Конторин Михаил Владимирович": 4,
-      "Панюта Ольга Николаевна": 16,
-      "Петров Андрей Николаевич": 28,
-      "Пивоваров Андрей Сергеевич": 28,
-      "Тратников Егор Иванович": 74,
-      "Туркин Федор Олегович": 31
+      "gas:candidate-vibid:4784007196421": 142,
+      "gas:candidate-vibid:4784007196096": 91,
+      "gas:candidate-vibid:4784007196397": 7,
+      "gas:candidate-vibid:4784007195952": 178,
+      "gas:candidate-vibid:4784007196329": 68,
+      "gas:candidate-vibid:4784007196555": 4,
+      "gas:candidate-vibid:4784007196223": 16,
+      "gas:candidate-vibid:4784007196445": 28,
+      "gas:candidate-vibid:4784007196051": 28,
+      "gas:candidate-vibid:4784007196360": 74,
+      "gas:candidate-vibid:4784007196154": 31
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/st-petersburg?action=show&root=1000279&tvd=2782000678281&vrn=100100067795849&region=78&global=&sub_region=78&prver=0&pronetvd=null&vibid=2782000678281&type=464",
@@ -3520,17 +3520,17 @@ export const duma_2016_uik_463_region_78_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Амосов Михаил Иванович": 137,
-      "Гатчин Юрий Арменакович": 52,
-      "Докторов Иван Евгеньевич": 5,
-      "Драпеко Елена Григорьевна": 198,
-      "Комолова Ирина Игоревна": 52,
-      "Конторин Михаил Владимирович": 4,
-      "Панюта Ольга Николаевна": 15,
-      "Петров Андрей Николаевич": 16,
-      "Пивоваров Андрей Сергеевич": 18,
-      "Тратников Егор Иванович": 47,
-      "Туркин Федор Олегович": 22
+      "gas:candidate-vibid:4784007196421": 137,
+      "gas:candidate-vibid:4784007196096": 52,
+      "gas:candidate-vibid:4784007196397": 5,
+      "gas:candidate-vibid:4784007195952": 198,
+      "gas:candidate-vibid:4784007196329": 52,
+      "gas:candidate-vibid:4784007196555": 4,
+      "gas:candidate-vibid:4784007196223": 15,
+      "gas:candidate-vibid:4784007196445": 16,
+      "gas:candidate-vibid:4784007196051": 18,
+      "gas:candidate-vibid:4784007196360": 47,
+      "gas:candidate-vibid:4784007196154": 22
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/st-petersburg?action=show&root=1000279&tvd=2782000678281&vrn=100100067795849&region=78&global=&sub_region=78&prver=0&pronetvd=null&vibid=2782000678281&type=464",
@@ -3581,17 +3581,17 @@ export const duma_2016_uik_463_region_78_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Амосов Михаил Иванович": 137,
-      "Гатчин Юрий Арменакович": 107,
-      "Докторов Иван Евгеньевич": 0,
-      "Драпеко Елена Григорьевна": 262,
-      "Комолова Ирина Игоревна": 87,
-      "Конторин Михаил Владимирович": 3,
-      "Панюта Ольга Николаевна": 16,
-      "Петров Андрей Николаевич": 27,
-      "Пивоваров Андрей Сергеевич": 23,
-      "Тратников Егор Иванович": 64,
-      "Туркин Федор Олегович": 47
+      "gas:candidate-vibid:4784007196421": 137,
+      "gas:candidate-vibid:4784007196096": 107,
+      "gas:candidate-vibid:4784007196397": 0,
+      "gas:candidate-vibid:4784007195952": 262,
+      "gas:candidate-vibid:4784007196329": 87,
+      "gas:candidate-vibid:4784007196555": 3,
+      "gas:candidate-vibid:4784007196223": 16,
+      "gas:candidate-vibid:4784007196445": 27,
+      "gas:candidate-vibid:4784007196051": 23,
+      "gas:candidate-vibid:4784007196360": 64,
+      "gas:candidate-vibid:4784007196154": 47
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/st-petersburg?action=show&root=1000279&tvd=2782000678281&vrn=100100067795849&region=78&global=&sub_region=78&prver=0&pronetvd=null&vibid=2782000678281&type=464",
@@ -3642,17 +3642,17 @@ export const duma_2016_uik_463_region_78_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Амосов Михаил Иванович": 118,
-      "Гатчин Юрий Арменакович": 116,
-      "Докторов Иван Евгеньевич": 4,
-      "Драпеко Елена Григорьевна": 316,
-      "Комолова Ирина Игоревна": 63,
-      "Конторин Михаил Владимирович": 2,
-      "Панюта Ольга Николаевна": 15,
-      "Петров Андрей Николаевич": 21,
-      "Пивоваров Андрей Сергеевич": 19,
-      "Тратников Егор Иванович": 64,
-      "Туркин Федор Олегович": 32
+      "gas:candidate-vibid:4784007196421": 118,
+      "gas:candidate-vibid:4784007196096": 116,
+      "gas:candidate-vibid:4784007196397": 4,
+      "gas:candidate-vibid:4784007195952": 316,
+      "gas:candidate-vibid:4784007196329": 63,
+      "gas:candidate-vibid:4784007196555": 2,
+      "gas:candidate-vibid:4784007196223": 15,
+      "gas:candidate-vibid:4784007196445": 21,
+      "gas:candidate-vibid:4784007196051": 19,
+      "gas:candidate-vibid:4784007196360": 64,
+      "gas:candidate-vibid:4784007196154": 32
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/st-petersburg?action=show&root=1000279&tvd=2782000678281&vrn=100100067795849&region=78&global=&sub_region=78&prver=0&pronetvd=null&vibid=2782000678281&type=464",
@@ -3703,17 +3703,17 @@ export const duma_2016_uik_463_region_78_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Амосов Михаил Иванович": 185,
-      "Гатчин Юрий Арменакович": 104,
-      "Докторов Иван Евгеньевич": 16,
-      "Драпеко Елена Григорьевна": 259,
-      "Комолова Ирина Игоревна": 93,
-      "Конторин Михаил Владимирович": 0,
-      "Панюта Ольга Николаевна": 8,
-      "Петров Андрей Николаевич": 39,
-      "Пивоваров Андрей Сергеевич": 26,
-      "Тратников Егор Иванович": 93,
-      "Туркин Федор Олегович": 50
+      "gas:candidate-vibid:4784007196421": 185,
+      "gas:candidate-vibid:4784007196096": 104,
+      "gas:candidate-vibid:4784007196397": 16,
+      "gas:candidate-vibid:4784007195952": 259,
+      "gas:candidate-vibid:4784007196329": 93,
+      "gas:candidate-vibid:4784007196555": 0,
+      "gas:candidate-vibid:4784007196223": 8,
+      "gas:candidate-vibid:4784007196445": 39,
+      "gas:candidate-vibid:4784007196051": 26,
+      "gas:candidate-vibid:4784007196360": 93,
+      "gas:candidate-vibid:4784007196154": 50
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/st-petersburg?action=show&root=1000279&tvd=2782000678281&vrn=100100067795849&region=78&global=&sub_region=78&prver=0&pronetvd=null&vibid=2782000678281&type=464",
@@ -3764,17 +3764,17 @@ export const duma_2016_uik_463_region_78_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Амосов Михаил Иванович": 139,
-      "Гатчин Юрий Арменакович": 88,
-      "Докторов Иван Евгеньевич": 7,
-      "Драпеко Елена Григорьевна": 246,
-      "Комолова Ирина Игоревна": 94,
-      "Конторин Михаил Владимирович": 5,
-      "Панюта Ольга Николаевна": 17,
-      "Петров Андрей Николаевич": 21,
-      "Пивоваров Андрей Сергеевич": 41,
-      "Тратников Егор Иванович": 82,
-      "Туркин Федор Олегович": 38
+      "gas:candidate-vibid:4784007196421": 139,
+      "gas:candidate-vibid:4784007196096": 88,
+      "gas:candidate-vibid:4784007196397": 7,
+      "gas:candidate-vibid:4784007195952": 246,
+      "gas:candidate-vibid:4784007196329": 94,
+      "gas:candidate-vibid:4784007196555": 5,
+      "gas:candidate-vibid:4784007196223": 17,
+      "gas:candidate-vibid:4784007196445": 21,
+      "gas:candidate-vibid:4784007196051": 41,
+      "gas:candidate-vibid:4784007196360": 82,
+      "gas:candidate-vibid:4784007196154": 38
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/st-petersburg?action=show&root=1000279&tvd=2782000678281&vrn=100100067795849&region=78&global=&sub_region=78&prver=0&pronetvd=null&vibid=2782000678281&type=464",
@@ -3825,17 +3825,17 @@ export const duma_2016_uik_463_region_78_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Амосов Михаил Иванович": 120,
-      "Гатчин Юрий Арменакович": 108,
-      "Докторов Иван Евгеньевич": 16,
-      "Драпеко Елена Григорьевна": 231,
-      "Комолова Ирина Игоревна": 68,
-      "Конторин Михаил Владимирович": 9,
-      "Панюта Ольга Николаевна": 13,
-      "Петров Андрей Николаевич": 31,
-      "Пивоваров Андрей Сергеевич": 33,
-      "Тратников Егор Иванович": 90,
-      "Туркин Федор Олегович": 56
+      "gas:candidate-vibid:4784007196421": 120,
+      "gas:candidate-vibid:4784007196096": 108,
+      "gas:candidate-vibid:4784007196397": 16,
+      "gas:candidate-vibid:4784007195952": 231,
+      "gas:candidate-vibid:4784007196329": 68,
+      "gas:candidate-vibid:4784007196555": 9,
+      "gas:candidate-vibid:4784007196223": 13,
+      "gas:candidate-vibid:4784007196445": 31,
+      "gas:candidate-vibid:4784007196051": 33,
+      "gas:candidate-vibid:4784007196360": 90,
+      "gas:candidate-vibid:4784007196154": 56
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/st-petersburg?action=show&root=1000279&tvd=2782000678281&vrn=100100067795849&region=78&global=&sub_region=78&prver=0&pronetvd=null&vibid=2782000678281&type=464",
@@ -3886,17 +3886,17 @@ export const duma_2016_uik_463_region_78_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Амосов Михаил Иванович": 119,
-      "Гатчин Юрий Арменакович": 76,
-      "Докторов Иван Евгеньевич": 9,
-      "Драпеко Елена Григорьевна": 206,
-      "Комолова Ирина Игоревна": 73,
-      "Конторин Михаил Владимирович": 3,
-      "Панюта Ольга Николаевна": 16,
-      "Петров Андрей Николаевич": 27,
-      "Пивоваров Андрей Сергеевич": 20,
-      "Тратников Егор Иванович": 56,
-      "Туркин Федор Олегович": 41
+      "gas:candidate-vibid:4784007196421": 119,
+      "gas:candidate-vibid:4784007196096": 76,
+      "gas:candidate-vibid:4784007196397": 9,
+      "gas:candidate-vibid:4784007195952": 206,
+      "gas:candidate-vibid:4784007196329": 73,
+      "gas:candidate-vibid:4784007196555": 3,
+      "gas:candidate-vibid:4784007196223": 16,
+      "gas:candidate-vibid:4784007196445": 27,
+      "gas:candidate-vibid:4784007196051": 20,
+      "gas:candidate-vibid:4784007196360": 56,
+      "gas:candidate-vibid:4784007196154": 41
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/st-petersburg?action=show&root=1000279&tvd=2782000678281&vrn=100100067795849&region=78&global=&sub_region=78&prver=0&pronetvd=null&vibid=2782000678281&type=464",
@@ -3947,17 +3947,17 @@ export const duma_2016_uik_463_region_78_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Амосов Михаил Иванович": 71,
-      "Гатчин Юрий Арменакович": 114,
-      "Докторов Иван Евгеньевич": 3,
-      "Драпеко Елена Григорьевна": 199,
-      "Комолова Ирина Игоревна": 66,
-      "Конторин Михаил Владимирович": 3,
-      "Панюта Ольга Николаевна": 18,
-      "Петров Андрей Николаевич": 24,
-      "Пивоваров Андрей Сергеевич": 9,
-      "Тратников Егор Иванович": 73,
-      "Туркин Федор Олегович": 14
+      "gas:candidate-vibid:4784007196421": 71,
+      "gas:candidate-vibid:4784007196096": 114,
+      "gas:candidate-vibid:4784007196397": 3,
+      "gas:candidate-vibid:4784007195952": 199,
+      "gas:candidate-vibid:4784007196329": 66,
+      "gas:candidate-vibid:4784007196555": 3,
+      "gas:candidate-vibid:4784007196223": 18,
+      "gas:candidate-vibid:4784007196445": 24,
+      "gas:candidate-vibid:4784007196051": 9,
+      "gas:candidate-vibid:4784007196360": 73,
+      "gas:candidate-vibid:4784007196154": 14
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/st-petersburg?action=show&root=1000279&tvd=2782000678281&vrn=100100067795849&region=78&global=&sub_region=78&prver=0&pronetvd=null&vibid=2782000678281&type=464",
@@ -4008,17 +4008,17 @@ export const duma_2016_uik_463_region_78_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Амосов Михаил Иванович": 93,
-      "Гатчин Юрий Арменакович": 59,
-      "Докторов Иван Евгеньевич": 10,
-      "Драпеко Елена Григорьевна": 234,
-      "Комолова Ирина Игоревна": 56,
-      "Конторин Михаил Владимирович": 1,
-      "Панюта Ольга Николаевна": 17,
-      "Петров Андрей Николаевич": 21,
-      "Пивоваров Андрей Сергеевич": 18,
-      "Тратников Егор Иванович": 86,
-      "Туркин Федор Олегович": 18
+      "gas:candidate-vibid:4784007196421": 93,
+      "gas:candidate-vibid:4784007196096": 59,
+      "gas:candidate-vibid:4784007196397": 10,
+      "gas:candidate-vibid:4784007195952": 234,
+      "gas:candidate-vibid:4784007196329": 56,
+      "gas:candidate-vibid:4784007196555": 1,
+      "gas:candidate-vibid:4784007196223": 17,
+      "gas:candidate-vibid:4784007196445": 21,
+      "gas:candidate-vibid:4784007196051": 18,
+      "gas:candidate-vibid:4784007196360": 86,
+      "gas:candidate-vibid:4784007196154": 18
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/st-petersburg?action=show&root=1000279&tvd=2782000678281&vrn=100100067795849&region=78&global=&sub_region=78&prver=0&pronetvd=null&vibid=2782000678281&type=464",
@@ -4069,17 +4069,17 @@ export const duma_2016_uik_463_region_78_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Амосов Михаил Иванович": 60,
-      "Гатчин Юрий Арменакович": 70,
-      "Докторов Иван Евгеньевич": 8,
-      "Драпеко Елена Григорьевна": 199,
-      "Комолова Ирина Игоревна": 57,
-      "Конторин Михаил Владимирович": 0,
-      "Панюта Ольга Николаевна": 15,
-      "Петров Андрей Николаевич": 13,
-      "Пивоваров Андрей Сергеевич": 22,
-      "Тратников Егор Иванович": 71,
-      "Туркин Федор Олегович": 26
+      "gas:candidate-vibid:4784007196421": 60,
+      "gas:candidate-vibid:4784007196096": 70,
+      "gas:candidate-vibid:4784007196397": 8,
+      "gas:candidate-vibid:4784007195952": 199,
+      "gas:candidate-vibid:4784007196329": 57,
+      "gas:candidate-vibid:4784007196555": 0,
+      "gas:candidate-vibid:4784007196223": 15,
+      "gas:candidate-vibid:4784007196445": 13,
+      "gas:candidate-vibid:4784007196051": 22,
+      "gas:candidate-vibid:4784007196360": 71,
+      "gas:candidate-vibid:4784007196154": 26
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/st-petersburg?action=show&root=1000279&tvd=2782000678281&vrn=100100067795849&region=78&global=&sub_region=78&prver=0&pronetvd=null&vibid=2782000678281&type=464",
@@ -4130,17 +4130,17 @@ export const duma_2016_uik_463_region_78_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Амосов Михаил Иванович": 59,
-      "Гатчин Юрий Арменакович": 93,
-      "Докторов Иван Евгеньевич": 13,
-      "Драпеко Елена Григорьевна": 257,
-      "Комолова Ирина Игоревна": 78,
-      "Конторин Михаил Владимирович": 2,
-      "Панюта Ольга Николаевна": 22,
-      "Петров Андрей Николаевич": 24,
-      "Пивоваров Андрей Сергеевич": 31,
-      "Тратников Егор Иванович": 89,
-      "Туркин Федор Олегович": 38
+      "gas:candidate-vibid:4784007196421": 59,
+      "gas:candidate-vibid:4784007196096": 93,
+      "gas:candidate-vibid:4784007196397": 13,
+      "gas:candidate-vibid:4784007195952": 257,
+      "gas:candidate-vibid:4784007196329": 78,
+      "gas:candidate-vibid:4784007196555": 2,
+      "gas:candidate-vibid:4784007196223": 22,
+      "gas:candidate-vibid:4784007196445": 24,
+      "gas:candidate-vibid:4784007196051": 31,
+      "gas:candidate-vibid:4784007196360": 89,
+      "gas:candidate-vibid:4784007196154": 38
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/st-petersburg?action=show&root=1000279&tvd=2782000678281&vrn=100100067795849&region=78&global=&sub_region=78&prver=0&pronetvd=null&vibid=2782000678281&type=464",
@@ -4191,17 +4191,17 @@ export const duma_2016_uik_463_region_78_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Амосов Михаил Иванович": 63,
-      "Гатчин Юрий Арменакович": 84,
-      "Докторов Иван Евгеньевич": 8,
-      "Драпеко Елена Григорьевна": 283,
-      "Комолова Ирина Игоревна": 97,
-      "Конторин Михаил Владимирович": 4,
-      "Панюта Ольга Николаевна": 21,
-      "Петров Андрей Николаевич": 18,
-      "Пивоваров Андрей Сергеевич": 20,
-      "Тратников Егор Иванович": 89,
-      "Туркин Федор Олегович": 31
+      "gas:candidate-vibid:4784007196421": 63,
+      "gas:candidate-vibid:4784007196096": 84,
+      "gas:candidate-vibid:4784007196397": 8,
+      "gas:candidate-vibid:4784007195952": 283,
+      "gas:candidate-vibid:4784007196329": 97,
+      "gas:candidate-vibid:4784007196555": 4,
+      "gas:candidate-vibid:4784007196223": 21,
+      "gas:candidate-vibid:4784007196445": 18,
+      "gas:candidate-vibid:4784007196051": 20,
+      "gas:candidate-vibid:4784007196360": 89,
+      "gas:candidate-vibid:4784007196154": 31
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/st-petersburg?action=show&root=1000279&tvd=2782000678281&vrn=100100067795849&region=78&global=&sub_region=78&prver=0&pronetvd=null&vibid=2782000678281&type=464",
@@ -4252,17 +4252,17 @@ export const duma_2016_uik_463_region_78_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Амосов Михаил Иванович": 87,
-      "Гатчин Юрий Арменакович": 110,
-      "Докторов Иван Евгеньевич": 9,
-      "Драпеко Елена Григорьевна": 231,
-      "Комолова Ирина Игоревна": 96,
-      "Конторин Михаил Владимирович": 4,
-      "Панюта Ольга Николаевна": 21,
-      "Петров Андрей Николаевич": 22,
-      "Пивоваров Андрей Сергеевич": 24,
-      "Тратников Егор Иванович": 93,
-      "Туркин Федор Олегович": 31
+      "gas:candidate-vibid:4784007196421": 87,
+      "gas:candidate-vibid:4784007196096": 110,
+      "gas:candidate-vibid:4784007196397": 9,
+      "gas:candidate-vibid:4784007195952": 231,
+      "gas:candidate-vibid:4784007196329": 96,
+      "gas:candidate-vibid:4784007196555": 4,
+      "gas:candidate-vibid:4784007196223": 21,
+      "gas:candidate-vibid:4784007196445": 22,
+      "gas:candidate-vibid:4784007196051": 24,
+      "gas:candidate-vibid:4784007196360": 93,
+      "gas:candidate-vibid:4784007196154": 31
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/st-petersburg?action=show&root=1000279&tvd=2782000678281&vrn=100100067795849&region=78&global=&sub_region=78&prver=0&pronetvd=null&vibid=2782000678281&type=464",
@@ -4313,17 +4313,17 @@ export const duma_2016_uik_463_region_78_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Амосов Михаил Иванович": 57,
-      "Гатчин Юрий Арменакович": 81,
-      "Докторов Иван Евгеньевич": 3,
-      "Драпеко Елена Григорьевна": 269,
-      "Комолова Ирина Игоревна": 51,
-      "Конторин Михаил Владимирович": 3,
-      "Панюта Ольга Николаевна": 18,
-      "Петров Андрей Николаевич": 21,
-      "Пивоваров Андрей Сергеевич": 21,
-      "Тратников Егор Иванович": 81,
-      "Туркин Федор Олегович": 30
+      "gas:candidate-vibid:4784007196421": 57,
+      "gas:candidate-vibid:4784007196096": 81,
+      "gas:candidate-vibid:4784007196397": 3,
+      "gas:candidate-vibid:4784007195952": 269,
+      "gas:candidate-vibid:4784007196329": 51,
+      "gas:candidate-vibid:4784007196555": 3,
+      "gas:candidate-vibid:4784007196223": 18,
+      "gas:candidate-vibid:4784007196445": 21,
+      "gas:candidate-vibid:4784007196051": 21,
+      "gas:candidate-vibid:4784007196360": 81,
+      "gas:candidate-vibid:4784007196154": 30
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/st-petersburg?action=show&root=1000279&tvd=2782000678281&vrn=100100067795849&region=78&global=&sub_region=78&prver=0&pronetvd=null&vibid=2782000678281&type=464",
@@ -4374,17 +4374,17 @@ export const duma_2016_uik_463_region_78_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Амосов Михаил Иванович": 70,
-      "Гатчин Юрий Арменакович": 74,
-      "Докторов Иван Евгеньевич": 3,
-      "Драпеко Елена Григорьевна": 226,
-      "Комолова Ирина Игоревна": 55,
-      "Конторин Михаил Владимирович": 3,
-      "Панюта Ольга Николаевна": 18,
-      "Петров Андрей Николаевич": 16,
-      "Пивоваров Андрей Сергеевич": 20,
-      "Тратников Егор Иванович": 65,
-      "Туркин Федор Олегович": 21
+      "gas:candidate-vibid:4784007196421": 70,
+      "gas:candidate-vibid:4784007196096": 74,
+      "gas:candidate-vibid:4784007196397": 3,
+      "gas:candidate-vibid:4784007195952": 226,
+      "gas:candidate-vibid:4784007196329": 55,
+      "gas:candidate-vibid:4784007196555": 3,
+      "gas:candidate-vibid:4784007196223": 18,
+      "gas:candidate-vibid:4784007196445": 16,
+      "gas:candidate-vibid:4784007196051": 20,
+      "gas:candidate-vibid:4784007196360": 65,
+      "gas:candidate-vibid:4784007196154": 21
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/st-petersburg?action=show&root=1000279&tvd=2782000678281&vrn=100100067795849&region=78&global=&sub_region=78&prver=0&pronetvd=null&vibid=2782000678281&type=464",
@@ -4435,17 +4435,17 @@ export const duma_2016_uik_463_region_78_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Амосов Михаил Иванович": 69,
-      "Гатчин Юрий Арменакович": 78,
-      "Докторов Иван Евгеньевич": 1,
-      "Драпеко Елена Григорьевна": 283,
-      "Комолова Ирина Игоревна": 59,
-      "Конторин Михаил Владимирович": 2,
-      "Панюта Ольга Николаевна": 15,
-      "Петров Андрей Николаевич": 24,
-      "Пивоваров Андрей Сергеевич": 19,
-      "Тратников Егор Иванович": 114,
-      "Туркин Федор Олегович": 31
+      "gas:candidate-vibid:4784007196421": 69,
+      "gas:candidate-vibid:4784007196096": 78,
+      "gas:candidate-vibid:4784007196397": 1,
+      "gas:candidate-vibid:4784007195952": 283,
+      "gas:candidate-vibid:4784007196329": 59,
+      "gas:candidate-vibid:4784007196555": 2,
+      "gas:candidate-vibid:4784007196223": 15,
+      "gas:candidate-vibid:4784007196445": 24,
+      "gas:candidate-vibid:4784007196051": 19,
+      "gas:candidate-vibid:4784007196360": 114,
+      "gas:candidate-vibid:4784007196154": 31
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/st-petersburg?action=show&root=1000279&tvd=2782000678281&vrn=100100067795849&region=78&global=&sub_region=78&prver=0&pronetvd=null&vibid=2782000678281&type=464",
@@ -4496,17 +4496,17 @@ export const duma_2016_uik_463_region_78_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Амосов Михаил Иванович": 130,
-      "Гатчин Юрий Арменакович": 91,
-      "Докторов Иван Евгеньевич": 12,
-      "Драпеко Елена Григорьевна": 258,
-      "Комолова Ирина Игоревна": 96,
-      "Конторин Михаил Владимирович": 4,
-      "Панюта Ольга Николаевна": 31,
-      "Петров Андрей Николаевич": 25,
-      "Пивоваров Андрей Сергеевич": 39,
-      "Тратников Егор Иванович": 83,
-      "Туркин Федор Олегович": 33
+      "gas:candidate-vibid:4784007196421": 130,
+      "gas:candidate-vibid:4784007196096": 91,
+      "gas:candidate-vibid:4784007196397": 12,
+      "gas:candidate-vibid:4784007195952": 258,
+      "gas:candidate-vibid:4784007196329": 96,
+      "gas:candidate-vibid:4784007196555": 4,
+      "gas:candidate-vibid:4784007196223": 31,
+      "gas:candidate-vibid:4784007196445": 25,
+      "gas:candidate-vibid:4784007196051": 39,
+      "gas:candidate-vibid:4784007196360": 83,
+      "gas:candidate-vibid:4784007196154": 33
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/st-petersburg?action=show&root=1000279&tvd=2782000678281&vrn=100100067795849&region=78&global=&sub_region=78&prver=0&pronetvd=null&vibid=2782000678281&type=464",
@@ -4557,17 +4557,17 @@ export const duma_2016_uik_463_region_78_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Амосов Михаил Иванович": 84,
-      "Гатчин Юрий Арменакович": 72,
-      "Докторов Иван Евгеньевич": 5,
-      "Драпеко Елена Григорьевна": 186,
-      "Комолова Ирина Игоревна": 66,
-      "Конторин Михаил Владимирович": 0,
-      "Панюта Ольга Николаевна": 19,
-      "Петров Андрей Николаевич": 11,
-      "Пивоваров Андрей Сергеевич": 11,
-      "Тратников Егор Иванович": 60,
-      "Туркин Федор Олегович": 13
+      "gas:candidate-vibid:4784007196421": 84,
+      "gas:candidate-vibid:4784007196096": 72,
+      "gas:candidate-vibid:4784007196397": 5,
+      "gas:candidate-vibid:4784007195952": 186,
+      "gas:candidate-vibid:4784007196329": 66,
+      "gas:candidate-vibid:4784007196555": 0,
+      "gas:candidate-vibid:4784007196223": 19,
+      "gas:candidate-vibid:4784007196445": 11,
+      "gas:candidate-vibid:4784007196051": 11,
+      "gas:candidate-vibid:4784007196360": 60,
+      "gas:candidate-vibid:4784007196154": 13
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/st-petersburg?action=show&root=1000279&tvd=2782000678281&vrn=100100067795849&region=78&global=&sub_region=78&prver=0&pronetvd=null&vibid=2782000678281&type=464",
@@ -4618,17 +4618,17 @@ export const duma_2016_uik_463_region_78_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Амосов Михаил Иванович": 84,
-      "Гатчин Юрий Арменакович": 97,
-      "Докторов Иван Евгеньевич": 7,
-      "Драпеко Елена Григорьевна": 234,
-      "Комолова Ирина Игоревна": 76,
-      "Конторин Михаил Владимирович": 1,
-      "Панюта Ольга Николаевна": 17,
-      "Петров Андрей Николаевич": 28,
-      "Пивоваров Андрей Сергеевич": 30,
-      "Тратников Егор Иванович": 99,
-      "Туркин Федор Олегович": 17
+      "gas:candidate-vibid:4784007196421": 84,
+      "gas:candidate-vibid:4784007196096": 97,
+      "gas:candidate-vibid:4784007196397": 7,
+      "gas:candidate-vibid:4784007195952": 234,
+      "gas:candidate-vibid:4784007196329": 76,
+      "gas:candidate-vibid:4784007196555": 1,
+      "gas:candidate-vibid:4784007196223": 17,
+      "gas:candidate-vibid:4784007196445": 28,
+      "gas:candidate-vibid:4784007196051": 30,
+      "gas:candidate-vibid:4784007196360": 99,
+      "gas:candidate-vibid:4784007196154": 17
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/st-petersburg?action=show&root=1000279&tvd=2782000678281&vrn=100100067795849&region=78&global=&sub_region=78&prver=0&pronetvd=null&vibid=2782000678281&type=464",
@@ -4679,17 +4679,17 @@ export const duma_2016_uik_463_region_78_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Амосов Михаил Иванович": 92,
-      "Гатчин Юрий Арменакович": 104,
-      "Докторов Иван Евгеньевич": 10,
-      "Драпеко Елена Григорьевна": 309,
-      "Комолова Ирина Игоревна": 74,
-      "Конторин Михаил Владимирович": 2,
-      "Панюта Ольга Николаевна": 15,
-      "Петров Андрей Николаевич": 31,
-      "Пивоваров Андрей Сергеевич": 20,
-      "Тратников Егор Иванович": 75,
-      "Туркин Федор Олегович": 31
+      "gas:candidate-vibid:4784007196421": 92,
+      "gas:candidate-vibid:4784007196096": 104,
+      "gas:candidate-vibid:4784007196397": 10,
+      "gas:candidate-vibid:4784007195952": 309,
+      "gas:candidate-vibid:4784007196329": 74,
+      "gas:candidate-vibid:4784007196555": 2,
+      "gas:candidate-vibid:4784007196223": 15,
+      "gas:candidate-vibid:4784007196445": 31,
+      "gas:candidate-vibid:4784007196051": 20,
+      "gas:candidate-vibid:4784007196360": 75,
+      "gas:candidate-vibid:4784007196154": 31
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/st-petersburg?action=show&root=1000279&tvd=2782000678281&vrn=100100067795849&region=78&global=&sub_region=78&prver=0&pronetvd=null&vibid=2782000678281&type=464",
@@ -4740,17 +4740,17 @@ export const duma_2016_uik_463_region_78_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Амосов Михаил Иванович": 79,
-      "Гатчин Юрий Арменакович": 91,
-      "Докторов Иван Евгеньевич": 7,
-      "Драпеко Елена Григорьевна": 238,
-      "Комолова Ирина Игоревна": 64,
-      "Конторин Михаил Владимирович": 5,
-      "Панюта Ольга Николаевна": 12,
-      "Петров Андрей Николаевич": 25,
-      "Пивоваров Андрей Сергеевич": 27,
-      "Тратников Егор Иванович": 69,
-      "Туркин Федор Олегович": 35
+      "gas:candidate-vibid:4784007196421": 79,
+      "gas:candidate-vibid:4784007196096": 91,
+      "gas:candidate-vibid:4784007196397": 7,
+      "gas:candidate-vibid:4784007195952": 238,
+      "gas:candidate-vibid:4784007196329": 64,
+      "gas:candidate-vibid:4784007196555": 5,
+      "gas:candidate-vibid:4784007196223": 12,
+      "gas:candidate-vibid:4784007196445": 25,
+      "gas:candidate-vibid:4784007196051": 27,
+      "gas:candidate-vibid:4784007196360": 69,
+      "gas:candidate-vibid:4784007196154": 35
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/st-petersburg?action=show&root=1000279&tvd=2782000678281&vrn=100100067795849&region=78&global=&sub_region=78&prver=0&pronetvd=null&vibid=2782000678281&type=464",
@@ -4801,17 +4801,17 @@ export const duma_2016_uik_463_region_78_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Амосов Михаил Иванович": 111,
-      "Гатчин Юрий Арменакович": 86,
-      "Докторов Иван Евгеньевич": 11,
-      "Драпеко Елена Григорьевна": 270,
-      "Комолова Ирина Игоревна": 78,
-      "Конторин Михаил Владимирович": 2,
-      "Панюта Ольга Николаевна": 26,
-      "Петров Андрей Николаевич": 18,
-      "Пивоваров Андрей Сергеевич": 21,
-      "Тратников Егор Иванович": 84,
-      "Туркин Федор Олегович": 37
+      "gas:candidate-vibid:4784007196421": 111,
+      "gas:candidate-vibid:4784007196096": 86,
+      "gas:candidate-vibid:4784007196397": 11,
+      "gas:candidate-vibid:4784007195952": 270,
+      "gas:candidate-vibid:4784007196329": 78,
+      "gas:candidate-vibid:4784007196555": 2,
+      "gas:candidate-vibid:4784007196223": 26,
+      "gas:candidate-vibid:4784007196445": 18,
+      "gas:candidate-vibid:4784007196051": 21,
+      "gas:candidate-vibid:4784007196360": 84,
+      "gas:candidate-vibid:4784007196154": 37
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/st-petersburg?action=show&root=1000279&tvd=2782000678281&vrn=100100067795849&region=78&global=&sub_region=78&prver=0&pronetvd=null&vibid=2782000678281&type=464",
@@ -4862,17 +4862,17 @@ export const duma_2016_uik_463_region_78_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Амосов Михаил Иванович": 77,
-      "Гатчин Юрий Арменакович": 82,
-      "Докторов Иван Евгеньевич": 13,
-      "Драпеко Елена Григорьевна": 304,
-      "Комолова Ирина Игоревна": 90,
-      "Конторин Михаил Владимирович": 7,
-      "Панюта Ольга Николаевна": 23,
-      "Петров Андрей Николаевич": 27,
-      "Пивоваров Андрей Сергеевич": 28,
-      "Тратников Егор Иванович": 95,
-      "Туркин Федор Олегович": 24
+      "gas:candidate-vibid:4784007196421": 77,
+      "gas:candidate-vibid:4784007196096": 82,
+      "gas:candidate-vibid:4784007196397": 13,
+      "gas:candidate-vibid:4784007195952": 304,
+      "gas:candidate-vibid:4784007196329": 90,
+      "gas:candidate-vibid:4784007196555": 7,
+      "gas:candidate-vibid:4784007196223": 23,
+      "gas:candidate-vibid:4784007196445": 27,
+      "gas:candidate-vibid:4784007196051": 28,
+      "gas:candidate-vibid:4784007196360": 95,
+      "gas:candidate-vibid:4784007196154": 24
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/st-petersburg?action=show&root=1000279&tvd=2782000678281&vrn=100100067795849&region=78&global=&sub_region=78&prver=0&pronetvd=null&vibid=2782000678281&type=464",
@@ -4923,17 +4923,17 @@ export const duma_2016_uik_463_region_78_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Амосов Михаил Иванович": 76,
-      "Гатчин Юрий Арменакович": 83,
-      "Докторов Иван Евгеньевич": 8,
-      "Драпеко Елена Григорьевна": 234,
-      "Комолова Ирина Игоревна": 75,
-      "Конторин Михаил Владимирович": 7,
-      "Панюта Ольга Николаевна": 17,
-      "Петров Андрей Николаевич": 23,
-      "Пивоваров Андрей Сергеевич": 21,
-      "Тратников Егор Иванович": 65,
-      "Туркин Федор Олегович": 24
+      "gas:candidate-vibid:4784007196421": 76,
+      "gas:candidate-vibid:4784007196096": 83,
+      "gas:candidate-vibid:4784007196397": 8,
+      "gas:candidate-vibid:4784007195952": 234,
+      "gas:candidate-vibid:4784007196329": 75,
+      "gas:candidate-vibid:4784007196555": 7,
+      "gas:candidate-vibid:4784007196223": 17,
+      "gas:candidate-vibid:4784007196445": 23,
+      "gas:candidate-vibid:4784007196051": 21,
+      "gas:candidate-vibid:4784007196360": 65,
+      "gas:candidate-vibid:4784007196154": 24
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/st-petersburg?action=show&root=1000279&tvd=2782000678281&vrn=100100067795849&region=78&global=&sub_region=78&prver=0&pronetvd=null&vibid=2782000678281&type=464",
@@ -4984,17 +4984,17 @@ export const duma_2016_uik_463_region_78_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Амосов Михаил Иванович": 91,
-      "Гатчин Юрий Арменакович": 117,
-      "Докторов Иван Евгеньевич": 11,
-      "Драпеко Елена Григорьевна": 264,
-      "Комолова Ирина Игоревна": 72,
-      "Конторин Михаил Владимирович": 3,
-      "Панюта Ольга Николаевна": 18,
-      "Петров Андрей Николаевич": 37,
-      "Пивоваров Андрей Сергеевич": 27,
-      "Тратников Егор Иванович": 95,
-      "Туркин Федор Олегович": 34
+      "gas:candidate-vibid:4784007196421": 91,
+      "gas:candidate-vibid:4784007196096": 117,
+      "gas:candidate-vibid:4784007196397": 11,
+      "gas:candidate-vibid:4784007195952": 264,
+      "gas:candidate-vibid:4784007196329": 72,
+      "gas:candidate-vibid:4784007196555": 3,
+      "gas:candidate-vibid:4784007196223": 18,
+      "gas:candidate-vibid:4784007196445": 37,
+      "gas:candidate-vibid:4784007196051": 27,
+      "gas:candidate-vibid:4784007196360": 95,
+      "gas:candidate-vibid:4784007196154": 34
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/st-petersburg?action=show&root=1000279&tvd=2782000678281&vrn=100100067795849&region=78&global=&sub_region=78&prver=0&pronetvd=null&vibid=2782000678281&type=464",
@@ -5045,17 +5045,17 @@ export const duma_2016_uik_463_region_78_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Амосов Михаил Иванович": 73,
-      "Гатчин Юрий Арменакович": 69,
-      "Докторов Иван Евгеньевич": 11,
-      "Драпеко Елена Григорьевна": 162,
-      "Комолова Ирина Игоревна": 45,
-      "Конторин Михаил Владимирович": 2,
-      "Панюта Ольга Николаевна": 23,
-      "Петров Андрей Николаевич": 16,
-      "Пивоваров Андрей Сергеевич": 18,
-      "Тратников Егор Иванович": 61,
-      "Туркин Федор Олегович": 20
+      "gas:candidate-vibid:4784007196421": 73,
+      "gas:candidate-vibid:4784007196096": 69,
+      "gas:candidate-vibid:4784007196397": 11,
+      "gas:candidate-vibid:4784007195952": 162,
+      "gas:candidate-vibid:4784007196329": 45,
+      "gas:candidate-vibid:4784007196555": 2,
+      "gas:candidate-vibid:4784007196223": 23,
+      "gas:candidate-vibid:4784007196445": 16,
+      "gas:candidate-vibid:4784007196051": 18,
+      "gas:candidate-vibid:4784007196360": 61,
+      "gas:candidate-vibid:4784007196154": 20
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/st-petersburg?action=show&root=1000279&tvd=2782000678281&vrn=100100067795849&region=78&global=&sub_region=78&prver=0&pronetvd=null&vibid=2782000678281&type=464",
@@ -5106,17 +5106,17 @@ export const duma_2016_uik_463_region_78_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Амосов Михаил Иванович": 105,
-      "Гатчин Юрий Арменакович": 144,
-      "Докторов Иван Евгеньевич": 27,
-      "Драпеко Елена Григорьевна": 246,
-      "Комолова Ирина Игоревна": 89,
-      "Конторин Михаил Владимирович": 15,
-      "Панюта Ольга Николаевна": 25,
-      "Петров Андрей Николаевич": 29,
-      "Пивоваров Андрей Сергеевич": 32,
-      "Тратников Егор Иванович": 105,
-      "Туркин Федор Олегович": 33
+      "gas:candidate-vibid:4784007196421": 105,
+      "gas:candidate-vibid:4784007196096": 144,
+      "gas:candidate-vibid:4784007196397": 27,
+      "gas:candidate-vibid:4784007195952": 246,
+      "gas:candidate-vibid:4784007196329": 89,
+      "gas:candidate-vibid:4784007196555": 15,
+      "gas:candidate-vibid:4784007196223": 25,
+      "gas:candidate-vibid:4784007196445": 29,
+      "gas:candidate-vibid:4784007196051": 32,
+      "gas:candidate-vibid:4784007196360": 105,
+      "gas:candidate-vibid:4784007196154": 33
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/st-petersburg?action=show&root=1000279&tvd=2782000678281&vrn=100100067795849&region=78&global=&sub_region=78&prver=0&pronetvd=null&vibid=2782000678281&type=464",
@@ -5167,17 +5167,17 @@ export const duma_2016_uik_463_region_78_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Амосов Михаил Иванович": 61,
-      "Гатчин Юрий Арменакович": 74,
-      "Докторов Иван Евгеньевич": 7,
-      "Драпеко Елена Григорьевна": 199,
-      "Комолова Ирина Игоревна": 55,
-      "Конторин Михаил Владимирович": 3,
-      "Панюта Ольга Николаевна": 0,
-      "Петров Андрей Николаевич": 18,
-      "Пивоваров Андрей Сергеевич": 21,
-      "Тратников Егор Иванович": 74,
-      "Туркин Федор Олегович": 22
+      "gas:candidate-vibid:4784007196421": 61,
+      "gas:candidate-vibid:4784007196096": 74,
+      "gas:candidate-vibid:4784007196397": 7,
+      "gas:candidate-vibid:4784007195952": 199,
+      "gas:candidate-vibid:4784007196329": 55,
+      "gas:candidate-vibid:4784007196555": 3,
+      "gas:candidate-vibid:4784007196223": 0,
+      "gas:candidate-vibid:4784007196445": 18,
+      "gas:candidate-vibid:4784007196051": 21,
+      "gas:candidate-vibid:4784007196360": 74,
+      "gas:candidate-vibid:4784007196154": 22
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/st-petersburg?action=show&root=1000279&tvd=2782000678281&vrn=100100067795849&region=78&global=&sub_region=78&prver=0&pronetvd=null&vibid=2782000678281&type=464",
@@ -5228,17 +5228,17 @@ export const duma_2016_uik_463_region_78_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Амосов Михаил Иванович": 77,
-      "Гатчин Юрий Арменакович": 71,
-      "Докторов Иван Евгеньевич": 3,
-      "Драпеко Елена Григорьевна": 203,
-      "Комолова Ирина Игоревна": 57,
-      "Конторин Михаил Владимирович": 3,
-      "Панюта Ольга Николаевна": 12,
-      "Петров Андрей Николаевич": 22,
-      "Пивоваров Андрей Сергеевич": 19,
-      "Тратников Егор Иванович": 66,
-      "Туркин Федор Олегович": 18
+      "gas:candidate-vibid:4784007196421": 77,
+      "gas:candidate-vibid:4784007196096": 71,
+      "gas:candidate-vibid:4784007196397": 3,
+      "gas:candidate-vibid:4784007195952": 203,
+      "gas:candidate-vibid:4784007196329": 57,
+      "gas:candidate-vibid:4784007196555": 3,
+      "gas:candidate-vibid:4784007196223": 12,
+      "gas:candidate-vibid:4784007196445": 22,
+      "gas:candidate-vibid:4784007196051": 19,
+      "gas:candidate-vibid:4784007196360": 66,
+      "gas:candidate-vibid:4784007196154": 18
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/st-petersburg?action=show&root=1000279&tvd=2782000678281&vrn=100100067795849&region=78&global=&sub_region=78&prver=0&pronetvd=null&vibid=2782000678281&type=464",
@@ -5289,17 +5289,17 @@ export const duma_2016_uik_463_region_78_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Амосов Михаил Иванович": 79,
-      "Гатчин Юрий Арменакович": 87,
-      "Докторов Иван Евгеньевич": 8,
-      "Драпеко Елена Григорьевна": 260,
-      "Комолова Ирина Игоревна": 80,
-      "Конторин Михаил Владимирович": 1,
-      "Панюта Ольга Николаевна": 16,
-      "Петров Андрей Николаевич": 19,
-      "Пивоваров Андрей Сергеевич": 32,
-      "Тратников Егор Иванович": 95,
-      "Туркин Федор Олегович": 27
+      "gas:candidate-vibid:4784007196421": 79,
+      "gas:candidate-vibid:4784007196096": 87,
+      "gas:candidate-vibid:4784007196397": 8,
+      "gas:candidate-vibid:4784007195952": 260,
+      "gas:candidate-vibid:4784007196329": 80,
+      "gas:candidate-vibid:4784007196555": 1,
+      "gas:candidate-vibid:4784007196223": 16,
+      "gas:candidate-vibid:4784007196445": 19,
+      "gas:candidate-vibid:4784007196051": 32,
+      "gas:candidate-vibid:4784007196360": 95,
+      "gas:candidate-vibid:4784007196154": 27
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/st-petersburg?action=show&root=1000279&tvd=2782000678281&vrn=100100067795849&region=78&global=&sub_region=78&prver=0&pronetvd=null&vibid=2782000678281&type=464",
@@ -5350,17 +5350,17 @@ export const duma_2016_uik_463_region_78_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Амосов Михаил Иванович": 57,
-      "Гатчин Юрий Арменакович": 60,
-      "Докторов Иван Евгеньевич": 6,
-      "Драпеко Елена Григорьевна": 187,
-      "Комолова Ирина Игоревна": 65,
-      "Конторин Михаил Владимирович": 3,
-      "Панюта Ольга Николаевна": 9,
-      "Петров Андрей Николаевич": 19,
-      "Пивоваров Андрей Сергеевич": 18,
-      "Тратников Егор Иванович": 41,
-      "Туркин Федор Олегович": 26
+      "gas:candidate-vibid:4784007196421": 57,
+      "gas:candidate-vibid:4784007196096": 60,
+      "gas:candidate-vibid:4784007196397": 6,
+      "gas:candidate-vibid:4784007195952": 187,
+      "gas:candidate-vibid:4784007196329": 65,
+      "gas:candidate-vibid:4784007196555": 3,
+      "gas:candidate-vibid:4784007196223": 9,
+      "gas:candidate-vibid:4784007196445": 19,
+      "gas:candidate-vibid:4784007196051": 18,
+      "gas:candidate-vibid:4784007196360": 41,
+      "gas:candidate-vibid:4784007196154": 26
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/st-petersburg?action=show&root=1000279&tvd=2782000678281&vrn=100100067795849&region=78&global=&sub_region=78&prver=0&pronetvd=null&vibid=2782000678281&type=464",
@@ -5411,17 +5411,17 @@ export const duma_2016_uik_463_region_78_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Амосов Михаил Иванович": 80,
-      "Гатчин Юрий Арменакович": 83,
-      "Докторов Иван Евгеньевич": 11,
-      "Драпеко Елена Григорьевна": 192,
-      "Комолова Ирина Игоревна": 59,
-      "Конторин Михаил Владимирович": 6,
-      "Панюта Ольга Николаевна": 20,
-      "Петров Андрей Николаевич": 20,
-      "Пивоваров Андрей Сергеевич": 28,
-      "Тратников Егор Иванович": 82,
-      "Туркин Федор Олегович": 19
+      "gas:candidate-vibid:4784007196421": 80,
+      "gas:candidate-vibid:4784007196096": 83,
+      "gas:candidate-vibid:4784007196397": 11,
+      "gas:candidate-vibid:4784007195952": 192,
+      "gas:candidate-vibid:4784007196329": 59,
+      "gas:candidate-vibid:4784007196555": 6,
+      "gas:candidate-vibid:4784007196223": 20,
+      "gas:candidate-vibid:4784007196445": 20,
+      "gas:candidate-vibid:4784007196051": 28,
+      "gas:candidate-vibid:4784007196360": 82,
+      "gas:candidate-vibid:4784007196154": 19
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/st-petersburg?action=show&root=1000279&tvd=2782000678281&vrn=100100067795849&region=78&global=&sub_region=78&prver=0&pronetvd=null&vibid=2782000678281&type=464",
@@ -5472,17 +5472,17 @@ export const duma_2016_uik_463_region_78_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Амосов Михаил Иванович": 61,
-      "Гатчин Юрий Арменакович": 64,
-      "Докторов Иван Евгеньевич": 9,
-      "Драпеко Елена Григорьевна": 460,
-      "Комолова Ирина Игоревна": 70,
-      "Конторин Михаил Владимирович": 4,
-      "Панюта Ольга Николаевна": 19,
-      "Петров Андрей Николаевич": 25,
-      "Пивоваров Андрей Сергеевич": 28,
-      "Тратников Егор Иванович": 68,
-      "Туркин Федор Олегович": 28
+      "gas:candidate-vibid:4784007196421": 61,
+      "gas:candidate-vibid:4784007196096": 64,
+      "gas:candidate-vibid:4784007196397": 9,
+      "gas:candidate-vibid:4784007195952": 460,
+      "gas:candidate-vibid:4784007196329": 70,
+      "gas:candidate-vibid:4784007196555": 4,
+      "gas:candidate-vibid:4784007196223": 19,
+      "gas:candidate-vibid:4784007196445": 25,
+      "gas:candidate-vibid:4784007196051": 28,
+      "gas:candidate-vibid:4784007196360": 68,
+      "gas:candidate-vibid:4784007196154": 28
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/st-petersburg?action=show&root=1000279&tvd=2782000678281&vrn=100100067795849&region=78&global=&sub_region=78&prver=0&pronetvd=null&vibid=2782000678281&type=464",
@@ -5533,17 +5533,17 @@ export const duma_2016_uik_463_region_78_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Амосов Михаил Иванович": 98,
-      "Гатчин Юрий Арменакович": 102,
-      "Докторов Иван Евгеньевич": 15,
-      "Драпеко Елена Григорьевна": 390,
-      "Комолова Ирина Игоревна": 50,
-      "Конторин Михаил Владимирович": 26,
-      "Панюта Ольга Николаевна": 27,
-      "Петров Андрей Николаевич": 39,
-      "Пивоваров Андрей Сергеевич": 26,
-      "Тратников Егор Иванович": 70,
-      "Туркин Федор Олегович": 23
+      "gas:candidate-vibid:4784007196421": 98,
+      "gas:candidate-vibid:4784007196096": 102,
+      "gas:candidate-vibid:4784007196397": 15,
+      "gas:candidate-vibid:4784007195952": 390,
+      "gas:candidate-vibid:4784007196329": 50,
+      "gas:candidate-vibid:4784007196555": 26,
+      "gas:candidate-vibid:4784007196223": 27,
+      "gas:candidate-vibid:4784007196445": 39,
+      "gas:candidate-vibid:4784007196051": 26,
+      "gas:candidate-vibid:4784007196360": 70,
+      "gas:candidate-vibid:4784007196154": 23
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/st-petersburg?action=show&root=1000279&tvd=2782000678281&vrn=100100067795849&region=78&global=&sub_region=78&prver=0&pronetvd=null&vibid=2782000678281&type=464",
@@ -5594,17 +5594,17 @@ export const duma_2016_uik_463_region_78_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Амосов Михаил Иванович": 77,
-      "Гатчин Юрий Арменакович": 89,
-      "Докторов Иван Евгеньевич": 10,
-      "Драпеко Елена Григорьевна": 379,
-      "Комолова Ирина Игоревна": 70,
-      "Конторин Михаил Владимирович": 2,
-      "Панюта Ольга Николаевна": 25,
-      "Петров Андрей Николаевич": 31,
-      "Пивоваров Андрей Сергеевич": 30,
-      "Тратников Егор Иванович": 66,
-      "Туркин Федор Олегович": 25
+      "gas:candidate-vibid:4784007196421": 77,
+      "gas:candidate-vibid:4784007196096": 89,
+      "gas:candidate-vibid:4784007196397": 10,
+      "gas:candidate-vibid:4784007195952": 379,
+      "gas:candidate-vibid:4784007196329": 70,
+      "gas:candidate-vibid:4784007196555": 2,
+      "gas:candidate-vibid:4784007196223": 25,
+      "gas:candidate-vibid:4784007196445": 31,
+      "gas:candidate-vibid:4784007196051": 30,
+      "gas:candidate-vibid:4784007196360": 66,
+      "gas:candidate-vibid:4784007196154": 25
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/st-petersburg?action=show&root=1000279&tvd=2782000678281&vrn=100100067795849&region=78&global=&sub_region=78&prver=0&pronetvd=null&vibid=2782000678281&type=464",
@@ -5655,17 +5655,17 @@ export const duma_2016_uik_463_region_78_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Амосов Михаил Иванович": 156,
-      "Гатчин Юрий Арменакович": 27,
-      "Докторов Иван Евгеньевич": 13,
-      "Драпеко Елена Григорьевна": 286,
-      "Комолова Ирина Игоревна": 72,
-      "Конторин Михаил Владимирович": 5,
-      "Панюта Ольга Николаевна": 28,
-      "Петров Андрей Николаевич": 49,
-      "Пивоваров Андрей Сергеевич": 33,
-      "Тратников Егор Иванович": 154,
-      "Туркин Федор Олегович": 55
+      "gas:candidate-vibid:4784007196421": 156,
+      "gas:candidate-vibid:4784007196096": 27,
+      "gas:candidate-vibid:4784007196397": 13,
+      "gas:candidate-vibid:4784007195952": 286,
+      "gas:candidate-vibid:4784007196329": 72,
+      "gas:candidate-vibid:4784007196555": 5,
+      "gas:candidate-vibid:4784007196223": 28,
+      "gas:candidate-vibid:4784007196445": 49,
+      "gas:candidate-vibid:4784007196051": 33,
+      "gas:candidate-vibid:4784007196360": 154,
+      "gas:candidate-vibid:4784007196154": 55
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/st-petersburg?action=show&root=1000279&tvd=2782000678281&vrn=100100067795849&region=78&global=&sub_region=78&prver=0&pronetvd=null&vibid=2782000678281&type=464",
@@ -5716,17 +5716,17 @@ export const duma_2016_uik_463_region_78_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Амосов Михаил Иванович": 92,
-      "Гатчин Юрий Арменакович": 51,
-      "Докторов Иван Евгеньевич": 17,
-      "Драпеко Елена Григорьевна": 287,
-      "Комолова Ирина Игоревна": 46,
-      "Конторин Михаил Владимирович": 10,
-      "Панюта Ольга Николаевна": 14,
-      "Петров Андрей Николаевич": 27,
-      "Пивоваров Андрей Сергеевич": 25,
-      "Тратников Егор Иванович": 70,
-      "Туркин Федор Олегович": 14
+      "gas:candidate-vibid:4784007196421": 92,
+      "gas:candidate-vibid:4784007196096": 51,
+      "gas:candidate-vibid:4784007196397": 17,
+      "gas:candidate-vibid:4784007195952": 287,
+      "gas:candidate-vibid:4784007196329": 46,
+      "gas:candidate-vibid:4784007196555": 10,
+      "gas:candidate-vibid:4784007196223": 14,
+      "gas:candidate-vibid:4784007196445": 27,
+      "gas:candidate-vibid:4784007196051": 25,
+      "gas:candidate-vibid:4784007196360": 70,
+      "gas:candidate-vibid:4784007196154": 14
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/st-petersburg?action=show&root=1000279&tvd=2782000678281&vrn=100100067795849&region=78&global=&sub_region=78&prver=0&pronetvd=null&vibid=2782000678281&type=464",
@@ -5777,17 +5777,17 @@ export const duma_2016_uik_463_region_78_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Амосов Михаил Иванович": 53,
-      "Гатчин Юрий Арменакович": 77,
-      "Докторов Иван Евгеньевич": 3,
-      "Драпеко Елена Григорьевна": 328,
-      "Комолова Ирина Игоревна": 43,
-      "Конторин Михаил Владимирович": 2,
-      "Панюта Ольга Николаевна": 13,
-      "Петров Андрей Николаевич": 21,
-      "Пивоваров Андрей Сергеевич": 12,
-      "Тратников Егор Иванович": 70,
-      "Туркин Федор Олегович": 16
+      "gas:candidate-vibid:4784007196421": 53,
+      "gas:candidate-vibid:4784007196096": 77,
+      "gas:candidate-vibid:4784007196397": 3,
+      "gas:candidate-vibid:4784007195952": 328,
+      "gas:candidate-vibid:4784007196329": 43,
+      "gas:candidate-vibid:4784007196555": 2,
+      "gas:candidate-vibid:4784007196223": 13,
+      "gas:candidate-vibid:4784007196445": 21,
+      "gas:candidate-vibid:4784007196051": 12,
+      "gas:candidate-vibid:4784007196360": 70,
+      "gas:candidate-vibid:4784007196154": 16
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/st-petersburg?action=show&root=1000279&tvd=2782000678281&vrn=100100067795849&region=78&global=&sub_region=78&prver=0&pronetvd=null&vibid=2782000678281&type=464",
@@ -5838,17 +5838,17 @@ export const duma_2016_uik_463_region_78_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Амосов Михаил Иванович": 175,
-      "Гатчин Юрий Арменакович": 48,
-      "Докторов Иван Евгеньевич": 39,
-      "Драпеко Елена Григорьевна": 449,
-      "Комолова Ирина Игоревна": 15,
-      "Конторин Михаил Владимирович": 12,
-      "Панюта Ольга Николаевна": 25,
-      "Петров Андрей Николаевич": 58,
-      "Пивоваров Андрей Сергеевич": 30,
-      "Тратников Егор Иванович": 47,
-      "Туркин Федор Олегович": 65
+      "gas:candidate-vibid:4784007196421": 175,
+      "gas:candidate-vibid:4784007196096": 48,
+      "gas:candidate-vibid:4784007196397": 39,
+      "gas:candidate-vibid:4784007195952": 449,
+      "gas:candidate-vibid:4784007196329": 15,
+      "gas:candidate-vibid:4784007196555": 12,
+      "gas:candidate-vibid:4784007196223": 25,
+      "gas:candidate-vibid:4784007196445": 58,
+      "gas:candidate-vibid:4784007196051": 30,
+      "gas:candidate-vibid:4784007196360": 47,
+      "gas:candidate-vibid:4784007196154": 65
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/st-petersburg?action=show&root=1000279&tvd=2782000678281&vrn=100100067795849&region=78&global=&sub_region=78&prver=0&pronetvd=null&vibid=2782000678281&type=464",
@@ -5899,17 +5899,17 @@ export const duma_2016_uik_463_region_78_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Амосов Михаил Иванович": 82,
-      "Гатчин Юрий Арменакович": 65,
-      "Докторов Иван Евгеньевич": 8,
-      "Драпеко Елена Григорьевна": 152,
-      "Комолова Ирина Игоревна": 46,
-      "Конторин Михаил Владимирович": 6,
-      "Панюта Ольга Николаевна": 11,
-      "Петров Андрей Николаевич": 15,
-      "Пивоваров Андрей Сергеевич": 27,
-      "Тратников Егор Иванович": 52,
-      "Туркин Федор Олегович": 31
+      "gas:candidate-vibid:4784007196421": 82,
+      "gas:candidate-vibid:4784007196096": 65,
+      "gas:candidate-vibid:4784007196397": 8,
+      "gas:candidate-vibid:4784007195952": 152,
+      "gas:candidate-vibid:4784007196329": 46,
+      "gas:candidate-vibid:4784007196555": 6,
+      "gas:candidate-vibid:4784007196223": 11,
+      "gas:candidate-vibid:4784007196445": 15,
+      "gas:candidate-vibid:4784007196051": 27,
+      "gas:candidate-vibid:4784007196360": 52,
+      "gas:candidate-vibid:4784007196154": 31
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/st-petersburg?action=show&root=1000279&tvd=2782000678281&vrn=100100067795849&region=78&global=&sub_region=78&prver=0&pronetvd=null&vibid=2782000678281&type=464",
@@ -5960,17 +5960,17 @@ export const duma_2016_uik_463_region_78_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Амосов Михаил Иванович": 147,
-      "Гатчин Юрий Арменакович": 93,
-      "Докторов Иван Евгеньевич": 22,
-      "Драпеко Елена Григорьевна": 668,
-      "Комолова Ирина Игоревна": 68,
-      "Конторин Михаил Владимирович": 6,
-      "Панюта Ольга Николаевна": 39,
-      "Петров Андрей Николаевич": 40,
-      "Пивоваров Андрей Сергеевич": 31,
-      "Тратников Егор Иванович": 102,
-      "Туркин Федор Олегович": 55
+      "gas:candidate-vibid:4784007196421": 147,
+      "gas:candidate-vibid:4784007196096": 93,
+      "gas:candidate-vibid:4784007196397": 22,
+      "gas:candidate-vibid:4784007195952": 668,
+      "gas:candidate-vibid:4784007196329": 68,
+      "gas:candidate-vibid:4784007196555": 6,
+      "gas:candidate-vibid:4784007196223": 39,
+      "gas:candidate-vibid:4784007196445": 40,
+      "gas:candidate-vibid:4784007196051": 31,
+      "gas:candidate-vibid:4784007196360": 102,
+      "gas:candidate-vibid:4784007196154": 55
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/st-petersburg?action=show&root=1000279&tvd=2782000678281&vrn=100100067795849&region=78&global=&sub_region=78&prver=0&pronetvd=null&vibid=2782000678281&type=464",
@@ -6021,17 +6021,17 @@ export const duma_2016_uik_463_region_78_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Амосов Михаил Иванович": 110,
-      "Гатчин Юрий Арменакович": 110,
-      "Докторов Иван Евгеньевич": 15,
-      "Драпеко Елена Григорьевна": 348,
-      "Комолова Ирина Игоревна": 83,
-      "Конторин Михаил Владимирович": 8,
-      "Панюта Ольга Николаевна": 23,
-      "Петров Андрей Николаевич": 51,
-      "Пивоваров Андрей Сергеевич": 24,
-      "Тратников Егор Иванович": 60,
-      "Туркин Федор Олегович": 27
+      "gas:candidate-vibid:4784007196421": 110,
+      "gas:candidate-vibid:4784007196096": 110,
+      "gas:candidate-vibid:4784007196397": 15,
+      "gas:candidate-vibid:4784007195952": 348,
+      "gas:candidate-vibid:4784007196329": 83,
+      "gas:candidate-vibid:4784007196555": 8,
+      "gas:candidate-vibid:4784007196223": 23,
+      "gas:candidate-vibid:4784007196445": 51,
+      "gas:candidate-vibid:4784007196051": 24,
+      "gas:candidate-vibid:4784007196360": 60,
+      "gas:candidate-vibid:4784007196154": 27
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/st-petersburg?action=show&root=1000279&tvd=2782000678281&vrn=100100067795849&region=78&global=&sub_region=78&prver=0&pronetvd=null&vibid=2782000678281&type=464",
@@ -6082,17 +6082,17 @@ export const duma_2016_uik_463_region_78_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Амосов Михаил Иванович": 122,
-      "Гатчин Юрий Арменакович": 94,
-      "Докторов Иван Евгеньевич": 15,
-      "Драпеко Елена Григорьевна": 391,
-      "Комолова Ирина Игоревна": 74,
-      "Конторин Михаил Владимирович": 8,
-      "Панюта Ольга Николаевна": 25,
-      "Петров Андрей Николаевич": 21,
-      "Пивоваров Андрей Сергеевич": 28,
-      "Тратников Егор Иванович": 113,
-      "Туркин Федор Олегович": 33
+      "gas:candidate-vibid:4784007196421": 122,
+      "gas:candidate-vibid:4784007196096": 94,
+      "gas:candidate-vibid:4784007196397": 15,
+      "gas:candidate-vibid:4784007195952": 391,
+      "gas:candidate-vibid:4784007196329": 74,
+      "gas:candidate-vibid:4784007196555": 8,
+      "gas:candidate-vibid:4784007196223": 25,
+      "gas:candidate-vibid:4784007196445": 21,
+      "gas:candidate-vibid:4784007196051": 28,
+      "gas:candidate-vibid:4784007196360": 113,
+      "gas:candidate-vibid:4784007196154": 33
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/st-petersburg?action=show&root=1000279&tvd=2782000678281&vrn=100100067795849&region=78&global=&sub_region=78&prver=0&pronetvd=null&vibid=2782000678281&type=464",
@@ -6143,17 +6143,17 @@ export const duma_2016_uik_463_region_78_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Амосов Михаил Иванович": 72,
-      "Гатчин Юрий Арменакович": 71,
-      "Докторов Иван Евгеньевич": 10,
-      "Драпеко Елена Григорьевна": 481,
-      "Комолова Ирина Игоревна": 72,
-      "Конторин Михаил Владимирович": 7,
-      "Панюта Ольга Николаевна": 19,
-      "Петров Андрей Николаевич": 31,
-      "Пивоваров Андрей Сергеевич": 28,
-      "Тратников Егор Иванович": 97,
-      "Туркин Федор Олегович": 31
+      "gas:candidate-vibid:4784007196421": 72,
+      "gas:candidate-vibid:4784007196096": 71,
+      "gas:candidate-vibid:4784007196397": 10,
+      "gas:candidate-vibid:4784007195952": 481,
+      "gas:candidate-vibid:4784007196329": 72,
+      "gas:candidate-vibid:4784007196555": 7,
+      "gas:candidate-vibid:4784007196223": 19,
+      "gas:candidate-vibid:4784007196445": 31,
+      "gas:candidate-vibid:4784007196051": 28,
+      "gas:candidate-vibid:4784007196360": 97,
+      "gas:candidate-vibid:4784007196154": 31
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/st-petersburg?action=show&root=1000279&tvd=2782000678281&vrn=100100067795849&region=78&global=&sub_region=78&prver=0&pronetvd=null&vibid=2782000678281&type=464",
@@ -6204,17 +6204,17 @@ export const duma_2016_uik_463_region_78_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Амосов Михаил Иванович": 194,
-      "Гатчин Юрий Арменакович": 86,
-      "Докторов Иван Евгеньевич": 16,
-      "Драпеко Елена Григорьевна": 372,
-      "Комолова Ирина Игоревна": 71,
-      "Конторин Михаил Владимирович": 1,
-      "Панюта Ольга Николаевна": 30,
-      "Петров Андрей Николаевич": 25,
-      "Пивоваров Андрей Сергеевич": 25,
-      "Тратников Егор Иванович": 80,
-      "Туркин Федор Олегович": 59
+      "gas:candidate-vibid:4784007196421": 194,
+      "gas:candidate-vibid:4784007196096": 86,
+      "gas:candidate-vibid:4784007196397": 16,
+      "gas:candidate-vibid:4784007195952": 372,
+      "gas:candidate-vibid:4784007196329": 71,
+      "gas:candidate-vibid:4784007196555": 1,
+      "gas:candidate-vibid:4784007196223": 30,
+      "gas:candidate-vibid:4784007196445": 25,
+      "gas:candidate-vibid:4784007196051": 25,
+      "gas:candidate-vibid:4784007196360": 80,
+      "gas:candidate-vibid:4784007196154": 59
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/st-petersburg?action=show&root=1000279&tvd=2782000678281&vrn=100100067795849&region=78&global=&sub_region=78&prver=0&pronetvd=null&vibid=2782000678281&type=464",
@@ -6265,17 +6265,17 @@ export const duma_2016_uik_463_region_78_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Амосов Михаил Иванович": 108,
-      "Гатчин Юрий Арменакович": 60,
-      "Докторов Иван Евгеньевич": 12,
-      "Драпеко Елена Григорьевна": 362,
-      "Комолова Ирина Игоревна": 64,
-      "Конторин Михаил Владимирович": 5,
-      "Панюта Ольга Николаевна": 17,
-      "Петров Андрей Николаевич": 33,
-      "Пивоваров Андрей Сергеевич": 17,
-      "Тратников Егор Иванович": 63,
-      "Туркин Федор Олегович": 29
+      "gas:candidate-vibid:4784007196421": 108,
+      "gas:candidate-vibid:4784007196096": 60,
+      "gas:candidate-vibid:4784007196397": 12,
+      "gas:candidate-vibid:4784007195952": 362,
+      "gas:candidate-vibid:4784007196329": 64,
+      "gas:candidate-vibid:4784007196555": 5,
+      "gas:candidate-vibid:4784007196223": 17,
+      "gas:candidate-vibid:4784007196445": 33,
+      "gas:candidate-vibid:4784007196051": 17,
+      "gas:candidate-vibid:4784007196360": 63,
+      "gas:candidate-vibid:4784007196154": 29
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/st-petersburg?action=show&root=1000279&tvd=2782000678281&vrn=100100067795849&region=78&global=&sub_region=78&prver=0&pronetvd=null&vibid=2782000678281&type=464",
@@ -6326,17 +6326,17 @@ export const duma_2016_uik_463_region_78_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Амосов Михаил Иванович": 86,
-      "Гатчин Юрий Арменакович": 64,
-      "Докторов Иван Евгеньевич": 10,
-      "Драпеко Елена Григорьевна": 266,
-      "Комолова Ирина Игоревна": 53,
-      "Конторин Михаил Владимирович": 6,
-      "Панюта Ольга Николаевна": 16,
-      "Петров Андрей Николаевич": 22,
-      "Пивоваров Андрей Сергеевич": 26,
-      "Тратников Егор Иванович": 72,
-      "Туркин Федор Олегович": 25
+      "gas:candidate-vibid:4784007196421": 86,
+      "gas:candidate-vibid:4784007196096": 64,
+      "gas:candidate-vibid:4784007196397": 10,
+      "gas:candidate-vibid:4784007195952": 266,
+      "gas:candidate-vibid:4784007196329": 53,
+      "gas:candidate-vibid:4784007196555": 6,
+      "gas:candidate-vibid:4784007196223": 16,
+      "gas:candidate-vibid:4784007196445": 22,
+      "gas:candidate-vibid:4784007196051": 26,
+      "gas:candidate-vibid:4784007196360": 72,
+      "gas:candidate-vibid:4784007196154": 25
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/st-petersburg?action=show&root=1000279&tvd=2782000678281&vrn=100100067795849&region=78&global=&sub_region=78&prver=0&pronetvd=null&vibid=2782000678281&type=464",
@@ -6387,17 +6387,17 @@ export const duma_2016_uik_463_region_78_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Амосов Михаил Иванович": 65,
-      "Гатчин Юрий Арменакович": 86,
-      "Докторов Иван Евгеньевич": 11,
-      "Драпеко Елена Григорьевна": 323,
-      "Комолова Ирина Игоревна": 71,
-      "Конторин Михаил Владимирович": 2,
-      "Панюта Ольга Николаевна": 16,
-      "Петров Андрей Николаевич": 27,
-      "Пивоваров Андрей Сергеевич": 22,
-      "Тратников Егор Иванович": 92,
-      "Туркин Федор Олегович": 31
+      "gas:candidate-vibid:4784007196421": 65,
+      "gas:candidate-vibid:4784007196096": 86,
+      "gas:candidate-vibid:4784007196397": 11,
+      "gas:candidate-vibid:4784007195952": 323,
+      "gas:candidate-vibid:4784007196329": 71,
+      "gas:candidate-vibid:4784007196555": 2,
+      "gas:candidate-vibid:4784007196223": 16,
+      "gas:candidate-vibid:4784007196445": 27,
+      "gas:candidate-vibid:4784007196051": 22,
+      "gas:candidate-vibid:4784007196360": 92,
+      "gas:candidate-vibid:4784007196154": 31
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/st-petersburg?action=show&root=1000279&tvd=2782000678281&vrn=100100067795849&region=78&global=&sub_region=78&prver=0&pronetvd=null&vibid=2782000678281&type=464",
@@ -6448,17 +6448,17 @@ export const duma_2016_uik_463_region_78_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Амосов Михаил Иванович": 92,
-      "Гатчин Юрий Арменакович": 64,
-      "Докторов Иван Евгеньевич": 12,
-      "Драпеко Елена Григорьевна": 340,
-      "Комолова Ирина Игоревна": 72,
-      "Конторин Михаил Владимирович": 9,
-      "Панюта Ольга Николаевна": 13,
-      "Петров Андрей Николаевич": 20,
-      "Пивоваров Андрей Сергеевич": 26,
-      "Тратников Егор Иванович": 84,
-      "Туркин Федор Олегович": 32
+      "gas:candidate-vibid:4784007196421": 92,
+      "gas:candidate-vibid:4784007196096": 64,
+      "gas:candidate-vibid:4784007196397": 12,
+      "gas:candidate-vibid:4784007195952": 340,
+      "gas:candidate-vibid:4784007196329": 72,
+      "gas:candidate-vibid:4784007196555": 9,
+      "gas:candidate-vibid:4784007196223": 13,
+      "gas:candidate-vibid:4784007196445": 20,
+      "gas:candidate-vibid:4784007196051": 26,
+      "gas:candidate-vibid:4784007196360": 84,
+      "gas:candidate-vibid:4784007196154": 32
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/st-petersburg?action=show&root=1000279&tvd=2782000678281&vrn=100100067795849&region=78&global=&sub_region=78&prver=0&pronetvd=null&vibid=2782000678281&type=464",
@@ -6509,17 +6509,17 @@ export const duma_2016_uik_463_region_78_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Амосов Михаил Иванович": 141,
-      "Гатчин Юрий Арменакович": 109,
-      "Докторов Иван Евгеньевич": 26,
-      "Драпеко Елена Григорьевна": 338,
-      "Комолова Ирина Игоревна": 86,
-      "Конторин Михаил Владимирович": 8,
-      "Панюта Ольга Николаевна": 20,
-      "Петров Андрей Николаевич": 32,
-      "Пивоваров Андрей Сергеевич": 39,
-      "Тратников Егор Иванович": 105,
-      "Туркин Федор Олегович": 34
+      "gas:candidate-vibid:4784007196421": 141,
+      "gas:candidate-vibid:4784007196096": 109,
+      "gas:candidate-vibid:4784007196397": 26,
+      "gas:candidate-vibid:4784007195952": 338,
+      "gas:candidate-vibid:4784007196329": 86,
+      "gas:candidate-vibid:4784007196555": 8,
+      "gas:candidate-vibid:4784007196223": 20,
+      "gas:candidate-vibid:4784007196445": 32,
+      "gas:candidate-vibid:4784007196051": 39,
+      "gas:candidate-vibid:4784007196360": 105,
+      "gas:candidate-vibid:4784007196154": 34
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/st-petersburg?action=show&root=1000279&tvd=2782000678281&vrn=100100067795849&region=78&global=&sub_region=78&prver=0&pronetvd=null&vibid=2782000678281&type=464",
@@ -6570,17 +6570,17 @@ export const duma_2016_uik_463_region_78_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Амосов Михаил Иванович": 67,
-      "Гатчин Юрий Арменакович": 86,
-      "Докторов Иван Евгеньевич": 21,
-      "Драпеко Елена Григорьевна": 368,
-      "Комолова Ирина Игоревна": 90,
-      "Конторин Михаил Владимирович": 11,
-      "Панюта Ольга Николаевна": 45,
-      "Петров Андрей Николаевич": 15,
-      "Пивоваров Андрей Сергеевич": 19,
-      "Тратников Егор Иванович": 139,
-      "Туркин Федор Олегович": 127
+      "gas:candidate-vibid:4784007196421": 67,
+      "gas:candidate-vibid:4784007196096": 86,
+      "gas:candidate-vibid:4784007196397": 21,
+      "gas:candidate-vibid:4784007195952": 368,
+      "gas:candidate-vibid:4784007196329": 90,
+      "gas:candidate-vibid:4784007196555": 11,
+      "gas:candidate-vibid:4784007196223": 45,
+      "gas:candidate-vibid:4784007196445": 15,
+      "gas:candidate-vibid:4784007196051": 19,
+      "gas:candidate-vibid:4784007196360": 139,
+      "gas:candidate-vibid:4784007196154": 127
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/st-petersburg?action=show&root=1000279&tvd=2782000678281&vrn=100100067795849&region=78&global=&sub_region=78&prver=0&pronetvd=null&vibid=2782000678281&type=464",
@@ -6631,17 +6631,17 @@ export const duma_2016_uik_463_region_78_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Амосов Михаил Иванович": 50,
-      "Гатчин Юрий Арменакович": 74,
-      "Докторов Иван Евгеньевич": 5,
-      "Драпеко Елена Григорьевна": 203,
-      "Комолова Ирина Игоревна": 42,
-      "Конторин Михаил Владимирович": 0,
-      "Панюта Ольга Николаевна": 9,
-      "Петров Андрей Николаевич": 17,
-      "Пивоваров Андрей Сергеевич": 15,
-      "Тратников Егор Иванович": 76,
-      "Туркин Федор Олегович": 16
+      "gas:candidate-vibid:4784007196421": 50,
+      "gas:candidate-vibid:4784007196096": 74,
+      "gas:candidate-vibid:4784007196397": 5,
+      "gas:candidate-vibid:4784007195952": 203,
+      "gas:candidate-vibid:4784007196329": 42,
+      "gas:candidate-vibid:4784007196555": 0,
+      "gas:candidate-vibid:4784007196223": 9,
+      "gas:candidate-vibid:4784007196445": 17,
+      "gas:candidate-vibid:4784007196051": 15,
+      "gas:candidate-vibid:4784007196360": 76,
+      "gas:candidate-vibid:4784007196154": 16
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/st-petersburg?action=show&root=1000279&tvd=2782000678281&vrn=100100067795849&region=78&global=&sub_region=78&prver=0&pronetvd=null&vibid=2782000678281&type=464",
@@ -6692,17 +6692,17 @@ export const duma_2016_uik_463_region_78_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Амосов Михаил Иванович": 74,
-      "Гатчин Юрий Арменакович": 56,
-      "Докторов Иван Евгеньевич": 2,
-      "Драпеко Елена Григорьевна": 244,
-      "Комолова Ирина Игоревна": 51,
-      "Конторин Михаил Владимирович": 2,
-      "Панюта Ольга Николаевна": 11,
-      "Петров Андрей Николаевич": 18,
-      "Пивоваров Андрей Сергеевич": 19,
-      "Тратников Егор Иванович": 73,
-      "Туркин Федор Олегович": 19
+      "gas:candidate-vibid:4784007196421": 74,
+      "gas:candidate-vibid:4784007196096": 56,
+      "gas:candidate-vibid:4784007196397": 2,
+      "gas:candidate-vibid:4784007195952": 244,
+      "gas:candidate-vibid:4784007196329": 51,
+      "gas:candidate-vibid:4784007196555": 2,
+      "gas:candidate-vibid:4784007196223": 11,
+      "gas:candidate-vibid:4784007196445": 18,
+      "gas:candidate-vibid:4784007196051": 19,
+      "gas:candidate-vibid:4784007196360": 73,
+      "gas:candidate-vibid:4784007196154": 19
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/st-petersburg?action=show&root=1000279&tvd=2782000678281&vrn=100100067795849&region=78&global=&sub_region=78&prver=0&pronetvd=null&vibid=2782000678281&type=464",
@@ -6753,17 +6753,17 @@ export const duma_2016_uik_463_region_78_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Амосов Михаил Иванович": 71,
-      "Гатчин Юрий Арменакович": 63,
-      "Докторов Иван Евгеньевич": 12,
-      "Драпеко Елена Григорьевна": 266,
-      "Комолова Ирина Игоревна": 53,
-      "Конторин Михаил Владимирович": 7,
-      "Панюта Ольга Николаевна": 20,
-      "Петров Андрей Николаевич": 25,
-      "Пивоваров Андрей Сергеевич": 25,
-      "Тратников Егор Иванович": 80,
-      "Туркин Федор Олегович": 25
+      "gas:candidate-vibid:4784007196421": 71,
+      "gas:candidate-vibid:4784007196096": 63,
+      "gas:candidate-vibid:4784007196397": 12,
+      "gas:candidate-vibid:4784007195952": 266,
+      "gas:candidate-vibid:4784007196329": 53,
+      "gas:candidate-vibid:4784007196555": 7,
+      "gas:candidate-vibid:4784007196223": 20,
+      "gas:candidate-vibid:4784007196445": 25,
+      "gas:candidate-vibid:4784007196051": 25,
+      "gas:candidate-vibid:4784007196360": 80,
+      "gas:candidate-vibid:4784007196154": 25
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/st-petersburg?action=show&root=1000279&tvd=2782000678281&vrn=100100067795849&region=78&global=&sub_region=78&prver=0&pronetvd=null&vibid=2782000678281&type=464",
@@ -6814,17 +6814,17 @@ export const duma_2016_uik_463_region_78_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Амосов Михаил Иванович": 48,
-      "Гатчин Юрий Арменакович": 53,
-      "Докторов Иван Евгеньевич": 6,
-      "Драпеко Елена Григорьевна": 223,
-      "Комолова Ирина Игоревна": 55,
-      "Конторин Михаил Владимирович": 3,
-      "Панюта Ольга Николаевна": 15,
-      "Петров Андрей Николаевич": 28,
-      "Пивоваров Андрей Сергеевич": 23,
-      "Тратников Егор Иванович": 56,
-      "Туркин Федор Олегович": 24
+      "gas:candidate-vibid:4784007196421": 48,
+      "gas:candidate-vibid:4784007196096": 53,
+      "gas:candidate-vibid:4784007196397": 6,
+      "gas:candidate-vibid:4784007195952": 223,
+      "gas:candidate-vibid:4784007196329": 55,
+      "gas:candidate-vibid:4784007196555": 3,
+      "gas:candidate-vibid:4784007196223": 15,
+      "gas:candidate-vibid:4784007196445": 28,
+      "gas:candidate-vibid:4784007196051": 23,
+      "gas:candidate-vibid:4784007196360": 56,
+      "gas:candidate-vibid:4784007196154": 24
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/st-petersburg?action=show&root=1000279&tvd=2782000678281&vrn=100100067795849&region=78&global=&sub_region=78&prver=0&pronetvd=null&vibid=2782000678281&type=464",
@@ -6875,17 +6875,17 @@ export const duma_2016_uik_463_region_78_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Амосов Михаил Иванович": 56,
-      "Гатчин Юрий Арменакович": 88,
-      "Докторов Иван Евгеньевич": 13,
-      "Драпеко Елена Григорьевна": 196,
-      "Комолова Ирина Игоревна": 58,
-      "Конторин Михаил Владимирович": 3,
-      "Панюта Ольга Николаевна": 6,
-      "Петров Андрей Николаевич": 17,
-      "Пивоваров Андрей Сергеевич": 19,
-      "Тратников Егор Иванович": 81,
-      "Туркин Федор Олегович": 35
+      "gas:candidate-vibid:4784007196421": 56,
+      "gas:candidate-vibid:4784007196096": 88,
+      "gas:candidate-vibid:4784007196397": 13,
+      "gas:candidate-vibid:4784007195952": 196,
+      "gas:candidate-vibid:4784007196329": 58,
+      "gas:candidate-vibid:4784007196555": 3,
+      "gas:candidate-vibid:4784007196223": 6,
+      "gas:candidate-vibid:4784007196445": 17,
+      "gas:candidate-vibid:4784007196051": 19,
+      "gas:candidate-vibid:4784007196360": 81,
+      "gas:candidate-vibid:4784007196154": 35
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/st-petersburg?action=show&root=1000279&tvd=2782000678281&vrn=100100067795849&region=78&global=&sub_region=78&prver=0&pronetvd=null&vibid=2782000678281&type=464",
@@ -6936,17 +6936,17 @@ export const duma_2016_uik_463_region_78_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Амосов Михаил Иванович": 78,
-      "Гатчин Юрий Арменакович": 57,
-      "Докторов Иван Евгеньевич": 11,
-      "Драпеко Елена Григорьевна": 224,
-      "Комолова Ирина Игоревна": 87,
-      "Конторин Михаил Владимирович": 5,
-      "Панюта Ольга Николаевна": 21,
-      "Петров Андрей Николаевич": 30,
-      "Пивоваров Андрей Сергеевич": 37,
-      "Тратников Егор Иванович": 87,
-      "Туркин Федор Олегович": 23
+      "gas:candidate-vibid:4784007196421": 78,
+      "gas:candidate-vibid:4784007196096": 57,
+      "gas:candidate-vibid:4784007196397": 11,
+      "gas:candidate-vibid:4784007195952": 224,
+      "gas:candidate-vibid:4784007196329": 87,
+      "gas:candidate-vibid:4784007196555": 5,
+      "gas:candidate-vibid:4784007196223": 21,
+      "gas:candidate-vibid:4784007196445": 30,
+      "gas:candidate-vibid:4784007196051": 37,
+      "gas:candidate-vibid:4784007196360": 87,
+      "gas:candidate-vibid:4784007196154": 23
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/st-petersburg?action=show&root=1000279&tvd=2782000678281&vrn=100100067795849&region=78&global=&sub_region=78&prver=0&pronetvd=null&vibid=2782000678281&type=464",
@@ -6997,17 +6997,17 @@ export const duma_2016_uik_463_region_78_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Амосов Михаил Иванович": 64,
-      "Гатчин Юрий Арменакович": 50,
-      "Докторов Иван Евгеньевич": 11,
-      "Драпеко Елена Григорьевна": 336,
-      "Комолова Ирина Игоревна": 59,
-      "Конторин Михаил Владимирович": 5,
-      "Панюта Ольга Николаевна": 19,
-      "Петров Андрей Николаевич": 21,
-      "Пивоваров Андрей Сергеевич": 19,
-      "Тратников Егор Иванович": 73,
-      "Туркин Федор Олегович": 19
+      "gas:candidate-vibid:4784007196421": 64,
+      "gas:candidate-vibid:4784007196096": 50,
+      "gas:candidate-vibid:4784007196397": 11,
+      "gas:candidate-vibid:4784007195952": 336,
+      "gas:candidate-vibid:4784007196329": 59,
+      "gas:candidate-vibid:4784007196555": 5,
+      "gas:candidate-vibid:4784007196223": 19,
+      "gas:candidate-vibid:4784007196445": 21,
+      "gas:candidate-vibid:4784007196051": 19,
+      "gas:candidate-vibid:4784007196360": 73,
+      "gas:candidate-vibid:4784007196154": 19
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/st-petersburg?action=show&root=1000279&tvd=2782000678281&vrn=100100067795849&region=78&global=&sub_region=78&prver=0&pronetvd=null&vibid=2782000678281&type=464",
@@ -7058,17 +7058,17 @@ export const duma_2016_uik_463_region_78_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Амосов Михаил Иванович": 22,
-      "Гатчин Юрий Арменакович": 8,
-      "Докторов Иван Евгеньевич": 25,
-      "Драпеко Елена Григорьевна": 347,
-      "Комолова Ирина Игоревна": 68,
-      "Конторин Михаил Владимирович": 44,
-      "Панюта Ольга Николаевна": 59,
-      "Петров Андрей Николаевич": 18,
-      "Пивоваров Андрей Сергеевич": 5,
-      "Тратников Егор Иванович": 39,
-      "Туркин Федор Олегович": 201
+      "gas:candidate-vibid:4784007196421": 22,
+      "gas:candidate-vibid:4784007196096": 8,
+      "gas:candidate-vibid:4784007196397": 25,
+      "gas:candidate-vibid:4784007195952": 347,
+      "gas:candidate-vibid:4784007196329": 68,
+      "gas:candidate-vibid:4784007196555": 44,
+      "gas:candidate-vibid:4784007196223": 59,
+      "gas:candidate-vibid:4784007196445": 18,
+      "gas:candidate-vibid:4784007196051": 5,
+      "gas:candidate-vibid:4784007196360": 39,
+      "gas:candidate-vibid:4784007196154": 201
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/st-petersburg?action=show&root=1000279&tvd=2782000678281&vrn=100100067795849&region=78&global=&sub_region=78&prver=0&pronetvd=null&vibid=2782000678281&type=464",
@@ -7119,17 +7119,17 @@ export const duma_2016_uik_463_region_78_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Амосов Михаил Иванович": 75,
-      "Гатчин Юрий Арменакович": 63,
-      "Докторов Иван Евгеньевич": 10,
-      "Драпеко Елена Григорьевна": 219,
-      "Комолова Ирина Игоревна": 59,
-      "Конторин Михаил Владимирович": 1,
-      "Панюта Ольга Николаевна": 7,
-      "Петров Андрей Николаевич": 12,
-      "Пивоваров Андрей Сергеевич": 18,
-      "Тратников Егор Иванович": 70,
-      "Туркин Федор Олегович": 20
+      "gas:candidate-vibid:4784007196421": 75,
+      "gas:candidate-vibid:4784007196096": 63,
+      "gas:candidate-vibid:4784007196397": 10,
+      "gas:candidate-vibid:4784007195952": 219,
+      "gas:candidate-vibid:4784007196329": 59,
+      "gas:candidate-vibid:4784007196555": 1,
+      "gas:candidate-vibid:4784007196223": 7,
+      "gas:candidate-vibid:4784007196445": 12,
+      "gas:candidate-vibid:4784007196051": 18,
+      "gas:candidate-vibid:4784007196360": 70,
+      "gas:candidate-vibid:4784007196154": 20
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/st-petersburg?action=show&root=1000279&tvd=2782000678281&vrn=100100067795849&region=78&global=&sub_region=78&prver=0&pronetvd=null&vibid=2782000678281&type=464",
@@ -7180,17 +7180,17 @@ export const duma_2016_uik_463_region_78_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Амосов Михаил Иванович": 85,
-      "Гатчин Юрий Арменакович": 90,
-      "Докторов Иван Евгеньевич": 13,
-      "Драпеко Елена Григорьевна": 186,
-      "Комолова Ирина Игоревна": 171,
-      "Конторин Михаил Владимирович": 3,
-      "Панюта Ольга Николаевна": 14,
-      "Петров Андрей Николаевич": 30,
-      "Пивоваров Андрей Сергеевич": 174,
-      "Тратников Егор Иванович": 129,
-      "Туркин Федор Олегович": 27
+      "gas:candidate-vibid:4784007196421": 85,
+      "gas:candidate-vibid:4784007196096": 90,
+      "gas:candidate-vibid:4784007196397": 13,
+      "gas:candidate-vibid:4784007195952": 186,
+      "gas:candidate-vibid:4784007196329": 171,
+      "gas:candidate-vibid:4784007196555": 3,
+      "gas:candidate-vibid:4784007196223": 14,
+      "gas:candidate-vibid:4784007196445": 30,
+      "gas:candidate-vibid:4784007196051": 174,
+      "gas:candidate-vibid:4784007196360": 129,
+      "gas:candidate-vibid:4784007196154": 27
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/st-petersburg?action=show&root=1000279&tvd=2782000678281&vrn=100100067795849&region=78&global=&sub_region=78&prver=0&pronetvd=null&vibid=2782000678281&type=464",
@@ -7241,17 +7241,17 @@ export const duma_2016_uik_463_region_78_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Амосов Михаил Иванович": 56,
-      "Гатчин Юрий Арменакович": 86,
-      "Докторов Иван Евгеньевич": 9,
-      "Драпеко Елена Григорьевна": 263,
-      "Комолова Ирина Игоревна": 55,
-      "Конторин Михаил Владимирович": 6,
-      "Панюта Ольга Николаевна": 18,
-      "Петров Андрей Николаевич": 27,
-      "Пивоваров Андрей Сергеевич": 33,
-      "Тратников Егор Иванович": 88,
-      "Туркин Федор Олегович": 38
+      "gas:candidate-vibid:4784007196421": 56,
+      "gas:candidate-vibid:4784007196096": 86,
+      "gas:candidate-vibid:4784007196397": 9,
+      "gas:candidate-vibid:4784007195952": 263,
+      "gas:candidate-vibid:4784007196329": 55,
+      "gas:candidate-vibid:4784007196555": 6,
+      "gas:candidate-vibid:4784007196223": 18,
+      "gas:candidate-vibid:4784007196445": 27,
+      "gas:candidate-vibid:4784007196051": 33,
+      "gas:candidate-vibid:4784007196360": 88,
+      "gas:candidate-vibid:4784007196154": 38
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/st-petersburg?action=show&root=1000279&tvd=2782000678281&vrn=100100067795849&region=78&global=&sub_region=78&prver=0&pronetvd=null&vibid=2782000678281&type=464",
@@ -7302,17 +7302,17 @@ export const duma_2016_uik_463_region_78_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Амосов Михаил Иванович": 65,
-      "Гатчин Юрий Арменакович": 66,
-      "Докторов Иван Евгеньевич": 7,
-      "Драпеко Елена Григорьевна": 327,
-      "Комолова Ирина Игоревна": 58,
-      "Конторин Михаил Владимирович": 3,
-      "Панюта Ольга Николаевна": 18,
-      "Петров Андрей Николаевич": 18,
-      "Пивоваров Андрей Сергеевич": 26,
-      "Тратников Егор Иванович": 73,
-      "Туркин Федор Олегович": 31
+      "gas:candidate-vibid:4784007196421": 65,
+      "gas:candidate-vibid:4784007196096": 66,
+      "gas:candidate-vibid:4784007196397": 7,
+      "gas:candidate-vibid:4784007195952": 327,
+      "gas:candidate-vibid:4784007196329": 58,
+      "gas:candidate-vibid:4784007196555": 3,
+      "gas:candidate-vibid:4784007196223": 18,
+      "gas:candidate-vibid:4784007196445": 18,
+      "gas:candidate-vibid:4784007196051": 26,
+      "gas:candidate-vibid:4784007196360": 73,
+      "gas:candidate-vibid:4784007196154": 31
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/st-petersburg?action=show&root=1000279&tvd=2782000678281&vrn=100100067795849&region=78&global=&sub_region=78&prver=0&pronetvd=null&vibid=2782000678281&type=464",
@@ -7363,17 +7363,17 @@ export const duma_2016_uik_463_region_78_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Амосов Михаил Иванович": 62,
-      "Гатчин Юрий Арменакович": 72,
-      "Докторов Иван Евгеньевич": 5,
-      "Драпеко Елена Григорьевна": 220,
-      "Комолова Ирина Игоревна": 66,
-      "Конторин Михаил Владимирович": 2,
-      "Панюта Ольга Николаевна": 12,
-      "Петров Андрей Николаевич": 23,
-      "Пивоваров Андрей Сергеевич": 13,
-      "Тратников Егор Иванович": 104,
-      "Туркин Федор Олегович": 16
+      "gas:candidate-vibid:4784007196421": 62,
+      "gas:candidate-vibid:4784007196096": 72,
+      "gas:candidate-vibid:4784007196397": 5,
+      "gas:candidate-vibid:4784007195952": 220,
+      "gas:candidate-vibid:4784007196329": 66,
+      "gas:candidate-vibid:4784007196555": 2,
+      "gas:candidate-vibid:4784007196223": 12,
+      "gas:candidate-vibid:4784007196445": 23,
+      "gas:candidate-vibid:4784007196051": 13,
+      "gas:candidate-vibid:4784007196360": 104,
+      "gas:candidate-vibid:4784007196154": 16
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/st-petersburg?action=show&root=1000279&tvd=2782000678281&vrn=100100067795849&region=78&global=&sub_region=78&prver=0&pronetvd=null&vibid=2782000678281&type=464",
@@ -7424,17 +7424,17 @@ export const duma_2016_uik_463_region_78_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Амосов Михаил Иванович": 97,
-      "Гатчин Юрий Арменакович": 71,
-      "Докторов Иван Евгеньевич": 7,
-      "Драпеко Елена Григорьевна": 196,
-      "Комолова Ирина Игоревна": 56,
-      "Конторин Михаил Владимирович": 2,
-      "Панюта Ольга Николаевна": 6,
-      "Петров Андрей Николаевич": 13,
-      "Пивоваров Андрей Сергеевич": 19,
-      "Тратников Егор Иванович": 49,
-      "Туркин Федор Олегович": 9
+      "gas:candidate-vibid:4784007196421": 97,
+      "gas:candidate-vibid:4784007196096": 71,
+      "gas:candidate-vibid:4784007196397": 7,
+      "gas:candidate-vibid:4784007195952": 196,
+      "gas:candidate-vibid:4784007196329": 56,
+      "gas:candidate-vibid:4784007196555": 2,
+      "gas:candidate-vibid:4784007196223": 6,
+      "gas:candidate-vibid:4784007196445": 13,
+      "gas:candidate-vibid:4784007196051": 19,
+      "gas:candidate-vibid:4784007196360": 49,
+      "gas:candidate-vibid:4784007196154": 9
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/st-petersburg?action=show&root=1000279&tvd=2782000678281&vrn=100100067795849&region=78&global=&sub_region=78&prver=0&pronetvd=null&vibid=2782000678281&type=464",
@@ -7485,17 +7485,17 @@ export const duma_2016_uik_463_region_78_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Амосов Михаил Иванович": 116,
-      "Гатчин Юрий Арменакович": 83,
-      "Докторов Иван Евгеньевич": 19,
-      "Драпеко Елена Григорьевна": 199,
-      "Комолова Ирина Игоревна": 92,
-      "Конторин Михаил Владимирович": 3,
-      "Панюта Ольга Николаевна": 16,
-      "Петров Андрей Николаевич": 24,
-      "Пивоваров Андрей Сергеевич": 23,
-      "Тратников Егор Иванович": 87,
-      "Туркин Федор Олегович": 42
+      "gas:candidate-vibid:4784007196421": 116,
+      "gas:candidate-vibid:4784007196096": 83,
+      "gas:candidate-vibid:4784007196397": 19,
+      "gas:candidate-vibid:4784007195952": 199,
+      "gas:candidate-vibid:4784007196329": 92,
+      "gas:candidate-vibid:4784007196555": 3,
+      "gas:candidate-vibid:4784007196223": 16,
+      "gas:candidate-vibid:4784007196445": 24,
+      "gas:candidate-vibid:4784007196051": 23,
+      "gas:candidate-vibid:4784007196360": 87,
+      "gas:candidate-vibid:4784007196154": 42
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/st-petersburg?action=show&root=1000279&tvd=2782000678281&vrn=100100067795849&region=78&global=&sub_region=78&prver=0&pronetvd=null&vibid=2782000678281&type=464",
@@ -7546,17 +7546,17 @@ export const duma_2016_uik_463_region_78_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Амосов Михаил Иванович": 118,
-      "Гатчин Юрий Арменакович": 110,
-      "Докторов Иван Евгеньевич": 12,
-      "Драпеко Елена Григорьевна": 253,
-      "Комолова Ирина Игоревна": 98,
-      "Конторин Михаил Владимирович": 9,
-      "Панюта Ольга Николаевна": 22,
-      "Петров Андрей Николаевич": 28,
-      "Пивоваров Андрей Сергеевич": 63,
-      "Тратников Егор Иванович": 84,
-      "Туркин Федор Олегович": 48
+      "gas:candidate-vibid:4784007196421": 118,
+      "gas:candidate-vibid:4784007196096": 110,
+      "gas:candidate-vibid:4784007196397": 12,
+      "gas:candidate-vibid:4784007195952": 253,
+      "gas:candidate-vibid:4784007196329": 98,
+      "gas:candidate-vibid:4784007196555": 9,
+      "gas:candidate-vibid:4784007196223": 22,
+      "gas:candidate-vibid:4784007196445": 28,
+      "gas:candidate-vibid:4784007196051": 63,
+      "gas:candidate-vibid:4784007196360": 84,
+      "gas:candidate-vibid:4784007196154": 48
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/st-petersburg?action=show&root=1000279&tvd=2782000678281&vrn=100100067795849&region=78&global=&sub_region=78&prver=0&pronetvd=null&vibid=2782000678281&type=464",
@@ -7607,17 +7607,17 @@ export const duma_2016_uik_463_region_78_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Амосов Михаил Иванович": 116,
-      "Гатчин Юрий Арменакович": 98,
-      "Докторов Иван Евгеньевич": 16,
-      "Драпеко Елена Григорьевна": 277,
-      "Комолова Ирина Игоревна": 77,
-      "Конторин Михаил Владимирович": 4,
-      "Панюта Ольга Николаевна": 15,
-      "Петров Андрей Николаевич": 31,
-      "Пивоваров Андрей Сергеевич": 30,
-      "Тратников Егор Иванович": 105,
-      "Туркин Федор Олегович": 39
+      "gas:candidate-vibid:4784007196421": 116,
+      "gas:candidate-vibid:4784007196096": 98,
+      "gas:candidate-vibid:4784007196397": 16,
+      "gas:candidate-vibid:4784007195952": 277,
+      "gas:candidate-vibid:4784007196329": 77,
+      "gas:candidate-vibid:4784007196555": 4,
+      "gas:candidate-vibid:4784007196223": 15,
+      "gas:candidate-vibid:4784007196445": 31,
+      "gas:candidate-vibid:4784007196051": 30,
+      "gas:candidate-vibid:4784007196360": 105,
+      "gas:candidate-vibid:4784007196154": 39
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/st-petersburg?action=show&root=1000279&tvd=2782000678281&vrn=100100067795849&region=78&global=&sub_region=78&prver=0&pronetvd=null&vibid=2782000678281&type=464",
@@ -7668,17 +7668,17 @@ export const duma_2016_uik_463_region_78_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Амосов Михаил Иванович": 115,
-      "Гатчин Юрий Арменакович": 109,
-      "Докторов Иван Евгеньевич": 15,
-      "Драпеко Елена Григорьевна": 299,
-      "Комолова Ирина Игоревна": 109,
-      "Конторин Михаил Владимирович": 6,
-      "Панюта Ольга Николаевна": 16,
-      "Петров Андрей Николаевич": 27,
-      "Пивоваров Андрей Сергеевич": 39,
-      "Тратников Егор Иванович": 131,
-      "Туркин Федор Олегович": 41
+      "gas:candidate-vibid:4784007196421": 115,
+      "gas:candidate-vibid:4784007196096": 109,
+      "gas:candidate-vibid:4784007196397": 15,
+      "gas:candidate-vibid:4784007195952": 299,
+      "gas:candidate-vibid:4784007196329": 109,
+      "gas:candidate-vibid:4784007196555": 6,
+      "gas:candidate-vibid:4784007196223": 16,
+      "gas:candidate-vibid:4784007196445": 27,
+      "gas:candidate-vibid:4784007196051": 39,
+      "gas:candidate-vibid:4784007196360": 131,
+      "gas:candidate-vibid:4784007196154": 41
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/st-petersburg?action=show&root=1000279&tvd=2782000678281&vrn=100100067795849&region=78&global=&sub_region=78&prver=0&pronetvd=null&vibid=2782000678281&type=464",
@@ -7729,17 +7729,17 @@ export const duma_2016_uik_463_region_78_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Амосов Михаил Иванович": 112,
-      "Гатчин Юрий Арменакович": 102,
-      "Докторов Иван Евгеньевич": 12,
-      "Драпеко Елена Григорьевна": 273,
-      "Комолова Ирина Игоревна": 81,
-      "Конторин Михаил Владимирович": 3,
-      "Панюта Ольга Николаевна": 17,
-      "Петров Андрей Николаевич": 29,
-      "Пивоваров Андрей Сергеевич": 28,
-      "Тратников Егор Иванович": 97,
-      "Туркин Федор Олегович": 30
+      "gas:candidate-vibid:4784007196421": 112,
+      "gas:candidate-vibid:4784007196096": 102,
+      "gas:candidate-vibid:4784007196397": 12,
+      "gas:candidate-vibid:4784007195952": 273,
+      "gas:candidate-vibid:4784007196329": 81,
+      "gas:candidate-vibid:4784007196555": 3,
+      "gas:candidate-vibid:4784007196223": 17,
+      "gas:candidate-vibid:4784007196445": 29,
+      "gas:candidate-vibid:4784007196051": 28,
+      "gas:candidate-vibid:4784007196360": 97,
+      "gas:candidate-vibid:4784007196154": 30
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/st-petersburg?action=show&root=1000279&tvd=2782000678281&vrn=100100067795849&region=78&global=&sub_region=78&prver=0&pronetvd=null&vibid=2782000678281&type=464",
@@ -7790,17 +7790,17 @@ export const duma_2016_uik_463_region_78_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Амосов Михаил Иванович": 8,
-      "Гатчин Юрий Арменакович": 8,
-      "Докторов Иван Евгеньевич": 1,
-      "Драпеко Елена Григорьевна": 28,
-      "Комолова Ирина Игоревна": 5,
-      "Конторин Михаил Владимирович": 0,
-      "Панюта Ольга Николаевна": 4,
-      "Петров Андрей Николаевич": 2,
-      "Пивоваров Андрей Сергеевич": 0,
-      "Тратников Егор Иванович": 7,
-      "Туркин Федор Олегович": 1
+      "gas:candidate-vibid:4784007196421": 8,
+      "gas:candidate-vibid:4784007196096": 8,
+      "gas:candidate-vibid:4784007196397": 1,
+      "gas:candidate-vibid:4784007195952": 28,
+      "gas:candidate-vibid:4784007196329": 5,
+      "gas:candidate-vibid:4784007196555": 0,
+      "gas:candidate-vibid:4784007196223": 4,
+      "gas:candidate-vibid:4784007196445": 2,
+      "gas:candidate-vibid:4784007196051": 0,
+      "gas:candidate-vibid:4784007196360": 7,
+      "gas:candidate-vibid:4784007196154": 1
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/st-petersburg?action=show&root=1000279&tvd=2782000678281&vrn=100100067795849&region=78&global=&sub_region=78&prver=0&pronetvd=null&vibid=2782000678281&type=464",
@@ -7851,17 +7851,17 @@ export const duma_2016_uik_463_region_78_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Амосов Михаил Иванович": 11,
-      "Гатчин Юрий Арменакович": 11,
-      "Докторов Иван Евгеньевич": 1,
-      "Драпеко Елена Григорьевна": 31,
-      "Комолова Ирина Игоревна": 9,
-      "Конторин Михаил Владимирович": 0,
-      "Панюта Ольга Николаевна": 1,
-      "Петров Андрей Николаевич": 0,
-      "Пивоваров Андрей Сергеевич": 2,
-      "Тратников Егор Иванович": 11,
-      "Туркин Федор Олегович": 5
+      "gas:candidate-vibid:4784007196421": 11,
+      "gas:candidate-vibid:4784007196096": 11,
+      "gas:candidate-vibid:4784007196397": 1,
+      "gas:candidate-vibid:4784007195952": 31,
+      "gas:candidate-vibid:4784007196329": 9,
+      "gas:candidate-vibid:4784007196555": 0,
+      "gas:candidate-vibid:4784007196223": 1,
+      "gas:candidate-vibid:4784007196445": 0,
+      "gas:candidate-vibid:4784007196051": 2,
+      "gas:candidate-vibid:4784007196360": 11,
+      "gas:candidate-vibid:4784007196154": 5
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/st-petersburg?action=show&root=1000279&tvd=2782000678281&vrn=100100067795849&region=78&global=&sub_region=78&prver=0&pronetvd=null&vibid=2782000678281&type=464",
@@ -7912,17 +7912,17 @@ export const duma_2016_uik_463_region_78_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Амосов Михаил Иванович": 151,
-      "Гатчин Юрий Арменакович": 237,
-      "Докторов Иван Евгеньевич": 66,
-      "Драпеко Елена Григорьевна": 1798,
-      "Комолова Ирина Игоревна": 98,
-      "Конторин Михаил Владимирович": 42,
-      "Панюта Ольга Николаевна": 81,
-      "Петров Андрей Николаевич": 74,
-      "Пивоваров Андрей Сергеевич": 49,
-      "Тратников Егор Иванович": 182,
-      "Туркин Федор Олегович": 109
+      "gas:candidate-vibid:4784007196421": 151,
+      "gas:candidate-vibid:4784007196096": 237,
+      "gas:candidate-vibid:4784007196397": 66,
+      "gas:candidate-vibid:4784007195952": 1798,
+      "gas:candidate-vibid:4784007196329": 98,
+      "gas:candidate-vibid:4784007196555": 42,
+      "gas:candidate-vibid:4784007196223": 81,
+      "gas:candidate-vibid:4784007196445": 74,
+      "gas:candidate-vibid:4784007196051": 49,
+      "gas:candidate-vibid:4784007196360": 182,
+      "gas:candidate-vibid:4784007196154": 109
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/st-petersburg?action=show&root=1000279&tvd=2782000678281&vrn=100100067795849&region=78&global=&sub_region=78&prver=0&pronetvd=null&vibid=2782000678281&type=464",
@@ -7973,17 +7973,17 @@ export const duma_2016_uik_463_region_78_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Амосов Михаил Иванович": 10,
-      "Гатчин Юрий Арменакович": 23,
-      "Докторов Иван Евгеньевич": 1,
-      "Драпеко Елена Григорьевна": 83,
-      "Комолова Ирина Игоревна": 17,
-      "Конторин Михаил Владимирович": 0,
-      "Панюта Ольга Николаевна": 10,
-      "Петров Андрей Николаевич": 8,
-      "Пивоваров Андрей Сергеевич": 11,
-      "Тратников Егор Иванович": 22,
-      "Туркин Федор Олегович": 18
+      "gas:candidate-vibid:4784007196421": 10,
+      "gas:candidate-vibid:4784007196096": 23,
+      "gas:candidate-vibid:4784007196397": 1,
+      "gas:candidate-vibid:4784007195952": 83,
+      "gas:candidate-vibid:4784007196329": 17,
+      "gas:candidate-vibid:4784007196555": 0,
+      "gas:candidate-vibid:4784007196223": 10,
+      "gas:candidate-vibid:4784007196445": 8,
+      "gas:candidate-vibid:4784007196051": 11,
+      "gas:candidate-vibid:4784007196360": 22,
+      "gas:candidate-vibid:4784007196154": 18
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/st-petersburg?action=show&root=1000279&tvd=2782000678282&vrn=100100067795849&region=78&global=&sub_region=78&prver=0&pronetvd=null&vibid=2782000678282&type=464",
@@ -8034,17 +8034,17 @@ export const duma_2016_uik_463_region_78_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Амосов Михаил Иванович": 23,
-      "Гатчин Юрий Арменакович": 54,
-      "Докторов Иван Евгеньевич": 10,
-      "Драпеко Елена Григорьевна": 173,
-      "Комолова Ирина Игоревна": 30,
-      "Конторин Михаил Владимирович": 1,
-      "Панюта Ольга Николаевна": 16,
-      "Петров Андрей Николаевич": 14,
-      "Пивоваров Андрей Сергеевич": 13,
-      "Тратников Егор Иванович": 43,
-      "Туркин Федор Олегович": 31
+      "gas:candidate-vibid:4784007196421": 23,
+      "gas:candidate-vibid:4784007196096": 54,
+      "gas:candidate-vibid:4784007196397": 10,
+      "gas:candidate-vibid:4784007195952": 173,
+      "gas:candidate-vibid:4784007196329": 30,
+      "gas:candidate-vibid:4784007196555": 1,
+      "gas:candidate-vibid:4784007196223": 16,
+      "gas:candidate-vibid:4784007196445": 14,
+      "gas:candidate-vibid:4784007196051": 13,
+      "gas:candidate-vibid:4784007196360": 43,
+      "gas:candidate-vibid:4784007196154": 31
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/st-petersburg?action=show&root=1000279&tvd=2782000678282&vrn=100100067795849&region=78&global=&sub_region=78&prver=0&pronetvd=null&vibid=2782000678282&type=464",
@@ -8095,17 +8095,17 @@ export const duma_2016_uik_463_region_78_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Амосов Михаил Иванович": 98,
-      "Гатчин Юрий Арменакович": 56,
-      "Докторов Иван Евгеньевич": 11,
-      "Драпеко Елена Григорьевна": 272,
-      "Комолова Ирина Игоревна": 86,
-      "Конторин Михаил Владимирович": 3,
-      "Панюта Ольга Николаевна": 16,
-      "Петров Андрей Николаевич": 18,
-      "Пивоваров Андрей Сергеевич": 35,
-      "Тратников Егор Иванович": 73,
-      "Туркин Федор Олегович": 35
+      "gas:candidate-vibid:4784007196421": 98,
+      "gas:candidate-vibid:4784007196096": 56,
+      "gas:candidate-vibid:4784007196397": 11,
+      "gas:candidate-vibid:4784007195952": 272,
+      "gas:candidate-vibid:4784007196329": 86,
+      "gas:candidate-vibid:4784007196555": 3,
+      "gas:candidate-vibid:4784007196223": 16,
+      "gas:candidate-vibid:4784007196445": 18,
+      "gas:candidate-vibid:4784007196051": 35,
+      "gas:candidate-vibid:4784007196360": 73,
+      "gas:candidate-vibid:4784007196154": 35
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/st-petersburg?action=show&root=1000279&tvd=2782000678282&vrn=100100067795849&region=78&global=&sub_region=78&prver=0&pronetvd=null&vibid=2782000678282&type=464",
@@ -8156,17 +8156,17 @@ export const duma_2016_uik_463_region_78_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Амосов Михаил Иванович": 68,
-      "Гатчин Юрий Арменакович": 65,
-      "Докторов Иван Евгеньевич": 7,
-      "Драпеко Елена Григорьевна": 228,
-      "Комолова Ирина Игоревна": 74,
-      "Конторин Михаил Владимирович": 1,
-      "Панюта Ольга Николаевна": 10,
-      "Петров Андрей Николаевич": 23,
-      "Пивоваров Андрей Сергеевич": 19,
-      "Тратников Егор Иванович": 72,
-      "Туркин Федор Олегович": 26
+      "gas:candidate-vibid:4784007196421": 68,
+      "gas:candidate-vibid:4784007196096": 65,
+      "gas:candidate-vibid:4784007196397": 7,
+      "gas:candidate-vibid:4784007195952": 228,
+      "gas:candidate-vibid:4784007196329": 74,
+      "gas:candidate-vibid:4784007196555": 1,
+      "gas:candidate-vibid:4784007196223": 10,
+      "gas:candidate-vibid:4784007196445": 23,
+      "gas:candidate-vibid:4784007196051": 19,
+      "gas:candidate-vibid:4784007196360": 72,
+      "gas:candidate-vibid:4784007196154": 26
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/st-petersburg?action=show&root=1000279&tvd=2782000678282&vrn=100100067795849&region=78&global=&sub_region=78&prver=0&pronetvd=null&vibid=2782000678282&type=464",
@@ -8217,17 +8217,17 @@ export const duma_2016_uik_463_region_78_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Амосов Михаил Иванович": 83,
-      "Гатчин Юрий Арменакович": 69,
-      "Докторов Иван Евгеньевич": 6,
-      "Драпеко Елена Григорьевна": 258,
-      "Комолова Ирина Игоревна": 69,
-      "Конторин Михаил Владимирович": 5,
-      "Панюта Ольга Николаевна": 21,
-      "Петров Андрей Николаевич": 32,
-      "Пивоваров Андрей Сергеевич": 25,
-      "Тратников Егор Иванович": 77,
-      "Туркин Федор Олегович": 36
+      "gas:candidate-vibid:4784007196421": 83,
+      "gas:candidate-vibid:4784007196096": 69,
+      "gas:candidate-vibid:4784007196397": 6,
+      "gas:candidate-vibid:4784007195952": 258,
+      "gas:candidate-vibid:4784007196329": 69,
+      "gas:candidate-vibid:4784007196555": 5,
+      "gas:candidate-vibid:4784007196223": 21,
+      "gas:candidate-vibid:4784007196445": 32,
+      "gas:candidate-vibid:4784007196051": 25,
+      "gas:candidate-vibid:4784007196360": 77,
+      "gas:candidate-vibid:4784007196154": 36
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/st-petersburg?action=show&root=1000279&tvd=2782000678282&vrn=100100067795849&region=78&global=&sub_region=78&prver=0&pronetvd=null&vibid=2782000678282&type=464",
@@ -8278,17 +8278,17 @@ export const duma_2016_uik_463_region_78_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Амосов Михаил Иванович": 113,
-      "Гатчин Юрий Арменакович": 71,
-      "Докторов Иван Евгеньевич": 7,
-      "Драпеко Елена Григорьевна": 202,
-      "Комолова Ирина Игоревна": 75,
-      "Конторин Михаил Владимирович": 0,
-      "Панюта Ольга Николаевна": 10,
-      "Петров Андрей Николаевич": 21,
-      "Пивоваров Андрей Сергеевич": 38,
-      "Тратников Егор Иванович": 66,
-      "Туркин Федор Олегович": 33
+      "gas:candidate-vibid:4784007196421": 113,
+      "gas:candidate-vibid:4784007196096": 71,
+      "gas:candidate-vibid:4784007196397": 7,
+      "gas:candidate-vibid:4784007195952": 202,
+      "gas:candidate-vibid:4784007196329": 75,
+      "gas:candidate-vibid:4784007196555": 0,
+      "gas:candidate-vibid:4784007196223": 10,
+      "gas:candidate-vibid:4784007196445": 21,
+      "gas:candidate-vibid:4784007196051": 38,
+      "gas:candidate-vibid:4784007196360": 66,
+      "gas:candidate-vibid:4784007196154": 33
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/st-petersburg?action=show&root=1000279&tvd=2782000678282&vrn=100100067795849&region=78&global=&sub_region=78&prver=0&pronetvd=null&vibid=2782000678282&type=464",
@@ -8339,17 +8339,17 @@ export const duma_2016_uik_463_region_78_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Амосов Михаил Иванович": 78,
-      "Гатчин Юрий Арменакович": 81,
-      "Докторов Иван Евгеньевич": 13,
-      "Драпеко Елена Григорьевна": 229,
-      "Комолова Ирина Игоревна": 74,
-      "Конторин Михаил Владимирович": 10,
-      "Панюта Ольга Николаевна": 26,
-      "Петров Андрей Николаевич": 21,
-      "Пивоваров Андрей Сергеевич": 25,
-      "Тратников Егор Иванович": 84,
-      "Туркин Федор Олегович": 22
+      "gas:candidate-vibid:4784007196421": 78,
+      "gas:candidate-vibid:4784007196096": 81,
+      "gas:candidate-vibid:4784007196397": 13,
+      "gas:candidate-vibid:4784007195952": 229,
+      "gas:candidate-vibid:4784007196329": 74,
+      "gas:candidate-vibid:4784007196555": 10,
+      "gas:candidate-vibid:4784007196223": 26,
+      "gas:candidate-vibid:4784007196445": 21,
+      "gas:candidate-vibid:4784007196051": 25,
+      "gas:candidate-vibid:4784007196360": 84,
+      "gas:candidate-vibid:4784007196154": 22
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/st-petersburg?action=show&root=1000279&tvd=2782000678282&vrn=100100067795849&region=78&global=&sub_region=78&prver=0&pronetvd=null&vibid=2782000678282&type=464",
@@ -8400,17 +8400,17 @@ export const duma_2016_uik_463_region_78_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Амосов Михаил Иванович": 48,
-      "Гатчин Юрий Арменакович": 54,
-      "Докторов Иван Евгеньевич": 7,
-      "Драпеко Елена Григорьевна": 212,
-      "Комолова Ирина Игоревна": 39,
-      "Конторин Михаил Владимирович": 4,
-      "Панюта Ольга Николаевна": 24,
-      "Петров Андрей Николаевич": 10,
-      "Пивоваров Андрей Сергеевич": 13,
-      "Тратников Егор Иванович": 72,
-      "Туркин Федор Олегович": 28
+      "gas:candidate-vibid:4784007196421": 48,
+      "gas:candidate-vibid:4784007196096": 54,
+      "gas:candidate-vibid:4784007196397": 7,
+      "gas:candidate-vibid:4784007195952": 212,
+      "gas:candidate-vibid:4784007196329": 39,
+      "gas:candidate-vibid:4784007196555": 4,
+      "gas:candidate-vibid:4784007196223": 24,
+      "gas:candidate-vibid:4784007196445": 10,
+      "gas:candidate-vibid:4784007196051": 13,
+      "gas:candidate-vibid:4784007196360": 72,
+      "gas:candidate-vibid:4784007196154": 28
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/st-petersburg?action=show&root=1000279&tvd=2782000678282&vrn=100100067795849&region=78&global=&sub_region=78&prver=0&pronetvd=null&vibid=2782000678282&type=464",
@@ -8461,17 +8461,17 @@ export const duma_2016_uik_463_region_78_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Амосов Михаил Иванович": 76,
-      "Гатчин Юрий Арменакович": 83,
-      "Докторов Иван Евгеньевич": 8,
-      "Драпеко Елена Григорьевна": 240,
-      "Комолова Ирина Игоревна": 64,
-      "Конторин Михаил Владимирович": 2,
-      "Панюта Ольга Николаевна": 16,
-      "Петров Андрей Николаевич": 21,
-      "Пивоваров Андрей Сергеевич": 30,
-      "Тратников Егор Иванович": 73,
-      "Туркин Федор Олегович": 32
+      "gas:candidate-vibid:4784007196421": 76,
+      "gas:candidate-vibid:4784007196096": 83,
+      "gas:candidate-vibid:4784007196397": 8,
+      "gas:candidate-vibid:4784007195952": 240,
+      "gas:candidate-vibid:4784007196329": 64,
+      "gas:candidate-vibid:4784007196555": 2,
+      "gas:candidate-vibid:4784007196223": 16,
+      "gas:candidate-vibid:4784007196445": 21,
+      "gas:candidate-vibid:4784007196051": 30,
+      "gas:candidate-vibid:4784007196360": 73,
+      "gas:candidate-vibid:4784007196154": 32
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/st-petersburg?action=show&root=1000279&tvd=2782000678282&vrn=100100067795849&region=78&global=&sub_region=78&prver=0&pronetvd=null&vibid=2782000678282&type=464",
@@ -8522,17 +8522,17 @@ export const duma_2016_uik_463_region_78_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Амосов Михаил Иванович": 63,
-      "Гатчин Юрий Арменакович": 58,
-      "Докторов Иван Евгеньевич": 10,
-      "Драпеко Елена Григорьевна": 212,
-      "Комолова Ирина Игоревна": 53,
-      "Конторин Михаил Владимирович": 5,
-      "Панюта Ольга Николаевна": 10,
-      "Петров Андрей Николаевич": 17,
-      "Пивоваров Андрей Сергеевич": 16,
-      "Тратников Егор Иванович": 49,
-      "Туркин Федор Олегович": 23
+      "gas:candidate-vibid:4784007196421": 63,
+      "gas:candidate-vibid:4784007196096": 58,
+      "gas:candidate-vibid:4784007196397": 10,
+      "gas:candidate-vibid:4784007195952": 212,
+      "gas:candidate-vibid:4784007196329": 53,
+      "gas:candidate-vibid:4784007196555": 5,
+      "gas:candidate-vibid:4784007196223": 10,
+      "gas:candidate-vibid:4784007196445": 17,
+      "gas:candidate-vibid:4784007196051": 16,
+      "gas:candidate-vibid:4784007196360": 49,
+      "gas:candidate-vibid:4784007196154": 23
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/st-petersburg?action=show&root=1000279&tvd=2782000678282&vrn=100100067795849&region=78&global=&sub_region=78&prver=0&pronetvd=null&vibid=2782000678282&type=464",
@@ -8583,17 +8583,17 @@ export const duma_2016_uik_463_region_78_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Амосов Михаил Иванович": 55,
-      "Гатчин Юрий Арменакович": 63,
-      "Докторов Иван Евгеньевич": 16,
-      "Драпеко Елена Григорьевна": 210,
-      "Комолова Ирина Игоревна": 58,
-      "Конторин Михаил Владимирович": 3,
-      "Панюта Ольга Николаевна": 14,
-      "Петров Андрей Николаевич": 26,
-      "Пивоваров Андрей Сергеевич": 17,
-      "Тратников Егор Иванович": 43,
-      "Туркин Федор Олегович": 37
+      "gas:candidate-vibid:4784007196421": 55,
+      "gas:candidate-vibid:4784007196096": 63,
+      "gas:candidate-vibid:4784007196397": 16,
+      "gas:candidate-vibid:4784007195952": 210,
+      "gas:candidate-vibid:4784007196329": 58,
+      "gas:candidate-vibid:4784007196555": 3,
+      "gas:candidate-vibid:4784007196223": 14,
+      "gas:candidate-vibid:4784007196445": 26,
+      "gas:candidate-vibid:4784007196051": 17,
+      "gas:candidate-vibid:4784007196360": 43,
+      "gas:candidate-vibid:4784007196154": 37
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/st-petersburg?action=show&root=1000279&tvd=2782000678282&vrn=100100067795849&region=78&global=&sub_region=78&prver=0&pronetvd=null&vibid=2782000678282&type=464",
@@ -8644,17 +8644,17 @@ export const duma_2016_uik_463_region_78_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Амосов Михаил Иванович": 72,
-      "Гатчин Юрий Арменакович": 65,
-      "Докторов Иван Евгеньевич": 5,
-      "Драпеко Елена Григорьевна": 252,
-      "Комолова Ирина Игоревна": 81,
-      "Конторин Михаил Владимирович": 3,
-      "Панюта Ольга Николаевна": 8,
-      "Петров Андрей Николаевич": 17,
-      "Пивоваров Андрей Сергеевич": 19,
-      "Тратников Егор Иванович": 65,
-      "Туркин Федор Олегович": 27
+      "gas:candidate-vibid:4784007196421": 72,
+      "gas:candidate-vibid:4784007196096": 65,
+      "gas:candidate-vibid:4784007196397": 5,
+      "gas:candidate-vibid:4784007195952": 252,
+      "gas:candidate-vibid:4784007196329": 81,
+      "gas:candidate-vibid:4784007196555": 3,
+      "gas:candidate-vibid:4784007196223": 8,
+      "gas:candidate-vibid:4784007196445": 17,
+      "gas:candidate-vibid:4784007196051": 19,
+      "gas:candidate-vibid:4784007196360": 65,
+      "gas:candidate-vibid:4784007196154": 27
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/st-petersburg?action=show&root=1000279&tvd=2782000678282&vrn=100100067795849&region=78&global=&sub_region=78&prver=0&pronetvd=null&vibid=2782000678282&type=464",
@@ -8705,17 +8705,17 @@ export const duma_2016_uik_463_region_78_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Амосов Михаил Иванович": 72,
-      "Гатчин Юрий Арменакович": 61,
-      "Докторов Иван Евгеньевич": 8,
-      "Драпеко Елена Григорьевна": 221,
-      "Комолова Ирина Игоревна": 73,
-      "Конторин Михаил Владимирович": 4,
-      "Панюта Ольга Николаевна": 15,
-      "Петров Андрей Николаевич": 9,
-      "Пивоваров Андрей Сергеевич": 13,
-      "Тратников Егор Иванович": 52,
-      "Туркин Федор Олегович": 41
+      "gas:candidate-vibid:4784007196421": 72,
+      "gas:candidate-vibid:4784007196096": 61,
+      "gas:candidate-vibid:4784007196397": 8,
+      "gas:candidate-vibid:4784007195952": 221,
+      "gas:candidate-vibid:4784007196329": 73,
+      "gas:candidate-vibid:4784007196555": 4,
+      "gas:candidate-vibid:4784007196223": 15,
+      "gas:candidate-vibid:4784007196445": 9,
+      "gas:candidate-vibid:4784007196051": 13,
+      "gas:candidate-vibid:4784007196360": 52,
+      "gas:candidate-vibid:4784007196154": 41
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/st-petersburg?action=show&root=1000279&tvd=2782000678282&vrn=100100067795849&region=78&global=&sub_region=78&prver=0&pronetvd=null&vibid=2782000678282&type=464",
@@ -8766,17 +8766,17 @@ export const duma_2016_uik_463_region_78_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Амосов Михаил Иванович": 73,
-      "Гатчин Юрий Арменакович": 60,
-      "Докторов Иван Евгеньевич": 9,
-      "Драпеко Елена Григорьевна": 225,
-      "Комолова Ирина Игоревна": 63,
-      "Конторин Михаил Владимирович": 2,
-      "Панюта Ольга Николаевна": 12,
-      "Петров Андрей Николаевич": 16,
-      "Пивоваров Андрей Сергеевич": 17,
-      "Тратников Егор Иванович": 53,
-      "Туркин Федор Олегович": 28
+      "gas:candidate-vibid:4784007196421": 73,
+      "gas:candidate-vibid:4784007196096": 60,
+      "gas:candidate-vibid:4784007196397": 9,
+      "gas:candidate-vibid:4784007195952": 225,
+      "gas:candidate-vibid:4784007196329": 63,
+      "gas:candidate-vibid:4784007196555": 2,
+      "gas:candidate-vibid:4784007196223": 12,
+      "gas:candidate-vibid:4784007196445": 16,
+      "gas:candidate-vibid:4784007196051": 17,
+      "gas:candidate-vibid:4784007196360": 53,
+      "gas:candidate-vibid:4784007196154": 28
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/st-petersburg?action=show&root=1000279&tvd=2782000678282&vrn=100100067795849&region=78&global=&sub_region=78&prver=0&pronetvd=null&vibid=2782000678282&type=464",
@@ -8827,17 +8827,17 @@ export const duma_2016_uik_463_region_78_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Амосов Михаил Иванович": 61,
-      "Гатчин Юрий Арменакович": 84,
-      "Докторов Иван Евгеньевич": 10,
-      "Драпеко Елена Григорьевна": 239,
-      "Комолова Ирина Игоревна": 59,
-      "Конторин Михаил Владимирович": 2,
-      "Панюта Ольга Николаевна": 17,
-      "Петров Андрей Николаевич": 24,
-      "Пивоваров Андрей Сергеевич": 25,
-      "Тратников Егор Иванович": 58,
-      "Туркин Федор Олегович": 28
+      "gas:candidate-vibid:4784007196421": 61,
+      "gas:candidate-vibid:4784007196096": 84,
+      "gas:candidate-vibid:4784007196397": 10,
+      "gas:candidate-vibid:4784007195952": 239,
+      "gas:candidate-vibid:4784007196329": 59,
+      "gas:candidate-vibid:4784007196555": 2,
+      "gas:candidate-vibid:4784007196223": 17,
+      "gas:candidate-vibid:4784007196445": 24,
+      "gas:candidate-vibid:4784007196051": 25,
+      "gas:candidate-vibid:4784007196360": 58,
+      "gas:candidate-vibid:4784007196154": 28
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/st-petersburg?action=show&root=1000279&tvd=2782000678282&vrn=100100067795849&region=78&global=&sub_region=78&prver=0&pronetvd=null&vibid=2782000678282&type=464",
@@ -8888,17 +8888,17 @@ export const duma_2016_uik_463_region_78_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Амосов Михаил Иванович": 46,
-      "Гатчин Юрий Арменакович": 66,
-      "Докторов Иван Евгеньевич": 6,
-      "Драпеко Елена Григорьевна": 171,
-      "Комолова Ирина Игоревна": 45,
-      "Конторин Михаил Владимирович": 3,
-      "Панюта Ольга Николаевна": 13,
-      "Петров Андрей Николаевич": 13,
-      "Пивоваров Андрей Сергеевич": 15,
-      "Тратников Егор Иванович": 42,
-      "Туркин Федор Олегович": 20
+      "gas:candidate-vibid:4784007196421": 46,
+      "gas:candidate-vibid:4784007196096": 66,
+      "gas:candidate-vibid:4784007196397": 6,
+      "gas:candidate-vibid:4784007195952": 171,
+      "gas:candidate-vibid:4784007196329": 45,
+      "gas:candidate-vibid:4784007196555": 3,
+      "gas:candidate-vibid:4784007196223": 13,
+      "gas:candidate-vibid:4784007196445": 13,
+      "gas:candidate-vibid:4784007196051": 15,
+      "gas:candidate-vibid:4784007196360": 42,
+      "gas:candidate-vibid:4784007196154": 20
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/st-petersburg?action=show&root=1000279&tvd=2782000678282&vrn=100100067795849&region=78&global=&sub_region=78&prver=0&pronetvd=null&vibid=2782000678282&type=464",
@@ -8949,17 +8949,17 @@ export const duma_2016_uik_463_region_78_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Амосов Михаил Иванович": 95,
-      "Гатчин Юрий Арменакович": 67,
-      "Докторов Иван Евгеньевич": 13,
-      "Драпеко Елена Григорьевна": 216,
-      "Комолова Ирина Игоревна": 73,
-      "Конторин Михаил Владимирович": 1,
-      "Панюта Ольга Николаевна": 10,
-      "Петров Андрей Николаевич": 26,
-      "Пивоваров Андрей Сергеевич": 16,
-      "Тратников Егор Иванович": 55,
-      "Туркин Федор Олегович": 27
+      "gas:candidate-vibid:4784007196421": 95,
+      "gas:candidate-vibid:4784007196096": 67,
+      "gas:candidate-vibid:4784007196397": 13,
+      "gas:candidate-vibid:4784007195952": 216,
+      "gas:candidate-vibid:4784007196329": 73,
+      "gas:candidate-vibid:4784007196555": 1,
+      "gas:candidate-vibid:4784007196223": 10,
+      "gas:candidate-vibid:4784007196445": 26,
+      "gas:candidate-vibid:4784007196051": 16,
+      "gas:candidate-vibid:4784007196360": 55,
+      "gas:candidate-vibid:4784007196154": 27
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/st-petersburg?action=show&root=1000279&tvd=2782000678282&vrn=100100067795849&region=78&global=&sub_region=78&prver=0&pronetvd=null&vibid=2782000678282&type=464",
@@ -9010,17 +9010,17 @@ export const duma_2016_uik_463_region_78_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Амосов Михаил Иванович": 63,
-      "Гатчин Юрий Арменакович": 58,
-      "Докторов Иван Евгеньевич": 6,
-      "Драпеко Елена Григорьевна": 211,
-      "Комолова Ирина Игоревна": 80,
-      "Конторин Михаил Владимирович": 1,
-      "Панюта Ольга Николаевна": 11,
-      "Петров Андрей Николаевич": 25,
-      "Пивоваров Андрей Сергеевич": 19,
-      "Тратников Егор Иванович": 40,
-      "Туркин Федор Олегович": 37
+      "gas:candidate-vibid:4784007196421": 63,
+      "gas:candidate-vibid:4784007196096": 58,
+      "gas:candidate-vibid:4784007196397": 6,
+      "gas:candidate-vibid:4784007195952": 211,
+      "gas:candidate-vibid:4784007196329": 80,
+      "gas:candidate-vibid:4784007196555": 1,
+      "gas:candidate-vibid:4784007196223": 11,
+      "gas:candidate-vibid:4784007196445": 25,
+      "gas:candidate-vibid:4784007196051": 19,
+      "gas:candidate-vibid:4784007196360": 40,
+      "gas:candidate-vibid:4784007196154": 37
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/st-petersburg?action=show&root=1000279&tvd=2782000678282&vrn=100100067795849&region=78&global=&sub_region=78&prver=0&pronetvd=null&vibid=2782000678282&type=464",
@@ -9071,17 +9071,17 @@ export const duma_2016_uik_463_region_78_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Амосов Михаил Иванович": 107,
-      "Гатчин Юрий Арменакович": 78,
-      "Докторов Иван Евгеньевич": 8,
-      "Драпеко Елена Григорьевна": 266,
-      "Комолова Ирина Игоревна": 93,
-      "Конторин Михаил Владимирович": 4,
-      "Панюта Ольга Николаевна": 20,
-      "Петров Андрей Николаевич": 32,
-      "Пивоваров Андрей Сергеевич": 28,
-      "Тратников Егор Иванович": 67,
-      "Туркин Федор Олегович": 38
+      "gas:candidate-vibid:4784007196421": 107,
+      "gas:candidate-vibid:4784007196096": 78,
+      "gas:candidate-vibid:4784007196397": 8,
+      "gas:candidate-vibid:4784007195952": 266,
+      "gas:candidate-vibid:4784007196329": 93,
+      "gas:candidate-vibid:4784007196555": 4,
+      "gas:candidate-vibid:4784007196223": 20,
+      "gas:candidate-vibid:4784007196445": 32,
+      "gas:candidate-vibid:4784007196051": 28,
+      "gas:candidate-vibid:4784007196360": 67,
+      "gas:candidate-vibid:4784007196154": 38
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/st-petersburg?action=show&root=1000279&tvd=2782000678282&vrn=100100067795849&region=78&global=&sub_region=78&prver=0&pronetvd=null&vibid=2782000678282&type=464",
@@ -9132,17 +9132,17 @@ export const duma_2016_uik_463_region_78_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Амосов Михаил Иванович": 64,
-      "Гатчин Юрий Арменакович": 67,
-      "Докторов Иван Евгеньевич": 9,
-      "Драпеко Елена Григорьевна": 202,
-      "Комолова Ирина Игоревна": 59,
-      "Конторин Михаил Владимирович": 2,
-      "Панюта Ольга Николаевна": 9,
-      "Петров Андрей Николаевич": 24,
-      "Пивоваров Андрей Сергеевич": 6,
-      "Тратников Егор Иванович": 52,
-      "Туркин Федор Олегович": 27
+      "gas:candidate-vibid:4784007196421": 64,
+      "gas:candidate-vibid:4784007196096": 67,
+      "gas:candidate-vibid:4784007196397": 9,
+      "gas:candidate-vibid:4784007195952": 202,
+      "gas:candidate-vibid:4784007196329": 59,
+      "gas:candidate-vibid:4784007196555": 2,
+      "gas:candidate-vibid:4784007196223": 9,
+      "gas:candidate-vibid:4784007196445": 24,
+      "gas:candidate-vibid:4784007196051": 6,
+      "gas:candidate-vibid:4784007196360": 52,
+      "gas:candidate-vibid:4784007196154": 27
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/st-petersburg?action=show&root=1000279&tvd=2782000678282&vrn=100100067795849&region=78&global=&sub_region=78&prver=0&pronetvd=null&vibid=2782000678282&type=464",
@@ -9193,17 +9193,17 @@ export const duma_2016_uik_463_region_78_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Амосов Михаил Иванович": 128,
-      "Гатчин Юрий Арменакович": 56,
-      "Докторов Иван Евгеньевич": 7,
-      "Драпеко Елена Григорьевна": 265,
-      "Комолова Ирина Игоревна": 58,
-      "Конторин Михаил Владимирович": 2,
-      "Панюта Ольга Николаевна": 15,
-      "Петров Андрей Николаевич": 22,
-      "Пивоваров Андрей Сергеевич": 24,
-      "Тратников Егор Иванович": 72,
-      "Туркин Федор Олегович": 49
+      "gas:candidate-vibid:4784007196421": 128,
+      "gas:candidate-vibid:4784007196096": 56,
+      "gas:candidate-vibid:4784007196397": 7,
+      "gas:candidate-vibid:4784007195952": 265,
+      "gas:candidate-vibid:4784007196329": 58,
+      "gas:candidate-vibid:4784007196555": 2,
+      "gas:candidate-vibid:4784007196223": 15,
+      "gas:candidate-vibid:4784007196445": 22,
+      "gas:candidate-vibid:4784007196051": 24,
+      "gas:candidate-vibid:4784007196360": 72,
+      "gas:candidate-vibid:4784007196154": 49
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/st-petersburg?action=show&root=1000279&tvd=2782000678282&vrn=100100067795849&region=78&global=&sub_region=78&prver=0&pronetvd=null&vibid=2782000678282&type=464",
@@ -9254,17 +9254,17 @@ export const duma_2016_uik_463_region_78_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Амосов Михаил Иванович": 103,
-      "Гатчин Юрий Арменакович": 73,
-      "Докторов Иван Евгеньевич": 9,
-      "Драпеко Елена Григорьевна": 200,
-      "Комолова Ирина Игоревна": 53,
-      "Конторин Михаил Владимирович": 2,
-      "Панюта Ольга Николаевна": 9,
-      "Петров Андрей Николаевич": 21,
-      "Пивоваров Андрей Сергеевич": 22,
-      "Тратников Егор Иванович": 56,
-      "Туркин Федор Олегович": 32
+      "gas:candidate-vibid:4784007196421": 103,
+      "gas:candidate-vibid:4784007196096": 73,
+      "gas:candidate-vibid:4784007196397": 9,
+      "gas:candidate-vibid:4784007195952": 200,
+      "gas:candidate-vibid:4784007196329": 53,
+      "gas:candidate-vibid:4784007196555": 2,
+      "gas:candidate-vibid:4784007196223": 9,
+      "gas:candidate-vibid:4784007196445": 21,
+      "gas:candidate-vibid:4784007196051": 22,
+      "gas:candidate-vibid:4784007196360": 56,
+      "gas:candidate-vibid:4784007196154": 32
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/st-petersburg?action=show&root=1000279&tvd=2782000678282&vrn=100100067795849&region=78&global=&sub_region=78&prver=0&pronetvd=null&vibid=2782000678282&type=464",
@@ -9315,17 +9315,17 @@ export const duma_2016_uik_463_region_78_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Амосов Михаил Иванович": 87,
-      "Гатчин Юрий Арменакович": 53,
-      "Докторов Иван Евгеньевич": 11,
-      "Драпеко Елена Григорьевна": 218,
-      "Комолова Ирина Игоревна": 91,
-      "Конторин Михаил Владимирович": 3,
-      "Панюта Ольга Николаевна": 13,
-      "Петров Андрей Николаевич": 22,
-      "Пивоваров Андрей Сергеевич": 19,
-      "Тратников Егор Иванович": 74,
-      "Туркин Федор Олегович": 44
+      "gas:candidate-vibid:4784007196421": 87,
+      "gas:candidate-vibid:4784007196096": 53,
+      "gas:candidate-vibid:4784007196397": 11,
+      "gas:candidate-vibid:4784007195952": 218,
+      "gas:candidate-vibid:4784007196329": 91,
+      "gas:candidate-vibid:4784007196555": 3,
+      "gas:candidate-vibid:4784007196223": 13,
+      "gas:candidate-vibid:4784007196445": 22,
+      "gas:candidate-vibid:4784007196051": 19,
+      "gas:candidate-vibid:4784007196360": 74,
+      "gas:candidate-vibid:4784007196154": 44
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/st-petersburg?action=show&root=1000279&tvd=2782000678282&vrn=100100067795849&region=78&global=&sub_region=78&prver=0&pronetvd=null&vibid=2782000678282&type=464",
@@ -9376,17 +9376,17 @@ export const duma_2016_uik_463_region_78_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Амосов Михаил Иванович": 97,
-      "Гатчин Юрий Арменакович": 62,
-      "Докторов Иван Евгеньевич": 3,
-      "Драпеко Елена Григорьевна": 193,
-      "Комолова Ирина Игоревна": 68,
-      "Конторин Михаил Владимирович": 1,
-      "Панюта Ольга Николаевна": 4,
-      "Петров Андрей Николаевич": 21,
-      "Пивоваров Андрей Сергеевич": 22,
-      "Тратников Егор Иванович": 37,
-      "Туркин Федор Олегович": 27
+      "gas:candidate-vibid:4784007196421": 97,
+      "gas:candidate-vibid:4784007196096": 62,
+      "gas:candidate-vibid:4784007196397": 3,
+      "gas:candidate-vibid:4784007195952": 193,
+      "gas:candidate-vibid:4784007196329": 68,
+      "gas:candidate-vibid:4784007196555": 1,
+      "gas:candidate-vibid:4784007196223": 4,
+      "gas:candidate-vibid:4784007196445": 21,
+      "gas:candidate-vibid:4784007196051": 22,
+      "gas:candidate-vibid:4784007196360": 37,
+      "gas:candidate-vibid:4784007196154": 27
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/st-petersburg?action=show&root=1000279&tvd=2782000678282&vrn=100100067795849&region=78&global=&sub_region=78&prver=0&pronetvd=null&vibid=2782000678282&type=464",
@@ -9437,17 +9437,17 @@ export const duma_2016_uik_463_region_78_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Амосов Михаил Иванович": 92,
-      "Гатчин Юрий Арменакович": 59,
-      "Докторов Иван Евгеньевич": 7,
-      "Драпеко Елена Григорьевна": 246,
-      "Комолова Ирина Игоревна": 88,
-      "Конторин Михаил Владимирович": 3,
-      "Панюта Ольга Николаевна": 17,
-      "Петров Андрей Николаевич": 29,
-      "Пивоваров Андрей Сергеевич": 28,
-      "Тратников Егор Иванович": 60,
-      "Туркин Федор Олегович": 44
+      "gas:candidate-vibid:4784007196421": 92,
+      "gas:candidate-vibid:4784007196096": 59,
+      "gas:candidate-vibid:4784007196397": 7,
+      "gas:candidate-vibid:4784007195952": 246,
+      "gas:candidate-vibid:4784007196329": 88,
+      "gas:candidate-vibid:4784007196555": 3,
+      "gas:candidate-vibid:4784007196223": 17,
+      "gas:candidate-vibid:4784007196445": 29,
+      "gas:candidate-vibid:4784007196051": 28,
+      "gas:candidate-vibid:4784007196360": 60,
+      "gas:candidate-vibid:4784007196154": 44
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/st-petersburg?action=show&root=1000279&tvd=2782000678282&vrn=100100067795849&region=78&global=&sub_region=78&prver=0&pronetvd=null&vibid=2782000678282&type=464",
@@ -9498,17 +9498,17 @@ export const duma_2016_uik_463_region_78_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Амосов Михаил Иванович": 147,
-      "Гатчин Юрий Арменакович": 90,
-      "Докторов Иван Евгеньевич": 11,
-      "Драпеко Елена Григорьевна": 262,
-      "Комолова Ирина Игоревна": 83,
-      "Конторин Михаил Владимирович": 3,
-      "Панюта Ольга Николаевна": 15,
-      "Петров Андрей Николаевич": 22,
-      "Пивоваров Андрей Сергеевич": 33,
-      "Тратников Егор Иванович": 44,
-      "Туркин Федор Олегович": 37
+      "gas:candidate-vibid:4784007196421": 147,
+      "gas:candidate-vibid:4784007196096": 90,
+      "gas:candidate-vibid:4784007196397": 11,
+      "gas:candidate-vibid:4784007195952": 262,
+      "gas:candidate-vibid:4784007196329": 83,
+      "gas:candidate-vibid:4784007196555": 3,
+      "gas:candidate-vibid:4784007196223": 15,
+      "gas:candidate-vibid:4784007196445": 22,
+      "gas:candidate-vibid:4784007196051": 33,
+      "gas:candidate-vibid:4784007196360": 44,
+      "gas:candidate-vibid:4784007196154": 37
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/st-petersburg?action=show&root=1000279&tvd=2782000678282&vrn=100100067795849&region=78&global=&sub_region=78&prver=0&pronetvd=null&vibid=2782000678282&type=464",
@@ -9559,17 +9559,17 @@ export const duma_2016_uik_463_region_78_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Амосов Михаил Иванович": 94,
-      "Гатчин Юрий Арменакович": 80,
-      "Докторов Иван Евгеньевич": 7,
-      "Драпеко Елена Григорьевна": 199,
-      "Комолова Ирина Игоревна": 67,
-      "Конторин Михаил Владимирович": 4,
-      "Панюта Ольга Николаевна": 14,
-      "Петров Андрей Николаевич": 20,
-      "Пивоваров Андрей Сергеевич": 18,
-      "Тратников Егор Иванович": 62,
-      "Туркин Федор Олегович": 23
+      "gas:candidate-vibid:4784007196421": 94,
+      "gas:candidate-vibid:4784007196096": 80,
+      "gas:candidate-vibid:4784007196397": 7,
+      "gas:candidate-vibid:4784007195952": 199,
+      "gas:candidate-vibid:4784007196329": 67,
+      "gas:candidate-vibid:4784007196555": 4,
+      "gas:candidate-vibid:4784007196223": 14,
+      "gas:candidate-vibid:4784007196445": 20,
+      "gas:candidate-vibid:4784007196051": 18,
+      "gas:candidate-vibid:4784007196360": 62,
+      "gas:candidate-vibid:4784007196154": 23
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/st-petersburg?action=show&root=1000279&tvd=2782000678282&vrn=100100067795849&region=78&global=&sub_region=78&prver=0&pronetvd=null&vibid=2782000678282&type=464",
@@ -9620,17 +9620,17 @@ export const duma_2016_uik_463_region_78_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Амосов Михаил Иванович": 77,
-      "Гатчин Юрий Арменакович": 40,
-      "Докторов Иван Евгеньевич": 5,
-      "Драпеко Елена Григорьевна": 166,
-      "Комолова Ирина Игоревна": 46,
-      "Конторин Михаил Владимирович": 3,
-      "Панюта Ольга Николаевна": 9,
-      "Петров Андрей Николаевич": 19,
-      "Пивоваров Андрей Сергеевич": 31,
-      "Тратников Егор Иванович": 56,
-      "Туркин Федор Олегович": 29
+      "gas:candidate-vibid:4784007196421": 77,
+      "gas:candidate-vibid:4784007196096": 40,
+      "gas:candidate-vibid:4784007196397": 5,
+      "gas:candidate-vibid:4784007195952": 166,
+      "gas:candidate-vibid:4784007196329": 46,
+      "gas:candidate-vibid:4784007196555": 3,
+      "gas:candidate-vibid:4784007196223": 9,
+      "gas:candidate-vibid:4784007196445": 19,
+      "gas:candidate-vibid:4784007196051": 31,
+      "gas:candidate-vibid:4784007196360": 56,
+      "gas:candidate-vibid:4784007196154": 29
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/st-petersburg?action=show&root=1000279&tvd=2782000678282&vrn=100100067795849&region=78&global=&sub_region=78&prver=0&pronetvd=null&vibid=2782000678282&type=464",
@@ -9681,17 +9681,17 @@ export const duma_2016_uik_463_region_78_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Амосов Михаил Иванович": 69,
-      "Гатчин Юрий Арменакович": 54,
-      "Докторов Иван Евгеньевич": 8,
-      "Драпеко Елена Григорьевна": 216,
-      "Комолова Ирина Игоревна": 56,
-      "Конторин Михаил Владимирович": 1,
-      "Панюта Ольга Николаевна": 16,
-      "Петров Андрей Николаевич": 11,
-      "Пивоваров Андрей Сергеевич": 21,
-      "Тратников Егор Иванович": 65,
-      "Туркин Федор Олегович": 26
+      "gas:candidate-vibid:4784007196421": 69,
+      "gas:candidate-vibid:4784007196096": 54,
+      "gas:candidate-vibid:4784007196397": 8,
+      "gas:candidate-vibid:4784007195952": 216,
+      "gas:candidate-vibid:4784007196329": 56,
+      "gas:candidate-vibid:4784007196555": 1,
+      "gas:candidate-vibid:4784007196223": 16,
+      "gas:candidate-vibid:4784007196445": 11,
+      "gas:candidate-vibid:4784007196051": 21,
+      "gas:candidate-vibid:4784007196360": 65,
+      "gas:candidate-vibid:4784007196154": 26
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/st-petersburg?action=show&root=1000279&tvd=2782000678282&vrn=100100067795849&region=78&global=&sub_region=78&prver=0&pronetvd=null&vibid=2782000678282&type=464",
@@ -9742,17 +9742,17 @@ export const duma_2016_uik_463_region_78_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Амосов Михаил Иванович": 70,
-      "Гатчин Юрий Арменакович": 73,
-      "Докторов Иван Евгеньевич": 8,
-      "Драпеко Елена Григорьевна": 232,
-      "Комолова Ирина Игоревна": 60,
-      "Конторин Михаил Владимирович": 3,
-      "Панюта Ольга Николаевна": 19,
-      "Петров Андрей Николаевич": 23,
-      "Пивоваров Андрей Сергеевич": 21,
-      "Тратников Егор Иванович": 56,
-      "Туркин Федор Олегович": 30
+      "gas:candidate-vibid:4784007196421": 70,
+      "gas:candidate-vibid:4784007196096": 73,
+      "gas:candidate-vibid:4784007196397": 8,
+      "gas:candidate-vibid:4784007195952": 232,
+      "gas:candidate-vibid:4784007196329": 60,
+      "gas:candidate-vibid:4784007196555": 3,
+      "gas:candidate-vibid:4784007196223": 19,
+      "gas:candidate-vibid:4784007196445": 23,
+      "gas:candidate-vibid:4784007196051": 21,
+      "gas:candidate-vibid:4784007196360": 56,
+      "gas:candidate-vibid:4784007196154": 30
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/st-petersburg?action=show&root=1000279&tvd=2782000678282&vrn=100100067795849&region=78&global=&sub_region=78&prver=0&pronetvd=null&vibid=2782000678282&type=464",
@@ -9803,17 +9803,17 @@ export const duma_2016_uik_463_region_78_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Амосов Михаил Иванович": 83,
-      "Гатчин Юрий Арменакович": 63,
-      "Докторов Иван Евгеньевич": 12,
-      "Драпеко Елена Григорьевна": 195,
-      "Комолова Ирина Игоревна": 83,
-      "Конторин Михаил Владимирович": 1,
-      "Панюта Ольга Николаевна": 14,
-      "Петров Андрей Николаевич": 17,
-      "Пивоваров Андрей Сергеевич": 33,
-      "Тратников Егор Иванович": 55,
-      "Туркин Федор Олегович": 40
+      "gas:candidate-vibid:4784007196421": 83,
+      "gas:candidate-vibid:4784007196096": 63,
+      "gas:candidate-vibid:4784007196397": 12,
+      "gas:candidate-vibid:4784007195952": 195,
+      "gas:candidate-vibid:4784007196329": 83,
+      "gas:candidate-vibid:4784007196555": 1,
+      "gas:candidate-vibid:4784007196223": 14,
+      "gas:candidate-vibid:4784007196445": 17,
+      "gas:candidate-vibid:4784007196051": 33,
+      "gas:candidate-vibid:4784007196360": 55,
+      "gas:candidate-vibid:4784007196154": 40
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/st-petersburg?action=show&root=1000279&tvd=2782000678282&vrn=100100067795849&region=78&global=&sub_region=78&prver=0&pronetvd=null&vibid=2782000678282&type=464",
@@ -9864,17 +9864,17 @@ export const duma_2016_uik_463_region_78_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Амосов Михаил Иванович": 77,
-      "Гатчин Юрий Арменакович": 49,
-      "Докторов Иван Евгеньевич": 12,
-      "Драпеко Елена Григорьевна": 221,
-      "Комолова Ирина Игоревна": 68,
-      "Конторин Михаил Владимирович": 4,
-      "Панюта Ольга Николаевна": 12,
-      "Петров Андрей Николаевич": 28,
-      "Пивоваров Андрей Сергеевич": 21,
-      "Тратников Егор Иванович": 53,
-      "Туркин Федор Олегович": 27
+      "gas:candidate-vibid:4784007196421": 77,
+      "gas:candidate-vibid:4784007196096": 49,
+      "gas:candidate-vibid:4784007196397": 12,
+      "gas:candidate-vibid:4784007195952": 221,
+      "gas:candidate-vibid:4784007196329": 68,
+      "gas:candidate-vibid:4784007196555": 4,
+      "gas:candidate-vibid:4784007196223": 12,
+      "gas:candidate-vibid:4784007196445": 28,
+      "gas:candidate-vibid:4784007196051": 21,
+      "gas:candidate-vibid:4784007196360": 53,
+      "gas:candidate-vibid:4784007196154": 27
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/st-petersburg?action=show&root=1000279&tvd=2782000678282&vrn=100100067795849&region=78&global=&sub_region=78&prver=0&pronetvd=null&vibid=2782000678282&type=464",
@@ -9925,17 +9925,17 @@ export const duma_2016_uik_463_region_78_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Амосов Михаил Иванович": 66,
-      "Гатчин Юрий Арменакович": 73,
-      "Докторов Иван Евгеньевич": 11,
-      "Драпеко Елена Григорьевна": 246,
-      "Комолова Ирина Игоревна": 51,
-      "Конторин Михаил Владимирович": 2,
-      "Панюта Ольга Николаевна": 20,
-      "Петров Андрей Николаевич": 20,
-      "Пивоваров Андрей Сергеевич": 20,
-      "Тратников Егор Иванович": 71,
-      "Туркин Федор Олегович": 24
+      "gas:candidate-vibid:4784007196421": 66,
+      "gas:candidate-vibid:4784007196096": 73,
+      "gas:candidate-vibid:4784007196397": 11,
+      "gas:candidate-vibid:4784007195952": 246,
+      "gas:candidate-vibid:4784007196329": 51,
+      "gas:candidate-vibid:4784007196555": 2,
+      "gas:candidate-vibid:4784007196223": 20,
+      "gas:candidate-vibid:4784007196445": 20,
+      "gas:candidate-vibid:4784007196051": 20,
+      "gas:candidate-vibid:4784007196360": 71,
+      "gas:candidate-vibid:4784007196154": 24
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/st-petersburg?action=show&root=1000279&tvd=2782000678282&vrn=100100067795849&region=78&global=&sub_region=78&prver=0&pronetvd=null&vibid=2782000678282&type=464",
@@ -9986,17 +9986,17 @@ export const duma_2016_uik_463_region_78_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Амосов Михаил Иванович": 73,
-      "Гатчин Юрий Арменакович": 59,
-      "Докторов Иван Евгеньевич": 4,
-      "Драпеко Елена Григорьевна": 215,
-      "Комолова Ирина Игоревна": 74,
-      "Конторин Михаил Владимирович": 5,
-      "Панюта Ольга Николаевна": 15,
-      "Петров Андрей Николаевич": 10,
-      "Пивоваров Андрей Сергеевич": 15,
-      "Тратников Егор Иванович": 57,
-      "Туркин Федор Олегович": 20
+      "gas:candidate-vibid:4784007196421": 73,
+      "gas:candidate-vibid:4784007196096": 59,
+      "gas:candidate-vibid:4784007196397": 4,
+      "gas:candidate-vibid:4784007195952": 215,
+      "gas:candidate-vibid:4784007196329": 74,
+      "gas:candidate-vibid:4784007196555": 5,
+      "gas:candidate-vibid:4784007196223": 15,
+      "gas:candidate-vibid:4784007196445": 10,
+      "gas:candidate-vibid:4784007196051": 15,
+      "gas:candidate-vibid:4784007196360": 57,
+      "gas:candidate-vibid:4784007196154": 20
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/st-petersburg?action=show&root=1000279&tvd=2782000678282&vrn=100100067795849&region=78&global=&sub_region=78&prver=0&pronetvd=null&vibid=2782000678282&type=464",
@@ -10047,17 +10047,17 @@ export const duma_2016_uik_463_region_78_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Амосов Михаил Иванович": 48,
-      "Гатчин Юрий Арменакович": 56,
-      "Докторов Иван Евгеньевич": 8,
-      "Драпеко Елена Григорьевна": 209,
-      "Комолова Ирина Игоревна": 50,
-      "Конторин Михаил Владимирович": 2,
-      "Панюта Ольга Николаевна": 20,
-      "Петров Андрей Николаевич": 20,
-      "Пивоваров Андрей Сергеевич": 16,
-      "Тратников Егор Иванович": 71,
-      "Туркин Федор Олегович": 27
+      "gas:candidate-vibid:4784007196421": 48,
+      "gas:candidate-vibid:4784007196096": 56,
+      "gas:candidate-vibid:4784007196397": 8,
+      "gas:candidate-vibid:4784007195952": 209,
+      "gas:candidate-vibid:4784007196329": 50,
+      "gas:candidate-vibid:4784007196555": 2,
+      "gas:candidate-vibid:4784007196223": 20,
+      "gas:candidate-vibid:4784007196445": 20,
+      "gas:candidate-vibid:4784007196051": 16,
+      "gas:candidate-vibid:4784007196360": 71,
+      "gas:candidate-vibid:4784007196154": 27
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/st-petersburg?action=show&root=1000279&tvd=2782000678282&vrn=100100067795849&region=78&global=&sub_region=78&prver=0&pronetvd=null&vibid=2782000678282&type=464",
@@ -10108,17 +10108,17 @@ export const duma_2016_uik_463_region_78_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Амосов Михаил Иванович": 63,
-      "Гатчин Юрий Арменакович": 67,
-      "Докторов Иван Евгеньевич": 3,
-      "Драпеко Елена Григорьевна": 266,
-      "Комолова Ирина Игоревна": 65,
-      "Конторин Михаил Владимирович": 3,
-      "Панюта Ольга Николаевна": 16,
-      "Петров Андрей Николаевич": 27,
-      "Пивоваров Андрей Сергеевич": 22,
-      "Тратников Егор Иванович": 86,
-      "Туркин Федор Олегович": 31
+      "gas:candidate-vibid:4784007196421": 63,
+      "gas:candidate-vibid:4784007196096": 67,
+      "gas:candidate-vibid:4784007196397": 3,
+      "gas:candidate-vibid:4784007195952": 266,
+      "gas:candidate-vibid:4784007196329": 65,
+      "gas:candidate-vibid:4784007196555": 3,
+      "gas:candidate-vibid:4784007196223": 16,
+      "gas:candidate-vibid:4784007196445": 27,
+      "gas:candidate-vibid:4784007196051": 22,
+      "gas:candidate-vibid:4784007196360": 86,
+      "gas:candidate-vibid:4784007196154": 31
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/st-petersburg?action=show&root=1000279&tvd=2782000678282&vrn=100100067795849&region=78&global=&sub_region=78&prver=0&pronetvd=null&vibid=2782000678282&type=464",
@@ -10169,17 +10169,17 @@ export const duma_2016_uik_463_region_78_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Амосов Михаил Иванович": 98,
-      "Гатчин Юрий Арменакович": 100,
-      "Докторов Иван Евгеньевич": 6,
-      "Драпеко Елена Григорьевна": 258,
-      "Комолова Ирина Игоревна": 92,
-      "Конторин Михаил Владимирович": 5,
-      "Панюта Ольга Николаевна": 17,
-      "Петров Андрей Николаевич": 35,
-      "Пивоваров Андрей Сергеевич": 26,
-      "Тратников Егор Иванович": 61,
-      "Туркин Федор Олегович": 35
+      "gas:candidate-vibid:4784007196421": 98,
+      "gas:candidate-vibid:4784007196096": 100,
+      "gas:candidate-vibid:4784007196397": 6,
+      "gas:candidate-vibid:4784007195952": 258,
+      "gas:candidate-vibid:4784007196329": 92,
+      "gas:candidate-vibid:4784007196555": 5,
+      "gas:candidate-vibid:4784007196223": 17,
+      "gas:candidate-vibid:4784007196445": 35,
+      "gas:candidate-vibid:4784007196051": 26,
+      "gas:candidate-vibid:4784007196360": 61,
+      "gas:candidate-vibid:4784007196154": 35
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/st-petersburg?action=show&root=1000279&tvd=2782000678282&vrn=100100067795849&region=78&global=&sub_region=78&prver=0&pronetvd=null&vibid=2782000678282&type=464",
@@ -10230,17 +10230,17 @@ export const duma_2016_uik_463_region_78_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Амосов Михаил Иванович": 59,
-      "Гатчин Юрий Арменакович": 46,
-      "Докторов Иван Евгеньевич": 5,
-      "Драпеко Елена Григорьевна": 197,
-      "Комолова Ирина Игоревна": 61,
-      "Конторин Михаил Владимирович": 2,
-      "Панюта Ольга Николаевна": 6,
-      "Петров Андрей Николаевич": 21,
-      "Пивоваров Андрей Сергеевич": 13,
-      "Тратников Егор Иванович": 48,
-      "Туркин Федор Олегович": 29
+      "gas:candidate-vibid:4784007196421": 59,
+      "gas:candidate-vibid:4784007196096": 46,
+      "gas:candidate-vibid:4784007196397": 5,
+      "gas:candidate-vibid:4784007195952": 197,
+      "gas:candidate-vibid:4784007196329": 61,
+      "gas:candidate-vibid:4784007196555": 2,
+      "gas:candidate-vibid:4784007196223": 6,
+      "gas:candidate-vibid:4784007196445": 21,
+      "gas:candidate-vibid:4784007196051": 13,
+      "gas:candidate-vibid:4784007196360": 48,
+      "gas:candidate-vibid:4784007196154": 29
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/st-petersburg?action=show&root=1000279&tvd=2782000678282&vrn=100100067795849&region=78&global=&sub_region=78&prver=0&pronetvd=null&vibid=2782000678282&type=464",
@@ -10291,17 +10291,17 @@ export const duma_2016_uik_463_region_78_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Амосов Михаил Иванович": 50,
-      "Гатчин Юрий Арменакович": 60,
-      "Докторов Иван Евгеньевич": 13,
-      "Драпеко Елена Григорьевна": 301,
-      "Комолова Ирина Игоревна": 77,
-      "Конторин Михаил Владимирович": 6,
-      "Панюта Ольга Николаевна": 19,
-      "Петров Андрей Николаевич": 23,
-      "Пивоваров Андрей Сергеевич": 16,
-      "Тратников Егор Иванович": 86,
-      "Туркин Федор Олегович": 39
+      "gas:candidate-vibid:4784007196421": 50,
+      "gas:candidate-vibid:4784007196096": 60,
+      "gas:candidate-vibid:4784007196397": 13,
+      "gas:candidate-vibid:4784007195952": 301,
+      "gas:candidate-vibid:4784007196329": 77,
+      "gas:candidate-vibid:4784007196555": 6,
+      "gas:candidate-vibid:4784007196223": 19,
+      "gas:candidate-vibid:4784007196445": 23,
+      "gas:candidate-vibid:4784007196051": 16,
+      "gas:candidate-vibid:4784007196360": 86,
+      "gas:candidate-vibid:4784007196154": 39
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/st-petersburg?action=show&root=1000279&tvd=2782000678282&vrn=100100067795849&region=78&global=&sub_region=78&prver=0&pronetvd=null&vibid=2782000678282&type=464",
@@ -10352,17 +10352,17 @@ export const duma_2016_uik_463_region_78_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Амосов Михаил Иванович": 70,
-      "Гатчин Юрий Арменакович": 100,
-      "Докторов Иван Евгеньевич": 21,
-      "Драпеко Елена Григорьевна": 250,
-      "Комолова Ирина Игоревна": 65,
-      "Конторин Михаил Владимирович": 7,
-      "Панюта Ольга Николаевна": 20,
-      "Петров Андрей Николаевич": 34,
-      "Пивоваров Андрей Сергеевич": 21,
-      "Тратников Егор Иванович": 119,
-      "Туркин Федор Олегович": 38
+      "gas:candidate-vibid:4784007196421": 70,
+      "gas:candidate-vibid:4784007196096": 100,
+      "gas:candidate-vibid:4784007196397": 21,
+      "gas:candidate-vibid:4784007195952": 250,
+      "gas:candidate-vibid:4784007196329": 65,
+      "gas:candidate-vibid:4784007196555": 7,
+      "gas:candidate-vibid:4784007196223": 20,
+      "gas:candidate-vibid:4784007196445": 34,
+      "gas:candidate-vibid:4784007196051": 21,
+      "gas:candidate-vibid:4784007196360": 119,
+      "gas:candidate-vibid:4784007196154": 38
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/st-petersburg?action=show&root=1000279&tvd=2782000678282&vrn=100100067795849&region=78&global=&sub_region=78&prver=0&pronetvd=null&vibid=2782000678282&type=464",
@@ -10413,17 +10413,17 @@ export const duma_2016_uik_463_region_78_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Амосов Михаил Иванович": 108,
-      "Гатчин Юрий Арменакович": 99,
-      "Докторов Иван Евгеньевич": 12,
-      "Драпеко Елена Григорьевна": 201,
-      "Комолова Ирина Игоревна": 120,
-      "Конторин Михаил Владимирович": 2,
-      "Панюта Ольга Николаевна": 17,
-      "Петров Андрей Николаевич": 21,
-      "Пивоваров Андрей Сергеевич": 25,
-      "Тратников Егор Иванович": 85,
-      "Туркин Федор Олегович": 37
+      "gas:candidate-vibid:4784007196421": 108,
+      "gas:candidate-vibid:4784007196096": 99,
+      "gas:candidate-vibid:4784007196397": 12,
+      "gas:candidate-vibid:4784007195952": 201,
+      "gas:candidate-vibid:4784007196329": 120,
+      "gas:candidate-vibid:4784007196555": 2,
+      "gas:candidate-vibid:4784007196223": 17,
+      "gas:candidate-vibid:4784007196445": 21,
+      "gas:candidate-vibid:4784007196051": 25,
+      "gas:candidate-vibid:4784007196360": 85,
+      "gas:candidate-vibid:4784007196154": 37
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/st-petersburg?action=show&root=1000279&tvd=2782000678282&vrn=100100067795849&region=78&global=&sub_region=78&prver=0&pronetvd=null&vibid=2782000678282&type=464",
@@ -10474,17 +10474,17 @@ export const duma_2016_uik_463_region_78_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Амосов Михаил Иванович": 49,
-      "Гатчин Юрий Арменакович": 57,
-      "Докторов Иван Евгеньевич": 1,
-      "Драпеко Елена Григорьевна": 124,
-      "Комолова Ирина Игоревна": 50,
-      "Конторин Михаил Владимирович": 1,
-      "Панюта Ольга Николаевна": 8,
-      "Петров Андрей Николаевич": 15,
-      "Пивоваров Андрей Сергеевич": 10,
-      "Тратников Егор Иванович": 39,
-      "Туркин Федор Олегович": 29
+      "gas:candidate-vibid:4784007196421": 49,
+      "gas:candidate-vibid:4784007196096": 57,
+      "gas:candidate-vibid:4784007196397": 1,
+      "gas:candidate-vibid:4784007195952": 124,
+      "gas:candidate-vibid:4784007196329": 50,
+      "gas:candidate-vibid:4784007196555": 1,
+      "gas:candidate-vibid:4784007196223": 8,
+      "gas:candidate-vibid:4784007196445": 15,
+      "gas:candidate-vibid:4784007196051": 10,
+      "gas:candidate-vibid:4784007196360": 39,
+      "gas:candidate-vibid:4784007196154": 29
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/st-petersburg?action=show&root=1000279&tvd=2782000678282&vrn=100100067795849&region=78&global=&sub_region=78&prver=0&pronetvd=null&vibid=2782000678282&type=464",
@@ -10535,17 +10535,17 @@ export const duma_2016_uik_463_region_78_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Амосов Михаил Иванович": 134,
-      "Гатчин Юрий Арменакович": 70,
-      "Докторов Иван Евгеньевич": 7,
-      "Драпеко Елена Григорьевна": 167,
-      "Комолова Ирина Игоревна": 79,
-      "Конторин Михаил Владимирович": 4,
-      "Панюта Ольга Николаевна": 11,
-      "Петров Андрей Николаевич": 27,
-      "Пивоваров Андрей Сергеевич": 29,
-      "Тратников Егор Иванович": 55,
-      "Туркин Федор Олегович": 24
+      "gas:candidate-vibid:4784007196421": 134,
+      "gas:candidate-vibid:4784007196096": 70,
+      "gas:candidate-vibid:4784007196397": 7,
+      "gas:candidate-vibid:4784007195952": 167,
+      "gas:candidate-vibid:4784007196329": 79,
+      "gas:candidate-vibid:4784007196555": 4,
+      "gas:candidate-vibid:4784007196223": 11,
+      "gas:candidate-vibid:4784007196445": 27,
+      "gas:candidate-vibid:4784007196051": 29,
+      "gas:candidate-vibid:4784007196360": 55,
+      "gas:candidate-vibid:4784007196154": 24
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/st-petersburg?action=show&root=1000279&tvd=2782000678282&vrn=100100067795849&region=78&global=&sub_region=78&prver=0&pronetvd=null&vibid=2782000678282&type=464",
@@ -10596,17 +10596,17 @@ export const duma_2016_uik_463_region_78_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Амосов Михаил Иванович": 135,
-      "Гатчин Юрий Арменакович": 88,
-      "Докторов Иван Евгеньевич": 12,
-      "Драпеко Елена Григорьевна": 207,
-      "Комолова Ирина Игоревна": 117,
-      "Конторин Михаил Владимирович": 2,
-      "Панюта Ольга Николаевна": 11,
-      "Петров Андрей Николаевич": 39,
-      "Пивоваров Андрей Сергеевич": 30,
-      "Тратников Егор Иванович": 94,
-      "Туркин Федор Олегович": 41
+      "gas:candidate-vibid:4784007196421": 135,
+      "gas:candidate-vibid:4784007196096": 88,
+      "gas:candidate-vibid:4784007196397": 12,
+      "gas:candidate-vibid:4784007195952": 207,
+      "gas:candidate-vibid:4784007196329": 117,
+      "gas:candidate-vibid:4784007196555": 2,
+      "gas:candidate-vibid:4784007196223": 11,
+      "gas:candidate-vibid:4784007196445": 39,
+      "gas:candidate-vibid:4784007196051": 30,
+      "gas:candidate-vibid:4784007196360": 94,
+      "gas:candidate-vibid:4784007196154": 41
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/st-petersburg?action=show&root=1000279&tvd=2782000678282&vrn=100100067795849&region=78&global=&sub_region=78&prver=0&pronetvd=null&vibid=2782000678282&type=464",
@@ -10657,17 +10657,17 @@ export const duma_2016_uik_463_region_78_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Амосов Михаил Иванович": 110,
-      "Гатчин Юрий Арменакович": 89,
-      "Докторов Иван Евгеньевич": 5,
-      "Драпеко Елена Григорьевна": 145,
-      "Комолова Ирина Игоревна": 67,
-      "Конторин Михаил Владимирович": 6,
-      "Панюта Ольга Николаевна": 19,
-      "Петров Андрей Николаевич": 19,
-      "Пивоваров Андрей Сергеевич": 44,
-      "Тратников Егор Иванович": 81,
-      "Туркин Федор Олегович": 36
+      "gas:candidate-vibid:4784007196421": 110,
+      "gas:candidate-vibid:4784007196096": 89,
+      "gas:candidate-vibid:4784007196397": 5,
+      "gas:candidate-vibid:4784007195952": 145,
+      "gas:candidate-vibid:4784007196329": 67,
+      "gas:candidate-vibid:4784007196555": 6,
+      "gas:candidate-vibid:4784007196223": 19,
+      "gas:candidate-vibid:4784007196445": 19,
+      "gas:candidate-vibid:4784007196051": 44,
+      "gas:candidate-vibid:4784007196360": 81,
+      "gas:candidate-vibid:4784007196154": 36
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/st-petersburg?action=show&root=1000279&tvd=2782000678282&vrn=100100067795849&region=78&global=&sub_region=78&prver=0&pronetvd=null&vibid=2782000678282&type=464",
@@ -10718,17 +10718,17 @@ export const duma_2016_uik_463_region_78_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Амосов Михаил Иванович": 94,
-      "Гатчин Юрий Арменакович": 51,
-      "Докторов Иван Евгеньевич": 6,
-      "Драпеко Елена Григорьевна": 108,
-      "Комолова Ирина Игоревна": 47,
-      "Конторин Михаил Владимирович": 3,
-      "Панюта Ольга Николаевна": 10,
-      "Петров Андрей Николаевич": 21,
-      "Пивоваров Андрей Сергеевич": 22,
-      "Тратников Егор Иванович": 37,
-      "Туркин Федор Олегович": 56
+      "gas:candidate-vibid:4784007196421": 94,
+      "gas:candidate-vibid:4784007196096": 51,
+      "gas:candidate-vibid:4784007196397": 6,
+      "gas:candidate-vibid:4784007195952": 108,
+      "gas:candidate-vibid:4784007196329": 47,
+      "gas:candidate-vibid:4784007196555": 3,
+      "gas:candidate-vibid:4784007196223": 10,
+      "gas:candidate-vibid:4784007196445": 21,
+      "gas:candidate-vibid:4784007196051": 22,
+      "gas:candidate-vibid:4784007196360": 37,
+      "gas:candidate-vibid:4784007196154": 56
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/st-petersburg?action=show&root=1000279&tvd=2782000678282&vrn=100100067795849&region=78&global=&sub_region=78&prver=0&pronetvd=null&vibid=2782000678282&type=464",
@@ -10779,17 +10779,17 @@ export const duma_2016_uik_463_region_78_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Амосов Михаил Иванович": 94,
-      "Гатчин Юрий Арменакович": 60,
-      "Докторов Иван Евгеньевич": 5,
-      "Драпеко Елена Григорьевна": 142,
-      "Комолова Ирина Игоревна": 77,
-      "Конторин Михаил Владимирович": 3,
-      "Панюта Ольга Николаевна": 7,
-      "Петров Андрей Николаевич": 28,
-      "Пивоваров Андрей Сергеевич": 27,
-      "Тратников Егор Иванович": 51,
-      "Туркин Федор Олегович": 20
+      "gas:candidate-vibid:4784007196421": 94,
+      "gas:candidate-vibid:4784007196096": 60,
+      "gas:candidate-vibid:4784007196397": 5,
+      "gas:candidate-vibid:4784007195952": 142,
+      "gas:candidate-vibid:4784007196329": 77,
+      "gas:candidate-vibid:4784007196555": 3,
+      "gas:candidate-vibid:4784007196223": 7,
+      "gas:candidate-vibid:4784007196445": 28,
+      "gas:candidate-vibid:4784007196051": 27,
+      "gas:candidate-vibid:4784007196360": 51,
+      "gas:candidate-vibid:4784007196154": 20
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/st-petersburg?action=show&root=1000279&tvd=2782000678282&vrn=100100067795849&region=78&global=&sub_region=78&prver=0&pronetvd=null&vibid=2782000678282&type=464",
@@ -10840,17 +10840,17 @@ export const duma_2016_uik_463_region_78_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Амосов Михаил Иванович": 61,
-      "Гатчин Юрий Арменакович": 61,
-      "Докторов Иван Евгеньевич": 5,
-      "Драпеко Елена Григорьевна": 89,
-      "Комолова Ирина Игоревна": 51,
-      "Конторин Михаил Владимирович": 2,
-      "Панюта Ольга Николаевна": 7,
-      "Петров Андрей Николаевич": 14,
-      "Пивоваров Андрей Сергеевич": 21,
-      "Тратников Егор Иванович": 39,
-      "Туркин Федор Олегович": 16
+      "gas:candidate-vibid:4784007196421": 61,
+      "gas:candidate-vibid:4784007196096": 61,
+      "gas:candidate-vibid:4784007196397": 5,
+      "gas:candidate-vibid:4784007195952": 89,
+      "gas:candidate-vibid:4784007196329": 51,
+      "gas:candidate-vibid:4784007196555": 2,
+      "gas:candidate-vibid:4784007196223": 7,
+      "gas:candidate-vibid:4784007196445": 14,
+      "gas:candidate-vibid:4784007196051": 21,
+      "gas:candidate-vibid:4784007196360": 39,
+      "gas:candidate-vibid:4784007196154": 16
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/st-petersburg?action=show&root=1000279&tvd=2782000678282&vrn=100100067795849&region=78&global=&sub_region=78&prver=0&pronetvd=null&vibid=2782000678282&type=464",
@@ -10901,17 +10901,17 @@ export const duma_2016_uik_463_region_78_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Амосов Михаил Иванович": 50,
-      "Гатчин Юрий Арменакович": 75,
-      "Докторов Иван Евгеньевич": 2,
-      "Драпеко Елена Григорьевна": 118,
-      "Комолова Ирина Игоревна": 48,
-      "Конторин Михаил Владимирович": 0,
-      "Панюта Ольга Николаевна": 11,
-      "Петров Андрей Николаевич": 15,
-      "Пивоваров Андрей Сергеевич": 26,
-      "Тратников Егор Иванович": 57,
-      "Туркин Федор Олегович": 22
+      "gas:candidate-vibid:4784007196421": 50,
+      "gas:candidate-vibid:4784007196096": 75,
+      "gas:candidate-vibid:4784007196397": 2,
+      "gas:candidate-vibid:4784007195952": 118,
+      "gas:candidate-vibid:4784007196329": 48,
+      "gas:candidate-vibid:4784007196555": 0,
+      "gas:candidate-vibid:4784007196223": 11,
+      "gas:candidate-vibid:4784007196445": 15,
+      "gas:candidate-vibid:4784007196051": 26,
+      "gas:candidate-vibid:4784007196360": 57,
+      "gas:candidate-vibid:4784007196154": 22
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/st-petersburg?action=show&root=1000279&tvd=2782000678282&vrn=100100067795849&region=78&global=&sub_region=78&prver=0&pronetvd=null&vibid=2782000678282&type=464",
@@ -10962,17 +10962,17 @@ export const duma_2016_uik_463_region_78_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Амосов Михаил Иванович": 81,
-      "Гатчин Юрий Арменакович": 78,
-      "Докторов Иван Евгеньевич": 10,
-      "Драпеко Елена Григорьевна": 191,
-      "Комолова Ирина Игоревна": 73,
-      "Конторин Михаил Владимирович": 5,
-      "Панюта Ольга Николаевна": 16,
-      "Петров Андрей Николаевич": 21,
-      "Пивоваров Андрей Сергеевич": 19,
-      "Тратников Егор Иванович": 90,
-      "Туркин Федор Олегович": 37
+      "gas:candidate-vibid:4784007196421": 81,
+      "gas:candidate-vibid:4784007196096": 78,
+      "gas:candidate-vibid:4784007196397": 10,
+      "gas:candidate-vibid:4784007195952": 191,
+      "gas:candidate-vibid:4784007196329": 73,
+      "gas:candidate-vibid:4784007196555": 5,
+      "gas:candidate-vibid:4784007196223": 16,
+      "gas:candidate-vibid:4784007196445": 21,
+      "gas:candidate-vibid:4784007196051": 19,
+      "gas:candidate-vibid:4784007196360": 90,
+      "gas:candidate-vibid:4784007196154": 37
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/st-petersburg?action=show&root=1000279&tvd=2782000678282&vrn=100100067795849&region=78&global=&sub_region=78&prver=0&pronetvd=null&vibid=2782000678282&type=464",
@@ -11023,17 +11023,17 @@ export const duma_2016_uik_463_region_78_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Амосов Михаил Иванович": 86,
-      "Гатчин Юрий Арменакович": 60,
-      "Докторов Иван Евгеньевич": 7,
-      "Драпеко Елена Григорьевна": 167,
-      "Комолова Ирина Игоревна": 77,
-      "Конторин Михаил Владимирович": 0,
-      "Панюта Ольга Николаевна": 13,
-      "Петров Андрей Николаевич": 30,
-      "Пивоваров Андрей Сергеевич": 14,
-      "Тратников Егор Иванович": 72,
-      "Туркин Федор Олегович": 27
+      "gas:candidate-vibid:4784007196421": 86,
+      "gas:candidate-vibid:4784007196096": 60,
+      "gas:candidate-vibid:4784007196397": 7,
+      "gas:candidate-vibid:4784007195952": 167,
+      "gas:candidate-vibid:4784007196329": 77,
+      "gas:candidate-vibid:4784007196555": 0,
+      "gas:candidate-vibid:4784007196223": 13,
+      "gas:candidate-vibid:4784007196445": 30,
+      "gas:candidate-vibid:4784007196051": 14,
+      "gas:candidate-vibid:4784007196360": 72,
+      "gas:candidate-vibid:4784007196154": 27
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/st-petersburg?action=show&root=1000279&tvd=2782000678282&vrn=100100067795849&region=78&global=&sub_region=78&prver=0&pronetvd=null&vibid=2782000678282&type=464",
@@ -11084,17 +11084,17 @@ export const duma_2016_uik_463_region_78_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Амосов Михаил Иванович": 79,
-      "Гатчин Юрий Арменакович": 79,
-      "Докторов Иван Евгеньевич": 6,
-      "Драпеко Елена Григорьевна": 174,
-      "Комолова Ирина Игоревна": 75,
-      "Конторин Михаил Владимирович": 4,
-      "Панюта Ольга Николаевна": 8,
-      "Петров Андрей Николаевич": 20,
-      "Пивоваров Андрей Сергеевич": 18,
-      "Тратников Егор Иванович": 77,
-      "Туркин Федор Олегович": 45
+      "gas:candidate-vibid:4784007196421": 79,
+      "gas:candidate-vibid:4784007196096": 79,
+      "gas:candidate-vibid:4784007196397": 6,
+      "gas:candidate-vibid:4784007195952": 174,
+      "gas:candidate-vibid:4784007196329": 75,
+      "gas:candidate-vibid:4784007196555": 4,
+      "gas:candidate-vibid:4784007196223": 8,
+      "gas:candidate-vibid:4784007196445": 20,
+      "gas:candidate-vibid:4784007196051": 18,
+      "gas:candidate-vibid:4784007196360": 77,
+      "gas:candidate-vibid:4784007196154": 45
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/st-petersburg?action=show&root=1000279&tvd=2782000678282&vrn=100100067795849&region=78&global=&sub_region=78&prver=0&pronetvd=null&vibid=2782000678282&type=464",
@@ -11145,17 +11145,17 @@ export const duma_2016_uik_463_region_78_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Амосов Михаил Иванович": 65,
-      "Гатчин Юрий Арменакович": 80,
-      "Докторов Иван Евгеньевич": 5,
-      "Драпеко Елена Григорьевна": 166,
-      "Комолова Ирина Игоревна": 60,
-      "Конторин Михаил Владимирович": 1,
-      "Панюта Ольга Николаевна": 15,
-      "Петров Андрей Николаевич": 24,
-      "Пивоваров Андрей Сергеевич": 11,
-      "Тратников Егор Иванович": 55,
-      "Туркин Федор Олегович": 27
+      "gas:candidate-vibid:4784007196421": 65,
+      "gas:candidate-vibid:4784007196096": 80,
+      "gas:candidate-vibid:4784007196397": 5,
+      "gas:candidate-vibid:4784007195952": 166,
+      "gas:candidate-vibid:4784007196329": 60,
+      "gas:candidate-vibid:4784007196555": 1,
+      "gas:candidate-vibid:4784007196223": 15,
+      "gas:candidate-vibid:4784007196445": 24,
+      "gas:candidate-vibid:4784007196051": 11,
+      "gas:candidate-vibid:4784007196360": 55,
+      "gas:candidate-vibid:4784007196154": 27
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/st-petersburg?action=show&root=1000279&tvd=2782000678282&vrn=100100067795849&region=78&global=&sub_region=78&prver=0&pronetvd=null&vibid=2782000678282&type=464",
@@ -11206,17 +11206,17 @@ export const duma_2016_uik_463_region_78_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Амосов Михаил Иванович": 77,
-      "Гатчин Юрий Арменакович": 81,
-      "Докторов Иван Евгеньевич": 5,
-      "Драпеко Елена Григорьевна": 168,
-      "Комолова Ирина Игоревна": 75,
-      "Конторин Михаил Владимирович": 3,
-      "Панюта Ольга Николаевна": 12,
-      "Петров Андрей Николаевич": 23,
-      "Пивоваров Андрей Сергеевич": 18,
-      "Тратников Егор Иванович": 72,
-      "Туркин Федор Олегович": 31
+      "gas:candidate-vibid:4784007196421": 77,
+      "gas:candidate-vibid:4784007196096": 81,
+      "gas:candidate-vibid:4784007196397": 5,
+      "gas:candidate-vibid:4784007195952": 168,
+      "gas:candidate-vibid:4784007196329": 75,
+      "gas:candidate-vibid:4784007196555": 3,
+      "gas:candidate-vibid:4784007196223": 12,
+      "gas:candidate-vibid:4784007196445": 23,
+      "gas:candidate-vibid:4784007196051": 18,
+      "gas:candidate-vibid:4784007196360": 72,
+      "gas:candidate-vibid:4784007196154": 31
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/st-petersburg?action=show&root=1000279&tvd=2782000678282&vrn=100100067795849&region=78&global=&sub_region=78&prver=0&pronetvd=null&vibid=2782000678282&type=464",
@@ -11267,17 +11267,17 @@ export const duma_2016_uik_463_region_78_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Амосов Михаил Иванович": 47,
-      "Гатчин Юрий Арменакович": 50,
-      "Докторов Иван Евгеньевич": 7,
-      "Драпеко Елена Григорьевна": 100,
-      "Комолова Ирина Игоревна": 43,
-      "Конторин Михаил Владимирович": 2,
-      "Панюта Ольга Николаевна": 5,
-      "Петров Андрей Николаевич": 21,
-      "Пивоваров Андрей Сергеевич": 19,
-      "Тратников Егор Иванович": 52,
-      "Туркин Федор Олегович": 37
+      "gas:candidate-vibid:4784007196421": 47,
+      "gas:candidate-vibid:4784007196096": 50,
+      "gas:candidate-vibid:4784007196397": 7,
+      "gas:candidate-vibid:4784007195952": 100,
+      "gas:candidate-vibid:4784007196329": 43,
+      "gas:candidate-vibid:4784007196555": 2,
+      "gas:candidate-vibid:4784007196223": 5,
+      "gas:candidate-vibid:4784007196445": 21,
+      "gas:candidate-vibid:4784007196051": 19,
+      "gas:candidate-vibid:4784007196360": 52,
+      "gas:candidate-vibid:4784007196154": 37
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/st-petersburg?action=show&root=1000279&tvd=2782000678282&vrn=100100067795849&region=78&global=&sub_region=78&prver=0&pronetvd=null&vibid=2782000678282&type=464",
@@ -11328,17 +11328,17 @@ export const duma_2016_uik_463_region_78_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Амосов Михаил Иванович": 67,
-      "Гатчин Юрий Арменакович": 87,
-      "Докторов Иван Евгеньевич": 4,
-      "Драпеко Елена Григорьевна": 152,
-      "Комолова Ирина Игоревна": 69,
-      "Конторин Михаил Владимирович": 2,
-      "Панюта Ольга Николаевна": 15,
-      "Петров Андрей Николаевич": 27,
-      "Пивоваров Андрей Сергеевич": 9,
-      "Тратников Егор Иванович": 85,
-      "Туркин Федор Олегович": 31
+      "gas:candidate-vibid:4784007196421": 67,
+      "gas:candidate-vibid:4784007196096": 87,
+      "gas:candidate-vibid:4784007196397": 4,
+      "gas:candidate-vibid:4784007195952": 152,
+      "gas:candidate-vibid:4784007196329": 69,
+      "gas:candidate-vibid:4784007196555": 2,
+      "gas:candidate-vibid:4784007196223": 15,
+      "gas:candidate-vibid:4784007196445": 27,
+      "gas:candidate-vibid:4784007196051": 9,
+      "gas:candidate-vibid:4784007196360": 85,
+      "gas:candidate-vibid:4784007196154": 31
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/st-petersburg?action=show&root=1000279&tvd=2782000678282&vrn=100100067795849&region=78&global=&sub_region=78&prver=0&pronetvd=null&vibid=2782000678282&type=464",
@@ -11389,17 +11389,17 @@ export const duma_2016_uik_463_region_78_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Амосов Михаил Иванович": 112,
-      "Гатчин Юрий Арменакович": 84,
-      "Докторов Иван Евгеньевич": 14,
-      "Драпеко Елена Григорьевна": 179,
-      "Комолова Ирина Игоревна": 108,
-      "Конторин Михаил Владимирович": 3,
-      "Панюта Ольга Николаевна": 18,
-      "Петров Андрей Николаевич": 40,
-      "Пивоваров Андрей Сергеевич": 26,
-      "Тратников Егор Иванович": 89,
-      "Туркин Федор Олегович": 39
+      "gas:candidate-vibid:4784007196421": 112,
+      "gas:candidate-vibid:4784007196096": 84,
+      "gas:candidate-vibid:4784007196397": 14,
+      "gas:candidate-vibid:4784007195952": 179,
+      "gas:candidate-vibid:4784007196329": 108,
+      "gas:candidate-vibid:4784007196555": 3,
+      "gas:candidate-vibid:4784007196223": 18,
+      "gas:candidate-vibid:4784007196445": 40,
+      "gas:candidate-vibid:4784007196051": 26,
+      "gas:candidate-vibid:4784007196360": 89,
+      "gas:candidate-vibid:4784007196154": 39
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/st-petersburg?action=show&root=1000279&tvd=2782000678282&vrn=100100067795849&region=78&global=&sub_region=78&prver=0&pronetvd=null&vibid=2782000678282&type=464",
@@ -11450,17 +11450,17 @@ export const duma_2016_uik_463_region_78_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Амосов Михаил Иванович": 5,
-      "Гатчин Юрий Арменакович": 15,
-      "Докторов Иван Евгеньевич": 5,
-      "Драпеко Елена Григорьевна": 18,
-      "Комолова Ирина Игоревна": 9,
-      "Конторин Михаил Владимирович": 1,
-      "Панюта Ольга Николаевна": 0,
-      "Петров Андрей Николаевич": 0,
-      "Пивоваров Андрей Сергеевич": 2,
-      "Тратников Егор Иванович": 6,
-      "Туркин Федор Олегович": 6
+      "gas:candidate-vibid:4784007196421": 5,
+      "gas:candidate-vibid:4784007196096": 15,
+      "gas:candidate-vibid:4784007196397": 5,
+      "gas:candidate-vibid:4784007195952": 18,
+      "gas:candidate-vibid:4784007196329": 9,
+      "gas:candidate-vibid:4784007196555": 1,
+      "gas:candidate-vibid:4784007196223": 0,
+      "gas:candidate-vibid:4784007196445": 0,
+      "gas:candidate-vibid:4784007196051": 2,
+      "gas:candidate-vibid:4784007196360": 6,
+      "gas:candidate-vibid:4784007196154": 6
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/st-petersburg?action=show&root=1000279&tvd=2782000678282&vrn=100100067795849&region=78&global=&sub_region=78&prver=0&pronetvd=null&vibid=2782000678282&type=464",
@@ -11511,17 +11511,17 @@ export const duma_2016_uik_463_region_78_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Амосов Михаил Иванович": 0,
-      "Гатчин Юрий Арменакович": 0,
-      "Докторов Иван Евгеньевич": 1,
-      "Драпеко Елена Григорьевна": 0,
-      "Комолова Ирина Игоревна": 1,
-      "Конторин Михаил Владимирович": 0,
-      "Панюта Ольга Николаевна": 0,
-      "Петров Андрей Николаевич": 0,
-      "Пивоваров Андрей Сергеевич": 0,
-      "Тратников Егор Иванович": 0,
-      "Туркин Федор Олегович": 2
+      "gas:candidate-vibid:4784007196421": 0,
+      "gas:candidate-vibid:4784007196096": 0,
+      "gas:candidate-vibid:4784007196397": 1,
+      "gas:candidate-vibid:4784007195952": 0,
+      "gas:candidate-vibid:4784007196329": 1,
+      "gas:candidate-vibid:4784007196555": 0,
+      "gas:candidate-vibid:4784007196223": 0,
+      "gas:candidate-vibid:4784007196445": 0,
+      "gas:candidate-vibid:4784007196051": 0,
+      "gas:candidate-vibid:4784007196360": 0,
+      "gas:candidate-vibid:4784007196154": 2
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/st-petersburg?action=show&root=1000279&tvd=2782000678282&vrn=100100067795849&region=78&global=&sub_region=78&prver=0&pronetvd=null&vibid=2782000678282&type=464",
@@ -11572,17 +11572,17 @@ export const duma_2016_uik_463_region_78_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Амосов Михаил Иванович": 18,
-      "Гатчин Юрий Арменакович": 36,
-      "Докторов Иван Евгеньевич": 8,
-      "Драпеко Елена Григорьевна": 95,
-      "Комолова Ирина Игоревна": 48,
-      "Конторин Михаил Владимирович": 2,
-      "Панюта Ольга Николаевна": 9,
-      "Петров Андрей Николаевич": 12,
-      "Пивоваров Андрей Сергеевич": 17,
-      "Тратников Егор Иванович": 49,
-      "Туркин Федор Олегович": 20
+      "gas:candidate-vibid:4784007196421": 18,
+      "gas:candidate-vibid:4784007196096": 36,
+      "gas:candidate-vibid:4784007196397": 8,
+      "gas:candidate-vibid:4784007195952": 95,
+      "gas:candidate-vibid:4784007196329": 48,
+      "gas:candidate-vibid:4784007196555": 2,
+      "gas:candidate-vibid:4784007196223": 9,
+      "gas:candidate-vibid:4784007196445": 12,
+      "gas:candidate-vibid:4784007196051": 17,
+      "gas:candidate-vibid:4784007196360": 49,
+      "gas:candidate-vibid:4784007196154": 20
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/st-petersburg?action=show&root=1000279&tvd=2782000678282&vrn=100100067795849&region=78&global=&sub_region=78&prver=0&pronetvd=null&vibid=2782000678282&type=464",
@@ -11633,17 +11633,17 @@ export const duma_2016_uik_463_region_78_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Амосов Михаил Иванович": 61,
-      "Гатчин Юрий Арменакович": 68,
-      "Докторов Иван Евгеньевич": 13,
-      "Драпеко Елена Григорьевна": 255,
-      "Комолова Ирина Игоревна": 64,
-      "Конторин Михаил Владимирович": 7,
-      "Панюта Ольга Николаевна": 20,
-      "Петров Андрей Николаевич": 33,
-      "Пивоваров Андрей Сергеевич": 31,
-      "Тратников Егор Иванович": 124,
-      "Туркин Федор Олегович": 36
+      "gas:candidate-vibid:4784007196421": 61,
+      "gas:candidate-vibid:4784007196096": 68,
+      "gas:candidate-vibid:4784007196397": 13,
+      "gas:candidate-vibid:4784007195952": 255,
+      "gas:candidate-vibid:4784007196329": 64,
+      "gas:candidate-vibid:4784007196555": 7,
+      "gas:candidate-vibid:4784007196223": 20,
+      "gas:candidate-vibid:4784007196445": 33,
+      "gas:candidate-vibid:4784007196051": 31,
+      "gas:candidate-vibid:4784007196360": 124,
+      "gas:candidate-vibid:4784007196154": 36
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/st-petersburg?action=show&root=1000279&tvd=2782000678282&vrn=100100067795849&region=78&global=&sub_region=78&prver=0&pronetvd=null&vibid=2782000678282&type=464",
@@ -11694,17 +11694,17 @@ export const duma_2016_uik_463_region_78_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Амосов Михаил Иванович": 17,
-      "Гатчин Юрий Арменакович": 7,
-      "Докторов Иван Евгеньевич": 1,
-      "Драпеко Елена Григорьевна": 20,
-      "Комолова Ирина Игоревна": 7,
-      "Конторин Михаил Владимирович": 2,
-      "Панюта Ольга Николаевна": 5,
-      "Петров Андрей Николаевич": 9,
-      "Пивоваров Андрей Сергеевич": 13,
-      "Тратников Егор Иванович": 12,
-      "Туркин Федор Олегович": 0
+      "gas:candidate-vibid:4784007196421": 17,
+      "gas:candidate-vibid:4784007196096": 7,
+      "gas:candidate-vibid:4784007196397": 1,
+      "gas:candidate-vibid:4784007195952": 20,
+      "gas:candidate-vibid:4784007196329": 7,
+      "gas:candidate-vibid:4784007196555": 2,
+      "gas:candidate-vibid:4784007196223": 5,
+      "gas:candidate-vibid:4784007196445": 9,
+      "gas:candidate-vibid:4784007196051": 13,
+      "gas:candidate-vibid:4784007196360": 12,
+      "gas:candidate-vibid:4784007196154": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/st-petersburg?action=show&root=1000279&tvd=2782000678282&vrn=100100067795849&region=78&global=&sub_region=78&prver=0&pronetvd=null&vibid=2782000678282&type=464",
@@ -11755,17 +11755,17 @@ export const duma_2016_uik_463_region_78_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Голов Анатолий Григорьевич": 83,
-      "Иванова Ирина Владимировна": 79,
-      "Катенев Владимир Иванович": 207,
-      "Крутов Андрей Дмитриевич": 65,
-      "Лавров Олег Леонидович": 94,
-      "Максаков Олег Борисович": 11,
-      "Нилов Олег Анатольевич": 146,
-      "Новиков Александр Иванович": 16,
-      "Попова Ольга Валерьевна": 8,
-      "Привалов Александр Станиславович": 18,
-      "Стародубцев Михаил Павлович": 12
+      "gas:candidate-vibid:4784009155263": 83,
+      "gas:candidate-vibid:4784009154908": 79,
+      "gas:candidate-vibid:4784009155275": 207,
+      "gas:candidate-vibid:4784009155165": 65,
+      "gas:candidate-vibid:4784009154892": 94,
+      "gas:candidate-vibid:4784009155058": 11,
+      "gas:candidate-vibid:4784009154925": 146,
+      "gas:candidate-vibid:4784009155069": 16,
+      "gas:candidate-vibid:4784009155219": 8,
+      "gas:candidate-vibid:4784009154880": 18,
+      "gas:candidate-vibid:4784009155025": 12
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/st-petersburg?action=show&root=1000280&tvd=2782000678283&vrn=100100067795849&region=78&global=&sub_region=78&prver=0&pronetvd=null&vibid=2782000678283&type=464",
@@ -11816,17 +11816,17 @@ export const duma_2016_uik_463_region_78_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Голов Анатолий Григорьевич": 115,
-      "Иванова Ирина Владимировна": 76,
-      "Катенев Владимир Иванович": 237,
-      "Крутов Андрей Дмитриевич": 61,
-      "Лавров Олег Леонидович": 85,
-      "Максаков Олег Борисович": 19,
-      "Нилов Олег Анатольевич": 113,
-      "Новиков Александр Иванович": 13,
-      "Попова Ольга Валерьевна": 12,
-      "Привалов Александр Станиславович": 28,
-      "Стародубцев Михаил Павлович": 19
+      "gas:candidate-vibid:4784009155263": 115,
+      "gas:candidate-vibid:4784009154908": 76,
+      "gas:candidate-vibid:4784009155275": 237,
+      "gas:candidate-vibid:4784009155165": 61,
+      "gas:candidate-vibid:4784009154892": 85,
+      "gas:candidate-vibid:4784009155058": 19,
+      "gas:candidate-vibid:4784009154925": 113,
+      "gas:candidate-vibid:4784009155069": 13,
+      "gas:candidate-vibid:4784009155219": 12,
+      "gas:candidate-vibid:4784009154880": 28,
+      "gas:candidate-vibid:4784009155025": 19
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/st-petersburg?action=show&root=1000280&tvd=2782000678283&vrn=100100067795849&region=78&global=&sub_region=78&prver=0&pronetvd=null&vibid=2782000678283&type=464",
@@ -11877,17 +11877,17 @@ export const duma_2016_uik_463_region_78_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Голов Анатолий Григорьевич": 128,
-      "Иванова Ирина Владимировна": 95,
-      "Катенев Владимир Иванович": 216,
-      "Крутов Андрей Дмитриевич": 60,
-      "Лавров Олег Леонидович": 84,
-      "Максаков Олег Борисович": 20,
-      "Нилов Олег Анатольевич": 164,
-      "Новиков Александр Иванович": 12,
-      "Попова Ольга Валерьевна": 12,
-      "Привалов Александр Станиславович": 24,
-      "Стародубцев Михаил Павлович": 21
+      "gas:candidate-vibid:4784009155263": 128,
+      "gas:candidate-vibid:4784009154908": 95,
+      "gas:candidate-vibid:4784009155275": 216,
+      "gas:candidate-vibid:4784009155165": 60,
+      "gas:candidate-vibid:4784009154892": 84,
+      "gas:candidate-vibid:4784009155058": 20,
+      "gas:candidate-vibid:4784009154925": 164,
+      "gas:candidate-vibid:4784009155069": 12,
+      "gas:candidate-vibid:4784009155219": 12,
+      "gas:candidate-vibid:4784009154880": 24,
+      "gas:candidate-vibid:4784009155025": 21
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/st-petersburg?action=show&root=1000280&tvd=2782000678283&vrn=100100067795849&region=78&global=&sub_region=78&prver=0&pronetvd=null&vibid=2782000678283&type=464",
@@ -11938,17 +11938,17 @@ export const duma_2016_uik_463_region_78_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Голов Анатолий Григорьевич": 91,
-      "Иванова Ирина Владимировна": 91,
-      "Катенев Владимир Иванович": 234,
-      "Крутов Андрей Дмитриевич": 48,
-      "Лавров Олег Леонидович": 101,
-      "Максаков Олег Борисович": 17,
-      "Нилов Олег Анатольевич": 131,
-      "Новиков Александр Иванович": 7,
-      "Попова Ольга Валерьевна": 7,
-      "Привалов Александр Станиславович": 14,
-      "Стародубцев Михаил Павлович": 11
+      "gas:candidate-vibid:4784009155263": 91,
+      "gas:candidate-vibid:4784009154908": 91,
+      "gas:candidate-vibid:4784009155275": 234,
+      "gas:candidate-vibid:4784009155165": 48,
+      "gas:candidate-vibid:4784009154892": 101,
+      "gas:candidate-vibid:4784009155058": 17,
+      "gas:candidate-vibid:4784009154925": 131,
+      "gas:candidate-vibid:4784009155069": 7,
+      "gas:candidate-vibid:4784009155219": 7,
+      "gas:candidate-vibid:4784009154880": 14,
+      "gas:candidate-vibid:4784009155025": 11
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/st-petersburg?action=show&root=1000280&tvd=2782000678283&vrn=100100067795849&region=78&global=&sub_region=78&prver=0&pronetvd=null&vibid=2782000678283&type=464",
@@ -11999,17 +11999,17 @@ export const duma_2016_uik_463_region_78_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Голов Анатолий Григорьевич": 140,
-      "Иванова Ирина Владимировна": 71,
-      "Катенев Владимир Иванович": 189,
-      "Крутов Андрей Дмитриевич": 65,
-      "Лавров Олег Леонидович": 51,
-      "Максаков Олег Борисович": 27,
-      "Нилов Олег Анатольевич": 99,
-      "Новиков Александр Иванович": 14,
-      "Попова Ольга Валерьевна": 14,
-      "Привалов Александр Станиславович": 10,
-      "Стародубцев Михаил Павлович": 11
+      "gas:candidate-vibid:4784009155263": 140,
+      "gas:candidate-vibid:4784009154908": 71,
+      "gas:candidate-vibid:4784009155275": 189,
+      "gas:candidate-vibid:4784009155165": 65,
+      "gas:candidate-vibid:4784009154892": 51,
+      "gas:candidate-vibid:4784009155058": 27,
+      "gas:candidate-vibid:4784009154925": 99,
+      "gas:candidate-vibid:4784009155069": 14,
+      "gas:candidate-vibid:4784009155219": 14,
+      "gas:candidate-vibid:4784009154880": 10,
+      "gas:candidate-vibid:4784009155025": 11
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/st-petersburg?action=show&root=1000280&tvd=2782000678283&vrn=100100067795849&region=78&global=&sub_region=78&prver=0&pronetvd=null&vibid=2782000678283&type=464",
@@ -12060,17 +12060,17 @@ export const duma_2016_uik_463_region_78_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Голов Анатолий Григорьевич": 103,
-      "Иванова Ирина Владимировна": 68,
-      "Катенев Владимир Иванович": 180,
-      "Крутов Андрей Дмитриевич": 63,
-      "Лавров Олег Леонидович": 65,
-      "Максаков Олег Борисович": 21,
-      "Нилов Олег Анатольевич": 122,
-      "Новиков Александр Иванович": 18,
-      "Попова Ольга Валерьевна": 6,
-      "Привалов Александр Станиславович": 16,
-      "Стародубцев Михаил Павлович": 7
+      "gas:candidate-vibid:4784009155263": 103,
+      "gas:candidate-vibid:4784009154908": 68,
+      "gas:candidate-vibid:4784009155275": 180,
+      "gas:candidate-vibid:4784009155165": 63,
+      "gas:candidate-vibid:4784009154892": 65,
+      "gas:candidate-vibid:4784009155058": 21,
+      "gas:candidate-vibid:4784009154925": 122,
+      "gas:candidate-vibid:4784009155069": 18,
+      "gas:candidate-vibid:4784009155219": 6,
+      "gas:candidate-vibid:4784009154880": 16,
+      "gas:candidate-vibid:4784009155025": 7
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/st-petersburg?action=show&root=1000280&tvd=2782000678283&vrn=100100067795849&region=78&global=&sub_region=78&prver=0&pronetvd=null&vibid=2782000678283&type=464",
@@ -12121,17 +12121,17 @@ export const duma_2016_uik_463_region_78_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Голов Анатолий Григорьевич": 107,
-      "Иванова Ирина Владимировна": 87,
-      "Катенев Владимир Иванович": 207,
-      "Крутов Андрей Дмитриевич": 50,
-      "Лавров Олег Леонидович": 69,
-      "Максаков Олег Борисович": 15,
-      "Нилов Олег Анатольевич": 111,
-      "Новиков Александр Иванович": 8,
-      "Попова Ольга Валерьевна": 4,
-      "Привалов Александр Станиславович": 15,
-      "Стародубцев Михаил Павлович": 21
+      "gas:candidate-vibid:4784009155263": 107,
+      "gas:candidate-vibid:4784009154908": 87,
+      "gas:candidate-vibid:4784009155275": 207,
+      "gas:candidate-vibid:4784009155165": 50,
+      "gas:candidate-vibid:4784009154892": 69,
+      "gas:candidate-vibid:4784009155058": 15,
+      "gas:candidate-vibid:4784009154925": 111,
+      "gas:candidate-vibid:4784009155069": 8,
+      "gas:candidate-vibid:4784009155219": 4,
+      "gas:candidate-vibid:4784009154880": 15,
+      "gas:candidate-vibid:4784009155025": 21
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/st-petersburg?action=show&root=1000280&tvd=2782000678283&vrn=100100067795849&region=78&global=&sub_region=78&prver=0&pronetvd=null&vibid=2782000678283&type=464",
@@ -12182,17 +12182,17 @@ export const duma_2016_uik_463_region_78_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Голов Анатолий Григорьевич": 74,
-      "Иванова Ирина Владимировна": 67,
-      "Катенев Владимир Иванович": 186,
-      "Крутов Андрей Дмитриевич": 44,
-      "Лавров Олег Леонидович": 68,
-      "Максаков Олег Борисович": 13,
-      "Нилов Олег Анатольевич": 109,
-      "Новиков Александр Иванович": 10,
-      "Попова Ольга Валерьевна": 4,
-      "Привалов Александр Станиславович": 9,
-      "Стародубцев Михаил Павлович": 11
+      "gas:candidate-vibid:4784009155263": 74,
+      "gas:candidate-vibid:4784009154908": 67,
+      "gas:candidate-vibid:4784009155275": 186,
+      "gas:candidate-vibid:4784009155165": 44,
+      "gas:candidate-vibid:4784009154892": 68,
+      "gas:candidate-vibid:4784009155058": 13,
+      "gas:candidate-vibid:4784009154925": 109,
+      "gas:candidate-vibid:4784009155069": 10,
+      "gas:candidate-vibid:4784009155219": 4,
+      "gas:candidate-vibid:4784009154880": 9,
+      "gas:candidate-vibid:4784009155025": 11
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/st-petersburg?action=show&root=1000280&tvd=2782000678283&vrn=100100067795849&region=78&global=&sub_region=78&prver=0&pronetvd=null&vibid=2782000678283&type=464",
@@ -12243,17 +12243,17 @@ export const duma_2016_uik_463_region_78_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Голов Анатолий Григорьевич": 54,
-      "Иванова Ирина Владимировна": 50,
-      "Катенев Владимир Иванович": 142,
-      "Крутов Андрей Дмитриевич": 40,
-      "Лавров Олег Леонидович": 50,
-      "Максаков Олег Борисович": 17,
-      "Нилов Олег Анатольевич": 91,
-      "Новиков Александр Иванович": 15,
-      "Попова Ольга Валерьевна": 6,
-      "Привалов Александр Станиславович": 7,
-      "Стародубцев Михаил Павлович": 11
+      "gas:candidate-vibid:4784009155263": 54,
+      "gas:candidate-vibid:4784009154908": 50,
+      "gas:candidate-vibid:4784009155275": 142,
+      "gas:candidate-vibid:4784009155165": 40,
+      "gas:candidate-vibid:4784009154892": 50,
+      "gas:candidate-vibid:4784009155058": 17,
+      "gas:candidate-vibid:4784009154925": 91,
+      "gas:candidate-vibid:4784009155069": 15,
+      "gas:candidate-vibid:4784009155219": 6,
+      "gas:candidate-vibid:4784009154880": 7,
+      "gas:candidate-vibid:4784009155025": 11
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/st-petersburg?action=show&root=1000280&tvd=2782000678283&vrn=100100067795849&region=78&global=&sub_region=78&prver=0&pronetvd=null&vibid=2782000678283&type=464",
@@ -12304,17 +12304,17 @@ export const duma_2016_uik_463_region_78_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Голов Анатолий Григорьевич": 76,
-      "Иванова Ирина Владимировна": 52,
-      "Катенев Владимир Иванович": 231,
-      "Крутов Андрей Дмитриевич": 46,
-      "Лавров Олег Леонидович": 64,
-      "Максаков Олег Борисович": 14,
-      "Нилов Олег Анатольевич": 140,
-      "Новиков Александр Иванович": 88,
-      "Попова Ольга Валерьевна": 16,
-      "Привалов Александр Станиславович": 9,
-      "Стародубцев Михаил Павлович": 18
+      "gas:candidate-vibid:4784009155263": 76,
+      "gas:candidate-vibid:4784009154908": 52,
+      "gas:candidate-vibid:4784009155275": 231,
+      "gas:candidate-vibid:4784009155165": 46,
+      "gas:candidate-vibid:4784009154892": 64,
+      "gas:candidate-vibid:4784009155058": 14,
+      "gas:candidate-vibid:4784009154925": 140,
+      "gas:candidate-vibid:4784009155069": 88,
+      "gas:candidate-vibid:4784009155219": 16,
+      "gas:candidate-vibid:4784009154880": 9,
+      "gas:candidate-vibid:4784009155025": 18
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/st-petersburg?action=show&root=1000280&tvd=2782000678283&vrn=100100067795849&region=78&global=&sub_region=78&prver=0&pronetvd=null&vibid=2782000678283&type=464",
@@ -12365,17 +12365,17 @@ export const duma_2016_uik_463_region_78_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Голов Анатолий Григорьевич": 107,
-      "Иванова Ирина Владимировна": 80,
-      "Катенев Владимир Иванович": 218,
-      "Крутов Андрей Дмитриевич": 62,
-      "Лавров Олег Леонидович": 84,
-      "Максаков Олег Борисович": 15,
-      "Нилов Олег Анатольевич": 164,
-      "Новиков Александр Иванович": 8,
-      "Попова Ольга Валерьевна": 7,
-      "Привалов Александр Станиславович": 12,
-      "Стародубцев Михаил Павлович": 16
+      "gas:candidate-vibid:4784009155263": 107,
+      "gas:candidate-vibid:4784009154908": 80,
+      "gas:candidate-vibid:4784009155275": 218,
+      "gas:candidate-vibid:4784009155165": 62,
+      "gas:candidate-vibid:4784009154892": 84,
+      "gas:candidate-vibid:4784009155058": 15,
+      "gas:candidate-vibid:4784009154925": 164,
+      "gas:candidate-vibid:4784009155069": 8,
+      "gas:candidate-vibid:4784009155219": 7,
+      "gas:candidate-vibid:4784009154880": 12,
+      "gas:candidate-vibid:4784009155025": 16
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/st-petersburg?action=show&root=1000280&tvd=2782000678283&vrn=100100067795849&region=78&global=&sub_region=78&prver=0&pronetvd=null&vibid=2782000678283&type=464",
@@ -12426,17 +12426,17 @@ export const duma_2016_uik_463_region_78_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Голов Анатолий Григорьевич": 92,
-      "Иванова Ирина Владимировна": 88,
-      "Катенев Владимир Иванович": 232,
-      "Крутов Андрей Дмитриевич": 61,
-      "Лавров Олег Леонидович": 72,
-      "Максаков Олег Борисович": 12,
-      "Нилов Олег Анатольевич": 154,
-      "Новиков Александр Иванович": 13,
-      "Попова Ольга Валерьевна": 4,
-      "Привалов Александр Станиславович": 18,
-      "Стародубцев Михаил Павлович": 12
+      "gas:candidate-vibid:4784009155263": 92,
+      "gas:candidate-vibid:4784009154908": 88,
+      "gas:candidate-vibid:4784009155275": 232,
+      "gas:candidate-vibid:4784009155165": 61,
+      "gas:candidate-vibid:4784009154892": 72,
+      "gas:candidate-vibid:4784009155058": 12,
+      "gas:candidate-vibid:4784009154925": 154,
+      "gas:candidate-vibid:4784009155069": 13,
+      "gas:candidate-vibid:4784009155219": 4,
+      "gas:candidate-vibid:4784009154880": 18,
+      "gas:candidate-vibid:4784009155025": 12
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/st-petersburg?action=show&root=1000280&tvd=2782000678283&vrn=100100067795849&region=78&global=&sub_region=78&prver=0&pronetvd=null&vibid=2782000678283&type=464",
@@ -12487,17 +12487,17 @@ export const duma_2016_uik_463_region_78_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Голов Анатолий Григорьевич": 88,
-      "Иванова Ирина Владимировна": 75,
-      "Катенев Владимир Иванович": 225,
-      "Крутов Андрей Дмитриевич": 59,
-      "Лавров Олег Леонидович": 82,
-      "Максаков Олег Борисович": 16,
-      "Нилов Олег Анатольевич": 150,
-      "Новиков Александр Иванович": 15,
-      "Попова Ольга Валерьевна": 10,
-      "Привалов Александр Станиславович": 8,
-      "Стародубцев Михаил Павлович": 12
+      "gas:candidate-vibid:4784009155263": 88,
+      "gas:candidate-vibid:4784009154908": 75,
+      "gas:candidate-vibid:4784009155275": 225,
+      "gas:candidate-vibid:4784009155165": 59,
+      "gas:candidate-vibid:4784009154892": 82,
+      "gas:candidate-vibid:4784009155058": 16,
+      "gas:candidate-vibid:4784009154925": 150,
+      "gas:candidate-vibid:4784009155069": 15,
+      "gas:candidate-vibid:4784009155219": 10,
+      "gas:candidate-vibid:4784009154880": 8,
+      "gas:candidate-vibid:4784009155025": 12
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/st-petersburg?action=show&root=1000280&tvd=2782000678283&vrn=100100067795849&region=78&global=&sub_region=78&prver=0&pronetvd=null&vibid=2782000678283&type=464",
@@ -12548,17 +12548,17 @@ export const duma_2016_uik_463_region_78_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Голов Анатолий Григорьевич": 105,
-      "Иванова Ирина Владимировна": 92,
-      "Катенев Владимир Иванович": 207,
-      "Крутов Андрей Дмитриевич": 59,
-      "Лавров Олег Леонидович": 75,
-      "Максаков Олег Борисович": 9,
-      "Нилов Олег Анатольевич": 122,
-      "Новиков Александр Иванович": 20,
-      "Попова Ольга Валерьевна": 6,
-      "Привалов Александр Станиславович": 14,
-      "Стародубцев Михаил Павлович": 7
+      "gas:candidate-vibid:4784009155263": 105,
+      "gas:candidate-vibid:4784009154908": 92,
+      "gas:candidate-vibid:4784009155275": 207,
+      "gas:candidate-vibid:4784009155165": 59,
+      "gas:candidate-vibid:4784009154892": 75,
+      "gas:candidate-vibid:4784009155058": 9,
+      "gas:candidate-vibid:4784009154925": 122,
+      "gas:candidate-vibid:4784009155069": 20,
+      "gas:candidate-vibid:4784009155219": 6,
+      "gas:candidate-vibid:4784009154880": 14,
+      "gas:candidate-vibid:4784009155025": 7
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/st-petersburg?action=show&root=1000280&tvd=2782000678283&vrn=100100067795849&region=78&global=&sub_region=78&prver=0&pronetvd=null&vibid=2782000678283&type=464",
@@ -12609,17 +12609,17 @@ export const duma_2016_uik_463_region_78_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Голов Анатолий Григорьевич": 91,
-      "Иванова Ирина Владимировна": 104,
-      "Катенев Владимир Иванович": 205,
-      "Крутов Андрей Дмитриевич": 56,
-      "Лавров Олег Леонидович": 79,
-      "Максаков Олег Борисович": 14,
-      "Нилов Олег Анатольевич": 124,
-      "Новиков Александр Иванович": 12,
-      "Попова Ольга Валерьевна": 8,
-      "Привалов Александр Станиславович": 11,
-      "Стародубцев Михаил Павлович": 12
+      "gas:candidate-vibid:4784009155263": 91,
+      "gas:candidate-vibid:4784009154908": 104,
+      "gas:candidate-vibid:4784009155275": 205,
+      "gas:candidate-vibid:4784009155165": 56,
+      "gas:candidate-vibid:4784009154892": 79,
+      "gas:candidate-vibid:4784009155058": 14,
+      "gas:candidate-vibid:4784009154925": 124,
+      "gas:candidate-vibid:4784009155069": 12,
+      "gas:candidate-vibid:4784009155219": 8,
+      "gas:candidate-vibid:4784009154880": 11,
+      "gas:candidate-vibid:4784009155025": 12
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/st-petersburg?action=show&root=1000280&tvd=2782000678283&vrn=100100067795849&region=78&global=&sub_region=78&prver=0&pronetvd=null&vibid=2782000678283&type=464",
@@ -12670,17 +12670,17 @@ export const duma_2016_uik_463_region_78_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Голов Анатолий Григорьевич": 86,
-      "Иванова Ирина Владимировна": 82,
-      "Катенев Владимир Иванович": 241,
-      "Крутов Андрей Дмитриевич": 72,
-      "Лавров Олег Леонидович": 73,
-      "Максаков Олег Борисович": 32,
-      "Нилов Олег Анатольевич": 123,
-      "Новиков Александр Иванович": 12,
-      "Попова Ольга Валерьевна": 9,
-      "Привалов Александр Станиславович": 20,
-      "Стародубцев Михаил Павлович": 9
+      "gas:candidate-vibid:4784009155263": 86,
+      "gas:candidate-vibid:4784009154908": 82,
+      "gas:candidate-vibid:4784009155275": 241,
+      "gas:candidate-vibid:4784009155165": 72,
+      "gas:candidate-vibid:4784009154892": 73,
+      "gas:candidate-vibid:4784009155058": 32,
+      "gas:candidate-vibid:4784009154925": 123,
+      "gas:candidate-vibid:4784009155069": 12,
+      "gas:candidate-vibid:4784009155219": 9,
+      "gas:candidate-vibid:4784009154880": 20,
+      "gas:candidate-vibid:4784009155025": 9
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/st-petersburg?action=show&root=1000280&tvd=2782000678283&vrn=100100067795849&region=78&global=&sub_region=78&prver=0&pronetvd=null&vibid=2782000678283&type=464",
@@ -12731,17 +12731,17 @@ export const duma_2016_uik_463_region_78_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Голов Анатолий Григорьевич": 32,
-      "Иванова Ирина Владимировна": 25,
-      "Катенев Владимир Иванович": 120,
-      "Крутов Андрей Дмитриевич": 31,
-      "Лавров Олег Леонидович": 32,
-      "Максаков Олег Борисович": 21,
-      "Нилов Олег Анатольевич": 454,
-      "Новиков Александр Иванович": 12,
-      "Попова Ольга Валерьевна": 6,
-      "Привалов Александр Станиславович": 12,
-      "Стародубцев Михаил Павлович": 13
+      "gas:candidate-vibid:4784009155263": 32,
+      "gas:candidate-vibid:4784009154908": 25,
+      "gas:candidate-vibid:4784009155275": 120,
+      "gas:candidate-vibid:4784009155165": 31,
+      "gas:candidate-vibid:4784009154892": 32,
+      "gas:candidate-vibid:4784009155058": 21,
+      "gas:candidate-vibid:4784009154925": 454,
+      "gas:candidate-vibid:4784009155069": 12,
+      "gas:candidate-vibid:4784009155219": 6,
+      "gas:candidate-vibid:4784009154880": 12,
+      "gas:candidate-vibid:4784009155025": 13
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/st-petersburg?action=show&root=1000280&tvd=2782000678283&vrn=100100067795849&region=78&global=&sub_region=78&prver=0&pronetvd=null&vibid=2782000678283&type=464",
@@ -12792,17 +12792,17 @@ export const duma_2016_uik_463_region_78_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Голов Анатолий Григорьевич": 125,
-      "Иванова Ирина Владимировна": 91,
-      "Катенев Владимир Иванович": 219,
-      "Крутов Андрей Дмитриевич": 77,
-      "Лавров Олег Леонидович": 82,
-      "Максаков Олег Борисович": 20,
-      "Нилов Олег Анатольевич": 101,
-      "Новиков Александр Иванович": 11,
-      "Попова Ольга Валерьевна": 8,
-      "Привалов Александр Станиславович": 17,
-      "Стародубцев Михаил Павлович": 13
+      "gas:candidate-vibid:4784009155263": 125,
+      "gas:candidate-vibid:4784009154908": 91,
+      "gas:candidate-vibid:4784009155275": 219,
+      "gas:candidate-vibid:4784009155165": 77,
+      "gas:candidate-vibid:4784009154892": 82,
+      "gas:candidate-vibid:4784009155058": 20,
+      "gas:candidate-vibid:4784009154925": 101,
+      "gas:candidate-vibid:4784009155069": 11,
+      "gas:candidate-vibid:4784009155219": 8,
+      "gas:candidate-vibid:4784009154880": 17,
+      "gas:candidate-vibid:4784009155025": 13
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/st-petersburg?action=show&root=1000280&tvd=2782000678283&vrn=100100067795849&region=78&global=&sub_region=78&prver=0&pronetvd=null&vibid=2782000678283&type=464",
@@ -12853,17 +12853,17 @@ export const duma_2016_uik_463_region_78_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Голов Анатолий Григорьевич": 112,
-      "Иванова Ирина Владимировна": 95,
-      "Катенев Владимир Иванович": 185,
-      "Крутов Андрей Дмитриевич": 67,
-      "Лавров Олег Леонидович": 79,
-      "Максаков Олег Борисович": 22,
-      "Нилов Олег Анатольевич": 132,
-      "Новиков Александр Иванович": 14,
-      "Попова Ольга Валерьевна": 7,
-      "Привалов Александр Станиславович": 17,
-      "Стародубцев Михаил Павлович": 18
+      "gas:candidate-vibid:4784009155263": 112,
+      "gas:candidate-vibid:4784009154908": 95,
+      "gas:candidate-vibid:4784009155275": 185,
+      "gas:candidate-vibid:4784009155165": 67,
+      "gas:candidate-vibid:4784009154892": 79,
+      "gas:candidate-vibid:4784009155058": 22,
+      "gas:candidate-vibid:4784009154925": 132,
+      "gas:candidate-vibid:4784009155069": 14,
+      "gas:candidate-vibid:4784009155219": 7,
+      "gas:candidate-vibid:4784009154880": 17,
+      "gas:candidate-vibid:4784009155025": 18
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/st-petersburg?action=show&root=1000280&tvd=2782000678283&vrn=100100067795849&region=78&global=&sub_region=78&prver=0&pronetvd=null&vibid=2782000678283&type=464",
@@ -12914,17 +12914,17 @@ export const duma_2016_uik_463_region_78_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Голов Анатолий Григорьевич": 72,
-      "Иванова Ирина Владимировна": 55,
-      "Катенев Владимир Иванович": 138,
-      "Крутов Андрей Дмитриевич": 23,
-      "Лавров Олег Леонидович": 45,
-      "Максаков Олег Борисович": 16,
-      "Нилов Олег Анатольевич": 59,
-      "Новиков Александр Иванович": 8,
-      "Попова Ольга Валерьевна": 6,
-      "Привалов Александр Станиславович": 13,
-      "Стародубцев Михаил Павлович": 5
+      "gas:candidate-vibid:4784009155263": 72,
+      "gas:candidate-vibid:4784009154908": 55,
+      "gas:candidate-vibid:4784009155275": 138,
+      "gas:candidate-vibid:4784009155165": 23,
+      "gas:candidate-vibid:4784009154892": 45,
+      "gas:candidate-vibid:4784009155058": 16,
+      "gas:candidate-vibid:4784009154925": 59,
+      "gas:candidate-vibid:4784009155069": 8,
+      "gas:candidate-vibid:4784009155219": 6,
+      "gas:candidate-vibid:4784009154880": 13,
+      "gas:candidate-vibid:4784009155025": 5
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/st-petersburg?action=show&root=1000280&tvd=2782000678283&vrn=100100067795849&region=78&global=&sub_region=78&prver=0&pronetvd=null&vibid=2782000678283&type=464",
@@ -12975,17 +12975,17 @@ export const duma_2016_uik_463_region_78_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Голов Анатолий Григорьевич": 67,
-      "Иванова Ирина Владимировна": 70,
-      "Катенев Владимир Иванович": 194,
-      "Крутов Андрей Дмитриевич": 57,
-      "Лавров Олег Леонидович": 79,
-      "Максаков Олег Борисович": 16,
-      "Нилов Олег Анатольевич": 105,
-      "Новиков Александр Иванович": 8,
-      "Попова Ольга Валерьевна": 5,
-      "Привалов Александр Станиславович": 12,
-      "Стародубцев Михаил Павлович": 10
+      "gas:candidate-vibid:4784009155263": 67,
+      "gas:candidate-vibid:4784009154908": 70,
+      "gas:candidate-vibid:4784009155275": 194,
+      "gas:candidate-vibid:4784009155165": 57,
+      "gas:candidate-vibid:4784009154892": 79,
+      "gas:candidate-vibid:4784009155058": 16,
+      "gas:candidate-vibid:4784009154925": 105,
+      "gas:candidate-vibid:4784009155069": 8,
+      "gas:candidate-vibid:4784009155219": 5,
+      "gas:candidate-vibid:4784009154880": 12,
+      "gas:candidate-vibid:4784009155025": 10
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/st-petersburg?action=show&root=1000280&tvd=2782000678283&vrn=100100067795849&region=78&global=&sub_region=78&prver=0&pronetvd=null&vibid=2782000678283&type=464",
@@ -13036,17 +13036,17 @@ export const duma_2016_uik_463_region_78_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Голов Анатолий Григорьевич": 106,
-      "Иванова Ирина Владимировна": 85,
-      "Катенев Владимир Иванович": 212,
-      "Крутов Андрей Дмитриевич": 50,
-      "Лавров Олег Леонидович": 75,
-      "Максаков Олег Борисович": 11,
-      "Нилов Олег Анатольевич": 134,
-      "Новиков Александр Иванович": 13,
-      "Попова Ольга Валерьевна": 5,
-      "Привалов Александр Станиславович": 5,
-      "Стародубцев Михаил Павлович": 24
+      "gas:candidate-vibid:4784009155263": 106,
+      "gas:candidate-vibid:4784009154908": 85,
+      "gas:candidate-vibid:4784009155275": 212,
+      "gas:candidate-vibid:4784009155165": 50,
+      "gas:candidate-vibid:4784009154892": 75,
+      "gas:candidate-vibid:4784009155058": 11,
+      "gas:candidate-vibid:4784009154925": 134,
+      "gas:candidate-vibid:4784009155069": 13,
+      "gas:candidate-vibid:4784009155219": 5,
+      "gas:candidate-vibid:4784009154880": 5,
+      "gas:candidate-vibid:4784009155025": 24
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/st-petersburg?action=show&root=1000280&tvd=2782000678283&vrn=100100067795849&region=78&global=&sub_region=78&prver=0&pronetvd=null&vibid=2782000678283&type=464",
@@ -13097,17 +13097,17 @@ export const duma_2016_uik_463_region_78_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Голов Анатолий Григорьевич": 107,
-      "Иванова Ирина Владимировна": 108,
-      "Катенев Владимир Иванович": 213,
-      "Крутов Андрей Дмитриевич": 76,
-      "Лавров Олег Леонидович": 68,
-      "Максаков Олег Борисович": 29,
-      "Нилов Олег Анатольевич": 135,
-      "Новиков Александр Иванович": 16,
-      "Попова Ольга Валерьевна": 7,
-      "Привалов Александр Станиславович": 10,
-      "Стародубцев Михаил Павлович": 10
+      "gas:candidate-vibid:4784009155263": 107,
+      "gas:candidate-vibid:4784009154908": 108,
+      "gas:candidate-vibid:4784009155275": 213,
+      "gas:candidate-vibid:4784009155165": 76,
+      "gas:candidate-vibid:4784009154892": 68,
+      "gas:candidate-vibid:4784009155058": 29,
+      "gas:candidate-vibid:4784009154925": 135,
+      "gas:candidate-vibid:4784009155069": 16,
+      "gas:candidate-vibid:4784009155219": 7,
+      "gas:candidate-vibid:4784009154880": 10,
+      "gas:candidate-vibid:4784009155025": 10
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/st-petersburg?action=show&root=1000280&tvd=2782000678283&vrn=100100067795849&region=78&global=&sub_region=78&prver=0&pronetvd=null&vibid=2782000678283&type=464",
@@ -13158,17 +13158,17 @@ export const duma_2016_uik_463_region_78_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Голов Анатолий Григорьевич": 62,
-      "Иванова Ирина Владимировна": 60,
-      "Катенев Владимир Иванович": 195,
-      "Крутов Андрей Дмитриевич": 28,
-      "Лавров Олег Леонидович": 92,
-      "Максаков Олег Борисович": 13,
-      "Нилов Олег Анатольевич": 119,
-      "Новиков Александр Иванович": 9,
-      "Попова Ольга Валерьевна": 8,
-      "Привалов Александр Станиславович": 11,
-      "Стародубцев Михаил Павлович": 10
+      "gas:candidate-vibid:4784009155263": 62,
+      "gas:candidate-vibid:4784009154908": 60,
+      "gas:candidate-vibid:4784009155275": 195,
+      "gas:candidate-vibid:4784009155165": 28,
+      "gas:candidate-vibid:4784009154892": 92,
+      "gas:candidate-vibid:4784009155058": 13,
+      "gas:candidate-vibid:4784009154925": 119,
+      "gas:candidate-vibid:4784009155069": 9,
+      "gas:candidate-vibid:4784009155219": 8,
+      "gas:candidate-vibid:4784009154880": 11,
+      "gas:candidate-vibid:4784009155025": 10
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/st-petersburg?action=show&root=1000280&tvd=2782000678283&vrn=100100067795849&region=78&global=&sub_region=78&prver=0&pronetvd=null&vibid=2782000678283&type=464",
@@ -13219,17 +13219,17 @@ export const duma_2016_uik_463_region_78_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Голов Анатолий Григорьевич": 65,
-      "Иванова Ирина Владимировна": 75,
-      "Катенев Владимир Иванович": 203,
-      "Крутов Андрей Дмитриевич": 38,
-      "Лавров Олег Леонидович": 83,
-      "Максаков Олег Борисович": 14,
-      "Нилов Олег Анатольевич": 154,
-      "Новиков Александр Иванович": 12,
-      "Попова Ольга Валерьевна": 6,
-      "Привалов Александр Станиславович": 11,
-      "Стародубцев Михаил Павлович": 15
+      "gas:candidate-vibid:4784009155263": 65,
+      "gas:candidate-vibid:4784009154908": 75,
+      "gas:candidate-vibid:4784009155275": 203,
+      "gas:candidate-vibid:4784009155165": 38,
+      "gas:candidate-vibid:4784009154892": 83,
+      "gas:candidate-vibid:4784009155058": 14,
+      "gas:candidate-vibid:4784009154925": 154,
+      "gas:candidate-vibid:4784009155069": 12,
+      "gas:candidate-vibid:4784009155219": 6,
+      "gas:candidate-vibid:4784009154880": 11,
+      "gas:candidate-vibid:4784009155025": 15
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/st-petersburg?action=show&root=1000280&tvd=2782000678283&vrn=100100067795849&region=78&global=&sub_region=78&prver=0&pronetvd=null&vibid=2782000678283&type=464",
@@ -13280,17 +13280,17 @@ export const duma_2016_uik_463_region_78_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Голов Анатолий Григорьевич": 81,
-      "Иванова Ирина Владимировна": 73,
-      "Катенев Владимир Иванович": 207,
-      "Крутов Андрей Дмитриевич": 60,
-      "Лавров Олег Леонидович": 75,
-      "Максаков Олег Борисович": 18,
-      "Нилов Олег Анатольевич": 134,
-      "Новиков Александр Иванович": 9,
-      "Попова Ольга Валерьевна": 7,
-      "Привалов Александр Станиславович": 9,
-      "Стародубцев Михаил Павлович": 12
+      "gas:candidate-vibid:4784009155263": 81,
+      "gas:candidate-vibid:4784009154908": 73,
+      "gas:candidate-vibid:4784009155275": 207,
+      "gas:candidate-vibid:4784009155165": 60,
+      "gas:candidate-vibid:4784009154892": 75,
+      "gas:candidate-vibid:4784009155058": 18,
+      "gas:candidate-vibid:4784009154925": 134,
+      "gas:candidate-vibid:4784009155069": 9,
+      "gas:candidate-vibid:4784009155219": 7,
+      "gas:candidate-vibid:4784009154880": 9,
+      "gas:candidate-vibid:4784009155025": 12
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/st-petersburg?action=show&root=1000280&tvd=2782000678283&vrn=100100067795849&region=78&global=&sub_region=78&prver=0&pronetvd=null&vibid=2782000678283&type=464",
@@ -13341,17 +13341,17 @@ export const duma_2016_uik_463_region_78_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Голов Анатолий Григорьевич": 46,
-      "Иванова Ирина Владимировна": 40,
-      "Катенев Владимир Иванович": 169,
-      "Крутов Андрей Дмитриевич": 46,
-      "Лавров Олег Леонидович": 35,
-      "Максаков Олег Борисович": 21,
-      "Нилов Олег Анатольевич": 239,
-      "Новиков Александр Иванович": 8,
-      "Попова Ольга Валерьевна": 3,
-      "Привалов Александр Станиславович": 22,
-      "Стародубцев Михаил Павлович": 8
+      "gas:candidate-vibid:4784009155263": 46,
+      "gas:candidate-vibid:4784009154908": 40,
+      "gas:candidate-vibid:4784009155275": 169,
+      "gas:candidate-vibid:4784009155165": 46,
+      "gas:candidate-vibid:4784009154892": 35,
+      "gas:candidate-vibid:4784009155058": 21,
+      "gas:candidate-vibid:4784009154925": 239,
+      "gas:candidate-vibid:4784009155069": 8,
+      "gas:candidate-vibid:4784009155219": 3,
+      "gas:candidate-vibid:4784009154880": 22,
+      "gas:candidate-vibid:4784009155025": 8
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/st-petersburg?action=show&root=1000280&tvd=2782000678283&vrn=100100067795849&region=78&global=&sub_region=78&prver=0&pronetvd=null&vibid=2782000678283&type=464",
@@ -13402,17 +13402,17 @@ export const duma_2016_uik_463_region_78_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Голов Анатолий Григорьевич": 69,
-      "Иванова Ирина Владимировна": 45,
-      "Катенев Владимир Иванович": 161,
-      "Крутов Андрей Дмитриевич": 45,
-      "Лавров Олег Леонидович": 39,
-      "Максаков Олег Борисович": 21,
-      "Нилов Олег Анатольевич": 240,
-      "Новиков Александр Иванович": 7,
-      "Попова Ольга Валерьевна": 7,
-      "Привалов Александр Станиславович": 15,
-      "Стародубцев Михаил Павлович": 15
+      "gas:candidate-vibid:4784009155263": 69,
+      "gas:candidate-vibid:4784009154908": 45,
+      "gas:candidate-vibid:4784009155275": 161,
+      "gas:candidate-vibid:4784009155165": 45,
+      "gas:candidate-vibid:4784009154892": 39,
+      "gas:candidate-vibid:4784009155058": 21,
+      "gas:candidate-vibid:4784009154925": 240,
+      "gas:candidate-vibid:4784009155069": 7,
+      "gas:candidate-vibid:4784009155219": 7,
+      "gas:candidate-vibid:4784009154880": 15,
+      "gas:candidate-vibid:4784009155025": 15
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/st-petersburg?action=show&root=1000280&tvd=2782000678283&vrn=100100067795849&region=78&global=&sub_region=78&prver=0&pronetvd=null&vibid=2782000678283&type=464",
@@ -13463,17 +13463,17 @@ export const duma_2016_uik_463_region_78_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Голов Анатолий Григорьевич": 51,
-      "Иванова Ирина Владимировна": 63,
-      "Катенев Владимир Иванович": 139,
-      "Крутов Андрей Дмитриевич": 45,
-      "Лавров Олег Леонидович": 47,
-      "Максаков Олег Борисович": 13,
-      "Нилов Олег Анатольевич": 150,
-      "Новиков Александр Иванович": 15,
-      "Попова Ольга Валерьевна": 3,
-      "Привалов Александр Станиславович": 8,
-      "Стародубцев Михаил Павлович": 15
+      "gas:candidate-vibid:4784009155263": 51,
+      "gas:candidate-vibid:4784009154908": 63,
+      "gas:candidate-vibid:4784009155275": 139,
+      "gas:candidate-vibid:4784009155165": 45,
+      "gas:candidate-vibid:4784009154892": 47,
+      "gas:candidate-vibid:4784009155058": 13,
+      "gas:candidate-vibid:4784009154925": 150,
+      "gas:candidate-vibid:4784009155069": 15,
+      "gas:candidate-vibid:4784009155219": 3,
+      "gas:candidate-vibid:4784009154880": 8,
+      "gas:candidate-vibid:4784009155025": 15
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/st-petersburg?action=show&root=1000280&tvd=2782000678283&vrn=100100067795849&region=78&global=&sub_region=78&prver=0&pronetvd=null&vibid=2782000678283&type=464",
@@ -13524,17 +13524,17 @@ export const duma_2016_uik_463_region_78_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Голов Анатолий Григорьевич": 86,
-      "Иванова Ирина Владимировна": 51,
-      "Катенев Владимир Иванович": 151,
-      "Крутов Андрей Дмитриевич": 60,
-      "Лавров Олег Леонидович": 70,
-      "Максаков Олег Борисович": 25,
-      "Нилов Олег Анатольевич": 158,
-      "Новиков Александр Иванович": 6,
-      "Попова Ольга Валерьевна": 13,
-      "Привалов Александр Станиславович": 11,
-      "Стародубцев Михаил Павлович": 22
+      "gas:candidate-vibid:4784009155263": 86,
+      "gas:candidate-vibid:4784009154908": 51,
+      "gas:candidate-vibid:4784009155275": 151,
+      "gas:candidate-vibid:4784009155165": 60,
+      "gas:candidate-vibid:4784009154892": 70,
+      "gas:candidate-vibid:4784009155058": 25,
+      "gas:candidate-vibid:4784009154925": 158,
+      "gas:candidate-vibid:4784009155069": 6,
+      "gas:candidate-vibid:4784009155219": 13,
+      "gas:candidate-vibid:4784009154880": 11,
+      "gas:candidate-vibid:4784009155025": 22
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/st-petersburg?action=show&root=1000280&tvd=2782000678283&vrn=100100067795849&region=78&global=&sub_region=78&prver=0&pronetvd=null&vibid=2782000678283&type=464",
@@ -13585,17 +13585,17 @@ export const duma_2016_uik_463_region_78_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Голов Анатолий Григорьевич": 130,
-      "Иванова Ирина Владимировна": 62,
-      "Катенев Владимир Иванович": 207,
-      "Крутов Андрей Дмитриевич": 60,
-      "Лавров Олег Леонидович": 71,
-      "Максаков Олег Борисович": 29,
-      "Нилов Олег Анатольевич": 116,
-      "Новиков Александр Иванович": 21,
-      "Попова Ольга Валерьевна": 13,
-      "Привалов Александр Станиславович": 19,
-      "Стародубцев Михаил Павлович": 13
+      "gas:candidate-vibid:4784009155263": 130,
+      "gas:candidate-vibid:4784009154908": 62,
+      "gas:candidate-vibid:4784009155275": 207,
+      "gas:candidate-vibid:4784009155165": 60,
+      "gas:candidate-vibid:4784009154892": 71,
+      "gas:candidate-vibid:4784009155058": 29,
+      "gas:candidate-vibid:4784009154925": 116,
+      "gas:candidate-vibid:4784009155069": 21,
+      "gas:candidate-vibid:4784009155219": 13,
+      "gas:candidate-vibid:4784009154880": 19,
+      "gas:candidate-vibid:4784009155025": 13
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/st-petersburg?action=show&root=1000280&tvd=2782000678283&vrn=100100067795849&region=78&global=&sub_region=78&prver=0&pronetvd=null&vibid=2782000678283&type=464",
@@ -13646,17 +13646,17 @@ export const duma_2016_uik_463_region_78_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Голов Анатолий Григорьевич": 53,
-      "Иванова Ирина Владимировна": 43,
-      "Катенев Владимир Иванович": 144,
-      "Крутов Андрей Дмитриевич": 28,
-      "Лавров Олег Леонидович": 41,
-      "Максаков Олег Борисович": 14,
-      "Нилов Олег Анатольевич": 270,
-      "Новиков Александр Иванович": 8,
-      "Попова Ольга Валерьевна": 5,
-      "Привалов Александр Станиславович": 11,
-      "Стародубцев Михаил Павлович": 5
+      "gas:candidate-vibid:4784009155263": 53,
+      "gas:candidate-vibid:4784009154908": 43,
+      "gas:candidate-vibid:4784009155275": 144,
+      "gas:candidate-vibid:4784009155165": 28,
+      "gas:candidate-vibid:4784009154892": 41,
+      "gas:candidate-vibid:4784009155058": 14,
+      "gas:candidate-vibid:4784009154925": 270,
+      "gas:candidate-vibid:4784009155069": 8,
+      "gas:candidate-vibid:4784009155219": 5,
+      "gas:candidate-vibid:4784009154880": 11,
+      "gas:candidate-vibid:4784009155025": 5
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/st-petersburg?action=show&root=1000280&tvd=2782000678283&vrn=100100067795849&region=78&global=&sub_region=78&prver=0&pronetvd=null&vibid=2782000678283&type=464",
@@ -13707,17 +13707,17 @@ export const duma_2016_uik_463_region_78_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Голов Анатолий Григорьевич": 56,
-      "Иванова Ирина Владимировна": 51,
-      "Катенев Владимир Иванович": 142,
-      "Крутов Андрей Дмитриевич": 53,
-      "Лавров Олег Леонидович": 44,
-      "Максаков Олег Борисович": 12,
-      "Нилов Олег Анатольевич": 245,
-      "Новиков Александр Иванович": 7,
-      "Попова Ольга Валерьевна": 2,
-      "Привалов Александр Станиславович": 5,
-      "Стародубцев Михаил Павлович": 4
+      "gas:candidate-vibid:4784009155263": 56,
+      "gas:candidate-vibid:4784009154908": 51,
+      "gas:candidate-vibid:4784009155275": 142,
+      "gas:candidate-vibid:4784009155165": 53,
+      "gas:candidate-vibid:4784009154892": 44,
+      "gas:candidate-vibid:4784009155058": 12,
+      "gas:candidate-vibid:4784009154925": 245,
+      "gas:candidate-vibid:4784009155069": 7,
+      "gas:candidate-vibid:4784009155219": 2,
+      "gas:candidate-vibid:4784009154880": 5,
+      "gas:candidate-vibid:4784009155025": 4
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/st-petersburg?action=show&root=1000280&tvd=2782000678283&vrn=100100067795849&region=78&global=&sub_region=78&prver=0&pronetvd=null&vibid=2782000678283&type=464",
@@ -13768,17 +13768,17 @@ export const duma_2016_uik_463_region_78_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Голов Анатолий Григорьевич": 27,
-      "Иванова Ирина Владимировна": 20,
-      "Катенев Владимир Иванович": 105,
-      "Крутов Андрей Дмитриевич": 20,
-      "Лавров Олег Леонидович": 39,
-      "Максаков Олег Борисович": 8,
-      "Нилов Олег Анатольевич": 191,
-      "Новиков Александр Иванович": 6,
-      "Попова Ольга Валерьевна": 7,
-      "Привалов Александр Станиславович": 10,
-      "Стародубцев Михаил Павлович": 2
+      "gas:candidate-vibid:4784009155263": 27,
+      "gas:candidate-vibid:4784009154908": 20,
+      "gas:candidate-vibid:4784009155275": 105,
+      "gas:candidate-vibid:4784009155165": 20,
+      "gas:candidate-vibid:4784009154892": 39,
+      "gas:candidate-vibid:4784009155058": 8,
+      "gas:candidate-vibid:4784009154925": 191,
+      "gas:candidate-vibid:4784009155069": 6,
+      "gas:candidate-vibid:4784009155219": 7,
+      "gas:candidate-vibid:4784009154880": 10,
+      "gas:candidate-vibid:4784009155025": 2
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/st-petersburg?action=show&root=1000280&tvd=2782000678283&vrn=100100067795849&region=78&global=&sub_region=78&prver=0&pronetvd=null&vibid=2782000678283&type=464",
@@ -13829,17 +13829,17 @@ export const duma_2016_uik_463_region_78_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Голов Анатолий Григорьевич": 71,
-      "Иванова Ирина Владимировна": 79,
-      "Катенев Владимир Иванович": 179,
-      "Крутов Андрей Дмитриевич": 59,
-      "Лавров Олег Леонидович": 46,
-      "Максаков Олег Борисович": 14,
-      "Нилов Олег Анатольевич": 263,
-      "Новиков Александр Иванович": 13,
-      "Попова Ольга Валерьевна": 2,
-      "Привалов Александр Станиславович": 16,
-      "Стародубцев Михаил Павлович": 11
+      "gas:candidate-vibid:4784009155263": 71,
+      "gas:candidate-vibid:4784009154908": 79,
+      "gas:candidate-vibid:4784009155275": 179,
+      "gas:candidate-vibid:4784009155165": 59,
+      "gas:candidate-vibid:4784009154892": 46,
+      "gas:candidate-vibid:4784009155058": 14,
+      "gas:candidate-vibid:4784009154925": 263,
+      "gas:candidate-vibid:4784009155069": 13,
+      "gas:candidate-vibid:4784009155219": 2,
+      "gas:candidate-vibid:4784009154880": 16,
+      "gas:candidate-vibid:4784009155025": 11
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/st-petersburg?action=show&root=1000280&tvd=2782000678283&vrn=100100067795849&region=78&global=&sub_region=78&prver=0&pronetvd=null&vibid=2782000678283&type=464",
@@ -13890,17 +13890,17 @@ export const duma_2016_uik_463_region_78_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Голов Анатолий Григорьевич": 55,
-      "Иванова Ирина Владимировна": 57,
-      "Катенев Владимир Иванович": 134,
-      "Крутов Андрей Дмитриевич": 34,
-      "Лавров Олег Леонидович": 26,
-      "Максаков Олег Борисович": 12,
-      "Нилов Олег Анатольевич": 205,
-      "Новиков Александр Иванович": 10,
-      "Попова Ольга Валерьевна": 5,
-      "Привалов Александр Станиславович": 8,
-      "Стародубцев Михаил Павлович": 6
+      "gas:candidate-vibid:4784009155263": 55,
+      "gas:candidate-vibid:4784009154908": 57,
+      "gas:candidate-vibid:4784009155275": 134,
+      "gas:candidate-vibid:4784009155165": 34,
+      "gas:candidate-vibid:4784009154892": 26,
+      "gas:candidate-vibid:4784009155058": 12,
+      "gas:candidate-vibid:4784009154925": 205,
+      "gas:candidate-vibid:4784009155069": 10,
+      "gas:candidate-vibid:4784009155219": 5,
+      "gas:candidate-vibid:4784009154880": 8,
+      "gas:candidate-vibid:4784009155025": 6
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/st-petersburg?action=show&root=1000280&tvd=2782000678283&vrn=100100067795849&region=78&global=&sub_region=78&prver=0&pronetvd=null&vibid=2782000678283&type=464",
@@ -13951,17 +13951,17 @@ export const duma_2016_uik_463_region_78_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Голов Анатолий Григорьевич": 49,
-      "Иванова Ирина Владимировна": 38,
-      "Катенев Владимир Иванович": 166,
-      "Крутов Андрей Дмитриевич": 34,
-      "Лавров Олег Леонидович": 32,
-      "Максаков Олег Борисович": 9,
-      "Нилов Олег Анатольевич": 189,
-      "Новиков Александр Иванович": 10,
-      "Попова Ольга Валерьевна": 6,
-      "Привалов Александр Станиславович": 8,
-      "Стародубцев Михаил Павлович": 7
+      "gas:candidate-vibid:4784009155263": 49,
+      "gas:candidate-vibid:4784009154908": 38,
+      "gas:candidate-vibid:4784009155275": 166,
+      "gas:candidate-vibid:4784009155165": 34,
+      "gas:candidate-vibid:4784009154892": 32,
+      "gas:candidate-vibid:4784009155058": 9,
+      "gas:candidate-vibid:4784009154925": 189,
+      "gas:candidate-vibid:4784009155069": 10,
+      "gas:candidate-vibid:4784009155219": 6,
+      "gas:candidate-vibid:4784009154880": 8,
+      "gas:candidate-vibid:4784009155025": 7
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/st-petersburg?action=show&root=1000280&tvd=2782000678283&vrn=100100067795849&region=78&global=&sub_region=78&prver=0&pronetvd=null&vibid=2782000678283&type=464",
@@ -14012,17 +14012,17 @@ export const duma_2016_uik_463_region_78_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Голов Анатолий Григорьевич": 84,
-      "Иванова Ирина Владимировна": 38,
-      "Катенев Владимир Иванович": 163,
-      "Крутов Андрей Дмитриевич": 38,
-      "Лавров Олег Леонидович": 45,
-      "Максаков Олег Борисович": 15,
-      "Нилов Олег Анатольевич": 196,
-      "Новиков Александр Иванович": 7,
-      "Попова Ольга Валерьевна": 8,
-      "Привалов Александр Станиславович": 12,
-      "Стародубцев Михаил Павлович": 5
+      "gas:candidate-vibid:4784009155263": 84,
+      "gas:candidate-vibid:4784009154908": 38,
+      "gas:candidate-vibid:4784009155275": 163,
+      "gas:candidate-vibid:4784009155165": 38,
+      "gas:candidate-vibid:4784009154892": 45,
+      "gas:candidate-vibid:4784009155058": 15,
+      "gas:candidate-vibid:4784009154925": 196,
+      "gas:candidate-vibid:4784009155069": 7,
+      "gas:candidate-vibid:4784009155219": 8,
+      "gas:candidate-vibid:4784009154880": 12,
+      "gas:candidate-vibid:4784009155025": 5
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/st-petersburg?action=show&root=1000280&tvd=2782000678283&vrn=100100067795849&region=78&global=&sub_region=78&prver=0&pronetvd=null&vibid=2782000678283&type=464",
@@ -14073,17 +14073,17 @@ export const duma_2016_uik_463_region_78_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Голов Анатолий Григорьевич": 76,
-      "Иванова Ирина Владимировна": 52,
-      "Катенев Владимир Иванович": 152,
-      "Крутов Андрей Дмитриевич": 49,
-      "Лавров Олег Леонидович": 39,
-      "Максаков Олег Борисович": 12,
-      "Нилов Олег Анатольевич": 207,
-      "Новиков Александр Иванович": 19,
-      "Попова Ольга Валерьевна": 10,
-      "Привалов Александр Станиславович": 14,
-      "Стародубцев Михаил Павлович": 13
+      "gas:candidate-vibid:4784009155263": 76,
+      "gas:candidate-vibid:4784009154908": 52,
+      "gas:candidate-vibid:4784009155275": 152,
+      "gas:candidate-vibid:4784009155165": 49,
+      "gas:candidate-vibid:4784009154892": 39,
+      "gas:candidate-vibid:4784009155058": 12,
+      "gas:candidate-vibid:4784009154925": 207,
+      "gas:candidate-vibid:4784009155069": 19,
+      "gas:candidate-vibid:4784009155219": 10,
+      "gas:candidate-vibid:4784009154880": 14,
+      "gas:candidate-vibid:4784009155025": 13
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/st-petersburg?action=show&root=1000280&tvd=2782000678283&vrn=100100067795849&region=78&global=&sub_region=78&prver=0&pronetvd=null&vibid=2782000678283&type=464",
@@ -14134,17 +14134,17 @@ export const duma_2016_uik_463_region_78_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Голов Анатолий Григорьевич": 56,
-      "Иванова Ирина Владимировна": 73,
-      "Катенев Владимир Иванович": 152,
-      "Крутов Андрей Дмитриевич": 31,
-      "Лавров Олег Леонидович": 45,
-      "Максаков Олег Борисович": 9,
-      "Нилов Олег Анатольевич": 173,
-      "Новиков Александр Иванович": 7,
-      "Попова Ольга Валерьевна": 9,
-      "Привалов Александр Станиславович": 13,
-      "Стародубцев Михаил Павлович": 15
+      "gas:candidate-vibid:4784009155263": 56,
+      "gas:candidate-vibid:4784009154908": 73,
+      "gas:candidate-vibid:4784009155275": 152,
+      "gas:candidate-vibid:4784009155165": 31,
+      "gas:candidate-vibid:4784009154892": 45,
+      "gas:candidate-vibid:4784009155058": 9,
+      "gas:candidate-vibid:4784009154925": 173,
+      "gas:candidate-vibid:4784009155069": 7,
+      "gas:candidate-vibid:4784009155219": 9,
+      "gas:candidate-vibid:4784009154880": 13,
+      "gas:candidate-vibid:4784009155025": 15
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/st-petersburg?action=show&root=1000280&tvd=2782000678283&vrn=100100067795849&region=78&global=&sub_region=78&prver=0&pronetvd=null&vibid=2782000678283&type=464",
@@ -14195,17 +14195,17 @@ export const duma_2016_uik_463_region_78_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Голов Анатолий Григорьевич": 62,
-      "Иванова Ирина Владимировна": 47,
-      "Катенев Владимир Иванович": 127,
-      "Крутов Андрей Дмитриевич": 32,
-      "Лавров Олег Леонидович": 28,
-      "Максаков Олег Борисович": 14,
-      "Нилов Олег Анатольевич": 212,
-      "Новиков Александр Иванович": 8,
-      "Попова Ольга Валерьевна": 3,
-      "Привалов Александр Станиславович": 9,
-      "Стародубцев Михаил Павлович": 8
+      "gas:candidate-vibid:4784009155263": 62,
+      "gas:candidate-vibid:4784009154908": 47,
+      "gas:candidate-vibid:4784009155275": 127,
+      "gas:candidate-vibid:4784009155165": 32,
+      "gas:candidate-vibid:4784009154892": 28,
+      "gas:candidate-vibid:4784009155058": 14,
+      "gas:candidate-vibid:4784009154925": 212,
+      "gas:candidate-vibid:4784009155069": 8,
+      "gas:candidate-vibid:4784009155219": 3,
+      "gas:candidate-vibid:4784009154880": 9,
+      "gas:candidate-vibid:4784009155025": 8
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/st-petersburg?action=show&root=1000280&tvd=2782000678283&vrn=100100067795849&region=78&global=&sub_region=78&prver=0&pronetvd=null&vibid=2782000678283&type=464",
@@ -14256,17 +14256,17 @@ export const duma_2016_uik_463_region_78_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Голов Анатолий Григорьевич": 65,
-      "Иванова Ирина Владимировна": 56,
-      "Катенев Владимир Иванович": 158,
-      "Крутов Андрей Дмитриевич": 52,
-      "Лавров Олег Леонидович": 44,
-      "Максаков Олег Борисович": 17,
-      "Нилов Олег Анатольевич": 207,
-      "Новиков Александр Иванович": 10,
-      "Попова Ольга Валерьевна": 9,
-      "Привалов Александр Станиславович": 3,
-      "Стародубцев Михаил Павлович": 9
+      "gas:candidate-vibid:4784009155263": 65,
+      "gas:candidate-vibid:4784009154908": 56,
+      "gas:candidate-vibid:4784009155275": 158,
+      "gas:candidate-vibid:4784009155165": 52,
+      "gas:candidate-vibid:4784009154892": 44,
+      "gas:candidate-vibid:4784009155058": 17,
+      "gas:candidate-vibid:4784009154925": 207,
+      "gas:candidate-vibid:4784009155069": 10,
+      "gas:candidate-vibid:4784009155219": 9,
+      "gas:candidate-vibid:4784009154880": 3,
+      "gas:candidate-vibid:4784009155025": 9
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/st-petersburg?action=show&root=1000280&tvd=2782000678283&vrn=100100067795849&region=78&global=&sub_region=78&prver=0&pronetvd=null&vibid=2782000678283&type=464",
@@ -14317,17 +14317,17 @@ export const duma_2016_uik_463_region_78_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Голов Анатолий Григорьевич": 77,
-      "Иванова Ирина Владимировна": 51,
-      "Катенев Владимир Иванович": 154,
-      "Крутов Андрей Дмитриевич": 39,
-      "Лавров Олег Леонидович": 59,
-      "Максаков Олег Борисович": 13,
-      "Нилов Олег Анатольевич": 255,
-      "Новиков Александр Иванович": 10,
-      "Попова Ольга Валерьевна": 6,
-      "Привалов Александр Станиславович": 7,
-      "Стародубцев Михаил Павлович": 8
+      "gas:candidate-vibid:4784009155263": 77,
+      "gas:candidate-vibid:4784009154908": 51,
+      "gas:candidate-vibid:4784009155275": 154,
+      "gas:candidate-vibid:4784009155165": 39,
+      "gas:candidate-vibid:4784009154892": 59,
+      "gas:candidate-vibid:4784009155058": 13,
+      "gas:candidate-vibid:4784009154925": 255,
+      "gas:candidate-vibid:4784009155069": 10,
+      "gas:candidate-vibid:4784009155219": 6,
+      "gas:candidate-vibid:4784009154880": 7,
+      "gas:candidate-vibid:4784009155025": 8
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/st-petersburg?action=show&root=1000280&tvd=2782000678283&vrn=100100067795849&region=78&global=&sub_region=78&prver=0&pronetvd=null&vibid=2782000678283&type=464",
@@ -14378,17 +14378,17 @@ export const duma_2016_uik_463_region_78_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Голов Анатолий Григорьевич": 45,
-      "Иванова Ирина Владимировна": 53,
-      "Катенев Владимир Иванович": 150,
-      "Крутов Андрей Дмитриевич": 46,
-      "Лавров Олег Леонидович": 52,
-      "Максаков Олег Борисович": 16,
-      "Нилов Олег Анатольевич": 250,
-      "Новиков Александр Иванович": 9,
-      "Попова Ольга Валерьевна": 4,
-      "Привалов Александр Станиславович": 13,
-      "Стародубцев Михаил Павлович": 9
+      "gas:candidate-vibid:4784009155263": 45,
+      "gas:candidate-vibid:4784009154908": 53,
+      "gas:candidate-vibid:4784009155275": 150,
+      "gas:candidate-vibid:4784009155165": 46,
+      "gas:candidate-vibid:4784009154892": 52,
+      "gas:candidate-vibid:4784009155058": 16,
+      "gas:candidate-vibid:4784009154925": 250,
+      "gas:candidate-vibid:4784009155069": 9,
+      "gas:candidate-vibid:4784009155219": 4,
+      "gas:candidate-vibid:4784009154880": 13,
+      "gas:candidate-vibid:4784009155025": 9
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/st-petersburg?action=show&root=1000280&tvd=2782000678283&vrn=100100067795849&region=78&global=&sub_region=78&prver=0&pronetvd=null&vibid=2782000678283&type=464",
@@ -14439,17 +14439,17 @@ export const duma_2016_uik_463_region_78_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Голов Анатолий Григорьевич": 64,
-      "Иванова Ирина Владимировна": 72,
-      "Катенев Владимир Иванович": 176,
-      "Крутов Андрей Дмитриевич": 51,
-      "Лавров Олег Леонидович": 59,
-      "Максаков Олег Борисович": 13,
-      "Нилов Олег Анатольевич": 228,
-      "Новиков Александр Иванович": 14,
-      "Попова Ольга Валерьевна": 4,
-      "Привалов Александр Станиславович": 12,
-      "Стародубцев Михаил Павлович": 3
+      "gas:candidate-vibid:4784009155263": 64,
+      "gas:candidate-vibid:4784009154908": 72,
+      "gas:candidate-vibid:4784009155275": 176,
+      "gas:candidate-vibid:4784009155165": 51,
+      "gas:candidate-vibid:4784009154892": 59,
+      "gas:candidate-vibid:4784009155058": 13,
+      "gas:candidate-vibid:4784009154925": 228,
+      "gas:candidate-vibid:4784009155069": 14,
+      "gas:candidate-vibid:4784009155219": 4,
+      "gas:candidate-vibid:4784009154880": 12,
+      "gas:candidate-vibid:4784009155025": 3
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/st-petersburg?action=show&root=1000280&tvd=2782000678283&vrn=100100067795849&region=78&global=&sub_region=78&prver=0&pronetvd=null&vibid=2782000678283&type=464",
@@ -14500,17 +14500,17 @@ export const duma_2016_uik_463_region_78_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Голов Анатолий Григорьевич": 53,
-      "Иванова Ирина Владимировна": 76,
-      "Катенев Владимир Иванович": 155,
-      "Крутов Андрей Дмитриевич": 61,
-      "Лавров Олег Леонидович": 58,
-      "Максаков Олег Борисович": 18,
-      "Нилов Олег Анатольевич": 211,
-      "Новиков Александр Иванович": 16,
-      "Попова Ольга Валерьевна": 4,
-      "Привалов Александр Станиславович": 14,
-      "Стародубцев Михаил Павлович": 8
+      "gas:candidate-vibid:4784009155263": 53,
+      "gas:candidate-vibid:4784009154908": 76,
+      "gas:candidate-vibid:4784009155275": 155,
+      "gas:candidate-vibid:4784009155165": 61,
+      "gas:candidate-vibid:4784009154892": 58,
+      "gas:candidate-vibid:4784009155058": 18,
+      "gas:candidate-vibid:4784009154925": 211,
+      "gas:candidate-vibid:4784009155069": 16,
+      "gas:candidate-vibid:4784009155219": 4,
+      "gas:candidate-vibid:4784009154880": 14,
+      "gas:candidate-vibid:4784009155025": 8
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/st-petersburg?action=show&root=1000280&tvd=2782000678283&vrn=100100067795849&region=78&global=&sub_region=78&prver=0&pronetvd=null&vibid=2782000678283&type=464",
@@ -14561,17 +14561,17 @@ export const duma_2016_uik_463_region_78_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Голов Анатолий Григорьевич": 65,
-      "Иванова Ирина Владимировна": 63,
-      "Катенев Владимир Иванович": 154,
-      "Крутов Андрей Дмитриевич": 39,
-      "Лавров Олег Леонидович": 46,
-      "Максаков Олег Борисович": 12,
-      "Нилов Олег Анатольевич": 365,
-      "Новиков Александр Иванович": 13,
-      "Попова Ольга Валерьевна": 6,
-      "Привалов Александр Станиславович": 7,
-      "Стародубцев Михаил Павлович": 15
+      "gas:candidate-vibid:4784009155263": 65,
+      "gas:candidate-vibid:4784009154908": 63,
+      "gas:candidate-vibid:4784009155275": 154,
+      "gas:candidate-vibid:4784009155165": 39,
+      "gas:candidate-vibid:4784009154892": 46,
+      "gas:candidate-vibid:4784009155058": 12,
+      "gas:candidate-vibid:4784009154925": 365,
+      "gas:candidate-vibid:4784009155069": 13,
+      "gas:candidate-vibid:4784009155219": 6,
+      "gas:candidate-vibid:4784009154880": 7,
+      "gas:candidate-vibid:4784009155025": 15
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/st-petersburg?action=show&root=1000280&tvd=2782000678283&vrn=100100067795849&region=78&global=&sub_region=78&prver=0&pronetvd=null&vibid=2782000678283&type=464",
@@ -14622,17 +14622,17 @@ export const duma_2016_uik_463_region_78_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Голов Анатолий Григорьевич": 49,
-      "Иванова Ирина Владимировна": 70,
-      "Катенев Владимир Иванович": 212,
-      "Крутов Андрей Дмитриевич": 38,
-      "Лавров Олег Леонидович": 52,
-      "Максаков Олег Борисович": 9,
-      "Нилов Олег Анатольевич": 348,
-      "Новиков Александр Иванович": 9,
-      "Попова Ольга Валерьевна": 4,
-      "Привалов Александр Станиславович": 18,
-      "Стародубцев Михаил Павлович": 15
+      "gas:candidate-vibid:4784009155263": 49,
+      "gas:candidate-vibid:4784009154908": 70,
+      "gas:candidate-vibid:4784009155275": 212,
+      "gas:candidate-vibid:4784009155165": 38,
+      "gas:candidate-vibid:4784009154892": 52,
+      "gas:candidate-vibid:4784009155058": 9,
+      "gas:candidate-vibid:4784009154925": 348,
+      "gas:candidate-vibid:4784009155069": 9,
+      "gas:candidate-vibid:4784009155219": 4,
+      "gas:candidate-vibid:4784009154880": 18,
+      "gas:candidate-vibid:4784009155025": 15
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/st-petersburg?action=show&root=1000280&tvd=2782000678283&vrn=100100067795849&region=78&global=&sub_region=78&prver=0&pronetvd=null&vibid=2782000678283&type=464",
@@ -14683,17 +14683,17 @@ export const duma_2016_uik_463_region_78_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Голов Анатолий Григорьевич": 45,
-      "Иванова Ирина Владимировна": 48,
-      "Катенев Владимир Иванович": 199,
-      "Крутов Андрей Дмитриевич": 63,
-      "Лавров Олег Леонидович": 55,
-      "Максаков Олег Борисович": 7,
-      "Нилов Олег Анатольевич": 178,
-      "Новиков Александр Иванович": 9,
-      "Попова Ольга Валерьевна": 2,
-      "Привалов Александр Станиславович": 14,
-      "Стародубцев Михаил Павлович": 11
+      "gas:candidate-vibid:4784009155263": 45,
+      "gas:candidate-vibid:4784009154908": 48,
+      "gas:candidate-vibid:4784009155275": 199,
+      "gas:candidate-vibid:4784009155165": 63,
+      "gas:candidate-vibid:4784009154892": 55,
+      "gas:candidate-vibid:4784009155058": 7,
+      "gas:candidate-vibid:4784009154925": 178,
+      "gas:candidate-vibid:4784009155069": 9,
+      "gas:candidate-vibid:4784009155219": 2,
+      "gas:candidate-vibid:4784009154880": 14,
+      "gas:candidate-vibid:4784009155025": 11
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/st-petersburg?action=show&root=1000280&tvd=2782000678283&vrn=100100067795849&region=78&global=&sub_region=78&prver=0&pronetvd=null&vibid=2782000678283&type=464",
@@ -14744,17 +14744,17 @@ export const duma_2016_uik_463_region_78_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Голов Анатолий Григорьевич": 61,
-      "Иванова Ирина Владимировна": 75,
-      "Катенев Владимир Иванович": 200,
-      "Крутов Андрей Дмитриевич": 59,
-      "Лавров Олег Леонидович": 69,
-      "Максаков Олег Борисович": 15,
-      "Нилов Олег Анатольевич": 197,
-      "Новиков Александр Иванович": 15,
-      "Попова Ольга Валерьевна": 7,
-      "Привалов Александр Станиславович": 15,
-      "Стародубцев Михаил Павлович": 6
+      "gas:candidate-vibid:4784009155263": 61,
+      "gas:candidate-vibid:4784009154908": 75,
+      "gas:candidate-vibid:4784009155275": 200,
+      "gas:candidate-vibid:4784009155165": 59,
+      "gas:candidate-vibid:4784009154892": 69,
+      "gas:candidate-vibid:4784009155058": 15,
+      "gas:candidate-vibid:4784009154925": 197,
+      "gas:candidate-vibid:4784009155069": 15,
+      "gas:candidate-vibid:4784009155219": 7,
+      "gas:candidate-vibid:4784009154880": 15,
+      "gas:candidate-vibid:4784009155025": 6
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/st-petersburg?action=show&root=1000280&tvd=2782000678283&vrn=100100067795849&region=78&global=&sub_region=78&prver=0&pronetvd=null&vibid=2782000678283&type=464",
@@ -14805,17 +14805,17 @@ export const duma_2016_uik_463_region_78_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Голов Анатолий Григорьевич": 78,
-      "Иванова Ирина Владимировна": 81,
-      "Катенев Владимир Иванович": 200,
-      "Крутов Андрей Дмитриевич": 57,
-      "Лавров Олег Леонидович": 57,
-      "Максаков Олег Борисович": 25,
-      "Нилов Олег Анатольевич": 228,
-      "Новиков Александр Иванович": 19,
-      "Попова Ольга Валерьевна": 10,
-      "Привалов Александр Станиславович": 17,
-      "Стародубцев Михаил Павлович": 16
+      "gas:candidate-vibid:4784009155263": 78,
+      "gas:candidate-vibid:4784009154908": 81,
+      "gas:candidate-vibid:4784009155275": 200,
+      "gas:candidate-vibid:4784009155165": 57,
+      "gas:candidate-vibid:4784009154892": 57,
+      "gas:candidate-vibid:4784009155058": 25,
+      "gas:candidate-vibid:4784009154925": 228,
+      "gas:candidate-vibid:4784009155069": 19,
+      "gas:candidate-vibid:4784009155219": 10,
+      "gas:candidate-vibid:4784009154880": 17,
+      "gas:candidate-vibid:4784009155025": 16
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/st-petersburg?action=show&root=1000280&tvd=2782000678283&vrn=100100067795849&region=78&global=&sub_region=78&prver=0&pronetvd=null&vibid=2782000678283&type=464",
@@ -14866,17 +14866,17 @@ export const duma_2016_uik_463_region_78_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Голов Анатолий Григорьевич": 68,
-      "Иванова Ирина Владимировна": 77,
-      "Катенев Владимир Иванович": 143,
-      "Крутов Андрей Дмитриевич": 59,
-      "Лавров Олег Леонидович": 47,
-      "Максаков Олег Борисович": 25,
-      "Нилов Олег Анатольевич": 151,
-      "Новиков Александр Иванович": 16,
-      "Попова Ольга Валерьевна": 4,
-      "Привалов Александр Станиславович": 15,
-      "Стародубцев Михаил Павлович": 25
+      "gas:candidate-vibid:4784009155263": 68,
+      "gas:candidate-vibid:4784009154908": 77,
+      "gas:candidate-vibid:4784009155275": 143,
+      "gas:candidate-vibid:4784009155165": 59,
+      "gas:candidate-vibid:4784009154892": 47,
+      "gas:candidate-vibid:4784009155058": 25,
+      "gas:candidate-vibid:4784009154925": 151,
+      "gas:candidate-vibid:4784009155069": 16,
+      "gas:candidate-vibid:4784009155219": 4,
+      "gas:candidate-vibid:4784009154880": 15,
+      "gas:candidate-vibid:4784009155025": 25
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/st-petersburg?action=show&root=1000280&tvd=2782000678283&vrn=100100067795849&region=78&global=&sub_region=78&prver=0&pronetvd=null&vibid=2782000678283&type=464",
@@ -14927,17 +14927,17 @@ export const duma_2016_uik_463_region_78_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Голов Анатолий Григорьевич": 65,
-      "Иванова Ирина Владимировна": 74,
-      "Катенев Владимир Иванович": 176,
-      "Крутов Андрей Дмитриевич": 53,
-      "Лавров Олег Леонидович": 56,
-      "Максаков Олег Борисович": 20,
-      "Нилов Олег Анатольевич": 186,
-      "Новиков Александр Иванович": 13,
-      "Попова Ольга Валерьевна": 6,
-      "Привалов Александр Станиславович": 12,
-      "Стародубцев Михаил Павлович": 11
+      "gas:candidate-vibid:4784009155263": 65,
+      "gas:candidate-vibid:4784009154908": 74,
+      "gas:candidate-vibid:4784009155275": 176,
+      "gas:candidate-vibid:4784009155165": 53,
+      "gas:candidate-vibid:4784009154892": 56,
+      "gas:candidate-vibid:4784009155058": 20,
+      "gas:candidate-vibid:4784009154925": 186,
+      "gas:candidate-vibid:4784009155069": 13,
+      "gas:candidate-vibid:4784009155219": 6,
+      "gas:candidate-vibid:4784009154880": 12,
+      "gas:candidate-vibid:4784009155025": 11
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/st-petersburg?action=show&root=1000280&tvd=2782000678283&vrn=100100067795849&region=78&global=&sub_region=78&prver=0&pronetvd=null&vibid=2782000678283&type=464",
@@ -14988,17 +14988,17 @@ export const duma_2016_uik_463_region_78_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Голов Анатолий Григорьевич": 60,
-      "Иванова Ирина Владимировна": 62,
-      "Катенев Владимир Иванович": 168,
-      "Крутов Андрей Дмитриевич": 61,
-      "Лавров Олег Леонидович": 61,
-      "Максаков Олег Борисович": 22,
-      "Нилов Олег Анатольевич": 153,
-      "Новиков Александр Иванович": 8,
-      "Попова Ольга Валерьевна": 8,
-      "Привалов Александр Станиславович": 10,
-      "Стародубцев Михаил Павлович": 9
+      "gas:candidate-vibid:4784009155263": 60,
+      "gas:candidate-vibid:4784009154908": 62,
+      "gas:candidate-vibid:4784009155275": 168,
+      "gas:candidate-vibid:4784009155165": 61,
+      "gas:candidate-vibid:4784009154892": 61,
+      "gas:candidate-vibid:4784009155058": 22,
+      "gas:candidate-vibid:4784009154925": 153,
+      "gas:candidate-vibid:4784009155069": 8,
+      "gas:candidate-vibid:4784009155219": 8,
+      "gas:candidate-vibid:4784009154880": 10,
+      "gas:candidate-vibid:4784009155025": 9
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/st-petersburg?action=show&root=1000280&tvd=2782000678283&vrn=100100067795849&region=78&global=&sub_region=78&prver=0&pronetvd=null&vibid=2782000678283&type=464",
@@ -15049,17 +15049,17 @@ export const duma_2016_uik_463_region_78_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Голов Анатолий Григорьевич": 40,
-      "Иванова Ирина Владимировна": 28,
-      "Катенев Владимир Иванович": 84,
-      "Крутов Андрей Дмитриевич": 29,
-      "Лавров Олег Леонидович": 30,
-      "Максаков Олег Борисович": 16,
-      "Нилов Олег Анатольевич": 54,
-      "Новиков Александр Иванович": 15,
-      "Попова Ольга Валерьевна": 0,
-      "Привалов Александр Станиславович": 5,
-      "Стародубцев Михаил Павлович": 6
+      "gas:candidate-vibid:4784009155263": 40,
+      "gas:candidate-vibid:4784009154908": 28,
+      "gas:candidate-vibid:4784009155275": 84,
+      "gas:candidate-vibid:4784009155165": 29,
+      "gas:candidate-vibid:4784009154892": 30,
+      "gas:candidate-vibid:4784009155058": 16,
+      "gas:candidate-vibid:4784009154925": 54,
+      "gas:candidate-vibid:4784009155069": 15,
+      "gas:candidate-vibid:4784009155219": 0,
+      "gas:candidate-vibid:4784009154880": 5,
+      "gas:candidate-vibid:4784009155025": 6
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/st-petersburg?action=show&root=1000280&tvd=2782000678283&vrn=100100067795849&region=78&global=&sub_region=78&prver=0&pronetvd=null&vibid=2782000678283&type=464",
@@ -15110,17 +15110,17 @@ export const duma_2016_uik_463_region_78_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Голов Анатолий Григорьевич": 68,
-      "Иванова Ирина Владимировна": 62,
-      "Катенев Владимир Иванович": 200,
-      "Крутов Андрей Дмитриевич": 54,
-      "Лавров Олег Леонидович": 43,
-      "Максаков Олег Борисович": 14,
-      "Нилов Олег Анатольевич": 137,
-      "Новиков Александр Иванович": 11,
-      "Попова Ольга Валерьевна": 5,
-      "Привалов Александр Станиславович": 15,
-      "Стародубцев Михаил Павлович": 15
+      "gas:candidate-vibid:4784009155263": 68,
+      "gas:candidate-vibid:4784009154908": 62,
+      "gas:candidate-vibid:4784009155275": 200,
+      "gas:candidate-vibid:4784009155165": 54,
+      "gas:candidate-vibid:4784009154892": 43,
+      "gas:candidate-vibid:4784009155058": 14,
+      "gas:candidate-vibid:4784009154925": 137,
+      "gas:candidate-vibid:4784009155069": 11,
+      "gas:candidate-vibid:4784009155219": 5,
+      "gas:candidate-vibid:4784009154880": 15,
+      "gas:candidate-vibid:4784009155025": 15
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/st-petersburg?action=show&root=1000280&tvd=2782000678283&vrn=100100067795849&region=78&global=&sub_region=78&prver=0&pronetvd=null&vibid=2782000678283&type=464",
@@ -15171,17 +15171,17 @@ export const duma_2016_uik_463_region_78_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Голов Анатолий Григорьевич": 102,
-      "Иванова Ирина Владимировна": 56,
-      "Катенев Владимир Иванович": 175,
-      "Крутов Андрей Дмитриевич": 79,
-      "Лавров Олег Леонидович": 70,
-      "Максаков Олег Борисович": 25,
-      "Нилов Олег Анатольевич": 150,
-      "Новиков Александр Иванович": 14,
-      "Попова Ольга Валерьевна": 10,
-      "Привалов Александр Станиславович": 12,
-      "Стародубцев Михаил Павлович": 8
+      "gas:candidate-vibid:4784009155263": 102,
+      "gas:candidate-vibid:4784009154908": 56,
+      "gas:candidate-vibid:4784009155275": 175,
+      "gas:candidate-vibid:4784009155165": 79,
+      "gas:candidate-vibid:4784009154892": 70,
+      "gas:candidate-vibid:4784009155058": 25,
+      "gas:candidate-vibid:4784009154925": 150,
+      "gas:candidate-vibid:4784009155069": 14,
+      "gas:candidate-vibid:4784009155219": 10,
+      "gas:candidate-vibid:4784009154880": 12,
+      "gas:candidate-vibid:4784009155025": 8
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/st-petersburg?action=show&root=1000280&tvd=2782000678283&vrn=100100067795849&region=78&global=&sub_region=78&prver=0&pronetvd=null&vibid=2782000678283&type=464",
@@ -15232,17 +15232,17 @@ export const duma_2016_uik_463_region_78_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Голов Анатолий Григорьевич": 81,
-      "Иванова Ирина Владимировна": 84,
-      "Катенев Владимир Иванович": 185,
-      "Крутов Андрей Дмитриевич": 51,
-      "Лавров Олег Леонидович": 66,
-      "Максаков Олег Борисович": 22,
-      "Нилов Олег Анатольевич": 169,
-      "Новиков Александр Иванович": 15,
-      "Попова Ольга Валерьевна": 12,
-      "Привалов Александр Станиславович": 16,
-      "Стародубцев Михаил Павлович": 10
+      "gas:candidate-vibid:4784009155263": 81,
+      "gas:candidate-vibid:4784009154908": 84,
+      "gas:candidate-vibid:4784009155275": 185,
+      "gas:candidate-vibid:4784009155165": 51,
+      "gas:candidate-vibid:4784009154892": 66,
+      "gas:candidate-vibid:4784009155058": 22,
+      "gas:candidate-vibid:4784009154925": 169,
+      "gas:candidate-vibid:4784009155069": 15,
+      "gas:candidate-vibid:4784009155219": 12,
+      "gas:candidate-vibid:4784009154880": 16,
+      "gas:candidate-vibid:4784009155025": 10
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/st-petersburg?action=show&root=1000280&tvd=2782000678283&vrn=100100067795849&region=78&global=&sub_region=78&prver=0&pronetvd=null&vibid=2782000678283&type=464",

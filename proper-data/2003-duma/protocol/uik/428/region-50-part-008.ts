@@ -42,13 +42,13 @@ export const duma_2003_uik_428_region_50_part_008 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Буров Сергей Александрович": 62,
-      "Ведехов Алексей Владимирович": 98,
-      "Голубев Сергей Олегович": 38,
-      "Кулаков Сергей Иванович": 56,
-      "Пекарев Владимир Янович": 635,
-      "Сонин Анатолий Алексеевич": 47,
-      "Против всех": 335
+      "gas:candidate-vibid:1001000190373": 62,
+      "gas:candidate-vibid:250200071323": 98,
+      "gas:candidate-vibid:350300670408": 38,
+      "gas:candidate-vibid:1001000195098": 56,
+      "gas:candidate-vibid:250200071326": 635,
+      "gas:candidate-vibid:1001000113949": 47,
+      "special:against-all": 335
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=503006005&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=350300670571&region=0&sub_region=0&type=429",
@@ -98,13 +98,13 @@ export const duma_2003_uik_428_region_50_part_008 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Буров Сергей Александрович": 11,
-      "Ведехов Алексей Владимирович": 1,
-      "Голубев Сергей Олегович": 1,
-      "Кулаков Сергей Иванович": 3,
-      "Пекарев Владимир Янович": 176,
-      "Сонин Анатолий Алексеевич": 8,
-      "Против всех": 16
+      "gas:candidate-vibid:1001000190373": 11,
+      "gas:candidate-vibid:250200071323": 1,
+      "gas:candidate-vibid:350300670408": 1,
+      "gas:candidate-vibid:1001000195098": 3,
+      "gas:candidate-vibid:250200071326": 176,
+      "gas:candidate-vibid:1001000113949": 8,
+      "special:against-all": 16
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=503006005&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=350300670571&region=0&sub_region=0&type=429",
@@ -154,13 +154,13 @@ export const duma_2003_uik_428_region_50_part_008 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Буров Сергей Александрович": 15,
-      "Ведехов Алексей Владимирович": 15,
-      "Голубев Сергей Олегович": 6,
-      "Кулаков Сергей Иванович": 9,
-      "Пекарев Владимир Янович": 294,
-      "Сонин Анатолий Алексеевич": 7,
-      "Против всех": 56
+      "gas:candidate-vibid:1001000190373": 15,
+      "gas:candidate-vibid:250200071323": 15,
+      "gas:candidate-vibid:350300670408": 6,
+      "gas:candidate-vibid:1001000195098": 9,
+      "gas:candidate-vibid:250200071326": 294,
+      "gas:candidate-vibid:1001000113949": 7,
+      "special:against-all": 56
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=503006005&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=350300670571&region=0&sub_region=0&type=429",
@@ -210,13 +210,13 @@ export const duma_2003_uik_428_region_50_part_008 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Буров Сергей Александрович": 3,
-      "Ведехов Алексей Владимирович": 1,
-      "Голубев Сергей Олегович": 8,
-      "Кулаков Сергей Иванович": 6,
-      "Пекарев Владимир Янович": 116,
-      "Сонин Анатолий Алексеевич": 9,
-      "Против всех": 33
+      "gas:candidate-vibid:1001000190373": 3,
+      "gas:candidate-vibid:250200071323": 1,
+      "gas:candidate-vibid:350300670408": 8,
+      "gas:candidate-vibid:1001000195098": 6,
+      "gas:candidate-vibid:250200071326": 116,
+      "gas:candidate-vibid:1001000113949": 9,
+      "special:against-all": 33
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=503006005&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=350300670571&region=0&sub_region=0&type=429",
@@ -266,13 +266,13 @@ export const duma_2003_uik_428_region_50_part_008 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Буров Сергей Александрович": 13,
-      "Ведехов Алексей Владимирович": 25,
-      "Голубев Сергей Олегович": 3,
-      "Кулаков Сергей Иванович": 12,
-      "Пекарев Владимир Янович": 346,
-      "Сонин Анатолий Алексеевич": 21,
-      "Против всех": 84
+      "gas:candidate-vibid:1001000190373": 13,
+      "gas:candidate-vibid:250200071323": 25,
+      "gas:candidate-vibid:350300670408": 3,
+      "gas:candidate-vibid:1001000195098": 12,
+      "gas:candidate-vibid:250200071326": 346,
+      "gas:candidate-vibid:1001000113949": 21,
+      "special:against-all": 84
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=503006005&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=350300670571&region=0&sub_region=0&type=429",
@@ -322,13 +322,13 @@ export const duma_2003_uik_428_region_50_part_008 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Буров Сергей Александрович": 5,
-      "Ведехов Алексей Владимирович": 6,
-      "Голубев Сергей Олегович": 5,
-      "Кулаков Сергей Иванович": 5,
-      "Пекарев Владимир Янович": 77,
-      "Сонин Анатолий Алексеевич": 6,
-      "Против всех": 32
+      "gas:candidate-vibid:1001000190373": 5,
+      "gas:candidate-vibid:250200071323": 6,
+      "gas:candidate-vibid:350300670408": 5,
+      "gas:candidate-vibid:1001000195098": 5,
+      "gas:candidate-vibid:250200071326": 77,
+      "gas:candidate-vibid:1001000113949": 6,
+      "special:against-all": 32
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=503006005&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=350300670571&region=0&sub_region=0&type=429",
@@ -378,13 +378,13 @@ export const duma_2003_uik_428_region_50_part_008 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Буров Сергей Александрович": 4,
-      "Ведехов Алексей Владимирович": 10,
-      "Голубев Сергей Олегович": 3,
-      "Кулаков Сергей Иванович": 4,
-      "Пекарев Владимир Янович": 108,
-      "Сонин Анатолий Алексеевич": 0,
-      "Против всех": 10
+      "gas:candidate-vibid:1001000190373": 4,
+      "gas:candidate-vibid:250200071323": 10,
+      "gas:candidate-vibid:350300670408": 3,
+      "gas:candidate-vibid:1001000195098": 4,
+      "gas:candidate-vibid:250200071326": 108,
+      "gas:candidate-vibid:1001000113949": 0,
+      "special:against-all": 10
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=503006005&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=350300670571&region=0&sub_region=0&type=429",
@@ -434,13 +434,13 @@ export const duma_2003_uik_428_region_50_part_008 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Буров Сергей Александрович": 12,
-      "Ведехов Алексей Владимирович": 19,
-      "Голубев Сергей Олегович": 16,
-      "Кулаков Сергей Иванович": 8,
-      "Пекарев Владимир Янович": 307,
-      "Сонин Анатолий Алексеевич": 10,
-      "Против всех": 85
+      "gas:candidate-vibid:1001000190373": 12,
+      "gas:candidate-vibid:250200071323": 19,
+      "gas:candidate-vibid:350300670408": 16,
+      "gas:candidate-vibid:1001000195098": 8,
+      "gas:candidate-vibid:250200071326": 307,
+      "gas:candidate-vibid:1001000113949": 10,
+      "special:against-all": 85
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=503006005&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=350300670571&region=0&sub_region=0&type=429",
@@ -490,13 +490,13 @@ export const duma_2003_uik_428_region_50_part_008 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Буров Сергей Александрович": 35,
-      "Ведехов Алексей Владимирович": 41,
-      "Голубев Сергей Олегович": 20,
-      "Кулаков Сергей Иванович": 34,
-      "Пекарев Владимир Янович": 456,
-      "Сонин Анатолий Алексеевич": 19,
-      "Против всех": 154
+      "gas:candidate-vibid:1001000190373": 35,
+      "gas:candidate-vibid:250200071323": 41,
+      "gas:candidate-vibid:350300670408": 20,
+      "gas:candidate-vibid:1001000195098": 34,
+      "gas:candidate-vibid:250200071326": 456,
+      "gas:candidate-vibid:1001000113949": 19,
+      "special:against-all": 154
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=503006005&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=350300670571&region=0&sub_region=0&type=429",
@@ -546,13 +546,13 @@ export const duma_2003_uik_428_region_50_part_008 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Буров Сергей Александрович": 14,
-      "Ведехов Алексей Владимирович": 16,
-      "Голубев Сергей Олегович": 6,
-      "Кулаков Сергей Иванович": 12,
-      "Пекарев Владимир Янович": 144,
-      "Сонин Анатолий Алексеевич": 8,
-      "Против всех": 45
+      "gas:candidate-vibid:1001000190373": 14,
+      "gas:candidate-vibid:250200071323": 16,
+      "gas:candidate-vibid:350300670408": 6,
+      "gas:candidate-vibid:1001000195098": 12,
+      "gas:candidate-vibid:250200071326": 144,
+      "gas:candidate-vibid:1001000113949": 8,
+      "special:against-all": 45
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=503006005&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=350300670571&region=0&sub_region=0&type=429",
@@ -602,13 +602,13 @@ export const duma_2003_uik_428_region_50_part_008 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Буров Сергей Александрович": 9,
-      "Ведехов Алексей Владимирович": 10,
-      "Голубев Сергей Олегович": 4,
-      "Кулаков Сергей Иванович": 8,
-      "Пекарев Владимир Янович": 273,
-      "Сонин Анатолий Алексеевич": 14,
-      "Против всех": 27
+      "gas:candidate-vibid:1001000190373": 9,
+      "gas:candidate-vibid:250200071323": 10,
+      "gas:candidate-vibid:350300670408": 4,
+      "gas:candidate-vibid:1001000195098": 8,
+      "gas:candidate-vibid:250200071326": 273,
+      "gas:candidate-vibid:1001000113949": 14,
+      "special:against-all": 27
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=503006005&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=350300670571&region=0&sub_region=0&type=429",
@@ -658,13 +658,13 @@ export const duma_2003_uik_428_region_50_part_008 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Буров Сергей Александрович": 80,
-      "Ведехов Алексей Владимирович": 60,
-      "Голубев Сергей Олегович": 21,
-      "Кулаков Сергей Иванович": 45,
-      "Пекарев Владимир Янович": 917,
-      "Сонин Анатолий Алексеевич": 48,
-      "Против всех": 308
+      "gas:candidate-vibid:1001000190373": 80,
+      "gas:candidate-vibid:250200071323": 60,
+      "gas:candidate-vibid:350300670408": 21,
+      "gas:candidate-vibid:1001000195098": 45,
+      "gas:candidate-vibid:250200071326": 917,
+      "gas:candidate-vibid:1001000113949": 48,
+      "special:against-all": 308
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=503006005&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=350300670571&region=0&sub_region=0&type=429",
@@ -714,13 +714,13 @@ export const duma_2003_uik_428_region_50_part_008 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Буров Сергей Александрович": 47,
-      "Ведехов Алексей Владимирович": 278,
-      "Голубев Сергей Олегович": 39,
-      "Кулаков Сергей Иванович": 42,
-      "Пекарев Владимир Янович": 301,
-      "Сонин Анатолий Алексеевич": 74,
-      "Против всех": 355
+      "gas:candidate-vibid:1001000190373": 47,
+      "gas:candidate-vibid:250200071323": 278,
+      "gas:candidate-vibid:350300670408": 39,
+      "gas:candidate-vibid:1001000195098": 42,
+      "gas:candidate-vibid:250200071326": 301,
+      "gas:candidate-vibid:1001000113949": 74,
+      "special:against-all": 355
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=503006006&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=350300670572&region=0&sub_region=0&type=429",
@@ -770,13 +770,13 @@ export const duma_2003_uik_428_region_50_part_008 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Буров Сергей Александрович": 63,
-      "Ведехов Алексей Владимирович": 267,
-      "Голубев Сергей Олегович": 60,
-      "Кулаков Сергей Иванович": 49,
-      "Пекарев Владимир Янович": 286,
-      "Сонин Анатолий Алексеевич": 107,
-      "Против всех": 465
+      "gas:candidate-vibid:1001000190373": 63,
+      "gas:candidate-vibid:250200071323": 267,
+      "gas:candidate-vibid:350300670408": 60,
+      "gas:candidate-vibid:1001000195098": 49,
+      "gas:candidate-vibid:250200071326": 286,
+      "gas:candidate-vibid:1001000113949": 107,
+      "special:against-all": 465
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=503006006&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=350300670572&region=0&sub_region=0&type=429",
@@ -826,13 +826,13 @@ export const duma_2003_uik_428_region_50_part_008 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Буров Сергей Александрович": 104,
-      "Ведехов Алексей Владимирович": 159,
-      "Голубев Сергей Олегович": 98,
-      "Кулаков Сергей Иванович": 75,
-      "Пекарев Владимир Янович": 278,
-      "Сонин Анатолий Алексеевич": 134,
-      "Против всех": 666
+      "gas:candidate-vibid:1001000190373": 104,
+      "gas:candidate-vibid:250200071323": 159,
+      "gas:candidate-vibid:350300670408": 98,
+      "gas:candidate-vibid:1001000195098": 75,
+      "gas:candidate-vibid:250200071326": 278,
+      "gas:candidate-vibid:1001000113949": 134,
+      "special:against-all": 666
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=503006006&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=350300670572&region=0&sub_region=0&type=429",
@@ -882,13 +882,13 @@ export const duma_2003_uik_428_region_50_part_008 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Буров Сергей Александрович": 25,
-      "Ведехов Алексей Владимирович": 82,
-      "Голубев Сергей Олегович": 37,
-      "Кулаков Сергей Иванович": 19,
-      "Пекарев Владимир Янович": 229,
-      "Сонин Анатолий Алексеевич": 47,
-      "Против всех": 152
+      "gas:candidate-vibid:1001000190373": 25,
+      "gas:candidate-vibid:250200071323": 82,
+      "gas:candidate-vibid:350300670408": 37,
+      "gas:candidate-vibid:1001000195098": 19,
+      "gas:candidate-vibid:250200071326": 229,
+      "gas:candidate-vibid:1001000113949": 47,
+      "special:against-all": 152
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=503006006&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=350300670572&region=0&sub_region=0&type=429",
@@ -938,13 +938,13 @@ export const duma_2003_uik_428_region_50_part_008 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Буров Сергей Александрович": 44,
-      "Ведехов Алексей Владимирович": 181,
-      "Голубев Сергей Олегович": 50,
-      "Кулаков Сергей Иванович": 31,
-      "Пекарев Владимир Янович": 304,
-      "Сонин Анатолий Алексеевич": 113,
-      "Против всех": 291
+      "gas:candidate-vibid:1001000190373": 44,
+      "gas:candidate-vibid:250200071323": 181,
+      "gas:candidate-vibid:350300670408": 50,
+      "gas:candidate-vibid:1001000195098": 31,
+      "gas:candidate-vibid:250200071326": 304,
+      "gas:candidate-vibid:1001000113949": 113,
+      "special:against-all": 291
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=503006006&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=350300670572&region=0&sub_region=0&type=429",
@@ -994,13 +994,13 @@ export const duma_2003_uik_428_region_50_part_008 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Буров Сергей Александрович": 67,
-      "Ведехов Алексей Владимирович": 220,
-      "Голубев Сергей Олегович": 51,
-      "Кулаков Сергей Иванович": 34,
-      "Пекарев Владимир Янович": 350,
-      "Сонин Анатолий Алексеевич": 91,
-      "Против всех": 347
+      "gas:candidate-vibid:1001000190373": 67,
+      "gas:candidate-vibid:250200071323": 220,
+      "gas:candidate-vibid:350300670408": 51,
+      "gas:candidate-vibid:1001000195098": 34,
+      "gas:candidate-vibid:250200071326": 350,
+      "gas:candidate-vibid:1001000113949": 91,
+      "special:against-all": 347
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=503006006&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=350300670572&region=0&sub_region=0&type=429",
@@ -1050,13 +1050,13 @@ export const duma_2003_uik_428_region_50_part_008 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Буров Сергей Александрович": 44,
-      "Ведехов Алексей Владимирович": 99,
-      "Голубев Сергей Олегович": 30,
-      "Кулаков Сергей Иванович": 17,
-      "Пекарев Владимир Янович": 286,
-      "Сонин Анатолий Алексеевич": 87,
-      "Против всех": 206
+      "gas:candidate-vibid:1001000190373": 44,
+      "gas:candidate-vibid:250200071323": 99,
+      "gas:candidate-vibid:350300670408": 30,
+      "gas:candidate-vibid:1001000195098": 17,
+      "gas:candidate-vibid:250200071326": 286,
+      "gas:candidate-vibid:1001000113949": 87,
+      "special:against-all": 206
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=503006006&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=350300670572&region=0&sub_region=0&type=429",
@@ -1106,13 +1106,13 @@ export const duma_2003_uik_428_region_50_part_008 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Буров Сергей Александрович": 39,
-      "Ведехов Алексей Владимирович": 131,
-      "Голубев Сергей Олегович": 68,
-      "Кулаков Сергей Иванович": 31,
-      "Пекарев Владимир Янович": 343,
-      "Сонин Анатолий Алексеевич": 133,
-      "Против всех": 335
+      "gas:candidate-vibid:1001000190373": 39,
+      "gas:candidate-vibid:250200071323": 131,
+      "gas:candidate-vibid:350300670408": 68,
+      "gas:candidate-vibid:1001000195098": 31,
+      "gas:candidate-vibid:250200071326": 343,
+      "gas:candidate-vibid:1001000113949": 133,
+      "special:against-all": 335
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=503006006&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=350300670572&region=0&sub_region=0&type=429",
@@ -1162,13 +1162,13 @@ export const duma_2003_uik_428_region_50_part_008 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Буров Сергей Александрович": 71,
-      "Ведехов Алексей Владимирович": 193,
-      "Голубев Сергей Олегович": 77,
-      "Кулаков Сергей Иванович": 49,
-      "Пекарев Владимир Янович": 382,
-      "Сонин Анатолий Алексеевич": 136,
-      "Против всех": 360
+      "gas:candidate-vibid:1001000190373": 71,
+      "gas:candidate-vibid:250200071323": 193,
+      "gas:candidate-vibid:350300670408": 77,
+      "gas:candidate-vibid:1001000195098": 49,
+      "gas:candidate-vibid:250200071326": 382,
+      "gas:candidate-vibid:1001000113949": 136,
+      "special:against-all": 360
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=503006006&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=350300670572&region=0&sub_region=0&type=429",
@@ -1218,13 +1218,13 @@ export const duma_2003_uik_428_region_50_part_008 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Буров Сергей Александрович": 23,
-      "Ведехов Алексей Владимирович": 137,
-      "Голубев Сергей Олегович": 42,
-      "Кулаков Сергей Иванович": 22,
-      "Пекарев Владимир Янович": 360,
-      "Сонин Анатолий Алексеевич": 88,
-      "Против всех": 237
+      "gas:candidate-vibid:1001000190373": 23,
+      "gas:candidate-vibid:250200071323": 137,
+      "gas:candidate-vibid:350300670408": 42,
+      "gas:candidate-vibid:1001000195098": 22,
+      "gas:candidate-vibid:250200071326": 360,
+      "gas:candidate-vibid:1001000113949": 88,
+      "special:against-all": 237
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=503006006&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=350300670572&region=0&sub_region=0&type=429",
@@ -1274,13 +1274,13 @@ export const duma_2003_uik_428_region_50_part_008 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Буров Сергей Александрович": 45,
-      "Ведехов Алексей Владимирович": 146,
-      "Голубев Сергей Олегович": 44,
-      "Кулаков Сергей Иванович": 16,
-      "Пекарев Владимир Янович": 402,
-      "Сонин Анатолий Алексеевич": 97,
-      "Против всех": 325
+      "gas:candidate-vibid:1001000190373": 45,
+      "gas:candidate-vibid:250200071323": 146,
+      "gas:candidate-vibid:350300670408": 44,
+      "gas:candidate-vibid:1001000195098": 16,
+      "gas:candidate-vibid:250200071326": 402,
+      "gas:candidate-vibid:1001000113949": 97,
+      "special:against-all": 325
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=503006006&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=350300670572&region=0&sub_region=0&type=429",
@@ -1330,13 +1330,13 @@ export const duma_2003_uik_428_region_50_part_008 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Буров Сергей Александрович": 29,
-      "Ведехов Алексей Владимирович": 158,
-      "Голубев Сергей Олегович": 46,
-      "Кулаков Сергей Иванович": 26,
-      "Пекарев Владимир Янович": 317,
-      "Сонин Анатолий Алексеевич": 90,
-      "Против всех": 241
+      "gas:candidate-vibid:1001000190373": 29,
+      "gas:candidate-vibid:250200071323": 158,
+      "gas:candidate-vibid:350300670408": 46,
+      "gas:candidate-vibid:1001000195098": 26,
+      "gas:candidate-vibid:250200071326": 317,
+      "gas:candidate-vibid:1001000113949": 90,
+      "special:against-all": 241
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=503006006&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=350300670572&region=0&sub_region=0&type=429",
@@ -1386,13 +1386,13 @@ export const duma_2003_uik_428_region_50_part_008 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Буров Сергей Александрович": 40,
-      "Ведехов Алексей Владимирович": 163,
-      "Голубев Сергей Олегович": 63,
-      "Кулаков Сергей Иванович": 21,
-      "Пекарев Владимир Янович": 375,
-      "Сонин Анатолий Алексеевич": 80,
-      "Против всех": 351
+      "gas:candidate-vibid:1001000190373": 40,
+      "gas:candidate-vibid:250200071323": 163,
+      "gas:candidate-vibid:350300670408": 63,
+      "gas:candidate-vibid:1001000195098": 21,
+      "gas:candidate-vibid:250200071326": 375,
+      "gas:candidate-vibid:1001000113949": 80,
+      "special:against-all": 351
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=503006006&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=350300670572&region=0&sub_region=0&type=429",
@@ -1442,13 +1442,13 @@ export const duma_2003_uik_428_region_50_part_008 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Буров Сергей Александрович": 18,
-      "Ведехов Алексей Владимирович": 45,
-      "Голубев Сергей Олегович": 19,
-      "Кулаков Сергей Иванович": 10,
-      "Пекарев Владимир Янович": 125,
-      "Сонин Анатолий Алексеевич": 22,
-      "Против всех": 73
+      "gas:candidate-vibid:1001000190373": 18,
+      "gas:candidate-vibid:250200071323": 45,
+      "gas:candidate-vibid:350300670408": 19,
+      "gas:candidate-vibid:1001000195098": 10,
+      "gas:candidate-vibid:250200071326": 125,
+      "gas:candidate-vibid:1001000113949": 22,
+      "special:against-all": 73
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=503006006&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=350300670572&region=0&sub_region=0&type=429",
@@ -1498,13 +1498,13 @@ export const duma_2003_uik_428_region_50_part_008 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Буров Сергей Александрович": 49,
-      "Ведехов Алексей Владимирович": 176,
-      "Голубев Сергей Олегович": 66,
-      "Кулаков Сергей Иванович": 32,
-      "Пекарев Владимир Янович": 324,
-      "Сонин Анатолий Алексеевич": 105,
-      "Против всех": 304
+      "gas:candidate-vibid:1001000190373": 49,
+      "gas:candidate-vibid:250200071323": 176,
+      "gas:candidate-vibid:350300670408": 66,
+      "gas:candidate-vibid:1001000195098": 32,
+      "gas:candidate-vibid:250200071326": 324,
+      "gas:candidate-vibid:1001000113949": 105,
+      "special:against-all": 304
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=503006006&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=350300670572&region=0&sub_region=0&type=429",
@@ -1554,13 +1554,13 @@ export const duma_2003_uik_428_region_50_part_008 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Буров Сергей Александрович": 37,
-      "Ведехов Алексей Владимирович": 150,
-      "Голубев Сергей Олегович": 48,
-      "Кулаков Сергей Иванович": 20,
-      "Пекарев Владимир Янович": 342,
-      "Сонин Анатолий Алексеевич": 68,
-      "Против всех": 193
+      "gas:candidate-vibid:1001000190373": 37,
+      "gas:candidate-vibid:250200071323": 150,
+      "gas:candidate-vibid:350300670408": 48,
+      "gas:candidate-vibid:1001000195098": 20,
+      "gas:candidate-vibid:250200071326": 342,
+      "gas:candidate-vibid:1001000113949": 68,
+      "special:against-all": 193
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=503006006&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=350300670572&region=0&sub_region=0&type=429",
@@ -1610,13 +1610,13 @@ export const duma_2003_uik_428_region_50_part_008 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Буров Сергей Александрович": 31,
-      "Ведехов Алексей Владимирович": 117,
-      "Голубев Сергей Олегович": 46,
-      "Кулаков Сергей Иванович": 18,
-      "Пекарев Владимир Янович": 317,
-      "Сонин Анатолий Алексеевич": 58,
-      "Против всех": 214
+      "gas:candidate-vibid:1001000190373": 31,
+      "gas:candidate-vibid:250200071323": 117,
+      "gas:candidate-vibid:350300670408": 46,
+      "gas:candidate-vibid:1001000195098": 18,
+      "gas:candidate-vibid:250200071326": 317,
+      "gas:candidate-vibid:1001000113949": 58,
+      "special:against-all": 214
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=503006006&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=350300670572&region=0&sub_region=0&type=429",
@@ -1666,13 +1666,13 @@ export const duma_2003_uik_428_region_50_part_008 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Буров Сергей Александрович": 33,
-      "Ведехов Алексей Владимирович": 84,
-      "Голубев Сергей Олегович": 27,
-      "Кулаков Сергей Иванович": 25,
-      "Пекарев Владимир Янович": 262,
-      "Сонин Анатолий Алексеевич": 49,
-      "Против всех": 224
+      "gas:candidate-vibid:1001000190373": 33,
+      "gas:candidate-vibid:250200071323": 84,
+      "gas:candidate-vibid:350300670408": 27,
+      "gas:candidate-vibid:1001000195098": 25,
+      "gas:candidate-vibid:250200071326": 262,
+      "gas:candidate-vibid:1001000113949": 49,
+      "special:against-all": 224
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=503006006&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=350300670572&region=0&sub_region=0&type=429",
@@ -1722,13 +1722,13 @@ export const duma_2003_uik_428_region_50_part_008 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Буров Сергей Александрович": 35,
-      "Ведехов Алексей Владимирович": 111,
-      "Голубев Сергей Олегович": 41,
-      "Кулаков Сергей Иванович": 18,
-      "Пекарев Владимир Янович": 264,
-      "Сонин Анатолий Алексеевич": 64,
-      "Против всех": 214
+      "gas:candidate-vibid:1001000190373": 35,
+      "gas:candidate-vibid:250200071323": 111,
+      "gas:candidate-vibid:350300670408": 41,
+      "gas:candidate-vibid:1001000195098": 18,
+      "gas:candidate-vibid:250200071326": 264,
+      "gas:candidate-vibid:1001000113949": 64,
+      "special:against-all": 214
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=503006006&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=350300670572&region=0&sub_region=0&type=429",
@@ -1778,13 +1778,13 @@ export const duma_2003_uik_428_region_50_part_008 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Буров Сергей Александрович": 43,
-      "Ведехов Алексей Владимирович": 139,
-      "Голубев Сергей Олегович": 39,
-      "Кулаков Сергей Иванович": 23,
-      "Пекарев Владимир Янович": 308,
-      "Сонин Анатолий Алексеевич": 78,
-      "Против всех": 252
+      "gas:candidate-vibid:1001000190373": 43,
+      "gas:candidate-vibid:250200071323": 139,
+      "gas:candidate-vibid:350300670408": 39,
+      "gas:candidate-vibid:1001000195098": 23,
+      "gas:candidate-vibid:250200071326": 308,
+      "gas:candidate-vibid:1001000113949": 78,
+      "special:against-all": 252
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=503006006&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=350300670572&region=0&sub_region=0&type=429",
@@ -1834,13 +1834,13 @@ export const duma_2003_uik_428_region_50_part_008 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Буров Сергей Александрович": 30,
-      "Ведехов Алексей Владимирович": 112,
-      "Голубев Сергей Олегович": 48,
-      "Кулаков Сергей Иванович": 16,
-      "Пекарев Владимир Янович": 306,
-      "Сонин Анатолий Алексеевич": 107,
-      "Против всех": 238
+      "gas:candidate-vibid:1001000190373": 30,
+      "gas:candidate-vibid:250200071323": 112,
+      "gas:candidate-vibid:350300670408": 48,
+      "gas:candidate-vibid:1001000195098": 16,
+      "gas:candidate-vibid:250200071326": 306,
+      "gas:candidate-vibid:1001000113949": 107,
+      "special:against-all": 238
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=503006006&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=350300670572&region=0&sub_region=0&type=429",
@@ -1890,13 +1890,13 @@ export const duma_2003_uik_428_region_50_part_008 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Буров Сергей Александрович": 29,
-      "Ведехов Алексей Владимирович": 256,
-      "Голубев Сергей Олегович": 30,
-      "Кулаков Сергей Иванович": 12,
-      "Пекарев Владимир Янович": 295,
-      "Сонин Анатолий Алексеевич": 82,
-      "Против всех": 222
+      "gas:candidate-vibid:1001000190373": 29,
+      "gas:candidate-vibid:250200071323": 256,
+      "gas:candidate-vibid:350300670408": 30,
+      "gas:candidate-vibid:1001000195098": 12,
+      "gas:candidate-vibid:250200071326": 295,
+      "gas:candidate-vibid:1001000113949": 82,
+      "special:against-all": 222
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=503006006&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=350300670572&region=0&sub_region=0&type=429",
@@ -1946,13 +1946,13 @@ export const duma_2003_uik_428_region_50_part_008 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Буров Сергей Александрович": 56,
-      "Ведехов Алексей Владимирович": 236,
-      "Голубев Сергей Олегович": 61,
-      "Кулаков Сергей Иванович": 41,
-      "Пекарев Владимир Янович": 390,
-      "Сонин Анатолий Алексеевич": 129,
-      "Против всех": 326
+      "gas:candidate-vibid:1001000190373": 56,
+      "gas:candidate-vibid:250200071323": 236,
+      "gas:candidate-vibid:350300670408": 61,
+      "gas:candidate-vibid:1001000195098": 41,
+      "gas:candidate-vibid:250200071326": 390,
+      "gas:candidate-vibid:1001000113949": 129,
+      "special:against-all": 326
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=503006006&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=350300670572&region=0&sub_region=0&type=429",
@@ -2002,13 +2002,13 @@ export const duma_2003_uik_428_region_50_part_008 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Буров Сергей Александрович": 46,
-      "Ведехов Алексей Владимирович": 184,
-      "Голубев Сергей Олегович": 35,
-      "Кулаков Сергей Иванович": 27,
-      "Пекарев Владимир Янович": 313,
-      "Сонин Анатолий Алексеевич": 69,
-      "Против всех": 239
+      "gas:candidate-vibid:1001000190373": 46,
+      "gas:candidate-vibid:250200071323": 184,
+      "gas:candidate-vibid:350300670408": 35,
+      "gas:candidate-vibid:1001000195098": 27,
+      "gas:candidate-vibid:250200071326": 313,
+      "gas:candidate-vibid:1001000113949": 69,
+      "special:against-all": 239
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=503006006&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=350300670572&region=0&sub_region=0&type=429",
@@ -2058,13 +2058,13 @@ export const duma_2003_uik_428_region_50_part_008 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Буров Сергей Александрович": 60,
-      "Ведехов Алексей Владимирович": 208,
-      "Голубев Сергей Олегович": 63,
-      "Кулаков Сергей Иванович": 55,
-      "Пекарев Владимир Янович": 461,
-      "Сонин Анатолий Алексеевич": 154,
-      "Против всех": 399
+      "gas:candidate-vibid:1001000190373": 60,
+      "gas:candidate-vibid:250200071323": 208,
+      "gas:candidate-vibid:350300670408": 63,
+      "gas:candidate-vibid:1001000195098": 55,
+      "gas:candidate-vibid:250200071326": 461,
+      "gas:candidate-vibid:1001000113949": 154,
+      "special:against-all": 399
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=503006006&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=350300670572&region=0&sub_region=0&type=429",
@@ -2114,13 +2114,13 @@ export const duma_2003_uik_428_region_50_part_008 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Буров Сергей Александрович": 42,
-      "Ведехов Алексей Владимирович": 143,
-      "Голубев Сергей Олегович": 51,
-      "Кулаков Сергей Иванович": 15,
-      "Пекарев Владимир Янович": 387,
-      "Сонин Анатолий Алексеевич": 74,
-      "Против всех": 266
+      "gas:candidate-vibid:1001000190373": 42,
+      "gas:candidate-vibid:250200071323": 143,
+      "gas:candidate-vibid:350300670408": 51,
+      "gas:candidate-vibid:1001000195098": 15,
+      "gas:candidate-vibid:250200071326": 387,
+      "gas:candidate-vibid:1001000113949": 74,
+      "special:against-all": 266
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=503006006&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=350300670572&region=0&sub_region=0&type=429",
@@ -2170,13 +2170,13 @@ export const duma_2003_uik_428_region_50_part_008 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Буров Сергей Александрович": 45,
-      "Ведехов Алексей Владимирович": 63,
-      "Голубев Сергей Олегович": 55,
-      "Кулаков Сергей Иванович": 25,
-      "Пекарев Владимир Янович": 212,
-      "Сонин Анатолий Алексеевич": 89,
-      "Против всех": 177
+      "gas:candidate-vibid:1001000190373": 45,
+      "gas:candidate-vibid:250200071323": 63,
+      "gas:candidate-vibid:350300670408": 55,
+      "gas:candidate-vibid:1001000195098": 25,
+      "gas:candidate-vibid:250200071326": 212,
+      "gas:candidate-vibid:1001000113949": 89,
+      "special:against-all": 177
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=503006006&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=350300670572&region=0&sub_region=0&type=429",
@@ -2226,13 +2226,13 @@ export const duma_2003_uik_428_region_50_part_008 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Буров Сергей Александрович": 51,
-      "Ведехов Алексей Владимирович": 67,
-      "Голубев Сергей Олегович": 59,
-      "Кулаков Сергей Иванович": 28,
-      "Пекарев Владимир Янович": 214,
-      "Сонин Анатолий Алексеевич": 73,
-      "Против всех": 263
+      "gas:candidate-vibid:1001000190373": 51,
+      "gas:candidate-vibid:250200071323": 67,
+      "gas:candidate-vibid:350300670408": 59,
+      "gas:candidate-vibid:1001000195098": 28,
+      "gas:candidate-vibid:250200071326": 214,
+      "gas:candidate-vibid:1001000113949": 73,
+      "special:against-all": 263
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=503006006&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=350300670572&region=0&sub_region=0&type=429",
@@ -2282,13 +2282,13 @@ export const duma_2003_uik_428_region_50_part_008 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Буров Сергей Александрович": 58,
-      "Ведехов Алексей Владимирович": 197,
-      "Голубев Сергей Олегович": 55,
-      "Кулаков Сергей Иванович": 27,
-      "Пекарев Владимир Янович": 430,
-      "Сонин Анатолий Алексеевич": 90,
-      "Против всех": 313
+      "gas:candidate-vibid:1001000190373": 58,
+      "gas:candidate-vibid:250200071323": 197,
+      "gas:candidate-vibid:350300670408": 55,
+      "gas:candidate-vibid:1001000195098": 27,
+      "gas:candidate-vibid:250200071326": 430,
+      "gas:candidate-vibid:1001000113949": 90,
+      "special:against-all": 313
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=503006006&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=350300670572&region=0&sub_region=0&type=429",
@@ -2338,13 +2338,13 @@ export const duma_2003_uik_428_region_50_part_008 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Буров Сергей Александрович": 55,
-      "Ведехов Алексей Владимирович": 176,
-      "Голубев Сергей Олегович": 88,
-      "Кулаков Сергей Иванович": 36,
-      "Пекарев Владимир Янович": 313,
-      "Сонин Анатолий Алексеевич": 106,
-      "Против всех": 347
+      "gas:candidate-vibid:1001000190373": 55,
+      "gas:candidate-vibid:250200071323": 176,
+      "gas:candidate-vibid:350300670408": 88,
+      "gas:candidate-vibid:1001000195098": 36,
+      "gas:candidate-vibid:250200071326": 313,
+      "gas:candidate-vibid:1001000113949": 106,
+      "special:against-all": 347
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=503006006&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=350300670572&region=0&sub_region=0&type=429",
@@ -2394,13 +2394,13 @@ export const duma_2003_uik_428_region_50_part_008 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Буров Сергей Александрович": 17,
-      "Ведехов Алексей Владимирович": 22,
-      "Голубев Сергей Олегович": 17,
-      "Кулаков Сергей Иванович": 7,
-      "Пекарев Владимир Янович": 83,
-      "Сонин Анатолий Алексеевич": 67,
-      "Против всех": 53
+      "gas:candidate-vibid:1001000190373": 17,
+      "gas:candidate-vibid:250200071323": 22,
+      "gas:candidate-vibid:350300670408": 17,
+      "gas:candidate-vibid:1001000195098": 7,
+      "gas:candidate-vibid:250200071326": 83,
+      "gas:candidate-vibid:1001000113949": 67,
+      "special:against-all": 53
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=503006006&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=350300670572&region=0&sub_region=0&type=429",
@@ -2450,13 +2450,13 @@ export const duma_2003_uik_428_region_50_part_008 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Буров Сергей Александрович": 18,
-      "Ведехов Алексей Владимирович": 57,
-      "Голубев Сергей Олегович": 15,
-      "Кулаков Сергей Иванович": 6,
-      "Пекарев Владимир Янович": 69,
-      "Сонин Анатолий Алексеевич": 18,
-      "Против всех": 69
+      "gas:candidate-vibid:1001000190373": 18,
+      "gas:candidate-vibid:250200071323": 57,
+      "gas:candidate-vibid:350300670408": 15,
+      "gas:candidate-vibid:1001000195098": 6,
+      "gas:candidate-vibid:250200071326": 69,
+      "gas:candidate-vibid:1001000113949": 18,
+      "special:against-all": 69
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=503006006&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=350300670572&region=0&sub_region=0&type=429",
@@ -2506,13 +2506,13 @@ export const duma_2003_uik_428_region_50_part_008 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Буров Сергей Александрович": 8,
-      "Ведехов Алексей Владимирович": 12,
-      "Голубев Сергей Олегович": 9,
-      "Кулаков Сергей Иванович": 2,
-      "Пекарев Владимир Янович": 48,
-      "Сонин Анатолий Алексеевич": 5,
-      "Против всех": 26
+      "gas:candidate-vibid:1001000190373": 8,
+      "gas:candidate-vibid:250200071323": 12,
+      "gas:candidate-vibid:350300670408": 9,
+      "gas:candidate-vibid:1001000195098": 2,
+      "gas:candidate-vibid:250200071326": 48,
+      "gas:candidate-vibid:1001000113949": 5,
+      "special:against-all": 26
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=503006006&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=350300670572&region=0&sub_region=0&type=429",
@@ -2562,13 +2562,13 @@ export const duma_2003_uik_428_region_50_part_008 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Буров Сергей Александрович": 34,
-      "Ведехов Алексей Владимирович": 248,
-      "Голубев Сергей Олегович": 128,
-      "Кулаков Сергей Иванович": 21,
-      "Пекарев Владимир Янович": 284,
-      "Сонин Анатолий Алексеевич": 75,
-      "Против всех": 270
+      "gas:candidate-vibid:1001000190373": 34,
+      "gas:candidate-vibid:250200071323": 248,
+      "gas:candidate-vibid:350300670408": 128,
+      "gas:candidate-vibid:1001000195098": 21,
+      "gas:candidate-vibid:250200071326": 284,
+      "gas:candidate-vibid:1001000113949": 75,
+      "special:against-all": 270
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=503006006&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=350300670572&region=0&sub_region=0&type=429",
@@ -2618,13 +2618,13 @@ export const duma_2003_uik_428_region_50_part_008 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Буров Сергей Александрович": 53,
-      "Ведехов Алексей Владимирович": 323,
-      "Голубев Сергей Олегович": 159,
-      "Кулаков Сергей Иванович": 33,
-      "Пекарев Владимир Янович": 291,
-      "Сонин Анатолий Алексеевич": 88,
-      "Против всех": 349
+      "gas:candidate-vibid:1001000190373": 53,
+      "gas:candidate-vibid:250200071323": 323,
+      "gas:candidate-vibid:350300670408": 159,
+      "gas:candidate-vibid:1001000195098": 33,
+      "gas:candidate-vibid:250200071326": 291,
+      "gas:candidate-vibid:1001000113949": 88,
+      "special:against-all": 349
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=503006006&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=350300670572&region=0&sub_region=0&type=429",
@@ -2674,13 +2674,13 @@ export const duma_2003_uik_428_region_50_part_008 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Буров Сергей Александрович": 39,
-      "Ведехов Алексей Владимирович": 285,
-      "Голубев Сергей Олегович": 184,
-      "Кулаков Сергей Иванович": 46,
-      "Пекарев Владимир Янович": 375,
-      "Сонин Анатолий Алексеевич": 72,
-      "Против всех": 371
+      "gas:candidate-vibid:1001000190373": 39,
+      "gas:candidate-vibid:250200071323": 285,
+      "gas:candidate-vibid:350300670408": 184,
+      "gas:candidate-vibid:1001000195098": 46,
+      "gas:candidate-vibid:250200071326": 375,
+      "gas:candidate-vibid:1001000113949": 72,
+      "special:against-all": 371
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=503006006&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=350300670572&region=0&sub_region=0&type=429",
@@ -2730,13 +2730,13 @@ export const duma_2003_uik_428_region_50_part_008 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Буров Сергей Александрович": 76,
-      "Ведехов Алексей Владимирович": 622,
-      "Голубев Сергей Олегович": 143,
-      "Кулаков Сергей Иванович": 72,
-      "Пекарев Владимир Янович": 358,
-      "Сонин Анатолий Алексеевич": 78,
-      "Против всех": 603
+      "gas:candidate-vibid:1001000190373": 76,
+      "gas:candidate-vibid:250200071323": 622,
+      "gas:candidate-vibid:350300670408": 143,
+      "gas:candidate-vibid:1001000195098": 72,
+      "gas:candidate-vibid:250200071326": 358,
+      "gas:candidate-vibid:1001000113949": 78,
+      "special:against-all": 603
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=503006006&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=350300670572&region=0&sub_region=0&type=429",
@@ -2786,13 +2786,13 @@ export const duma_2003_uik_428_region_50_part_008 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Буров Сергей Александрович": 47,
-      "Ведехов Алексей Владимирович": 299,
-      "Голубев Сергей Олегович": 176,
-      "Кулаков Сергей Иванович": 64,
-      "Пекарев Владимир Янович": 408,
-      "Сонин Анатолий Алексеевич": 75,
-      "Против всех": 474
+      "gas:candidate-vibid:1001000190373": 47,
+      "gas:candidate-vibid:250200071323": 299,
+      "gas:candidate-vibid:350300670408": 176,
+      "gas:candidate-vibid:1001000195098": 64,
+      "gas:candidate-vibid:250200071326": 408,
+      "gas:candidate-vibid:1001000113949": 75,
+      "special:against-all": 474
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=503006006&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=350300670572&region=0&sub_region=0&type=429",
@@ -2842,13 +2842,13 @@ export const duma_2003_uik_428_region_50_part_008 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Буров Сергей Александрович": 55,
-      "Ведехов Алексей Владимирович": 422,
-      "Голубев Сергей Олегович": 115,
-      "Кулаков Сергей Иванович": 41,
-      "Пекарев Владимир Янович": 268,
-      "Сонин Анатолий Алексеевич": 89,
-      "Против всех": 384
+      "gas:candidate-vibid:1001000190373": 55,
+      "gas:candidate-vibid:250200071323": 422,
+      "gas:candidate-vibid:350300670408": 115,
+      "gas:candidate-vibid:1001000195098": 41,
+      "gas:candidate-vibid:250200071326": 268,
+      "gas:candidate-vibid:1001000113949": 89,
+      "special:against-all": 384
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=503006006&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=350300670572&region=0&sub_region=0&type=429",
@@ -2898,13 +2898,13 @@ export const duma_2003_uik_428_region_50_part_008 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Буров Сергей Александрович": 46,
-      "Ведехов Алексей Владимирович": 398,
-      "Голубев Сергей Олегович": 111,
-      "Кулаков Сергей Иванович": 33,
-      "Пекарев Владимир Янович": 288,
-      "Сонин Анатолий Алексеевич": 89,
-      "Против всех": 322
+      "gas:candidate-vibid:1001000190373": 46,
+      "gas:candidate-vibid:250200071323": 398,
+      "gas:candidate-vibid:350300670408": 111,
+      "gas:candidate-vibid:1001000195098": 33,
+      "gas:candidate-vibid:250200071326": 288,
+      "gas:candidate-vibid:1001000113949": 89,
+      "special:against-all": 322
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=503006006&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=350300670572&region=0&sub_region=0&type=429",
@@ -2954,13 +2954,13 @@ export const duma_2003_uik_428_region_50_part_008 = [
       "Число не учтенных при получении бюллетеней": 1
     },
     "votes": {
-      "Буров Сергей Александрович": 49,
-      "Ведехов Алексей Владимирович": 259,
-      "Голубев Сергей Олегович": 115,
-      "Кулаков Сергей Иванович": 50,
-      "Пекарев Владимир Янович": 410,
-      "Сонин Анатолий Алексеевич": 87,
-      "Против всех": 371
+      "gas:candidate-vibid:1001000190373": 49,
+      "gas:candidate-vibid:250200071323": 259,
+      "gas:candidate-vibid:350300670408": 115,
+      "gas:candidate-vibid:1001000195098": 50,
+      "gas:candidate-vibid:250200071326": 410,
+      "gas:candidate-vibid:1001000113949": 87,
+      "special:against-all": 371
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=503006006&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=350300670572&region=0&sub_region=0&type=429",
@@ -3010,13 +3010,13 @@ export const duma_2003_uik_428_region_50_part_008 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Буров Сергей Александрович": 82,
-      "Ведехов Алексей Владимирович": 261,
-      "Голубев Сергей Олегович": 125,
-      "Кулаков Сергей Иванович": 45,
-      "Пекарев Владимир Янович": 358,
-      "Сонин Анатолий Алексеевич": 80,
-      "Против всех": 431
+      "gas:candidate-vibid:1001000190373": 82,
+      "gas:candidate-vibid:250200071323": 261,
+      "gas:candidate-vibid:350300670408": 125,
+      "gas:candidate-vibid:1001000195098": 45,
+      "gas:candidate-vibid:250200071326": 358,
+      "gas:candidate-vibid:1001000113949": 80,
+      "special:against-all": 431
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=503006006&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=350300670572&region=0&sub_region=0&type=429",
@@ -3066,13 +3066,13 @@ export const duma_2003_uik_428_region_50_part_008 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Буров Сергей Александрович": 47,
-      "Ведехов Алексей Владимирович": 183,
-      "Голубев Сергей Олегович": 138,
-      "Кулаков Сергей Иванович": 39,
-      "Пекарев Владимир Янович": 361,
-      "Сонин Анатолий Алексеевич": 90,
-      "Против всех": 415
+      "gas:candidate-vibid:1001000190373": 47,
+      "gas:candidate-vibid:250200071323": 183,
+      "gas:candidate-vibid:350300670408": 138,
+      "gas:candidate-vibid:1001000195098": 39,
+      "gas:candidate-vibid:250200071326": 361,
+      "gas:candidate-vibid:1001000113949": 90,
+      "special:against-all": 415
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=503006006&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=350300670572&region=0&sub_region=0&type=429",
@@ -3122,13 +3122,13 @@ export const duma_2003_uik_428_region_50_part_008 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Буров Сергей Александрович": 69,
-      "Ведехов Алексей Владимирович": 417,
-      "Голубев Сергей Олегович": 84,
-      "Кулаков Сергей Иванович": 59,
-      "Пекарев Владимир Янович": 217,
-      "Сонин Анатолий Алексеевич": 120,
-      "Против всех": 347
+      "gas:candidate-vibid:1001000190373": 69,
+      "gas:candidate-vibid:250200071323": 417,
+      "gas:candidate-vibid:350300670408": 84,
+      "gas:candidate-vibid:1001000195098": 59,
+      "gas:candidate-vibid:250200071326": 217,
+      "gas:candidate-vibid:1001000113949": 120,
+      "special:against-all": 347
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=503006006&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=350300670572&region=0&sub_region=0&type=429",
@@ -3178,13 +3178,13 @@ export const duma_2003_uik_428_region_50_part_008 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Буров Сергей Александрович": 115,
-      "Ведехов Алексей Владимирович": 260,
-      "Голубев Сергей Олегович": 122,
-      "Кулаков Сергей Иванович": 91,
-      "Пекарев Владимир Янович": 294,
-      "Сонин Анатолий Алексеевич": 98,
-      "Против всех": 622
+      "gas:candidate-vibid:1001000190373": 115,
+      "gas:candidate-vibid:250200071323": 260,
+      "gas:candidate-vibid:350300670408": 122,
+      "gas:candidate-vibid:1001000195098": 91,
+      "gas:candidate-vibid:250200071326": 294,
+      "gas:candidate-vibid:1001000113949": 98,
+      "special:against-all": 622
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=503006006&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=350300670572&region=0&sub_region=0&type=429",
@@ -3234,13 +3234,13 @@ export const duma_2003_uik_428_region_50_part_008 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Буров Сергей Александрович": 103,
-      "Ведехов Алексей Владимирович": 320,
-      "Голубев Сергей Олегович": 81,
-      "Кулаков Сергей Иванович": 94,
-      "Пекарев Владимир Янович": 262,
-      "Сонин Анатолий Алексеевич": 116,
-      "Против всех": 548
+      "gas:candidate-vibid:1001000190373": 103,
+      "gas:candidate-vibid:250200071323": 320,
+      "gas:candidate-vibid:350300670408": 81,
+      "gas:candidate-vibid:1001000195098": 94,
+      "gas:candidate-vibid:250200071326": 262,
+      "gas:candidate-vibid:1001000113949": 116,
+      "special:against-all": 548
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=503006006&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=350300670572&region=0&sub_region=0&type=429",
@@ -3290,13 +3290,13 @@ export const duma_2003_uik_428_region_50_part_008 = [
       "Число не учтенных при получении бюллетеней": 13
     },
     "votes": {
-      "Буров Сергей Александрович": 98,
-      "Ведехов Алексей Владимирович": 209,
-      "Голубев Сергей Олегович": 94,
-      "Кулаков Сергей Иванович": 83,
-      "Пекарев Владимир Янович": 323,
-      "Сонин Анатолий Алексеевич": 114,
-      "Против всех": 482
+      "gas:candidate-vibid:1001000190373": 98,
+      "gas:candidate-vibid:250200071323": 209,
+      "gas:candidate-vibid:350300670408": 94,
+      "gas:candidate-vibid:1001000195098": 83,
+      "gas:candidate-vibid:250200071326": 323,
+      "gas:candidate-vibid:1001000113949": 114,
+      "special:against-all": 482
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=503006006&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=350300670572&region=0&sub_region=0&type=429",
@@ -3346,13 +3346,13 @@ export const duma_2003_uik_428_region_50_part_008 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Буров Сергей Александрович": 79,
-      "Ведехов Алексей Владимирович": 253,
-      "Голубев Сергей Олегович": 60,
-      "Кулаков Сергей Иванович": 83,
-      "Пекарев Владимир Янович": 289,
-      "Сонин Анатолий Алексеевич": 152,
-      "Против всех": 489
+      "gas:candidate-vibid:1001000190373": 79,
+      "gas:candidate-vibid:250200071323": 253,
+      "gas:candidate-vibid:350300670408": 60,
+      "gas:candidate-vibid:1001000195098": 83,
+      "gas:candidate-vibid:250200071326": 289,
+      "gas:candidate-vibid:1001000113949": 152,
+      "special:against-all": 489
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=503006006&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=350300670572&region=0&sub_region=0&type=429",
@@ -3402,13 +3402,13 @@ export const duma_2003_uik_428_region_50_part_008 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Буров Сергей Александрович": 84,
-      "Ведехов Алексей Владимирович": 254,
-      "Голубев Сергей Олегович": 71,
-      "Кулаков Сергей Иванович": 91,
-      "Пекарев Владимир Янович": 283,
-      "Сонин Анатолий Алексеевич": 92,
-      "Против всех": 459
+      "gas:candidate-vibid:1001000190373": 84,
+      "gas:candidate-vibid:250200071323": 254,
+      "gas:candidate-vibid:350300670408": 71,
+      "gas:candidate-vibid:1001000195098": 91,
+      "gas:candidate-vibid:250200071326": 283,
+      "gas:candidate-vibid:1001000113949": 92,
+      "special:against-all": 459
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=503006006&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=350300670572&region=0&sub_region=0&type=429",
@@ -3458,13 +3458,13 @@ export const duma_2003_uik_428_region_50_part_008 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Буров Сергей Александрович": 65,
-      "Ведехов Алексей Владимирович": 100,
-      "Голубев Сергей Олегович": 42,
-      "Кулаков Сергей Иванович": 62,
-      "Пекарев Владимир Янович": 309,
-      "Сонин Анатолий Алексеевич": 105,
-      "Против всех": 385
+      "gas:candidate-vibid:1001000190373": 65,
+      "gas:candidate-vibid:250200071323": 100,
+      "gas:candidate-vibid:350300670408": 42,
+      "gas:candidate-vibid:1001000195098": 62,
+      "gas:candidate-vibid:250200071326": 309,
+      "gas:candidate-vibid:1001000113949": 105,
+      "special:against-all": 385
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=503006006&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=350300670572&region=0&sub_region=0&type=429",
@@ -3514,13 +3514,13 @@ export const duma_2003_uik_428_region_50_part_008 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Буров Сергей Александрович": 75,
-      "Ведехов Алексей Владимирович": 108,
-      "Голубев Сергей Олегович": 58,
-      "Кулаков Сергей Иванович": 63,
-      "Пекарев Владимир Янович": 265,
-      "Сонин Анатолий Алексеевич": 86,
-      "Против всех": 308
+      "gas:candidate-vibid:1001000190373": 75,
+      "gas:candidate-vibid:250200071323": 108,
+      "gas:candidate-vibid:350300670408": 58,
+      "gas:candidate-vibid:1001000195098": 63,
+      "gas:candidate-vibid:250200071326": 265,
+      "gas:candidate-vibid:1001000113949": 86,
+      "special:against-all": 308
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=503006006&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=350300670572&region=0&sub_region=0&type=429",
@@ -3570,13 +3570,13 @@ export const duma_2003_uik_428_region_50_part_008 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Буров Сергей Александрович": 41,
-      "Ведехов Алексей Владимирович": 100,
-      "Голубев Сергей Олегович": 48,
-      "Кулаков Сергей Иванович": 33,
-      "Пекарев Владимир Янович": 184,
-      "Сонин Анатолий Алексеевич": 73,
-      "Против всех": 261
+      "gas:candidate-vibid:1001000190373": 41,
+      "gas:candidate-vibid:250200071323": 100,
+      "gas:candidate-vibid:350300670408": 48,
+      "gas:candidate-vibid:1001000195098": 33,
+      "gas:candidate-vibid:250200071326": 184,
+      "gas:candidate-vibid:1001000113949": 73,
+      "special:against-all": 261
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=503006006&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=350300670572&region=0&sub_region=0&type=429",
@@ -3626,13 +3626,13 @@ export const duma_2003_uik_428_region_50_part_008 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Буров Сергей Александрович": 54,
-      "Ведехов Алексей Владимирович": 204,
-      "Голубев Сергей Олегович": 48,
-      "Кулаков Сергей Иванович": 21,
-      "Пекарев Владимир Янович": 301,
-      "Сонин Анатолий Алексеевич": 68,
-      "Против всех": 249
+      "gas:candidate-vibid:1001000190373": 54,
+      "gas:candidate-vibid:250200071323": 204,
+      "gas:candidate-vibid:350300670408": 48,
+      "gas:candidate-vibid:1001000195098": 21,
+      "gas:candidate-vibid:250200071326": 301,
+      "gas:candidate-vibid:1001000113949": 68,
+      "special:against-all": 249
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=503006006&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=350300670572&region=0&sub_region=0&type=429",
@@ -3682,13 +3682,13 @@ export const duma_2003_uik_428_region_50_part_008 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Буров Сергей Александрович": 47,
-      "Ведехов Алексей Владимирович": 251,
-      "Голубев Сергей Олегович": 86,
-      "Кулаков Сергей Иванович": 42,
-      "Пекарев Владимир Янович": 349,
-      "Сонин Анатолий Алексеевич": 56,
-      "Против всех": 315
+      "gas:candidate-vibid:1001000190373": 47,
+      "gas:candidate-vibid:250200071323": 251,
+      "gas:candidate-vibid:350300670408": 86,
+      "gas:candidate-vibid:1001000195098": 42,
+      "gas:candidate-vibid:250200071326": 349,
+      "gas:candidate-vibid:1001000113949": 56,
+      "special:against-all": 315
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=503006006&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=350300670572&region=0&sub_region=0&type=429",
@@ -3738,13 +3738,13 @@ export const duma_2003_uik_428_region_50_part_008 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Буров Сергей Александрович": 20,
-      "Ведехов Алексей Владимирович": 115,
-      "Голубев Сергей Олегович": 36,
-      "Кулаков Сергей Иванович": 14,
-      "Пекарев Владимир Янович": 243,
-      "Сонин Анатолий Алексеевич": 69,
-      "Против всех": 119
+      "gas:candidate-vibid:1001000190373": 20,
+      "gas:candidate-vibid:250200071323": 115,
+      "gas:candidate-vibid:350300670408": 36,
+      "gas:candidate-vibid:1001000195098": 14,
+      "gas:candidate-vibid:250200071326": 243,
+      "gas:candidate-vibid:1001000113949": 69,
+      "special:against-all": 119
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=503006006&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=350300670572&region=0&sub_region=0&type=429",
@@ -3794,13 +3794,13 @@ export const duma_2003_uik_428_region_50_part_008 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Буров Сергей Александрович": 31,
-      "Ведехов Алексей Владимирович": 207,
-      "Голубев Сергей Олегович": 46,
-      "Кулаков Сергей Иванович": 25,
-      "Пекарев Владимир Янович": 338,
-      "Сонин Анатолий Алексеевич": 47,
-      "Против всех": 200
+      "gas:candidate-vibid:1001000190373": 31,
+      "gas:candidate-vibid:250200071323": 207,
+      "gas:candidate-vibid:350300670408": 46,
+      "gas:candidate-vibid:1001000195098": 25,
+      "gas:candidate-vibid:250200071326": 338,
+      "gas:candidate-vibid:1001000113949": 47,
+      "special:against-all": 200
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=503006006&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=350300670572&region=0&sub_region=0&type=429",
@@ -3850,13 +3850,13 @@ export const duma_2003_uik_428_region_50_part_008 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Буров Сергей Александрович": 43,
-      "Ведехов Алексей Владимирович": 223,
-      "Голубев Сергей Олегович": 24,
-      "Кулаков Сергей Иванович": 18,
-      "Пекарев Владимир Янович": 304,
-      "Сонин Анатолий Алексеевич": 44,
-      "Против всех": 215
+      "gas:candidate-vibid:1001000190373": 43,
+      "gas:candidate-vibid:250200071323": 223,
+      "gas:candidate-vibid:350300670408": 24,
+      "gas:candidate-vibid:1001000195098": 18,
+      "gas:candidate-vibid:250200071326": 304,
+      "gas:candidate-vibid:1001000113949": 44,
+      "special:against-all": 215
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=503006006&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=350300670572&region=0&sub_region=0&type=429",
@@ -3906,13 +3906,13 @@ export const duma_2003_uik_428_region_50_part_008 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Буров Сергей Александрович": 44,
-      "Ведехов Алексей Владимирович": 215,
-      "Голубев Сергей Олегович": 31,
-      "Кулаков Сергей Иванович": 23,
-      "Пекарев Владимир Янович": 297,
-      "Сонин Анатолий Алексеевич": 39,
-      "Против всех": 211
+      "gas:candidate-vibid:1001000190373": 44,
+      "gas:candidate-vibid:250200071323": 215,
+      "gas:candidate-vibid:350300670408": 31,
+      "gas:candidate-vibid:1001000195098": 23,
+      "gas:candidate-vibid:250200071326": 297,
+      "gas:candidate-vibid:1001000113949": 39,
+      "special:against-all": 211
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=503006006&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=350300670572&region=0&sub_region=0&type=429",
@@ -3962,13 +3962,13 @@ export const duma_2003_uik_428_region_50_part_008 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Буров Сергей Александрович": 21,
-      "Ведехов Алексей Владимирович": 96,
-      "Голубев Сергей Олегович": 21,
-      "Кулаков Сергей Иванович": 14,
-      "Пекарев Владимир Янович": 273,
-      "Сонин Анатолий Алексеевич": 26,
-      "Против всех": 154
+      "gas:candidate-vibid:1001000190373": 21,
+      "gas:candidate-vibid:250200071323": 96,
+      "gas:candidate-vibid:350300670408": 21,
+      "gas:candidate-vibid:1001000195098": 14,
+      "gas:candidate-vibid:250200071326": 273,
+      "gas:candidate-vibid:1001000113949": 26,
+      "special:against-all": 154
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=503006006&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=350300670572&region=0&sub_region=0&type=429",
@@ -4018,13 +4018,13 @@ export const duma_2003_uik_428_region_50_part_008 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Буров Сергей Александрович": 22,
-      "Ведехов Алексей Владимирович": 69,
-      "Голубев Сергей Олегович": 15,
-      "Кулаков Сергей Иванович": 20,
-      "Пекарев Владимир Янович": 134,
-      "Сонин Анатолий Алексеевич": 35,
-      "Против всех": 92
+      "gas:candidate-vibid:1001000190373": 22,
+      "gas:candidate-vibid:250200071323": 69,
+      "gas:candidate-vibid:350300670408": 15,
+      "gas:candidate-vibid:1001000195098": 20,
+      "gas:candidate-vibid:250200071326": 134,
+      "gas:candidate-vibid:1001000113949": 35,
+      "special:against-all": 92
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=503006006&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=350300670572&region=0&sub_region=0&type=429",
@@ -4074,13 +4074,13 @@ export const duma_2003_uik_428_region_50_part_008 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Буров Сергей Александрович": 45,
-      "Ведехов Алексей Владимирович": 124,
-      "Голубев Сергей Олегович": 48,
-      "Кулаков Сергей Иванович": 35,
-      "Пекарев Владимир Янович": 258,
-      "Сонин Анатолий Алексеевич": 73,
-      "Против всех": 330
+      "gas:candidate-vibid:1001000190373": 45,
+      "gas:candidate-vibid:250200071323": 124,
+      "gas:candidate-vibid:350300670408": 48,
+      "gas:candidate-vibid:1001000195098": 35,
+      "gas:candidate-vibid:250200071326": 258,
+      "gas:candidate-vibid:1001000113949": 73,
+      "special:against-all": 330
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=503006006&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=350300670572&region=0&sub_region=0&type=429",
@@ -4130,13 +4130,13 @@ export const duma_2003_uik_428_region_50_part_008 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Буров Сергей Александрович": 64,
-      "Ведехов Алексей Владимирович": 149,
-      "Голубев Сергей Олегович": 33,
-      "Кулаков Сергей Иванович": 34,
-      "Пекарев Владимир Янович": 244,
-      "Сонин Анатолий Алексеевич": 62,
-      "Против всех": 294
+      "gas:candidate-vibid:1001000190373": 64,
+      "gas:candidate-vibid:250200071323": 149,
+      "gas:candidate-vibid:350300670408": 33,
+      "gas:candidate-vibid:1001000195098": 34,
+      "gas:candidate-vibid:250200071326": 244,
+      "gas:candidate-vibid:1001000113949": 62,
+      "special:against-all": 294
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=503006006&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=350300670572&region=0&sub_region=0&type=429",
@@ -4186,13 +4186,13 @@ export const duma_2003_uik_428_region_50_part_008 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Буров Сергей Александрович": 41,
-      "Ведехов Алексей Владимирович": 72,
-      "Голубев Сергей Олегович": 41,
-      "Кулаков Сергей Иванович": 19,
-      "Пекарев Владимир Янович": 213,
-      "Сонин Анатолий Алексеевич": 34,
-      "Против всех": 199
+      "gas:candidate-vibid:1001000190373": 41,
+      "gas:candidate-vibid:250200071323": 72,
+      "gas:candidate-vibid:350300670408": 41,
+      "gas:candidate-vibid:1001000195098": 19,
+      "gas:candidate-vibid:250200071326": 213,
+      "gas:candidate-vibid:1001000113949": 34,
+      "special:against-all": 199
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=503006006&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=350300670572&region=0&sub_region=0&type=429",
@@ -4242,13 +4242,13 @@ export const duma_2003_uik_428_region_50_part_008 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Буров Сергей Александрович": 18,
-      "Ведехов Алексей Владимирович": 48,
-      "Голубев Сергей Олегович": 22,
-      "Кулаков Сергей Иванович": 17,
-      "Пекарев Владимир Янович": 263,
-      "Сонин Анатолий Алексеевич": 19,
-      "Против всех": 108
+      "gas:candidate-vibid:1001000190373": 18,
+      "gas:candidate-vibid:250200071323": 48,
+      "gas:candidate-vibid:350300670408": 22,
+      "gas:candidate-vibid:1001000195098": 17,
+      "gas:candidate-vibid:250200071326": 263,
+      "gas:candidate-vibid:1001000113949": 19,
+      "special:against-all": 108
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=503006006&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=350300670572&region=0&sub_region=0&type=429",
@@ -4298,13 +4298,13 @@ export const duma_2003_uik_428_region_50_part_008 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Буров Сергей Александрович": 3,
-      "Ведехов Алексей Владимирович": 12,
-      "Голубев Сергей Олегович": 6,
-      "Кулаков Сергей Иванович": 3,
-      "Пекарев Владимир Янович": 141,
-      "Сонин Анатолий Алексеевич": 4,
-      "Против всех": 39
+      "gas:candidate-vibid:1001000190373": 3,
+      "gas:candidate-vibid:250200071323": 12,
+      "gas:candidate-vibid:350300670408": 6,
+      "gas:candidate-vibid:1001000195098": 3,
+      "gas:candidate-vibid:250200071326": 141,
+      "gas:candidate-vibid:1001000113949": 4,
+      "special:against-all": 39
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=503006006&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=350300670572&region=0&sub_region=0&type=429",
@@ -4354,13 +4354,13 @@ export const duma_2003_uik_428_region_50_part_008 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Буров Сергей Александрович": 2,
-      "Ведехов Алексей Владимирович": 22,
-      "Голубев Сергей Олегович": 2,
-      "Кулаков Сергей Иванович": 7,
-      "Пекарев Владимир Янович": 149,
-      "Сонин Анатолий Алексеевич": 5,
-      "Против всех": 21
+      "gas:candidate-vibid:1001000190373": 2,
+      "gas:candidate-vibid:250200071323": 22,
+      "gas:candidate-vibid:350300670408": 2,
+      "gas:candidate-vibid:1001000195098": 7,
+      "gas:candidate-vibid:250200071326": 149,
+      "gas:candidate-vibid:1001000113949": 5,
+      "special:against-all": 21
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=503006006&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=350300670572&region=0&sub_region=0&type=429",
@@ -4410,13 +4410,13 @@ export const duma_2003_uik_428_region_50_part_008 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Буров Сергей Александрович": 47,
-      "Ведехов Алексей Владимирович": 72,
-      "Голубев Сергей Олегович": 41,
-      "Кулаков Сергей Иванович": 25,
-      "Пекарев Владимир Янович": 368,
-      "Сонин Анатолий Алексеевич": 42,
-      "Против всех": 178
+      "gas:candidate-vibid:1001000190373": 47,
+      "gas:candidate-vibid:250200071323": 72,
+      "gas:candidate-vibid:350300670408": 41,
+      "gas:candidate-vibid:1001000195098": 25,
+      "gas:candidate-vibid:250200071326": 368,
+      "gas:candidate-vibid:1001000113949": 42,
+      "special:against-all": 178
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=503006006&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=350300670572&region=0&sub_region=0&type=429",
@@ -4466,13 +4466,13 @@ export const duma_2003_uik_428_region_50_part_008 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Буров Сергей Александрович": 18,
-      "Ведехов Алексей Владимирович": 23,
-      "Голубев Сергей Олегович": 22,
-      "Кулаков Сергей Иванович": 6,
-      "Пекарев Владимир Янович": 116,
-      "Сонин Анатолий Алексеевич": 15,
-      "Против всех": 80
+      "gas:candidate-vibid:1001000190373": 18,
+      "gas:candidate-vibid:250200071323": 23,
+      "gas:candidate-vibid:350300670408": 22,
+      "gas:candidate-vibid:1001000195098": 6,
+      "gas:candidate-vibid:250200071326": 116,
+      "gas:candidate-vibid:1001000113949": 15,
+      "special:against-all": 80
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=503006006&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=350300670572&region=0&sub_region=0&type=429",
@@ -4522,13 +4522,13 @@ export const duma_2003_uik_428_region_50_part_008 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Буров Сергей Александрович": 38,
-      "Ведехов Алексей Владимирович": 85,
-      "Голубев Сергей Олегович": 15,
-      "Кулаков Сергей Иванович": 10,
-      "Пекарев Владимир Янович": 126,
-      "Сонин Анатолий Алексеевич": 26,
-      "Против всех": 133
+      "gas:candidate-vibid:1001000190373": 38,
+      "gas:candidate-vibid:250200071323": 85,
+      "gas:candidate-vibid:350300670408": 15,
+      "gas:candidate-vibid:1001000195098": 10,
+      "gas:candidate-vibid:250200071326": 126,
+      "gas:candidate-vibid:1001000113949": 26,
+      "special:against-all": 133
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=503006006&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=350300670572&region=0&sub_region=0&type=429",
@@ -4578,13 +4578,13 @@ export const duma_2003_uik_428_region_50_part_008 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Буров Сергей Александрович": 30,
-      "Ведехов Алексей Владимирович": 173,
-      "Голубев Сергей Олегович": 44,
-      "Кулаков Сергей Иванович": 25,
-      "Пекарев Владимир Янович": 238,
-      "Сонин Анатолий Алексеевич": 35,
-      "Против всех": 224
+      "gas:candidate-vibid:1001000190373": 30,
+      "gas:candidate-vibid:250200071323": 173,
+      "gas:candidate-vibid:350300670408": 44,
+      "gas:candidate-vibid:1001000195098": 25,
+      "gas:candidate-vibid:250200071326": 238,
+      "gas:candidate-vibid:1001000113949": 35,
+      "special:against-all": 224
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=503006006&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=350300670572&region=0&sub_region=0&type=429",
@@ -4634,13 +4634,13 @@ export const duma_2003_uik_428_region_50_part_008 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Буров Сергей Александрович": 64,
-      "Ведехов Алексей Владимирович": 268,
-      "Голубев Сергей Олегович": 45,
-      "Кулаков Сергей Иванович": 64,
-      "Пекарев Владимир Янович": 604,
-      "Сонин Анатолий Алексеевич": 77,
-      "Против всех": 357
+      "gas:candidate-vibid:1001000190373": 64,
+      "gas:candidate-vibid:250200071323": 268,
+      "gas:candidate-vibid:350300670408": 45,
+      "gas:candidate-vibid:1001000195098": 64,
+      "gas:candidate-vibid:250200071326": 604,
+      "gas:candidate-vibid:1001000113949": 77,
+      "special:against-all": 357
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=503006006&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=350300670572&region=0&sub_region=0&type=429",
@@ -4690,13 +4690,13 @@ export const duma_2003_uik_428_region_50_part_008 = [
       "Число не учтенных при получении бюллетеней": 1
     },
     "votes": {
-      "Буров Сергей Александрович": 10,
-      "Ведехов Алексей Владимирович": 46,
-      "Голубев Сергей Олегович": 12,
-      "Кулаков Сергей Иванович": 9,
-      "Пекарев Владимир Янович": 72,
-      "Сонин Анатолий Алексеевич": 11,
-      "Против всех": 42
+      "gas:candidate-vibid:1001000190373": 10,
+      "gas:candidate-vibid:250200071323": 46,
+      "gas:candidate-vibid:350300670408": 12,
+      "gas:candidate-vibid:1001000195098": 9,
+      "gas:candidate-vibid:250200071326": 72,
+      "gas:candidate-vibid:1001000113949": 11,
+      "special:against-all": 42
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=503006006&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=350300670572&region=0&sub_region=0&type=429",
@@ -4746,13 +4746,13 @@ export const duma_2003_uik_428_region_50_part_008 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Буров Сергей Александрович": 25,
-      "Ведехов Алексей Владимирович": 227,
-      "Голубев Сергей Олегович": 22,
-      "Кулаков Сергей Иванович": 10,
-      "Пекарев Владимир Янович": 197,
-      "Сонин Анатолий Алексеевич": 29,
-      "Против всех": 151
+      "gas:candidate-vibid:1001000190373": 25,
+      "gas:candidate-vibid:250200071323": 227,
+      "gas:candidate-vibid:350300670408": 22,
+      "gas:candidate-vibid:1001000195098": 10,
+      "gas:candidate-vibid:250200071326": 197,
+      "gas:candidate-vibid:1001000113949": 29,
+      "special:against-all": 151
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=503006006&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=350300670572&region=0&sub_region=0&type=429",
@@ -4802,13 +4802,13 @@ export const duma_2003_uik_428_region_50_part_008 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Буров Сергей Александрович": 2,
-      "Ведехов Алексей Владимирович": 12,
-      "Голубев Сергей Олегович": 3,
-      "Кулаков Сергей Иванович": 2,
-      "Пекарев Владимир Янович": 116,
-      "Сонин Анатолий Алексеевич": 2,
-      "Против всех": 40
+      "gas:candidate-vibid:1001000190373": 2,
+      "gas:candidate-vibid:250200071323": 12,
+      "gas:candidate-vibid:350300670408": 3,
+      "gas:candidate-vibid:1001000195098": 2,
+      "gas:candidate-vibid:250200071326": 116,
+      "gas:candidate-vibid:1001000113949": 2,
+      "special:against-all": 40
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=503006006&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=350300670572&region=0&sub_region=0&type=429",
@@ -4858,13 +4858,13 @@ export const duma_2003_uik_428_region_50_part_008 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Буров Сергей Александрович": 28,
-      "Ведехов Алексей Владимирович": 24,
-      "Голубев Сергей Олегович": 18,
-      "Кулаков Сергей Иванович": 9,
-      "Пекарев Владимир Янович": 98,
-      "Сонин Анатолий Алексеевич": 14,
-      "Против всех": 61
+      "gas:candidate-vibid:1001000190373": 28,
+      "gas:candidate-vibid:250200071323": 24,
+      "gas:candidate-vibid:350300670408": 18,
+      "gas:candidate-vibid:1001000195098": 9,
+      "gas:candidate-vibid:250200071326": 98,
+      "gas:candidate-vibid:1001000113949": 14,
+      "special:against-all": 61
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=503006006&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=350300670572&region=0&sub_region=0&type=429",
@@ -4914,13 +4914,13 @@ export const duma_2003_uik_428_region_50_part_008 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Буров Сергей Александрович": 19,
-      "Ведехов Алексей Владимирович": 49,
-      "Голубев Сергей Олегович": 15,
-      "Кулаков Сергей Иванович": 4,
-      "Пекарев Владимир Янович": 111,
-      "Сонин Анатолий Алексеевич": 14,
-      "Против всех": 65
+      "gas:candidate-vibid:1001000190373": 19,
+      "gas:candidate-vibid:250200071323": 49,
+      "gas:candidate-vibid:350300670408": 15,
+      "gas:candidate-vibid:1001000195098": 4,
+      "gas:candidate-vibid:250200071326": 111,
+      "gas:candidate-vibid:1001000113949": 14,
+      "special:against-all": 65
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=503006006&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=350300670572&region=0&sub_region=0&type=429",
@@ -4970,13 +4970,13 @@ export const duma_2003_uik_428_region_50_part_008 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Буров Сергей Александрович": 12,
-      "Ведехов Алексей Владимирович": 41,
-      "Голубев Сергей Олегович": 10,
-      "Кулаков Сергей Иванович": 15,
-      "Пекарев Владимир Янович": 68,
-      "Сонин Анатолий Алексеевич": 20,
-      "Против всех": 80
+      "gas:candidate-vibid:1001000190373": 12,
+      "gas:candidate-vibid:250200071323": 41,
+      "gas:candidate-vibid:350300670408": 10,
+      "gas:candidate-vibid:1001000195098": 15,
+      "gas:candidate-vibid:250200071326": 68,
+      "gas:candidate-vibid:1001000113949": 20,
+      "special:against-all": 80
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=503006006&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=350300670572&region=0&sub_region=0&type=429",
@@ -5026,13 +5026,13 @@ export const duma_2003_uik_428_region_50_part_008 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Буров Сергей Александрович": 6,
-      "Ведехов Алексей Владимирович": 9,
-      "Голубев Сергей Олегович": 7,
-      "Кулаков Сергей Иванович": 12,
-      "Пекарев Владимир Янович": 184,
-      "Сонин Анатолий Алексеевич": 7,
-      "Против всех": 17
+      "gas:candidate-vibid:1001000190373": 6,
+      "gas:candidate-vibid:250200071323": 9,
+      "gas:candidate-vibid:350300670408": 7,
+      "gas:candidate-vibid:1001000195098": 12,
+      "gas:candidate-vibid:250200071326": 184,
+      "gas:candidate-vibid:1001000113949": 7,
+      "special:against-all": 17
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=503006006&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=350300670572&region=0&sub_region=0&type=429",
@@ -5082,13 +5082,13 @@ export const duma_2003_uik_428_region_50_part_008 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Буров Сергей Александрович": 11,
-      "Ведехов Алексей Владимирович": 8,
-      "Голубев Сергей Олегович": 21,
-      "Кулаков Сергей Иванович": 3,
-      "Пекарев Владимир Янович": 120,
-      "Сонин Анатолий Алексеевич": 10,
-      "Против всех": 26
+      "gas:candidate-vibid:1001000190373": 11,
+      "gas:candidate-vibid:250200071323": 8,
+      "gas:candidate-vibid:350300670408": 21,
+      "gas:candidate-vibid:1001000195098": 3,
+      "gas:candidate-vibid:250200071326": 120,
+      "gas:candidate-vibid:1001000113949": 10,
+      "special:against-all": 26
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=503006006&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=350300670572&region=0&sub_region=0&type=429",
@@ -5138,13 +5138,13 @@ export const duma_2003_uik_428_region_50_part_008 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Буров Сергей Александрович": 17,
-      "Ведехов Алексей Владимирович": 55,
-      "Голубев Сергей Олегович": 14,
-      "Кулаков Сергей Иванович": 7,
-      "Пекарев Владимир Янович": 200,
-      "Сонин Анатолий Алексеевич": 19,
-      "Против всех": 85
+      "gas:candidate-vibid:1001000190373": 17,
+      "gas:candidate-vibid:250200071323": 55,
+      "gas:candidate-vibid:350300670408": 14,
+      "gas:candidate-vibid:1001000195098": 7,
+      "gas:candidate-vibid:250200071326": 200,
+      "gas:candidate-vibid:1001000113949": 19,
+      "special:against-all": 85
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=503006006&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=350300670572&region=0&sub_region=0&type=429",
@@ -5194,13 +5194,13 @@ export const duma_2003_uik_428_region_50_part_008 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Буров Сергей Александрович": 47,
-      "Ведехов Алексей Владимирович": 151,
-      "Голубев Сергей Олегович": 37,
-      "Кулаков Сергей Иванович": 31,
-      "Пекарев Владимир Янович": 361,
-      "Сонин Анатолий Алексеевич": 39,
-      "Против всех": 242
+      "gas:candidate-vibid:1001000190373": 47,
+      "gas:candidate-vibid:250200071323": 151,
+      "gas:candidate-vibid:350300670408": 37,
+      "gas:candidate-vibid:1001000195098": 31,
+      "gas:candidate-vibid:250200071326": 361,
+      "gas:candidate-vibid:1001000113949": 39,
+      "special:against-all": 242
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=503006006&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=350300670572&region=0&sub_region=0&type=429",
@@ -5250,13 +5250,13 @@ export const duma_2003_uik_428_region_50_part_008 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Буров Сергей Александрович": 13,
-      "Ведехов Алексей Владимирович": 12,
-      "Голубев Сергей Олегович": 7,
-      "Кулаков Сергей Иванович": 2,
-      "Пекарев Владимир Янович": 64,
-      "Сонин Анатолий Алексеевич": 10,
-      "Против всех": 28
+      "gas:candidate-vibid:1001000190373": 13,
+      "gas:candidate-vibid:250200071323": 12,
+      "gas:candidate-vibid:350300670408": 7,
+      "gas:candidate-vibid:1001000195098": 2,
+      "gas:candidate-vibid:250200071326": 64,
+      "gas:candidate-vibid:1001000113949": 10,
+      "special:against-all": 28
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=503006006&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=350300670572&region=0&sub_region=0&type=429",
@@ -5306,13 +5306,13 @@ export const duma_2003_uik_428_region_50_part_008 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Буров Сергей Александрович": 15,
-      "Ведехов Алексей Владимирович": 21,
-      "Голубев Сергей Олегович": 21,
-      "Кулаков Сергей Иванович": 11,
-      "Пекарев Владимир Янович": 77,
-      "Сонин Анатолий Алексеевич": 19,
-      "Против всех": 103
+      "gas:candidate-vibid:1001000190373": 15,
+      "gas:candidate-vibid:250200071323": 21,
+      "gas:candidate-vibid:350300670408": 21,
+      "gas:candidate-vibid:1001000195098": 11,
+      "gas:candidate-vibid:250200071326": 77,
+      "gas:candidate-vibid:1001000113949": 19,
+      "special:against-all": 103
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=503006006&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=350300670572&region=0&sub_region=0&type=429",
@@ -5362,13 +5362,13 @@ export const duma_2003_uik_428_region_50_part_008 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Буров Сергей Александрович": 59,
-      "Ведехов Алексей Владимирович": 49,
-      "Голубев Сергей Олегович": 31,
-      "Кулаков Сергей Иванович": 22,
-      "Пекарев Владимир Янович": 1016,
-      "Сонин Анатолий Алексеевич": 42,
-      "Против всех": 261
+      "gas:candidate-vibid:1001000190373": 59,
+      "gas:candidate-vibid:250200071323": 49,
+      "gas:candidate-vibid:350300670408": 31,
+      "gas:candidate-vibid:1001000195098": 22,
+      "gas:candidate-vibid:250200071326": 1016,
+      "gas:candidate-vibid:1001000113949": 42,
+      "special:against-all": 261
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=503006007&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=350300670893&region=0&sub_region=0&type=429",
@@ -5418,13 +5418,13 @@ export const duma_2003_uik_428_region_50_part_008 = [
       "Число не учтенных при получении бюллетеней": 1
     },
     "votes": {
-      "Буров Сергей Александрович": 45,
-      "Ведехов Алексей Владимирович": 75,
-      "Голубев Сергей Олегович": 26,
-      "Кулаков Сергей Иванович": 27,
-      "Пекарев Владимир Янович": 910,
-      "Сонин Анатолий Алексеевич": 40,
-      "Против всех": 297
+      "gas:candidate-vibid:1001000190373": 45,
+      "gas:candidate-vibid:250200071323": 75,
+      "gas:candidate-vibid:350300670408": 26,
+      "gas:candidate-vibid:1001000195098": 27,
+      "gas:candidate-vibid:250200071326": 910,
+      "gas:candidate-vibid:1001000113949": 40,
+      "special:against-all": 297
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=503006007&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=350300670893&region=0&sub_region=0&type=429",
@@ -5474,13 +5474,13 @@ export const duma_2003_uik_428_region_50_part_008 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Буров Сергей Александрович": 41,
-      "Ведехов Алексей Владимирович": 58,
-      "Голубев Сергей Олегович": 25,
-      "Кулаков Сергей Иванович": 39,
-      "Пекарев Владимир Янович": 1067,
-      "Сонин Анатолий Алексеевич": 86,
-      "Против всех": 329
+      "gas:candidate-vibid:1001000190373": 41,
+      "gas:candidate-vibid:250200071323": 58,
+      "gas:candidate-vibid:350300670408": 25,
+      "gas:candidate-vibid:1001000195098": 39,
+      "gas:candidate-vibid:250200071326": 1067,
+      "gas:candidate-vibid:1001000113949": 86,
+      "special:against-all": 329
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=503006007&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=350300670893&region=0&sub_region=0&type=429",
@@ -5530,13 +5530,13 @@ export const duma_2003_uik_428_region_50_part_008 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Буров Сергей Александрович": 43,
-      "Ведехов Алексей Владимирович": 59,
-      "Голубев Сергей Олегович": 23,
-      "Кулаков Сергей Иванович": 33,
-      "Пекарев Владимир Янович": 1002,
-      "Сонин Анатолий Алексеевич": 73,
-      "Против всех": 336
+      "gas:candidate-vibid:1001000190373": 43,
+      "gas:candidate-vibid:250200071323": 59,
+      "gas:candidate-vibid:350300670408": 23,
+      "gas:candidate-vibid:1001000195098": 33,
+      "gas:candidate-vibid:250200071326": 1002,
+      "gas:candidate-vibid:1001000113949": 73,
+      "special:against-all": 336
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=503006007&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=350300670893&region=0&sub_region=0&type=429",
@@ -5586,13 +5586,13 @@ export const duma_2003_uik_428_region_50_part_008 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Буров Сергей Александрович": 47,
-      "Ведехов Алексей Владимирович": 72,
-      "Голубев Сергей Олегович": 26,
-      "Кулаков Сергей Иванович": 31,
-      "Пекарев Владимир Янович": 930,
-      "Сонин Анатолий Алексеевич": 43,
-      "Против всех": 266
+      "gas:candidate-vibid:1001000190373": 47,
+      "gas:candidate-vibid:250200071323": 72,
+      "gas:candidate-vibid:350300670408": 26,
+      "gas:candidate-vibid:1001000195098": 31,
+      "gas:candidate-vibid:250200071326": 930,
+      "gas:candidate-vibid:1001000113949": 43,
+      "special:against-all": 266
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=503006007&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=350300670893&region=0&sub_region=0&type=429",
@@ -5642,13 +5642,13 @@ export const duma_2003_uik_428_region_50_part_008 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Буров Сергей Александрович": 42,
-      "Ведехов Алексей Владимирович": 54,
-      "Голубев Сергей Олегович": 24,
-      "Кулаков Сергей Иванович": 29,
-      "Пекарев Владимир Янович": 801,
-      "Сонин Анатолий Алексеевич": 57,
-      "Против всех": 222
+      "gas:candidate-vibid:1001000190373": 42,
+      "gas:candidate-vibid:250200071323": 54,
+      "gas:candidate-vibid:350300670408": 24,
+      "gas:candidate-vibid:1001000195098": 29,
+      "gas:candidate-vibid:250200071326": 801,
+      "gas:candidate-vibid:1001000113949": 57,
+      "special:against-all": 222
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=503006007&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=350300670893&region=0&sub_region=0&type=429",
@@ -5698,13 +5698,13 @@ export const duma_2003_uik_428_region_50_part_008 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Буров Сергей Александрович": 41,
-      "Ведехов Алексей Владимирович": 48,
-      "Голубев Сергей Олегович": 24,
-      "Кулаков Сергей Иванович": 34,
-      "Пекарев Владимир Янович": 944,
-      "Сонин Анатолий Алексеевич": 54,
-      "Против всех": 223
+      "gas:candidate-vibid:1001000190373": 41,
+      "gas:candidate-vibid:250200071323": 48,
+      "gas:candidate-vibid:350300670408": 24,
+      "gas:candidate-vibid:1001000195098": 34,
+      "gas:candidate-vibid:250200071326": 944,
+      "gas:candidate-vibid:1001000113949": 54,
+      "special:against-all": 223
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=503006007&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=350300670893&region=0&sub_region=0&type=429",
@@ -5754,13 +5754,13 @@ export const duma_2003_uik_428_region_50_part_008 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Буров Сергей Александрович": 66,
-      "Ведехов Алексей Владимирович": 52,
-      "Голубев Сергей Олегович": 28,
-      "Кулаков Сергей Иванович": 35,
-      "Пекарев Владимир Янович": 814,
-      "Сонин Анатолий Алексеевич": 41,
-      "Против всех": 231
+      "gas:candidate-vibid:1001000190373": 66,
+      "gas:candidate-vibid:250200071323": 52,
+      "gas:candidate-vibid:350300670408": 28,
+      "gas:candidate-vibid:1001000195098": 35,
+      "gas:candidate-vibid:250200071326": 814,
+      "gas:candidate-vibid:1001000113949": 41,
+      "special:against-all": 231
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=503006007&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=350300670893&region=0&sub_region=0&type=429",
@@ -5810,13 +5810,13 @@ export const duma_2003_uik_428_region_50_part_008 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Буров Сергей Александрович": 48,
-      "Ведехов Алексей Владимирович": 74,
-      "Голубев Сергей Олегович": 24,
-      "Кулаков Сергей Иванович": 36,
-      "Пекарев Владимир Янович": 897,
-      "Сонин Анатолий Алексеевич": 64,
-      "Против всех": 311
+      "gas:candidate-vibid:1001000190373": 48,
+      "gas:candidate-vibid:250200071323": 74,
+      "gas:candidate-vibid:350300670408": 24,
+      "gas:candidate-vibid:1001000195098": 36,
+      "gas:candidate-vibid:250200071326": 897,
+      "gas:candidate-vibid:1001000113949": 64,
+      "special:against-all": 311
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=503006007&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=350300670893&region=0&sub_region=0&type=429",
@@ -5866,13 +5866,13 @@ export const duma_2003_uik_428_region_50_part_008 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Буров Сергей Александрович": 39,
-      "Ведехов Алексей Владимирович": 123,
-      "Голубев Сергей Олегович": 19,
-      "Кулаков Сергей Иванович": 38,
-      "Пекарев Владимир Янович": 826,
-      "Сонин Анатолий Алексеевич": 21,
-      "Против всех": 293
+      "gas:candidate-vibid:1001000190373": 39,
+      "gas:candidate-vibid:250200071323": 123,
+      "gas:candidate-vibid:350300670408": 19,
+      "gas:candidate-vibid:1001000195098": 38,
+      "gas:candidate-vibid:250200071326": 826,
+      "gas:candidate-vibid:1001000113949": 21,
+      "special:against-all": 293
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=503006007&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=350300670893&region=0&sub_region=0&type=429",
@@ -5922,13 +5922,13 @@ export const duma_2003_uik_428_region_50_part_008 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Буров Сергей Александрович": 51,
-      "Ведехов Алексей Владимирович": 72,
-      "Голубев Сергей Олегович": 25,
-      "Кулаков Сергей Иванович": 42,
-      "Пекарев Владимир Янович": 814,
-      "Сонин Анатолий Алексеевич": 51,
-      "Против всех": 278
+      "gas:candidate-vibid:1001000190373": 51,
+      "gas:candidate-vibid:250200071323": 72,
+      "gas:candidate-vibid:350300670408": 25,
+      "gas:candidate-vibid:1001000195098": 42,
+      "gas:candidate-vibid:250200071326": 814,
+      "gas:candidate-vibid:1001000113949": 51,
+      "special:against-all": 278
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=503006007&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=350300670893&region=0&sub_region=0&type=429",
@@ -5978,13 +5978,13 @@ export const duma_2003_uik_428_region_50_part_008 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Буров Сергей Александрович": 46,
-      "Ведехов Алексей Владимирович": 36,
-      "Голубев Сергей Олегович": 10,
-      "Кулаков Сергей Иванович": 19,
-      "Пекарев Владимир Янович": 677,
-      "Сонин Анатолий Алексеевич": 33,
-      "Против всех": 198
+      "gas:candidate-vibid:1001000190373": 46,
+      "gas:candidate-vibid:250200071323": 36,
+      "gas:candidate-vibid:350300670408": 10,
+      "gas:candidate-vibid:1001000195098": 19,
+      "gas:candidate-vibid:250200071326": 677,
+      "gas:candidate-vibid:1001000113949": 33,
+      "special:against-all": 198
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=503006007&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=350300670893&region=0&sub_region=0&type=429",
@@ -6034,13 +6034,13 @@ export const duma_2003_uik_428_region_50_part_008 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Буров Сергей Александрович": 44,
-      "Ведехов Алексей Владимирович": 81,
-      "Голубев Сергей Олегович": 34,
-      "Кулаков Сергей Иванович": 18,
-      "Пекарев Владимир Янович": 831,
-      "Сонин Анатолий Алексеевич": 26,
-      "Против всех": 219
+      "gas:candidate-vibid:1001000190373": 44,
+      "gas:candidate-vibid:250200071323": 81,
+      "gas:candidate-vibid:350300670408": 34,
+      "gas:candidate-vibid:1001000195098": 18,
+      "gas:candidate-vibid:250200071326": 831,
+      "gas:candidate-vibid:1001000113949": 26,
+      "special:against-all": 219
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=503006007&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=350300670893&region=0&sub_region=0&type=429",
@@ -6090,13 +6090,13 @@ export const duma_2003_uik_428_region_50_part_008 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Буров Сергей Александрович": 36,
-      "Ведехов Алексей Владимирович": 62,
-      "Голубев Сергей Олегович": 19,
-      "Кулаков Сергей Иванович": 34,
-      "Пекарев Владимир Янович": 715,
-      "Сонин Анатолий Алексеевич": 36,
-      "Против всех": 218
+      "gas:candidate-vibid:1001000190373": 36,
+      "gas:candidate-vibid:250200071323": 62,
+      "gas:candidate-vibid:350300670408": 19,
+      "gas:candidate-vibid:1001000195098": 34,
+      "gas:candidate-vibid:250200071326": 715,
+      "gas:candidate-vibid:1001000113949": 36,
+      "special:against-all": 218
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=503006007&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=350300670893&region=0&sub_region=0&type=429",
@@ -6146,13 +6146,13 @@ export const duma_2003_uik_428_region_50_part_008 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Буров Сергей Александрович": 39,
-      "Ведехов Алексей Владимирович": 103,
-      "Голубев Сергей Олегович": 19,
-      "Кулаков Сергей Иванович": 32,
-      "Пекарев Владимир Янович": 995,
-      "Сонин Анатолий Алексеевич": 41,
-      "Против всех": 306
+      "gas:candidate-vibid:1001000190373": 39,
+      "gas:candidate-vibid:250200071323": 103,
+      "gas:candidate-vibid:350300670408": 19,
+      "gas:candidate-vibid:1001000195098": 32,
+      "gas:candidate-vibid:250200071326": 995,
+      "gas:candidate-vibid:1001000113949": 41,
+      "special:against-all": 306
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=503006007&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=350300670893&region=0&sub_region=0&type=429",
@@ -6202,13 +6202,13 @@ export const duma_2003_uik_428_region_50_part_008 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Буров Сергей Александрович": 51,
-      "Ведехов Алексей Владимирович": 78,
-      "Голубев Сергей Олегович": 22,
-      "Кулаков Сергей Иванович": 20,
-      "Пекарев Владимир Янович": 1041,
-      "Сонин Анатолий Алексеевич": 51,
-      "Против всех": 359
+      "gas:candidate-vibid:1001000190373": 51,
+      "gas:candidate-vibid:250200071323": 78,
+      "gas:candidate-vibid:350300670408": 22,
+      "gas:candidate-vibid:1001000195098": 20,
+      "gas:candidate-vibid:250200071326": 1041,
+      "gas:candidate-vibid:1001000113949": 51,
+      "special:against-all": 359
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=503006007&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=350300670893&region=0&sub_region=0&type=429",
@@ -6258,13 +6258,13 @@ export const duma_2003_uik_428_region_50_part_008 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Буров Сергей Александрович": 45,
-      "Ведехов Алексей Владимирович": 76,
-      "Голубев Сергей Олегович": 12,
-      "Кулаков Сергей Иванович": 20,
-      "Пекарев Владимир Янович": 1023,
-      "Сонин Анатолий Алексеевич": 31,
-      "Против всех": 272
+      "gas:candidate-vibid:1001000190373": 45,
+      "gas:candidate-vibid:250200071323": 76,
+      "gas:candidate-vibid:350300670408": 12,
+      "gas:candidate-vibid:1001000195098": 20,
+      "gas:candidate-vibid:250200071326": 1023,
+      "gas:candidate-vibid:1001000113949": 31,
+      "special:against-all": 272
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=503006007&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=350300670893&region=0&sub_region=0&type=429",
@@ -6314,13 +6314,13 @@ export const duma_2003_uik_428_region_50_part_008 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Буров Сергей Александрович": 33,
-      "Ведехов Алексей Владимирович": 85,
-      "Голубев Сергей Олегович": 20,
-      "Кулаков Сергей Иванович": 28,
-      "Пекарев Владимир Янович": 965,
-      "Сонин Анатолий Алексеевич": 31,
-      "Против всех": 340
+      "gas:candidate-vibid:1001000190373": 33,
+      "gas:candidate-vibid:250200071323": 85,
+      "gas:candidate-vibid:350300670408": 20,
+      "gas:candidate-vibid:1001000195098": 28,
+      "gas:candidate-vibid:250200071326": 965,
+      "gas:candidate-vibid:1001000113949": 31,
+      "special:against-all": 340
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=503006007&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=350300670893&region=0&sub_region=0&type=429",
@@ -6370,13 +6370,13 @@ export const duma_2003_uik_428_region_50_part_008 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Буров Сергей Александрович": 53,
-      "Ведехов Алексей Владимирович": 72,
-      "Голубев Сергей Олегович": 21,
-      "Кулаков Сергей Иванович": 35,
-      "Пекарев Владимир Янович": 978,
-      "Сонин Анатолий Алексеевич": 39,
-      "Против всех": 289
+      "gas:candidate-vibid:1001000190373": 53,
+      "gas:candidate-vibid:250200071323": 72,
+      "gas:candidate-vibid:350300670408": 21,
+      "gas:candidate-vibid:1001000195098": 35,
+      "gas:candidate-vibid:250200071326": 978,
+      "gas:candidate-vibid:1001000113949": 39,
+      "special:against-all": 289
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=503006007&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=350300670893&region=0&sub_region=0&type=429",
@@ -6426,13 +6426,13 @@ export const duma_2003_uik_428_region_50_part_008 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Буров Сергей Александрович": 48,
-      "Ведехов Алексей Владимирович": 85,
-      "Голубев Сергей Олегович": 18,
-      "Кулаков Сергей Иванович": 31,
-      "Пекарев Владимир Янович": 1043,
-      "Сонин Анатолий Алексеевич": 39,
-      "Против всех": 289
+      "gas:candidate-vibid:1001000190373": 48,
+      "gas:candidate-vibid:250200071323": 85,
+      "gas:candidate-vibid:350300670408": 18,
+      "gas:candidate-vibid:1001000195098": 31,
+      "gas:candidate-vibid:250200071326": 1043,
+      "gas:candidate-vibid:1001000113949": 39,
+      "special:against-all": 289
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=503006007&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=350300670893&region=0&sub_region=0&type=429",
@@ -6482,13 +6482,13 @@ export const duma_2003_uik_428_region_50_part_008 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Буров Сергей Александрович": 43,
-      "Ведехов Алексей Владимирович": 77,
-      "Голубев Сергей Олегович": 21,
-      "Кулаков Сергей Иванович": 22,
-      "Пекарев Владимир Янович": 953,
-      "Сонин Анатолий Алексеевич": 42,
-      "Против всех": 231
+      "gas:candidate-vibid:1001000190373": 43,
+      "gas:candidate-vibid:250200071323": 77,
+      "gas:candidate-vibid:350300670408": 21,
+      "gas:candidate-vibid:1001000195098": 22,
+      "gas:candidate-vibid:250200071326": 953,
+      "gas:candidate-vibid:1001000113949": 42,
+      "special:against-all": 231
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=503006007&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=350300670893&region=0&sub_region=0&type=429",
@@ -6538,13 +6538,13 @@ export const duma_2003_uik_428_region_50_part_008 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Буров Сергей Александрович": 51,
-      "Ведехов Алексей Владимирович": 66,
-      "Голубев Сергей Олегович": 15,
-      "Кулаков Сергей Иванович": 30,
-      "Пекарев Владимир Янович": 1036,
-      "Сонин Анатолий Алексеевич": 29,
-      "Против всех": 252
+      "gas:candidate-vibid:1001000190373": 51,
+      "gas:candidate-vibid:250200071323": 66,
+      "gas:candidate-vibid:350300670408": 15,
+      "gas:candidate-vibid:1001000195098": 30,
+      "gas:candidate-vibid:250200071326": 1036,
+      "gas:candidate-vibid:1001000113949": 29,
+      "special:against-all": 252
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=503006007&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=350300670893&region=0&sub_region=0&type=429",
@@ -6594,13 +6594,13 @@ export const duma_2003_uik_428_region_50_part_008 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Буров Сергей Александрович": 44,
-      "Ведехов Алексей Владимирович": 71,
-      "Голубев Сергей Олегович": 11,
-      "Кулаков Сергей Иванович": 31,
-      "Пекарев Владимир Янович": 878,
-      "Сонин Анатолий Алексеевич": 41,
-      "Против всех": 313
+      "gas:candidate-vibid:1001000190373": 44,
+      "gas:candidate-vibid:250200071323": 71,
+      "gas:candidate-vibid:350300670408": 11,
+      "gas:candidate-vibid:1001000195098": 31,
+      "gas:candidate-vibid:250200071326": 878,
+      "gas:candidate-vibid:1001000113949": 41,
+      "special:against-all": 313
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=503006007&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=350300670893&region=0&sub_region=0&type=429",
@@ -6650,13 +6650,13 @@ export const duma_2003_uik_428_region_50_part_008 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Буров Сергей Александрович": 43,
-      "Ведехов Алексей Владимирович": 83,
-      "Голубев Сергей Олегович": 21,
-      "Кулаков Сергей Иванович": 31,
-      "Пекарев Владимир Янович": 872,
-      "Сонин Анатолий Алексеевич": 53,
-      "Против всех": 209
+      "gas:candidate-vibid:1001000190373": 43,
+      "gas:candidate-vibid:250200071323": 83,
+      "gas:candidate-vibid:350300670408": 21,
+      "gas:candidate-vibid:1001000195098": 31,
+      "gas:candidate-vibid:250200071326": 872,
+      "gas:candidate-vibid:1001000113949": 53,
+      "special:against-all": 209
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=503006007&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=350300670893&region=0&sub_region=0&type=429",
@@ -6706,13 +6706,13 @@ export const duma_2003_uik_428_region_50_part_008 = [
       "Число не учтенных при получении бюллетеней": 4
     },
     "votes": {
-      "Буров Сергей Александрович": 39,
-      "Ведехов Алексей Владимирович": 70,
-      "Голубев Сергей Олегович": 24,
-      "Кулаков Сергей Иванович": 32,
-      "Пекарев Владимир Янович": 908,
-      "Сонин Анатолий Алексеевич": 35,
-      "Против всех": 265
+      "gas:candidate-vibid:1001000190373": 39,
+      "gas:candidate-vibid:250200071323": 70,
+      "gas:candidate-vibid:350300670408": 24,
+      "gas:candidate-vibid:1001000195098": 32,
+      "gas:candidate-vibid:250200071326": 908,
+      "gas:candidate-vibid:1001000113949": 35,
+      "special:against-all": 265
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=503006007&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=350300670893&region=0&sub_region=0&type=429",
@@ -6762,13 +6762,13 @@ export const duma_2003_uik_428_region_50_part_008 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Буров Сергей Александрович": 36,
-      "Ведехов Алексей Владимирович": 116,
-      "Голубев Сергей Олегович": 18,
-      "Кулаков Сергей Иванович": 22,
-      "Пекарев Владимир Янович": 772,
-      "Сонин Анатолий Алексеевич": 35,
-      "Против всех": 192
+      "gas:candidate-vibid:1001000190373": 36,
+      "gas:candidate-vibid:250200071323": 116,
+      "gas:candidate-vibid:350300670408": 18,
+      "gas:candidate-vibid:1001000195098": 22,
+      "gas:candidate-vibid:250200071326": 772,
+      "gas:candidate-vibid:1001000113949": 35,
+      "special:against-all": 192
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=503006007&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=350300670893&region=0&sub_region=0&type=429",
@@ -6818,13 +6818,13 @@ export const duma_2003_uik_428_region_50_part_008 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Буров Сергей Александрович": 50,
-      "Ведехов Алексей Владимирович": 69,
-      "Голубев Сергей Олегович": 13,
-      "Кулаков Сергей Иванович": 20,
-      "Пекарев Владимир Янович": 903,
-      "Сонин Анатолий Алексеевич": 34,
-      "Против всех": 188
+      "gas:candidate-vibid:1001000190373": 50,
+      "gas:candidate-vibid:250200071323": 69,
+      "gas:candidate-vibid:350300670408": 13,
+      "gas:candidate-vibid:1001000195098": 20,
+      "gas:candidate-vibid:250200071326": 903,
+      "gas:candidate-vibid:1001000113949": 34,
+      "special:against-all": 188
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=503006007&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=350300670893&region=0&sub_region=0&type=429",
@@ -6874,13 +6874,13 @@ export const duma_2003_uik_428_region_50_part_008 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Буров Сергей Александрович": 41,
-      "Ведехов Алексей Владимирович": 83,
-      "Голубев Сергей Олегович": 25,
-      "Кулаков Сергей Иванович": 27,
-      "Пекарев Владимир Янович": 650,
-      "Сонин Анатолий Алексеевич": 41,
-      "Против всех": 225
+      "gas:candidate-vibid:1001000190373": 41,
+      "gas:candidate-vibid:250200071323": 83,
+      "gas:candidate-vibid:350300670408": 25,
+      "gas:candidate-vibid:1001000195098": 27,
+      "gas:candidate-vibid:250200071326": 650,
+      "gas:candidate-vibid:1001000113949": 41,
+      "special:against-all": 225
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=503006007&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=350300670893&region=0&sub_region=0&type=429",
@@ -6930,13 +6930,13 @@ export const duma_2003_uik_428_region_50_part_008 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Буров Сергей Александрович": 44,
-      "Ведехов Алексей Владимирович": 71,
-      "Голубев Сергей Олегович": 12,
-      "Кулаков Сергей Иванович": 33,
-      "Пекарев Владимир Янович": 720,
-      "Сонин Анатолий Алексеевич": 30,
-      "Против всех": 216
+      "gas:candidate-vibid:1001000190373": 44,
+      "gas:candidate-vibid:250200071323": 71,
+      "gas:candidate-vibid:350300670408": 12,
+      "gas:candidate-vibid:1001000195098": 33,
+      "gas:candidate-vibid:250200071326": 720,
+      "gas:candidate-vibid:1001000113949": 30,
+      "special:against-all": 216
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=503006007&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=350300670893&region=0&sub_region=0&type=429",
@@ -6986,13 +6986,13 @@ export const duma_2003_uik_428_region_50_part_008 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Буров Сергей Александрович": 37,
-      "Ведехов Алексей Владимирович": 44,
-      "Голубев Сергей Олегович": 13,
-      "Кулаков Сергей Иванович": 18,
-      "Пекарев Владимир Янович": 951,
-      "Сонин Анатолий Алексеевич": 42,
-      "Против всех": 221
+      "gas:candidate-vibid:1001000190373": 37,
+      "gas:candidate-vibid:250200071323": 44,
+      "gas:candidate-vibid:350300670408": 13,
+      "gas:candidate-vibid:1001000195098": 18,
+      "gas:candidate-vibid:250200071326": 951,
+      "gas:candidate-vibid:1001000113949": 42,
+      "special:against-all": 221
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=503006007&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=350300670893&region=0&sub_region=0&type=429",
@@ -7042,13 +7042,13 @@ export const duma_2003_uik_428_region_50_part_008 = [
       "Число не учтенных при получении бюллетеней": 1
     },
     "votes": {
-      "Буров Сергей Александрович": 32,
-      "Ведехов Алексей Владимирович": 51,
-      "Голубев Сергей Олегович": 17,
-      "Кулаков Сергей Иванович": 30,
-      "Пекарев Владимир Янович": 949,
-      "Сонин Анатолий Алексеевич": 34,
-      "Против всех": 291
+      "gas:candidate-vibid:1001000190373": 32,
+      "gas:candidate-vibid:250200071323": 51,
+      "gas:candidate-vibid:350300670408": 17,
+      "gas:candidate-vibid:1001000195098": 30,
+      "gas:candidate-vibid:250200071326": 949,
+      "gas:candidate-vibid:1001000113949": 34,
+      "special:against-all": 291
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=503006007&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=350300670893&region=0&sub_region=0&type=429",
@@ -7098,13 +7098,13 @@ export const duma_2003_uik_428_region_50_part_008 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Буров Сергей Александрович": 41,
-      "Ведехов Алексей Владимирович": 66,
-      "Голубев Сергей Олегович": 20,
-      "Кулаков Сергей Иванович": 25,
-      "Пекарев Владимир Янович": 814,
-      "Сонин Анатолий Алексеевич": 40,
-      "Против всех": 248
+      "gas:candidate-vibid:1001000190373": 41,
+      "gas:candidate-vibid:250200071323": 66,
+      "gas:candidate-vibid:350300670408": 20,
+      "gas:candidate-vibid:1001000195098": 25,
+      "gas:candidate-vibid:250200071326": 814,
+      "gas:candidate-vibid:1001000113949": 40,
+      "special:against-all": 248
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=503006007&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=350300670893&region=0&sub_region=0&type=429",
@@ -7154,13 +7154,13 @@ export const duma_2003_uik_428_region_50_part_008 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Буров Сергей Александрович": 36,
-      "Ведехов Алексей Владимирович": 67,
-      "Голубев Сергей Олегович": 15,
-      "Кулаков Сергей Иванович": 32,
-      "Пекарев Владимир Янович": 780,
-      "Сонин Анатолий Алексеевич": 46,
-      "Против всех": 268
+      "gas:candidate-vibid:1001000190373": 36,
+      "gas:candidate-vibid:250200071323": 67,
+      "gas:candidate-vibid:350300670408": 15,
+      "gas:candidate-vibid:1001000195098": 32,
+      "gas:candidate-vibid:250200071326": 780,
+      "gas:candidate-vibid:1001000113949": 46,
+      "special:against-all": 268
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=503006007&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=350300670893&region=0&sub_region=0&type=429",
@@ -7210,13 +7210,13 @@ export const duma_2003_uik_428_region_50_part_008 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Буров Сергей Александрович": 41,
-      "Ведехов Алексей Владимирович": 112,
-      "Голубев Сергей Олегович": 21,
-      "Кулаков Сергей Иванович": 38,
-      "Пекарев Владимир Янович": 748,
-      "Сонин Анатолий Алексеевич": 36,
-      "Против всех": 320
+      "gas:candidate-vibid:1001000190373": 41,
+      "gas:candidate-vibid:250200071323": 112,
+      "gas:candidate-vibid:350300670408": 21,
+      "gas:candidate-vibid:1001000195098": 38,
+      "gas:candidate-vibid:250200071326": 748,
+      "gas:candidate-vibid:1001000113949": 36,
+      "special:against-all": 320
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=503006007&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=350300670893&region=0&sub_region=0&type=429",
@@ -7266,13 +7266,13 @@ export const duma_2003_uik_428_region_50_part_008 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Буров Сергей Александрович": 34,
-      "Ведехов Алексей Владимирович": 64,
-      "Голубев Сергей Олегович": 13,
-      "Кулаков Сергей Иванович": 33,
-      "Пекарев Владимир Янович": 754,
-      "Сонин Анатолий Алексеевич": 47,
-      "Против всех": 275
+      "gas:candidate-vibid:1001000190373": 34,
+      "gas:candidate-vibid:250200071323": 64,
+      "gas:candidate-vibid:350300670408": 13,
+      "gas:candidate-vibid:1001000195098": 33,
+      "gas:candidate-vibid:250200071326": 754,
+      "gas:candidate-vibid:1001000113949": 47,
+      "special:against-all": 275
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=503006007&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=350300670893&region=0&sub_region=0&type=429",
@@ -7322,13 +7322,13 @@ export const duma_2003_uik_428_region_50_part_008 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Буров Сергей Александрович": 43,
-      "Ведехов Алексей Владимирович": 49,
-      "Голубев Сергей Олегович": 6,
-      "Кулаков Сергей Иванович": 32,
-      "Пекарев Владимир Янович": 821,
-      "Сонин Анатолий Алексеевич": 60,
-      "Против всех": 254
+      "gas:candidate-vibid:1001000190373": 43,
+      "gas:candidate-vibid:250200071323": 49,
+      "gas:candidate-vibid:350300670408": 6,
+      "gas:candidate-vibid:1001000195098": 32,
+      "gas:candidate-vibid:250200071326": 821,
+      "gas:candidate-vibid:1001000113949": 60,
+      "special:against-all": 254
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=503006007&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=350300670893&region=0&sub_region=0&type=429",
@@ -7378,13 +7378,13 @@ export const duma_2003_uik_428_region_50_part_008 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Буров Сергей Александрович": 66,
-      "Ведехов Алексей Владимирович": 79,
-      "Голубев Сергей Олегович": 20,
-      "Кулаков Сергей Иванович": 40,
-      "Пекарев Владимир Янович": 706,
-      "Сонин Анатолий Алексеевич": 61,
-      "Против всех": 285
+      "gas:candidate-vibid:1001000190373": 66,
+      "gas:candidate-vibid:250200071323": 79,
+      "gas:candidate-vibid:350300670408": 20,
+      "gas:candidate-vibid:1001000195098": 40,
+      "gas:candidate-vibid:250200071326": 706,
+      "gas:candidate-vibid:1001000113949": 61,
+      "special:against-all": 285
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=503006007&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=350300670893&region=0&sub_region=0&type=429",
@@ -7434,13 +7434,13 @@ export const duma_2003_uik_428_region_50_part_008 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Буров Сергей Александрович": 56,
-      "Ведехов Алексей Владимирович": 59,
-      "Голубев Сергей Олегович": 34,
-      "Кулаков Сергей Иванович": 20,
-      "Пекарев Владимир Янович": 851,
-      "Сонин Анатолий Алексеевич": 41,
-      "Против всех": 230
+      "gas:candidate-vibid:1001000190373": 56,
+      "gas:candidate-vibid:250200071323": 59,
+      "gas:candidate-vibid:350300670408": 34,
+      "gas:candidate-vibid:1001000195098": 20,
+      "gas:candidate-vibid:250200071326": 851,
+      "gas:candidate-vibid:1001000113949": 41,
+      "special:against-all": 230
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=503006007&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=350300670893&region=0&sub_region=0&type=429",
@@ -7490,13 +7490,13 @@ export const duma_2003_uik_428_region_50_part_008 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Буров Сергей Александрович": 61,
-      "Ведехов Алексей Владимирович": 96,
-      "Голубев Сергей Олегович": 30,
-      "Кулаков Сергей Иванович": 38,
-      "Пекарев Владимир Янович": 769,
-      "Сонин Анатолий Алексеевич": 43,
-      "Против всех": 272
+      "gas:candidate-vibid:1001000190373": 61,
+      "gas:candidate-vibid:250200071323": 96,
+      "gas:candidate-vibid:350300670408": 30,
+      "gas:candidate-vibid:1001000195098": 38,
+      "gas:candidate-vibid:250200071326": 769,
+      "gas:candidate-vibid:1001000113949": 43,
+      "special:against-all": 272
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=503006007&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=350300670893&region=0&sub_region=0&type=429",
@@ -7546,13 +7546,13 @@ export const duma_2003_uik_428_region_50_part_008 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Буров Сергей Александрович": 52,
-      "Ведехов Алексей Владимирович": 120,
-      "Голубев Сергей Олегович": 28,
-      "Кулаков Сергей Иванович": 35,
-      "Пекарев Владимир Янович": 913,
-      "Сонин Анатолий Алексеевич": 42,
-      "Против всех": 332
+      "gas:candidate-vibid:1001000190373": 52,
+      "gas:candidate-vibid:250200071323": 120,
+      "gas:candidate-vibid:350300670408": 28,
+      "gas:candidate-vibid:1001000195098": 35,
+      "gas:candidate-vibid:250200071326": 913,
+      "gas:candidate-vibid:1001000113949": 42,
+      "special:against-all": 332
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=503006007&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=350300670893&region=0&sub_region=0&type=429",
@@ -7602,13 +7602,13 @@ export const duma_2003_uik_428_region_50_part_008 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Буров Сергей Александрович": 43,
-      "Ведехов Алексей Владимирович": 113,
-      "Голубев Сергей Олегович": 35,
-      "Кулаков Сергей Иванович": 26,
-      "Пекарев Владимир Янович": 769,
-      "Сонин Анатолий Алексеевич": 47,
-      "Против всех": 273
+      "gas:candidate-vibid:1001000190373": 43,
+      "gas:candidate-vibid:250200071323": 113,
+      "gas:candidate-vibid:350300670408": 35,
+      "gas:candidate-vibid:1001000195098": 26,
+      "gas:candidate-vibid:250200071326": 769,
+      "gas:candidate-vibid:1001000113949": 47,
+      "special:against-all": 273
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=503006007&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=350300670893&region=0&sub_region=0&type=429",
@@ -7658,13 +7658,13 @@ export const duma_2003_uik_428_region_50_part_008 = [
       "Число не учтенных при получении бюллетеней": 5
     },
     "votes": {
-      "Буров Сергей Александрович": 37,
-      "Ведехов Алексей Владимирович": 69,
-      "Голубев Сергей Олегович": 12,
-      "Кулаков Сергей Иванович": 28,
-      "Пекарев Владимир Янович": 661,
-      "Сонин Анатолий Алексеевич": 31,
-      "Против всех": 233
+      "gas:candidate-vibid:1001000190373": 37,
+      "gas:candidate-vibid:250200071323": 69,
+      "gas:candidate-vibid:350300670408": 12,
+      "gas:candidate-vibid:1001000195098": 28,
+      "gas:candidate-vibid:250200071326": 661,
+      "gas:candidate-vibid:1001000113949": 31,
+      "special:against-all": 233
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=503006007&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=350300670893&region=0&sub_region=0&type=429",
@@ -7714,13 +7714,13 @@ export const duma_2003_uik_428_region_50_part_008 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Буров Сергей Александрович": 47,
-      "Ведехов Алексей Владимирович": 87,
-      "Голубев Сергей Олегович": 21,
-      "Кулаков Сергей Иванович": 21,
-      "Пекарев Владимир Янович": 819,
-      "Сонин Анатолий Алексеевич": 35,
-      "Против всех": 300
+      "gas:candidate-vibid:1001000190373": 47,
+      "gas:candidate-vibid:250200071323": 87,
+      "gas:candidate-vibid:350300670408": 21,
+      "gas:candidate-vibid:1001000195098": 21,
+      "gas:candidate-vibid:250200071326": 819,
+      "gas:candidate-vibid:1001000113949": 35,
+      "special:against-all": 300
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=503006007&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=350300670893&region=0&sub_region=0&type=429",
@@ -7770,13 +7770,13 @@ export const duma_2003_uik_428_region_50_part_008 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Буров Сергей Александрович": 66,
-      "Ведехов Алексей Владимирович": 66,
-      "Голубев Сергей Олегович": 31,
-      "Кулаков Сергей Иванович": 25,
-      "Пекарев Владимир Янович": 974,
-      "Сонин Анатолий Алексеевич": 31,
-      "Против всех": 349
+      "gas:candidate-vibid:1001000190373": 66,
+      "gas:candidate-vibid:250200071323": 66,
+      "gas:candidate-vibid:350300670408": 31,
+      "gas:candidate-vibid:1001000195098": 25,
+      "gas:candidate-vibid:250200071326": 974,
+      "gas:candidate-vibid:1001000113949": 31,
+      "special:against-all": 349
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=503006007&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=350300670893&region=0&sub_region=0&type=429",
@@ -7826,13 +7826,13 @@ export const duma_2003_uik_428_region_50_part_008 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Буров Сергей Александрович": 53,
-      "Ведехов Алексей Владимирович": 47,
-      "Голубев Сергей Олегович": 20,
-      "Кулаков Сергей Иванович": 33,
-      "Пекарев Владимир Янович": 993,
-      "Сонин Анатолий Алексеевич": 42,
-      "Против всех": 321
+      "gas:candidate-vibid:1001000190373": 53,
+      "gas:candidate-vibid:250200071323": 47,
+      "gas:candidate-vibid:350300670408": 20,
+      "gas:candidate-vibid:1001000195098": 33,
+      "gas:candidate-vibid:250200071326": 993,
+      "gas:candidate-vibid:1001000113949": 42,
+      "special:against-all": 321
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=503006007&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=350300670893&region=0&sub_region=0&type=429",
@@ -7882,13 +7882,13 @@ export const duma_2003_uik_428_region_50_part_008 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Буров Сергей Александрович": 51,
-      "Ведехов Алексей Владимирович": 91,
-      "Голубев Сергей Олегович": 27,
-      "Кулаков Сергей Иванович": 39,
-      "Пекарев Владимир Янович": 775,
-      "Сонин Анатолий Алексеевич": 50,
-      "Против всех": 289
+      "gas:candidate-vibid:1001000190373": 51,
+      "gas:candidate-vibid:250200071323": 91,
+      "gas:candidate-vibid:350300670408": 27,
+      "gas:candidate-vibid:1001000195098": 39,
+      "gas:candidate-vibid:250200071326": 775,
+      "gas:candidate-vibid:1001000113949": 50,
+      "special:against-all": 289
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=503006007&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=350300670893&region=0&sub_region=0&type=429",
@@ -7938,13 +7938,13 @@ export const duma_2003_uik_428_region_50_part_008 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Буров Сергей Александрович": 47,
-      "Ведехов Алексей Владимирович": 105,
-      "Голубев Сергей Олегович": 16,
-      "Кулаков Сергей Иванович": 33,
-      "Пекарев Владимир Янович": 715,
-      "Сонин Анатолий Алексеевич": 36,
-      "Против всех": 204
+      "gas:candidate-vibid:1001000190373": 47,
+      "gas:candidate-vibid:250200071323": 105,
+      "gas:candidate-vibid:350300670408": 16,
+      "gas:candidate-vibid:1001000195098": 33,
+      "gas:candidate-vibid:250200071326": 715,
+      "gas:candidate-vibid:1001000113949": 36,
+      "special:against-all": 204
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=503006007&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=350300670893&region=0&sub_region=0&type=429",
@@ -7994,13 +7994,13 @@ export const duma_2003_uik_428_region_50_part_008 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Буров Сергей Александрович": 7,
-      "Ведехов Алексей Владимирович": 11,
-      "Голубев Сергей Олегович": 7,
-      "Кулаков Сергей Иванович": 10,
-      "Пекарев Владимир Янович": 161,
-      "Сонин Анатолий Алексеевич": 14,
-      "Против всех": 81
+      "gas:candidate-vibid:1001000190373": 7,
+      "gas:candidate-vibid:250200071323": 11,
+      "gas:candidate-vibid:350300670408": 7,
+      "gas:candidate-vibid:1001000195098": 10,
+      "gas:candidate-vibid:250200071326": 161,
+      "gas:candidate-vibid:1001000113949": 14,
+      "special:against-all": 81
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=503006007&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=350300670893&region=0&sub_region=0&type=429",
@@ -8050,13 +8050,13 @@ export const duma_2003_uik_428_region_50_part_008 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Буров Сергей Александрович": 12,
-      "Ведехов Алексей Владимирович": 9,
-      "Голубев Сергей Олегович": 2,
-      "Кулаков Сергей Иванович": 5,
-      "Пекарев Владимир Янович": 110,
-      "Сонин Анатолий Алексеевич": 7,
-      "Против всех": 42
+      "gas:candidate-vibid:1001000190373": 12,
+      "gas:candidate-vibid:250200071323": 9,
+      "gas:candidate-vibid:350300670408": 2,
+      "gas:candidate-vibid:1001000195098": 5,
+      "gas:candidate-vibid:250200071326": 110,
+      "gas:candidate-vibid:1001000113949": 7,
+      "special:against-all": 42
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=503006007&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=350300670893&region=0&sub_region=0&type=429",
@@ -8106,19 +8106,19 @@ export const duma_2003_uik_428_region_50_part_008 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Алкснис Виктор Имантович": 85,
-      "Вахания Владимир Виссарионович": 6,
-      "Волынец Алексей Николаевич": 4,
-      "Гужва Александр Алексеевич": 1,
-      "Ковалев Николай Дмитриевич": 107,
-      "Круговых Игорь Эрикович": 4,
-      "Лукин Владимир Петрович": 73,
-      "Рохмистров Максим Станиславович": 6,
-      "Синдревич Станислав Викторович": 12,
-      "Собакин Евгений Юрьевич": 19,
-      "Соколкова Наталья Геннадьевна": 52,
-      "Тарасов Евгений Александрович": 14,
-      "Против всех": 69
+      "gas:candidate-vibid:1001000202317": 85,
+      "gas:candidate-vibid:250200071637": 6,
+      "gas:candidate-vibid:250200071640": 4,
+      "gas:candidate-vibid:1001000121282": 1,
+      "gas:candidate-vibid:1001000225955": 107,
+      "gas:candidate-vibid:250200071646": 4,
+      "gas:candidate-vibid:1001000112228": 73,
+      "gas:candidate-vibid:1001000289809": 6,
+      "gas:candidate-vibid:250200071643": 12,
+      "gas:candidate-vibid:1001000190374": 19,
+      "gas:candidate-vibid:1001000195099": 52,
+      "gas:candidate-vibid:1001000217936": 14,
+      "special:against-all": 69
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=503007001&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=350300771047&region=0&sub_region=0&type=429",
@@ -8168,19 +8168,19 @@ export const duma_2003_uik_428_region_50_part_008 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Алкснис Виктор Имантович": 58,
-      "Вахания Владимир Виссарионович": 3,
-      "Волынец Алексей Николаевич": 2,
-      "Гужва Александр Алексеевич": 4,
-      "Ковалев Николай Дмитриевич": 217,
-      "Круговых Игорь Эрикович": 3,
-      "Лукин Владимир Петрович": 89,
-      "Рохмистров Максим Станиславович": 3,
-      "Синдревич Станислав Викторович": 6,
-      "Собакин Евгений Юрьевич": 14,
-      "Соколкова Наталья Геннадьевна": 23,
-      "Тарасов Евгений Александрович": 3,
-      "Против всех": 60
+      "gas:candidate-vibid:1001000202317": 58,
+      "gas:candidate-vibid:250200071637": 3,
+      "gas:candidate-vibid:250200071640": 2,
+      "gas:candidate-vibid:1001000121282": 4,
+      "gas:candidate-vibid:1001000225955": 217,
+      "gas:candidate-vibid:250200071646": 3,
+      "gas:candidate-vibid:1001000112228": 89,
+      "gas:candidate-vibid:1001000289809": 3,
+      "gas:candidate-vibid:250200071643": 6,
+      "gas:candidate-vibid:1001000190374": 14,
+      "gas:candidate-vibid:1001000195099": 23,
+      "gas:candidate-vibid:1001000217936": 3,
+      "special:against-all": 60
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=503007001&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=350300771047&region=0&sub_region=0&type=429",
@@ -8230,19 +8230,19 @@ export const duma_2003_uik_428_region_50_part_008 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Алкснис Виктор Имантович": 65,
-      "Вахания Владимир Виссарионович": 10,
-      "Волынец Алексей Николаевич": 3,
-      "Гужва Александр Алексеевич": 4,
-      "Ковалев Николай Дмитриевич": 65,
-      "Круговых Игорь Эрикович": 1,
-      "Лукин Владимир Петрович": 28,
-      "Рохмистров Максим Станиславович": 2,
-      "Синдревич Станислав Викторович": 10,
-      "Собакин Евгений Юрьевич": 12,
-      "Соколкова Наталья Геннадьевна": 32,
-      "Тарасов Евгений Александрович": 10,
-      "Против всех": 77
+      "gas:candidate-vibid:1001000202317": 65,
+      "gas:candidate-vibid:250200071637": 10,
+      "gas:candidate-vibid:250200071640": 3,
+      "gas:candidate-vibid:1001000121282": 4,
+      "gas:candidate-vibid:1001000225955": 65,
+      "gas:candidate-vibid:250200071646": 1,
+      "gas:candidate-vibid:1001000112228": 28,
+      "gas:candidate-vibid:1001000289809": 2,
+      "gas:candidate-vibid:250200071643": 10,
+      "gas:candidate-vibid:1001000190374": 12,
+      "gas:candidate-vibid:1001000195099": 32,
+      "gas:candidate-vibid:1001000217936": 10,
+      "special:against-all": 77
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=503007001&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=350300771047&region=0&sub_region=0&type=429",
@@ -8292,19 +8292,19 @@ export const duma_2003_uik_428_region_50_part_008 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Алкснис Виктор Имантович": 68,
-      "Вахания Владимир Виссарионович": 1,
-      "Волынец Алексей Николаевич": 3,
-      "Гужва Александр Алексеевич": 1,
-      "Ковалев Николай Дмитриевич": 86,
-      "Круговых Игорь Эрикович": 0,
-      "Лукин Владимир Петрович": 71,
-      "Рохмистров Максим Станиславович": 3,
-      "Синдревич Станислав Викторович": 51,
-      "Собакин Евгений Юрьевич": 13,
-      "Соколкова Наталья Геннадьевна": 45,
-      "Тарасов Евгений Александрович": 3,
-      "Против всех": 80
+      "gas:candidate-vibid:1001000202317": 68,
+      "gas:candidate-vibid:250200071637": 1,
+      "gas:candidate-vibid:250200071640": 3,
+      "gas:candidate-vibid:1001000121282": 1,
+      "gas:candidate-vibid:1001000225955": 86,
+      "gas:candidate-vibid:250200071646": 0,
+      "gas:candidate-vibid:1001000112228": 71,
+      "gas:candidate-vibid:1001000289809": 3,
+      "gas:candidate-vibid:250200071643": 51,
+      "gas:candidate-vibid:1001000190374": 13,
+      "gas:candidate-vibid:1001000195099": 45,
+      "gas:candidate-vibid:1001000217936": 3,
+      "special:against-all": 80
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=503007001&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=350300771047&region=0&sub_region=0&type=429",
@@ -8354,19 +8354,19 @@ export const duma_2003_uik_428_region_50_part_008 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Алкснис Виктор Имантович": 106,
-      "Вахания Владимир Виссарионович": 6,
-      "Волынец Алексей Николаевич": 3,
-      "Гужва Александр Алексеевич": 6,
-      "Ковалев Николай Дмитриевич": 134,
-      "Круговых Игорь Эрикович": 4,
-      "Лукин Владимир Петрович": 70,
-      "Рохмистров Максим Станиславович": 5,
-      "Синдревич Станислав Викторович": 28,
-      "Собакин Евгений Юрьевич": 46,
-      "Соколкова Наталья Геннадьевна": 58,
-      "Тарасов Евгений Александрович": 10,
-      "Против всех": 112
+      "gas:candidate-vibid:1001000202317": 106,
+      "gas:candidate-vibid:250200071637": 6,
+      "gas:candidate-vibid:250200071640": 3,
+      "gas:candidate-vibid:1001000121282": 6,
+      "gas:candidate-vibid:1001000225955": 134,
+      "gas:candidate-vibid:250200071646": 4,
+      "gas:candidate-vibid:1001000112228": 70,
+      "gas:candidate-vibid:1001000289809": 5,
+      "gas:candidate-vibid:250200071643": 28,
+      "gas:candidate-vibid:1001000190374": 46,
+      "gas:candidate-vibid:1001000195099": 58,
+      "gas:candidate-vibid:1001000217936": 10,
+      "special:against-all": 112
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=503007001&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=350300771047&region=0&sub_region=0&type=429",
@@ -8416,19 +8416,19 @@ export const duma_2003_uik_428_region_50_part_008 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Алкснис Виктор Имантович": 214,
-      "Вахания Владимир Виссарионович": 6,
-      "Волынец Алексей Николаевич": 2,
-      "Гужва Александр Алексеевич": 0,
-      "Ковалев Николай Дмитриевич": 133,
-      "Круговых Игорь Эрикович": 2,
-      "Лукин Владимир Петрович": 86,
-      "Рохмистров Максим Станиславович": 20,
-      "Синдревич Станислав Викторович": 10,
-      "Собакин Евгений Юрьевич": 20,
-      "Соколкова Наталья Геннадьевна": 45,
-      "Тарасов Евгений Александрович": 4,
-      "Против всех": 92
+      "gas:candidate-vibid:1001000202317": 214,
+      "gas:candidate-vibid:250200071637": 6,
+      "gas:candidate-vibid:250200071640": 2,
+      "gas:candidate-vibid:1001000121282": 0,
+      "gas:candidate-vibid:1001000225955": 133,
+      "gas:candidate-vibid:250200071646": 2,
+      "gas:candidate-vibid:1001000112228": 86,
+      "gas:candidate-vibid:1001000289809": 20,
+      "gas:candidate-vibid:250200071643": 10,
+      "gas:candidate-vibid:1001000190374": 20,
+      "gas:candidate-vibid:1001000195099": 45,
+      "gas:candidate-vibid:1001000217936": 4,
+      "special:against-all": 92
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=503007001&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=350300771047&region=0&sub_region=0&type=429",
@@ -8478,19 +8478,19 @@ export const duma_2003_uik_428_region_50_part_008 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Алкснис Виктор Имантович": 104,
-      "Вахания Владимир Виссарионович": 3,
-      "Волынец Алексей Николаевич": 1,
-      "Гужва Александр Алексеевич": 1,
-      "Ковалев Николай Дмитриевич": 111,
-      "Круговых Игорь Эрикович": 1,
-      "Лукин Владимир Петрович": 34,
-      "Рохмистров Максим Станиславович": 9,
-      "Синдревич Станислав Викторович": 6,
-      "Собакин Евгений Юрьевич": 16,
-      "Соколкова Наталья Геннадьевна": 36,
-      "Тарасов Евгений Александрович": 6,
-      "Против всех": 62
+      "gas:candidate-vibid:1001000202317": 104,
+      "gas:candidate-vibid:250200071637": 3,
+      "gas:candidate-vibid:250200071640": 1,
+      "gas:candidate-vibid:1001000121282": 1,
+      "gas:candidate-vibid:1001000225955": 111,
+      "gas:candidate-vibid:250200071646": 1,
+      "gas:candidate-vibid:1001000112228": 34,
+      "gas:candidate-vibid:1001000289809": 9,
+      "gas:candidate-vibid:250200071643": 6,
+      "gas:candidate-vibid:1001000190374": 16,
+      "gas:candidate-vibid:1001000195099": 36,
+      "gas:candidate-vibid:1001000217936": 6,
+      "special:against-all": 62
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=503007001&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=350300771047&region=0&sub_region=0&type=429",
@@ -8540,19 +8540,19 @@ export const duma_2003_uik_428_region_50_part_008 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Алкснис Виктор Имантович": 21,
-      "Вахания Владимир Виссарионович": 0,
-      "Волынец Алексей Николаевич": 0,
-      "Гужва Александр Алексеевич": 0,
-      "Ковалев Николай Дмитриевич": 44,
-      "Круговых Игорь Эрикович": 1,
-      "Лукин Владимир Петрович": 15,
-      "Рохмистров Максим Станиславович": 2,
-      "Синдревич Станислав Викторович": 3,
-      "Собакин Евгений Юрьевич": 3,
-      "Соколкова Наталья Геннадьевна": 15,
-      "Тарасов Евгений Александрович": 4,
-      "Против всех": 21
+      "gas:candidate-vibid:1001000202317": 21,
+      "gas:candidate-vibid:250200071637": 0,
+      "gas:candidate-vibid:250200071640": 0,
+      "gas:candidate-vibid:1001000121282": 0,
+      "gas:candidate-vibid:1001000225955": 44,
+      "gas:candidate-vibid:250200071646": 1,
+      "gas:candidate-vibid:1001000112228": 15,
+      "gas:candidate-vibid:1001000289809": 2,
+      "gas:candidate-vibid:250200071643": 3,
+      "gas:candidate-vibid:1001000190374": 3,
+      "gas:candidate-vibid:1001000195099": 15,
+      "gas:candidate-vibid:1001000217936": 4,
+      "special:against-all": 21
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=503007001&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=350300771047&region=0&sub_region=0&type=429",
@@ -8602,19 +8602,19 @@ export const duma_2003_uik_428_region_50_part_008 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Алкснис Виктор Имантович": 57,
-      "Вахания Владимир Виссарионович": 4,
-      "Волынец Алексей Николаевич": 1,
-      "Гужва Александр Алексеевич": 3,
-      "Ковалев Николай Дмитриевич": 76,
-      "Круговых Игорь Эрикович": 2,
-      "Лукин Владимир Петрович": 42,
-      "Рохмистров Максим Станиславович": 5,
-      "Синдревич Станислав Викторович": 5,
-      "Собакин Евгений Юрьевич": 12,
-      "Соколкова Наталья Геннадьевна": 24,
-      "Тарасов Евгений Александрович": 1,
-      "Против всех": 45
+      "gas:candidate-vibid:1001000202317": 57,
+      "gas:candidate-vibid:250200071637": 4,
+      "gas:candidate-vibid:250200071640": 1,
+      "gas:candidate-vibid:1001000121282": 3,
+      "gas:candidate-vibid:1001000225955": 76,
+      "gas:candidate-vibid:250200071646": 2,
+      "gas:candidate-vibid:1001000112228": 42,
+      "gas:candidate-vibid:1001000289809": 5,
+      "gas:candidate-vibid:250200071643": 5,
+      "gas:candidate-vibid:1001000190374": 12,
+      "gas:candidate-vibid:1001000195099": 24,
+      "gas:candidate-vibid:1001000217936": 1,
+      "special:against-all": 45
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=503007001&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=350300771047&region=0&sub_region=0&type=429",
@@ -8664,19 +8664,19 @@ export const duma_2003_uik_428_region_50_part_008 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Алкснис Виктор Имантович": 202,
-      "Вахания Владимир Виссарионович": 4,
-      "Волынец Алексей Николаевич": 1,
-      "Гужва Александр Алексеевич": 1,
-      "Ковалев Николай Дмитриевич": 160,
-      "Круговых Игорь Эрикович": 2,
-      "Лукин Владимир Петрович": 87,
-      "Рохмистров Максим Станиславович": 15,
-      "Синдревич Станислав Викторович": 22,
-      "Собакин Евгений Юрьевич": 14,
-      "Соколкова Наталья Геннадьевна": 36,
-      "Тарасов Евгений Александрович": 11,
-      "Против всех": 118
+      "gas:candidate-vibid:1001000202317": 202,
+      "gas:candidate-vibid:250200071637": 4,
+      "gas:candidate-vibid:250200071640": 1,
+      "gas:candidate-vibid:1001000121282": 1,
+      "gas:candidate-vibid:1001000225955": 160,
+      "gas:candidate-vibid:250200071646": 2,
+      "gas:candidate-vibid:1001000112228": 87,
+      "gas:candidate-vibid:1001000289809": 15,
+      "gas:candidate-vibid:250200071643": 22,
+      "gas:candidate-vibid:1001000190374": 14,
+      "gas:candidate-vibid:1001000195099": 36,
+      "gas:candidate-vibid:1001000217936": 11,
+      "special:against-all": 118
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=503007001&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=350300771047&region=0&sub_region=0&type=429",
@@ -8726,19 +8726,19 @@ export const duma_2003_uik_428_region_50_part_008 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Алкснис Виктор Имантович": 120,
-      "Вахания Владимир Виссарионович": 11,
-      "Волынец Алексей Николаевич": 1,
-      "Гужва Александр Алексеевич": 3,
-      "Ковалев Николай Дмитриевич": 117,
-      "Круговых Игорь Эрикович": 0,
-      "Лукин Владимир Петрович": 61,
-      "Рохмистров Максим Станиславович": 8,
-      "Синдревич Станислав Викторович": 11,
-      "Собакин Евгений Юрьевич": 12,
-      "Соколкова Наталья Геннадьевна": 62,
-      "Тарасов Евгений Александрович": 10,
-      "Против всех": 95
+      "gas:candidate-vibid:1001000202317": 120,
+      "gas:candidate-vibid:250200071637": 11,
+      "gas:candidate-vibid:250200071640": 1,
+      "gas:candidate-vibid:1001000121282": 3,
+      "gas:candidate-vibid:1001000225955": 117,
+      "gas:candidate-vibid:250200071646": 0,
+      "gas:candidate-vibid:1001000112228": 61,
+      "gas:candidate-vibid:1001000289809": 8,
+      "gas:candidate-vibid:250200071643": 11,
+      "gas:candidate-vibid:1001000190374": 12,
+      "gas:candidate-vibid:1001000195099": 62,
+      "gas:candidate-vibid:1001000217936": 10,
+      "special:against-all": 95
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=503007001&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=350300771047&region=0&sub_region=0&type=429",
@@ -8788,19 +8788,19 @@ export const duma_2003_uik_428_region_50_part_008 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Алкснис Виктор Имантович": 256,
-      "Вахания Владимир Виссарионович": 4,
-      "Волынец Алексей Николаевич": 0,
-      "Гужва Александр Алексеевич": 6,
-      "Ковалев Николай Дмитриевич": 149,
-      "Круговых Игорь Эрикович": 2,
-      "Лукин Владимир Петрович": 81,
-      "Рохмистров Максим Станиславович": 9,
-      "Синдревич Станислав Викторович": 18,
-      "Собакин Евгений Юрьевич": 11,
-      "Соколкова Наталья Геннадьевна": 41,
-      "Тарасов Евгений Александрович": 5,
-      "Против всех": 132
+      "gas:candidate-vibid:1001000202317": 256,
+      "gas:candidate-vibid:250200071637": 4,
+      "gas:candidate-vibid:250200071640": 0,
+      "gas:candidate-vibid:1001000121282": 6,
+      "gas:candidate-vibid:1001000225955": 149,
+      "gas:candidate-vibid:250200071646": 2,
+      "gas:candidate-vibid:1001000112228": 81,
+      "gas:candidate-vibid:1001000289809": 9,
+      "gas:candidate-vibid:250200071643": 18,
+      "gas:candidate-vibid:1001000190374": 11,
+      "gas:candidate-vibid:1001000195099": 41,
+      "gas:candidate-vibid:1001000217936": 5,
+      "special:against-all": 132
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=503007001&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=350300771047&region=0&sub_region=0&type=429",
@@ -8850,19 +8850,19 @@ export const duma_2003_uik_428_region_50_part_008 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Алкснис Виктор Имантович": 16,
-      "Вахания Владимир Виссарионович": 2,
-      "Волынец Алексей Николаевич": 0,
-      "Гужва Александр Алексеевич": 2,
-      "Ковалев Николай Дмитриевич": 33,
-      "Круговых Игорь Эрикович": 0,
-      "Лукин Владимир Петрович": 10,
-      "Рохмистров Максим Станиславович": 0,
-      "Синдревич Станислав Викторович": 2,
-      "Собакин Евгений Юрьевич": 1,
-      "Соколкова Наталья Геннадьевна": 12,
-      "Тарасов Евгений Александрович": 4,
-      "Против всех": 7
+      "gas:candidate-vibid:1001000202317": 16,
+      "gas:candidate-vibid:250200071637": 2,
+      "gas:candidate-vibid:250200071640": 0,
+      "gas:candidate-vibid:1001000121282": 2,
+      "gas:candidate-vibid:1001000225955": 33,
+      "gas:candidate-vibid:250200071646": 0,
+      "gas:candidate-vibid:1001000112228": 10,
+      "gas:candidate-vibid:1001000289809": 0,
+      "gas:candidate-vibid:250200071643": 2,
+      "gas:candidate-vibid:1001000190374": 1,
+      "gas:candidate-vibid:1001000195099": 12,
+      "gas:candidate-vibid:1001000217936": 4,
+      "special:against-all": 7
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=503007001&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=350300771047&region=0&sub_region=0&type=429",
@@ -8912,19 +8912,19 @@ export const duma_2003_uik_428_region_50_part_008 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Алкснис Виктор Имантович": 77,
-      "Вахания Владимир Виссарионович": 3,
-      "Волынец Алексей Николаевич": 1,
-      "Гужва Александр Алексеевич": 1,
-      "Ковалев Николай Дмитриевич": 101,
-      "Круговых Игорь Эрикович": 1,
-      "Лукин Владимир Петрович": 58,
-      "Рохмистров Максим Станиславович": 4,
-      "Синдревич Станислав Викторович": 6,
-      "Собакин Евгений Юрьевич": 9,
-      "Соколкова Наталья Геннадьевна": 25,
-      "Тарасов Евгений Александрович": 9,
-      "Против всех": 50
+      "gas:candidate-vibid:1001000202317": 77,
+      "gas:candidate-vibid:250200071637": 3,
+      "gas:candidate-vibid:250200071640": 1,
+      "gas:candidate-vibid:1001000121282": 1,
+      "gas:candidate-vibid:1001000225955": 101,
+      "gas:candidate-vibid:250200071646": 1,
+      "gas:candidate-vibid:1001000112228": 58,
+      "gas:candidate-vibid:1001000289809": 4,
+      "gas:candidate-vibid:250200071643": 6,
+      "gas:candidate-vibid:1001000190374": 9,
+      "gas:candidate-vibid:1001000195099": 25,
+      "gas:candidate-vibid:1001000217936": 9,
+      "special:against-all": 50
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=503007001&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=350300771047&region=0&sub_region=0&type=429",
@@ -8974,19 +8974,19 @@ export const duma_2003_uik_428_region_50_part_008 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Алкснис Виктор Имантович": 93,
-      "Вахания Владимир Виссарионович": 10,
-      "Волынец Алексей Николаевич": 5,
-      "Гужва Александр Алексеевич": 8,
-      "Ковалев Николай Дмитриевич": 197,
-      "Круговых Игорь Эрикович": 3,
-      "Лукин Владимир Петрович": 318,
-      "Рохмистров Максим Станиславович": 15,
-      "Синдревич Станислав Викторович": 4,
-      "Собакин Евгений Юрьевич": 9,
-      "Соколкова Наталья Геннадьевна": 28,
-      "Тарасов Евгений Александрович": 32,
-      "Против всех": 183
+      "gas:candidate-vibid:1001000202317": 93,
+      "gas:candidate-vibid:250200071637": 10,
+      "gas:candidate-vibid:250200071640": 5,
+      "gas:candidate-vibid:1001000121282": 8,
+      "gas:candidate-vibid:1001000225955": 197,
+      "gas:candidate-vibid:250200071646": 3,
+      "gas:candidate-vibid:1001000112228": 318,
+      "gas:candidate-vibid:1001000289809": 15,
+      "gas:candidate-vibid:250200071643": 4,
+      "gas:candidate-vibid:1001000190374": 9,
+      "gas:candidate-vibid:1001000195099": 28,
+      "gas:candidate-vibid:1001000217936": 32,
+      "special:against-all": 183
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=503007001&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=350300771047&region=0&sub_region=0&type=429",
@@ -9036,19 +9036,19 @@ export const duma_2003_uik_428_region_50_part_008 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Алкснис Виктор Имантович": 1,
-      "Вахания Владимир Виссарионович": 0,
-      "Волынец Алексей Николаевич": 1,
-      "Гужва Александр Алексеевич": 0,
-      "Ковалев Николай Дмитриевич": 4,
-      "Круговых Игорь Эрикович": 0,
-      "Лукин Владимир Петрович": 9,
-      "Рохмистров Максим Станиславович": 0,
-      "Синдревич Станислав Викторович": 0,
-      "Собакин Евгений Юрьевич": 0,
-      "Соколкова Наталья Геннадьевна": 4,
-      "Тарасов Евгений Александрович": 0,
-      "Против всех": 3
+      "gas:candidate-vibid:1001000202317": 1,
+      "gas:candidate-vibid:250200071637": 0,
+      "gas:candidate-vibid:250200071640": 1,
+      "gas:candidate-vibid:1001000121282": 0,
+      "gas:candidate-vibid:1001000225955": 4,
+      "gas:candidate-vibid:250200071646": 0,
+      "gas:candidate-vibid:1001000112228": 9,
+      "gas:candidate-vibid:1001000289809": 0,
+      "gas:candidate-vibid:250200071643": 0,
+      "gas:candidate-vibid:1001000190374": 0,
+      "gas:candidate-vibid:1001000195099": 4,
+      "gas:candidate-vibid:1001000217936": 0,
+      "special:against-all": 3
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=503007001&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=350300771047&region=0&sub_region=0&type=429",
@@ -9098,19 +9098,19 @@ export const duma_2003_uik_428_region_50_part_008 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Алкснис Виктор Имантович": 21,
-      "Вахания Владимир Виссарионович": 7,
-      "Волынец Алексей Николаевич": 5,
-      "Гужва Александр Алексеевич": 7,
-      "Ковалев Николай Дмитриевич": 113,
-      "Круговых Игорь Эрикович": 5,
-      "Лукин Владимир Петрович": 85,
-      "Рохмистров Максим Станиславович": 6,
-      "Синдревич Станислав Викторович": 3,
-      "Собакин Евгений Юрьевич": 10,
-      "Соколкова Наталья Геннадьевна": 14,
-      "Тарасов Евгений Александрович": 15,
-      "Против всех": 107
+      "gas:candidate-vibid:1001000202317": 21,
+      "gas:candidate-vibid:250200071637": 7,
+      "gas:candidate-vibid:250200071640": 5,
+      "gas:candidate-vibid:1001000121282": 7,
+      "gas:candidate-vibid:1001000225955": 113,
+      "gas:candidate-vibid:250200071646": 5,
+      "gas:candidate-vibid:1001000112228": 85,
+      "gas:candidate-vibid:1001000289809": 6,
+      "gas:candidate-vibid:250200071643": 3,
+      "gas:candidate-vibid:1001000190374": 10,
+      "gas:candidate-vibid:1001000195099": 14,
+      "gas:candidate-vibid:1001000217936": 15,
+      "special:against-all": 107
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=503007001&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=350300771047&region=0&sub_region=0&type=429",
@@ -9160,19 +9160,19 @@ export const duma_2003_uik_428_region_50_part_008 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Алкснис Виктор Имантович": 6,
-      "Вахания Владимир Виссарионович": 2,
-      "Волынец Алексей Николаевич": 4,
-      "Гужва Александр Алексеевич": 2,
-      "Ковалев Николай Дмитриевич": 80,
-      "Круговых Игорь Эрикович": 1,
-      "Лукин Владимир Петрович": 59,
-      "Рохмистров Максим Станиславович": 4,
-      "Синдревич Станислав Викторович": 0,
-      "Собакин Евгений Юрьевич": 4,
-      "Соколкова Наталья Геннадьевна": 8,
-      "Тарасов Евгений Александрович": 14,
-      "Против всех": 31
+      "gas:candidate-vibid:1001000202317": 6,
+      "gas:candidate-vibid:250200071637": 2,
+      "gas:candidate-vibid:250200071640": 4,
+      "gas:candidate-vibid:1001000121282": 2,
+      "gas:candidate-vibid:1001000225955": 80,
+      "gas:candidate-vibid:250200071646": 1,
+      "gas:candidate-vibid:1001000112228": 59,
+      "gas:candidate-vibid:1001000289809": 4,
+      "gas:candidate-vibid:250200071643": 0,
+      "gas:candidate-vibid:1001000190374": 4,
+      "gas:candidate-vibid:1001000195099": 8,
+      "gas:candidate-vibid:1001000217936": 14,
+      "special:against-all": 31
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=503007001&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=350300771047&region=0&sub_region=0&type=429",
@@ -9222,19 +9222,19 @@ export const duma_2003_uik_428_region_50_part_008 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Алкснис Виктор Имантович": 2,
-      "Вахания Владимир Виссарионович": 0,
-      "Волынец Алексей Николаевич": 2,
-      "Гужва Александр Алексеевич": 0,
-      "Ковалев Николай Дмитриевич": 27,
-      "Круговых Игорь Эрикович": 0,
-      "Лукин Владимир Петрович": 20,
-      "Рохмистров Максим Станиславович": 1,
-      "Синдревич Станислав Викторович": 0,
-      "Собакин Евгений Юрьевич": 0,
-      "Соколкова Наталья Геннадьевна": 6,
-      "Тарасов Евгений Александрович": 1,
-      "Против всех": 4
+      "gas:candidate-vibid:1001000202317": 2,
+      "gas:candidate-vibid:250200071637": 0,
+      "gas:candidate-vibid:250200071640": 2,
+      "gas:candidate-vibid:1001000121282": 0,
+      "gas:candidate-vibid:1001000225955": 27,
+      "gas:candidate-vibid:250200071646": 0,
+      "gas:candidate-vibid:1001000112228": 20,
+      "gas:candidate-vibid:1001000289809": 1,
+      "gas:candidate-vibid:250200071643": 0,
+      "gas:candidate-vibid:1001000190374": 0,
+      "gas:candidate-vibid:1001000195099": 6,
+      "gas:candidate-vibid:1001000217936": 1,
+      "special:against-all": 4
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=503007001&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=350300771047&region=0&sub_region=0&type=429",
@@ -9284,19 +9284,19 @@ export const duma_2003_uik_428_region_50_part_008 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Алкснис Виктор Имантович": 1,
-      "Вахания Владимир Виссарионович": 1,
-      "Волынец Алексей Николаевич": 1,
-      "Гужва Александр Алексеевич": 1,
-      "Ковалев Николай Дмитриевич": 0,
-      "Круговых Игорь Эрикович": 0,
-      "Лукин Владимир Петрович": 1,
-      "Рохмистров Максим Станиславович": 0,
-      "Синдревич Станислав Викторович": 0,
-      "Собакин Евгений Юрьевич": 0,
-      "Соколкова Наталья Геннадьевна": 0,
-      "Тарасов Евгений Александрович": 0,
-      "Против всех": 2
+      "gas:candidate-vibid:1001000202317": 1,
+      "gas:candidate-vibid:250200071637": 1,
+      "gas:candidate-vibid:250200071640": 1,
+      "gas:candidate-vibid:1001000121282": 1,
+      "gas:candidate-vibid:1001000225955": 0,
+      "gas:candidate-vibid:250200071646": 0,
+      "gas:candidate-vibid:1001000112228": 1,
+      "gas:candidate-vibid:1001000289809": 0,
+      "gas:candidate-vibid:250200071643": 0,
+      "gas:candidate-vibid:1001000190374": 0,
+      "gas:candidate-vibid:1001000195099": 0,
+      "gas:candidate-vibid:1001000217936": 0,
+      "special:against-all": 2
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=503007001&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=350300771047&region=0&sub_region=0&type=429",
@@ -9346,19 +9346,19 @@ export const duma_2003_uik_428_region_50_part_008 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Алкснис Виктор Имантович": 22,
-      "Вахания Владимир Виссарионович": 5,
-      "Волынец Алексей Николаевич": 3,
-      "Гужва Александр Алексеевич": 5,
-      "Ковалев Николай Дмитриевич": 60,
-      "Круговых Игорь Эрикович": 6,
-      "Лукин Владимир Петрович": 33,
-      "Рохмистров Максим Станиславович": 10,
-      "Синдревич Станислав Викторович": 2,
-      "Собакин Евгений Юрьевич": 5,
-      "Соколкова Наталья Геннадьевна": 13,
-      "Тарасов Евгений Александрович": 7,
-      "Против всех": 29
+      "gas:candidate-vibid:1001000202317": 22,
+      "gas:candidate-vibid:250200071637": 5,
+      "gas:candidate-vibid:250200071640": 3,
+      "gas:candidate-vibid:1001000121282": 5,
+      "gas:candidate-vibid:1001000225955": 60,
+      "gas:candidate-vibid:250200071646": 6,
+      "gas:candidate-vibid:1001000112228": 33,
+      "gas:candidate-vibid:1001000289809": 10,
+      "gas:candidate-vibid:250200071643": 2,
+      "gas:candidate-vibid:1001000190374": 5,
+      "gas:candidate-vibid:1001000195099": 13,
+      "gas:candidate-vibid:1001000217936": 7,
+      "special:against-all": 29
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=503007001&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=350300771047&region=0&sub_region=0&type=429",
@@ -9408,19 +9408,19 @@ export const duma_2003_uik_428_region_50_part_008 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Алкснис Виктор Имантович": 49,
-      "Вахания Владимир Виссарионович": 7,
-      "Волынец Алексей Николаевич": 2,
-      "Гужва Александр Алексеевич": 3,
-      "Ковалев Николай Дмитриевич": 158,
-      "Круговых Игорь Эрикович": 5,
-      "Лукин Владимир Петрович": 103,
-      "Рохмистров Максим Станиславович": 39,
-      "Синдревич Станислав Викторович": 2,
-      "Собакин Евгений Юрьевич": 15,
-      "Соколкова Наталья Геннадьевна": 23,
-      "Тарасов Евгений Александрович": 24,
-      "Против всех": 42
+      "gas:candidate-vibid:1001000202317": 49,
+      "gas:candidate-vibid:250200071637": 7,
+      "gas:candidate-vibid:250200071640": 2,
+      "gas:candidate-vibid:1001000121282": 3,
+      "gas:candidate-vibid:1001000225955": 158,
+      "gas:candidate-vibid:250200071646": 5,
+      "gas:candidate-vibid:1001000112228": 103,
+      "gas:candidate-vibid:1001000289809": 39,
+      "gas:candidate-vibid:250200071643": 2,
+      "gas:candidate-vibid:1001000190374": 15,
+      "gas:candidate-vibid:1001000195099": 23,
+      "gas:candidate-vibid:1001000217936": 24,
+      "special:against-all": 42
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=503007001&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=350300771047&region=0&sub_region=0&type=429",
@@ -9470,19 +9470,19 @@ export const duma_2003_uik_428_region_50_part_008 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Алкснис Виктор Имантович": 43,
-      "Вахания Владимир Виссарионович": 8,
-      "Волынец Алексей Николаевич": 5,
-      "Гужва Александр Алексеевич": 6,
-      "Ковалев Николай Дмитриевич": 111,
-      "Круговых Игорь Эрикович": 1,
-      "Лукин Владимир Петрович": 53,
-      "Рохмистров Максим Станиславович": 23,
-      "Синдревич Станислав Викторович": 0,
-      "Собакин Евгений Юрьевич": 7,
-      "Соколкова Наталья Геннадьевна": 17,
-      "Тарасов Евгений Александрович": 13,
-      "Против всех": 17
+      "gas:candidate-vibid:1001000202317": 43,
+      "gas:candidate-vibid:250200071637": 8,
+      "gas:candidate-vibid:250200071640": 5,
+      "gas:candidate-vibid:1001000121282": 6,
+      "gas:candidate-vibid:1001000225955": 111,
+      "gas:candidate-vibid:250200071646": 1,
+      "gas:candidate-vibid:1001000112228": 53,
+      "gas:candidate-vibid:1001000289809": 23,
+      "gas:candidate-vibid:250200071643": 0,
+      "gas:candidate-vibid:1001000190374": 7,
+      "gas:candidate-vibid:1001000195099": 17,
+      "gas:candidate-vibid:1001000217936": 13,
+      "special:against-all": 17
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=503007001&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=350300771047&region=0&sub_region=0&type=429",
@@ -9532,19 +9532,19 @@ export const duma_2003_uik_428_region_50_part_008 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Алкснис Виктор Имантович": 19,
-      "Вахания Владимир Виссарионович": 1,
-      "Волынец Алексей Николаевич": 1,
-      "Гужва Александр Алексеевич": 5,
-      "Ковалев Николай Дмитриевич": 48,
-      "Круговых Игорь Эрикович": 5,
-      "Лукин Владимир Петрович": 40,
-      "Рохмистров Максим Станиславович": 15,
-      "Синдревич Станислав Викторович": 0,
-      "Собакин Евгений Юрьевич": 5,
-      "Соколкова Наталья Геннадьевна": 14,
-      "Тарасов Евгений Александрович": 12,
-      "Против всех": 16
+      "gas:candidate-vibid:1001000202317": 19,
+      "gas:candidate-vibid:250200071637": 1,
+      "gas:candidate-vibid:250200071640": 1,
+      "gas:candidate-vibid:1001000121282": 5,
+      "gas:candidate-vibid:1001000225955": 48,
+      "gas:candidate-vibid:250200071646": 5,
+      "gas:candidate-vibid:1001000112228": 40,
+      "gas:candidate-vibid:1001000289809": 15,
+      "gas:candidate-vibid:250200071643": 0,
+      "gas:candidate-vibid:1001000190374": 5,
+      "gas:candidate-vibid:1001000195099": 14,
+      "gas:candidate-vibid:1001000217936": 12,
+      "special:against-all": 16
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=503007001&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=350300771047&region=0&sub_region=0&type=429",
@@ -9594,19 +9594,19 @@ export const duma_2003_uik_428_region_50_part_008 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Алкснис Виктор Имантович": 67,
-      "Вахания Владимир Виссарионович": 9,
-      "Волынец Алексей Николаевич": 11,
-      "Гужва Александр Алексеевич": 16,
-      "Ковалев Николай Дмитриевич": 70,
-      "Круговых Игорь Эрикович": 307,
-      "Лукин Владимир Петрович": 60,
-      "Рохмистров Максим Станиславович": 66,
-      "Синдревич Станислав Викторович": 7,
-      "Собакин Евгений Юрьевич": 27,
-      "Соколкова Наталья Геннадьевна": 18,
-      "Тарасов Евгений Александрович": 20,
-      "Против всех": 21
+      "gas:candidate-vibid:1001000202317": 67,
+      "gas:candidate-vibid:250200071637": 9,
+      "gas:candidate-vibid:250200071640": 11,
+      "gas:candidate-vibid:1001000121282": 16,
+      "gas:candidate-vibid:1001000225955": 70,
+      "gas:candidate-vibid:250200071646": 307,
+      "gas:candidate-vibid:1001000112228": 60,
+      "gas:candidate-vibid:1001000289809": 66,
+      "gas:candidate-vibid:250200071643": 7,
+      "gas:candidate-vibid:1001000190374": 27,
+      "gas:candidate-vibid:1001000195099": 18,
+      "gas:candidate-vibid:1001000217936": 20,
+      "special:against-all": 21
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=503007001&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=350300771047&region=0&sub_region=0&type=429",
@@ -9656,19 +9656,19 @@ export const duma_2003_uik_428_region_50_part_008 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Алкснис Виктор Имантович": 22,
-      "Вахания Владимир Виссарионович": 0,
-      "Волынец Алексей Николаевич": 1,
-      "Гужва Александр Алексеевич": 1,
-      "Ковалев Николай Дмитриевич": 26,
-      "Круговых Игорь Эрикович": 3,
-      "Лукин Владимир Петрович": 17,
-      "Рохмистров Максим Станиславович": 11,
-      "Синдревич Станислав Викторович": 1,
-      "Собакин Евгений Юрьевич": 1,
-      "Соколкова Наталья Геннадьевна": 6,
-      "Тарасов Евгений Александрович": 6,
-      "Против всех": 2
+      "gas:candidate-vibid:1001000202317": 22,
+      "gas:candidate-vibid:250200071637": 0,
+      "gas:candidate-vibid:250200071640": 1,
+      "gas:candidate-vibid:1001000121282": 1,
+      "gas:candidate-vibid:1001000225955": 26,
+      "gas:candidate-vibid:250200071646": 3,
+      "gas:candidate-vibid:1001000112228": 17,
+      "gas:candidate-vibid:1001000289809": 11,
+      "gas:candidate-vibid:250200071643": 1,
+      "gas:candidate-vibid:1001000190374": 1,
+      "gas:candidate-vibid:1001000195099": 6,
+      "gas:candidate-vibid:1001000217936": 6,
+      "special:against-all": 2
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=503007001&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=350300771047&region=0&sub_region=0&type=429",
@@ -9718,19 +9718,19 @@ export const duma_2003_uik_428_region_50_part_008 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Алкснис Виктор Имантович": 26,
-      "Вахания Владимир Виссарионович": 1,
-      "Волынец Алексей Николаевич": 5,
-      "Гужва Александр Алексеевич": 4,
-      "Ковалев Николай Дмитриевич": 69,
-      "Круговых Игорь Эрикович": 1,
-      "Лукин Владимир Петрович": 28,
-      "Рохмистров Максим Станиславович": 43,
-      "Синдревич Станислав Викторович": 2,
-      "Собакин Евгений Юрьевич": 6,
-      "Соколкова Наталья Геннадьевна": 16,
-      "Тарасов Евгений Александрович": 22,
-      "Против всех": 17
+      "gas:candidate-vibid:1001000202317": 26,
+      "gas:candidate-vibid:250200071637": 1,
+      "gas:candidate-vibid:250200071640": 5,
+      "gas:candidate-vibid:1001000121282": 4,
+      "gas:candidate-vibid:1001000225955": 69,
+      "gas:candidate-vibid:250200071646": 1,
+      "gas:candidate-vibid:1001000112228": 28,
+      "gas:candidate-vibid:1001000289809": 43,
+      "gas:candidate-vibid:250200071643": 2,
+      "gas:candidate-vibid:1001000190374": 6,
+      "gas:candidate-vibid:1001000195099": 16,
+      "gas:candidate-vibid:1001000217936": 22,
+      "special:against-all": 17
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=503007001&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=350300771047&region=0&sub_region=0&type=429",
@@ -9780,19 +9780,19 @@ export const duma_2003_uik_428_region_50_part_008 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Алкснис Виктор Имантович": 3,
-      "Вахания Владимир Виссарионович": 4,
-      "Волынец Алексей Николаевич": 3,
-      "Гужва Александр Алексеевич": 1,
-      "Ковалев Николай Дмитриевич": 101,
-      "Круговых Игорь Эрикович": 3,
-      "Лукин Владимир Петрович": 5,
-      "Рохмистров Максим Станиславович": 3,
-      "Синдревич Станислав Викторович": 3,
-      "Собакин Евгений Юрьевич": 2,
-      "Соколкова Наталья Геннадьевна": 3,
-      "Тарасов Евгений Александрович": 3,
-      "Против всех": 15
+      "gas:candidate-vibid:1001000202317": 3,
+      "gas:candidate-vibid:250200071637": 4,
+      "gas:candidate-vibid:250200071640": 3,
+      "gas:candidate-vibid:1001000121282": 1,
+      "gas:candidate-vibid:1001000225955": 101,
+      "gas:candidate-vibid:250200071646": 3,
+      "gas:candidate-vibid:1001000112228": 5,
+      "gas:candidate-vibid:1001000289809": 3,
+      "gas:candidate-vibid:250200071643": 3,
+      "gas:candidate-vibid:1001000190374": 2,
+      "gas:candidate-vibid:1001000195099": 3,
+      "gas:candidate-vibid:1001000217936": 3,
+      "special:against-all": 15
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=503007001&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=350300771047&region=0&sub_region=0&type=429",
@@ -9842,19 +9842,19 @@ export const duma_2003_uik_428_region_50_part_008 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Алкснис Виктор Имантович": 92,
-      "Вахания Владимир Виссарионович": 5,
-      "Волынец Алексей Николаевич": 2,
-      "Гужва Александр Алексеевич": 4,
-      "Ковалев Николай Дмитриевич": 312,
-      "Круговых Игорь Эрикович": 3,
-      "Лукин Владимир Петрович": 10,
-      "Рохмистров Максим Станиславович": 37,
-      "Синдревич Станислав Викторович": 4,
-      "Собакин Евгений Юрьевич": 5,
-      "Соколкова Наталья Геннадьевна": 12,
-      "Тарасов Евгений Александрович": 1,
-      "Против всех": 134
+      "gas:candidate-vibid:1001000202317": 92,
+      "gas:candidate-vibid:250200071637": 5,
+      "gas:candidate-vibid:250200071640": 2,
+      "gas:candidate-vibid:1001000121282": 4,
+      "gas:candidate-vibid:1001000225955": 312,
+      "gas:candidate-vibid:250200071646": 3,
+      "gas:candidate-vibid:1001000112228": 10,
+      "gas:candidate-vibid:1001000289809": 37,
+      "gas:candidate-vibid:250200071643": 4,
+      "gas:candidate-vibid:1001000190374": 5,
+      "gas:candidate-vibid:1001000195099": 12,
+      "gas:candidate-vibid:1001000217936": 1,
+      "special:against-all": 134
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=503007001&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=350300771047&region=0&sub_region=0&type=429",
@@ -9904,19 +9904,19 @@ export const duma_2003_uik_428_region_50_part_008 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Алкснис Виктор Имантович": 1042,
-      "Вахания Владимир Виссарионович": 35,
-      "Волынец Алексей Николаевич": 20,
-      "Гужва Александр Алексеевич": 7,
-      "Ковалев Николай Дмитриевич": 208,
-      "Круговых Игорь Эрикович": 4,
-      "Лукин Владимир Петрович": 44,
-      "Рохмистров Максим Станиславович": 145,
-      "Синдревич Станислав Викторович": 9,
-      "Собакин Евгений Юрьевич": 19,
-      "Соколкова Наталья Геннадьевна": 48,
-      "Тарасов Евгений Александрович": 42,
-      "Против всех": 323
+      "gas:candidate-vibid:1001000202317": 1042,
+      "gas:candidate-vibid:250200071637": 35,
+      "gas:candidate-vibid:250200071640": 20,
+      "gas:candidate-vibid:1001000121282": 7,
+      "gas:candidate-vibid:1001000225955": 208,
+      "gas:candidate-vibid:250200071646": 4,
+      "gas:candidate-vibid:1001000112228": 44,
+      "gas:candidate-vibid:1001000289809": 145,
+      "gas:candidate-vibid:250200071643": 9,
+      "gas:candidate-vibid:1001000190374": 19,
+      "gas:candidate-vibid:1001000195099": 48,
+      "gas:candidate-vibid:1001000217936": 42,
+      "special:against-all": 323
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=503007001&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=350300771047&region=0&sub_region=0&type=429",
@@ -9966,19 +9966,19 @@ export const duma_2003_uik_428_region_50_part_008 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Алкснис Виктор Имантович": 38,
-      "Вахания Владимир Виссарионович": 19,
-      "Волынец Алексей Николаевич": 5,
-      "Гужва Александр Алексеевич": 22,
-      "Ковалев Николай Дмитриевич": 212,
-      "Круговых Игорь Эрикович": 5,
-      "Лукин Владимир Петрович": 221,
-      "Рохмистров Максим Станиславович": 18,
-      "Синдревич Станислав Викторович": 4,
-      "Собакин Евгений Юрьевич": 8,
-      "Соколкова Наталья Геннадьевна": 36,
-      "Тарасов Евгений Александрович": 20,
-      "Против всех": 116
+      "gas:candidate-vibid:1001000202317": 38,
+      "gas:candidate-vibid:250200071637": 19,
+      "gas:candidate-vibid:250200071640": 5,
+      "gas:candidate-vibid:1001000121282": 22,
+      "gas:candidate-vibid:1001000225955": 212,
+      "gas:candidate-vibid:250200071646": 5,
+      "gas:candidate-vibid:1001000112228": 221,
+      "gas:candidate-vibid:1001000289809": 18,
+      "gas:candidate-vibid:250200071643": 4,
+      "gas:candidate-vibid:1001000190374": 8,
+      "gas:candidate-vibid:1001000195099": 36,
+      "gas:candidate-vibid:1001000217936": 20,
+      "special:against-all": 116
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=503007001&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=350300771047&region=0&sub_region=0&type=429",
@@ -10028,19 +10028,19 @@ export const duma_2003_uik_428_region_50_part_008 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Алкснис Виктор Имантович": 37,
-      "Вахания Владимир Виссарионович": 3,
-      "Волынец Алексей Николаевич": 2,
-      "Гужва Александр Алексеевич": 1,
-      "Ковалев Николай Дмитриевич": 147,
-      "Круговых Игорь Эрикович": 4,
-      "Лукин Владимир Петрович": 54,
-      "Рохмистров Максим Станиславович": 22,
-      "Синдревич Станислав Викторович": 0,
-      "Собакин Евгений Юрьевич": 13,
-      "Соколкова Наталья Геннадьевна": 15,
-      "Тарасов Евгений Александрович": 24,
-      "Против всех": 129
+      "gas:candidate-vibid:1001000202317": 37,
+      "gas:candidate-vibid:250200071637": 3,
+      "gas:candidate-vibid:250200071640": 2,
+      "gas:candidate-vibid:1001000121282": 1,
+      "gas:candidate-vibid:1001000225955": 147,
+      "gas:candidate-vibid:250200071646": 4,
+      "gas:candidate-vibid:1001000112228": 54,
+      "gas:candidate-vibid:1001000289809": 22,
+      "gas:candidate-vibid:250200071643": 0,
+      "gas:candidate-vibid:1001000190374": 13,
+      "gas:candidate-vibid:1001000195099": 15,
+      "gas:candidate-vibid:1001000217936": 24,
+      "special:against-all": 129
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=503007001&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=350300771047&region=0&sub_region=0&type=429",
@@ -10090,19 +10090,19 @@ export const duma_2003_uik_428_region_50_part_008 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Алкснис Виктор Имантович": 26,
-      "Вахания Владимир Виссарионович": 18,
-      "Волынец Алексей Николаевич": 6,
-      "Гужва Александр Алексеевич": 11,
-      "Ковалев Николай Дмитриевич": 207,
-      "Круговых Игорь Эрикович": 3,
-      "Лукин Владимир Петрович": 67,
-      "Рохмистров Максим Станиславович": 26,
-      "Синдревич Станислав Викторович": 6,
-      "Собакин Евгений Юрьевич": 12,
-      "Соколкова Наталья Геннадьевна": 38,
-      "Тарасов Евгений Александрович": 31,
-      "Против всех": 110
+      "gas:candidate-vibid:1001000202317": 26,
+      "gas:candidate-vibid:250200071637": 18,
+      "gas:candidate-vibid:250200071640": 6,
+      "gas:candidate-vibid:1001000121282": 11,
+      "gas:candidate-vibid:1001000225955": 207,
+      "gas:candidate-vibid:250200071646": 3,
+      "gas:candidate-vibid:1001000112228": 67,
+      "gas:candidate-vibid:1001000289809": 26,
+      "gas:candidate-vibid:250200071643": 6,
+      "gas:candidate-vibid:1001000190374": 12,
+      "gas:candidate-vibid:1001000195099": 38,
+      "gas:candidate-vibid:1001000217936": 31,
+      "special:against-all": 110
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=503007001&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=350300771047&region=0&sub_region=0&type=429",
@@ -10152,19 +10152,19 @@ export const duma_2003_uik_428_region_50_part_008 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Алкснис Виктор Имантович": 552,
-      "Вахания Владимир Виссарионович": 36,
-      "Волынец Алексей Николаевич": 17,
-      "Гужва Александр Алексеевич": 145,
-      "Ковалев Николай Дмитриевич": 238,
-      "Круговых Игорь Эрикович": 7,
-      "Лукин Владимир Петрович": 271,
-      "Рохмистров Максим Станиславович": 34,
-      "Синдревич Станислав Викторович": 18,
-      "Собакин Евгений Юрьевич": 89,
-      "Соколкова Наталья Геннадьевна": 87,
-      "Тарасов Евгений Александрович": 33,
-      "Против всех": 342
+      "gas:candidate-vibid:1001000202317": 552,
+      "gas:candidate-vibid:250200071637": 36,
+      "gas:candidate-vibid:250200071640": 17,
+      "gas:candidate-vibid:1001000121282": 145,
+      "gas:candidate-vibid:1001000225955": 238,
+      "gas:candidate-vibid:250200071646": 7,
+      "gas:candidate-vibid:1001000112228": 271,
+      "gas:candidate-vibid:1001000289809": 34,
+      "gas:candidate-vibid:250200071643": 18,
+      "gas:candidate-vibid:1001000190374": 89,
+      "gas:candidate-vibid:1001000195099": 87,
+      "gas:candidate-vibid:1001000217936": 33,
+      "special:against-all": 342
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=503007002&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=350300771048&region=0&sub_region=0&type=429",
@@ -10214,19 +10214,19 @@ export const duma_2003_uik_428_region_50_part_008 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Алкснис Виктор Имантович": 581,
-      "Вахания Владимир Виссарионович": 30,
-      "Волынец Алексей Николаевич": 13,
-      "Гужва Александр Алексеевич": 171,
-      "Ковалев Николай Дмитриевич": 348,
-      "Круговых Игорь Эрикович": 1,
-      "Лукин Владимир Петрович": 263,
-      "Рохмистров Максим Станиславович": 17,
-      "Синдревич Станислав Викторович": 11,
-      "Собакин Евгений Юрьевич": 88,
-      "Соколкова Наталья Геннадьевна": 104,
-      "Тарасов Евгений Александрович": 31,
-      "Против всех": 296
+      "gas:candidate-vibid:1001000202317": 581,
+      "gas:candidate-vibid:250200071637": 30,
+      "gas:candidate-vibid:250200071640": 13,
+      "gas:candidate-vibid:1001000121282": 171,
+      "gas:candidate-vibid:1001000225955": 348,
+      "gas:candidate-vibid:250200071646": 1,
+      "gas:candidate-vibid:1001000112228": 263,
+      "gas:candidate-vibid:1001000289809": 17,
+      "gas:candidate-vibid:250200071643": 11,
+      "gas:candidate-vibid:1001000190374": 88,
+      "gas:candidate-vibid:1001000195099": 104,
+      "gas:candidate-vibid:1001000217936": 31,
+      "special:against-all": 296
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=503007002&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=350300771048&region=0&sub_region=0&type=429",
@@ -10276,19 +10276,19 @@ export const duma_2003_uik_428_region_50_part_008 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Алкснис Виктор Имантович": 549,
-      "Вахания Владимир Виссарионович": 46,
-      "Волынец Алексей Николаевич": 28,
-      "Гужва Александр Алексеевич": 179,
-      "Ковалев Николай Дмитриевич": 234,
-      "Круговых Игорь Эрикович": 6,
-      "Лукин Владимир Петрович": 215,
-      "Рохмистров Максим Станиславович": 16,
-      "Синдревич Станислав Викторович": 7,
-      "Собакин Евгений Юрьевич": 89,
-      "Соколкова Наталья Геннадьевна": 93,
-      "Тарасов Евгений Александрович": 22,
-      "Против всех": 281
+      "gas:candidate-vibid:1001000202317": 549,
+      "gas:candidate-vibid:250200071637": 46,
+      "gas:candidate-vibid:250200071640": 28,
+      "gas:candidate-vibid:1001000121282": 179,
+      "gas:candidate-vibid:1001000225955": 234,
+      "gas:candidate-vibid:250200071646": 6,
+      "gas:candidate-vibid:1001000112228": 215,
+      "gas:candidate-vibid:1001000289809": 16,
+      "gas:candidate-vibid:250200071643": 7,
+      "gas:candidate-vibid:1001000190374": 89,
+      "gas:candidate-vibid:1001000195099": 93,
+      "gas:candidate-vibid:1001000217936": 22,
+      "special:against-all": 281
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=503007002&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=350300771048&region=0&sub_region=0&type=429",
@@ -10338,19 +10338,19 @@ export const duma_2003_uik_428_region_50_part_008 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Алкснис Виктор Имантович": 750,
-      "Вахания Владимир Виссарионович": 18,
-      "Волынец Алексей Николаевич": 8,
-      "Гужва Александр Алексеевич": 132,
-      "Ковалев Николай Дмитриевич": 223,
-      "Круговых Игорь Эрикович": 2,
-      "Лукин Владимир Петрович": 237,
-      "Рохмистров Максим Станиславович": 26,
-      "Синдревич Станислав Викторович": 9,
-      "Собакин Евгений Юрьевич": 89,
-      "Соколкова Наталья Геннадьевна": 59,
-      "Тарасов Евгений Александрович": 25,
-      "Против всех": 238
+      "gas:candidate-vibid:1001000202317": 750,
+      "gas:candidate-vibid:250200071637": 18,
+      "gas:candidate-vibid:250200071640": 8,
+      "gas:candidate-vibid:1001000121282": 132,
+      "gas:candidate-vibid:1001000225955": 223,
+      "gas:candidate-vibid:250200071646": 2,
+      "gas:candidate-vibid:1001000112228": 237,
+      "gas:candidate-vibid:1001000289809": 26,
+      "gas:candidate-vibid:250200071643": 9,
+      "gas:candidate-vibid:1001000190374": 89,
+      "gas:candidate-vibid:1001000195099": 59,
+      "gas:candidate-vibid:1001000217936": 25,
+      "special:against-all": 238
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=503007002&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=350300771048&region=0&sub_region=0&type=429",
@@ -10400,19 +10400,19 @@ export const duma_2003_uik_428_region_50_part_008 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Алкснис Виктор Имантович": 687,
-      "Вахания Владимир Виссарионович": 20,
-      "Волынец Алексей Николаевич": 10,
-      "Гужва Александр Алексеевич": 105,
-      "Ковалев Николай Дмитриевич": 249,
-      "Круговых Игорь Эрикович": 2,
-      "Лукин Владимир Петрович": 237,
-      "Рохмистров Максим Станиславович": 26,
-      "Синдревич Станислав Викторович": 8,
-      "Собакин Евгений Юрьевич": 71,
-      "Соколкова Наталья Геннадьевна": 45,
-      "Тарасов Евгений Александрович": 30,
-      "Против всех": 284
+      "gas:candidate-vibid:1001000202317": 687,
+      "gas:candidate-vibid:250200071637": 20,
+      "gas:candidate-vibid:250200071640": 10,
+      "gas:candidate-vibid:1001000121282": 105,
+      "gas:candidate-vibid:1001000225955": 249,
+      "gas:candidate-vibid:250200071646": 2,
+      "gas:candidate-vibid:1001000112228": 237,
+      "gas:candidate-vibid:1001000289809": 26,
+      "gas:candidate-vibid:250200071643": 8,
+      "gas:candidate-vibid:1001000190374": 71,
+      "gas:candidate-vibid:1001000195099": 45,
+      "gas:candidate-vibid:1001000217936": 30,
+      "special:against-all": 284
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=503007002&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=350300771048&region=0&sub_region=0&type=429",
@@ -10462,19 +10462,19 @@ export const duma_2003_uik_428_region_50_part_008 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Алкснис Виктор Имантович": 693,
-      "Вахания Владимир Виссарионович": 45,
-      "Волынец Алексей Николаевич": 13,
-      "Гужва Александр Алексеевич": 110,
-      "Ковалев Николай Дмитриевич": 205,
-      "Круговых Игорь Эрикович": 5,
-      "Лукин Владимир Петрович": 221,
-      "Рохмистров Максим Станиславович": 18,
-      "Синдревич Станислав Викторович": 15,
-      "Собакин Евгений Юрьевич": 88,
-      "Соколкова Наталья Геннадьевна": 61,
-      "Тарасов Евгений Александрович": 35,
-      "Против всех": 324
+      "gas:candidate-vibid:1001000202317": 693,
+      "gas:candidate-vibid:250200071637": 45,
+      "gas:candidate-vibid:250200071640": 13,
+      "gas:candidate-vibid:1001000121282": 110,
+      "gas:candidate-vibid:1001000225955": 205,
+      "gas:candidate-vibid:250200071646": 5,
+      "gas:candidate-vibid:1001000112228": 221,
+      "gas:candidate-vibid:1001000289809": 18,
+      "gas:candidate-vibid:250200071643": 15,
+      "gas:candidate-vibid:1001000190374": 88,
+      "gas:candidate-vibid:1001000195099": 61,
+      "gas:candidate-vibid:1001000217936": 35,
+      "special:against-all": 324
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=503007002&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=350300771048&region=0&sub_region=0&type=429",
@@ -10524,19 +10524,19 @@ export const duma_2003_uik_428_region_50_part_008 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Алкснис Виктор Имантович": 450,
-      "Вахания Владимир Виссарионович": 23,
-      "Волынец Алексей Николаевич": 9,
-      "Гужва Александр Алексеевич": 62,
-      "Ковалев Николай Дмитриевич": 185,
-      "Круговых Игорь Эрикович": 6,
-      "Лукин Владимир Петрович": 169,
-      "Рохмистров Максим Станиславович": 26,
-      "Синдревич Станислав Викторович": 6,
-      "Собакин Евгений Юрьевич": 59,
-      "Соколкова Наталья Геннадьевна": 62,
-      "Тарасов Евгений Александрович": 26,
-      "Против всех": 262
+      "gas:candidate-vibid:1001000202317": 450,
+      "gas:candidate-vibid:250200071637": 23,
+      "gas:candidate-vibid:250200071640": 9,
+      "gas:candidate-vibid:1001000121282": 62,
+      "gas:candidate-vibid:1001000225955": 185,
+      "gas:candidate-vibid:250200071646": 6,
+      "gas:candidate-vibid:1001000112228": 169,
+      "gas:candidate-vibid:1001000289809": 26,
+      "gas:candidate-vibid:250200071643": 6,
+      "gas:candidate-vibid:1001000190374": 59,
+      "gas:candidate-vibid:1001000195099": 62,
+      "gas:candidate-vibid:1001000217936": 26,
+      "special:against-all": 262
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=503007002&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=350300771048&region=0&sub_region=0&type=429",
@@ -10586,19 +10586,19 @@ export const duma_2003_uik_428_region_50_part_008 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Алкснис Виктор Имантович": 652,
-      "Вахания Владимир Виссарионович": 27,
-      "Волынец Алексей Николаевич": 16,
-      "Гужва Александр Алексеевич": 191,
-      "Ковалев Николай Дмитриевич": 232,
-      "Круговых Игорь Эрикович": 3,
-      "Лукин Владимир Петрович": 267,
-      "Рохмистров Максим Станиславович": 27,
-      "Синдревич Станислав Викторович": 12,
-      "Собакин Евгений Юрьевич": 134,
-      "Соколкова Наталья Геннадьевна": 56,
-      "Тарасов Евгений Александрович": 16,
-      "Против всех": 331
+      "gas:candidate-vibid:1001000202317": 652,
+      "gas:candidate-vibid:250200071637": 27,
+      "gas:candidate-vibid:250200071640": 16,
+      "gas:candidate-vibid:1001000121282": 191,
+      "gas:candidate-vibid:1001000225955": 232,
+      "gas:candidate-vibid:250200071646": 3,
+      "gas:candidate-vibid:1001000112228": 267,
+      "gas:candidate-vibid:1001000289809": 27,
+      "gas:candidate-vibid:250200071643": 12,
+      "gas:candidate-vibid:1001000190374": 134,
+      "gas:candidate-vibid:1001000195099": 56,
+      "gas:candidate-vibid:1001000217936": 16,
+      "special:against-all": 331
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=503007002&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=350300771048&region=0&sub_region=0&type=429",
@@ -10648,19 +10648,19 @@ export const duma_2003_uik_428_region_50_part_008 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Алкснис Виктор Имантович": 131,
-      "Вахания Владимир Виссарионович": 11,
-      "Волынец Алексей Николаевич": 6,
-      "Гужва Александр Алексеевич": 6,
-      "Ковалев Николай Дмитриевич": 71,
-      "Круговых Игорь Эрикович": 6,
-      "Лукин Владимир Петрович": 103,
-      "Рохмистров Максим Станиславович": 19,
-      "Синдревич Станислав Викторович": 3,
-      "Собакин Евгений Юрьевич": 28,
-      "Соколкова Наталья Геннадьевна": 32,
-      "Тарасов Евгений Александрович": 17,
-      "Против всех": 142
+      "gas:candidate-vibid:1001000202317": 131,
+      "gas:candidate-vibid:250200071637": 11,
+      "gas:candidate-vibid:250200071640": 6,
+      "gas:candidate-vibid:1001000121282": 6,
+      "gas:candidate-vibid:1001000225955": 71,
+      "gas:candidate-vibid:250200071646": 6,
+      "gas:candidate-vibid:1001000112228": 103,
+      "gas:candidate-vibid:1001000289809": 19,
+      "gas:candidate-vibid:250200071643": 3,
+      "gas:candidate-vibid:1001000190374": 28,
+      "gas:candidate-vibid:1001000195099": 32,
+      "gas:candidate-vibid:1001000217936": 17,
+      "special:against-all": 142
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=503007003&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=350300771049&region=0&sub_region=0&type=429",
@@ -10710,19 +10710,19 @@ export const duma_2003_uik_428_region_50_part_008 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Алкснис Виктор Имантович": 283,
-      "Вахания Владимир Виссарионович": 7,
-      "Волынец Алексей Николаевич": 8,
-      "Гужва Александр Алексеевич": 7,
-      "Ковалев Николай Дмитриевич": 83,
-      "Круговых Игорь Эрикович": 6,
-      "Лукин Владимир Петрович": 220,
-      "Рохмистров Максим Станиславович": 11,
-      "Синдревич Станислав Викторович": 2,
-      "Собакин Евгений Юрьевич": 61,
-      "Соколкова Наталья Геннадьевна": 36,
-      "Тарасов Евгений Александрович": 22,
-      "Против всех": 163
+      "gas:candidate-vibid:1001000202317": 283,
+      "gas:candidate-vibid:250200071637": 7,
+      "gas:candidate-vibid:250200071640": 8,
+      "gas:candidate-vibid:1001000121282": 7,
+      "gas:candidate-vibid:1001000225955": 83,
+      "gas:candidate-vibid:250200071646": 6,
+      "gas:candidate-vibid:1001000112228": 220,
+      "gas:candidate-vibid:1001000289809": 11,
+      "gas:candidate-vibid:250200071643": 2,
+      "gas:candidate-vibid:1001000190374": 61,
+      "gas:candidate-vibid:1001000195099": 36,
+      "gas:candidate-vibid:1001000217936": 22,
+      "special:against-all": 163
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=503007003&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=350300771049&region=0&sub_region=0&type=429",
@@ -10772,19 +10772,19 @@ export const duma_2003_uik_428_region_50_part_008 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Алкснис Виктор Имантович": 416,
-      "Вахания Владимир Виссарионович": 8,
-      "Волынец Алексей Николаевич": 6,
-      "Гужва Александр Алексеевич": 5,
-      "Ковалев Николай Дмитриевич": 166,
-      "Круговых Игорь Эрикович": 4,
-      "Лукин Владимир Петрович": 274,
-      "Рохмистров Максим Станиславович": 19,
-      "Синдревич Станислав Викторович": 4,
-      "Собакин Евгений Юрьевич": 58,
-      "Соколкова Наталья Геннадьевна": 50,
-      "Тарасов Евгений Александрович": 20,
-      "Против всех": 285
+      "gas:candidate-vibid:1001000202317": 416,
+      "gas:candidate-vibid:250200071637": 8,
+      "gas:candidate-vibid:250200071640": 6,
+      "gas:candidate-vibid:1001000121282": 5,
+      "gas:candidate-vibid:1001000225955": 166,
+      "gas:candidate-vibid:250200071646": 4,
+      "gas:candidate-vibid:1001000112228": 274,
+      "gas:candidate-vibid:1001000289809": 19,
+      "gas:candidate-vibid:250200071643": 4,
+      "gas:candidate-vibid:1001000190374": 58,
+      "gas:candidate-vibid:1001000195099": 50,
+      "gas:candidate-vibid:1001000217936": 20,
+      "special:against-all": 285
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=503007003&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=350300771049&region=0&sub_region=0&type=429",
@@ -10834,19 +10834,19 @@ export const duma_2003_uik_428_region_50_part_008 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Алкснис Виктор Имантович": 303,
-      "Вахания Владимир Виссарионович": 5,
-      "Волынец Алексей Николаевич": 9,
-      "Гужва Александр Алексеевич": 10,
-      "Ковалев Николай Дмитриевич": 178,
-      "Круговых Игорь Эрикович": 7,
-      "Лукин Владимир Петрович": 242,
-      "Рохмистров Максим Станиславович": 17,
-      "Синдревич Станислав Викторович": 2,
-      "Собакин Евгений Юрьевич": 93,
-      "Соколкова Наталья Геннадьевна": 68,
-      "Тарасов Евгений Александрович": 27,
-      "Против всех": 308
+      "gas:candidate-vibid:1001000202317": 303,
+      "gas:candidate-vibid:250200071637": 5,
+      "gas:candidate-vibid:250200071640": 9,
+      "gas:candidate-vibid:1001000121282": 10,
+      "gas:candidate-vibid:1001000225955": 178,
+      "gas:candidate-vibid:250200071646": 7,
+      "gas:candidate-vibid:1001000112228": 242,
+      "gas:candidate-vibid:1001000289809": 17,
+      "gas:candidate-vibid:250200071643": 2,
+      "gas:candidate-vibid:1001000190374": 93,
+      "gas:candidate-vibid:1001000195099": 68,
+      "gas:candidate-vibid:1001000217936": 27,
+      "special:against-all": 308
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=503007003&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=350300771049&region=0&sub_region=0&type=429",
@@ -10896,19 +10896,19 @@ export const duma_2003_uik_428_region_50_part_008 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Алкснис Виктор Имантович": 247,
-      "Вахания Владимир Виссарионович": 6,
-      "Волынец Алексей Николаевич": 5,
-      "Гужва Александр Алексеевич": 5,
-      "Ковалев Николай Дмитриевич": 112,
-      "Круговых Игорь Эрикович": 2,
-      "Лукин Владимир Петрович": 158,
-      "Рохмистров Максим Станиславович": 12,
-      "Синдревич Станислав Викторович": 7,
-      "Собакин Евгений Юрьевич": 81,
-      "Соколкова Наталья Геннадьевна": 55,
-      "Тарасов Евгений Александрович": 13,
-      "Против всех": 186
+      "gas:candidate-vibid:1001000202317": 247,
+      "gas:candidate-vibid:250200071637": 6,
+      "gas:candidate-vibid:250200071640": 5,
+      "gas:candidate-vibid:1001000121282": 5,
+      "gas:candidate-vibid:1001000225955": 112,
+      "gas:candidate-vibid:250200071646": 2,
+      "gas:candidate-vibid:1001000112228": 158,
+      "gas:candidate-vibid:1001000289809": 12,
+      "gas:candidate-vibid:250200071643": 7,
+      "gas:candidate-vibid:1001000190374": 81,
+      "gas:candidate-vibid:1001000195099": 55,
+      "gas:candidate-vibid:1001000217936": 13,
+      "special:against-all": 186
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=503007003&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=350300771049&region=0&sub_region=0&type=429",
@@ -10958,19 +10958,19 @@ export const duma_2003_uik_428_region_50_part_008 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Алкснис Виктор Имантович": 249,
-      "Вахания Владимир Виссарионович": 13,
-      "Волынец Алексей Николаевич": 3,
-      "Гужва Александр Алексеевич": 5,
-      "Ковалев Николай Дмитриевич": 153,
-      "Круговых Игорь Эрикович": 3,
-      "Лукин Владимир Петрович": 187,
-      "Рохмистров Максим Станиславович": 14,
-      "Синдревич Станислав Викторович": 3,
-      "Собакин Евгений Юрьевич": 88,
-      "Соколкова Наталья Геннадьевна": 64,
-      "Тарасов Евгений Александрович": 27,
-      "Против всех": 280
+      "gas:candidate-vibid:1001000202317": 249,
+      "gas:candidate-vibid:250200071637": 13,
+      "gas:candidate-vibid:250200071640": 3,
+      "gas:candidate-vibid:1001000121282": 5,
+      "gas:candidate-vibid:1001000225955": 153,
+      "gas:candidate-vibid:250200071646": 3,
+      "gas:candidate-vibid:1001000112228": 187,
+      "gas:candidate-vibid:1001000289809": 14,
+      "gas:candidate-vibid:250200071643": 3,
+      "gas:candidate-vibid:1001000190374": 88,
+      "gas:candidate-vibid:1001000195099": 64,
+      "gas:candidate-vibid:1001000217936": 27,
+      "special:against-all": 280
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=503007003&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=350300771049&region=0&sub_region=0&type=429",
@@ -11020,19 +11020,19 @@ export const duma_2003_uik_428_region_50_part_008 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Алкснис Виктор Имантович": 297,
-      "Вахания Владимир Виссарионович": 15,
-      "Волынец Алексей Николаевич": 3,
-      "Гужва Александр Алексеевич": 20,
-      "Ковалев Николай Дмитриевич": 198,
-      "Круговых Игорь Эрикович": 1,
-      "Лукин Владимир Петрович": 284,
-      "Рохмистров Максим Станиславович": 27,
-      "Синдревич Станислав Викторович": 2,
-      "Собакин Евгений Юрьевич": 94,
-      "Соколкова Наталья Геннадьевна": 77,
-      "Тарасов Евгений Александрович": 32,
-      "Против всех": 330
+      "gas:candidate-vibid:1001000202317": 297,
+      "gas:candidate-vibid:250200071637": 15,
+      "gas:candidate-vibid:250200071640": 3,
+      "gas:candidate-vibid:1001000121282": 20,
+      "gas:candidate-vibid:1001000225955": 198,
+      "gas:candidate-vibid:250200071646": 1,
+      "gas:candidate-vibid:1001000112228": 284,
+      "gas:candidate-vibid:1001000289809": 27,
+      "gas:candidate-vibid:250200071643": 2,
+      "gas:candidate-vibid:1001000190374": 94,
+      "gas:candidate-vibid:1001000195099": 77,
+      "gas:candidate-vibid:1001000217936": 32,
+      "special:against-all": 330
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=503007003&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=350300771049&region=0&sub_region=0&type=429",
@@ -11082,19 +11082,19 @@ export const duma_2003_uik_428_region_50_part_008 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Алкснис Виктор Имантович": 269,
-      "Вахания Владимир Виссарионович": 8,
-      "Волынец Алексей Николаевич": 3,
-      "Гужва Александр Алексеевич": 6,
-      "Ковалев Николай Дмитриевич": 118,
-      "Круговых Игорь Эрикович": 2,
-      "Лукин Владимир Петрович": 193,
-      "Рохмистров Максим Станиславович": 10,
-      "Синдревич Станислав Викторович": 0,
-      "Собакин Евгений Юрьевич": 60,
-      "Соколкова Наталья Геннадьевна": 45,
-      "Тарасов Евгений Александрович": 23,
-      "Против всех": 234
+      "gas:candidate-vibid:1001000202317": 269,
+      "gas:candidate-vibid:250200071637": 8,
+      "gas:candidate-vibid:250200071640": 3,
+      "gas:candidate-vibid:1001000121282": 6,
+      "gas:candidate-vibid:1001000225955": 118,
+      "gas:candidate-vibid:250200071646": 2,
+      "gas:candidate-vibid:1001000112228": 193,
+      "gas:candidate-vibid:1001000289809": 10,
+      "gas:candidate-vibid:250200071643": 0,
+      "gas:candidate-vibid:1001000190374": 60,
+      "gas:candidate-vibid:1001000195099": 45,
+      "gas:candidate-vibid:1001000217936": 23,
+      "special:against-all": 234
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=503007003&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=350300771049&region=0&sub_region=0&type=429",
@@ -11144,19 +11144,19 @@ export const duma_2003_uik_428_region_50_part_008 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Алкснис Виктор Имантович": 223,
-      "Вахания Владимир Виссарионович": 10,
-      "Волынец Алексей Николаевич": 4,
-      "Гужва Александр Алексеевич": 3,
-      "Ковалев Николай Дмитриевич": 113,
-      "Круговых Игорь Эрикович": 2,
-      "Лукин Владимир Петрович": 158,
-      "Рохмистров Максим Станиславович": 25,
-      "Синдревич Станислав Викторович": 1,
-      "Собакин Евгений Юрьевич": 70,
-      "Соколкова Наталья Геннадьевна": 54,
-      "Тарасов Евгений Александрович": 24,
-      "Против всех": 311
+      "gas:candidate-vibid:1001000202317": 223,
+      "gas:candidate-vibid:250200071637": 10,
+      "gas:candidate-vibid:250200071640": 4,
+      "gas:candidate-vibid:1001000121282": 3,
+      "gas:candidate-vibid:1001000225955": 113,
+      "gas:candidate-vibid:250200071646": 2,
+      "gas:candidate-vibid:1001000112228": 158,
+      "gas:candidate-vibid:1001000289809": 25,
+      "gas:candidate-vibid:250200071643": 1,
+      "gas:candidate-vibid:1001000190374": 70,
+      "gas:candidate-vibid:1001000195099": 54,
+      "gas:candidate-vibid:1001000217936": 24,
+      "special:against-all": 311
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=503007003&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=350300771049&region=0&sub_region=0&type=429",
@@ -11206,19 +11206,19 @@ export const duma_2003_uik_428_region_50_part_008 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Алкснис Виктор Имантович": 290,
-      "Вахания Владимир Виссарионович": 15,
-      "Волынец Алексей Николаевич": 2,
-      "Гужва Александр Алексеевич": 8,
-      "Ковалев Николай Дмитриевич": 116,
-      "Круговых Игорь Эрикович": 4,
-      "Лукин Владимир Петрович": 156,
-      "Рохмистров Максим Станиславович": 35,
-      "Синдревич Станислав Викторович": 2,
-      "Собакин Евгений Юрьевич": 56,
-      "Соколкова Наталья Геннадьевна": 33,
-      "Тарасов Евгений Александрович": 23,
-      "Против всех": 228
+      "gas:candidate-vibid:1001000202317": 290,
+      "gas:candidate-vibid:250200071637": 15,
+      "gas:candidate-vibid:250200071640": 2,
+      "gas:candidate-vibid:1001000121282": 8,
+      "gas:candidate-vibid:1001000225955": 116,
+      "gas:candidate-vibid:250200071646": 4,
+      "gas:candidate-vibid:1001000112228": 156,
+      "gas:candidate-vibid:1001000289809": 35,
+      "gas:candidate-vibid:250200071643": 2,
+      "gas:candidate-vibid:1001000190374": 56,
+      "gas:candidate-vibid:1001000195099": 33,
+      "gas:candidate-vibid:1001000217936": 23,
+      "special:against-all": 228
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=503007003&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=350300771049&region=0&sub_region=0&type=429",
@@ -11268,19 +11268,19 @@ export const duma_2003_uik_428_region_50_part_008 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Алкснис Виктор Имантович": 313,
-      "Вахания Владимир Виссарионович": 11,
-      "Волынец Алексей Николаевич": 9,
-      "Гужва Александр Алексеевич": 6,
-      "Ковалев Николай Дмитриевич": 181,
-      "Круговых Игорь Эрикович": 1,
-      "Лукин Владимир Петрович": 276,
-      "Рохмистров Максим Станиславович": 27,
-      "Синдревич Станислав Викторович": 3,
-      "Собакин Евгений Юрьевич": 75,
-      "Соколкова Наталья Геннадьевна": 66,
-      "Тарасов Евгений Александрович": 27,
-      "Против всех": 365
+      "gas:candidate-vibid:1001000202317": 313,
+      "gas:candidate-vibid:250200071637": 11,
+      "gas:candidate-vibid:250200071640": 9,
+      "gas:candidate-vibid:1001000121282": 6,
+      "gas:candidate-vibid:1001000225955": 181,
+      "gas:candidate-vibid:250200071646": 1,
+      "gas:candidate-vibid:1001000112228": 276,
+      "gas:candidate-vibid:1001000289809": 27,
+      "gas:candidate-vibid:250200071643": 3,
+      "gas:candidate-vibid:1001000190374": 75,
+      "gas:candidate-vibid:1001000195099": 66,
+      "gas:candidate-vibid:1001000217936": 27,
+      "special:against-all": 365
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=503007003&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=350300771049&region=0&sub_region=0&type=429",
@@ -11330,19 +11330,19 @@ export const duma_2003_uik_428_region_50_part_008 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Алкснис Виктор Имантович": 247,
-      "Вахания Владимир Виссарионович": 5,
-      "Волынец Алексей Николаевич": 2,
-      "Гужва Александр Алексеевич": 3,
-      "Ковалев Николай Дмитриевич": 182,
-      "Круговых Игорь Эрикович": 4,
-      "Лукин Владимир Петрович": 233,
-      "Рохмистров Максим Станиславович": 23,
-      "Синдревич Станислав Викторович": 4,
-      "Собакин Евгений Юрьевич": 44,
-      "Соколкова Наталья Геннадьевна": 63,
-      "Тарасов Евгений Александрович": 16,
-      "Против всех": 267
+      "gas:candidate-vibid:1001000202317": 247,
+      "gas:candidate-vibid:250200071637": 5,
+      "gas:candidate-vibid:250200071640": 2,
+      "gas:candidate-vibid:1001000121282": 3,
+      "gas:candidate-vibid:1001000225955": 182,
+      "gas:candidate-vibid:250200071646": 4,
+      "gas:candidate-vibid:1001000112228": 233,
+      "gas:candidate-vibid:1001000289809": 23,
+      "gas:candidate-vibid:250200071643": 4,
+      "gas:candidate-vibid:1001000190374": 44,
+      "gas:candidate-vibid:1001000195099": 63,
+      "gas:candidate-vibid:1001000217936": 16,
+      "special:against-all": 267
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=503007003&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=350300771049&region=0&sub_region=0&type=429",
@@ -11392,19 +11392,19 @@ export const duma_2003_uik_428_region_50_part_008 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Алкснис Виктор Имантович": 304,
-      "Вахания Владимир Виссарионович": 10,
-      "Волынец Алексей Николаевич": 6,
-      "Гужва Александр Алексеевич": 8,
-      "Ковалев Николай Дмитриевич": 135,
-      "Круговых Игорь Эрикович": 4,
-      "Лукин Владимир Петрович": 171,
-      "Рохмистров Максим Станиславович": 11,
-      "Синдревич Станислав Викторович": 2,
-      "Собакин Евгений Юрьевич": 43,
-      "Соколкова Наталья Геннадьевна": 40,
-      "Тарасов Евгений Александрович": 21,
-      "Против всех": 248
+      "gas:candidate-vibid:1001000202317": 304,
+      "gas:candidate-vibid:250200071637": 10,
+      "gas:candidate-vibid:250200071640": 6,
+      "gas:candidate-vibid:1001000121282": 8,
+      "gas:candidate-vibid:1001000225955": 135,
+      "gas:candidate-vibid:250200071646": 4,
+      "gas:candidate-vibid:1001000112228": 171,
+      "gas:candidate-vibid:1001000289809": 11,
+      "gas:candidate-vibid:250200071643": 2,
+      "gas:candidate-vibid:1001000190374": 43,
+      "gas:candidate-vibid:1001000195099": 40,
+      "gas:candidate-vibid:1001000217936": 21,
+      "special:against-all": 248
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=503007003&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=350300771049&region=0&sub_region=0&type=429",
@@ -11454,19 +11454,19 @@ export const duma_2003_uik_428_region_50_part_008 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Алкснис Виктор Имантович": 304,
-      "Вахания Владимир Виссарионович": 8,
-      "Волынец Алексей Николаевич": 3,
-      "Гужва Александр Алексеевич": 1,
-      "Ковалев Николай Дмитриевич": 166,
-      "Круговых Игорь Эрикович": 4,
-      "Лукин Владимир Петрович": 114,
-      "Рохмистров Максим Станиславович": 20,
-      "Синдревич Станислав Викторович": 0,
-      "Собакин Евгений Юрьевич": 74,
-      "Соколкова Наталья Геннадьевна": 44,
-      "Тарасов Евгений Александрович": 27,
-      "Против всех": 234
+      "gas:candidate-vibid:1001000202317": 304,
+      "gas:candidate-vibid:250200071637": 8,
+      "gas:candidate-vibid:250200071640": 3,
+      "gas:candidate-vibid:1001000121282": 1,
+      "gas:candidate-vibid:1001000225955": 166,
+      "gas:candidate-vibid:250200071646": 4,
+      "gas:candidate-vibid:1001000112228": 114,
+      "gas:candidate-vibid:1001000289809": 20,
+      "gas:candidate-vibid:250200071643": 0,
+      "gas:candidate-vibid:1001000190374": 74,
+      "gas:candidate-vibid:1001000195099": 44,
+      "gas:candidate-vibid:1001000217936": 27,
+      "special:against-all": 234
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=503007003&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=350300771049&region=0&sub_region=0&type=429",
@@ -11516,19 +11516,19 @@ export const duma_2003_uik_428_region_50_part_008 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Алкснис Виктор Имантович": 149,
-      "Вахания Владимир Виссарионович": 7,
-      "Волынец Алексей Николаевич": 1,
-      "Гужва Александр Алексеевич": 4,
-      "Ковалев Николай Дмитриевич": 76,
-      "Круговых Игорь Эрикович": 2,
-      "Лукин Владимир Петрович": 84,
-      "Рохмистров Максим Станиславович": 7,
-      "Синдревич Станислав Викторович": 1,
-      "Собакин Евгений Юрьевич": 28,
-      "Соколкова Наталья Геннадьевна": 15,
-      "Тарасов Евгений Александрович": 10,
-      "Против всех": 91
+      "gas:candidate-vibid:1001000202317": 149,
+      "gas:candidate-vibid:250200071637": 7,
+      "gas:candidate-vibid:250200071640": 1,
+      "gas:candidate-vibid:1001000121282": 4,
+      "gas:candidate-vibid:1001000225955": 76,
+      "gas:candidate-vibid:250200071646": 2,
+      "gas:candidate-vibid:1001000112228": 84,
+      "gas:candidate-vibid:1001000289809": 7,
+      "gas:candidate-vibid:250200071643": 1,
+      "gas:candidate-vibid:1001000190374": 28,
+      "gas:candidate-vibid:1001000195099": 15,
+      "gas:candidate-vibid:1001000217936": 10,
+      "special:against-all": 91
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=503007003&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=350300771049&region=0&sub_region=0&type=429",
@@ -11578,19 +11578,19 @@ export const duma_2003_uik_428_region_50_part_008 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Алкснис Виктор Имантович": 257,
-      "Вахания Владимир Виссарионович": 8,
-      "Волынец Алексей Николаевич": 1,
-      "Гужва Александр Алексеевич": 5,
-      "Ковалев Николай Дмитриевич": 109,
-      "Круговых Игорь Эрикович": 5,
-      "Лукин Владимир Петрович": 110,
-      "Рохмистров Максим Станиславович": 16,
-      "Синдревич Станислав Викторович": 2,
-      "Собакин Евгений Юрьевич": 55,
-      "Соколкова Наталья Геннадьевна": 45,
-      "Тарасов Евгений Александрович": 13,
-      "Против всех": 159
+      "gas:candidate-vibid:1001000202317": 257,
+      "gas:candidate-vibid:250200071637": 8,
+      "gas:candidate-vibid:250200071640": 1,
+      "gas:candidate-vibid:1001000121282": 5,
+      "gas:candidate-vibid:1001000225955": 109,
+      "gas:candidate-vibid:250200071646": 5,
+      "gas:candidate-vibid:1001000112228": 110,
+      "gas:candidate-vibid:1001000289809": 16,
+      "gas:candidate-vibid:250200071643": 2,
+      "gas:candidate-vibid:1001000190374": 55,
+      "gas:candidate-vibid:1001000195099": 45,
+      "gas:candidate-vibid:1001000217936": 13,
+      "special:against-all": 159
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=503007003&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=350300771049&region=0&sub_region=0&type=429",
@@ -11640,19 +11640,19 @@ export const duma_2003_uik_428_region_50_part_008 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Алкснис Виктор Имантович": 345,
-      "Вахания Владимир Виссарионович": 10,
-      "Волынец Алексей Николаевич": 6,
-      "Гужва Александр Алексеевич": 6,
-      "Ковалев Николай Дмитриевич": 241,
-      "Круговых Игорь Эрикович": 1,
-      "Лукин Владимир Петрович": 253,
-      "Рохмистров Максим Станиславович": 36,
-      "Синдревич Станислав Викторович": 1,
-      "Собакин Евгений Юрьевич": 96,
-      "Соколкова Наталья Геннадьевна": 82,
-      "Тарасов Евгений Александрович": 28,
-      "Против всех": 308
+      "gas:candidate-vibid:1001000202317": 345,
+      "gas:candidate-vibid:250200071637": 10,
+      "gas:candidate-vibid:250200071640": 6,
+      "gas:candidate-vibid:1001000121282": 6,
+      "gas:candidate-vibid:1001000225955": 241,
+      "gas:candidate-vibid:250200071646": 1,
+      "gas:candidate-vibid:1001000112228": 253,
+      "gas:candidate-vibid:1001000289809": 36,
+      "gas:candidate-vibid:250200071643": 1,
+      "gas:candidate-vibid:1001000190374": 96,
+      "gas:candidate-vibid:1001000195099": 82,
+      "gas:candidate-vibid:1001000217936": 28,
+      "special:against-all": 308
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=503007003&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=350300771049&region=0&sub_region=0&type=429",
@@ -11702,19 +11702,19 @@ export const duma_2003_uik_428_region_50_part_008 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Алкснис Виктор Имантович": 210,
-      "Вахания Владимир Виссарионович": 16,
-      "Волынец Алексей Николаевич": 2,
-      "Гужва Александр Алексеевич": 7,
-      "Ковалев Николай Дмитриевич": 147,
-      "Круговых Игорь Эрикович": 2,
-      "Лукин Владимир Петрович": 191,
-      "Рохмистров Максим Станиславович": 17,
-      "Синдревич Станислав Викторович": 0,
-      "Собакин Евгений Юрьевич": 53,
-      "Соколкова Наталья Геннадьевна": 50,
-      "Тарасов Евгений Александрович": 20,
-      "Против всех": 241
+      "gas:candidate-vibid:1001000202317": 210,
+      "gas:candidate-vibid:250200071637": 16,
+      "gas:candidate-vibid:250200071640": 2,
+      "gas:candidate-vibid:1001000121282": 7,
+      "gas:candidate-vibid:1001000225955": 147,
+      "gas:candidate-vibid:250200071646": 2,
+      "gas:candidate-vibid:1001000112228": 191,
+      "gas:candidate-vibid:1001000289809": 17,
+      "gas:candidate-vibid:250200071643": 0,
+      "gas:candidate-vibid:1001000190374": 53,
+      "gas:candidate-vibid:1001000195099": 50,
+      "gas:candidate-vibid:1001000217936": 20,
+      "special:against-all": 241
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=503007003&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=350300771049&region=0&sub_region=0&type=429",
@@ -11764,19 +11764,19 @@ export const duma_2003_uik_428_region_50_part_008 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Алкснис Виктор Имантович": 192,
-      "Вахания Владимир Виссарионович": 14,
-      "Волынец Алексей Николаевич": 3,
-      "Гужва Александр Алексеевич": 6,
-      "Ковалев Николай Дмитриевич": 143,
-      "Круговых Игорь Эрикович": 4,
-      "Лукин Владимир Петрович": 186,
-      "Рохмистров Максим Станиславович": 24,
-      "Синдревич Станислав Викторович": 7,
-      "Собакин Евгений Юрьевич": 52,
-      "Соколкова Наталья Геннадьевна": 58,
-      "Тарасов Евгений Александрович": 19,
-      "Против всех": 213
+      "gas:candidate-vibid:1001000202317": 192,
+      "gas:candidate-vibid:250200071637": 14,
+      "gas:candidate-vibid:250200071640": 3,
+      "gas:candidate-vibid:1001000121282": 6,
+      "gas:candidate-vibid:1001000225955": 143,
+      "gas:candidate-vibid:250200071646": 4,
+      "gas:candidate-vibid:1001000112228": 186,
+      "gas:candidate-vibid:1001000289809": 24,
+      "gas:candidate-vibid:250200071643": 7,
+      "gas:candidate-vibid:1001000190374": 52,
+      "gas:candidate-vibid:1001000195099": 58,
+      "gas:candidate-vibid:1001000217936": 19,
+      "special:against-all": 213
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=503007003&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=350300771049&region=0&sub_region=0&type=429",
@@ -11826,19 +11826,19 @@ export const duma_2003_uik_428_region_50_part_008 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Алкснис Виктор Имантович": 195,
-      "Вахания Владимир Виссарионович": 2,
-      "Волынец Алексей Николаевич": 2,
-      "Гужва Александр Алексеевич": 3,
-      "Ковалев Николай Дмитриевич": 98,
-      "Круговых Игорь Эрикович": 1,
-      "Лукин Владимир Петрович": 185,
-      "Рохмистров Максим Станиславович": 15,
-      "Синдревич Станислав Викторович": 1,
-      "Собакин Евгений Юрьевич": 41,
-      "Соколкова Наталья Геннадьевна": 44,
-      "Тарасов Евгений Александрович": 11,
-      "Против всех": 167
+      "gas:candidate-vibid:1001000202317": 195,
+      "gas:candidate-vibid:250200071637": 2,
+      "gas:candidate-vibid:250200071640": 2,
+      "gas:candidate-vibid:1001000121282": 3,
+      "gas:candidate-vibid:1001000225955": 98,
+      "gas:candidate-vibid:250200071646": 1,
+      "gas:candidate-vibid:1001000112228": 185,
+      "gas:candidate-vibid:1001000289809": 15,
+      "gas:candidate-vibid:250200071643": 1,
+      "gas:candidate-vibid:1001000190374": 41,
+      "gas:candidate-vibid:1001000195099": 44,
+      "gas:candidate-vibid:1001000217936": 11,
+      "special:against-all": 167
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=503007003&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=350300771049&region=0&sub_region=0&type=429",
@@ -11888,19 +11888,19 @@ export const duma_2003_uik_428_region_50_part_008 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Алкснис Виктор Имантович": 73,
-      "Вахания Владимир Виссарионович": 5,
-      "Волынец Алексей Николаевич": 1,
-      "Гужва Александр Алексеевич": 1,
-      "Ковалев Николай Дмитриевич": 70,
-      "Круговых Игорь Эрикович": 2,
-      "Лукин Владимир Петрович": 84,
-      "Рохмистров Максим Станиславович": 17,
-      "Синдревич Станислав Викторович": 4,
-      "Собакин Евгений Юрьевич": 18,
-      "Соколкова Наталья Геннадьевна": 12,
-      "Тарасов Евгений Александрович": 10,
-      "Против всех": 90
+      "gas:candidate-vibid:1001000202317": 73,
+      "gas:candidate-vibid:250200071637": 5,
+      "gas:candidate-vibid:250200071640": 1,
+      "gas:candidate-vibid:1001000121282": 1,
+      "gas:candidate-vibid:1001000225955": 70,
+      "gas:candidate-vibid:250200071646": 2,
+      "gas:candidate-vibid:1001000112228": 84,
+      "gas:candidate-vibid:1001000289809": 17,
+      "gas:candidate-vibid:250200071643": 4,
+      "gas:candidate-vibid:1001000190374": 18,
+      "gas:candidate-vibid:1001000195099": 12,
+      "gas:candidate-vibid:1001000217936": 10,
+      "special:against-all": 90
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=503007003&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=350300771049&region=0&sub_region=0&type=429",
@@ -11950,19 +11950,19 @@ export const duma_2003_uik_428_region_50_part_008 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Алкснис Виктор Имантович": 94,
-      "Вахания Владимир Виссарионович": 2,
-      "Волынец Алексей Николаевич": 4,
-      "Гужва Александр Алексеевич": 6,
-      "Ковалев Николай Дмитриевич": 83,
-      "Круговых Игорь Эрикович": 3,
-      "Лукин Владимир Петрович": 98,
-      "Рохмистров Максим Станиславович": 13,
-      "Синдревич Станислав Викторович": 1,
-      "Собакин Евгений Юрьевич": 25,
-      "Соколкова Наталья Геннадьевна": 36,
-      "Тарасов Евгений Александрович": 12,
-      "Против всех": 108
+      "gas:candidate-vibid:1001000202317": 94,
+      "gas:candidate-vibid:250200071637": 2,
+      "gas:candidate-vibid:250200071640": 4,
+      "gas:candidate-vibid:1001000121282": 6,
+      "gas:candidate-vibid:1001000225955": 83,
+      "gas:candidate-vibid:250200071646": 3,
+      "gas:candidate-vibid:1001000112228": 98,
+      "gas:candidate-vibid:1001000289809": 13,
+      "gas:candidate-vibid:250200071643": 1,
+      "gas:candidate-vibid:1001000190374": 25,
+      "gas:candidate-vibid:1001000195099": 36,
+      "gas:candidate-vibid:1001000217936": 12,
+      "special:against-all": 108
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=503007003&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=350300771049&region=0&sub_region=0&type=429",
@@ -12012,19 +12012,19 @@ export const duma_2003_uik_428_region_50_part_008 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Алкснис Виктор Имантович": 172,
-      "Вахания Владимир Виссарионович": 16,
-      "Волынец Алексей Николаевич": 5,
-      "Гужва Александр Алексеевич": 7,
-      "Ковалев Николай Дмитриевич": 121,
-      "Круговых Игорь Эрикович": 1,
-      "Лукин Владимир Петрович": 132,
-      "Рохмистров Максим Станиславович": 16,
-      "Синдревич Станислав Викторович": 1,
-      "Собакин Евгений Юрьевич": 55,
-      "Соколкова Наталья Геннадьевна": 58,
-      "Тарасов Евгений Александрович": 31,
-      "Против всех": 186
+      "gas:candidate-vibid:1001000202317": 172,
+      "gas:candidate-vibid:250200071637": 16,
+      "gas:candidate-vibid:250200071640": 5,
+      "gas:candidate-vibid:1001000121282": 7,
+      "gas:candidate-vibid:1001000225955": 121,
+      "gas:candidate-vibid:250200071646": 1,
+      "gas:candidate-vibid:1001000112228": 132,
+      "gas:candidate-vibid:1001000289809": 16,
+      "gas:candidate-vibid:250200071643": 1,
+      "gas:candidate-vibid:1001000190374": 55,
+      "gas:candidate-vibid:1001000195099": 58,
+      "gas:candidate-vibid:1001000217936": 31,
+      "special:against-all": 186
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=503007003&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=350300771049&region=0&sub_region=0&type=429",
@@ -12074,19 +12074,19 @@ export const duma_2003_uik_428_region_50_part_008 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Алкснис Виктор Имантович": 298,
-      "Вахания Владимир Виссарионович": 4,
-      "Волынец Алексей Николаевич": 1,
-      "Гужва Александр Алексеевич": 1,
-      "Ковалев Николай Дмитриевич": 89,
-      "Круговых Игорь Эрикович": 2,
-      "Лукин Владимир Петрович": 92,
-      "Рохмистров Максим Станиславович": 23,
-      "Синдревич Станислав Викторович": 1,
-      "Собакин Евгений Юрьевич": 10,
-      "Соколкова Наталья Геннадьевна": 19,
-      "Тарасов Евгений Александрович": 16,
-      "Против всех": 228
+      "gas:candidate-vibid:1001000202317": 298,
+      "gas:candidate-vibid:250200071637": 4,
+      "gas:candidate-vibid:250200071640": 1,
+      "gas:candidate-vibid:1001000121282": 1,
+      "gas:candidate-vibid:1001000225955": 89,
+      "gas:candidate-vibid:250200071646": 2,
+      "gas:candidate-vibid:1001000112228": 92,
+      "gas:candidate-vibid:1001000289809": 23,
+      "gas:candidate-vibid:250200071643": 1,
+      "gas:candidate-vibid:1001000190374": 10,
+      "gas:candidate-vibid:1001000195099": 19,
+      "gas:candidate-vibid:1001000217936": 16,
+      "special:against-all": 228
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=503007003&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=350300771049&region=0&sub_region=0&type=429",
@@ -12136,19 +12136,19 @@ export const duma_2003_uik_428_region_50_part_008 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Алкснис Виктор Имантович": 29,
-      "Вахания Владимир Виссарионович": 2,
-      "Волынец Алексей Николаевич": 0,
-      "Гужва Александр Алексеевич": 4,
-      "Ковалев Николай Дмитриевич": 37,
-      "Круговых Игорь Эрикович": 0,
-      "Лукин Владимир Петрович": 44,
-      "Рохмистров Максим Станиславович": 8,
-      "Синдревич Станислав Викторович": 1,
-      "Собакин Евгений Юрьевич": 10,
-      "Соколкова Наталья Геннадьевна": 8,
-      "Тарасов Евгений Александрович": 15,
-      "Против всех": 38
+      "gas:candidate-vibid:1001000202317": 29,
+      "gas:candidate-vibid:250200071637": 2,
+      "gas:candidate-vibid:250200071640": 0,
+      "gas:candidate-vibid:1001000121282": 4,
+      "gas:candidate-vibid:1001000225955": 37,
+      "gas:candidate-vibid:250200071646": 0,
+      "gas:candidate-vibid:1001000112228": 44,
+      "gas:candidate-vibid:1001000289809": 8,
+      "gas:candidate-vibid:250200071643": 1,
+      "gas:candidate-vibid:1001000190374": 10,
+      "gas:candidate-vibid:1001000195099": 8,
+      "gas:candidate-vibid:1001000217936": 15,
+      "special:against-all": 38
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=503007003&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=350300771049&region=0&sub_region=0&type=429",
@@ -12198,19 +12198,19 @@ export const duma_2003_uik_428_region_50_part_008 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Алкснис Виктор Имантович": 33,
-      "Вахания Владимир Виссарионович": 4,
-      "Волынец Алексей Николаевич": 3,
-      "Гужва Александр Алексеевич": 5,
-      "Ковалев Николай Дмитриевич": 33,
-      "Круговых Игорь Эрикович": 2,
-      "Лукин Владимир Петрович": 45,
-      "Рохмистров Максим Станиславович": 13,
-      "Синдревич Станислав Викторович": 1,
-      "Собакин Евгений Юрьевич": 16,
-      "Соколкова Наталья Геннадьевна": 15,
-      "Тарасов Евгений Александрович": 18,
-      "Против всех": 75
+      "gas:candidate-vibid:1001000202317": 33,
+      "gas:candidate-vibid:250200071637": 4,
+      "gas:candidate-vibid:250200071640": 3,
+      "gas:candidate-vibid:1001000121282": 5,
+      "gas:candidate-vibid:1001000225955": 33,
+      "gas:candidate-vibid:250200071646": 2,
+      "gas:candidate-vibid:1001000112228": 45,
+      "gas:candidate-vibid:1001000289809": 13,
+      "gas:candidate-vibid:250200071643": 1,
+      "gas:candidate-vibid:1001000190374": 16,
+      "gas:candidate-vibid:1001000195099": 15,
+      "gas:candidate-vibid:1001000217936": 18,
+      "special:against-all": 75
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=503007003&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=350300771049&region=0&sub_region=0&type=429",
@@ -12260,19 +12260,19 @@ export const duma_2003_uik_428_region_50_part_008 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Алкснис Виктор Имантович": 84,
-      "Вахания Владимир Виссарионович": 5,
-      "Волынец Алексей Николаевич": 3,
-      "Гужва Александр Алексеевич": 19,
-      "Ковалев Николай Дмитриевич": 115,
-      "Круговых Игорь Эрикович": 2,
-      "Лукин Владимир Петрович": 112,
-      "Рохмистров Максим Станиславович": 27,
-      "Синдревич Станислав Викторович": 0,
-      "Собакин Евгений Юрьевич": 46,
-      "Соколкова Наталья Геннадьевна": 43,
-      "Тарасов Евгений Александрович": 40,
-      "Против всех": 251
+      "gas:candidate-vibid:1001000202317": 84,
+      "gas:candidate-vibid:250200071637": 5,
+      "gas:candidate-vibid:250200071640": 3,
+      "gas:candidate-vibid:1001000121282": 19,
+      "gas:candidate-vibid:1001000225955": 115,
+      "gas:candidate-vibid:250200071646": 2,
+      "gas:candidate-vibid:1001000112228": 112,
+      "gas:candidate-vibid:1001000289809": 27,
+      "gas:candidate-vibid:250200071643": 0,
+      "gas:candidate-vibid:1001000190374": 46,
+      "gas:candidate-vibid:1001000195099": 43,
+      "gas:candidate-vibid:1001000217936": 40,
+      "special:against-all": 251
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=503007003&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=350300771049&region=0&sub_region=0&type=429",
@@ -12322,19 +12322,19 @@ export const duma_2003_uik_428_region_50_part_008 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Алкснис Виктор Имантович": 40,
-      "Вахания Владимир Виссарионович": 2,
-      "Волынец Алексей Николаевич": 4,
-      "Гужва Александр Алексеевич": 6,
-      "Ковалев Николай Дмитриевич": 133,
-      "Круговых Игорь Эрикович": 3,
-      "Лукин Владимир Петрович": 80,
-      "Рохмистров Максим Станиславович": 30,
-      "Синдревич Станислав Викторович": 0,
-      "Собакин Евгений Юрьевич": 16,
-      "Соколкова Наталья Геннадьевна": 36,
-      "Тарасов Евгений Александрович": 42,
-      "Против всех": 178
+      "gas:candidate-vibid:1001000202317": 40,
+      "gas:candidate-vibid:250200071637": 2,
+      "gas:candidate-vibid:250200071640": 4,
+      "gas:candidate-vibid:1001000121282": 6,
+      "gas:candidate-vibid:1001000225955": 133,
+      "gas:candidate-vibid:250200071646": 3,
+      "gas:candidate-vibid:1001000112228": 80,
+      "gas:candidate-vibid:1001000289809": 30,
+      "gas:candidate-vibid:250200071643": 0,
+      "gas:candidate-vibid:1001000190374": 16,
+      "gas:candidate-vibid:1001000195099": 36,
+      "gas:candidate-vibid:1001000217936": 42,
+      "special:against-all": 178
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=503007003&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=350300771049&region=0&sub_region=0&type=429",
@@ -12384,19 +12384,19 @@ export const duma_2003_uik_428_region_50_part_008 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Алкснис Виктор Имантович": 232,
-      "Вахания Владимир Виссарионович": 6,
-      "Волынец Алексей Николаевич": 8,
-      "Гужва Александр Алексеевич": 10,
-      "Ковалев Николай Дмитриевич": 99,
-      "Круговых Игорь Эрикович": 5,
-      "Лукин Владимир Петрович": 141,
-      "Рохмистров Максим Станиславович": 13,
-      "Синдревич Станислав Викторович": 3,
-      "Собакин Евгений Юрьевич": 18,
-      "Соколкова Наталья Геннадьевна": 32,
-      "Тарасов Евгений Александрович": 14,
-      "Против всех": 159
+      "gas:candidate-vibid:1001000202317": 232,
+      "gas:candidate-vibid:250200071637": 6,
+      "gas:candidate-vibid:250200071640": 8,
+      "gas:candidate-vibid:1001000121282": 10,
+      "gas:candidate-vibid:1001000225955": 99,
+      "gas:candidate-vibid:250200071646": 5,
+      "gas:candidate-vibid:1001000112228": 141,
+      "gas:candidate-vibid:1001000289809": 13,
+      "gas:candidate-vibid:250200071643": 3,
+      "gas:candidate-vibid:1001000190374": 18,
+      "gas:candidate-vibid:1001000195099": 32,
+      "gas:candidate-vibid:1001000217936": 14,
+      "special:against-all": 159
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=503007003&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=350300771049&region=0&sub_region=0&type=429",
@@ -12446,19 +12446,19 @@ export const duma_2003_uik_428_region_50_part_008 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Алкснис Виктор Имантович": 50,
-      "Вахания Владимир Виссарионович": 2,
-      "Волынец Алексей Николаевич": 1,
-      "Гужва Александр Алексеевич": 2,
-      "Ковалев Николай Дмитриевич": 39,
-      "Круговых Игорь Эрикович": 2,
-      "Лукин Владимир Петрович": 31,
-      "Рохмистров Максим Станиславович": 6,
-      "Синдревич Станислав Викторович": 2,
-      "Собакин Евгений Юрьевич": 12,
-      "Соколкова Наталья Геннадьевна": 16,
-      "Тарасов Евгений Александрович": 6,
-      "Против всех": 78
+      "gas:candidate-vibid:1001000202317": 50,
+      "gas:candidate-vibid:250200071637": 2,
+      "gas:candidate-vibid:250200071640": 1,
+      "gas:candidate-vibid:1001000121282": 2,
+      "gas:candidate-vibid:1001000225955": 39,
+      "gas:candidate-vibid:250200071646": 2,
+      "gas:candidate-vibid:1001000112228": 31,
+      "gas:candidate-vibid:1001000289809": 6,
+      "gas:candidate-vibid:250200071643": 2,
+      "gas:candidate-vibid:1001000190374": 12,
+      "gas:candidate-vibid:1001000195099": 16,
+      "gas:candidate-vibid:1001000217936": 6,
+      "special:against-all": 78
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=503007003&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=350300771049&region=0&sub_region=0&type=429",
@@ -12508,19 +12508,19 @@ export const duma_2003_uik_428_region_50_part_008 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Алкснис Виктор Имантович": 165,
-      "Вахания Владимир Виссарионович": 8,
-      "Волынец Алексей Николаевич": 5,
-      "Гужва Александр Алексеевич": 8,
-      "Ковалев Николай Дмитриевич": 114,
-      "Круговых Игорь Эрикович": 6,
-      "Лукин Владимир Петрович": 84,
-      "Рохмистров Максим Станиславович": 17,
-      "Синдревич Станислав Викторович": 2,
-      "Собакин Евгений Юрьевич": 17,
-      "Соколкова Наталья Геннадьевна": 34,
-      "Тарасов Евгений Александрович": 19,
-      "Против всех": 207
+      "gas:candidate-vibid:1001000202317": 165,
+      "gas:candidate-vibid:250200071637": 8,
+      "gas:candidate-vibid:250200071640": 5,
+      "gas:candidate-vibid:1001000121282": 8,
+      "gas:candidate-vibid:1001000225955": 114,
+      "gas:candidate-vibid:250200071646": 6,
+      "gas:candidate-vibid:1001000112228": 84,
+      "gas:candidate-vibid:1001000289809": 17,
+      "gas:candidate-vibid:250200071643": 2,
+      "gas:candidate-vibid:1001000190374": 17,
+      "gas:candidate-vibid:1001000195099": 34,
+      "gas:candidate-vibid:1001000217936": 19,
+      "special:against-all": 207
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=503007003&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=350300771049&region=0&sub_region=0&type=429",
@@ -12570,19 +12570,19 @@ export const duma_2003_uik_428_region_50_part_008 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Алкснис Виктор Имантович": 205,
-      "Вахания Владимир Виссарионович": 10,
-      "Волынец Алексей Николаевич": 4,
-      "Гужва Александр Алексеевич": 7,
-      "Ковалев Николай Дмитриевич": 72,
-      "Круговых Игорь Эрикович": 4,
-      "Лукин Владимир Петрович": 87,
-      "Рохмистров Максим Станиславович": 15,
-      "Синдревич Станислав Викторович": 2,
-      "Собакин Евгений Юрьевич": 20,
-      "Соколкова Наталья Геннадьевна": 42,
-      "Тарасов Евгений Александрович": 23,
-      "Против всех": 220
+      "gas:candidate-vibid:1001000202317": 205,
+      "gas:candidate-vibid:250200071637": 10,
+      "gas:candidate-vibid:250200071640": 4,
+      "gas:candidate-vibid:1001000121282": 7,
+      "gas:candidate-vibid:1001000225955": 72,
+      "gas:candidate-vibid:250200071646": 4,
+      "gas:candidate-vibid:1001000112228": 87,
+      "gas:candidate-vibid:1001000289809": 15,
+      "gas:candidate-vibid:250200071643": 2,
+      "gas:candidate-vibid:1001000190374": 20,
+      "gas:candidate-vibid:1001000195099": 42,
+      "gas:candidate-vibid:1001000217936": 23,
+      "special:against-all": 220
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=503007003&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=350300771049&region=0&sub_region=0&type=429",
@@ -12632,19 +12632,19 @@ export const duma_2003_uik_428_region_50_part_008 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Алкснис Виктор Имантович": 403,
-      "Вахания Владимир Виссарионович": 10,
-      "Волынец Алексей Николаевич": 5,
-      "Гужва Александр Алексеевич": 9,
-      "Ковалев Николай Дмитриевич": 140,
-      "Круговых Игорь Эрикович": 2,
-      "Лукин Владимир Петрович": 116,
-      "Рохмистров Максим Станиславович": 26,
-      "Синдревич Станислав Викторович": 3,
-      "Собакин Евгений Юрьевич": 18,
-      "Соколкова Наталья Геннадьевна": 52,
-      "Тарасов Евгений Александрович": 22,
-      "Против всех": 350
+      "gas:candidate-vibid:1001000202317": 403,
+      "gas:candidate-vibid:250200071637": 10,
+      "gas:candidate-vibid:250200071640": 5,
+      "gas:candidate-vibid:1001000121282": 9,
+      "gas:candidate-vibid:1001000225955": 140,
+      "gas:candidate-vibid:250200071646": 2,
+      "gas:candidate-vibid:1001000112228": 116,
+      "gas:candidate-vibid:1001000289809": 26,
+      "gas:candidate-vibid:250200071643": 3,
+      "gas:candidate-vibid:1001000190374": 18,
+      "gas:candidate-vibid:1001000195099": 52,
+      "gas:candidate-vibid:1001000217936": 22,
+      "special:against-all": 350
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=503007003&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=350300771049&region=0&sub_region=0&type=429",
@@ -12694,19 +12694,19 @@ export const duma_2003_uik_428_region_50_part_008 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Алкснис Виктор Имантович": 341,
-      "Вахания Владимир Виссарионович": 10,
-      "Волынец Алексей Николаевич": 13,
-      "Гужва Александр Алексеевич": 14,
-      "Ковалев Николай Дмитриевич": 185,
-      "Круговых Игорь Эрикович": 13,
-      "Лукин Владимир Петрович": 278,
-      "Рохмистров Максим Станиславович": 30,
-      "Синдревич Станислав Викторович": 6,
-      "Собакин Евгений Юрьевич": 21,
-      "Соколкова Наталья Геннадьевна": 56,
-      "Тарасов Евгений Александрович": 53,
-      "Против всех": 439
+      "gas:candidate-vibid:1001000202317": 341,
+      "gas:candidate-vibid:250200071637": 10,
+      "gas:candidate-vibid:250200071640": 13,
+      "gas:candidate-vibid:1001000121282": 14,
+      "gas:candidate-vibid:1001000225955": 185,
+      "gas:candidate-vibid:250200071646": 13,
+      "gas:candidate-vibid:1001000112228": 278,
+      "gas:candidate-vibid:1001000289809": 30,
+      "gas:candidate-vibid:250200071643": 6,
+      "gas:candidate-vibid:1001000190374": 21,
+      "gas:candidate-vibid:1001000195099": 56,
+      "gas:candidate-vibid:1001000217936": 53,
+      "special:against-all": 439
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=503007003&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=350300771049&region=0&sub_region=0&type=429",
@@ -12756,19 +12756,19 @@ export const duma_2003_uik_428_region_50_part_008 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Алкснис Виктор Имантович": 41,
-      "Вахания Владимир Виссарионович": 2,
-      "Волынец Алексей Николаевич": 0,
-      "Гужва Александр Алексеевич": 0,
-      "Ковалев Николай Дмитриевич": 19,
-      "Круговых Игорь Эрикович": 0,
-      "Лукин Владимир Петрович": 24,
-      "Рохмистров Максим Станиславович": 6,
-      "Синдревич Станислав Викторович": 0,
-      "Собакин Евгений Юрьевич": 9,
-      "Соколкова Наталья Геннадьевна": 3,
-      "Тарасов Евгений Александрович": 3,
-      "Против всех": 20
+      "gas:candidate-vibid:1001000202317": 41,
+      "gas:candidate-vibid:250200071637": 2,
+      "gas:candidate-vibid:250200071640": 0,
+      "gas:candidate-vibid:1001000121282": 0,
+      "gas:candidate-vibid:1001000225955": 19,
+      "gas:candidate-vibid:250200071646": 0,
+      "gas:candidate-vibid:1001000112228": 24,
+      "gas:candidate-vibid:1001000289809": 6,
+      "gas:candidate-vibid:250200071643": 0,
+      "gas:candidate-vibid:1001000190374": 9,
+      "gas:candidate-vibid:1001000195099": 3,
+      "gas:candidate-vibid:1001000217936": 3,
+      "special:against-all": 20
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=503007003&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=350300771049&region=0&sub_region=0&type=429",
@@ -12818,19 +12818,19 @@ export const duma_2003_uik_428_region_50_part_008 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Алкснис Виктор Имантович": 22,
-      "Вахания Владимир Виссарионович": 0,
-      "Волынец Алексей Николаевич": 0,
-      "Гужва Александр Алексеевич": 0,
-      "Ковалев Николай Дмитриевич": 2,
-      "Круговых Игорь Эрикович": 1,
-      "Лукин Владимир Петрович": 9,
-      "Рохмистров Максим Станиславович": 1,
-      "Синдревич Станислав Викторович": 1,
-      "Собакин Евгений Юрьевич": 10,
-      "Соколкова Наталья Геннадьевна": 3,
-      "Тарасов Евгений Александрович": 1,
-      "Против всех": 8
+      "gas:candidate-vibid:1001000202317": 22,
+      "gas:candidate-vibid:250200071637": 0,
+      "gas:candidate-vibid:250200071640": 0,
+      "gas:candidate-vibid:1001000121282": 0,
+      "gas:candidate-vibid:1001000225955": 2,
+      "gas:candidate-vibid:250200071646": 1,
+      "gas:candidate-vibid:1001000112228": 9,
+      "gas:candidate-vibid:1001000289809": 1,
+      "gas:candidate-vibid:250200071643": 1,
+      "gas:candidate-vibid:1001000190374": 10,
+      "gas:candidate-vibid:1001000195099": 3,
+      "gas:candidate-vibid:1001000217936": 1,
+      "special:against-all": 8
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=503007003&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=350300771049&region=0&sub_region=0&type=429",
@@ -12880,19 +12880,19 @@ export const duma_2003_uik_428_region_50_part_008 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Алкснис Виктор Имантович": 45,
-      "Вахания Владимир Виссарионович": 2,
-      "Волынец Алексей Николаевич": 3,
-      "Гужва Александр Алексеевич": 2,
-      "Ковалев Николай Дмитриевич": 38,
-      "Круговых Игорь Эрикович": 1,
-      "Лукин Владимир Петрович": 37,
-      "Рохмистров Максим Станиславович": 6,
-      "Синдревич Станислав Викторович": 0,
-      "Собакин Евгений Юрьевич": 11,
-      "Соколкова Наталья Геннадьевна": 19,
-      "Тарасов Евгений Александрович": 4,
-      "Против всех": 65
+      "gas:candidate-vibid:1001000202317": 45,
+      "gas:candidate-vibid:250200071637": 2,
+      "gas:candidate-vibid:250200071640": 3,
+      "gas:candidate-vibid:1001000121282": 2,
+      "gas:candidate-vibid:1001000225955": 38,
+      "gas:candidate-vibid:250200071646": 1,
+      "gas:candidate-vibid:1001000112228": 37,
+      "gas:candidate-vibid:1001000289809": 6,
+      "gas:candidate-vibid:250200071643": 0,
+      "gas:candidate-vibid:1001000190374": 11,
+      "gas:candidate-vibid:1001000195099": 19,
+      "gas:candidate-vibid:1001000217936": 4,
+      "special:against-all": 65
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=503007003&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=350300771049&region=0&sub_region=0&type=429",
@@ -12942,19 +12942,19 @@ export const duma_2003_uik_428_region_50_part_008 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Алкснис Виктор Имантович": 81,
-      "Вахания Владимир Виссарионович": 11,
-      "Волынец Алексей Николаевич": 2,
-      "Гужва Александр Алексеевич": 2,
-      "Ковалев Николай Дмитриевич": 37,
-      "Круговых Игорь Эрикович": 4,
-      "Лукин Владимир Петрович": 27,
-      "Рохмистров Максим Станиславович": 9,
-      "Синдревич Станислав Викторович": 0,
-      "Собакин Евгений Юрьевич": 5,
-      "Соколкова Наталья Геннадьевна": 14,
-      "Тарасов Евгений Александрович": 13,
-      "Против всех": 83
+      "gas:candidate-vibid:1001000202317": 81,
+      "gas:candidate-vibid:250200071637": 11,
+      "gas:candidate-vibid:250200071640": 2,
+      "gas:candidate-vibid:1001000121282": 2,
+      "gas:candidate-vibid:1001000225955": 37,
+      "gas:candidate-vibid:250200071646": 4,
+      "gas:candidate-vibid:1001000112228": 27,
+      "gas:candidate-vibid:1001000289809": 9,
+      "gas:candidate-vibid:250200071643": 0,
+      "gas:candidate-vibid:1001000190374": 5,
+      "gas:candidate-vibid:1001000195099": 14,
+      "gas:candidate-vibid:1001000217936": 13,
+      "special:against-all": 83
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=503007003&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=350300771049&region=0&sub_region=0&type=429",
@@ -13004,19 +13004,19 @@ export const duma_2003_uik_428_region_50_part_008 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Алкснис Виктор Имантович": 13,
-      "Вахания Владимир Виссарионович": 2,
-      "Волынец Алексей Николаевич": 1,
-      "Гужва Александр Алексеевич": 1,
-      "Ковалев Николай Дмитриевич": 34,
-      "Круговых Игорь Эрикович": 2,
-      "Лукин Владимир Петрович": 44,
-      "Рохмистров Максим Станиславович": 2,
-      "Синдревич Станислав Викторович": 3,
-      "Собакин Евгений Юрьевич": 10,
-      "Соколкова Наталья Геннадьевна": 11,
-      "Тарасов Евгений Александрович": 5,
-      "Против всех": 61
+      "gas:candidate-vibid:1001000202317": 13,
+      "gas:candidate-vibid:250200071637": 2,
+      "gas:candidate-vibid:250200071640": 1,
+      "gas:candidate-vibid:1001000121282": 1,
+      "gas:candidate-vibid:1001000225955": 34,
+      "gas:candidate-vibid:250200071646": 2,
+      "gas:candidate-vibid:1001000112228": 44,
+      "gas:candidate-vibid:1001000289809": 2,
+      "gas:candidate-vibid:250200071643": 3,
+      "gas:candidate-vibid:1001000190374": 10,
+      "gas:candidate-vibid:1001000195099": 11,
+      "gas:candidate-vibid:1001000217936": 5,
+      "special:against-all": 61
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=503007003&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=350300771049&region=0&sub_region=0&type=429",
@@ -13066,19 +13066,19 @@ export const duma_2003_uik_428_region_50_part_008 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Алкснис Виктор Имантович": 193,
-      "Вахания Владимир Виссарионович": 16,
-      "Волынец Алексей Николаевич": 4,
-      "Гужва Александр Алексеевич": 3,
-      "Ковалев Николай Дмитриевич": 98,
-      "Круговых Игорь Эрикович": 1,
-      "Лукин Владимир Петрович": 59,
-      "Рохмистров Максим Станиславович": 9,
-      "Синдревич Станислав Викторович": 2,
-      "Собакин Евгений Юрьевич": 5,
-      "Соколкова Наталья Геннадьевна": 23,
-      "Тарасов Евгений Александрович": 3,
-      "Против всех": 145
+      "gas:candidate-vibid:1001000202317": 193,
+      "gas:candidate-vibid:250200071637": 16,
+      "gas:candidate-vibid:250200071640": 4,
+      "gas:candidate-vibid:1001000121282": 3,
+      "gas:candidate-vibid:1001000225955": 98,
+      "gas:candidate-vibid:250200071646": 1,
+      "gas:candidate-vibid:1001000112228": 59,
+      "gas:candidate-vibid:1001000289809": 9,
+      "gas:candidate-vibid:250200071643": 2,
+      "gas:candidate-vibid:1001000190374": 5,
+      "gas:candidate-vibid:1001000195099": 23,
+      "gas:candidate-vibid:1001000217936": 3,
+      "special:against-all": 145
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=503007003&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=350300771049&region=0&sub_region=0&type=429",
@@ -13128,19 +13128,19 @@ export const duma_2003_uik_428_region_50_part_008 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Алкснис Виктор Имантович": 45,
-      "Вахания Владимир Виссарионович": 1,
-      "Волынец Алексей Николаевич": 1,
-      "Гужва Александр Алексеевич": 3,
-      "Ковалев Николай Дмитриевич": 36,
-      "Круговых Игорь Эрикович": 2,
-      "Лукин Владимир Петрович": 61,
-      "Рохмистров Максим Станиславович": 6,
-      "Синдревич Станислав Викторович": 1,
-      "Собакин Евгений Юрьевич": 9,
-      "Соколкова Наталья Геннадьевна": 17,
-      "Тарасов Евгений Александрович": 34,
-      "Против всех": 88
+      "gas:candidate-vibid:1001000202317": 45,
+      "gas:candidate-vibid:250200071637": 1,
+      "gas:candidate-vibid:250200071640": 1,
+      "gas:candidate-vibid:1001000121282": 3,
+      "gas:candidate-vibid:1001000225955": 36,
+      "gas:candidate-vibid:250200071646": 2,
+      "gas:candidate-vibid:1001000112228": 61,
+      "gas:candidate-vibid:1001000289809": 6,
+      "gas:candidate-vibid:250200071643": 1,
+      "gas:candidate-vibid:1001000190374": 9,
+      "gas:candidate-vibid:1001000195099": 17,
+      "gas:candidate-vibid:1001000217936": 34,
+      "special:against-all": 88
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=503007003&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=350300771049&region=0&sub_region=0&type=429",
@@ -13190,19 +13190,19 @@ export const duma_2003_uik_428_region_50_part_008 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Алкснис Виктор Имантович": 350,
-      "Вахания Владимир Виссарионович": 95,
-      "Волынец Алексей Николаевич": 12,
-      "Гужва Александр Алексеевич": 4,
-      "Ковалев Николай Дмитриевич": 233,
-      "Круговых Игорь Эрикович": 5,
-      "Лукин Владимир Петрович": 202,
-      "Рохмистров Максим Станиславович": 39,
-      "Синдревич Станислав Викторович": 3,
-      "Собакин Евгений Юрьевич": 17,
-      "Соколкова Наталья Геннадьевна": 68,
-      "Тарасов Евгений Александрович": 41,
-      "Против всех": 337
+      "gas:candidate-vibid:1001000202317": 350,
+      "gas:candidate-vibid:250200071637": 95,
+      "gas:candidate-vibid:250200071640": 12,
+      "gas:candidate-vibid:1001000121282": 4,
+      "gas:candidate-vibid:1001000225955": 233,
+      "gas:candidate-vibid:250200071646": 5,
+      "gas:candidate-vibid:1001000112228": 202,
+      "gas:candidate-vibid:1001000289809": 39,
+      "gas:candidate-vibid:250200071643": 3,
+      "gas:candidate-vibid:1001000190374": 17,
+      "gas:candidate-vibid:1001000195099": 68,
+      "gas:candidate-vibid:1001000217936": 41,
+      "special:against-all": 337
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=503007003&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=350300771049&region=0&sub_region=0&type=429",
@@ -13252,19 +13252,19 @@ export const duma_2003_uik_428_region_50_part_008 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Алкснис Виктор Имантович": 346,
-      "Вахания Владимир Виссарионович": 63,
-      "Волынец Алексей Николаевич": 10,
-      "Гужва Александр Алексеевич": 8,
-      "Ковалев Николай Дмитриевич": 192,
-      "Круговых Игорь Эрикович": 9,
-      "Лукин Владимир Петрович": 180,
-      "Рохмистров Максим Станиславович": 42,
-      "Синдревич Станислав Викторович": 5,
-      "Собакин Евгений Юрьевич": 16,
-      "Соколкова Наталья Геннадьевна": 78,
-      "Тарасов Евгений Александрович": 45,
-      "Против всех": 356
+      "gas:candidate-vibid:1001000202317": 346,
+      "gas:candidate-vibid:250200071637": 63,
+      "gas:candidate-vibid:250200071640": 10,
+      "gas:candidate-vibid:1001000121282": 8,
+      "gas:candidate-vibid:1001000225955": 192,
+      "gas:candidate-vibid:250200071646": 9,
+      "gas:candidate-vibid:1001000112228": 180,
+      "gas:candidate-vibid:1001000289809": 42,
+      "gas:candidate-vibid:250200071643": 5,
+      "gas:candidate-vibid:1001000190374": 16,
+      "gas:candidate-vibid:1001000195099": 78,
+      "gas:candidate-vibid:1001000217936": 45,
+      "special:against-all": 356
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=503007003&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=350300771049&region=0&sub_region=0&type=429",
@@ -13314,19 +13314,19 @@ export const duma_2003_uik_428_region_50_part_008 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Алкснис Виктор Имантович": 283,
-      "Вахания Владимир Виссарионович": 105,
-      "Волынец Алексей Николаевич": 12,
-      "Гужва Александр Алексеевич": 14,
-      "Ковалев Николай Дмитриевич": 187,
-      "Круговых Игорь Эрикович": 9,
-      "Лукин Владимир Петрович": 157,
-      "Рохмистров Максим Станиславович": 43,
-      "Синдревич Станислав Викторович": 5,
-      "Собакин Евгений Юрьевич": 11,
-      "Соколкова Наталья Геннадьевна": 47,
-      "Тарасов Евгений Александрович": 29,
-      "Против всех": 448
+      "gas:candidate-vibid:1001000202317": 283,
+      "gas:candidate-vibid:250200071637": 105,
+      "gas:candidate-vibid:250200071640": 12,
+      "gas:candidate-vibid:1001000121282": 14,
+      "gas:candidate-vibid:1001000225955": 187,
+      "gas:candidate-vibid:250200071646": 9,
+      "gas:candidate-vibid:1001000112228": 157,
+      "gas:candidate-vibid:1001000289809": 43,
+      "gas:candidate-vibid:250200071643": 5,
+      "gas:candidate-vibid:1001000190374": 11,
+      "gas:candidate-vibid:1001000195099": 47,
+      "gas:candidate-vibid:1001000217936": 29,
+      "special:against-all": 448
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=503007003&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=350300771049&region=0&sub_region=0&type=429",
@@ -13376,19 +13376,19 @@ export const duma_2003_uik_428_region_50_part_008 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Алкснис Виктор Имантович": 24,
-      "Вахания Владимир Виссарионович": 2,
-      "Волынец Алексей Николаевич": 2,
-      "Гужва Александр Алексеевич": 2,
-      "Ковалев Николай Дмитриевич": 41,
-      "Круговых Игорь Эрикович": 1,
-      "Лукин Владимир Петрович": 34,
-      "Рохмистров Максим Станиславович": 2,
-      "Синдревич Станислав Викторович": 0,
-      "Собакин Евгений Юрьевич": 3,
-      "Соколкова Наталья Геннадьевна": 5,
-      "Тарасов Евгений Александрович": 7,
-      "Против всех": 30
+      "gas:candidate-vibid:1001000202317": 24,
+      "gas:candidate-vibid:250200071637": 2,
+      "gas:candidate-vibid:250200071640": 2,
+      "gas:candidate-vibid:1001000121282": 2,
+      "gas:candidate-vibid:1001000225955": 41,
+      "gas:candidate-vibid:250200071646": 1,
+      "gas:candidate-vibid:1001000112228": 34,
+      "gas:candidate-vibid:1001000289809": 2,
+      "gas:candidate-vibid:250200071643": 0,
+      "gas:candidate-vibid:1001000190374": 3,
+      "gas:candidate-vibid:1001000195099": 5,
+      "gas:candidate-vibid:1001000217936": 7,
+      "special:against-all": 30
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=503007003&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=350300771049&region=0&sub_region=0&type=429",
@@ -13438,19 +13438,19 @@ export const duma_2003_uik_428_region_50_part_008 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Алкснис Виктор Имантович": 53,
-      "Вахания Владимир Виссарионович": 7,
-      "Волынец Алексей Николаевич": 4,
-      "Гужва Александр Алексеевич": 1,
-      "Ковалев Николай Дмитриевич": 85,
-      "Круговых Игорь Эрикович": 2,
-      "Лукин Владимир Петрович": 59,
-      "Рохмистров Максим Станиславович": 9,
-      "Синдревич Станислав Викторович": 2,
-      "Собакин Евгений Юрьевич": 13,
-      "Соколкова Наталья Геннадьевна": 13,
-      "Тарасов Евгений Александрович": 14,
-      "Против всех": 100
+      "gas:candidate-vibid:1001000202317": 53,
+      "gas:candidate-vibid:250200071637": 7,
+      "gas:candidate-vibid:250200071640": 4,
+      "gas:candidate-vibid:1001000121282": 1,
+      "gas:candidate-vibid:1001000225955": 85,
+      "gas:candidate-vibid:250200071646": 2,
+      "gas:candidate-vibid:1001000112228": 59,
+      "gas:candidate-vibid:1001000289809": 9,
+      "gas:candidate-vibid:250200071643": 2,
+      "gas:candidate-vibid:1001000190374": 13,
+      "gas:candidate-vibid:1001000195099": 13,
+      "gas:candidate-vibid:1001000217936": 14,
+      "special:against-all": 100
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=503007003&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=350300771049&region=0&sub_region=0&type=429",
@@ -13500,19 +13500,19 @@ export const duma_2003_uik_428_region_50_part_008 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Алкснис Виктор Имантович": 217,
-      "Вахания Владимир Виссарионович": 8,
-      "Волынец Алексей Николаевич": 4,
-      "Гужва Александр Алексеевич": 7,
-      "Ковалев Николай Дмитриевич": 162,
-      "Круговых Игорь Эрикович": 7,
-      "Лукин Владимир Петрович": 180,
-      "Рохмистров Максим Станиславович": 23,
-      "Синдревич Станислав Викторович": 1,
-      "Собакин Евгений Юрьевич": 64,
-      "Соколкова Наталья Геннадьевна": 55,
-      "Тарасов Евгений Александрович": 35,
-      "Против всех": 307
+      "gas:candidate-vibid:1001000202317": 217,
+      "gas:candidate-vibid:250200071637": 8,
+      "gas:candidate-vibid:250200071640": 4,
+      "gas:candidate-vibid:1001000121282": 7,
+      "gas:candidate-vibid:1001000225955": 162,
+      "gas:candidate-vibid:250200071646": 7,
+      "gas:candidate-vibid:1001000112228": 180,
+      "gas:candidate-vibid:1001000289809": 23,
+      "gas:candidate-vibid:250200071643": 1,
+      "gas:candidate-vibid:1001000190374": 64,
+      "gas:candidate-vibid:1001000195099": 55,
+      "gas:candidate-vibid:1001000217936": 35,
+      "special:against-all": 307
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=503007003&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=350300771049&region=0&sub_region=0&type=429",
@@ -13562,19 +13562,19 @@ export const duma_2003_uik_428_region_50_part_008 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Алкснис Виктор Имантович": 243,
-      "Вахания Владимир Виссарионович": 4,
-      "Волынец Алексей Николаевич": 2,
-      "Гужва Александр Алексеевич": 9,
-      "Ковалев Николай Дмитриевич": 198,
-      "Круговых Игорь Эрикович": 6,
-      "Лукин Владимир Петрович": 259,
-      "Рохмистров Максим Станиславович": 20,
-      "Синдревич Станислав Викторович": 2,
-      "Собакин Евгений Юрьевич": 69,
-      "Соколкова Наталья Геннадьевна": 46,
-      "Тарасов Евгений Александрович": 42,
-      "Против всех": 297
+      "gas:candidate-vibid:1001000202317": 243,
+      "gas:candidate-vibid:250200071637": 4,
+      "gas:candidate-vibid:250200071640": 2,
+      "gas:candidate-vibid:1001000121282": 9,
+      "gas:candidate-vibid:1001000225955": 198,
+      "gas:candidate-vibid:250200071646": 6,
+      "gas:candidate-vibid:1001000112228": 259,
+      "gas:candidate-vibid:1001000289809": 20,
+      "gas:candidate-vibid:250200071643": 2,
+      "gas:candidate-vibid:1001000190374": 69,
+      "gas:candidate-vibid:1001000195099": 46,
+      "gas:candidate-vibid:1001000217936": 42,
+      "special:against-all": 297
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=503007003&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=350300771049&region=0&sub_region=0&type=429",
@@ -13624,19 +13624,19 @@ export const duma_2003_uik_428_region_50_part_008 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Алкснис Виктор Имантович": 169,
-      "Вахания Владимир Виссарионович": 4,
-      "Волынец Алексей Николаевич": 3,
-      "Гужва Александр Алексеевич": 5,
-      "Ковалев Николай Дмитриевич": 145,
-      "Круговых Игорь Эрикович": 4,
-      "Лукин Владимир Петрович": 195,
-      "Рохмистров Максим Станиславович": 19,
-      "Синдревич Станислав Викторович": 1,
-      "Собакин Евгений Юрьевич": 51,
-      "Соколкова Наталья Геннадьевна": 33,
-      "Тарасов Евгений Александрович": 28,
-      "Против всех": 317
+      "gas:candidate-vibid:1001000202317": 169,
+      "gas:candidate-vibid:250200071637": 4,
+      "gas:candidate-vibid:250200071640": 3,
+      "gas:candidate-vibid:1001000121282": 5,
+      "gas:candidate-vibid:1001000225955": 145,
+      "gas:candidate-vibid:250200071646": 4,
+      "gas:candidate-vibid:1001000112228": 195,
+      "gas:candidate-vibid:1001000289809": 19,
+      "gas:candidate-vibid:250200071643": 1,
+      "gas:candidate-vibid:1001000190374": 51,
+      "gas:candidate-vibid:1001000195099": 33,
+      "gas:candidate-vibid:1001000217936": 28,
+      "special:against-all": 317
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=503007003&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=350300771049&region=0&sub_region=0&type=429",
@@ -13686,19 +13686,19 @@ export const duma_2003_uik_428_region_50_part_008 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Алкснис Виктор Имантович": 81,
-      "Вахания Владимир Виссарионович": 4,
-      "Волынец Алексей Николаевич": 3,
-      "Гужва Александр Алексеевич": 5,
-      "Ковалев Николай Дмитриевич": 94,
-      "Круговых Игорь Эрикович": 1,
-      "Лукин Владимир Петрович": 153,
-      "Рохмистров Максим Станиславович": 8,
-      "Синдревич Станислав Викторович": 4,
-      "Собакин Евгений Юрьевич": 26,
-      "Соколкова Наталья Геннадьевна": 26,
-      "Тарасов Евгений Александрович": 16,
-      "Против всех": 227
+      "gas:candidate-vibid:1001000202317": 81,
+      "gas:candidate-vibid:250200071637": 4,
+      "gas:candidate-vibid:250200071640": 3,
+      "gas:candidate-vibid:1001000121282": 5,
+      "gas:candidate-vibid:1001000225955": 94,
+      "gas:candidate-vibid:250200071646": 1,
+      "gas:candidate-vibid:1001000112228": 153,
+      "gas:candidate-vibid:1001000289809": 8,
+      "gas:candidate-vibid:250200071643": 4,
+      "gas:candidate-vibid:1001000190374": 26,
+      "gas:candidate-vibid:1001000195099": 26,
+      "gas:candidate-vibid:1001000217936": 16,
+      "special:against-all": 227
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=503007003&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=350300771049&region=0&sub_region=0&type=429",
@@ -13748,19 +13748,19 @@ export const duma_2003_uik_428_region_50_part_008 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Алкснис Виктор Имантович": 222,
-      "Вахания Владимир Виссарионович": 10,
-      "Волынец Алексей Николаевич": 12,
-      "Гужва Александр Алексеевич": 7,
-      "Ковалев Николай Дмитриевич": 139,
-      "Круговых Игорь Эрикович": 10,
-      "Лукин Владимир Петрович": 277,
-      "Рохмистров Максим Станиславович": 32,
-      "Синдревич Станислав Викторович": 6,
-      "Собакин Евгений Юрьевич": 57,
-      "Соколкова Наталья Геннадьевна": 59,
-      "Тарасов Евгений Александрович": 55,
-      "Против всех": 421
+      "gas:candidate-vibid:1001000202317": 222,
+      "gas:candidate-vibid:250200071637": 10,
+      "gas:candidate-vibid:250200071640": 12,
+      "gas:candidate-vibid:1001000121282": 7,
+      "gas:candidate-vibid:1001000225955": 139,
+      "gas:candidate-vibid:250200071646": 10,
+      "gas:candidate-vibid:1001000112228": 277,
+      "gas:candidate-vibid:1001000289809": 32,
+      "gas:candidate-vibid:250200071643": 6,
+      "gas:candidate-vibid:1001000190374": 57,
+      "gas:candidate-vibid:1001000195099": 59,
+      "gas:candidate-vibid:1001000217936": 55,
+      "special:against-all": 421
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=503007003&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=350300771049&region=0&sub_region=0&type=429",
@@ -13810,19 +13810,19 @@ export const duma_2003_uik_428_region_50_part_008 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Алкснис Виктор Имантович": 26,
-      "Вахания Владимир Виссарионович": 1,
-      "Волынец Алексей Николаевич": 0,
-      "Гужва Александр Алексеевич": 3,
-      "Ковалев Николай Дмитриевич": 10,
-      "Круговых Игорь Эрикович": 1,
-      "Лукин Владимир Петрович": 14,
-      "Рохмистров Максим Станиславович": 1,
-      "Синдревич Станислав Викторович": 0,
-      "Собакин Евгений Юрьевич": 7,
-      "Соколкова Наталья Геннадьевна": 4,
-      "Тарасов Евгений Александрович": 2,
-      "Против всех": 45
+      "gas:candidate-vibid:1001000202317": 26,
+      "gas:candidate-vibid:250200071637": 1,
+      "gas:candidate-vibid:250200071640": 0,
+      "gas:candidate-vibid:1001000121282": 3,
+      "gas:candidate-vibid:1001000225955": 10,
+      "gas:candidate-vibid:250200071646": 1,
+      "gas:candidate-vibid:1001000112228": 14,
+      "gas:candidate-vibid:1001000289809": 1,
+      "gas:candidate-vibid:250200071643": 0,
+      "gas:candidate-vibid:1001000190374": 7,
+      "gas:candidate-vibid:1001000195099": 4,
+      "gas:candidate-vibid:1001000217936": 2,
+      "special:against-all": 45
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=503007003&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=350300771049&region=0&sub_region=0&type=429",
@@ -13872,19 +13872,19 @@ export const duma_2003_uik_428_region_50_part_008 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Алкснис Виктор Имантович": 249,
-      "Вахания Владимир Виссарионович": 7,
-      "Волынец Алексей Николаевич": 5,
-      "Гужва Александр Алексеевич": 14,
-      "Ковалев Николай Дмитриевич": 110,
-      "Круговых Игорь Эрикович": 7,
-      "Лукин Владимир Петрович": 176,
-      "Рохмистров Максим Станиславович": 18,
-      "Синдревич Станислав Викторович": 1,
-      "Собакин Евгений Юрьевич": 51,
-      "Соколкова Наталья Геннадьевна": 51,
-      "Тарасов Евгений Александрович": 33,
-      "Против всех": 412
+      "gas:candidate-vibid:1001000202317": 249,
+      "gas:candidate-vibid:250200071637": 7,
+      "gas:candidate-vibid:250200071640": 5,
+      "gas:candidate-vibid:1001000121282": 14,
+      "gas:candidate-vibid:1001000225955": 110,
+      "gas:candidate-vibid:250200071646": 7,
+      "gas:candidate-vibid:1001000112228": 176,
+      "gas:candidate-vibid:1001000289809": 18,
+      "gas:candidate-vibid:250200071643": 1,
+      "gas:candidate-vibid:1001000190374": 51,
+      "gas:candidate-vibid:1001000195099": 51,
+      "gas:candidate-vibid:1001000217936": 33,
+      "special:against-all": 412
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=503007003&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=350300771049&region=0&sub_region=0&type=429",
@@ -13934,19 +13934,19 @@ export const duma_2003_uik_428_region_50_part_008 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Алкснис Виктор Имантович": 28,
-      "Вахания Владимир Виссарионович": 2,
-      "Волынец Алексей Николаевич": 2,
-      "Гужва Александр Алексеевич": 1,
-      "Ковалев Николай Дмитриевич": 22,
-      "Круговых Игорь Эрикович": 1,
-      "Лукин Владимир Петрович": 12,
-      "Рохмистров Максим Станиславович": 0,
-      "Синдревич Станислав Викторович": 1,
-      "Собакин Евгений Юрьевич": 6,
-      "Соколкова Наталья Геннадьевна": 4,
-      "Тарасов Евгений Александрович": 1,
-      "Против всех": 20
+      "gas:candidate-vibid:1001000202317": 28,
+      "gas:candidate-vibid:250200071637": 2,
+      "gas:candidate-vibid:250200071640": 2,
+      "gas:candidate-vibid:1001000121282": 1,
+      "gas:candidate-vibid:1001000225955": 22,
+      "gas:candidate-vibid:250200071646": 1,
+      "gas:candidate-vibid:1001000112228": 12,
+      "gas:candidate-vibid:1001000289809": 0,
+      "gas:candidate-vibid:250200071643": 1,
+      "gas:candidate-vibid:1001000190374": 6,
+      "gas:candidate-vibid:1001000195099": 4,
+      "gas:candidate-vibid:1001000217936": 1,
+      "special:against-all": 20
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=503007003&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=350300771049&region=0&sub_region=0&type=429",
@@ -13996,19 +13996,19 @@ export const duma_2003_uik_428_region_50_part_008 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Алкснис Виктор Имантович": 308,
-      "Вахания Владимир Виссарионович": 35,
-      "Волынец Алексей Николаевич": 3,
-      "Гужва Александр Алексеевич": 7,
-      "Ковалев Николай Дмитриевич": 159,
-      "Круговых Игорь Эрикович": 5,
-      "Лукин Владимир Петрович": 201,
-      "Рохмистров Максим Станиславович": 32,
-      "Синдревич Станислав Викторович": 3,
-      "Собакин Евгений Юрьевич": 38,
-      "Соколкова Наталья Геннадьевна": 43,
-      "Тарасов Евгений Александрович": 29,
-      "Против всех": 328
+      "gas:candidate-vibid:1001000202317": 308,
+      "gas:candidate-vibid:250200071637": 35,
+      "gas:candidate-vibid:250200071640": 3,
+      "gas:candidate-vibid:1001000121282": 7,
+      "gas:candidate-vibid:1001000225955": 159,
+      "gas:candidate-vibid:250200071646": 5,
+      "gas:candidate-vibid:1001000112228": 201,
+      "gas:candidate-vibid:1001000289809": 32,
+      "gas:candidate-vibid:250200071643": 3,
+      "gas:candidate-vibid:1001000190374": 38,
+      "gas:candidate-vibid:1001000195099": 43,
+      "gas:candidate-vibid:1001000217936": 29,
+      "special:against-all": 328
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=503007003&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=350300771049&region=0&sub_region=0&type=429",
@@ -14058,19 +14058,19 @@ export const duma_2003_uik_428_region_50_part_008 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Алкснис Виктор Имантович": 238,
-      "Вахания Владимир Виссарионович": 13,
-      "Волынец Алексей Николаевич": 3,
-      "Гужва Александр Алексеевич": 8,
-      "Ковалев Николай Дмитриевич": 216,
-      "Круговых Игорь Эрикович": 4,
-      "Лукин Владимир Петрович": 194,
-      "Рохмистров Максим Станиславович": 17,
-      "Синдревич Станислав Викторович": 2,
-      "Собакин Евгений Юрьевич": 40,
-      "Соколкова Наталья Геннадьевна": 51,
-      "Тарасов Евгений Александрович": 38,
-      "Против всех": 303
+      "gas:candidate-vibid:1001000202317": 238,
+      "gas:candidate-vibid:250200071637": 13,
+      "gas:candidate-vibid:250200071640": 3,
+      "gas:candidate-vibid:1001000121282": 8,
+      "gas:candidate-vibid:1001000225955": 216,
+      "gas:candidate-vibid:250200071646": 4,
+      "gas:candidate-vibid:1001000112228": 194,
+      "gas:candidate-vibid:1001000289809": 17,
+      "gas:candidate-vibid:250200071643": 2,
+      "gas:candidate-vibid:1001000190374": 40,
+      "gas:candidate-vibid:1001000195099": 51,
+      "gas:candidate-vibid:1001000217936": 38,
+      "special:against-all": 303
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=503007003&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=350300771049&region=0&sub_region=0&type=429",
@@ -14120,19 +14120,19 @@ export const duma_2003_uik_428_region_50_part_008 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Алкснис Виктор Имантович": 203,
-      "Вахания Владимир Виссарионович": 19,
-      "Волынец Алексей Николаевич": 9,
-      "Гужва Александр Алексеевич": 9,
-      "Ковалев Николай Дмитриевич": 163,
-      "Круговых Игорь Эрикович": 5,
-      "Лукин Владимир Петрович": 149,
-      "Рохмистров Максим Станиславович": 20,
-      "Синдревич Станислав Викторович": 3,
-      "Собакин Евгений Юрьевич": 47,
-      "Соколкова Наталья Геннадьевна": 51,
-      "Тарасов Евгений Александрович": 31,
-      "Против всех": 350
+      "gas:candidate-vibid:1001000202317": 203,
+      "gas:candidate-vibid:250200071637": 19,
+      "gas:candidate-vibid:250200071640": 9,
+      "gas:candidate-vibid:1001000121282": 9,
+      "gas:candidate-vibid:1001000225955": 163,
+      "gas:candidate-vibid:250200071646": 5,
+      "gas:candidate-vibid:1001000112228": 149,
+      "gas:candidate-vibid:1001000289809": 20,
+      "gas:candidate-vibid:250200071643": 3,
+      "gas:candidate-vibid:1001000190374": 47,
+      "gas:candidate-vibid:1001000195099": 51,
+      "gas:candidate-vibid:1001000217936": 31,
+      "special:against-all": 350
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=503007003&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=350300771049&region=0&sub_region=0&type=429",
@@ -14182,19 +14182,19 @@ export const duma_2003_uik_428_region_50_part_008 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Алкснис Виктор Имантович": 347,
-      "Вахания Владимир Виссарионович": 31,
-      "Волынец Алексей Николаевич": 4,
-      "Гужва Александр Алексеевич": 9,
-      "Ковалев Николай Дмитриевич": 230,
-      "Круговых Игорь Эрикович": 2,
-      "Лукин Владимир Петрович": 223,
-      "Рохмистров Максим Станиславович": 25,
-      "Синдревич Станислав Викторович": 4,
-      "Собакин Евгений Юрьевич": 60,
-      "Соколкова Наталья Геннадьевна": 34,
-      "Тарасов Евгений Александрович": 41,
-      "Против всех": 375
+      "gas:candidate-vibid:1001000202317": 347,
+      "gas:candidate-vibid:250200071637": 31,
+      "gas:candidate-vibid:250200071640": 4,
+      "gas:candidate-vibid:1001000121282": 9,
+      "gas:candidate-vibid:1001000225955": 230,
+      "gas:candidate-vibid:250200071646": 2,
+      "gas:candidate-vibid:1001000112228": 223,
+      "gas:candidate-vibid:1001000289809": 25,
+      "gas:candidate-vibid:250200071643": 4,
+      "gas:candidate-vibid:1001000190374": 60,
+      "gas:candidate-vibid:1001000195099": 34,
+      "gas:candidate-vibid:1001000217936": 41,
+      "special:against-all": 375
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=503007003&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=350300771049&region=0&sub_region=0&type=429",
@@ -14244,19 +14244,19 @@ export const duma_2003_uik_428_region_50_part_008 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Алкснис Виктор Имантович": 287,
-      "Вахания Владимир Виссарионович": 19,
-      "Волынец Алексей Николаевич": 5,
-      "Гужва Александр Алексеевич": 8,
-      "Ковалев Николай Дмитриевич": 189,
-      "Круговых Игорь Эрикович": 5,
-      "Лукин Владимир Петрович": 242,
-      "Рохмистров Максим Станиславович": 23,
-      "Синдревич Станислав Викторович": 3,
-      "Собакин Евгений Юрьевич": 44,
-      "Соколкова Наталья Геннадьевна": 53,
-      "Тарасов Евгений Александрович": 34,
-      "Против всех": 374
+      "gas:candidate-vibid:1001000202317": 287,
+      "gas:candidate-vibid:250200071637": 19,
+      "gas:candidate-vibid:250200071640": 5,
+      "gas:candidate-vibid:1001000121282": 8,
+      "gas:candidate-vibid:1001000225955": 189,
+      "gas:candidate-vibid:250200071646": 5,
+      "gas:candidate-vibid:1001000112228": 242,
+      "gas:candidate-vibid:1001000289809": 23,
+      "gas:candidate-vibid:250200071643": 3,
+      "gas:candidate-vibid:1001000190374": 44,
+      "gas:candidate-vibid:1001000195099": 53,
+      "gas:candidate-vibid:1001000217936": 34,
+      "special:against-all": 374
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=503007003&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=350300771049&region=0&sub_region=0&type=429",
@@ -14306,19 +14306,19 @@ export const duma_2003_uik_428_region_50_part_008 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Алкснис Виктор Имантович": 237,
-      "Вахания Владимир Виссарионович": 5,
-      "Волынец Алексей Николаевич": 2,
-      "Гужва Александр Алексеевич": 3,
-      "Ковалев Николай Дмитриевич": 56,
-      "Круговых Игорь Эрикович": 3,
-      "Лукин Владимир Петрович": 135,
-      "Рохмистров Максим Станиславович": 17,
-      "Синдревич Станислав Викторович": 3,
-      "Собакин Евгений Юрьевич": 12,
-      "Соколкова Наталья Геннадьевна": 19,
-      "Тарасов Евгений Александрович": 9,
-      "Против всех": 164
+      "gas:candidate-vibid:1001000202317": 237,
+      "gas:candidate-vibid:250200071637": 5,
+      "gas:candidate-vibid:250200071640": 2,
+      "gas:candidate-vibid:1001000121282": 3,
+      "gas:candidate-vibid:1001000225955": 56,
+      "gas:candidate-vibid:250200071646": 3,
+      "gas:candidate-vibid:1001000112228": 135,
+      "gas:candidate-vibid:1001000289809": 17,
+      "gas:candidate-vibid:250200071643": 3,
+      "gas:candidate-vibid:1001000190374": 12,
+      "gas:candidate-vibid:1001000195099": 19,
+      "gas:candidate-vibid:1001000217936": 9,
+      "special:against-all": 164
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=503007003&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=350300771049&region=0&sub_region=0&type=429",
@@ -14368,19 +14368,19 @@ export const duma_2003_uik_428_region_50_part_008 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Алкснис Виктор Имантович": 34,
-      "Вахания Владимир Виссарионович": 1,
-      "Волынец Алексей Николаевич": 4,
-      "Гужва Александр Алексеевич": 4,
-      "Ковалев Николай Дмитриевич": 18,
-      "Круговых Игорь Эрикович": 4,
-      "Лукин Владимир Петрович": 43,
-      "Рохмистров Максим Станиславович": 5,
-      "Синдревич Станислав Викторович": 1,
-      "Собакин Евгений Юрьевич": 10,
-      "Соколкова Наталья Геннадьевна": 12,
-      "Тарасов Евгений Александрович": 11,
-      "Против всех": 57
+      "gas:candidate-vibid:1001000202317": 34,
+      "gas:candidate-vibid:250200071637": 1,
+      "gas:candidate-vibid:250200071640": 4,
+      "gas:candidate-vibid:1001000121282": 4,
+      "gas:candidate-vibid:1001000225955": 18,
+      "gas:candidate-vibid:250200071646": 4,
+      "gas:candidate-vibid:1001000112228": 43,
+      "gas:candidate-vibid:1001000289809": 5,
+      "gas:candidate-vibid:250200071643": 1,
+      "gas:candidate-vibid:1001000190374": 10,
+      "gas:candidate-vibid:1001000195099": 12,
+      "gas:candidate-vibid:1001000217936": 11,
+      "special:against-all": 57
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=503007003&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=350300771049&region=0&sub_region=0&type=429",
@@ -14430,19 +14430,19 @@ export const duma_2003_uik_428_region_50_part_008 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Алкснис Виктор Имантович": 454,
-      "Вахания Владимир Виссарионович": 12,
-      "Волынец Алексей Николаевич": 3,
-      "Гужва Александр Алексеевич": 8,
-      "Ковалев Николай Дмитриевич": 158,
-      "Круговых Игорь Эрикович": 3,
-      "Лукин Владимир Петрович": 194,
-      "Рохмистров Максим Станиславович": 31,
-      "Синдревич Станислав Викторович": 1,
-      "Собакин Евгений Юрьевич": 30,
-      "Соколкова Наталья Геннадьевна": 53,
-      "Тарасов Евгений Александрович": 33,
-      "Против всех": 300
+      "gas:candidate-vibid:1001000202317": 454,
+      "gas:candidate-vibid:250200071637": 12,
+      "gas:candidate-vibid:250200071640": 3,
+      "gas:candidate-vibid:1001000121282": 8,
+      "gas:candidate-vibid:1001000225955": 158,
+      "gas:candidate-vibid:250200071646": 3,
+      "gas:candidate-vibid:1001000112228": 194,
+      "gas:candidate-vibid:1001000289809": 31,
+      "gas:candidate-vibid:250200071643": 1,
+      "gas:candidate-vibid:1001000190374": 30,
+      "gas:candidate-vibid:1001000195099": 53,
+      "gas:candidate-vibid:1001000217936": 33,
+      "special:against-all": 300
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=503007003&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=350300771049&region=0&sub_region=0&type=429",
@@ -14492,19 +14492,19 @@ export const duma_2003_uik_428_region_50_part_008 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Алкснис Виктор Имантович": 408,
-      "Вахания Владимир Виссарионович": 8,
-      "Волынец Алексей Николаевич": 9,
-      "Гужва Александр Алексеевич": 7,
-      "Ковалев Николай Дмитриевич": 150,
-      "Круговых Игорь Эрикович": 5,
-      "Лукин Владимир Петрович": 194,
-      "Рохмистров Максим Станиславович": 22,
-      "Синдревич Станислав Викторович": 4,
-      "Собакин Евгений Юрьевич": 17,
-      "Соколкова Наталья Геннадьевна": 36,
-      "Тарасов Евгений Александрович": 21,
-      "Против всех": 272
+      "gas:candidate-vibid:1001000202317": 408,
+      "gas:candidate-vibid:250200071637": 8,
+      "gas:candidate-vibid:250200071640": 9,
+      "gas:candidate-vibid:1001000121282": 7,
+      "gas:candidate-vibid:1001000225955": 150,
+      "gas:candidate-vibid:250200071646": 5,
+      "gas:candidate-vibid:1001000112228": 194,
+      "gas:candidate-vibid:1001000289809": 22,
+      "gas:candidate-vibid:250200071643": 4,
+      "gas:candidate-vibid:1001000190374": 17,
+      "gas:candidate-vibid:1001000195099": 36,
+      "gas:candidate-vibid:1001000217936": 21,
+      "special:against-all": 272
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=503007003&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=350300771049&region=0&sub_region=0&type=429",
@@ -14554,19 +14554,19 @@ export const duma_2003_uik_428_region_50_part_008 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Алкснис Виктор Имантович": 48,
-      "Вахания Владимир Виссарионович": 15,
-      "Волынец Алексей Николаевич": 9,
-      "Гужва Александр Алексеевич": 10,
-      "Ковалев Николай Дмитриевич": 1135,
-      "Круговых Игорь Эрикович": 21,
-      "Лукин Владимир Петрович": 42,
-      "Рохмистров Максим Станиславович": 53,
-      "Синдревич Станислав Викторович": 24,
-      "Собакин Евгений Юрьевич": 29,
-      "Соколкова Наталья Геннадьевна": 66,
-      "Тарасов Евгений Александрович": 55,
-      "Против всех": 399
+      "gas:candidate-vibid:1001000202317": 48,
+      "gas:candidate-vibid:250200071637": 15,
+      "gas:candidate-vibid:250200071640": 9,
+      "gas:candidate-vibid:1001000121282": 10,
+      "gas:candidate-vibid:1001000225955": 1135,
+      "gas:candidate-vibid:250200071646": 21,
+      "gas:candidate-vibid:1001000112228": 42,
+      "gas:candidate-vibid:1001000289809": 53,
+      "gas:candidate-vibid:250200071643": 24,
+      "gas:candidate-vibid:1001000190374": 29,
+      "gas:candidate-vibid:1001000195099": 66,
+      "gas:candidate-vibid:1001000217936": 55,
+      "special:against-all": 399
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=503007003&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=350300771049&region=0&sub_region=0&type=429",
@@ -14616,19 +14616,19 @@ export const duma_2003_uik_428_region_50_part_008 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Алкснис Виктор Имантович": 291,
-      "Вахания Владимир Виссарионович": 42,
-      "Волынец Алексей Николаевич": 8,
-      "Гужва Александр Алексеевич": 8,
-      "Ковалев Николай Дмитриевич": 271,
-      "Круговых Игорь Эрикович": 7,
-      "Лукин Владимир Петрович": 106,
-      "Рохмистров Максим Станиславович": 38,
-      "Синдревич Станислав Викторович": 4,
-      "Собакин Евгений Юрьевич": 19,
-      "Соколкова Наталья Геннадьевна": 48,
-      "Тарасов Евгений Александрович": 38,
-      "Против всех": 381
+      "gas:candidate-vibid:1001000202317": 291,
+      "gas:candidate-vibid:250200071637": 42,
+      "gas:candidate-vibid:250200071640": 8,
+      "gas:candidate-vibid:1001000121282": 8,
+      "gas:candidate-vibid:1001000225955": 271,
+      "gas:candidate-vibid:250200071646": 7,
+      "gas:candidate-vibid:1001000112228": 106,
+      "gas:candidate-vibid:1001000289809": 38,
+      "gas:candidate-vibid:250200071643": 4,
+      "gas:candidate-vibid:1001000190374": 19,
+      "gas:candidate-vibid:1001000195099": 48,
+      "gas:candidate-vibid:1001000217936": 38,
+      "special:against-all": 381
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=503007003&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=350300771049&region=0&sub_region=0&type=429",

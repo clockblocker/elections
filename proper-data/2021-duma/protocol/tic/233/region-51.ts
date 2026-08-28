@@ -11,6 +11,9 @@ export const duma_2021_tic_233_region_51 = [
     "ballot": "party",
     "tikTvd": "2512000646487",
     "tikName": "Кировская",
+    "regionCode": "51",
+    "regionTvd": "100100225883604",
+    "regionName": "Мурманская область",
     "uikCount": 19,
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 20493,
@@ -80,6 +83,9 @@ export const duma_2021_tic_233_region_51 = [
     "ballot": "party",
     "tikTvd": "2512000646488",
     "tikName": "Ловозерская",
+    "regionCode": "51",
+    "regionTvd": "100100225883604",
+    "regionName": "Мурманская область",
     "uikCount": 6,
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 7307,
@@ -136,6 +142,9 @@ export const duma_2021_tic_233_region_51 = [
     "ballot": "party",
     "tikTvd": "2512000646489",
     "tikName": "Заозерская",
+    "regionCode": "51",
+    "regionTvd": "100100225883604",
+    "regionName": "Мурманская область",
     "uikCount": 8,
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 5167,
@@ -194,6 +203,9 @@ export const duma_2021_tic_233_region_51 = [
     "ballot": "party",
     "tikTvd": "2512000646490",
     "tikName": "Островнинская",
+    "regionCode": "51",
+    "regionTvd": "100100225883604",
+    "regionName": "Мурманская область",
     "uikCount": 2,
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 1092,
@@ -246,6 +258,9 @@ export const duma_2021_tic_233_region_51 = [
     "ballot": "party",
     "tikTvd": "2512000646491",
     "tikName": "Полярнозоринская",
+    "regionCode": "51",
+    "regionTvd": "100100225883604",
+    "regionName": "Мурманская область",
     "uikCount": 12,
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 11889,
@@ -308,6 +323,9 @@ export const duma_2021_tic_233_region_51 = [
     "ballot": "party",
     "tikTvd": "2512000646492",
     "tikName": "Терская",
+    "regionCode": "51",
+    "regionTvd": "100100225883604",
+    "regionName": "Мурманская область",
     "uikCount": 5,
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 4446,
@@ -363,6 +381,9 @@ export const duma_2021_tic_233_region_51 = [
     "ballot": "party",
     "tikTvd": "2512000646493",
     "tikName": "Мурманская",
+    "regionCode": "51",
+    "regionTvd": "100100225883604",
+    "regionName": "Мурманская область",
     "uikCount": 278,
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 217833,
@@ -691,6 +712,9 @@ export const duma_2021_tic_233_region_51 = [
     "ballot": "party",
     "tikTvd": "2512000646494",
     "tikName": "ТИК ЗАТО Александровск",
+    "regionCode": "51",
+    "regionTvd": "100100225883604",
+    "regionName": "Мурманская область",
     "uikCount": 42,
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 26635,
@@ -783,6 +807,9 @@ export const duma_2021_tic_233_region_51 = [
     "ballot": "party",
     "tikTvd": "2512000646495",
     "tikName": "Кольская",
+    "regionCode": "51",
+    "regionTvd": "100100225883604",
+    "regionName": "Мурманская область",
     "uikCount": 38,
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 29586,
@@ -871,6 +898,9 @@ export const duma_2021_tic_233_region_51 = [
     "ballot": "party",
     "tikTvd": "2512000646496",
     "tikName": "Кандалакшская",
+    "regionCode": "51",
+    "regionTvd": "100100225883604",
+    "regionName": "Мурманская область",
     "uikCount": 35,
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 35040,
@@ -956,6 +986,9 @@ export const duma_2021_tic_233_region_51 = [
     "ballot": "party",
     "tikTvd": "2512000646497",
     "tikName": "Североморская",
+    "regionCode": "51",
+    "regionTvd": "100100225883604",
+    "regionName": "Мурманская область",
     "uikCount": 40,
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 41507,
@@ -1046,6 +1079,9 @@ export const duma_2021_tic_233_region_51 = [
     "ballot": "party",
     "tikTvd": "2512000646498",
     "tikName": "Мончегорская",
+    "regionCode": "51",
+    "regionTvd": "100100225883604",
+    "regionName": "Мурманская область",
     "uikCount": 25,
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 33968,
@@ -1121,6 +1157,9 @@ export const duma_2021_tic_233_region_51 = [
     "ballot": "party",
     "tikTvd": "2512000646499",
     "tikName": "Печенгская",
+    "regionCode": "51",
+    "regionTvd": "100100225883604",
+    "regionName": "Мурманская область",
     "uikCount": 28,
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 25186,
@@ -1199,6 +1238,9 @@ export const duma_2021_tic_233_region_51 = [
     "ballot": "party",
     "tikTvd": "2512000646500",
     "tikName": "Апатитская",
+    "regionCode": "51",
+    "regionTvd": "100100225883604",
+    "regionName": "Мурманская область",
     "uikCount": 26,
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 40256,
@@ -1275,6 +1317,9 @@ export const duma_2021_tic_233_region_51 = [
     "ballot": "party",
     "tikTvd": "2512000646501",
     "tikName": "Видяевская",
+    "regionCode": "51",
+    "regionTvd": "100100225883604",
+    "regionName": "Мурманская область",
     "uikCount": 3,
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 2596,
@@ -1328,6 +1373,9 @@ export const duma_2021_tic_233_region_51 = [
     "ballot": "party",
     "tikTvd": "2512000646502",
     "tikName": "Оленегорская",
+    "regionCode": "51",
+    "regionTvd": "100100225883604",
+    "regionName": "Мурманская область",
     "uikCount": 18,
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 20346,
@@ -1396,6 +1444,9 @@ export const duma_2021_tic_233_region_51 = [
     "ballot": "party",
     "tikTvd": "2512000646503",
     "tikName": "Ковдорская",
+    "regionCode": "51",
+    "regionTvd": "100100225883604",
+    "regionName": "Мурманская область",
     "uikCount": 13,
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 14854,

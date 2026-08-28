@@ -42,16 +42,16 @@ export const duma_2003_uik_428_region_50_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бакунин Валерий Николаевич": 20,
-      "Борисенко Леонид Николаевич": 2,
-      "Гребенщиков Александр Петрович": 8,
-      "Кораблин Юрий Вадимович": 79,
-      "Неверов Николай Николаевич": 1,
-      "Павлов Борис Владимирович": 0,
-      "Хахалина Татьяна Петровна": 1,
-      "Шаккум Мартин Люцианович": 160,
-      "Шарнин Валерий Николаевич": 22,
-      "Против всех": 10
+      "gas:candidate-vibid:1001000112226": 20,
+      "gas:candidate-vibid:1001000202316": 2,
+      "gas:candidate-vibid:1001000217933": 8,
+      "gas:candidate-vibid:350300270387": 79,
+      "gas:candidate-vibid:350300270535": 1,
+      "gas:candidate-vibid:1001000190368": 0,
+      "gas:candidate-vibid:350300270370": 1,
+      "gas:candidate-vibid:1001000225953": 160,
+      "gas:candidate-vibid:1001000121865": 22,
+      "special:against-all": 10
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=503002005&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=350300270974&region=0&sub_region=0&type=429",
@@ -101,16 +101,16 @@ export const duma_2003_uik_428_region_50_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бакунин Валерий Николаевич": 30,
-      "Борисенко Леонид Николаевич": 1,
-      "Гребенщиков Александр Петрович": 15,
-      "Кораблин Юрий Вадимович": 119,
-      "Неверов Николай Николаевич": 2,
-      "Павлов Борис Владимирович": 0,
-      "Хахалина Татьяна Петровна": 8,
-      "Шаккум Мартин Люцианович": 152,
-      "Шарнин Валерий Николаевич": 35,
-      "Против всех": 30
+      "gas:candidate-vibid:1001000112226": 30,
+      "gas:candidate-vibid:1001000202316": 1,
+      "gas:candidate-vibid:1001000217933": 15,
+      "gas:candidate-vibid:350300270387": 119,
+      "gas:candidate-vibid:350300270535": 2,
+      "gas:candidate-vibid:1001000190368": 0,
+      "gas:candidate-vibid:350300270370": 8,
+      "gas:candidate-vibid:1001000225953": 152,
+      "gas:candidate-vibid:1001000121865": 35,
+      "special:against-all": 30
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=503002005&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=350300270974&region=0&sub_region=0&type=429",
@@ -160,16 +160,16 @@ export const duma_2003_uik_428_region_50_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бакунин Валерий Николаевич": 28,
-      "Борисенко Леонид Николаевич": 2,
-      "Гребенщиков Александр Петрович": 12,
-      "Кораблин Юрий Вадимович": 125,
-      "Неверов Николай Николаевич": 3,
-      "Павлов Борис Владимирович": 1,
-      "Хахалина Татьяна Петровна": 6,
-      "Шаккум Мартин Люцианович": 166,
-      "Шарнин Валерий Николаевич": 53,
-      "Против всех": 69
+      "gas:candidate-vibid:1001000112226": 28,
+      "gas:candidate-vibid:1001000202316": 2,
+      "gas:candidate-vibid:1001000217933": 12,
+      "gas:candidate-vibid:350300270387": 125,
+      "gas:candidate-vibid:350300270535": 3,
+      "gas:candidate-vibid:1001000190368": 1,
+      "gas:candidate-vibid:350300270370": 6,
+      "gas:candidate-vibid:1001000225953": 166,
+      "gas:candidate-vibid:1001000121865": 53,
+      "special:against-all": 69
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=503002005&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=350300270974&region=0&sub_region=0&type=429",
@@ -219,16 +219,16 @@ export const duma_2003_uik_428_region_50_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бакунин Валерий Николаевич": 83,
-      "Борисенко Леонид Николаевич": 3,
-      "Гребенщиков Александр Петрович": 35,
-      "Кораблин Юрий Вадимович": 73,
-      "Неверов Николай Николаевич": 1,
-      "Павлов Борис Владимирович": 3,
-      "Хахалина Татьяна Петровна": 11,
-      "Шаккум Мартин Люцианович": 397,
-      "Шарнин Валерий Николаевич": 47,
-      "Против всех": 73
+      "gas:candidate-vibid:1001000112226": 83,
+      "gas:candidate-vibid:1001000202316": 3,
+      "gas:candidate-vibid:1001000217933": 35,
+      "gas:candidate-vibid:350300270387": 73,
+      "gas:candidate-vibid:350300270535": 1,
+      "gas:candidate-vibid:1001000190368": 3,
+      "gas:candidate-vibid:350300270370": 11,
+      "gas:candidate-vibid:1001000225953": 397,
+      "gas:candidate-vibid:1001000121865": 47,
+      "special:against-all": 73
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=503002005&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=350300270974&region=0&sub_region=0&type=429",
@@ -278,16 +278,16 @@ export const duma_2003_uik_428_region_50_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бакунин Валерий Николаевич": 27,
-      "Борисенко Леонид Николаевич": 1,
-      "Гребенщиков Александр Петрович": 44,
-      "Кораблин Юрий Вадимович": 75,
-      "Неверов Николай Николаевич": 1,
-      "Павлов Борис Владимирович": 1,
-      "Хахалина Татьяна Петровна": 2,
-      "Шаккум Мартин Люцианович": 179,
-      "Шарнин Валерий Николаевич": 10,
-      "Против всех": 20
+      "gas:candidate-vibid:1001000112226": 27,
+      "gas:candidate-vibid:1001000202316": 1,
+      "gas:candidate-vibid:1001000217933": 44,
+      "gas:candidate-vibid:350300270387": 75,
+      "gas:candidate-vibid:350300270535": 1,
+      "gas:candidate-vibid:1001000190368": 1,
+      "gas:candidate-vibid:350300270370": 2,
+      "gas:candidate-vibid:1001000225953": 179,
+      "gas:candidate-vibid:1001000121865": 10,
+      "special:against-all": 20
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=503002005&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=350300270974&region=0&sub_region=0&type=429",
@@ -337,16 +337,16 @@ export const duma_2003_uik_428_region_50_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бакунин Валерий Николаевич": 22,
-      "Борисенко Леонид Николаевич": 2,
-      "Гребенщиков Александр Петрович": 6,
-      "Кораблин Юрий Вадимович": 63,
-      "Неверов Николай Николаевич": 3,
-      "Павлов Борис Владимирович": 3,
-      "Хахалина Татьяна Петровна": 6,
-      "Шаккум Мартин Люцианович": 316,
-      "Шарнин Валерий Николаевич": 13,
-      "Против всех": 24
+      "gas:candidate-vibid:1001000112226": 22,
+      "gas:candidate-vibid:1001000202316": 2,
+      "gas:candidate-vibid:1001000217933": 6,
+      "gas:candidate-vibid:350300270387": 63,
+      "gas:candidate-vibid:350300270535": 3,
+      "gas:candidate-vibid:1001000190368": 3,
+      "gas:candidate-vibid:350300270370": 6,
+      "gas:candidate-vibid:1001000225953": 316,
+      "gas:candidate-vibid:1001000121865": 13,
+      "special:against-all": 24
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=503002005&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=350300270974&region=0&sub_region=0&type=429",
@@ -396,16 +396,16 @@ export const duma_2003_uik_428_region_50_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бакунин Валерий Николаевич": 21,
-      "Борисенко Леонид Николаевич": 5,
-      "Гребенщиков Александр Петрович": 5,
-      "Кораблин Юрий Вадимович": 42,
-      "Неверов Николай Николаевич": 4,
-      "Павлов Борис Владимирович": 5,
-      "Хахалина Татьяна Петровна": 6,
-      "Шаккум Мартин Люцианович": 268,
-      "Шарнин Валерий Николаевич": 39,
-      "Против всех": 19
+      "gas:candidate-vibid:1001000112226": 21,
+      "gas:candidate-vibid:1001000202316": 5,
+      "gas:candidate-vibid:1001000217933": 5,
+      "gas:candidate-vibid:350300270387": 42,
+      "gas:candidate-vibid:350300270535": 4,
+      "gas:candidate-vibid:1001000190368": 5,
+      "gas:candidate-vibid:350300270370": 6,
+      "gas:candidate-vibid:1001000225953": 268,
+      "gas:candidate-vibid:1001000121865": 39,
+      "special:against-all": 19
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=503002005&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=350300270974&region=0&sub_region=0&type=429",
@@ -455,16 +455,16 @@ export const duma_2003_uik_428_region_50_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бакунин Валерий Николаевич": 34,
-      "Борисенко Леонид Николаевич": 3,
-      "Гребенщиков Александр Петрович": 10,
-      "Кораблин Юрий Вадимович": 183,
-      "Неверов Николай Николаевич": 3,
-      "Павлов Борис Владимирович": 1,
-      "Хахалина Татьяна Петровна": 2,
-      "Шаккум Мартин Люцианович": 131,
-      "Шарнин Валерий Николаевич": 20,
-      "Против всех": 33
+      "gas:candidate-vibid:1001000112226": 34,
+      "gas:candidate-vibid:1001000202316": 3,
+      "gas:candidate-vibid:1001000217933": 10,
+      "gas:candidate-vibid:350300270387": 183,
+      "gas:candidate-vibid:350300270535": 3,
+      "gas:candidate-vibid:1001000190368": 1,
+      "gas:candidate-vibid:350300270370": 2,
+      "gas:candidate-vibid:1001000225953": 131,
+      "gas:candidate-vibid:1001000121865": 20,
+      "special:against-all": 33
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=503002005&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=350300270974&region=0&sub_region=0&type=429",
@@ -514,16 +514,16 @@ export const duma_2003_uik_428_region_50_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бакунин Валерий Николаевич": 18,
-      "Борисенко Леонид Николаевич": 1,
-      "Гребенщиков Александр Петрович": 2,
-      "Кораблин Юрий Вадимович": 20,
-      "Неверов Николай Николаевич": 1,
-      "Павлов Борис Владимирович": 1,
-      "Хахалина Татьяна Петровна": 0,
-      "Шаккум Мартин Люцианович": 37,
-      "Шарнин Валерий Николаевич": 5,
-      "Против всех": 3
+      "gas:candidate-vibid:1001000112226": 18,
+      "gas:candidate-vibid:1001000202316": 1,
+      "gas:candidate-vibid:1001000217933": 2,
+      "gas:candidate-vibid:350300270387": 20,
+      "gas:candidate-vibid:350300270535": 1,
+      "gas:candidate-vibid:1001000190368": 1,
+      "gas:candidate-vibid:350300270370": 0,
+      "gas:candidate-vibid:1001000225953": 37,
+      "gas:candidate-vibid:1001000121865": 5,
+      "special:against-all": 3
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=503002005&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=350300270974&region=0&sub_region=0&type=429",
@@ -573,16 +573,16 @@ export const duma_2003_uik_428_region_50_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бакунин Валерий Николаевич": 205,
-      "Борисенко Леонид Николаевич": 7,
-      "Гребенщиков Александр Петрович": 32,
-      "Кораблин Юрий Вадимович": 163,
-      "Неверов Николай Николаевич": 3,
-      "Павлов Борис Владимирович": 7,
-      "Хахалина Татьяна Петровна": 17,
-      "Шаккум Мартин Люцианович": 540,
-      "Шарнин Валерий Николаевич": 74,
-      "Против всех": 174
+      "gas:candidate-vibid:1001000112226": 205,
+      "gas:candidate-vibid:1001000202316": 7,
+      "gas:candidate-vibid:1001000217933": 32,
+      "gas:candidate-vibid:350300270387": 163,
+      "gas:candidate-vibid:350300270535": 3,
+      "gas:candidate-vibid:1001000190368": 7,
+      "gas:candidate-vibid:350300270370": 17,
+      "gas:candidate-vibid:1001000225953": 540,
+      "gas:candidate-vibid:1001000121865": 74,
+      "special:against-all": 174
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=503002005&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=350300270974&region=0&sub_region=0&type=429",
@@ -632,16 +632,16 @@ export const duma_2003_uik_428_region_50_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бакунин Валерий Николаевич": 72,
-      "Борисенко Леонид Николаевич": 10,
-      "Гребенщиков Александр Петрович": 9,
-      "Кораблин Юрий Вадимович": 54,
-      "Неверов Николай Николаевич": 2,
-      "Павлов Борис Владимирович": 7,
-      "Хахалина Татьяна Петровна": 5,
-      "Шаккум Мартин Люцианович": 189,
-      "Шарнин Валерий Николаевич": 56,
-      "Против всех": 96
+      "gas:candidate-vibid:1001000112226": 72,
+      "gas:candidate-vibid:1001000202316": 10,
+      "gas:candidate-vibid:1001000217933": 9,
+      "gas:candidate-vibid:350300270387": 54,
+      "gas:candidate-vibid:350300270535": 2,
+      "gas:candidate-vibid:1001000190368": 7,
+      "gas:candidate-vibid:350300270370": 5,
+      "gas:candidate-vibid:1001000225953": 189,
+      "gas:candidate-vibid:1001000121865": 56,
+      "special:against-all": 96
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=503002005&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=350300270974&region=0&sub_region=0&type=429",
@@ -691,16 +691,16 @@ export const duma_2003_uik_428_region_50_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бакунин Валерий Николаевич": 68,
-      "Борисенко Леонид Николаевич": 2,
-      "Гребенщиков Александр Петрович": 20,
-      "Кораблин Юрий Вадимович": 132,
-      "Неверов Николай Николаевич": 0,
-      "Павлов Борис Владимирович": 6,
-      "Хахалина Татьяна Петровна": 13,
-      "Шаккум Мартин Люцианович": 186,
-      "Шарнин Валерий Николаевич": 44,
-      "Против всех": 65
+      "gas:candidate-vibid:1001000112226": 68,
+      "gas:candidate-vibid:1001000202316": 2,
+      "gas:candidate-vibid:1001000217933": 20,
+      "gas:candidate-vibid:350300270387": 132,
+      "gas:candidate-vibid:350300270535": 0,
+      "gas:candidate-vibid:1001000190368": 6,
+      "gas:candidate-vibid:350300270370": 13,
+      "gas:candidate-vibid:1001000225953": 186,
+      "gas:candidate-vibid:1001000121865": 44,
+      "special:against-all": 65
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=503002005&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=350300270974&region=0&sub_region=0&type=429",
@@ -750,16 +750,16 @@ export const duma_2003_uik_428_region_50_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бакунин Валерий Николаевич": 37,
-      "Борисенко Леонид Николаевич": 2,
-      "Гребенщиков Александр Петрович": 3,
-      "Кораблин Юрий Вадимович": 20,
-      "Неверов Николай Николаевич": 0,
-      "Павлов Борис Владимирович": 1,
-      "Хахалина Татьяна Петровна": 1,
-      "Шаккум Мартин Люцианович": 70,
-      "Шарнин Валерий Николаевич": 11,
-      "Против всех": 13
+      "gas:candidate-vibid:1001000112226": 37,
+      "gas:candidate-vibid:1001000202316": 2,
+      "gas:candidate-vibid:1001000217933": 3,
+      "gas:candidate-vibid:350300270387": 20,
+      "gas:candidate-vibid:350300270535": 0,
+      "gas:candidate-vibid:1001000190368": 1,
+      "gas:candidate-vibid:350300270370": 1,
+      "gas:candidate-vibid:1001000225953": 70,
+      "gas:candidate-vibid:1001000121865": 11,
+      "special:against-all": 13
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=503002005&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=350300270974&region=0&sub_region=0&type=429",
@@ -809,16 +809,16 @@ export const duma_2003_uik_428_region_50_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бакунин Валерий Николаевич": 14,
-      "Борисенко Леонид Николаевич": 4,
-      "Гребенщиков Александр Петрович": 0,
-      "Кораблин Юрий Вадимович": 30,
-      "Неверов Николай Николаевич": 1,
-      "Павлов Борис Владимирович": 4,
-      "Хахалина Татьяна Петровна": 2,
-      "Шаккум Мартин Люцианович": 47,
-      "Шарнин Валерий Николаевич": 5,
-      "Против всех": 10
+      "gas:candidate-vibid:1001000112226": 14,
+      "gas:candidate-vibid:1001000202316": 4,
+      "gas:candidate-vibid:1001000217933": 0,
+      "gas:candidate-vibid:350300270387": 30,
+      "gas:candidate-vibid:350300270535": 1,
+      "gas:candidate-vibid:1001000190368": 4,
+      "gas:candidate-vibid:350300270370": 2,
+      "gas:candidate-vibid:1001000225953": 47,
+      "gas:candidate-vibid:1001000121865": 5,
+      "special:against-all": 10
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=503002005&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=350300270974&region=0&sub_region=0&type=429",
@@ -868,16 +868,16 @@ export const duma_2003_uik_428_region_50_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бакунин Валерий Николаевич": 62,
-      "Борисенко Леонид Николаевич": 1,
-      "Гребенщиков Александр Петрович": 11,
-      "Кораблин Юрий Вадимович": 218,
-      "Неверов Николай Николаевич": 2,
-      "Павлов Борис Владимирович": 1,
-      "Хахалина Татьяна Петровна": 1,
-      "Шаккум Мартин Люцианович": 206,
-      "Шарнин Валерий Николаевич": 45,
-      "Против всех": 70
+      "gas:candidate-vibid:1001000112226": 62,
+      "gas:candidate-vibid:1001000202316": 1,
+      "gas:candidate-vibid:1001000217933": 11,
+      "gas:candidate-vibid:350300270387": 218,
+      "gas:candidate-vibid:350300270535": 2,
+      "gas:candidate-vibid:1001000190368": 1,
+      "gas:candidate-vibid:350300270370": 1,
+      "gas:candidate-vibid:1001000225953": 206,
+      "gas:candidate-vibid:1001000121865": 45,
+      "special:against-all": 70
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=503002005&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=350300270974&region=0&sub_region=0&type=429",
@@ -927,16 +927,16 @@ export const duma_2003_uik_428_region_50_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бакунин Валерий Николаевич": 16,
-      "Борисенко Леонид Николаевич": 4,
-      "Гребенщиков Александр Петрович": 22,
-      "Кораблин Юрий Вадимович": 3,
-      "Неверов Николай Николаевич": 3,
-      "Павлов Борис Владимирович": 0,
-      "Хахалина Татьяна Петровна": 2,
-      "Шаккум Мартин Люцианович": 124,
-      "Шарнин Валерий Николаевич": 11,
-      "Против всех": 15
+      "gas:candidate-vibid:1001000112226": 16,
+      "gas:candidate-vibid:1001000202316": 4,
+      "gas:candidate-vibid:1001000217933": 22,
+      "gas:candidate-vibid:350300270387": 3,
+      "gas:candidate-vibid:350300270535": 3,
+      "gas:candidate-vibid:1001000190368": 0,
+      "gas:candidate-vibid:350300270370": 2,
+      "gas:candidate-vibid:1001000225953": 124,
+      "gas:candidate-vibid:1001000121865": 11,
+      "special:against-all": 15
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=503002005&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=350300270974&region=0&sub_region=0&type=429",
@@ -986,16 +986,16 @@ export const duma_2003_uik_428_region_50_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бакунин Валерий Николаевич": 41,
-      "Борисенко Леонид Николаевич": 12,
-      "Гребенщиков Александр Петрович": 13,
-      "Кораблин Юрий Вадимович": 86,
-      "Неверов Николай Николаевич": 3,
-      "Павлов Борис Владимирович": 6,
-      "Хахалина Татьяна Петровна": 7,
-      "Шаккум Мартин Люцианович": 172,
-      "Шарнин Валерий Николаевич": 28,
-      "Против всех": 48
+      "gas:candidate-vibid:1001000112226": 41,
+      "gas:candidate-vibid:1001000202316": 12,
+      "gas:candidate-vibid:1001000217933": 13,
+      "gas:candidate-vibid:350300270387": 86,
+      "gas:candidate-vibid:350300270535": 3,
+      "gas:candidate-vibid:1001000190368": 6,
+      "gas:candidate-vibid:350300270370": 7,
+      "gas:candidate-vibid:1001000225953": 172,
+      "gas:candidate-vibid:1001000121865": 28,
+      "special:against-all": 48
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=503002005&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=350300270974&region=0&sub_region=0&type=429",
@@ -1045,16 +1045,16 @@ export const duma_2003_uik_428_region_50_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бакунин Валерий Николаевич": 73,
-      "Борисенко Леонид Николаевич": 3,
-      "Гребенщиков Александр Петрович": 75,
-      "Кораблин Юрий Вадимович": 157,
-      "Неверов Николай Николаевич": 3,
-      "Павлов Борис Владимирович": 4,
-      "Хахалина Татьяна Петровна": 2,
-      "Шаккум Мартин Люцианович": 260,
-      "Шарнин Валерий Николаевич": 40,
-      "Против всех": 70
+      "gas:candidate-vibid:1001000112226": 73,
+      "gas:candidate-vibid:1001000202316": 3,
+      "gas:candidate-vibid:1001000217933": 75,
+      "gas:candidate-vibid:350300270387": 157,
+      "gas:candidate-vibid:350300270535": 3,
+      "gas:candidate-vibid:1001000190368": 4,
+      "gas:candidate-vibid:350300270370": 2,
+      "gas:candidate-vibid:1001000225953": 260,
+      "gas:candidate-vibid:1001000121865": 40,
+      "special:against-all": 70
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=503002005&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=350300270974&region=0&sub_region=0&type=429",
@@ -1104,16 +1104,16 @@ export const duma_2003_uik_428_region_50_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бакунин Валерий Николаевич": 66,
-      "Борисенко Леонид Николаевич": 6,
-      "Гребенщиков Александр Петрович": 23,
-      "Кораблин Юрий Вадимович": 140,
-      "Неверов Николай Николаевич": 2,
-      "Павлов Борис Владимирович": 4,
-      "Хахалина Татьяна Петровна": 4,
-      "Шаккум Мартин Люцианович": 241,
-      "Шарнин Валерий Николаевич": 42,
-      "Против всех": 67
+      "gas:candidate-vibid:1001000112226": 66,
+      "gas:candidate-vibid:1001000202316": 6,
+      "gas:candidate-vibid:1001000217933": 23,
+      "gas:candidate-vibid:350300270387": 140,
+      "gas:candidate-vibid:350300270535": 2,
+      "gas:candidate-vibid:1001000190368": 4,
+      "gas:candidate-vibid:350300270370": 4,
+      "gas:candidate-vibid:1001000225953": 241,
+      "gas:candidate-vibid:1001000121865": 42,
+      "special:against-all": 67
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=503002005&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=350300270974&region=0&sub_region=0&type=429",
@@ -1163,16 +1163,16 @@ export const duma_2003_uik_428_region_50_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бакунин Валерий Николаевич": 21,
-      "Борисенко Леонид Николаевич": 0,
-      "Гребенщиков Александр Петрович": 6,
-      "Кораблин Юрий Вадимович": 27,
-      "Неверов Николай Николаевич": 0,
-      "Павлов Борис Владимирович": 3,
-      "Хахалина Татьяна Петровна": 0,
-      "Шаккум Мартин Люцианович": 75,
-      "Шарнин Валерий Николаевич": 13,
-      "Против всех": 10
+      "gas:candidate-vibid:1001000112226": 21,
+      "gas:candidate-vibid:1001000202316": 0,
+      "gas:candidate-vibid:1001000217933": 6,
+      "gas:candidate-vibid:350300270387": 27,
+      "gas:candidate-vibid:350300270535": 0,
+      "gas:candidate-vibid:1001000190368": 3,
+      "gas:candidate-vibid:350300270370": 0,
+      "gas:candidate-vibid:1001000225953": 75,
+      "gas:candidate-vibid:1001000121865": 13,
+      "special:against-all": 10
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=503002005&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=350300270974&region=0&sub_region=0&type=429",
@@ -1222,16 +1222,16 @@ export const duma_2003_uik_428_region_50_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бакунин Валерий Николаевич": 42,
-      "Борисенко Леонид Николаевич": 0,
-      "Гребенщиков Александр Петрович": 17,
-      "Кораблин Юрий Вадимович": 116,
-      "Неверов Николай Николаевич": 5,
-      "Павлов Борис Владимирович": 1,
-      "Хахалина Татьяна Петровна": 4,
-      "Шаккум Мартин Люцианович": 160,
-      "Шарнин Валерий Николаевич": 22,
-      "Против всех": 41
+      "gas:candidate-vibid:1001000112226": 42,
+      "gas:candidate-vibid:1001000202316": 0,
+      "gas:candidate-vibid:1001000217933": 17,
+      "gas:candidate-vibid:350300270387": 116,
+      "gas:candidate-vibid:350300270535": 5,
+      "gas:candidate-vibid:1001000190368": 1,
+      "gas:candidate-vibid:350300270370": 4,
+      "gas:candidate-vibid:1001000225953": 160,
+      "gas:candidate-vibid:1001000121865": 22,
+      "special:against-all": 41
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=503002005&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=350300270974&region=0&sub_region=0&type=429",
@@ -1281,16 +1281,16 @@ export const duma_2003_uik_428_region_50_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бакунин Валерий Николаевич": 17,
-      "Борисенко Леонид Николаевич": 4,
-      "Гребенщиков Александр Петрович": 2,
-      "Кораблин Юрий Вадимович": 28,
-      "Неверов Николай Николаевич": 0,
-      "Павлов Борис Владимирович": 2,
-      "Хахалина Татьяна Петровна": 1,
-      "Шаккум Мартин Люцианович": 31,
-      "Шарнин Валерий Николаевич": 9,
-      "Против всех": 2
+      "gas:candidate-vibid:1001000112226": 17,
+      "gas:candidate-vibid:1001000202316": 4,
+      "gas:candidate-vibid:1001000217933": 2,
+      "gas:candidate-vibid:350300270387": 28,
+      "gas:candidate-vibid:350300270535": 0,
+      "gas:candidate-vibid:1001000190368": 2,
+      "gas:candidate-vibid:350300270370": 1,
+      "gas:candidate-vibid:1001000225953": 31,
+      "gas:candidate-vibid:1001000121865": 9,
+      "special:against-all": 2
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=503002005&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=350300270974&region=0&sub_region=0&type=429",
@@ -1340,16 +1340,16 @@ export const duma_2003_uik_428_region_50_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бакунин Валерий Николаевич": 50,
-      "Борисенко Леонид Николаевич": 13,
-      "Гребенщиков Александр Петрович": 12,
-      "Кораблин Юрий Вадимович": 183,
-      "Неверов Николай Николаевич": 8,
-      "Павлов Борис Владимирович": 7,
-      "Хахалина Татьяна Петровна": 6,
-      "Шаккум Мартин Люцианович": 362,
-      "Шарнин Валерий Николаевич": 87,
-      "Против всех": 63
+      "gas:candidate-vibid:1001000112226": 50,
+      "gas:candidate-vibid:1001000202316": 13,
+      "gas:candidate-vibid:1001000217933": 12,
+      "gas:candidate-vibid:350300270387": 183,
+      "gas:candidate-vibid:350300270535": 8,
+      "gas:candidate-vibid:1001000190368": 7,
+      "gas:candidate-vibid:350300270370": 6,
+      "gas:candidate-vibid:1001000225953": 362,
+      "gas:candidate-vibid:1001000121865": 87,
+      "special:against-all": 63
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=503002005&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=350300270974&region=0&sub_region=0&type=429",
@@ -1399,16 +1399,16 @@ export const duma_2003_uik_428_region_50_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бакунин Валерий Николаевич": 12,
-      "Борисенко Леонид Николаевич": 2,
-      "Гребенщиков Александр Петрович": 7,
-      "Кораблин Юрий Вадимович": 31,
-      "Неверов Николай Николаевич": 0,
-      "Павлов Борис Владимирович": 3,
-      "Хахалина Татьяна Петровна": 3,
-      "Шаккум Мартин Люцианович": 61,
-      "Шарнин Валерий Николаевич": 31,
-      "Против всех": 14
+      "gas:candidate-vibid:1001000112226": 12,
+      "gas:candidate-vibid:1001000202316": 2,
+      "gas:candidate-vibid:1001000217933": 7,
+      "gas:candidate-vibid:350300270387": 31,
+      "gas:candidate-vibid:350300270535": 0,
+      "gas:candidate-vibid:1001000190368": 3,
+      "gas:candidate-vibid:350300270370": 3,
+      "gas:candidate-vibid:1001000225953": 61,
+      "gas:candidate-vibid:1001000121865": 31,
+      "special:against-all": 14
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=503002005&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=350300270974&region=0&sub_region=0&type=429",
@@ -1458,16 +1458,16 @@ export const duma_2003_uik_428_region_50_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бакунин Валерий Николаевич": 25,
-      "Борисенко Леонид Николаевич": 6,
-      "Гребенщиков Александр Петрович": 30,
-      "Кораблин Юрий Вадимович": 122,
-      "Неверов Николай Николаевич": 2,
-      "Павлов Борис Владимирович": 3,
-      "Хахалина Татьяна Петровна": 9,
-      "Шаккум Мартин Люцианович": 224,
-      "Шарнин Валерий Николаевич": 22,
-      "Против всех": 17
+      "gas:candidate-vibid:1001000112226": 25,
+      "gas:candidate-vibid:1001000202316": 6,
+      "gas:candidate-vibid:1001000217933": 30,
+      "gas:candidate-vibid:350300270387": 122,
+      "gas:candidate-vibid:350300270535": 2,
+      "gas:candidate-vibid:1001000190368": 3,
+      "gas:candidate-vibid:350300270370": 9,
+      "gas:candidate-vibid:1001000225953": 224,
+      "gas:candidate-vibid:1001000121865": 22,
+      "special:against-all": 17
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=503002005&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=350300270974&region=0&sub_region=0&type=429",
@@ -1517,16 +1517,16 @@ export const duma_2003_uik_428_region_50_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бакунин Валерий Николаевич": 14,
-      "Борисенко Леонид Николаевич": 1,
-      "Гребенщиков Александр Петрович": 7,
-      "Кораблин Юрий Вадимович": 181,
-      "Неверов Николай Николаевич": 0,
-      "Павлов Борис Владимирович": 2,
-      "Хахалина Татьяна Петровна": 5,
-      "Шаккум Мартин Люцианович": 157,
-      "Шарнин Валерий Николаевич": 38,
-      "Против всех": 40
+      "gas:candidate-vibid:1001000112226": 14,
+      "gas:candidate-vibid:1001000202316": 1,
+      "gas:candidate-vibid:1001000217933": 7,
+      "gas:candidate-vibid:350300270387": 181,
+      "gas:candidate-vibid:350300270535": 0,
+      "gas:candidate-vibid:1001000190368": 2,
+      "gas:candidate-vibid:350300270370": 5,
+      "gas:candidate-vibid:1001000225953": 157,
+      "gas:candidate-vibid:1001000121865": 38,
+      "special:against-all": 40
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=503002005&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=350300270974&region=0&sub_region=0&type=429",
@@ -1576,16 +1576,16 @@ export const duma_2003_uik_428_region_50_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бакунин Валерий Николаевич": 6,
-      "Борисенко Леонид Николаевич": 0,
-      "Гребенщиков Александр Петрович": 0,
-      "Кораблин Юрий Вадимович": 18,
-      "Неверов Николай Николаевич": 2,
-      "Павлов Борис Владимирович": 2,
-      "Хахалина Татьяна Петровна": 0,
-      "Шаккум Мартин Люцианович": 52,
-      "Шарнин Валерий Николаевич": 5,
-      "Против всех": 6
+      "gas:candidate-vibid:1001000112226": 6,
+      "gas:candidate-vibid:1001000202316": 0,
+      "gas:candidate-vibid:1001000217933": 0,
+      "gas:candidate-vibid:350300270387": 18,
+      "gas:candidate-vibid:350300270535": 2,
+      "gas:candidate-vibid:1001000190368": 2,
+      "gas:candidate-vibid:350300270370": 0,
+      "gas:candidate-vibid:1001000225953": 52,
+      "gas:candidate-vibid:1001000121865": 5,
+      "special:against-all": 6
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=503002005&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=350300270974&region=0&sub_region=0&type=429",
@@ -1635,16 +1635,16 @@ export const duma_2003_uik_428_region_50_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бакунин Валерий Николаевич": 21,
-      "Борисенко Леонид Николаевич": 1,
-      "Гребенщиков Александр Петрович": 7,
-      "Кораблин Юрий Вадимович": 50,
-      "Неверов Николай Николаевич": 0,
-      "Павлов Борис Владимирович": 1,
-      "Хахалина Татьяна Петровна": 2,
-      "Шаккум Мартин Люцианович": 282,
-      "Шарнин Валерий Николаевич": 15,
-      "Против всех": 31
+      "gas:candidate-vibid:1001000112226": 21,
+      "gas:candidate-vibid:1001000202316": 1,
+      "gas:candidate-vibid:1001000217933": 7,
+      "gas:candidate-vibid:350300270387": 50,
+      "gas:candidate-vibid:350300270535": 0,
+      "gas:candidate-vibid:1001000190368": 1,
+      "gas:candidate-vibid:350300270370": 2,
+      "gas:candidate-vibid:1001000225953": 282,
+      "gas:candidate-vibid:1001000121865": 15,
+      "special:against-all": 31
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=503002005&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=350300270974&region=0&sub_region=0&type=429",
@@ -1694,16 +1694,16 @@ export const duma_2003_uik_428_region_50_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бакунин Валерий Николаевич": 5,
-      "Борисенко Леонид Николаевич": 0,
-      "Гребенщиков Александр Петрович": 0,
-      "Кораблин Юрий Вадимович": 6,
-      "Неверов Николай Николаевич": 0,
-      "Павлов Борис Владимирович": 1,
-      "Хахалина Татьяна Петровна": 5,
-      "Шаккум Мартин Люцианович": 19,
-      "Шарнин Валерий Николаевич": 33,
-      "Против всех": 10
+      "gas:candidate-vibid:1001000112226": 5,
+      "gas:candidate-vibid:1001000202316": 0,
+      "gas:candidate-vibid:1001000217933": 0,
+      "gas:candidate-vibid:350300270387": 6,
+      "gas:candidate-vibid:350300270535": 0,
+      "gas:candidate-vibid:1001000190368": 1,
+      "gas:candidate-vibid:350300270370": 5,
+      "gas:candidate-vibid:1001000225953": 19,
+      "gas:candidate-vibid:1001000121865": 33,
+      "special:against-all": 10
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=503002005&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=350300270974&region=0&sub_region=0&type=429",
@@ -1753,16 +1753,16 @@ export const duma_2003_uik_428_region_50_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бакунин Валерий Николаевич": 5,
-      "Борисенко Леонид Николаевич": 1,
-      "Гребенщиков Александр Петрович": 0,
-      "Кораблин Юрий Вадимович": 10,
-      "Неверов Николай Николаевич": 0,
-      "Павлов Борис Владимирович": 1,
-      "Хахалина Татьяна Петровна": 2,
-      "Шаккум Мартин Люцианович": 40,
-      "Шарнин Валерий Николаевич": 4,
-      "Против всех": 3
+      "gas:candidate-vibid:1001000112226": 5,
+      "gas:candidate-vibid:1001000202316": 1,
+      "gas:candidate-vibid:1001000217933": 0,
+      "gas:candidate-vibid:350300270387": 10,
+      "gas:candidate-vibid:350300270535": 0,
+      "gas:candidate-vibid:1001000190368": 1,
+      "gas:candidate-vibid:350300270370": 2,
+      "gas:candidate-vibid:1001000225953": 40,
+      "gas:candidate-vibid:1001000121865": 4,
+      "special:against-all": 3
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=503002005&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=350300270974&region=0&sub_region=0&type=429",
@@ -1812,16 +1812,16 @@ export const duma_2003_uik_428_region_50_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бакунин Валерий Николаевич": 31,
-      "Борисенко Леонид Николаевич": 1,
-      "Гребенщиков Александр Петрович": 3,
-      "Кораблин Юрий Вадимович": 34,
-      "Неверов Николай Николаевич": 1,
-      "Павлов Борис Владимирович": 1,
-      "Хахалина Татьяна Петровна": 2,
-      "Шаккум Мартин Люцианович": 96,
-      "Шарнин Валерий Николаевич": 11,
-      "Против всех": 22
+      "gas:candidate-vibid:1001000112226": 31,
+      "gas:candidate-vibid:1001000202316": 1,
+      "gas:candidate-vibid:1001000217933": 3,
+      "gas:candidate-vibid:350300270387": 34,
+      "gas:candidate-vibid:350300270535": 1,
+      "gas:candidate-vibid:1001000190368": 1,
+      "gas:candidate-vibid:350300270370": 2,
+      "gas:candidate-vibid:1001000225953": 96,
+      "gas:candidate-vibid:1001000121865": 11,
+      "special:against-all": 22
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=503002005&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=350300270974&region=0&sub_region=0&type=429",
@@ -1871,16 +1871,16 @@ export const duma_2003_uik_428_region_50_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бакунин Валерий Николаевич": 105,
-      "Борисенко Леонид Николаевич": 6,
-      "Гребенщиков Александр Петрович": 6,
-      "Кораблин Юрий Вадимович": 164,
-      "Неверов Николай Николаевич": 1,
-      "Павлов Борис Владимирович": 3,
-      "Хахалина Татьяна Петровна": 8,
-      "Шаккум Мартин Люцианович": 412,
-      "Шарнин Валерий Николаевич": 50,
-      "Против всех": 118
+      "gas:candidate-vibid:1001000112226": 105,
+      "gas:candidate-vibid:1001000202316": 6,
+      "gas:candidate-vibid:1001000217933": 6,
+      "gas:candidate-vibid:350300270387": 164,
+      "gas:candidate-vibid:350300270535": 1,
+      "gas:candidate-vibid:1001000190368": 3,
+      "gas:candidate-vibid:350300270370": 8,
+      "gas:candidate-vibid:1001000225953": 412,
+      "gas:candidate-vibid:1001000121865": 50,
+      "special:against-all": 118
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=503002005&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=350300270974&region=0&sub_region=0&type=429",
@@ -1930,16 +1930,16 @@ export const duma_2003_uik_428_region_50_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бакунин Валерий Николаевич": 70,
-      "Борисенко Леонид Николаевич": 6,
-      "Гребенщиков Александр Петрович": 9,
-      "Кораблин Юрий Вадимович": 84,
-      "Неверов Николай Николаевич": 5,
-      "Павлов Борис Владимирович": 3,
-      "Хахалина Татьяна Петровна": 4,
-      "Шаккум Мартин Люцианович": 228,
-      "Шарнин Валерий Николаевич": 72,
-      "Против всех": 80
+      "gas:candidate-vibid:1001000112226": 70,
+      "gas:candidate-vibid:1001000202316": 6,
+      "gas:candidate-vibid:1001000217933": 9,
+      "gas:candidate-vibid:350300270387": 84,
+      "gas:candidate-vibid:350300270535": 5,
+      "gas:candidate-vibid:1001000190368": 3,
+      "gas:candidate-vibid:350300270370": 4,
+      "gas:candidate-vibid:1001000225953": 228,
+      "gas:candidate-vibid:1001000121865": 72,
+      "special:against-all": 80
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=503002005&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=350300270974&region=0&sub_region=0&type=429",
@@ -1989,16 +1989,16 @@ export const duma_2003_uik_428_region_50_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бакунин Валерий Николаевич": 48,
-      "Борисенко Леонид Николаевич": 7,
-      "Гребенщиков Александр Петрович": 28,
-      "Кораблин Юрий Вадимович": 80,
-      "Неверов Николай Николаевич": 6,
-      "Павлов Борис Владимирович": 4,
-      "Хахалина Татьяна Петровна": 17,
-      "Шаккум Мартин Люцианович": 165,
-      "Шарнин Валерий Николаевич": 27,
-      "Против всех": 72
+      "gas:candidate-vibid:1001000112226": 48,
+      "gas:candidate-vibid:1001000202316": 7,
+      "gas:candidate-vibid:1001000217933": 28,
+      "gas:candidate-vibid:350300270387": 80,
+      "gas:candidate-vibid:350300270535": 6,
+      "gas:candidate-vibid:1001000190368": 4,
+      "gas:candidate-vibid:350300270370": 17,
+      "gas:candidate-vibid:1001000225953": 165,
+      "gas:candidate-vibid:1001000121865": 27,
+      "special:against-all": 72
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=503002005&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=350300270974&region=0&sub_region=0&type=429",
@@ -2048,16 +2048,16 @@ export const duma_2003_uik_428_region_50_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бакунин Валерий Николаевич": 66,
-      "Борисенко Леонид Николаевич": 9,
-      "Гребенщиков Александр Петрович": 67,
-      "Кораблин Юрий Вадимович": 158,
-      "Неверов Николай Николаевич": 19,
-      "Павлов Борис Владимирович": 16,
-      "Хахалина Татьяна Петровна": 21,
-      "Шаккум Мартин Люцианович": 389,
-      "Шарнин Валерий Николаевич": 44,
-      "Против всех": 204
+      "gas:candidate-vibid:1001000112226": 66,
+      "gas:candidate-vibid:1001000202316": 9,
+      "gas:candidate-vibid:1001000217933": 67,
+      "gas:candidate-vibid:350300270387": 158,
+      "gas:candidate-vibid:350300270535": 19,
+      "gas:candidate-vibid:1001000190368": 16,
+      "gas:candidate-vibid:350300270370": 21,
+      "gas:candidate-vibid:1001000225953": 389,
+      "gas:candidate-vibid:1001000121865": 44,
+      "special:against-all": 204
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=503002005&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=350300270974&region=0&sub_region=0&type=429",
@@ -2107,16 +2107,16 @@ export const duma_2003_uik_428_region_50_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бакунин Валерий Николаевич": 99,
-      "Борисенко Леонид Николаевич": 3,
-      "Гребенщиков Александр Петрович": 52,
-      "Кораблин Юрий Вадимович": 109,
-      "Неверов Николай Николаевич": 4,
-      "Павлов Борис Владимирович": 4,
-      "Хахалина Татьяна Петровна": 19,
-      "Шаккум Мартин Люцианович": 541,
-      "Шарнин Валерий Николаевич": 49,
-      "Против всех": 176
+      "gas:candidate-vibid:1001000112226": 99,
+      "gas:candidate-vibid:1001000202316": 3,
+      "gas:candidate-vibid:1001000217933": 52,
+      "gas:candidate-vibid:350300270387": 109,
+      "gas:candidate-vibid:350300270535": 4,
+      "gas:candidate-vibid:1001000190368": 4,
+      "gas:candidate-vibid:350300270370": 19,
+      "gas:candidate-vibid:1001000225953": 541,
+      "gas:candidate-vibid:1001000121865": 49,
+      "special:against-all": 176
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=503002006&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=350300270975&region=0&sub_region=0&type=429",
@@ -2166,16 +2166,16 @@ export const duma_2003_uik_428_region_50_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бакунин Валерий Николаевич": 47,
-      "Борисенко Леонид Николаевич": 0,
-      "Гребенщиков Александр Петрович": 37,
-      "Кораблин Юрий Вадимович": 115,
-      "Неверов Николай Николаевич": 3,
-      "Павлов Борис Владимирович": 4,
-      "Хахалина Татьяна Петровна": 28,
-      "Шаккум Мартин Люцианович": 452,
-      "Шарнин Валерий Николаевич": 50,
-      "Против всех": 97
+      "gas:candidate-vibid:1001000112226": 47,
+      "gas:candidate-vibid:1001000202316": 0,
+      "gas:candidate-vibid:1001000217933": 37,
+      "gas:candidate-vibid:350300270387": 115,
+      "gas:candidate-vibid:350300270535": 3,
+      "gas:candidate-vibid:1001000190368": 4,
+      "gas:candidate-vibid:350300270370": 28,
+      "gas:candidate-vibid:1001000225953": 452,
+      "gas:candidate-vibid:1001000121865": 50,
+      "special:against-all": 97
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=503002006&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=350300270975&region=0&sub_region=0&type=429",
@@ -2225,16 +2225,16 @@ export const duma_2003_uik_428_region_50_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бакунин Валерий Николаевич": 72,
-      "Борисенко Леонид Николаевич": 1,
-      "Гребенщиков Александр Петрович": 41,
-      "Кораблин Юрий Вадимович": 104,
-      "Неверов Николай Николаевич": 4,
-      "Павлов Борис Владимирович": 4,
-      "Хахалина Татьяна Петровна": 21,
-      "Шаккум Мартин Люцианович": 503,
-      "Шарнин Валерий Николаевич": 68,
-      "Против всех": 147
+      "gas:candidate-vibid:1001000112226": 72,
+      "gas:candidate-vibid:1001000202316": 1,
+      "gas:candidate-vibid:1001000217933": 41,
+      "gas:candidate-vibid:350300270387": 104,
+      "gas:candidate-vibid:350300270535": 4,
+      "gas:candidate-vibid:1001000190368": 4,
+      "gas:candidate-vibid:350300270370": 21,
+      "gas:candidate-vibid:1001000225953": 503,
+      "gas:candidate-vibid:1001000121865": 68,
+      "special:against-all": 147
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=503002006&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=350300270975&region=0&sub_region=0&type=429",
@@ -2284,16 +2284,16 @@ export const duma_2003_uik_428_region_50_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бакунин Валерий Николаевич": 70,
-      "Борисенко Леонид Николаевич": 9,
-      "Гребенщиков Александр Петрович": 48,
-      "Кораблин Юрий Вадимович": 162,
-      "Неверов Николай Николаевич": 5,
-      "Павлов Борис Владимирович": 12,
-      "Хахалина Татьяна Петровна": 21,
-      "Шаккум Мартин Люцианович": 562,
-      "Шарнин Валерий Николаевич": 48,
-      "Против всех": 139
+      "gas:candidate-vibid:1001000112226": 70,
+      "gas:candidate-vibid:1001000202316": 9,
+      "gas:candidate-vibid:1001000217933": 48,
+      "gas:candidate-vibid:350300270387": 162,
+      "gas:candidate-vibid:350300270535": 5,
+      "gas:candidate-vibid:1001000190368": 12,
+      "gas:candidate-vibid:350300270370": 21,
+      "gas:candidate-vibid:1001000225953": 562,
+      "gas:candidate-vibid:1001000121865": 48,
+      "special:against-all": 139
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=503002006&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=350300270975&region=0&sub_region=0&type=429",
@@ -2343,16 +2343,16 @@ export const duma_2003_uik_428_region_50_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бакунин Валерий Николаевич": 27,
-      "Борисенко Леонид Николаевич": 5,
-      "Гребенщиков Александр Петрович": 7,
-      "Кораблин Юрий Вадимович": 24,
-      "Неверов Николай Николаевич": 2,
-      "Павлов Борис Владимирович": 3,
-      "Хахалина Татьяна Петровна": 8,
-      "Шаккум Мартин Люцианович": 286,
-      "Шарнин Валерий Николаевич": 22,
-      "Против всех": 40
+      "gas:candidate-vibid:1001000112226": 27,
+      "gas:candidate-vibid:1001000202316": 5,
+      "gas:candidate-vibid:1001000217933": 7,
+      "gas:candidate-vibid:350300270387": 24,
+      "gas:candidate-vibid:350300270535": 2,
+      "gas:candidate-vibid:1001000190368": 3,
+      "gas:candidate-vibid:350300270370": 8,
+      "gas:candidate-vibid:1001000225953": 286,
+      "gas:candidate-vibid:1001000121865": 22,
+      "special:against-all": 40
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=503002006&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=350300270975&region=0&sub_region=0&type=429",
@@ -2402,16 +2402,16 @@ export const duma_2003_uik_428_region_50_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бакунин Валерий Николаевич": 36,
-      "Борисенко Леонид Николаевич": 2,
-      "Гребенщиков Александр Петрович": 6,
-      "Кораблин Юрий Вадимович": 60,
-      "Неверов Николай Николаевич": 4,
-      "Павлов Борис Владимирович": 5,
-      "Хахалина Татьяна Петровна": 11,
-      "Шаккум Мартин Люцианович": 254,
-      "Шарнин Валерий Николаевич": 20,
-      "Против всех": 48
+      "gas:candidate-vibid:1001000112226": 36,
+      "gas:candidate-vibid:1001000202316": 2,
+      "gas:candidate-vibid:1001000217933": 6,
+      "gas:candidate-vibid:350300270387": 60,
+      "gas:candidate-vibid:350300270535": 4,
+      "gas:candidate-vibid:1001000190368": 5,
+      "gas:candidate-vibid:350300270370": 11,
+      "gas:candidate-vibid:1001000225953": 254,
+      "gas:candidate-vibid:1001000121865": 20,
+      "special:against-all": 48
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=503002006&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=350300270975&region=0&sub_region=0&type=429",
@@ -2461,16 +2461,16 @@ export const duma_2003_uik_428_region_50_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бакунин Валерий Николаевич": 22,
-      "Борисенко Леонид Николаевич": 7,
-      "Гребенщиков Александр Петрович": 8,
-      "Кораблин Юрий Вадимович": 102,
-      "Неверов Николай Николаевич": 4,
-      "Павлов Борис Владимирович": 2,
-      "Хахалина Татьяна Петровна": 5,
-      "Шаккум Мартин Люцианович": 253,
-      "Шарнин Валерий Николаевич": 25,
-      "Против всех": 75
+      "gas:candidate-vibid:1001000112226": 22,
+      "gas:candidate-vibid:1001000202316": 7,
+      "gas:candidate-vibid:1001000217933": 8,
+      "gas:candidate-vibid:350300270387": 102,
+      "gas:candidate-vibid:350300270535": 4,
+      "gas:candidate-vibid:1001000190368": 2,
+      "gas:candidate-vibid:350300270370": 5,
+      "gas:candidate-vibid:1001000225953": 253,
+      "gas:candidate-vibid:1001000121865": 25,
+      "special:against-all": 75
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=503002006&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=350300270975&region=0&sub_region=0&type=429",
@@ -2520,16 +2520,16 @@ export const duma_2003_uik_428_region_50_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бакунин Валерий Николаевич": 28,
-      "Борисенко Леонид Николаевич": 5,
-      "Гребенщиков Александр Петрович": 23,
-      "Кораблин Юрий Вадимович": 106,
-      "Неверов Николай Николаевич": 5,
-      "Павлов Борис Владимирович": 9,
-      "Хахалина Татьяна Петровна": 9,
-      "Шаккум Мартин Люцианович": 289,
-      "Шарнин Валерий Николаевич": 15,
-      "Против всех": 40
+      "gas:candidate-vibid:1001000112226": 28,
+      "gas:candidate-vibid:1001000202316": 5,
+      "gas:candidate-vibid:1001000217933": 23,
+      "gas:candidate-vibid:350300270387": 106,
+      "gas:candidate-vibid:350300270535": 5,
+      "gas:candidate-vibid:1001000190368": 9,
+      "gas:candidate-vibid:350300270370": 9,
+      "gas:candidate-vibid:1001000225953": 289,
+      "gas:candidate-vibid:1001000121865": 15,
+      "special:against-all": 40
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=503002006&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=350300270975&region=0&sub_region=0&type=429",
@@ -2579,16 +2579,16 @@ export const duma_2003_uik_428_region_50_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бакунин Валерий Николаевич": 18,
-      "Борисенко Леонид Николаевич": 5,
-      "Гребенщиков Александр Петрович": 10,
-      "Кораблин Юрий Вадимович": 55,
-      "Неверов Николай Николаевич": 3,
-      "Павлов Борис Владимирович": 7,
-      "Хахалина Татьяна Петровна": 15,
-      "Шаккум Мартин Люцианович": 473,
-      "Шарнин Валерий Николаевич": 39,
-      "Против всех": 82
+      "gas:candidate-vibid:1001000112226": 18,
+      "gas:candidate-vibid:1001000202316": 5,
+      "gas:candidate-vibid:1001000217933": 10,
+      "gas:candidate-vibid:350300270387": 55,
+      "gas:candidate-vibid:350300270535": 3,
+      "gas:candidate-vibid:1001000190368": 7,
+      "gas:candidate-vibid:350300270370": 15,
+      "gas:candidate-vibid:1001000225953": 473,
+      "gas:candidate-vibid:1001000121865": 39,
+      "special:against-all": 82
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=503002006&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=350300270975&region=0&sub_region=0&type=429",
@@ -2638,16 +2638,16 @@ export const duma_2003_uik_428_region_50_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бакунин Валерий Николаевич": 9,
-      "Борисенко Леонид Николаевич": 0,
-      "Гребенщиков Александр Петрович": 5,
-      "Кораблин Юрий Вадимович": 74,
-      "Неверов Николай Николаевич": 0,
-      "Павлов Борис Владимирович": 4,
-      "Хахалина Татьяна Петровна": 6,
-      "Шаккум Мартин Люцианович": 269,
-      "Шарнин Валерий Николаевич": 9,
-      "Против всех": 46
+      "gas:candidate-vibid:1001000112226": 9,
+      "gas:candidate-vibid:1001000202316": 0,
+      "gas:candidate-vibid:1001000217933": 5,
+      "gas:candidate-vibid:350300270387": 74,
+      "gas:candidate-vibid:350300270535": 0,
+      "gas:candidate-vibid:1001000190368": 4,
+      "gas:candidate-vibid:350300270370": 6,
+      "gas:candidate-vibid:1001000225953": 269,
+      "gas:candidate-vibid:1001000121865": 9,
+      "special:against-all": 46
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=503002006&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=350300270975&region=0&sub_region=0&type=429",
@@ -2697,16 +2697,16 @@ export const duma_2003_uik_428_region_50_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бакунин Валерий Николаевич": 18,
-      "Борисенко Леонид Николаевич": 2,
-      "Гребенщиков Александр Петрович": 14,
-      "Кораблин Юрий Вадимович": 74,
-      "Неверов Николай Николаевич": 2,
-      "Павлов Борис Владимирович": 0,
-      "Хахалина Татьяна Петровна": 3,
-      "Шаккум Мартин Люцианович": 329,
-      "Шарнин Валерий Николаевич": 22,
-      "Против всех": 44
+      "gas:candidate-vibid:1001000112226": 18,
+      "gas:candidate-vibid:1001000202316": 2,
+      "gas:candidate-vibid:1001000217933": 14,
+      "gas:candidate-vibid:350300270387": 74,
+      "gas:candidate-vibid:350300270535": 2,
+      "gas:candidate-vibid:1001000190368": 0,
+      "gas:candidate-vibid:350300270370": 3,
+      "gas:candidate-vibid:1001000225953": 329,
+      "gas:candidate-vibid:1001000121865": 22,
+      "special:against-all": 44
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=503002006&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=350300270975&region=0&sub_region=0&type=429",
@@ -2756,16 +2756,16 @@ export const duma_2003_uik_428_region_50_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бакунин Валерий Николаевич": 15,
-      "Борисенко Леонид Николаевич": 10,
-      "Гребенщиков Александр Петрович": 22,
-      "Кораблин Юрий Вадимович": 41,
-      "Неверов Николай Николаевич": 6,
-      "Павлов Борис Владимирович": 2,
-      "Хахалина Татьяна Петровна": 3,
-      "Шаккум Мартин Люцианович": 227,
-      "Шарнин Валерий Николаевич": 6,
-      "Против всех": 38
+      "gas:candidate-vibid:1001000112226": 15,
+      "gas:candidate-vibid:1001000202316": 10,
+      "gas:candidate-vibid:1001000217933": 22,
+      "gas:candidate-vibid:350300270387": 41,
+      "gas:candidate-vibid:350300270535": 6,
+      "gas:candidate-vibid:1001000190368": 2,
+      "gas:candidate-vibid:350300270370": 3,
+      "gas:candidate-vibid:1001000225953": 227,
+      "gas:candidate-vibid:1001000121865": 6,
+      "special:against-all": 38
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=503002006&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=350300270975&region=0&sub_region=0&type=429",
@@ -2815,16 +2815,16 @@ export const duma_2003_uik_428_region_50_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бакунин Валерий Николаевич": 23,
-      "Борисенко Леонид Николаевич": 3,
-      "Гребенщиков Александр Петрович": 25,
-      "Кораблин Юрий Вадимович": 74,
-      "Неверов Николай Николаевич": 4,
-      "Павлов Борис Владимирович": 7,
-      "Хахалина Татьяна Петровна": 4,
-      "Шаккум Мартин Люцианович": 371,
-      "Шарнин Валерий Николаевич": 19,
-      "Против всех": 66
+      "gas:candidate-vibid:1001000112226": 23,
+      "gas:candidate-vibid:1001000202316": 3,
+      "gas:candidate-vibid:1001000217933": 25,
+      "gas:candidate-vibid:350300270387": 74,
+      "gas:candidate-vibid:350300270535": 4,
+      "gas:candidate-vibid:1001000190368": 7,
+      "gas:candidate-vibid:350300270370": 4,
+      "gas:candidate-vibid:1001000225953": 371,
+      "gas:candidate-vibid:1001000121865": 19,
+      "special:against-all": 66
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=503002006&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=350300270975&region=0&sub_region=0&type=429",
@@ -2874,16 +2874,16 @@ export const duma_2003_uik_428_region_50_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бакунин Валерий Николаевич": 39,
-      "Борисенко Леонид Николаевич": 7,
-      "Гребенщиков Александр Петрович": 40,
-      "Кораблин Юрий Вадимович": 297,
-      "Неверов Николай Николаевич": 8,
-      "Павлов Борис Владимирович": 9,
-      "Хахалина Татьяна Петровна": 6,
-      "Шаккум Мартин Люцианович": 386,
-      "Шарнин Валерий Николаевич": 42,
-      "Против всех": 141
+      "gas:candidate-vibid:1001000112226": 39,
+      "gas:candidate-vibid:1001000202316": 7,
+      "gas:candidate-vibid:1001000217933": 40,
+      "gas:candidate-vibid:350300270387": 297,
+      "gas:candidate-vibid:350300270535": 8,
+      "gas:candidate-vibid:1001000190368": 9,
+      "gas:candidate-vibid:350300270370": 6,
+      "gas:candidate-vibid:1001000225953": 386,
+      "gas:candidate-vibid:1001000121865": 42,
+      "special:against-all": 141
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=503002006&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=350300270975&region=0&sub_region=0&type=429",
@@ -2933,16 +2933,16 @@ export const duma_2003_uik_428_region_50_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бакунин Валерий Николаевич": 34,
-      "Борисенко Леонид Николаевич": 4,
-      "Гребенщиков Александр Петрович": 16,
-      "Кораблин Юрий Вадимович": 47,
-      "Неверов Николай Николаевич": 3,
-      "Павлов Борис Владимирович": 3,
-      "Хахалина Татьяна Петровна": 14,
-      "Шаккум Мартин Люцианович": 284,
-      "Шарнин Валерий Николаевич": 30,
-      "Против всех": 57
+      "gas:candidate-vibid:1001000112226": 34,
+      "gas:candidate-vibid:1001000202316": 4,
+      "gas:candidate-vibid:1001000217933": 16,
+      "gas:candidate-vibid:350300270387": 47,
+      "gas:candidate-vibid:350300270535": 3,
+      "gas:candidate-vibid:1001000190368": 3,
+      "gas:candidate-vibid:350300270370": 14,
+      "gas:candidate-vibid:1001000225953": 284,
+      "gas:candidate-vibid:1001000121865": 30,
+      "special:against-all": 57
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=503002006&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=350300270975&region=0&sub_region=0&type=429",
@@ -2992,16 +2992,16 @@ export const duma_2003_uik_428_region_50_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бакунин Валерий Николаевич": 89,
-      "Борисенко Леонид Николаевич": 14,
-      "Гребенщиков Александр Петрович": 30,
-      "Кораблин Юрий Вадимович": 353,
-      "Неверов Николай Николаевич": 70,
-      "Павлов Борис Владимирович": 27,
-      "Хахалина Татьяна Петровна": 28,
-      "Шаккум Мартин Люцианович": 359,
-      "Шарнин Валерий Николаевич": 76,
-      "Против всех": 189
+      "gas:candidate-vibid:1001000112226": 89,
+      "gas:candidate-vibid:1001000202316": 14,
+      "gas:candidate-vibid:1001000217933": 30,
+      "gas:candidate-vibid:350300270387": 353,
+      "gas:candidate-vibid:350300270535": 70,
+      "gas:candidate-vibid:1001000190368": 27,
+      "gas:candidate-vibid:350300270370": 28,
+      "gas:candidate-vibid:1001000225953": 359,
+      "gas:candidate-vibid:1001000121865": 76,
+      "special:against-all": 189
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=503002007&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=350300270976&region=0&sub_region=0&type=429",
@@ -3051,16 +3051,16 @@ export const duma_2003_uik_428_region_50_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бакунин Валерий Николаевич": 118,
-      "Борисенко Леонид Николаевич": 5,
-      "Гребенщиков Александр Петрович": 19,
-      "Кораблин Юрий Вадимович": 385,
-      "Неверов Николай Николаевич": 59,
-      "Павлов Борис Владимирович": 5,
-      "Хахалина Татьяна Петровна": 36,
-      "Шаккум Мартин Люцианович": 472,
-      "Шарнин Валерий Николаевич": 100,
-      "Против всех": 217
+      "gas:candidate-vibid:1001000112226": 118,
+      "gas:candidate-vibid:1001000202316": 5,
+      "gas:candidate-vibid:1001000217933": 19,
+      "gas:candidate-vibid:350300270387": 385,
+      "gas:candidate-vibid:350300270535": 59,
+      "gas:candidate-vibid:1001000190368": 5,
+      "gas:candidate-vibid:350300270370": 36,
+      "gas:candidate-vibid:1001000225953": 472,
+      "gas:candidate-vibid:1001000121865": 100,
+      "special:against-all": 217
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=503002007&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=350300270976&region=0&sub_region=0&type=429",
@@ -3110,16 +3110,16 @@ export const duma_2003_uik_428_region_50_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бакунин Валерий Николаевич": 94,
-      "Борисенко Леонид Николаевич": 3,
-      "Гребенщиков Александр Петрович": 15,
-      "Кораблин Юрий Вадимович": 329,
-      "Неверов Николай Николаевич": 52,
-      "Павлов Борис Владимирович": 8,
-      "Хахалина Татьяна Петровна": 37,
-      "Шаккум Мартин Люцианович": 419,
-      "Шарнин Валерий Николаевич": 82,
-      "Против всех": 161
+      "gas:candidate-vibid:1001000112226": 94,
+      "gas:candidate-vibid:1001000202316": 3,
+      "gas:candidate-vibid:1001000217933": 15,
+      "gas:candidate-vibid:350300270387": 329,
+      "gas:candidate-vibid:350300270535": 52,
+      "gas:candidate-vibid:1001000190368": 8,
+      "gas:candidate-vibid:350300270370": 37,
+      "gas:candidate-vibid:1001000225953": 419,
+      "gas:candidate-vibid:1001000121865": 82,
+      "special:against-all": 161
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=503002007&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=350300270976&region=0&sub_region=0&type=429",
@@ -3169,16 +3169,16 @@ export const duma_2003_uik_428_region_50_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бакунин Валерий Николаевич": 79,
-      "Борисенко Леонид Николаевич": 4,
-      "Гребенщиков Александр Петрович": 21,
-      "Кораблин Юрий Вадимович": 440,
-      "Неверов Николай Николаевич": 50,
-      "Павлов Борис Владимирович": 20,
-      "Хахалина Татьяна Петровна": 45,
-      "Шаккум Мартин Люцианович": 511,
-      "Шарнин Валерий Николаевич": 78,
-      "Против всех": 203
+      "gas:candidate-vibid:1001000112226": 79,
+      "gas:candidate-vibid:1001000202316": 4,
+      "gas:candidate-vibid:1001000217933": 21,
+      "gas:candidate-vibid:350300270387": 440,
+      "gas:candidate-vibid:350300270535": 50,
+      "gas:candidate-vibid:1001000190368": 20,
+      "gas:candidate-vibid:350300270370": 45,
+      "gas:candidate-vibid:1001000225953": 511,
+      "gas:candidate-vibid:1001000121865": 78,
+      "special:against-all": 203
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=503002007&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=350300270976&region=0&sub_region=0&type=429",
@@ -3228,16 +3228,16 @@ export const duma_2003_uik_428_region_50_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бакунин Валерий Николаевич": 137,
-      "Борисенко Леонид Николаевич": 6,
-      "Гребенщиков Александр Петрович": 31,
-      "Кораблин Юрий Вадимович": 473,
-      "Неверов Николай Николаевич": 81,
-      "Павлов Борис Владимирович": 15,
-      "Хахалина Татьяна Петровна": 45,
-      "Шаккум Мартин Люцианович": 524,
-      "Шарнин Валерий Николаевич": 67,
-      "Против всех": 246
+      "gas:candidate-vibid:1001000112226": 137,
+      "gas:candidate-vibid:1001000202316": 6,
+      "gas:candidate-vibid:1001000217933": 31,
+      "gas:candidate-vibid:350300270387": 473,
+      "gas:candidate-vibid:350300270535": 81,
+      "gas:candidate-vibid:1001000190368": 15,
+      "gas:candidate-vibid:350300270370": 45,
+      "gas:candidate-vibid:1001000225953": 524,
+      "gas:candidate-vibid:1001000121865": 67,
+      "special:against-all": 246
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=503002007&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=350300270976&region=0&sub_region=0&type=429",
@@ -3287,16 +3287,16 @@ export const duma_2003_uik_428_region_50_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бакунин Валерий Николаевич": 98,
-      "Борисенко Леонид Николаевич": 7,
-      "Гребенщиков Александр Петрович": 17,
-      "Кораблин Юрий Вадимович": 444,
-      "Неверов Николай Николаевич": 41,
-      "Павлов Борис Владимирович": 6,
-      "Хахалина Татьяна Петровна": 40,
-      "Шаккум Мартин Люцианович": 342,
-      "Шарнин Валерий Николаевич": 79,
-      "Против всех": 205
+      "gas:candidate-vibid:1001000112226": 98,
+      "gas:candidate-vibid:1001000202316": 7,
+      "gas:candidate-vibid:1001000217933": 17,
+      "gas:candidate-vibid:350300270387": 444,
+      "gas:candidate-vibid:350300270535": 41,
+      "gas:candidate-vibid:1001000190368": 6,
+      "gas:candidate-vibid:350300270370": 40,
+      "gas:candidate-vibid:1001000225953": 342,
+      "gas:candidate-vibid:1001000121865": 79,
+      "special:against-all": 205
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=503002007&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=350300270976&region=0&sub_region=0&type=429",
@@ -3346,16 +3346,16 @@ export const duma_2003_uik_428_region_50_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бакунин Валерий Николаевич": 87,
-      "Борисенко Леонид Николаевич": 6,
-      "Гребенщиков Александр Петрович": 27,
-      "Кораблин Юрий Вадимович": 398,
-      "Неверов Николай Николаевич": 59,
-      "Павлов Борис Владимирович": 12,
-      "Хахалина Татьяна Петровна": 45,
-      "Шаккум Мартин Люцианович": 421,
-      "Шарнин Валерий Николаевич": 87,
-      "Против всех": 188
+      "gas:candidate-vibid:1001000112226": 87,
+      "gas:candidate-vibid:1001000202316": 6,
+      "gas:candidate-vibid:1001000217933": 27,
+      "gas:candidate-vibid:350300270387": 398,
+      "gas:candidate-vibid:350300270535": 59,
+      "gas:candidate-vibid:1001000190368": 12,
+      "gas:candidate-vibid:350300270370": 45,
+      "gas:candidate-vibid:1001000225953": 421,
+      "gas:candidate-vibid:1001000121865": 87,
+      "special:against-all": 188
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=503002007&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=350300270976&region=0&sub_region=0&type=429",
@@ -3405,16 +3405,16 @@ export const duma_2003_uik_428_region_50_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бакунин Валерий Николаевич": 112,
-      "Борисенко Леонид Николаевич": 5,
-      "Гребенщиков Александр Петрович": 17,
-      "Кораблин Юрий Вадимович": 342,
-      "Неверов Николай Николаевич": 57,
-      "Павлов Борис Владимирович": 8,
-      "Хахалина Татьяна Петровна": 37,
-      "Шаккум Мартин Люцианович": 450,
-      "Шарнин Валерий Николаевич": 66,
-      "Против всех": 206
+      "gas:candidate-vibid:1001000112226": 112,
+      "gas:candidate-vibid:1001000202316": 5,
+      "gas:candidate-vibid:1001000217933": 17,
+      "gas:candidate-vibid:350300270387": 342,
+      "gas:candidate-vibid:350300270535": 57,
+      "gas:candidate-vibid:1001000190368": 8,
+      "gas:candidate-vibid:350300270370": 37,
+      "gas:candidate-vibid:1001000225953": 450,
+      "gas:candidate-vibid:1001000121865": 66,
+      "special:against-all": 206
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=503002007&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=350300270976&region=0&sub_region=0&type=429",
@@ -3464,16 +3464,16 @@ export const duma_2003_uik_428_region_50_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бакунин Валерий Николаевич": 90,
-      "Борисенко Леонид Николаевич": 12,
-      "Гребенщиков Александр Петрович": 20,
-      "Кораблин Юрий Вадимович": 345,
-      "Неверов Николай Николаевич": 59,
-      "Павлов Борис Владимирович": 3,
-      "Хахалина Татьяна Петровна": 43,
-      "Шаккум Мартин Люцианович": 421,
-      "Шарнин Валерий Николаевич": 88,
-      "Против всех": 166
+      "gas:candidate-vibid:1001000112226": 90,
+      "gas:candidate-vibid:1001000202316": 12,
+      "gas:candidate-vibid:1001000217933": 20,
+      "gas:candidate-vibid:350300270387": 345,
+      "gas:candidate-vibid:350300270535": 59,
+      "gas:candidate-vibid:1001000190368": 3,
+      "gas:candidate-vibid:350300270370": 43,
+      "gas:candidate-vibid:1001000225953": 421,
+      "gas:candidate-vibid:1001000121865": 88,
+      "special:against-all": 166
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=503002007&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=350300270976&region=0&sub_region=0&type=429",
@@ -3523,16 +3523,16 @@ export const duma_2003_uik_428_region_50_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бакунин Валерий Николаевич": 82,
-      "Борисенко Леонид Николаевич": 9,
-      "Гребенщиков Александр Петрович": 20,
-      "Кораблин Юрий Вадимович": 329,
-      "Неверов Николай Николаевич": 48,
-      "Павлов Борис Владимирович": 10,
-      "Хахалина Татьяна Петровна": 33,
-      "Шаккум Мартин Люцианович": 411,
-      "Шарнин Валерий Николаевич": 84,
-      "Против всех": 172
+      "gas:candidate-vibid:1001000112226": 82,
+      "gas:candidate-vibid:1001000202316": 9,
+      "gas:candidate-vibid:1001000217933": 20,
+      "gas:candidate-vibid:350300270387": 329,
+      "gas:candidate-vibid:350300270535": 48,
+      "gas:candidate-vibid:1001000190368": 10,
+      "gas:candidate-vibid:350300270370": 33,
+      "gas:candidate-vibid:1001000225953": 411,
+      "gas:candidate-vibid:1001000121865": 84,
+      "special:against-all": 172
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=503002007&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=350300270976&region=0&sub_region=0&type=429",
@@ -3582,16 +3582,16 @@ export const duma_2003_uik_428_region_50_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бакунин Валерий Николаевич": 104,
-      "Борисенко Леонид Николаевич": 8,
-      "Гребенщиков Александр Петрович": 34,
-      "Кораблин Юрий Вадимович": 590,
-      "Неверов Николай Николаевич": 51,
-      "Павлов Борис Владимирович": 7,
-      "Хахалина Татьяна Петровна": 51,
-      "Шаккум Мартин Люцианович": 405,
-      "Шарнин Валерий Николаевич": 103,
-      "Против всех": 211
+      "gas:candidate-vibid:1001000112226": 104,
+      "gas:candidate-vibid:1001000202316": 8,
+      "gas:candidate-vibid:1001000217933": 34,
+      "gas:candidate-vibid:350300270387": 590,
+      "gas:candidate-vibid:350300270535": 51,
+      "gas:candidate-vibid:1001000190368": 7,
+      "gas:candidate-vibid:350300270370": 51,
+      "gas:candidate-vibid:1001000225953": 405,
+      "gas:candidate-vibid:1001000121865": 103,
+      "special:against-all": 211
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=503002007&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=350300270976&region=0&sub_region=0&type=429",
@@ -3641,16 +3641,16 @@ export const duma_2003_uik_428_region_50_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бакунин Валерий Николаевич": 78,
-      "Борисенко Леонид Николаевич": 4,
-      "Гребенщиков Александр Петрович": 24,
-      "Кораблин Юрий Вадимович": 347,
-      "Неверов Николай Николаевич": 71,
-      "Павлов Борис Владимирович": 12,
-      "Хахалина Татьяна Петровна": 34,
-      "Шаккум Мартин Люцианович": 440,
-      "Шарнин Валерий Николаевич": 69,
-      "Против всех": 179
+      "gas:candidate-vibid:1001000112226": 78,
+      "gas:candidate-vibid:1001000202316": 4,
+      "gas:candidate-vibid:1001000217933": 24,
+      "gas:candidate-vibid:350300270387": 347,
+      "gas:candidate-vibid:350300270535": 71,
+      "gas:candidate-vibid:1001000190368": 12,
+      "gas:candidate-vibid:350300270370": 34,
+      "gas:candidate-vibid:1001000225953": 440,
+      "gas:candidate-vibid:1001000121865": 69,
+      "special:against-all": 179
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=503002007&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=350300270976&region=0&sub_region=0&type=429",
@@ -3700,16 +3700,16 @@ export const duma_2003_uik_428_region_50_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бакунин Валерий Николаевич": 129,
-      "Борисенко Леонид Николаевич": 7,
-      "Гребенщиков Александр Петрович": 24,
-      "Кораблин Юрий Вадимович": 480,
-      "Неверов Николай Николаевич": 57,
-      "Павлов Борис Владимирович": 16,
-      "Хахалина Татьяна Петровна": 48,
-      "Шаккум Мартин Люцианович": 440,
-      "Шарнин Валерий Николаевич": 85,
-      "Против всех": 241
+      "gas:candidate-vibid:1001000112226": 129,
+      "gas:candidate-vibid:1001000202316": 7,
+      "gas:candidate-vibid:1001000217933": 24,
+      "gas:candidate-vibid:350300270387": 480,
+      "gas:candidate-vibid:350300270535": 57,
+      "gas:candidate-vibid:1001000190368": 16,
+      "gas:candidate-vibid:350300270370": 48,
+      "gas:candidate-vibid:1001000225953": 440,
+      "gas:candidate-vibid:1001000121865": 85,
+      "special:against-all": 241
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=503002007&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=350300270976&region=0&sub_region=0&type=429",
@@ -3759,16 +3759,16 @@ export const duma_2003_uik_428_region_50_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бакунин Валерий Николаевич": 79,
-      "Борисенко Леонид Николаевич": 5,
-      "Гребенщиков Александр Петрович": 10,
-      "Кораблин Юрий Вадимович": 474,
-      "Неверов Николай Николаевич": 33,
-      "Павлов Борис Владимирович": 13,
-      "Хахалина Татьяна Петровна": 28,
-      "Шаккум Мартин Люцианович": 326,
-      "Шарнин Валерий Николаевич": 49,
-      "Против всех": 159
+      "gas:candidate-vibid:1001000112226": 79,
+      "gas:candidate-vibid:1001000202316": 5,
+      "gas:candidate-vibid:1001000217933": 10,
+      "gas:candidate-vibid:350300270387": 474,
+      "gas:candidate-vibid:350300270535": 33,
+      "gas:candidate-vibid:1001000190368": 13,
+      "gas:candidate-vibid:350300270370": 28,
+      "gas:candidate-vibid:1001000225953": 326,
+      "gas:candidate-vibid:1001000121865": 49,
+      "special:against-all": 159
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=503002007&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=350300270976&region=0&sub_region=0&type=429",
@@ -3818,16 +3818,16 @@ export const duma_2003_uik_428_region_50_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бакунин Валерий Николаевич": 130,
-      "Борисенко Леонид Николаевич": 15,
-      "Гребенщиков Александр Петрович": 20,
-      "Кораблин Юрий Вадимович": 427,
-      "Неверов Николай Николаевич": 50,
-      "Павлов Борис Владимирович": 16,
-      "Хахалина Татьяна Петровна": 32,
-      "Шаккум Мартин Люцианович": 434,
-      "Шарнин Валерий Николаевич": 80,
-      "Против всех": 242
+      "gas:candidate-vibid:1001000112226": 130,
+      "gas:candidate-vibid:1001000202316": 15,
+      "gas:candidate-vibid:1001000217933": 20,
+      "gas:candidate-vibid:350300270387": 427,
+      "gas:candidate-vibid:350300270535": 50,
+      "gas:candidate-vibid:1001000190368": 16,
+      "gas:candidate-vibid:350300270370": 32,
+      "gas:candidate-vibid:1001000225953": 434,
+      "gas:candidate-vibid:1001000121865": 80,
+      "special:against-all": 242
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=503002007&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=350300270976&region=0&sub_region=0&type=429",
@@ -3877,16 +3877,16 @@ export const duma_2003_uik_428_region_50_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бакунин Валерий Николаевич": 86,
-      "Борисенко Леонид Николаевич": 7,
-      "Гребенщиков Александр Петрович": 30,
-      "Кораблин Юрий Вадимович": 505,
-      "Неверов Николай Николаевич": 50,
-      "Павлов Борис Владимирович": 15,
-      "Хахалина Татьяна Петровна": 46,
-      "Шаккум Мартин Люцианович": 409,
-      "Шарнин Валерий Николаевич": 81,
-      "Против всех": 281
+      "gas:candidate-vibid:1001000112226": 86,
+      "gas:candidate-vibid:1001000202316": 7,
+      "gas:candidate-vibid:1001000217933": 30,
+      "gas:candidate-vibid:350300270387": 505,
+      "gas:candidate-vibid:350300270535": 50,
+      "gas:candidate-vibid:1001000190368": 15,
+      "gas:candidate-vibid:350300270370": 46,
+      "gas:candidate-vibid:1001000225953": 409,
+      "gas:candidate-vibid:1001000121865": 81,
+      "special:against-all": 281
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=503002007&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=350300270976&region=0&sub_region=0&type=429",
@@ -3936,16 +3936,16 @@ export const duma_2003_uik_428_region_50_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бакунин Валерий Николаевич": 120,
-      "Борисенко Леонид Николаевич": 9,
-      "Гребенщиков Александр Петрович": 41,
-      "Кораблин Юрий Вадимович": 553,
-      "Неверов Николай Николаевич": 72,
-      "Павлов Борис Владимирович": 13,
-      "Хахалина Татьяна Петровна": 67,
-      "Шаккум Мартин Люцианович": 410,
-      "Шарнин Валерий Николаевич": 79,
-      "Против всех": 247
+      "gas:candidate-vibid:1001000112226": 120,
+      "gas:candidate-vibid:1001000202316": 9,
+      "gas:candidate-vibid:1001000217933": 41,
+      "gas:candidate-vibid:350300270387": 553,
+      "gas:candidate-vibid:350300270535": 72,
+      "gas:candidate-vibid:1001000190368": 13,
+      "gas:candidate-vibid:350300270370": 67,
+      "gas:candidate-vibid:1001000225953": 410,
+      "gas:candidate-vibid:1001000121865": 79,
+      "special:against-all": 247
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=503002007&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=350300270976&region=0&sub_region=0&type=429",
@@ -3995,16 +3995,16 @@ export const duma_2003_uik_428_region_50_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бакунин Валерий Николаевич": 92,
-      "Борисенко Леонид Николаевич": 8,
-      "Гребенщиков Александр Петрович": 25,
-      "Кораблин Юрий Вадимович": 447,
-      "Неверов Николай Николаевич": 62,
-      "Павлов Борис Владимирович": 13,
-      "Хахалина Татьяна Петровна": 35,
-      "Шаккум Мартин Люцианович": 403,
-      "Шарнин Валерий Николаевич": 71,
-      "Против всех": 181
+      "gas:candidate-vibid:1001000112226": 92,
+      "gas:candidate-vibid:1001000202316": 8,
+      "gas:candidate-vibid:1001000217933": 25,
+      "gas:candidate-vibid:350300270387": 447,
+      "gas:candidate-vibid:350300270535": 62,
+      "gas:candidate-vibid:1001000190368": 13,
+      "gas:candidate-vibid:350300270370": 35,
+      "gas:candidate-vibid:1001000225953": 403,
+      "gas:candidate-vibid:1001000121865": 71,
+      "special:against-all": 181
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=503002007&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=350300270976&region=0&sub_region=0&type=429",
@@ -4054,16 +4054,16 @@ export const duma_2003_uik_428_region_50_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бакунин Валерий Николаевич": 110,
-      "Борисенко Леонид Николаевич": 6,
-      "Гребенщиков Александр Петрович": 33,
-      "Кораблин Юрий Вадимович": 597,
-      "Неверов Николай Николаевич": 50,
-      "Павлов Борис Владимирович": 20,
-      "Хахалина Татьяна Петровна": 62,
-      "Шаккум Мартин Люцианович": 416,
-      "Шарнин Валерий Николаевич": 79,
-      "Против всех": 237
+      "gas:candidate-vibid:1001000112226": 110,
+      "gas:candidate-vibid:1001000202316": 6,
+      "gas:candidate-vibid:1001000217933": 33,
+      "gas:candidate-vibid:350300270387": 597,
+      "gas:candidate-vibid:350300270535": 50,
+      "gas:candidate-vibid:1001000190368": 20,
+      "gas:candidate-vibid:350300270370": 62,
+      "gas:candidate-vibid:1001000225953": 416,
+      "gas:candidate-vibid:1001000121865": 79,
+      "special:against-all": 237
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=503002007&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=350300270976&region=0&sub_region=0&type=429",
@@ -4113,16 +4113,16 @@ export const duma_2003_uik_428_region_50_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бакунин Валерий Николаевич": 129,
-      "Борисенко Леонид Николаевич": 10,
-      "Гребенщиков Александр Петрович": 17,
-      "Кораблин Юрий Вадимович": 435,
-      "Неверов Николай Николаевич": 72,
-      "Павлов Борис Владимирович": 8,
-      "Хахалина Татьяна Петровна": 61,
-      "Шаккум Мартин Люцианович": 360,
-      "Шарнин Валерий Николаевич": 46,
-      "Против всех": 239
+      "gas:candidate-vibid:1001000112226": 129,
+      "gas:candidate-vibid:1001000202316": 10,
+      "gas:candidate-vibid:1001000217933": 17,
+      "gas:candidate-vibid:350300270387": 435,
+      "gas:candidate-vibid:350300270535": 72,
+      "gas:candidate-vibid:1001000190368": 8,
+      "gas:candidate-vibid:350300270370": 61,
+      "gas:candidate-vibid:1001000225953": 360,
+      "gas:candidate-vibid:1001000121865": 46,
+      "special:against-all": 239
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=503002007&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=350300270976&region=0&sub_region=0&type=429",
@@ -4172,16 +4172,16 @@ export const duma_2003_uik_428_region_50_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бакунин Валерий Николаевич": 80,
-      "Борисенко Леонид Николаевич": 13,
-      "Гребенщиков Александр Петрович": 20,
-      "Кораблин Юрий Вадимович": 662,
-      "Неверов Николай Николаевич": 45,
-      "Павлов Борис Владимирович": 10,
-      "Хахалина Татьяна Петровна": 32,
-      "Шаккум Мартин Люцианович": 392,
-      "Шарнин Валерий Николаевич": 56,
-      "Против всех": 197
+      "gas:candidate-vibid:1001000112226": 80,
+      "gas:candidate-vibid:1001000202316": 13,
+      "gas:candidate-vibid:1001000217933": 20,
+      "gas:candidate-vibid:350300270387": 662,
+      "gas:candidate-vibid:350300270535": 45,
+      "gas:candidate-vibid:1001000190368": 10,
+      "gas:candidate-vibid:350300270370": 32,
+      "gas:candidate-vibid:1001000225953": 392,
+      "gas:candidate-vibid:1001000121865": 56,
+      "special:against-all": 197
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=503002007&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=350300270976&region=0&sub_region=0&type=429",
@@ -4231,16 +4231,16 @@ export const duma_2003_uik_428_region_50_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бакунин Валерий Николаевич": 117,
-      "Борисенко Леонид Николаевич": 15,
-      "Гребенщиков Александр Петрович": 35,
-      "Кораблин Юрий Вадимович": 544,
-      "Неверов Николай Николаевич": 69,
-      "Павлов Борис Владимирович": 12,
-      "Хахалина Татьяна Петровна": 32,
-      "Шаккум Мартин Люцианович": 432,
-      "Шарнин Валерий Николаевич": 85,
-      "Против всех": 177
+      "gas:candidate-vibid:1001000112226": 117,
+      "gas:candidate-vibid:1001000202316": 15,
+      "gas:candidate-vibid:1001000217933": 35,
+      "gas:candidate-vibid:350300270387": 544,
+      "gas:candidate-vibid:350300270535": 69,
+      "gas:candidate-vibid:1001000190368": 12,
+      "gas:candidate-vibid:350300270370": 32,
+      "gas:candidate-vibid:1001000225953": 432,
+      "gas:candidate-vibid:1001000121865": 85,
+      "special:against-all": 177
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=503002007&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=350300270976&region=0&sub_region=0&type=429",
@@ -4290,16 +4290,16 @@ export const duma_2003_uik_428_region_50_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бакунин Валерий Николаевич": 80,
-      "Борисенко Леонид Николаевич": 13,
-      "Гребенщиков Александр Петрович": 24,
-      "Кораблин Юрий Вадимович": 624,
-      "Неверов Николай Николаевич": 57,
-      "Павлов Борис Владимирович": 4,
-      "Хахалина Татьяна Петровна": 32,
-      "Шаккум Мартин Люцианович": 400,
-      "Шарнин Валерий Николаевич": 92,
-      "Против всех": 210
+      "gas:candidate-vibid:1001000112226": 80,
+      "gas:candidate-vibid:1001000202316": 13,
+      "gas:candidate-vibid:1001000217933": 24,
+      "gas:candidate-vibid:350300270387": 624,
+      "gas:candidate-vibid:350300270535": 57,
+      "gas:candidate-vibid:1001000190368": 4,
+      "gas:candidate-vibid:350300270370": 32,
+      "gas:candidate-vibid:1001000225953": 400,
+      "gas:candidate-vibid:1001000121865": 92,
+      "special:against-all": 210
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=503002007&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=350300270976&region=0&sub_region=0&type=429",
@@ -4349,16 +4349,16 @@ export const duma_2003_uik_428_region_50_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бакунин Валерий Николаевич": 84,
-      "Борисенко Леонид Николаевич": 6,
-      "Гребенщиков Александр Петрович": 20,
-      "Кораблин Юрий Вадимович": 490,
-      "Неверов Николай Николаевич": 76,
-      "Павлов Борис Владимирович": 10,
-      "Хахалина Татьяна Петровна": 48,
-      "Шаккум Мартин Люцианович": 425,
-      "Шарнин Валерий Николаевич": 59,
-      "Против всех": 208
+      "gas:candidate-vibid:1001000112226": 84,
+      "gas:candidate-vibid:1001000202316": 6,
+      "gas:candidate-vibid:1001000217933": 20,
+      "gas:candidate-vibid:350300270387": 490,
+      "gas:candidate-vibid:350300270535": 76,
+      "gas:candidate-vibid:1001000190368": 10,
+      "gas:candidate-vibid:350300270370": 48,
+      "gas:candidate-vibid:1001000225953": 425,
+      "gas:candidate-vibid:1001000121865": 59,
+      "special:against-all": 208
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=503002007&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=350300270976&region=0&sub_region=0&type=429",
@@ -4408,16 +4408,16 @@ export const duma_2003_uik_428_region_50_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бакунин Валерий Николаевич": 86,
-      "Борисенко Леонид Николаевич": 5,
-      "Гребенщиков Александр Петрович": 26,
-      "Кораблин Юрий Вадимович": 633,
-      "Неверов Николай Николаевич": 45,
-      "Павлов Борис Владимирович": 11,
-      "Хахалина Татьяна Петровна": 39,
-      "Шаккум Мартин Люцианович": 402,
-      "Шарнин Валерий Николаевич": 87,
-      "Против всех": 217
+      "gas:candidate-vibid:1001000112226": 86,
+      "gas:candidate-vibid:1001000202316": 5,
+      "gas:candidate-vibid:1001000217933": 26,
+      "gas:candidate-vibid:350300270387": 633,
+      "gas:candidate-vibid:350300270535": 45,
+      "gas:candidate-vibid:1001000190368": 11,
+      "gas:candidate-vibid:350300270370": 39,
+      "gas:candidate-vibid:1001000225953": 402,
+      "gas:candidate-vibid:1001000121865": 87,
+      "special:against-all": 217
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=503002007&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=350300270976&region=0&sub_region=0&type=429",
@@ -4467,16 +4467,16 @@ export const duma_2003_uik_428_region_50_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бакунин Валерий Николаевич": 51,
-      "Борисенко Леонид Николаевич": 11,
-      "Гребенщиков Александр Петрович": 22,
-      "Кораблин Юрий Вадимович": 412,
-      "Неверов Николай Николаевич": 42,
-      "Павлов Борис Владимирович": 12,
-      "Хахалина Татьяна Петровна": 29,
-      "Шаккум Мартин Люцианович": 356,
-      "Шарнин Валерий Николаевич": 45,
-      "Против всех": 156
+      "gas:candidate-vibid:1001000112226": 51,
+      "gas:candidate-vibid:1001000202316": 11,
+      "gas:candidate-vibid:1001000217933": 22,
+      "gas:candidate-vibid:350300270387": 412,
+      "gas:candidate-vibid:350300270535": 42,
+      "gas:candidate-vibid:1001000190368": 12,
+      "gas:candidate-vibid:350300270370": 29,
+      "gas:candidate-vibid:1001000225953": 356,
+      "gas:candidate-vibid:1001000121865": 45,
+      "special:against-all": 156
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=503002007&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=350300270976&region=0&sub_region=0&type=429",
@@ -4526,16 +4526,16 @@ export const duma_2003_uik_428_region_50_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бакунин Валерий Николаевич": 67,
-      "Борисенко Леонид Николаевич": 8,
-      "Гребенщиков Александр Петрович": 16,
-      "Кораблин Юрий Вадимович": 365,
-      "Неверов Николай Николаевич": 53,
-      "Павлов Борис Владимирович": 9,
-      "Хахалина Татьяна Петровна": 33,
-      "Шаккум Мартин Люцианович": 390,
-      "Шарнин Валерий Николаевич": 65,
-      "Против всех": 181
+      "gas:candidate-vibid:1001000112226": 67,
+      "gas:candidate-vibid:1001000202316": 8,
+      "gas:candidate-vibid:1001000217933": 16,
+      "gas:candidate-vibid:350300270387": 365,
+      "gas:candidate-vibid:350300270535": 53,
+      "gas:candidate-vibid:1001000190368": 9,
+      "gas:candidate-vibid:350300270370": 33,
+      "gas:candidate-vibid:1001000225953": 390,
+      "gas:candidate-vibid:1001000121865": 65,
+      "special:against-all": 181
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=503002007&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=350300270976&region=0&sub_region=0&type=429",
@@ -4585,16 +4585,16 @@ export const duma_2003_uik_428_region_50_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бакунин Валерий Николаевич": 67,
-      "Борисенко Леонид Николаевич": 9,
-      "Гребенщиков Александр Петрович": 21,
-      "Кораблин Юрий Вадимович": 504,
-      "Неверов Николай Николаевич": 69,
-      "Павлов Борис Владимирович": 14,
-      "Хахалина Татьяна Петровна": 40,
-      "Шаккум Мартин Люцианович": 426,
-      "Шарнин Валерий Николаевич": 83,
-      "Против всех": 197
+      "gas:candidate-vibid:1001000112226": 67,
+      "gas:candidate-vibid:1001000202316": 9,
+      "gas:candidate-vibid:1001000217933": 21,
+      "gas:candidate-vibid:350300270387": 504,
+      "gas:candidate-vibid:350300270535": 69,
+      "gas:candidate-vibid:1001000190368": 14,
+      "gas:candidate-vibid:350300270370": 40,
+      "gas:candidate-vibid:1001000225953": 426,
+      "gas:candidate-vibid:1001000121865": 83,
+      "special:against-all": 197
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=503002007&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=350300270976&region=0&sub_region=0&type=429",
@@ -4644,16 +4644,16 @@ export const duma_2003_uik_428_region_50_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бакунин Валерий Николаевич": 62,
-      "Борисенко Леонид Николаевич": 7,
-      "Гребенщиков Александр Петрович": 17,
-      "Кораблин Юрий Вадимович": 471,
-      "Неверов Николай Николаевич": 37,
-      "Павлов Борис Владимирович": 11,
-      "Хахалина Татьяна Петровна": 34,
-      "Шаккум Мартин Люцианович": 281,
-      "Шарнин Валерий Николаевич": 52,
-      "Против всех": 117
+      "gas:candidate-vibid:1001000112226": 62,
+      "gas:candidate-vibid:1001000202316": 7,
+      "gas:candidate-vibid:1001000217933": 17,
+      "gas:candidate-vibid:350300270387": 471,
+      "gas:candidate-vibid:350300270535": 37,
+      "gas:candidate-vibid:1001000190368": 11,
+      "gas:candidate-vibid:350300270370": 34,
+      "gas:candidate-vibid:1001000225953": 281,
+      "gas:candidate-vibid:1001000121865": 52,
+      "special:against-all": 117
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=503002007&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=350300270976&region=0&sub_region=0&type=429",
@@ -4703,16 +4703,16 @@ export const duma_2003_uik_428_region_50_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бакунин Валерий Николаевич": 57,
-      "Борисенко Леонид Николаевич": 5,
-      "Гребенщиков Александр Петрович": 15,
-      "Кораблин Юрий Вадимович": 553,
-      "Неверов Николай Николаевич": 53,
-      "Павлов Борис Владимирович": 7,
-      "Хахалина Татьяна Петровна": 67,
-      "Шаккум Мартин Люцианович": 454,
-      "Шарнин Валерий Николаевич": 63,
-      "Против всех": 227
+      "gas:candidate-vibid:1001000112226": 57,
+      "gas:candidate-vibid:1001000202316": 5,
+      "gas:candidate-vibid:1001000217933": 15,
+      "gas:candidate-vibid:350300270387": 553,
+      "gas:candidate-vibid:350300270535": 53,
+      "gas:candidate-vibid:1001000190368": 7,
+      "gas:candidate-vibid:350300270370": 67,
+      "gas:candidate-vibid:1001000225953": 454,
+      "gas:candidate-vibid:1001000121865": 63,
+      "special:against-all": 227
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=503002007&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=350300270976&region=0&sub_region=0&type=429",
@@ -4762,16 +4762,16 @@ export const duma_2003_uik_428_region_50_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бакунин Валерий Николаевич": 59,
-      "Борисенко Леонид Николаевич": 10,
-      "Гребенщиков Александр Петрович": 25,
-      "Кораблин Юрий Вадимович": 510,
-      "Неверов Николай Николаевич": 64,
-      "Павлов Борис Владимирович": 17,
-      "Хахалина Татьяна Петровна": 51,
-      "Шаккум Мартин Люцианович": 523,
-      "Шарнин Валерий Николаевич": 79,
-      "Против всех": 228
+      "gas:candidate-vibid:1001000112226": 59,
+      "gas:candidate-vibid:1001000202316": 10,
+      "gas:candidate-vibid:1001000217933": 25,
+      "gas:candidate-vibid:350300270387": 510,
+      "gas:candidate-vibid:350300270535": 64,
+      "gas:candidate-vibid:1001000190368": 17,
+      "gas:candidate-vibid:350300270370": 51,
+      "gas:candidate-vibid:1001000225953": 523,
+      "gas:candidate-vibid:1001000121865": 79,
+      "special:against-all": 228
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=503002007&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=350300270976&region=0&sub_region=0&type=429",
@@ -4821,16 +4821,16 @@ export const duma_2003_uik_428_region_50_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бакунин Валерий Николаевич": 77,
-      "Борисенко Леонид Николаевич": 3,
-      "Гребенщиков Александр Петрович": 16,
-      "Кораблин Юрий Вадимович": 544,
-      "Неверов Николай Николаевич": 43,
-      "Павлов Борис Владимирович": 11,
-      "Хахалина Татьяна Петровна": 33,
-      "Шаккум Мартин Люцианович": 438,
-      "Шарнин Валерий Николаевич": 77,
-      "Против всех": 223
+      "gas:candidate-vibid:1001000112226": 77,
+      "gas:candidate-vibid:1001000202316": 3,
+      "gas:candidate-vibid:1001000217933": 16,
+      "gas:candidate-vibid:350300270387": 544,
+      "gas:candidate-vibid:350300270535": 43,
+      "gas:candidate-vibid:1001000190368": 11,
+      "gas:candidate-vibid:350300270370": 33,
+      "gas:candidate-vibid:1001000225953": 438,
+      "gas:candidate-vibid:1001000121865": 77,
+      "special:against-all": 223
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=503002007&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=350300270976&region=0&sub_region=0&type=429",
@@ -4880,16 +4880,16 @@ export const duma_2003_uik_428_region_50_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бакунин Валерий Николаевич": 46,
-      "Борисенко Леонид Николаевич": 11,
-      "Гребенщиков Александр Петрович": 20,
-      "Кораблин Юрий Вадимович": 467,
-      "Неверов Николай Николаевич": 39,
-      "Павлов Борис Владимирович": 12,
-      "Хахалина Татьяна Петровна": 41,
-      "Шаккум Мартин Люцианович": 363,
-      "Шарнин Валерий Николаевич": 47,
-      "Против всех": 236
+      "gas:candidate-vibid:1001000112226": 46,
+      "gas:candidate-vibid:1001000202316": 11,
+      "gas:candidate-vibid:1001000217933": 20,
+      "gas:candidate-vibid:350300270387": 467,
+      "gas:candidate-vibid:350300270535": 39,
+      "gas:candidate-vibid:1001000190368": 12,
+      "gas:candidate-vibid:350300270370": 41,
+      "gas:candidate-vibid:1001000225953": 363,
+      "gas:candidate-vibid:1001000121865": 47,
+      "special:against-all": 236
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=503002007&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=350300270976&region=0&sub_region=0&type=429",
@@ -4939,16 +4939,16 @@ export const duma_2003_uik_428_region_50_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бакунин Валерий Николаевич": 53,
-      "Борисенко Леонид Николаевич": 8,
-      "Гребенщиков Александр Петрович": 21,
-      "Кораблин Юрий Вадимович": 407,
-      "Неверов Николай Николаевич": 41,
-      "Павлов Борис Владимирович": 8,
-      "Хахалина Татьяна Петровна": 48,
-      "Шаккум Мартин Люцианович": 378,
-      "Шарнин Валерий Николаевич": 60,
-      "Против всех": 221
+      "gas:candidate-vibid:1001000112226": 53,
+      "gas:candidate-vibid:1001000202316": 8,
+      "gas:candidate-vibid:1001000217933": 21,
+      "gas:candidate-vibid:350300270387": 407,
+      "gas:candidate-vibid:350300270535": 41,
+      "gas:candidate-vibid:1001000190368": 8,
+      "gas:candidate-vibid:350300270370": 48,
+      "gas:candidate-vibid:1001000225953": 378,
+      "gas:candidate-vibid:1001000121865": 60,
+      "special:against-all": 221
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=503002007&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=350300270976&region=0&sub_region=0&type=429",
@@ -4998,16 +4998,16 @@ export const duma_2003_uik_428_region_50_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бакунин Валерий Николаевич": 56,
-      "Борисенко Леонид Николаевич": 12,
-      "Гребенщиков Александр Петрович": 16,
-      "Кораблин Юрий Вадимович": 455,
-      "Неверов Николай Николаевич": 44,
-      "Павлов Борис Владимирович": 11,
-      "Хахалина Татьяна Петровна": 48,
-      "Шаккум Мартин Люцианович": 353,
-      "Шарнин Валерий Николаевич": 57,
-      "Против всех": 156
+      "gas:candidate-vibid:1001000112226": 56,
+      "gas:candidate-vibid:1001000202316": 12,
+      "gas:candidate-vibid:1001000217933": 16,
+      "gas:candidate-vibid:350300270387": 455,
+      "gas:candidate-vibid:350300270535": 44,
+      "gas:candidate-vibid:1001000190368": 11,
+      "gas:candidate-vibid:350300270370": 48,
+      "gas:candidate-vibid:1001000225953": 353,
+      "gas:candidate-vibid:1001000121865": 57,
+      "special:against-all": 156
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=503002007&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=350300270976&region=0&sub_region=0&type=429",
@@ -5057,16 +5057,16 @@ export const duma_2003_uik_428_region_50_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бакунин Валерий Николаевич": 66,
-      "Борисенко Леонид Николаевич": 4,
-      "Гребенщиков Александр Петрович": 25,
-      "Кораблин Юрий Вадимович": 542,
-      "Неверов Николай Николаевич": 52,
-      "Павлов Борис Владимирович": 8,
-      "Хахалина Татьяна Петровна": 58,
-      "Шаккум Мартин Люцианович": 323,
-      "Шарнин Валерий Николаевич": 52,
-      "Против всех": 198
+      "gas:candidate-vibid:1001000112226": 66,
+      "gas:candidate-vibid:1001000202316": 4,
+      "gas:candidate-vibid:1001000217933": 25,
+      "gas:candidate-vibid:350300270387": 542,
+      "gas:candidate-vibid:350300270535": 52,
+      "gas:candidate-vibid:1001000190368": 8,
+      "gas:candidate-vibid:350300270370": 58,
+      "gas:candidate-vibid:1001000225953": 323,
+      "gas:candidate-vibid:1001000121865": 52,
+      "special:against-all": 198
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=503002007&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=350300270976&region=0&sub_region=0&type=429",
@@ -5116,16 +5116,16 @@ export const duma_2003_uik_428_region_50_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бакунин Валерий Николаевич": 92,
-      "Борисенко Леонид Николаевич": 10,
-      "Гребенщиков Александр Петрович": 13,
-      "Кораблин Юрий Вадимович": 519,
-      "Неверов Николай Николаевич": 47,
-      "Павлов Борис Владимирович": 13,
-      "Хахалина Татьяна Петровна": 52,
-      "Шаккум Мартин Люцианович": 387,
-      "Шарнин Валерий Николаевич": 49,
-      "Против всех": 255
+      "gas:candidate-vibid:1001000112226": 92,
+      "gas:candidate-vibid:1001000202316": 10,
+      "gas:candidate-vibid:1001000217933": 13,
+      "gas:candidate-vibid:350300270387": 519,
+      "gas:candidate-vibid:350300270535": 47,
+      "gas:candidate-vibid:1001000190368": 13,
+      "gas:candidate-vibid:350300270370": 52,
+      "gas:candidate-vibid:1001000225953": 387,
+      "gas:candidate-vibid:1001000121865": 49,
+      "special:against-all": 255
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=503002007&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=350300270976&region=0&sub_region=0&type=429",
@@ -5175,16 +5175,16 @@ export const duma_2003_uik_428_region_50_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бакунин Валерий Николаевич": 90,
-      "Борисенко Леонид Николаевич": 7,
-      "Гребенщиков Александр Петрович": 25,
-      "Кораблин Юрий Вадимович": 194,
-      "Неверов Николай Николаевич": 45,
-      "Павлов Борис Владимирович": 4,
-      "Хахалина Татьяна Петровна": 49,
-      "Шаккум Мартин Люцианович": 190,
-      "Шарнин Валерий Николаевич": 43,
-      "Против всех": 177
+      "gas:candidate-vibid:1001000112226": 90,
+      "gas:candidate-vibid:1001000202316": 7,
+      "gas:candidate-vibid:1001000217933": 25,
+      "gas:candidate-vibid:350300270387": 194,
+      "gas:candidate-vibid:350300270535": 45,
+      "gas:candidate-vibid:1001000190368": 4,
+      "gas:candidate-vibid:350300270370": 49,
+      "gas:candidate-vibid:1001000225953": 190,
+      "gas:candidate-vibid:1001000121865": 43,
+      "special:against-all": 177
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=503002007&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=350300270976&region=0&sub_region=0&type=429",
@@ -5234,16 +5234,16 @@ export const duma_2003_uik_428_region_50_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бакунин Валерий Николаевич": 73,
-      "Борисенко Леонид Николаевич": 11,
-      "Гребенщиков Александр Петрович": 28,
-      "Кораблин Юрий Вадимович": 249,
-      "Неверов Николай Николаевич": 61,
-      "Павлов Борис Владимирович": 13,
-      "Хахалина Татьяна Петровна": 37,
-      "Шаккум Мартин Люцианович": 279,
-      "Шарнин Валерий Николаевич": 49,
-      "Против всех": 241
+      "gas:candidate-vibid:1001000112226": 73,
+      "gas:candidate-vibid:1001000202316": 11,
+      "gas:candidate-vibid:1001000217933": 28,
+      "gas:candidate-vibid:350300270387": 249,
+      "gas:candidate-vibid:350300270535": 61,
+      "gas:candidate-vibid:1001000190368": 13,
+      "gas:candidate-vibid:350300270370": 37,
+      "gas:candidate-vibid:1001000225953": 279,
+      "gas:candidate-vibid:1001000121865": 49,
+      "special:against-all": 241
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=503002007&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=350300270976&region=0&sub_region=0&type=429",
@@ -5293,16 +5293,16 @@ export const duma_2003_uik_428_region_50_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бакунин Валерий Николаевич": 135,
-      "Борисенко Леонид Николаевич": 11,
-      "Гребенщиков Александр Петрович": 33,
-      "Кораблин Юрий Вадимович": 300,
-      "Неверов Николай Николаевич": 73,
-      "Павлов Борис Владимирович": 9,
-      "Хахалина Татьяна Петровна": 46,
-      "Шаккум Мартин Люцианович": 422,
-      "Шарнин Валерий Николаевич": 70,
-      "Против всех": 265
+      "gas:candidate-vibid:1001000112226": 135,
+      "gas:candidate-vibid:1001000202316": 11,
+      "gas:candidate-vibid:1001000217933": 33,
+      "gas:candidate-vibid:350300270387": 300,
+      "gas:candidate-vibid:350300270535": 73,
+      "gas:candidate-vibid:1001000190368": 9,
+      "gas:candidate-vibid:350300270370": 46,
+      "gas:candidate-vibid:1001000225953": 422,
+      "gas:candidate-vibid:1001000121865": 70,
+      "special:against-all": 265
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=503002007&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=350300270976&region=0&sub_region=0&type=429",
@@ -5352,16 +5352,16 @@ export const duma_2003_uik_428_region_50_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бакунин Валерий Николаевич": 114,
-      "Борисенко Леонид Николаевич": 7,
-      "Гребенщиков Александр Петрович": 40,
-      "Кораблин Юрий Вадимович": 339,
-      "Неверов Николай Николаевич": 99,
-      "Павлов Борис Владимирович": 10,
-      "Хахалина Татьяна Петровна": 60,
-      "Шаккум Мартин Люцианович": 407,
-      "Шарнин Валерий Николаевич": 89,
-      "Против всех": 287
+      "gas:candidate-vibid:1001000112226": 114,
+      "gas:candidate-vibid:1001000202316": 7,
+      "gas:candidate-vibid:1001000217933": 40,
+      "gas:candidate-vibid:350300270387": 339,
+      "gas:candidate-vibid:350300270535": 99,
+      "gas:candidate-vibid:1001000190368": 10,
+      "gas:candidate-vibid:350300270370": 60,
+      "gas:candidate-vibid:1001000225953": 407,
+      "gas:candidate-vibid:1001000121865": 89,
+      "special:against-all": 287
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=503002007&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=350300270976&region=0&sub_region=0&type=429",
@@ -5411,16 +5411,16 @@ export const duma_2003_uik_428_region_50_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бакунин Валерий Николаевич": 93,
-      "Борисенко Леонид Николаевич": 19,
-      "Гребенщиков Александр Петрович": 46,
-      "Кораблин Юрий Вадимович": 380,
-      "Неверов Николай Николаевич": 109,
-      "Павлов Борис Владимирович": 12,
-      "Хахалина Татьяна Петровна": 64,
-      "Шаккум Мартин Люцианович": 384,
-      "Шарнин Валерий Николаевич": 110,
-      "Против всех": 314
+      "gas:candidate-vibid:1001000112226": 93,
+      "gas:candidate-vibid:1001000202316": 19,
+      "gas:candidate-vibid:1001000217933": 46,
+      "gas:candidate-vibid:350300270387": 380,
+      "gas:candidate-vibid:350300270535": 109,
+      "gas:candidate-vibid:1001000190368": 12,
+      "gas:candidate-vibid:350300270370": 64,
+      "gas:candidate-vibid:1001000225953": 384,
+      "gas:candidate-vibid:1001000121865": 110,
+      "special:against-all": 314
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=503002007&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=350300270976&region=0&sub_region=0&type=429",
@@ -5470,16 +5470,16 @@ export const duma_2003_uik_428_region_50_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бакунин Валерий Николаевич": 137,
-      "Борисенко Леонид Николаевич": 11,
-      "Гребенщиков Александр Петрович": 55,
-      "Кораблин Юрий Вадимович": 313,
-      "Неверов Николай Николаевич": 99,
-      "Павлов Борис Владимирович": 23,
-      "Хахалина Татьяна Петровна": 48,
-      "Шаккум Мартин Люцианович": 410,
-      "Шарнин Валерий Николаевич": 78,
-      "Против всех": 288
+      "gas:candidate-vibid:1001000112226": 137,
+      "gas:candidate-vibid:1001000202316": 11,
+      "gas:candidate-vibid:1001000217933": 55,
+      "gas:candidate-vibid:350300270387": 313,
+      "gas:candidate-vibid:350300270535": 99,
+      "gas:candidate-vibid:1001000190368": 23,
+      "gas:candidate-vibid:350300270370": 48,
+      "gas:candidate-vibid:1001000225953": 410,
+      "gas:candidate-vibid:1001000121865": 78,
+      "special:against-all": 288
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=503002007&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=350300270976&region=0&sub_region=0&type=429",
@@ -5529,16 +5529,16 @@ export const duma_2003_uik_428_region_50_part_003 = [
       "Число не учтенных при получении бюллетеней": 16
     },
     "votes": {
-      "Бакунин Валерий Николаевич": 86,
-      "Борисенко Леонид Николаевич": 37,
-      "Гребенщиков Александр Петрович": 97,
-      "Кораблин Юрий Вадимович": 583,
-      "Неверов Николай Николаевич": 53,
-      "Павлов Борис Владимирович": 16,
-      "Хахалина Татьяна Петровна": 41,
-      "Шаккум Мартин Люцианович": 257,
-      "Шарнин Валерий Николаевич": 53,
-      "Против всех": 335
+      "gas:candidate-vibid:1001000112226": 86,
+      "gas:candidate-vibid:1001000202316": 37,
+      "gas:candidate-vibid:1001000217933": 97,
+      "gas:candidate-vibid:350300270387": 583,
+      "gas:candidate-vibid:350300270535": 53,
+      "gas:candidate-vibid:1001000190368": 16,
+      "gas:candidate-vibid:350300270370": 41,
+      "gas:candidate-vibid:1001000225953": 257,
+      "gas:candidate-vibid:1001000121865": 53,
+      "special:against-all": 335
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=503002007&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=350300270976&region=0&sub_region=0&type=429",
@@ -5588,16 +5588,16 @@ export const duma_2003_uik_428_region_50_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бакунин Валерий Николаевич": 58,
-      "Борисенко Леонид Николаевич": 12,
-      "Гребенщиков Александр Петрович": 47,
-      "Кораблин Юрий Вадимович": 465,
-      "Неверов Николай Николаевич": 19,
-      "Павлов Борис Владимирович": 15,
-      "Хахалина Татьяна Петровна": 33,
-      "Шаккум Мартин Люцианович": 458,
-      "Шарнин Валерий Николаевич": 50,
-      "Против всех": 327
+      "gas:candidate-vibid:1001000112226": 58,
+      "gas:candidate-vibid:1001000202316": 12,
+      "gas:candidate-vibid:1001000217933": 47,
+      "gas:candidate-vibid:350300270387": 465,
+      "gas:candidate-vibid:350300270535": 19,
+      "gas:candidate-vibid:1001000190368": 15,
+      "gas:candidate-vibid:350300270370": 33,
+      "gas:candidate-vibid:1001000225953": 458,
+      "gas:candidate-vibid:1001000121865": 50,
+      "special:against-all": 327
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=503002007&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=350300270976&region=0&sub_region=0&type=429",
@@ -5647,16 +5647,16 @@ export const duma_2003_uik_428_region_50_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бакунин Валерий Николаевич": 8,
-      "Борисенко Леонид Николаевич": 8,
-      "Гребенщиков Александр Петрович": 5,
-      "Кораблин Юрий Вадимович": 81,
-      "Неверов Николай Николаевич": 4,
-      "Павлов Борис Владимирович": 3,
-      "Хахалина Татьяна Петровна": 4,
-      "Шаккум Мартин Люцианович": 35,
-      "Шарнин Валерий Николаевич": 7,
-      "Против всех": 29
+      "gas:candidate-vibid:1001000112226": 8,
+      "gas:candidate-vibid:1001000202316": 8,
+      "gas:candidate-vibid:1001000217933": 5,
+      "gas:candidate-vibid:350300270387": 81,
+      "gas:candidate-vibid:350300270535": 4,
+      "gas:candidate-vibid:1001000190368": 3,
+      "gas:candidate-vibid:350300270370": 4,
+      "gas:candidate-vibid:1001000225953": 35,
+      "gas:candidate-vibid:1001000121865": 7,
+      "special:against-all": 29
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=503002007&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=350300270976&region=0&sub_region=0&type=429",
@@ -5706,16 +5706,16 @@ export const duma_2003_uik_428_region_50_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бакунин Валерий Николаевич": 62,
-      "Борисенко Леонид Николаевич": 6,
-      "Гребенщиков Александр Петрович": 20,
-      "Кораблин Юрий Вадимович": 384,
-      "Неверов Николай Николаевич": 25,
-      "Павлов Борис Владимирович": 12,
-      "Хахалина Татьяна Петровна": 73,
-      "Шаккум Мартин Люцианович": 354,
-      "Шарнин Валерий Николаевич": 45,
-      "Против всех": 290
+      "gas:candidate-vibid:1001000112226": 62,
+      "gas:candidate-vibid:1001000202316": 6,
+      "gas:candidate-vibid:1001000217933": 20,
+      "gas:candidate-vibid:350300270387": 384,
+      "gas:candidate-vibid:350300270535": 25,
+      "gas:candidate-vibid:1001000190368": 12,
+      "gas:candidate-vibid:350300270370": 73,
+      "gas:candidate-vibid:1001000225953": 354,
+      "gas:candidate-vibid:1001000121865": 45,
+      "special:against-all": 290
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=503002007&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=350300270976&region=0&sub_region=0&type=429",
@@ -5765,16 +5765,16 @@ export const duma_2003_uik_428_region_50_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бакунин Валерий Николаевич": 60,
-      "Борисенко Леонид Николаевич": 9,
-      "Гребенщиков Александр Петрович": 29,
-      "Кораблин Юрий Вадимович": 396,
-      "Неверов Николай Николаевич": 34,
-      "Павлов Борис Владимирович": 10,
-      "Хахалина Татьяна Петровна": 45,
-      "Шаккум Мартин Люцианович": 364,
-      "Шарнин Валерий Николаевич": 48,
-      "Против всех": 215
+      "gas:candidate-vibid:1001000112226": 60,
+      "gas:candidate-vibid:1001000202316": 9,
+      "gas:candidate-vibid:1001000217933": 29,
+      "gas:candidate-vibid:350300270387": 396,
+      "gas:candidate-vibid:350300270535": 34,
+      "gas:candidate-vibid:1001000190368": 10,
+      "gas:candidate-vibid:350300270370": 45,
+      "gas:candidate-vibid:1001000225953": 364,
+      "gas:candidate-vibid:1001000121865": 48,
+      "special:against-all": 215
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=503002007&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=350300270976&region=0&sub_region=0&type=429",
@@ -5824,16 +5824,16 @@ export const duma_2003_uik_428_region_50_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бакунин Валерий Николаевич": 52,
-      "Борисенко Леонид Николаевич": 8,
-      "Гребенщиков Александр Петрович": 22,
-      "Кораблин Юрий Вадимович": 268,
-      "Неверов Николай Николаевич": 30,
-      "Павлов Борис Владимирович": 11,
-      "Хахалина Татьяна Петровна": 28,
-      "Шаккум Мартин Люцианович": 333,
-      "Шарнин Валерий Николаевич": 57,
-      "Против всех": 194
+      "gas:candidate-vibid:1001000112226": 52,
+      "gas:candidate-vibid:1001000202316": 8,
+      "gas:candidate-vibid:1001000217933": 22,
+      "gas:candidate-vibid:350300270387": 268,
+      "gas:candidate-vibid:350300270535": 30,
+      "gas:candidate-vibid:1001000190368": 11,
+      "gas:candidate-vibid:350300270370": 28,
+      "gas:candidate-vibid:1001000225953": 333,
+      "gas:candidate-vibid:1001000121865": 57,
+      "special:against-all": 194
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=503002007&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=350300270976&region=0&sub_region=0&type=429",
@@ -5883,16 +5883,16 @@ export const duma_2003_uik_428_region_50_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бакунин Валерий Николаевич": 33,
-      "Борисенко Леонид Николаевич": 4,
-      "Гребенщиков Александр Петрович": 8,
-      "Кораблин Юрий Вадимович": 76,
-      "Неверов Николай Николаевич": 13,
-      "Павлов Борис Владимирович": 4,
-      "Хахалина Татьяна Петровна": 10,
-      "Шаккум Мартин Люцианович": 160,
-      "Шарнин Валерий Николаевич": 21,
-      "Против всех": 62
+      "gas:candidate-vibid:1001000112226": 33,
+      "gas:candidate-vibid:1001000202316": 4,
+      "gas:candidate-vibid:1001000217933": 8,
+      "gas:candidate-vibid:350300270387": 76,
+      "gas:candidate-vibid:350300270535": 13,
+      "gas:candidate-vibid:1001000190368": 4,
+      "gas:candidate-vibid:350300270370": 10,
+      "gas:candidate-vibid:1001000225953": 160,
+      "gas:candidate-vibid:1001000121865": 21,
+      "special:against-all": 62
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=503002007&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=350300270976&region=0&sub_region=0&type=429",
@@ -5942,16 +5942,16 @@ export const duma_2003_uik_428_region_50_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бакунин Валерий Николаевич": 31,
-      "Борисенко Леонид Николаевич": 2,
-      "Гребенщиков Александр Петрович": 10,
-      "Кораблин Юрий Вадимович": 119,
-      "Неверов Николай Николаевич": 23,
-      "Павлов Борис Владимирович": 8,
-      "Хахалина Татьяна Петровна": 15,
-      "Шаккум Мартин Люцианович": 115,
-      "Шарнин Валерий Николаевич": 25,
-      "Против всех": 101
+      "gas:candidate-vibid:1001000112226": 31,
+      "gas:candidate-vibid:1001000202316": 2,
+      "gas:candidate-vibid:1001000217933": 10,
+      "gas:candidate-vibid:350300270387": 119,
+      "gas:candidate-vibid:350300270535": 23,
+      "gas:candidate-vibid:1001000190368": 8,
+      "gas:candidate-vibid:350300270370": 15,
+      "gas:candidate-vibid:1001000225953": 115,
+      "gas:candidate-vibid:1001000121865": 25,
+      "special:against-all": 101
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=503002007&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=350300270976&region=0&sub_region=0&type=429",
@@ -6001,16 +6001,16 @@ export const duma_2003_uik_428_region_50_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бакунин Валерий Николаевич": 37,
-      "Борисенко Леонид Николаевич": 7,
-      "Гребенщиков Александр Петрович": 10,
-      "Кораблин Юрий Вадимович": 160,
-      "Неверов Николай Николаевич": 14,
-      "Павлов Борис Владимирович": 6,
-      "Хахалина Татьяна Петровна": 20,
-      "Шаккум Мартин Люцианович": 180,
-      "Шарнин Валерий Николаевич": 22,
-      "Против всех": 93
+      "gas:candidate-vibid:1001000112226": 37,
+      "gas:candidate-vibid:1001000202316": 7,
+      "gas:candidate-vibid:1001000217933": 10,
+      "gas:candidate-vibid:350300270387": 160,
+      "gas:candidate-vibid:350300270535": 14,
+      "gas:candidate-vibid:1001000190368": 6,
+      "gas:candidate-vibid:350300270370": 20,
+      "gas:candidate-vibid:1001000225953": 180,
+      "gas:candidate-vibid:1001000121865": 22,
+      "special:against-all": 93
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=503002007&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=350300270976&region=0&sub_region=0&type=429",
@@ -6060,16 +6060,16 @@ export const duma_2003_uik_428_region_50_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бакунин Валерий Николаевич": 28,
-      "Борисенко Леонид Николаевич": 5,
-      "Гребенщиков Александр Петрович": 6,
-      "Кораблин Юрий Вадимович": 153,
-      "Неверов Николай Николаевич": 21,
-      "Павлов Борис Владимирович": 6,
-      "Хахалина Татьяна Петровна": 14,
-      "Шаккум Мартин Люцианович": 198,
-      "Шарнин Валерий Николаевич": 23,
-      "Против всех": 101
+      "gas:candidate-vibid:1001000112226": 28,
+      "gas:candidate-vibid:1001000202316": 5,
+      "gas:candidate-vibid:1001000217933": 6,
+      "gas:candidate-vibid:350300270387": 153,
+      "gas:candidate-vibid:350300270535": 21,
+      "gas:candidate-vibid:1001000190368": 6,
+      "gas:candidate-vibid:350300270370": 14,
+      "gas:candidate-vibid:1001000225953": 198,
+      "gas:candidate-vibid:1001000121865": 23,
+      "special:against-all": 101
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=503002007&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=350300270976&region=0&sub_region=0&type=429",
@@ -6119,16 +6119,16 @@ export const duma_2003_uik_428_region_50_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бакунин Валерий Николаевич": 61,
-      "Борисенко Леонид Николаевич": 11,
-      "Гребенщиков Александр Петрович": 20,
-      "Кораблин Юрий Вадимович": 308,
-      "Неверов Николай Николаевич": 26,
-      "Павлов Борис Владимирович": 9,
-      "Хахалина Татьяна Петровна": 37,
-      "Шаккум Мартин Люцианович": 352,
-      "Шарнин Валерий Николаевич": 50,
-      "Против всех": 241
+      "gas:candidate-vibid:1001000112226": 61,
+      "gas:candidate-vibid:1001000202316": 11,
+      "gas:candidate-vibid:1001000217933": 20,
+      "gas:candidate-vibid:350300270387": 308,
+      "gas:candidate-vibid:350300270535": 26,
+      "gas:candidate-vibid:1001000190368": 9,
+      "gas:candidate-vibid:350300270370": 37,
+      "gas:candidate-vibid:1001000225953": 352,
+      "gas:candidate-vibid:1001000121865": 50,
+      "special:against-all": 241
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=503002007&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=350300270976&region=0&sub_region=0&type=429",
@@ -6178,16 +6178,16 @@ export const duma_2003_uik_428_region_50_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бакунин Валерий Николаевич": 14,
-      "Борисенко Леонид Николаевич": 7,
-      "Гребенщиков Александр Петрович": 4,
-      "Кораблин Юрий Вадимович": 83,
-      "Неверов Николай Николаевич": 5,
-      "Павлов Борис Владимирович": 0,
-      "Хахалина Татьяна Петровна": 22,
-      "Шаккум Мартин Люцианович": 123,
-      "Шарнин Валерий Николаевич": 19,
-      "Против всех": 62
+      "gas:candidate-vibid:1001000112226": 14,
+      "gas:candidate-vibid:1001000202316": 7,
+      "gas:candidate-vibid:1001000217933": 4,
+      "gas:candidate-vibid:350300270387": 83,
+      "gas:candidate-vibid:350300270535": 5,
+      "gas:candidate-vibid:1001000190368": 0,
+      "gas:candidate-vibid:350300270370": 22,
+      "gas:candidate-vibid:1001000225953": 123,
+      "gas:candidate-vibid:1001000121865": 19,
+      "special:against-all": 62
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=503002007&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=350300270976&region=0&sub_region=0&type=429",
@@ -6237,16 +6237,16 @@ export const duma_2003_uik_428_region_50_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бакунин Валерий Николаевич": 38,
-      "Борисенко Леонид Николаевич": 16,
-      "Гребенщиков Александр Петрович": 12,
-      "Кораблин Юрий Вадимович": 203,
-      "Неверов Николай Николаевич": 19,
-      "Павлов Борис Владимирович": 16,
-      "Хахалина Татьяна Петровна": 27,
-      "Шаккум Мартин Люцианович": 282,
-      "Шарнин Валерий Николаевич": 22,
-      "Против всех": 138
+      "gas:candidate-vibid:1001000112226": 38,
+      "gas:candidate-vibid:1001000202316": 16,
+      "gas:candidate-vibid:1001000217933": 12,
+      "gas:candidate-vibid:350300270387": 203,
+      "gas:candidate-vibid:350300270535": 19,
+      "gas:candidate-vibid:1001000190368": 16,
+      "gas:candidate-vibid:350300270370": 27,
+      "gas:candidate-vibid:1001000225953": 282,
+      "gas:candidate-vibid:1001000121865": 22,
+      "special:against-all": 138
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=503002007&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=350300270976&region=0&sub_region=0&type=429",
@@ -6296,16 +6296,16 @@ export const duma_2003_uik_428_region_50_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бакунин Валерий Николаевич": 42,
-      "Борисенко Леонид Николаевич": 4,
-      "Гребенщиков Александр Петрович": 0,
-      "Кораблин Юрий Вадимович": 224,
-      "Неверов Николай Николаевич": 38,
-      "Павлов Борис Владимирович": 5,
-      "Хахалина Татьяна Петровна": 28,
-      "Шаккум Мартин Люцианович": 284,
-      "Шарнин Валерий Николаевич": 41,
-      "Против всех": 131
+      "gas:candidate-vibid:1001000112226": 42,
+      "gas:candidate-vibid:1001000202316": 4,
+      "gas:candidate-vibid:1001000217933": 0,
+      "gas:candidate-vibid:350300270387": 224,
+      "gas:candidate-vibid:350300270535": 38,
+      "gas:candidate-vibid:1001000190368": 5,
+      "gas:candidate-vibid:350300270370": 28,
+      "gas:candidate-vibid:1001000225953": 284,
+      "gas:candidate-vibid:1001000121865": 41,
+      "special:against-all": 131
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=503002007&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=350300270976&region=0&sub_region=0&type=429",
@@ -6355,16 +6355,16 @@ export const duma_2003_uik_428_region_50_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бакунин Валерий Николаевич": 36,
-      "Борисенко Леонид Николаевич": 3,
-      "Гребенщиков Александр Петрович": 23,
-      "Кораблин Юрий Вадимович": 219,
-      "Неверов Николай Николаевич": 26,
-      "Павлов Борис Владимирович": 7,
-      "Хахалина Татьяна Петровна": 41,
-      "Шаккум Мартин Люцианович": 154,
-      "Шарнин Валерий Николаевич": 40,
-      "Против всех": 145
+      "gas:candidate-vibid:1001000112226": 36,
+      "gas:candidate-vibid:1001000202316": 3,
+      "gas:candidate-vibid:1001000217933": 23,
+      "gas:candidate-vibid:350300270387": 219,
+      "gas:candidate-vibid:350300270535": 26,
+      "gas:candidate-vibid:1001000190368": 7,
+      "gas:candidate-vibid:350300270370": 41,
+      "gas:candidate-vibid:1001000225953": 154,
+      "gas:candidate-vibid:1001000121865": 40,
+      "special:against-all": 145
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=503002007&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=350300270976&region=0&sub_region=0&type=429",
@@ -6414,16 +6414,16 @@ export const duma_2003_uik_428_region_50_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бакунин Валерий Николаевич": 58,
-      "Борисенко Леонид Николаевич": 6,
-      "Гребенщиков Александр Петрович": 28,
-      "Кораблин Юрий Вадимович": 343,
-      "Неверов Николай Николаевич": 27,
-      "Павлов Борис Владимирович": 15,
-      "Хахалина Татьяна Петровна": 34,
-      "Шаккум Мартин Люцианович": 310,
-      "Шарнин Валерий Николаевич": 30,
-      "Против всех": 220
+      "gas:candidate-vibid:1001000112226": 58,
+      "gas:candidate-vibid:1001000202316": 6,
+      "gas:candidate-vibid:1001000217933": 28,
+      "gas:candidate-vibid:350300270387": 343,
+      "gas:candidate-vibid:350300270535": 27,
+      "gas:candidate-vibid:1001000190368": 15,
+      "gas:candidate-vibid:350300270370": 34,
+      "gas:candidate-vibid:1001000225953": 310,
+      "gas:candidate-vibid:1001000121865": 30,
+      "special:against-all": 220
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=503002007&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=350300270976&region=0&sub_region=0&type=429",
@@ -6473,16 +6473,16 @@ export const duma_2003_uik_428_region_50_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бакунин Валерий Николаевич": 28,
-      "Борисенко Леонид Николаевич": 4,
-      "Гребенщиков Александр Петрович": 22,
-      "Кораблин Юрий Вадимович": 173,
-      "Неверов Николай Николаевич": 23,
-      "Павлов Борис Владимирович": 9,
-      "Хахалина Татьяна Петровна": 19,
-      "Шаккум Мартин Люцианович": 236,
-      "Шарнин Валерий Николаевич": 29,
-      "Против всех": 141
+      "gas:candidate-vibid:1001000112226": 28,
+      "gas:candidate-vibid:1001000202316": 4,
+      "gas:candidate-vibid:1001000217933": 22,
+      "gas:candidate-vibid:350300270387": 173,
+      "gas:candidate-vibid:350300270535": 23,
+      "gas:candidate-vibid:1001000190368": 9,
+      "gas:candidate-vibid:350300270370": 19,
+      "gas:candidate-vibid:1001000225953": 236,
+      "gas:candidate-vibid:1001000121865": 29,
+      "special:against-all": 141
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=503002007&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=350300270976&region=0&sub_region=0&type=429",
@@ -6532,16 +6532,16 @@ export const duma_2003_uik_428_region_50_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бакунин Валерий Николаевич": 29,
-      "Борисенко Леонид Николаевич": 5,
-      "Гребенщиков Александр Петрович": 9,
-      "Кораблин Юрий Вадимович": 143,
-      "Неверов Николай Николаевич": 16,
-      "Павлов Борис Владимирович": 10,
-      "Хахалина Татьяна Петровна": 14,
-      "Шаккум Мартин Люцианович": 131,
-      "Шарнин Валерий Николаевич": 25,
-      "Против всех": 54
+      "gas:candidate-vibid:1001000112226": 29,
+      "gas:candidate-vibid:1001000202316": 5,
+      "gas:candidate-vibid:1001000217933": 9,
+      "gas:candidate-vibid:350300270387": 143,
+      "gas:candidate-vibid:350300270535": 16,
+      "gas:candidate-vibid:1001000190368": 10,
+      "gas:candidate-vibid:350300270370": 14,
+      "gas:candidate-vibid:1001000225953": 131,
+      "gas:candidate-vibid:1001000121865": 25,
+      "special:against-all": 54
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=503002007&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=350300270976&region=0&sub_region=0&type=429",
@@ -6591,16 +6591,16 @@ export const duma_2003_uik_428_region_50_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бакунин Валерий Николаевич": 55,
-      "Борисенко Леонид Николаевич": 10,
-      "Гребенщиков Александр Петрович": 24,
-      "Кораблин Юрий Вадимович": 214,
-      "Неверов Николай Николаевич": 27,
-      "Павлов Борис Владимирович": 12,
-      "Хахалина Татьяна Петровна": 36,
-      "Шаккум Мартин Люцианович": 150,
-      "Шарнин Валерий Николаевич": 55,
-      "Против всех": 161
+      "gas:candidate-vibid:1001000112226": 55,
+      "gas:candidate-vibid:1001000202316": 10,
+      "gas:candidate-vibid:1001000217933": 24,
+      "gas:candidate-vibid:350300270387": 214,
+      "gas:candidate-vibid:350300270535": 27,
+      "gas:candidate-vibid:1001000190368": 12,
+      "gas:candidate-vibid:350300270370": 36,
+      "gas:candidate-vibid:1001000225953": 150,
+      "gas:candidate-vibid:1001000121865": 55,
+      "special:against-all": 161
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=503002007&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=350300270976&region=0&sub_region=0&type=429",
@@ -6650,16 +6650,16 @@ export const duma_2003_uik_428_region_50_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бакунин Валерий Николаевич": 7,
-      "Борисенко Леонид Николаевич": 2,
-      "Гребенщиков Александр Петрович": 3,
-      "Кораблин Юрий Вадимович": 88,
-      "Неверов Николай Николаевич": 7,
-      "Павлов Борис Владимирович": 3,
-      "Хахалина Татьяна Петровна": 4,
-      "Шаккум Мартин Люцианович": 53,
-      "Шарнин Валерий Николаевич": 11,
-      "Против всех": 34
+      "gas:candidate-vibid:1001000112226": 7,
+      "gas:candidate-vibid:1001000202316": 2,
+      "gas:candidate-vibid:1001000217933": 3,
+      "gas:candidate-vibid:350300270387": 88,
+      "gas:candidate-vibid:350300270535": 7,
+      "gas:candidate-vibid:1001000190368": 3,
+      "gas:candidate-vibid:350300270370": 4,
+      "gas:candidate-vibid:1001000225953": 53,
+      "gas:candidate-vibid:1001000121865": 11,
+      "special:against-all": 34
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=503002007&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=350300270976&region=0&sub_region=0&type=429",
@@ -6709,16 +6709,16 @@ export const duma_2003_uik_428_region_50_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бакунин Валерий Николаевич": 35,
-      "Борисенко Леонид Николаевич": 12,
-      "Гребенщиков Александр Петрович": 30,
-      "Кораблин Юрий Вадимович": 194,
-      "Неверов Николай Николаевич": 11,
-      "Павлов Борис Владимирович": 13,
-      "Хахалина Татьяна Петровна": 18,
-      "Шаккум Мартин Люцианович": 163,
-      "Шарнин Валерий Николаевич": 15,
-      "Против всех": 116
+      "gas:candidate-vibid:1001000112226": 35,
+      "gas:candidate-vibid:1001000202316": 12,
+      "gas:candidate-vibid:1001000217933": 30,
+      "gas:candidate-vibid:350300270387": 194,
+      "gas:candidate-vibid:350300270535": 11,
+      "gas:candidate-vibid:1001000190368": 13,
+      "gas:candidate-vibid:350300270370": 18,
+      "gas:candidate-vibid:1001000225953": 163,
+      "gas:candidate-vibid:1001000121865": 15,
+      "special:against-all": 116
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=503002007&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=350300270976&region=0&sub_region=0&type=429",
@@ -6768,16 +6768,16 @@ export const duma_2003_uik_428_region_50_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бакунин Валерий Николаевич": 24,
-      "Борисенко Леонид Николаевич": 2,
-      "Гребенщиков Александр Петрович": 9,
-      "Кораблин Юрий Вадимович": 44,
-      "Неверов Николай Николаевич": 6,
-      "Павлов Борис Владимирович": 5,
-      "Хахалина Татьяна Петровна": 1,
-      "Шаккум Мартин Люцианович": 258,
-      "Шарнин Валерий Николаевич": 18,
-      "Против всех": 66
+      "gas:candidate-vibid:1001000112226": 24,
+      "gas:candidate-vibid:1001000202316": 2,
+      "gas:candidate-vibid:1001000217933": 9,
+      "gas:candidate-vibid:350300270387": 44,
+      "gas:candidate-vibid:350300270535": 6,
+      "gas:candidate-vibid:1001000190368": 5,
+      "gas:candidate-vibid:350300270370": 1,
+      "gas:candidate-vibid:1001000225953": 258,
+      "gas:candidate-vibid:1001000121865": 18,
+      "special:against-all": 66
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=503002008&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=350300270977&region=0&sub_region=0&type=429",
@@ -6827,16 +6827,16 @@ export const duma_2003_uik_428_region_50_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бакунин Валерий Николаевич": 21,
-      "Борисенко Леонид Николаевич": 2,
-      "Гребенщиков Александр Петрович": 13,
-      "Кораблин Юрий Вадимович": 63,
-      "Неверов Николай Николаевич": 4,
-      "Павлов Борис Владимирович": 6,
-      "Хахалина Татьяна Петровна": 4,
-      "Шаккум Мартин Люцианович": 304,
-      "Шарнин Валерий Николаевич": 24,
-      "Против всех": 106
+      "gas:candidate-vibid:1001000112226": 21,
+      "gas:candidate-vibid:1001000202316": 2,
+      "gas:candidate-vibid:1001000217933": 13,
+      "gas:candidate-vibid:350300270387": 63,
+      "gas:candidate-vibid:350300270535": 4,
+      "gas:candidate-vibid:1001000190368": 6,
+      "gas:candidate-vibid:350300270370": 4,
+      "gas:candidate-vibid:1001000225953": 304,
+      "gas:candidate-vibid:1001000121865": 24,
+      "special:against-all": 106
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=503002008&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=350300270977&region=0&sub_region=0&type=429",
@@ -6886,16 +6886,16 @@ export const duma_2003_uik_428_region_50_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бакунин Валерий Николаевич": 55,
-      "Борисенко Леонид Николаевич": 2,
-      "Гребенщиков Александр Петрович": 24,
-      "Кораблин Юрий Вадимович": 171,
-      "Неверов Николай Николаевич": 5,
-      "Павлов Борис Владимирович": 10,
-      "Хахалина Татьяна Петровна": 8,
-      "Шаккум Мартин Люцианович": 536,
-      "Шарнин Валерий Николаевич": 61,
-      "Против всех": 172
+      "gas:candidate-vibid:1001000112226": 55,
+      "gas:candidate-vibid:1001000202316": 2,
+      "gas:candidate-vibid:1001000217933": 24,
+      "gas:candidate-vibid:350300270387": 171,
+      "gas:candidate-vibid:350300270535": 5,
+      "gas:candidate-vibid:1001000190368": 10,
+      "gas:candidate-vibid:350300270370": 8,
+      "gas:candidate-vibid:1001000225953": 536,
+      "gas:candidate-vibid:1001000121865": 61,
+      "special:against-all": 172
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=503002008&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=350300270977&region=0&sub_region=0&type=429",
@@ -6945,16 +6945,16 @@ export const duma_2003_uik_428_region_50_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бакунин Валерий Николаевич": 52,
-      "Борисенко Леонид Николаевич": 14,
-      "Гребенщиков Александр Петрович": 26,
-      "Кораблин Юрий Вадимович": 223,
-      "Неверов Николай Николаевич": 13,
-      "Павлов Борис Владимирович": 15,
-      "Хахалина Татьяна Петровна": 22,
-      "Шаккум Мартин Люцианович": 515,
-      "Шарнин Валерий Николаевич": 98,
-      "Против всех": 208
+      "gas:candidate-vibid:1001000112226": 52,
+      "gas:candidate-vibid:1001000202316": 14,
+      "gas:candidate-vibid:1001000217933": 26,
+      "gas:candidate-vibid:350300270387": 223,
+      "gas:candidate-vibid:350300270535": 13,
+      "gas:candidate-vibid:1001000190368": 15,
+      "gas:candidate-vibid:350300270370": 22,
+      "gas:candidate-vibid:1001000225953": 515,
+      "gas:candidate-vibid:1001000121865": 98,
+      "special:against-all": 208
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=503002008&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=350300270977&region=0&sub_region=0&type=429",
@@ -7004,16 +7004,16 @@ export const duma_2003_uik_428_region_50_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бакунин Валерий Николаевич": 45,
-      "Борисенко Леонид Николаевич": 1,
-      "Гребенщиков Александр Петрович": 18,
-      "Кораблин Юрий Вадимович": 161,
-      "Неверов Николай Николаевич": 6,
-      "Павлов Борис Владимирович": 10,
-      "Хахалина Татьяна Петровна": 8,
-      "Шаккум Мартин Люцианович": 470,
-      "Шарнин Валерий Николаевич": 57,
-      "Против всех": 220
+      "gas:candidate-vibid:1001000112226": 45,
+      "gas:candidate-vibid:1001000202316": 1,
+      "gas:candidate-vibid:1001000217933": 18,
+      "gas:candidate-vibid:350300270387": 161,
+      "gas:candidate-vibid:350300270535": 6,
+      "gas:candidate-vibid:1001000190368": 10,
+      "gas:candidate-vibid:350300270370": 8,
+      "gas:candidate-vibid:1001000225953": 470,
+      "gas:candidate-vibid:1001000121865": 57,
+      "special:against-all": 220
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=503002008&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=350300270977&region=0&sub_region=0&type=429",
@@ -7063,16 +7063,16 @@ export const duma_2003_uik_428_region_50_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бакунин Валерий Николаевич": 46,
-      "Борисенко Леонид Николаевич": 1,
-      "Гребенщиков Александр Петрович": 22,
-      "Кораблин Юрий Вадимович": 165,
-      "Неверов Николай Николаевич": 5,
-      "Павлов Борис Владимирович": 8,
-      "Хахалина Татьяна Петровна": 9,
-      "Шаккум Мартин Люцианович": 767,
-      "Шарнин Валерий Николаевич": 63,
-      "Против всех": 187
+      "gas:candidate-vibid:1001000112226": 46,
+      "gas:candidate-vibid:1001000202316": 1,
+      "gas:candidate-vibid:1001000217933": 22,
+      "gas:candidate-vibid:350300270387": 165,
+      "gas:candidate-vibid:350300270535": 5,
+      "gas:candidate-vibid:1001000190368": 8,
+      "gas:candidate-vibid:350300270370": 9,
+      "gas:candidate-vibid:1001000225953": 767,
+      "gas:candidate-vibid:1001000121865": 63,
+      "special:against-all": 187
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=503002008&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=350300270977&region=0&sub_region=0&type=429",
@@ -7122,16 +7122,16 @@ export const duma_2003_uik_428_region_50_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бакунин Валерий Николаевич": 55,
-      "Борисенко Леонид Николаевич": 2,
-      "Гребенщиков Александр Петрович": 25,
-      "Кораблин Юрий Вадимович": 164,
-      "Неверов Николай Николаевич": 7,
-      "Павлов Борис Владимирович": 7,
-      "Хахалина Татьяна Петровна": 12,
-      "Шаккум Мартин Люцианович": 634,
-      "Шарнин Валерий Николаевич": 69,
-      "Против всех": 267
+      "gas:candidate-vibid:1001000112226": 55,
+      "gas:candidate-vibid:1001000202316": 2,
+      "gas:candidate-vibid:1001000217933": 25,
+      "gas:candidate-vibid:350300270387": 164,
+      "gas:candidate-vibid:350300270535": 7,
+      "gas:candidate-vibid:1001000190368": 7,
+      "gas:candidate-vibid:350300270370": 12,
+      "gas:candidate-vibid:1001000225953": 634,
+      "gas:candidate-vibid:1001000121865": 69,
+      "special:against-all": 267
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=503002008&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=350300270977&region=0&sub_region=0&type=429",
@@ -7181,16 +7181,16 @@ export const duma_2003_uik_428_region_50_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бакунин Валерий Николаевич": 22,
-      "Борисенко Леонид Николаевич": 1,
-      "Гребенщиков Александр Петрович": 15,
-      "Кораблин Юрий Вадимович": 31,
-      "Неверов Николай Николаевич": 1,
-      "Павлов Борис Владимирович": 5,
-      "Хахалина Татьяна Петровна": 4,
-      "Шаккум Мартин Люцианович": 379,
-      "Шарнин Валерий Николаевич": 15,
-      "Против всех": 69
+      "gas:candidate-vibid:1001000112226": 22,
+      "gas:candidate-vibid:1001000202316": 1,
+      "gas:candidate-vibid:1001000217933": 15,
+      "gas:candidate-vibid:350300270387": 31,
+      "gas:candidate-vibid:350300270535": 1,
+      "gas:candidate-vibid:1001000190368": 5,
+      "gas:candidate-vibid:350300270370": 4,
+      "gas:candidate-vibid:1001000225953": 379,
+      "gas:candidate-vibid:1001000121865": 15,
+      "special:against-all": 69
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=503002008&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=350300270977&region=0&sub_region=0&type=429",
@@ -7240,16 +7240,16 @@ export const duma_2003_uik_428_region_50_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бакунин Валерий Николаевич": 22,
-      "Борисенко Леонид Николаевич": 1,
-      "Гребенщиков Александр Петрович": 8,
-      "Кораблин Юрий Вадимович": 90,
-      "Неверов Николай Николаевич": 8,
-      "Павлов Борис Владимирович": 3,
-      "Хахалина Татьяна Петровна": 6,
-      "Шаккум Мартин Люцианович": 250,
-      "Шарнин Валерий Николаевич": 29,
-      "Против всех": 100
+      "gas:candidate-vibid:1001000112226": 22,
+      "gas:candidate-vibid:1001000202316": 1,
+      "gas:candidate-vibid:1001000217933": 8,
+      "gas:candidate-vibid:350300270387": 90,
+      "gas:candidate-vibid:350300270535": 8,
+      "gas:candidate-vibid:1001000190368": 3,
+      "gas:candidate-vibid:350300270370": 6,
+      "gas:candidate-vibid:1001000225953": 250,
+      "gas:candidate-vibid:1001000121865": 29,
+      "special:against-all": 100
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=503002008&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=350300270977&region=0&sub_region=0&type=429",
@@ -7299,16 +7299,16 @@ export const duma_2003_uik_428_region_50_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бакунин Валерий Николаевич": 35,
-      "Борисенко Леонид Николаевич": 4,
-      "Гребенщиков Александр Петрович": 15,
-      "Кораблин Юрий Вадимович": 40,
-      "Неверов Николай Николаевич": 4,
-      "Павлов Борис Владимирович": 5,
-      "Хахалина Татьяна Петровна": 3,
-      "Шаккум Мартин Люцианович": 236,
-      "Шарнин Валерий Николаевич": 28,
-      "Против всех": 78
+      "gas:candidate-vibid:1001000112226": 35,
+      "gas:candidate-vibid:1001000202316": 4,
+      "gas:candidate-vibid:1001000217933": 15,
+      "gas:candidate-vibid:350300270387": 40,
+      "gas:candidate-vibid:350300270535": 4,
+      "gas:candidate-vibid:1001000190368": 5,
+      "gas:candidate-vibid:350300270370": 3,
+      "gas:candidate-vibid:1001000225953": 236,
+      "gas:candidate-vibid:1001000121865": 28,
+      "special:against-all": 78
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=503002008&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=350300270977&region=0&sub_region=0&type=429",
@@ -7358,16 +7358,16 @@ export const duma_2003_uik_428_region_50_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бакунин Валерий Николаевич": 28,
-      "Борисенко Леонид Николаевич": 5,
-      "Гребенщиков Александр Петрович": 9,
-      "Кораблин Юрий Вадимович": 33,
-      "Неверов Николай Николаевич": 6,
-      "Павлов Борис Владимирович": 8,
-      "Хахалина Татьяна Петровна": 5,
-      "Шаккум Мартин Люцианович": 433,
-      "Шарнин Валерий Николаевич": 30,
-      "Против всех": 78
+      "gas:candidate-vibid:1001000112226": 28,
+      "gas:candidate-vibid:1001000202316": 5,
+      "gas:candidate-vibid:1001000217933": 9,
+      "gas:candidate-vibid:350300270387": 33,
+      "gas:candidate-vibid:350300270535": 6,
+      "gas:candidate-vibid:1001000190368": 8,
+      "gas:candidate-vibid:350300270370": 5,
+      "gas:candidate-vibid:1001000225953": 433,
+      "gas:candidate-vibid:1001000121865": 30,
+      "special:against-all": 78
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=503002008&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=350300270977&region=0&sub_region=0&type=429",
@@ -7417,16 +7417,16 @@ export const duma_2003_uik_428_region_50_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бакунин Валерий Николаевич": 13,
-      "Борисенко Леонид Николаевич": 1,
-      "Гребенщиков Александр Петрович": 52,
-      "Кораблин Юрий Вадимович": 111,
-      "Неверов Николай Николаевич": 5,
-      "Павлов Борис Владимирович": 2,
-      "Хахалина Татьяна Петровна": 5,
-      "Шаккум Мартин Люцианович": 207,
-      "Шарнин Валерий Николаевич": 30,
-      "Против всех": 66
+      "gas:candidate-vibid:1001000112226": 13,
+      "gas:candidate-vibid:1001000202316": 1,
+      "gas:candidate-vibid:1001000217933": 52,
+      "gas:candidate-vibid:350300270387": 111,
+      "gas:candidate-vibid:350300270535": 5,
+      "gas:candidate-vibid:1001000190368": 2,
+      "gas:candidate-vibid:350300270370": 5,
+      "gas:candidate-vibid:1001000225953": 207,
+      "gas:candidate-vibid:1001000121865": 30,
+      "special:against-all": 66
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=503002008&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=350300270977&region=0&sub_region=0&type=429",
@@ -7476,16 +7476,16 @@ export const duma_2003_uik_428_region_50_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бакунин Валерий Николаевич": 7,
-      "Борисенко Леонид Николаевич": 2,
-      "Гребенщиков Александр Петрович": 3,
-      "Кораблин Юрий Вадимович": 17,
-      "Неверов Николай Николаевич": 0,
-      "Павлов Борис Владимирович": 2,
-      "Хахалина Татьяна Петровна": 2,
-      "Шаккум Мартин Люцианович": 101,
-      "Шарнин Валерий Николаевич": 15,
-      "Против всех": 33
+      "gas:candidate-vibid:1001000112226": 7,
+      "gas:candidate-vibid:1001000202316": 2,
+      "gas:candidate-vibid:1001000217933": 3,
+      "gas:candidate-vibid:350300270387": 17,
+      "gas:candidate-vibid:350300270535": 0,
+      "gas:candidate-vibid:1001000190368": 2,
+      "gas:candidate-vibid:350300270370": 2,
+      "gas:candidate-vibid:1001000225953": 101,
+      "gas:candidate-vibid:1001000121865": 15,
+      "special:against-all": 33
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=503002008&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=350300270977&region=0&sub_region=0&type=429",
@@ -7535,16 +7535,16 @@ export const duma_2003_uik_428_region_50_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бакунин Валерий Николаевич": 13,
-      "Борисенко Леонид Николаевич": 1,
-      "Гребенщиков Александр Петрович": 9,
-      "Кораблин Юрий Вадимович": 89,
-      "Неверов Николай Николаевич": 1,
-      "Павлов Борис Владимирович": 6,
-      "Хахалина Татьяна Петровна": 7,
-      "Шаккум Мартин Люцианович": 251,
-      "Шарнин Валерий Николаевич": 53,
-      "Против всех": 72
+      "gas:candidate-vibid:1001000112226": 13,
+      "gas:candidate-vibid:1001000202316": 1,
+      "gas:candidate-vibid:1001000217933": 9,
+      "gas:candidate-vibid:350300270387": 89,
+      "gas:candidate-vibid:350300270535": 1,
+      "gas:candidate-vibid:1001000190368": 6,
+      "gas:candidate-vibid:350300270370": 7,
+      "gas:candidate-vibid:1001000225953": 251,
+      "gas:candidate-vibid:1001000121865": 53,
+      "special:against-all": 72
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=503002008&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=350300270977&region=0&sub_region=0&type=429",
@@ -7594,16 +7594,16 @@ export const duma_2003_uik_428_region_50_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бакунин Валерий Николаевич": 28,
-      "Борисенко Леонид Николаевич": 4,
-      "Гребенщиков Александр Петрович": 19,
-      "Кораблин Юрий Вадимович": 71,
-      "Неверов Николай Николаевич": 6,
-      "Павлов Борис Владимирович": 5,
-      "Хахалина Татьяна Петровна": 14,
-      "Шаккум Мартин Люцианович": 395,
-      "Шарнин Валерий Николаевич": 31,
-      "Против всех": 81
+      "gas:candidate-vibid:1001000112226": 28,
+      "gas:candidate-vibid:1001000202316": 4,
+      "gas:candidate-vibid:1001000217933": 19,
+      "gas:candidate-vibid:350300270387": 71,
+      "gas:candidate-vibid:350300270535": 6,
+      "gas:candidate-vibid:1001000190368": 5,
+      "gas:candidate-vibid:350300270370": 14,
+      "gas:candidate-vibid:1001000225953": 395,
+      "gas:candidate-vibid:1001000121865": 31,
+      "special:against-all": 81
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=503002008&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=350300270977&region=0&sub_region=0&type=429",
@@ -7653,16 +7653,16 @@ export const duma_2003_uik_428_region_50_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бакунин Валерий Николаевич": 4,
-      "Борисенко Леонид Николаевич": 7,
-      "Гребенщиков Александр Петрович": 11,
-      "Кораблин Юрий Вадимович": 46,
-      "Неверов Николай Николаевич": 3,
-      "Павлов Борис Владимирович": 1,
-      "Хахалина Татьяна Петровна": 7,
-      "Шаккум Мартин Люцианович": 233,
-      "Шарнин Валерий Николаевич": 14,
-      "Против всех": 43
+      "gas:candidate-vibid:1001000112226": 4,
+      "gas:candidate-vibid:1001000202316": 7,
+      "gas:candidate-vibid:1001000217933": 11,
+      "gas:candidate-vibid:350300270387": 46,
+      "gas:candidate-vibid:350300270535": 3,
+      "gas:candidate-vibid:1001000190368": 1,
+      "gas:candidate-vibid:350300270370": 7,
+      "gas:candidate-vibid:1001000225953": 233,
+      "gas:candidate-vibid:1001000121865": 14,
+      "special:against-all": 43
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=503002008&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=350300270977&region=0&sub_region=0&type=429",
@@ -7712,16 +7712,16 @@ export const duma_2003_uik_428_region_50_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бакунин Валерий Николаевич": 9,
-      "Борисенко Леонид Николаевич": 5,
-      "Гребенщиков Александр Петрович": 7,
-      "Кораблин Юрий Вадимович": 30,
-      "Неверов Николай Николаевич": 1,
-      "Павлов Борис Владимирович": 2,
-      "Хахалина Татьяна Петровна": 2,
-      "Шаккум Мартин Люцианович": 123,
-      "Шарнин Валерий Николаевич": 5,
-      "Против всех": 40
+      "gas:candidate-vibid:1001000112226": 9,
+      "gas:candidate-vibid:1001000202316": 5,
+      "gas:candidate-vibid:1001000217933": 7,
+      "gas:candidate-vibid:350300270387": 30,
+      "gas:candidate-vibid:350300270535": 1,
+      "gas:candidate-vibid:1001000190368": 2,
+      "gas:candidate-vibid:350300270370": 2,
+      "gas:candidate-vibid:1001000225953": 123,
+      "gas:candidate-vibid:1001000121865": 5,
+      "special:against-all": 40
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=503002008&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=350300270977&region=0&sub_region=0&type=429",
@@ -7771,16 +7771,16 @@ export const duma_2003_uik_428_region_50_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бакунин Валерий Николаевич": 28,
-      "Борисенко Леонид Николаевич": 3,
-      "Гребенщиков Александр Петрович": 3,
-      "Кораблин Юрий Вадимович": 11,
-      "Неверов Николай Николаевич": 3,
-      "Павлов Борис Владимирович": 5,
-      "Хахалина Татьяна Петровна": 6,
-      "Шаккум Мартин Люцианович": 180,
-      "Шарнин Валерий Николаевич": 53,
-      "Против всех": 62
+      "gas:candidate-vibid:1001000112226": 28,
+      "gas:candidate-vibid:1001000202316": 3,
+      "gas:candidate-vibid:1001000217933": 3,
+      "gas:candidate-vibid:350300270387": 11,
+      "gas:candidate-vibid:350300270535": 3,
+      "gas:candidate-vibid:1001000190368": 5,
+      "gas:candidate-vibid:350300270370": 6,
+      "gas:candidate-vibid:1001000225953": 180,
+      "gas:candidate-vibid:1001000121865": 53,
+      "special:against-all": 62
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=503002008&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=350300270977&region=0&sub_region=0&type=429",
@@ -7830,16 +7830,16 @@ export const duma_2003_uik_428_region_50_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бакунин Валерий Николаевич": 29,
-      "Борисенко Леонид Николаевич": 11,
-      "Гребенщиков Александр Петрович": 15,
-      "Кораблин Юрий Вадимович": 70,
-      "Неверов Николай Николаевич": 6,
-      "Павлов Борис Владимирович": 15,
-      "Хахалина Татьяна Петровна": 11,
-      "Шаккум Мартин Люцианович": 338,
-      "Шарнин Валерий Николаевич": 44,
-      "Против всех": 64
+      "gas:candidate-vibid:1001000112226": 29,
+      "gas:candidate-vibid:1001000202316": 11,
+      "gas:candidate-vibid:1001000217933": 15,
+      "gas:candidate-vibid:350300270387": 70,
+      "gas:candidate-vibid:350300270535": 6,
+      "gas:candidate-vibid:1001000190368": 15,
+      "gas:candidate-vibid:350300270370": 11,
+      "gas:candidate-vibid:1001000225953": 338,
+      "gas:candidate-vibid:1001000121865": 44,
+      "special:against-all": 64
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=503002008&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=350300270977&region=0&sub_region=0&type=429",
@@ -7889,16 +7889,16 @@ export const duma_2003_uik_428_region_50_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бакунин Валерий Николаевич": 6,
-      "Борисенко Леонид Николаевич": 0,
-      "Гребенщиков Александр Петрович": 4,
-      "Кораблин Юрий Вадимович": 28,
-      "Неверов Николай Николаевич": 0,
-      "Павлов Борис Владимирович": 4,
-      "Хахалина Татьяна Петровна": 3,
-      "Шаккум Мартин Люцианович": 128,
-      "Шарнин Валерий Николаевич": 9,
-      "Против всех": 34
+      "gas:candidate-vibid:1001000112226": 6,
+      "gas:candidate-vibid:1001000202316": 0,
+      "gas:candidate-vibid:1001000217933": 4,
+      "gas:candidate-vibid:350300270387": 28,
+      "gas:candidate-vibid:350300270535": 0,
+      "gas:candidate-vibid:1001000190368": 4,
+      "gas:candidate-vibid:350300270370": 3,
+      "gas:candidate-vibid:1001000225953": 128,
+      "gas:candidate-vibid:1001000121865": 9,
+      "special:against-all": 34
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=503002008&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=350300270977&region=0&sub_region=0&type=429",
@@ -7948,16 +7948,16 @@ export const duma_2003_uik_428_region_50_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бакунин Валерий Николаевич": 105,
-      "Борисенко Леонид Николаевич": 15,
-      "Гребенщиков Александр Петрович": 60,
-      "Кораблин Юрий Вадимович": 259,
-      "Неверов Николай Николаевич": 11,
-      "Павлов Борис Владимирович": 15,
-      "Хахалина Татьяна Петровна": 33,
-      "Шаккум Мартин Люцианович": 528,
-      "Шарнин Валерий Николаевич": 56,
-      "Против всех": 250
+      "gas:candidate-vibid:1001000112226": 105,
+      "gas:candidate-vibid:1001000202316": 15,
+      "gas:candidate-vibid:1001000217933": 60,
+      "gas:candidate-vibid:350300270387": 259,
+      "gas:candidate-vibid:350300270535": 11,
+      "gas:candidate-vibid:1001000190368": 15,
+      "gas:candidate-vibid:350300270370": 33,
+      "gas:candidate-vibid:1001000225953": 528,
+      "gas:candidate-vibid:1001000121865": 56,
+      "special:against-all": 250
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=503002008&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=350300270977&region=0&sub_region=0&type=429",
@@ -8007,16 +8007,16 @@ export const duma_2003_uik_428_region_50_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бакунин Валерий Николаевич": 20,
-      "Борисенко Леонид Николаевич": 1,
-      "Гребенщиков Александр Петрович": 6,
-      "Кораблин Юрий Вадимович": 56,
-      "Неверов Николай Николаевич": 2,
-      "Павлов Борис Владимирович": 3,
-      "Хахалина Татьяна Петровна": 5,
-      "Шаккум Мартин Люцианович": 219,
-      "Шарнин Валерий Николаевич": 32,
-      "Против всех": 77
+      "gas:candidate-vibid:1001000112226": 20,
+      "gas:candidate-vibid:1001000202316": 1,
+      "gas:candidate-vibid:1001000217933": 6,
+      "gas:candidate-vibid:350300270387": 56,
+      "gas:candidate-vibid:350300270535": 2,
+      "gas:candidate-vibid:1001000190368": 3,
+      "gas:candidate-vibid:350300270370": 5,
+      "gas:candidate-vibid:1001000225953": 219,
+      "gas:candidate-vibid:1001000121865": 32,
+      "special:against-all": 77
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=503002008&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=350300270977&region=0&sub_region=0&type=429",
@@ -8066,16 +8066,16 @@ export const duma_2003_uik_428_region_50_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бакунин Валерий Николаевич": 21,
-      "Борисенко Леонид Николаевич": 1,
-      "Гребенщиков Александр Петрович": 12,
-      "Кораблин Юрий Вадимович": 29,
-      "Неверов Николай Николаевич": 2,
-      "Павлов Борис Владимирович": 5,
-      "Хахалина Татьяна Петровна": 4,
-      "Шаккум Мартин Люцианович": 239,
-      "Шарнин Валерий Николаевич": 5,
-      "Против всех": 49
+      "gas:candidate-vibid:1001000112226": 21,
+      "gas:candidate-vibid:1001000202316": 1,
+      "gas:candidate-vibid:1001000217933": 12,
+      "gas:candidate-vibid:350300270387": 29,
+      "gas:candidate-vibid:350300270535": 2,
+      "gas:candidate-vibid:1001000190368": 5,
+      "gas:candidate-vibid:350300270370": 4,
+      "gas:candidate-vibid:1001000225953": 239,
+      "gas:candidate-vibid:1001000121865": 5,
+      "special:against-all": 49
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=503002008&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=350300270977&region=0&sub_region=0&type=429",
@@ -8125,16 +8125,16 @@ export const duma_2003_uik_428_region_50_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бакунин Валерий Николаевич": 19,
-      "Борисенко Леонид Николаевич": 2,
-      "Гребенщиков Александр Петрович": 6,
-      "Кораблин Юрий Вадимович": 29,
-      "Неверов Николай Николаевич": 6,
-      "Павлов Борис Владимирович": 3,
-      "Хахалина Татьяна Петровна": 7,
-      "Шаккум Мартин Люцианович": 195,
-      "Шарнин Валерий Николаевич": 16,
-      "Против всех": 49
+      "gas:candidate-vibid:1001000112226": 19,
+      "gas:candidate-vibid:1001000202316": 2,
+      "gas:candidate-vibid:1001000217933": 6,
+      "gas:candidate-vibid:350300270387": 29,
+      "gas:candidate-vibid:350300270535": 6,
+      "gas:candidate-vibid:1001000190368": 3,
+      "gas:candidate-vibid:350300270370": 7,
+      "gas:candidate-vibid:1001000225953": 195,
+      "gas:candidate-vibid:1001000121865": 16,
+      "special:against-all": 49
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=503002008&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=350300270977&region=0&sub_region=0&type=429",
@@ -8184,16 +8184,16 @@ export const duma_2003_uik_428_region_50_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бакунин Валерий Николаевич": 50,
-      "Борисенко Леонид Николаевич": 10,
-      "Гребенщиков Александр Петрович": 65,
-      "Кораблин Юрий Вадимович": 83,
-      "Неверов Николай Николаевич": 7,
-      "Павлов Борис Владимирович": 12,
-      "Хахалина Татьяна Петровна": 15,
-      "Шаккум Мартин Люцианович": 697,
-      "Шарнин Валерий Николаевич": 55,
-      "Против всех": 212
+      "gas:candidate-vibid:1001000112226": 50,
+      "gas:candidate-vibid:1001000202316": 10,
+      "gas:candidate-vibid:1001000217933": 65,
+      "gas:candidate-vibid:350300270387": 83,
+      "gas:candidate-vibid:350300270535": 7,
+      "gas:candidate-vibid:1001000190368": 12,
+      "gas:candidate-vibid:350300270370": 15,
+      "gas:candidate-vibid:1001000225953": 697,
+      "gas:candidate-vibid:1001000121865": 55,
+      "special:against-all": 212
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=503002008&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=350300270977&region=0&sub_region=0&type=429",
@@ -8243,16 +8243,16 @@ export const duma_2003_uik_428_region_50_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бакунин Валерий Николаевич": 16,
-      "Борисенко Леонид Николаевич": 5,
-      "Гребенщиков Александр Петрович": 1,
-      "Кораблин Юрий Вадимович": 40,
-      "Неверов Николай Николаевич": 5,
-      "Павлов Борис Владимирович": 5,
-      "Хахалина Татьяна Петровна": 5,
-      "Шаккум Мартин Люцианович": 247,
-      "Шарнин Валерий Николаевич": 3,
-      "Против всех": 48
+      "gas:candidate-vibid:1001000112226": 16,
+      "gas:candidate-vibid:1001000202316": 5,
+      "gas:candidate-vibid:1001000217933": 1,
+      "gas:candidate-vibid:350300270387": 40,
+      "gas:candidate-vibid:350300270535": 5,
+      "gas:candidate-vibid:1001000190368": 5,
+      "gas:candidate-vibid:350300270370": 5,
+      "gas:candidate-vibid:1001000225953": 247,
+      "gas:candidate-vibid:1001000121865": 3,
+      "special:against-all": 48
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=503002008&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=350300270977&region=0&sub_region=0&type=429",
@@ -8302,16 +8302,16 @@ export const duma_2003_uik_428_region_50_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бакунин Валерий Николаевич": 23,
-      "Борисенко Леонид Николаевич": 7,
-      "Гребенщиков Александр Петрович": 9,
-      "Кораблин Юрий Вадимович": 92,
-      "Неверов Николай Николаевич": 5,
-      "Павлов Борис Владимирович": 9,
-      "Хахалина Татьяна Петровна": 16,
-      "Шаккум Мартин Люцианович": 292,
-      "Шарнин Валерий Николаевич": 23,
-      "Против всех": 94
+      "gas:candidate-vibid:1001000112226": 23,
+      "gas:candidate-vibid:1001000202316": 7,
+      "gas:candidate-vibid:1001000217933": 9,
+      "gas:candidate-vibid:350300270387": 92,
+      "gas:candidate-vibid:350300270535": 5,
+      "gas:candidate-vibid:1001000190368": 9,
+      "gas:candidate-vibid:350300270370": 16,
+      "gas:candidate-vibid:1001000225953": 292,
+      "gas:candidate-vibid:1001000121865": 23,
+      "special:against-all": 94
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=503002008&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=350300270977&region=0&sub_region=0&type=429",
@@ -8361,16 +8361,16 @@ export const duma_2003_uik_428_region_50_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бакунин Валерий Николаевич": 15,
-      "Борисенко Леонид Николаевич": 1,
-      "Гребенщиков Александр Петрович": 3,
-      "Кораблин Юрий Вадимович": 54,
-      "Неверов Николай Николаевич": 0,
-      "Павлов Борис Владимирович": 0,
-      "Хахалина Татьяна Петровна": 3,
-      "Шаккум Мартин Люцианович": 126,
-      "Шарнин Валерий Николаевич": 13,
-      "Против всех": 32
+      "gas:candidate-vibid:1001000112226": 15,
+      "gas:candidate-vibid:1001000202316": 1,
+      "gas:candidate-vibid:1001000217933": 3,
+      "gas:candidate-vibid:350300270387": 54,
+      "gas:candidate-vibid:350300270535": 0,
+      "gas:candidate-vibid:1001000190368": 0,
+      "gas:candidate-vibid:350300270370": 3,
+      "gas:candidate-vibid:1001000225953": 126,
+      "gas:candidate-vibid:1001000121865": 13,
+      "special:against-all": 32
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=503002008&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=350300270977&region=0&sub_region=0&type=429",
@@ -8420,16 +8420,16 @@ export const duma_2003_uik_428_region_50_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бакунин Валерий Николаевич": 8,
-      "Борисенко Леонид Николаевич": 6,
-      "Гребенщиков Александр Петрович": 2,
-      "Кораблин Юрий Вадимович": 24,
-      "Неверов Николай Николаевич": 1,
-      "Павлов Борис Владимирович": 0,
-      "Хахалина Татьяна Петровна": 3,
-      "Шаккум Мартин Люцианович": 181,
-      "Шарнин Валерий Николаевич": 7,
-      "Против всех": 54
+      "gas:candidate-vibid:1001000112226": 8,
+      "gas:candidate-vibid:1001000202316": 6,
+      "gas:candidate-vibid:1001000217933": 2,
+      "gas:candidate-vibid:350300270387": 24,
+      "gas:candidate-vibid:350300270535": 1,
+      "gas:candidate-vibid:1001000190368": 0,
+      "gas:candidate-vibid:350300270370": 3,
+      "gas:candidate-vibid:1001000225953": 181,
+      "gas:candidate-vibid:1001000121865": 7,
+      "special:against-all": 54
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=503002008&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=350300270977&region=0&sub_region=0&type=429",
@@ -8479,16 +8479,16 @@ export const duma_2003_uik_428_region_50_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бакунин Валерий Николаевич": 11,
-      "Борисенко Леонид Николаевич": 2,
-      "Гребенщиков Александр Петрович": 12,
-      "Кораблин Юрий Вадимович": 60,
-      "Неверов Николай Николаевич": 4,
-      "Павлов Борис Владимирович": 10,
-      "Хахалина Татьяна Петровна": 5,
-      "Шаккум Мартин Люцианович": 278,
-      "Шарнин Валерий Николаевич": 35,
-      "Против всех": 86
+      "gas:candidate-vibid:1001000112226": 11,
+      "gas:candidate-vibid:1001000202316": 2,
+      "gas:candidate-vibid:1001000217933": 12,
+      "gas:candidate-vibid:350300270387": 60,
+      "gas:candidate-vibid:350300270535": 4,
+      "gas:candidate-vibid:1001000190368": 10,
+      "gas:candidate-vibid:350300270370": 5,
+      "gas:candidate-vibid:1001000225953": 278,
+      "gas:candidate-vibid:1001000121865": 35,
+      "special:against-all": 86
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=503002008&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=350300270977&region=0&sub_region=0&type=429",
@@ -8538,16 +8538,16 @@ export const duma_2003_uik_428_region_50_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бакунин Валерий Николаевич": 22,
-      "Борисенко Леонид Николаевич": 5,
-      "Гребенщиков Александр Петрович": 22,
-      "Кораблин Юрий Вадимович": 40,
-      "Неверов Николай Николаевич": 3,
-      "Павлов Борис Владимирович": 3,
-      "Хахалина Татьяна Петровна": 8,
-      "Шаккум Мартин Люцианович": 277,
-      "Шарнин Валерий Николаевич": 27,
-      "Против всех": 57
+      "gas:candidate-vibid:1001000112226": 22,
+      "gas:candidate-vibid:1001000202316": 5,
+      "gas:candidate-vibid:1001000217933": 22,
+      "gas:candidate-vibid:350300270387": 40,
+      "gas:candidate-vibid:350300270535": 3,
+      "gas:candidate-vibid:1001000190368": 3,
+      "gas:candidate-vibid:350300270370": 8,
+      "gas:candidate-vibid:1001000225953": 277,
+      "gas:candidate-vibid:1001000121865": 27,
+      "special:against-all": 57
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=503002008&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=350300270977&region=0&sub_region=0&type=429",
@@ -8597,16 +8597,16 @@ export const duma_2003_uik_428_region_50_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бакунин Валерий Николаевич": 2,
-      "Борисенко Леонид Николаевич": 0,
-      "Гребенщиков Александр Петрович": 2,
-      "Кораблин Юрий Вадимович": 6,
-      "Неверов Николай Николаевич": 1,
-      "Павлов Борис Владимирович": 0,
-      "Хахалина Татьяна Петровна": 0,
-      "Шаккум Мартин Люцианович": 7,
-      "Шарнин Валерий Николаевич": 3,
-      "Против всех": 20
+      "gas:candidate-vibid:1001000112226": 2,
+      "gas:candidate-vibid:1001000202316": 0,
+      "gas:candidate-vibid:1001000217933": 2,
+      "gas:candidate-vibid:350300270387": 6,
+      "gas:candidate-vibid:350300270535": 1,
+      "gas:candidate-vibid:1001000190368": 0,
+      "gas:candidate-vibid:350300270370": 0,
+      "gas:candidate-vibid:1001000225953": 7,
+      "gas:candidate-vibid:1001000121865": 3,
+      "special:against-all": 20
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=503002008&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=350300270977&region=0&sub_region=0&type=429",
@@ -8656,15 +8656,15 @@ export const duma_2003_uik_428_region_50_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Арцибашев Александр Николаевич": 24,
-      "Ващенко Алексей Михайлович": 24,
-      "Гудков Геннадий Владимирович": 844,
-      "Кашин Владимир Иванович": 210,
-      "Королев Александр Петрович": 55,
-      "Котова Эльвира Степановна": 21,
-      "Кулешов Владимир Ефимович": 23,
-      "Кухаренко Александр Александрович": 26,
-      "Против всех": 280
+      "gas:candidate-vibid:1001000217934": 24,
+      "gas:candidate-vibid:350300370379": 24,
+      "gas:candidate-vibid:1001000131401": 844,
+      "gas:candidate-vibid:1001000121866": 210,
+      "gas:candidate-vibid:350300370373": 55,
+      "gas:candidate-vibid:1001000195095": 21,
+      "gas:candidate-vibid:1001000289822": 23,
+      "gas:candidate-vibid:350300370382": 26,
+      "special:against-all": 280
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=503003001&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=350300370437&region=0&sub_region=0&type=429",
@@ -8714,15 +8714,15 @@ export const duma_2003_uik_428_region_50_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Арцибашев Александр Николаевич": 17,
-      "Ващенко Алексей Михайлович": 25,
-      "Гудков Геннадий Владимирович": 862,
-      "Кашин Владимир Иванович": 243,
-      "Королев Александр Петрович": 61,
-      "Котова Эльвира Степановна": 32,
-      "Кулешов Владимир Ефимович": 25,
-      "Кухаренко Александр Александрович": 34,
-      "Против всех": 310
+      "gas:candidate-vibid:1001000217934": 17,
+      "gas:candidate-vibid:350300370379": 25,
+      "gas:candidate-vibid:1001000131401": 862,
+      "gas:candidate-vibid:1001000121866": 243,
+      "gas:candidate-vibid:350300370373": 61,
+      "gas:candidate-vibid:1001000195095": 32,
+      "gas:candidate-vibid:1001000289822": 25,
+      "gas:candidate-vibid:350300370382": 34,
+      "special:against-all": 310
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=503003001&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=350300370437&region=0&sub_region=0&type=429",
@@ -8772,15 +8772,15 @@ export const duma_2003_uik_428_region_50_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Арцибашев Александр Николаевич": 17,
-      "Ващенко Алексей Михайлович": 19,
-      "Гудков Геннадий Владимирович": 839,
-      "Кашин Владимир Иванович": 232,
-      "Королев Александр Петрович": 61,
-      "Котова Эльвира Степановна": 9,
-      "Кулешов Владимир Ефимович": 36,
-      "Кухаренко Александр Александрович": 26,
-      "Против всех": 266
+      "gas:candidate-vibid:1001000217934": 17,
+      "gas:candidate-vibid:350300370379": 19,
+      "gas:candidate-vibid:1001000131401": 839,
+      "gas:candidate-vibid:1001000121866": 232,
+      "gas:candidate-vibid:350300370373": 61,
+      "gas:candidate-vibid:1001000195095": 9,
+      "gas:candidate-vibid:1001000289822": 36,
+      "gas:candidate-vibid:350300370382": 26,
+      "special:against-all": 266
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=503003001&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=350300370437&region=0&sub_region=0&type=429",
@@ -8830,15 +8830,15 @@ export const duma_2003_uik_428_region_50_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Арцибашев Александр Николаевич": 27,
-      "Ващенко Алексей Михайлович": 22,
-      "Гудков Геннадий Владимирович": 811,
-      "Кашин Владимир Иванович": 222,
-      "Королев Александр Петрович": 46,
-      "Котова Эльвира Степановна": 22,
-      "Кулешов Владимир Ефимович": 15,
-      "Кухаренко Александр Александрович": 24,
-      "Против всех": 221
+      "gas:candidate-vibid:1001000217934": 27,
+      "gas:candidate-vibid:350300370379": 22,
+      "gas:candidate-vibid:1001000131401": 811,
+      "gas:candidate-vibid:1001000121866": 222,
+      "gas:candidate-vibid:350300370373": 46,
+      "gas:candidate-vibid:1001000195095": 22,
+      "gas:candidate-vibid:1001000289822": 15,
+      "gas:candidate-vibid:350300370382": 24,
+      "special:against-all": 221
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=503003001&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=350300370437&region=0&sub_region=0&type=429",
@@ -8888,15 +8888,15 @@ export const duma_2003_uik_428_region_50_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Арцибашев Александр Николаевич": 23,
-      "Ващенко Алексей Михайлович": 14,
-      "Гудков Геннадий Владимирович": 650,
-      "Кашин Владимир Иванович": 247,
-      "Королев Александр Петрович": 49,
-      "Котова Эльвира Степановна": 31,
-      "Кулешов Владимир Ефимович": 16,
-      "Кухаренко Александр Александрович": 14,
-      "Против всех": 256
+      "gas:candidate-vibid:1001000217934": 23,
+      "gas:candidate-vibid:350300370379": 14,
+      "gas:candidate-vibid:1001000131401": 650,
+      "gas:candidate-vibid:1001000121866": 247,
+      "gas:candidate-vibid:350300370373": 49,
+      "gas:candidate-vibid:1001000195095": 31,
+      "gas:candidate-vibid:1001000289822": 16,
+      "gas:candidate-vibid:350300370382": 14,
+      "special:against-all": 256
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=503003001&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=350300370437&region=0&sub_region=0&type=429",
@@ -8946,15 +8946,15 @@ export const duma_2003_uik_428_region_50_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Арцибашев Александр Николаевич": 17,
-      "Ващенко Алексей Михайлович": 20,
-      "Гудков Геннадий Владимирович": 721,
-      "Кашин Владимир Иванович": 256,
-      "Королев Александр Петрович": 54,
-      "Котова Эльвира Степановна": 24,
-      "Кулешов Владимир Ефимович": 26,
-      "Кухаренко Александр Александрович": 22,
-      "Против всех": 249
+      "gas:candidate-vibid:1001000217934": 17,
+      "gas:candidate-vibid:350300370379": 20,
+      "gas:candidate-vibid:1001000131401": 721,
+      "gas:candidate-vibid:1001000121866": 256,
+      "gas:candidate-vibid:350300370373": 54,
+      "gas:candidate-vibid:1001000195095": 24,
+      "gas:candidate-vibid:1001000289822": 26,
+      "gas:candidate-vibid:350300370382": 22,
+      "special:against-all": 249
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=503003001&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=350300370437&region=0&sub_region=0&type=429",
@@ -9004,15 +9004,15 @@ export const duma_2003_uik_428_region_50_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Арцибашев Александр Николаевич": 23,
-      "Ващенко Алексей Михайлович": 14,
-      "Гудков Геннадий Владимирович": 698,
-      "Кашин Владимир Иванович": 242,
-      "Королев Александр Петрович": 56,
-      "Котова Эльвира Степановна": 16,
-      "Кулешов Владимир Ефимович": 16,
-      "Кухаренко Александр Александрович": 20,
-      "Против всех": 181
+      "gas:candidate-vibid:1001000217934": 23,
+      "gas:candidate-vibid:350300370379": 14,
+      "gas:candidate-vibid:1001000131401": 698,
+      "gas:candidate-vibid:1001000121866": 242,
+      "gas:candidate-vibid:350300370373": 56,
+      "gas:candidate-vibid:1001000195095": 16,
+      "gas:candidate-vibid:1001000289822": 16,
+      "gas:candidate-vibid:350300370382": 20,
+      "special:against-all": 181
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=503003001&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=350300370437&region=0&sub_region=0&type=429",
@@ -9062,15 +9062,15 @@ export const duma_2003_uik_428_region_50_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Арцибашев Александр Николаевич": 11,
-      "Ващенко Алексей Михайлович": 8,
-      "Гудков Геннадий Владимирович": 465,
-      "Кашин Владимир Иванович": 135,
-      "Королев Александр Петрович": 32,
-      "Котова Эльвира Степановна": 13,
-      "Кулешов Владимир Ефимович": 21,
-      "Кухаренко Александр Александрович": 10,
-      "Против всех": 118
+      "gas:candidate-vibid:1001000217934": 11,
+      "gas:candidate-vibid:350300370379": 8,
+      "gas:candidate-vibid:1001000131401": 465,
+      "gas:candidate-vibid:1001000121866": 135,
+      "gas:candidate-vibid:350300370373": 32,
+      "gas:candidate-vibid:1001000195095": 13,
+      "gas:candidate-vibid:1001000289822": 21,
+      "gas:candidate-vibid:350300370382": 10,
+      "special:against-all": 118
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=503003001&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=350300370437&region=0&sub_region=0&type=429",
@@ -9120,15 +9120,15 @@ export const duma_2003_uik_428_region_50_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Арцибашев Александр Николаевич": 16,
-      "Ващенко Алексей Михайлович": 19,
-      "Гудков Геннадий Владимирович": 577,
-      "Кашин Владимир Иванович": 141,
-      "Королев Александр Петрович": 44,
-      "Котова Эльвира Степановна": 13,
-      "Кулешов Владимир Ефимович": 17,
-      "Кухаренко Александр Александрович": 10,
-      "Против всех": 137
+      "gas:candidate-vibid:1001000217934": 16,
+      "gas:candidate-vibid:350300370379": 19,
+      "gas:candidate-vibid:1001000131401": 577,
+      "gas:candidate-vibid:1001000121866": 141,
+      "gas:candidate-vibid:350300370373": 44,
+      "gas:candidate-vibid:1001000195095": 13,
+      "gas:candidate-vibid:1001000289822": 17,
+      "gas:candidate-vibid:350300370382": 10,
+      "special:against-all": 137
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=503003001&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=350300370437&region=0&sub_region=0&type=429",
@@ -9178,15 +9178,15 @@ export const duma_2003_uik_428_region_50_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Арцибашев Александр Николаевич": 15,
-      "Ващенко Алексей Михайлович": 12,
-      "Гудков Геннадий Владимирович": 704,
-      "Кашин Владимир Иванович": 300,
-      "Королев Александр Петрович": 56,
-      "Котова Эльвира Степановна": 15,
-      "Кулешов Владимир Ефимович": 11,
-      "Кухаренко Александр Александрович": 13,
-      "Против всех": 147
+      "gas:candidate-vibid:1001000217934": 15,
+      "gas:candidate-vibid:350300370379": 12,
+      "gas:candidate-vibid:1001000131401": 704,
+      "gas:candidate-vibid:1001000121866": 300,
+      "gas:candidate-vibid:350300370373": 56,
+      "gas:candidate-vibid:1001000195095": 15,
+      "gas:candidate-vibid:1001000289822": 11,
+      "gas:candidate-vibid:350300370382": 13,
+      "special:against-all": 147
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=503003001&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=350300370437&region=0&sub_region=0&type=429",
@@ -9236,15 +9236,15 @@ export const duma_2003_uik_428_region_50_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Арцибашев Александр Николаевич": 11,
-      "Ващенко Алексей Михайлович": 13,
-      "Гудков Геннадий Владимирович": 519,
-      "Кашин Владимир Иванович": 175,
-      "Королев Александр Петрович": 32,
-      "Котова Эльвира Степановна": 15,
-      "Кулешов Владимир Ефимович": 18,
-      "Кухаренко Александр Александрович": 8,
-      "Против всех": 129
+      "gas:candidate-vibid:1001000217934": 11,
+      "gas:candidate-vibid:350300370379": 13,
+      "gas:candidate-vibid:1001000131401": 519,
+      "gas:candidate-vibid:1001000121866": 175,
+      "gas:candidate-vibid:350300370373": 32,
+      "gas:candidate-vibid:1001000195095": 15,
+      "gas:candidate-vibid:1001000289822": 18,
+      "gas:candidate-vibid:350300370382": 8,
+      "special:against-all": 129
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=503003001&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=350300370437&region=0&sub_region=0&type=429",
@@ -9294,15 +9294,15 @@ export const duma_2003_uik_428_region_50_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Арцибашев Александр Николаевич": 7,
-      "Ващенко Алексей Михайлович": 6,
-      "Гудков Геннадий Владимирович": 155,
-      "Кашин Владимир Иванович": 41,
-      "Королев Александр Петрович": 18,
-      "Котова Эльвира Степановна": 6,
-      "Кулешов Владимир Ефимович": 9,
-      "Кухаренко Александр Александрович": 5,
-      "Против всех": 50
+      "gas:candidate-vibid:1001000217934": 7,
+      "gas:candidate-vibid:350300370379": 6,
+      "gas:candidate-vibid:1001000131401": 155,
+      "gas:candidate-vibid:1001000121866": 41,
+      "gas:candidate-vibid:350300370373": 18,
+      "gas:candidate-vibid:1001000195095": 6,
+      "gas:candidate-vibid:1001000289822": 9,
+      "gas:candidate-vibid:350300370382": 5,
+      "special:against-all": 50
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=503003001&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=350300370437&region=0&sub_region=0&type=429",
@@ -9352,15 +9352,15 @@ export const duma_2003_uik_428_region_50_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Арцибашев Александр Николаевич": 4,
-      "Ващенко Алексей Михайлович": 12,
-      "Гудков Геннадий Владимирович": 266,
-      "Кашин Владимир Иванович": 146,
-      "Королев Александр Петрович": 28,
-      "Котова Эльвира Степановна": 3,
-      "Кулешов Владимир Ефимович": 10,
-      "Кухаренко Александр Александрович": 8,
-      "Против всех": 90
+      "gas:candidate-vibid:1001000217934": 4,
+      "gas:candidate-vibid:350300370379": 12,
+      "gas:candidate-vibid:1001000131401": 266,
+      "gas:candidate-vibid:1001000121866": 146,
+      "gas:candidate-vibid:350300370373": 28,
+      "gas:candidate-vibid:1001000195095": 3,
+      "gas:candidate-vibid:1001000289822": 10,
+      "gas:candidate-vibid:350300370382": 8,
+      "special:against-all": 90
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=503003001&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=350300370437&region=0&sub_region=0&type=429",
@@ -9410,15 +9410,15 @@ export const duma_2003_uik_428_region_50_part_003 = [
       "Число не учтенных при получении бюллетеней": 1
     },
     "votes": {
-      "Арцибашев Александр Николаевич": 4,
-      "Ващенко Алексей Михайлович": 9,
-      "Гудков Геннадий Владимирович": 248,
-      "Кашин Владимир Иванович": 77,
-      "Королев Александр Петрович": 12,
-      "Котова Эльвира Степановна": 10,
-      "Кулешов Владимир Ефимович": 2,
-      "Кухаренко Александр Александрович": 1,
-      "Против всех": 80
+      "gas:candidate-vibid:1001000217934": 4,
+      "gas:candidate-vibid:350300370379": 9,
+      "gas:candidate-vibid:1001000131401": 248,
+      "gas:candidate-vibid:1001000121866": 77,
+      "gas:candidate-vibid:350300370373": 12,
+      "gas:candidate-vibid:1001000195095": 10,
+      "gas:candidate-vibid:1001000289822": 2,
+      "gas:candidate-vibid:350300370382": 1,
+      "special:against-all": 80
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=503003001&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=350300370437&region=0&sub_region=0&type=429",
@@ -9468,15 +9468,15 @@ export const duma_2003_uik_428_region_50_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Арцибашев Александр Николаевич": 11,
-      "Ващенко Алексей Михайлович": 20,
-      "Гудков Геннадий Владимирович": 620,
-      "Кашин Владимир Иванович": 320,
-      "Королев Александр Петрович": 53,
-      "Котова Эльвира Степановна": 19,
-      "Кулешов Владимир Ефимович": 18,
-      "Кухаренко Александр Александрович": 17,
-      "Против всех": 192
+      "gas:candidate-vibid:1001000217934": 11,
+      "gas:candidate-vibid:350300370379": 20,
+      "gas:candidate-vibid:1001000131401": 620,
+      "gas:candidate-vibid:1001000121866": 320,
+      "gas:candidate-vibid:350300370373": 53,
+      "gas:candidate-vibid:1001000195095": 19,
+      "gas:candidate-vibid:1001000289822": 18,
+      "gas:candidate-vibid:350300370382": 17,
+      "special:against-all": 192
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=503003001&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=350300370437&region=0&sub_region=0&type=429",
@@ -9526,15 +9526,15 @@ export const duma_2003_uik_428_region_50_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Арцибашев Александр Николаевич": 7,
-      "Ващенко Алексей Михайлович": 6,
-      "Гудков Геннадий Владимирович": 399,
-      "Кашин Владимир Иванович": 165,
-      "Королев Александр Петрович": 42,
-      "Котова Эльвира Степановна": 4,
-      "Кулешов Владимир Ефимович": 8,
-      "Кухаренко Александр Александрович": 3,
-      "Против всех": 150
+      "gas:candidate-vibid:1001000217934": 7,
+      "gas:candidate-vibid:350300370379": 6,
+      "gas:candidate-vibid:1001000131401": 399,
+      "gas:candidate-vibid:1001000121866": 165,
+      "gas:candidate-vibid:350300370373": 42,
+      "gas:candidate-vibid:1001000195095": 4,
+      "gas:candidate-vibid:1001000289822": 8,
+      "gas:candidate-vibid:350300370382": 3,
+      "special:against-all": 150
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=503003001&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=350300370437&region=0&sub_region=0&type=429",
@@ -9584,15 +9584,15 @@ export const duma_2003_uik_428_region_50_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Арцибашев Александр Николаевич": 9,
-      "Ващенко Алексей Михайлович": 16,
-      "Гудков Геннадий Владимирович": 316,
-      "Кашин Владимир Иванович": 82,
-      "Королев Александр Петрович": 34,
-      "Котова Эльвира Степановна": 7,
-      "Кулешов Владимир Ефимович": 15,
-      "Кухаренко Александр Александрович": 9,
-      "Против всех": 88
+      "gas:candidate-vibid:1001000217934": 9,
+      "gas:candidate-vibid:350300370379": 16,
+      "gas:candidate-vibid:1001000131401": 316,
+      "gas:candidate-vibid:1001000121866": 82,
+      "gas:candidate-vibid:350300370373": 34,
+      "gas:candidate-vibid:1001000195095": 7,
+      "gas:candidate-vibid:1001000289822": 15,
+      "gas:candidate-vibid:350300370382": 9,
+      "special:against-all": 88
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=503003001&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=350300370437&region=0&sub_region=0&type=429",
@@ -9642,15 +9642,15 @@ export const duma_2003_uik_428_region_50_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Арцибашев Александр Николаевич": 17,
-      "Ващенко Алексей Михайлович": 8,
-      "Гудков Геннадий Владимирович": 554,
-      "Кашин Владимир Иванович": 148,
-      "Королев Александр Петрович": 127,
-      "Котова Эльвира Степановна": 30,
-      "Кулешов Владимир Ефимович": 30,
-      "Кухаренко Александр Александрович": 15,
-      "Против всех": 259
+      "gas:candidate-vibid:1001000217934": 17,
+      "gas:candidate-vibid:350300370379": 8,
+      "gas:candidate-vibid:1001000131401": 554,
+      "gas:candidate-vibid:1001000121866": 148,
+      "gas:candidate-vibid:350300370373": 127,
+      "gas:candidate-vibid:1001000195095": 30,
+      "gas:candidate-vibid:1001000289822": 30,
+      "gas:candidate-vibid:350300370382": 15,
+      "special:against-all": 259
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=503003001&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=350300370437&region=0&sub_region=0&type=429",
@@ -9700,15 +9700,15 @@ export const duma_2003_uik_428_region_50_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Арцибашев Александр Николаевич": 4,
-      "Ващенко Алексей Михайлович": 2,
-      "Гудков Геннадий Владимирович": 253,
-      "Кашин Владимир Иванович": 52,
-      "Королев Александр Петрович": 11,
-      "Котова Эльвира Степановна": 4,
-      "Кулешов Владимир Ефимович": 7,
-      "Кухаренко Александр Александрович": 1,
-      "Против всех": 38
+      "gas:candidate-vibid:1001000217934": 4,
+      "gas:candidate-vibid:350300370379": 2,
+      "gas:candidate-vibid:1001000131401": 253,
+      "gas:candidate-vibid:1001000121866": 52,
+      "gas:candidate-vibid:350300370373": 11,
+      "gas:candidate-vibid:1001000195095": 4,
+      "gas:candidate-vibid:1001000289822": 7,
+      "gas:candidate-vibid:350300370382": 1,
+      "special:against-all": 38
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=503003001&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=350300370437&region=0&sub_region=0&type=429",
@@ -9758,15 +9758,15 @@ export const duma_2003_uik_428_region_50_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Арцибашев Александр Николаевич": 9,
-      "Ващенко Алексей Михайлович": 18,
-      "Гудков Геннадий Владимирович": 499,
-      "Кашин Владимир Иванович": 114,
-      "Королев Александр Петрович": 47,
-      "Котова Эльвира Степановна": 8,
-      "Кулешов Владимир Ефимович": 16,
-      "Кухаренко Александр Александрович": 6,
-      "Против всех": 120
+      "gas:candidate-vibid:1001000217934": 9,
+      "gas:candidate-vibid:350300370379": 18,
+      "gas:candidate-vibid:1001000131401": 499,
+      "gas:candidate-vibid:1001000121866": 114,
+      "gas:candidate-vibid:350300370373": 47,
+      "gas:candidate-vibid:1001000195095": 8,
+      "gas:candidate-vibid:1001000289822": 16,
+      "gas:candidate-vibid:350300370382": 6,
+      "special:against-all": 120
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=503003001&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=350300370437&region=0&sub_region=0&type=429",
@@ -9816,15 +9816,15 @@ export const duma_2003_uik_428_region_50_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Арцибашев Александр Николаевич": 2,
-      "Ващенко Алексей Михайлович": 8,
-      "Гудков Геннадий Владимирович": 158,
-      "Кашин Владимир Иванович": 60,
-      "Королев Александр Петрович": 7,
-      "Котова Эльвира Степановна": 3,
-      "Кулешов Владимир Ефимович": 1,
-      "Кухаренко Александр Александрович": 1,
-      "Против всех": 37
+      "gas:candidate-vibid:1001000217934": 2,
+      "gas:candidate-vibid:350300370379": 8,
+      "gas:candidate-vibid:1001000131401": 158,
+      "gas:candidate-vibid:1001000121866": 60,
+      "gas:candidate-vibid:350300370373": 7,
+      "gas:candidate-vibid:1001000195095": 3,
+      "gas:candidate-vibid:1001000289822": 1,
+      "gas:candidate-vibid:350300370382": 1,
+      "special:against-all": 37
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=503003001&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=350300370437&region=0&sub_region=0&type=429",
@@ -9874,15 +9874,15 @@ export const duma_2003_uik_428_region_50_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Арцибашев Александр Николаевич": 15,
-      "Ващенко Алексей Михайлович": 22,
-      "Гудков Геннадий Владимирович": 577,
-      "Кашин Владимир Иванович": 125,
-      "Королев Александр Петрович": 79,
-      "Котова Эльвира Степановна": 30,
-      "Кулешов Владимир Ефимович": 24,
-      "Кухаренко Александр Александрович": 9,
-      "Против всех": 237
+      "gas:candidate-vibid:1001000217934": 15,
+      "gas:candidate-vibid:350300370379": 22,
+      "gas:candidate-vibid:1001000131401": 577,
+      "gas:candidate-vibid:1001000121866": 125,
+      "gas:candidate-vibid:350300370373": 79,
+      "gas:candidate-vibid:1001000195095": 30,
+      "gas:candidate-vibid:1001000289822": 24,
+      "gas:candidate-vibid:350300370382": 9,
+      "special:against-all": 237
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=503003001&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=350300370437&region=0&sub_region=0&type=429",
@@ -9932,15 +9932,15 @@ export const duma_2003_uik_428_region_50_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Арцибашев Александр Николаевич": 14,
-      "Ващенко Алексей Михайлович": 23,
-      "Гудков Геннадий Владимирович": 633,
-      "Кашин Владимир Иванович": 119,
-      "Королев Александр Петрович": 78,
-      "Котова Эльвира Степановна": 31,
-      "Кулешов Владимир Ефимович": 33,
-      "Кухаренко Александр Александрович": 12,
-      "Против всех": 241
+      "gas:candidate-vibid:1001000217934": 14,
+      "gas:candidate-vibid:350300370379": 23,
+      "gas:candidate-vibid:1001000131401": 633,
+      "gas:candidate-vibid:1001000121866": 119,
+      "gas:candidate-vibid:350300370373": 78,
+      "gas:candidate-vibid:1001000195095": 31,
+      "gas:candidate-vibid:1001000289822": 33,
+      "gas:candidate-vibid:350300370382": 12,
+      "special:against-all": 241
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=503003001&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=350300370437&region=0&sub_region=0&type=429",
@@ -9990,15 +9990,15 @@ export const duma_2003_uik_428_region_50_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Арцибашев Александр Николаевич": 12,
-      "Ващенко Алексей Михайлович": 7,
-      "Гудков Геннадий Владимирович": 359,
-      "Кашин Владимир Иванович": 66,
-      "Королев Александр Петрович": 41,
-      "Котова Эльвира Степановна": 15,
-      "Кулешов Владимир Ефимович": 12,
-      "Кухаренко Александр Александрович": 7,
-      "Против всех": 114
+      "gas:candidate-vibid:1001000217934": 12,
+      "gas:candidate-vibid:350300370379": 7,
+      "gas:candidate-vibid:1001000131401": 359,
+      "gas:candidate-vibid:1001000121866": 66,
+      "gas:candidate-vibid:350300370373": 41,
+      "gas:candidate-vibid:1001000195095": 15,
+      "gas:candidate-vibid:1001000289822": 12,
+      "gas:candidate-vibid:350300370382": 7,
+      "special:against-all": 114
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=503003001&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=350300370437&region=0&sub_region=0&type=429",
@@ -10048,15 +10048,15 @@ export const duma_2003_uik_428_region_50_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Арцибашев Александр Николаевич": 10,
-      "Ващенко Алексей Михайлович": 18,
-      "Гудков Геннадий Владимирович": 592,
-      "Кашин Владимир Иванович": 84,
-      "Королев Александр Петрович": 63,
-      "Котова Эльвира Степановна": 13,
-      "Кулешов Владимир Ефимович": 22,
-      "Кухаренко Александр Александрович": 10,
-      "Против всех": 201
+      "gas:candidate-vibid:1001000217934": 10,
+      "gas:candidate-vibid:350300370379": 18,
+      "gas:candidate-vibid:1001000131401": 592,
+      "gas:candidate-vibid:1001000121866": 84,
+      "gas:candidate-vibid:350300370373": 63,
+      "gas:candidate-vibid:1001000195095": 13,
+      "gas:candidate-vibid:1001000289822": 22,
+      "gas:candidate-vibid:350300370382": 10,
+      "special:against-all": 201
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=503003001&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=350300370437&region=0&sub_region=0&type=429",
@@ -10106,15 +10106,15 @@ export const duma_2003_uik_428_region_50_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Арцибашев Александр Николаевич": 15,
-      "Ващенко Алексей Михайлович": 13,
-      "Гудков Геннадий Владимирович": 494,
-      "Кашин Владимир Иванович": 111,
-      "Королев Александр Петрович": 48,
-      "Котова Эльвира Степановна": 15,
-      "Кулешов Владимир Ефимович": 30,
-      "Кухаренко Александр Александрович": 8,
-      "Против всех": 244
+      "gas:candidate-vibid:1001000217934": 15,
+      "gas:candidate-vibid:350300370379": 13,
+      "gas:candidate-vibid:1001000131401": 494,
+      "gas:candidate-vibid:1001000121866": 111,
+      "gas:candidate-vibid:350300370373": 48,
+      "gas:candidate-vibid:1001000195095": 15,
+      "gas:candidate-vibid:1001000289822": 30,
+      "gas:candidate-vibid:350300370382": 8,
+      "special:against-all": 244
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=503003001&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=350300370437&region=0&sub_region=0&type=429",
@@ -10164,15 +10164,15 @@ export const duma_2003_uik_428_region_50_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Арцибашев Александр Николаевич": 7,
-      "Ващенко Алексей Михайлович": 13,
-      "Гудков Геннадий Владимирович": 439,
-      "Кашин Владимир Иванович": 77,
-      "Королев Александр Петрович": 40,
-      "Котова Эльвира Степановна": 17,
-      "Кулешов Владимир Ефимович": 15,
-      "Кухаренко Александр Александрович": 7,
-      "Против всех": 129
+      "gas:candidate-vibid:1001000217934": 7,
+      "gas:candidate-vibid:350300370379": 13,
+      "gas:candidate-vibid:1001000131401": 439,
+      "gas:candidate-vibid:1001000121866": 77,
+      "gas:candidate-vibid:350300370373": 40,
+      "gas:candidate-vibid:1001000195095": 17,
+      "gas:candidate-vibid:1001000289822": 15,
+      "gas:candidate-vibid:350300370382": 7,
+      "special:against-all": 129
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=503003001&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=350300370437&region=0&sub_region=0&type=429",
@@ -10222,15 +10222,15 @@ export const duma_2003_uik_428_region_50_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Арцибашев Александр Николаевич": 7,
-      "Ващенко Алексей Михайлович": 7,
-      "Гудков Геннадий Владимирович": 340,
-      "Кашин Владимир Иванович": 73,
-      "Королев Александр Петрович": 29,
-      "Котова Эльвира Степановна": 13,
-      "Кулешов Владимир Ефимович": 10,
-      "Кухаренко Александр Александрович": 4,
-      "Против всех": 124
+      "gas:candidate-vibid:1001000217934": 7,
+      "gas:candidate-vibid:350300370379": 7,
+      "gas:candidate-vibid:1001000131401": 340,
+      "gas:candidate-vibid:1001000121866": 73,
+      "gas:candidate-vibid:350300370373": 29,
+      "gas:candidate-vibid:1001000195095": 13,
+      "gas:candidate-vibid:1001000289822": 10,
+      "gas:candidate-vibid:350300370382": 4,
+      "special:against-all": 124
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=503003001&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=350300370437&region=0&sub_region=0&type=429",
@@ -10280,15 +10280,15 @@ export const duma_2003_uik_428_region_50_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Арцибашев Александр Николаевич": 4,
-      "Ващенко Алексей Михайлович": 6,
-      "Гудков Геннадий Владимирович": 522,
-      "Кашин Владимир Иванович": 138,
-      "Королев Александр Петрович": 41,
-      "Котова Эльвира Степановна": 14,
-      "Кулешов Владимир Ефимович": 16,
-      "Кухаренко Александр Александрович": 17,
-      "Против всех": 133
+      "gas:candidate-vibid:1001000217934": 4,
+      "gas:candidate-vibid:350300370379": 6,
+      "gas:candidate-vibid:1001000131401": 522,
+      "gas:candidate-vibid:1001000121866": 138,
+      "gas:candidate-vibid:350300370373": 41,
+      "gas:candidate-vibid:1001000195095": 14,
+      "gas:candidate-vibid:1001000289822": 16,
+      "gas:candidate-vibid:350300370382": 17,
+      "special:against-all": 133
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=503003001&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=350300370437&region=0&sub_region=0&type=429",
@@ -10338,15 +10338,15 @@ export const duma_2003_uik_428_region_50_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Арцибашев Александр Николаевич": 10,
-      "Ващенко Алексей Михайлович": 32,
-      "Гудков Геннадий Владимирович": 717,
-      "Кашин Владимир Иванович": 169,
-      "Королев Александр Петрович": 56,
-      "Котова Эльвира Степановна": 10,
-      "Кулешов Владимир Ефимович": 12,
-      "Кухаренко Александр Александрович": 7,
-      "Против всех": 241
+      "gas:candidate-vibid:1001000217934": 10,
+      "gas:candidate-vibid:350300370379": 32,
+      "gas:candidate-vibid:1001000131401": 717,
+      "gas:candidate-vibid:1001000121866": 169,
+      "gas:candidate-vibid:350300370373": 56,
+      "gas:candidate-vibid:1001000195095": 10,
+      "gas:candidate-vibid:1001000289822": 12,
+      "gas:candidate-vibid:350300370382": 7,
+      "special:against-all": 241
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=503003001&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=350300370437&region=0&sub_region=0&type=429",
@@ -10396,15 +10396,15 @@ export const duma_2003_uik_428_region_50_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Арцибашев Александр Николаевич": 3,
-      "Ващенко Алексей Михайлович": 4,
-      "Гудков Геннадий Владимирович": 93,
-      "Кашин Владимир Иванович": 25,
-      "Королев Александр Петрович": 2,
-      "Котова Эльвира Степановна": 0,
-      "Кулешов Владимир Ефимович": 4,
-      "Кухаренко Александр Александрович": 1,
-      "Против всех": 14
+      "gas:candidate-vibid:1001000217934": 3,
+      "gas:candidate-vibid:350300370379": 4,
+      "gas:candidate-vibid:1001000131401": 93,
+      "gas:candidate-vibid:1001000121866": 25,
+      "gas:candidate-vibid:350300370373": 2,
+      "gas:candidate-vibid:1001000195095": 0,
+      "gas:candidate-vibid:1001000289822": 4,
+      "gas:candidate-vibid:350300370382": 1,
+      "special:against-all": 14
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=503003001&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=350300370437&region=0&sub_region=0&type=429",
@@ -10454,15 +10454,15 @@ export const duma_2003_uik_428_region_50_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Арцибашев Александр Николаевич": 15,
-      "Ващенко Алексей Михайлович": 11,
-      "Гудков Геннадий Владимирович": 442,
-      "Кашин Владимир Иванович": 155,
-      "Королев Александр Петрович": 35,
-      "Котова Эльвира Степановна": 11,
-      "Кулешов Владимир Ефимович": 13,
-      "Кухаренко Александр Александрович": 3,
-      "Против всех": 128
+      "gas:candidate-vibid:1001000217934": 15,
+      "gas:candidate-vibid:350300370379": 11,
+      "gas:candidate-vibid:1001000131401": 442,
+      "gas:candidate-vibid:1001000121866": 155,
+      "gas:candidate-vibid:350300370373": 35,
+      "gas:candidate-vibid:1001000195095": 11,
+      "gas:candidate-vibid:1001000289822": 13,
+      "gas:candidate-vibid:350300370382": 3,
+      "special:against-all": 128
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=503003001&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=350300370437&region=0&sub_region=0&type=429",
@@ -10512,15 +10512,15 @@ export const duma_2003_uik_428_region_50_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Арцибашев Александр Николаевич": 23,
-      "Ващенко Алексей Михайлович": 9,
-      "Гудков Геннадий Владимирович": 661,
-      "Кашин Владимир Иванович": 173,
-      "Королев Александр Петрович": 42,
-      "Котова Эльвира Степановна": 7,
-      "Кулешов Владимир Ефимович": 15,
-      "Кухаренко Александр Александрович": 8,
-      "Против всех": 166
+      "gas:candidate-vibid:1001000217934": 23,
+      "gas:candidate-vibid:350300370379": 9,
+      "gas:candidate-vibid:1001000131401": 661,
+      "gas:candidate-vibid:1001000121866": 173,
+      "gas:candidate-vibid:350300370373": 42,
+      "gas:candidate-vibid:1001000195095": 7,
+      "gas:candidate-vibid:1001000289822": 15,
+      "gas:candidate-vibid:350300370382": 8,
+      "special:against-all": 166
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=503003001&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=350300370437&region=0&sub_region=0&type=429",
@@ -10570,15 +10570,15 @@ export const duma_2003_uik_428_region_50_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Арцибашев Александр Николаевич": 7,
-      "Ващенко Алексей Михайлович": 20,
-      "Гудков Геннадий Владимирович": 889,
-      "Кашин Владимир Иванович": 222,
-      "Королев Александр Петрович": 62,
-      "Котова Эльвира Степановна": 29,
-      "Кулешов Владимир Ефимович": 21,
-      "Кухаренко Александр Александрович": 9,
-      "Против всех": 0
+      "gas:candidate-vibid:1001000217934": 7,
+      "gas:candidate-vibid:350300370379": 20,
+      "gas:candidate-vibid:1001000131401": 889,
+      "gas:candidate-vibid:1001000121866": 222,
+      "gas:candidate-vibid:350300370373": 62,
+      "gas:candidate-vibid:1001000195095": 29,
+      "gas:candidate-vibid:1001000289822": 21,
+      "gas:candidate-vibid:350300370382": 9,
+      "special:against-all": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=503003001&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=350300370437&region=0&sub_region=0&type=429",
@@ -10628,15 +10628,15 @@ export const duma_2003_uik_428_region_50_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Арцибашев Александр Николаевич": 24,
-      "Ващенко Алексей Михайлович": 34,
-      "Гудков Геннадий Владимирович": 558,
-      "Кашин Владимир Иванович": 147,
-      "Королев Александр Петрович": 102,
-      "Котова Эльвира Степановна": 29,
-      "Кулешов Владимир Ефимович": 24,
-      "Кухаренко Александр Александрович": 30,
-      "Против всех": 319
+      "gas:candidate-vibid:1001000217934": 24,
+      "gas:candidate-vibid:350300370379": 34,
+      "gas:candidate-vibid:1001000131401": 558,
+      "gas:candidate-vibid:1001000121866": 147,
+      "gas:candidate-vibid:350300370373": 102,
+      "gas:candidate-vibid:1001000195095": 29,
+      "gas:candidate-vibid:1001000289822": 24,
+      "gas:candidate-vibid:350300370382": 30,
+      "special:against-all": 319
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=503003001&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=350300370437&region=0&sub_region=0&type=429",
@@ -10686,15 +10686,15 @@ export const duma_2003_uik_428_region_50_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Арцибашев Александр Николаевич": 30,
-      "Ващенко Алексей Михайлович": 29,
-      "Гудков Геннадий Владимирович": 506,
-      "Кашин Владимир Иванович": 197,
-      "Королев Александр Петрович": 115,
-      "Котова Эльвира Степановна": 44,
-      "Кулешов Владимир Ефимович": 33,
-      "Кухаренко Александр Александрович": 25,
-      "Против всех": 422
+      "gas:candidate-vibid:1001000217934": 30,
+      "gas:candidate-vibid:350300370379": 29,
+      "gas:candidate-vibid:1001000131401": 506,
+      "gas:candidate-vibid:1001000121866": 197,
+      "gas:candidate-vibid:350300370373": 115,
+      "gas:candidate-vibid:1001000195095": 44,
+      "gas:candidate-vibid:1001000289822": 33,
+      "gas:candidate-vibid:350300370382": 25,
+      "special:against-all": 422
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=503003001&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=350300370437&region=0&sub_region=0&type=429",
@@ -10744,15 +10744,15 @@ export const duma_2003_uik_428_region_50_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Арцибашев Александр Николаевич": 20,
-      "Ващенко Алексей Михайлович": 32,
-      "Гудков Геннадий Владимирович": 378,
-      "Кашин Владимир Иванович": 196,
-      "Королев Александр Петрович": 136,
-      "Котова Эльвира Степановна": 44,
-      "Кулешов Владимир Ефимович": 23,
-      "Кухаренко Александр Александрович": 21,
-      "Против всех": 218
+      "gas:candidate-vibid:1001000217934": 20,
+      "gas:candidate-vibid:350300370379": 32,
+      "gas:candidate-vibid:1001000131401": 378,
+      "gas:candidate-vibid:1001000121866": 196,
+      "gas:candidate-vibid:350300370373": 136,
+      "gas:candidate-vibid:1001000195095": 44,
+      "gas:candidate-vibid:1001000289822": 23,
+      "gas:candidate-vibid:350300370382": 21,
+      "special:against-all": 218
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=503003001&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=350300370437&region=0&sub_region=0&type=429",
@@ -10802,15 +10802,15 @@ export const duma_2003_uik_428_region_50_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Арцибашев Александр Николаевич": 21,
-      "Ващенко Алексей Михайлович": 35,
-      "Гудков Геннадий Владимирович": 358,
-      "Кашин Владимир Иванович": 134,
-      "Королев Александр Петрович": 101,
-      "Котова Эльвира Степановна": 25,
-      "Кулешов Владимир Ефимович": 18,
-      "Кухаренко Александр Александрович": 13,
-      "Против всех": 245
+      "gas:candidate-vibid:1001000217934": 21,
+      "gas:candidate-vibid:350300370379": 35,
+      "gas:candidate-vibid:1001000131401": 358,
+      "gas:candidate-vibid:1001000121866": 134,
+      "gas:candidate-vibid:350300370373": 101,
+      "gas:candidate-vibid:1001000195095": 25,
+      "gas:candidate-vibid:1001000289822": 18,
+      "gas:candidate-vibid:350300370382": 13,
+      "special:against-all": 245
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=503003001&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=350300370437&region=0&sub_region=0&type=429",
@@ -10860,15 +10860,15 @@ export const duma_2003_uik_428_region_50_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Арцибашев Александр Николаевич": 19,
-      "Ващенко Алексей Михайлович": 28,
-      "Гудков Геннадий Владимирович": 491,
-      "Кашин Владимир Иванович": 155,
-      "Королев Александр Петрович": 103,
-      "Котова Эльвира Степановна": 24,
-      "Кулешов Владимир Ефимович": 19,
-      "Кухаренко Александр Александрович": 20,
-      "Против всех": 268
+      "gas:candidate-vibid:1001000217934": 19,
+      "gas:candidate-vibid:350300370379": 28,
+      "gas:candidate-vibid:1001000131401": 491,
+      "gas:candidate-vibid:1001000121866": 155,
+      "gas:candidate-vibid:350300370373": 103,
+      "gas:candidate-vibid:1001000195095": 24,
+      "gas:candidate-vibid:1001000289822": 19,
+      "gas:candidate-vibid:350300370382": 20,
+      "special:against-all": 268
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=503003001&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=350300370437&region=0&sub_region=0&type=429",
@@ -10918,15 +10918,15 @@ export const duma_2003_uik_428_region_50_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Арцибашев Александр Николаевич": 23,
-      "Ващенко Алексей Михайлович": 22,
-      "Гудков Геннадий Владимирович": 719,
-      "Кашин Владимир Иванович": 222,
-      "Королев Александр Петрович": 80,
-      "Котова Эльвира Степановна": 14,
-      "Кулешов Владимир Ефимович": 24,
-      "Кухаренко Александр Александрович": 20,
-      "Против всех": 302
+      "gas:candidate-vibid:1001000217934": 23,
+      "gas:candidate-vibid:350300370379": 22,
+      "gas:candidate-vibid:1001000131401": 719,
+      "gas:candidate-vibid:1001000121866": 222,
+      "gas:candidate-vibid:350300370373": 80,
+      "gas:candidate-vibid:1001000195095": 14,
+      "gas:candidate-vibid:1001000289822": 24,
+      "gas:candidate-vibid:350300370382": 20,
+      "special:against-all": 302
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=503003001&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=350300370437&region=0&sub_region=0&type=429",
@@ -10976,15 +10976,15 @@ export const duma_2003_uik_428_region_50_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Арцибашев Александр Николаевич": 21,
-      "Ващенко Алексей Михайлович": 26,
-      "Гудков Геннадий Владимирович": 688,
-      "Кашин Владимир Иванович": 291,
-      "Королев Александр Петрович": 74,
-      "Котова Эльвира Степановна": 12,
-      "Кулешов Владимир Ефимович": 22,
-      "Кухаренко Александр Александрович": 14,
-      "Против всех": 291
+      "gas:candidate-vibid:1001000217934": 21,
+      "gas:candidate-vibid:350300370379": 26,
+      "gas:candidate-vibid:1001000131401": 688,
+      "gas:candidate-vibid:1001000121866": 291,
+      "gas:candidate-vibid:350300370373": 74,
+      "gas:candidate-vibid:1001000195095": 12,
+      "gas:candidate-vibid:1001000289822": 22,
+      "gas:candidate-vibid:350300370382": 14,
+      "special:against-all": 291
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=503003001&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=350300370437&region=0&sub_region=0&type=429",
@@ -11034,15 +11034,15 @@ export const duma_2003_uik_428_region_50_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Арцибашев Александр Николаевич": 13,
-      "Ващенко Алексей Михайлович": 19,
-      "Гудков Геннадий Владимирович": 633,
-      "Кашин Владимир Иванович": 221,
-      "Королев Александр Петрович": 61,
-      "Котова Эльвира Степановна": 32,
-      "Кулешов Владимир Ефимович": 27,
-      "Кухаренко Александр Александрович": 17,
-      "Против всех": 274
+      "gas:candidate-vibid:1001000217934": 13,
+      "gas:candidate-vibid:350300370379": 19,
+      "gas:candidate-vibid:1001000131401": 633,
+      "gas:candidate-vibid:1001000121866": 221,
+      "gas:candidate-vibid:350300370373": 61,
+      "gas:candidate-vibid:1001000195095": 32,
+      "gas:candidate-vibid:1001000289822": 27,
+      "gas:candidate-vibid:350300370382": 17,
+      "special:against-all": 274
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=503003001&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=350300370437&region=0&sub_region=0&type=429",
@@ -11092,15 +11092,15 @@ export const duma_2003_uik_428_region_50_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Арцибашев Александр Николаевич": 17,
-      "Ващенко Алексей Михайлович": 19,
-      "Гудков Геннадий Владимирович": 610,
-      "Кашин Владимир Иванович": 249,
-      "Королев Александр Петрович": 63,
-      "Котова Эльвира Степановна": 16,
-      "Кулешов Владимир Ефимович": 22,
-      "Кухаренко Александр Александрович": 9,
-      "Против всех": 245
+      "gas:candidate-vibid:1001000217934": 17,
+      "gas:candidate-vibid:350300370379": 19,
+      "gas:candidate-vibid:1001000131401": 610,
+      "gas:candidate-vibid:1001000121866": 249,
+      "gas:candidate-vibid:350300370373": 63,
+      "gas:candidate-vibid:1001000195095": 16,
+      "gas:candidate-vibid:1001000289822": 22,
+      "gas:candidate-vibid:350300370382": 9,
+      "special:against-all": 245
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=503003001&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=350300370437&region=0&sub_region=0&type=429",
@@ -11150,15 +11150,15 @@ export const duma_2003_uik_428_region_50_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Арцибашев Александр Николаевич": 23,
-      "Ващенко Алексей Михайлович": 17,
-      "Гудков Геннадий Владимирович": 504,
-      "Кашин Владимир Иванович": 112,
-      "Королев Александр Петрович": 55,
-      "Котова Эльвира Степановна": 25,
-      "Кулешов Владимир Ефимович": 12,
-      "Кухаренко Александр Александрович": 11,
-      "Против всех": 176
+      "gas:candidate-vibid:1001000217934": 23,
+      "gas:candidate-vibid:350300370379": 17,
+      "gas:candidate-vibid:1001000131401": 504,
+      "gas:candidate-vibid:1001000121866": 112,
+      "gas:candidate-vibid:350300370373": 55,
+      "gas:candidate-vibid:1001000195095": 25,
+      "gas:candidate-vibid:1001000289822": 12,
+      "gas:candidate-vibid:350300370382": 11,
+      "special:against-all": 176
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=503003001&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=350300370437&region=0&sub_region=0&type=429",
@@ -11208,15 +11208,15 @@ export const duma_2003_uik_428_region_50_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Арцибашев Александр Николаевич": 18,
-      "Ващенко Алексей Михайлович": 14,
-      "Гудков Геннадий Владимирович": 410,
-      "Кашин Владимир Иванович": 119,
-      "Королев Александр Петрович": 49,
-      "Котова Эльвира Степановна": 9,
-      "Кулешов Владимир Ефимович": 21,
-      "Кухаренко Александр Александрович": 8,
-      "Против всех": 156
+      "gas:candidate-vibid:1001000217934": 18,
+      "gas:candidate-vibid:350300370379": 14,
+      "gas:candidate-vibid:1001000131401": 410,
+      "gas:candidate-vibid:1001000121866": 119,
+      "gas:candidate-vibid:350300370373": 49,
+      "gas:candidate-vibid:1001000195095": 9,
+      "gas:candidate-vibid:1001000289822": 21,
+      "gas:candidate-vibid:350300370382": 8,
+      "special:against-all": 156
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=503003001&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=350300370437&region=0&sub_region=0&type=429",
@@ -11266,15 +11266,15 @@ export const duma_2003_uik_428_region_50_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Арцибашев Александр Николаевич": 5,
-      "Ващенко Алексей Михайлович": 5,
-      "Гудков Геннадий Владимирович": 227,
-      "Кашин Владимир Иванович": 95,
-      "Королев Александр Петрович": 5,
-      "Котова Эльвира Степановна": 6,
-      "Кулешов Владимир Ефимович": 8,
-      "Кухаренко Александр Александрович": 4,
-      "Против всех": 67
+      "gas:candidate-vibid:1001000217934": 5,
+      "gas:candidate-vibid:350300370379": 5,
+      "gas:candidate-vibid:1001000131401": 227,
+      "gas:candidate-vibid:1001000121866": 95,
+      "gas:candidate-vibid:350300370373": 5,
+      "gas:candidate-vibid:1001000195095": 6,
+      "gas:candidate-vibid:1001000289822": 8,
+      "gas:candidate-vibid:350300370382": 4,
+      "special:against-all": 67
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=503003001&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=350300370437&region=0&sub_region=0&type=429",
@@ -11324,15 +11324,15 @@ export const duma_2003_uik_428_region_50_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Арцибашев Александр Николаевич": 10,
-      "Ващенко Алексей Михайлович": 8,
-      "Гудков Геннадий Владимирович": 465,
-      "Кашин Владимир Иванович": 216,
-      "Королев Александр Петрович": 40,
-      "Котова Эльвира Степановна": 19,
-      "Кулешов Владимир Ефимович": 23,
-      "Кухаренко Александр Александрович": 11,
-      "Против всех": 162
+      "gas:candidate-vibid:1001000217934": 10,
+      "gas:candidate-vibid:350300370379": 8,
+      "gas:candidate-vibid:1001000131401": 465,
+      "gas:candidate-vibid:1001000121866": 216,
+      "gas:candidate-vibid:350300370373": 40,
+      "gas:candidate-vibid:1001000195095": 19,
+      "gas:candidate-vibid:1001000289822": 23,
+      "gas:candidate-vibid:350300370382": 11,
+      "special:against-all": 162
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=503003001&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=350300370437&region=0&sub_region=0&type=429",
@@ -11382,15 +11382,15 @@ export const duma_2003_uik_428_region_50_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Арцибашев Александр Николаевич": 1,
-      "Ващенко Алексей Михайлович": 0,
-      "Гудков Геннадий Владимирович": 59,
-      "Кашин Владимир Иванович": 25,
-      "Королев Александр Петрович": 9,
-      "Котова Эльвира Степановна": 4,
-      "Кулешов Владимир Ефимович": 1,
-      "Кухаренко Александр Александрович": 0,
-      "Против всех": 20
+      "gas:candidate-vibid:1001000217934": 1,
+      "gas:candidate-vibid:350300370379": 0,
+      "gas:candidate-vibid:1001000131401": 59,
+      "gas:candidate-vibid:1001000121866": 25,
+      "gas:candidate-vibid:350300370373": 9,
+      "gas:candidate-vibid:1001000195095": 4,
+      "gas:candidate-vibid:1001000289822": 1,
+      "gas:candidate-vibid:350300370382": 0,
+      "special:against-all": 20
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=503003001&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=350300370437&region=0&sub_region=0&type=429",
@@ -11440,15 +11440,15 @@ export const duma_2003_uik_428_region_50_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Арцибашев Александр Николаевич": 7,
-      "Ващенко Алексей Михайлович": 6,
-      "Гудков Геннадий Владимирович": 460,
-      "Кашин Владимир Иванович": 94,
-      "Королев Александр Петрович": 30,
-      "Котова Эльвира Степановна": 9,
-      "Кулешов Владимир Ефимович": 17,
-      "Кухаренко Александр Александрович": 13,
-      "Против всех": 108
+      "gas:candidate-vibid:1001000217934": 7,
+      "gas:candidate-vibid:350300370379": 6,
+      "gas:candidate-vibid:1001000131401": 460,
+      "gas:candidate-vibid:1001000121866": 94,
+      "gas:candidate-vibid:350300370373": 30,
+      "gas:candidate-vibid:1001000195095": 9,
+      "gas:candidate-vibid:1001000289822": 17,
+      "gas:candidate-vibid:350300370382": 13,
+      "special:against-all": 108
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=503003001&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=350300370437&region=0&sub_region=0&type=429",
@@ -11498,15 +11498,15 @@ export const duma_2003_uik_428_region_50_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Арцибашев Александр Николаевич": 6,
-      "Ващенко Алексей Михайлович": 5,
-      "Гудков Геннадий Владимирович": 374,
-      "Кашин Владимир Иванович": 117,
-      "Королев Александр Петрович": 17,
-      "Котова Эльвира Степановна": 10,
-      "Кулешов Владимир Ефимович": 4,
-      "Кухаренко Александр Александрович": 8,
-      "Против всех": 96
+      "gas:candidate-vibid:1001000217934": 6,
+      "gas:candidate-vibid:350300370379": 5,
+      "gas:candidate-vibid:1001000131401": 374,
+      "gas:candidate-vibid:1001000121866": 117,
+      "gas:candidate-vibid:350300370373": 17,
+      "gas:candidate-vibid:1001000195095": 10,
+      "gas:candidate-vibid:1001000289822": 4,
+      "gas:candidate-vibid:350300370382": 8,
+      "special:against-all": 96
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=503003001&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=350300370437&region=0&sub_region=0&type=429",
@@ -11556,15 +11556,15 @@ export const duma_2003_uik_428_region_50_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Арцибашев Александр Николаевич": 3,
-      "Ващенко Алексей Михайлович": 1,
-      "Гудков Геннадий Владимирович": 67,
-      "Кашин Владимир Иванович": 59,
-      "Королев Александр Петрович": 0,
-      "Котова Эльвира Степановна": 1,
-      "Кулешов Владимир Ефимович": 3,
-      "Кухаренко Александр Александрович": 0,
-      "Против всех": 13
+      "gas:candidate-vibid:1001000217934": 3,
+      "gas:candidate-vibid:350300370379": 1,
+      "gas:candidate-vibid:1001000131401": 67,
+      "gas:candidate-vibid:1001000121866": 59,
+      "gas:candidate-vibid:350300370373": 0,
+      "gas:candidate-vibid:1001000195095": 1,
+      "gas:candidate-vibid:1001000289822": 3,
+      "gas:candidate-vibid:350300370382": 0,
+      "special:against-all": 13
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=503003001&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=350300370437&region=0&sub_region=0&type=429",
@@ -11614,15 +11614,15 @@ export const duma_2003_uik_428_region_50_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Арцибашев Александр Николаевич": 0,
-      "Ващенко Алексей Михайлович": 2,
-      "Гудков Геннадий Владимирович": 94,
-      "Кашин Владимир Иванович": 13,
-      "Королев Александр Петрович": 1,
-      "Котова Эльвира Степановна": 0,
-      "Кулешов Владимир Ефимович": 2,
-      "Кухаренко Александр Александрович": 1,
-      "Против всех": 12
+      "gas:candidate-vibid:1001000217934": 0,
+      "gas:candidate-vibid:350300370379": 2,
+      "gas:candidate-vibid:1001000131401": 94,
+      "gas:candidate-vibid:1001000121866": 13,
+      "gas:candidate-vibid:350300370373": 1,
+      "gas:candidate-vibid:1001000195095": 0,
+      "gas:candidate-vibid:1001000289822": 2,
+      "gas:candidate-vibid:350300370382": 1,
+      "special:against-all": 12
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=503003001&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=350300370437&region=0&sub_region=0&type=429",
@@ -11672,15 +11672,15 @@ export const duma_2003_uik_428_region_50_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Арцибашев Александр Николаевич": 1,
-      "Ващенко Алексей Михайлович": 2,
-      "Гудков Геннадий Владимирович": 140,
-      "Кашин Владимир Иванович": 17,
-      "Королев Александр Петрович": 9,
-      "Котова Эльвира Степановна": 11,
-      "Кулешов Владимир Ефимович": 7,
-      "Кухаренко Александр Александрович": 2,
-      "Против всех": 17
+      "gas:candidate-vibid:1001000217934": 1,
+      "gas:candidate-vibid:350300370379": 2,
+      "gas:candidate-vibid:1001000131401": 140,
+      "gas:candidate-vibid:1001000121866": 17,
+      "gas:candidate-vibid:350300370373": 9,
+      "gas:candidate-vibid:1001000195095": 11,
+      "gas:candidate-vibid:1001000289822": 7,
+      "gas:candidate-vibid:350300370382": 2,
+      "special:against-all": 17
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=503003001&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=350300370437&region=0&sub_region=0&type=429",
@@ -11730,15 +11730,15 @@ export const duma_2003_uik_428_region_50_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Арцибашев Александр Николаевич": 14,
-      "Ващенко Алексей Михайлович": 14,
-      "Гудков Геннадий Владимирович": 385,
-      "Кашин Владимир Иванович": 103,
-      "Королев Александр Петрович": 38,
-      "Котова Эльвира Степановна": 6,
-      "Кулешов Владимир Ефимович": 17,
-      "Кухаренко Александр Александрович": 3,
-      "Против всех": 167
+      "gas:candidate-vibid:1001000217934": 14,
+      "gas:candidate-vibid:350300370379": 14,
+      "gas:candidate-vibid:1001000131401": 385,
+      "gas:candidate-vibid:1001000121866": 103,
+      "gas:candidate-vibid:350300370373": 38,
+      "gas:candidate-vibid:1001000195095": 6,
+      "gas:candidate-vibid:1001000289822": 17,
+      "gas:candidate-vibid:350300370382": 3,
+      "special:against-all": 167
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=503003001&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=350300370437&region=0&sub_region=0&type=429",
@@ -11788,15 +11788,15 @@ export const duma_2003_uik_428_region_50_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Арцибашев Александр Николаевич": 0,
-      "Ващенко Алексей Михайлович": 1,
-      "Гудков Геннадий Владимирович": 83,
-      "Кашин Владимир Иванович": 20,
-      "Королев Александр Петрович": 3,
-      "Котова Эльвира Степановна": 6,
-      "Кулешов Владимир Ефимович": 5,
-      "Кухаренко Александр Александрович": 0,
-      "Против всех": 23
+      "gas:candidate-vibid:1001000217934": 0,
+      "gas:candidate-vibid:350300370379": 1,
+      "gas:candidate-vibid:1001000131401": 83,
+      "gas:candidate-vibid:1001000121866": 20,
+      "gas:candidate-vibid:350300370373": 3,
+      "gas:candidate-vibid:1001000195095": 6,
+      "gas:candidate-vibid:1001000289822": 5,
+      "gas:candidate-vibid:350300370382": 0,
+      "special:against-all": 23
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=503003001&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=350300370437&region=0&sub_region=0&type=429",
@@ -11846,15 +11846,15 @@ export const duma_2003_uik_428_region_50_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Арцибашев Александр Николаевич": 13,
-      "Ващенко Алексей Михайлович": 7,
-      "Гудков Геннадий Владимирович": 227,
-      "Кашин Владимир Иванович": 58,
-      "Королев Александр Петрович": 27,
-      "Котова Эльвира Степановна": 7,
-      "Кулешов Владимир Ефимович": 5,
-      "Кухаренко Александр Александрович": 5,
-      "Против всех": 104
+      "gas:candidate-vibid:1001000217934": 13,
+      "gas:candidate-vibid:350300370379": 7,
+      "gas:candidate-vibid:1001000131401": 227,
+      "gas:candidate-vibid:1001000121866": 58,
+      "gas:candidate-vibid:350300370373": 27,
+      "gas:candidate-vibid:1001000195095": 7,
+      "gas:candidate-vibid:1001000289822": 5,
+      "gas:candidate-vibid:350300370382": 5,
+      "special:against-all": 104
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=503003001&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=350300370437&region=0&sub_region=0&type=429",
@@ -11904,15 +11904,15 @@ export const duma_2003_uik_428_region_50_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Арцибашев Александр Николаевич": 9,
-      "Ващенко Алексей Михайлович": 11,
-      "Гудков Геннадий Владимирович": 339,
-      "Кашин Владимир Иванович": 76,
-      "Королев Александр Петрович": 32,
-      "Котова Эльвира Степановна": 2,
-      "Кулешов Владимир Ефимович": 5,
-      "Кухаренко Александр Александрович": 5,
-      "Против всех": 93
+      "gas:candidate-vibid:1001000217934": 9,
+      "gas:candidate-vibid:350300370379": 11,
+      "gas:candidate-vibid:1001000131401": 339,
+      "gas:candidate-vibid:1001000121866": 76,
+      "gas:candidate-vibid:350300370373": 32,
+      "gas:candidate-vibid:1001000195095": 2,
+      "gas:candidate-vibid:1001000289822": 5,
+      "gas:candidate-vibid:350300370382": 5,
+      "special:against-all": 93
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=503003001&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=350300370437&region=0&sub_region=0&type=429",
@@ -11962,15 +11962,15 @@ export const duma_2003_uik_428_region_50_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Арцибашев Александр Николаевич": 2,
-      "Ващенко Алексей Михайлович": 4,
-      "Гудков Геннадий Владимирович": 195,
-      "Кашин Владимир Иванович": 33,
-      "Королев Александр Петрович": 7,
-      "Котова Эльвира Степановна": 3,
-      "Кулешов Владимир Ефимович": 2,
-      "Кухаренко Александр Александрович": 2,
-      "Против всех": 39
+      "gas:candidate-vibid:1001000217934": 2,
+      "gas:candidate-vibid:350300370379": 4,
+      "gas:candidate-vibid:1001000131401": 195,
+      "gas:candidate-vibid:1001000121866": 33,
+      "gas:candidate-vibid:350300370373": 7,
+      "gas:candidate-vibid:1001000195095": 3,
+      "gas:candidate-vibid:1001000289822": 2,
+      "gas:candidate-vibid:350300370382": 2,
+      "special:against-all": 39
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=503003001&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=350300370437&region=0&sub_region=0&type=429",
@@ -12020,15 +12020,15 @@ export const duma_2003_uik_428_region_50_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Арцибашев Александр Николаевич": 1,
-      "Ващенко Алексей Михайлович": 2,
-      "Гудков Геннадий Владимирович": 93,
-      "Кашин Владимир Иванович": 17,
-      "Королев Александр Петрович": 7,
-      "Котова Эльвира Степановна": 3,
-      "Кулешов Владимир Ефимович": 6,
-      "Кухаренко Александр Александрович": 2,
-      "Против всех": 21
+      "gas:candidate-vibid:1001000217934": 1,
+      "gas:candidate-vibid:350300370379": 2,
+      "gas:candidate-vibid:1001000131401": 93,
+      "gas:candidate-vibid:1001000121866": 17,
+      "gas:candidate-vibid:350300370373": 7,
+      "gas:candidate-vibid:1001000195095": 3,
+      "gas:candidate-vibid:1001000289822": 6,
+      "gas:candidate-vibid:350300370382": 2,
+      "special:against-all": 21
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=503003001&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=350300370437&region=0&sub_region=0&type=429",
@@ -12078,15 +12078,15 @@ export const duma_2003_uik_428_region_50_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Арцибашев Александр Николаевич": 16,
-      "Ващенко Алексей Михайлович": 9,
-      "Гудков Геннадий Владимирович": 236,
-      "Кашин Владимир Иванович": 97,
-      "Королев Александр Петрович": 36,
-      "Котова Эльвира Степановна": 7,
-      "Кулешов Владимир Ефимович": 7,
-      "Кухаренко Александр Александрович": 3,
-      "Против всех": 134
+      "gas:candidate-vibid:1001000217934": 16,
+      "gas:candidate-vibid:350300370379": 9,
+      "gas:candidate-vibid:1001000131401": 236,
+      "gas:candidate-vibid:1001000121866": 97,
+      "gas:candidate-vibid:350300370373": 36,
+      "gas:candidate-vibid:1001000195095": 7,
+      "gas:candidate-vibid:1001000289822": 7,
+      "gas:candidate-vibid:350300370382": 3,
+      "special:against-all": 134
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=503003001&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=350300370437&region=0&sub_region=0&type=429",
@@ -12136,15 +12136,15 @@ export const duma_2003_uik_428_region_50_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Арцибашев Александр Николаевич": 4,
-      "Ващенко Алексей Михайлович": 3,
-      "Гудков Геннадий Владимирович": 106,
-      "Кашин Владимир Иванович": 43,
-      "Королев Александр Петрович": 12,
-      "Котова Эльвира Степановна": 3,
-      "Кулешов Владимир Ефимович": 6,
-      "Кухаренко Александр Александрович": 2,
-      "Против всех": 37
+      "gas:candidate-vibid:1001000217934": 4,
+      "gas:candidate-vibid:350300370379": 3,
+      "gas:candidate-vibid:1001000131401": 106,
+      "gas:candidate-vibid:1001000121866": 43,
+      "gas:candidate-vibid:350300370373": 12,
+      "gas:candidate-vibid:1001000195095": 3,
+      "gas:candidate-vibid:1001000289822": 6,
+      "gas:candidate-vibid:350300370382": 2,
+      "special:against-all": 37
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=503003001&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=350300370437&region=0&sub_region=0&type=429",
@@ -12194,15 +12194,15 @@ export const duma_2003_uik_428_region_50_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Арцибашев Александр Николаевич": 7,
-      "Ващенко Алексей Михайлович": 6,
-      "Гудков Геннадий Владимирович": 101,
-      "Кашин Владимир Иванович": 87,
-      "Королев Александр Петрович": 11,
-      "Котова Эльвира Степановна": 10,
-      "Кулешов Владимир Ефимович": 5,
-      "Кухаренко Александр Александрович": 6,
-      "Против всех": 58
+      "gas:candidate-vibid:1001000217934": 7,
+      "gas:candidate-vibid:350300370379": 6,
+      "gas:candidate-vibid:1001000131401": 101,
+      "gas:candidate-vibid:1001000121866": 87,
+      "gas:candidate-vibid:350300370373": 11,
+      "gas:candidate-vibid:1001000195095": 10,
+      "gas:candidate-vibid:1001000289822": 5,
+      "gas:candidate-vibid:350300370382": 6,
+      "special:against-all": 58
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=503003001&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=350300370437&region=0&sub_region=0&type=429",
@@ -12252,15 +12252,15 @@ export const duma_2003_uik_428_region_50_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Арцибашев Александр Николаевич": 18,
-      "Ващенко Алексей Михайлович": 11,
-      "Гудков Геннадий Владимирович": 383,
-      "Кашин Владимир Иванович": 129,
-      "Королев Александр Петрович": 62,
-      "Котова Эльвира Степановна": 25,
-      "Кулешов Владимир Ефимович": 20,
-      "Кухаренко Александр Александрович": 7,
-      "Против всех": 177
+      "gas:candidate-vibid:1001000217934": 18,
+      "gas:candidate-vibid:350300370379": 11,
+      "gas:candidate-vibid:1001000131401": 383,
+      "gas:candidate-vibid:1001000121866": 129,
+      "gas:candidate-vibid:350300370373": 62,
+      "gas:candidate-vibid:1001000195095": 25,
+      "gas:candidate-vibid:1001000289822": 20,
+      "gas:candidate-vibid:350300370382": 7,
+      "special:against-all": 177
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=503003001&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=350300370437&region=0&sub_region=0&type=429",
@@ -12310,15 +12310,15 @@ export const duma_2003_uik_428_region_50_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Арцибашев Александр Николаевич": 26,
-      "Ващенко Алексей Михайлович": 15,
-      "Гудков Геннадий Владимирович": 436,
-      "Кашин Владимир Иванович": 237,
-      "Королев Александр Петрович": 42,
-      "Котова Эльвира Степановна": 17,
-      "Кулешов Владимир Ефимович": 20,
-      "Кухаренко Александр Александрович": 22,
-      "Против всех": 225
+      "gas:candidate-vibid:1001000217934": 26,
+      "gas:candidate-vibid:350300370379": 15,
+      "gas:candidate-vibid:1001000131401": 436,
+      "gas:candidate-vibid:1001000121866": 237,
+      "gas:candidate-vibid:350300370373": 42,
+      "gas:candidate-vibid:1001000195095": 17,
+      "gas:candidate-vibid:1001000289822": 20,
+      "gas:candidate-vibid:350300370382": 22,
+      "special:against-all": 225
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=503003001&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=350300370437&region=0&sub_region=0&type=429",
@@ -12368,15 +12368,15 @@ export const duma_2003_uik_428_region_50_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Арцибашев Александр Николаевич": 2,
-      "Ващенко Алексей Михайлович": 2,
-      "Гудков Геннадий Владимирович": 34,
-      "Кашин Владимир Иванович": 15,
-      "Королев Александр Петрович": 4,
-      "Котова Эльвира Степановна": 3,
-      "Кулешов Владимир Ефимович": 0,
-      "Кухаренко Александр Александрович": 1,
-      "Против всех": 8
+      "gas:candidate-vibid:1001000217934": 2,
+      "gas:candidate-vibid:350300370379": 2,
+      "gas:candidate-vibid:1001000131401": 34,
+      "gas:candidate-vibid:1001000121866": 15,
+      "gas:candidate-vibid:350300370373": 4,
+      "gas:candidate-vibid:1001000195095": 3,
+      "gas:candidate-vibid:1001000289822": 0,
+      "gas:candidate-vibid:350300370382": 1,
+      "special:against-all": 8
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=503003001&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=350300370437&region=0&sub_region=0&type=429",
@@ -12426,15 +12426,15 @@ export const duma_2003_uik_428_region_50_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Арцибашев Александр Николаевич": 5,
-      "Ващенко Алексей Михайлович": 1,
-      "Гудков Геннадий Владимирович": 123,
-      "Кашин Владимир Иванович": 36,
-      "Королев Александр Петрович": 5,
-      "Котова Эльвира Степановна": 1,
-      "Кулешов Владимир Ефимович": 7,
-      "Кухаренко Александр Александрович": 4,
-      "Против всех": 20
+      "gas:candidate-vibid:1001000217934": 5,
+      "gas:candidate-vibid:350300370379": 1,
+      "gas:candidate-vibid:1001000131401": 123,
+      "gas:candidate-vibid:1001000121866": 36,
+      "gas:candidate-vibid:350300370373": 5,
+      "gas:candidate-vibid:1001000195095": 1,
+      "gas:candidate-vibid:1001000289822": 7,
+      "gas:candidate-vibid:350300370382": 4,
+      "special:against-all": 20
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=503003001&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=350300370437&region=0&sub_region=0&type=429",
@@ -12484,15 +12484,15 @@ export const duma_2003_uik_428_region_50_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Арцибашев Александр Николаевич": 7,
-      "Ващенко Алексей Михайлович": 8,
-      "Гудков Геннадий Владимирович": 290,
-      "Кашин Владимир Иванович": 189,
-      "Королев Александр Петрович": 31,
-      "Котова Эльвира Степановна": 12,
-      "Кулешов Владимир Ефимович": 15,
-      "Кухаренко Александр Александрович": 2,
-      "Против всех": 142
+      "gas:candidate-vibid:1001000217934": 7,
+      "gas:candidate-vibid:350300370379": 8,
+      "gas:candidate-vibid:1001000131401": 290,
+      "gas:candidate-vibid:1001000121866": 189,
+      "gas:candidate-vibid:350300370373": 31,
+      "gas:candidate-vibid:1001000195095": 12,
+      "gas:candidate-vibid:1001000289822": 15,
+      "gas:candidate-vibid:350300370382": 2,
+      "special:against-all": 142
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=503003001&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=350300370437&region=0&sub_region=0&type=429",
@@ -12542,15 +12542,15 @@ export const duma_2003_uik_428_region_50_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Арцибашев Александр Николаевич": 5,
-      "Ващенко Алексей Михайлович": 3,
-      "Гудков Геннадий Владимирович": 107,
-      "Кашин Владимир Иванович": 92,
-      "Королев Александр Петрович": 16,
-      "Котова Эльвира Степановна": 3,
-      "Кулешов Владимир Ефимович": 5,
-      "Кухаренко Александр Александрович": 1,
-      "Против всех": 41
+      "gas:candidate-vibid:1001000217934": 5,
+      "gas:candidate-vibid:350300370379": 3,
+      "gas:candidate-vibid:1001000131401": 107,
+      "gas:candidate-vibid:1001000121866": 92,
+      "gas:candidate-vibid:350300370373": 16,
+      "gas:candidate-vibid:1001000195095": 3,
+      "gas:candidate-vibid:1001000289822": 5,
+      "gas:candidate-vibid:350300370382": 1,
+      "special:against-all": 41
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=503003001&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=350300370437&region=0&sub_region=0&type=429",
@@ -12600,15 +12600,15 @@ export const duma_2003_uik_428_region_50_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Арцибашев Александр Николаевич": 4,
-      "Ващенко Алексей Михайлович": 6,
-      "Гудков Геннадий Владимирович": 143,
-      "Кашин Владимир Иванович": 56,
-      "Королев Александр Петрович": 10,
-      "Котова Эльвира Степановна": 10,
-      "Кулешов Владимир Ефимович": 4,
-      "Кухаренко Александр Александрович": 4,
-      "Против всех": 35
+      "gas:candidate-vibid:1001000217934": 4,
+      "gas:candidate-vibid:350300370379": 6,
+      "gas:candidate-vibid:1001000131401": 143,
+      "gas:candidate-vibid:1001000121866": 56,
+      "gas:candidate-vibid:350300370373": 10,
+      "gas:candidate-vibid:1001000195095": 10,
+      "gas:candidate-vibid:1001000289822": 4,
+      "gas:candidate-vibid:350300370382": 4,
+      "special:against-all": 35
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=503003001&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=350300370437&region=0&sub_region=0&type=429",
@@ -12658,15 +12658,15 @@ export const duma_2003_uik_428_region_50_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Арцибашев Александр Николаевич": 2,
-      "Ващенко Алексей Михайлович": 3,
-      "Гудков Геннадий Владимирович": 112,
-      "Кашин Владимир Иванович": 90,
-      "Королев Александр Петрович": 7,
-      "Котова Эльвира Степановна": 3,
-      "Кулешов Владимир Ефимович": 1,
-      "Кухаренко Александр Александрович": 2,
-      "Против всех": 21
+      "gas:candidate-vibid:1001000217934": 2,
+      "gas:candidate-vibid:350300370379": 3,
+      "gas:candidate-vibid:1001000131401": 112,
+      "gas:candidate-vibid:1001000121866": 90,
+      "gas:candidate-vibid:350300370373": 7,
+      "gas:candidate-vibid:1001000195095": 3,
+      "gas:candidate-vibid:1001000289822": 1,
+      "gas:candidate-vibid:350300370382": 2,
+      "special:against-all": 21
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=503003001&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=350300370437&region=0&sub_region=0&type=429",
@@ -12716,15 +12716,15 @@ export const duma_2003_uik_428_region_50_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Арцибашев Александр Николаевич": 10,
-      "Ващенко Алексей Михайлович": 7,
-      "Гудков Геннадий Владимирович": 205,
-      "Кашин Владимир Иванович": 157,
-      "Королев Александр Петрович": 6,
-      "Котова Эльвира Степановна": 9,
-      "Кулешов Владимир Ефимович": 5,
-      "Кухаренко Александр Александрович": 1,
-      "Против всех": 43
+      "gas:candidate-vibid:1001000217934": 10,
+      "gas:candidate-vibid:350300370379": 7,
+      "gas:candidate-vibid:1001000131401": 205,
+      "gas:candidate-vibid:1001000121866": 157,
+      "gas:candidate-vibid:350300370373": 6,
+      "gas:candidate-vibid:1001000195095": 9,
+      "gas:candidate-vibid:1001000289822": 5,
+      "gas:candidate-vibid:350300370382": 1,
+      "special:against-all": 43
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=503003001&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=350300370437&region=0&sub_region=0&type=429",
@@ -12774,15 +12774,15 @@ export const duma_2003_uik_428_region_50_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Арцибашев Александр Николаевич": 16,
-      "Ващенко Алексей Михайлович": 13,
-      "Гудков Геннадий Владимирович": 183,
-      "Кашин Владимир Иванович": 28,
-      "Королев Александр Петрович": 51,
-      "Котова Эльвира Степановна": 7,
-      "Кулешов Владимир Ефимович": 11,
-      "Кухаренко Александр Александрович": 1,
-      "Против всех": 86
+      "gas:candidate-vibid:1001000217934": 16,
+      "gas:candidate-vibid:350300370379": 13,
+      "gas:candidate-vibid:1001000131401": 183,
+      "gas:candidate-vibid:1001000121866": 28,
+      "gas:candidate-vibid:350300370373": 51,
+      "gas:candidate-vibid:1001000195095": 7,
+      "gas:candidate-vibid:1001000289822": 11,
+      "gas:candidate-vibid:350300370382": 1,
+      "special:against-all": 86
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=503003001&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=350300370437&region=0&sub_region=0&type=429",
@@ -12832,15 +12832,15 @@ export const duma_2003_uik_428_region_50_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Арцибашев Александр Николаевич": 5,
-      "Ващенко Алексей Михайлович": 2,
-      "Гудков Геннадий Владимирович": 44,
-      "Кашин Владимир Иванович": 34,
-      "Королев Александр Петрович": 15,
-      "Котова Эльвира Степановна": 1,
-      "Кулешов Владимир Ефимович": 2,
-      "Кухаренко Александр Александрович": 0,
-      "Против всех": 27
+      "gas:candidate-vibid:1001000217934": 5,
+      "gas:candidate-vibid:350300370379": 2,
+      "gas:candidate-vibid:1001000131401": 44,
+      "gas:candidate-vibid:1001000121866": 34,
+      "gas:candidate-vibid:350300370373": 15,
+      "gas:candidate-vibid:1001000195095": 1,
+      "gas:candidate-vibid:1001000289822": 2,
+      "gas:candidate-vibid:350300370382": 0,
+      "special:against-all": 27
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=503003001&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=350300370437&region=0&sub_region=0&type=429",
@@ -12890,15 +12890,15 @@ export const duma_2003_uik_428_region_50_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Арцибашев Александр Николаевич": 5,
-      "Ващенко Алексей Михайлович": 3,
-      "Гудков Геннадий Владимирович": 59,
-      "Кашин Владимир Иванович": 17,
-      "Королев Александр Петрович": 8,
-      "Котова Эльвира Степановна": 2,
-      "Кулешов Владимир Ефимович": 2,
-      "Кухаренко Александр Александрович": 0,
-      "Против всех": 19
+      "gas:candidate-vibid:1001000217934": 5,
+      "gas:candidate-vibid:350300370379": 3,
+      "gas:candidate-vibid:1001000131401": 59,
+      "gas:candidate-vibid:1001000121866": 17,
+      "gas:candidate-vibid:350300370373": 8,
+      "gas:candidate-vibid:1001000195095": 2,
+      "gas:candidate-vibid:1001000289822": 2,
+      "gas:candidate-vibid:350300370382": 0,
+      "special:against-all": 19
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=503003001&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=350300370437&region=0&sub_region=0&type=429",
@@ -12948,15 +12948,15 @@ export const duma_2003_uik_428_region_50_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Арцибашев Александр Николаевич": 13,
-      "Ващенко Алексей Михайлович": 10,
-      "Гудков Геннадий Владимирович": 270,
-      "Кашин Владимир Иванович": 76,
-      "Королев Александр Петрович": 41,
-      "Котова Эльвира Степановна": 21,
-      "Кулешов Владимир Ефимович": 15,
-      "Кухаренко Александр Александрович": 4,
-      "Против всех": 172
+      "gas:candidate-vibid:1001000217934": 13,
+      "gas:candidate-vibid:350300370379": 10,
+      "gas:candidate-vibid:1001000131401": 270,
+      "gas:candidate-vibid:1001000121866": 76,
+      "gas:candidate-vibid:350300370373": 41,
+      "gas:candidate-vibid:1001000195095": 21,
+      "gas:candidate-vibid:1001000289822": 15,
+      "gas:candidate-vibid:350300370382": 4,
+      "special:against-all": 172
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=503003001&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=350300370437&region=0&sub_region=0&type=429",
@@ -13006,15 +13006,15 @@ export const duma_2003_uik_428_region_50_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Арцибашев Александр Николаевич": 10,
-      "Ващенко Алексей Михайлович": 11,
-      "Гудков Геннадий Владимирович": 209,
-      "Кашин Владимир Иванович": 98,
-      "Королев Александр Петрович": 29,
-      "Котова Эльвира Степановна": 14,
-      "Кулешов Владимир Ефимович": 13,
-      "Кухаренко Александр Александрович": 4,
-      "Против всех": 136
+      "gas:candidate-vibid:1001000217934": 10,
+      "gas:candidate-vibid:350300370379": 11,
+      "gas:candidate-vibid:1001000131401": 209,
+      "gas:candidate-vibid:1001000121866": 98,
+      "gas:candidate-vibid:350300370373": 29,
+      "gas:candidate-vibid:1001000195095": 14,
+      "gas:candidate-vibid:1001000289822": 13,
+      "gas:candidate-vibid:350300370382": 4,
+      "special:against-all": 136
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=503003001&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=350300370437&region=0&sub_region=0&type=429",
@@ -13064,15 +13064,15 @@ export const duma_2003_uik_428_region_50_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Арцибашев Александр Николаевич": 18,
-      "Ващенко Алексей Михайлович": 10,
-      "Гудков Геннадий Владимирович": 221,
-      "Кашин Владимир Иванович": 184,
-      "Королев Александр Петрович": 23,
-      "Котова Эльвира Степановна": 9,
-      "Кулешов Владимир Ефимович": 10,
-      "Кухаренко Александр Александрович": 3,
-      "Против всех": 69
+      "gas:candidate-vibid:1001000217934": 18,
+      "gas:candidate-vibid:350300370379": 10,
+      "gas:candidate-vibid:1001000131401": 221,
+      "gas:candidate-vibid:1001000121866": 184,
+      "gas:candidate-vibid:350300370373": 23,
+      "gas:candidate-vibid:1001000195095": 9,
+      "gas:candidate-vibid:1001000289822": 10,
+      "gas:candidate-vibid:350300370382": 3,
+      "special:against-all": 69
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=503003001&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=350300370437&region=0&sub_region=0&type=429",
@@ -13122,15 +13122,15 @@ export const duma_2003_uik_428_region_50_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Арцибашев Александр Николаевич": 3,
-      "Ващенко Алексей Михайлович": 1,
-      "Гудков Геннадий Владимирович": 54,
-      "Кашин Владимир Иванович": 16,
-      "Королев Александр Петрович": 4,
-      "Котова Эльвира Степановна": 0,
-      "Кулешов Владимир Ефимович": 4,
-      "Кухаренко Александр Александрович": 1,
-      "Против всех": 28
+      "gas:candidate-vibid:1001000217934": 3,
+      "gas:candidate-vibid:350300370379": 1,
+      "gas:candidate-vibid:1001000131401": 54,
+      "gas:candidate-vibid:1001000121866": 16,
+      "gas:candidate-vibid:350300370373": 4,
+      "gas:candidate-vibid:1001000195095": 0,
+      "gas:candidate-vibid:1001000289822": 4,
+      "gas:candidate-vibid:350300370382": 1,
+      "special:against-all": 28
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=503003001&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=350300370437&region=0&sub_region=0&type=429",
@@ -13180,15 +13180,15 @@ export const duma_2003_uik_428_region_50_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Арцибашев Александр Николаевич": 8,
-      "Ващенко Алексей Михайлович": 1,
-      "Гудков Геннадий Владимирович": 224,
-      "Кашин Владимир Иванович": 21,
-      "Королев Александр Петрович": 12,
-      "Котова Эльвира Степановна": 2,
-      "Кулешов Владимир Ефимович": 7,
-      "Кухаренко Александр Александрович": 3,
-      "Против всех": 32
+      "gas:candidate-vibid:1001000217934": 8,
+      "gas:candidate-vibid:350300370379": 1,
+      "gas:candidate-vibid:1001000131401": 224,
+      "gas:candidate-vibid:1001000121866": 21,
+      "gas:candidate-vibid:350300370373": 12,
+      "gas:candidate-vibid:1001000195095": 2,
+      "gas:candidate-vibid:1001000289822": 7,
+      "gas:candidate-vibid:350300370382": 3,
+      "special:against-all": 32
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=503003001&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=350300370437&region=0&sub_region=0&type=429",
@@ -13238,15 +13238,15 @@ export const duma_2003_uik_428_region_50_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Арцибашев Александр Николаевич": 1,
-      "Ващенко Алексей Михайлович": 6,
-      "Гудков Геннадий Владимирович": 74,
-      "Кашин Владимир Иванович": 30,
-      "Королев Александр Петрович": 5,
-      "Котова Эльвира Степановна": 6,
-      "Кулешов Владимир Ефимович": 6,
-      "Кухаренко Александр Александрович": 1,
-      "Против всех": 43
+      "gas:candidate-vibid:1001000217934": 1,
+      "gas:candidate-vibid:350300370379": 6,
+      "gas:candidate-vibid:1001000131401": 74,
+      "gas:candidate-vibid:1001000121866": 30,
+      "gas:candidate-vibid:350300370373": 5,
+      "gas:candidate-vibid:1001000195095": 6,
+      "gas:candidate-vibid:1001000289822": 6,
+      "gas:candidate-vibid:350300370382": 1,
+      "special:against-all": 43
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=503003001&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=350300370437&region=0&sub_region=0&type=429",
@@ -13296,15 +13296,15 @@ export const duma_2003_uik_428_region_50_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Арцибашев Александр Николаевич": 13,
-      "Ващенко Алексей Михайлович": 11,
-      "Гудков Геннадий Владимирович": 435,
-      "Кашин Владимир Иванович": 131,
-      "Королев Александр Петрович": 19,
-      "Котова Эльвира Степановна": 8,
-      "Кулешов Владимир Ефимович": 14,
-      "Кухаренко Александр Александрович": 5,
-      "Против всех": 130
+      "gas:candidate-vibid:1001000217934": 13,
+      "gas:candidate-vibid:350300370379": 11,
+      "gas:candidate-vibid:1001000131401": 435,
+      "gas:candidate-vibid:1001000121866": 131,
+      "gas:candidate-vibid:350300370373": 19,
+      "gas:candidate-vibid:1001000195095": 8,
+      "gas:candidate-vibid:1001000289822": 14,
+      "gas:candidate-vibid:350300370382": 5,
+      "special:against-all": 130
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=503003001&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=350300370437&region=0&sub_region=0&type=429",
@@ -13354,15 +13354,15 @@ export const duma_2003_uik_428_region_50_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Арцибашев Александр Николаевич": 6,
-      "Ващенко Алексей Михайлович": 6,
-      "Гудков Геннадий Владимирович": 94,
-      "Кашин Владимир Иванович": 28,
-      "Королев Александр Петрович": 20,
-      "Котова Эльвира Степановна": 0,
-      "Кулешов Владимир Ефимович": 5,
-      "Кухаренко Александр Александрович": 3,
-      "Против всех": 29
+      "gas:candidate-vibid:1001000217934": 6,
+      "gas:candidate-vibid:350300370379": 6,
+      "gas:candidate-vibid:1001000131401": 94,
+      "gas:candidate-vibid:1001000121866": 28,
+      "gas:candidate-vibid:350300370373": 20,
+      "gas:candidate-vibid:1001000195095": 0,
+      "gas:candidate-vibid:1001000289822": 5,
+      "gas:candidate-vibid:350300370382": 3,
+      "special:against-all": 29
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=503003001&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=350300370437&region=0&sub_region=0&type=429",
@@ -13412,15 +13412,15 @@ export const duma_2003_uik_428_region_50_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Арцибашев Александр Николаевич": 7,
-      "Ващенко Алексей Михайлович": 6,
-      "Гудков Геннадий Владимирович": 338,
-      "Кашин Владимир Иванович": 103,
-      "Королев Александр Петрович": 27,
-      "Котова Эльвира Степановна": 10,
-      "Кулешов Владимир Ефимович": 11,
-      "Кухаренко Александр Александрович": 5,
-      "Против всех": 57
+      "gas:candidate-vibid:1001000217934": 7,
+      "gas:candidate-vibid:350300370379": 6,
+      "gas:candidate-vibid:1001000131401": 338,
+      "gas:candidate-vibid:1001000121866": 103,
+      "gas:candidate-vibid:350300370373": 27,
+      "gas:candidate-vibid:1001000195095": 10,
+      "gas:candidate-vibid:1001000289822": 11,
+      "gas:candidate-vibid:350300370382": 5,
+      "special:against-all": 57
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=503003002&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=350300370438&region=0&sub_region=0&type=429",
@@ -13470,15 +13470,15 @@ export const duma_2003_uik_428_region_50_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Арцибашев Александр Николаевич": 7,
-      "Ващенко Алексей Михайлович": 7,
-      "Гудков Геннадий Владимирович": 277,
-      "Кашин Владимир Иванович": 99,
-      "Королев Александр Петрович": 34,
-      "Котова Эльвира Степановна": 12,
-      "Кулешов Владимир Ефимович": 16,
-      "Кухаренко Александр Александрович": 4,
-      "Против всех": 73
+      "gas:candidate-vibid:1001000217934": 7,
+      "gas:candidate-vibid:350300370379": 7,
+      "gas:candidate-vibid:1001000131401": 277,
+      "gas:candidate-vibid:1001000121866": 99,
+      "gas:candidate-vibid:350300370373": 34,
+      "gas:candidate-vibid:1001000195095": 12,
+      "gas:candidate-vibid:1001000289822": 16,
+      "gas:candidate-vibid:350300370382": 4,
+      "special:against-all": 73
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=503003002&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=350300370438&region=0&sub_region=0&type=429",
@@ -13528,15 +13528,15 @@ export const duma_2003_uik_428_region_50_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Арцибашев Александр Николаевич": 12,
-      "Ващенко Алексей Михайлович": 3,
-      "Гудков Геннадий Владимирович": 386,
-      "Кашин Владимир Иванович": 115,
-      "Королев Александр Петрович": 24,
-      "Котова Эльвира Степановна": 13,
-      "Кулешов Владимир Ефимович": 20,
-      "Кухаренко Александр Александрович": 7,
-      "Против всех": 81
+      "gas:candidate-vibid:1001000217934": 12,
+      "gas:candidate-vibid:350300370379": 3,
+      "gas:candidate-vibid:1001000131401": 386,
+      "gas:candidate-vibid:1001000121866": 115,
+      "gas:candidate-vibid:350300370373": 24,
+      "gas:candidate-vibid:1001000195095": 13,
+      "gas:candidate-vibid:1001000289822": 20,
+      "gas:candidate-vibid:350300370382": 7,
+      "special:against-all": 81
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=503003002&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=350300370438&region=0&sub_region=0&type=429",
@@ -13586,15 +13586,15 @@ export const duma_2003_uik_428_region_50_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Арцибашев Александр Николаевич": 6,
-      "Ващенко Алексей Михайлович": 8,
-      "Гудков Геннадий Владимирович": 356,
-      "Кашин Владимир Иванович": 126,
-      "Королев Александр Петрович": 29,
-      "Котова Эльвира Степановна": 8,
-      "Кулешов Владимир Ефимович": 9,
-      "Кухаренко Александр Александрович": 5,
-      "Против всех": 86
+      "gas:candidate-vibid:1001000217934": 6,
+      "gas:candidate-vibid:350300370379": 8,
+      "gas:candidate-vibid:1001000131401": 356,
+      "gas:candidate-vibid:1001000121866": 126,
+      "gas:candidate-vibid:350300370373": 29,
+      "gas:candidate-vibid:1001000195095": 8,
+      "gas:candidate-vibid:1001000289822": 9,
+      "gas:candidate-vibid:350300370382": 5,
+      "special:against-all": 86
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=503003002&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=350300370438&region=0&sub_region=0&type=429",
@@ -13644,15 +13644,15 @@ export const duma_2003_uik_428_region_50_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Арцибашев Александр Николаевич": 7,
-      "Ващенко Алексей Михайлович": 4,
-      "Гудков Геннадий Владимирович": 363,
-      "Кашин Владимир Иванович": 67,
-      "Королев Александр Петрович": 40,
-      "Котова Эльвира Степановна": 22,
-      "Кулешов Владимир Ефимович": 23,
-      "Кухаренко Александр Александрович": 3,
-      "Против всех": 124
+      "gas:candidate-vibid:1001000217934": 7,
+      "gas:candidate-vibid:350300370379": 4,
+      "gas:candidate-vibid:1001000131401": 363,
+      "gas:candidate-vibid:1001000121866": 67,
+      "gas:candidate-vibid:350300370373": 40,
+      "gas:candidate-vibid:1001000195095": 22,
+      "gas:candidate-vibid:1001000289822": 23,
+      "gas:candidate-vibid:350300370382": 3,
+      "special:against-all": 124
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=503003002&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=350300370438&region=0&sub_region=0&type=429",
@@ -13702,15 +13702,15 @@ export const duma_2003_uik_428_region_50_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Арцибашев Александр Николаевич": 35,
-      "Ващенко Алексей Михайлович": 136,
-      "Гудков Геннадий Владимирович": 444,
-      "Кашин Владимир Иванович": 196,
-      "Королев Александр Петрович": 100,
-      "Котова Эльвира Степановна": 72,
-      "Кулешов Владимир Ефимович": 21,
-      "Кухаренко Александр Александрович": 101,
-      "Против всех": 501
+      "gas:candidate-vibid:1001000217934": 35,
+      "gas:candidate-vibid:350300370379": 136,
+      "gas:candidate-vibid:1001000131401": 444,
+      "gas:candidate-vibid:1001000121866": 196,
+      "gas:candidate-vibid:350300370373": 100,
+      "gas:candidate-vibid:1001000195095": 72,
+      "gas:candidate-vibid:1001000289822": 21,
+      "gas:candidate-vibid:350300370382": 101,
+      "special:against-all": 501
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=503003002&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=350300370438&region=0&sub_region=0&type=429",
@@ -13760,15 +13760,15 @@ export const duma_2003_uik_428_region_50_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Арцибашев Александр Николаевич": 13,
-      "Ващенко Алексей Михайлович": 38,
-      "Гудков Геннадий Владимирович": 557,
-      "Кашин Владимир Иванович": 254,
-      "Королев Александр Петрович": 92,
-      "Котова Эльвира Степановна": 27,
-      "Кулешов Владимир Ефимович": 26,
-      "Кухаренко Александр Александрович": 17,
-      "Против всех": 215
+      "gas:candidate-vibid:1001000217934": 13,
+      "gas:candidate-vibid:350300370379": 38,
+      "gas:candidate-vibid:1001000131401": 557,
+      "gas:candidate-vibid:1001000121866": 254,
+      "gas:candidate-vibid:350300370373": 92,
+      "gas:candidate-vibid:1001000195095": 27,
+      "gas:candidate-vibid:1001000289822": 26,
+      "gas:candidate-vibid:350300370382": 17,
+      "special:against-all": 215
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=503003002&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=350300370438&region=0&sub_region=0&type=429",
@@ -13818,15 +13818,15 @@ export const duma_2003_uik_428_region_50_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Арцибашев Александр Николаевич": 12,
-      "Ващенко Алексей Михайлович": 7,
-      "Гудков Геннадий Владимирович": 327,
-      "Кашин Владимир Иванович": 85,
-      "Королев Александр Петрович": 40,
-      "Котова Эльвира Степановна": 20,
-      "Кулешов Владимир Ефимович": 18,
-      "Кухаренко Александр Александрович": 10,
-      "Против всех": 112
+      "gas:candidate-vibid:1001000217934": 12,
+      "gas:candidate-vibid:350300370379": 7,
+      "gas:candidate-vibid:1001000131401": 327,
+      "gas:candidate-vibid:1001000121866": 85,
+      "gas:candidate-vibid:350300370373": 40,
+      "gas:candidate-vibid:1001000195095": 20,
+      "gas:candidate-vibid:1001000289822": 18,
+      "gas:candidate-vibid:350300370382": 10,
+      "special:against-all": 112
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=503003002&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=350300370438&region=0&sub_region=0&type=429",
@@ -13876,15 +13876,15 @@ export const duma_2003_uik_428_region_50_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Арцибашев Александр Николаевич": 28,
-      "Ващенко Алексей Михайлович": 23,
-      "Гудков Геннадий Владимирович": 796,
-      "Кашин Владимир Иванович": 183,
-      "Королев Александр Петрович": 88,
-      "Котова Эльвира Степановна": 32,
-      "Кулешов Владимир Ефимович": 25,
-      "Кухаренко Александр Александрович": 21,
-      "Против всех": 244
+      "gas:candidate-vibid:1001000217934": 28,
+      "gas:candidate-vibid:350300370379": 23,
+      "gas:candidate-vibid:1001000131401": 796,
+      "gas:candidate-vibid:1001000121866": 183,
+      "gas:candidate-vibid:350300370373": 88,
+      "gas:candidate-vibid:1001000195095": 32,
+      "gas:candidate-vibid:1001000289822": 25,
+      "gas:candidate-vibid:350300370382": 21,
+      "special:against-all": 244
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=503003002&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=350300370438&region=0&sub_region=0&type=429",
@@ -13934,15 +13934,15 @@ export const duma_2003_uik_428_region_50_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Арцибашев Александр Николаевич": 6,
-      "Ващенко Алексей Михайлович": 4,
-      "Гудков Геннадий Владимирович": 252,
-      "Кашин Владимир Иванович": 140,
-      "Королев Александр Петрович": 22,
-      "Котова Эльвира Степановна": 7,
-      "Кулешов Владимир Ефимович": 19,
-      "Кухаренко Александр Александрович": 17,
-      "Против всех": 93
+      "gas:candidate-vibid:1001000217934": 6,
+      "gas:candidate-vibid:350300370379": 4,
+      "gas:candidate-vibid:1001000131401": 252,
+      "gas:candidate-vibid:1001000121866": 140,
+      "gas:candidate-vibid:350300370373": 22,
+      "gas:candidate-vibid:1001000195095": 7,
+      "gas:candidate-vibid:1001000289822": 19,
+      "gas:candidate-vibid:350300370382": 17,
+      "special:against-all": 93
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=503003002&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=350300370438&region=0&sub_region=0&type=429",
@@ -13992,15 +13992,15 @@ export const duma_2003_uik_428_region_50_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Арцибашев Александр Николаевич": 17,
-      "Ващенко Алексей Михайлович": 15,
-      "Гудков Геннадий Владимирович": 528,
-      "Кашин Владимир Иванович": 158,
-      "Королев Александр Петрович": 60,
-      "Котова Эльвира Степановна": 21,
-      "Кулешов Владимир Ефимович": 19,
-      "Кухаренко Александр Александрович": 7,
-      "Против всех": 180
+      "gas:candidate-vibid:1001000217934": 17,
+      "gas:candidate-vibid:350300370379": 15,
+      "gas:candidate-vibid:1001000131401": 528,
+      "gas:candidate-vibid:1001000121866": 158,
+      "gas:candidate-vibid:350300370373": 60,
+      "gas:candidate-vibid:1001000195095": 21,
+      "gas:candidate-vibid:1001000289822": 19,
+      "gas:candidate-vibid:350300370382": 7,
+      "special:against-all": 180
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=503003002&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=350300370438&region=0&sub_region=0&type=429",
@@ -14050,15 +14050,15 @@ export const duma_2003_uik_428_region_50_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Арцибашев Александр Николаевич": 11,
-      "Ващенко Алексей Михайлович": 8,
-      "Гудков Геннадий Владимирович": 512,
-      "Кашин Владимир Иванович": 108,
-      "Королев Александр Петрович": 68,
-      "Котова Эльвира Степановна": 15,
-      "Кулешов Владимир Ефимович": 31,
-      "Кухаренко Александр Александрович": 23,
-      "Против всех": 120
+      "gas:candidate-vibid:1001000217934": 11,
+      "gas:candidate-vibid:350300370379": 8,
+      "gas:candidate-vibid:1001000131401": 512,
+      "gas:candidate-vibid:1001000121866": 108,
+      "gas:candidate-vibid:350300370373": 68,
+      "gas:candidate-vibid:1001000195095": 15,
+      "gas:candidate-vibid:1001000289822": 31,
+      "gas:candidate-vibid:350300370382": 23,
+      "special:against-all": 120
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=503003002&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=350300370438&region=0&sub_region=0&type=429",
@@ -14108,15 +14108,15 @@ export const duma_2003_uik_428_region_50_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Арцибашев Александр Николаевич": 18,
-      "Ващенко Алексей Михайлович": 14,
-      "Гудков Геннадий Владимирович": 338,
-      "Кашин Владимир Иванович": 133,
-      "Королев Александр Петрович": 47,
-      "Котова Эльвира Степановна": 29,
-      "Кулешов Владимир Ефимович": 15,
-      "Кухаренко Александр Александрович": 14,
-      "Против всех": 125
+      "gas:candidate-vibid:1001000217934": 18,
+      "gas:candidate-vibid:350300370379": 14,
+      "gas:candidate-vibid:1001000131401": 338,
+      "gas:candidate-vibid:1001000121866": 133,
+      "gas:candidate-vibid:350300370373": 47,
+      "gas:candidate-vibid:1001000195095": 29,
+      "gas:candidate-vibid:1001000289822": 15,
+      "gas:candidate-vibid:350300370382": 14,
+      "special:against-all": 125
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=503003002&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=350300370438&region=0&sub_region=0&type=429",
@@ -14166,15 +14166,15 @@ export const duma_2003_uik_428_region_50_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Арцибашев Александр Николаевич": 16,
-      "Ващенко Алексей Михайлович": 22,
-      "Гудков Геннадий Владимирович": 469,
-      "Кашин Владимир Иванович": 152,
-      "Королев Александр Петрович": 92,
-      "Котова Эльвира Степановна": 30,
-      "Кулешов Владимир Ефимович": 32,
-      "Кухаренко Александр Александрович": 10,
-      "Против всех": 154
+      "gas:candidate-vibid:1001000217934": 16,
+      "gas:candidate-vibid:350300370379": 22,
+      "gas:candidate-vibid:1001000131401": 469,
+      "gas:candidate-vibid:1001000121866": 152,
+      "gas:candidate-vibid:350300370373": 92,
+      "gas:candidate-vibid:1001000195095": 30,
+      "gas:candidate-vibid:1001000289822": 32,
+      "gas:candidate-vibid:350300370382": 10,
+      "special:against-all": 154
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=503003002&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=350300370438&region=0&sub_region=0&type=429",
@@ -14224,15 +14224,15 @@ export const duma_2003_uik_428_region_50_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Арцибашев Александр Николаевич": 12,
-      "Ващенко Алексей Михайлович": 9,
-      "Гудков Геннадий Владимирович": 187,
-      "Кашин Владимир Иванович": 62,
-      "Королев Александр Петрович": 39,
-      "Котова Эльвира Степановна": 11,
-      "Кулешов Владимир Ефимович": 14,
-      "Кухаренко Александр Александрович": 4,
-      "Против всех": 54
+      "gas:candidate-vibid:1001000217934": 12,
+      "gas:candidate-vibid:350300370379": 9,
+      "gas:candidate-vibid:1001000131401": 187,
+      "gas:candidate-vibid:1001000121866": 62,
+      "gas:candidate-vibid:350300370373": 39,
+      "gas:candidate-vibid:1001000195095": 11,
+      "gas:candidate-vibid:1001000289822": 14,
+      "gas:candidate-vibid:350300370382": 4,
+      "special:against-all": 54
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=503003002&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=350300370438&region=0&sub_region=0&type=429",
@@ -14282,15 +14282,15 @@ export const duma_2003_uik_428_region_50_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Арцибашев Александр Николаевич": 17,
-      "Ващенко Алексей Михайлович": 7,
-      "Гудков Геннадий Владимирович": 562,
-      "Кашин Владимир Иванович": 226,
-      "Королев Александр Петрович": 70,
-      "Котова Эльвира Степановна": 21,
-      "Кулешов Владимир Ефимович": 23,
-      "Кухаренко Александр Александрович": 21,
-      "Против всех": 231
+      "gas:candidate-vibid:1001000217934": 17,
+      "gas:candidate-vibid:350300370379": 7,
+      "gas:candidate-vibid:1001000131401": 562,
+      "gas:candidate-vibid:1001000121866": 226,
+      "gas:candidate-vibid:350300370373": 70,
+      "gas:candidate-vibid:1001000195095": 21,
+      "gas:candidate-vibid:1001000289822": 23,
+      "gas:candidate-vibid:350300370382": 21,
+      "special:against-all": 231
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=503003002&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=350300370438&region=0&sub_region=0&type=429",
@@ -14340,15 +14340,15 @@ export const duma_2003_uik_428_region_50_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Арцибашев Александр Николаевич": 10,
-      "Ващенко Алексей Михайлович": 13,
-      "Гудков Геннадий Владимирович": 297,
-      "Кашин Владимир Иванович": 99,
-      "Королев Александр Петрович": 59,
-      "Котова Эльвира Степановна": 24,
-      "Кулешов Владимир Ефимович": 24,
-      "Кухаренко Александр Александрович": 12,
-      "Против всех": 153
+      "gas:candidate-vibid:1001000217934": 10,
+      "gas:candidate-vibid:350300370379": 13,
+      "gas:candidate-vibid:1001000131401": 297,
+      "gas:candidate-vibid:1001000121866": 99,
+      "gas:candidate-vibid:350300370373": 59,
+      "gas:candidate-vibid:1001000195095": 24,
+      "gas:candidate-vibid:1001000289822": 24,
+      "gas:candidate-vibid:350300370382": 12,
+      "special:against-all": 153
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=503003002&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=350300370438&region=0&sub_region=0&type=429",
@@ -14398,15 +14398,15 @@ export const duma_2003_uik_428_region_50_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Арцибашев Александр Николаевич": 12,
-      "Ващенко Алексей Михайлович": 33,
-      "Гудков Геннадий Владимирович": 597,
-      "Кашин Владимир Иванович": 280,
-      "Королев Александр Петрович": 120,
-      "Котова Эльвира Степановна": 34,
-      "Кулешов Владимир Ефимович": 21,
-      "Кухаренко Александр Александрович": 14,
-      "Против всех": 248
+      "gas:candidate-vibid:1001000217934": 12,
+      "gas:candidate-vibid:350300370379": 33,
+      "gas:candidate-vibid:1001000131401": 597,
+      "gas:candidate-vibid:1001000121866": 280,
+      "gas:candidate-vibid:350300370373": 120,
+      "gas:candidate-vibid:1001000195095": 34,
+      "gas:candidate-vibid:1001000289822": 21,
+      "gas:candidate-vibid:350300370382": 14,
+      "special:against-all": 248
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=503003002&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=350300370438&region=0&sub_region=0&type=429",
@@ -14456,15 +14456,15 @@ export const duma_2003_uik_428_region_50_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Арцибашев Александр Николаевич": 17,
-      "Ващенко Алексей Михайлович": 19,
-      "Гудков Геннадий Владимирович": 343,
-      "Кашин Владимир Иванович": 217,
-      "Королев Александр Петрович": 71,
-      "Котова Эльвира Степановна": 22,
-      "Кулешов Владимир Ефимович": 9,
-      "Кухаренко Александр Александрович": 8,
-      "Против всех": 159
+      "gas:candidate-vibid:1001000217934": 17,
+      "gas:candidate-vibid:350300370379": 19,
+      "gas:candidate-vibid:1001000131401": 343,
+      "gas:candidate-vibid:1001000121866": 217,
+      "gas:candidate-vibid:350300370373": 71,
+      "gas:candidate-vibid:1001000195095": 22,
+      "gas:candidate-vibid:1001000289822": 9,
+      "gas:candidate-vibid:350300370382": 8,
+      "special:against-all": 159
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=503003002&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=350300370438&region=0&sub_region=0&type=429",
@@ -14514,15 +14514,15 @@ export const duma_2003_uik_428_region_50_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Арцибашев Александр Николаевич": 9,
-      "Ващенко Алексей Михайлович": 5,
-      "Гудков Геннадий Владимирович": 238,
-      "Кашин Владимир Иванович": 48,
-      "Королев Александр Петрович": 36,
-      "Котова Эльвира Степановна": 13,
-      "Кулешов Владимир Ефимович": 11,
-      "Кухаренко Александр Александрович": 7,
-      "Против всех": 96
+      "gas:candidate-vibid:1001000217934": 9,
+      "gas:candidate-vibid:350300370379": 5,
+      "gas:candidate-vibid:1001000131401": 238,
+      "gas:candidate-vibid:1001000121866": 48,
+      "gas:candidate-vibid:350300370373": 36,
+      "gas:candidate-vibid:1001000195095": 13,
+      "gas:candidate-vibid:1001000289822": 11,
+      "gas:candidate-vibid:350300370382": 7,
+      "special:against-all": 96
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=503003002&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=350300370438&region=0&sub_region=0&type=429",
@@ -14572,15 +14572,15 @@ export const duma_2003_uik_428_region_50_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Арцибашев Александр Николаевич": 8,
-      "Ващенко Алексей Михайлович": 5,
-      "Гудков Геннадий Владимирович": 184,
-      "Кашин Владимир Иванович": 52,
-      "Королев Александр Петрович": 31,
-      "Котова Эльвира Степановна": 12,
-      "Кулешов Владимир Ефимович": 7,
-      "Кухаренко Александр Александрович": 2,
-      "Против всех": 51
+      "gas:candidate-vibid:1001000217934": 8,
+      "gas:candidate-vibid:350300370379": 5,
+      "gas:candidate-vibid:1001000131401": 184,
+      "gas:candidate-vibid:1001000121866": 52,
+      "gas:candidate-vibid:350300370373": 31,
+      "gas:candidate-vibid:1001000195095": 12,
+      "gas:candidate-vibid:1001000289822": 7,
+      "gas:candidate-vibid:350300370382": 2,
+      "special:against-all": 51
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=503003002&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=350300370438&region=0&sub_region=0&type=429",
@@ -14630,15 +14630,15 @@ export const duma_2003_uik_428_region_50_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Арцибашев Александр Николаевич": 9,
-      "Ващенко Алексей Михайлович": 4,
-      "Гудков Геннадий Владимирович": 184,
-      "Кашин Владимир Иванович": 68,
-      "Королев Александр Петрович": 34,
-      "Котова Эльвира Степановна": 13,
-      "Кулешов Владимир Ефимович": 11,
-      "Кухаренко Александр Александрович": 7,
-      "Против всех": 63
+      "gas:candidate-vibid:1001000217934": 9,
+      "gas:candidate-vibid:350300370379": 4,
+      "gas:candidate-vibid:1001000131401": 184,
+      "gas:candidate-vibid:1001000121866": 68,
+      "gas:candidate-vibid:350300370373": 34,
+      "gas:candidate-vibid:1001000195095": 13,
+      "gas:candidate-vibid:1001000289822": 11,
+      "gas:candidate-vibid:350300370382": 7,
+      "special:against-all": 63
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=503003002&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=350300370438&region=0&sub_region=0&type=429",
